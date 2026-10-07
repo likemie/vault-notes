@@ -8,10 +8,10 @@ aliases:
 summary: "高科技元器件厂商与下游整机用户之间的知识转移与协同设计接口机制，通过招募具备系统架构经验的工程师、免费输出开源应用说明书、研制示范系统原型并联合定制专用器件，在技术革命早期实质性扮演客户的外部研发与工程教育机构，消除通用技术扩散的知识与应用壁垒。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/engineering-education
   - theme/technology-transfer
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Engineering Education]]"
   - "[[Paradigm]]"
   - "[[Technology Transfer]]"
+  - "[[Problem Solving]]"
   - "[[Document]]"
   - "[[Assemblage]]"
   - "[[Reliability]]"
@@ -81,7 +82,7 @@ updated: 2026-10-07
 > | 比较维度 | 应用工程（Application Engineering） | 传统技术支持（Customer Support） | 联合研发（Joint R&D） |
 > |---|---|---|---|
 > | **主导主体** | 元器件/底层技术供应商设立的专业应用实验室 | 销售与售后服务部门 | 校企或企业间对等研发团队 |
-> | **核心职能** | 系统级参考设计、开源工程教程、客户工程技能培育 | 故障排查、参数答疑与产品质保 | 针对特定专有课题进行攻关 |
+> | **核心职能** | 系统级参考设计、开源工程教程、客户工程技能培育 | [[Problem Solving\|故障排查]]、参数答疑与产品质保 | 针对特定专有课题进行攻关 |
 > | **知识流向** | 双向循环：吸纳系统知识反哺芯片，输出方案教育用户 | 单向输出操作规程与参数规格 | 双向联合攻关与知识产权共享 |
 > | **典型输出** | 《应用说明书》、示范样机（全晶体管电视/收音机）、定制电路 | 维修手册、规格书（Datasheet） | 专利成果、联合署名论文或排他产品 |
 > | **代表[[Document\|文献]]** | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999)]] | 传统工程文献 | 产学研合作文献 |

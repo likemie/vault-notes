@@ -2084,7 +2084,9 @@
       "问题解决",
       "问题解决能力",
       "复杂问题解决",
-      "Complex Problem Solving"
+      "Complex Problem Solving",
+      "故障排查",
+      "Troubleshooting"
     ]
   },
   {
@@ -3840,7 +3842,10 @@
     "path": "wiki/concepts/educational-philosophy/Phronesis.md",
     "aliases": [
       "实践明智",
-      "实践智慧"
+      "实践智慧",
+      "实践理性",
+      "Practical Wisdom",
+      "Clinical Judgement"
     ]
   },
   {

@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Star Scientists",
+      "path": "wiki/concepts/university-industry-collaboration/Star Scientists.md"
+    },
+    {
       "basename": "Argument_Kratsios_2026_OSTP",
       "path": "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md"
+    },
+    {
+      "basename": "Process Knowledge",
+      "path": "wiki/concepts/university-industry-collaboration/Process Knowledge.md"
+    },
+    {
+      "basename": "Kratsios_2026_OSTP",
+      "path": "sources/Kratsios_2026_OSTP/Kratsios_2026_OSTP.md"
+    },
+    {
+      "basename": "Linear Model of Innovation",
+      "path": "wiki/concepts/university-industry-collaboration/Linear Model of Innovation.md"
     },
     {
       "basename": "Portfolio-Based Research Funding",
@@ -133,10 +149,6 @@
       "path": "wiki/concepts/competency-and-assessment/Creativity.md"
     },
     {
-      "basename": "Star Scientists",
-      "path": "wiki/concepts/university-industry-collaboration/Star Scientists.md"
-    },
-    {
       "basename": "National Science Foundation",
       "path": "wiki/facts/us/National Science Foundation.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Genesis Mission",
       "path": "wiki/facts/us/Genesis Mission.md"
-    },
-    {
-      "basename": "Restoring Gold Standard Science Executive Order",
-      "path": "wiki/facts/us/Restoring Gold Standard Science Executive Order.md"
-    },
-    {
-      "basename": "Nuclear Regulatory Reform Executive Orders 2025",
-      "path": "wiki/facts/us/Nuclear Regulatory Reform Executive Orders 2025.md"
-    },
-    {
-      "basename": "Sematech",
-      "path": "wiki/facts/us/Sematech.md"
     }
   ],
   "omittedPaths": [],

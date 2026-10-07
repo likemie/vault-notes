@@ -67,6 +67,7 @@ updated: 2026-10-07
 
 > [!def] 核心定义
 > 过程知识（Process Knowledge）是指深植于熟练工程师、技师与实验科研人员身体经验之中，无法被文字、图纸、配方或专利完全[[Coding in Qualitative Research|编码]]的排障手感、即兴调优直觉与复杂工艺权衡经验。它与实体物理工具（如光刻机、反应釜）和显性规程（如工程图纸、标准操作规范）共同构成技术的三大支柱，是决定一项科学理论能否在物理实体世界中被稳定制造并持续迭代的[[21st Century Skills and Competencies Discourse|关键能力]]层。[[Argument_Kratsios_2026_OSTP|Kratsios (2026, p. 47)]]
+> 迈克尔·波兰尼（Michael Polanyi）将其经典界定为“我们知道的比我们能说出来的更多”（We know more than we can tell）。在尖端制造业中，资深焊工听得出焊道内部缺陷，微纳加工专家掌握晶圆清洗中极细微的温湿度调控直觉，制药工程师认得决定批次活性的微妙流体变化，此类认知均无法被完全写入标准操作文档。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 47)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示为何拥有相同的公开论文、专利授权与进口设备，外部实验室或工厂仍无法自发复现尖端技术（如先进制程良率爬坡、复杂激光器[[Assemblage|装配]]）。
@@ -78,7 +79,6 @@ updated: 2026-10-07
 > - 不等于一般的[[Theoretical Knowledge|理论知识]] — 理论知识解答“为什么”（Know-Why），过程知识解决在充满噪声与多[[Variable|变量]]干扰的真实物理世界中“如何做成”（Know-How）。
 > - 不等于 [[Research Translation|技术转化]]的全部 — 转化还涉及风险资本、法律许可与商业模式；过程知识是技术转化得以在本土持续演化与自我造血的底层工艺基座。
 
-迈克尔·波兰尼（Michael Polanyi）将其经典界定为“我们知道的比我们能说出来的更多”（We know more than we can tell）。在尖端制造业中，资深焊工听得出焊道内部缺陷，微纳加工专家掌握晶圆清洗中极细微的温湿度调控直觉，制药工程师认得决定批次活性的微妙流体变化，此类认知均无法被完全写入标准操作文档。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 47)]]
 
 ---
 

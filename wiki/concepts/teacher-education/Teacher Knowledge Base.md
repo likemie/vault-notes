@@ -50,7 +50,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Teacher Knowledge Base
@@ -94,7 +94,7 @@ updated: 2026-09-22
 
 > [!feature] 舒尔曼与格里门教师知识库的核心构成
 > - **学科教学知识（Pedagogical Content Knowledge, PCK）** 将特定学科内容以生动、适切的方式转化为学生易于理解和建构的专业知识形态（Shulman, 1986）。
-> - **实践性智慧（Practical Wisdom / [[Phronesis]]）** 教师在长期的课堂互动与反思中积淀的临场判断力与实践体悟（Grimen, 2008）。
+> - **实践性智慧（[[Phronesis|Practical Wisdom]] / [[Phronesis]]）** 教师在长期的课堂互动与反思中积淀的临场判断力与实践体悟（Grimen, 2008）。
 > - **学情与个体认知（Learners and their Characteristics）** 对学生的认知水平、情绪状态、先验经验与身心发展规律的深度洞察。
 > - **教育情境与制度脉络（Educational Contexts）** 对学校[[Organizational Culture\|组织文化]]、社区生态、时间与空间资源的把握与利用。
 > - **育人伦理与专业规范（Educational Ends, Purposes, and Values）** 指引教学决策的道德责任、教育公平信念与学生长远福祉关怀（Eriksen, 2022）。
