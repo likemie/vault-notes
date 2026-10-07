@@ -10,7 +10,7 @@ summary: "美国著名产业经济学与科技政策学者，哥伦比亚大学�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -47,6 +47,7 @@ related_persons:
   - "[[John E. Tilton]]"
 related_facts:
   - "[[Bell Labs]]"
+  - "[[National Aeronautics and Space Administration]]"
   - "[[System Development Corporation]]"
 related_arguments:
   - "[[Argument_Schnee_1978_RP]]"
@@ -72,7 +73,7 @@ updated: 2026-10-07
 ## 生平与学术历程
 
 > [!timeline] 生平与学术历程
-> - **1970年代** 于哥伦比亚大学与宾夕法尼亚大学开展关于制药工业创新、计算机与半导体产业演进的实证研究，深入调研美国国家航空航天局（NASA）与国防部公共项目。
+> - **1970年代** 于哥伦比亚大学与宾夕法尼亚大学开展关于制药工业创新、计算机与半导体产业演进的实证研究，深入调研[[National Aeronautics and Space Administration|美国国家航空航天局]]（NASA）与国防部公共项目。
 > - **1978年** 在国际科技政策顶刊《Research Policy》发表里程碑论文《政府项目与高技术产业成长》（*Government programs and the [[Growth]] of high-technology industries*），成为公共项目需求侧塑造微电子与计算机产业的经典权威[[Document|文献]]。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 2–24)]]
 > - **1980年代–2000年代** 任教于罗格斯大学管理学院，持续深耕战略管理、研发管理、技术扩散与创新经济学，出版多部关于研发管理与产业[[Competitiveness|竞争力]]的经典论著。
 
@@ -115,7 +116,7 @@ updated: 2026-10-07
 > |:-----|:-----|:-----|
 > | [[Argument_Schnee_1978_RP\|Schnee, 1978]] | [[Document\|文献]] | 施尼发表于《Research Policy》关于高技术产业成长的里程碑代表作。 |
 > | [[Assured Demand]] | Concept | 施尼在该研究中正式提炼并论证的核心创新政策概念。 |
-> | [[Technological Conservatism in Mission Programs]] | Concept | 施尼针对 NASA 与军方管理行为提出的组织选型张力命题。 |
+> | [[Technological Conservatism in Mission Programs]] | Concept | 施尼针对 [[National Aeronautics and Space Administration\|NASA]] 与军方管理行为提出的组织选型张力命题。 |
 > | [[Learning Economy]] | Theory | 施尼用于解释 100% 采购托底如何驱动器件均价暴跌的核心经济学机制。 |
 > | [[Demonstration Effect]] | Concept | 施尼用于分析 [[Sage]] 与阿波罗工程向民用市场传导技术信任的核心机制。 |
 > | [[John E. Tilton]] | Person | 施尼研究高度依托其布鲁金斯专著（1971）半导体产业历史统计的论敌与同行。 |

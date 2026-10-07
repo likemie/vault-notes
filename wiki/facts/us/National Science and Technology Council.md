@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_theories:
 related_facts:
   - "[[Office of Science and Technology Policy]]"
   - "[[National Science Foundation]]"
+  - "[[National Aeronautics and Space Administration]]"
   - "[[Science in the National Interest 1994]]"
   - "[[National Science Board]]"
   - "[[President's Science Advisory Committee]]"
@@ -59,7 +60,7 @@ updated: 2026-10-07
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1993 年 11 月 23 日由比尔·克林顿（Bill Clinton）总统签署第 12881 号行政令设立；其动因是在冷战结束与国防军费削减的背景下，克服联邦科技管理各自为政的官僚壁垒，确立国家经济[[Competitiveness|竞争力]]导向的科技新秩序。
-> - **总部地点 / 业务辐射** 设于白宫执行办公室，由[[Office of Science and Technology Policy|白宫科学技术政策办公室]]（OSTP）提供常设幕僚支持；统筹业务覆盖国防部、能源部、卫生与公众服务部、[[National Science Foundation|NSF]]、NASA 等全美 20 余个涉及研发的联邦部委与独立机构。
+> - **总部地点 / 业务辐射** 设于白宫执行办公室，由[[Office of Science and Technology Policy|白宫科学技术政策办公室]]（OSTP）提供常设幕僚支持；统筹业务覆盖国防部、能源部、卫生与公众服务部、[[National Science Foundation|NSF]]、[[National Aeronautics and Space Administration|NASA]] 等全美 20 余个涉及研发的联邦部委与独立机构。
 > - **法人属性与经费基础** 总统直属内阁级协调机构；运行依托白宫行政预算，本身不直接管理独立分发性科研资金，而是通过审查、整合与指导各部委研发预算优先序行使法定统筹权。
 > - **核心宗旨与法定职责** 确保联邦科技政策与国家经济增长、国家安全、环境保护及社会福祉等宏观目标高度一致；协调跨部委重大前沿研发项目，消除部门间职能重叠与资源浪费。
 

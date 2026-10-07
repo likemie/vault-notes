@@ -52,6 +52,7 @@ related_facts:
   - "[[National Institutes of Health]]"
   - "[[Department of Energy]]"
   - "[[SBIR and STTR Programs]]"
+  - "[[National Aeronautics and Space Administration]]"
   - "[[NSF I-Corps]]"
   - "[[Education Innovation and Research]]"
   - "[[UCSD Innovation and Commercialization Office]]"
@@ -70,7 +71,7 @@ title: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_key: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_display_title: "University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration"
 argument_kind: "book"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -200,7 +201,7 @@ citation_aliases:
 
    - **战略与财务的双重标准**。CVC 不像传统 VC 只看财务回报，它还要问"这个投资对我母公司有什么战略价值？"，这要求衍生企业既要能赚钱，又要与母公司的业务方向对齐。两个条件同时满足的概率比只满足一个低得多。
    - **团队要求**。CVC 尤其是那些愿意投种子前轮次（pre-seed，即最早期的、往往还没有产品的阶段）的，要求创始团队有创业成功记录。但大学教授的履历是论文、引用和基金项目，"这在恰恰不是大学衍生企业的典型特征"(p.145)。教授可能是一个领域的全球顶尖专家，但他从来没有管过工资单、没有跟客户谈判过合同、没有做过市场调研。从 CVC 的角度看，这就是一个"高风险团队"。
-   - **[[Technology Readiness Level|技术就绪度]]（Technology Readiness Level, TRL）门槛**。TRL 是 NASA 在 1970 年代发展出来的一套评估技术成熟度的量表，从 TRL 1（基础原理被观察到）到 TRL 9（系统在实际环境中经过验证）。企业对试点项目（pilot program）——即企业提供真实场景和资源来测试一项新技术——通常会要求 TRL 至少达到 6-7（系统原型在相关环境中演示过）。但大多数大学衍生企业在刚成立时处于 TRL 3-5（实验室概念验证到实验室环境下的原型），距离企业试点要求还差两三个等级(p.145)。
+   - **[[Technology Readiness Level|技术就绪度]]（Technology Readiness Level, TRL）门槛**。TRL 是 [[National Aeronautics and Space Administration|NASA]] 在 1970 年代发展出来的一套评估技术成熟度的量表，从 TRL 1（基础原理被观察到）到 TRL 9（系统在实际环境中经过验证）。企业对试点项目（pilot program）——即企业提供真实场景和资源来测试一项新技术——通常会要求 TRL 至少达到 6-7（系统原型在相关环境中演示过）。但大多数大学衍生企业在刚成立时处于 TRL 3-5（实验室概念验证到实验室环境下的原型），距离企业试点要求还差两三个等级(p.145)。
 
 > [!example]
 > 教育学院的"教师课堂话语分析系统"目前 TRL 大约是 4，在五个合作学区的 20 间教室里录了音、跑了初步的机器学习（Machine Learning, ML）模型、标注了 500 小时的师生对话。但一家教育科技公司如果要把它作为试点嵌入自己的教师发展平台，至少需要 TRL 6，系统在各种噪音条件（开放式教室、户外活动、体育馆）下都能稳定识别语音、准确率大于 95%、延迟小于 2 秒。TRL 4 到 TRL 6 之间需要至少半年的工程优化和更多的真实场景数据采集，这恰恰是最缺钱的阶段。

@@ -35,10 +35,12 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Reproducibility Crisis]]"
   - "[[Grand Challenges]]"
+  - "[[Diversity, Equity, and Inclusion]]"
   - "[[General Purpose Technology]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Mission-Oriented Research]]"
   - "[[Curiosity-Driven Research]]"
+  - "[[Gold Standard Science]]"
 related_theories:
   - "[[Social Contract of Science]]"
   - "[[Pasteur's Quadrant]]"
@@ -75,14 +77,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-07
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Fan_2026_BCAS"
 argument_key: "Argument_Fan_2026_BCAS"
 argument_display_title: "科学还是无止境的边疆吗——从“科学的社会契约”看美国科学政策的过去与未来"
 argument_kind: "journal-article"
-argument_related_count: 45
+argument_related_count: 47
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -299,7 +301,7 @@ journal: "中国科学院院刊"
 > [!feature] 2025 年起技术优先导向的四项治理变革（p. 1062）
 > - **国家利益直接绑定关键技术** 科技政策彻底放弃“为知识而知识”，以赢得战略新兴技术竞争作为统领一切的国家叙事。
 > - **新型行政资源动员链条** 确立总统定向、联邦统筹、部门执行的垂直链条，依托 AI 行动计划与[[Genesis Mission|创世纪计划]]动员企业和国家实验室，大学轴心地位边缘化。
-> - **惩罚性预算调整与行政扣留** 动用扣留拨款（impoundment）裁量权，全面冻结或削减气候变化、公共卫生、成瘾医学及 DEI 领域的科研经费。
+> - **惩罚性预算调整与行政扣留** 动用扣留拨款（impoundment）裁量权，全面冻结或削减气候变化、公共卫生、成瘾医学及 [[Diversity, Equity, and Inclusion|DEI]] 领域的科研经费。
 > - **受限与政治化自治** 颁布《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，以数据透明和方法复现为名强化行政审计，学术自治滑向受限自治。
 
 #### 2. 技术型社会契约成型与两种治理模式的本质对立
@@ -376,7 +378,7 @@ journal: "中国科学院院刊"
 > [!citation-card] [[Technology-Oriented Social Contract|技术型社会契约]]的契约工具本质
 > 特朗普政府 2025 年 5 月颁布的行政令《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》，实质上是一套契约性工具，它以可重复性、透明性和程序客观性为名，强化行政可验证性，重塑了科学的合法性来源，使科学的正当性由认知权威转向程序与结果可控性。（p. 1062）
 >
-> *The Executive Order "Restoring Gold Standard Science," issued by the Trump administration in May 2025, essentially serves as a "contractual tool." Under the rubric of reproducibility, transparency, and procedural objectivity, it strengthens administrative verifiability and reshapes the legitimacy foundation of science, steering it from "cognitive authority" to "procedural and outcome controllability."*
+> *The Executive Order "Restoring [[Gold Standard Science]]," issued by the Trump administration in May 2025, essentially serves as a "contractual tool." Under the rubric of reproducibility, transparency, and procedural objectivity, it strengthens administrative verifiability and reshapes the legitimacy foundation of science, steering it from "cognitive authority" to "procedural and outcome controllability."*
 
 > [!citation-card] 边疆隐喻从制度前提退化为待证命题
 > 支撑这一伟大隐喻的三大制度基石正在发生根本动摇……无止境的边疆正式从一项免检的制度性前提，退化为一个必须不断在政治与经济法庭上自证合规与效用的待正当化命题。（pp. 1063–1064）

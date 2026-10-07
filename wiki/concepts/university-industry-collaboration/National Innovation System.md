@@ -10,7 +10,7 @@ aliases:
 summary: "指由国家公共教育与培训体系、企业专职研发实验室、产业网络、前竞争技术联合体、实体制造公地以及政府协调规制构成的制度网络，是解释跨国技术赶超、无形知识积累与经济长期分化的核心分析单位。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 64
+related_count: 65
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -75,6 +75,7 @@ related_persons:
 related_facts:
   - "[[German Dual Education System]]"
   - "[[EUV LLC]]"
+  - "[[Transformational AI Models Consortium]]"
   - "[[Gewerbe-Institut]]"
   - "[[Chinese Academy of Sciences]]"
   - "[[Office of Science and Technology Policy]]"
@@ -144,7 +145,7 @@ updated: 2026-10-07
 > - **国家公共教育与工程人才培养网络** 涵盖全民基础教育、职业技术[[Apprenticeship|学徒制]]与[[Engineering Education|高等工程教育]]，决定全社会的[[Absorptive Capacity|吸收能力]]与技能熟练度底座。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7, 13–14)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52–53)]]
 > - **企业内部专业化研发实验室与研产回路** 研发部门、现场工艺工程与市场反馈的紧密回路，将发明活动制度化为常规企业职能。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–9, 11–13)]]
 > - **实体制造公地与工艺[[Process Knowledge|过程知识]]（[[Industrial Commons]]）** 密集的零部件供应商网络、熟练工程师与技师在产线现场沉淀的默会[[Process Knowledge|过程知识]]与[[Phronesis|实践智慧]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–48, 54)]]
-> - **前竞争技术联合体（Pre-competitive Consortia）** 联邦与产业界共同发起建立的共性技术攻坚平台（如极紫外光刻联合体 [[EUV LLC]]、转型人工智能联合体 TAMC），分担跨行业底层风险。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–45, 63)]]
+> - **前竞争技术联合体（Pre-competitive Consortia）** 联邦与产业界共同发起建立的共性技术攻坚平台（如极紫外光刻联合体 [[EUV LLC]]、转型人工智能联合体 [[Transformational AI Models Consortium|TAMC]]），分担跨行业底层风险。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–45, 63)]]
 > - **政府长效协调与分布式制度试验机制** 涵盖国家实验室网络、开放[[Megascience Installations|大科学装置]]、国家科学云与各州分布式[[Regulatory Sandbox|监管沙盒]]（Regulatory Sandboxes）。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 45–46, 62–66)]]
 > - **跨国公司母国锚固中枢** 跨国公司的最高决策权、核心专有技术与关键战略研发活动依然深度扎根于母国环境。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 16–17)]]
 
@@ -203,7 +204,7 @@ updated: 2026-10-07
 > 探讨当代国家创新系统如何超越传统单向资助或单纯修补[[Market Failure|市场失灵]]，通过前竞争联合体与制造公地维系技术主权。
 
 > [!claim] Kratsios, M.
-> **创新公地与前竞争协同论** 白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）2026 年战略报告指出，现代国家创新系统的[[Competitiveness|竞争力]]不仅取决于大学基础论文的发表，更取决于“实体制造公地”的完整性与前竞争共性技术攻关的组织效能。历史经验表明，研发脱离实体制造会导致底层工艺设计能力的不可逆退化；国家必须依托前竞争技术联合体（如 [[EUV LLC]]、TAMC）在科学机理清晰但工程集成风险巨大的战略[[Measurement Alignment|领域对齐]]国家实验室与产业界；同时，充分发挥联邦体制下各州的分布式制度试验（如[[Regulatory Sandbox|监管沙盒]]与许可创新），并依托国家算力设施与自动化核验网络构建新时代的国家发现引擎。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–46, 54–56, 62–66)]]
+> **创新公地与前竞争协同论** 白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）2026 年战略报告指出，现代国家创新系统的[[Competitiveness|竞争力]]不仅取决于大学基础论文的发表，更取决于“实体制造公地”的完整性与前竞争共性技术攻关的组织效能。历史经验表明，研发脱离实体制造会导致底层工艺设计能力的不可逆退化；国家必须依托前竞争技术联合体（如 [[EUV LLC]]、[[Transformational AI Models Consortium|TAMC]]）在科学机理清晰但工程集成风险巨大的战略[[Measurement Alignment|领域对齐]]国家实验室与产业界；同时，充分发挥联邦体制下各州的分布式制度试验（如[[Regulatory Sandbox|监管沙盒]]与许可创新），并依托国家算力设施与自动化核验网络构建新时代的国家发现引擎。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–46, 54–56, 62–66)]]
 
 ---
 
@@ -229,7 +230,7 @@ updated: 2026-10-07
 > - **1995 — 弗里曼长周期历史辩护** 弗里曼在《剑桥经济学杂志》发表奠基[[Document|文献]]，结合李斯特考证与日苏、韩巴长周期比较，有力回击全球化导致民族国家过时的神话，确立跨学科权威地位。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–24)]]
 > - **1997 — 政策建制化与 [[OECD]] 采纳** 经济合作与发展组织（OECD）正式发布《国家创新系统》报告，推动该概念成为全球主要工业化国家制定科技政策的标准分析工具。
 > - **2018 至今 — 使命导向与[[Transformative Change|变革转型]]拓展** [[Mariana Mazzucato|马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）与肖特等（Schot & Steinmueller, 2018）反思传统 NIS 局限于修补系统失灵的缺陷，推动国家创新系统转向具有明确绿色与社会方向性的主动[[Market Shaping and Creating|市场塑造]]。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–806)]]; [[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 32–34)]]
-> - **2026 — 制造公地重振、前竞争联合体与 AI 发现引擎** 白宫 [[Office of Science and Technology Policy|OSTP]] 2026 报告将国家创新系统深化为“实体制造公地维护、前竞争联合攻坚（[[EUV LLC]]/TAMC）、分布式制度试验与国家 AI 算力核验基础设施”多维协同的全新[[Paradigm|范式]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–46, 54–56, 62–66)]]
+> - **2026 — 制造公地重振、前竞争联合体与 AI 发现引擎** 白宫 [[Office of Science and Technology Policy|OSTP]] 2026 报告将国家创新系统深化为“实体制造公地维护、前竞争联合攻坚（[[EUV LLC]]/[[Transformational AI Models Consortium|TAMC]]）、分布式制度试验与国家 AI 算力核验基础设施”多维协同的全新[[Paradigm|范式]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–46, 54–56, 62–66)]]
 
 ---
 

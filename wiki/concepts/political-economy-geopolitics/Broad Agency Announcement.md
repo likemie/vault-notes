@@ -8,7 +8,7 @@ aliases:
 summary: "美国联邦采办条例（FAR 35.016）确立并由DARPA广泛应用的颠覆性前沿科技竞争发包机制。区别于详述技术规格指标的传统征求建议书（RFP），BAA仅界定宏观科学挑战与战略使命愿景，允许申请人自由提出异质性突破方案；Fuchs（2010）指出BAA是公共代理人向产学研生态释放前沿信号、播撒创新主题而不钦定单一赢家的核心制度工具。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Embedded Network Governance]]"
   - "[[DARPA Model]]"
   - "[[Paradigm]]"
+  - "[[Other Transaction Authority]]"
   - "[[Innovation Ecosystem]]"
 related_theories:
   - "[[Technological Trajectories]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-07
 ---
 
 # Broad Agency Announcement
@@ -146,4 +147,4 @@ updated: 2026-10-04
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 详细解析 [[DARPA]] MTO 项目经理如何通过 BAA 文本设计引导硅锗与光子集成[[Technological Trajectories|技术轨道]]。
-> - Bonvillian & Van Atta (2011) — 剖析 BAA 与其他交易授权（OTA）在构建敏捷[[Innovation Ecosystem|创新生态]]中的协同功能。
+> - Bonvillian & Van Atta (2011) — 剖析 BAA 与[[Other Transaction Authority|其他交易授权]]（OTA）在构建敏捷[[Innovation Ecosystem|创新生态]]中的协同功能。

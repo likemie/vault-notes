@@ -8,7 +8,7 @@ aliases:
 summary: "2010年代以来在心理学、生物医学、实验经济学及社会科学中集中爆发的已发表经典研究无法被独立复现的方法论危机；在科学学与国家科技政策视阈下，危机根源于学术出版激励偏倚、统计自由度滥用与生成-核验成本脱节，不仅动摇了科学的内在认知权威，更推动了开放科学与‘金标准科学’评价制度的重塑。"
 type: concept
 domain: "science-policy"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
   - theme/metascience
 related_concepts:
   - "[[Preregistration]]"
+  - "[[Gold Standard Science]]"
   - "[[Epistemology]]"
   - "[[Chain of Evidence]]"
   - "[[Document]]"
@@ -58,7 +59,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 可重复性危机（Reproducibility Crisis，亦称复制危机或可复现性危机）是指 2010 年代初以来在心理学、癌症生物学、神经科学、实验经济学及社会科学等实证学科中集中爆发的系统性方法论困境——即大量经过严格同行评议并在顶级期刊发表的里程碑式实证研究，在第三方研究团队采用相同实验方案或独立代表性样本进行严格复现检验时无法重现预期结果。在科学学与科技政策视阈下，该危机暴露出学术界单一追求发表数量的锦标赛激励偏倚与生成—核验能力脱节，并在国家治理层面推动了以数据开源、方案[[Preregistration|预注册]]及“金标准科学（Gold Standard Science）”为核心的科研评价体制重塑。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1060, 1062)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 18, 64–65)]]
+> 可重复性危机（Reproducibility Crisis，亦称复制危机或可复现性危机）是指 2010 年代初以来在心理学、癌症生物学、神经科学、实验经济学及社会科学等实证学科中集中爆发的系统性方法论困境——即大量经过严格同行评议并在顶级期刊发表的里程碑式实证研究，在第三方研究团队采用相同实验方案或独立代表性样本进行严格复现检验时无法重现预期结果。在科学学与科技政策视阈下，该危机暴露出学术界单一追求发表数量的锦标赛激励偏倚与生成—核验能力脱节，并在国家治理层面推动了以数据开源、方案[[Preregistration|预注册]]及“金标准科学（[[Gold Standard Science]]）”为核心的科研评价体制重塑。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1060, 1062)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 18, 64–65)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 兼具方法论脆弱性与制度治理双重属性：在[[Epistemology|认识论]]层面揭示了实证[[Chain of Evidence|证据链]]在统计功效与假阳性控制上的缺陷；在政策层面演化为公众信任重塑与科研资助核验机制改革的契机。
@@ -164,7 +165,7 @@ updated: 2026-10-07
 > - **2005–2010 — 理论预警与早期统计反思** 流行病学学者约翰·约阿尼迪斯（John Ioannidis）发表《为什么大多数发表的研究成果都是虚假的》，引发跨学科对统计功效不足与[[Publication Bias|发表偏差]]的学术反思。
 > - **2011–2015 — 大规模经验复现与危机正式确立** 开放科学协作组（Open Science Collaboration）在《科学》（*Science*）发表心理学重复性研究报告，显示仅约 1/3 的经典实验能够成功重现，危机概念正式席卷全球学界。
 > - **2016–2024 — 开放科学运动与期刊审查强化** [[Preregistration|预注册]]（Preregistration）、注册报告（Registered Reports）以及强制开源数据代码成为主流期刊共识，危机应对主要聚焦于学界内部自律改革。
-> - **2025–至今 — 国家政策治理介入与黄金标准科学确立** 美国政府签署《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，白宫 [[Office of Science and Technology Policy|OSTP]] 发布《科学：新黄金时代》报告，将可重复性治理与核验基础设施建设提升为国家科技政策的核心支柱，推动科研资助回归实证严谨性与客观卓越。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 24–25, 64–65)]]
+> - **2025–至今 — 国家政策治理介入与[[Gold Standard Science|黄金标准科学]]确立** 美国政府签署《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，白宫 [[Office of Science and Technology Policy|OSTP]] 发布《科学：新黄金时代》报告，将可重复性治理与核验基础设施建设提升为国家科技政策的核心支柱，推动科研资助回归实证严谨性与客观卓越。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 24–25, 64–65)]]
 
 ---
 

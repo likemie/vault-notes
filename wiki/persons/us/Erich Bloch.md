@@ -6,7 +6,7 @@ summary: "美国电气工程师与科技管理领袖，首位产业界出身的�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -39,6 +39,7 @@ related_facts:
   - "[[National Academy of Sciences]]"
   - "[[Chinese Academy of Sciences]]"
   - "[[National Institutes of Health]]"
+  - "[[National Aeronautics and Space Administration]]"
   - "[[Science Foundation Ireland]]"
 related_arguments:
   - "[[Argument_Bozeman_2004_JTT]]"
@@ -131,7 +132,7 @@ updated: 2026-10-07
 > [!influence-path] 影响路径
 > - **组织模式路径** 确立了多用途、多学科大学研究中心（MMURC）作为现代[[Research Universities|研究型大学]]核心组织基底的合法性地位，重构了大学实验室与工业界的协作边界。
 > - **政策与机制路径** 引入了合作研究协议（Cooperative Research Agreements）、严格同行审核、优胜劣汰退出机制以及十年[[Sunset Provisions|日落条款]]（Sunset Provisions），为联邦重大科技资助确立了全新的治理典范。
-> - **全球科技政策扩散** 推动以 [[Engineering Research Centers|ERC]] 为代表的中心协同模式向其他联邦部门（如 [[National Institutes of Health|NIH]]、DoD、NASA）及海外科技资助机构（如英国科研理事会、[[Science Foundation Ireland|爱尔兰科学基金会]] SFI）全方位扩散。
+> - **全球科技政策扩散** 推动以 [[Engineering Research Centers|ERC]] 为代表的中心协同模式向其他联邦部门（如 [[National Institutes of Health|NIH]]、DoD、[[National Aeronautics and Space Administration|NASA]]）及海外科技资助机构（如英国科研理事会、[[Science Foundation Ireland|爱尔兰科学基金会]] SFI）全方位扩散。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Bozeman_2004_JTT|Bozeman & Boardman (2004)]] — 系统记录布洛赫政策口述史，全面剖析其主导 ERC 创设的立法博弈、日落条款治理哲学、淘汰机制威慑以及对传统大学系所壁垒的尖锐批判。

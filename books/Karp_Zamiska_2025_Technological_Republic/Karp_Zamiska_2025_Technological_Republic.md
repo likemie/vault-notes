@@ -1,6 +1,7 @@
 ---
 citation: "Karp, A. C., & Zamiska, N. W. (2025). The technological republic: Hard power, soft belief, and the future of the West. New York: Crown Currency."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 processed_date: 2026-10-07
 ---
 

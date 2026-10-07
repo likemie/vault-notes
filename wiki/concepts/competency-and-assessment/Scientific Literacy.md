@@ -10,7 +10,7 @@ aliases:
 summary: "个体理解科学运作机制、批判性评估多源证据质量、接纳科学知识暂定性与不确定性，并在日常生活和公共审议中做出理性判断的核心公民素养，涵盖科学本质理解、证据辨析、认识论实践、抵御虚假信息与大模型幻觉，以及在公共政策中坚守基于客观实证可复现性与学术卓越的“金标准科学”评价心智。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 64
+related_count: 66
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Rote Learning]]"
   - "[[Epistemic Practices]]"
+  - "[[Gold Standard Science]]"
   - "[[Knowledge Production]]"
   - "[[STEM Education]]"
   - "[[Citizen Science]]"
@@ -62,6 +63,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Scientific Explanation]]"
   - "[[Competitiveness]]"
+  - "[[Diversity, Equity, and Inclusion]]"
   - "[[Engineering Education]]"
   - "[[Socioscientific Issues]]"
 related_facts:
@@ -104,7 +106,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 科学素养（Scientific Literacy / Science Literacy）是指个体具有对[[Nature of Science|科学本质]]及其运作机制的充分理解，能够把握科学知识通过逐步降低不确定性而演进的动态过程，具备批判性评估多源证据质量及其可[[Reliability|信度]]的认知能力，并在日常生活、健康医疗、消费抉择、公共民主审议与科技政策制定中做出明智决策的核心公民与治理素养。它超越了传统对孤立科技事实与术语的[[Rote Learning|机械记忆]]，将科学本质理解、学科[[Epistemic Practices|认识论实践]]、数据与算法批判心智、实证可复现性（Reproducibility）意识以及捍卫基于客观学术卓越的“金标准科学（Gold Standard Science）”评价原则融为一体。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 30)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 62)]]; [[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 116)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 144, 161)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 24–25)]]
+> 科学素养（Scientific Literacy / Science Literacy）是指个体具有对[[Nature of Science|科学本质]]及其运作机制的充分理解，能够把握科学知识通过逐步降低不确定性而演进的动态过程，具备批判性评估多源证据质量及其可[[Reliability|信度]]的认知能力，并在日常生活、健康医疗、消费抉择、公共民主审议与科技政策制定中做出明智决策的核心公民与治理素养。它超越了传统对孤立科技事实与术语的[[Rote Learning|机械记忆]]，将科学本质理解、学科[[Epistemic Practices|认识论实践]]、数据与算法批判心智、实证可复现性（Reproducibility）意识以及捍卫基于客观学术卓越的“金标准科学（[[Gold Standard Science]]）”评价原则融为一体。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 30)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 62)]]; [[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 116)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 144, 161)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 24–25)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将科学教育与公众理解的目标从孤立事实记忆重构为探究证据、理解[[Knowledge Production|知识生成]]逻辑与严谨实证审议的制度化能力。
@@ -153,7 +155,7 @@ updated: 2026-10-07
 > - **理解科学运作机制与[[Nature of Science|科学本质]]（Understanding Scientific Processes & Nature of Science）** 掌握实证观察、假说检验、实验设计与同行评议如何共同确立和修正科学结论；深刻理解科学知识的经验性、暂定性与社会协商修正属性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 30)]]
 > - **证据质量批判评估与来源辨识（Evidence Quality & [[Source Evaluation]]）** 在信息爆炸与算法分发环境中，能够穿透商业公关赞助与机构通稿夸大，准确[[Evaluation Research|评估研究]][[Sample Size Determination|样本量]]、[[Effect Size|效应量]]大小、相关与[[Causality|因果关系]]的本质鸿沟，审慎核验多源证据[[Reliability|信度]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 62)]]
 > - **接纳[[Scientific Uncertainty|科学不确定性]]与暂定性（Navigating Uncertainty & Provisionality）** 深刻领会[[Confidence Interval|置信区间]]、测量误差与区间预测的科学价值，认识到承认证据有限与未知并非科学无能，而是严谨探索的必然常态；避免因科学争议而滑向反智虚无主义。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
-> - **实证可复现性与金标准科学鉴别力（Replication & Gold Standard Science）** 具备识别实验[[Reproducibility Crisis|可重复性危机]]（Replication Crisis）、原始数据透明度、[[Preregistration|预注册]]方案（Pre-registration）以及统计功效的能力；坚守基于学术卓越的客观评价，警惕非科学意识形态标准对科研质量的扭曲。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 24–25)]]
+> - **实证可复现性与金标准科学鉴别力（Replication & [[Gold Standard Science]]）** 具备识别实验[[Reproducibility Crisis|可重复性危机]]（Replication Crisis）、原始数据透明度、[[Preregistration|预注册]]方案（Pre-registration）以及统计功效的能力；坚守基于学术卓越的客观评价，警惕非科学意识形态标准对科研质量的扭曲。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 24–25)]]
 > - **公共决策参与与算法数据批判（Civic Deliberation & Algorithmic Critique）** 能够将科学证据理性应用于应对气候、公共卫生与前沿技术治理，并审视生成式 AI 工具带来的模型幻觉与偏见，积极参与民主审议。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 116)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, p. 161)]]
 
 > [!logic-map]- 现代科学素养核心支柱与公共理性拓扑
@@ -301,7 +303,7 @@ updated: 2026-10-07
 > > [!axis] 客观学术卓越本位 vs 社会/意识形态附加标准
 > > 科研资助与科学评价应严格限定于学术实力与方法稳健性，还是应承载社会正义与身份多元化等政治使命？
 > > - **金标准科学派（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）** 坚决主张科学评价必须回到纯粹学术卓越、实证可复现性与方法严谨性，警惕非学术政治标准侵蚀国家创新基石。
-> > - **社会正义派** 认为科学体制长期存在结构性排斥，资助标准必须显性纳入多元化与包容性（DEI）要求以弥合历史不平等。
+> > - **社会正义派** 认为科学体制长期存在结构性排斥，资助标准必须显性纳入多元化与包容性（[[Diversity, Equity, and Inclusion|DEI]]）要求以弥合历史不平等。
 
 > [!critique] 高利害应试测评与刻板化[[Scientific Method|科学方法]]对探究素养的双重挤压
 > 实证调查（SET 2023）表明，高利害应试评价导致中学课堂两周至少一次动手实验的比例从 44% 跌至 26%（[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society, 2026, p. 33]]）；同时，将探究异化为刻板的“科学方法五步法”实验套路，严重阻碍了学生体会证据向公共审查开放的本质价值（[[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona, 2018, pp. 144–145]]）。
@@ -317,7 +319,7 @@ updated: 2026-10-07
 > | 研究 / 调查项目 | 样本与情境特征 | 核心[[Variable\|变量]]与测量维度 | 关键实证数据 | 政策含义与理论洞见 |
 > |---|---|---|---|---|
 > | **[[OECD]] [[PISA]] 2015 科学素养跨国测评** | 全球 54 万名 15 岁学生的大规模跨国测评数据（72 个国家/经济体） | 探究式科学教学频率（IBST）、教师指导水平、科学素养表现分 | • 倒 U 型关系：低到中度探究伴随最高素养表现，过度孤立探究表现骤降（Chen et al., 2017）<br>• 教师指导调节：无指导探究与素养负相关，支架式探究在全部 16 个高成效体系中均为正相关（Aditomo & Klieme, 2020）<br>• 维度差异：实验操作与数据结论正向预测素养，无准备辩论负向预测（Cairns, 2019） | 实证打破了纯粹探究优于直接教学或直接教学排斥探究的二元对立，证明探究与直接教学协同、高教师指导介入是科学素养养成的关键制度设计。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 5–6)]] |
-> | **[[National Science Foundation\|NSF]] 资助指南意识形态条款监测（2021–2024）** | 美国 NSF 2021–2024 年全量公开项目招标书（Solicitations） | 非学术性意识形态筛选要求（如 DEI 强制条款）占比 | 包含非学术意识形态筛选要求的招标书比例从 2021 年的 **$< 1\%$** 激增至 2024 年的 **$> 25\%$** | 揭示非科学筛选条件对学术评价标准的系统性渗透，凸显恢复金标准科学与择优资助的紧迫性。[[Argument_Kratsios_2026_OSTP\|(Kratsios, 2026, p. 24)]] |
+> | **[[National Science Foundation\|NSF]] 资助指南意识形态条款监测（2021–2024）** | 美国 NSF 2021–2024 年全量公开项目招标书（Solicitations） | 非学术性意识形态筛选要求（如 [[Diversity, Equity, and Inclusion\|DEI]] 强制条款）占比 | 包含非学术意识形态筛选要求的招标书比例从 2021 年的 **$< 1\%$** 激增至 2024 年的 **$> 25\%$** | 揭示非科学筛选条件对学术评价标准的系统性渗透，凸显恢复金标准科学与择优资助的紧迫性。[[Argument_Kratsios_2026_OSTP\|(Kratsios, 2026, p. 24)]] |
 > | **[[UK Science Education Tracker\|SET 2023]] [[Longitudinal Study\|纵向调查]]** | 英格兰 14–16 岁中学生全国代表性样本 | 课堂动手实验频率、科学学习动机与素养感知 | 每两周至少进行一次动手实验的比例从 2016 年的 **44%** 骤降至 2023 年的 **26%** | 应试导向与课时压缩严重削弱探究教学，危机全员科学素养生成根基。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 33)]] |
 > | **[[Public Attitudes to Science\|PAS 2025]] 全英调查** | 英国全国 16 岁及以上成年代表性样本（$N=5,281$） | 信息获取渠道、信息充足感、网络真实性甄别自信 | • **40%** 通过数字新媒体首要获取科学信息<br>• **60%** 感到获取科学信息过少<br>• 仅 **40%** 有信心辨别网络科学信息真伪 | 公众对科学信息具有强烈渴求，但面对数字算法环境存在显著的证据素养自信落差。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, pp. 57–58)]] |
 > | **YouGov 2025 英国议员调查** | 英国下议院 108 名国会议员专属[[Questionnaire\|问卷调查]] | 科学信息获取主要渠道、信息[[Reliability\|可靠性]]甄别及 AI 使用 | • **55%** 依赖智库与倡导团体<br>• **48%** 依赖大学学者<br>• **47%** 依赖互联网开放检索<br>• 仅 **22%** 使用 POST，仅 **12%** 使用国家学术院<br>• 仅 **5%** 自述使用 AI | 定量揭示立法决策群体在科学信源上的偏误结构，缺乏鉴别可靠性的规范规程，凸显全政策社群 STEM 与数据分析素养培训的紧迫性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 82–83)]] |

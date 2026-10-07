@@ -10,7 +10,7 @@ aliases:
 summary: "波普尔提出的科学划界与检验标准，主张科学理论的标志在于其承担被经验反驳的风险；在比较教育学中驱动了从古典历史向假说检验与问题解决法（L + I = P）的转型，并引发关于历史工作假设检验性的深刻反思。"
 type: concept
 domain: "educational-philosophy"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
+  - "[[Gold Standard Science]]"
   - "[[Document]]"
   - "[[Positivism]]"
   - "[[Working Hypothesis]]"
@@ -109,7 +110,7 @@ updated: 2026-10-07
 >
 > *Through contextual analysis the 'pure' comparative educationist is expected to formulate refutable hypotheses (i.e. 'hypotheses on which planned reform in education rests')... This proposal is only tentative, problem-specific and context-specific, refutable and open to testing only through comparing anticipated results with actual outcomes.*
 
-> [!citation-card] 白宫科技政策办公室 2026 报告论强制证伪与黄金标准科学
+> [!citation-card] 白宫科技政策办公室 2026 报告论强制证伪与[[Gold Standard Science|黄金标准科学]]
 > 鉴于既有学术[[Document|文献]]中高达数成的不可重复率，国家科研必须强制推行黄金标准科学，实施数据完全开源、实验代码公开与强制证伪要求，并设立专职复现激励打破只奖首发阳性结果的扭曲机制。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 65–66)]]
 >
 > *To combat rampant non-reproducibility across academic literature, national scientific governance must enforce gold standard science, requiring fully open data, public code, and mandatory falsification, paired with dedicated replication prizes to correct the distorted bias toward novel positive findings.*
@@ -227,7 +228,7 @@ updated: 2026-10-07
 > | **科学哲学划界命题** | 确立以经验可反驳性为标志的划界标准，主张知识增长建立在推测与反驳循环之上 | 科学哲学划界、假说演绎模型构建与理论检验 | Popper; Cohen et al.; Laudan |
 > | **学科转型实证检验命题** | 比较教育分化为归纳协变检验与演绎问题法，确立 $L + I = P$ 条件预测准则与可证伪假说 | 战后经验比较教育学转型、跨国因果假说检验与[[Problem Solving\|问题解决]]分析 | Noah & Eckstein; Holmes; [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 150)]] |
 > | **方法论整体论反思命题** | 揭示证伪主义在教学中的教条化倾向，确立比较史学探索性工作假设的可检验性与合法性 | 批判性思维教学反思、科学社会学与历史比较因果解释 | Zemplén; Brinton; [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 151)]] |
-> | **元科学制度证伪命题** | 强制证伪要求、专职复现激励与自动化机器核验是克服可重复性危机的制度基石 | 元科学政策、黄金标准科学、AI 自动化形式化验证 | [[Michael Kratsios\|Kratsios, M.]] |
+> | **元科学制度证伪命题** | 强制证伪要求、专职复现激励与自动化机器核验是克服可重复性危机的制度基石 | 元科学政策、[[Gold Standard Science\|黄金标准科学]]、AI 自动化形式化验证 | [[Michael Kratsios\|Kratsios, M.]] |
 
 ---
 
@@ -241,7 +242,7 @@ updated: 2026-10-07
 > - **1970 — 拉卡托斯提出科学研究纲领方法论** 拉卡托斯（Imre Lakatos）反思朴素证伪主义，指出面对反常科学家会设立辅助假设保护理论硬核，提出精致证伪主义与纲领进步/退化判定准则。
 > - **2007 — 曾普伦反思[[Critical Thinking|批判性思维]]教育中的证伪教条** 曾普伦发表针对 [[Theory of Knowledge|TOK]] 教科书的[[Content Analysis|内容分析]]，系统揭示证伪主义在中学与大学批判性思维课程中被简化为机械教条的结构性教学困境。[[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]]
 > - **2009 — 卡扎米亚斯重建比较史学工作假设的可检验性** 卡扎米亚斯援引[[Crane Brinton|布林顿]]史学方法，阐明历史比较能够通过探索性工作假设（Working Hypotheses）实现中程抽象与经验反驳，打破了实证主义对检验科学概念的狭隘垄断。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 151–152)]]; [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b, p. 56)]]
-> - **2025–2026 — 黄金标准科学与自动化机器证伪基础设施** 面对全球[[Reproducibility Crisis|可重复性危机]]，美国发布《[[Restoring Gold Standard Science Executive Order|恢复黄金标准科学行政令]]》与白宫科技政策办公室报告，将证伪从学者个人自律拓展为国家强制推行数据开源、设立专职复现与证伪奖金、以及构建 AI 形式化机器自动化验证沙盒的制度基石。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 65–67)]]
+> - **2025–2026 — [[Gold Standard Science|黄金标准科学]]与自动化机器证伪基础设施** 面对全球[[Reproducibility Crisis|可重复性危机]]，美国发布《[[Restoring Gold Standard Science Executive Order|恢复黄金标准科学行政令]]》与白宫科技政策办公室报告，将证伪从学者个人自律拓展为国家强制推行数据开源、设立专职复现与证伪奖金、以及构建 AI 形式化机器自动化验证沙盒的制度基石。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 65–67)]]
 
 ---
 
@@ -310,4 +311,4 @@ updated: 2026-10-07
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 权威阐述霍姆斯以 $L + I = P$ 公式[[Operationalization|操作化]]波普尔证伪原则，辨析条件预测与不可证伪的历史宿命论预言，并借由[[Crane Brinton|布林顿]]史学论证历史探索性工作[[Hypothesis|假设]]的可检验性。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 思想史考古揭示 1960 年代霍姆斯、诺亚与埃克斯坦如何利用波普尔可证伪性准绳围剿历史比较学派，并借由布林顿比较史学归纳法重构非普适[[Working Hypothesis|探索性假说]]的合法性。
 > - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 IB [[Theory of Knowledge|知识论]]（TOK）教科书为经验案例，剖析证伪主义在[[Critical Thinking|批判性思维]]教学中被教条化和简化的结构性困境。
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，提出在[[Metascience|元科学]]时代强制实施黄金标准科学、设立专职复现与证伪奖金、以及构建 AI 自动化形式化验证基础设施。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，提出在[[Metascience|元科学]]时代强制实施[[Gold Standard Science|黄金标准科学]]、设立专职复现与证伪奖金、以及构建 AI 自动化形式化验证基础设施。

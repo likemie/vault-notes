@@ -7,7 +7,7 @@ aliases:
 summary: "治理与评估社会学中的核心经验定律：当一个量化指标被选定作为决策和控制的目标时，该指标就会立即失去其作为有效衡量尺度的价值；在科研治理与教育评价中表现为学者或机构针对论文篇数、影响因子、升学率与排名等量化指标展开策略性博弈、指标刷量与功利化合规，导致指标数值虚高而实质学术卓越与教育质量倒退。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 30
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -32,9 +32,11 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Academic Freedom]]"
+  - "[[Dynamic Research Notebook]]"
   - "[[Policy Borrowing]]"
   - "[[Governing by Numbers]]"
   - "[[Replication in Education Research]]"
+  - "[[Gold Standard Science]]"
   - "[[Soft Power]]"
 related_theories: []
 related_methods:
@@ -123,7 +125,7 @@ updated: 2026-10-07
 > 阐明如何通过制度设计消除指标博弈，重建健康的学术交流与评价生态。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
-> **去指标化与生成核验平衡假说** 破除古德哈特定律的破坏性循环，必须对科研交流与评价机制实施根本性重构：在资助端，推广霍华德·休斯医学研究所（HHMI）为期七年免考核的“对人资助”，赋予拔尖学者免于指标追逐的[[Academic Freedom|学术自由]]；在出版端，以包含数据、代码与运行环境的“动态研究笔记本”取代孤立静态论文，部署专职 AI 复现审计代理与细粒度贡献追踪；在治理端，设立独立[[Metascience|元科学]]部门对资助组合开展海尔迈耶问答审计，打破单一指标垄断。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 28, 67–70)]]
+> **去指标化与生成核验平衡假说** 破除古德哈特定律的破坏性循环，必须对科研交流与评价机制实施根本性重构：在资助端，推广霍华德·休斯医学研究所（HHMI）为期七年免考核的“对人资助”，赋予拔尖学者免于指标追逐的[[Academic Freedom|学术自由]]；在出版端，以包含数据、代码与运行环境的“[[Dynamic Research Notebook|动态研究笔记本]]”取代孤立静态论文，部署专职 AI 复现审计代理与细粒度贡献追踪；在治理端，设立独立[[Metascience|元科学]]部门对资助组合开展海尔迈耶问答审计，打破单一指标垄断。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 28, 67–70)]]
 
 ---
 
@@ -158,7 +160,7 @@ updated: 2026-10-07
 > - **1976–1979 — 坎贝尔定律（Campbell's Law）在社会评价中确立** 唐纳德·坎贝尔提出社会量化指标用于决策越多，其越会腐化所意图监测的社会过程本身。
 > - **1997 — 玛丽莲·斯特拉森引入人类学与学术评价领域** 斯特拉森（Marilyn Strathern）将该定律推广至高等教育与同行评议：当指标变成目标，它就不再是一个好指标。
 > - **2010s — 《[[Declaration on Research Assessment|旧金山科研评估宣言]]》（DORA）与莱顿宣言** 全球学术共同体反思影响因子滥用，呼吁停止将期刊指标作为个体学者评价依据。
-> - **2025–2026 — 白宫《[[Science A New Golden Age 2026|科学：新的黄金时代]]》系统诊断科研发表出版的古德哈特异化** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告第五章深入解构源自 17 世纪的学术期刊论文发表体制，批判指标博弈与不可[[Replication in Education Research|复现危机]]，提出动态研究笔记本与机器可读黄金标准科学的新[[Paradigm|范式]]。
+> - **2025–2026 — 白宫《[[Science A New Golden Age 2026|科学：新的黄金时代]]》系统诊断科研发表出版的古德哈特异化** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告第五章深入解构源自 17 世纪的学术期刊论文发表体制，批判指标博弈与不可[[Replication in Education Research|复现危机]]，提出[[Dynamic Research Notebook|动态研究笔记本]]与机器可读[[Gold Standard Science|黄金标准科学]]的新[[Paradigm|范式]]。
 
 ---
 
@@ -193,5 +195,5 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告第五章，深刻批判学术期刊出版与[[Document|文献]]计量的古德哈特定律异化，提出动态研究笔记本与去中心化交流核验体系。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告第五章，深刻批判学术期刊出版与[[Document|文献]]计量的古德哈特定律异化，提出[[Dynamic Research Notebook|动态研究笔记本]]与去中心化交流核验体系。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 揭示超国家机构量化指标帝国的自指性生产机制及其对比较教育学科[[Paradigm|范式]]的扭曲。

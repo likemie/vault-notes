@@ -1,4 +1,15 @@
-•
+The Technological Republic: Hard Power, Soft Belief, and the Future of the West
+Alexander C. Karp and Nicholas W. Zamiska | 2025 | New York: Crown Currency
+Ebook ISBN 9780593798706
+
+Part IV: Rebuilding the Technological Republic
+Chapter Fifteen: Into the Desert
+
+[Reading copy: English original. Original print page markers and note IDs are retained. Book-level supplements are labelled separately from chapter text.]
+
+========================================================================
+Chapter text
+========================================================================
 
 [p. 171] Chapter Fifteen
 
@@ -35,3 +46,64 @@ The rest of the country, and many politicians across the United States, have ess
 The more fundamental issue is that the left establishment has decided, essentially unilaterally, that it need not be in conversation or dialogue with the right—that mere engagement with the other is itself a sign of cultural betrayal. [note:Y_d1-EndnotePhraseInText457] When Peggy Noonan noted in a 2019 essay that the distaste by the Washington establishment for the current brand of American populism was, at its core, “almost aesthetic,” she was absolutely correct in identifying the left’s most pernicious weapon: the ability to brand an entire swath of political views—on issues ranging from national security, immigration, abortion, to law enforcement—as essentially lowbrow and uncouth. This is where Silicon Valley and other progressives have unfortunately and unwittingly deprived themselves of power in the cultural conversation. Their refusal to engage with the political claims and demands of essentially half of the country risks marginalizing their own agenda.
 
 We have begun to privilege the symbolism of victory, the more theatrical elements and outward displays that constitute expression [p. 178] of our own moral superiority, over actual, and often less than visible, advances and improvements in standards of living and quality of life. And yet it is the zealous pursuit of those advances and outcomes that forms the bedrock of the engineer’s approach to the world and the basis of a technological republic. The risk is that we abandon a moral or ethical system oriented around results—the outcomes that matter most to people (less hunger, crime, and disease)—in favor of a far more performative discourse, where the management of messages around such outcomes eclipses the importance of the outcomes themselves. And the reconstruction of a technological republic will, among other things, require the rebuilding of an ownership society, a founder culture that came from tech but has the potential to reshape government, where nobody is entrusted with leadership who does not have a stake in their own success.
+
+========================================================================
+Chapter notes
+========================================================================
+
+[note:Y_d1-EndnotePhraseInText439] [notes p. 251]
+Nearly eight hundred visitors: Francis Galton, “Vox Populi,” Nature 75, no. 1949 (March 1907): 450.
+
+[note:Y_d1-EndnotePhraseInText440] [notes p. 251]
+It was a striking result: See James Surowiecki, The Wisdom of Crowds (New York: Anchor Books, 2005).
+
+[note:Y_d1-EndnotePhraseInText441] [notes p. 251]
+For Galton, the experiment: Galton, “Vox Populi,” 451.
+
+[note:Y_d1-EndnotePhraseInText442] [notes p. 251]
+We have, as Michael Sandel: Michael Sandel, What Money Can’t Buy: The Moral Limits of Markets (New York: Farrar, Straus and Giroux, 2012), 12–13.
+
+[note:Y_d1-EndnotePhraseInText443] [notes p. 251]
+An FBI file: William J. Maxwell, ed. James Baldwin: The FBI File (New York: Arcade, 2017), 7.
+
+[note:Y_d1-EndnotePhraseInText444] [notes p. 251]
+Such invasions of personal privacy: Kenneth D. Ackerman, “Five Myths About J. Edgar Hoover,” Washington Post, November 9, 2011.
+
+[note:Y_d1-EndnotePhraseInText445] [notes p. 251]
+A number of defense contractors: National Physical Laboratory, “Tracking People by Their ‘Gait Signature,’ ” September 20, 2012.
+
+[note:Y_d1-EndnotePhraseInText446] [notes p. 251]
+François-Marie Arouet: Voltaire, Zadig; or, The Book of Fate, an Oriental History (London, 1749), 53.
+
+[note:Y_d1-EndnotePhraseInText447] [notes p. 251]
+In the eighteenth century: William Blackstone, Commentaries on the Laws of England in Four Books, vol. 2 (Philadelphia: J. B. Lippincott, 1893), 587.
+
+[note:Y_d1-EndnotePhraseInText448] [notes p. 251]
+Thomas Starkie: Thomas Starkie, A Practical Treatise on the Law of Evidence, and Digest of Proofs, in Civil and Criminal Proceedings, vol. 1 (Boston: Wells & Lilly, 1826), 507.
+
+[note:Y_d1-EndnotePhraseInText449] [notes p. 251]
+In 2012, Palantir began: Ali Winston, “Palantir Has Secretly Been Using New Orleans to Test Its Predictive Policing Technology,” Verge, February 27, 2018.
+
+[note:Y_d1-EndnotePhraseInText450] [notes p. 251]
+The use of our platform: Matt Sledge and Ramon Antonio Vargas, “Palantir’s Crime-Fighting Software Causes Stir in New Orleans,” Times-Picayune, March 1, 2018.
+
+[note:Y_d1-EndnotePhraseInText451] [notes p. 251]
+In an essay published: Jay Stanley, “New Orleans Program Offers Lessons in Pitfalls of Predictive Policing,” American Civil Liberties Union, March [p. 252] 15, 2018.
+
+[note:Y_d1-EndnotePhraseInText452] [notes p. 252]
+In June 2020: Jay Greene, “Amazon Bans Police Use of Its Facial-Recognition Technology for a Year,” Washington Post, June 10, 2020; Drew Harwell, “Amazon Extends Ban on Police Use of Its Facial Recognition Technology Indefinitely,” Washington Post, May 18, 2021.
+
+[note:Y_d1-EndnotePhraseInText453] [notes p. 252]
+That same month: Bobby Allyn, “IBM Abandons Facial Recognition Products, Condemns Racially Biased Surveillance,” NPR, June 9, 2020.
+
+[note:Y_d1-EndnotePhraseInText454] [notes p. 252]
+The company’s chief executive: Jay Peters, “IBM Will No Longer Offer, Develop, or Research Facial Recognition Technology,” Verge, June 8, 2020.
+
+[note:Y_d1-EndnotePhraseInText455] [notes p. 252]
+The view that advanced technology: Rob Henderson, “ ‘Luxury Beliefs’ Are the Latest Status Symbol for Rich Americans,” New York Post, August 17, 2019.
+
+[note:Y_d1-EndnotePhraseInText456] [notes p. 252]
+Such beliefs: David Brooks, “The Sins of the Educated Class,” New York Times, June 6, 2024; see also Rob Henderson, Troubled: A Memoir of Foster Care, Family, and Social Class (New York: Gallery Books, 2024).
+
+[note:Y_d1-EndnotePhraseInText457] [notes p. 252]
+When Peggy Noonan noted: Peggy Noonan, “How Trump Lost Half of Washington,” Wall Street Journal, April 25, 2019.

@@ -8,7 +8,7 @@ aliases:
 summary: "指公共部门或先导机构通过在前沿重大任务中公开部署、测试与运行新型复杂技术，向潜在商业用户与产业界展示技术可行性与可靠性，从而消除信息不对称、化解认知疑虑并加速市场采纳的机制。"
 type: concept
 domain: "science-policy"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Correlational Research]]"
 related_facts:
+  - "[[National Aeronautics and Space Administration]]"
   - "[[Apollo Program]]"
   - "[[Semi-Automatic Ground Environment]]"
 related_arguments:
@@ -56,7 +57,7 @@ updated: 2026-10-07
 > - **边界** 示范效应侧重于信息传递、认知转变与心理信任建立，不等于直接提供研发资金支持或长期的市场价格补贴。
 
 > [!citation-card] 施奈论空间国防项目对计算机产业的示范效应
-> 商业计算机市场的销售取决于企业高管对复杂系统的接受程度，许多管理层缺乏充分理解计算机潜能所需的技术知识。若没有空间与国防计算机系统的示范效应，企业高管的不熟悉与怀疑态度将成为商业销售的重大障碍。1950年代军方对计算机能力的公开演示加速了商界对计算机的接纳；而在1960年代，NASA[[Apollo Program|阿波罗计划]]等太空任务中对计算机的广泛公开应用产生了无与伦比的示范效应，极大地增强了工业界对自动化控制系统的信任度。
+> 商业计算机市场的销售取决于企业高管对复杂系统的接受程度，许多管理层缺乏充分理解计算机潜能所需的技术知识。若没有空间与国防计算机系统的示范效应，企业高管的不熟悉与怀疑态度将成为商业销售的重大障碍。1950年代军方对计算机能力的公开演示加速了商界对计算机的接纳；而在1960年代，[[National Aeronautics and Space Administration|NASA]][[Apollo Program|阿波罗计划]]等太空任务中对计算机的广泛公开应用产生了无与伦比的示范效应，极大地增强了工业界对自动化控制系统的信任度。
 >
 > *Sales in the commercial computer market depended on the acceptance of complex systems by business executives. Many of these executives lacked the technical knowledge needed to fully appreciate the potential of computers. The combination of unfamiliarity and skepticism among business executives would have been a significant barrier to commercial sales were it not for the "demonstration effect" of space-defense computer systems... NASA's successful use of computers, particularly on Apollo, greatly increased industry's receptivity to computers. Managers became more willing to let computers control things, such as in process control of oil refineries. ([[Argument_Schnee_1978_RP|Schnee, 1978, pp. 10–11]])*
 
@@ -108,7 +109,7 @@ updated: 2026-10-07
 > 探讨复杂新技术在进入商用市场时，国家级高标准项目的成功实践如何帮助潜在客户跨越技术理解壁垒。
 
 > [!claim] [[Jerome E. Schnee|Schnee, J. E.]]
-> **重大航天与国防工程对民用采纳的信心注入效应** 杰罗姆·E·施奈（Jerome E. Schnee）指出，在电子计算机商业化早期，商业企业管理者普遍缺乏评估复杂数据处理与实时控制系统潜力的专业工程知识，技术不熟悉与投资怀疑构成了民用市场开拓的核心瓶颈。1950年代美国空军[[Semi-Automatic Ground Environment|半自动地面防空系统]]（Semi-Automatic Ground Environment, [[Sage]]）以及1960年代美国国家航空航天局（National Aeronautics and Space Administration, NASA）[[Apollo Program|阿波罗计划]]（Apollo Program）中计算机系统的卓越表现，提供了极具说服力的示范效应，彻底扭转了产业界对计算机[[Reliability|可靠性]]的疑虑，使得石油炼化等传统工业部门的管理者迅速接受了计算机实时过程控制方案。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 10–11)]]
+> **重大航天与国防工程对民用采纳的信心注入效应** 杰罗姆·E·施奈（Jerome E. Schnee）指出，在电子计算机商业化早期，商业企业管理者普遍缺乏评估复杂数据处理与实时控制系统潜力的专业工程知识，技术不熟悉与投资怀疑构成了民用市场开拓的核心瓶颈。1950年代美国空军[[Semi-Automatic Ground Environment|半自动地面防空系统]]（Semi-Automatic Ground Environment, [[Sage]]）以及1960年代[[National Aeronautics and Space Administration|美国国家航空航天局]]（National Aeronautics and Space Administration, NASA）[[Apollo Program|阿波罗计划]]（Apollo Program）中计算机系统的卓越表现，提供了极具说服力的示范效应，彻底扭转了产业界对计算机[[Reliability|可靠性]]的疑虑，使得石油炼化等传统工业部门的管理者迅速接受了计算机实时过程控制方案。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 10–11)]]
 
 ---
 

@@ -7,10 +7,10 @@ aliases:
 summary: "生物医药与科学研发经济学中的核心经验规律（摩尔定律 Moore Law 的反向拼写）：指尽管计算机算力、高通量筛选与基因测序技术呈指数级进步，通胀调整后每十亿美元研发投入所产生的新药获批数量却呈现每九年减半的长期指数级下降趋势；在更广阔的科学政策视阈下，该定律用于表征当代科研边际生产率普遍放缓、行政合规成本膨胀与既有研发组织范式陷入瓶颈的系统性困境。"
 type: concept
 domain: "science-policy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/science-policy
   - theme/research-funding
@@ -23,8 +23,10 @@ related_concepts:
   - "[[Focused Research Organization]]"
   - "[[Variable]]"
   - "[[Regulatory Sandbox]]"
+  - "[[Seniority Barrier in Academia]]"
   - "[[Academic Risk Aversion]]"
   - "[[Creativity]]"
+  - "[[Gold Standard Science]]"
   - "[[Document]]"
   - "[[Decodification]]"
   - "[[Portfolio-Based Research Funding]]"
@@ -79,7 +81,7 @@ updated: 2026-10-07
 > [!feature] 导致厄鲁姆定律生效的四大系统性机制
 > - **“好药在前”与低垂果实摘尽（"Better-than-the-Beatles" Problem）** 易于攻克的基础靶点与常见疾病疗法已被历史性发明，新研发药物必须证明显著优于市场上成熟且低价的通用仿制药，研发门槛呈非线性抬升。
 > - **监管审批合规通胀（Regulatory & Administrative Creep）** 临床伦理审查与审批合规要求急剧膨胀（1991–2025 年联邦新增科研合规要求逾 270 项），高校间接成本膨胀与教师近半科研时间用于文书报销，推高制度沉没成本。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 8, 15)]]
-> - **资历垄断与学术避险（Seniority Barrier & [[Academic Risk Aversion]]）** 课题负责人首次获资助平均年龄推迟至 42 岁，同行评议追求共识导致青年学者在[[Creativity|创造力]]黄金期被迫退守低风险增量课题，扼杀颠覆性靶点探索。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 16)]]
+> - **[[Seniority Barrier in Academia|资历垄断]]与学术避险（Seniority Barrier & [[Academic Risk Aversion]]）** 课题负责人首次获资助平均年龄推迟至 42 岁，同行评议追求共识导致青年学者在[[Creativity|创造力]]黄金期被迫退守低风险增量课题，扼杀颠覆性靶点探索。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 16)]]
 > - **工具[[Paradigm|范式]]停滞与中等规模工程缺位（Organizational & Tool Mismatch）** 耗资数千万美元、需专职跨学科工程团队攻坚的基础技术工具，既无法被大学单课题组容纳，又缺乏短期商业回报，在国家科研生态中形成结构性断层。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 22–24)]]
 
 ---
@@ -112,7 +114,7 @@ updated: 2026-10-07
 > 探讨人工智能如何与自动化实验基础设施协同大幅压低发现与试错边际成本。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
-> **智能生成与机器核验协同假说** 逆转厄鲁姆定律必须重构科学工具箱：一方面，依托[[Genesis Mission|创世纪计划]]训练行业基础大模型，将蛋白质结构预测与分子逆向从头设计的时间由数年压缩至数天；另一方面，必须同步建立机器可读的自动化形式化验证与云端实验室核验沙盒，以黄金标准科学打破不可重复[[Document|文献]]对公共预算长达十余年的误导，从根本上重塑国家生物医药与硬科学的研发生产率曲线。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 57–67)]]
+> **智能生成与机器核验协同假说** 逆转厄鲁姆定律必须重构科学工具箱：一方面，依托[[Genesis Mission|创世纪计划]]训练行业基础大模型，将蛋白质结构预测与分子逆向从头设计的时间由数年压缩至数天；另一方面，必须同步建立机器可读的自动化形式化验证与云端实验室核验沙盒，以[[Gold Standard Science|黄金标准科学]]打破不可重复[[Document|文献]]对公共预算长达十余年的误导，从根本上重塑国家生物医药与硬科学的研发生产率曲线。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 57–67)]]
 
 ---
 
@@ -138,7 +140,7 @@ updated: 2026-10-07
 > [!contrast-table] 厄鲁姆定律核心命题归纳
 > | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证[[Document\|文献]] |
 > |:---|:---|:---|:---|
-> | **病灶诊断** | **制度摩擦主导与避险放缓** | 行政合规通胀与资历垄断推高沉没成本，诱发普遍学术避险 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 14–16)]]; Scannell (2012) |
+> | **病灶诊断** | **制度摩擦主导与避险放缓** | 行政合规通胀与[[Seniority Barrier in Academia\|资历垄断]]推高沉没成本，诱发普遍学术避险 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 14–16)]]; Scannell (2012) |
 > | **组织突破** | **新型[[Focused Research Organization\|聚焦研究组织]]（FRO）破局** | 聘用专职工程团队攻坚中等规模公共品工具，弥补系所与市场断层 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 22–26)]] |
 > | **工具赋能** | **智能生成与机器核验协同** | AI 逆向分子设计叠加自动化云端实验沙盒，重构研发生产率曲线 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 57–67)]] |
 

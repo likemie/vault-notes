@@ -7,10 +7,10 @@ aliases:
 summary: "区域与国家创新体系中由密集的供应商网络、熟练技师劳动力、共享研发与测试设施以及代际沉淀的默会过程知识共同构成的集体产业生态基础设施；强调研发无法脱离实体制造而长期孤立繁荣，制造业公地的萎缩将导致底层工程设计能力退化与前沿技术外溢。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - field/university-industry-collaboration
   - theme/manufacturing
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Competitiveness]]"
   - "[[Research Universities]]"
+  - "[[Practitioner-in-Residence]]"
   - "[[Assemblage]]"
   - "[[Big Science]]"
   - "[[Epistemology]]"
@@ -122,7 +123,7 @@ updated: 2026-10-07
 > 阐明如何通过重构[[Engineering Education|工程教育]]、设立国家工匠奖学金与赋权社区学院以再造国家技能底座。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
-> **技能基底与[[Apprenticeship|学徒制]]重振假说** 重建产业公地必须打破单一[[Research Universities|研究型大学]]门第垄断：高等工程教育必须改革重理论轻动手的弊端，将车间排障与学徒实训计入学分；国家科研体系需设立“国家工匠奖学金”与“驻校实践者项目”，选拔顶尖技师进驻国家实验室并享有成果共同署名权；同时借助《[[Workforce Pell Grants 2025|劳动力佩尔助学金]]》将覆盖全美 40% 本科生的社区学院网络与战略半导体和生物制造产业集群对齐，形成代际相传的动手建造文化。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52–56)]]
+> **技能基底与[[Apprenticeship|学徒制]]重振假说** 重建产业公地必须打破单一[[Research Universities|研究型大学]]门第垄断：高等工程教育必须改革重理论轻动手的弊端，将车间排障与学徒实训计入学分；国家科研体系需设立“国家工匠奖学金”与“[[Practitioner-in-Residence|驻校实践者项目]]”，选拔顶尖技师进驻国家实验室并享有成果共同署名权；同时借助《[[Workforce Pell Grants 2025|劳动力佩尔助学金]]》将覆盖全美 40% 本科生的社区学院网络与战略半导体和生物制造产业集群对齐，形成代际相传的动手建造文化。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52–56)]]
 
 ---
 

@@ -7,7 +7,7 @@ summary: "美国当代科技政策制定者与战略管理者，曾任美国第4
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 36
+person_related_count: 37
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Pilot Scale Platform]]"
   - "[[Regulatory Sandbox]]"
   - "[[Apprenticeship]]"
+  - "[[Gold Standard Science]]"
   - "[[Focused Research Organization]]"
   - "[[Permissionless Innovation]]"
   - "[[Competitiveness]]"
@@ -114,7 +115,7 @@ updated: 2026-10-07
 > 1. **坚守公共基础研究资助，但破除单向管道迷思** 坚守联邦资助私人市场不愿充分承担之基础研究的公共职能，但彻底否定从基础到应用单向线性的流水线预设，确立以[[Pasteur's Quadrant|巴斯德象限]]为核心的二维探索逻辑。
 > 2. **资助重心由机构项目转向科学家个人** 破除行政文书与低资助率造成的风险厌恶，扩大可随人迁移的早期奖学金（如 GRFP）与长周期对人资助（如先锋奖模式），引入金券、快速资助与[[Pull Mechanisms for Innovation|拉动机制]]。
 > 3. **科学发现必须锚定本土制造与[[Process Knowledge|过程知识]]** 强调技术不仅由图纸专利构成，更深植于熟练工人的排障手感与默会知识；必须通过开放[[Pilot Scale Platform|中试平台]]、[[Regulatory Sandbox|监管沙盒]]与在岗[[Apprenticeship|学徒制]]，防止公共科研收益被海外竞争对手单向吸附。
-> 4. **在人工智能时代平衡扩大生成与核验能力** 既利用[[Genesis Mission|创世纪计划]]释放 AI 生成[[Hypothesis|假设]]的强大能力，又同步建设机器可读、自动化实验的黄金标准科学核验基础设施。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–7, 20–72)]]
+> 4. **在人工智能时代平衡扩大生成与核验能力** 既利用[[Genesis Mission|创世纪计划]]释放 AI 生成[[Hypothesis|假设]]的强大能力，又同步建设机器可读、自动化实验的[[Gold Standard Science|黄金标准科学]]核验基础设施。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–7, 20–72)]]
 
 > [!policy-design] 克拉齐奥斯治理工具箱
 > - **组合式资助（Portfolio Funding）** 在联邦资助中统筹配置高风险探索、中等规模工程与拉动奖金，设立法定[[Metascience|元科学]]单元以[[Randomised Controlled Trials|随机对照实验]]评估资助有效性。
@@ -130,7 +131,7 @@ updated: 2026-10-07
 > - **国家科研体制路径** 推动了战后八十年白宫对联邦科研资助格局最系统的自顶向下重构，以 2028 财年预算指导备忘录引导各联邦机构转向基础性物理科学、工程与[[Pasteur's Quadrant|巴斯德象限]]研究。
 > - **机构形态创新路径** 赋予独立[[Focused Research Organization|聚焦研究组织]]（FRO）和跨界联合体合法的联邦资助接口，推动国家实验室机时向硬科技初创企业全面开放。
 > - **技能与劳动力路径** 将[[Process Knowledge|过程知识]]与动手实践写入国家最高科学战略，建立了连接社区学院、在岗学徒与区域先进制造集群的政策通道。
-> - **智能科研基础设施路径** 统筹推进[[Genesis Mission|创世纪计划]]与黄金标准科学，奠定了机器可读、自动化复现的智能时代科学核验体系。
+> - **智能科研基础设施路径** 统筹推进[[Genesis Mission|创世纪计划]]与[[Gold Standard Science|黄金标准科学]]，奠定了机器可读、自动化复现的智能时代科学核验体系。
 
 ---
 

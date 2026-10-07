@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_theories:
 related_facts:
   - "[[Sputnik Shock 1957]]"
   - "[[Office of Science and Technology Policy]]"
+  - "[[National Aeronautics and Space Administration]]"
   - "[[Seaborg Report 1960]]"
   - "[[Federally Funded Research and Development Centers]]"
   - "[[Restoring Gold Standard Science Executive Order]]"
@@ -56,7 +57,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # President's Science Advisory Committee
@@ -79,7 +80,7 @@ updated: 2026-10-06
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **1957–1961 — 艾森豪威尔时期组建与“高自治—高嵌入”治理结构确立** 艾森豪威尔任命麻省理工学院（Massachusetts Institute of Technology, MIT）校长詹姆斯·基利安（James Killian）为首任全职总统科学顾问，正式组建 PSAC；首届 17 名委员中 14 名来自顶尖[[Research Universities|研究型大学]]，深度统筹军备控制、核战略、国家航空航天局（National Aeronautics and Space Administration, NASA）创建与高等教育扩容，形成科学精英深度嵌入大战略决策的黄金时期。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
+> - **1957–1961 — 艾森豪威尔时期组建与“高自治—高嵌入”治理结构确立** 艾森豪威尔任命麻省理工学院（Massachusetts Institute of Technology, MIT）校长詹姆斯·基利安（James Killian）为首任全职总统科学顾问，正式组建 PSAC；首届 17 名委员中 14 名来自顶尖[[Research Universities|研究型大学]]，深度统筹军备控制、核战略、[[National Aeronautics and Space Administration|国家航空航天局]]（National Aeronautics and Space Administration, NASA）创建与高等教育扩容，形成科学精英深度嵌入大战略决策的黄金时期。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > - **1961–1963 — 肯尼迪时期体制扩张与法定参谋机构 [[Office of Science and Technology Policy|OST]] 创设** 约翰·肯尼迪（John F. Kennedy）总统任命 MIT 工程学教授杰罗姆·威斯纳（Jerome Wiesner）为科学顾问兼 PSAC 主任；1962 年在白宫内正式创设科学技术办公室（OST），赋予科学顾问法定的政策统筹职能与常设技术参谋团队。
 > - **1963–1968 — 约翰逊时期重点转移与学科结构性脱节** 林登·约翰逊（Lyndon B. Johnson）总统推行“伟大社会”（Great Society）国内改革并谋求 PSAC 建言，但以数理与工程科学家为主体的 PSAC 难以就贫困、种族、城市等[[Socioscientific Issues|社会科学议题]]提供有效支撑，科学顾问与总统政治诉求逐渐疏离。
 > - **1969–1973 — 尼克松时期的互信破裂与委员会废止** 越战期间学界反战抗议激化，PSAC 成员在反弹道导弹（Anti-Ballistic Missile, [[Agent-based Modelling|ABM]]）和超音速客机（Supersonic Transport, SST）等议题上公开提出异议；理查德·尼克松（Richard Nixon）总统核心幕僚将 PSAC 斥为学术界在白宫套取经费的游说集团，于 1973 年 1 月解散 PSAC 并废除总统科学顾问职位。
@@ -119,7 +120,7 @@ updated: 2026-10-06
 > *President Eisenhower formed the President's Science Advisory Committee (PSAC), allowing academic elites to directly participate in highest-level decisions on nuclear deterrence, missile defense, and aerospace engineering. This forged a historically rare governance structure characterized by high autonomy and high embeddedness, wherein scientists were widely recognized as the embodiment of "national reason."*
 
 > [!finding-cards] 代表性政策报告与重大战略建言
-> - **1958 年《太空概论》（Introduction to Outer Space）** 由 Killian 领衔起草，系统阐释太空探索的科学、国防与威望价值，力主将航天事务置于文官管理之下，直接奠定了 1958 年成立国家航空航天局（NASA）的制度方案。
+> - **1958 年《太空概论》（Introduction to Outer Space）** 由 Killian 领衔起草，系统阐释太空探索的科学、国防与威望价值，力主将航天事务置于文官管理之下，直接奠定了 1958 年成立[[National Aeronautics and Space Administration|国家航空航天局]]（NASA）的制度方案。
 > - **1960 年[[Seaborg Report 1960|西博格报告]]（Seaborg Report）** 发布《科学进步、大学与联邦政府》（*Scientific Progress, the Universities, and the Federal Government*），系统主张联邦大规模扩充大学基础研究预算、在全国打造 30–40 所世界级卓越中心，并确立[[Indirect Costs of Research|科研间接成本]]报销机制。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
 > - **核军控与战略反导独立评估** 为白宫独立评估洲际弹道导弹推进技术与军用侦察卫星，推动《部分禁止核试验条约》（PTBT）技术论证；在反弹道导弹（[[Agent-based Modelling|ABM]]）系统技术审查中独立测算出拦截系统易被突防且造价不可持续，形成对五角大楼方案的关键制衡。
 > - **[[Federally Funded Research and Development Centers|联邦资助研究开发中心]]（FFRDC）治理规范** 就国家实验室（如费米实验室、劳伦斯伯克利实验室等）的运行机制、[[Big Science|大科学]]设施开放共享提供战略规范。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]

@@ -8,7 +8,7 @@ aliases:
 summary: "存在于熟练工程师、技师与实验科学家身上、无法完全编码为图纸与专利的排障手感与默会实践经验；作为技术能力的核心支柱，依赖物理邻近与制造生态传承，并在智能充沛时代构成物理创新的关键约束。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[National Innovation System]]"
   - "[[Engineering Education]]"
   - "[[Paradigm]]"
+  - "[[Practitioner-in-Residence]]"
   - "[[Innovation Hub]]"
   - "[[Document]]"
   - "[[Total Quality Management]]"
@@ -140,7 +141,7 @@ updated: 2026-10-07
 > 探讨单一学术学位评价如何割裂动手手艺，以及重振技能基底的制度方案。
 
 > [!claim] Kratsios, M. J.
-> **破除单一四年制学位垄断并重塑学徒通道** 传统高等教育过分偏向数学理论抽象，忽视车间排障与动手实验；国家必须将过程知识制度化纳入人才培养体系，依托社区学院、国家工匠奖学金、驻校实践者项目以及允许短期培训使用联邦学生资助的[[Workforce Pell Grants 2025|劳动力佩尔助学金]]，建立产研紧密咬合的技能传承生态。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52–53)]]
+> **破除单一四年制学位垄断并重塑学徒通道** 传统高等教育过分偏向数学理论抽象，忽视车间排障与动手实验；国家必须将过程知识制度化纳入人才培养体系，依托社区学院、国家工匠奖学金、[[Practitioner-in-Residence|驻校实践者项目]]以及允许短期培训使用联邦学生资助的[[Workforce Pell Grants 2025|劳动力佩尔助学金]]，建立产研紧密咬合的技能传承生态。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52–53)]]
 
 ---
 

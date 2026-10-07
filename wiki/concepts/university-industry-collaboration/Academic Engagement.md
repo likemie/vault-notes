@@ -8,7 +8,7 @@ aliases:
 summary: "在教育与创新政策研究中具有双重维度的构念：在学生发展视域下指学生向学术性教育活动投入的时间、精力和注意力（学业投入）；在产学合作视域下指学者个人或团队与企业展开的赞助研究、咨询、联合培养与人才双向流动的非排他知识性合作（产学学术参与），当代科技政策正通过资助产业博士、设立创业科学家计划与打破学术晋升壁垒深化这一机制。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -50,6 +50,7 @@ related_persons:
   - "[[Yajun Zheng]]"
   - "[[Michael Kratsios]]"
 related_facts:
+  - "[[Activate Fellowship]]"
   - "[[Office of Science and Technology Policy]]"
   - "[[Science A New Golden Age 2026]]"
 related_arguments:
@@ -103,7 +104,7 @@ updated: 2026-10-07
 > [!contrast-table] 产学学术参与 vs 商业化（Perkmann et al., 2013）
 > | 比较维度 | 产学学术参与（Academic Engagement） | 传统商业化（Commercialization） |
 > |:---|:---|:---|
-> | **核心活动载体** | 赞助研究、联合发表、咨询、学生联合培养、产业博士、Activate 驻场 | 专利申请、排他性专利许可、创办衍生企业（Spin-offs） |
+> | **核心活动载体** | 赞助研究、联合发表、咨询、学生联合培养、产业博士、[[Activate Fellowship\|Activate]] 驻场 | 专利申请、排他性专利许可、创办衍生企业（Spin-offs） |
 > | **驱动主体** | 学者个人、课题组团队、企业[[Academic Engagement Team\|学术参与团队]]（AET） | 大学[[Technology Transfer Office\|技术转移办公室]]（TTO）、风险投资机构 |
 > | **组织嵌入特征** | **低组织嵌入性** 高度分散在院系与实验室，多触点自主发起 | **高组织嵌入性** 遵循中央办公室标准化法务与产权审批流程 |
 > | **制度激励基础** | 学术声誉、前沿数据获取、学生就业渠道、产研双向探索 | 知识产权版税分成、股权资本收益、独家市场垄断权 |
@@ -147,7 +148,7 @@ updated: 2026-10-07
 > - **2010s — 产学学术参与概念奠定** Perkmann et al.（2013）在《Research Policy》[[Systematic Review|系统综述]]中确立学术参与（Academic Engagement）与商业化（Commercialization）的二分法，奠定产学协同组织研究新[[Paradigm|范式]]。
 > - **2023 年 — 中国大学生学业投入阶层机制深化** [[Yajun Zheng|郑雅君]]出版《金榜题名之后》，实证揭示学业投入在[[Goal-Controlled Mode|目标掌控模式]]与[[Intuition-Dependent Mode|直觉依赖模式]]下的深层阶层分化机制。
 > - **2025 年 — 大学多触点组织模式与 [[Academic Engagement Team|AET]] 理论系统化** Boccanfuso & Hall（2025）与 [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] 分别从大学侧与企业侧解构学术参与的[[Concierge Service|礼宾]]模式与矩阵协调机制。
-> - **2026 年 — 产业博士、Activate 创业科学家与晋升机制重塑** 白宫 [[Office of Science and Technology Policy|OSTP]] 发布《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]），正式确立推动产业博士培养、推广 Activate 驻场科学家模式并打破终身教职晋升壁垒的国家科技人才战略。
+> - **2026 年 — 产业博士、[[Activate Fellowship|Activate]] 创业科学家与晋升机制重塑** 白宫 [[Office of Science and Technology Policy|OSTP]] 发布《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]），正式确立推动产业博士培养、推广 Activate 驻场科学家模式并打破终身教职晋升壁垒的国家科技人才战略。
 
 ---
 
@@ -170,7 +171,7 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，提出扩大产业博士培养、推广伯克利 Activate 创业科学家模式及打破学术晋升壁垒的产学学术参与重塑方案。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，提出扩大产业博士培养、推广伯克利 [[Activate Fellowship|Activate]] 创业科学家模式及打破学术晋升壁垒的产学学术参与重塑方案。
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 深度质性与[[Quantitative Research|量化研究]]，揭示中国顶尖大学学生学业投入与[[Social Engagement|社会性投入]]在不同家庭阶层背景下的模式分化。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 从[[Academic Engagement Team|企业学术参与团队]]（AET）视角系统剖析产学学术参与的组织架构、预算配置与跨部门矩阵治理。
 

@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 64
+fact_related_count: 65
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Innovation Ecosystem]]"
   - "[[Gatekeepers]]"
+  - "[[Diversity, Equity, and Inclusion]]"
   - "[[Scientific Literacy]]"
   - "[[Paradigm]]"
   - "[[Scientific Method]]"
@@ -195,7 +196,7 @@ updated: 2026-10-07
 > > - **元科学机制设计论** 批评在低资助率下，常规同行评审天然排斥非共识与跨学科异端假说；主张在 NSF 内部建立元科学单元，强制推行金券制（Golden Tickets）、长周期对人资助与 48 小时快速资助通道，并以对照实验实证检验资助效率。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 27–28, 31–32)]]
 >
 > > [!axis] 评审标准学术卓越 vs 非学术性偏好扭曲
-> > 围绕在硬核技术提案中引入非学术性评价指标（如 DEI 倡议）的争论。
+> > 围绕在硬核技术提案中引入非学术性评价指标（如 [[Diversity, Equity, and Inclusion|DEI]] 倡议）的争论。
 > >
 > > - **多元代表性倡导** 认为应通过资助倾斜促进历史上代表性不足群体在科学界的参与。
 > > - **学术能力准则坚守论** 2021 至 2024 年间 NSF 重点涉及 DEI 倡议的资助份额由不足 1% 激增至 25% 以上；批评者指出以偏离[[Scientific Literacy|科学素养]]与技术优劣的标准筛选项目，不仅造成巨大行政公关内耗，更直接损害国家科研体系的原始创新能力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
@@ -215,7 +216,7 @@ updated: 2026-10-07
 > - **$81 Billion** 2022 年《[[CHIPS and Science Act|芯片与科学法案]]》为 NSF 授权的五年期预算总额（拟新增 360 亿美元，首年增长 8%）。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
 > - **3,000 名** 芯片法案拟将 NSF 研究生研究奖学金（GRFP）年度名额从 2000 名扩大后的规模。
 > - **42%–44%** 联邦资助高校教师平均用于处理基金申请、财务审计与行政合规文书的工作时间比例。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 8)]]
-> - **<1% $\to$ >25%** 2021 至 2024 年间 NSF 重点涉及 DEI 倡议的项目在总资助中的份额变化。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
+> - **<1% $\to$ >25%** 2021 至 2024 年间 NSF 重点涉及 [[Diversity, Equity, and Inclusion|DEI]] 倡议的项目在总资助中的份额变化。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
 > - **1,000+** [[NSF I-Corps]] 累计孵化的高校科技初创企业总数（撬动后续融资超 7.6 亿美元）。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]
 > - **$1.6 亿美元** [[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会首批向 10 个区域创新合作体授予的十年期资助总额。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, p. 134)]]
 

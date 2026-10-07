@@ -1,4 +1,15 @@
-•
+The Technological Republic: Hard Power, Soft Belief, and the Future of the West
+Alexander C. Karp and Nicholas W. Zamiska | 2025 | New York: Crown Currency
+Ebook ISBN 9780593798706
+
+Part III: The Engineering Mindset
+Chapter Ten: The Eck Swarm
+
+[Reading copy: English original. Original print page markers and note IDs are retained. Book-level supplements are labelled separately from chapter text.]
+
+========================================================================
+Chapter text
+========================================================================
 
 [p. 115] Chapter Ten
 
@@ -43,3 +54,73 @@ At most human organizations, from government bureaucracies to large corporations
 Skip Notes
 
 * [note:Y_d1-EndnotePhraseInText296] The names of the swarms under observation in many cases came from their locations in Munich (e.g., the “fence,” “elm,” and “hedge” swarms). The German word Eck means “corner” in English.
+
+========================================================================
+Chapter notes
+========================================================================
+
+[note:Y_d1-EndnotePhraseInText282] [notes p. 242]
+On June 26, 1951: Martin Lindauer, “House-Hunting by Honey Bee Swarms,” trans. P. Kirk Visscher, Karin Behrens, and Susanne Kuehnholz, Journal of Comparative Physiology 37 (1955): 271.
+
+[note:Y_d1-EndnotePhraseInText283] [notes p. 242]
+Lindauer was born in 1918: Thomas D. Seeley, “Martin Lindauer (1918–2008),” Nature, December 11, 2008, 718.
+
+[note:Y_d1-EndnotePhraseInText284] [notes p. 242]
+Thomas D. Seeley, a biology professor: Thomas D. Seeley, Honeybee Democracy (Princeton, N.J.: Princeton University Press, 2010), 13 (citing T. D. Seeley, S. Kühnholz, and R. H. Seeley, “An Early Chapter in Behavioral Physiology and Sociobiology: The Science of Martin Lindauer,” Journal of Comparative Physiology, 188 (July 2002): 442).
+
+[note:Y_d1-EndnotePhraseInText285] [notes p. 242]
+When animals search: Lindauer, “Honey Bee Swarms,” 264.
+
+[note:Y_d1-EndnotePhraseInText286] [notes p. 242]
+Whereas most animals explore: Lindauer, “Honey Bee Swarms,” 264 (emphasis added).
+
+[note:Y_d1-EndnotePhraseInText287] [notes p. 242]
+The University of Munich’s Zoological Institute: Lindauer, “Honey Bee Swarms,” 265.
+
+[note:Y_d1-EndnotePhraseInText288] [notes p. 242]
+At around three that afternoon: Lindauer, “Honey Bee Swarms,” 271–72.
+
+[note:Y_d1-EndnotePhraseInText289] [notes p. 242]
+The bees return: Karl von Frisch, The Dance Language and Orientation of Bees, trans. Leigh E. Chadwick (Cambridge, Mass.: Belknap Press of Harvard University Press, 1967), 269–70.
+
+[note:Y_d1-EndnotePhraseInText290] [notes p. 242]
+Over the course of the afternoon: Lindauer, “Honey Bee Swarms,” 272–73.
+
+[note:Y_d1-EndnotePhraseInText291] [notes p. 242]
+It had become evident: Lindauer, “Honey Bee Swarms,” 265–66, 287.
+
+[note:Y_d1-EndnotePhraseInText292] [notes p. 242]
+Lindauer narrated the scene: Lindauer, “Honey Bee Swarms,” 272.
+
+[note:Y_d1-EndnotePhraseInText293] [notes p. 242]
+On the following day: Lindauer, “Honey Bee Swarms,” 274.
+
+[note:Y_d1-EndnotePhraseInText294] [notes p. 242]
+A new batch of potential sites: Lindauer, “Honey Bee Swarms,” 275.
+
+[note:Y_d1-EndnotePhraseInText295] [notes p. 242]
+Over the next several hours: Lindauer, “Honey Bee Swarms,” 275.
+
+[note:Y_d1-EndnotePhraseInText296] [notes p. 242]
+The names of the swarms: Lindauer, “Honey Bee Swarms,” 268.
+
+[note:Y_d1-EndnotePhraseInText297] [notes p. 242]
+[p. 243] As one group of researchers: Sayra Cristancho and Graham Thompson, “Building Resilient Healthcare Teams: Insights from Analogy to the Social Biology of Ants, Honey Bees and Other Social Insects,” Perspectives on Medical Education 12, no. 1 (2023): 254.
+
+[note:Y_d1-EndnotePhraseInText298] [notes p. 243]
+Each of the cameras: Giorgio Parisi, In a Flight of Starlings: The Wonder of Complex Systems, trans. Simon Carnell (New York: Penguin Books, 2023), 9.
+
+[note:Y_d1-EndnotePhraseInText299] [notes p. 243]
+He found that the flocks: Parisi, Flight of Starlings, 11.
+
+[note:Y_d1-EndnotePhraseInText300] [notes p. 243]
+As Parisi wrote: Parisi, Flight of Starlings, 16.
+
+========================================================================
+Sources for figures in this chapter (original Art Credits, pp. 285–286)
+========================================================================
+
+All images have been either reprinted or redrawn based on data from the following sources:
+
+Figure 9
+Martin Lindauer, “House-Hunting by Honey Bee Swarms,” trans. P. Kirk Visscher, Karin Behrens, and Susanne Kuehnholz, Journal of Comparative Physiology 37 (1955): 274.

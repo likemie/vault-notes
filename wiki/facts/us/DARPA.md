@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 69
+fact_related_count: 70
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -75,6 +75,7 @@ related_persons:
   - "[[David C. Mowery]]"
 related_facts:
   - "[[Sputnik Shock 1957]]"
+  - "[[National Aeronautics and Space Administration]]"
   - "[[ARPANET]]"
   - "[[Mansfield Amendment 1969]]"
   - "[[VLSI Project]]"
@@ -127,7 +128,7 @@ updated: 2026-10-07
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 六十年技术使命演化与突破历程
-> - **1958–1960s — 太空竞争突围与计算机科学建制奠基** 艾森豪威尔总统因应苏联斯普特尼克危机设立高级研究计划局（ARPA）；早期短暂主导美国航天计划（后移交美国国家航空航天局 [National Aeronautics and Space Administration, NASA]）；1962 年设立信息处理技术办公室（Information Processing Techniques Office, IPTO），资助分时操作系统、图形交互与分组交换网络；1968 年底突破传统垄断电信巨头，将首个[[ARPANET|阿帕网]]（ARPANET）接口信息处理机关键制造合同授予麻省理工学院教授创办的小型工程咨询公司博尔特-贝拉内克-纽曼（Bolt, Beranek and Newman, BBN），直接催生阿帕网；并系统资助麻省理工学院、斯坦福大学、卡内基梅隆大学与加州大学伯克利分校等高校计算机科学系所的学科奠基。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 38–39)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 175–176, 183)]]
+> - **1958–1960s — 太空竞争突围与计算机科学建制奠基** 艾森豪威尔总统因应苏联斯普特尼克危机设立高级研究计划局（ARPA）；早期短暂主导美国航天计划（后移交[[National Aeronautics and Space Administration|美国国家航空航天局]] [National Aeronautics and Space Administration, NASA]）；1962 年设立信息处理技术办公室（Information Processing Techniques Office, IPTO），资助分时操作系统、图形交互与分组交换网络；1968 年底突破传统垄断电信巨头，将首个[[ARPANET|阿帕网]]（ARPANET）接口信息处理机关键制造合同授予麻省理工学院教授创办的小型工程咨询公司博尔特-贝拉内克-纽曼（Bolt, Beranek and Newman, BBN），直接催生阿帕网；并系统资助麻省理工学院、斯坦福大学、卡内基梅隆大学与加州大学伯克利分校等高校计算机科学系所的学科奠基。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 38–39)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 175–176, 183)]]
 > - **1970s — [[Mansfield Amendment 1969|曼斯菲尔德修正案]]、TCP/IP 公共领域确立与战术隐身突防** 国会通过《曼斯菲尔德修正案》（Mansfield Amendment），强制要求国防研发紧密挂钩直接军事需求；机构改组为国防高级研究计划局（DARPA），重点资助战术防御技术；启动“海弗蓝”（Have Blue）验证机项目，突破机身雷达散射截面积计算理论与吸波材料工艺，最终催生 F-117 隐身攻击机。同期在网络通信领域，资助罗伯特·卡恩（Robert Kahn）与文顿·瑟夫（Vinton Cerf）研制传输控制协议与网际协议（Transmission Control Protocol / Internet Protocol, TCP/IP），并坚持将其完全置于公共领域（Public Domain），不申请排他性专利，联合全美逾 100 所大学和科研节点进行大规模实体部署，奠定了全球开放互联网架构。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 39–40)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
 > - **1980s — 战略计算倡议、[[VLSI Project|VLSI]] 设计革命与半导体危机应对** 面对日本半导体制造业的激烈竞争，发起战略计算倡议（Strategic Computing Initiative, SCI）；资助超大规模集成电路（Very Large Scale Integration, VLSI）结构化设计方法论革命并创立[[MOSIS|金属氧化物半导体实现服务]]（MOSIS）硅代工原型试验平台；资助加州大学伯克利分校与斯坦福大学开发精简指令集计算机（Reduced Instruction Set Computer, RISC）微处理器架构；在 1980–1989 年间资助 9 亿美元实施全额行政主导的甚高速集成电路（Very High Speed Integrated Circuits, VHSIC）计划；1987 年联合 14 家芯片制造巨头共同创立[[Sematech|半导体制造技术战略联盟]]（SEMATECH），每年提供 1 亿美元对等匹配资助（占 50%），推动公私协同与前竞争共性技术攻坚；全力推进全球定位系统（Global Positioning System, GPS）的军民部署。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 180–183)]]; [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–730)]]
 > - **1990s — 冷战后军民两用转型与微系统基础探索** 在加里·登曼（Gary Denman）、拉里·林恩（Larry Lynn）与弗兰克·费尔南德斯（Frank Fernandez）领导下，DARPA 重点转向军民两用（Dual-use）技术开发与跨学科基础探索；微系统技术办公室（MTO，前身为电子技术办公室 ETO）依托开放广泛领域公告（[[Broad Agency Announcement]], [[Broad Agency Announcement|BAA]]），前瞻性资助硅锗（Silicon-Germanium, SiGe）异质结双极晶体管与应变硅材料研发，突破硅基物理极限，为后摩尔时代微处理器奠定核心工艺基石。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138)]]

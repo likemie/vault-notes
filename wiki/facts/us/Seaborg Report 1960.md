@@ -12,9 +12,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: 美国总统科学顾问委员会（President's Science Advisory Committee, PSAC）
 tags:
@@ -41,13 +41,14 @@ related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
+  - "[[National Aeronautics and Space Administration]]"
   - "[[American Council on Education]]"
 related_arguments:
   - "[[Argument_Stephan_2013_NBER]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Seaborg Report 1960
@@ -71,7 +72,7 @@ updated: 2026-10-02
 
 > [!policy-design]- 政策设计与战略构架
 > - **政策目标** 突破少数顶尖名校的科研垄断，在全国范围内大面积培植顶尖大学科研高地，实现国家科学攻关能力与高层次科技人才培养的双重倍增。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
-> - **战略行动者** 联邦资助机构（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]、DOD、NASA 等）向大学系统定向投放增量预算，大学管理层配合进行科系与实验室物理扩建。
+> - **战略行动者** 联邦资助机构（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]、DOD、[[National Aeronautics and Space Administration|NASA]] 等）向大学系统定向投放增量预算，大学管理层配合进行科系与实验室物理扩建。
 > - **核心政策工具**
 >   1. **间接费率放开** 打破战后 15% 的间接成本上限，建立完全成本补偿通道；
 >   2. **薪资列支合法化** 允许大学将终身教职及新招聘教师的学年薪水直接计入联邦竞争性项目预算；
@@ -95,7 +96,7 @@ updated: 2026-10-02
 > [!timeline] 政策演进关键节点
 > - **1957** 苏联斯普特尼克（[[Sputnik Shock 1957|Sputnik]]）卫星升空，美国艾森豪威尔政府重组[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）。
 > - **1960** 格伦·西博格牵头完成并正式发布报告《科学进步、大学与联邦政府》（*Scientific Progress, the Universities, and the Federal Government*）。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
-> - **1964–1966** 报告诉求全面落地：[[National Science Foundation|NSF]] 创设大学科学发展计划（USDP），启动间接费逐校协商政策；DOD 推出 Project THEMIS，NASA 设立 SUP，[[National Institutes of Health|NIH]] 设立 HSAA。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 15–16)]]
+> - **1964–1966** 报告诉求全面落地：[[National Science Foundation|NSF]] 创设大学科学发展计划（USDP），启动间接费逐校协商政策；DOD 推出 Project THEMIS，[[National Aeronautics and Space Administration|NASA]] 设立 SUP，[[National Institutes of Health|NIH]] 设立 HSAA。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 15–16)]]
 
 ---
 
@@ -103,7 +104,7 @@ updated: 2026-10-02
 
 > [!actor-grid] 实施角色分工
 > - **政策发起与审计** [[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）统筹；[[National Science Foundation|美国国家科学基金会]]（NSF）与卫生福利部（HEW）负责具体执行落地。
-> - **执行主体（联邦任务机构）** NSF、[[National Institutes of Health|NIH]]、国防部（DOD）、国家航空航天局（NASA）分别设立了专项卓越中心与发展基金。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 15–16)]]
+> - **执行主体（联邦任务机构）** NSF、[[National Institutes of Health|NIH]]、国防部（DOD）、[[National Aeronautics and Space Administration|国家航空航天局]]（NASA）分别设立了专项卓越中心与发展基金。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 15–16)]]
 > - **被动员对象** 全美[[Research Universities|研究型大学]]（尤其是原排名前 15 之外的潜力公立与私立大学），通过主动提交科系扩建与机构发展方案竞逐资金。
 
 > [!pathways]- 实施路径与机制展开

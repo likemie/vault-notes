@@ -2,7 +2,7 @@
 summary: "指国家通过公共采购、预商用采购、标准制定、催化性法规与示范项目等手段，主动培育、汇聚与定向引导市场需求，以化解前沿技术早期市场不确定性并加速创新扩散的公共政策体系；是使命导向政策塑造新兴市场的核心支柱。"
 type: concept
 domain: "science-policy"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -43,6 +43,7 @@ related_persons:
   - "[[John E. Tilton]]"
 related_facts:
   - "[[Fairchild Semiconductor]]"
+  - "[[National Aeronautics and Space Administration]]"
   - "[[Brookings Institution]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
@@ -54,7 +55,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-05
+updated: 2026-10-07
 title: Demand-side Innovation Policy
 aliases:
   - 需求侧创新政策
@@ -159,7 +160,7 @@ aliases:
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1950s–1970s — 冷战国防采购实践探索** 美国军方与国家航空航天局（NASA）通过对半导体器件和大型计算机的 100% 首发托底采购，创造了需求侧政策塑造微电子革命的历史经验原型。
+> - **1950s–1970s — 冷战国防采购实践探索** 美国军方与[[National Aeronautics and Space Administration|国家航空航天局]]（NASA）通过对半导体器件和大型计算机的 100% 首发托底采购，创造了需求侧政策塑造微电子革命的历史经验原型。
 > - **1978 — 战后高科技采购微观[[Learning Economy|学习经济]]实证奠基** [[Jerome E. Schnee|施尼]]（[[Argument_Schnee_1978_RP|Schnee, 1978]]）与[[John E. Tilton|蒂尔顿]]（Tilton, 1971）实证揭示空间与国防采购对半导体、集成电路和计算机的初期拉动作用，确立 100% 首购托底与累计产量倍增导致成本下降 20%–30% 的微观需求侧传导机制。
 > - **1980s — 创新政策工具箱系统分类** 罗思韦尔（Roy Rothwell）在《工业创新与政府政策》中系统提出公共采购、法规标准与用户补贴等需求侧创新政策工具分类。
 > - **2007 — 欧洲先导市场倡议与理论奠基** 埃德勒（Jakob Edler）与乔治乌（Luke Georghiou）正式提出需求侧创新政策综合理论框架，推动欧盟设立创新公共采购（[[Patient and Public Involvement|PPI]]）与预商用采购（PCP）政策体系。

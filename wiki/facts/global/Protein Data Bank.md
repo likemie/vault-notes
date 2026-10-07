@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -40,6 +40,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
   - "[[Department of Energy]]"
+  - "[[Cold Spring Harbor Laboratory]]"
   - "[[Critical Assessment of Structure Prediction]]"
   - "[[Genesis Mission]]"
 related_arguments:
@@ -87,7 +88,7 @@ updated: 2026-10-07
 ## 推进历程与阶段演进
 
 > [!dev-timeline] PDB 半个世纪的发展演变脉络
-> - **1971 — 布鲁克海文国家实验室创设初期** 瓦尔特·[[Alexander Hamilton|汉密尔顿]]（Walter Hamilton）与冷泉港实验室共同推动建立 PDB，最初仅收录包括肌红蛋白、血红蛋白在内的 7 个晶体结构。
+> - **1971 — 布鲁克海文国家实验室创设初期** 瓦尔特·[[Alexander Hamilton|汉密尔顿]]（Walter Hamilton）与[[Cold Spring Harbor Laboratory|冷泉港实验室]]共同推动建立 PDB，最初仅收录包括肌红蛋白、血红蛋白在内的 7 个晶体结构。
 > - **1980s–1990s — 晶体衍射与核磁共振数据爆发** 随着同步辐射光源与多维 NMR 技术的普及，收录结构突破万件，正式确立国际期刊强制交存准则。
 > - **2003 — 组建全球蛋白质数据库联盟（wwPDB）** 形成由美国 RCSB PDB、欧洲 PDBe、日本 PDBj 及后来加入的生物核磁共振数据银行（BMRB）构成的四方联合治理架构。
 > - **2010s–至今 — 冷冻电镜革命与 AI 蛋白质折叠颠覆** 冷冻电镜（Cryo-EM）使复杂超大分子机器解析呈现爆炸式增长；PDB 累积的 20 余万个高质量原子级结构，直接成为 DeepMind 训练 AlphaFold 1/2/3 及 ESMFold 的决定性金矿。

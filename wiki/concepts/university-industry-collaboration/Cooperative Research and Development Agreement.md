@@ -191,7 +191,7 @@ updated: 2026-10-07
 > | [[Department of Energy]] | Fact | 全美持有[[Megascience Installations\|大科学装置]]最多、签署 CRADA 协议最广泛的联邦部门。 |
 > | [[Sematech]] | Fact | 历史上依托 CRADA 与国家实验室深度协同攻关的经典产业联合体。 |
 > | [[EUV LLC]] | Fact | 依托 CRADA 架构攻克极紫外光刻核心工艺的里程碑联合体。 |
-> | [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] | Argument | 白宫 2026 年科技报告对全面推行 30 天绿色通道 CRADA 改革的权威论述。 |
+> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | Argument | 白宫 2026 年科技报告对全面推行 30 天绿色通道 CRADA 改革的权威论述。 |
 
 ---
 

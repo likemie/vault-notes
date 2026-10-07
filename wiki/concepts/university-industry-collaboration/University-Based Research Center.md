@@ -8,7 +8,7 @@ aliases:
 summary: "产学联盟四种组织模式中介于企业联盟计划和创新中心之间的形态，大学先选定研究方向后产业基于对齐度加入，由政府与产业双重资助，产业成员获得前景知识产权的优先谈判权"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -55,6 +55,7 @@ related_facts:
   - "[[Sematech]]"
   - "[[Sematech Centers of Excellence]]"
   - "[[Science Foundation Ireland]]"
+  - "[[National Aeronautics and Space Administration]]"
   - "[[NSF Regional Innovation Engines]]"
   - "[[Manufacturing USA]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"
@@ -185,7 +186,7 @@ updated: 2026-10-07
 > - **1970 年代末 — 重资产瓶颈与早期产学试点** 面对微细加工装备与洁净室成本激增以及日本 [[VLSI Project|VLSI]] 的竞争威胁，美国高校（如康奈尔 [[National Research and Resource Facility for Submicron Structures|NRRFSS]]、斯坦福 CIS）探索创立向全美开放的重资产中心；1978 年 [[National Science Foundation|NSF]] 创设 [[Industry-University Cooperative Research Centers|I/UCRC]] 试点产学协同。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 286–287)]]; [[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 41)]]
 > - **1984 年 — [[Engineering Research Centers|ERC]] 设立与 MMURC 模式全面确立** 在[[Erich Bloch|埃里希·布洛赫]]与[[Nam Pyo Suh|徐南杓]]推动下，NSF 创立[[Engineering Research Centers|工程研究中心]]（ERC），正式标志着从单 PI 自由探索向多用途多学科大学研究中心（MMURC）的历史转型，开创合作协议与十年日落资助机制。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–367)]]
 > - **1980 年代中后期 — 产业研发联合体组织嵌合** 中心深度嵌合入[[Semiconductor Research Corporation|半导体研究公司]]（SRC）与 [[Sematech]] [[Sematech Centers of Excellence|大学卓越中心]]网络，承担关键共性机理突破与高阶博士人才输送。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 292–296)]]
-> - **1990 年代 — 平台迁移与国际制度扩散** 随着微电子产业联合体成熟，大学中心敏捷迁移至生物芯片（DNA Microarray）与微机电纳米领域；ERC 模式被英国、[[Science Foundation Ireland|爱尔兰科学基金会]]（SFI CSET）以及美国航天局（NASA）广泛移植。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 297–299)]]; [[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 369–370)]]
+> - **1990 年代 — 平台迁移与国际制度扩散** 随着微电子产业联合体成熟，大学中心敏捷迁移至生物芯片（DNA Microarray）与微机电纳米领域；ERC 模式被英国、[[Science Foundation Ireland|爱尔兰科学基金会]]（SFI CSET）以及美国航天局（[[National Aeronautics and Space Administration|NASA]]）广泛移植。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 297–299)]]; [[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 369–370)]]
 > - **2010 年代至今 — 国家制造创新网络与[[NSF Regional Innovation Engines|区域创新引擎]]** 美国商务部设立 [[Manufacturing USA]] 制造创新研究所网络；2022 年 NSF 增设 [[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会启动 [[NSF Regional Innovation Engines|区域创新引擎]]，大学研究型中心进一步升级为引领区域经济发展与国家供应链安全的战略[[Innovation Hub|创新枢纽]]。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, p. 112)]]; [[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]
 
 ---

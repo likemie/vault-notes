@@ -56,6 +56,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Heterogeneity]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Metascience]]"
   - "[[Educational Affordances]]"
 related_theories:
   - "[[Four Generations of Research Use]]"
@@ -247,7 +248,7 @@ ightarrow$ 结论呼吁增设技能培训以弥补短板；结论反向印证了
 > [!citation-card]- 迈向第四代研究使用
 > 基于我们的发现，我们主张关于研究使用的研究应当迈向第四代，在更大程度上顾及教师专业实践的核心特征……与其将问题表述为教师个体能力的欠缺，不如将分析焦点置于[[Knowledge Integration\|知识整合]]之上，从而更深刻地揭示科研知识在专业实践中的适用边界与潜在价值。（p. 8）
 >
-> *Based on our findings, we argue that research on research use should move towards a fourth generation of studies, which, to a greater extent, takes into [[Accounts\|account]] key characteristics of teachers’ professional practice... Rather than framing the problem as one of a teacher’s competencies, an analytical focus on knowledge integration would more strongly emphasise the constraints and [[Educational Affordances\|affordances]] of research knowledge as a component of professional practice.*
+> *Based on our findings, we argue that [[Metascience|Research on Research]] use should move towards a fourth generation of studies, which, to a greater extent, takes into [[Accounts\|account]] key characteristics of teachers’ professional practice... Rather than framing the problem as one of a teacher’s competencies, an analytical focus on knowledge integration would more strongly emphasise the constraints and [[Educational Affordances\|affordances]] of research knowledge as a component of professional practice.*
 
 ---
 

@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -34,13 +34,14 @@ related_concepts:
 related_methods:
   - "[[Correlational Research]]"
 related_facts:
+  - "[[National Aeronautics and Space Administration]]"
   - "[[Fairchild Semiconductor]]"
 related_arguments:
   - "[[Argument_Schnee_1978_RP]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Apollo Program
@@ -50,7 +51,7 @@ updated: 2026-10-03
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 阿波罗计划（Apollo Program / Project Apollo）是美国国家航空航天局（NASA）在1961年至1972年间统筹实施的巨型国家级载人航天工程，旨在冷战空间竞赛背景下实现载人登月并安全返回地球，总耗资逾200亿美元；该工程通过对极端严苛环境下微型化电子器件的大规模战略采购与系统集成，构成了20世纪推动半导体与现代计算机产业腾飞的核心催化力量。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 2, 7–11)]]
+> 阿波罗计划（Apollo Program / Project Apollo）是[[National Aeronautics and Space Administration|美国国家航空航天局]]（NASA）在1961年至1972年间统筹实施的巨型国家级载人航天工程，旨在冷战空间竞赛背景下实现载人登月并安全返回地球，总耗资逾200亿美元；该工程通过对极端严苛环境下微型化电子器件的大规模战略采购与系统集成，构成了20世纪推动半导体与现代计算机产业腾飞的核心催化力量。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 2, 7–11)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1961年5月由美国总统约翰·F·肯尼迪（John F. Kennedy）宣布启动，1969年7月阿波罗11号实现人类首次载人登月，1972年12月阿波罗17号完成最后一次登月任务后结项。
@@ -72,7 +73,7 @@ updated: 2026-10-03
 > - **实施控制** 实行全流程故障追踪、零缺陷质量管理体系、备份冗余设计以及多源供应商竞争比选。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 14–16)]]
 
 > [!citation-card] 施奈论阿波罗计划对半导体与计算机产业的双重塑造
-> 在集成电路投入商业生产的最初几年，政府需求表现得尤为关键。早期的集成电路用于民兵导弹计划以及1962与1963年的海军和NASA项目。在1962年全美400万美元的集成电路市场中，空间与国防采购占据了100%的市场份额。伴随产量提升，[[Learning Economy|学习经济]]得以释放，成本迅速下降。阿波罗计划中计算机系统的成功运作，更产生了巨大的[[Demonstration Effect|示范效应]]，彻底打破了传统工商业界对自动化过程控制可靠性的疑虑。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–11)]]
+> 在集成电路投入商业生产的最初几年，政府需求表现得尤为关键。早期的集成电路用于民兵导弹计划以及1962与1963年的海军和[[National Aeronautics and Space Administration|NASA]]项目。在1962年全美400万美元的集成电路市场中，空间与国防采购占据了100%的市场份额。伴随产量提升，[[Learning Economy|学习经济]]得以释放，成本迅速下降。阿波罗计划中计算机系统的成功运作，更产生了巨大的[[Demonstration Effect|示范效应]]，彻底打破了传统工商业界对自动化过程控制可靠性的疑虑。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–11)]]
 >
 > *Government demand proved even more significant during the first years of integrated circuit commercial production... In 1962, space-defense sales accounted for the total $4 million integrated circuit market... NASA's successful use of computers, particularly on Apollo, greatly increased industry's receptivity to computers. Managers became more willing to let computers control things. ([[Argument_Schnee_1978_RP|Schnee, 1978, pp. 7]], 11)*
 
@@ -90,7 +91,7 @@ updated: 2026-10-03
 ## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
-> - **发起与资助方** 美国国家航空航天局（NASA），负责制定总体技术规范、资金划拨、跨部门协调与任务发射指挥。
+> - **发起与资助方** [[National Aeronautics and Space Administration|美国国家航空航天局]]（NASA），负责制定总体技术规范、资金划拨、跨部门协调与任务发射指挥。
 > - **总体设计与高校研发中心** 麻省理工学院仪器实验室（查尔斯·斯塔克·德雷珀领导），负责星载制导与导航算法设计及硬件规格定义。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 23)]]
 > - **半导体与器件供应商** [[Fairchild Semiconductor|仙童半导体]]、德州仪器、摩托罗拉等企业，负责攻克高[[Reliability|可靠性]]硅平面集成电路与特种半导体制造工艺。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 11, 16)]]
 > - **整机系统集成商与工业承包商** IBM、Univac、北美航空、格鲁曼航空等，负责星载计算机[[Assemblage|装配]]、地面大型[[Center of Calculation|计算中心]]构建与飞船制造。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 10, 19)]]
@@ -102,7 +103,7 @@ updated: 2026-10-03
 > [!finding-cards] 核心技术与产业溢出成效
 > - **驱动集成电路成本指数级下降** 阿波罗计划与民兵导弹等政府采购创造的初始市场规模，推动集成电路均价从1962年的约50美元暴跌至1968年的2美元，直至1973年的0.63美元，使微电子技术迅速具备民用可行性。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–8)]]
 > - **确立产业[[Demonstration Effect|示范效应]]** 阿波罗任务在全球媒体注视下的成功，打破了工业界管理者对计算机控制炼油厂等连续生产流程的心理阻滞，奠定了商用计算机普及的基础。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 10–11)]]
-> - **培养高技术工程管理骨干** NASA实时计算机中心与承包商团队为美国培养了数以千计掌握大型实时仿真与网络化计算技术的项目经理与系统工程师，该批人才后续流动至联邦航空局（FAA）、英格兰银行及商业汽车企业。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 19–20)]]
+> - **培养高技术工程管理骨干** [[National Aeronautics and Space Administration|NASA]]实时计算机中心与承包商团队为美国培养了数以千计掌握大型实时仿真与网络化计算技术的项目经理与系统工程师，该批人才后续流动至联邦航空局（FAA）、英格兰银行及商业汽车企业。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 19–20)]]
 
 ---
 

@@ -6,7 +6,7 @@ aliases:
 summary: "以国家地缘竞争、产业全面复兴与绝对安全优势为导向，强调快速获取、工程部署与行政审计关键技术能力的新型科技治理形态，标志着国家与科学共同体关系由认知中心向能力中心的结构性转移。"
 type: concept
 domain: "science-policy"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Research Security]]"
   - "[[Research Universities]]"
   - "[[Pride in Learning]]"
+  - "[[Diversity, Equity, and Inclusion]]"
   - "[[National Innovation System]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Variable]]"
@@ -93,7 +94,7 @@ updated: 2026-10-07
 > [!feature] 技术型社会契约的四维治理要素 [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]
 > - **国家利益直接绑定关键技术** 科技政策不再以知识发现为[[Pride in Learning|自豪]]，而是将赢得人工智能、量子科技和先进制程半导体竞赛确立为国家利益核心叙事，探索未知功能被系统性边际化。
 > - **新型行政资源动员链条** 确立总统定向、联邦统筹、部门执行与公私伙伴协同的配置[[Paradigm|范式]]，依托战略工程与采购网络，国家实验室与企业成为技术攻坚主体，大学战略轴心地位显著边缘化。
-> - **惩罚性预算调整与行政扣留** 动用扣留拨款（impoundment）等行政裁量权，全面冻结或削减气候变化、公共卫生、成瘾医学、人类免疫缺陷病毒与获得性免疫缺陷综合征（HIV/AIDS）以及多元、平等与包容（DEI）领域的科研经费。
+> - **惩罚性预算调整与行政扣留** 动用扣留拨款（impoundment）等行政裁量权，全面冻结或削减气候变化、公共卫生、成瘾医学、人类免疫缺陷病毒与获得性免疫缺陷综合征（HIV/AIDS）以及[[Diversity, Equity, and Inclusion|多元、平等与包容]]（DEI）领域的科研经费。
 > - **受限自治与程序审计替代** 颁布《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，以数据透明和方法复现为杠杆，将学术研究置于外部行政审计与程序合规控制之下，科学自治演变为高度安全化、政治化的受限自治。
 
 > [!logic-map]- 技术型社会契约的治理逻辑运转机制

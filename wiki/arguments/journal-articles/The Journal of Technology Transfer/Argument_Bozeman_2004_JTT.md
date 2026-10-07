@@ -24,7 +24,7 @@ title: "Argument_Bozeman_2004_JTT"
 argument_key: "Argument_Bozeman_2004_JTT"
 argument_display_title: "The NSF Engineering Research Centers and the University–Industry Research Revolution: A Brief History Featuring an Interview with Erich Bloch"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -60,6 +60,7 @@ related_facts:
   - "[[Science and Technology Centers]]"
   - "[[SBIR and STTR Programs]]"
   - "[[Science Foundation Ireland]]"
+  - "[[National Aeronautics and Space Administration]]"
 status: active
 created: 2026-10-06
 updated: 2026-10-07
@@ -228,7 +229,7 @@ updated: 2026-10-07
 > [!dev-timeline] ERC 模式的多向制度扩散
 > - **1987 — 催生 NSF [[Science and Technology Centers|科学技术中心计划]]** 布洛赫在致国家科学院院长弗兰克·普雷斯的信件中明确指出，[[Science and Technology Centers|STC]] 正是 ERC 机制向更广泛自然科学领域的直接衍生。（p.369）
 > - **1980 年代末 — 海外工业国家模式移植** 英国在 ERC 启动数年后迅速设立了明确借鉴其架构的同类计划；[[Science Foundation Ireland|爱尔兰科学基金会]]（Science Foundation Ireland, SFI）设立科学工程与技术中心（Centers for Science, Engineering, and Technology, CSET），并直接聘请前 NSF 官员威廉·哈里斯担任总干事。（pp.369–370）
-> - **2003 — 跨联邦机构政策扩散** 美国国家航空航天局（National Aeronautics and Space Administration, NASA）与高校联合工作组起草白皮书，建议完全参照 NSF ERC 模式构建基于大学的航空航天研究中心。（p.370）
+> - **2003 — 跨联邦机构政策扩散** [[National Aeronautics and Space Administration|美国国家航空航天局]]（National Aeronautics and Space Administration, NASA）与高校联合工作组起草白皮书，建议完全参照 NSF ERC 模式构建基于大学的航空航天研究中心。（p.370）
 
 ---
 

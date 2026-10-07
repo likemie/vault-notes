@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 36
+fact_related_count: 38
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -36,12 +36,14 @@ related_concepts:
   - "[[Process Knowledge]]"
   - "[[National Innovation System]]"
   - "[[Apprenticeship]]"
+  - "[[Community College Strategic Anchoring]]"
   - "[[Big Science]]"
   - "[[Megascience Installations]]"
   - "[[Innovation Hub]]"
   - "[[Focused Research Organization]]"
   - "[[Epistemology]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Gold Standard Science]]"
   - "[[Linear Model of Innovation]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
@@ -113,7 +115,7 @@ updated: 2026-10-07
 >   - 确立默会[[Process Knowledge|过程知识]]在[[National Innovation System|国家创新体系]]中的核心地位，坚决反对“只保留高附加值设计而让渡实体制造”的错误倾向；
 >   - 破除四年制文凭垄断，推行 2025 年[[Workforce Pell Grants 2025|劳动力佩尔助学金]]改革（[[Workforce Pell Grants 2025]]），将短期高质量职业证书纳入联邦资助；
 >   - 实施每年 100 万人以上的国家[[Apprenticeship|注册学徒制]]计划（[[Apprenticeship|学徒制]]），设立“国家工匠奖学金”与“驻校实践者”项目；
->   - 依托全美社区学院网络构建区域技能枢纽，使高科技产业在中西部与传统制造区扎根。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–56)]]
+>   - 依托全美社区学院网络构建[[Community College Strategic Anchoring|区域技能枢纽]]，使高科技产业在中西部与传统制造区扎根。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–56)]]
 > - **支柱四：在智能时代同步扩大假设生成与实验核验规模（第五章）**
 >   - 全面推进国家级旗舰人工智能科学计划——[[Genesis Mission|创世纪计划]]（Genesis Mission），构建美国科学与安全平台（ASSP），整合超级算力、基础模型与闭环自主实验设施；
 >   - 践行 2025 年 5 月《[[Restoring Gold Standard Science Executive Order|恢复黄金标准科学行政令]]》（[[Restoring Gold Standard Science Executive Order]]），建立机器可读的代码复现包与全流程开放数据协议，使核验能力做到与生成能力同等规模扩大。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 57–69)]]
@@ -147,7 +149,7 @@ updated: 2026-10-07
 > [!finding-cards] 理论定位与历史贡献
 > - **终结单向线性假说的历史统治** 报告从国家战略高度宣告了[[Science, The Endless Frontier 1945|布什报告]]中从纯基础顺流而下的线性模型的终结，确立了以[[Pasteur's Quadrant|巴斯德象限]]（Stokes, 1997）为核心的二维探索模型，为现代科技政策奠定了新的[[Epistemology|认识论]]基础。
 > - **弥合国家[[Innovation Ecosystem|创新生态]]的结构性断层** 通过提出[[Focused Research Organization|聚焦研究组织]]（FRO）、[[National Science Foundation|NSF]] [[Directorate for Technology, Innovation and Partnerships|TIP]] X 实验室及前竞争联合体，系统性填补了大学单 PI 实验室与风投初创之间“中等规模工程密集型公共品科研”的历史空白。
-> - **智能时代科研组织[[Paradigm|范式]]的开创** 首次在国家战略层面确立了“科学生成器（[[Genesis Mission|创世纪计划]]）”与“科学核验器（黄金标准科学）”必须同步扩大的顶层架构，开创了 AI 驱动科学研究（AI for Science）的治理新范式。
+> - **智能时代科研组织[[Paradigm|范式]]的开创** 首次在国家战略层面确立了“科学生成器（[[Genesis Mission|创世纪计划]]）”与“科学核验器（[[Gold Standard Science|黄金标准科学]]）”必须同步扩大的顶层架构，开创了 AI 驱动科学研究（AI for Science）的治理新范式。
 
 ---
 
@@ -178,4 +180,4 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室 2026 年总统科学报告完整论证文本《科学：新的黄金时代》（*Science: A New Golden Age*）；系统诊断战后线性模型失灵与行政摩擦，提出重塑对人资助、畅通本土制造承接、重振[[Process Knowledge|过程知识]]与[[Apprenticeship|学徒制]]、推进[[Genesis Mission|创世纪计划]]与黄金标准科学四大政策支柱，并制定面向 2028 财年的联邦研发预算优先事项指导备忘录。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室 2026 年总统科学报告完整论证文本《科学：新的黄金时代》（*Science: A New Golden Age*）；系统诊断战后线性模型失灵与行政摩擦，提出重塑对人资助、畅通本土制造承接、重振[[Process Knowledge|过程知识]]与[[Apprenticeship|学徒制]]、推进[[Genesis Mission|创世纪计划]]与[[Gold Standard Science|黄金标准科学]]四大政策支柱，并制定面向 2028 财年的联邦研发预算优先事项指导备忘录。

@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 29
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ tags:
 related_concepts:
   - "[[Linear Model of Innovation]]"
   - "[[Focused Research Organization]]"
+  - "[[Gold Standard Science]]"
   - "[[Metascience]]"
   - "[[Regulatory Sandbox]]"
   - "[[Industrial Commons]]"
@@ -92,7 +93,7 @@ updated: 2026-10-07
 > - **1993–1994 — 冷战后“重新签约”与《[[Science in the National Interest 1994|科学与国家利益]]》** 面对苏联解体与赤字攀升，克林顿与戈尔政府依托 OSTP 于 1994 年发布纲领性报告《科学与国家利益》，将科学功能由国防安全转向经济繁荣与社会福祉，呼应了[[Pasteur's Quadrant|巴斯德象限]]理论。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
 > - **2011 — 奥巴马政府“宏大挑战”与创新战略导向** OSTP 协同国家经济委员会发布《[[A Strategy for American Innovation 2011|美国创新战略]]》，将国家科研引导至清洁能源、先进制造等重大战略挑战，加速基础研究从自由探索转向外部使命牵引。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 > - **2025 — 总统历史性委托与再集中动员** 2025 年 3 月 26 日，总统致信 OSTP 主任[[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael J. Kratsios），要求对照 1945 年[[Science, The Endless Frontier 1945|布什报告]]全面重构国家科技体制，聚焦关键新兴技术领先、破除科研行政羁绊并确保创新红利普惠国民。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. viii–ix)]]
-> - **2026 — 标志性战略报告《[[Science A New Golden Age 2026|科学：新的黄金时代]]》呈交** OSTP 于 2026 年 7 月 21 日正式向总统呈交历史性战略报告，宣告单向[[Linear Model of Innovation|线性创新模型]]终结，确立组合式资助、[[Focused Research Organization|聚焦研究组织]]（FRO）、本土制造转化、[[Genesis Mission|创世纪计划]]与黄金标准科学等四大支柱，并附具 2028 财年联邦研发优先事项指导备忘录。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. v–vi, 86)]]
+> - **2026 — 标志性战略报告《[[Science A New Golden Age 2026|科学：新的黄金时代]]》呈交** OSTP 于 2026 年 7 月 21 日正式向总统呈交历史性战略报告，宣告单向[[Linear Model of Innovation|线性创新模型]]终结，确立组合式资助、[[Focused Research Organization|聚焦研究组织]]（FRO）、本土制造转化、[[Genesis Mission|创世纪计划]]与[[Gold Standard Science|黄金标准科学]]等四大支柱，并附具 2028 财年联邦研发优先事项指导备忘录。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. v–vi, 86)]]
 
 ---
 

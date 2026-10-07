@@ -10,7 +10,7 @@ aliases:
 summary: "指大型使命导向公共项目管理层因承担灾难性系统失败与人员生命安全风险，在飞行元器件选型上表现出高度的风险规避与保守倾向，但项目的极端功能与环境约束又反向迫使工业界在前沿技术上急剧加速创新的组织与治理张力机制。"
 type: concept
 domain: "science-policy"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -39,13 +39,14 @@ related_persons:
   - "[[Jerome E. Schnee]]"
 related_facts:
   - "[[Apollo Program]]"
+  - "[[National Aeronautics and Space Administration]]"
   - "[[Semi-Automatic Ground Environment]]"
 related_arguments:
   - "[[Argument_Schnee_1978_RP]]"
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Technological Conservatism in Mission Programs
@@ -106,14 +107,14 @@ updated: 2026-10-05
 > 探讨组织层面的保守选型行为如何与全行业技术前沿突破共存。
 
 > [!claim] [[Argument_Schnee_1978_RP|Schnee (1978)]]
-> **双轨技术张力协调机制** [[Jerome E. Schnee|施尼]]（[[Argument_Schnee_1978_RP|Schnee, 1978]]）基于 NASA 访谈与产业数据指出，虽然 NASA 主管在双子座与阿波罗载人飞船的飞行航电选型中表现出对已定型分立半导体器件的偏好，但阿波罗导航计算机（Apollo Guidance Computer, AGC）与民兵导弹制导系统对体积与功耗的苛刻要求，使政府成为集成电路最早的大规模订购者；微观管理者的保守选型与宏观工程的极端约束相互配合，反而在保障任务安全的同时极大地加速了硅半导体与集成电路整体产业的成熟。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 14–17)]]
+> **双轨技术张力协调机制** [[Jerome E. Schnee|施尼]]（[[Argument_Schnee_1978_RP|Schnee, 1978]]）基于 [[National Aeronautics and Space Administration|NASA]] 访谈与产业数据指出，虽然 NASA 主管在双子座与阿波罗载人飞船的飞行航电选型中表现出对已定型分立半导体器件的偏好，但阿波罗导航计算机（Apollo Guidance Computer, AGC）与民兵导弹制导系统对体积与功耗的苛刻要求，使政府成为集成电路最早的大规模订购者；微观管理者的保守选型与宏观工程的极端约束相互配合，反而在保障任务安全的同时极大地加速了硅半导体与集成电路整体产业的成熟。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 14–17)]]
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变历程
-> - **1960s — 阿波罗与冷战导弹工程实践** NASA 与美国空军在管理阿波罗与民兵导弹项目中形成系统的元器件高可靠筛选规程（MIL-STD）。
+> - **1960s — 阿波罗与冷战导弹工程实践** [[National Aeronautics and Space Administration|NASA]] 与美国空军在管理阿波罗与民兵导弹项目中形成系统的元器件高可靠筛选规程（MIL-STD）。
 > - **1978 年 — [[Jerome E. Schnee|施尼]]正式提出技术保守性与加速张力命题** 施尼（[[Argument_Schnee_1978_RP|Schnee, 1978]]）通过半导体器件在载人航天中的选型案例，系统理论化了该组织悖论。
 > - **2010s–至今 — 复杂系统与使命导向治理中的反思** [[Evolutionary Economics|演化经济学]]与科技政策学者将该悖论拓展至大型能源脱碳与深空探测工程，指导重大公共任务中的技术组合风险管理。
 
@@ -149,4 +150,4 @@ updated: 2026-10-05
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 详尽剖析 NASA 与军方重大工程中管理者在器件选型上的技术保守主义与极端物理约束倒逼全行业前沿技术加速的内在张力。
+> - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 详尽剖析 [[National Aeronautics and Space Administration|NASA]] 与军方重大工程中管理者在器件选型上的技术保守主义与极端物理约束倒逼全行业前沿技术加速的内在张力。

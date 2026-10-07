@@ -6,7 +6,7 @@ aliases:
 summary: "二战后至冷战时期以斯坦福大学和麻省理工学院等为典型代表的研究型大学制度形态，其核心特征是通过深度依托美国国防部等国家安全机构的基础与应用科研经费投入，建立由联邦政府、军方、学界与工业界紧密交织的科研基础设施网络，在奠定工程与计算机前沿学科主导地位的同时重塑了现代大学的制度结构。"
 type: concept
 domain: "higher-education"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -46,13 +46,14 @@ related_facts:
   - "[[DARPA]]"
   - "[[Office of Naval Research]]"
   - "[[ARPANET]]"
+  - "[[Institute for Advanced Study]]"
 related_arguments:
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
   - "[[Argument_Mowery_2011_NBER]]"
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Cold War University
@@ -195,7 +196,7 @@ updated: 2026-10-05
 > | 2001 财年 | 工程科学领域国防资助占全联邦研发经费比例 | > 30% | 反映国防科研在全美工程学科研究基础设施构建中的支柱地位（p. 29） |
 > | 1986–1990 财年 | 联邦高校计算机科学研发中军方出资占比的结构性下滑 | 由约 60% 断崖式下降至不足 30% | 揭示冷战后期民用基金介入与国防资助在高校内部相对降温的历史转折（p. 37） |
 > | 1953–1978 年 | 联邦研发支出在全美总研发预算中的历史权重 | 长期占据 50% 以上（1950 年代国防部出资占联邦 80% 以上） | 展现冷战大学依托的宏观公共财政动员环境（pp. 28–29） |
-> | 1945–1955 年 | 大学承接第一代军资计算机工程研制金额规模 | 宾夕法尼亚大学 ENIAC 耗资 75 万美元、MIT Whirlwind 耗资 400–500 万美元、普林斯顿 IAS 耗资 65 万美元 | 确证大学早期前沿计算探索对军工研发合同的绝对物质依附（p. 35） |
+> | 1945–1955 年 | 大学承接第一代军资计算机工程研制金额规模 | 宾夕法尼亚大学 ENIAC 耗资 75 万美元、MIT Whirlwind 耗资 400–500 万美元、普林斯顿 [[Institute for Advanced Study\|IAS]] 耗资 65 万美元 | 确证大学早期前沿计算探索对军工研发合同的绝对物质依附（p. 35） |
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "指公共机构在面对高度不确定性与重大社会挑战时，识别前沿方向、协调跨部门资源、进行实验试错并实现制度化反思学习的组织能力；强调建立内部专业研判能力以抵御外部咨询机构带来的去能力化风险。"
 type: concept
 domain: "science-policy"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -50,6 +50,7 @@ related_persons:
 related_facts:
   - "[[DARPA]]"
   - "[[Investing in Innovation Program]]"
+  - "[[National Aeronautics and Space Administration]]"
   - "[[National Institutes of Health]]"
 related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
@@ -60,7 +61,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Public Dynamic Capabilities
@@ -114,7 +115,7 @@ updated: 2026-10-03
 > **解释** 公共机构并非静态的规则执行机器，而是一个在投资、发现与实验中持续演进的学习型系统。正如科恩与莱文萨尔（Cohen & Levinthal, 1990）及约翰逊（Johnson, 1992）所强调的，[[Absorptive Capacity|吸收能力]]与机构学习构成了组织应对外部环境变化的中枢。公共机构唯有亲自参与高风险前沿项目的论证与全周期管理，才能在失败与成功中积累深厚的技术鉴别力与危机应对经验。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 808)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 797–798)]]
 
 > [!concept-proposition] 命题五｜使命型公共组织通过前沿挑战塑造成为吸引和培育顶尖拔尖人才的引力场
-> **解释** 当公共机构（如 [[DARPA]]、NASA、[[National Institutes of Health|NIH]]）致力于开辟前沿技术疆界并解决人类重大生存难题时，其崇高的公共使命与浓厚的探索氛围能够赋予工作极高的社会荣誉感与智力挑战性，从而在与高薪私营部门的竞争中胜出，成为吸引、锻炼并源源不断向全社会输送顶尖科学家与战略管理人才的卓越孵化平台。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 806)]]
+> **解释** 当公共机构（如 [[DARPA]]、[[National Aeronautics and Space Administration|NASA]]、[[National Institutes of Health|NIH]]）致力于开辟前沿技术疆界并解决人类重大生存难题时，其崇高的公共使命与浓厚的探索氛围能够赋予工作极高的社会荣誉感与智力挑战性，从而在与高薪私营部门的竞争中胜出，成为吸引、锻炼并源源不断向全社会输送顶尖科学家与战略管理人才的卓越孵化平台。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 806)]]
 
 ---
 

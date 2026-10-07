@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,8 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Reproducibility Crisis]]"
+  - "[[Diversity, Equity, and Inclusion]]"
+  - "[[Gold Standard Science]]"
   - "[[Hypothesis]]"
   - "[[Technology-Oriented Social Contract]]"
   - "[[Document]]"
@@ -67,7 +69,7 @@ updated: 2026-10-07
 > - **发布主体与时间** 2025 年 5 月 23 日由美国总统签署发布。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
 > - **[[Epistemology|认识论]]争论的政治借用** 2010 年代以来学术界关于“[[Reproducibility Crisis|可重复性危机]]”（Reproducibility Crisis）与科研诚信的内部方法论争论，被行政当局借用为推行外部行政干预与合规审计的正当化依据。
 > - **适用对象与管辖范围** 全美接受联邦研发资助的大学、独立科研机构、国家实验室，以及[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）、[[National Institutes of Health|美国国家卫生研究院]]（National Institutes of Health, NIH）等联邦科学基金与卫生资助机构。
-> - **争议议题与政治极化** 行政令重点针对气候变化、环境毒理、公共卫生（公共防疫、疫苗与流行病学评估）以及多样性、平等与包容（Diversity, Equity, and Inclusion, DEI）相关社科研究，质疑其学术结论存在“党派偏见与方法缺陷”。
+> - **争议议题与政治极化** 行政令重点针对气候变化、环境毒理、公共卫生（公共防疫、疫苗与流行病学评估）以及[[Diversity, Equity, and Inclusion|多样性、平等与包容]]（Diversity, Equity, and Inclusion, DEI）相关社科研究，质疑其学术结论存在“党派偏见与方法缺陷”。
 > - **制度生态联动** 属于特朗普第二任期科技治理再集中与再动员的核心支柱，与[[Office of Science and Technology Policy|白宫科学技术政策办公室]]（Office of Science and Technology Policy, OSTP）发布的战略指南及削减非优先领域科研预算（Impoundment，扣留拨款）形成行政合力。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1060, 1062)]]
 
 ---
@@ -86,7 +88,7 @@ updated: 2026-10-07
 > [!citation-card] 樊春良论契约工具与合法性转向
 > 特朗普政府 2025 年 5 月颁布的行政令《恢复黄金标准的科学》，实质上是一套契约性工具，它以可重复性、透明性和程序客观性为名，强化行政可验证性，重塑了科学的合法性来源，使科学的正当性由认知权威转向程序与结果可控性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
 >
-> *The Executive Order "Restoring Gold Standard Science," issued by the Trump administration in May 2025, essentially serves as a "contractual tool." Under the rubric of reproducibility, transparency, and procedural objectivity, it strengthens administrative verifiability and reshapes the legitimacy foundation of science, steering it from "cognitive authority" to "procedural and outcome controllability."*
+> *The Executive Order "Restoring [[Gold Standard Science]]," issued by the Trump administration in May 2025, essentially serves as a "contractual tool." Under the rubric of reproducibility, transparency, and procedural objectivity, it strengthens administrative verifiability and reshapes the legitimacy foundation of science, steering it from "cognitive authority" to "procedural and outcome controllability."*
 
 ---
 
@@ -131,7 +133,7 @@ updated: 2026-10-07
 > | [[Research Security]] | Concept | 与该行政令形成内外夹击之势，外部防范技术外流与外国干预，内部强化政治与方法合规审查。 |
 > | [[Big Science]] | Concept | 大科学时代昂贵的研发成本与外部问责要求，为行政当局推行硬性复核与审计提供了现实合法性切入点。 |
 > | [[Vannevar Bush]] | Person | 战后无尽前沿范式的缔造者，其所主张的科学家完全探索自由与免于政治干预原则在此行政令下受到根本性反思。 |
-> | [[Michael Kratsios]] | Person | OSTP 主任，在 2026 年总统科学报告中将黄金标准科学确立为核验侧制度基石。 |
+> | [[Michael Kratsios]] | Person | OSTP 主任，在 2026 年总统科学报告中将[[Gold Standard Science\|黄金标准科学]]确立为核验侧制度基石。 |
 
 ---
 
@@ -139,4 +141,4 @@ updated: 2026-10-07
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 分析特朗普政府 2025 年 5 月签署的《恢复黄金标准的科学》行政令，揭示其作为[[Technology-Oriented Social Contract|技术型社会契约]]下的“契约性工具”，如何借可重复性与客观性之名强化行政可验证性，将科学合法性由内在认知权威转向外部程序与结果可控性，从而导致科学自治向受限自治急剧退缩。
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 以行政令列出的黄金标准科学原则为核验侧建设的制度依据，论证在人工智能降低[[Hypothesis|假设]]生成成本的背景下，依托机器可读的代码复现包、开放数据与标准协议，将核验规模提升至与生成同等体量的政策方案。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 以行政令列出的[[Gold Standard Science|黄金标准科学]]原则为核验侧建设的制度依据，论证在人工智能降低[[Hypothesis|假设]]生成成本的背景下，依托机器可读的代码复现包、开放数据与标准协议，将核验规模提升至与生成同等体量的政策方案。

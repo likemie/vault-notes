@@ -97,6 +97,7 @@ related_persons:
   - "[[Alan C. K. Cheung]]"
   - "[[Chin-Chung Tsai]]"
 related_facts:
+  - "[[Activate Fellowship]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Gungor_2026_CP]]"
@@ -134,7 +135,7 @@ updated: 2026-09-22
 > [!citation-card]- 人机共生中的自适应[[Epistemic Stances\|认识立场]]与高阶思维激活
 > 在[[Generative Artificial Intelligence\|生成式人工智能]]介入的学习网络中，高阶思维的展现高度依从于学习者的自适应认识立场（Adaptive Epistemic Stance）。持有绝对论立场的学习者容易让渡认知控制权而停留在低阶代码或文本复制层面；唯有持有评价论立场并具备丰富先验知识的学习者，才能通过对大模型输出展开持续的多轮压力测试、[[Scale of Measurement\|测量尺度]]辨析与多源三角核验，将人机交互深化为高水平的高阶推论与方法论评价。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
 >
-> *In human-AI learning networks, higher-order thinking manifests through adaptive epistemic stances: while [[Absolutist]] stances induce [[Cognitive Offloading]] and superficial compliance, [[Evaluativist]] stances activate rigorous metacognitive monitoring, stress-testing, and multi-source justification.*
+> *In human-AI learning networks, higher-order thinking manifests through adaptive epistemic stances: while [[Absolutist]] stances induce [[Cognitive Offloading]] and superficial compliance, [[Evaluativist]] stances [[Activate Fellowship|Activate]] rigorous metacognitive monitoring, stress-testing, and multi-source justification.*
 
 > [!boundary]- 概念边界辨析
 > - **不等于低阶思维技能（Lower-Order Thinking Skills, LOTS）** 识记（remembering）与简单理解（understanding）侧重于信息的原样储存、提取与字面转述，遵循既定线索和确定性算法；高阶思维则要求对信息进行解构、价值评判与生成性输出。

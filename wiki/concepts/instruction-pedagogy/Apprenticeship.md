@@ -11,7 +11,7 @@ aliases:
 summary: "一种将技能习得深嵌于工作场所实践操作、具身示范与长期师徒传承中的职业教育与能力形成制度；通过熟练工匠传授难以完全编码的隐性工艺知识；既是19世纪普鲁士国家协调工业赶超与2020年代芯片法案劳动力附加条件的核心抓手，也是2026年联邦科技战略中重塑战略制造韧性、弥合设计与制造鸿沟并实现每年百万注册学徒目标的基石支柱。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 41
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Workforce Development]]"
   - "[[Attrition]]"
+  - "[[Practitioner-in-Residence]]"
   - "[[Process Knowledge]]"
   - "[[Mentorship]]"
   - "[[Engineering Education]]"
@@ -41,6 +42,7 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[Refined Mastery]]"
   - "[[Intellectual Capital]]"
+  - "[[Outcome-Based Apprenticeship Funding]]"
   - "[[Innovation Ecosystem]]"
   - "[[Public Value]]"
   - "[[Cognitive Apprenticeship]]"
@@ -100,7 +102,7 @@ updated: 2026-10-07
 > *CHIPS applicants requesting over \$150 million in direct funding must submit robust workforce development plans that include partnerships with registered apprenticeships, community colleges, and accessible childcare for construction and facility workers... linking public incentives directly to high-road labor standards and inclusive job creation.*
 
 > [!citation-card] 工艺知识传承与国家学徒制战略目标
-> 战后美国政策制定者错误地接受了“设计与制造二分法”，误以为美国可以剥离物理制造而保留高价值设计。制造业的外包导致了车间隐性工艺知识与工匠网络的严重[[Attrition|流失]]。真正的科技领导力必须扎根于物理原型的制造手感与现场排障经验。联邦政府确立了至 2030 年每年培养 100 万名以上注册学徒（Registered Apprentices）的战略目标，将劳工部就业技能资助全面转向基于工资增长的“按绩效付费”模式，并通过[[Workforce Pell Grants 2025|劳动力佩尔助学金]]资助高质量短期职业证书，设立“国家工匠学者计划”（National Craftsperson Fellowships）与“驻校实践专家”（Practitioners-in-Residence）制度，重塑一线技术工匠的学术与社会尊严。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 53–54)]]
+> 战后美国政策制定者错误地接受了“设计与制造二分法”，误以为美国可以剥离物理制造而保留高价值设计。制造业的外包导致了车间隐性工艺知识与工匠网络的严重[[Attrition|流失]]。真正的科技领导力必须扎根于物理原型的制造手感与现场排障经验。联邦政府确立了至 2030 年每年培养 100 万名以上注册学徒（Registered Apprentices）的战略目标，将劳工部就业技能资助全面转向基于工资增长的“按绩效付费”模式，并通过[[Workforce Pell Grants 2025|劳动力佩尔助学金]]资助高质量短期职业证书，设立“[[Practitioner-in-Residence|国家工匠学者计划]]”（National Craftsperson Fellowships）与“驻校实践专家”（Practitioners-in-Residence）制度，重塑一线技术工匠的学术与社会尊严。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 53–54)]]
 >
 > *Technological leadership cannot survive the loss of [[Process Knowledge|Tacit Process Knowledge]]... The United States must scale registered apprenticeships to over 1,000,000 per year, reform workforce grants around pay-for-performance outcomes, and deploy Workforce Pell Grants to fund short-term credentials in high-demand technical trades.*
 
@@ -195,7 +197,7 @@ updated: 2026-10-07
 > 批判“设计与制造二分法”的错误认知，论证剥离生产制造将从根本上摧毁前沿工程发明的反馈回路。
 
 > [!claim] Kratsios, M. (2026)
-> **工艺知识[[Attrition|流失]]危机与百万注册学徒新政** 过去数十年“剥离物理制造、独占上层设计”的外包战略给国家科技基础带来了灾难性后果：制造现场的外包直接切断了工程师与一线工匠之间的现场反馈，导致材料公差感知、设备原位调优等隐性工艺知识断代。真正的科技领导力无法脱离物理制造的微观试错；联邦政策必须确立每年超 100 万注册学徒的发展目标，通过[[Workforce Pell Grants 2025|劳动力佩尔助学金]]重组 8–15 周高需求技术证书资助，依托按绩效付费机制淘汰低质培训，并设立“国家工匠学者”与“驻校实践专家”制度，将一线工匠的[[Phronesis|实践智慧]]系统性纳入国家[[Innovation Ecosystem|创新生态]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 53–54)]]
+> **工艺知识[[Attrition|流失]]危机与百万注册学徒新政** 过去数十年“剥离物理制造、独占上层设计”的外包战略给国家科技基础带来了灾难性后果：制造现场的外包直接切断了工程师与一线工匠之间的现场反馈，导致材料公差感知、设备原位调优等隐性工艺知识断代。真正的科技领导力无法脱离物理制造的微观试错；联邦政策必须确立每年超 100 万注册学徒的发展目标，通过[[Workforce Pell Grants 2025|劳动力佩尔助学金]]重组 8–15 周高需求技术证书资助，依托[[Outcome-Based Apprenticeship Funding|按绩效付费机制]]淘汰低质培训，并设立“国家工匠学者”与“驻校实践专家”制度，将一线工匠的[[Phronesis|实践智慧]]系统性纳入国家[[Innovation Ecosystem|创新生态]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 53–54)]]
 
 ---
 

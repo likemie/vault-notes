@@ -12,7 +12,7 @@ title: "Argument_Cheng_2026_KeJiChuangXin"
 argument_key: "Argument_Cheng_2026_KeJiChuangXin"
 argument_display_title: "科技创新和产业创新融合：中国的发展路径与对策研究报告"
 argument_kind: "book"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -77,6 +77,7 @@ related_facts:
   - "[[Sematech]]"
   - "[[Engineering Research Centers]]"
   - "[[National Natural Science Foundation of China]]"
+  - "[[Cold Spring Harbor Laboratory]]"
 related_arguments: []
 sources:
   - "[[books/Cheng_2026_KeJiChuangXin/Cheng_2026_KeJiChuangXin|Cheng_2026_KeJiChuangXin]]"
@@ -630,7 +631,7 @@ citation_aliases:
 >
 > 中小企业活力：搭建创新服务平台提供技术咨询和知识产权保护，设立创新基金扶持潜力项目。截至2024年国家专精特新"小巨人"突破400家，国家科技型中小企业达2.5万家，入选中国独角兽企业17家、潜在独角兽75家(p.97)。
 >
-> 产学研合作：中科院苏州纳米技术与纳米仿生研究所落户苏州工业园区，中国科大苏州研究院、冷泉港实验室亚洲中心等顶尖机构密集布局。
+> 产学研合作：中科院苏州纳米技术与纳米仿生研究所落户苏州工业园区，中国科大苏州研究院、[[Cold Spring Harbor Laboratory|冷泉港实验室]]亚洲中心等顶尖机构密集布局。
 
 > [!info] 成果转化：创新平台与[[Industry Affiliate Program\|产业联盟]]
 > 构建多层次科研平台体系：苏州纳米技术国家大学科技园、中科院苏州生物医学工程研究所（国家级重点实验室）、江苏省智能装备制造工程技术研究中心等。产业技术创新联盟推动企业、高校与科研机构整合资源——苏州生物医药产业技术创新联盟内企业联合开展关键技术研发(p.98)。

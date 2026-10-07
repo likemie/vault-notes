@@ -12,7 +12,7 @@ aliases:
 summary: "约翰·冯·诺依曼于1945年提出的经典电子通用数字计算机体系结构范式；以存储程序控制与运算器、控制器、存储器、输入输出设备五大部件为核心，实现了指令与数据的同等存储和软硬件彻底解耦；二战后美国军政资助方坚持公开出版其技术报告，促成全美及全球早期计算机工业群（IAS派生机群）的去中心化繁荣，奠定了信息通用目的技术的底层硬件标准"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -39,6 +39,7 @@ related_instruments: []
 related_persons:
   - "[[David C. Mowery]]"
 related_facts:
+  - "[[Institute for Advanced Study]]"
   - "[[Office of Naval Research]]"
   - "[[Semi-Automatic Ground Environment]]"
 related_arguments:
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Von Neumann Architecture
@@ -64,7 +65,7 @@ updated: 2026-10-03
 > - **边界** 传统冯·诺依曼架构强调指令与数据共享同一总线与内存空间的串行处理；在当代大规模并行神经网络计算与超高吞吐场景下，易面临总线带宽与内存延迟瓶颈。
 
 > [!citation-card] Mowery 论冯·诺依曼架构与早期战后计算资助的非专有扩散
-> 战后早期美国联邦政府对计算机开发的资助坚持了非专有和学术公开的根本原则。普林斯顿高等研究院的冯·诺依曼计算机项目不仅确立了存储程序通用计算的技术基石，更通过完全公开出版其设计报告与工程图纸，直接催生了全美大学和商业企业中数十种计算机的研制，避免了单一技术垄断或国家军事保密对新兴产业的扼杀。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 173–174)]]
+> 战后早期美国联邦政府对计算机开发的资助坚持了非专有和学术公开的根本原则。[[Institute for Advanced Study|普林斯顿高等研究院]]的冯·诺依曼计算机项目不仅确立了存储程序通用计算的技术基石，更通过完全公开出版其设计报告与工程图纸，直接催生了全美大学和商业企业中数十种计算机的研制，避免了单一技术垄断或国家军事保密对新兴产业的扼杀。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 173–174)]]
 >
 > *Postwar federal funding of early computer development emphasized open publication and nonproprietary dissemination... The von Neumann architecture developed at the Institute for Advanced Study served as the blueprint for numerous university and commercial computers across the United States.*
 
@@ -123,7 +124,7 @@ updated: 2026-10-03
 > 探讨早期国防资助为何坚持将前沿架构公开发行，以及这一举措如何塑造战后产业格局。
 
 > [!claim] [[David C. Mowery|Mowery, D. C.]]
-> **学术公开原则打破军事垄断并奠定通用计算知识公地** 莫厄里系统论证指出，二战后由陆军、[[Office of Naval Research|海军研究办公室]]（ONR）与原子能委员会（AEC）资助的普林斯顿高等研究院（IAS）计算机项目，从一开始就拒绝将冯·诺依曼架构据为军方独占的机密技术。冯·诺依曼及其团队编写的理论报告与工程设计蓝图向全美乃至全球学术界与产业界无偿分发。这种极其罕见的非专有政策使得伊利诺伊大学（ILLIAC）、洛斯阿拉莫斯国家实验室（MANIAC）、兰德公司（JOHNNIAC）、阿贡国家实验室（AVIDAC）乃至商业巨头 IBM（基于 IAS 架构开发其首款商用科学计算机 IBM 701）能够迅速消化并并行研制出各自的存储程序计算机。这一政策有效避免了新兴计算机技术被单一军种或单一垄断巨头锁定的风险，为美国培育了多元化、去中心化的计算机硬件产业生态。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 171–174)]]
+> **学术公开原则打破军事垄断并奠定通用计算知识公地** 莫厄里系统论证指出，二战后由陆军、[[Office of Naval Research|海军研究办公室]]（ONR）与原子能委员会（AEC）资助的[[Institute for Advanced Study|普林斯顿高等研究院]]（IAS）计算机项目，从一开始就拒绝将冯·诺依曼架构据为军方独占的机密技术。冯·诺依曼及其团队编写的理论报告与工程设计蓝图向全美乃至全球学术界与产业界无偿分发。这种极其罕见的非专有政策使得伊利诺伊大学（ILLIAC）、洛斯阿拉莫斯国家实验室（MANIAC）、兰德公司（JOHNNIAC）、阿贡国家实验室（AVIDAC）乃至商业巨头 IBM（基于 IAS 架构开发其首款商用科学计算机 IBM 701）能够迅速消化并并行研制出各自的存储程序计算机。这一政策有效避免了新兴计算机技术被单一军种或单一垄断巨头锁定的风险，为美国培育了多元化、去中心化的计算机硬件产业生态。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 171–174)]]
 
 ---
 
@@ -151,7 +152,7 @@ updated: 2026-10-03
 
 > [!dev-timeline] 概念演变历程
 > - **1945 — 《EDVAC 报告草案》确立理论模型** 冯·诺依曼在宾夕法尼亚大学摩尔电机工程学院总结 ENIAC 经验，系统提出存储程序与二进制五大部件架构。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 171)]]
-> - **1946–1951 — 普林斯顿 IAS 计算机工程与全球派生** 陆军与 [[Office of Naval Research|ONR]] 资助普林斯顿高等研究院研制实体样机，公开分发蓝图，催生全美高校与工业界（IBM 701、MANIAC、ILLIAC 等）的克隆制造浪潮。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 172–174)]]
+> - **1946–1951 — 普林斯顿 [[Institute for Advanced Study|IAS]] 计算机工程与全球派生** 陆军与 [[Office of Naval Research|ONR]] 资助普林斯顿高等研究院研制实体样机，公开分发蓝图，催生全美高校与工业界（IBM 701、MANIAC、ILLIAC 等）的克隆制造浪潮。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 172–174)]]
 > - **1960s–1980s — 商业化主导与指令集架构繁荣** 成为大型主机（IBM System/360）、小型机（DEC PDP）及个人微机（x86、ARM）的支配性事实标准。
 > - **1990s–至今 — 冯·诺依曼瓶颈审思与非冯架构探索** 在人工智能大模型与海量数据处理时代，学术界与产业界积极探索存算一体（Processing-in-Memory, [[Perpetual Inventory Method|PIM]]）、类脑神经形态计算（Neuromorphic Computing）及量子计算等颠覆性非冯体系结构。
 
@@ -193,4 +194,4 @@ updated: 2026-10-03
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 详尽考据二战后美国陆海空三军与民政科研机构资助普林斯顿 IAS 计算机工程的历史，论证冯·诺依曼架构的非专有公开出版如何避免了技术锁定并奠定现代计算机产业生态。
+> - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 详尽考据二战后美国陆海空三军与民政科研机构资助普林斯顿 [[Institute for Advanced Study|IAS]] 计算机工程的历史，论证冯·诺依曼架构的非专有公开出版如何避免了技术锁定并奠定现代计算机产业生态。

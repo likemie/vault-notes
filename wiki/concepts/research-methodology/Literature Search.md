@@ -4,7 +4,7 @@ aliases: ["文献检索", "文献搜索", "literature retrieval", "searching for
 summary: "研究过程中系统检索、筛选和评估文献的操作性步骤，包括检索策略、网络操作符、数据库选择、信息类型识别、文献优先级排序与质量评估及网站评估。"
 type: concept
 domain: "research-methodology"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Chain of Evidence]]"
   - "[[Paradigm]]"
+  - "[[Dynamic Research Notebook]]"
   - "[[Reliability]]"
   - "[[Construct]]"
   - "[[Variable]]"
@@ -387,7 +388,7 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 
 > [!feature] 智能代理驱动的自动化文献挖掘与知识综合
 > - **微观文献检索的自动化代理承接** 随着[[Generative Artificial Intelligence|生成式人工智能]]与自主研究代理（Research Agents）进入科学工作流，文献检索从传统手工卡片、布尔操作符与关键词数据库匹配，跃升为海量学术语料与开源代码的自主语义挖掘、[[Chain of Evidence|证据链]]跨模态提取与初步假说生成。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 70–72)]]
-> - **检索对象从静态文献延伸至动态代码与可复现沙盒** 伴随科学交流[[Paradigm|范式]]向“动态研究笔记本”（包含数据、代码与运行环境）的演进，文献检索不再局限于孤立的 PDF 静态文本，而是直接穿透检索可执行算法、原始实验数据、未发表负面结果以及自动化形式化证明脚本。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 67–70)]]
+> - **检索对象从静态文献延伸至动态代码与可复现沙盒** 伴随科学交流[[Paradigm|范式]]向“[[Dynamic Research Notebook|动态研究笔记本]]”（包含数据、代码与运行环境）的演进，文献检索不再局限于孤立的 PDF 静态文本，而是直接穿透检索可执行算法、原始实验数据、未发表负面结果以及自动化形式化证明脚本。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 67–70)]]
 > - **学术劳动分工的重组与聚焦** 智能代理在微观层面承担起数以万计文献的初筛、跨语言翻译与关联网络构建，使人类研究者从繁琐的机械信息检索中解放出来，将核心认知精力聚焦于高阶理论综合与原创问题定义。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 70)]]
 
 ---
@@ -449,7 +450,7 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > |:---|:---|:---|:---|
 > | **论证支撑与信效度奠基** | 确立研究的可信度、效度、理论框架与学术合法性 | 文献综述论证链条构建、术语与构念界定 | Cohen, L.; Manion, L.; Morrison, K. |
 > | **知识空白识别与课题生成** | 发现被忽略问题、理论矛盾、方法缺陷并把握问题本质 | 批判性阅读、知识空白挖掘、[[Research Topic\|研究选题]]与设计 | 齐梅 |
-> | **智能代理分工与高阶综合** | 代理执行海量文献挖掘，人类聚焦宏观方向与根本命题提出 | 智能科研工作流、动态研究笔记本检索、战略认知聚焦 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] |
+> | **智能代理分工与高阶综合** | 代理执行海量文献挖掘，人类聚焦宏观方向与根本命题提出 | 智能科研工作流、[[Dynamic Research Notebook\|动态研究笔记本]]检索、战略认知聚焦 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] |
 
 ---
 
@@ -460,7 +461,7 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > - **1960s–1980s — 计算机化专业数据库与布尔逻辑检索** 1966 年美国[[Education Resources Information Center|教育资源信息中心]]（[[Education Resources Information Center|ERIC]]）创设，计算机数据库与布尔操作符（AND, OR, NOT）成为系统检索的标准工具。
 > - **1990s–2000s — 互联网学术搜索平台与引文[[Network Analysis|网络分析]]** Web of Science、Google Scholar、中国知网（CNKI）等大型在线平台崛起，SSCI 引文追踪（绵延法）与关键词倒三角检索成为规范流程。
 > - **2010s — 开放获取、[[Systematic Review|系统综述]]标准与证据库整合** DOAJ 开放获取目录普及，[[PRISMA]] 系统综述流程与 [[What Works Clearinghouse|WWC]]、[[EPPI-Centre]] 等循证证据库成为高质量文献检索与筛选的核心基准。
-> - **2025–2026 — 生成式 AI 代理、语义关联与动态研究笔记本检索** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告确立智能时代科研新范式，智能代理承担自动化文献挖掘与代码/数据沙盒溯源，驱动人类学者向宏观战略综合演进。
+> - **2025–2026 — 生成式 AI 代理、语义关联与[[Dynamic Research Notebook|动态研究笔记本]]检索** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告确立智能时代科研新范式，智能代理承担自动化文献挖掘与代码/数据沙盒溯源，驱动人类学者向宏观战略综合演进。
 
 ---
 

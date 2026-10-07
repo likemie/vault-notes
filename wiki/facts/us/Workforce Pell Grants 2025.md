@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,8 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Process Knowledge]]"
   - "[[Apprenticeship]]"
+  - "[[Outcome-Based Apprenticeship Funding]]"
+  - "[[Community College Strategic Anchoring]]"
   - "[[Attrition]]"
   - "[[Engineering Education]]"
 related_theories: []
@@ -70,8 +72,8 @@ updated: 2026-10-07
 > [!policy-design] 政策工具与协同机制
 > - **助学金资格扩容** 允许符合劳动市场高质量认证标准的短期技术证书培训项目学生申请佩尔助学金，大幅降低青年与转岗劳动者接受高级技能培训的经济门槛。
 > - **与百万[[Apprenticeship|注册学徒制]]计划紧密挂钩** 要求联邦各部门协同发力，将全美注册在册学徒（Registered Apprenticeships）人数推高至每年 100 万人以上，重塑蓝领技工的社会晋升阶梯。
-> - **劳工部按绩效付费机制（Pay-for-Performance）** 将传统的雇主学徒制预先无条件拨款模式，重构为与实际学徒雇佣、技能认证及长期岗位留用率直接挂钩的成果付费模式。
-> - **社区学院技能枢纽功能强化** 依托劳动力佩尔助学金，赋能全美覆盖 40% 本科生规模的社区学院网络，使其与半导体中试线、核能产业基地及区域生物医药集群紧密绑定，提供与在职实操并行的理论技术教学。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 53)]]
+> - **劳工部[[Outcome-Based Apprenticeship Funding|按绩效付费机制]]（Pay-for-Performance）** 将传统的雇主学徒制预先无条件拨款模式，重构为与实际学徒雇佣、技能认证及长期岗位留用率直接挂钩的成果付费模式。
+> - **[[Community College Strategic Anchoring|社区学院技能枢纽]]功能强化** 依托劳动力佩尔助学金，赋能全美覆盖 40% 本科生规模的社区学院网络，使其与半导体中试线、核能产业基地及区域生物医药集群紧密绑定，提供与在职实操并行的理论技术教学。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 53)]]
 
 ---
 

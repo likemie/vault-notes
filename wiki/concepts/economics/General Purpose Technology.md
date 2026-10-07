@@ -9,10 +9,10 @@ aliases:
 summary: "一种具有跨部门广泛渗透性、内在持续技术动态性以及能诱发下游互补性创新与系统性生产率提升的基础技术范式。"
 type: concept
 domain: "economics"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/innovation-economics
   - theme/technological-change
@@ -58,6 +58,7 @@ related_facts:
   - "[[Fairchild Semiconductor]]"
   - "[[ARPANET]]"
   - "[[Semiconductor Research Corporation]]"
+  - "[[National Aeronautics and Space Administration]]"
 related_arguments:
   - "[[Argument_Lecuyer_1999_HT]]"
   - "[[Argument_Mowery_2011_NBER]]"
@@ -225,7 +226,7 @@ updated: 2026-10-07
 > > [!axis] 军工采购驱动论 vs. 商业市场与企业战略驱动论
 > > 关于微电子革命与技术扩散的主导力量存在历史学与经济学解释分歧。
 > >
-> > - **传统军工[[Determinism|决定论]]（Golding, 1971; Levin, 1982; [[Argument_Mowery_2011_NBER|Mowery, 2011]]）** 强调国防部与国家航空航天局的军工订单提供了最初的研发资助、溢价保障与规模市场（集成电路军用份额在 1962 年达 100%），军工先导采购是技术突破早期不可或缺的制度催化剂。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 163–168)]]
+> > - **传统军工[[Determinism|决定论]]（Golding, 1971; Levin, 1982; [[Argument_Mowery_2011_NBER|Mowery, 2011]]）** 强调国防部与[[National Aeronautics and Space Administration|国家航空航天局]]的军工订单提供了最初的研发资助、溢价保障与规模市场（集成电路军用份额在 1962 年达 100%），军工先导采购是技术突破早期不可或缺的制度催化剂。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 163–168)]]
 > > - **商业战略与供需共演论（[[Argument_Lecuyer_1999_HT|Lécuyer, 1999]]）** 指出军工采购在1960年代初陷入停滞且国防部采购规则趋向严苛，真正促成硅[[Research Translation|技术转化]]为通用目的技术的是企业主动进军民用市场的商业降价策略、[[Application Engineering|应用工程]]创新与系统封装革命。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 180–188)]]
 > > - **生命周期与两阶段整合论（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]]）** 调和了前两派分歧，指出公共采购的杠杆效能严格取决于产业生命周期：在产业萌芽阶段（1950s–1960s），先导采购与第二货源对于分担高昂试错成本与培育企业进入不可或缺；而在商业成熟阶段（1970s以后），商业市场成为主导，自上而下的军用规格干预反会导致政策失灵，技术由民用向军工逆向流动。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 30–34, 41)]]
 

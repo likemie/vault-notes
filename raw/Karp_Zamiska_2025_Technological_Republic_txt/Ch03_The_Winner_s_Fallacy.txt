@@ -1,4 +1,15 @@
-•
+The Technological Republic: Hard Power, Soft Belief, and the Future of the West
+Alexander C. Karp and Nicholas W. Zamiska | 2025 | New York: Crown Currency
+Ebook ISBN 9780593798706
+
+Part I: The Software Century
+Chapter Three: The Winner’s Fallacy
+
+[Reading copy: English original. Original print page markers and note IDs are retained. Book-level supplements are labelled separately from chapter text.]
+
+========================================================================
+Chapter text
+========================================================================
 
 [p. 29] Chapter Three
 
@@ -39,3 +50,82 @@ In the summer of 1939, from a cottage on the North Fork of Long Island, Albert E
 Skip Notes
 
 * [note:Y_d1-EndnotePhraseInText79] Our point is that such moral appeal is necessary but not sufficient to wield power in the world. As Joseph S. Nye Jr. has observed, to “deny the importance of soft power” is to fail to “understand the power of seduction.”
+
+========================================================================
+Chapter notes
+========================================================================
+
+[note:Y_d1-EndnotePhraseInText69] [notes p. 227]
+Rabha makes clear: The Babylonian Talmud, trans. Michael L. Rodkinson, vols. 7 and 8 (Boston: Talmud Society, 1918), 214; see also Ronen Bergman, Rise and Kill First: The Secret History of Israel’s Targeted Assassinations (New York: Random House, 2018), 315.
+
+[note:Y_d1-EndnotePhraseInText70] [notes p. 227]
+They will proceed: See, for example, Ross Andersen, “The Panopticon Is Already Here,” Atlantic, September 2020; Paul Mozur, “Inside China’s Dystopian Dreams: A.I., Shame, and Lots of Cameras,” New York Times, July 8, 2018.
+
+[note:Y_d1-EndnotePhraseInText71] [notes p. 227]
+[p. 228] As of 2024: U.S. National Institute of Standards and Technology, “Face Recognition Technology Evaluation (FRTE) 1:1 Verification,” 2024; see also Andersen, “The Panopticon”; Tom Simonite, “Behind the Rise of China’s Facial-Recognition Giants,” Wired, September 3, 2019.
+
+[note:Y_d1-EndnotePhraseInText72] [notes p. 228]
+In December 2021: U.S. Department of the Treasury, “Treasury Identifies Eight Chinese Tech Firms as Part of the Chinese Military-Industrial Complex,” December 16, 2021.
+
+[note:Y_d1-EndnotePhraseInText73] [notes p. 228]
+Two of the other companies: U.S. National Institute of Standards and Technology, “Face Recognition Technology Evaluation.”
+
+[note:Y_d1-EndnotePhraseInText74] [notes p. 228]
+In 2022, a research group: Xin Zhou et al., “Swarm of Micro Flying Robots in the Wild,” Science Robotics 7, no. 66 (2022), 3.
+
+[note:Y_d1-EndnotePhraseInText75] [notes p. 228]
+A graduate student at École Polytechnique: Debbie White, “Drones Branch Out to Swarming Through Forests, Times (London), May 5, 2022.
+
+[note:Y_d1-EndnotePhraseInText76] [notes p. 228]
+Yet the following year: Emilie B. Stewart, “Survey of PRC Drone Swarm Inventions” (Montgomery, Ala.: China Aerospace Studies Institute, U.S. Air Force, 2023), 20.
+
+[note:Y_d1-EndnotePhraseInText77] [notes p. 228]
+He declared months before the fall: Francis Fukuyama, “The End of History?,” National Interest, no. 16 (Summer 1989): 4.
+
+[note:Y_d1-EndnotePhraseInText78] [notes p. 228]
+Fukuyama’s claim: Allan Bloom, “Responses to Fukuyama,” National Interest, no. 16 (Summer 1989): 19.
+
+[note:Y_d1-EndnotePhraseInText79] [notes p. 228]
+Our point is that such: Joseph S. Nye Jr., Soft Power: The Means to Success in World Politics (New York: PublicAffairs, 2004), 8.
+
+[note:Y_d1-EndnotePhraseInText80] [notes p. 228]
+“To be coercive”: Thomas Schelling, Arms and Influence (New Haven, Conn.: Yale University Press, 2020), 2.
+
+[note:Y_d1-EndnotePhraseInText81] [notes p. 228]
+As he made clear: Schelling, Arms and Influence, 142.
+
+[note:Y_d1-EndnotePhraseInText82] [notes p. 228]
+The company had been selected: Joshua Brustein, “Microsoft Wins $480 Million Army Battlefield Contract,” Bloomberg, November 28, 2018.
+
+[note:Y_d1-EndnotePhraseInText83] [notes p. 228]
+“We did not sign up”: Julia Carrie Wong, “ ‘We Won’t Be War Profiteers’: Microsoft Workers Protest $48M Army Contract,” Guardian, February 22, 2019.
+
+[note:Y_d1-EndnotePhraseInText84] [notes p. 228]
+“Building this technology”: Scott Shane and Daisuke Wakabayashi, “ ‘The Business of War’: Google Employees Protest Work for the Pentagon,” New York Times, April 4, 2018; see also Jamie Condliffe, “Amazon Is Latest Tech Giant to Face Staff Backlash over Government Work,” New York Times, June 22, 2018.
+
+[note:Y_d1-EndnotePhraseInText85] [notes p. 228]
+Diane Greene, who ran Google’s: Kate Conger, “Google Plans Not to Renew Its Contract for Project Maven, a Controversial Pentagon Drone AI Imaging Program,” Gizmodo, June 1, 2018.
+
+[note:Y_d1-EndnotePhraseInText86] [notes p. 228]
+An article in Jacobin: Ben Tarnoff, “Tech Workers Versus the Pentagon,” Jacobin, [p. 229] June 6, 2018.
+
+[note:Y_d1-EndnotePhraseInText87] [notes p. 229]
+It is striking: See “Confidence in Institutions,” Gallup (noting that in 2023, 60 percent of respondents to a national survey reported that they had a “great deal” or “quite a lot” of confidence in the U.S. military,” as opposed to only 8 percent of respondents who said the same about Congress).
+
+[note:Y_d1-EndnotePhraseInText88] [notes p. 229]
+When William F. Buckley Jr.: Dan Wakefield, “William F. Buckley Jr.: Portrait of a Complainer,” Esquire, January 1, 1961, 50.
+
+[note:Y_d1-EndnotePhraseInText89] [notes p. 229]
+They would do well: See, for example, Mariana Mazzucato, The Entrepreneurial State: Debunking Public vs. Private Sector Myths (London: Anthem Press, 2013), 63 (noting the argument “that while Silicon Valley has been an attractive and influential model for regional development, it has been also difficult to copy it, because almost every advocate of the Silicon Valley model tells a story of ‘freewheeling entrepreneurs and visionary venture capitalists’ and yet misses the crucial factor: the military’s role in creating and sustaining it”) (quoting Stuart W. Leslie, “The Biggest ‘Angel’ of Them All: The Military and the Making of Silicon Valley,” in Understanding Silicon Valley: The Anatomy of an Entrepreneurial Region, ed. Martin Kenney (Stanford, Calif.: Stanford University Press, 2000)).
+
+[note:Y_d1-EndnotePhraseInText90] [notes p. 229]
+There was a degree: Jean Edward Smith, FDR (New York: Random House, 2008), 25; The U.S. and the Holocaust, directed by Ken Burns, Lynn Novick, and Sarah Botstein (PBS, 2022).
+
+[note:Y_d1-EndnotePhraseInText91] [notes p. 229]
+Einstein and his wife: Smith, FDR, 579; see also “The Roosevelt Week,” Time, February 5, 1934.
+
+[note:Y_d1-EndnotePhraseInText92] [notes p. 229]
+The rapid technical advances: Einstein to Roosevelt, Peconic, N.Y., August 2, 1939, Franklin D. Roosevelt Presidential Library and Museum, Hyde Park, N.Y.
+
+[note:Y_d1-EndnotePhraseInText93] [notes p. 229]
+That permanent contact: Germany ended up never seriously pursuing an atomic weapon. The country’s armaments minister, Albert Speer, concluded in 1942 that “the construction of an atomic bomb was too uncertain and too expensive.” Hitler, for his part, was reportedly “uninterested in an atomic weapon and disparaged nuclear science as ‘Jewish physics.’ ” Smith, FDR, 580.

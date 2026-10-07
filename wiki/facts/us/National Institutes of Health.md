@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Transfer Science]]"
   - "[[Valley of Death]]"
   - "[[Reproducibility Crisis]]"
+  - "[[Gold Standard Science]]"
   - "[[Metascience]]"
   - "[[Paradigm]]"
   - "[[Golden Ticket Mechanism]]"
@@ -98,7 +99,7 @@ updated: 2026-10-07
 > - **1970s–1990s — 资助机制转向与[[Human Genome Project|人类基因组计划]]** 独立培训项目缩减，研究生与博士后普遍依赖课题助研津贴；联合能源部（[[Department of Energy]], DOE）启动并攻克[[Human Genome Project|人类基因组计划]]（HGP）。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 18, 20)]]
 > - **1998–2002 — 国会预算翻倍计划及其体制后遗症** 国会推行五年预算翻倍（从 1998 年约 130 亿美元增至 2002 年 270 余亿美元）；刺激高校大举借债扩建科研大楼与设立软钱教职，但在翻倍结束后引发课题立项率暴跌（跌破 20%）、项目负责人显著老龄化与医学院偿债危机。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 27–28, 33–34)]]
 > - **2003–2024 — 转化医学创新、主任先锋奖与可重复性反思** 设立国家推进[[Transfer Science|转化科学]]中心（NCATS）跨越临床转化“[[Valley of Death|死亡之谷]]”；创设**主任先锋奖（NIH Director's Pioneer Award）**探索长周期对人资助；同时面对日益严峻的[[Reproducibility Crisis|可重复性危机]]与评审避险倾向。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
-> - **2025–2026 — 黄金标准科学行政令、对人赋权与[[Metascience|元科学]]重构** 落实《[[Restoring Gold Standard Science Executive Order|恢复黄金标准科学行政令]]》以推进机器可读与数据复现；依据 2026 年白宫《[[Science A New Golden Age 2026|科学：新的黄金时代]]》战略，推广先锋奖长周期对人资助[[Paradigm|范式]]，依托独立基金会（FNIH）深化[[Accelerating Medicines Partnership|加速药物伙伴关系]]（AMP），并在机构内设立直属院长的法定[[Metascience|元科学]]单元以[[Randomised Controlled Trials|随机对照实验]]优化评审制度。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 28, 31–32, 42)]]
+> - **2025–2026 — [[Gold Standard Science|黄金标准科学]]行政令、对人赋权与[[Metascience|元科学]]重构** 落实《[[Restoring Gold Standard Science Executive Order|恢复黄金标准科学行政令]]》以推进机器可读与数据复现；依据 2026 年白宫《[[Science A New Golden Age 2026|科学：新的黄金时代]]》战略，推广先锋奖长周期对人资助[[Paradigm|范式]]，依托独立基金会（FNIH）深化[[Accelerating Medicines Partnership|加速药物伙伴关系]]（AMP），并在机构内设立直属院长的法定[[Metascience|元科学]]单元以[[Randomised Controlled Trials|随机对照实验]]优化评审制度。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 28, 31–32, 42)]]
 
 ---
 

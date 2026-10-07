@@ -14,9 +14,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1982–至今（SBIR）/ 1992–至今（STTR）"
 initiator_organization: "美国联邦政府（国会立法，小企业管理局 SBA 统筹，国防部、NSF、NIH、DOE 等 11 个联邦机构协同执行）"
@@ -47,6 +47,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
   - "[[Department of Energy]]"
+  - "[[National Aeronautics and Space Administration]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Engineering Research Centers]]"
   - "[[NSF I-Corps]]"
@@ -72,7 +73,7 @@ updated: 2026-10-07
 
 > [!program-context] 项目背景
 > - **立项时间与法律依据** 1977 年由[[National Science Foundation|美国国家科学基金会]]（NSF）率先设立 SBIR 试点，1982 年国会通过《小企业创新发展法》（Small Business Innovation Development Act, P.L. 97-219）在全联邦正式确立 SBIR；1992 年通过《小企业研发促进法》（P.L. 102-564）增设 STTR 计划。
-> - **发起方与统筹架构** 由美国小企业管理局（Small Business Administration, SBA）负责宏观政策指南制定与跨部门协调，国防部（DoD）、卫生与公众服务部（HHS/[[National Institutes of Health|NIH]]）、能源部（[[Department of Energy|DOE]]）、国家航空航天局（NASA）及 NSF 等 11 个年度外包研发预算超过 1 亿美元的联邦机构分别独立组织项目申报与评审。
+> - **发起方与统筹架构** 由美国小企业管理局（Small Business Administration, SBA）负责宏观政策指南制定与跨部门协调，国防部（DoD）、卫生与公众服务部（HHS/[[National Institutes of Health|NIH]]）、能源部（[[Department of Energy|DOE]]）、[[National Aeronautics and Space Administration|国家航空航天局]]（NASA）及 NSF 等 11 个年度外包研发预算超过 1 亿美元的联邦机构分别独立组织项目申报与评审。
 > - **覆盖范围与资助对象** 面向全美员工少于 500 人、由美国公民控股的科技型中小企业，以及由大学教授和研究生创办的硬科技衍生企业（Spin-outs）。
 > - **核心问题导向** 应对 1970 年代末至 1980 年代初美国国家工业[[Competitiveness|竞争力]]危机，解决大学前沿基础研究成果难以跨越“实验室概念验证向商业化产品转化[[Valley of Death|死亡之谷]]”的体制瓶颈。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 369)]]
 
@@ -84,7 +85,7 @@ updated: 2026-10-07
 > 通过强制各联邦机构提取法定研发预算份额、实施三阶段竞争性资助阶梯，并在申报中内置“客户声音”（Voice of the Customer）与产业协作门槛，能够在不稀释创始团队股权的前提下为[[University Spin-Out|大学衍生企业]]提供早期市场验证与高风险概念孵化资本。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, pp. 144, 149)]]
 
 > [!policy-design] 方案设计
-> - **法定经费提取配比** 年度外包研发预算超过 1 亿美元的 11 个联邦机构必须将其预算的 3.2% 专项用于 SBIR；外包研发预算超过 10 亿美元的 5 个主要机构（DoD、[[Department of Energy|DOE]]、HHS、NASA、[[National Science Foundation|NSF]]）必须将 0.45%（初始阶段为 0.3%）专门划拨用于 STTR。[[Argument_Cheng_2026_KeJiChuangXin|(程楠等, 2026, p. 37)]]
+> - **法定经费提取配比** 年度外包研发预算超过 1 亿美元的 11 个联邦机构必须将其预算的 3.2% 专项用于 SBIR；外包研发预算超过 10 亿美元的 5 个主要机构（DoD、[[Department of Energy|DOE]]、HHS、[[National Aeronautics and Space Administration|NASA]]、[[National Science Foundation|NSF]]）必须将 0.45%（初始阶段为 0.3%）专门划拨用于 STTR。[[Argument_Cheng_2026_KeJiChuangXin|(程楠等, 2026, p. 37)]]
 > - **三阶段阶梯推进机制**
 >   - **第一阶段（Phase I，可行性验证）** 资助 15–25 万美元（周期 6–12 个月），用于探索科学、技术及商业可行性。
 >   - **第二阶段（Phase II，原型研发）** 仅向第一阶段成功者开放，资助 100–150 万美元（周期 24 个月），用于深度研发与工程样机制造。
@@ -118,7 +119,7 @@ updated: 2026-10-07
 
 > [!actor-grid] 实施协同矩阵
 > - **宏观政策与合规监督方** 美国小企业管理局（SBA），负责制定统一政策准则，管理全国 SBIR/STTR 数据库，向国会提交年度审查报告。
-> - **出资与技术需求发布方** DoD、[[National Institutes of Health|NIH]]、[[Department of Energy|DOE]]、[[National Science Foundation|NSF]]、NASA 等 11 个联邦机构，结合各自国家战略使命（如国防装备、重大疾病、清洁能源、前沿工程）发布年度课题指南与组织独立评审。
+> - **出资与技术需求发布方** DoD、[[National Institutes of Health|NIH]]、[[Department of Energy|DOE]]、[[National Science Foundation|NSF]]、[[National Aeronautics and Space Administration|NASA]] 等 11 个联邦机构，结合各自国家战略使命（如国防装备、重大疾病、清洁能源、前沿工程）发布年度课题指南与组织独立评审。
 > - **[[Research Translation|技术转化]]执行主体** 高技术小企业与[[University Spin-Out|大学衍生企业]]，负责攻坚核心技术方案，收集真实市场需求，完成工程原型样机。
 > - **学术研究与人才源头** [[Research Universities|研究型大学]]与国家实验室，作为 STTR 的法定合作方提供先导专利许可、高端实验仪器平台与跨学科研究生研发力量。
 
@@ -135,7 +136,7 @@ updated: 2026-10-07
 > - **3.2%** 11 个联邦主要研发部门依法必须从外包研发总预算中划拨给 SBIR 的法定提取比例。[[Argument_Cheng_2026_KeJiChuangXin|(程楠等, 2026, p. 37)]]
 > - **0.45%** 5 个大型联邦研发机构依法必须从外包研发总预算中划拨给 STTR 的法定提取比例。
 > - **> 40 亿美元** 联邦政府每年通过 SBIR/STTR 体系向中小科技企业拨付的非稀释性研发资金规模。
-> - **11** 参与 SBIR 计划的联邦部门总数（涵盖国防部、HHS/[[National Institutes of Health|NIH]]、能源部、[[National Science Foundation|NSF]]、NASA、农业部等）。
+> - **11** 参与 SBIR 计划的联邦部门总数（涵盖国防部、HHS/[[National Institutes of Health|NIH]]、能源部、[[National Science Foundation|NSF]]、[[National Aeronautics and Space Administration|NASA]]、农业部等）。
 
 ---
 

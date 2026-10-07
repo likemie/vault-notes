@@ -44,6 +44,7 @@ related_persons:
   - "[[David C. Mowery]]"
 related_facts:
   - "[[National Science Foundation]]"
+  - "[[Institute for Advanced Study]]"
   - "[[1956 AT&T Consent Decree]]"
   - "[[Bell Labs]]"
   - "[[The Green Book]]"
@@ -69,9 +70,9 @@ title: "Argument_Mowery_2011_NBER"
 argument_key: "Argument_Mowery_2011_NBER"
 argument_display_title: "Federal policy and the development of semiconductors, computer hardware, and computer software: A policy model for climate change R&D? In R"
 argument_kind: "report"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dcfce7"
 journal: ""
 book_title: "Accelerating Energy Innovation: Insights from Multiple Sectors"
@@ -125,7 +126,7 @@ issuing_organization: "National Bureau of Economic Research"
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **产业统计样本** | 1955–1968 年联邦半导体开发合同在顶尖企业与新创企业间的分配；1962–1978 年美国集成电路终端出货份额（军用、计算机、工业、消费）与单价变化（Table 5.1）；1950–1968 年 IBM 对联邦机构特殊产品销售收入；1959–1990 年国防部软件采购序列。 |
-> | **早期计算机工程样本** | 1945–1955 年战后第一代联邦资助的 19 项计算机研制工程（ENIAC、Mark II/III/IV、BINAC、SEAC、UNIVAC、Whirlwind、IAS、SWAC、NORC 等）的成本与资助机构（Table 5.2）。 |
+> | **早期计算机工程样本** | 1945–1955 年战后第一代联邦资助的 19 项计算机研制工程（ENIAC、Mark II/III/IV、BINAC、SEAC、UNIVAC、Whirlwind、[[Institute for Advanced Study\|IAS]]、SWAC、NORC 等）的成本与资助机构（Table 5.2）。 |
 > | **制度法规样本** | 1956 年 AT&T 反垄断和解协议、1956 年 IBM 反垄断同意令、1969 年 IBM 软件服务解绑声明、1984 年国防部 Ada 编程语言标准指令。 |
 
 ---
@@ -232,7 +233,7 @@ issuing_organization: "National Bureau of Economic Research"
 > | **[[European Research Area\|ERA]] 1101 (Atlas I)** | \$500 | 海军 / 国家安全局（National Security Agency, NSA） | 1950 |
 > | **Eckert-Mauchly UNIVAC** | \$400–\$500 | 陆军（人口普查局渠道） / 空军 | 1951 |
 > | **MIT Whirlwind** | \$4,000–\$5,000 | 海军 / 空军 | 1951 |
-> | **Princeton IAS Computer** | \$650 | 陆军 / 海军 / RCA / 原子能委员会（Atomic Energy Commission, AEC） | 1951 |
+> | **[[Institute for Advanced Study\|Princeton IAS]] Computer** | \$650 | 陆军 / 海军 / RCA / 原子能委员会（Atomic Energy Commission, AEC） | 1951 |
 > | **UC Berkeley CALDIC** | \$95 | 海军（Navy） | 1951 |
 > | **Harvard Mark IV** | 不详 | 空军（Air Force） | 1951 |
 > | **EDVAC** | \$467 | 陆军（Army） | 1952 |

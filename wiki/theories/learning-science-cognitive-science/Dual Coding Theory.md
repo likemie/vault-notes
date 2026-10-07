@@ -36,7 +36,8 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Richard E. Mayer]]"
-related_facts: []
+related_facts:
+  - "[[Activate Fellowship]]"
 related_arguments:
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
 confidence: high
@@ -63,7 +64,7 @@ updated: 2026-09-22
 > [!citation-card]- 关键表述
 > 双重[[Coding in Qualitative Research\|编码]]理论指出，视觉空间通道与语言通道的协同运作使大脑能够利用海马体至大脑皮层的神经通路，将空间排布的拓扑语义从短时记忆转化为长时记忆，从而强效支撑复杂的[[Higher-Order Thinking Skills\|高阶思维]]与[[Problem Solving\|问题解决]]。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 2–3, 11)]]
 >
-> *According to dual coding theory and spatial metaphor theory, visual tools activate both visual and verbal channels, creating integrated cognitive structures that support higher-order thinking...*
+> *According to dual coding theory and spatial metaphor theory, visual tools [[Activate Fellowship|Activate]] both visual and verbal channels, creating integrated cognitive structures that support higher-order thinking...*
 
 ---
 

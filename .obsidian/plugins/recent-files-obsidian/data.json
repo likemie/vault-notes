@@ -1,8 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02.md"
+    },
+    {
+      "basename": "Concept Mapping",
+      "path": "wiki/concepts/instruction-pedagogy/Concept Mapping.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29.md"
+    },
+    {
       "basename": "Argument_Kratsios_2026_OSTP",
       "path": "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md"
+    },
+    {
+      "basename": "Diversity, Equity, and Inclusion",
+      "path": "wiki/concepts/educational-policy-reform/Diversity, Equity, and Inclusion.md"
+    },
+    {
+      "basename": "Cold Spring Harbor Laboratory",
+      "path": "wiki/facts/us/Cold Spring Harbor Laboratory.md"
+    },
+    {
+      "basename": "Literature Search",
+      "path": "wiki/concepts/research-methodology/Literature Search.md"
+    },
+    {
+      "basename": "21st Century Skills and Competencies Discourse",
+      "path": "wiki/concepts/educational-policy-reform/21st Century Skills and Competencies Discourse.md"
+    },
+    {
+      "basename": "Community College Strategic Anchoring",
+      "path": "wiki/concepts/higher-education/Community College Strategic Anchoring.md"
+    },
+    {
+      "basename": "Creativity",
+      "path": "wiki/concepts/competency-and-assessment/Creativity.md"
+    },
+    {
+      "basename": "Argument_Bozeman_2004_JTT",
+      "path": "wiki/arguments/journal-articles/The Journal of Technology Transfer/Argument_Bozeman_2004_JTT.md"
+    },
+    {
+      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic",
+      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md"
+    },
+    {
+      "basename": "Karp_Zamiska_2025_Technological_Republic",
+      "path": "books/Karp_Zamiska_2025_Technological_Republic/Karp_Zamiska_2025_Technological_Republic.md"
     },
     {
       "basename": "Argument_Peterson_1987_OpenCourt_Ch08",
@@ -45,20 +105,12 @@
       "path": "wiki/concepts/science-policy/Portfolio-Based Research Funding.md"
     },
     {
-      "basename": "Literature Search",
-      "path": "wiki/concepts/research-methodology/Literature Search.md"
-    },
-    {
       "basename": "Knowledge Production",
       "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
     },
     {
       "basename": "Falsification",
       "path": "wiki/concepts/educational-philosophy/Falsification.md"
-    },
-    {
-      "basename": "21st Century Skills and Competencies Discourse",
-      "path": "wiki/concepts/educational-policy-reform/21st Century Skills and Competencies Discourse.md"
     },
     {
       "basename": "Problem Solving",
@@ -147,58 +199,6 @@
     {
       "basename": "Center of Calculation",
       "path": "wiki/concepts/sociology-of-education/Center of Calculation.md"
-    },
-    {
-      "basename": "DARPA",
-      "path": "wiki/facts/us/DARPA.md"
-    },
-    {
-      "basename": "Randomised Controlled Trials",
-      "path": "wiki/methods/quantitative/Randomised Controlled Trials.md"
-    },
-    {
-      "basename": "Reproducibility Crisis",
-      "path": "wiki/concepts/science-policy/Reproducibility Crisis.md"
-    },
-    {
-      "basename": "Scientific Literacy",
-      "path": "wiki/concepts/competency-and-assessment/Scientific Literacy.md"
-    },
-    {
-      "basename": "Creativity",
-      "path": "wiki/concepts/competency-and-assessment/Creativity.md"
-    },
-    {
-      "basename": "National Science Foundation",
-      "path": "wiki/facts/us/National Science Foundation.md"
-    },
-    {
-      "basename": "Donald Stokes",
-      "path": "wiki/persons/us/Donald Stokes.md"
-    },
-    {
-      "basename": "Big Science",
-      "path": "wiki/concepts/science-policy/Big Science.md"
-    },
-    {
-      "basename": "Research Universities",
-      "path": "wiki/concepts/higher-education/Research Universities.md"
-    },
-    {
-      "basename": "Innovation Hub",
-      "path": "wiki/concepts/university-industry-collaboration/Innovation Hub.md"
-    },
-    {
-      "basename": "Apprenticeship",
-      "path": "wiki/concepts/instruction-pedagogy/Apprenticeship.md"
-    },
-    {
-      "basename": "Grand Challenges",
-      "path": "wiki/concepts/science-policy/Grand Challenges.md"
-    },
-    {
-      "basename": "Department of Energy",
-      "path": "wiki/facts/us/Department of Energy.md"
     }
   ],
   "omittedPaths": [],

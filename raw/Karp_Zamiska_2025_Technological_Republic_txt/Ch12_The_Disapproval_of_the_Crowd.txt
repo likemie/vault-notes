@@ -1,4 +1,15 @@
-•
+The Technological Republic: Hard Power, Soft Belief, and the Future of the West
+Alexander C. Karp and Nicholas W. Zamiska | 2025 | New York: Crown Currency
+Ebook ISBN 9780593798706
+
+Part III: The Engineering Mindset
+Chapter Twelve: The Disapproval of the Crowd
+
+[Reading copy: English original. Original print page markers and note IDs are retained. Book-level supplements are labelled separately from chapter text.]
+
+========================================================================
+Chapter text
+========================================================================
 
 [p. 130] Chapter Twelve
 
@@ -55,3 +66,112 @@ Other purported disabilities have, in different domains, proven adaptive. [note:
 • • •
 
 The instinct to conform to the behavior of those around us, to the norms that others demonstrate, and to prize the abilities that most around us find second nature, is in the vast majority of cases extraordinarily adaptive and helpful, for both our individual survival and that of the human species. Our desire to conform is immense and yet crippling when it comes to creative output. In Asch’s experiments, there was a subset of those tested who reliably buckled under the pressure each and every time they were confronted with blatantly false reports of the relative lengths of the lines they were shown. Another cohort never wavered in correctly assessing their lengths notwithstanding the pressure of others. It is this insensitivity to a certain type of social calculation, and resistance to conformity, that has been essential to the rise of Silicon Valley’s engineering culture.
+
+========================================================================
+Chapter notes
+========================================================================
+
+[note:Y_d1-EndnotePhraseInText313] [notes p. 244]
+Asch was born in Warsaw: John Ceraso, Irvin Rock, and Howard Gruber, “On Solomon Asch,” in The Legacy of Solomon Asch, ed. Irvin Rock (Hillsdale, N.J.: Lawrence Erlbaum Associates, 1990), 3.
+
+[note:Y_d1-EndnotePhraseInText314] [notes p. 244]
+When he was thirteen: David Stout, “Solomon Asch Is Dead at 88; A Leading Social Psychologist,” New York Times, February 29, 1996, D19.
+
+[note:Y_d1-EndnotePhraseInText315] [notes p. 244]
+The other seven: Solomon E. Asch, “Effects of Group Pressure upon the Modification and Distortion of Judgments,” in Groups, Leadership, and Men: Research in Human Relations, ed. Harold Guetzkow (Pittsburgh: Carnegie Press, 1951), 178.
+
+[note:Y_d1-EndnotePhraseInText316] [notes p. 244]
+As Asch later wrote: Asch, “Effects of Group Pressure,” 179.
+
+[note:Y_d1-EndnotePhraseInText317] [notes p. 244]
+For Asch, and many others: Solomon E. Asch, “Opinions and Social Pressure,” Scientific American 193, no. 5 (November 1955): 34.
+
+[note:Y_d1-EndnotePhraseInText318] [notes p. 244]
+A friend and colleague: Ceraso, Rock, and Gruber, “On Solomon Asch,” 8.
+
+[note:Y_d1-EndnotePhraseInText319] [notes p. 244]
+The institutional review boards: Christine Grady, “Institutional Review Boards: Purpose and Challenges,” Chest 148, no. 5 (November 2015): 1150.
+
+[note:Y_d1-EndnotePhraseInText320] [notes p. 244]
+Milgram was born in 1933: Thomas Blass, The Man Who Shocked the World: The Life and Legacy of Stanley Milgram (New York: Basic Books, 2009), 1.
+
+[note:Y_d1-EndnotePhraseInText321] [notes p. 244]
+An advertisement seeking volunteers: Stanley Milgram, Obedience to Authority: An Experimental View (New York: Harper Perennial, 2009), 14.
+
+[note:Y_d1-EndnotePhraseInText322] [notes p. 244]
+Each of the volunteers: Milgram, Obedience to Authority, 14.
+
+[note:Y_d1-EndnotePhraseInText323] [notes p. 244]
+The test subjects were told: Milgram, Obedience to Authority, 19.
+
+[note:Y_d1-EndnotePhraseInText324] [notes p. 244]
+At the outset: Milgram, Obedience to Authority, 20.
+
+[note:Y_d1-EndnotePhraseInText325] [notes p. 244]
+The learner, of course: Milgram, Obedience to Authority, 16.
+
+[note:Y_d1-EndnotePhraseInText326] [notes p. 244]
+Of the dozens of individuals: Milgram, Obedience to Authority, 5.
+
+[note:Y_d1-EndnotePhraseInText327] [notes p. 244]
+The results captivated the country: Walter Sullivan, “65% in Test Blindly Obey Order to Inflict Pain,” New York Times, October 26, 1963, 10.
+
+[note:Y_d1-EndnotePhraseInText328] [notes p. 244]
+In one of the most haunting: Milgram, Obedience to Authority, 73.
+
+[note:Y_d1-EndnotePhraseInText329] [notes p. 244]
+“Subject: I can’t stand it”: Milgram, Obedience to Authority, 73.
+
+[note:Y_d1-EndnotePhraseInText330] [notes p. 244]
+As Milgram put it: Milgram, Obedience to Authority, 77.
+
+[note:Y_d1-EndnotePhraseInText331] [notes p. 244]
+“He thinks he is killing someone”: Milgram, Obedience to Authority, 77.
+
+[note:Y_d1-EndnotePhraseInText332] [notes p. 244]
+Milgram’s experiment provided: See Hannah Arendt, Eichmann in Jerusalem: A Report on the Banality of Evil (New York: Viking Press, 1963).
+
+[note:Y_d1-EndnotePhraseInText333] [notes p. 244]
+Not all of Milgram’s subjects: Milgram, Obedience to Authority, 84.
+
+[note:Y_d1-EndnotePhraseInText334] [notes p. 244]
+The investigator leading the session: Milgram, Obedience to Authority, 16, 85.
+
+[note:Y_d1-EndnotePhraseInText335] [notes p. 244]
+[p. 245] He also repeated: Milgram, Obedience to Authority, 85.
+
+[note:Y_d1-EndnotePhraseInText336] [notes p. 245]
+The psychological resilience: Milgram, Obedience to Authority, 85.
+
+[note:Y_d1-EndnotePhraseInText337] [notes p. 245]
+The group of experiments: The experiment also perhaps serves as a reminder of how gentle contemporary review boards in psychology departments have grown, approving only the most mild forms of deception in experiments conducted on volunteers and perhaps forgoing entire lines of productive and valuable research into the human mind.
+
+[note:Y_d1-EndnotePhraseInText338] [notes p. 245]
+As Howard Gruber: Ceraso, Rock, and Gruber, “On Solomon Asch,” 8.
+
+[note:Y_d1-EndnotePhraseInText339] [notes p. 245]
+In September 1922: Monet’s Years at Giverny (New York: Metropolitan Museum of Art, 1978), 34–36.
+
+[note:Y_d1-EndnotePhraseInText340] [notes p. 245]
+His later works: Emily Watlington, “ ‘Monet/Mitchell’ Shows How the Impressionist’s Blindness Charted a Path for Abstraction,” Art in America, May 12, 2023.
+
+[note:Y_d1-EndnotePhraseInText341] [notes p. 245]
+A retrospective of the painter’s work: See Suzanne Pagé, Marianne Mathieu, and Angeline Scherf, Monet—Mitchell (New Haven, Conn.: Yale University Press, 2022).
+
+[note:Y_d1-EndnotePhraseInText342] [notes p. 245]
+Similarly, when Ludwig van Beethoven: Matthew Guerrieri, The First Four Notes: Beethoven’s Fifth and the Human Imagination (New York: Vintage Books, 2014), 8.
+
+[note:Y_d1-EndnotePhraseInText343] [notes p. 245]
+As news, however: Guerrieri, First Four Notes, 12.
+
+[note:Y_d1-EndnotePhraseInText344] [notes p. 245]
+Some have argued: Robin Wallace, “Why Beethoven’s Loss of Hearing Added Dimensions to His Music,” Zócalo Public Square, July 28, 2019.
+
+========================================================================
+Sources for figures in this chapter (original Art Credits, pp. 285–286)
+========================================================================
+
+All images have been either reprinted or redrawn based on data from the following sources:
+
+Figure 10
+Solomon E. Asch, “Opinions and Social Pressure,” Scientific American 193, no. 5 (November 1955): 32. Reproduced with permission. Copyright © 1955 SCIENTIFIC AMERICAN, Inc. All rights reserved.

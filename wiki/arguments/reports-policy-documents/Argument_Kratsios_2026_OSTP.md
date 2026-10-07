@@ -39,12 +39,17 @@ related_concepts:
   - "[[Regulatory Sandbox]]"
   - "[[Grand Challenges]]"
   - "[[Apprenticeship]]"
+  - "[[Practitioner-in-Residence]]"
+  - "[[Community College Strategic Anchoring]]"
   - "[[Innovation Hub]]"
+  - "[[Gold Standard Science]]"
   - "[[Big Science]]"
+  - "[[Seniority Barrier in Academia]]"
   - "[[Eroom's Law]]"
   - "[[Star Scientists]]"
   - "[[Document]]"
   - "[[Creativity]]"
+  - "[[Diversity, Equity, and Inclusion]]"
   - "[[Scientific Literacy]]"
   - "[[Reproducibility Crisis]]"
   - "[[Grandes Ecoles]]"
@@ -54,6 +59,7 @@ related_concepts:
   - "[[Portable Fellowship]]"
   - "[[Advance Market Commitments]]"
   - "[[Academic Medical Center]]"
+  - "[[Quadratic Funding in Science]]"
   - "[[Scientific Method]]"
   - "[[Competitiveness]]"
   - "[[Technology Transfer]]"
@@ -61,10 +67,12 @@ related_concepts:
   - "[[Megascience Installations]]"
   - "[[Pilot Scale Platform]]"
   - "[[Cooperative Research and Development Agreement]]"
+  - "[[Other Transaction Authority]]"
   - "[[Variable]]"
   - "[[Assemblage]]"
   - "[[Academic Engagement]]"
   - "[[Engineering Education]]"
+  - "[[Outcome-Based Apprenticeship Funding]]"
   - "[[University-Industry Collaboration]]"
   - "[[National Innovation System]]"
   - "[[Industrial Commons]]"
@@ -72,6 +80,7 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Goodhart's Law]]"
+  - "[[Dynamic Research Notebook]]"
   - "[[Literature Search]]"
   - "[[Portfolio-Based Research Funding]]"
 related_theories:
@@ -103,6 +112,9 @@ related_facts:
   - "[[Workforce Pell Grants 2025]]"
   - "[[Department of Energy]]"
   - "[[National Science Foundation]]"
+  - "[[National Aeronautics and Space Administration]]"
+  - "[[Cold Spring Harbor Laboratory]]"
+  - "[[Institute for Advanced Study]]"
   - "[[ARPA-H]]"
   - "[[ARPA-E]]"
   - "[[Critical Assessment of Structure Prediction]]"
@@ -111,6 +123,8 @@ related_facts:
   - "[[Fast Grants]]"
   - "[[United Kingdom Metascience Unit]]"
   - "[[Accelerating Medicines Partnership]]"
+  - "[[Activate Fellowship]]"
+  - "[[Transformational AI Models Consortium]]"
 related_arguments: []
 sources:
   - "[[sources/Kratsios_2026_OSTP/Kratsios_2026_OSTP|Kratsios_2026_OSTP]]"
@@ -124,9 +138,9 @@ title: "Argument_Kratsios_2026_OSTP"
 argument_key: "Argument_Kratsios_2026_OSTP"
 argument_display_title: "Science: A new golden age (Report to the President)"
 argument_kind: "report"
-argument_related_count: 87
-argument_related_level: 5
-argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_count: 101
+argument_related_level: 6
+argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
 journal: ""
 book_title: ""
@@ -229,8 +243,8 @@ issuing_organization: "Office of Science and Technology Policy"
 > [!pathways] 《[[Science A New Golden Age 2026|科学：新的黄金时代]]》四大政策支柱总览
 > - **第二章　重塑以研究者个人为核心的科研资助体制** 破除行政文书羁绊，扩大可随人迁移的早期奖学金与长周期对人资助；引入金券、快速资助、[[Pull Mechanisms for Innovation|拉动机制]]等多元选拔渠道；在联邦机构内设立具有对照实验权限的[[Metascience|元科学]]单元。
 > - **第三章　确保科学发现高效转化为本土产业能力** 恢复[[Permissionless Innovation|无许可创新]]并推行[[Regulatory Sandbox|监管沙盒]]；向产业界全面开放能源部（[[Department of Energy]], DOE）国家实验室与国防部测试试验场；依托前竞争联合体与[[Grand Challenges|重大挑战]]计划攻克行业共性工程瓶颈。
-> - **第四章　推动科技红利回归本土制造、手艺技能与区域生态** 拆除高等教育与职业培训的壁垒，将[[Apprenticeship|学徒制]]与动手实践计入培养体系；设立驻校实践者与国家工匠奖学金；建设基于地方制造集群与社区学院的区域[[Innovation Hub|创新中心]]。
-> - **第五章　在智能时代同步扩大[[Hypothesis|假设]]生成与实验核验规模** 全面推进[[Genesis Mission|创世纪计划]]，整合国家超级算力与仪器网络；践行黄金标准科学，建立机器可读的自动化复现基础设施；发展适应人工智能科研[[Paradigm|范式]]的新型学术交流机制。
+> - **第四章　推动科技红利回归本土制造、手艺技能与区域生态** 拆除高等教育与职业培训的壁垒，将[[Apprenticeship|学徒制]]与动手实践计入培养体系；设立驻校实践者与[[Practitioner-in-Residence|国家工匠学者计划]]；建设基于地方制造集群与[[Community College Strategic Anchoring|社区学院战略产业锚定]]的区域[[Innovation Hub|创新中心]]。
+> - **第五章　在智能时代同步扩大[[Hypothesis|假设]]生成与实验核验规模** 全面推进[[Genesis Mission|创世纪计划]]，整合国家超级算力与仪器网络；践行[[Gold Standard Science|黄金标准科学]]，建立机器可读的自动化复现基础设施；发展适应人工智能科研[[Paradigm|范式]]的新型学术交流机制。
 
 ---
 
@@ -327,7 +341,7 @@ issuing_organization: "Office of Science and Technology Policy"
 ### 论证步骤二　行政摩擦、资历垄断与错位激励大幅抬高突破性创新成本
 
 > [!claim] 步骤二核心主张
-> 维持历史科技进步速度所需的科研投入在多领域急剧攀升；行政文书重负、资深学者的资历垄断、偏离学术能力的考核标准以及追求论文数量的功利激励，共同推高了取得突破性科学进展的制度成本。（pp. 13–20）
+> 维持历史科技进步速度所需的科研投入在多领域急剧攀升；行政文书重负、资深学者的[[Seniority Barrier in Academia|资历垄断]]、偏离学术能力的考核标准以及追求论文数量的功利激励，共同推高了取得突破性科学进展的制度成本。（pp. 13–20）
 
 #### 1. 维持历史技术进步速度所需的研究投入在多个领域成倍攀升
 
@@ -361,7 +375,7 @@ issuing_organization: "Office of Science and Technology Policy"
 > [!figure]- 图4　首次获得 R01 等效资助的研究者平均年龄
 > ![](https://img.mylikemie.icu/sources/Kratsios_2026_OSTP/figures/Kratsios_2026_OSTP_Fig4_Age_First_Time_NIH_Investigators.jpg)
 
-学术资历壁垒与评审固化共同将青年学者的创新探索推迟。
+[[Seniority Barrier in Academia|学术资历壁垒]]与评审固化共同将青年学者的创新探索推迟。
 
 > [!factors] 青年学者独立受阻与研究偏向保守的机制
 > - **资助门槛高企** 首次获资助年龄推迟至 42 岁，导致学者在[[Creativity|创造力]]最旺盛的 30 岁阶段被迫依附资深学者。（p. 16）
@@ -373,7 +387,7 @@ issuing_organization: "Office of Science and Technology Policy"
 资助评审机制若引入非学术性评价指标，将对选拔质量与科研公正性造成结构性扭曲。
 
 > [!case] 偏离科学能力准则的历史教训与现实扭曲
-> 2021 至 2024 年间，NSF 重点涉及多元、平等与包容（Diversity, Equity, and Inclusion, DEI）倡议的资助份额由不足 1% 激增至 25% 以上；国家航空航天局（National Aeronautics and Space Administration, NASA）一度要求提案必须包含包容性计划，并由半数具备 DEI 背景的专家组成专门小组进行评审。此类政策迫使科研人员在硬核技术提案中附会非学术性话语，其机制类似于 1920 年代哈佛大学为限制犹太学生比例而引入的非客观品格评价体系。以与[[Scientific Literacy|科学素养]]无关的标准筛选人才，其最终代价是损害国家整体的科学探索能力（p. 17）。
+> 2021 至 2024 年间，NSF 重点涉及[[Diversity, Equity, and Inclusion|多元、平等与包容]]（Diversity, Equity, and Inclusion, DEI）倡议的资助份额由不足 1% 激增至 25% 以上；[[National Aeronautics and Space Administration|国家航空航天局]]（National Aeronautics and Space Administration, NASA）一度要求提案必须包含包容性计划，并由半数具备 DEI 背景的专家组成专门小组进行评审。此类政策迫使科研人员在硬核技术提案中附会非学术性话语，其机制类似于 1920 年代哈佛大学为限制犹太学生比例而引入的非客观品格评价体系。以与[[Scientific Literacy|科学素养]]无关的标准筛选人才，其最终代价是损害国家整体的科学探索能力（p. 17）。
 
 #### 5. 碎片化短周期考核机制阻碍高风险长周期探索
 
@@ -419,8 +433,8 @@ issuing_organization: "Office of Science and Technology Policy"
 
 美国科技史表明，重大科学突破往往依赖于突破传统大学系所边界的新型研究机构。
 
-> [!case] 冷泉港实验室、高等研究院与高级研究计划局模式
-> 冷泉港实验室自 1890 年起长期深耕现代生物学前沿；普林斯顿高等研究院自 1930 年起为阿尔伯特·爱因斯坦（Albert Einstein）、埃米·诺特（Emmy Noether）与库尔特·哥德尔（Kurt Gödel）等大师提供免受考核干扰的纯粹探索环境；[[DARPA]] 则摒弃共识评审，由具备深厚技术洞察的项目经理自主立项并调度跨学科团队，催生出全球定位系统（Global Positioning System, GPS）、互联网与隐身飞机等颠覆性技术。国会随后设立的健康领域高级研究计划局（[[ARPA-H|Advanced Research Projects Agency for Health]], ARPA-H）与能源领域高级研究计划局（Advanced Research Projects Agency–Energy, [[ARPA-E]]），进一步验证了使命导向型新型科研范式的生命力（p. 21）。
+> [!case] [[Cold Spring Harbor Laboratory|冷泉港实验室]]、[[Institute for Advanced Study|高等研究院]]与高级研究计划局模式
+> [[Cold Spring Harbor Laboratory|冷泉港实验室]]自 1890 年起长期深耕现代生物学前沿；[[Institute for Advanced Study|普林斯顿高等研究院]]自 1930 年起为阿尔伯特·爱因斯坦（Albert Einstein）、埃米·诺特（Emmy Noether）与库尔特·哥德尔（Kurt Gödel）等大师提供免受考核干扰的纯粹探索环境；[[DARPA]] 则摒弃共识评审，由具备深厚技术洞察的项目经理自主立项并调度跨学科团队，催生出全球定位系统（Global Positioning System, GPS）、互联网与隐身飞机等颠覆性技术。国会随后设立的健康领域高级研究计划局（[[ARPA-H|Advanced Research Projects Agency for Health]], ARPA-H）与能源领域高级研究计划局（Advanced Research Projects Agency–Energy, [[ARPA-E]]），进一步验证了使命导向型新型科研范式的生命力（p. 21）。
 
 #### 2. 中等规模且具公共品属性的工程科学难以容纳于现有大学系所
 
@@ -468,7 +482,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 > - **重大技术悬赏奖金** 一千万美元私人亚轨道飞行奖金拉动数亿美元研发投入，展示以明确结果为导向的杠杆效应。（p. 29）
 > - **跨学科开放竞赛** 赫库兰尼姆卷轴破译竞赛吸引计算机学生解开考古难题，证明外来解题者在跨界瓶颈上的突破力。（p. 29）
 > - **高级市场承诺保障** 在新型疫苗或储能产品开发成功前预先承诺采购规模，消除早期研发的市场不确定性。（pp. 28–29）
-> - **二次方配比资助试验** 强调基层共同体背书广度而非单一资助方额度，探索降低把关者偏倚的新型配置模式。（p. 30）
+> - **[[Quadratic Funding in Science|二次方配比资助]]试验** 强调基层共同体背书广度而非单一资助方额度，探索降低把关者偏倚的新型配置模式。（p. 30）
 
 #### 5. 设立被充分授权的元科学单元以制度化推进随机对照实验
 
@@ -562,7 +576,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 > [!pathways] 畅通大学与国家实验室技术许可的制度路径
 > - **统一知识产权授权框架** 理顺全美大学差异巨大的技术转让政策，消除初创企业跨校获取许可时的巨大交易摩擦。（p. 41）
 > - **加速[[Cooperative Research and Development Agreement|合作研发协议]]（[[Cooperative Research and Development Agreement|CRADA]]）** 压缩国家实验室与产业伙伴订立[[Cooperative Research and Development Agreement|合作研发协议]]（Cooperative Research and Development Agreement, CRADA）的审批周期，提高对市场响应的敏捷度。（p. 41）
-> - **深化其它交易授权（OTA）应用** 绕过繁琐的联邦传统采购法案，赋予机构依据其它交易授权（Other Transaction Authority, OTA）按商业灵活条款订立合作的权限。（p. 41）
+> - **深化[[Other Transaction Authority|其它交易授权]]（OTA）应用** 绕过繁琐的联邦传统采购法案，赋予机构依据[[Other Transaction Authority|其它交易授权]]（Other Transaction Authority, OTA）按商业灵活条款订立合作的权限。（p. 41）
 
 #### 6. 将私人部门研发力量制度化融入联邦资助与公私伙伴架构
 
@@ -575,7 +589,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 
 > [!pathways] 产研人才双向流动与产业博士培养路径
 > - **扩大产业博士资助规模** 支持美国公民在顶尖企业实验室或国家实验室完成博士培养，提供全额津贴与产业实战课题。（pp. 42–43）
-> - **推广伯克利 Activate 创业科学家模式** 选拔具备创业潜力的青年科学家进驻国家实验室，提供科研设施、商业指导与薪资保障。（p. 43）
+> - **推广伯克利 [[Activate Fellowship|Activate]] 创业科学家模式** 选拔具备创业潜力的青年科学家进驻国家实验室，提供科研设施、商业指导与薪资保障。（p. 43）
 > - **打破学术与产业晋升壁垒** 消除学者在不同机构间流动的制度惩罚，使跨部门职业经历成为学术晋升的加分项。（p. 43）
 
 #### 7. 联邦政府牵头组织解决跨行业共享技术瓶颈的前竞争联合体
@@ -646,14 +660,14 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 
 > [!pathways] 拓宽科研训练与手艺技能的制度路径
 > - **重构[[Engineering Education|高等工程教育]]课程体系** 将实习实训、车间操作与注册学徒时长正式计入学分，在智能充沛的时代重点考核手艺与现场排障能力。（p. 52）
-> - **设立国家工匠奖学金与驻校实践者项目** 选拔优秀机械师与高级技师进驻国家实验室与大学，与博士团队并肩攻坚并赋予成果共同署名权。（p. 52）
-> - **依托社区学院构筑区域技能枢纽** 借助[[Workforce Pell Grants 2025|劳动力佩尔助学金]]与按绩效付费机制，将全美覆盖 40% 本科生的社区学院网络与战略产业紧密锚定。（p. 53）
+> - **设立[[Practitioner-in-Residence|国家工匠学者计划与驻校实践者项目]]** 选拔优秀机械师与高级技师进驻国家实验室与大学，与博士团队并肩攻坚并赋予成果共同署名权。（p. 52）
+> - **依托社区学院构筑[[Community College Strategic Anchoring|区域技能枢纽]]** 借助[[Workforce Pell Grants 2025|劳动力佩尔助学金]]与[[Outcome-Based Apprenticeship Funding|按绩效付费机制]]，将全美覆盖 40% 本科生的社区学院网络与战略产业紧密锚定。（p. 53）
 
 社区学院与新型学徒制构成了重振国家技能基底的关键抓手。
 
 > [!policy-design] 社区学院与在岗学徒制的国家支持机制
 > - **劳动力佩尔助学金落地** 首次允许高质量短期职业技能培训项目使用联邦佩尔助学金资助。（p. 53）
-> - **学徒制绩效挂钩拨款** 将劳工部传统前置拨款改造为与学徒实际录用及留任率挂钩的结果付费模式。（p. 53）
+> - **[[Outcome-Based Apprenticeship Funding|学徒制绩效挂钩拨款]]** 将劳工部传统前置拨款改造为与学徒实际录用及留任率挂钩的结果付费模式。（p. 53）
 > - **设备捐赠与定制课程** 引导战略雇主向社区学院捐赠先进制造设备，协同开发芯片与生物技术实操课程。（p. 53）
 
 #### 4. 依托产研紧密集聚的区域创新生态培育持久工程设计能力
@@ -661,7 +675,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 历史经验表明，长期的制造业集聚孕育出卓越的工程设计文化。随着研发与制造的物理贴近，区域内供应商网络与技术工人形成的协同效应难以被单纯的资本投入所复制（p. 54）。
 
 > [!case] 俄亥俄新奥尔巴尼与得克萨斯泰勒的半导体生态培育
-> 俄亥俄州通过 20 亿美元地方激励吸引先进制程半导体制造落地，统筹全州 23 所社区学院联合开发开放式芯片制造技术员课程体系；得克萨斯州泰勒市依托地方[[University-Industry Collaboration|产学合作]]吸引近 50 亿美元投资，形成了地方政府、教育机构与实体企业对齐的良性劳动力生态（p. 55）。
+> 俄亥俄州通过 20 亿美元地方激励吸引先进制程半导体制造落地，依托[[Community College Strategic Anchoring|社区学院战略产业锚定模式]]统筹全州 23 所社区学院联合开发开放式芯片制造技术员课程体系；得克萨斯州泰勒市依托地方[[University-Industry Collaboration|产学合作]]吸引近 50 亿美元投资，形成了地方政府、教育机构与实体企业对齐的良性劳动力生态（p. 55）。
 
 深植于民间的建造文化与动手实践是[[National Innovation System|国家创新体系]]不可忽视的基石。
 
@@ -710,7 +724,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 
 > [!policy-design] 创世纪计划的核心设计与四项支柱
 > - **战略选题聚焦** 锁定组合空间巨大、具备结构化数据且基准明确的重大挑战（如先进制造、量子物理、聚变可控与关键材料），避免与民间资本无序竞争。（pp. 62–63）
-> - **产业协同联合** 组建转型人工智能模型联合体（Transformational AI Models Consortium, TAMC），动员 24 家科技领军企业与国家实验室深度合作，训练行业专有基础大模型。（p. 63）
+> - **产业协同联合** 组建[[Transformational AI Models Consortium|转型人工智能模型联合体]]（Transformational AI Models Consortium, TAMC），动员 24 家科技领军企业与国家实验室深度合作，训练行业专有基础大模型。（p. 63）
 > - **数据设施互通** 建设美国科学云（American Science Cloud），规范化开放跨部门科学数据，并建立共享失败实验与负面数据的激励机制。（p. 63）
 > - **自动化仪器革新** 破除仪器专有协议壁垒，确立开放数据接口标准，投资建设可编程云端自主实验室，将材料试制周期缩短一个数量级。（pp. 63–64）
 
@@ -719,7 +733,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 鉴于既有学术文献中高达数成的不可重复比例，若直接利用存在缺陷的知识库训练科研模型，只会加速虚假结论的蔓延。
 
 > [!policy-design] 黄金标准科学与自动化机器核验体系
-> - **强制执行黄金标准** 依据 2025 年行政令，全面推行数据完全开源、实验代码公开、误差透明与强制[[Falsification|证伪]]要求。（p. 65）
+> - **强制执行黄金标准** 依据 2025 年行政令，全面推行[[Gold Standard Science|黄金标准科学]]准则，要求数据完全开源、实验代码公开、误差透明与强制[[Falsification|证伪]]要求。（p. 65）
 > - **标准化机器复现包** 规范计算研究交付格式，确保算法模型能够被审计代理在隔离沙盒环境中一键执行与对比。（pp. 65–66）
 > - **专职复现激励奖金** 设立专门基金奖励成功复现或证伪重大既有成果的团队，打破只奖首发不奖复核的扭曲激励。（p. 66）
 
@@ -740,7 +754,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 必须发展适应智能时代科研范式的新型学术交流基础设施。
 
 > [!feature] 智能时代的去中心化科学交流与核验网络
-> - **动态研究笔记本** 废黜孤立静态论文，以实时更新的数据、代码与分析环境作为知识发布基准。（pp. 67–68）
+> - **[[Dynamic Research Notebook|动态研究笔记本]]（[[Dynamic Research Notebook]]）** 废黜孤立静态论文，以实时更新的数据、代码与分析环境作为知识发布基准。（pp. 67–68）
 > - **专职复现审计代理** 部署自动化 AI 代理执行跨平台复现与负面结果挖掘，并通过微额赏金机制维持生态自律。（pp. 69–70）
 > - **标准化云端实验节点** 建立通用接口云实验室，支持全球科研代理自动调用物理设备开展分布式实验复核。（pp. 69–70）
 > - **细粒度贡献追踪** 运用分布式技术精准计量代码、数据清洗与实验排障贡献，取代单一论文署名次序。（pp. 68–69）
@@ -791,7 +805,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 > 1. **单向线性模型失真** 企业每年约 7000 亿美元的研发投入已超过政府与高等教育总和的三倍，当代重大突破多呈现基础研究与工程应用的双向迭代，[[Pasteur's Quadrant|巴斯德象限]]成为前沿科学的主导形态。（pp. 5–7）
 > 2. **制度摩擦推高创新成本** 近一半科研时间被行政文书消耗，[[National Institutes of Health|NIH]] 课题负责人平均年龄推迟至 51 岁，同行评议趋于保守求稳，亟需引入对人资助、金券与快速资助等多元选拔[[Hypothesis|假设]]。（pp. 8, 16, 27–28）
 > 3. **转化与[[Process Knowledge|过程知识]]决定竞争成败** 仅资助论文发表会导致技术被国外制造接走；必须恢复[[Permissionless Innovation|无许可创新]]，依托国家实验室开放设施与前竞争联合体，重振深植于本土制造与熟练技艺中的默会过程知识。（pp. 34, 40, 47–48）
-> 4. **生成与核验必须等规模扩建** [[Genesis Mission|创世纪计划]]将国家实验室算力、数据与仪器整合成发现引擎，同时必须建立黄金标准科学与机器可读的自动化复现机制，防止人工智能成倍放大未经核验的虚假发现。（pp. 62–66）
+> 4. **生成与核验必须等规模扩建** [[Genesis Mission|创世纪计划]]将国家实验室算力、数据与仪器整合成发现引擎，同时必须建立[[Gold Standard Science|黄金标准科学]]与机器可读的自动化复现机制，防止人工智能成倍放大未经核验的虚假发现。（pp. 62–66）
 
 > [!stat-cards]- 核心数据
 > - **7000 亿 / 2000 亿** 企业年研发投入（美元）相对联邦政府年研发预算的对比量级。（pp. 5, 20）
@@ -831,7 +845,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 > [!warning] 报告自述边界与实施局限
 > - 报告承认成熟领域进步放缓存在客观难度上升的成分，虽列举历史案例说明新工具可打破停滞，但未能在实证数据上严格剥离制度摩擦与学科内在探索极限的各自贡献率。（p. 14）
 > - 明确指出拉动奖金与[[Advance Market Commitments|高级市场承诺]]仅适用于目标清晰但技术路径未知的工程问题，不适用于漫无目的的纯好奇心探索。（p. 29）
-> - 二次方资助在科学基金配置中的有效性仍处于开源社区类比阶段，尚缺乏大样本实证检验。（p. 30）
+> - [[Quadratic Funding in Science|二次方资助]]在科学基金配置中的有效性仍处于开源社区类比阶段，尚缺乏大样本实证检验。（p. 30）
 > - 强调区域创新集群依赖地方各级政府协同，若政策设计不当可能沦为向可迁移资本输送利益的无序竞次。（p. 54）
 > - 基于 AI 代理、云端实验与去中心化审计的新型科研[[Paradigm|范式]]仍处于零散萌芽期，完整运作体系的自发成熟仍具高度不确定性。（pp. 69–70）
 > - 2028 财年备忘录系战略编制指引，并不等同于国会已法定批准的预算拨款。（p. 86）

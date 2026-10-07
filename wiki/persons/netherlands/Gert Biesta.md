@@ -92,7 +92,7 @@ updated: 2026-09-22
 >
 > 2. **教育的目的是什么（The Purpose of Education）** Biesta 区分了教育的三个目的领域——**资格化（qualification，知识技能）**、**社会化（socialisation，融入社会秩序）**、**主体化（subjectification，成为自主主体）**——这一框架在教育哲学和教师教育领域影响深远。
 >
-> 3. **教育中的"美"与中间地带** Biesta 近年关注教育与艺术的关系，主张教育实践需要一种**基于判断的明智（practical wisdom, *[[Phronesis]]*）**，而非基于证据的规则或基于个人偏好的随意行动。
+> 3. **教育中的"美"与中间地带** Biesta 近年关注教育与艺术的关系，主张教育实践需要一种**基于判断的明智（[[Phronesis|Practical Wisdom]], *[[Phronesis]]*）**，而非基于证据的规则或基于个人偏好的随意行动。
 >
 > > "Education is a teleological practice — a practice framed by a telos: an aim or purpose." ([[Argument_Biesta_2010_SPE\|Biesta, 2010, p. 500]])
 

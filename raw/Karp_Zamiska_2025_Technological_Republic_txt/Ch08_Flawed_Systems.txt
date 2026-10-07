@@ -1,4 +1,15 @@
-•
+The Technological Republic: Hard Power, Soft Belief, and the Future of the West
+Alexander C. Karp and Nicholas W. Zamiska | 2025 | New York: Crown Currency
+Ebook ISBN 9780593798706
+
+Part II: The Hollowing Out of the American Mind
+Chapter Eight: “Flawed Systems”
+
+[Reading copy: English original. Original print page markers and note IDs are retained. Book-level supplements are labelled separately from chapter text.]
+
+========================================================================
+Chapter text
+========================================================================
 
 [p. 97] Chapter Eight
 
@@ -25,3 +36,40 @@ For Apple in the early 1980s, the personal computer presented a challenge to, no
 [p. 102] Those mainframes, hulking and immovable, would only, Apple implicitly argued, hasten our enslavement by the state. [note:Y_d1-EndnotePhraseInText256] The Macintosh, by contrast, weighed seventeen pounds and had a handle on the top, so that it could literally be picked up and carried short distances by a single person. [note:Y_d1-EndnotePhraseInText257] An initial draft of the advertisement warned ominously that “there are monster computers lurking in big business and big government that know everything from what motels you’ve stayed at to how much money you have in the bank.” The message was clear: the new personal computer of the era would provide a counterweight to the institutional power of government and industry, not advance their interests at the expense of the individual.
 
 Our point is only that the rush of attention and funding dedicated to the concerns and needs of the modern American, and later global, consumer was anything but inevitable. It was the product of a set of proclivities and instincts of those early founders, as well as the social and cultural milieu in which they came of age. They had ambition, no doubt. But much of their focus was on the individual, his and her concerns and needs. And it was a near-obsessive focus on those concerns and needs—and the sheer brilliance of the contraptions and software products constructed to address them—that paved the way for another generation of founders, in the first part of this century, who would create the consumer internet. The era of online advertising, photo-sharing apps, and food delivery empires was near. This next generation of innovators would go even further than the prior, abandoning even the pretext of claims to a broader political project, to the liberating potential of technology. They instead entered into a far more mercenary and straightforward service of the material culture of the time.
+
+========================================================================
+Chapter notes
+========================================================================
+
+[note:Y_d1-EndnotePhraseInText247] [notes p. 239]
+In January 1970, Time magazine: “Man and Woman of the Year: The Middle Americans,” Time, January 5, 1970.
+
+[note:Y_d1-EndnotePhraseInText248] [notes p. 239]
+The division of the country: See, for example, Richard Nixon, “Address to the [p. 240] Nation on the War in Vietnam,” Washington, D.C., November 3, 1969 (appealing to “the great silent majority of my fellow Americans”); Matthew D. Lassiter, “Who Speaks for the Silent Majority?,” New York Times, November 2, 2011; see also Rick Perlstein, Nixonland: The Rise of a President and the Fracturing of America (New York: Scribner, 2008), 447.
+
+[note:Y_d1-EndnotePhraseInText249] [notes p. 240]
+Lee Felsenstein, for example: Walter Isaacson, The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution (New York: Simon & Schuster, 2014), 266.
+
+[note:Y_d1-EndnotePhraseInText250] [notes p. 240]
+Stewart Brand, co-founder: Stewart Brand, “We Owe It All to the Hippies,” Time, March 1, 1995 (quoted in Isaacson, Innovators, 268).
+
+[note:Y_d1-EndnotePhraseInText251] [notes p. 240]
+Levy articulated the ethos: Steven Levy, Hackers: Heroes of the Computer Revolution (Sebastopol, Calif.: O’Reilly, 2010), 25.
+
+[note:Y_d1-EndnotePhraseInText252] [notes p. 240]
+Steve Jobs, in particular: Walter Isaacson, Steve Jobs (New York: Simon & Schuster, 2013), 34.
+
+[note:Y_d1-EndnotePhraseInText253] [notes p. 240]
+As an undergraduate at Reed College: Isaacson, Steve Jobs, 41.
+
+[note:Y_d1-EndnotePhraseInText254] [notes p. 240]
+When attempting to court: Malcolm Gladwell, “The Tweaker,” New Yorker, November 6, 2011.
+
+[note:Y_d1-EndnotePhraseInText255] [notes p. 240]
+Indeed, Apple objected: Ellen Nakashima and Reed Albergotti, “The FBI Wanted to Unlock the San Bernardino Shooter’s iPhone. It Turned to a Little-Known Australian Firm,” Washington Post, April 14, 2021.
+
+[note:Y_d1-EndnotePhraseInText256] [notes p. 240]
+The Macintosh, by contrast: Erik Sandberg-Diment, “Hardware Review: Apple Weighs in with Its Macintosh,” New York Times, January 24, 1984, C3.
+
+[note:Y_d1-EndnotePhraseInText257] [notes p. 240]
+An initial draft of the advertisement: David Burnham, “The Computer, the Consumer, and Privacy,” New York Times, March 4, 1984, E8.

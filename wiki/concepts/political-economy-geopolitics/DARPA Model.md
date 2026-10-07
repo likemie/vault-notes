@@ -9,7 +9,7 @@ aliases:
 summary: "国家主导颠覆性科技创新的组织与管理范式。以防范战略技术突袭为使命，赋予顶尖项目经理（PMs）高度自由裁量权，通过广泛领域资助公告（BAA）与海尔迈耶问卷筛选高风险方案。Fuchs（2010）实证论证其核心本质既非表层采办合同亦非组织文化，而是项目经理依托微观非正式制度重塑研发网络拓扑、引导国家技术轨道的嵌入型网络治理机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Paradigm]]"
   - "[[Document]]"
+  - "[[Other Transaction Authority]]"
   - "[[Embedded Network Governance]]"
   - "[[Corporate Venture Capital]]"
   - "[[Return on Investment]]"
@@ -72,7 +73,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **核心功能** 突破传统市场价格机制与科层同行评议对颠覆性创新的抑制，在极高不确定性领域实现 0 到 1 的革命性跨越。
-> - **理论争议焦点** 既有[[Document|文献]]常将其表面化地归结为“灵活采办合同（如其他交易授权 OTA）”或“敢于容忍失败的[[Organizational Culture|组织文化]]”；[[Argument_Fuchs_2010_RP|Fuchs (2010)]]明确指出，**DARPA 模式的真正内核是一线项目经理所执行的[[Embedded Network Governance|嵌入型网络治理]]（Embedded Network Governance）**。
+> - **理论争议焦点** 既有[[Document|文献]]常将其表面化地归结为“灵活采办合同（如[[Other Transaction Authority|其他交易授权]] OTA）”或“敢于容忍失败的[[Organizational Culture|组织文化]]”；[[Argument_Fuchs_2010_RP|Fuchs (2010)]]明确指出，**DARPA 模式的真正内核是一线项目经理所执行的[[Embedded Network Governance|嵌入型网络治理]]（Embedded Network Governance）**。
 > - **组织特征** 机构规模极小（数百人）、无自建实验室、项目经理实行 3–5 年严格轮换淘汰制、不采用自下而上的同行评议委员会投票。
 
 > [!citation-card] DARPA 模式的本质：嵌入型网络治理而非形式合同

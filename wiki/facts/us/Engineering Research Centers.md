@@ -11,9 +11,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1984–至今"
 initiator_organization: "美国国家科学基金会（National Science Foundation, NSF）"
@@ -39,6 +39,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[National Academy of Sciences]]"
   - "[[Science and Technology Centers]]"
+  - "[[National Aeronautics and Space Administration]]"
   - "[[Industry-University Cooperative Research Centers]]"
 related_arguments:
   - "[[Argument_Bozeman_2004_JTT]]"
@@ -88,7 +89,7 @@ updated: 2026-10-07
 > [!dev-timeline] 项目推进历程
 > - **1983–1984 — 方案动议与顶层规划期** [[National Academy of Sciences|美国国家科学院]]与国家工程院相继发布报告，确立以应对[[Competitiveness|竞争力]]危机为轴心的中心设计准则；[[Erich Bloch|埃里希·布洛赫]]（Erich Bloch）与[[Nam Pyo Suh|徐南杓]]（Nam Pyo Suh）等具有产业界与工程深厚背景的领导者主导推进制度构建。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–367, 371)]]
 > - **1985–1990 — 首批试点与制度定型期** 首批资助设立 6 所中心；面对特拉华大学与加州大学圣巴巴拉分校两所早期中心的未获续约与提前关闭，[[National Science Foundation|NSF]] 顶住政治压力坚守严格问责原则，向全美学术界树立了重实效与重规划的鲜明导向。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 367, 373)]]
-> - **1990 年代至今 — 模式扩散与制度化衍生** 形成涵盖 20 余所常态化运行中心的规模；成功衍生出 NSF [[Science and Technology Centers|科学技术中心]]（STC）、地震工程研究中心（Earthquake ERCs）及纳米级科学与工程中心（NSEC），并被英国、爱尔兰与美国国家航空航天局（NASA）广泛移植借鉴。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 366, 369–370)]]
+> - **1990 年代至今 — 模式扩散与制度化衍生** 形成涵盖 20 余所常态化运行中心的规模；成功衍生出 NSF [[Science and Technology Centers|科学技术中心]]（STC）、地震工程研究中心（Earthquake ERCs）及纳米级科学与工程中心（NSEC），并被英国、爱尔兰与[[National Aeronautics and Space Administration|美国国家航空航天局]]（NASA）广泛移植借鉴。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 366, 369–370)]]
 
 ---
 

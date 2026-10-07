@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Contract Research Organization]]"
   - "[[Research Impact]]"
+  - "[[Other Transaction Authority]]"
   - "[[DARPA Model]]"
   - "[[Focused Research Organization]]"
 related_theories: []
@@ -94,7 +95,7 @@ updated: 2026-10-07
 > [!pathways]- 敏捷业务运行机制
 > - **海尔迈耶问答审查** 所有立项项目必须通过九大实质性问题答辩，明确界定当前技术的物理极限、颠覆性解决方案的度量标尺及成功后的[[Research Impact|社会经济影响]]。
 > - **里程碑式分阶段拨付（Milestone-Based Tranches）** 拒绝传统基金的“一次性打款坐等结项”，根据每 6–12 个月的实体实验数据考核决定后续资金拨付，不达标即果断止损。
-> - **灵活其他交易授权（Other Transaction Authority, OTA）** 绕过繁复的联邦政府采购法规（FAR），可在数周内与非传统科研实体签订灵活商业合作协议。
+> - **灵活[[Other Transaction Authority|其他交易授权]]（Other Transaction Authority, OTA）** 绕过繁复的联邦政府采购法规（FAR），可在数周内与非传统科研实体签订灵活商业合作协议。
 
 ---
 
@@ -118,7 +119,7 @@ updated: 2026-10-07
 > [!indicators]- 影响力与机制成效维度
 > - **资助组合多样性重塑** 填补了传统 [[National Institutes of Health|NIH]] 自下而上小额 R01 资助与大型药企晚期临床开发之间的中等规模工程空白。
 > - **跨学科人才集聚** 打破生命科学与机械工程、微电子、人工智能的学科壁垒，吸引大量青年工程师投身生物医学转化。
-> - **审批摩擦大幅压减** 运用 OTA 协议将项目立项至资金到账周期从常规的 9–12 个月压缩至 60–90 天。
+> - **审批摩擦大幅压减** 运用 [[Other Transaction Authority|OTA]] 协议将项目立项至资金到账周期从常规的 9–12 个月压缩至 60–90 天。
 
 > [!stat-cards]- 核心规模数据
 > - **法定年度预算** 约 15 亿美元（2023–2026 财年平均）。

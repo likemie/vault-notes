@@ -8,7 +8,7 @@ aliases:
 summary: "按最终验证结果而非前期投入付费的创新政策工具，涵盖重大技术悬赏奖金、高级市场承诺（AMC）与事后追溯资助；适用于攻坚目标明确但技术路径开放的战略瓶颈，能以高杠杆激发多元解题主体并行试错。"
 type: concept
 domain: "science-policy"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Advance Market Commitments]]"
   - "[[Academic Medical Center]]"
+  - "[[Quadratic Funding in Science]]"
   - "[[Grand Challenges]]"
   - "[[Document]]"
   - "[[Paradigm]]"
@@ -49,7 +50,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 创新拉动机制（Pull Mechanisms for Innovation）是一类将财政激励对准最终已验证成果、而非前期科研人员工时、设备与耗材投入的创新资助政策工具。传统研发资助（推动机制，Push Mechanism）属于“为努力付费”（paying for effort），无论项目最终是否产出突破均报销既定成本；拉动机制则属于“为结果付费”（paying for success），主要包括重大技术悬赏奖金（Inducement Prizes）、[[Advance Market Commitments|高级市场承诺]]（Advance Market Commitments, [[Academic Medical Center|AMC]]）、事后追溯资助（Retroactive Grants）及二次方配比资助（Quadratic Funding）。[[Argument_Kratsios_2026_OSTP|Kratsios (2026, pp. 28–30)]]
+> 创新拉动机制（Pull Mechanisms for Innovation）是一类将财政激励对准最终已验证成果、而非前期科研人员工时、设备与耗材投入的创新资助政策工具。传统研发资助（推动机制，Push Mechanism）属于“为努力付费”（paying for effort），无论项目最终是否产出突破均报销既定成本；拉动机制则属于“为结果付费”（paying for success），主要包括重大技术悬赏奖金（Inducement Prizes）、[[Advance Market Commitments|高级市场承诺]]（Advance Market Commitments, [[Academic Medical Center|AMC]]）、事后追溯资助（Retroactive Grants）及[[Quadratic Funding in Science|二次方配比资助]]（Quadratic Funding）。[[Argument_Kratsios_2026_OSTP|Kratsios (2026, pp. 28–30)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 改变政府在创新体系中的角色，从“指定特定专家并资助其尝试过程”转变为“设定清晰的性能标准与终点指标，向所有能交付达标方案的主体买单”。
@@ -82,7 +83,7 @@ updated: 2026-10-07
 > - **重大技术悬赏奖金（Inducement Prize Contests）** 设立数百万至数千万美元奖金池，奖励首个达到严苛物理或工程指标的团队（如 [[DARPA]] 自动驾驶大挑战、安萨里 X 大奖）。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
 > - **跨学科开放破译竞赛（Open Decoding Challenges）** 针对特定历史、生物或数学难题开放原始数据，吸引非领域内算法专家攻关（如赫库兰尼姆卷轴碳化[[Document|文献]] CT 扫描图像破译竞赛）。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 29)]]
 > - **[[Advance Market Commitments|高级市场承诺]]（Advance Market Commitments, [[Academic Medical Center|AMC]]）** 政府或慈善基金预先承诺，一旦研发出符合特定临床效力的新型疫苗或特定能量密度的储能电池，即以保障价格采购预定规模，彻底消除商业化需求风险。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 28–29)]]
-> - **二次方配比资助（Quadratic Funding）** 依据广泛基层共同体的背书人数而非少数评委打分进行资金配比，探索降低把关者偏倚的新型配置模式。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 30)]]
+> - **[[Quadratic Funding in Science|二次方配比资助]]（Quadratic Funding）** 依据广泛基层共同体的背书人数而非少数评委打分进行资金配比，探索降低把关者偏倚的新型配置模式。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 30)]]
 
 > [!feature] 拉动机制的四大机制优势
 > - **超强资金杠杆效应** 一千万美元的悬赏奖金往往能拉动全球数十个团队投入数亿美元的私人研发资本，实现公共投入的几何级放大。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]

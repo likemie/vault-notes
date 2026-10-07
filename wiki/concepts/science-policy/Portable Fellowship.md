@@ -9,7 +9,7 @@ aliases:
 summary: "科技人才与高等教育资助中直接赋权早期青年学者的流动性支持机制；将高额科研经费与生活津贴直接授予研究生或博士后学者本人（而非挂靠在资深课题负责人 PI 的特定基金项目下），并允许其自由携带经费跨校、跨院系及跨课题组流动，以打破资历垄断、对冲学术避险并重构平等的导师指导关系。"
 type: concept
 domain: "science-policy"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Research Universities]]"
   - "[[Paradigm]]"
+  - "[[Seniority Barrier in Academia]]"
   - "[[Big Science]]"
   - "[[Portfolio-Based Research Funding]]"
   - "[[Academic Risk Aversion]]"
@@ -135,7 +136,7 @@ updated: 2026-10-07
 > [!contrast-table] 可携带式学术资助核心命题归纳
 > | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证[[Document\|文献]] |
 > |:---|:---|:---|:---|
-> | **避险诊断** | **依附避险与资历垄断** | 资金挂靠资深 PI 导致青年学者沦为依附性劳动力，加剧老龄化学术避险 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 16, 28)]] |
+> | **避险诊断** | **依附避险与[[Seniority Barrier in Academia\|资历垄断]]** | 资金挂靠资深 PI 导致青年学者沦为依附性劳动力，加剧老龄化学术避险 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 16, 28)]] |
 > | **权力重构** | **退出权倒逼效应与优选** | 赋予学生用脚投票的流动特权，打破导师人身依附，倒逼指导质量提升 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 28)]] |
 > | **独立孵化** | **早期独立孵化与交叉突破** | 消除短期 KPI 束缚，赋能青年学者跨院系重组知识，颠覆性产出翻倍 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 28–29)]] |
 
@@ -147,7 +148,7 @@ updated: 2026-10-07
 > - **1952 — [[National Science Foundation|美国国家科学基金会]]设立研究生研究奖学金计划（NSF GRFP）** 首创全美首个全国性竞争选拔、资助直接跟随学生个人的可携带资助机制。
 > - **1980s–1990s — 生物医学大课题组雇佣制扩张** 随着 [[National Institutes of Health|NIH]] 预算翻倍，高校广泛采用 PI 雇佣博士后（Postdoc Army）模式，造成资历壁垒不断抬升。
 > - **2010s — 欧洲居里夫人奖学金（MSCA）与跨国流动** 欧盟将可携带性与跨国跨界流动确立为欧洲科研人才一体化的核心制度。
-> - **2025–2026 — 白宫科技战略倡导将可携带资助确立为国家战略支柱** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告第二章系统批判资历垄断，呼吁联邦大幅扩大可携带奖学金比例，作为重组国家科研资助组合、打破学术避险的核心改革举措。
+> - **2025–2026 — 白宫科技战略倡导将可携带资助确立为国家战略支柱** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告第二章系统批判[[Seniority Barrier in Academia|资历垄断]]，呼吁联邦大幅扩大可携带奖学金比例，作为重组国家科研资助组合、打破学术避险的核心改革举措。
 
 ---
 
@@ -174,7 +175,7 @@ updated: 2026-10-07
 > | [[Golden Ticket Mechanism]] | Concept | 与可携带资助协同打破学术共识垄断与资历壁垒的前沿遴选工具。 |
 > | [[Academic Freedom]] | Concept | 可携带资助在制度上赋予青年学者的实质性选题自由与流动自由。 |
 > | [[Eroom's Law]] | Concept | 可携带资助意图通过释放青年[[Creativity\|创造力]]、打破资历瓶颈来对冲的科研生产率放缓规律。 |
-> | [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] | Argument | 白宫 2026 年科技报告对扩大可携带式资助、破除资历垄断的系统论述。 |
+> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | Argument | 白宫 2026 年科技报告对扩大可携带式资助、破除[[Seniority Barrier in Academia\|资历垄断]]的系统论述。 |
 
 ---
 

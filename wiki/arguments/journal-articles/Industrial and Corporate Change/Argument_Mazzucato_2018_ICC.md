@@ -63,6 +63,7 @@ related_facts:
   - "[[National Institutes of Health]]"
   - "[[Department of Energy]]"
   - "[[KfW]]"
+  - "[[National Aeronautics and Space Administration]]"
   - "[[Achieve]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
@@ -78,7 +79,7 @@ title: "Argument_Mazzucato_2018_ICC"
 argument_key: "Argument_Mazzucato_2018_ICC"
 argument_display_title: "Mission-oriented innovation policies: challenges and opportunities"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -215,7 +216,7 @@ argument_related_color: "#dbeafe"
 > - **效应** 彻底打破“国家投资必然挤出私人投资”的传统教条，通过公共资本早期引领实现对私人部门后续投资的战略“挤入”（Crowding in）。（pp. 806–807）
 
 > [!feature] 经典使命型机构的主动市场创造法定职责
-> - **NASA** 推动科学、技术、航空与太空探索的进步，以增进知识、教育、创新、经济活力以及对地球的守护（NASA 2014 战略规划）。（p. 806）
+> - **[[National Aeronautics and Space Administration|NASA]]** 推动科学、技术、航空与太空探索的进步，以增进知识、教育、创新、经济活力以及对地球的守护（NASA 2014 战略规划）。（p. 806）
 > - **[[DARPA]]** 为国家安全创造突破性颠覆技术是 DARPA 的核心使命。（p. 806）
 > - **[[National Institutes of Health|NIH]]** 探索关于生命系统本质与行为的基础知识，并应用这些知识来增进健康、延长寿命、减少疾病与残障。（p. 806）
 

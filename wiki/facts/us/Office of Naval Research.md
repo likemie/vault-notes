@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_facts:
   - "[[Office of Scientific Research and Development]]"
   - "[[National Institutes of Health]]"
   - "[[DARPA]]"
+  - "[[Institute for Advanced Study]]"
   - "[[Chinese Academy of Sciences]]"
   - "[[European Research Area]]"
   - "[[Science, The Endless Frontier 1945]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Office of Naval Research
@@ -74,7 +75,7 @@ updated: 2026-10-06
 
 > [!dev-timeline] 组织发展历程
 > - **1946–1950 — 填补立法真空与多元分布式资助网络奠基** 在 [[National Science Foundation|NSF]] 历经五年政治博弈尚未成立期间，ONR 承担了全美大学近半数的联邦基础科学资助，挽救了一大批战后濒临断炊的物理与化学实验室；与随后组建的原子能委员会（AEC）及扩张后的国立卫生研究院（[[National Institutes of Health|NIH]]）共同构成了战后美国去中心化、多部门并行的分布式资助网络原型。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
-> - **1950–1970 年代 — 冷战黄金期与国防资助[[Paradigm|范式]]扩散** 随着苏联人造卫星危机爆发与科技政策“黄金十年”（1957–1967）到来，ONR 的项目主管自由裁量模式被陆军、空军及高级研究计划局（[[DARPA]]）广泛借鉴；该机构早期资助催生了激光器（查尔斯·汤斯团队）、回旋加速器及战后第一代电子计算机软硬件体系（哈佛 Mark II/III、MIT 旋风计算机、普林斯顿高等研究院计算机等）的系统性突破。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 37)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 171–174)]]
+> - **1950–1970 年代 — 冷战黄金期与国防资助[[Paradigm|范式]]扩散** 随着苏联人造卫星危机爆发与科技政策“黄金十年”（1957–1967）到来，ONR 的项目主管自由裁量模式被陆军、空军及高级研究计划局（[[DARPA]]）广泛借鉴；该机构早期资助催生了激光器（查尔斯·汤斯团队）、回旋加速器及战后第一代电子计算机软硬件体系（哈佛 Mark II/III、MIT 旋风计算机、[[Institute for Advanced Study|普林斯顿高等研究院]]计算机等）的系统性突破。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 37)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 171–174)]]
 > - **1980 年代至今 — 聚焦颠覆性基础前沿与深海战略** 持续深耕自主无人系统、量子信息科学、合成生物学及深海极端环境探测，继续保持其作为美军前瞻科学探针的独特敏锐度。
 
 ---
@@ -96,7 +97,7 @@ updated: 2026-10-06
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 颠覆性技术策源矩阵
-> - **第一代通用电子计算机体系突破** 1945–1955 年间全额或联合资助研制了哈佛 Mark II（84 万美元）、Mark III（116 万美元）、麻省理工学院 Whirlwind（400–500 万美元）、普林斯顿 IAS 计算机（65 万美元）、[[European Research Area|ERA]] 1101/1103 系列及 IBM NORC（250 万美元），直接确立了[[Von Neumann Architecture|存储程序计算机]]架构。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 172–173)]]
+> - **第一代通用电子计算机体系突破** 1945–1955 年间全额或联合资助研制了哈佛 Mark II（84 万美元）、Mark III（116 万美元）、麻省理工学院 Whirlwind（400–500 万美元）、普林斯顿 [[Institute for Advanced Study|IAS]] 计算机（65 万美元）、[[European Research Area|ERA]] 1101/1103 系列及 IBM NORC（250 万美元），直接确立了[[Von Neumann Architecture|存储程序计算机]]架构。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 172–173)]]
 > - **微波激射器与激光技术先驱** 对哥伦比亚大学查尔斯·汤斯（Charles Townes）微波激射器与激光理论提供关键早期资助，直接开辟了光纤通信与现代激光工业。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 37)]]
 > - **现代深海海洋科学基础设施** 长期资助建造深海科研考察船、深潜器（如“阿尔文号”Alvin）及全球海洋声学水听网络，奠定了现代物理海洋学基石。
 

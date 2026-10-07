@@ -4403,6 +4403,21 @@
     ]
   },
   {
+    "title": "Diversity, Equity, and Inclusion",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Diversity, Equity, and Inclusion.md",
+    "aliases": [
+      "多元、平等与包容",
+      "多元平等与包容",
+      "多样性、公平与包容",
+      "多样性、平等与包容",
+      "多元平等包容倡议",
+      "多元平等包容政策",
+      "DEI",
+      "Diversity, Equity, and Inclusion (DEI)"
+    ]
+  },
+  {
     "title": "Educational Brokerage Agency",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Educational Brokerage Agency.md",
@@ -4838,6 +4853,20 @@
     "path": "wiki/concepts/educational-policy-reform/Moral Sidestep.md",
     "aliases": [
       "道德回避"
+    ]
+  },
+  {
+    "title": "Outcome-Based Apprenticeship Funding",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Outcome-Based Apprenticeship Funding.md",
+    "aliases": [
+      "结果导向学徒制资助机制",
+      "基于绩效的学徒拨款",
+      "绩效挂钩学徒资助",
+      "学徒制绩效挂钩拨款",
+      "结果导向学徒资助",
+      "按绩效付费机制",
+      "Pay-for-Outcomes Apprenticeship Funding"
     ]
   },
   {
@@ -6468,6 +6497,19 @@
     ]
   },
   {
+    "title": "Community College Strategic Anchoring",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Community College Strategic Anchoring.md",
+    "aliases": [
+      "社区学院战略产业锚定模式",
+      "社区学院战略产业锚定",
+      "区域技能枢纽模式",
+      "区域技能枢纽",
+      "社区学院技能枢纽",
+      "Community College Regional Skill Hub"
+    ]
+  },
+  {
     "title": "Critic and Conscience of Society",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Critic and Conscience of Society.md",
@@ -6823,6 +6865,21 @@
     ]
   },
   {
+    "title": "Practitioner-in-Residence",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Practitioner-in-Residence.md",
+    "aliases": [
+      "驻校实践者项目",
+      "国家工匠学者计划",
+      "国家工匠学者计划与驻校实践者项目",
+      "驻校实践者与国家工匠学者计划",
+      "国家工匠奖学金与驻校实践者项目",
+      "National Craftsman Fellowship",
+      "驻校技师项目",
+      "驻校工匠"
+    ]
+  },
+  {
     "title": "Promising Student",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Promising Student.md",
@@ -6879,6 +6936,18 @@
       "semi-autonomy",
       "relative autonomy of higher education",
       "高等教育相对自主性"
+    ]
+  },
+  {
+    "title": "Seniority Barrier in Academia",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Seniority Barrier in Academia.md",
+    "aliases": [
+      "学术资历壁垒",
+      "学术老龄化垄断",
+      "学术资历垄断",
+      "资历垄断",
+      "Seniority Monopoly in Science"
     ]
   },
   {
@@ -10884,6 +10953,18 @@
     ]
   },
   {
+    "title": "Dynamic Research Notebook",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Dynamic Research Notebook.md",
+    "aliases": [
+      "动态研究笔记本",
+      "可执行研究笔记本",
+      "可计算研究笔记本",
+      "Dynamic Research Notebooks",
+      "Computational Research Notebook"
+    ]
+  },
+  {
     "title": "Embedded Autonomy",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Embedded Autonomy.md",
@@ -10927,6 +11008,17 @@
       "De-weaning",
       "Funding Exit Strategy",
       "Weaning mechanism"
+    ]
+  },
+  {
+    "title": "Gold Standard Science",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Gold Standard Science.md",
+    "aliases": [
+      "黄金标准科学",
+      "黄金标准科研规范",
+      "机器可验证科学",
+      "Gold Standard Research"
     ]
   },
   {
@@ -11070,6 +11162,19 @@
     ]
   },
   {
+    "title": "Other Transaction Authority",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Other Transaction Authority.md",
+    "aliases": [
+      "其它交易授权",
+      "其他交易授权",
+      "OTA",
+      "其它交易协议",
+      "Other Transactions Authority",
+      "Other Transaction Agreement"
+    ]
+  },
+  {
     "title": "Permissionless Innovation",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Permissionless Innovation.md",
@@ -11182,6 +11287,19 @@
       "拉动机制",
       "Pull Mechanism",
       "按结果付费机制"
+    ]
+  },
+  {
+    "title": "Quadratic Funding in Science",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Quadratic Funding in Science.md",
+    "aliases": [
+      "科学二次方资助",
+      "二次方配比资助",
+      "二次方配比资助机制",
+      "二次方资助",
+      "Quadratic Funding",
+      "Quadratic Research Funding"
     ]
   },
   {
@@ -29278,6 +29396,15 @@
     ]
   },
   {
+    "title": "Cold Spring Harbor Laboratory",
+    "type": "fact",
+    "path": "wiki/facts/us/Cold Spring Harbor Laboratory.md",
+    "aliases": [
+      "冷泉港实验室",
+      "CSHL"
+    ]
+  },
+  {
     "title": "Comparative and International Education Society",
     "type": "fact",
     "path": "wiki/facts/us/Comparative and International Education Society.md",
@@ -29458,6 +29585,17 @@
     ]
   },
   {
+    "title": "Institute for Advanced Study",
+    "type": "fact",
+    "path": "wiki/facts/us/Institute for Advanced Study.md",
+    "aliases": [
+      "普林斯顿高等研究院",
+      "高等研究院",
+      "IAS",
+      "Princeton IAS"
+    ]
+  },
+  {
     "title": "Institute of Education Sciences",
     "type": "fact",
     "path": "wiki/facts/us/Institute of Education Sciences.md",
@@ -29553,6 +29691,17 @@
     "aliases": [
       "美国国家科学院",
       "NAS"
+    ]
+  },
+  {
+    "title": "National Aeronautics and Space Administration",
+    "type": "fact",
+    "path": "wiki/facts/us/National Aeronautics and Space Administration.md",
+    "aliases": [
+      "美国国家航空航天局",
+      "国家航空航天局",
+      "NASA",
+      "美国航空航天局"
     ]
   },
   {
@@ -30461,6 +30610,20 @@
     ]
   },
   {
+    "title": "Activate Fellowship",
+    "type": "fact",
+    "path": "wiki/facts/us/Activate Fellowship.md",
+    "aliases": [
+      "伯克利创业型博士后模式",
+      "伯克利创业科学家模式",
+      "气旋路模式",
+      "气旋路计划",
+      "创业型博士后计划",
+      "Activate",
+      "Cyclotron Road"
+    ]
+  },
+  {
     "title": "Advancement Via Individual Determination",
     "type": "fact",
     "path": "wiki/facts/us/Advancement Via Individual Determination.md",
@@ -31162,6 +31325,17 @@
       "STAR Project",
       "Project STAR",
       "田纳西学生教师成就比项目"
+    ]
+  },
+  {
+    "title": "Transformational AI Models Consortium",
+    "type": "fact",
+    "path": "wiki/facts/us/Transformational AI Models Consortium.md",
+    "aliases": [
+      "转型人工智能模型联合体",
+      "变革性人工智能模型联合体",
+      "TAMC",
+      "转型基础模型联合体"
     ]
   },
   {

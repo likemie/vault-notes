@@ -7,7 +7,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic"
 argument_display_title: "The Technological Republic: Hard Power, Soft Belief, and the Future of the West"
 argument_kind: "book"
-argument_related_count: 0
+argument_related_count: 1
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#ede9fe"
@@ -26,9 +26,13 @@ citation_aliases:
 isbn: '9780593798706'
 citation: "Karp, A. C., & Zamiska, N. W. (2025). The technological republic: Hard power, soft belief, and the future of the West. New York: Crown Currency."
 tags:
-- technology-policy
-- political-economy
-- book-reading
+  - theme/technology-policy
+  - theme/political-economy
+  - theme/book-reading
+sources:
+  - "[[books/Karp_Zamiska_2025_Technological_Republic/Karp_Zamiska_2025_Technological_Republic|Karp_Zamiska_2025_Technological_Republic]]"
+related_concepts:
+  - "[[Document]]"
 status: draft
 created: '2026-10-07'
 updated: '2026-10-07'
@@ -45,63 +49,47 @@ updated: '2026-10-07'
 
 ## 章节推进
 
-按原书顺序分为四部、十八章。以下入口指向已导出的英文原文和对应尾注；各章论证页将在解读时建立。
+按原书顺序分为四部、十八章。以下十八个 TXT 各自包含英文正文、对应尾注与图表来源；各章论证页将在解读时建立。
 
 > [!textbook-overview] 章节导航与阅读进度
 > | 章节 | 原文与处理状态 | 主要关联条目 |
 > |---|---|---|
-> | 第1章 Lost Valley | Part I: The Software Century；原书 pp. 3–15。[Ch01_Lost_Valley.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch01_Lost_Valley.txt) · [Ch01_Lost_Valley_Notes.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch01_Lost_Valley_Notes.txt)。待解读。 | — |
-> | 第2章 Sparks of Intelligence | Part I: The Software Century；原书 pp. 16–28。[Ch02_Sparks_of_Intelligence.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch02_Sparks_of_Intelligence.txt) · [Ch02_Sparks_of_Intelligence_Notes.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch02_Sparks_of_Intelligence_Notes.txt)。待解读。 | — |
-> | 第3章 The Winner’s Fallacy | Part I: The Software Century；原书 pp. 29–36。[Ch03_The_Winner_s_Fallacy.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch03_The_Winner_s_Fallacy.txt) · [Ch03_The_Winner_s_Fallacy_Notes.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch03_The_Winner_s_Fallacy_Notes.txt)。待解读。 | — |
-> | 第4章 End of the Atomic Age | Part I: The Software Century；原书 pp. 37–54。[Ch04_End_of_the_Atomic_Age.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch04_End_of_the_Atomic_Age.txt) · [Ch04_End_of_the_Atomic_Age_Notes.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch04_End_of_the_Atomic_Age_Notes.txt)。待解读。 | — |
-> | 第5章 The Abandonment of Belief | Part II: The Hollowing Out of the American Mind；原书 pp. 57–68。[Ch05_The_Abandonment_of_Belief.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch05_The_Abandonment_of_Belief.txt) · [Ch05_The_Abandonment_of_Belief_Notes.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch05_The_Abandonment_of_Belief_Notes.txt)。待解读。 | — |
-> | 第6章 Technological Agnostics | Part II: The Hollowing Out of the American Mind；原书 pp. 69–82。[Ch06_Technological_Agnostics.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch06_Technological_Agnostics.txt) · [Ch06_Technological_Agnostics_Notes.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch06_Technological_Agnostics_Notes.txt)。待解读。 | — |
-> | 第7章 A Balloon Cut Loose | Part II: The Hollowing Out of the American Mind；原书 pp. 83–96。[Ch07_A_Balloon_Cut_Loose.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch07_A_Balloon_Cut_Loose.txt) · [Ch07_A_Balloon_Cut_Loose_Notes.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch07_A_Balloon_Cut_Loose_Notes.txt)。待解读。 | — |
-> | 第8章 “Flawed Systems” | Part II: The Hollowing Out of the American Mind；原书 pp. 97–102。[Ch08_Flawed_Systems.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch08_Flawed_Systems.txt) · [Ch08_Flawed_Systems_Notes.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch08_Flawed_Systems_Notes.txt)。待解读。 | — |
-> | 第9章 Lost in Toyland | Part II: The Hollowing Out of the American Mind；原书 pp. 103–111。[Ch09_Lost_in_Toyland.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch09_Lost_in_Toyland.txt) · [Ch09_Lost_in_Toyland_Notes.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch09_Lost_in_Toyland_Notes.txt)。待解读。 | — |
-> | 第10章 The Eck Swarm | Part III: The Engineering Mindset；原书 pp. 115–121。[Ch10_The_Eck_Swarm.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch10_The_Eck_Swarm.txt) · [Ch10_The_Eck_Swarm_Notes.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch10_The_Eck_Swarm_Notes.txt)。待解读。 | — |
-> | 第11章 The Improvisational Startup | Part III: The Engineering Mindset；原书 pp. 122–129。[Ch11_The_Improvisational_Startup.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch11_The_Improvisational_Startup.txt) · [Ch11_The_Improvisational_Startup_Notes.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch11_The_Improvisational_Startup_Notes.txt)。待解读。 | — |
-> | 第12章 The Disapproval of the Crowd | Part III: The Engineering Mindset；原书 pp. 130–138。[Ch12_The_Disapproval_of_the_Crowd.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch12_The_Disapproval_of_the_Crowd.txt) · [Ch12_The_Disapproval_of_the_Crowd_Notes.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch12_The_Disapproval_of_the_Crowd_Notes.txt)。待解读。 | — |
-> | 第13章 Building a Better Rifle | Part III: The Engineering Mindset；原书 pp. 139–155。[Ch13_Building_a_Better_Rifle.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch13_Building_a_Better_Rifle.txt) · [Ch13_Building_a_Better_Rifle_Notes.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch13_Building_a_Better_Rifle_Notes.txt)。待解读。 | — |
-> | 第14章 A Cloud or a Clock | Part III: The Engineering Mindset；原书 pp. 156–167。[Ch14_A_Cloud_or_a_Clock.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch14_A_Cloud_or_a_Clock.txt) · [Ch14_A_Cloud_or_a_Clock_Notes.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch14_A_Cloud_or_a_Clock_Notes.txt)。待解读。 | — |
-> | 第15章 Into the Desert | Part IV: Rebuilding the Technological Republic；原书 pp. 171–178。[Ch15_Into_the_Desert.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch15_Into_the_Desert.txt) · [Ch15_Into_the_Desert_Notes.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch15_Into_the_Desert_Notes.txt)。待解读。 | — |
-> | 第16章 Piety and Its Price | Part IV: Rebuilding the Technological Republic；原书 pp. 179–189。[Ch16_Piety_and_Its_Price.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch16_Piety_and_Its_Price.txt) · [Ch16_Piety_and_Its_Price_Notes.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch16_Piety_and_Its_Price_Notes.txt)。待解读。 | — |
-> | 第17章 The Next Thousand Years | Part IV: Rebuilding the Technological Republic；原书 pp. 190–204。[Ch17_The_Next_Thousand_Years.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch17_The_Next_Thousand_Years.txt) · [Ch17_The_Next_Thousand_Years_Notes.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch17_The_Next_Thousand_Years_Notes.txt)。待解读。 | — |
-> | 第18章 An Aesthetic Point of View | Part IV: Rebuilding the Technological Republic；原书 pp. 205–218。[Ch18_An_Aesthetic_Point_of_View.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch18_An_Aesthetic_Point_of_View.txt) · [Ch18_An_Aesthetic_Point_of_View_Notes.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch18_An_Aesthetic_Point_of_View_Notes.txt)。待解读。 | — |
+> | 第1章 Lost Valley | Part I: The Software Century；原书 pp. 3–15。[Ch01_Lost_Valley.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch01_Lost_Valley.txt)。待解读。 | — |
+> | 第2章 Sparks of Intelligence | Part I: The Software Century；原书 pp. 16–28。[Ch02_Sparks_of_Intelligence.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch02_Sparks_of_Intelligence.txt)。待解读。 | — |
+> | 第3章 The Winner’s Fallacy | Part I: The Software Century；原书 pp. 29–36。[Ch03_The_Winner_s_Fallacy.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch03_The_Winner_s_Fallacy.txt)。待解读。 | — |
+> | 第4章 End of the Atomic Age | Part I: The Software Century；原书 pp. 37–54。[Ch04_End_of_the_Atomic_Age.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch04_End_of_the_Atomic_Age.txt)。待解读。 | — |
+> | 第5章 The Abandonment of Belief | Part II: The Hollowing Out of the American Mind；原书 pp. 57–68。[Ch05_The_Abandonment_of_Belief.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch05_The_Abandonment_of_Belief.txt)。待解读。 | — |
+> | 第6章 Technological Agnostics | Part II: The Hollowing Out of the American Mind；原书 pp. 69–82。[Ch06_Technological_Agnostics.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch06_Technological_Agnostics.txt)。待解读。 | — |
+> | 第7章 A Balloon Cut Loose | Part II: The Hollowing Out of the American Mind；原书 pp. 83–96。[Ch07_A_Balloon_Cut_Loose.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch07_A_Balloon_Cut_Loose.txt)。待解读。 | — |
+> | 第8章 “Flawed Systems” | Part II: The Hollowing Out of the American Mind；原书 pp. 97–102。[Ch08_Flawed_Systems.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch08_Flawed_Systems.txt)。待解读。 | — |
+> | 第9章 Lost in Toyland | Part II: The Hollowing Out of the American Mind；原书 pp. 103–111。[Ch09_Lost_in_Toyland.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch09_Lost_in_Toyland.txt)。待解读。 | — |
+> | 第10章 The Eck Swarm | Part III: The Engineering Mindset；原书 pp. 115–121。[Ch10_The_Eck_Swarm.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch10_The_Eck_Swarm.txt)。待解读。 | — |
+> | 第11章 The Improvisational Startup | Part III: The Engineering Mindset；原书 pp. 122–129。[Ch11_The_Improvisational_Startup.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch11_The_Improvisational_Startup.txt)。待解读。 | — |
+> | 第12章 The Disapproval of the Crowd | Part III: The Engineering Mindset；原书 pp. 130–138。[Ch12_The_Disapproval_of_the_Crowd.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch12_The_Disapproval_of_the_Crowd.txt)。待解读。 | — |
+> | 第13章 Building a Better Rifle | Part III: The Engineering Mindset；原书 pp. 139–155。[Ch13_Building_a_Better_Rifle.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch13_Building_a_Better_Rifle.txt)。待解读。 | — |
+> | 第14章 A Cloud or a Clock | Part III: The Engineering Mindset；原书 pp. 156–167。[Ch14_A_Cloud_or_a_Clock.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch14_A_Cloud_or_a_Clock.txt)。待解读。 | — |
+> | 第15章 Into the Desert | Part IV: Rebuilding the Technological Republic；原书 pp. 171–178。[Ch15_Into_the_Desert.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch15_Into_the_Desert.txt)。待解读。 | — |
+> | 第16章 Piety and Its Price | Part IV: Rebuilding the Technological Republic；原书 pp. 179–189。[Ch16_Piety_and_Its_Price.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch16_Piety_and_Its_Price.txt)。待解读。 | — |
+> | 第17章 The Next Thousand Years | Part IV: Rebuilding the Technological Republic；原书 pp. 190–204。[Ch17_The_Next_Thousand_Years.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch17_The_Next_Thousand_Years.txt)。待解读。 | — |
+> | 第18章 An Aesthetic Point of View | Part IV: Rebuilding the Technological Republic；原书 pp. 205–218。[Ch18_An_Aesthetic_Point_of_View.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch18_An_Aesthetic_Point_of_View.txt)。待解读。 | — |
 
 ## 配套材料
 
-全书合并文本包含 EPUB 阅读顺序中的前置材料、分部页、正文和书末材料。图像位置保留资源路径提示，图像本身请回到 EPUB 阅读。
+分章文本集中于 `raw/Karp_Zamiska_2025_Technological_Republic_txt/`，仅保留十八个 TXT。
 
-- [全书 TXT](../../../../books/Karp_Zamiska_2025_Technological_Republic/Karp_Zamiska_2025_Technological_Republic.txt)
-- [文本清单与 EPUB 路径映射](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/manifest.json)
-- Cover：[TXT](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/01_Cover.txt)
-- Karp_9780593798706_epub3_fsq_r1：[TXT](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/02_Karp_9780593798706_epub3_fsq_r1.txt)
-- Title Page：[TXT](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/03_Title_Page.txt)
-- Copyright：[TXT](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/04_Copyright.txt)
-- Contents：[TXT](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/05_Contents.txt)
-- Dedication：[TXT](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/06_Dedication.txt)
-- Epigraph：[TXT](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/07_Epigraph.txt)
-- List of Figures：[TXT](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/08_List_of_Figures.txt)
-- Preface：[TXT](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/09_Preface.txt)
-- Part I: The Software Century：[TXT](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/10_Part_I_The_Software_Century.txt)
-- Part II: The Hollowing Out of the American Mind：[TXT](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/15_Part_II_The_Hollowing_Out_of_the_American_Mind.txt)
-- Part III: The Engineering Mindset：[TXT](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/21_Part_III_The_Engineering_Mindset.txt)
-- Part IV: Rebuilding the Technological Republic：[TXT](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/27_Part_IV_Rebuilding_the_Technological_Republic.txt)
-- Acknowledgments：[TXT](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/32_Acknowledgments.txt)
-- Notes：[TXT](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/33_Notes.txt)
-- Bibliography：[TXT](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/34_Bibliography.txt)
-- Art Credits：[TXT](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/35_Art_Credits.txt)
-- Index：[TXT](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/36_Index.txt)
-- About the Authors：[TXT](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/37_About_the_Authors.txt)
-- next-reads：[TXT](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/38_next_reads.txt)
+- 每章包含完整正文、对应尾注和该章图表的来源说明，保留原书页码与注释定位标记。
+- 第 1 章附全书序言、献辞、题辞、前置注释和作者简介，均明确标为全书补充材料。
+- 第 18 章附全书致谢与完整参考[[Document|文献]]，作为公共附录供所有章节追溯来源。
+- 封面、宣传推荐、重复目录、独立分部页、索引和独立尾注文件已清理；分部名称保留在各章文件中。
+- 图像位置保留资源路径提示，图像本身请回到 EPUB 阅读。
+- [章节清单与 EPUB 路径映射](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/manifest.json)
 
 ## 自述局限与使用边界
 
 > [!book-limits] 阅读与引用边界
 > - **材料边界** 总页面依据原书目录与版权页建立，章节主张、证据评价和跨章综合留待分章解读。
 > - **引用提醒** TXT 中的 `[p. N]` 保留 EPUB 自带的纸本分页标记。标记可能出现在段落中间；精确引用应回到 EPUB 核对。
-> - **注释定位** 正文的 `[note:ID]` 与各章尾注文件对应。书末完整注释、参考[[Document|文献]]和索引另行保留。
+> - **注释定位** 正文的 `[note:ID]` 与同一 TXT 中的尾注对应。完整参考[[Document|文献]]收录于第 18 章末尾的全书公共附录。
 
 ## 来源
 
