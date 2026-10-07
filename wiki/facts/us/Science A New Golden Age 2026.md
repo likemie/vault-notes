@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 34
+fact_related_count: 36
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Success Criteria]]"
+  - "[[Golden Ticket Mechanism]]"
   - "[[Advance Market Commitments]]"
   - "[[Pull Mechanisms for Innovation]]"
   - "[[Metascience]]"
@@ -57,6 +58,7 @@ related_facts:
   - "[[Office of Science and Technology Policy]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
+  - "[[Fast Grants]]"
   - "[[Nuclear Regulatory Reform Executive Orders 2025]]"
   - "[[Workforce Pell Grants 2025]]"
   - "[[Genesis Mission]]"
@@ -100,7 +102,7 @@ updated: 2026-10-07
 > - **支柱一：重塑以研究者个人为核心的科研资助体制（第二章）**
 >   - 破除将首席科学家（PI）异化为文书管理员的行政摩擦，扩大可随人跨校迁移的早期学者奖学金（如 [[National Science Foundation|NSF]] GRFP）；
 >   - 大规模推广为期 7 年、免于短期汇报的长周期“对人资助”（People, not projects）；
->   - 引入金券机制（Golden Tickets）、48 小时快速资助（Fast Grants）以及事后买单的技术悬赏与[[Advance Market Commitments|高级市场承诺]]（[[Pull Mechanisms for Innovation|拉动机制]]）；
+>   - 引入[[Golden Ticket Mechanism|金券机制]]（Golden Tickets）、48 小时快速资助（[[Fast Grants]]）以及事后买单的技术悬赏与[[Advance Market Commitments|高级市场承诺]]（[[Pull Mechanisms for Innovation|拉动机制]]）；
 >   - 在每个联邦资助机构内设立直属于局长的[[Metascience|元科学]]单元（Metascience Units），依托[[Randomised Controlled Trials|随机对照试验]]检验并迭代资助规则。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 20–32)]]
 > - **支柱二：确保科学发现高效转化为本土产业能力（第三章）**
 >   - 坚守[[Permissionless Innovation|无许可创新]]原则，推广综合性[[Regulatory Sandbox|监管沙盒]]，打破以防范[[Hypothesis|假设]]性风险为名的行政延宕；

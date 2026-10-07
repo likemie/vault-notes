@@ -11,10 +11,10 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 39
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
-fact_related_color: "#dcfce7"
+fact_related_count: 40
+fact_related_level: 5
+fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_color: "#fecdd3"
 org_type: 联邦内阁行政部门／国家级科研主管机构
 headquarters: 美国华盛顿特区福里斯特尔大厦（Forrestal Building, Washington, D.C.）
 established: "1977"
@@ -60,6 +60,7 @@ related_facts:
   - "[[Loan Programs Office]]"
   - "[[Human Genome Project]]"
   - "[[EUV LLC]]"
+  - "[[ARPA-E]]"
   - "[[DARPA]]"
   - "[[CHIPS and Science Act]]"
   - "[[National Institutes of Health]]"
@@ -100,7 +101,7 @@ updated: 2026-10-07
 > [!dev-timeline] 组织发展历程
 > - **1942–1977 — 战时军工起源与机构整合期** 源于曼哈顿工程建立的洛斯阿拉莫斯、橡树岭等绝密实验室，历经原子能委员会（AEC）与能源研发署（ERDA），逐步从单一核武器研制拓展至核动力堆、受控核聚变与辐射生物学研究（包括后来成为[[Human Genome Project|人类基因组计划]]发端的基础工作）。
 > - **1977–2000 — 内阁设部与[[Big Science|大科学]]基础设施确立** 1977 年正式成立能源部，将分散的国家实验室群整合为统一的国家科研基础设施基地；在 1990 年代末，能源部劳伦斯利弗莫尔、劳伦斯伯克利与桑迪亚三大国家实验室组建“虚拟国家实验室”（Virtual National Laboratory, VNL），深度协同英特尔等工业巨头组建 [[EUV LLC]] 产学研财团，历时四年攻克极紫外光刻核心技术原型。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 44)]]
-> - **2009 — 危机应对与颠覆性绿色创新机制爆发** 在《美国复苏与再投资法案》（ARRA）支持下，正式启动高级能源研究计划署（Advanced Research Projects Agency-Energy, [[DARPA|ARPA]]-E，借鉴 [[DARPA]] 模式），设立能源前沿研究中心（EFRCs），并通过第 1705 条款清洁能源贷款担保计划向特斯拉等企业注入数十亿美元风险贷款。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
+> - **2009 — 危机应对与颠覆性绿色创新机制爆发** 在《美国复苏与再投资法案》（ARRA）支持下，正式启动高级能源研究计划署（[[ARPA-E|Advanced Research Projects Agency-Energy]], [[DARPA|ARPA]]-E，借鉴 [[DARPA]] 模式），设立能源前沿研究中心（EFRCs），并通过第 1705 条款清洁能源贷款担保计划向特斯拉等企业注入数十亿美元风险贷款。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 > - **2022 — [[CHIPS and Science Act|芯片法案]]授权与科研基础扩容** 依据《[[CHIPS and Science Act|芯片与科学法案]]》，科学办公室获授权在五年内新增 305 亿美元预算，重点通过竞争性课题流向高水平[[Research Universities|研究型大学]]实验室，与国家实验室协同攻坚清洁能源、量子计算与先进材料。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
 > - **2025–2026 — [[Genesis Mission|创世纪计划]]领航与国家人工智能科研基础设施重塑** 白宫签署国家安全总统备忘录启动[[Genesis Mission|创世纪计划]]（Genesis Mission），指定 DOE 为牵头联邦机构，统筹 17 所国家实验室打造“美国科学与安全平台”（ASSP），组建涵盖 24 家顶级产学研机构的“变革性人工智能模型联合体”（Transformational AI Models Consortium），并在全美实验室部署自主闭环机器人合成与表征设施，同时全面落实 2025 年核能监管改革行政命令。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 61–63, 67–68)]]
 
@@ -203,7 +204,7 @@ updated: 2026-10-07
 > | [[Human Genome Project]] | Fact | 能源部早期为监测核辐射基因突变而启动并联合领导的里程碑[[Big Science\|大科学工程]]。 |
 > | [[Nuclear Regulatory Reform Executive Orders 2025]] | Fact | 能源部负责落地推进的核电扩容、功率提升与先进反应堆建设新政。 |
 > | [[National Institutes of Health]] | Fact (Organization) | 与能源部并列为美国两大任务导向型联邦科研机构典范。 |
-> | [[DARPA]] | Fact (Organization) | 能源部高级能源研究计划署（ARPA-E）直接借鉴的组织母版。 |
+> | [[DARPA]] | Fact (Organization) | 能源部高级能源研究计划署（[[ARPA-E]]）直接借鉴的组织母版。 |
 > | [[Mission-Oriented Innovation Policy]] | Concept | 能源部推行清洁能源转型与创世纪计划的核心政策[[Paradigm\|范式]]。 |
 > | [[Market Shaping and Creating]] | Concept | 能源部通过贷款担保与[[Megascience Installations\|大科学装置]]主动塑造技术市场的理论透镜。 |
 > | [[ROAR Framework]] | Theory | 指导能源部实现战略方向设定、探索型组织能力与风险收益对称分配的治理框架。 |

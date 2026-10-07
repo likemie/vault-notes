@@ -8,10 +8,10 @@ aliases:
 summary: "Fred Block（2008）与 Christopher Ansell（2000）提出的科技创新政治经济学理论，指区别于东亚集权科层发展型国家与英美放任规制国家的全新国家形态，强调国家通过分布式、去中心化的联邦机构网络与产学研多方协同促进颠覆性创新。Fuchs（2010）在此基础上提出批判性修正，证明国家公共代理人超越消极中介撮合，通过嵌入型网络治理主动引导国家战略技术轨道。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 31
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 32
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theme/political-economy
   - theme/science-policy
@@ -53,13 +53,14 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
   - "[[SBIR and STTR Programs]]"
+  - "[[ARPA-E]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
 related_arguments:
   - "[[Argument_Fuchs_2010_RP]]"
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-07
 ---
 
 # Developmental Network State
@@ -115,7 +116,7 @@ updated: 2026-10-04
 > [!theory-proposition] 命题一｜国家创新能力源于分布式专业代理网络的嵌入式协同而非中央科层指令
 > **解释** 发展型网络国家摒弃了传统中央计划部委集中决策的弊端，将战略研判权分散授予贴近科研前沿的各专业机构（如 [[DARPA]]、[[National Science Foundation|NSF]]、DoE）。各机构拥有独立的资助逻辑与使命，既避免了“把所有鸡蛋放在一个篮子里”的单点决策失误，又通过密集的产学研互动捕捉前沿技术异动。Block (2008); [[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1134)]]
 >
-> **应用实例** 美国国防部 DARPA、国家卫生研究院 [[National Institutes of Health|NIH]] 与能源部先进能源研究计划署（ARPA-E）在各自领域分别培育了互联网、mRNA 疫苗技术与新一代储能电池，形成了跨部门多轨并进的创新矩阵。
+> **应用实例** 美国国防部 DARPA、国家卫生研究院 [[National Institutes of Health|NIH]] 与能源部先进能源研究计划署（[[ARPA-E]]）在各自领域分别培育了互联网、mRNA 疫苗技术与新一代储能电池，形成了跨部门多轨并进的创新矩阵。
 
 > [!theory-proposition] 命题二｜公共代理人通过重塑网络拓扑与闭合[[Structural Holes|结构洞]]克服前沿产业的[[Market Failure|市场失灵]]
 > **解释** 在高度[[Vertical Disintegration|纵向离散]]（Vertically Disintegrated）的高科技产业中，基础研究者、材料工艺商与系统集成商之间存在严重的认知隔阂与协调断裂（[[Structural Holes|结构洞]]）。发展型网络国家通过具备技术裁判权的公共经理人，主动调动[[Network Plasticity|网络可塑性]]，设立统一测试平台并强制跨界合作，重构研发网络架构，引导颠覆性科研成果顺利跨越[[Valley of Death|死亡之谷]]。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144)]]

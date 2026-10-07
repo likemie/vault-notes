@@ -12,7 +12,7 @@ aliases:
 summary: "连接科学研究发现与实际应用的跨界转化过程，在产学合作中体现为技术成果商业化漏斗，在学校教育中体现为基于因果行动理论的情境再脉络化与微观课例探究，在宏观治理中体现为立足政策时间生态与立法政策简报的法律实质采纳，在前沿科技创新中体现为公共代理人依托嵌入型网络治理引导颠覆性技术轨道，在国家硬科技战略中体现为打破规制阻滞、依托共享试验场、中试平台与前竞争联合体将前沿科学锚定于本土实体制造与战略产业能力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 89
+related_count: 90
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Vertical Disintegration]]"
   - "[[Network Governance]]"
   - "[[Big Science]]"
+  - "[[Cooperative Research and Development Agreement]]"
   - "[[Technology Transfer]]"
   - "[[Megascience Installations]]"
   - "[[Embedded Network Governance]]"
@@ -141,7 +142,7 @@ updated: 2026-10-07
 > 2. **微观与中观学校教学场域** 特指将教育实证证据“转译”为一线学校教学策略与校本教研载体的互动过程。其本质绝非去情境化的“剪贴式照搬”（Cutting and Pasting），而是基于因果机制与行动理论（Theories of Action）对外部证据展开的本土[[Recontextualization|再脉络化]]与课堂探究试验。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 123)]]; [[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, pp. 76–78)]]
 > 3. **国家宏观立法与联邦治理场域** 特指教育学者立足于突发事件驱动的[[Policymaking Chronosystem|政策制定时间系统]]，突破传统学术审慎与过度免责的文化壁垒，通过[[Legislative Policy Brief|立法政策简报]]起草法定示范条文、在国会常设委员会听证会作证，将实证研究实质性嵌入国家法律与规章的政治转化过程。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 39–42, 45–46)]]
 > 4. **国家颠覆性前沿与[[Vertical Disintegration|纵向离散]]产业治理场域** 特指在设计、制造与系统集成高度割裂的高科技产业中，由具备技术研判权的嵌入型公共代理人（如 [[DARPA]] 项目经理），依托非正式[[Network Governance|网络治理]]机制，主动弥合大学探索与产业工程之间的拓扑断裂，构建跨界试验平台与共识标准，引导原创科研转化为国家战略技术轨道。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135)]]
-> 5. **国家硬科技战略与本土实体制造转化场域** 特指在战略科技与实体产业竞争中，国家打破规制审批枷锁，向产业初创企业开放联邦共享试验场与国家实验室[[Big Science|大科学]]设施，通过敏捷协议（CRADA/OTA）与前竞争技术联合体，将实验室原理突破迅速转化为本土先进制程、中试验证数据与规模化制造能力的实体落地系统。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 33–46)]]
+> 5. **国家硬科技战略与本土实体制造转化场域** 特指在战略科技与实体产业竞争中，国家打破规制审批枷锁，向产业初创企业开放联邦共享试验场与国家实验室[[Big Science|大科学]]设施，通过敏捷协议（[[Cooperative Research and Development Agreement|CRADA]]/OTA）与前竞争技术联合体，将实验室原理突破迅速转化为本土先进制程、中试验证数据与规模化制造能力的实体落地系统。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 33–46)]]
 
 > [!concept-lens] 概念透镜
 > - **核心功能** 聚焦原始学术发现向实践可操作、法律可执行、市场可交付与工业可制造形态的重塑、情境调试、工程验证与价值兑现。
@@ -234,7 +235,7 @@ updated: 2026-10-07
 > - **场域五：国家硬科技实体制造转化与试验场模型（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）**
 >   1. 规制松绑与[[Regulatory Sandbox|监管沙盒]]（Regulatory Sandboxes & Permissionless Innovation）：打破核能（NRC）与生物医疗（FDA）繁冗审批阻滞，将不行动代价纳入成本核算，以真实世界运行数据修订法规；
 >   2. 共享试验场与国家实验室[[Big Science|大科学]]设施开放（Shared Testbeds & User Facilities）：依托莫哈韦火箭试验台、能源部 28 个用户设施与国家纳米基础设施（NNCI）共享机时与洁净室，降低早期重资产试错成本；
->   3. 敏捷技术许可与公私伙伴架构（OTA / CRADA, FNIH / [[Accelerating Medicines Partnership|AMP]]）：突破繁琐采购法案，借助其它交易授权（OTA）与合作研发协议（CRADA）加速成果流转；
+>   3. 敏捷技术许可与公私伙伴架构（OTA / [[Cooperative Research and Development Agreement|CRADA]], FNIH / [[Accelerating Medicines Partnership|AMP]]）：突破繁琐采购法案，借助其它交易授权（OTA）与合作研发协议（CRADA）加速成果流转；
 >   4. 前竞争技术联合体攻关（Pre-competitive Consortia）：政府统筹跨行业共性风险，借鉴[[Human Genome Project|人类基因组计划]]与极紫外光刻联合体（[[EUV LLC]]）模式攻关前沿制造工艺；
 >   5. 产研人才双向流动与创业科学家孵化（Industrial PhDs & Activate Fellows）：资助产业实战博士，推广伯克利 Activate 模式让青年科学家进驻国家实验室创业。
 

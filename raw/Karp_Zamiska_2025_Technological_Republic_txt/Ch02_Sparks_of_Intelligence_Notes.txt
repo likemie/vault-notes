@@ -1,0 +1,106 @@
+Chapter Two: Sparks of Intelligence — Notes
+
+[note:Y_d1-EndnotePhraseInText34] [notes p. 225]
+For Oppenheimer, the atomic weapon: Lincoln Barnett, “J. Robert Oppenheimer,” Life, October 10, 1949, 121.
+
+[note:Y_d1-EndnotePhraseInText35] [notes p. 225]
+In high school, Oppenheimer: Jeremy Bernstein, “Oppenheimer’s Beginnings,” New England Review 25, no. ½ (2004): 42 (citing an interview of Oppenheimer by Thomas Kuhn); Kai Bird and Martin J. Sherwin, American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer (New York: Alfred A. Knopf, 2005), 23.
+
+[note:Y_d1-EndnotePhraseInText36] [notes p. 225]
+“When you see something”: Richard Polenberg, ed., In the Matter of J. Robert Oppenheimer: The Security Clearance Hearing (Ithaca, N.Y.: Cornell University Press, 2002), 46.
+
+[note:Y_d1-EndnotePhraseInText37] [notes p. 225]
+At a lecture: J. Robert Oppenheimer, “Physics in the Contemporary World,” Bulletin of the Atomic Scientists 4, no. 3 (1948): 66.
+
+[note:Y_d1-EndnotePhraseInText38] [notes p. 225]
+Percy Williams Bridgman: Barnett, “J. Robert Oppenheimer,” 133.
+
+[note:Y_d1-EndnotePhraseInText39] [notes p. 225]
+Some have predicted: Ian Bremmer and Mustafa Suleyman, “The AI Power Paradox: Can States Learn to Govern Artificial Intelligence—Before It’s Too Late?,” Foreign Affairs, August 16, 2023 (noting that “ ‘brain scale’ models with more than 100 trillion parameters—roughly the number of synapses in the human brain—will be viable within five years”); see also Mustafa Suleyman, The Coming Wave: Technology, Power, and the Twenty-First Century’s Greatest Dilemma, with Michael Bhaskar (New York: Crown, 2023), 66.
+
+[note:Y_d1-EndnotePhraseInText40] [notes p. 225]
+And the most advanced versions: Sébastien Bubeck et al., “Sparks of Artificial General Intelligence: Early Experiments with GPT-4,” arXiv, March 22, 2023, 92.
+
+[note:Y_d1-EndnotePhraseInText41] [notes p. 225]
+It was a stunning feat: Bubeck et al., “Sparks of Artificial General Intelligence,” 11.
+
+[note:Y_d1-EndnotePhraseInText42] [notes p. 225]
+The language models are not: Piotr W. Mirowski et al., “A Robot Walks into a Bar: Can Language Models Serve as Creativity Support Tools for Comedy?,” arXiv, June 3, 2024, 2.
+
+[note:Y_d1-EndnotePhraseInText43] [notes p. 225]
+In the early 1960s: Elizabeth Corcoran, “Squaring Off in a Game of Checkers,” Washington Post, August 14, 1994; see also John Pfeiffer, The Thinking Machine (Philadelphia: J. B. Lippincott, 1962), 167–74.
+
+[note:Y_d1-EndnotePhraseInText44] [notes p. 225]
+In February 1996: Kat Eschner, “Computers Are Great at Chess, but That Doesn’t Mean the Game Is ‘Solved,’ ” Smithsonian Magazine, February 10, 2017.
+
+[note:Y_d1-EndnotePhraseInText45] [notes p. 225]
+And in 2015, Fan Hui: Annie Sneed, “Computer Beats Go Champion for First Time,” Scientific American, January 27, 2016.
+
+[note:Y_d1-EndnotePhraseInText46] [notes p. 225]
+Lemoine was raised on a farm: Blake Lemoine, “Explaining Google,” Medium, [p. 226] May 30, 2019.
+
+[note:Y_d1-EndnotePhraseInText47] [notes p. 226]
+Over the course: Nitasha Tiku, “The Google Engineer Who Thinks the Company’s AI Has Come to Life,” Washington Post, June 11, 2022.
+
+[note:Y_d1-EndnotePhraseInText48] [notes p. 226]
+Google fired Lemoine: Nitasha Tiku, “Google Fired Engineer Who Said Its AI Was Sentient,” Washington Post, July 22, 2022.
+
+[note:Y_d1-EndnotePhraseInText49] [notes p. 226]
+Less than a year later: Kevin Roose, “Bing’s A.I. Chat: ‘I Want to Be Alive,’ ” New York Times, February 16, 2023.
+
+[note:Y_d1-EndnotePhraseInText50] [notes p. 226]
+Others believed that any shadow: See, for example, Brian Christian, “How a Google Employee Fell for the Eliza Effect,” Atlantic, June 21, 2022 (arguing that while the capabilities of the latest large language models are “breathtaking and sublime,” the exchanges that “may sound like introspection” are “just the system improvising in an introspective verbal style”).
+
+[note:Y_d1-EndnotePhraseInText51] [notes p. 226]
+The exchange with Bing: Peggy Noonan, “A Six-Month AI Pause? No, Longer Is Needed,” Wall Street Journal, March 30, 2023.
+
+[note:Y_d1-EndnotePhraseInText52] [notes p. 226]
+The two transcripts: See Noonan, “A Six-Month AI Pause?” (adding that an effort by the Times columnist “to discern a Jungian ‘shadow self’ within Microsoft’s Bing chatbot left him unable to sleep”).
+
+[note:Y_d1-EndnotePhraseInText53] [notes p. 226]
+The model, for the skeptics: Emily M. Bender et al., “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?,” Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (2021): 617.
+
+[note:Y_d1-EndnotePhraseInText54] [notes p. 226]
+A professor in the department: Oliver Whang, “How to Tell if Your A.I. Is Conscious,” New York Times, September 18, 2023.
+
+[note:Y_d1-EndnotePhraseInText55] [notes p. 226]
+Douglas Hofstadter, the author: Douglas Hofstadter, “Gödel, Escher, Bach, and AI,” Atlantic, July 8, 2023.
+
+[note:Y_d1-EndnotePhraseInText56] [notes p. 226]
+Hofstadter had previously expressed doubt: James Somers, “The Man Who Would Teach Machines to Think,” Atlantic, November 2013.
+
+[note:Y_d1-EndnotePhraseInText57] [notes p. 226]
+Noam Chomsky has similarly dismissed: Noam Chomsky, Ian Roberts, and Jeffrey Watumull, “The False Promise of ChatGPT,” New York Times, March 8, 2023.
+
+[note:Y_d1-EndnotePhraseInText58] [notes p. 226]
+The claim made by Chomsky: See Chomsky et al., “False Promise” (arguing that the “deepest flaw” of the current language models “is the absence of the most critical capacity of any intelligence: to say not only what is the case, what was the case and what will be the case—that’s description and prediction—but also what is not the case and what could and could not be the case”).
+
+[note:Y_d1-EndnotePhraseInText59] [notes p. 226]
+An open letter published: Future of Life Institute, “Pause Giant AI Experiments: An Open Letter,” March 22, 2023.
+
+[note:Y_d1-EndnotePhraseInText60] [notes p. 226]
+Eliezer Yudkowsky, an outspoken: Eliezer Yudkowsky, “Pausing AI Development Isn’t Enough. We Need to Shut It All Down,” Time, March 29, 2023.
+
+[note:Y_d1-EndnotePhraseInText61] [notes p. 226]
+[p. 227] Peggy Noonan, in a column: Noonan, “Six-Month AI Pause?”
+
+[note:Y_d1-EndnotePhraseInText62] [notes p. 227]
+Those involved in the debate: See Sean Thomas, “Are We Ready for P(doom)?,” Spectator, March 4, 2024; Clint Rainey, “P(doom) Is AI’s Latest Apocalypse Metric. Here’s How to Calculate Your Score,” Fast Company, December 7, 2023.
+
+[note:Y_d1-EndnotePhraseInText63] [notes p. 227]
+Lina Khan, the head: Thomas, “Are We Ready for P(doom)?”
+
+[note:Y_d1-EndnotePhraseInText64] [notes p. 227]
+Similar predictions, all of which: See J. McCarthy et al., “A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence,” August 31, 1955 (reproduced in AI Magazine 27, no. 4 (Winter 2006): 12–14).
+
+[note:Y_d1-EndnotePhraseInText65] [notes p. 227]
+At a banquet in Pittsburgh: Herbert A. Simon and Allen Newell, “Heuristic Problem Solving: The Next Advance in Operations Research,” Operations Research 6, no. 1 (January–February 1958): 7; see also Garry Kasparov, Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins (New York: PublicAffairs, 2017), 36.
+
+[note:Y_d1-EndnotePhraseInText66] [notes p. 227]
+In 1960, only four years: Herbert A. Simon, The New Science of Management Decision (New York: Harper & Brothers, 1960), 38.
+
+[note:Y_d1-EndnotePhraseInText67] [notes p. 227]
+He envisioned that: See Simon, New Science of Management Decision, 38 (arguing that “men will retain their greatest comparative advantage in jobs that require flexible manipulation of those parts of the environment that are relatively rough—some forms of manual work, control of some kinds of machinery”).
+
+[note:Y_d1-EndnotePhraseInText68] [notes p. 227]
+Similarly, in 1964: Irving John Good, “Speculations Concerning the First Ultraintelligence Machine,” in Advances in Computers, ed. Franz L. Alt and Morris Rubinoff, vol. 6 (New York: Academic Press, 1965), 78; see also Luke Muehlhauser, “What Should We Learn from Past AI Forecasts?,” Open Philanthropy, May 2016 (for a review of past predictions over the latter half of the twentieth century anticipating, incorrectly, the imminent emergence of AI on par with the human mind).

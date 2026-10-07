@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Market Failure]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Innovation Hub]]"
+  - "[[Cooperative Research and Development Agreement]]"
   - "[[Research Security]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Technology-Oriented Social Contract]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # A Strategy for American Innovation 2011
@@ -127,7 +128,7 @@ updated: 2026-10-06
 
 > [!indicators]- 评价指标
 > - **投入指标** 联邦对清洁能源、先进制造等优先领域的研发投资总额。
-> - **过程指标** 跨学科[[Innovation Hub|创新中心]]设立数量、公私合作研发协议规模。
+> - **过程指标** 跨学科[[Innovation Hub|创新中心]]设立数量、公私[[Cooperative Research and Development Agreement|合作研发协议]]规模。
 > - **结果指标** 战略新兴产业核心技术专利布局、应对气候变化科研产出。
 
 > [!finding-cards] 效果与评价

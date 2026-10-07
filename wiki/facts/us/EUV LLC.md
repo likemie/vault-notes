@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ tags:
   - theme/innovation-ecosystem
 related_concepts:
   - "[[Precompetitive Research]]"
+  - "[[Cooperative Research and Development Agreement]]"
   - "[[Paradigm]]"
   - "[[Attrition]]"
   - "[[Megascience Installations]]"
@@ -70,7 +71,7 @@ updated: 2026-10-07
 
 > [!org-context] 机构背景
 > - **成立时间 / 发起主体** 1997 年由英特尔倡议设立，联合 AMD、摩托罗拉，随后吸纳美光科技（Micron）以及设备制造商硅谷集团（Silicon Valley Group, SVG）与阿斯麦（ASML）参与。
-> - **公共科研支撑伙伴** 通过合作研发协议（Cooperative Research and Development Agreements, CRADA），深度整合美国能源部旗下三大国家实验室组成的“虚拟国家实验室”（Virtual National Laboratory, VNL）：劳伦斯利弗莫尔国家实验室（LLNL）、劳伦斯伯克利国家实验室（LBNL）与桑迪亚国家实验室（SNL）。
+> - **公共科研支撑伙伴** 通过[[Cooperative Research and Development Agreement|合作研发协议]]（Cooperative Research and Development Agreements, CRADA），深度整合美国能源部旗下三大国家实验室组成的“虚拟国家实验室”（Virtual National Laboratory, VNL）：劳伦斯利弗莫尔国家实验室（LLNL）、劳伦斯伯克利国家实验室（LBNL）与桑迪亚国家实验室（SNL）。
 > - **出资与资本规模** 成员企业全额注资约 2.5 亿美元私营研发资金，能源部国家实验室投入顶尖同步辐射光源、超算及数亿美元级国家科研基础设施与资深科学家团队对等协同。
 > - **核心使命与技术目标** 攻克将光刻光源波长由深紫外（193 纳米）直接跃迁至 13.5 纳米极紫外（Extreme Ultraviolet, EUV）波段所面临的等离子体物理、极紫外全反射光学与原子级涂层等全行业共性瓶颈，为延续摩尔定律至 32 纳米以下制程奠定工程可行性。
 

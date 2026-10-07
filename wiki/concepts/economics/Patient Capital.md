@@ -9,7 +9,7 @@ aliases:
 summary: "指具有跨周期长远投资视野、高风险耐受力且不以短期流动性套利为目的的战略性金融资本；多由公共开发银行与国家使命机构供给，是支撑深度科技跨越死亡之谷、三代使命演化与实现重大社会转型破局的核心金融支柱"
 type: concept
 domain: "economics"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -54,6 +54,7 @@ related_facts:
   - "[[DARPA]]"
   - "[[KfW]]"
   - "[[Department of Energy]]"
+  - "[[ARPA-E]]"
   - "[[National Institutes of Health]]"
   - "[[Ministry of International Trade and Industry]]"
   - "[[Apollo Program]]"
@@ -73,7 +74,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-04
+updated: 2026-10-07
 ---
 
 # Patient Capital
@@ -160,7 +161,7 @@ updated: 2026-10-04
 > 商业银行由于巴塞尔协议等流动性与资本充足率约束，无法向未形成稳定现金流的早中期前沿企业发放长期贷款。
 
 > [!claim] [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]; [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
-> **战略供给主体命题** 公共开发银行（如[[KfW|德国复兴信贷银行]] [[KfW]]、欧洲投资银行 EIB、巴西国家开发银行 BNDES）以及直接资助机构（如 [[DARPA]]、[[Department of Energy|美国能源部]] ARPA-E、[[National Institutes of Health|NIH]]），通过政府信用背书与国家专项拨款，成为全球范围内耐心资本的最主要战略供给者。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–809)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790)]]
+> **战略供给主体命题** 公共开发银行（如[[KfW|德国复兴信贷银行]] [[KfW]]、欧洲投资银行 EIB、巴西国家开发银行 BNDES）以及直接资助机构（如 [[DARPA]]、[[Department of Energy|美国能源部]] [[ARPA-E]]、[[National Institutes of Health|NIH]]），通过政府信用背书与国家专项拨款，成为全球范围内耐心资本的最主要战略供给者。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–809)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790)]]
 
 ---
 

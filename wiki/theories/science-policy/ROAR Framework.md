@@ -6,7 +6,7 @@ aliases:
 summary: "由玛丽安娜·马祖卡托提出的使命导向创新政策分析框架，涵盖战略路径与方向（Routes）、探索型组织能力（Organizations）、公共价值动态评估（Assessment）以及风险收益对称共享（Risks and Rewards）四大核心维度"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -45,12 +45,13 @@ related_facts:
   - "[[KfW]]"
   - "[[Department of Energy]]"
   - "[[UN Sustainable Development Goals]]"
+  - "[[ARPA-E]]"
 related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # ROAR Framework
@@ -152,7 +153,7 @@ updated: 2026-10-06
 > - **D2｜探索型组织能力（Organizations）**
 >   构建具备[[Strategic Autonomy|战略自主]]权、学习素养与组合管理能力的公共机构网络。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–810)]]
 >   - **D2.1｜去中心化探索网络（Decentralized Explorative Networks）**
->     - **含义** 类似于 [[DARPA]] 或高级能源研究计划署（Advanced Research Projects Agency-Energy, ARPA-E）的专业化、扁平化与高弹性公共攻关机构。
+>     - **含义** 类似于 [[DARPA]] 或高级能源研究计划署（[[ARPA-E|Advanced Research Projects Agency-Energy]], ARPA-E）的专业化、扁平化与高弹性公共攻关机构。
 >     - **观察线索** 项目经理自主立项权、快速终止与追加经费权、跨部门协调平台。
 >     - **判读规则** 存在去官僚化敏捷决策机制视为符合探索型组织特征。
 >     - **归属与出处** 原理论，[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]。

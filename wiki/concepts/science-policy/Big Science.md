@@ -7,7 +7,7 @@ aliases:
 summary: "以国家战略意志为导向、依赖巨额公共财政与集中式国家实验室攻关突破性物理与工程极限的科研组织范式；在冷战技术使命中奠定强大物理突破力，但在复杂社会挑战中遭遇制度局限；在当代演进为兼具超级算力、闭环自主实验室、中等规模聚焦研究组织（FRO）与大规模前竞争产学研联合体的分布式创新基础设施。"
 type: concept
 domain: "science-policy"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -60,6 +60,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[Engineering Research Centers]]"
   - "[[Science and Technology Centers]]"
+  - "[[Protein Data Bank]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[EUV LLC]]"
   - "[[Human Genome Project]]"
@@ -195,7 +196,7 @@ updated: 2026-10-07
 > 论证大科学如何突破传统单一国家实验室垄断，演化为连接顶尖大学、国家实验室、产业前竞争财团与自动化机器实验的新型中介网络。
 
 > [!claim] Kratsios, M. (2026)
-> **中等规模工程科学、[[Focused Research Organization|聚焦研究组织]]与创世纪平台** 当代前沿突破日益发生在兼具[[Grand Theory|宏大理论]]雄心与现实重大应用的[[Pasteur's Quadrant|巴斯德象限]]。单体大学课题组受制于研究生轮转无法维持长期工程攻关团队，商业公司则因公共品属性缺乏独占动力，导致耗资数千万美元的中等规模工程科学（如蛋白质数据库维护、高通量[[Mind Mapping|脑图]]谱绘制、开源科学 AI 模型训练）出现制度空白。大科学范式必须发生结构性扩展：一方面依托[[Focused Research Organization|聚焦研究组织]]（FRO）与 NSF [[Directorate for Technology, Innovation and Partnerships|TIP]] [[NSF X-Labs|X-Labs]] 建立全职工程团队攻克共性工程瓶颈；另一方面依托[[Genesis Mission|创世纪计划]]（Genesis Mission）将 17 所国家实验室算力与仪器整合成“美国科学与安全平台”（ASSP），并继承 [[EUV LLC]] 与 [[Human Genome Project|HGP]] 的前竞争联合体经验，将大科学从封闭武器研制升级为全社会可调用的公共技术底座。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21–26, 43–45, 61–63)]]
+> **中等规模工程科学、[[Focused Research Organization|聚焦研究组织]]与创世纪平台** 当代前沿突破日益发生在兼具[[Grand Theory|宏大理论]]雄心与现实重大应用的[[Pasteur's Quadrant|巴斯德象限]]。单体大学课题组受制于研究生轮转无法维持长期工程攻关团队，商业公司则因公共品属性缺乏独占动力，导致耗资数千万美元的中等规模工程科学（如[[Protein Data Bank|蛋白质数据库]]维护、高通量[[Mind Mapping|脑图]]谱绘制、开源科学 AI 模型训练）出现制度空白。大科学范式必须发生结构性扩展：一方面依托[[Focused Research Organization|聚焦研究组织]]（FRO）与 NSF [[Directorate for Technology, Innovation and Partnerships|TIP]] [[NSF X-Labs|X-Labs]] 建立全职工程团队攻克共性工程瓶颈；另一方面依托[[Genesis Mission|创世纪计划]]（Genesis Mission）将 17 所国家实验室算力与仪器整合成“美国科学与安全平台”（ASSP），并继承 [[EUV LLC]] 与 [[Human Genome Project|HGP]] 的前竞争联合体经验，将大科学从封闭武器研制升级为全社会可调用的公共技术底座。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21–26, 43–45, 61–63)]]
 
 ---
 

@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 62
+fact_related_count: 64
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -37,6 +37,8 @@ related_concepts:
   - "[[Use-Inspired Basic Research]]"
   - "[[Academic Entrepreneurship]]"
   - "[[Convergence Research]]"
+  - "[[Golden Ticket Mechanism]]"
+  - "[[Portable Fellowship]]"
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Hub]]"
   - "[[Innovation Ecosystem]]"
@@ -152,9 +154,9 @@ updated: 2026-10-07
 > - **独立[[Metascience|元科学]]单元（Metascience Unit）** 2026 年新设直属机构，拥有独立实验预算，负责设计并实施资助机制[[Randomised Controlled Trials|随机对照实验]]（RCTs），量化评估金券制、快速资助通道与同行评议一致性。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 31–32)]]
 
 > [!pathways]- 业务运行机制与机制设计创新
-> - **同行评审双重标准与元科学机制试验** 传统执行“智力价值”与“广泛影响”双重准则；为克服共识评审偏好平庸的弊端，2026 年新战略引入“金券机制”（单名评审专家可强行资助非共识颠覆性提案）、双盲初筛与部分[[Random Assignment|随机化]]资助。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 27–28)]]
+> - **同行评审双重标准与元科学机制试验** 传统执行“智力价值”与“广泛影响”双重准则；为克服共识评审偏好平庸的弊端，2026 年新战略引入“[[Golden Ticket Mechanism|金券机制]]”（单名评审专家可强行资助非共识颠覆性提案）、双盲初筛与部分[[Random Assignment|随机化]]资助。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 27–28)]]
 > - **TIP [[NSF X-Labs|X-Labs]] 与新型科研组织直接资助** 突破传统仅向大学系所拨款的限制，TIP X-Labs 开始直接资助具备全职工程师团队的独立[[Focused Research Organization|聚焦研究组织]]（FRO），围绕全脑神经动机环路绘制等中等规模公共品科学开展攻关。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 26)]]
-> - **可携带式早期学者奖学金（Portable Fellowships）** 改革研究生资助机制，扩大 NSF GRFP 资助并将经费直接赋权博士生本人，允许学者自主选择导师并跨校跨组携带，摆脱对单一 PI 课题组劳务的依附。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
+> - **可携带式早期学者奖学金（[[Portable Fellowship|Portable Fellowships]]）** 改革研究生资助机制，扩大 NSF GRFP 资助并将经费直接赋权博士生本人，允许学者自主选择导师并跨校跨组携带，摆脱对单一 PI 课题组劳务的依附。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
 > - **与 [[DARPA]] 的跨机构资助接力（Institutional Relay）** 对于颠覆性新构想（如应变硅技术），通常由 DARPA 率先承担早期概念验证风险；可行性确立后，学者转入 NSF 申请基金开展深入机理研究。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1142–1143)]]
 
 ---

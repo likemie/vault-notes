@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 33
+fact_related_count: 35
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Reproducibility Crisis]]"
   - "[[Metascience]]"
   - "[[Paradigm]]"
+  - "[[Golden Ticket Mechanism]]"
   - "[[Data Infrastructure]]"
   - "[[Avatar]]"
   - "[[Clinical Trial]]"
@@ -56,6 +57,7 @@ related_facts:
   - "[[Restoring Gold Standard Science Executive Order]]"
   - "[[Science A New Golden Age 2026]]"
   - "[[Accelerating Medicines Partnership]]"
+  - "[[Protein Data Bank]]"
   - "[[Nobel Prize in Physiology or Medicine]]"
   - "[[DARPA]]"
 related_arguments:
@@ -112,7 +114,7 @@ updated: 2026-10-07
 > - **主任先锋奖对人资助[[Paradigm|范式]]（Pioneer Awards）** 摆脱以具体项目课题为单元的繁琐打分，提供为期七年、千万美元级且极少文书干扰的稳定长周期支持；实证表明获资助者产出高影响力顶级成果的概率达到传统 R01 课题负责人的两倍，成为白宫科技战略在全联邦推广的典范。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
 > - **[[Accelerating Medicines Partnership|加速药物伙伴关系]]（AMP）** 联合领先制药企业设立 12 个重点疾病攻坚方向，在阿尔茨海默病领域系统验证了 20 个关键治疗靶点，显著压缩救命疗法的研发周期。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 42)]]
 > - **院内院外无缝协同** 贝塞斯达总部设有全球最大的专职临床研究型医院（NIH Clinical Center），使基础分子生物学家与一线临床医师在物理空间上深度协同，践行[[Pasteur's Quadrant|巴斯德象限]]研究范式。
-> - **法定元科学实验机制** 设立元科学部门，有权在评审流程中开展部分[[Random Assignment|随机化]]（Random Allocation）、金券机制（Golden Tickets）与双盲评审对照实验，破除资深评审人对青年探索者的名气偏倚。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 31–32)]]
+> - **法定元科学实验机制** 设立元科学部门，有权在评审流程中开展部分[[Random Assignment|随机化]]（Random Allocation）、[[Golden Ticket Mechanism|金券机制]]（Golden Tickets）与双盲评审对照实验，破除资深评审人对青年探索者的名气偏倚。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 31–32)]]
 
 ---
 
@@ -122,7 +124,7 @@ updated: 2026-10-07
 > 1. **分子生物学与基因组学基石** 深度资助从重组 DNA、聚合酶链式反应（PCR）到人类基因组全图谱测序与 CRISPR 基因编辑技术的底层工具发明与理论发现。
 > 2. **重大慢性病与肿瘤攻坚** 主导“癌症登月计划”（Cancer Moonshot）与阿尔茨海默病国家战略，建立全球肿瘤基因组图谱（TCGA）数据库。
 > 3. **突发传染病与前沿疫苗防线** 设立疫苗研发中心（VRC），在冠状病毒与埃博拉病毒 mRNA 疫苗核心刺突蛋白修饰结构设计上做出决定性先驱贡献。
-> 4. **全球公共医学数据库与[[Data Infrastructure|数据基础设施]]** 运营 PubMed/MEDLINE、基因序列数据库 GenBank 及蛋白质数据库（PDB）关键支持网络，向全球科研界免费共享。
+> 4. **全球公共医学数据库与[[Data Infrastructure|数据基础设施]]** 运营 PubMed/MEDLINE、基因序列数据库 GenBank 及[[Protein Data Bank|蛋白质数据库]]（PDB）关键支持网络，向全球科研界免费共享。
 
 > [!citation-card] 斯托克斯论巴斯德模式在生物医学中的典范性
 > 在斯托克斯看来，路易·巴斯德正是这种科研类型的[[Avatar|化身]]：他致力于解答深奥的基础微生物与免疫学原理，而这全部源于他解决狂犬病、炭疽热以及发酵酸化的强烈现实愿望。NIH 的大量医学研究正是[[Pasteur's Quadrant|巴斯德象限]]最纯粹的现代体现。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]

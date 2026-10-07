@@ -9,10 +9,10 @@ aliases:
 summary: "国家主导颠覆性科技创新的组织与管理范式。以防范战略技术突袭为使命，赋予顶尖项目经理（PMs）高度自由裁量权，通过广泛领域资助公告（BAA）与海尔迈耶问卷筛选高风险方案。Fuchs（2010）实证论证其核心本质既非表层采办合同亦非组织文化，而是项目经理依托微观非正式制度重塑研发网络拓扑、引导国家技术轨道的嵌入型网络治理机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/innovation-policy
   - theme/science-policy
@@ -50,6 +50,8 @@ related_facts:
   - "[[ARPANET]]"
   - "[[Mansfield Amendment 1969]]"
   - "[[Sematech]]"
+  - "[[ARPA-E]]"
+  - "[[ARPA-H]]"
 related_arguments:
   - "[[Argument_Fuchs_2010_RP]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
@@ -143,7 +145,7 @@ updated: 2026-10-07
 > - **1958 — 危机诞生与黄金探索期** 应对斯普特尼克危机设立 [[DARPA|ARPA]]，催生 [[ARPANET]] 与计算机图形学。
 > - **1970s — 《[[Mansfield Amendment 1969|曼斯菲尔德修正案]]》与使命纪律化** 海尔迈耶确立评估准则，主导战术隐身技术（F-117）突破。
 > - **1980s — 产业[[Competitiveness|竞争力]]与半导体救亡** 联合产业界创立 [[Sematech]]，推动军民双用途技术协同。
-> - **2000s至今 — 全球 ARPA-like 机构大爆发** 模式被广泛复制到民用与国际领域：美国设立 ARPA-E（能源, 2009）、ARPA-H（医疗, 2022）、IARPA（情报, 2006）；英国设立 ARIA（2021）；德国设立 SPRIND（2019）；欧盟设立欧洲创新理事会（EIC, 2021）。
+> - **2000s至今 — 全球 ARPA-like 机构大爆发** 模式被广泛复制到民用与国际领域：美国设立 [[ARPA-E]]（能源, 2009）、[[ARPA-H]]（医疗, 2022）、IARPA（情报, 2006）；英国设立 ARIA（2021）；德国设立 SPRIND（2019）；欧盟设立欧洲创新理事会（EIC, 2021）。
 
 ---
 
@@ -162,4 +164,4 @@ updated: 2026-10-07
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 深度解构 [[DARPA]] 模式微观本质的里程碑论文，确立[[Embedded Network Governance|嵌入型网络治理]][[Paradigm|范式]]。
 > - Bonvillian & Van Atta (2011) — 提出 DARPA 作为国家技术变革“连通性发动机”的综合分析模型。
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 把 DARPA 写成不把共识小组当作主要决策者、由单个项目经理下技术赌注并组织团队的容器。国会后来设立的健康领域高级研究计划局（Advanced Research Projects Agency for Health, ARPA-H）和能源领域高级研究计划局（Advanced Research Projects Agency–Energy, ARPA-E）被当作同一逻辑的延伸。报告把成功归结为雇对人和给他们真正的裁量，并把海尔迈耶问答当作缺口绘图的纪律。它同时指出，中等规模科学里的[[Focused Research Organization|聚焦研究组织]]和X 实验室占据的是标准联邦资助装不下、风险投资又因不够商业而离开的另一块，不能由项目经理模式单独覆盖。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 把 DARPA 写成不把共识小组当作主要决策者、由单个项目经理下技术赌注并组织团队的容器。国会后来设立的健康领域高级研究计划局（[[ARPA-H|Advanced Research Projects Agency for Health]], ARPA-H）和能源领域高级研究计划局（Advanced Research Projects Agency–Energy, [[ARPA-E]]）被当作同一逻辑的延伸。报告把成功归结为雇对人和给他们真正的裁量，并把海尔迈耶问答当作缺口绘图的纪律。它同时指出，中等规模科学里的[[Focused Research Organization|聚焦研究组织]]和X 实验室占据的是标准联邦资助装不下、风险投资又因不够商业而离开的另一块，不能由项目经理模式单独覆盖。

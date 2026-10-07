@@ -11,7 +11,7 @@ aliases:
 summary: "技术创新与商业化过程中从实验室基础研究原型（TRL 3）向规模化产业应用（TRL 7）过渡时面临的资金断裂与开发鸿沟；需依赖研究与技术组织（RTOs）、耐心资本与使命导向公共采购等系统性机制进行桥接。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -47,13 +47,14 @@ related_facts:
   - "[[DARPA]]"
   - "[[Department of Energy]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[ARPA-E]]"
 related_arguments:
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
 confidence: high
 status: active
 created: 2026-06-10
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Valley of Death
@@ -113,7 +114,7 @@ updated: 2026-10-03
 >
 > - **第一阶段：线性转化与 [[Technology Transfer Office|TTO]] 垄断（1980 年代–1990 年代）** 伴随《[[Bayh-Dole Act of 1980|拜杜法案]]》（Bayh-Dole Act）实施，政策普遍假定基础研究完成后仅需依靠[[Technology Transfer|大学技术转移]]办公室（TTO）进行专利授权即可自然流入市场，忽视了 [[Technology Readiness Level|TRL]] 4 至 6 阶段的工程放大断层。
 > - **第二阶段：产学研中介与生态系统协同（2000 年代–2010 年代）** 认识到单点技术转移的局限性，各国广泛布局[[Innovation Ecosystem|创新生态系统]]与跨领域中介网络，设立 Fraunhofer 与 [[Manufacturing USA]] 等共性技术平台，依托[[Innovation Ecosystem|创新生态系统]]网络降低技术搜索与中试协作交易成本。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 10–11, 21–22)]]
-> - **第三阶段：国家作为第一推动者与[[Patient Capital|耐心资本]]主导（2015 年至今）** 面对气候变化与公共卫生等复杂大挑战，死亡之谷被重新界定为系统性方向转型与战略投资缺口。国家创新机构（如 [[DARPA]]、ARPA-E）与公共开发银行深度介入中试与早中期示范，将供给侧研发与需求侧公共采购深度捆绑。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–807)]]
+> - **第三阶段：国家作为第一推动者与[[Patient Capital|耐心资本]]主导（2015 年至今）** 面对气候变化与公共卫生等复杂大挑战，死亡之谷被重新界定为系统性方向转型与战略投资缺口。国家创新机构（如 [[DARPA]]、[[ARPA-E]]）与公共开发银行深度介入中试与早中期示范，将供给侧研发与需求侧公共采购深度捆绑。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–807)]]
 
 ---
 
@@ -149,6 +150,6 @@ updated: 2026-10-03
 > | [[Mission-Oriented Innovation Policy]] | 宏观[[Paradigm\|范式]] | 通过自上而下国家战略使命与自下而上多元探索协同牵引技术跨越转化断层。 |
 > | [[ROAR Framework]] | 政策框架 | 评估公共部门在跨越转化鸿沟过程中如何进行战略导向、组织能力建设、风险收益分配与政策评估。 |
 > | [[DARPA]] | 机构载体 | 美国国防高级研究计划局通过颠覆性项目经理制与敏捷里程碑资助有效穿越极端技术死亡之谷。 |
-> | [[Department of Energy]] | 机构载体 | 美国能源部通过 ARPA-E 与创新贷款担保机制支撑清洁能源技术穿越重资产示范陷阱。 |
+> | [[Department of Energy]] | 机构载体 | 美国能源部通过 [[ARPA-E]] 与创新贷款担保机制支撑清洁能源技术穿越重资产示范陷阱。 |
 > | [[Argument_OxfordUIDP_2019_UIPartnerships\|Oxford & UIDP (2019)]] | 实证[[Document\|文献]] | 系统论述大学与产业界合作中的死亡之谷成因、RTO 平台与生态系统建设机制。 |
 > | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | 理论文献 | 深刻阐释国家在跨越技术创新死亡之谷中的引领投资角色与耐心金融机制。 |

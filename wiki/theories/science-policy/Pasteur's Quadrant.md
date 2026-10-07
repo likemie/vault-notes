@@ -8,7 +8,7 @@ aliases:
 summary: "斯托克斯（Donald Stokes）1997年提出的科研分类框架，以二维矩阵取代线性基础/应用二分法，以巴斯德象限代表同时追求机理理解与现实应用的用启发性基础研究；2026年被确立为重构联邦科研资助与新型组织形态的战略基石。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 40
+theory_related_count: 42
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -58,6 +58,8 @@ related_facts:
   - "[[NSF Broader Impacts Criterion]]"
   - "[[NSF X-Labs]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"
+  - "[[Critical Assessment of Structure Prediction]]"
+  - "[[Protein Data Bank]]"
   - "[[Bell Labs]]"
 related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
@@ -142,7 +144,7 @@ updated: 2026-10-07
 > [!theory-proposition] 命题四｜巴斯德象限是当代前沿工程科学与新型科研组织（[[Focused Research Organization|FRO]] / [[NSF X-Labs|X-Labs]]）的制度锚点
 > **解释** [[Michael Kratsios|克拉齐奥斯]]在 2026 年白宫战略报告中指出，当代科学技术最重大的突破（如 2024 年诺贝尔化学奖的 AlphaFold 蛋白质结构预测、2025 年诺贝尔物理学奖的超导量子电路）均深植于巴斯德象限。然而，这类耗资数千万美元、需数十人工程团队攻关五至十年的中等规模公共品科学，在既有大学单 PI 实验室（偏向玻尔象限与学位周期）与营利性企业（偏向爱迪生象限与短期[[Return on Investment|投资回报]]）之间形成了巨大的制度空白。必须依据巴斯德象限逻辑，发展[[Focused Research Organization|聚焦研究组织]]（FRO）、技术创新与伙伴关系理事会（[[Directorate for Technology, Innovation and Partnerships|TIP]]）X 实验室等新型非营利载体，并推进组合式资助以承接中等规模工程科学。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 6–7, 20–26)]]
 >
-> **应用实例** 蛋白质结构预测 CASP 竞赛与蛋白质数据库（PDB）基础设施；帕金森病微创脑机接口与全人类免疫记忆[[Decodification|解码]]平台等中等规模工程科学项目。
+> **应用实例** 蛋白质结构预测 [[Critical Assessment of Structure Prediction|CASP]] 竞赛与[[Protein Data Bank|蛋白质数据库]]（PDB）基础设施；帕金森病微创脑机接口与全人类免疫记忆[[Decodification|解码]]平台等中等规模工程科学项目。
 
 ---
 

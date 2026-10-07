@@ -13,7 +13,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 37
+fact_related_count: 38
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[General Education]]"
   - "[[Competitiveness]]"
   - "[[Innovation Hub]]"
+  - "[[Golden Ticket Mechanism]]"
   - "[[Application Engineering]]"
   - "[[Big Science]]"
   - "[[Research Universities]]"
@@ -126,7 +127,7 @@ updated: 2026-10-07
 > [!finding-cards] 核心产品与业务矩阵
 > - **[[National Science Foundation|NSF]] [[NSF Regional Innovation Engines|区域创新引擎]]计划（NSF Regional Innovation Engines）** 投资数十亿美元在全美培育具有全球[[Competitiveness|竞争力]]的区域高科技[[Innovation Hub|创新中心]]，每个引擎资助周期长达 10 年、资助额最高达 1.6 亿美元。
 > - **X 实验室（[[NSF X-Labs|X-Labs]]）** 联邦资助首次明确向传统学术高校之外的独立研究组织直接拨付经费，采用全职跨学科工程团队、高度运营自主权与基于里程碑的考核模式，直接攻坚哺乳动物神经环路绘制等基础平台技术（与[[Focused Research Organization|聚焦研究组织]] FRO 机制高度呼应）。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 26)]]
-> - **金券机制（Golden Tickets）试点** 允许单个评审专家在评审委员会未能达成多数共识的情况下，一票保荐具有高方差与颠覆性潜力的非常规探索提案，有效防范同行评议中的学术风险规避。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
+> - **[[Golden Ticket Mechanism|金券机制]]（Golden Tickets）试点** 允许单个评审专家在评审委员会未能达成多数共识的情况下，一票保荐具有高方差与颠覆性潜力的非常规探索提案，有效防范同行评议中的学术风险规避。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
 > - **[[Metascience|元科学]]资助机制对照实验** 与元科学学者深度合作，在基金分配中开展抽签资助（Lotteries）、部分[[Random Assignment|随机化]]与分布式评审实验，以[[Mechanism Experiments|机制实验]]实证检验并优化科研资助分配。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 21)]]
 > - **国家融合加速器（Convergence Accelerator）** 采用类似 [[DARPA]] 的快节奏、挑战驱动管理模式，聚焦多学科交叉前沿瓶颈，加速颠覆性样机向市场转化。
 > - **国家创新网络与 [[NSF I-Corps|I-Corps]] 创业加速体系** 依托全美大学网络推广精益创业方法论，协助数千个大学实验室课题组完成商业概念验证与衍生企业创立。
@@ -193,5 +194,5 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统推介 [[National Science Foundation|NSF TIP]] 理事会的 X 实验室计划（资助独立非高校研究组织）、金券机制试点（破格资助非共识高风险提案）以及与[[Metascience|元科学]]学者合作开展的同行评议替代[[Mechanism Experiments|机制实验]]，将 TIP 确立为国家科研资助体制现代化的核心引领者。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统推介 [[National Science Foundation|NSF TIP]] 理事会的 X 实验室计划（资助独立非高校研究组织）、[[Golden Ticket Mechanism|金券机制]]试点（破格资助非共识高风险提案）以及与[[Metascience|元科学]]学者合作开展的同行评议替代[[Mechanism Experiments|机制实验]]，将 TIP 确立为国家科研资助体制现代化的核心引领者。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 结合企业学术合作与 NSF 外部咨询实践，详析 TIP 理事会的法定创设背景、《[[CHIPS and Science Act|芯片与科学法案]]》战略布局、[[NSF Regional Innovation Engines|区域创新引擎]]（Engines）公私协同机制以及全美高技术体验式人才培育战略。

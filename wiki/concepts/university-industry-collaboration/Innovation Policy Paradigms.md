@@ -11,7 +11,7 @@ aliases:
 summary: "Schot & Steinmueller（2018）与 Mazzucato（2018）等学者识别的创新政策三大范式——科学促增长（Frame 1）、国家创新系统（Frame 2）与变革转型（Frame 3），揭示了公共干预从弥补市场失灵到管理系统失灵再到主动进行市场塑造与方向性引导的递进演化逻辑"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -63,6 +63,7 @@ related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[NSF Regional Innovation Engines]]"
   - "[[DARPA]]"
+  - "[[ARPA-E]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Horizon Europe Missions]]"
 related_arguments:
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-27
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Innovation Policy Paradigms
@@ -172,7 +173,7 @@ updated: 2026-10-06
 > 现实中的[[National Innovation System|国家创新体系]]并不孤立运行单一范式，而是呈现多范式工具的有机层叠。
 
 > [!claim] Lindner et al. & Ulrichsen
-> **混合政策组合命题** 在当代发达国家的科技创新体系中，三大范式以分层互补的形态共存运行。例如，美国同时维系着大规模的大学自由探索基础研究资助（范式一）、[[National Science Foundation|NSF]] [[University-Based Research Center|产学合作研究中心]]与[[Technology Transfer|技术转移]]网络（范式二），并依托《[[CHIPS and Science Act|芯片与科学法案]]》（[[CHIPS and Science Act|CHIPS Act]]）[[NSF Regional Innovation Engines|区域创新引擎]]与 [[DARPA]]/ARPA-E 机制推进战略性使命攻坚（范式三要素）。政策制胜的关键在于根据具体创新阶段与社会目标，实现多范式工具箱的精细化组合与协同配置。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 43–44)]]
+> **混合政策组合命题** 在当代发达国家的科技创新体系中，三大范式以分层互补的形态共存运行。例如，美国同时维系着大规模的大学自由探索基础研究资助（范式一）、[[National Science Foundation|NSF]] [[University-Based Research Center|产学合作研究中心]]与[[Technology Transfer|技术转移]]网络（范式二），并依托《[[CHIPS and Science Act|芯片与科学法案]]》（[[CHIPS and Science Act|CHIPS Act]]）[[NSF Regional Innovation Engines|区域创新引擎]]与 [[DARPA]]/[[ARPA-E]] 机制推进战略性使命攻坚（范式三要素）。政策制胜的关键在于根据具体创新阶段与社会目标，实现多范式工具箱的精细化组合与协同配置。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 43–44)]]
 
 ---
 

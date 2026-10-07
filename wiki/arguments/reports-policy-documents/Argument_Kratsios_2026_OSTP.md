@@ -50,6 +50,8 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Center of Calculation]]"
   - "[[Decodification]]"
+  - "[[Golden Ticket Mechanism]]"
+  - "[[Portable Fellowship]]"
   - "[[Advance Market Commitments]]"
   - "[[Academic Medical Center]]"
   - "[[Scientific Method]]"
@@ -58,6 +60,7 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Megascience Installations]]"
   - "[[Pilot Scale Platform]]"
+  - "[[Cooperative Research and Development Agreement]]"
   - "[[Variable]]"
   - "[[Assemblage]]"
   - "[[Academic Engagement]]"
@@ -100,7 +103,12 @@ related_facts:
   - "[[Workforce Pell Grants 2025]]"
   - "[[Department of Energy]]"
   - "[[National Science Foundation]]"
+  - "[[ARPA-H]]"
+  - "[[ARPA-E]]"
+  - "[[Critical Assessment of Structure Prediction]]"
+  - "[[Protein Data Bank]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"
+  - "[[Fast Grants]]"
   - "[[United Kingdom Metascience Unit]]"
   - "[[Accelerating Medicines Partnership]]"
 related_arguments: []
@@ -116,7 +124,7 @@ title: "Argument_Kratsios_2026_OSTP"
 argument_key: "Argument_Kratsios_2026_OSTP"
 argument_display_title: "Science: A new golden age (Report to the President)"
 argument_kind: "report"
-argument_related_count: 79
+argument_related_count: 87
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -412,14 +420,14 @@ issuing_organization: "Office of Science and Technology Policy"
 美国科技史表明，重大科学突破往往依赖于突破传统大学系所边界的新型研究机构。
 
 > [!case] 冷泉港实验室、高等研究院与高级研究计划局模式
-> 冷泉港实验室自 1890 年起长期深耕现代生物学前沿；普林斯顿高等研究院自 1930 年起为阿尔伯特·爱因斯坦（Albert Einstein）、埃米·诺特（Emmy Noether）与库尔特·哥德尔（Kurt Gödel）等大师提供免受考核干扰的纯粹探索环境；[[DARPA]] 则摒弃共识评审，由具备深厚技术洞察的项目经理自主立项并调度跨学科团队，催生出全球定位系统（Global Positioning System, GPS）、互联网与隐身飞机等颠覆性技术。国会随后设立的健康领域高级研究计划局（Advanced Research Projects Agency for Health, ARPA-H）与能源领域高级研究计划局（Advanced Research Projects Agency–Energy, ARPA-E），进一步验证了使命导向型新型科研范式的生命力（p. 21）。
+> 冷泉港实验室自 1890 年起长期深耕现代生物学前沿；普林斯顿高等研究院自 1930 年起为阿尔伯特·爱因斯坦（Albert Einstein）、埃米·诺特（Emmy Noether）与库尔特·哥德尔（Kurt Gödel）等大师提供免受考核干扰的纯粹探索环境；[[DARPA]] 则摒弃共识评审，由具备深厚技术洞察的项目经理自主立项并调度跨学科团队，催生出全球定位系统（Global Positioning System, GPS）、互联网与隐身飞机等颠覆性技术。国会随后设立的健康领域高级研究计划局（[[ARPA-H|Advanced Research Projects Agency for Health]], ARPA-H）与能源领域高级研究计划局（Advanced Research Projects Agency–Energy, [[ARPA-E]]），进一步验证了使命导向型新型科研范式的生命力（p. 21）。
 
 #### 2. 中等规模且具公共品属性的工程科学难以容纳于现有大学系所
 
 耗资数千万美元、需数十至上百人工程团队持续攻关五至十年的中等规模公共品科学，在既有大学单 PI 实验室与产业营利性实体之间形成了巨大的制度空白（pp. 22–24）。
 
-> [!case] 蛋白质结构预测 CASP 竞赛与蛋白质数据库基础设施
-> 蛋白质折叠问题的突破并非单个大学系所的成果，它高度依赖于两套开放基础设施：一是全球六万余名科学家数十年自由共享解析成果的蛋白质数据库（Protein Data Bank, PDB），二是提供客观测量基准的蛋白质结构预测关键评估（Critical Assessment of Protein Structure Prediction, CASP）竞赛。最终由企业前沿实验室的交叉工程团队与慈善基金支持的大学[[Center of Calculation|计算中心]]共同攻克，展现了中等规模工程科学的独特组织需求（p. 22）。
+> [!case] 蛋白质结构预测 [[Critical Assessment of Structure Prediction|CASP]] 竞赛与[[Protein Data Bank|蛋白质数据库]]基础设施
+> 蛋白质折叠问题的突破并非单个大学系所的成果，它高度依赖于两套开放基础设施：一是全球六万余名科学家数十年自由共享解析成果的[[Protein Data Bank|蛋白质数据库]]（Protein Data Bank, PDB），二是提供客观测量基准的[[Critical Assessment of Structure Prediction|蛋白质结构预测关键评估]]（Critical Assessment of Protein Structure Prediction, CASP）竞赛。最终由企业前沿实验室的交叉工程团队与慈善基金支持的大学[[Center of Calculation|计算中心]]共同攻克，展现了中等规模工程科学的独特组织需求（p. 22）。
 
 为填补大学短周期课题组与企业专有研发之间的鸿沟，[[Focused Research Organization|聚焦研究组织]]（Focused Research Organization, FRO）等新型非营利载体应运而生。
 
@@ -449,10 +457,10 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 同行评议在区分合格与劣质研究上成效显著，但在识别颠覆性非共识成果时往往因过度依赖折衷妥协而扼杀真正创新；联邦资助体系必须引入基于机制设计理论的多元选拔工具（pp. 26–28）。
 
 > [!evidence-grid] 已有资助机制试验及其检验假设
-> - **金券机制** 赋予单名评审专家在缺乏群体共识时强行资助非常规提案的特权，结合双盲评审弱化名校名气偏倚，为青年探索者提供破局通道。（pp. 27–28）
+> - **[[Golden Ticket Mechanism|金券机制]]（[[Golden Ticket Mechanism]]）** 赋予单名评审专家在缺乏群体共识时强行资助非常规提案的特权，结合双盲评审弱化名校名气偏倚，为青年探索者提供破局通道。（pp. 27–28）
 > - **对人资助模式** 借鉴霍华德·休斯医学研究所（Howard Hughes Medical Institute, HHMI）与 NIH 主任先锋奖模式，提供为期七年、千万美元级且极少文书汇报的稳定支持，学者产出高影响论文的概率翻倍。（p. 28）
-> - **可携带式早期学者奖学金** 依托 NSF 研究生研究奖学金计划（Graduate Research Fellowship Program, GRFP）等项目，将资助直接赋权博士生本人并允许跨校跨组携带，激发对高水平导师的自主选择权。（p. 28）
-> - **快速资助通道（Fast Grants）** 简化繁琐流程，将申报审批压缩至 48 小时以内，适用于突发危机应对与窗口期极短的前沿探索。（p. 28）
+> - **可携带式早期学者奖学金（[[Portable Fellowship]]）** 依托 NSF 研究生研究奖学金计划（Graduate Research Fellowship Program, GRFP）等项目，将资助直接赋权博士生本人并允许跨校跨组携带，激发对高水平导师的自主选择权。（p. 28）
+> - **快速资助通道（[[Fast Grants]]）** 简化繁琐流程，将申报审批压缩至 48 小时以内，适用于突发危机应对与窗口期极短的前沿探索。（p. 28）
 
 同时，资助体系应协同运用事前资助与事后买单的[[Pull Mechanisms for Innovation|拉动机制]]，在目标明确但路径未知的领域设立重大奖金与[[Advance Market Commitments|高级市场承诺]]（Advance Market Commitments, [[Academic Medical Center|AMC]]）。
 
@@ -553,7 +561,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 
 > [!pathways] 畅通大学与国家实验室技术许可的制度路径
 > - **统一知识产权授权框架** 理顺全美大学差异巨大的技术转让政策，消除初创企业跨校获取许可时的巨大交易摩擦。（p. 41）
-> - **加速合作研发协议（CRADA）** 压缩国家实验室与产业伙伴订立合作研发协议（Cooperative Research and Development Agreement, CRADA）的审批周期，提高对市场响应的敏捷度。（p. 41）
+> - **加速[[Cooperative Research and Development Agreement|合作研发协议]]（[[Cooperative Research and Development Agreement|CRADA]]）** 压缩国家实验室与产业伙伴订立[[Cooperative Research and Development Agreement|合作研发协议]]（Cooperative Research and Development Agreement, CRADA）的审批周期，提高对市场响应的敏捷度。（p. 41）
 > - **深化其它交易授权（OTA）应用** 绕过繁琐的联邦传统采购法案，赋予机构依据其它交易授权（Other Transaction Authority, OTA）按商业灵活条款订立合作的权限。（p. 41）
 
 #### 6. 将私人部门研发力量制度化融入联邦资助与公私伙伴架构

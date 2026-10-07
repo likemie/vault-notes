@@ -1,0 +1,706 @@
+{
+  "source": "raw/The Technological Republic -- Alexander C_ Karp, Nicholas W_ Zamiska -- 1, 2025 -- Crown Currency -- isbn13 9780593798706 -- c841e5de12e3f68c0bcf1288ba6b2cda -- Anna’s Archive.epub",
+  "source_sha256": "6a53d7efff7064aca9a674decf57c504bf86a6a537e22e4e0bcde2dc65d385f9",
+  "encoding": "UTF-8",
+  "page_marker": "[p. N] = original EPUB print page break; marker may occur within a paragraph",
+  "note_marker": "[note:ID] links a text phrase to its corresponding chapter Notes file",
+  "spine": [
+    {
+      "title": "Cover",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_cvi_r1.xhtml",
+      "txt": "01_Cover.txt",
+      "pages": [],
+      "characters": 93,
+      "part": ""
+    },
+    {
+      "title": "Karp_9780593798706_epub3_fsq_r1",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_fsq_r1.xhtml",
+      "txt": "02_Karp_9780593798706_epub3_fsq_r1.txt",
+      "pages": [
+        "a",
+        "b"
+      ],
+      "characters": 4384,
+      "part": ""
+    },
+    {
+      "title": "Title Page",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_tp_r1.xhtml",
+      "txt": "03_Title_Page.txt",
+      "pages": [
+        "iii"
+      ],
+      "characters": 249,
+      "part": ""
+    },
+    {
+      "title": "Copyright",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_cop_r1.xhtml",
+      "txt": "04_Copyright.txt",
+      "pages": [
+        "iv"
+      ],
+      "characters": 2455,
+      "part": ""
+    },
+    {
+      "title": "Contents",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_toc_r1.xhtml",
+      "txt": "05_Contents.txt",
+      "pages": [
+        "ix",
+        "x"
+      ],
+      "characters": 843,
+      "part": ""
+    },
+    {
+      "title": "Dedication",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_ded_r1.xhtml",
+      "txt": "06_Dedication.txt",
+      "pages": [
+        "v"
+      ],
+      "characters": 300,
+      "part": ""
+    },
+    {
+      "title": "Epigraph",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_epi_r1.xhtml",
+      "txt": "07_Epigraph.txt",
+      "pages": [
+        "vii"
+      ],
+      "characters": 269,
+      "part": ""
+    },
+    {
+      "title": "List of Figures",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_loi_r1.xhtml",
+      "txt": "08_List_of_Figures.txt",
+      "pages": [
+        "xi",
+        "xii"
+      ],
+      "characters": 1136,
+      "part": ""
+    },
+    {
+      "title": "Preface",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_prf_r1.xhtml",
+      "txt": "09_Preface.txt",
+      "pages": [
+        "xiii",
+        "xiv",
+        "xv",
+        "xvi"
+      ],
+      "characters": 7964,
+      "part": ""
+    },
+    {
+      "title": "Part I: The Software Century",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_p001_r1.xhtml",
+      "txt": "10_Part_I_The_Software_Century.txt",
+      "pages": [
+        "1"
+      ],
+      "characters": 40,
+      "part": ""
+    },
+    {
+      "title": "Chapter One: Lost Valley",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_c001_r1.xhtml",
+      "txt": "Ch01_Lost_Valley.txt",
+      "pages": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "characters": 26741,
+      "part": "Part I: The Software Century",
+      "chapter": 1,
+      "notes_txt": "Ch01_Lost_Valley_Notes.txt",
+      "note_count": 31
+    },
+    {
+      "title": "Chapter Two: Sparks of Intelligence",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_c002_r1.xhtml",
+      "txt": "Ch02_Sparks_of_Intelligence.txt",
+      "pages": [
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "characters": 25174,
+      "part": "Part I: The Software Century",
+      "chapter": 2,
+      "notes_txt": "Ch02_Sparks_of_Intelligence_Notes.txt",
+      "note_count": 35
+    },
+    {
+      "title": "Chapter Three: The Winner’s Fallacy",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_c003_r1.xhtml",
+      "txt": "Ch03_The_Winner_s_Fallacy.txt",
+      "pages": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36"
+      ],
+      "characters": 15129,
+      "part": "Part I: The Software Century",
+      "chapter": 3,
+      "notes_txt": "Ch03_The_Winner_s_Fallacy_Notes.txt",
+      "note_count": 25
+    },
+    {
+      "title": "Chapter Four: End of the Atomic Age",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_c004_r1.xhtml",
+      "txt": "Ch04_End_of_the_Atomic_Age.txt",
+      "pages": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51",
+        "52",
+        "53",
+        "54"
+      ],
+      "characters": 36146,
+      "part": "Part I: The Software Century",
+      "chapter": 4,
+      "notes_txt": "Ch04_End_of_the_Atomic_Age_Notes.txt",
+      "note_count": 53
+    },
+    {
+      "title": "Part II: The Hollowing Out of the American Mind",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_p002_r1.xhtml",
+      "txt": "15_Part_II_The_Hollowing_Out_of_the_American_Mind.txt",
+      "pages": [
+        "55"
+      ],
+      "characters": 60,
+      "part": ""
+    },
+    {
+      "title": "Chapter Five: The Abandonment of Belief",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_c005_r1.xhtml",
+      "txt": "Ch05_The_Abandonment_of_Belief.txt",
+      "pages": [
+        "57",
+        "58",
+        "59",
+        "60",
+        "61",
+        "62",
+        "63",
+        "64",
+        "65",
+        "66",
+        "67",
+        "68"
+      ],
+      "characters": 25427,
+      "part": "Part II: The Hollowing Out of the American Mind",
+      "chapter": 5,
+      "notes_txt": "Ch05_The_Abandonment_of_Belief_Notes.txt",
+      "note_count": 39
+    },
+    {
+      "title": "Chapter Six: Technological Agnostics",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_c006_r1.xhtml",
+      "txt": "Ch06_Technological_Agnostics.txt",
+      "pages": [
+        "69",
+        "70",
+        "71",
+        "72",
+        "73",
+        "74",
+        "75",
+        "76",
+        "77",
+        "78",
+        "79",
+        "80",
+        "81",
+        "82"
+      ],
+      "characters": 26853,
+      "part": "Part II: The Hollowing Out of the American Mind",
+      "chapter": 6,
+      "notes_txt": "Ch06_Technological_Agnostics_Notes.txt",
+      "note_count": 29
+    },
+    {
+      "title": "Chapter Seven: A Balloon Cut Loose",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_c007_r1.xhtml",
+      "txt": "Ch07_A_Balloon_Cut_Loose.txt",
+      "pages": [
+        "83",
+        "84",
+        "85",
+        "86",
+        "87",
+        "88",
+        "89",
+        "90",
+        "91",
+        "92",
+        "93",
+        "94",
+        "95",
+        "96"
+      ],
+      "characters": 27310,
+      "part": "Part II: The Hollowing Out of the American Mind",
+      "chapter": 7,
+      "notes_txt": "Ch07_A_Balloon_Cut_Loose_Notes.txt",
+      "note_count": 32
+    },
+    {
+      "title": "Chapter Eight: “Flawed Systems”",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_c008_r1.xhtml",
+      "txt": "Ch08_Flawed_Systems.txt",
+      "pages": [
+        "97",
+        "98",
+        "99",
+        "100",
+        "101",
+        "102"
+      ],
+      "characters": 11996,
+      "part": "Part II: The Hollowing Out of the American Mind",
+      "chapter": 8,
+      "notes_txt": "Ch08_Flawed_Systems_Notes.txt",
+      "note_count": 11
+    },
+    {
+      "title": "Chapter Nine: Lost in Toyland",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_c009_r1.xhtml",
+      "txt": "Ch09_Lost_in_Toyland.txt",
+      "pages": [
+        "103",
+        "104",
+        "105",
+        "106",
+        "107",
+        "108",
+        "109",
+        "110",
+        "111"
+      ],
+      "characters": 18437,
+      "part": "Part II: The Hollowing Out of the American Mind",
+      "chapter": 9,
+      "notes_txt": "Ch09_Lost_in_Toyland_Notes.txt",
+      "note_count": 24
+    },
+    {
+      "title": "Part III: The Engineering Mindset",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_p003_r1.xhtml",
+      "txt": "21_Part_III_The_Engineering_Mindset.txt",
+      "pages": [
+        "113"
+      ],
+      "characters": 47,
+      "part": ""
+    },
+    {
+      "title": "Chapter Ten: The Eck Swarm",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_c010_r1.xhtml",
+      "txt": "Ch10_The_Eck_Swarm.txt",
+      "pages": [
+        "115",
+        "116",
+        "117",
+        "118",
+        "119",
+        "120",
+        "121"
+      ],
+      "characters": 13204,
+      "part": "Part III: The Engineering Mindset",
+      "chapter": 10,
+      "notes_txt": "Ch10_The_Eck_Swarm_Notes.txt",
+      "note_count": 19
+    },
+    {
+      "title": "Chapter Eleven: The Improvisational Startup",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_c011_r1.xhtml",
+      "txt": "Ch11_The_Improvisational_Startup.txt",
+      "pages": [
+        "122",
+        "123",
+        "124",
+        "125",
+        "126",
+        "127",
+        "128",
+        "129"
+      ],
+      "characters": 14627,
+      "part": "Part III: The Engineering Mindset",
+      "chapter": 11,
+      "notes_txt": "Ch11_The_Improvisational_Startup_Notes.txt",
+      "note_count": 12
+    },
+    {
+      "title": "Chapter Twelve: The Disapproval of the Crowd",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_c012_r1.xhtml",
+      "txt": "Ch12_The_Disapproval_of_the_Crowd.txt",
+      "pages": [
+        "130",
+        "131",
+        "132",
+        "133",
+        "134",
+        "135",
+        "136",
+        "137",
+        "138"
+      ],
+      "characters": 18106,
+      "part": "Part III: The Engineering Mindset",
+      "chapter": 12,
+      "notes_txt": "Ch12_The_Disapproval_of_the_Crowd_Notes.txt",
+      "note_count": 32
+    },
+    {
+      "title": "Chapter Thirteen: Building a Better Rifle",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_c013_r1.xhtml",
+      "txt": "Ch13_Building_a_Better_Rifle.txt",
+      "pages": [
+        "139",
+        "140",
+        "141",
+        "142",
+        "143",
+        "144",
+        "145",
+        "146",
+        "147",
+        "148",
+        "149",
+        "150",
+        "151",
+        "152",
+        "153",
+        "154",
+        "155"
+      ],
+      "characters": 34186,
+      "part": "Part III: The Engineering Mindset",
+      "chapter": 13,
+      "notes_txt": "Ch13_Building_a_Better_Rifle_Notes.txt",
+      "note_count": 57
+    },
+    {
+      "title": "Chapter Fourteen: A Cloud or a Clock",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_c014_r1.xhtml",
+      "txt": "Ch14_A_Cloud_or_a_Clock.txt",
+      "pages": [
+        "156",
+        "157",
+        "158",
+        "159",
+        "160",
+        "161",
+        "162",
+        "163",
+        "164",
+        "165",
+        "166",
+        "167"
+      ],
+      "characters": 23627,
+      "part": "Part III: The Engineering Mindset",
+      "chapter": 14,
+      "notes_txt": "Ch14_A_Cloud_or_a_Clock_Notes.txt",
+      "note_count": 37
+    },
+    {
+      "title": "Part IV: Rebuilding the Technological Republic",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_p004_r1.xhtml",
+      "txt": "27_Part_IV_Rebuilding_the_Technological_Republic.txt",
+      "pages": [
+        "169"
+      ],
+      "characters": 60,
+      "part": ""
+    },
+    {
+      "title": "Chapter Fifteen: Into the Desert",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_c015_r1.xhtml",
+      "txt": "Ch15_Into_the_Desert.txt",
+      "pages": [
+        "171",
+        "172",
+        "173",
+        "174",
+        "175",
+        "176",
+        "177",
+        "178"
+      ],
+      "characters": 15360,
+      "part": "Part IV: Rebuilding the Technological Republic",
+      "chapter": 15,
+      "notes_txt": "Ch15_Into_the_Desert_Notes.txt",
+      "note_count": 19
+    },
+    {
+      "title": "Chapter Sixteen: Piety and Its Price",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_c016_r1.xhtml",
+      "txt": "Ch16_Piety_and_Its_Price.txt",
+      "pages": [
+        "179",
+        "180",
+        "181",
+        "182",
+        "183",
+        "184",
+        "185",
+        "186",
+        "187",
+        "188",
+        "189"
+      ],
+      "characters": 22654,
+      "part": "Part IV: Rebuilding the Technological Republic",
+      "chapter": 16,
+      "notes_txt": "Ch16_Piety_and_Its_Price_Notes.txt",
+      "note_count": 30
+    },
+    {
+      "title": "Chapter Seventeen: The Next Thousand Years",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_c017_r1.xhtml",
+      "txt": "Ch17_The_Next_Thousand_Years.txt",
+      "pages": [
+        "190",
+        "191",
+        "192",
+        "193",
+        "194",
+        "195",
+        "196",
+        "197",
+        "198",
+        "199",
+        "200",
+        "201",
+        "202",
+        "203",
+        "204"
+      ],
+      "characters": 30694,
+      "part": "Part IV: Rebuilding the Technological Republic",
+      "chapter": 17,
+      "notes_txt": "Ch17_The_Next_Thousand_Years_Notes.txt",
+      "note_count": 46
+    },
+    {
+      "title": "Chapter Eighteen: An Aesthetic Point of View",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_c018_r1.xhtml",
+      "txt": "Ch18_An_Aesthetic_Point_of_View.txt",
+      "pages": [
+        "205",
+        "206",
+        "207",
+        "208",
+        "209",
+        "210",
+        "211",
+        "212",
+        "213",
+        "214",
+        "215",
+        "216",
+        "217",
+        "218"
+      ],
+      "characters": 26554,
+      "part": "Part IV: Rebuilding the Technological Republic",
+      "chapter": 18,
+      "notes_txt": "Ch18_An_Aesthetic_Point_of_View_Notes.txt",
+      "note_count": 31
+    },
+    {
+      "title": "Acknowledgments",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_ack_r1.xhtml",
+      "txt": "32_Acknowledgments.txt",
+      "pages": [
+        "219",
+        "220"
+      ],
+      "characters": 3359,
+      "part": ""
+    },
+    {
+      "title": "Notes",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_nts_r1.xhtml",
+      "txt": "33_Notes.txt",
+      "pages": [
+        "221",
+        "222",
+        "223",
+        "224",
+        "225",
+        "226",
+        "227",
+        "228",
+        "229",
+        "230",
+        "231",
+        "232",
+        "233",
+        "234",
+        "235",
+        "236",
+        "237",
+        "238",
+        "239",
+        "240",
+        "241",
+        "242",
+        "243",
+        "244",
+        "245",
+        "246",
+        "247",
+        "248",
+        "249",
+        "250",
+        "251",
+        "252",
+        "253",
+        "254",
+        "255",
+        "256",
+        "257",
+        "258",
+        "259"
+      ],
+      "characters": 86797,
+      "part": ""
+    },
+    {
+      "title": "Bibliography",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_bib_r1.xhtml",
+      "txt": "34_Bibliography.txt",
+      "pages": [
+        "261",
+        "262",
+        "263",
+        "264",
+        "265",
+        "266",
+        "267",
+        "268",
+        "269",
+        "270",
+        "271",
+        "272",
+        "273",
+        "274",
+        "275",
+        "276",
+        "277",
+        "278",
+        "279",
+        "280",
+        "281",
+        "282",
+        "283",
+        "284"
+      ],
+      "characters": 52570,
+      "part": ""
+    },
+    {
+      "title": "Art Credits",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_cre_r1.xhtml",
+      "txt": "35_Art_Credits.txt",
+      "pages": [
+        "285",
+        "286"
+      ],
+      "characters": 2293,
+      "part": ""
+    },
+    {
+      "title": "Index",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_idx_r1.xhtml",
+      "txt": "36_Index.txt",
+      "pages": [
+        "287",
+        "288",
+        "289",
+        "290",
+        "291",
+        "292",
+        "293",
+        "294",
+        "295"
+      ],
+      "characters": 15888,
+      "part": ""
+    },
+    {
+      "title": "About the Authors",
+      "epub_path": "OEBPS/xhtml/Karp_9780593798706_epub3_ata_r1.xhtml",
+      "txt": "37_About_the_Authors.txt",
+      "pages": [
+        "297"
+      ],
+      "characters": 955,
+      "part": ""
+    },
+    {
+      "title": "next-reads",
+      "epub_path": "OEBPS/xhtml/next-reads.xhtml",
+      "txt": "38_next_reads.txt",
+      "pages": [],
+      "characters": 251,
+      "part": ""
+    }
+  ]
+}

@@ -10930,6 +10930,18 @@
     ]
   },
   {
+    "title": "Golden Ticket Mechanism",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Golden Ticket Mechanism.md",
+    "aliases": [
+      "金券机制",
+      "金券评审机制",
+      "金券评审制",
+      "Golden Ticket Review",
+      "Golden Ticket"
+    ]
+  },
+  {
     "title": "Grand Challenges",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Grand Challenges.md",
@@ -11103,6 +11115,18 @@
       "Conditionalities",
       "Policy Conditionality",
       "护栏条款与附加条件"
+    ]
+  },
+  {
+    "title": "Portable Fellowship",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Portable Fellowship.md",
+    "aliases": [
+      "可携带式学术资助",
+      "可携带式奖学金",
+      "可携带式科研资助",
+      "Portable Fellowships",
+      "可携带资助"
     ]
   },
   {
@@ -12431,6 +12455,17 @@
       "work-integrated learning",
       "工作整合学习",
       "cooperative education program"
+    ]
+  },
+  {
+    "title": "Cooperative Research and Development Agreement",
+    "type": "concept",
+    "path": "wiki/concepts/university-industry-collaboration/Cooperative Research and Development Agreement.md",
+    "aliases": [
+      "合作研发协议",
+      "CRADA",
+      "合作研究与开发协议",
+      "CRADAs"
     ]
   },
   {
@@ -26176,6 +26211,17 @@
     ]
   },
   {
+    "title": "Critical Assessment of Structure Prediction",
+    "type": "fact",
+    "path": "wiki/facts/global/Critical Assessment of Structure Prediction.md",
+    "aliases": [
+      "蛋白质结构预测关键评估",
+      "CASP",
+      "国际蛋白质结构预测竞赛",
+      "蛋白质结构盲测评估"
+    ]
+  },
+  {
     "title": "Definition and Selection of Competencies",
     "type": "fact",
     "path": "wiki/facts/global/Definition and Selection of Competencies.md",
@@ -26373,6 +26419,17 @@
       "国际成人能力评估项目",
       "成人能力国际评估",
       "OECD PIAAC"
+    ]
+  },
+  {
+    "title": "Protein Data Bank",
+    "type": "fact",
+    "path": "wiki/facts/global/Protein Data Bank.md",
+    "aliases": [
+      "蛋白质数据库",
+      "PDB",
+      "wwPDB",
+      "蛋白质数据银行"
     ]
   },
   {
@@ -29120,6 +29177,27 @@
     ]
   },
   {
+    "title": "ARPA-E",
+    "type": "fact",
+    "path": "wiki/facts/us/ARPA-E.md",
+    "aliases": [
+      "高级能源研究计划局",
+      "美国高级能源研究计划局",
+      "Advanced Research Projects Agency-Energy",
+      "Advanced Research Projects Agency - Energy"
+    ]
+  },
+  {
+    "title": "ARPA-H",
+    "type": "fact",
+    "path": "wiki/facts/us/ARPA-H.md",
+    "aliases": [
+      "高级健康研究计划局",
+      "美国高级健康研究计划局",
+      "Advanced Research Projects Agency for Health"
+    ]
+  },
+  {
     "title": "Bell Labs",
     "type": "fact",
     "path": "wiki/facts/us/Bell Labs.md",
@@ -30571,6 +30649,17 @@
     ]
   },
   {
+    "title": "Fast Grants",
+    "type": "fact",
+    "path": "wiki/facts/us/Fast Grants.md",
+    "aliases": [
+      "快速资助计划",
+      "极速科研资助",
+      "Fast Grants Initiative",
+      "极速资助"
+    ]
+  },
+  {
     "title": "Focus Center Research Program",
     "type": "fact",
     "path": "wiki/facts/us/Focus Center Research Program.md",
@@ -31444,6 +31533,11 @@
     "title": "Argument_Wolf_2025_InternationalResearchCollab",
     "type": "argument",
     "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Wolf_2025_InternationalResearchCollab.md"
+  },
+  {
+    "title": "Argument_Karp_Zamiska_2025_Technological_Republic",
+    "type": "argument",
+    "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md"
   },
   {
     "title": "Argument_Kelly_Licona_2018_EpistemicPractices",

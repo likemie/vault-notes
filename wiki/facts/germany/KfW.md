@@ -11,7 +11,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -36,13 +36,14 @@ related_theories:
 related_persons:
   - "[[Mariana Mazzucato]]"
 related_facts:
+  - "[[Protein Data Bank]]"
   - "[[Horizon Europe Missions]]"
 related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # KfW
@@ -52,7 +53,7 @@ updated: 2026-10-03
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 德国复兴信贷银行（Kreditanstalt für Wiederaufbau, KfW）是德国由联邦政府（持股 80%）与各联邦州（持股 20%）共同拥有的国有公共开发银行（Public Development Bank, PDB）。作为全球规模最大、信用评级最高的国家政策性金融机构之一，KfW 是提供跨周期[[Patient Capital|耐心资本]]、推动德国能源转型（Energiewende）与促进中小企业（Mittelstand）及前沿绿色技术创新的核心金融枢纽。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
+> 德国复兴信贷银行（Kreditanstalt für Wiederaufbau, KfW）是德国由联邦政府（持股 80%）与各联邦州（持股 20%）共同拥有的国有公共开发银行（Public Development Bank, [[Protein Data Bank|PDB]]）。作为全球规模最大、信用评级最高的国家政策性金融机构之一，KfW 是提供跨周期[[Patient Capital|耐心资本]]、推动德国能源转型（Energiewende）与促进中小企业（Mittelstand）及前沿绿色技术创新的核心金融枢纽。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 成立于 1948 年，原初使命是管理和分配二战后美国马歇尔计划（Marshall Plan）的欧洲复兴专项援助资金，支持战后德国工业、住房与基础设施的废墟重建。

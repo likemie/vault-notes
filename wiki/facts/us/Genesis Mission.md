@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[Apollo Program]]"
   - "[[Human Genome Project]]"
+  - "[[Critical Assessment of Structure Prediction]]"
   - "[[Restoring Gold Standard Science Executive Order]]"
   - "[[Science A New Golden Age 2026]]"
   - "[[Office of Science and Technology Policy]]"
@@ -78,7 +79,7 @@ updated: 2026-10-07
 > - **核心治理杠杆** 组建转型人工智能模型联合体（Transformational AI Models Consortium），建立美国科学云（American Science Cloud），投资闭环自动化实验机器人，并与核验侧行政令形成闭环。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 62–64)]]
 
 > [!proc] 决定计划成败的四大关键维度（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, pp. 63–64]]）
-> 1. **战略问题甄选（Problem Selection）** 遴选至少 20 项兼具巨大国家战略价值与 AI 适用性的攻关挑战（覆盖先进制造、生物技术、关键材料、核裂变与聚变、量子信息科学及先进制程半导体）。入选挑战必须满足三大条件：超大组合搜索空间（Combinatorial Search Space）、丰富的高质量结构化数据底座，以及类似蛋白质结构预测关键评估（CASP）的客观衡量基准。
+> 1. **战略问题甄选（Problem Selection）** 遴选至少 20 项兼具巨大国家战略价值与 AI 适用性的攻关挑战（覆盖先进制造、生物技术、关键材料、核裂变与聚变、量子信息科学及先进制程半导体）。入选挑战必须满足三大条件：超大组合搜索空间（Combinatorial Search Space）、丰富的高质量结构化数据底座，以及类似[[Critical Assessment of Structure Prediction|蛋白质结构预测关键评估]]（CASP）的客观衡量基准。
 > 2. **跨界联合体与机构能力重构（Institutional Architecture）** 突破传统联邦发包限制，通过 2025 年 12 月成立的“转型人工智能模型联合体”，组织 24 家顶级科技企业与国家实验室深度结盟，基于能源部专有物理与材料数据联合预训练科学基础大模型。
 > 3. **公共数据解封与科学云建设（Data Accessibility & American Science Cloud）** 破解海量科研数据被锁在专有期刊付费墙后或因缺乏长期存储经费而被废弃的困境；系统整理实验失败与阴性结果记录，转化为机器可读的标准化训练资产。
 > 4. **闭环自主实验基础设施（Closed-loop Autonomous Experimentation）** 将 AI [[Hypothesis|假设]]生成与物理世界实体实验自动化连接。传统先进材料从实验室到商业部署需耗时约 20 年，通过自适应机器人实验室将合成与表征周期压缩一个数量级。

@@ -8,7 +8,7 @@ aliases:
 summary: "指超越单一学科、产业与国家疆界，涉及广泛社会、技术、生态与行为维度的系统性复杂难题；构成了现代使命导向科技创新治理的根本战略锚点；在 AI 与前沿科学时代，重大挑战演化为通过高杠杆问题表述与客观盲测基准（如 CASP、创世纪计划 20 项国家挑战）将庞大组合搜索空间转化为可验证技术阶梯的核心政策工具。"
 type: concept
 domain: "science-policy"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -47,6 +47,7 @@ related_persons:
 related_facts:
   - "[[UN Sustainable Development Goals]]"
   - "[[Lund Declaration 2009]]"
+  - "[[Critical Assessment of Structure Prediction]]"
   - "[[Human Genome Project]]"
   - "[[DARPA]]"
   - "[[Genesis Mission]]"
@@ -82,7 +83,7 @@ updated: 2026-10-07
 > *Addressing grand challenges—whether traveling to the moon, battling climate change, or tackling modern care problems—requires investments by both private and public actors. The role of the public sector here is not just about de-risking, and leveling the playing [[Champ|field]], but tilting the playing field in the direction of the desired goals... Missions have emerged as perhaps the primary approach to tackle grand challenges through innovations.*
 
 > [!citation-card] 问题表述与基准评估作为重大挑战的技术催化剂
-> 明确的问题表述与客观基准是攻克重大科技挑战的核心杠杆。自 1994 年发起的蛋白质结构预测关键评估（Critical Assessment of Structure Prediction, CASP）通过两年一度的双盲评测，为全球结构生物学界建立了无可争议的标准真值，直接奠定了 AlphaFold 解决 50 年蛋白质折叠难题的基础。正如[[Human Genome Project|人类基因组计划]]将测序从象牙塔手工转变为工业级可购买能力、[[DARPA]] 自动驾驶挑战赛开启智能交通产业一样，2025 年[[Genesis Mission|创世纪计划]]为[[Department of Energy|美国能源部]]（DOE）锁定了 20 项国家关键挑战，要求具备巨大的组合搜索空间、丰富的数据沉淀与明确的评测指标。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 43–44, 62)]]
+> 明确的问题表述与客观基准是攻克重大科技挑战的核心杠杆。自 1994 年发起的[[Critical Assessment of Structure Prediction|蛋白质结构预测关键评估]]（Critical Assessment of Structure Prediction, CASP）通过两年一度的双盲评测，为全球结构生物学界建立了无可争议的标准真值，直接奠定了 AlphaFold 解决 50 年蛋白质折叠难题的基础。正如[[Human Genome Project|人类基因组计划]]将测序从象牙塔手工转变为工业级可购买能力、[[DARPA]] 自动驾驶挑战赛开启智能交通产业一样，2025 年[[Genesis Mission|创世纪计划]]为[[Department of Energy|美国能源部]]（DOE）锁定了 20 项国家关键挑战，要求具备巨大的组合搜索空间、丰富的数据沉淀与明确的评测指标。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 43–44, 62)]]
 >
 > *Well-formulated grand challenges with rigorous benchmarking unlock downstream discovery trees... The Genesis Mission directs the Department of Energy to identify at least 20 grand science and technology challenges characterized by massive combinatorial search spaces, rich structured data, and clear benchmarks.*
 
@@ -113,7 +114,7 @@ updated: 2026-10-07
 > - **[[Directionality of Innovation|创新方向性]]引导（Directionality）** 明确科技投入的长期战略意图，克服市场自发演化在长周期、高风险基础设施上的投资不足。
 > - **巨大组合搜索空间（Massive Combinatorial Search Space）** 针对传统实验室人工试错穷尽不了的广阔解空间（如新材料分子结构、高温超导成分组合、蛋白质折叠变异）。
 > - **高丰度结构化数据基底（Rich Structured Training Data）** 具备物理规律约束、仪器原位采集或历史实验积累的高质量结构化数据集，能够支撑科学 AI 模型的持续训练与推理。
-> - **客观可验证的基准指标（Objective & Verifiable Benchmarks）** 具有无可争议的测试真值与定量评估标准（如 CASP 盲测、分子结合亲和力测定），避免评审中的人情偏见与模糊定性。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–44, 62)]]
+> - **客观可验证的基准指标（Objective & Verifiable Benchmarks）** 具有无可争议的测试真值与定量评估标准（如 [[Critical Assessment of Structure Prediction|CASP]] 盲测、分子结合亲和力测定），避免评审中的人情偏见与模糊定性。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–44, 62)]]
 
 ---
 
@@ -155,14 +156,14 @@ updated: 2026-10-07
 > 探讨如何通过严密的评测架构克服传统学术同行评审的保守性，驱动颠覆性科学发现。
 
 > [!claim] Kratsios, M. (2026)
-> **基准盲测与高杠杆问题表述的催化效应** 科学资助的最大瓶颈往往不是资金规模，而是问题表述的模糊性与评审标准的偏狭；设立具有明确盲测真值的重大挑战（如 CASP 蛋白质结构预测竞赛与 [[DARPA]] 自动驾驶挑战赛），能够在不指定具体技术路径的前提下，最大化激发全球跨学科团队的算法创新与工程探索，并使革命性突破（如 AlphaFold）得以在客观基准上被瞬间公认，从而解锁整片下游科学发现与商业应用生态。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 43–44, 62)]]
+> **基准盲测与高杠杆问题表述的催化效应** 科学资助的最大瓶颈往往不是资金规模，而是问题表述的模糊性与评审标准的偏狭；设立具有明确盲测真值的重大挑战（如 [[Critical Assessment of Structure Prediction|CASP]] 蛋白质结构预测竞赛与 [[DARPA]] 自动驾驶挑战赛），能够在不指定具体技术路径的前提下，最大化激发全球跨学科团队的算法创新与工程探索，并使革命性突破（如 AlphaFold）得以在客观基准上被瞬间公认，从而解锁整片下游科学发现与商业应用生态。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 43–44, 62)]]
 
 ---
 
 ## 应用案例
 
 > [!finding-cards] 全球与联邦科学政策中的标志性重大挑战实践
-> - **CASP 蛋白质结构预测挑战（1994–至今）** 结构生物学领域的双盲基准挑战赛；通过持续提供未公开实验晶体结构作为盲测真值，建立了全行业公认的客观评分标准，最终在 2020 年 CASP14 上见证了 AlphaFold2 实现原子级精度的历史性突破，彻底攻克困扰生物学 50 年的重大挑战。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–44)]]
+> - **[[Critical Assessment of Structure Prediction|CASP]] 蛋白质结构预测挑战（1994–至今）** 结构生物学领域的双盲基准挑战赛；通过持续提供未公开实验晶体结构作为盲测真值，建立了全行业公认的客观评分标准，最终在 2020 年 CASP14 上见证了 AlphaFold2 实现原子级精度的历史性突破，彻底攻克困扰生物学 50 年的重大挑战。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–44)]]
 > - **[[Human Genome Project|人类基因组计划]]（HGP）** 跨越 13 年的跨国[[Big Science|大科学]]挑战；设定了“完整测序人类 30 亿碱基对”的严格定量目标，成功将基因测序从耗时耗力的高门槛实验室手艺转变为标准化、低成本的通用商业能力，开启了现代精准医疗产业。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 43–44)]]
 > - **[[DARPA]] 自动驾驶大挑战赛（2004/2005）** 目标明确（穿越莫哈韦沙漠 150 英里）、路径完全不限的拉动式竞赛；以 200 万美元奖金撬动了全美高校与初创企业的算法软硬件突击，孵化出激光雷达、实时路径规划与现代无人驾驶整个新兴产业生态。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 29)]]
 > - **[[Genesis Mission|创世纪计划]] 20 项国家关键科技挑战（2025–2026）** 依据总统备忘录由能源部联合各机构锁定先进制造、生物技术、关键材料、核聚变/裂变、量子信息与半导体等领域的 20 个重大攻坚课题，依托“美国科学与安全平台”（ASSP）汇聚国家实验室算力、私有数据与闭环机器人实验室全面突破。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 62)]]
@@ -192,5 +193,5 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统论述重大挑战在现代国家科技战略中的高杠杆问题表述功能，分析 CASP、[[Human Genome Project|HGP]] 与 [[DARPA]] 挑战赛的成功机理，提出基于组合搜索空间、结构化数据与盲测基准的重大挑战筛选三原则，并阐释[[Genesis Mission|创世纪计划]] 20 项国家科技挑战的组织推进逻辑。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统论述重大挑战在现代国家科技战略中的高杠杆问题表述功能，分析 [[Critical Assessment of Structure Prediction|CASP]]、[[Human Genome Project|HGP]] 与 [[DARPA]] 挑战赛的成功机理，提出基于组合搜索空间、结构化数据与盲测基准的重大挑战筛选三原则，并阐释[[Genesis Mission|创世纪计划]] 20 项国家科技挑战的组织推进逻辑。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 提出第三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]理论框架，系统论述从宏观重大社会挑战向具体国家使命与政策组合的解构机制，论证公共部门[[Tilting the Playing Field|倾斜竞争场地]]与塑造市场的制度能力。

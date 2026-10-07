@@ -8,7 +8,7 @@ aliases:
 summary: "国家科技政策与科研资助治理中主动构建和优化资助工具、风险梯度、资助对象与组织形态的战略配置框架；通过融合对人资助、金券制、拉动机制、聚焦研究组织与元科学随机对照实验，克服单一同行评议的避险惯性并平衡纯好奇探索与应用导向攻坚。"
 type: concept
 domain: "science-policy"
-related_count: 34
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Academic Risk Aversion]]"
   - "[[Research Universities]]"
   - "[[Metascience]]"
+  - "[[Golden Ticket Mechanism]]"
   - "[[Advance Market Commitments]]"
   - "[[Academic Medical Center]]"
   - "[[Pragmatic Paradigm]]"
@@ -48,6 +49,7 @@ related_persons:
   - "[[Donald Stokes]]"
   - "[[Vannevar Bush]]"
 related_facts:
+  - "[[Fast Grants]]"
   - "[[National Institutes of Health]]"
   - "[[United Kingdom Metascience Unit]]"
   - "[[Office of Science and Technology Policy]]"
@@ -94,7 +96,7 @@ updated: 2026-10-07
 ## 核心要素与运作维度
 
 > [!feature] 组合式科研资助的五大核心要素
-> - **多元化机制菜单（Mechanisms Menu Diversity）** 打破单一共识打分制，引入[[Heterogeneity|异质性]]选拔机制：赋予单名专家否决共识特权的“金券机制”、支持长周期自由探索的“对人资助”（People-Not-Projects）、48 小时极速审批的“快速资助通道”（Fast Grants）、事后为成果买单的“[[Pull Mechanisms for Innovation|拉动机制]]”（悬赏奖金与[[Advance Market Commitments|高级市场承诺]] [[Academic Medical Center|AMC]]），以及赋予博士生自主权的“可携带奖学金”。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26–30)]]
+> - **多元化机制菜单（Mechanisms Menu Diversity）** 打破单一共识打分制，引入[[Heterogeneity|异质性]]选拔机制：赋予单名专家否决共识特权的“[[Golden Ticket Mechanism|金券机制]]”、支持长周期自由探索的“对人资助”（People-Not-Projects）、48 小时极速审批的“快速资助通道”（[[Fast Grants]]）、事后为成果买单的“[[Pull Mechanisms for Innovation|拉动机制]]”（悬赏奖金与[[Advance Market Commitments|高级市场承诺]] [[Academic Medical Center|AMC]]），以及赋予博士生自主权的“可携带奖学金”。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26–30)]]
 > - **组织生态适配度矩阵（Institutional Fit Matrix）** 改变将全部资助押注于传统高校课题组的“单一兵种”困境；针对中等规模且具公共品属性的工程科学瓶颈，创设和资助[[Focused Research Organization|聚焦研究组织]]（FRO）、国家实验室集群与公私前竞争联合体。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 22–26)]]
 > - **探索与利用的动态平衡（Exploration vs. Exploitation）** 在组合中精准划分“高确定性战略攻坚”与“深厚迷雾中的自由搜索”；既依托[[Pasteur's Quadrant|巴斯德象限]]聚焦国家关键技术瓶颈，又保留黎曼几何式的纯好奇心研究以持续充实国家公共知识蓄水池。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 30)]]
 > - **[[Metascience|元科学]]循证实验与自我审计（Metascience [[Randomised Controlled Trials|RCTs]] & Audit）** 设立直属局长的元科学部门，运用[[Randomised Controlled Trials|随机对照试验]]（如对比随机资助与传统评审产出质量）评估资助有效性，并基于海尔迈耶问答（[[Heilmeier Catechism]]）对资助组合开展独立的投入产出与去官僚化审计。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 31–32)]]
@@ -130,7 +132,7 @@ updated: 2026-10-07
 > 探讨如何通过引入非共识选拔工具与受控政策实验，识别并扶持真正具备颠覆性潜力的突破性科学。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
-> **多元选拔与[[Metascience|元科学]]实验确证假说** 传统同行评议在识别劣质研究上极为有效，但在面对颠覆性、非共识成果时往往因过度折衷妥协而扼杀真正创新。组合式资助框架基于机制设计理论引入多元选拔通道：通过“金券机制”打破群体平庸共识，通过为期七年千万美元级的“对人资助”赋予拔尖科学家充分的[[Academic Freedom|学术自由]]。更关键的是，资助机构必须设立具有法定授权的[[Metascience|元科学]]部门，通过开展[[Randomised Controlled Trials|随机对照试验]]（如对比盲审、金券制与打分制的产出质量）以[[Scientific Method|科学方法]]评估资助政策本身，建立自我纠错与动态优化的国家科研治理闭环。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26–28, 31–32)]]
+> **多元选拔与[[Metascience|元科学]]实验确证假说** 传统同行评议在识别劣质研究上极为有效，但在面对颠覆性、非共识成果时往往因过度折衷妥协而扼杀真正创新。组合式资助框架基于机制设计理论引入多元选拔通道：通过“[[Golden Ticket Mechanism|金券机制]]”打破群体平庸共识，通过为期七年千万美元级的“对人资助”赋予拔尖科学家充分的[[Academic Freedom|学术自由]]。更关键的是，资助机构必须设立具有法定授权的[[Metascience|元科学]]部门，通过开展[[Randomised Controlled Trials|随机对照试验]]（如对比盲审、金券制与打分制的产出质量）以[[Scientific Method|科学方法]]评估资助政策本身，建立自我纠错与动态优化的国家科研治理闭环。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26–28, 31–32)]]
 
 ---
 

@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Scientific Literacy]]"
   - "[[Epistemology]]"
+  - "[[Cooperative Research and Development Agreement]]"
   - "[[Technology Transfer Office]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Public Value]]"
@@ -102,7 +103,7 @@ updated: 2026-10-07
 > - **发布主体** 白宫总统执行办公室、白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）。
 > - **执行主体** 内阁级[[National Science and Technology Council|国家科学技术委员会]]（NSTC）、各联邦资助部门（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]、能源部等）。
 > - **适用对象** [[Research Universities|研究型大学]]科研团队、国家实验室科研人员与工业界研发中心。
-> - **政策工具** 跨部门预算协同、产学研合作研发协议（CRADA）、竞争性研发项目招标。
+> - **政策工具** 跨部门预算协同、产学研[[Cooperative Research and Development Agreement|合作研发协议]]（CRADA）、竞争性研发项目招标。
 
 > [!pathways]- 实施路径
 > - **中央 / 上级设计** 依托 NSTC 每年联合 OMB 发布跨部门科技预算优先序指南，将五大目标分解至各部委。

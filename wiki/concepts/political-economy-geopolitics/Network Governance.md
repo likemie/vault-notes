@@ -8,7 +8,7 @@ aliases:
 summary: "以多元行动者横向协作、关系协调与异层结构替代垂直科层或纯粹市场的公共治理方式；在批判教育政策与演化科技政策中揭示国家并未空心化退场，而是表现为积极特许赋权、资助中介并缔造市场的异层担保人，以及通过去中心化探索网络引领使命导向创新的催化者。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 67
+related_count: 68
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -82,6 +82,7 @@ related_facts:
   - "[[Australian Schools Plus]]"
   - "[[Australian Education Research Organisation]]"
   - "[[Social Ventures Australia]]"
+  - "[[ARPA-E]]"
   - "[[OECD]]"
   - "[[Manaiakalani Education Trust]]"
   - "[[Cognition Education]]"
@@ -99,7 +100,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-04
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Network Governance
@@ -217,7 +218,7 @@ updated: 2026-10-06
 > 阐明网络治理在科技与产业攻关中如何破除垂直官僚僵化，以灵活的项目经理制与组合管理激发跨部门创新。
 
 > [!claim] Mazzucato, M.
-> **去中心化探索型公共网络的创新机制** [[Mariana Mazzucato|马祖卡托]]指出，应对21世纪重大社会挑战（如气候变化、公共健康）要求国家超越垂直指令或单纯将研发外包给商业咨询公司的做法，构建具备内部动态能力的“去中心化探索型公共网络”（如 [[DARPA]]、ARPA-E）。在这种网络化治理中，公共部门充当领头投资人并设立宏观战略使命方向，同时赋予去中心化项目团队极大的立项、试错与快速止损自主权，激励大学、国家实验室与私营企业开展自下而上的多元技术路线探索，实现战略集中与战术分散的有机统合。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
+> **去中心化探索型公共网络的创新机制** [[Mariana Mazzucato|马祖卡托]]指出，应对21世纪重大社会挑战（如气候变化、公共健康）要求国家超越垂直指令或单纯将研发外包给商业咨询公司的做法，构建具备内部动态能力的“去中心化探索型公共网络”（如 [[DARPA]]、[[ARPA-E]]）。在这种网络化治理中，公共部门充当领头投资人并设立宏观战略使命方向，同时赋予去中心化项目团队极大的立项、试错与快速止损自主权，激励大学、国家实验室与私营企业开展自下而上的多元技术路线探索，实现战略集中与战术分散的有机统合。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 
 > [!claim] [[Erica Fuchs|Fuchs, E. R. H.]]
 > **[[Embedded Network Governance|嵌入型网络治理]]与研发网络的架构重塑** [[Erica Fuchs|埃丽卡·福克斯]]指出，去中心化探索网络能够成功引导国家战略[[Technological Trajectories|技术轨道]]，关键在于公共代理人依托其专业威望与网络中心位置实施“嵌入型网络治理”。项目经理不仅消极撮合产学研合作，更主动运用[[Network Plasticity|网络可塑性]]（Network plasticity），通过识别前沿方向、播撒共同主题、组织闭门工作坊打破企业专有技术壁垒以强制知识横向流动、提供第三方声誉背书以及严格断乳退出，在不挑选单一赢家的前提下重塑研发者社会网络，克服了[[Vertical Disintegration|纵向碎片化产业生态]]中长期平台协调失灵的结构性困境。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1144–1146)]]
@@ -346,7 +347,7 @@ updated: 2026-10-06
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 论述如何通过“去中心化探索型公共网络”（如 [[DARPA]]、ARPA-E）实现使命导向攻坚，并尖锐批判将核心智识外包给商业咨询公司所导致的国家去能力化风险。
+> - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 论述如何通过“去中心化探索型公共网络”（如 [[DARPA]]、[[ARPA-E]]）实现使命导向攻坚，并尖锐批判将核心智识外包给商业咨询公司所导致的国家去能力化风险。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 基于对 DARPA MTO 在 1992 至 2008 年间 4 项半导体关键技术资助的长程扎根[[Case Study|案例研究]]，首次提出[[Embedded Network Governance|嵌入型网络治理]][[Paradigm|范式]]，阐明公共代理人如何主动重塑研发社会网络以引导国家战略[[Technological Trajectories|技术轨道]]。
 > - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 结合 Gephi 网络拓扑与税法追踪，深入剖析澳大利亚[[Venture Philanthropy|风险慈善]]网络如何依托异层国家实践改写公共教育再分配。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统检视新西兰基础教育向网络治理转型过程中，话语变迁与 9 大公私化改革实例。

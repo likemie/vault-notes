@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 67
+fact_related_count: 69
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -80,6 +80,8 @@ related_facts:
   - "[[VLSI Project]]"
   - "[[MOSIS]]"
   - "[[Sematech]]"
+  - "[[ARPA-H]]"
+  - "[[ARPA-E]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[Information Science and Technology Study Group]]"
   - "[[Department of Energy]]"
@@ -130,7 +132,7 @@ updated: 2026-10-07
 > - **1980s — 战略计算倡议、[[VLSI Project|VLSI]] 设计革命与半导体危机应对** 面对日本半导体制造业的激烈竞争，发起战略计算倡议（Strategic Computing Initiative, SCI）；资助超大规模集成电路（Very Large Scale Integration, VLSI）结构化设计方法论革命并创立[[MOSIS|金属氧化物半导体实现服务]]（MOSIS）硅代工原型试验平台；资助加州大学伯克利分校与斯坦福大学开发精简指令集计算机（Reduced Instruction Set Computer, RISC）微处理器架构；在 1980–1989 年间资助 9 亿美元实施全额行政主导的甚高速集成电路（Very High Speed Integrated Circuits, VHSIC）计划；1987 年联合 14 家芯片制造巨头共同创立[[Sematech|半导体制造技术战略联盟]]（SEMATECH），每年提供 1 亿美元对等匹配资助（占 50%），推动公私协同与前竞争共性技术攻坚；全力推进全球定位系统（Global Positioning System, GPS）的军民部署。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 180–183)]]; [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–730)]]
 > - **1990s — 冷战后军民两用转型与微系统基础探索** 在加里·登曼（Gary Denman）、拉里·林恩（Larry Lynn）与弗兰克·费尔南德斯（Frank Fernandez）领导下，DARPA 重点转向军民两用（Dual-use）技术开发与跨学科基础探索；微系统技术办公室（MTO，前身为电子技术办公室 ETO）依托开放广泛领域公告（[[Broad Agency Announcement]], [[Broad Agency Announcement|BAA]]），前瞻性资助硅锗（Silicon-Germanium, SiGe）异质结双极晶体管与应变硅材料研发，突破硅基物理极限，为后摩尔时代微处理器奠定核心工艺基石。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138)]]
 > - **2000s — [[Tony Tether|托尼·瑟瑟]]采办改革、“弥合鸿沟”与自主系统挑战赛** 2001 年托尼·瑟瑟（Tony Tether）出任局长，确立“弥合鸿沟”（Bridging the Gap）施政纲领，推行采办机制的激进变革；资助重心由大学转向工业界传统国防巨头，引入 12–16 个月硬性里程碑审查（Go/No-Go）与涉密限制；微观层面项目经理继续运用[[Embedded Network Governance|嵌入型网络治理]]攻克 3D 封装与超高性能片内纳米光子通信芯片互连；同期资助敏捷感知认知系统（CALO 项目，孵化出 Siri），并在 2004 与 2005 年举办两届无人车大挑战赛（DARPA Grand Challenge），开创了现代[[Pull Mechanisms for Innovation|拉动机制]]与自动驾驶产业生态。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138, 1142–1144)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21, 28)]]
-> - **2010s–至今 — 生物技术拓展、多域协同与联邦科研体制扩散** 设立生物技术办公室（Biological Technologies Office, BTO），在新冠疫情暴发前数年即通过 ADEPT 计划前瞻资助莫德纳（Moderna）等团队研发 mRNA 疫苗平台与核酸药物递送技术；在空战领域推行“小妖精”（Gremlins）低成本无人机群空中回收验证。进入 2020 年代，DARPA 的项目经理制、挑战赛模式与前竞争公私协同机制被广泛确立为国家科技体制改革的典范，直接启发了美国卫生高级研究计划署（ARPA-H）、高级能源研究计划署（ARPA-E）、国家科学基金会技术、创新与伙伴关系（[[Directorate for Technology, Innovation and Partnerships|TIP]]）理事会以及[[Focused Research Organization|聚焦研究组织]]（FRO）等新型科研建制的落地。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 807)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21, 26, 32)]]
+> - **2010s–至今 — 生物技术拓展、多域协同与联邦科研体制扩散** 设立生物技术办公室（Biological Technologies Office, BTO），在新冠疫情暴发前数年即通过 ADEPT 计划前瞻资助莫德纳（Moderna）等团队研发 mRNA 疫苗平台与核酸药物递送技术；在空战领域推行“小妖精”（Gremlins）低成本无人机群空中回收验证。进入 2020 年代，DARPA 的项目经理制、挑战赛模式与前竞争公私协同机制被广泛确立为国家科技体制改革的典范，直接启发了美国卫生高级研究计划署（[[ARPA-H]]）、高级能源研究计划署（[[ARPA-E]]）、国家科学基金会技术、创新与伙伴关系（[[Directorate for Technology, Innovation and Partnerships|TIP]]）理事会以及[[Focused Research Organization|聚焦研究组织]]（FRO）等新型科研建制的落地。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 807)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21, 26, 32)]]
 
 ---
 
@@ -197,7 +199,7 @@ updated: 2026-10-07
 
 > [!indicators]- 体系成效指标
 > - **全球[[General Purpose Technology|通用技术]]（GPTs）引领度** 几乎所有支撑[[Fourth Industrial Revolution|第四次工业革命]]的核心支柱（计算网络、卫星定位、自主感知、核酸工程）均源于 DARPA 的早期公共研发资助。
-> - **全球机构模仿与[[Paradigm|范式]]扩散** 催生了全美及全球一系列“ARPA 式”专门攻关机构：[[Department of Energy|美国能源部]]高级能源研究计划署（ARPA-E）、美国卫生高级研究计划署（ARPA-H）、情报高级研究计划署（IARPA）、英国高级研究与发明署（ARIA）以及日本内阁府登月型研发计划（Moonshot/ImPACT）。
+> - **全球机构模仿与[[Paradigm|范式]]扩散** 催生了全美及全球一系列“ARPA 式”专门攻关机构：[[Department of Energy|美国能源部]]高级能源研究计划署（[[ARPA-E]]）、美国卫生高级研究计划署（[[ARPA-H]]）、情报高级研究计划署（IARPA）、英国高级研究与发明署（ARIA）以及日本内阁府登月型研发计划（Moonshot/ImPACT）。
 > - **[[Pull Mechanisms for Innovation|拉动机制]]与新型科研组织雏形** DARPA 率先推行的技术挑战赛（[[Grand Challenges]]）与项目经理自主调度模式，成为当代国家创新政策中[[Pull Mechanisms for Innovation|拉动机制]]、[[National Science Foundation|NSF TIP]] X 实验室及[[Focused Research Organization|聚焦研究组织]]（FRO）的制度原型。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21, 26, 28)]]
 > - **军民融合双向外溢效益** 早期出于冷战国防通信抗毁性研发的网络技术，外溢转化为数万亿美元规模的全球数字经济产业生态。
 
@@ -271,8 +273,8 @@ updated: 2026-10-07
 > | [[Precompetitive Research]] | Concept | DARPA 资助 SEMATECH 与大学探索所依托的核心研发性质分类。 |
 > | [[VLSI Project]] | Fact (Program) | 日本 1970 年代运行的半导体研发联盟，促使 DARPA 发起 SCI 倡议与资助 SEMATECH。 |
 > | [[ESPRIT]] | Fact (Program) | 欧洲同期由欧共体资助运行的跨国信息技术伞状研发联盟对照案例。 |
-> | [[Department of Energy]] | Fact (Organization) | 借鉴 DARPA 模式于 2009 年设立高级能源研究计划署（ARPA-E）。 |
-> | [[National Institutes of Health]] | Fact (Organization) | 与 DARPA 共同构成美国战后引领前沿技术浪潮的联邦创新机构双壁，下设 ARPA-H。 |
+> | [[Department of Energy]] | Fact (Organization) | 借鉴 DARPA 模式于 2009 年设立高级能源研究计划署（[[ARPA-E]]）。 |
+> | [[National Institutes of Health]] | Fact (Organization) | 与 DARPA 共同构成美国战后引领前沿技术浪潮的联邦创新机构双壁，下设 [[ARPA-H]]。 |
 > | [[Office of Naval Research]] | Fact (Organization) | 与 DARPA 协同构成战后美国资助大学计算机先锋探索的军方支柱机构。 |
 > | [[National Science Foundation]] | Fact (Organization) | 与 DARPA 共同支撑了战后美国大学计算机科学系所与基础设施的建制化；旗下 [[Directorate for Technology, Innovation and Partnerships\|TIP]] 理事会设立 X 实验室借鉴 DARPA 模式。 |
 > | [[Michael Kratsios]] | Person | 在《[[Science A New Golden Age 2026\|科学：新的黄金时代]]》中强调推广 DARPA 项目经理自由裁量权与拉动机制以破除同行评议避险倾向。 |

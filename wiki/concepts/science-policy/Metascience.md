@@ -8,7 +8,7 @@ aliases:
 summary: "将严谨科学方法、实证评估与机制设计工具反身应用于科学事业自身的研究与治理领域；通过对同行评议、资助规则、项目经理自由裁量权及机构组织形态开展对照实验与量化追踪，旨在降低科研行政摩擦、破除平庸共识避险偏好，优化国家科学企业的整体配置效率。"
 type: concept
 domain: "science-policy"
-related_count: 26
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Feedback]]"
   - "[[Reproducibility Crisis]]"
+  - "[[Golden Ticket Mechanism]]"
   - "[[Pull Mechanisms for Innovation]]"
   - "[[Advance Market Commitments]]"
   - "[[Academic Medical Center]]"
@@ -41,6 +42,7 @@ related_instruments:
 related_persons:
   - "[[Michael Kratsios]]"
 related_facts:
+  - "[[Fast Grants]]"
   - "[[DARPA]]"
   - "[[United Kingdom Metascience Unit]]"
   - "[[Science A New Golden Age 2026]]"
@@ -123,9 +125,9 @@ updated: 2026-10-07
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
 > **多元资助机制组合拓宽探索边界命题** 元科学的实证研究表明，不存在放之四海而皆准的单一资助模式，必须构建多元工具组合：
-> 1. **金券机制（Golden Tickets）** 赋予单名专家在缺乏共识时强行资助非共识提案的特权；
+> 1. **[[Golden Ticket Mechanism|金券机制]]（Golden Tickets）** 赋予单名专家在缺乏共识时强行资助非共识提案的特权；
 > 2. **长周期对人资助（People, not projects）** 提供为期 7 年、免于频繁中期汇报的稳定支持，使学者产出高影响力颠覆成果的概率翻倍；
-> 3. **48 小时快速资助（Fast Grants）** 简化申请审批流程，适应窗口期极短的前沿探索；
+> 3. **48 小时快速资助（[[Fast Grants]]）** 简化申请审批流程，适应窗口期极短的前沿探索；
 > 4. **事后买单的[[Pull Mechanisms for Innovation|拉动机制]]（[[Pull Mechanisms for Innovation|拉动机制]]）** 通过技术悬赏与[[Advance Market Commitments|高级市场承诺]]（[[Academic Medical Center|AMC]]）激发跨界外部解题者的突破潜力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 27–30)]]
 
 ---

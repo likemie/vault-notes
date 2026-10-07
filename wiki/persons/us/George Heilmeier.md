@@ -7,7 +7,7 @@ summary: "美国工程师、发明家与科技政策管理者，液晶显示（L
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -36,12 +36,13 @@ related_persons: []
 related_facts:
   - "[[DARPA]]"
   - "[[Mansfield Amendment 1969]]"
+  - "[[ARPA-E]]"
 related_arguments:
   - "[[Argument_Fuchs_2010_RP]]"
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-07
 ---
 
 # George Heilmeier
@@ -102,7 +103,7 @@ updated: 2026-10-04
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **方法与管理路径** 首创的 [[Heilmeier Catechism]] 成为全球战略性研发机构（包括 [[DARPA]]、ARPA-E、IARPA、英国 ARIA 及各国国家实验室）立项评估与中期审查的通用黄金标准。
+> - **方法与管理路径** 首创的 [[Heilmeier Catechism]] 成为全球战略性研发机构（包括 [[DARPA]]、[[ARPA-E]]、IARPA、英国 ARIA 及各国国家实验室）立项评估与中期审查的通用黄金标准。
 > - **政策与机构路径** 在任内确立了 DARPA 作为“国防技术突破孵化器”的定位，主导资助洛克希德“拥蓝”（Have Blue）隐形战机验证项目，直接孕育了世界上第一款隐形战斗轰炸机 F-117，彻底改变了现代空中战争的战术与地缘平衡。
 > - **产业技术传播** 发明的液晶显示原理孕育了万亿美元级的现代平板显示与数字屏幕产业生态。
 
