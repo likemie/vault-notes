@@ -3,46 +3,55 @@ title: Michael Kratsios
 aliases:
   - 迈克尔·克拉齐奥斯
   - 克拉齐奥斯
-summary: "美国当代关键科技政策制定者，曾任美国第4任首席技术官（CTO）及国防部负责研发与工程的副部长，2025年起主管白宫科技政策办公室（OSTP），主导制定AI行动计划与创世纪计划，是推动美国科技体制转向“技术型社会契约”的核心行政设计者与执行人。"
+summary: "美国当代科技政策制定者与战略管理者，曾任美国第4任首席技术官（CTO）及国防部负责研究与工程的副部长，2025年起主管白宫科学技术政策办公室（OSTP）；2026年向总统呈交《科学：新的黄金时代》，主张在坚守公共基础研究资助的同时，以组合式资助、新型科研组织、本土制造转化与生成核验协同全面重构战后科研体制。"
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 18
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
 born: "1986"
 lifespan: "1986–至今"
 tags:
-  - person/us
+  - person/policy-architect
   - theme/science-policy
   - theme/geopolitics
   - theme/artificial-intelligence
+  - region/us
 related_concepts:
   - "[[Technology-Oriented Social Contract]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Paradigm]]"
   - "[[Research Universities]]"
-  - "[[Disciplina and Doctrina]]"
-  - "[[Emergence]]"
   - "[[Research Security]]"
   - "[[Success Criteria]]"
   - "[[Academic Freedom]]"
+  - "[[Process Knowledge]]"
+  - "[[Portfolio-Based Research Funding]]"
+  - "[[Focused Research Organization]]"
+  - "[[Metascience]]"
+  - "[[Linear Model of Innovation]]"
 related_theories:
   - "[[Social Contract of Science]]"
+  - "[[Pasteur's Quadrant]]"
 related_facts:
   - "[[Office of Science and Technology Policy]]"
   - "[[Genesis Mission]]"
   - "[[Science A New Golden Age 2026]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Restoring Gold Standard Science Executive Order]]"
+  - "[[Department of Energy]]"
+  - "[[National Science Foundation]]"
+  - "[[National Institutes of Health]]"
 related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
 related_methods:
   - "[[Correlational Research]]"
+  - "[[Randomised Controlled Trials]]"
 confidence: high
-status: draft
+status: active
 created: 2026-10-05
 updated: 2026-10-07
 ---
@@ -54,93 +63,92 @@ updated: 2026-10-07
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国当代关键技术官僚与政策操盘手，曾任白宫总统副助理、美国第 4 任首席技术官（CTO）及国防部负责研究与工程的代理副部长；2025 年出任特朗普第二任期[[Office of Science and Technology Policy|白宫科学技术政策办公室]]（OSTP）主任兼总统科学顾问。
-> - **核心角色** 美国保守派“国家优先”科技治理体系的核心总设计师，也是推动二战后传统[[Social Contract of Science|科学社会契约]]向“[[Technology-Oriented Social Contract|技术型社会契约]]”历史性跨越的关键行政推手。
-> - **代表贡献** 深度主导起草 2019 年《美国人工智能倡议》、2020 年《未来产业法案》框架；2025 年主导制定国家《AI 行动计划》与《[[Genesis Mission|创世纪计划]]》（The Genesis Mission），执行特朗普总统关于跨过传统学术体系直接组织战略技术能力的行政部署。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062, 1065)]]
+> - **身份位置** 美国当代关键科技政策制定者与战略操盘手，曾任白宫总统副助理、美国第 4 任首席技术官（Chief Technology Officer, CTO）及国防部负责研究与工程的副部长（Acting Under Secretary of Defense for Research and Engineering）；2025 年出任[[Office of Science and Technology Policy|白宫科学技术政策办公室]]（Office of Science and Technology Policy, OSTP）主任兼总统科学顾问。
+> - **核心角色** 美国国家科技战略重构的关键总设计师；受唐纳德·特朗普（Donald J. Trump）总统委托，对照 1945 年[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）报告，主导起草并呈交 2026 年白宫战略报告《[[Science A New Golden Age 2026|科学：新的黄金时代]]》，系统开启战后八十年美国科研体制的深刻转型。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. v–ix)]]
+> - **代表贡献** 深度主导起草 2019 年《美国人工智能倡议》、2020 年《未来产业法案》框架；2025 年启动跨部门[[Genesis Mission|创世纪计划]]（The Genesis Mission）与《[[Restoring Gold Standard Science Executive Order|恢复黄金标准科学行政令]]》；2026 年提出以四大支柱为核心的科技体制重组方案，并制定 2028 财年联邦研发预算优先事项指导备忘录。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 86)]]
 
-> [!citation-card] 高举技术的总统指令与治理转向
-> 2025 年 3 月 26 日，美国总统特朗普在致其科学顾问迈克尔·克拉齐奥斯（Michael Kratsios）的信中高举技术；新契约的核心逻辑不再是以科学知识为基础的认知权威，而是以技术能力为导向，强调国家对关键核心能力的快速获取、工程部署与行政控制。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
+> [!citation-card] 总统科技战略委托与历史定位
+> 2025 年 3 月 26 日，总统致信 OSTP 主任迈克尔·克拉齐奥斯，提出三大历史性关切：如何保持关键新兴技术领先、如何减轻科研行政羁绊以释放突破潜能、如何确保科技红利惠及全体国民；这直接触发了对 1945 年布什报告的系统性对照与重构。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. viii–ix)]]
 >
-> *On March 26, 2025, President Trump held technology high in his directive letter to Michael Kratsios; the core rationale of the emerging contract is no longer rooted in cognitive authority based on scientific knowledge, but in capability-driven technology acquisition, emphasizing rapid capture, deployment, and control.*
+> 克拉齐奥斯将改革的成功标准确立为：十年后美国研究者能够确信，曾经受阻而无法探究的关键科学难题，如今已获得充分的探索自由。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. vi)]]
 
 ---
 
 ## 生平与职涯
 
-> [!timeline] 生平与职涯
-> - **1986年** 出生于美国，后毕业于普林斯顿大学政治系，专攻前沿科技创新与地缘政治竞争。
-> - **2010s 前期** 长期担任硅谷风险投资界重要幕僚（Thiel Capital），深入参与尖端人工智能与数字科技早期资本孵化。
-> - **2017–2021年** 担任白宫总统副助理兼美国首席技术官（CTO），2019 年主导发布白宫首个国家级 AI 战略纲领，并兼任五角大楼代理研发副部长，统筹国防关键技术军工转化。
-> - **2021–2024年** 投身产业前沿，担任领先大模型数据架构企业 Scale AI 董事总经理，倡导公私融合的大模型国家安全基础设施建设。
-> - **2025年起** 特朗普第二任期被正式任命为 [[Office of Science and Technology Policy|OSTP]] 主任兼总统最高科技顾问，主持对联邦科研资助格局的颠覆性重组。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
+> [!timeline] 生平与职涯发展
+> - **1986年** 出生于美国，后毕业于普林斯顿大学政治系，专攻前沿科技创新与地缘政治博弈。
+> - **2010s 前期** 长期担任硅谷风险投资机构（Thiel Capital）幕僚长与投资总监，深入参与尖端人工智能与数字科技早期资本孵化。
+> - **2017–2021年** 担任白宫总统副助理兼美国首席技术官（CTO），2019 年主导发布白宫首个国家级 AI 战略纲领，并兼任五角大楼代理研发副部长，统筹国防关键技术转化与军民融合。
+> - **2021–2024年** 投身产业前沿，担任领先大模型数据架构企业 Scale AI 董事总经理，倡导公私融合的国家级人工智能基础设施建设。
+> - **2025年起** 出任白宫科学技术政策办公室（OSTP）主任兼总统科学顾问，主管对联邦科研资助格局与创新生态的系统性重组。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. v)]]
 
 ---
 
 ## 主要著作与思想发展
 
-> [!work-line] 主要著作
-> - **2019 — *American [[Generative Artificial Intelligence|Artificial Intelligence]] Initiative*** 确立联邦优先投资、数据开放、监管松绑与国际规则制定的国家级 AI 四维推进[[Paradigm|范式]]。
-> - **2020 — *Industries of the Future*** 将人工智能、量子信息科学、5G 先进通信、先进制造和合成生物学确立为美国必须维持排他性霸权的五大“未来产业”。
-> - **2025 — *American AI Action Plan & The [[Genesis Mission]]*** 依托跨部门垂直动员，动用国家实验室与商业大模型巨头直接承接国家核心任务，将传统大学基础研究边缘化。
-> - **2026 — *Trump Administration Science & Technology Highlights*** 发布执政首年白皮书，正式宣告美国科技政策迈入以战略技术为中心的“再集中与再动员”新纪元。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
-> - **2026年7月21日 — *[[Science A New Golden Age 2026|Science: A New Golden Age]]*** 向总统呈交的对照[[Science, The Endless Frontier 1945|布什报告]]的诊断。四项目标是把科学家个人放在遗留机构之前，改变研究经费的分配、拨付与评估，为发现接上产业转化能力，并在仍需要人手与手艺的前提下为人工智能改建科研事业。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. v–vi)]]
+> [!work-line] 主要著作与政策产出
+> - **2019 — *American [[Generative Artificial Intelligence|Artificial Intelligence]] Initiative*** 确立联邦优先投资、数据开放、监管松绑与国际规则制定的国家级 AI 四维推进范式。
+> - **2020 — *Industries of the Future*** 将人工智能、量子信息科学、5G 先进通信、先进制造和合成生物学确立为美国必须维持排他性优势的五大未来产业。
+> - **2025 — *American AI Action Plan & The [[Genesis Mission]]*** 依托跨部门垂直动员，整合能源部（[[Department of Energy]], DOE）国家实验室算力与商业模型生态，赋能科学假设生成与自主实验。
+> - **2026年1月 — *Trump Administration Science & Technology Highlights*** 发布执政首年白皮书，宣告科技政策迈入以战略技术为中心的“再集中与再动员”新阶段。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
+> - **2026年7月 — *[[Science A New Golden Age 2026|Science: A New Golden Age]]*** 呈交总统的里程碑式国家科技体制重构报告。系统清算单向[[Linear Model of Innovation|线性模型]]，提出重塑对人资助机制、将科学发现锚定于本土先进制造、重振学徒手艺与[[Process Knowledge|过程知识]]、在智能时代实现生成与核验同步扩大的四大政策支柱。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 1–86)]]
 
 ---
 
-## 核心思想
+## 核心思想体系
 
-> [!claim] 核心主张
-> 克拉齐奥斯的政策哲学代表了新保守主义技术现实主义的典型[[Paradigm|范式]]：他主张科技竞争是决定 21 世纪大国兴衰与制度存亡的零和博弈；国家资助不应再充当“为研究而研究”的象牙塔提款机，而必须高度服从于赢得地缘政治技术军备竞赛的绝对目标。在其治下，政府弱化对[[Research Universities|研究型大学]]长周期、分散式自由探索的无条件信任，转而建立“总统定向—联邦统筹—部门执行—公私伙伴”的垂直动员链条，利用扣留拨款（impoundment）与外部数据复现审计[[Disciplina and Doctrina|规训]]学术共同体，以工程部署效率与战略交付确定性彻底置换传统的科学认知自治。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]
+> [!claim] 政策哲学与改革主张
+> 克拉齐奥斯的政策哲学融合了新保守主义的技术现实主义与现代元科学的机制设计思维，其核心思想由四大支柱构成：
+> 1. **坚守公共基础研究资助，但破除单向管道迷思** 坚守联邦资助私人市场不愿充分承担之基础研究的公共职能，但彻底否定从基础到应用单向线性的流水线预设，确立以[[Pasteur's Quadrant|巴斯德象限]]为核心的二维探索逻辑。
+> 2. **资助重心由机构项目转向科学家个人** 破除行政文书与低资助率造成的风险厌恶，扩大可随人迁移的早期奖学金（如 GRFP）与长周期对人资助（如先锋奖模式），引入金券、快速资助与拉动机制。
+> 3. **科学发现必须锚定本土制造与过程知识** 强调技术不仅由图纸专利构成，更深植于熟练工人的排障手感与默会知识；必须通过开放中试平台、监管沙盒与在岗学徒制，防止公共科研收益被海外竞争对手单向吸附。
+> 4. **在人工智能时代平衡扩大生成与核验能力** 既利用创世纪计划释放 AI 生成假设的强大能力，又同步建设机器可读、自动化实验的黄金标准科学核验基础设施。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–7, 20–72)]]
 
-> [!citation-card] 技术能力导向替代科学认知权威
-> 新契约的核心逻辑不再是以科学知识为基础的认知权威，而是以技术能力为导向；国家战略目标不再被动等待大学基础研究的不可预测[[Emergence|涌现]]，而是主动以军备竞赛姿态直接组织国家实验室与产业龙头进行垂直工程突破。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
->
-> *The emerging social contract is no longer oriented around cognitive authority derived from basic scientific discovery, but around technological capability; the state no longer passively awaits unpredictable university breakthroughs, but aggressively organizes vertical engineering feats.*
-
-> [!claim] 报告文本中的另一条位置
-> 《[[Science A New Golden Age 2026|科学：新的黄金时代]]》自己的表述是，大学对训练科学家和追根本问题仍然必要，联邦机构继续资助市场不会充分承担的研究。改革被写成把工作中的研究者放回中心：扩大可携带的研究生奖学金，如国家科学基金会研究生研究奖学金计划（Graduate Research Fellowship Program, GRFP）；扩大仿国立卫生研究院主任先锋奖的长视野资助；对人而不只对项目下注，并保留纯好奇心研究不能被用途话语取消的提醒。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. xii, 5, 28, 31)]] 这条自我定位与上一条由樊春良概括的技术动员阅读并列，张力见下文争议。
+> [!policy-design] 克拉齐奥斯治理工具箱
+> - **组合式资助（Portfolio Funding）** 在联邦资助中统筹配置高风险探索、中等规模工程与拉动奖金，设立法定[[Metascience|元科学]]单元以[[Randomised Controlled Trials|随机对照实验]]评估资助有效性。
+> - **新型非营利执行实体** 大力倡导[[Focused Research Organization|聚焦研究组织]]（FRO）与 NSF 技术创新伙伴关系（TIP）X 实验室，弥补高校单 PI 课题组与商业企业之间的中等规模工程科学空白。
+> - **基础设施与监管松绑** 全面开放能源部 28 个国家用户设施与微纳洁净室；在核能与生物医药领域推行无许可创新与监管沙盒。
+> - **手艺与学徒支持** 推动劳动力佩尔助学金落地，建立与雇佣留任挂钩的学徒绩效拨款，打破高等教育对技能资助的垄断。
 
 ---
 
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **政策路径** 主导了 2025 年起美国科技政策激进的再集中与再动员转向，将《国家人工智能行动计划》打造成重构联邦研发预算的核心规约武器。
-> - **治理路径** 推动了由“总统指令定向—国家实验室牵头—商业科技巨头承接”的新型举国工程化治理[[Paradigm|范式]]，弱化了[[Research Universities|研究型大学]]在国家战略技术获取中的中枢地位。
-> - **地缘博弈路径** 推动确立排他性全球前沿技术壁垒，将[[Research Security|科研安全]]（Research Security）审查从个别重点涉密学科拓展为全流程意识形态与数据主权审计。
-> - **制度文本路径** 2026 年 7 月的呈文把[[Success Criteria|成功标准]]收成十年后的一句话：当时不能追的关键问题，现在可以自由去追。建议落在组合式资助、新型执行者、国内试验与制造，以及[[Genesis Mission|创世纪计划]]和黄金标准科学的生成与核验配对。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. vi)]]
-
-> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 将迈克尔·克拉齐奥斯作为特朗普第二任期推动美国科技政策走向“[[Technology-Oriented Social Contract|技术型社会契约]]”替代形态的核心政策人物，详细剖析了其通过总统信函、白宫首年亮点报告落实技术至上治理的机制全景。
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 主任向总统呈交的政策诊断。文本保留大学与联邦基础研究的位置，同时要求改变选拔规则、把发现接回国内制造，并以创世纪计划与黄金标准科学同时扩大生成和核验。
+> - **国家科研体制路径** 推动了战后八十年白宫对联邦科研资助格局最系统的自顶向下重构，以 2028 财年预算指导备忘录引导各联邦机构转向基础性物理科学、工程与巴斯德象限研究。
+> - **机构形态创新路径** 赋予独立聚焦研究组织（FRO）和跨界联合体合法的联邦资助接口，推动国家实验室机时向硬科技初创企业全面开放。
+> - **技能与劳动力路径** 将过程知识与动手实践写入国家最高科学战略，建立了连接社区学院、在岗学徒与区域先进制造集群的政策通道。
+> - **智能科研基础设施路径** 统筹推进创世纪计划与黄金标准科学，奠定了机器可读、自动化复现的智能时代科学核验体系。
 
 ---
 
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **师承／合作者** 唐纳德·特朗普（Donald Trump） — 担任其白宫副助理、CTO、科学顾问兼 [[Office of Science and Technology Policy|OSTP]] 主任，直接执行其科技治理意图。
-> - **师承／合作者** 彼得·蒂尔（Peter Thiel） — 早年在 Thiel Capital 担任幕僚与投资总监，深受硅谷技术现实主义与自由意志主义技术哲学影响。
-> - **机构／运动／项目** [[Office of Science and Technology Policy]] — 担任 OSTP 主任并主导白宫科技中枢的激进重组。
-> - **机构／运动／项目** Scale AI — 曾任董事总经理，主导商业化前沿大模型数据架构与五角大楼国防 AI 基础设施对接。
+> - **政治委托人** 唐纳德·特朗普（Donald J. Trump） — 担任其白宫 CTO、科学顾问兼 OSTP 主任，直接承接并执行其国家科技体制重构委托。
+> - **思想渊源与同行** 彼得·蒂尔（Peter Thiel） — 早年在 Thiel Capital 担任重要幕僚，深受其关于打破科技停滞、重振物理实体创新的技术哲学影响。
+> - **历史对照坐标** [[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush） — 1945 年布什报告的 2026 年继任者与对话者，在继承其公共资助核心的同时系统清算其组织与分工结论。
+> - **理论分析透镜** [[Donald Stokes|唐纳德·斯托克斯]]（Donald Stokes） — 报告全面采纳其[[Pasteur's Quadrant|巴斯德象限]]作为替代线性模型的根本分析框架。
+> - **核心关联机构与文本** [[Office of Science and Technology Policy]]、[[Science A New Golden Age 2026]]、[[Science, The Endless Frontier 1945]]、[[Genesis Mission]]。
 
 ---
 
 ## 争议与批评
 
-> [!debates] 学术争议
+> [!debates] 学术与政策争议
 >
-> > [!axis] “国家技术霸权动员”与“学术共同体自治毁灭”之争
-> > 各方对克拉齐奥斯激进推行的技术型契约展开激烈交锋。
+> > [!axis] 技术型契约动员 vs. 基础科学自治保护
+> > 各方对克拉齐奥斯推行的科技体制改革展开深刻交锋。
 > >
-> > - **技术现实主义与国家安全派** 赞同其以国家力量闪电集中推进 AI 与先进制程半导体，认为面对大国战略竞争，传统大学同行评议的繁冗机制已经无法适应技术突围速度。
-> > - **科学界与高等教育界批评者** 严厉抨击其推行的扣留拨款与意识形态审查摧毁了二战后建立的[[Academic Freedom|学术自由]]与同行评议制度根基，指责其将科学界工具化，终将导致美国丧失源头原始创新优势。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1063–1064)]]
+> > - **技术现实主义与国家竞争力派** 赞同其以国家战略为导向重组科研资源，认为在大国地缘竞争与智能革命背景下，传统大学同行评议的低效与避险已经无法应对挑战，必须强化国家统筹与本土产业承接。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 33–36)]]
+> > - **学术共同体与契约演化批评者（[[Argument_Fan_2026_BCAS|樊春良, 2026]]）** 指出其实践带有强烈的技术型契约特征，行政干预与可审计指标可能压抑自由探索，若资助体系缺乏长周期耐心，将导致科学沦为短期技术能力的附庸。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1063–1064)]]
 >
-> > [!axis] 报告文本中的大学位置与外部阅读中的大学边缘化
-> > 同一任期内的两份阅读把大学放在不同位置。
+> > [!axis] 高校中心地位争论：赋能个人科学家 vs. 制度性边缘化
+> > 对报告对待研究型大学地位的不同解读。
 > >
-> > - **报告文本** 大学对训练科学家和追根本问题仍然必要。改革针对的是遗留机构对个人科学家的挤占、共识评审对非常规想法的过滤，以及发现与国内制造的脱节。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. v–vi, 5)]]
-> > - **外部契约阅读** 樊春良将其治下的实践概括为绕开大学基础研究、以国家实验室和产业龙头做垂直工程突破，大学在国家战略技术获取中的中枢地位被弱化。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]
+> > - **报告自我定位（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）** 强调大学对于人才培养与根本问题探索依然不可或缺；改革并非打压大学，而是打破遗留行政文书对青年学者个人的束缚，赋权科学家个人自由探索。
+> > - **外部制度观察（[[Argument_Fan_2026_BCAS|樊春良, 2026]]）** 认为其大力扶持国家实验室、FRO 与商业巨头的做法，在客观上分流了传统高校的中心地位，重构了国家创新的权力格局。
 
 ---
 
@@ -148,9 +156,21 @@ updated: 2026-10-07
 
 > [!entry-map]
 >
-> | 条目 | 类型 | 贡献 |
-> |:-----|:-----|:-----|
-> | [[Technology-Oriented Social Contract]] | 概念 | 克拉齐奥斯是推动美国科技体制走向“技术型社会契约”的关键政策设计者与最高行政操盘手。 |
-> | [[Office of Science and Technology Policy]] | 事实 | 克拉齐奥斯执掌的白宫科技中枢，是其推动科技政策再集中与再动员的核心权力平台。 |
-> | [[Restoring Gold Standard Science Executive Order]] | 事实 | 克拉齐奥斯深度参与并落实的总统行政令，以程序可验证性为武器深度重塑科学评价标准。 |
-> | [[Generative Artificial Intelligence]] | 概念 | 克拉齐奥斯将其作为 2025 年起美国科技政策最高优先级的战略新兴技术。 |
+> | 条目 | 类型 | 关联说明 |
+> |:-----|:-----|:---------|
+> | [[Science A New Golden Age 2026]] | 事实 | 克拉齐奥斯作为 OSTP 主任呈交总统的划时代国家科技政策报告。 |
+> | [[Office of Science and Technology Policy]] | 事实 | 克拉齐奥斯执掌的白宫科技中枢与推动体制重组的核心平台。 |
+> | [[Science, The Endless Frontier 1945]] | 事实 | 克拉齐奥斯报告的直接历史对照母本。 |
+> | [[Pasteur's Quadrant]] | 理论 | 克拉齐奥斯用于取代线性模型并重构资助组合的理论基石。 |
+> | [[Linear Model of Innovation]] | 概念 | 克拉齐奥斯报告宣告其彻底失真并进行系统批判的核心概念。 |
+> | [[Focused Research Organization]] | 概念 | 克拉齐奥斯倡导建立的中等规模工程科学新型非营利载体。 |
+> | [[Metascience]] | 概念 | 克拉齐奥斯要求在各联邦科学机构设立的法定自我革新单元。 |
+> | [[Genesis Mission]] | 事实 | 克拉齐奥斯主管落地的国家级 AI 赋能科学跨部门旗舰计划。 |
+
+---
+
+## 相关研究
+
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 克拉齐奥斯向总统呈交的战略报告全文。确立了四大支柱、组合式资助、本土制造转化与生成核验协同体系，附 2028 财年预算指导备忘录。
+> - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从科学社会契约演化视角，系统剖析克拉齐奥斯在 2025 年起推动美国科技政策走向技术型社会契约与再集中动员中的关键角色。

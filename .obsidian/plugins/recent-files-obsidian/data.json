@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Office of Science and Technology Policy",
-      "path": "wiki/facts/us/Office of Science and Technology Policy.md"
-    },
-    {
       "basename": "Argument_Kratsios_2026_OSTP",
       "path": "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md"
+    },
+    {
+      "basename": "National Institutes of Health",
+      "path": "wiki/facts/us/National Institutes of Health.md"
+    },
+    {
+      "basename": "Pull Mechanisms for Innovation",
+      "path": "wiki/concepts/science-policy/Pull Mechanisms for Innovation.md"
+    },
+    {
+      "basename": "Process Knowledge",
+      "path": "wiki/concepts/university-industry-collaboration/Process Knowledge.md"
+    },
+    {
+      "basename": "Science, The Endless Frontier 1945",
+      "path": "wiki/facts/us/Science, The Endless Frontier 1945.md"
+    },
+    {
+      "basename": "Vannevar Bush",
+      "path": "wiki/persons/us/Vannevar Bush.md"
+    },
+    {
+      "basename": "Michael Kratsios",
+      "path": "wiki/persons/us/Michael Kratsios.md"
+    },
+    {
+      "basename": "Office of Science and Technology Policy",
+      "path": "wiki/facts/us/Office of Science and Technology Policy.md"
     },
     {
       "basename": "Pasteur's Quadrant",
@@ -153,10 +177,6 @@
       "path": "wiki/arguments/journal-articles/McGill Journal of Education/Argument_Bergeron_2017_MJE.md"
     },
     {
-      "basename": "National Institutes of Health",
-      "path": "wiki/facts/us/National Institutes of Health.md"
-    },
-    {
       "basename": "Argument_OxfordUIDP_2019_UIPartnerships",
       "path": "wiki/arguments/reports-policy-documents/Argument_OxfordUIDP_2019_UIPartnerships.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Argument_Ryabyy_2024_Maneto",
       "path": "wiki/arguments/journal-articles/Maneto The Temple University Multi-Disciplinary Undergraduate Research Journal/Argument_Ryabyy_2024_Maneto.md"
-    },
-    {
-      "basename": "Argument_Mody_2017_MOH",
-      "path": "wiki/arguments/journal-articles/Management & Organizational History/Argument_Mody_2017_MOH.md"
-    },
-    {
-      "basename": "Ministry of International Trade and Industry",
-      "path": "wiki/facts/japan/Ministry of International Trade and Industry.md"
-    },
-    {
-      "basename": "National Research and Resource Facility for Submicron Structures",
-      "path": "wiki/facts/us/National Research and Resource Facility for Submicron Structures.md"
-    },
-    {
-      "basename": "Community Innovation Survey",
-      "path": "wiki/facts/europe/Community Innovation Survey.md"
-    },
-    {
-      "basename": "Technology Transfer",
-      "path": "wiki/concepts/university-industry-collaboration/Technology Transfer.md"
     }
   ],
   "omittedPaths": [],
