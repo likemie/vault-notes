@@ -7,10 +7,10 @@ aliases:
 summary: "以国家战略意志为导向、依赖巨额公共财政与集中式国家实验室攻关突破性物理与工程极限的科研组织范式；在冷战技术使命中奠定强大物理突破力，但在复杂社会挑战中遭遇制度局限；在当代演进为兼具超级算力、闭环自主实验室、中等规模聚焦研究组织（FRO）与大规模前竞争产学研联合体的分布式创新基础设施。"
 type: concept
 domain: "science-policy"
-related_count: 50
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_count: 46
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - concept/science-policy
   - big-science

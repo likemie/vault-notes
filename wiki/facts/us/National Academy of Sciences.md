@@ -100,7 +100,7 @@ updated: 2026-10-07
 > [!actor-grid] 组织治理架构与咨询机制
 > - **会员大会与最高理事会** 由全体院士年度大会选举产生的院长及理事会统辖；院士头衔终身享有，被公认为美国科学界学者的最高终身学术荣誉之一。
 > - **自我繁衍式同行推选** 严格恪守学术同行内部推选制度，完全排除行政指令或政治插手，由既有院士通过极其严密的同行评审与逐轮差额投票选拔新院士。
-> - **实体运行枢纽（[[National Research Council|NRC]]）** 承担具体的联邦与跨部门政策咨询合同承接、跨学科共识委员会组建及独立同行评审，常年动员数千名顶尖学者参与义务咨询。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 34)]]
+> - **实体运行枢纽（NRC）** 承担具体的联邦与跨部门政策咨询合同承接、跨学科共识委员会组建及独立同行评审，常年动员数千名顶尖学者参与义务咨询。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 34)]]
 > - **三方跨界协同枢纽（GUIRR）** 设立政府-大学-行业研究圆桌会议，打破政府官僚机构、大学行政与企业高管的条块分割，为跨界前沿议题（如企业开放协同研发模式、专利制度演进、国家技术战略）提供最高规格的中立对话与政策孵化温床。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2013; Ramming, 2025, p. 237)]]
 > - **学术声誉与专业资本输出** 院士头衔为学者赋予了巨大的符号资本与学术公信力。在 [[DARPA]] 等机构中，项目经理及核心首席科学家中汇聚了众多 NAS/NAE 院士及诺贝尔奖得主，使其拥有直接对话学术界与工业界领袖的专业合法性。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1141, Table 3)]]
 > - **出版与学术传播阵地** 拥有国际顶级综合性学术期刊《美国国家[[Chinese Academy of Sciences|科学院]]院刊》（PNAS），作为全球科学界发布高影响力前沿成果的旗舰平台。
@@ -112,7 +112,7 @@ updated: 2026-10-07
 > [!finding-cards] 关键成效与历史辐射
 > - **奠定科学界的国家话语权与自治屏障** NAS 的独立法定特许地位，为美国科学界抵御政治干预提供了至关重要的体制防线，确立了“科学决策必须尊重学术专业规律”的国家政治伦理。
 > - **重塑战后科技体系顶层设计** 国家[[Chinese Academy of Sciences|科学院]]及其核心成员深度参与了《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》起草、[[National Science Foundation|NSF]] 创建、国家航空航天局（NASA）空间科学规划、[[Human Genome Project|人类基因组计划]]（HGP）伦理评估以及国家纳米技术倡议（NNI）等重大国家科技决策。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 34)]]
-> - **前沿创新体系的独立监督者与路线仲裁人** 依托 [[National Research Council|NRC]] 专家委员会网络，NAS 持续对 [[DARPA]]、NSF、[[Department of Energy|DOE]] 等联邦研发机构的技术路线图、预算分配公正性及产学研生态健康度进行第三方深度评估，防止国家科研过度陷入短期官僚化陷阱。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134, 1144)]]
+> - **前沿创新体系的独立监督者与路线仲裁人** 依托 NRC 专家委员会网络，NAS 持续对 [[DARPA]]、NSF、[[Department of Energy|DOE]] 等联邦研发机构的技术路线图、预算分配公正性及产学研生态健康度进行第三方深度评估，防止国家科研过度陷入短期官僚化陷阱。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134, 1144)]]
 > - **引领国家研发出资结构转型与公私伙伴协同** 敏锐揭示从联邦单核驱动向多元产学协同的历史性转变（自 2011 年至 2020 年代初，联邦基础研究占比从 65% 下降到 40%，企业研发比重升至 35%）。通过 GUIRR 与首届《国家科学现状演讲》，呼吁整合联邦政府、各州地方机构、工业界、学术界与非营利机构的全部国家资产，推动了《[[CHIPS and Science Act|芯片与科学法案]]》框架下[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）及 NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与伙伴关系理事会]]（TIP）等重大公私伙伴机制的设立与深化。[[Argument_Ramming_2025_CorporateSupport|(McNutt, 2024; Ramming, 2025, pp. 237–238)]]
 > - **全球现代科学建制的母本象征** 其自我繁衍与非行政化咨询模式，成为二战后许多国家重构国家科学院或科学咨询委员会时的重要制度借鉴。
 

@@ -5,6 +5,74 @@
       "path": "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md"
     },
     {
+      "basename": "Phronesis",
+      "path": "wiki/concepts/educational-philosophy/Phronesis.md"
+    },
+    {
+      "basename": "National Innovation System",
+      "path": "wiki/concepts/university-industry-collaboration/National Innovation System.md"
+    },
+    {
+      "basename": "Workforce Pell Grants 2025",
+      "path": "wiki/facts/us/Workforce Pell Grants 2025.md"
+    },
+    {
+      "basename": "Engineering Education",
+      "path": "wiki/concepts/higher-education/Engineering Education.md"
+    },
+    {
+      "basename": "Academic Engagement",
+      "path": "wiki/concepts/university-industry-collaboration/Academic Engagement.md"
+    },
+    {
+      "basename": "Accelerating Medicines Partnership",
+      "path": "wiki/facts/us/Accelerating Medicines Partnership.md"
+    },
+    {
+      "basename": "Pilot Scale Platform",
+      "path": "wiki/concepts/university-industry-collaboration/Pilot Scale Platform.md"
+    },
+    {
+      "basename": "Megascience Installations",
+      "path": "wiki/concepts/political-economy-geopolitics/Megascience Installations.md"
+    },
+    {
+      "basename": "Clinical Trial",
+      "path": "wiki/concepts/university-industry-collaboration/Clinical Trial.md"
+    },
+    {
+      "basename": "National Research Council",
+      "path": "wiki/facts/us/National Research Council.md"
+    },
+    {
+      "basename": "Technology Transfer",
+      "path": "wiki/concepts/university-industry-collaboration/Technology Transfer.md"
+    },
+    {
+      "basename": "Competitiveness",
+      "path": "wiki/concepts/university-industry-collaboration/Competitiveness.md"
+    },
+    {
+      "basename": "Research Translation",
+      "path": "wiki/concepts/university-industry-collaboration/Research Translation.md"
+    },
+    {
+      "basename": "Random Assignment",
+      "path": "wiki/methods/quantitative/Random Assignment.md"
+    },
+    {
+      "basename": "United Kingdom Metascience Unit",
+      "path": "wiki/facts/uk/United Kingdom Metascience Unit.md"
+    },
+    {
+      "basename": "Heilmeier Catechism",
+      "path": "wiki/instruments/checklists/Heilmeier Catechism.md"
+    },
+    {
+      "basename": "Scientific Method",
+      "path": "wiki/concepts/educational-philosophy/Scientific Method.md"
+    },
+    {
       "basename": "Academic Medical Center",
       "path": "wiki/concepts/university-industry-collaboration/Academic Medical Center.md"
     },
@@ -89,16 +157,8 @@
       "path": "wiki/concepts/university-industry-collaboration/Innovation Ecosystem.md"
     },
     {
-      "basename": "National Innovation System",
-      "path": "wiki/concepts/university-industry-collaboration/National Innovation System.md"
-    },
-    {
       "basename": "Science A New Golden Age 2026",
       "path": "wiki/facts/us/Science A New Golden Age 2026.md"
-    },
-    {
-      "basename": "Workforce Pell Grants 2025",
-      "path": "wiki/facts/us/Workforce Pell Grants 2025.md"
     },
     {
       "basename": "Genesis Mission",
@@ -139,66 +199,6 @@
     {
       "basename": "Process Knowledge",
       "path": "wiki/concepts/university-industry-collaboration/Process Knowledge.md"
-    },
-    {
-      "basename": "Science, The Endless Frontier 1945",
-      "path": "wiki/facts/us/Science, The Endless Frontier 1945.md"
-    },
-    {
-      "basename": "Vannevar Bush",
-      "path": "wiki/persons/us/Vannevar Bush.md"
-    },
-    {
-      "basename": "Michael Kratsios",
-      "path": "wiki/persons/us/Michael Kratsios.md"
-    },
-    {
-      "basename": "Office of Science and Technology Policy",
-      "path": "wiki/facts/us/Office of Science and Technology Policy.md"
-    },
-    {
-      "basename": "Pasteur's Quadrant",
-      "path": "wiki/theories/science-policy/Pasteur's Quadrant.md"
-    },
-    {
-      "basename": "Linear Model of Innovation",
-      "path": "wiki/concepts/university-industry-collaboration/Linear Model of Innovation.md"
-    },
-    {
-      "basename": "International Schools",
-      "path": "wiki/concepts/comparative-education/International Schools.md"
-    },
-    {
-      "basename": "Argument_Peterson_1987_OpenCourt_Ch08",
-      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch08.md"
-    },
-    {
-      "basename": "Louis Mountbatten",
-      "path": "wiki/persons/uk/Louis Mountbatten.md"
-    },
-    {
-      "basename": "Desmond Hoare",
-      "path": "wiki/persons/uk/Desmond Hoare.md"
-    },
-    {
-      "basename": "Experiential Learning",
-      "path": "wiki/concepts/educational-philosophy/Experiential Learning.md"
-    },
-    {
-      "basename": "Science Technology and Social Change Curriculum Pilot",
-      "path": "wiki/facts/multi/Science Technology and Social Change Curriculum Pilot.md"
-    },
-    {
-      "basename": "UNESCO",
-      "path": "wiki/facts/global/UNESCO.md"
-    },
-    {
-      "basename": "Education Resources Information Center",
-      "path": "wiki/facts/us/Education Resources Information Center.md"
-    },
-    {
-      "basename": "International School of Geneva",
-      "path": "wiki/facts/switzerland/International School of Geneva.md"
     }
   ],
   "omittedPaths": [],

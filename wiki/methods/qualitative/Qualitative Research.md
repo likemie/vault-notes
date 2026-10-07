@@ -294,7 +294,7 @@ Miller 关于新任[[Grandes Ecoles|大学校]]长第一年经历的博士论文
 > - **政策制定中的[[Paradigm|范式]]排他性遭遇与国家立法的等级规制** 在自上而下的循证政策规制浪潮中，质性研究曾遭遇严重的法定贬抑与排除：
 >   - 在 1998 年《[[Reading Excellence Act]]》与国家阅读专家组（[[National Reading Panel|NRP]]）报告中，官方将“科学”狭隘锚定为实验/[[Randomised Controlled Trials|RCT]]，系统性排斥质性探究；
 >   - 在 2000 年国会卡斯尔草案（H.R. 4875）中，立法者甚至试图在成文法中直接确立等级清单，将[[Narrative Analysis|叙事分析]]、[[In-depth Interview|深度访谈]]、[[Participant Observation|参与观察]]、[[Case Study|案例研究]]与[[Ethnography|民族志]]明文贬低为仅供在因素尚未明晰时开展的“初步形式”（Preliminary Form），强制要求事后必须通过量化[[Hypothesis|假设]]检验予以确证；
->   - 经[[National Research Council|国家研究委员会]]（[[National Research Council|NRC]]）科学原则报告与[[Richard J. Shavelson|理查德·沙维尔森]]（Richard Shavelson）在国会听证会上的严正质证，2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）删除了歧视质性方法的条款，确立了“研究方法契合所提问题”的包容性科学标准，并在[[What Works Clearinghouse|有效干预清算中心]]（[[What Works Clearinghouse|WWC]]）的审查规程中促成了质性实施情境与调节[[Variable|变量]][[Coding in Qualitative Research|编码]]模块的增设。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 33–36)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 10)]]
+>   - 经[[National Research Council|国家研究委员会]]（NRC）科学原则报告与[[Richard J. Shavelson|理查德·沙维尔森]]（Richard Shavelson）在国会听证会上的严正质证，2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）删除了歧视质性方法的条款，确立了“研究方法契合所提问题”的包容性科学标准，并在[[What Works Clearinghouse|有效干预清算中心]]（[[What Works Clearinghouse|WWC]]）的审查规程中促成了质性实施情境与调节[[Variable|变量]][[Coding in Qualitative Research|编码]]模块的增设。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 33–36)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 10)]]
 
 ---
 

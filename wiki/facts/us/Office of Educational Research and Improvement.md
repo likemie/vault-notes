@@ -76,7 +76,7 @@ updated: 2026-10-02
 > [!dev-timeline] 组织发展与改革历程
 > - **1979–1980 — 机构创设与职能整合** 联邦教育部设立后，OERI 正式承接原国家教育研究所（NIE）的科研项目及全国教育统计中心的统计职责，建立起以助理部长为行政核心的集权式科研管理架构。
 > - **1980–1994 — 业务体系扩张与实验室网络确立** 逐步确立四大业务支柱：资助高校及非营利智库设立国家教育研发中心（National R&D Centers）、维持 10 所区域教育实验室（Regional Educational Laboratories, RELs）、建设运营[[Education Resources Information Center|教育资源信息中心]]（ERIC）网络，并定期发布国家教育进展评估（[[National Assessment of Educational Progress|NAEP]]）报告。
-> - **1994–2000 — 引入外部治理与学界对话机制** 1994 年国会通过《2000 年目标：教育美国法》（Goals 2000: Educate America Act）对 OERI 进行重新授权，在机构内设立具有广泛代表性的咨询监督机构——国家教育研究政策与优先事项委员会（National Educational Research Policy and Priorities Board, NERPPB）。2000 年，NERPPB 主席羽田宪治（Kenji Hakuta）正式委托美国[[National Research Council|国家研究委员会]]（[[National Research Council|NRC]]）组建由[[Richard J. Shavelson|理查德·沙维尔森]]（Richard J. Shavelson）主持的科学原则委员会，以化解立法界对 OERI 科研质量的严厉批评。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 31–32)]]
+> - **1994–2000 — 引入外部治理与学界对话机制** 1994 年国会通过《2000 年目标：教育美国法》（Goals 2000: Educate America Act）对 OERI 进行重新授权，在机构内设立具有广泛代表性的咨询监督机构——国家教育研究政策与优先事项委员会（National Educational Research Policy and Priorities Board, NERPPB）。2000 年，NERPPB 主席羽田宪治（Kenji Hakuta）正式委托美国[[National Research Council|国家研究委员会]]（NRC）组建由[[Richard J. Shavelson|理查德·沙维尔森]]（Richard J. Shavelson）主持的科学原则委员会，以化解立法界对 OERI 科研质量的严厉批评。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 31–32)]]
 > - **2000–2002 — 资助设立 [[What Works Clearinghouse|WWC]] 与制度终结改组** 2000 年众议院议员迈克尔·卡斯尔（Michael Castle）提出 H.R. 4875 法案启动 OERI 重组。2002 年 8 月，OERI 出资 1850 万美元正式授予合同建立有效干预清算中心（[[What Works Clearinghouse|WWC]]）。同年 11 月，美国总统签署《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA），正式废除 OERI 并撤销助理部长行政管理体系，全面改组设立具有高度科学独立性与同行评议机制的[[Institute of Education Sciences|教育科学研究院]]（IES）。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–34)]]
 
 ---
@@ -109,7 +109,7 @@ updated: 2026-10-02
 
 > [!finding-cards] 关键历史影响与制度成效
 > - **确立联邦教育科学研究的官方建制** 在长达 23 年的存续期内，OERI 将原本零散脆弱的联邦教育科研整合为由统计中心、[[Document|文献]]数据库与区域实验室组成的制度化国家网络。
-> - **催生国家教育科学原则与规范标准** 面对自身面临的公信力危机，OERI 下属 NERPPB 的主动委托直接促成了 [[National Research Council|NRC]] 划时代报告《教育科学研究》（SRE, 2002）的诞生，确立了六大核心科学原则。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 31–33)]]
+> - **催生国家教育科学原则与规范标准** 面对自身面临的公信力危机，OERI 下属 NERPPB 的主动委托直接促成了 NRC 划时代报告《教育科学研究》（SRE, 2002）的诞生，确立了六大核心科学原则。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 31–33)]]
 > - **为独立循证时代的到来奠定组织与经验基础** OERI 晚期对 [[What Works Clearinghouse|WWC]] 的出资设立与方法学探索，为后续 [[Institute of Education Sciences|IES]] 时代的[[Evidence-Based Education|循证教育]]立法与实证证据阶梯奠定了不可或缺的制度雏形。
 
 > [!stat-cards]- 核心规模数据

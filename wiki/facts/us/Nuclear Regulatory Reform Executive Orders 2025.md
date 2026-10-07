@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 15
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -37,7 +37,6 @@ related_persons:
   - "[[Michael Kratsios]]"
 related_facts:
   - "[[Department of Energy]]"
-  - "[[National Research Council]]"
   - "[[Office of Science and Technology Policy]]"
   - "[[Science A New Golden Age 2026]]"
   - "[[Genesis Mission]]"
@@ -70,7 +69,7 @@ updated: 2026-10-07
 > 四项行政令旨在破除导致核反应堆建造不经济的审批时间壁垒，要求美国核管理委员会（Nuclear Regulatory Commission）在 18 个月内彻底修订现行规章，为新建造申请设定具有法律约束力的许可时间上限，为能源部或军方已测试反应堆建立加速通道，并在监管裁量中强制将核能对国家经济与安全的重大收益纳入法定权衡。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 37)]]
 
 > [!policy-design] 政策工具与结构设计
-> - **法定许可时间上限与 18 个月修规期限** 强制 [[National Research Council|NRC]] 在 18 个月内重构审批流程，设定明确的执照审查时间上限，杜绝无休止的行政拖延。
+> - **法定许可时间上限与 18 个月修规期限** 强制 NRC 在 18 个月内重构审批流程，设定明确的执照审查时间上限，杜绝无休止的行政拖延。
 > - **已测试堆型加快批准通道（Expedited Pathways）** 凡经能源部国家实验室试验台或国防部原型验证的先进反应堆设计，直接进入快速通道，免除重复性的基础物理认证。
 > - **重塑监管风险-收益权衡[[Paradigm|范式]]（Risk-Benefit Balance）** 打破传统仅单向关注辐射暴露极小化风险的教条，强制 NRC 将清洁基荷电力对经济增长、电网韧性与国家安全保障的巨大收益纳入法定权衡。
 > - **现有核电机组功率提升（Uprates）目标** 指示能源部与监管机构协同，促成现有在役核反应堆实现 **5 吉瓦（GW）** 的整体功率提升。
@@ -122,4 +121,4 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统评述 2025 年 5 月总统签署的四项核能监管改革行政令；深入剖析 [[National Research Council|NRC]] 传统审批模式导致的严重规制瘫痪与数十亿美元隐性成本，阐述设定 18 个月修规期限、许可时间上限、已测试堆型加快通道以及 2030 年 10 座新堆开工目标的制度设计，论证以[[Permissionless Innovation|无许可创新]]释放先进核能对人工智能算力与制造业基荷能源支撑的战略意义。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统评述 2025 年 5 月总统签署的四项核能监管改革行政令；深入剖析 NRC 传统审批模式导致的严重规制瘫痪与数十亿美元隐性成本，阐述设定 18 个月修规期限、许可时间上限、已测试堆型加快通道以及 2030 年 10 座新堆开工目标的制度设计，论证以[[Permissionless Innovation|无许可创新]]释放先进核能对人工智能算力与制造业基荷能源支撑的战略意义。

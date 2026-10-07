@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 136
+method_related_count: 140
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Policy Brokerage]]"
   - "[[Screening Off]]"
+  - "[[Metascience]]"
   - "[[Empiricism]]"
   - "[[Positivism]]"
   - "[[Hypothesis]]"
@@ -135,6 +136,8 @@ related_facts:
   - "[[Foundations for Evidence-Based Policymaking Act of 2018]]"
   - "[[World Bank]]"
   - "[[Every Student Succeeds Act]]"
+  - "[[United Kingdom Metascience Unit]]"
+  - "[[Office of Science and Technology Policy]]"
   - "[[Teacher Choices]]"
   - "[[Researching School Choices]]"
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -152,6 +155,7 @@ related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Ginsberg_2024_EP]]"
+  - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
   - "[[Argument_Pampaka_2016_IJRME]]"
@@ -164,7 +168,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Randomised Controlled Trials
@@ -221,6 +225,7 @@ updated: 2026-10-05
 >
 >   - 2024 — Steiner-Khamsi et al. 剖析[[World Bank|世界银行]]将 RCT 确立为自身[[Policy Brokerage|政策中介]]与循证放贷的专属技术利基，微观技术隔离系统性“[[Screening Off|屏蔽]]”了宏观财政与结构性责任（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, pp. 544–548]]）。
 >   - 2024 — Ginsberg et al. 实证审计 15 个学区 138 项受资助干预，揭示 [[Every Student Succeeds Act|ESSA]] Tier I 法定单项合格门槛导致合规假象（全量研究支持率由 >95% 腰斩至 49%–58%）、学段供给断层与微观交付要素因果黑箱（[[Argument_Ginsberg_2024_EP|Ginsberg et al., 2024, pp. 11–13]]）。
+>   - 2024–2026 — [[United Kingdom Metascience Unit|英国元科学单元]]（UK [[Metascience]] Unit）与白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）将 RCT 及部分随机化/抽签试验（Lottery Allocation）引入科研资助机制与同行评议一致性检验，标志着 RCT 从单一政策干预评估拓展为对科学资助体制本身的科学学实证评估工具（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, pp. 31–32]]）。
 
 > [!citation-card] 实验技术与变量控制的因果效力
 > 实验技术，尤其是随机对照试验（RCT），在建立[[Causality|因果性]]方面具有强大效力。通过识别、隔离和控制自变量，操纵一个自变量看其是否对结果产生差异，同时保持其他变量不变。如果操纵该自变量导致结果变化，则变化可归因于该自变量——它成为原因。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, Ch. 4, pp. 78, 81]]
@@ -401,4 +406,5 @@ updated: 2026-10-05
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 深度复盘英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）十年来资助超 200 项大规模教育 RCT 的制度演进，系统剖析独立评估人机制、[[Preregistration|预注册]][[Statistical Analysis Plan|统计分析计划]]（SAP）、[[Implementation and Process Evaluation|实施与过程评估]]（IPE）整合、[[School Choice|学校选择]]与[[Teacher Choices|教师选择]]新设计，以及应对[[Effect Size|效应量]]衰减与不确定性报告的方法学突破。
 > - [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] — 实证解剖英格兰[[Evidence Era|证据时代]]将临床医学 RCT 奉为[[Rationalized Myth|合理化神话]]的政策话语建构，剖析从研究设计到政策转化中[[Epistemological Coherence|认识论连贯性]]的断裂，以及由此衍生的依策造据风险。
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 系统反驳认知负荷学派对探究教学缺乏纯粹实验室 RCT 的指责，援引 Lazonder & Harmsen (2016) 元分析实证检验确立 RCT 与准实验在效应量量级上无显著差异，基于 Schuster et al. (2018) 课堂严格 RCT 证实探究教学的深层概念优势，并为复杂教育情境中涵盖多元组件的“项目式研究”（Program-based RCTs）之[[Ecological Validity|生态效度]]与常态对照组（[[Business as Usual|BAU]]）设计提供方法学辩护（[[Argument_DeJong_2023_ERR|De Jong et al., 2023, pp. 4–6]]）。
-> - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne (2003)]] — 系统考证美国联邦成文法（NCLB 与 ESRA 2002）及 [[What Works Clearinghouse|WWC]] 创设初期的 RCT 制度化历史，揭示行政规程对随机实验的强烈惯性偏好（如 [[Institute of Education Sciences|IES]] 首期因果资助 100% 为随机实验），并深入论述学术共同体如何依托 [[National Research Council|NRC]] 六大原则与国会质证推动联邦立法打破单一 RCT 垄断，确立问题导向的方法适配观。
+> - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne (2003)]] — 系统考证美国联邦成文法（NCLB 与 ESRA 2002）及 [[What Works Clearinghouse|WWC]] 创设初期的 RCT 制度化历史，揭示行政规程对随机实验的强烈惯性偏好（如 [[Institute of Education Sciences|IES]] 首期因果资助 100% 为随机实验），并深入论述学术共同体如何依托 NRC 六大原则与国会质证推动联邦立法打破单一 RCT 垄断，确立问题导向的方法适配观。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统评述[[Metascience|元科学]]（Metascience）中运用 RCT 与部分随机化抽签资助试验（Lottery-based Allocation）评估同行评议一致性与防范风险规避的实证探索，推动将因果实验设计应用于国家科学资助机制本身的制度优化。

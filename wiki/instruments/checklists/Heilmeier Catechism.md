@@ -5,12 +5,12 @@ aliases:
   - 海尔迈耶法则
   - 海尔迈耶教条
   - Heilmeier Questions
-summary: "1975年由DARPA局长乔治·海尔迈耶（George Heilmeier）确立的高风险颠覆性科技项目立项与评审黄金标准问卷。包含八项无行话、重实效的核心质询，涵盖目标界定、现状极限、创新路径、深远影响、风险测度、预算周期及阶段性验收考核，成为全球高风险使命导向科研机构普遍遵循的项目评估基准。"
+summary: "1975年由DARPA局长乔治·海尔迈耶（George Heilmeier）确立的高风险颠覆性科技项目立项与评审黄金标准问卷。包含八项无行话、重实效的核心质询，涵盖目标界定、现状极限、创新路径、深远影响、风险测度、预算周期及阶段性验收考核；在白宫OSTP（2026）等当代创新政策中，被确立为使命导向型科研机构与联邦基金组合问责的基准评估工具。"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 11
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_count: 16
+instrument_related_level: 3
+instrument_related_stars: "⭐⭐⭐"
 instrument_related_color: "#e5e7eb"
 part_of: ""
 developers:
@@ -27,9 +27,11 @@ tags:
   - theme/innovation-policy
   - theme/evaluation-rubric
   - tool/checklist
+  - theme/metascience
 related_concepts:
   - "[[Paradigm]]"
   - "[[Research Translation]]"
+  - "[[Portfolio-Based Research Funding]]"
   - "[[DARPA Model]]"
   - "[[Broad Agency Announcement]]"
   - "[[Embedded Network Governance]]"
@@ -37,18 +39,23 @@ related_theories:
   - "[[Technological Trajectories]]"
 related_methods:
   - "[[Questionnaire]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[George Heilmeier]]"
+  - "[[Michael Kratsios]]"
 related_facts:
   - "[[DARPA]]"
   - "[[Department of Energy]]"
+  - "[[Office of Science and Technology Policy]]"
+  - "[[Science A New Golden Age 2026]]"
 related_arguments:
   - "[[Argument_Fuchs_2010_RP]]"
+  - "[[Argument_Kratsios_2026_OSTP]]"
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-07
 ---
 
 # Heilmeier Catechism
@@ -58,15 +65,20 @@ updated: 2026-10-04
 ## 工具定位
 
 > [!instrument-profile] 海尔迈耶[[Questionnaire|问卷]]（Heilmeier Catechism）
-> - **工具类型** 颠覆性前沿科技项目立项质询与评估核查清单（Checklist & Heuristic）。
-> - **开发者与年份** [[George Heilmeier|乔治·海尔迈耶]]（[[George Heilmeier]]），1975 年出任[[DARPA|美国国防高级研究计划局]]（[[DARPA]]）局长期间制定。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
-> - **测量与质询目的** 用于在项目立项前对高风险提案进行颠覆性、可行性、风险回报比及中期阶段验收标准的严格筛查，防止科研项目陷入空泛学术说教或平庸渐进改良。
-> - **实施方式** 项目提出人与项目经理（PM）必须对全部问题给出清晰、不使用行业黑话（Jargon-free）的书面与答辩阐释，作为管理层决策与经费下拨的法定前置条件。
+> - **工具类型** 颠覆性前沿科技项目立项质询与组合评估核查清单（Checklist & Heuristic Evaluation）。
+> - **开发者与年份** [[George Heilmeier|乔治·海尔迈耶]]（[[George Heilmeier]]），1975 年出任[[DARPA|美国国防高级研究计划局]]（DARPA）局长期间制定。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
+> - **测量与质询目的** 用于在项目立项前对高风险提案进行颠覆性、可行性、风险回报比及中期阶段验收标准的严格筛查，防止科研项目陷入空泛学术说教或平庸渐进改良，并为资助组合提供结构性审计纪律。
+> - **实施方式** 项目提出人与项目经理（PM）必须对全部 8 项问题给出清晰、毫无行业黑话（Jargon-free）的书面与答辩阐释，作为管理层立项决策、经费下拨与阶段性“期中考核”的法定依据。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 32)]]
 
 > [!citation-card] 海尔迈耶问卷的核心治理功能
 > 1975 年乔治·海尔迈耶出任 DARPA 局长，确立了所有项目提案必须回答的经典问卷；该准则强制要求项目必须清晰回答：试图做什么、目前如何做、方案有何根本创新、谁会在乎这一成果、风险与成本几何，以及何为阶段性检验成功的‘期中考试’。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
 >
 > *Under Heilmeier's directorship, all proposals needed to answer what became known as the Heilmeier Catechism... In short, Heilmeier viewed DARPA as a mission-oriented agency requiring rigorous milestone checkoffs.*
+
+> [!citation-card] 现代科研资助组合的问责纪律
+> 在克服联邦资助机构官僚化与避险倾向的改革中，各机构必须建立基于海尔迈耶问卷（Heilmeier Catechism）的项目评估纪律，以此对资助组合的结构性收益开展定期独立审计，确保高风险探索真正服务于重大突破。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 32)]]
+>
+> *Agencies must establish rigorous program evaluation disciplines based on the Heilmeier Catechism to audit research portfolios and ensure accountability for structural payoffs.*
 
 ---
 
@@ -114,8 +126,9 @@ updated: 2026-10-04
 
 > [!finding-cards] 历史辐射与全球采纳
 > - **重塑 [[DARPA]] 使命管理纪律** 终结了 1960 年代对高校缺乏明确约束的开放撒钱模式，确立了“高风险探索必须匹配严苛里程碑考核”的现代治理文化。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
-> - **全球新型创新机构的共同基石** 先后被[[Department of Energy|美国能源部]]先进能源研究计划署（ARPA-E）、卫生健康高级研究计划局（ARPA-H）、情报先进研究计划署（IARPA）、英国先进研究与发明局（ARIA）等全球机构定为核心立项评价工具。
+> - **全球新型创新机构的共同基石** 先后被[[Department of Energy|美国能源部]]先进能源研究计划署（ARPA-E）、卫生高级研究计划署（ARPA-H）、情报先进研究计划署（IARPA）、英国高级研究与发明署（ARIA）等全球机构定为核心立项评价工具。
 > - **跨越科学探索与工程转化的沟通桥梁** 迫使科学家跳出象牙塔纯学术话语，以解决重大现实瓶颈为导向重构研究设计，极大地促进了前沿成果向产业界的[[Research Translation|技术转化]]。
+> - **国家科研基金组合审计标尺** 白宫 [[Office of Science and Technology Policy|OSTP]]《科学：新黄金时代》报告进一步将其作为联邦资助组合（[[Portfolio-Based Research Funding]]）开展独立绩效审计与去官僚化问责的通用基准。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 32)]]
 
 ---
 
@@ -130,3 +143,13 @@ updated: 2026-10-04
 > | [[George Heilmeier]] | Person | 该问卷的设计创立者与传奇 DARPA 局长。 |
 > | [[Broad Agency Announcement]] | Concept | BAA 资助公告与海尔迈耶问卷共同构成 DARPA 项目发包与筛选的制度双翼。 |
 > | [[Embedded Network Governance]] | Concept | 项目经理运用海尔迈耶问卷进行技术研判并引导战略[[Technological Trajectories\|技术轨道]]。 |
+> | [[Michael Kratsios]] | Person | 在 2026 年白宫 [[Office of Science and Technology Policy\|OSTP]] 报告中倡导将海尔迈耶问卷推广为联邦科研组合问责工具。 |
+> | [[Science A New Golden Age 2026]] | Fact (Report) | 将海尔迈耶问答列为国家科技资助体制现代化关键纪律的战略报告。 |
+
+---
+
+## 相关研究
+
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 考证[[George Heilmeier|乔治·海尔迈耶]]确立经典[[Questionnaire|问卷]]的历史背景，剖析其如何推动 [[DARPA]] 从分散式研究转向使命导向与里程碑严格问责。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）报告论述海尔迈耶问答（Heilmeier Catechism）在防范联邦科研资助平庸化与开展组合独立审计中的现代制度价值。

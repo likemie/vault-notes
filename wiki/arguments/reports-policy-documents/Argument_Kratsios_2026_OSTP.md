@@ -97,7 +97,6 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[United Kingdom Metascience Unit]]"
-  - "[[National Research Council]]"
   - "[[Accelerating Medicines Partnership]]"
 related_arguments: []
 sources:
@@ -112,10 +111,10 @@ title: "Argument_Kratsios_2026_OSTP"
 argument_key: "Argument_Kratsios_2026_OSTP"
 argument_display_title: "Science: A new golden age (Report to the President)"
 argument_kind: "report"
-argument_related_count: 75
-argument_related_level: 5
-argument_related_stars: "⭐⭐⭐⭐⭐"
-argument_related_color: "#fecdd3"
+argument_related_count: 74
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
+argument_related_color: "#dcfce7"
 journal: ""
 book_title: ""
 publication_place: "Washington, DC"
@@ -509,7 +508,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 繁复严苛的行政许可流程在物理世界设立了极高的制度摩擦，严重扼杀小型初创企业与实体技术建造者的创新活力。
 
 > [!case] 核反应堆设计认证的监管阻滞与行政改革
-> 在传统监管模式下，先进核能初创企业在开工前需经历长达五至六年的预申请沟通与四年的设计认证，单家企业需提交数万页申请材料，耗资数亿美元。2025 年 5 月颁布的核能监管改革行政令要求核管理委员会（Nuclear Regulatory Commission, [[National Research Council|NRC]]）在 18 个月内精简审批，为已获军方或能源部验证的堆型建立绿色通道，在规制决策中全面权衡国家安全与清洁能源收益，成为重振实体创新的关键转折（pp. 37–38）。
+> 在传统监管模式下，先进核能初创企业在开工前需经历长达五至六年的预申请沟通与四年的设计认证，单家企业需提交数万页申请材料，耗资数亿美元。2025 年 5 月颁布的核能监管改革行政令要求核管理委员会（Nuclear Regulatory Commission, NRC）在 18 个月内精简审批，为已获军方或能源部验证的堆型建立绿色通道，在规制决策中全面权衡国家安全与清洁能源收益，成为重振实体创新的关键转折（pp. 37–38）。
 
 > [!case] 视网膜假体海外[[Clinical Trial|临床试验]]与监管沙盒机制
 > 在生物医药领域，加利福尼亚州研发的创新视网膜假体由于本土临床审批流程冗长高昂，被迫将试验转移至欧洲开展。为此，食品药品监督管理局（Food and Drug Administration, FDA）启动实质性监管松绑，开始接受真实世界证据，将默认的两项临床试验优化为一项高统计效力的确证性研究，并借助监管沙盒在受控环境下为前沿生物医疗技术的落地积累规制证据（p. 38）。

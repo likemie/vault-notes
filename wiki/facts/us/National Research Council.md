@@ -4,7 +4,6 @@ aliases:
   - 美国国家科学研究委员会
   - 国家科学研究委员会
   - 国家研究委员会
-  - NRC
 summary: "美国国家科学院、工程院和医学院的最高常设运作实体与国家科学咨询中枢；在共同核心州立标准（CCSS）运动初期，应北卡罗来纳州前州长詹姆斯·B·亨特邀请召开两次奠基性证据研讨会，系统梳理了基于标准的学业问责实证文献并发布《教育领导力蓝图》与权威评议白皮书，为国家学术标准的动议立论奠定了无可撼动的最高科学权威基准。"
 type: fact
 subtype: organization
@@ -16,7 +15,7 @@ fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: research-institution
-headquarters: "美国华盛顿哥伦比亚特区"
+headquarters: 美国华盛顿哥伦比亚特区
 established: "1916"
 tags:
   - fact/organization
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # National Research Council

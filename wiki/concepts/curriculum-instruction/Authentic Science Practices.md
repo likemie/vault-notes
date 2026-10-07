@@ -9,7 +9,7 @@ aliases:
 summary: "当代科学教育的核心范式：倡导学生像专业科学家共同体一样直面科学不确定性、构建与修订因果解释、展开基于证据的论辩并享有认识能动性，而非机械执行预设教案"
 type: concept
 domain: "curriculum-instruction"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -49,8 +49,7 @@ related_instruments: []
 related_persons:
   - "[[Clark A. Chinn]]"
   - "[[Jianwei Zhang]]"
-related_facts:
-  - "[[National Research Council]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Zhang_2022_SE]]"
   - "[[Argument_Sandoval_2005_SE]]"
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 # Authentic Science Practices
@@ -180,7 +179,7 @@ updated: 2026-09-26
 > [!dev-timeline] 真实科学实践概念的学术演变脉络
 > - **2002 — [[Epistemology|认识论]]批判与奠基** Chinn & Malhotra 发表经典论文《Authentic Inquiry in the Classroom》，正式确立真实科学探究与传统学校实验的认识论对比框架。
 > - **2006 — 建模与社会实践转向** Lehrer & Schauble 及 Ford & Forman 推动科学教育从孤立技能训练转向“参与科学实践（Engaging in Scientific Practices）”与模型建构。
-> - **2012–2013 — 政策标准确立与八大实践规范化** 美国国家研究理事会（[[National Research Council|NRC]]）发布《K-12 科学教育框架》，随后《下一代科学标准》（NGSS）正式确立涵盖提问、建模、调查、论辩等在内的八项核心科学与工程实践（SEPs）。
+> - **2012–2013 — 政策标准确立与八大实践规范化** 美国国家研究理事会（NRC）发布《K-12 科学教育框架》，随后《下一代科学标准》（NGSS）正式确立涵盖提问、建模、调查、论辩等在内的八项核心科学与工程实践（SEPs）。
 > - **2015–2018 — 不确定性与[[Epistemic Agency|认识能动性]]深化** Manz、Miller 与 Stroupe 等学者深入探讨如何在真实课堂中驾驭[[Scientific Uncertainty|科学不确定性]]并落实学生的认识能动性。
 > - **2022 — 与[[Knowledge Building Theory|知识建构]]社群及自组织架构整合** [[Jianwei Zhang|张建伟]]等学者发表长周期实证[[Cohort Study|追踪研究]]，阐明如何通过[[Reflective Structuration|反思性结构化]]与[[Opportunistic Collaboration|弹性协作]]在小学科学课中全面激活学生的真实科学实践。[[Argument_Zhang_2022_SE\|(Zhang et al., 2022)]]
 

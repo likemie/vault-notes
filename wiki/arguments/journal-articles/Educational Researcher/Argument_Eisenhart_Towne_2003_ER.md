@@ -175,7 +175,7 @@ issuing_organization: ""
 > - **政治经济学维度的现实分析（Berliner, 2002; Graham, 2002）** 指出教育研究公信力不足的根源主要在于政府长期资金投入匮乏以及政党政治干预，而非缺乏研究方法本身。（pp. 31–32）
 
 > [!attention] 学界普遍存在的政策混同倾向
-> 面对《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）与《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA），争鸣席卷了各大行业学会与学术期刊；但争论各方普遍将 NCLB（2001）、ESRA（2002）、[[National Research Council|NRC]] 报告《教育科学研究》（SRE, 2002）以及新设立的[[Institute of Education Sciences|教育科学研究院]]（Institute of Education Sciences, IES）中的定义直接等同起来，笼统视作联邦政府推行实证主义的单向政治控制，忽略了不同法律文本之间深刻的制度差异。（pp. 31–32）
+> 面对《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）与《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA），争鸣席卷了各大行业学会与学术期刊；但争论各方普遍将 NCLB（2001）、ESRA（2002）、NRC 报告《教育科学研究》（SRE, 2002）以及新设立的[[Institute of Education Sciences|教育科学研究院]]（Institute of Education Sciences, IES）中的定义直接等同起来，笼统视作联邦政府推行实证主义的单向政治控制，忽略了不同法律文本之间深刻的制度差异。（pp. 31–32）
 
 #### 2. 《卓越阅读法》将财政拨款与科学证据挂钩，开创了强制资金合规的立法先例
 
@@ -296,7 +296,7 @@ issuing_organization: ""
 
 > [!finding-cards] 核心发现
 > 1. **华盛顿政策文本存在根本制度功能分野** 规约教育服务提供者证明经费支出的标准（如 [[Reading Excellence Act|REA]]、[[No Child Left Behind Act 2001|NCLB]]）偏好狭隘的实验因果检验；而规范联邦科研机构资助范围的标准（如 [[Education Sciences Reform Act 2002|ESRA]]）则确立了研究方法契合具体问题的宽泛探究原则。（pp. 32–34）
-> 2. **专业质证实质性扭转了科研立法的狭隘化取向** 2000 年初始 Castle 草案（H.R. 4875）对[[Qualitative Research|质性研究]]的贬低与硬性[[Hypothesis|假设]]检验门槛，经由 [[National Research Council|NRC]] 科学原则委员会报告（SRE）及国会质证的全力抗辩，在正式颁行的 ESRA（2002）中被彻底删除。（pp. 33–35）
+> 2. **专业质证实质性扭转了科研立法的狭隘化取向** 2000 年初始 Castle 草案（H.R. 4875）对[[Qualitative Research|质性研究]]的贬低与硬性[[Hypothesis|假设]]检验门槛，经由 NRC 科学原则委员会报告（SRE）及国会质证的全力抗辩，在正式颁行的 ESRA（2002）中被彻底删除。（pp. 33–35）
 > 3. **行政执行层面的微观规程同样具备政策可变性** [[What Works Clearinghouse|WWC]] 在推行初版 [[Study Design and Implementation Assessment Device|Study DIAD]] 规程后，吸纳了来自学界的 47 条公众评议，在正式修正案中承认量化非唯一科学、增设[[Regression Discontinuity Design|断点回归]]及 30 余项调节[[Variable|变量]][[Coding in Qualitative Research|编码]]。（pp. 35–36）
 > 4. **共同体公共参与是维系探究多元的关键保障** 科学标准的界定绝非封闭定论，若学界因抵触而放弃参与，政治力量必将迅速收拢并垄断科研标准；持续且富有建设性的公共审议是守护学术多元的决定性纽带。（pp. 36–37）
 
@@ -312,7 +312,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card] 论科学理解源于专业共同体而非行政法令
-> 问题在于将这些定义用作联邦法令。[[National Research Council|NRC]] 报告明确指出，任何领域——不仅是教育研究——科学理解的客观性与进步都不是来自某种特定方法或某个人，而是来自研究者共同体……联邦教育研究机构应当通过与学术领域紧密协作确立高质量标准等机制来推动改进，而非诉诸立法预设。（p. 34）
+> 问题在于将这些定义用作联邦法令。NRC 报告明确指出，任何领域——不仅是教育研究——科学理解的客观性与进步都不是来自某种特定方法或某个人，而是来自研究者共同体……联邦教育研究机构应当通过与学术领域紧密协作确立高质量标准等机制来推动改进，而非诉诸立法预设。（p. 34）
 >
 > *The problem [with the definitions] is with their use as a federal mandate. The NRC report makes clear that the objectivity and progress of scientific understanding in any [[Champ|field]]—not just education research—derives not from a given methodology or a given person. Rather, it comes from the community of researchers... A federal education research agency should play a major role in spurring those improvements... through mechanisms like... developing high standards of quality in close collaboration with the field.*
 
@@ -331,7 +331,7 @@ issuing_organization: ""
 ## 自述局限
 
 > [!warning]
-> - **作者身份带来的视角局限** 作者明确自述本研究的分析立足于其作为 [[National Research Council|NRC]] 科学原则委员会成员（Eisenhart）和研究主任（Towne）的亲历参与者视角，文章观点仅代表作者个人判断，不代表 NRC 或委员会全体成员的官方立场。（pp. 31, 37）
+> - **作者身份带来的视角局限** 作者明确自述本研究的分析立足于其作为 NRC 科学原则委员会成员（Eisenhart）和研究主任（Towne）的亲历参与者视角，文章观点仅代表作者个人判断，不代表 NRC 或委员会全体成员的官方立场。（pp. 31, 37）
 > - **改革法案实施周期尚短** 研究成文时《[[Education Sciences Reform Act 2002|教育科学改革法]]》颁布不足一年，[[Institute of Education Sciences|IES]] 与 [[What Works Clearinghouse|WWC]] 尚处于制度搭建初期，政策长期实施效果与资助格局仍有待时间检验。（p. 34）
 > - **待决法案的未来不确定性** 残疾人教育法案（IDEA）与[[Higher Education Act of 1965|高等教育法]]案（HEA）的重新授权草案当时虽已在众议院通过，但仍有待参议院审议及总统签署，政策最终走向存在动态变数。（p. 37）
 

@@ -73,8 +73,8 @@ related_facts:
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Education Innovation and Research]]"
   - "[[National Institute of Child Health and Human Development]]"
-  - "[[National Research Council]]"
   - "[[National Reading Panel]]"
+  - "[[National Research Council]]"
   - "[[International Reading Association]]"
   - "[[Investing in Innovation Program]]"
   - "[[Foundations for Evidence-Based Policymaking Act of 2018]]"
@@ -221,7 +221,7 @@ updated: 2026-10-07
 > 探讨法定科学证据标准如何超越纯技术属性，成为行政官僚、立法领导与商业出版集团结成次政府铁三角、排斥异质学术[[Paradigm|范式]]并进行利益再生产的制度化工具。
 
 > [!claim] [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]]
-> **次政府政商学同盟对科学标准的排他性建构** 杰奎琳·埃德蒙森（Jacqueline Edmondson, 2005）深入考察 1998 年《[[Reading Excellence Act|卓越阅读法案]]》与后续 NCLB 的立法机制指出，法定“科学本位研究”并非中立的科学演进结果，而是由国家行政官僚（[[National Institute of Child Health and Human Development|NICHD]] [[G. Reid Lyon|里德·里昂]]）、国会专委会核心领导（比尔·古德林）与商业出版财团（麦格劳-希尔等）结成的次政府利益同盟共同建构的产物。该同盟通过官方挑选的同质化专家委员会（[[National Research Council|NRC]] 与 [[National Reading Panel|NRP]]）制造排他性的官方共识，将特定实证干预范式上升为法律规范，系统性排斥质性、行动与社会文化研究，并在法案资助中实现定向商业利益输送（Strauss, 2001; Metcalf, 2002）。因此，科学证据标准从根本上是负载权威价值观与政商利益的社会建构。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–11)]]
+> **次政府政商学同盟对科学标准的排他性建构** 杰奎琳·埃德蒙森（Jacqueline Edmondson, 2005）深入考察 1998 年《[[Reading Excellence Act|卓越阅读法案]]》与后续 NCLB 的立法机制指出，法定“科学本位研究”并非中立的科学演进结果，而是由国家行政官僚（[[National Institute of Child Health and Human Development|NICHD]] [[G. Reid Lyon|里德·里昂]]）、国会专委会核心领导（比尔·古德林）与商业出版财团（麦格劳-希尔等）结成的次政府利益同盟共同建构的产物。该同盟通过官方挑选的同质化专家委员会（NRC 与 [[National Reading Panel|NRP]]）制造排他性的官方共识，将特定实证干预范式上升为法律规范，系统性排斥质性、行动与社会文化研究，并在法案资助中实现定向商业利益输送（Strauss, 2001; Metcalf, 2002）。因此，科学证据标准从根本上是负载权威价值观与政商利益的社会建构。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–11)]]
 
 ---
 
@@ -237,7 +237,7 @@ updated: 2026-10-07
 > 
 > 更为重要的是，法定标准并非不可撼动的实证霸权，而是留有公共审议的民主博弈空间：
 > - 2000 年初始卡斯尔草案（H.R. 4875）试图将实证假说检验强加为唯一科研标准，并将质性方法降格为仅供提出初步假说的边缘工具；
-> - 国家研究委员会（[[National Research Council]], NRC）受托发布《教育科学研究》（Scientific Research in Education, SRE）报告，提炼出跨学科通用的六[[Big Science|大科学]]探究原则，并由[[Richard J. Shavelson|理查德·沙维尔森]]（Richard Shavelson）在国会听证会上提供专业质证，有力论证了“任何方法学清单都无法定义科学，科学性取决于方法与[[Research Question|研究问题]]的逻辑契合”；
+> - [[National Research Council|国家研究委员会]]（[[National Research Council]], NRC）受托发布《教育科学研究》（Scientific Research in Education, SRE）报告，提炼出跨学科通用的六[[Big Science|大科学]]探究原则，并由[[Richard J. Shavelson|理查德·沙维尔森]]（Richard Shavelson）在国会听证会上提供专业质证，有力论证了“任何方法学清单都无法定义科学，科学性取决于方法与[[Research Question|研究问题]]的逻辑契合”；
 > - 国会最终在 2002 年通过的 ESRA 第 102(18) 节中彻底删除了卡斯尔草案对质性方法的歧视性条款，确立了“研究设计与方法切合待决问题”的包容性科学标准；
 > - 随后的有效干预清算中心（[[What Works Clearinghouse]], WWC）研究设计与实施方案（[[Study Design and Implementation Assessment Device|Study DIAD]]）在吸纳 47 项公共评议后，亦主动打破对实验的排他性垄断，将[[Regression Discontinuity Design|断点回归]]等准实验与深入的[[Implementation and Process Evaluation|过程评估]]纳入审查规程。
 > 
@@ -249,7 +249,7 @@ updated: 2026-10-07
 
 > [!dev-timeline] 概念演变
 > - **1998 年 — 法定渊源与立法博弈** 1998 年《[[Reading Excellence Act|卓越阅读法案]]》（REA）首次在联邦成文法中对阅读与“科学本位阅读研究”（SBRR）做出法定界定；众议院初版曾试图推行“可靠且可复制的研究”，后在参议院经[[International Reading Association|国际阅读协会]]游说折衷确立为 SBRR，为后续 [[No Child Left Behind Act 2001|NCLB]] 的通盘移植奠定了法律文本模板。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4–5, 7)]]
-> - **2000 年 — 资助立法争议与双重标准草案** 国会众议院提出卡斯尔草案（H.R. 4875），试图在联邦科研资助中设立量化强制假说检验与质性初步探索的割裂标准；NERPPB 委托 [[National Research Council|NRC]] 启动《教育科学研究》（SRE）研制。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–33)]]
+> - **2000 年 — 资助立法争议与双重标准草案** 国会众议院提出卡斯尔草案（H.R. 4875），试图在联邦科研资助中设立量化强制假说检验与质性初步探索的割裂标准；NERPPB 委托 NRC 启动《教育科学研究》（SRE）研制。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–33)]]
 > - **2001 年 — 联邦法定义务全面确立** 联邦签署《不让一个孩子掉队法》（NCLB），全文 110 次写入“科学本位研究”（SBR），首次将[[Positivism|实证主义]]方法学规范确立为联邦法定义务。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 16)]]
 > - **2002 年 — 独立平台设立与立法标准拓宽** 联邦颁布《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA），吸纳 NRC 证词与学界质证，确立方法契合问题的宽泛 SBR 标准并设立 [[Institute of Education Sciences|IES]] 与 [[What Works Clearinghouse|WWC]]；WWC 随后根据公共评议拓宽设计评估规程。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–36)]]; [[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 18–19)]]
 > - **2010 年 — 资助梯度试点推行** 奥巴马政府设立[[Investing in Innovation Program|创新投资项目]]（i3），首次在联邦资助中尝试推行按证据确定资助额度的三级梯度模型。

@@ -100,7 +100,7 @@ updated: 2026-10-02
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **《教育领导力蓝图》（Blueprint for Education Leadership）** 2007 年依托 [[National Research Council|NRC]] 专题研讨成果编制的政策简报，系统梳理了基于标准的学业问责实证证据，直接为后续 [[National Governors Association|NGA]] 和 [[Council of Chief State School Officers|CCSSO]] 启动通用标准立论。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]
+> - **《教育领导力蓝图》（Blueprint for Education Leadership）** 2007 年依托 NRC 专题研讨成果编制的政策简报，系统梳理了基于标准的学业问责实证证据，直接为后续 [[National Governors Association|NGA]] 和 [[Council of Chief State School Officers|CCSSO]] 启动通用标准立论。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]
 > - **[[Common Core State Standards|CCSS]] 全国推进协调网络（Weekly Coalition Calls）** 组织全美 7 至 14 家核心倡导机构开展长达数年的每周协调，形成空前紧密的政策同盟。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 20)]]
 > - **州长教育专题研讨会（Governors Education Symposium）** 全美唯一定期为在任州长量身定制的教育政策闭门研讨峰会，促进跨党派[[Policy Borrowing|政策借用]]。
 > - **全美教育立法者学院（Hunt State Policy Fellows）** 专门针对州议会教育委员会骨干议员设立的实证研究政策训练营。

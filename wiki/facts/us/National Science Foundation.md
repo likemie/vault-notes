@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 84
+fact_related_count: 62
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -196,13 +196,13 @@ updated: 2026-10-07
 > > 围绕在硬核技术提案中引入非学术性评价指标（如 DEI 倡议）的争论。
 > >
 > > - **多元代表性倡导** 认为应通过资助倾斜促进历史上代表性不足群体在科学界的参与。
-> > - **学术能力准则坚守论（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）** 2021 至 2024 年间 NSF 重点涉及 DEI 倡议的资助份额由不足 1% 激增至 25% 以上；批评者指出以偏离[[Scientific Literacy|科学素养]]与技术优劣的标准筛选项目，不仅造成巨大行政公关内耗，更直接损害国家科研体系的原始创新能力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
+> > - **学术能力准则坚守论** 2021 至 2024 年间 NSF 重点涉及 DEI 倡议的资助份额由不足 1% 激增至 25% 以上；批评者指出以偏离[[Scientific Literacy|科学素养]]与技术优劣的标准筛选项目，不仅造成巨大行政公关内耗，更直接损害国家科研体系的原始创新能力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
 >
 > > [!axis] 课题助研津贴 vs 可携带式早期奖学金
 > > 探讨研究生资助究竟应以充当 PI 实验室用工为导向，还是以赋权青年学者独立探索为导向。
 > >
 > > - **课题助研用工化批评（[[Argument_Stephan_2013_NBER|Stephan, 2013]]）** 资助过度绑定在 PI 项目上的助研津贴（GRAs），导致学生被异化为廉价劳动力并延长修读年限。
-> > - **可携带奖学金改革论（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）** 主张大规模扩充 NSF GRFP 奖学金名额，直接向博士生本人发放可携带资金，赋予青年学者挑选顶尖导师与跨学科探索的充分自主权。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
+> > - **可携带奖学金改革论** 主张大规模扩充 NSF GRFP 奖学金名额，直接向博士生本人发放可携带资金，赋予青年学者挑选顶尖导师与跨学科探索的充分自主权。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
 
 ---
 

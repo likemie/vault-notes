@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_display_title: "Research Methods in Education · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 69
+argument_related_count: 68
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -96,7 +96,6 @@ related_methods:
   - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts:
-  - "[[National Research Council]]"
   - "[[PISA]]"
   - "[[Achieve]]"
   - "[[Research in Schools Evaluation]]"
@@ -173,7 +172,7 @@ updated: '2026-08-27'
 > > - 在文献中遇到后希望进一步探索的议题
 >
 > > [!features] 外部驱动
-> > - 资助机构的优先事项（ESRC, Leverhulme, [[National Research Council|NRC]], SSRC 等）
+> > - 资助机构的优先事项（ESRC, Leverhulme, NRC, SSRC 等）
 > > - 研究者导师或项目团队确定的问题
 > > - 被认知为重要的领域（媒体报道、会议、期刊）
 > > - 时事议题

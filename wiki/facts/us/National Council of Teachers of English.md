@@ -107,7 +107,7 @@ updated: 2026-09-26
 >   - 《语言艺术》（*Language Arts*）——面向小学早期读写教学的旗舰期刊。
 >   - 《英语杂志》（*English Journal*）——面向中学英语教师的经典期刊。
 >   - 《大学写作与交流》（*College Composition and Communication, CCC*）。
-> - **抵制联邦规制标志性联合声明（1997）** 联合 [[National Research Council|NRC]] 与 NCRLL 代表逾 10 万名教育工作者向国会发表的严正声明，提出了著名的“三个绝不”原则。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 6)]]
+> - **抵制联邦规制标志性联合声明（1997）** 联合 NRC 与 NCRLL 代表逾 10 万名教育工作者向国会发表的严正声明，提出了著名的“三个绝不”原则。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 6)]]
 > - **反审查与知识自由倡导** 设立知识自由常设基金，常年为遭受政治审查与禁书困扰的公立学校教师提供法律与专业支持。
 
 > [!citation-card] NCTE 联合声明：对联邦强行规制阅读教学的坚决抵制（NCTE, 1997）
