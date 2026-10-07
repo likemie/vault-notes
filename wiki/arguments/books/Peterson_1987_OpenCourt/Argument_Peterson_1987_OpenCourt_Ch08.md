@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch08"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch08"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch08"
 argument_kind: "book-chapter"
-argument_related_count: 22
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -47,6 +47,7 @@ related_facts:
   - "[[UNESCO]]"
   - "[[Chinese Academy of Sciences]]"
   - "[[Science Technology and Social Change Curriculum Pilot]]"
+  - "[[1985 Trieste Intergovernmental Conference on the International Baccalaureate]]"
   - "[[1982 United World Colleges Scholarship Endowment Proposal]]"
   - "[[Simon Bolivar United World Institute of Experimental Agriculture]]"
 sources:
@@ -408,7 +409,7 @@ IB 的六组学科结构是折中，其国际性需要更多文化与国家的�
 > [!timeline] 城市覆盖目标与积极平衡政策的推进
 > - **1981年** 布鲁塞尔政府间会议提出，在每个具有大型国际社群的城市至少提供一所 IB 学校；当时所识别城市中47座已有学校。
 > - **1985年** 在上述城市中又增加30座有 IB 学校的城市。
-> - **1985年** 的里雅斯特会议要求通过其他地区的积极增长形成平衡，而不是限制已经增长的地区。（pp. 208–209）
+> - **1985年** [[1985 Trieste Intergovernmental Conference on the International Baccalaureate|1985年的里雅斯特国际文凭政府间会议]]要求通过其他地区的积极增长形成平衡，而不是限制已经增长的地区。（pp. 208–209）
 
 覆盖增加描述了供给变化，平衡政策的教育理由还需要从网络中的文化贡献解释。
 

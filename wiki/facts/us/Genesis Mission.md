@@ -3,38 +3,49 @@ title: Genesis Mission
 aliases:
   - 创世纪计划
   - 创世任务
-summary: "2025年11月由总统行政令启动、交能源部实施的美国旗舰人工智能科学计划，要把超级计算机、模型、仪器和数据接成发现引擎，并在十年内加倍美国科学与工程的生产率。"
+  - 美国科学与安全平台
+  - American Science and Security Platform
+summary: "2025年11月由美国总统行政令启动、由能源部（DOE）统筹实施的国家级旗舰人工智能科学计划；整合17个国家实验室的超级算力、大科学装置与海量数据，联合工业界构建美国科学与安全平台（ASSP），旨在通过战略问题甄选、科学基础模型训练、公共数据解封与闭环自主实验室建设，在十年内实现美国科学与工程生产率翻倍。"
 type: fact
 subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 10
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 18
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
-period: "2025年11月启动，十年目标"
-initiator_organization: "U.S. Department of Energy"
+period: "2025年11月启动，设定十年生产率翻倍目标"
+initiator_organization: "美国能源部（DOE）"
 tags:
   - region/us
   - policy/science-policy
   - theme/artificial-intelligence
   - theme/national-laboratories
+  - theme/big-science
 related_concepts:
+  - "[[Megascience Installations]]"
+  - "[[Paradigm]]"
+  - "[[Big Science]]"
+  - "[[Research Universities]]"
+  - "[[Hypothesis]]"
   - "[[Document]]"
-  - "[[Metascience]]"
-  - "[[Operationalization]]"
   - "[[Process Knowledge]]"
+  - "[[Data Infrastructure]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Michael Kratsios]]"
 related_facts:
+  - "[[Department of Energy]]"
+  - "[[National Science Foundation]]"
   - "[[Apollo Program]]"
+  - "[[Human Genome Project]]"
+  - "[[Restoring Gold Standard Science Executive Order]]"
   - "[[Science A New Golden Age 2026]]"
   - "[[Office of Science and Technology Policy]]"
-  - "[[Restoring Gold Standard Science Executive Order]]"
 related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
 confidence: high
@@ -49,66 +60,70 @@ updated: 2026-10-07
 
 ## 项目背景与立项契机
 
-> [!claim] 项目定位
-> 创世纪计划（Genesis Mission）是美国的旗舰人工智能科学计划。它把国家实验室的算力、模型和实验设施接成一台发现引擎，目标是十年内加倍美国科学与工程的生产率与影响。[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, p. 62]]
+> [!claim] 核心定位
+> 创世纪计划（Genesis Mission）是美国在智能时代启动的国家级旗舰人工智能科学计划（AI for Science Flagship Initiative）。该计划依托[[Department of Energy|美国能源部]]（Department of Energy, DOE）旗下 17 个国家实验室的超级计算网络、[[Megascience Installations|大科学装置]]与海量专用数据资产，联合私营前沿 AI 企业与芯片巨头构建“美国科学与安全平台”（American Science and Security Platform, ASSP），旨在将国家科研基础设施锻造为一台超级科学发现引擎，在 **十年内实现美国科学与工程生产率与影响力的翻倍**。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 62)]]
 
-> [!program-context] 项目背景
-> - **立项时间 / 周期** 2025 年 11 月由总统行政令启动。生产率目标的窗口是十年。[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, p. 62]]
-> - **发起方与资助机制** 行政令指示能源部建设美国科学与安全平台（American Science and Security Platform）。能源部 17 个国家实验室约有 4 万名科学家、工程师和技术人员，年经费约 200 亿美元。
-> - **覆盖范围与对象** 国家实验室的加速器、同步辐射光源、超级计算机，以及食品药品监督管理局、国家科学基金会、国家海洋和大气管理局、退伍军人事务部所掌管的长期科学数据。
-> - **核心问题导向** 私人前沿模型已经很强，联邦政府的增量不是抽象地再资助人工智能，而是把它导向能打开下游整枝发现的国家问题。
-
-计划被放在曼哈顿计划和[[Apollo Program|阿波罗计划]]的传统里。差别是这一次要利用的能力大量集中在私人实验室，公共机构要学会调用而不是复制。[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, p. 63]]
+> [!program-context] 机构背景
+> - **立项时间 / 周期规划** 2025 年 11 月由总统行政令正式签署启动，设定了跨度为十年的国家科研生产率跃升窗口。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 62)]]
+> - **发起主体与公共科研底盘** 能源部主导统筹 17 个国家实验室网络（汇聚约 4 万名科学家、工程师与技术专家，年均科研预算约 200 亿美元），并协同食品药品监督管理局（FDA）、国家科学基金会（[[National Science Foundation|NSF]]）、国家海洋和大气管理局（NOAA）与退伍军人事务部（VA）等联邦机构。
+> - **历史定位与[[Paradigm|范式]]差异** 计划被置于曼哈顿计划、[[Apollo Program|阿波罗计划]]与[[Human Genome Project|人类基因组计划]]的[[Big Science|大科学]]国家动员传统中；其根本性范式演进在于：当代最强的前沿 AI 模型与算力大量由私营产业实验室主导，联邦政府的核心增量职能不再是盲目复制商业算力集群，而是发挥**战略问题甄选**与**公共数据/实验装置调度**的独特职能。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 63)]]
 
 ---
 
-## 方案设计与资助机制
+## 方案设计与四大关键支柱
 
-> [!policy-design] 方案设计
-> - **项目目标** 十年内加倍美国科学与工程的生产率与影响，并让国家实验室的数据、设施和专门知识进入基础模型。
-> - **覆盖对象** 能源部国家实验室、签约的人工智能公司、半导体制造商和云服务商，以及需要人工智能可用数据的更广研究共同体。
-> - **干预措施** 选出至少 20 项国家挑战。建设美国科学云以整理和分发能源部的人工智能可用数据。投资机器人、自动化实验室和大型实验的自主控制。
-> - **实施控制** 挑战每年复审，以反映科学进展和国家优先序。问题要具备大的组合搜索空间、大量结构化数据和清楚基准，才进入当前系统。
+> [!policy-design] 方案设计与战略目标
+> - **总体目标** 在十年内将美国全社会科学发现与工程转化的速度与效率提升一倍，让国家实验室数十年来积累的专有数据、尖端仪器与物理机理深度融入科学基础模型。
+> - **覆盖主体** 能源部国家实验室、顶尖人工智能初创巨头、半导体制造与设计厂商、云算力基础设施服务商以及全美[[Research Universities|研究型大学]]。
+> - **核心治理杠杆** 组建转型人工智能模型联合体（Transformational AI Models Consortium），建立美国科学云（American Science Cloud），投资闭环自动化实验机器人，并与核验侧行政令形成闭环。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 62–64)]]
 
-2025 年 12 月，能源部与 24 家组织达成协议。转型人工智能模型联合体（Transformational AI Models Consortium）要让国家实验室与产业一起产生新的人工智能可用数据，并开发使用能源部特有数据的基础模型。[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, p. 63]]
-
-计划能否兑现，取决于四项约束。第一是问题选择。蛋白质结构预测被用作符合这些条件的例子，因为构型空间大、有几十年晶体学数据，而且关键评估蛋白质结构预测（Critical Assessment of Protein Structure Prediction, CASP）提供了基准。挑战覆盖先进制造、生物技术、关键材料、核裂变与聚变、量子信息科学和半导体。第二是机构能力，也就是把2026 年报告里的资助和伙伴关系改革放到国家尺度上。第三是数据。许多有价值的记录锁在许可后面，或因没有存储经费和价值信号而被丢掉。第四是实验设施。材料从实验室到部署大约要 20 年，闭环自主实验可能把时间缩短一个数量级。
-
----
-
-## 实施历程与关键产出
-
-> [!timeline] 推进节点
-> - **2025年11月** 总统行政令启动计划，并指示能源部建设美国科学与安全平台。[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, p. 62]]
-> - **2025年12月** 与 24 家组织签约，包括人工智能公司、半导体制造商和云服务商。
-> - **报告撰写时** 已投资 14 个聚焦机器人、自动化实验室和大型实验自主控制的项目。劳伦斯伯克利国家实验室的 A 实验室做无机材料固相合成，阿贡国家实验室的 Polybot 是模块化材料表征机器人平台。加拿大和中国也在向前赶。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 64)]]
-
-国家科学基金会以初始 3.8 亿美元投入可编程云实验室。这笔投入与创世纪计划平行，不计入该计划的内部预算。类比是 1980 年代国家科学基金会网络对互联网骨干的作用。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 64)]]
-
-仪器本身也需要重做。科学仪器产业的整合和离岸，造成产品昂贵、软件较差和专有数据格式。自动化工作流常常停在让不同仪器互相通信这一步。国家实验室的采购规模，可以用来推动开放接口和标准格式。
+> [!proc] 决定计划成败的四大关键维度（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, pp. 63–64]]）
+> 1. **战略问题甄选（Problem Selection）** 遴选至少 20 项兼具巨大国家战略价值与 AI 适用性的攻关挑战（覆盖先进制造、生物技术、关键材料、核裂变与聚变、量子信息科学及先进制程半导体）。入选挑战必须满足三大条件：超大组合搜索空间（Combinatorial Search Space）、丰富的高质量结构化数据底座，以及类似蛋白质结构预测关键评估（CASP）的客观衡量基准。
+> 2. **跨界联合体与机构能力重构（Institutional Architecture）** 突破传统联邦发包限制，通过 2025 年 12 月成立的“转型人工智能模型联合体”，组织 24 家顶级科技企业与国家实验室深度结盟，基于能源部专有物理与材料数据联合预训练科学基础大模型。
+> 3. **公共数据解封与科学云建设（Data Accessibility & American Science Cloud）** 破解海量科研数据被锁在专有期刊付费墙后或因缺乏长期存储经费而被废弃的困境；系统整理实验失败与阴性结果记录，转化为机器可读的标准化训练资产。
+> 4. **闭环自主实验基础设施（Closed-loop Autonomous Experimentation）** 将 AI [[Hypothesis|假设]]生成与物理世界实体实验自动化连接。传统先进材料从实验室到商业部署需耗时约 20 年，通过自适应机器人实验室将合成与表征周期压缩一个数量级。
 
 ---
 
-## 成效评估与影响
+## 实施历程与工程布局
 
-> [!finding-cards] 报告中的定位
-> - **生成器需要核验器** 计划被描述为一台能够以空前规模生产发现的科学发生器。若[[Document|文献]]基础不可重复，生产率的加倍没有意义。对应建设是黄金标准科学和可机审的复制包。[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, pp. 64–65]]
-> - **尚未到十年评估点** 2026 年 7 月的报告写的是设计和早期签约，不是十年生产率是否加倍的结果。
-
-> [!lessons] 设计教训
-> - 联邦增量在于问题选择和公共数据、公共仪器，不在于再建一套私人部门已经拥有的训练集群。
-> - 失败实验和实验流程数据在自动化以后会变值钱，但现行激励把它们丢掉。
+> [!timeline] 推进历程与里程碑节点
+> - **2025 年 11 月** 总统正式签署行政令启动创世纪计划，指示能源部构建美国科学与安全平台（ASSP）。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 62)]]
+> - **2025 年 12 月** 能源部与全美 24 家科技领军企业、芯片制造商与云服务商签署联合体框架协议，启动科学基础模型联合研发。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 63)]]
+> - **2026 年初** 能源部首批投资 14 个聚焦机器人技术、自动化实验室和大型实验装置自主控制的攻坚项目：
+>   - 劳伦斯伯克利国家实验室（LBNL）推进 **A-Lab** 无机材料自主固相合成平台；
+>   - 阿贡国家实验室（ANL）部署 **Polybot** 模块化材料表征机器人。
+> - **平行生态联动** 国家科学基金会（[[National Science Foundation|NSF]]）以初始 **3.8 亿美元** 预算启动可编程云实验室（Programmable Cloud Labs），与创世纪计划形成平行支持，类比 1980 年代 NSFNET 对早期互联网骨干的筑基作用。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 64)]]
 
 ---
 
-## 相关条目
+## 体系成效与生成-核验双重平衡
+
+> [!finding-cards] 理论定位与治理启示
+> - **生成能力必须与核验能力同等规模扩大** 创世纪计划被定位为一台具有空前发现产能的“科学生成器”；但[[Michael Kratsios|克拉齐奥斯]]报告强调，若上游[[Document|文献]]充斥不可复现的错误结论，AI 模型将产生灾难性的虚假共识。因此，该计划必须与《[[Restoring Gold Standard Science Executive Order|恢复黄金标准科学行政令]]》严格配对，通过机器可读的代码复现包与自动化协议同步构筑“核验基础设施”。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 64–65)]]
+> - **以采购规模倒逼仪器接口开放与标准化** 长期以来科学仪器行业的封闭生态导致数据格式碎片化，阻碍了自动化实验流水线搭建；创世纪计划依托国家实验室庞大的仪器采购规模，强制推行通用数据交换标准与开放 API 接口。
+> - **[[Process Knowledge|过程知识]]与实体制造的最终约束** 即使算法与[[Hypothesis|假设]]生成完全智能化，材料与器件的最终定型仍深植于熟练工匠的排障手感与实体产线工程能力之中，凸显了[[Process Knowledge|过程知识]]在智能时代的不可替代性。
+
+---
+
+## 相关条目网络
 
 > [!entry-map]
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Science A New Golden Age 2026]] | Fact | 把创世纪计划写成第五章的旗舰建设，并规定其四项约束。 |
-> | [[Michael Kratsios]] | Person | 呈交阐述该计划的 2026 年报告的[[Office of Science and Technology Policy\|科学技术政策办公室]]主任。 |
-> | [[Restoring Gold Standard Science Executive Order]] | Fact | 被指定为生成能力的核验对应物。 |
-> | [[Metascience]] | Concept | 计划要[[Operationalization\|操作化]]的资助改革，依赖机构能够实验自己的规则。 |
-> | [[Process Knowledge]] | Concept | 智能变充裕后，制造和手艺仍是实验设施能否跟上的约束。 |
+> | [[Restoring Gold Standard Science Executive Order]] | Fact (Policy) | 与创世纪计划（生成侧）配对的核验侧核心行政令，共同构建可复现科学闭环。 |
+> | [[Science A New Golden Age 2026]] | Fact (Policy) | 2026 年总统科学报告，将创世纪计划列为第五章智能时代科学基础设施的核心支柱。 |
+> | [[Department of Energy]] | Fact (Organization) | 创世纪计划的法定主导实施机构，统筹 17 个国家实验室超级算力与[[Megascience Installations\|大科学装置]]。 |
+> | [[National Science Foundation]] | Fact (Organization) | 平行出资 3.8 亿美元建设可编程云实验室，协同支撑自动化实验生态。 |
+> | [[Human Genome Project]] | Fact (Program) | 创世纪计划在问题选择与平台化[[Data Infrastructure\|数据基础设施]]构建上的直接历史参照原型。 |
+> | [[Apollo Program]] | Fact (Program) | 创世纪计划所继承的国家战略科技动员与跨部门攻坚传统。 |
+> | [[Process Knowledge]] | Concept | 闭环自主实验设施与先进仪器制造中不可或缺的底层默会工艺知识。 |
+> | [[Michael Kratsios]] | Person | [[Office of Science and Technology Policy\|OSTP]] 主任，在 2026 年总统科学报告中系统阐述创世纪计划的顶层设计与实施路径。 |
+
+---
+
+## 相关研究
+
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统阐述 2025 年 11 月启动的创世纪计划（Genesis Mission）；详细剖析如何依托能源部 17 个国家实验室与 24 家企业联合体构建美国科学与安全平台（ASSP），提出战略问题选择、科学云数据解封与闭环自主实验室建设路径，论证在十年内将科学工程生产率翻倍并与黄金标准科学核验侧协同推进的顶层设计。

@@ -49,6 +49,7 @@ related_facts:
   - "[[Department of Energy]]"
   - "[[National Science Foundation]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"
+  - "[[Workforce Pell Grants 2025]]"
 related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Fan_2026_BCAS]]"
@@ -118,7 +119,7 @@ updated: 2026-10-07
 > - **组合式资助（Portfolio Funding）** 在联邦资助中统筹配置高风险探索、中等规模工程与拉动奖金，设立法定[[Metascience|元科学]]单元以[[Randomised Controlled Trials|随机对照实验]]评估资助有效性。
 > - **新型非营利执行实体** 大力倡导[[Focused Research Organization|聚焦研究组织]]（FRO）与 [[National Science Foundation|NSF]] 技术创新伙伴关系（[[Directorate for Technology, Innovation and Partnerships|TIP]]）X 实验室，弥补高校单 PI 课题组与商业企业之间的中等规模工程科学空白。
 > - **基础设施与监管松绑** 全面开放能源部 28 个国家用户设施与微纳洁净室；在核能与生物医药领域推行[[Permissionless Innovation|无许可创新]]与监管沙盒。
-> - **手艺与学徒支持** 推动劳动力佩尔助学金落地，建立与雇佣留任挂钩的学徒绩效拨款，打破高等教育对技能资助的垄断。
+> - **手艺与学徒支持** 推动[[Workforce Pell Grants 2025|劳动力佩尔助学金]]落地，建立与雇佣留任挂钩的学徒绩效拨款，打破高等教育对技能资助的垄断。
 
 ---
 

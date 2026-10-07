@@ -1,8 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "Research Universities",
+      "path": "wiki/concepts/higher-education/Research Universities.md"
+    },
+    {
       "basename": "Argument_Kratsios_2026_OSTP",
       "path": "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md"
+    },
+    {
+      "basename": "Innovation Hub",
+      "path": "wiki/concepts/university-industry-collaboration/Innovation Hub.md"
+    },
+    {
+      "basename": "Apprenticeship",
+      "path": "wiki/concepts/instruction-pedagogy/Apprenticeship.md"
+    },
+    {
+      "basename": "Grand Challenges",
+      "path": "wiki/concepts/science-policy/Grand Challenges.md"
+    },
+    {
+      "basename": "Department of Energy",
+      "path": "wiki/facts/us/Department of Energy.md"
+    },
+    {
+      "basename": "Metascience",
+      "path": "wiki/concepts/science-policy/Metascience.md"
+    },
+    {
+      "basename": "Innovation Ecosystem",
+      "path": "wiki/concepts/university-industry-collaboration/Innovation Ecosystem.md"
+    },
+    {
+      "basename": "National Innovation System",
+      "path": "wiki/concepts/university-industry-collaboration/National Innovation System.md"
+    },
+    {
+      "basename": "Science A New Golden Age 2026",
+      "path": "wiki/facts/us/Science A New Golden Age 2026.md"
+    },
+    {
+      "basename": "Workforce Pell Grants 2025",
+      "path": "wiki/facts/us/Workforce Pell Grants 2025.md"
+    },
+    {
+      "basename": "Genesis Mission",
+      "path": "wiki/facts/us/Genesis Mission.md"
+    },
+    {
+      "basename": "Restoring Gold Standard Science Executive Order",
+      "path": "wiki/facts/us/Restoring Gold Standard Science Executive Order.md"
+    },
+    {
+      "basename": "Nuclear Regulatory Reform Executive Orders 2025",
+      "path": "wiki/facts/us/Nuclear Regulatory Reform Executive Orders 2025.md"
+    },
+    {
+      "basename": "Sematech",
+      "path": "wiki/facts/us/Sematech.md"
+    },
+    {
+      "basename": "EUV LLC",
+      "path": "wiki/facts/us/EUV LLC.md"
+    },
+    {
+      "basename": "Human Genome Project",
+      "path": "wiki/facts/us/Human Genome Project.md"
     },
     {
       "basename": "Bell Labs",
@@ -47,10 +111,6 @@
     {
       "basename": "Linear Model of Innovation",
       "path": "wiki/concepts/university-industry-collaboration/Linear Model of Innovation.md"
-    },
-    {
-      "basename": "Metascience",
-      "path": "wiki/concepts/science-policy/Metascience.md"
     },
     {
       "basename": "International Schools",
@@ -139,66 +199,6 @@
     {
       "basename": "Best Evidence Synthesis",
       "path": "wiki/facts/new-zealand/Best Evidence Synthesis.md"
-    },
-    {
-      "basename": "Seed Funding",
-      "path": "wiki/concepts/science-policy/Seed Funding.md"
-    },
-    {
-      "basename": "Nam Pyo Suh",
-      "path": "wiki/persons/us/Nam Pyo Suh.md"
-    },
-    {
-      "basename": "Competitiveness",
-      "path": "wiki/concepts/university-industry-collaboration/Competitiveness.md"
-    },
-    {
-      "basename": "National Science Foundation",
-      "path": "wiki/facts/us/National Science Foundation.md"
-    },
-    {
-      "basename": "Educational Evidence Clearinghouses",
-      "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md"
-    },
-    {
-      "basename": "Engineering Research Centers",
-      "path": "wiki/facts/us/Engineering Research Centers.md"
-    },
-    {
-      "basename": "National Academy of Sciences",
-      "path": "wiki/facts/us/National Academy of Sciences.md"
-    },
-    {
-      "basename": "Academic Freedom",
-      "path": "wiki/concepts/higher-education/Academic Freedom.md"
-    },
-    {
-      "basename": "Big Science",
-      "path": "wiki/concepts/science-policy/Big Science.md"
-    },
-    {
-      "basename": "Argument_Cohen_2025_JTT",
-      "path": "wiki/arguments/journal-articles/The Journal of Technology Transfer/Argument_Cohen_2025_JTT.md"
-    },
-    {
-      "basename": "Argument_Bergeron_2017_MJE",
-      "path": "wiki/arguments/journal-articles/McGill Journal of Education/Argument_Bergeron_2017_MJE.md"
-    },
-    {
-      "basename": "Argument_OxfordUIDP_2019_UIPartnerships",
-      "path": "wiki/arguments/reports-policy-documents/Argument_OxfordUIDP_2019_UIPartnerships.md"
-    },
-    {
-      "basename": "Argument_Stephan_2013_NBER",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Stephan_2013_NBER.md"
-    },
-    {
-      "basename": "Argument_UIDP_2012_PartnershipContinuum",
-      "path": "wiki/arguments/reports-policy-documents/Argument_UIDP_2012_PartnershipContinuum.md"
-    },
-    {
-      "basename": "Erich Bloch",
-      "path": "wiki/persons/us/Erich Bloch.md"
     }
   ],
   "omittedPaths": [],

@@ -21,11 +21,11 @@ tags:
 related_concepts:
   - "[[Network Governance]]"
   - "[[International Schools]]"
+  - "[[International Education]]"
   - "[[International Baccalaureate]]"
   - "[[Experiential Learning]]"
   - "[[Space of Flows and Space of Places]]"
   - "[[Theory of Knowledge]]"
-  - "[[International Education]]"
   - "[[Boarding Schools]]"
 related_persons:
   - "[[Louis Mountbatten]]"
@@ -105,6 +105,11 @@ updated: 2026-10-07
 > - **书院分摊**
 >
 >   托尼·贝塞（Tony Besse）推动从各书院学费收入中征收固定费用，为国际办公室建立可预测的经常收入。各校反对共同征费，显示书院自治与网络共同成本之间持续存在张力。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, p. 109)]]
+
+政府参与还涉及公共责任如何进入民间组织的政策形成。
+
+> [!policy-design] 公共出资增长与组织政策影响需要协调
+> 政府支持被期待从资助个别学生和建校进一步发展为持续教育责任；与更大出资比例相伴，政府也应获得更多政策影响。这是记述时针对民间组织难以独自维持社会开放提出的发展方向，并未给出UWC统一的政府席位或出资比例。整体供给论证见[[International Education|国际教育]]。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 215–216)]]
 
 ---
 

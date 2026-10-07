@@ -47,7 +47,8 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Chris Freeman]]"
-related_facts: []
+related_facts:
+  - "[[Workforce Pell Grants 2025]]"
 related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Freeman_1995_CJE]]"
@@ -138,7 +139,7 @@ updated: 2026-10-07
 > 探讨单一学术学位评价如何割裂动手手艺，以及重振技能基底的制度方案。
 
 > [!claim] Kratsios, M. J.
-> **破除单一四年制学位垄断并重塑学徒通道** 传统高等教育过分偏向数学理论抽象，忽视车间排障与动手实验；国家必须将过程知识制度化纳入人才培养体系，依托社区学院、国家工匠奖学金、驻校实践者项目以及允许短期培训使用联邦学生资助的劳动力佩尔助学金，建立产研紧密咬合的技能传承生态。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52–53)]]
+> **破除单一四年制学位垄断并重塑学徒通道** 传统高等教育过分偏向数学理论抽象，忽视车间排障与动手实验；国家必须将过程知识制度化纳入人才培养体系，依托社区学院、国家工匠奖学金、驻校实践者项目以及允许短期培训使用联邦学生资助的[[Workforce Pell Grants 2025|劳动力佩尔助学金]]，建立产研紧密咬合的技能传承生态。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52–53)]]
 
 ---
 

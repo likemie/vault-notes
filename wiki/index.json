@@ -30098,7 +30098,8 @@
     "path": "wiki/facts/us/Nuclear Regulatory Reform Executive Orders 2025.md",
     "aliases": [
       "2025年核监管改革行政令",
-      "2025 nuclear executive orders"
+      "2025 nuclear executive orders",
+      "2025年核能监管改革总统行政令"
     ]
   },
   {
@@ -30175,7 +30176,8 @@
       "科学：新的黄金时代",
       "科学新黄金时代",
       "Science: A New Golden Age",
-      "Kratsios report"
+      "Kratsios report",
+      "克拉齐奥斯报告"
     ]
   },
   {
@@ -30272,8 +30274,10 @@
     "type": "fact",
     "path": "wiki/facts/us/Workforce Pell Grants 2025.md",
     "aliases": [
+      "劳动力佩尔助学金",
       "劳动力助学金",
-      "Workforce Pell"
+      "Workforce Pell",
+      "Workforce Pell Grants"
     ]
   },
   {
@@ -30544,7 +30548,9 @@
     "path": "wiki/facts/us/Genesis Mission.md",
     "aliases": [
       "创世纪计划",
-      "创世任务"
+      "创世任务",
+      "美国科学与安全平台",
+      "American Science and Security Platform"
     ]
   },
   {
@@ -30553,7 +30559,7 @@
     "path": "wiki/facts/us/Human Genome Project.md",
     "aliases": [
       "人类基因组计划",
-      "Human Genome Project"
+      "HGP"
     ]
   },
   {
