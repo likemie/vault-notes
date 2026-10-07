@@ -10,7 +10,7 @@ summary: "美国著名产业经济学家，哥伦比亚大学与科罗拉多矿�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Paradigm]]"
   - "[[Second-Sourcing]]"
+  - "[[Competitiveness]]"
   - "[[Innovation Ecosystem]]"
   - "[[Growth]]"
   - "[[Demand-side Innovation Policy]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # John E. Tilton
@@ -82,7 +83,7 @@ updated: 2026-10-05
 ## 核心思想
 
 > [!claim] 核心学术思想
-> 约翰·E·蒂尔顿（John E. Tilton）的核心洞见在于：传统大企业往往深陷成熟技术[[Paradigm|范式]]的资产与组织锁定（如老牌电子管巨头通用电气、RCA 与雷神迟缓对待晶体管革新）；战后美国联邦国防采购之所以能取得巨大成功，关键在于采购官员坚持根据严格的技术性能指标公开招标并强制要求第二货源（[[Second-Sourcing]]），而不是依据企业的历史声誉或规模发包，从而为高灵活性的新创企业（如德州仪器、[[Fairchild Semiconductor|仙童半导体]]）提供了至关重要的初始市场订单，最终彻底打破了既有寡头垄断，孕育出具有全球竞争力的[[Innovation Ecosystem|创新生态]]。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 8)]]
+> 约翰·E·蒂尔顿（John E. Tilton）的核心洞见在于：传统大企业往往深陷成熟技术[[Paradigm|范式]]的资产与组织锁定（如老牌电子管巨头通用电气、RCA 与雷神迟缓对待晶体管革新）；战后美国联邦国防采购之所以能取得巨大成功，关键在于采购官员坚持根据严格的技术性能指标公开招标并强制要求第二货源（[[Second-Sourcing]]），而不是依据企业的历史声誉或规模发包，从而为高灵活性的新创企业（如德州仪器、[[Fairchild Semiconductor|仙童半导体]]）提供了至关重要的初始市场订单，最终彻底打破了既有寡头垄断，孕育出具有全球[[Competitiveness|竞争力]]的[[Innovation Ecosystem|创新生态]]。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 8)]]
 
 > [!citation-card] 蒂尔顿论国防采购对打破寡头垄断与扶植新创企业的实证结论
 > 蒂尔顿（Tilton, 1971）在[[Brookings Institution|布鲁金斯学会]]专著中总结指出，政府采购对半导体产业最突出的贡献在于扶持了新创企业：

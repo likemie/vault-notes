@@ -8,10 +8,10 @@ summary: "德国教育统计学家、经合组织（OECD）教育与技能司司
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 39
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 40
+person_related_level: 5
+person_related_stars: "⭐⭐⭐⭐⭐"
+person_related_color: "#ffedd5"
 born: "1964"
 lifespan: "1964–至今"
 tags:
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[School Autonomy]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Competitiveness]]"
   - "[[Rote Learning]]"
   - "[[PISA Shock]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 
 # Andreas Schleicher
@@ -114,7 +115,7 @@ updated: 2026-09-18
 ## 核心思想
 
 > [!claim] 核心主张
-> 施莱歇尔秉持“无测量即无改进”的实证治理哲学。他坚信在全球化[[Knowledge-Based Economy\|知识经济]]时代，国家教育竞争力不再由输入性的课时、经费或[[Rote Learning\|死记硬背]]的教学大纲所决定，而取决于学生面对未知未来情境时外推与创新运用知识的实际能力。他主张国际组织应扮演超越主权狭隘视野的“[[Policy Brokerage\|政策中介]]镜鉴”，通过严格标定的跨国横向比较（Peer Referencing），破除各国教育系统自我陶醉的传统神话，向决策者提供无可辩驳的实证硬事实，驱动公共教育体制向结果导向的高效问责生态演进。
+> 施莱歇尔秉持“无测量即无改进”的实证治理哲学。他坚信在全球化[[Knowledge-Based Economy\|知识经济]]时代，国家教育[[Competitiveness|竞争力]]不再由输入性的课时、经费或[[Rote Learning\|死记硬背]]的教学大纲所决定，而取决于学生面对未知未来情境时外推与创新运用知识的实际能力。他主张国际组织应扮演超越主权狭隘视野的“[[Policy Brokerage\|政策中介]]镜鉴”，通过严格标定的跨国横向比较（Peer Referencing），破除各国教育系统自我陶醉的传统神话，向决策者提供无可辩驳的实证硬事实，驱动公共教育体制向结果导向的高效问责生态演进。
 
 > [!citation-card] 跨国证据与教育体系自我超越
 > 过去教育由国家规定教什么与学什么；但在今天，全球经济不再因为你知道什么而奖励你，而是因为你能用所知做些什么而奖励你。大规模国际测评的根本价值不在于排名，而在于让政策制定者看到全球其他体系可能达到的更高水准，从而激发改革意志，建立面向未来的世界级学校体系。(Schleicher, 2018)

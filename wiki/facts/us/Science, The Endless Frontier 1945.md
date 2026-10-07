@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 41
+fact_related_count: 43
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -52,6 +52,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
+  - "[[Michael Kratsios]]"
 related_facts:
   - "[[Office of Scientific Research and Development]]"
   - "[[National Science Foundation]]"
@@ -64,6 +65,7 @@ related_facts:
   - "[[Restoring Gold Standard Science Executive Order]]"
   - "[[OECD]]"
   - "[[Frascati Manual]]"
+  - "[[Science A New Golden Age 2026]]"
   - "[[Office of Science and Technology Policy]]"
 related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
@@ -71,10 +73,11 @@ related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_Caraca_2009_TFSC]]"
   - "[[Argument_Stephan_2013_NBER]]"
+  - "[[Argument_Kratsios_2026_OSTP]]"
 confidence: high
 status: completed
 created: 2026-05-26
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Science, The Endless Frontier 1945
@@ -165,6 +168,7 @@ updated: 2026-10-06
 > - **政策反思：[[Pasteur's Quadrant|帕斯德象限]]与循环理论的反向重构** 促使当代科技政策界发起长达数十年的反思运动，直接催生了斯托克斯的用启发性基础研究概念以及纳拉亚纳穆尔提等人的[[Discovery-Invention Cycle|发现-发明循环]]理论。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862–863)]]; [[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–33)]]
 > - **意外后果：大学微观激励异化与体制压力** 布什关于高风险容错、独立学生奖学金与学科均衡发展的三大核心设想在大学后续的主动改造中被逐步侵蚀，演变为软钱模式、博士用工依赖与生物医学过度集中。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 37)]]
 > - **当代规范位移：从免检制度前提退化为待证命题** 2025 年前后，支撑无止境边疆的默认信任、时间容忍与自治保障面临全面调整；基础研究探索由[[Doxa|不言自明]]的免检制度前提，退化为必须频繁接受政治审计与经济可验证性考核的待正当化命题。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1063–1064)]]
+> - **政策继任文本：2026 年《[[Science A New Golden Age 2026|科学：新的黄金时代]]》** 2026 年 7 月 21 日，[[Office of Science and Technology Policy|白宫科学技术政策办公室]]主任[[Michael Kratsios|迈克尔·克拉齐奥斯]]向总统呈交对照本报告写成的继任文本。它保留联邦资助私人资本不会充分承担的基础研究这一公共职能，同时判定从基础研究到应用再到开发的单向分工已不能描述当代发现。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. v–vii, 5–7)]]
 
 > [!stat-cards]- 历史量化事实
 > - **$345M vs $288.4B** 1940 年战前全美 R&D 总支出（折合 2000 年不变价 37.5 亿美元）与 2004 年全美 R&D 总支出（2000 年不变价 2,884 亿美元），反映战后联邦契约驱动下的体量巨变。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 33–34)]]

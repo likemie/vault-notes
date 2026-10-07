@@ -11,7 +11,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Relational Space]]"
   - "[[Network Governance]]"
 related_facts:
+  - "[[Accelerating Medicines Partnership]]"
   - "[[Australian Schools Plus]]"
   - "[[Evidence for Learning]]"
   - "[[Education Endowment Foundation]]"
@@ -67,7 +68,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Social Ventures Australia
@@ -80,7 +81,7 @@ updated: 2026-10-02
 > 澳大利亚[[Social Impact Investing\|社会影响力投资]]市场的领军[[Venture Philanthropy\|风险慈善]]机构与智库咨询实体，旨在将风险投资与私募股权纪律、工具及支持模式引入社会创业与公共教育改革，充当连接跨国企业资本、大型基金会、国家决策层与一线学校的[[Policy Network\|政策网络]]中枢，推进[[Philanthrocapitalism\|慈善资本主义]]的异层治理与市场缔造实践（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5–6]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 520–522]]）。
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 2002 年由麦肯锡公司（McKinsey & Company）荣休董事罗伯特·麦克莱恩（Robert McLean）发起，联合安保集团（Australian Mutual Provident Society, AMP）、善心社（The Benevolent Society）及斯密斯家庭（The Smith Family）共同创设，前麦格理银行银行家[[Michael Traill\|迈克尔·特雷尔]]（Michael Traill）出任首任首席执行官（Traill, 2016; [[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 5]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 520, 524]]）。
+> - **成立时间 / 创设背景** 2002 年由麦肯锡公司（McKinsey & Company）荣休董事罗伯特·麦克莱恩（Robert McLean）发起，联合安保集团（Australian Mutual Provident Society, [[Accelerating Medicines Partnership|AMP]]）、善心社（The Benevolent Society）及斯密斯家庭（The Smith Family）共同创设，前麦格理银行银行家[[Michael Traill\|迈克尔·特雷尔]]（Michael Traill）出任首任首席执行官（Traill, 2016; [[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 5]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 520, 524]]）。
 > - **总部地点 / 业务辐射** 总部位于悉尼与墨尔本，业务辐射全澳各州与领地，并在教育、就业、住房与社会影响力投资领域深度布局。
 > - **法人属性与经费基础** 依据《2001年公司法》注册为担保有限公司，具备注册非营利慈善组织与第一类可抵税捐赠受赠人（[[Deductible Gift Recipient]] Type 1, DGR1）法定资质；管理资产逾 1.5 亿澳元，下设 4 家全资子公司构建多层控股架构；2021 财年吸纳政府直接财政补贴 121.6 万澳元、企业与慈善捐赠 600 万澳元，旗下专业咨询部门年均营业额近 1000 万澳元（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5–6]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 524, 527–528]]）。
 > - **核心宗旨与法定职责** 宣称致力于消除社会不利处境、提升社会[[Return on Investment\|投资回报]]（Social Return on Investment, SROI），将风投和私募股权纪律植入社会与教育公益，通过提供商业咨询、构建证据量规与孵化中介实体统摄治理权力。

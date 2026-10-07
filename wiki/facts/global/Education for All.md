@@ -11,7 +11,7 @@ subtype: policy
 region: "global"
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Performance Indicators]]"
   - "[[Development Education]]"
+  - "[[Engineering Education]]"
   - "[[Governing by Numbers]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Education for All
@@ -181,7 +182,7 @@ updated: 2026-10-05
 > > [!axis] 初等教育优先单点突破 vs [[National Innovation System|国家创新系统]]全链条人力资源配置
 > > 围绕[[Development Education|发展中国家教育]]投资重心的配置，发展经济学与创新经济学存在深刻论争。
 > >
-> > - **世行传统[[Human Capital Theory|人力资本]]收益率论（Psacharopoulos & Woodhall, 1985）** 依据微观初等教育极高的私人回报率测算，主张后发国家应将几乎全部教育援助资源压注于小学基础教育，甚至建议压缩对中等与高等工程教育的公共投入。
+> > - **世行传统[[Human Capital Theory|人力资本]]收益率论（Psacharopoulos & Woodhall, 1985）** 依据微观初等教育极高的私人回报率测算，主张后发国家应将几乎全部教育援助资源压注于小学基础教育，甚至建议压缩对中等与[[Engineering Education|高等工程教育]]的公共投入。
 > > - **国家[[Systems of Innovation|创新系统]]与技术[[Absorptive Capacity|吸收能力]]论（弗里曼，1995）** 反驳了孤立看待初等教育的狭隘视角，强调基础教育普及虽是必要前提，但若缺乏与中等职业技术培训、高等工科教育的系统性衔接，后发国家将陷入低技能锁定陷阱。韩国的赶超经验表明，基础教育普及必须与高等工程教育的扩张形成协同咬合（韩国高等教育入学率 32%，工科生占人口 0.54%），才能真正将人口转化为吸收外国技术的国家创新能力；而巴西将资源孤立分散且高等技术教育停滞（入学率 11%，工科生占人口 0.13%），导致国家整体技术能力在外部债务危机面前全面溃退。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]
 
 > [!citation-card] 全民教育目标下的结构调整与量化依赖

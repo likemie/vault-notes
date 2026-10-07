@@ -12,7 +12,7 @@ subtype: policy
 region: "us"
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 33
+fact_related_count: 34
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
   - theme/evidence-use
   - theme/policy-cycle
 related_concepts:
+  - "[[Competitiveness]]"
   - "[[College and Career Readiness]]"
   - "[[Learning Progression]]"
   - "[[Policy Window]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 # Common Core State Standards
@@ -78,7 +79,7 @@ updated: 2026-09-26
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2009 年由[[National Governors Association|全国州长协会]]（National Governors Association, NGA）与[[Council of Chief State School Officers|州首席教育官理事会]]（Council of Chief State School Officers, CCSSO）联合发起启动，2010 年 6 月正式联合发布标准终稿。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 1, 8)]]
 > - **适用地区 / 对象** 全美各州公立教育系统，覆盖幼儿园至高中十二年级（K–12）全体在读学生的英语语言艺术（English Language Arts, ELA）与数学学科。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 1, 13)]]
-> - **问题背景** 长期以来美国各州独立制定学术标准，导致不同州之间熟练水平界定悬殊，[[National Assessment of Educational Progress|全国教育进展评估]]（National Assessment of Educational Progress, NAEP）与各州自测通过率存在巨大统计落差；加之[[TIMSS|国际数学与科学趋势研究]]（Trends in International Mathematics and Science Study, TIMSS）与[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）中美国表现平平，高中毕业生进入大学的高额补习率引发了对国家劳动力质量与经济竞争力的普遍焦虑。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–10)]]
+> - **问题背景** 长期以来美国各州独立制定学术标准，导致不同州之间熟练水平界定悬殊，[[National Assessment of Educational Progress|全国教育进展评估]]（National Assessment of Educational Progress, NAEP）与各州自测通过率存在巨大统计落差；加之[[TIMSS|国际数学与科学趋势研究]]（Trends in International Mathematics and Science Study, TIMSS）与[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）中美国表现平平，高中毕业生进入大学的高额补习率引发了对国家劳动力质量与经济[[Competitiveness|竞争力]]的普遍焦虑。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–10)]]
 > - **制度位置** 绕开宪法第十修正案各州分权壁垒，吸纳 2001 年[[American Diploma Project|美国文凭项目]]（American Diploma Project, ADP）与 2008 年《迈向成功的基准》（*Benchmarking for Success*）报告，突破了 1990 年代自上而下国家标准改革失败后形成的各州分立[[Punctuated Equilibrium Theory|政策垄断]]，承接《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）失灵后的治理转型。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
 
 ---

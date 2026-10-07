@@ -8,7 +8,7 @@ summary: "美籍印裔应用物理学家与科技政策学者，哈佛大学工�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 28
+person_related_count: 29
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Long-Term Public Utility]]"
   - "[[Big Science]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Engineering Education]]"
   - "[[Market Failure]]"
 related_theories:
   - "[[Discovery-Invention Cycle]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Venkatesh Narayanamurti
@@ -145,7 +146,7 @@ updated: 2026-10-05
 > - **核心思想论敌／反思对象** [[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush） — 批判其 1945 年报告所奠定的战后线性创新假说与基础/应用动机分类教条。
 > - **理论继承与修正对象** [[Donald Stokes|唐纳德·斯托克斯]]（Donald Stokes） — 肯定其二维动机象限的突破，但指出其继续沿用二分法术语且停留于短期静态动机的未竟局限。
 > - **关键实体研发机构** [[Bell Labs|贝尔实验室]]（Bell Labs） — 纳拉亚纳穆尔提曾长期担任固态电子学主管，其组织实践构成了其理论反思的核心经验摇篮。
-> - **高校治理平台** 哈佛大学工程与应用科学学院（Harvard SEAS） — 担任创院院长，将反二分法理念付诸大学工程教育体系重构。
+> - **高校治理平台** 哈佛大学工程与应用科学学院（Harvard SEAS） — 担任创院院长，将反二分法理念付诸大学[[Engineering Education|工程教育]]体系重构。
 
 ---
 

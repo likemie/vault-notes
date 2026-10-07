@@ -9,7 +9,7 @@ aliases:
 summary: "将教师薪酬与教学表现或测试产出挂钩的激励制度，新自由主义常视其为提升质量的手段，但面临跨国实证脱节、破坏合作文化及现场试验中遭教师强烈伦理抵制而流产等多重批判"
 type: concept
 domain: "educational-policy-reform"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Global Education Reform Movement]]"
   - "[[Development Turn in Comparative Education]]"
+  - "[[Competitiveness]]"
   - "[[Theoretical Perspective]]"
   - "[[Heterogeneity]]"
   - "[[Attrition]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-09-28
+updated: 2026-10-07
 ---
 
 # Performance Pay
@@ -220,7 +221,7 @@ updated: 2026-09-28
 > > [!axis] 科学循证决策 vs 意识形态驱动的[[Policy Borrowing\|政策借用]]
 > > 争论焦点在于推行绩效工资究竟是依据跨国最佳实践，还是政客推行私有化与削弱教师工会的政治手段。
 > >
-> > - **政策官方视角（如 [[Michael Gove]]）** 声称以国际 [[PISA]] 优秀系统（如上海）和[[OECD\|经合组织]]分析为依据，证明重奖卓越教师是提高国家竞争力的客观规律。
+> > - **政策官方视角（如 [[Michael Gove]]）** 声称以国际 [[PISA]] 优秀系统（如上海）和[[OECD\|经合组织]]分析为依据，证明重奖卓越教师是提高[[Competitiveness|国家竞争力]]的客观规律。
 > > - **批判学者视角（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）** 指出官方论调完全建立在“遗漏话语”之上，不仅刻意遮蔽跨国数据缺乏相关性的事实，而且无视上海本土依托教研组与非物质声望的真实生态，实为新自由主义问责的政治包装。
 >
 > > [!axis] 外在经济激励驱动 vs 内在专业自尊与职业伦理

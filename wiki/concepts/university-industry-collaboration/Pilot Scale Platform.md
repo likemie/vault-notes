@@ -10,7 +10,7 @@ aliases:
 summary: "位于大学/实验室基础研发与工业规模化量产之间的关键共性基础设施，通过中立的测试验证线与工艺放大环境，提供工艺可行性验证、设备成熟度评估（MTBF/COO）与小批量试生产服务，是跨越技术就绪度（TRL 4–7）“死亡之谷”与降低产业链协同风险的核心制度载体。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Technology Transfer Office]]"
   - "[[Valley of Death]]"
   - "[[National Innovation System]]"
+  - "[[Competitiveness]]"
   - "[[General Purpose Technology]]"
   - "[[Co-invention]]"
   - "[[Research Translation]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-05
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Pilot Scale Platform
@@ -157,7 +158,7 @@ updated: 2026-10-06
 ### 命题二　中试验证设施是国家支撑战略产业链韧性与军民两用技术转化的核心公共基石
 
 > [!concept-lens] [[National Innovation System|国家创新体系]]与地缘科技安全维度
-> 探讨中试平台在国家科技战略与公共资助层面的宏观定位：中试平台属于兼具高资本门槛与高正外部性的共性技术资产，是国家维持底层制造竞争力不可或缺的公共政策工具。
+> 探讨中试平台在国家科技战略与公共资助层面的宏观定位：中试平台属于兼具高资本门槛与高正外部性的共性技术资产，是国家维持底层制造[[Competitiveness|竞争力]]不可或缺的公共政策工具。
 
 > [!claim] [[Argument_Fuchs_2010_RP|Fuchs (2010)]]
 > **公私共建中试平台是[[Developmental Network State|发展型网络国家]]催化战略技术的锚点** [[DARPA]] 长期通过资助 Sematech 中试线等共享试验平台，使国防部门与商业企业能够共同分担下一代制程的初始固定投资，既维系了国防关键芯片的安全可控制造，又催化了民用先进制程生态的持续繁荣。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1135–1137)]]

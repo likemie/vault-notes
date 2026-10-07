@@ -10,7 +10,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
   - theme/innovation
 related_concepts:
   - "[[Theoretical Perspective]]"
+  - "[[Competitiveness]]"
 related_theories:
   - "[[Systems of Innovation]]"
 related_facts:
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # European Research Area
@@ -100,4 +101,4 @@ updated: 2026-10-06
 > | [[CNRS]] | Fact (Organization) | 深度融入 ERA 跨国科研网络并代表传统欧陆[[Chinese Academy of Sciences\|科学院]]体制的法国科研旗舰机构。 |
 > | [[Bayh-Dole Act of 1980]] | Fact (Policy) | ERA 试图对标并弥补其高技术产业转化微观产权激励不足的美国制度参照。 |
 > | [[Systems of Innovation]] | Theory | 分析 ERA 跨国创新系统与国家间制度互补性的核心[[Theoretical Perspective\|理论视角]]。 |
-> | [[Academic Ranking of World Universities]] | Fact (Policy) | 反映欧洲研究区高校在全球顶尖学术竞争力排位中面临美国压倒性优势的测量指标。 |
+> | [[Academic Ranking of World Universities]] | Fact (Policy) | 反映欧洲研究区高校在全球顶尖学术[[Competitiveness\|竞争力]]排位中面临美国压倒性优势的测量指标。 |

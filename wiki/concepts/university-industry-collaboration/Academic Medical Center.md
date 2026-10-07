@@ -7,10 +7,10 @@ aliases:
 summary: "大学医学院及其合作教学医院组成的高教与医疗机构，以学术-临床二元结构为特征，在产学临床试验中既是核心执行主体，也因高管理费率和长启动周期构成效率瓶颈"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/university-industry-collaboration
   - theme/clinical-trials
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Academic Health System]]"
   - "[[Institutional Review Board]]"
   - "[[Performance Indicators]]"
+  - "[[Competitiveness]]"
   - "[[Translational Research]]"
   - "[[Contract Research Organization]]"
 related_theories: []
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-09-10
+updated: 2026-10-07
 ---
 
 # Academic Medical Center
@@ -104,7 +105,7 @@ AMC 启动缓慢的根源在于多重委员会审查的串行机制：方案审�
 > - 部署 Florence™ eBinders 等数字化监管管理工具
 > - 持续追踪启动绩效指标并与产业方主动沟通激活要求
 
-AMC 作为试验基地的竞争力和不可替代性并存：一方面，它们的成本和速度处于劣势；另一方面，当试验涉及大学的专有生物模型（细胞模型、类器官模型、动物模型）或需要前沿学术专长时，AMC 的临床前和[[Translational Research|转化研究]]能力是 [[Contract Research Organization|CRO]] 或社区医院无法替代的([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, p.203]])。产业方因此在多中心试验中面临权衡：纳入更多高成本 AMC 以获取学术能力，还是更多依赖低成本社区和国际基地以加速入组。
+AMC 作为试验基地的[[Competitiveness|竞争力]]和不可替代性并存：一方面，它们的成本和速度处于劣势；另一方面，当试验涉及大学的专有生物模型（细胞模型、类器官模型、动物模型）或需要前沿学术专长时，AMC 的临床前和[[Translational Research|转化研究]]能力是 [[Contract Research Organization|CRO]] 或社区医院无法替代的([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, p.203]])。产业方因此在多中心试验中面临权衡：纳入更多高成本 AMC 以获取学术能力，还是更多依赖低成本社区和国际基地以加速入组。
 
 ---
 

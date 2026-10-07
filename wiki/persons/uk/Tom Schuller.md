@@ -7,7 +7,7 @@ summary: "英国社会科学院（Academy of Social Sciences）院士，长期�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 21
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -42,7 +42,6 @@ related_facts:
   - "[[Centre for Educational Research and Innovation]]"
   - "[[What Works Clearinghouse]]"
   - "[[EPPI-Centre]]"
-  - "[[Best Evidence Synthesis]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
   - "[[Canadian Council on Learning]]"
 related_arguments:
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Tom Schuller
@@ -78,7 +77,7 @@ updated: 2026-10-02
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作（精选）
-> - **2007 — *Evidence in Education: Linking Research and Policy*（与 Burns 合编）** 奠定全球[[Educational Brokerage Agency\|教育中介机构]]比较研究的基准框架，确立 [[What Works Clearinghouse\|WWC]]、[[EPPI-Centre]]、[[Best Evidence Synthesis\|BES]] 等早期六大标杆案例，将"连接研究与政策"的议题系统化为可测量的机构[[Typological Analysis\|类型学分析]]对象。
+> - **2007 — *Evidence in Education: Linking Research and Policy*（与 Burns 合编）** 奠定全球[[Educational Brokerage Agency\|教育中介机构]]比较研究的基准框架，确立 [[What Works Clearinghouse\|WWC]]、[[EPPI-Centre]]、BES 等早期六大标杆案例，将"连接研究与政策"的议题系统化为可测量的机构[[Typological Analysis\|类型学分析]]对象。
 > - **2022 — "History and Evolution of Brokerage Agencies in Education"（与 Burns 合著）** 通过 15 年纵向追踪，提出后真相时代教育[[Knowledge Mediation\|知识中介]]的系统性困境：证据向实践倾斜引发政策脱责、"证据知情"标签被商业挪用、政治预算短周期导致中介高夭折率。最终倡导通过跨国元中介协作建构累积性教育知识库。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, pp. 55–72)]]
 
 ---

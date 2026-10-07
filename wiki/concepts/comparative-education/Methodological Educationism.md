@@ -6,7 +6,7 @@ aliases:
 summary: "将“教育”等同于“学校教育”（schooling）的还原论认识论倾向。在比较教育研究中，它被用于批判将复杂的教育社会化过程狭隘地等同于正式学校制度和国家课程的局限性；它常与方法论国家主义和方法论国家中心主义叠加，构成传统国民教育研究的限制性视角。"
 type: concept
 domain: "comparative-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Methodological Statism]]"
   - "[[Methodological Nationalism]]"
   - "[[Soviet Statism]]"
+  - "[[Competitiveness]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Global Citizenship]]"
   - "[[Relational Space]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-07-09
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # Methodological Educationism
@@ -82,7 +83,7 @@ updated: 2026-09-29
 
 > [!feature] 核心要素
 > - **正式制度依赖（Formal Institutional Bias）** 将教育资源、教育评价与成效等同于学校大楼、标准化测试和学历证书等可被行政测量的可见制度属性。(Dale, 2005, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
-> - **技术性解决方案还原（Reduction to Technological Curricular Fixes）** 倾向于认为社会危机（如不平等、缺乏竞争力）都可以通过对学校课程或测评指标的技术性修改来自动消除，遮蔽了阶级与地缘政治结构性压迫。(Dale & Robertson, 2009)
+> - **技术性解决方案还原（Reduction to Technological Curricular Fixes）** 倾向于认为社会危机（如不平等、缺乏[[Competitiveness|竞争力]]）都可以通过对学校课程或测评指标的技术性修改来自动消除，遮蔽了阶级与地缘政治结构性压迫。(Dale & Robertson, 2009)
 > - **边界排他性（Exclusionary Boundaries）** 在方法论设计上，将正式课堂之外的非正式关系、网络流转及多行动者互动视为研究的“杂音”而予以排除。
 
 > [!logic-map]- 要素关系
@@ -112,7 +113,7 @@ updated: 2026-09-29
 
 > [!dev-timeline] 概念演变
 > - **2005 — 提出三位一体还原论** [[Roger Dale]] 系统梳理了支配全球化教育研究的三重方法论陷阱，明确界定了“方法论教育主义”将教育等同于学校教育的性质。(Dale, 2005, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
-> - **2009 — [[Knowledge-Based Economy\|知识经济]]批判拓展** Dale & Robertson 进一步分析在知识经济浪潮中，方法论教育主义如何配合新自由主义国家，将学生的“全球竞争力”转化为可以通过学校课程直接生产的商品特质。(Dale & Robertson, 2009)
+> - **2009 — [[Knowledge-Based Economy\|知识经济]]批判拓展** Dale & Robertson 进一步分析在知识经济浪潮中，方法论教育主义如何配合新自由主义国家，将学生的“全球[[Competitiveness|竞争力]]”转化为可以通过学校课程直接生产的商品特质。(Dale & Robertson, 2009)
 > - **2023 — 比较教育学科演进检视** Klerides 追溯比较教育史，指出[[Global Citizenship\|全球公民]]、人权与生态身份挑战了基于“方法论教育主义”定义的传统国民学校身份，倡导引入[[Relational Space\|关系空间]]以打破三者叠加对研究的禁锢。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]])
 
 ---

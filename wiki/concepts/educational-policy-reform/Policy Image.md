@@ -7,7 +7,7 @@ aliases:
 summary: "断裂平衡理论（PET）的核心分析概念，指特定政策议题在公众和政治精英心目中的符号化表征、价值框架与社会建构；它由实证信息、核心价值与情感修辞共同编织而成，决定了政策被认知为中立的专业自治还是急需政府介入的治理危机，是政策企业家瓦解既有政策垄断的关键话语杠杆。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Policy Entrepreneur]]"
   - "[[Venue Shopping]]"
+  - "[[Competitiveness]]"
   - "[[Problem Finding]]"
   - "[[Screening Off]]"
   - "[[Knowledge-Based Economy]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Policy Image
@@ -61,7 +62,7 @@ updated: 2026-10-06
 > - **边界** 政策形象不等于公众对某项政策的孤立民调支持率，而是深度嵌于制度结构内部的话语霸权与问题归因[[Paradigm|范式]]。
 
 > [!citation-card] 政策形象的重构与政策垄断的破裂
-> 断裂平衡理论指出，公共政策子系统长期被利益集团所把持的稳态垄断所统治。倡导改革的[[Policy Entrepreneur|政策企业家]]若要打破既有政策垄断，必须从两个维度协同发力：第一是开展[[Venue Shopping|制度场所转换]]，寻找对新理念更友好的决策机构；第二是重塑政策形象，通过动员危机指标与核心价值，将原有政策正面崇高的社会形象彻底颠覆。在[[Common Core State Standards|共同核心标准]]运动中，改革倡导者将以往象征“地方民主自治”的分权标准成功重塑为“危害国家全球竞争力与拉大社会不公”的负面形象。
+> 断裂平衡理论指出，公共政策子系统长期被利益集团所把持的稳态垄断所统治。倡导改革的[[Policy Entrepreneur|政策企业家]]若要打破既有政策垄断，必须从两个维度协同发力：第一是开展[[Venue Shopping|制度场所转换]]，寻找对新理念更友好的决策机构；第二是重塑政策形象，通过动员危机指标与核心价值，将原有政策正面崇高的社会形象彻底颠覆。在[[Common Core State Standards|共同核心标准]]运动中，改革倡导者将以往象征“地方民主自治”的分权标准成功重塑为“危害国家全球[[Competitiveness|竞争力]]与拉大社会不公”的负面形象。
 >
 > *Policy entrepreneurs alter well-established policy monopolies by creating a new policy image and by engaging in 'venue shopping' to find alternative decision-making arenas that are more receptive to their arguments. In the CCSS case, proponents created a negative policy image of current state standards, showing they were weak and fragmented, which challenged the long-standing monopoly of state and local control.* [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
 
@@ -110,7 +111,7 @@ updated: 2026-10-06
 > 当[[Policy Entrepreneur|政策企业家]]通过事实证据与价值叙事成功瓦解原有正面形象并重塑为负面危机时，将引发媒体曝光与非专业政治领袖的强势介入，形成制度雪崩。
 
 > [!claim] McDonnell, L. M. & Weatherford, M. S.
-> **实证指标动员对百年分权垄断的颠覆** 麦克唐纳与韦瑟福德指出，美国各州各学区自主制定课程大纲的政策垄断之所以在 2000 年代末被迅速击穿，核心在于政策企业家策略性地摧毁了旧有形象。他们不再抽象争辩联邦干涉与地方自由的哲学优劣，而是密集动员实证指标：以国家教育统计中心的映射数据揭露各州自设合格线制造虚假及格率的丑闻，以 [[TIMSS]] 跨国数据批判课程浅薄涣散。这一全新的负面形象成功将地方自主重构为“各州为应付考核竞相造假，严重危害美国[[Knowledge-Based Economy|知识经济]]国际竞争力”的道德与安全危机，迅速唤醒了两党州长的宏观注意力，最终瓦解了各州长达一个世纪的分权垄断。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–11)]]
+> **实证指标动员对百年分权垄断的颠覆** 麦克唐纳与韦瑟福德指出，美国各州各学区自主制定课程大纲的政策垄断之所以在 2000 年代末被迅速击穿，核心在于政策企业家策略性地摧毁了旧有形象。他们不再抽象争辩联邦干涉与地方自由的哲学优劣，而是密集动员实证指标：以国家教育统计中心的映射数据揭露各州自设合格线制造虚假及格率的丑闻，以 [[TIMSS]] 跨国数据批判课程浅薄涣散。这一全新的负面形象成功将地方自主重构为“各州为应付考核竞相造假，严重危害美国[[Knowledge-Based Economy|知识经济]]国际[[Competitiveness|竞争力]]”的道德与安全危机，迅速唤醒了两党州长的宏观注意力，最终瓦解了各州长达一个世纪的分权垄断。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–11)]]
 
 ---
 

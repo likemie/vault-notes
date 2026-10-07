@@ -7,7 +7,7 @@ summary: "加拿大裔英国籍经合组织资深分析师与教育知识治理�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 26
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -48,14 +48,13 @@ related_facts:
   - "[[National Center for Education Evaluation and Regional Assistance]]"
   - "[[What Works Clearinghouse]]"
   - "[[EPPI-Centre]]"
-  - "[[Best Evidence Synthesis]]"
   - "[[Canadian Council on Learning]]"
 related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Tracey Burns
@@ -84,7 +83,7 @@ updated: 2026-09-22
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作（精选）
-> - **2007 — *Evidence in Education: Linking Research and Policy*（编著）** 首次对全球[[Educational Brokerage Agency\|教育中介机构]]进行系统性评估，提出证据与政策连接的组织架构，确立 [[What Works Clearinghouse\|WWC]]、[[EPPI-Centre]]、[[Best Evidence Synthesis\|BES]] 等标杆案例，为后续 15 年[[Cohort Study\|追踪研究]]提供基线。
+> - **2007 — *Evidence in Education: Linking Research and Policy*（编著）** 首次对全球[[Educational Brokerage Agency\|教育中介机构]]进行系统性评估，提出证据与政策连接的组织架构，确立 [[What Works Clearinghouse\|WWC]]、[[EPPI-Centre]]、BES 等标杆案例，为后续 15 年[[Cohort Study\|追踪研究]]提供基线。
 > - **2016 — *Governing Education in a Complex World*（与 Köster 合编）** 将[[Complexity Theory\|复杂性理论]]引入教育[[Epistemic Governance\|知识治理]]，探索学习型教育系统的元治理设计。
 > - **2022 — "History and Evolution of Brokerage Agencies in Education"（与 Schuller 合著）** 提出后真相时代三重变迁诊断——（1）受众从政策偏向实践且政策制定者脱责；（2）证据知情标签被商业利益挪用；（3）单体机构受制于 2–3 年政治预算周期而夭折。进而倡导推进"中介的中介"与[[Cumulative Knowledge Base\|累积性知识库]]建构。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, pp. 55–72)]]
 

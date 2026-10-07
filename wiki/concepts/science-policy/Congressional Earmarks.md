@@ -9,10 +9,10 @@ aliases:
 summary: "指美国参众两院议员在联邦政府拨款法案中利用立法特权直接塞入、专款定向拨付给本选区特定大学的科研基建资金；该机制彻底绕开了同行评议竞争程序，引发学术界关于科研政治分肥、资源错配与择优公信力受损的深刻争议与反思。"
 type: concept
 domain: "science-policy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/science-policy
   - level/higher-education
@@ -20,6 +20,7 @@ tags:
   - governance/peer-review
 related_concepts:
   - "[[Research Universities]]"
+  - "[[Competitiveness]]"
   - "[[Center of Calculation]]"
   - "[[Academic Risk Aversion]]"
   - "[[Evaluation Research]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Congressional Earmarks
@@ -76,7 +77,7 @@ updated: 2026-10-02
 
 > [!feature] 国会科研专项拨款的运行机理
 > - **立法通道寄生性** 专项拨款极少作为独立法案出现，而是由议员以修正案形式“搭便车”强行塞入体量庞大的年度综合拨款法案（Omnibus Appropriations Bills）中，在最后关头捆绑通过。
-> - **游说驱动与公关外包** 缺乏顶尖科研竞争力但渴望获得硬件大楼的高校，通常雇佣专业华盛顿游说公司游说关键拨款委员会（Appropriations Committee）成员，以政绩宣示交换科研金援。
+> - **游说驱动与公关外包** 缺乏顶尖科研[[Competitiveness|竞争力]]但渴望获得硬件大楼的高校，通常雇佣专业华盛顿游说公司游说关键拨款委员会（Appropriations Committee）成员，以政绩宣示交换科研金援。
 > - **基建导向与实物具象** 绝大多数专项拨款指定用于以议员或捐赠人命名的全新科研综合楼、[[Center of Calculation|计算中心]]或临床中心，具有极高的政治可视度，便于议员向选民证明其为本选区争取了联邦税款。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 44)]]
 
 ---

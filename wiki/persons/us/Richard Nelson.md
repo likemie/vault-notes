@@ -9,7 +9,7 @@ summary: "美国著名演化经济学家、创新经济学哥伦比亚学派领�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Growth]]"
   - "[[Market Failure]]"
   - "[[Heterogeneity]]"
+  - "[[Competitiveness]]"
   - "[[Unit of Analysis]]"
 related_theories:
   - "[[Evolutionary Economics]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Richard Nelson
@@ -116,7 +117,7 @@ updated: 2026-10-05
 
 > [!influence-path] 影响路径
 > - **理论路径** 与 Freeman、Lundvall 并列为现代创新经济学与[[National Innovation System|国家创新系统]]学派的三大理论柱石；与 Winter 共同奠定了[[Evolutionary Economics|演化经济学]]经典教科书体系。
-> - **政策路径** 其国家[[Systems of Innovation|创新系统]]跨国比较研究直接影响了[[National Science Foundation|美国国家科学基金会]]（NSF）、[[National Academy of Sciences|美国国家科学院]]及 [[OECD]] 的科技政策指标与国家竞争力评估标准。
+> - **政策路径** 其国家[[Systems of Innovation|创新系统]]跨国比较研究直接影响了[[National Science Foundation|美国国家科学基金会]]（NSF）、[[National Academy of Sciences|美国国家科学院]]及 [[OECD]] 的科技政策指标与[[Competitiveness|国家竞争力]]评估标准。
 > - **跨国学术网络构建** 1993 年工程汇聚了全球数十位经济学家和历史学家，成为推动比较制度分析（Comparative Institutional Analysis）的主导力量。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引

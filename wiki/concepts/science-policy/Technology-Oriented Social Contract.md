@@ -6,7 +6,7 @@ aliases:
 summary: "以国家地缘竞争、产业全面复兴与绝对安全优势为导向，强调快速获取、工程部署与行政审计关键技术能力的新型科技治理形态，标志着国家与科学共同体关系由认知中心向能力中心的结构性转移。"
 type: concept
 domain: "science-policy"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Paradigm]]"
   - "[[Mission-Oriented Innovation Policy]]"
+  - "[[Competitiveness]]"
   - "[[Research Security]]"
   - "[[Research Universities]]"
   - "[[Pride in Learning]]"
@@ -33,6 +34,7 @@ related_theories:
 related_facts:
   - "[[Restoring Gold Standard Science Executive Order]]"
   - "[[Office of Science and Technology Policy]]"
+  - "[[Genesis Mission]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[CHIPS and Science Act]]"
 related_arguments:
@@ -45,7 +47,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Technology-Oriented Social Contract
@@ -78,7 +80,7 @@ updated: 2026-10-06
 > [!contrast-table] 认知型科学契约与技术型社会契约的多维对比
 > | 比较维度 | 传统认知型科学契约（1945—1989） | 使命导向过渡型契约（1990—2024） | 技术型社会契约（2025 年起） |
 > |---|---|---|---|
-> | **合法性根本依据** | 基础研究的长期自明价值与国家安全战略储备 | 经济竞争力、应对重大社会挑战与行政问责 | 关键新兴技术即时领先、产业复兴与排他性优势 |
+> | **合法性根本依据** | 基础研究的长期自明价值与国家安全战略储备 | 经济[[Competitiveness\|竞争力]]、应对重大社会挑战与行政问责 | 关键新兴技术即时领先、产业复兴与排他性优势 |
 > | **核心组织机制** | 择优同行评议、大学分散探索与长期机构化托底 | 竞争性项目制、跨部门统筹与公私研发伙伴 | 总统战略优先事项统领、集中定向动员与大额采购 |
 > | **学术自治边界** | 高自治高嵌入，政府官僚不干涉微观探索路径 | 有条件自治，学术评价主导但须频繁自证应用价值 | 政治化受限自治，行政可验证性与外部程序审计介入 |
 > | **公共责任形态** | 互惠型公共回报（知识发现间接转化为普遍福祉） | 复合型社会责任（经济效益证明与[[Research Security\|科研安全]]合规） | 单向度战略对齐（对国家竞争诉求与行政指令即时服从） |
@@ -194,7 +196,7 @@ updated: 2026-10-06
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] | 1945—2025 年美国科技政策演化史与 2025 年起科研治理变局；白宫 [[Office of Science and Technology Policy\|OSTP]] 2026 年战略报告及行政令 | 宏观制度分析与五维[[Analytic Framework\|分析框架]]推导 | ① 动员主体与配置渠道（国家实验室/企业采购 vs 大学资助）；② 预算调整机制（扣留拨款领域）；③ 科研组织分化三轨 | ① 资源集中投向 AI 行动计划与创世纪计划，国家实验室与企业成为技术攻坚主体，大学战略轴心边缘化；② 气候变化、公共卫生、HIV/AIDS与DEI领域经费遭冻结削减；③ 科研组织分化为任务导向、应用启发与退缩为边缘形态的自由探索三轨 | 权威官方政策纲领与长时段历史推导 | 揭示技术型社会契约替代传统科学契约的现实可行性、运行特征与内在系统脆弱性 |
+> | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] | 1945—2025 年美国科技政策演化史与 2025 年起科研治理变局；白宫 [[Office of Science and Technology Policy\|OSTP]] 2026 年战略报告及行政令 | 宏观制度分析与五维[[Analytic Framework\|分析框架]]推导 | ① 动员主体与配置渠道（国家实验室/企业采购 vs 大学资助）；② 预算调整机制（扣留拨款领域）；③ 科研组织分化三轨 | ① 资源集中投向 AI 行动计划与[[Genesis Mission\|创世纪计划]]，国家实验室与企业成为技术攻坚主体，大学战略轴心边缘化；② 气候变化、公共卫生、HIV/AIDS与DEI领域经费遭冻结削减；③ 科研组织分化为任务导向、应用启发与退缩为边缘形态的自由探索三轨 | 权威官方政策纲领与长时段历史推导 | 揭示技术型社会契约替代传统科学契约的现实可行性、运行特征与内在系统脆弱性 |
 
 ---
 

@@ -7,10 +7,10 @@ aliases:
 summary: "指超越新古典狭隘“公共品”修补的整体性治理与创新范式；强调国家、市场与社会在应对重大战略挑战与社会技术转型的全价值链中共同创造、塑造市场，并通过制度化附加条件与护栏条款确保公共投资创造普惠的集体经济、社会与生态福祉。"
 type: concept
 domain: "science-policy"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/governance
   - theme/public-value
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Return on Investment]]"
+  - "[[Competitiveness]]"
   - "[[Strategic Autonomy]]"
   - "[[Variable]]"
   - "[[Patient Capital]]"
@@ -65,7 +66,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Public Value
@@ -238,7 +239,7 @@ updated: 2026-10-06
 > > - **新古典经济学者质疑** 认为市场价格是唯一客观的价值衡量尺度；公共价值缺乏统一货币化折算标准，容易被行政官僚主观滥用以掩盖低效投资。
 > > - **公共价值学者反驳** 指出将所有人类福祉还原为短期市场价格正是导致气候危机与贫富分化的根源；多维度指标（社会排斥率、碳减排量、健康预期寿命）比单一财务指标更能反映长期发展质量。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805, 810–812)]]
 > >
-> > [!axis] 附加条件的多重社会目标 vs 产业执行速度与资本竞争力
+> > [!axis] 附加条件的多重社会目标 vs 产业执行速度与资本[[Competitiveness|竞争力]]
 > > 争论在产业政策中捆绑劳工与社会目标是否会削弱制造业回流速度。
 > >
 > > - **产业资本与自由市场批评** 认为强制要求托儿配套、现行工资、工会协议与超额利润分成增加了企业的合规负担与建厂资本开支，可能延缓先进产能落地与投产进度。

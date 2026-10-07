@@ -10,7 +10,7 @@ aliases:
 summary: "比较教育学古典历史-哲学母题与实证科学化的基石性认识论假定，将主权清晰、制度与文化边界同质的民族国家及其国民教育体系视为首要比较分析基准，在战后历经批判国家理论、多层分析立方体与反思方法论民族主义的范式重构。"
 type: concept
 domain: "comparative-education"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[National Character]]"
+  - "[[Competitiveness]]"
   - "[[Reference Society]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Unit of Analysis]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # The Nation-State as the Unit of Comparison
@@ -81,7 +82,7 @@ updated: 2026-09-29
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向比较教育研究在空间维度上的边界设定与认识论锚点，将世界结构化为离散、主权独立且内部具有[[Institutional Isomorphism\|制度同构]]性的民族国家集合体。
-> - **用途** 帮助研究者透视国家机器如何通过法定学校制度整合国民认同、调和阶级与宗教矛盾，以及在国际地缘政治格局中维持国家工业与文化竞争力。
+> - **用途** 帮助研究者透视国家机器如何通过法定学校制度整合国民认同、调和阶级与宗教矛盾，以及在国际地缘政治格局中维持国家工业与文化[[Competitiveness|竞争力]]。
 > - **边界** 难以解释前现代封建教派教育网络与后冷战时期超国家治理机构（如 [[OECD]]、[[World Bank\|世界银行]]、欧盟）对国家主权的穿透，亦无法有效捕捉次国家级地方社群与跨国移民流动中的杂糅文化空间。
 
 > [!citation-card] 卡扎米亚斯论民族国家作为历史比较母题的首要认识论基准

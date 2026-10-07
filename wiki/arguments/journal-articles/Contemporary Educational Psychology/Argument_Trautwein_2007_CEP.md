@@ -46,6 +46,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Engineering Education]]"
   - "[[Critical Thinking]]"
   - "[[Scientific Paradigm]]"
   - "[[Tracking]]"
@@ -94,7 +95,7 @@ title: "Argument_Trautwein_2007_CEP"
 argument_key: "Argument_Trautwein_2007_CEP"
 argument_display_title: "Epistemological beliefs, school achievement, and college major: A large-scale longitudinal study on the impact of certainty beliefs"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 55
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -410,7 +411,7 @@ issuing_organization: ""
 >   - 标准误（Standard Error，$SE$）反映样本均值的抽样波动范围（图3中的误差线高度）。[[Sample Size Determination\|样本量]]越大（如文科 $N = 257$），误差线越窄（$SE = 0.03$）；样本量较小（如社科 $N = 88$），误差线略宽（$SE = 0.05$）。
 > - **软硬学科轨迹的极化反差** 
 >   - **软学科的断崖式下跌** 人文艺术（从 1.83 跌至 1.62，$\Delta M = -0.21$）与社会科学（从 1.70 跌至 1.48，$\Delta M = -0.22$）在大学两年间均值大幅下降，且 T1 与 T2 的误差线互不重叠，生动印证了文社科教学对学生既有“确定性常识”的强力解构；
->   - **工科的唯一逆势上升** 在全样本 7 大门类中，工程学科是唯一确定性均值不降反升的学科（从 2.05 微升至 2.08，$\Delta M = +0.03$），反映出工程教育强调标准参数、公式规范与确定解法的学科文化对确定性信念的强化作用；
+>   - **工科的唯一逆势上升** 在全样本 7 大门类中，工程学科是唯一确定性均值不降反升的学科（从 2.05 微升至 2.08，$\Delta M = +0.03$），反映出[[Engineering Education|工程教育]]强调标准参数、公式规范与确定解法的学科文化对确定性信念的强化作用；
 >   - **硬科学与医学的高位维持** 数学与自然科学（$2.02 \to 1.95$）、医学（$2.05 \to 1.98$）与商科（$2.08 \to 2.02$）虽有微幅下调，但整体均维持在 2.00 左右的高确定性区间，与文社科拉开了显著的认识论鸿沟。
 
 > [!warrant]- 推理桥梁

@@ -30,9 +30,11 @@ related_concepts:
   - "[[Pilot Scale Platform]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Reliability]]"
+  - "[[Competitiveness]]"
   - "[[Cost of Ownership]]"
   - "[[Total Quality Management]]"
   - "[[Learning by Doing]]"
+  - "[[Engineering Education]]"
   - "[[Further Education]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"
@@ -72,7 +74,7 @@ title: "Argument_Grindley_1994_JPAM"
 argument_key: "Argument_Grindley_1994_JPAM"
 argument_display_title: "SEMATECH and collaborative research: Lessons in the design of high-technology consortia"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -191,7 +193,7 @@ issuing_organization: ""
 > [!tension-table] 横向联合研发设想与产业现实的矛盾
 > | 考量维度 | 理想化的横向研发设想 | 产业实际操作中的困难 |
 > |---|---|---|
-> | **商业机密与专有权保护**<br>Appropriability Concerns | 期望 14 家芯片厂商无保留共享核心先进制程参数与工艺诀窍。 | 制造工艺是芯片企业的核心竞争力，各厂商严防核心技术外泄给直接竞争对手。（p.726） |
+> | **商业机密与专有权保护**<br>Appropriability Concerns | 期望 14 家芯片厂商无保留共享核心先进制程参数与工艺诀窍。 | 制造工艺是芯片企业的核心[[Competitiveness\|竞争力]]，各厂商严防核心技术外泄给直接竞争对手。（p.726） |
 > | **各厂商产线工艺差异**<br>Manufacturing Heterogeneity | 试图开发一套适用于所有成员企业的通用制造工艺配方。 | 各企业在设备选择、化学材料配比和工序流程上差异很大，统一配方无法直接搬到各家产线使用。（p.731） |
 > | **技术成果转化途径**<br>Technology Transfer | 依靠奥斯汀示范工厂向外单向输出完整工艺流程包。 | 缺乏针对各厂具体情况的工艺包难以在成员企业产线落地，出资企业难以从中获得直接收益。（pp.731–732） |
 > | **成员企业诉求分化**<br>Member Divergence | 假定所有成员对先进制程研发具有完全一致的利益需求。 | 主攻 DRAM 的美光科技认为联盟无法带来专属技术优势，中小规模的 LSI Logic 与哈里斯认为大企业主导了研发方向，三家企业随后相继退出了联盟。（pp.732–733） |
@@ -209,7 +211,7 @@ issuing_organization: ""
 
 #### 3. 工程师借调轮换、大学卓越中心（SCOE）与供应链质量培训构筑了技术扩散的人才与知识底座
 
-联盟深刻认识到，尖端微电子制造技术本质上高度依赖“做中学”（[[Learning by Doing]]）中积累的非[[Coding in Qualitative Research|编码]]化工艺诀窍（Tacit Knowledge）；唯有通过人才深度流动、产学研分工与全产业链工程教育，才能打通实验室研发到产线商业化的知识转化断层（pp.726, 734–735, 752–754）：
+联盟深刻认识到，尖端微电子制造技术本质上高度依赖“做中学”（[[Learning by Doing]]）中积累的非[[Coding in Qualitative Research|编码]]化工艺诀窍（Tacit Knowledge）；唯有通过人才深度流动、产学研分工与全产业链[[Engineering Education|工程教育]]，才能打通实验室研发到产线商业化的知识转化断层（pp.726, 734–735, 752–754）：
 
 > [!pathways] SEMATECH 三位一体的教育培训与人才扩散机制
 > - **骨干工程师借调轮换制（Assignees Program）** 联盟要求 14 家出资芯片制造厂商选派 200 至 300 名资深工程技术人员全职借调进驻奥斯汀中试基地，借调期通常为 1 至 2 年。工程师在真实中试线上直接参与下一代 0.35 微米关键设备联调与先进制程攻关；借调期满返回母公司后，他们将最新的工艺诀窍、COO/SPC 标准和协作文化带回各企业商业产线，成为企业内部的“技术播种者”与转化桥梁，彻底解决了以往研发成果“停留在纸面报告、难以在车间落地”的困境。（pp.726, 752–753）

@@ -8,7 +8,7 @@ aliases:
 summary: "一种将教育系统视为复杂适应系统的新兴研究范式，以非线性和整体论取代简单的线性因果模型，强调反馈、涌现、连接性和自组织等核心概念"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 59
+theory_related_count: 60
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -65,6 +65,7 @@ related_persons:
   - "[[Stuart Kauffman]]"
   - "[[Keith Morrison]]"
 related_facts:
+  - "[[Science Foundation Ireland]]"
   - "[[Chinese Academy of Sciences]]"
   - "[[German State Educational Institutes and Quality Agencies]]"
   - "[[Vergleichsarbeiten]]"
@@ -84,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Complexity Theory
@@ -97,7 +98,7 @@ updated: 2026-10-02
 > - **解释对象** 教育生态系统中多元主体的非线性交互、高阶全局模式的自发[[Emergence\|涌现]]、网络连接性、自组织适应以及系统相变与临界转折。
 > - **理论问题** 彻底扬弃机械牛顿力学的线性[[Determinism\|因果决定论]]、受控实验的孤立[[Variable\|变量]]还原论以及实验室封闭系统推广[[Hypothesis\|假设]]，确立开放教育世界中不确定性、生成性与整体关系的[[Epistemology\|认识论]]正当性。
 > - **理论类型** 元理论（Meta-theory）、[[Paradigm\|范式]]级[[Analytic Framework\|分析框架]]、跨学科复杂适应系统理论。
-> - **知识位置** 发轫于 20 世纪下半叶混沌理论（Lorenz, Gleick）与自组织临界性（Bak），经[[Stuart Kauffman\|考夫曼]]（Stuart Kauffman）与圣塔菲研究所（SFI）提炼为复杂适应系统（[[Chinese Academy of Sciences|CAS]]）理论；在教育研究领域由[[Keith Morrison\|莫里森]]（Keith Morrison）、拉德福德（Luis Radford）与萨拉·库恩（Sarah Kuhn）系统引入，成为超越传统[[Positivism\|实证主义]]与微观[[Interpretivism|诠释主义]]的新兴研究[[Paradigm\|范式]]。
+> - **知识位置** 发轫于 20 世纪下半叶混沌理论（Lorenz, Gleick）与自组织临界性（Bak），经[[Stuart Kauffman\|考夫曼]]（Stuart Kauffman）与圣塔菲研究所（[[Science Foundation Ireland|SFI]]）提炼为复杂适应系统（[[Chinese Academy of Sciences|CAS]]）理论；在教育研究领域由[[Keith Morrison\|莫里森]]（Keith Morrison）、拉德福德（Luis Radford）与萨拉·库恩（Sarah Kuhn）系统引入，成为超越传统[[Positivism\|实证主义]]与微观[[Interpretivism|诠释主义]]的新兴研究[[Paradigm\|范式]]。
 
 > [!claim] 核心主张
 > 学校与教育系统不是由少数可分离[[Variable\|变量]]机械拼接而成的封闭钟表装置，而是由深度纠缠的多元主体构成的开放**复杂适应系统（Complex Adaptive Systems, CAS）**。系统内部充满递归反馈回路与非线性作用机制，微小扰动可诱发全局跃迁，高阶秩序在局部简单规则的微观互动中自组织涌现；试图通过隔离与控制变量来寻求确定性因果定律的做法，在根本上误解了复杂教育实在的动态生成本质。

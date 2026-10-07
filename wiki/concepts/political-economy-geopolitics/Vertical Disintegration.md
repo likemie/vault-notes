@@ -14,7 +14,7 @@ aliases:
 summary: "纵向离散指原本整合在大型垄断企业内部的研发、设计、制造与封装等全价值链环节，解构并分散至专业化设计公司、代工厂、设备商与测试商等独立实体的产业组织形态；该结构赋予产业敏捷产品创新优势，但导致跨环节协调失灵、长周期基础研究萎缩，并在当代演化为极度地理集中与单点咽喉依赖的跨国多阶段网络，使单一国家推行封闭式国家冠军策略在现代彻底失效。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ tags:
   - semiconductor
   - science-policy
 related_concepts:
+  - "[[Competitiveness]]"
   - "[[Paradigm]]"
   - "[[Embedded Network Governance]]"
   - "[[Corporate R&D Labs]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Vertical Disintegration
@@ -74,7 +75,7 @@ updated: 2026-10-06
 > - **边界** 不等同于单纯的企业规模小型化或地理分散，特指核心知识产权、工艺控制权与生产资产在不同独立法人实体间的纵向解耦与专业化分离。
 
 > [!citation-card] 纵向解耦带来的敏捷重塑与组织反转
-> 许多在 20 世纪 80 年代被专家和学者分析视为该产业竞争劣势来源的因素，反而为其竞争力的复兴做出了贡献。美国半导体企业的战略重新定位，在很大程度上正是得益于曾被麻省理工学院委员会等严厉批评的碎片化产业结构。[[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 108)]]
+> 许多在 20 世纪 80 年代被专家和学者分析视为该产业竞争劣势来源的因素，反而为其[[Competitiveness|竞争力]]的复兴做出了贡献。美国半导体企业的战略重新定位，在很大程度上正是得益于曾被麻省理工学院委员会等严厉批评的碎片化产业结构。[[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 108)]]
 >
 > *Moreover, many of the factors cited in the 1980s by expert and scholarly analyses as sources of competitive weakness in this industry have instead contributed to its competitive revival. The repositioning of U.S. semiconductor firms was, if anything, aided by the 'fragmentation' of the U.S. industry's structure that the MIT Commission and others criticized.*
 

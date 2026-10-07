@@ -5,7 +5,7 @@ aliases:
 summary: "解释资本主义为何一方面依赖空间固着来组织生产与投资、另一方面又不断推动流动以打破既有配置的空间动力学理论"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 17
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Knowledge-Based Economization]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Innovation Park]]"
+  - "[[Competitiveness]]"
   - "[[Pride in Learning]]"
   - "[[Creativity]]"
   - "[[Creative Destruction]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 ## 定义
@@ -82,7 +83,7 @@ Harvey 的理论论证从资本主义生产方式的根本特征出发，可以�
 
 ### 第 5 步：地方被迫重新固着——循环重启
 
-被资本放弃的地方为了重新吸引资本，必须投入新一轮的基础设施建设——建立新的[[Innovation Park|创新园区]]、改革教育系统以培养"新经济"需要的劳动力、改造城市空间以"提升竞争力"。这正是 Moisio 所说的再领土化（re-territorialization）。但这些新的固着将在未来某一时刻再次被流动逻辑破坏——循环无止境。
+被资本放弃的地方为了重新吸引资本，必须投入新一轮的基础设施建设——建立新的[[Innovation Park|创新园区]]、改革教育系统以培养"新经济"需要的劳动力、改造城市空间以"提升[[Competitiveness|竞争力]]"。这正是 Moisio 所说的再领土化（re-territorialization）。但这些新的固着将在未来某一时刻再次被流动逻辑破坏——循环无止境。
 
 这五个步骤不是时间上的"周期"，而是结构性的*张力*：固着和流动在任何时刻都同时存在并相互对抗。资本在固着时已经在准备流动；地方在吸引资本时已经在为被放弃做准备。
 
@@ -131,7 +132,7 @@ Harvey 的理论论证从资本主义生产方式的根本特征出发，可以�
 
 
 > [!success] 城市形态：张力的空间表现
-> 固着-流动张力以城市形态呈现：大规模投资首都城市和城市基础设施，"大型城市日益体现国家竞争力和吸引力"([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.28–29]])。城市创新综合体被建设为"空间例外"（spatial exceptions, Ong, 2006）——国家在这些空间中放松常规规制、集中资源、创造特殊条件，希望它们成为锚定全球知识资本的"领土平台"([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.28]])。
+> 固着-流动张力以城市形态呈现：大规模投资首都城市和城市基础设施，"大型城市日益体现[[Competitiveness|国家竞争力]]和吸引力"([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.28–29]])。城市创新综合体被建设为"空间例外"（spatial exceptions, Ong, 2006）——国家在这些空间中放松常规规制、集中资源、创造特殊条件，希望它们成为锚定全球知识资本的"领土平台"([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.28]])。
 
 
 > [!success] 知识经济化概念的串联枢纽

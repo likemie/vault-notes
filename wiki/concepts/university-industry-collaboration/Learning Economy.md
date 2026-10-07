@@ -10,7 +10,7 @@ aliases:
 summary: "涵盖微观制造经验积累与宏观创新系统演进的双重经济分析范式。微观上指累计产量翻番带来单位生产成本下降20%–30%的动态学习效应；宏观上指在全球化与技术快速变迁中，竞争力取决于动态学习与知识吸收能力而非静态要素存量的经济形态。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ tags:
   - public-procurement
   - technological-change
 related_concepts:
+  - "[[Competitiveness]]"
   - "[[Learning by Doing]]"
   - "[[Assured Demand]]"
   - "[[Knowledge-Based Economy]]"
@@ -50,7 +51,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 # Learning Economy
 
@@ -59,7 +60,7 @@ updated: 2026-10-05
 ## 定义
 
 > [!def] 核心定义
-> **学习经济（Learning Economy / 学习曲线效应）**涵盖微观制造工程与宏观[[Systems of Innovation|创新系统]]的双重理论意涵：在微观与产业层面，指企业在生产过程中随着历史累计产量的持续扩张，工人和工程师通过实践积累操作经验、改进工艺良率与消除缺陷，从而驱动产品单位成本呈现规律性指数下降的动态生产率提升机制（典型如半导体产业累计产量每翻一番，单位制造成本下降 20%–30%）；在宏观与中观创新系统层面，指在全球化与技术加速变迁的环境中，经济体与企业的核心竞争力越来越取决于持续学习、遗忘陈旧惯例和吸收新知识的动态能力，而非单纯依赖静态的自然资源禀赋或固定知识存量。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 7)]]；[[Argument_Caraca_2009_TFSC|(Caraça, Lundvall & Mendonça, 2009, p. 864)]]
+> **学习经济（Learning Economy / 学习曲线效应）**涵盖微观制造工程与宏观[[Systems of Innovation|创新系统]]的双重理论意涵：在微观与产业层面，指企业在生产过程中随着历史累计产量的持续扩张，工人和工程师通过实践积累操作经验、改进工艺良率与消除缺陷，从而驱动产品单位成本呈现规律性指数下降的动态生产率提升机制（典型如半导体产业累计产量每翻一番，单位制造成本下降 20%–30%）；在宏观与中观创新系统层面，指在全球化与技术加速变迁的环境中，经济体与企业的核心[[Competitiveness|竞争力]]越来越取决于持续学习、遗忘陈旧惯例和吸收新知识的动态能力，而非单纯依赖静态的自然资源禀赋或固定知识存量。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 7)]]；[[Argument_Caraca_2009_TFSC|(Caraça, Lundvall & Mendonça, 2009, p. 864)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 微观上指向[[Learning by Doing|干中学]]（Learning by Doing）带来的制造良率爬坡与成本剧降曲线；宏观上指向以经验互动、组织敏捷与知识流动为核心的系统竞争力形态。
@@ -142,7 +143,7 @@ updated: 2026-10-05
 > 探讨在全球化与技术快速迭代环境下，为什么单纯占有技术专利或资源存量不足以维系优势，唯有持续学习能力构成竞争基石。
 
 > [!claim] Caraça, J., [[Bengt-Åke Lundvall|Lundvall, B.-Å.]] & Mendonça, S.
-> **动态学习能力作为创新竞争力的核心决定力量** 若昂·卡拉萨（João Caraça）、本特-奥克·伦德瓦尔（Bengt-Åke Lundvall）与桑德罗·门东萨（Sandro Mendonça）指出，在现代学习经济中，技术机会与市场需求的变迁极为剧烈，任何静态的知识存量、设备资产或自然资源禀赋都会迅速面临[[Creativity|创造性]]破坏而贬值。企业的长期优势不再取决于其在某一时刻拥有多少专利，而取决于其能否快速跨越组织边界吸收外部新知、遗忘过时的组织惯例并敏捷重构生产流程。SAPPHO 创新项目的实证分析证实，成功创新者与失败者之间的决定性分水岭正在于对外部环境的开放度与敏捷学习能力。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 864–866)]]
+> **动态学习能力作为创新[[Competitiveness|竞争力]]的核心决定力量** 若昂·卡拉萨（João Caraça）、本特-奥克·伦德瓦尔（Bengt-Åke Lundvall）与桑德罗·门东萨（Sandro Mendonça）指出，在现代学习经济中，技术机会与市场需求的变迁极为剧烈，任何静态的知识存量、设备资产或自然资源禀赋都会迅速面临[[Creativity|创造性]]破坏而贬值。企业的长期优势不再取决于其在某一时刻拥有多少专利，而取决于其能否快速跨越组织边界吸收外部新知、遗忘过时的组织惯例并敏捷重构生产流程。SAPPHO 创新项目的实证分析证实，成功创新者与失败者之间的决定性分水岭正在于对外部环境的开放度与敏捷学习能力。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 864–866)]]
 
 ---
 

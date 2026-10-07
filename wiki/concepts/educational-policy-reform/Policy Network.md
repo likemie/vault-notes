@@ -12,7 +12,7 @@ aliases:
 summary: "由政府部门、中介组织、智库、高校与私有资本等多元行动者交织构成的网状治理结构。在批判政策社会学中揭示国家作为市场缔造者与私营中介协同重构再分配与理念编排的异层治理，在实证治理中测度政务网络规模与互动深度非线性解耦。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Co-affiliation]]"
   - "[[Evidence Ecosystem]]"
+  - "[[Competitiveness]]"
   - "[[Falsification]]"
   - "[[Boundary Spanner]]"
   - "[[Multiplicity]]"
@@ -88,7 +89,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-17
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Policy Network
@@ -127,7 +128,7 @@ updated: 2026-09-22
 > | 维度 | 政策网络（Policy Network） | 官僚科层制（Bureaucracy） | 纯学术共同体（Epistemic Community） | 市场化咨询外包（Commercial Contracting） |
 > |---|---|---|---|---|
 > | **治理结构与纽带** | 公私节点交叉缠绕的异质治理网状结构 | 垂直自上而下的层级法定指令与规章制度 | 基于同行评议与学术规范的学术网络 | 基于商业合同与买卖契约的交易关系 |
-> | **权力与控制来源** | 理念编排、多重人事任职与资金渗透 | 法定行政权威与国家强制力监督 | 学术声誉、方法学严谨性与知识发现 | 市场竞争力、交付效率与客户满意度 |
+> | **权力与控制来源** | 理念编排、多重人事任职与资金渗透 | 法定行政权威与国家强制力监督 | 学术声誉、方法学严谨性与知识发现 | 市场[[Competitiveness\|竞争力]]、交付效率与客户满意度 |
 > | **知识流动特征** | 战略性筛选、话语包装与特定证据背书 | 公文流转、政令发布与自上而下政策传导 | 自由探讨、反思争鸣与经验[[Falsification\|证伪]] | 按委托方需求交付定制化决策简报 |
 > | **核心潜在风险** | 民主问责虚化、大网络陷阱与利益集团捕获 | 僵化教条、响应迟缓与严重脱离一线实际 | 象牙塔闭门造车、成果可操作性与可及性差 | 证据商业化变现与短视技术性修补 |
 

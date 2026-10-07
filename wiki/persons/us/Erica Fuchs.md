@@ -10,7 +10,7 @@ summary: "美国卡内基梅隆大学工程与公共政策教授，技术变革�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Embedded Network Governance]]"
   - "[[Network Governance]]"
   - "[[Paradigm]]"
+  - "[[Competitiveness]]"
   - "[[Network Plasticity]]"
   - "[[Structural Holes]]"
   - "[[Boundary Spanner]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Erica Fuchs
@@ -79,7 +80,7 @@ updated: 2026-10-06
 > [!timeline] 生平与职涯
 > - **1999–2006** 先后于麻省理工学院（MIT）获得材料科学与工程学士、技术与政策硕士以及技术、管理与政策博士学位，奠定了工程技术与公共政策跨学科研究底座。
 > - **2006–2010** 加入卡内基梅隆大学工程与公共政策系任教；针对 [[DARPA]] 微系统技术办公室（MTO）在半导体芯片前沿材料领域的资助历程展开长程追踪与[[Grounded Theory|扎根理论]]建构，系统梳理 1992–2008 年间技术政策转变，并在《研究政策》（*Research Policy*）发表奠基性论文。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1135)]]
-> - **2011–2022** 持续聚焦全球制造业重构、半导体光子集成与量子技术等前沿领域的创新治理与国际竞争；当选[[American Association for the Advancement of Science|美国科学促进会]]（AAAS）会士，多次就美国科技竞争力与芯片制造政策向美国国会提供专家证词。
+> - **2011–2022** 持续聚焦全球制造业重构、半导体光子集成与量子技术等前沿领域的创新治理与国际竞争；当选[[American Association for the Advancement of Science|美国科学促进会]]（AAAS）会士，多次就美国科技[[Competitiveness|竞争力]]与芯片制造政策向美国国会提供专家证词。
 > - **2022–至今** 领衔创立美国国家关键技术评估网络（NNCTA），获[[National Science Foundation|美国国家科学基金会]]（NSF）资助，开发用于评估国家战略性技术能力、供应链脆弱性与研发投资方向的跨学科定量数据平台。
 
 ---

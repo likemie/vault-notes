@@ -6,7 +6,7 @@ aliases:
 summary: "在教育系统内外通过网络、合作和机会识别推动政策变革的行动者，常兼具知识传播、议程设置和组织动员功能。在理性主义比较教育传统中，政策企业家是全球治理与多行动者网络的核心协调力量；在新自由主义教育私有化改革中，他们通过在公共福利、非营利与营利性载体间无缝切换，实现学术知识产权的商业化和远处治理；在公共教育制度改革中，他们通过跨界网络、策略性证据打包与去政治化防卫，突破各州分散垄断以促成重大政策变迁。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Policy Mobility]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Problem Finding]]"
+  - "[[Competitiveness]]"
   - "[[Policy Network]]"
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
@@ -77,7 +78,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 # Policy Entrepreneur
@@ -164,7 +165,7 @@ updated: 2026-09-26
 > 关注政策企业家如何在不同决策阶段，将科学研究、实证指标与规范性价值诉求策略性组合，打破僵化的既有体制并构建改革支持联盟。
 
 > [!claim] McDonnell, L. M. & Weatherford, M. S.
-> **阶段权变的证据整合与去政治化倡导** 论证了政策企业家在推动重大制度变迁时，并非单向依凭纯粹学术证据，而是依据政策周期各阶段的政治目标灵活整合多元证据：在[[Problem Finding|问题界定]]阶段，策略性筛选国际测评与州际落差指标，将其与[[Human Capital Theory|人力资本]]竞争力价值框架结合以打破分散标准的[[Punctuated Equilibrium Theory|政策垄断]]；在方案设计阶段，将诉诸实证研究作为去政治化策略以规避意识形态争端，并在研究证据有限处以专家和一线教师的专业经验填补空白；在采纳阶段，重构共识叙事并注入州级细分对标数据（Crosswalks）以构建法定通过联盟。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 1–4, 18–19)]]
+> **阶段权变的证据整合与去政治化倡导** 论证了政策企业家在推动重大制度变迁时，并非单向依凭纯粹学术证据，而是依据政策周期各阶段的政治目标灵活整合多元证据：在[[Problem Finding|问题界定]]阶段，策略性筛选国际测评与州际落差指标，将其与[[Human Capital Theory|人力资本]][[Competitiveness|竞争力]]价值框架结合以打破分散标准的[[Punctuated Equilibrium Theory|政策垄断]]；在方案设计阶段，将诉诸实证研究作为去政治化策略以规避意识形态争端，并在研究证据有限处以专家和一线教师的专业经验填补空白；在采纳阶段，重构共识叙事并注入州级细分对标数据（Crosswalks）以构建法定通过联盟。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 1–4, 18–19)]]
 
 ---
 

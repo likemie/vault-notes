@@ -10,7 +10,7 @@ subtype: event
 region: europe
 fact_region: "europe"
 fact_kind: "event"
-fact_related_count: 3
+fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -23,6 +23,7 @@ tags:
   - theme/internationalization
 related_concepts:
   - "[[Heterogeneity]]"
+  - "[[Competitiveness]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-29
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Bologna Process
@@ -44,14 +45,14 @@ updated: 2026-09-17
 > - **时间** 1999年（博洛尼亚宣言签署）
 > - **地点** 欧洲（意大利博洛尼亚，最初29国签署）
 > - **关键主体** 欧洲各国教育部长、欧盟委员会、欧洲大学协会等区域治理机构
-> - **制度背景** 冷战后欧洲一体化进程加速，高等教育系统的高度[[Heterogeneity\|异质性]]（学制长短不一、学位不互认、学分不可转换）成为学术流动和劳动力市场整合的结构性障碍。与此同时，全球化背景下欧洲高等教育整体竞争力面临来自美国和亚太地区的挑战。
+> - **制度背景** 冷战后欧洲一体化进程加速，高等教育系统的高度[[Heterogeneity\|异质性]]（学制长短不一、学位不互认、学分不可转换）成为学术流动和劳动力市场整合的结构性障碍。与此同时，全球化背景下欧洲高等教育整体[[Competitiveness|竞争力]]面临来自美国和亚太地区的挑战。
 > - **触发条件** 1998年索邦宣言（Sorbonne Declaration）和 1999年博洛尼亚宣言（Bologna Declaration）将建立欧洲高等教育区（European Higher Education Area, EHEA）提上正式议程。
 
 ---
 
 ## 政策概况
 
-博洛尼亚进程是欧洲范围内规模最大、持续时间最长的高等教育改革进程。其核心目标包括：建立可比较的学位体系（学士-硕士-博士三级制）；引入欧洲学分转换与累积系统（ECTS）；促进师生和管理人员的跨境流动；建立统一的质量保障框架；以及提升欧洲高等教育的全球吸引力和竞争力。截至 2020 年代，已有 49 个国家加入欧洲高等教育区。
+博洛尼亚进程是欧洲范围内规模最大、持续时间最长的高等教育改革进程。其核心目标包括：建立可比较的学位体系（学士-硕士-博士三级制）；引入欧洲学分转换与累积系统（ECTS）；促进师生和管理人员的跨境流动；建立统一的质量保障框架；以及提升欧洲高等教育的全球吸引力和[[Competitiveness|竞争力]]。截至 2020 年代，已有 49 个国家加入欧洲高等教育区。
 
 博洛尼亚进程的意义超越了技术层面上的学制协调。它标志着欧洲高等教育治理从纯粹政府间协调向区域治理机构参与的转变，并对国家主权与超国家治理之间的关系产生了深远影响。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
 

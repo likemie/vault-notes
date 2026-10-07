@@ -7,7 +7,7 @@ aliases:
 summary: "克莱里德斯在国际关系理论视域下提出的概念，指比较教育在不同国际关系思想传统影响下，选择性关注某些问题（在场）而忽略另一些问题（缺席）的话语过滤与知识生产机制"
 type: concept
 domain: "comparative-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Revoicing]]"
   - "[[Reference Society]]"
   - "[[Policy Borrowing]]"
+  - "[[Competitiveness]]"
   - "[[Soft Power]]"
   - "[[Global Citizenship]]"
   - "[[International Mind]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Agendas of Attention
@@ -134,7 +135,7 @@ updated: 2026-10-02
 > 探讨现实主义假设下学科对国家能力的过度聚焦与对政治压迫的视而不见。学者们倾向于揭示现代主义比较工具的地缘政治暗面。
 
 > [!claim] Klerides, E.
-> **现代主义工具性** 现实主义注意力议程将“民族国家单位”、“[[Policy Borrowing\|政策借用]]与吸引”及“[[Reference Society\|参考社会]]”设立为在场核心，通过官方教育考察和工业竞争力焦虑驱动对外国模式的工具性借用；但同时也使非国家行动者、政策借用背后的强制性权力支配以及比较教育学科自身参与帝国殖民同化和文明化工程的黑暗面沦为彻底的缺席。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 420–421]])
+> **现代主义工具性** 现实主义注意力议程将“民族国家单位”、“[[Policy Borrowing\|政策借用]]与吸引”及“[[Reference Society\|参考社会]]”设立为在场核心，通过官方教育考察和工业[[Competitiveness|竞争力]]焦虑驱动对外国模式的工具性借用；但同时也使非国家行动者、政策借用背后的强制性权力支配以及比较教育学科自身参与帝国殖民同化和文明化工程的黑暗面沦为彻底的缺席。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 420–421]])
 
 ---
 
@@ -185,7 +186,7 @@ updated: 2026-10-02
 > > [!axis] 单一视角的理想化 vs 经验现实的交叉混合
 > > 争论在于，注意力议程的三大分类是否过于理想化。
 > > - **分析工具的纯粹性** 现实主义、理性主义和[[Revolutionism\|革命主义]]的注意力议程通常作为“理想类型”存在，用于协助学者剥离复杂的思想线索。
-> > - **混合形态的现实** 赫德利·布尔等人指出，任何具体的比较教育实践（如 [[PISA]] 或区域研究）在现实中往往交织着现实主义的国家竞争力逻辑、理性主义的数据治理逻辑与革命主义的改进道德热情。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 431]])
+> > - **混合形态的现实** 赫德利·布尔等人指出，任何具体的比较教育实践（如 [[PISA]] 或区域研究）在现实中往往交织着现实主义的[[Competitiveness|国家竞争力]]逻辑、理性主义的数据治理逻辑与革命主义的改进道德热情。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 431]])
 
 > [!critique] 学理与方法论批判
 > - **过度欧洲中心主义** 整个注意力议程的基础依赖于怀特对欧洲国际理论的归纳，其三位代表学者（马基雅维利、格劳秀斯、[[Immanuel Kant\|康德]]）以及所涉及的哲学底色皆源于西欧传统，限制了其对非西方世界自主国际关系思想及注意力重组的解释力。

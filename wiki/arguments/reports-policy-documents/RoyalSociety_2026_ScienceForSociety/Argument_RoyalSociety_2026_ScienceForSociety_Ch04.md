@@ -10,9 +10,9 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_display_title: "Chapter four: Industry and business sector"
 argument_kind: "book-chapter"
-argument_related_count: 43
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
 issuing_organization: The Royal Society
 year: 2026
@@ -44,11 +44,13 @@ related_concepts:
   - "[[Citizen Science]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Paradigm]]"
+  - "[[Competitiveness]]"
   - "[[Informed Consent]]"
   - "[[Clinical Trial]]"
   - "[[Patient and Public Involvement]]"
   - "[[Hypothesis]]"
   - "[[Theories of Policy Change]]"
+  - "[[Metascience]]"
   - "[[Document]]"
   - "[[Scientific Literacy]]"
   - "[[Data Literacy]]"
@@ -246,7 +248,7 @@ updated: 2026-09-13
 不同行业在应对公众关切中摸索出了差异化的参与路径，其中新兴数据赋能技术的民主审议尤为紧迫。（pp. 71–73）
 
 > [!claim] 步骤三核心主张
-> 传统核能、交通基建与生命科学已逐步探索出透明协商、社区大使及以患者为中心（Patient Centricity）的全生命周期参与[[Paradigm\|范式]]；然而，在关系国家未来竞争力的数据与人工智能（AI）前沿领域，公众利益认可度极低（仅 33% 认同利大于弊），商业 AI 实验室的公众参与多停留在碎片化、临时性的公关试验层面，亟需构建全流程的常态化民主审议机制。（pp. 71–73）
+> 传统核能、交通基建与生命科学已逐步探索出透明协商、社区大使及以患者为中心（Patient Centricity）的全生命周期参与[[Paradigm\|范式]]；然而，在关系国家未来[[Competitiveness|竞争力]]的数据与人工智能（AI）前沿领域，公众利益认可度极低（仅 33% 认同利大于弊），商业 AI 实验室的公众参与多停留在碎片化、临时性的公关试验层面，亟需构建全流程的常态化民主审议机制。（pp. 71–73）
 
 #### 主题一：传统工业与重大基础设施的群己共商转型（核能与交通）
 
@@ -358,7 +360,7 @@ updated: 2026-09-13
 
 倡导型 NGO 致力于推动国家法律法规与公共[[Theories of Policy Change|政策变革]]：
 
-> [!debates] 政策倡导中的多元科学证据竞争与公民素养挑战（p. 75）
+> [!debates] 政策倡导中的多[[Metascience|元科学]]证据竞争与公民素养挑战（p. 75）
 > - **多元 NGO 之间的竞争性科学主张** 在环境排污、绿色转型或动物福利等公共争议中，不同立场的 NGO 往往各自委托专业机构开展独立研究，或引述不同侧重点但同样真实严谨的同行评议[[Document\|文献]]，导致公共场域出现大量相互竞争的科学主张。
 > - **超越单一信息灌输的公民素养要求** 这一现实再次证明，单纯的灌输无法平息争议，社会必须自幼小教育阶段起全面普及[[Scientific Literacy\|科学素养]]与[[Data Literacy\|数据素养]]，唯有使公民具备独立评估证据质量、理解系统复杂性的胜任力，才能在多元科学证据的民主辩论中明辨全貌。
 

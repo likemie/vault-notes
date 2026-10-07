@@ -26,6 +26,7 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Hypothesis]]"
+  - "[[Competitiveness]]"
   - "[[Big Science]]"
 related_theories:
   - "[[Critical Geopolitics]]"
@@ -55,7 +56,7 @@ title: "Argument_Brint_2023_IHE"
 argument_key: "Argument_Brint_2023_IHE"
 argument_display_title: "The US “CHIPS and Science” Act launches industrial policy as counter to China"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -246,7 +247,7 @@ issuing_organization: ""
 ### 论证步骤三　中国在动员能力与理工人才储备上优势显著，欧美在应对策略上各有不同
 
 > [!claim] 步骤三核心主张
-> 中国在科研产出、国家统筹与工程人才规模上具备强大竞争力，不能被简单低估；同时中美两国在具体政策手段上出现历史性互鉴，而欧洲则走出了聚焦社会与生态可持续发展的第三条道路。（p. 10）
+> 中国在科研产出、国家统筹与工程人才规模上具备强大[[Competitiveness|竞争力]]，不能被简单低估；同时中美两国在具体政策手段上出现历史性互鉴，而欧洲则走出了聚焦社会与生态可持续发展的第三条道路。（p. 10）
 
 #### 1. 中国科研创新体系的发展动能与潜在制度制约
 

@@ -4,7 +4,6 @@ aliases:
   - 最佳证据综合
   - 最佳证据综合项目
   - Best Evidence Synthesis Iteration
-  - BES
   - NZ BES
 summary: "新西兰教育部自2003年起主导设立的部委嵌入型国家级知识中介项目，通过迭代综合方法深度融合实证因果与毛利文化响应性教学，开创了从方法论指导向多模态实践转译演进的国家典范。"
 type: fact
@@ -16,7 +15,7 @@ fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
-period: "2003–至今"
+period: 2003–至今
 initiator_organization: New Zealand Ministry of Education
 tags:
   - region/new-zealand
@@ -62,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Best Evidence Synthesis

@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Surplus of Evidence]]"
   - "[[Policy Brokerage]]"
+  - "[[Competitiveness]]"
   - "[[Governing by Numbers]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # World Development Indicators
@@ -138,7 +139,7 @@ updated: 2026-09-29
 > > WDI 教育指标体系的设计隐含了特定的政策[[Paradigm\|范式]]预设。
 > >
 > > - **比较教育批评** WDI 的教育指标体系从框架设计之初便高度服务于教育回报率与[[Human Capital Theory\|人力资本]]测算范式，对教育的公民养成、文化传承与个人自由发展等非经济维度缺乏系统性量化，这种框架性偏见深刻影响了全球南方国家的教育政策优先序。
-> > - **制度诠释** 世界银行通过《人力资本指数》（HCI）将国家竞争力与教育回报率捆绑，进一步强化了经济中心化的教育治理逻辑。
+> > - **制度诠释** 世界银行通过《人力资本指数》（HCI）将[[Competitiveness|国家竞争力]]与教育回报率捆绑，进一步强化了经济中心化的教育治理逻辑。
 
 > [!warning] 适用局限
 > WDI 数据质量高度依赖各国统计能力和数据上报意愿，撒哈拉以南非洲等地区存在大量缺失值和估算值；数字的精确性往往掩盖背后巨大的方法论不确定性与国别可比性局限。

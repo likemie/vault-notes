@@ -6,7 +6,7 @@ summary: "中国宪法学者，北京大学法学院教授，曾任中联办研�
 type: person
 nationality: "china"
 person_region: "china"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[One Country, Two Systems]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Psychologisation]]"
+  - "[[Competitiveness]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-07-12'
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Jiang Shigong
@@ -115,7 +116,7 @@ updated: 2026-09-17
 > 
 > > [!axis] 主权政治决断优先 vs. 宪法法治契约约束
 > > 争论焦点在于基本法与[[One Country, Two Systems\|一国两制]]框架应当被视作约束政府最高权力的宪政契约，还是主权者为便利统治而单向授权的临时性行政特许。
-> > - **[[Argument_Vickers_2024_CE\|Vickers（2024, pp.149, 155）]]** 指出，强世功的施米特式法学实质上将法律降格为统治阶级决断的传导管道，摧毁了作为香港核心竞争力的普通法法治基础。
+> > - **[[Argument_Vickers_2024_CE\|Vickers（2024, pp.149, 155）]]** 指出，强世功的施米特式法学实质上将法律降格为统治阶级决断的传导管道，摧毁了作为香港核心[[Competitiveness|竞争力]]的普通法法治基础。
 > > - **强世功（2010）** 认为西方的契约式宪法解释忽略了主权的政治意志本质，在面临国家分裂或安全例外时，日常规范必须让位于主权决断以保障宪法存续。
 
 > [!critique]- 批评索引

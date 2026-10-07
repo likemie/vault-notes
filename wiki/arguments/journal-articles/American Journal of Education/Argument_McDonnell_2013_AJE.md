@@ -34,6 +34,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Research Utilization]]"
   - "[[College and Career Readiness]]"
+  - "[[Competitiveness]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Document]]"
@@ -97,9 +98,9 @@ title: "Argument_McDonnell_2013_AJE"
 argument_key: "Argument_McDonnell_2013_AJE"
 argument_display_title: "Evidence use and the Common Core State Standards movement: From problem definition to policy adoption"
 argument_kind: "journal-article"
-argument_related_count: 59
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 60
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "American Journal of Education"
 book_title: ""
@@ -187,7 +188,7 @@ issuing_organization: ""
 ### 论证步骤一　议程设置：政策企业家将实证差距指标与两党核心价值深度绑定，打破各州自主标准的制度垄断
 
 > [!claim] 步骤一核心主张
-> 客观存在的学术研究不会自动转化为改革议程。[[Policy Entrepreneur|政策企业家]]之所以能打破各州分散标准的百年体制惯性，关键在于他们把州际成绩差距、国际测试落差等实证指标，同国家经济竞争力与教育公平等两党根本价值深度绑定，并在巨额慈善资金与跨界联盟的支持下，成功将制定全国通用标准推为两党与全美首要政策共识。（pp. 8–12, 22）
+> 客观存在的学术研究不会自动转化为改革议程。[[Policy Entrepreneur|政策企业家]]之所以能打破各州分散标准的百年体制惯性，关键在于他们把州际成绩差距、国际测试落差等实证指标，同国家经济[[Competitiveness|竞争力]]与教育公平等两党根本价值深度绑定，并在巨额慈善资金与跨界联盟的支持下，成功将制定全国通用标准推为两党与全美首要政策共识。（pp. 8–12, 22）
 
 #### 1. 跨界政策企业家组建联合网络，打破分权体制的行动僵局
 

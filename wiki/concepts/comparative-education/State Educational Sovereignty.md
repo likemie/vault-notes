@@ -10,7 +10,7 @@ aliases:
 summary: "近代世俗民族国家在打破宗教神权与宗族私权中确立的最高教育管辖权与视察责任，主张教育属神圣国家公共资源。20世纪末以来，国家教育主权面临超国家测评治理、WTO/GATS跨国经贸规约与非政府组织“影子国家”外包的多标度侵蚀与重构。"
 type: concept
 domain: "comparative-education"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Intercultural Education]]"
   - "[[Attrition]]"
+  - "[[Competitiveness]]"
   - "[[Policy Borrowing]]"
   - "[[Enlightenment]]"
   - "[[Dual School System]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-06
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # State Educational Sovereignty
@@ -192,7 +193,7 @@ updated: 2026-09-29
 > 探讨全球化时代[[World Trade Organization|世贸组织]]经贸规约与民间组织外包如何深度穿透传统民族国家主权边界，导致国家公共调控责任严重[[Attrition|流失]]。
 
 > [!claim] [[Robert Arnove|Arnove, R.]] and Robertson, S.
-> **超国家经贸规制削弱小国调控主权与造成非对称分化** 阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）与罗伯逊等人（2002）指出，WTO/[[GATS and Trade in Education Services|GATS]] 致力于消除跨境教育壁垒，导致大国与小国陷入极不平等的自主权鸿沟。大国（如加入世贸后的中国）能够主动借力规则增强国家竞争力，而牙买加、尼加拉瓜等经济弱小国家则在世贸规约面前彻底丧失了宏观调控教育与维护国民福利的主权能力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
+> **超国家经贸规制削弱小国调控主权与造成非对称分化** 阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）与罗伯逊等人（2002）指出，WTO/[[GATS and Trade in Education Services|GATS]] 致力于消除跨境教育壁垒，导致大国与小国陷入极不平等的自主权鸿沟。大国（如加入世贸后的中国）能够主动借力规则增强[[Competitiveness|国家竞争力]]，而牙买加、尼加拉瓜等经济弱小国家则在世贸规约面前彻底丧失了宏观调控教育与维护国民福利的主权能力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
 
 > [!claim] Sutton, Arnove and Kamat
 > **公共服务外包异化为去政治化影子国家并架空主权权威** 萨顿与阿诺夫（Sutton & Arnove, 2004）及卡马特（Kamat, 2004）揭示，国际援助机构出于对受援国官僚的不信任，普遍绕过国家教育部直接委托非政府组织提供教育；这种公共服务外包使国家丧失了统筹教育与颁发文凭的核心权威，不仅导致国民教育碎片化，更将民间组织异化为依附于外部指标的“影子国家”，彻底架空了国家公共教育主权。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 111–112)]]

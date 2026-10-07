@@ -7,7 +7,7 @@ aliases:
 summary: "以知识、创新、高等教育、研发与高阶思维技能作为价值创造与全球竞争核心要素的经济形态；在技术自动化与AI浪潮下，其战略重心从静态专业知识转向高阶认知能力，但面临宏观政策宣示与微观学业评价滞后的深层制度悖论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Spatial Sortings]]"
+  - "[[Competitiveness]]"
   - "[[Construct]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Operationalization]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Knowledge-Based Economy
@@ -147,7 +148,7 @@ updated: 2026-10-05
 > 在 KBE 逻辑下，大学不再是脱离世俗的象牙塔，而被重构为直接生产高附加值专利、吸引全球跨国资本与输出高技能劳动力的国家核心战略基础设施。
 
 > [!claim] Moisio; Rizvi
-> **大学作为国家竞争力的战略支柱** 随着资本积累从物质密集型转向知识密集型，大学的战略政治角色根本性增加；亚洲各国政府与西方发达国家普遍以 KBE 话语为合法性依据，大规模扩张高等教育预算并实施教育出口战略，将高教政策转变为经济、外交与地缘安全政策的复合体。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, p. 23)]]; [[Argument_Rizvi_2022_Springer\|(Rizvi, 2022, pp. 95–100)]]
+> **大学作为[[Competitiveness|国家竞争力]]的战略支柱** 随着资本积累从物质密集型转向知识密集型，大学的战略政治角色根本性增加；亚洲各国政府与西方发达国家普遍以 KBE 话语为合法性依据，大规模扩张高等教育预算并实施教育出口战略，将高教政策转变为经济、外交与地缘安全政策的复合体。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, p. 23)]]; [[Argument_Rizvi_2022_Springer\|(Rizvi, 2022, pp. 95–100)]]
 
 ---
 
@@ -197,7 +198,7 @@ updated: 2026-10-05
 
 > [!dev-timeline] 知识经济概念演进脉络
 > - **十九世纪先驱 — [[Friedrich List]] 国家[[Systems of Innovation\|创新系统]]萌芽** List《政治经济学的国家系统》（1841）主张国家必须通过有组织的技术教育、科研与长期产业政策拓展知识优势，奠定[[National Innovation System|国家创新系统]]的知性根源。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, p. 22)]]
-> - **二战后奠基（1950s–1970s） — 知识工作者与后工业理论** Drucker（1959/1969）提出“知识工作者”；Bell（1973）阐述[[Theoretical Knowledge\|理论知识]]在后工业主义中的核心地位；人造卫星危机（1957）促使 [[OECD]] 将 [[STEM Education\|STEM]] 教育与国家地缘经济竞争力深度绑定。[[Argument_Amos_2022_Springer\|(Amos, 2022, p. 56)]]
+> - **二战后奠基（1950s–1970s） — 知识工作者与后工业理论** Drucker（1959/1969）提出“知识工作者”；Bell（1973）阐述[[Theoretical Knowledge\|理论知识]]在后工业主义中的核心地位；人造卫星危机（1957）促使 [[OECD]] 将 [[STEM Education\|STEM]] 教育与国家地缘经济[[Competitiveness|竞争力]]深度绑定。[[Argument_Amos_2022_Springer\|(Amos, 2022, p. 56)]]
 > - **经济学理论化（1980s–1990s） — 内生增长与新自由主义全球化** Romer（1986）内生增长理论将知识与[[Human Capital Theory\|人力资本]]确立为不受边际收益递减限制的内生动力；世界银行（1991）与 OECD（1996）正式将 KBE 话语确立为全球教育与经济政策主导典范。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, p. 23)]]
 > - **全球扩散与空间运作（2000s–2010s） — 教育出口与枢纽建设** 亚洲国家与澳大利亚将 KBE 转化为教育出口战略；新加坡与迪拜通过“教育枢纽”政策将大学完全产业化为经济增长极。[[Argument_Rizvi_2022_Springer\|(Rizvi, 2022)]]; [[Argument_Erfurth_2022_education-hubs\|(Erfurth, 2022)]]
 > - **智能时代评价重构（2020s至今） — 聚焦高阶认知素养与评价治理** 面对生成式 AI 与劳动力深度重组，OECD 等国际组织反思“教育扩张”数量指标，转向推动以[[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]]与真实表现任务为核心的高教评价与治理变革。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023)]]

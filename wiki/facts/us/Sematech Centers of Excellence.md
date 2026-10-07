@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Categorical Funding]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Engineering Education]]"
   - "[[Precompetitive Research]]"
 related_theories: []
 related_methods: []
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-07
 ---
 
 # Sematech Centers of Excellence
@@ -112,7 +113,7 @@ updated: 2026-10-04
 > - **技术扩散效益** 产出的光刻模拟软件（如 SAMPLE 等）与等离子体刻蚀模型被全美芯片厂与设备商广泛采纳为通用设计标准。
 
 > [!finding-cards] 核心实证结论
-> - **筑牢美国微电子工程教育学科底座** 在 1980 年代产业低谷期有效阻止了美国高校半导体硬件师资与博士生源的萎缩，维持了美国在该领域的长周期人才供给。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 754)]]
+> - **筑牢美国微电子[[Engineering Education|工程教育]]学科底座** 在 1980 年代产业低谷期有效阻止了美国高校半导体硬件师资与博士生源的萎缩，维持了美国在该领域的长周期人才供给。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 754)]]
 > - **化解联盟短期工程导向与长期基础科学的制度冲突** 通过将基础科研委托给大学网络，使 Sematech 总部能够心无旁骛地专注于 1–2 年内的中试设备认证与测试线调试，实现了“工程中试与基础探索”的优势互补。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 735)]]
 
 ---

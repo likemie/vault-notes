@@ -7,7 +7,7 @@ aliases:
 summary: "Martens, Niemann, & Krogmann (2024) 与 Steiner-Khamsi 等提出的比较教育与全球治理分析概念，指原本缺乏专门教育法定职能的国际组织（如经合组织、世界银行、区域开发银行及贸易联盟），通过将教育重新编码为服务于经济增长、和平、可持续发展或知识经济等核心法定使命的工具性手段，从而合法化自身对教育政策领域的跨界介入与资源动员。"
 type: concept
 domain: "comparative-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Global Education Governing Complex]]"
   - "[[Governing by Numbers]]"
+  - "[[Competitiveness]]"
   - "[[Examination-Oriented Education]]"
   - "[[Variable]]"
 related_theories:
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 
 # Education-for-Mandates
@@ -167,7 +168,7 @@ updated: 2026-09-18
 > > [!axis] 教育多边治理的资源繁荣 vs 育人价值的工具化异化
 > > 比较教育学者与国际治理专家围绕非专门机构介入教育的利弊展开长久论战。
 > >
-> > - **全球治理实用派** 认为经济与区域组织的跨界介入极大地拓宽了全球教育的财政动员渠道，使教育从边缘的福利事业上升为主权国家的最高经济战略与国家竞争力中枢。
+> > - **全球治理实用派** 认为经济与区域组织的跨界介入极大地拓宽了全球教育的财政动员渠道，使教育从边缘的福利事业上升为主权国家的最高经济战略与[[Competitiveness|国家竞争力]]中枢。
 > > - **批判人文主义学者** 谴责该机制彻底将教育矮化为经济增长与资本积累的附庸工具，严重侵蚀了教育促进个体健全人格、社会民主公平与文化传承的本真价值。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541, 544)]]
 
 > [!critique] 外部批评

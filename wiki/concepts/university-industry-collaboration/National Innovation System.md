@@ -10,7 +10,7 @@ aliases:
 summary: "指由国家公共教育与培训体系、企业专职研发实验室、产业网络以及政府长期协调政策构成的制度网络，是解释跨国技术赶超、无形知识积累与经济长期分化的核心分析单位。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 43
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -21,10 +21,12 @@ tags:
 related_concepts:
   - "[[Technological Catch-up]]"
   - "[[Unit of Analysis]]"
+  - "[[Competitiveness]]"
   - "[[Regional Innovation System]]"
   - "[[Linear Model of Innovation]]"
   - "[[Industrial District]]"
   - "[[Apprenticeship]]"
+  - "[[Engineering Education]]"
   - "[[Absorptive Capacity]]"
   - "[[Intellectual Capital]]"
   - "[[Determinism]]"
@@ -71,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # National Innovation System
@@ -85,7 +87,7 @@ updated: 2026-10-05
 
 > [!concept-lens] 概念透镜
 > - **含义** 在民族国家空间与制度尺度上，由公共教育、企业研发部门、产业供应链、技术基础设施与国家战略性规制共同构筑的知识创造与扩散网络。
-> - **用途** 帮助研究者透视不同国家在研发投入、技术扩散速度与产业国际竞争力上的长期分化机制，打破将实物资本或研发经费占国民生产总值比率当作创新能力唯一度量指标的技术官僚迷思。
+> - **用途** 帮助研究者透视不同国家在研发投入、技术扩散速度与产业国际[[Competitiveness|竞争力]]上的长期分化机制，打破将实物资本或研发经费占国民生产总值比率当作创新能力唯一度量指标的技术官僚迷思。
 > - **边界** 不等于国家地理疆界内所有科研机构的机械拼盘；不适用于解释缺乏国家主权规制力与制度厚度的离岸离散网络，亦无法替代对次国家微观集聚（[[Regional Innovation System|区域创新系统]]）的面对面交互分析。
 
 > [!citation-card] Freeman 论国家创新系统的制度网络本质
@@ -115,7 +117,7 @@ updated: 2026-10-05
 ## 核心要素
 
 > [!feature] 核心要素
-> - **国家公共教育与工程人才培养网络** 涵盖全民基础教育、职业技术[[Apprenticeship|学徒制]]与高等工程教育，决定全社会的[[Absorptive Capacity|吸收能力]]与技术熟练度底座。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7, 13–14)]]
+> - **国家公共教育与工程人才培养网络** 涵盖全民基础教育、职业技术[[Apprenticeship|学徒制]]与[[Engineering Education|高等工程教育]]，决定全社会的[[Absorptive Capacity|吸收能力]]与技术熟练度底座。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7, 13–14)]]
 > - **企业内部专业化研发实验室** 1870 年代发端于德国化学工业的组织创新，将发明活动制度化为企业的常规职能，形成从实验室前沿到商业量产的直接通道。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–9)]]
 > - **研产销横向整合与供需互动网络** 研发部门、现场工艺工程与市场反馈的紧密回路，以及主导企业与上下游设备供应商之间的长期协作信任。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11–13)]]
 > - **政府长效产业政策与基础设施协调** 包含政府对引进技术的战略性消化再研发、工业母机测绘支持、国家标准与电信数据通信网络建设。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 7, 13–15)]]

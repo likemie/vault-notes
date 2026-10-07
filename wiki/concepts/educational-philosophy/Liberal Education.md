@@ -8,7 +8,7 @@ aliases:
 summary: "源自西方自由七艺与英国绅士品格培育传统的博雅教育理念，主张知识本身即为其目的，强调通过古典人文学术磨砺卓越心智与高尚品格，构成维多利亚时代大英帝国政治治理与抵御市侩庸俗主义的核心文化防线。"
 type: concept
 domain: "educational-philosophy"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Epistemology]]"
   - "[[STEM Education]]"
+  - "[[Competitiveness]]"
   - "[[Return on Investment]]"
   - "[[National Character]]"
 related_theories: []
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Liberal Education
@@ -218,7 +219,7 @@ updated: 2026-10-01
 > [!debates] 学术争议
 >
 > > [!axis] 超功利文雅品格熏陶 vs 阶层特权再生产与经济寄生性
-> > 批判社会学派指责传统自由教育是英国封建贵族与大资产阶级筑牢统治特权的制度工具，它培养的绅士缺乏实际工业与商业技能，甚至被认为是导致 19 世纪末英国工业竞争力衰退（“英国病”）的文化诱因之一。自由教育倡导者则强调，自由教育旨在培育有远见、能把握复杂局势的公共领袖，过度重视狭隘技术只会带来文明视野的退化。
+> > 批判社会学派指责传统自由教育是英国封建贵族与大资产阶级筑牢统治特权的制度工具，它培养的绅士缺乏实际工业与商业技能，甚至被认为是导致 19 世纪末英国工业[[Competitiveness|竞争力]]衰退（“英国病”）的文化诱因之一。自由教育倡导者则强调，自由教育旨在培育有远见、能把握复杂局势的公共领袖，过度重视狭隘技术只会带来文明视野的退化。
 > >
 > > - **工业现代化与社会批判派** 抨击其具有排他性、反工业主义与阶层固化倾向。
 > > - **人文保守主义学派** 坚守其在培养自制、正直品格与民主政治智慧上的独特贡献。

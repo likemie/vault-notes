@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - theme/state-science-relations
 related_concepts:
   - "[[Research Universities]]"
+  - "[[Competitiveness]]"
   - "[[Scientific Literacy]]"
   - "[[Epistemology]]"
   - "[[Technology Transfer Office]]"
@@ -50,7 +51,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Science in the National Interest 1994
@@ -63,7 +64,7 @@ updated: 2026-10-06
 > - **发布时间 / 发布主体** 1994 年 8 月由美国总统比尔·克林顿（Bill Clinton）与副总统阿尔·戈尔（Al Gore）联合发布，[[Office of Science and Technology Policy|白宫科学技术政策办公室]]（Office of Science and Technology Policy, OSTP）主导编制。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
 > - **适用地区 / 对象** 全美联邦研发资助部门（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]、DoD、DoE 等）、[[Research Universities|研究型大学]]、国家实验室以及高新技术产业界。
 > - **问题背景** 伴随苏联解体与冷战结束，支撑战后近半个世纪科研高资助的“国家安全统摄性”发生动摇；与此同时，联邦面临庞大财政赤字，国会与社会公众强烈要求削减非必要公共支出，质疑科研经费“无条件投入必定带来长期福祉”的传统假定。
-> - **制度位置** 这是美国政府继 1945 年[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）《科学——无止境的边疆》之后，半个世纪以来首部由总统中枢发布的国家级综合科学政策白皮书，标志着美国科学政策正式由“冷战国家安全模式”迈入“经济竞争力与社会问责模式”。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1059)]]
+> - **制度位置** 这是美国政府继 1945 年[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）《科学——无止境的边疆》之后，半个世纪以来首部由总统中枢发布的国家级综合科学政策白皮书，标志着美国科学政策正式由“冷战国家安全模式”迈入“经济[[Competitiveness|竞争力]]与社会问责模式”。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1059)]]
 
 ---
 
@@ -114,7 +115,7 @@ updated: 2026-10-06
 
 > [!tension]- 联盟结构与冲突
 >
-> | 维度 | 经济竞争力与问责倡导联盟 | 传统学术自治捍卫联盟 |
+> | 维度 | 经济[[Competitiveness\|竞争力]]与问责倡导联盟 | 传统学术自治捍卫联盟 |
 > |:---|:---|:---|
 > | 核心行动者 | 白宫决策层 / 产业科技界 / 国会预算委员会 | 传统[[Research Universities\|研究型大学]]基础科学界 / 学术协会 |
 > | 资源基础 | 联邦财政预算裁量权 / 国家产业立法权 | 学术声誉 / 同行评议权威 / 基础理论积淀 |
@@ -130,7 +131,7 @@ updated: 2026-10-06
 > [!indicators]- 评价指标
 > - **投入指标** 联邦非国防研发经费占总预算比例、民用基础科研资助总额。
 > - **过程指标** 跨部门 [[National Science and Technology Council|NSTC]] 协调项目数量、产学研联合技术专利申请量。
-> - **结果指标** 高技术产业国际竞争力提升、国家实验室与大学协同攻关成效。
+> - **结果指标** 高技术产业国际[[Competitiveness|竞争力]]提升、国家实验室与大学协同攻关成效。
 
 > [!finding-cards] 效果与评价
 > - **重构科学正当性叙事** 成功扭转了冷战后科学预算断崖式下跌的危险，为后冷战联邦科技投资确立了可持续的民用与经济合法性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
@@ -151,7 +152,7 @@ updated: 2026-10-06
 > > 各方对政策是否导致短视功利主义存在分歧。
 > >
 > > - **传统学术共同体** 忧虑过分强调“国家利益”与经济拉动效应会导致短视功利主义，侵蚀基础科学应对不可预测未来的战略储备功能。
-> > - **新竞争力学派与政策制定者** 坚持在全球化产业竞争时代，纳税人经费必须对国家核心经济命脉有所交代，科学界不能游离于国家产业政策之外。
+> > - **新[[Competitiveness|竞争力]]学派与政策制定者** 坚持在全球化产业竞争时代，纳税人经费必须对国家核心经济命脉有所交代，科学界不能游离于国家产业政策之外。
 >
 > > [!axis] 单一新契约 vs 多元契约并存
 > > 各方对该报告是否标志着彻底终结传统契约存在分歧。

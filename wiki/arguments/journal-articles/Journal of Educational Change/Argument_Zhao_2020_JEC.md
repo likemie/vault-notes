@@ -9,7 +9,7 @@ title: "Argument_Zhao_2020_JEC"
 argument_key: "Argument_Zhao_2020_JEC"
 argument_display_title: "Two decades of havoc: A synthesis of criticism against PISA"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Lifelong Learning]]"
   - "[[International Education]]"
+  - "[[Competitiveness]]"
   - "[[Evaluation Research]]"
   - "[[Construct]]"
   - "[[Hypothesis]]"
@@ -96,7 +97,7 @@ PISA 巧妙地利用了这种焦虑，提出了三个问题：年轻人是否准
 >
 > PISA 还向教育政策制定者提出了另一个诱人的主张：PISA 不仅告诉你孩子是否为未来生活做好了准备，还告诉你通过改善教育系统的有效性可以控制它。用通俗的话说，PISA 不仅告诉你孩子是否为未来生活做好了准备，还告诉你你有能力控制它。
 
-PISA 声称测量未来生活所需的基本技能，同时声称测量教育系统的有效性，这使得它在 1990 年代的时代精神中格外有吸引力。平坦世界的到来和中国、印度等新全球大国的崛起加剧了对不确定未来的焦虑和对新全球社会中竞争力的担忧。担忧的政治领导人急于确保国家正在培养赢得全球竞争所需的正确智力资源。一个允许他们提前知道国家做得如何并告诉他们对教育系统做什么修正的工具，简直是天赐之物（Lundgren 2011）。
+PISA 声称测量未来生活所需的基本技能，同时声称测量教育系统的有效性，这使得它在 1990 年代的时代精神中格外有吸引力。平坦世界的到来和中国、印度等新全球大国的崛起加剧了对不确定未来的焦虑和对新全球社会中[[Competitiveness|竞争力]]的担忧。担忧的政治领导人急于确保国家正在培养赢得全球竞争所需的正确智力资源。一个允许他们提前知道国家做得如何并告诉他们对教育系统做什么修正的工具，简直是天赐之物（Lundgren 2011）。
 
 ---
 

@@ -11,7 +11,7 @@ title: "Argument_Cohen_2025_JTT"
 argument_key: "Argument_Cohen_2025_JTT"
 argument_display_title: "Measuring the impacts of university-industry R&D collaborations: a systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
   - level/higher-education
 related_concepts:
   - "[[Scale of Measurement]]"
+  - "[[Competitiveness]]"
   - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
   - "[[Mode 2 Knowledge Production]]"
@@ -88,7 +89,7 @@ UIC 影响测量长期面临三个相互交织的困难。
 > [!example]
 > 一个合作项目同时产生专利（有形、短期、直接）和研究声誉提升（无形、长期、间接）。用专利计数来衡量，只能捕捉到前者；但如果忽略声誉提升对后续合作的催化作用，就严重低估了这次合作的总回报。
 
-其次，不同利益相关者对"什么算作有价值的影响"存在根本分歧。产业看重的是新产品的销售增长和竞争力提升；大学看重学术产出和科研声誉；社会——包括纳税人、政策制定者和社区居民——关注的是就业机会和生活质量的改善。同一项合作在这三个群体眼中可能有完全不同的"成功"定义(p.346)。
+其次，不同利益相关者对"什么算作有价值的影响"存在根本分歧。产业看重的是新产品的销售增长和[[Competitiveness|竞争力]]提升；大学看重学术产出和科研声誉；社会——包括纳税人、政策制定者和社区居民——关注的是就业机会和生活质量的改善。同一项合作在这三个群体眼中可能有完全不同的"成功"定义(p.346)。
 
 第三，此前的综述研究——无论是关于[[Technology Transfer|技术转移]](Da Silva Florencio & De Oliveira, 2022)、合作创新(Sjoo & Hellstrom, 2019)，还是 UIC 的知识分享(Mascarenhas et al., 2018)——都只关注 UIC 影响的单一侧面，从未将影响类型、测量挑战和应对策略同时整合进一个[[Analytic Framework|分析框架]](pp.349–351)。
 
@@ -186,7 +187,7 @@ UIC 影响测量长期面临三个相互交织的困难。
 > | 4 种 | I.21 | 生活质量的改善 | 合作对社区生活质量的提升 |
 > | | I.22 | 社会[[Responsible Innovation\|负责任创新]]与创业 | 回应社会需求的创新和创业 |
 > | **战略** | I.23 | 声誉提升 | 在伙伴、资助方和员工中的社会认可 |
-> | （Strategic） | I.24 | 竞争力增强 | 满足利益相关者需求的能力提升 |
+> | （Strategic） | I.24 | [[Competitiveness\|竞争力]]增强 | 满足利益相关者需求的能力提升 |
 > | 3 种 | I.25 | 未来合作的促进 | 过往合作催生新的合作项目 |
 > 
 > 以上 25 种影响可以进一步从四个辅助维度交叉标记（Table 1, pp.356–359），详见 [[UIC Impact Measurement]]。

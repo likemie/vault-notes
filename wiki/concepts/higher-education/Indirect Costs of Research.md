@@ -10,7 +10,7 @@ aliases:
 summary: "外部科研资助中用于补偿大学整体科研基础设施折旧、公用事业开销、合规审查及行政支撑等无法直接计入具体项目之费用的补偿机制，战后演化为大学维持物理扩张、偿还基建债务及商业化运作的核心生命线。"
 type: concept
 domain: "higher-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -42,10 +42,11 @@ related_facts:
   - "[[President's Science Advisory Committee]]"
 related_arguments:
   - "[[Argument_Stephan_2013_NBER]]"
+  - "[[Argument_Kratsios_2026_OSTP]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Indirect Costs of Research
@@ -169,10 +170,12 @@ updated: 2026-10-05
 > |---|---|---|---|---|---|---|
 > | [[Argument_Stephan_2013_NBER\|Stephan (2013)]] | 美国医学院科研建筑债务统计（2003–2008） | 机构调查与财务追踪 | 医学院年均科研建筑偿债额（Debt Service） | 2003 年年均 350 万美元大幅上升至 2008 年年均 690 万美元 | — | 证实间接费机制直接支撑并捆绑了大学的巨额基建借贷 |
 > | [[Argument_Stephan_2013_NBER\|Stephan (2013)]] | [[Research Universities\|美国研究型大学]]科研可用净使用面积统计（2001–2011） | 全美高校空间调查 | 科研空间净面积增长率（NASF） | 2001–2011 年间全美高校科研净面积激增 30%，绝大部分集中于生物医药与生命科学大楼 | — | 实证确立了依赖间接费补偿所诱发的物理空间扩张泡沫 |
+> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 8, 15)]] | [[National Institutes of Health\|美国国立卫生研究院]]资助机构的间接成本率，并与私人资助者接受的费率比较 | 报告转述的费率 | 有效间接成本率；谈判费率占直接成本的比例；私人资助管理费 | 国立卫生研究院资助机构的有效间接成本率平均超过 40%。主要机构经谈判的费率达到直接研究成本的 50% 到 60%，有效执行往往更接近 40%。同一批机构接受私人资助时经常只收 10% 到 15% | — | 费率差被用来说明管理膨胀占用了研究预算。报告同时承认其中一部分支付的是研究者每天使用的共享基础设施 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 用国立卫生研究院有效费率超过 40%、谈判费率达直接成本 50% 至 60%，而私人资助常常只收 10% 至 15%，论证间接成本已成为研究预算上的税。
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 系统考证战后美国大学科研间接成本谈判的制度变迁，揭示其作为商场模型地租与基建扩张引擎的核心经济机制。

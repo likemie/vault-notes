@@ -7,7 +7,7 @@ summary: "委内瑞拉/英国著名演化经济学家、技术创新与长波理
 type: person
 nationality: global
 person_region: "global"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Creative Destruction]]"
   - "[[Hypothesis]]"
   - "[[National Innovation System]]"
+  - "[[Engineering Education]]"
   - "[[General Purpose Technology]]"
   - "[[Unit of Analysis]]"
 related_theories:
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Carlota Perez
@@ -109,7 +110,7 @@ updated: 2026-10-05
 > [!influence-path] 影响路径
 > - **理论路径** 成为新[[Joseph Schumpeter|熊彼特]][[Evolutionary Economics|演化经济学]]、长波创新理论及技术治理研究的核心基石学者之一。
 > - **政策路径** 其制度滞后与绿色技术[[Paradigm|范式]]转型理论被 [[OECD]]、欧盟委员会及联合国贸发会议（UNCTAD）广泛采纳为产业与科技政策制定的理论参考。
-> - **教育研究启示** 揭示了职业技能培训与工程教育若停留在旧产业范式中，将成为拖累国家经济转型的“制度惯性”来源，为理解教育体制改革与产业变革的同步性提供了长程历史视角。
+> - **教育研究启示** 揭示了职业技能培训与[[Engineering Education|工程教育]]若停留在旧产业范式中，将成为拖累国家经济转型的“制度惯性”来源，为理解教育体制改革与产业变革的同步性提供了长程历史视角。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 援引佩雷斯关于制度框架滞后的论断，阐释为什么微电子革命必须伴随着国家层面的教育调适、组织变革与多样性公共政策保障。

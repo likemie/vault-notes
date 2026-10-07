@@ -90,8 +90,8 @@ related_methods:
   - "[[Baseline Standardized Mean Difference]]"
   - "[[Analytic Framework]]"
 related_instruments:
-  - "[[Computational Thinking Scale]]"
   - "[[California Critical Thinking Disposition Inventory]]"
+  - "[[Computational Thinking Scale]]"
 related_persons:
   - "[[Socrates]]"
   - "[[Alan C. K. Cheung]]"
@@ -179,7 +179,7 @@ updated: 2026-09-22
 >   subgraph Scaffolds["外部教学与技术赋能机制"]
 >     CL["社会建构合作学习<br/>(Güngör et al., 2026: ES = 0.76)"]
 >     AI["人工智能认知外化支架<br/>(Ünal et al., 2026: ES = 0.63)"]
->     CT_Scale["标准化操作化测评<br/>([[Computational Thinking Scale\|CTS]], [[California Critical Thinking Disposition Inventory\|CCTDI]])"]
+>     CT_Scale["标准化操作化测评<br/>(CTS, [[California Critical Thinking Disposition Inventory\|CCTDI]])"]
 >   end
 > 
 >   CL -->|认知冲突与观点协商| HOTS

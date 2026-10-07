@@ -6,7 +6,7 @@ aliases:
 summary: "研究方法论与认识论论证的核心原则，指从研究问题、数据收集情境、中间推断到最终结论之间保持完整、透明且可双向追溯的逻辑证据路径；既是个案研究确立信度与效度的基石，也是历史科学回溯推测与学术论证组织认识论层级的核心规程。"
 type: concept
 domain: "research-methodology"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Operationalization]]"
   - "[[Epistemic Practices]]"
+  - "[[Engineering Education]]"
   - "[[Epistemic Value]]"
   - "[[Positivism]]"
   - "[[Paradigm]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-11
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Chain of Evidence
@@ -199,7 +200,7 @@ updated: 2026-09-22
 > - **1990s — 历史科学与地学[[Epistemology\|认识论]]拓展** 奥尔特（Ault, 1998）将证据链引入地球科学与古生物学认识论研究，阐明[[Retrodiction\|回溯推测]]中多源证据链交叉印证的特异性规程。
 > - **2003 — 科学写作与认识论层级[[Coding in Qualitative Research\|编码]]确立** 高尾与凯利（Takao & Kelly, 2003）将证据链[[Operationalization\|操作化]]为科学论述中的认识论层级（EL）模型，用以量化评价学生学术论文中从数据到主张的证据链整合水平。
 > - **2011 — 教育研究方法论体系集成** [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al. (2011)]] 在《教育研究方法》中全面系统化证据链规范，确立其在[[Qualitative Reliability\|质性研究信度]]、效度与时空情境记录中的标准地位。
-> - **2018 — 课堂[[Epistemic Practices\|认识论实践]]综合[[Analytic Framework\|分析框架]]** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] 将证据链与微观课堂认识论实践、学科[[Heterogeneity\|异质性]]矩阵及话语协商深度结合，确立证据链在科学与工程教育中的核心[[Epistemic Value\|认识论价值]]。
+> - **2018 — 课堂[[Epistemic Practices\|认识论实践]]综合[[Analytic Framework\|分析框架]]** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] 将证据链与微观课堂认识论实践、学科[[Heterogeneity\|异质性]]矩阵及话语协商深度结合，确立证据链在科学与[[Engineering Education|工程教育]]中的核心[[Epistemic Value\|认识论价值]]。
 
 ---
 

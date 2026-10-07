@@ -7,7 +7,7 @@ aliases:
 summary: "指贯穿个体全生命周期的自愿性、适应性与累积性学习过程，既包含服务知识经济与劳动力重构的人力资本技能更新，更涵盖支撑公民健康、理性决策、民主协商与社会文化基础设施构建的全人发展与非正式参与生态。"
 type: concept
 domain: "educational-philosophy"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[AI Literacy]]"
   - "[[Theoretical Perspective]]"
+  - "[[Competitiveness]]"
   - "[[Self-Efficacy]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Scientific Literacy]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # Lifelong Learning
@@ -119,7 +120,7 @@ updated: 2026-09-29
 > | 比较维度 | 人本主义取向（Humanistic Approach） | 人力资本取向（Human Capital Approach） | 社会文化基础设施取向（Infrastructure Approach） |
 > |---|---|---|---|
 > | **理论源流** | UNESCO Faure (1972) / Delors (1996) 报告 | [[OECD]] / 世界银行[[Knowledge-Based Economy\|知识经济]]话语 | 英国国家学术院 / 皇家学会 (2026) 报告 |
-> | **核心目的** | 个体全人发展、生活乐趣与生命福祉 | 劳动力就业竞争力与国家经济增长 | 公共理性、社区繁荣与民主治理参与 |
+> | **核心目的** | 个体全人发展、生活乐趣与生命福祉 | 劳动力就业[[Competitiveness\|竞争力]]与国家经济增长 | 公共理性、社区繁荣与民主治理参与 |
 > | **典型载体** | 社区文化中心、终身兴趣研讨、哲学反思 | 职业技能再培训、在职认证、微证书 | 科学探索馆、自然保护区、公民科学平台 |
 > | **衡量指标** | [[Self-Efficacy\|自我效能感]]、生活满意度、全人素养 | 就业率、薪酬溢价、技能缺口弥合率 | 场馆年访问率、社会资本累积、公共信任 |
 

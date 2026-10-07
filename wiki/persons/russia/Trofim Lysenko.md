@@ -5,7 +5,7 @@ summary: "苏联农学家，李森科主义（Lysenkoism）的创立者，在斯
 type: person
 nationality: russia
 person_region: "russia"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
   - region/ussr
 related_concepts:
   - "[[Ideological Capture of Science]]"
+  - "[[Competitiveness]]"
   - "[[Scientific Autarky]]"
   - "[[Soviet Statism]]"
   - "[[Scientific Method]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-09-11
+updated: 2026-10-07
 ---
 
 # Trofim Lysenko
@@ -69,7 +70,7 @@ updated: 2026-09-11
 
 > [!success]
 > - [[Lysenkoism]] 成为苏联[[Ideological Capture of Science\|科学意识形态化]]的标志性事件，展示了政治权力如何系统性地瓦解一个学科领域。
-> - 苏联生物学和农业科学在1930至1960年代整体陷入谬误，与当时世界遗传学和分子生物学的前沿发展完全脱节。与之形成对比的是，苏联在数学、物理学和计算机科学领域仍然保持竞争力——这一差异说明科学意识形态化的破坏程度因学科而异[[Argument_Chan_2015_Intersect\|Chi Ling Chan, 2015]]。
+> - 苏联生物学和农业科学在1930至1960年代整体陷入谬误，与当时世界遗传学和分子生物学的前沿发展完全脱节。与之形成对比的是，苏联在数学、物理学和计算机科学领域仍然保持[[Competitiveness|竞争力]]——这一差异说明科学意识形态化的破坏程度因学科而异[[Argument_Chan_2015_Intersect\|Chi Ling Chan, 2015]]。
 > - Lysenkoism 至今仍是科学史上政治干预科学的最著名案例之一，被广泛引为[[Scientific Autarky\|科学自主]]性重要性的警示。
 
 ---

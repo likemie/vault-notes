@@ -11,9 +11,9 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 31
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 32
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 联邦最高行政机关
 headquarters: 波恩与柏林（双总部）
@@ -28,6 +28,7 @@ tags:
   - federal-governance
 related_concepts:
   - "[[Bildung]]"
+  - "[[Competitiveness]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge Transfer]]"
   - "[[Paradigm]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Federal Ministry of Education and Research
@@ -83,7 +84,7 @@ updated: 2026-10-03
 > - **成立时间 / 创设背景** 创设于 1955 年（初为联邦原子事务部，后历经联邦科研部、联邦教育科学部整合，1994 年两德统一后正式合并重组为联邦教育与研究部）。
 > - **总部地点 / 业务辐射** 实行双总部制，第一总部位于波恩（Bonn），第二总部位于首都柏林（Berlin）；业务统领全德 16 个联邦州并深度对接欧盟科研框架（如 [[Horizon Europe]]）。
 > - **法人属性与经费基础** 联邦最高政府行政机关；由联邦公共财政全额预算保障，年均主导配置数百亿欧元国家科研与教育专项资助资金。
-> - **核心宗旨与法定职责** 提升国家基础研究与应用转化竞争力；维护职业[[German Dual Education System\|双元制]]教育国家标准；依托 GWK 协商平台，通过联合注资重大国家工程提升全德各层级教育质量与师资专业化水准。
+> - **核心宗旨与法定职责** 提升国家基础研究与应用转化[[Competitiveness|竞争力]]；维护职业[[German Dual Education System\|双元制]]教育国家标准；依托 GWK 协商平台，通过联合注资重大国家工程提升全德各层级教育质量与师资专业化水准。
 
 ---
 

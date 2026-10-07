@@ -10,7 +10,7 @@ aliases:
 summary: "指由地理邻近的企业、大学、科研机构与地方政府在特定次国家区域内构成的互动学习网络，依赖面对面交流、隐性知识扩散与地方制度厚度培育差异化区域竞争优势。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Technology Transfer]]"
   - "[[Informationalization]]"
+  - "[[Competitiveness]]"
   - "[[Technology Transfer Office]]"
   - "[[Variable]]"
   - "[[Innovation Ecosystem]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Regional Innovation System
@@ -123,7 +124,7 @@ updated: 2026-10-05
 ### 命题一　地理邻近与面对面隐性知识溢出构成次国家区域不可替代的微观竞争优势
 
 > [!concept-lens] 空间集聚与隐性知识溢出机制
-> 探讨全球化与[[Informationalization|信息化]]浪潮下地理空间为何依然具有核心经济意义，论证次国家下层区域（nether regions）如何作为微观支柱支撑国家整体竞争力。
+> 探讨全球化与[[Informationalization|信息化]]浪潮下地理空间为何依然具有核心经济意义，论证次国家下层区域（nether regions）如何作为微观支柱支撑国家整体[[Competitiveness|竞争力]]。
 
 > [!claim] [[Chris Freeman|Freeman, C.]]
 > **下层区域基石论** 跨国贸易集团（如欧共体、北美自由贸易协定等上层区域）的扩张并未削弱地理微观集聚的重要性；相反，阿尔弗雷德·马歇尔（Alfred Marshall, 1890）早在 19 世纪末就指出的[[Industrial District|工业区]]集聚效应在当代高技术产业中再次被证实。硅谷的半导体与软件集群、意大利中北部的机械与时尚集群，无一不是依靠地理相近所带来的高度专业化劳动力流动、定制化技术服务、供应商网络以及人际面对面信任展开高效创新；正如[[Michael Porter|迈克尔·波特]]（Michael Porter, 1990）所强调的，全球竞争优势恰恰是在高度本地化的微观过程中被创造和维持的，次国家下层区域是[[National Innovation System|国家创新系统]]不可分割的微观底座。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]

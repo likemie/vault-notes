@@ -7,7 +7,7 @@ aliases:
 summary: "结合实证研究综述、政策诉求与专业律师起草的法定示范条文于一体的专业政策沟通载体，遵循极简定调原则，旨在消除科学证据与立法语言之间的制度性隔阂，直接为国会与立法机构提供可操作的法案条文草案。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Hypothesis]]"
   - "[[Heterogeneity]]"
+  - "[[Sunset Provisions]]"
   - "[[Document]]"
   - "[[Value Neutrality]]"
   - "[[Research Utilization]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 # Legislative Policy Brief
@@ -90,7 +91,7 @@ updated: 2026-09-26
 > [!feature] 立法政策简报的核心三要素
 > - **精炼的研究综合（Targeted Research Synthesis）** 剔除枝节与繁复统计细节，直击与当前立法议程直接相关的核心因果事实，重点回答“该干预对目标群体是否有效、在何种情境下有效”。
 > - **操作性政策诉求（Actionable Policy Ask）** 明确提出立法机构应采取的具体行动路线，清晰界定财政拨付形式、受益对象门槛与配套监管权责。
-> - **法定示范条文（Model Statutory Language）** 聘请专业法学顾问介入，依据实证发现起草标准的立法法条，包含定义条款、专项授权条款、合规性审计要求及日落条款，实现学术证据向国家法典的无缝对接。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
+> - **法定示范条文（Model Statutory Language）** 聘请专业法学顾问介入，依据实证发现起草标准的立法法条，包含定义条款、专项授权条款、合规性审计要求及[[Sunset Provisions|日落条款]]，实现学术证据向国家法典的无缝对接。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
 
 > [!tension-table] 政策传播中的“学术审慎”与“立法定调”张力
 > | 维度 | 学术界同行评议规范 | 立法机关决策生态现实 |

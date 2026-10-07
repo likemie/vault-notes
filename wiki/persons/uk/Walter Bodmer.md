@@ -9,7 +9,7 @@ summary: "英国人类遗传学家、牛津大学教授，1985年主持撰写皇
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,12 +33,13 @@ related_persons:
 related_facts:
   - "[[Chinese Academy of Sciences]]"
   - "[[Bodmer Report 1985]]"
+  - "[[Human Genome Project]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Walter Bodmer
@@ -65,7 +66,7 @@ updated: 2026-10-02
 > - **1936** 出生于德国法兰克福，后移居英国，就读于剑桥大学并获得博士学位。
 > - **1970–1979** 担任牛津大学遗传学教授。
 > - **1985** 主持英国皇家学会专门工作组并发布里程碑式报告《公众理解科学》（The Public Understanding of Science），深刻重塑了英国科技政策。
-> - **1985–2026** 持续推动公众科学理解、人类基因组计划及科学教育改革；2026 年为皇家学会四十周年纪念报告《科学为社会》撰写前言（Preface）。[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, p. 4)]]
+> - **1985–2026** 持续推动公众科学理解、[[Human Genome Project|人类基因组计划]]及科学教育改革；2026 年为皇家学会四十周年纪念报告《科学为社会》撰写前言（Preface）。[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, p. 4)]]
 
 
 ---

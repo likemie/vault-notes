@@ -11,9 +11,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 14
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "National Science Foundation"
 tags:
@@ -38,12 +38,14 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[National Science Board]]"
   - "[[America COMPETES Act]]"
+  - "[[Office of Science and Technology Policy]]"
 related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
+  - "[[Argument_Kratsios_2026_OSTP]]"
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # NSF Broader Impacts Criterion
@@ -129,10 +131,12 @@ updated: 2026-10-06
 > - **微观重塑同行评议[[Paradigm|范式]]** 彻底终结了纯粹依据理论新颖度决定经费的单一传统，将[[Public Value|公共价值]]不可逆地嵌入评审指标。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 > - **诱发合规与形式主义负担** 在纯理论学科中催生了一定程度的虚假包装与应付性公关，引发学界对行政行政化干预的批评。
 > - **推动科学传播常态化** 激励全美大学系统性建设外展平台，深刻改变了基础科学家“远离公众与教学”的孤立心态。
+> - **选拔扭曲的政策指控** 2026 年 [[Office of Science and Technology Policy|OSTP]] 报告称，该准则起初是要让纳税人的钱有社会收益，后来扭曲了选拔。2021 年到 2024 年，新的 [[National Science Foundation|NSF]] 资助里聚焦多样性、公平和包容倡议的份额，从不到一个百分点升到四分之一以上。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]] 这一指控与樊春良将该准则读成问责硬核化的评价并列保留。
 
 > [!stat-cards]- 核心数据
 > - **双核心准则** 与“学术价值”并列为 [[National Science Foundation|NSF]] 资助决策不可替代的两大法定基石。
 > - **实施节点** 2010 年正式实施形式审查一票否决制。
+> - **<1% → 1/4 以上** 2021–2024 年新的 NSF 资助中，聚焦多样性、公平和包容倡议的份额。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
 
 ---
 

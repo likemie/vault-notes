@@ -6,7 +6,7 @@ aliases:
 summary: "指高等教育被整合进跨国区域政治经济项目并成为区域合作、竞争和身份建构关键支柱的现象。"
 type: concept
 domain: "higher-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Unit of Analysis]]"
+  - "[[Competitiveness]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Epistemology]]"
   - "[[Regulatory Regionalism]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 ## 定义
@@ -57,7 +58,7 @@ updated: 2026-10-03
 > Susan Robertson 及其合作者（Robertson et al., 2016）系统研究了高等教育如何被整合进全球区域主义项目、过程和政治。该领域的研究起源于：
 >
 > - 20 世纪末区域主义研究的兴起，以欧盟一体化为主要推动力
-> - 2000 年[[Lisbon Strategy\|里斯本战略]]后，欧盟将教育和研究嵌入其作为"全球最具竞争力的[[Knowledge-Based Economy\|知识经济]]体"的经济想象（Thompson & Parreira do Amaral, 2022, p.11）
+> - 2000 年[[Lisbon Strategy\|里斯本战略]]后，欧盟将教育和研究嵌入其作为"全球最具[[Competitiveness|竞争力]]的[[Knowledge-Based Economy\|知识经济]]体"的经济想象（Thompson & Parreira do Amaral, 2022, p.11）
 > - 随后扩展到对 ASEAN、非洲联盟、南方共同市场等其他区域框架的比较研究
 >
 > Robertson et al. (2016) 在后续研究中推进了一次关键的[[Epistemology\|认识论]]转向：从单纯分析国际/超国家组织对教育的影响，转向检视教育项目在想象和建构世界区域本身中的角色。他们论证：
@@ -88,7 +89,7 @@ updated: 2026-10-03
 ## 实证发现
 
 > [!success] 实证发现
-> - 欧盟层面：过去 20 年间大多数与科学、教育和培训相关的政策在欧盟理事会确立"成为全球最具竞争力[[Knowledge-Based Economy\|知识经济]]体"目标后制定；教育研究在 Horizon 2020 框架中被整合为横向议题，直接为政策制定提供证据基础（Thompson & Parreira do Amaral, 2022, pp.11–12）
+> - 欧盟层面：过去 20 年间大多数与科学、教育和培训相关的政策在欧盟理事会确立"成为全球最具[[Competitiveness|竞争力]][[Knowledge-Based Economy\|知识经济]]体"目标后制定；教育研究在 Horizon 2020 框架中被整合为横向议题，直接为政策制定提供证据基础（Thompson & Parreira do Amaral, 2022, pp.11–12）
 > - [[Horizon Europe]] (2021–) 进一步深化了这种"嵌入式"逻辑，SSH 研究被要求服务于"Europe's missions"（如抗击癌症、适应气候变化等），加剧了学科间的层级化分工（Thompson & Parreira do Amaral, 2022, pp.11–12）
 >
 

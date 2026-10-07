@@ -10,7 +10,7 @@ aliases:
 summary: "指发生在传统正规学校课堂之外、具有自愿性、情境化与终身性的科学学习与参与形态，涵盖科技馆、探索中心、科学节、社区项目、公民科学与数字媒体，是支撑现代社会公共健康、理性决策与公民文化基础设施的核心支柱。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ tags:
   - theme/stem-education
   - theme/science-capital
 related_concepts:
+  - "[[Metascience]]"
   - "[[Citizen Science]]"
   - "[[Scientific Literacy]]"
   - "[[Science Capital]]"
@@ -54,7 +55,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Informal Science Learning
@@ -64,7 +65,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> 非正式科学学习（Informal Science Learning / Engagement）是指发生在正规学校课程与封闭教室之外的多元科学学习、探索与文化互动形态。它涵盖科学探索中心、科技博物馆、动物园与植物园、科学节、社区科技工作坊、[[Citizen Science\|公民科学]]项目以及数字化科普平台，具有自愿性、情境性、兴趣驱动与全生命周期贯穿特征；其本质超越单纯的知识查漏补缺，是维系现代社会健康运行、促进公共福祉与民主协商的核心**社会与文化基础设施（Social and Cultural Infrastructure）**。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, pp. 42–43, 48)]]
+> 非正式科学学习（Informal Science Learning / Engagement）是指发生在正规学校课程与封闭教室之外的多[[Metascience|元科学]]学习、探索与文化互动形态。它涵盖科学探索中心、科技博物馆、动物园与植物园、科学节、社区科技工作坊、[[Citizen Science\|公民科学]]项目以及数字化科普平台，具有自愿性、情境性、兴趣驱动与全生命周期贯穿特征；其本质超越单纯的知识查漏补缺，是维系现代社会健康运行、促进公共福祉与民主协商的核心**社会与文化基础设施（Social and Cultural Infrastructure）**。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, pp. 42–43, 48)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 超越传统将校外场景视为正规课堂被动补充的狭隘视角，确立非正式参与在激发好奇心、全人福祉培育、社区赋权与终身[[Scientific Literacy\|科学素养]]维系上的独立本体价值。

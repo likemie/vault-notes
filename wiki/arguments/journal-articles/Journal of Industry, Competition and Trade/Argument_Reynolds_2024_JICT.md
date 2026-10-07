@@ -32,6 +32,7 @@ related_concepts:
   - "[[Total Factor Productivity]]"
   - "[[Innovation Ecosystem]]"
   - "[[Workforce Development]]"
+  - "[[Competitiveness]]"
   - "[[Growth]]"
 related_theories:
   - "[[Evolutionary Economics]]"
@@ -64,9 +65,9 @@ title: "Argument_Reynolds_2024_JICT"
 argument_key: "Argument_Reynolds_2024_JICT"
 argument_display_title: "U.S"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Journal of Industry, Competition and Trade"
 ---
@@ -237,7 +238,7 @@ journal: "Journal of Industry, Competition and Trade"
 
 #### 1. 劳动力短缺、审批滞后、国家能力不足与外部贸易摩擦构成政策落地的主要现实瓶颈
 
-尽管立法确立了宏伟蓝图，但在将数万亿美元资本转化为实体竞争力的过程中，美国面临严峻的要素制约与制度摩擦。（pp. 13–14）
+尽管立法确立了宏伟蓝图，但在将数万亿美元资本转化为实体[[Competitiveness|竞争力]]的过程中，美国面临严峻的要素制约与制度摩擦。（pp. 13–14）
 
 > [!tension-table] 产业战略推进面临的结构性瓶颈与制度冲突
 > | 瓶颈维度 | 现实冲突表征 | 应对与缓解路径 |

@@ -11,7 +11,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - level/k-12
 related_concepts:
   - "[[Academic Achievement]]"
+  - "[[Competitiveness]]"
   - "[[Pride in Learning]]"
   - "[[Hypothesis]]"
 related_theories:
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-08-20
+updated: 2026-10-07
 ---
 
 # Three Excellences
@@ -58,7 +59,7 @@ updated: 2026-08-20
 
 **提名与投票** 任何符合资格的学生都可以自我推荐为候选人，由教师和同伴提名并投票产生。近年来的做法更加民主——候选人进行竞选，与对手辩论，阐述自己将如何为班级和年级服务。同伴投票，结果当众公布和计票。
 
-**荣誉层级** 三好生分校级、区级、市级和省级四个等级。层级越高，荣誉越大。不同等级的三好生在升学（进入更具竞争力的初中、高中和大学）时可获得不同程度的额外加分([[Argument_Li_2012_Cambridge|Li, 2012, p.119 note 73]])。
+**荣誉层级** 三好生分校级、区级、市级和省级四个等级。层级越高，荣誉越大。不同等级的三好生在升学（进入更具[[Competitiveness|竞争力]]的初中、高中和大学）时可获得不同程度的额外加分([[Argument_Li_2012_Cambridge|Li, 2012, p.119 note 73]])。
 
 ---
 

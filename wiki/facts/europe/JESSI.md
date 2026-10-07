@@ -9,7 +9,7 @@ subtype: program
 region: europe
 fact_region: "europe"
 fact_kind: "program"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ tags:
   - theme/corporate-innovation
   - theme/semiconductor
 related_concepts:
+  - "[[Competitiveness]]"
   - "[[Technological Catch-up]]"
   - "[[Precompetitive Research]]"
 related_theories: []
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # JESSI
@@ -105,7 +106,7 @@ updated: 2026-10-05
 > - **产业链韧性** 维系了欧洲核心半导体制造企业与装备商在 1990 年代激烈全球竞争中的生存与差异化优势。
 
 > [!finding-cards] 核心实证结论
-> - **奠定欧洲汽车与工业半导体差异化生态** 促成欧洲芯片企业从通用存储器泥潭成功转向汽车电子与嵌入式系统，为英飞凌、意法半导体与恩智浦的全球竞争力奠定技术基石。
+> - **奠定欧洲汽车与工业半导体差异化生态** 促成欧洲芯片企业从通用存储器泥潭成功转向汽车电子与嵌入式系统，为英飞凌、意法半导体与恩智浦的全球[[Competitiveness|竞争力]]奠定技术基石。
 > - **验证跨国分散伞状联盟的协调成本上限** [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] 指出：跨国伞状联盟虽能平衡各参与国政治利益，但在面临关键成员（如飞利浦）战略退出时调整难度大，其响应速度显著慢于单一国家的 [[Sematech]]。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 727, 755)]]
 
 ---

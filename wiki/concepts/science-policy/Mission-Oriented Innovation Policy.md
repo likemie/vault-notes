@@ -10,7 +10,7 @@ aliases:
 summary: "以应对重大社会挑战和变革性系统转型为核心导向，通过主动塑造与共创市场、战略方向引导、挑选意愿者、三层公共动态能力构建与引领和学习范式推动创新的公共政策体系"
 type: concept
 domain: "science-policy"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Growth]]"
   - "[[Innovation Policy Paradigms]]"
   - "[[Transformative Change]]"
+  - "[[Competitiveness]]"
   - "[[Technology Transfer]]"
   - "[[New Public Management]]"
   - "[[Network Governance]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Mission-Oriented Innovation Policy
@@ -121,7 +122,7 @@ updated: 2026-10-03
 > | 比较维度 | 传统研发政策（Frame 1: 科学促增长） | 国家[[Systems of Innovation\|创新系统]]政策（Frame 2: 系统协同） | 使命导向创新政策（Frame 3: [[Transformative Change\|变革转型]]） |
 > |---|---|---|---|
 > | **核心哲学** | 修正[[Market Failure\|市场失灵]]（Market Fixing） | 修正系统与网络失灵（System Fixing） | [[Market Shaping and Creating\|主动市场塑造与共创（Market Shaping）]] |
-> | **干预目标** | 提高基础科研产出与经济增速 | 优化产学研合作与国家产业竞争力 | 应对重大社会挑战与实现可持续系统转型 |
+> | **干预目标** | 提高基础科研产出与经济增速 | 优化产学研合作与国家产业[[Competitiveness\|竞争力]] | 应对重大社会挑战与实现可持续系统转型 |
 > | **方向选择** | 中立与横向支持（不干涉方向） | 促进现有产业集群协同（基于既有轨道） | 战略性设立转型方向，[[Picking the Willing\|挑选意愿者]]（Picking the willing） |
 > | **治理工具** | 通用税收抵免、基础研究拨款 | 产学研合作平台、[[Technology Transfer\|技术转移]]中心、孵化器 | ROAR 框架、任务采购、动态组合管理、风险收益共享 |
 > | **组织[[Paradigm\|范式]]** | [[New Public Management\|新公共管理]]（支持与衡量） | 官产学三螺旋[[Network Governance\|网络治理]] | [[Lead-and-Learn Paradigm\|引领与学习范式]]、三层[[Public Dynamic Capabilities\|公共动态能力]] |

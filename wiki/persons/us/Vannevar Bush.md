@@ -7,10 +7,10 @@ summary: "美国电机工程师、科技管理者与战后科技政策奠基人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 39
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 40
+person_related_level: 5
+person_related_stars: "⭐⭐⭐⭐⭐"
+person_related_color: "#ffedd5"
 born: "1890"
 died: "1974"
 lifespan: "1890–1974"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Total Quality Management]]"
   - "[[Technology-Oriented Social Contract]]"
   - "[[Soft-Money Faculty Model]]"
+  - "[[Competitiveness]]"
   - "[[Emergence]]"
   - "[[Technological Catch-up]]"
 related_theories:
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Vannevar Bush
@@ -181,7 +182,7 @@ updated: 2026-10-06
 > > - **大学主动重构论（[[Argument_Stephan_2013_NBER|Stephan, 2013]]）** 经济学家[[Paula Stephan|保拉·斯蒂芬]]指出，战后科研契约的转变主要是由大学自身主导推进的。大学管理层与教师自 1960 年代起主动争取以联邦课题报销专任薪酬（催生[[Soft-Money Faculty Model|软钱教职模式]]）、争取更高间接成本补偿以扩建校舍，并将学生奖学金异化为课题常规用工；布什关于“大学资助高风险研究、以独立奖学金资助研究生、保持医学与其他学科平衡”的三大洞见在大学的自利性适应中被彻底抛弃。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 37)]]
 >
 > > [!axis] 单向线性科学促增长 vs [[Systems of Innovation|创新系统]]互动学习：研发投入是否等同于国家创新活力？
-> > 高额的基础与应用研发支出是否能自发转化为国家产业竞争力与广泛的经济增长？
+> > 高额的基础与应用研发支出是否能自发转化为国家产业[[Competitiveness|竞争力]]与广泛的经济增长？
 > >
 > > - **线性供给驱动论（布什模型）** [[Hypothesis|假设]]科学发现是创新的根本源泉，研发支出总额及高水平科学家产出构成了国家创新能力的充分前提；只要持续向基础科学“蓄水池”注资，商业应用与经济红利将自然向产业下游顺流[[Emergence|涌现]]。
 > > - **演化创新系统论（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）** [[Chris Freeman|克里斯·弗里曼]]借助国际比较史揭示了布什假说的严重盲区：苏联在 1970 年代将高达 3.6% 的国民生产总值（GNP）投入研发、拥有全球最庞大的科学家与工程师队伍，但由于科研机构与民用工业彻底割裂、缺乏市场微观反馈与车间渐进创新，其民用产业陷入大面积停滞；相反，战后日本研发支出长期低于美苏，但依托工人的“[[Learning by Doing|干中学]]”（[[Learning by Doing]]）、[[Total Quality Management|全面质量管理]]、逆向工程以及[[Ministry of International Trade and Industry|通商产业省]]的产业网络协同，实现了跨越式[[Technological Catch-up|技术追赶]]。弗里曼论证，决定国家长期竞争力的是整个[[Systems of Innovation|创新系统]]内各制度支柱（教育、产业组织、研发与政府协调）的互动学习能力，而非孤立的研发经费规模。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–11, 15–18)]]

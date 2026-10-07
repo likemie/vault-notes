@@ -24,6 +24,7 @@ related_concepts:
   - "[[Source of Knowledge]]"
   - "[[Linear Model of Innovation]]"
   - "[[Causality]]"
+  - "[[Competitiveness]]"
   - "[[Regional Innovation System]]"
   - "[[National Innovation System]]"
   - "[[Hypothesis]]"
@@ -61,7 +62,7 @@ title: "Argument_Caraca_2009_TFSC"
 argument_key: "Argument_Caraca_2009_TFSC"
 argument_display_title: "The changing role of science in the innovation process: From Queen to Cinderella? Technological Forecasting and Social Change, 76(6), 861–867"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -97,7 +98,7 @@ issuing_organization: ""
 > | **[[Linear Model of Innovation\|线性模型]]**<br>Linear Model of Innovation<br>Bush (1945); Bernal (1939) | 预设基础科学 → 技术开发 → 经济增长的单向[[Causality\|因果]]链条，研究（Research，白大褂科学）天然支配开发（Development，邋遢工程）。二战后成为配置公共研究资源最有力的理论依据，在工业组织内部塑造了科学家高于工程师的层级结构 (pp.862–863)。欧盟巴塞罗那目标（2%+1%）、欧洲悖论、大学被推向专利生产者，均源于线性模型的推导惯性。 |
 > | **[[Chain-linked Model\|链式模型]]**<br>Chain-linked Model<br>Kline & Rosenberg (1986) | 创新始于潜在市场用途的想法而非研究。既有科学知识（K）可在任何阶段被调用，新知识（R）可在需要时创造；有时新科学催生激进应用（路径 D），有时科学反而从创新中受益（路径 I、S）。核心命题是开发（D）至少与研究（R）同等重要 (pp.863–864)。该模型揭示了线性模型的单向因果谬误，但因其遗漏组织维度、未区分知识类型、创新产出定义过窄，仍需要进一步扩展。 |
 > | **[[Multi-channel Interactive Learning Model]]**<br>Multi-channel Interactive Learning Model<br>本论文提出模型 | 三个核心创新构成分析网格：螺旋式学习循环不指定创新起点，产出覆盖产品、流程、新市场细分和组织常规四类；三类知识池（物理与生物科技知识、组织与治理知识、营销与顾客行为知识）取代了单一科学知识来源；界面作为解释性管道连接企业与环境，决定外部知识的识别、选择与吸收 (pp.864–866)。该模型将创新重新定位在[[Learning Economy\|学习经济]]之中。 |
-> | **[[Learning Economy\|学习经济]]**<br>Learning Economy<br>Lundvall & Johnson (1994) | 在全球化与技术加速变迁的环境中，企业和经济体的竞争力越来越取决于学习能力而非静态知识存量。经验型学习和互动式学习是创新的前提条件 (p.864)。三类知识池的并列必要性由此获得宏观语境：组织知识和营销知识不是科学知识的附庸，而是同等重要的创新投入。 |
+> | **[[Learning Economy\|学习经济]]**<br>Learning Economy<br>Lundvall & Johnson (1994) | 在全球化与技术加速变迁的环境中，企业和经济体的[[Competitiveness\|竞争力]]越来越取决于学习能力而非静态知识存量。经验型学习和互动式学习是创新的前提条件 (p.864)。三类知识池的并列必要性由此获得宏观语境：组织知识和营销知识不是科学知识的附庸，而是同等重要的创新投入。 |
 > | **[[Systems of Innovation]]**<br>Systems of Innovation<br>Freeman (2002); Lundvall et al. (2002); Malerba (2002); Asheim & Gertler (2004) | 部门创新系统（Malerba, 2002）和[[Regional Innovation System\|区域创新系统]]（Asheim & Gertler, 2004）对应企业创新过程的微观与行业环境，[[National Innovation System\|国家创新系统]]（Freeman, 2002; Lundvall et al., 2002）对应宏观制度环境。多通道互动学习模型的微观和宏观环境概念整合了上述多层分析，并进一步强调了各层次之间的共同演化和可能的制度错配 (p.865)。 |
 
 ---
@@ -154,7 +155,7 @@ issuing_organization: ""
 > 在二战之后长达数十年的时间里，科学——尤其是自然科学——在创新过程中占据着近乎自主和不容置疑的主导地位。线性模型将基础研究置于创新链条的起点，赋予其推动一切后续环节的初始动力。政策制定者据此配置公共资源，工业组织据此构建研发层级。科学拥有独立于市场和政治的自主性、至高的符号地位和优先的资源配置权。将科学称为女王，指向的正是这种自主性、优先性和符号统治力。
 
 > [!evidence-grid] 灰姑娘的含义
-> 童话中的灰姑娘有两个看似矛盾的特征：她承担了家中所有劳作，无处不在却毫无地位；直到王子出现她才被看见和承认。这个隐喻借用的是前一个特征——灰姑娘式的有用。科学的角色在最近几十年里发生了深刻的泛化。在供给端，营销研究、管理研究和组织研究对创新越来越重要，自然科学不再是唯一的[[Source of Knowledge\|知识来源]]。在需求端，越来越多传统意义上的低技术产业——食品加工、纺织——也需要依靠科学来保持竞争力。科学变得无处不在，渗透进创新的每一个环节，按需被调用。它比以前更有用了。
+> 童话中的灰姑娘有两个看似矛盾的特征：她承担了家中所有劳作，无处不在却毫无地位；直到王子出现她才被看见和承认。这个隐喻借用的是前一个特征——灰姑娘式的有用。科学的角色在最近几十年里发生了深刻的泛化。在供给端，营销研究、管理研究和组织研究对创新越来越重要，自然科学不再是唯一的[[Source of Knowledge\|知识来源]]。在需求端，越来越多传统意义上的低技术产业——食品加工、纺织——也需要依靠科学来保持[[Competitiveness|竞争力]]。科学变得无处不在，渗透进创新的每一个环节，按需被调用。它比以前更有用了。
 
 > [!evidence-grid] 两种变化共存而非互斥
 > 泛化的另一面正是主导地位的消解。当科学渗透进创新的每一个环节、每一个产业时，它不再是一个可以被单独识别并排在首位的独立要素。它不是被贬黜为灰姑娘——它只是不再拥有女王曾经享有的那种先天优先权。科学之所以能变得无处不在，恰恰因为它不再需要一个被单独标识并排在首位的身份。标题以问号而非句号收束，正是因为这不是一个单向降级的故事。

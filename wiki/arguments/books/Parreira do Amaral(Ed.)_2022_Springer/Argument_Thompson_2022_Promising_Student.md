@@ -11,7 +11,7 @@ title: "Argument_Thompson_2022_Promising_Student"
 argument_key: "Argument_Thompson_2022_Promising_Student"
 argument_display_title: "Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University"
 argument_kind: "book"
-argument_related_count: 24
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Stakeholder University]]"
   - "[[Document]]"
+  - "[[Competitiveness]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Performativity of Measurement]]"
   - "[[Student Satisfaction]]"
@@ -101,7 +102,7 @@ citation_aliases:
 
 ### 第一步：观察——竞争性大学如何定义"好学生"
 
-当前高等教育政策话语中一个显著模式是：从"大学 4.0"愿景到各类政策文本，学生被描绘为大学竞争力和创新驱动的关键节点。"The Future of Universities Thoughtbook"(FUT, 2018)提供的愿景是典型代表——大学被视为知识驱动发展的网络枢纽，"学术人员和学生"被描绘为大学的驱动力(pp.217–218)。
+当前高等教育政策话语中一个显著模式是：从"大学 4.0"愿景到各类政策文本，学生被描绘为大学[[Competitiveness|竞争力]]和创新驱动的关键节点。"The Future of Universities Thoughtbook"(FUT, 2018)提供的愿景是典型代表——大学被视为知识驱动发展的网络枢纽，"学术人员和学生"被描绘为大学的驱动力(pp.217–218)。
 
 但这里有一个不对称：大学吸引"最好的研究人员"的策略相对明确——研究经费、实验室、薪资——而吸引"最好的学生"则不同。学生的选择会影响他们自身的表现：大学需要找到的不是已经证明自己优秀的学生，而是"最有潜力的"（promising）学生——即那些被期望在**未来**表现出色的学生(p.218)。
 
@@ -153,7 +154,7 @@ OSA 运作的技术-主体机制如下(pp.224–226)：
 
 > [!success]
 
-- 竞争力作为地缘政治装置通过排名、指标化和比较实践重新组织高等教育，在教学领域表现为对"学生成功"的预期管理——大学竞争的是学生"潜在的未来努力"(p.220)
+- [[Competitiveness|竞争力]]作为地缘政治装置通过排名、指标化和比较实践重新组织高等教育，在教学领域表现为对"学生成功"的预期管理——大学竞争的是学生"潜在的未来努力"(p.220)
 - OSAs 作为治理工具重新定义了从中学到大学的过渡——从集体性的约定转变为个体化的自我反思情境(p.222)
 - [[Online Self-Assessment|OSA]] 的三种战略功能：发现天赋、降低成本和风险、完善大学形象/教育品牌(pp.223–224)
 - 数据化使大学获得通过"成功相关性"分析来管理不确定性的能力，OSA 使"问题学生"在入学前就被识别(p.224)

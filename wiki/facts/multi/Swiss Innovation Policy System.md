@@ -10,7 +10,7 @@ subtype: policy
 region: multi
 fact_region: "multi"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
   - policy/innovation
   - theme/university-industry-collaboration
 related_concepts:
+  - "[[Competitiveness]]"
   - "[[Technology Transfer]]"
   - "[[Innovation Park]]"
 related_theories: []
@@ -33,7 +34,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-05
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Swiss Innovation Policy System
@@ -41,7 +42,7 @@ updated: 2026-10-03
 ## 背景
 
 > [!info]
-> 瑞士国土面积有限且自然资源匮乏，但连续13年蝉联全球创新指数第一。其创新模式以产业需求为驱动，通过机床产业等传统优势领域的带动，将精密制造工艺和前沿技术延伸至机器人、无人机、医疗器械、汽车配件及航空航天等新兴领域，形成了以市场需求促进技术迭代、以技术进步提升产业竞争力的发展闭环。
+> 瑞士国土面积有限且自然资源匮乏，但连续13年蝉联全球创新指数第一。其创新模式以产业需求为驱动，通过机床产业等传统优势领域的带动，将精密制造工艺和前沿技术延伸至机器人、无人机、医疗器械、汽车配件及航空航天等新兴领域，形成了以市场需求促进技术迭代、以技术进步提升产业[[Competitiveness|竞争力]]的发展闭环。
 
 ---
 

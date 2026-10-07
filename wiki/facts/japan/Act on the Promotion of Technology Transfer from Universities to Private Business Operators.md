@@ -14,7 +14,7 @@ subtype: policy
 region: japan
 fact_region: "japan"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ tags:
 related_concepts:
   - "[[Tokyo Bay Area]]"
   - "[[Technology Transfer Office]]"
+  - "[[Competitiveness]]"
   - "[[Technology Transfer]]"
   - "[[Academic Entrepreneurship]]"
   - "[[Emergence]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Act on the Promotion of Technology Transfer from Universities to Private Business Operators
@@ -68,7 +69,7 @@ updated: 2026-10-06
 > 法案通过赋予大学技术许可机构（Technology Licensing Organization, [[Technology Transfer Office|TLO]]）独立公司法人的法定地位，向经认定的 TLO 提供政府运营补贴与专利费减免，并彻底松绑大学教授创业兼职与持股限制，建立了以市场为导向的高校专利商业化制度闭环。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 
 > [!policy-design]- 政策设计
-> - **政策目标** 畅通研究成果从大学实验室流向民间企业的通道，强化[[Tokyo Bay Area|东京湾区]]及全日本产业的国际技术竞争力。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
+> - **政策目标** 畅通研究成果从大学实验室流向民间企业的通道，强化[[Tokyo Bay Area|东京湾区]]及全日本产业的国际技术[[Competitiveness|竞争力]]。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 > - **适用对象** 国立大学与私立大学研究团队、具备独立法人资格的技术许可机构（TLO）及受让技术的民营工业企业。
 > - **政策工具** 设立“承认 TLO”制度，给予长达 5 年的启动财政资助、减免专利申请费，并将专利许可收入按比例返还科研团队。
 > - **约束机制** 建立动态评审与资质年审制度，确保受资助的 TLO 持续履行专利挖掘、评估、转让与技术商业化职责。

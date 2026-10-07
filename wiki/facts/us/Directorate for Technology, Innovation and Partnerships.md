@@ -13,7 +13,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -38,7 +38,9 @@ related_concepts:
   - "[[Academic Engagement Team]]"
   - "[[Grandes Ecoles]]"
   - "[[General Education]]"
+  - "[[Competitiveness]]"
   - "[[Innovation Hub]]"
+  - "[[Metascience]]"
   - "[[Application Engineering]]"
   - "[[Big Science]]"
   - "[[Research Universities]]"
@@ -46,6 +48,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Matching]]"
+  - "[[Mechanism Experiments]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -58,10 +61,11 @@ related_facts:
   - "[[National Semiconductor Technology Center]]"
 related_arguments:
   - "[[Argument_Ramming_2025_CorporateSupport]]"
+  - "[[Argument_Kratsios_2026_OSTP]]"
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Directorate for Technology, Innovation and Partnerships
@@ -108,10 +112,13 @@ updated: 2026-10-06
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **[[National Science Foundation|NSF]] [[NSF Regional Innovation Engines|区域创新引擎]]计划（NSF Regional Innovation Engines）** 投资数十亿美元在全美培育具有全球竞争力的区域高科技[[Innovation Hub|创新中心]]，每个引擎资助周期长达 10 年、资助额最高达 1.6 亿美元。
+> - **[[National Science Foundation|NSF]] [[NSF Regional Innovation Engines|区域创新引擎]]计划（NSF Regional Innovation Engines）** 投资数十亿美元在全美培育具有全球[[Competitiveness|竞争力]]的区域高科技[[Innovation Hub|创新中心]]，每个引擎资助周期长达 10 年、资助额最高达 1.6 亿美元。
 > - **国家融合加速器（Convergence Accelerator）** 采用类似 [[DARPA]] 的快节奏、挑战驱动管理模式，聚焦多学科交叉前沿瓶颈，加速颠覆性样机向市场转化。
 > - **国家创新网络与 [[NSF I-Corps|I-Corps]] 创业加速体系** 依托全美大学网络推广精益创业方法论，协助数千个大学实验室课题组完成商业概念验证与衍生企业创立。
 > - **新兴技术体验式学习计划（ExLENT）** 为非传统背景学生与在职技术工人提供进入人工智能、微电子等战略领域的直接实习与实战培训通道。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 237)]]
+> - **X 实验室** 联邦侧第一个明确资助传统学术机构之外独立研究组织的项目。全职研究者、科学家和工程师获得运营自主权与基于里程碑的经费，产出包括能打开新领域的平台技术。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 26)]]
+> - **金券试点** 允许单个评审在没有共识时力保非常规提案。理事会已开始试点，报告同时指出这一机制还有向其他联邦外部资助机构推广的空间。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
+> - **同行评议替代方案的对照实验** 理事会已开始与[[Metascience|元科学]]研究者合作，设计并执行传统同行评议之外的资助[[Mechanism Experiments|机制实验]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 21)]]
 
 > [!citation-card] 代表性使命宣言
 > TIP 理事会是 NSF 的创新前沿阵地。我们的使命是调动全美多元化的科学与工程人才，通过前所未有的公私跨界合作，加速重大发现从实验室走向实际应用，确保美国在决定未来的关键技术领域永葆领先地位。

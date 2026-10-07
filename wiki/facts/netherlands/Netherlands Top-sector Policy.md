@@ -7,9 +7,9 @@ subtype: policy
 region: netherlands
 fact_region: "netherlands"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: "Dutch Government"
 tags:
@@ -18,7 +18,8 @@ tags:
   - theme/triple-helix
   - theme/public-private-partnership
   - level/higher-education
-related_concepts: []
+related_concepts:
+  - "[[Competitiveness]]"
 related_theories:
   - "[[Triple Helix]]"
   - "[[Systems of Innovation]]"
@@ -31,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-10-07
 ---
 
 # Netherlands Top-sector Policy
@@ -46,7 +47,7 @@ updated: 2026-06-10
 ## 政策文本摘要
 
 > [!abstract]
-> 政策的三个核心要素：（i）通用轨道为企业家创新创造空间；（ii）针对性的顶级行业政策以强化关键战略经济部门的绩效；（iii）关注风险投资和种子资本融资。政策目标包括到 2020 年进入全球竞争力指数前五名，以及达到 2.5% 的研发支出占 GDP 比例。[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp. 31-32)]]
+> 政策的三个核心要素：（i）通用轨道为企业家创新创造空间；（ii）针对性的顶级行业政策以强化关键战略经济部门的绩效；（iii）关注风险投资和种子资本融资。政策目标包括到 2020 年进入全球[[Competitiveness|竞争力]]指数前五名，以及达到 2.5% 的研发支出占 GDP 比例。[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp. 31-32)]]
 
 > [!info] 九个顶级行业的选择标准
 > - 高生产力（high productivity）
@@ -60,7 +61,7 @@ updated: 2026-06-10
 ## 效果与评价
 
 > [!success] 2013–2017 年关键效果
-> - 全球竞争力排名从第 8 升至第 4
+> - 全球[[Competitiveness|竞争力]]排名从第 8 升至第 4
 > - 研发强度几乎未变：仅从 1.93% 微升至 1.99%（自 2014 年以来几乎未变）
 > - 私营部门研发占比上升，技术毕业生流入增加
 > - 公私合作项目规模翻倍：从 6.22 亿欧元增至 12.5 亿欧元

@@ -5,7 +5,7 @@ aliases:
 summary: "指知识密集型资本主义的物质过程如何通过想象、指标和社会实践被话语建构并制度化的过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Academic Freedom]]"
+  - "[[Competitiveness]]"
   - "[[Geopolitical Subject]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Economic Patriotism]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 ## 定义
@@ -93,7 +94,7 @@ updated: 2026-10-03
 但知识经济化视角会追问：大学变得更重要**本身**是一个需要被制造和维持的过程——这个过程涉及什么？
 
 - **物质层面** 大学图书馆被改造成 makerspaces 和创新创业中心（Thompson & Parreira do Amaral, 2022, pp.4–6）；大学的物理空间从知识储存和[[Academic Freedom|学术自由]]的空间转变为孵化创业主体的空间
-- **话语层面** 大学被政策报告、媒体叙事、国际排名持续表述为**全球竞争力的核心基础设施**——这种表述不仅是描述性的，更在制造大学成为基础设施这一现实
+- **话语层面** 大学被政策报告、媒体叙事、国际排名持续表述为**全球[[Competitiveness|竞争力]]的核心基础设施**——这种表述不仅是描述性的，更在制造大学成为基础设施这一现实
 - **主体层面** 大学不仅传授知识，还开始系统性地塑造具备创业心态和全球流动能力的学生——即 [[Geopolitical Subject]]
 
 这三个层面——物质改造、话语建构、主体形塑——不是分开进行的，而是相互强化：排名话语为空间改造提供合法性，改造后的空间为新的主体形塑提供物质条件，形塑出的主体又反过来验证了排名话语的正确性。
@@ -113,7 +114,7 @@ Moisio 的[[Knowledge-Based Economy|知识经济]]化概念建立在两个理论
 
 具体而言，economization 包含两个方向的运动([[Argument_Moisio_2022_Springer|Moisio, 2022, p.25]])：
 
-1. **社会议题被经济化** 一系列社会议题被不断转译为经济议题，如同它们是纯粹的经济事务。例如：教育的目的本可以是公民培养、个人成长或文化传承，但在 economization 过程中，教育被首要地转译为**投资[[Human Capital Theory|人力资本]]**、**增强国家竞争力**、**回报率**的经济议题——其他目的不是消失了，而是被经济逻辑重新框定和排序。
+1. **社会议题被经济化** 一系列社会议题被不断转译为经济议题，如同它们是纯粹的经济事务。例如：教育的目的本可以是公民培养、个人成长或文化传承，但在 economization 过程中，教育被首要地转译为**投资[[Human Capital Theory|人力资本]]**、**增强[[Competitiveness|国家竞争力]]**、**回报率**的经济议题——其他目的不是消失了，而是被经济逻辑重新框定和排序。
 
 2. **经济议题被社会化** 反过来，经济相关事务也被表述为社会的、政治的和集体的**我们**议题。例如：提升 GDP 被表述为**为了孩子们的未来**，吸引全球资本被表述为**爱国（参见 [[Economic Patriotism]]）**。这一方向使得经济政策获得了超越纯粹经济计算的道德和情感合法性。
 
@@ -143,7 +144,7 @@ Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分�
 - 话语（如[[Knowledge-Based Economy|知识经济]]需要创新人才）→ 驱动物质实践（如大学设立创业课程、改造图书馆为 makerspace）
 - 物质实践（如大学空间被改造）→ 强化话语的真实性（改造后的空间使得大学是创新基础设施看起来是[[Doxa|不言自明]]的事实）
 
-这种相互强化的循环是知识经济化得以持续运作的核心机制。Moisio 指出，诸如各种排名表和指数——通过测量国家、城市、区域和大学的竞争力——将这些实体物化为**全球竞争的真实单位**，是话语-物质相互构成的关键节点([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.25–26]])。
+这种相互强化的循环是知识经济化得以持续运作的核心机制。Moisio 指出，诸如各种排名表和指数——通过测量国家、城市、区域和大学的[[Competitiveness|竞争力]]——将这些实体物化为**全球竞争的真实单位**，是话语-物质相互构成的关键节点([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.25–26]])。
 
 ---
 

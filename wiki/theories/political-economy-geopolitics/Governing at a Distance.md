@@ -11,7 +11,7 @@ aliases:
 summary: "起源于福柯治理术谱系并经罗斯、米勒与拉图尔发展、在批判教育社会学与拓扑学中深化的空间治理理论，指权力不依赖直接行政命令或物理在场，而是通过将宏观政治抱负转译为技术标准、计算中心、不变移动物与自适应数据基础设施，在“远处”重塑主体认知与微观实践的非接触式权力机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 41
+theory_related_count: 42
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Performance Indicators]]"
   - "[[Research Topic]]"
+  - "[[Competitiveness]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
   - "[[Champ]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Governing at a Distance
@@ -133,7 +134,7 @@ updated: 2026-10-03
 > **应用实例** 在特殊教育科研界，资助机构与学术期刊并未强行指定学者[[Research Topic\|研究主题]]，而是通过推广单一受试设计（[[Single-Case Design\|SCD]]）的“循证金标准”量规，使研究者为了获得课题立项与发表机会，主动将自身改造成符合量化绩效要求的学术主体。（[[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022]]）
 
 > [!theory-proposition] 命题二｜多边与国家机构依托[[Center of Calculation\|计算中心]]和基准数据行使远处治理，构建非强制性软性规制
-> **解释** 面对主权国家或地方自治实体的独立性，治理中心无需直接发布行政命令，而是依托[[Center of Calculation\|计算中心]]收集海量“不变移动物”（如测验数据、统计报表），并通过跨国或跨区域比较生成基准（Benchmarks）与排行榜。这种中立科学的数据呈现引诱或迫使处于边缘的行动者产生落后焦虑，从而在追求“国际竞争力”或“质量达标”的驱动下主动借用外部政策，实现跨时空的远处协调。（Latour, 1987; [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 424–425]]）
+> **解释** 面对主权国家或地方自治实体的独立性，治理中心无需直接发布行政命令，而是依托[[Center of Calculation\|计算中心]]收集海量“不变移动物”（如测验数据、统计报表），并通过跨国或跨区域比较生成基准（Benchmarks）与排行榜。这种中立科学的数据呈现引诱或迫使处于边缘的行动者产生落后焦虑，从而在追求“国际[[Competitiveness|竞争力]]”或“质量达标”的驱动下主动借用外部政策，实现跨时空的远处协调。（Latour, 1987; [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 424–425]]）
 >
 > **应用实例** 国际[[OECD\|经合组织]]（OECD）在缺乏主权管辖权的情况下，通过定期发布[[PISA\|国际学生评估项目]]（PISA）跨国排名，成功引导德国、日本等多国开展以产出监测为核心的国内重大教育体制变革。（[[Argument_Klerides_2023_CE\|Klerides, 2023]]）
 

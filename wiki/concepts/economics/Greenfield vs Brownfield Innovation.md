@@ -9,7 +9,7 @@ aliases:
 summary: "科技政策与演化经济学中用于区分技术进入环境特征的核心分析概念对；绿地创新指技术进入缺乏庞大存量资产与固定制度网络的全新空白领域（如二战后半导体与互联网），能依托军用性能溢价快速迭代；棕地创新指技术必须嵌入深嵌于强监管、长资产周期与规避风险的存量基础设施网络（如电力与能源大宗商品），无法索取自然性能溢价，高度依赖外部规制与系统级试验"
 type: concept
 domain: "economics"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
   - theme/science-policy
   - theme/climate-change
 related_concepts:
+  - "[[Pull Mechanisms for Innovation]]"
   - "[[Valley of Death]]"
   - "[[Paradigm]]"
   - "[[Big Science]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Greenfield vs Brownfield Innovation
@@ -81,7 +82,7 @@ updated: 2026-10-03
 > | **典型产业案例** | 二战后半导体、早期计算机硬件、PC 软件、互联网 | 当代清洁电力、先进电网储能、碳捕集与封存、低碳航空燃料 |
 > | **存量网络制约** | 无庞大历史沉没成本，无成熟规制壁垒，应用场景为全新绿地 | 深嵌于资产寿命长达数十年、强监管且极度规避故障的存量网络 |
 > | **产品商业属性** | 高度差异化的高性能产品（新功能、小型化、高速度） | 物理性能完全同质化的大宗商品（Megawatt-hour 电力无法溢价） |
-> | **需求拉动机制** | 存在内生性国防刚需，军方自发愿为极端性能支付巨额溢价 | 自由市场缺乏自发绿色溢价，需求完全依赖碳税、碳规制等政策人为创造 |
+> | **需求[[Pull Mechanisms for Innovation\|拉动机制]]** | 存在内生性国防刚需，军方自发愿为极端性能支付巨额溢价 | 自由市场缺乏自发绿色溢价，需求完全依赖碳税、碳规制等政策人为创造 |
 > | **技术溢出方向** | 军品技术经规模化制造降低成本后，可无缝向民用消费市场溢出 | 军用特种极端能源装备（如核潜艇反应堆）与民用低成本电网严重脱节 |
 > | **政策工具重心** | 先导研发合同 + 军品先导采购 + 反垄断专利开放 | 碳定价与强制排放标准 + 存量改造补贴 + 兆瓦级全系统示范工程 |
 

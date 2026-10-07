@@ -8,7 +8,7 @@ aliases:
 summary: "以纽约市为核心的世界级金融与创新湾区，经历制造业中心到金融中心再到全球科技创新高地的多次转型，依托雄厚的金融资本、精准的市政产业税费激励、顶尖高等教育应用科学计划与高校孵化器网络，形成金融科技驱动与产学研深度协同的复合型创新生态系统。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Apprenticeship]]"
   - "[[Document]]"
+  - "[[Engineering Education]]"
   - "[[STEM Education]]"
   - "[[Innovation Park]]"
   - "[[Variable]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-11
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # New York Bay Area
@@ -91,7 +92,7 @@ updated: 2026-10-05
 > [!feature] 纽约湾区[[Innovation Ecosystem|创新生态系统]]的四大核心要素
 > - **全周期科技金融与实验室网络（Full-Lifecycle Techno-Finance Ecosystem）** 依托华尔街雄厚资本与全球两大交易所，设立金融科技创新实验室（FinTech Innovation Lab）、摩根大通金融解决方案实验室与花旗银行创新实验室，运用金融大数据与人工智能为中小微科技企业提供定制化融资与信贷支持。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 > - **精准导向的市政减税与空间更新政策（Targeted Fiscal Incentives & Spatial Policy）** 实施商业扩张鼓励计划、降低能源成本计划、新兴科技公司减税措施与曼哈顿下城商业租金税减免；推动城市改造计划（铺设全美最大的免费公共无线网络 WiFi、建设 Digital.NYC 创业平台）及众创空间支持计划。
-> - **战略性高等工程教育引育工程（Strategic [[STEM Education|STEM]] Higher Education Expansion）** 2010 年启动[[Applied Sciences NYC|应用科学计划]]（Applied Sciences NYC），出让罗斯福岛核心土地并配套 1 亿美元市政资金，全球公开招标引进康奈尔大学与以色列理工学院（Technion）联合设立康奈尔科技校区（Cornell Tech），从供给侧重构湾区工程科技与应用学科底座。
+> - **战略性[[Engineering Education|高等工程教育]]引育工程（Strategic [[STEM Education|STEM]] Higher Education Expansion）** 2010 年启动[[Applied Sciences NYC|应用科学计划]]（Applied Sciences NYC），出让罗斯福岛核心土地并配套 1 亿美元市政资金，全球公开招标引进康奈尔大学与以色列理工学院（Technion）联合设立康奈尔科技校区（Cornell Tech），从供给侧重构湾区工程科技与应用学科底座。
 > - **专业化高校成果转化与科技孵化平台（University [[Technology Transfer|tech transfer]] & Incubator Hub）** 以康奈尔大学[[McGovern Center for Venture Development|麦戈文创业孵化中心]]为标杆，深度整合大学科研成果与纽约州经济发展资源，提供高标准湿实验室、知识产权保护、商业规划与职业经理人对接，成功孵化近百个硬科技企业团队。
 
 > [!logic-map]- 纽约湾区金融科技与产学研共演逻辑

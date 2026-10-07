@@ -179,7 +179,7 @@ updated: 2026-09-24
 > [!line-a] PCA 揭示两类创新策略
 > [[Research Utilization\|研究使用]]六个创新[[Variable\|变量]]进行主成分分析，根据 Kaiser 准则保留两个主成分，累计解释 $71.36\%$ 的总方差（$\lambda_1 = 3.06$，$\lambda_2 = 1.22$）。两个成分精确对应了 Schumpeter 关于产品创新和流程创新的经典区分（pp.163-165）。
 >
-> > [!col-l] 成本竞争力（cost [[Competitiveness]]）
+> > [!col-l] 成本[[Competitiveness|竞争力]]（cost [[Competitiveness]]）
 > > 第一主成分（$\lambda_1 = 3.06$）与新设备投资（载荷 $0.45$）、流程创新（载荷 $0.49$）、供应商作为创新来源（载荷 $0.42$）和降低劳动力成本（载荷 $0.47$）高度相关，捕捉通过设备升级和流程优化降低成本的策略。
 >
 > > [!col-r] 技术竞争力（technological competitiveness）

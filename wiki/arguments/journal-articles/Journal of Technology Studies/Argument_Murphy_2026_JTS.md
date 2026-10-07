@@ -31,6 +31,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Brainstorming]]"
   - "[[Unit of Analysis]]"
+  - "[[Competitiveness]]"
   - "[[Attrition]]"
   - "[[Workforce Development]]"
   - "[[Emergence]]"
@@ -68,7 +69,7 @@ title: "Argument_Murphy_2026_JTS"
 argument_key: "Argument_Murphy_2026_JTS"
 argument_display_title: "Building Collaboration and Knowledge in Semiconductor Research: A Case Study on CHIPS & Science Act Workshops"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -149,7 +150,7 @@ issuing_organization: ""
 ### 论证步骤一　应对国家半导体立法紧迫性必须建立高校有组织的跨学科动员机制
 
 > [!claim] 步骤一核心主张
-> 美国《[[CHIPS and Science Act|芯片与科学法案]]》将半导体确立为国家安全与经济竞争力的关键战略资产，但本土制造产能的萎缩与预计高达 140 万的 [[STEM Education|STEM]] 人才缺口构成了严峻的国家级挑战；高校必须摆脱自发分散的科研模式，通过设立跨学科专班和系统化专业发展机制积极承接国家战略目标。（pp.1–3）
+> 美国《[[CHIPS and Science Act|芯片与科学法案]]》将半导体确立为国家安全与经济[[Competitiveness|竞争力]]的关键战略资产，但本土制造产能的萎缩与预计高达 140 万的 [[STEM Education|STEM]] 人才缺口构成了严峻的国家级挑战；高校必须摆脱自发分散的科研模式，通过设立跨学科专班和系统化专业发展机制积极承接国家战略目标。（pp.1–3）
 
 #### 1. 联邦立法引导战略转向并暴露工程科技人才危机
 

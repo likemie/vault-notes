@@ -12,9 +12,9 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
@@ -26,6 +26,7 @@ tags:
 - region/australia
 related_concepts:
   - "[[International Education]]"
+  - "[[Competitiveness]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Internationalization of Higher Education]]"
 related_theories: []
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: '2026-05-18'
+updated: 2026-10-07
 ---
 
 # Australia in the Asian Century White Paper
@@ -77,7 +78,7 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning]
-> - Rizvi 暗示该白皮书将亚洲崛起主要框定为"澳大利亚的机遇"，其底层逻辑仍是国家竞争力而非对称性合作——这与后疫情时代所需的"超越商业逻辑的国际化"形成张力([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.99–102]])
+> - Rizvi 暗示该白皮书将亚洲崛起主要框定为"澳大利亚的机遇"，其底层逻辑仍是[[Competitiveness|国家竞争力]]而非对称性合作——这与后疫情时代所需的"超越商业逻辑的国际化"形成张力([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.99–102]])
 > - 白皮书的乐观预期在 COVID-19 疫情和中美地缘政治紧张后受到严峻考验——过度依赖亚洲学生学费的澳大利亚大学面临生存危机([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.101–102]])
 
 ## 相关概念／理论

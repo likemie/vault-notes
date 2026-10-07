@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 33
+fact_related_count: 34
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Distributed Agency]]"
   - "[[Citizen Science]]"
   - "[[Epistemology]]"
+  - "[[Competitiveness]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Innovation Policy Paradigms]]"
 related_theories:
@@ -68,7 +69,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Horizon Europe
@@ -152,7 +153,7 @@ updated: 2026-10-06
 > [!debates] 政策争议与学术反思
 >
 > > [!axis] 使命导向与学术自主性的[[Epistemology|认识论]]冲突
-> > 批评学者指出，地平线欧洲将科研经费高度捆绑于自上而下的政策使命，实质上是将大学和[[Knowledge Production|知识生产]]工具化为区域经济竞争力的服务载体，导致基础科学的自由探索受限，人文社会科学沦为工程技术的解释性附庸。
+> > 批评学者指出，地平线欧洲将科研经费高度捆绑于自上而下的政策使命，实质上是将大学和[[Knowledge Production|知识生产]]工具化为区域经济[[Competitiveness|竞争力]]的服务载体，导致基础科学的自由探索受限，人文社会科学沦为工程技术的解释性附庸。
 > >
 > > - **[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]]** 批评欧盟科技规划深陷“新[[Geopolitics of Knowledge|知识地缘政治]]”的算计中，将高等教育过度编织入专有知识商品化与区域资本主义竞争链条，削弱了大学知识生产的多元[[Epistemology|认识论]]自主性。（pp. 38–40, 48–49）
 > > - **[[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]** 辩护称使命导向并非取代自由探索，而是通过第一支柱充分保障 [[Engineering Research Centers|ERC]] 的自下而上独立性，同时在第二支柱提供明确方向以防资本无序套利。（pp. 805–807）
@@ -192,7 +193,7 @@ updated: 2026-10-06
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 系统对比 2020 年代美、中、欧三大经济体的科技创新政策，指出欧洲通过“地平线欧洲”将过半预算投向生态可持续与社会福祉使命，与中美聚焦尖端产业与地缘防务形成清晰分野。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 起草欧盟使命导向研究的顶层理论与制度蓝图，提出将宏大挑战解构为战略使命、部门联动与自下而上项目组合的系统方案。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 梳理使命导向政策的三代历史演进，将“地平线欧洲”定性为以应对棘手社会转型挑战为特征的第三代政策标杆。
-> - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] — 从批判[[Geopolitics of Knowledge|知识地缘政治]]学视角审视欧盟科技政策，警示将高等教育与科研完全编入区域竞争力算计所引发的[[Epistemology|认识论]]狭隘化风险。
+> - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] — 从批判[[Geopolitics of Knowledge|知识地缘政治]]学视角审视欧盟科技政策，警示将高等教育与科研完全编入区域[[Competitiveness|竞争力]]算计所引发的[[Epistemology|认识论]]狭隘化风险。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 揭示欧盟《[[European Chips Act|欧洲芯片法案]]》第一支柱对“地平线欧洲”科研预算的改换名目与重新吸纳，剖析欧盟在缺乏超国家财政自主权下形成的财政幻觉与治理短板（pp. 12–13）。
 
 

@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 40
+fact_related_count: 41
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Cost of Ownership]]"
   - "[[Total Quality Management]]"
   - "[[Pilot Scale Platform]]"
+  - "[[Competitiveness]]"
   - "[[General Purpose Technology]]"
   - "[[Valley of Death]]"
   - "[[Reliability]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Sematech
@@ -108,7 +109,7 @@ updated: 2026-10-06
 >   - 设立设备改进计划（Equipment Improvement Programs, [[Evidence-Informed Practice|EIP]]）与联合开发项目（Joint Development Projects, JDP），推出国家半导体技术路线图（National Technology Roadmap for Semiconductors, NTRS，即 ITRS 前身），广泛普及[[Cost of Ownership|所有权成本]]（Cost of Ownership, COO）模型、[[Total Quality Management|全面质量管理]]（Total Quality Management, TQM）与[[Statistical Process Control|统计过程控制]]（Statistical Process Control, SPC）标准，建设共享[[Pilot Scale Platform|中试验证平台]]（Shared Testbeds），将研发经费的半数以上直接投向上游中小设备商。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 731–736)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 177)]]
 >   - 1992 年美国半导体制造与设备全球市场份额重新超越日本，并在微处理器与系统级芯片领域确立产业优势。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 736–744)]]
 > - **1996–至今 — 终结联邦补贴、国际化自立与总部跨州回流**
->   - 1996 年经全体成员投票表决，联盟认为美国芯片制造业已恢复竞争力，正式决定**主动放弃联邦财政资助**，实现 100% 依赖企业会费运营的商业自立；
+>   - 1996 年经全体成员投票表决，联盟认为美国芯片制造业已恢复[[Competitiveness|竞争力]]，正式决定**主动放弃联邦财政资助**，实现 100% 依赖企业会费运营的商业自立；
 >   - 1998 年更名为国际半导体制造技术战略联盟（International Sematech, ISMT），向欧洲、亚洲等全球芯片制造商开放会员资格，并在面向下一代 300 毫米晶圆制造装备与工艺联合攻关中吸纳了多家非日本外国企业，演化为全球半导体产业前竞争共性标准制定的核心技术平台。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 121–122)]]
 >   - 2010 年代纽约州立大学（SUNY）系统承诺斥资建设电脑芯片商业化中心、化学机械平坦化中心等多所顶尖大学配套设施，成功将 Sematech 总部由得州奥斯汀撬回纽约奥尔巴尼地区，再次彰显了大学学术中心资产在锚定高技术产业联合体中的决定性杠杆功能。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 294)]]
 
@@ -219,7 +220,7 @@ updated: 2026-10-06
 > | [[Embedded Network Governance]] | Concept | Sematech 运行中所体现的跨企业网络编织与非正式协同机制。 |
 > | [[Precompetitive Research]] | Concept | 支撑 Sematech 规避反垄断制裁与组织直接对手合作的核心概念工具。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 2022 年重构美国芯片制造战略的联邦法案，直接继承了 Sematech 的治理遗产。 |
-> | [[Erica Fuchs]] | Person | 在分析 DARPA 历史沿革中将 Sematech 作为 1980 年代国家竞争力时代核心代表进行评述的学者。 |
+> | [[Erica Fuchs]] | Person | 在分析 DARPA 历史沿革中将 Sematech 作为 1980 年代[[Competitiveness\|国家竞争力]]时代核心代表进行评述的学者。 |
 > | [[Membership-based Research Consortium]] | Concept | Sematech 所体现的行业级公私会员制研发联合体形态。 |
 > | [[Center for Integrated Systems]] | Fact (Organization) | 参与 Sematech 早期规划并设立 SCOE 卓越中心的大学微电子平台。 |
 > | [[Comparative Case Study]] | Method | 评估 Sematech 制度成效与国际比较时采用的核心研究方法。 |

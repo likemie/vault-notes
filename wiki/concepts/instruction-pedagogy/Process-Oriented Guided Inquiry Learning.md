@@ -7,7 +7,7 @@ aliases:
 summary: "源自大学化学教育并广泛扩散至 K-12 阶段的小组合作探究教学法，依托探索、概念形成与应用三阶段学习环，结合结构化团队角色分配与引导式活动材料，元分析证实其能显著降低课程挂科率并大幅提高学业通过优势比"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Class Size]]"
   - "[[Nature of Science]]"
+  - "[[Engineering Education]]"
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
   - "[[Active Learning]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Process-Oriented Guided Inquiry Learning
@@ -210,7 +211,7 @@ POGIL 历经了从局部高校化学教学改革，扩散为横跨 [[STEM Educat
 > [!dev-timeline] 概念演变
 > - **1994–1999 — 化学课堂改革试点与三阶段学习环确立** 穆格等人在富兰克林与马歇尔学院反思化学大班讲授的高淘汰率，确立以模型为中心的探究活动单雏形，创立 POGIL 教学法原型。
 > - **2003–2008 — [[National Science Foundation\|NSF]] 重大资助与全美 POGIL 项目社群建立** 获得美国国家科学基金会（NSF）数百万美元资助，正式建立 The POGIL Project 官方非营利组织，出版化学、生物与物理标准教材活动集（Moog & Spencer, 2008）。
-> - **2010–2016 — 跨学科横向拓展至计算机科学与中学教育** POGIL 成功溢出化学领域，被引入大学计算机科学（CS-POGIL）、高中 AP 课程与工程教育，成为探究教学的标准[[Paradigm\|范式]]之一。
+> - **2010–2016 — 跨学科横向拓展至计算机科学与中学教育** POGIL 成功溢出化学领域，被引入大学计算机科学（CS-POGIL）、高中 AP 课程与[[Engineering Education|工程教育]]，成为探究教学的标准[[Paradigm\|范式]]之一。
 > - **2017 — Walker & Warfa 权威[[Meta-analysis\|元分析]]确立循证底座** 沃克与瓦法在《PLoS One》发表里程碑元分析，严格量化了 POGIL 在提升课程通过率与降低 DFW 上的系统优势，确立其循证有效性（Walker & Warfa, 2017）。
 > - **2023 — De Jong 等里程碑综述纳入国际探究全景** [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 将 POGIL 作为科学教育中结构化[[Inquiry-Based Learning\|指导式探究]]的标杆实践，有力反击[[Direct Instruction\|直接教学]]派关于探究等于“无指导放任”的不实指责。（p. 3）
 

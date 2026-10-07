@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Policy Entrepreneur]]"
   - "[[School Inspection]]"
+  - "[[Competitiveness]]"
   - "[[Variable]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Research Utilization]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 # TIMSS
@@ -139,7 +140,7 @@ updated: 2026-09-26
 > > [!axis] 跨国课程对标的国际竞逐 vs 本土情境的自主选择
 > > 探讨依据 TIMSS 国际高分国课程模式重构本土课程标准是否具有普适性。
 > >
-> > - **国际基准对标倡导者** 认为吸收高表现国在 TIMSS 中展现的课程聚焦度与进阶逻辑，是提升国家整体教育质量与经济竞争力的必然路径。
+> > - **国际基准对标倡导者** 认为吸收高表现国在 TIMSS 中展现的课程聚焦度与进阶逻辑，是提升国家整体教育质量与经济[[Competitiveness|竞争力]]的必然路径。
 > > - **本土情境审议者** 担忧盲目复制他国课程结构可能忽视本国多元文化、地方分权传统与薄弱校师资实际承载力，诱发课程落地脱节。
 > >
 > > [!axis] 政治化排位炒作与虚假因果归因

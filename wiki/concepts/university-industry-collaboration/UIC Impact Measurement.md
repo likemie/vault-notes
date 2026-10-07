@@ -8,7 +8,7 @@ aliases:
 summary: "Cohen、Fernandes and Godinho（2025）通过系统综述 92 篇文献提出的 UIC 影响测量综合框架，将 25 种产学合作影响归入智力、经济、技术、环境、社会和战略六种类型，并以主体、时间、发生方式和性质四个辅助维度交叉分类，同时识别四类测量挑战与七项应对策略"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Document]]"
   - "[[Problem Solving]]"
+  - "[[Competitiveness]]"
   - "[[Responsible Innovation]]"
   - "[[Counterfactual]]"
   - "[[Variable]]"
@@ -37,7 +38,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-05
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 
 # UIC Impact Measurement
@@ -69,7 +70,7 @@ Cohen 等人（2025）通过对 92 篇[[Document|文献]]的[[Systematic Review|
 | **技术影响（Technological）** | 因新技术或创新概念实施而产生的影响，涵盖生产率、生活质量和就业等领域 | 3 种（I.14–I.16） |
 | **环境影响（Environmental）** | 合作项目活动直接或间接对环境产生的正负向影响 | 2 种（I.17–I.18） |
 | **社会影响（Social）** | 跨越多个社会群体的影响，包括就业创造、生活质量提升和回应社区需求的创业活动 | 4 种（I.19–I.22） |
-| **战略影响（Strategic）** | 直接影响组织在环境中形象的要素，包括声誉、竞争力和未来合作能力 | 3 种（I.23–I.25） |
+| **战略影响（Strategic）** | 直接影响组织在环境中形象的要素，包括声誉、[[Competitiveness\|竞争力]]和未来合作能力 | 3 种（I.23–I.25） |
 
 ### 25 种 UIC 影响
 

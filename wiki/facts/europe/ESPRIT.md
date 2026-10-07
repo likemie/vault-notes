@@ -12,7 +12,7 @@ subtype: program
 region: europe
 fact_region: "europe"
 fact_kind: "program"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ tags:
   - theme/rd-consortium
 related_concepts:
   - "[[Precompetitive Research]]"
+  - "[[Competitiveness]]"
   - "[[Return on Investment]]"
   - "[[Pilot Scale Platform]]"
 related_theories: []
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # ESPRIT
@@ -59,7 +60,7 @@ updated: 2026-10-05
 > - **立项时间 / 周期** 1984 年正式启动第一期（ESPRIT I, 1984–1989），随后推进第二期（ESPRIT II, 1988–1993）。
 > - **发起方与资助机制** 由欧共体委员会直接统筹与出资，采用 50% 欧共体财政对等资助与 50% 参与机构自筹机制；ESPRIT I 总预算达 18 亿美元（约 15 亿欧洲货币单位 ECU），ESPRIT II 扩张至 38 亿美元（约 32 亿 ECU）。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 727)]]
 > - **覆盖范围与对象** 跨越西欧十余个成员国，吸纳了超过 500 家大中型科技企业（如西门子、飞利浦、汤姆逊等）、数百所大学及公共科研机构，支持了数百个独立子项目。
-> - **核心问题导向** 克服欧洲内部国家市场碎片化、企业研发重复分散、缺乏跨国研发协同平台的体制弱点，培育具有全球竞争力的欧洲信息技术产业生态。
+> - **核心问题导向** 克服欧洲内部国家市场碎片化、企业研发重复分散、缺乏跨国研发协同平台的体制弱点，培育具有全球[[Competitiveness|竞争力]]的欧洲信息技术产业生态。
 
 ---
 
@@ -113,7 +114,7 @@ updated: 2026-10-05
 > [!indicators]- 评估指标体系
 > - **投入规模** 第一期（18 亿美元）与第二期（38 亿美元）累计达 56 亿美元，欧共体提供 50% 资金匹配。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 727)]]
 > - **网络覆盖与项目数量** 覆盖 500 余家企业与科研机构，第一期支持 226 个合作项目。
-> - **产业竞争力与市场份额** 欧洲半导体制造商在全球市场的整体份额未获实质性改善（1980 年 16%，1992 年降至约 10%）。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 737–739)]]
+> - **产业[[Competitiveness|竞争力]]与市场份额** 欧洲半导体制造商在全球市场的整体份额未获实质性改善（1980 年 16%，1992 年降至约 10%）。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 737–739)]]
 
 > [!finding-cards] 核心实证结论
 > 1. **成功培育泛欧科研协作网络** 打破了欧洲各国长期以来的技术民族主义壁垒，在微电子与软件工程领域建立了制度化的跨国协同研发网络。

@@ -41,6 +41,7 @@ related_concepts:
   - "[[Doxa]]"
   - "[[Development Education]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Competitiveness]]"
   - "[[Insider-Outsider Perspective in Comparative Education]]"
   - "[[Attrition]]"
   - "[[Educational Meliorism]]"
@@ -128,7 +129,7 @@ title: "Argument_Mitter_2009_Europe"
 argument_key: "Argument_Mitter_2009_Europe"
 argument_display_title: "Comparative Education in Europe"
 argument_kind: "book-chapter"
-argument_related_count: 93
+argument_related_count: 94
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -332,7 +333,7 @@ flowchart LR
 然而，世纪之交的当代情境打破了上述从容的专业平衡。（p.96）
 
 > [!warrant]- 国际大规模测评崛起对比较教育政策咨询格局的颠覆
-> 由国际教育成就评价协会（IEA）特别是[[OECD|经济合作与发展组织]]（OECD）主持的[[PISA|国际学生评估项目]]（PISA）在决策层与公众舆论中取得广泛影响，推动了由经合组织强力倡导的经济导向型教育政策的全球确立。政府机构不仅日益加强对研究经费与研究内容的直接干预，更直接规定比较研究的项目目标与问责指标，促使比较教育面临以[[Human Capital Theory|人力资本]]与经济竞争力为指标的[[Disciplina and Doctrina|规训]]压力。（p.96）
+> 由国际教育成就评价协会（IEA）特别是[[OECD|经济合作与发展组织]]（OECD）主持的[[PISA|国际学生评估项目]]（PISA）在决策层与公众舆论中取得广泛影响，推动了由经合组织强力倡导的经济导向型教育政策的全球确立。政府机构不仅日益加强对研究经费与研究内容的直接干预，更直接规定比较研究的项目目标与问责指标，促使比较教育面临以[[Human Capital Theory|人力资本]]与经济[[Competitiveness|竞争力]]为指标的[[Disciplina and Doctrina|规训]]压力。（p.96）
 
 ---
 

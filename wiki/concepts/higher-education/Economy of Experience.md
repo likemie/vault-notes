@@ -6,7 +6,7 @@ aliases:
 summary: "大学生将课余经历、活动和自我展示精细投资管理以积累履历资本的竞争逻辑，是高等教育就业竞争向生活全域扩展的表现"
 type: concept
 domain: "higher-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Credential Inflation]]"
+  - "[[Competitiveness]]"
   - "[[Social Engagement]]"
   - "[[Employability]]"
   - "[[Cultural Capital]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Economy of Experience
@@ -46,7 +47,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!info]
-> 履历经济学（Economy of Experience）是英国社会学家Phillip Brown提出的概念，描述在高等教育大众化和[[Credential Inflation\|文凭通胀]]背景下，大学生为了在求职市场获得竞争优势，必须将自己大学期间的课余生活（旅行、实习、社团、志愿服务等）进行精心的投资、管理和包装，使其成为简历上可兑换为就业竞争力的"履历资本"。
+> 履历经济学（Economy of Experience）是英国社会学家Phillip Brown提出的概念，描述在高等教育大众化和[[Credential Inflation\|文凭通胀]]背景下，大学生为了在求职市场获得竞争优势，必须将自己大学期间的课余生活（旅行、实习、社团、志愿服务等）进行精心的投资、管理和包装，使其成为简历上可兑换为就业[[Competitiveness|竞争力]]的"履历资本"。
 
 > [!quote]
 > "大学生要想将自己打造成能够在求职市场获得优势的候选人，必须有意地、持续地反思和管理自己的大学生活，将大学四年打造成一种致力于为简历加分的'履历经济学'"（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Brown）
@@ -67,7 +68,7 @@ updated: 2026-09-22
 ## 概念演变
 
 > [!note]-
-> - **2003 [[Employability\|就业力]]相对化** Brown & Hesketh 论证就业力的相对性——求职者的竞争力取决于在所有竞争者中的排序位置，而非绝对能力（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Brown & Hesketh, 2003）
+> - **2003 [[Employability\|就业力]]相对化** Brown & Hesketh 论证就业力的相对性——求职者的[[Competitiveness|竞争力]]取决于在所有竞争者中的排序位置，而非绝对能力（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Brown & Hesketh, 2003）
 > - **2004 [[Soft Power\|软实力]]转向** Brown & Hesketh 进一步揭示雇主招聘要求从"硬"通货（学位和证书）扩展到"软"实力（个人性格、荣誉、工作经验、实习经历），为履历经济学的概念诞生提供了经验基础（，引 Brown & Hesketh, 2004）
 > - **2023 中国教育研究应用**[[Yajun Zheng\|郑雅君]]将履历经济学概念用于分析中国精英大学毕业生的竞争环境，将其与[[Social Engagement\|社会性投入]]和[[Goal-Controlled Mode\|目标掌控模式]]的分析相连接
 

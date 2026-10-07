@@ -9,7 +9,7 @@ aliases:
 summary: "研究型大学向新招聘理工科教职人员提供的专属科研启动资金包，用于实验室装修、昂贵科研仪器购置、研究生与博士后津贴及前三年日常运转，是学者在缺乏外部资助时获取预实验数据参与项目竞争的生存期资助工具。"
 type: concept
 domain: "higher-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Shopping Mall Model of Research Universities]]"
   - "[[Star Scientists]]"
   - "[[Seed Funding]]"
+  - "[[Competitiveness]]"
   - "[[Indirect Costs of Research]]"
   - "[[Document]]"
   - "[[Academic Risk Aversion]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-04
+updated: 2026-10-07
 ---
 
 # Academic Start-up Packages
@@ -128,7 +129,7 @@ updated: 2026-10-04
 ### 命题一　启动配套金的通胀竞逐驱动大学内部科研自筹比重上升并加剧财务脆弱性
 
 > [!concept-lens] 机构财务与成本转嫁机制
-> 探讨大学为了在教师招聘中维持竞争力，如何被迫扩大启动金规模并向其他部门转嫁成本。
+> 探讨大学为了在教师招聘中维持[[Competitiveness|竞争力]]，如何被迫扩大启动金规模并向其他部门转嫁成本。
 
 > [!claim] [[Paula Stephan|Stephan, P.]]; Ehrenberg, R.
 > **内部资助膨胀与学费/生师比转嫁** 科学经济学家[[Paula Stephan|保拉·斯蒂芬]]（Stephan）与罗纳德·埃伦伯格（Ronald Ehrenberg）指出，自 1980 年代以来，启动金规模呈现爆炸式增长，青年助理教授的配套金额度已达其实际起薪的 4 到 5 倍。由于联邦[[Indirect Costs of Research|科研间接成本]]费率在 1991 年被联邦管理与预算局（OMB）封顶，大学无法通过联邦资助完全覆盖这一开支，迫使高校动用自身收入大幅填补；在私立大学中，内部科研支持的激增直接导致了本科生学费上涨与生师比扩大，实质上由学生为科研军备竞赛承担了部分隐性成本。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 23–24)]]

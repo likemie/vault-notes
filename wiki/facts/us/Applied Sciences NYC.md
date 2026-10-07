@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[Technology Transfer]]"
   - "[[Innovation Park]]"
+  - "[[Engineering Education]]"
   - "[[Innovation Ecosystem]]"
   - "[[Technology Transfer Office]]"
 related_theories: []
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Applied Sciences NYC
@@ -104,7 +105,7 @@ updated: 2026-10-03
 ## 成效评估与实证发现
 
 > [!finding-cards] 核心实证成效
-> 1. **高等工程教育格局重构** 根本性扭转了纽约缺乏顶级理工科研究生院的历史短板，在数据科学、人机交互与智慧城市技术领域建立起全球学术高地。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
+> 1. **[[Engineering Education|高等工程教育]]格局重构** 根本性扭转了纽约缺乏顶级理工科研究生院的历史短板，在数据科学、人机交互与智慧城市技术领域建立起全球学术高地。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 > 2. **科技企业裂变与成果转化** 园区通过“[[Technology Transfer|技术转让]]”与“科技孵化器”双轨推进，促成专利成果向商业市场的高速流动，孵化了数百个高科技创业团队。
 > 3. **城市经济生态多元化** 助推[[New York Bay Area|纽约湾区]]超越传统金融单一依赖，跃居全美仅次于硅谷的全球第二大科技创业与风险投资生态圈。
 

@@ -7,7 +7,7 @@ summary: "丹麦教育研究者，高绩效学校与弱势学生提升研究者�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 5
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -28,11 +28,12 @@ related_persons: []
 related_arguments:
   - "[[Argument_Laursen_2015_Paideia]]"
 related_facts:
+  - "[[Science Foundation Ireland]]"
   - "[[SFI Report]]"
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-09-11
+updated: 2026-10-07
 ---
 ## 简介
 
@@ -42,7 +43,7 @@ updated: 2026-09-11
 ## 核心思想
 
 > [!info] 核心思想
-> - 高要求、高期待、[[Academic Achievement\|学业表现]]取向和明确[[Classroom Management\|课堂管理]]是丹麦高绩效学校的重要特征；这些发现与 SFI 报告及国际[[Effective Teaching\|有效教学]]综合形成相互印证([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.37–38]])。
+> - 高要求、高期待、[[Academic Achievement\|学业表现]]取向和明确[[Classroom Management\|课堂管理]]是丹麦高绩效学校的重要特征；这些发现与 [[Science Foundation Ireland|SFI]] 报告及国际[[Effective Teaching\|有效教学]]综合形成相互印证([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.37–38]])。
 > - 频繁测试在丹麦研究中可能具有正向学习作用，且 Mehlbye 发现测试受丹麦学生欢迎；这构成丹麦证据与 Hattie 国际综合之间少数明显偏差之一([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.38–39]])。
 > - Mehlbye 的 2004 年和 2010 年研究提供了学校层面的丹麦本土证据：SFI 报告中出现的高要求、学业表现取向和明确课堂管理，并非孤立结果，而是在丹麦高绩效学校研究中重复出现。
 
@@ -50,7 +51,7 @@ updated: 2026-09-11
 
 > [!success] 主要贡献
 > - [[Effective Teaching]] — 为丹麦有效教学研究提供高绩效学校证据，尤其凸显高要求、[[Academic Achievement\|学业表现]]文化、明确[[Classroom Management\|课堂管理]]和测试实践的重要性([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.37–39]])。
-> - [[SFI Report]] — Mehlbye 研究与 SFI 报告一起构成丹麦本土证据：二者都支持高要求、明确课堂管理等质量的重要性([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.37–38]])。
+> - [[SFI Report]] — Mehlbye 研究与 [[Science Foundation Ireland|SFI]] 报告一起构成丹麦本土证据：二者都支持高要求、明确课堂管理等质量的重要性([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.37–38]])。
 
 ## 主要著作
 

@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 40
+fact_related_count: 41
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Policy Window]]"
   - "[[Cross-National Attraction]]"
   - "[[Governing by Numbers]]"
+  - "[[Competitiveness]]"
   - "[[Technical Rationality]]"
   - "[[Policy Brokerage]]"
   - "[[Performance Indicators]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # A Nation at Risk 1983
@@ -127,7 +128,7 @@ updated: 2026-10-02
 ## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
-> - **改革倡导者 / 联邦保守联盟** 里根政府与国家教育卓越委员会（[[National Center for Education Evaluation and Regional Assistance\|NCEE]]） — 将教育与国家经济竞争力及冷战霸权深度绑定，以[[New Public Management\|新公共管理]]的[[Technical Rationality\|技术理性]]动员社会恐慌，诉求强化核心课程学术严谨度与卓越标准。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 8, 10)]]
+> - **改革倡导者 / 联邦保守联盟** 里根政府与国家教育卓越委员会（[[National Center for Education Evaluation and Regional Assistance\|NCEE]]） — 将教育与国家经济[[Competitiveness|竞争力]]及冷战霸权深度绑定，以[[New Public Management\|新公共管理]]的[[Technical Rationality\|技术理性]]动员社会恐慌，诉求强化核心课程学术严谨度与卓越标准。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 8, 10)]]
 > - **专业抵制者 / 传统公教界** [[National Education Association\|全美教育协会]]（[[National Education]] Association，NEA）与[[Progressive Education\|进步主义教育]]流派 — 指责危机被政治家蓄意夸大制造，批评其将复杂的社会不平等和贫困问题甩锅给公立学校教师，抵制狭隘的标准化测试与绩效问责。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 9)]]
 > - **地方执行者 / 州政府与学区** 各州教育厅长与学区理事会 — 面临来自工商业赞助商与家长的强大问责压力，迅速顺应报告推行“新五门基础课程”（4 年英语、3 年数学、3 年社会研究、3 年科学、半年计算机），并主动探寻现成的优质学术项目（如[[International Baccalaureate\|国际文凭]]课程）。[[Argument_Peterson_1987_OpenCourt_Ch06\|(Peterson, 1987, pp. 137–139)]]
 > - **跨国中介者 / 国际智库组织** [[OECD\|经济合作与发展组织]]（OECD）及教育成就评价国际协会（[[IEA]]） — 从被动的学术研究机构转变为接受主权国家政治委托的[[Policy Brokerage\|政策中介]]者，顺势将自身打造成全球[[Performance Indicators\|教育指标]]的数据垄断者与裁决者。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
@@ -175,7 +176,7 @@ updated: 2026-10-02
 > > 争论报告所描绘的教育平庸是严谨客观的实证结论，还是政治家为推行新自由主义与[[New Public Management\|新公共管理]]改革而蓄意制造的道德恐慌与政治修辞。
 > >
 > > - **批判政策社会学立场** 论证报告本质上是一场精密的危机化（Scandalization）政治操作，通过军事隐喻将复杂的社会矛盾窄化为学校教育质量问题，为推行标准化测试与绩效问责扫清了合法性障碍。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 8–10)]]; [[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, pp. 234–235)]]
-> > - **保守主义与新公管立场** 强调当时美国学生基础学科读写算能力的普遍滑坡和与日德工业竞争力的脱节是真实存在的危机，唯有依靠卓越标准与全国性量化标尺才能重塑美国竞争力。
+> > - **保守主义与新公管立场** 强调当时美国学生基础学科读写算能力的普遍滑坡和与日德工业[[Competitiveness|竞争力]]的脱节是真实存在的危机，唯有依靠卓越标准与全国性量化标尺才能重塑美国竞争力。
 >
 > > [!axis] 教育政治框定的历史大翻转（家庭[[Determinism\|决定论]] vs 学校责任论）
 > > 围绕教育不平等根源的政治解释学翻转展开史学论辩。

@@ -208,7 +208,7 @@ updated: 2026-10-06
 > 在跨国治理维度上，世界银行自 1980 年代起依托 Psacharopoulos 主导的教育收益率大样本跨国数据库，持续将初等教育的高回报率作为强加给第三世界借款国的政策处方，将原本具有高度不确定性的教育过程简化为确定性的金融贴现资产，构成了冷战后国际组织以数据统治教育的经典案例。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
 > [!citation-card] 米特论经合组织与国际评测对比较教育的人力资本[[Disciplina and Doctrina|规训]]
-> 随着经合组织（OECD）主导的 [[PISA]] 测试在全球确立了经济导向型教育政策，政府机构不仅日益加强对比较研究经费与研究内容的直接干预，更直接规定项目目标与问责指标，促使比较教育面临以人力资本与经济竞争力为指标的规训压力。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 96)]]
+> 随着经合组织（OECD）主导的 [[PISA]] 测试在全球确立了经济导向型教育政策，政府机构不仅日益加强对比较研究经费与研究内容的直接干预，更直接规定项目目标与问责指标，促使比较教育面临以人力资本与经济[[Competitiveness|竞争力]]为指标的规训压力。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 96)]]
 >
 > *...promoted by the OECD... Governmental agencies not only directly or indirectly intervene in research funding, but also prescribe projects, their targets and indicators of accountability, thus subjecting comparative education to disciplining pressure oriented towards human capital and economic [[Competitiveness]].*
 
@@ -248,7 +248,7 @@ updated: 2026-10-06
 > - **1970 年代中叶 — [[Paradigm|范式]]危机与反思** 经济滞胀爆发，[[Credential Inflation|文凭通胀]]与青年失业打破了教育投资必然带动经济繁荣的神话，[[Torsten Husén|托斯滕·胡森]]（Torsten Husén, 1982）指出实证规划承诺全面破灭。
 > - **1978 — 高技术工程人力资本与多维流动机制** 杰罗姆·E·施奈（[[Jerome E. Schnee]]）将人力资本分析拓展至前沿高技术产业，实证揭示了空间与国防重大工程如何充当工程架构与项目管理人才的孵化池，并通过半导体企业间衍生网络与计算机企业内部跨部门迁移双重机制驱动国家高技术产业优势确立。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 17–20)]]
 > - **1980–1990 年代 — [[World Bank|世界银行]]放贷帝国与内生增长** 1980 年世界银行发布首份《教育部门政策文件》（World Bank, 1980），[[George Psacharopoulos]] 建立起涵盖 139 国、1,120 项估算的回报率数据库，使人力资本收益率成为跨国政策放贷与治理干预的硬性规制指标；罗伯特·卢卡斯（Robert Lucas, 1988）将人力资本作为内生经济增长模型的核心。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
-> - **2000 年代至今 — 全球指标治理与测评帝国再融合** 进入 21 世纪，人力资本逻辑在经合组织[[International Indicators of Education Systems|国际教育系统指标]]（International Indicators of Education Systems，INES）网络、《[[Education at a Glance|教育概览]]》（Education at a Glance，EAG）与[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）跨国技能测试中被深度重构为“全球[[Knowledge-Based Economy|知识经济]]竞争力”治理框架，从粗放投入预测转向基于测评数据的产出绩效规制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
+> - **2000 年代至今 — 全球指标治理与测评帝国再融合** 进入 21 世纪，人力资本逻辑在经合组织[[International Indicators of Education Systems|国际教育系统指标]]（International Indicators of Education Systems，INES）网络、《[[Education at a Glance|教育概览]]》（Education at a Glance，EAG）与[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）跨国技能测试中被深度重构为“全球[[Knowledge-Based Economy|知识经济]][[Competitiveness|竞争力]]”治理框架，从粗放投入预测转向基于测评数据的产出绩效规制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
 
 ---
 
@@ -268,7 +268,7 @@ updated: 2026-10-06
 > > - **技术官僚学派** 认为依托人力预测模型（Parnes, 1962）能精准测算国家人才结构，实现社会资源的最优宏观配置。
 > > - **批判政治学派与马修** 指出人力资本的实证外衣在实质上充当了“[[Social Science as Legitimation Alibi|合法化借口]]”（Alibi），政客借此推卸政策失误责任，掩饰阶级不平等与意识形态决断（[[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009, pp. 67–68]]）。
 > >
-> > [!axis] 人文[[Bildung|教化]]与批判反思 vs 人力资本与经济竞争力[[Disciplina and Doctrina|规训]]
+> > [!axis] 人文[[Bildung|教化]]与批判反思 vs 人力资本与经济[[Competitiveness|竞争力]][[Disciplina and Doctrina|规训]]
 > > 围绕比较教育究竟应当维系植根于哲学与历史传统的教化（Bildung）反思与审慎导航，还是彻底沦为服务于国家人力资本积累与经济对标的实用工具展开交锋。
 > >
 > > - **欧陆传统与米特立场** 坚持[[Navigation Metaphor in Comparative Education|比较教育的航海隐喻]]与批判启蒙价值，警惕技术官僚将学科矮化为人力资本与绩效对标的附庸。
@@ -304,7 +304,7 @@ updated: 2026-10-06
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 考据战后第三代实证[[Scientism|科学主义]]运动中人力资本理论（Schultz, Harbison & Myers, Psacharopoulos）如何与方法论[[Empiricism|经验主义]]缝合，确立“教育-发展-现代化”工具性发展[[Paradigm|范式]]并受跨国权力机构支持的历史机制。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 揭示当代全球治理中人力资本话语如何与 [[PISA]] 测评机制紧密咬合，驱动教育系统按照资本回报逻辑重组。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理[[OECD|经合组织]]与[[World Bank|世界银行]]七十五年历时制度演变，揭示冷战[[Sputnik Shock 1957|斯普特尼克冲击]]后国际组织如何将人力资本理论、控制论规划与教育收益率数据库工具化，打造出跨国放贷与指标治理帝国的历史轨迹。
-> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，揭示跨国大规模评估（OECD/PISA）崛起后，以人力资本和经济竞争力为导向的技术官僚治理如何对比较教育的研究课题、经费分配与政策咨询施加直接的量化[[Disciplina and Doctrina|规训]]压力。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，揭示跨国大规模评估（OECD/PISA）崛起后，以人力资本和经济[[Competitiveness|竞争力]]为导向的技术官僚治理如何对比较教育的研究课题、经费分配与政策咨询施加直接的量化[[Disciplina and Doctrina|规训]]压力。
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统剖析美国半导体与计算机产业发展史，揭示重大公共战略工程如何培育高技术专门工程人力资本，并通过企业间衍生创业网络与企业内部跨部门平移双重机制驱动民用产业升级。
 > - [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] — 从[[Modern Industrial Policy|现代产业政策]]与大国半导体竞争视角，阐明高科技先进制程对高密度专门工程劳动力池的刚性依赖、跨国战略人才招募竞争，以及补贴法案中[[Workforce Development|劳动力发展]]（IMEC 产学模式与托儿服务配套）的制度设计。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]] — 实证阐明战后美国国防科研对大学计算机系所的长期资助如何孵化新兴科技人力资本，并通过受训研究生的跨界流动构筑信息技术向产业界转移的核心载体。

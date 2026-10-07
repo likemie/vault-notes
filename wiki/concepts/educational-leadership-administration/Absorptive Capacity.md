@@ -7,7 +7,7 @@ aliases:
 summary: "组织识别、吸收并情境化应用外部知识的能力；在教育与治理中取决于实践者认知基础、内部沟通网络与支持性领导，调节科研证据向微观行动的转化成效。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
+  - "[[Competitiveness]]"
   - "[[Heterogeneity]]"
   - "[[Knowledge Transfer]]"
   - "[[Evidence-Informed Practice]]"
@@ -80,7 +81,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Absorptive Capacity
@@ -178,7 +179,7 @@ updated: 2026-10-05
 > 探讨企业与大学合作研发中吸收能力的门槛与放大效应，揭示政策资助分配中潜在的不平等循环。
 
 > [!claim] Cohen et al.
-> **合作收益调节与马太效应** 在企业与大学的研发合作（UICs）中，吸收能力构成了企业能否将学术知识转化为商业产品的决定性调节[[Variable\|变量]]。科恩（[[Argument_Cohen_2025_JTT\|Cohen et al., 2025]]）等学者指出，具备强大内部研发部门与知识分享机制的高吸收力企业，能够迅速将大学前沿成果转化为市场竞争力；而缺乏吸收能力的企业即便获得合作机会，创新绩效也无显著提升。更为严峻的是，政府在遴选合作资助对象时倾向于挑选高吸收能力企业，导致吸收能力薄弱的企业被系统性排斥在公共资助之外，进一步加剧了组织间的发展鸿沟。[[Argument_Cohen_2025_JTT\|(Cohen et al., 2025, pp. 347, 353)]]
+> **合作收益调节与马太效应** 在企业与大学的研发合作（UICs）中，吸收能力构成了企业能否将学术知识转化为商业产品的决定性调节[[Variable\|变量]]。科恩（[[Argument_Cohen_2025_JTT\|Cohen et al., 2025]]）等学者指出，具备强大内部研发部门与知识分享机制的高吸收力企业，能够迅速将大学前沿成果转化为市场[[Competitiveness|竞争力]]；而缺乏吸收能力的企业即便获得合作机会，创新绩效也无显著提升。更为严峻的是，政府在遴选合作资助对象时倾向于挑选高吸收能力企业，导致吸收能力薄弱的企业被系统性排斥在公共资助之外，进一步加剧了组织间的发展鸿沟。[[Argument_Cohen_2025_JTT\|(Cohen et al., 2025, pp. 347, 353)]]
 
 ---
 

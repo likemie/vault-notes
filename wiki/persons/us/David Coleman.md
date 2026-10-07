@@ -8,7 +8,7 @@ summary: "美国当代教育政策设计者与企业家，学生成就伙伴组�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -24,6 +24,7 @@ tags:
   - college-board
   - sat
 related_concepts:
+  - "[[Competitiveness]]"
   - "[[College and Career Readiness]]"
   - "[[Formative Assessment]]"
   - "[[Document]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 # David Coleman
@@ -75,7 +76,7 @@ updated: 2026-09-26
 > [!timeline] 生平与职涯
 > - **1990年代** 毕业于耶鲁大学获得历史与英国文学学士学位，荣获罗德学者奖学金前往牛津大学与剑桥大学深造英国古典文学，深受西方经典文本细读与公理化论证传统浸润。
 > - **2000年** 创立成长网络公司（The Grow Network），开发将大规模标准化统考数据转化为教师日常教学诊断报告的信息系统，该公司后被麦格劳-希尔教育集团收购。
-> - **2007年** 联合贾森·津巴（Jason Zimba）与休·皮门特尔创立非营利智库学生成就伙伴组织（Student Achievement Partners），专注于研究如何提升全美弱势学生的大学与就业竞争力。
+> - **2007年** 联合贾森·津巴（Jason Zimba）与休·皮门特尔创立非营利智库学生成就伙伴组织（Student Achievement Partners），专注于研究如何提升全美弱势学生的大学与就业[[Competitiveness|竞争力]]。
 > - **2009–2010年** 受[[National Governors Association|全国州长协会]]（NGA）与[[Council of Chief State School Officers|州首席教育官理事会]]（CCSSO）正式聘任，出任 [[Common Core State Standards|CCSS]] 英语语言艺术与读写标准首席起草人，全美巡回向各州政要宣讲标准的教学转向。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 13, 22)]]
 > - **2012年–至今** 出任美国大学理事会（College Board）总裁，强力推进全美大学入学考试 SAT 的百年重大改版，使 SAT 考查重点彻底转向深阅读、证据分析与核心词汇，与 CCSS 形成无缝衔接。
 

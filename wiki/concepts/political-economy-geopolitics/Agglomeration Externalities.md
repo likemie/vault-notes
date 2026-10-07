@@ -8,7 +8,7 @@ aliases:
 summary: "地理空间上高密度集聚的产业与研发集群所内生的正向经济溢出效应，由共享专业劳动力池、投入品供应商网络及隐性技术知识外溢三大马歇尔微观机制驱动；在现代产业政策与高科技竞争视角下，集聚外部性构成半导体产业极端地理集中的经济学动因，而追求地缘安全与供应链分散化的政策干预将显著稀释集聚红利并推高长期制造成本。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Technological Catch-up]]"
   - "[[Unit of Analysis]]"
   - "[[Innovation Park]]"
+  - "[[Competitiveness]]"
   - "[[Knowledge Exchange]]"
   - "[[Innovation Ecosystem]]"
   - "[[Industrial District]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Agglomeration Externalities
@@ -87,7 +88,7 @@ updated: 2026-10-05
 > | **[[Unit of Analysis\|分析单位]]** | 地理区域与产业集群生态 | 单一厂商与特定生产工厂 | 国家/地区整体生产要素禀赋 | 主权国家战略供应链安全 |
 > | **核心驱动** | 人才池流动、配套网络、隐性知识外溢 | 巨额固定资本投入与单位产出分摊 | 劳动力、土地或资本相对要素价格差异 | 国家主权意志、地缘竞争与防务韧性 |
 > | **空间表现** | 高度集中于少数特定城市群或[[Innovation Park\|科技园区]] | 聚焦于少数单一超大型晶圆制造厂 | 跨国梯度分工（如制造向低成本地区迁移） | 强制跨区域分散布局、多地备份设厂 |
-> | **政策取向** | 顺应市场集聚，打造世界级创新高地 | 鼓励产业并购，培育具备全球竞争力的龙头 | 推动自由贸易与基于效率的全球专业分工 | 牺牲部分经济效率，提供巨额补贴实施友岸外包 |
+> | **政策取向** | 顺应市场集聚，打造世界级创新高地 | 鼓励产业并购，培育具备全球[[Competitiveness\|竞争力]]的龙头 | 推动自由贸易与基于效率的全球专业分工 | 牺牲部分经济效率，提供巨额补贴实施友岸外包 |
 
 ---
 

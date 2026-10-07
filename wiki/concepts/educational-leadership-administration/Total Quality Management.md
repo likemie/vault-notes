@@ -7,7 +7,7 @@ aliases:
 summary: "全面质量管理（Total Quality Management, TQM）是以全员参与、流程持续改进（CQI）、学习者导向及客观数据决策为特征的组织治理范式。由戴明与朱兰奠基，经产业联盟（如 SEMATECH）实践后，于 1990 年代广泛渗透至高等教育质量保证与学校治理变革。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[National Innovation System]]"
   - "[[Corporate R&D Labs]]"
+  - "[[Competitiveness]]"
   - "[[Reflexivity]]"
   - "[[Technological Catch-up]]"
   - "[[Industry Affiliate Program]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Total Quality Management
@@ -161,7 +162,7 @@ updated: 2026-10-05
 > 阐明 TQM 不仅是企业微观管理工具，更是国家[[Systems of Innovation|创新系统]]内部打通研发、制造与用户反馈回路的制度性机制。
 
 > [!claim] [[Argument_Freeman_1995_CJE|Freeman (1995)]]
-> **TQM 作为研产一体化的微观组织[[Paradigm|范式]]** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）指出，战后日本国家创新系统的核心制度优势在于企业内部的深度横向整合：通过全面推行全面质量管理（TQM）与质量控制圈（Quality Control Circles, QC Circles），日本企业打破了传统专业壁垒，将生产车间工人、工艺工程师与[[Corporate R&D Labs|企业研发实验室]]紧密结合，并与上下游设备零部件供应商建立了长期的质量协同网络。这一制度安排确保了微观工艺缺陷能够在一线被迅速诊断和消除，使得大规模技术引进得以迅速转化为自主工艺领先。与之形成鲜明对照的是，前苏联高度集权的行业部委与[[Chinese Academy of Sciences|科学院]]体制将基础科研、应用开发与企业生产严格分割，企业不仅缺乏推行 TQM 的微观激励，更由于计划调拨体制而完全缺失用户—生产者之间的质量反馈机制，最终导致高额研发投入无法转化为产业竞争力。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11–13)]]
+> **TQM 作为研产一体化的微观组织[[Paradigm|范式]]** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）指出，战后日本国家创新系统的核心制度优势在于企业内部的深度横向整合：通过全面推行全面质量管理（TQM）与质量控制圈（Quality Control Circles, QC Circles），日本企业打破了传统专业壁垒，将生产车间工人、工艺工程师与[[Corporate R&D Labs|企业研发实验室]]紧密结合，并与上下游设备零部件供应商建立了长期的质量协同网络。这一制度安排确保了微观工艺缺陷能够在一线被迅速诊断和消除，使得大规模技术引进得以迅速转化为自主工艺领先。与之形成鲜明对照的是，前苏联高度集权的行业部委与[[Chinese Academy of Sciences|科学院]]体制将基础科研、应用开发与企业生产严格分割，企业不仅缺乏推行 TQM 的微观激励，更由于计划调拨体制而完全缺失用户—生产者之间的质量反馈机制，最终导致高额研发投入无法转化为产业[[Competitiveness|竞争力]]。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11–13)]]
 
 > [!citation-card] 弗里曼论全员质量管理与研产整合
 > 战后日本企业最重要的组织创新在于将质量控制转化为全员参与的持续改进，研发、生产制造与外部供应商通过紧密的横向反馈网络融为一体；这与前苏联行业部委所主导的科研与生产割裂体制形成了最鲜明的制度反差。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11–13)]]

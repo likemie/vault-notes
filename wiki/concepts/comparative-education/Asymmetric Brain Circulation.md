@@ -9,7 +9,7 @@ aliases:
 summary: "人才国际循环网络中的不均衡流动状态，表现为高水平科研人才持续流向发达国家，而流入引智则主要依赖学术水平较低的地区，且本土化替代难以弥补流失质量。"
 type: concept
 domain: "comparative-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
   - "region/global"
 related_concepts:
   - "[[Attrition]]"
+  - "[[Competitiveness]]"
   - "[[Going Native]]"
   - "[[Variable]]"
   - "[[Research Universities]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-30'
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Asymmetric Brain Circulation
@@ -44,7 +45,7 @@ updated: 2026-10-02
 ## 定义
 
 > [!def] 核心定义
-> **非对称人才循环（Asymmetric Brain Circulation）** 是指在一个国家或地区的科学系统中，高水平学者和科研人才的国际流动呈现出结构性失衡与非对等特征。具体表现为高端核心人才持续净流出至世界科学强国，而流入的引智人才在数量上虽能弥补[[Attrition\|流失]]，但在学术水平和研究质量上却主要局限于相对落后的地区，导致科学系统整体呈现学术竞争力退化的风险。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 41]])
+> **非对称人才循环（Asymmetric Brain Circulation）** 是指在一个国家或地区的科学系统中，高水平学者和科研人才的国际流动呈现出结构性失衡与非对等特征。具体表现为高端核心人才持续净流出至世界科学强国，而流入的引智人才在数量上虽能弥补[[Attrition\|流失]]，但在学术水平和研究质量上却主要局限于相对落后的地区，导致科学系统整体呈现学术[[Competitiveness|竞争力]]退化的风险。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 41]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向科研人才国际流动网络中“高水平流出”与“低水平流入”的质量与结构非对称性。

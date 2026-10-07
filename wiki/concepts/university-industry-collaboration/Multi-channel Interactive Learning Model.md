@@ -6,7 +6,7 @@ aliases:
 summary: "Caraça、Lundvall and Mendonça 提出的创新过程分析框架，将创新重新定位在学习经济之中，以螺旋式学习循环、三类知识池和界面概念为核心要素，论证科学是创新过程中无处不在但非主宰性的多元知识来源之一"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Learning Economy]]"
   - "[[Source of Knowledge]]"
   - "[[Absorptive Capacity]]"
+  - "[[Competitiveness]]"
   - "[[Innovation Ecosystem]]"
   - "[[Paradigm]]"
   - "[[Linear Model of Innovation]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Multi-channel Interactive Learning Model
@@ -78,7 +79,7 @@ updated: 2026-09-22
 ## 理论基础
 
 > [!tip]-
-> - **[[Learning Economy\|学习经济]]（Lundvall & Johnson, 1994）**— 该模型将创新过程重新定位在学习经济的语境中。学习经济强调知识和学习（而非传统生产要素）是经济竞争力的核心来源。[[Argument_Caraca_2009_TFSC\|(Caraça et al., 2009, p. 864)]]
+> - **[[Learning Economy\|学习经济]]（Lundvall & Johnson, 1994）**— 该模型将创新过程重新定位在学习经济的语境中。学习经济强调知识和学习（而非传统生产要素）是经济[[Competitiveness|竞争力]]的核心来源。[[Argument_Caraca_2009_TFSC\|(Caraça et al., 2009, p. 864)]]
 > - **[[Chain-linked Model\|链式模型]]（Kline & Rosenberg, 1986）**— 该模型是对链式模型的更新和扩展。保留了链式模型关于科学被调用也被创新过程所生产、反馈循环和创新的不确定性等核心洞见，同时补充了组织维度、多元[[Source of Knowledge\|知识来源]]和制度环境。[[Argument_Caraca_2009_TFSC\|(Caraça et al., 2009, pp. 863–864)]]
 > - **[[Absorptive Capacity\|吸收能力]]（Cohen & Levinthal, 1990）**— 界面概念与吸收能力密切关联。界面为企业提供了识别和吸收外部知识的管道，而吸收能力决定了企业能从这些管道中获取多少价值。[[Argument_Caraca_2009_TFSC\|(Caraça et al., 2009, p. 865)]]
 

@@ -12,7 +12,7 @@ subtype: event
 region: "global"
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[International Education]]"
   - "[[Performance Indicators]]"
+  - "[[Competitiveness]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Critical Geopolitics]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # 1967 Williamsburg Conference on the World Crisis in Education
@@ -113,7 +114,7 @@ updated: 2026-10-05
 > - **催生跨国量化指标浪潮** 会议对教育投入、流程与产出进行系统分析的呼吁，直接孕育了 20 世纪 70 至 80 年代[[OECD\|经合组织]]跨国[[Performance Indicators\|教育指标]]体系（[[International Indicators of Education Systems\|INES]]）与[[World Bank\|世界银行]]教育指标数据库的诞生。
 
 > [!finding-cards] 关键历史后果
-> - **话语[[Paradigm\|范式]]重塑** 彻底终结了战后初期纯粹基于人道主义与文化修养的教育话语，将教育牢固锚定为宏观经济增长、技术创新与国家竞争力的战略工具。
+> - **话语[[Paradigm\|范式]]重塑** 彻底终结了战后初期纯粹基于人道主义与文化修养的教育话语，将教育牢固锚定为宏观经济增长、技术创新与[[Competitiveness|国家竞争力]]的战略工具。
 > - **危机叙事的周期性复制** 为 1983 年美国《国家处在危险之中》（*[[A Nation at Risk 1983\|A Nation at Risk]]*）报告以及新世纪经合组织 [[PISA]] 测验所激发的“PISA 冲击”提供了历史范型与修辞蓝本。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 
 ---

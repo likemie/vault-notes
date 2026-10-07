@@ -31,6 +31,7 @@ related_concepts:
   - "[[Curiosity-Driven Research]]"
   - "[[Pluralistic Federal Funding System]]"
   - "[[Carnegie Classification of Institutions of Higher Education]]"
+  - "[[Competitiveness]]"
   - "[[Technology Transfer Office]]"
   - "[[Megascience Installations]]"
   - "[[Technology Transfer]]"
@@ -76,6 +77,7 @@ related_facts:
   - "[[Office of Science and Technology Policy]]"
   - "[[Industry-University Cooperative Research Centers]]"
   - "[[Engineering Research Centers]]"
+  - "[[Science and Technology Centers]]"
   - "[[NSF Supercomputer Centers]]"
 related_arguments: []
 sources:
@@ -90,7 +92,7 @@ title: "Argument_Atkinson_2008_TIS"
 argument_key: "Argument_Atkinson_2008_TIS"
 argument_display_title: "Research universities: Core of the US science and technology system"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 55
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -270,7 +272,7 @@ issuing_organization: ""
 
 2006 年[[Carnegie Classification of Institutions of Higher Education|卡内基高等教育机构分类]]显示，全美 4,387 所高校中仅有 199 所被列为高水平研究型大学（占 4.3%），其中 RU/VH 96 所，RU/H 103 所；约三分之一为私立大学，三分之二为州立公立大学。（pp.43–44）
 
-> [!dimension] 维持美国研究型大学卓越竞争力的组织生态维度
+> [!dimension] 维持美国研究型大学卓越[[Competitiveness|竞争力]]的组织生态维度
 > - **去中心化的市场分层竞争格局**
 >   全美不存在统一掌管高校编制与经费的中央教育部；公私立大学享有完全自主办学权，在生源、顶尖师资与科研基金上展开开放式横向竞争，倒逼大学持续革新科研条件。（pp.42–43）
 > - **全国统一的学术劳动力自由流动市场**
@@ -340,7 +342,7 @@ issuing_organization: ""
 面对大学与产业的鸿沟，联邦政府通过设立专项试点与关键法律重构，打通了成果转化的制度机制。（pp.40–42）
 
 > [!proc] 产学协同与[[Technology Transfer|技术转移]]机制的制度化落地
-> 1. **NSF 设立[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（[[Industry-University Cooperative Research Centers|I/UCRC]]）** 1978 年在[[Richard C. Atkinson|理查德·C·阿特金森]]（[[Richard C. Atkinson]]）担任主任期间，NSF 突破传统纯基础研究禁区，试点资助[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（Industry-University Cooperative Research Centers, I/UCRC）；后续拓展为长期资助（最长达 11 年）的[[Engineering Research Centers|工程研究中心]]（Engineering Research Centers, ERC）与科学技术中心（Science and Technology Centers, STC），使企业深度融入大学课题与博士生人才选拔。（pp.40–41）
+> 1. **NSF 设立[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（[[Industry-University Cooperative Research Centers|I/UCRC]]）** 1978 年在[[Richard C. Atkinson|理查德·C·阿特金森]]（[[Richard C. Atkinson]]）担任主任期间，NSF 突破传统纯基础研究禁区，试点资助[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（Industry-University Cooperative Research Centers, I/UCRC）；后续拓展为长期资助（最长达 11 年）的[[Engineering Research Centers|工程研究中心]]（Engineering Research Centers, ERC）与[[Science and Technology Centers|科学技术中心]]（Science and Technology Centers, STC），使企业深度融入大学课题与博士生人才选拔。（pp.40–41）
 > 2. **建立面向全美学者的[[NSF Supercomputer Centers|国家超级计算中心]]网络** 1980 年代 NSF 在 5 所大学竞争性设立[[NSF Supercomputer Centers|国家超级计算中心]]（Supercomputer Centers），[[Creativity|创造性]]地通过类似同行评议的申请机制向全美合格大学教师分配尖端运行机时，确立了[[Big Science|大科学]]算力基础设施公平共享的公共[[Paradigm|范式]]。（p.41）
 > 3. **通过 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》明确专利产权** 彻底终结了以往“联邦出资发明归政府所有、政府束之高阁”的僵化体制，将专利权直接赋予大学，并强制要求大学与发明学者分享许可版税收入。（pp.41–42）
 > 4. **大学[[Technology Transfer Office|技术转移办公室]]（TTO）与衍生企业蓬勃发展** 法律解绑极大激发了学者创业与大学专利授权意愿，各大学迅速成立专业技术转移办公室（[[Technology Transfer Office|TTO]]），成功孕育了生物医药与信息技术等高科技创新集群。（pp.41–42）

@@ -11,7 +11,7 @@ person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 born: 1835
 died: 1909
-lifespan: "1835–1909"
+lifespan: 1835–1909
 tags:
   - subject/comparative-education
   - theme/historiography
@@ -20,7 +20,6 @@ tags:
 summary: "美国哲学家、教育家，曾任圣路易斯学区总监与第四任美国联邦教育总署署长，于 1889 年系统阐释“比较教学科学”构想。"
 aliases:
   - 威廉·T·哈里斯
-  - 威廉·哈里斯
   - 威廉·托里·哈里斯
   - W. T. Harris
   - William Torrey Harris
@@ -33,7 +32,7 @@ related_facts: []
 related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[William H. Payne]]"
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # William T. Harris

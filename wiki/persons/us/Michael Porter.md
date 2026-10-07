@@ -9,7 +9,7 @@ summary: "美国哈佛商学院经济学与战略管理学者，当代竞争战�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 29
+person_related_count: 30
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Flow]]"
   - "[[Agglomeration Externalities]]"
   - "[[Paradigm]]"
+  - "[[Competitiveness]]"
   - "[[Empiricism]]"
   - "[[Innovation Ecosystem]]"
   - "[[Hub and Flow Imaginaries]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-07
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Michael Porter
@@ -96,7 +97,7 @@ updated: 2026-10-05
 > - **1973–至今** 任教于哈佛商学院，先后担任工商管理教授、主教威廉·劳伦斯大学教授（哈佛大学最高教职荣誉）。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 27)]]
 > - **1980** 出版《竞争战略》（*Competitive Strategy*），开创现代企业战略分析[[Paradigm|范式]]。
 > - **1990** 出版《[[National Competitive Advantage|国家竞争优势]]》（*The Competitive Advantage of Nations*），实证考察全球十个主要工业国的竞争演进，提出“国家钻石模型”与产业集群分析。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 20)]]
-> - **1990s–2000s** 担任多国政府与跨国组织经济政策顾问，推动全球范围内的区域创新集群与国家竞争力倡议。
+> - **1990s–2000s** 担任多国政府与跨国组织经济政策顾问，推动全球范围内的区域创新集群与[[Competitiveness|国家竞争力]]倡议。
 
 ---
 
@@ -107,7 +108,7 @@ updated: 2026-10-05
 >   - **代表著作** *Competitive Strategy* (1980); *Competitive Advantage* (1985).
 >   - **关键概念／方法** 五力分析模型、通用竞争战略（成本领先、差异化、集中化）、价值链分析。
 >   - **阶段转向** 突破早期管理学[[Empiricism|经验主义]]描述，将严谨的微观经济学逻辑确立为企业战略分析基石。
-> - **1990–1998 — [[National Competitive Advantage|国家竞争优势]]与产业集群空间理论** 从企业微观战略跨越至宏观国家与中观区域竞争力，探讨为何特定国家与特定城市能够在特定高科技产业中孕育出持续领先的领军企业。
+> - **1990–1998 — [[National Competitive Advantage|国家竞争优势]]与产业集群空间理论** 从企业微观战略跨越至宏观国家与中观区域[[Competitiveness|竞争力]]，探讨为何特定国家与特定城市能够在特定高科技产业中孕育出持续领先的领军企业。
 >   - **代表著作** *The Competitive Advantage of Nations* (1990); *On Competition* (1998).
 >   - **关键概念／方法** [[National Competitive Advantage|国家竞争优势]]、钻石模型、产业集群（Industrial Clusters）。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]
 >   - **阶段转向** 否定了传统古典经济学单纯依赖初级要素禀赋的静态比较优势假说，论证了国家和区域通过本土制度、教育投入与良性国内竞争动态“创造”高级要素的核心机制。

@@ -8,7 +8,7 @@ summary: "美国比较教育与国际高等教育泰斗，波士顿学院国际�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Champ]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Competitiveness]]"
   - "[[Protean Episteme]]"
   - "[[Creativity]]"
   - "[[Going Native]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Philip Altbach
@@ -130,7 +131,7 @@ updated: 2026-10-01
 > > 阿特巴赫与全球高等教育政策制定者关于跨国排名的深度博弈。
 > >
 > > - **阿特巴赫** 强调盲目追随西方量化指标与英美办学模式将导致发展中国家大学与本土发展脱节，主张大学必须首先扎根于本土社会的紧迫需求。
-> > - **全球新自由主义政策精英** 坚持只有通过参与国际排名的通用评价标准，大学才能在全球[[Knowledge-Based Economy|知识经济]]与人才竞争中获得世界级竞争力。
+> > - **全球新自由主义政策精英** 坚持只有通过参与国际排名的通用评价标准，大学才能在全球[[Knowledge-Based Economy|知识经济]]与人才竞争中获得世界级[[Competitiveness|竞争力]]。
 > >
 > > [!axis] 学术流动的收益评估：人才[[Attrition|流失]]（Brain Drain）vs 智力共享（Brain Gain）
 > > 国际学者与留学生跨国迁徙后果的理论争鸣。

@@ -8,7 +8,7 @@ aliases:
 summary: "高科技元器件厂商与下游整机用户之间的知识转移与协同设计接口机制，通过招募具备系统架构经验的工程师、免费输出开源应用说明书、研制示范系统原型并联合定制专用器件，在技术革命早期实质性扮演客户的外部研发与工程教育机构，消除通用技术扩散的知识与应用壁垒。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[General Purpose Technology]]"
   - "[[Knowledge Transfer]]"
+  - "[[Engineering Education]]"
   - "[[Paradigm]]"
   - "[[Technology Transfer]]"
   - "[[Document]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Application Engineering
@@ -56,7 +57,7 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> 应用工程（Application Engineering / Applications Engineering）是指高新技术基础元器件与材料供应商为了消除下游用户的技术吸收阻力、加速前沿[[General Purpose Technology|通用技术]]商业扩散而在组织内部设立的专业化技术中介与[[Knowledge Transfer|知识转移]]机制。应用工程团队通过将终端系统工程师（如计算机、消费电子、汽车等行业的系统设计人员）吸纳进企业内部，深入把握下游整机的功能与电路规范，并反向指导上游基础元器件的定义与定制；同时通过编制和免费发放详尽的《应用说明书》（Application Notes）、构建全功能示范系统原型（System Prototypes）以及提供现场联合调试，实质性充当了下游整机制造商的外部研发部门与工程教育培训机构。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 180–181, 189–194)]]
+> 应用工程（Application Engineering / Applications Engineering）是指高新技术基础元器件与材料供应商为了消除下游用户的技术吸收阻力、加速前沿[[General Purpose Technology|通用技术]]商业扩散而在组织内部设立的专业化技术中介与[[Knowledge Transfer|知识转移]]机制。应用工程团队通过将终端系统工程师（如计算机、消费电子、汽车等行业的系统设计人员）吸纳进企业内部，深入把握下游整机的功能与电路规范，并反向指导上游基础元器件的定义与定制；同时通过编制和免费发放详尽的《应用说明书》（Application Notes）、构建全功能示范系统原型（System Prototypes）以及提供现场联合调试，实质性充当了下游整机制造商的外部研发部门与[[Engineering Education|工程教育]]培训机构。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 180–181, 189–194)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向上游技术供给者通过主动输出系统级设计方案、开源工程图纸与工程培训，将组件技术与下游应用场景深度耦合的知识转移与客户赋能机制。
@@ -139,7 +140,7 @@ updated: 2026-10-03
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **供需知识整合** | 招聘下游系统工程师消除供需知识不对称，实现应用牵引的上游组件定制 | 基础元器件向复杂下游整机行业渗透初期 | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999)]] |
-> | **工程教育与知识扩散** | 开源说明书与示范样机充当产业外部研发与工程师工程教育载体，加速技术采纳 | 颠覆性通用目的技术的大规模跨行业扩散阶段 | Lécuyer |
+> | **[[Engineering Education\|工程教育]]与知识扩散** | 开源说明书与示范样机充当产业外部研发与工程师工程教育载体，加速技术采纳 | 颠覆性通用目的技术的大规模跨行业扩散阶段 | Lécuyer |
 
 ---
 

@@ -29,7 +29,7 @@ title: "Argument_Zhao_2025_JIntell"
 argument_key: "Argument_Zhao_2025_JIntell"
 argument_display_title: "Does Generative Artificial Intelligence Improve Students' Higher-Order Thinking? A Meta-Analysis Based on 29 Experiments and Quasi-Experiments"
 argument_kind: "journal-article"
-argument_related_count: 61
+argument_related_count: 62
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -79,6 +79,7 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Interaction Effect]]"
   - "[[Task Structure]]"
+  - "[[Engineering Education]]"
   - "[[Socratic Dialogue]]"
   - "[[Fade-out Effect]]"
   - "[[External Validity]]"
@@ -393,7 +394,7 @@ status: draft
 > - **长远后果** 最终测试表明，过度依赖 AI 走捷径的学生在独立编程测验与代码架构解释任务中表现极其糟糕，核心概念理解发生实质性滑坡。这一经典案例为本元分析中“低 SRL 组促学效应仅为 $0.284$”以及“长期干预易诱发认知外包”提供了鲜活的质性微观注脚。（pp. 5, 14–15）
 
 > [!case]- 代表性实证案例：工程[[Project-Based Learning\|项目式学习]]（PBL）中的真实任务驱动（Khan et al., 2023; Shahzad et al., 2024）
-> - **教学情境与项目设计** Khan et al. (2023) 在工程教育课程中引入以真实产业挑战为驱动的[[Project-Based Learning\|项目式学习]]（PBL），任务设定为“基于最低风速环境下的风力发电系统优化与涡轮叶片多类故障智能诊断”。
+> - **教学情境与项目设计** Khan et al. (2023) 在[[Engineering Education|工程教育]]课程中引入以真实产业挑战为驱动的[[Project-Based Learning\|项目式学习]]（PBL），任务设定为“基于最低风速环境下的风力发电系统优化与涡轮叶片多类故障智能诊断”。
 > - **人机协同交互形态** 学生组成跨学科团队，将 Gen-AI 作为“认知合作者（Cognitive Partner）”融入项目生命周期：AI 不仅协助梳理物理流体力学边界条件、提供多种仿真代码思路，还帮助团队比对不同工程方案的可行性与成本风险，支撑团队进行多次原型迭代。
 > - **成效证实** 实证数据显示，结合了真实 PBL 的人机协同不仅大幅提升了工程方案问题解决效率，而且通过团队集体效能感显著激发了学生的创造性设计思维。Shahzad et al. (2024) 亦在高等教育实证中验证了该模式对创意与表现的联合促进，印证了本元分析中 PBL 亚组高达 $g = 0.717$ 的优异成效。（pp. 5–6, 15）
 

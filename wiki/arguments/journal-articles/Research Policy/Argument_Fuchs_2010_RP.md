@@ -32,6 +32,7 @@ related_concepts:
   - "[[Star Scientists]]"
   - "[[Broad Agency Announcement]]"
   - "[[Saturation]]"
+  - "[[Competitiveness]]"
   - "[[Dual-Use Technology]]"
   - "[[Seed Funding]]"
   - "[[Professional Judgment]]"
@@ -81,9 +82,9 @@ title: "Argument_Fuchs_2010_RP"
 argument_key: "Argument_Fuchs_2010_RP"
 argument_display_title: "Rethinking the role of the state in technology development: DARPA and the case for embedded network governance"
 argument_kind: "journal-article"
-argument_related_count: 44
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Research Policy
 book_title: ""
@@ -180,7 +181,7 @@ issuing_organization: ""
 > | 年代周期 | 1958 | 1960s | 1970s | 1980s | 1990s | 2000s |
 > |---|---|---|---|---|---|---|
 > | **机构名称** | ARPA (1958–1972) | ARPA | DARPA (1972–1993) | DARPA | ARPA (1993–1996)<br>DARPA (1996–2008) | DARPA |
-> | **历史阶段** | 基础研究探索 | 军事任务攻坚 | 工业与技术聚焦 | 产业竞争力与国际化 | 军民两用与基础科研 | 转向军事采办交付 |
+> | **历史阶段** | 基础研究探索 | 军事任务攻坚 | 工业与技术聚焦 | 产业[[Competitiveness\|竞争力]]与国际化 | 军民两用与基础科研 | 转向军事采办交付 |
 > | **执政总统** | 艾森豪威尔 | 肯尼迪 / 约翰逊 | 尼克松 / 福特 / 卡特 | 里根 | 老布什 / 克林顿 | 小布什 (2001–2008) |
 > | **立法与政治环境** | 冷战初启；<br>[[Sputnik Shock 1957\|斯普特尼克危机]] (1957) | 冷战白热化；<br>越南战争爆发 | 越战结束；<br>[[Mansfield Amendment 1969\|曼斯菲尔德修正案 (1969)]]；<br>冷战缓和 | 星球大战计划；<br>应对日本半导体竞争；<br>国家合作研究法 (1984) | 冷战终结；<br>[[Sematech]] 转向国际化自立 (1995)；<br>被批军用转化迟缓 (1997) | 9/11 袭击与反恐战争；<br>阿富汗与伊拉克战事；<br>国家竞争力忧虑；<br>学界抗议削减基础研究 |
 > | **历任局长** | Johnson / Betts | Ruina / Sproull / Herzfeld / Rechtin | Lukasik / [[George Heilmeier\|Heilmeier]] / Fossum | Cooper / Duncan / Colladay / Fields | Reis / Denman / Lynn / Fernandez | [[Tony Tether\|Tether]] (2001–2008) |

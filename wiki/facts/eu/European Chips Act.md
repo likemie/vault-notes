@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Strategic Autonomy]]"
   - "[[Modern Industrial Policy]]"
+  - "[[Competitiveness]]"
   - "[[Policy Conditionalities]]"
   - "[[Vertical Disintegration]]"
 related_theories: []
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # European Chips Act
@@ -73,7 +74,7 @@ updated: 2026-10-06
 > 《欧洲[[CHIPS and Science Act|芯片法案]]》（EU Chips Act）号称动员超过 430 亿欧元的公共与私人投资，通过组织跨国研发试验线、在第二支柱下放宽成员国对欧洲首创晶圆厂的国家援助审查限制，并建立危机期应急优先供应机制，力争在 2030 年前将欧洲在全球半导体制造中的市场份额翻一番提升至 20%，但其实质模式受制于超国家财政预算匮乏，欧委会退守为协调者并高度依赖成员国各自掏钱。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 98, 100)]]; [[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 11–14)]]
 
 > [!policy-design]- 政策设计
-> - **政策目标** 增强欧洲在全品类芯片设计制造中的竞争力与供应韧性、化解关键元器件战略依赖，力争在 2030 年将欧洲全球芯片制造份额由不足 10% 提升至 20%（因全球市场同步扩张，实际意味着必须在 2030 年前将本土产能扩充至目前的 4 倍）。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 11–12)]]
+> - **政策目标** 增强欧洲在全品类芯片设计制造中的[[Competitiveness|竞争力]]与供应韧性、化解关键元器件战略依赖，力争在 2030 年将欧洲全球芯片制造份额由不足 10% 提升至 20%（因全球市场同步扩张，实际意味着必须在 2030 年前将本土产能扩充至目前的 4 倍）。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 11–12)]]
 > - **适用对象** 欧洲微电子研发机构、跨国与本土半导体制造巨头（[[Taiwan Semiconductor Manufacturing Corporation|台积电]]、格芯、意法半导体、英飞凌、恩智浦等）及上下游中小创新企业。
 > - **政策三大支柱（Three Pillars）**
 >   - **支柱一：欧洲芯片倡议（Chips for Europe Initiative）** 统筹 33 亿欧元欧盟预算资助下一代前沿工艺试验线（如亚 2nm 先进逻辑制程、FD-SOI 低功耗工艺、宽禁带半导体与先进封装）、建立云端芯片设计平台，并设立欧洲芯片能力中心网络；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 98)]]

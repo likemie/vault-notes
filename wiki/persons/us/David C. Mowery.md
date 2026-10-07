@@ -25,12 +25,12 @@ tags:
 related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Growth]]"
+  - "[[Competitiveness]]"
   - "[[Technology Transfer]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[General Purpose Technology]]"
   - "[[Learning by Doing]]"
   - "[[Sage]]"
-  - "[[Competitiveness]]"
   - "[[Reliability]]"
   - "[[Paradigm]]"
   - "[[Dual-Use Technology]]"
@@ -103,7 +103,7 @@ updated: 2026-10-05
 > - **1978–1981** 在斯坦福大学（Stanford University）获得经济学博士学位，师从内森·罗森伯格，奠定工业研发组织历史分析与技术变迁经济学实证基础。
 > - **1981–1987** 先后任教于卡内基梅隆大学（Carnegie Mellon University），开创性开展美国工业研发实验室组织演进与跨国技术合作政策研究。
 > - **1988–至今** 任职于加州大学伯克利分校哈斯商学院，历任工商管理与公共政策教授、哈斯讲席教授，兼任 NBER 生产率与技术创新项目研究员。
-> - **1990s–2000s** 深度参与[[National Academy of Sciences|美国国家科学院]]（National Academy of Sciences）、[[National Research Council|国家研究委员会]]（National Research Council, NRC）及[[OECD|经济合作与发展组织]]（OECD）关于国家科技政策、半导体产业竞争力、[[Technology Transfer|大学技术转移]]与国防研发溢出效应的多项重大咨询评估。
+> - **1990s–2000s** 深度参与[[National Academy of Sciences|美国国家科学院]]（National Academy of Sciences）、[[National Research Council|国家研究委员会]]（National Research Council, NRC）及[[OECD|经济合作与发展组织]]（OECD）关于国家科技政策、半导体产业[[Competitiveness|竞争力]]、[[Technology Transfer|大学技术转移]]与国防研发溢出效应的多项重大咨询评估。
 
 ---
 
@@ -181,7 +181,7 @@ updated: 2026-10-05
 > > - **传统共性研发倡导者（Sakakibara, 1983; Grewlich, 1984）** 主张将政府资金集中于竞争前阶段的基础工艺共享，以避免企业重复研发投资。
 >
 > > [!axis] 国防研发支持效能：永久溢出引擎 vs 阶段性递减的生命周期
-> > 围绕国防开支能否作为国家长期促进民用商业高科技竞争力的普适政策工具展开争论。
+> > 围绕国防开支能否作为国家长期促进民用商业高科技[[Competitiveness|竞争力]]的普适政策工具展开争论。
 > >
 > > - **国防技术全能驱动论** 认为军工部门雄厚的研发预算与先导采购能够持续推动尖端技术突破并自然惠及民用经济。
 > > - **[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]]** 强调国防支持具有严格的生命周期性：仅在产业萌芽与成长初期发挥决定性孵化效能；当商业市场成熟后，外溢方向发生逆转，军工专用研发的社会效益显著递减，且 9/11 后以反恐为导向的研发预算重组极易损害大学基础研究公地。

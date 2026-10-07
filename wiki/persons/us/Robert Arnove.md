@@ -9,10 +9,10 @@ summary: "美国著名比较教育学泰斗，比较与国际教育学会（CIES
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 49
-person_related_level: 5
-person_related_stars: "⭐⭐⭐⭐⭐"
-person_related_color: "#ffedd5"
+person_related_count: 50
+person_related_level: 6
+person_related_stars: "⭐⭐⭐⭐⭐⭐"
+person_related_color: "#fef3c7"
 born: "1938"
 died: ""
 lifespan: "1938–至今"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[New Managerialism]]"
   - "[[Dual School System]]"
   - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Competitiveness]]"
   - "[[Falsification]]"
   - "[[Permeable State]]"
   - "[[Rich and Thick Description]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-28
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Robert Arnove
@@ -200,7 +201,7 @@ updated: 2026-10-03
 > > [!axis] 宏观世界体系批判 vs 新自由主义全球治理倡导
 > > 争论焦点在于国际金融与经贸机构（[[World Bank|世界银行]]、[[World Trade Organization|世贸组织]]）推行的[[Endogenous and Exogenous Privatisation|教育私有化]]、绩效问责与服务贸易，究竟是提升教育质量的客观规律，还是服务于跨国资本积累的[[Disciplina and Doctrina|规训]]霸权。
 > >
-> > - **新自由主义与技术官僚支持者** 坚持主张市场竞争、教育券与[[Cost-Benefit Analysis|成本效益分析]]能够提高教育系统效率与国家竞争力。
+> > - **新自由主义与技术官僚支持者** 坚持主张市场竞争、教育券与[[Cost-Benefit Analysis|成本效益分析]]能够提高教育系统效率与[[Competitiveness|国家竞争力]]。
 > > - **阿诺夫批判学派 (Arnove, 1980, 2009)** 严厉指出，跨国经贸规则与金融借贷严重侵蚀民族国家的教育主权，在边缘国家不仅未能实现结构性变革，反而固化了国内外既有的阶层剥削与依附格局。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–107, 110–111)]]
 >
 > > [!axis] 全球本土辩证法中微观抵抗潜能的评价

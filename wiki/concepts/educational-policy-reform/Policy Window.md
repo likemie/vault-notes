@@ -9,7 +9,7 @@ aliases:
 summary: "公共政策多源流框架的核心概念，指问题流、政策方案流与政治流三者汇聚时短暂开启的有利于政策采纳的关键机遇期；在教育循证改革中，政策之窗的时间压缩特性直接决定了证据的形态选择，促使行动者转向专业经验、同行信任与微观对标分析等高效能替代证据。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Professional Judgment]]"
   - "[[College and Career Readiness]]"
+  - "[[Competitiveness]]"
   - "[[Hypothesis]]"
   - "[[Venue Shopping]]"
 related_theories:
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 # Policy Window
@@ -78,7 +79,7 @@ updated: 2026-09-26
 ## 核心要素
 
 > [!feature] 核心要素
-> - **三流汇聚耦合（Coupling）** 问题流（如跨国测评落后指标）、政策流（如[[College and Career Readiness|大学与职业就绪]]标准草案）与政治流（如两党州长对经济竞争力的共识）在同一时空节点实现精准对接。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 4–6)]]
+> - **三流汇聚耦合（Coupling）** 问题流（如跨国测评落后指标）、政策流（如[[College and Career Readiness|大学与职业就绪]]标准草案）与政治流（如两党州长对经济[[Competitiveness|竞争力]]的共识）在同一时空节点实现精准对接。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 4–6)]]
 > - **时间压缩效应（Time Compression）** 窗口开启时间通常极短（如数月至一年），极大压缩了常规实证调研与全量同行评审的时间裕度。
 > - **外生催化激励（Exogenous Incentives）** 突发性的财政资助（如联邦[[Race to the Top|力争上游]]数十亿美元拨款）往往扮演强行撬开并维持窗口的外部催化剂。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 16–17)]]
 

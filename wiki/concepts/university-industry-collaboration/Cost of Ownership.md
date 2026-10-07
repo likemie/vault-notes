@@ -7,7 +7,7 @@ aliases:
 summary: "所有权成本（Cost of Ownership, COO）是评估制造装备与研发设施全生命周期单位产出综合成本的标准模型。该模型综合纳入初始资本折旧、日常运维、停机损失及良率损失，确立了单位合格品成本测算标准，是产学研协同与技术验证的核心基准。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,6 +18,7 @@ tags:
   - sematech
 related_concepts:
   - "[[Reliability]]"
+  - "[[Competitiveness]]"
   - "[[Return on Investment]]"
   - "[[Research Translation]]"
   - "[[Valley of Death]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-07
 ---
 
 # Cost of Ownership
@@ -56,7 +57,7 @@ updated: 2026-10-04
 ## 定义
 
 > [!def] 核心定义
-> **所有权成本（Cost of Ownership, COO）**是指在装备或技术系统的整个生命周期内，为获得、运营、维护该设备并生产单位合格产出物所分摊的全部直接与间接经济成本之和。与仅关注购置标价的传统核算不同，COO 模型将初始固定投资、可变运行维护费用、设备[[Reliability|可靠性]]/利用率损失以及材料与良率缺陷损失统一转化为“单位合格产出成本”（Cost per Good Unit），成为衡量先进制造装备生命周期真实经济价值与产业竞争力的权威基准。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 746)]]
+> **所有权成本（Cost of Ownership, COO）**是指在装备或技术系统的整个生命周期内，为获得、运营、维护该设备并生产单位合格产出物所分摊的全部直接与间接经济成本之和。与仅关注购置标价的传统核算不同，COO 模型将初始固定投资、可变运行维护费用、设备[[Reliability|可靠性]]/利用率损失以及材料与良率缺陷损失统一转化为“单位合格产出成本”（Cost per Good Unit），成为衡量先进制造装备生命周期真实经济价值与产业[[Competitiveness|竞争力]]的权威基准。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 746)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向设备全生命周期内资本投入、物料消耗、停机维护与良率损失的综合经济度量机制。

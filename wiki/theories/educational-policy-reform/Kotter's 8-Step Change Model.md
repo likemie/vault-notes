@@ -9,7 +9,7 @@ aliases:
 summary: "约翰·科特提出的组织变革领导力经典理论，将成功的复杂组织变革提炼为营造变革氛围、动员全员参与、实施并固化变革三大阶段与八个递进步骤。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 20
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
+  - "[[Competitiveness]]"
   - "[[STEM Education]]"
   - "[[Attrition]]"
   - "[[Research Question]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Kotter's 8-Step Change Model
@@ -70,7 +71,7 @@ updated: 2026-10-05
 
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 哈佛商学院教授约翰·科特（John Kotter）于 1995 年在《哈佛商业评论》发表奠基性论文 *Leading Change: Why Transformation Efforts Fail*，随后在 1996 年专著 *Leading Change* 中完成系统化八步建构。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–3)]]
-> - **原初问题** 为什么绝大多数（超过 70%）声称旨在提升竞争力的大型组织重组与战略再造项目最终均以虎头蛇尾、员工抵触或彻底失败告终。
+> - **原初问题** 为什么绝大多数（超过 70%）声称旨在提升[[Competitiveness|竞争力]]的大型组织重组与战略再造项目最终均以虎头蛇尾、员工抵触或彻底失败告终。
 > - **理论资源与材料** 科特对百余家试图重组、兼并或推行重大战略转型的跨国企业、公共机构及学术机构进行了长达数十年的实地追踪与咨询经验提炼。
 > - **形成路径** 从大量失败案例中反向识别出破坏变革的八大典型致命失误（如自满情绪蔓延、缺乏强有力指导团队、愿景模糊等），从而正向归纳出防御性的三阶段八步骤演进链条。
 

@@ -6,7 +6,7 @@ aliases:
 summary: "国家利用教育系统在边疆地区推行统一国族认同，Yan & Morris 将香港 LS→CSD 纳入此框架与西藏、新疆、内蒙古并置分析"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 19
+theory_related_count: 20
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Membership-Creating Function of Education]]"
   - "[[Document]]"
   - "[[Sinicisation]]"
+  - "[[Patriotic Education]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[One Country, Two Systems]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 ## 核心主张
@@ -88,7 +89,7 @@ updated: 2026-09-17
 > | **内蒙古** | "中华民族"叙事替代蒙古族历史叙事 | [[Argument_Bulag_2024_CE\|Bulag (2024)]] |
 > | **香港** | 以 [[Liberal Studies\|LS]]→[[Citizenship and Social Development\|CSD]] 替代实现从温和"中国背景"到强制爱国教育的转变 | [[Argument_Yan_2025_JCS\|Yan & Morris (2025)]]; Vickers & Morris (2022) |
 >
-> > [[Argument_Yan_2025_JCS\|Yan & Morris (2025, p. 490)]] 指出香港案例的区别性特征："香港的'华化'（[[Sinicisation]]）被更谨慎地执行，先以 LS 的温和'中国背景'为入口，后以 CSD 的强制爱国教育收尾。"
+> > [[Argument_Yan_2025_JCS\|Yan & Morris (2025, p. 490)]] 指出香港案例的区别性特征："香港的'华化'（[[Sinicisation]]）被更谨慎地执行，先以 LS 的温和'中国背景'为入口，后以 CSD 的强制[[Patriotic Education|爱国教育]]收尾。"
 
 ## 发展脉络
 

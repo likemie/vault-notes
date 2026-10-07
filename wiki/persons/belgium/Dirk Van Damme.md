@@ -8,10 +8,10 @@ summary: "比利时比较教育学者与国际教育政策专家，曾任根特�
 type: person
 nationality: belgium
 person_region: "belgium"
-person_related_count: 39
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 40
+person_related_level: 5
+person_related_stars: "⭐⭐⭐⭐⭐"
+person_related_color: "#ffedd5"
 born: "1956"
 died: ""
 lifespan: "1956–至今"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Scientific Method]]"
   - "[[Theory of Knowledge]]"
+  - "[[Metascience]]"
   - "[[Constructivist Paradigm]]"
   - "[[Discipline-Based Theory]]"
   - "[[Axiology]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Dirk Van Damme
@@ -113,7 +114,7 @@ updated: 2026-10-05
 > - **2018–至今 — [[Evidence-Based Education\|循证教育]]知识生态重构与自主演绎科学[[Disciplinary Institutionalization|学科建制]]** 全面反思全球教育科研与决策实践之间的严重断层，诊断供给侧的[[Epistemology\|认识论]]赤字与意识形态羁绊。
 >   - **代表著作** *Perspectives on education research* (2022, In Revai (Ed.))。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 202–206)]]
 >   - **关键概念／方法** [[Epistemology]]、[[Evidence-Based Education]]、[[Blue Skies Research]]、[[Replication in Education Research\|复现危机]]、内幕偏误。
->   - **阶段转向** 从具体的国际政策比较与测评项目，上升为对教育学作为一门独立[[Scientific Method\|经验科学]]的学科[[Theory of Knowledge\|知识论]]基础与治理机制的元科学批判。
+>   - **阶段转向** 从具体的国际政策比较与测评项目，上升为对教育学作为一门独立[[Scientific Method\|经验科学]]的学科[[Theory of Knowledge\|知识论]]基础与治理机制的[[Metascience|元科学]]批判。
 
 ---
 

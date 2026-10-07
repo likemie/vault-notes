@@ -2620,6 +2620,16 @@
     ]
   },
   {
+    "title": "Terminal Courses",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Terminal Courses.md",
+    "aliases": [
+      "终结性课程",
+      "终结课程",
+      "terminal course"
+    ]
+  },
+  {
     "title": "Theory of Knowledge",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Theory of Knowledge.md",
@@ -3815,6 +3825,16 @@
     ]
   },
   {
+    "title": "Patriotic Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Patriotic Education.md",
+    "aliases": [
+      "爱国主义教育",
+      "爱国教育",
+      "education for patriotism"
+    ]
+  },
+  {
     "title": "Phronesis",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Phronesis.md",
@@ -4408,7 +4428,6 @@
       "Educational Evidence Clearinghouse",
       "Clearinghouse",
       "教育证据中介与清算中心",
-      "EEC",
       "教育证据信息交流所",
       "教育证据交流所",
       "循证教育证据库"
@@ -6473,6 +6492,19 @@
     ]
   },
   {
+    "title": "Dual Appointment",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Dual Appointment.md",
+    "aliases": [
+      "双重聘任制",
+      "教师双重聘任",
+      "Dual Appointments",
+      "双重编制",
+      "跨学科兼聘制",
+      "Joint Appointment"
+    ]
+  },
+  {
     "title": "Economy of Experience",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Economy of Experience.md",
@@ -6488,6 +6520,17 @@
     "aliases": [
       "就业力",
       "就业能力"
+    ]
+  },
+  {
+    "title": "Engineering Education",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Engineering Education.md",
+    "aliases": [
+      "工程教育",
+      "高等工程教育",
+      "Engineering Education Research",
+      "高等工程人才培养"
     ]
   },
   {
@@ -10825,6 +10868,16 @@
     ]
   },
   {
+    "title": "Focused Research Organization",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Focused Research Organization.md",
+    "aliases": [
+      "聚焦研究组织",
+      "FRO",
+      "Focused Research Organizations"
+    ]
+  },
+  {
     "title": "Funding Exit Mechanism",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Funding Exit Mechanism.md",
@@ -10911,6 +10964,16 @@
     ]
   },
   {
+    "title": "Metascience",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Metascience.md",
+    "aliases": [
+      "元科学",
+      "科学的科学",
+      "Science of Science"
+    ]
+  },
+  {
     "title": "Mission-Oriented Innovation Policy",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Mission-Oriented Innovation Policy.md",
@@ -10958,6 +11021,15 @@
     ]
   },
   {
+    "title": "Permissionless Innovation",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Permissionless Innovation.md",
+    "aliases": [
+      "无许可创新",
+      "Permissionless Experimentation"
+    ]
+  },
+  {
     "title": "Picking the Willing",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Picking the Willing.md",
@@ -10995,6 +11067,16 @@
     ]
   },
   {
+    "title": "Portfolio-Based Research Funding",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Portfolio-Based Research Funding.md",
+    "aliases": [
+      "组合式科研资助",
+      "组合式拨款",
+      "Portfolio Approach to Grantmaking"
+    ]
+  },
+  {
     "title": "Problem of Many Hands",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Problem of Many Hands.md",
@@ -11025,6 +11107,16 @@
       "公共价值",
       "公共价值创造",
       "public value creation"
+    ]
+  },
+  {
+    "title": "Pull Mechanisms for Innovation",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Pull Mechanisms for Innovation.md",
+    "aliases": [
+      "创新拉动机制",
+      "拉动机制",
+      "Pull Mechanism"
     ]
   },
   {
@@ -11072,6 +11164,19 @@
       "早期种子资助",
       "Strategic Seeding",
       "Seed money"
+    ]
+  },
+  {
+    "title": "Sunset Provisions",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Sunset Provisions.md",
+    "aliases": [
+      "日落条款",
+      "日落原则",
+      "Sunset Provision",
+      "资助日落机制",
+      "周期性日落审查",
+      "Sunset Clause"
     ]
   },
   {
@@ -12213,6 +12318,8 @@
     "type": "concept",
     "path": "wiki/concepts/university-industry-collaboration/Competitiveness.md",
     "aliases": [
+      "竞争力",
+      "国家竞争力",
       "高等教育竞争力",
       "竞争性地缘政治装置",
       "competitive university"
@@ -12790,6 +12897,15 @@
       "pre-competitive research",
       "precompetitive",
       "前竞争研发"
+    ]
+  },
+  {
+    "title": "Process Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/university-industry-collaboration/Process Knowledge.md",
+    "aliases": [
+      "过程知识",
+      "技术过程知识"
     ]
   },
   {
@@ -19335,7 +19451,6 @@
     "path": "wiki/instruments/scales/Computational Thinking Scale.md",
     "aliases": [
       "计算思维量表",
-      "CTS",
       "计算思维能力量表",
       "Computational Thinking Scale for Students"
     ]
@@ -22544,6 +22659,17 @@
     ]
   },
   {
+    "title": "George A. Keyworth II",
+    "type": "person",
+    "path": "wiki/persons/us/George A. Keyworth II.md",
+    "aliases": [
+      "乔治·凯沃思",
+      "乔治·A·凯沃思二世",
+      "George Keyworth",
+      "George A. Keyworth"
+    ]
+  },
+  {
     "title": "George Bereday",
     "type": "person",
     "path": "wiki/persons/us/George Bereday.md",
@@ -23513,7 +23639,6 @@
     "path": "wiki/persons/us/William T. Harris.md",
     "aliases": [
       "威廉·T·哈里斯",
-      "威廉·哈里斯",
       "威廉·托里·哈里斯",
       "W. T. Harris",
       "William Torrey Harris"
@@ -25951,6 +26076,15 @@
     ]
   },
   {
+    "title": "1982 United World Colleges Scholarship Endowment Proposal",
+    "type": "fact",
+    "path": "wiki/facts/global/1982 United World Colleges Scholarship Endowment Proposal.md",
+    "aliases": [
+      "1982年联合世界书院永久奖学金基金方案",
+      "UWC permanent scholarship endowment proposal"
+    ]
+  },
+  {
     "title": "Baby PISA",
     "type": "fact",
     "path": "wiki/facts/global/Baby PISA.md",
@@ -26352,6 +26486,15 @@
     ]
   },
   {
+    "title": "Science Foundation Ireland",
+    "type": "fact",
+    "path": "wiki/facts/ireland/Science Foundation Ireland.md",
+    "aliases": [
+      "爱尔兰科学基金会",
+      "SFI"
+    ]
+  },
+  {
     "title": "Hunt Report",
     "type": "fact",
     "path": "wiki/facts/ireland/Hunt Report.md",
@@ -26651,6 +26794,16 @@
     ]
   },
   {
+    "title": "Science Technology and Social Change Curriculum Pilot",
+    "type": "fact",
+    "path": "wiki/facts/multi/Science Technology and Social Change Curriculum Pilot.md",
+    "aliases": [
+      "科学技术与社会变迁课程试点",
+      "Science Technology and Social Change",
+      "科学、技术与社会变迁"
+    ]
+  },
+  {
     "title": "Transnationalism and America Project SYSU",
     "type": "fact",
     "path": "wiki/facts/multi/Transnationalism and America Project SYSU.md",
@@ -26855,7 +27008,6 @@
       "最佳证据综合",
       "最佳证据综合项目",
       "Best Evidence Synthesis Iteration",
-      "BES",
       "NZ BES"
     ]
   },
@@ -27605,6 +27757,15 @@
     "path": "wiki/facts/uk/UK Centre for Evidence-based Policy.md",
     "aliases": [
       "英国循证政策中心"
+    ]
+  },
+  {
+    "title": "United Kingdom Metascience Unit",
+    "type": "fact",
+    "path": "wiki/facts/uk/United Kingdom Metascience Unit.md",
+    "aliases": [
+      "英国元科学单元",
+      "UK Metascience Unit"
     ]
   },
   {
@@ -28666,19 +28827,6 @@
     ]
   },
   {
-    "title": "SBIR and STTR Programs",
-    "type": "fact",
-    "path": "wiki/facts/us/SBIR and STTR Programs.md",
-    "aliases": [
-      "SBIR",
-      "STTR",
-      "Small Business Innovation Research",
-      "Small Business Technology Transfer",
-      "小企业创新研究计划",
-      "小企业技术转移计划"
-    ]
-  },
-  {
     "title": "Science, The Endless Frontier 1945",
     "type": "fact",
     "path": "wiki/facts/us/Science, The Endless Frontier 1945.md",
@@ -29067,6 +29215,15 @@
       "ETS",
       "美国教育考试服务中心",
       "教育考试服务中心"
+    ]
+  },
+  {
+    "title": "EUV LLC",
+    "type": "fact",
+    "path": "wiki/facts/us/EUV LLC.md",
+    "aliases": [
+      "极紫外有限责任公司",
+      "Extreme Ultraviolet Limited Liability Company"
     ]
   },
   {
@@ -29933,6 +30090,15 @@
     ]
   },
   {
+    "title": "Nuclear Regulatory Reform Executive Orders 2025",
+    "type": "fact",
+    "path": "wiki/facts/us/Nuclear Regulatory Reform Executive Orders 2025.md",
+    "aliases": [
+      "2025年核监管改革行政令",
+      "2025 nuclear executive orders"
+    ]
+  },
+  {
     "title": "October 2022 US Semiconductor Export Controls",
     "type": "fact",
     "path": "wiki/facts/us/October 2022 US Semiconductor Export Controls.md",
@@ -29996,6 +30162,17 @@
       "恢复黄金标准科学行政令",
       "Restoring Gold Standard Science",
       "Executive Order on Restoring Gold Standard Science"
+    ]
+  },
+  {
+    "title": "Science A New Golden Age 2026",
+    "type": "fact",
+    "path": "wiki/facts/us/Science A New Golden Age 2026.md",
+    "aliases": [
+      "科学：新的黄金时代",
+      "科学新黄金时代",
+      "Science: A New Golden Age",
+      "Kratsios report"
     ]
   },
   {
@@ -30088,6 +30265,15 @@
     ]
   },
   {
+    "title": "Workforce Pell Grants 2025",
+    "type": "fact",
+    "path": "wiki/facts/us/Workforce Pell Grants 2025.md",
+    "aliases": [
+      "劳动力助学金",
+      "Workforce Pell"
+    ]
+  },
+  {
     "title": "WWC SCD Pilot Standards",
     "type": "fact",
     "path": "wiki/facts/us/WWC SCD Pilot Standards.md",
@@ -30095,6 +30281,15 @@
       "WWC SCD Pilot Standards 2010",
       "WWC单一个案设计试行标准",
       "WWC SCD标准"
+    ]
+  },
+  {
+    "title": "Accelerating Medicines Partnership",
+    "type": "fact",
+    "path": "wiki/facts/us/Accelerating Medicines Partnership.md",
+    "aliases": [
+      "加速药物伙伴关系",
+      "AMP"
     ]
   },
   {
@@ -30341,6 +30536,24 @@
     ]
   },
   {
+    "title": "Genesis Mission",
+    "type": "fact",
+    "path": "wiki/facts/us/Genesis Mission.md",
+    "aliases": [
+      "创世纪计划",
+      "创世任务"
+    ]
+  },
+  {
+    "title": "Human Genome Project",
+    "type": "fact",
+    "path": "wiki/facts/us/Human Genome Project.md",
+    "aliases": [
+      "人类基因组计划",
+      "Human Genome Project"
+    ]
+  },
+  {
     "title": "Industry-University Cooperative Research Centers",
     "type": "fact",
     "path": "wiki/facts/us/Industry-University Cooperative Research Centers.md",
@@ -30498,6 +30711,16 @@
     ]
   },
   {
+    "title": "NSF X-Labs",
+    "type": "fact",
+    "path": "wiki/facts/us/NSF X-Labs.md",
+    "aliases": [
+      "X实验室",
+      "X-Labs",
+      "NSF X Labs"
+    ]
+  },
+  {
     "title": "Number Rockets",
     "type": "fact",
     "path": "wiki/facts/us/Number Rockets.md",
@@ -30649,6 +30872,32 @@
     "aliases": [
       "数学根基方案",
       "ROOTS Math"
+    ]
+  },
+  {
+    "title": "SBIR and STTR Programs",
+    "type": "fact",
+    "path": "wiki/facts/us/SBIR and STTR Programs.md",
+    "aliases": [
+      "SBIR",
+      "STTR",
+      "Small Business Innovation Research",
+      "Small Business Technology Transfer",
+      "小企业创新研究计划",
+      "小企业技术转移计划",
+      "小企业创新研究与技术转移计划"
+    ]
+  },
+  {
+    "title": "Science and Technology Centers",
+    "type": "fact",
+    "path": "wiki/facts/us/Science and Technology Centers.md",
+    "aliases": [
+      "科学技术中心",
+      "STC",
+      "NSF STC",
+      "科学技术中心计划",
+      "Science and Technology Centers Integrative Partnerships"
     ]
   },
   {
@@ -31228,6 +31477,11 @@
     "title": "Argument_Peterson_1987_OpenCourt_Ch07",
     "type": "argument",
     "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch07.md"
+  },
+  {
+    "title": "Argument_Peterson_1987_OpenCourt_Ch08",
+    "type": "argument",
+    "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch08.md"
   },
   {
     "title": "Argument_QiMei_2015_EducationalResearchMethods",
@@ -32313,6 +32567,11 @@
     "title": "Argument_Bouckaert_2023_OECD",
     "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md"
+  },
+  {
+    "title": "Argument_Kratsios_2026_OSTP",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md"
   },
   {
     "title": "Argument_RoyalSociety_2026_ScienceForSociety",

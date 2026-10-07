@@ -9,7 +9,7 @@ aliases:
 summary: "解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学新制度主义理论，阐明组织趋同源于对制度合法性与合理化神话的追求而非纯粹的技术效率"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 37
+theory_related_count: 38
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Industry Affiliate Program]]"
   - "[[International Education]]"
   - "[[Policy Borrowing]]"
+  - "[[Competitiveness]]"
   - "[[Knowledge Production]]"
   - "[[Evidence Era]]"
   - "[[Initial Teacher Training]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-18
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Institutional Isomorphism
@@ -120,7 +121,7 @@ updated: 2026-10-06
 >   > [!evidence-grid]- 证据
 >   > - **[[Corporate University\|企业大学]]命名模仿** 众多跨国公司普遍采用源自美国的“[[Corporate University\|企业大学]]”称谓框架自身培训体系，以此在同行竞争中迅速获取学术权威与现代性声誉。[[Argument_Hartmann_2022_CorporateEducation\|(Hartmann, 2022, p. 189)]]
 >   > - **大学微电子中心标杆复制** 面对微细加工装备成本暴涨与日本竞争的不确定性，全美顶尖工程院校密切监视先行者并复制成功经验；康奈尔大学国家亚微米设施（[[National Research and Resource Facility for Submicron Structures|NRRFSS]]）主动向加州理工、密歇根大学等 40 余所院校输出设计蓝本，促成同类大学中心在[[Industry Affiliate Program|产业联盟计划]]（CAP）等组织结构上的高度模仿趋同。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 292, 297)]]
->   > - **[[International Education\|国际教育]][[Policy Borrowing\|政策借用]]** 面对提升国家教育竞争力的焦虑，英格兰等国政策制定者密集模仿 [[PISA]] 高表现国家（如芬兰模式、新加坡教学法），将其去语境化包装为最佳实践。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 91–92)]]
+>   > - **[[International Education\|国际教育]][[Policy Borrowing\|政策借用]]** 面对提升国家教育[[Competitiveness|竞争力]]的焦虑，英格兰等国政策制定者密集模仿 [[PISA]] 高表现国家（如芬兰模式、新加坡教学法），将其去语境化包装为最佳实践。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 91–92)]]
 > - **前提二** 模仿场域内被公认为成功、创新或具有声望的领头羊，能以最低的探索成本为组织抵御外部质疑。
 > - **推导** 认知与技术不确定性 $\rightarrow$ 寻找声誉标杆与流通的[[Rationalized Myth\|合理化神话]] $\rightarrow$ 复制领先者的外显结构与修辞模式 $\rightarrow$ 导致跨国与跨机构的模仿型趋同。
 

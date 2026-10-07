@@ -9,7 +9,7 @@ aliases:
 summary: "根据学术能力、测试成绩或职业取向将学生分配至不同课程轨道、教学班组或学校类型的制度化分流实践，在宏观上加剧社会阶层隔离并削弱公平与动机，在微观上强化能力固化信念与自我实现预言"
 type: concept
 domain: "sociology-of-education"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Nerd]]"
   - "[[Mediatised Governance]]"
   - "[[Paradigm]]"
+  - "[[Competitiveness]]"
   - "[[Interaction Effect]]"
   - "[[Variable]]"
   - "[[Emergence]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Tracking
@@ -218,7 +219,7 @@ updated: 2026-10-01
 > > [!axis] 效率主义因材施教 vs 阶层再生产与公平剥夺
 > > 争论分轨制究竟是实现因材施教、保障精英卓越的必要组织技术，还是固化社会阶层特权的隐蔽再生产机器。
 > >
-> > - **精英选拔效率论** 辩护者认为，针对拔尖学生设置独立快轨能够避免教学进度的平庸化妥协，为国家培养最具竞争力的尖端科技与学术人才。
+> > - **精英选拔效率论** 辩护者认为，针对拔尖学生设置独立快轨能够避免教学进度的平庸化妥协，为国家培养最具[[Competitiveness|竞争力]]的尖端科技与学术人才。
 > > - **社会批判再生产论** 批判学者基于实证指出，分轨制并未显著提升顶尖学生的成就，却对中低轨学生造成不可逆的学业损害与心理污名，其本质是优势阶层为其子女垄断优质教育资源的制度壁垒。
 >
 > > [!axis] 早期刚性分轨 vs 晚期弹性选拔

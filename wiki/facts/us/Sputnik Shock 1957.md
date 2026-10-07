@@ -12,10 +12,10 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 39
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
-fact_related_color: "#fef3c7"
+fact_related_count: 40
+fact_related_level: 5
+fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_color: "#fecdd3"
 tags:
   - sputnik-shock
   - cold-war
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Progressive Education]]"
   - "[[Normal School]]"
   - "[[STEM Education]]"
+  - "[[Competitiveness]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Vergegenkunft]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Sputnik Shock 1957
@@ -143,7 +144,7 @@ updated: 2026-10-06
 > |:---|:---|:---|
 > | **核心诉求** | 组建直属联邦的高风险科研先锋队（[[DARPA]]）；强化科学、技术、工程与数学（[[STEM Education\|STEM]]）教育与尖端人才选拔 | 维系地方社区学区自治；促进儿童个性全面发展与民主公民生活融入 |
 > | **治理工具** | 联邦直属特许机构、同行专家自由裁量资助、[[National Defense Education Act of 1958\|NDEA]] 定向拨款、结构化教材 | 地方学区自筹经费、综合性生活技能课程、非竞争性发展评价 |
-> | **合法化话语** | 冷战技术霸权维护、防止地缘突袭与经济长期竞争力 | 宪法公共福利保障、教育公平与个体自由发展 |
+> | **合法化话语** | 冷战技术霸权维护、防止地缘突袭与经济长期[[Competitiveness\|竞争力]] | 宪法公共福利保障、教育公平与个体自由发展 |
 >
 > **关键分歧** 国家的科学技术与教育系统究竟应当作为服务于大国地缘博弈与尖端技术突袭的“国家创新武器”，还是作为保障公民人格完整与地方自治的“社会公共福利”。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1134)]]
 

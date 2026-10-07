@@ -8,7 +8,7 @@ aliases:
 summary: "Paula Stephan 提出的学术组织经济学隐喻，将现代研究型大学比作高档商业购物中心，大学专注于建设尖端物理空间并以间接成本及薪资冲销的形式向自负盈亏的学者团队出租"
 type: concept
 domain: "higher-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Indirect Costs of Research]]"
   - "[[Soft-Money Faculty Model]]"
   - "[[Academic Start-up Packages]]"
+  - "[[Competitiveness]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Shopping Mall Model of Research Universities
@@ -89,7 +90,7 @@ updated: 2026-10-05
 > - **地产与品牌运营商定位** 大学行政当局扮演商业地产开发商角色，借贷建设豪华生命科学实验楼，依托历史声誉招揽外部资助与顶级团队。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–31)]]
 > - **租金机制：间接成本与薪酬冲抵** [[Indirect Costs of Research|设施与行政管理费]]（Facilities and Administrative costs, F&A，即间接成本）与软钱职位（[[Soft-Money Faculty Model]]）构成了实际租金；PI 通过源源不断的外部资助向学校缴纳“场地管理费”与“品牌使用费”。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 30)]]
 > - **商户初创孵化：启动配套包** 大学为新进教师提供高额启动配套包（[[Academic Start-up Packages|start-up packages]]，在化学与医学领域可高达百万至数百万美元），相当于商场给予入驻品牌商户的装修与设备铺底补贴。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 23–24, 30–31)]]
-> - **用工成本最小化：廉价帮手机制** 为维系独立商铺在微观预算上的盈余与竞争力，PI 最大化雇佣廉价且流动的研究生与博士后，替代高成本的长期专职科学家。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 9, 32–33)]]
+> - **用工成本最小化：廉价帮手机制** 为维系独立商铺在微观预算上的盈余与[[Competitiveness|竞争力]]，PI 最大化雇佣廉价且流动的研究生与博士后，替代高成本的长期专职科学家。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 9, 32–33)]]
 
 > [!logic-map]- 商场模型运转微观逻辑
 > ```mermaid

@@ -5,10 +5,10 @@ aliases:
 summary: "将爱国情感与特定领土利益绑定并通过政策把资源集中于关键产业、城市或机构的国家战略实践。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - economic-patriotism
 - knowledge-based-economization
@@ -21,6 +21,7 @@ related_concepts:
   - "[[National Competitive Advantage]]"
   - "[[Spatial Sortings]]"
   - "[[Selectivity]]"
+  - "[[Competitiveness]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Flow]]"
 related_theories:
@@ -33,7 +34,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: 2026-10-07
 ---
 
 ## 定义
@@ -70,7 +71,7 @@ updated: '2026-05-18'
 
 - **战略性城市化**[[Argument_Moisio_2022_Springer|Moisio (2022, p.30)]]论证"支持创业生态系统形成的政策实际上生产了民族国家的战略性城市化"——经济爱国主义是这一过程的核心驱动力
 - **冠军城市现象** 各国竞相发展"国家冠军城市或区域"——如伦敦（金融科技）、硅谷（科技）、深圳（硬件创新）——将国家资源集中于少数枢纽
-- **城市规划的重构** 大型城市日益体现国家竞争力和吸引力，城市规划从社会服务导向转向全球竞争导向([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.28–29]])
+- **城市规划的重构** 大型城市日益体现[[Competitiveness|国家竞争力]]和吸引力，城市规划从社会服务导向转向全球竞争导向([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.28–29]])
 
 ---
 

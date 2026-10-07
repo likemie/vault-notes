@@ -9,7 +9,7 @@ aliases:
 summary: "技术经济学与工程教育的核心理论命题，由内森·罗森伯格提出，指在通用目的技术扩散过程中，原本相互割裂的工业部门与学科领域逐渐汇聚于共同的底层科学原理、制造工艺、工程技能体系与标准物理界面上，为高等工程教育课程标准化与跨行业工程人才流动奠定基础。"
 type: concept
 domain: "economics"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
   - theme/economics-of-innovation
 related_concepts:
   - "[[General Purpose Technology]]"
+  - "[[Engineering Education]]"
   - "[[Dual In-Line Package]]"
   - "[[Assemblage]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Technological Convergence
@@ -60,7 +61,7 @@ updated: 2026-10-03
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向不同产业部门在底层技术基础、制造工艺与工程师核心技能上的趋同与结构性整合。
-> - **用途** 帮助技术史、[[Evolutionary Economics|演化经济学]]与工程教育学者分析为何新兴技术扩散能够打破行业壁垒，促成高等工程教育核心课程的跨学科统一以及劳动力市场中工程技术人才的大规模跨行业顺畅流动。
+> - **用途** 帮助技术史、[[Evolutionary Economics|演化经济学]]与[[Engineering Education|工程教育]]学者分析为何新兴技术扩散能够打破行业壁垒，促成高等工程教育核心课程的跨学科统一以及劳动力市场中工程技术人才的大规模跨行业顺畅流动。
 > - **边界** 聚焦于底层生产技术、工艺方法与工程知识体系的收敛，不同于终端消费产品功能合一意义上的“消费产品融合”（Product Convergence / 媒介融合）。
 
 > [!citation-card] 技术收敛与硅微电子的跨行业整合
@@ -81,7 +82,7 @@ updated: 2026-10-03
 > |---|---|---|---|
 > | **作用层次** | 基础工艺、元器件架构与工程技能底层 | 单一利基领域的专有工具与细分知识 | 终端消费产品形态与内容分发渠道 |
 > | **核心驱动力** | [[General Purpose Technology\|通用目的技术]]（GPT）的跨行业标准化 | 特定细分任务的极度精度与专用性需求 | 用户体验整合与数字网络互联 |
-> | **对工程教育的影响** | 推动工程学院开设通用核心课程（如数字逻辑、固态电子学） | 导致学科高度割裂与行业专有技术壁垒 | 催生[[Comparative Education as a Cross-Sectional Area\|交叉学科]]与综合应用型专业 |
+> | **对[[Engineering Education\|工程教育]]的影响** | 推动工程学院开设通用核心课程（如数字逻辑、固态电子学） | 导致学科高度割裂与行业专有技术壁垒 | 催生[[Comparative Education as a Cross-Sectional Area\|交叉学科]]与综合应用型专业 |
 > | **劳动力流动性** | 极高：掌握通用技术的工程师可自由跨行业流动 | 较低：技能被锁定于狭窄特定行业内 | 中等：依赖跨界创意与复合技能 |
 > | **代表[[Document\|文献]]** | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999)]]; Rosenberg (1963) | 传统工科文献 | 传播学与计算机文献 |
 
@@ -124,7 +125,7 @@ updated: 2026-10-03
 ### 命题二　工程技能与设计范式的收敛为现代高等工程教育通用课程与人才跨界流动提供了知识基础
 
 > [!concept-lens] 工程知识体系重塑与[[Human Capital Theory|人力资本]]流动
-> 探讨底层技术的统一如何反向重塑工程教育学科边界，促成通用型工程人才的培育与高效跨界配置。
+> 探讨底层技术的统一如何反向重塑[[Engineering Education|工程教育]]学科边界，促成通用型工程人才的培育与高效跨界配置。
 
 > [!claim] Lécuyer, C.
 > **通用工程知识库与跨行业人才流动自由** 莱屈耶指出，随着仙童[[Application Engineering|应用工程]]实验室向全社会分发开源《应用说明书》并普及标准电路设计方法，原本分散在真空管、机电继电器和锗晶体管领域的工程师群体，迅速收敛并掌握了以硅逻辑门为基础的通用微电子设计语言。这种知识[[Paradigm|范式]]的汇聚不仅促成了工程师在计算机、消费电子与汽车工业之间的自由流动，更直接为高等院校重构电子工程与计算机学科的基础教学大纲提供了统一的工业参照。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 190–194, 208–209)]]

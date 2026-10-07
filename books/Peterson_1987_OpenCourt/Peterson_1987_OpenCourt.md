@@ -9,6 +9,7 @@ extracted_to:
   - "[[Argument_Peterson_1987_OpenCourt_Ch05]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch07]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch08]]"
 processed_date: 2026-08-17
 ---
 

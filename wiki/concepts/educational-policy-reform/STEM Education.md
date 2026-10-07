@@ -8,7 +8,7 @@ aliases:
 summary: "涵盖科学、技术、工程与数学四大学科的跨学科融合教育范式与国家战略，主张打破传统分科壁垒，依托真实情境问题解决、工程设计与探究实践培养综合创新与认识论素养；在教学论上面向指导式探究与直接讲授的时序整合，并尊重各子学科的特异性认识论规程。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 53
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Variable]]"
   - "[[Epistemic Aims]]"
+  - "[[Engineering Education]]"
   - "[[Authentic Instruction]]"
   - "[[Computer Simulation]]"
   - "[[Hypothesis]]"
@@ -47,6 +48,7 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[Research Universities]]"
   - "[[Scientific Attitude]]"
+  - "[[Competitiveness]]"
   - "[[Critical Pedagogy]]"
   - "[[Dependent Variable]]"
   - "[[Control of Variables Strategy]]"
@@ -81,7 +83,7 @@ related_methods:
 confidence: high
 status: completed
 created: 2026-06-05
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # STEM Education
@@ -124,7 +126,7 @@ updated: 2026-10-06
 
 > [!feature] 跨学科 STEM 教育的四大支柱要素
 > - **多学科深度有机融合（Interdisciplinary Integration）** 打破单科割裂，将数学量化建模、技术工具中介、工程约束优化与科学实证检验融为一体。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 2)]]
-> - **科学探究与工程设计双螺旋（Inquiry & Design Dual Helix）** 探究科学侧重揭示自然规律与提出解释，工程教育侧重在多重约束条件下寻求最优设计方案，二者相互交织驱动。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 142–143)]]
+> - **科学探究与工程设计双螺旋（Inquiry & Design Dual Helix）** 探究科学侧重揭示自然规律与提出解释，[[Engineering Education|工程教育]]侧重在多重约束条件下寻求最优设计方案，二者相互交织驱动。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 142–143)]]
 > - **真实情境[[Problem Solving\|问题解决]]（[[Authentic Instruction\|authentic problem solving]]）** 以生态环境、清洁能源、生物医药等真实复杂情境为载体，引导学生经历完整的认知与实践挑战。
 > - **数字化技术中介与仿真探究（Digital Mediation & [[Computer Simulation\|simulation]]）** 依托高交互微世界与虚拟仿真工具，将不可见的微观机制可视化，支撑[[Hypothesis\|假设]]检验与参数优化。
 
@@ -167,7 +169,7 @@ updated: 2026-10-06
 > 探讨 STEM 内部科学、工程与社会议题在[[Knowledge Building Theory|知识建构]]标准、证据要求与评价尺度上的深层差异，防范将 STEM 简化为无差别的抽象五步法。
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]
-> **跨学科规程异质性与[[Epistemic Practices\|认识论实践]]矩阵** STEM 教育不是将所有门类融为单一教条的[[Scientific Method\|科学方法]]，各子学科之间展现出“家族相似性”而非绝对同一性。探究式科学（如物理探究）以解释自然为旨归，遵循严格受控实验与[[Causality\|因果推断]]规范；工程教育（Engineering Education）以满足实际需求为目的，在材料、成本与安全等多重约束下寻求最优权衡与原型折中（Cunningham & Carlsen, 2014）；而[[Socioscientific Issues\|社会科学议题]]（Socio-Scientific Issues, SSI）则进一步统合伦理、生态与公共利益，在多元价值冲突中寻求民主协商共识（Sadler, 2004）。优质 STEM 课程必须尊重各领域的[[Domain Specificity\|学科特异性]]认识论规程，引导学生体验不同知识主张的合法化路径。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 142–143, 154–157)]]
+> **跨学科规程异质性与[[Epistemic Practices\|认识论实践]]矩阵** STEM 教育不是将所有门类融为单一教条的[[Scientific Method\|科学方法]]，各子学科之间展现出“家族相似性”而非绝对同一性。探究式科学（如物理探究）以解释自然为旨归，遵循严格受控实验与[[Causality\|因果推断]]规范；[[Engineering Education|工程教育]]（Engineering Education）以满足实际需求为目的，在材料、成本与安全等多重约束下寻求最优权衡与原型折中（Cunningham & Carlsen, 2014）；而[[Socioscientific Issues\|社会科学议题]]（Socio-Scientific Issues, SSI）则进一步统合伦理、生态与公共利益，在多元价值冲突中寻求民主协商共识（Sadler, 2004）。优质 STEM 课程必须尊重各领域的[[Domain Specificity\|学科特异性]]认识论规程，引导学生体验不同知识主张的合法化路径。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 142–143, 154–157)]]
 
 ---
 
@@ -226,7 +228,7 @@ updated: 2026-10-06
 
 > [!dev-timeline] 概念演变
 > - **1990s — 术语起源与国家战略萌芽** [[National Science Foundation|美国国家科学基金会]]（NSF）正式整合科学、数学、工程与技术项目，提出“STEM”缩写，确立跨学科国家创新人才战略。
-> - **2007 — 立法确立与财政扩张** 美国国会通过《[[America COMPETES Act|美国竞争法案]]》（America COMPETES Act），将 STEM 教育提升为保障国家经济安全与全球竞争力的法定核心支柱。
+> - **2007 — 立法确立与财政扩张** 美国国会通过《[[America COMPETES Act|美国竞争法案]]》（America COMPETES Act），将 STEM 教育提升为保障国家经济安全与全球[[Competitiveness|竞争力]]的法定核心支柱。
 > - **2012 — 实践导向与国家课程标准确立** [[National Research Council|美国国家科学研究委员会]]（NRC）发布《K-12 科学教育框架》，将“科学与工程实践”（SEPs）并列确立为核心维度，推动 STEM 走向教学法深水区。
 > - **2018 — [[Epistemic Practices|认识论实践]]与学科[[Heterogeneity|异质性]]深化** [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] 提出 STEM 各领域的认识论实践比较矩阵，破除教条式[[Scientific Method|科学方法]]，强化工程折中与[[Socioscientific Issues|社会科学议题]]审议。
 > - **2022–2026 — 战略关键产业再聚焦与国际人才池博弈** 《[[CHIPS and Science Act|芯片与科学法案]]》将 STEM 教育直接锚定于解决 140 万尖端工程与半导体技术劳动力短缺，通过 GRFP 扩招 50% 应对中国工科毕业生四倍规模优势，推动 STEM 教育从中小学课程与高校本研教学进一步向大学科研人员跨学科专业发展与产学研协同延伸。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]; [[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 1–3, 7)]]
@@ -276,6 +278,6 @@ updated: 2026-10-06
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 权威综述提出破除[[Direct Instruction|直接讲授]]与探究的二元对立，系统构建基于[[Inquiry-Based Learning|指导式探究]]、时序编排与技术增强仿真的 STEM 循证教学[[Paradigm|范式]]。
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 阐释探究科学、工程教育与[[Socioscientific Issues|社会科学议题]]在 STEM 视阈下的[[Epistemology|认识论]]规程差异，提出跨学科[[Epistemic Practices|认识论实践]]比较矩阵（pp. 142–143, 154–157）。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 阐释探究科学、[[Engineering Education|工程教育]]与[[Socioscientific Issues|社会科学议题]]在 STEM 视阈下的[[Epistemology|认识论]]规程差异，提出跨学科[[Epistemic Practices|认识论实践]]比较矩阵（pp. 142–143, 154–157）。
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 探讨《[[CHIPS and Science Act|芯片与科学法案]]》中为应对中国四倍工科毕业生规模优势而设立的数十亿美元理科资助与 GRFP 博士奖学金扩招 50% 举措，评估国家战略产业政策对 STEM 人才再生产的实际影响。
 > - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 在《[[CHIPS and Science Act|芯片与科学法案]]》背景下，以高水平[[Research Universities|研究型大学]]为案例，实证检验多轮迭代学者发展工作坊如何打破工程科技院系壁垒，培育应对 140 万国家 STEM 岗位缺口的跨学科半导体科研与教学共同体。

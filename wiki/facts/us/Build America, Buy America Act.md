@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
   - theme/trade-policy
 related_concepts:
   - "[[Market Shaping and Creating]]"
+  - "[[Pull Mechanisms for Innovation]]"
   - "[[Assemblage]]"
   - "[[Going Native]]"
   - "[[Modern Industrial Policy]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Build America, Buy America Act
@@ -75,7 +76,7 @@ updated: 2026-10-06
 > - **约束机制** 实行严格的合规准入；若未达到本土制造要求且未获正式豁免，项目将直接丧失联邦基建资金支持资格。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–14)]]
 
 > [!citation-card] BABA 关键法定要求与机制
-> 在 [[Infrastructure Investment and Jobs Act|IIJA]] 中，从产业战略视角看最重要且最具实质影响的附加条件是《以美国制造为荣法案》（BABA）。BABA 确立了美国有史以来最强劲的国内含量采购规约：不仅涵盖传统钢铁，更延伸至各类制造品与非铁建材。这一庞大的需求拉动机制强制私营部门在本土建立生产线，以满足联邦资助基建项目的法定准入标准。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]
+> 在 [[Infrastructure Investment and Jobs Act|IIJA]] 中，从产业战略视角看最重要且最具实质影响的附加条件是《以美国制造为荣法案》（BABA）。BABA 确立了美国有史以来最强劲的国内含量采购规约：不仅涵盖传统钢铁，更延伸至各类制造品与非铁建材。这一庞大的需求[[Pull Mechanisms for Innovation|拉动机制]]强制私营部门在本土建立生产线，以满足联邦资助基建项目的法定准入标准。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]
 >
 > *The primary and most significant conditionality in the IIJA is the Build America, Buy America (BABA) Act... BABA provisions attached to IIJA are some of the most robust the USA has put in place, requiring all iron, steel, manufactured products, and construction materials to be produced in the United States.*
 

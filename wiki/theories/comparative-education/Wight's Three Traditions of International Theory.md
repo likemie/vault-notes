@@ -8,7 +8,7 @@ aliases:
 summary: "马丁·怀特将国际关系思想归纳为现实主义（马基雅维利）、理性主义（格劳秀斯）和革命主义（康德）三大传统，分别以权力、权威和武力为核心概念，克莱里德斯将其引入比较教育以解构学科的注意力议程与知识生产"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 44
+theory_related_count: 45
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Readings of the Global]]"
   - "[[Policy Mobility]]"
   - "[[Ontology]]"
+  - "[[Competitiveness]]"
   - "[[Learnology]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Development Education]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Wight's Three Traditions of International Theory
@@ -116,7 +117,7 @@ updated: 2026-10-02
 > - **推导** 比较教育学者的[[Ontology\|本体论]]和方法论偏好本质上是这三种底层国际关系预设在教育领域的折射，对国际社会性质的设想决定了什么值得比较、如何比较以及比较服务于什么目的。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 416–417]])
 
 > [!proposition-chain] 核心命题二｜无政府状态的现实主义[[Hypothesis\|假设]]将比较教育塑造成国家实力竞争、地缘自保及殖民剥削的实用工具
-> - **前提一** 现实主义将国际关系视为无中央权威的自助竞技场，国家为了生存和安全必须最大化自身权力。教育系统被视为国家竞争力和科技实力的关键中介，驱动了国家对外部的工具性借鉴。
+> - **前提一** 现实主义将国际关系视为无中央权威的自助竞技场，国家为了生存和安全必须最大化自身权力。教育系统被视为[[Competitiveness|国家竞争力]]和科技实力的关键中介，驱动了国家对外部的工具性借鉴。
 >   > [!evidence-grid]- 证据
 >   > - **19世纪的列强竞争与教育观摩** 19世纪英、法、德、美等国出于地缘实力竞争的假设，贪婪而好奇地相互调查教育系统；库赞 1831 年对普鲁士学校的系统调查报告直接服务于法国的国家根基维护 (p. 419)。
 >   > - **地缘工业焦虑** [[Michael Sadler\|萨德勒]]在教育部特别调查办公室开展的德国中等教育和职业教育研究，旨在应对美、德工业优势，维护英国世界工厂地位 (p. 420)。

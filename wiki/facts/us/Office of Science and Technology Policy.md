@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 19
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ tags:
   - governance/federal-administration
 related_concepts:
   - "[[Technology-Oriented Social Contract]]"
+  - "[[Competitiveness]]"
   - "[[Paradigm]]"
   - "[[Research Security]]"
   - "[[Congressional Earmarks]]"
@@ -38,14 +39,17 @@ related_facts:
   - "[[President's Science Advisory Committee]]"
   - "[[Science in the National Interest 1994]]"
   - "[[A Strategy for American Innovation 2011]]"
+  - "[[Genesis Mission]]"
   - "[[Restoring Gold Standard Science Executive Order]]"
+  - "[[Science A New Golden Age 2026]]"
+  - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
   - "[[CHIPS and Science Act]]"
-  - "[[Science, The Endless Frontier 1945]]"
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_Fan_2026_BCAS]]"
+  - "[[Argument_Kratsios_2026_OSTP]]"
 related_methods:
   - "[[Correlational Research]]"
 related_persons:
@@ -53,7 +57,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Office of Science and Technology Policy
@@ -84,7 +88,7 @@ updated: 2026-10-06
 > - **2025–2026 — 特朗普第二任期“再集中与再动员”及技术型契约落地**
 >   - 2025 年 3 月，特朗普向 OSTP 主任迈克尔·克拉西奥斯（[[Michael Kratsios]]）发出总统指示，要求彻底聚焦前沿战略技术获取；
 >   - 2026 年 1 月，OSTP 发布《特朗普政府科学技术一年亮点》（*Trump Administration Science & Technology Highlights*），宣告科技治理迈入“再集中与再动员”新阶段；
->   - 牵头落实“人工智能行动计划”与“创世纪计划”（The Genesis Mission），直接动员国家实验室与私营科技巨头，配合财政扣留拨款（impoundment）与《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，标志着从认知咨询向技术采购动员的结构性转向。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]
+>   - 牵头落实“人工智能行动计划”与“[[Genesis Mission|创世纪计划]]”（The Genesis Mission），直接动员国家实验室与私营科技巨头，配合财政扣留拨款（impoundment）与《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，标志着从认知咨询向技术采购动员的结构性转向。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]
 
 ---
 
@@ -110,9 +114,10 @@ updated: 2026-10-06
 > *2025 年标志着美国科技政策进入再集中与再动员阶段，OSTP 统领资源向人工智能、量子等关键技术集中，推动政策转向国家竞争与产业安全优势导向。*
 
 > [!finding-cards] 关键战略报告与历史辐射
-> - **1994 年《[[Science in the National Interest 1994|科学与国家利益]]》（*Science in the National Interest*）** 克林顿与戈尔时期由 OSTP 主导编制，系统奠定了后冷战时期联邦资助基础科研转向经济竞争力与社会繁荣的战略航标。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1059)]]
+> - **1994 年《[[Science in the National Interest 1994|科学与国家利益]]》（*Science in the National Interest*）** 克林顿与戈尔时期由 OSTP 主导编制，系统奠定了后冷战时期联邦资助基础科研转向经济[[Competitiveness|竞争力]]与社会繁荣的战略航标。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1059)]]
 > - **2011 年《[[A Strategy for American Innovation 2011|美国创新战略]]》（*A Strategy for American Innovation*）** OSTP 参与主导，首次在联邦顶层设计中系统确立应对能源、卫生与先进制造等“宏大挑战”的使命驱动科研[[Paradigm|范式]]。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 > - **2026 年《特朗普政府科学技术一年亮点》（*Trump Administration Science & Technology Highlights*）** 系统总结 2025 年以来的治理变革，确立人工智能与先进制造业技术主导权，将研发重点由大学基础探索转向国家实验室攻关与企业采购。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
+> - **2026 年 7 月《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（*[[Science A New Golden Age 2026|Science: A New Golden Age]]*）** 主任[[Michael Kratsios|迈克尔·克拉齐奥斯]]于 7 月 21 日向总统呈交的对照[[Science, The Endless Frontier 1945|布什报告]]的诊断。四项目标是把科学家个人放在遗留机构之前，改变研究经费的分配、拨付与评估，为发现接上产业转化的能力，并在仍需要人手与手艺的前提下为人工智能改建科研事业。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. v–vi)]]
 > - **年度联邦研发优先事项联合备忘录** 每年与白宫行政管理和预算局（OMB）联合签发，统摄国防部、能源部、[[National Science Foundation|NSF]]、NASA 及 [[National Institutes of Health|NIH]] 等机构数千亿美元研发预算的投向。
 
 ---
@@ -156,4 +161,5 @@ updated: 2026-10-06
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]宏观视角，系统剖析 OSTP 在 1994 年《[[Science in the National Interest 1994|科学与国家利益]]》重新签约、2011 年宏大挑战以及 2025 年《亮点》报告“再集中与再动员”结构性转型中的制度枢纽功能。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 主任本人向总统呈交的政策诊断。它保留联邦资助基础研究的理由，同时要求改变经费分配、把发现接回国内制造，并用[[Genesis Mission|创世纪计划]]与黄金标准科学同时扩大生成和核验。
 > - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied (2008)]] — 详尽论证 1976 年公法 P.L. 94-282 创立 OSTP 的立法动因与宪政意义，剖析白宫科学顾问由总统个人幕僚转向具有国会作证义务的法定实体历程。

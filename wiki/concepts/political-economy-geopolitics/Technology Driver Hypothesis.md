@@ -9,10 +9,10 @@ aliases:
 summary: "20世纪80年代半导体产业界与政策界的主导信条，主张大宗标准化存储芯片（DRAM）的大规模制造是掌握先进微细加工工艺与设备良率学习不可或缺的技术驱动载体；90年代被微观晶圆厂实证标杆数据证伪。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/innovation-policy
   - theme/semiconductor
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Determinism]]"
   - "[[Vertical Disintegration]]"
+  - "[[Competitiveness]]"
   - "[[Total Quality Management]]"
   - "[[Paradigm]]"
   - "[[Document]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Technology Driver Hypothesis
@@ -118,7 +119,7 @@ updated: 2026-10-05
 > 20 世纪 80 年代美国麻省理工学院（MIT）产业生产率委员会与行业游说团体普遍认定，美国多数商用企业退出 DRAM 市场标志着全美半导体制造基底的瓦解。
 
 > [!claim] MIT Commission on Industrial Productivity; Macher, J. T., [[David C. Mowery|Mowery, D. C.]], & Hodges, D. A.
-> **大宗驱动神话与结构性误判** 80 年代末以麻省理工学院《美国制造》（Made in America, 1989）为代表的权威诊断，深度依托“技术驱动产品[[Hypothesis|假设]]”，断言分散化的美国企业无法在资本密集型 DRAM 价格战中对抗日本纵向一体化财团，因而美国半导体产业必将整体衰亡。Macher 等人指出，这种悲观预测严重忽视了逻辑芯片与微组件（MPU、DSP、ASIC）制造工艺的独特性，将半导体产业整体竞争力错误等同于单一存储芯片的制造规模，从而对产业前途作出了系统性误判。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 108, 114, 129)]]
+> **大宗驱动神话与结构性误判** 80 年代末以麻省理工学院《美国制造》（Made in America, 1989）为代表的权威诊断，深度依托“技术驱动产品[[Hypothesis|假设]]”，断言分散化的美国企业无法在资本密集型 DRAM 价格战中对抗日本纵向一体化财团，因而美国半导体产业必将整体衰亡。Macher 等人指出，这种悲观预测严重忽视了逻辑芯片与微组件（MPU、DSP、ASIC）制造工艺的独特性，将半导体产业整体[[Competitiveness|竞争力]]错误等同于单一存储芯片的制造规模，从而对产业前途作出了系统性误判。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 108, 114, 129)]]
 
 ---
 

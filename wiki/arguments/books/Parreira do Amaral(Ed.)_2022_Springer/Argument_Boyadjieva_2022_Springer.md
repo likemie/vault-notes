@@ -9,7 +9,7 @@ title: "Argument_Boyadjieva_2022_Springer"
 argument_key: "Argument_Boyadjieva_2022_Springer"
 argument_display_title: "(Un)avoidable clash: Higher education at the altar of its missions and rankings"
 argument_kind: "book"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Corporate University]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Competitiveness]]"
   - "[[Soft Power]]"
   - "[[Halo Effect]]"
   - "[[Reliability]]"
@@ -180,7 +181,7 @@ Boyadjieva 梳理了催生排名的八股社会趋势，这些趋势互相关联
 > 4. **商业化与市场机制的引入** 当教育被视为一种可以买卖的服务时，"消费者"（学生和家长）自然想要一个"性价比排行榜"。
 > 5. **后中等教育机构的多样化** 除了传统大学，出现了各种新型高等教育提供者——[[Corporate University\|企业大学]]、在线课程平台、专业学院。排名帮助人们在这个"菜单"上做选择。
 > 6. **[[Knowledge-Based Economy\|知识经济]]地位的变化** 在 知识密集型经济中，大学不再只是"花钱的教育机构"，而是"创造价值的创新引擎"——它的产出值得被测量比较。
-> 7. **高等教育作为国家竞争力的晴雨表** 政府想知道"我国大学在全球排第几"，这直接影响招商引资、人才吸引和外交[[Soft Power\|软实力]]。
+> 7. **高等教育作为[[Competitiveness|国家竞争力]]的晴雨表** 政府想知道"我国大学在全球排第几"，这直接影响招商引资、人才吸引和外交[[Soft Power\|软实力]]。
 > 8. **"审计社会"的兴起(Power, 1997)** 问责和评估渗透到一切公共领域——医院被排名、学校被排名、甚至博物馆和公园也被排名。大学只是这个大趋势中的一环。
 
 > **核心逻辑** 这八个趋势共同创造了对"跨国可比较信息"的庞大需求。学生和家长需要选校信息，雇主需要判断文凭价值，大学自身需要对标竞争对手，政府需要评估国家高教竞争力。排名恰好填补了这个信息真空——"如果排名不存在，有人会发明它们"(Altbach, 2011, p.2, p.130)。

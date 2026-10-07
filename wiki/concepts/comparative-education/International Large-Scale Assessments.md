@@ -9,7 +9,7 @@ aliases:
 summary: "由政府间组织或跨国学术联盟（如 OECD、IEA）主持，采用标准化跨文化心理测量学技术（如 IRT、矩阵抽样）与代表性概率抽样，对不同国家和地区的学生或成年人群体的认知素养与背景变量进行系统测度与比较分析的大型评价范式。作为“硬事实施展软权力”与数字治理的物质技术中枢，推动全球教育从“投入要素规制”迈向“基于产出与排名的绩效规制”，但亦因诱发 PISA 冲击、课程狭窄化及全球趋同而饱受批判。"
 type: concept
 domain: "comparative-education"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Externalization]]"
   - "[[Soft Power]]"
+  - "[[Competitiveness]]"
   - "[[Commensuration]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Endogenous and Exogenous Privatisation]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # International Large-Scale Assessments
@@ -168,7 +169,7 @@ updated: 2026-09-22
 
 > [!dev-timeline] 概念演变
 > - **1960 年代 — 学术先驱探索期（[[IEA]] 成立）** 托尔斯滕·胡森等人在德国汉堡创立国际教育成就评价协会，启动首批跨国数学与科学探索性测验（FIMS）。
-> - **1990 年代 — 政治化与问责制转型** [[OECD\|经合组织]]介入指标研制（[[International Indicators of Education Systems\|INES]]），标志着大规模测验从纯学者好奇心转向服务于国家经济竞争力和政府绩效问责。
+> - **1990 年代 — 政治化与问责制转型** [[OECD\|经合组织]]介入指标研制（[[International Indicators of Education Systems\|INES]]），标志着大规模测验从纯学者好奇心转向服务于国家经济[[Competitiveness|竞争力]]和政府绩效问责。
 > - **2000 年至今 — 规制帝国与全生命周期扩张** 经合组织 [[PISA]] 确立全球统治地位，并向教师（[[Teaching and Learning International Survey\|TALIS]]）、成人（[[Programme for the International Assessment of Adult Competencies\|PIAAC]]）、高等教育（[[OECD AHELO Project\|AHELO]]）及全球南方（[[PISA for Development\|PISA-D]]）全面蔓延，构建了无孔不入的全球测评复合体。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
 
 ---

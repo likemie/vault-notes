@@ -8,7 +8,7 @@ summary: "英国当代社会学家与社会理论家，系统提出结构化理�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 41
+person_related_count: 42
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Creativity]]"
   - "[[Epistemic Agency]]"
+  - "[[Competitiveness]]"
   - "[[Social Impact Investing]]"
   - "[[Policy Borrowing]]"
   - "[[Scientific Method]]"
@@ -77,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-14
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # Anthony Giddens
@@ -155,7 +156,7 @@ updated: 2026-09-29
 > [!influence-path] 影响路径
 > - **理论路径** 结构化理论通过结构二重性概念成功化解了长期困扰社会科学的能动性 vs 结构二元对立；在学习科学与微观教学论中，[[Argument_Zhang_2022_SE|Zhang et al. (2022)]] [[Creativity|创造性]]将吉登斯的结构化理论迁移至微观科学探究课堂，提出[[Reflective Structuration|反思性结构化]]机制，阐明探究结构（认识框架、社会构型、实践方式与价值准则）并非外部强加的僵化脚本，而是师生在探究中协同构建的动态架构，并反过来中介后续的深层[[Epistemic Agency|认识能动性]]行使。
 > - **方法路径** [[Double Hermeneutic|双重诠释]]进入[[Qualitative Research|质性研究]]与教育[[Ethnography|民族志]]方法论，成为说明数据分析为何必然融合事实与解释、为何需要将主位（emic）与客位（etic）透镜辩证统合的[[Epistemology|认识论]]基石；同时为研究者的[[Reflexivity|反思性]]（反身性）实践提供了根本性辩护。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, Ch. 28, p. 538)]]
-> - **政策路径** 吉登斯倡导的第三条道路将教育定义为提升社会包容度与国家竞争力的[[Social Impact Investing|社会投资]]支柱，直接引导了英国新工党政府的教育优先区、技能培训与[[Lifelong Learning|终身学习]]体制改革。
+> - **政策路径** 吉登斯倡导的第三条道路将教育定义为提升社会包容度与[[Competitiveness|国家竞争力]]的[[Social Impact Investing|社会投资]]支柱，直接引导了英国新工党政府的教育优先区、技能培训与[[Lifelong Learning|终身学习]]体制改革。
 > - **跨国／跨领域传播** 晚期现代性的脱域机制、[[Time-Space Compression|时空压缩]]与反思性现代化概念被广泛引入比较教育学，深刻影响了关于全球教育[[Policy Borrowing|政策借用]]、跨国评估体系与[[Knowledge-Based Economy|知识经济]]转型的分析[[Paradigm|范式]]。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引

@@ -8,7 +8,7 @@ aliases:
 summary: "把项目投入、实施活动、即时输出、短期结果和长期结果连接起来的评价工具，用于形成共享预期并组织形成性反馈。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Counterfactual]]"
+  - "[[Competitiveness]]"
   - "[[Technology Infusion]]"
   - "[[Implementation Fidelity]]"
   - "[[Absorptive Capacity]]"
@@ -37,7 +38,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-23'
-updated: 2026-09-11
+updated: 2026-10-07
 ---
 
 ## 定义
@@ -63,7 +64,7 @@ W.K. Kellogg 基金会（2004）在其 Logic Model Development Guide 中对逻�
 > [!example]
 > 建立逻辑模型时，评价者需要和关键利益相关者共同确定输入、即时输出、短期结果和长期结果，并说明每个阶段应在什么时间出现、用什么证据判断([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.123-124]])。
 
-[[Students and Teachers Accessing Tomorrow|STAT]] 的逻辑模型以教师、管理者和技术教练的专业发展为主要输入；预期即时输出包括课堂环境改变、设备使用、数字内容进入教学和教学规划资源增加；随后希望促进学生参与和 21 世纪学习活动；最终目标是更高成就和更具全球竞争力的学生([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p.115]])。
+[[Students and Teachers Accessing Tomorrow|STAT]] 的逻辑模型以教师、管理者和技术教练的专业发展为主要输入；预期即时输出包括课堂环境改变、设备使用、数字内容进入教学和教学规划资源增加；随后希望促进学生参与和 21 世纪学习活动；最终目标是更高成就和更具全球[[Competitiveness|竞争力]]的学生([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p.115]])。
 
 ## 适用场景
 

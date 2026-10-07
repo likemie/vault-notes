@@ -10,7 +10,7 @@ aliases:
 summary: "由阿奇舒勒创立的算法化发明问题解决理论体系，主张技术与心智系统的演化遵循客观规律，通过识别并消除系统内在矛盾（技术与物理矛盾）、应用 40 条通用发明原理与理想最终解（IFR）启发式，系统克服思维定势并实现高阶创新。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 22
+theory_related_count: 23
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -22,6 +22,7 @@ tags:
   - theme/engineering-education
 related_concepts:
   - "[[Creativity]]"
+  - "[[Engineering Education]]"
   - "[[STEM Education]]"
   - "[[Creativity Training]]"
   - "[[Problem Solving]]"
@@ -51,7 +52,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # TRIZ
@@ -64,7 +65,7 @@ updated: 2026-10-03
 > - **解释对象** 复杂技术、系统与劣构发明问题中阻碍创新的系统矛盾（Contradictions），以及突破心智定势、走向颠覆性解决方案的客观演化规律与算法化路径。
 > - **理论问题** 传统[[Creativity\|创造力]]研究长期将创新视为不可控的天赋、偶发的直觉顿悟或盲目试错（Trial-and-Error）；TRIZ 回应了“发明创新能否作为一套可学习、可传授的客观规律与算法化方法学”这一经典难题。
 > - **理论类型** 规范性与程序性并重的系统性中层理论体系，兼具演化哲学、机制模型与认知启发式方法学三重属性。
-> - **知识位置** 创立于苏联发明工程学派，由[[Genrich Altshuller\|根里奇·阿奇舒勒]]（Genrich Altshuller, 1926–1998）及其学派奠基，后在全球工程教育、[[STEM Education\|STEM]] 教学与[[Creativity Training\|创造性思维训练]]中广泛制度化。
+> - **知识位置** 创立于苏联发明工程学派，由[[Genrich Altshuller\|根里奇·阿奇舒勒]]（Genrich Altshuller, 1926–1998）及其学派奠基，后在全球[[Engineering Education|工程教育]]、[[STEM Education\|STEM]] 教学与[[Creativity Training\|创造性思维训练]]中广泛制度化。
 
 > [!claim] 核心主张
 > 发明问题的本质是系统内部各要素间的冲突与矛盾，真正的创新不是妥协折中，而是彻底消除系统矛盾；技术的演进遵循客观法则并趋向“理想最终解（Ideal Final Result, IFR）”，通过将特定问题抽象为通用矛盾并检索标准发明原理，学习者能够摆脱盲目试错与心理惯性，实现高水平的[[Creative Problem Solving\|创造性问题解决]]。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 2–3, 10)]]; Altshuller (1984)
@@ -148,7 +149,7 @@ updated: 2026-10-03
 > - **不能直接推出的东西** 掌握 TRIZ 原理不能自动替代具体物理、化学或软件工程的基础专业知识；缺乏基础学科事实支撑时，原理容易沦为空洞口号。
 
 > [!theory-use] 如何用于教育研究与实践
-> - **作为课程教学内容** 在高等工程教育、职业教育与创新创业教育中开设专修课程，系统讲授 TRIZ 矩阵与 40 原理；
+> - **作为课程教学内容** 在[[Engineering Education|高等工程教育]]、职业教育与创新创业教育中开设专修课程，系统讲授 TRIZ 矩阵与 40 原理；
 > - **作为[[Creativity Training\|创造力干预]]工具** 在准[[Experimental Research\|实验研究]]中，作为“技术型训练（Technique-based training）”的核心实验处理[[Variable\|变量]]，检验其对学生问题表征、灵活性与工程设计[[Creativity\|创造力]]（如 [[Creative Engineering Design Assessment\|CEDA]] 得分）的促进效应；
 > - **作为跨学科[[Scaffolding\|认知脚手架]]** 引导学生从自然科学向社会科学类比迁移，利用分离原理解决教育组织管理或课程改革中的制度矛盾。
 
@@ -169,7 +170,7 @@ updated: 2026-10-03
 > - **1946–1970 年代　[[Genrich Altshuller\|阿奇舒勒]]在苏联奠定经典 TRIZ 体系** 分析数十万件发明专利，提出矛盾矩阵、40 发明原理与 ARIZ 算法，创立苏联国家发明学院。
 > - **1984 年　经典专著《创造作为精确科学》出版** Altshuller (1984) 出版《[[Creativity]] as an Exact Science》，确立创新作为精确可教科学的方法论地位。
 > - **1990 年代　冷战后全球传播与产业应用** 苏联解体后，TRIZ 专家走向美欧日韩，被三星、波音、通用电气等大型科技企业深度采纳并制度化。
-> - **2000–2025 年　教育学[[Paradigm\|范式]]转化与实证[[Meta-analysis\|元分析]]确证** 从工业界大规模反哺全球工程教育与中小学创新思维培养（Educational TRIZ）；[[Argument_Guo_2025_TSC\|Guo et al. (2025)]] 纳入系列技术型训练实证（如 Morin et al., 2018），量化证实其对大学生创造力表现具有稳健促学增益（$g = 0.552$）。
+> - **2000–2025 年　教育学[[Paradigm\|范式]]转化与实证[[Meta-analysis\|元分析]]确证** 从工业界大规模反哺全球[[Engineering Education|工程教育]]与中小学创新思维培养（Educational TRIZ）；[[Argument_Guo_2025_TSC\|Guo et al. (2025)]] 纳入系列技术型训练实证（如 Morin et al., 2018），量化证实其对大学生创造力表现具有稳健促学增益（$g = 0.552$）。
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "罗伯逊、博纳尔与戴尔开创的教育全球化批判性空间治理分析框架，通过治理标度、治理实体与治理活动三维矩阵，解构全球化与跨国经贸规制下国家教育主权的再领土化与公共性重组。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 26
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Rescaling]]"
   - "[[International Education]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Competitiveness]]"
   - "[[Document]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Endogenous and Exogenous Privatisation]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Pluri-Scalar Governance
@@ -116,7 +117,7 @@ updated: 2026-10-02
 > **应用实例** 跨国私立高等教育机构（如欧美大学海外分校或营利性教育跨国集团）依据 GATS 商业存在条款进入发展中国家办学；当东道国教育部试图以教学质量或意识形态为由限制其营利汇出或专业设置时，跨国机构可诉诸 WTO 贸易争端解决机制，直接挑战了东道国教育部对高等教育准入与课程管辖的传统排他性主权。
 
 > [!theory-proposition] 命题二｜多标度治理并不意味着国家消亡而是国家策略性利用超国家规则的主动再领土化
-> **解释** 多标度治理框架明确拒绝简单的“国家退场”或“主权消亡论”。民族国家并非外部资本与超国家机构的被动承受者；相反，在新自由主义全球化与[[Knowledge-Based Economy|知识经济]]竞争压力下，许多国家为了提升本国经济与科技的跨国竞争力，极其主动地申请加入 WTO 等超国家机构并主动签订多边协定。国家通过多标度机制将原本封闭的内部体系推向全球，利用外部国际标准倒逼国内公共部门改革，实现了国家统治逻辑与资本积累目标在新空间标度上的“再领土化”。[[Argument_Arnove_2009_WorldSystems|(Robertson et al., 2002; Arnove, 2009, p. 111)]]
+> **解释** 多标度治理框架明确拒绝简单的“国家退场”或“主权消亡论”。民族国家并非外部资本与超国家机构的被动承受者；相反，在新自由主义全球化与[[Knowledge-Based Economy|知识经济]]竞争压力下，许多国家为了提升本国经济与科技的跨国[[Competitiveness|竞争力]]，极其主动地申请加入 WTO 等超国家机构并主动签订多边协定。国家通过多标度机制将原本封闭的内部体系推向全球，利用外部国际标准倒逼国内公共部门改革，实现了国家统治逻辑与资本积累目标在新空间标度上的“再领土化”。[[Argument_Arnove_2009_WorldSystems|(Robertson et al., 2002; Arnove, 2009, p. 111)]]
 >
 > **应用实例** 中国在 2001 年加入世界贸易组织时，教育服务贸易被列入具体承诺清单。中央政府并未丧失治理权，而是策略性利用世贸多边规则，出台《中外合作办学条例》，一方面积极引进世界一流大学优质科研教学资源，另一方面将境外资本严格限制在非义务教育阶段，使多标度规则直接服务于国家科技自立与高等教育现代化战略。
 

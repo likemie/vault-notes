@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_ForgottenThemes"
 argument_key: "Argument_Kazamias_2009_ForgottenThemes"
 argument_display_title: "Forgotten Men, Forgotten Themes: The Historical-philosophical-cultural and Liberal Humanist Motif in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 82
+argument_related_count: 83
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -74,6 +74,7 @@ related_concepts:
   - "[[Analytical Stance]]"
   - "[[Liberal Education]]"
   - "[[Enlightenment]]"
+  - "[[Competitiveness]]"
   - "[[Epoché]]"
   - "[[Operationalization]]"
   - "[[Doxa]]"
@@ -394,7 +395,7 @@ updated: 2026-09-07
 >
 > - **理性主义时代的启蒙科学与世俗国家塑造（Rationalism）**
 >
->   培根、[[René Descartes\|笛卡尔]]、洛克、[[Jean-Jacques Rousseau\|卢梭]]与康德掀起的科学革命与[[Enlightenment\|启蒙运动]]，以人类自主理性、经验观察与自然法则彻底驱逐了传统神学权威与经院残余。启蒙哲人坚信人性的无限可塑性与通过教育实现社会进步的历史乐观主义；卢梭《爱弥儿》开创遵循儿童天性的自然主义教育，[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]推进现代要素教学法。在政治维度上，民族主权国家崛起并将教育视为培育公民国家认同、传播科学知识与强化国家竞争力的战略杠杆，国家政权逐步从教会手中收回教育领导权（如普鲁士 1794 年《普通邦法》与法国大革命及拿破仑帝国大学），由此确立了由国家集中规划的现代公共教育系统。
+>   培根、[[René Descartes\|笛卡尔]]、洛克、[[Jean-Jacques Rousseau\|卢梭]]与康德掀起的科学革命与[[Enlightenment\|启蒙运动]]，以人类自主理性、经验观察与自然法则彻底驱逐了传统神学权威与经院残余。启蒙哲人坚信人性的无限可塑性与通过教育实现社会进步的历史乐观主义；卢梭《爱弥儿》开创遵循儿童天性的自然主义教育，[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]推进现代要素教学法。在政治维度上，民族主权国家崛起并将教育视为培育公民国家认同、传播科学知识与强化[[Competitiveness|国家竞争力]]的战略杠杆，国家政权逐步从教会手中收回教育领导权（如普鲁士 1794 年《普通邦法》与法国大革命及拿破仑帝国大学），由此确立了由国家集中规划的现代公共教育系统。
 >
 > - **工业科学技术时期的大众教育与人性异化危机（Science and Technology）**
 >

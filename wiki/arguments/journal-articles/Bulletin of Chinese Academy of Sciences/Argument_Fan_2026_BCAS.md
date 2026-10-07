@@ -29,6 +29,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Document]]"
   - "[[Avatar]]"
+  - "[[Competitiveness]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Big Science]]"
@@ -67,6 +68,7 @@ related_facts:
   - "[[NSF Broader Impacts Criterion]]"
   - "[[A Strategy for American Innovation 2011]]"
   - "[[March for Science 2017]]"
+  - "[[Genesis Mission]]"
 related_arguments: []
 sources:
   - "[[sources/Fan_2026_BCAS|Fan_2026_BCAS]]"
@@ -80,9 +82,9 @@ title: "Argument_Fan_2026_BCAS"
 argument_key: "Argument_Fan_2026_BCAS"
 argument_display_title: "科学还是无止境的边疆吗——从“科学的社会契约”看美国科学政策的过去与未来"
 argument_kind: "journal-article"
-argument_related_count: 43
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "中国科学院院刊"
 ---
@@ -222,7 +224,7 @@ journal: "中国科学院院刊"
 ### 论证步骤三　冷战终结与赤字攀升削弱了安全正当性，迫使科学界转向巴斯德象限以自证经济与社会价值（1990—2009）
 
 > [!claim] 步骤三核心主张
-> 苏联解体打破了国家安全对科研资助的天然背书，面对财政赤字与问责压力，科学界通过确立[[Pasteur's Quadrant|巴斯德象限]]与应用启发基础研究概念，自证对经济竞争力与社会繁荣的贡献，推动契约进入以自证价值为前提的再协商期。（pp. 1059–1060）
+> 苏联解体打破了国家安全对科研资助的天然背书，面对财政赤字与问责压力，科学界通过确立[[Pasteur's Quadrant|巴斯德象限]]与应用启发基础研究概念，自证对经济[[Competitiveness|竞争力]]与社会繁荣的贡献，推动契约进入以自证价值为前提的再协商期。（pp. 1059–1060）
 
 #### 1. 安全红利消退与财政赤字引发的“重新签约”辩论
 
@@ -296,7 +298,7 @@ journal: "中国科学院院刊"
 
 > [!feature] 2025 年起技术优先导向的四项治理变革（p. 1062）
 > - **国家利益直接绑定关键技术** 科技政策彻底放弃“为知识而知识”，以赢得战略新兴技术竞争作为统领一切的国家叙事。
-> - **新型行政资源动员链条** 确立总统定向、联邦统筹、部门执行的垂直链条，依托 AI 行动计划与创世纪计划动员企业和国家实验室，大学轴心地位边缘化。
+> - **新型行政资源动员链条** 确立总统定向、联邦统筹、部门执行的垂直链条，依托 AI 行动计划与[[Genesis Mission|创世纪计划]]动员企业和国家实验室，大学轴心地位边缘化。
 > - **惩罚性预算调整与行政扣留** 动用扣留拨款（impoundment）裁量权，全面冻结或削减气候变化、公共卫生、成瘾医学及 DEI 领域的科研经费。
 > - **受限与政治化自治** 颁布《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，以数据透明和方法复现为名强化行政审计，学术自治滑向受限自治。
 
@@ -356,7 +358,7 @@ journal: "中国科学院院刊"
 > [!contrast-table] 二战后美国[[Social Contract of Science|科学社会契约]]演化的四阶段五维比较表（pp. 1058–1063）
 > | 分析维度 | 契约稳定期（1945—1989） | 再协商与再定义期（1990—2009） | 危机与重构期（2010—2024） | 2025 年起技术型替代期 |
 > |:---|:---|:---|:---|:---|
-> | **合法性基础** | 国家安全独大；科学象征民主、自由与现代化，科学家代表国家理性 | 经济竞争力、社会相关性与公共问责；科学须自证应用转化潜力 | 宏大社会挑战导向；政党极化冲击信任，[[Research Security\|科研安全]]全面上升为国家议题 | 关键新兴技术领先、再工业化与安全供应链；行政可验证性取代认知权威 |
+> | **合法性基础** | 国家安全独大；科学象征民主、自由与现代化，科学家代表国家理性 | 经济[[Competitiveness\|竞争力]]、社会相关性与公共问责；科学须自证应用转化潜力 | 宏大社会挑战导向；政党极化冲击信任，[[Research Security\|科研安全]]全面上升为国家议题 | 关键新兴技术领先、再工业化与安全供应链；行政可验证性取代认知权威 |
 > | **制度与资源支持** | 建立多元分布式资助体系；研发经费黄金十年，基础研究获信任型托底 | 转向竞争性项目制与跨部门公私协同；设立 [[National Science and Technology Council\|NSTC]]、ATP 与纳米倡议 | 经费总额虽未大减但预期高度不稳定；资金向战略技术与产业法案倾斜 | 总统统筹与公私伙伴；向国家实验室与企业集中，动用资金扣留惩罚非优先领域 |
 > | **自治空间** | 高自治与高嵌入；[[President's Science Advisory Committee\|PSAC]] 参与最高决策，同行评议保障立项充分自主 | 自治附带透明度与合规前提；科学家维持学术评价主导权但需自证价值 | 国际合作、学者流动全面纳入安全合规审查；自治受政治与安全双重挤压 | 颁布《[[Restoring Gold Standard Science Executive Order\|恢复黄金标准的科学]]》行政令；行政深度介入议题选择，自治极度收缩 |
 > | **功能期待** | 储备应对未来不确定性的战略技术潜能；无短期即时回报压力 | 推动经济繁荣、创造就业与解决环境健康问题；确立[[Pasteur's Quadrant\|巴斯德象限]][[Paradigm\|范式]] | 承担解决国家重大战略挑战与社会公平责任；多重功能负载剧增 | 产出快速、可量化、可审计的实用技术成果；探索未知功能被系统性弱化 |

@@ -33,6 +33,7 @@ related_concepts:
   - "[[User-Producer Interaction]]"
   - "[[Total Quality Management]]"
   - "[[Lean Production]]"
+  - "[[Competitiveness]]"
   - "[[Industrial District]]"
 related_theories:
   - "[[Systems of Innovation]]"
@@ -73,7 +74,7 @@ title: "Argument_Freeman_1995_CJE"
 argument_key: "Argument_Freeman_1995_CJE"
 argument_display_title: "The 'National System of Innovation' in historical perspective"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -249,7 +250,7 @@ issuing_organization: ""
 > | **教育与工程人才供给** | 普及全民基础教育，高等教育入学率大幅提高，工科毕业生比例极高。 | 公共教育质量滑坡，中途失学率高，工程技术专业人才供给严重不足。 |
 > | **技术引进与本土研发** | 引进国外先进技术的同时大力开展本土消化与二次研发，企业研发占比超过 50%。 | 依赖引进成套设备而缺乏本土消化吸收，企业自主研发投入长期低于 25%。 |
 > | **产业与网络联系** | 抓住 1980 年代日元升值契机吸纳外部投资，积极吸收[[Lean Production\|精益生产]]（Lean Production）与网络化管理方式。 | 外资投入持续萎缩，缺乏深度的跨国技术网络合作。 |
-> | **基础设施建设** | 重点投资现代数字电信网络，形成具有全球竞争力的电子制造出口支柱。 | 通信基础设施建设缓慢，电子工业基础脆弱，在国际市场上缺乏产品竞争力和反馈。（p. 13） |
+> | **基础设施建设** | 重点投资现代数字电信网络，形成具有全球[[Competitiveness\|竞争力]]的电子制造出口支柱。 | 通信基础设施建设缓慢，电子工业基础脆弱，在国际市场上缺乏产品竞争力和反馈。（p. 13） |
 
 > [!row-contrast]- 表 4：1980 年代巴西与韩国国家创新系统量化指标对比
 > | 关键技术能力与国家制度指标 | 巴西 | 韩国 | 制度含义与解释 |

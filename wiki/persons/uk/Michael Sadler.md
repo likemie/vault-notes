@@ -8,7 +8,7 @@ summary: "英国比较教育先驱与历史主义学派代表人物，主持教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 55
+person_related_count: 56
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Epistemology]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Competitiveness]]"
   - "[[Educational Meliorism]]"
   - "[[Positivism]]"
   - "[[Operationalization]]"
@@ -84,7 +85,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: '2026-06-08'
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Michael Sadler
@@ -250,7 +251,7 @@ updated: 2026-10-02
 > - **行政论敌** 罗伯特·莫兰特（Robert Morant） — 英国教育部常务次官，莫兰特主张教育部应追求直接的技术和行政控制，与萨德勒坚持学术调查的独立性产生正面冲突，最终导致萨德勒辞职。
 > - **学者评价** [[Wolfgang Mitter]] — 米特将萨德勒定性为推动现代大学比较教育率先在英国生根、开辟伦敦大学教育研究院知识传统的学科奠基者。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 89–90)]]
 > - **学科史阐发者** [[Andreas Kazamias]] — 卡扎米亚斯将萨德勒确立为终结第一代行政借用、开创第二论述代际的历史文化奠基人。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 141–143)]]
-> - **制度机构** 特别调查与报告办公室（[[Office of Special Inquiries and Reports\|OSIR]]） — 萨德勒在此设计并主持了首个以国家竞争力为核心的地缘教育政策分析工程。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 420)]]
+> - **制度机构** 特别调查与报告办公室（[[Office of Special Inquiries and Reports\|OSIR]]） — 萨德勒在此设计并主持了首个以[[Competitiveness|国家竞争力]]为核心的地缘教育政策分析工程。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 420)]]
 
 ---
 

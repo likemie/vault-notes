@@ -9,7 +9,7 @@ summary: "苏联发明家、工程师与创造力科学家，发明问题解决�
 type: person
 nationality: "russia"
 person_region: "russia"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[SCAMPER]]"
   - "[[Creativity]]"
   - "[[Champ]]"
+  - "[[Engineering Education]]"
   - "[[Brainstorming]]"
   - "[[Dialogue in Education]]"
 related_theories:
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-04
+updated: 2026-10-07
 ---
 
 # Genrich Altshuller
@@ -110,7 +111,7 @@ updated: 2026-10-04
 > [!influence-path] 影响路径
 > - **理论路径** 创立了国际发明工程学与技术系统演化学派，颠覆了西方以“完全自由发散”为主流的[[Creativity\|创造力]]传统，确立了“算法化逻辑收敛”的东欧创新流派。
 > - **方法路径** 提出的 40 个发明原理、39 矛盾矩阵与物-场分析，成为全球高科技制造企业（如三星电子、[[Taiwan Semiconductor Manufacturing Corporation|台积电]]、英特尔）核心研发骨干的必修工程方法学。
-> - **工程教育路径** 全球顶尖大学工学院（如 MIT、清华大学、斯坦福大学）纷纷设立 [[TRIZ]] 与创新设计专修课程；在当代教育实证[[Meta-analysis\|元分析]]中作为“技术型训练（Technique-based training）”的核心代表方案。
+> - **[[Engineering Education|工程教育]]路径** 全球顶尖大学工学院（如 MIT、清华大学、斯坦福大学）纷纷设立 [[TRIZ]] 与创新设计专修课程；在当代教育实证[[Meta-analysis\|元分析]]中作为“技术型训练（Technique-based training）”的核心代表方案。
 
 ---
 

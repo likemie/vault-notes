@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 内阁级跨部门科技政策协调委员会
 headquarters: 美国华盛顿特区白宫（The White House, Washington, D.C., USA）
@@ -23,6 +23,7 @@ tags:
   - region/us
   - policy/coordination-mechanism
 related_concepts:
+  - "[[Competitiveness]]"
   - "[[Grand Challenges]]"
   - "[[Research Security]]"
   - "[[Technology-Oriented Social Contract]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # National Science and Technology Council
@@ -57,7 +58,7 @@ updated: 2026-10-06
 > 国家科学技术委员会（National Science and Technology Council, NSTC）是直属于美国总统的内阁级跨部门科技政策统筹与协调中枢。作为连接白宫中枢与各联邦科研部委的最高协调平台，NSTC 负责将国家大战略转化为跨部门联邦科技投资计划，确保各部委在研发预算、重大战略工程与科技规则上形成协同合力。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1059)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1993 年 11 月 23 日由比尔·克林顿（Bill Clinton）总统签署第 12881 号行政令设立；其动因是在冷战结束与国防军费削减的背景下，克服联邦科技管理各自为政的官僚壁垒，确立国家经济竞争力导向的科技新秩序。
+> - **成立时间 / 创设背景** 1993 年 11 月 23 日由比尔·克林顿（Bill Clinton）总统签署第 12881 号行政令设立；其动因是在冷战结束与国防军费削减的背景下，克服联邦科技管理各自为政的官僚壁垒，确立国家经济[[Competitiveness|竞争力]]导向的科技新秩序。
 > - **总部地点 / 业务辐射** 设于白宫执行办公室，由[[Office of Science and Technology Policy|白宫科学技术政策办公室]]（OSTP）提供常设幕僚支持；统筹业务覆盖国防部、能源部、卫生与公众服务部、[[National Science Foundation|NSF]]、NASA 等全美 20 余个涉及研发的联邦部委与独立机构。
 > - **法人属性与经费基础** 总统直属内阁级协调机构；运行依托白宫行政预算，本身不直接管理独立分发性科研资金，而是通过审查、整合与指导各部委研发预算优先序行使法定统筹权。
 > - **核心宗旨与法定职责** 确保联邦科技政策与国家经济增长、国家安全、环境保护及社会福祉等宏观目标高度一致；协调跨部委重大前沿研发项目，消除部门间职能重叠与资源浪费。
@@ -67,7 +68,7 @@ updated: 2026-10-06
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **1993–2000 — 创设奠基与经济竞争力导向确立** 克林顿政府组建 NSTC，确立总统挂帅、内阁成员参与的高规格架构；深度主导 1994 年《[[Science in the National Interest 1994|科学与国家利益]]》白皮书落地，统筹推动国家纳米技术倡议（NNI）等跨部门公私协同旗舰计划。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
+> - **1993–2000 — 创设奠基与经济[[Competitiveness|竞争力]]导向确立** 克林顿政府组建 NSTC，确立总统挂帅、内阁成员参与的高规格架构；深度主导 1994 年《[[Science in the National Interest 1994|科学与国家利益]]》白皮书落地，统筹推动国家纳米技术倡议（NNI）等跨部门公私协同旗舰计划。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
 > - **2001–2016 — 职能深化与[[Grand Challenges|重大挑战]]导向重塑** 小布什与奥巴马时期，NSTC 下设委员会制度化扩容，聚焦反恐国家安全、气候变化监测、先进制造（Advanced Manufacturing）及干细胞/生命伦理准则，推动科研向重大社会挑战聚焦。
 > - **2017–至今 — 大国竞争加剧与再集中转向** 特朗普第一任期与拜登时期，NSTC 重点转向关键与新兴技术清单制定、量子与人工智能跨部门行动计划推进，以及[[Research Security|科研安全]]跨部门联合审查标准的出台；2025 年起在[[Technology-Oriented Social Contract|技术型社会契约]]导向下，进一步成为落实总统定向技术攻关指令的行政杠杆。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1061–1062)]]
 

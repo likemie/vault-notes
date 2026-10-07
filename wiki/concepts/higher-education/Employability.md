@@ -6,7 +6,7 @@ aliases:
 summary: "知识经济时代围绕毕业生可雇用性形成的比较排序逻辑，文凭只是入场门槛，个体还需通过经历管理和能力展示争取竞争优势"
 type: concept
 domain: "higher-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Graduate Attributes]]"
   - "[[Global Citizenship]]"
   - "[[Lifelong Learning]]"
+  - "[[Competitiveness]]"
   - "[[Economy of Experience]]"
   - "[[Credential Inflation]]"
   - "[[Soft Power]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-09-16
+updated: 2026-10-07
 ---
 
 # Employability
@@ -69,7 +70,7 @@ updated: 2026-09-16
 ## 概念辨析
 
 > [!example]
-> - vs [[Graduate Attributes]] — 毕业生特质涵盖更广泛的人文素养（[[Global Citizenship\|全球公民]]、[[Lifelong Learning\|终身学习]]、学术素养等），就业能力是其中一个维度。毕业生特质从**大学机构视角**定义毕业生应具备的品质，就业力从**劳动力市场视角**定义求职者的竞争力([[Argument_Wong_2022_HERD\|Wong et al., 2022, p.1341]])
+> - vs [[Graduate Attributes]] — 毕业生特质涵盖更广泛的人文素养（[[Global Citizenship\|全球公民]]、[[Lifelong Learning\|终身学习]]、学术素养等），就业能力是其中一个维度。毕业生特质从**大学机构视角**定义毕业生应具备的品质，就业力从**劳动力市场视角**定义求职者的[[Competitiveness|竞争力]]([[Argument_Wong_2022_HERD\|Wong et al., 2022, p.1341]])
 > - vs [[Economy of Experience]] — 就业力是**目标概念**（求职者需要具备就业力），履历经济学是**过程机制**（大学生如何通过管理课余生活来积累就业力）（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）
 > - vs [[Credential Inflation]] — 文凭通胀是就业力从绝对概念转向相对概念的结构性前提：当大学文凭的交换价值缩水，就业力的比较性竞争加剧，"软"实力成为新战场
 
@@ -117,7 +118,7 @@ SCD 中突出强调的技能主要是**结果导向的（outcome-oriented）**�
 > [!success]
 > - 就业力的相对性逻辑解释了为何[[Social Engagement\|社会性投入]]在精英大学就业竞争中比[[Academic Engagement\|学业投入]]对就业力的比较性排序更具决定性——实习、学生工作、国际交流等"软"经历成为区分求职者的关键信号（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）
 > - 就业力竞争同时再生产了阶层不平等：优势家庭的学生拥有更多经济和文化资源来投资和包装课余经历，在就业力竞争中占据结构性优势
-> - 钦凯（南方大学化学系）将求职竞争力拆分为"硬"条件（学历、业务素养）和"软"条件（"演绎"——情商、印象管理、转化率），认为后者是决定性的。他手持多个顶级咨询公司入职邀请，最终选择了"既有钱，又有趣"的工作
+> - 钦凯（南方大学化学系）将求职[[Competitiveness|竞争力]]拆分为"硬"条件（学历、业务素养）和"软"条件（"演绎"——情商、印象管理、转化率），认为后者是决定性的。他手持多个顶级咨询公司入职邀请，最终选择了"既有钱，又有趣"的工作
 
 ---
 
@@ -134,7 +135,7 @@ SCD 中突出强调的技能主要是**结果导向的（outcome-oriented）**�
 
 > [!example]
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]第4章援引 Brown 的就业力概念，分析大学生[[Social Engagement\|社会性投入]]的重要性——"毕业生需要精心打造自己的简历，不仅展示[[Academic Achievement\|学业表现]]，更重要的是通过恰当的履历来展示自己的素质和品质"
-> - 钦凯案例：将求职竞争力拆分为"硬""软"条件，广泛结交年长商界精英以建立面试从容感，体现就业力管理的个人化逻辑。详见 [[Economy of Experience]]
+> - 钦凯案例：将求职[[Competitiveness|竞争力]]拆分为"硬""软"条件，广泛结交年长商界精英以建立面试从容感，体现就业力管理的个人化逻辑。详见 [[Economy of Experience]]
 > - 就业力竞争与[[Goal-Controlled Mode\|目标掌控模式]]的关系：目标掌控者对就业力竞争的逻辑有更清晰的认识，更早开始策略性地积累就业力（如实习、职业社交、简历包装）
 
 ---

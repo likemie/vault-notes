@@ -24,6 +24,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Asymmetric Brain Circulation]]"
   - "[[Attrition]]"
+  - "[[Competitiveness]]"
   - "[[Research Universities]]"
   - "[[Geisteswissenschaften]]"
   - "[[Big Science]]"
@@ -53,7 +54,7 @@ title: "Argument_Dezhina_2022_ECO"
 argument_key: "Argument_Dezhina_2022_ECO"
 argument_display_title: "Movement towards Autarky in Russian Science through the Prism of International Cooperation"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -142,7 +143,7 @@ issuing_organization: ""
 > [!chain-link] 人才循环与合作退潮的因果推导
 > - **人才流出结构高度倾斜于学术发达国家** 尽管俄罗斯官方人才流动数据不完整，但NSF（2017）统计显示，在美获得PhD学位且在学术机构工作的外籍人员中，来自俄罗斯（含前苏联）的人口占比为2%（约为2000人）。虽然在美俄罗斯学者总量较小，但流出方向高度集中于美国、德国等世界顶尖科学强国，导致核心智力资源[[Attrition\|流失]]。（pp.40–41）
 > - **流入人才质量与学术地位非对等** 自2015年起，来自独联体（CIS）国家来俄的研究人员数量翻倍，这在总量上虽然弥补了科学人口流失，但属于以学术水平相对落后地区的流入替代向学术先进地区的流出，构成了非对等循环，难以弥补高端人才流失对科学系统造成的质量损害。（p.41）
-> - **“5-100计划”引智成效不佳且指标注水** 作为旨在提升俄罗斯大学竞争力的学术卓越计划，2013-2020年实施期间，21所参与高校中仅有5所在2020年实现了外籍专家比例超过10%的引智目标（表1）。且统计数据存在水分，各高校为了达到考核指标，将大量仅来访3-4个月的短期访问学者与签订长期（至少一年）聘用合同的学者合并计算，稀释了实质性引智的学术效能。（pp.41–42）
+> - **“5-100计划”引智成效不佳且指标注水** 作为旨在提升俄罗斯大学[[Competitiveness|竞争力]]的学术卓越计划，2013-2020年实施期间，21所参与高校中仅有5所在2020年实现了外籍专家比例超过10%的引智目标（表1）。且统计数据存在水分，各高校为了达到考核指标，将大量仅来访3-4个月的短期访问学者与签订长期（至少一年）聘用合同的学者合并计算，稀释了实质性引智的学术效能。（pp.41–42）
 > - **国际学术合著退潮与合作边缘化** 在Scopus数据库中，2014-2019年间俄罗斯国际合著论文占比不仅远低于美德等国，且未能跟上全球科学国际化步伐。在世界前 25 个科研领先国家中，俄罗斯没有成为其中任何一个国家的首要学术合作伙伴。在2020年4月针对COVID-19的跨国合著论文统计中，俄罗斯几乎完全处于全球主流合作网络之外，进一步加剧了其在科学前沿的孤立状态。（pp.43–44）
 
 > [!contrast-table]- 表1 2020年俄罗斯“5-100”计划中外籍专家占比超过10%的高校

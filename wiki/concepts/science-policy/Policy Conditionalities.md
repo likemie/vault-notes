@@ -10,7 +10,7 @@ aliases:
 summary: "现代产业政策中政府向受补贴或受资助企业施加的契约性与法定约束机制；通过将公共财政支持与公共价值目标（包括高标准劳动力发展、托儿支持、禁止股票回购、超额利润分享、国家安全护栏及本土采购含量要求等）硬性绑定，旨在克服传统产业补贴的私营资本寻租与无条件分红弊端，实现兼具经济效率、供应链安全与社会包容的双重目标。"
 type: concept
 domain: "science-policy"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Orchestrator State]]"
   - "[[Operationalization]]"
+  - "[[Competitiveness]]"
   - "[[Embedded Autonomy]]"
 related_theories: []
 related_methods:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Policy Conditionalities
@@ -214,7 +215,7 @@ updated: 2026-10-06
 
 > [!debates] 学术争议
 >
-> > [!axis] 社会价值绑定 vs. 削弱产业政策核心竞争力
+> > [!axis] 社会价值绑定 vs. 削弱产业政策核心[[Competitiveness|竞争力]]
 > > 争论产业法案是否应当承载过多劳工、托儿、环境等社会性目标。
 > >
 > > - **效率优先论批评** 认为产业政策的首要目标是快速建立半导体与关键产业产能，附加过多的社会政策条款将分散行政精力、增加建厂阻力并推高制造成本。

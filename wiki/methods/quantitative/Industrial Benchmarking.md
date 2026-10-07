@@ -11,7 +11,7 @@ summary: "通过系统测量与标准化跨企业或跨国生产制造绩效指�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Technological Catch-up]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
+  - "[[Competitiveness]]"
   - "[[Total Quality Management]]"
   - "[[Variable]]"
   - "[[Independent Variable]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-04
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Industrial Benchmarking
@@ -77,7 +78,7 @@ updated: 2026-10-05
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 认为真实的产业竞争力并非单纯由宏观要素禀赋或国家政策意图所决定，而是积淀于微观产线的工程管理实践、[[Statistical Process Control|统计过程控制]]与持续学习能力之中。
+> - **知识观** 认为真实的产业[[Competitiveness|竞争力]]并非单纯由宏观要素禀赋或国家政策意图所决定，而是积淀于微观产线的工程管理实践、[[Statistical Process Control|统计过程控制]]与持续学习能力之中。
 > - **研究者角色** 研究者需深入产业实地设计标准化的工程测量协议，并在企业保密约束下对跨国异质数据进行口径对齐与归一化处理。
 > - **有效性标准** 强调工程测量口径的严密一致性、技术代际可比性、剔除外包与转移生产干扰的产地归属性。
 > - **不声称回答的问题** 不能仅凭物理生产率指标直接推断企业的宏观商业利润或最终市场份额，因后者还受到产品组合溢价、资本结构与互补资产的综合影响。
@@ -147,7 +148,7 @@ updated: 2026-10-05
 > [!method-limits] 方法局限
 > - **偏误来源** 参与企业自愿披露意愿导致的自选择偏误；不同厂商测试标准宽严不一造成的测量噪音。
 > - **适用边界** 物理制造绩效的收敛并不必然等同于全产业链竞争优势的重建，容易忽视下游产品设计创新与互补性资产的作用。
-> - **误用风险** 将产线良率单一指标直接等同于企业整体商业竞争力，忽视产品平均销售价格（Average Selling Price, ASP）与利润率的决定性影响。
+> - **误用风险** 将产线良率单一指标直接等同于企业整体商业[[Competitiveness|竞争力]]，忽视产品平均销售价格（Average Selling Price, ASP）与利润率的决定性影响。
 > - **补救方式** 将产线微观标杆数据与宏观产业进出口统计、产品线重组战略及企业财务绩效进行[[Triangulation|三角互证]]。
 
 ---

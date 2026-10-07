@@ -9,7 +9,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
   - policy/education
 related_concepts:
   - "[[Innovation Ecosystem]]"
+  - "[[Competitiveness]]"
   - "[[Growth]]"
   - "[[Performance Indicators]]"
   - "[[Selectivity]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-13
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Innovation Union
@@ -59,7 +60,7 @@ updated: 2026-10-03
 > [!abstract]
 > Innovation Union 旨在构建覆盖全欧盟的"[[Innovation Ecosystem\|创新生态]]体系"（innovation eco-system）。该政策同时具有两个维度([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168, 170–171]])：
 >
-> **竞争力维度** 强调全球市场中的创新竞争力，核心目标包括：
+> **[[Competitiveness|竞争力]]维度** 强调全球市场中的创新竞争力，核心目标包括：
 > - 将研发和市场基础设施纳入共同框架
 > - 建立汇集欧盟内外行动者的合作伙伴关系和协调一致的策略
 > - 减少碎片化、协调采购、集中力量、谨慎设计外部杠杆

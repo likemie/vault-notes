@@ -8,7 +8,7 @@ aliases:
 summary: "教师布置并在校外非教学时段由学生独立或在支持下完成的学习任务，其学业效果受学段认知发展高度调节，并在元分析构念聚合与比较基线不对等上面临方法学争议"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Paradigm]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Competitiveness]]"
   - "[[Cultural Capital]]"
   - "[[Variable]]"
   - "[[Epistemic Agency]]"
@@ -76,7 +77,7 @@ related_instruments:
 confidence: high
 status: active
 created: '2026-06-08'
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 # Homework
@@ -195,7 +196,7 @@ updated: 2026-09-26
 
 > [!dev-timeline] 概念演变脉络
 > - **20 世纪初至中叶 — [[Disciplina and Doctrina\|规训]]心智操练论与惩罚工具** 家庭作业长期被视作训练儿童意志力、服从权威与惩治违纪的道德惩戒手段，缺乏明确的认知建构设计。
-> - **冷战与 1960 年代 — 国家竞争力与学科知识强化** 随着人造卫星危机（[[Sputnik Shock 1957\|Sputnik]] Crisis）爆发，家庭作业被迅速政治化，演变为提升数学与科学国家学术竞争力的硬性教学指标。
+> - **冷战与 1960 年代 — [[Competitiveness|国家竞争力]]与学科知识强化** 随着人造卫星危机（[[Sputnik Shock 1957\|Sputnik]] Crisis）爆发，家庭作业被迅速政治化，演变为提升数学与科学国家学术竞争力的硬性教学指标。
 > - **1980–2000 年代初 — 早期量化[[Meta-analysis\|元分析]]与“越多越好”迷思** 随着教育实证量化兴起，哈里斯·库珀（Harris Cooper）与沃尔伯格（Walberg）等团队开展第一代元分析，确立了作业量与[[Academic Achievement\|学业成绩]]的正相关，但在实践中催生了机械刷题与作业过量的功利倾向。
 > - **2000 年代末至 2010 年代中 — [[Meta-meta-analysis\|元综合]]反思与[[Construct\|构念]][[Heterogeneity\|异质性]]批判** [[John Hattie\|约翰·哈蒂]]（John Hattie）发布元综合（$d = 0.29$）后，学界掀起对平均[[Effect Size\|效应量]]的方法学大反思：特哈特（[[Argument_Terhart_2011_JCS\|Terhart, 2011]]）揭示 21% 班级提分的微弱实质；斯努克等（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]）确立小学与中学学段断层；希金斯（[[Argument_Higgins_2016_ROE\|Higgins, 2016]]）与辛普森（[[Argument_Simpson_2017_JEP\|Simpson, 2017]]）系统批判“苹果与橙子”构念混淆及基线不对等性。
 > - **2018 年至今 — 因果循证时代教师微观决策与微型试验转向** [[Education Endowment Foundation\|EEF]] 在 2018 年审议资助机制时，推动因果研究从宏观外部商业项目走向“教师微观选择（[[Teacher Choices]]）”，针对“逐本批改 vs 全班集中反馈”等日常作业反馈决策，探索被试内微型试验与形成性诊断支持。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 56)]]

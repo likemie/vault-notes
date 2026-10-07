@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ tags:
 related_concepts:
   - "[[New York Bay Area]]"
   - "[[Valley of Death]]"
+  - "[[Competitiveness]]"
   - "[[Paradigm]]"
   - "[[Innovation Ecosystem]]"
   - "[[Technology Transfer]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # McGovern Center for Venture Development
@@ -54,7 +55,7 @@ updated: 2026-10-06
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 康奈尔大学麦戈文创业孵化中心（McGovern Center for Venture Development in the Life Sciences）是康奈尔大学设立的专业化生命科学与高科技初创企业孵化机构。作为[[New York Bay Area|纽约湾区]]高校产学研协同创新中“科技孵化器模式”的标杆载体，中心旨在协助康奈尔大学科研团队跨越从实验室前沿发现到商业化落地之间的“[[Valley of Death|死亡之谷]]”，推动高校前沿专利转化为具备市场竞争力与投资价值的初创实体。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
+> 康奈尔大学麦戈文创业孵化中心（McGovern Center for Venture Development in the Life Sciences）是康奈尔大学设立的专业化生命科学与高科技初创企业孵化机构。作为[[New York Bay Area|纽约湾区]]高校产学研协同创新中“科技孵化器模式”的标杆载体，中心旨在协助康奈尔大学科研团队跨越从实验室前沿发现到商业化落地之间的“[[Valley of Death|死亡之谷]]”，推动高校前沿专利转化为具备市场[[Competitiveness|竞争力]]与投资价值的初创实体。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2008 年由康奈尔大学在慈善家资助及纽约州科技创新政策支持下正式建立。

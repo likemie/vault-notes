@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 82
+fact_related_count: 83
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -57,6 +57,7 @@ related_concepts:
   - "[[Performance Pay]]"
   - "[[Governing by Numbers]]"
   - "[[Navigation Metaphor in Comparative Education]]"
+  - "[[Competitiveness]]"
   - "[[Self-Efficacy]]"
   - "[[Mediatised Governance]]"
   - "[[Falling Standards Template]]"
@@ -112,7 +113,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-05-17
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # PISA
@@ -234,7 +235,7 @@ updated: 2026-10-03
 
 > [!tension] PISA 测评的核心争议与学术反思
 > - **[[Construct\|构念]]有效性与“未来技能”的拟制（Fabricated Claims）** PISA 宣称测量“未来生活所需的基本技能”，但学者批评该主张缺乏前瞻实证依据；测验题目本质上依赖[[Pilot Testing\|预测试]]中的情境拟合，大规模[[Meta-analysis\|元分析]]显示其测量结果与传统 [[TIMSS]] 或一般认知能力（g 因子）高度重合（Hopmann, 2008; Rindermann, 2007; [[Argument_Zhao_2020_JEC\|Zhao, 2020]]）。
-> - **经济功利主义与单一狭隘教育观（Narrowed Purposes of Education）** PISA 将国家经济竞争力作为教育的核心目的，长期忽视人文、艺术、历史、公民道德及身心健康；将复杂的多元教育价值简化为冷酷的跨国排行榜（Sjøberg, 2015）。
+> - **经济功利主义与单一狭隘教育观（Narrowed Purposes of Education）** PISA 将国家经济[[Competitiveness|竞争力]]作为教育的核心目的，长期忽视人文、艺术、历史、公民道德及身心健康；将复杂的多元教育价值简化为冷酷的跨国排行榜（Sjøberg, 2015）。
 > - **学科[[Epistemology|认识论]]矮化与航海隐喻瓦解（Disciplinary Epistemological Erosion & Loss of Navigation）** 比较教育学科史学者指出，PISA 的绝对主导地位重构了比较教育的政策咨询生态。PISA 的跨国测试将复杂的国家教育体系简化为去语境化的排列表（浅层比较），忽视了学校教育深植于民族国家历史、政治、社会文化容器中的生态共生性；同时，超国家机构设定的刚性问责指标打破了学者作为“中立航海领航员”的超然距离，迫使比较研究直接服从于国家间[[Human Capital Theory|人力资本]]竞争的技术官僚机器，导致比较教育的深层诠释传统与学术批判自主性被系统性侵蚀。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 95–96, 98–99)]]
 > - **高分低趣与科学抱负悖论（Score-Interest & Well-being Paradox）** 实证表明，PISA 科学高分国家的学生往往表现出更低的学科内在兴趣与更弱的未来科学职业抱负（Kjærnsli & Lie, 2011）；高分体系学生的心理幸福感（Well-being）与创业[[Self-Efficacy\|自我效能感]]往往显著偏低（OECD 2017; Royal Society, 2026a, p. 32）。
 > - **文化[[Transfer Translation Transformation\|转译]]偏误与美化威权教育（Authoritarian Cultural Misattribution）** 部分推广者将东亚部分地区的高分归因于“学生对失败的自我谴责与责任感”，但批判学者指出，自我谴责往往是威权式服从、严苛惩罚与高压管教的副产品，而非可移植的教育卓越秘诀。

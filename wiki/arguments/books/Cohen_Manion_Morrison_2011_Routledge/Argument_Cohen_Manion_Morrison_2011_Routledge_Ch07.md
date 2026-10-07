@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_display_title: "Research Methods in Education · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 73
+argument_related_count: 74
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -66,6 +66,7 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Reflexivity]]"
   - "[[Trustworthiness]]"
+  - "[[Competitiveness]]"
   - "[[Abstract]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -894,7 +895,7 @@ Furlong & Oancea (2005, pp.11–15) 识别了教育研究中的质量维度（pp
 >   - 激励个人成长
 > - **经济维度（Economic dimension）**
 >   - 成本效益
->   - 可市场化和竞争力
+>   - 可市场化和[[Competitiveness|竞争力]]
 >   - 可审计性
 >   - 可行性
 >   - 原创性

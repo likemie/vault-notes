@@ -7,7 +7,7 @@ title: "Argument_Revai(Ed.)_2022_OECD"
 argument_key: "Argument_Revai(Ed.)_2022_OECD"
 argument_display_title: "Who cares about using education research in policy and practice?: Strengthening research engagement"
 argument_kind: "edited-volume"
-argument_related_count: 62
+argument_related_count: 61
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -85,7 +85,6 @@ related_facts:
   - "[[Centre for Educational Research and Innovation]]"
   - "[[Strengthening the Impact of Education Research Project]]"
   - "[[Education Endowment Foundation]]"
-  - "[[Best Evidence Synthesis]]"
   - "[[What Works Clearinghouse]]"
   - "[[Monash Q Project]]"
 related_arguments:
@@ -195,7 +194,7 @@ updated: 2026-09-14
 >   - **阅读价值** 呈现教育学界与政策界如何克服将“知识视作现成商品”的传递谬误，转向将各主体视为深嵌于制度情境、权力网络与文化惯习中的系统协调者。
 > - **[[Educational Brokerage Agency\|教育中介机构]]的组织功能、机制分类与有效性循证**
 >   - **相关章节** Ch. 03 [[Argument_Burns_Schuller_2022_BrokerageAgencies]]；Ch. 04（Hill）；Ch. 05（Torres）；Ch. 07（Gough et al.）。
->   - **阅读价值** 对比各国中介组织（如英国 [[Education Endowment Foundation\|EEF]]、新西兰 [[Best Evidence Synthesis\|BES]]、美国 [[What Works Clearinghouse\|WWC]] 等）在治理依附、证据综合、工具包开发与转化指导上的差异，剖析其受制于短期政治与预算周期的生存悖论，以及迈向“中介的中介”的元治理进路。
+>   - **阅读价值** 对比各国中介组织（如英国 [[Education Endowment Foundation\|EEF]]、新西兰 BES、美国 [[What Works Clearinghouse\|WWC]] 等）在治理依附、证据综合、工具包开发与转化指导上的差异，剖析其受制于短期政治与预算周期的生存悖论，以及迈向“中介的中介”的元治理进路。
 > - **跨界合作、[[Knowledge Co-production\|知识共创]]与学术[[Varieties of Capitalism\|生产体制]]的结构性制约**
 >   - **相关章节** Ch. 01 [[Argument_Revai_2022_ChangingLandscape]]；Ch. 08（Halász）；Ch. 09 [[Argument_Rickinson_2022_UsingResearchWell]]；Ch. 10（Bangs et al.）。
 >   - **阅读价值** 深入探讨研究者、教师与政策制定者在知识共建过程中的文化冲突，揭示传统学术评价（SCI/SSCI 期刊崇拜）与实践导向[[Knowledge Production\|知识生产]]之间的制度断裂。

@@ -6,7 +6,7 @@ aliases:
 summary: "被政治权力塑造成具有特定技能、行为取向和空间心态的人形集合，用于分析教育如何服务于国家竞争和地缘政治想象。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -17,6 +17,7 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Competitiveness]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Innovation Ecosystem]]"
   - "[[Global Citizenship]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-05-20
+updated: 2026-10-07
 ---
 
 ## 定义
@@ -83,7 +84,7 @@ Moisio 刻意使用 **human figures**（人形）而非 people（人）、indivi
 
 
 > [!abstract] 1. 技能装备（Skills）
-> 最直观的层面：地缘政治主体需要具备在知识密集型资本主义中创造和提取价值的技术能力——编程、数据分析、设计思维、跨文化沟通等。这些技能的教育供给已经不再仅由民族国家课程体系决定，而是日益受到全球竞争力话语的驱动。
+> 最直观的层面：地缘政治主体需要具备在知识密集型资本主义中创造和提取价值的技术能力——编程、数据分析、设计思维、跨文化沟通等。这些技能的教育供给已经不再仅由民族国家课程体系决定，而是日益受到全球[[Competitiveness|竞争力]]话语的驱动。
 
 
 > [!abstract] 2. 行为与取向（Behaviors and Orientations）

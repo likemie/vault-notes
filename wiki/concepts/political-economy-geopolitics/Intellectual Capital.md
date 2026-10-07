@@ -9,7 +9,7 @@ aliases:
 summary: "由 19 世纪经济学家弗里德里希·李斯特率先提出、后被现代内生增长理论与演化经济学重新阐发的核心概念；指人类以往所有世代发现、发明、工艺改良与社会努力积累而成的无形财富总和，构成全社会脑力与体力生产能力的核心载体；强调有形物质投资的生产效率完全依附于智力资本的积累水平，后发国家的技术赶超本质上取决于其制度化吸纳与增进全人类智力资本的能力。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 21
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,9 +26,11 @@ related_concepts:
   - "[[Educational Level]]"
   - "[[Technological Catch-up]]"
   - "[[Technology Transfer]]"
+  - "[[Engineering Education]]"
   - "[[Determinism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Operationalization]]"
+  - "[[Competitiveness]]"
   - "[[Variable]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -47,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Intellectual Capital
@@ -128,7 +130,7 @@ updated: 2026-10-05
 > 考察单纯引进成套技术装备与培育本土智力资本对经济可持续性的不同影响。
 
 > [!claim] Freeman, C.
-> **吸收消化优于单纯装备引进** 19 世纪普鲁士通过工艺技校引进机床开展逆向工程，以及 1980 年代韩国大力普及工程教育与企业自主研发，均证明若无本土智力资本的内生扩张，单纯购买成套技术设备（如 1980 年代拉美国家）必然陷入外债高企与技术停滞的依附陷阱。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7, 13–15)]]
+> **吸收消化优于单纯装备引进** 19 世纪普鲁士通过工艺技校引进机床开展逆向工程，以及 1980 年代韩国大力普及[[Engineering Education|工程教育]]与企业自主研发，均证明若无本土智力资本的内生扩张，单纯购买成套技术设备（如 1980 年代拉美国家）必然陷入外债高企与技术停滞的依附陷阱。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7, 13–15)]]
 
 ---
 
@@ -147,7 +149,7 @@ updated: 2026-10-05
 > [!dev-timeline] 概念演变
 > - **1841 — [[Friedrich List|李斯特]]创立精神/智力资本[[Paradigm|范式]]** 在《政治经济学的国民体系》中正式界定 Mental / Intellectual Capital，用于批判古典自由放任政策并指导德国工业追赶。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–6)]]
 > - **1980s–1990s — [[Evolutionary Economics|演化经济学]]与内生增长理论复兴** 随着以微电子为代表的新技术范式扩散，新增长理论将知识外溢纳入生产函数，演化经济学家将其重新界定为[[National Innovation System|国家创新系统]]的认知底座。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–6)]]
-> - **1990s 至今 — [[Knowledge-Based Economy|知识经济]]与学习型经济深化** [[Bengt-Åke Lundvall|伦德瓦尔]]等学者进一步将智力资本[[Operationalization|操作化]]为全社会的“学习能力”（Learning by Interacting），成为评价现代教育体制竞争力的核心指标。
+> - **1990s 至今 — [[Knowledge-Based Economy|知识经济]]与学习型经济深化** [[Bengt-Åke Lundvall|伦德瓦尔]]等学者进一步将智力资本[[Operationalization|操作化]]为全社会的“学习能力”（Learning by Interacting），成为评价现代教育体制[[Competitiveness|竞争力]]的核心指标。
 
 ---
 

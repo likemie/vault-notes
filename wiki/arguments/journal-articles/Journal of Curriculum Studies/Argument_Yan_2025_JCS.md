@@ -10,7 +10,7 @@ title: "Argument_Yan_2025_JCS"
 argument_key: "Argument_Yan_2025_JCS"
 argument_display_title: "The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Externalization]]"
+  - "[[Competitiveness]]"
   - "[[International Baccalaureate]]"
   - "[[IB Diploma Programme]]"
   - "[[Creativity, Action, Service]]"
@@ -181,7 +182,7 @@ LS 的课程设计直接回应了这些批评。《[[General Education|通识教
 > [!note]- [[Externalization\|外部化]]策略
 > 港府采取了"外部化"（[[Externalization]]）策略，将国内教育问题表述为回应全球趋势的必要改革。三份关键政策文件的表述高度一致。
 >
-> 2000 年《施政报告》指出，亚洲金融风暴暴露出经济的结构性弱点，需要通过改革来增强竞争力，把握全球化和[[Knowledge-Based Economy\|知识经济]]带来的巨大机遇(Tung, 2000, p. 5)。
+> 2000 年《施政报告》指出，亚洲金融风暴暴露出经济的结构性弱点，需要通过改革来增强[[Competitiveness|竞争力]]，把握全球化和[[Knowledge-Based Economy\|知识经济]]带来的巨大机遇(Tung, 2000, p. 5)。
 >
 > 2001 年课程发展议会发布的《学会学习》文件指出，世界正经历前所未有的变化，香港也不例外，经济结构正在发生重大转变，知识经济已经到来(CDC, 2001, p. 3)。
 >

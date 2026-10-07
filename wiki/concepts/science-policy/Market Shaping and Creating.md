@@ -11,10 +11,10 @@ aliases:
 summary: "指国家与公共机构不局限于事后修复既有市场失灵，而是通过战略投资、需求侧公共采购、标准规制、制度化附加条件与前沿引领，依托公共动态能力主动构筑、从零创造并共同重塑新经济、社会与技术景观的公共政策范式。"
 type: concept
 domain: "science-policy"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - concept/science-policy
   - economics
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Learning Economy]]"
   - "[[National Innovation System]]"
   - "[[Lead-and-Learn Paradigm]]"
+  - "[[Competitiveness]]"
   - "[[Reflexive Governance]]"
   - "[[Complexity Paradox]]"
   - "[[Demand-side Innovation Policy]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Market Shaping and Creating
@@ -233,7 +234,7 @@ updated: 2026-10-06
 > > - **[[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]; [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]** 强调市场塑造以宏大社会挑战为中心，跨越单一行业边界，依赖透明的组合管理、战略采购与自下而上的试错机制。
 >
 > > [!axis] 附加条件的复合社会目标 vs 产业执行效率
-> > 争论在市场塑造政策中捆绑托儿、工会工资与社区投资等多重社会目标是否会削弱制造业资本的国际竞争力。
+> > 争论在市场塑造政策中捆绑托儿、工会工资与社区投资等多重社会目标是否会削弱制造业资本的国际[[Competitiveness|竞争力]]。
 > >
 > > - **产业资本批评派** 认为繁杂的社会责任条款增加了企业的行政与合规负担，可能延缓产能扩张速度。
 > > - **[[Argument_Reynolds_2024_JICT|Reynolds (2024)]]** 指出若不解决劳工照护与技能供给瓶颈，产能扩张必然不可持续；通过附加条件将公共投资转化为对劳工与社区的长期支持，是确保市场塑造产生持久[[Public Value|公共价值]]的制度基石。

@@ -8,7 +8,7 @@ aliases:
 summary: "大学与科研体系为保护学术研究、关键技术与知识产权免受外国不当干预、经济间谍活动与未经授权转移而建立的制度性风险防范机制；近年在大国地缘技术博弈中进一步上升为国家科技治理重塑国际科研合作边界、将学术自治置于国家安全合规之下的核心治理工具。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 25
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Academic Risk Aversion]]"
   - "[[Technology-Oriented Social Contract]]"
+  - "[[Competitiveness]]"
   - "[[Creativity]]"
   - "[[Research Universities]]"
   - "[[Variable]]"
@@ -50,10 +51,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Dean_2025_UICollaborationSupport]]"
   - "[[Argument_Fan_2026_BCAS]]"
+  - "[[Argument_Kratsios_2026_OSTP]]"
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Research Security
@@ -176,7 +178,7 @@ updated: 2026-10-06
 > > 争论基础科研应当秉持全人类共享的开放科学精神，还是必须优先筑牢国家安全与地缘竞争的技术壁垒。
 > >
 > > - **开放科学论** 坚持学术无国界与知识普遍主义，强调全球协同是攻克气候变化、恶性疾病与人类重大危机的根本前提，过度的安全审查将自我孤立。
-> > - **安全防线论** 强调前沿基础科学与颠覆性技术的军民两用界限日益模糊，天真的开放将直接削弱本国产业竞争力并危及国家安全。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1061)]]
+> > - **安全防线论** 强调前沿基础科学与颠覆性技术的军民两用界限日益模糊，天真的开放将直接削弱本国产业[[Competitiveness|竞争力]]并危及国家安全。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1061)]]
 >
 > > [!axis] 专业赋能支持 vs 繁复行政审查负担
 > > 争论研究安全合规机构究竟是在保护研究人员，还是在给学术[[Creativity|创造力]]增加沉重的行政官僚枷锁。
@@ -202,12 +204,14 @@ updated: 2026-10-06
 > |---|---|---|---|---|---|---|
 > | [[Argument_Dean_2025_UICollaborationSupport\|Dean et al. (2025)]] | 加拿大滑铁卢大学研究办公室；多伦多-滑铁卢走廊[[Innovation Ecosystem\|创新生态]]（15,000 家科技公司） | 机构[[Case Study\|案例研究]]与制度机制审计 | ① 保障研究团队运作机制；② [[University-Industry Collaboration\|产学合作]]与杠杆经费占比 | ① 建立 Safeguarding Research 制度化团队，消除教师合同与合规顾虑；② 一个学院 5 年产业及产业杠杆经费达 1.34 亿加元（占总经费 34%） | 单一[[Research Universities\|研究型大学]]定性经验与财务审计 | 证实通过专业化制度后盾能够化解安全担忧并激活高额产学合作网络 |
 > | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] | 1945—2025 年美国联邦科技政策历程与科研治理变局；白宫政策备忘录（NSPM-33）及立法 | 宏观制度分析与历史[[Document\|文献]]比较 | ① 科研安全政策工具演化；② 国际合作受限程度与契约属性变迁 | ① 2016 年起科研安全进入核心议程，2020 年后经《[[CHIPS and Science Act\|芯片与科学法案]]》等全面法定化；② 科学活动由公共知识品取向转为战略竞争工具，科学自治演变为受限自治 | 权威政策文本与长时段制度推导 | 揭示大国竞争情境下科研安全对二战后[[Social Contract of Science\|科学社会契约]]国际主义基础的根本性动摇 |
+> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 10–11)]] | 已确定毕业去向的美国博士学位获得者 | 报告转述的学位统计 | 临时签证持有者占比 | 2024 年，计算机科学和数学中约占一半。自然科学与工程领域，有明确毕业安排的临时签证持有者占比四十年内大约从 20% 升到 40%。社会、行为与健康科学大约从 10% 升到 20% | — | 报告用此说明开放培养与不对称抽取。它不是间谍案件的计数，也不能推出每一位签证持有者都会离开 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 区分自愿共享与被不对称抽取。开放发表仍被当作科学进步的条件。比较劣势在于对手限制自己的数据、同时使用美国培养的人和美国论文，并把突破首先在自己的工厂放大。
 > - [[Argument_Dean_2025_UICollaborationSupport|Dean et al. (2025)]] — 阐述滑铁卢大学如何在[[University-Industry Collaboration|产学合作]]中通过设立保障研究（Safeguarding Research）专业团队，在[[Academic Freedom|学术自由]]与安全防护之间达成平衡，化解教师的地缘与法律焦虑并支撑高额产业研发网络。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从长时段[[Social Contract of Science|科学社会契约]]演化视角，系统论证 2016 年以来科研安全如何上升为大国竞争核心议题并全面法定化，揭示其对科学国际主义公理的瓦解与学术自治受限机制。
 

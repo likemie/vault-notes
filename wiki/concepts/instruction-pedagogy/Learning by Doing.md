@@ -8,7 +8,7 @@ aliases:
 summary: "个体、组织与公共治理系统通过实际行动、工程实践、政策试错与自适应排障获取并内化深层知识的认识与生产率演进机制。在杜威进步主义教育中指通过真实探究建构批判性思维的核心教学法；在产业组织与创新经济学中指随累积产量爬坡带来的动态良率提升与单位成本下降（学习曲线效应）；在现代产业战略中指通过执行中的自适应规制调整、审批改革与反馈纠偏实现政策实效的关键过程准则。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Second-Sourcing]]"
   - "[[Reliability]]"
   - "[[Technological Catch-up]]"
+  - "[[Competitiveness]]"
   - "[[STEM Education]]"
   - "[[Market Shaping and Creating]]"
   - "[[National Innovation System]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Learning by Doing
@@ -172,7 +173,7 @@ updated: 2026-10-06
 > 阐明创新知识不仅产生于正规研发实验室，更内生于车间现场一线技工与工程师的干中学、逆向工程与试错改良过程。
 
 > [!claim] [[Argument_Freeman_1995_CJE|Freeman (1995)]]
-> **车间现场干中学与生产工程的非线性价值** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）指出，传统的研发统计与科学推动模型（如《[[Frascati Manual|弗拉斯卡蒂手册]]》指标）存在严重盲区：它们仅统计正规实验室中的专业研发人员与研发支出，却系统性忽略了车间生产现场的干中学、技术改良、工装设计与一线排障。战后日本制造业的崛起与德国历史上的[[Technological Catch-up|技术赶超]]表明，在制造现场持续开展干中学、将一线普通工人与技术人员组织为质量改进圈（QC 圈）并与用户需求形成密集双向反馈，是产业获得动态竞争力的核心根源；相反，前苏联即便拥有庞大的科研院所与高额研发投入，但因科研与车间生产脱节、工人缺乏现场干中学与试错改良的微观机制，导致技术创新陷入僵化。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–12)]]
+> **车间现场干中学与生产工程的非线性价值** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）指出，传统的研发统计与科学推动模型（如《[[Frascati Manual|弗拉斯卡蒂手册]]》指标）存在严重盲区：它们仅统计正规实验室中的专业研发人员与研发支出，却系统性忽略了车间生产现场的干中学、技术改良、工装设计与一线排障。战后日本制造业的崛起与德国历史上的[[Technological Catch-up|技术赶超]]表明，在制造现场持续开展干中学、将一线普通工人与技术人员组织为质量改进圈（QC 圈）并与用户需求形成密集双向反馈，是产业获得动态[[Competitiveness|竞争力]]的核心根源；相反，前苏联即便拥有庞大的科研院所与高额研发投入，但因科研与车间生产脱节、工人缺乏现场干中学与试错改良的微观机制，导致技术创新陷入僵化。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–12)]]
 
 > [!citation-card] 弗里曼论车间现场干中学与研发统计的盲区
 > 研发并非创新的唯一源泉，甚至往往不是最重要的源泉。车间生产工程、工装设计、质量控制以及生产现场工人的“干中学”（Learning by Doing）对于增量工艺改良至关重要，而这些活动在正规的研发经费核算中大多被遗漏了。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 9–11)]]

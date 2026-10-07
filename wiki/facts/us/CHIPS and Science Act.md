@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 41
+fact_related_count: 42
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Vertical Disintegration]]"
   - "[[Learning by Doing]]"
+  - "[[Competitiveness]]"
   - "[[Presence]]"
   - "[[Modern Industrial Policy]]"
   - "[[Strategic Autonomy]]"
@@ -73,7 +74,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # CHIPS and Science Act
@@ -212,7 +213,7 @@ updated: 2026-10-06
 > > 争论直接补贴能否弥补美国在劳动力成本、施工周期与上游供应链集聚上的长期劣势。
 > >
 > > - **政府支持派** 认为数十亿美元补贴是启动本土生态重建与克服[[Learning by Doing|干中学]]壁垒的必要催化剂。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 102)]]
-> > - **产业经济学者研判** 指出美国本土晶圆厂运营成本显著高于东亚，一旦联邦补贴耗尽，新厂可能面临持续的长期亏损与市场竞争力不足。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 102–103)]]
+> > - **产业经济学者研判** 指出美国本土晶圆厂运营成本显著高于东亚，一旦联邦补贴耗尽，新厂可能面临持续的长期亏损与市场[[Competitiveness|竞争力]]不足。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 102–103)]]
 >
 > > [!axis] 战略聚焦 vs 繁苛社会政策捆绑
 > > 争论补贴申请附加托儿服务、工会用工与利润分享等多元社会目标是否会拖累建厂效率。

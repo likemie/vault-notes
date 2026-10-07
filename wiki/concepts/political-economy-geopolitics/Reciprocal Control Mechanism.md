@@ -8,7 +8,7 @@ aliases:
 summary: "产业政策与发展型国家理论的核心治理机制，最早由阿姆斯登（Alice Amsden）提出。指国家在向私营企业提供巨额公共资源转让（如专项补贴、税收减免或垄断特许）时，必须以企业履行明确且可问责的公共目标（如本土产能建设、劳工福利、技术溢出、超额利润返还及地缘安全合规）为法定契约前提，构建权利与义务对等的双向约束机制，以防止产业资本纯粹寻租。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Strategic Autonomy]]"
   - "[[Public Value]]"
   - "[[Patient Capital]]"
+  - "[[Competitiveness]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Correlational Research]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Reciprocal Control Mechanism
@@ -133,7 +134,7 @@ updated: 2026-10-06
 
 > [!debates] 学术争议
 >
-> > [!axis] 严苛对等约束 vs 产业国际竞争力与投资意愿
+> > [!axis] 严苛对等约束 vs 产业国际[[Competitiveness|竞争力]]与投资意愿
 > > 争论对等控制机制设定的附加条件是否会抬高企业合规成本，从而削弱本国对国际直接投资的吸引力。
 > >
 > > - **自由主义经济学与半导体行业游说团体** 批评严苛的工资要求、托儿设施与超额利润返还削弱了企业资本运作灵活性，可能导致投资流向无此类规制的管辖区。

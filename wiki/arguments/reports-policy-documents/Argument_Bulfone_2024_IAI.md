@@ -23,7 +23,7 @@ title: "Argument_Bulfone_2024_IAI"
 argument_key: "Argument_Bulfone_2024_IAI"
 argument_display_title: "Adjusting to new geopolitical realities: Semiconductors industrial policy in the US and EU (IAI Papers 24 | 13)"
 argument_kind: "report"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Research Utilization]]"
   - "[[Assemblage]]"
+  - "[[Competitiveness]]"
   - "[[University-Industry Collaboration]]"
   - "[[Big Science]]"
   - "[[Reciprocal Control Mechanism]]"
@@ -214,7 +215,7 @@ tags:
 > | 比较维度 | 美国《芯片与科学法案》 | 欧盟《欧洲芯片法案》 |
 > |---|---|---|
 > | **行动主体** | 美国联邦政府（中央集权统筹实施） | 欧洲联盟委员会与各成员国（多层级去中心化治理） |
-> | **战略目标** | 夺回美国在先进半导体制造领域的领导地位，摆脱对外国供应链的依赖 | 提升欧洲整体芯片竞争力与供应韧性，到 2030 年将全球制造份额翻倍提升至 20% |
+> | **战略目标** | 夺回美国在先进半导体制造领域的领导地位，摆脱对外国供应链的依赖 | 提升欧洲整体芯片[[Competitiveness\|竞争力]]与供应韧性，到 2030 年将全球制造份额翻倍提升至 20% |
 > | **财政承诺** | 527 亿美元联邦财政直接拨款（额外附带 25% 制造业投资税收抵免） | 33 亿欧元欧盟预算直接拨款（预期通过各方资金杠杆凑出 430 亿欧元总投资） |
 > | **政策工具类型** | 制造直接补贴（390 亿美元）、前沿研发资助（132 亿美元）、25% 税收抵免、环保审批绿色通道 | 半导体研发支持（第一支柱）、审批流程简化、放宽成员国建厂补贴限制（第二支柱）、短缺监测与应急排产（第三支柱） |
 > | **约束条件形态** | 限制在受关注国扩产的十年安全护栏、保障工人体面工资、提供托儿服务、禁止回购分红、分享超额利润 | 跨国合作框架下的超额利润回缴机制（Claw-back）、断链危机爆发时强制优先交付欧洲订单并处以罚款 |

@@ -9,7 +9,7 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的认知中介技术，在教育中重构人机知识确证分工；其促学成效取决于教学脚手架、评价性判断的自主维系与生产性认识论摩擦。"
 type: concept
 domain: "educational-technology"
-related_count: 123
+related_count: 125
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -89,6 +89,7 @@ related_concepts:
   - "[[Divergent Thinking]]"
   - "[[Defeater]]"
   - "[[Technology Infusion]]"
+  - "[[Competitiveness]]"
   - "[[Research Universities]]"
   - "[[Literature Search]]"
   - "[[Incommensurability]]"
@@ -131,6 +132,7 @@ related_persons:
   - "[[Chin-Chung Tsai]]"
 related_facts:
   - "[[Office of Science and Technology Policy]]"
+  - "[[Genesis Mission]]"
   - "[[Universal Parallel Computing Research Centers]]"
   - "[[What Works Clearinghouse]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
@@ -153,7 +155,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-01
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Generative Artificial Intelligence
@@ -171,7 +173,7 @@ updated: 2026-10-06
 > - **边界** 区别于预设规则与[[Determinism\|决定论]]算法，其输出具有概率性不确定性与幻觉特征；无法替代人类具身体验、伦理裁决、学科证据规范核验与核心评价性判断。
 
 > [!citation-card] 樊春良论人工智能作为大国技术契约的核心动员叙事
-> [[Office of Science and Technology Policy|白宫科学技术政策办公室]]（OSTP）将科学技术直接绑定国家繁荣与安全，把关键与新兴技术的全球领先视为美国“国家利益的核心”，并以“赢得 AI 竞赛、再工业化、重建供应链优势”为主要正当性叙事。通过“AI 行动计划”及“创世纪计划”（The Genesis Mission），强化国家实验室与企业在技术推进中的核心作用，使国家战略能力的获取逐步弱化对传统大学科学体系的依赖。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
+> [[Office of Science and Technology Policy|白宫科学技术政策办公室]]（OSTP）将科学技术直接绑定国家繁荣与安全，把关键与新兴技术的全球领先视为美国“国家利益的核心”，并以“赢得 AI 竞赛、再工业化、重建供应链优势”为主要正当性叙事。通过“AI 行动计划”及“[[Genesis Mission|创世纪计划]]”（The Genesis Mission），强化国家实验室与企业在技术推进中的核心作用，使国家战略能力的获取逐步弱化对传统大学科学体系的依赖。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
 >
 > *科技政策将赢得 AI 竞赛确立为国家利益核心叙事，通过 AI 行动计划与创世纪计划动员国家实验室与企业，弱化了对传统大学基础探索的依赖。*
 
@@ -381,7 +383,7 @@ updated: 2026-10-06
 > 审视生成式 AI 如何从单纯[[General Purpose Technology|通用目的技术]]跃升为国家战略主导权竞争的叙事核心，并重构国家、实验室与企业的动员关系。
 
 > [!claim] [[Argument_Fan_2026_BCAS|樊春良 (2026)]]
-> **赢得 AI 竞赛作为国家利益核心与动员[[Paradigm|范式]]重构** 樊春良指出，生成式人工智能的发展使得国家战略能力的获取路径发生了根本性重组。2025 年起，美国在退出二战后以大学为核心的传统科学契约过程中，将“赢得人工智能竞赛”确立为国家利益的核心叙事。通过[[Office of Science and Technology Policy|白宫科学技术政策办公室]]（OSTP）牵头制定的“AI 行动计划”与“创世纪计划”（The Genesis Mission），联邦政府确立了“总统定向—联邦统筹—部门执行—公私伙伴”的配置范式，直接依托私营科技巨头与国家实验室展开工程攻关与技术采购，从而在实践中首次具备了绕开传统大学基础研究而直接掌控前沿战略技术能力的现实可行性，驱动[[Technology-Oriented Social Contract|技术型社会契约]]的全面成型。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
+> **赢得 AI 竞赛作为国家利益核心与动员[[Paradigm|范式]]重构** 樊春良指出，生成式人工智能的发展使得国家战略能力的获取路径发生了根本性重组。2025 年起，美国在退出二战后以大学为核心的传统科学契约过程中，将“赢得人工智能竞赛”确立为国家利益的核心叙事。通过[[Office of Science and Technology Policy|白宫科学技术政策办公室]]（OSTP）牵头制定的“AI 行动计划”与“[[Genesis Mission|创世纪计划]]”（The Genesis Mission），联邦政府确立了“总统定向—联邦统筹—部门执行—公私伙伴”的配置范式，直接依托私营科技巨头与国家实验室展开工程攻关与技术采购，从而在实践中首次具备了绕开传统大学基础研究而直接掌控前沿战略技术能力的现实可行性，驱动[[Technology-Oriented Social Contract|技术型社会契约]]的全面成型。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
 
 ---
 
@@ -411,7 +413,7 @@ updated: 2026-10-06
 > - **2025 — [[Higher-Order Thinking Skills\|高阶思维]]、生态机制与人机共生[[Epistemology\|认识论]]确证** [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] [[Meta-analysis\|元分析]] 29 项实证研究（59 个[[Effect Size\|效应量]]），确立生成式 AI 促进高阶思维发展的总体效应基准（$g = 0.609$），揭示子维度级差及干预周期倒 U 型规律与自主调节能力门槛；[[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] 引入 [[What Works Clearinghouse\|WWC]] 基线等效门槛（$d < 0.25$）开展 57 项高校实验元分析，确立产出梯度并证实低 ICT 与高权力距离情境下的宏观边际效益递增；[[Argument_Wu_2025_ER\|Wu et al. (2025)]] 提出人机共生学习伙伴关系模型，系统阐述绝对主义、相对主义与评价主义三大认识立场，构建技术提示支架（角色扮演、思维链）与教学法支架的协同干预矩阵。
 > - **2026 — 教学活动系统全面重构与社会[[Epistemology|认识论]]转向** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 提出批判性与[[Creativity|创造性思维]]双重视角整合框架与六大教学干预规制；[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] 正式将 AI 素养确立为面向未来社会的国家级核心课程基础设施；[[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] 开启生成式 AI 的社会认识论转向，系统提出协助形态三层分类与四重社会技术中介路径，确立知识确证分工重构下维系关系性[[Epistemic Agency|认识主体性]]与[[Evaluative Judgement|评价性判断]]的理论纲领；[[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez (2026)]] 实证揭示初中生如何运用学科显性评价标准在人机多模态解释共建中实施微观认识论审问与提示词迭代；[[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 提出“反思机器”（Reflection Machines）规范架构，论证生成式 AI 作为对抗性质询[[AI Agent in Education|智能体]]主动引入[[Counterfactual|反事实]]异见与反驳论据（[[Defeater|Defeaters]]），在安全关键决策中打破[[Automation Bias|自动化偏见]]与认识论延宕，实现兼顾审议效率与有意义人类控制的认知安全防护；[[Argument_Naeem_2026_Episteme\|Naeem (2026)]] 提出 Q-Tutor [[Socrates|苏格拉底]]式智能体交互规范，通过直接答案拦截规则、封闭向开放问题递进及反事实探究支架，为规避[[Cognitive Deskilling|认知去技能化]]与培育[[Epistemic Virtues and Vices|理智美德]]提供系统化解决方案；[[Argument_Smith_2026_SPE\|Smith (2026)]] 破除将生成式 AI 类比为计算器的工具主义辩护，确立其在读写教育中代行全流程的私厨隐喻，揭示算法代写构思、提纲与修改对认知者造成的成长性认识侵害，并构建基于[[Alien Intelligence|异己智能]]审问与思维步骤全外显（Showing Steps）的教育防御方案。
 > - **2024–2026 — 宏观产业底座与地缘算力基石确立** [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] 指出，生成式 AI 的大爆发构成了 2020 年代全球半导体需求处于历史最高峰的核心宏观驱动力，但对尖端算力集群的极度依赖使其成为大国战略博弈与出口管制的核心标的，反向约束着生成式技术的地缘扩散路径与硬件成本结构。
-> - **2025–2026 — 国家地缘科技战略核心与技术型契约锚点** 生成式 AI 从产业与学术探索全面上升为大国竞争与国家安全战略中枢。美国出台“AI 行动计划”与“创世纪计划”，将赢得 AI 竞赛确立为联邦科技政策的最高正当性叙事，推动二战后传统科学契约向[[Technology-Oriented Social Contract|技术型社会契约]]深刻转型。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
+> - **2025–2026 — 国家地缘科技战略核心与技术型契约锚点** 生成式 AI 从产业与学术探索全面上升为大国竞争与国家安全战略中枢。美国出台“AI 行动计划”与“[[Genesis Mission|创世纪计划]]”，将赢得 AI 竞赛确立为联邦科技政策的最高正当性叙事，推动二战后传统科学契约向[[Technology-Oriented Social Contract|技术型社会契约]]深刻转型。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
 
 ---
 
@@ -438,7 +440,7 @@ updated: 2026-10-06
 > > - **Molenaar (2022)** 强调若缺乏[[Metacognition\|元认知监控]]与双向协商机制，学习者极易将混合智能系统误设为单向指令中枢。
 >
 > > [!axis] 大学基础探索中心 vs 产业闭源大模型采购：国家战略技术获取路径之争
-> > 围绕国家获取人工智能核心竞争力的最佳路径究竟应依托[[Research Universities|研究型大学]]的开放基础科学探索，还是直接依托私营科技巨头与国家实验室的技术采购展开辩论。
+> > 围绕国家获取人工智能核心[[Competitiveness|竞争力]]的最佳路径究竟应依托[[Research Universities|研究型大学]]的开放基础科学探索，还是直接依托私营科技巨头与国家实验室的技术采购展开辩论。
 > >
 > > - **[[Argument_Fan_2026_BCAS|樊春良 (2026, pp. 1061–1063)]]** 指出：生成式 AI 具有重资本、大算力与工程工程化极高的特征，使国家在实践中首次展示出“绕开大学、直接依靠私营技术采购与国家实验室”获取前沿战略能力的现实可行性，加速了传统以大学基础研究为轴心的[[Social Contract of Science|科学社会契约]]向技术型契约的替代。
 > > - **科学体制传统辩护派** 警告若完全切断对大学生成式 AI 基础理论（如数学机理、可解释性与价值对齐）的无条件资助，国家技术主导权将沦为建立在商业垄断与算法黑箱之上的短期空中楼阁。

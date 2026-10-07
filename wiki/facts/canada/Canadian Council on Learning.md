@@ -10,7 +10,7 @@ subtype: organization
 region: canada
 fact_region: "canada"
 fact_kind: "organization"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Heterogeneity]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Competitiveness]]"
   - "[[Cumulative Knowledge Base]]"
 related_theories: []
 related_methods:
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Canadian Council on Learning
@@ -146,7 +147,7 @@ updated: 2026-10-05
 > > 省级政府官员曾批评 CCL 试图通过复合学习指数（CLI）塑造“国家级单一标准”，抹杀了各省在历史、文化与课程制度上的异质性。
 > >
 > > - **批评视角（反方）** 部分省份教育官员认为，加拿大无需建立全国统一中介机构，教育改进应完全根植于各省本土行政生态，联邦资金应直接转管给各省而非用于维持独立智库。
-> > - **机构辩护（正方）** CCL 强调 CLI 测量的是全生命周期的非正式与社区学习生态，绝非针对省级学校课程或统考的量化排名；在[[Knowledge-Based Economy\|知识经济]]时代，缺乏国家尺度的实证数据库将严重削弱加拿大在全球劳动力素质中的竞争力。
+> > - **机构辩护（正方）** CCL 强调 CLI 测量的是全生命周期的非正式与社区学习生态，绝非针对省级学校课程或统考的量化排名；在[[Knowledge-Based Economy\|知识经济]]时代，缺乏国家尺度的实证数据库将严重削弱加拿大在全球劳动力素质中的[[Competitiveness|竞争力]]。
 > >
 > > [!axis] 争议二：中介机构存续的制度护城河机制
 > > [[Epistemic Governance\|知识治理]]学者围绕 CCL 的解散反思公共中介组织的制度设计底线。

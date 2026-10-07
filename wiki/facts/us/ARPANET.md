@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Reliability]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Competitiveness]]"
   - "[[General Purpose Technology]]"
   - "[[Cold War University]]"
   - "[[Technology Transfer]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # ARPANET
@@ -107,7 +108,7 @@ updated: 2026-10-05
 > | **部署网络规模** | 依托国防巨额预算，迅速部署覆盖全美 100 多个顶尖大学与研究节点的超大规模实体网络 | 局限于少数高校实验室的小规模试验网络，缺乏广泛互联节点 |
 > | **采购对象偏好** | 敢于将关键研制合同发包给 BBN 等麻省理工学院衍生新兴高科技小企业 | 普遍依赖传统国家邮政电信（PTT）垄断机构与老牌官办实验室 |
 > | **知识产权规制** | 将核心 TCP/IP 协议完全置于公共领域（Public Domain），杜绝专利私有化 | 试图确立专有技术壁垒或受限于国际电信联盟（ITU）繁重官僚标准 |
-> | **[[Innovation Ecosystem\|创新生态]]塑造** | 零许可壁垒促进软硬件厂商自由进入，催生全球性通用基础设施 | 难以在商业市场上形成具有全球竞争力的独立软件与网络产业集群 |
+> | **[[Innovation Ecosystem\|创新生态]]塑造** | 零许可壁垒促进软硬件厂商自由进入，催生全球性通用基础设施 | 难以在商业市场上形成具有全球[[Competitiveness\|竞争力]]的独立软件与网络产业集群 |
 
 ---
 

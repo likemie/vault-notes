@@ -9,7 +9,7 @@ aliases:
 summary: "指国家或公共部门通过具有法律约束力的采购协议与前瞻性预算承诺，全额或大比例包揽新兴颠覆性技术初创阶段的产能，从而消除早期商业化买单不确定性并释放微观学习经济的创新政策机制。"
 type: concept
 domain: "science-policy"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Valley of Death]]"
   - "[[Paradigm]]"
   - "[[Second-Sourcing]]"
+  - "[[Pull Mechanisms for Innovation]]"
   - "[[Variable]]"
   - "[[Demonstration Effect]]"
   - "[[Mission-Oriented Innovation Policy]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Assured Demand
@@ -124,7 +125,7 @@ updated: 2026-10-05
 > 探讨颠覆性技术在脱离实验室后因初期制造成本高昂而缺乏民间买家时，公共采购如何充当托底杠杆。
 
 > [!claim] [[Argument_Schnee_1978_RP|Schnee (1978)]]; [[Argument_Mowery_2011_NBER|Mowery (2011)]]
-> **早期托底拉动机制** [[Jerome E. Schnee|施尼]]（[[Argument_Schnee_1978_RP|Schnee, 1978]]）与莫厄里（[[Argument_Mowery_2011_NBER|Mowery, 2011]]）实证指出，在 1962 年集成电路商业化元年，单片芯片均价高达 50 美元，民用商业市场完全无法承受该价格；由于国防与空间部门承诺包揽全部产出（100% 采购托底），企业得以迅速提升生产良率并实现规模效应。至 1968 年均价降至 2 美元，1973 年降至 0.63 美元，民用计算机与工业控制市场随之爆发式接轨，证明确定性需求是新技术跨越[[Valley of Death|死亡之谷]]的决定性前提。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–9)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 165–168)]]
+> **早期托底[[Pull Mechanisms for Innovation|拉动机制]]** [[Jerome E. Schnee|施尼]]（[[Argument_Schnee_1978_RP|Schnee, 1978]]）与莫厄里（[[Argument_Mowery_2011_NBER|Mowery, 2011]]）实证指出，在 1962 年集成电路商业化元年，单片芯片均价高达 50 美元，民用商业市场完全无法承受该价格；由于国防与空间部门承诺包揽全部产出（100% 采购托底），企业得以迅速提升生产良率并实现规模效应。至 1968 年均价降至 2 美元，1973 年降至 0.63 美元，民用计算机与工业控制市场随之爆发式接轨，证明确定性需求是新技术跨越[[Valley of Death|死亡之谷]]的决定性前提。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–9)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 165–168)]]
 
 ---
 

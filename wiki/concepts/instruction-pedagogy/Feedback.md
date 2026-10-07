@@ -5,7 +5,7 @@ aliases:
 summary: "围绕表现、理解与下一步行动提供的信息回路，既可帮助学生修正学习，也可让教师判断自己的教学是否真正产生了影响。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,7 +30,8 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Science Foundation Ireland]]"
 related_arguments:
   - "[[Argument_Fredens_2015_Paideia]]"
   - "[[Argument_Laursen_2015_Paideia]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-05-04
-updated: 2026-05-22
+updated: 2026-10-07
 ---
 
 # Feedback
@@ -89,7 +90,7 @@ updated: 2026-05-22
 > [!success] 实证发现
 > - Hattie 的论述把反馈放在高重要性位置，并把它理解为推动学习改进的核心信息机制（Hattie, 2015, p.86）。
 > - Håkansson（2015）的研究综合没有把反馈单独拿出来计算[[Effect Size\|效应量]]，但明确把“及时正确反馈”和“强调知识内容中的关键原则”列为[[Classroom Management\|课堂管理]]与高质量教学的重要组成部分（Håkansson, 2015, p.592）。
-> - [[Argument_Laursen_2015_Paideia\|Laursen (2015)]]指出，丹麦 SFI 研究没有发现其问项所测的反馈行为显著提升学习，但更合理的解释是测量口径没有抓到反馈最关键的“告诉学生如何改进”这一维度，而不是反馈本身无效([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.39]])。
+> - [[Argument_Laursen_2015_Paideia\|Laursen (2015)]]指出，丹麦 [[Science Foundation Ireland|SFI]] 研究没有发现其问项所测的反馈行为显著提升学习，但更合理的解释是测量口径没有抓到反馈最关键的“告诉学生如何改进”这一维度，而不是反馈本身无效([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.39]])。
 > - Lekhal 等人的性别差异研究提示，反馈[[Variable\|变量]]的解释力会随测量方式变化；这说明反馈不是一个“只要出现就自动有效”的单一因素，而高度依赖情境和[[Operationalization\|操作化]]([[Argument_Lekhal_2015_Paideia\|Lekhal et al., 2015, pp.80, 83-85]])。
 
 > [!info] 数据基础与测量问题

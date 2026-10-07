@@ -12,7 +12,7 @@ title: "Argument_Cheng_2026_KeJiChuangXin"
 argument_key: "Argument_Cheng_2026_KeJiChuangXin"
 argument_display_title: "科技创新和产业创新融合：中国的发展路径与对策研究报告"
 argument_kind: "book"
-argument_related_count: 46
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
   - region/china
 related_concepts:
   - "[[Technology Transfer]]"
+  - "[[Competitiveness]]"
   - "[[Patient Capital]]"
   - "[[New Quality Productive Forces]]"
   - "[[Dual-Use Technology]]"
@@ -61,6 +62,7 @@ related_facts:
   - "[[US Innovation Policy System]]"
   - "[[DARPA]]"
   - "[[SBIR and STTR Programs]]"
+  - "[[NSF X-Labs]]"
   - "[[German Innovation Policy System]]"
   - "[[Fraunhofer Society Model]]"
   - "[[Swiss Innovation Policy System]]"
@@ -216,7 +218,7 @@ citation_aliases:
 > "重论文轻应用"的评价体系导致大量科研成果成为"沉睡专利"。2022年高校发明专利产业化率仅为3.9%，科研院所为13.3%，远低于企业的51.3%。这意味着高校和科研院所虽然产出了大量专利，但绝大部分未被产业化。2023年国家财政科学技术支出达10,567亿元，大量科研工作未以产业化为导向，造成财政科技资金配置浪费(pp.22–23)。
 
 > [!warning] 创新组织目标冲突：平台双重属性
-> 国家级创新平台面临"公共共性技术服务"与"市场化自我生存"的双重目标冲突，协同机制不完善、利益分配不清晰。2011—2022年企业基础研究投入从7.72亿元增至174.92亿元，虽增速较快，但绝对规模仍明显滞后于发达国家水平，制约了核心竞争力培育(p.23)。
+> 国家级创新平台面临"公共共性技术服务"与"市场化自我生存"的双重目标冲突，协同机制不完善、利益分配不清晰。2011—2022年企业基础研究投入从7.72亿元增至174.92亿元，虽增速较快，但绝对规模仍明显滞后于发达国家水平，制约了核心[[Competitiveness|竞争力]]培育(p.23)。
 
 > [!warning] 政府职能衔接不畅：资源碎片化
 > 科技部门的规划重前沿突破，产业部门的规划重当下瓶颈，两者缺乏深度协调。地方政府在电子信息、智能制造等热门领域盲目布局、重复建设功能趋同的研发中心，导致人才、资金、技术等创新资源分散配置和低效竞争(p.23)。
@@ -301,7 +303,7 @@ citation_aliases:
 > [!example] 验证二：本轮AI浪潮的美国经验
 > 政府层面，NITRD 2024财年AI研发预算增至31亿美元（同比增长19.2%），《推动美国在AI领域的创新》提出每年投入不低于320亿美元支持非国防AI创新，拜登政府签署AI行政命令全面部署标准化工作(p.39)。
 >
-> 企业层面，谷歌2006年提出AI专用基础设施构想并成立Google X实验室，与吴恩达合作开发全球最大神经网络系统"谷歌大脑"。英伟达2023年研发投入73.4亿美元，占全球GPU市场98%份额，推出Blackwell架构针对不同场景开发系列解决方案(pp.39–40)。
+> 企业层面，谷歌2006年提出AI专用基础设施构想并成立Google [[NSF X-Labs|X实验室]]，与吴恩达合作开发全球最大神经网络系统"谷歌大脑"。英伟达2023年研发投入73.4亿美元，占全球GPU市场98%份额，推出Blackwell架构针对不同场景开发系列解决方案(pp.39–40)。
 >
 > 产学研协同层面，国家科学基金会联合多部门围绕10余个重点方向设立25所国家AI研究院，由世界一流大学和领先科技企业共同组成。以大规模学习优化AI研究院为例，由加州大学圣迭戈分校主导，联合MIT、耶鲁等学术机构，与英伟达、楷登电子等企业深度合作(p.40)。
 

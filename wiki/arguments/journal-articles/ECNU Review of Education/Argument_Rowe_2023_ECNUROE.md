@@ -7,7 +7,7 @@ title: "Argument_Rowe_2023_ECNUROE"
 argument_key: "Argument_Rowe_2023_ECNUROE"
 argument_display_title: "Philanthrocapitalism and the state: Mapping the rise of venture philanthropy in public education in Australia"
 argument_kind: "journal-article"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -77,6 +77,7 @@ related_facts:
   - "[[Evidence for Learning]]"
   - "[[Australian Education Research Organisation]]"
   - "[[Bill & Melinda Gates Foundation]]"
+  - "[[Accelerating Medicines Partnership]]"
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Gonski 2.0]]"
@@ -220,7 +221,7 @@ SVA 作为政策网络中枢，凭借严密的法人架构与跨国金融咨询�
 
 > [!org-context] SVA 机构背景与资本体量档案
 > - **成立时间 / 发起背景** 2002 年由麦肯锡公司（McKinsey & Company）荣休董事罗伯特·麦克莱恩（Robert McLean）发起，前麦格理银行银行家[[Michael Traill\|迈克尔·特雷尔]]（Michael Traill）出任首任首席执行官。（pp. 520, 524）
-> - **发起盟友 / 资助网络** 联合安保集团（Australian Mutual Provident Society, AMP）、善心社（The Benevolent Society）及斯密斯家庭（The Smith Family）共同创设。（p. 524）
+> - **发起盟友 / 资助网络** 联合安保集团（Australian Mutual Provident Society, [[Accelerating Medicines Partnership|AMP]]）、善心社（The Benevolent Society）及斯密斯家庭（The Smith Family）共同创设。（p. 524）
 > - **法人属性与资本规模** 依据《公司法》注册为担保有限公司，享有 [[Deductible Gift Recipient\|第一类可扣税赠款人]]（DGR1）免税资质，旗下管理逾 1.5 亿澳元的[[Social Impact Investing\|社会影响力投资]]基金，并下设 4 家全资子公司形成多层控股架构。（pp. 524, 528）
 > - **核心宗旨与运作方针** 将风险投资与私募股权纪律植入社会与教育公益，通过提供商业咨询、构建证据量规与孵化中介实体统摄治理权力。（pp. 520, 524, 533）
 

@@ -2,7 +2,7 @@
 summary: "指以国家战略意志为导向、依赖巨额公共财政与集中式国家实验室攻关突破性物理与工程极限的科研组织范式。其在第二代使命政策中展现强大技术突破力，但在应对复杂社会挑战时遭遇制度局限；当代大科学成本膨胀与问责刚性化进一步加剧了科学社会契约的内部张力与合法性危机。"
 type: concept
 domain: "science-policy"
-related_count: 31
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -22,8 +22,11 @@ related_concepts:
   - "[[National Innovation System]]"
   - "[[Learning by Doing]]"
   - "[[Total Quality Management]]"
+  - "[[Competitiveness]]"
   - "[[Megascience Installations]]"
   - "[[Technology-Oriented Social Contract]]"
+  - "[[Research Universities]]"
+  - "[[University-Based Research Center]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Directionality of Innovation]]"
   - "[[Complexity Paradox]]"
@@ -41,18 +44,23 @@ related_persons:
   - "[[Mariana Mazzucato]]"
   - "[[Alvin Weinberg]]"
   - "[[Chris Freeman]]"
+  - "[[Erich Bloch]]"
 related_facts:
   - "[[Apollo Program]]"
   - "[[Chinese Academy of Sciences]]"
+  - "[[National Science Foundation]]"
+  - "[[Engineering Research Centers]]"
+  - "[[Science and Technology Centers]]"
   - "[[DARPA]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Freeman_1995_CJE]]"
+  - "[[Argument_Bozeman_2004_JTT]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-06
+updated: 2026-10-07
 title: Big Science
 aliases:
   - 大科学
@@ -142,7 +150,7 @@ aliases:
 > 审视军工主导的大科学工程对国家民用经济的挤出效应与体制分割。
 
 > [!claim] [[Argument_Freeman_1995_CJE|Freeman (1995)]]
-> **大科学军工分割与民用创新体系脱节** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）指出，冷战时期大科学与国防科研的巨额投入并不必然带来经济繁荣。苏联将超过 70% 的研发资源投向国防与航天大科学工程、其研发总支出占国民生产总值比率（GERD/GNP）在 1970 年代高达 3.6%，但其科技体制被割裂为封闭的[[Chinese Academy of Sciences|科学院]]理论所、部属设计局与缺乏研发活力的生产企业；由于缺乏生产车间的“[[Learning by Doing|干中学]]”（[[Learning by Doing]]）、质量管理（[[Total Quality Management|全面质量管理]]）与用户-供应商双向微观反馈，庞大的大科学军工复合体未能向民用产业形成有效技术扩散，最终导致民用经济长期落后与整个[[National Innovation System|国家创新系统]]的演化失败。这表明大科学唯有嵌入在产学研深度协同、具有微观互动学习机制的[[Systems of Innovation|创新系统]]中，方能转化为持久的国家竞争力。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 10–12)]]
+> **大科学军工分割与民用创新体系脱节** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）指出，冷战时期大科学与国防科研的巨额投入并不必然带来经济繁荣。苏联将超过 70% 的研发资源投向国防与航天大科学工程、其研发总支出占国民生产总值比率（GERD/GNP）在 1970 年代高达 3.6%，但其科技体制被割裂为封闭的[[Chinese Academy of Sciences|科学院]]理论所、部属设计局与缺乏研发活力的生产企业；由于缺乏生产车间的“[[Learning by Doing|干中学]]”（[[Learning by Doing]]）、质量管理（[[Total Quality Management|全面质量管理]]）与用户-供应商双向微观反馈，庞大的大科学军工复合体未能向民用产业形成有效技术扩散，最终导致民用经济长期落后与整个[[National Innovation System|国家创新系统]]的演化失败。这表明大科学唯有嵌入在产学研深度协同、具有微观互动学习机制的[[Systems of Innovation|创新系统]]中，方能转化为持久的[[Competitiveness|国家竞争力]]。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 10–12)]]
 
 ---
 
@@ -156,6 +164,16 @@ aliases:
 
 ---
 
+### 命题五　大科学中心模式向大学工程科研的移植与"小科学"自由探索经费冲突
+
+> [!concept-lens] 高校科研组织转型与资助格局冲突维度
+> 审视大科学中心模式向民用大学工程领域的渗透，以及其与传统单 PI 自由探索经费池之间的深层资源争夺。
+
+> [!claim] [[Argument_Bozeman_2004_JTT|Bozeman & Boardman (2004)]]
+> **产学中心大科学化与掠夺小科学经费争议** 1980 年代以前，大科学主要局限于国防、核能与航天等封闭国家实验室。1984 年[[National Science Foundation|美国国家科学基金会]]（NSF）启动[[Engineering Research Centers|工程研究中心]]（ERC）以及随后的[[Science and Technology Centers|科学技术中心]]（STC），标志着大科学模式（跨学科团队、巨型实验设施共享、大额多年期合作研究协议、多校联合攻关）正式向民用[[Research Universities|研究型大学]]与工程学科系统性移植。然而，这一重大组织转型直接引发了纯科学界传统学者的强烈反弹——数学、物理、化学等基础学科批评大科学中心"掠夺了小科学（Little Science）单项 PI 自由探索科研经费池"，并担忧大学沦为产业界应用研发的短期附庸。这一争议揭示出，当大科学范式从主权军工领域溢出至高等教育体系时，必然与大学深厚的学科自治与自由探索传统产生深刻的制度碰撞。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–366, 371)]]
+
+---
+
 ## 条目关联
 
 > [!entry-map]
@@ -165,7 +183,11 @@ aliases:
 > | [[Three Generations of Mission-Oriented Policy]] | 理论 | 大科学是第二代狮子形态使命导向政策的物质与组织载体。 |
 > | [[Social Contract of Science]] | 理论 | 大科学模式的成本膨胀是推高外部行政问责、打破战后科学默认信任契约的核心动力。 |
 > | [[Technology-Oriented Social Contract]] | 概念 | 2025 年起美国科技政策新[[Paradigm\|范式]]，体现了绕开高成本基础研究、直接采购与获取技术的替代取向。 |
+> | [[University-Based Research Center]] | 概念 | 大科学跨学科与重资产协作模式向大学民用科研与产学协同移植的核心组织载体。 |
+> | [[Engineering Research Centers]] | 事实 | [[National Science Foundation\|NSF]] 将大科学合作协议与跨学科团队攻关模式引入大学工程学科的旗舰计划。 |
 > | [[DARPA]] | 事实 | 冷战大科学背景下最具代表性的敏捷技术突破与采购资助机构。 |
+> | [[National Science Foundation]] | 事实 | 战后由资助小科学个体 PI 向兼顾大科学工程与产学中心资助转型的主管机构。 |
+> | [[Erich Bloch]] | 人物 | 主导创立 ERC 与 [[Science and Technology Centers\|STC]]、将大科学中心模式注入大学工程科研体系的前 NSF 主任。 |
 > | [[Public Dynamic Capabilities]] | 概念 | 大科学要求国家在政策层级具备强大的战略研发统筹与采购协同能力。 |
 > | [[Directionality of Innovation]] | 概念 | 大科学通过国家意志强力锚定特定[[Technological Trajectories\|技术轨道]]的发展方向。 |
 > | [[Complexity Paradox]] | 概念 | 将大科学模式僵化套用于社会难题容易加剧政府部门间的条块分割。 |
@@ -173,6 +195,7 @@ aliases:
 > | [[Chris Freeman]] | 人物 | [[Evolutionary Economics\|演化经济学]]家；借助美苏日历史比较揭示大科学投入与民用创新体系割裂风险的学者。 |
 > | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] | 论证 | 从科学社会契约演化视角，论述大科学推高科研成本并加剧契约合法性危机的制度分析。 |
 > | [[Argument_Freeman_1995_CJE\|Freeman (1995)]] | 论证 | 实证剖析苏联大科学研发体制与民用经济割裂导致[[Systems of Innovation\|创新系统]]失灵的历史论证。 |
+> | [[Argument_Bozeman_2004_JTT\|Bozeman & Boardman (2004)]] | 论证 | 剖析大科学中心模式向大学工程学科移植（ERC）的制度演进与掠夺小科学经费的争论。 |
 
 ---
 
@@ -182,3 +205,5 @@ aliases:
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演进脉络，论证大科学模式如何推高科研成本、强化外部刚性问责，并与[[Reproducibility Crisis|可重复性危机]]交织终结了基础科学无需自证的免检地位。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 系统界定大科学作为第二代技术攻关使命政策的组织载体，论证其在应对复杂社会挑战时的制度失灵与公共采购外溢机制。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 比较冷战美苏科技体制，实证揭示缺乏民用微观反馈的大科学军备研发如何导致[[National Innovation System|国家创新系统]]的演化失败。
+> - [[Argument_Bozeman_2004_JTT|Bozeman & Boardman (2004)]] — 结合口述史与实证追踪，系统论述大科学跨学科中心模式向[[Research Universities|研究型大学]]与工程科研领域的移植，以及引发的小科学自由探索经费分配张力。
+

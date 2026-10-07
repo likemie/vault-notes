@@ -4,7 +4,7 @@ aliases: ["文献检索", "文献搜索", "literature retrieval", "searching for
 summary: "研究过程中系统检索、筛选和评估文献的操作性步骤，包括检索策略、网络操作符、数据库选择、信息类型识别、文献优先级排序与质量评估及网站评估。"
 type: concept
 domain: "research-methodology"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Artefact]]"
   - "[[Evaluation Research]]"
+  - "[[Engineering Education]]"
   - "[[Lifelong Learning]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Informationalization]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-21
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 # Literature Search
 
@@ -265,7 +266,7 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > | [大学教育科学](https://navi.cnki.net/knavi/journals/JXGJ/detail) | 湖南大学、中国机械工业教育协会主办，高等教育理论与实践研究 |
 > | [电化教育研究](https://navi.cnki.net/knavi/journals/DHJY/detail) | 西北师范大学、中国电化教育研究会主办，教育技术学核心期刊 |
 > | [复旦教育论坛](https://navi.cnki.net/knavi/journals/GWZX/detail) | 复旦大学主办，高等教育改革与大学治理学术论坛 |
-> | [高等工程教育研究](https://navi.cnki.net/knavi/journals/GDGJ/detail) | 华中科技大学主办，工程教育理论与工程创新研究 |
+> | [高等工程教育研究](https://navi.cnki.net/knavi/journals/GDGJ/detail) | 华中科技大学主办，[[Engineering Education\|工程教育]]理论与工程创新研究 |
 > | [高等教育研究](https://navi.cnki.net/knavi/journals/HIGH/detail) | 华中科技大学、中国高等教育学会主办，高等教育学综合性期刊 |
 > | [高校教育管理](https://navi.cnki.net/knavi/journals/ZJSK/detail) | 江苏大学主办，高校内部治理与高等教育管理政策研究 |
 > | [国家教育行政学院学报](https://navi.cnki.net/knavi/journals/GJXZ/detail) | 国家教育行政学院主办，教育行政体制与教育治理现代化研究 |

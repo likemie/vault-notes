@@ -7,7 +7,7 @@ title: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_key: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_display_title: "Evidence on evidence-informed policy and practice"
 argument_kind: "book-chapter"
-argument_related_count: 73
+argument_related_count: 74
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -92,6 +92,7 @@ related_concepts:
   - "[[Sage]]"
   - "[[Output-Oriented Governance]]"
   - "[[Causality]]"
+  - "[[Metascience]]"
   - "[[Emergence]]"
 related_facts:
   - "[[What Works Network]]"
@@ -568,7 +569,7 @@ sources:
 > | **基于评估的迭代** | 机构如何利用评估发现动态纠偏并迭代自身未来的战略与方法？ | 将评估报告作为应付交账的公文，评完即锁进抽屉。 |
 > | **功效证据证明** | 机构在宣称自身带来积极贡献时，是否提供了切合标准的充分证据？ | 对外推销严苛证据等级，对自身成效却大搞叙事性自夸。 |
 > | **自我评价准则** | 评估自身变化时采纳了何种方法，使用的是主观指标还是客观因果指标？ | 混淆相关性与[[Causality\|因果性]]，将外部自然改善贪天之功为己有。 |
-> | **反哺元研究体系** | 机构的实证探索是否正在为全球关于研究应用的研究知识库贡献力量？ | 闭门造车，未能将实践经验升华为可供全人类共享的元科学知识。 |
+> | **反哺元研究体系** | 机构的实证探索是否正在为全球关于研究应用的研究知识库贡献力量？ | 闭门造车，未能将实践经验升华为可供全人类共享的[[Metascience\|元科学]]知识。 |
 
 #### 2. 资助制度转型与三方协同重塑构筑元研究生态
 

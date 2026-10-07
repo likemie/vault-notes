@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Reproducibility Crisis]]"
   - "[[Hypothesis]]"
   - "[[Technology-Oriented Social Contract]]"
+  - "[[Falsification]]"
   - "[[Academic Freedom]]"
   - "[[Paradigm]]"
   - "[[Disciplina and Doctrina]]"
@@ -40,14 +41,18 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
   - "[[Office of Science and Technology Policy]]"
+  - "[[Science A New Golden Age 2026]]"
+  - "[[Genesis Mission]]"
 related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
+  - "[[Argument_Kratsios_2026_OSTP]]"
 related_persons:
   - "[[Vannevar Bush]]"
+  - "[[Michael Kratsios]]"
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Restoring Gold Standard Science Executive Order
@@ -89,6 +94,7 @@ updated: 2026-10-06
 > - **学术自治的大幅收缩** 传统上，科研选题、[[Hypothesis|假设]]验证与方法审议属于科学共同体的内在自主事务。该行政令将方法规范转化为行政直接干预科研选题的武器，导致学术自治由二战后[[Vannevar Bush|万尼瓦尔·布什]]模式下的“有条件自治”滑向高度政治化与安全化的受限自治。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
 > - **契约关系的结构异化** 打破了[[Social Contract of Science|科学的社会契约]]中“国家出资、科学家自主探索、回馈长远公共利益”的默契，加速了科研体系向[[Technology-Oriented Social Contract|技术型社会契约]]的过渡，使基础研究面临短期行政效用与合规性双重挤压。
 > - **寒蝉效应与研发分化** 在公共卫生、环境科学和人文学科领域引发普遍的审查恐惧与合规成本激增，迫使大学科研资源进一步向符合国家战略安全与确定性工程目标的关键技术聚集。
+> - **报告自身的用法** 2026 年 7 月呈交总统的《[[Science A New Golden Age 2026|科学：新的黄金时代]]》把该行政令写成与[[Genesis Mission|创世纪计划]]配对的核验侧。可重复性、透明度、误差与不确定性的沟通、跨学科协作、对假设的怀疑、假说的[[Falsification|可证伪性]]、无偏见的同行评议、接受负面结果和免于利益冲突，被写成全部联邦资助研究的原则。数据共享和方法记录则被看成自动核验的条件。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 64)]] 这一自我定位与下文樊春良关于学术自治收缩的阅读并列，不互相替换。
 
 > [!debate] 科学诚信治理 vs 政治化行政清洗
 > - **支持立场（行政问责与实证可信）** 强调纳税人经费不应资助无法复现、结论不可靠或带有明显政治倾向的研究；严格的数据透明度与复现审计是挽救公众对科学信任的必要法律手段。
@@ -102,6 +108,7 @@ updated: 2026-10-06
 > - **2025年05月23日** 特朗普签署《恢复黄金标准的科学》行政令，确立行政审计、数据公开与方法复核要求。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
 > - **2025年07月** 联邦预算与科学管理部门启动跨部门合规清查，与涉嫌特定意识形态及争议气候研究的资助扣留（impoundment）联动推进。
 > - **2026年01月** [[Office of Science and Technology Policy|白宫科学技术政策办公室]]（OSTP）发布《特朗普政府科学技术一年亮点》（*Highlights of the First Year*），将该行政令列为重构科学问责机制与捍卫国家利益的核心政绩。
+> - **2026年07月21日** OSTP 主任[[Michael Kratsios|迈克尔·克拉齐奥斯]]向总统呈交《[[Science A New Golden Age 2026|科学：新的黄金时代]]》，把该行政令与[[Genesis Mission|创世纪计划]]写成生成与核验必须一起扩大的两半。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. vi, 64)]]
 
 ---
 
@@ -127,3 +134,4 @@ updated: 2026-10-06
 > | 研究[[Document\|文献]] | 核心发现与论述 | 对应页码 |
 > |:---|:---|:---|
 > | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] | 分析特朗普政府 2025 年 5 月签署的《恢复黄金标准的科学》行政令，揭示其作为[[Technology-Oriented Social Contract\|技术型社会契约]]下的“契约性工具”，如何借可重复性与客观性之名强化行政可验证性，将科学合法性由内在认知权威转向外部程序与结果可控性，从而导致科学自治向受限自治急剧退缩。 | pp. 1060, 1062–1063 |
+> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | 以行政令列出的原则为核验侧建设的文本依据，主张在人工智能降低生成成本时，用可共享的方法记录和可机审的复制包，把核验做到与生成同一规模。 | p. 64 |

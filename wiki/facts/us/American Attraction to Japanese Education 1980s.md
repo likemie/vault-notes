@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -23,6 +23,7 @@ tags:
 - scandalize
 related_concepts:
   - "[[Champ]]"
+  - "[[Competitiveness]]"
   - "[[International Education]]"
   - "[[Concept Mapping]]"
   - "[[Cross-National Attraction]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-05-28'
+updated: 2026-10-07
 ---
 
 ## 背景
@@ -53,7 +54,7 @@ updated: '2026-05-28'
 > 1980 年代初期，美国同时面临多项结构推力（structural impulses）的交叠作用，共同推动了对日本教育的高度关注([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, pp. 228–229, 234–235]])：
 >
 > - **技能创新焦虑** — 美国制造业岗位大量流向日本，产业界和公众舆论呼吁"重新装备"（retool）劳动力，教育被视为提升劳动力技能的关键[[Champ\|场域]]
-> - **政治变化** — 1980 年里根（Reagan）当选总统，保守派执政后教育政策话语从"公平与机会"转向"竞争力与卓越"
+> - **政治变化** — 1980 年里根（Reagan）当选总统，保守派执政后教育政策话语从"公平与机会"转向"[[Competitiveness|竞争力]]与卓越"
 > - **负面外部评估** — 1983 年最早一批 [[IEA]]（[[International Education\|国际教育]]成就评价协会，International Association for the Evaluation of Educational Achievement）国际比较研究发布，美国学生在数学和科学等科目的表现不如日本等同级经济体
 > - **新型态（new forms）** — 日本经济被广泛预测将在不远的将来超越美国，日企在美国汽车和电子市场"击败"美企，催生了"日本第一"（Japan as No. 1）的大众话语想象
 >
@@ -66,7 +67,7 @@ updated: '2026-05-28'
 > [!note]- 经过
 > ### 1980–1983：吸引力升温期
 >
-> - **1980** — 里根当选总统，联邦教育改革话语转向"竞争力"和"绩效"，日本经济崛起成为教育政策讨论中的常设参照
+> - **1980** — 里根当选总统，联邦教育改革话语转向"[[Competitiveness|竞争力]]"和"绩效"，日本经济崛起成为教育政策讨论中的常设参照
 > - **1983-04** — [[A Nation at Risk 1983\|国家在危机中]]（*A Nation at Risk*）发布，以军事危机语言开篇，将教育质量下降建构为国家安全威胁。报告频繁将美国学生表现与日本进行对比，将日本从"学术兴趣对象"升级为"国家危机叙事的核心参照"([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 235]])
 > - **1983** — 早期 [[IEA]] 国际比较结果进入公众视野，为危机叙事提供了"硬数据"支撑
 >

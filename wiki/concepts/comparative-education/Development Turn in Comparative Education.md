@@ -7,7 +7,7 @@ aliases:
 summary: "Gita Gita Steiner-Khamsi (2006)提出的概念，指二战后领土帝国崩溃、冷战超级大国争夺新独立国家背景下，比较教育的资金、焦点和方法系统性转向发展中国家教育的过程。在冷战地缘博弈和科学主义的合谋下，该转向将教育规划重构为经济投资，并在后冷战时期演变为新自由主义全球治理下的“最佳实践”输出机制。"
 type: concept
 domain: "comparative-education"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Methodological Statism]]"
   - "[[Scientism]]"
+  - "[[Competitiveness]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Post-Fordism]]"
   - "[[Evidence-Based Education]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Development Turn in Comparative Education
@@ -125,7 +126,7 @@ updated: 2026-10-05
 > **干预合法化与“落后”话语构建** 认为将[[Development Education|发展中国家教育]]体系诊断为“滞后于”西方标准，其核心功能在于为超级大国和国际组织输出“技术援助”提供去政治化的合规证据——即通过构建“落后”的病理话语，正当化西方的专家干预，并固化“北方教导南方”的不对称权力结构。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 422]])
 
 > [!claim] Anderson (1958)
-> **教育经济学对比较教育的科学化改造** 指出[[Comparative Education Center at Chicago 1958\|芝加哥大学比较教育中心]]与新兴的人力资本学说（教育作为生产性投资）深度融合，通过美国发起并资助的跨国援助项目（如[[Mediterranean Regional Project\|地中海区域项目]]），将教育经济学的因果模型确立为衡量国家竞争力的唯一客观指标，实现了比较教育向科学主义的[[Paradigm\|范式]]跳跃。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 422]])
+> **教育经济学对比较教育的科学化改造** 指出[[Comparative Education Center at Chicago 1958\|芝加哥大学比较教育中心]]与新兴的人力资本学说（教育作为生产性投资）深度融合，通过美国发起并资助的跨国援助项目（如[[Mediterranean Regional Project\|地中海区域项目]]），将教育经济学的因果模型确立为衡量[[Competitiveness|国家竞争力]]的唯一客观指标，实现了比较教育向科学主义的[[Paradigm\|范式]]跳跃。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 422]])
 
 ---
 

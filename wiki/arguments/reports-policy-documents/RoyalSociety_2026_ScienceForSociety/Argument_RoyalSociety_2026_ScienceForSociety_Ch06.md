@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_display_title: "Chapter six: Academic scientific community"
 argument_kind: "book-chapter"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -33,6 +33,7 @@ sources:
 part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 related_concepts:
   - "[[Public Engagement with Science]]"
+  - "[[Competitiveness]]"
   - "[[Social License to Operate]]"
   - "[[Emergence]]"
   - "[[Gamification]]"
@@ -131,7 +132,7 @@ updated: 2026-10-04
 [[Public Engagement with Science|公众科学参与]]的开展根本上取决于科研人员自身的参与意愿与专业行动能力。这亟需在科学界内部建立一种积极的科研文化，使一线科学家在大学及科研雇主的支持下，拥有充分的信心与资源，与多元公众社群、政策制定者、大众媒体以及产业与第三部门开展深度交流。（pp. 91–92）
 
 > [!claim] 步骤一核心主张
-> 科研人员投身[[Public Engagement with Science\|公众科学参与]]能够获得学术反哺、资助竞争力、伦理践行、工作乐趣与综合技能等多维实质增益；与此同时，高等教育机构（Higher Education Institutions, HEIs）亦迫切需要依托公众参与维系大学开展科研与教学的核心制度契约——[[Social License to Operate\|社会运营许可]]（Licence to Operate），两者在战略目标上高度互构。（pp. 91–93）
+> 科研人员投身[[Public Engagement with Science\|公众科学参与]]能够获得学术反哺、资助[[Competitiveness|竞争力]]、伦理践行、工作乐趣与综合技能等多维实质增益；与此同时，高等教育机构（Higher Education Institutions, HEIs）亦迫切需要依托公众参与维系大学开展科研与教学的核心制度契约——[[Social License to Operate\|社会运营许可]]（Licence to Operate），两者在战略目标上高度互构。（pp. 91–93）
 
 #### 主题一：多元化草根科学传播平台与公共空间网络创新（p. 92）
 

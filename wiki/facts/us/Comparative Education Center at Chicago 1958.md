@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -21,6 +21,7 @@ tags:
   - theme/cold-war
   - region/us
 related_concepts:
+  - "[[Competitiveness]]"
   - "[[Return on Investment]]"
   - "[[Paradigm]]"
 related_theories:
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # Comparative Education Center at Chicago 1958
@@ -50,7 +51,7 @@ updated: 2026-09-24
 ## 背景
 
 > [!info]
-> 芝加哥大学比较教育中心（Comparative Education Center）由 [[C. Arnold Anderson]] 于 1958 年创立，适逢 [[Sputnik Shock 1957\|Sputnik]] 冲击（[[Sputnik Shock 1957]]）之后美国对教育竞争力高度焦虑的时期。Sputnik 冲击催生了[[Economics of Education Movement\|教育经济学运动]]——一种将教育视为投资而非消费的技术官僚思维——而芝加哥比较教育中心正是这一运动在比较教育领域的核心制度载体([[Argument_Klerides_2023_CE\|Klerides, 2023, pp.422–423]])。
+> 芝加哥大学比较教育中心（Comparative Education Center）由 [[C. Arnold Anderson]] 于 1958 年创立，适逢 [[Sputnik Shock 1957\|Sputnik]] 冲击（[[Sputnik Shock 1957]]）之后美国对教育[[Competitiveness|竞争力]]高度焦虑的时期。Sputnik 冲击催生了[[Economics of Education Movement\|教育经济学运动]]——一种将教育视为投资而非消费的技术官僚思维——而芝加哥比较教育中心正是这一运动在比较教育领域的核心制度载体([[Argument_Klerides_2023_CE\|Klerides, 2023, pp.422–423]])。
 
 ---
 

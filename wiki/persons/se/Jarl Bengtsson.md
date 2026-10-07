@@ -6,7 +6,7 @@ summary: "瑞典教育学者，经合组织教育研究与创新中心（OECD CE
 type: person
 nationality: "se"
 person_region: "se"
-person_related_count: 33
+person_related_count: 34
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Further Education]]"
   - "[[Paradigm]]"
+  - "[[Competitiveness]]"
   - "[[Performance Indicators]]"
   - "[[Governing by Numbers]]"
   - "[[Soft Power by Hard Facts]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 
 # Jarl Bengtsson
@@ -108,7 +109,7 @@ updated: 2026-09-18
 >   - **代表著作** *Recurrent Education: A Strategy for Lifelong Learning* (OECD/CERI, 1973)。
 >   - **关键概念／方法** [[Lifelong Learning]]、Equality of Educational Opportunity。
 >   - **阶段转向** 随着 1970 年代末西方滞胀危机与新自由主义兴起，福利主义循环教育方案因预算高昂在各国受挫，本特森敏锐意识到必须转向为经济绩效服务的务实路线。
-> - **1980–1991 — 危机驱动下的指标转向与 [[International Indicators of Education Systems\|INES]] 架构奠定** 紧扣欧美各国对公立学校效率低下与国际竞争力下滑的恐慌，以建立跨国可比[[Performance Indicators\|绩效指标]]为突破口，重新恢复 [[OECD]] 的核心政策影响力。
+> - **1980–1991 — 危机驱动下的指标转向与 [[International Indicators of Education Systems\|INES]] 架构奠定** 紧扣欧美各国对公立学校效率低下与国际[[Competitiveness|竞争力]]下滑的恐慌，以建立跨国可比[[Performance Indicators\|绩效指标]]为突破口，重新恢复 [[OECD]] 的核心政策影响力。
 >   - **代表著作** *The INES Project: Design and Operational Guidelines* (CERI, 1988)。
 >   - **关键概念／方法** [[Performance Indicators]]、[[International Indicators of Education Systems]]、[[Education at a Glance]]。
 >   - **阶段转向** 从单纯收集投入产出统计指标，转向探索直接对学生认知产出（Learning Outcomes）进行跨国规模测量的可行性。
@@ -136,7 +137,7 @@ updated: 2026-09-18
 > [!influence-path] 影响路径
 > - **理论路径** 实践并印证了政策工具社会学与[[Soft Power by Hard Facts\|以硬事实施展软权力]]的核心[[Hypothesis\|假设]]，为后续拉德卡·戈鲁尔（Radhika Gorur）与索蒂里亚·格雷克（Sotiria Grek）等学者开创[[Performance Indicators\|教育指标]][[Sociology of Measurement\|测量社会学]]提供了活生生的机构样本。
 > - **方法路径** 奠定了当代跨国教育指标矩阵与网络工作法（NES Networks），开创了跨国教育统计指标标准化定义（ISCED 体系在 [[OECD]] 的应用与延展）。
-> - **政策路径** 直接塑造了当代西方世界每逢教育改革必谈《[[Education at a Glance\|教育概览]]》指标与 [[PISA]] 排名的政治反射；将教育部门推向国家宏观竞争力的战略核心。
+> - **政策路径** 直接塑造了当代西方世界每逢教育改革必谈《[[Education at a Glance\|教育概览]]》指标与 [[PISA]] 排名的政治反射；将教育部门推向国家宏观[[Competitiveness|竞争力]]的战略核心。
 > - **跨国／跨领域传播** 其开创的指标开发治理[[Paradigm\|范式]]被[[World Bank\|世界银行]]、欧盟委员会（欧委会教育与培训监测框架）以及 [[UNESCO]] 统计研究所（[[UNESCO Institute for Statistics\|UIS]]）全面仿效。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
@@ -150,7 +151,7 @@ updated: 2026-09-18
 > [!person-network] 关系网络
 > - **学生／继承者** [[Andreas Schleicher]] — 本特森在 [[Centre for Educational Research and Innovation\|CERI]] 关键时期引入并重用的数据专家与后继领导者，最终将本特森的 [[PISA]] 构想变为现实。
 > - **师承／合作者** [[Norberto Bottani]] — [[International Indicators of Education Systems\|INES]] 项目首任技术负责人，与本特森并肩作战确立前四版《[[Education at a Glance\|教育概览]]》的指标架构。
-> - **批评者／论敌** 欧陆传统教育哲学家 — 批评本特森后期对指标与经济竞争力的偏执放弃了早期“循环教育”的人文关怀，将教育彻底异化为功利主义[[Human Capital Theory\|人力资本]]附庸。
+> - **批评者／论敌** 欧陆传统教育哲学家 — 批评本特森后期对指标与经济[[Competitiveness|竞争力]]的偏执放弃了早期“循环教育”的人文关怀，将教育彻底异化为功利主义[[Human Capital Theory\|人力资本]]附庸。
 > - **机构／运动／项目** [[OECD]] / CERI — 本特森奉献 31 年青春的核心机构。
 > - **史学研究者** [[Christian Ydesen]] — 系统发掘本特森领导 CERI 历史档案的当代领衔学者。
 

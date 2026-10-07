@@ -8,7 +8,7 @@ aliases:
 summary: "以 Nelson & Winter（1982）为奠基的经济学流派，将经济变迁视为多样性变异、组织惯例学习、路径依赖与动态选择的演化过程；批判新古典静态均衡假设，为技术轨迹、创新系统、公共动态能力与引领和学习范式提供底层理论基石"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 62
+theory_related_count: 63
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[University-Industry Collaboration]]"
   - "[[Document]]"
+  - "[[Competitiveness]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Complexity Paradox]]"
   - "[[Embedded Autonomy]]"
@@ -89,7 +90,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-10
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Evolutionary Economics
@@ -244,7 +245,7 @@ updated: 2026-10-06
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **微观异质性常态命题** | 论证企业生产率与创新能力差异是经济演化的本体性驱动力 | 产业经济学实证建模、全要素生产率测算与异质性分析 | [[Argument_Bogliacino_Pianta_2016_EP\|Bogliacino & Pianta (2016)]]; Nelson & Winter (1982) |
-> | **技术轨迹决定命题** | 阐明不同产业因知识基础与搜寻模式差异形成稳定的分类模式 | 产业技术政策制定、创新模式分类与跨国竞争力比较 | [[Argument_Pavitt_1984_RP\|Pavitt (1984)]]; Dosi (1982, 1988) |
+> | **技术轨迹决定命题** | 阐明不同产业因知识基础与搜寻模式差异形成稳定的分类模式 | 产业技术政策制定、创新模式分类与跨国[[Competitiveness\|竞争力]]比较 | [[Argument_Pavitt_1984_RP\|Pavitt (1984)]]; Dosi (1982, 1988) |
 > | **激进不确定性与路径依赖** | 揭示颠覆性创新在技术与制度空间中的历史锁定与失败必然性 | 国家重大科技专项论证、清洁能源转型与风险投资管理 | 纳尔逊–温特演化学派; [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
 > | **主动市场塑造与共创命题** | 论证国家作为前瞻引领者和市场共创者在推动系统转型中的关键角色 | [[Mission-Oriented Innovation Policy\|使命导向创新政策]]、公共开发性金融投资与公私合作契约设计 | [[Mariana Mazzucato\|马祖卡托（市场塑造理论）]]; Perez (2002) |
 > | **公共动态能力与引领学习** | 综合熊彼特双元动态能力与韦伯国家能力，以三层能力矩阵驱动制度进化 | 突破[[Complexity Paradox\|复杂性悖论]]、国家创新机构改革与敏捷数字化转型 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018)]] |
@@ -256,7 +257,7 @@ updated: 2026-10-06
 
 > [!feature] 演化经济学在创新与公共政策领域的关键[[Operationalization|操作化]]应用
 > - **中观产业分类与[[Heterogeneity|异质性]]测度** [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]] 基于演化经济学对异质性的理论强调，利用多国制造业与服务业微观数据，通过主成分分析与计量回归验证了 [[Pavitt Taxonomy|Pavitt 分类法]]在解释技术创新投入与经济绩效转化上的稳健因果力。（pp. 170–175）
-> - **创新与就业动态机制分析** Bogliacino & Pianta（2010, 2011, 2013）基于演化框架区分了“技术竞争力”（以产品创新开辟新市场、带动高质量就业）与“成本竞争力”（以流程创新压缩用工成本）两条异质演化路径。
+> - **创新与就业动态机制分析** Bogliacino & Pianta（2010, 2011, 2013）基于演化框架区分了“技术[[Competitiveness|竞争力]]”（以产品创新开辟新市场、带动高质量就业）与“成本竞争力”（以流程创新压缩用工成本）两条异质演化路径。
 > - **国家[[Systems of Innovation|创新系统]]（[[National Innovation System|NIS]]）治理** Lundvall（1992）与 Nelson（1993）将演化视角落地为对大学、企业、政府与中介机构间网络交互与制度适配性的诊断，推动政策从资助单一主体转向修补系统失灵。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 29–31)]]
 > - **[[Mission-Oriented Innovation Policy|使命导向创新政策]]与 ROAR 框架** [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] 将演化经济学发展为应对重大社会挑战的操作工具，建立涵盖战略路径（Routes）、组织能力（Organizations）、动态评估（Assessment）与风险收益共享（Risks and rewards）的系统工具箱。
 > - **公共部门三层动态能力矩阵与敏捷实验治理** [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] 将演化经济学的动态能力逻辑拓展至公共管理，建立国家政治愿景、跨部门政策组合与行政敏捷团队三层操作化分析构架，为公共机构打破条块分割、开展[[Randomised Controlled Trials|随机对照试验]]（RCT）与以人为本的服务设计提供指导。（pp. 795–798）

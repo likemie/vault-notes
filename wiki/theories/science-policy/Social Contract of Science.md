@@ -8,10 +8,10 @@ aliases:
 summary: "社会整体与科学共同体之间围绕知识生产的公共价值形成的权利与责任结构性配置框架，核心涵盖合法性基础、制度与资源支持、自治空间、功能期待与责任结构五个分析维度"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 31
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 33
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theme/science-policy
   - theme/research-governance
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Research Security]]"
   - "[[Paradigm]]"
   - "[[Big Science]]"
+  - "[[Competitiveness]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Grand Challenges]]"
   - "[[Technology-Oriented Social Contract]]"
@@ -51,13 +52,14 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[Office of Naval Research]]"
   - "[[NSF Broader Impacts Criterion]]"
+  - "[[Genesis Mission]]"
   - "[[Office of Science and Technology Policy]]"
 related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Social Contract of Science
@@ -89,7 +91,7 @@ updated: 2026-10-06
 
 > [!dev-timeline] 科学社会契约的历史演变
 > - **1945—1989 年 — 契约稳定期** 以国家安全与美苏体制竞争为根本合法性基础，建立起多元资助网络与[[Big Science|大科学]]体系；科学家通过美国[[President's Science Advisory Committee|总统科学顾问委员会]]（President's Science Advisory Committee, PSAC）制度性深度嵌入国家最高决策，享有高度专业自治与信任型经费托底。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1058–1059)]]
-> - **1990—2009 年 — 契约再协商与再定义期** 冷战终结削弱了安全正当性的统摄地位，合法性转向经济竞争力、社会相关性与治理问责；通过引入[[Use-Inspired Basic Research|应用启发的基础研究]]理念（[[Pasteur's Quadrant|巴斯德象限]]）、公私伙伴关系与绩效评估，形成多种契约逻辑交叠并存的过渡结构。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
+> - **1990—2009 年 — 契约再协商与再定义期** 冷战终结削弱了安全正当性的统摄地位，合法性转向经济[[Competitiveness|竞争力]]、社会相关性与治理问责；通过引入[[Use-Inspired Basic Research|应用启发的基础研究]]理念（[[Pasteur's Quadrant|巴斯德象限]]）、公私伙伴关系与绩效评估，形成多种契约逻辑交叠并存的过渡结构。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
 > - **2010—2024 年 — 契约危机与重构期** 绩效问责强化、[[Grand Challenges|重大挑战]]导向与[[Research Security|科研安全]]审查刚性化，叠加政治极化与大国技术竞争；科学失去默认信任地位，正当性全面条件化，契约承载的多重功能负载显著上升。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1060–1061)]]
 > - **2025 年起 — 转向技术型替代契约** 美国启动对二战后传统科学社会契约的制度性退出，转向以国家竞争、任务牵引与技术能力获取为中心的[[Technology-Oriented Social Contract|技术型社会契约]]，科学由国家认知中心弱化为能力体系中的组成要素。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]
 
@@ -117,14 +119,14 @@ updated: 2026-10-06
 > **应用实例** 冷战早中期美国通过美国[[President's Science Advisory Committee|总统科学顾问委员会]]（President's Science Advisory Committee, PSAC）将顶尖物理学与工程学者直接纳入国家核威慑与太空竞赛决策，同时通过[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）与[[Office of Naval Research|美国海军研究办公室]]（Office of Naval Research, ONR）的同行评议向大学提供充沛经费，创造了 1957—1967 年科技黄金十年。
 
 > [!theory-proposition] 命题二｜合法性拼合与多重功能过载将促使科学正当性由自明滑向条件化
-> **解释** 当单一统摄性正当性瓦解后，国家开始将经济竞争力、社会公平、环境保护与行政问责等多种[[Heterogeneity|异质性]]目标叠加于科学之上。科学被要求持续解释自身对现实问题的即时贡献，其正当性由默认信任转变为必须由外部可测绩效换取的条件化正当性，契约内在张力显著激化。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1061)]]
+> **解释** 当单一统摄性正当性瓦解后，国家开始将经济[[Competitiveness|竞争力]]、社会公平、环境保护与行政问责等多种[[Heterogeneity|异质性]]目标叠加于科学之上。科学被要求持续解释自身对现实问题的即时贡献，其正当性由默认信任转变为必须由外部可测绩效换取的条件化正当性，契约内在张力显著激化。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1061)]]
 >
 > **应用实例** 2010 年美国出台《政府绩效与成果法案现代化法案》（Government Performance and Results Act Modernization Act, GPRAMA）并将 NSF 更广泛的影响（[[NSF Broader Impacts Criterion|Broader Impacts]]）评审指标硬化为刚性门槛，使科研项目必须就解决重大社会挑战提供刚性证明，传统由好奇心驱动的基础探索丧失了无条件免检地位。
 
 > [!theory-proposition] 命题三｜国家在危机与激烈竞争情境下倾向于发展以能力获取为中心的技术型替代契约
 > **解释** 当地缘技术对抗急剧升温且关键新兴技术的突破主要发生于私营部门与产业生态时，国家倾向于弱化对传统学术体系漫长积累周期的依赖。政府通过行政统筹、跨部门动员、政府采购与强化安全审计，建立以技术能力快速掌控为核心的新型契约，科学由国家的认知中心降级为能力体系中的从属要素。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]
 >
-> **应用实例** 2025 年特朗普政府启动创世纪计划（The Genesis Mission）并颁布《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，削减高校基础探索预算，转向直接依托国家实验室与科技企业联合推进人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）与量子技术的工程化落地。
+> **应用实例** 2025 年特朗普政府启动[[Genesis Mission|创世纪计划]]（The Genesis Mission）并颁布《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，削减高校基础探索预算，转向直接依托国家实验室与科技企业联合推进人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）与量子技术的工程化落地。
 
 > [!theory-proposition] 命题四｜科学无止境边疆的制度基石动摇促发全球科研组织分化为三轨结构
 > **解释** [[Science, The Endless Frontier 1945|布什报告]]确立的科学无止境边疆，其本质不是描绘客观知识无边无际的自然隐喻，而是一整套具有高度约束力的制度性承诺。当国家撤销对长周期探索价值的默认信任、收紧时间容忍度并施加即时效用与合规审查时，无止境边疆退化为待正当化命题，促使科研组织载体分化为任务导向型（与国家安全深度绑定）、应用启发型（公私研发网络主流）与自由探索型（退缩为小众或私人慈善资助的边缘形态）三条并行轨道。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1063–1064)]]
@@ -167,7 +169,7 @@ updated: 2026-10-06
 > > 争论科学社会契约的演进究竟表现为单一主导契约被另一单一契约的整体性更替，还是表现为多种异质契约的长期交叠共存。
 > >
 > > - **[[Paradigm|范式]]更替说** 倾向于将二战后至今划分为战后布什契约向冷战后竞争契约以及当代技术型契约的阶段性整体演替。
-> > - **多元交叠论** [[Sheila Slaughter|希拉·斯劳特]]（Sheila Slaughter）等学者证明现实中呈现出冷战国防遗产契约、产业竞争力契约与特定领域健康契约并行交叠的复杂网络，政策转向往往体现为特定契约支流权重的消长而非完全消除。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1059)]]
+> > - **多元交叠论** [[Sheila Slaughter|希拉·斯劳特]]（Sheila Slaughter）等学者证明现实中呈现出冷战国防遗产契约、产业[[Competitiveness|竞争力]]契约与特定领域健康契约并行交叠的复杂网络，政策转向往往体现为特定契约支流权重的消长而非完全消除。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1059)]]
 >
 > > [!axis] 认知驱动模式 vs 能力驱动模式的制度持续性
 > > 争论国家科技治理能否长期脱离自由探索型基础科学与专业自治，完全依靠国家实验室与私营科技企业维系国家竞争力。

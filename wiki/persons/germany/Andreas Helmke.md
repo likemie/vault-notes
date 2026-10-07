@@ -7,7 +7,7 @@ summary: "德国教育学者和有效教学研究者，Unterrichtsqualität und 
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -27,13 +27,14 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Science Foundation Ireland]]"
 related_arguments:
   - "[[Argument_Laursen_2015_Paideia]]"
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 ## 简介
 
@@ -52,7 +53,7 @@ updated: 2026-09-22
 
 > [!success] 主要贡献
 > - [[Effective Teaching]] — Helmke 的综合是德语有效教学证据的重要来源之一，尤其提供了学生前提条件和文化语境的细化讨论([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.35–36]])。
-> - [[Feedback]] — Helmke and Hattie、Meyer 都认为给学生关于其表现的反馈能促进学习；这一共识使 SFI 关于反馈的零效应需要谨慎解释，因为 SFI 问项可能没有捕捉反馈的核心机制([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.39]])。
+> - [[Feedback]] — Helmke and Hattie、Meyer 都认为给学生关于其表现的反馈能促进学习；这一共识使 [[Science Foundation Ireland|SFI]] 关于反馈的零效应需要谨慎解释，因为 SFI 问项可能没有捕捉反馈的核心机制([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.39]])。
 
 ## 主要著作
 
@@ -62,5 +63,5 @@ updated: 2026-09-22
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - Helmke 支持教学差异化，但承认关于教学差异化是否提升学生学习的经验证据并不充分；这一点与丹麦 SFI 报告中"教学差异化似乎没有显著效果"的结果相互呼应。相关概念见 [[Individualised Instruction]]([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.38]])。
+> - Helmke 支持教学差异化，但承认关于教学差异化是否提升学生学习的经验证据并不充分；这一点与丹麦 [[Science Foundation Ireland|SFI]] 报告中"教学差异化似乎没有显著效果"的结果相互呼应。相关概念见 [[Individualised Instruction]]([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.38]])。
 > - Helmke 关于亚洲表现取向的解释提醒研究者，不应把高成绩直接归因于威权教学风格。观察到亚洲学生成绩高、亚洲课堂较封闭，并不能推出封闭教学就是高成绩的原因([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.39–40]])。

@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 29
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - theme/university-industry-collaboration
   - theme/innovation
 related_concepts:
+  - "[[Competitiveness]]"
   - "[[Innovation Ecosystem]]"
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Bayh-Dole Act of 1980
@@ -76,7 +77,7 @@ updated: 2026-10-06
 > - **问题背景** 
 >   1. **专利闲置与成果沉淀** 1980 年前，联邦政府出资产生的一切发明专利所有权均归联邦政府所有；然而联邦政府自身缺乏将其商业化或向民间企业许可的制度动力与行政机制，导致约 28,000 项由纳税人资助的专利沉淀在官方档案中，仅不到 5% 被产业界开发利用；[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 40)]]; [[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, p. 39)]]
 >   2. **冷战后产学严重脱钩** 二战后三十年间，随着联邦研发经费对基础研究的垄断性投入，大学高度依赖政府资金而逐渐远离产业界的实际技术需求，1975 年企业出资仅占大学科研总支出的 3.3%；[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 39–40)]]
->   3. **全球经济竞争力衰退与滞胀** 1970 年代末，美国面临严峻的经济滞胀危机以及西欧和日本制造业的剧烈竞争，促使华盛顿决策层迫切寻求通过释放高校沉睡的科技潜力来激活国家经济生产力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 39–41)]]
+>   3. **全球经济[[Competitiveness|竞争力]]衰退与滞胀** 1970 年代末，美国面临严峻的经济滞胀危机以及西欧和日本制造业的剧烈竞争，促使华盛顿决策层迫切寻求通过释放高校沉睡的科技潜力来激活国家经济生产力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 39–41)]]
 > - **制度位置** 该法案是战后美国科技政策从纯粹的“政府资助基础科学”转向现代“三螺旋[[Innovation Ecosystem|创新生态]]”的关键分水岭，与 1978 年国家科学基金会（[[National Science Foundation]], NSF）大学-产业合作试点、1980 年《史蒂文森-怀德勒技术创新法》（Stevenson-Wydler Technology Innovation Act）以及 1982 年《小企业创新发展法》（设立 [[SBIR and STTR Programs|SBIR]]）共同构成了美国现代[[University-Industry Collaboration|产学合作]]与国家[[Technology Transfer|技术转移]]的立法支柱。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–41)]]; [[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 52)]]
 
 ---
@@ -87,7 +88,7 @@ updated: 2026-10-06
 > 《拜杜法案》通过颠覆性地将联邦财政资助所产生的发明专利所有权赋予受资助的大学与非营利机构，并建立大学与科研人员的法定收益分成机制，消除了私人企业投资转化大学技术的法律障碍，一举奠定了全美[[Technology Transfer|大学技术转移]]、专利许可与[[Intellectual Capital|知识资本]]化的制度基础设施。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–41)]]; [[Argument_Hall_2025_EthicalLegalFrameworks|(Hall, 2025, p. 264)]]
 
 > [!policy-design]- 政策设计
-> - **政策目标** 促进联邦资助发明的商业化利用；鼓励大学、非营利机构与私营部门开展研发协作；保护纳税人与公共利益；增强美国在全球科技与工业领域的战略竞争力。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, pp. 272–274)]]
+> - **政策目标** 促进联邦资助发明的商业化利用；鼓励大学、非营利机构与私营部门开展研发协作；保护纳税人与公共利益；增强美国在全球科技与工业领域的战略[[Competitiveness|竞争力]]。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, pp. 272–274)]]
 > - **适用对象** 承担联邦研发合同与资助项目的高等院校、科研院所、非营利组织，以及寻求技术许可的中小企业与产业公司。[[Argument_Hall_2025_EthicalLegalFrameworks|(Hall, 2025, p. 264)]]
 > - **赋权与保留义务（三大法定支柱）**
 >   1. **所有权赋予受资助机构** 大学有权优先选择保留其雇员利用联邦资金研发的技术发明的专利所有权，并可向产业界转让非独占或独占许可；

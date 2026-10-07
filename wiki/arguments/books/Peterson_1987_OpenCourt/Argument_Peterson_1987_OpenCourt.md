@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt"
 argument_key: "Argument_Peterson_1987_OpenCourt"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges"
 argument_kind: "book"
-argument_related_count: 34
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -41,9 +41,11 @@ related_concepts:
   - "[[Assessment Backwash]]"
   - "[[International Qualification Recognition]]"
   - "[[Advanced Placement Program]]"
+  - "[[Terminal Courses]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Reliability]]"
   - "[[Epistemology]]"
+  - "[[Open-Mindedness]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -62,6 +64,7 @@ related_facts:
   - "[[International Baccalaureate North America]]"
   - "[[International Baccalaureate Six-Year Experiment]]"
 related_arguments:
+  - "[[Argument_Peterson_1987_OpenCourt_Ch08]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch01]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch02]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch03]]"
@@ -74,7 +77,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-17
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 # Argument_Peterson_1987_OpenCourt
 
@@ -139,6 +142,8 @@ updated: 2026-09-29
 > - **Ch. 6 — The International Baccalaureate in North America** 说明 IB 在精英预科学校和社区学院路径失败后，如何借北美地方课程自主、[[Advanced Placement Program\|大学先修课程项目]]先例、教育质量焦虑、[[International Baccalaureate North America\|IBNA]] 区域筹资与教师培训网络进入公立高中。
 > - **Ch. 7 — The Second Decade and Today** 说明 IB 与 UWC 如何以政府参与、功能分权、课程核心评价和多样化书院项目扩大规模，并持续处理公共身份、国家承认和地方适应的制度张力。
 
+> - **Ch. 8 — Some Issues for the Future** [[Argument_Peterson_1987_OpenCourt_Ch08|第八章]]从[[International Education|国际教育]]的价值、[[Terminal Courses|终结性课程]]、平衡扩张、奖学金与公共资助收束制度史，区分教育目标与尚未验证的和平效果。
+
 > [!chapter-index] 章节索引
 > - **Ch. 1 — The Founding of Atlantic College** _Ch01 — 大西洋学院的组织创办与课程难题。
 > - **Ch. 2 — The Founding of the International Baccalaureate** _Ch02 — 从战后[[International Schools\|国际学校]]的实际需要，经教师网络、ISES、课程改革联盟、试验学校与塞夫尔会议，追踪 IB 怎样成为可运行的国际资格。
@@ -165,6 +170,7 @@ updated: 2026-09-29
 > | [[Argument_Peterson_1987_OpenCourt_Ch05\|第5章]] | | |
 > | [[Argument_Peterson_1987_OpenCourt_Ch06\|第6章]] | | |
 > | [[Argument_Peterson_1987_OpenCourt_Ch07\|第7章]] | | |
+> | [[Argument_Peterson_1987_OpenCourt_Ch08\|第8章]] | | |
 
 ## 跨章综合
 
@@ -180,6 +186,8 @@ updated: 2026-09-29
 > - **扩展把复制问题转化为身份治理** 第 5 章显示，[[United World Colleges\|UWC]] 无法只复制大西洋学院。皮尔逊书院、东南亚书院、沃特福德和亚得里亚海书院以不同方式组合寄宿、奖学金、IB、社区服务、政府支持和学校自治，共同身份因而依赖持续的成员判断（第 5 章，pp. 99–129）。
 > - **区域扩张依赖制度生态** 第 6 章显示，北美增长并非课程质量的自动结果。地方课程权、AP 建立的外部课程先例、学术标准危机、[[International Baccalaureate North America\|IBNA]] 的本地筹资与[[Gilbert Nicol\|吉尔伯特·尼科尔]]建立的教师支持网络共同构成扩张条件（第 6 章，pp. 131–152）。
 > - **成熟制度依赖混合治理与差异化质量保障** 第 7 章显示，政府席位、学校费用、区域办公室、考试中心和课程专家共同维持 IB；TOK、EE 与 CASS 又需不同评价机制。UWC 的农业学院和美国西部书院表明地方化可以扩大使命，也会增加身份、许可与财政协调成本（第 7 章，pp. 161–190）。
+
+第 8 章进一步强调价值需要持续回检。前述制度建设需要重新接受教育目的的审查，以[[Terminal Courses|终结性课程]]、服务与学术整合、平衡扩张及公共资助，抵抗升学和财政压力对[[International Education|国际教育]][[Open-Mindedness|开放性]]的收缩；和平教育的价值与战争预防的效果证据必须区分（第 8 章，pp. 193–217）。
 
 > [!finding-cards] 综合发现
 > - **双重制度建设** 国际学校共同体与国际课程资格是相互依赖的两项建设任务（第 1 章，pp. 9–13）。
@@ -197,6 +205,11 @@ updated: 2026-09-29
 > 相信一种理念，就不能只思考、谈论或写作，而必须行动。（第 1 章，p. 2）
 >
 > *If you believe in something, you must not just think or talk or write, but must act.*
+
+> [!citation-card]- 教育目标与效果主张需要分别判断
+> 夸大的主张很可能引起怀疑，但这种怀疑应当针对主张，而不是目标。（第 8 章，p. 216）
+>
+> *Exaggerated claims may well produce scepticism, but it should surely be scepticism about the claims, not about the objectives.*
 
 ## 史料性质与解释边界
 

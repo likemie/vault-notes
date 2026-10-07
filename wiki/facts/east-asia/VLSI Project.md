@@ -13,7 +13,7 @@ subtype: program
 region: east-asia
 fact_region: "east-asia"
 fact_kind: "program"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[Document]]"
   - "[[Technological Catch-up]]"
+  - "[[Competitiveness]]"
   - "[[Vertical Disintegration]]"
   - "[[Market Failure]]"
   - "[[Industry Affiliate Program]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # VLSI Project
@@ -178,7 +179,7 @@ updated: 2026-10-06
 > > [!axis] 大宗商品锁定与架构转移适应迟滞争议（Commodity Lock-in vs. Architectural Shift）
 > > 产业经济学家与技术史学者进一步探讨 VLSI 项目高度聚焦于标准化存储芯片制造工艺，是否在长期上造成了日本半导体产业向重资产、大宗存储器（Commodity DRAM）路径的结构性锁定，削弱了其在 1990 年代应对微处理器与架构创新转型的敏捷性。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 110–111, 121–122)]]
 > >
-> > - **大宗工艺有效性论** VLSI 联盟成功的前提是 DRAM 属于技术演进路径明确、以缺陷密度和良率为绝对竞争力的标准化大宗产品，集中联合攻关能产生最高效率的研发与工艺红利。
+> > - **大宗工艺有效性论** VLSI 联盟成功的前提是 DRAM 属于技术演进路径明确、以缺陷密度和良率为绝对[[Competitiveness|竞争力]]的标准化大宗产品，集中联合攻关能产生最高效率的研发与工艺红利。
 > > - **结构性锁定与[[Paradigm|范式]]脱节** Macher 等人指出，当 1990 年代全球半导体产业价值链向微处理器、定制逻辑芯片以及“无晶圆厂设计-代工制造”（Fabless-Foundry）的[[Vertical Disintegration|垂直专业化分工]]演进时，日本纵向一体化厂商受困于重资产折旧与 DRAM 利润滑坡，错失了以架构创新和敏捷设计为特征的新一轮产业红利。
 
 > > [!axis] 传统产业政策竞争的溢出反弹与地缘贸易冲突升级

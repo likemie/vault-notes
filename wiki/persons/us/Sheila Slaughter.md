@@ -58,7 +58,7 @@ updated: 2026-10-06
 > - **代表贡献** 与拉里·莱斯利（Larry L. Leslie）及加里·罗兹（Gary Rhoades）合作出版《学术资本主义》（1997）与《学术资本主义与新经济》（2004），实证揭示冷战后大学如何通过专利转让与商业化融入市场，并论证了后冷战时期联邦科研中“多重契约并存”的制度生态。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 
 > [!citation-card] 多重契约交叠与学术资本主义
-> 希拉·斯劳特（Sheila Slaughter）等学者的实证研究表明，冷战后并非发生了从国防契约向经济契约的单一一刀切替换，而是形成了冷战遗产契约、经济竞争力契约与健康研究专项契约交叠共存的复合生态；大学科研人员主动利用市场化手段获取资源，重塑了科学社会契约的内部微观机制。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
+> 希拉·斯劳特（Sheila Slaughter）等学者的实证研究表明，冷战后并非发生了从国防契约向经济契约的单一一刀切替换，而是形成了冷战遗产契约、经济[[Competitiveness|竞争力]]契约与健康研究专项契约交叠共存的复合生态；大学科研人员主动利用市场化手段获取资源，重塑了科学社会契约的内部微观机制。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 >
 > *Empirical research by Sheila Slaughter and colleagues demonstrated that the post-Cold War era did not witness a simple substitution of one contract for another, but rather a composite ecology where the Cold War legacy contract, economic [[Competitiveness]] contract, and health research contract overlapped.*
 
@@ -88,7 +88,7 @@ updated: 2026-10-06
 ## 核心思想
 
 > [!claim] 核心主张
-> 斯劳特主张从政治经济学与批判制度主义视角审视[[Social Contract of Science|科学社会契约]]的演进。她反对将 1990 年代《[[Science in the National Interest 1994|科学与国家利益]]》以来的政策转型简化为“从旧契约走向单一新契约”的线性格局；实证指出，冷战后美国大学深陷多重互相冲突的制度规约之中，形成了国防军事残留契约（五角大楼高额订单）、经济与产业竞争力契约（[[Bayh-Dole Act of 1980|拜杜法案]]与专利[[Technology Transfer|技术转移]]）以及全民健康契约（[[National Institutes of Health|NIH]] 巨额经费）长期并存、犬牙交错的多重契约结构。这种交叠使得大学科研不可逆地深涉全球市场化竞争，学术自治被深植于资本增殖逻辑与国家地缘竞争的复合框架中。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
+> 斯劳特主张从政治经济学与批判制度主义视角审视[[Social Contract of Science|科学社会契约]]的演进。她反对将 1990 年代《[[Science in the National Interest 1994|科学与国家利益]]》以来的政策转型简化为“从旧契约走向单一新契约”的线性格局；实证指出，冷战后美国大学深陷多重互相冲突的制度规约之中，形成了国防军事残留契约（五角大楼高额订单）、经济与产业[[Competitiveness|竞争力]]契约（[[Bayh-Dole Act of 1980|拜杜法案]]与专利[[Technology Transfer|技术转移]]）以及全民健康契约（[[National Institutes of Health|NIH]] 巨额经费）长期并存、犬牙交错的多重契约结构。这种交叠使得大学科研不可逆地深涉全球市场化竞争，学术自治被深植于资本增殖逻辑与国家地缘竞争的复合框架中。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 
 > [!citation-card] 契约演进的非线性与多元交叠
 > 后冷战时期的科学政策转型从来不是一次性完成的[[Paradigm|范式]]革命，而是各方利益在既有制度遗产上的妥协与叠置；多重契约的存在不仅赋予大学灵活调度资源的生存空间，也瓦解了传统科学共同体统一的学术价值标准。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
@@ -140,5 +140,5 @@ updated: 2026-10-06
 > |:-----|:-----|:-----|
 > | [[Research Universities]] | 概念 | 斯劳特是当代研究型大学微观行为转向与[[Academic Capitalism\|学术资本主义]]化最深刻的实证剖析者。 |
 > | [[Social Contract of Science]] | 理论 | 提出多重契约交叠理论，修正了单一新旧契约更替的线性史观。 |
-> | [[Science in the National Interest 1994]] | 事实 | 该白皮书是斯劳特研究经济竞争力契约落地并重塑大学科研重点的核心历史文本。 |
+> | [[Science in the National Interest 1994]] | 事实 | 该白皮书是斯劳特研究经济[[Competitiveness\|竞争力]]契约落地并重塑大学科研重点的核心历史文本。 |
 > | [[Technology-Oriented Social Contract]] | 概念 | 2025 年起美国科技政策新[[Paradigm\|范式]]，将学术资本主义推向国家行政直接审计与采购的极化形态。 |

@@ -7,7 +7,7 @@ title: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_key: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_display_title: "Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019"
 argument_kind: "report"
-argument_related_count: 49
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dcfce7"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[University Spin-Out]]"
   - "[[Research Question]]"
   - "[[Responsible Innovation]]"
+  - "[[Competitiveness]]"
   - "[[Research and Technology Organisation]]"
   - "[[Problem Solving]]"
   - "[[Research Universities]]"
@@ -393,7 +394,7 @@ updated: 2026-09-16
 >
 > 但峰会的关键信息是：这类目标关注的是研发是关键投入的特定类型创新。大量有价值的创新活动——特别是传统制造产品部门之外的创新——并非基于研发（按通常定义），而是基于其他类型的知识活动和投入。增量创新可以为公司带来显著价值，且通常研发密集度低得多。离开全面的创新框架，仅依赖研发目标可能导致将政府投资转向高研发密集度领域，却未必是产生广泛经济繁荣改善的最有效方向。
 
-> [!case] 荷兰案例：研发强度停滞但竞争力跃升
+> [!case] 荷兰案例：研发强度停滞但[[Competitiveness|竞争力]]跃升
 > 荷兰试图实现 2011 年设定的 2.5% 研发强度目标，其产业政策经历了长达七十年的演变，最终选择了顶级行业和使命驱动路径——选择九个基于高生产力、高知识强度、出口导向和解决社会挑战能力的顶级行业，旨在让[[Triple Helix\|三重螺旋]]运转起来。
 >
 > > [!timeline] 荷兰产业政策演变

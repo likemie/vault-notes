@@ -11,7 +11,7 @@ aliases:
 summary: "指国家在科研与技术发展中追求自主自足、减少对外部人力资本、资金与合作的依赖，并在技术主权与孤立化成本之间寻求平衡的政策与战略导向。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
   - political-economy-geopolitics
   - higher-education
 related_concepts:
+  - "[[Competitiveness]]"
   - "[[Going Native]]"
   - "[[Academic Freedom]]"
   - "[[Megascience Installations]]"
@@ -32,7 +33,7 @@ related_methods:
 confidence: medium
 status: draft
 created: '2026-06-26'
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Scientific Autarky
@@ -42,7 +43,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 科学自给自足（Scientific Autarky）是指在科学与技术领域追求自主自足、降低对外部研究资源（包括科研资金、高水平学者、尖端设备等）和跨国合作依赖的政策导向与战略模式。该导向旨在维护国家的技术与科研主权，但往往会由于国际学术交流受限和竞争性资金减少，而带来科研人员流动性弱化、学术管理僵化及学术竞争力下降等潜在风险 [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022, pp. 35–37)]]。
+> 科学自给自足（Scientific Autarky）是指在科学与技术领域追求自主自足、降低对外部研究资源（包括科研资金、高水平学者、尖端设备等）和跨国合作依赖的政策导向与战略模式。该导向旨在维护国家的技术与科研主权，但往往会由于国际学术交流受限和竞争性资金减少，而带来科研人员流动性弱化、学术管理僵化及学术[[Competitiveness|竞争力]]下降等潜在风险 [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022, pp. 35–37)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向国家科研系统中的隔离程度以及在科研资源、[[Human Capital Theory\|人力资本]]、基础设施和资金筹措方面追求自足的战略选择。
@@ -111,7 +112,7 @@ updated: 2026-09-17
 > - **国际合作与信息流（全球化学术）** 主张科学的本质在于跨国界的合作与多源理念的融合，孤立的科学系统容易面临缺乏竞争性导致的毒性管理和科研质量衰退 [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022, pp. 37, 49)]]。
 
 > [!warning] 适用局限
-> 科学自给自足必须基于国内研发预算的强力保障和双向信息流通道的保留。在缺乏大规模追加资金和仅实施行政阻隔的系统下，该政策将蜕变为低水平的自我封闭，严重损害人才竞争力和科学活力 [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022, p. 49)]]。
+> 科学自给自足必须基于国内研发预算的强力保障和双向信息流通道的保留。在缺乏大规模追加资金和仅实施行政阻隔的系统下，该政策将蜕变为低水平的自我封闭，严重损害人才[[Competitiveness|竞争力]]和科学活力 [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022, p. 49)]]。
 
 ---
 

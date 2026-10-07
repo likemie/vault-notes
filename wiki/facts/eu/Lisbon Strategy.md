@@ -11,7 +11,7 @@ subtype: event
 region: eu
 fact_region: "eu"
 fact_kind: "event"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ tags:
   - region/europe
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[Competitiveness]]"
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-10-07
 ---
 
 # Lisbon Strategy
@@ -50,7 +51,7 @@ updated: 2026-07-09
 > [!event-context] 事件背景
 > - **时间 / 地点** 2000 年 3 月，欧盟里斯本欧洲理事会通过；覆盖欧盟成员国。
 > - **关键主体** 欧盟理事会、欧盟委员会、欧盟成员国政府、[[OECD]]。
-> - **制度背景** 1990 年代末，欧盟面临经济全球化加速和美国[[Knowledge-Based Economy\|知识经济]]领先的双重压力。欧洲需要一项统一的经济社会战略来提升全球竞争力。教育被视为实现知识经济转型的核心手段。
+> - **制度背景** 1990 年代末，欧盟面临经济全球化加速和美国[[Knowledge-Based Economy\|知识经济]]领先的双重压力。欧洲需要一项统一的经济社会战略来提升全球[[Competitiveness|竞争力]]。教育被视为实现知识经济转型的核心手段。
 > - **触发条件** 欧盟理事会在里斯本峰会上正式设定目标：使欧洲在 2010 年前成为"全球最具竞争力和活力的知识经济，能够实现可持续经济增长，提供更多更好的就业和更大的社会凝聚力"（[[Argument_Li_2025_HSSC\|Li et al., 2025]]）。
 
 ---

@@ -12,7 +12,7 @@ subtype: program
 region: russia
 fact_region: "russia"
 fact_kind: "program"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ tags:
   - region/russia
 related_concepts:
   - "[[Research Universities]]"
+  - "[[Competitiveness]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Performance Indicators]]"
   - "[[Scientific Autarky]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-26'
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Project 5-100
@@ -45,7 +46,7 @@ updated: 2026-10-02
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 由俄罗斯联邦政府和教育科学部于2013年启动实施，执行期至2020年 [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022, p. 41)]]。
 > - **适用地区 / 对象** 覆盖俄罗斯境内的21所入选的顶尖[[Research Universities|研究型大学]]。
-> - **问题背景** 回应苏联解体后俄罗斯高等教育在国际大学排行榜中的低迷状态，试图通过财政支持提升其国际竞争力和全球学术声誉。
+> - **问题背景** 回应苏联解体后俄罗斯高等教育在国际大学排行榜中的低迷状态，试图通过财政支持提升其国际[[Competitiveness|竞争力]]和全球学术声誉。
 > - **制度位置** 是俄罗斯[[Internationalization of Higher Education\|高等教育国际化]]和现代化改革的核心抓手，直接关联国家科技创新战略。
 
 ---

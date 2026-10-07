@@ -2,7 +2,6 @@
 title: Computational Thinking Scale
 aliases:
   - 计算思维量表
-  - CTS
   - 计算思维能力量表
   - Computational Thinking Scale for Students
 summary: "用于量化评估学生计算思维能力的 29 题自陈量表，涵盖创造力、算法思维、协作性、批判性思维与问题解决五大认知维度"
@@ -14,9 +13,9 @@ instrument_related_stars: "⭐⭐"
 instrument_related_color: "#dcfce7"
 part_of: ""
 developers:
-  - "Korkmaz, Ö."
-  - "Çakır, R."
-  - "Özden, M. Y."
+  - Korkmaz, Ö.
+  - Çakır, R.
+  - Özden, M. Y.
 original_year: "2017"
 languages:
   - tr
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Computational Thinking Scale

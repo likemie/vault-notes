@@ -9,7 +9,7 @@ title: "Argument_Laursen_2015_Paideia"
 argument_key: "Argument_Laursen_2015_Paideia"
 argument_display_title: "Er Hattie og co"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -40,7 +40,8 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Hilbert Meyer]]"
   - "[[Andreas Helmke]]"
-related_facts: []
+related_facts:
+  - "[[Science Foundation Ireland]]"
 related_arguments: []
 sources:
   - "[[sources/Laursen_2015_Paideia|Laursen_2015_Paideia]]"
@@ -68,7 +69,7 @@ citation_aliases:
 ## 核心论证
 
 > [!example] 核心论证
-> Laursen 的论证分三步：先概括 Hattie、Meyer、Helmke 三个国际研究综合对[[Effective Teaching\|有效教学]]的共同结论；再用 Hofstede 理论提出丹麦文化可能改变"什么有效"的预期；最后比较丹麦 SFI 报告和Mehlbye 高绩效学校研究等本土证据，判断国际综合与丹麦证据是否一致(pp.35–40)。
+> Laursen 的论证分三步：先概括 Hattie、Meyer、Helmke 三个国际研究综合对[[Effective Teaching\|有效教学]]的共同结论；再用 Hofstede 理论提出丹麦文化可能改变"什么有效"的预期；最后比较丹麦 [[Science Foundation Ireland|SFI]] 报告和Mehlbye 高绩效学校研究等本土证据，判断国际综合与丹麦证据是否一致(pp.35–40)。
 >
 > ### 国际综合的共同结论
 >
@@ -102,7 +103,7 @@ citation_aliases:
 
 > [!success] 主要发现
 > - 三个国际综合基本一致：[[Effective Teaching\|有效教学]]的核心质量是教师领导、清晰目标、个体适配、良好气氛和学生主动参与，而不是某种固定教学方法(pp.35–36)。
-> - 丹麦 SFI 研究显示，明确一致的[[Classroom Management\|课堂管理]]、清晰目标、高要求和良好社会环境促进学生成绩；教师在班级团队中的合作也与更好结果相关(p.37)。
+> - 丹麦 [[Science Foundation Ireland|SFI]] 研究显示，明确一致的[[Classroom Management\|课堂管理]]、清晰目标、高要求和良好社会环境促进学生成绩；教师在班级团队中的合作也与更好结果相关(p.37)。
 > - 丹麦证据与国际研究一致地显示，弱社会背景学生特别依赖清晰教师领导与目标，而开放教学对这类学生较不利(p.38)。
 > - 丹麦研究没有显示教学差异化能显著提升学生学习。这一点与 Hattie 对[[Individualised Instruction\|个别化教学]]效应较小的判断相一致，也与 Helmke 对教学差异化经验证据不足的承认相呼应。
 > - 频繁测试是丹麦证据与国际综合之间的主要偏差：SFI and Mehlbye 发现，丹麦学生在测试较频繁时学得更多；Mehlbye 还发现测试受到学生欢迎。这与 Hattie 关于频繁测试没有显著积极效果的结论不同(pp.38–39)。
@@ -121,7 +122,7 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - Laursen 承认自己没有展开方法论讨论，主要依赖 SFI 报告，并说明学生学习主要以丹麦学校毕业考试成绩衡量，同时统计[[Societies of Control\|控制社会]]背景影响(p.37)。
+> - Laursen 承认自己没有展开方法论讨论，主要依赖 [[Science Foundation Ireland|SFI]] 报告，并说明学生学习主要以丹麦学校毕业考试成绩衡量，同时统计[[Societies of Control\|控制社会]]背景影响(p.37)。
 > - 国家文化[[Hypothesis\|假设]]被检验的证据基础有限：文章更多是比较既有研究综合与丹麦研究，而非直接进行跨国因果检验(pp.37–40)。
 > - 文章认为频繁测试的丹麦结果可能源于丹麦测试使用低于最佳水平，而美国等英语国家可能高于最佳水平；这一解释是作者提出的可能性，而非直接经验结论(p.39)。
 

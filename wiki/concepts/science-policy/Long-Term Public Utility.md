@@ -8,7 +8,7 @@ aliases:
 summary: "纳拉亚纳穆尔提等人在批判战后基础/应用二分法时提出的联邦科研资助最高战略准绳，主张国家财政介入的正当性不应取决于立项当下课题属于纯科学还是工程技术，而应取决于其是否在数十年尺度上服务于国家长远战略福祉并致力于化解阻碍创新循环的系统性底层瓶颈。"
 type: concept
 domain: "science-policy"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Blue Skies Research]]"
   - "[[Patient Capital]]"
+  - "[[Competitiveness]]"
   - "[[Network Governance]]"
   - "[[Big Science]]"
   - "[[Valley of Death]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Long-Term Public Utility
@@ -120,7 +121,7 @@ updated: 2026-10-03
 > 探讨公共资金介入研发活动应当依据何种客观标准，推翻战后以主观动机（为知识而知识）作为公共资助合法性唯一源泉的教条。
 
 > [!claim] Narayanamurti, Odumosu & Vinsel (2013)
-> **废弃动机二分判据** 二战后确立的战后科技契约虽然为纯科学争取了经费，但在实践中建立了一条机械排斥技术发明的防线；随着现代工业实验室基础研究的萎缩，大量关乎国家前沿竞争力的重大底层工程工艺因带有实用目的而无法获得联邦资助，同时私营资本又因回报周期长达数十年而无力承担；国家研发预算最合理的介入试金石，必须从立项动机转向课题对提升全民长期福祉、国家安全与系统生产力的“长期公共效用”。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
+> **废弃动机二分判据** 二战后确立的战后科技契约虽然为纯科学争取了经费，但在实践中建立了一条机械排斥技术发明的防线；随着现代工业实验室基础研究的萎缩，大量关乎国家前沿[[Competitiveness|竞争力]]的重大底层工程工艺因带有实用目的而无法获得联邦资助，同时私营资本又因回报周期长达数十年而无力承担；国家研发预算最合理的介入试金石，必须从立项动机转向课题对提升全民长期福祉、国家安全与系统生产力的“长期公共效用”。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
 
 ---
 

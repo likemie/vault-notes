@@ -9,7 +9,7 @@ aliases:
 summary: "指通过整合中高等职业教育、企业在职培训、学徒制通道与公共就业服务，系统提升劳动者技能以匹配产业升级需求、促进高质量就业与区域经济转型的公共政策与制度体系；在现代产业战略中演进为与重大资本投资前置绑定的法定附加条件与产教协同机制。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[Innovation Hub]]"
   - "[[Paradigm]]"
+  - "[[Competitiveness]]"
   - "[[Variable]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-10-06
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Workforce Development
@@ -153,7 +154,7 @@ updated: 2026-10-06
 > [!dev-timeline] 劳动力发展政策[[Paradigm|范式]]演变
 > - **1960s–1970s — 补救性人力培训阶段** 以《人力开发与培训法》（MDTA）和《综合就业与培训法》（CETA）为代表，聚焦针对贫困与失业人口的短期技能补习与公共就业安置。
 > - **1990s–2010s — 市场化投资与法案统合阶段** 通过《劳动力投资法》（WIA, 1998）与《劳动力创新与机会法》（WIOA, 2014），建立一站式职业服务中心（One-Stop Centers），强化劳动力市场信息撮合与就业绩效问责。
-> - **2020s — 产业战略同构与产教生态化阶段** 伴随《[[CHIPS and Science Act|芯片与科学法案]]》、《[[Infrastructure Investment and Jobs Act|基础设施投资与就业法案]]》与《[[Inflation Reduction Act|通胀削减法案]]》，劳动力发展全面进入“与产业资本深度同构”的现代产业战略时代，通过前置劳动力计划、盛行工资标准、[[Apprenticeship|注册学徒制]]乘数及托儿配套，构建支撑国家核心竞争力的技能生态系统。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 6–13)]]
+> - **2020s — 产业战略同构与产教生态化阶段** 伴随《[[CHIPS and Science Act|芯片与科学法案]]》、《[[Infrastructure Investment and Jobs Act|基础设施投资与就业法案]]》与《[[Inflation Reduction Act|通胀削减法案]]》，劳动力发展全面进入“与产业资本深度同构”的现代产业战略时代，通过前置劳动力计划、盛行工资标准、[[Apprenticeship|注册学徒制]]乘数及托儿配套，构建支撑国家核心[[Competitiveness|竞争力]]的技能生态系统。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 6–13)]]
 
 ---
 

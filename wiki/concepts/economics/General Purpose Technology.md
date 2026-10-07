@@ -9,7 +9,7 @@ aliases:
 summary: "一种具有跨部门广泛渗透性、内在持续技术动态性以及能诱发下游互补性创新与系统性生产率提升的基础技术范式。"
 type: concept
 domain: "economics"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Disciplinary Institutionalization]]"
   - "[[Determinism]]"
   - "[[Variable]]"
+  - "[[Competitiveness]]"
   - "[[University-Industry Collaboration]]"
 related_theories:
   - "[[Techno-economic Paradigm]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # General Purpose Technology
@@ -246,7 +247,7 @@ updated: 2026-10-05
 > | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio & Mowery (2005, pp. 33–34)]] | 1965–1990年美国集成电路总销售与军购份额演变 | 产业统计与国防采购序列考证 | 军购占 IC 总销售比重 | 1960年代中期军购占总销售的大部，至1970年代后期降至约10%，1990年进一步萎缩至不足8% | 官方与产业统计 | 实证展现采购生命周期中军用托底向商业自维持的结构性转折 |
 > | [[Argument_Mowery_2011_NBER\|Mowery (2011, p. 176)]] | 1960年代美国大学计算机设备与学科研发投入 | 联邦与高校统计数据分析 | 联邦资助占比与计算机系扩展 | 1960年代美国大学计算机设备采购支出的 66% 来自联邦政府；博士授予权计算机系从 1960 年几乎为零激增至 1990 年代逾 150 所 | 历史统计事实 | 表明通用技术扩散深度依托大学科研基础设施与[[Human Capital Theory\|人力资本]]供给 |
 > | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio & Mowery (2005, p. 29)]] | 2001财年全美联邦科研经费学科分布 | 联邦预算决算数据分析 | 计算机与工程学科中军资占比 | 国防部资助占全联邦高校计算机科学研发预算的 35%、工程科学预算的 30% 以上 | 官方决算数据 | 表明即使在冷战后，国防资金仍是高校通用信息学科基础设施的关键来源 |
-> | [[Argument_Freeman_1995_CJE\|Freeman (1995, p. 14)]] | 1980年代巴西与韩国制造业自动化装备与电信基础设施 | 跨国科技与工业统计比较分析 | 机器人、CAD、数控机床与电信指标 | 韩国每百万雇员工业机器人拥有量为 106.0 台（巴西仅 5.2 台）；CAD 为 143.7 台（巴西 42.2 台）；数控机床为 517.6 台（巴西 229.8 台）；微电子产业增速为 21%（巴西 8%）；人均电信设备销售额达 \$77（巴西 \$10） | 官方与工业统计事实 | 实证展现新兴工业化国家采纳与吸收通用微电子技术的悬殊差距对国家工业竞争力的深层影响 |
+> | [[Argument_Freeman_1995_CJE\|Freeman (1995, p. 14)]] | 1980年代巴西与韩国制造业自动化装备与电信基础设施 | 跨国科技与工业统计比较分析 | 机器人、CAD、数控机床与电信指标 | 韩国每百万雇员工业机器人拥有量为 106.0 台（巴西仅 5.2 台）；CAD 为 143.7 台（巴西 42.2 台）；数控机床为 517.6 台（巴西 229.8 台）；微电子产业增速为 21%（巴西 8%）；人均电信设备销售额达 \$77（巴西 \$10） | 官方与工业统计事实 | 实证展现新兴工业化国家采纳与吸收通用微电子技术的悬殊差距对国家工业[[Competitiveness\|竞争力]]的深层影响 |
 > | [[Argument_Logar_2014_Minerva\|Logar et al. (2014, pp. 256–257)]] | 半导体产业联合体（[[Semiconductor Research Corporation\|SRC]]）与能源电力基础设施对比研究 | 嵌入式案例考察、质性访谈（$N=19$）与技术经济特征对比 | 前竞争合作边界广度、终端产品差异化程度、基础设施锁定年限 | 半导体作为 GPT 具有极广前竞争空间与差异化终端；能源电网资产沉淀长达 40 年且电能完全同质，前竞争与商用高度重叠 | 跨部门技术经济特征比较考据 | 实证确立通用目的技术（GPT）与非 GPT 技术在[[University-Industry Collaboration\|产学合作]]边界与研发联合体治理上的结构性分野 |
 
 ---

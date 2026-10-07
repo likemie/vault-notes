@@ -12,7 +12,7 @@ aliases:
 summary: "弗兰克·R·鲍姆加特纳与布莱恩·D·琼斯于1993年提出的公共政策变迁经典理论；指出大多数公共政策在绝大多数时期处于由专属制度场所与正面政策形象构筑的政策垄断稳态之中，但当政策企业家通过重构政策形象并开展制度场所转换时，长期惰性稳态将在短时间内发生断裂式剧变。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 33
+theory_related_count: 34
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Market Failure]]"
   - "[[Mission-Oriented Innovation Policy]]"
+  - "[[Competitiveness]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Research Question]]"
   - "[[Policy Mobility]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-26
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Punctuated Equilibrium Theory
@@ -110,7 +111,7 @@ updated: 2026-10-06
 > | 构件 | 类型 | 在理论中的功能 |
 > |:---|:---|:---|
 > | **政策垄断**<br>Policy Monopoly | 核心概念 | 表征一个由封闭利益共同体、排他性管辖场所与自我辩护正向话语维系的稳态制度结构。 |
-> | **政策形象**<br>Policy Image | 解释机制 | 政策议题在公众和精英心目中的符号化表征与社会建构，决定了政策被界定为“地方民主自治”还是“国家竞争力危机”。 |
+> | **政策形象**<br>Policy Image | 解释机制 | 政策议题在公众和精英心目中的符号化表征与社会建构，决定了政策被界定为“地方民主自治”还是“[[Competitiveness\|国家竞争力]]危机”。 |
 > | **制度场所**<br>Institutional Venue | 制度构件 | 拥有特定法案起草、审议或表决管辖权的机构实体（如国会专门委员会、联邦行政机构、州教育委员会、跨部门使命委员会）。 |
 > | **场所转换**<br>Venue Shopping | 行动策略 | [[Policy Entrepreneur\|政策企业家]]主动绕开对其不友好的既有垄断管辖场所，寻找对新政策理念持开放态度的新机构入口。 |
 > | **正反馈与注意力级联**<br>Positive Feedback & Cascade | 系统动力学 | 当负面[[Policy Image\|政策形象]]突破临界阈值时，引发媒体密集曝光、跨党派领导人介入与公众恐慌，形成雪崩式改革浪潮。 |
@@ -127,7 +128,7 @@ updated: 2026-10-06
 > [!theory-proposition] 命题二｜政策形象的负面重构能够击穿制度防线并唤醒宏观政治注意力
 > **解释** 瓦解政策垄断的前提并非单纯等待客观危机的降临，而是[[Policy Entrepreneur|政策企业家]]策略性地重新界定议题形象。企业家通过动员具有震撼力的实证指标与宏观核心价值叙事，将原本象征正面价值的现状重构为引发公众恐慌的治理灾难。当政策形象发生根本翻转时，长期对该领域保持冷漠的高层政治领袖（如州长、总统、跨党派领袖）将分配宏观注意力，从而瓦解垄断子系统的封闭防御。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 4–5, 9–11)]]
 >
-> **应用实例** 在 [[Common Core State Standards|CCSS]] 议程设置中，政策企业家动员美国国家教育统计中心（National Center for Education Statistics, NCES, 2007）实证映射研究，揭露各州为应付统考考核竞相调低及格切分点（Race to the bottom）的丑闻，并援引 [[TIMSS]] 跨国数据批判美国课程“宽一英里、深一英寸”，成功将“各州地方自主”的正向形象摧毁并重塑为“削弱全美[[Knowledge-Based Economy|知识经济]]国际竞争力与拉大社会阶层不平等”的危机叙事。
+> **应用实例** 在 [[Common Core State Standards|CCSS]] 议程设置中，政策企业家动员美国国家教育统计中心（National Center for Education Statistics, NCES, 2007）实证映射研究，揭露各州为应付统考考核竞相调低及格切分点（Race to the bottom）的丑闻，并援引 [[TIMSS]] 跨国数据批判美国课程“宽一英里、深一英寸”，成功将“各州地方自主”的正向形象摧毁并重塑为“削弱全美[[Knowledge-Based Economy|知识经济]]国际[[Competitiveness|竞争力]]与拉大社会阶层不平等”的危机叙事。
 
 > [!theory-proposition] 命题三｜[[Venue Shopping|制度场所转换]]能够突破既有政策子系统的否决壁垒实现间断突变
 > **解释** 当既有决策场所由保守势力把持且充斥否决点时，政策企业家会主动开展场所转换（Venue Shopping），在传统管辖边界之外开辟具有替代性裁决权的新制度通道。新场所往往带来不同的参与规则、利益相关者构成与选民压力，从而绕过垄断联盟的阻挠，在极短时间内推动系统性政策突变。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 5–6, 8–9, 16–18)]]

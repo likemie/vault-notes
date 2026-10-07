@@ -2,7 +2,7 @@
 summary: "社会科学议题（Socioscientific Issues, SSI）是指深植于前沿科学技术、具有内在争议性、结构不良（ill-structured）且与道德、伦理、经济和政治考量密不可分的现实社会公共问题。作为当代科学教育的重要教学取向，SSI 旨在引导学生超越纯粹概念记忆，综合运用非形式推理（Informal Reasoning）、多元视角权衡与反驳论证，培育面向复杂民主社会事务的批判性科学素养与审议能动性。"
 type: concept
 domain: "curriculum-instruction"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
+  - "[[Engineering Education]]"
   - "[[Growth]]"
   - "[[Scientific Uncertainty]]"
   - "[[Nature of Science]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 # Socioscientific Issues
 
@@ -78,7 +79,7 @@ updated: 2026-09-22
 ## 概念辨析
 
 > [!contrast-table] 科学教育三大教学取向的[[Epistemology\|认识论]]辨析
-> | 维度 | 科学探究（Science Inquiry） | 工程教育（Engineering Education） | 社会科学议题（Socioscientific Issues, SSI） |
+> | 维度 | 科学探究（Science Inquiry） | [[Engineering Education\|工程教育]]（Engineering Education） | 社会科学议题（Socioscientific Issues, SSI） |
 > |---|---|---|---|
 > | **核心问题** | 自然界“是什么”与“为什么”（因果解释） | 面向特定需求“如何设计”（技术优化） | 面向社会现实“应该怎么做”（价值与政策决断） |
 > | **证据范畴** | 受控实验测得的经验数据与物理量 | 物理性能指标、材料成本与客户约束 | 兼涉科学实证数据、生态风险、经济成本与伦理道德 |
@@ -164,5 +165,5 @@ updated: 2026-09-22
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] — 系统对比科学探究、工程教育与社会科学议题在目标与[[Epistemic Practices\|认识论实践]]上的本质差异。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] — 系统对比科学探究、[[Engineering Education|工程教育]]与社会科学议题在目标与[[Epistemic Practices\|认识论实践]]上的本质差异。
 > - [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]] — 探讨论辩理论在社会科学议题与科学哲学教学中的应用框架。

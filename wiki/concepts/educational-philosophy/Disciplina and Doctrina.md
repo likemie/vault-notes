@@ -9,7 +9,7 @@ aliases:
 summary: "西方教育思想史上关于知识组织和传授的一对经典二元范式：disciplina 侧重既有知识的灌训与规训，doctrina 侧重知识的动态生产与开放更新"
 type: concept
 domain: "educational-philosophy"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Performance Indicators]]"
   - "[[Ontology]]"
+  - "[[Competitiveness]]"
   - "[[Determinism]]"
   - "[[Champ]]"
   - "[[New Public Management]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-22
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Disciplina and Doctrina
@@ -120,7 +121,7 @@ updated: 2026-10-05
 
 > [!claim] [[Wolfgang Mitter|Mitter, W.]]
 > **科研资助与政策问责对知识生产的规训化**
-> 米特指出，后冷战与全球化时代超国家治理机构（如 [[OECD]]、欧盟）及国家科研资助体系对学术研究施加了前所未有的“规训压力”（disciplining pressure）。学术探究原本具有的开放创新与批判性知识生产面向（doctrina）受到严密约束，被迫屈从于以经济竞争力、[[Human Capital Theory|人力资本]]测度与短期政策效用为导向的技术官僚规训框架（disciplina）。这种规训压力使学者从独立的制度批判者退化为政策合规的论证者。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 96)]]
+> 米特指出，后冷战与全球化时代超国家治理机构（如 [[OECD]]、欧盟）及国家科研资助体系对学术研究施加了前所未有的“规训压力”（disciplining pressure）。学术探究原本具有的开放创新与批判性知识生产面向（doctrina）受到严密约束，被迫屈从于以经济[[Competitiveness|竞争力]]、[[Human Capital Theory|人力资本]]测度与短期政策效用为导向的技术官僚规训框架（disciplina）。这种规训压力使学者从独立的制度批判者退化为政策合规的论证者。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 96)]]
 
 ---
 

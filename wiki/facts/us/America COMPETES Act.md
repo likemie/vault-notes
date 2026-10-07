@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ tags:
 related_concepts:
   - "[[Research Universities]]"
   - "[[STEM Education]]"
+  - "[[Competitiveness]]"
 related_theories: []
 related_persons:
   - "[[Steven Brint]]"
@@ -48,7 +49,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # America COMPETES Act
@@ -99,7 +100,7 @@ updated: 2026-10-06
 > [!finding-cards] 实施成效与制度反思
 > - **制度创新的深远遗产** 成功推动设立了高级能源研究计划署（[[DARPA|ARPA]]-E），为美国探索去中心化高风险绿色前沿颠覆性创新提供了制度原型。
 > - **授权与实际拨付的严重脱节** 法案确立的“预算十年翻番”宏伟目标在实际预算周期中基本落空；由于遭遇 2008 年金融危机后的财政紧缩与《预算控制法案》（Budget Control Act of 2011）的强制减赤支出上限（Sequestration），国会拨款委员会未能按授权额度足额拨付资金。
-> - **象征性立法与实质性预算落差** 揭示了美国科技政策治理中的深层体制悖论：两党极易就宏大的国家竞争力战略愿景（授权法案）达成共识，但在具体的常规年度拨款分配中却受制于财政赤字与党派博弈，导致高校与科研机构的账面红利严重缩水。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]]
+> - **象征性立法与实质性预算落差** 揭示了美国科技政策治理中的深层体制悖论：两党极易就宏大的[[Competitiveness|国家竞争力]]战略愿景（授权法案）达成共识，但在具体的常规年度拨款分配中却受制于财政赤字与党派博弈，导致高校与科研机构的账面红利严重缩水。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]]
 
 > [!stat-cards]- 核心数据
 > - **28 个新项目** 《美国竞争法案》及其再授权法案所创设的政策与资助项目总数。
@@ -113,7 +114,7 @@ updated: 2026-10-06
 > [!debates] 政策争议与体制反思
 >
 > > [!axis] 象征性战略宣示 vs 实际财政兑现能力
-> > 争论国会频繁通过千页级宏大科技法案究竟是实质性增强了国家科研竞争力，还是一种脱离预算现实的象征性政治表态。
+> > 争论国会频繁通过千页级宏大科技法案究竟是实质性增强了国家科研[[Competitiveness|竞争力]]，还是一种脱离预算现实的象征性政治表态。
 > >
 > > - **[[Argument_Brint_2023_IHE|Brint (2023)]]** 援引 GAO 审计数据警告称，《[[CHIPS and Science Act|芯片与科学法案]]》对大学基础科研与 [[STEM Education|STEM]] 教育的巨额授权目标极易重蹈《美国竞争法》的覆辙，受制于拨款体制而面临预算大幅缩水风险。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]]
 

@@ -12,7 +12,7 @@ aliases:
 summary: "连接科学研究发现与实际应用的跨界转化过程，在产学合作中体现为技术成果商业化漏斗，在学校教育中体现为基于因果行动理论的情境再脉络化与微观课例探究，在宏观治理中体现为立足政策时间生态与立法政策简报的法律实质采纳，在前沿科技创新中体现为公共代理人依托嵌入型网络治理、闭合结构洞以引导颠覆性技术轨道的转化系统。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 75
+related_count: 77
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -64,6 +64,7 @@ related_concepts:
   - "[[Valley of Death]]"
   - "[[Technical Rationality]]"
   - "[[Implementation Fidelity]]"
+  - "[[Process Knowledge]]"
   - "[[Evidence Ecosystem]]"
   - "[[Research Utilization]]"
   - "[[Gatekeepers]]"
@@ -105,11 +106,12 @@ related_arguments:
   - "[[Argument_Serpell_2020_EP]]"
   - "[[Argument_Fuchs_2010_RP]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
+  - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Torres_2022_KMModels]]"
 confidence: high
 status: completed
 created: 2026-06-03
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Research Translation
@@ -384,6 +386,7 @@ updated: 2026-10-06
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 把被动转化写成发现留在论文里、平板显示器、电池和极紫外光刻整机的制造能力随后外移的路径。回报和下一轮设计能力积累在转化与制造环节，而不是只积累在最先发表的实验室。国内试验场、[[Process Knowledge|过程知识]]和区域制造因此被写成领导地位的组成部分。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 以 [[DARPA]] 推动硅锗与应变硅半导体技术转化为案例，揭示在[[Vertical Disintegration|纵向离散]]产业中公共代理人依托[[Embedded Network Governance|嵌入型网络治理]]、主动闭合[[Structural Holes|结构洞]]以引导前沿技术转化的机制。
 > - [[Argument_Serpell_2020_EP|Serpell (2020)]] — 提出宏观立法研究转化导航框架，确立[[Legislative Policy Brief|立法政策简报]]法条化、极简定调传播法则与专业学会快速响应机制（[[Rapid Assessment and Response Strategy|RARS]]）。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 提出企业支持大学研究转化的六阶段漏斗模型，深度解析监护权交接、组织风险分担与三类转化路径。

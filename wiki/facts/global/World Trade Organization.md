@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Growth]]"
   - "[[Paradigm]]"
+  - "[[Competitiveness]]"
   - "[[Technology Transfer]]"
   - "[[Attrition]]"
   - "[[Disciplina and Doctrina]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # World Trade Organization
@@ -132,7 +133,7 @@ updated: 2026-10-06
 > [!finding-cards] 关键成效与辐射影响
 > - **重构全球教育[[Pluri-Scalar Governance|多标度治理]]空间** 罗伯逊、博纳尔与戴尔（Robertson, Bonal, & Dale, 2002）指出，WTO 打破了单一民族国家对教育治理的垄断，将教育的筹资、供给、所有权与规约重新分布在超国家、国家与次国家空间网络之中。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 > - **倒逼后发大国主动融入与制度革新** WTO 规则不仅是外部强加，亦被许多发展中国家（例如 2001 年加入 WTO 后的中国）用作参与全球[[Knowledge-Based Economy|知识经济]]竞争、倒逼国内高等教育体制改革、加速国际化水平与吸引优质外部教育资源的战略工具（Zhou & Shi, 2003）。
-> - **加剧南北国家不对称的主权与自主权分化** 大国能主动利用世贸规则提升国家竞争力，而经济体量薄弱的边缘小国则在服务贸易规则面前丧失了统筹国民教育的宏观调控权。
+> - **加剧南北国家不对称的主权与自主权分化** 大国能主动利用世贸规则提升[[Competitiveness|国家竞争力]]，而经济体量薄弱的边缘小国则在服务贸易规则面前丧失了统筹国民教育的宏观调控权。
 
 > [!stat-cards]- 核心规模数据
 > 成员国数量：164 个；全球贸易覆盖率：>98%；教育服务列入 [[GATS and Trade in Education Services|GATS]] 规约部门：第 5 大类（含高等教育、成人教育等 5 项子类）。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
@@ -165,7 +166,7 @@ updated: 2026-10-06
 > > - **比较政治经济学批评（[[Argument_Bulfone_2024_IAI|Bulfone et al., 2024]]）** 指出面对中美半导体巨额补贴与单边管制的冲击，WTO 多边争端解决机制陷入瘫痪；即便欧盟委员会在 2019 年前仍试图依赖多边贸易方案，但外部地缘断链风险与美欧补贴竞赛终究迫使其打破多边规约信条，转向防卫性产业政策与[[Strategic Autonomy|战略自主]]，标志着 WTO 在尖端制造与核心技术治理维度的制度性退场。
 
 > [!citation-card] 代表性批评与反思[[Document|文献]]
-> 世贸组织致力于消除边境壁垒、推行学历文凭互认与教育商品化。大国能够主动利用规则增强国家竞争力，而经济体量弱小的国家则在世贸规约面前丧失了宏观调控教育的能力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
+> 世贸组织致力于消除边境壁垒、推行学历文凭互认与教育商品化。大国能够主动利用规则增强[[Competitiveness|国家竞争力]]，而经济体量弱小的国家则在世贸规约面前丧失了宏观调控教育的能力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
 >
 > *The WTO, through GATS, seeks to eliminate barriers to cross-border education... Large countries can leverage these rules, whereas small and economically weak countries lose their ability to formulate macro educational policies.*
 

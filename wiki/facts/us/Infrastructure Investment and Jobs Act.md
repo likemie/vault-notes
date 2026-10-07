@@ -13,7 +13,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Going Native]]"
   - "[[Total Factor Productivity]]"
+  - "[[Competitiveness]]"
   - "[[Modern Industrial Policy]]"
   - "[[Public Value]]"
   - "[[Learning by Doing]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Infrastructure Investment and Jobs Act
@@ -166,7 +167,7 @@ updated: 2026-10-06
 > > - **地方公用事业与工程协会** 警示部分关键电气设备与建材在国内完全缺乏产能，过严的采购限制会造成建设成本攀升与项目停摆。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 13)]]
 
 > [!warning] 适用局限
-> 基础设施投资虽然为经济增长奠定基础，但其转化为[[Total Factor Productivity|全要素生产率]]与区域竞争力的周期极为漫长；若缺乏与产业战略、劳动力培训及许可审批改革的深度协同，难以在短期内单独解决深层的产业空心化问题。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12, 14)]]
+> 基础设施投资虽然为经济增长奠定基础，但其转化为[[Total Factor Productivity|全要素生产率]]与区域[[Competitiveness|竞争力]]的周期极为漫长；若缺乏与产业战略、劳动力培训及许可审批改革的深度协同，难以在短期内单独解决深层的产业空心化问题。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12, 14)]]
 
 ---
 

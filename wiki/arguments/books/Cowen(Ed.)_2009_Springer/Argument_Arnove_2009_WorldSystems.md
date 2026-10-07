@@ -7,7 +7,7 @@ title: "Argument_Arnove_2009_WorldSystems"
 argument_key: "Argument_Arnove_2009_WorldSystems"
 argument_display_title: "World-systems Analysis and Comparative Education in the Age of Globalization"
 argument_kind: "book-chapter"
-argument_related_count: 54
+argument_related_count: 55
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Educational Multilateralism]]"
   - "[[Lifelong Learning]]"
   - "[[Structural Adjustment Programs]]"
+  - "[[Competitiveness]]"
   - "[[Analytical Stance]]"
   - "[[Class Size]]"
   - "[[Falsification]]"
@@ -246,7 +247,7 @@ updated: 2026-09-29
 > - **空间标度（Scales）** 超国家标度（WTO、欧盟、北美自由贸易协定等）、国家标度（中央政府教育部）以及次国家标度（省州政府与地方学区）。
 > - **治理实体（Institutions）** 民族国家、商业市场、地方社区以及家庭与个人。
 > - **职能活动（Activities）** 经费筹措、产权归属、服务提供以及行政与质量规约。
-> - **世贸组织规制的非对称冲击** 1995 年世贸组织成立并实施 GATS，致力于消除边境壁垒、推行学历文凭互认与教育商品化。大国（如加入世贸后的中国）能够主动利用规则增强国家竞争力，而经济体量弱小的国家（如牙买加、尼加拉瓜）则在世贸规约面前丧失了宏观调控教育的能力。
+> - **世贸组织规制的非对称冲击** 1995 年世贸组织成立并实施 GATS，致力于消除边境壁垒、推行学历文凭互认与教育商品化。大国（如加入世贸后的中国）能够主动利用规则增强[[Competitiveness|国家竞争力]]，而经济体量弱小的国家（如牙买加、尼加拉瓜）则在世贸规约面前丧失了宏观调控教育的能力。
 
 在跨国机构压缩国家权力的同时，原本被寄予厚望的民间非政府组织也在外部资助的塑造下发生体制异化。
 

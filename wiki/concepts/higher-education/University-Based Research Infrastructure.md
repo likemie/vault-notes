@@ -9,7 +9,7 @@ aliases:
 summary: "在研究型大学内部依托公共研发资金建立的大型实验仪器平台、跨学科实验室、科研数据中心与学术网络体系；它是战后美国国家创新系统中前沿科学发现、高层次创新人才供给与民用颠覆性技术衍生的最核心策源底座。"
 type: concept
 domain: "higher-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Open-Mindedness]]"
   - "[[Academic Freedom]]"
+  - "[[Competitiveness]]"
   - "[[Emergence]]"
   - "[[Cold War University]]"
   - "[[Center of Calculation]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # University-Based Research Infrastructure
@@ -61,7 +62,7 @@ updated: 2026-10-05
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向研究型大学内部承载基础研究与尖端应用攻关的物质技术条件、组织建制与跨部门学术协作网络。
-> - **用途** 帮助研究者透视公共研发资金进入高等教育系统后的长期资本化沉淀机制，解释大学科研条件如何外溢为国家经济竞争力和产业颠覆能力。
+> - **用途** 帮助研究者透视公共研发资金进入高等教育系统后的长期资本化沉淀机制，解释大学科研条件如何外溢为国家经济[[Competitiveness|竞争力]]和产业颠覆能力。
 > - **边界** 不等于封闭保密且与学生培养完全脱节的纯军工独立兵器试验基地；必须与研究生学术训练、公开同行评议交流以及学术共同体再生产紧密融合。
 
 > [!citation-card] 大学科研基础设施作为战后民用创新的基石
@@ -141,4 +142,4 @@ updated: 2026-10-05
 > | [[NSF Supercomputer Centers]] | Fact | 联邦科学基金在全美大学设立尖端集中式计算基础设施并向全行业外溢的标志性项目。 |
 > | [[Human Capital Theory]] | Theory | 解释大学科研基础设施如何通过高质量青年科学家培养实现社会人力资本积累的理论。 |
 > | [[Systems of Innovation]] | Theory | 大学科研基础设施在[[National Innovation System\|国家创新系统]]三螺旋结构中所扮演的核心知识创造极角色。 |
-> | [[David C. Mowery]] | Person | 长期系统追踪大学科研基础设施对美国工业竞争力与技术创新影响的代表性学者。 |
+> | [[David C. Mowery]] | Person | 长期系统追踪大学科研基础设施对美国工业[[Competitiveness\|竞争力]]与技术创新影响的代表性学者。 |

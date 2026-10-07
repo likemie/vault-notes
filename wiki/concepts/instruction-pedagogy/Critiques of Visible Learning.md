@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 120
+related_count: 121
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -58,6 +58,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Technical Rationality]]"
   - "[[Positivism]]"
+  - "[[Competitiveness]]"
   - "[[School Leadership]]"
   - "[[Self-Efficacy]]"
   - "[[Doxa]]"
@@ -147,7 +148,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Critiques of Visible Learning
@@ -966,7 +967,7 @@ Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触
 Habermas（1976, 1984）论证这一转变不可避免地引发合法化危机，因为现代国家机构面临**两个利益对立的主人的矛盾（Nielsen & Klitmøller, 2021, pp. 85–86）**
 
 > [!tension] 合法化危机的结构性矛盾：两个利益对立的主人
-> - **市场的特殊利益** — 教育系统需要培养具备特定技能的劳动力，以维持国家经济竞争力
+> - **市场的特殊利益** — 教育系统需要培养具备特定技能的劳动力，以维持国家经济[[Competitiveness|竞争力]]
 > - **公民的公共利益** — 教育系统需要通过公民可认同的价值观和目的来获得合法性（"为什么要把孩子送到学校？为什么要学习这些内容？"）
 
 当教育机构越来越以"提高市场效率"的名义运作、用技术科学逻辑替代传统共识理性时，国家机构必须*"primarily of a technical, instrumental, and value-neutral nature"*（Habermas, 1976, p. 34）来为其干预辩护——但这与公民基于共同价值的共识理性产生冲突。

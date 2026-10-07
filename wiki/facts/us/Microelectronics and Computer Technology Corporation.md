@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Meta-Representational Competence]]"
   - "[[Technology Transfer]]"
   - "[[Heterogeneity]]"
+  - "[[Competitiveness]]"
   - "[[University-Industry Collaboration]]"
   - "[[Precompetitive Research]]"
   - "[[Membership-based Research Consortium]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Microelectronics and Computer Technology Corporation
@@ -136,7 +137,7 @@ updated: 2026-10-06
 > > > [!axis] 研发定位异化：长周期共性突破 vs 短期合同碎片化
 > > 联盟随着会员[[Heterogeneity|异质性]]增加，研究方向不可避免走向短期化。
 > >
-> > - **批评视角** 随着副会员大量涌入，MCC 从最初攻关人工智能与基础 CAD 架构的宏大目标退化为替个别企业定制解决方案的“合同外包公司”，丧失了国家战略竞争力功能。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 728, 752)]]
+> > - **批评视角** 随着副会员大量涌入，MCC 从最初攻关人工智能与基础 CAD 架构的宏大目标退化为替个别企业定制解决方案的“合同外包公司”，丧失了国家战略[[Competitiveness|竞争力]]功能。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 728, 752)]]
 
 ---
 

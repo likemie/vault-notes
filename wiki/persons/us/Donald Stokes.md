@@ -9,7 +9,7 @@ summary: "美国政治学家、公共政策学者，普林斯顿大学伍德罗�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Epistemology]]"
   - "[[Curiosity-Driven Research]]"
+  - "[[Competitiveness]]"
   - "[[Paradigm]]"
   - "[[University-Industry Collaboration]]"
   - "[[Research Universities]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Donald Stokes
@@ -110,7 +111,7 @@ updated: 2026-10-06
 ## 核心思想
 
 > [!claim] 核心主张
-> [[Vannevar Bush|万尼瓦尔·布什]] 1945 年报告所确立的“基础研究与应用研究相互排斥”的一维模型与科学史经验严重脱节；科学研究应依据“是否追求根本性理解”与“是否考虑实际应用”两个独立维度，划分为玻尔象限（[[Curiosity-Driven Research|纯基础研究]]）、爱迪生象限（纯应用研究）与[[Pasteur's Quadrant|帕斯德象限]]（由[[Use-Inspired Basic Research|应用启发的基础研究]]）；兼具理论深度与重大应用价值的帕斯德象限研究，才是现代国家科技竞争力与产业创新的核心策源地。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
+> [[Vannevar Bush|万尼瓦尔·布什]] 1945 年报告所确立的“基础研究与应用研究相互排斥”的一维模型与科学史经验严重脱节；科学研究应依据“是否追求根本性理解”与“是否考虑实际应用”两个独立维度，划分为玻尔象限（[[Curiosity-Driven Research|纯基础研究]]）、爱迪生象限（纯应用研究）与[[Pasteur's Quadrant|帕斯德象限]]（由[[Use-Inspired Basic Research|应用启发的基础研究]]）；兼具理论深度与重大应用价值的帕斯德象限研究，才是现代国家科技[[Competitiveness|竞争力]]与产业创新的核心策源地。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
 
 > [!citation-card] 樊春良论斯托克斯与冷战后科学契约的再协商
 > 面对冷战终结与赤字攀升带来的合法性危机，斯托克斯于 1997 年提出巴斯德象限理论，确立了“应用启发的基础研究”概念。该[[Paradigm|范式]]打破了纯基础与纯应用的机械二分，为既追求根本性理解又受实际应用问题启发的科研活动提供了坚实的[[Epistemology|认识论]]合法性，成为克林顿政府《[[Science in the National Interest 1994|科学与国家利益]]》（1994）之后维系科学界与国家新契约的核心认知支柱。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
@@ -132,7 +133,7 @@ updated: 2026-10-06
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **政策[[Paradigm|范式]]重构与多重契约交叠** 终结了战后“基础研究必须远离实用”的狭隘教条，为 1990 年代冷战遗产型契约、经济竞争力型契约与健康研究特定契约的复合共存提供了[[Epistemology|认识论]]基石；为[[National Science Foundation|美国国家科学基金会]]（NSF）、能源部（[[Department of Energy|DOE]]）及国立卫生研究院（[[National Institutes of Health|NIH]]）设立重大战略使命导向的跨学科研究计划提供了理论正当性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
+> - **政策[[Paradigm|范式]]重构与多重契约交叠** 终结了战后“基础研究必须远离实用”的狭隘教条，为 1990 年代冷战遗产型契约、经济[[Competitiveness|竞争力]]型契约与健康研究特定契约的复合共存提供了[[Epistemology|认识论]]基石；为[[National Science Foundation|美国国家科学基金会]]（NSF）、能源部（[[Department of Energy|DOE]]）及国立卫生研究院（[[National Institutes of Health|NIH]]）设立重大战略使命导向的跨学科研究计划提供了理论正当性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
 > - **科研治理属性的历史转向** 斯托克斯框架促使科学界从冷战时期“默认获得无条件信任的自治共同体”，转变为必须频繁证明经济效益与社会相关性的“受制度管理的专业系统”，客观上开启了由长期机构兜底向竞争性项目制与绩效问责的过渡。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 > - **高等教育与[[University-Industry Collaboration|产学合作]]路径** 促使全球[[Research Universities|研究型大学]]重新审视学术评价体系，使兼顾工业转化与前沿论文发表的应用基础研究摆脱“二等学术”的偏见，直接推动了现代高校[[Technology Transfer|技术转移]]与企业联合实验室的蓬勃发展。
 > - **理论演进路径** 启发了后续学者对[[Linear Model of Innovation|线性创新模型]]的系统解构，成为纳拉亚纳穆尔提等人提出[[Discovery-Invention Cycle|发现-发明循环]]理论的重要思想前阶与对话靶标。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 32–33)]]

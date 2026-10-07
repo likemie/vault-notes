@@ -11,7 +11,7 @@ aliases:
 summary: "由弗里德里希·李斯特肇始、后经摩西·阿布拉莫维茨（Moses Abramovitz）与克里斯·弗里曼（Chris Freeman）等演化经济学家系统构建的核心概念；指在国际技术前沿与经济发展水平上处于落后地位的经济体，通过制度创新、国家协调技术教育、引进装备逆向工程以及企业内部专业研发积累，打破先发国家的技术垄断、缩短技术差距并最终实现生产率领先的历史演进过程；强调赶超的关键在于构建以工程技术人才为基石的内生国家创新系统，而非被动等待市场自发收敛。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
   - theme/innovation-economics
   - theme/economic-development
 related_concepts:
+  - "[[Competitiveness]]"
   - "[[Intellectual Capital]]"
   - "[[Paradigm]]"
   - "[[Determinism]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Technological Catch-up
@@ -52,7 +53,7 @@ updated: 2026-10-05
 ## 定义
 
 > [!def] 核心定义
-> **技术赶超（Technological Catch-up / Catching Up）** 指后发国家（Latecomer Economies）在面对先发工业大国已确立的绝对技术与商业优势时，通过国家层面的战略政策引导、有形与无形资本的制度化互依投资、先进生产装备逆向工程消化以及自主研发与工程人才体系的快速扩张，跨越既有技术代差、实现产业国际竞争力大幅提升并重塑全球分工格局的非均衡动态跃迁过程。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–8, 12–15, 20)]]
+> **技术赶超（Technological Catch-up / Catching Up）** 指后发国家（Latecomer Economies）在面对先发工业大国已确立的绝对技术与商业优势时，通过国家层面的战略政策引导、有形与无形资本的制度化互依投资、先进生产装备逆向工程消化以及自主研发与工程人才体系的快速扩张，跨越既有技术代差、实现产业国际[[Competitiveness|竞争力]]大幅提升并重塑全球分工格局的非均衡动态跃迁过程。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–8, 12–15, 20)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 聚焦落后经济体如何打破“中心—外围”锁定与技术垄断壁垒，实现内生能力跨越。

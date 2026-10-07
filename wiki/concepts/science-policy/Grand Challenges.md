@@ -2,7 +2,7 @@
 summary: "指超越单一学科、产业与国家疆界，涉及广泛社会、技术、生态与行为维度的系统性复杂难题；构成了 21 世纪第三代使命导向政策与现代科技创新治理的根本战略锚点与合法性源泉。"
 type: concept
 domain: "science-policy"
-related_count: 22
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -15,6 +15,7 @@ tags:
   - innovation-governance
 related_concepts:
   - "[[Ontology]]"
+  - "[[Competitiveness]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Public Value]]"
   - "[[Big Science]]"
@@ -30,6 +31,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Market Shaping and Creating]]"
   - "[[Reflexivity]]"
+  - "[[Pull Mechanisms for Innovation]]"
 related_theories:
   - "[[Pluralism]]"
 related_persons:
@@ -38,12 +40,16 @@ related_persons:
 related_facts:
   - "[[UN Sustainable Development Goals]]"
   - "[[Lund Declaration 2009]]"
+  - "[[Human Genome Project]]"
+  - "[[DARPA]]"
+  - "[[Genesis Mission]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
+  - "[[Argument_Kratsios_2026_OSTP]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-07
 title: Grand Challenges
 aliases:
   - 重大挑战
@@ -59,7 +65,7 @@ aliases:
 ## 定义
 
 > [!def] 核心定义
-> **重大挑战（Grand Challenges, GCs / 社会重大挑战）**是指超越单一学科、工业部门或主权国家边界，具有全球性、跨期性与高系统复杂性的重大社会、生态与经济难题（如全球气候变化、老龄化社会与照护危机、流行病防控、水资源与粮食安全、生物多样性丧失以及数字鸿沟等）（Kuhlmann & Rip, 2018）。在科技政策理论中，重大挑战标志着全球研发与创新政策的[[Ontology|本体论]]转型：创新政策的合法性基石从 20 世纪冷战时期的“国家安全与尖端工程竞赛”以及 1980 年代以来的“狭隘商业竞争力与 GDP 增速”，转向以解决关乎人类福祉与可持续发展的实质性社会危机为导向。[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）与[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）将重大挑战界定为第三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]的统摄性愿景与根本驱动力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–789)]]
+> **重大挑战（Grand Challenges, GCs / 社会重大挑战）**是指超越单一学科、工业部门或主权国家边界，具有全球性、跨期性与高系统复杂性的重大社会、生态与经济难题（如全球气候变化、老龄化社会与照护危机、流行病防控、水资源与粮食安全、生物多样性丧失以及数字鸿沟等）（Kuhlmann & Rip, 2018）。在科技政策理论中，重大挑战标志着全球研发与创新政策的[[Ontology|本体论]]转型：创新政策的合法性基石从 20 世纪冷战时期的“国家安全与尖端工程竞赛”以及 1980 年代以来的“狭隘商业[[Competitiveness|竞争力]]与 GDP 增速”，转向以解决关乎人类福祉与可持续发展的实质性社会危机为导向。[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）与[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）将重大挑战界定为第三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]的统摄性愿景与根本驱动力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–789)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 确立了科技创新活动的“规范性转向”（Normative Turn），强调创新不仅关注速度与规模（How much），更聚焦于[[Public Value|公共价值]]方向与社会意义（Where to）。
@@ -114,6 +120,15 @@ aliases:
 > 2. **精准解构** 由跨学科专家与决策者将其转化为边界清晰、有时间限制的具体国家使命（Missions）。
 > 3. **工具协同** 运用[[Market Shaping and Creating|市场塑造]]工具箱，协同调动研发资助、标准制定与公共采购等政策杠杆。
 > 4. **分布式探索** 激励[[Heterogeneity|异质性]]创新主体从不同技术与商业模式并行试错，通过[[Reflexivity|反思性]]评估动态优化演进路径。
+
+---
+
+## 应用案例
+
+> [!finding-cards] 联邦科学政策中的挑战清单
+> - **[[Human Genome Project|人类基因组计划]]** 被用来说明一项清楚的技术目标可以把测序从实验室能力变成可购买的能力，从而打开后续的生物学问题。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 43–44)]]
+> - **[[DARPA]] 自动驾驶挑战** 被写成目标清楚、路径不清楚时的[[Pull Mechanisms for Innovation|拉动机制]]。奖金和竞赛催生了一个产业，而不是预先指定唯一的技术路线。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 29)]]
+> - **[[Genesis Mission|创世纪计划]]** 要求能源部找出至少 20 项国家重要的科学与技术挑战，覆盖先进制造、生物技术、关键材料、核裂变与聚变、量子信息科学和半导体，并每年复审。选择标准是巨大的组合搜索空间、大量结构化数据和清楚的基准。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 62)]]
 
 ---
 

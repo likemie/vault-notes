@@ -8,7 +8,7 @@ aliases:
 summary: "波特提出的经典战略经济学理论，认为国家竞争优势并非由先天生产要素禀赋决定，而是通过高度本地化的产业集群、有效国内竞争、高标准需求与创新生态所共同创造与维持；在当代地缘经济学与现代产业政策中，该理论被进一步拓展为国家通过战略性干预主动重塑关键供应链韧性与科技主权的核心地缘想象与政策基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Market Shaping and Creating]]"
   - "[[Agglomeration Externalities]]"
   - "[[Total Factor Productivity]]"
+  - "[[Competitiveness]]"
   - "[[STEM Education]]"
   - "[[Modern Industrial Policy]]"
   - "[[Economic Patriotism]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-07
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # National Competitive Advantage
@@ -110,7 +111,7 @@ updated: 2026-10-06
 
 > [!feature] 国家竞争优势的核心构成维度与钻石模型要素
 >
-> - **高级生产要素创造（Factor Conditions）** 决定现代竞争力的不是初级资源禀赋，而是国家持续培育的受过专门培训的高素质工程技术人才（[[STEM Education|STEM]]）、科研基础设施与数字化物理网络。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 27)]]
+> - **高级生产要素创造（Factor Conditions）** 决定现代[[Competitiveness|竞争力]]的不是初级资源禀赋，而是国家持续培育的受过专门培训的高素质工程技术人才（[[STEM Education|STEM]]）、科研基础设施与数字化物理网络。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 27)]]
 > - **本地化产业集群与相关支持产业（Related and Supporting Industries）** 具有国际竞争力的上游设备与材料供应商，与下游制造企业形成高频互动与信任网络，实现工艺排障与创新的快速外溢。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 27–28)]]
 > - **苛刻且前瞻的本土需求条件（Demand Conditions）** 国内消费者或公共采购对产品性能、绿色低碳与安全标准的极高要求，倒逼本土企业沿学习曲线快速演进并抢占全球技术制高点。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 11–13)]]
 > - **有效的国内竞争与企业战略（Firm Strategy, Structure, and Rivalry）** 强劲的国内同业竞争迫使企业不断进行研发创新与成本优化，防止出现受国家庇护的低效垄断者；这正是 21 世纪[[Modern Industrial Policy|现代产业政策]]强调维持部门内竞争而非扶植单一冠军的理论根源。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 3–4)]]
@@ -125,7 +126,7 @@ updated: 2026-10-06
 ### 命题一　国家竞争优势由高度本地化的创新与制度生态内生创造，而非源于静态要素禀赋
 
 > [!concept-lens] 生产率内生性与空间嵌入维度
-> 阐明全球化背景下一国产业为何在特定地理区位表现出持久的超级竞争力。
+> 阐明全球化背景下一国产业为何在特定地理区位表现出持久的超级[[Competitiveness|竞争力]]。
 
 > [!claim] [[Argument_Moisio_2022_Springer|Moisio (2022)]]
 > **本地化制度生态与生产率提升机制** 波特（1990）指出，国家在全球竞争中的成功并非由低工资或汇率优势决定，而是企业在高度本地化的制度环境中通过持续创新与生产率升级内生创造的。本地化的专业化服务、机构间相互信任以及跨组织人际协作网络，构成了跨国竞争中最难以被外部复制的持久优势来源。(Porter, 1990; 引自 [[Argument_Moisio_2022_Springer|Moisio, 2022, pp. 26–27]])
@@ -191,7 +192,7 @@ updated: 2026-10-06
 > > [!axis] 国家作为竞争主体 vs 国际贸易非零和博弈
 > > 克鲁格曼（Paul Krugman）等国际贸易学者批评将“国家”拟人化为企业进行竞争是危险的执念（Dangerous Obsession），认为贸易本质上是互利共赢的；波特及当代战略学者则反驳指出，高科技战略产业的技术外溢与集聚垄断决定了国家长期的[[Total Factor Productivity|全要素生产率]]与地缘安全边界。
 > >
-> > - **Krugman (1994)** 认为国家不是企业，过度渲染国家间竞争力竞争容易滑向破坏性的贸易保护主义。
+> > - **Krugman (1994)** 认为国家不是企业，过度渲染国家间[[Competitiveness|竞争力]]竞争容易滑向破坏性的贸易保护主义。
 > > - **[[Argument_Moisio_2022_Springer|Moisio (2022)]]; [[Argument_Reynolds_2024_JICT|Reynolds (2024)]]** 指出在当代地缘对抗中，国家竞争力话语已被深刻内化为国家安全与制造自主的核心决策框架。
 >
 > > [!axis] 区域资源集聚优化 vs 区域间空间极化

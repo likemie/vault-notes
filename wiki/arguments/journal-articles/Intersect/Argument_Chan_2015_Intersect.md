@@ -17,6 +17,7 @@ tags:
   - theory/informationalism
   - theme/political-economy
 related_concepts:
+  - "[[Competitiveness]]"
   - "[[Informationalization]]"
   - "[[Soviet Statism]]"
   - "[[State Vertical]]"
@@ -60,7 +61,7 @@ title: "Argument_Chan_2015_Intersect"
 argument_key: "Argument_Chan_2015_Intersect"
 argument_display_title: "Fallen behind: Science, technology, and Soviet statism"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -81,7 +82,7 @@ issuing_organization: ""
 > - 1957年 [[Sputnik Shock 1957\|Sputnik]] 发射让苏联在太空竞赛中领先美国，美国领导层因此对本国科技实力产生严重信心危机（p.2）。
 > - 到1970年代初，苏联已实现与美国的核均势，巩固了超级大国地位。
 > - 1928–1987年间，苏联中央计划经济取得了非凡的工业化成就。到1980年代，苏联重工业产量全面超过美国：钢铁产量多80%，水泥多78%，石油多42%（Walker, 1986, p.2）。
-> - 苏联拥有比全球任何其他大国更高比例的科学家和工程师（Fortescue, 1986, p.2），除被[[Lysenkoism\|李森科主义]]破坏的生物学外，在数学、物理和计算机科学领域均保持竞争力。
+> - 苏联拥有比全球任何其他大国更高比例的科学家和工程师（Fortescue, 1986, p.2），除被[[Lysenkoism\|李森科主义]]破坏的生物学外，在数学、物理和计算机科学领域均保持[[Competitiveness|竞争力]]。
 >
 > 然而到1980年代末，技术差距已不容忽视：
 > - 1986年，美国拥有约130万台主机和微型计算机，苏联仅有10,000台（Longworth, 1986, p.2）。
@@ -157,7 +158,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 ### 论证步骤一：前提——从工业化到信息化的模式转换
 
 > [!line-a] 工业化成功不保证[[Informationalization\|信息化]]成功
-> 苏联的工业化是20世纪的奇迹。从1928年到1987年，中央计划经济在短短两代人时间内将一个农业社会转变为重工业强国。到1980年代，苏联重工业产量全面超越美国：钢铁多80%，水泥多78%，石油多42%（Walker, 1986, p.2）。国家在科技上的投入极为慷慨：到1980年代，苏联拥有超过全球人均比例的科学家和工程师，是当时世界上科研人员密度最高的国家之一（Fortescue, 1986, p.2）。除生物学被[[Lysenkoism\|李森科主义]]严重破坏外，在数学、物理学和计算机科学领域，苏联保持了与国际前沿的竞争力（Thomas and Kruse-Vaucienne, 1977, p.2）。
+> 苏联的工业化是20世纪的奇迹。从1928年到1987年，中央计划经济在短短两代人时间内将一个农业社会转变为重工业强国。到1980年代，苏联重工业产量全面超越美国：钢铁多80%，水泥多78%，石油多42%（Walker, 1986, p.2）。国家在科技上的投入极为慷慨：到1980年代，苏联拥有超过全球人均比例的科学家和工程师，是当时世界上科研人员密度最高的国家之一（Fortescue, 1986, p.2）。除生物学被[[Lysenkoism\|李森科主义]]严重破坏外，在数学、物理学和计算机科学领域，苏联保持了与国际前沿的[[Competitiveness|竞争力]]（Thomas and Kruse-Vaucienne, 1977, p.2）。
 >
 > 然而这一判断成立的前提是工业化积累会自动导向技术领先，但这一[[Hypothesis\|假设]]在1980年代被[[Falsification\|证伪]]。个人计算机革命从苏联身旁呼啸而过，苏联被完全绕过。真正的信息时代奖杯是硅，而非生铁和钢铁。苏联将所有能量集中在满足工业产量指标上，错过了1970年代中期在全球范围内成形的信息技术革命（pp.2–3）。
 >

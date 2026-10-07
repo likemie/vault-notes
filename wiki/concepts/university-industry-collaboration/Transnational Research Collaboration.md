@@ -7,7 +7,7 @@ aliases:
 summary: "高等教育中的跨国研究合作形式，涉及学者、机构和国家在知识生产、声誉竞争与政策目标上的多重联结。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
+  - "[[Competitiveness]]"
   - "[[University-Industry Collaboration]]"
   - "[[Return on Investment]]"
   - "[[Champ]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Transnational Research Collaboration in Higher Education
@@ -71,7 +72,7 @@ updated: 2026-10-02
 > - **多重理性融合** 跨国研究合作中四重理性被同时调用([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.98–99]])：
 >   1. **学术理性**（个体研究者层面）：获取国际资源、数据和研究设施，在高影响力国际期刊发表
 >   2. **制度理性**（机构层面）：满足研究基础设施需求、进行国际绩效对标、提升全球声誉和排名
->   3. **国家经济理性**（国家层面）：服务于贸易目标、提升国家创新能力和经济竞争力
+>   3. **国家经济理性**（国家层面）：服务于贸易目标、提升国家创新能力和经济[[Competitiveness|竞争力]]
 >   4. **外交理性**（国家层面）：将研究合作作为公共外交工具，维护和拓展国际关系网络
 > - **网络化转型** Castells (1996) 的[[Network Society\|网络社会]]理论和 Benkler (2006) 的"网络财富"概念为理解这一转型提供了分析资源——合作从双边线性关系转向多节点、分布式的网络结构
 > - **国际[[University-Industry Collaboration\|产学合作]]的五维挑战** [[Argument_Wolf_2025_InternationalResearchCollab\|Wolf et al. (2025)]]从产学合作视角，将国际研究合作的成功条件归纳为五个维度（pp.311–316）：
@@ -106,7 +107,7 @@ updated: 2026-10-02
 
 > [!example]
 > - [[Australia in the Asian Century White Paper]] — 推动 AISRF、ACSRF 等与亚洲的研究合作基金
-> - 澳大利亚《[[International Education\|国际教育]]国家战略 2025》— 将研究合作纳入国家竞争力和产业创新战略
+> - 澳大利亚《[[International Education\|国际教育]]国家战略 2025》— 将研究合作纳入[[Competitiveness|国家竞争力]]和产业创新战略
 > - [[University-Industry Co-location\|产学共同选址]] — 国际[[University-Industry Collaboration\|产学合作]]的空间策略，如联合利华 Hive（WUR）、Mars MARI（UC Davis）([[Argument_Wolf_2025_InternationalResearchCollab\|Wolf et al., 2025, pp.317–318]])
 > - Mars and UC Davis [[African Orphan Crops Consortium\|非洲孤儿作物联盟]]（AOCC）— 多国政府、大学和企业联合改良 101 种传统非洲粮食作物的跨国合作项目，已培训超过 172 名非洲科学家([[Argument_Wolf_2025_InternationalResearchCollab\|Wolf et al., 2025, pp.320–321]])
 

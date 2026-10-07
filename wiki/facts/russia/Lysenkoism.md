@@ -7,15 +7,16 @@ subtype: event
 region: russia
 fact_region: "russia"
 fact_kind: "event"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#fef3c7"
 tags:
   - region/ussr
   - theme/ideology-and-science
   - theme/history-of-science
 related_concepts:
+  - "[[Competitiveness]]"
   - "[[Ideological Capture of Science]]"
   - "[[Soviet Statism]]"
 related_theories: []
@@ -28,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-10-07
 ---
 
 # Lysenkoism
@@ -52,7 +53,7 @@ updated: 2026-06-12
 
 > [!note]- 后斯大林时期（1953–1960s）
 > - Lysenko 的影响力在斯大林去世后逐渐衰退，但其学说对苏联生物学的破坏已持续数十年。
-> - 苏联生物学在此期间的落后（尤其是与数学、物理学和计算机科学等领域仍然保持的竞争力形成对比）被归因于 Lysenkoism 的灾难性影响（p.2）。
+> - 苏联生物学在此期间的落后（尤其是与数学、物理学和计算机科学等领域仍然保持的[[Competitiveness|竞争力]]形成对比）被归因于 Lysenkoism 的灾难性影响（p.2）。
 
 ---
 ## 影响与后果
@@ -60,7 +61,7 @@ updated: 2026-06-12
 > [!success]
 > - 苏联生物学和农业科学在1930至1960年代整体陷入谬误，与当时世界遗传学和分子生物学的前沿发展完全脱节（p.4）。
 > - Lysenkoism 成为苏联[[Ideological Capture of Science\|科学意识形态化]]（ideological capture of science）的标志性案例，展示了政治正统如何以革命和例外论的名义瓦解科学理性。
-> - 尽管苏联在数学、物理和计算机科学领域仍然保持竞争力，生物学的落后表明意识形态化对科学的破坏并非全面性的，其严重程度因学科而异，这与各学科距离意识形态核心的远近有关（p.2）。
+> - 尽管苏联在数学、物理和计算机科学领域仍然保持[[Competitiveness|竞争力]]，生物学的落后表明意识形态化对科学的破坏并非全面性的，其严重程度因学科而异，这与各学科距离意识形态核心的远近有关（p.2）。
 
 ---
 ## 争议与评论

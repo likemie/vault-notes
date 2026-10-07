@@ -8,7 +8,7 @@ aliases:
 summary: "斯托克斯（Donald Stokes）1997年提出的科研分类框架，以二维矩阵取代线性基础/应用二分法，以帕斯德象限代表同时追求理解与实用的用启发性基础研究。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 30
+theory_related_count: 31
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -53,10 +53,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
   - "[[Argument_Fan_2026_BCAS]]"
+  - "[[Argument_Kratsios_2026_OSTP]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Pasteur's Quadrant
@@ -181,5 +182,6 @@ updated: 2026-10-06
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 用巴斯德象限替换联邦预算里仍然有效的线性管道，并把 2024 年化学奖的蛋白质折叠计算和 2025 年物理奖的超导量子器件放进既追求根本理解、又被用途推动的区域。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 评析斯托克斯帕斯德象限的理论贡献与历史局限，指出其语言残留阻碍了创新政策走向真正的循环整体观。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，系统阐述 1990 年代斯托克斯巴斯德象限作为科学共同体重塑公共合法性制度缓冲器的历史功能，以及 2025 年起[[Technology-Oriented Social Contract|技术型社会契约]]下巴斯德象限所承载的认知纠错与抗脆弱价值。

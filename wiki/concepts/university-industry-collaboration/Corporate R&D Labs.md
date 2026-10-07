@@ -10,7 +10,7 @@ aliases:
 summary: "二十世纪大型工业企业设立的内部中央研发机构，涵盖从前沿基础研究到终端产品开发的全链条创新；1980年代起因市场竞争与股东短期回报压力而衰落，引发国家创新系统中基础研究与系统集成能力的结构性空白。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Market Failure]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Competitiveness]]"
   - "[[Absorptive Capacity]]"
   - "[[Variable]]"
   - "[[Document]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Corporate R&D Labs
@@ -198,7 +199,7 @@ updated: 2026-10-06
 > > 学界激烈争论大企业中央实验室的衰退究竟代表了[[Systems of Innovation|创新系统]]向敏捷高效演进的进步，还是导致了国家底层创新能力的倒退。
 > >
 > > - **开放创新与初创派（Chesbrough 2003）** 强调分布式网络能够调动全社会的创新智慧，初创企业与大学通过市场机制能够以更低成本、更高速度实现技术试错与商业化。
-> > - **系统能力赤字派（Arora et al. 2020; Macher et al. 1998）** 指出大学与初创企业缺乏跨学科工程试验线与大资本托底能力，中央实验室的消失直接导致复杂硬件和基础制造工艺缺乏长期投资，削弱了国家科技竞争力的战略根基。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 41–42)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 128–131)]]
+> > - **系统能力赤字派（Arora et al. 2020; Macher et al. 1998）** 指出大学与初创企业缺乏跨学科工程试验线与大资本托底能力，中央实验室的消失直接导致复杂硬件和基础制造工艺缺乏长期投资，削弱了国家科技[[Competitiveness|竞争力]]的战略根基。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 41–42)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 128–131)]]
 
 > > [!axis] 黄金时代神话与母公司商业转化悖论
 > > 中央实验室的丰硕科学产出是否真正转化为其母公司的商业竞争力。

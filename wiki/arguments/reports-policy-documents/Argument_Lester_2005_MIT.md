@@ -7,9 +7,9 @@ title: "Argument_Lester_2005_MIT"
 argument_key: "Argument_Lester_2005_MIT"
 argument_display_title: "Universities, innovation, and the competitiveness of local economies: A summary report from the Local Innovation Systems Project – Phase I (MIT Industrial Performance Center Working Paper 05-010)"
 argument_kind: "report"
-argument_related_count: 9
+argument_related_count: 10
 argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_stars: ""
 argument_related_color: "#dcfce7"
 issuing_organization: "MIT Industrial Performance Center"
 authors:
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Absorptive Capacity]]"
   - "[[Causality]]"
   - "[[Technology Transfer]]"
+  - "[[Competitiveness]]"
   - "[[Structural Holes]]"
   - "[[External Validity]]"
 related_theories:
@@ -136,7 +137,7 @@ Lester 的核心论点：大学的经济贡献应该**匹配**本地产业正在
 > > 前沿科学与工程研究、技术许可政策、促进和协助创业企业、培养学术研究者与本地企业家之间的联系、参与标准制定、召集会议和工作坊。
 
 > [!line-a] 类型二：产业移植——斯塔万格与阿伯丁的对比
-> 通过吸引外部产业进入本地区。LIS 项目中最具启发性的对比案例是挪威斯塔万格与苏格兰阿伯丁的北海油气产业。两地自 1960 年代起面对同样的全球石油公司、相似的市场条件，却走上了截然不同的发展道路。挪威当局创建国家石油公司、向外国公司施加技术转移许可条件、在斯塔万格集中发展高等教育——包括新建一所技术学院（后升格为大学）和一个公共研究所，帮助本地造船和建筑企业进入油气产业。阿伯丁的产业则在没有系统性政府支持的情况下发展，大学角色远不如斯塔万格显著。有趣的是，两地在国际竞争力上最终差异不大，但本地[[Systems of Innovation\|创新系统]]结构截然不同。
+> 通过吸引外部产业进入本地区。LIS 项目中最具启发性的对比案例是挪威斯塔万格与苏格兰阿伯丁的北海油气产业。两地自 1960 年代起面对同样的全球石油公司、相似的市场条件，却走上了截然不同的发展道路。挪威当局创建国家石油公司、向外国公司施加技术转移许可条件、在斯塔万格集中发展高等教育——包括新建一所技术学院（后升格为大学）和一个公共研究所，帮助本地造船和建筑企业进入油气产业。阿伯丁的产业则在没有系统性政府支持的情况下发展，大学角色远不如斯塔万格显著。有趣的是，两地在国际[[Competitiveness|竞争力]]上最终差异不大，但本地[[Systems of Innovation\|创新系统]]结构截然不同。
 >
 > > [!col-l] LIS 案例地区
 > > 斯塔万格（油气）、阿伯丁（油气）、格林维尔-斯帕坦堡（汽车/BMW）。

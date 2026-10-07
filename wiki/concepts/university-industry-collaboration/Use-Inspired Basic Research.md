@@ -7,7 +7,7 @@ aliases:
 summary: "Stokes (1997) 提出的研究分类概念，指既追求基础理解又受应用考虑驱动的科研模式，以巴斯德为典范，区别于纯基础研究（玻尔象限）和纯应用研究（爱迪生象限），是理解 1980年代后大学研究取向变迁的关键概念"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Grand Challenges]]"
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Competitiveness]]"
   - "[[National Innovation System]]"
   - "[[Third Mission]]"
   - "[[Modern Industrial Policy]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Use-Inspired Basic Research
@@ -152,7 +153,7 @@ updated: 2026-10-06
 > 探讨在大国科技竞争加剧的背景下，国家如何通过专门立法在传统基础科研基金内部开辟应用转化新通道。
 
 > [!claim] [[Argument_Brint_2023_IHE|Brint (2023)]]
-> **国家战略产业政策驱动下的科研转化建制化** 随着美国通过《[[CHIPS and Science Act|芯片与科学法案]]》打破新自由主义市场中立传统并转向战略性产业政策，应用启发的基础研究不再仅仅停留于学者个人或中心层面的研究取向，而是被直接制度化为国家科研资助机构的法定新使命。国家科学基金会（[[National Science Foundation|NSF]]）历经三十年首度新设“[[Directorate for Technology, Innovation and Partnerships|技术、创新与伙伴关系理事会]]”（TIP），专门以 20 项前沿关键技术为牵引，大规模定向资助应用启发的基础研究，加速实验室科研成果向产业竞争力的直接转化。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
+> **国家战略产业政策驱动下的科研转化建制化** 随着美国通过《[[CHIPS and Science Act|芯片与科学法案]]》打破新自由主义市场中立传统并转向战略性产业政策，应用启发的基础研究不再仅仅停留于学者个人或中心层面的研究取向，而是被直接制度化为国家科研资助机构的法定新使命。国家科学基金会（[[National Science Foundation|NSF]]）历经三十年首度新设“[[Directorate for Technology, Innovation and Partnerships|技术、创新与伙伴关系理事会]]”（TIP），专门以 20 项前沿关键技术为牵引，大规模定向资助应用启发的基础研究，加速实验室科研成果向产业[[Competitiveness|竞争力]]的直接转化。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
 
 ---
 
@@ -182,7 +183,7 @@ updated: 2026-10-06
 
 > [!dev-timeline] 应用启发基础研究的制度演进
 > - **1945 — 布什线性模型确立** 《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》确立战后科学契约，强调[[Curiosity-Driven Research|纯基础研究]]的自由探索与孤立性，奠定一维二分法观念。
-> - **1990s — 冷战终结与契约再协商下的合法性重塑** 冷战结束后国家安全统摄性减退，联邦赤字攀升倒逼科学界自证经济与社会价值；斯托克斯正式提出[[Pasteur's Quadrant|巴斯德象限]]，将基础机理探索与现实战略问题紧密嵌合，开启了[[Social Contract of Science|科学社会契约]]围绕经济竞争力与社会相关性的系统再协商。
+> - **1990s — 冷战终结与契约再协商下的合法性重塑** 冷战结束后国家安全统摄性减退，联邦赤字攀升倒逼科学界自证经济与社会价值；斯托克斯正式提出[[Pasteur's Quadrant|巴斯德象限]]，将基础机理探索与现实战略问题紧密嵌合，开启了[[Social Contract of Science|科学社会契约]]围绕经济[[Competitiveness|竞争力]]与社会相关性的系统再协商。
 > - **1997 — 斯托克斯提出[[Pasteur's Quadrant|巴斯德象限]]** 斯托克斯出版奠基性专著，从理论上正式创立“应用启发的基础研究”[[Paradigm|范式]]，为政策界重新认识科研动机提供理论武器。
 > - **1980s–2000s — 美国 [[National Science Foundation|NSF]] 产学协同中心网络** NSF 设立[[Engineering Research Centers|工程研究中心]]（ERC）与[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（I/UCRC），在高校体制内培育巴斯德象限组织载体。
 > - **2022 — [[Modern Industrial Policy|现代产业政策]]下的法定建制化（NSF [[Directorate for Technology, Innovation and Partnerships|TIP]] 设立）** 美国通过《[[CHIPS and Science Act|芯片与科学法案]]》，NSF 正式设立技术、创新与伙伴关系理事会（TIP），明确将加速应用启发的基础研究与产业转化确立为联邦核心使命。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]

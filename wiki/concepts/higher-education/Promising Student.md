@@ -6,7 +6,7 @@ aliases:
 summary: "在竞争性大学治理中被数字化工具和制度期待建构出来的理想学生主体形态，强调自我评估、持续优化和风险管理。"
 type: concept
 domain: "higher-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
 - theme/subjectification
 related_concepts:
   - "[[Online Self-Assessment]]"
+  - "[[Competitiveness]]"
   - "[[Performativity of Measurement]]"
   - "[[Student Satisfaction]]"
   - "[[Academic Achievement]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-19'
-updated: 2026-09-23
+updated: 2026-10-07
 ---
 
 # Promising Student
@@ -62,7 +63,7 @@ updated: 2026-09-23
 
 ### 竞争性大学的地缘政治框架
 
-高等教育中的竞争力构成了一种地缘政治装置（geopolitical apparatus），通过 排名、指标化和比较实践重新组织大学行为。与此相关，[[Performativity of Measurement|测量的生产性]]意味着排名和指标不只是描述现实，更是重塑优先事项和行为([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.219–220]])。
+高等教育中的[[Competitiveness|竞争力]]构成了一种地缘政治装置（geopolitical apparatus），通过 排名、指标化和比较实践重新组织大学行为。与此相关，[[Performativity of Measurement|测量的生产性]]意味着排名和指标不只是描述现实，更是重塑优先事项和行为([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.219–220]])。
 
 在这一框架中，学生——包括[[Student Satisfaction|学生满意度]]、[[Academic Achievement|学业成就]]和对项目的遵从——成为大学竞争的关键资源和媒介([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.220]])。大学的竞争优势取决于其提供成功学习过程的能力，但这里存在一个悖论：大学竞争的是学生**潜在的未来努力（potential future effort）**——在入学前尚未展现、但被期望在学习过程中发挥的表现。
 

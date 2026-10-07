@@ -30,6 +30,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Absorptive Capacity]]"
   - "[[Source of Knowledge]]"
+  - "[[Competitiveness]]"
   - "[[Counterfactual]]"
   - "[[Growth]]"
   - "[[Return on Investment]]"
@@ -58,7 +59,7 @@ title: "Argument_Glitz_2020_AER"
 argument_key: "Argument_Glitz_2020_AER"
 argument_display_title: "Industrial Espionage and Productivity"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -260,7 +261,7 @@ issuing_organization: ""
 ### 论证步骤六：反事实模拟与成本收益
 
 > [!claim] 步骤六主张
-> 工业间谍对东德经济的总体影响显著但数量有限，但在某些关键行业（如电子行业）几乎是维持技术竞争力的生命线；初步[[Cost-Benefit Analysis|成本收益分析]]显示其净回报极为可观。
+> 工业间谍对东德经济的总体影响显著但数量有限，但在某些关键行业（如电子行业）几乎是维持技术[[Competitiveness|竞争力]]的生命线；初步[[Cost-Benefit Analysis|成本收益分析]]显示其净回报极为可观。
 
 > [!chain-link] 证据到判断
 > - **总体[[Counterfactual\|反事实]]** 基于表 2 第 3 列的估计，模拟无间谍情景下 1972–1989 年两德 TFP 比率。就业加权平均 TFP 比率在 1989 年实际为 21.8%，无间谍时为 18.9%，下降 13.3%（pp.1097–1098, Figure 7 Panel A）。

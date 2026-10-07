@@ -6,7 +6,7 @@ aliases:
 summary: "将社会政治不满重新框定为个体心理调适问题的治理策略，通过课程去政治化、课外感恩教育和个体化归因三条路径运作"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Social-Emotional Learning]]"
   - "[[Progressive Education]]"
   - "[[Benevolence]]"
+  - "[[Patriotic Education]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Psychologisation
@@ -116,7 +117,7 @@ updated: 2026-09-17
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **能动性消解命题** | 关注心理化如何将社会不满转化为个人适应问题以解构政治抵抗。 | 威权国家或地区实施爱国教育与社会维稳。 | [[Argument_Vickers_2024_CE\|Vickers (2024)]] |
+> | **能动性消解命题** | 关注心理化如何将社会不满转化为个人适应问题以解构政治抵抗。 | 威权国家或地区实施[[Patriotic Education\|爱国教育]]与社会维稳。 | [[Argument_Vickers_2024_CE\|Vickers (2024)]] |
 > | **话语合法共谋命题** | 关注政治控制如何借用SEL与传统美德话语以伪装其政治目的。 | 课程改革与青年发展话语体系的爱国重构。 | 同上（2024） |
 
 ---

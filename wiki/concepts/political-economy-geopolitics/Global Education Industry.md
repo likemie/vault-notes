@@ -6,7 +6,7 @@ aliases:
 summary: "教育实践、供给、研究和政策被市场逻辑、投资关系和商业组织深度渗透所形成的跨国产业场域"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Knowledge-Based Economization]]"
+  - "[[Competitiveness]]"
   - "[[School Choice]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Corporate Education]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-07'
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Global Education Industry
@@ -90,7 +91,7 @@ updated: 2026-10-05
 > [!contrast-table] 概念辨析
 > | 维度 | 全球教育产业 (GEI) | [[Endogenous and Exogenous Privatisation\|教育私有化]] | 教育市场化 (Marketisation) | [[Knowledge-Based Economization\|知识化经济化]] |
 > |------|--------|----------------|----------------|----------------|
-> | **分析对象** | 跨国教育产业场域及被经济理性形塑的教育供给、政策与想象（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022]]）。 | 公共教育中私营参与的具体政策机制与运营形式（内生/外生）。 | 公共教育体制内部引入的竞争、选择与准市场化激励机制。 | 知识密集型资本主义中，国家以经济竞争力为目标对教育和研究的重组。 |
+> | **分析对象** | 跨国教育产业场域及被经济理性形塑的教育供给、政策与想象（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022]]）。 | 公共教育中私营参与的具体政策机制与运营形式（内生/外生）。 | 公共教育体制内部引入的竞争、选择与准市场化激励机制。 | 知识密集型资本主义中，国家以经济[[Competitiveness\|竞争力]]为目标对教育和研究的重组。 |
 > | **核心机制** | 涵盖私有化、金融化、商品化，以及通过国际组织进行的政策软治理与标准量化（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024]]）。 | 外部承包、教育券、私营资本进入公立教育系统或转为准企业运营。 | 自主办学、[[School Choice\|择校]]制度、以绩效为基础的财政拨款等。 | 培育[[Knowledge-Based Economy\|知识经济]]所需的劳动力（人力资本）、促进大学知识的商业转化。 |
 > | **适用范围** | 包含 EdTech、[[Corporate Education\|企业教育]]、跨国咨询公司、横向能力指标等广泛的全球[[Champ\|场域]]。 | 侧重公共教育体系的产权、供给及决策权的转移。 | 侧重国家或地区层面的公共教育制度与治理结构变革。 | 聚焦国家发展战略宏观视角，探讨教育作为[[Intellectual Capital\|知识资本]]的政治经济学定位。 |
 
@@ -157,7 +158,7 @@ updated: 2026-10-05
 > GEI 绝仅是商业公司提供教育产品的物质现象，更是一种话语生产。它生产出诸如“颠覆”、“创新”和“面向未来的技能”等替代性教育想象，以重塑大众对学校体制的理解，从而为私营行动者介入政策 and 替代公共管理确立合法性（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp. 42–43]]）。
 
 > [!claim] <Schaffar, B., & Wolff, L.-A.>
-> 当本国倡导的整体性、存在性教育改革（如芬兰现象本位学习 PhBL）被纳入国家政策时，极易受到 GEI 及其背后的新自由主义问责体制的 co-optation（吸纳与征用）。通过 [[OECD]] 的“[[21st Century Skills and Competencies Discourse\|21世纪技能]]”及欧盟的“横向能力”等话语，GEI 将指向生活世界的复杂探究拆解为细小的、可测量的、工具主义的技能包，以迎合全球经济竞争力需求，导致课程发生“技能原子化”（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 8–10]]）。
+> 当本国倡导的整体性、存在性教育改革（如芬兰现象本位学习 PhBL）被纳入国家政策时，极易受到 GEI 及其背后的新自由主义问责体制的 co-optation（吸纳与征用）。通过 [[OECD]] 的“[[21st Century Skills and Competencies Discourse\|21世纪技能]]”及欧盟的“横向能力”等话语，GEI 将指向生活世界的复杂探究拆解为细小的、可测量的、工具主义的技能包，以迎合全球经济[[Competitiveness|竞争力]]需求，导致课程发生“技能原子化”（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 8–10]]）。
 
 ---
 
@@ -223,6 +224,6 @@ updated: 2026-10-05
 ## 相关案例／政策
 
 - [[Minerva University]] — 融合了风险资本、专有技术和全球流动的典型 GEI 高等教育颠覆案例（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp. 45–48]]）。
-- [[International Education Hubs]] — 国家或地区层面以经济竞争力驱动的跨国教育战略布局，高度依赖 GEI 提供的政策语境与市场机制。
+- [[International Education Hubs]] — 国家或地区层面以经济[[Competitiveness|竞争力]]驱动的跨国教育战略布局，高度依赖 GEI 提供的政策语境与市场机制。
 - [[Finnish National Core Curriculum]] — 芬兰 2014 年版基础教育国家核心课程。该课程积极响应国际技能话语，包含了对于跨学科现象的指标化要求（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 8–9]]）。
 - [[SveaSus Project]] — 赫尔辛基大学的可持续世界遗产学习项目。该项目代表了旨在通过具身、艺术与主体间性对话，抵制技能原子化的[[Phenomenon-Based Learning|现象本位学习]]（PhBL）实践探索（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 4]]）。

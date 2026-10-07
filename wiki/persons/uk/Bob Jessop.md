@@ -7,7 +7,7 @@ summary: "英国社会学家和政治经济学家，文化政治经济学代表�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Cultural Diplomacy]]"
+  - "[[Competitiveness]]"
   - "[[Reflexivity]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Flow]]"
@@ -42,7 +43,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-09-11
+updated: 2026-10-07
 ---
 ## 简介
 
@@ -89,7 +90,7 @@ Jessop and Sum 共同提出 [[Cultural Political Economy|CPE]] 框架，将文�
 
 **霸权（hegemonic）** — 在 Gramsci 的意义上，霸权不是通过强制而是通过"智识、政治和道德领导力"获得的同意。KBE 之所以是霸权的，不在于国家强制执行，而在于各种行动者（政府、企业、大学、媒体、劳动者）将 KBE 接受为*理所当然的共同目标*——没有人质疑"知识经济"是否应该是追求的方向，争论只在于*如何*更好地实现它。这种理所当然性正是霸权运作的标志。
 
-**元治理（meta-governance）** — "元"指*对治理本身的治理*。大多数政策对象只涉及单一领域（如教育政策治理教育、产业政策治理产业）；但 KBE 作为元治理对象，要求协调横跨经济与非经济领域（科学、教育、法律、社会制度、传统）的多种治理模式，使它们共同指向"增强知识竞争力"这一目标。这就是为什么大学、科研、城市规划、移民政策会被同时纳入 KBE 话语——不是因为它们本质上是经济事务，而是因为元治理将它们整合进了同一个治理框架([[Argument_Moisio_2022_Springer|Moisio, 2022, p.23]])。
+**元治理（meta-governance）** — "元"指*对治理本身的治理*。大多数政策对象只涉及单一领域（如教育政策治理教育、产业政策治理产业）；但 KBE 作为元治理对象，要求协调横跨经济与非经济领域（科学、教育、法律、社会制度、传统）的多种治理模式，使它们共同指向"增强知识[[Competitiveness|竞争力]]"这一目标。这就是为什么大学、科研、城市规划、移民政策会被同时纳入 KBE 话语——不是因为它们本质上是经济事务，而是因为元治理将它们整合进了同一个治理框架([[Argument_Moisio_2022_Springer|Moisio, 2022, p.23]])。
 
 **治理对象（object of governance）** — "对象"强调 KBE 不是自然存在的经济形态，而是被治理活动*制造出来的目标*。众多行动者被征召（enrolled）到这个目标背后，不是因为 KBE 客观存在于那里等待被发现，而是因为治理实践（指标排名、政策叙事、投资决策、制度设计）持续地将其生产为需要被追求和实现的对象([[Argument_Moisio_2022_Springer|Moisio, 2022, p.23]])。
 

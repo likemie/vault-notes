@@ -5,7 +5,7 @@ aliases:
 summary: "Chen (2023) 提出的概念，政权以文化、历史和传统话语包装政治控制，替代公开的政治意识形态论证"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Sinicisation]]"
   - "[[Filial Piety]]"
   - "[[Benevolence]]"
+  - "[[Patriotic Education]]"
   - "[[Avatar]]"
   - "[[Pride in Learning]]"
 related_theories:
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Culturalisation of Politics
@@ -115,7 +116,7 @@ updated: 2026-09-17
 
 > [!claim] Vickers, 2024
 > **文化博展机构的双轨接管与协同**
-> - **直白的爱国主义历史宣示** 设立香港故宫文化博物馆，展示国宝文物和正统中国历史叙事，充当直白的国家凝聚力与爱国主义教育载体（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.142–143]]）。
+> - **直白的爱国主义历史宣示** 设立香港故宫文化博物馆，展示国宝文物和正统中国历史叙事，充当直白的国家凝聚力与[[Patriotic Education|爱国主义教育]]载体（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.142–143]]）。
 > - **柔性的前卫品味政治审查** 通过M+视觉文化博物馆展示国际前卫艺术，但在涉及敏感政治符号时实行严格审查，实现了对文化和艺术品味的去政治化过滤与控制，两者分工协作服务于统一的主权巩固工程。
 
 ---

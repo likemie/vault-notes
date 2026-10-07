@@ -30,9 +30,9 @@ related_concepts:
   - "[[Apprenticeship]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Agglomeration Externalities]]"
+  - "[[Competitiveness]]"
   - "[[Pilot Scale Platform]]"
   - "[[Innovation Hub]]"
-  - "[[Competitiveness]]"
   - "[[STEM Education]]"
   - "[[Application Engineering]]"
   - "[[Research Translation]]"
@@ -81,7 +81,7 @@ updated: 2026-10-06
 > 通过将长周期联邦研发资本与区域特色产业集群、[[Workforce Development|劳动力技能开发]]体系（如社区学院与[[Apprenticeship|学徒制]]通道）深度绑定，能够激发[[Local Knowledge in Evidence-Based Policy|地方知识]]溢出与[[Agglomeration Externalities|集聚经济]]效应，在培育新兴产业技术主导权的同时创造高质量本地就业。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 6)]]
 
 > [!policy-design]- 方案设计
-> - **项目目标** 在全美建设数十个具备全球竞争力的区域技术创新高地，加速前沿技术商业化，并构建从博士科学家到一线熟练技工的全谱系技能人才管道。
+> - **项目目标** 在全美建设数十个具备全球[[Competitiveness|竞争力]]的区域技术创新高地，加速前沿技术商业化，并构建从博士科学家到一线熟练技工的全谱系技能人才管道。
 > - **覆盖对象** 由[[Research Universities|研究型大学]]牵头、广泛吸纳社区学院、行业领军企业、初创公司、地方经济发展机构及工会组织的区域创新联盟。
 > - **干预措施** 提供长达 10 年、高达 1.6 亿美元的稳定资金，支持共性技术研发、[[Pilot Scale Platform|中试验证平台]]搭建、创业孵化支持以及针对区域产业定制的技能培训课程开发。
 > - **实施控制** 实行严格的里程碑考核（Milestone-based Reviews）与退出评估机制，确保资金使用透明并依据阶段性产业化与就业成效动态调整拨付节奏。

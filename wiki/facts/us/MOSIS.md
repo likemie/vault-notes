@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Import Substitution Industrialisation]]"
+  - "[[Competitiveness]]"
   - "[[Emergence]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Paradigm]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # MOSIS
@@ -101,7 +102,7 @@ updated: 2026-10-06
 > [!finding-cards] 颠覆性技术孵化与服务产出
 > - **微处理器架构突破的摇篮** 斯坦福大学约翰·轩尼诗（John Hennessy）团队的 MIPS 处理器原型、加州大学伯克利分校大卫·帕特森（David Patterson）团队的 RISC-I/II 处理器原型，均通过 MOSIS 获得首批流片验证，直接开创了现代精简指令集计算时代。
 > - **高校计算机科学与微电子课程基础设施** 为全美逾 150 所大学的电子工程与计算机科学系提供实训流片支持，使本科生与博士生能够在学期内完成“设计—流片—芯片回片测试”全周期闭环，培养了硅谷整整一代芯片架构领军人才。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 183–184)]]
-> - **催生全球无晶圆厂设计（Fabless）产业生态** 证明了中小微企业无需耗资数亿美元自建晶圆制造厂也能设计并推出具有全球竞争力的尖端芯片，直接孕育了高通（Qualcomm）、英伟达（NVIDIA）等现代芯片设计巨头的商业模式。
+> - **催生全球无晶圆厂设计（Fabless）产业生态** 证明了中小微企业无需耗资数亿美元自建晶圆制造厂也能设计并推出具有全球[[Competitiveness|竞争力]]的尖端芯片，直接孕育了高通（Qualcomm）、英伟达（NVIDIA）等现代芯片设计巨头的商业模式。
 
 > [!citation-card] Mowery 论 MOSIS 对微电子专业化分工的制度催化
 > [[DARPA]] 支持的 MOSIS 原型服务彻底改变了半导体技术的创新组织方式。通过允许研究人员在无需拥有制造设施的情况下试验全新电路设计，MOSIS 降低了芯片创新的资本门槛，成为 1980 年代美国计算机体系结构与 RISC 微处理器革命的关键制度推手。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 183)]]

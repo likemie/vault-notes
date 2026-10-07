@@ -9,7 +9,7 @@ title: "Argument_Moisio_2022_Springer"
 argument_key: "Argument_Moisio_2022_Springer"
 argument_display_title: "In what sense a geopolitical knowledge-based economy? In M"
 argument_kind: "book"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Knowledge-Based Economization]]"
   - "[[Transfer Translation Transformation]]"
   - "[[National Competitive Advantage]]"
+  - "[[Competitiveness]]"
   - "[[Theoretical Knowledge]]"
   - "[[Presence]]"
   - "[[Definition of Terms]]"
@@ -117,7 +118,7 @@ Moisio 的论证分为四个递进步骤，从概念梳理到方法论转向，�
 
 Moisio 首先论证 [[Knowledge-Based Economy|KBE]] 并非天然、必然的经济形态，而是具有特定知识谱系的历史建构：
 
-1. **十九世纪先驱**[[Argument_Freeman_1995_CJE|Freeman (1995)]]将"国家[[Systems of Innovation|创新系统]]"概念追溯至 [[Friedrich List]] 的《政治经济学的国家系统》（[1841] 1991）。List 已指出国家应通过技术教育、科学培训、研发实践和长期产业政策来增强自身——而非仅获取他国成就。十九世纪政府实验室的增长表明"'国家的'创新过程开始决定国家的整体竞争力"([[Argument_Freeman_1995_CJE|Freeman, 1995, p.9]], p.22)。
+1. **十九世纪先驱**[[Argument_Freeman_1995_CJE|Freeman (1995)]]将"国家[[Systems of Innovation|创新系统]]"概念追溯至 [[Friedrich List]] 的《政治经济学的国家系统》（[1841] 1991）。List 已指出国家应通过技术教育、科学培训、研发实践和长期产业政策来增强自身——而非仅获取他国成就。十九世纪政府实验室的增长表明"'国家的'创新过程开始决定国家的整体[[Competitiveness|竞争力]]"([[Argument_Freeman_1995_CJE|Freeman, 1995, p.9]], p.22)。
 
 2. **二战后学术多元探索** 不同学科学者从各自视角理解资本主义的结构转型——Drucker（1959/1969）的"知识工作者"概念和知识管理学术领域的确立；Bell(1973)的后工业社会理论强调[[Theoretical Knowledge|理论知识]]的相对重要性；二者共同揭示"经济-社会界面正在发生结构性转变"(p.22)。
 
@@ -206,7 +207,7 @@ Moisio 以对批判研究者的呼吁结束：(1) 不仅要审视 KBE 的空间�
 
 > [!success]
 
-- [[Knowledge-Based Economization|知识经济化]]作为一种地缘政治过程，通过"Hub and [[Flow]] 想象"将世界划分为核心枢纽与边缘区域，大型城市日益体现国家竞争力和吸引力(pp.26–28)
+- [[Knowledge-Based Economization|知识经济化]]作为一种地缘政治过程，通过"Hub and [[Flow]] 想象"将世界划分为核心枢纽与边缘区域，大型城市日益体现[[Competitiveness|国家竞争力]]和吸引力(pp.26–28)
 - Harvey 的[[Fixity-Motion Tension|固着-流动张力]]（fixity-motion tension）构成[[Knowledge-Based Economy|知识经济]]化的核心地缘政治悖论：国家和地方配置被创造出来以促进资本流动，但流动本身又不断动摇这些配置的稳定性(pp.27–28)
 - 知识经济化涉及系统性的[[Spatial Sortings|空间分选]]（spatial sortings）：将某些地点和人群置于发展和资本积累的中心，同时将其他地点和人群边缘化。公共和私人投资是这一结构过程的核心驱动因素(pp.30–31)
 - 国家在知识经济化过程中扮演关键角色——通过选择性空间政策（spatial [[Selectivity]]）、创业型城市化（entrepreneurial urbanisation）和[[Geopolitical Subject|地缘政治主体]]生产（crafting of geopolitical subjects）来中介空间分选过程(pp.28–32)

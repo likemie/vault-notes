@@ -8,7 +8,7 @@ aliases:
 summary: "处于探索阶段、产出的知识产权尚不具备直接商业化价值的共性技术研发活动。在产学合作与产业研发联盟中，前竞争研究充当了多边协同的制度边界：使同行竞争者在共性工艺、行业标准与基础设施层面共享成果与分摊风险，同时保留各自在专有产品设计与商业市场的独立竞争优势；Grindley et al. (1994) 揭示了其在同业横向联盟中的专有权张力及向纵向供应链协同演化的规律。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 35
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -59,6 +59,8 @@ related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
+  - "[[DARPA]]"
+  - "[[EUV LLC]]"
 related_arguments:
   - "[[Argument_Narayan_Spohrer_2025_Metrics]]"
   - "[[Argument_Grindley_1994_JPAM]]"
@@ -66,10 +68,11 @@ related_arguments:
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
   - "[[Argument_Logar_2014_Minerva]]"
   - "[[Argument_Mowery_2011_NBER]]"
+  - "[[Argument_Kratsios_2026_OSTP]]"
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Precompetitive Research
@@ -218,6 +221,7 @@ updated: 2026-10-06
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 把前竞争联合体界定为科学已经明白、工程尚未做完、风险又由全行业共享时的制度。1987 年十四家美国半导体公司与经由 [[DARPA]] 匹配的联邦经费组成半导体制造技术联盟，攻光刻、刻蚀和材料工艺。1997 年的[[EUV LLC|极紫外有限责任公司]]再与三个能源部国家实验室签约开发极紫外光刻，到 2001 年建成第一台原型曝光工具并提交 150 多项专利。报告同时承认，随后的政策把主导市场地位让给了一家欧洲公司。
 > - [[Argument_Narayan_Spohrer_2025_Metrics|Narayan & Spohrer (2025)]] — 论证探索性[[University-Industry Collaboration|产学合作]]的前竞争性质，提出按成熟度分层设计知识产权条款以避免度量错配。
 > - [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]] — 剖析 [[Advanced Manufacturing Research Centre|AMRC]] 的两层知识产权模型，示范前竞争共有轨道与商业专有轨道的互补共生机制。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 阐释[[Semiconductor Research Corporation|半导体研究公司]]（SRC）如何运用前竞争范围界定准则化解竞争对手之间的零和博弈。

@@ -35,6 +35,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Document]]"
+  - "[[Competitiveness]]"
   - "[[Dual School System]]"
   - "[[Paradigm]]"
   - "[[Value Neutrality]]"
@@ -111,7 +112,7 @@ title: "Argument_Olmos_Torres_2009_StateTheories"
 argument_key: "Argument_Olmos_Torres_2009_StateTheories"
 argument_display_title: "Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches"
 argument_kind: "book-chapter"
-argument_related_count: 72
+argument_related_count: 73
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -192,7 +193,7 @@ issuing_organization: ""
 普世主义[[World Society Theory|世界文化理论]]将战后教育扩张简化为单一价值模型的扩散，但这种非历史[[Hypothesis|假设]]无法解释第三世界国家的阶级分化现实。
 
 > [!critique-logic] 战后世界文化理论的逻辑缺陷
-> 战后主流的[[World Society Theory|世界文化理论]]认为，全球教育扩张是现代国家模仿单一世界[[Cultural Models|文化模型]]、追求公民权利与经济竞争力的自然趋同过程。然而，这种解释预设了一个仿佛在 1945 年突然降临的大爆炸假说（Big Bang），割断了历史联系，无法解释为什么第三世界国家在经历了相同名义的教育扩张后，普遍演化出富人与穷人泾渭分明的阶级[[Dual School System|双轨学制]]。（pp. 74–75）
+> 战后主流的[[World Society Theory|世界文化理论]]认为，全球教育扩张是现代国家模仿单一世界[[Cultural Models|文化模型]]、追求公民权利与经济[[Competitiveness|竞争力]]的自然趋同过程。然而，这种解释预设了一个仿佛在 1945 年突然降临的大爆炸假说（Big Bang），割断了历史联系，无法解释为什么第三世界国家在经历了相同名义的教育扩张后，普遍演化出富人与穷人泾渭分明的阶级[[Dual School System|双轨学制]]。（pp. 74–75）
 
 > [!claim] 核心判断：非历史的普世叙事抹杀了殖民压迫与外围资本积累的残酷现实
 > 世界文化理论假定全球存在一个均质的价值体系，各国政府建立学校只是为了培育现代化公民。但是，正如[[Colonial State Theory|殖民国家理论]]所指出的，殖民与后殖民历史表明，第三世界国家并不是主动选择学校制度的，而是在不同历史时期被动接入全球资本主义体系的结果。正如[[Martin Carnoy|马丁·卡诺伊]]与[[Joel Samoff|乔尔·萨莫夫]]（Carnoy & Samoff, 1990）、[[Carlos Alberto Torres|托雷斯]]（Torres, 1991）以及[[Mark Ginsburg|马克·金斯伯格]]（Mark Ginsburg, 1991）对剧烈社会转型中国家教育改革研究所阐明的，教育制度的变迁始终深刻嵌入在国家权力、意识形态与经济积累的矛盾之中。殖民时期的宗主国完全不需要通过教育换取被统治者的政治认同，其设立的有限学校主要用于满足资源掠夺和培养初级行政仆从；后殖民时期的教育扩张，则不可避免地承受着资本积累需求与本土历史遗产的双重制约。（pp. 74–76）

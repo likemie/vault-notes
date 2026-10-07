@@ -11,7 +11,7 @@ subtype: organization
 region: norway
 fact_region: "norway"
 fact_kind: "organization"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -22,6 +22,7 @@ tags:
   - theme/student-survey
   - theme/quality-culture
 related_concepts:
+  - "[[Competitiveness]]"
   - "[[Active Learning]]"
   - "[[Formative Assessment]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-10-07
 ---
 
 # Norwegian Agency for Quality Assurance in Education
@@ -52,7 +53,7 @@ updated: 2026-08-27
 > - **成立时间 / 法律依据** 2003 年依据挪威《大学与大学学院法案》（Act relating to Universities and University Colleges）正式创立。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 16)]]
 > - **机构性质** 挪威教育与研究部下属具有完全专业独立性的国家法定质量保障与认证机构。
 > - **总部地点** 挪威奥斯陆（Oslo, Norway）。
-> - **核心使命** 通过认证、周期性院校质量审计与实证监测，监督并推动挪威高等教育与高等职业教育的学术质量与国际竞争力。
+> - **核心使命** 通过认证、周期性院校质量审计与实证监测，监督并推动挪威高等教育与高等职业教育的学术质量与国际[[Competitiveness|竞争力]]。
 
 ---
 

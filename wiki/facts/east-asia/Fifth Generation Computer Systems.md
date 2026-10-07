@@ -12,7 +12,7 @@ subtype: program
 region: east-asia
 fact_region: "east-asia"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Von Neumann Architecture]]"
   - "[[Paradigm]]"
   - "[[Refined Mastery]]"
+  - "[[Competitiveness]]"
   - "[[Precompetitive Research]]"
 related_theories: []
 related_methods:
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-07
 ---
 
 # Fifth Generation Computer Systems
@@ -125,7 +126,7 @@ updated: 2026-10-04
 > > [!axis] 技术[[Paradigm|范式]]选择：专用智能架构 vs 通用计算微处理器
 > > 政府集中攻关选择激进颠覆性架构的战略风险评估。
 > >
-> > - **技术经济学批评** 批评指出[[Ministry of International Trade and Industry|通产省]]在范式选择上出现重大误判，未能预料到通用微处理器与摩尔定律在 1980 年代后期的惊人演进速度，专用推理机在商业化上彻底丧失了性价比竞争力。
+> > - **技术经济学批评** 批评指出[[Ministry of International Trade and Industry|通产省]]在范式选择上出现重大误判，未能预料到通用微处理器与摩尔定律在 1980 年代后期的惊人演进速度，专用推理机在商业化上彻底丧失了性价比[[Competitiveness|竞争力]]。
 > > - **基础科研与战略溢出辩护** 认为该项目虽然在商业终端失败，但其在大规模并行计算、自然语言处理与逻辑编程上培养的核心人才，直接支撑了日本随后在工业机器人、电子游戏与高精度控制领域的全球领先地位。
 
 ---

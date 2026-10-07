@@ -7,7 +7,7 @@ title: "Argument_Ramming_2025_CorporateSupport"
 argument_key: "Argument_Ramming_2025_CorporateSupport"
 argument_display_title: "Gaining Support Within Companies for Collaboration"
 argument_kind: "book"
-argument_related_count: 36
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -43,10 +43,12 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Innovation Ecosystem]]"
   - "[[Hypothesis]]"
+  - "[[Engineering Education]]"
   - "[[Precompetitive Research]]"
   - "[[Reliability]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Commensuration]]"
+  - "[[Competitiveness]]"
   - "[[STEM Education]]"
   - "[[Recommendations for Practice]]"
 related_theories:
@@ -346,7 +348,7 @@ publisher: "Springer"
 > - **单核频率提升黄金时代** 晶体管尺寸不断缩小，芯片上集成的晶体管数量翻倍，且在电场强度恒定[[Hypothesis|假设]]下单位面积功耗保持基本不变。这意味着微处理器的主频可以持续大幅拉升，老旧软件无需任何重写即可在新型电脑上显著变快，全行业享受了长达三十年的无缝升级红利。
 > - **功耗极限与多核转型** 2000 年代中后期，晶体管尺度逼近原子极限，漏电流呈指数级增加，单核频率撞上物理功耗墙。频率无法继续提升，芯片厂商只能被动转向多核架构，即通过在单个芯片上并列放置多个计算核心来延续晶体管增长。（pp. 234–235）
 
-硬件底层范式的突变，迅速在软件产业与工程教育界引发了全局性震荡（pp. 234–235）：
+硬件底层范式的突变，迅速在软件产业与[[Engineering Education|工程教育]]界引发了全局性震荡（pp. 234–235）：
 
 > [!challenges] 多核架构转型引发的两大产业系统性瓶颈
 > 1. **软件生态性能加速断层** 传统的单线程应用程序无法在多核芯片上自动获得性能提升，若软件代码不能全面重构为支持并发处理的架构，新型硬件将失去升级换代的吸引力，进而威胁整个信息产业链的增长动能。
@@ -423,7 +425,7 @@ UPCRC 的成功不仅解决了多核初期的软件生态瓶颈，更展现了[[
 > *The practitioner who can anticipate strategic inflection points in an industry and in a company will be better positioned to navigate change and shape productive outcomes. UI engagement naturally provides the practitioner with the advanced insights needed to anticipate and address such change.*
 
 > [!citation-card] 国家科技战略转型与跨部门协同伙伴关系呼吁
-> 为了保持国家的科技竞争力，我们必须在政府、学术界与产业界之间建立更高维度的深度协调与紧密伙伴关系，以此加快基础研究向现实应用的转化速率，在事关国家迫切需求的战略领域培育顶尖科技人才，在全国范围内激发基于科学、技术、工程与数学（Science, Technology, Engineering, and Mathematics, [[STEM Education|STEM]]）领域的区域经济繁荣，并将前沿关键技术源源不断地注入国家防务生态系统之中。（[[National Science Board|国家科学委员会]]主任达林·里德（Darin Reed）2024 年国会证词，pp. 237–238）
+> 为了保持国家的科技[[Competitiveness|竞争力]]，我们必须在政府、学术界与产业界之间建立更高维度的深度协调与紧密伙伴关系，以此加快基础研究向现实应用的转化速率，在事关国家迫切需求的战略领域培育顶尖科技人才，在全国范围内激发基于科学、技术、工程与数学（Science, Technology, Engineering, and Mathematics, [[STEM Education|STEM]]）领域的区域经济繁荣，并将前沿关键技术源源不断地注入国家防务生态系统之中。（[[National Science Board|国家科学委员会]]主任达林·里德（Darin Reed）2024 年国会证词，pp. 237–238）
 >
 > *To stay competitive, we will need more coordination and partnership among government, academia, and industry to speed the translation of research, develop talent in areas of national need, seed STEM-based economic development nationwide, and inject critical technologies into our national defense ecosystem.*
 

@@ -9,7 +9,7 @@ aliases:
 summary: "由约翰·金登（John Kingdon）创立并由尼古拉斯·扎哈利亚迪斯（Nikolaos Zahariadis）深化的公共政策分析框架；将政策制定过程解构为相对独立的问题流、政策流与政治流，阐明在决策歧义性与信息过载情境下，政策企业家如何抓住政策之窗实现三流耦合以促成改革议程设定。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Transfer Translation Transformation]]"
   - "[[School Autonomy]]"
+  - "[[Competitiveness]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 # Multiple Streams Framework
@@ -131,7 +132,7 @@ updated: 2026-09-26
 > 在 [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] 剖析的经合组织治理实践中：
 > ① **问题流** 2000 年德国在首届 PISA 中表现惨淡，经合组织指标将德国公立教育系统定性为“落后与不平等”，构成震撼全国的焦点事件；
 > ② **政策流** 经合组织早已在内部政策库中储备了基于国家标准、[[School Autonomy\|学校自主权]]与全日制学校的标准化改革处方；
-> ③ **政治流** 德国朝野政党面对选民恐慌与经济竞争力危机，形成了打破各联邦州教育割据的罕见政治共识；
+> ③ **政治流** 德国朝野政党面对选民恐慌与经济[[Competitiveness|竞争力]]危机，形成了打破各联邦州教育割据的罕见政治共识；
 > ④ **三流耦合** 经合组织专家作为跨国政策中介，趁机将预设处方与德国的国家危机深度绑定，开启了战后德国最激进的中央集权化教育标准改革。
 
 ---

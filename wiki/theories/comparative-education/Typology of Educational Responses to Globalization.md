@@ -9,7 +9,7 @@ aliases:
 summary: "拉斯特等人提出的全球化教育响应四分批判分析框架，整合主动采纳的接受、草根抗衡的抵制、本土赋权的恢复以及霸权强加的强制再生产四重动力机制，打破自愿对等借用假定并确立解放实践导向。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 37
+theory_related_count: 38
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Academic Attrition]]"
   - "[[Performance Indicators]]"
+  - "[[Competitiveness]]"
 related_theories:
   - "[[Dependency Theory]]"
   - "[[World-Systems Theory]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Typology of Educational Responses to Globalization
@@ -239,7 +240,7 @@ updated: 2026-10-02
 >
 > > [!axis] 资本主义全球化[[Convergence Theory in Comparative Education|趋同论]] vs 中心-边缘结构再生产与草根抵抗
 > > 全球化究竟是将全人类导向现代文明共同繁荣的普惠进程，还是西方核心资本主义国家维持不平等经济秩序的霸权扩张？
-> > - **新自由主义与现代化理论** 坚信西方工业现代性是人类进步的共同归宿，全球[[Performance Indicators|教育指标]]趋同能够提高[[Human Capital Theory|人力资本]]流动性与跨国经济竞争力。
+> > - **新自由主义与现代化理论** 坚信西方工业现代性是人类进步的共同归宿，全球[[Performance Indicators|教育指标]]趋同能够提高[[Human Capital Theory|人力资本]]流动性与跨国经济[[Competitiveness|竞争力]]。
 > > - **拉斯特等人批判类型学立场** 揭示将现代性等同于教育实质上构成了对资本主义不平等的合谋，全球化背景下的教育响应必然分化为接受、抵制、恢复与强制再生产的激荡博弈。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 133–134)]]
 >
 > > [!axis] [[Policy Borrowing|政策借用]]自愿互惠性 vs 跨国援助附带条件与依附强加

@@ -6,7 +6,7 @@ aliases:
 summary: "围绕知识生产、流动、控制和利用展开的地缘政治竞争形态，用于分析高等教育、科研和技术如何成为国际权力关系的一部分。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 82
+related_count: 83
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[Flow]]"
   - "[[Narrative Knowledge]]"
+  - "[[Competitiveness]]"
   - "[[Champ]]"
   - "[[Innovation Ecosystem]]"
   - "[[Knowledge-Based Economy]]"
@@ -107,7 +108,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Geopolitics of Knowledge
@@ -200,7 +201,7 @@ updated: 2026-10-05
 > ```
 
 > [!line-a] 空间竞争与知识经济化
-> 高等教育被嵌入关于未来、竞争力、经济增长的集体**政治想象**之中，这些想象驱动政策和制度变革（Thompson & Parreira do Amaral, 2022, p.11）。在此过程中，高等教育机构从民族国家框架中"脱位"并在全球政治经济[[Champ\|场域]]中"再定位"，物理空间（从知识储存场所转变为"makerspaces"）和社会空间全面**重构（Thompson & Parreira do Amaral, 2022, pp.6–7）**。[[Knowledge-Based Economization\|知识经济化]]将知识视为产生价值和比较优势的关键资产——包括专有知识（专利、创新）、创新学习环境和[[Human Capital Theory\|人力资本]]（Thompson & Parreira do Amaral, 2022, p.9）。
+> 高等教育被嵌入关于未来、[[Competitiveness|竞争力]]、经济增长的集体**政治想象**之中，这些想象驱动政策和制度变革（Thompson & Parreira do Amaral, 2022, p.11）。在此过程中，高等教育机构从民族国家框架中"脱位"并在全球政治经济[[Champ\|场域]]中"再定位"，物理空间（从知识储存场所转变为"makerspaces"）和社会空间全面**重构（Thompson & Parreira do Amaral, 2022, pp.6–7）**。[[Knowledge-Based Economization\|知识经济化]]将知识视为产生价值和比较优势的关键资产——包括专有知识（专利、创新）、创新学习环境和[[Human Capital Theory\|人力资本]]（Thompson & Parreira do Amaral, 2022, p.9）。
 
 > [!line-b] Hub-Flow 想象与固着-流动张力
 > [[Knowledge-Based Economization\|知识经济化]]的核心地缘政治悖论是[[Fixity-Motion Tension\|固着-流动张力]]：国家和地方的空间配置被创造出来以锚定和促进全球资本流动，但流动性本身又不断动摇这些配置的稳定性。集群、创意城市、学习区域、[[Innovation Ecosystem\|创新生态系统]]等成为[[Knowledge-Based Economy\|知识经济]]空间组织的具体表述——[[Hub and Flow Imaginaries]]将世界划分为[[Intellectual Capital|知识资本]]流动的枢纽中心与边缘区域，正是这种地缘政治想象的当代表现（[[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.27–28]]）。
@@ -277,7 +278,7 @@ updated: 2026-10-05
 #### 知识经济化与空间竞争
 
 > [!finding-cards]
-> 1. **[[Knowledge-Based Economization\|知识经济化]]与城市空间竞争** 大型城市日益体现国家竞争力，国家将资源转向首都和城市基础设施。[[Economic Patriotism\|经济爱国主义]]将特定领土的利益推进作为核心策略（[[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.28–29]]）
+> 1. **[[Knowledge-Based Economization\|知识经济化]]与城市空间竞争** 大型城市日益体现[[Competitiveness|国家竞争力]]，国家将资源转向首都和城市基础设施。[[Economic Patriotism\|经济爱国主义]]将特定领土的利益推进作为核心策略（[[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.28–29]]）
 > 2. **[[Spatial Sortings\|空间分选]]的系统性效应** 增长潜力集中在[[Knowledge-Based Economy\|知识经济]]城市枢纽，枢纽之外地区经历相对衰退。关键[[Research Problem\|研究议题]]：包容与排斥机制、被排斥人群的后果、国家的中介角色（[[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.30–31]]）
 > 3. **[[Global Regionalisms\|全球区域主义]]中教育角色转变** 从"国际组织如何影响教育"到"教育项目如何参与想象和建构世界区域本身"的[[Epistemology\|认识论]]转向（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.41]]）
 > 4. **[[International Education Hubs\|国际教育枢纽]]作为 GPK 的物质化** IEHs 集中于东亚和中东，从学生→人才→知识/[[Innovation Hub\|创新枢纽]]的梯级代表与知识经济逻辑越来越深度的整合；高等教育治理理性从社会/教育范畴转向经济范畴（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp.43–45]]）
@@ -439,5 +440,5 @@ updated: 2026-10-05
 > - [[University Industry Innovation Network\|UIIN]] Thoughtbook 系列 — "想象"被赋予证据地位以塑造政策：未来大学愿景以诊断性事实呈现，展示话语如何物质化为制度驱动力（Thompson & Parreira do Amaral, 2022, pp.3–4）
 > - 大学图书馆空间重构 — 从知识储存和智识闲暇场所（Muße）转变为"makerspaces"和创新创业中心，是 GPK 逻辑改造高等教育物理空间的物质性表现（Thompson & Parreira do Amaral, 2022, pp.4–6）
 > - 澳大利亚亚洲世纪白皮书（2012）— 将亚洲崛起定位为"机遇"；配套 AISRF and ACSRF 将研究合作与贸易外交目标深度绑定（[[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.99–100]]）
-> - [[Horizon Europe Missions]] — 将研究整合为针对五大社会挑战的使命承诺，反映欧盟以研究驱动全球竞争力和规范性影响力的地缘政治策略
+> - [[Horizon Europe Missions]] — 将研究整合为针对五大社会挑战的使命承诺，反映欧盟以研究驱动全球[[Competitiveness|竞争力]]和规范性影响力的地缘政治策略
 

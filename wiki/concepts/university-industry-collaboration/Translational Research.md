@@ -8,7 +8,7 @@ aliases:
 summary: "将学术实验室中的研究发现转化为可商业化产品或规模化应用的研究过程，在生物制药领域具体表现为从临床前研究到人体临床试验的桥梁功能"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Contract Research Organization]]"
   - "[[Academic Medical Center]]"
+  - "[[Engineering Education]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
 related_methods: []
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Translational Research
@@ -92,7 +93,7 @@ IBM 自身的经验揭示了转化研究的挑战：尽管在 1990–2020 年间
 > 1. 学术端 — 学术机构的激励机制以发表和 IP 创造为核心，缺乏将 IP 连接到产业需求的动力和路径。许多学术创新从未面世
 > 2. 产业端 — 即使在企业资助研究中产生了可操作的 IP，具备将研究创新推向硬化产品（hardened products）的工程师技能在产业研究部门同样稀缺
 
-这一缺口的弥合需要多方协作：[[National Science Foundation|NSF]] 的技术创新与伙伴关系（[[Directorate for Technology, Innovation and Partnerships|TIP]]）部门、NSF 的 Convergence Accelerator 项目允许企业首次作为 NSF 提案的主要受资助方，以及 ERVA（Engineering Research Visioning Alliance）对工程教育方向的探讨([[Argument_Narayan_Spohrer_2025_Metrics|Narayan & Spohrer, 2025, pp.96–97]])。
+这一缺口的弥合需要多方协作：[[National Science Foundation|NSF]] 的技术创新与伙伴关系（[[Directorate for Technology, Innovation and Partnerships|TIP]]）部门、NSF 的 Convergence Accelerator 项目允许企业首次作为 NSF 提案的主要受资助方，以及 ERVA（Engineering Research Visioning Alliance）对[[Engineering Education|工程教育]]方向的探讨([[Argument_Narayan_Spohrer_2025_Metrics|Narayan & Spohrer, 2025, pp.96–97]])。
 
 ---
 

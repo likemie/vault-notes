@@ -8,10 +8,10 @@ aliases:
 summary: "20世纪末在欧洲兴起的教育研究与实践范式，以多元文化社会中异质文化族群间的交互对话、相互学习与包容共生为核心；打破传统比较教育以民族国家为单一分析单元的局限，转向文化配置、移民融入、教材去偏见与课堂反思性互动。"
 type: concept
 domain: "comparative-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/comparative-education
   - subject/sociology-of-education
@@ -25,6 +25,7 @@ related_concepts:
   - "[[International Schools]]"
   - "[[Champ]]"
   - "[[International Education]]"
+  - "[[Patriotic Education]]"
   - "[[Hypothesis]]"
   - "[[International Baccalaureate]]"
 related_theories:
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Intercultural Education
@@ -106,7 +107,7 @@ updated: 2026-10-02
 > 双文化课程能在东道国文化与一个重要移民或外来群体之间建立桥梁。当学校容纳三四十个国籍，或学生教育经历横跨多国时，只用两种国家文化组织课程会把真实经验压缩得过窄。
 
 > [!claim] [[Alec Peterson|Peterson, A. D. C.]]
-> **教育的文化范围应与学生实际流动经验匹配** 彼得森认为，从国家与爱国教育走向国际教育时，法国国际选项式的双文化教育可以成为有价值的中间阶段，尤其适用于具有大规模单一移民群体或传统美国海外学校的情境。对于学生来自三四十个国家的真正[[International Schools|国际学校]]，这种二元结构却难以包容所有经验。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, p. 190)]]
+> **教育的文化范围应与学生实际流动经验匹配** 彼得森认为，从国家与[[Patriotic Education|爱国教育]]走向国际教育时，法国国际选项式的双文化教育可以成为有价值的中间阶段，尤其适用于具有大规模单一移民群体或传统美国海外学校的情境。对于学生来自三四十个国家的真正[[International Schools|国际学校]]，这种二元结构却难以包容所有经验。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, p. 190)]]
 
 > [!contrast-table] 三种教育范围的适用条件不同
 > | 范围 | 主要参照 | 适用情境 | 主要风险 |

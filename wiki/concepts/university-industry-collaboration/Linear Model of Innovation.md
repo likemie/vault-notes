@@ -6,10 +6,10 @@ aliases:
 summary: "一种预设从基础科学到技术开发再到经济增长单向因果链的概念模型；战后主导科技政策资源配置，后因忽视反馈机制、轻视工程发明的前提使能地位而遭受系统性批判"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 32
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/innovation-studies
   - theme/science-policy
@@ -33,11 +33,13 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Paradigm]]"
   - "[[Multi-channel Interactive Learning Model]]"
+  - "[[Variable]]"
 related_theories:
   - "[[Discovery-Invention Cycle]]"
   - "[[Pasteur's Quadrant]]"
   - "[[Systems of Innovation]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -47,13 +49,15 @@ related_persons:
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Lisbon Strategy]]"
+  - "[[Science A New Golden Age 2026]]"
 related_arguments:
   - "[[Argument_Caraca_2009_TFSC]]"
   - "[[Argument_Narayanamurti_2013_IST]]"
+  - "[[Argument_Kratsios_2026_OSTP]]"
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Linear Model of Innovation
@@ -152,6 +156,7 @@ updated: 2026-10-06
 > - **1997 — [[Pasteur's Quadrant|帕斯德象限]]二维修正** [[Donald Stokes|唐纳德·斯托克斯]]（Donald Stokes）提出二维动机矩阵，打破单一维度，确立用启发性基础研究的正统地位。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
 > - **2000s — 政策惯性与反思** 欧盟[[Lisbon Strategy|里斯本议程]]设立研发占比 3% 的巴塞罗那目标；然而欧洲悖论的蔓延促使若昂·卡拉萨等人（2009）提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，警惕大学专利化扭曲。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 861–865)]]
 > - **2013 — 宣告二分法与线性论终结** 纳拉亚纳穆尔提等人以半个世纪 ICT 领域的物理学诺奖谱系为证，证明关键发明直接作为科学发现的实验物理载体，提出[[Discovery-Invention Cycle|发现-发明循环]]理论以彻底更替线性创新模型。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]
+> - **2026 — 联邦政策文本宣布管道失真** 《[[Science A New Golden Age 2026|科学：新的黄金时代]]》保留布什报告关于公共资助的理由，同时判定从基础研究到应用再到开发的单向分工已不能描述当代发现。企业既做基础研究，工程难题也反向提出科学问题。替代框架是[[Pasteur's Quadrant|巴斯德象限]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–7)]]
 
 ---
 
@@ -173,8 +178,21 @@ updated: 2026-10-06
 
 ---
 
+## 实证数据
+
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 5–6)]] | 美国研发经费，基础研究按执行者和资助来源 | 报告转述国家科学与工程统计中心的国家研发格局 | 企业研发总量；基础研究的私人执行与私人出资 | 美国企业每年部署约 7000 亿美元，超过政府与高等教育合计的三倍。私人部门基础研究在过去二十年快速增长，执行端已可与高等教育相比，资助端已可与联邦政府相比 | — | 用来说明“政府做基础、企业做开发”的分工与经费结构不符。图中金额为 2017 年不变价。不是创新产出的效应量 |
+> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 41)]] | 美国基础研究经费来源份额 | 报告转述的历史比较 | 联邦与产业在基础研究经费中的份额 | 1960 年代联邦资助美国全部基础研究的 70% 以上。报告写作时联邦份额降至 40%，产业份额升至远高于 35% | — | 份额变化支持管道失真，不能单独证明大学基础研究变弱 |
+
+---
+
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 以私人基础研究的上升、诺贝尔奖级的用启发性工作，以及仍按学科和大学课题组组织的联邦机构，论证线性管道作为预算[[Hypothesis|假设]]已经失真。
 > - [[Argument_Caraca_2009_TFSC|Caraça et al., 2009]] — 梳理科学在创新过程中角色的历史演进，批判线性模型引发的大学商业化偏向，提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 深入批判线性模型深层的文化偏见，以六届诺贝尔物理学奖演进谱系证明工程发明对基础科学的反向催生，宣告线性创新模型的终结。

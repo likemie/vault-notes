@@ -7,7 +7,7 @@ aliases:
 summary: "由 Dosi 与 Pavitt 奠基的演化经济学核心理论，指技术变迁沿特定范式方向进行累积性、不可逆与路径依赖的演进；阐明技术来源、需求与专有性塑造产业异质性，以及军工首发采购、反垄断规制与嵌入型网络治理如何引导并协同新兴通用技术轨道的跨国分叉与起飞。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 62
+theory_related_count: 63
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Vertical Disintegration]]"
   - "[[Network Plasticity]]"
+  - "[[Competitiveness]]"
   - "[[Big Science]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Complexity Paradox]]"
@@ -88,7 +89,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-11
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Technological Trajectories
@@ -124,7 +125,7 @@ updated: 2026-10-06
 > - **1989/1993 — 路径依赖与技术锁定理论深化** 阿瑟（W. Brian Arthur, 1989）与纳尔逊（Nelson, 1993）揭示技术轨迹因收益递增和网络外部性极易形成“技术锁定”（Lock-in），即使存在更优技术路线也难以自发替代劣质成熟技术（如 QWERTY 键盘效应）。
 > - **1998 — 产业技术轨迹分化与架构创新跃迁** 杰弗里·T·马歇尔、戴维·C·莫厄里与戴维·A·霍奇斯（[[Argument_Macher_1998_CMR|Macher, Mowery, & Hodges, 1998]]）实证剖析了全球半导体产业技术轨迹的分叉演进：日本厂商在“重资产、大宗存储器良率微缩（DRAM）”轨道上确立制造垄断，而美国厂商则开辟并引领了“微处理器架构（MPU）、定制逻辑芯片与[[Vertical Disintegration|垂直专业化分工]]”的新兴轨迹，证明技术范式跃迁能从根本上重塑国际产业竞争格局。
 > - **2010 — [[Vertical Disintegration|纵向碎片化产业]]中嵌入型网络对技术轨道的引导** [[Erica Fuchs|埃丽卡·福克斯]]（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）深化了技术轨迹理论在纵向碎片化（Dis-integrated）产业情境下的微观机制，实证证明公共部门代理人（如 [[DARPA]] 项目经理）可通过调动“[[Network Plasticity|网络可塑性]]”（Network Plasticity）与五大非正式机制，在不挑选单一赢家的前提下，主动识别、播撒并重塑共性技术轨道（如硅锗、应变硅、3D 封装与光互连）。
-> - **2016 — 跨国定量操作化与检验** 博利亚奇诺与皮安塔（[[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta, 2016]]）基于欧洲创新调查（CIS）数据库，通过主成分分析将四大技术轨迹操作化为“技术竞争力”与“成本竞争力”两个正交轴线，完成跨国大样本定量检验。
+> - **2016 — 跨国定量操作化与检验** 博利亚奇诺与皮安塔（[[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta, 2016]]）基于欧洲创新调查（CIS）数据库，通过主成分分析将四大技术轨迹操作化为“技术[[Competitiveness|竞争力]]”与“成本竞争力”两个正交轴线，完成跨国大样本定量检验。
 > - **2018 — 使命导向与技术轨迹主动重塑** [[Mariana Mazzucato|马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）指出，面对气候危机与生态极限，创新政策不能仅被动适应既有技术轨迹，而必须依托ROAR 治理框架设定国家战略使命，主动打破传统高碳技术轨迹的锁定，培育全新的绿色与可持续技术轨道。
 > - **2018 — 三代使命演进与跨部门轨迹协同** 莱纳·[[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）系统梳理后发追赶（骆驼）、[[Big Science|大科学]]攻坚（狮子）到社会–技术挑战（儿童）三代使命轨迹治理形态，指出应对 21 世纪棘手挑战必须依托敏捷实验与三层[[Public Dynamic Capabilities|公共动态能力]]化解[[Complexity Paradox|复杂性悖论]]。
 
@@ -280,7 +281,7 @@ updated: 2026-10-06
 > > - **[[Embedded Network Governance|嵌入型网络治理]]学派（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）** 实证表明，公共代理人（如 [[DARPA]] PMs）并非直接挑选单一企业赢家，而是通过小额[[Seed Funding|种子资助]]、组织闭门[[Brainstorming|头脑风暴]]与搭建跨界研发共同体，在共性技术层面播撒构想并调动[[Network Plasticity|网络可塑性]]，系统引导国家前沿技术轨道跃迁。
 > >
 > > [!axis] 大宗制造工艺微缩轨迹 vs. 架构设计与模块化轨迹（Process Optimization vs. Architectural Design）
-> > 产业国际竞争力究竟取决于在既有标准化轨迹上的制造良率微缩，还是取决于开辟全新架构与细分设计轨迹的能力。
+> > 产业国际[[Competitiveness|竞争力]]究竟取决于在既有标准化轨迹上的制造良率微缩，还是取决于开辟全新架构与细分设计轨迹的能力。
 > >
 > > - **制造工艺累积派** 强调对高资本密度工艺流程（如 DRAM 制造）的持续学习与[[Statistical Process Control|统计过程控制]]能够构筑不可逾越的制造壁垒。
 > > - **架构跃迁与模块化派（[[Argument_Macher_1998_CMR|Macher et al., 1998]]）** 实证表明，当市场需求从大宗存储器转向个人计算微处理器与定制芯片时，传统的制造微缩轨迹面临收益递减；开辟微处理器架构创新与垂直专业化（Fabless-Foundry）新轨迹能够迅速瓦解传统制造巨头的垄断优势。

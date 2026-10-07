@@ -23,9 +23,9 @@ related_concepts:
   - "[[Student Satisfaction]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Competitiveness]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Knowledge Production]]"
-  - "[[Competitiveness]]"
   - "[[Promising Student]]"
   - "[[Online Self-Assessment]]"
   - "[[Preemptive Governance]]"
@@ -105,7 +105,7 @@ updated: 2026-10-02
 - **[[Internationalization of Higher Education|高等教育国际化]]与学术劳动力市场的全球化** 跨国学生和学者流动促使可比较指标的产生
 - **高等教育的商业化与市场机制的引入** 教育被视为服务商品，需要"质量标签"
 - **后中等教育机构的多样化** 各类新设机构需要区别于传统大学的定位标志
-- **知识在现代社会中地位的变化及其经济角色的提升**[[Knowledge-Based Economy|知识经济]]使大学成为国家竞争力的核心资产
+- **知识在现代社会中地位的变化及其经济角色的提升**[[Knowledge-Based Economy|知识经济]]使大学成为[[Competitiveness|国家竞争力]]的核心资产
 - **高等教育作为国家竞争力晴雨表的重要性上升** 政府需要排名来评估本国高校在全球的位置
 - **"审计社会"（audit society）的兴起** 问责和评估成为规范（Power, 1997, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.131]]）
 

@@ -8,10 +8,10 @@ aliases:
 summary: "2010年代以来在心理学、生物医学及社会科学中爆发的大量已发表经典研究无法被独立复现的方法论危机，不仅动摇了科学的内在认知权威，更被行政当局工具化为借由程序审计收紧科学自治的契约性规约杠杆。"
 type: concept
 domain: "science-policy"
-related_count: 16
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/science-policy
   - theme/research-integrity
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Preregistration]]"
   - "[[Variable]]"
   - "[[Big Science]]"
+  - "[[Document]]"
   - "[[Publication Bias]]"
   - "[[Hypothesis]]"
 related_theories: []
@@ -33,15 +34,18 @@ related_facts:
   - "[[Restoring Gold Standard Science Executive Order]]"
 related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
+  - "[[Argument_Kratsios_2026_OSTP]]"
 related_methods:
   - "[[External Auditor]]"
   - "[[Statistical Significance]]"
   - "[[Qualitative Research]]"
+  - "[[Effect Size]]"
+  - "[[Sampling Frame]]"
   - "[[Correlational Research]]"
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Reproducibility Crisis
@@ -122,6 +126,16 @@ updated: 2026-10-06
 
 ---
 
+### 命题三　生成成本下降以后，可重复性危机的瓶颈从生产发现转到核验发现
+
+> [!concept-lens] 生成与核验
+> 讨论人工智能降低写论文和写假说的成本之后，不可重复的[[Document|文献]]会如何被放大。
+
+> [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
+> **核验没有跟着变便宜** 新发现有经费和声望，确认别人的工作几乎没有荣耀。手工核验配不上每年的发表量。人工智能若只是让看似可信的结果更容易生产，而训练它的知识库本身充满错误，生产率的提高会把错误往下传递。可重复、数据共享和方法记录因此被要求成为自动核验的条件，而不是事后的美德。[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, pp. 64–65]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -129,6 +143,7 @@ updated: 2026-10-06
 > |---|---|---|---|
 > | **认知权威动摇** | 可重复性危机动摇了科学共同体的内在认知权威，瓦解了战后默认信任契约 | 实证社会科学、生物医药以及气候科学公共公信力危机 | 樊春良 |
 > | **政治借用与治理异化** | 方法论危机被行政权力借用为收紧学术自治、推行可验证性审计的规约工具 | 当代科学政策转型、黄金标准行政令与政府—大学关系博弈 | 樊春良 |
+> | **生成与核验脱节** | 生成变便宜之后，不可重复的文献会被人工智能放大，除非核验基础设施与生成同规模 | 联邦资助研究、人工智能科学和数学形式验证 | Kratsios |
 
 ---
 
@@ -165,7 +180,22 @@ updated: 2026-10-06
 
 ---
 
+## 实证数据
+
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 18)]] | 一项试图重复 100 项心理学研究的工作 | 报告转述的复制尝试 | 成功重复的研究数 | 成功的不到 40 项 | — | 报告未给出原研究的[[Sampling Frame\|抽样框]]和效应量 |
+> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 64)]] | 心理学与实验经济学的复制尝试；临床前生物医学 | 报告转述的复制率和经费估计 | 复制失败比例；不可重复发现所误导的年度经费 | 心理学复制尝试有二分之一到三分之二失败。实验经济学中超过三分之一的著名研究未能复制。一项估计称，仅临床前生物医学的不可重复发现每年误导约 280 亿美元 | — | 两个心理学口径分别来自报告第 18 页和第 64 页，不能合成一个总失败率 |
+> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 18)]] | 一篇 2009 年阿尔茨海默病论文 | 报告叙述的单篇轨迹 | 引用、撤稿滞后 | 2012 年已被证明不可重复并导致赞助药企停止开发，论文仍积累 800 次以上引用，约 15 年后才撤稿 | — | 单篇案例，不能代表领域的撤稿分布 |
+> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 65)]] | 人工智能会议投稿 | 报告转述的年度变化 | 投稿量增幅 | 领先会议在一年内投稿涌增 60% | — | 用来说明核验容量被生成速度超过，不是可重复率本身 |
+
+---
+
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 把复制失败、迟来的撤稿和人工智能带来的投稿涌增收成一个判断：生成变便宜之后，必须建设与之同规模的核验。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从科学政策与政治社会学视角切入，揭示可重复性危机如何从学术界内部的方法论讨论，被美国行政中枢借用为重塑科学合法性基础、将学术自治压制为受限自治的契约性工具。

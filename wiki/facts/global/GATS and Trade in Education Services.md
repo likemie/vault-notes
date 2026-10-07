@@ -11,7 +11,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Analytical Stance]]"
   - "[[Attrition]]"
+  - "[[Competitiveness]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
   - "[[Pluri-Scalar Governance]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # GATS and Trade in Education Services
@@ -173,7 +174,7 @@ updated: 2026-10-06
 > > [!axis] 中心大国战略机动性 vs 边缘小国宏观主权沦丧
 > > 争论 GATS 对主权国家调控教育能力的非对称冲击。
 > >
-> > - **[[Robert Arnove|阿诺夫]]（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）** 深刻论证，GATS 带来了极不平等的主权侵蚀：大国能够主动利用规则提升国家竞争力，而牙买加、尼加拉瓜等经济体量弱小的国家则在世贸规约面前彻底丧失了宏观调控教育与维护国民福利的能力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
+> > - **[[Robert Arnove|阿诺夫]]（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）** 深刻论证，GATS 带来了极不平等的主权侵蚀：大国能够主动利用规则提升[[Competitiveness|国家竞争力]]，而牙买加、尼加拉瓜等经济体量弱小的国家则在世贸规约面前彻底丧失了宏观调控教育与维护国民福利的能力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
 
 > [!citation-card] 代表性评论
 > 语言和文本可以创造、转变或维系意识形态。在服务贸易总协定的案例中，这种意识形态反映了一种新帝国主义——更强大的国家将发展中国家保留为市场，并在其中继续在智识上进行统治。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, p. 97, citing Collins, 2007, p. 283)]]

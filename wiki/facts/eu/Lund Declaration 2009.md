@@ -5,7 +5,7 @@ subtype: document
 region: eu
 fact_region: "eu"
 fact_kind: "document"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ tags:
   - theme/transformative-change
   - theme/horizon-2020
 related_concepts:
+  - "[[Competitiveness]]"
   - "[[Paradigm]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Grand Challenges]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-07
 title: Lund Declaration 2009
 aliases:
   - 隆德宣言
@@ -57,7 +58,7 @@ aliases:
 ## 历史定位与宗旨
 
 > [!claim] 核心定位
-> 《隆德宣言》（Lund Declaration 2009，全称《欧洲必须聚焦于我们时代的重大挑战》）是 2009 年 7 月在瑞典隆德举行的欧盟主席国科研大会上通过的标志性政策文件；它确立了欧洲研究与技术开发（Research and Technological Development, R&D）必须彻底打破狭隘的单一行业竞争力[[Paradigm|范式]]，全面转向以应对气候变化、能源安全、公共健康与人口老龄化等全球重大社会挑战为核心战略导向，被公认为欧洲第三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]演进的根本制度里程碑。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789)]]
+> 《隆德宣言》（Lund Declaration 2009，全称《欧洲必须聚焦于我们时代的重大挑战》）是 2009 年 7 月在瑞典隆德举行的欧盟主席国科研大会上通过的标志性政策文件；它确立了欧洲研究与技术开发（Research and Technological Development, R&D）必须彻底打破狭隘的单一行业[[Competitiveness|竞争力]][[Paradigm|范式]]，全面转向以应对气候变化、能源安全、公共健康与人口老龄化等全球重大社会挑战为核心战略导向，被公认为欧洲第三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]演进的根本制度里程碑。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789)]]
 
 > [!doc-context] 文本背景与制度脉络
 > - **签署时间与地点** 2009 年 7 月 8 日于瑞典隆德（Lund, Sweden），由瑞典欧盟理事会轮值主席国与欧洲委员会共同发起。

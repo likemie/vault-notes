@@ -9,7 +9,7 @@ aliases:
 summary: "由斯蒂芬·鲍尔（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell）系统区分的两种教育私有化形态。内生私有化指将私营部门的市场逻辑、绩效评估与新公共管理引入公立教育体系内部；外生私有化指通过特许学校、合同外包与公私伙伴关系将公共教育供给转移至私营部门。鲍尔与托雷斯等学者进一步将其定性为新自由主义国家重构教育权力的阶级策略。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[International Education]]"
   - "[[Structural Adjustment Programs]]"
+  - "[[Competitiveness]]"
   - "[[Variable]]"
   - "[[Policy Network]]"
   - "[[Network Governance]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # Endogenous and Exogenous Privatisation
@@ -198,7 +199,7 @@ updated: 2026-09-29
 > > [!axis] 暂行性财政纾困策略 vs. 永久性制度逻辑异化
 > > 争论高等教育依托国际留学生全额学费是应对阶段性财政赤字的实用手段，还是导致大学精神彻底企业化的永久异化。
 > >
-> > - **大学管理层与财政官员** 辩称面向国际市场创收是弥补公共预算不足、保障学术机构维持全球竞争力的必要权宜之计。
+> > - **大学管理层与财政官员** 辩称面向国际市场创收是弥补公共预算不足、保障学术机构维持全球[[Competitiveness|竞争力]]的必要权宜之计。
 > > - **高等教育批判学者 ([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, p. 97]])** 论证指出该模式不仅不可逆，更彻底改造了学术价值观与空间布局，使公立大学彻底沦为跨国商业营销机器。
 
 ---

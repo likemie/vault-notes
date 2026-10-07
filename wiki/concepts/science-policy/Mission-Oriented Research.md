@@ -8,10 +8,10 @@ aliases:
 summary: "由国家或公共权力自上而下设定明确战略目标、聚焦国家安全与重大关键技术突破的研发组织范式，强调战略需求牵引、资源垂直集中动员与确定性交付，与自由探索型研究及应用启发型研究构成现代科研生态的三大分化轨道。"
 type: concept
 domain: "science-policy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/science-policy
   - theme/science-policy
@@ -37,6 +37,7 @@ related_theories:
 related_facts:
   - "[[Research in Schools Evaluation]]"
   - "[[A Strategy for American Innovation 2011]]"
+  - "[[Genesis Mission]]"
 related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
 related_methods:
@@ -44,7 +45,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Mission-Oriented Research
@@ -143,7 +144,7 @@ updated: 2026-10-06
 > [!dev-timeline] 任务导向研发组织[[Paradigm|范式]]的历史演化
 > - **1940s–1970s — 战时与冷战初期军事防务任务期** 以曼哈顿计划、雷达网及阿波罗登月工程为代表，在国家存亡与阵营威慑统摄下，建立起早期由政府资助的大规模战略攻坚模式。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1057)]]
 > - **2010s — 重大社会挑战与使命导向扩张期** 以 2011 年《[[A Strategy for American Innovation 2011|美国创新战略]]》为标志，任务导向由纯国防工程扩展至气候变化、新能源、先进制造等宏大社会问题（[[Grand Challenges]]）。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
-> - **2025s–至今 — 关键战略技术[[Zero-Sum Competition|排他性竞争]]期** 在[[Technology-Oriented Social Contract|技术型社会契约]]导向下，以[[Generative Artificial Intelligence|生成式人工智能]]、先进制程与量子通信为核心，推行“创世纪计划”与“AI 行动计划”，国家实验室与商业巨头成为攻关主体，确立确定性技术能力的绝对主导地位。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062, 1064)]]
+> - **2025s–至今 — 关键战略技术[[Zero-Sum Competition|排他性竞争]]期** 在[[Technology-Oriented Social Contract|技术型社会契约]]导向下，以[[Generative Artificial Intelligence|生成式人工智能]]、先进制程与量子通信为核心，推行“[[Genesis Mission|创世纪计划]]”与“AI 行动计划”，国家实验室与商业巨头成为攻关主体，确立确定性技术能力的绝对主导地位。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062, 1064)]]
 
 ---
 

@@ -10,7 +10,7 @@ aliases:
 summary: "大学与企业之间在正式协议框架下建立的有目的、深协同的制度化参与关系，横跨研究学术、教育学习与公共效益三大维度；其历史历经战后脱钩与 1980 年代法制重构，在释放实体创新潜力的同时伴生微观组织碎片化与代工车间异化的深层张力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 70
+related_count: 71
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -66,6 +66,7 @@ related_persons: []
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Engineering Research Centers]]"
+  - "[[Science and Technology Centers]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Semiconductor Research Corporation]]"
   - "[[Smith Lever Act of 1914]]"
@@ -97,7 +98,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # University-Industry Collaboration
@@ -186,7 +187,7 @@ updated: 2026-10-06
 > 单靠市场力量或大学自发意愿无法扭转战后产学脱钩，必须依托国家立法赋权与长达十余年的长效科研基金引导。
 
 > [!claim] Atkinson & Blanpied
-> **战后产学历史脱钩与国家立法重构** 二战前私营企业曾承担全美三分之二的研发开支，但战后联邦资金对基础研究的垄断性投入导致大学科研与产业需求长达三十年严重脱钩（1975 年企业资助仅占大学科研经费的 3.3%）。1970 年代末，联邦政府通过 1978 年 [[National Science Foundation|NSF]] 产学合作试点计划（进而拓展为资助周期长达 11 年的[[Engineering Research Centers|工程研究中心]] ERC 与科技研究中心 STC），叠加 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》将联邦成果专利所有权下放给高校，从法律与资助工具两端系统性恢复并重塑了全美现代产学共生机制。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 39–41)]]
+> **战后产学历史脱钩与国家立法重构** 二战前私营企业曾承担全美三分之二的研发开支，但战后联邦资金对基础研究的垄断性投入导致大学科研与产业需求长达三十年严重脱钩（1975 年企业资助仅占大学科研经费的 3.3%）。1970 年代末，联邦政府通过 1978 年 [[National Science Foundation|NSF]] 产学合作试点计划（进而拓展为资助周期长达 11 年的[[Engineering Research Centers|工程研究中心]] ERC 与科技研究中心 [[Science and Technology Centers|STC]]），叠加 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》将联邦成果专利所有权下放给高校，从法律与资助工具两端系统性恢复并重塑了全美现代产学共生机制。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 39–41)]]
 
 > [!claim] Ulrichsen
 > **[[Systems of Innovation|创新系统]]重嵌与[[Third Mission|大学第三使命]]制度化** 冷战结束后大[[Corporate R&D Labs|企业中央实验室]]衰落与国际竞争加剧，驱动大学从与工业界脱钩全面转向重新嵌入创新系统；经过英国取消 BTG 垄断、美国拜杜法案赋权及中国《科技进步法》出台，大学正式将促进区域创新与经济发展的“第三使命”予以法制化确立。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 38–44)]]

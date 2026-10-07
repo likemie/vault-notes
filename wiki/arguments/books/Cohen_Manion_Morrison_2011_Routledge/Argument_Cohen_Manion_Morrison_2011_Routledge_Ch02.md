@@ -11,10 +11,10 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_display_title: "Research Methods in Education · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 74
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
-argument_related_color: "#fef3c7"
+argument_related_count: 75
+argument_related_level: 5
+argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_color: "#fecdd3"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
 year: 2011
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Scientism]]"
   - "[[Critical Pedagogy]]"
+  - "[[Metascience]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Variable]]"
   - "[[Unit of Analysis]]"
@@ -388,7 +389,7 @@ Tyler（1949）的课程四问原理如下：
 >
 > 终极目标是**个人在一个公正社会中的自主性（Masschelein, 1991, p. 97）** 学生不是被训练成现存秩序的适应者和执行者，而是成长为能够识别支配、表达异议、参与社会变革的公民。
 
-然而，Miedama & Wardekker（1999, p. 68）的尖锐批评不容忽视：批判教育学可能已经过时了，它是一个死胎；而批判理论本身可能是没有科学的科学哲学（p.75）。这一批评指向批判教育学的一个核心困境：**它的修辞远比它的实践证据丰富。**
+然而，Miedama & Wardekker（1999, p. 68）的尖锐批评不容忽视：批判教育学可能已经过时了，它是一个死胎；而批判理论本身可能是没有[[Metascience|科学的科学]]哲学（p.75）。这一批评指向批判教育学的一个核心困境：**它的修辞远比它的实践证据丰富。**
 
 ---
 
@@ -634,7 +635,7 @@ Webb 等（2004）将女性主义原则应用于研究方法论的教学情境�
 > - **[[Critical Theory\|批判理论]]的经验基础尚未建立** [[Jürgen Habermas\|哈贝马斯]]本人承认其观点仅具"[[Hypothesis\|假设]]地位"（1990, p. 32），但尚未完成对其理论的系统经验检验。批判理论声称具有赋权效果，但这一声称**可检验而未被充分检验**。
 > - **三种兴趣三分法的概念模糊性** 我们不清楚三种兴趣究竟是概念模型、政治分析、普遍性陈述、超历史原则还是仅靠歧义存活的定义（Morrison, 1995a, p. 71）。
 > - **[[Action Research\|行动研究]]的赋权声称缺乏证据** 给予教育者小范围内的研究权力对真正权力中心的影响微乎其微。Bernstein（1970）的"教育无法补偿社会"适用于此。
-> - **[[Critical Pedagogy\|批判教育学]]可能缺乏实质内容** Miedama & Wardekker（1999, p. 68）断言批判教育学"是死胎"、批判理论是"没有科学的科学哲学"（p.75）。
+> - **[[Critical Pedagogy\|批判教育学]]可能缺乏实质内容** Miedama & Wardekker（1999, p. 68）断言批判教育学"是死胎"、批判理论是"没有[[Metascience|科学的科学]]哲学"（p.75）。
 > - **[[Participatory Research\|参与式研究]]的内在模糊性** 其研究目标、研究者-参与者关系、方法和结果方面存在根本模糊。权力精英的可能抵制使 PR 参与者面临实质性风险。
 > - **[[Feminist Research\|女性主义研究]]的内部深刻分歧** 量化与质性的角色、研究者与参与者的关系边界、政治化的风险与收益——这些问题远未解决，且"解放"本身可能带来新的脆弱。
 

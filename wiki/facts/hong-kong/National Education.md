@@ -9,9 +9,9 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
 tags:
 - national-education
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Zhonghua Minzu]]"
   - "[[Document]]"
+  - "[[Patriotic Education]]"
   - "[[Membership-Creating Function of Education]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 ## 定义
@@ -77,7 +78,7 @@ updated: 2026-09-22
 
 > [!example] 与相关概念的区别
 > - **vs 公民教育（Citizenship Education）** — 公民教育可以包含权利意识、民主参与；而国民教育在香港语境中侧重义务、忠诚和服从。Law (2013) 曾指出中共试图在保存党性教条和适应全球化之间取得平衡，但近年来的[[Document\|文献]]（Vickers & Morris, 2022）认为天平已完全倾向前者。
-> - **vs 爱国主义教育（Patriotic Education）** — 国民教育是实施爱国主义教育的制度手段。[[Citizenship and Social Development\|CSD]] 是爱国主义的课程载体。
+> - **vs [[Patriotic Education|爱国主义教育]]（Patriotic Education）** — 国民教育是实施爱国主义教育的制度手段。[[Citizenship and Social Development\|CSD]] 是爱国主义的课程载体。
 > - **vs [[Liberal Studies]]** — LS 包含对现代中国的知识学习但明确不强调忠诚培养；国民教育以忠诚和认同为核心目标。
 
 ---
@@ -124,7 +125,7 @@ updated: 2026-09-22
 > - Leibold & Dorjee (2024) 在西藏记录了强制性国民教育如何消除地方语言和文化认同
 > - Tobin (2024) 在新疆记录了"普通话化"的教育政策
 > - [[Argument_Bulag_2024_CE\|Bulag (2024)]] 在内蒙古记录了"[[Zhonghua Minzu\|中华民族]]"叙事如何替代蒙古族历史叙事
-> - [[Argument_Yan_2025_JCS\|Yan & Morris (2025, p. 490)]] 将香港纳入同一框架，论证这是中共在边疆地区推行"中华民族"统一认同的连贯策略——区别在于香港的'华化'（sinicisation）被更谨慎地执行，先以 LS 的温和"中国背景"为入口，后以 CSD 的强制爱国教育收尾。
+> - [[Argument_Yan_2025_JCS\|Yan & Morris (2025, p. 490)]] 将香港纳入同一框架，论证这是中共在边疆地区推行"中华民族"统一认同的连贯策略——区别在于香港的'华化'（sinicisation）被更谨慎地执行，先以 LS 的温和"中国背景"为入口，后以 CSD 的强制[[Patriotic Education|爱国教育]]收尾。
 >
 > **目前状态** 国际学术界日益将此视为跨国比较的研究对象，但在中国大陆内部这一比较被视为政治敏感。
 

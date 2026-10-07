@@ -8,7 +8,7 @@ aliases:
 summary: "断裂平衡理论中政策企业家用于打破制度垄断的关键策略，指行动者在原有决策体制因既得利益阻碍陷入僵局时，策略性搜寻并转向对自身政策理念更为友好的替代性制度场所（如联邦法院、行政委员会、州际横向组织或私人慈善网络），通过转移博弈主场以重构政策形象并实现合法化破局。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Policy Image]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Competitiveness]]"
   - "[[Champ]]"
 related_theories:
   - "[[Punctuated Equilibrium Theory]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 # Venue Shopping
@@ -73,7 +74,7 @@ updated: 2026-09-26
 > [!feature] 核心要素
 > - **原有场所的制度僵局识别** 清醒认识到在传统立法场所有强大否决集团（如保守派反对联邦干预、地方学区捍卫自主权）。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 8)]]
 > - **替代性场所的筛选与定制** 挑选具备政治声望但无需经历复杂立法辩论的行政联合网络（如[[National Governors Association|全国州长协会]]与[[Council of Chief State School Officers|州首席教育官理事会]]）。
-> - **[[Policy Image|政策形象]]重塑的同步配合** 将原本被界定为“联邦集权削弱地方自治”的争议议题，重新包装为“各州自愿联合维护国家全球经济竞争力与教育诚信”的卓越叙事。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–11)]]
+> - **[[Policy Image|政策形象]]重塑的同步配合** 将原本被界定为“联邦集权削弱地方自治”的争议议题，重新包装为“各州自愿联合维护国家全球经济[[Competitiveness|竞争力]]与教育诚信”的卓越叙事。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–11)]]
 
 > [!logic-map]- [[Common Core State Standards|CCSS]] 运动中的制度场所转换路径
 > ```mermaid
@@ -109,7 +110,7 @@ updated: 2026-09-26
 > 光换场地并不足以确保成功，新场地必须配套新证据与新话语，以适应新受众的合法性要求。
 
 > [!claim] McDonnell, L. M. & Weatherford, M. S.
-> **以危机数据支撑新制度场所的合法性** 场所转换成功的前提是行动者为议题建构了全新的[[Policy Image|政策形象]]。在转向 NGA 与 CCSSO 的同时，政策企业家迅速抛弃了以往抽象的文化价值辩论，转而动员美国国家教育统计中心（NCES）关于各州自设合格线存在巨大虚假水分的刻度映射数据，以及国际测评（[[TIMSS]]/[[PISA]]）所呈现的国家竞争力滑坡指标。这套具有震撼力的实证证据使各州行政首长深信，各州自行其是的百年垄断正在给美国经济制造致命伤害，从而使新场所内的行政协调获得了无可辩驳的合法正当性。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–11)]]
+> **以危机数据支撑新制度场所的合法性** 场所转换成功的前提是行动者为议题建构了全新的[[Policy Image|政策形象]]。在转向 NGA 与 CCSSO 的同时，政策企业家迅速抛弃了以往抽象的文化价值辩论，转而动员美国国家教育统计中心（NCES）关于各州自设合格线存在巨大虚假水分的刻度映射数据，以及国际测评（[[TIMSS]]/[[PISA]]）所呈现的[[Competitiveness|国家竞争力]]滑坡指标。这套具有震撼力的实证证据使各州行政首长深信，各州自行其是的百年垄断正在给美国经济制造致命伤害，从而使新场所内的行政协调获得了无可辩驳的合法正当性。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–11)]]
 
 ---
 

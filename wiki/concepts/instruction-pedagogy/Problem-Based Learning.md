@@ -6,7 +6,7 @@ aliases:
 summary: "以经过选择的问题组织目标、学习活动与评估的教学系统，强调先备知识激活、协作探究、知识应用、模型修正和自我监控。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 59
+related_count: 60
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Student Attitude]]"
   - "[[Student Satisfaction]]"
   - "[[Problem Finding]]"
+  - "[[Engineering Education]]"
   - "[[Lifelong Learning]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -83,7 +84,7 @@ related_instruments: []
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Problem-Based Learning
@@ -381,7 +382,7 @@ updated: 2026-10-05
 > 教师需要根据学生当前知识调整支架。初期可以提供必要概念、资料范围和检查点，随后逐步释放[[Problem Finding\|问题界定]]、检索和方案选择的责任。教师还要持续追踪小组探索方向，发现知识错误并组织反馈。PBL 的[[Open-Mindedness|开放性]]因此是一项随学习进展调整的设计[[Variable\|变量]]。[[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 85–86)]]；[[Argument_Blass_2020_JESP\|Blass (2020, p. 95)]]
 
 > [!case] 高等教育中的应用领域
-> PBL 在医学、护理、药学、牙科与工程等专业广泛应用，其促进的效果因专业而异。工程教育中，PBL 支持学生发展复杂工程问题的解决能力；医学教育中，PBL 培养[[Critical Thinking\|批判性思维]]、协作与自我管理技能，促进[[Surface and Deep Learning\|深层学习]]与知识保持；创业教育中，PBL 增强创新思维与风险承担等创业能力。PBL 还与能力本位教育、可雇佣性与[[Lifelong Learning\|终身学习]]政策一致。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, pp. 953–954)]]
+> PBL 在医学、护理、药学、牙科与工程等专业广泛应用，其促进的效果因专业而异。[[Engineering Education|工程教育]]中，PBL 支持学生发展复杂工程问题的解决能力；医学教育中，PBL 培养[[Critical Thinking\|批判性思维]]、协作与自我管理技能，促进[[Surface and Deep Learning\|深层学习]]与知识保持；创业教育中，PBL 增强创新思维与风险承担等创业能力。PBL 还与能力本位教育、可雇佣性与[[Lifelong Learning\|终身学习]]政策一致。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, pp. 953–954)]]
 
 ---
 

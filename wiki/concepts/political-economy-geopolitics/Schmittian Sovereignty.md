@@ -8,7 +8,7 @@ aliases:
 summary: "Carl Schmitt 的主权理论，主权者的本质不在于制定规则而在于决定例外状态，即谁有权在紧急状态下悬置法律"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[General Education]]"
   - "[[Social-Emotional Learning]]"
   - "[[One Country, Two Systems]]"
+  - "[[Competitiveness]]"
   - "[[Attrition]]"
 related_theories: []
 related_methods:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Schmittian Sovereignty
@@ -163,7 +164,7 @@ updated: 2026-09-17
 > > - **官方建制人士（2021）** 认为总体国家安全观有助于学生完整认识当代国家所面临的多维外部威胁，从而培养坚定的国家防卫与效忠意识。
 
 > [!critique] 外部批评
-> - **法治根基的彻底摧毁** 批评者指出，将施米特式的例外状态逻辑常态化引入特别行政区治理，实际上消解了香港的核心竞争力——法治。如果权力可以任意重释并悬置规则，那么“两制”的独特治理环境将无可挽回地[[Attrition\|流失]]（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.141, 152]]）。
+> - **法治根基的彻底摧毁** 批评者指出，将施米特式的例外状态逻辑常态化引入特别行政区治理，实际上消解了香港的核心[[Competitiveness|竞争力]]——法治。如果权力可以任意重释并悬置规则，那么“两制”的独特治理环境将无可挽回地[[Attrition\|流失]]（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.141, 152]]）。
 
 > [!warning] 适用局限
 > 施米特式主权的高度集权化运作虽然能通过恐吓消除显性的集体抗议，但无法建立积极的国族认同，反而可能促使学生采取犬儒主义和隐秘的反抗，从而在深层瓦解一国两制长远整合的成效（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, pp. 490–491]]）。

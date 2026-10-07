@@ -7,9 +7,9 @@ title: "Argument_ODwyer_Filieri_OMalley_2023_JTT"
 argument_key: "Argument_ODwyer_Filieri_OMalley_2023_JTT"
 argument_display_title: "Establishing successful university–industry collaborations: barriers and enablers deconstructed"
 argument_kind: "journal-article"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "The Journal of Technology Transfer"
 authors:
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Areas of Knowledge]]"
   - "[[Research Utilization]]"
+  - "[[Competitiveness]]"
   - "[[Technology Transfer Office]]"
   - "[[External Validity]]"
 related_theories:
@@ -137,7 +138,7 @@ updated: 2026-09-16
 > - **胚胎期（正式合作前）** 关键行动者 Robert（一位学术人员）识别了与其他学者和企业在结晶化领域联合工作的机会，聚焦固态形式的不可重复性这一共同生产问题。尽管爱尔兰制药业地理邻近，仿制药企业和原创药企业之间存在深刻的等级对立，仿制药被视为低端，双方几乎没有合作。获得资助的可能性激励了早期讨论和标书撰写，此阶段仅进行[[Research Utilization\|知识利用]]以控制风险（pp.907-910）。
 >     - **障碍** 强知识泄露恐惧（核心能力）、不愿与竞争对手合作、学者不愿与同一知识领域同行共享研究
 >     - **促进因素** 产业伙伴通过 IBEC R&D 小组的先前合作经验，产业对 Robert 个人声誉的信任
-> - **启动期（第 1-3 年）** 获得 770 万欧元政府拨款，用于建立基础设施、购买设备、招募项目经理和 5 个学术团队的博士后。两个关键突破：均等分配资金（每个伙伴获得相似的设备和人员配置，培养了平等和所有权意识），以及招募具有产学双重经验的项目经理 Peter。共享愿景（将制药跨国公司留在爱尔兰，提升本土研究人员竞争力）和声誉基础的信任是此阶段的核心促进因素（pp.910-914）。
+> - **启动期（第 1-3 年）** 获得 770 万欧元政府拨款，用于建立基础设施、购买设备、招募项目经理和 5 个学术团队的博士后。两个关键突破：均等分配资金（每个伙伴获得相似的设备和人员配置，培养了平等和所有权意识），以及招募具有产学双重经验的项目经理 Peter。共享愿景（将制药跨国公司留在爱尔兰，提升本土研究人员[[Competitiveness|竞争力]]）和声誉基础的信任是此阶段的核心促进因素（pp.910-914）。
 >     - **障碍** 缺乏知识产权协议、中度不信任、产业对合作价值感知差、不愿共享资源和知识
 >     - **促进因素** 共享两层愿景、均等分配的政府资助、IBEC 小组先前网络经验、声誉基础的信任
 > - **参与期（第 4-7 年）** 联合知识产权委员会（产业法律团队与学术代表共同参与）建立了协作性、包容性、持续且公平的知识产权协议，这是核心转折点。过渡期通过研究无知识产权顾虑的通用化合物维持合作势头。信任从声誉基础演化为诚信基础，合作从知识利用转向知识探索。不同学术团队的专业知识互补而非竞争，凝聚性成为新驱动力（pp.914-920）。

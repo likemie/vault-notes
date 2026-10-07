@@ -9,7 +9,7 @@ title: "Argument_Amos_2022_Springer"
 argument_key: "Argument_Amos_2022_Springer"
 argument_display_title: "Which Vision of Education for Late Modernity? In M"
 argument_kind: "book"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[International Education]]"
   - "[[School Autonomy]]"
+  - "[[Competitiveness]]"
   - "[[STEM Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Vergegenkunft]]"
@@ -152,7 +153,7 @@ citation_aliases:
 > - 横轴左端：国际经济
 > - 横轴右端：国际知识竞争
 >
-> > 例：想象今天一所英国大学——纵轴上端不再是"如何让更多人上大学"，而是"我们的排名多少、毕业生就业率多高、每个学生的培养成本多少"。纵轴下端"劳动力分化"意味着教育不再追求统一的公民身份，而是根据市场需求将学生分流到不同层级和类型的岗位。[[School Autonomy\|学校自主权]]改革（学校为自己的"竞争力"负责）和跨国排名系统正是这个新模型的操作工具。(Cowen, 1996, pp.160–162, p.55]])
+> > 例：想象今天一所英国大学——纵轴上端不再是"如何让更多人上大学"，而是"我们的排名多少、毕业生就业率多高、每个学生的培养成本多少"。纵轴下端"劳动力分化"意味着教育不再追求统一的公民身份，而是根据市场需求将学生分流到不同层级和类型的岗位。[[School Autonomy\|学校自主权]]改革（学校为自己的"[[Competitiveness|竞争力]]"负责）和跨国排名系统正是这个新模型的操作工具。(Cowen, 1996, pp.160–162, p.55]])
 >
 > Amos 特别强调一个容易忽略的时间节点：**知识的市场化并非近期现象**。早在 1950 年代末，经济学理论已开始将"知识"作为生产要素讨论；[[Sputnik Shock 1957]]（1957 年苏联发射人造卫星）之后，[[OECD]] 立即将注意力转向 [[STEM Education\|STEM]] 教育——这时距"[[Knowledge-Based Economy]]"成为流行话语还有几十年(p.56)。
 >

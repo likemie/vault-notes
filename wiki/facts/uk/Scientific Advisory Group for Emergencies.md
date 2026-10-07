@@ -12,7 +12,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Document]]"
+  - "[[Metascience]]"
   - "[[Post-Normal Science]]"
   - "[[Public Engagement with Science]]"
   - "[[Causality]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Scientific Advisory Group for Emergencies
@@ -158,7 +159,7 @@ updated: 2026-10-03
 > - **科学咨询机构评价真空与制度替代选择（Gough, 2020; [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022]]）** [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022, pp. 150–151)]]尖锐指出，各国政府在建立高级别特设科学咨询委员会时，普遍缺乏清晰的合理性论证——政府获取科学证据并非仅有组建临时专家小组一途，完全可以通过常设学术学会（Academic Societies）与政府内部专业研究分析师网络（Government Research Analysts）达成同等乃至更具长效性的实证支撑。然而现实中，这些专门委员会不仅缺乏自我有效性评价框架，更是普遍处于元研究（Research on Research Use）的监控盲区（Box 7.6, p. 157）。
 
 > [!citation-card] 代表性批判[[Document\|文献]]
-> [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]]在总结国家核心科学顾问机制时提出了深刻的元科学警示：
+> [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]]在总结国家核心科学顾问机制时提出了深刻的[[Metascience|元科学]]警示：
 > 
 > 政府专家科学咨询委员会同样适用这一原则……人们目前尚不清楚建立此类专门结构的充分理由，因为政府完全可以通过学术学会或政府研究分析师等其他途径获取研究证据。……更关键的是，目前似乎完全缺乏清晰的方法来对这类高级别咨询委员会本身的实际运作与最终成效开展严肃评估。（[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, pp. 150, 157]]）
 > 
