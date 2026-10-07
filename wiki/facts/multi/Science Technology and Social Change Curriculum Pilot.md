@@ -7,9 +7,9 @@ subtype: program
 region: multi
 fact_region: "multi"
 fact_kind: "program"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 tags: [region/multi, theme/curriculum-development, theme/teacher-development]
 related_concepts:
@@ -19,6 +19,7 @@ related_concepts:
 related_methods:
   - "[[Random Assignment]]"
 related_facts:
+  - "[[International Baccalaureate Nutritional Science Course]]"
   - "[[United World Colleges]]"
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch08]]"
@@ -39,7 +40,7 @@ updated: 2026-10-07
 > - **时间与状态** 课程倡议于 1982 年提出；记述时已获[[International Baccalaureate|国际文凭组织]]（International Baccalaureate Organization，IBO）许可开展实验，结束时间未报告。
 > - **资助主体** 英国朗特里信托（Rowntree Trust）与印度塔塔信托（原文写作 Sir Doragji Tata Trust）提供经费，金额未报告。
 > - **参与地区** 巴林、印度南部和新加坡的三所发起学校组成初始试点网络。
-> - **问题导向** 将科学知识应用于国际人类问题，并回应先前营养科学推广缺乏合格教师与培训经费的困难。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–206)]]
+> - **问题导向** 将科学知识应用于国际人类问题，并回应先前[[International Baccalaureate Nutritional Science Course|国际文凭营养科学课程]]推广缺乏合格教师与培训经费的困难。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–206)]]
 
 ---
 

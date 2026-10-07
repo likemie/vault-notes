@@ -6,35 +6,49 @@ aliases:
   - Megascience projects
   - 大型科研基础设施
   - Megascience
-summary: "在粒子物理、受控热核聚变等前沿物理领域建设的独特、高成本、大型科研基础设施。此类装置传统上依靠国际多边合作，但在地缘政治限制下也出现本土独资化建设的趋势。"
+summary: "在粒子物理、核聚变、同步辐射光源、中子源及微纳制造前沿领域建设的独特、高成本、大型综合科研基础设施。传统上依赖多边国际合作分摊财政风险，但当代科技政策进一步推动大科学设施向产业初创企业开放机时、建设微纳共享洁净室与 GMP 中试平台，使其从纯学术象牙塔演化为支撑国家深科技与先进制造竞争力的战略基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
-  - "theme/science-policy"
-  - "level/higher-education"
-  - "region/global"
+  - theme/science-policy
+  - level/higher-education
+  - region/global
+  - deep-tech-manufacturing
+  - research-infrastructure
 related_concepts:
   - "[[Big Science]]"
+  - "[[Pilot Scale Platform]]"
+  - "[[Valley of Death]]"
   - "[[Paradigm]]"
+  - "[[Curiosity-Driven Research]]"
+  - "[[Return on Investment]]"
   - "[[Going Native]]"
-  - "[[Scientific Autarky]]"
-  - "[[Variable]]"
+  - "[[Technology Transfer]]"
+  - "[[Research Translation]]"
+  - "[[Competitiveness]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
-related_persons: []
+related_persons:
+  - "[[Michael Kratsios]]"
 related_facts:
+  - "[[Office of Science and Technology Policy]]"
+  - "[[Department of Energy]]"
   - "[[CERN]]"
+  - "[[National Research and Resource Facility for Submicron Structures]]"
+  - "[[Science A New Golden Age 2026]]"
 related_arguments:
   - "[[Argument_Dezhina_2022_ECO]]"
-confidence: medium
-status: draft
-created: '2026-06-30'
-updated: 2026-10-03
+  - "[[Argument_Kratsios_2026_OSTP]]"
+  - "[[Argument_Mody_2017_MOH]]"
+confidence: high
+status: active
+created: 2026-06-30
+updated: 2026-10-07
 ---
 
 # Megascience Installations
@@ -44,57 +58,86 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> **[[Big Science|大科学]]装置（Megascience Installations / Megascience Facilities）** 是指在基础科学前沿领域（如高能物理、核聚变、天文学等）建设 of 独特、高度复杂且造价极其昂贵的大型综合科研基础设施。此类装置是获取常规设备无法达到的前沿物理参数和极端科学条件的唯一手段，在传统上依赖广泛的多边国际合作进行共同资助与要素共享。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 47–48]])
+> **[[Big Science|大科学]]装置（Megascience Installations / Megascience Facilities，亦称大型科研基础设施）**是指在基础科学前沿与关键使能技术领域（如高能物理粒子对撞机、受控核聚变装置、同步辐射光源、散裂中子源及国家级微纳制造基础设施）建设的独特、高度复杂且造价极其昂贵的大型综合科研基础设施。
+>
+> 此类装置是获取常规实验室无法企及的极端物理参数（如极高能级、超短脉冲、超强磁场）与微观表征分辨率的唯一手段。在传统上，大科学装置主要依托广泛的国际多边合作进行共同资助与要素共享；[[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, pp. 47–48)]]
+>
+> 随着当代全球硬科技与制造业竞争深化，大科学设施正经历深刻的职能扩展：从传统的纯物理学基础探索平台，升级为**面向硬科技初创企业开放机时、提供共享微纳洁净室、湿实验室与中试制造验证（Pilot-Scale）的国家共性创新基础设施**。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 40–41)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向在前沿物理和尖端基础科学中必不可少、规模庞大、技术复杂且财务成本极高的实验平台。
-> - **用途** 帮助研究者分析国家科学政策、科研基建预算分配、国际学术外交以及技术主权与多边国际协作之间的张力。
-> - **边界** 区别于一般的“重点实验室”或“科研中心”，它必须具备独特排他性、极高财务体量（常占国家基建预算大头）以及需要跨国界科学家联合协作的特征。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 48]])
+> - **核心功能** 充当国家科技战略体系中不可替代的物理重器与公共技术底座，兼具基础科学假说验证与战略产业中试工艺放大的双重职能。
+> - **治理张力** 贯穿“多边国际共建以分摊财政风险 vs 本土独资建设以确保技术主权”，以及“纯学术论文导向的机时评审 vs 产业商业验证导向的绿色准入通道”之间的制度权衡。
+> - **制度边界** 严格区别于常规大学“重点实验室”或企业单项研发中心；大科学装置具备极高的资本门槛（建设与维护费用动辄数亿至数十亿美元）、物理排他性与辐射全行业的技术外溢效应。
+
+> [!citation-card] 白宫 [[Office of Science and Technology Policy|OSTP]] 论国家实验室大科学设施向产业初创全面开放
+> 能源部（[[Department of Energy|DOE]]）所属的 28 个世界级用户设施（如同步辐射光源、中子散射源）与国家纳米技术协调基础设施（NNCI），长期以来主要依据学术论文优劣分配机时，导致商业初创企业难以进入。联邦政府必须调整用户设施准入标准，兼顾科学深度与商业验证紧迫性，向硬科技初创企业开放大科学装置机时；依托国家纳米基础设施提供两千余台共享工具，将量子与半导体原型试制成本降至小时计费；为早期生物医药企业提供合规共享湿实验室与 GMP 级标准制造[[Pilot Scale Platform|中试平台]]，将概念验证周期从数年压缩至数周，打破早期硬科技企业在面临重资产融资前的转化瓶颈。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 40–41)]]
+>
+> *DOE's 28 world-class user facilities and the NNCI have long allocated beamtime based primarily on academic papers, locking out commercial startups. We must reform access criteria to balance scientific merit with commercial urgency, opening synchrotron and neutron sources, offering shared cleanrooms and wet labs at hourly rates, and co-investing in GMP pilot facilities to compress proof-of-concept timelines from years to weeks.*
+
+> [!boundary]- 概念边界
+> - 不等于 常规通用仪器平台 — 大科学装置具备不可复制的极限参数测量与工程制造能力，造价通常在数亿至数十亿美元级别，需国家级专项预算支撑。
+> - 不等于 纯封闭军工设施 — 尽管大科学设施产出具有深远的技术主权与双重用途价值，但其核心运营机制依赖开放用户模式（User Facility Model），向国内外合格科研人员与产业伙伴提供机时服务。
 
 ---
 
-## 核心要素
+## 装置类型与双轨治理模式
 
-> [!feature] 核心要素
-> - **极端高昂的造价与运营成本** 装置的建设与长期维持资金消耗巨大，常常构成国家科研基建支出的绝对主体，甚至超越了单个中等体量国家的单边财政负担能力。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 47–48]])
-> - **国际化多边协作网络** 装置在设计、建设、使用及数据分析中天然需要吸收全球顶尖物理人才和研究机构参与，多国共同出资、共建共享是其主要治理模式。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 48]])
-> - **前沿技术的外溢与主权锁定** 能够带动超导、精密机械、大数据等关键共性技术突破，且对国家的技术自主权、学术声誉具有强大的锁定和杠杆效应。
+> [!taxonomy] [[Big Science|大科学]]装置的核心类别与主要应用
+> - **基础前沿极端物理设施**
+>   - *代表形态*：高能粒子对撞机（如 [[CERN]] 大型强子对撞机 LHC、俄罗斯 NICA）、受控热核聚变实验堆（如 ITER、EAST）、深空射电望远镜阵列；
+>   - *核心目标*：探索宇宙起源、物质基本结构与终极清洁能源。
+> - **先进光源与微观表征设施**
+>   - *代表形态*：高能同步辐射光源（Synchrotron Light Sources）、散裂中子源（Spallation Neutron Sources）、自由电子激光（XFEL）；
+>   - *核心目标*：实现原子级分辨的原位材料表征、生物大分子结构解析与工业催化剂动态观测。
+> - **微纳制造与工程中试共享基础设施**
+>   - *代表形态*：国家纳米基础设施（NNCI）共享洁净室、GMP 级生物医药[[Pilot Scale Platform|中试验证线]]（Pilot-Scale Platforms）；
+>   - *核心目标*：提供两千余台尖端微加工机台，为量子计算、先进半导体与细胞疗法初创企业提供小时级计费原型试制。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 40–41)]]
 
 ---
 
 ## 围绕概念形成的命题
 
----
-
-### 命题类型一　出资路径与治理模式的选择（Funding & Governance Models）
-
-> [!concept-lens] 出资路径与治理模式的选择
-> 围绕[[Big Science|大科学]]装置是应当遵循“多边国际联合共建”还是“本土单边独资建设”的战略抉择展开。
-
-> [!claim] 国际联合共建[[Paradigm\|范式]]（多边范式）
-> 由于大科学装置在技术和财务上面临极高的双重风险，国际主流实践普遍确立了多国联合出资的治理模型。例如，美国在取消了预算超支的超导超级对撞机（SSC）项目后，承认单边负担大型对撞机在财务上不具可行性，转而深度参与[[CERN|欧洲核子研究中心]]（CERN）的多边合作，以降低财政合规风险。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 48]])
-
-> [!claim] 本土单边独资范式（自足范式）
-> 在地缘政治限制下追求绝对技术自主的导向下，部分国家（如俄罗斯自2010年代起）倾向于采取单边自足策略，主要依靠国内预算建设大型科研设施（如在Dubna建设的NICA项目是一个有国际合资的特例，而其他项目大多转为本土独资），以锁定装置的所有权和控制权，但这也带来了沉重的重复研发代价与财务冗余。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 47–48]])
-
----
-
 ### 命题总览
 
-> [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> [!contrast-table] [[Big Science|大科学]]装置核心命题归纳
+> | 命题类型 | 核心指向 | 提出学者 / 机构 | 实证情境 |
 > |---|---|---|---|
-> | **国际联合共建范式** | 分摊财政成本，促进全球物理学界要素流动与技术外溢，避免低水平重复。 | 开放的国际学术协作区（如CERN、ITER） | [[Argument_Dezhina_2022_ECO\|Dezhina & Egerev (2022)]]; American Academy of Arts & Sciences (2020) |
-> | **本土单边独资范式** | 在地缘政治限制下确保技术主权，但承受极高的财政预算压力与科研孤立风险。 | 地缘政治脱钩与自给自足转型期 | Dezhina & Egerev; Bitzinger (2015) |
+> | **多边国际共建命题** | 极端高昂造价与技术风险促成跨国联合出资，以分摊财政负担并促进全球要素共享 | [[Argument_Dezhina_2022_ECO\|Dezhina & Egerev (2022)]] | 美国取消 SSC 后转投 [[CERN]] LHC；多国共建 ITER |
+> | **地缘主权锁定命题** | 地缘政治博弈与制裁风险倒逼部分国家推行本土独资建设，但面临沉重预算挤压 | 同上，pp. 47–49 | 俄罗斯单边资助大科学设施，研发总预算仅为美国的 1/13 |
+> | **产业中试共享转型命题** | 大科学设施打破唯论文机时分配，向产业开放共享洁净室与中试线以跨越[[Valley of Death\|死亡之谷]] | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | 能源部 28 个用户设施开放机时；NNCI 降低原型试制成本 |
+> | **重资产平台复用命题** | 国家开放设施通过工程咨询与多学科复用，形成超越单一技术周期的转化韧性 | [[Argument_Mody_2017_MOH\|Mody (2017)]] | 康奈尔 [[National Research and Resource Facility for Submicron Structures\|NRRFSS]] 亚微米设施与基因枪跨界诞生 |
+
+---
+
+### 命题一 国际联合共建范式是化解大科学装置极端财务与技术风险的经典治理模型
+
+> [!claim] 跨国多边共建实现财政风险对冲与全球智力聚合
+> 由于前沿大科学装置在工程技术与财政预算上面临极端双重不确定性，国际主流实践普遍确立了多国联合出资的治理模型。单边承担超级对撞机往往因预算超支而面临被叫停的政治风险（如 1993 年美国国会叫停超导超级对撞机 SSC 项目）；深度参与跨国共建（如 CERN、ITER）能够有效降低单边财政合规风险，并最大化吸收全球顶级物理学人才。[[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, p. 48)]]
+
+---
+
+### 命题二 地缘脱钩驱动的本土独资大科学装置建设面临严峻的预算挤出与科研孤立风险
+
+> [!claim] 追求绝对技术自主的单边战略伴随沉重溢价
+> 在地缘政治限制与技术封锁导向下，采取单边自足策略建设本土大科学装置（如俄罗斯近年建设的系列大科学项目），虽然能够锁定设施的所有权与使用控制权，但在国家总体科技预算体量有限的情形下，极易对其他基础学科经费造成严重挤出，且面临缺少国际学术要素流动的孤岛化挑战。[[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, pp. 47–49)]]
+
+---
+
+### 命题三 大科学设施向产业初创开放并建设中试平台是跨越深科技“死亡之谷”的决定路径
+
+> [!claim] 用户设施从学术象牙塔向国家共性产业基座转型
+> 传统大科学装置以纯学术论文评审作为机时分配的唯一依据，阻断了产业创新者的准入。重构用户准入标准、向硬科技初创企业开放同步辐射与中子散射机时，并配套共享洁净室与 GMP 级中试制造线，能够将原型验证周期从数年压缩至数周，以极低的边际成本盘活国家巨额基建投资。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 40–41)]]
 
 ---
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
-> - **1950s–1980s — 冷战多边科学外交** [[CERN]]等国际核子研究中心成立，[[Big Science|大科学]]装置作为冷战时期缓和地缘关系、共享基础物理研究成果的多边外交平台得到蓬勃发展。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 48]])
-> - **1990s — 单边主义挫折与合作深化** 美国超导超级对撞机（SSC）因超支在1993年被国会叫停，标志着单边主义强推大科学装置时代的终结，国际物理学界全面确立了共建共享的多边合作共识。
-> - **2010s 至今 — 地缘政治回潮与单边[[Going Native\|本土化]]** 地缘政治波及和科技主权焦虑上升，俄罗斯等国转向由本国财政独立负担的本土大科学装置建设，大科学装置重新成为大国博弈和[[Scientific Autarky\|科学自给自足]]政策的焦点投影面。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 47–48]])
+> [!dev-timeline] [[Big Science|大科学]]装置演进脉络
+> - **1950s–1980s — 冷战多边科学外交与粒子物理黄金期** [[CERN]] 等国际组织成立，大科学装置作为缓和冷战地缘紧张、共享基础前沿成果的多边科学外交载体蓬勃发展。[[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, p. 48)]]
+> - **1970s–1990s — 大学微纳开放用户设施与多边平台探索** 康奈尔大学亚微米设施（[[National Research and Resource Facility for Submicron Structures|NRRFSS]]）等大学级大科学平台破冰，通过对外共享机台与工程咨询，服务全美 40 余家机构并向生命科学跨界。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 290–293)]]
+> - **1990s — 单边主义挫折与全球化深化** 美国国会因预算失控于 1993 年终止 SSC 项目，全面确立了全球物理学界共同资助、共建共享的大科学多边[[Paradigm|范式]]。
+> - **2010s — 地缘政治回潮与技术主权博弈** 大国博弈加剧，俄罗斯等国转向本土单边大科学装置建设，大科学装置重新成为大国彰显科技主权与战略威慑的核心抓手。[[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, pp. 47–48)]]
+> - **2026 年 — 产业中试赋能与国家深科技基础设施体系重构** 白宫 [[Office of Science and Technology Policy|OSTP]] 发布《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]），正式确立推动能源部 28 个用户设施与 NNCI 微纳洁净室向硬科技初创企业全面开放，共建 GMP 级[[Pilot Scale Platform|中试制造平台]]，实现从纯基础科学探索向国家产业先进制造基座的战略升级。
 
 ---
 
@@ -102,26 +145,50 @@ updated: 2026-10-03
 
 > [!debates] 学术争议
 >
-> > [!axis] 自主控制权与财政承受力的张力
-> > 关于在较弱的科研预算规模下强推单边本土[[Big Science|大科学]]装置是否合理的学术分歧：
-> > 
-> > - **自足立场（技术主权论）** 主张即使面临极高财政压力，在大科学装置（如同步辐射光源、中子源）上实现本土独资建设，能确保在面临外部制裁和封禁时，核心学科（甚至双重用途技术）不会停摆。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 49]])
-> > - **开放立场（财务/要素制约论）** 指出在科研总预算较小的情况下（如俄罗斯研发预算仅为美国的十三分之一），强推本土独资的Megascience项目，会严重挤占其他基础学科（如基础研究）的资助，且缺少国际顶尖物理学家的参与，容易使昂贵的装置退化为学术孤岛。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 48–49]])
+> > [!axis] 自主控制权 vs 财政承受力（技术主权与预算挤出之争）
+> > 探讨在有限国家科技预算下是否应强推单边本土[[Big Science|大科学]]装置。
+> > - **技术主权派** 强调即使面临巨大财务压力，本土独资大科学装置能确保在面临制裁封禁时战略科技能力不中断。[[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, p. 49)]]
+> > - **要素制约派** 警告强推单边大科学项目会严重侵蚀普通基础研究经费池，且缺乏全球顶尖人才交流易沦为学术孤岛。[[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, pp. 48–49)]]
+>
+> > [!axis] 纯学术同行评审机时 vs 产业商业验证优先通道
+> > 探讨大科学装置机时应完全依据论文发表水平分配，还是设立产业绿色通道。
+> > - **学术纯洁性立场** 坚守科学卓越标准，认为大科学装置公共品属性要求优先资助最具理论原创性的[[Curiosity-Driven Research|好奇心驱动研究]]。
+> > - **产业使能立场（Kratsios 2026）** 指出大科学装置必须兼顾商业验证紧迫性，向硬科技初创企业开放小时级低成本机时，才能最大化纳税人[[Return on Investment|投资回报]]并拉动先进制造。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 40–41)]]
 
 ---
 
 ## 实证数据
 
-> [!ref-table]- 其他实证结果
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+> [!ref-table]- [[Big Science|大科学]]装置跨国预算与运行指标
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Dezhina_2022_ECO\|Dezhina & Egerev (2022)]] | 俄罗斯与美国科研基建与预算对比 | 政策分析与国家预算对比 | 国家研发预算体量对比 | 美国科学 research and 研发总预算是俄罗斯的 13 倍，揭示了俄罗斯追求单边[[Big Science\|大科学]]装置面临的巨大财政鸿沟。 | — | 仅说明宏观预算差异，不能推断具体学科的配置效能。 |
+> | 观察维度 | 核心量化指标 | 经验观察与实证基准 | 数据来源 |
+> |:---|:---|:---|:---|
+> | **国家研发预算体量差距** | 美俄研发总预算对比 | 美国科学研发总预算约为俄罗斯的 13 倍，凸显单边大科学建设的财政鸿沟 | [[Argument_Dezhina_2022_ECO\|Dezhina & Egerev (2022)]] |
+> | **联邦用户设施共享规模** | 能源部及 NNCI 设施工具数 | 能源部拥有 28 个世界级用户设施，NNCI 提供 2000 余台共享尖端微纳工具 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] |
+> | **开放平台辐射广度** | 康奈尔 [[National Research and Resource Facility for Submicron Structures\|NRRFSS]] 外部用户占比 | 外部用户达 60%（工业界占 12%），为全美 40 余家机构提供微细加工建设咨询 | [[Argument_Mody_2017_MOH\|Mody (2017)]] |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Dezhina_2022_ECO\|Dezhina & Egerev (2022)]] — 剖析了俄罗斯在追求[[Big Science|大科学]]装置[[Going Native\|本土化]]独立建设过程中所面临的财政预算约束以及对多边合作轨道的偏离。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，提出重构能源部 28 个用户设施与 NNCI 准入标准，向产业初创开放[[Big Science|大科学]]装置机时、微纳洁净室及共建 GMP 级[[Pilot Scale Platform|中试平台]]。
+> - [[Argument_Dezhina_2022_ECO|Dezhina & Egerev (2022)]] — 剖析俄罗斯在追求大科学装置[[Going Native|本土化]]独立建设过程中面临的财政预算约束、多边合作偏离与学术孤立风险。
+> - [[Argument_Mody_2017_MOH|Mody (2017)]] — 从管理史视阈剖析康奈尔 [[National Research and Resource Facility for Submicron Structures|NRRFSS]] 等大学级大科学微纳开放设施通过机台共享与工程咨询驱动的跨界[[Technology Transfer|技术转移]]。
+
+---
+
+## 相关条目网络
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关联与贡献 |
+> |:-----|:-----|:-----------|
+> | [[Big Science]] | Concept | 大科学装置所隶属的宏观大科学[[Paradigm\|研究范式]]与组织形态。 |
+> | [[Pilot Scale Platform]] | Concept | 与大科学装置紧密协同的工程放大中试平台，跨越产业化[[Valley of Death\|死亡之谷]]的关键载体。 |
+> | [[CERN]] | Fact (Organization) | 全球多国联合出资、共建共享超大型强子对撞机的多边治理旗舰典范。 |
+> | [[Office of Science and Technology Policy]] | Fact (Organization) | 白宫科技政策中枢，推动重构大科学用户设施准入标准与深科技中试赋能战略。 |
+> | [[National Research and Resource Facility for Submicron Structures]] | Fact (Organization) | 展现开放共享机台与跨界工程咨询的重资产平台型用户设施典范。 |
+> | [[Research Translation]] | Concept | 依托大科学装置极端表征与中试工艺验证推进的前沿科学成果产业转化系统。 |
+> | [[Competitiveness]] | Concept | 大科学装置作为国家战略技术主权与先进制造竞争力的物理底座。 |
+> | [[Michael Kratsios]] | Person | 白宫科技政策办公室主任，系统提出大科学设施向产业界开放与中试赋能战略。 |

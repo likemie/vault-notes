@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 58
+fact_related_count: 59
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -79,6 +79,7 @@ related_facts:
   - "[[UNICEF]]"
   - "[[Learning Data Compact]]"
   - "[[United World Colleges]]"
+  - "[[International Baccalaureate Nutritional Science Course]]"
   - "[[Science Technology and Social Change Curriculum Pilot]]"
   - "[[1960 Bellagio Conference]]"
 related_arguments:
@@ -158,7 +159,7 @@ updated: 2026-10-07
 ### 营养科学的跨校推广资助
 
 > [!case] 小额专家交流支持未能转化为常规课程扩散
-> [[United World Colleges|联合世界书院]]（United World Colleges，UWC）的东南亚书院把营养科学设为[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）的内部评价第六科。学生调查当地饮食，并综合不同学科知识处理营养问题。Peterson 认为，它可以让发展中国家的[[International Schools|国际学校]]更直接接触周围村落与贫困城市地区，因而尝试仿照日内瓦应用化学的路径，将其推广为常规课程选项。UNESCO 对课程表示兴趣，并资助专家与其他远东 IB 学校教师讨论采用的可能。马尼拉、雅加达及香港学校虽表示兴趣，最终均未采用；作者记述时，课程仍只在新加坡与墨西哥城作为内部第六科存在。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–205)]]
+> [[United World Colleges|联合世界书院]]（United World Colleges，UWC）的东南亚书院把[[International Baccalaureate Nutritional Science Course|国际文凭营养科学课程]]设为[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）的内部评价第六科。学生调查当地饮食，并综合不同学科知识处理营养问题。Peterson 认为，它可以让发展中国家的[[International Schools|国际学校]]更直接接触周围村落与贫困城市地区，因而尝试仿照日内瓦应用化学的路径，将其推广为常规课程选项。UNESCO 对课程表示兴趣，并资助专家与其他远东 IB 学校教师讨论采用的可能。马尼拉、雅加达及香港学校虽表示兴趣，最终均未采用；作者记述时，课程仍只在新加坡与墨西哥城作为内部第六科存在。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–205)]]
 
 > [!factors] 交流资助与实施能力之间的缺口
 > - **资助覆盖的工作** 小额经费支持专家讨论课程推广，原文没有报告它足以承担完整教师培训与持续跟进。

@@ -9,9 +9,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 13
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 18
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "国家科研资助机制实验与评估机构（Governmental Metascience Research & Evaluation Unit）"
 headquarters: "英国伦敦（London, UK）"
@@ -95,8 +95,8 @@ updated: 2026-10-07
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 首年三大核心实验产出
-> - **分布式同行评议（Distributed Peer Review, DPR）** 突破传统少数资深学者组成的封闭评审小组模式，将评审权分散至更广泛的申请人与同行网络中，实证检验群体智慧在稀释门阀把关偏误与降低行政成本上的效能。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 32)]]
-> - **部分[[Random Assignment|随机化]]抽签资助（Partial Randomization / Lotteries）** 在评分达到基础质量门槛（Fundable Threshold）的候选提案池中，引入部分随机抽签决定资助对象，以科学实验检验抽签机制是否能有效克服评审中的微弱方差噪音与对高风险非共识创新的系统性歧视。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 32)]]
+> - **分布式同行评议（Distributed Peer Review, DPR）** 突破传统少数资深学者组成的封闭评审小组模式，将评审权分散至更广泛的申请人与同行网络中，实证检验群体智慧在稀释门阀把关偏误与降低行政成本上的效能。
+> - **部分[[Random Assignment|随机化]]抽签资助（Partial Randomization / Lotteries）** 在评分达到基础质量门槛（Fundable Threshold）的候选提案池中，引入部分随机抽签决定资助对象，以科学实验检验抽签机制是否能有效克服评审中的微弱方差噪音与对高风险非共识创新的系统性歧视。
 > - **评审判断一致性与[[Reliability|信度]]审计（[[Inter-Rater Reliability]] Testing）** 运用统计计量方法对不同评审专家在相同提案上的打分进行双盲交叉比对，量化揭示传统同行评议在评价颠覆性项目时极高的离散度与不稳定性，为推行“一票赞成金券制”提供量化依据。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 32)]]
 
 ---

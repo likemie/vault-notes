@@ -28,6 +28,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Innovation Park]]"
   - "[[Megascience Installations]]"
+  - "[[Pilot Scale Platform]]"
   - "[[Apprenticeship]]"
   - "[[University-Industry Collaboration]]"
   - "[[Process Knowledge]]"
@@ -35,7 +36,6 @@ related_concepts:
   - "[[University-Based Research Center]]"
   - "[[Innovation Ecosystem]]"
   - "[[Placemaking]]"
-  - "[[Pilot Scale Platform]]"
   - "[[Attrition]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -78,7 +78,7 @@ updated: 2026-10-07
 > [!concept-lens] 概念透镜
 > - **核心使命** 打破传统高校象牙塔与工业界之间的隔阂，通过人际交互密度与共享工程设施，将实验室科学发现迅速转化为具备可制造性与商业[[Competitiveness|竞争力]]的实体产品。
 > - **微观机制** 搭建真实、偶然的人际连接管道（Conduit for Authentic, Serendipitous Connections），通过高密度的跨界思想碰撞激发创新，并依托区域制造生态实现价值外溢。
-> - **演进维度** 从早期的“物理地产租赁”（[[Innovation Park|科技园区]]）与“关系网络构建”（创新街区），演化为“共享[[Megascience Installations|大科学装置]]、开放中试制造平台与高技能[[Apprenticeship|学徒培训]]网络”三位一体的区域产业创新母体。
+> - **演进维度** 从早期的“物理地产租赁”（[[Innovation Park|科技园区]]）与“关系网络构建”（创新街区），演化为“共享[[Megascience Installations|大科学装置]]、开放[[Pilot Scale Platform|中试制造平台]]与高技能[[Apprenticeship|学徒培训]]网络”三位一体的区域产业创新母体。
 
 > [!citation-card] 地点导向的创新中心与共同愿景
 > 基于地点的创新中心将来自整个科研与创新谱系的关键利益相关者组织起来，把区域的独特产业禀赋与统一的战略愿景及使命深度结合，推动研发方向确立、劳动力管道建设与实验室到市场的全链条转化。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, p. 112)]]

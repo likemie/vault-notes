@@ -4,7 +4,7 @@ aliases: [终结性课程, 终结课程, terminal course]
 summary: "面向学生在某领域最后一次正式学习的课程设计，强调知识应用、持续兴趣和全人教育，而非预设后续专业学习。"
 type: concept
 domain: "curriculum"
-related_count: 6
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -15,7 +15,9 @@ related_persons:
   - "[[Alec Peterson]]"
 related_facts:
   - "[[International School of Geneva]]"
+  - "[[International Baccalaureate Applied Chemistry Course]]"
   - "[[United World Colleges]]"
+  - "[[International Baccalaureate Nutritional Science Course]]"
   - "[[Science Technology and Social Change Curriculum Pilot]]"
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch08]]"
@@ -84,9 +86,9 @@ updated: 2026-10-07
 ## 应用案例
 
 > [!case] 应用化学与营养科学提供两种终结性设计
-> **学科内部的应用选择** [[International School of Geneva|日内瓦国际学校]]开发的应用化学保留共同基础原理，再从八个应用领域中选学三个，包括重工业、农业与食品、化学与健康。设计改变的是学科知识的用途与组织方式，并保留共同核心；[[International Baccalaureate|国际文凭组织]]后来将其纳入常规课程。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 204)]]
+> **学科内部的应用选择** [[International School of Geneva|日内瓦国际学校]]开发的[[International Baccalaureate Applied Chemistry Course|国际文凭应用化学课程]]保留共同基础原理，再从八个应用领域中选学三个，包括重工业、农业与食品、化学与健康。设计改变的是学科知识的用途与组织方式，并保留共同核心；[[International Baccalaureate|国际文凭组织]]后来将其纳入常规课程。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 204)]]
 >
-> **围绕现实问题组织多学科知识** 东南亚[[United World Colleges|联合世界书院]]的营养科学以本地饮食调查联系多个学术领域，通过田野活动使学生直接接触学校周围的社会。课程作为校内评估的第六科，适合不以该领域为大学专业的学生；但选课位置、教师准备和后续支持会限制推广，课程理念本身不足以保证采用。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–205)]]
+> **围绕现实问题组织多学科知识** 东南亚[[United World Colleges|联合世界书院]]的[[International Baccalaureate Nutritional Science Course|国际文凭营养科学课程]]以本地饮食调查联系多个学术领域，通过田野活动使学生直接接触学校周围的社会。课程作为校内评估的第六科，适合不以该领域为大学专业的学生；但选课位置、教师准备和后续支持会限制推广，课程理念本身不足以保证采用。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–205)]]
 
 教师支持的具体制度安排见[[Science Technology and Social Change Curriculum Pilot|科学、技术与社会变迁]]课程试点，其中共同开发与在职培训回应了营养科学推广的困难。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–206)]]
 

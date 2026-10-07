@@ -9,7 +9,7 @@ aliases:
 summary: "从国际学校共同资格发展而来的跨国课程与质量保障体系，通过课程核心、考试评价、区域支持和公共治理协调共同标准与地方实施。"
 type: concept
 domain: "curriculum"
-related_count: 59
+related_count: 61
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -72,6 +72,8 @@ related_facts:
   - "[[1985 Trieste Intergovernmental Conference on the International Baccalaureate]]"
   - "[[United World Colleges]]"
   - "[[Education Resources Information Center]]"
+  - "[[International Baccalaureate Applied Chemistry Course]]"
+  - "[[International Baccalaureate Nutritional Science Course]]"
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch07]]"
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
@@ -374,10 +376,10 @@ updated: 2026-10-07
 ### 课程采用的三条不同路径
 
 > [!case] 应用化学进入常规课程
-> [[International School of Geneva|日内瓦国际学校]]化学教师埃里克·安东尼（[[Education Resources Information Center|ERIC]] Antony）设计共同基本原理与八个应用领域结合的课程，学校须从中选择三个，原文举例包括重工业、农业与食品、化学与健康。IBO 将其纳入常规课程。课程把学科理解与应用联系起来，没有让地方选项取代共同原理；其考生规模见实证数据，采用成功不能等同于已证实教育效果优于常规化学。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 204)]]
+> [[International School of Geneva|日内瓦国际学校]]化学教师埃里克·安东尼（[[Education Resources Information Center|ERIC]] Antony）设计[[International Baccalaureate Applied Chemistry Course|国际文凭应用化学课程]]，将共同基本原理与八个应用领域结合，学校须从中选择三个，原文举例包括重工业、农业与食品、化学与健康。IBO 将其纳入常规课程。课程把学科理解与应用联系起来，没有让地方选项取代共同原理；其考生规模见实证数据，采用成功不能等同于已证实教育效果优于常规化学。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 204)]]
 
 > [!case] 营养科学得到兴趣响应却未完成跨校扩散
-> [[United World Colleges|联合世界书院]]（United World Colleges，UWC）的东南亚书院把营养科学设为校内评价的第六科。学生调查当地饮食，直接接触周围社会，并综合不同学科学习处理人类问题。Peterson 认为这有助于跨越发展中国家[[International Schools|国际学校]]与周围村落、贫困城市地区的隔离，同时把社会接触放入学术文凭。[[UNESCO]] 的资助让专家与其他远东学校商讨纳入常规选项的可能；马尼拉、雅加达及香港学校表示兴趣，最终均未采用。作者判断主要原因是缺少合格教师，而小额资助不足以建设培训及后续会议。原文记述时课程仍仅作为新加坡和墨西哥城的内部第六科；这是推广受阻，并非所有校内实践终止。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–205)]]
+> [[United World Colleges|联合世界书院]]（United World Colleges，UWC）的东南亚书院把[[International Baccalaureate Nutritional Science Course|国际文凭营养科学课程]]设为校内评价的第六科。学生调查当地饮食，直接接触周围社会，并综合不同学科学习处理人类问题。Peterson 认为这有助于跨越发展中国家[[International Schools|国际学校]]与周围村落、贫困城市地区的隔离，同时把社会接触放入学术文凭。[[UNESCO]] 的资助让专家与其他远东学校商讨纳入常规选项的可能；马尼拉、雅加达及香港学校表示兴趣，最终均未采用。作者判断主要原因是缺少合格教师，而小额资助不足以建设培训及后续会议。原文记述时课程仍仅作为新加坡和墨西哥城的内部第六科；这是推广受阻，并非所有校内实践终止。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–205)]]
 
 > [!case] [[Science Technology and Social Change Curriculum Pilot|科学、技术与社会变迁]]将培训纳入课程研发
 > 在营养科学推广经验之后，1982 年提出的科学、技术与社会变迁课程试点获得英国朗特里信托和印度塔塔信托较充足支持。巴林国际学校、印度科代卡纳尔学校及东南亚书院，与适宜技术和技术援助组织、萨塞克斯及埃因霍温大学顾问共同开发。IBO 授权共同课程试验，由萨塞克斯大学迈克尔·布朗（Michael Brown）指导；巴林预备会议后，在科代卡纳尔安排三周在职培训，夏威夷洛亚学院、内罗毕圣玛丽学校及亚得里亚海书院教师也参加。作者预期可能扩展到更多学校，但明确其成功尚不确定。因此这一案例说明实施支持已经改变，不构成扩散成效的最终证明。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–206)]]

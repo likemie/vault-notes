@@ -5,6 +5,30 @@
       "path": "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md"
     },
     {
+      "basename": "Portfolio-Based Research Funding",
+      "path": "wiki/concepts/science-policy/Portfolio-Based Research Funding.md"
+    },
+    {
+      "basename": "Literature Search",
+      "path": "wiki/concepts/research-methodology/Literature Search.md"
+    },
+    {
+      "basename": "Knowledge Production",
+      "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
+    },
+    {
+      "basename": "Falsification",
+      "path": "wiki/concepts/educational-philosophy/Falsification.md"
+    },
+    {
+      "basename": "21st Century Skills and Competencies Discourse",
+      "path": "wiki/concepts/educational-policy-reform/21st Century Skills and Competencies Discourse.md"
+    },
+    {
+      "basename": "Problem Solving",
+      "path": "wiki/concepts/competency-and-assessment/Problem Solving.md"
+    },
+    {
       "basename": "Phronesis",
       "path": "wiki/concepts/educational-philosophy/Phronesis.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Sematech",
       "path": "wiki/facts/us/Sematech.md"
-    },
-    {
-      "basename": "EUV LLC",
-      "path": "wiki/facts/us/EUV LLC.md"
-    },
-    {
-      "basename": "Human Genome Project",
-      "path": "wiki/facts/us/Human Genome Project.md"
-    },
-    {
-      "basename": "Bell Labs",
-      "path": "wiki/facts/us/Bell Labs.md"
-    },
-    {
-      "basename": "National Institutes of Health",
-      "path": "wiki/facts/us/National Institutes of Health.md"
-    },
-    {
-      "basename": "Pull Mechanisms for Innovation",
-      "path": "wiki/concepts/science-policy/Pull Mechanisms for Innovation.md"
-    },
-    {
-      "basename": "Process Knowledge",
-      "path": "wiki/concepts/university-industry-collaboration/Process Knowledge.md"
     }
   ],
   "omittedPaths": [],

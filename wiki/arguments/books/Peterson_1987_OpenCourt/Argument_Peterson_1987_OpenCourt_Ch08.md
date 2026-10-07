@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch08"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch08"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch08"
 argument_kind: "book-chapter"
-argument_related_count: 23
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -32,8 +32,8 @@ related_concepts:
   - "[[General Education]]"
   - "[[Terminal Courses]]"
   - "[[Hypothesis]]"
-  - "[[International Schools]]"
   - "[[School Choice]]"
+  - "[[International Schools]]"
   - "[[Creativity, Action, Service]]"
   - "[[Experiential Learning]]"
 related_persons:
@@ -44,6 +44,8 @@ related_facts:
   - "[[United World Colleges]]"
   - "[[International School of Geneva]]"
   - "[[Education Resources Information Center]]"
+  - "[[International Baccalaureate Applied Chemistry Course]]"
+  - "[[International Baccalaureate Nutritional Science Course]]"
   - "[[UNESCO]]"
   - "[[Chinese Academy of Sciences]]"
   - "[[Science Technology and Social Change Curriculum Pilot]]"
@@ -307,7 +309,7 @@ IB 的六组学科结构是折中，其国际性需要更多文化与国家的�
 #### 应用化学表明基础原理可以通过不同应用领域组织
 
 > [!case] 日内瓦应用化学把共同基础与地方选择结合
-> **开发主体与课程位置** 日内瓦[[International Schools|国际学校]]化学教师埃里克·安东尼（[[Education Resources Information Center|ERIC]] Antony）设计辅助层级应用化学，回应终结性课程应联系知识用途的要求。
+> **开发主体与课程位置** [[International School of Geneva|日内瓦国际学校]]化学教师埃里克·安东尼（[[Education Resources Information Center|ERIC]] Antony）设计[[International Baccalaureate Applied Chemistry Course|国际文凭应用化学课程]]，作为辅助层级选项，回应终结性课程应联系知识用途的要求。
 >
 > **结构** 所有学校保留基础原理的共同核心，再从八个应用领域选择三个。原文举出的领域包括重工业、农业与食品、化学与健康，没有列全八项，因此不补造其余领域。
 >
@@ -320,9 +322,9 @@ IB 的六组学科结构是折中，其国际性需要更多文化与国家的�
 #### 营养科学跨越社会边界，却未跨越师资能力的边界
 
 > [!case] 东南亚书院营养科学兼有社区学习与知识综合功能
-> **学校环境** 发展中国家的国际学校可能成为与周边村落、贫困城区隔绝的富裕群体。创造、审美与社会服务（[[Creativity, Action, Service|Creative, Aesthetic and Social Service]]，CASS）原已尝试跨越这种边界，营养科学希望把同一任务放进正式文凭课程。
+> **学校环境** 发展中国家的[[International Schools|国际学校]]可能成为与周边村落、贫困城区隔绝的富裕群体。创造、审美与社会服务（[[Creativity, Action, Service|Creative, Aesthetic and Social Service]]，CASS）原已尝试跨越这种边界，营养科学（[[International Baccalaureate Nutritional Science Course]]）希望把同一任务放进正式文凭课程。
 >
-> **学习安排** 本地饮食田野学习要求学生接触周边环境，并运用多个学科领域的知识考察人类问题。这对不准备继续深造该领域的学生尤其有意义。原文还观察到女生较常选择该科，但没有提供性别人数或比例。
+> **学习安排** [[International Baccalaureate Nutritional Science Course|国际文凭营养科学课程]]的本地饮食田野学习要求学生接触周边环境，并运用多个学科领域的知识考察人类问题。这对不准备继续深造该领域的学生尤其有意义。原文还观察到女生较常选择该科，但没有提供性别人数或比例。
 >
 > **推广活动** 联合国教育、科学及文化组织（[[UNESCO|United Nations Educational, Scientific and Cultural Organization]]，UNESCO）提供2,000美元，支持专家与远东 IB 学校教师讨论把新加坡方案转为常规选项。马尼拉、雅加达、香港学校均表达兴趣，最终却未采用。
 >

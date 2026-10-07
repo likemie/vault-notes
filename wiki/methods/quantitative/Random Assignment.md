@@ -11,9 +11,9 @@ summary: "将受试对象按概率均等原则分派至不同实验处理条件�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 49
-method_related_level: 5
-method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_count: 50
+method_related_level: 6
+method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/experimental
@@ -154,7 +154,7 @@ updated: 2026-10-07
 > | **保障的效度** | [[Internal Validity\|内部效度]]（Internal Validity） | [[External Validity\|外部效度]]（External Validity） | 有限的内部效度（受遗漏变量威胁） |
 > | **操作时机** | 样本选定后分派至实验条件时 | 从[[Study Population and Sample\|目标总体]]中抽取受试样本时 | 非随机样本选定后进行配对控制 |
 > | **等价性范围** | **全部变量**（已知与未知、已测与未测） | 样本与总体在关键特征上的同构 | 仅限于**少数显性命名变量** |
-> | **来源** | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] | 同上 | Smith (1991); [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] |
+> | **来源** | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] | 抽样统计学标准规范 | Smith (1991); Rosenbaum & Rubin (1983) |
 
 ---
 

@@ -12324,7 +12324,9 @@
       "竞争力",
       "国家竞争力",
       "高等教育竞争力",
+      "产业技术竞争力",
       "竞争性地缘政治装置",
+      "National Competitiveness",
       "competitive university"
     ]
   },
@@ -12858,7 +12860,8 @@
       "pilot plant",
       "中试基地",
       "中试验证线",
-      "pilot line"
+      "pilot line",
+      "中试制造平台"
     ]
   },
   {
@@ -26167,6 +26170,16 @@
     ]
   },
   {
+    "title": "International Baccalaureate Applied Chemistry Course",
+    "type": "fact",
+    "path": "wiki/facts/global/International Baccalaureate Applied Chemistry Course.md",
+    "aliases": [
+      "国际文凭应用化学课程",
+      "IB Applied Chemistry Course",
+      "International Baccalaureate Applied Chemistry Programme"
+    ]
+  },
+  {
     "title": "International Indicators of Education Systems",
     "type": "fact",
     "path": "wiki/facts/global/International Indicators of Education Systems.md",
@@ -26798,6 +26811,16 @@
       "瑞士创新政策体系",
       "Swiss Innovation Policy",
       "瑞士创新体系"
+    ]
+  },
+  {
+    "title": "International Baccalaureate Nutritional Science Course",
+    "type": "fact",
+    "path": "wiki/facts/multi/International Baccalaureate Nutritional Science Course.md",
+    "aliases": [
+      "国际文凭营养科学课程",
+      "IB Nutritional Science Course",
+      "International Baccalaureate Nutritional Science Programme"
     ]
   },
   {

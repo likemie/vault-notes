@@ -8,7 +8,7 @@ aliases:
 summary: "1975年由DARPA局长乔治·海尔迈耶（George Heilmeier）确立的高风险颠覆性科技项目立项与评审黄金标准问卷。包含八项无行话、重实效的核心质询，涵盖目标界定、现状极限、创新路径、深远影响、风险测度、预算周期及阶段性验收考核；在白宫OSTP（2026）等当代创新政策中，被确立为使命导向型科研机构与联邦基金组合问责的基准评估工具。"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 16
+instrument_related_count: 17
 instrument_related_level: 3
 instrument_related_stars: "⭐⭐⭐"
 instrument_related_color: "#e5e7eb"

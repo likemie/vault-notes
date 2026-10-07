@@ -10,7 +10,7 @@ subtype: organization
 region: switzerland
 fact_region: "switzerland"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_facts:
   - "[[International Schools Examination Syndicate]]"
   - "[[International Schools Association]]"
   - "[[Education Resources Information Center]]"
+  - "[[International Baccalaureate Applied Chemistry Course]]"
   - "[[Founding of the International Baccalaureate]]"
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch02]]"
@@ -122,7 +123,7 @@ updated: 2026-10-07
 ### 应用化学从校本开发进入共同课程
 
 > [!case] 共同基础与地方应用相结合
-> 化学教师埃里克·安东尼（[[Education Resources Information Center|ERIC]] Antony）设计的辅助层级应用化学，以基本原理作为共同核心，再提供八个应用领域，由[[School Choice|学校选择]]三个；原文举例包括重工业、农业与食品、化学与健康。选择权落在应用领域，学生仍需学习共同原理，因此课程既保留学科基础，也把知识联系到社会用途。IBO 随后把它列为常规课程选项。这是实际采用的课程，区别于同章仍在试验或尚未成立的项目。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 204)]]
+> 化学教师埃里克·安东尼（[[Education Resources Information Center|ERIC]] Antony）设计的[[International Baccalaureate Applied Chemistry Course|国际文凭应用化学课程]]作为辅助层级选项，以基本原理作为共同核心，再提供八个应用领域，由[[School Choice|学校选择]]三个；原文举例包括重工业、农业与食品、化学与健康。选择权落在应用领域，学生仍需学习共同原理，因此课程既保留学科基础，也把知识联系到社会用途。IBO 随后把它列为常规课程选项。这是实际采用的课程，区别于同章仍在试验或尚未成立的项目。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 204)]]
 
 ---
 
