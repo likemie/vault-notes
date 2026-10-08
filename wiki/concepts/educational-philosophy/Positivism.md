@@ -68,6 +68,9 @@ related_concepts:
   - "[[Formal Epistemology]]"
   - "[[Practical Epistemology]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Engineering Mindset]]"
+  - "[[Technological Republic]]"
+  - "[[Luxury Belief]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Critical Theory]]"
@@ -97,6 +100,7 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Quantitative Research]]"
   - "[[Random Assignment]]"
+  - "[[Five Whys]]"
 related_instruments: []
 related_persons:
   - "[[Auguste Comte]]"
@@ -120,6 +124,9 @@ related_persons:
   - "[[Karl Popper]]"
   - "[[Crane Brinton]]"
   - "[[Wolfgang Mitter]]"
+  - "[[Alexander Karp]]"
+  - "[[Nicholas Zamiska]]"
+  - "[[Herbert Hoover]]"
 related_facts:
   - "[[PISA]]"
   - "[[ESPRIT]]"
@@ -142,6 +149,8 @@ related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Sandoval_2005_SE]]"
   - "[[Argument_Cowen_2009_CE]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15]]"
 confidence: high
 status: completed
 created: 2026-06-13

@@ -12,9 +12,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 48
-fact_related_level: 5
-fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_count: 51
+fact_related_level: 6
+fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
 org_type: defense-software-enterprise
 headquarters: "Denver, Colorado, United States"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[Technological Agnosticism]]"
   - "[[Consumer Internet]]"
+  - "[[Predictive Policing]]"
   - "[[Edge Autonomy]]"
   - "[[Shadow Hierarchy]]"
   - "[[Banality of Evil]]"
@@ -42,6 +43,7 @@ related_concepts:
   - "[[Constructive Disobedience]]"
   - "[[Screening Off]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Luxury Belief]]"
   - "[[Paradigm]]"
   - "[[AI Deterrence]]"
   - "[[Swarm Intelligence]]"
@@ -55,6 +57,7 @@ related_theories:
 related_methods:
   - "[[Five Whys]]"
   - "[[Correlational Research]]"
+  - "[[Audit Trail]]"
   - "[[Role-playing]]"
 related_instruments: []
 related_persons:
@@ -74,6 +77,7 @@ related_arguments:
   - "[[Argument_Cheng_2026_KeJiChuangXin]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11]]"
@@ -143,6 +147,11 @@ updated: 2026-10-08
 >
 > *The risks of proceeding with the development of Artificial Intelligence have never been more significant. Yet we must not shy away from building sharp tools for fear they may be turned against us. The software and artificial intelligence capabilities that we at Palantir and other companies are building can enable the deployment of lethal weapons... But the suggestion to halt the development of these technologies is misguided. It is essential that we redirect our attention toward building the next generation of AI weaponry that will determine the balance of power in this century, as the atomic age ends, and the next.*
 
+> [!citation-card] 新奥尔良[[Predictive Policing|预测性警务]]与抵制奢侈信念
+> 硅谷的特权阶层生活在治安良好的封闭社区，能够负担得起宣扬反对执法技术的‘奢侈信念’。但对于新奥尔良深陷帮派枪支暴力泥潭的街区而言，算法和数据分析是拯救生命的实际工具。排斥拯救生命的工程方案，绝不是道德高尚，而是特权者的道德自恋与残忍。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 175–177)]]
+>
+> *The [[Luxury Belief]] that public safety tools are inherently oppressive is a luxury only those living in safe neighborhoods can afford. For communities plagued by gun violence, predictive intelligence is a life-saving intervention.*
+
 ---
 
 ## 理论与政策影响
@@ -167,12 +176,12 @@ updated: 2026-10-08
 > >
 > > - **批评视角** 部分科技界同行与人权倡导者指责算法接入致命武器系统加剧战争自动化风险，呼吁签订限制公约或组织员工抗议（如微软员工抗议）。
 > > - **机构立场** 帕兰提尔领导层坚信无实力的和平是危险的幻想，西方若因[[Moral Dualism|道德二元论]]放弃防务算法研发，将导致极权主义对手在地缘博弈中占据支配地位，从而使全球民主政体遭受灭顶之灾。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, Ch. 3)]]
->
-> > [!axis] 预测性警务民权争议 vs 城市公共安全救济
-> > 围绕 Gotham 平台在新奥尔良等城市开展[[Predictive Policing|预测性警务]]的数据偏见与民权侵犯问题展开交锋。
 > >
-> > - **美国公民自由联盟（ACLU, 2018）** 指责数据分析平台可能被警方滥用以针对少数族裔与弱势群体，对宪法公民权利构成深层威胁。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 175–176)]]
-> > - **帕兰提尔与作者立场** 强调软件具有严格的权限日志审计与合规设计；指出将先进技术排斥在地方治安之外是典型的[[Luxury Belief|炫耀性信念]]，无视每年数千死于涉枪暴力的平民生命。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 174–177)]]
+> > [!axis] [[Predictive Policing|预测性警务]]民权争议 vs 城市公共安全救济
+> > 围绕 Gotham 平台在路易斯安那州新奥尔良等城市开展[[Predictive Policing|预测性警务]]的数据偏见与民权侵犯问题展开交锋。
+> >
+> > - **美国公民自由联盟（ACLU, 2018）** 杰伊·斯坦利（Jay Stanley）等人指责数据分析平台秘密接入市政监控与犯罪历史数据库，可能被警方滥用并强化种族偏见，构成对宪法第四修正案隐私权的严重侵犯。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 175–176)]]
+> > - **帕兰提尔与作者立场** 强调软件具备完备的日志[[Audit Trail|审计追踪]]与访问控制体系；指出新奥尔良警局（NOPD）应用系统后使凶杀率降至43年最低（《时代花絮报》报道）；批评坐视暴力蔓延却空谈道德纯洁的反对声浪是典型的奢侈信念。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 174–177)]]
 
 ---
 
@@ -186,7 +195,7 @@ updated: 2026-10-08
 > | [[Hard Power\|硬实力]] | 概念 | 帕兰提尔主张前沿软件与算法构成了现代地缘博弈中最根本的硬实力筹码。 |
 > | [[Engineering Mindset\|工程思维]] | 概念 | 帕兰提尔践行以实战运行和物理反馈为准绳的去官僚化工程思维[[Paradigm\|范式]]。 |
 > | [[Predictive Policing\|预测性警务]] | 概念 | 帕兰提尔 Gotham 平台应用于新奥尔良警务，成为现代治安数据中枢的代表案例。 |
-> | [[Luxury Belief\|炫耀性信念]] | 概念 | 批判以道德纯洁性为由抵制警务科技、转嫁治安恶果给底层社会的文化思潮。 |
+> | [[Luxury Belief\|奢侈信念]] | 概念 | 批判以道德纯洁性为由抵制警务与防务科技、转嫁治安恶果给底层社会的文化思潮。 |
 > | [[Status Transactions\|地位交易]] | 概念 | 帕兰提尔[[Organizational Culture\|组织文化]]引入即兴演剧地位分流，将地位重塑为工具性手段。 |
 > | [[Shadow Hierarchy\|阴影层级]] | 概念 | 帕兰提尔内部打破显性科层，依托自发形成的阴影层级与行动空间驱动创新。 |
 > | [[Symphony Orchestra Model\|交响乐团组织模型]] | 概念 | 帕兰提尔借鉴德鲁克交响乐团模型，实现高管与工程师艺术家的扁平直连。 |

@@ -5,10 +5,10 @@ aliases:
 summary: "指国家战略力量、公共福利与民主制度合法性同前沿科技研发与软件工程实力深度绑定的政治经济体制形态。强调国家战略导向与科技工程共同体的深度互信与协同动员，以软件硬实力与人工智能威慑替代原子时代的工业化防御，破解同盟盆景军队、大构想饥荒与创新荒漠，并依托文明历史叙事实质锚定与认知脱钩求真能力，重构自由民主政体的地缘优势与社会治理效能。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 110
-related_level: 6
-related_stars: "⭐⭐⭐⭐⭐⭐"
-related_color: "#ddd6fe"
+related_count: 88
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - concept/political-economy
   - theme/technology-policy
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Canon Wars]]"
   - "[[Commercial Off-The-Shelf]]"
   - "[[General Education]]"
+  - "[[Engineering Mindset]]"
   - "[[Dual-Use Technology]]"
   - "[[National Innovation System]]"
   - "[[Grand Challenges]]"
@@ -57,11 +58,12 @@ related_concepts:
   - "[[Edge Autonomy]]"
   - "[[Constructive Disobedience]]"
   - "[[Social Deafness]]"
-  - "[[Engineering Mindset]]"
   - "[[Flocking Behavior]]"
   - "[[Status Transactions]]"
   - "[[Shadow Hierarchy]]"
   - "[[Meeting-Industrial Complex]]"
+  - "[[Wisdom of Crowds]]"
+  - "[[Predictive Policing]]"
   - "[[Document]]"
   - "[[Culture of Disbelief]]"
   - "[[Historical Amnesia]]"
@@ -69,6 +71,8 @@ related_concepts:
   - "[[Perpetual Peace]]"
   - "[[Research Translation]]"
   - "[[Artificial General Intelligence]]"
+  - "[[Market Triumphalism]]"
+  - "[[Luxury Belief]]"
 related_theories:
   - "[[End of History Thesis]]"
   - "[[Legitimation Crisis]]"
@@ -100,6 +104,7 @@ related_persons:
   - "[[Edward Said]]"
   - "[[Nate Silver]]"
   - "[[John Glenn]]"
+  - "[[Michael Sandel]]"
   - "[[Stanley Milgram]]"
   - "[[J. C. R. Licklider]]"
   - "[[Niall Ferguson]]"
@@ -125,6 +130,8 @@ related_facts:
   - "[[Eck Swarm Experiment]]"
   - "[[Palantir Technologies]]"
   - "[[1968 Stanford Western Civ Reform]]"
+related_persons:
+  - "[[Michael Sandel]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02]]"
@@ -133,6 +140,7 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09]]"
 confidence: high
@@ -190,6 +198,11 @@ updated: 2026-10-08
 > 美国历史如果脱离了欧洲历史与西方传统的滋养，就像一只在半空中漂浮的气球。然而随着大学体制全线放弃正典[[General Education|通识教育]]，这只维系国家历史深度与共同公民信仰的气球被彻底切断了绳索，在虚无中随风漂走。重构技术共和国必须重塑共同体的实质历史叙事与认知脱钩理性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 88, 94–96)]]
 >
 > *American history is in the air—a balloon sailing in mid-heaven—unless it is anchored to European history. The balloon, however, was now cut loose.*
+
+> [!citation-card] [[Engineering Mindset|工程思维]]是技术共和国的基石与跨越荒漠的航标
+> 工程师的方法与视角构成了技术共和国的基石。正是我们勇于直面最艰巨的挑战、直视世界的客观现实、并建造征服这些现实所需工具的决心，才使我们的国家成为人类历史上最伟大的科技强国。我们面前的荒漠固然令人望而生畏，但它绝非不可逾越。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 178)]]
+>
+> *The approach of the engineer is the bedrock of the technological republic. It was our willingness to tackle the hardest problems, to see the world as it is, and to build the tools required to master it that made our nation the greatest technological power in history. The desert ahead is daunting, but it is not impassable.*
 
 > [!boundary]- 概念边界
 > - 不等于狭隘军工复合体（Military-Industrial Complex） — 技术共和国追求的是[[Dual-Use Technology|军民两用技术]]的普遍繁荣与社会整体公共品提升（如互联网、全球定位系统（Global Positioning System, GPS）、微处理器），而非封闭自利的传统重工业军备利益集团。
@@ -394,6 +407,19 @@ updated: 2026-10-08
 
 ---
 
+### 命题十四　重塑所有权社会与创始人文化以消灭公共创新荒漠并恢复民主实效
+
+> [!concept-lens] 制度治理哲学与公共部门创新动力学维度
+> 阐释技术共和国如何通过重振“创始人文化”与实质所有权社会，破除科技界消费主义逃避与体制内政治犬儒主义，将工程师直面现实的求真伦理引入公共治理核心。
+
+> [!claim] Karp, Zamiska & Sandel (2025/2012)
+> **所有权社会与创始人文化破除创新荒漠断言** 亚历山大·卡普与尼古拉斯·扎米斯卡结合[[Michael Sandel|迈克尔·桑德尔]]（[[Michael Sandel]]）对市场凯旋主义的批判指出，仅靠自由市场[[Wisdom of Crowds|群体智慧]]（[[Wisdom of Crowds]]）无法自发解决公共领域的资本错配与[[Innovation Desert|创新荒漠]]：
+> 1. **破除消费逃避与奢侈信念** 批判科技精英沉溺于为富人提供微观便利的消费软件，或将对公共部门的工程援助贬低为道德不洁（如左翼建制派针对[[Predictive Policing|预测性警务]]与公共安全软件的意识形态攻讦，本质上是无需承担治理后果的奢侈信念）；
+> 2. **克服官僚避险与政治犬儒主义** 剖析公共部门在防卫型科层制与人事规章束缚下丧失建构野心、退化为“假装创新”的停滞病理；
+> 3. **确立工程师的实效伦理与创始人文化** 强调重构技术共和国的根本在于将“创始人文化”注入公共机构——选拔具有利益绑定（Skin in the game）与决断魄力的领导者，以减少犯罪、贫困、疾病与教育赤字等物理世界的客观实效为最高伦理准绳，使工程力量成为跨越创新荒漠、捍卫民主合法性的基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 165–178)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -412,13 +438,14 @@ updated: 2026-10-08
 > | **正典解构与求真理性断裂** | 批判通识正典瓦解切断文明历史锚桩，以认知脱钩求真重建战略理性 | 麦克尼尔世俗公民宗教；断线气球危机；阿皮亚/萨义德叙事批判；奈特·银认知脱钩 | [[William H. McNeill\|McNeill]] (1986); [[Kwame Anthony Appiah\|Appiah]] (2018); [[Nate Silver\|Silver]] (2024); [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
 > | **微观工程组织与心理基石** | 破除科层制盲从与内耗，以群智能、建设性不服从与社交失聪铸就组织敏捷性 | [[Eck Swarm Experiment\|埃克蜂群]]与椋鸟群飞；[[Role-playing\|即兴戏剧]]与影子层级；阿施与[[Stanley Milgram\|米尔格拉姆]]反盲从心理机制 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025, Ch. 9–12) |
 > | **采购法治与商用优先** | 破除军工成本加成垄断，以商用现成法定优先与司法诉讼打破官僚避险 | 约翰·格伦 FASA 1994 改革；10 U.S.C. § 2377 商用优先；[[Palantir Technologies\|帕兰提尔]]诉陆军胜诉打破定制垄断 | [[John Glenn\|Glenn]] (1994); [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025, Ch. 13) |
+> | **所有权社会与创始人文化** | 重构创始人文化与实效伦理，打破科技消费逃避与公共政治犬儒，消灭创新荒漠 | 桑德尔市场凯旋主义批判；破除奢侈信念；建立结果导向与利益绑定机制 | [[Michael Sandel\|Sandel]] (2012); [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025, Ch. 15) |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - **技术共和国专著论述** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] 系统阐明技术共和国在人工智能地缘竞争中的制度重塑方案与组织治理哲学。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Ch. 1–4)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Ch. 6–8)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Ch. 9–13)]]
+> - **技术共和国专著论述** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] 系统阐明技术共和国在人工智能地缘竞争中的制度重塑方案与组织治理哲学。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Ch. 1–4)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Ch. 6–8)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Ch. 9–13)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Ch. 15)]]
 
 ---
 
@@ -452,6 +479,7 @@ updated: 2026-10-08
 > | [[Peter Thiel]] | Person | 风险投资家与思想家，批判“想要飞车却得到 140 字符”的微观虚拟创新局限。 |
 > | [[Nicholas Negroponte]] | Person | 麻省理工媒体实验室创始人，批判初创界洗衣服送外卖的“[[Big Idea Famine\|大构想饥荒]]”。 |
 > | [[John Glenn]] | Person | 联邦参议员与宇航员，主持制定 [[Federal Acquisition Streamlining Act of 1994\|FASA 1994]]，确立[[Commercial Off-The-Shelf\|商用现成产品]]法定优先权以打破官僚垄断。 |
+> | [[Michael Sandel]] | Person | 政治哲学家，批判市场凯旋主义与道德边界侵蚀，为技术共和国反思市场资本配置与重塑公共善提供哲学支撑。 |
 > | [[Hard Power]] | Concept | 技术共和国在 21 世纪维系地缘均势与外交谈判筹码的软件代码与算法实力底座。 |
 > | [[Technological Agnosticism]] | Concept | 技术共和国着力批判的将工程建造与国家使命脱钩、不问目的后果的冷漠心态。 |
 > | [[Western Civilization Course]] | Concept | 战后作为移民社会世俗公民宗教的[[General Education\|通识教育]]形态，其瓦解切断了国家历史锚桩。 |
@@ -484,6 +512,10 @@ updated: 2026-10-08
 > | [[Federal Acquisition Streamlining Act of 1994]] | Fact (Policy) | 联邦采购精简法案，确立商用现成产品法定优先权，构成技术共和国采办改革基石。 |
 > | [[Artificial General Intelligence]] | Concept | 技术共和国在大国技术竞争中争夺战略制高点的根本计算智能目标。 |
 > | [[Innovation Desert]] | Concept | 技术共和国机制失效时在公共治理领域产生的技术滞后与体制排斥现象。 |
+> | [[Wisdom of Crowds]] | Concept | 资本与市场群体决策智慧，技术共和国剖析其在公共品投资中的局限与失灵。 |
+> | [[Market Triumphalism]] | Concept | 市场凯旋主义，技术共和国批判的将市场机制泛化为公共治理唯一尺度的意识形态。 |
+> | [[Luxury Belief]] | Concept | 奢侈信念，技术共和国批判的特权阶层脱离治理实际、阻碍工程技术落地的道德姿态。 |
+> | [[Predictive Policing]] | Concept | 预测性警务，技术共和国中以数据软件赋能公共安全与暴力干预的前沿实战案例。 |
 > | [[Man-Computer Symbiosis]] | Concept | 国家战略资助与前沿认知科学紧密结合所孕育的标志性计算范式。 |
 > | [[1968 Stanford Western Civ Reform]] | Fact (Event) | 斯坦福大学取消西方文明必修课的标志性事件，拉开通识正典解构与国家历史断裂序幕。 |
 > | [[Huntington-Wallace Line]] | Fact (Concept) | 心理学与人类学经验测定边界，其引发的学术审查成为事实评估被道德政治绑架的典型案例。 |
