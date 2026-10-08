@@ -13,7 +13,7 @@ aliases:
 summary: "人文地理学与批判政策社会学的核心空间概念，指打破传统欧几里得几何与层级化行政疆界的连续、关系性空间构型。在教育治理中，它揭示数据基础设施与算法通约如何压缩时空距离，将分散微观的学校实践与跨区域甚至跨国计算中心折叠进即时连通的拓扑网络中。"
 type: concept
 domain: "comparative-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Policy Mobility]]"
   - "[[Relational Space]]"
   - "[[European Education Space]]"
+  - "[[Bureaucracy]]"
   - "[[Informationalization]]"
   - "[[Variable]]"
 related_theories:
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-09-28
+updated: 2026-10-08
 ---
 
 # Topological Spatialisation
@@ -176,7 +177,7 @@ updated: 2026-09-28
 > [!debates] 学术争议
 >
 > > [!axis] 拓扑空间解释力 vs 领土科层体制的制度韧性
-> > 争论拓扑网络是否真正瓦解了传统国家科层制，还是传统制度依然牢固统摄一切。
+> > 争论拓扑网络是否真正瓦解了传统国家[[Bureaucracy|科层制]]，还是传统制度依然牢固统摄一切。
 > >
 > > - **拓扑[[Post-structuralism\|后结构主义]]视角** 强调新兴数字平台与数据中介已然重构了权力运行逻辑，传统地理与行政边界正被算法连通性所穿透（Allen, 2011; Ruppert, 2012）。
 > > - **历史制度主义与国家中心视角** 指出在法律、人事与财政预算等硬性主权支柱上，传统的民族国家与地方行政层级依然牢牢把控核心资源，拓扑网络仅构成科层制的辅助技术手段（Pierson, 2000）。

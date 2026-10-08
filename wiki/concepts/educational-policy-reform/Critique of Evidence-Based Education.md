@@ -6,7 +6,7 @@ aliases:
 summary: "围绕证据本位教育（EBE）的认识论前提、方法论基础、实施效果和政治后果形成的多维度批评体系，涵盖民主缺陷、三重缺陷框架、方法论批评、制度政治批评及综合批判框架"
 type: concept
 domain: "educational-policy-reform"
-related_count: 88
+related_count: 89
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[New Public Management]]"
   - "[[Clinical Trial]]"
+  - "[[Bureaucracy]]"
   - "[[Material Fallacies]]"
   - "[[Policy Borrowing]]"
   - "[[Realism in International Relations]]"
@@ -112,7 +113,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Critique of Evidence-Based Education
@@ -266,7 +267,7 @@ updated: 2026-10-07
 > **[[Evidence Era\|证据时代]]的[[Rationalized Myth\|合理化神话]]、政府[[Gatekeepers\|守门人]]与[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM）** 在从测量时代走向[[Evidence Era\|证据时代]]的过程中，研究证据并未驱动客观中立的政策制定，而是异化为官僚体系彰显合法性的[[Rationalized Myth\|合理化神话]]；政府[[Gatekeepers\|守门人]]（如教育部高级官员与特别顾问）确立了强烈的“落地偏好”，通过扶植官方外围智库、选择性引证与定向委托审查，形成了[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM）闭环，使证据沦为证明政治行动“适宜性”（logic of appropriateness）与规避决策过失责任的防护盾牌。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 611–615)]]
 
 > [!claim] [[Argument_Cowen_2019_ERE\|Cowen (2019)]]
-> **政治经济学视角下 EBE 的官僚制度韧性** 运用塔洛克官僚理论解释 EBE 的顽强生命力：RCT 与[[Systematic Review\|系统综述]]作为对主权者高度透明的形式化过滤工具，其长期存续并非由于其实质性提升了教学质量，而是因为它们为官僚机构提供了“程序无可挑剔”的自保机制，只要遵循了循证程序即可免受问责追究。[[Argument_Cowen_2019_ERE\|(Cowen, 2019, pp. 110–115)]]
+> **政治经济学视角下 EBE 的[[Bureaucracy|官僚制]]度韧性** 运用塔洛克官僚理论解释 EBE 的顽强生命力：RCT 与[[Systematic Review\|系统综述]]作为对主权者高度透明的形式化过滤工具，其长期存续并非由于其实质性提升了教学质量，而是因为它们为官僚机构提供了“程序无可挑剔”的自保机制，只要遵循了循证程序即可免受问责追究。[[Argument_Cowen_2019_ERE\|(Cowen, 2019, pp. 110–115)]]
 
 > [!claim] [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]
 > **道德侧步与议会中的证据回避** 实证研究显示，即使研究证据在学界高度一致且充分，政治决策者仍可通过转移举证责任、诉诸地方权威和重新定义“证据”等“道德侧步”（moral sidestepping）手段系统性规避不利结论，揭示证据生产与证据采纳之间的政治鸿沟。[[Argument_Bainbridge_2022_ROE\|(Bainbridge et al., 2022, pp. 14–18)]]

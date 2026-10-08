@@ -7,7 +7,7 @@ aliases:
 summary: "全面质量管理（Total Quality Management, TQM）是以全员参与、流程持续改进（CQI）、学习者导向及客观数据决策为特征的组织治理范式。由戴明与朱兰奠基，经产业联盟（如 SEMATECH）实践后，于 1990 年代广泛渗透至高等教育质量保证与学校治理变革。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Teaching Assistant]]"
+  - "[[Bureaucracy]]"
   - "[[Neo-Taylorism]]"
   - "[[Disciplina and Doctrina]]"
   - "[[New Public Management]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Total Quality Management
@@ -76,7 +77,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向将质量控制从“末端产品质检与追责”前置为“全过程系统优化与全员能力赋能”的组织治理机制。
-> - **用途** 帮[[Teaching Assistant|助教]]育行政部门、高等院校与学校管理者识别科层制管理中的流程摩擦，构建以证据和持续反馈为支撑的内部质量保障体系。
+> - **用途** 帮[[Teaching Assistant|助教]]育行政部门、高等院校与学校管理者识别[[Bureaucracy|科层制]]管理中的流程摩擦，构建以证据和持续反馈为支撑的内部质量保障体系。
 > - **边界** 植根于流程可测性与系统工程逻辑，在面对教育独特的非线性价值探索、师生主体互动及深度人文生成过程时存在解释力边界。
 
 > [!citation-card] 关键表述

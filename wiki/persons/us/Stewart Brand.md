@@ -8,7 +8,7 @@ summary: "美国著名反文化代表人物、作家、环境主义者与网络�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -24,6 +24,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Techno-Utopianism]]"
+  - "[[Bureaucracy]]"
   - "[[Pragmatic Paradigm]]"
   - "[[San Francisco Bay Area]]"
   - "[[Paradigm]]"
@@ -99,7 +100,7 @@ updated: 2026-10-08
 ## 核心思想
 
 > [!claim] 核心主张
-> 斯图尔特·布兰德的核心思想在于打破国家科技官僚与军事工业复合体对前沿技术的垄断，将复杂的工程科技转化为普通公民触手可及的“个人赋权工具”。他认为 1960 年代反文化运动的核心遗产并非逃避现实，而是对科层制中央集权权威的彻底蔑视；这种蔑视与计算技术的微型化结合，创造了点对点、去中心化且自我组织的全新数字社会结构。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 98)]]
+> 斯图尔特·布兰德的核心思想在于打破国家科技官僚与军事工业复合体对前沿技术的垄断，将复杂的工程科技转化为普通公民触手可及的“个人赋权工具”。他认为 1960 年代反文化运动的核心遗产并非逃避现实，而是对[[Bureaucracy|科层制]]中央集权权威的彻底蔑视；这种蔑视与计算技术的微型化结合，创造了点对点、去中心化且自我组织的全新数字社会结构。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 98)]]
 
 > [!feature] 布兰德的科技文化四大信条
 > - **获取工具（Access to Tools）** 坚信只要赋予个体优质的工具与知识，人类便能自我管理、自主解决问题，无需依赖庞大的国家官僚或商业中介。

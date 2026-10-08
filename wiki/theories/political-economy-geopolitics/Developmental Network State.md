@@ -8,7 +8,7 @@ aliases:
 summary: "Fred Block（2008）与 Christopher Ansell（2000）提出的科技创新政治经济学理论，指区别于东亚集权科层发展型国家与英美放任规制国家的全新国家形态，强调国家通过分布式、去中心化的联邦机构网络与产学研多方协同促进颠覆性创新。Fuchs（2010）在此基础上提出批判性修正，证明国家公共代理人超越消极中介撮合，通过嵌入型网络治理主动引导国家战略技术轨道。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 33
+theory_related_count: 34
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Vertical Disintegration]]"
   - "[[Valley of Death]]"
   - "[[Brainstorming]]"
+  - "[[Bureaucracy]]"
   - "[[Research Question]]"
   - "[[Broad Agency Announcement]]"
   - "[[Research Universities]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Developmental Network State
@@ -138,7 +139,7 @@ updated: 2026-10-07
 > |:---|:---|:---|:---|
 > | **国家核心角色** | 市场中立裁判员、产权保护与反垄断 | 中央战略指挥官、产业规划者 | 分布式网络架构师、创新催化与乐队指挥家 |
 > | **科技干预工具** | 通用税收抵免、不设方向的无差别补贴 | 产业准入管制、指定赢家企业（Picking Winners） | 颠覆性使命发包、[[Embedded Network Governance\|嵌入型网络治理]]、建立跨界共同体 |
-> | **组织治理形态** | 规则导向型文官官僚制 | 纵向层级集权部委（如 [[Ministry of International Trade and Industry\|MITI]]、发展改革委） | 去中心化、多部门分权协作的敏捷项目经理网络 |
+> | **组织治理形态** | 规则导向型文官[[Bureaucracy\|官僚制]] | 纵向层级集权部委（如 [[Ministry of International Trade and Industry\|MITI]]、发展改革委） | 去中心化、多部门分权协作的敏捷项目经理网络 |
 > | **技术演化逻辑** | 市场价格信号主导自发演化 | 国家官僚钦定单一主导技术路线 | 通过多元技术试验与平台搭建协同开辟[[Technological Trajectories\|技术轨道]] |
 > | **典型代表案例** | 19 世纪英国、传统新自由主义政策倡议 | 战后日本（1950–1980s）、韩国早期重化工业化 | 战后美国（[[DARPA]]、[[National Science Foundation\|NSF]]、[[National Institutes of Health\|NIH]] 创新生态） |
 
@@ -156,7 +157,7 @@ updated: 2026-10-07
 >
 > | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
 > |:---|:---|:---|:---|
-> | **网络去中心化度** | 国家科技决策是集权指令还是分布式发包？ | 资助机构数量、自由裁量权下放程度、自下而上立项通道 | 若决策高度集中于单一非专业行政层级，则属于传统科层制而非 DNS。 |
+> | **网络去中心化度** | 国家科技决策是集权指令还是分布式发包？ | 资助机构数量、自由裁量权下放程度、自下而上立项通道 | 若决策高度集中于单一非专业行政层级，则属于传统[[Bureaucracy\|科层制]]而非 DNS。 |
 > | **公共代理人专业资本** | 项目官员是否具备对话学术与产业界的顶尖技术判断力？ | 官员学术履历、院士/顶刊发表记录、产业前沿经验 | 缺乏技术判断力易导致代理人沦为机械报销审核员，丧失网络引导能力。 |
 > | **网络拓扑重构力** | 治理者是否主动打破学科与产业链壁垒？ | 跨界研讨会频次、强制产学研联合申报机制、共性测试平台 | 单纯出资不重组网络属于消极中介；强制跨界协同方构成[[Embedded Network Governance\|嵌入型网络治理]]。 |
 > | **机制化退出与断乳** | 国家是否在技术成熟后及时退出以避免锁定与寻租？ | 资助周期限制、向市场资本移交机制、后续 [[National Science Foundation\|NSF]]/企业接力 | 长期僵化补贴特定企业属于挑选赢家陷阱；适时断乳则维系了生态活力。 |

@@ -8,7 +8,7 @@ aliases:
 summary: "由高年级或更有经验的同辈向新手学习者提供学术支持、认知脚手架与社会情感共情的对等指导模式，在高等教育与主动学习中广泛应用"
 type: concept
 domain: "higher-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Mentorship]]"
   - "[[Scaffolding]]"
   - "[[Critical Thinking]]"
+  - "[[Bureaucracy]]"
   - "[[Peer-Supported Learning]]"
   - "[[Homework]]"
   - "[[Construct]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-22
+updated: 2026-10-08
 ---
 
 # Peer Mentoring
@@ -53,7 +54,7 @@ updated: 2026-09-22
 > 同伴[[Mentorship\|导师制]]（Peer Mentoring，或近同伴导师制 Near-Peer Mentoring）是一种由具备相关学术与生活经验的高年级或同辈学习者（Peer Mentor），向新手或低年级学生（Mentee）提供结构化一对一或小组指导的教育实践。通过经验分享、[[Scaffolding\|认知脚手架]]搭建与社会情感支持，同伴导师制帮助受训者克服学业转型障碍、深化复杂问题理解并培养[[Critical Thinking\|批判性思维]]。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, p. 287)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 依托相近的发展阶段（Near-peer proximity），将导师关系从传统的垂直师生科层制转化为横向、对称且高心理安全感的同辈互助。
+> - **含义** 依托相近的发展阶段（Near-peer proximity），将导师关系从传统的垂直师生[[Bureaucracy|科层制]]转化为横向、对称且高心理安全感的同辈互助。
 > - **用途** 用于缓解大学新生过渡焦虑、提升学术留存率，并在探究性教学中为学习者提供即时的同伴反思脚手架。
 > - **边界** 必须具备明确的导师培训与指导目标；若无制度化设计，易退化为无目的的随意社交闲聊。
 

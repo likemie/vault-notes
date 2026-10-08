@@ -10,7 +10,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Selectivity]]"
   - "[[Discourse]]"
+  - "[[Bureaucracy]]"
 related_theories:
   - "[[Theory of Change]]"
   - "[[Neocorporatism]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # EU Skills Agenda
@@ -131,7 +132,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心[[Theory of Change|变�
 > - [[Performance Indicators]] — EUROSTAT 区域教育指标是 Skills Agenda 的核心治理工具
 > - [[Selectivity]] — Skills Agenda 在[[Lifelong Learning\|终身学习]]中系统性地优先就业维度
 > - [[Theories of Policy Change]] — 与 [[Innovation Union]] 共享"创新+教育协同演化"的因果叙事
-> - [[Network Governance]] — Skills Agenda 在地方层面的实施呈现官僚制与网络治理的混合模式
+> - [[Network Governance]] — Skills Agenda 在地方层面的实施呈现[[Bureaucracy|官僚制]]与网络治理的混合模式
 > - [[Youth Guarantee Scheme]] — 将教育与就业衔接制度化的配套政策
 > - [[Innovation Union]] — 同为 [[Europe 2020 Strategy\|Europe 2020]] 旗舰，共享[[Theory of Change\|变革理论]]
 > - [[Europe 2020 Strategy]] — Skills Agenda 所属的十年战略框架

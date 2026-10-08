@@ -7,7 +7,7 @@ title: "Argument_Rowe_2023_ECNUROE"
 argument_key: "Argument_Rowe_2023_ECNUROE"
 argument_display_title: "Philanthrocapitalism and the state: Mapping the rise of venture philanthropy in public education in Australia"
 argument_kind: "journal-article"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Catalytic Philanthropy]]"
   - "[[Discourse]]"
+  - "[[Bureaucracy]]"
   - "[[Consultocracy]]"
   - "[[Social Impact Investing]]"
   - "[[Boundary Spanner]]"
@@ -88,7 +89,7 @@ sources:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-09-20
+updated: 2026-10-08
 ---
 # Argument_Rowe_2023_ECNUROE
 
@@ -200,7 +201,7 @@ updated: 2026-09-20
 > - **国家空心化范式（蓝方）** 罗兹（Rhodes, 1996）等学者主张无政府治理（governance without government），断言跨国咨询采购与政策网络已实质掏空民族国家的垂直主权与统治权威。
 > - **恒定科层国家范式（红方）** 传统国家学者（Han & Ye, 2017; Shiroma, 2014）坚持中央科层仍处于不可动摇的支配位置，政策网络仅是服从国家命令的工具性执行机制。
 
-澳大利亚的实证证据否定了单纯的国家空心化假说：国家并未退场，而是与科层制及市场机制相叠加，演化为鲍尔（Stephen J. Ball）所界定的异层治理（heterarchy）。（pp. 522–523）
+澳大利亚的实证证据否定了单纯的国家空心化假说：国家并未退场，而是与[[Bureaucracy|科层制]]及市场机制相叠加，演化为鲍尔（Stephen J. Ball）所界定的异层治理（heterarchy）。（pp. 522–523）
 
 > [!feature] 异层国家的多维治理技术与市场缔造实践
 > - **全球领先的外包咨询采购支出** 联邦政府对私营顾问公司的采购支出自 2013 年起爆发式增长；按人均计算，澳大利亚管理咨询公共支出居全球首位，约为加拿大或瑞典等同类国家的两倍，呈现典型的[[Consultocracy\|顾问统治]]特征。（p. 522）
@@ -365,7 +366,7 @@ SVA 作为政策网络中枢，凭借严密的法人架构与跨国金融咨询�
 ## 关键引用
 
 > [!citation-card] [[Philanthrocapitalism\|慈善资本主义]]对国家传统再分配模式的颠覆
-> 慈善资本主义标志着对建立在传统再分配形式之上的科层制政府的彻底偏离。在传统模式中，作为主权与民主问责制度集合体的中心化科层制，通过向国民征收税款来决定货币分配。而慈善资本主义从根本上改变了资源与资金在人口中的再分配方式，传统政府通过赠款、高额合同或任命，将越来越多的资源重新导向中介机构（如咨询公司、私营组织与非营利机构）。（p. 522）
+> 慈善资本主义标志着对建立在传统再分配形式之上的[[Bureaucracy|科层制]]政府的彻底偏离。在传统模式中，作为主权与民主问责制度集合体的中心化科层制，通过向国民征收税款来决定货币分配。而慈善资本主义从根本上改变了资源与资金在人口中的再分配方式，传统政府通过赠款、高额合同或任命，将越来越多的资源重新导向中介机构（如咨询公司、私营组织与非营利机构）。（p. 522）
 >
 > *Philanthrocapitalism signals a radical shift away from bureaucratic government, established around traditional forms of redistribution, where the centered hierarchy, as a set of institutions that is sovereign and democratically accountable, determines monetary distribution via the extraction of revenue (taxation) from the polity. Philanthrocapitalism fundamentally alters the way in which resources and money are redistributed among the population, in that traditional government redirects an increased amount of resources to intermediaries (such as consultancies, private organizations, and not-for-profits) via grants, high-value contracts, or appointments.*
 

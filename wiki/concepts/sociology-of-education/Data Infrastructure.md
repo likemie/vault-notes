@@ -9,10 +9,10 @@ aliases:
 summary: "围绕教育数据的去情境化抽取、算法通约折算与选择性再呈现而动态装配的社会-技术网络；并非静态信息管道，而是充斥算法选择性与即兴调配的实验性系统，深陷简化、通约、时效、公开与博弈五维张力，通过次级代表表象生产分布式治理权力。"
 type: concept
 domain: "sociology-of-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/sociology-of-education
   - theme/datafication
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Commensuration]]"
   - "[[Knowledge Production]]"
+  - "[[Bureaucracy]]"
   - "[[Disciplina and Doctrina]]"
   - "[[School Inspection]]"
   - "[[Data Literacy]]"
@@ -57,7 +58,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Data Infrastructure
@@ -93,7 +94,7 @@ updated: 2026-10-07
 > | **[[Ontology\|本体论]]定位** | 开放、演化且高度纠缠价值立场的社会-技术[[Assemblage\|装配]]网络 | 封闭、静态、预设为客观中立的行政事务管理工具 | 以资本盈利与用户粘性为导向的商业化数字中介 |
 > | **核心机制** | 数据的去情境化抽取、算法[[Commensuration\|通约]]折算与分层再呈现 | 事实信息的层级流转、格式化归档与事务性统计输出 | 用户行为追踪、算法推荐、私有化协议与数据资产变现 |
 > | **[[Knowledge Production\|知识生产]]方式** | 充满妥协的试错调配（cooking）与多方利益拉锯 | 严格遵循预设业务逻辑与法条规章的标准录入与查询 | 基于黑箱算法与私有代码的自动化数据挖掘与预测 |
-> | **权力效应** | 制造次级代表表象，通过算法指标弥散性重塑治理能见度 | 维持科层制组织内部既有的行政汇报层级与监督权威 | 培育对商业平台的生态依赖，蚕食公共教育主权 |
+> | **权力效应** | 制造次级代表表象，通过算法指标弥散性重塑治理能见度 | 维持[[Bureaucracy\|科层制]]组织内部既有的行政汇报层级与监督权威 | 培育对商业平台的生态依赖，蚕食公共教育主权 |
 
 ---
 

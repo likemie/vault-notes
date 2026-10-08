@@ -12,7 +12,7 @@ aliases:
 summary: "由政府部门、中介组织、智库、高校与私有资本等多元行动者交织构成的网状治理结构。在批判政策社会学中揭示国家作为市场缔造者与私营中介协同重构再分配与理念编排的异层治理，在实证治理中测度政务网络规模与互动深度非线性解耦。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 59
+related_count: 60
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Co-affiliation]]"
   - "[[Evidence Ecosystem]]"
+  - "[[Bureaucracy]]"
   - "[[Cognitive Decoupling]]"
   - "[[Competitiveness]]"
   - "[[Falsification]]"
@@ -110,7 +111,7 @@ updated: 2026-10-08
 > [!concept-lens] 概念透镜
 > - **核心内涵** 描述教育决策权与证据动员权向网络状分布结构的分散化与再集中，兼具非正式权力结盟、公私资本嵌套、国家异层催化与科层政务咨询的多重面向。
 > - **理论用途** 一方面用于解构中立循证[[Discourse|话语]]背后的公私利益共生、跨界[[Co-affiliation\|共同从属]]与财政逆向再分配，另一方面用于诊断国家[[Evidence Ecosystem\|教育证据生态系统]]中信息流通的密度、频率与结构性梗阻。
-> - **制度边界** 既不同于严格遵循科层命令与公开问责的传统官僚制政府（Bureaucracy），也不同于松散自由的纯学术研讨圈，网络中的节点保持着制度化的常规互动、资金纽带、法律特许规程或人事渗透。
+> - **制度边界** 既不同于严格遵循科层命令与公开问责的传统[[Bureaucracy|官僚制]]政府（Bureaucracy），也不同于松散自由的纯学术研讨圈，网络中的节点保持着制度化的常规互动、资金纽带、法律特许规程或人事渗透。
 
 > [!citation-card] 部委政务网络中的非线性解耦
 > 部委定期征询政策输入的组织类别规模与日常互动的实际频率之间并未展现出简单的线性对应关系。广泛的征询名单并不等于深度的循证决策，警惕大网络陷阱要求我们将分析焦点从形式化的网络规模转向高频、实质性的人际与制度互动（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, p. 85]]）。
@@ -127,7 +128,7 @@ updated: 2026-10-08
 ## 概念辨析
 
 > [!contrast-table] 政策网络与相邻治理机制对比
-> | 维度 | 政策网络（Policy Network） | 官僚科层制（Bureaucracy） | 纯学术共同体（Epistemic Community） | 市场化咨询外包（Commercial Contracting） |
+> | 维度 | 政策网络（Policy Network） | [[Bureaucracy\|官僚科层制]]（Bureaucracy） | 纯学术共同体（Epistemic Community） | 市场化咨询外包（Commercial Contracting） |
 > |---|---|---|---|---|
 > | **治理结构与纽带** | 公私节点交叉缠绕的异质治理网状结构 | 垂直自上而下的层级法定指令与规章制度 | 基于同行评议与学术规范的学术网络 | 基于商业合同与买卖契约的交易关系 |
 > | **权力与控制来源** | 理念编排、多重人事任职与资金渗透 | 法定行政权威与国家强制力监督 | 学术声誉、方法学严谨性与知识发现 | 市场[[Competitiveness\|竞争力]]、交付效率与客户满意度 |

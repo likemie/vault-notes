@@ -5,7 +5,7 @@ subtype: institution
 region: france
 fact_region: "france"
 fact_kind: "institution"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
   - theme/modernisation
   - state-capacity
 related_concepts:
+  - "[[Bureaucracy]]"
   - "[[Picking the Willing]]"
   - "[[Social Impact Investing]]"
   - "[[Attrition]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-08
 title: French Modernisation Commissions
 aliases:
   - 法国现代化委员会
@@ -53,7 +54,7 @@ aliases:
 ## 机制定义与历史定位
 
 > [!claim] 核心定位
-> **法国现代化委员会（French Modernisation Commissions / Commissions de Modernisation）**是 1946 年由让·莫内（Jean Monnet）主导创设于法国国家计划总署（Commissariat Général du Plan）内部的产业协同与战略协商机制；该机制打破了传统科层制部委各自为政的条块分割，将国家财政与技术高级文官、骨干工业企业家、技术专家及工会代表集中在专业委员会中，通过共同制定长周期**指导性计划（Indicative Planning）**与推行[[Picking the Willing|挑选意愿者]]（Picking the willing）策略，引导全[[Social Impact Investing|社会投资]]聚焦于电力、钢铁、交通运输、核能及航空航天等战略基石领域，是二战后欧洲国家构建第一代与第二代使命导向政策规划能力的标志性制度创新。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–794)]]
+> **法国现代化委员会（French Modernisation Commissions / Commissions de Modernisation）**是 1946 年由让·莫内（Jean Monnet）主导创设于法国国家计划总署（Commissariat Général du Plan）内部的产业协同与战略协商机制；该机制打破了传统[[Bureaucracy|科层制]]部委各自为政的条块分割，将国家财政与技术高级文官、骨干工业企业家、技术专家及工会代表集中在专业委员会中，通过共同制定长周期**指导性计划（Indicative Planning）**与推行[[Picking the Willing|挑选意愿者]]（Picking the willing）策略，引导全[[Social Impact Investing|社会投资]]聚焦于电力、钢铁、交通运输、核能及航空航天等战略基石领域，是二战后欧洲国家构建第一代与第二代使命导向政策规划能力的标志性制度创新。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–794)]]
 
 > [!org-context] 历史背景与创设动因
 > - **运行时期与组织隶属** 1946 年 1 月戴高乐临时政府批准成立计划总署，直接隶属于法国总理府，由让·莫内出任首任计划专员；下设近二十个覆盖核心工业门类的现代化委员会。

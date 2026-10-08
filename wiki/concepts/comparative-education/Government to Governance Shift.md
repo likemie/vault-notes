@@ -8,7 +8,7 @@ aliases:
 summary: "描述国家治理模式从传统科层制统治转向多元行动者网络化治理的变化，教育治理在国家、国际组织、企业和非政府机构之间分工"
 type: concept
 domain: "comparative-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
   - theory/governance
   - theme/comparative-education
 related_concepts:
+  - "[[Bureaucracy]]"
   - "[[Network Governance]]"
   - "[[Global-Local Binary]]"
   - "[[Discourse]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Government to Governance Shift
@@ -42,7 +43,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!info]
-> 从统治到治理的转变描述了国家治理模式的变化。Government（统治）指传统的国家官僚机构自上而下的科层制管理，权力集中于国家机关。Governance（治理）指包括国家、国际组织、企业、大学、咨询公司、发展机构、区域集团和非政府组织等多元行动者共同参与的[[Network Governance\|网络化治理]]。这一转变并不一定意味着国家的削弱，但涉及教育治理在不同层级和不同类型行动者之间的分工（Dale, 2005, 引自 [[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]）。
+> 从统治到治理的转变描述了国家治理模式的变化。Government（统治）指传统的国家官僚机构自上而下的[[Bureaucracy|科层制]]管理，权力集中于国家机关。Governance（治理）指包括国家、国际组织、企业、大学、咨询公司、发展机构、区域集团和非政府组织等多元行动者共同参与的[[Network Governance\|网络化治理]]。这一转变并不一定意味着国家的削弱，但涉及教育治理在不同层级和不同类型行动者之间的分工（Dale, 2005, 引自 [[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]）。
 
 ---
 

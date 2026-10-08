@@ -9,7 +9,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Apprenticeship]]"
   - "[[Further Education]]"
   - "[[Network Governance]]"
+  - "[[Bureaucracy]]"
   - "[[Performance Indicators]]"
   - "[[Theories of Policy Change]]"
   - "[[Lifelong Learning]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Youth Guarantee Scheme
@@ -73,7 +74,7 @@ updated: 2026-10-07
 
 ### 治理安排
 
-欧盟理事会建议成员国"发展合作伙伴关系"，汇集来自各级政府、社会伙伴、企业、非政府组织和公民社会组织的多样行动者来实施该计划（European Council, 2013, C120/4; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.172]]）。这一安排体现了 [[Network Governance]] 在欧盟青年政策中的运作——政策实施不再依赖单一的科层制渠道，而是通过多元利益相关方网络进行协调。
+欧盟理事会建议成员国"发展合作伙伴关系"，汇集来自各级政府、社会伙伴、企业、非政府组织和公民社会组织的多样行动者来实施该计划（European Council, 2013, C120/4; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.172]]）。这一安排体现了 [[Network Governance]] 在欧盟青年政策中的运作——政策实施不再依赖单一的[[Bureaucracy|科层制]]渠道，而是通过多元利益相关方网络进行协调。
 
 ### 与旗舰倡议的关系
 

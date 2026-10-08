@@ -9,7 +9,7 @@ summary: "英国著名教育政策顾问与跨国管理咨询领袖，“交付�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 36
+person_related_count: 37
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -24,6 +24,7 @@ tags:
   - theme/evidence-based-education
 related_concepts:
   - "[[School Effectiveness]]"
+  - "[[Bureaucracy]]"
   - "[[Champ]]"
   - "[[Performance Indicators]]"
   - "[[Governing by Numbers]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-04
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Michael Barber
@@ -105,7 +106,7 @@ updated: 2026-10-07
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1997–2005 — 交付学体系建构与国家机器量规化阶段** 回应新工党执政后公共服务执行力涣散、科层制阻滞政策落地的现实困境，开创基于严格数据追踪的量化绩效交付模型。
+> - **1997–2005 — 交付学体系建构与国家机器量规化阶段** 回应新工党执政后公共服务执行力涣散、[[Bureaucracy|科层制]]阻滞政策落地的现实困境，开创基于严格数据追踪的量化绩效交付模型。
 >   - **代表著作** *Instruction to Deliver: Tony Blair, Public Services and the Challenge of Achieving Targets* (2007)；*Deliverology 101: A [[Champ\|field]] Guide For Educational Leaders* (2010)。
 >   - **关键概念／方法** [[Performance Indicators]]、[[Governing by Numbers]]、交付学（Deliverology）。
 >   - **阶段转向** 由早期的学术理论探索转向执政中枢的量规工程，主张政策成败在于执行阶段的指标监控而非文本宣示。
@@ -163,7 +164,7 @@ updated: 2026-10-07
 > > 探讨围绕[[Bernard Barber|巴伯]]将政府与学校系统改造为指标达标机器的哲学与伦理争议。
 > >
 > > - **批判比较教育学视角** [[Argument_Cowen_2023_CE\|Cowen (2023, p. 334)]] 与 Auld & Morris (2023) 尖锐指出，巴伯所宣扬的“交付科学”并非纯粹客观的行政技术，其实质是一种世俗化的“末日政治神学”。巴伯将自身包装成带来危机救赎的先知，将复杂深沉的教育价值彻底缩减为冰冷的比较指标和效率达标率，使国家行政机器沦为指标管理的附属品，在根本上挤压了教育的公共伦理与人性培育本质。
-> > - **技术官僚与政策辩护视角** 认为传统科层制官僚主义充斥拖延与推诿，在未建立严密交付追踪前，公共财政的巨额投入往往在漫长的行政链条中消解；交付学为政府落实选民承诺提供了清晰的执行纪律与可量化的问责依据。
+> > - **技术官僚与政策辩护视角** 认为传统[[Bureaucracy|科层制]]官僚主义充斥拖延与推诿，在未建立严密交付追踪前，公共财政的巨额投入往往在漫长的行政链条中消解；交付学为政府落实选民承诺提供了清晰的执行纪律与可量化的问责依据。
 >
 > > [!axis] 独立专业建议 vs 商业咨询与教育产业化旋转门
 > > 审视巴伯穿梭于政界、商界与教育智库之间所引发的公共性危机。

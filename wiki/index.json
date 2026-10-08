@@ -8113,6 +8113,18 @@
     ]
   },
   {
+    "title": "Flocking Behavior",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Flocking Behavior.md",
+    "aliases": [
+      "集群行为",
+      "鸟群协同",
+      "群飞行为",
+      "群体集群运动",
+      "椋鸟群飞"
+    ]
+  },
+  {
     "title": "Flow",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Flow.md",
@@ -8379,6 +8391,17 @@
     ]
   },
   {
+    "title": "Undirected Cooperation",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Undirected Cooperation.md",
+    "aliases": [
+      "无指挥协同",
+      "无指导合作",
+      "无中心合作",
+      "自发性合作"
+    ]
+  },
+  {
     "title": "Updating and Monitoring",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Updating and Monitoring.md",
@@ -8485,6 +8508,18 @@
       "BAA",
       "广泛机构公告",
       "Broad Agency Announcements"
+    ]
+  },
+  {
+    "title": "Bureaucracy",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Bureaucracy.md",
+    "aliases": [
+      "科层制",
+      "官僚制",
+      "官僚科层制",
+      "科层官僚制",
+      "层级科层制"
     ]
   },
   {
@@ -9060,6 +9095,17 @@
       "产业政策协调者",
       "Orchestrator of Industrial Policy",
       "State as Orchestrator"
+    ]
+  },
+  {
+    "title": "Organizational Culture Change",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Organizational Culture Change.md",
+    "aliases": [
+      "组织文化变革",
+      "组织文化转型",
+      "组织文化重塑",
+      "组织文化重构"
     ]
   },
   {
@@ -15799,7 +15845,6 @@
       "技术-经济范式",
       "技术经济范式",
       "技术—经济范式",
-      "techno-economic paradigm",
       "techno-economic paradigms"
     ]
   },
@@ -21939,8 +21984,7 @@
     "path": "wiki/persons/italy/Giorgio Parisi.md",
     "aliases": [
       "乔治·帕里西",
-      "帕里西",
-      "Parisi"
+      "帕里西"
     ]
   },
   {

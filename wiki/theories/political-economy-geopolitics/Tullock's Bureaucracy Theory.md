@@ -6,7 +6,7 @@ aliases:
 summary: "官僚制作为信息处理金字塔，主权者面临的核心挑战是知识问题与委托困境，Cowen 将其应用于解释 EBE 的制度韧性"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 19
+theory_related_count: 20
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -20,6 +20,7 @@ tags:
 - paradigm/rational-choice
 - region/global
 related_concepts:
+  - "[[Bureaucracy]]"
   - "[[Knowledge Questions]]"
   - "[[General Education]]"
   - "[[Evidence-Based Education]]"
@@ -47,13 +48,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-09-15
+updated: 2026-10-08
 ---
 
 ## 核心主张
 
 > [!info] 核心主张
-> 官僚制本质上是信息处理金字塔：信息从底层向上汇总分析，决策从顶层向下分派执行。**主权者（sovereign）面临的不是下属自利问题，而是[[Knowledge Questions\|知识问题]]**——她无法获得全景式把握，也无法提供完美指令。因此官僚制的核心挑战是：如何委托权力与资源，使得下属在没有完整监督的情况下做出与主权者意愿一致的决策。
+> [[Bureaucracy|官僚制]]本质上是信息处理金字塔：信息从底层向上汇总分析，决策从顶层向下分派执行。**主权者（sovereign）面临的不是下属自利问题，而是[[Knowledge Questions\|知识问题]]**——她无法获得全景式把握，也无法提供完美指令。因此官僚制的核心挑战是：如何委托权力与资源，使得下属在没有完整监督的情况下做出与主权者意愿一致的决策。
 >
 > > "The sovereign cannot gain a synoptic grasp of all the relevant information nor provide perfectly detailed instructions for all her subordinates." ([[Argument_Cowen_2019_ERE\|Cowen, 2019, p. 6, paraphrasing Tullock, 2005]])
 
@@ -109,7 +110,7 @@ updated: 2026-09-15
 ## 发展脉络
 
 > [!note-] 发展脉络
-> - **1965/2005** — Tullock 在 *The Politics of Bureaucracy* 中提出官僚制的[[Knowledge Questions\|知识问题]]模型
+> - **1965/2005** — Tullock 在 *The Politics of [[Bureaucracy]]* 中提出官僚制的[[Knowledge Questions\|知识问题]]模型
 > - **1968/1994** — Niskanen 提出官僚预算最大化模型（与 Tullock 不同，Niskanen [[Hypothesis\|假设]]官僚自利）；Dunleavy (1991) 提出官僚 career-driven 模型
 > - **2019** — Cowen 将 Tullock 模型扩展至 [[Evidence-Based Education\|EBE]]，从公共选择角度解释[[Experimental Research\|实验研究]][[Paradigm\|范式]]为何占据主导
 
@@ -135,7 +136,7 @@ updated: 2026-09-15
 > - **批评立场** 公共行政学者（如 Dunleavy, 1991）指出，现代民主国家的教育决策并非由单一"主权者"作出——课程改革涉及教育部、考试机构、学校管理层、教师工会等多重主体，它们之间是谈判而非命令关系。
 > - **[[Argument_Cowen_2019_ERE\|Cowen (2019)]] 的回应** Cowen 承认 Tullock 模型是简化，但认为这一简化具有分析价值——即使在分散决策系统中，每个决策层级内部仍面临 Tullock 描述的"[[Knowledge Questions\|知识问题]]"：部长无法了解所有学校、校长无法了解所有课堂。主权者隐喻在分析上是可分层应用的（基于 Cowen, 2019, pp. 5–7）
 >
-> **目前状态** 主权者隐喻的简化程度在公共选择传统内部也被持续讨论。但 Cowen 论证，即使放宽这一假设，Tullock 的核心洞见（知识问题而非自利问题是官僚制的根本挑战）仍然成立。
+> **目前状态** 主权者隐喻的简化程度在公共选择传统内部也被持续讨论。但 Cowen 论证，即使放宽这一假设，Tullock 的核心洞见（知识问题而非自利问题是[[Bureaucracy|官僚制]]的根本挑战）仍然成立。
 
 
 > [!warning] 对非认知因素的排除：激励冲突与知识问题并存

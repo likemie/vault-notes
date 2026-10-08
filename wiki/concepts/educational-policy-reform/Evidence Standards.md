@@ -9,7 +9,7 @@ aliases:
 summary: "指知识中介机构与证据门户用于规范、筛选和评定研究证据可信度与相关性的方法学准则、报告标准及功效主张判定体系，用于防范未获充分实证支持的结论误导政策与教学实践"
 type: concept
 domain: "educational-policy-reform"
-related_count: 84
+related_count: 85
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Null Hypothesis]]"
   - "[[Access and Acceptance in Research]]"
   - "[[Professional Judgment]]"
+  - "[[Bureaucracy]]"
   - "[[Months of Progress]]"
   - "[[Document]]"
   - "[[Cumulative Knowledge Base]]"
@@ -113,7 +114,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-03
+updated: 2026-10-08
 ---
 
 # Evidence Standards
@@ -374,7 +375,7 @@ updated: 2026-10-03
 > - **二级汇聚数据库的多源标准交叉污染** 类似 Results First 等综合性清算库直接聚合来自不同机构的评级结果，由于底层评价口径迥异，导致同名项目在库内出现评级冲突，严重扰乱政策采购判断。
 
 > [!warning] 适用局限
-> 高严谨度的证据标准无法独立解决教育系统的资源匮乏与接纳环境迟滞。若缺乏基层教师的研讨工时保障与[[Professional Judgment\|专业判断]]支持，机械强化外部证据标准往往会沦为教育官僚制推卸决策责任的技术护身符。
+> 高严谨度的证据标准无法独立解决教育系统的资源匮乏与接纳环境迟滞。若缺乏基层教师的研讨工时保障与[[Professional Judgment\|专业判断]]支持，机械强化外部证据标准往往会沦为教育[[Bureaucracy|官僚制]]推卸决策责任的技术护身符。
 
 ---
 

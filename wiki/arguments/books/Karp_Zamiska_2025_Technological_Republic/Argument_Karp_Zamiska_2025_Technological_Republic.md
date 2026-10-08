@@ -7,7 +7,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic"
 argument_display_title: "The Technological Republic: Hard Power, Soft Belief, and the Future of the West"
 argument_kind: "book"
-argument_related_count: 117
+argument_related_count: 127
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Hard Belief]]"
   - "[[Innovation Desert]]"
   - "[[Research Translation]]"
+  - "[[Swarm Intelligence]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[AI Deterrence]]"
   - "[[Artificial General Intelligence]]"
@@ -72,6 +73,10 @@ related_concepts:
   - "[[Elite Overproduction]]"
   - "[[Technological Pastiche]]"
   - "[[Engineering Mindset]]"
+  - "[[Flocking Behavior]]"
+  - "[[Edge Autonomy]]"
+  - "[[Paradigm]]"
+  - "[[Dance Language of Bees]]"
   - "[[Document]]"
 related_persons:
   - "[[Alexander Karp]]"
@@ -125,6 +130,9 @@ related_persons:
   - "[[Peter Turchin]]"
   - "[[Talcott Parsons]]"
   - "[[Alan Greenspan]]"
+  - "[[Martin Lindauer]]"
+  - "[[Giorgio Parisi]]"
+  - "[[Karl von Frisch]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02]]"
@@ -135,6 +143,7 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10]]"
 related_theories:
   - "[[Organizational Culture]]"
   - "[[Orientalism]]"
@@ -155,6 +164,7 @@ related_facts:
   - "[[Homebrew Computer Club]]"
   - "[[Whole Earth Catalog]]"
   - "[[Dot-Com Bubble]]"
+  - "[[Eck Swarm Experiment]]"
 status: draft
 created: '2026-10-07'
 updated: '2026-10-08'
@@ -183,7 +193,7 @@ updated: '2026-10-08'
 > |---|---|---|
 > | **第一部：软件世纪**<br>Part I: The Software Century | 第 1–4 章（pp. 3–54） | **现实危机诊断** 追溯硅谷起源于战时科技动员与国家安全战略的历史事实；揭示工程师精英与国家使命的脱节脱钩，剖析从传统动能战争向 AI 武器、[[Autonomous Drone Swarms\|自主无人机蜂群]]与算法软件战争转型的极端紧迫性。 |
 > | **第二部：美国心智的空洞化**<br>Part II: The Hollowing Out of the American Mind | 第 5–9 章（pp. 57–111） | **深层根源溯源** 历史性剖析 1960–1970 年代以来的文化批判与国家认同解构；揭示特权体系瓦解后留下的道德真空被晚期资本主义狭隘功利与消费主义所占据，导致技术精英陷入政治冷漠与安全搭便车心态。 |
-> | **第三部：工程思维**<br>Part III: The Engineering Mindset | 第 10–14 章（pp. 115–167） | **组织文化解密** 系统解密帕兰提尔（Palantir）反传统的工程组织文化；借鉴蜜蜂与椋鸟的去中心化群智能、即兴戏剧团队组织，抵御权威从众效应，展示在阿富汗反简易爆炸装置（IED）等生死实战情境中快速迭代作战软件的工程演化机制。 |
+> | **第三部：工程思维**<br>Part III: The Engineering Mindset | 第 10–14 章（pp. 115–167） | **组织文化解密** 系统解密帕兰提尔（Palantir）反传统的工程组织文化；借鉴蜜蜂与椋鸟的去中心化[[Swarm Intelligence\|群智能]]、即兴戏剧团队组织，抵御权威从众效应，展示在阿富汗反简易爆炸装置（IED）等生死实战情境中快速迭代作战软件的工程演化机制。 |
 > | **第四部：重建技术共和国**<br>Part IV: Rebuilding the Technological Republic | 第 15–18 章（pp. 171–218） | **实践重构纲领** 提出重塑技术共和国的系统行动路线；彻底消灭公共部门的[[Innovation Desert\|创新荒漠]]，以讲求实战成果与权责对称的工程组织文化重塑国家治理，重建凝聚全社会奋斗意志的公共文化与共同体信念。 |
 
 > [!logic-map]- 全书四部层层递进论证逻辑流图
@@ -232,7 +242,7 @@ updated: '2026-10-08'
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07\|第7章 A Balloon Cut Loose]] | Part II: The Hollowing Out of the American Mind；原书 pp. 83–96。系统剖析战后大学[[Western Civilization Course\|西方文明通识课]]的退潮与[[Canon Wars\|经典之争]]，揭示切耶特、阿皮亚与萨义德对大叙事的解构如何瓦解了作为[[Civic Religion\|公民宗教]]的国家认同，批判后殖民话语建制化与身份政治对客观真理的侵蚀，援引弗格森经济实证与内特·银论事实与价值的[[Cognitive Decoupling\|认知脱钩]]能力，揭示断线气球造成的薄弱归属感与硅谷科技精英政治虚无的深层根源。 | [[Western Civilization Course\|西方文明通识课程]]、[[Canon Wars\|经典之争]]、[[Civic Religion\|公民宗教]]、[[Cognitive Decoupling\|认知脱钩]]、[[Orientalism\|东方主义]]、[[Fredric L. Cheyette\|切耶特]]、[[William H. McNeill\|麦克尼尔]]、[[Kwame Anthony Appiah\|阿皮亚]]、[[Samuel P. Huntington\|亨廷顿]]、[[Edward Said\|萨义德]]、[[Pankaj Mishra\|米什拉]]、[[Niall Ferguson\|弗格森]]、[[Nate Silver\|内特·银]]、[[Winston Churchill\|丘吉尔]]、[[1968 Stanford Western Civ Reform\|斯坦福废除西方文明课]]、[[Huntington-Wallace Line\|亨廷顿-华莱士线]] |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08\|第8章 “Flawed Systems”]] | Part II: The Hollowing Out of the American Mind；原书 pp. 97–102。考察1960–1970年代反文化与反战思潮如何塑造个人计算反抗国家建制的文化基因；揭示费尔森斯坦与布兰德等将技术重塑为反抗官僚体制的解放武器，利维提炼[[Hacker Ethic\|黑客伦理]]并将官僚定性为“缺陷系统”；剖析乔布斯亲密个人产品美学以及国家认同解构后硅谷向唯利是图的[[Consumer Internet\|消费互联网]]与技术不可知论彻底退缩。 | [[Hacker Ethic\|黑客伦理]]、[[Counterculture Computing\|反文化计算]]、[[Consumer Internet\|消费互联网]]、[[Technological Agnosticism\|技术不可知论]]、[[Steve Jobs\|乔布斯]]、[[Steven Levy\|利维]]、[[Stewart Brand\|布兰德]]、[[Lee Felsenstein\|费尔森斯坦]]、[[Homebrew Computer Club\|家酿计算机俱乐部]]、[[Whole Earth Catalog\|全球概览]]、[[Vannevar Bush\|布什]]、[[J. Robert Oppenheimer\|奥本海默]] |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09\|第9章 Lost in Toyland]] | Part II: The Hollowing Out of the American Mind；原书 pp. 103–111。以1990年代末eToys与[[Dot-Com Bubble\|互联网泡沫]]的兴衰为切入点，剖析硅谷技术精英向浅层日常消费品零售的盲目退缩；揭示2010年代以打车、外卖为代表的[[Lifestyle Technology\|生活方式科技]]源于[[Elite Overproduction\|精英生产过剩]]机制下受挫工程师模拟贵族特权的认知失调；援引格雷伯论[[Technological Pastiche\|技术拼贴]]与格林斯潘论资本狂热的无差别性，论证西方科技界在放弃国家战略使命后陷入[[Big Idea Famine\|大构想饥荒]]，并指出在泡沫经济废墟中沉淀下的[[Engineering Mindset\|工程思维]]将成为重构[[Technological Republic\|技术共和国]]的最核心组织遗产。 | [[Dot-Com Bubble\|互联网泡沫]]、[[Elite Overproduction\|精英生产过剩]]、[[Lifestyle Technology\|生活方式科技]]、[[Technological Pastiche\|技术拼贴]]、[[Engineering Mindset\|工程思维]]、[[Peter Turchin\|图尔钦]]、[[Talcott Parsons\|帕森斯]]、[[David Graeber\|格雷伯]]、[[Alan Greenspan\|格林斯潘]]、[[Consumer Internet\|消费互联网]]、[[Big Idea Famine\|大构想饥荒]] |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10\|第10章 The Eck Swarm]] | Part III: The Engineering Mindset；原书 pp. 115–121。以1951年马丁·林道尔对慕尼黑埃克蜂群的经典野外观测和乔治·帕里西对罗马椋鸟群飞的物理研究为经验切入点，系统解密生物界无中心控制的大规模协同机制；指出初创工程组织的理想原型应是去中心化的蜂群，通过将感知与决断权最大程度下放到处于外部前沿的边缘节点（边缘自治），彻底破除传统科层制层层设卡、形式主义周报与内耗性免责博弈，为重构技术共和国提供敏捷高效的工程组织文化范式。 | [[Martin Lindauer\|马丁·林道尔]]、[[Karl von Frisch\|卡尔·冯·弗里施]]、[[Giorgio Parisi\|乔治·帕里西]]、[[Eck Swarm Experiment\|埃克蜂群实验]]、[[Swarm Intelligence\|群智能]]、[[Dance Language of Bees\|蜜蜂舞蹈语言]]、[[Edge Autonomy\|边缘自治]]、[[Engineering Mindset\|工程思维]]、[[Technological Republic\|技术共和国]]、[[Organizational Culture\|组织文化]] |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10\|第10章 The Eck Swarm]] | Part III: The Engineering Mindset；原书 pp. 115–121。以1951年[[Martin Lindauer\|马丁·林道尔]]对慕尼黑[[Eck Swarm Experiment\|埃克蜂群]]的经典野外观测和[[Giorgio Parisi\|乔治·帕里西]]对罗马[[Flocking Behavior\|椋鸟群飞]]的物理研究为经验切入点，系统解密生物界无中心控制的大规模协同机制；指出初创工程组织的理想原型应是去中心化的蜂群，通过将感知与决断权最大程度下放到处于外部前沿的边缘节点（[[Edge Autonomy\|边缘自治]]），彻底破除传统科层制层层设卡、形式主义周报与内耗性免责博弈，为重构技术共和国提供敏捷高效的工程[[Organizational Culture\|组织文化]][[Paradigm\|范式]]。 | [[Martin Lindauer\|马丁·林道尔]]、[[Karl von Frisch\|卡尔·冯·弗里施]]、[[Giorgio Parisi\|乔治·帕里西]]、[[Eck Swarm Experiment\|埃克蜂群实验]]、[[Swarm Intelligence\|群智能]]、[[Dance Language of Bees\|蜜蜂舞蹈语言]]、[[Edge Autonomy\|边缘自治]]、[[Engineering Mindset\|工程思维]]、[[Technological Republic\|技术共和国]]、[[Organizational Culture\|组织文化]] |
 > | 第11章 The Improvisational Startup | Part III: The Engineering Mindset；原书 pp. 122–129。[Ch11_The_Improvisational_Startup.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch11_The_Improvisational_Startup.txt)。待解读。 | — |
 > | 第12章 The Disapproval of the Crowd | Part III: The Engineering Mindset；原书 pp. 130–138。[Ch12_The_Disapproval_of_the_Crowd.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch12_The_Disapproval_of_the_Crowd.txt)。待解读。 | — |
 > | 第13章 Building a Better Rifle | Part III: The Engineering Mindset；原书 pp. 139–155。[Ch13_Building_a_Better_Rifle.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch13_Building_a_Better_Rifle.txt)。待解读。 | — |

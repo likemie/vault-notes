@@ -9,7 +9,7 @@ title: "Argument_Rambla_2022_Springer"
 argument_key: "Argument_Rambla_2022_Springer"
 argument_display_title: "Imaginaries of Education and Innovation in the European Union"
 argument_kind: "book"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Policy Network]]"
   - "[[Apprenticeship]]"
+  - "[[Bureaucracy]]"
   - "[[Innovation Park]]"
   - "[[Operationalization]]"
   - "[[Heterogeneity]]"
@@ -78,7 +79,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-13'
-updated: 2026-09-18
+updated: 2026-10-08
 year: 2022
 doi: ""
 citation_aliases:
@@ -192,7 +193,7 @@ Rambla 的论证逐层推进，从分析工具的建立到空间背景的交代�
 >
 > **发现 2：专业人员对变革理论的内化差异。** 在制度传统较强的国家（奥地利、德国、芬兰），地方专业人员不仅了解欧盟的官方话语，还将其翻译为本地的系统性变革理论（"学徒制系统""公私民合作""就业管道"）。但在欧盟话语较晚引入的地区，专业人员缺乏系统的变革理论来组织服务，更倾向于依赖对青年受益人的负面刻板印象(p.173)。
 >
-> **发现 3：地方层面的自下而上创新。** 在意大利利古里亚(Bartolini, 2018)和西班牙加泰罗尼亚(Tarabini et al., 2017)的第二机会学校（second-chance schools）案例中，非营利组织和学校主动将自身从"最后一搏的补救站"重新定义为"教育性、高标准的服务机构"。在加泰罗尼亚，非营利组织先行独立创建模式，然后向市政府申请公共支持——由此形成了一种自下而上的新型政治关系。关键洞察在于：这种模式创新既不同于传统的科层制逻辑（政府拨款→学校执行），也不同于市场化逻辑（政府外包→企业接单），而是一种网络治理的地方创新——但它完全不在 EUROSTAT 的任何绩效指标之中。
+> **发现 3：地方层面的自下而上创新。** 在意大利利古里亚(Bartolini, 2018)和西班牙加泰罗尼亚(Tarabini et al., 2017)的第二机会学校（second-chance schools）案例中，非营利组织和学校主动将自身从"最后一搏的补救站"重新定义为"教育性、高标准的服务机构"。在加泰罗尼亚，非营利组织先行独立创建模式，然后向市政府申请公共支持——由此形成了一种自下而上的新型政治关系。关键洞察在于：这种模式创新既不同于传统的[[Bureaucracy|科层制]]逻辑（政府拨款→学校执行），也不同于市场化逻辑（政府外包→企业接单），而是一种网络治理的地方创新——但它完全不在 EUROSTAT 的任何绩效指标之中。
 
 > [!example]- 第 6 步：揭示选择性机制——指标体系系统性地排除了什么
 > 在前述分析与实证铺垫的基础上，Rambla 转向其核心批判：绩效指标体系实施了一种系统性、结构性的选择性（selectivity）。这不是某个决策者的个人偏好，而是指标体系设计本身的结构特征(p.174–175)：

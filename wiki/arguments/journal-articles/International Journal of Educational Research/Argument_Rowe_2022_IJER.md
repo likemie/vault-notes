@@ -30,6 +30,7 @@ related_concepts:
   - "[[Co-affiliation]]"
   - "[[Epistemology]]"
   - "[[Policy Mobility]]"
+  - "[[Bureaucracy]]"
   - "[[Going Native]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Paradigm]]"
@@ -73,14 +74,14 @@ sources:
 part_of:
 status: completed
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-08
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Rowe_2022_IJER"
 argument_key: "Argument_Rowe_2022_IJER"
 argument_display_title: "The assemblage of inanimate objects in educational research: Mapping venture philanthropy, policy networks and evidence brokers"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -171,7 +172,7 @@ issuing_organization: ""
 > [!policy-context] 证据机构的公共表象与合法性修辞
 > - **中立修辞与技术规约** AERO 宣称自身为超越党派纷争的独立证据经纪人，将核心使命界定为生产高质量证据、传播高质量证据、加速证据在课堂与政策中的应用；通过统一的标准化证据量规（evidence rubrics）与因果实验，声称能够将政治彻底移出课堂。（p. 2）
 > - **借用文化声誉的道德杠杆** AERO 将自身合法性完全锚定在 2018 年联邦政府发起的《[[Gonski 2.0]]》审查报告第 23 条建议上；[[David Gonski\|戴维·冈斯基]]（David Gonski）作为长期呼吁增加公立教育投入的商业顾问，其名字已在公立教师工会发起的 `#igiveagonski` 运动中被升格为一种道德动词，[[Policy Network\|政策网络]]策略性地利用认知标签（epistemic label）来换取公众信任。（pp. 2–3）
-> - **地方科层制度母本** AERO 并非凭空创生，其地方前驱为新南威尔士州教育部设立的教育统计与评估中心（[[Centre for Educational Statistics and Evaluation\|CESE NSW]]）；[[Comparative Education Society in Europe\|CESE]] NSW 创设主任珍妮·多诺万（Jenny Donovan）随后出任 AERO 首任首席执行官，见证了循证中介从州级公立科层向国家级公私混合异质网络的演进（Lewis & Hogan, 2019；Rowe, 2022, p. 2）。
+> - **地方[[Bureaucracy|科层制]]度母本** AERO 并非凭空创生，其地方前驱为新南威尔士州教育部设立的教育统计与评估中心（[[Centre for Educational Statistics and Evaluation\|CESE NSW]]）；[[Comparative Education Society in Europe\|CESE]] NSW 创设主任珍妮·多诺万（Jenny Donovan）随后出任 AERO 首任首席执行官，见证了循证中介从州级公立科层向国家级公私混合异质网络的演进（Lewis & Hogan, 2019；Rowe, 2022, p. 2）。
 
 #### 2. 公司法注册与特许慈善合作的法律事实
 

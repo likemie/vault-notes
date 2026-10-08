@@ -7,10 +7,10 @@ aliases:
 summary: "以相对风险规避为核心机制解释不同阶层教育选择差异的中层社会学理论，主张教育决策是个体在阶级约束条件下对成本、风险和收益的理性权衡。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 31
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 32
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 tags:
   - rational-action-theory
   - social-stratification
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Cultural Barrier]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
+  - "[[Bureaucracy]]"
   - "[[Postpositivism]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -58,7 +59,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-03
+updated: 2026-10-08
 ---
 
 # Rational Action Theory
@@ -159,7 +160,7 @@ updated: 2026-10-03
 ## 局限性与适用边界
 
 > [!theory-boundary] 局限性与适用边界
-> - **适合分析** 现代化科层制社会中具有清晰资格认证阶梯的教育体系；义务教育后的高利害升学分叉点；大规模定量社会流动与教育分层研究。
+> - **适合分析** 现代化[[Bureaucracy|科层制]]社会中具有清晰资格认证阶梯的教育体系；义务教育后的高利害升学分叉点；大规模定量社会流动与教育分层研究。
 > - **成立条件** 行动者对劳动力市场凭证回报具有一定程度的信息掌握；教育系统具备制度化选拔规则与多重分流通道；家庭具备基本的长期生涯规划空间。
 > - **解释不足** 无法充分解释“首属效应”（早期认知与学业优势如何产生）；难以解释为何存在大量出于理想、信仰、学术热爱或道德感召而做出的“超理性”或“反效用”教育抉择；在急剧变迁或制度动荡期，客观风险参数失真导致模型预测力下降。
 > - **转化困难** 相对风险规避倾向与主观成功胜算在经验测量中往往缺乏标准化直接指标，极易沦为事后合理化的同义反复解释。

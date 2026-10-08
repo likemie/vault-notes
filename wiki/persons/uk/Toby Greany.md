@@ -7,7 +7,7 @@ summary: "英国诺丁汉大学教育领导力教授，前伦敦大学学院教�
 type: person
 nationality: "uk"
 person_region: "uk"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[School Leadership]]"
   - "[[Self-Improving School System]]"
+  - "[[Bureaucracy]]"
   - "[[Network Governance]]"
   - "[[Joint Practice Development]]"
   - "[[Factorial Interpretive Framework]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-09-21
+updated: 2026-10-08
 ---
 
 # Toby Greany
@@ -63,7 +64,7 @@ updated: 2026-09-21
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国著名教育政策与领导力学者，诺丁汉大学（University of Nottingham）教育学院教育领导力与管理讲席教授，前伦敦大学学院教育研究院（UCL IOE）学习领导力中心（London Centre for Leadership in Learning）主任，前英格兰国家[[School Leadership\|学校领导力]]学院（National College for School Leadership, NCSL）研究与发展执行主任。
-> - **核心角色** 英格兰“[[Self-Improving School System\|自我改进学校系统]]”（Self-Improving School System, SISS）理论构建与实证评估的奠基学者，后科层制校际[[Network Governance\|网络治理]]、[[Teaching Schools\|教学学校联盟]]（TSAs）、多学院信托（MAT）与证据知情领导力研究的领军人物。
+> - **核心角色** 英格兰“[[Self-Improving School System\|自我改进学校系统]]”（Self-Improving School System, SISS）理论构建与实证评估的奠基学者，后[[Bureaucracy|科层制]]校际[[Network Governance\|网络治理]]、[[Teaching Schools\|教学学校联盟]]（TSAs）、多学院信托（MAT）与证据知情领导力研究的领军人物。
 > - **代表贡献**
 >   1. 权威界定英格兰自我改进学校系统的核心特征与四大政策标准，揭示权力下放与高压督导并存的深层体制张力（Greany, 2014, 2015）。
 >   2. 主持英格兰“教学学校联盟”（TSAs）国家级追踪评估（Gu et al., 2014, 2015），实证揭示校际网络承担研发与专业发展职责时的不可持续负荷与资源瓶颈。

@@ -10,7 +10,7 @@ aliases:
 summary: "指将私营企业的市场逻辑、绩效问责、契约管理与成本中心核算移植到公共教育特别是高等教育机构中的治理范式，强调通过目标量化、审计文化与行政集权重构学术组织。"
 type: concept
 domain: "higher-education"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
   - level/higher-ed
   - region/global
 related_concepts:
+  - "[[Bureaucracy]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Performance Indicators]]"
   - "[[Discourse]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # New Managerialism
@@ -61,7 +62,7 @@ updated: 2026-10-07
 > [!concept-lens] 概念透镜
 > - **含义** 指向公共教育机构内部权力结构向专业管理者与行政考核指标倾斜的组织控制逻辑。
 > - **用途** 帮助研究者透视高等教育市场化、学术劳工无产阶级化以及量化审计文化如何重塑大学的科研与教学实践。
-> - **边界** 不等于传统的韦伯式科层行政（Bureaucracy），也不等于一般意义上的学术质量评估；其核心特质在于以市场收益、外包竞争与目标产出替代传统的同行自主与专业声誉。
+> - **边界** 不等于传统的韦伯式科层行政（[[Bureaucracy]]），也不等于一般意义上的学术质量评估；其核心特质在于以市场收益、外包竞争与目标产出替代传统的同行自主与专业声誉。
 
 > [!citation-card] 市场化[[Disciplina and Doctrina|规训]]与学术机构的新管理主义
 > 在高等教育层面，新管理主义将市场的语言与逻辑全面应用于监督学术单位的日常运作与产出成果。政府在缩减公共开支的同时，强调选择、问责、标准与测试，国家的角色转变为设定目标与优先事项，并通过绩效评估来审查次级行政单元乃至单所学校是否达成了预期结果。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]
@@ -77,7 +78,7 @@ updated: 2026-10-07
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 新管理主义（New Managerialism） | 传统大学自治（Academic Collegiality） | 传统韦伯式科层制（Bureaucracy） |
+> | 维度 | 新管理主义（New Managerialism） | 传统大学自治（Academic Collegiality） | 传统韦伯式[[Bureaucracy\|科层制]]（Bureaucracy） |
 > |---|---|---|---|
 > | **权力重心** | 职业管理者与行政考核主管 | 教授会、学者同行与学术委员会 | 遵循既定章程的常任事务官僚 |
 > | **评价机制** | 关键[[Performance Indicators\|绩效指标]]（KPIs）、审计评级与产出效益 | 同行评议、学术声誉与学术共同体共识 | 规则合规性、程序合法性与年资序列 |
@@ -128,7 +129,7 @@ updated: 2026-10-07
 > 剖析新管理主义如何在“去中心化”、“扩大[[School Autonomy|学校自主权]]”的政策修辞下，实现更严密的远距离中央控制。
 
 > [!claim] Hartley, D.
-> **审计控制下的假性自主** 新管理主义在形式上将预算编制、日常人事与教学安排下放给基层学术单位或中小学校长，营造出高度分权自治的表象；但中央政府与管理高层通过牢牢掌控评估指标、认证标准与资金挂钩杠杆，实现了比传统官僚制更为苛刻的远距离行为控制。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]
+> **审计控制下的假性自主** 新管理主义在形式上将预算编制、日常人事与教学安排下放给基层学术单位或中小学校长，营造出高度分权自治的表象；但中央政府与管理高层通过牢牢掌控评估指标、认证标准与资金挂钩杠杆，实现了比传统[[Bureaucracy|官僚制]]更为苛刻的远距离行为控制。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]
 
 > [!claim] [[Robert Arnove|Arnove, R.]] F.
 > **新自由主义[[Governmentality|治理术]]的双重运作** 无论在高等教育还是中小学改革中，选择权、分权化与自负盈亏始终与标准化测试、问责制紧密绑定；中央国家通过卸下公共财政直接兜底责任，同时以最严厉的标准化考核评估各次级单位，实现了责任[[Externalization|外部化]]与控制集权化的统一。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]

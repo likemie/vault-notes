@@ -8,7 +8,7 @@ summary: "德国赫尔穆特·施密特大学教育治理与教育科学教授�
 type: person
 nationality: "germany"
 person_region: "germany"
-person_related_count: 29
+person_related_count: 30
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Data Literacy]]"
   - "[[Science and Technology Studies]]"
+  - "[[Bureaucracy]]"
   - "[[Governing by Numbers]]"
 related_theories: []
 related_methods:
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-09-28
+updated: 2026-10-08
 ---
 
 # Sigrid Hartong
@@ -129,7 +130,7 @@ updated: 2026-09-28
 
 > [!influence-path] 影响路径
 > - **理论路径** 将[[Science and Technology Studies\|科学技术研究]]（STS）与批判性数据研究有效嫁接至教育治理研究，打破了长期以来将量化监测技术仅仅视为中立工具的[[Positivism\|实证主义]]局限，丰富了[[Data Infrastructure\|数据基础设施]]与[[Technical Rationality\|技术理性]]的社会学批判维度。
-> - **方法路径** 倡导深度结合组织架构分析、技术白皮书挖掘与多业务线半结构化[[Expert Interview\|专家访谈]]的质性经验进路，为研究复杂数字官僚制提供了极具启发性的做数据张力分析工具与可视化模型。
+> - **方法路径** 倡导深度结合组织架构分析、技术白皮书挖掘与多业务线半结构化[[Expert Interview\|专家访谈]]的质性经验进路，为研究复杂数字[[Bureaucracy|官僚制]]提供了极具启发性的做数据张力分析工具与可视化模型。
 > - **政策路径** 其实证研究成果向德国及欧洲教育行政决策者清晰揭示了高利害数据问责引发的防御性造假与信任侵蚀，为德国各州坚守低利害诊断问责、抵制粗暴学校排名榜提供了重要学术论证支撑。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引

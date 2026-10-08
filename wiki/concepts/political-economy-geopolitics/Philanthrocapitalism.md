@@ -7,7 +7,7 @@ aliases:
 summary: "以商业资本逻辑、市场化工具与企业家精神重构社会公益与公共治理的宏观制度范式与意识形态，主张资本主义可天然具备慈善属性；其核心特征在于将国家传统的财政再分配职能转移至免税中介机构与顾问网络，将公共教育等领域转化为投资市场，引发民主问责侵蚀与公共财富逆向流动的批判。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Return on Investment]]"
   - "[[Policy Mobility]]"
+  - "[[Bureaucracy]]"
   - "[[Venture Philanthropy]]"
   - "[[Deductible Gift Recipient]]"
   - "[[Discourse]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Philanthrocapitalism
@@ -59,7 +60,7 @@ updated: 2026-10-07
 > - **解释边界** 聚焦于宏观层面的意识形态建构、资本积累逻辑与国家再分配体制变迁；不等于具体的微观投资协议或单笔教育捐助。
 
 > [!citation-card] 慈善资本主义对国家传统再分配模式的重构
-> 慈善资本主义标志着对建立在传统再分配形式之上的科层制政府的彻底偏离。在传统模式中，作为主权与民主问责制度集合体的中心化科层制，通过向国民征收税款来决定货币分配。而慈善资本主义从根本上改变了资源与资金在人口中的再分配方式，传统政府通过赠款、高额合同或任命，将越来越多的资源重新导向中介机构（如咨询公司、私营组织与非营利机构）。（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 522]]）
+> 慈善资本主义标志着对建立在传统再分配形式之上的[[Bureaucracy|科层制]]政府的彻底偏离。在传统模式中，作为主权与民主问责制度集合体的中心化科层制，通过向国民征收税款来决定货币分配。而慈善资本主义从根本上改变了资源与资金在人口中的再分配方式，传统政府通过赠款、高额合同或任命，将越来越多的资源重新导向中介机构（如咨询公司、私营组织与非营利机构）。（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 522]]）
 >
 > *Philanthrocapitalism signals a radical shift away from bureaucratic government, established around traditional forms of redistribution, where the centered hierarchy, as a set of institutions that is sovereign and democratically accountable, determines monetary distribution via the extraction of revenue (taxation) from the polity. Philanthrocapitalism fundamentally alters the way in which resources and money are redistributed among the population, in that traditional government redirects an increased amount of resources to intermediaries (such as consultancies, private organizations, and not-for-profits) via grants, high-value contracts, or appointments.*
 

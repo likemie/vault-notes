@@ -8,7 +8,7 @@ aliases:
 summary: "行动者能够熟练掌握并运用特定领域的专门语言与概念体系进行有效沟通、知识转译与理性论辩，但缺乏在实践现场直接开展实际操作的具身经验与默会手艺的专门知识类型。"
 type: concept
 domain: "sociology-of-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Discourse]]"
   - "[[Unit of Analysis]]"
+  - "[[Bureaucracy]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
   - "[[Knowledge Production]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Interactional Expertise
@@ -66,7 +67,7 @@ updated: 2026-10-07
 
 > [!boundary]- 概念边界
 > - 不等于 [[Contributory Expertise\|贡献型专长]] 交互型专长掌握的是专业论述与话语逻辑，能够判断和传达“什么有效”，但不包含在日常偶发多变的现场情境中完成实际行动的具身手艺知识。
-> - 不适用于 替代实践现场的受训判断力与即兴处置，若强行以交互专长推导出的普遍抽象原则规制微观教学，易引发技术官僚制失灵。
+> - 不适用于 替代实践现场的受训判断力与即兴处置，若强行以交互专长推导出的普遍抽象原则规制微观教学，易引发技术[[Bureaucracy|官僚制]]失灵。
 
 ---
 
@@ -142,7 +143,7 @@ updated: 2026-10-07
 
 > [!debates] 学术争议
 >
-> > [!axis] 技术官僚制与民主决策的冲突
+> > [!axis] 技术[[Bureaucracy|官僚制]]与民主决策的冲突
 > > 交互型专家在[[Policy Network\|政策网络]]中的膨胀是否正在侵蚀教育实践的专业自主与民主协商机制。
 > >
 > > - **Eyal（2019）** 技术官僚制倾向于依赖单一权威的社会图景，假定受过训练的交互型专家能为复杂现实提供确定性解法；而民主决策视角强调知识的争议性、暂存性与地方情境性，主张依靠多元视角的协作审议。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 8)]]

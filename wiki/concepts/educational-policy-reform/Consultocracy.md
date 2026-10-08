@@ -8,7 +8,7 @@ aliases:
 summary: "指跨国私营战略咨询公司（如麦肯锡、波士顿咨询、贝恩及四大核数所）深度嵌入并系统主导国家公共政策制定、机构重组与教育改革方案的政治治理现象，伴随公共行政能力外包与商业量规对民主审议的置换。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Return on Investment]]"
   - "[[Epoché]]"
+  - "[[Bureaucracy]]"
   - "[[Discourse]]"
   - "[[Performance Indicators]]"
   - "[[Disciplina and Doctrina]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Consultocracy
@@ -81,7 +82,7 @@ updated: 2026-10-07
 > *"Australia’s expenditure on private consultancy firms exploded from 2013 onwards; on a per capita basis, Australia's public spending on management consultants is the highest in the world, approximately double that of comparable nations such as Canada or Sweden."*
 
 > [!boundary]- 概念边界
-> - 不等于 专家技术官僚制（Technocracy） — 传统技术官僚制以常任公务员系统内的学科专家（如统计学家、经济学家）为核心，受公务员道德法典与行政层级严格约束；顾问统治依赖按商业合同收费的私营咨询公司，其动力机制受制于企业利润最大化与后续商业订单获取（Gunter et al., 2015）。
+> - 不等于 专家技术[[Bureaucracy|官僚制]]（Technocracy） — 传统技术官僚制以常任公务员系统内的学科专家（如统计学家、经济学家）为核心，受公务员道德法典与行政层级严格约束；顾问统治依赖按商业合同收费的私营咨询公司，其动力机制受制于企业利润最大化与后续商业订单获取（Gunter et al., 2015）。
 > - 不等于 公共学术智库咨询（Public Think-tank Advisory） — 独立智库主要通过公开发表的研究报告在公共舆论场施加思想影响，接受同行评议与公众检视；顾问统治通过保密政府采购合同介入闭门决策，其交付的咨询报告往往受到商业保密条款保护（Browne, 2021）。
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-10-07
 ## 概念辨析
 
 > [!contrast-table] 顾问统治与传统公共行政模式辨析
-> | 维度 | 顾问统治（Consultocracy） | 传统常任公务员科层制（Bureaucracy） | 公共学术与民主协商机制（Democratic Deliberation） |
+> | 维度 | 顾问统治（Consultocracy） | 传统常任公务员[[Bureaucracy\|科层制]]（Bureaucracy） | 公共学术与民主协商机制（Democratic Deliberation） |
 > |---|---|---|---|
 > | **核心决策主体** | 私营跨国管理咨询合伙人与项目团队 | 常任非政治化国家公务员与行政官僚 | 民选议员、教师工会、公众代表与学术界 |
 > | **价值评价导向** | 投资回报率（[[Return on Investment\|ROI]]）、执行效率与标准化指标 | 行政合法性、程序正义与法规遵循 | 社会公平、公民权利、民主审议与长远育人目标 |

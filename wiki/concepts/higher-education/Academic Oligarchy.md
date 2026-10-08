@@ -8,7 +8,7 @@ aliases:
 summary: "Clark (1983) 三角协调模型中专业寡头一极的当代延伸，描述市场竞争和评估治理如何催生少数精英大学对资源分配和价值定义的寡头式控制，而非预期的开放竞争"
 type: concept
 domain: "higher-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Non-monetary Competition]]"
   - "[[Discourse]]"
+  - "[[Bureaucracy]]"
   - "[[Matthew Effect in Academia]]"
   - "[[Research Impact]]"
   - "[[Knowledge Production]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Academic Oligarchy
@@ -57,7 +58,7 @@ updated: 2026-10-07
 ## 概念辨析
 
 > [!example]
-> - vs Clark 的原始概念：Clark 的"专业寡头"描述的是教授行会作为一种治理模式，一种与国家官僚制和市场并列的协调方式。Schulze-Cleven et al. 的"学术寡头"描述的是**等级结构**，少数精英大学和学者对学术资源和标准的垄断性控制。前者是治理机制，后者是权力结构。
+> - vs Clark 的原始概念：Clark 的"专业寡头"描述的是教授行会作为一种治理模式，一种与国家[[Bureaucracy|官僚制]]和市场并列的协调方式。Schulze-Cleven et al. 的"学术寡头"描述的是**等级结构**，少数精英大学和学者对学术资源和标准的垄断性控制。前者是治理机制，后者是权力结构。
 > - vs [[Academic Capitalism]]：学术资本主义描述市场逻辑的渗透过程；学术寡头描述这一过程的**结构性结果**，市场的渗透并没有创造开放竞争，而是固化了少数参与者的支配地位。
 > - vs [[Neo-feudalism in Higher Education]]：新封建主义是更广泛的诊断性概念，描述了学术界的整体权力结构和运作逻辑。学术寡头是新封建主义中最顶层的角色，那些控制价值定义和资源分配核心节点的机构和个体。
 

@@ -2,7 +2,7 @@
 summary: "将软件工程敏捷哲学与服务设计跨界引入公共管理的核心治理范式；通过短周期快速迭代、跨职能流动团队、以用户为中心的设计以及小步快跑的试错实验，颠覆新公共管理的僵化瀑布外包模式，赋能公共部门在面对复杂重大挑战时实现持续反思性学习。"
 type: concept
 domain: "science-policy"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Lead-and-Learn Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Cognitive Deskilling]]"
+  - "[[Bureaucracy]]"
   - "[[Feedback]]"
   - "[[Reliability]]"
   - "[[Consultocracy]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-08
 title: Agile Governance
 aliases:
   - 敏捷治理
@@ -64,7 +65,7 @@ aliases:
 > - **边界** 敏捷治理不是无规矩的盲目折腾或频繁变卦，而是在明确战略使命指引下，对具体执行手段与技术路径保持自适应迭代的制度化安排。
 
 > [!citation-card] 敏捷组织能力与第三代使命政策
-> 第三代使命导向政策在行政层级高度依赖敏捷反馈、跨职能流动团队以及以人为本的服务设计。这种治理形态彻底打破了传统的条块分割与层级官僚制，它通过小步快跑的原型测试与社会实验，使公共部门能够像前沿创新主体一样灵活试错，从而在根本不确定的转型环境中建立起持续进化的组织能力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
+> 第三代使命导向政策在行政层级高度依赖敏捷反馈、跨职能流动团队以及以人为本的服务设计。这种治理形态彻底打破了传统的条块分割与层级[[Bureaucracy|官僚制]]，它通过小步快跑的原型测试与社会实验，使公共部门能够像前沿创新主体一样灵活试错，从而在根本不确定的转型环境中建立起持续进化的组织能力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
 >
 > *Administrative capacities in third-generation missions require agile [[Feedback]], cross-functional liquid teams, user research, and service design... This enables public organizations to experiment rapidly and adapt policies amid fundamental uncertainty.*
 

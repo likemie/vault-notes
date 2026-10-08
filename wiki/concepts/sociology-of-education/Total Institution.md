@@ -8,7 +8,7 @@ aliases:
 summary: "欧文·戈夫曼提出的社会学经典概念，指将同类群体的全部生活集中在单一场所和单一权威之下、与外部社会高度隔绝且管理者与被管理者截然对立的封闭组织形态；可用于审视寄宿学校及当代精英大学的制度规训与心智塑造。"
 type: concept
 domain: "sociology-of-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Boarding Schools]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Bureaucracy]]"
   - "[[Open-Mindedness]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -60,7 +61,7 @@ updated: 2026-10-08
 > [!concept-lens] 概念透镜
 > - **含义** 描述打破现代社会生活领域分立、将群体日常活动完全置于集中权威与封闭规范之下的全景式机构[[Disciplina and Doctrina|规训]]形态。
 > - **用途** 帮助研究者透视寄宿学校、收容机构以及当代高等学府如何通过微观空间隔离与日常规则控制，系统性重塑成员的身份认同与行动模式。
-> - **边界** 区别于一般的官僚制企业或松散社区，核心判定标准在于“生活多维度的集中一体化”与“与外部真实世界及其摩擦的结构性隔绝”。
+> - **边界** 区别于一般的[[Bureaucracy|官僚制]]企业或松散社区，核心判定标准在于“生活多维度的集中一体化”与“与外部真实世界及其摩擦的结构性隔绝”。
 
 > [!citation-card] [[Michael Gove|戈夫]]曼论全控机构的本质特征
 > 全控机构可以被定义为一个居留与工作场所，在这里，大量处境相似的个体在相当长的时间内与外部广阔社会隔绝开来，共同过着一种封闭的、受到形式化管理的日常生活。（p. xxi）

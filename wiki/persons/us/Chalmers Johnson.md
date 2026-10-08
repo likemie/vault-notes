@@ -3,7 +3,7 @@ summary: "美国著名政治学家与东亚政治经济学权威，发展型国�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Public Dynamic Capabilities]]"
+  - "[[Bureaucracy]]"
   - "[[Industry Affiliate Program]]"
   - "[[Embedded Autonomy]]"
 related_theories: []
@@ -33,7 +34,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-08
 title: Chalmers Johnson
 aliases:
   - Johnson, C.
@@ -64,7 +65,7 @@ aliases:
 > - **计划理性国家 vs. 规制型国家（Plan-rational State vs. Regulatory State）**
 >   - **规制型国家（如美国）** 关注市场竞争规则与反垄断规程的公平性，并不规定具体的产业结构与技术演进方向；
 >   - **计划理性国家（如战后日本）** 具有明确的结构性目标与产业发展使命，由国家主动引导投资方向并支持战略性支柱产业。
-> - **领航机构与精英官僚（Pilot Agency & Elite Bureaucracy）** 强调如[[Ministry of International Trade and Industry|通商产业省]]（MITI）这样的小型领航机构是推动国家使命的中枢；官僚必须具备严格的功绩制选拔机制、高度的社会声望以及免受立法与司法琐碎政治干预的行政自主权。
+> - **领航机构与精英官僚（Pilot Agency & Elite [[Bureaucracy]]）** 强调如[[Ministry of International Trade and Industry|通商产业省]]（MITI）这样的小型领航机构是推动国家使命的中枢；官僚必须具备严格的功绩制选拔机制、高度的社会声望以及免受立法与司法琐碎政治干预的行政自主权。
 > - **行政指导与公私协同（Administrative Guidance & State-Business Cooperation）** 阐释了非强制性的“行政指导”（Gyōsei Shidō）如何通过审议会与[[Industry Affiliate Program|产业联盟]]实现国家目标与企业自主探索的有机结合，奠定了彼得·埃文斯（Peter Evans）[[Embedded Autonomy|嵌入式自主性]]（Embedded Autonomy）的分析雏形。
 
 ---

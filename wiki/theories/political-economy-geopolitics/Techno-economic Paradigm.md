@@ -4,12 +4,11 @@ aliases:
   - 技术-经济范式
   - 技术经济范式
   - 技术—经济范式
-  - techno-economic paradigm
   - techno-economic paradigms
 summary: "由卡洛塔·佩雷斯（Carlota Perez）与克里斯·弗里曼（Chris Freeman）共同开创的演化经济学重大理论框架；指由突破性通用技术集群扩散所驱动的、对整个经济社会的生产组织、成本结构、技术轨迹及制度框架产生深远变革的元主导模式；核心揭示激进技术创新的快速扩散必然导致与旧社会制度框架的严重结构失调与“制度滞后”，只有通过教育、产业组织、法律与公共治理的多样化试错与深度制度调适，才能实现新技术范式在全社会的充分吸纳与繁荣。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -30,6 +29,7 @@ related_concepts:
   - "[[Lean Production]]"
   - "[[Unit of Analysis]]"
   - "[[Research Question]]"
+  - "[[Bureaucracy]]"
   - "[[Open-Mindedness]]"
   - "[[Epistemic Stances]]"
   - "[[Determinism]]"
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
 # Techno-economic Paradigm
@@ -125,7 +125,7 @@ updated: 2026-10-05
 >
 > | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
 > |:---------|:---------------|:-----------------|:-----------------|
-> | 命题一：制度滞后机制 | **组织与教育适配度** 生产一线是否推行了与新技术匹配的技能体系？ | 职业教育课程设置、在职培训强度、车间轮岗与质量管理小组（QC）普及率。 | 若技术装备大量进口但组织管理仍停留在旧有科层制，判定存在严重制度滞后。 |
+> | 命题一：制度滞后机制 | **组织与教育适配度** 生产一线是否推行了与新技术匹配的技能体系？ | 职业教育课程设置、在职培训强度、车间轮岗与质量管理小组（QC）普及率。 | 若技术装备大量进口但组织管理仍停留在旧有[[Bureaucracy\|科层制]]，判定存在严重制度滞后。 |
 > | 命题二：多样性演化机制 | **制度试错与反锁定** 国家政策是否保护了技术路径与组织形态的多样性？ | 战略技术路线扶持清单、中小企业研发支持、公共标准[[Open-Mindedness\|开放性]]。 | 若单一技术路径或外资跨国公司形成垄断，提示存在技术单一栽培与锁定风险。 |
 
 ---

@@ -7,7 +7,7 @@ aliases:
 summary: "萨顿、阿诺夫与卡马特提出的比较教育批判概念，指新自由主义外包机制下非政府组织沦为跨国机构与政府的教育服务承包商，在缓解财政负担的同时侵蚀了国家公共合法性并消解了民间社会的政治批判潜能"
 type: concept
 domain: "comparative-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Attrition]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Bureaucracy]]"
   - "[[Performance Indicators]]"
   - "[[State Educational Sovereignty]]"
   - "[[Document]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Shadow State
@@ -74,7 +75,7 @@ updated: 2026-10-07
 ## 概念辨析
 
 > [!contrast-table] 影子国家与相近治理实体的结构辨析
-> | 比较维度 | 影子国家化 NGO（Shadow State） | 自治型民间社会组织（Autonomous NGO） | 正规国家公共教育官僚（State Bureaucracy） |
+> | 比较维度 | 影子国家化 NGO（Shadow State） | 自治型民间社会组织（Autonomous NGO） | 正规国家公共教育官僚（State [[Bureaucracy]]） |
 > |---|---|---|---|
 > | **合法性来源** | 跨国捐助机构合同委托与项目制资金拨付 | 基层社群信任、公民志愿结社与权利抗争 | 国家宪法授权、普选代议制与公共税收再分配 |
 > | **核心职能定位** | 代替国家兜底提供基本公共服务的外包承包商 | 表达弱势群体诉求、监督国家与倡导体制变革 | 制定国家课程大纲、统筹办学标准与认证教育文凭 |

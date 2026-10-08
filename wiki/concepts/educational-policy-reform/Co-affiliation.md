@@ -10,7 +10,7 @@ aliases:
 summary: "指涉政策网络中的精英行动者跨越政府公权力机构、跨国投资银行、营利性咨询公司、慈善信托基金与智库，同时或先后兼任多重董事会席位、高级顾问或审查专员的拓扑结构；揭示其如何通过多重兼职打破科层界限，促成跨界政策理念与商业资本的隐蔽流通，构筑起去中心化但认识论高度同质的异质治理层级。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -20,6 +20,7 @@ tags:
   - method/network-analysis
 related_concepts:
   - "[[Policy Network]]"
+  - "[[Bureaucracy]]"
   - "[[Epistemology]]"
   - "[[Champ]]"
   - "[[Multiplicity]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-03
+updated: 2026-10-08
 ---
 
 # Co-affiliation
@@ -75,7 +76,7 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> **共同从属（Co-affiliation / 机构多重从属性）**是指[[Policy Network\|政策网络]]中的核心精英行动者跨越公权力机关、跨国金融机构、营利性咨询寡头、非营利组织与慈善基金会，同时（concurrently）或先后（sequentially）担任多重董事兼职（interlocking directorships）、法定理事或政策审查专员的拓扑关联现象。该机制打破了传统韦伯式科层制单一组织忠诚与清晰公私界限的假定，使资金、意识形态与政策模型得以借助行动者的多重身份在异质网络中自由穿梭，进而构筑起“去中心化但[[Epistemology\|认识论]]高度同质”（epistemic homophily）的杂合治理层级（heterarchy）（Ball & Exley, 2010；Avelar & Ball, 2019；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–10]]）。
+> **共同从属（Co-affiliation / 机构多重从属性）**是指[[Policy Network\|政策网络]]中的核心精英行动者跨越公权力机关、跨国金融机构、营利性咨询寡头、非营利组织与慈善基金会，同时（concurrently）或先后（sequentially）担任多重董事兼职（interlocking directorships）、法定理事或政策审查专员的拓扑关联现象。该机制打破了传统韦伯式[[Bureaucracy|科层制]]单一组织忠诚与清晰公私界限的假定，使资金、意识形态与政策模型得以借助行动者的多重身份在异质网络中自由穿梭，进而构筑起“去中心化但[[Epistemology\|认识论]]高度同质”（epistemic homophily）的杂合治理层级（heterarchy）（Ball & Exley, 2010；Avelar & Ball, 2019；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–10]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 聚焦于精英个体在不同组织之间重叠兼职所构成的隐性制度通道与关系拓扑网络。

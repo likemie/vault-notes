@@ -9,7 +9,7 @@ aliases:
 summary: "Schein 提出的组织文化三层次框架（器物、信奉价值观、深层基本假设），揭示了表层可见符号与官方理念如何常与深层防御心理及信任赤字发生结构性断裂，并解释了正式管理文化重构与微观非正式制度之间的解耦与韧性，以及工程实效文化与官僚自保文化对创新荒漠的决定性塑造。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 52
+theory_related_count: 54
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -28,11 +28,13 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Data Infrastructure]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Organizational Culture Change]]"
   - "[[Technological Republic]]"
   - "[[Discourse]]"
   - "[[Dialogue in Education]]"
   - "[[Evidence Ecosystem]]"
   - "[[Embedded Researcher]]"
+  - "[[Cognitive Decoupling]]"
   - "[[Research Utilization]]"
   - "[[Metacognition]]"
   - "[[Research Literacy]]"
@@ -82,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-05
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Organizational Culture
@@ -95,7 +97,7 @@ updated: 2026-10-07
 > - **解释对象** 组织文化在不同层级上的生成机制与表征结构，特别是物质[[Artefact|器物]]、公开信奉价值与深层潜意识[[Hypothesis|假设]]之间的动态关联。
 > - **理论问题** 解释组织内部可见显现与隐性深层规范的脱节，破解为何组织在物理符号（器物）与口头承诺（价值观）上积极拥抱变革，而在日常行为与决策中却深陷防备、怀疑与因循守旧（深层假设）；解释为何上层正式采办文化与程序重构往往与基层微观非正式制度发生结构性解耦；以及为何公共部门的官僚防御文化会阻绝前沿技术并催生[[Innovation Desert|创新荒漠]]。
 > - **理论类型** 中层[[Analytic Framework|分析框架]]与机制模型，广泛应用于教育社会学、学校组织改进、科技创新管理、[[Output-Oriented Governance|循证治理]]、国家能力与质性/[[Visual Research Methods|视觉研究方法]]论。
-> - **知识位置** 由 Edgar Schein (1985, 1992) 奠定三层次架构，后经复杂系统[[Knowledge Mobilisation|知识动员]]理论（Best & Holmes, 2010）引入教育政策与证据生态分析，被[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]列为衡量跨国循证文化心态与组织制度环境的核心理论基底（[[Argument_Revai_2022_ChangingLandscape|Révai, 2022]]; [[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]]）；亦被教育关键数据研究用于解析不同行政治理文化对数字化学校监测与[[Data Infrastructure|数据基础设施]]采纳形态的深层[[Disciplina and Doctrina|规训]]机制（[[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler, 2019]]）；在前沿科技研发治理中被[[Erica Fuchs|埃丽卡·福克斯]]用于解构高风险创新机构（如 [[DARPA]]）在宏观采办制度剧烈震荡下微观非正式治理制度的深层韧性（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）；并在当代政治经济学与技术战略中被[[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]用于诊断公共部门官僚防御文化对技术的排斥机制，以及倡导以使命驱动与实质成败问责的工程组织文化重塑现代[[Technological Republic|技术共和国]]的治理效能（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska, 2025, pp. 11–15]]）。
+> - **知识位置** 由 Edgar Schein (1985, 1992) 奠定三层次架构，后经复杂系统[[Knowledge Mobilisation|知识动员]]理论（Best & Holmes, 2010）引入教育政策与证据生态分析，被[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]列为衡量跨国循证文化心态与组织制度环境的核心理论基底（[[Argument_Revai_2022_ChangingLandscape|Révai, 2022]]; [[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]]）；亦被教育关键数据研究用于解析不同行政治理文化对数字化学校监测与[[Data Infrastructure|数据基础设施]]采纳形态的深层[[Disciplina and Doctrina|规训]]机制（[[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler, 2019]]）；在前沿科技研发治理中被[[Erica Fuchs|埃丽卡·福克斯]]用于解构高风险创新机构（如 [[DARPA]]）在宏观采办制度剧烈震荡下微观非正式治理制度的深层韧性（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）；并在当代政治经济学与技术战略中被[[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]用于诊断公共部门官僚防御文化对技术的排斥机制，以及倡导以使命驱动与实质成败问责的工程[[Organizational Culture Change|组织文化重塑]]现代[[Technological Republic|技术共和国]]的治理效能（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska, 2025, pp. 11–15]]）。
 
 > [!claim] 核心主张
 > 组织文化由三个层次嵌套构成：表层的物质器物与制度结构、中间层的官方信奉价值观、以及最深层的潜意识基本假设与防御规范；表层器物与口头理念能够展示组织正在呈现何种形象，但组织的实质决策与行动逻辑由深层基本假设决定，二者之间普遍存在着表层崇尚科学与深层信任赤字的认知断层（Schein, 1992; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]]; [[Argument_Hill_2022_FacilitatingActors|Hill, 2022, pp. 92–95]]）；同时，组织在面临上层管理[[Discourse|话语]]与合同机制剧烈重组时，深层沉淀的微观非正式制度构成了维系组织核心效能的稳定基石（[[Argument_Fuchs_2010_RP|Fuchs, 2010, pp. 1144–1145]]）；而在公共部门治理中，唯有打破合规至上的官僚自保假设、确立领导者对实质成败承担责任的工程组织文化，方能消除各领域的[[Innovation Desert|创新荒漠]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska, 2025, pp. 14–15]]）。
@@ -127,7 +129,7 @@ updated: 2026-10-07
 > | 防御性规避（Defensive Avoidance） | 机制 | 组织因恐惧政治问责或业务暴露缺陷，本能将研究证据异化为交易型技术修补工具的文化防御机制 |
 > | [[Evidence Ecosystem\|证据生态系统（Evidence Ecosystem）]] | 框架 | 组织文化运作的宏观生态情境，强调文化心态与制度结构的协同共生 |
 > | [[Embedded Researcher\|嵌入式研究者（Embedded Researcher）]] | 角色 | 改变组织深层假设的中介载体，通过内部情境浸润与日常互动重塑人际信任 |
-> | 非正式制度与正式文化解耦（Decoupling of Informal Institutions & Formal Culture） | 机制 | 上层正式管理规章与文化口号重组，常与基层微观非正式治理惯例发生结构性解耦。[[Argument_Fuchs_2010_RP\|(Fuchs, 2010, pp. 1134–1135)]] |
+> | 非正式制度与正式文化解耦（[[Cognitive Decoupling\|decoupling]] of Informal Institutions & Formal Culture） | 机制 | 上层正式管理规章与文化口号重组，常与基层微观非正式治理惯例发生结构性解耦。[[Argument_Fuchs_2010_RP\|(Fuchs, 2010, pp. 1134–1135)]] |
 
 ### 理论构件与三层结构
 
@@ -258,7 +260,7 @@ updated: 2026-10-07
 > - **2010 — 纳入复杂系统第三代[[Knowledge Mobilisation|知识动员]]理论** Best & Holmes 将组织文化与反馈回路确立为理解知识动员从线性传递转向自适应系统的关键支柱。
 > - **2011 — 教育质性与[[Visual Research Methods|视觉研究方法]]论引入** [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]] 将 Schein 三层次模型引入教育研究方法论，系统阐释如何阅读学校物理器物与环境空间背后的组织叙事。
 > - **2022 — [[OECD]] 跨国实证测度与证据文化断层诊断** [[OECD]] [[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]通过 8 项量表在 29 国 37 系统实证揭示了表层高理念认同（4.46 分）与深层信任赤字（3.40 分）的断裂（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]）。
-> - **2025 — 国家能力与工程组织文化重塑[[Technological Republic|技术共和国]]** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska, 2025]]）将组织文化理论引入地缘战略与国家治理能力分析，揭示官僚防御文化对创新的制度性阻绝，提出吸纳使命驱动与实质成败问责的工程文化以消除[[Innovation Desert|创新荒漠]]。
+> - **2025 — 国家能力与工程[[Organizational Culture Change|组织文化重塑]][[Technological Republic|技术共和国]]** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska, 2025]]）将组织文化理论引入地缘战略与国家治理能力分析，揭示官僚防御文化对创新的制度性阻绝，提出吸纳使命驱动与实质成败问责的工程文化以消除[[Innovation Desert|创新荒漠]]。
 
 ---
 
@@ -295,7 +297,7 @@ updated: 2026-10-07
 > | [[Output-Oriented Governance]] | Concept | 循证政策文化与数据驱动绩效治理在公共管理中的具体实践形态。 |
 > | [[DARPA]] | Fact (Organization) | 展现上层采办文化剧烈重组下微观非正式制度高度韧性的经典创新机构。 |
 > | [[Erica Fuchs]] | Person | 开展长程案例追踪并揭示组织非正式制度连续性与嵌入型治理的学者。 |
-> | [[Alexander Karp]] | Person | 倡导以工程组织文化重塑公共治理、消除创新荒漠的学者与实业家。 |
+> | [[Alexander Karp]] | Person | 倡导以工程[[Organizational Culture Change\|组织文化重塑]]公共治理、消除创新荒漠的学者与实业家。 |
 > | [[Nicholas Zamiska]] | Person | 《技术共和国》合著者，研究组织文化与国家能力制度互动的学者。 |
 
 ---

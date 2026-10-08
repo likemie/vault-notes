@@ -7,7 +7,7 @@ aliases:
 summary: "常驻于教育行政部门或学校实践机构内部，依托科研训练背景在真实工作情境中开展证据转化、需求匹配与跨界中介的专业人员，旨在弥合研究与实践断层并重塑组织循证文化"
 type: concept
 domain: "educational-policy-reform"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Determinism]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Bureaucracy]]"
 related_theories:
   - "[[Organizational Culture]]"
 related_methods:
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
 # Embedded Researcher
@@ -172,7 +173,7 @@ updated: 2026-10-05
 > 嵌入式研究者长期游走于学术与行政的边界地带，面临双重合法性危机；同时，深嵌于科层体系内部使得个体极易受到行政合规与政治长官偏好的规训，导致研究沦为证明既定政令合规性的修饰工具（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 80–81, 95]]）。
 >
 > > [!warrant]- 理论推导与经验依据
-> > 在高校学术圈，嵌入式研究者常因发表产出少而被贬低为脱离学术前沿的行政依附人员；在行政机关或中小学内部，又易被视作不懂实际政治运作或课堂复杂性的书斋客，陷入两头受限的尴尬境地。更严重的是，科层制严密的下级服从原则易侵蚀研究者的独立求真精神，使证据退化为事后政治背书的附庸。
+> > 在高校学术圈，嵌入式研究者常因发表产出少而被贬低为脱离学术前沿的行政依附人员；在行政机关或中小学内部，又易被视作不懂实际政治运作或课堂复杂性的书斋客，陷入两头受限的尴尬境地。更严重的是，[[Bureaucracy|科层制]]严密的下级服从原则易侵蚀研究者的独立求真精神，使证据退化为事后政治背书的附庸。
 
 ---
 
@@ -203,7 +204,7 @@ updated: 2026-10-05
 > [!debates] 理论与实践争议
 >
 > > [!axis] 专业自主性与行政合规性的冲突
-> > 争议嵌入式研究者能否在科层制压力下保持客观公正的科学立场。
+> > 争议嵌入式研究者能否在[[Bureaucracy|科层制]]压力下保持客观公正的科学立场。
 > >
 > > - **批判学者立场** 警惕行政同化风险，认为长期受聘于政府或学区使得研究者不可避免地迁就官员政绩诉求，沦为政策合法化的辩护工具。
 > > - **务实治理学者立场** 主张唯有通过情境嵌入建立深层人际信任，学术证据才能实质性渗透进政策议程，纯粹象牙塔式的独立性往往导致知识被边缘化（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022]]; Gough et al., 2019）。

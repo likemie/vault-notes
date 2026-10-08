@@ -8,7 +8,7 @@ aliases:
 summary: "以多元行动者横向协作、关系协调与异层结构替代垂直科层或纯粹市场的公共治理方式；在批判教育政策与演化科技政策中揭示国家并未空心化退场，而是表现为积极特许赋权、资助中介并缔造市场的异层担保人，以及通过去中心化探索网络引领使命导向创新的催化者。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 69
+related_count: 70
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Venture Philanthropy]]"
+  - "[[Bureaucracy]]"
   - "[[Document]]"
   - "[[Policy Network]]"
   - "[[Disciplina and Doctrina]]"
@@ -101,7 +102,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-04
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Network Governance
@@ -119,7 +120,7 @@ updated: 2026-10-07
 > - **边界** 不等于国家彻底失控或消亡的“无政府状态”；网络治理中的行动者始终高度依赖国家所垄断的法定特许资质（如免税牌照）、公共资金补助以及立法赋权背书。
 
 > [!citation-card] 网络治理的理论界定与异层国家实践
-> 传统的“经典市场”和“科层制”公立学校治理正在被较新的专业网络和慈善网络与部族（如毛利 iwi）所取代。在教育政策[[Document|文献]]中，体现这一处置倾向与实践形态的模式通常被称为“网络治理”。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. vi)]]
+> 传统的“经典市场”和“[[Bureaucracy|科层制]]”公立学校治理正在被较新的专业网络和慈善网络与部族（如毛利 iwi）所取代。在教育政策[[Document|文献]]中，体现这一处置倾向与实践形态的模式通常被称为“网络治理”。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. vi)]]
 >
 > [[Policy Network|政策网络]]并未取代国家，国家在网络中充当了资助者、经纪人与市场缔造者。澳大利亚的实证经验否定了单纯的国家空心化假说：国家并未退场，而是与科层制及市场机制相叠加，演化为鲍尔（Stephen J. Ball）所界定的异层治理（Heterarchy）。通过向咨询公司支付巨额公共外包款项、特许立法修正案以及定向财政匹配，国家主动运用法律垄断权与公共税收，为风险慈善中介网络的扩张提供了制度通道。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 522–523)]]
 >

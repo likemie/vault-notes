@@ -42,6 +42,7 @@ related_concepts:
   - "[[Picking the Willing]]"
   - "[[Grand Challenges]]"
   - "[[Reflexivity]]"
+  - "[[Bureaucracy]]"
   - "[[Areas of Knowledge]]"
   - "[[Operationalization]]"
   - "[[Ontology]]"
@@ -92,14 +93,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-08
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kattel_Mazzucato_2018_ICC"
 argument_key: "Argument_Kattel_Mazzucato_2018_ICC"
 argument_display_title: "Mission-oriented innovation policy and dynamic capabilities in the public sector"
 argument_kind: "journal-article"
-argument_related_count: 62
+argument_related_count: 63
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -261,7 +262,7 @@ issuing_organization: ""
 #### 1. 融合熊彼特双元动态能力与韦伯国家能力，确立国家、政策与行政三层演化矩阵
 
 > [!debates] 两种学术传统的长期割裂与演化融合契机
-> [[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）指出，长期以来学术界存在着互不对话的两套知识传统：以[[Joseph Schumpeter|熊彼特]]演化视角探讨企业双元性（平衡利用现有优势与探索未来机会）的动态能力理论（Teece & Pisano, 1994; March, 1991），以及以韦伯官僚制探讨国家发展能力的公共行政传统（Johnson, 1982; Evans & Rauch, 1999）。打破这一壁垒是构建现代[[Public Dynamic Capabilities|公共动态能力]]的核心前提。（pp. 796–797）
+> [[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）指出，长期以来学术界存在着互不对话的两套知识传统：以[[Joseph Schumpeter|熊彼特]]演化视角探讨企业双元性（平衡利用现有优势与探索未来机会）的动态能力理论（Teece & Pisano, 1994; March, 1991），以及以韦伯[[Bureaucracy|官僚制]]探讨国家发展能力的公共行政传统（Johnson, 1982; Evans & Rauch, 1999）。打破这一壁垒是构建现代[[Public Dynamic Capabilities|公共动态能力]]的核心前提。（pp. 796–797）
 
 > [!quad-grid] 两种学术传统的演化综合与三层动态能力矩阵（pp. 796–798）
 > - **理论综合基石** 将动态能力定义为存在于各层级国家能力内部的技能与例规；社会政治反馈机制（媒体、选举、制度制衡、公众抗辩）构成动态能力演进的选择环境。

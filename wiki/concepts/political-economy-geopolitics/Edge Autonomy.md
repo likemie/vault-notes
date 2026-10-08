@@ -7,7 +7,7 @@ aliases:
 summary: "指将关键决策权与行动自由最大程度下放给处于系统外部前沿与外围边界的个体（如蜂群侦察蜂、椋鸟群外围鸟只、一线软件工程师与战区作战人员），依靠一线最新感知敏捷驱动全系统响应，彻底打破中心层级管控与官僚信息中介的组织协同机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
   - theme/organizational-culture
 related_concepts:
   - "[[Creativity]]"
+  - "[[Flocking Behavior]]"
   - "[[Paradigm]]"
   - "[[Technological Republic]]"
   - "[[Hard Power]]"
@@ -114,8 +115,8 @@ updated: 2026-10-08
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
 > **边缘信息最高价值与侦察者投票断言** 亚历山大·卡普与尼古拉斯·扎米斯卡论证指出，正如蜜蜂蜂群不会为应对庞大的集体行动挑战而引入基于种姓的社会等级制，而是将最大程度的自主权分配到组织的边缘（侦察蜂）；处于外围前线的个体拥有关于外部环境最及时、最关键的信息，组织唯有赋予其通过公开“跳舞”进行提案与投票的自主决断权，才能在复杂环境中做出最精准的战略选择。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 120)]]
 
-> [!claim] [[Giorgio Parisi|Parisi]], G.
-> **外围鸟只天敌感知与群飞转向驱动推导** 乔治·帕里西通过复杂系统物理学研究指出，掠食者威胁总是最先被处于椋鸟群外围边缘的鸟只察觉；鸟群的高速规避机动绝非由内部领队统一指挥，而是由边缘鸟只自发发起转向，并在亚秒级内无缝传递至群体核心，体现了边缘节点在维持系统整体生存中的主导作用。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
+> [!claim] Parisi, G.
+> **外围鸟只天敌感知与群飞转向驱动推导** [[Giorgio Parisi|乔治·帕里西]]通过复杂系统物理学研究指出，掠食者威胁总是最先被处于椋鸟群外围边缘的鸟只察觉；鸟群的高速规避机动绝非由内部领队统一指挥，而是由边缘鸟只自发发起转向，并在亚秒级内无缝传递至群体核心，体现了边缘节点在维持系统整体生存中的主导作用。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
 
 ---
 
@@ -143,7 +144,7 @@ updated: 2026-10-08
 
 > [!dev-timeline] 概念演变
 > - **1950s — 自然界生物集群发现** [[Martin Lindauer|林道尔]]与弗里希系统揭示蜜蜂侦察蜂通过舞蹈自主表达选巢偏好，确立了自然界无中心指令、由边缘个体驱动决策的原型。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–120)]]
-> - **2000s — 分布式计算与物理学拓扑建模** 随着边缘计算概念的兴起与[[Giorgio Parisi|帕里西]]对椋鸟群飞拓扑物理机制的揭示，边缘节点自主感知与局部通信成为复杂系统理论的重要支柱。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
+> - **2000s — 分布式计算与物理学拓扑建模** 随着边缘计算概念的兴起与[[Giorgio Parisi|帕里西]]对[[Flocking Behavior|椋鸟群飞]]拓扑物理机制的揭示，边缘节点自主感知与局部通信成为复杂系统理论的重要支柱。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
 > - **2025 — 升华为国家工程与治理[[Paradigm|范式]]** 卡普与扎米斯卡将边缘自治提升为重塑美国[[Technological Republic|技术共和国]][[Hard Power|硬实力]]与[[Organizational Culture|组织文化]]的关键武器，主张彻底打破华盛顿与五角大楼的官僚阻滞。
 
 ---

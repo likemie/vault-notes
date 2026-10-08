@@ -39,6 +39,7 @@ related_concepts:
   - "[[PISA Shock]]"
   - "[[Evidence-Based School Development]]"
   - "[[Determinism]]"
+  - "[[Bureaucracy]]"
   - "[[School Effectiveness]]"
   - "[[Causal Processes]]"
 related_theories:
@@ -69,14 +70,14 @@ sources:
 part_of:
 status: draft
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-08
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Altrichter_2019_ZfB"
 argument_key: "Argument_Altrichter_2019_ZfB"
 argument_display_title: "Schulleitungen und evidenzbasierte Bildungsreform im Schulwesen"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -223,7 +224,7 @@ issuing_organization: ""
 > | **核心价值取向** | 全面赋权型发展取向，对绝大多数治理工具均赋予较高改进潜力 | 物质与师资投入[[Determinism\|决定论]]，高度聚焦外部财政与人事保障 | 改革怀疑与防卫取向，对外部自上而下的政策工具持普遍保留态度 |
 > | **对循证监控的态度** | **唯独该群体**对教育标准、统一测试、国家报告和国际比较赋予实质发展潜能 | 显著怀疑数据反馈与测试监控，评分大幅低于其对资源投入的评价 | 极度怀疑跨国统考与国家教育报告，仅认可最贴近日常教学的传统手段 |
 > | **对校本工具与合作的态度** | 高度认可学校自我评估、发展规划以及与家长和社区的协作网络 | 认可度居中，但坚信没有资源追加任何校本工具均难以奏效 | 对校本评估工具表现冷淡，呈现出明显的自主防卫与行政应付倾向 |
-> | **理论契合度** | 高度契合新治理政策所倡导的理性循证改进者理想形态 | 固守传统科层制中资源投入至质量产出的直觉因果链 | 契合阻断或象征应付型（Alibi-Verhalten）应对模式，显现出改革疲惫感 |
+> | **理论契合度** | 高度契合新治理政策所倡导的理性循证改进者理想形态 | 固守传统[[Bureaucracy\|科层制]]中资源投入至质量产出的直觉因果链 | 契合阻断或象征应付型（Alibi-Verhalten）应对模式，显现出改革疲惫感 |
 
 聚类判别分析与各维度的标准化剖面走势，直观展现了三类群体的价值分歧：（p. 28）
 

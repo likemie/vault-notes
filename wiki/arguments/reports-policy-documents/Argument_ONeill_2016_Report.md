@@ -11,7 +11,7 @@ title: "Argument_ONeill_2016_Report"
 argument_key: "Argument_ONeill_2016_Report"
 argument_display_title: "Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand"
 argument_kind: "report"
-argument_related_count: 11
+argument_related_count: 12
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[Research Question]]"
+  - "[[Bureaucracy]]"
   - "[[Policy Entrepreneur]]"
   - "[[Literature Search]]"
   - "[[Discourse]]"
@@ -45,7 +46,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: '2026-09-21'
+updated: 2026-10-08
 year: 2016
 doi: ""
 citation_aliases:
@@ -60,7 +61,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> - Thompson (1991) 组织形式分类学：经典市场、科层制、网络与部落（clan）四种治理形式——报告提出新西兰公立学校教育治理正从市场/科层形式被网络/部落形式所取代
+> - Thompson (1991) 组织形式分类学：经典市场、[[Bureaucracy|科层制]]、网络与部落（clan）四种治理形式——报告提出新西兰公立学校教育治理正从市场/科层形式被网络/部落形式所取代
 > - Mintrom (2000) [[Policy Entrepreneur\|政策创业者]]概念：在教育系统内运作的创业型行动者
 > - Ball (2012) 跨国政策倡导概念：跨系统进行创业式运作的全球行动者
 

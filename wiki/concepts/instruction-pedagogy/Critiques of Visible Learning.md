@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 123
+related_count: 124
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -63,6 +63,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Self-Efficacy]]"
   - "[[Doxa]]"
+  - "[[Bureaucracy]]"
   - "[[Evidence-Based Education]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Ontology]]"
@@ -150,7 +151,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Critiques of Visible Learning
@@ -1070,7 +1071,7 @@ Nielsen & Klitmøller（2021）的独特贡献在于：不加入"VL 错了"的�
 > | [[Argument_McKnight_2020_Discourse\|McKnight & Whitburn (2020)]] | VL 的文化政治含义是什么？ | 新自由主义监控、性别歧视、能力主义——VL 的论述与这些不平等结构结盟 |
 > | **Nielsen & Klitmøller (2021)** | **为什么有严重问题的 VL 仍然主导政策？** | **合法化危机——VL 的技术理性内核恰好满足了教育系统亟需的合法化功能** |
 
-此分析与 Cowen (2019) 的 Tullock 官僚制解释形成平行关系：Cowen 从 公共选择理论出发，论证 [[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]提供"对主权者透明的过滤机制"；Nielsen & Klitmøller 从 Habermas 的 [[Critical Theory|批判理论]]出发，论证 VL 提供合法化承诺——两者共同构成 [[Evidence-Based Education|EBE]]/VL 批评的**"制度功能"解释维度**，补充了此前以方法论（Wrigley, Simpson）、认识论（Biesta, Wiliam）和文化政治（McKnight & Whitburn）为主的批评。
+此分析与 Cowen (2019) 的 Tullock [[Bureaucracy|官僚制]]解释形成平行关系：Cowen 从 公共选择理论出发，论证 [[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]提供"对主权者透明的过滤机制"；Nielsen & Klitmøller 从 Habermas 的 [[Critical Theory|批判理论]]出发，论证 VL 提供合法化承诺——两者共同构成 [[Evidence-Based Education|EBE]]/VL 批评的**"制度功能"解释维度**，补充了此前以方法论（Wrigley, Simpson）、认识论（Biesta, Wiliam）和文化政治（McKnight & Whitburn）为主的批评。
 
 
 ### Hattie 的先验立场（[[Argument_OConnor_2020_AJLL|O'Connor, 2020]]）

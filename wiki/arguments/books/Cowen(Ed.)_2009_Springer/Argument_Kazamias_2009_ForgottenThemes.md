@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_ForgottenThemes"
 argument_key: "Argument_Kazamias_2009_ForgottenThemes"
 argument_display_title: "Forgotten Men, Forgotten Themes: The Historical-philosophical-cultural and Liberal Humanist Motif in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 84
+argument_related_count: 85
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -76,6 +76,7 @@ related_concepts:
   - "[[Liberal Education]]"
   - "[[Enlightenment]]"
   - "[[Competitiveness]]"
+  - "[[Bureaucracy]]"
   - "[[Epoché]]"
   - "[[Operationalization]]"
   - "[[Doxa]]"
@@ -124,7 +125,7 @@ related_theories:
   - "[[Human Capital Theory]]"
 status: draft
 created: 2026-09-06
-updated: 2026-09-07
+updated: 2026-10-08
 ---
 # Argument_Kazamias_2009_ForgottenThemes
 
@@ -400,7 +401,7 @@ updated: 2026-09-07
 >
 > - **工业科学技术时期的大众教育与人性异化危机（Science and Technology）**
 >
->   工业化大生产、机器技术与都市化进程彻底粉碎了古典文雅教育对社会生活的垄断，推动自然科学、实用技术与大众中等教育走向历史舞台中心。乌利希在此阶段详尽考察了英、法、德、俄等国应对现代性冲击的国别形态：英国在自由自治与精英公学传统中缓慢妥协推进中等教育普及；法国依托拿破仑集权官僚制维系国立中学的高深学术理性；德国在洪堡新人文主义全人教化（*Bildung*）理想与军国主义威权集权之间爆发悲剧性分裂；俄国与苏联则从沙皇专制断裂走向无产阶级意识形态垄断的统一劳动学校。乌利希深刻指出，科技与工业主义造成了严重的工具理性膨胀与人的异化危险，教育面临被降格为生产流水线机械工具的灭顶之灾；这一文明演进逻辑为战后亚非拉新兴国家（New Nations）应对工业化与文化认同冲突提供了至关重要的历史镜鉴。（Ulich, 1961; Kazamias, 1963: 387）
+>   工业化大生产、机器技术与都市化进程彻底粉碎了古典文雅教育对社会生活的垄断，推动自然科学、实用技术与大众中等教育走向历史舞台中心。乌利希在此阶段详尽考察了英、法、德、俄等国应对现代性冲击的国别形态：英国在自由自治与精英公学传统中缓慢妥协推进中等教育普及；法国依托拿破仑集权[[Bureaucracy|官僚制]]维系国立中学的高深学术理性；德国在洪堡新人文主义全人教化（*Bildung*）理想与军国主义威权集权之间爆发悲剧性分裂；俄国与苏联则从沙皇专制断裂走向无产阶级意识形态垄断的统一劳动学校。乌利希深刻指出，科技与工业主义造成了严重的工具理性膨胀与人的异化危险，教育面临被降格为生产流水线机械工具的灭顶之灾；这一文明演进逻辑为战后亚非拉新兴国家（New Nations）应对工业化与文化认同冲突提供了至关重要的历史镜鉴。（Ulich, 1961; Kazamias, 1963: 387）
 卡扎米亚斯高度肯定乌利希宏阔深邃的史学洞见，但同时从比较方法学角度客观指出了其文明史进路的内在局限：（pp.51–52）
 
 > [!critique-method] 卡扎米亚斯对乌利希文明史比较方法的方法论审视

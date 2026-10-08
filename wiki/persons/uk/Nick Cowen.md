@@ -7,10 +7,10 @@ summary: "英国政治科学家，公共选择理论取向的教育政策分析�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1985"
 died: ""
 lifespan: "1985–至今"
@@ -23,6 +23,7 @@ tags:
 - bureaucracy
 - region/uk
 related_concepts:
+  - "[[Bureaucracy]]"
   - "[[Evidence-Based Education]]"
   - "[[Epistemology]]"
   - "[[Creativity]]"
@@ -54,12 +55,12 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-18
+updated: 2026-10-08
 ---
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Nick Cowen 是英国政治科学家，任职于林肯大学（University of Lincoln）社会与政治科学学院，亦为纽约大学法学院古典自由主义研究所（Classical Liberal Institute, NYU School of Law）研究员。他将公共选择理论（特别是 Tullock 的官僚制模型）应用于教育政策分析，为[[Evidence-Based Education\|证据本位教育]]（EBE）的批判提供了**制度逻辑**层面的解释。此外，Cowen 与科学哲学家 [[Nancy Cartwright]] 合作，从政策实施角度研究了 EBE 证据在课堂层面应用的实践挑战。
+> - **身份位置** Nick Cowen 是英国政治科学家，任职于林肯大学（University of Lincoln）社会与政治科学学院，亦为纽约大学法学院古典自由主义研究所（Classical Liberal Institute, NYU School of Law）研究员。他将公共选择理论（特别是 Tullock 的[[Bureaucracy|官僚制]]模型）应用于教育政策分析，为[[Evidence-Based Education\|证据本位教育]]（EBE）的批判提供了**制度逻辑**层面的解释。此外，Cowen 与科学哲学家 [[Nancy Cartwright]] 合作，从政策实施角度研究了 EBE 证据在课堂层面应用的实践挑战。
 
 ## 核心思想
 
@@ -83,7 +84,7 @@ updated: 2026-09-18
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Tullock's Bureaucracy Theory]] — 将 Tullock 的官僚制[[Knowledge Questions\|知识问题]]应用于 [[Evidence-Based Education\|EBE]]，解释实验[[Paradigm\|范式]]的主导地位
+> - [[Tullock's Bureaucracy Theory]] — 将 Tullock 的[[Bureaucracy|官僚制]][[Knowledge Questions\|知识问题]]应用于 [[Evidence-Based Education\|EBE]]，解释实验[[Paradigm\|范式]]的主导地位
 > - [[Cartwright's Three-Stage Knowledge Framework]] — 与 Cartwright 合作将 [[Randomised Controlled Trials\|RCT]] 证据外推的三阶段框架应用于教育政策实施分析
 > - [[Evidence-Based Education]] — 从两个维度补充 Biesta 的[[Epistemology\|认识论]]批判：制度逻辑维度（2019）和实施实践维度（2015）
 > - [[Local Knowledge in Evidence-Based Policy]] — 通过实证访谈确立本地知识在 EBP 实施中的核心地位

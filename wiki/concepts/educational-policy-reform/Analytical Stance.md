@@ -7,7 +7,7 @@ aliases:
 summary: "教育实践者在面对各类教学改革倡议、商业教育产品与研究证据宣称时，所秉持的主动探询研究质量、审验因果逻辑与评估情境适切性的专业认知立场，是教师抵御说服性修辞诱惑、行使审慎专业判断的核心素养。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Literature Search]]"
+  - "[[Bureaucracy]]"
   - "[[Evidence-Informed Practice]]"
 related_theories:
   - "[[Dependency Theory]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-09-29
+updated: 2026-10-08
 ---
 
 # Analytical Stance
@@ -170,7 +171,7 @@ updated: 2026-09-29
 
 > [!warning] 培养难度与制度阻碍
 > - **培养周期长且难以标准化考核** 分析立场是一种深层认知习惯与[[Critical Thinking Disposition|批判精神]]，无法通过几场短期的[[Literature Search|文献检索]]培训速成。
-> - **与自上而下行政问责文化的张力** 当教育行政部门强力推行某项未经严谨验证的政绩工程时，秉持分析立场的教师往往承受巨大的科层制服从压力。
+> - **与自上而下行政问责文化的张力** 当教育行政部门强力推行某项未经严谨验证的政绩工程时，秉持分析立场的教师往往承受巨大的[[Bureaucracy|科层制]]服从压力。
 
 > [!critique] 外部制度张力与依附代价
 > - **批判立场与生存资金的现实冲突** 在高度依赖外部捐助与政府合同的生存环境下，坚持批判性分析立场往往意味着失去项目资助与竞标资格，迫使实践者与非政府组织在生存妥协与价值操守之间承受严峻考验。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 111–112)]]

@@ -8,10 +8,10 @@ aliases:
 summary: "指由大量结构简单的自主个体在缺乏中央控制或全局指令的条件下，依据局部感知与局部交互规则，自发涌现出高度有序、灵活且具备强大抗逆力的全局协同决策与复杂问题解决能力的自组织协同范式；在卡普与扎米斯卡（2025）的论证中，群智能构成了硅谷顶尖初创企业与实战工程文化最本质的组织原型。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/swarm-intelligence
   - theme/self-organization
@@ -24,6 +24,8 @@ related_concepts:
   - "[[Edge Autonomy]]"
   - "[[Dance Language of Bees]]"
   - "[[Champ]]"
+  - "[[Bureaucracy]]"
+  - "[[Flocking Behavior]]"
   - "[[Technological Republic]]"
   - "[[Variable]]"
 related_theories:
@@ -69,7 +71,7 @@ updated: 2026-10-08
 > *As one group of researchers has noted, writing on the implications of the collective decision making of honeybees and other animals for human organizations, including nurses and physicians in the health-care [[Champ|field]], the social structure of bees demonstrates “coordinated behaviour that emerges without central control.”*
 
 > [!boundary]- 概念边界
-> - 不等于 科层制指令协同 — 科层制依赖各级主管审批与中心信息中介，群体智能依赖一线实干个体的直接对等通信与公开动态投票。
+> - 不等于 [[Bureaucracy|科层制]]指令协同 — 科层制依赖各级主管审批与中心信息中介，群体智能依赖一线实干个体的直接对等通信与公开动态投票。
 > - 不等于 散漫放任 — 群体智能具备极其严密的行动聚焦机制（如蜂群选定巢穴后的全员协同起飞），能够在极短时间内形成高度一致的整体行动。
 
 ---
@@ -77,7 +79,7 @@ updated: 2026-10-08
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 群体智能组织（Swarm Organization） | 传统科层官僚制（Hierarchical Bureaucracy） | 纯随机松散群体（Uncoordinated Crowd） |
+> | 维度 | 群体智能组织（Swarm Organization） | 传统[[Bureaucracy\|科层官僚制]]（Hierarchical Bureaucracy） | 纯随机松散群体（Uncoordinated Crowd） |
 > |---|---|---|---|
 > | **决策权力中心** | 无单一指挥中枢，决策权分布于边缘感知节点 | 严格自顶向下，权力集中于各级管理层与中心首领 | 无明确决策机制，个体行动彼此割裂 |
 > | **信息流动路径** | 对等直达、无损快速传播（如摇摆舞、拓扑波） | 多层级层层过滤、汇报审批与中介扭曲 | 随机杂乱、容易引发非理性恐慌或踩踏 |
@@ -120,8 +122,8 @@ updated: 2026-10-08
 > [!claim] Frisch, K. v., & Lindauer, M.
 > **生物[[Dance Language of Bees|舞蹈语言]]与去中心选巢共识推导** 卡尔·冯·弗里希与[[Martin Lindauer|马丁·林道尔]]通过对蜜蜂舞蹈语言及[[Eck Swarm Experiment|埃克蜂群]]选巢过程的野外观测证明，蜜蜂通过摇摆舞将潜在巢穴的距离（摆动时长）与方位（相对太阳角度）[[Coding in Qualitative Research|编码]]为公共信息，多只侦察蜂针对不同候选地点进行公开竞争与交叉评估；群体无需中央蜂后发号施令，仅凭侦察蜂基于环境优劣动态调整跳舞频次，便能自发形成支持度向最优地点收敛的群体共识，最终驱动数万只蜜蜂精准迁入新居。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 117–119)]]
 
-> [!claim] [[Giorgio Parisi|Parisi]], G.
-> **三维拓扑交互与亚秒级近邻传导断言** 乔治·帕里西通过对罗马椋鸟群的高速摄影与三维立体空间重构研究指出，鸟群在宏观上呈现为盘状结构，其协同转弯与规避天敌的行为完全由处于群体边缘的个体自发发起；信息沿着近邻拓扑网络以极高速度由外向内无损传播，使数百只鸟在几分之一秒内完成整体步调一致的复杂机动，展现了基于局域物理规则的强[[Emergence|涌现]]自组织特性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
+> [!claim] Parisi, G.
+> **三维拓扑交互与亚秒级近邻传导断言** [[Giorgio Parisi|乔治·帕里西]]通过对罗马椋鸟群的高速摄影与三维立体空间重构研究指出，鸟群在宏观上呈现为盘状结构，其协同转弯与规避天敌的行为完全由处于群体边缘的个体自发发起；信息沿着近邻拓扑网络以极高速度由外向内无损传播，使数百只鸟在几分之一秒内完成整体步调一致的复杂机动，展现了基于局域物理规则的强[[Emergence|涌现]]自组织特性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
 
 ---
 
@@ -152,7 +154,7 @@ updated: 2026-10-08
 
 > [!dev-timeline] 概念演变
 > - **1950s — 生物学奠基阶段** 弗里希与[[Martin Lindauer|林道尔]]破译[[Dance Language of Bees|蜜蜂舞蹈语言]]，并通过 1951 年慕尼黑[[Eck Swarm Experiment|埃克蜂群实验]]首次系统记录了去中心化群体通过投票收敛达成筑巢共识的完整过程。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–119)]]
-> - **2000s — 统计物理学拓扑突破** [[Giorgio Parisi|帕里西]]团队利用三维高速立体摄影破译罗马椋鸟群飞的无标度拓扑相互作用机制，证明边缘个体驱动与亚秒级邻近传导是复杂自组织系统保持整体一致性的物理根源。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
+> - **2000s — 统计物理学拓扑突破** [[Giorgio Parisi|帕里西]]团队利用三维高速立体摄影破译罗马[[Flocking Behavior|椋鸟群飞]]的无标度拓扑相互作用机制，证明边缘个体驱动与亚秒级邻近传导是复杂自组织系统保持整体一致性的物理根源。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
 > - **2020s — 跨学科组织与工程治理[[Paradigm|范式]]** 群体智能被系统引入医疗急救韧性建设与科技初创企业治理，卡普与扎米斯卡将其确立为打破科层官僚僵化、重建[[Technological Republic|技术共和国]]工程文化的核心理论原型。
 
 ---
@@ -192,4 +194,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Karp & Zamiska (2025, Ch. 10)]] — 专著第 10 章系统梳理了[[Martin Lindauer|林道尔]][[Eck Swarm Experiment|埃克蜂群实验]]与[[Giorgio Parisi|帕里西]]椋鸟群飞研究，将生物群体智能与[[Edge Autonomy|边缘自治]]确立为高敏捷初创企业及实战工程文化的核心组织原型。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Karp & Zamiska (2025, Ch. 10)]] — 专著第 10 章系统梳理了[[Martin Lindauer|林道尔]][[Eck Swarm Experiment|埃克蜂群实验]]与[[Giorgio Parisi|帕里西]][[Flocking Behavior|椋鸟群飞]]研究，将生物群体智能与[[Edge Autonomy|边缘自治]]确立为高敏捷初创企业及实战工程文化的核心组织原型。

@@ -6,10 +6,10 @@ aliases:
 summary: "在教育系统内外通过网络、合作和机会识别推动政策变革的行动者，常兼具知识传播、议程设置和组织动员功能。在理性主义比较教育传统中，政策企业家是全球治理与多行动者网络的核心协调力量；在新自由主义教育私有化改革中，他们通过在公共福利、非营利与营利性载体间无缝切换，实现学术知识产权的商业化和远处治理；在公共教育制度改革中，他们通过跨界网络、策略性证据打包与去政治化防卫，突破各州分散垄断以促成重大政策变迁。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 theory_related_count: 5
 theory_related_level: 1
 theory_related_stars: "⭐"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Policy Window]]"
   - "[[Discourse]]"
   - "[[Network Governance]]"
+  - "[[Bureaucracy]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Pre-Transfer Agency]]"
   - "[[Policy Borrowing]]"
@@ -79,7 +80,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Policy Entrepreneur
@@ -93,7 +94,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 这个概念指向一种能够跨越公共行政、智库非营利组织与商业资本等传统分立界限，具有高超政治技巧与资源整合能力的跨界网络能动者。
-> - **用途** 它帮助研究者透视在面对分散制度权威与科层制惰性时，重大政策议题如何被包装激活，以及实证研究如何通过政策企业家的[[Transfer Translation Transformation|转译]]与护栏功能渗透进决策闭环。
+> - **用途** 它帮助研究者透视在面对分散制度权威与[[Bureaucracy|科层制]]惰性时，重大政策议题如何被包装激活，以及实证研究如何通过政策企业家的[[Transfer Translation Transformation|转译]]与护栏功能渗透进决策闭环。
 > - **边界** 不应将所有普通游说团体、执行层校长或纯粹学者均视为政策企业家；它特指那些主动制造或敏锐捕捉政策窗口、构建跨界战略联盟并策略性动员多元证据的创业型主体。
 
 > [!citation-card] 政策企业家的资源投入与窗口捕捉
@@ -216,7 +217,7 @@ updated: 2026-10-07
 > > [!axis] 自下而上的学校民主创新 vs 自上而下的新自由主义[[Disciplina and Doctrina|规训]]
 > > 争论教育系统内部的政策创业究竟是解放学校自主性、提供创新多元教育的民主工具，还是自上而下输出商业规训、加剧教育不平等的机制。
 > >
-> > - **Michael Mintrom (2000)** 强调政策创业在学校自主改革、打破教育科层制僵化方面的自下而上民主创新的积极潜力。
+> > - **Michael Mintrom (2000)** 强调政策创业在学校自主改革、打破教育[[Bureaucracy|科层制]]僵化方面的自下而上民主创新的积极潜力。
 > > - **Stephen Ball (2012)** 认为跨国政策企业家以数据和效率之名在跨国范围构建契约网络，实质上在以资本主义逻辑剥夺本地学校的民主自主权。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. viii)]]
 >
 > > [!axis]- 去政治化技术防护 vs 宪法代议制民主问责

@@ -7,7 +7,7 @@ aliases:
 summary: "以企业管理与市场竞争逻辑重塑公共部门的治理范式，强调绩效指标、产出控制、性价比核算、供给竞争、管理问责与服务外包，在带来微观成本控制的同时导致公共部门去技能化与创新治理的青蛙视角"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Public-Private Partnership in Research]]"
   - "[[Champ]]"
   - "[[Public Dynamic Capabilities]]"
+  - "[[Bureaucracy]]"
   - "[[Lead-and-Learn Paradigm]]"
   - "[[Public Value]]"
   - "[[Reflexivity]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # New Public Management
@@ -109,7 +110,7 @@ updated: 2026-10-07
 
 > [!boundary]- 概念边界
 > - 不等于 内生私有化 — NPM 是内生私有化的核心操作机制（将商业逻辑引入公共部门内部），但内生私有化范畴更宽，涵盖商业思维进入公共系统的全部形式。
-> - 不等于 传统科层制管理 — 传统科层制强调行政规则遵从与程序规范，而 NPM 强调产出指标达标与结果问责。
+> - 不等于 传统[[Bureaucracy|科层制]]管理 — 传统科层制强调行政规则遵从与程序规范，而 NPM 强调产出指标达标与结果问责。
 > - 不等于 [[Lead-and-Learn Paradigm|引领与学习范式]] — NPM 属于被动的“支持与衡量”框架（单点补贴与短期考核），而引领与学习范式强调国家主动塑造市场并以敏捷实验展开系统反思。
 
 ---

@@ -5,6 +5,18 @@
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch10.md"
     },
     {
+      "basename": "Organizational Culture",
+      "path": "wiki/theories/sociology-of-education/Organizational Culture.md"
+    },
+    {
+      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch09",
+      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch09.md"
+    },
+    {
+      "basename": "Alfred Nobel",
+      "path": "wiki/persons/sweden/Alfred Nobel.md"
+    },
+    {
       "basename": "Dance Language of Bees",
       "path": "wiki/concepts/learning-science-cognitive-science/Dance Language of Bees.md"
     },
@@ -27,10 +39,6 @@
     {
       "basename": "Alfred Binet",
       "path": "wiki/persons/france/Alfred Binet.md"
-    },
-    {
-      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch09",
-      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch09.md"
     },
     {
       "basename": "Buen Vivir",
@@ -191,14 +199,6 @@
     {
       "basename": "Paulo Freire",
       "path": "wiki/persons/brazil/Paulo Freire.md"
-    },
-    {
-      "basename": "Josep Borrell",
-      "path": "wiki/persons/spain/Josep Borrell.md"
-    },
-    {
-      "basename": "Peter Thiel",
-      "path": "wiki/persons/us/Peter Thiel.md"
     }
   ],
   "omittedPaths": [],

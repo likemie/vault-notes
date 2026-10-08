@@ -8,7 +8,7 @@ summary: "爱沙尼亚裔公共治理与创新政策学者，伦敦大学学院�
 type: person
 nationality: "estonia"
 person_region: "estonia"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Market Failure]]"
   - "[[Open-Mindedness]]"
   - "[[Social Engagement]]"
+  - "[[Bureaucracy]]"
   - "[[Public Value]]"
   - "[[Cognitive Deskilling]]"
   - "[[Feedback]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-08
 ---
 
 # Rainer Kattel
@@ -90,7 +91,7 @@ updated: 2026-10-03
 
 > [!work-line] 主要著作
 > - **2018 — *[[Mission-Oriented Innovation Policy]] and Dynamic Capabilities in the Public Sector*** 系统梳理使命导向创新政策的百年演变历程，将[[Joseph Schumpeter|熊彼特]]企业动态能力与韦伯式国家能力相综合，奠定[[Public Dynamic Capabilities|公共部门动态能力]]的三层分析构架。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–801)]]
-> - **2019 — *Innovation Bureaucracy: How Governments Successfully Support Innovation*** 深入剖析公共机构在支持颠覆性创新时如何实现组织重构与敏捷学习，论述创新官僚制的结构形态。
+> - **2019 — *Innovation [[Bureaucracy]]: How Governments Successfully Support Innovation*** 深入剖析公共机构在支持颠覆性创新时如何实现组织重构与敏捷学习，论述创新官僚制的结构形态。
 > - **2023 — *How to Make an Entrepreneurial State: Why Innovation Needs Bureaucracy*** 进一步探讨现代国家如何通过内部技术专业化与能力建设重塑[[Public Value|公共价值]]。
 
 ---
@@ -121,7 +122,7 @@ updated: 2026-10-03
 > [!person-network] 关系网络
 > - **师承／合作者** [[Mariana Mazzucato]] — 共同领导 UCL IIPP 研究所，联合开创[[Public Dynamic Capabilities|公共部门动态能力]]与[[Mission-Oriented Innovation Policy|使命导向创新政策]]系列理论。
 > - **理论渊源** [[Evolutionary Economics|演化经济学]]（[[Joseph Schumpeter|约瑟夫·熊彼特]]） — 继承演化经济学[[Creativity|创造性]]破坏与[[Technological Trajectories|技术轨道]]理论，拓展至公共部门组织领域。
-> - **理论渊源** [[Max Weber|马克斯·韦伯]]（Max Weber） — 吸收理性官僚制与精英功绩制思想，探讨国家能力演化。
+> - **理论渊源** [[Max Weber|马克斯·韦伯]]（Max Weber） — 吸收理性[[Bureaucracy|官僚制]]与精英功绩制思想，探讨国家能力演化。
 
 ---
 

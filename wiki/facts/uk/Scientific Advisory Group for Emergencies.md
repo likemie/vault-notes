@@ -12,7 +12,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ tags:
   - level/national-policy
 related_concepts:
   - "[[Sage]]"
+  - "[[Bureaucracy]]"
   - "[[Scientific Uncertainty]]"
   - "[[Dialogue in Education]]"
   - "[[Hypothesis]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Scientific Advisory Group for Emergencies
@@ -72,7 +73,7 @@ updated: 2026-10-07
 > 英国紧急情况科学咨询小组（Scientific Advisory Group for Emergencies, [[Sage]]）是英国在遭遇国家重大突发紧急危机时激活的最高级别政府应急专家科学咨询机制。该机构隶属于英国国家最高危机协调中枢——内阁简报室（Cabinet Office Briefing Room, COBR），通常由英国政府首席科学顾问（Government Chief Scientific Adviser, GCSA）主持，其法定使命是在极短时间内敏捷聚合全国跨学科顶尖科学证据与推演模型，为内阁大臣与首相提供独立、无偏见的技术支撑；但在国家重大公共卫生危机中，其运作机制亦因学科代表性失衡、“遵循科学”政治推诿修辞以及对自身建议终极因果影响后验追踪的缺位，成为议会质询与元研究反思的典型案例（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|The Royal Society, 2026, Ch. 5, p. 81]]；[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, pp. 150, 157]]）。
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 2009 年全球甲型 H1N1 流感大流行期间首次由英国政府首席科学顾问正式激活。创设初衷在于应对重大危机发生时信息高度残缺、时间极度紧迫、生命健康或国家安全赌注巨大的极端压力，打破常规政府科层制的决策迟缓，搭建连接全国顶尖学术智慧与最高行政决策中枢的敏捷通道（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|The Royal Society, 2026, Ch. 5, p. 81]]）。
+> - **成立时间 / 创设背景** 2009 年全球甲型 H1N1 流感大流行期间首次由英国政府首席科学顾问正式激活。创设初衷在于应对重大危机发生时信息高度残缺、时间极度紧迫、生命健康或国家安全赌注巨大的极端压力，打破常规政府[[Bureaucracy|科层制]]的决策迟缓，搭建连接全国顶尖学术智慧与最高行政决策中枢的敏捷通道（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|The Royal Society, 2026, Ch. 5, p. 81]]）。
 > - **总部地点 / 业务辐射** 依托英国伦敦内阁办公室（Cabinet Office）与[[Government Office for Science\|政府科学办公室]]（Government Office for Science, GO-Science）运转，直接服务全英国（UK）中央政府内阁危机应对团队与首相，统筹国家级重大突发事件的科学咨询。
 > - **法人属性与经费基础** 属于政府内设的临时特设（Ad-hoc）专家咨询委员会，非独立法人实体；行政协调与秘书处运行经费全部由英国公共财政通过内阁办公室与政府科学办公室常设预算承担，参会科学家通常以无偿独立学术荣誉身份履职。
 > - **核心宗旨与法定职责** 核心宗旨为“在突发国家紧急事态中向政府最高层提供协调一致、基于最佳可用实证的科学与技术建议”。法定职责涵盖迅速评估科学现状、阐明关键[[Scientific Uncertainty\|证据不确定性]]（[[Scientific Uncertainty]]）、测算干预政策的潜在连锁反应并就封控、隔离、物资采购等危机议程提供前瞻情景建模推演。

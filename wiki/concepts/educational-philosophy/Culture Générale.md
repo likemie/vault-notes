@@ -8,7 +8,7 @@ aliases:
 summary: "源自法国理性主义与折衷主义哲学的精英中等教育通识理念，融合古典人文与现代科学，基于官能心理学与心智训练全面磨砺普遍理性，为中央集权体制选拔培育具备卓越行政才能的治理精英。"
 type: concept
 domain: "educational-philosophy"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Scientific Paradigm]]"
   - "[[Critical Dualism]]"
+  - "[[Bureaucracy]]"
   - "[[Citizen Science]]"
 related_theories: []
 related_methods:
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
 # Culture Générale
@@ -180,7 +181,7 @@ updated: 2026-10-05
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **课程认识论与心智训练命题** | 文理融通的心智训练优于碎片化专业技能，旨在陶冶普遍理性 | 精英中等教育课程哲学与[[General Education\|通识教育]]设计 | Cousin; Halls; Brewer |
-> | **政治社会学与国家建制命题** | 普通文化为中央集权国家选拔同质化的行政与学术治理精英 | 现代民族国家建构与官僚制度合法化研究 | Mattheou; Kaloyannaki & Kazamias |
+> | **政治社会学与国家建制命题** | 普通文化为中央集权国家选拔同质化的行政与学术治理精英 | 现代民族国家建构与[[Bureaucracy\|官僚制]]度合法化研究 | Mattheou; Kaloyannaki & Kazamias |
 > | **现代性变迁与范式转型命题** | 二战道德破产与工业民主化需求倒逼排他性古典文化向[[Citizen Science\|大众科学]]转型 | 战后教育扩张、科学范式转型与课程平权论争 | Mattheou; Davies; Holmes |
 
 ---
