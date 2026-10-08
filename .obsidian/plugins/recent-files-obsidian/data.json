@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch16.md"
     },
     {
+      "basename": "Technological Republic",
+      "path": "wiki/concepts/political-economy-geopolitics/Technological Republic.md"
+    },
+    {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch15",
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch15.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "Research Excellence Framework",
       "path": "wiki/facts/uk/Research Excellence Framework.md"
-    },
-    {
-      "basename": "Technological Republic",
-      "path": "wiki/concepts/political-economy-geopolitics/Technological Republic.md"
     },
     {
       "basename": "Consumer Internet",
