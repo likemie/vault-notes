@@ -37,6 +37,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Plato]]"
+  - "[[Joseph Tussman]]"
   - "[[John Dewey]]"
   - "[[Paulo Freire]]"
 related_facts:
@@ -109,7 +110,7 @@ updated: 2026-10-08
 > 在20世纪美国高校本科[[General Education|通识教育]]（[[Western Civilization Course|西方文明课]]程）中，亚里士多德与[[Plato|柏拉图]]构成不可或缺的古典思想源头，但在课程实际编订中两者常常面临选目取舍的编纂冲突。
 
 > [!case] 图斯曼之问：选目武断性与正典大纲的合法性瓦解
-> 在1960年代末欧美大学反战与民权运动席卷校园的背景下，正典必修课大纲遴选的“代表性”遭遇广泛质疑。加州大学伯克利分校哲学系主任约瑟夫·图斯曼（Joseph Tussman）在1968年反思通识必修课设计时发出著名的质问：
+> 在1960年代末欧美大学反战与民权运动席卷校园的背景下，正典必修课大纲遴选的“代表性”遭遇广泛质疑。加州大学伯克利分校哲学系主任[[Joseph Tussman|约瑟夫·图斯曼]]（Joseph Tussman）在1968年反思通识必修课设计时发出著名的质问：
 > “我们选了柏拉图，为何不选亚里士多德？为何没有更多欧里庇得斯？选了《失乐园》，为何不选但丁？选了密尔，为何不选马克思？”（*We have Plato, but why not Aristotle? Why not more Euripides? Paradise Lost, but why not Dante? John Stuart Mill, but why not Marx?*）[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 88)]]
 >
 > 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）指出，图斯曼对“为何选柏拉图而不选亚里士多德”等具体篇目的编辑技术质疑，表面上聚焦于大纲篇幅限制与选目武断性，实质上反映了1960年代学术界对西方文明整体概念内部连贯性的深刻怀疑，并最终成为加速斯坦福等名校废除西方文明统一必修课（[[1968 Stanford Western Civ Reform|1968年斯坦福西方文明课程改革]]）与引发全美[[Canon Wars|经典之争]]的关键推力。

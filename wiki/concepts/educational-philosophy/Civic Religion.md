@@ -18,6 +18,7 @@ tags:
   - theme/higher-education
 related_concepts:
   - "[[General Education]]"
+  - "[[Thick Belonging]]"
   - "[[Productization of the Mind]]"
   - "[[Canon Wars]]"
   - "[[Technical Rationality]]"
@@ -77,7 +78,7 @@ updated: 2026-10-08
 
 ## 现代危机：薄弱认同与道德真空
 
-> [!contrast-table] 丰厚归属感与薄弱归属感的对比
+> [!contrast-table] [[Thick Belonging|丰厚归属感]]与薄弱归属感的对比
 > | 维度 | 丰厚共同体归属（Thick Conception） | 薄弱共同体归属（Thin Conception） |
 > |---|---|---|
 > | **精神基础** | 拥有连贯的历史叙事、崇高道德抱负与[[Civic Religion\|公民宗教]]支撑 | 仅局限于消极尊重他人权利与遵循新自由主义市场规则 |

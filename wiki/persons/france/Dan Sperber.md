@@ -42,6 +42,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons:
+  - "[[Claude Lévi-Strauss]]"
   - "[[René Descartes]]"
 related_facts:
   - "[[CNRS]]"
@@ -74,7 +75,7 @@ updated: 2026-10-07
 ## 生平与职涯
 
 > [!timeline] 生平与学术节点
-> - **1942** 出生于法国。早年接受人类学与哲学训练，师从结构主义人类学家列维-斯特劳斯（Claude Lévi-Strauss）。
+> - **1942** 出生于法国。早年接受人类学与哲学训练，师从结构主义人类学家[[Claude Lévi-Strauss|列维-斯特劳斯]]（Claude Lévi-Strauss）。
 > - **1970s–1980s** 转向认知科学与语言哲学研究，与英国语言学家 Deirdre Wilson 紧密合作，构建反思传统[[Coding in Qualitative Research|编码]]-[[Decodification|解码]]模式的认知语用学理论。
 > - **1986** 出版划时代著作 *Relevance: Communication and Cognition*，正式确立关联理论，成为认知语用学与心智哲学领域的经典奠基之作。
 > - **1996** 出版 *Explaining Culture: A Naturalistic Approach*，提出表征流行病学，将文化现象解释为心智表征在人类群体中的分布与传播动力学。

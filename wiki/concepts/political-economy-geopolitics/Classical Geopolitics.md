@@ -39,6 +39,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
 related_theories:
   - "[[Critical Geopolitics]]"
+  - "[[Clash of Civilizations]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Correlational Research]]"
@@ -133,7 +134,7 @@ updated: 2026-10-08
 > - **1890s–1945 — 理论体系的建立与帝国扩张**
 > 麦金德（H. Mackinder）的陆权论（1904）、马汉（A. Mahan）的海权论（1890）与斯派克曼（N. Spykman）的边缘地带理论（Spykman & Sempa, 2008）构成了古典地缘政治学派的理论基石。该术语在二战期间重新浮现。
 >
->   古典地缘政治概念在概念史上与德国国家社会主义对"第三帝国"的扩张企图相关，体现了领土偏见（Thompson & Parreira do Amaral, 2022, p. 10），正统观点曾为纳粹德国的侵略性扩张主义提供正当性，导致该术语在战后几乎从政治词汇中消失——直至被美国政策顾问重新普及，特别是 [[Samuel P. Huntington]] 的争议性著作 *Clash of Civilizations* (1996)。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|(Parreira do Amaral, 2022, pp. 36–37)]]
+>   古典地缘政治概念在概念史上与德国国家社会主义对"第三帝国"的扩张企图相关，体现了领土偏见（Thompson & Parreira do Amaral, 2022, p. 10），正统观点曾为纳粹德国的侵略性扩张主义提供正当性，导致该术语在战后几乎从政治词汇中消失——直至被美国政策顾问重新普及，特别是 [[Samuel P. Huntington]] 的争议性著作 *[[Clash of Civilizations]]* (1996)。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|(Parreira do Amaral, 2022, pp. 36–37)]]
 >
 > - **1945–1991 — 冷战时期**
 >   冷战期间的阵营形成（如北约）是以民族国家为中心的古典地缘政治的典型体现（Thompson & Parreira do Amaral, 2022, p. 10）。[[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]]指出，大学在此期间被纳入外交、国家安全与科学竞赛之中——美国通过[[Fulbright Program\|富布莱特计划]]输出自由主义民主，苏联通过人民友谊大学推广社会主义道路——但高等教育仍只被理解为国家战略的附属工具，尚未独立成为地缘政治分析对象（p. 4）。

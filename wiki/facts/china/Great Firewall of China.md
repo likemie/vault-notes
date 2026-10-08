@@ -22,7 +22,8 @@ tags:
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Transfer]]"
-related_theories: []
+related_theories:
+  - "[[Clash of Civilizations]]"
 related_methods:
   - "[[Analytic Framework]]"
 related_persons: []
@@ -63,7 +64,7 @@ updated: '2026-05-18'
 
 > [!warning]
 > - Partaken 将 Great Firewall 描述为[[Geopolitics of Knowledge\|知识地缘政治]]的审查工具，其[[Analytic Framework\|分析框架]]将中国定位为[[Knowledge Transfer\|知识转移]]中的控制者角色([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.82]])
-> - 该分析基于非中立的西方视角，采用 Huntington 文明冲突论作为分析背景([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.78–79]])
+> - 该分析基于非中立的西方视角，采用 Huntington [[Clash of Civilizations|文明冲突论]]作为分析背景([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.78–79]])
 
 ## 相关概念／政策
 

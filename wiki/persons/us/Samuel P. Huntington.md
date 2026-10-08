@@ -25,7 +25,8 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Determinism]]"
-related_theories: []
+related_theories:
+  - "[[Clash of Civilizations]]"
 related_methods: []
 related_instruments: []
 related_persons: []
@@ -48,7 +49,7 @@ updated: 2026-10-08
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名政治学家、哈佛大学阿尔伯特·J·韦瑟黑德三世大学讲席教授，曾任哈佛国际与地区事务研究所所长、美国政治学会主席。
-> - **核心角色** 提出了冷战后全球地缘政治重构的“文明冲突论”，强调文化与宗教断层线对国际格局与现代国家发展的决定性影响。
+> - **核心角色** 提出了冷战后全球地缘政治重构的“[[Clash of Civilizations|文明冲突论]]”，强调文化与宗教断层线对国际格局与现代国家发展的决定性影响。
 > - **代表贡献** 提出文明冲突框架与[[Huntington-Wallace Line|亨廷顿-华莱士线]]，著有《变化社会中的政治秩序》（1968）、《第三波》（1991）、《文明的冲突与世界秩序的重建》（1996）等经典著作。
 
 > [!citation-card] 塞缪尔·亨廷顿论文明断层线与世界格局
@@ -65,7 +66,7 @@ updated: 2026-10-08
 > - **1946–1951** 毕业于耶鲁大学，并在哈佛大学获得政治学博士学位。
 > - **1950–2007** 长期任教于哈佛大学政府系，担任哈佛大学国际事务中心主任。
 > - **1977–1978** 在卡特政府国家安全委员会担任白宫安全规划协调员。
-> - **1993** 在《外交事务》（*Foreign Affairs*）发表著名论文《文明的冲突？》（*The Clash of Civilizations?*），引发全球学术与战略界持久论战。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85–86)]]
+> - **1993** 在《外交事务》（*Foreign Affairs*）发表著名论文《文明的冲突？》（*The [[Clash of Civilizations]]?*），引发全球学术与战略界持久论战。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85–86)]]
 > - **1996** 出版专著《文明的冲突与世界秩序的重建》（*The Clash of Civilizations and the Remaking of World Order*）。
 > - **2008** 逝世于马萨诸塞州马萨葡萄园岛。
 
@@ -76,7 +77,7 @@ updated: 2026-10-08
 > [!work-line] 代表著作与核心理论
 > - **1968 — *Political Order in Changing Societies*** 提出制度化水平与政治参与失衡导致政治衰败的经典理论，强调权威与政治秩序对经济发展的前提性价值。
 > - **1991 — *The Third Wave: Democratization in the Late Twentieth Century*** 系统梳理20世纪末全球民主化浪潮的动力机制与巩固挑战。
-> - **1993/1996 — *The Clash of Civilizations?*** 将全球划分为西方、中华、伊斯兰、东正教等各大文明板块，引用[[Huntington-Wallace Line|亨廷顿-华莱士线]]描绘欧洲文明断层，论证文化认同对国际关系的决定性塑造。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85–86)]]
+> - **1993/1996 — *The [[Clash of Civilizations]]?*** 将全球划分为西方、中华、伊斯兰、东正教等各大文明板块，引用[[Huntington-Wallace Line|亨廷顿-华莱士线]]描绘欧洲文明断层，论证文化认同对国际关系的决定性塑造。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85–86)]]
 
 ---
 

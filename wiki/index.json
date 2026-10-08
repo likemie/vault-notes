@@ -9249,6 +9249,18 @@
     ]
   },
   {
+    "title": "Thick Belonging",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Thick Belonging.md",
+    "aliases": [
+      "丰厚归属感",
+      "丰厚共同体归属",
+      "Thick Conception of Belonging",
+      "薄弱与丰厚归属",
+      "Thin vs Thick Belonging"
+    ]
+  },
+  {
     "title": "Total Factor Productivity",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Total Factor Productivity.md",
@@ -15409,6 +15421,16 @@
     ]
   },
   {
+    "title": "Clash of Civilizations",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Clash of Civilizations.md",
+    "aliases": [
+      "文明冲突论",
+      "Clash of Civilizations Thesis",
+      "文明冲突假说"
+    ]
+  },
+  {
     "title": "Concealment-Exposure Framework",
     "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/Concealment-Exposure Framework.md",
@@ -21262,6 +21284,17 @@
     ]
   },
   {
+    "title": "Claude Lévi-Strauss",
+    "type": "person",
+    "path": "wiki/persons/france/Claude Lévi-Strauss.md",
+    "aliases": [
+      "克洛德·列维-斯特劳斯",
+      "列维-斯特劳斯",
+      "Lévi-Strauss",
+      "Levi-Strauss"
+    ]
+  },
+  {
     "title": "Dan Sperber",
     "type": "person",
     "path": "wiki/persons/france/Dan Sperber.md",
@@ -24008,6 +24041,14 @@
       "约瑟夫·奈",
       "约瑟夫·S·奈",
       "Joseph Nye"
+    ]
+  },
+  {
+    "title": "Joseph Tussman",
+    "type": "person",
+    "path": "wiki/persons/us/Joseph Tussman.md",
+    "aliases": [
+      "约瑟夫·图斯曼"
     ]
   },
   {

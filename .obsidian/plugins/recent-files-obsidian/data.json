@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Cognitive Decoupling",
+      "path": "wiki/concepts/educational-philosophy/Cognitive Decoupling.md"
+    },
+    {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch07",
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch07.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Herbert A. Simon",
       "path": "wiki/persons/us/Herbert A. Simon.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md"
     }
   ],
   "omittedPaths": [],

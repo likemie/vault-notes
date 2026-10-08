@@ -26,7 +26,8 @@ related_theories:
   - "[[Postmodernism]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
-related_persons: []
+related_persons:
+  - "[[Claude Lévi-Strauss]]"
 related_facts:
   - "[[OECD]]"
 related_arguments:
@@ -94,7 +95,7 @@ updated: 2026-10-07
 
 > [!dev-timeline] 漂浮能指概念演变脉络
 > - **符号学与精神分析起源**
->   漂浮能指最初由 Claude Lévi-Strauss 在分析马塞尔·莫斯礼物理论时提出，后被 Jacques Lacan 引入精神分析领域，用于指代没有固定所指、可在能指链上滑动的符号。
+>   漂浮能指最初由 [[Claude Lévi-Strauss]] 在分析马塞尔·莫斯礼物理论时提出，后被 Jacques Lacan 引入精神分析领域，用于指代没有固定所指、可在能指链上滑动的符号。
 > - **Castells 的网络空间理论**
 >   Castells (2000c) 指出，在[[Network Society\|网络社会]]的[[Space of Flows and Space of Places\|流动空间]]中，符号共存而不参照任何地方的经验，失去具体含义，唯一的共享价值在于成为网络中的通信节点。
 > - **Beech 的教育政策空间引入**

@@ -37,6 +37,8 @@ related_facts:
   - "[[Comparative Education Society in Europe]]"
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
+related_theories:
+  - "[[Clash of Civilizations]]"
 confidence: high
 status: active
 created: 2026-09-29
@@ -56,7 +58,7 @@ updated: 2026-10-01
 > - **成立时间 / 发起背景** 2004 年由意大利比较教育学者乔瓦尼·庞帕尼尼（Giovanni Pampanini）与马耳他学者罗纳德·苏尔塔纳（Ronald Sultana）等发起创立，旨在响应全球化背景下地中海南北两岸日益紧迫的移民潮、青年就业与文明互鉴议题。
 > - **组织架构与辐射网络** 涵盖欧洲南部（意大利、西班牙、希腊、马耳他、葡萄牙、塞浦路斯）、北非马格里布（摩洛哥、阿尔及利亚、突尼斯、埃及）以及中东近东诸国的大学学者与研究机构。
 > - **实体学术依托** 长期依托马耳他大学欧洲-地中海教育研究中心（EMCER）与意大利卡塔尼亚大学等实体学术平台运作。
-> - **核心宗旨** 推动地中海作为独特“区域[[Unit of Analysis|分析单元]]”的比较教育理论与经验研究；探讨地中海南北教育差异、跨文化融合、移民子女教育融入；抵御“文明冲突论”偏见，倡导和平、对话与社会正义。
+> - **核心宗旨** 推动地中海作为独特“区域[[Unit of Analysis|分析单元]]”的比较教育理论与经验研究；探讨地中海南北教育差异、跨文化融合、移民子女教育融入；抵御“[[Clash of Civilizations|文明冲突论]]”偏见，倡导和平、对话与社会正义。
 
 ---
 

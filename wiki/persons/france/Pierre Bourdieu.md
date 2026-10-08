@@ -63,6 +63,7 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Correlational Research]]"
 related_persons:
+  - "[[Claude Lévi-Strauss]]"
   - "[[Bruno Latour]]"
   - "[[Yajun Zheng]]"
 related_arguments:
@@ -122,7 +123,7 @@ updated: 2026-10-07
 >     - 《再生产：一种教育系统理论的要素》（*La Reproduction*, Minuit, 1970）：系统论述学校通过符号暴力将等级关系合法化。
 >   - **关键概念／方法** [[Cultural Capital\|文化资本]]、[[Habitus\|习性]]、符号暴力、[[Ethnography\|民族志研究]]
 >   - **阶段转向** 从哲学的先验思辨彻底转向依靠经验观察的社会学，发现并确立了教育系统作为阶级结构复制工具的解释路径。
-> - **1972–1980 — 实践理论的建构** 致力于超越萨特式自由主体的[[Subjectivism\|主观主义]]与列维-斯特劳斯式无主体结构的[[Objectivism\|客观主义]]，提出习性与实践感概念。
+> - **1972–1980 — 实践理论的建构** 致力于超越萨特式自由主体的[[Subjectivism\|主观主义]]与[[Claude Lévi-Strauss|列维-斯特劳斯]]式无主体结构的[[Objectivism\|客观主义]]，提出习性与实践感概念。
 >   - **代表著作** 
 >     - 《实践理论大纲》（*Esquisse d'une théorie de la pratique*, Droz, 1972）：以 Kabylie 调查为基础奠定习性框架。
 >     - 《区分：判断的社会批判》（*La Distinction*, Minuit, 1979）：通过大规模调查将品味解释为社会位置的符号区隔。

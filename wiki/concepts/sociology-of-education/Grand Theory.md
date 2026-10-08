@@ -10,7 +10,7 @@ aliases:
 summary: "统摄学科全貌、历史进程或文明演进、追求先验普遍性与高度逻辑自洽的思辨性元叙述体系；在社会学中因脱离经验事实而遭遇默顿中层理论、扎根理论与后现代主义的解构；在技术政治与文明史中呈现多重张力：福山式意识形态宏大叙事诱发胜者谬误与战略麻痹，工程宏大叙事的丧失导致大构想饥荒，而全盘解构西方文明宏大叙事则切断了维系移民社会凝聚力的世俗公民宗教，诱发国家认同沦为断线气球与技术不可知论。"
 type: concept
 domain: "sociology-of-education"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
