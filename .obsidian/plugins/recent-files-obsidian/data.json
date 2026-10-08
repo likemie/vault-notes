@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Swarm Intelligence",
+      "path": "wiki/concepts/learning-science-cognitive-science/Swarm Intelligence.md"
+    },
+    {
+      "basename": "Palantir Technologies",
+      "path": "wiki/facts/us/Palantir Technologies.md"
+    },
+    {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch11",
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch11.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "Edge Autonomy",
       "path": "wiki/concepts/political-economy-geopolitics/Edge Autonomy.md"
-    },
-    {
-      "basename": "Swarm Intelligence",
-      "path": "wiki/concepts/learning-science-cognitive-science/Swarm Intelligence.md"
     },
     {
       "basename": "Martin Lindauer",
@@ -195,10 +199,6 @@
     {
       "basename": "Erving Goffman",
       "path": "wiki/persons/global/Erving Goffman.md"
-    },
-    {
-      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch04",
-      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch04.md"
     }
   ],
   "omittedPaths": [],

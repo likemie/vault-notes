@@ -93,7 +93,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-02
-updated: 2026-09-18
+updated: 2026-10-08
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Guo_2025_TSC"
@@ -380,7 +380,7 @@ issuing_organization: ""
 > **典型实证循证支持** 该类别涵盖中美欧等十余所高校的学期创新创业课程与工作坊（如 Baruah & Paulus, 2008; Dow & Mayer, 2004; Gu et al., 2023; Karwowski & Soszynski, 2008; Lubart, 2014; West et al., 2012; Zampetakis et al., 2008 等，详见 Table 4 清单）。
 >
 > **核心操作规程与教学设计**
-> 1. **全要素融合设计** 课程通常集成了理论讲授、小组讨论、[[Brainstorming\|头脑风暴]]、即兴戏剧、冥想、[[Role-playing\|角色扮演]]与身体活动等多种教学形态。
+> 1. **全要素融合设计** 课程通常集成了理论讲授、小组讨论、[[Brainstorming\|头脑风暴]]、[[Role-playing|即兴戏剧]]、冥想、[[Role-playing\|角色扮演]]与身体活动等多种教学形态。
 > 2. **多通道感官激活** 兼顾视觉图形、言语表达、动作体验与逻辑推演，力求全面覆盖大学生的多维创造力潜能。
 >
 > **深层认知机制拆解**

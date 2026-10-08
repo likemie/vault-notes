@@ -34,7 +34,8 @@ related_persons:
   - "[[Konrad Lorenz]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
-related_facts: []
+related_facts:
+  - "[[Palantir Technologies]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11]]"
 confidence: high
@@ -76,7 +77,7 @@ updated: 2026-10-08
 > | **地位本质** | 服务于现实目标的临时工具与情境表演 | 终身绑定职位、不可侵犯的特权标志 | 依靠体力与群体威慑确立的生物性等级支配 |
 > | **本质与扮演关系** | 严格剥离 | 绝对合一 | 无意识合一，由生物本能直接驱动 |
 > | **组织重构弹性** | 极高，随任务目标随时拆解与调换 | 极低，办公室家具规格等细节皆受规章锁定 | 只有发生流血争斗才能重置顺位 |
-> | **典型代表** | 帕兰提尔（Palantir）、即兴剧团、敏捷工程团队 | 1960年代飞歌公司（Philco）、传统官僚政府部门 | 寒鸦群、狼群（[[Konrad Lorenz]] 观测） |
+> | **典型代表** | [[Palantir Technologies\|帕兰提尔]]（Palantir）、即兴剧团、敏捷工程团队 | 1960年代飞歌公司（Philco）、传统官僚政府部门 | 寒鸦群、狼群（[[Konrad Lorenz]] 观测） |
 
 ---
 

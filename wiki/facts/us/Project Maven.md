@@ -37,6 +37,7 @@ related_persons:
   - "[[Alexander Karp]]"
 related_facts:
   - "[[DARPA]]"
+  - "[[Palantir Technologies]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"
@@ -84,7 +85,7 @@ updated: 2026-10-08
 > - **2017-04 — 算法战小组设立与 Google 签约** 美国国防部成立 AWCFT，Google Cloud 凭借先进 TensorFlow 框架与计算机视觉算法中标成为核心软件供应商。
 > - **2018-04 — 谷歌内部爆发员工联名抗议** 超过 3000 名谷歌员工签署公开信向管理层施压，抗议公司技术被用于军事侦察与潜在致命打击，数十名软件工程师辞职抗议。
 > - **2018-06 — 谷歌宣布拒绝续约并制定 AI 伦理原则** 谷歌云业务负责人戴安·格林（Diane Greene）迫于内部压力宣布合同到期后退出梅文项目，并颁布承诺不开发武器化 AI 的原则。
-> - **2019 至今 — 国防软件生态重组与帕兰提尔接棒** 谷歌退出后，五角大楼将项目核心转向帕兰提尔（Palantir Technologies）与安杜里尔（Anduril Industries）等坚定支持国家防务的软件企业，梅文项目成为全域联合指挥控制（JADC2）系统的算法底座。
+> - **2019 至今 — 国防软件生态重组与[[Palantir Technologies|帕兰提尔]]接棒** 谷歌退出后，五角大楼将项目核心转向帕兰提尔（Palantir Technologies）与安杜里尔（Anduril Industries）等坚定支持国家防务的软件企业，梅文项目成为全域联合指挥控制（JADC2）系统的算法底座。
 
 > [!citation-card] 谷歌员工反对梅文项目的公开联名信
 > 开发这项技术来协助美国政府进行军事监控并可能导致致命后果，是不可接受的。我们认为谷歌不应卷入战争业务。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 33)]]
@@ -120,6 +121,6 @@ updated: 2026-10-08
 > | [[Hard Power]] | 概念 | 实践领域，算法与计算机视觉构成了 21 世纪软件硬实力的决定性中枢。 |
 > | [[Technological Republic]] | 概念 | 理论对照，揭示科技企业退出防务工程对现代技术共和国政产学研协同传统的侵蚀。 |
 > | [[Culture of Disbelief]] | 概念 | 文化背景，反映受教育精英阶层在不信文化冲刷下丧失崇高国家信念的虚无状态。 |
-> | [[Alexander Karp]] | 人物 | 关键行动者，其领导的帕兰提尔在传统大厂退出后坚决承接防务 AI 研发并捍卫国家安全。 |
+> | [[Alexander Karp]] | 人物 | 关键行动者，其领导的[[Palantir Technologies\|帕兰提尔]]在传统大厂退出后坚决承接防务 AI 研发并捍卫国家安全。 |
 > | [[Mariana Mazzucato]] | 人物 | 理论参照，其关于国家在底层突破中引领作用的洞见揭露了硅谷[[Historical Amnesia\|历史健忘症]]。 |
 > | [[DARPA]] | 事实 | 历史参照，奠定现代计算与互联网基础的国防机构，构成梅文项目的制度源流。 |

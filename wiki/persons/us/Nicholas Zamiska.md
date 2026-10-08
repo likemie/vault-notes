@@ -32,7 +32,8 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Alexander Karp]]"
-related_facts: []
+related_facts:
+  - "[[Palantir Technologies]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
 confidence: high
@@ -48,7 +49,7 @@ updated: 2026-10-08
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国法律学者、科技企业高管，帕兰提尔科技公司（Palantir Technologies Inc.）企业事务主管兼首席执行官办公室法律顾问。
+> - **身份位置** 美国法律学者、科技企业高管，[[Palantir Technologies|帕兰提尔科技公司]]（Palantir Technologies Inc.）企业事务主管兼首席执行官办公室法律顾问。
 > - **核心角色** 兼任帕兰提尔防务政策与国际事务基金会（Palantir Foundation for Defense Policy & International Affairs）董事，参与科技企业涉外战略与防务政策研究。
 > - **代表贡献** 与[[Alexander Karp|亚历山大·卡普]]合著《[[Technological Republic|技术共和国]]》，系统探讨人工智能时代科技企业与国家战略、法律规制及公共治理的制度契合。
 
@@ -59,7 +60,7 @@ updated: 2026-10-08
 > [!timeline] 生平与职涯
 > - **本科时期** 毕业于耶鲁大学（Yale College）。
 > - **法学深造** 获得耶鲁法学院（Yale Law School）法律博士（Juris Doctor, J.D.）学位。
-> - **帕兰提尔任职** 担任帕兰提尔科技公司企业事务主管兼首席执行官办公室法律顾问，并出任防务政策与国际事务基金会董事。
+> - **[[Palantir Technologies|帕兰提尔]]任职** 担任帕兰提尔科技公司企业事务主管兼首席执行官办公室法律顾问，并出任防务政策与国际事务基金会董事。
 > - **2025** 与[[Alexander Karp|亚历山大·卡普]]合著出版《[[Technological Republic|技术共和国]]：[[Hard Power|硬实力]]、[[Hard Belief|软信念]]与西方的未来》（*The Technological Republic: Hard Power, Soft Belief, and the Future of the West*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 297)]]
 
 ---

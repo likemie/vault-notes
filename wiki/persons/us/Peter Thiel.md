@@ -30,6 +30,7 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[AI Deterrence]]"
 related_facts:
+  - "[[Palantir Technologies]]"
   - "[[Apollo Program]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04]]"
@@ -52,7 +53,7 @@ updated: 2026-10-08
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Peter Thiel（1967– ），德裔美国风险投资家、政治思想家与企业家，PayPal 联合创始人，Palantir 联合创始人兼董事长，Founders Fund 创始合伙人，《从0到1》（*Zero to One*）作者。
+> - **身份位置** Peter Thiel（1967– ），德裔美国风险投资家、政治思想家与企业家，PayPal 联合创始人，[[Palantir Technologies|Palantir]] 联合创始人兼董事长，Founders Fund 创始合伙人，《从0到1》（*Zero to One*）作者。
 > - **核心角色** 硅谷投资界批判“科技停滞假说”（Great Stagnation）与“[[Big Idea Famine|大构想饥荒]]”的核心思想导师，力主将风险资本从浅层[[Consumer Internet|消费互联网]]引导至前沿深科技与国防安全领域。
 > - **代表贡献** 提出“我们想要会飞的汽车，得到的却只是 140 个字符”的著名论断，开创从 0 到 1 的垂直创新理论，倡导以[[Apollo Program|阿波罗计划]]式的非连续跨维度跃进作为衡量人类真正进步的根本标尺。
 
@@ -68,7 +69,7 @@ updated: 2026-10-08
 > [!timeline] 生平与职涯
 > - **1967** 出生于西德法兰克福，后随家庭移居美国，获斯坦福大学哲学学士（1989）与法学博士（1992）。
 > - **1998–2002** 联合创立 PayPal，开创数字支付时代；2002 年 PayPal 被 eBay 收购后，其团队核心成员被称为“PayPal 黑帮”（PayPal Mafia）。
-> - **2003–2004** 联合创立 Palantir Technologies（专注于国防防务、反恐情报与复杂大数据分析平台），并成为 Facebook 早期首位外部天使投资人。
+> - **2003–2004** 联合创立 [[Palantir Technologies]]（专注于国防防务、反恐情报与复杂大数据分析平台），并成为 Facebook 早期首位外部天使投资人。
 > - **2005** 创立风险投资机构 Founders Fund，确立投资硬核科技（航空航天、生命科学、人工智能、清洁能源）的使命导向。
 > - **2010** 设立蒂尔奖学金（Thiel Fellowship），资助青年创新者辍学创业，挑战传统高等教育[[Credential Inflation|文凭通胀]]与学术建制化。
 > - **2011** 在《国家评论》（*National Review*）发表重磅文章《未来的终结》（*The End of the Future*），系统阐述科技大停滞与[[Apollo Program|阿波罗计划]]的进步标尺。
@@ -104,7 +105,7 @@ updated: 2026-10-08
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **产业投资路径** 通过 Founders Fund 投资 SpaceX、Palantir、Anduril 等硬科技与国防科技企业，重构了硅谷与国家防务安全、深空探索之间的产业桥梁。
+> - **产业投资路径** 通过 Founders Fund 投资 SpaceX、[[Palantir Technologies|Palantir]]、Anduril 等硬科技与国防科技企业，重构了硅谷与国家防务安全、深空探索之间的产业桥梁。
 > - **政治哲学与科技政策路径** 其大停滞批判与重振重大工程抱负深刻启发了卡普（[[Alexander Karp|Alex Karp]]）与扎米斯卡（[[Nicholas Zamiska]]）在《[[Technological Republic|技术共和国]]》中关于破除[[Big Idea Famine|大构想饥荒]]、再造[[Technological Republic|技术共和国]]的核心立论。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 49–50)]]
 > - **教育与人才流动路径** 蒂尔奖学金打破了美国精英大学对青年智力的体制垄断，倡导顶尖技术人才投身底层工程突破而非安逸的学术与大厂螺丝钉岗位。
 
@@ -139,5 +140,5 @@ updated: 2026-10-08
 > |:-----|:-----|:-----|
 > | [[Big Idea Famine]] | 概念 | 蒂尔对科技停滞的批判构成了反思大构想饥荒的核心思想支柱。 |
 > | [[Technological Republic]] | 概念 | 倡导国家与企业共同重拾[[Apollo Program\|阿波罗计划]]式的宏大科技工程抱负。 |
-> | [[AI Deterrence]] | 概念 | 通过 Palantir 等企业推动算法与国防防务深度整合，构筑技术威慑基石。 |
+> | [[AI Deterrence]] | 概念 | 通过 [[Palantir Technologies\|Palantir]] 等企业推动算法与国防防务深度整合，构筑技术威慑基石。 |
 > | [[Total Factor Productivity]] | 概念 | 借用宏观经济学全要素生产率指标剖析物理世界创新停滞的制度根源。 |

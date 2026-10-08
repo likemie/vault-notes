@@ -59,6 +59,7 @@ related_facts:
   - "[[Skokie Free Speech Case]]"
   - "[[Checkers Speech]]"
   - "[[2023 Congressional Hearing on Campus Antisemitism]]"
+  - "[[Palantir Technologies]]"
   - "[[CREATES Project]]"
 related_arguments: []
 status: draft
@@ -90,7 +91,7 @@ updated: 2026-10-08
 >
 > - **硅谷虚无主义与商业营销对道德精神的篡夺**
 >
->   揭露硅谷科技巨头在不作恶等浅薄口号掩护下的政治虚无主义，对比 Palantir 明确承担国防安全责任的价值抉择，剖析商业资本营销对公众道德心灵的殖民与篡夺（pp. 63–64）。
+>   揭露硅谷科技巨头在不作恶等浅薄口号掩护下的政治虚无主义，对比 [[Palantir Technologies|Palantir]] 明确承担国防安全责任的价值抉择，剖析商业资本营销对公众道德心灵的殖民与篡夺（pp. 63–64）。
 >
 > -- **全控机构封闭性、语言审查巨蟒与自由主义道德真空**
 
@@ -176,7 +177,7 @@ updated: 2026-10-08
 > [!warrant] 商业科技精英的虚无主义与道德角色的错位
 > 科技企业在面对关乎国家生存与安全竞争的重大地缘政治议题时选择集体沉默，以回避争议保障商业利益；与此同时，商业广告却在大量盗用本应属于公共领域的道德情操。这种科技巨头对国家责任绝口不提、普通商品却向大众宣讲道德的怪诞现象，反映出科技精英在充裕物质生活中丧失了直面现实复杂性的智识勇气（pp. 63–64）。
 
-> [!tension-table] 硅谷主流科技巨头 vs 帕兰提尔（Palantir）的战略抉择
+> [!tension-table] 硅谷主流科技巨头 vs [[Palantir Technologies|帕兰提尔]]（Palantir）的战略抉择
 > | 维度 | 硅谷主流科技企业（Google / Meta 等） | 帕兰提尔（Palantir）的战略抉择 |
 > |---|---|---|
 > | **核心口号** | 不作恶（Don't be evil） / 做正确的事（Do the right thing） | 明确承担捍卫西方民主政体与国家安全的战略义务 |

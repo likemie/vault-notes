@@ -63,6 +63,7 @@ related_facts:
   - "[[Open Competition Mechanism]]"
   - "[[US Innovation Policy System]]"
   - "[[DARPA]]"
+  - "[[Palantir Technologies]]"
   - "[[SBIR and STTR Programs]]"
   - "[[NSF X-Labs]]"
   - "[[German Innovation Policy System]]"
@@ -86,7 +87,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-03
-updated: 2026-10-04
+updated: 2026-10-08
 year: 2026
 doi: ""
 citation_aliases:
@@ -289,7 +290,7 @@ citation_aliases:
 > [!info] 企业主体：高强度投入与多元组织模式
 > 2011—2021年企业研发投入贡献了美国整体研发增长的87%，其中近22%用于基础研究和应用研究。以苹果、Alphabet为代表的科技企业依托iOS和Android生态系统，与内容开发商、终端制造商建立深度协同创新联盟。谷歌与普林斯顿大学、[[Max Planck|马克斯·普朗克]]研究所开展机器学习理论、计算机视觉等基础研究合作，实现从理论创新到产业应用的无缝衔接(p.36)。
 >
-> OpenAI采用"非营利部门+营利部门"双轨制架构，非营利部门专注基础技术研发，营利部门通过市场化融资提供资金支持。国防领域，初创企业Palantir将数据解读分析业务与国家安全需求结合，获得中情局风险投资机构In-Q-Tel超200万美元投资(pp.36–37)。
+> OpenAI采用"非营利部门+营利部门"双轨制架构，非营利部门专注基础技术研发，营利部门通过市场化融资提供资金支持。国防领域，初创企业[[Palantir Technologies|Palantir]]将数据解读分析业务与国家安全需求结合，获得中情局风险投资机构In-Q-Tel超200万美元投资(pp.36–37)。
 >
 > 中小企业支持方面，通过《小企业法案》《联邦政府采购法》等法律提供制度保障，形成"三位一体"管理体系。[[SBIR and STTR Programs\|SBIR]]（3.2%经费）、STTR（0.3%经费）、SBICCT（40亿美元）三大计划支持中小企业创新。2024年国防部与小企业管理局联合设立13支投资基金，向近1700家中小企业注资40亿美元，重点支持生物工艺学、量子科学、下一代无线通信等领域(p.37)。
 

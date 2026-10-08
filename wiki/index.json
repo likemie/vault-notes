@@ -17836,7 +17836,10 @@
       "role-play",
       "role play",
       "AI Role-playing Prompting",
-      "角色扮演提示"
+      "角色扮演提示",
+      "即兴戏剧",
+      "Improvisational Theatre",
+      "本体地位与扮演地位解耦"
     ]
   },
   {
@@ -31499,6 +31502,18 @@
       "科学研究与开发办公室",
       "战时科学研究与开发办公室",
       "OSRD"
+    ]
+  },
+  {
+    "title": "Palantir Technologies",
+    "type": "fact",
+    "path": "wiki/facts/us/Palantir Technologies.md",
+    "aliases": [
+      "帕兰提尔",
+      "帕兰提尔科技",
+      "帕兰提尔科技公司",
+      "Palantir",
+      "Palantir Technologies Inc."
     ]
   },
   {

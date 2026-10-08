@@ -37,6 +37,7 @@ related_persons:
   - "[[Peter Thiel]]"
   - "[[Nicholas Zamiska]]"
 related_facts:
+  - "[[Palantir Technologies]]"
   - "[[Research in Schools Evaluation]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
@@ -53,7 +54,7 @@ updated: 2026-10-08
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国企业家、社会理论学者，帕兰提尔科技公司（Palantir Technologies Inc.）联合创始人兼首席执行官。
+> - **身份位置** 美国企业家、社会理论学者，[[Palantir Technologies|帕兰提尔科技公司]]（Palantir Technologies Inc.）联合创始人兼首席执行官。
 > - **核心角色** 在当代科技政策、国家安全与企业[[Organizational Culture|组织文化]]交汇处担任旗帜性批判者与实践者；倡导重构科技产业与国家防务的战略结盟。
 > - **代表贡献** 联合创立帕兰提尔科技并推动大数据与人工智能系统在西方防务与情报领域的实战应用；提出[[Technological Republic|技术共和国]]理论框架并系统诊断[[Innovation Desert|创新荒漠]]问题。
 
@@ -66,7 +67,7 @@ updated: 2026-10-08
 > - **1989** 毕业于哈弗福德学院（Haverford College）。
 > - **1992** 获得斯坦福法学院（Stanford Law School）法律博士（Juris Doctor, J.D.）学位。
 > - **2002** 获得德国法兰克福歌德大学（Goethe University Frankfurt）社会理论博士学位，师从德国哲学家与社会学家[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas）。
-> - **2003** 与[[Peter Thiel|彼得·蒂尔]]（Peter Thiel）等人共同创立帕兰提尔科技公司（Palantir Technologies），长期担任首席执行官。
+> - **2003** 与[[Peter Thiel|彼得·蒂尔]]（Peter Thiel）等人共同创立[[Palantir Technologies|帕兰提尔科技公司]]（Palantir Technologies），长期担任首席执行官。
 > - **2025** 与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]合著出版专著《[[Technological Republic|技术共和国]]：[[Hard Power|硬实力]]、[[Hard Belief|软信念]]与西方的未来》（*The Technological Republic: Hard Power, Soft Belief, and the Future of the West*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–15, 297)]]
 
 ---

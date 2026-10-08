@@ -64,6 +64,7 @@ related_facts:
   - "[[Manhattan Project]]"
   - "[[Dartmouth Summer Research Project on Artificial Intelligence]]"
   - "[[Pause Giant AI Experiments Open Letter]]"
+  - "[[Palantir Technologies]]"
 related_arguments: []
 sources:
   - "[[books/Karp_Zamiska_2025_Technological_Republic/Karp_Zamiska_2025_Technological_Republic|Karp_Zamiska_2025_Technological_Republic]]"
@@ -280,7 +281,7 @@ updated: 2026-10-08
 > [!citation-card] 驳斥暂停 AI 研发呼吁与打造锋利工具的战略决断
 > 继续推进人工智能研发所面临的风险从未如此巨大。然而，我们绝不能因为担心锋利的工具可能被调转枪头对准自己而退缩不前……将武器系统与日益自主的 AI 软件相结合必然会带来风险，但叫停这些技术发展的建议是被误导的。至关紧要的是，我们必须将注意力重新转向研制将决定本世纪大国力量平衡的下一代 AI 武器。（第2章，p. 26）
 >
-> *The risks of proceeding with the development of [[Generative Artificial Intelligence|Artificial Intelligence]] have never been more significant. Yet we must not shy away from building sharp tools for fear they may be turned against us. The software and artificial intelligence capabilities that we at Palantir and other companies are building can enable the deployment of lethal weapons. The potential integration of weapons systems with increasingly autonomous AI software necessarily brings risks... But the suggestion to halt the development of these technologies is misguided. It is essential that we redirect our attention toward building the next generation of AI weaponry that will determine the balance of power in this century, as the atomic age ends, and the next.*
+> *The risks of proceeding with the development of [[Generative Artificial Intelligence|Artificial Intelligence]] have never been more significant. Yet we must not shy away from building sharp tools for fear they may be turned against us. The software and artificial intelligence capabilities that we at [[Palantir Technologies|Palantir]] and other companies are building can enable the deployment of lethal weapons. The potential integration of weapons systems with increasingly autonomous AI software necessarily brings risks... But the suggestion to halt the development of these technologies is misguided. It is essential that we redirect our attention toward building the next generation of AI weaponry that will determine the balance of power in this century, as the atomic age ends, and the next.*
 
 > [!citation-card] 原子时代走向终结与[[AI Deterrence|人工智能威慑]]新纪元
 > 我们的整个防务机构与军事采办复合体，都是为了给一种可能再也不会发生的战争类型——在宏大战场上由海量人群发生碰撞的战争——供应士兵而构建的。下一场冲突的胜负将由软件来决定。一个威慑时代，即原子时代，正在走向终结；而一个建立在人工智能基础上的全新威慑时代即将开启。然而，我们所面临的最大风险，恰恰在于误以为自己已经赢得了这场竞争。（第2章，pp. 27–28）

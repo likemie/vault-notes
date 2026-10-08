@@ -6,7 +6,7 @@ aliases:
 summary: "指在解决高度复杂现实危机与工程挑战过程中形成的一种以实战结果、系统演化、敏捷协作与权责对称机制为核心的组织文化与协同范式；在卡普与扎米斯卡（2025）的论证中，工程思维是互联网泡沫破裂与软件世纪洗礼后留下的最具颠覆性的组织制度遗产，它超越了官僚体制的避险合规与金融投机，构成了重塑西方公共治理与重建技术共和国的核心组织基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -41,6 +41,7 @@ related_theories:
   - "[[Organizational Culture]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Role-playing]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -104,7 +105,7 @@ updated: 2026-10-08
 
 > [!feature] 核心要素
 > - **实战结果导向** 拒绝将论文、演示文稿与合规文件等同于实质成果，唯一评价标准是工程产物在真实物理世界与作战环境中的效能。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 111)]]
-> - **群体才华动员机制** 突破传统[[Bureaucracy|科层制]]对人才的机械分工，形成类似于[[Flocking Behavior|椋鸟群飞]]与即兴戏剧的高效自组织协同。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
+> - **群体才华动员机制** 突破传统[[Bureaucracy|科层制]]对人才的机械分工，形成类似于[[Flocking Behavior|椋鸟群飞]]与[[Role-playing|即兴戏剧]]的高效自组织协同。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
 > - **[[Edge Autonomy|边缘自治]]与一线授权** 将关键决断权下放给直接面对外部物理现实与代码的工程师，彻底废除中间管理层的信息中介与阻滞。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 120)]]
 > - **抵御权威与从众** 鼓励不同意见的公开碰撞，以客观数理逻辑与运行事实打破等级压制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 121)]]
 > - **即兴演剧与[[Status Transactions|工具性地位]]** 剥离本质地位与扮演地位，视地位为达成具体任务的临时工具，以高流动性的[[Shadow Hierarchy|影子层级]]激发基层青年主动担责。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 122–126)]]
@@ -174,7 +175,7 @@ updated: 2026-10-08
 
 > [!dev-timeline] 概念演变
 > - **1950s–2000s — [[Swarm Intelligence|群体智能]]生物学与物理学渊源** [[Martin Lindauer|林道尔]]对蜜蜂蜂群决策的解密与[[Giorgio Parisi|帕里西]]对[[Flocking Behavior|椋鸟群飞]]自组织物理机制的破译，为工程思维中的去中心化协同提供了深层科学依据。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–121)]]
-> - **1970s–1980s — 即兴戏剧与知识管理理论启发** [[Keith Johnstone|基思·约翰斯通]]的[[Status Transactions|地位交易]]演练与[[Peter Drucker|彼得·德鲁克]]的[[Symphony Orchestra Model|交响乐团组织模型]]，为工程思维中的去等级化与去中介化提供了微观组织哲学。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 122–129)]]
+> - **1970s–1980s — [[Role-playing|即兴戏剧]]与知识管理理论启发** [[Keith Johnstone|基思·约翰斯通]]的[[Status Transactions|地位交易]]演练与[[Peter Drucker|彼得·德鲁克]]的[[Symphony Orchestra Model|交响乐团组织模型]]，为工程思维中的去等级化与去中介化提供了微观组织哲学。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 122–129)]]
 > - **1990s 末 — 破产废墟中的意外收获** [[Dot-Com Bubble|互联网泡沫]]破裂淘汰了虚浮商业模式，确立了以敏捷软件工程为代表的协同[[Paradigm|范式]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 111)]]
 > - **2025 — 升华为国家治理重构范式** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中将工程思维确立为重塑国家[[Hard Power|硬实力]]的核心支柱，主张将其全面引入国防部、联邦机构与公共治理体系。
 
