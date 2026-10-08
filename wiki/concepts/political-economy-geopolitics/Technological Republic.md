@@ -5,7 +5,7 @@ aliases:
 summary: "国家战略力量、公共福利与民主合法性同前沿科技与软件工程深度绑定的政治经济体制形态。强调国家战略与技术共同体结盟，以软件硬实力与人工智能威慑替代原子时代工业化防御；破除胜者谬误、大构想饥荒与创新荒漠，依托审美品味、创始人长期主义、全员所有权社会与实质伦理美德，在微观工程思维与宏观国家使命中重构自由民主政体的地缘优势与社会治理效能。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 114
+related_count: 113
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Man-Computer Symbiosis]]"
   - "[[Lifestyle Technology]]"
   - "[[Technological Pastiche]]"
+  - "[[Cosmopolitanism]]"
   - "[[The Right and the Good]]"
   - "[[Ontology]]"
   - "[[General Education]]"
@@ -350,7 +351,7 @@ updated: 2026-10-09
 ### 命题十　克服技术不可知论与种姓化危机：技术共和国必须以实质硬信念与开放贤能统治重建政治认同与文明活力
 
 > [!concept-lens] [[Technological Agnosticism|技术不可知论]]与[[Establishment Caste|统治集团种姓化]]的文化社会学批判
-> 探讨如何破除硅谷脱嵌世界主义与高等教育[[Productization of the Mind|心智产品化]]，以正义与[[Buen Vivir|美好生活]]的辩证统一重塑国家政治方案。
+> 探讨如何破除硅谷脱嵌[[Cosmopolitanism|世界主义]]与高等教育[[Productization of the Mind|心智产品化]]，以正义与[[Buen Vivir|美好生活]]的辩证统一重塑国家政治方案。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Karp & Zamiska (2025, Ch. 6)]]
 > **破除不可知论冷漠并重构愿意承担代价的[[Hard Belief|硬信念]]** 卡普与扎米斯卡系统剖析了当代科技阶层陷入技术不可知论（将建造行为与国家目的割裂）与[[Cult of Optionality|选择权崇拜]]（避险瘫痪）的文化根源：
@@ -473,7 +474,7 @@ updated: 2026-10-09
 > > - **创始人溢价派（Fahlenbrach / Purdue / Karp & Zamiska）** 实证表明创始人掌舵在超额[[Return on Investment|投资回报]]与核心专利创新上显著超越非创始人企业；唯有摆脱委员会折衷并甘愿像奥德修斯般约束选项，才能抵御短期市场噪音。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 209–211)]]
 > > - **现代公司治理合规派** 强调委员会治理与独立董事制衡是防范创始人专断、维护中小股东权益与实现合规运营的现代企业制度基石。
 >
-> > [!axis] 科技世界主义脱嵌 vs 国家战略科技主权同盟
+> > [!axis] 科技[[Cosmopolitanism|世界主义]]脱嵌 vs 国家战略科技主权同盟
 > > 争论科技精英应当作为无国界的[[Global Citizenship|全球公民]]开发消费应用，还是必须承担捍卫本国民主制度的防务责任。
 > >
 > > - **世界主义与消费科技派** 主张技术无国界，拒绝卷入大国安全竞争，将算法研发局限于商业消费领域。

@@ -9,7 +9,7 @@ aliases:
 summary: "指当代技术精英与软件工程师将技术创造活动本身视为纯粹目的，刻意回避对国家使命、政治立场、公共善与伦理价值进行实质决断与承诺的意识形态取向；其历史根源可追溯至20世纪后半叶欧美通识正典瓦解与反文化黑客伦理将国家定性为缺陷系统后，科技阶层向唯利是图消费互联网的全面退缩。"
 type: concept
 domain: "ethics-of-technology"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[Civic Religion]]"
   - "[[Discourse]]"
+  - "[[Cosmopolitanism]]"
   - "[[Historical Amnesia]]"
   - "[[Hacker Ethic]]"
   - "[[Cognitive Decoupling]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Technological Agnosticism
@@ -115,7 +116,7 @@ updated: 2026-10-08
 
 > [!feature] 核心要素
 > - **为了建造而建造的纯粹主义（Construction for Construction's Sake）** 将代码编写、系统扩容与平台扩张本身视为唯一的意义来源，拒绝探讨技术的终极政治意图与社会后果。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 71)]]
-> - **脱嵌于国家共同体的世界主义假象（Disembodied Cosmopolitanism）** 自诩为无国界的世界公民，认为自身财富与创新能力赋予了超越民族国家责任的特权。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 69–70)]]
+> - **脱嵌于国家共同体的[[Cosmopolitanism|世界主义]]假象（Disembodied Cosmopolitanism）** 自诩为无国界的世界公民，认为自身财富与创新能力赋予了超越民族国家责任的特权。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 69–70)]]
 > - **通识正典断裂诱发的价值虚无（Civilizational Dis-anchoring）** 伴随大学人文学科对西方传统通识的拆解，科技精英在成长过程中丧失了理解国家制度与自由价值的文化锚定，导致国家历史沦为“断线气球”。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 88, 95–96)]]
 > - **[[Historical Amnesia|历史健忘症]]与责任剥离（Institutional Amnesia）** 抹杀早期研发受惠于[[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）等国家公共投资的历史事实，将成功完全归因于私人自由创新。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 74–75)]]
 

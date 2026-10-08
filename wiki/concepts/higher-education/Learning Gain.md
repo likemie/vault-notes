@@ -75,7 +75,7 @@ related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Serpell_2020_EP]]"
 created: 2026-08-26
-updated: 2026-09-22
+updated: 2026-10-09
 ---
 
 # Learning Gain
@@ -203,8 +203,8 @@ updated: 2026-09-22
 > >
 > > - **通用测验派（[[Collegiate Learning Assessment\|CLA+]], [[Collegiate Assessment of Academic Proficiency\|CAAP]]）** 主张通用测试具备跨院校、跨专业的横向可比性，能够为国家宏观政策问责提供统一基准。
 > > - **学科情境派（[[VALUE Rubrics]]）** 认为[[Higher-Order Thinking Skills\|高阶思维]]无法脱离具体的学科专业知识孤立存在，通用测验容易退化为脱离学科脉络的智力题，主张依赖教师嵌入式真实评分量规。
-> >
-> > > [!axis] 增益结果用途：形成性诊断教学 vs 终结性高利害问责
+>
+> > [!axis] 增益结果用途：形成性诊断教学 vs 终结性高利害问责
 > > 争论学习增益指标应当用于帮[[Teaching Assistant\|助教]]师改进教学，还是直接挂钩拨款与人事奖惩。
 > >
 > > - **形成性改进派** 强调增值指标具有较大幅度的[[Sampling Error\|抽样误差]]与年份波动，只能作为识别教学短板、开展教研反思的内部反馈线索。

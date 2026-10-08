@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch06"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch06"
 argument_display_title: "Technological agnostics"
 argument_kind: "book-chapter"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Culture of Disbelief]]"
   - "[[Productization of the Mind]]"
   - "[[Establishment Caste]]"
+  - "[[Cosmopolitanism]]"
   - "[[Hard Power]]"
   - "[[Buen Vivir]]"
   - "[[Technological Republic]]"
@@ -73,7 +74,7 @@ related_arguments: []
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 # Argument_Karp_Zamiska_2025_Technological_Republic_Ch06
 
@@ -85,7 +86,7 @@ updated: 2026-10-08
 > 为什么掌握前沿算力与万亿资本的硅谷科技精英，会深陷将工程建造与国家使命割裂的“[[Technological Agnosticism|技术不可知论]]”与“[[Cult of Optionality|选择权崇拜]]”？过度世俗化与[[Culture of Disbelief|不信文化]]如何消解了社会的崇高信念？高等教育的[[Productization of the Mind|心智产品化]]与资本极化又如何催生了[[Establishment Caste|统治集团种姓化]]危机？
 
 > [!claim] 核心主旨
-> 当代西方掌握颠覆性代码与数字基础设施的科技精英，深陷一种将工程建造活动与国家战略使命彻底割裂的[[Technological Agnosticism|技术不可知论]]（Technological Agnosticism）与[[Cult of Optionality|选择权崇拜]]（Cult of Optionality）。正如[[Amy Gutmann|艾米·古特曼]]（[[Amy Gutmann]]）所表述的“首要道德效忠不属于任何国家共同体而只属于正义本身”的世界主义理念，以及[[Manuel Castells|曼努埃尔·卡斯特尔斯]]（[[Manuel Castells]]）所揭示的“精英是世界主义的，大众是本土的”，技术精英自诩为无国界的超脱者，将“为了建造而建造”奉为最高圭臬，却对国家的存续目的与[[Hard Power|硬实力]]防卫保持沉默与回避。在[[Culture of Disbelief|不信文化]]（Culture of Disbelief）与战后过度世俗化的冲刷下，受教育阶层驱逐了超验信仰与崇高道德追求，将程序包容异化为一无所信；而高等教育体制从文明器皿退化为行政看护者，催生了严重的[[Productization of the Mind|心智产品化]]（Productization of the Mind），导致近半数顶尖学府毕业生涌入金融与咨询业，人文学科断崖式腰斩。面对西海岸极少数科技巨头高达 21.4 万亿美元的空前资本垄断与不可知论冷漠，当代社会面临着[[E. Digby Baltzell|E. 迪格比·巴尔策尔]]（[[E. Digby Baltzell]]）所警示的[[Establishment Caste|统治集团种姓化]]（Establishment Caste）危机；正如匈牙利哲学家[[Ágnes Heller|阿格妮丝·赫勒]]（[[Ágnes Heller]]）所断言，“正义是骨架，[[Buen Vivir|美好生活]]是血肉”，若要走出后现代解构所造成的道德虚无并重塑[[Technological Republic|技术共和国]]，必须克服因恐惧非议而形成的集体沉默，重新唤起公民与精英阶层为崇高信念承担现实代价的智识勇气（pp. 69–82）。
+> 当代西方掌握颠覆性代码与数字基础设施的科技精英，深陷一种将工程建造活动与国家战略使命彻底割裂的[[Technological Agnosticism|技术不可知论]]（Technological Agnosticism）与[[Cult of Optionality|选择权崇拜]]（Cult of Optionality）。正如[[Amy Gutmann|艾米·古特曼]]（[[Amy Gutmann]]）所表述的“首要道德效忠不属于任何国家共同体而只属于正义本身”的[[Cosmopolitanism|世界主义]]理念，以及[[Manuel Castells|曼努埃尔·卡斯特尔斯]]（[[Manuel Castells]]）所揭示的“精英是世界主义的，大众是本土的”，技术精英自诩为无国界的超脱者，将“为了建造而建造”奉为最高圭臬，却对国家的存续目的与[[Hard Power|硬实力]]防卫保持沉默与回避。在[[Culture of Disbelief|不信文化]]（Culture of Disbelief）与战后过度世俗化的冲刷下，受教育阶层驱逐了超验信仰与崇高道德追求，将程序包容异化为一无所信；而高等教育体制从文明器皿退化为行政看护者，催生了严重的[[Productization of the Mind|心智产品化]]（Productization of the Mind），导致近半数顶尖学府毕业生涌入金融与咨询业，人文学科断崖式腰斩。面对西海岸极少数科技巨头高达 21.4 万亿美元的空前资本垄断与不可知论冷漠，当代社会面临着[[E. Digby Baltzell|E. 迪格比·巴尔策尔]]（[[E. Digby Baltzell]]）所警示的[[Establishment Caste|统治集团种姓化]]（Establishment Caste）危机；正如匈牙利哲学家[[Ágnes Heller|阿格妮丝·赫勒]]（[[Ágnes Heller]]）所断言，“正义是骨架，[[Buen Vivir|美好生活]]是血肉”，若要走出后现代解构所造成的道德虚无并重塑[[Technological Republic|技术共和国]]，必须克服因恐惧非议而形成的集体沉默，重新唤起公民与精英阶层为崇高信念承担现实代价的智识勇气（pp. 69–82）。
 
 > [!phase] 章节论证推进脉络
 >
@@ -117,7 +118,7 @@ updated: 2026-10-08
 
 当代塑造人类生活技术帝国的硅谷领袖，是在一种名义上尊崇平等与权利、但对国家效忠与道德美德讳莫如深的文化中成长起来的。
 
-> [!claim] 科技精英的政治脱嵌与世界主义假象
+> [!claim] 科技精英的政治脱嵌与[[Cosmopolitanism|世界主义]]假象
 > 战后更为开放的美国大学体制培养出了一代不愿设定限制、不愿做出排他性承诺、不愿表明政治立场的工程师与创始人。他们将全部归属感寄托于自身正在建立的商业公司，在观念上将对国家使命的虔诚敬意视为应当怀疑的偏狭，自诩为超越本土责任的无国界公民（pp. 69–70）。
 
 这种脱嵌心态在行动上表现为对个人选择权的绝对崇拜。
@@ -303,7 +304,7 @@ updated: 2026-10-08
 
 ## 关键引用
 
-> [!citation-card] [[Amy Gutmann|艾米·古特曼]]论世界主义正义效忠
+> [!citation-card] [[Amy Gutmann|艾米·古特曼]]论[[Cosmopolitanism|世界主义]]正义效忠
 > 我们的首要道德效忠不属于任何共同体，无论是国家还是其他群体，而是指向正义本身。（pp. 69–70）
 >
 > *Our primary moral allegiance is to no community, national or otherwise, but rather to justice itself.*

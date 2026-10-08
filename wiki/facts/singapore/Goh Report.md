@@ -11,7 +11,7 @@ subtype: policy
 region: "singapore"
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Attrition]]"
   - "[[School Inspection]]"
   - "[[Language Skills]]"
+  - "[[Bilingual Education Policy]]"
   - "[[Academic Attrition]]"
   - "[[Emergence]]"
 related_theories: []
@@ -98,7 +99,7 @@ updated: 2026-10-09
 > [!pathways]- 实施路径
 > - **顶层设计** 由[[Goh Keng Swee|吴庆瑞]]特别工作组直接将系统工程分析方法引入教育部管理。
 > - **机构改革** 改组教育部行政架构，成立课程发展署自主编撰符合国情的中英文教材。
-> - **社会协同** 与基层民众联络所及社区领袖深度配合，向家长解释分流与双语政策的必要性。
+> - **社会协同** 与基层民众联络所及社区领袖深度配合，向家长解释分流与[[Bilingual Education Policy|双语政策]]的必要性。
 
 ---
 

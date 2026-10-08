@@ -7,7 +7,7 @@ aliases:
 summary: "以汉文化传统为核心重新定义’中国性’的文化同化过程，通过语言替换、课程标准化和历史叙事重构将非汉群体纳入汉文化中心框架"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Zhonghua Minzu]]"
   - "[[Discourse]]"
   - "[[Boarding Schools]]"
+  - "[[Bilingual Education Policy]]"
 related_theories:
   - "[[Sacrifice Theory]]"
   - "[[Settler Colonialism]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Sinicisation
@@ -129,5 +130,5 @@ updated: 2026-10-07
 > - 新疆"再教育营"中强制学习儒家经典和普通话([[Argument_Yu_2024_CE\|Yu & Zhao, 2024, p.64]])
 > - 中国学校教科书中日益以汉人为中心的历史叙事（Yan & Vickers 2020，引自 Yu & Zhao, 2024, p.62）
 > - 西藏[[Boarding Schools\|寄宿学校]]系统扩展（Leibold & Dorjee 2023，引自 Yu & Zhao, 2024, p.62）
-> - [[2020 Inner Mongolia Bilingual Education Reform]] — 2020 年双语教育政策在内蒙古的推行和蒙古语教育权的系统性压缩([[Argument_Bulag_2024_CE\|Bulag, 2024, p.97–98, 109–111]])
+> - [[2020 Inner Mongolia Bilingual Education Reform]] — 2020 年[[Bilingual Education Policy|双语教育政策]]在内蒙古的推行和蒙古语教育权的系统性压缩([[Argument_Bulag_2024_CE\|Bulag, 2024, p.97–98, 109–111]])
 

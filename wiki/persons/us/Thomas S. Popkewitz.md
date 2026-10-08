@@ -9,7 +9,7 @@ summary: "美国著名比较教育学、课程史学与社会认识论泰斗，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Cosmopolitanism]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
   - "[[Discourse]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Thomas S. Popkewitz
@@ -71,7 +72,7 @@ updated: 2026-10-08
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名比较教育学者、课程历史学家与社会[[Epistemology|认识论]]泰斗，威斯康星大学[[James Madison|麦迪逊]]分校（University of Wisconsin-Madison）课程与教学系教授。
 > - **核心角色** 率先将米歇尔·福柯（Michel Foucault）的[[Discourse Analysis|话语分析]]、微观权力物理学与现代“[[Governmentality|治理术]]”（Governmentality）系统引入教育研究；开创了教育研究的“社会认识论”（Social Epistemology）传统；深度揭示了[[OECD|经合组织]]等国际组织如何通过教师教育跨国标准重构社会[[Disciplina and Doctrina|规训]]网络。
-> - **代表贡献** 提出教育改革中的“救赎叙事与排斥系统”（Inclusion and Exclusion System）[[Analytic Framework|分析框架]]；主持并出版 8 国教师教育改革跨国比较研究（1993）；出版代表作《争夺灵魂：学校教育政治学与教师的建构》（1998）与《世界主义与学校改革时代》（2008）。
+> - **代表贡献** 提出教育改革中的“救赎叙事与排斥系统”（Inclusion and Exclusion System）[[Analytic Framework|分析框架]]；主持并出版 8 国教师教育改革跨国比较研究（1993）；出版代表作《争夺灵魂：学校教育政治学与教师的建构》（1998）与《[[Cosmopolitanism|世界主义]]与学校改革时代》（2008）。
 
 > [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论波普科维茨的国际组织教师教育规训研究
 > 在一项针对八个国家教师教育改革实践的研究中，波普科维茨与佩雷拉（Popkewitz & Pereyra, 1993）指出，诸如经济合作与发展组织（OECD）和欧洲共同体等国际跨国组织，正在推进规训教师教育的法规政策演变中扮演着至关重要的枢纽角色。[[Argument_Olmos_Torres_2009_StateTheories|(Popkewitz & Pereyra, 1993; Olmos & Torres, 2009, p. 80)]]
@@ -88,7 +89,7 @@ updated: 2026-10-08
 > - **1984** 出版《教育研究中的[[Paradigm|范式]]与意识形态》（*Paradigm and Ideology in Educational Research*），系统反思[[Positivism|实证主义]]定量范式在教育研究中制造的“去政治化”科学幻觉。
 > - **1991** 出版《教育改革的政治社会学》（*A Political Sociology of Educational Reform*），将[[Discourse|话语]]即权力、权力即关系的[[Post-structuralism|后结构主义]]范式系统确立为教育改革的核心分析视角。
 > - **1993** 主编出版八国跨国比较里程碑著作《权力模式的变迁：社会[[Disciplina and Doctrina|规训]]与教师教育改革》（*Changing Patterns of Power*），系统考察跨国多边组织如何通过软法与专业化话语重构各国教师教育法规。
-> - **2000s–至今** 持续深耕“世界主义”、“理性系统”与“排除的炼金术”（Alchemy of Exclusion），荣获全美教育研究协会（[[American Educational Research Association|AERA]]）终身成就奖等多项国际顶尖学术荣誉。
+> - **2000s–至今** 持续深耕“[[Cosmopolitanism|世界主义]]”、“理性系统”与“排除的炼金术”（Alchemy of Exclusion），荣获全美教育研究协会（[[American Educational Research Association|AERA]]）终身成就奖等多项国际顶尖学术荣誉。
 
 ---
 
@@ -103,7 +104,7 @@ updated: 2026-10-08
 >   - **代表著作** *A Political Sociology of Educational Reform* (1991); *Changing Patterns of Power: Social Regulation and Teacher Education Reform* (1993, with M. A. Pereyra)。[[Argument_Olmos_Torres_2009_StateTheories|(Popkewitz & Pereyra, 1993; Olmos & Torres, 2009, p. 80)]]
 >   - **关键概念／理论** 社会规训（Social Regulation）、跨国教师教育治理、专业化话语。
 >   - **阶段转向** 突破传统国家中心论视角，实证证明[[OECD|经合组织]]（[[OECD]]）与欧盟等跨国多边组织正通过推行统一的教师胜任力模型与专业标准，自上而下重塑民族国家教师的职业认同与社会调控机制。
-> - **2000s–至今 — 社会[[Epistemology|认识论]]与世界主义排斥逻辑** 此阶段建构起深邃的历史认识论与世界主义批判。
+> - **2000s–至今 — 社会[[Epistemology|认识论]]与[[Cosmopolitanism|世界主义]]排斥逻辑** 此阶段建构起深邃的历史认识论与世界主义批判。
 >   - **代表著作** *Cosmopolitanism and the Age of School Reform* (2008)。
 >   - **关键概念／理论** 社会认识论、理性系统（Systems of Reason）、双重姿态（Double Gesture of Inclusion/Exclusion）。
 >   - **阶段转向** 揭露现代学校教育口头上倡导普惠全纳与“世界主义[[Lifelong Learning|终身学习]]者”，但在实际认识论分类系统中，却通过将达不到标准的孩子定义为“有风险的”、“落后的”，制造了精巧的二次排斥与边缘化。

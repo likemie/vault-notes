@@ -129,7 +129,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Critical Thinking
@@ -335,8 +335,8 @@ updated: 2026-10-08
 > > - **Halpern、Bassok and Holyoak、Salomon and Perkins** 强调能够跨情境调用的认知结构和迁移训练。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 34)]]
 > > - **Schoenfeld and Herrmann、Bereiter and Scardamalia、Glaser、Lave** 强调专业知识、学科规范和情境实践对思维表现的塑造。同上
 > > - **Ritchhart and Perkins** 将二元争论修正为通用结构与具体情境之间复杂而动态的关系。同上
-> >
-> > > [!axis] [[Problem Solving\|问题解决]]与创造的构念位置
+>
+> > [!axis] [[Problem Solving\|问题解决]]与创造的构念位置
 > > 学者对构念外延采用不同标准，差异会直接改变课程内容与评估蓝图。
 > >
 > > - **Halpern** 把问题解决和[[Creativity\|创造性]]思维纳入批判性思维技能体系。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 32, 34)]]

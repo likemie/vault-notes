@@ -36,6 +36,7 @@ related_concepts:
   - "[[Structural Adjustment Programs]]"
   - "[[Discourse]]"
   - "[[Document]]"
+  - "[[Cosmopolitanism]]"
   - "[[Competitiveness]]"
   - "[[Dual School System]]"
   - "[[Paradigm]]"
@@ -52,6 +53,7 @@ related_concepts:
   - "[[Popular Education]]"
   - "[[Bildung]]"
   - "[[Conscientization]]"
+  - "[[Bureaucracy]]"
   - "[[Creativity]]"
 related_theories:
   - "[[World Society Theory]]"
@@ -107,14 +109,14 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-28
-updated: 2026-10-08
+updated: 2026-10-09
 subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Olmos_Torres_2009_StateTheories"
 argument_key: "Argument_Olmos_Torres_2009_StateTheories"
 argument_display_title: "Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches"
 argument_kind: "book-chapter"
-argument_related_count: 75
+argument_related_count: 77
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -192,7 +194,7 @@ issuing_organization: ""
 
 ### 论证步骤一　战后教育扩张不是普世文化趋同，而是资本积累与殖民遗产塑造的阶级分选
 
-普世主义[[World Society Theory|世界文化理论]]将战后教育扩张简化为单一价值模型的扩散，但这种非历史[[Hypothesis|假设]]无法解释第三世界国家的阶级分化现实。
+[[Cosmopolitanism|普世主义]][[World Society Theory|世界文化理论]]将战后教育扩张简化为单一价值模型的扩散，但这种非历史[[Hypothesis|假设]]无法解释第三世界国家的阶级分化现实。
 
 > [!critique-logic] 战后世界文化理论的逻辑缺陷
 > 战后主流的[[World Society Theory|世界文化理论]]认为，全球教育扩张是现代国家模仿单一世界[[Cultural Models|文化模型]]、追求公民权利与经济[[Competitiveness|竞争力]]的自然趋同过程。然而，这种解释预设了一个仿佛在 1945 年突然降临的大爆炸假说（Big Bang），割断了历史联系，无法解释为什么第三世界国家在经历了相同名义的教育扩张后，普遍演化出富人与穷人泾渭分明的阶级[[Dual School System|双轨学制]]。（pp. 74–75）
@@ -419,7 +421,7 @@ issuing_organization: ""
 > [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论[[Conditioned State Theory|受限国家]]与依附性危机
 > 受限国家的理论进一步拓展并澄清了依附国家的概念，指出国家受制于其经济在世界体系中扮演的外围角色以及自身政治体系中显著的后封建元素。因此，拉美受限国家无法正常履行其公共职能：一方面，本土经济的脆弱性使本土统治集团不愿允许大众以多元方式参与国家官僚机构的遴选；另一方面，底层阶级历史上更倾向于将国家视为统治阶级的[[Pact of Domination|支配同盟]]或代用国家，而非代表公民利益的独立公权力。（p. 83）
 >
-> *The theory of the "conditioned states" in the Third World, expanding upon and clarifying the notion of the dependent state, argues that the state is conditioned "by the nature of the peripheral role that its economy plays in the world system and the significant (postfeudal) elements in its own political system". Therefore, Latin American "conditioned states" have not been able to carry out their public functions properly for a number of reasons. On the one hand, the fragility of local economies made local dominant groups unwilling to allow the pluralist participation of the masses in the selection of the state bureaucracy. On the other hand, since the state historically has been identified by the popular sectors more as a pact of domination by the dominant classes, or a surrogate state, it has not been seen as an independent state working on behalf of the citizenry.*
+> *The theory of the "conditioned states" in the Third World, expanding upon and clarifying the notion of the dependent state, argues that the state is conditioned "by the nature of the peripheral role that its economy plays in the world system and the significant (postfeudal) elements in its own political system". Therefore, Latin American "conditioned states" have not been able to carry out their public functions properly for a number of reasons. On the one hand, the fragility of local economies made local dominant groups unwilling to allow the pluralist participation of the masses in the selection of the state [[Bureaucracy]]. On the other hand, since the state historically has been identified by the popular sectors more as a pact of domination by the dominant classes, or a surrogate state, it has not been seen as an independent state working on behalf of the citizenry.*
 
 > [!citation-card] 葛兰西与萨特视阈下[[Praxis|实践哲学]]的重构
 > 重构作为方法与认识之道的辩证法，将马克思主义“冰冷”的一面（科学）与其“炽热”的一面（乌托邦）、知识与实践紧密结合，唯有如此，对现实的[[Creativity|创造性]]与革命性阐释才能得以展开，使马克思主义一如葛兰西所言，真正成为一门“实践哲学”。（p. 85）

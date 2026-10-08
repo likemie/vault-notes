@@ -9,7 +9,7 @@ aliases:
 summary: "源自康德哲学与启蒙国际主义的规范性政治与教育构想，主张通过普遍理性觉醒、共和立宪法权与跨国制度协作消除野蛮战争状态；在比较教育学中构成了人道主义与世界公民教化的奠基性伦理动因，在当代地缘战略中则遭遇现实主义批判——警示单方面去武力化无法换取永久和平，缺乏可信威慑与硬实力的和平主义幻觉反将加剧国际安全秩序的脆弱性。"
 type: concept
 domain: "comparative-education"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Enlightenment]]"
   - "[[Normal School]]"
+  - "[[Cosmopolitanism]]"
   - "[[Artefact]]"
   - "[[Educational Meliorism]]"
   - "[[Epistemology]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-06
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Perpetual Peace
@@ -158,7 +159,7 @@ updated: 2026-10-08
 > **教育是预防流血革命与武装冲突的理性替代方案** 朱利安在目睹大革命恐怖专政与拿破仑对外征伐的浩劫后断言，孤立的政治强制与军事对抗无法带来真正的和平；唯有通过建立跨国比较教育网络、统一优秀教学法规程并推行全人体智德[[Bildung|教化]]，才能构筑起消除国际武装冲突与预防社会暴乱的心灵防线，使教育成为达致欧洲永久和平的决定性工具。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 20–24; cited in Palmer, 1993, p. 205)]]
 
 > [!claim] [[Immanuel Kant|Kant, I.]]
-> **普遍启蒙与世界主义法权的历史目的** 康德确立政治哲学命题：人类大自然的隐秘计划在于推动人类克服野蛮冲突的自然状态；而这一历史目的必须依托公众在一切事务中公开运用理性的启蒙自由，通过建立共和宪政联盟与世界公民款待权，逐步走向不可逆转的永久和平秩序。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 20)]]; [[Argument_Klerides_2023_CE|(Klerides, 2023, p. 418)]]
+> **普遍启蒙与[[Cosmopolitanism|世界主义]]法权的历史目的** 康德确立政治哲学命题：人类大自然的隐秘计划在于推动人类克服野蛮冲突的自然状态；而这一历史目的必须依托公众在一切事务中公开运用理性的启蒙自由，通过建立共和宪政联盟与世界公民款待权，逐步走向不可逆转的永久和平秩序。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 20)]]; [[Argument_Klerides_2023_CE|(Klerides, 2023, p. 418)]]
 
 ---
 
@@ -211,7 +212,7 @@ updated: 2026-10-08
 
 > [!debates] 学术争议
 >
-> > [!axis] 崇高世界主义道德 vs 现实主义地缘强权政治
+> > [!axis] 崇高[[Cosmopolitanism|世界主义]]道德 vs 现实主义地缘强权政治
 > > - **世界主义人道派（Kant; Jullien）** 坚信人类理性的普遍觉醒与跨国教育协作能够逐步消除战争，将野蛮冲突转化为基于法权的持久善治。
 > > - **国际现实主义派（Morgenthau; Waltz）** 批评永久和平是脱离国家利益冲突与权力政治规律的启蒙自由主义天真乌托邦；指出只要国际体系处于无政府状态，国家安全自保与武装威慑便是不可逾越的冷酷现实。
 >
@@ -235,7 +236,7 @@ updated: 2026-10-08
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----|
-> | [[Enlightenment\|启蒙运动]] | 概念 | 永久和平思想的精神温床，将理性启蒙与世界主义作为消弭战争的根本路径。 |
+> | [[Enlightenment\|启蒙运动]] | 概念 | 永久和平思想的精神温床，将理性启蒙与[[Cosmopolitanism\|世界主义]]作为消弭战争的根本路径。 |
 > | [[Revolutionism\|革命主义]] | 概念 | 构成国际关系英国学派中以普遍人类共同体与世界大同为核心的康德传统。 |
 > | [[International Education\|国际教育]] | 概念 | 永久和平是国际教育超越狭隘国家利益、构建跨文化互信的终极伦理依归。 |
 > | [[Educational Meliorism\|教育改良主义]] | 概念 | 驱动 19 世纪比较教育发端的根本动力，将跨国经验观察服务于消除动荡与实现世界和平。 |
@@ -252,5 +253,5 @@ updated: 2026-10-08
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 系统考证[[Marc-Antoine Jullien|朱利安]]如何深受[[Immanuel Kant|康德]]启蒙自主性与[[Jean-Jacques Rousseau|卢梭]]自然主义触动，将比较教育建构为预防政治暴力、推动欧洲永久和平的准科学人道主义工程。
-> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 阐释马丁·[[Wight's Three Traditions of International Theory|怀特国际理论三大传统]]，揭示康德式[[Revolutionism|革命主义]]传统的世界主义道德激情与消弭人类苦难追求对比较教育批判学术传统的深远启迪。
+> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 阐释马丁·[[Wight's Three Traditions of International Theory|怀特国际理论三大传统]]，揭示康德式[[Revolutionism|革命主义]]传统的[[Cosmopolitanism|世界主义]]道德激情与消弭人类苦难追求对比较教育批判学术传统的深远启迪。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 深刻解构西方社会对永久和平自然降临的自由主义幻觉，批判同盟体系单方面去武力化引发的地缘脆弱性，确立以软件[[Hard Power|硬实力]]与 AI 威慑捍卫[[Long Peace|长和平]]的现实主义秩序。

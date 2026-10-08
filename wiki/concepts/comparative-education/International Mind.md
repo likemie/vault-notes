@@ -5,7 +5,7 @@ aliases:
 summary: "两次世界大战期间国际联盟知识合作组织推动的概念，指世界各国人民中间一种比民族主义心态更适合国际合作的普遍心态。在理性主义国际关系传统下，该概念通过跨国教科书去偏见化和客观学校知识构建，成为二战后UNESCO和欧洲比较教育学会（CESE）推进科学治理与和平承诺的认知基础。"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Hypothesis]]"
   - "[[Revolutionism]]"
+  - "[[Cosmopolitanism]]"
   - "[[Global Citizenship]]"
   - "[[Scientific Method]]"
   - "[[Dialogue in Education]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # International Mind
@@ -62,7 +63,7 @@ updated: 2026-10-07
 > *a general mentality among the peoples of the world more appropriate to cooperation than the nationalistic mentality*
 
 > [!boundary]- 概念边界
-> - 不等于 **世界主义（Cosmopolitanism）** — 世界主义倡导超越一切民族国家边界的[[Global Citizenship\|全球公民]]认同；而国际心智并不否认国家主权，而是在维护多元国家架构的基础上，通过[[Scientific Method\|科学方法]]改进国家之间的合作心态。
+> - 不等于 **[[Cosmopolitanism|世界主义]]（Cosmopolitanism）** — 世界主义倡导超越一切民族国家边界的[[Global Citizenship\|全球公民]]认同；而国际心智并不否认国家主权，而是在维护多元国家架构的基础上，通过[[Scientific Method\|科学方法]]改进国家之间的合作心态。
 > - 不等于 **全球风险意识（Global Risk Consciousness）** — 全球风险意识侧重于对超越国界的系统性威胁（如环境危机、金融失序）的被动应对；国际心智则是两次大战之间理性主义秩序构建的主动教育承诺，侧重于教科书去政治化与主体间共识构建。
 
 ---

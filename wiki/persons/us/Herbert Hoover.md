@@ -9,7 +9,7 @@ summary: "美国第31任总统、采矿工程师与人道主义救济专家，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 18
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Innovation Desert]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Lean Production]]"
   - "[[Hard Power]]"
 related_theories: []
 related_methods:
@@ -52,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Herbert Hoover
@@ -139,10 +138,10 @@ updated: 2026-10-08
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **现代工程哲学对话者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中将胡佛论述作为软件工程物理客观性与直接责任机制的核心注脚。
-> - **[[Pragmatic Paradigm|实用主义]]思想同行** [[John Dewey|约翰·杜威]] — 共同推崇走出抽象神坛、投身具体经验事物与实验检验的美国实用主义传统。
-> - **[[Lean Production|精益制造]]与根因分析同行** [[Taiichi Ohno|大野耐一]] — 共同强调深入物理现场（现场现物）与直面系统真实缺陷的工程文化。
-> - **核心机构与历史工程** 斯坦福大学工学院、比利时救济委员会、美国商务部、胡佛水坝（Hoover Dam）。
+> - **思想对话与共鸣者** [[John Dewey|约翰·杜威]]（John Dewey）— 共同推崇投身具体经验事物与实验检验的美国[[Pragmatic Paradigm|实用主义]]传统。
+> - **管理思想同行** [[Taiichi Ohno|大野耐一]]（Taiichi Ohno）— 共同强调深入物理现场与直面系统缺陷的工程实干文化。
+> - **当代引述与重估者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中将胡佛论述作为软件工程直接责任机制的核心注脚。
+> - **任职机构与领导组织** 比利时救济委员会（Commission for Relief in Belgium）、美国商务部、美国总统府。
 
 ---
 

@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-09-22
+updated: 2026-10-09
 ---
 
 # Working Memory
@@ -217,8 +217,8 @@ updated: 2026-09-22
 > >
 > > - **槽位模型派（纳尔逊·考恩（Nelson Cowan）、史蒂文·拉克（Steven Luck）与爱德华·沃格尔（Edward Vogel））** 坚持认为工作记忆由固定上限的物理槽位组成，超出槽位上限的信息无法被同时维持。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, p. 5)]]
 > > - **连续资源派（威廉·马（Wei Ji Ma）与保罗·贝斯（Paul Bays））** 认为表征数量不受硬性限制，但每个表征分配到的注意资源随数量增加而稀释，导致精准度下降。
-> >
-> > > [!axis] 教学实践取向：极简负荷讲授 vs 适度负荷探究
+>
+> > [!axis] 教学实践取向：极简负荷讲授 vs 适度负荷探究
 > > 围绕如何基于工作记忆限制制定教学政策产生严重对立。
 > >
 > > - **[[Direct Instruction\|直接教学]]派（[[John Sweller\|约翰·斯威勒]]（John Sweller）与保罗·基什内尔（Paul Kirschner））** 主张工作记忆极其脆弱，必须通过全显性直接讲授与样例操练将外在负荷压制到最低，排除自主探究。

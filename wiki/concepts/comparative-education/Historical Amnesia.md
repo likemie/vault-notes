@@ -7,7 +7,7 @@ aliases:
 summary: "指学术学科或产业精英在特定知识生产与意识形态驱动下，主动割裂、边缘化乃至集体遗忘制度生成演化史与公共奠基传统的病理状态；既表现为比较教育学在实证量化狂潮中放逐历史编纂法与长时段历史意识，亦表现为硅谷科技巨头抹杀国家公共研发投资奠基作用的自由市场神话。"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Technological Republic]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Policy Brokerage]]"
+  - "[[Cosmopolitanism]]"
   - "[[Working Hypothesis]]"
   - "[[Cult of Optionality]]"
   - "[[Protean Episteme]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Historical Amnesia
@@ -128,7 +129,7 @@ updated: 2026-10-08
 ### 命题二　硅谷对底层公共研发投资的历史健忘是其陷入技术不可知论与逃避防卫义务的观念庇护所
 
 > [!claim] 命题核心主张
-> [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]指出，当代硅谷软件巨头在面对国家集体防务需求时普遍表现出道德疏离与责任逃避（如抵制[[Project Maven|梅文项目]]）。这种行为的理论温床正是一种系统性的历史健忘症：科技精英集体抹杀了冷战时期美国军方与 [[DARPA]] 在资助底层计算架构、算法与微电子突破中的决定性作用，构建了自身自足创新的虚假神话，从而在享受国家安全庇护的同时自诩为超越国家责任的“世界主义无国界公民”。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 74–75)]]
+> [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]指出，当代硅谷软件巨头在面对国家集体防务需求时普遍表现出道德疏离与责任逃避（如抵制[[Project Maven|梅文项目]]）。这种行为的理论温床正是一种系统性的历史健忘症：科技精英集体抹杀了冷战时期美国军方与 [[DARPA]] 在资助底层计算架构、算法与微电子突破中的决定性作用，构建了自身自足创新的虚假神话，从而在享受国家安全庇护的同时自诩为超越国家责任的“[[Cosmopolitanism|世界主义]]无国界公民”。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 74–75)]]
 
 ---
 

@@ -10,7 +10,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -18,7 +18,7 @@ issuing_organization: ''
 confidence: high
 status: active
 created: '2026-05-21'
-updated: 2026-10-07
+updated: 2026-10-09
 tags:
   - region/china
   - theme/confucianism
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Cultural Disembedding]]"
   - "[[Official Knowledge]]"
   - "[[Reflexivity]]"
+  - "[[Cosmopolitanism]]"
   - "[[Sinicisation]]"
 related_theories: []
 related_methods: []
@@ -134,7 +135,7 @@ related_arguments:
 > > - **官方立场** — 通过“去宗[[Bildung\|教化]]”与“中华优秀传统文化”重新封装，实现传统与社会主义核心价值观的结合[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 63)]]。
 > > - **批判学者** — 指出这种组合本质上是借用儒家家庭等级与服从结构来巩固统治权力[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 63)]]。
 >
-> > [!axis]- 世界主义解读 vs. 汉人中心强行同化
+> > [!axis]- [[Cosmopolitanism|世界主义]]解读 vs. 汉人中心强行同化
 > > 讨论儒家传统在现代社会应当如何被解读。
 > >
 > > - **世界主义视角 (Chen, 2020)** — 主张儒家传统可以进行“世界主义解读”，成为全球伦理的包容性组成部分[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 64)]]。

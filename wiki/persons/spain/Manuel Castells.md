@@ -9,7 +9,7 @@ summary: "西班牙社会学家，网络社会与信息时代发展模式奠基�
 type: person
 nationality: spain
 person_region: "spain"
-person_related_count: 27
+person_related_count: 29
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ tags:
   - theme/globalization
   - theme/technology-policy
 related_concepts:
+  - "[[Cosmopolitanism]]"
   - "[[Policy Mobility]]"
   - "[[Space of Flows and Space of Places]]"
   - "[[Informationalization]]"
@@ -45,7 +46,8 @@ related_theories:
   - "[[Network Society]]"
   - "[[Informationalism]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Kenneth Burke]]"
 related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
@@ -58,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-12
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Manuel Castells
@@ -68,8 +70,8 @@ updated: 2026-10-08
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 西班牙著名社会学家，南加州大学传播学与社会学讲座教授（Wallis Annenberg Chair in Communication Technology and Society），曾任加州大学伯克利分校城市与区域规划及社会学教授、西班牙大学部部长（2020–2021）。
-> - **核心角色** [[Network Society|网络社会]]与[[Informationalism|信息主义]]理论的奠基人，当代最具影响力的全球传播与技术社会学者之一。其空间二分法、网络国家及精英世界主义分析，被广泛用于解释全球化时代的权力重组、跨国[[Policy Mobility|政策流动]]及科技精英的政治脱嵌。
+> - **身份位置** 西班牙著名社会学家，南加州大学传播学与社会学讲座教授（Wallis Annenberg Chair in Communication Technology and Society），曾任加州大学[[Kenneth Burke|伯克]]利分校城市与区域规划及社会学教授、西班牙大学部部长（2020–2021）。
+> - **核心角色** [[Network Society|网络社会]]与[[Informationalism|信息主义]]理论的奠基人，当代最具影响力的全球传播与技术社会学者之一。其空间二分法、网络国家及精英[[Cosmopolitanism|世界主义]]分析，被广泛用于解释全球化时代的权力重组、跨国[[Policy Mobility|政策流动]]及科技精英的政治脱嵌。
 > - **代表贡献** 著有《信息时代：经济、社会与文化》三部曲与《传播权力》，提出 [[Network Society|网络社会]]、[[Space of Flows and Space of Places|流动空间与地方空间]]、网络国家（Network State）与“世界主义精英 vs 本土大众”的社会分层命题。
 
 > [!citation-card] 世界主义精英与本土大众的空间割裂
@@ -85,7 +87,7 @@ updated: 2026-10-08
 > - **1942** 出生于西班牙阿尔瓦塞特省埃林。
 > - **1960s** 积极参与反对佛朗哥独裁统治的学生运动，流亡法国巴黎，于巴黎大学（索邦）获得社会学与经济学学位，受教于阿兰·图海纳（Alain Touraine）。
 > - **1967–1979** 任教于巴黎第十大学（南泰尔分校）与法国高等社会科学研究中心（EHESS），开展城市社会学批判研究。
-> - **1979–2003** 担任美国加州大学伯克利分校城市与区域规划及社会学教授，奠定信息社会与城市理论体系。
+> - **1979–2003** 担任美国加州大学[[Kenneth Burke|伯克]]利分校城市与区域规划及社会学教授，奠定信息社会与城市理论体系。
 > - **1996–1998** 出版里程碑式学术巨著《信息时代：经济、社会与文化》三部曲（*The Information Age: Economy, Society and Culture*）。
 > - **2003 至今** 担任美国南加州大学安嫩伯格传播与新闻学院传播学讲座教授。
 > - **2020–2021** 出任西班牙政府大学部部长（Minister of Universities）。
@@ -104,7 +106,7 @@ updated: 2026-10-08
 ## 核心思想
 
 > [!claim] 核心理论主张
-> 信息技术革命奠定了以节点和网络为基本组织的社会结构（[[Network Society|网络社会]]）。社会的生产力模式从工业主义转向[[Informationalism|信息主义]]，社会财富与权力的控制权集中于跨国流通的“[[Space of Flows and Space of Places|流动空间]]”。与此相伴随的是深刻的空间与阶层撕裂：掌握资本、代码与战略决策的精英阶层具有高度的“世界主义”脱嵌特征，而普通公众则受困于具体的“地方空间”；传统国家机器演变为需在多边网络中妥协协商的“网络国家”，高度依赖以简化口号和媒体包装为特征的“[[Governance by Spin|舆论操控]]”。
+> 信息技术革命奠定了以节点和网络为基本组织的社会结构（[[Network Society|网络社会]]）。社会的生产力模式从工业主义转向[[Informationalism|信息主义]]，社会财富与权力的控制权集中于跨国流通的“[[Space of Flows and Space of Places|流动空间]]”。与此相伴随的是深刻的空间与阶层撕裂：掌握资本、代码与战略决策的精英阶层具有高度的“[[Cosmopolitanism|世界主义]]”脱嵌特征，而普通公众则受困于具体的“地方空间”；传统国家机器演变为需在多边网络中妥协协商的“网络国家”，高度依赖以简化口号和媒体包装为特征的“[[Governance by Spin|舆论操控]]”。
 
 > [!contrast-table] 流动空间（精英）与地方空间（大众）的结构性张力
 > | 分析维度 | 流动空间（Space of Flows） | 地方空间（Space of Places） |
@@ -132,7 +134,7 @@ updated: 2026-10-08
 > - **理论路径** 其空间二分法（[[Space of Flows and Space of Places|流动空间]] vs 地方空间）打破了社会科学中的[[Methodological Nationalism|方法论民族主义]]，为批判地理学、国际政治经济学与比较教育学提供了跨[[Scale in Higher Education|尺度分析]]工具。
 > - **政策与教育研究** 揭示了当代国家为何热衷于采纳抽象、可塑的全球政策[[Discourse|话语]]（如“[[21st Century Skills and Competencies Discourse|核心素养]]”、“能力导向课程”），即利用媒体友好型话语开展[[Governance by Spin|舆论操控]]以调和多元利益冲突；同时解释了跨国教育治理机构（如 [[OECD]]、[[World Bank|世界银行]]）在流动空间中的话语扩散机制。
 > - **国家主义与创新机制研究** 其关于[[Soviet Statism|苏联国家主义]]因意识形态禁锢（如[[Lysenkoism|李森科主义]]）和[[Military-Industrial Black Hole|军工黑洞]]而阻碍民用[[Informationalization|信息化]]创新的论断，成为理解极权体制与技术创新关系的经典命题。
-> - **科技精英与政治哲学批判** 其关于“世界主义精英与本土大众”的洞见，被用于剖析当代硅谷科技巨头在享受国家研发红利的同时陷入[[Technological Agnosticism|技术不可知论]]与[[Cult of Optionality|选择权崇拜]]的深层精神脱嵌。
+> - **科技精英与政治哲学批判** 其关于“[[Cosmopolitanism|世界主义]]精英与本土大众”的洞见，被用于剖析当代硅谷科技巨头在享受国家研发红利的同时陷入[[Technological Agnosticism|技术不可知论]]与[[Cult of Optionality|选择权崇拜]]的深层精神脱嵌。
 
 ---
 
@@ -150,7 +152,7 @@ updated: 2026-10-08
 > | 类型 | 条目 | 贡献 |
 > |:-----|:-----|:-----|
 > | 概念 | [[Space of Flows and Space of Places]] | 区分地理定位的物理环境与允许在非领土毗连下同时发生的流动空间，解释社会[[Praxis\|实践]]的脱嵌。 |
-> | 概念 | [[Technological Agnosticism]] | 其“精英是世界主义的，大众是本土的”论断被用于剖析当代硅谷科技精英割裂工程与国家使命的深层文化根源。 |
+> | 概念 | [[Technological Agnosticism]] | 其“精英是[[Cosmopolitanism\|世界主义]]的，大众是本土的”论断被用于剖析当代硅谷科技精英割裂工程与国家使命的深层文化根源。 |
 > | 概念 | [[Cult of Optionality]] | 揭示跨国技术阶层依托全球流动资本追求选择权最大化、回避排他性承诺的防御性心态。 |
 > | 概念 | [[Governance by Spin]] | 其媒体政治与电视语言特性，被用于解释国家如何借助印象管理将复杂政策[[Discourse\|话语]]塑造成简化口号。 |
 > | 概念 | [[Informationalization]] | 阐明信息化与[[Soviet Statism\|国家主义]]体制的结构性冲突，论证信息自由流动与网络化逻辑。 |

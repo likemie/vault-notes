@@ -7,7 +7,7 @@ aliases:
 summary: "冷战史学家约翰·刘易斯·加迪斯（John Lewis Gaddis）提出的国际关系核心概念，指第二次世界大战结束以来大国之间长达近一个世纪未发生直接全面战争的相对稳定时期；主要由核战略威慑、两极均势与美国军事优势所维系，但其诱发的和平自满在软件世纪正面临技术形态转型与威慑重构的严峻考验。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[AI Deterrence]]"
   - "[[Technological Republic]]"
+  - "[[Cosmopolitanism]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Long Peace
@@ -205,7 +206,7 @@ updated: 2026-10-08
 > | [[AI Deterrence\|AI 威慑]] | 概念 | 原子时代终结后接替核均势、维系新世纪长和平的关键威慑[[Paradigm\|范式]]。 |
 > | [[Bonsai Army\|盆景军队]] | 概念 | 西方盟友在长和平庇护下防务收缩、常规战力微缩的典型形态。 |
 > | [[Technological Republic\|技术共和国]] | 概念 | 旨在通过工程文化与软件硬实力重塑大国威慑、捍卫长和平的国家战略框架。 |
-> | [[Perpetual Peace\|永久和平]] | 概念 | 对照概念；长和平是现实威慑下的武装停火，永久和平是世界主义规范愿景。 |
+> | [[Perpetual Peace\|永久和平]] | 概念 | 对照概念；长和平是现实威慑下的武装停火，永久和平是[[Cosmopolitanism\|世界主义]]规范愿景。 |
 > | [[John Lewis Gaddis\|约翰·刘易斯·加迪斯]] | 人物 | 长和平概念的提出者与冷战史奠基学者。 |
 > | [[Steven Pinker\|斯蒂芬·平克]] | 人物 | 提供二战后全球战阵死亡率大幅下降实证统计的认知科学家。 |
 

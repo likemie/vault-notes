@@ -10,10 +10,10 @@ summary: "法国启蒙自由主义教育家与国际主义者，1817年发表比
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 49
-person_related_level: 5
-person_related_stars: "⭐⭐⭐⭐⭐"
-person_related_color: "#ffedd5"
+person_related_count: 50
+person_related_level: 6
+person_related_stars: "⭐⭐⭐⭐⭐⭐"
+person_related_color: "#fef3c7"
 born: "1775"
 died: "1848"
 lifespan: "1775–1848"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Epistemology]]"
   - "[[Policy Borrowing]]"
+  - "[[Cosmopolitanism]]"
   - "[[Normal School]]"
   - "[[Positivism]]"
   - "[[Scientism]]"
@@ -83,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Marc-Antoine Jullien
@@ -129,7 +130,7 @@ updated: 2026-10-08
 >   - **代表著作** 《关于比较教育的一项著作的计划与初步观点》（*Esquisse et vues préliminaires sur un ouvrage sur l’éducation comparée*, 1817）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11–13)]]
 >   - **关键概念／方法** 比较解剖学类比、分析图表（Analytical Charts）、比较观察表（Comparative Observation Tables）、审慎[[Policy Borrowing\|政策借用]]。
 >   - **阶段转向** 吸收解剖学经验分类与经验-演绎法，以客观事实分类诊断各国教育机体的患病断层，开创现代经验比较研究的设计原型；首次奠定比较教育学科的两大基本目的——搜集与系统化事实的“科学/理论目的”以及为国家改革提供借鉴的“实践/应用目的”，这一双重任务界定构成了后继两百年欧洲比较教育演进的核心主线。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 88)]]
-> - **1818–1848 — 欧陆二级[[Geisteswissenschaften|精神科学]]定位与世界主义[[Perpetual Peace\|永久和平]]蓝图** 扩展学术视野至全球文明交往与世界和平，将比较科学上升为全人类精神觉醒、消除战争野蛮与道德复兴的世界和平治理工程。
+> - **1818–1848 — 欧陆二级[[Geisteswissenschaften|精神科学]]定位与[[Cosmopolitanism|世界主义]][[Perpetual Peace\|永久和平]]蓝图** 扩展学术视野至全球文明交往与世界和平，将比较科学上升为全人类精神觉醒、消除战争野蛮与道德复兴的世界和平治理工程。
 >   - **代表著作** 《人类知识总表》（1819）、《[[Revue encyclopédique\|百科评论]]》（1819–1830）、《致英格兰民族书》（*A Letter to the English Nation*, 1833）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 17–18, 21–24)]]
 >   - **关键概念／方法** 欧陆人文科学（Sciences Humaines）、世界公民（Cosmopolites）、特别教育委员会、多语种教育通报、比较文明学（Comparative Civilisation）、永久和平治理。
 >   - **阶段转向** 确立经验事实服务于伦理规范的二级精神科学地位，突破狭隘民族国家壁垒，构建以特别教育委员会、统一[[Questionnaire\|问卷]]观察表、示范师训机构与多语种通报为支撑的超国家治理网络，将跨国教育协作确立为捍卫世界[[Perpetual Peace\|永久和平]]的根本机制。
@@ -153,7 +154,7 @@ updated: 2026-10-08
 > - **多语种教育通报网络**
 >   由示范师资机构主编定期公开发布各国教学法与教育改良实绩，打破民族国家的知识壁垒与信息封锁，促进跨国智力要素的自由流动与全球共享。（p. 22; Fraser, 1964:39）
 
-朱利安的世界主义情怀与和平治理蓝图在其经典论著与通信中留下了清晰的原典印记：
+朱利安的[[Cosmopolitanism|世界主义]]情怀与和平治理蓝图在其经典论著与通信中留下了清晰的原典印记：
 
 > [!citation-card] 准实证科学与比较解剖学类比
 > 正如所有其他科学与艺术一样，教育由事实与观察构成。因此，为这门科学编制排列在分析图表中的事实与观察汇编显得尤为必要，以便对它们进行关联与比较，从中推导出确定原则与规程，从而使教育几乎成为一门实证科学……对比较解剖学的研究推进了人体解剖学；同样，对比较教育的研究必将为完善教育科学提供新的手段。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 12)]]

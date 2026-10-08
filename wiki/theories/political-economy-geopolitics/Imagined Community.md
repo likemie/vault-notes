@@ -9,7 +9,7 @@ aliases:
 summary: "本尼迪克特·安德森提出的民族主义核心理论，主张民族是被想象的有边界和主权的政治共同体。成员虽互不相识却共享同属一体的心理图像；印刷资本主义与统一学校系统提供了物质制度基础；卡普与扎米斯卡进一步将其拓展至认知人类学与科技政治学，论证想象链接克服了邓巴数极限并维系超大规模技术协作，批判后国家思潮对“情感民族”防线的放弃导致公民认同崩解与商业技术公社的替代性兴起。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 28
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -22,12 +22,14 @@ related_concepts:
   - "[[Official Knowledge]]"
   - "[[Constructivist Paradigm]]"
   - "[[Dunbar's Number]]"
+  - "[[Cosmopolitanism]]"
   - "[[Enlightenment]]"
   - "[[Document]]"
   - "[[One Country, Two Systems]]"
   - "[[Technological Republic]]"
   - "[[Everyday Plebiscite]]"
   - "[[Civic Religion]]"
+  - "[[Bilingual Education Policy]]"
   - "[[Innovation Park]]"
   - "[[Grand Theory]]"
   - "[[Research Question]]"
@@ -68,7 +70,7 @@ updated: 2026-10-09
 > - **知识位置** 现代性转型与民族主义理论（Anderson, Gellner, Hobsbawm），跨界延伸至比较教育学（[[Argument_Xu_2024_CE|Xu, 2024]]）与科技地缘政治哲学（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）。
 
 > [!claim] 核心判断
-> 民族是一个被想象的、有边界的和主权的政治共同体。民族之所以是“想象的”，是因为即便最小民族的成员也绝不可能认识大部分同胞，但每个人心中都活着他们共属一体的心理图像。印刷资本主义与统一学校系统奠定了民族想象的物质与制度基础（Anderson, 1983/2006）；在认知人类学与科技政治视域下，这种由语言和共同叙事构筑的“想象链接”是人类克服[[Dunbar's Number|邓巴数]]生理社交上限（约 150 人）、组织数百万陌生人协同推进尖端技术攻坚的战略基石。卡普与扎米斯卡进一步指出，当代知识阶层误将建构性当作解构国家的理由，放弃了对“情感民族”边界的守护（如 Sennett, 1994; Nussbaum, 1994）；当国家制造认同的公民仪式被系统拆解时，社会并未走向普遍世界主义，而是迅速退化为消费主义种姓与硅谷高科技封闭公社。[[Argument_Xu_2024_CE|(Xu, 2024, p. 575)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–198)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 216–218)]]
+> 民族是一个被想象的、有边界的和主权的政治共同体。民族之所以是“想象的”，是因为即便最小民族的成员也绝不可能认识大部分同胞，但每个人心中都活着他们共属一体的心理图像。印刷资本主义与统一学校系统奠定了民族想象的物质与制度基础（Anderson, 1983/2006）；在认知人类学与科技政治视域下，这种由语言和共同叙事构筑的“想象链接”是人类克服[[Dunbar's Number|邓巴数]]生理社交上限（约 150 人）、组织数百万陌生人协同推进尖端技术攻坚的战略基石。卡普与扎米斯卡进一步指出，当代知识阶层误将建构性当作解构国家的理由，放弃了对“情感民族”边界的守护（如 Sennett, 1994; Nussbaum, 1994）；当国家制造认同的公民仪式被系统拆解时，社会并未走向普遍[[Cosmopolitanism|世界主义]]，而是迅速退化为消费主义种姓与硅谷高科技封闭公社。[[Argument_Xu_2024_CE|(Xu, 2024, p. 575)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–198)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 216–218)]]
 
 ---
 
@@ -124,10 +126,10 @@ updated: 2026-10-09
 > [!theory-proposition] 命题三｜语言与共享叙事构筑的想象链接是克服[[Dunbar's Number|邓巴数]]约束、维系超大规模人类技术协作的必要前提
 > **解释** 人类大脑新皮质容量决定了稳定面对面社交关系的上限约为 150 人（[[Dunbar's Number|邓巴数]]）。超出该规模的大规模协作无法依赖物理接触与日常梳毛维系，必须依托语言与共享神话构建跨越时空的“想象链接”（Imagined Linkages）。正是这种超越个人私利的集体认同，使现代社会能够组织跨区域、跨代际的顶尖人才从事深层科学探索、城市建设与国家防卫工程。放弃这一纽带，现代医学、城市网络与前沿人工智能攻坚都将无从谈起。该命题由 Karp & Zamiska (2025, Ch. 17) 确立。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–194)]]
 >
-> **应用实例** 新加坡在独立之初面临 12 种方言与多族裔割裂，[[Lee Kuan Yew|李光耀]]政府依据《[[Goh Report|吴庆瑞报告]]》推行[[Speak Mandarin Campaign|讲华语运动]]与双语政策，以共享语言与国家叙事整合多元族群，最终创造了高科技产业与跨越式经济繁荣。
+> **应用实例** 新加坡在独立之初面临 12 种方言与多族裔割裂，[[Lee Kuan Yew|李光耀]]政府依据《[[Goh Report|吴庆瑞报告]]》推行[[Speak Mandarin Campaign|讲华语运动]]与[[Bilingual Education Policy|双语政策]]，以共享语言与国家叙事整合多元族群，最终创造了高科技产业与跨越式经济繁荣。
 
 > [!theory-proposition] 命题四｜放弃巡守“情感民族”边界导致认同真空与商业技术公社的替代性崛起
-> **解释** 后现代与西方左翼学者（如 Sennett, 1994; Nussbaum, 1994）因恐惧排他性而拒绝巡守安德森所谓的“情感民族”（Emotional Nation）边界，试图走向去国家化的世界主义。然而卡普与扎米斯卡指出，人类寻找超越个体的归属是生物学与心理学刚需；当国家放弃提供崇高意义与公共神话时，空缺立刻被商品消费文化、财富种姓与体育部落（图13）填补。硅谷科技巨头抓住这一真空，将园区打造成自足的“现代艺术公社”或“技术城邦”，以全员股权和封闭福利提供替代性的集体体验。维系国家共同体必须重振勒南的[[Everyday Plebiscite|每日公民投票]]与国家公共叙事。该命题由 Karp & Zamiska (2025, Ch. 17 & Ch. 18) 提出。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191–198)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(pp. 216–218)]]
+> **解释** 后现代与西方左翼学者（如 Sennett, 1994; Nussbaum, 1994）因恐惧排他性而拒绝巡守安德森所谓的“情感民族”（Emotional Nation）边界，试图走向去国家化的[[Cosmopolitanism|世界主义]]。然而卡普与扎米斯卡指出，人类寻找超越个体的归属是生物学与心理学刚需；当国家放弃提供崇高意义与公共神话时，空缺立刻被商品消费文化、财富种姓与体育部落（图13）填补。硅谷科技巨头抓住这一真空，将园区打造成自足的“现代艺术公社”或“技术城邦”，以全员股权和封闭福利提供替代性的集体体验。维系国家共同体必须重振勒南的[[Everyday Plebiscite|每日公民投票]]与国家公共叙事。该命题由 Karp & Zamiska (2025, Ch. 17 & Ch. 18) 提出。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191–198)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(pp. 216–218)]]
 >
 > **应用实例** 硅谷[[Innovation Park|科技园区]]为工程师提供从餐饮、住宿到娱乐的全方位供给，员工在此获得强烈的使命归属与股权回报，成为独立于国家[[Grand Theory|宏大叙事]]之外的高科技自治城邦。
 
@@ -173,7 +175,7 @@ updated: 2026-10-09
 > > - **建构主义现代论（Anderson / Gellner）** 强调民族是印刷资本主义与现代学校机器在近代被想象出来的有限政治实体。
 > > - **族群象征主义（Anthony D. Smith）** 批评现代主义切断历史纵深，强调现代民族必须依附于前现代族群（ethnie）的神话与象征资源。
 >
-> > [!axis] 情感民族与爱国凝聚 vs 去国家化世界主义
+> > [!axis] 情感民族与爱国凝聚 vs 去国家化[[Cosmopolitanism|世界主义]]
 > > 争论民主社会应当积极巡守“情感民族”边界以维系公民凝聚力，还是应当放弃爱国大叙事转向去中心化的世界主义。
 > >
 > > - **情感民族与共和维系派（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]; Renan, 1882; McNeill, 1986）** 强调共享国家文化是维系超大规模技术协作与防卫[[Hard Power|硬实力]]的不可替代基石；放弃国家叙事只会导致社会被商业消费主义撕裂。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191–198)]]

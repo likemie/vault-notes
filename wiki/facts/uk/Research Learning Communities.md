@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-09-22
+updated: 2026-10-09
 ---
 
 # Research Learning Communities
@@ -166,8 +166,8 @@ updated: 2026-09-22
 > >
 > > - **原始[[Document\|文献]]坚守者** 担忧过度转译会导致方法学严谨性与情境细节的[[Attrition\|流失]]。
 > > - **实用中介转译者** 强调低门槛、情境适切的转译工具包是破除[[Knowledge Mobilisation\|知识动员]]阻滞的关键。
-> >
-> > > [!axis] 教师研讨热情 vs 学生终端学业增益的解耦
+>
+> > [!axis] 教师研讨热情 vs 学生终端学业增益的解耦
 > > 该项目的终期评估结果在循证学界引发了广泛反思。
 > >
 > > - **戈拉德等（[[Argument_Gorard_2020_ROE\|Gorard et al., 2020]]）** 指出 RLC 构成了弱人际中介模式的典型案例：通过工作坊激发教师兴趣和教研讨论相对容易，但这种浅层人际互动极易在级联传递中发生实施衰减，无法克服微观课堂教学行为的固有惯性。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 592–593)]]

@@ -9,7 +9,7 @@ summary: "英美著名哲学家与文化批评家，纽约大学教授，世界�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 5
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ tags:
   - theme/identity
   - theme/western-civilization
 related_concepts:
+  - "[[Cosmopolitanism]]"
   - "[[Avatar]]"
   - "[[Emergence]]"
   - "[[Grand Theory]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Kwame Anthony Appiah
@@ -48,7 +49,7 @@ updated: 2026-10-08
 
 > [!person-profile] 人物档案
 > - **身份位置** 英美著名哲学家、文化批评家，纽约大学哲学系与法学院讲席教授，曾任普林斯顿大学哲学系教授、美国哲学会主席。
-> - **核心角色** 世界主义（Cosmopolitanism）伦理学的倡导者，系统批判本质主义的“西方文明”大叙事与固定文[[Avatar|化身]]份观念。
+> - **核心角色** [[Cosmopolitanism|世界主义]]（Cosmopolitanism）伦理学的倡导者，系统批判本质主义的“西方文明”大叙事与固定文[[Avatar|化身]]份观念。
 > - **代表贡献** 提出立足于跨文化对话与个体自由的根植型世界主义，著有《在我父亲的房子里》（1992）、《世界主义》（2006）、《身份之谜》（2018）等著作。
 
 > [!citation-card] 夸梅·安东尼·阿皮亚论西方文明大叙事的虚构性
@@ -73,7 +74,7 @@ updated: 2026-10-08
 
 > [!work-line] 代表著作与学术观点
 > - **1992 — *In My Father's House: Africa in the Philosophy of Culture*** 批判本质主义的种族主义与泛非民族主义神话，倡导多元开放的文[[Avatar|化身]]份。
-> - **2006 — *Cosmopolitanism: Ethics in a World of Strangers*** 提出兼顾普遍人权关怀与地方文化特殊性的世界主义伦理框架。
+> - **2006 — *[[Cosmopolitanism]]: Ethics in a World of Strangers*** 提出兼顾普遍人权关怀与地方文化特殊性的世界主义伦理框架。
 > - **2016 — *There Is No Such Thing as Western Civilisation*** 指出“西方文明”概念是在19世纪末帝国主义扩张与殖民统治语境中被建构出来的意识形态产物，其内在连贯性高度可疑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85, 89)]]
 > - **2018 — *The Lies That Bind: Rethinking Identity*** 深入解构宗教、国家、阶级、色种与文化等五重本质主义身份神话。
 

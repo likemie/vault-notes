@@ -8,7 +8,7 @@ summary: "美国社会学家，斯坦福学派新制度主义与世界社会理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 41
+person_related_count: 42
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Research Universities]]"
   - "[[Knowledge Production]]"
+  - "[[Cosmopolitanism]]"
   - "[[Epistemology]]"
   - "[[Attrition]]"
 related_theories:
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-11
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # John W. Meyer
@@ -209,7 +210,7 @@ updated: 2026-10-08
 > > - **迈耶等（1992, 1997）** 预测全球各国的课程分类、数理课时分配与学校标准在世界文化模型的压力下必然日益趋同。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106, 108)]]
 > > - **安德森-莱维特与德梅拉斯等（1999, 2003）** 实证表明，跨国标准在地方遭遇显著重构与抗拒：几内亚与法美教师因本土历史传统发展出迥异的教学实践，巴布亚新几内亚佩雷村乡村青年集体反抗现代文凭竞争，证实微观行动者始终具有能动的抵抗与协商能力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–109)]]
 >
-> > [!axis] 启蒙普世主义与去殖民[[Epistemology|认识论]]批判
+> > [!axis] 启蒙[[Cosmopolitanism|普世主义]]与去殖民[[Epistemology|认识论]]批判
 > > 围绕世界文化的核心价值预设，后殖民与去殖民批判学者对迈耶理论的普世理性前提提出了深刻质询。
 > >
 > > - **迈耶等（1997）** 将人权、科学客观性与法治民主视为超越地理疆界的普世现代性价值。

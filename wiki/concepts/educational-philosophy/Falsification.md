@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Falsification
@@ -255,14 +255,14 @@ updated: 2026-10-08
 > >
 > > - **波普尔朴素证伪主义** 坚持严谨经验反驳在逻辑上能够干净利落地淘汰错误命题。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, Ch. 1)]]
 > > - **[[Duhem-Quine Thesis|迪昂-蒯因论题]] / 拉卡托斯** 指出孤立假说从来无法单独受试，经验检验涉及核心假说、辅助[[Hypothesis|假设]]、测量工具与边界条件的理论丛，当反常出现时无法纯粹依据逻辑判定是核心理论错误还是辅助假设失效。[[Argument_Zemplen_2007_SciEduc|Zemplén (2007, pp. 183–184)]]
-> >
-> > > [!axis] 假说-演绎情境预测 vs 假说-归纳经验协变
+>
+> > [!axis] 假说-演绎情境预测 vs 假说-归纳经验协变
 > > 争论焦点在于比较教育研究应当通过搜集大样本数据寻找统计共变，还是通过问题情境推演政策假说的预期后果。
 > >
 > > - **美国行为实证学派（Noah & Eckstein, 1969; Anderson, 1977）** 主张将所有质性论断[[Transfer Translation Transformation|转译]]为跨国可测量的统计[[Variable|变量]]，通过经验归纳验证跨国[[Causality|因果关系]]。[[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b, p. 53)]]; [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, p. 65)]]
 > > - **批判理性主义情境学派（Holmes, 1981; [[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）** 指出归纳协变只能在先验假说框架内证实主观偏见，唯有提出可反驳假说并在具体制度与规范情境中推导概率预测（$L + I = P$），方具科学有效性。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 149–151)]]; [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 63, 66–67)]]
-> >
-> > > [!axis] 预测作为科学划界标准 vs 自由意志与社会情境不可预测性
+>
+> > [!axis] 预测作为科学划界标准 vs 自由意志与社会情境不可预测性
 > > 争论焦点在于预测能否以及是否应当作为社会与教育科学的唯一划界标尺。
 > >
 > > - **演绎预测阵营（Holmes, 1981）** 坚持预测是科学区别于非科学的决定性分水岭，主张概率性推测与排错足以指导理性规划。[[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 63, 67)]]

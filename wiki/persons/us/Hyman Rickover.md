@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Hyman Rickover
@@ -96,10 +96,10 @@ updated: 2026-10-08
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **合作者／工程副官** 埃德温·金特纳（Edwin E. Kintner）— 反应堆工程师，协助主导爱达荷陆上原型堆试验。
-> - **支持者／政治盟友** 威廉·普罗克斯迈尔（William Proxmire）— 美国参议员，在小礼品公案中坚定捍卫里科弗战功。
-> - **批评者／行政上级** 约翰·莱曼（John Lehman）— 海军部长，在 1980 年代初主导对里科弗合规审查并定性其跌落神坛。
-> - **主导工程** [[USS Nautilus Submarine Development]] — 领导研制世界首艘核潜艇鹦鹉螺号。
+> - **工程合作者** 埃德温·金特纳（Edwin E. Kintner）— 反应堆工程师，协助主导爱达荷陆上原型堆试验。
+> - **政治盟友／辩护者** 威廉·普罗克斯迈尔（William Proxmire）— 美国参议员，在公案中坚定捍卫里科弗战功。
+> - **批评者／行政上级** 约翰·莱曼（John Lehman）— 海军部长，在 1980 年代初主导对里科弗的合规审查。
+> - **任职机构与主导工程** [[USS Nautilus Submarine Development]] — 领导研制世界首艘核潜艇“鹦鹉螺号”；美国海军核动力局（Naval Reactors）。
 
 ---
 

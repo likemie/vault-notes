@@ -125,7 +125,8 @@ updated: 2026-10-09
 > [!person-network] 关系网络
 > - **主要论敌** [[John Rawls|约翰·罗尔斯]]（John Rawls） — 桑德尔对其《正义论》的道德中立性与先验主体观展开了终身哲学商榷。
 > - **思想对话者** 查尔斯·泰勒（Charles Taylor）与[[Alasdair MacIntyre|阿拉斯代尔·麦金太尔]]（Alasdair MacIntyre） — 共同奠定了当代西方社群主义政治哲学的理论基石。
-> - **分析与引用者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》中深度引述其理论以揭示西方政治[[Discourse|话语]]退化（Ch. 5）及科技精英向消费级轻应用逃避背后的[[Market Triumphalism|市场必胜论]]危机（Ch. 15）。
+> - **当代引述与应用者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中深度引述其对[[Market Triumphalism|市场必胜论]]与公共道德真空的批判。
+> - **长期任职机构** 哈佛大学政府系。
 
 ---
 

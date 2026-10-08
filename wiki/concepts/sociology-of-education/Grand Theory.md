@@ -10,7 +10,7 @@ aliases:
 summary: "统摄学科全貌、历史进程或文明演进的思辨性元叙述体系。在社会学中因脱离经验事实而遭遇中层理论与后现代解构；在技术政治与国家建构中，它既表现为福山历史终结论的胜者谬误，又表现为国家重大工程攻关愿景，以及凝聚多元移民社会、克服邓巴数限制并以千年为尺度的共有历史文明叙事。"
 type: concept
 domain: "sociology-of-education"
-related_count: 59
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -267,14 +267,14 @@ updated: 2026-10-09
 > >
 > > - **先验体系派** 主张宏大理论提供了整合学科知识、拓展[[Creativity|创造性]]想象的宏观认知地图。
 > > - **经验扎根派（Merton, 1949; Glaser & Strauss）** 坚持认为缺乏可[[Falsification|证伪]]接口的宏大理论在科学上是贫瘠的，唯有从中层理论或实地数据[[Emergence|涌现]]的假说才具备解释效力。
-> >
-> > > [!axis] 目的论意识形态迷思 vs 硬核科技工程宏大叙事
+>
+> > [!axis] 目的论意识形态迷思 vs 硬核科技工程宏大叙事
 > > 围绕当代社会是否仍需要宏大叙事展开争论。
 > >
 > > - **解构主义与消费实用派** 倾向解构一切宏大叙事，将科技创新窄化为满足日常便利的商业 App 与微观商业模式迭代。
 > > - **技术战略现实主义派（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska, 2025, pp. 49–50]]）** 主张坚决破除麻痹大国意志的政治[[End of History Thesis|历史终结论]]，但必须坚定重建阿波罗式的国家重大工程宏大叙事，以攻克深科技瓶颈、摆脱[[Big Idea Famine|大构想饥荒]]。
-> >
-> > > [!axis] 文明历史宏大叙事作为[[Civic Religion|公民宗教]] vs 后现代/后殖民对元叙述的祛魅解构
+>
+> > [!axis] 文明历史宏大叙事作为[[Civic Religion|公民宗教]] vs 后现代/后殖民对元叙述的祛魅解构
 > > 围绕西方文明通识正典的宏大叙事是否应当保留展开争论。
 > >
 > > - **公民宗教与历史锚定派（McNeill, 1986; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp & Zamiska, 2025, pp. 83–88]]）** 主张西方文明宏大叙事作为多族裔移民社会的世俗公民宗教，维系了宪政民主的价值认同；全盘抛弃正典将使国家历史沦为断线气球，陷入虚无与[[Technological Agnosticism|技术不可知论]]。

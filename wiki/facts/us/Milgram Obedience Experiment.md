@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Milgram Obedience Experiment
@@ -116,7 +116,7 @@ updated: 2026-10-08
 > >
 > > - **实验科学探索派** 强调若无逼真的同谋欺骗与电击发生器道具，根本无法剥离受试者的道德伪装并揭示人类服从本能的残酷真相。
 > > - **现代伦理规制派** 批评该实验让大量受试者承受长期的自责与创伤，成为推动现代 [[Institutional Review Board|IRB]] 确立严格伦理审查的关键前置教训。
-> >
+>
 > > [!axis] 情境力量压制论 vs 自由意志抗命能动性
 > > 探讨个体的盲从行为究竟是由压倒性的外在权威情境所决定，还是个体道德抉择的自主体现。
 > >

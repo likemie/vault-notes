@@ -109,7 +109,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # EEF Teaching and Learning Toolkit
@@ -217,8 +217,8 @@ updated: 2026-10-08
 > >
 > > - **策略综合立场（EEF / Gough et al., 2022）** 坚持评估反馈、[[Metacognition\|元认知]]等通用策略，避免为单一商业产品背书，确保循证指导的普适性与防范商业利益冲突。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 154–155)]]
 > > - **具名方案立场（[[What Works Clearinghouse\|WWC]] / [[Institute for Effective Education\|IEE]] E4I）** 认为学校面临的实际决策往往是购买哪套具体教材或软件，中介应提供具体品牌的因果审查。[[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, p. 33)]]
-> >
-> > > [!axis] 官僚问责合规凭证 vs 政治道德侧步
+>
+> > [!axis] 官僚问责合规凭证 vs 政治道德侧步
 > > 探讨 Toolkit 在宏观治理中的深层功能。
 > >
 > > - **审计合规凭证（[[Argument_Cowen_2019_ERE\|Cowen, 2019]]）** 工具包的深层功能在于为主管部门和学校董事会的预算审计提供免责证据，使资源配置符合[[New Public Management\|新公共管理]]的合规逻辑。

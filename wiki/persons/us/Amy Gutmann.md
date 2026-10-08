@@ -8,7 +8,7 @@ summary: "美国著名政治哲学家、宾夕法尼亚大学前校长，以《�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 5
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -22,6 +22,7 @@ tags:
   - theme/higher-education
 related_concepts:
   - "[[Democratic Education]]"
+  - "[[Cosmopolitanism]]"
   - "[[Grandes Ecoles]]"
   - "[[Technological Agnosticism]]"
   - "[[The Right and the Good]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Amy Gutmann
@@ -46,7 +47,7 @@ updated: 2026-10-08
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国政治哲学家、教育理论家，普林斯顿大学前教务长、宾夕法尼亚大学前校长（2004–2022）、美国前驻德国大使（2022–2024）。
-> - **核心角色** 当代审议民主理论与[[Democratic Education|民主教育]]哲学的奠基者，代表了战后自由主义学术界将道德合法性建立在普适正义而非民族国家认同之上的世界主义传统。
+> - **核心角色** 当代审议民主理论与[[Democratic Education|民主教育]]哲学的奠基者，代表了战后自由主义学术界将道德合法性建立在普适正义而非民族国家认同之上的[[Cosmopolitanism|世界主义]]传统。
 > - **代表贡献** 出版《民主教育》（*Democratic Education*, 1987），系统构建了以“不压制”（Nonrepression）与“不歧视”（Nondiscrimination）为原则的民主教育理论。
 
 > [!citation-card] 道德效忠指向正义而非特定共同体
@@ -89,7 +90,7 @@ updated: 2026-10-08
 
 > [!debates] 学术争议
 >
-> > [!axis] 世界主义正义观 vs 具身性国家共同体认同
+> > [!axis] [[Cosmopolitanism|世界主义]]正义观 vs 具身性国家共同体认同
 > > 围绕道德效忠应当指向脱嵌的普遍正义还是植根于具体国家的政治方案展开论争。
 > >
 > > - **Gutmann (1994)** 坚持首要道德效忠属于普遍正义而非任何具体民族国家。
@@ -103,5 +104,5 @@ updated: 2026-10-08
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[The Right and the Good]] | 概念 | 其世界主义正义观是现代自由主义正当优先于善的代表性表述。 |
+> | [[The Right and the Good]] | 概念 | 其[[Cosmopolitanism\|世界主义]]正义观是现代自由主义正当优先于善的代表性表述。 |
 > | [[Technological Agnosticism]] | 概念 | 其普适正义效忠论被用作剖析技术精英政治脱嵌的理论参照。 |

@@ -8,7 +8,7 @@ summary: "美国著名教育经济学家、高级外交官与国际教育规划�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Educational Multilateralism]]"
   - "[[Paradigm]]"
   - "[[Policy Brokerage]]"
+  - "[[Cosmopolitanism]]"
   - "[[Discourse]]"
   - "[[Technology Deficit of Education]]"
 related_theories:
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Philip H. Coombs
@@ -62,7 +63,7 @@ updated: 2026-10-07
 > - **代表贡献** 创立[[International Institute for Educational Planning\|国际教育规划研究所]]（International Institute for Educational Planning，IIEP）并任首任所长；组织 1967 年[[1967 Williamsburg Conference on the World Crisis in Education\|威廉斯堡世界教育危机大会]]；出版里程碑著作《世界教育危机：系统分析》（*The World Education Crisis: A Systems Analysis*）。
 
 > [!citation-card] 危机叙事普遍化与冷战地缘博弈中的库姆斯
-> [[OECD\|经合组织]]与[[World Bank\|世界银行]]向[[Policy Brokerage\|政策中介]]演进的轨迹，深植于教育危机在全球蔓延的周期性危机叙事之中。鉴于其普世性的覆盖范围，各国际组织积极响应了这一召唤。……菲利普·H·库姆斯（Philip H. Coombs）身兼由约翰·肯尼迪总统任命的首任主管教育与文化事务的助理国务卿、联合国[[UNESCO\|教科文组织]]国际教育规划研究所首任所长，同时也是极具影响力的《世界教育危机》（Coombs 1968）一书的作者，他比任何人都更具象地人格化了这种危机的普世主义宣称。在冷战分裂的世界中出版，库姆斯的著作在铁幕的另一侧遭到了猛烈抨击。尽管如此，危机情境在 20 世纪 80 年代伴随里根政府《国家处在危险之中》报告的发布获得了又一次重大推力。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
+> [[OECD\|经合组织]]与[[World Bank\|世界银行]]向[[Policy Brokerage\|政策中介]]演进的轨迹，深植于教育危机在全球蔓延的周期性危机叙事之中。鉴于其普世性的覆盖范围，各国际组织积极响应了这一召唤。……菲利普·H·库姆斯（Philip H. Coombs）身兼由约翰·肯尼迪总统任命的首任主管教育与文化事务的助理国务卿、联合国[[UNESCO\|教科文组织]]国际教育规划研究所首任所长，同时也是极具影响力的《世界教育危机》（Coombs 1968）一书的作者，他比任何人都更具象地人格化了这种危机的[[Cosmopolitanism|普世主义]]宣称。在冷战分裂的世界中出版，库姆斯的著作在铁幕的另一侧遭到了猛烈抨击。尽管如此，危机情境在 20 世纪 80 年代伴随里根政府《国家处在危险之中》报告的发布获得了又一次重大推力。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 >
 > *Philip H. Coombs, the first Assistant Secretary of State for Education and Culture (appointed by President John F. Kennedy), the first Director of the UNESCO International Institute for Educational Planning, and author of the influential book The World Education Crisis (Coombs 1968), personified more than anyone else the universalist claim. Published in a divided world during the Cold War, Coombs' book was harshly criticised on the other side of the Iron Curtain (see Steiner-Khamsi 2006).*
 
@@ -114,7 +115,7 @@ updated: 2026-10-07
 > [!person-network] 关系网络
 > - **机构／运动／项目** [[International Institute for Educational Planning]] — 创始人兼首任所长（1963–1968），开创多边教育规划技术培训。
 > - **机构／运动／项目** 弗吉尼亚威廉斯堡世界教育危机大会（1967） — 会议核心组织者与议题设定者，正式确立全球教育危机叙事。
-> - **批评者／论敌** 冷战时期苏联与东欧社会主义学者 — 批评其普世主义危机论掩盖了资本主义体制矛盾与阶级压迫。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
+> - **批评者／论敌** 冷战时期苏联与东欧社会主义学者 — 批评其[[Cosmopolitanism|普世主义]]危机论掩盖了资本主义体制矛盾与阶级压迫。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 
 ---
 
@@ -152,4 +153,4 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 将库姆斯定位为冷战时期将教育危机赋予“普世主义宣称”的最关键历史人物，揭示其如何通过威廉斯堡大会奠定跨国[[Policy Brokerage\|政策中介]]的政治合法性。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 将库姆斯定位为冷战时期将教育危机赋予“[[Cosmopolitanism|普世主义]]宣称”的最关键历史人物，揭示其如何通过威廉斯堡大会奠定跨国[[Policy Brokerage\|政策中介]]的政治合法性。

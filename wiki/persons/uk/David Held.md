@@ -8,7 +8,7 @@ summary: "英国著名政治学家、全球化理论与民主转型奠基学者�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -22,6 +22,7 @@ tags:
   - democracy
   - region/uk
 related_concepts:
+  - "[[Cosmopolitanism]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Emergence]]"
   - "[[Paradigm]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # David Held
@@ -61,7 +62,7 @@ updated: 2026-10-07
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国著名政治学家、当代民主理论与全球化研究泰斗；曾任伦敦政治经济学院（LSE）格雷厄姆·沃拉斯政治学讲席教授、杜伦大学政府与国际事务学院院长兼大师讲席教授；著名学术出版机构政体出版社（Polity Press）联合创始人。
-> - **核心角色** 当代全球化研究中“变革论”（Transformationalism）学派的领头学者与世界主义民主（Cosmopolitan Democracy）模式的开创者；其关于全球化多维联结与民族国家主权渗透的经典界定，为批判比较教育学分析全球资本流动如何穿透国家边界、重塑教育治理与[[Disciplina and Doctrina|规训]]制度提供了奠基性[[Analytic Framework|分析框架]]。
+> - **核心角色** 当代全球化研究中“变革论”（Transformationalism）学派的领头学者与[[Cosmopolitanism|世界主义]]民主（Cosmopolitan Democracy）模式的开创者；其关于全球化多维联结与民族国家主权渗透的经典界定，为批判比较教育学分析全球资本流动如何穿透国家边界、重塑教育治理与[[Disciplina and Doctrina|规训]]制度提供了奠基性[[Analytic Framework|分析框架]]。
 > - **代表贡献** 提出全球化五重核心机制维度模型（1991）；出版《政治理论与现代国家》（1989）、《民主的模式》（1987/2006）、《全球大变革：全球化时代的政治、经济与文化》（与麦克格鲁等合著，1999）。
 
 > [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论赫尔德对全球化及其多维机制的界定
@@ -97,7 +98,7 @@ updated: 2026-10-07
 >   - **代表著作** *Political Theory Today*（1991）；*Global Transformations: Politics, Economics and Culture*（1999）。
 >   - **关键概念／方法** 全球化强度、跨国决策网络、准超国家机构。
 >   - **阶段转向** 从孤立的民族国家政治制度研究，全面转向透视跨国网络对国家政策制定主权的穿透效应。
-> - **2000 年代 — 世界主义民主与全球治理重构** 探索应对跨国市场失控与全球不平等的制度救济方案。
+> - **2000 年代 — [[Cosmopolitanism|世界主义]]民主与全球治理重构** 探索应对跨国市场失控与全球不平等的制度救济方案。
 >   - **代表著作** *Global Covenant: The Social Democratic Alternative to the Washington Consensus*（2004）。
 >   - **关键概念／方法** 世界主义民主、[[Global Citizenship|全球公民]]权、反华盛顿共识。
 >   - **阶段转向** 倡导超越新自由主义治理，建立受民主监督的全球性社会契约。

@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Asch Conformity Experiment
@@ -111,7 +111,7 @@ updated: 2026-10-08
 > >
 > > - **科学实效派** 强调若无 7 名同谋的逼真误导，受试者必将出于社会赞许性掩饰内心，实验欺骗是剥离世俗伪装的唯一途径。
 > > - **现代伦理规制派** 批评该设计使受试者陷入极度窘迫与自我怀疑，成为推动现代 [[Institutional Review Board|IRB]] 确立严格伦理审查的关键前置教训。
-> >
+>
 > > [!axis] 部落从众适应性 vs 现代科技颠覆性
 > > 探讨从众本能的历史演化价值与现代知识创新要求的深层冲突。
 > >

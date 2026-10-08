@@ -15,7 +15,7 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Geisteswissenschaften]]"
   - "[[Paradigm]]"
+  - "[[Cosmopolitanism]]"
   - "[[Educational Meliorism]]"
   - "[[Leading Questions]]"
   - "[[Growth]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-29
+updated: 2026-10-09
 ---
 
 # Esquisse d'un ouvrage sur l'éducation comparée
@@ -135,7 +136,7 @@ updated: 2026-09-29
 > [!pathways]- 实施路径与历史受挫
 > - **瑞士 22 州作为首期试点的构想** [[Marc-Antoine Jullien\|朱利安]]最初试图将[[Questionnaire\|问卷]]运用于瑞士 22 个州，旨在通过跨州教育比较促进各州取长补短，进而“培养一种泛瑞士的国民精神（national Helvetian mind）”，巩固瑞士的政治统一。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, p. 14]]; Fraser, 1964:45–46）
 > - **私人学者的财力与行政瓶颈** 问卷庞大繁复，包含近三百个细分问题；在没有现代常设国际组织或本国政府资助的条件下，仅凭个人通信网络根本无法组织起跨国标准化数据的填报与回收。（pp. 15, 21）
-> - **向国家行政调查的[[Paradigm\|范式]]让位** 1830 年代后，比较教育的主导权迅速转移到由中央政府全权资助并带有明确立法授权的官方使节手中（如[[Victor Cousin\|库森]]的《普鲁士公共教育现状报告》），朱利安的纯学术与世界主义调查路径被更为务实的“国家利益[[Educational Meliorism\|改良主义]]”所取代。（pp. 25–26）
+> - **向国家行政调查的[[Paradigm\|范式]]让位** 1830 年代后，比较教育的主导权迅速转移到由中央政府全权资助并带有明确立法授权的官方使节手中（如[[Victor Cousin\|库森]]的《普鲁士公共教育现状报告》），朱利安的纯学术与[[Cosmopolitanism|世界主义]]调查路径被更为务实的“国家利益[[Educational Meliorism\|改良主义]]”所取代。（pp. 25–26）
 
 ---
 
@@ -155,7 +156,7 @@ updated: 2026-09-29
 > > 欧洲大陆人文主义与思想史学者强调不能用 20 世纪美国行为主义量化实证观来机械裁剪朱利安的 19 世纪文本。
 > >
 > > - **R. R. Palmer (1993)** 考证指出，朱利安在其 1819 年《人类知识分类总表》中明确将教育学列入涉及心灵与道德经验的“二级精神科学（second order sciences）”；其所谓的“科学”指称一切崇高的人类理性反思，绝非狭隘的统计指标计算。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 17–18]]; Palmer, 1993:176–178）
-> > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]]** 论证朱利安追求的是一种“复调的人道世界（polyphonic human world）”，其核心驱动力是启蒙世界主义、儿童自然权利与欧洲和平秩序维系，是具有深厚人文关怀的现代性起点。（pp. 18–20）
+> > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]]** 论证朱利安追求的是一种“复调的人道世界（polyphonic human world）”，其核心驱动力是启蒙[[Cosmopolitanism|世界主义]]、儿童自然权利与欧洲和平秩序维系，是具有深厚人文关怀的现代性起点。（pp. 18–20）
 
 > [!citation-card]- 代表性学术评论：诺亚与埃克斯坦 vs 卡洛扬纳基与卡扎米亚斯
 > 诺亚与埃克斯坦认为朱利安最终关切的是传播教育革新知识：深受[[Jean-Jacques Rousseau\|卢梭]]与裴斯泰洛齐思想影响，他期望促进一种实用的、以儿童为中心的教学法，强调感官教育与融入社会生活的预备，一切均带有鲜明的人道主义色彩。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 18)]]

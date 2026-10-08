@@ -11,7 +11,7 @@ aliases:
 summary: "驱动国家科技战略、大学治理变革与劳动力技能重塑的核心逻辑与地缘政治装置。在宏观上体现为长程战略计算、先进制造与地缘威慑；在中观上体现为产学中心破除学科壁垒与排名审计重塑大学；在微观上体现为产线组织学习与学习分析；卡普与扎米斯卡进一步论证，国家千年期战略决断、创始人长期主义与全员股权所有权模式，构成了抵御短期金融化与维系持久科技竞争力的决定性底座。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 62
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -64,6 +64,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[Lee Kuan Yew]]"
+  - "[[Henry Kissinger]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
 related_facts:
@@ -205,7 +206,7 @@ updated: 2026-10-09
 > [!claim] Karp & Zamiska (2025, Ch. 17); World Bank (2023); Kissinger (2000)
 > **国家长期主义决断与人力资本塑造创造全球竞争力奇迹** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》第十七章中指出，国家竞争力的核心源于超越代际甚至面向“千年期”的战略计算与决断能力：
 > 1. **[[Lee Kuan Yew|李光耀]]的长程战略决断** 1965 年新加坡建国初期在毫无自然资源与人口优势的极端困境下，[[Lee Kuan Yew|李光耀]]确立了以数百年乃至千年为尺度的战略规划，果断介入语言政策（《[[Goh Report|吴庆瑞报告]]》、推广双语与华语）、基础教育与高阶人力资本投资，将多方言丛林重塑为高产出经济共同体；
-> 2. **陡峭的经济增长实证** 依据[[World Bank|世界银行]]数据，新加坡人均国内生产总值从 1960 年的 428 美元飙升至 2023 年的 84,734 美元，成为二十世纪现代史上最陡峭、最持久的经济竞争力攀升范例；基辛格（Kissinger, 2000）评价其证明了个体卓越领导力与国家意志能够彻底重塑历史进程；
+> 2. **陡峭的经济增长实证** 依据[[World Bank|世界银行]]数据，新加坡人均国内生产总值从 1960 年的 428 美元飙升至 2023 年的 84,734 美元，成为二十世纪现代史上最陡峭、最持久的经济竞争力攀升范例；[[Henry Kissinger|基辛格]]（Kissinger, 2000）评价其证明了个体卓越领导力与国家意志能够彻底重塑历史进程；
 > 3. **国家认同消解的地缘威慑代价** 卡普与扎米斯卡进一步指出，战后德国对国家认同与集体防卫意志的过度压制，直接削弱了欧洲大陆对外部地缘侵略的可靠威慑力；国家竞争力不可抽离于保卫共同体的战略意志。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–197, 204)]]
 
 ---

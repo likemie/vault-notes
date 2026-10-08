@@ -9,7 +9,7 @@ summary: "德国与以色列比较教育学家、课程改革理论家，曾任�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Paradigm]]"
   - "[[Bildung]]"
+  - "[[Post-Nationalism]]"
   - "[[Academic Freedom]]"
   - "[[Determinism]]"
   - "[[Variable]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Saul B. Robinsohn
@@ -82,7 +83,7 @@ updated: 2026-10-08
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展阶段
-> - **1950年代末–1960年代初 — 国际多边对话与比较学科组织奠基** 依托[[UNESCO|联合国教科文组织]]，致力于消除战后民族主义隔阂，推动比较教育跨国建制化。
+> - **1950年代末–1960年代初 — 国际多边对话与比较学科组织奠基** 依托[[UNESCO|联合国教科文组织]]，致力于消除战[[Post-Nationalism|后民族主义]]隔阂，推动比较教育跨国建制化。
 >   - **代表成果** 联合发起成立[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE, 1961）。
 >   - **关键思想** 国际理性主义、多边学术网络、跨国[[Academic Freedom|学术自由]]。
 > - **1960年代中期 — 课程理论批判与生活情境导向革命** 针对西德战后近二十年保守的“不搞实验”（keine Experimente）停滞状态，提出系统性课程重构理论。

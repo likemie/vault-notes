@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Institutional Review Board
@@ -202,13 +202,13 @@ updated: 2026-10-08
 > >
 > > - **IRB 规制派立场** 强调保护受试者免受任何潜在心理与生理伤害是科研的第一要义，必须实行零容忍的前置审批。
 > > - **批判学者立场** 如哈默斯利（Hammersley, 2009）与卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）指出过度审慎的合规文化将迫使学者自我审查，导致社会科学退化为研究琐碎无害问题的避险游戏。
-> >
+>
 > > [!axis] 普适程序审查 vs 田野[[Situated Ethics|情境伦理]]自律
 > > 探讨静态成文的纸面审批与复杂多变的田野情境伦理之间的矛盾。
 > >
 > > - **传统伦理委员会立场** 坚持统一的成文规范、标准化[[Informed Consent|知情同意书]]是维护公正与法律透明的基石。
 > > - **情境伦理学派立场** 西蒙斯与厄舍（Simons & Usher, 2000）以及豪与摩西（Howe & Moses, 1999）认为伦理委员会缺乏具体情境专业知识，应转型为咨询与对话论坛，将道德决断权归还给一线研究者。
-> >
+>
 > > [!axis] 本地多重审查瓶颈 vs 单一中心 IRB 运营效率
 > > 探讨在现代多中心[[Clinical Trial|临床试验]]中如何破解多重本地 IRB 重复审查导致的严重时间与经济损耗。
 > >

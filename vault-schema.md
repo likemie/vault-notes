@@ -309,7 +309,7 @@ cd /Users/shaoyangwu/Documents/MyNotes
 .venv/bin/python3 scripts/vault_lint.py --full --strict
 ```
 
-机械格式错误（加粗小标题冒号、英文注释在粗体外、英文双作者 and、summary 引号）可自动修复：
+机械格式错误（加粗小标题冒号、英文注释在粗体外、英文双作者 and、summary 引号、`[!axis]` 层级及同级分隔）可自动修复：
 
 ```bash
 .venv/bin/python3 scripts/vault_lint.py --fix          # 增量

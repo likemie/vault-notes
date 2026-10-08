@@ -15,7 +15,7 @@ aliases:
 summary: "跨越政治学、文化哲学与比较教育学的核心理论。在政治与学科层面主张权力分散博弈与健康多范式共存；在比较教育中主张文化多元以抗衡普遍主义规训。卡普与扎米斯卡结合麦金太尔与李光耀实践，进一步批判多元主义滑向文化相对主义、空洞程序中立与“包容一切即支持虚无”的淹没性陷阱，论证多元社会必须依托共同语言、实质美德与道德共同体维系长程凝聚力。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 55
+theory_related_count: 53
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -47,9 +47,11 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Grandes Ecoles]]"
   - "[[Scientific Paradigm]]"
+  - "[[Bilingual Education Policy]]"
   - "[[Research Question]]"
   - "[[Policy Borrowing]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
+  - "[[Cosmopolitanism]]"
 related_theories:
   - "[[Critical Pluralism]]"
   - "[[Critical Theory]]"
@@ -170,7 +172,7 @@ updated: 2026-10-09
 > [!theory-proposition] 命题五｜多元主义滑向文化相对主义与“淹没性虚无”的危机：呼唤实质道德共同体
 > **解释** 当多元主义从政治包容扩展至极端文化哲学时，极易退化为以本尼迪克特（Ruth Benedict, 1934）为代表的文化相对主义（“所有生活模式一律同等有效”）以及麦金太尔（Alasdair MacIntyre, 2007）所警示的“威胁淹没我们所有人的多元主义”。罗杰·金博尔（Kimball, 2004）指出，对一切事物宽容的渴望最终会蜕变为对任何价值的无所支持。[[John Rawls|约翰·罗尔斯]]的形式自由主义追求目标中立，但其有限的美德清单抽空了公共生活的丰富性。一味追求程序“正当”而放弃实质“善”，使社会失去了对卓越、正义与美的辨别本能。在多元族群社会中，必须如戈皮纳坦（Gopinathan, 1979）与[[Lee Kuan Yew|李光耀]]所论述的那样，通过共同语言和实质伦理（如儒家[[Junzi|君子]]德行）构建凝聚力，重塑维系道德生活的实质共同体。该命题由 Karp & Zamiska (2025, Ch. 17 & Ch. 18) 系统确立。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–201)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–216)]]
 >
-> **应用实例** 新加坡在建国初期面临十二种华语方言与多元族群丛林化割裂的挑战；[[Lee Kuan Yew|李光耀]]政府拒绝抽象中立的放任多元，果断推行统一的[[Speak Mandarin Campaign|讲华语运动]]与双语政策，确立儒家君子道德准则，在维护族群多元的同时铸造了不可动摇的卓越国家能力。
+> **应用实例** 新加坡在建国初期面临十二种华语方言与多元族群丛林化割裂的挑战；[[Lee Kuan Yew|李光耀]]政府拒绝抽象中立的放任多元，果断推行统一的[[Speak Mandarin Campaign|讲华语运动]]与[[Bilingual Education Policy|双语政策]]，确立儒家君子道德准则，在维护族群多元的同时铸造了不可动摇的卓越国家能力。
 
 ---
 
@@ -219,7 +221,7 @@ updated: 2026-10-09
 > > 争论公共生活与多元社会应当保持[[John Rawls|罗尔斯]]式的严格[[Value Neutrality|价值中立]]与无条件宽容，还是应当捍卫共同语言、崇高美德与实质共同体。
 > >
 > > - **实质共同体与德性派（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]; MacIntyre, 2007; Kimball, 2004; Lee Kuan Yew）** 淹没性多元导致公共生活空洞化与辨别力萎缩，宽容一切终成支持虚无；多元社会必须依托共同语言与实质美德维系存续。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–201)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(pp. 212–216)]]
-> > - **自由主义程序中立派（Rawls, 2005; Benedict, 1934; Sennett, 1994; Nussbaum, 1994）** 主张政治自由主义与世界主义必须在人生目的上保持中立，避免将特定文化或国家认同强加于多元公众。
+> > - **自由主义程序中立派（Rawls, 2005; Benedict, 1934; Sennett, 1994; Nussbaum, 1994）** 主张政治自由主义与[[Cosmopolitanism|世界主义]]必须在人生目的上保持中立，避免将特定文化或国家认同强加于多元公众。
 
 ---
 

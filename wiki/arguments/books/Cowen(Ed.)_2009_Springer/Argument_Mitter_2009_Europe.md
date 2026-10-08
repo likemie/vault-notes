@@ -48,6 +48,7 @@ related_concepts:
   - "[[Educational Meliorism]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Policy Borrowing]]"
+  - "[[Cosmopolitanism]]"
   - "[[Dilution of Comparative Education]]"
   - "[[Rich and Thick Description]]"
   - "[[Discipline-Based Theory]]"
@@ -125,14 +126,14 @@ sources:
 part_of: "[[Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-28
-updated: 2026-10-08
+updated: 2026-10-09
 subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Mitter_2009_Europe"
 argument_key: "Argument_Mitter_2009_Europe"
 argument_display_title: "Comparative Education in Europe"
 argument_kind: "book-chapter"
-argument_related_count: 97
+argument_related_count: 98
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -372,7 +373,7 @@ publisher: "Springer"
 > [!phase] 欧洲比较教育从哲学玄思走向务实欧洲维度
 > - **形而上学哲学玄思阶段（1920s–1950s）**
 >
->   以汉斯（[[Nicholas Hans]]）、施奈德（[[Friedrich Schneider]]）与波兰学者[[Bogdan Suchodolski|博格丹·苏霍多尔斯基]]（Bogdan Suchodolski）为代表，沉浸于欧洲共同精神、天主教普世主义与驱动力的宏大历史文化哲学玄想，奠定了充满理想主义的“欧洲维度”。（pp.88, 93, 98）
+>   以汉斯（[[Nicholas Hans]]）、施奈德（[[Friedrich Schneider]]）与波兰学者[[Bogdan Suchodolski|博格丹·苏霍多尔斯基]]（Bogdan Suchodolski）为代表，沉浸于欧洲共同精神、天主教[[Cosmopolitanism|普世主义]]与驱动力的宏大历史文化哲学玄想，奠定了充满理想主义的“欧洲维度”。（pp.88, 93, 98）
 >
 > - **务实政策与实证分析阶段（1990s 至今）**
 >

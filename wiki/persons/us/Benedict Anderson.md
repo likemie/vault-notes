@@ -8,10 +8,10 @@ summary: "爱尔兰裔美国政治学家与东南亚研究权威，康奈尔大�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 14
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 17
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 person_kind: "scholar"
 born: 1936
 died: 2015
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Technological Republic]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Paradigm Wars]]"
+  - "[[Cosmopolitanism]]"
   - "[[Hard Power]]"
 related_theories:
   - "[[Imagined Community]]"
@@ -39,6 +40,8 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Robin Dunbar]]"
+  - "[[Alexander Karp]]"
+  - "[[Nicholas Zamiska]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
@@ -125,9 +128,11 @@ updated: 2026-10-09
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **学术导师** 乔治·卡辛（George Kahin）— 康奈尔大学东南亚项目奠基人。
-> - **理论对话** [[Robin Dunbar]] — [[Dunbar's Number|邓巴数]]生物学认知上限为安德森想象共同体理论提供了微观神经演化基础。
-> - **核心理论** [[Imagined Community]] — 1983 年系统创立的民族建构理论。
+> - **博士导师** 乔治·卡辛（George Kahin）— 康奈尔大学东南亚研究先驱与现代印度尼西亚政治专家。
+> - **学术对话者** [[Robin Dunbar|罗宾·邓巴]]（Robin Dunbar）— [[Dunbar's Number|邓巴数]]认知上限为安德森民族想象假说提供了演化人类学微观基础。
+> - **学术论辩对手** 安东尼·史密斯（Anthony D. Smith）— 族群象征主义学者，批评其现代建构论割裂了历史族群连续性。
+> - **当代引述与重估者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中引述其“情感国家”论断。
+> - **长期任职机构** 康奈尔大学政府系。
 
 ---
 
@@ -138,7 +143,7 @@ updated: 2026-10-09
 > > [!axis] 现代建构论与族群象征主义的分歧
 > > 安东尼·史密斯（Anthony D. Smith）等族群象征主义学者批评安德森过度强调现代印刷媒介的断裂性建构，忽视了前现代族群（ethnie）神话、符号与血缘记忆对现代民族认同的深层连续性制约。
 >
-> > [!axis] [[Imagined Community|情感民族]]守卫 vs 后国家世界主义解构
+> > [!axis] [[Imagined Community|情感民族]]守卫 vs 后国家[[Cosmopolitanism|世界主义]]解构
 > > 针对后现代学者利用安德森建构论走向彻底消解国家认同的世界主义倾向，卡普与扎米斯卡指出，揭示共同体的想象性质绝非意味着应当抛弃它；放弃“情感民族”边界将摧毁现代高科技社会赖以生存的大规模信任与防卫[[Hard Power|硬实力]]根基。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191–198)]]
 
 ---

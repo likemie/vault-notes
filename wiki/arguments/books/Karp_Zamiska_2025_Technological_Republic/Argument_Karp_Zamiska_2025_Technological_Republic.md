@@ -7,7 +7,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic"
 argument_display_title: "The Technological Republic: Hard Power, Soft Belief, and the Future of the West"
 argument_kind: "book"
-argument_related_count: 212
+argument_related_count: 213
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Engineering Mindset]]"
   - "[[Technological Republic]]"
   - "[[Winner's Fallacy]]"
+  - "[[Cosmopolitanism]]"
   - "[[Hard Power]]"
   - "[[Swarm Intelligence]]"
   - "[[Constructive Disobedience]]"
@@ -275,7 +276,7 @@ updated: '2026-10-09'
 > 为什么在软件与人工智能决定全球地缘均势与国家繁荣的关键时代，西方科技精英却集体撤退至消费级轻应用与反体制的虚无主义，而公共部门又为何沦为排斥前沿技术的“[[Innovation Desert|创新荒漠]]”？国家治理体系应如何打破清教徒式道德纯洁性与僵化官僚合规，将以实战交付为核心的工程[[Organizational Culture|组织文化]]重新确立为立国之本？
 
 > [!monograph-thesis] 全书核心主张
-> - **问题起点** 西方民主政体的繁荣与地缘合法性，自二战与冷战以来便深嵌于国家战略意志与前沿工程创新紧密绑定的“[[Technological Republic|技术共和国]]”传统；然而冷战后的[[Winner's Fallacy|胜者自满]]与 1960 年代以来的文化解构，使科技界陷入世界主义脱嵌与消费主义迷思，导致国家面临严重的[[Hard Power|硬实力]]空洞化（第 1–9 章，pp. 3–111）。
+> - **问题起点** 西方民主政体的繁荣与地缘合法性，自二战与冷战以来便深嵌于国家战略意志与前沿工程创新紧密绑定的“[[Technological Republic|技术共和国]]”传统；然而冷战后的[[Winner's Fallacy|胜者自满]]与 1960 年代以来的文化解构，使科技界陷入[[Cosmopolitanism|世界主义]]脱嵌与消费主义迷思，导致国家面临严重的[[Hard Power|硬实力]]空洞化（第 1–9 章，pp. 3–111）。
 > - **核心解释** 颠覆性技术突破与国家安全攻坚无法依托平庸规避风险的传统科层官僚，而必须依赖具备去中心化[[Swarm Intelligence|群智能]]、即兴协同、[[Constructive Disobedience|建设性不服从]]与“极致狐狸”根因复盘特质的[[Engineering Mindset|工程思维]]；但公共部门内部[[Red Tape|繁文缛节]]与清教徒式道德审判持续压制着开拓型实干领袖（第 10–16 章，pp. 115–189）。
 > - **收束判断** 重建技术共和国要求在制度上打破[[Market Triumphalism|市场必胜论]]与形式主义程序迷信，通过[[Commercial Off-The-Shelf|商用现货]]（COTS）优先、市场基准薪酬激励与[[Founder Culture|创始人文化]]重构权责对称的治理体系，并在精神层面重塑凝聚全民族奋斗意志的国家认同与共同体信念（第 13–18 章，pp. 139–218）。
 

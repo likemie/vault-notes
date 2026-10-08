@@ -7,7 +7,7 @@ summary: "德国天主教教育学家，德语区比较教育学奠基人，曾�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 28
+person_related_count: 29
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Geisteswissenschaften]]"
+  - "[[Cosmopolitanism]]"
   - "[[Paradigm]]"
   - "[[National Character]]"
   - "[[Influences Across Cultures]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Friedrich Schneider
@@ -67,7 +68,7 @@ updated: 2026-10-08
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国天主教教育学家、比较教育学奠基人，先后任教于科隆大学、科隆教育学院、奥地利萨尔茨堡大学与慕尼黑大学，1931 年创办跨国学术期刊《[[International Education|国际教育]]学评论》（*Internationale Zeitschrift für Erziehungswissenschaft*）。
-> - **核心角色** 20 世纪前中期德语区比较教育学的开拓者与[[Geisteswissenschaften|精神科学]]（Geisteswissenschaften）传统代表。米特（[[Wolfgang Mitter]]）将其与英国的[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）并列为 20 世纪 20 年代至 50 年代主导欧洲的“宏大历史文化全景”（grand historical-cultural panorama）流派领袖，开创了基于历史文化哲学、天主教普世主义与驱动力因素探寻的经典比较[[Paradigm|范式]]。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 93–94)]]
+> - **核心角色** 20 世纪前中期德语区比较教育学的开拓者与[[Geisteswissenschaften|精神科学]]（Geisteswissenschaften）传统代表。米特（[[Wolfgang Mitter]]）将其与英国的[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）并列为 20 世纪 20 年代至 50 年代主导欧洲的“宏大历史文化全景”（grand historical-cultural panorama）流派领袖，开创了基于历史文化哲学、天主教[[Cosmopolitanism|普世主义]]与驱动力因素探寻的经典比较[[Paradigm|范式]]。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 93–94)]]
 > - **代表贡献** 创立[[Theories of the Driving Forces|教育驱动力理论]]（德文：Triebkräfte）体系；创办跨国学术期刊《国际教育学评论》；撰写德语界首部系统性比较教育学专著《比较教育科学：历史、研究与教学》（1961）。
 
 > [!citation-card] 人物定位的关键来源
@@ -177,7 +178,7 @@ updated: 2026-10-08
 > > - **战后实证主义学者（1960s）** 批评驱动力[[Paradigm|范式]]带有过多的思辨哲学与形而上学色彩，缺乏可量化操作与经验检验的因果模型，难以直接服务于现代国家急迫的教育政策规划。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–94)]]
 
 > [!warning] 未解问题与适用边界
-> 施奈德的理论框架深受传统罗马天主教普世主义与欧洲共同精神遗产信念的深刻熏陶。这种对“欧洲统一性”的执着探寻，虽然极具人文关怀，但在面对战后第三世界非西方民族国家的去殖民化阵痛、剧烈的社会阶级斗争以及日益多元分化的现代世俗社会时，其普世解释效力面临情境适应性与包容性的理论挑战。
+> 施奈德的理论框架深受传统罗马天主教[[Cosmopolitanism|普世主义]]与欧洲共同精神遗产信念的深刻熏陶。这种对“欧洲统一性”的执着探寻，虽然极具人文关怀，但在面对战后第三世界非西方民族国家的去殖民化阵痛、剧烈的社会阶级斗争以及日益多元分化的现代世俗社会时，其普世解释效力面临情境适应性与包容性的理论挑战。
 
 ---
 

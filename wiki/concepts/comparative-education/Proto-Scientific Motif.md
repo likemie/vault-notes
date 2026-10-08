@@ -9,7 +9,7 @@ aliases:
 summary: "源自朱利安《比较教育工作计划》的学科发端母题，主张将教育比拟于比较解剖学等自然科学，运用标准化问卷与比较观察表归纳普遍法则，并将经验事实探究深嵌于全人体智德启蒙与欧洲永久和平的人道世界主义关怀"
 type: concept
 domain: "comparative-education"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Leading Questions]]"
   - "[[Enlightenment]]"
+  - "[[Cosmopolitanism]]"
   - "[[Discourse]]"
   - "[[Policy Borrowing]]"
   - "[[Document]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Proto-Scientific Motif
@@ -189,7 +190,7 @@ updated: 2026-10-07
 > - **1817 — [[Marc-Antoine Jullien\|朱利安]]确立准科学母题** 发表《比较教育工作计划》，首次将比较解剖学类比与标准化比较观察图表引入教育探究，确立准科学与世界和平双重视角。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 12–14)]]
 > - **19世纪中叶 — 准科学母题的历史湮没与行政借用分流** 朱利安的超国家设想因时代局限被各国遗忘，19 世纪中叶比较教育转向以[[Victor Cousin\|库森]]、[[Horace Mann\|曼]]、巴纳德为代表的以主权国家立法合法化为重心的“行政[[Educational Meliorism\|改良主义]]母题”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 24–25, 33–34)]]
 > - **1940s–1960s — 文本再发现与[[Positivism\|实证主义]]重新解读** 罗塞洛（Pedro Rosselló）与弗雷泽（Stewart Fraser）重新发掘朱利安手稿，推尊其为“比较教育之父”；诺亚与埃克斯坦等学者从逻辑实证主义视角重新评估其[[Questionnaire\|问卷]]与[[Scientific Method\|科学方法]]论。
-> - **21世纪至今 — 历史学史重估与批判人文主义复兴** 卡扎米亚斯、卡洛扬纳基与克勒里德斯等学者重新肯定准科学母题中被实证派所剥离的世界主义、[[Perpetual Peace\|永久和平]]与全人[[Bildung\|教化]]伦理，将其确立为抵御新自由主义[[Performance Indicators\|绩效指标]]主义的宝贵思想源泉。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 17–18)]]
+> - **21世纪至今 — 历史学史重估与批判人文主义复兴** 卡扎米亚斯、卡洛扬纳基与克勒里德斯等学者重新肯定准科学母题中被实证派所剥离的[[Cosmopolitanism|世界主义]]、[[Perpetual Peace\|永久和平]]与全人[[Bildung\|教化]]伦理，将其确立为抵御新自由主义[[Performance Indicators\|绩效指标]]主义的宝贵思想源泉。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 17–18)]]
 
 ---
 
@@ -220,7 +221,7 @@ updated: 2026-10-07
 > | [[Revue encyclopédique]] | 历史事件 | 朱利安创办的百科期刊，践行科学统一与准科学母题的传播平台。 |
 > | [[Enlightenment]] | 概念 | 构成准科学母题的思想母体与世界观地基，赋予跨国经验探究以理性与和平使命。 |
 > | [[Educational Meliorism]] | 概念 | 准科学母题的孪生维度，赋予跨国事实调查以改造现实的伦理动力。 |
-> | [[Perpetual Peace]] | 概念 | 准科学母题所服务的终极世界主义政治与伦理目标。 |
+> | [[Perpetual Peace]] | 概念 | 准科学母题所服务的终极[[Cosmopolitanism\|世界主义]]政治与伦理目标。 |
 > | [[Positivism]] | 概念 | 构成准科学母题中“几乎成为一门实证科学”的早期哲学思想资源。 |
 > | [[Questionnaire]] | 方法 | 准科学母题的核心经验调查技术工具。 |
 > | [[Auslandspadagogik]] | 概念 | 19 世纪中叶承接并分流准科学母题的外国教育学文献传统。 |

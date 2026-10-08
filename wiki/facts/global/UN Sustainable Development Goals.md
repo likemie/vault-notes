@@ -14,7 +14,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 56
+fact_related_count: 57
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Policy Mobility]]"
   - "[[Policy Brokerage]]"
   - "[[Performance Indicators]]"
+  - "[[Cosmopolitanism]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Picking the Willing]]"
   - "[[Global Education Governing Complex]]"
@@ -92,7 +93,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-11
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 # UN Sustainable Development Goals
@@ -207,7 +208,7 @@ updated: 2026-10-05
 > > - **批判政治经济学派** 批判学者指出，国际协定建立的所谓“国际基准”，实质上是西方金融机构主导的针对全球南方的量化规制，严重侵蚀了发展中国家的主权与本土政策自主空间。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > > - **多边建制派倡导者** 坚持认为全球统一基准为揭示被掩盖的不平等提供了唯一透明的问责利器。
 >
-> > [!axis] 大学知识的世界主义承诺 vs. 主权国家地缘政治“再领土化”
+> > [!axis] 大学知识的[[Cosmopolitanism|世界主义]]承诺 vs. 主权国家地缘政治“再领土化”
 > > 质询大学在追求全球治理影响力的同时如何面对民族国家的战略钳制。
 > >
 > > - **世界社会与地缘政治学者** 学界识别出一个根本悖论：大学在价值追求上越是拥抱世界主义与 SDGs 全球影响，民族国家政策制定者越是急切地将大学“再领土化”为保障国家经济引擎、科技主权与地缘战略声望的竞争性工具。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 155–157)]]

@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-18
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Deception in Research
@@ -203,7 +203,7 @@ updated: 2026-10-08
 > >
 > > - **方法学[[Pragmatic Paradigm|实用主义]]派** 强调如果没有欺骗，许多关键的人类社会心理机制（如权威服从、从众盲从）将无法被科学测量，只要事后充分安抚，适度欺骗具有正当性。
 > > - **[[Absolutist and Relativist Ethics|绝对主义伦理]]学派** 坚持认为对人说谎在道德上具有内在原罪，任何违背知情同意的研究都是对人性的贬损，绝不能以科学成果为手段牺牲人的主体尊严。
-> >
+>
 > > [!axis] 事后说明（Debriefing）的实际治愈效力争议
 > > 探讨实验后的解释与沟通能否真正完全消除受试者内心的受骗感与自尊损伤。
 > >

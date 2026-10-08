@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Microelectronics and Computer Technology Corporation
@@ -133,8 +133,8 @@ updated: 2026-10-07
 > >
 > > - **[[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]]** 指出纯私营联盟在经济衰退与行业低谷时极易因成员削减预算或退会而陷入危机；缺少政府的“公信力锚定”与匹配资金，企业往往只愿派驻二线员工并保留核心关键技术，导致[[Technology Transfer|技术转移]]机制瘫痪。
 > > - **自由市场派学者** 主张私营研发联盟完全由市场利益驱动，能自主淘汰不具商业价值的研究方向，避免政府干预带来的政治寻租。
-> >
-> > > [!axis] 研发定位异化：长周期共性突破 vs 短期合同碎片化
+>
+> > [!axis] 研发定位异化：长周期共性突破 vs 短期合同碎片化
 > > 联盟随着会员[[Heterogeneity|异质性]]增加，研究方向不可避免走向短期化。
 > >
 > > - **批评视角** 随着副会员大量涌入，MCC 从最初攻关人工智能与基础 CAD 架构的宏大目标退化为替个别企业定制解决方案的“合同外包公司”，丧失了国家战略[[Competitiveness|竞争力]]功能。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 728, 752)]]

@@ -9,9 +9,9 @@ subtype: program
 region: "singapore"
 fact_region: "singapore"
 fact_kind: "program"
-fact_related_count: 10
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: ""
 fact_related_color: "#ede9fe"
 period: "1979–至今"
 initiator_organization: "Singapore Government / National Translation Committee"

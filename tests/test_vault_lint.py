@@ -134,5 +134,104 @@ class RelatedResearchEntryLengthTests(unittest.TestCase):
 
         self.assertEqual("Author (2025) — 结论。", visible)
 
+
+class AxisCalloutTests(unittest.TestCase):
+    def lint(self, body: str) -> list[lint.Issue]:
+        issues: list[lint.Issue] = []
+        lint.check_axis_callouts(
+            ROOT / "wiki" / "concepts" / "Example.md",
+            body,
+            issues,
+        )
+        return issues
+
+    def test_bad_nested_blank_separator_is_an_error(self) -> None:
+        body = (
+            "> [!debates] 学术争议\n"
+            ">\n"
+            "> > [!axis] 第一项\n"
+            "> > 正文。\n"
+            "> >\n"
+            "> > [!axis] 第二项\n"
+            "> > 正文。\n"
+        )
+
+        issues = self.lint(body)
+
+        self.assertEqual(["AXIS_SIBLING_SEPARATOR"], [issue.code for issue in issues])
+        self.assertEqual(5, issues[0].line)
+
+    def test_single_outer_quote_separator_is_valid(self) -> None:
+        body = (
+            "> [!debates] 学术争议\n"
+            ">\n"
+            "> > [!axis] 第一项\n"
+            "> > 正文。\n"
+            ">\n"
+            "> > [!axis] 第二项\n"
+            "> > 正文。\n"
+        )
+
+        self.assertEqual([], self.lint(body))
+
+    def test_axis_at_wrong_quote_depth_is_an_error(self) -> None:
+        issues = self.lint("> [!axis] 错误层级\n")
+
+        self.assertEqual(["AXIS_NESTING"], [issue.code for issue in issues])
+
+    def test_fenced_example_is_ignored(self) -> None:
+        body = "```markdown\n> >\n> > [!axis] 示例\n```\n"
+
+        self.assertEqual([], self.lint(body))
+
+    def test_fix_changes_only_the_bad_separator(self) -> None:
+        body = (
+            "> [!debates] 学术争议\n"
+            ">\n"
+            "> > [!axis] 第一项\n"
+            "> > 正文。\n"
+            "> >\n"
+            "> > [!axis] 第二项\n"
+        )
+
+        fixed, count = lint.fix_axis_callouts(body)
+
+        self.assertEqual(1, count)
+        self.assertEqual(
+            body.replace("> >\n> > [!axis] 第二项", ">\n> > [!axis] 第二项"),
+            fixed,
+        )
+
+    def test_fix_normalizes_axis_quote_depth(self) -> None:
+        body = (
+            "> [!debates] 学术争议\n"
+            ">\n"
+            "> > > [!axis] 多缩进一层\n"
+            "> > 正文。\n"
+        )
+
+        fixed, count = lint.fix_axis_callouts(body)
+
+        self.assertEqual(1, count)
+        self.assertEqual(body.replace("> > > [!axis]", "> > [!axis]"), fixed)
+
+    def test_fix_rescans_separator_after_normalizing_depth(self) -> None:
+        body = (
+            "> [!debates] 学术争议\n"
+            ">\n"
+            "> > [!axis] 第一项\n"
+            "> > 正文。\n"
+            "> >\n"
+            "> > > [!axis] 第二项\n"
+            "> > 正文。\n"
+        )
+
+        fixed, count = lint.fix_axis_callouts(body)
+        issues = self.lint(fixed)
+
+        self.assertEqual(2, count)
+        self.assertEqual([], issues)
+        self.assertIn(">\n> > [!axis] 第二项", fixed)
+
 if __name__ == "__main__":
     unittest.main()

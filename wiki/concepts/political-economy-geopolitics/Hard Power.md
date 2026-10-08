@@ -7,7 +7,7 @@ aliases:
 summary: "国际关系与地缘政治的核心范畴，指行为体通过军事武力、强制威慑与经济制裁迫使他者服从的指挥性权力。在智能化时代，硬实力的底座转向软件算法、自主系统与实体制造；卡普与扎米斯卡进一步论证，硬实力无法脱离软信念而孤立维系，国家千年期战略决断、共享文化认同与防卫意志构成了可信硬实力威慑的终极支柱。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Regulatory Sandbox]]"
   - "[[Big Science]]"
   - "[[Determinism]]"
+  - "[[Cosmopolitanism]]"
   - "[[Scientific Paradigm]]"
   - "[[Commercial Off-The-Shelf]]"
   - "[[Return on Investment]]"
@@ -261,7 +262,7 @@ updated: 2026-10-09
 > > - **传统军工采办派** 强调重工业制造与大批量动能消耗品是持久消耗战的不可替代基础。
 > > - **软件定义战争派（Karp & Zamiska）** 指出传统笨重硬件若无先进感知与算法赋能将迅速沦为战场靶标，软件代码与去中心化自主系统的迭代速度才是决胜关键。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 29–32)]]
 >
-> > [!axis] 硅谷技术世界主义 vs 国家科技主权同盟
+> > [!axis] 硅谷技术[[Cosmopolitanism|世界主义]] vs 国家科技主权同盟
 > > 争论科技精英应当秉持无国界的商业世界主义与反建制[[Hacker Ethic|黑客伦理]]，还是应主动承担捍卫国家共同体的战略防务责任。
 > >
 > > - **世界主义与反战黑客传统** 主张技术应服务于全人类个体解放与商业自由流动，拒绝为军工机构提供杀伤性技术工具。

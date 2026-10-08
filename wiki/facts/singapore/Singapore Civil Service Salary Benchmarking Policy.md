@@ -11,9 +11,9 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 9
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: "新加坡国会与新加坡内阁"
 tags:

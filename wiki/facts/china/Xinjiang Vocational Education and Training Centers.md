@@ -11,7 +11,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
   - theme/ethnic-minorities
 related_concepts:
   - "[[Zhonghua Minzu]]"
+  - "[[Bilingual Education Policy]]"
   - "[[Sinicisation]]"
 related_theories:
   - "[[Settler Colonialism]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-10-09
 ---
 
 # Xinjiang Vocational Education and Training Centers
@@ -63,7 +64,7 @@ updated: 2026-05-26
 > - 2014 年第二次新疆工作论坛后，教培中心体系启动建设([[Argument_Bulag_2024_CE\|Bulag, 2024, p.97]])。
 > - 2017 年在西藏和新疆率先实施以普通话替代民族语言的双语教育([[Argument_Bulag_2024_CE\|Bulag, 2024, p.98]])。
 > - 2018 年前后，教培中心规模大幅扩大，国际社会开始广泛关注。
-> - 2020 年双语教育政策扩展至内蒙古等八省区。
+> - 2020 年[[Bilingual Education Policy|双语教育政策]]扩展至内蒙古等八省区。
 
 
 ## 国际反应

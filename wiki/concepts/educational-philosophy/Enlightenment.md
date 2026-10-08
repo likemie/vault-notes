@@ -10,10 +10,10 @@ aliases:
 summary: "18世纪欧洲以理性批判、经验科学、世俗化与普遍人权为核心的现代性奠基运动，主张摆脱未成熟状态，将公共教育确立为培育自主公民、重构公共领域、推进立宪法权与实现永久和平的本体机制；当代延伸至通过科学实践中的证据协商与理性说服培育民主公共审议素养。"
 type: concept
 domain: "educational-philosophy"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/enlightenment
   - theme/modernity
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Proto-Scientific Motif]]"
   - "[[Educational Meliorism]]"
+  - "[[Cosmopolitanism]]"
   - "[[Historical Amnesia]]"
   - "[[Epistemic Practices]]"
   - "[[Policy Borrowing]]"
@@ -79,7 +80,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Enlightenment
@@ -181,7 +182,7 @@ updated: 2026-10-08
 ### 命题二　启蒙现代性范式为比较教育学奠定了经验实证归纳与超国家和平治理的双重母题
 
 > [!concept-lens] 学科发端的初始认识论地基
-> 揭示比较教育作为一门独立学科的诞生，深嵌于启蒙运动的科学归纳与世界主义问题域。
+> 揭示比较教育作为一门独立学科的诞生，深嵌于启蒙运动的科学归纳与[[Cosmopolitanism|世界主义]]问题域。
 
 > [!claim] [[Marc-Antoine Jullien\|Jullien, M.]]-A.
 > **比较探究是实现启蒙世界主义与[[Perpetual Peace\|永久和平]]的基础设施** 朱利安将培根科学统一构想、居维叶比较解剖学与启蒙世界公民（cosmopolites）理念系统融通，断言唯有通过跨国标准化教育事实调查、常设特别教育委员会与百科通报，才能将教育提升为准实证科学，涤荡野蛮战争残余，使跨国教育互鉴直接服务于全人类文明进步与欧洲永久和平。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 11–14, 20–24)]]；引自 Palmer (1993:205)
@@ -243,7 +244,7 @@ updated: 2026-10-08
 > > - **政治现实主义与世界体系学派（Wallerstein, 1974; Arnove, 1980, 2009）** 深刻批评将现代学校视为启蒙理性自然馈赠的观点，揭示外部援助与国际经贸规约在边缘国家导致严重的辍学、失业与依附分层，掩盖了跨国资本掠夺的政治经济学现实。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
 >
 > > [!axis] 普世人权标准 vs 西方中心主义与殖民知识霸权
-> > - **自由主义世界主义学派** 主张启蒙所倡导的人人平等、科学理性与基本人权具备跨越地域文化的普遍规范价值。
+> > - **自由主义[[Cosmopolitanism|世界主义]]学派** 主张启蒙所倡导的人人平等、科学理性与基本人权具备跨越地域文化的普遍规范价值。
 > > - **后殖民与去殖民理论学者** 批判启蒙运动以“理性 vs 野蛮”的二元对立[[Discourse|话语]]将欧洲文明自封为历史终极尺度，在历史上成为西方殖民征服、[[Hegemony|文化霸权]]输出与压制非西方本土[[Epistemology|认识论]]的道义掩护。
 
 > [!warning] 适用边界
@@ -260,7 +261,7 @@ updated: 2026-10-08
 > | [[World Society Theory]] | 理论 | 将源自启蒙运动的普遍理性[[Cultural Models\|文化模型]]视为战后民族国家与大众教育全球扩张的根本动力。 |
 > | [[Cultural Models]] | 理论 | 揭示启蒙理性被[[Coding in Qualitative Research\|编码]]为指导现代国家建制与学校课程设置的共享制度脚本。 |
 > | [[Proto-Scientific Motif]] | 概念 | 启蒙理性在比较教育学科发端期的直接方法论结晶，开创准科学人道[[Paradigm\|范式]]。 |
-> | [[Perpetual Peace]] | 概念 | 启蒙政治哲学与世界主义国际主义的终极治理愿景。 |
+> | [[Perpetual Peace]] | 概念 | 启蒙政治哲学与[[Cosmopolitanism\|世界主义]]国际主义的终极治理愿景。 |
 > | [[State Educational Sovereignty]] | 概念 | 启蒙运动剥离教会神权垄断后建立世俗现代国家教育权的制度产物。 |
 > | [[Bildung]] | 概念 | 德意志启蒙新人文主义传统中关于个体理性觉醒与全人教化的核心理念。 |
 > | [[Scientific Method]] | 概念 | 启蒙运动确立的观察、实验与归纳推理准则，塑造了现代科学[[Epistemology\|认识论]]。 |

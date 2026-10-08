@@ -8,7 +8,7 @@ summary: "新加坡建国总理（1959–1990年在任）。以千年期战略�
 type: person
 nationality: singapore
 person_region: "singapore"
-person_related_count: 23
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,10 +28,8 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Junzi]]"
   - "[[Document]]"
+  - "[[Cosmopolitanism]]"
   - "[[Technological Republic]]"
-  - "[[Civic Religion]]"
-  - "[[National Character]]"
-  - "[[Competitiveness]]"
   - "[[Value Neutrality]]"
 related_theories:
   - "[[Capability Approach]]"
@@ -47,7 +45,10 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 related_persons:
   - "[[Goh Keng Swee]]"
+  - "[[Henry Kissinger]]"
   - "[[Confucius]]"
+  - "[[Alexander Karp]]"
+  - "[[Nicholas Zamiska]]"
 related_methods:
   - "[[Correlational Research]]"
 confidence: high
@@ -92,7 +93,7 @@ updated: 2026-10-09
 
 > [!work-line] 主要著作与[[Document|文献]]
 > - **1994 — *White Paper on Competitive Salaries for Competent & Honest Government*** 确立公共文官薪酬对标私营高管的法定公式，破除公职禁欲主义。关联条目：[[Singapore Civil Service Salary Benchmarking Policy]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
-> - **2000 — *From Third World to First: The Singapore Story: 1965–2000*** 详尽回顾新加坡在严酷地缘生存困境下实现经济跃迁与国家建构的治理历程。基辛格为其作序评价其确立了领袖对历史的决定性重塑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Kissinger, 2000; Karp & Zamiska, 2025, p. 198)]]
+> - **2000 — *From Third World to First: The Singapore Story: 1965–2000*** 详尽回顾新加坡在严酷地缘生存困境下实现经济跃迁与国家建构的治理历程。[[Henry Kissinger|基辛格]]为其作序评价其确立了领袖对历史的决定性重塑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Kissinger, 2000; Karp & Zamiska, 2025, p. 198)]]
 > - **2013 — *One Man's View of the World*** 系统阐发对大国博弈、地缘战略与亚洲价值观的宏观地缘政治洞察。
 > - **2020 — *Lee Kuan Yew: The Grand Master's Insights on China, the United States, and the World*** 阐述儒家[[Junzi|君子]]政德与现代国家能力建构的深层关系。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–216)]]
 
@@ -101,7 +102,7 @@ updated: 2026-10-09
 ## 核心思想
 
 > [!claim] 核心主张
-> 国家建构与繁荣无法依赖被动放任与价值虚无的世界主义，必须依靠兼具“千年期”长远战略视野与铁腕决断的卓越领导力；在制度上建立务实对标的市场化激励，在文化上果断塑造能够跨越族群割裂的共享语言与公民人格，在德性上倡导兼顾家庭忠诚与公民义务的儒家“[[Junzi|君子]]”人格，方能为高科技共和国奠定持久基业。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–198)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–216)]]
+> 国家建构与繁荣无法依赖被动放任与价值虚无的[[Cosmopolitanism|世界主义]]，必须依靠兼具“千年期”长远战略视野与铁腕决断的卓越领导力；在制度上建立务实对标的市场化激励，在文化上果断塑造能够跨越族群割裂的共享语言与公民人格，在德性上倡导兼顾家庭忠诚与公民义务的儒家“[[Junzi|君子]]”人格，方能为高科技共和国奠定持久基业。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–198)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–216)]]
 
 > [!citation-card] 李光耀论千年视野下的国家生存意志
 > 我是在以未来一代、未来一百年、甚至以永恒的时间尺度来进行盘算。请相信我，在未来的这一千年里，我们将始终屹立于此。只有那些能够按照这种时间跨度去思考和谋划的人民，才配在这个世界上生存下去。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 194)]]
@@ -129,7 +130,7 @@ updated: 2026-10-09
 
 > [!influence-path] 影响路径
 > - **公共管理与国家[[Capability Approach|能力路径]]** 为全球公共部门薪酬改革与反腐治理提供了独树一帜的亚洲[[Paradigm|范式]]，打破了将低薪清廉视为道德理所当然的传统公职教条。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
-> - **国家建构与[[Great Man Theory|伟人理论]]验证路径** 基辛格指出李光耀的成功领导为“究竟是客观环境还是领袖性格塑造历史”的古老争论画上了句号；成为卡普与扎米斯卡批判西方解构国家认同与英雄主义的核心参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–198)]]
+> - **国家建构与[[Great Man Theory|伟人理论]]验证路径** [[Henry Kissinger|基辛格]]指出李光耀的成功领导为“究竟是客观环境还是领袖性格塑造历史”的古老争论画上了句号；成为卡普与扎米斯卡批判西方解构国家认同与英雄主义的核心参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–198)]]
 > - **[[Technological Republic|技术共和国]]文化与德性重构路径** 成为卡普与扎米斯卡反思西方自由主义“虚空中立性”（Rawlsian Neutrality）与空洞功利主义（Peter Singer）、呼吁重构实质性德性与共有文化的根本思想参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–218)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
@@ -139,7 +140,7 @@ updated: 2026-10-09
 
 ## 历史评价
 
-> [!citation-card] 基辛格论李光耀对历史塑造的决定性贡献
+> [!citation-card] [[Henry Kissinger|基辛格]]论李光耀对历史塑造的决定性贡献
 > 李光耀的领导为‘究竟是客观环境还是领袖性格塑造历史’这一古老争论画上了句号；李光耀以非凡的远见与钢铁意志，将一个资源匮乏的脆弱岛屿铸就为第一世界国家。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Kissinger, 2000; Karp & Zamiska, 2025, p. 198)]]
 >
 > *In the case of Lee’s leadership, the ancient argument whether circumstance or personality shapes events was settled in favour of the latter.*
@@ -149,9 +150,10 @@ updated: 2026-10-09
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **执政同侪** [[Goh Keng Swee|吴庆瑞]]（Goh Keng Swee）、拉惹勒南（S. Rajaratnam）— 共同奠定早期新加坡经济、防卫与教育体系。
-> - **核心政策** [[Singapore Civil Service Salary Benchmarking Policy]] — 1994 年在国会确立文官薪酬对标私营市场的法定白皮书制度；[[Speak Mandarin Campaign]] — 1979 年启动的全国语言文化整合工程；[[Goh Report]] — 奠定双语与价值观教育的纲领性报告。
-> - **理论关联** [[Great Man Theory]]；[[Technological Republic]]；[[Civic Religion]]；[[National Character]]；[[Competitiveness]]。
+> - **执政同侪／合作者** [[Goh Keng Swee|吴庆瑞]]（Goh Keng Swee）、拉惹勒南（S. Rajaratnam）— 共同奠定早期新加坡经济、防卫与教育体系。
+> - **国际对话与评述者** [[Henry Kissinger|亨利·基辛格]]（Henry Kissinger）— 为其著作作序，高度评价其以钢铁意志塑造历史的卓越领导力。
+> - **当代引述与重估者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中将其治国经验作为克服西方虚无主义的核心参照。
+> - **所属政党与政府机构** 人民行动党（People's Action Party, PAP）、新加坡内阁。
 
 ---
 

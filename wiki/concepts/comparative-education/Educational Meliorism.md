@@ -97,7 +97,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Educational Meliorism
@@ -366,8 +366,8 @@ updated: 2026-10-08
 > > 
 > > - **古典历史比较学派（Sadler, Kandel, Hans, Ulich）** 坚守唯心主义与人本主义，主张通过考掘教育背后的文化理想与[[Intangible Spiritual Forces\|无形精神力量]]，涵养哲学自省、捍卫民主自由并促进文明和平。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 59–60)]]
 > > - **战后实证科学学派（Noah & Eckstein, Holmes, Anderson）** 坚守功能主义与实证规划理性，主张清洗空洞的人文道德说教，以严密的大样本测量与情境假说检验为规划者提供立竿见影的政策效能工具。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 63–64, 67–68)]]
-> >
-> > > [!axis] 改良主义、[[Ideology Critique|意识形态批判]]与严格[[Value Neutrality|价值中立]]的三元方法论抉择
+>
+> > [!axis] 改良主义、[[Ideology Critique|意识形态批判]]与严格[[Value Neutrality|价值中立]]的三元方法论抉择
 > > > 争论焦点在于：比较教育研究应当以改良实践为根本目的，还是应当立足意识形态批判揭露结构性压迫，抑或恪守纯粹的价值中立？[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p.128)]]
 > > >
 > > > - **Kazamias (1961)** 系统厘清比较教育学研究取向的基本轴线，指出学科不可回避在“改良主义（melioristic）、意识形态批判（ideological）抑或严格价值中立（strictly neutral）”之间作出认识论决断。

@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 57
+fact_related_count: 56
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -182,13 +182,13 @@ updated: 2026-10-09
 > >
 > > - **批评视角** 部分科技界同行与人权倡导者指责算法接入致命武器系统加剧战争自动化风险，呼吁签订限制公约或组织员工抗议（如谷歌员工抗议[[Project Maven|梅文项目]]）。
 > > - **机构立场** 帕兰提尔领导层坚信无实力的和平是危险的幻想，西方若因[[Moral Dualism|道德二元论]]放弃防务算法研发，将导致极权主义对手在地缘博弈中占据支配地位，从而使全球民主政体遭受灭顶之灾。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 41–55)]]
-> >
+>
 > > [!axis] [[Predictive Policing|预测性警务]]民权争议 vs 城市公共安全救济
 > > 围绕 Gotham 平台在路易斯安那州新奥尔良等城市开展预测性警务的数据偏见与民权侵犯问题展开交锋。
 > >
 > > - **美国公民自由联盟（ACLU, 2018）** 杰伊·斯坦利（Jay Stanley）等人指责数据分析平台秘密接入市政监控与犯罪历史数据库，可能被警方滥用并强化种族偏见，构成对宪法第四修正案隐私权的严重侵犯。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 175–176)]]
 > > - **帕兰提尔与作者立场** 强调软件具备完备的日志[[Audit Trail|审计追踪]]与访问控制体系；指出新奥尔良警局（New Orleans Police Department, NOPD）应用系统后使凶杀率降至43年最低；批评坐视暴力蔓延却空谈道德纯洁的反对声浪是典型的奢侈信念。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 174–177)]]
-> >
+>
 > > [!axis] 命名神话学 vs 意识形态标签化争议
 > > 围绕帕兰提尔借用托尔金《指环王》“真知晶球”命名及其[[Grand Theory|宏大叙事]]是否具有所谓“极右翼”政治色彩展开交锋。
 > >

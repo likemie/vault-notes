@@ -5,7 +5,7 @@ aliases:
 summary: "把民族国家视为现代社会自然单位的方法论立场，容易遮蔽全球联系、跨尺度过程和空间关系的复杂性"
 type: concept
 domain: "comparative-education"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Transfer Space]]"
   - "[[Global Education Governing Complex]]"
   - "[[Policy Brokerage]]"
+  - "[[Cosmopolitanism]]"
   - "[[Open-Mindedness]]"
   - "[[Creativity]]"
   - "[[Variable]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-12
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Methodological Nationalism
@@ -188,7 +189,7 @@ updated: 2026-10-07
 > - **2002–2003 — 移民与社会学研究起源**
 >   Wimmer & Glick Schiller (2002/2003) 系统提出“方法论民族主义”概念，批判社会科学研究中未经反思地将民族国家作为自然社会和政治边界的倾向。[[Argument_Marginson_2025_ECNUROE\|Wimmer & Schiller, 2003, 引自 Marginson, 2025, p. 8]]
 > - **2007 — 全球化理论扩展**
->   Beck (2007) 将其扩展至全球化与世界主义理论，指出方法论民族主义与规范性民族主义的“共谋”，阻碍了对多重尺度的想象。[[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 8]]
+>   Beck (2007) 将其扩展至全球化与[[Cosmopolitanism|世界主义]]理论，指出方法论民族主义与规范性民族主义的“共谋”，阻碍了对多重尺度的想象。[[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 8]]
 > - **2005–2009 — 比较教育与全球治理研究引入**
 >   Dale (2005) 与 [[Argument_Beech_2009_CE\|Beech (2009)]] 将该概念引入教育政策和比较教育研究。Dale 提出“超国家”尺度；Beech 进一步批判语言概念中的国家预设，并引入 Castells 的“[[Space of Flows and Space of Places\|流动空间与地方空间]]”作为替代[[Analytic Framework\|分析框架]]，为摆脱国家参照提供路径。[[Argument_Beech_2009_CE\|Beech, 2009, pp. 348–349]]
 > - **2015 — 教育转移的关系性转向**

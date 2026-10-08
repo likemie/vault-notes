@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Globalization from Below
@@ -247,8 +247,8 @@ updated: 2026-10-07
 > >
 > > - **草根全球化倡导者（布雷彻等与[[Robert Arnove|罗伯特·阿诺夫]]）** 坚信由底层受压迫者结成的跨国网络拥有不可替代的道德威望与抗争韧性，是打破资本主义积累危机的核心生机。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 113–115)]]
 > > - **批判政治经济学者（Sutton & Arnove, 2004; Kamat, 2004）** 指出在缺乏制度支撑的现实中，大量民间 NGO 在承接教育外包项目后蜕变为依附于外部资本的“[[Shadow State|影子国家]]”，其原初的激进批判性与动员潜能被量化审计彻底消解。[[Argument_Arnove_2009_WorldSystems|(Sutton & Arnove, 2004; Kamat, 2004, cited in Arnove, 2009, p. 112)]]
-> >
-> > > [!axis] 世界文化人权反哺的有效性 vs 西方中心主义[[Discourse|话语]]霸权
+>
+> > [!axis] 世界文化人权反哺的有效性 vs 西方中心主义[[Discourse|话语]]霸权
 > > 争论边缘群体援引普遍人权理念进行抗争，究竟是借力打力的高超策略，还是无意识中强化了西方自由主义意识形态的普世霸权。
 > >
 > > - **世界文化能动论者（迈耶等与阿诺夫）** 认为规范一经确立便具有超越出处的力量，底层行动者的[[Creativity|创造性]]挪用能够颠覆原有的权力关系。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 113–114)]]

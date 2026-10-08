@@ -9,7 +9,7 @@ aliases:
 summary: "比较教育学在两次世界大战之间形成的政治哲学二元类型学，深刻区分以国家强权、意识形态灌输与政治极权动员为特征的政治民族主义，与以文化传统传承、公民健全心智发展及国际主义理解为导向的文化民族主义。"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
   - internationalism
 related_concepts:
   - "[[Bildung]]"
+  - "[[Cosmopolitanism]]"
   - "[[National Character]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Democratic Education]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-09-28
+updated: 2026-10-09
 ---
 
 # Cultural Nationalism vs. Political Nationalism
@@ -60,7 +61,7 @@ updated: 2026-09-28
 > [!concept-lens] 概念透镜
 > - **含义** 指向民族国家教育体系中两种根本截然相反的价值取向与政治哲学逻辑：将教育作为国家政权的政治动员工具，还是作为涵养民族文化精神与个体自由的培育土壤。
 > - **用途** 帮助研究者透视 20 世纪极权主义政权如何通过国家垄断篡改教育本质，并为民主国家如何在弘扬民族文化认同的同时防范极端排外提供理论坐标。
-> - **边界** 不等于绝对的无政府地方主义或无根的世界主义；两者在现实国家历史演进中往往交织并存，考验国家体制的民主防线。
+> - **边界** 不等于绝对的无政府地方主义或无根的[[Cosmopolitanism|世界主义]]；两者在现实国家历史演进中往往交织并存，考验国家体制的民主防线。
 
 > [!citation-card] 坎德尔论政治民族主义的破坏性与文化民族主义的国际主义根基
 > 坎德尔清醒地洞察到，20 世纪前四分之一时期的军国主义民族主义与排外狂热已日趋陈腐。他寄望于比较教育能够促成一种并非建立在虚妄情感之上、而是源于对其他民族及自身文化之深刻鉴赏与理解的真实国际主义。他深怀对个人专制或观念独裁政权所带来的毁灭性与反个人主义的恐惧，寄望通过教育引导文化民族主义的发展，以抵御并取代侵略性的政治民族主义。[[Argument_Kazamias_2009_ForgottenThemes\|(Herzog, 1960; Kazamias, 1963: 385; 2009: 49)]]
@@ -130,7 +131,7 @@ updated: 2026-09-28
 ### 命题二　健康而稳固的国际主义必须以具有高度文化自觉的文化民族主义为先决条件
 
 > [!concept-lens] 文化根基与跨国对话的辩证统一
-> 历史学派断言，国际理解不是要求抹去民族个性的虚无世界主义，而是建立在各民族对自身文化传统深邃理解基础上的文明互鉴。
+> 历史学派断言，国际理解不是要求抹去民族个性的虚无[[Cosmopolitanism|世界主义]]，而是建立在各民族对自身文化传统深邃理解基础上的文明互鉴。
 
 > [!claim] Kandel, I.
 > **理智鉴赏作为国际理解的核心支柱** 坎德尔强调，比较教育的崇高使命在于培育一种基于理智、反思与鉴赏理解的国际主义，而非脆弱的情感空谈。一个对自己民族的文化精神毫无体认的学生，绝不可能真正领悟他国教育制度的精髓；只有通过文化民族主义汲取本国文明的精粹，才能在跨国比较中以包容博雅的胸襟接纳异质文明的贡献。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933: xxv; Kazamias, 2009: 49)]]

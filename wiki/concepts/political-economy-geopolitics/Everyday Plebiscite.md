@@ -21,6 +21,7 @@ tags:
   - theme/social-cohesion
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Cosmopolitanism]]"
   - "[[Global Citizenship]]"
   - "[[Technological Republic]]"
   - "[[Hard Power]]"
@@ -70,7 +71,7 @@ updated: 2026-10-09
 ## 概念辨析
 
 > [!contrast-table] 民族认同建构[[Paradigm|范式]]对比
-> | 比较维度 | 族裔血缘原生论 | 勒南每日公民投票论 | 后现代世界主义 / 去国家化 |
+> | 比较维度 | 族裔血缘原生论 | 勒南每日公民投票论 | 后现代[[Cosmopolitanism\|世界主义]] / 去国家化 |
 > |---|---|---|---|
 > | **代表学者** | 费希特、早期德意志浪漫派 | [[Ernest Renan\|勒南]]、[[Alexander Karp\|卡普]]与[[Nicholas Zamiska\|扎米斯卡]] | 努斯鲍姆、桑内特 |
 > | **认同基础** | 生物学血统、共同种族与原生语言 | 共同历史记忆、过去牺牲与当下自愿联合意愿 | 抽象全人类博爱、去地域化[[Global Citizenship\|全球公民身份]] |

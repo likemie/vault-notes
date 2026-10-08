@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Remi Adekoya
@@ -114,8 +114,9 @@ updated: 2026-10-08
 
 > [!person-network] 关系网络
 > - **学术合作者** 卡米尔·莫林（Camille Morin） — 共同探讨[[Moral Dualism|道德二元论]]与现代政治伦理的批评学者。
-> - **[[Critical Theory|批判理论]]论敌** [[Paulo Freire|保罗·弗莱雷]] — 其《被压迫者教育学》中“被压迫者从不发起暴力”的二元论断是阿德科亚重点解构的对象。
-> - **人类学实证支撑** [[Lawrence H. Keeley|劳伦斯·基利]]（Lawrence H. Keeley） — 《文明前的战争》作者，证实原始部落残忍暴力的普遍性。
+> - **[[Critical Theory|批判理论]]论敌** [[Paulo Freire|保罗·弗莱雷]]（Paulo Freire） — 其《被压迫者教育学》中“被压迫者从不发起暴力”的二元论断是阿德科亚重点解构的对象。
+> - **学术对话与证据引用者** [[Lawrence H. Keeley|劳伦斯·基利]]（Lawrence H. Keeley） — 演化人类学学者，其《文明前的战争》为阿德科亚提供了前国家暴力的实证依据。
+> - **任职机构** 约克大学政治学系。
 
 ---
 

@@ -6,10 +6,10 @@ aliases:
 summary: "高等教育跨越国家边界组织流动、合作和制度安排的过程，涵盖学生流动、跨境合作、国际课程和全球战略布局。"
 type: concept
 domain: "higher-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - internationalization
 - higher-education
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Transnational Research Collaboration]]"
   - "[[International Education]]"
+  - "[[Cosmopolitanism]]"
   - "[[Discourse]]"
   - "[[Multiplicity]]"
   - "[[Global Citizenship]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Internationalization of Higher Education
@@ -75,7 +76,7 @@ updated: 2026-10-07
 
 **1990–2015：美国主导的霸权式全球化**
 - 在苏联解体后，美国以军事优势为后盾推行全球性政治-经济-[[Hegemony|文化霸权]]。英语大学在扩展中的全球高等教育空间中占据优势——在东亚/东南亚设立分校、建立合作联盟和研究链接、吸引国际学生和博士人才
-- 这一时期的"国际化"在很大程度上意味着西方化（Marginson, 2023），由一种规范性的普世主义[[Discourse|话语]]正当化。英国、澳大利亚和新西兰的大学建设了大规模的国际化教育商业产业
+- 这一时期的"国际化"在很大程度上意味着西方化（Marginson, 2023），由一种规范性的[[Cosmopolitanism|普世主义]][[Discourse|话语]]正当化。英国、澳大利亚和新西兰的大学建设了大规模的国际化教育商业产业
 - 但在此表面的同质化之下，新加坡、中国、韩国、法国和北欧国家等也在采取全球性举措——"国际化"的实践远非单一([[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 15–17]])
 
 **2015 至今：部分去全球化与西方反弹**

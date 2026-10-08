@@ -8,10 +8,10 @@ summary: "19世纪法国著名哲学家与历史学家；在巴黎索邦大学�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 5
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
-person_related_color: "#e5e7eb"
+person_related_color: "#dbeafe"
 born: "1823"
 died: "1892"
 lifespan: "1823–1892"
@@ -23,20 +23,25 @@ tags:
   - region/france
 related_concepts:
   - "[[Everyday Plebiscite]]"
+  - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Technological Republic]]"
+  - "[[Cosmopolitanism]]"
   - "[[Civic Religion]]"
   - "[[National Character]]"
 related_theories:
   - "[[Imagined Community]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Benedict Anderson]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
-  - "[[Benedict Anderson]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
 status: active
 created: 2026-10-08
@@ -86,27 +91,27 @@ updated: 2026-10-09
 > [!citation-card] 勒南论民族作为每日的公民投票
 > 民族是一种庞大的团结力量，由人们已经做出的牺牲以及他们准备继续做出的牺牲的情感所构成。民族以过去为前提，但在当下通过一个切实的事实来总结：这就是同意，即继续共同生活的明确表达的愿望。一个民族的存在就像是一场每日的公民投票。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
 >
-> *A nation is a vast solidarity, constituted by the sentiment of the sacrifices one has made and of those one is yet prepared to make. It presupposes a past; it is summarized in the present, however, by a tangible fact, namely, consent, the clearly expressed desire to continue a common life. A nation’s existence is... an everyday plebiscite.*
+> *A nation is a vast solidarity, constituted by the sentiment of the sacrifices one has made and of those one is yet prepared to make. It presupposes a past; it is summarized in the present, however, by a tangible fact, namely, consent, the clearly expressed desire to continue a common life. A nation’s existence is... [[Everyday Plebiscite|an everyday plebiscite]].*
 
 ---
 
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 奠定了现代政治哲学中的“公民民族主义”范式，为本尼迪克特·安德森（Benedict Anderson）构想“想象的共同体”以及现代国家认同理论提供了主观精神契约维度的先驱框架。
-> - **政策与政治话语路径** 成为现代西方民主共和国抵抗狭隘血缘沙文主义、构建多族裔包容性公民国家认同的核心法理与哲学支柱。
-> - **当代地缘政治与技术共和国重构** 卡普与扎米斯卡（Karp & Zamiska, 2025）在《技术共和国》中借用勒南命题，呼吁西方重塑共同生活的公民信念以克服冷漠与文化虚无。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
+> - **理论路径** 奠定了现代政治哲学中的“公民民族主义”[[Paradigm|范式]]，为[[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）构想“[[Imagined Community|想象的共同体]]”以及现代国家认同理论提供了主观精神契约维度的先驱框架。
+> - **政策与政治[[Discourse|话语]]路径** 成为现代西方民主共和国抵抗狭隘血缘沙文主义、构建多族裔包容性公民国家认同的核心法理与哲学支柱。
+> - **当代地缘政治与[[Technological Republic|技术共和国]]重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《技术共和国》中借用勒南命题，呼吁西方重塑共同生活的公民信念以克服冷漠与文化虚无。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
 
-> [!evidence-grid-a]- 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 阐发欧内斯特·勒南“每日公民投票”命题对当代重塑国家认同与技术共和国生存意志的关键意义。
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 阐发欧内斯特·勒南“[[Everyday Plebiscite|每日公民投票]]”命题对当代重塑国家认同与技术共和国生存意志的关键意义。
 
 ---
 
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **理论共鸣与承继** [[Benedict Anderson|本尼迪克特·安德森]] — 安德森的“想象的共同体”继承了勒南将民族视为心理感知与主观联结的核心洞见。
-> - **当代应用者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中借用勒南命题批判后现代虚无主义与后国家世界主义。
+> - **理论共鸣与承继** [[Benedict Anderson|本尼迪克特·安德森]] — 安德森的“[[Imagined Community|想象的共同体]]”继承了勒南将民族视为心理感知与主观联结的核心洞见。
+> - **当代应用者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中借用勒南命题批判后现代虚无主义与后国家[[Cosmopolitanism|世界主义]]。
 
 ---
 
@@ -115,7 +120,7 @@ updated: 2026-10-09
 > [!debates] 学术争议
 >
 > > [!axis] 主观道德意愿 vs 客观物质结构
-> > 民族建构究竟是基于主观的政治契约与“每日公投”，还是依赖语言、地理、阶级利益与资本主义印刷工业等客观物质基础。
+> > 民族建构究竟是基于主观的政治契约与“[[Everyday Plebiscite|每日公投]]”，还是依赖语言、地理、阶级利益与资本主义印刷工业等客观物质基础。
 > >
 > > - **Renan（1882）** 坚持民族是超越语言、种族与地理的精神原则与主观同意。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
 > > - **历史唯物主义与现代主义民族学者** 指责勒南的公投论过分唯心主义化，遮蔽了国家暴力机器与经济阶级在民族塑造中的强制性作用。

@@ -231,6 +231,20 @@ URL_RE = re.compile(r"https?://[^\s)>\]]+")
 DOI_RE = re.compile(r"\b10\.\d{4,9}/[-._;()/:A-Z0-9]+\b", re.IGNORECASE)
 TEMPLATER_PLACEHOLDER_RE = re.compile(r"<%.*?%>")
 
+# `[!axis]` is a nested card inside `[!debates]`.  A blank `> >` line before
+# the next card keeps that card inside the previous child callout, so Quartz
+# renders the marker as ordinary text.  The separator must step back to the
+# outer quote level with a single `>` line.
+AXIS_CALLOUT_LINE_RE = re.compile(
+    r"^(?P<indent>[ \t]*)(?P<quotes>(?:>[ \t]*)*)\[!axis\][+-]?(?:[ \t]|$)",
+    re.MULTILINE | re.IGNORECASE,
+)
+AXIS_BAD_SIBLING_SEPARATOR_RE = re.compile(
+    r"^(?P<indent>[ \t]*)>[ \t]+>[ \t]*(?P<newline>\r?\n)"
+    r"(?=(?P=indent)>[ \t]+>[ \t]+\[!axis\][+-]?(?:[ \t]|$))",
+    re.MULTILINE | re.IGNORECASE,
+)
+
 # Schema-constrained APA short citations used for links to Argument pages.
 CITATION_PARENT_RE = re.compile(r"^\([A-Z][A-Za-z0-9 .&和-]+,\s*(?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?\)$")
 CITATION_NARRATIVE_RE = re.compile(r"^[A-Z][A-Za-z0-9 .&和-]+\s*[（(](?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?[）)]$")
@@ -2036,6 +2050,33 @@ def check_markdown_misc(path: Path, text: str, issues: List[Issue]) -> None:
         )
 
 
+def check_axis_callouts(path: Path, text: str, issues: List[Issue]) -> None:
+    """Validate the two-level `[!debates]` / `[!axis]` Markdown contract."""
+    scan = mask_markdown_code(text)
+
+    for match in AXIS_BAD_SIBLING_SEPARATOR_RE.finditer(scan):
+        issues.append(Issue(
+            "ERROR",
+            rel(path),
+            "sibling [!axis] cards must be separated by a single '>' line; "
+            "run vault_lint.py --fix to replace this blank '> >' separator",
+            line=line_of_pos(scan, match.start()),
+            code="AXIS_SIBLING_SEPARATOR",
+        ))
+
+    for match in AXIS_CALLOUT_LINE_RE.finditer(scan):
+        depth = match.group("quotes").count(">")
+        if depth == 2:
+            continue
+        issues.append(Issue(
+            "ERROR",
+            rel(path),
+            f"[!axis] must be a two-level nested callout written as '> > [!axis]' "
+            f"(found quote depth {depth}); run vault_lint.py --fix to normalize it",
+            line=line_of_pos(scan, match.start()),
+            code="AXIS_NESTING",
+        ))
+
 def check_templater_placeholders(path: Path, text: str, issues: List[Issue]) -> None:
     if TEMPLATES_DIR in path.parents:
         return
@@ -2476,6 +2517,7 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
 
     check_old_references(path, text, issues)
     check_quartz_safety(path, text, issues)
+    check_axis_callouts(path, text, issues)
     check_markdown_misc(path, text, issues)
     check_templater_placeholders(path, text, issues)
 
@@ -2598,6 +2640,38 @@ def fix_summary_quotes(text: str) -> Tuple[str, int]:
     return "\n".join(lines), fixed
 
 
+def fix_axis_callouts(text: str) -> Tuple[str, int]:
+    """Normalize axis nesting and step back between consecutive sibling cards."""
+    scan = mask_markdown_code(text)
+    edits: List[Tuple[int, int, str]] = []
+    for match in AXIS_CALLOUT_LINE_RE.finditer(scan):
+        if match.group("quotes").count(">") == 2:
+            continue
+        edits.append((
+            match.start("quotes"),
+            match.end("quotes"),
+            "> > ",
+        ))
+    new_text = text
+    for start, end, replacement in reversed(edits):
+        new_text = new_text[:start] + replacement + new_text[end:]
+
+    # Re-scan after normalizing title depth.  A formerly three-level title can
+    # expose its preceding `> >` blank as the newly malformed sibling boundary.
+    nesting_fixes = len(edits)
+    scan = mask_markdown_code(new_text)
+    edits = []
+    for match in AXIS_BAD_SIBLING_SEPARATOR_RE.finditer(scan):
+        edits.append((
+            match.start(),
+            match.end(),
+            f'{match.group("indent")}>{match.group("newline")}',
+        ))
+    for start, end, replacement in reversed(edits):
+        new_text = new_text[:start] + replacement + new_text[end:]
+    return new_text, nesting_fixes + len(edits)
+
+
 def apply_fixes(files: List[Path], argument_citations: Dict[str, Dict[str, Any]]) -> Tuple[int, int]:
     changed_files = 0
     total = 0
@@ -2615,11 +2689,12 @@ def apply_fixes(files: List[Path], argument_citations: Dict[str, Dict[str, Any]]
             if not n:
                 break
         new_text, n2 = fix_summary_quotes(new_text)
+        new_text, n3 = fix_axis_callouts(new_text)
         if new_text != text:
             path.write_text(new_text, encoding="utf-8")
             changed_files += 1
-            total += n1 + n2
-            print(f"fixed {n1 + n2:3d}  {rel(path)}")
+            total += n1 + n2 + n3
+            print(f"fixed {n1 + n2 + n3:3d}  {rel(path)}")
     return changed_files, total
 
 
@@ -2760,7 +2835,7 @@ def main() -> int:
     parser.add_argument("--full", action="store_true", help="lint the full vault instead of only git-changed Markdown files")
     parser.add_argument("--quiet", action="store_true", help="only print errors and summary")
     parser.add_argument("--show-info", action="store_true", help="include INFO items in text output")
-    parser.add_argument("--fix", action="store_true", help="auto-fix mechanical issues (bold-heading colon, English annotation outside bold, English 'and' in citations, summary quotes) before linting")
+    parser.add_argument("--fix", action="store_true", help="auto-fix mechanical issues (including malformed sibling [!axis] separators) before linting")
     args = parser.parse_args()
 
     paths = [(ROOT / p).resolve() if not Path(p).is_absolute() else Path(p).resolve() for p in args.path]

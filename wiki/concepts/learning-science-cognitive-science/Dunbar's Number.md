@@ -9,10 +9,10 @@ aliases:
 summary: "英国人类学家罗宾·邓巴提出的人类群体规模认知上限（约150人）。揭示灵长类及人类大脑新皮质容量决定了个体维持稳定直接社会关系的最大极限；超出该规模的超大规模社群必须依赖语言、共享文化与制度化象征构筑想象链接。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 6
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/cognitive-science
   - theme/social-cognition

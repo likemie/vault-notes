@@ -8,10 +8,10 @@ aliases:
 summary: "Martin Wight 国际关系三大传统之一（对应 Kant 思想），将政治的终极现实视为普遍人类共同体而非国家间关系，以“武力”为推翻旧秩序的必要手段。在比较教育中，它塑造了以揭露不平等和开辟解放可能性为使命的道德事业形态，涵盖 1970 年代的新马克思主义依附论以及当代的后殖民与去殖民批判。"
 type: concept
 domain: "comparative-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 theory_related_count: 5
 theory_related_level: 1
 theory_related_stars: "⭐"
@@ -24,6 +24,7 @@ tags:
   - theme/colonialism
   - region/global
 related_concepts:
+  - "[[Cosmopolitanism]]"
   - "[[Realism in International Relations]]"
   - "[[Rationalism in International Relations]]"
   - "[[Praxis]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Revolutionism
@@ -71,7 +72,7 @@ updated: 2026-10-08
 > [!citation-card]- 关键表述
 > > 康德传统中最深层的元素是消除苦难的道德激情。 (Hedley Bull, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 418]])
 >
-> > 革命主义将世界划分为两种人：忠于世界国家愿景者（Faithful）和阻碍该愿景者（Stand in its way）。忠实者是“世界主义者”（Cosmopolitan）而非中立的“国际主义者”，他们承担着“压倒一切的、具有传教士性质的义务”（missionary character）去促成世界国家愿景。 (Martin Wight, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 418–419]])
+> > 革命主义将世界划分为两种人：忠于世界国家愿景者（Faithful）和阻碍该愿景者（Stand in its way）。忠实者是“[[Cosmopolitanism|世界主义]]者”（Cosmopolitan）而非中立的“国际主义者”，他们承担着“压倒一切的、具有传教士性质的义务”（missionary character）去促成世界国家愿景。 (Martin Wight, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 418–419]])
 
 > [!boundary]- 概念边界
 > 不适用于 — 描述国家通过谈判达成妥协、遵循国际规范、或在保留主权边界的前提下开展国际理解教育（这属于理性主义的范畴）。

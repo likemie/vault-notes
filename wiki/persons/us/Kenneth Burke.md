@@ -9,10 +9,10 @@ summary: "美国著名文学理论家、修辞学家与哲学家；提出戏剧�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 5
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1897"
 died: "1993"
 lifespan: "1897–1993"
@@ -25,18 +25,21 @@ tags:
   - region/us
 related_concepts:
   - "[[Scapegoat Mechanism]]"
+  - "[[Technological Republic]]"
 related_theories:
   - "[[Mimetic Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
 related_persons:
   - "[[René Girard]]"
+  - "[[Alexander Karp]]"
+  - "[[Nicholas Zamiska]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16]]"
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Kenneth Burke
@@ -101,8 +104,9 @@ updated: 2026-10-08
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **理论启发对象** 雷内·[[René Girard|吉拉尔]] — 伯克的替罪羊理论直接启发了吉拉尔的模仿欲望与受害者神圣化理论。
-> - **核心概念** [[Scapegoat Mechanism]] — 伯克在《持久与变迁》中奠定了替罪羊机制的现代修辞学与社会心理学基石。
+> - **学术继承与受启发者** 雷内·[[René Girard|吉拉尔]]（René Girard）— 伯克的替罪羊与受害者修辞直接启发了吉拉尔的[[Mimetic Theory|模仿理论]]体系。
+> - **同时代学术对话者** 威廉·卡洛斯·威廉斯（William Carlos Williams）— 长期文学与文艺理论对话同侪。
+> - **当代引述与重估者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中借用其替罪羊分析透视官僚体制对实干精英的道德围剿。
 
 ---
 

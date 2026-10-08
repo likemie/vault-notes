@@ -5,7 +5,7 @@ aliases:
 summary: "Sakwa 提出的概念，指以主权平等、不干涉和制度多样性为基础的国际秩序理解。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Central Phenomenon]]"
   - "[[Radical Liberal Internationalism]]"
+  - "[[Cosmopolitanism]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Internationalization of Higher Education]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Sovereign Internationalism
@@ -51,7 +52,7 @@ updated: 2026-10-07
 
 > [!example]
 > - vs [[Radical Liberal Internationalism\|激进自由国际主义]] — 主权国际主义容忍文明差异和多元政治制度，以不干涉为核心原则；激进自由国际主义则以西方规范评估所有社会，否定非自由政权的合法性，支持政权更迭。Sakwa（2023）将二者的关系描述为历史替代：后者在冷战后逐步取代前者([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 14]])
-> - vs 现实主义国际关系 — 主权国际主义包含多元世界主义理想，现实主义则认为国与国之间本质上是竞争关系。但两者都承认国家主权的基本地位
+> - vs 现实主义国际关系 — 主权国际主义包含多元[[Cosmopolitanism|世界主义]]理想，现实主义则认为国与国之间本质上是竞争关系。但两者都承认国家主权的基本地位
 
 ---
 
@@ -60,7 +61,7 @@ updated: 2026-10-07
 > [!abstract]
 > - **世界作为多元空间** — 容忍文明差异和多元政治制度，不以单一标准衡量所有国家([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 14]])
 > - **不干涉原则** — 尊重各国内部政治事务，只要遵守联合国公约等共同宪章价值。这是宪章国际体系与[[Radical Liberal Internationalism\|激进自由国际主义]]最根本的区别
-> - **1945 年的乐观精神** — 旧金山会议后的精神是乐观的、多元世界主义的、包容的和宽容的，当时冷战尚未开始，自决权获得近乎普遍支持
+> - **1945 年的乐观精神** — 旧金山会议后的精神是乐观的、多元[[Cosmopolitanism|世界主义]]的、包容的和宽容的，当时冷战尚未开始，自决权获得近乎普遍支持
 > - **国际组织的建立** — 此后创建了一系列旨在巩固以美国为首的全球秩序的机构：[[World Bank\|世界银行]]、[[International Monetary Fund|国际货币基金组织]]、[[OECD]]、北约和关贸总协定（后为 [[World Trade Organization|WTO]]）（Heather & Rapley, 2023, pp. 36, 70）
 
 ---
@@ -68,7 +69,7 @@ updated: 2026-10-07
 ## 概念演变
 
 > [!note]-
-> 随着时间推移，美国的主权国际主义在很大程度上被一种基于美国例外论的自由反多元立场取代。Sakwa（2023）将这一转变追溯为：1945 年宪章国际体系（主权国际主义）→ 冷战后"[[Radical Liberal Internationalism\|激进自由国际主义]]"（radical liberal internationalism）→ 2000 年代后英美"基于规则的秩序"（rules-based order）。Marginson 指出，这一演变反映的是美国从多元世界主义向单极霸权主义的地缘政治立场转变([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 14]])。
+> 随着时间推移，美国的主权国际主义在很大程度上被一种基于美国例外论的自由反多元立场取代。Sakwa（2023）将这一转变追溯为：1945 年宪章国际体系（主权国际主义）→ 冷战后"[[Radical Liberal Internationalism\|激进自由国际主义]]"（radical liberal internationalism）→ 2000 年代后英美"基于规则的秩序"（rules-based order）。Marginson 指出，这一演变反映的是美国从多元[[Cosmopolitanism|世界主义]]向单极霸权主义的地缘政治立场转变([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 14]])。
 
 ---
 

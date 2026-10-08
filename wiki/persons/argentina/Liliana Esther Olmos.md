@@ -9,7 +9,7 @@ summary: "阿根廷裔比较教育社会学者，加州大学洛杉矶分校拉�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Document]]"
   - "[[Praxis]]"
+  - "[[Cosmopolitanism]]"
 related_theories:
   - "[[Conditioned State Theory]]"
   - "[[State Corporatism]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-28
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Liliana Esther Olmos
@@ -132,7 +133,7 @@ updated: 2026-10-07
 > | [[Conditioned State Theory]] | 理论 | 与[[Carlos Alberto Torres\|托雷斯]]共同拓展并系统阐述该理论对第三世界教育扩张与结构依附的解释机制。 |
 > | [[Compensatory Legitimation]] | 理论 | 剖析受限国家如何利用教育文凭供给向大众阶层实施合法化政治补偿。 |
 > | [[State Corporatism]] | 理论 | 分析拉美国家如何通过[[Neocorporatism\|法团主义]]架构操控教师工会与民众联盟，稳定资本积累秩序。 |
-> | [[World Society Theory]] | 理论 | 批判该理论忽视阶级权力对抗、帝国主义宰制与物质利益冲突的非历史普世主义偏见。 |
+> | [[World Society Theory]] | 理论 | 批判该理论忽视阶级权力对抗、帝国主义宰制与物质利益冲突的非历史[[Cosmopolitanism\|普世主义]]偏见。 |
 > | [[Financial-Intellectual Complex]] | 概念 | 揭示[[World Bank\|世界银行]]等国际多边机构将贷款资本与意识形态话语紧密捆绑的智识垄断机制。 |
 > | [[Dual School System]] | 概念 | 刻画第三世界外围资本主义国家中精英高阶轨道与大众劣质公学并存的结构性区隔。 |
 > | [[World Bank]] | 机构事实 | 批判其作为新自由主义教育改革主要推手对发展中国家公共教育主权的侵害。 |

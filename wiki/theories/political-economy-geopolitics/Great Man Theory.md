@@ -9,7 +9,7 @@ aliases:
 summary: "19世纪苏格兰历史学家托马斯·卡莱尔系统阐述的历史哲学理论。主张历史的根本动力源于极少数具有卓越远见、道德勇气与非凡意志的领袖与实干天才（如先知、英雄与建国者），其决断是点燃时代燃料的闪电。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 20
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -35,6 +35,7 @@ related_methods: []
 related_persons:
   - "[[Thomas Carlyle]]"
   - "[[Jean-Jacques Rousseau]]"
+  - "[[Henry Kissinger]]"
   - "[[Lee Kuan Yew]]"
   - "[[J. Robert Oppenheimer]]"
   - "[[Hyman Rickover]]"
@@ -79,7 +80,7 @@ updated: 2026-10-09
 > [!dev-timeline] 理论版本与贡献
 > - **1841 — 原初英雄史观** 卡莱尔系统建立以神性启示与道德意志为核心的伟人理论体系。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Carlyle, 1841/1908)]]
 > - **20世纪中叶 — 结构主义与唯物史观批判** 结构主义与社会史学派将伟人理论解构为精英主义偏见，强调结构性因素的主导地位。
-> - **2000 — 战略领导力与国家建构实证** 亨利·基辛格（Henry Kissinger）在前言中指出，[[Lee Kuan Yew|李光耀]]带领新加坡从第三世界跃升至第一世界的卓越实践，为“究竟是环境还是个人性格塑造历史”的长期争论画上了句号。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Kissinger, 2000; Karp & Zamiska, 2025, p. 198)]]
+> - **2000 — 战略领导力与国家建构实证** [[Henry Kissinger|亨利·基辛格]]（Henry Kissinger）在前言中指出，[[Lee Kuan Yew|李光耀]]带领新加坡从第三世界跃升至第一世界的卓越实践，为“究竟是环境还是个人性格塑造历史”的长期争论画上了句号。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Kissinger, 2000; Karp & Zamiska, 2025, p. 198)]]
 > - **2025 — 科技地缘政治重构** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中重振伟人理论，论证创始人意志、硬核工程领袖与国家战略英雄主义是打破官僚僵局与维系文明生存的根本引擎。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 197–198)]]
 
 ---

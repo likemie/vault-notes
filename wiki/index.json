@@ -576,6 +576,18 @@
     ]
   },
   {
+    "title": "Cosmopolitanism",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Cosmopolitanism.md",
+    "aliases": [
+      "世界主义",
+      "四海一家论",
+      "普世主义",
+      "Cosmopolitan Education",
+      "世界公民主义"
+    ]
+  },
+  {
     "title": "Critical Dualism",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Critical Dualism.md",
@@ -4367,6 +4379,18 @@
       "批判性分析立场",
       "分析立场",
       "批判立场"
+    ]
+  },
+  {
+    "title": "Bilingual Education Policy",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Bilingual Education Policy.md",
+    "aliases": [
+      "双语教育政策",
+      "双语政策",
+      "Singapore Bilingual Education",
+      "新加坡双语教育模式",
+      "语言政策与双语制"
     ]
   },
   {
@@ -9281,6 +9305,18 @@
       "慈善资本主义",
       "风险慈善资本主义",
       "philanthro-capitalism"
+    ]
+  },
+  {
+    "title": "Post-Nationalism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Post-Nationalism.md",
+    "aliases": [
+      "后国家主义",
+      "后民族主义",
+      "后国家认同",
+      "Post-national Identity",
+      "后民族星座"
     ]
   },
   {
@@ -21901,7 +21937,7 @@
   {
     "title": "René Girard",
     "type": "person",
-    "path": "wiki/persons/france/René Girard.md",
+    "path": "wiki/persons/france/René Girard.md",
     "aliases": [
       "勒内·吉拉尔",
       "吉拉尔",
@@ -24457,6 +24493,17 @@
       "亨利·A·吉鲁",
       "吉鲁",
       "Henry A. Giroux"
+    ]
+  },
+  {
+    "title": "Henry Kissinger",
+    "type": "person",
+    "path": "wiki/persons/us/Henry Kissinger.md",
+    "aliases": [
+      "亨利·基辛格",
+      "Kissinger, H.",
+      "Kissinger, H. A.",
+      "基辛格"
     ]
   },
   {

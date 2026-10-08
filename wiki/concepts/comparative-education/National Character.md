@@ -9,10 +9,10 @@ aliases:
 summary: "20世纪经典比较教育学用于解释国家教育制度独特性与内在精神的核心构念。在当代政治哲学与科技地缘政治中，进一步延伸为超越狭隘族裔血统的开放国民性格，作为凝聚跨阶层陌生人、抵抗原子化碎片与消费主义虚无的国家认同基石。"
 type: concept
 domain: "comparative-education"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 27
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - comparative-education
   - nationalism
@@ -213,7 +213,7 @@ updated: 2026-10-09
 > >
 > > - **Kandel（1933）** 坚持国家意志与国民性格是决定教育体系的最深层力量。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 40–41)]]
 > > - **实证与批判学者（1960s）** 主张将解释重心转移至阶级分层与可测量的社会经济[[Variable|变量]]。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 53–54)]]
-> >
+>
 > > [!axis] 族裔狭隘排他 vs 宪政开放包容
 > > 国民性格应被理解为固化的族裔血缘属性还是动态开放的政治文化承诺。
 > >

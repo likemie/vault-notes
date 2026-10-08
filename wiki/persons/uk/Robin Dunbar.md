@@ -20,13 +20,15 @@ tags:
   - theme/social-cognition
   - region/uk
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Dunbar's Number]]"
+  - "[[Paradigm]]"
   - "[[Technological Republic]]"
-  - "[[Civic Religion]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods:
   - "[[Ethnography]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Benedict Anderson]]"
@@ -49,7 +51,7 @@ updated: 2026-10-09
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国人类学家、演化心理学家，牛津大学实验心理学系进化心理学荣休教授，英国国家学术院院士（Fellow of the British Academy, FBA）。
-> - **核心角色** 演化人类学与社会脑假说（Social Brain Hypothesis）的开创性学者，在灵长类梳毛行为、大脑认知负荷与人类群体规模研究中承担奠基性节点功能。
+> - **核心角色** 演化人类学与社会脑假说（Social Brain [[Hypothesis]]）的开创性学者，在灵长类梳毛行为、大脑认知负荷与人类群体规模研究中承担奠基性节点功能。
 > - **代表贡献** 提出[[Dunbar's Number|邓巴数]]（150定律），论证了大脑新皮质对人类稳定面对面社交规模的生物学硬约束。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
 
 > [!citation-card]- 人物定位的关键来源
@@ -65,7 +67,7 @@ updated: 2026-10-09
 > - **1947** 出生于英国利物浦，后就读于牛津大学莫德林学院并获得博士学位。
 > - **1993** 发表里程碑论文《人类新皮质大小、群体规模与语言的协同演化》（*Co-evolution of Neocortex Size, Group Size, and Language in Humans*），正式确立[[Dunbar's Number|邓巴数]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
 > - **1998–2007** 担任利物浦大学进化心理学教授。
-> - **2007–2018** 出任牛津大学认知与进化人类学研究所所长。
+> - **2007–2018** 出任牛津大学认知与进化[[Ethnography|人类学研究]]所所长。
 
 ---
 
@@ -93,11 +95,11 @@ updated: 2026-10-09
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **认知神经科学与演化心理学路径** 奠定了社会脑假说，成为解释人类社交网络分层结构的标准分析范式。
+> - **认知神经科学与演化心理学路径** 奠定了社会脑假说，成为解释人类社交网络分层结构的标准分析[[Paradigm|范式]]。
 > - **组织管理与军事编制路径** 深刻影响了现代敏捷组织的小团队裂变管理以及现代军队战术编制设计。
 > - **国家建构与政治哲学路径** 卡普与扎米斯卡借用[[Dunbar's Number|邓巴数]]论证，国家认同与共享文化叙事是克服生物学认知上限、实现现代科技与防卫协同的生命线。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 结合邓巴数生物学认知上限，论述大规模现代国家维系共同体叙事的必要性。
 
 ---
@@ -105,8 +107,9 @@ updated: 2026-10-09
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **理论对话** [[Benedict Anderson|本尼迪克特·安德森]] — [[Dunbar's Number|邓巴数]]为安德森所论现代国家必须依托[[Imagined Community|想象的共同体]]进行组织整合提供了底层认知基础。
-> - **核心概念** [[Dunbar's Number]] — 1993 年提出的经典人类群体规模认知上限常数。
+> - **学术对话与共鸣者** [[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）— [[Dunbar's Number|邓巴数]]认知上限为安德森“[[Imagined Community|想象的共同体]]”理论提供了微观神经演化基础。
+> - **当代应用者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中引述其理论探讨超大规模国家维系文化纽带的必要性。
+> - **任职机构** 牛津大学实验心理学系、利物浦大学进化心理学系。
 
 ---
 

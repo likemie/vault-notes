@@ -6,7 +6,7 @@ type: template
 tags: []
 status: active
 created: 2026-06-20
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Callouts
@@ -993,6 +993,8 @@ updated: 2026-10-08
 - > >
 + >
 ```
+
+`vault_lint.py` 使用 `AXIS_SIBLING_SEPARATOR` 检查错误的同级分隔，使用 `AXIS_NESTING` 检查裸写、少写或多写的引用层级；两者都会作为 ERROR 阻止 pre-commit。运行 `.venv/bin/python3 scripts/vault_lint.py --fix` 可自动规范化，且只调整 Markdown 引用标记，不改写卡片正文。
 
 ---
 

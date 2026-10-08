@@ -8,7 +8,7 @@ summary: "德国古典哲学奠基人，以三大批判重塑认识论、伦理�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 34
+person_related_count: 35
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Emergence]]"
   - "[[Causality]]"
+  - "[[Cosmopolitanism]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Bildung]]"
   - "[[Teaching Assistant]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Immanuel Kant
@@ -127,7 +128,7 @@ updated: 2026-10-08
 >   - **代表著作** 《纯粹理性批判》（1781/1787）、《道德形而上学奠基》（1785）、《[[Phronesis|实践理性]]批判》（1788）、《判断力批判》（1790）。
 >   - **关键概念／方法** 哥白尼式革命、先天综合判断、时空先验感性形式、知性范畴（量、质、关系、模态）、物自体（*Ding an sich*）、定言律令（*Categorical Imperative*）、意志自律。[[Argument_Li_2012_Cambridge\|Li (2012, pp. 25–26, 30)]]
 >   - **阶段转向** 成功在纯粹理性经验边界（现象界）与实践理性道德要求（本体界）之间建立起严格划分，将人类心智确立为能动立法的主体。
-> - **1784–1803 — 历史哲学、政治世界主义与教育实践应用时期** 将批判哲学的理性自律原则外推至人类历史进程、国际政治秩序与代际教育培养之中。
+> - **1784–1803 — 历史哲学、政治[[Cosmopolitanism|世界主义]]与教育实践应用时期** 将批判哲学的理性自律原则外推至人类历史进程、国际政治秩序与代际教育培养之中。
 >   - **代表著作** 《答复这个问题：“什么是启蒙？”》（1784）、《世界公民观点下的普遍历史观念》（1784）、《论[[Perpetual Peace\|永久和平]]》（1795）、《论教育学》（1803）。
 >   - **关键概念／方法** 启蒙（*[[Enlightenment\|Aufklärung]]*）、公共理性运用、世界公民状态（*Weltbürgertum*）、[[Perpetual Peace\|永久和平]]（*Zum ewigen Frieden*）、自然非社会的社会性、教育四阶段（照料、[[Disciplina and Doctrina\|规训]]、[[Bildung\|教化]]、道德化）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 20)]]；[[Argument_Klerides_2023_CE\|Klerides (2023, p. 418)]]
 >   - **阶段转向** 明确提出历史的发展指向全人类由野蛮冲突走向世界主义法权与永久和平，而教育构成了实现这一历史目的的唯一本体通道。
@@ -139,7 +140,7 @@ updated: 2026-10-08
 康德哲学由[[Epistemology|认识论]]上的心智立法、伦理学上的理性自律以及历史教育学上的全人启蒙三大基石共同奠定：
 
 > [!claim] 核心主张
-> 知识始于经验但非源于经验，人类心智先天地配备了加工感觉经验的时空直观形式与十二先验范畴，主体能动地为自然立法；[[Phronesis|实践理性]]通过自我立法摆脱感官欲望羁绊，确立以人本身为终极目的的普遍定言律令；人类历史的内在目的在于通过公开运用理性的启蒙实践与跨国世界主义法权建构，克服野蛮纷争并达成[[Perpetual Peace\|永久和平]]；而个体唯有通过教育——从外在[[Disciplina and Doctrina\|规训]]跃升为内在道德化自律——方能实现真正的人性展开。
+> 知识始于经验但非源于经验，人类心智先天地配备了加工感觉经验的时空直观形式与十二先验范畴，主体能动地为自然立法；[[Phronesis|实践理性]]通过自我立法摆脱感官欲望羁绊，确立以人本身为终极目的的普遍定言律令；人类历史的内在目的在于通过公开运用理性的启蒙实践与跨国[[Cosmopolitanism|世界主义]]法权建构，克服野蛮纷争并达成[[Perpetual Peace\|永久和平]]；而个体唯有通过教育——从外在[[Disciplina and Doctrina\|规训]]跃升为内在道德化自律——方能实现真正的人性展开。
 
 > [!citation-card] 头顶星空与内心道德法则
 > 有两样东西，人们越是经常、越是持久地对它们进行思考，它们在心中唤起的赞叹与敬畏就越是充溢、与日俱增：这就是我头顶上星空璀璨的穹苍，和我内心深处庄严的道德法则。引自《实践理性批判》（1788）
@@ -165,7 +166,7 @@ updated: 2026-10-08
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 在西方知识确定性传统与心智奇迹探索中，系统剖析康德范畴论对调和唯理论与经验论、确立人类心智主动加工结构的奠基性贡献。
-> - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 阐释怀特国际理论框架中的康德革命主义传统，揭示其世界主义道德激情如何深刻塑造了 20 世纪批判、[[Dependency Theory\|依附论]]与后殖民比较教育研究。
+> - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 阐释怀特国际理论框架中的康德革命主义传统，揭示其[[Cosmopolitanism|世界主义]]道德激情如何深刻塑造了 20 世纪批判、[[Dependency Theory\|依附论]]与后殖民比较教育研究。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 考证康德[[Enlightenment\|启蒙哲学]]如何与[[Jean-Jacques Rousseau\|卢梭]]自由思想汇聚，直接催生了朱利安比较教育准科学实证设想背后的世界主义人道主义母题与永久和平蓝图。
 
 ---
@@ -185,7 +186,7 @@ updated: 2026-10-08
 
 ## 争议与批评
 
-学术史围绕康德的心智先验[[Hypothesis|假设]]、道德形式主义与世界主义展开了系统论辩：
+学术史围绕康德的心智先验[[Hypothesis|假设]]、道德形式主义与[[Cosmopolitanism|世界主义]]展开了系统论辩：
 
 > [!debates] 学术争议
 >
@@ -219,7 +220,7 @@ updated: 2026-10-08
 > | [[Critical Thinking]] | 概念 | “Sapere aude! 敢于运用知性”的启蒙箴言，奠定现代独立审思与批判性思维的伦理基座。 |
 > | [[Enlightenment]] | 概念 | 确立“敢于求知”的启蒙定义与理性的公共运用原则，为现代教育奠定自主性纲领。 |
 > | [[Perpetual Peace]] | 概念 | 1795 年论著奠定以共和立宪、自由联邦与世界公民法权为核心的和平治理总纲。 |
-> | [[Revolutionism]] | 概念 | 国际关系英国学派界定的世界主义传统原型，以普遍人类共同体与永久和平为终极指针。 |
+> | [[Revolutionism]] | 概念 | 国际关系英国学派界定的[[Cosmopolitanism\|世界主义]]传统原型，以普遍人类共同体与永久和平为终极指针。 |
 > | [[Wight's Three Traditions of International Theory]] | 理论 | 构成三大传统中与[[Realism in International Relations\|现实主义]]、[[Rationalism in International Relations\|理性主义]]并立的康德式世界主义道德传统。 |
 > | [[Bildung]] | 概念 | 将教育界定为人从动物自然走向理性自律的唯一途径，深远滋养德意志教化传统。 |
 > | [[Marc-Antoine Jullien]] | 人物 | 启迪朱利安将启蒙理性与永久和平诉求转化为跨国教育比较观察表的行动蓝图。 |

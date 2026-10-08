@@ -7,10 +7,10 @@ summary: "新加坡开国元勋、前副总理；新加坡经济腾飞与现代�
 type: person
 nationality: singapore
 person_region: "singapore"
-person_related_count: 6
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 9
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1918"
 died: "2010"
 lifespan: "1918–2010"
@@ -22,23 +22,21 @@ tags:
   - theme/statecraft
   - region/singapore
 related_concepts:
+  - "[[Industrial District]]"
   - "[[Technological Republic]]"
   - "[[Hard Power]]"
-  - "[[Civic Religion]]"
-  - "[[National Character]]"
-related_theories:
-  - "[[Pluralism]]"
-related_methods: []
+related_theories: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Lee Kuan Yew]]"
-  - "[[Alexander Karp]]"
-  - "[[Nicholas Zamiska]]"
 related_facts:
   - "[[Goh Report]]"
   - "[[Speak Mandarin Campaign]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
 status: active
 created: 2026-10-08
@@ -67,7 +65,7 @@ updated: 2026-10-09
 
 > [!timeline] 生平与职涯
 > - **1918** 出生于海峡殖民地马六甲，后毕业于莱佛士学院并在伦敦政治经济学院（London School of Economics, LSE）获得经济学博士学位。
-> - **1959** 当选议员并出任新加坡首任财政部长，主导裕廊工业区开发。
+> - **1959** 当选议员并出任新加坡首任财政部长，主导裕廊[[Industrial District|工业区]]开发。
 > - **1970–1979** 历任国防部长与副总理，创建新加坡武装部队（Singapore Armed Forces, SAF）。
 > - **1979** 兼任教育部长，发布里程碑式的《[[Goh Report|吴庆瑞报告]]》，启动双语教育改革与能力分流。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
 > - **2010** 在新加坡逝世，享年 91 岁。
@@ -99,9 +97,9 @@ updated: 2026-10-09
 > [!influence-path] 影响路径
 > - **教育与语言政策路径** 奠定了新加坡数十年来实行的“英语作为工作语言 + 母语保留文化根基”的双语教育国策与能力分流体制。
 > - **国家能力建构** 为后发国家将产业政策、国防动员与公民伦理教育高度整合提供了经典的现代治理范例。
-> - **科技地缘政治论证** 卡普与扎米斯卡（Karp & Zamiska, 2025）在《技术共和国》中高度赞扬吴庆瑞在价值观维系与国家威慑力构建上的远见。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
+> - **科技地缘政治论证** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中高度赞扬吴庆瑞在价值观维系与国家威慑力构建上的远见。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 论证吴庆瑞主持的教育与语言政策对新加坡确立国家威慑意志与凝聚力的决定性贡献。
 
 ---
@@ -109,8 +107,9 @@ updated: 2026-10-09
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **执政同侪** [[Lee Kuan Yew|李光耀]] — 紧密合作逾三十载，共同奠定了新加坡的政治经济与文化防卫基石。
-> - **核心政策** [[Goh Report|吴庆瑞报告]]、[[Speak Mandarin Campaign|讲华语运动]]。
+> - **执政同侪／紧密搭档** [[Lee Kuan Yew|李光耀]]（Lee Kuan Yew）— 紧密合作逾三十载，共同奠定新加坡经济、国防与教育体系。
+> - **内阁同侪** 拉惹勒南（S. Rajaratnam）— 共同主导建国初期的外交与国家认同建构。
+> - **任职机构** 新加坡财政部、新加坡国防部、新加坡教育部。
 
 ---
 

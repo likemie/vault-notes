@@ -12,7 +12,7 @@ subtype: event
 region: france
 fact_region: "france"
 fact_kind: "event"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ tags:
   - theme/encyclopaedism
   - theme/nineteenth-century
 related_concepts:
+  - "[[Cosmopolitanism]]"
   - "[[International Education]]"
   - "[[Establishing One's Will]]"
   - "[[Geisteswissenschaften]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 # Revue encyclopédique
@@ -58,7 +59,7 @@ updated: 2026-10-05
 
 ## 背景
 
-《百科评论》（*Revue encyclopédique ou Analyse raisonnée des productions les plus remarquables dans la littérature, les sciences et les arts*，简称 *Revue encyclopédique*）是 19 世纪前期欧洲最具跨国视野、学术声誉与世界主义情怀的综合性学术期刊：
+《百科评论》（*Revue encyclopédique ou Analyse raisonnée des productions les plus remarquables dans la littérature, les sciences et les arts*，简称 *Revue encyclopédique*）是 19 世纪前期欧洲最具跨国视野、学术声誉与[[Cosmopolitanism|世界主义]]情怀的综合性学术期刊：
 
 > [!event-context] 创办背景
 > - **创办时间 / 核心创办人** 1819 年由比较教育学先驱与启蒙自由主义学者[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris, 1775–1848）在巴黎创办并亲自担任主编，持续按期发行至 1830 年七月革命前夕。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 12, 21)]]
@@ -84,7 +85,7 @@ updated: 2026-10-05
 > - **[[International Education\|国际教育]]与比较制度专题专栏**
 >   刊物常态化刊登关于瑞士、比利时、西班牙、英格兰、苏格兰与美利坚各州公共教育立法、学校组织、[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]人道教学法与儿童识字率的深度分析，成为 19 世纪前期欧洲掌握域外教育动向的最权威智库。（pp. 12, 21）
 
-朱利安在 1819 年与 1823 年就刊物宗旨发表的经典声明，展现了其宏大的世界主义视野：
+朱利安在 1819 年与 1823 年就刊物宗旨发表的经典声明，展现了其宏大的[[Cosmopolitanism|世界主义]]视野：
 
 > [!citation-card]- 经典引言：朱利安论世界公民与培根科学统一
 > 对我们而言，仅仅作为百科全书编纂者是不够的；我们尤为渴望成为世界公民（cosmopolites）。除非我们的每一期杂志都能以最完整、最精确的方式，展现整个地球表面上的科学、文学、艺术、智力劳动与道德改良状况，否则我们绝不会认为自己的使命已经达成……我们的《评论》是第一部也是唯一一部通过定期出版物践行培根关于科学统一之伟大思想的作品；它汇聚在一起，宛如一个普世的国会，在真正神圣的同盟中促进人类心灵迈向相同的道德与哲学目标。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 20–21; Palmer, 1993:178–181)]]
