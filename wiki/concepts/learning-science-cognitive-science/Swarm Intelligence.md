@@ -40,12 +40,12 @@ updated: 2026-10-08
 > **群智能（Swarm Intelligence）** 是指由大规模去中心化的异质或同质个体通过局部信息交换与间接协同，在整体层面自发涌现出超越单个个体认知容量的复杂决策、环境自适应与协同行动能力的自组织[[Paradigm|范式]]。在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的工程文化论证中，群智能超越了传统生物学范畴，被提炼为对抗大型科层官僚僵化、实现高敏捷复杂系统开发的组织哲学：成功的工程团队应当如[[Martin Lindauer|马丁·林道尔]]（[[Martin Lindauer]]）观测的蜜蜂蜂群与[[Giorgio Parisi|乔治·帕里西]]（[[Giorgio Parisi]]）观测的椋鸟群一般，将决策权充分赋予处于外部环境边缘的侦察者与实干者，实现无中心中介指令的即兴协同与动态共识构建。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 119–121)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向一种从“自顶向下的指令控制与等级汇报”转向“自底向上的局部互动、边缘自治与动态共识”的组织运行机制。
+> - **含义** 指向一种从自顶向下的指令控制与等级汇报转向自底向上的局部互动、边缘自治与动态共识的组织运行机制。
 > - **用途** 帮助理解大规模复杂群体如何在高度不确定、信息不完全与极端对抗的实战环境中维持极速适应与全局协调。
-> - **边界** 区别于无组织的乌合之众或随机混乱；群智能高度依赖精确的局部沟通协议（如[[Dance Language of Bees|舞蹈语言]]或邻近拓扑跟随）与优胜劣汰的动态反馈回路。
+> - **边界** 区别于无组织的乌合之众或随机混乱；群智能高度依赖精确的局部沟通协议（如[[Dance Language of Bees|蜜蜂舞蹈语言]]或邻近拓扑跟随）与优胜劣汰的动态反馈回路。
 
 > [!citation-card] 医疗团队研究者论群智能在无中心控制下的协同
-> 正如医学教育研究者在探讨蜜蜂与群居昆虫对医疗应急团队的启示时所指出的，蜜蜂的社会结构展现了“在没有中央控制的情况下自发涌现出的高度协调行为”。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 120)]]
+> 正如医学教育研究者在探讨蜜蜂与群居昆虫对医疗应急团队的启示时所指出的，蜜蜂的社会结构展现了在没有中央控制的情况下自发涌现出的高度协调行为。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 120)]]
 >
 > *As one group of researchers has noted, writing on the implications of the collective decision making of honeybees and other animals for human organizations, including nurses and physicians in the health-care field, the social structure of bees demonstrates “coordinated behaviour that emerges without central control.”*
 
@@ -70,10 +70,10 @@ updated: 2026-10-08
 ## 核心要素
 
 > [!feature] 核心要素
-> - **去中心化自治（Decentralized Autonomy）** 组织内不存在主宰具体业务指令的超级首领，个体依据通用简单规则与局部目标自主探索。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 120)]]
-> - **[[Edge Autonomy|边缘感知驱动]]（Edge-Driven Sensing）** 处于群体外围与前沿一线、最先接触真实外部物理环境与威胁的个体，享有最高的提案与信息触发权重。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
-> - **透明动态共识机制（Transparent Dynamic Consensus）** 通过公开可见的信息呈现（如公开舞蹈辩论）与同行评审，以方案实际优劣而非提出者行政级别决定最终采纳。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 117–119)]]
-> - **整体涌现性协调（Emergent Coherence）** 当局部支持度跨越临界阈值时，全群迅速达成行动锁定并形成统一力量。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 119)]]
+> - **去中心化自治** 组织内不存在主宰具体业务指令的超级首领，个体依据通用简单规则与局部目标自主探索。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 120)]]
+> - **[[Edge Autonomy|边缘感知驱动]]** 处于群体外围与前沿一线、最先接触真实外部物理环境与威胁的个体，享有最高的提案与信息触发权重。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
+> - **透明动态共识机制** 通过公开可见的信息呈现（如公开舞蹈辩论）与同行评审，以方案实际优劣而非提出者行政级别决定最终采纳。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 117–119)]]
+> - **整体涌现性协调** 当局部支持度跨越临界阈值时，全群迅速达成行动锁定并形成统一力量。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 119)]]
 
 ---
 

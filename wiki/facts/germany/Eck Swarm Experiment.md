@@ -46,9 +46,9 @@ updated: 2026-10-08
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1951 年 6 月 26 日至 28 日；德国慕尼黑大学动物学研究所所属的旧植物园公园内，紧邻一座带有海王星三叉戟石雕的喷泉水池。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–117)]]
-> - **核心当事主体** 德国动物学家[[Martin Lindauer|马丁·林道尔]]（[[Martin Lindauer]]）、奥地利学者[[Karl von Frisch|卡尔·冯·弗里施]]（[[Karl von Frisch]]）以及由约两万至三万只欧洲蜜蜂（*Apis mellifera*）组成的埃克蜂群（“Eck”在德语中意为“角落”）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–119)]]
+> - **核心当事主体** 德国动物学家[[Martin Lindauer|马丁·林道尔]]（[[Martin Lindauer]]）、奥地利学者[[Karl von Frisch|卡尔·冯·弗里施]]（[[Karl von Frisch]]）以及由约两万至三万只欧洲蜜蜂（*Apis mellifera*）组成的埃克蜂群（Eck 在德语中意为角落）。
 > - **深层学科与理论背景** 在 19 世纪至 20 世纪中期基因测序技术尚未诞生的经典生物学时代，行为学家主要通过细致入微的野外长期行为观测探索动物心智；传统大多数物种（如野鹅、切叶蚁、马或麻雀）在寻找新巢穴时多以单个个体或成对形式探索，而蜜蜂成千上万个体如何整体行动并协同选址始终是一个未解之谜。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 116)]]
-> - **直接导火索 / 观测契机** 1951 年 6 月 26 日午后 1 点 30 分左右，慕尼黑大学植物园的一窝蜜蜂发生分蜂（Swarming），并在海王星喷泉附近的灌木丛中聚集成团，林道尔随即展开全程追踪与精确定量记录。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–117)]]
+> - **直接导火索 / 观测契机** 1951 年 6 月 26 日午后 1 点 30 分左右，慕尼黑大学植物园的一窝蜜蜂发生分蜂（Swarming），并在海王星喷泉附近的灌木丛中聚集成团，林道尔随即展开全程追踪与精确定量记录。
 
 ---
 
@@ -56,13 +56,13 @@ updated: 2026-10-08
 
 > [!dev-timeline] 事件推进历程
 > - **1951-06-26 — 蜂群聚集与初期多向勘探**
->   - 13:30 蜜蜂在慕尼黑公园海王星雕像旁的树木与灌木中聚集成小团，数十至上百只侦察蜂（Scouts）分散飞往各处勘探潜在筑巢点。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–117)]]
->   - 15:00 乌云密布并降温，蜂群退入灌木丛中过夜；当天下午侦察蜂返回后通过[[Dance Language of Bees|舞蹈语言]]向蜂群汇报了 8 处潜在巢穴（包括窗框裂缝、啄木鸟洞以及树洞等），其中两处获得相对较多关注，但全群远未达成一致。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 117–118)]]
+>   - 13:30 蜜蜂在慕尼黑公园海王星雕像旁的树木与灌木中聚集成小团，数十至上百只侦察蜂分散飞往各处勘探潜在筑巢点。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–117)]]
+>   - 15:00 乌云密布并降温，蜂群退入灌木丛中过夜；当天下午侦察蜂返回后通过[[Dance Language of Bees|蜜蜂舞蹈语言]]向蜂群汇报了 8 处潜在巢穴（包括窗框裂缝、啄木鸟洞以及树洞等），其中两处获得相对较多关注，但全群远未达成一致。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 118)]]
 > - **1951-06-27 — 环境突变、重估辩论与共识涌现**
->   - 次日清晨云开日出，侦察蜂重新出动；由于夜间暴雨可能导致北侧原本热门的巢穴浸水受损，侦察蜂对北侧地点的热情迅速消退，蜂群敏捷调整了评估标准。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 117–119)]]
+>   - 次日清晨云开日出，侦察蜂重新出动；由于夜间暴雨导致北侧原本热门的巢穴浸水受损，侦察蜂对北侧地点的热情迅速消退，蜂群敏捷调整了评估标准。
 >   - 侦察蜂带回第二批候选地点并在群内激烈跳舞游说，跳舞侦察蜂的数量实质上构成了对各巢穴质量的民主投票；最终一处位于 300 米外的优质地点在持续数小时的舞蹈竞争中脱颖而出，持不同意见的少数派侦察蜂逐渐被说服并加入主流候选地的舞蹈队伍。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 119)]]
 > - **1951-06-28 — 达成全员一致与整体起飞迁徙**
->   - 09:40 蜂群在完全消除了反对意见并达成全员共识后，数万只个体在数秒钟内同时振翅起飞，形成壮观的协调飞行流，整齐划一地迁入 300 米外选定的新家园。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 119)]]
+>   - 09:40 蜂群在完全消除了反对意见并达成全员共识后，数万只个体在数秒钟内同时振翅起飞，形成壮观的协调飞行流，整齐划一地迁入 300 米外选定的新家园。
 
 ---
 
