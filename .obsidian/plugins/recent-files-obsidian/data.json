@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Value Neutrality",
+      "path": "wiki/concepts/educational-philosophy/Value Neutrality.md"
+    },
+    {
+      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch07",
+      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch07.md"
+    },
+    {
+      "basename": "Aristotle",
+      "path": "wiki/persons/greece/Aristotle.md"
+    },
+    {
+      "basename": "Technological Agnosticism",
+      "path": "wiki/concepts/ethics-of-technology/Technological Agnosticism.md"
+    },
+    {
       "basename": "Historical Amnesia",
       "path": "wiki/concepts/comparative-education/Historical Amnesia.md"
     },
@@ -9,16 +25,40 @@
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch06.md"
     },
     {
+      "basename": "Max Planck",
+      "path": "wiki/persons/germany/Max Planck.md"
+    },
+    {
+      "basename": "Sigmund Freud",
+      "path": "wiki/persons/austria/Sigmund Freud.md"
+    },
+    {
+      "basename": "Dwight D. Eisenhower",
+      "path": "wiki/persons/us/Dwight D. Eisenhower.md"
+    },
+    {
+      "basename": "Manuel Castells",
+      "path": "wiki/persons/spain/Manuel Castells.md"
+    },
+    {
+      "basename": "Productization of the Mind",
+      "path": "wiki/concepts/higher-education/Productization of the Mind.md"
+    },
+    {
+      "basename": "Buen Vivir",
+      "path": "wiki/concepts/educational-philosophy/Buen Vivir.md"
+    },
+    {
+      "basename": "Mariana Mazzucato",
+      "path": "wiki/persons/italy/Mariana Mazzucato.md"
+    },
+    {
       "basename": "Project Maven",
       "path": "wiki/facts/us/Project Maven.md"
     },
     {
       "basename": "Francis Fukuyama",
       "path": "wiki/persons/us/Francis Fukuyama.md"
-    },
-    {
-      "basename": "Manuel Castells",
-      "path": "wiki/persons/spain/Manuel Castells.md"
     },
     {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch05",
@@ -159,46 +199,6 @@
     {
       "basename": "Science, The Endless Frontier 1945",
       "path": "wiki/facts/us/Science, The Endless Frontier 1945.md"
-    },
-    {
-      "basename": "DARPA",
-      "path": "wiki/facts/us/DARPA.md"
-    },
-    {
-      "basename": "Intellectual Capital",
-      "path": "wiki/concepts/political-economy-geopolitics/Intellectual Capital.md"
-    },
-    {
-      "basename": "Nicholas Zamiska",
-      "path": "wiki/persons/us/Nicholas Zamiska.md"
-    },
-    {
-      "basename": "Alexander Karp",
-      "path": "wiki/persons/us/Alexander Karp.md"
-    },
-    {
-      "basename": "Technological Republic",
-      "path": "wiki/concepts/political-economy-geopolitics/Technological Republic.md"
-    },
-    {
-      "basename": "Jürgen Habermas",
-      "path": "wiki/persons/germany/Jürgen Habermas.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md"
-    },
-    {
-      "basename": "Argument_Stephan_2013_NBER",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Stephan_2013_NBER.md"
-    },
-    {
-      "basename": "Fairchild Semiconductor",
-      "path": "wiki/facts/us/Fairchild Semiconductor.md"
-    },
-    {
-      "basename": "Public Value",
-      "path": "wiki/concepts/science-policy/Public Value.md"
     }
   ],
   "omittedPaths": [],

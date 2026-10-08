@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -36,10 +36,12 @@ related_facts:
   - "[[Science, The Endless Frontier 1945]]"
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
+related_persons:
+  - "[[Dwight D. Eisenhower]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-03
+updated: 2026-10-08
 ---
 
 # National Defense Education Act of 1958
@@ -49,7 +51,7 @@ updated: 2026-10-03
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1958 年 9 月 2 日由美国国会通过并由德怀特·艾森豪威尔总统正式签署生效（公法 P.L. 85-864）。
+> - **发布时间 / 发布主体** 1958 年 9 月 2 日由美国国会通过并由[[Dwight D. Eisenhower|德怀特·艾森豪威尔]]总统正式签署生效（公法 P.L. 85-864）。
 > - **适用地区 / 对象** 全美各州中小学校区、大学及学院、数理化及外语学科教师，以及攻读科学与工程专业的高校学生和研究生。
 > - **问题背景** 1957 年苏联成功发射首颗人造地球卫星（[[Sputnik Shock 1957|Sputnik Shock]]）引发全美震动，朝野普遍产生对美国科技人才储备落后、中小学数理基础教育薄弱的极度国家安全焦虑。
 > - **制度位置** 构成了美国战后联邦教育政策的最高里程碑之一，首次以“国家防御安全”为合法性依托，从根本上打破了美国宪政传统中“联邦不得干预地方教育主权”的百年政治禁忌。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 37)]]
@@ -95,5 +97,5 @@ updated: 2026-10-03
 > |:-----|:-----|:-----|
 > | [[Sputnik Shock 1957]] | Fact (Event) | 直接引发全美危机意识并倒逼国会通过 NDEA 的历史催化事件。 |
 > | [[National Science Foundation]] | Fact (Organization) | NDEA 法案所授权、承担全美科学教育与教材革新重任的核心执行机构。 |
-> | [[President's Science Advisory Committee]] | Fact (Organization) | 艾森豪威尔总统任内为配合 NDEA 出台提供高层战略科技建议的顾问智囊。 |
+> | [[President's Science Advisory Committee]] | Fact (Organization) | [[Dwight D. Eisenhower\|艾森豪威尔]]总统任内为配合 NDEA 出台提供高层战略科技建议的顾问智囊。 |
 > | [[Science, The Endless Frontier 1945]] | Fact (Policy) | 布什报告中倡导联邦资助青年科学奖学金思想的制度化实践延伸。 |

@@ -12,7 +12,7 @@ aliases:
 summary: "由政府部门、中介组织、智库、高校与私有资本等多元行动者交织构成的网状治理结构。在批判政策社会学中揭示国家作为市场缔造者与私营中介协同重构再分配与理念编排的异层治理，在实证治理中测度政务网络规模与互动深度非线性解耦。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 58
+related_count: 59
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Co-affiliation]]"
   - "[[Evidence Ecosystem]]"
+  - "[[Cognitive Decoupling]]"
   - "[[Competitiveness]]"
   - "[[Falsification]]"
   - "[[Boundary Spanner]]"
@@ -90,7 +91,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-17
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Policy Network
@@ -114,7 +115,7 @@ updated: 2026-10-07
 > [!citation-card] 部委政务网络中的非线性解耦
 > 部委定期征询政策输入的组织类别规模与日常互动的实际频率之间并未展现出简单的线性对应关系。广泛的征询名单并不等于深度的循证决策，警惕大网络陷阱要求我们将分析焦点从形式化的网络规模转向高频、实质性的人际与制度互动（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, p. 85]]）。
 >
-> *The size of a ministry's consultation network does not automatically correlate with the intensity or depth of interaction; formal breadth often masks substantive decoupling in evidence exchange.*
+> *The size of a ministry's consultation network does not automatically correlate with the intensity or depth of interaction; formal breadth often masks substantive [[Cognitive Decoupling|decoupling]] in evidence exchange.*
 
 > [!boundary]- 概念边界
 > - 不等于传统官僚制（Bureaucracy） — 官僚制依赖严格的层级行政指令和法定的公共问责链条；政策网络依赖人事穿梭、资金资助与知识垄断建构的网状共识。

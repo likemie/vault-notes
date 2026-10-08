@@ -8,7 +8,7 @@ summary: "加拿大裔美国社会学家，微观社会学与拟剧论先驱；�
 type: person
 nationality: global
 person_region: "global"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Michael Gove]]"
+  - "[[Horace Mann]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31]]"
@@ -51,7 +52,7 @@ updated: 2026-10-08
 ## 简介
 
 > [!person-profile] 机构生活研究的概念与材料贡献
-> - **身份位置** 厄文·[[Michael Gove|戈夫]]曼（Erving Goffman）是微观社会学、[[Symbolic Interactionism|符号互动论]]与拟剧论的代表学者，在机构生活研究中提供[[Total Institution|全控机构]]及去人格化过程的概念资源。
+> - **身份位置** 厄文·[[Michael Gove|戈夫]][[Horace Mann|曼]]（Erving Goffman）是微观社会学、[[Symbolic Interactionism|符号互动论]]与拟剧论的代表学者，在机构生活研究中提供[[Total Institution|全控机构]]及去人格化过程的概念资源。
 > - **核心角色** 将集中管理的日常生活与成员对私人物品、空间和身份的维护联系起来。
 > - **代表贡献** 提出全控机构（Total Institution）概念，其著作《收容所》（*Asylums*, 1961）中的机构生活叙事为[[Boarding Schools|寄宿学校]]、监狱及现代封闭式大学行政文化的批判性分析提供观察问题。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.3)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 64–65)]]
 

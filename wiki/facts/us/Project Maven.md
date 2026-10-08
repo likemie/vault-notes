@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -24,18 +24,17 @@ tags:
   - theme/technology-policy
   - theme/ethics-of-technology
 related_concepts:
-  - "[[Generative Artificial Intelligence]]"
-  - "[[Winner's Fallacy]]"
+  - "[[Value Neutrality]]"
   - "[[Hard Power]]"
-  - "[[Technological Republic]]"
-  - "[[Technological Agnosticism]]"
+  - "[[Historical Amnesia]]"
   - "[[Cult of Optionality]]"
+  - "[[Technological Agnosticism]]"
+  - "[[Winner's Fallacy]]"
+  - "[[Technological Republic]]"
   - "[[Culture of Disbelief]]"
-  - "[[Productization of the Mind]]"
 related_persons:
-  - "[[Alexander Karp]]"
-  - "[[Nicholas Zamiska]]"
   - "[[Mariana Mazzucato]]"
+  - "[[Alexander Karp]]"
 related_facts:
   - "[[DARPA]]"
 related_arguments:
@@ -73,9 +72,9 @@ updated: 2026-10-08
 > | 比较维度 | 硅谷商业消费技术模式（Big Tech） | 国家安全与防务技术模式（Project Maven） |
 > |---|---|---|
 > | **核心价值导向** | 用户注意力变现、广告点击率最大化与股东回报 | 捍卫民主宪政安全、地缘战略威慑与一线作战人员生命保护 |
-> | **技术使用伦理** | 高额变现用户个人数据，却以“价值中立”为由逃避防卫责任 | 将算法转化为保护公共利益的[[Hard Power|硬实力]]盾牌 |
-> | **历史渊源认知** | 患上“历史健忘症”，将技术突破归为纯市场自由竞争产物 | 继承冷战时期军工科研与 [[DARPA]] 战略资助的底层创新传统 |
-> | **精英行为特征** | 深陷[[Cult of Optionality|选择权崇拜]]与[[Technological Agnosticism|技术不可知论]]，拒绝做出排他性政治承诺 | 要求工程共同体直面地缘现实挑战，承担不可逆的防卫责任 |
+> | **技术使用伦理** | 高额变现用户个人数据，却以“[[Value Neutrality\|价值中立]]”为由逃避防卫责任 | 将算法转化为保护公共利益的[[Hard Power\|硬实力]]盾牌 |
+> | **历史渊源认知** | 患上“[[Historical Amnesia\|历史健忘症]]”，将技术突破归为纯市场自由竞争产物 | 继承冷战时期军工科研与 [[DARPA]] 战略资助的底层创新传统 |
+> | **精英行为特征** | 深陷[[Cult of Optionality\|选择权崇拜]]与[[Technological Agnosticism\|技术不可知论]]，拒绝做出排他性政治承诺 | 要求工程共同体直面地缘现实挑战，承担不可逆的防卫责任 |
 
 ---
 
@@ -104,7 +103,7 @@ updated: 2026-10-08
 > [!claim] 时代定性与制度反思
 > 梅文项目抵制风波是后冷战时期西方科技精英与国家安全防务体制全面脱节的标志性历史事件。该事件集中暴露出三大深层危机：
 > 1. **[[Technological Agnosticism|技术不可知论]]与责任逃避** 科技巨头热衷于通过搜索广告将用户数据高额变现，却在事关国家生存的集体防卫面前自诩超脱，以抽象道德中立掩盖对母国责任的回避（pp. 74–75）；
-> 2. **历史健忘症与契约断裂** 正如[[Mariana Mazzucato|玛丽安娜·马祖卡托]]在《企业型国家》中所揭示，硅谷彻底遗忘了互联网、微处理器与现代数字技术的底层研发资金完全来自于冷战时期军方与 [[DARPA]] 的战略投入；
+> 2. **[[Historical Amnesia|历史健忘症]]与契约断裂** 正如[[Mariana Mazzucato|玛丽安娜·马祖卡托]]在《企业型国家》中所揭示，硅谷彻底遗忘了互联网、微处理器与现代数字技术的底层研发资金完全来自于冷战时期军方与 [[DARPA]] 的战略投入；
 > 3. **[[Winner's Fallacy|胜者谬误]]的现实破灭** 误以为和平与安全是无需成本的天然背景板，拒绝将最先进的算力转化为保护自由社会的实质[[Hard Power|硬实力]]。
 
 ---
@@ -122,5 +121,5 @@ updated: 2026-10-08
 > | [[Technological Republic]] | 概念 | 理论对照，揭示科技企业退出防务工程对现代技术共和国政产学研协同传统的侵蚀。 |
 > | [[Culture of Disbelief]] | 概念 | 文化背景，反映受教育精英阶层在不信文化冲刷下丧失崇高国家信念的虚无状态。 |
 > | [[Alexander Karp]] | 人物 | 关键行动者，其领导的帕兰提尔在传统大厂退出后坚决承接防务 AI 研发并捍卫国家安全。 |
-> | [[Mariana Mazzucato]] | 人物 | 理论参照，其关于国家在底层突破中引领作用的洞见揭露了硅谷历史健忘症。 |
+> | [[Mariana Mazzucato]] | 人物 | 理论参照，其关于国家在底层突破中引领作用的洞见揭露了硅谷[[Historical Amnesia\|历史健忘症]]。 |
 > | [[DARPA]] | 事实 | 历史参照，奠定现代计算与互联网基础的国防机构，构成梅文项目的制度源流。 |

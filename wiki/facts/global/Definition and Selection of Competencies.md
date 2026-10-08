@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Paradigm]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Cognitive Decoupling]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Soft Power]]"
 related_theories: []
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-29
+updated: 2026-10-08
 ---
 
 # Definition and Selection of Competencies
@@ -161,7 +162,7 @@ updated: 2026-09-29
 >
 > [!lessons] 经验教训与启示
 > - **理论建构的政治生命力** DeSeCo 的成功表明，国际组织必须依托长周期的跨[[Discipline-Based Theory|学科基础理论]]沉淀，才能为后续的大规模指标规制赢得长达数十年的学理合法性。
-> - **主权政策转译的异化风险** 顶层概念极易被主权国家作为推卸本土改革争议的“外部合法化盾牌”，引发名义采纳与实践脱嵌（Decoupling）。
+> - **主权政策转译的异化风险** 顶层概念极易被主权国家作为推卸本土改革争议的“外部合法化盾牌”，引发名义采纳与实践脱嵌（[[Cognitive Decoupling|decoupling]]）。
 
 ---
 

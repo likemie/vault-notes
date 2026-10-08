@@ -7,10 +7,10 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic"
 argument_display_title: "The Technological Republic: Hard Power, Soft Belief, and the Future of the West"
 argument_kind: "book"
-argument_related_count: 67
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
-argument_related_color: "#ede9fe"
+argument_related_count: 81
+argument_related_level: 5
+argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_color: "#fecdd3"
 authors:
   - "[[Alexander Karp|Karp, A. C.]]"
   - "[[Nicholas Zamiska|Zamiska, N. W.]]"
@@ -54,6 +54,17 @@ related_concepts:
   - "[[Total Institution]]"
   - "[[Anaconda in the Chandelier]]"
   - "[[Heckler's Veto]]"
+  - "[[Technological Agnosticism]]"
+  - "[[Cult of Optionality]]"
+  - "[[Culture of Disbelief]]"
+  - "[[Productization of the Mind]]"
+  - "[[Establishment Caste]]"
+  - "[[The Right and the Good]]"
+  - "[[Revoicing]]"
+  - "[[Western Civilization Course]]"
+  - "[[Canon Wars]]"
+  - "[[Civic Religion]]"
+  - "[[Cognitive Decoupling]]"
   - "[[Document]]"
 related_persons:
   - "[[Alexander Karp]]"
@@ -85,14 +96,32 @@ related_persons:
   - "[[Michael Sandel]]"
   - "[[Allan Bloom]]"
   - "[[Erving Goffman]]"
+  - "[[E. Digby Baltzell]]"
+  - "[[Ágnes Heller]]"
+  - "[[Amy Gutmann]]"
+  - "[[Manuel Castells]]"
+  - "[[Stephen L. Carter]]"
+  - "[[Mariana Mazzucato]]"
+  - "[[Fredric L. Cheyette]]"
+  - "[[William H. McNeill]]"
+  - "[[Kwame Anthony Appiah]]"
+  - "[[Samuel P. Huntington]]"
+  - "[[Edward Said]]"
+  - "[[Pankaj Mishra]]"
+  - "[[Niall Ferguson]]"
+  - "[[Nate Silver]]"
+  - "[[Winston Churchill]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07]]"
 related_theories:
   - "[[Organizational Culture]]"
+  - "[[Orientalism]]"
 related_facts:
   - "[[Autonomous Drone Swarms]]"
   - "[[Dartmouth Summer Research Project on Artificial Intelligence]]"
@@ -105,6 +134,8 @@ related_facts:
   - "[[Skokie Free Speech Case]]"
   - "[[Checkers Speech]]"
   - "[[2023 Congressional Hearing on Campus Antisemitism]]"
+  - "[[1968 Stanford Western Civ Reform]]"
+  - "[[Huntington-Wallace Line]]"
 status: draft
 created: '2026-10-07'
 updated: '2026-10-08'
@@ -178,8 +209,8 @@ updated: '2026-10-08'
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03\|第3章 The Winner’s Fallacy]] | Part I: The Software Century；原书 pp. 29–36。剖析冷战后西方滋生的[[Winner's Fallacy\|胜者谬误]]与安全无成本自满，援引[[Thomas Schelling\|托马斯·谢林]]博弈论阐明伤害能力即谈判筹码与基于软件的[[Hard Power\|硬实力]]命题，批判硅谷抵制[[Project Maven\|梅文项目]]与[[Microsoft IVAS Contract Protest\|微软IVAS合同抗议]]的道德疏离与契约背叛，剖析[[Autonomous Drone Swarms\|自主无人机蜂群]]重构战场的紧迫性，呼吁重温1939年爱因斯坦信函开创的政产研结盟传统。 | [[Winner's Fallacy\|胜者谬误]]、[[Hard Power\|硬实力]]、[[Thomas Schelling\|托马斯·谢林]]、[[Francis Fukuyama\|福山]]、[[Project Maven\|梅文项目]]、[[Microsoft IVAS Contract Protest\|微软IVAS合同抗议]]、[[Autonomous Drone Swarms\|自主无人机蜂群]]、[[Einstein-Szilard Letter\|爱因斯坦信函]] |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04\|第4章 End of the Atomic Age]] | Part I: The Software Century；原书 pp. 37–54。宣告原子时代走向终结与软件世纪降临，指出软硬件支配关系发生根本逆转（软件居指挥中枢、硬件沦为执行载体）；剖析欧洲[[Bonsai Army\|盆景军队]]与日本[[Article 9 of the Japanese Constitution\|宪法第九条]]导致的地缘均势脆弱化，批判国防部 AI 预算仅占 0.2% 与旧动能军备惰性；揭示硅谷[[Big Idea Famine\|大构想饥荒]]、[[Total Factor Productivity\|全要素生产率]]放缓与避险消费主义，解构[[Moral Dualism\|道德二元论]]，呼吁启动战场 AI 新[[Manhattan Project\|曼哈顿工程]]并组建技术和平队以维护[[Long Peace\|长和平]]。 | [[Bonsai Army\|盆景军队]]、[[Big Idea Famine\|大构想饥荒]]、[[Moral Dualism\|道德二元论]]、[[Long Peace\|长和平]]、[[Total Factor Productivity\|全要素生产率]]、[[Manhattan Project\|曼哈顿工程]]、[[Article 9 of the Japanese Constitution\|日本国宪法第九条]]、[[John Lewis Gaddis\|加迪斯]]、[[Robert J. Gordon\|戈登]]、[[Erich Ludendorff\|鲁登道夫]]、[[Josep Borrell\|博雷利]]、[[David Graeber\|格雷伯]]、[[Nicholas Negroponte\|尼葛洛庞帝]]、[[Anne Applebaum\|阿普尔鲍姆]]、[[Steven Pinker\|平克]]、[[Elon Musk\|马斯克]]、[[Peter Thiel\|蒂尔]]、[[Paulo Freire\|弗莱雷]] |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05\|第5章 The Abandonment of Belief]] | Part II: The Hollowing Out of the American Mind；原书 pp. 57–68。开启专著第二部，对比[[Skokie Free Speech Case\|斯科基案]]与 1963 年耶鲁信函中捍卫言论自由的“硬信念”，批判 2023 年国会反犹听证会上大学校长的合规法务话术；揭示[[Checkers Speech\|跳棋演讲]]与[[Goldfish Bowl Politics\|金鱼缸政治]]对实干精英的逆向淘汰，剖析硅谷虚无主义与商业营销篡夺道德指导权；借助[[Total Institution\|全控机构]]、阿兰·布鲁姆《走向封闭的美国精神》、[[Anaconda in the Chandelier\|吊灯里的巨蟒]]与桑德尔社群主义，揭露程序中立造成的道德真空。 | [[Heckler's Veto\|起哄者否决]]、[[Goldfish Bowl Politics\|金鱼缸政治]]、[[Anaconda in the Chandelier\|吊灯里的巨蟒]]、[[Total Institution\|全控机构]]、[[Aryeh Neier\|阿里耶·内尔]]、[[Pauli Murray\|保利·默里]]、[[Michael Sandel\|迈克尔·桑德尔]]、[[Allan Bloom\|阿兰·布鲁姆]]、[[Erving Goffman\|厄文·戈夫曼]]、[[Skokie Free Speech Case\|斯科基言论自由案]]、[[2023 Congressional Hearing on Campus Antisemitism\|2023年国会高校反犹听证会]]、[[Checkers Speech\|跳棋演讲]] |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06\|第6章 Technological Agnostics]] | Part II: The Hollowing Out of the American Mind；原书 pp. 69–82。剖析硅谷科技精英的技术不可知论与选择权崇拜，批判世界主义脱嵌与不信文化对崇高价值的消解；通过哈佛毕业生涌向金融咨询业与人文学科腰斩揭示心智产品化，对比F-35实体供应链与西海岸21万亿科技资本垄断，援引巴尔策尔论统治集团种姓化与赫勒论正当与善的失衡，呼吁重铸共同体硬信念。 | [[Technological Agnosticism\|技术不可知论]]、[[Cult of Optionality\|选择权崇拜]]、[[The Right and the Good\|正当与善]]、[[Culture of Disbelief\|不信文化]]、[[Establishment Caste\|统治集团种姓化]]、[[Productization of the Mind\|心智产品化]]、[[Amy Gutmann\|艾米·古特曼]]、[[Manuel Castells\|曼努埃尔·卡斯特尔斯]]、[[Stephen L. Carter\|斯蒂芬·卡特]]、[[Mariana Mazzucato\|马祖卡托]]、[[E. Digby Baltzell\|巴尔策尔]]、[[Ágnes Heller\|阿格妮丝·赫勒]]、[[Francis Fukuyama\|福山]] |
-> | 第7章 A Balloon Cut Loose | Part II: The Hollowing Out of the American Mind；原书 pp. 83–96。[Ch07_A_Balloon_Cut_Loose.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch07_A_Balloon_Cut_Loose.txt)。待解读。 | — |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06\|第6章 Technological Agnostics]] | Part II: The Hollowing Out of the American Mind；原书 pp. 69–82。剖析硅谷科技精英的[[Technological Agnosticism\|技术不可知论]]与[[Cult of Optionality\|选择权崇拜]]，批判世界主义脱嵌与[[Culture of Disbelief\|不信文化]]对崇高价值的消解；通过哈佛毕业生涌向金融咨询业与人文学科腰斩揭示[[Productization of the Mind\|心智产品化]]，对比F-35实体供应链与西海岸21万亿科技资本垄断，援引[[E. Digby Baltzell\|巴尔策尔]]论[[Establishment Caste\|统治集团种姓化]]与[[Ágnes Heller\|赫勒]]论[[The Right and the Good\|正当与善]]的失衡，呼吁[[Revoicing\|重铸]]共同体[[Hard Belief\|硬信念]]。 | [[Technological Agnosticism\|技术不可知论]]、[[Cult of Optionality\|选择权崇拜]]、[[The Right and the Good\|正当与善]]、[[Culture of Disbelief\|不信文化]]、[[Establishment Caste\|统治集团种姓化]]、[[Productization of the Mind\|心智产品化]]、[[Amy Gutmann\|艾米·古特曼]]、[[Manuel Castells\|曼努埃尔·卡斯特尔斯]]、[[Stephen L. Carter\|斯蒂芬·卡特]]、[[Mariana Mazzucato\|马祖卡托]]、[[E. Digby Baltzell\|巴尔策尔]]、[[Ágnes Heller\|阿格妮丝·赫勒]]、[[Francis Fukuyama\|福山]] |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07\|第7章 A Balloon Cut Loose]] | Part II: The Hollowing Out of the American Mind；原书 pp. 83–96。系统剖析战后大学[[Western Civilization Course\|西方文明通识课]]的退潮与[[Canon Wars\|经典之争]]，揭示切耶特、阿皮亚与萨义德对大叙事的解构如何瓦解了作为[[Civic Religion\|公民宗教]]的国家认同，批判后殖民话语建制化与身份政治对客观真理的侵蚀，援引弗格森经济实证与内特·银论事实与价值的[[Cognitive Decoupling\|认知脱钩]]能力，揭示断线气球造成的薄弱归属感与硅谷科技精英政治虚无的深层根源。 | [[Western Civilization Course\|西方文明通识课程]]、[[Canon Wars\|经典之争]]、[[Civic Religion\|公民宗教]]、[[Cognitive Decoupling\|认知脱钩]]、[[Orientalism\|东方主义]]、[[Fredric L. Cheyette\|切耶特]]、[[William H. McNeill\|麦克尼尔]]、[[Kwame Anthony Appiah\|阿皮亚]]、[[Samuel P. Huntington\|亨廷顿]]、[[Edward Said\|萨义德]]、[[Pankaj Mishra\|米什拉]]、[[Niall Ferguson\|弗格森]]、[[Nate Silver\|内特·银]]、[[Winston Churchill\|丘吉尔]]、[[1968 Stanford Western Civ Reform\|斯坦福废除西方文明课]]、[[Huntington-Wallace Line\|亨廷顿-华莱士线]] |
 > | 第8章 “Flawed Systems” | Part II: The Hollowing Out of the American Mind；原书 pp. 97–102。[Ch08_Flawed_Systems.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch08_Flawed_Systems.txt)。待解读。 | — |
 > | 第9章 Lost in Toyland | Part II: The Hollowing Out of the American Mind；原书 pp. 103–111。[Ch09_Lost_in_Toyland.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch09_Lost_in_Toyland.txt)。待解读。 | — |
 > | 第10章 The Eck Swarm | Part III: The Engineering Mindset；原书 pp. 115–121。[Ch10_The_Eck_Swarm.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch10_The_Eck_Swarm.txt)。待解读。 | — |

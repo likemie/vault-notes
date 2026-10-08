@@ -8,7 +8,7 @@ aliases:
 summary: "指当代精英青年与专业阶层过度追求保留退路与最大化未来可能性，从而系统性规避做出不可逆承诺、亮明明确立场或承担现实冒险后果的心智与行为模式。"
 type: concept
 domain: "sociology-of-education"
-related_count: 9
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,21 +18,19 @@ tags:
   - theme/careerism
   - theme/higher-education
 related_concepts:
-  - "[[Productization of the Mind]]"
-  - "[[Technological Agnosticism]]"
-  - "[[Hard Belief]]"
-  - "[[Establishment Caste]]"
-  - "[[The Right and the Good]]"
+  - "[[Attrition]]"
+  - "[[Variable]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
+  - "[[Longitudinal Study]]"
+  - "[[Correlational Research]]"
 related_instruments: []
-related_persons:
-  - "[[Alexander Karp]]"
-  - "[[Nicholas Zamiska]]"
-  - "[[Amy Gutmann]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
 status: draft
 created: 2026-10-08
@@ -76,9 +74,9 @@ updated: 2026-10-08
 ### 命题一　选择权最大化驱动精英人才从实体创造向金融与咨询等中介行业群体性漂移
 
 > [!concept-lens] 职业流动与社会资本分配
-> 考察选择权崇拜如何深刻扭曲高等教育的人才导向，导致顶尖智力资源从前沿工程、人文学科与公共治理领域流失。
+> 考察选择权崇拜如何深刻扭曲高等教育的人才导向，导致顶尖智力资源从前沿工程、人文学科与公共治理领域[[Attrition|流失]]。
 
-> [!claim] Karp & Zamiska (2025)
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
 > **智力资源的避险转移** 对选择权的无休止追逐导致当代最优秀的一代头脑普遍游离于重大历史与现实问题之外；哈佛大学等顶尖学府毕业生近半数涌向金融与管理咨询业，正是选择权崇拜在职业选择中的制度化体现。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 75–76)]]
 
 ---
@@ -88,7 +86,7 @@ updated: 2026-10-08
 > [!concept-lens] 创新心理与失败机制
 > 探讨真正的开创性成就为何必须以断绝退路、承担实质性失败为前提。
 
-> [!claim] Karp & Zamiska (2025)
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
 > **断绝退路作为卓越创新的前提** 真正的成功或具有启发意义的失败，要求行动者近乎不顾一切地投身于某项事业；无处不在的备用计划与妥协本能消解了年轻人的智识勇气，使其沦为平庸的履历制造者。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 70)]]
 
 ---
@@ -98,8 +96,8 @@ updated: 2026-10-08
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **职业漂移命题** | 选择权崇拜将精英推向低风险、高流动的金融咨询业 | 高等教育就业偏好、精英大学职业发展 | Karp & Zamiska (2025); Barton (2023) |
-> | **创新抑制命题** | 拒绝排他性承诺与风险承担阻碍颠覆性创新与心智成熟 | 青年创业、科研攻关、领导力培育 | Karp & Zamiska (2025) |
+> | **职业漂移命题** | 选择权崇拜将精英推向低风险、高流动的金融咨询业 | 高等教育就业偏好、精英大学职业发展 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025)]]; Barton (2023) |
+> | **创新抑制命题** | 拒绝排他性承诺与风险承担阻碍颠覆性创新与心智成熟 | 青年创业、科研攻关、领导力培育 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025)]] |
 
 ---
 
@@ -108,13 +106,13 @@ updated: 2026-10-08
 > [!ref-table]- 哈佛大学毕业生进入金融与咨询业的长期演变趋势
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06\|Karp & Zamiska (2025)]] / Barton (2023) | 1971–2023 年哈佛大学本科应届毕业生 | 毕业生就业流向长期纵向调查分析 | 进入金融（Finance）与管理咨询（Consulting）行业比例 | 1971 年仅占 6%；1970–1980 年代稳步上升；2007 年金融危机前夕达到 47%；2023 年应届毕业生中接近半数（近 50%）选择金融与咨询业 | 调查样本与校友追踪数据 — | 证实选择权崇拜与功利职业主义对顶尖大学毕业生的深度锁定 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06\|Karp & Zamiska (2025)]] / Barton (2023) | 1971–2023 年哈佛大学本科应届毕业生 | 毕业生就业流向长期[[Longitudinal Study\|纵向调查]]分析 | 进入金融（Finance）与管理咨询（Consulting）行业比例 | 1971 年仅占 6%；1970–1980 年代稳步上升；2007 年金融危机前夕达到 47%；2023 年应届毕业生中接近半数（近 50%）选择金融与咨询业 | 调查样本与校友追踪数据 — | 证实选择权崇拜与功利职业主义对顶尖大学毕业生的深度锁定 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Karp & Zamiska (2025)]] — 专著第6章，剖析选择权崇拜对青年科技精英与大学毕业生的心智束缚。

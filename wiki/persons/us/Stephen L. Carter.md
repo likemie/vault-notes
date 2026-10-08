@@ -22,14 +22,14 @@ tags:
   - theme/free-speech
 related_concepts:
   - "[[Culture of Disbelief]]"
+  - "[[Discourse]]"
   - "[[Hard Belief]]"
-  - "[[The Right and the Good]]"
-related_theories: []
-related_methods: []
+related_theories:
+  - "[[Pluralism]]"
+related_methods:
+  - "[[Analytic Framework]]"
 related_instruments: []
-related_persons:
-  - "[[Alexander Karp]]"
-  - "[[Nicholas Zamiska]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"
@@ -65,14 +65,14 @@ updated: 2026-10-08
 > - **1979** 毕业于耶鲁大学法学院，获法学博士（J.D.）学位。
 > - **1980–1981** 担任美国联邦最高法院大法官瑟古德·马歇尔（Thurgood Marshall）的法官助理。
 > - **1982 至今** 任教于耶鲁大学法学院，讲授宪法学、知识产权法与职业伦理学。
-> - **1993** 出版里程碑式著作《不信文化：美国法律与政治如何琐碎化宗教虔诚》（*The Culture of Disbelief*）。
+> - **1993** 出版里程碑式著作《[[Culture of Disbelief|不信文化]]：美国法律与政治如何琐碎化宗教虔诚》（*The Culture of Disbelief*）。
 
 ---
 
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1993 — *The Culture of Disbelief: How American Law and Politics Trivialize Religious Devotion*** 揭示美国法律与世俗精英如何通过中立话语将宗教信念排挤出严肃公共讨论。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 72)]]
+> - **1993 — *[[Culture of Disbelief|The Culture of Disbelief]]: How American Law and Politics Trivialize Religious Devotion*** 揭示美国法律与世俗精英如何通过中立[[Discourse|话语]]将宗教信念排挤出严肃公共讨论。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 72)]]
 > - **1996 — *Integrity*** 深入探讨正直、诚实与承担道德代价在现代社会中的哲学意义。
 > - **1998 — *Civility: Manners, Morals, and the Etiquette of Democracy*** 论述公民礼仪与公共对话在维系民主共同体中的基石作用。
 
@@ -81,7 +81,7 @@ updated: 2026-10-08
 ## 核心思想
 
 > [!claim] 核心主张
-> 斯蒂芬·L. 卡特（Stephen L. Carter）主张，真正的多元主义与言论自由必须允许公民基于真诚的宗教与道德信念参与公共辩论。他坚决反对将一切道德主张强行折叠为冷冰冰的法条与技术合规，警示过度世俗化会导致公共生活丧失崇高的道德动力，最终使民主政体异化为平庸自利的竞技场。
+> 斯蒂芬·L. 卡特（Stephen L. Carter）主张，真正的[[Pluralism|多元主义]]与言论自由必须允许公民基于真诚的宗教与道德信念参与公共辩论。他坚决反对将一切道德主张强行折叠为冷冰冰的法条与技术合规，警示过度世俗化会导致公共生活丧失崇高的道德动力，最终使民主政体异化为平庸自利的竞技场。
 
 ---
 
@@ -91,5 +91,5 @@ updated: 2026-10-08
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Culture of Disbelief]] | 概念 | 提出并奠定了不信文化的理论分析框架。 |
+> | [[Culture of Disbelief]] | 概念 | 提出并奠定了不信文化的[[Analytic Framework\|理论分析框架]]。 |
 > | [[Hard Belief]] | 概念 | 为探讨承担现实代价的崇高信念提供了法律哲学维度的支持。 |

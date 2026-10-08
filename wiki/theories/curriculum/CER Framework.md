@@ -6,7 +6,7 @@ aliases:
 summary: "Katherine McNeill 与 Joseph Krajcik 提出的科学论证教学与评估框架，将科学解释解构为主张、证据与推理三个核心部件，是基础教育中广泛应用的学习进阶支架。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -38,6 +38,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[William H. McNeill]]"
   - "[[Clark A. Chinn]]"
 related_facts: []
 related_arguments:
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-09-22
+updated: 2026-10-08
 ---
 
 # CER Framework
@@ -58,7 +59,7 @@ updated: 2026-09-22
 > - **解释对象** K-12 阶段科学课堂中学生的论辩写作与[[Scientific Explanation\|科学解释建构]]：学生如何围绕科学问题提出观点、调取数据并借助科学原理予以说明。
 > - **理论问题** 传统科学教学侧重[[Rote Learning\|死记硬背]]事实知识，忽视科学实践；[[Toulmin's Argumentation Model\|图尔敏论证模型]]（TAP）结构繁复（保证、支撑、限定词等概念对中小学生而言过于晦涩难懂），亟需一套教学法上更友好、可操作的论证支架。
 > - **理论类型** 课程与教学设计框架（Curricular and Pedagogical Framework），属于中层教学模型与评估工具。
-> - **知识位置** 由凯瑟琳·麦克尼尔（Katherine L. McNeill）与约瑟夫·克拉伊奇克（Joseph S. Krajcik）在 2000 年代中后期系统确立，代表作为 *Supporting Grade 5-8 Students in Constructing Explanations in Science: The Claim, Evidence, and Reasoning Framework for Talk and Writing*（2012）。
+> - **知识位置** 由凯瑟琳·[[William H. McNeill|麦克尼尔]]（Katherine L. McNeill）与约瑟夫·克拉伊奇克（Joseph S. Krajcik）在 2000 年代中后期系统确立，代表作为 *Supporting Grade 5-8 Students in Constructing Explanations in Science: The Claim, Evidence, and Reasoning Framework for Talk and Writing*（2012）。
 
 > [!claim] 核心主张
 > 科学论证与解释可以被提炼为一个由三个紧密相连的核心部件构成的极简结构：**主张**（对科学问题的回答或结论）、**证据**（支持主张的科学测量数据或观察事实）与**推理**（阐明证据为何能够支持主张的科学原理与逻辑链条）。通过提供显式[[Scaffolding\|教学支架]]与评分量表，该框架能够有效帮助中小学生从单纯给出现象结论，转变为能够用证据与原理解释科学因果机制的论辩者。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 202–204)]]

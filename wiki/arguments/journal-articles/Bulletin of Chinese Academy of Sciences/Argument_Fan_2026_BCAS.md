@@ -53,6 +53,7 @@ related_persons:
   - "[[Sheila Slaughter]]"
   - "[[Michael Kratsios]]"
   - "[[Vannevar Bush]]"
+  - "[[Dwight D. Eisenhower]]"
   - "[[Donald Stokes]]"
 related_facts:
   - "[[Office of Scientific Research and Development]]"
@@ -84,7 +85,7 @@ title: "Argument_Fan_2026_BCAS"
 argument_key: "Argument_Fan_2026_BCAS"
 argument_display_title: "科学还是无止境的边疆吗——从“科学的社会契约”看美国科学政策的过去与未来"
 argument_kind: "journal-article"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -200,7 +201,7 @@ journal: "中国科学院院刊"
 > [!event-context] 人造卫星危机促发国家竞争的技术化转向（p. 1058）
 > - **危机触发** 1957 年 10 月苏联发射第一颗人造地球卫星（[[Sputnik Shock 1957|Sputnik Shock]]），击碎了美国科技绝对领先的安全幻觉。
 > - **战略共识** 美国决策层深刻认识到，冷战胜负取决于依托科研创新、教育体系和顶尖科技储备的综合国力竞争。
-> - **政治行动** 艾森豪威尔总统直接在白宫设立全职总统科学顾问，组建[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC），全面开启国家竞争技术化纪元。
+> - **政治行动** [[Dwight D. Eisenhower|艾森豪威尔]]总统直接在白宫设立全职总统科学顾问，组建[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC），全面开启国家竞争技术化纪元。
 
 #### 2. 国家安全统摄下维系高自治与高资助的五大制度支柱
 
@@ -371,7 +372,7 @@ journal: "中国科学院院刊"
 ## 关键引用
 
 > [!citation-card] 高自治与高嵌入的冷战治理巅峰
-> 艾森豪威尔总统组建美国[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC），学术精英直接参与核威慑、导弹防御与航天工程最高决策；在微观层面，立项与评价完全依托同行评议，政府不干涉研究细节。（p. 1058）
+> [[Dwight D. Eisenhower|艾森豪威尔]]总统组建美国[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC），学术精英直接参与核威慑、导弹防御与航天工程最高决策；在微观层面，立项与评价完全依托同行评议，政府不干涉研究细节。（p. 1058）
 >
 > *President Eisenhower established the President's Science Advisory Committee (PSAC), allowing academic elites to participate directly in highest-level decisions on nuclear deterrence, missile defense, and aerospace engineering; at the micro level, project selection and evaluation relied entirely on peer review, with the government refraining from interfering in research details.*
 

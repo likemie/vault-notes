@@ -5,17 +5,17 @@ aliases:
   - 哈贝马斯
   - J. Habermas
   - Habermas, J.
-summary: 德国当代哲学家与社会理论家，法兰克福学派第二代领袖，系统提出交往行动理论、公共领域结构转型、三种知识构成性兴趣学说与晚期资本主义合法化危机理论，深刻重塑了批判教育学、实证主义批判与现代国家治理合法性分析。
+summary: "德国当代哲学家与社会理论家，法兰克福学派第二代领袖，系统提出交往行动理论、公共领域结构转型、三种知识构成性兴趣学说与晚期资本主义合法化危机理论，深刻重塑了批判教育学、实证主义批判与现代国家治理合法性分析。"
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 48
+person_related_count: 49
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
 born: "1929"
 died: ""
-lifespan: 1929–至今
+lifespan: "1929–至今"
 tags:
   - person/philosopher
   - person/social-theorist
@@ -65,6 +65,7 @@ related_instruments: []
 related_persons:
   - "[[Immanuel Kant]]"
   - "[[Thomas Schelling]]"
+  - "[[Max Planck]]"
   - "[[Marc-Antoine Jullien]]"
   - "[[Victor Cousin]]"
   - "[[Horace Mann]]"
@@ -84,7 +85,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Jürgen Habermas
@@ -118,7 +119,7 @@ updated: 2026-10-07
 > - **1956–1959** 进入法兰克福社会研究所担任霍克海默（Max Horkheimer）与阿多诺（Theodor W. Adorno）的高级研究助手，深入吸收早期法兰克福学派的[[Critical Theory|批判理论]]传统。
 > - **1962** 出版教授资格论文《公共领域的结构转型》（*Strukturwandel der Öffentlichkeit*），开创性地考掘资产阶级公共领域的形成机理，并警示资本与大众传媒垄断导致的再封建化（re-feudalization）危机。
 > - **1964–1971** 接替霍克海默出任法兰克福大学哲学与社会学教授；1968 年出版《认识与兴趣》（*Erkenntnis und Interesse*），系统提出三种知识构成性兴趣，向[[Positivism|实证主义]][[Epistemology|认识论]]发起全面总决战。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, Ch. 2)]]
-> - **1971–1981** 出任施塔恩贝格马克斯·普朗克科学技术世界生活条件研究所所长；1973 年发表《晚期资本主义的合法化问题》（*Legitimationsprobleme im Spätkapitalismus*），提出著名的[[Legitimation Crisis|合法化危机]]（Legitimation Crisis）分析模型。
+> - **1971–1981** 出任施塔恩贝格[[Max Planck|马克斯·普朗克]]科学技术世界生活条件研究所所长；1973 年发表《晚期资本主义的合法化问题》（*Legitimationsprobleme im Spätkapitalismus*），提出著名的[[Legitimation Crisis|合法化危机]]（Legitimation Crisis）分析模型。
 > - **1980** 荣获阿多诺奖，发表里程碑式演讲《现代性——一项未完成的工程》（*Die Moderne: Ein unvollendetes Projekt*），开启与[[Postmodernism|后现代主义]]思潮长达数十年的跨国辩论。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 25)]]
 > - **1981** 出版两卷本代表巨著《交往行动理论》（*Theorie des kommunikativen Handelns*），完成批判理论从意识哲学向语言与交往哲学的[[Paradigm|范式]]飞跃。
 > - **1983–1994** 重返法兰克福大学任教直至荣休；相继出版《现代性的哲学[[Discourse|话语]]》（1985）与《在事实与规范之间》（1992），深化商谈民主与法哲学建构。

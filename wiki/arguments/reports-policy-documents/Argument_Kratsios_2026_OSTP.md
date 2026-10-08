@@ -99,6 +99,7 @@ related_persons:
   - "[[Vannevar Bush]]"
   - "[[Donald Stokes]]"
   - "[[Alfred Nobel]]"
+  - "[[Max Planck]]"
 related_facts:
   - "[[Science A New Golden Age 2026]]"
   - "[[Office of Science and Technology Policy]]"
@@ -141,7 +142,7 @@ title: "Argument_Kratsios_2026_OSTP"
 argument_key: "Argument_Kratsios_2026_OSTP"
 argument_display_title: "Science: A new golden age (Report to the President)"
 argument_kind: "report"
-argument_related_count: 104
+argument_related_count: 105
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -359,7 +360,7 @@ issuing_organization: "Office of Science and Technology Policy"
 尽管领域成熟度提升会导致易攻克的问题减少，但历史经验证明，科学停滞往往能够被全新实验工具与组织形态的引入所打破。
 
 > [!warrant]- 领域成熟度与组织工具革新的辨析
-> 十九世纪末，经典物理学曾被断言为一座大厦已近完工的学科，但马克斯·普朗克（Max Planck）对黑体辐射的研究直接引爆了量子力学革命；同期外科医学界曾认为手术刀已无新领域可拓展，但随后现代研究型医院与标准化住院医师制度的建立彻底重塑了临床医学。由此可见，看似进入瓶颈的科研领域，其实质往往是受制于既有组织形式与观测工具，政策重点应转向开辟新型研究范式与突破性实验架构（p. 14）。
+> 十九世纪末，经典物理学曾被断言为一座大厦已近完工的学科，但[[Max Planck|马克斯·普朗克]]（Max Planck）对黑体辐射的研究直接引爆了量子力学革命；同期外科医学界曾认为手术刀已无新领域可拓展，但随后现代研究型医院与标准化住院医师制度的建立彻底重塑了临床医学。由此可见，看似进入瓶颈的科研领域，其实质往往是受制于既有组织形式与观测工具，政策重点应转向开辟新型研究范式与突破性实验架构（p. 14）。
 
 #### 2. 漫长申请周期与膨胀的管理费率先耗尽青年学者科研黄金期
 

@@ -4,7 +4,7 @@ aliases: [后结构主义, post-structuralist, poststructuralism]
 summary: "对结构功能主义决定论的反驳，强调个体能动性与内在矛盾主体，将数据与人工制品视为表演性话语与文本，主张通过解构揭示多重意义层次与意义特权化机制。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 33
+theory_related_count: 34
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -42,6 +42,7 @@ related_theories:
   - "[[Critical Realism]]"
 related_persons:
   - "[[Jürgen Habermas]]"
+  - "[[Morris Berman]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
@@ -55,7 +56,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Post-structuralism
@@ -176,7 +177,7 @@ updated: 2026-10-07
 > [!dev-timeline] 概念演变
 > - **1960s–1970s — 哲学发轫与解构主义确立** 雅克·德里达（Jacques Derrida）发表《论文字学》与米歇尔·福柯（Michel Foucault）确立[[Discourse|话语]]实践谱系学，标志着对传统结构主义固定符号中心论的解构，主体被重塑为处于话语交错网中的动态存在。
 > - **1987 — 现代性与[[Critical Theory\|批判理论]]的哲学交锋** 于尔根·[[Jürgen Habermas\|哈贝马斯]]（[[Jürgen Habermas]]）在《现代性的哲学话语》中激烈批评后结构主义与[[Postmodernism\|后现代主义]]，认为其总体化理性解构陷入了“表演性自相矛盾”，反对批判理论与后结构主义的简单媾和。
-> - **1990s — [[Discourse Analysis\|话语分析]]与教育质性转向** 伯曼与帕克（Burman & Parker, 1993）出版《话语分析研究》，将[[Artefact\|人工制品]]与日常言语系统确立为话语文本；教育社会学开始全面采纳后结构视角解构课堂不平等、性别表演与政策文本。
+> - **1990s — [[Discourse Analysis\|话语分析]]与教育质性转向** [[Morris Berman|伯曼]]与帕克（Burman & Parker, 1993）出版《话语分析研究》，将[[Artefact\|人工制品]]与日常言语系统确立为话语文本；教育社会学开始全面采纳后结构视角解构课堂不平等、性别表演与政策文本。
 > - **2010s 至今 — [[Reflective Thinking\|反思性探究]]与[[Paradigm\|范式]]共生前沿** 贝姬·弗朗西斯（Francis, 2010）与 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] 系统将后结构主义确立为联结[[Interpretive Paradigm\|诠释范式]]、[[Complexity Theory\|复杂性理论]]与批判理论的关键纽带，强调四重视角网络与放弃[[Determinism\|决定论]]因果律。
 
 ---

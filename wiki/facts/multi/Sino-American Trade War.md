@@ -10,7 +10,7 @@ subtype: event
 region: multi
 fact_region: "multi"
 fact_kind: "event"
-fact_related_count: 19
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -35,7 +35,8 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Samuel P. Huntington]]"
 related_facts:
   - "[[US-China Economic and Security Review Commission]]"
   - "[[Made in China 2025]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
 # Sino-American Trade War
@@ -102,7 +103,7 @@ updated: 2026-10-05
 > > [!axis] 文明冲突与知识霸权保卫 vs 动态技术发展权之争
 > > 中美贸易战的深层本质究竟是守成霸权对新兴大国技术扩散的防御，还是地缘文明规范的不可调和？
 > >
-> > - **美方霸权维护与知识产权辩护观点** [[Argument_Partaken_2022_Springer|Partaken (2022)]]等援引亨廷顿文明冲突框架，将技术防范定性为应对中国制度化[[Knowledge Transfer|知识转移]]与不公平产业补贴的必然防御，认为保护西方知识资产是维护自由国际秩序的关键。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 78, 84)]]
+> > - **美方霸权维护与知识产权辩护观点** [[Argument_Partaken_2022_Springer|Partaken (2022)]]等援引[[Samuel P. Huntington|亨廷顿]]文明冲突框架，将技术防范定性为应对中国制度化[[Knowledge Transfer|知识转移]]与不公平产业补贴的必然防御，认为保护西方知识资产是维护自由国际秩序的关键。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 78, 84)]]
 > > - **新兴国家发展权与去依附视角** 批评者指出，美方的单边制裁本质上是技术民族主义与帝国霸权行径，旨在通过人为封锁剥夺后发国家攀升全球价值链顶端的发展权利，违背了开放市场的基本伦理。
 >
 > > [!axis] 关税与出口管制的经济自残性争鸣（Self-Defeating Consequences）

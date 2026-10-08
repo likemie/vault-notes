@@ -8,7 +8,7 @@ aliases:
 summary: "欧洲联盟外交与安全政策高级代表何塞普·博雷利（Josep Borrell）提出的地缘战略诊断概念，指冷战后欧洲多国长期依靠美国安全保护伞搭便车、大幅削减军费预算所导致的多国零碎采办、规模萎缩且缺乏独立实战防御能力的军队形态与产业生态。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_persons:
   - "[[Josep Borrell]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
+  - "[[Dwight D. Eisenhower]]"
 related_facts:
   - "[[Autonomous Drone Swarms]]"
 related_arguments:
@@ -156,7 +157,7 @@ updated: 2026-10-08
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1951 — 艾森豪威尔的同盟预警** 德怀特·D. 艾森豪威尔致信芝加哥银行家爱德华·伯明翰，强调美国不能成为守卫远方边疆的现代罗马军团，呼吁欧洲迅速建立自卫军事能力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, p. 43)]]
+> - **1951 — [[Dwight D. Eisenhower|艾森豪威尔]]的同盟预警** 德怀特·D. 艾森豪威尔致信芝加哥银行家爱德华·伯明翰，强调美国不能成为守卫远方边疆的现代罗马军团，呼吁欧洲迅速建立自卫军事能力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, p. 43)]]
 > - **1990–2010年代 — 和平红利与军备缩编** 冷战结束后欧洲各国大幅缩减常备军规模，削减重装师团与国防工业产能，将公共资源转投福利与民生领域。
 > - **2016 — 奥巴马的搭便车批评** 美国总统巴拉克·奥巴马在接受采访时公开批评欧洲盟友防务支出未达 GDP 2% 的门槛，对安全搭便车提出明确批评。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 41–42)]]
 > - **2022–2025 — 盆景军队概念定型与软件重塑** 欧盟外交代表[[Josep Borrell|博雷利]]正式提出盆景军队概念；卡普与扎米斯卡（2025）将其纳入《[[Technological Republic|技术共和国]]》核心论证，指出新一代人工智能与软件技术为盆景军队提供了快速补足战力短板的历史契机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 42–45)]]

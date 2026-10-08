@@ -12,7 +12,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Saul B. Robinsohn]]"
+  - "[[Max Planck]]"
   - "[[Wolfgang Mitter]]"
 related_facts:
   - "[[Max Planck Society]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
 # Max Planck Institute for Human Development
@@ -65,7 +66,7 @@ updated: 2026-10-05
 ## 历史沿革与制度定位
 
 > [!timeline] 历史演进
-> - **1963 — 突破大学经院哲学的制度创立** 创立初期定名为“马克斯·普朗克教育研究所”（Institut für Bildungsforschung in der [[Max Planck Society|Max-Planck-Gesellschaft]]）。创立宗旨在于打破西德传统大学“讲座教授个人经院式思辨哲学”对教育研究的垄断，开创汇聚教育学、社会学、经济学、心理学与统计学的现代大型团队研究。
+> - **1963 — 突破大学经院哲学的制度创立** 创立初期定名为“[[Max Planck|马克斯·普朗克]]教育研究所”（Institut für Bildungsforschung in der [[Max Planck Society|Max-Planck-Gesellschaft]]）。创立宗旨在于打破西德传统大学“讲座教授个人经院式思辨哲学”对教育研究的垄断，开创汇聚教育学、社会学、经济学、心理学与统计学的现代大型团队研究。
 > - **1960s末–1970s初 — 比较教育社会学实证转向与教改策源地** 在[[Saul B. Robinsohn|索尔·罗宾逊]]主持下，该所成为欧洲教育科学实证转向的核心动力源，开展大规模跨国经验比较研究，并深度参与德国教育委员会（Deutscher Bildungsrat）顶层改革政策研制。
 > - **1971 — 拓展人类终身发展视野与更名** 随着保罗·巴尔特斯（Paul B. Baltes）等发展心理学家的加入，研究所正式更名为“马克斯·普朗克人类发展研究所”（Max-Planck-Institut für Bildungsforschung），研究视界进一步拓展至贯穿全生命周期的人类认知、发展与社会化过程。
 
@@ -88,7 +89,7 @@ updated: 2026-10-05
 > - **国际学术影响** 为战后德国学者深度参与[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）与跨国实证调查（如早期 [[IEA]] 项目）提供了坚实的实体依托与[[Data Infrastructure|数据基础设施]]。
 
 > [!citation-card] 米特论研究所的学术枢纽地位
-> 德国[[International Education|国际教育]]研究所（舒尔策、米特）与柏林马克斯·普朗克教育研究所（罗宾逊、戈尔德施密特）先后设立教席与研究实体……[[Saul B. Robinsohn|索尔·罗宾逊]]在柏林马普所主持的《社会进程中的学校改革》项目可以被视作一项先驱性成就。与波鸿、法兰克福和马堡的同行课题不同，其理论视界明确立足于社会学立场，专注于比较社会因素对国家教育系统的结构性冲击。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 90, 95)]]
+> 德国[[International Education|国际教育]]研究所（舒尔策、米特）与柏林[[Max Planck|马克斯·普朗克]]教育研究所（罗宾逊、戈尔德施密特）先后设立教席与研究实体……[[Saul B. Robinsohn|索尔·罗宾逊]]在柏林马普所主持的《社会进程中的学校改革》项目可以被视作一项先驱性成就。与波鸿、法兰克福和马堡的同行课题不同，其理论视界明确立足于社会学立场，专注于比较社会因素对国家教育系统的结构性冲击。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 90, 95)]]
 
 ---
 

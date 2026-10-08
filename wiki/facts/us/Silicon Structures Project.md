@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -35,7 +35,8 @@ related_theories: []
 related_methods:
   - "[[Archival Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Morris Berman]]"
 related_facts:
   - "[[VLSI Project]]"
   - "[[Center for Integrated Systems]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-06
+updated: 2026-10-08
 ---
 
 # Silicon Structures Project
@@ -107,7 +108,7 @@ updated: 2026-10-06
 > - **\$100,000** 每家赞助企业每年缴纳的固定会员年费。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 296)]]
 
 > [!critique] 规模不匹配与停滞成因
-> 莫迪与伯曼（Berman, 2012）的[[Archival Research|档案研究]]指出，SSP 虽然机制构想精妙，但其寿命远短于斯坦福 CIS（运行不到数年即告终结）。其衰亡的核心根源在于组织规模不匹配：SSP 过于依赖单一知名学者，大学师资规模过小，导致进驻的工业界人员数量反超教师，学术期待与工业诉求发生摩擦；此外，缺乏联邦或州政府对等资金支持，使其抗周期能力极其脆弱，最终为后来的大型多学科研究中心提供了前车之鉴。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 291, 296–297)]]
+> 莫迪与[[Morris Berman|伯曼]]（Berman, 2012）的[[Archival Research|档案研究]]指出，SSP 虽然机制构想精妙，但其寿命远短于斯坦福 CIS（运行不到数年即告终结）。其衰亡的核心根源在于组织规模不匹配：SSP 过于依赖单一知名学者，大学师资规模过小，导致进驻的工业界人员数量反超教师，学术期待与工业诉求发生摩擦；此外，缺乏联邦或州政府对等资金支持，使其抗周期能力极其脆弱，最终为后来的大型多学科研究中心提供了前车之鉴。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 291, 296–297)]]
 
 ---
 

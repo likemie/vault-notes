@@ -10,10 +10,10 @@ aliases:
 summary: "西方教育哲学与学习传统的核心主题，起源于苏格拉底在《申辩篇》中的名言“未经省察的生活不值得过”，代表质疑既有权威与理所当然知识的智识态度，是批判性思维的文化根源。"
 type: concept
 domain: "educational-philosophy"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - region/western
   - field/educational-philosophy
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Active Learning]]"
   - "[[Academic Freedom]]"
+  - "[[Discourse]]"
   - "[[Socratic Elenchus]]"
   - "[[Meno]]"
   - "[[Sage]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-02
+updated: 2026-10-08
 ---
 
 # Examined Life
@@ -78,7 +79,7 @@ updated: 2026-10-02
 > [!citation-card]- 关键表述：苏格拉底的终极宣告
 > 我告诉你们，每天讨论美德以及你们听到我审视自己和他人所谈论的其他主题，是人类最大的善，而未经省察的生活是不值得过的。（柏拉图，《申辩篇》 38a；引自 Li, 2012, p. 31; [[Argument_Darwish_2009_Queens\|Darwish, 2009, p. 2]]）
 >
-> *I tell you that to discourse every day about virtue, and of those other things about which you hear me examining myself and others, is the greatest good of man, and that the unexamined life is not worth living. (Plato, Apology 38a)*
+> *I tell you that to [[Discourse]] every day about virtue, and of those other things about which you hear me examining myself and others, is the greatest good of man, and that the unexamined life is not worth living. (Plato, Apology 38a)*
 
 ---
 

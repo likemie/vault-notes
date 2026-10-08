@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch01"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch01"
 argument_display_title: "Lost valley"
 argument_kind: "book-chapter"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -59,6 +59,7 @@ related_persons:
   - "[[Franklin D. Roosevelt]]"
   - "[[Vannevar Bush]]"
   - "[[J. C. R. Licklider]]"
+  - "[[Dwight D. Eisenhower]]"
 related_facts:
   - "[[Office of Scientific Research and Development]]"
   - "[[Fairchild Semiconductor]]"
@@ -206,7 +207,7 @@ updated: 2026-10-07
 > - **圣克拉拉县作为海军导弹制造中枢** 二战后至冷战鼎盛时期，圣克拉拉县生产了美国海军全部的洲际弹道导弹，以及绝大部分军用侦察卫星与雷达追踪系统。
 > - **军工巨头高科技制造集群** 洛克希德导弹与空间公司、西屋电气、福特航天及联合技术公司在 1980 至 1990 年代于硅谷雇佣数万名工程师从事尖端武器与航电系统制造。
 > - **空军资助奠定人机共生与计算底座** 心理学家与计算先驱[[J. C. R. Licklider|约瑟夫·利克莱德]] 1960 年受美国空军资助发表《人机共生》（*Man-Computer Symbiosis*），1962 年受聘执掌后来演进为[[DARPA|美国国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）的信息处理技术办公室（Information Processing Techniques Office, IPTO），直接催生了[[ARPANET|高级研究计划局网络]]（Advanced Research Projects Agency Network, ARPANET）与全球定位系统（Global Positioning System, GPS）。
-> - **白宫危机决策极速创立[[National Aeronautics and Space Administration|国家航空航天局]]** 1957 年 10 月苏联发射斯普特尼克号人造卫星后，艾森豪威尔总统紧急召见汉斯·贝特（Hans Bethe），在一小时内敲定太空计划路线图，并于次年（1958 年）正式组建美国国家航空航天局（National Aeronautics and Space Administration, NASA）。（p. 7）
+> - **白宫危机决策极速创立[[National Aeronautics and Space Administration|国家航空航天局]]** 1957 年 10 月苏联发射斯普特尼克号人造卫星后，[[Dwight D. Eisenhower|艾森豪威尔]]总统紧急召见汉斯·贝特（Hans Bethe），在一小时内敲定太空计划路线图，并于次年（1958 年）正式组建美国国家航空航天局（National Aeronautics and Space Administration, NASA）。（p. 7）
 
 ---
 

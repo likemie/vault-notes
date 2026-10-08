@@ -8,7 +8,7 @@ aliases:
 summary: "指在颠覆性科学突破与国家重大战略工程中掌握不可编码隐性专有知识（自然知识资本）并享有崇高学术声望的极少数领军学者。该理论揭示了明星科学家在技术早期倾向于构建专有壁垒、需公共代理人网络撮合；在成熟期易形成注意力锁定与范式垄断；同时在国家战略史上构成了技术共和国政权与科学界深度结盟的核心中枢。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -46,6 +46,7 @@ related_instruments: []
 related_persons:
   - "[[J. Robert Oppenheimer]]"
   - "[[Alfred Nobel]]"
+  - "[[Dwight D. Eisenhower]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
   - "[[Vannevar Bush]]"
@@ -88,7 +89,7 @@ updated: 2026-10-08
 > - **行为特征** 在技术演进初期，明星科学家往往天然具有构建学术圈子、保护专有工艺诀窍的防御倾向；在国家危机时刻，其崇高公信力使之能直接参与国家最高战略咨询并驱动体制敏捷变革。
 
 > [!citation-card] 明星科学家与国家最高决策层的深度互信
-> 1930年代末[[J. Robert Oppenheimer|奥本海默]]及其数十位同侪的崛起，将科学家和工程师牢固地确立在美国核心生活与民主制度防卫的中枢。1957年10月苏联发射人造卫星后不久，[[Alfred Nobel|诺贝尔]]物理学奖得主汉斯·贝特与伊西多·拉比在白宫面见艾森豪威尔总统。拉比直言，只要赋予科学家真正的战略权威，科学界随时准备倾力相助。艾森豪威尔当即对助手下令确保落实，并在次年迅速创设了[[National Aeronautics and Space Administration|国家航空航天局]]与总统科学顾问体制。政治领袖与明星科学家之间在当时享有深厚而直接的战略互信。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–8)]]
+> 1930年代末[[J. Robert Oppenheimer|奥本海默]]及其数十位同侪的崛起，将科学家和工程师牢固地确立在美国核心生活与民主制度防卫的中枢。1957年10月苏联发射人造卫星后不久，[[Alfred Nobel|诺贝尔]]物理学奖得主汉斯·贝特与伊西多·拉比在白宫面见[[Dwight D. Eisenhower|艾森豪威尔]]总统。拉比直言，只要赋予科学家真正的战略权威，科学界随时准备倾力相助。艾森豪威尔当即对助手下令确保落实，并在次年迅速创设了[[National Aeronautics and Space Administration|国家航空航天局]]与总统科学顾问体制。政治领袖与明星科学家之间在当时享有深厚而直接的战略互信。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–8)]]
 >
 > *The [[Research in Schools Evaluation|RISE]] of J. Robert Oppenheimer and dozens of his colleagues in the late 1930s only further situated scientists and engineers at the heart of American life and the defense of the democratic experiment. There was a closeness, and significant degree of trust, in the relationships between political leaders and the scientists on whom they relied for guidance and direction.*
 
@@ -166,7 +167,7 @@ updated: 2026-10-08
 > 探讨顶尖科学家在国家地缘危机时刻如何作为核心战略顾问与组织者驱动国家重大工程的敏捷决策。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
-> **明星科学家充当地球防卫与国家战略中枢** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]指出，二战至冷战初期美国科技领先地位的确立，核心在于[[J. Robert Oppenheimer|奥本海默]]、[[Vannevar Bush|万尼瓦尔·布什]]、汉斯·贝特、伊西多·拉比与[[J. C. R. Licklider|约瑟夫·利克莱德]]等明星科学家与政治领袖之间享有的高度信任。1957年人造卫星危机后艾森豪威尔总统直接根据拉比与贝特的建议设立总统科学顾问并创设 [[National Aeronautics and Space Administration|NASA]]，利克莱德受聘掌舵 [[DARPA|ARPA]] IPTO 催生 [[ARPANET]]，皆证明明星科学家不仅是实验室发现者，更是国家战略意志与前沿工程转化深度融合的制度灵魂。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7–8)]]
+> **明星科学家充当地球防卫与国家战略中枢** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]指出，二战至冷战初期美国科技领先地位的确立，核心在于[[J. Robert Oppenheimer|奥本海默]]、[[Vannevar Bush|万尼瓦尔·布什]]、汉斯·贝特、伊西多·拉比与[[J. C. R. Licklider|约瑟夫·利克莱德]]等明星科学家与政治领袖之间享有的高度信任。1957年人造卫星危机后[[Dwight D. Eisenhower|艾森豪威尔]]总统直接根据拉比与贝特的建议设立总统科学顾问并创设 [[National Aeronautics and Space Administration|NASA]]，利克莱德受聘掌舵 [[DARPA|ARPA]] IPTO 催生 [[ARPANET]]，皆证明明星科学家不仅是实验室发现者，更是国家战略意志与前沿工程转化深度融合的制度灵魂。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7–8)]]
 
 ---
 

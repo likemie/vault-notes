@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch04"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch04"
 argument_display_title: "End of the atomic age"
 argument_kind: "book-chapter"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -61,6 +61,7 @@ related_persons:
   - "[[Erich Ludendorff]]"
   - "[[John Lewis Gaddis]]"
   - "[[Steven Pinker]]"
+  - "[[Dwight D. Eisenhower]]"
   - "[[Elon Musk]]"
   - "[[Peter Thiel]]"
   - "[[David Graeber]]"
@@ -201,7 +202,7 @@ updated: 2026-10-08
 
 > [!factors] 盟国常规防御能力空洞化的关键体制诱因
 > - **欧洲安全搭便车与[[Bonsai Army|盆景军队]]形态** 欧盟外交代表[[Josep Borrell|何塞普·博雷利]]（[[Josep Borrell]]）指出冷战后欧洲军队被削减为常规战力微缩的[[Bonsai Army|盆景军队]]（bonsai armies），近三十国各自为政的采办机器严重撕裂本土军工市场，滋养出高成本、小批量的盆景产业（pp. 42–43）。
-> - **艾森豪威尔的同盟自主防务预警** 德怀特·D. 艾森豪威尔（Dwight D. Eisenhower）早在 1951 年便预警美国不能成为守卫远方边疆的现代罗马军团，激励欧洲自主生产武装力量是保卫欧洲的唯一长远手段（p. 43）。
+> - **[[Dwight D. Eisenhower|艾森豪威尔]]的同盟自主防务预警** 德怀特·D. 艾森豪威尔（Dwight D. Eisenhower）早在 1951 年便预警美国不能成为守卫远方边疆的现代罗马军团，激励欧洲自主生产武装力量是保卫欧洲的唯一长远手段（p. 43）。
 > - **德国过度道德自省的地缘安全真空** 战后德国对军事力量的长期道德排斥导致联邦国防军战备严重空洞化，这种实力真空直接促成了俄罗斯在 2022 年发动全面侵乌战争的战略误判（p. 43）。
 > - **日本宪法第九条的绝对和平限制** 1947 年颁布的[[Article 9 of the Japanese Constitution|日本国宪法第九条]]放弃交战权与军队建设，使亚洲最富裕民主政体在面临现实入侵威胁时完全依附于外部援助，加剧了印太地区力量平衡的脆弱性（pp. 43–44）。
 

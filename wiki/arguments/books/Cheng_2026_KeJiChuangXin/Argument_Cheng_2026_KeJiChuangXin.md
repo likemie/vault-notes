@@ -12,7 +12,7 @@ title: "Argument_Cheng_2026_KeJiChuangXin"
 argument_key: "Argument_Cheng_2026_KeJiChuangXin"
 argument_display_title: "科技创新和产业创新融合：中国的发展路径与对策研究报告"
 argument_kind: "book"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -53,6 +53,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Analytic Framework]]"
 related_persons:
+  - "[[Max Planck]]"
   - "[[Alfred Nobel]]"
 related_facts:
   - "[[German Dual Education System]]"
@@ -286,7 +287,7 @@ citation_aliases:
 > 创新平台方面，在32个州设立31个区域科技中心（每个最高7500万美元联邦资金），75%选址小城市以推动创新资源扩散。国防部投入2.38亿美元建立8个微电子共享区域[[Innovation Hub\|创新中心]]，整合雷神、波音、IBM、英特尔等100余家成员单位。17个制造业创新研究所覆盖电子信息、生物制造等5大领域，2021年整合超2300家创新主体、汇聚4.8亿美元研发资金(pp.35–36)。
 
 > [!info] 企业主体：高强度投入与多元组织模式
-> 2011—2021年企业研发投入贡献了美国整体研发增长的87%，其中近22%用于基础研究和应用研究。以苹果、Alphabet为代表的科技企业依托iOS和Android生态系统，与内容开发商、终端制造商建立深度协同创新联盟。谷歌与普林斯顿大学、马克斯·普朗克研究所开展机器学习理论、计算机视觉等基础研究合作，实现从理论创新到产业应用的无缝衔接(p.36)。
+> 2011—2021年企业研发投入贡献了美国整体研发增长的87%，其中近22%用于基础研究和应用研究。以苹果、Alphabet为代表的科技企业依托iOS和Android生态系统，与内容开发商、终端制造商建立深度协同创新联盟。谷歌与普林斯顿大学、[[Max Planck|马克斯·普朗克]]研究所开展机器学习理论、计算机视觉等基础研究合作，实现从理论创新到产业应用的无缝衔接(p.36)。
 >
 > OpenAI采用"非营利部门+营利部门"双轨制架构，非营利部门专注基础技术研发，营利部门通过市场化融资提供资金支持。国防领域，初创企业Palantir将数据解读分析业务与国家安全需求结合，获得中情局风险投资机构In-Q-Tel超200万美元投资(pp.36–37)。
 >

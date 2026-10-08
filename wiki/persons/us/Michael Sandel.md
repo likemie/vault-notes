@@ -9,7 +9,7 @@ summary: "美国著名政治哲学家、哈佛大学讲座教授，社群主义�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[John Rawls]]"
   - "[[Socrates]]"
   - "[[Allan Bloom]]"
   - "[[Alexander Karp]]"
@@ -54,7 +55,7 @@ updated: 2026-10-08
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名政治哲学家、哈佛大学政府系讲座教授，当代西方社群主义（Communitarianism）学派的核心代表人物，美国文理[[Chinese Academy of Sciences|科学院]]院士。
-> - **核心角色** 20 世纪晚期以来西方政治哲学关于正义、权利与善观念（the Good）大论战的主力思想家，以系统批判罗尔斯式“无负担的自我”（Unencumbered Self）与自由主义国家道德中立原则著称。
+> - **核心角色** 20 世纪晚期以来西方政治哲学关于正义、权利与善观念（the Good）大论战的主力思想家，以系统批判[[John Rawls|罗尔斯]]式“无负担的自我”（Unencumbered Self）与自由主义国家道德中立原则著称。
 > - **代表贡献** 出版奠基性理论著作《自由主义与正义的局限》（*Liberalism and the Limits of Justice*, 1982/1998）、《民主的不满》（*Democracy's Discontent*, 1996）与《精英的傲慢》（*The Tyranny of Merit*, 2020）；揭示自由主义放弃实质性道德辩护所导致的公共道德真空。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 67–68)]]
 
 > [!citation-card] 政治[[Discourse|话语]]道德共鸣的丧失与公共生活的琐碎化
@@ -70,7 +71,7 @@ updated: 2026-10-08
 > - **1953** 出生于美国明尼苏达州明尼阿波利斯。
 > - **1975** 毕业于布兰迪斯大学，随后获罗德奖学金赴英国牛津大学贝利奥尔学院深造，师从查尔斯·泰勒（Charles Taylor）等著名哲学家。
 > - **1981** 获得牛津大学哲学博士学位，同年加入哈佛大学政府系任教。
-> - **1982** 出版博士论文修订本《自由主义与正义的局限》，对约翰·罗尔斯《正义论》的先验主体设想与权利优先于善原则发起里程碑式批判，奠定社群主义政治哲学重镇地位。
+> - **1982** 出版博士论文修订本《自由主义与正义的局限》，对[[John Rawls|约翰·罗尔斯]]《正义论》的先验主体设想与权利优先于善原则发起里程碑式批判，奠定社群主义政治哲学重镇地位。
 > - **1980–2000年代** 在哈佛大学开设传奇公开课“正义”（Justice），吸引全球数千万学生与公众，成为全球知名的公共哲学家。
 > - **2020** 出版《精英的傲慢》，批判当代西方基于学历与绩优主义（Meritocracy）建立的精英不平等对工人阶级尊严的践踏。
 
@@ -79,7 +80,7 @@ updated: 2026-10-08
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1980年代 — 罗尔斯批判与主体自我构成论** 解构自由主义将个体视为脱离社群历史、文化与情感依附的“抽象原子”[[Hypothesis|假设]]，主张正义无法脱离具体的善观念与共同体认同。
+> - **1980年代 — [[John Rawls|罗尔斯]]批判与主体自我构成论** 解构自由主义将个体视为脱离社群历史、文化与情感依附的“抽象原子”[[Hypothesis|假设]]，主张正义无法脱离具体的善观念与共同体认同。
 >   - **代表著作** *Liberalism and the Limits of Justice* (1982/1998)。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 67–68)]]
 >   - **关键概念／方法** 构成性自我、正义的局限、善优先于权利。
 > - **1990年代 — 共和主义公民身份与程序共和国反思** 批判战后美国沦为仅关注个体权利与程序公正、却丧失共同体公共善与公民德性的“程序共和国”（Procedural Republic）。
@@ -110,7 +111,7 @@ updated: 2026-10-08
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **主要论敌** 约翰·罗尔斯（John Rawls） — 桑德尔对其《正义论》的道德中立性与先验主体观展开了终身哲学商榷。
+> - **主要论敌** [[John Rawls|约翰·罗尔斯]]（John Rawls） — 桑德尔对其《正义论》的道德中立性与先验主体观展开了终身哲学商榷。
 > - **思想对话者** [[Allan Bloom]] — 共同从不同哲学进路反思美国高等教育与自由主义文化导致的道德空洞化。
 > - **分析与引用者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》中引述其理论以揭示西方科技与管理精英撤退背后的道德真空危机。
 

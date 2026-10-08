@@ -11,7 +11,7 @@ summary: "法国当代著名马克思主义哲学家与政治活动家，巴黎�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -46,12 +46,13 @@ related_methods: []
 related_persons:
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
+  - "[[Edward Said]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Daniel Bensaïd
@@ -65,7 +66,7 @@ updated: 2026-10-07
 > - **核心角色** 法国 1968 年“五月风暴”（Mai 68）学生运动核心领袖之一；当代反资本主义全球化运动的精神导师；为后冷战时期的历史唯物主义注入深邃的非线性时间观与实践辩证法；提出了“冷酷的严谨科学”与“热烈的批判乌托邦”熔铸观。
 > - **代表贡献** 出版代表作《不合时宜的马克思》（1995/1999）、《时代的不协调》（1995）与《忧郁的赌注》（1997）；系统提出并阐发马克思主义作为当代不可超越的“[[Praxis|实践哲学]]”（Philosophy of Praxis）的方法论生命力。
 
-> [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论本萨义德的冷面科学与炽热乌托邦辩证法
+> [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论本[[Edward Said|萨义德]]的冷面科学与炽热乌托邦辩证法
 > 正如达尼埃尔·本萨义德所断言的，马克思主义思想正是在展现其幽灵如何深刻影响当下的严密实证研究中重新繁荣起来的。通过构建部分综合与连续逼近，重构作为方法与认识方式的辩证法，并将马克思主义的“冷面”（严谨的求实科学分析）与其“炽热”（对人类解放的道德乌托邦）有机结合，知识与行动将融铸为统一的革命性现实阐释，正如葛兰西所言，使马克思主义持续焕发作为“实践哲学”的生机。[[Argument_Olmos_Torres_2009_StateTheories|(Bensaïd, 1999; Olmos & Torres, 2009, p. 85)]]
 >
 > *As Daniel Bensaid affirms, Marxist thought flourished as a result of the rigorous research that demonstrates the extent to which the spectrums of Marxism impact the present... Constructing partial synthesis and successive approximations, reconstructing the dialectic as a method and way of knowing, and associating the "cold" side of Marxism (science) with its "hot" phase (utopia), knowledge and praxis, will be how the creation and revolutionary interpretation of reality develops, so that Marxism continues to be as Gramsci said, a "Philosophy of Praxis".*
@@ -98,7 +99,7 @@ updated: 2026-10-07
 ## 核心思想
 
 > [!claim] 核心主张
-> 本萨义德的核心思想在于**彻底清算机械[[Determinism|决定论]]与[[End of History Thesis|历史终结论]]，将马克思主义重新阐释为一种立足历史不确定性、融合科学严谨性与道德乌托邦的“[[Praxis|实践哲学]]”（Philosophy of Praxis）**。他断言，历史不是一条自动驶向共产主义或资本主义终点的直线，而是一个充满分叉、危机与未竟可能性的斗争竞技场；面对新自由主义犬儒主义的蔓延，真正的批判研究绝不能沦为书斋里的抽象玩味，必须将冷面求实的政治经济学严密剖析（冷面科学），与对人类解放、尊严与社会正义的炽热追求（热烈乌托邦）熔铸为一，以理论指导联合行动，在不确定性中为不可阻挡的民主解放而“下注”。
+> 本[[Edward Said|萨义德]]的核心思想在于**彻底清算机械[[Determinism|决定论]]与[[End of History Thesis|历史终结论]]，将马克思主义重新阐释为一种立足历史不确定性、融合科学严谨性与道德乌托邦的“[[Praxis|实践哲学]]”（Philosophy of Praxis）**。他断言，历史不是一条自动驶向共产主义或资本主义终点的直线，而是一个充满分叉、危机与未竟可能性的斗争竞技场；面对新自由主义犬儒主义的蔓延，真正的批判研究绝不能沦为书斋里的抽象玩味，必须将冷面求实的政治经济学严密剖析（冷面科学），与对人类解放、尊严与社会正义的炽热追求（热烈乌托邦）熔铸为一，以理论指导联合行动，在不确定性中为不可阻挡的民主解放而“下注”。
 
 > [!citation-card] 实践哲学作为冷面科学与炽热乌托邦的熔炉
 > 马克思主义作为与当代科学紧密相连的解放性社会与政治科学，作为转型认知过程与联合行动的不可分割的组成部分，是一种必须被重新收复的交织实践。在面对犬儒理性不断滋长的严峻现实中，重建这一批判理性至关重要。唯有通过构建局部综合与连续逼近，重建作为方法与认识方式的辩证法，将马克思主义的“冷面”（严密实证科学）与其“炽热”（道德解放乌托邦）辩证融合，知识与行动才能实现革命性的统一，使批判思想重新成为名副其实的实践哲学。[[Argument_Olmos_Torres_2009_StateTheories|(Bensaïd, 1999; Olmos & Torres, 2009, p. 85)]]
@@ -121,7 +122,7 @@ updated: 2026-10-07
 > [!person-network] 关系网络
 > - **思想传承** 安东尼奥·葛兰西（Antonio Gramsci） — 深度继承其“[[Praxis|实践哲学]]”概念与文化统识批判。
 > - **哲学对话者** 让-保罗·萨特（Jean-Paul Sartre） — 吸收萨特在《方法论问题》中论证“马克思主义依然是我们这个时代不可逾越的哲学”的存在主义实践立场。
-> - **理论共鸣者** [[Carlos Alberto Torres]] 与 [[Liliana Esther Olmos]] — 在分析拉美[[Conditioned State Theory|受限国家]]危机与新自由主义抵抗时，将本萨义德思想确立为全书总结的压轴方法论纲领。
+> - **理论共鸣者** [[Carlos Alberto Torres]] 与 [[Liliana Esther Olmos]] — 在分析拉美[[Conditioned State Theory|受限国家]]危机与新自由主义抵抗时，将本[[Edward Said|萨义德]]思想确立为全书总结的压轴方法论纲领。
 > - **批判对象** 新自由主义犬儒主义与后现代“[[End of History Thesis|历史终结论]]” — 痛斥其将资本主义市场制度永恒化、去历史化的[[Epistemology|认识论]]欺骗。
 
 ---

@@ -2672,6 +2672,18 @@
     ]
   },
   {
+    "title": "Western Civilization Course",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Western Civilization Course.md",
+    "aliases": [
+      "西方文明通识课程",
+      "Western Civ",
+      "西方文明课",
+      "History of Western Civilization",
+      "西方文明通识课"
+    ]
+  },
+  {
     "title": "Authentic Science Practices",
     "type": "concept",
     "path": "wiki/concepts/curriculum-instruction/Authentic Science Practices.md",
@@ -3034,7 +3046,9 @@
     "path": "wiki/concepts/educational-philosophy/Buen Vivir.md",
     "aliases": [
       "好好生活",
-      "美好生活"
+      "美好生活",
+      "Sumak Kawsay",
+      "Suma Qamaña"
     ]
   },
   {
@@ -3090,12 +3104,32 @@
     ]
   },
   {
+    "title": "Civic Religion",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Civic Religion.md",
+    "aliases": [
+      "公民宗教",
+      "civil religion"
+    ]
+  },
+  {
     "title": "Codification",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Codification.md",
     "aliases": [
       "生存境遇编码",
       "具象生存编码"
+    ]
+  },
+  {
+    "title": "Cognitive Decoupling",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Cognitive Decoupling.md",
+    "aliases": [
+      "认知脱钩",
+      "事实与价值解耦",
+      "解耦认知",
+      "decoupling"
     ]
   },
   {
@@ -6572,6 +6606,17 @@
       "start-up packages",
       "科研启动配套金",
       "启动配套资助"
+    ]
+  },
+  {
+    "title": "Canon Wars",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Canon Wars.md",
+    "aliases": [
+      "经典之争",
+      "正典之争",
+      "经典战争",
+      "经典正典之争"
     ]
   },
   {
@@ -20596,6 +20641,16 @@
     ]
   },
   {
+    "title": "Sigmund Freud",
+    "type": "person",
+    "path": "wiki/persons/austria/Sigmund Freud.md",
+    "aliases": [
+      "西格蒙德·弗洛伊德",
+      "弗洛伊德",
+      "Freud, S."
+    ]
+  },
+  {
     "title": "Dirk Van Damme",
     "type": "person",
     "path": "wiki/persons/belgium/Dirk Van Damme.md",
@@ -21509,6 +21564,16 @@
     ]
   },
   {
+    "title": "Max Planck",
+    "type": "person",
+    "path": "wiki/persons/germany/Max Planck.md",
+    "aliases": [
+      "马克斯·普朗克",
+      "普朗克",
+      "Planck, M."
+    ]
+  },
+  {
     "title": "Max Weber",
     "type": "person",
     "path": "wiki/persons/germany/Max Weber.md",
@@ -21631,6 +21696,15 @@
     "aliases": [
       "杰拉德·雷诺",
       "Gérard Renaud"
+    ]
+  },
+  {
+    "title": "Pankaj Mishra",
+    "type": "person",
+    "path": "wiki/persons/global/Pankaj Mishra.md",
+    "aliases": [
+      "潘卡吉·米什拉",
+      "米什拉"
     ]
   },
   {
@@ -22577,6 +22651,16 @@
     ]
   },
   {
+    "title": "Niall Ferguson",
+    "type": "person",
+    "path": "wiki/persons/uk/Niall Ferguson.md",
+    "aliases": [
+      "尼尔·弗格森",
+      "弗格森",
+      "Niall Campbell Ferguson"
+    ]
+  },
+  {
     "title": "Nicholas Hans",
     "type": "person",
     "path": "wiki/persons/uk/Nicholas Hans.md",
@@ -22866,6 +22950,16 @@
       "瓦尔特·博德默尔",
       "沃尔特·博德默",
       "Sir Walter Bodmer"
+    ]
+  },
+  {
+    "title": "Winston Churchill",
+    "type": "person",
+    "path": "wiki/persons/uk/Winston Churchill.md",
+    "aliases": [
+      "温斯顿·丘吉尔",
+      "丘吉尔",
+      "Winston S. Churchill"
     ]
   },
   {
@@ -23347,6 +23441,17 @@
     ]
   },
   {
+    "title": "Dwight D. Eisenhower",
+    "type": "person",
+    "path": "wiki/persons/us/Dwight D. Eisenhower.md",
+    "aliases": [
+      "德怀特·D·艾森豪威尔",
+      "德怀特·艾森豪威尔",
+      "艾森豪威尔",
+      "Eisenhower, D. D."
+    ]
+  },
+  {
     "title": "E. Digby Baltzell",
     "type": "person",
     "path": "wiki/persons/us/E. Digby Baltzell.md",
@@ -23355,6 +23460,29 @@
       "迪格比·巴尔策尔",
       "巴尔策尔",
       "Baltzell, E. D."
+    ]
+  },
+  {
+    "title": "Edward R. Murrow",
+    "type": "person",
+    "path": "wiki/persons/us/Edward R. Murrow.md",
+    "aliases": [
+      "爱德华·R·默罗",
+      "埃德华·默罗",
+      "默罗",
+      "Murrow, E. R."
+    ]
+  },
+  {
+    "title": "Edward Said",
+    "type": "person",
+    "path": "wiki/persons/us/Edward Said.md",
+    "aliases": [
+      "爱德华·萨义德",
+      "Edward W. Said",
+      "爱德华·W·萨义德",
+      "Said",
+      "萨义德"
     ]
   },
   {
@@ -23446,6 +23574,17 @@
       "Fred Kerlinger",
       "弗雷德·科林格",
       "科林格"
+    ]
+  },
+  {
+    "title": "Fredric L. Cheyette",
+    "type": "person",
+    "path": "wiki/persons/us/Fredric L. Cheyette.md",
+    "aliases": [
+      "弗雷德里克·切耶特",
+      "Fredric Cheyette",
+      "切耶特",
+      "Fredric Lawrence Cheyette"
     ]
   },
   {
@@ -23822,6 +23961,16 @@
     ]
   },
   {
+    "title": "John Rawls",
+    "type": "person",
+    "path": "wiki/persons/us/John Rawls.md",
+    "aliases": [
+      "约翰·罗尔斯",
+      "罗尔斯",
+      "Rawls, J."
+    ]
+  },
+  {
     "title": "John W. Creswell",
     "type": "person",
     "path": "wiki/persons/us/John W. Creswell.md",
@@ -23917,6 +24066,17 @@
       "库尔特·勒温",
       "勒温",
       "Lewin, K."
+    ]
+  },
+  {
+    "title": "Kwame Anthony Appiah",
+    "type": "person",
+    "path": "wiki/persons/us/Kwame Anthony Appiah.md",
+    "aliases": [
+      "夸梅·安东尼·阿皮亚",
+      "Kwame Appiah",
+      "阿皮亚",
+      "Anthony Appiah"
     ]
   },
   {
@@ -24062,6 +24222,16 @@
     ]
   },
   {
+    "title": "Morris Berman",
+    "type": "person",
+    "path": "wiki/persons/us/Morris Berman.md",
+    "aliases": [
+      "莫里斯·伯曼",
+      "伯曼",
+      "Berman, M."
+    ]
+  },
+  {
     "title": "Nam Pyo Suh",
     "type": "person",
     "path": "wiki/persons/us/Nam Pyo Suh.md",
@@ -24079,6 +24249,17 @@
       "Nancy A. Madden",
       "N. A. Madden",
       "Madden, N. A."
+    ]
+  },
+  {
+    "title": "Nate Silver",
+    "type": "person",
+    "path": "wiki/persons/us/Nate Silver.md",
+    "aliases": [
+      "内特·银",
+      "内特·席尔瓦",
+      "Nate Silver",
+      "Nathaniel Read Silver"
     ]
   },
   {
@@ -24374,6 +24555,17 @@
     ]
   },
   {
+    "title": "Samuel P. Huntington",
+    "type": "person",
+    "path": "wiki/persons/us/Samuel P. Huntington.md",
+    "aliases": [
+      "塞缪尔·亨廷顿",
+      "Samuel Huntington",
+      "亨廷顿",
+      "Samuel Phillips Huntington"
+    ]
+  },
+  {
     "title": "Sheila Slaughter",
     "type": "person",
     "path": "wiki/persons/us/Sheila Slaughter.md",
@@ -24622,6 +24814,17 @@
     "aliases": [
       "威廉·富特·怀特",
       "W. F. Whyte"
+    ]
+  },
+  {
+    "title": "William H. McNeill",
+    "type": "person",
+    "path": "wiki/persons/us/William H. McNeill.md",
+    "aliases": [
+      "威廉·麦克尼尔",
+      "William McNeill",
+      "麦克尼尔",
+      "William Hardy McNeill"
     ]
   },
   {
@@ -26629,6 +26832,15 @@
     "path": "wiki/facts/global/Evidence-Based Education Institutions.md",
     "aliases": [
       "循证教育机构"
+    ]
+  },
+  {
+    "title": "Huntington-Wallace Line",
+    "type": "fact",
+    "path": "wiki/facts/global/Huntington-Wallace Line.md",
+    "aliases": [
+      "亨廷顿-华莱士线",
+      "Wallace Line of Western Christianity"
     ]
   },
   {
@@ -29594,6 +29806,18 @@
       "TDTS",
       "思考、操作、对话科学",
       "Thinking Doing Talking Science"
+    ]
+  },
+  {
+    "title": "1968 Stanford Western Civ Reform",
+    "type": "fact",
+    "path": "wiki/facts/us/1968 Stanford Western Civ Reform.md",
+    "aliases": [
+      "斯坦福大学废除西方文明通识必修课",
+      "1968年斯坦福西方文明课程改革",
+      "Stanford Western Civ Abolition",
+      "Packer Committee Report",
+      "1968年斯坦福大学教育研究委员会报告"
     ]
   },
   {
@@ -32688,6 +32912,11 @@
     "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch06",
     "type": "argument",
     "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch06.md"
+  },
+  {
+    "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch07",
+    "type": "argument",
+    "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch07.md"
   },
   {
     "title": "Argument_Kelly_Licona_2018_EpistemicPractices",

@@ -9,7 +9,7 @@ aliases:
 summary: "弗朗西斯·福山提出的政治哲学与国际政治理论，主张冷战结束标志着人类意识形态演进的终点与自由民主制作为人类政府最终形式的普世确立；后遭遇文明冲突论、威权韧性及技术共和国视角下胜者谬误与硬实力懈怠的深刻批判。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -44,6 +44,7 @@ related_instruments: []
 related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Francis Fukuyama]]"
+  - "[[Samuel P. Huntington]]"
   - "[[Allan Bloom]]"
   - "[[Thomas Schelling]]"
 related_facts:
@@ -84,7 +85,7 @@ updated: 2026-10-08
 > [!dev-timeline] 理论演进与争议历程
 > - **1989 — 原初论文发表** 福山发表《历史的终结？》，提出大国意识形态对抗已实质终结，西方自由民主制成为普世共识。
 > - **1992 — 专著体系化成型** 出版《历史的终结与最后的人》，引入“气魄/激情”（Thymos）概念，探讨历史终结后“最后的人”面临的无聊与虚无危机。
-> - **1990s–2000s — 文明冲突论与威权韧性的多方反驳** 塞缪尔·亨廷顿提出“文明冲突论”，批判福山低估了文化与宗教断裂；全球化进程中威权国家经济崛起打破了“现代化必然带来西方民主化”的线性预设。
+> - **1990s–2000s — 文明冲突论与威权韧性的多方反驳** [[Samuel P. Huntington|塞缪尔·亨廷顿]]提出“文明冲突论”，批判福山低估了文化与宗教断裂；全球化进程中威权国家经济崛起打破了“现代化必然带来西方民主化”的线性预设。
 > - **2025 — [[Technological Republic|技术共和国]]视角下的批判与[[Winner's Fallacy|胜者谬误]]定性** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》第 3 章指出，福山的历史终结论作为一种意识形态[[Grand Theory|宏大叙事]]，误导西方精英滋生了严重的[[Winner's Fallacy|胜者谬误]]，使之将和平安全视为免费的背景常态，导致国家在软件与人工智能[[Hard Power|硬实力]]建设上严重懈怠。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–32)]]
 
 ---

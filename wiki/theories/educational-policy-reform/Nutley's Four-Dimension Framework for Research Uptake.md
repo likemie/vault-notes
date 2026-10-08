@@ -7,7 +7,7 @@ aliases:
 summary: "由英国公共政策学者桑德拉·纳特利等于 2002 年提出的中层分析框架，系统提炼了决定政策制定者是否关注、接纳与吸纳特定实证研究证据的四大核心维度：决策者个人特质、研究契合度、制度情境以及政策执行可行性。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 19
+theory_related_count: 20
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -40,6 +40,7 @@ related_instruments: []
 related_persons:
   - "[[Zewelanji N. Serpell]]"
   - "[[Russell J. Skiba]]"
+  - "[[Niall Ferguson]]"
 related_facts:
   - "[[The Education Trust]]"
 related_arguments:
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-09-26
+updated: 2026-10-08
 ---
 
 # Nutley's Four-Dimension Framework for Research Uptake
@@ -156,7 +157,7 @@ updated: 2026-09-26
 > 在美国各州及联邦关于废除学校“零容忍”（Zero Tolerance）纪律政策与遏制“学校到监狱管道（School-to-Prison Pipeline）”的立法辩论中，纳特利框架展现了强大的解释力：
 > 1. **个人维度** 民权倾向的议员预先信赖社会科学实证对弱势学生福祉的诊断价值；
 > 2. **契合度维度** [[Russell J. Skiba\|拉塞尔·斯基巴]]（Russell J. Skiba）等学者关于停学惩戒存在不成比例种族偏差的实证数据，高度契合了改革派议员消除系统性歧视的政治诉求；
-> 3. **情境维度** 在弗格森事件等全国性民权危机爆发的制度窗口期，全美法律与教育民权联盟（包括 [[The Education Trust\|EdTrust]]）协同将这些研究提炼为政策简报迅速呈送国会；
+> 3. **情境维度** 在[[Niall Ferguson|弗格森]]事件等全国性民权危机爆发的制度窗口期，全美法律与教育民权联盟（包括 [[The Education Trust\|EdTrust]]）协同将这些研究提炼为政策简报迅速呈送国会；
 > 4. **执行维度** 学者与智库并未简单要求“一刀切取消停学”，而是配套提供了“恢复性司法（Restorative Justice）”与多层级支持系统（PBIS）等具备实操稳健性与可分步推进的替代执行方案，最终促成联邦教育与司法部联合纪律指导意见的成功出台。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 45–46)]]
 
 ---

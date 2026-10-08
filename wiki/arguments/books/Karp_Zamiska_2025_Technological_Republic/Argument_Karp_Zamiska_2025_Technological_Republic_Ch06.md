@@ -11,9 +11,9 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch06"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch06"
 argument_display_title: "Technological agnostics"
 argument_kind: "book-chapter"
-argument_related_count: 26
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 32
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "The Technological Republic: Hard Power, Soft Belief, and the Future of the West"
 publication_place: "New York"
@@ -54,9 +54,15 @@ related_persons:
   - "[[Manuel Castells]]"
   - "[[E. Digby Baltzell]]"
   - "[[Ágnes Heller]]"
+  - "[[Dwight D. Eisenhower]]"
   - "[[Stephen L. Carter]]"
+  - "[[Sigmund Freud]]"
+  - "[[Max Planck]]"
   - "[[Francis Fukuyama]]"
   - "[[Mariana Mazzucato]]"
+  - "[[John Rawls]]"
+  - "[[Morris Berman]]"
+  - "[[Edward R. Murrow]]"
 related_facts:
   - "[[Project Maven]]"
   - "[[DARPA]]"
@@ -86,11 +92,11 @@ updated: 2026-10-08
 >
 > - **硅谷精英将技术创造与国家使命割裂：选择权崇拜导致青年陷入永久准备与避险瘫痪**
 >
->   剖析当代硅谷技术创始人的精神特质，揭示选择权崇拜如何将青年心智禁锢于不愿承担排他性承诺的永久准备状态；考证 1519 年科尔特斯海滩毁船的决断隐喻，结合马克·扎克伯格（Mark Zuckerberg）的纯建造冲动与艾森豪威尔的告别演说警示，界定脱离政治方案与公共目的的[[Technological Agnosticism|技术不可知论]]（pp. 69–72）。
+>   剖析当代硅谷技术创始人的精神特质，揭示选择权崇拜如何将青年心智禁锢于不愿承担排他性承诺的永久准备状态；考证 1519 年科尔特斯海滩毁船的决断隐喻，结合马克·扎克伯格（Mark Zuckerberg）的纯建造冲动与[[Dwight D. Eisenhower|艾森豪威尔]]的告别演说警示，界定脱离政治方案与公共目的的[[Technological Agnosticism|技术不可知论]]（pp. 69–72）。
 >
 > - **过度世俗化与相对主义制造道德真空：不信文化剥夺了凝聚国家共同体信念的精神根基**
 >
->   援引[[Stephen L. Carter|斯蒂芬·L. 卡特]]对精英阶层排斥超验信仰的批判，追溯弗洛伊德心理还原论对信仰的病理化，剖析战后世俗化如何以包容之名消解了任何实质规范性价值；结合普朗克科学定律与[[Francis Fukuyama|弗朗西斯·福山]]对后现代相对主义[[Epistemology|认识论]]自毁的批判，阐明包容一切终将异化为一无所信（pp. 72–74）。
+>   援引[[Stephen L. Carter|斯蒂芬·L. 卡特]]对精英阶层排斥超验信仰的批判，追溯[[Sigmund Freud|弗洛伊德]]心理还原论对信仰的病理化，剖析战后世俗化如何以包容之名消解了任何实质规范性价值；结合[[Max Planck|普朗克]]科学定律与[[Francis Fukuyama|弗朗西斯·福山]]对后现代相对主义[[Epistemology|认识论]]自毁的批判，阐明包容一切终将异化为一无所信（pp. 72–74）。
 >
 > - **科技巨头逃避防务义务与大学异化：心智产品化驱动名校人才脱离现实关怀**
 >
@@ -102,7 +108,7 @@ updated: 2026-10-08
 >
 > - **形式正义无法替代实质美好生活：克服恐惧非议的集体沉默以[[Revoicing|重铸]]国家政治认同**
 >
->   援引乔治·奥威尔《1984》密林麦克风与东德斯塔西窃听历史，指出真正威胁并非外在监视而是内在信念的丧失；结合约翰·罗尔斯与[[Ágnes Heller|阿格妮丝·赫勒]]论[[The Right and the Good|正当与善]]的血肉关系以及莫里斯·伯曼对解构主义极限的批判，援引爱德华·R. 默罗终结麦卡锡主义的名言，呼吁公众直面自身责任，终结对民族国家概念的思想内战（pp. 79–82）。
+>   援引乔治·奥威尔《1984》密林麦克风与东德斯塔西窃听历史，指出真正威胁并非外在监视而是内在信念的丧失；结合[[John Rawls|约翰·罗尔斯]]与[[Ágnes Heller|阿格妮丝·赫勒]]论[[The Right and the Good|正当与善]]的血肉关系以及[[Morris Berman|莫里斯·伯曼]]对解构主义极限的批判，援引爱德华·R. [[Edward R. Murrow|默罗]]终结麦卡锡主义的名言，呼吁公众直面自身责任，终结对民族国家概念的思想内战（pp. 79–82）。
 
 ---
 
@@ -147,9 +153,9 @@ updated: 2026-10-08
 
 盲目的技术建造若脱离公共监督，将对民主宪政构成根本性威胁。
 
-> [!tension] 纯粹建造冲动 vs 艾森豪威尔的科技精英俘获警示
+> [!tension] 纯粹建造冲动 vs [[Dwight D. Eisenhower|艾森豪威尔]]的科技精英俘获警示
 > - **纯粹建造主义（Construction for Its Own Sake）** 认为代码编写与技术扩容具有自足的价值，无需向国家使命或规范性政治方案负责，将因为能够建造所以必须建造视为自明的创新法则（pp. 71–72）。
-> - **艾森豪威尔的宪政警示（Eisenhower's 1961 Warning）** 德怀特·D. 艾森豪威尔（Dwight D. Eisenhower）在 1961 年告别演说中深刻警示，除了军工复合体之外，公共政策本身面临着沦为“科技精英之俘虏”（Captive of a Scientific-Technological Elite）的巨大危险。脱离根本目标的盲目技术建造，正在将民主社会引向未受问责的险境（p. 71）。
+> - **艾森豪威尔的宪政警示（Eisenhower's 1961 Warning）** [[Dwight D. Eisenhower|德怀特·D·艾森豪威尔]]（[[Dwight D. Eisenhower]]）在 1961 年告别演说中深刻警示，除了军工复合体之外，公共政策本身面临着沦为“科技精英之俘虏”（Captive of a Scientific-Technological Elite）的巨大危险。脱离根本目标的盲目技术建造，正在将民主社会引向未受问责的险境（p. 71）。
 
 ---
 
@@ -169,12 +175,12 @@ updated: 2026-10-08
 
 > [!case] [[Stephen L. Carter|斯蒂芬·卡特]]剖析受教育阶层对信仰的病理化偏见
 > - **狂热分子标签与理性偏见** 耶鲁大学法学院讲座教授[[Stephen L. Carter|斯蒂芬·L. 卡特]]在《不信文化》（*The Culture of Disbelief*, 1993）中指出，在受过高等教育的统治阶层看来，严肃对待宗教只是那些眼神狂热的偏执狂才会做的事。
-> - **弗洛伊德心理还原论的渊源** 卡特考证现代怀疑论始于弗洛伊德（Sigmund Freud, 1907）在《强迫动作与宗教实践》中的论断，即将宗教还原为建立在本能冲动压抑基础上的强迫性神经冲动。这种将非功利性信念病理化的倾向，阻碍了当代青年形成坚定的[[Hard Belief|硬信念]]（p. 72）。
+> - **[[Sigmund Freud|弗洛伊德]]心理还原论的渊源** 卡特考证现代怀疑论始于[[Sigmund Freud|西格蒙德·弗洛伊德]]（[[Sigmund Freud]]）在《强迫动作与宗教实践》（1907）中的论断，即将宗教还原为建立在本能冲动压抑基础上的强迫性神经冲动。这种将非功利性信念病理化的倾向，阻碍了当代青年形成坚定的[[Hard Belief|硬信念]]（p. 72）。
 
 对科学确定性的狭隘理解，进一步削弱了人们坚持信念的勇气。
 
-> [!case] 普朗克科学更替定律与实证信仰对智识勇气的挤占
-> - **科学真理的代际更替规律** 德国物理学家马克斯·普朗克（Max Planck, 1949）在自传中指出，一项新的科学真理之所以取得胜利，并不是通过说服其反对者并使他们看到光明，而是因为其反对者最终都死去了，成长起来的新一代熟悉了它。
+> [!case] [[Max Planck|普朗克]]科学更替定律与实证信仰对智识勇气的挤占
+> - **科学真理的代际更替规律** 德国物理学家[[Max Planck|马克斯·普朗克]]（[[Max Planck]]）在自传（1949）中指出，一项新的科学真理之所以取得胜利，并不是通过说服其反对者并使他们看到光明，而是因为其反对者最终都死去了，成长起来的新一代熟悉了它。
 > - **科学确定性对信念勇气的挤压** 西方文明的奇迹在于其对科学实证的坚定信仰；然而，这种对确凿证据的绝对执念在人文与政治领域却产生了负面外溢效应——它挤压了同样重要的智识勇气（Intellectual Courage），而智识勇气恰恰要求人们在缺乏完全证据的情况下依然敢于树立和坚持崇高信念（pp. 72–73）。
 
 后现代解构主义走向极端，最终导致了道德与[[Epistemology|认识论]]的全面崩溃。
@@ -268,11 +274,11 @@ updated: 2026-10-08
 
 制度的正义程序必须有实质的伦理追求作为支撑。
 
-> [!tension-table] 罗尔斯形式正义与[[Ágnes Heller|赫勒]]实质美好生活的辩证张力
+> [!tension-table] [[John Rawls|罗尔斯]]形式正义与[[Ágnes Heller|赫勒]]实质美好生活的辩证张力
 > | 比较维度 | 自由主义程序正义（The Right） | 目的论实质美好生活（The Good） |
 > |---|---|---|
 > | **本体定位** | 宪政与法律制度的“骨架”（Skeleton），强调规则中立、权利平权与程序容忍 | 共同体伦理、德性追求与文化意义的“血肉”（Flesh and Blood） |
-> | **代表思想** | 约翰·罗尔斯《正义论》的无知之幕与[[Amy Gutmann\|艾米·古特曼]]的世界主义效忠 | [[Ágnes Heller\|阿格妮丝·赫勒]]《超越正义》对实质善与人类潜能实现的呼唤 |
+> | **代表思想** | [[John Rawls\|约翰·罗尔斯]]（[[John Rawls]]）《正义论》的无知之幕与[[Amy Gutmann\|艾米·古特曼]]的世界主义效忠 | [[Ágnes Heller\|阿格妮丝·赫勒]]《超越正义》对实质善与人类潜能实现的呼唤 |
 > | **现实困境** | 割裂血肉的空洞骨架，导致公共话语无菌化与价值虚无，催生不信文化 | 缺乏正义骨架约束的实质善可能退化为强制同质化，需在宪政框架内寻求平衡 |
 
 > [!case] 赫勒论正义骨架与美好生活血肉的本体关系
@@ -281,14 +287,14 @@ updated: 2026-10-08
 
 解构主义对价值判断的拆解若无边界，将演变为摧毁一切文明积累的虚无主义。
 
-> [!case] 伯曼论解构主义走向极限导致的真理弃绝
-> - **解构主义的历史合理性** 莫里斯·伯曼（Morris Berman, 2006）在《美国文化的黄昏》中承认解构主义对学术客观性偏见的批判具有合理性。
+> [!case] [[Morris Berman|伯曼]]论解构主义走向极限导致的真理弃绝
+> - **解构主义的历史合理性** [[Morris Berman|莫里斯·伯曼]]（[[Morris Berman]]）在《美国文化的薄暮》（2000/2006）中承认解构主义对学术客观性偏见的批判具有合理性。
 > - **推向极端的虚无主义陷阱** 当解构立场被推至极限，以至于放弃对真理的探寻、否认客观历史与思想传统的现实性时，社会便彻底失去了航标。不愿亮明观点、逃避真理火焰的态度，将使整个文明随波逐流（p. 81）。
 
 走出危机的出路在于公民自身的觉醒与担当。
 
-> [!case] 默罗电视演讲终结麦卡锡主义与公民责任自觉
-> - **直面专横迫害的历史勇气** 1954 年 3 月 9 日，哥伦比亚广播公司（CBS）传奇播音员爱德华·R. 默罗（Edward R. Murrow）在《现在请看》（*See It Now*）节目中发表了对威斯康星州参议员约瑟夫·R. 麦卡锡（Joseph R. McCarthy）的严厉批判，开启了终结麦卡锡主义政治迫害的历史转折。
+> [!case] [[Edward R. Murrow|默罗]]电视演讲终结麦卡锡主义与公民责任自觉
+> - **直面专横迫害的历史勇气** 1954 年 3 月 9 日，哥伦比亚广播公司（CBS）传奇播音员[[Edward R. Murrow|爱德华·R·默罗]]（[[Edward R. Murrow]]）在《现在请看》（*See It Now*）节目中发表了对威斯康星州参议员约瑟夫·R. 麦卡锡（Joseph R. McCarthy）的严厉批判，开启了终结麦卡锡主义政治迫害的历史转折。
 > - **莎士比亚名言揭示公民责任** 默罗在演讲末尾引用莎士比亚《裘力斯·恺撒》中的名言警示全美公众：“亲爱的布鲁图斯，过错不在我们的星宿，而在我们自己”。克服心智空洞化危机不能寄望于政客的道德自律，而必须依靠公众自身的觉醒与反抗（pp. 81–82）。
 
 > [!conclusion] 终结对国家概念的思想内战以[[Revoicing|重铸]]技术共和国
@@ -318,7 +324,7 @@ updated: 2026-10-08
 >
 > *Taking religion seriously is something that only those wild-eyed zealots do.*
 
-> [!citation-card] 马克斯·普朗克论科学真理更替规律
+> [!citation-card] [[Max Planck|马克斯·普朗克]]论科学真理更替规律
 > 一项新的科学真理之所以取得胜利，并不是通过说服其反对者并使他们看到光明，而是因为其反对者最终都死去了，成长起来的新一代熟悉了它。（pp. 72–73）
 >
 > *A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents finally die.*
@@ -338,12 +344,12 @@ updated: 2026-10-08
 >
 > *Justice is the skeleton: the good life is the flesh and blood.*
 
-> [!citation-card] 莫里斯·伯曼论解构主义推向极端的虚无主义陷阱
+> [!citation-card] [[Morris Berman|莫里斯·伯曼]]论解构主义推向极端的虚无主义陷阱
 > 问题在于当这一立场被推至极限，以至于放弃对真理的探寻甚至否认其存在，否认客观历史与思想传统的现实性。（p. 81）
 >
 > *The problem arises when this position is pushed to the limit, such that you abandon the search for truth and even deny it exists, repudiate the reality of history and intellectual tradition.*
 
-> [!citation-card] 爱德华·R. 默罗论公众自身责任与麦卡锡主义的终结
+> [!citation-card] [[Edward R. Murrow|爱德华·R·默罗]]论公众自身责任与麦卡锡主义的终结
 > 亲爱的布鲁图斯，过错不在我们的星宿，而在我们自己。（p. 82）
 >
 > *The fault, dear Brutus, is not in our stars, but in ourselves.*

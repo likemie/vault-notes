@@ -8,7 +8,7 @@ aliases:
 summary: "由尤里·布朗芬布伦纳开创的发展心理学与教育学经典理论，主张个体发展是由嵌套于彼此之中的多层环境系统（微系统、中系统、外系统、宏系统及历时系统）共同交互塑造的动态生态过程，其历时系统构想为政策制定时间生态分析提供了跨学科基础。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 12
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -36,13 +36,14 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Urie Bronfenbrenner]]"
+  - "[[Niall Ferguson]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Serpell_2020_EP]]"
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-09-26
+updated: 2026-10-08
 ---
 
 # Ecological Systems Theory
@@ -139,7 +140,7 @@ updated: 2026-09-26
 > [!exegesis] 从联邦贫困儿童干预到宏观教育立法时间系统分析
 > 生态系统理论不仅在微观教育干预中发挥基石作用，更在宏观教育[[Policy Science in Comparative Education\|政策科学]]中实现了跨学科跃迁：
 > 1. **微观至中观层面的“开端计划”（Head Start）实践** [[Urie Bronfenbrenner\|布朗芬布伦纳]]主张，单纯在教室内为贫困儿童补习无法根除学业失败，必须从生态中系统入手：项目不仅提供学前教育，还强制要求家长深度参与、提供免费儿童营养餐、开展家庭走访，并联动社区医疗卫生外系统，构建了全美最持久的多系统综合干预工程。
-> 2. **宏观政策层面的[[Policymaking Chronosystem\|政策制定时间系统]]跨学科移植** [[Argument_Serpell_2020_EP\|Serpell (2020)]] 借鉴了布朗芬布伦纳的历时系统思想，指明宏观教育立法生态中存在独特的“时间节律”。当桑迪胡克小学枪击案或弗格森事件等重大突发事件（历时系统的关键扰动）爆发时，整个政策系统的平稳状态瞬间瓦解，立法者受激触发极速响应，迫切在数小时内宣布政治立场并调集证据，揭示了实证学者必须掌握的宏观政策时间运行法则。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 42)]]
+> 2. **宏观政策层面的[[Policymaking Chronosystem\|政策制定时间系统]]跨学科移植** [[Argument_Serpell_2020_EP\|Serpell (2020)]] 借鉴了布朗芬布伦纳的历时系统思想，指明宏观教育立法生态中存在独特的“时间节律”。当桑迪胡克小学枪击案或[[Niall Ferguson|弗格森]]事件等重大突发事件（历时系统的关键扰动）爆发时，整个政策系统的平稳状态瞬间瓦解，立法者受激触发极速响应，迫切在数小时内宣布政治立场并调集证据，揭示了实证学者必须掌握的宏观政策时间运行法则。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 42)]]
 
 ---
 

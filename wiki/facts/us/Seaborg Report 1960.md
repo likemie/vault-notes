@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_instruments: []
 related_persons:
   - "[[Alfred Nobel]]"
   - "[[Vannevar Bush]]"
+  - "[[Dwight D. Eisenhower]]"
   - "[[Paula Stephan]]"
 related_facts:
   - "[[President's Science Advisory Committee]]"
@@ -95,7 +96,7 @@ updated: 2026-10-08
 ## 时间线
 
 > [!timeline] 政策演进关键节点
-> - **1957** 苏联斯普特尼克（[[Sputnik Shock 1957|Sputnik]]）卫星升空，美国艾森豪威尔政府重组[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）。
+> - **1957** 苏联斯普特尼克（[[Sputnik Shock 1957|Sputnik]]）卫星升空，美国[[Dwight D. Eisenhower|艾森豪威尔]]政府重组[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）。
 > - **1960** 格伦·西博格牵头完成并正式发布报告《科学进步、大学与联邦政府》（*Scientific Progress, the Universities, and the Federal Government*）。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
 > - **1964–1966** 报告诉求全面落地：[[National Science Foundation|NSF]] 创设大学科学发展计划（USDP），启动间接费逐校协商政策；DOD 推出 Project THEMIS，[[National Aeronautics and Space Administration|NASA]] 设立 SUP，[[National Institutes of Health|NIH]] 设立 HSAA。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 15–16)]]
 

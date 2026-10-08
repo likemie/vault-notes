@@ -11,7 +11,7 @@ subtype: organization
 region: "us"
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -42,6 +42,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Alfred Nobel]]"
+  - "[[Dwight D. Eisenhower]]"
 related_facts:
   - "[[Manhattan Project]]"
   - "[[Sputnik Shock 1957]]"
@@ -68,7 +69,7 @@ updated: 2026-10-08
 > 美国国家航空航天局（National Aeronautics and Space Administration, NASA）是美国联邦政府负责民用航天规划、尖端航空工程研究以及空间与地球科学探索的独立行政机构。作为冷战时期美国[[Technological Republic|技术共和国]][[Big Science|大科学工程]]与国家战略动员的旗舰中枢，NASA 体现了国家最高政治领导层与顶尖科学家群体之间的高度战略互信，开创了超大规模跨学科前沿技术集成的国家研发[[Paradigm|范式]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–8)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 成立于 1958 年。1957 年 10 月苏联发射首颗人造地球卫星（斯普特尼克危机）后，[[Alfred Nobel|诺贝尔]]奖得主汉斯·贝特与伊西多·拉比面见德怀特·艾森豪威尔总统并提出赋予科学家实质战略决策权；艾森豪威尔迅速设立总统科学顾问机制，并于次年依据《1958 年国家航空航天法案》整合原国家航空咨询委员会（NACA）正式组建 NASA。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–8)]]
+> - **成立时间 / 创设背景** 成立于 1958 年。1957 年 10 月苏联发射首颗人造地球卫星（斯普特尼克危机）后，[[Alfred Nobel|诺贝尔]]奖得主汉斯·贝特与伊西多·拉比面见[[Dwight D. Eisenhower|德怀特·艾森豪威尔]]总统并提出赋予科学家实质战略决策权；艾森豪威尔迅速设立总统科学顾问机制，并于次年依据《1958 年国家航空航天法案》整合原国家航空咨询委员会（NACA）正式组建 NASA。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–8)]]
 > - **总部地点 / 业务辐射** 总部位于华盛顿特区，在全美建有林登·约翰逊航天中心、肯尼迪航天中心、喷气推进实验室（JPL）、艾姆斯研究中心、戈达德太空飞行中心等十个大型研发与深空测控中枢。
 > - **法人属性与经费基础** 联邦独立行政机构，经费由美国[[Congressional Earmarks|国会专项拨款]]全额支持，年度预算规模超 250 亿美元。
 > - **核心宗旨与法定职责** 拓展人类在空间与航空领域的知识疆界，引领民用太空探索，促进空间科学、对地观测与航空工程技术的根本突破与军民协同转化。
@@ -83,7 +84,7 @@ updated: 2026-10-08
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **1957–1958 — 危机应对与机构闪电创设** [[Sputnik Shock 1957|斯普特尼克冲击]]促使艾森豪威尔总统与贝特、拉比等物理学巨擘迅速结盟，建立[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）；国会于 1958 年 7 月通过立法，同年 10 月正式成立 NASA，开启国家级[[Big Science|大科学工程]]时代。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–8)]]
+> - **1957–1958 — 危机应对与机构闪电创设** [[Sputnik Shock 1957|斯普特尼克冲击]]促使[[Dwight D. Eisenhower|艾森豪威尔]]总统与贝特、拉比等物理学巨擘迅速结盟，建立[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）；国会于 1958 年 7 月通过立法，同年 10 月正式成立 NASA，开启国家级[[Big Science|大科学工程]]时代。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–8)]]
 > - **1961–1972 — 冷战太空竞赛与阿波罗登月壮举** 肯尼迪总统确立登月国家战略目标，NASA 统领逾 40 万工程师与 2 万家工业企业实施[[Apollo Program|阿波罗计划]]，于 1969 年实现人类首次载人登月，奠定了美国在微电子、计算与航天领域的全球统治地位。
 > - **1970s–2000s — 航天飞机机队、深空探测与国际空间站** 研制并运营可重复使用航天飞机系统，发射哈勃空间望远镜与旅行者号深空探测器，主导建造国际空间站（ISS），推动载人航天从对抗迈向长期在轨实验。
 > - **2010s–至今 — 商业航天协同与阿尔忒弥斯重返月球** 面对国际地缘新格局与商业航天崛起，推行商业载人与商业货运公私伙伴机制，启动以阿尔忒弥斯计划为核心的载人登月与火星深空探索新战略。
@@ -147,7 +148,7 @@ updated: 2026-10-08
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Apollo Program]] | Fact (Program) | NASA 历史上最著名的旗舰载人登月工程。 |
-> | [[Sputnik Shock 1957]] | Fact (Event) | 促使艾森豪威尔与顶尖科学家结盟并立法创设 NASA 的直接历史导火索。 |
+> | [[Sputnik Shock 1957]] | Fact (Event) | 促使[[Dwight D. Eisenhower\|艾森豪威尔]]与顶尖科学家结盟并立法创设 NASA 的直接历史导火索。 |
 > | [[Technological Republic]] | Concept | NASA 作为美国冷战时期国家战略需求与前沿科学深度结盟的标志性机构。 |
 > | [[Star Scientists]] | Concept | 汉斯·贝特、伊西多·拉比等顶尖学者在白宫直接促成 NASA 创立。 |
 > | [[Technology Readiness Level]] | Concept | NASA 为管理大型前沿工程研发风险而首创的技术成熟度评估标准。 |

@@ -5,7 +5,7 @@ aliases:
 summary: "一种处理殖民主义文化遗产的批判理论，审视帝国主义意识形态如何通过知识生产、价值支配和身份建构延续对非西方群体的压制与边缘化。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 8
+theory_related_count: 9
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -27,14 +27,15 @@ related_theories:
   - "[[Queer Theory]]"
   - "[[Orientalism]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Edward Said]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Post-colonial Theory
@@ -64,4 +65,4 @@ updated: 2026-10-07
 ## 应用案例
 
 > [!case] 应用案例索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|Cohen et al. (2011, pp. 412–413)]] — 后殖民理论被列为[[Critical Theory\|批判理论]]伞下的重要取向，Said 的[[Orientalism\|东方主义]]和 Babha 的多元声音是核心概念。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|Cohen et al. (2011, pp. 412–413)]] — 后殖民理论被列为[[Critical Theory\|批判理论]]伞下的重要取向，[[Edward Said|Said]] 的[[Orientalism\|东方主义]]和 Babha 的多元声音是核心概念。

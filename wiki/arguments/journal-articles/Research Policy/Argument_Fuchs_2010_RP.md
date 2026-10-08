@@ -58,6 +58,7 @@ related_instruments:
 related_persons:
   - "[[Tony Tether]]"
   - "[[Erica Fuchs]]"
+  - "[[Dwight D. Eisenhower]]"
   - "[[George Heilmeier]]"
   - "[[Alfred Nobel]]"
   - "[[John W. Meyer]]"
@@ -84,7 +85,7 @@ title: "Argument_Fuchs_2010_RP"
 argument_key: "Argument_Fuchs_2010_RP"
 argument_display_title: "Rethinking the role of the state in technology development: DARPA and the case for embedded network governance"
 argument_kind: "journal-article"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -177,7 +178,7 @@ issuing_organization: ""
 #### 1. DARPA 在半个世纪中随国家战略需求经历六个阶段的资助重心演变
 
 > [!policy-context] 机构使命与国家战略的周期性演化
-> DARPA 的组织使命与运作形态在过去数十年中随美国历任总统战略意图及外部安全威胁发生周期性演变，始终在自由科学探索与具体应用目标之间寻求动态平衡。从 1958 年艾森豪威尔设立 ARPA 以防止技术突袭，到 1970 年代受《[[Mansfield Amendment 1969|曼斯菲尔德修正案]]》约束转向直接军事应用，再到 1980 年代应对日本半导体竞争设立 [[Sematech]]，DARPA 的资助重点始终因时制宜地在基础探索与应用开发之间切换。（pp. 1135–1137）
+> DARPA 的组织使命与运作形态在过去数十年中随美国历任总统战略意图及外部安全威胁发生周期性演变，始终在自由科学探索与具体应用目标之间寻求动态平衡。从 1958 年[[Dwight D. Eisenhower|艾森豪威尔]]设立 ARPA 以防止技术突袭，到 1970 年代受《[[Mansfield Amendment 1969|曼斯菲尔德修正案]]》约束转向直接军事应用，再到 1980 年代应对日本半导体竞争设立 [[Sematech]]，DARPA 的资助重点始终因时制宜地在基础探索与应用开发之间切换。（pp. 1135–1137）
 
 > [!row-contrast] Table 1：DARPA 组织历史沿革（1958–2000s）
 > | 年代周期 | 1958 | 1960s | 1970s | 1980s | 1990s | 2000s |

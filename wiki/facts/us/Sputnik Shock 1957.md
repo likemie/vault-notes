@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 42
+fact_related_count: 43
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -49,6 +49,7 @@ related_theories:
 related_methods:
   - "[[Correlational Research]]"
 related_persons:
+  - "[[Dwight D. Eisenhower]]"
   - "[[C. Arnold Anderson]]"
 related_facts:
   - "[[President's Science Advisory Committee]]"
@@ -77,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Sputnik Shock 1957
@@ -91,7 +92,7 @@ updated: 2026-10-07
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1957 年 10 月 4 日（苏联斯普特尼克 1 号卫星发射升空）；其冲击波迅速席卷美国白宫、五角大楼、国会山、全美各大高校，以及西欧诸国与巴黎[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（Organisation for European Economic Co-operation，OEEC）总部。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
-> - **核心当事主体** 美国联邦政府（艾森豪威尔政府、国防部与国会）；苏联航天与国防工业科研体系；新兴国防科研机构（ARPA/DARPA、NASA）；白宫最高科学咨询中枢（[[President's Science Advisory Committee|PSAC]]）；欧洲经济合作组织（后改组为[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织））；全美大学科学家、工程师及教育学者共同体。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1134)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 540)]]
+> - **核心当事主体** 美国联邦政府（[[Dwight D. Eisenhower|艾森豪威尔]]政府、国防部与国会）；苏联航天与国防工业科研体系；新兴国防科研机构（ARPA/DARPA、NASA）；白宫最高科学咨询中枢（[[President's Science Advisory Committee|PSAC]]）；欧洲经济合作组织（后改组为[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织））；全美大学科学家、工程师及教育学者共同体。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1134)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 540)]]
 > - **深层制度与社会背景** 美苏两极冷战进入洲际导弹与空间技术争夺战。西方社会普遍认识到苏联在空间技术上的领先并非单纯的工程突破，而是其集权科研体制与大规模理工科人才培养效率的综合体现，暴露出美国战后分立割裂的军种研发体制以及公立学校生活适应教育（Life Adjustment Education）的严重软弱。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 421)]]
 > - **直接导火索 / 触发事件** 1957 年 10 月 4 日苏联成功发射重达 83.6 公斤的 Sputnik 1 卫星并持续发出无线电信号，彻底击碎了美国在二战后长期维系的高技术垄断安全幻觉。
 
@@ -101,7 +102,7 @@ updated: 2026-10-07
 
 > [!dev-timeline] 事件推进与制度演变历程
 > - **1957–1958 — 危机爆发与国家安全科研体制闪电重组**
->   - 1957 年 11 月，面对朝野震动，艾森豪威尔总统迅速设立全职总统科学顾问，并在白宫正式组建**[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）**，由麻省理工学院（MIT）校长詹姆斯·基利安（James Killian）领衔，学术精英直接参与最高国防与外太空决策，构建了“高自治—高嵌入”治理结构。
+>   - 1957 年 11 月，面对朝野震动，[[Dwight D. Eisenhower|艾森豪威尔]]总统迅速设立全职总统科学顾问，并在白宫正式组建**[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）**，由麻省理工学院（MIT）校长詹姆斯·基利安（James Killian）领衔，学术精英直接参与最高国防与外太空决策，构建了“高自治—高嵌入”治理结构。
 >   - 1958 年 2 月，美国国防部依据总统指示设立**高级研究计划局（Advanced Research Projects Agency，[[DARPA|ARPA]]，即后来的 [[DARPA]]）**，直属国防部长办公室，专门负责高风险、前瞻性与跨军种前沿科技攻关，其首要法定宗旨即为“防范敌方技术突袭，并在关键科技领域制造对敌技术突袭”。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1134)]]
 >   - 同年 7 月美国国会通过《国家航空航天法案》成立[[National Aeronautics and Space Administration|国家航空航天局]]（NASA），将民用航天职能从军方剥离；
 >   - 同年 9 月国会通过《[[National Defense Education Act of 1958|国防教育法]]》（National Defense Education Act，NDEA 1958），联邦财政首次对数学、科学、工程与关键外语教育进行大规模定向注资；同年芝加哥大学在卡耐基基金会资助下建立[[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 421–423)]]

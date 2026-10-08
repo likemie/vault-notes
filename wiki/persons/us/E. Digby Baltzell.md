@@ -9,9 +9,9 @@ summary: "美国著名社会学家、宾夕法尼亚大学教授，创造了WASP
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 6
+person_related_count: 4
 person_related_level: 0
-person_related_stars: ""
+person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 born: "1915"
 died: "1996"
@@ -22,14 +22,12 @@ tags:
   - theme/social-stratification
 related_concepts:
   - "[[Establishment Caste]]"
+  - "[[Champ]]"
   - "[[Technological Agnosticism]]"
-  - "[[Cult of Optionality]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Alexander Karp]]"
-  - "[[Nicholas Zamiska]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"
@@ -53,7 +51,7 @@ updated: 2026-10-08
 > [!citation-card] 上层阶级退化为种姓的制度危险
 > 如果一个上层阶级蜕变成种姓，统治集团的传统权威就会面临解体的严重危险，而社会则沦为追求成功与富贵之职业生涯主义者的角逐场。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 79)]]
 >
-> *If an upper class degenerates into a caste, the traditional authority of an establishment is in grave danger of disintegrating, while society becomes a field for careerists seeking success and affluence.*
+> *If an upper class degenerates into a caste, the traditional authority of an establishment is in grave danger of disintegrating, while society becomes a [[Champ|field]] for careerists seeking success and affluence.*
 
 ---
 

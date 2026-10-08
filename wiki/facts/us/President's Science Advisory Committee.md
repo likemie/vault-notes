@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -47,6 +47,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[Science, The Endless Frontier 1945]]"
 related_persons:
+  - "[[Dwight D. Eisenhower]]"
   - "[[Vannevar Bush]]"
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
@@ -57,7 +58,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # President's Science Advisory Committee
@@ -70,7 +71,7 @@ updated: 2026-10-07
 > 总统科学顾问委员会（President's Science Advisory Committee, PSAC）是冷战高潮时期直属于美国总统的最高战略级科学顾问机构，是战后美国“高自治—高嵌入”科技治理结构的制度化巅峰。该委员会使学术精英作为“国家理性”的[[Avatar|化身]]深度介入白宫核心大战略决策，跨越各行政部委官僚壁垒，为总统直接提供前沿科技、核战略、国防安全及科学高等教育战略评估，构成了战后美国科学界制度化嵌入国家大战略决策的核心枢纽。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 38–39)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 朝鲜战争初期曾有设立全职总统科学顾问的动议但未落实；1957 年 10 月苏联人造卫星危机（[[Sputnik Shock 1957|Sputnik]]）爆发后，德怀特·艾森豪威尔（Dwight D. Eisenhower）总统于 1957 年 11 月正式设立全职总统科学顾问并在白宫组建 PSAC，以重构国家科技安全与太空竞赛优势。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
+> - **成立时间 / 创设背景** 朝鲜战争初期曾有设立全职总统科学顾问的动议但未落实；1957 年 10 月苏联人造卫星危机（[[Sputnik Shock 1957|Sputnik]]）爆发后，[[Dwight D. Eisenhower|德怀特·艾森豪威尔]]（Dwight D. Eisenhower）总统于 1957 年 11 月正式设立全职总统科学顾问并在白宫组建 PSAC，以重构国家科技安全与太空竞赛优势。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
 > - **总部地点 / 业务辐射** 总部设于白宫执行办公室，直接向总统及其国家安全委员会（National Security Council, NSC）汇报，业务辐射全美联邦研发部门、国防军工系统及顶尖[[Research Universities|研究型大学]]。
 > - **法人属性与经费基础** 总统执行办公室直属咨询委员会；日常运行依托总统特别开支预算，1962 年起依托新设的白宫科学技术办公室（[[Office of Science and Technology Policy|Office of Science and Technology]], OST）提供专职行政与研究参谋支持。
 > - **核心宗旨与法定职责** 确保白宫决策层直接倾听来自最前沿科学家的非官方独立建言；就国家安全防御、外太空探索、尖端科研基础设施及高层次科学与工程人才培养提供权威研判。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 38–39)]]
@@ -80,7 +81,7 @@ updated: 2026-10-07
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **1957–1961 — 艾森豪威尔时期组建与“高自治—高嵌入”治理结构确立** 艾森豪威尔任命麻省理工学院（Massachusetts Institute of Technology, MIT）校长詹姆斯·基利安（James Killian）为首任全职总统科学顾问，正式组建 PSAC；首届 17 名委员中 14 名来自顶尖[[Research Universities|研究型大学]]，深度统筹军备控制、核战略、[[National Aeronautics and Space Administration|国家航空航天局]]（National Aeronautics and Space Administration, NASA）创建与高等教育扩容，形成科学精英深度嵌入大战略决策的黄金时期。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
+> - **1957–1961 — [[Dwight D. Eisenhower|艾森豪威尔]]时期组建与“高自治—高嵌入”治理结构确立** 艾森豪威尔任命麻省理工学院（Massachusetts Institute of Technology, MIT）校长詹姆斯·基利安（James Killian）为首任全职总统科学顾问，正式组建 PSAC；首届 17 名委员中 14 名来自顶尖[[Research Universities|研究型大学]]，深度统筹军备控制、核战略、[[National Aeronautics and Space Administration|国家航空航天局]]（National Aeronautics and Space Administration, NASA）创建与高等教育扩容，形成科学精英深度嵌入大战略决策的黄金时期。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > - **1961–1963 — 肯尼迪时期体制扩张与法定参谋机构 [[Office of Science and Technology Policy|OST]] 创设** 约翰·肯尼迪（John F. Kennedy）总统任命 MIT 工程学教授杰罗姆·威斯纳（Jerome Wiesner）为科学顾问兼 PSAC 主任；1962 年在白宫内正式创设科学技术办公室（OST），赋予科学顾问法定的政策统筹职能与常设技术参谋团队。
 > - **1963–1968 — 约翰逊时期重点转移与学科结构性脱节** 林登·约翰逊（Lyndon B. Johnson）总统推行“伟大社会”（Great Society）国内改革并谋求 PSAC 建言，但以数理与工程科学家为主体的 PSAC 难以就贫困、种族、城市等[[Socioscientific Issues|社会科学议题]]提供有效支撑，科学顾问与总统政治诉求逐渐疏离。
 > - **1969–1973 — 尼克松时期的互信破裂与委员会废止** 越战期间学界反战抗议激化，PSAC 成员在反弹道导弹（Anti-Ballistic Missile, [[Agent-based Modelling|ABM]]）和超音速客机（Supersonic Transport, SST）等议题上公开提出异议；理查德·尼克松（Richard Nixon）总统核心幕僚将 PSAC 斥为学术界在白宫套取经费的游说集团，于 1973 年 1 月解散 PSAC 并废除总统科学顾问职位。
@@ -115,7 +116,7 @@ updated: 2026-10-07
 ## 核心业务与旗舰产出
 
 > [!citation-card] 高自治与高嵌入治理结构
-> 艾森豪威尔总统组建总统科学顾问委员会（PSAC），使学术精英直接参与核威慑、导弹防御与航天工程的最高决策，形成了历史上极其罕见的高自治与高嵌入治理结构。在微观层面，立项与评价完全依托同行评议，政府不干涉研究细节；在宏观层面，科学家被公认为“国家理性”的[[Avatar|化身]]，享有崇高的公共威望。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
+> [[Dwight D. Eisenhower|艾森豪威尔]]总统组建总统科学顾问委员会（PSAC），使学术精英直接参与核威慑、导弹防御与航天工程的最高决策，形成了历史上极其罕见的高自治与高嵌入治理结构。在微观层面，立项与评价完全依托同行评议，政府不干涉研究细节；在宏观层面，科学家被公认为“国家理性”的[[Avatar|化身]]，享有崇高的公共威望。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 >
 > *President Eisenhower formed the President's Science Advisory Committee (PSAC), allowing academic elites to directly participate in highest-level decisions on nuclear deterrence, missile defense, and aerospace engineering. This forged a historically rare governance structure characterized by high autonomy and high embeddedness, wherein scientists were widely recognized as the embodiment of "national reason."*
 
@@ -156,7 +157,7 @@ updated: 2026-10-07
 > |:-----|:-----|:-----|
 > | [[Social Contract of Science]] | Theory | PSAC 构成了冷战时期科学社会契约“高自治—高嵌入”治理结构的巅峰制度化象征。 |
 > | [[Technology-Oriented Social Contract]] | Concept | 2025 年起美国科技政策新[[Paradigm\|范式]]，与 PSAC 代表的以科学认知为中心的传统契约形成鲜明治理对比。 |
-> | [[Sputnik Shock 1957]] | Fact | 1957 年苏联人造卫星上天直接打破美国安全神话，促成艾森豪威尔总统正式组建 PSAC。 |
+> | [[Sputnik Shock 1957]] | Fact | 1957 年苏联人造卫星上天直接打破美国安全神话，促成[[Dwight D. Eisenhower\|艾森豪威尔]]总统正式组建 PSAC。 |
 > | [[Seaborg Report 1960]] | Fact | PSAC 发布的代表性里程碑报告，奠定了战后联邦资助大学基础研究的扩张蓝图与间接成本机制。 |
 > | [[Office of Science and Technology Policy]] | Fact | 1973 年 PSAC 解散后，国会于 1976 年立法重设的白宫常设科技政策机构。 |
 > | [[Restoring Gold Standard Science Executive Order]] | Fact | 2025 年特朗普政府行政令，其通过行政可重复性审查[[Disciplina and Doctrina\|规训]]学术自治，与 PSAC 的完全自治形成鲜明对比。 |

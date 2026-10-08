@@ -12,9 +12,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 tags:
   - quantum-opportunity-program
@@ -39,7 +39,8 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Dwight D. Eisenhower]]"
 related_facts:
   - "[[National Dropout Prevention Center]]"
   - "[[What Works Clearinghouse]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-14
+updated: 2026-10-08
 ---
 
 # Quantum Opportunity Program
@@ -61,7 +62,7 @@ updated: 2026-09-14
 ## 项目定位与方案概况
 
 > [!info] 项目定位与方案概况
-> **量子机会项目（Quantum Opportunity Program, QOP）** 最早由美国机会工业化中心（OICA）与福特基金会（Ford Foundation）于 1980 年代末共同设计，后由艾森豪威尔基金会进一步改良为**艾森豪威尔量子机会项目（Eisenhower Quantum Opportunities Program, EQOP）**，是一项贯穿高中完整四年（9–12 年级）的全方位、全天候综合性青少年发展与预防辍学干预方案。
+> **量子机会项目（Quantum Opportunity Program, QOP）** 最早由美国机会工业化中心（OICA）与福特基金会（Ford Foundation）于 1980 年代末共同设计，后由[[Dwight D. Eisenhower|艾森豪威尔]]基金会进一步改良为**艾森豪威尔量子机会项目（Eisenhower Quantum Opportunities Program, EQOP）**，是一项贯穿高中完整四年（9–12 年级）的全方位、全天候综合性青少年发展与预防辍学干预方案。
 >
 > 在[[Evidence-Based Education\|循证教育]]元评估中，QOP/EQOP 作为 **“项目版本世代迭代与[[Document\|文献]]可得性引发评级分歧（Version Iteration and Literature Accessibility Divergence）”** 的典型案型——被 [[National Dropout Prevention Center\|NDPC]]、[[What Works Clearinghouse\|WWC]]、[[Blueprints for Healthy Youth Development\|Blueprints]] 与 [[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]] 四大机构评估，展现了同一干预家族在不同世代、不同文献可得性规则下评级完全脱节的制度现象([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 24–25]])。
 

@@ -9,7 +9,7 @@ summary: "扎根理论质性数据分析的基础切片与概念化阶段，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 36
+method_related_count: 37
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -57,6 +57,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Miranda Fricker]]"
+  - "[[Morris Berman]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-09-24
+updated: 2026-10-08
 ---
 
 # Open Coding
@@ -197,7 +198,7 @@ updated: 2026-09-24
 
 ## 认知负荷控制与迭代准则
 
-开放[[Coding in Qualitative Research|编码]]是一项反复推敲的迭代过程，而非一次性任务。马修·迈尔斯（Matthew Miles）与迈克尔·休伯曼（A. Michael Huberman, 1994）对编码者的认知负荷控制提出了关键操作指引（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 560]]）：
+开放[[Coding in Qualitative Research|编码]]是一项反复推敲的迭代过程，而非一次性任务。马修·迈尔斯（Matthew Miles）与迈克尔·休[[Morris Berman|伯曼]]（A. Michael Huberman, 1994）对编码者的认知负荷控制提出了关键操作指引（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 560]]）：
 
 > [!factors] 开放编码认知负荷控制与操作要则
 > - **[[Working Memory\|工作记忆]]容量上限与离散控制** 人类短期工作记忆在处理连续文本时通常仅能同时保持约 90 个编码处于激活状态；代码设置必须尽可能离散独立，避免过度细碎导致认知超载与分类漂移。

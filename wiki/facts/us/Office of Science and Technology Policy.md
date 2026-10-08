@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 30
+fact_related_count: 31
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -60,11 +60,12 @@ related_methods:
   - "[[Memos]]"
   - "[[Correlational Research]]"
 related_persons:
+  - "[[Dwight D. Eisenhower]]"
   - "[[Michael Kratsios]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Office of Science and Technology Policy
@@ -78,7 +79,7 @@ updated: 2026-10-07
 
 > [!org-context] 机构背景档案
 > - **立法依据** 1976 年 5 月 11 日由美国国会通过并由杰拉尔德·福特总统签署颁布的《1976 年国家科学技术政策、组织和优先事项法案》（National Science and Technology Policy, Organization and Priorities Act of 1976, P.L. 94-282）。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 39)]]
-> - **总部地点** 华盛顿特区白宫紧邻之艾森豪威尔行政办公楼（Eisenhower Executive Office Building, EEOB）。
+> - **总部地点** 华盛顿特区白宫紧邻之[[Dwight D. Eisenhower|艾森豪威尔]]行政办公楼（Eisenhower Executive Office Building, EEOB）。
 > - **法定双重职责** OSTP 主任依例兼任总统科学顾问（Science Adviser to the President），既直接为总统研判重大科技战略，又统筹由各内阁部长组成的[[National Science and Technology Council|国家科学技术委员会]]（[[National Science and Technology Council]], NSTC）与民间学者专家组成的总统科技顾问委员会（President's Council of Advisors on Science and Technology, PCAST）。
 > - **跨部门预算指导权** 每年联合白宫行政管理和预算局（Office of Management and Budget, OMB）签发全联邦年度研发预算优先事项备忘录，对国防部、能源部（[[Department of Energy]], DOE）、国家科学基金会（[[National Science Foundation]], NSF）与国立卫生研究院（[[National Institutes of Health]], NIH）等机构的研发预算投向具有实质性统摄力。
 

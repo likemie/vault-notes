@@ -8,7 +8,7 @@ summary: "加拿大教育哲学家，不列颠哥伦比亚大学副教授。从�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[John Rawls]]"
   - "[[Miranda Fricker]]"
 related_facts: []
 related_arguments:
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-09-28
+updated: 2026-10-08
 ---
 
 # Christopher Martin
@@ -52,7 +53,7 @@ updated: 2026-09-28
 
 > [!person-profile] 人物档案
 > - **身份位置** 加拿大教育哲学家，不列颠哥伦比亚大学（奥肯那根校区）教育学院副教授，主要研究领域为教育哲学、高等教育政治理论、公共审议与认识正义。
-> - **核心角色** 当代教育社会[[Epistemology|认识论]]的核心奠基人之一，在概念网络中是**“[[Formative Epistemic Injustice|成长性认识不正义]]（Formative [[Epistemic Injustice]]）”**的原初提出者；架起了罗尔斯政治自由主义、民主审议理论与教育伦理学之间的桥梁。
+> - **核心角色** 当代教育社会[[Epistemology|认识论]]的核心奠基人之一，在概念网络中是**“[[Formative Epistemic Injustice|成长性认识不正义]]（Formative [[Epistemic Injustice]]）”**的原初提出者；架起了[[John Rawls|罗尔斯]]政治自由主义、民主审议理论与教育伦理学之间的桥梁。
 > - **代表贡献**
 >   1. 首创 [[Formative Epistemic Injustice|成长性认识不正义]] 概念；
 >   2. 提出高等教育的公民权利理论（The Right to Higher Education），论证高等教育作为保障自主性与政治平等的非位置性善；

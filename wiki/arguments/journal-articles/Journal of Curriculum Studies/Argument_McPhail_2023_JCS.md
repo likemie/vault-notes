@@ -11,7 +11,7 @@ title: "Argument_McPhail_2023_JCS"
 argument_key: "Argument_McPhail_2023_JCS"
 argument_display_title: "Knowledge and the New Zealand curriculum refresh"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -56,6 +56,7 @@ related_methods:
 related_persons:
   - "[[Basil Bernstein]]"
   - "[[Lev Vygotsky]]"
+  - "[[Sigmund Freud]]"
   - "[[Gilbert Ryle]]"
   - "[[Michael Young]]"
   - "[[Johan Muller]]"
@@ -133,7 +134,7 @@ citation_aliases:
 > |---------|---------|------|---------|
 > | 知其然 | 命题 | 一句话说明某个核心主张 | 黑人生命攸关运动致力于消除系统性种族主义、维护人权 |
 > | | 学科概念 | 用词语或短语表达的抽象思想 | 种族主义、人权、社会公正、偏见 |
-> | 内容 | 概念的具体化 | 支撑概念的事实、案例、情境 | 该运动始于美国并向全球扩散，2020 年乔治·弗洛伊德之死引发了广泛关注 |
+> | 内容 | 概念的具体化 | 支撑概念的事实、案例、情境 | 该运动始于美国并向全球扩散，2020 年乔治·[[Sigmund Freud\|弗洛伊德]]之死引发了广泛关注 |
 > | 知其所用 | 技能、学科实践 | 运用学科方法处理具体问题 | 解读关于系统性种族主义的案例资料，在不同情境中运用人权原则进行分析 |
 
 ---

@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 3
+fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -25,7 +25,8 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Dwight D. Eisenhower]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05]]"
@@ -46,7 +47,7 @@ updated: 2026-10-08
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1952 年 9 月 23 日；美国加利福尼亚州好莱坞埃尔卡皮坦剧院（El Capitan Theatre）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, p. 62)]]
-> - **核心当事主体** 共和党副总统候选人理查德·尼克松、总统候选人德怀特·艾森豪威尔（Dwight D. Eisenhower）及全美 6000 万电视与广播受众。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, p. 62)]]
+> - **核心当事主体** 共和党副总统候选人理查德·尼克松、总统候选人[[Dwight D. Eisenhower|德怀特·艾森豪威尔]]（Dwight D. Eisenhower）及全美 6000 万电视与广播受众。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, p. 62)]]
 > - **深层制度与社会背景** 1950 年代初美国家庭电视机快速普及，大众媒介对政治公职人员的形象塑造与道德监督开始取代传统政党机器的幕后协商。
 > - **直接导火索 / 触发事件** 媒体曝光尼克松涉嫌拥有一项由加州富商支持者设立的秘密报销基金用于个人政治开销，党内高层一度施压其退出副总统竞选。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, p. 62)]]
 
@@ -55,7 +56,7 @@ updated: 2026-10-08
 ## 发展经过与演变阶段
 
 > [!dev-timeline] 事件推进历程
-> - **1952-09-18 — 秘密基金危机爆发** 《纽约邮报》等媒体头条披露尼克松政治基金丑闻，艾森豪威尔竞选阵营陷入严重被动。
+> - **1952-09-18 — 秘密基金危机爆发** 《纽约邮报》等媒体头条披露尼克松政治基金丑闻，[[Dwight D. Eisenhower|艾森豪威尔]]竞选阵营陷入严重被动。
 > - **1952-09-23 — 黄金时段电视自辩直播** 尼克松购买半小时全国电视转播时段发表自辩演讲，向全国公众公开家庭资产负债表（包括购买价格 1.3 万美元、尚余 3000 美元抵押贷款的加州房产），并深情提及得克萨斯州支持者赠送给他女儿的黑白可卡犬“跳棋”（Checkers），明确表态无论别人怎么说都绝不会把狗退回。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, p. 62)]]
 > - **1952-09-24 — 舆论逆转与政治危机解除** 演讲引发全美民众数百万封支持电报与信件，艾森豪威尔公开挽留尼克松，共和党选情转危为安并最终赢得 1952 年总统大选。
 

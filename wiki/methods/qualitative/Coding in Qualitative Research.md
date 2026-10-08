@@ -9,7 +9,7 @@ summary: "质性数据分析中将文本、图像及多模态数据拆解分段�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 67
+method_related_count: 68
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -82,6 +82,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Miranda Fricker]]"
+  - "[[Morris Berman]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
@@ -94,7 +95,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Coding in Qualitative Research
@@ -228,7 +229,7 @@ updated: 2026-10-07
 > - **认知容量与浅层层级控制原则** 人类短期工作记忆一般仅能同时维持 4±1 或 7±2 个编码节点，单次阅读最多同时承载约 90 个编码（Miles & Huberman, 1994）。吉布斯（Graham Gibbs）建议编码树状层级应当保持“浅层”（shallow）而非过度嵌套的深层结构，以维持分析结构的清晰可控；同时依托持续比较检验机制，持续往复比对新旧文本片段以排除反例。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Gibbs, 2007; Cohen et al., 2011, p. 562)]]
 
 > [!proc] 质性数据生成意义的十二种策略（Miles & Huberman 阶梯模型）
-> 迈尔斯与休伯曼（Matthew Miles & A. Michael Huberman）提出了从转录数据中系统生成意义并推进编码整合的十二种策略，沿抽象与推论阶梯分为三大分析阶段：[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Miles & Huberman, 1994; Cohen et al., 2011, 29.4)]]
+> 迈尔斯与休[[Morris Berman|伯曼]]（Matthew Miles & A. Michael Huberman）提出了从转录数据中系统生成意义并推进编码整合的十二种策略，沿抽象与推论阶梯分为三大分析阶段：[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Miles & Huberman, 1994; Cohen et al., 2011, 29.4)]]
 >
 > > [!step] 阶段一：模式识别与初级集聚策略（探索阶段）
 > > 1. **计数（counting）** 统计想法、主题、数据片段与词的出现频次。

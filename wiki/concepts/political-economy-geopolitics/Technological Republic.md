@@ -5,7 +5,7 @@ aliases:
 summary: "指国家战略力量、公共福利与民主制度合法性同前沿科技研发与软件工程实力深度绑定的政治经济体制形态。强调国家战略导向与科技工程共同体的深度互信与协同动员，以软件硬实力与人工智能威慑替代原子时代的工业化防御，破解同盟盆景军队、大构想饥荒与创新荒漠，重构自由民主政体的地缘优势与社会治理效能。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 51
+related_count: 69
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -16,6 +16,8 @@ tags:
   - theme/national-security
   - theme/geopolitics
   - theme/deterrence
+  - theme/higher-education
+  - theme/ethics-of-technology
 related_concepts:
   - "[[Winner's Fallacy]]"
   - "[[Hard Power]]"
@@ -27,13 +29,25 @@ related_concepts:
   - "[[Total Factor Productivity]]"
   - "[[Innovation Desert]]"
   - "[[Moral Dualism]]"
+  - "[[Technological Agnosticism]]"
+  - "[[Cult of Optionality]]"
+  - "[[Establishment Caste]]"
+  - "[[Buen Vivir]]"
+  - "[[Hard Belief]]"
+  - "[[Revoicing]]"
   - "[[Dual-Use Technology]]"
   - "[[National Innovation System]]"
   - "[[Grand Challenges]]"
   - "[[Competitiveness]]"
+  - "[[Productization of the Mind]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Big Science]]"
+  - "[[The Right and the Good]]"
+  - "[[Ontology]]"
   - "[[Document]]"
+  - "[[Epistemology]]"
+  - "[[Culture of Disbelief]]"
+  - "[[Historical Amnesia]]"
   - "[[Perpetual Peace]]"
   - "[[Research Translation]]"
   - "[[Artificial General Intelligence]]"
@@ -45,6 +59,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Jürgen Habermas]]"
+  - "[[Ágnes Heller]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
   - "[[Vannevar Bush]]"
@@ -55,9 +70,13 @@ related_persons:
   - "[[Robert J. Gordon]]"
   - "[[David Graeber]]"
   - "[[Remi Adekoya]]"
+  - "[[E. Digby Baltzell]]"
   - "[[J. C. R. Licklider]]"
+  - "[[Stephen L. Carter]]"
+  - "[[Amy Gutmann]]"
+  - "[[Manuel Castells]]"
+  - "[[Mariana Mazzucato]]"
 related_facts:
-  - "[[Alliance for Southern California Innovation]]"
   - "[[Office of Scientific Research and Development]]"
   - "[[Einstein-Szilard Letter]]"
   - "[[Apollo Program]]"
@@ -73,6 +92,7 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
 status: active
@@ -95,11 +115,12 @@ updated: 2026-10-08
 > 3. **重构同盟防务自主** 破解欧洲与日本因过度依赖外部保护伞而形成的[[Bonsai Army|盆景军队]]困局，依托分布式软件与自主系统重塑同盟战略纵深；
 > 4. **扭转[[Big Idea Famine|大构想饥荒]]** 引导科技投资与顶尖工程师走出消费主义虚拟应用的狭隘温室，重返关乎[[Total Factor Productivity|全要素生产率]]（Total Factor Productivity, TFP）的深层实体创新与国家重大战略挑战；
 > 5. **创立国家技术和平队** 创设国家技术和平队（Technological Peace Corps）等制度化通道，打通硅谷工程师与公共部门治理的壁垒，根除治理体系中的[[Innovation Desert|创新荒漠]]；
-> 6. **解构[[Moral Dualism|道德二元论]]** 破除将商业消费技术视作崇高、将国家安全技术视作污秽的[[Moral Dualism|道德二元论]]，重申技术发展必须服务于自由制度的生存与延续。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–5, 8–11, 15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 26–28)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–36)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 37–54)]]
+> 6. **解构[[Moral Dualism|道德二元论]]** 破除将商业消费技术视作崇高、将国家安全技术视作污秽的[[Moral Dualism|道德二元论]]，重申技术发展必须服务于自由制度的生存与延续；
+> 7. **破除[[Technological Agnosticism|技术不可知论]]与种姓化危机** 批判硅谷“为了建造而建造”的技术不可知论与逃避排他性承诺的[[Cult of Optionality|选择权崇拜]]，打破资本垄断下的[[Establishment Caste|统治集团种姓化]]，以“正义是骨架、[[Buen Vivir|美好生活]]是血肉”的[[Hard Belief|硬信念]]重建国家政治认同。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–5, 8–11, 15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 26–28)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–36)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 37–54)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 69–82)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 揭示现代国家的地缘竞争优势、社会制度韧性与公共治理公信力，根本上取决于前沿科学技术与国家战略需求的组织化融合程度。
-> - **用途** 诊断后冷战时期西方科技生态脱离国家防务与公共利益、陷入消费级应用内卷与全要素生产率停滞的结构性危机，为重构国家重大工程研发动员、同盟防务转型与公共治理现代化提供系统的政治经济学理论指导。
+> - **含义** 揭示现代国家的地缘竞争优势、社会制度韧性与公共治理公信力，根本上取决于前沿科学技术、国家战略需求与实质伦理信念的组织化融合程度。
+> - **用途** 诊断后冷战时期西方科技生态脱离国家防务与公共利益、陷入消费级应用内卷与全要素生产率停滞的结构性危机，为重构国家重大工程研发动员、同盟防务转型、高等教育使命与公共治理现代化提供系统的政治经济学与政治哲学指导。
 > - **边界** 区别于单纯由军工寡头垄断的威权式技术极权主义（Techno-Authoritarianism），亦区别于放任自流、脱离公共目标约束且缺乏硬核防卫能力的自由放任数字资本主义（Laissez-Faire Digital Capitalism）。
 
 > [!citation-card] 技术共和国的历史根基与时代使命
@@ -112,15 +133,15 @@ updated: 2026-10-08
 >
 > *The ability of free and democratic societies to prevail requires something more than moral appeal. It requires hard power, and hard power in this century will be built on software.*
 
-> [!citation-card] 软件世纪与硬件主从关系的根本逆转
-> 软件与硬件之间的主从等级关系已经彻底颠倒。在整个工业时代，软件仅仅被视为硬件机械的辅助附件；然而在 21 世纪的软件世纪中，软件跃居为全域感知、战略规划与动态协同的指挥中枢，而动能平台与物理装备则降维成为执行软件决策的消耗性外壳。下一场大国冲突的胜负将由软件决定。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 44–46)]]
+> [!citation-card] 凿沉战舰断绝退路与克服选择权崇拜
+> 对选择权的崇拜是极其有害的，它限制了年轻心智的发展，将他们判处为一场他们可能永远不会参与的战斗进行永久性的准备。未来属于那些凿沉船只的人。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 70)]]
 >
-> *The hierarchy between software and hardware has inverted. For the entirety of the industrial era, software was treated as an accessory to the machine. In the software century, software is the orchestrator, and hardware is the execution layer. The next conflict will be won or lost with software.*
+> *This cult of optionality, however, has been crippling, constraining the development of young minds and condemning them to a sort of perpetual preparation for a battle they may never fight. The future belongs to those who scuttle the ships.*
 
-> [!citation-card] 盆景军队困局与同盟防务重构
-> 欧洲长达数十年的和平红利演变为深刻的战略萎缩。大多数欧洲盟友维持着缺乏真实弹药储备、后勤纵深与可持续作战能力的盆景军队。如果同盟阵营继续将软件研发预算边缘化，将无法在去中心化算法蜂群时代维系常规威慑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 40–43)]]
+> [!citation-card] 正义骨架与美好生活血肉的辩证统一
+> 正义是骨架，美好生活则是血肉。一个世纪前开启的对国家概念的解构战争，已经将开放包容的初衷异化为对集体认同与共同政治方案的全面拒斥。唯有重新拥抱共同体使命与实质硬信念，西方才能[[Revoicing|重铸]]技术共和国。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 80–82)]]
 >
-> *Europe's decades-long peace dividend metastasized into structural atrophy. Most European allies maintain bonsai armies—ornamental forces lacking ammunition stockpiles, logistics depth, and sustained combat endurance. If [[Alliance for Southern California Innovation|the Alliance]] continues to marginalize software R&D budgets, it cannot sustain conventional deterrence in an era of decentralized algorithmic swarms.*
+> *Justice is the skeleton: the good life is the flesh and blood.*
 
 > [!boundary]- 概念边界
 > - 不等于狭隘军工复合体（Military-Industrial Complex） — 技术共和国追求的是[[Dual-Use Technology|军民两用技术]]的普遍繁荣与社会整体公共品提升（如互联网、全球定位系统（Global Positioning System, GPS）、微处理器），而非封闭自利的传统重工业军备利益集团。
@@ -139,7 +160,7 @@ updated: 2026-10-08
 > | **工程文化** | 结果导向、直面国家[[Grand Challenges\|重大挑战]]与实战检验 | 学术论文发表、产学研中试与专利产出 | 快速迭代、平台网络效应与流量变现 |
 > | **主导技术形态** | 软件[[Hard Power\|硬实力]]、算法指挥控制中枢、深层物理技术 | 行业共性技术平台、制造工艺与专利集群 | 消费级移动互联网应用、社交网络与算法广告 |
 > | **合法性基础** | 国家提供公共安全与核心技术福利的实际效能 | 宏观经济生产率与全球产业[[Competitiveness\|竞争力]]提升 | 消费选择自由与市场自发效率 |
-> | **历史典范** | 二战 [[Office of Scientific Research and Development\|OSRD]]、1939年[[Einstein-Szilard Letter\|爱因斯坦信函]]、[[Apollo Program\|阿波罗计划]]、[[DARPA\|ARPA]] 工程 | [[OECD\|经合组织]]（Organization for Economic Cooperation and Development, OECD）国家常态化产业创新政策 | 2000 年代以来的消费级移动互联网与社交平台 |
+> | **历史典范** | 二战 [[Office of Scientific Research and Development\|OSRD]]、1939年[[Einstein-Szilard Letter\|爱因斯坦信函]]、[[Apollo Program\|阿波罗计划]]、[[DARPA\|ARPA]] 工程 | [[OECD\|经合组织]]（OECD）国家常态化产业创新政策 | 2000 年代以来的消费级移动互联网与社交平台 |
 
 ---
 
@@ -154,6 +175,7 @@ updated: 2026-10-08
 > - **克服[[Big Idea Famine|大构想饥荒]]与重振[[Total Factor Productivity|全要素生产率]]（Reversing the Big Idea Famine & TFP Stagnation）** 引导全社会资本与工程人才从低风险广告点击与轻量级社交应用，转向受控核聚变、先进机器人、生命科学与量子计算等深层物理突破，打破全要素生产率长期停滞的困局。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 48–51)]]
 > - **创设国家技术和平队以消解公共部门[[Innovation Desert|创新荒漠]]（National Technological Peace Corps）** 建立科技人才定期轮岗服务公共部门与防卫体系的制度化纽带，将一线顶尖软件工程实践制度化导入政府、司法、医疗与国防系统，根除体制内的[[Innovation Desert|创新荒漠]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 52–54)]]
 > - **解构[[Moral Dualism|道德二元论]]与达沃斯共识迷思（Dismantling Moral Dualism & Davos Consensus）** 摒弃将商业技术视作纯洁、将防务研发视作原罪的虚伪认知，破除认为全球经贸融合可自发消除大国对抗的达沃斯空想，确立唯有捍卫自身能力的民主政体才能享有真正的伦理与和平。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 38–40)]]
+> - **破除[[Technological Agnosticism|技术不可知论]]与重建实质[[Hard Belief|硬信念]]（Transcending Agnosticism & Restoring Hard Belief）** 克服技术工程师将纯建造主义与国家使命脱钩的不可知论，打破高等教育[[Productization of the Mind|心智产品化]]与避险的[[Cult of Optionality|选择权崇拜]]；援引[[Ágnes Heller|阿格妮丝·赫勒]]正义与[[Buen Vivir|美好生活]]的辩证统一，重申唯有愿意承担现实代价的崇高信念才能赋予技术共和国长久生命力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 69–82)]]
 
 > [!logic-map]- 技术共和国的系统动力循环机制
 > ```mermaid
@@ -162,9 +184,11 @@ updated: 2026-10-08
 >     B --> C["战略威慑与国防安全屏障巩固<br>(AI威慑替代原子威慑/破除盆景军队)"]
 >     B --> D["实体产业生产率提升与普惠公共福利<br>(扭转大构想饥荒/激活全要素生产率)"]
 >     B --> E["国家技术和平队机制化输出<br>(消解公共部门创新荒漠)"]
+>     B --> G["破除技术不可知论与种姓化固化<br>(克服选择权崇拜/重塑实质道德信念)"]
 >     C --> F["民主政体治理合法性与地缘战略主动"]
 >     D --> F
 >     E --> F
+>     G --> F
 >     F --> A
 > ```
 
@@ -264,6 +288,19 @@ updated: 2026-10-08
 
 ---
 
+### 命题十　克服技术不可知论与种姓化危机：技术共和国必须以实质硬信念与开放贤能统治重建政治认同与文明活力
+
+> [!concept-lens] [[Technological Agnosticism|技术不可知论]]与[[Establishment Caste|统治集团种姓化]]的文化社会学批判
+> 探讨如何破除硅谷脱嵌世界主义与高等教育[[Productization of the Mind|心智产品化]]，以正义与[[Buen Vivir|美好生活]]的辩证统一重塑国家政治方案。
+
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Karp & Zamiska (2025, Ch. 6)]]
+> **破除不可知论冷漠并重构愿意承担代价的[[Hard Belief|硬信念]]** 卡普与扎米斯卡系统剖析了当代科技阶层陷入[[Technological Agnosticism|技术不可知论]]（将建造行为与国家目的割裂）与[[Cult of Optionality|选择权崇拜]]（避险瘫痪）的文化根源：
+> 1. **高等教育与心智产品化危机** 大学退化为行政看护机构，导致近半数名校毕业生流向金融咨询业，人文学科断崖式腰斩，培养出大批缺乏现实关怀的技能工匠（[[Productization of the Mind|心智产品化]]）；
+> 2. **统治集团种姓化隐患** 援引[[E. Digby Baltzell|E. 迪格比·巴尔策尔]]模型，极少数西海岸科技巨头垄断 21.4 万亿美元资本并闭关自守，使开放贤能贵族蜕变为封闭的特权种姓，瓦解公共问责与组织活力；
+> 3. **[[The Right and the Good|正当与善]]的血肉融合** 援引匈牙利哲学家[[Ágnes Heller|阿格妮丝·赫勒]]“正义是骨架，美好生活是血肉”的[[Ontology|本体论]]断，指出单纯形式化的程序正义无法滋养文明，必须克服因恐惧公众非议而形成的集体沉默，重新唤起公民与工程师为崇高目标承担现实代价的智识勇气（[[Hard Belief|硬信念]]），终结对民族国家概念的思想内战并[[Revoicing|重铸]]技术共和国。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 69–82)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -278,6 +315,7 @@ updated: 2026-10-08
 > | **大构想饥荒与实体创新** | 引导资本与人才从消费级虚拟应用转向深层物质科技突破 | 戈登全要素生产率实证；格雷伯技术批判；解决能源与制造[[Grand Challenges\|重大挑战]] | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
 > | **国家技术和平队制度化** | 创设技术和平队建立科技人才常态化服务公共部门的制度通道 | 敏捷工程文化输入公共机构；消解创新荒漠；重建公共使命认同 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
 > | **破除道德二元论与达沃斯迷思** | 解构商业技术与防务技术对立的虚伪认知，重申实力保障和平 | 阿德科亚达沃斯批判；破除道德洁癖；确立战略现实主义伦理基石 | [[Remi Adekoya\|Adekoya]] (2021); [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
+> | **克服不可知论与种姓化固化** | 破除建造与国家使命割裂的冷漠，以实质硬信念重建政治认同 | 赫勒正义骨架与善血肉；巴尔策尔种姓化批判；克服心智产品化与选择权崇拜 | [[Ágnes Heller\|Heller]] (1987); [[E. Digby Baltzell\|Baltzell]] (1964); [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
 
 ---
 
@@ -288,15 +326,26 @@ updated: 2026-10-08
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Alexander Karp]] | Person | 技术共和国理念的核心倡导者，探讨科技产业与国家战略防卫的结盟。 |
-> | [[Nicholas Zamiska]] | Person | 《技术共和国》合著者，研究公共部门工程化组织改造与治理效能。 |
+> | [[Nicholas Zamiska]] | Person | 《技术共和国》合著者，研究公共部门工程化组织改造、教育异化与治理效能。 |
 > | [[Thomas Schelling]] | Person | 战略博弈论奠基人，提出伤害能力即谈判筹码，构成技术共和国[[Hard Power\|硬实力]]现实主义的理论基石。 |
-> | [[Francis Fukuyama]] | Person | 历史终结论提出者，其理论被技术共和国框架批判为催生[[Winner's Fallacy\|胜者谬误]]的意识形态根源。 |
+> | [[Francis Fukuyama]] | Person | [[End of History Thesis\|历史终结论]]与后现代[[Epistemology\|认识论]]批判者，为技术共和国提供破除[[Winner's Fallacy\|胜者自满]]与相对主义的哲学参照。 |
 > | [[Vannevar Bush]] | Person | 二战 [[Office of Scientific Research and Development\|OSRD]] 主任，技术共和国政产学研协同动员模式的总体奠基人。 |
 > | [[J. C. R. Licklider]] | Person | [[DARPA\|ARPA]] IPTO 创设主任，以国家战略需求资助前沿[[Man-Computer Symbiosis\|人机共生]]与计算突破的代表。 |
 > | [[J. Robert Oppenheimer]] | Person | [[Manhattan Project\|曼哈顿计划]]负责人，战时国家科学工程动员与致命武器研发历史参照。 |
-> | [[John Lewis Gaddis]] | Person | 冷战史学家，提出[[Long Peace\|长和平]]理论，技术共和国用以剖析后冷战西方同盟防务萎缩的温床。 |
-> | [[Remi Adekoya]] | Person | 政治学者，批判达沃斯全球主义文化与[[Moral Dualism\|道德二元论]]，为技术共和国提供现实主义地缘认知支撑。 |
+> | [[Ágnes Heller]] | Person | 哲学家，提出“正义是骨架，[[Buen Vivir\|美好生活]]是血肉”，为技术共和国超越程序中立提供伦理本体基石。 |
+> | [[Stephen L. Carter]] | Person | 法学家，批判[[Culture of Disbelief\|不信文化]]与对崇高信念的病理化，为重建实质[[Hard Belief\|硬信念]]提供法律与文化哲学支撑。 |
+> | [[E. Digby Baltzell]] | Person | 社会学家，提出[[Establishment Caste\|统治集团种姓化]]理论，警示技术资本过度集中与精英封闭对共和国活力的侵蚀。 |
+> | [[Amy Gutmann]] | Person | 政治学者，提出世界主义正义效忠，技术共和国以此剖析当代技术精英政治脱嵌的观念根源。 |
+> | [[Manuel Castells]] | Person | 社会学家，提出“精英是世界主义的，大众是本土的”，技术共和国以此剖析科技资本脱嵌与地方撕裂。 |
+> | [[Mariana Mazzucato]] | Person | 经济学家，揭示国家在底层技术突破中的引领者角色，批判硅谷对军工公共投资的[[Historical Amnesia\|历史健忘症]]。 |
 > | [[Hard Power]] | Concept | 技术共和国在 21 世纪维系地缘均势与外交谈判筹码的软件代码与算法实力底座。 |
+> | [[Technological Agnosticism]] | Concept | 技术共和国着力批判的将工程建造与国家使命脱钩、不问目的后果的冷漠心态。 |
+> | [[Cult of Optionality]] | Concept | 技术共和国批判的精英阶层为避免承担排他性承诺而追求选择权最大化的避险机制。 |
+> | [[The Right and the Good]] | Concept | 技术共和国的伦理哲学核心命题，强调程序正义骨架必须与实质善的血肉紧密结合。 |
+> | [[Culture of Disbelief]] | Concept | 技术共和国诊断的当代西方受教育阶层排斥超验信仰与道德热忱的世俗化病理。 |
+> | [[Establishment Caste]] | Concept | 技术共和国警惕的开放贤能贵族因闭关自守退化为封闭特权阶层的制度危机。 |
+> | [[Productization of the Mind]] | Concept | 技术共和国批判的高等教育从文明器皿退化为行政看护者所导致的人才功利化危机。 |
+> | [[Hard Belief]] | Concept | 支撑技术共和国长治久安的精神动力，强调敢于为崇高信念承担现实代价的智识勇气。 |
 > | [[Winner's Fallacy]] | Concept | 技术共和国着力破除的自满认知，即误将阶段性历史胜利当成无需捍卫的[[Perpetual Peace\|永久和平]]。 |
 > | [[AI Deterrence]] | Concept | 技术共和国在后原子能时代维系地缘均势与国家安全的新型战略威慑形态。 |
 > | [[Bonsai Army]] | Concept | 技术共和国着力破解的欧洲同盟防务矮化与兵力空心化现象。 |

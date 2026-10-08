@@ -51,6 +51,7 @@ related_persons:
   - "[[Vannevar Bush]]"
   - "[[Franklin D. Roosevelt]]"
   - "[[Alfred Nobel]]"
+  - "[[Dwight D. Eisenhower]]"
   - "[[Richard C. Atkinson]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
@@ -94,7 +95,7 @@ title: "Argument_Atkinson_2008_TIS"
 argument_key: "Argument_Atkinson_2008_TIS"
 argument_display_title: "Research universities: Core of the US science and technology system"
 argument_kind: "journal-article"
-argument_related_count: 57
+argument_related_count: 58
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -331,7 +332,7 @@ issuing_organization: ""
 > - **2004 年：当代多元格局**
 >   全美学术部门科研总支出达 424 亿美元（占全国 R&D 的 13.6%）；其中联邦出资占 61.5%，大学自有资金占 19.3%，非营利慈善基金会占 9.0%，工业界与州专项各占约 5%。（pp.40, 43）
 
-冷战时期由于美苏人造卫星危机（[[Sputnik Shock 1957|Sputnik Shock]]），艾森豪威尔总统曾在白宫设立[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC），使大学科学家得以直接进入核心战略决策；国会随即通过《[[National Defense Education Act of 1958|1958年国防教育法]]案》（NDEA），推动联邦财政前所未有地大规模注资大学理工科研究生奖学金与科学课程改革；同时，联邦政府通过设立由大学托管的[[Federally Funded Research and Development Centers|联邦资助研发中心]]（FFRDC，如费米实验室、伯克利实验室及双子星天文台），为高校学者提供了国家级[[Megascience Installations|大科学装置]]；然而越战期间总统与学界关系恶化，尼克松总统于 1973 年解散了科学顾问委员会。（pp.38–39）为应对 1970 年代滞胀危机并重组国家科技政策，联邦政府通过法律重新恢复了科技顾问建制。（p.39）
+冷战时期由于美苏人造卫星危机（[[Sputnik Shock 1957|Sputnik Shock]]），[[Dwight D. Eisenhower|艾森豪威尔]]总统曾在白宫设立[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC），使大学科学家得以直接进入核心战略决策；国会随即通过《[[National Defense Education Act of 1958|1958年国防教育法]]案》（NDEA），推动联邦财政前所未有地大规模注资大学理工科研究生奖学金与科学课程改革；同时，联邦政府通过设立由大学托管的[[Federally Funded Research and Development Centers|联邦资助研发中心]]（FFRDC，如费米实验室、伯克利实验室及双子星天文台），为高校学者提供了国家级[[Megascience Installations|大科学装置]]；然而越战期间总统与学界关系恶化，尼克松总统于 1973 年解散了科学顾问委员会。（pp.38–39）为应对 1970 年代滞胀危机并重组国家科技政策，联邦政府通过法律重新恢复了科技顾问建制。（p.39）
 
 > [!policy-context] 1976 年《国家科学技术政策、组织和优先事项法案》档案
 > - **发布主体** 美国国会与杰拉尔德·福特总统（公法 P.L. 94-282）

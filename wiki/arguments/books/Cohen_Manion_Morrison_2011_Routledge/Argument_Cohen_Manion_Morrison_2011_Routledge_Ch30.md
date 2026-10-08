@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30"
 argument_display_title: "Research Methods in Education · Ch30"
 argument_kind: "book-chapter"
-argument_related_count: 65
+argument_related_count: 66
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -98,6 +98,7 @@ related_methods:
   - "[[Audit Trail]]"
 related_instruments: []
 related_persons:
+  - "[[Morris Berman]]"
   - "[[Miranda Fricker]]"
 related_facts: []
 related_arguments:
@@ -183,7 +184,7 @@ updated: 2026-09-08
 
 #### 编码的工作机制与认知容量控制
 
-编码是一项高度往复迭代的循环过程，而非一次性任务。迈尔斯与休伯曼指出，编码应当尽早启动，晚期编码往往削弱分析的深度；但早期编码也存在先入为主、过度规约后续阅读的风险（Miles & Huberman, 1994, pp. 108, 111；p. 560）：
+编码是一项高度往复迭代的循环过程，而非一次性任务。迈尔斯与休[[Morris Berman|伯曼]]指出，编码应当尽早启动，晚期编码往往削弱分析的深度；但早期编码也存在先入为主、过度规约后续阅读的风险（Miles & Huberman, 1994, pp. 108, 111；p. 560）：
 
 > [!factors] 决定编码成效与认知负荷的三大关键因素（Miles & Huberman, 1994）
 > - **编码介入的时间节点** 早期赋码能够及时引导后续数据收集并加深对文本的理解；延后编码则容易造成材料堆积并丧失分析敏锐度。

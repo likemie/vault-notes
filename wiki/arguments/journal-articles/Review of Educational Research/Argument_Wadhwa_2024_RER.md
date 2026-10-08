@@ -11,7 +11,7 @@ title: "Argument_Wadhwa_2024_RER"
 argument_key: "Argument_Wadhwa_2024_RER"
 argument_display_title: "How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs"
 argument_kind: "journal-article"
-argument_related_count: 80
+argument_related_count: 81
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -96,7 +96,8 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Experimental Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Dwight D. Eisenhower]]"
 related_facts:
   - "[[Promising Practices Network]]"
   - "[[Promise Neighborhoods Research Consortium]]"
@@ -419,7 +420,7 @@ updated: 2026-09-18
 > - **文献池几乎完全不重叠** Blueprints 与 BEE 仅基于 1 项研究；WWC 依据 1 至 3 项研究；CMFR 对阅读版纳入 10 项、数学版纳入 2 项研究；CMFR 与 WWC 仅共享了 2 项研究（Fuchs et al., 2002; Sáenz et al., 2005），其余中心互不重合；NDPC 未公开其引用的具体文献。
 > - **方法学门槛的阻隔作用** Blueprints 审查了 18 项因果研究，其中 17 项因差异流失、缺乏长期随访、分析层次错误以及 ITT 估计不清被全部否决，仅认证 1 项 RCT，由于缺乏独立重复验证而只能止步于“有望”；CMFR 则因所有研究均未能证明干预结束后 6 个月的持续效果而直接拒绝给予有望评级。
 
-> [!chain-link] 案例四：量子机会项目与艾森豪威尔量子机会项目（QOP / EQOP） —— 版本迭代与文献可得性
+> [!chain-link] 案例四：量子机会项目与[[Dwight D. Eisenhower|艾森豪威尔]]量子机会项目（QOP / EQOP） —— 版本迭代与文献可得性
 > 高中生学业与预防辍学干预项目，评估涵盖原始量子机会项目（Quantum Opportunity Program, QOP）与改良版艾森豪威尔量子机会项目（Eisenhower Quantum Opportunities Program, EQOP），出现显著分歧(pp. 24–25)：
 > - **原始 QOP 的评级冲突** NDPC 评为“有望”（基于两项声称在单一试点产生学业与毕业正效应的多中心 RCT，但未具名引述）；WWC 审查了两项研究，其中仅 Schirm et al. (2006) 符合标准，但未发现统计显著或实质重要的学业进展效应，判定为无效果；Blueprints 认为原始 QOP 完全缺乏合格证据。
 > - **改良版 EQOP 的评估差异** Blueprints 依据一项单一 RCT（Curtis & Bandy, 2015, 2016）将 EQOP 认证为“有望”（显示平均学分绩点 [Grade Point Average, GPA]、大学录取率提升，尽管存在未检验基线差异与未校正集群等缺陷）；而 CMFR 截至 2019 年初因检索不到任何已发表的同行评审期刊文献，直接判定为不予推荐。

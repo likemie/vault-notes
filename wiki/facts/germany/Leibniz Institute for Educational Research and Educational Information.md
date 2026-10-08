@@ -15,7 +15,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 30
+fact_related_count: 31
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -53,6 +53,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Wolfgang Mitter]]"
+  - "[[Max Planck]]"
 related_facts:
   - "[[Max Planck Institute for Human Development]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
@@ -95,7 +96,7 @@ updated: 2026-10-08
 
 > [!dev-timeline] 组织发展历程
 > - **1951–1964 — 战后创设与实证比较方法引入** 1951 年在黑森州法兰克福成立，由埃里希·希瑟（Erich Hylla）等学者主导，打破德国传统思辨教育学垄断，首创以量化统计、心理测量与国际比较为核心的实证研究传统。
-> - **1964–1977 — 跨州体制化与比较教育教席建制** 1964 年签署跨州协定转制为公法研究所，更名为德国[[International Education\|国际教育]]研究所（DIPF），成为各州文教部长会议（[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]]）重要的实证咨询智库。米特（[[Wolfgang Mitter]]）指出，在此期间，DIPF 在舒尔策（Walter Schultze）与米特主持下设立了专门的比较教育研究实体与学术教席，与柏林马克斯·普朗克研究所共同成为战后德国大学之外的两大比较教育国家学术支柱。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90)]]
+> - **1964–1977 — 跨州体制化与比较教育教席建制** 1964 年签署跨州协定转制为公法研究所，更名为德国[[International Education\|国际教育]]研究所（DIPF），成为各州文教部长会议（[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]]）重要的实证咨询智库。米特（[[Wolfgang Mitter]]）指出，在此期间，DIPF 在舒尔策（Walter Schultze）与米特主持下设立了专门的比较教育研究实体与学术教席，与柏林[[Max Planck|马克斯·普朗克]]研究所共同成为战后德国大学之外的两大比较教育国家学术支柱。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90)]]
 > - **1977–2000 — 纳入国家联合资助体系与柏林园区拓展** 1977 年作为国家骨干科研机构纳入蓝名单（Blaue Liste，莱布尼茨学会前身）；1992 年两德统一后，柏林的德国教育史研究图书馆（Bibliothek für Bildungsgeschichtliche Forschung, BBF）正式并入 DIPF。
 > - **2001–2009 — [[PISA]] 震荡响应与国家监测[[Total War|总体战]]略支柱确立** 2000 年首轮 [[PISA]] 危机后，DIPF 深度参与 [[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]（Gesamtstrategie zum Bildungsmonitoring）设计，受 KMK 与 [[Federal Ministry of Education and Research\|BMBF]] 委托牵头成立国家教育报告联合体，并于 2006 年正式发布首部《德国教育报告》（*[[Bildung]] in Deutschland*）。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 484–485)]]
 > - **2010–至今 — [[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]] 联合创设、技术赋能测评与基础设施数字化** 2010 年与慕尼黑工业大学（TUM）、莱布尼茨数理教育研究所（IPN）联合成立国家国际教育比较研究中心（[[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]]），DIPF 全权承担计算机化测验（TBA）与全套背景[[Questionnaire\|问卷]]研制；2018 年研究所更名为现名，系统运营全国教育信息门户 DIPF-Kompass 与德国教育云端资源。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, p. 145)]]; [[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
@@ -136,7 +137,7 @@ updated: 2026-10-08
 > [!citation-card] 米特论德国国际教育研究所（DIPF）在战后比较教育建制中的支柱地位
 > 米特（[[Wolfgang Mitter]]）指出，二战后德国比较教育的学术建制化不仅在汉堡、波鸿、海德堡等大学全面铺开，更在大学系统之外确立了实体化的研究中枢。德国国际教育研究所（DIPF，在舒尔策与米特主持下）与[[Max Planck Institute for Human Development|柏林马克斯·普朗克教育研究所]]（在罗宾逊与戈尔德施密特主持下）先后设立了专门的比较教育教席与独立研究实体，为西德重建国际学术联系、开展跨国实证调查奠定了不可替代的国家制度依托。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90)]]
 >
-> *Chairs and research entities were subsequently established at universities and outside the universities, namely at the German Institute for International Educational Research (DIPF: Schultze, Mitter) in Frankfurt am Main and the Max Planck Institute for Human Development in Berlin.*
+> *Chairs and research entities were subsequently established at universities and outside the universities, namely at the German Institute for International Educational Research (DIPF: Schultze, Mitter) in Frankfurt am Main and the [[Max Planck]] Institute for Human Development in Berlin.*
 
 ---
 

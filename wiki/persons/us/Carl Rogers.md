@@ -9,7 +9,7 @@ summary: "美国人本主义心理学泰斗，来访者中心疗法与以人为�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -43,6 +43,7 @@ related_persons:
   - "[[Alfred Nobel]]"
   - "[[Abraham Maslow]]"
   - "[[Rom Harré]]"
+  - "[[Sigmund Freud]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
@@ -127,7 +128,7 @@ updated: 2026-10-08
 > > [!axis] 浪漫主义人性乐观论 vs 制度性权力与恶的结构性存在
 > > 围绕人本主义潜能论是否低估了外部社会结构暴力与深层心理冲突的论争。
 > >
-> > - **[[Critical Theory\|批判理论]]与精神分析学者** 指责罗杰斯对人性先天实现倾向的假定过于浪漫主义，忽视了弗洛伊德式的深层攻击本能，且遮蔽了阶级分层与制度不平等对个体成长的结构性压迫。
+> > - **[[Critical Theory\|批判理论]]与精神分析学者** 指责罗杰斯对人性先天实现倾向的假定过于浪漫主义，忽视了[[Sigmund Freud|弗洛伊德]]式的深层攻击本能，且遮蔽了阶级分层与制度不平等对个体成长的结构性压迫。
 > > - **Carl Rogers（1961, 1969）** 坚称当个体处于无条件积极关注与共情接纳的心理环境中时，其内在的破坏性就会消退，建设性与社会化的成长潜能必然自然绽放。
 
 ---

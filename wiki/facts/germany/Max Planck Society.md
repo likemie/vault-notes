@@ -12,7 +12,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
 related_persons:
+  - "[[Max Planck]]"
   - "[[Alfred Nobel]]"
 confidence: high
 status: active
@@ -53,7 +54,7 @@ updated: 2026-10-08
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 马克斯·普朗克科学促进学会（Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V., MPG）是德国首屈一指的独立非营利基础科学研究实体，其前身为 1911 年创设的威廉皇帝学会（Kaiser-Wilhelm-Gesellschaft），二战后于 1948 年以物理学家马克斯·普朗克之名重组建立；该学会以资助和开展跨学科、高风险、前沿纯基础科学研究为天职，完全独立于大学常规行政体系。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
+> [[Max Planck|马克斯·普朗克]]科学促进学会（Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V., MPG）是德国首屈一指的独立非营利基础科学研究实体，其前身为 1911 年创设的威廉皇帝学会（Kaiser-Wilhelm-Gesellschaft），二战后于 1948 年以物理学家马克斯·普朗克之名重组建立；该学会以资助和开展跨学科、高风险、前沿纯基础科学研究为天职，完全独立于大学常规行政体系。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
 
 > [!org-context] 机构背景
 > - **创设时间 / 历史渊源** 1948 年 2 月在西德哥廷根正式重组成立，承接了原威廉皇帝学会的科学传统与核心实验室资产。
@@ -77,7 +78,7 @@ updated: 2026-10-08
 
 > [!tension] 独立国家科研学会 vs 大学讲席制与研究生培养
 > - **德国[[National Innovation System|国家创新体系]]的清晰分工**
->   1. **前沿基础科学探索** 绝对重心交由马克斯·普朗克学会网络统筹；
+>   1. **前沿基础科学探索** 绝对重心交由[[Max Planck|马克斯·普朗克]]学会网络统筹；
 >   2. **应用科学与产业工程转化** 集中于[[Fraunhofer Society Model|弗劳恩霍夫学会]]；
 >   3. **大学职能** 主要依托传统讲席制（Chair System）承担广泛的[[General Education|通识教育]]与专业人才培养。
 > - **与综合大学的平行竞争与结构脱节**
@@ -89,7 +90,7 @@ updated: 2026-10-08
 
 > [!finding-cards] 关键成效与历史辐射
 > - **维护欧洲[[Curiosity-Driven Research|纯基础研究]]的全球标杆** 为战后德国在去军事化与废墟重建中迅速重塑全球顶尖基础科学[[Discourse|话语]]权提供了决定性制度支柱。
-> - **促发当代“卓越倡议”的科教融通反思** 20 世纪末至 21 世纪初，面对美国大学将博士生教育深度熔铸于前沿国家科研项目的制度优势，德国政府推动“卓越大学倡议”（Excellence Initiative），强力引导马普所与顶尖综合大学联合设立国际马克斯·普朗克研究学校（IMPRS），以修补研究所与大学研究生教育之间的二元裂痕。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
+> - **促发当代“卓越倡议”的科教融通反思** 20 世纪末至 21 世纪初，面对美国大学将博士生教育深度熔铸于前沿国家科研项目的制度优势，德国政府推动“卓越大学倡议”（Excellence Initiative），强力引导马普所与顶尖综合大学联合设立国际[[Max Planck|马克斯·普朗克]]研究学校（IMPRS），以修补研究所与大学研究生教育之间的二元裂痕。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
 
 ---
 

@@ -10,7 +10,7 @@ aliases:
 summary: "斯坦福学派新制度主义社会学理论，将全球大众教育和国家体制的跨国趋同阐释为世界文化模型扩散与模仿的产物。主张去中心化的世界社会依赖无私代理人的他者性机制输出进步与正义规范，同时该理论面临政治现实主义与批判政治经济学关于掩盖中心边缘依附剥削、实质不平等及微观抵制能动性的深刻批评。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 43
+theory_related_count: 44
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Enlightenment]]"
   - "[[Hypothesis]]"
   - "[[Organizational Actorhood]]"
+  - "[[Cognitive Decoupling]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Lifelong Learning]]"
   - "[[Critical Thinking]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-11
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # World Society Theory
@@ -124,7 +125,7 @@ updated: 2026-10-07
 > | [[Otherhood]] | 概念 / 机制 | 世界社会非强制运行的核心中立授权机制，非国家行动者（科学家、大学、多边机构）充当无私代言人输出规范。 |
 > | [[Organizational Actorhood]] | 概念 | 全球[[Cultural Models\|文化模型]]塑造的组织自主性、目标性、问责性与嵌入性特征，是宏观趋同的微观体现。 |
 > | [[Cultural Models]] | 概念 | 理智化、标准化的全球进步与正义模板，是跨国模仿和仪式性采纳的内容载体。 |
-> | 制度解耦（Decoupling） | 机制 | 组织在正式结构上采纳全球规范以获取外部合法性，但在日常实际运作中依然故我的双重应对机制。 |
+> | 制度解耦（[[Cognitive Decoupling\|decoupling]]） | 机制 | 组织在正式结构上采纳全球规范以获取外部合法性，但在日常实际运作中依然故我的双重应对机制。 |
 > | 理性神话（Rational Myths） | 概念 | 被社会广泛共享并视为理所当然的规则信条（如“教育促进繁荣”），不依赖实证效能即可赋予机构合法性。 |
 > | [[Institutional Isomorphism\|制度同构]]（Isomorphism） | 机制 | 处于相同制度环境中的组织在强制、模仿与规范压力下，形式与结构逐渐走向趋同的社会学过程。 |
 
@@ -154,7 +155,7 @@ updated: 2026-10-07
 ---
 
 > [!theory-proposition] 命题四｜宏观政策文本的仪式性采纳伴随着微观执行的“解耦”，面临国家安全与主权危机时趋同具有高度可逆性
-> **解释** [[Stanford School|斯坦福学派]]指出，组织为了应对互相冲突的内部效率与外部合法性要求，普遍采取“解耦（decoupling）”策略——正式结构向全球文化模型靠拢以获得赞誉，实际运作则遵循本土惯例。批判学者进一步发现，地方决策层往往只是工具性地在宏观政策文本中植入全球教育修辞（如“[[Lifelong Learning|终身学习]]”、“[[Critical Thinking|批判性思维]]”）；一旦遭遇深层主权冲突或政治危机，国家机器会瞬间抛弃全球修辞并全面恢复政治控制，揭示出制度同构的高度脆弱性与可逆性。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, pp. 491–492)]]
+> **解释** [[Stanford School|斯坦福学派]]指出，组织为了应对互相冲突的内部效率与外部合法性要求，普遍采取“解耦（[[Cognitive Decoupling|decoupling]]）”策略——正式结构向全球文化模型靠拢以获得赞誉，实际运作则遵循本土惯例。批判学者进一步发现，地方决策层往往只是工具性地在宏观政策文本中植入全球教育修辞（如“[[Lifelong Learning|终身学习]]”、“[[Critical Thinking|批判性思维]]”）；一旦遭遇深层主权冲突或政治危机，国家机器会瞬间抛弃全球修辞并全面恢复政治控制，揭示出制度同构的高度脆弱性与可逆性。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, pp. 491–492)]]
 >
 > **应用实例** 香港特区政府在 2000 年代课程改革中全面采纳国际通行的“批判性思维”与[[Inquiry-Based Learning|探究式学习]]，设立[[General Education|通识教育]]科（LS）；但在 2019 年社会风波后，基于主权安全维护，迅速废除该科目并重构成以国家安全和爱国认同为核心的[[Citizenship and Social Development|公民与社会发展科]]（CSD），生动展现了趋同修辞在主权政治介入下的断裂。
 

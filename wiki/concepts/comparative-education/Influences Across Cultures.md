@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育学源流中考证教育思想、制度与实践跨国界、跨时空流动与相互塑形的实证探究传统，借鉴比较文学方法，为前建制期功利性描述与现代政策借用确立认识论合法性。"
 type: concept
 domain: "comparative-education"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Policy Science in Comparative Education]]"
+  - "[[Cognitive Decoupling]]"
   - "[[Policy Entrepreneur]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Tracking]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-02
+updated: 2026-10-08
 ---
 
 # Influences Across Cultures
@@ -98,7 +99,7 @@ updated: 2026-10-02
 > | **学科与思想渊源** | 人文历史学与比较文学（跨国母题追踪） | [[Policy Science in Comparative Education\|政策科学]]与比较政治学（决策与治理循环） | 新制度主义社会学与[[World Society Theory\|世界文化理论]] |
 > | **考察时间尺度** | 长程历史变迁与多世代思想流变 | 特定改革政策周期的中短期过程 | 全球现代性扩展以来的结构趋同 |
 > | **核心分析焦点** | 观念、体裁与制度在不同文明间的双向互动与渊源考据 | 政策引入、[[Transfer Translation Transformation\|转译]]、国内合法化与立法落地 | 外部理性化规范压力下的形式趋同 |
-> | **对早期借用的评价** | 充分肯定 19 世纪描述与功利性考察的学术价值与情境意识 | 聚焦当代多边机构与跨国测评触发的借用决策 | 视政策宣称为仪式性解耦（decoupling） |
+> | **对早期借用的评价** | 充分肯定 19 世纪描述与功利性考察的学术价值与情境意识 | 聚焦当代多边机构与跨国测评触发的借用决策 | 视政策宣称为仪式性解耦（[[Cognitive Decoupling\|decoupling]]） |
 > | **行动者能动性** | 强调本土教育家辩证剥离外部要素与本国情境的裁量权 | 突出[[Policy Entrepreneur\|政策企业家]]、官僚机构与利益集团的博弈 | 强调世界社会宏观文化剧本对主权国家的[[Disciplina and Doctrina\|规训]] |
 
 ---
