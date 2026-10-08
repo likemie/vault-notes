@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch17"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch17"
 argument_display_title: "“The Next Thousand Years”"
 argument_kind: "book-chapter"
-argument_related_count: 36
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -51,7 +51,6 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Discourse]]"
   - "[[Generative Artificial Intelligence]]"
-  - "[[Hard Belief]]"
 related_theories:
   - "[[Great Man Theory]]"
   - "[[Imagined Community]]"
@@ -337,26 +336,6 @@ updated: 2026-10-09
 > 没有一个严肃的人会否认奥斯威辛；没有一个神志清醒的人会对奥斯威辛的恐怖挑刺；但是，当这段历史每天都在媒体上向我展示时，我注意到我内心深处有些东西在反抗这种对我们耻辱的无休止展示……奥斯威辛不应被贬低为一种常规威慑、一种恐吓手段或一根道德大棒。（pp. 202–203）
 >
 > *No serious person denies Auschwitz; no person who is still of sound mind quibbles about the horror of Auschwitz; but when this past is held up to me every day in the media, I notice that something in me rebels against this unceasing presentation of our disgrace... Auschwitz should not be made into a routine threat, a means of intimidation or moral bludgeon.*
-
----
-
-## 本章知识对象生成与关联
-
-> [!entry-map] 本章知识对象全景
-> - **概念（Concepts）**
->   - [[Dunbar's Number|邓巴数]] — 大脑新皮质容量决定的人类直接社交规模上限（约 150 人），揭示超大规模人类技术协作必须依赖语言与想象共同体。
->   - [[Everyday Plebiscite|每日公民投票]] — [[Ernest Renan|欧内斯特·勒南]]提出的民族存在论命题，主张国家建立在过去牺牲记忆与当下共同生活意愿的精神契约之上。
->   - [[Civic Religion|公民宗教]] — 维系民主宪政共同体所必需的世俗信仰维度与崇高道德抱负。
->   - [[Technological Republic|技术共和国]] — 融汇[[Hard Power|硬实力]]与共同体[[Hard Belief|硬信念]]的最高国家治理形态。
-> - **理论（Theories）**
->   - [[Imagined Community|想象的共同体]] — 安德森阐述的现代民族构建理论，揭示口头与书面语言如何创造跨越陌生人边界的大规模协作纽带。
->   - [[Great Man Theory|伟人理论]] — [[Thomas Carlyle|托马斯·卡莱尔]]系统的英雄史观，阐明卓越领袖是打破僵局、点燃时代的不可或缺之闪电。
-> - **事实（Facts）**
->   - 《[[Goh Report|吴庆瑞报告]]》 — 1979 年新加坡划时代教育部审查报告，确立双语教育与共同道德价值观培养机制。
->   - [[Speak Mandarin Campaign|讲华语运动]] — 1979 年[[Lee Kuan Yew|李光耀]]启动的国家级语言整合重大项目，将语言热带雨林修剪为经济作物花园。
->   - [[Walser-Bubis Debate|瓦尔泽-布比斯之争]] — 1998 年德国围绕大屠杀记忆工具化与民族认同正常化爆发的标志性大辩论。
-> - **人物（Persons）**
->   - [[Robin Dunbar|罗宾·邓巴]]、[[Ernest Renan|欧内斯特·勒南]]、[[Thomas Carlyle|托马斯·卡莱尔]]、[[Lee Kuan Yew|李光耀]]、[[Goh Keng Swee|吴庆瑞]]、[[Martin Walser|马丁·瓦尔泽]]、[[Ignatz Bubis|伊格纳茨·布比斯]]、[[Robert Bellah|罗伯特·贝拉]]、[[Alasdair MacIntyre|阿拉斯代尔·麦金太尔]]、[[Martha Nussbaum|玛莎·努斯鲍姆]]、[[Richard Sennett|理查德·桑内特]]。
 
 ---
 

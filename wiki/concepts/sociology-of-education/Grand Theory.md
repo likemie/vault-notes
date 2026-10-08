@@ -10,7 +10,7 @@ aliases:
 summary: "统摄学科全貌、历史进程或文明演进的思辨性元叙述体系。在社会学中因脱离经验事实而遭遇中层理论与后现代解构；在技术政治与国家建构中，它既表现为福山历史终结论的胜者谬误，又表现为国家重大工程攻关愿景，以及凝聚多元移民社会、克服邓巴数限制并以千年为尺度的共有历史文明叙事。"
 type: concept
 domain: "sociology-of-education"
-related_count: 63
+related_count: 59
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"

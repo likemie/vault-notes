@@ -8,7 +8,7 @@ aliases:
 summary: "将国家建国历史、宪政原则、共同伦理理想与公共仪式升华为维系共同体凝聚力的世俗公共信仰体系。既植根于深层历史传统，又提供超越个人私利与市场功利的公共善追求，是维系民主共和国政治信任与长期生存的道德基石。"
 type: concept
 domain: "educational-philosophy"
-related_count: 11
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

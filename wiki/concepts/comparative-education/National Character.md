@@ -9,10 +9,10 @@ aliases:
 summary: "20世纪经典比较教育学用于解释国家教育制度独特性与内在精神的核心构念。在当代政治哲学与科技地缘政治中，进一步延伸为超越狭隘族裔血统的开放国民性格，作为凝聚跨阶层陌生人、抵抗原子化碎片与消费主义虚无的国家认同基石。"
 type: concept
 domain: "comparative-education"
-related_count: 42
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - comparative-education
   - nationalism
