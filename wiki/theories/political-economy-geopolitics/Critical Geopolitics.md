@@ -70,7 +70,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 ## 理论定位
@@ -193,8 +193,7 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] — 分析亚洲崛起对全球高等教育架构的重塑
-> - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] — 与[[Decolonial Geopolitics of Knowledge\|去殖民知识地缘政治]]整合为新[[Geopolitics of Knowledge\|知识地缘政治]]框架
+> - [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] — 分析亚洲崛起对全球高等教育架构的重塑；[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] — 与[[Decolonial Geopolitics of Knowledge\|去殖民知识地缘政治]]整合为新[[Geopolitics of Knowledge\|知识地缘政治]]框架
 > - [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]] — 系统梳理该理论在高等教育研究中的应用与演进
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 将科技产业政策视作对抗地缘政治对手的核心杠杆，分析《[[CHIPS and Science Act|芯片与科学法案]]》如何打破新自由主义共识并重塑中美科技与高等教育博弈格局
 

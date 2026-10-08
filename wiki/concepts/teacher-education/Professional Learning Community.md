@@ -79,7 +79,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-14
-updated: 2026-09-28
+updated: 2026-10-08
 ---
 
 # Professional Learning Community
@@ -273,10 +273,9 @@ updated: 2026-09-28
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] — 阐发[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]（[[Quality Use of Research Evidence Framework\|QURE]]），将 PLC 确立为“审慎参与与实施”的共同审议载体，以及个体使能与组织使能交汇碰撞的微观组织中枢（pp. 141–144）。
-> - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 结合澳大利亚特殊学校等案例与[[Questionnaire\|问卷调查]]，实证揭示制度化排程的 PLC 在庇护教师研究研读、打破行政挤压及促进常规循证中的决定性功能。
+> - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 结合澳大利亚特殊学校等案例与[[Questionnaire\|问卷调查]]，实证揭示制度化排程的 PLC 在庇护教师研究研读、打破行政挤压及促进常规循证中的决定性功能。 [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 探讨组织内生学习结构与实践者能力建设，指出协同探究团队在弥合政策与实践鸿沟中的核心作用。
 > - [[Argument_Hattie_2005_ACER\|Hattie (2005)]] — 结合廷珀利（Timperley）的研究论证教师专业发展必须以学生实际学业增进为成功前提，提出去私密化教学、[[Reflexivity\|反思性]]对话与共同期望等五大 PLC 建设支柱（pp. 18–19）。
 > - [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] — 把 PLC 定位为[[Evidence-Informed Practice\|证据知情实践]]关键学习环境支柱，基于 79 所小学调查揭示全员包容性参与的紧迫性，论证缺乏正式探究协议与论坛易导致 PLC 退化为孤立任务小组与[[Activity Traps\|活动陷阱]]。
-> - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 探讨组织内生学习结构与实践者能力建设，指出协同探究团队在弥合政策与实践鸿沟中的核心作用。
 > - [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] — 通过对大型城市学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 支出流水的穿透审计与构件拆解，实证证实 PLC 在四大证据库中具有独立于一般教师培训的积极实证证据，构成了复合专业发展项目获得循证合规支持的核心基石（pp. 171, 173）。
 > - [[Argument_Besa_2024_UW\|Besa (2024)]] — 探讨 PLC 在社交媒体时代向跨区域虚拟教研室（[[Virtual Teacher Staffroom\|Twitter-Lehrerzimmer]]）的网络化延伸，分析草根同侪互助与学术科研双向对话缺位的实践张力。
 

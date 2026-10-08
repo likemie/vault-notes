@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-29
+updated: 2026-10-08
 ---
 
 # National Character
@@ -256,6 +256,5 @@ updated: 2026-09-29
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]] — 思想史考古梳理[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Vernon Mallinson\|马林森]]对国民性格[[Construct\|构念]]的界定与操作，从经验证据、同义反复与[[Whiggism\|辉格史观]]三个向度对该构念展开批判反思，并确立[[Historical-Comparative Method\|历史比较法]]超越国民性格偏见的现代学术合法性。
-> - [[Argument_Mitter_2009_Europe\|Mitter (2009)]] — 欧洲两百年学科史视野下的[[Paradigm|范式]]梳理，将汉斯与施奈德运用国民性格与深层驱动力（*[[Theories of the Driving Forces|Triebkräfte]]*）构建的历史比较研究，定性为 1920–1950 年代欧洲“宏大历史文化全景”的经典巅峰。
+> - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]] — 思想史考古梳理[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Vernon Mallinson\|马林森]]对国民性格[[Construct\|构念]]的界定与操作，从经验证据、同义反复与[[Whiggism\|辉格史观]]三个向度对该构念展开批判反思，并确立[[Historical-Comparative Method\|历史比较法]]超越国民性格偏见的现代学术合法性。 [[Argument_Mitter_2009_Europe\|Mitter (2009)]] — 欧洲两百年学科史视野下的[[Paradigm|范式]]梳理，将汉斯与施奈德运用国民性格与深层驱动力（*[[Theories of the Driving Forces|Triebkräfte]]*）构建的历史比较研究，定性为 1920–1950 年代欧洲“宏大历史文化全景”的经典巅峰。
 

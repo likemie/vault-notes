@@ -49,7 +49,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-01
+updated: 2026-10-08
 ---
 
 # Typification
@@ -195,8 +195,7 @@ updated: 2026-10-01
 ## 实证数据
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 19)]] — 详尽阐述舒茨[[Phenomenology\|现象学]]社会学中的类型化概念、理想类型工具、传记情境以及行动者在多重实在中的穿梭机制。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 在跨章节论述中探讨教师课堂标签建构、[[Qualitative Interview\|质性访谈]][[Coding in Qualitative Research\|编码]]以及行动者常识解释在[[Ethnography\|民族志]]中的方法论定位。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 19)]] — 详尽阐述舒茨[[Phenomenology\|现象学]]社会学中的类型化概念、理想类型工具、传记情境以及行动者在多重实在中的穿梭机制。 [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 在跨章节论述中探讨教师课堂标签建构、[[Qualitative Interview\|质性访谈]][[Coding in Qualitative Research\|编码]]以及行动者常识解释在[[Ethnography\|民族志]]中的方法论定位。
 
 ---
 

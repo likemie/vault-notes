@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch07"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch07"
 argument_display_title: "A balloon cut loose"
 argument_kind: "book-chapter"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -65,6 +65,7 @@ related_persons:
   - "[[Plato]]"
   - "[[Samuel P. Huntington]]"
   - "[[Jean-Jacques Rousseau]]"
+  - "[[Hannah Arendt]]"
   - "[[Joseph Tussman]]"
   - "[[Aristotle]]"
   - "[[Claude Lévi-Strauss]]"
@@ -157,7 +158,7 @@ updated: 2026-10-08
 > 到1970年代末，传统派在大学体制内已全线溃败。切耶特在 AHA 年会上对同行宣称：不存在一部单一的历史，而是存在许多种可能的历史，并总结了当时学术界的主导批判：当初被当作普世价值来传授的东西，其实质本身也是一种宗派性的产物。切耶特出生于纽约，先后就读于默瑟斯堡学院、普林斯顿大学与哈佛大学，并在阿默斯特学院执教近五十年，专研中世纪法国朗格多克与行吟诗人文化等保守专门史领域。切耶特绝非激进革命者，而是学术建制的核心成员；这样一位保守派建制学者的公开发难，表明美国高校人文学界已经在内部形成了拆解西方文明必修课的压倒性共识（pp. 86–87）。
 
 > [!dev-timeline] 西方文明课程瓦解的历史关键节点
-> - **1940年代末–1950年代 — 战后正典黄金期** 斯坦福大学等顶尖学府效仿哥伦比亚大学与芝加哥大学，将西方文明史列为本科新生统一必修核心，精选柏拉图、[[Jean-Jacques Rousseau|卢梭]]、马克思到阿伦特等代表作（p. 87）。
+> - **1940年代末–1950年代 — 战后正典黄金期** 斯坦福大学等顶尖学府效仿哥伦比亚大学与芝加哥大学，将西方文明史列为本科新生统一必修核心，精选柏拉图、[[Jean-Jacques Rousseau|卢梭]]、马克思到[[Hannah Arendt|阿伦特]]等代表作（p. 87）。
 > - **1968年冬春 — 时代剧震与合法性危机** 越战春季攻势（Tet Offensive）瓦解美国必胜信念；马丁·路德·金（Martin Luther King Jr.）与罗伯特·F·肯尼迪（Robert F. Kennedy）相继遇刺身亡，[[Grandes Ecoles|大学校]]园爆发广泛反战与民权抗议。传统大叙事与社会现实产生不可调和的撕裂。
 > - **1968年11月 — 帕克委员会裁定已死或垂死** 斯坦福大学十人教育研究委员会（包含教授、行政人员及一名哲学系本科生）发布报告，裁定西方文明必修课模式在全美范围内已处于已死或垂死（dead or dying）状态。
 > - **1969年 — 斯坦福正式终止西方文明必修课** 《斯坦福日报》评论该课程的谢幕伴随着一声叹息而非一声轰鸣（with a whimper and not a bang）；正如历史学家吉尔伯特·阿拉迪斯（Gilbert Allardyce）所总结，抗议学生遭遇的是早已准备好撤退的教授会（pp. 87–88）。

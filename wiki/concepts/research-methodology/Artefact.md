@@ -65,7 +65,7 @@ related_persons:
 confidence: high
 status: stable
 created: 2026-08-05
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Artefact
@@ -189,10 +189,7 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 30]] — 阐述[[Post-structuralism\|后结构主义]][[Discourse Analysis\|话语分析]]将人类谈话、课堂互动与物质人工制品视为处于生产中的文本实践。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al., 2011, Ch. 27, p. 531]] — 系统阐释器物作为[[Visual Data\|视觉数据]]的分类、多感官特征、[[Organizational Culture\|组织文化]]分析以及儿童研究应用。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, p. 189]] — 阐明方法人为产物（artefacts）的定义，论述跨方法对比与[[Triangulation\|三角验证]]在排除方法伪效应中的关键机制。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26\|Cohen et al., 2011, Ch. 26, p. 518]] — 剖析[[Role-playing\|角色扮演]]与情境模拟中口头报告易受社会期望等人为产物干扰的局限性。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 30]] — 阐述[[Post-structuralism\|后结构主义]][[Discourse Analysis\|话语分析]]将人类谈话、课堂互动与物质人工制品视为处于生产中的文本实践。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al., 2011, Ch. 27, p. 531]] — 系统阐释器物作为[[Visual Data\|视觉数据]]的分类、多感官特征、[[Organizational Culture\|组织文化]]分析以及儿童研究应用。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, p. 189]] — 阐明方法人为产物（artefacts）的定义，论述跨方法对比与[[Triangulation\|三角验证]]在排除方法伪效应中的关键机制。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26\|Cohen et al., 2011, Ch. 26, p. 518]] — 剖析[[Role-playing\|角色扮演]]与情境模拟中口头报告易受社会期望等人为产物干扰的局限性。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, p. 32]] — 批驳实证派将早期比较教育先驱贬为“幼稚前科学与粗劣器物借用期”的[[Whiggism\|辉格史学]]偏见。
 > - [[Argument_Li_2026_CEAI\|Li et al., 2026, p. 161]] — 运用[[Boundary Object\|边界对象]]理论将 ChatGPT 界定为连接学术规范与个性化表达的数字人工制品。
 

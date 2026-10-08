@@ -63,7 +63,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-07-19
-updated: 2026-10-02
+updated: 2026-10-08
 ---
 
 # Teacher-as-Researcher
@@ -206,5 +206,4 @@ updated: 2026-10-02
 > | [[Stephen Kemmis]] | 人物 | 倡导批判性与[[Emancipatory Action Research\|解放性行动研究]]，警示教师个体化探究回避社会体制权力的局限。 |
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 30)]] — 将教师即研究者置于复杂性理论新兴[[Paradigm\|范式]]下，阐释自组织秩序与大学-一线共生伙伴网络。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|Cohen et al. (2011, Ch. 18, p. 263)]] — 全景呈现教师即研究者在行动研究谱系中的起源、定位、对教师的七重影响及理论争议。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 30)]] — 将教师即研究者置于复杂性理论新兴[[Paradigm\|范式]]下，阐释自组织秩序与大学-一线共生伙伴网络。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|Cohen et al. (2011, Ch. 18, p. 263)]] — 全景呈现教师即研究者在行动研究谱系中的起源、定位、对教师的七重影响及理论争议。

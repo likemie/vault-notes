@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Technology Transfer
@@ -285,9 +285,7 @@ updated: 2026-10-07
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室国家战略报告，系统重构技术转移体系，论证破除跨校许可壁垒、加速国家实验室 [[Cooperative Research and Development Agreement|CRADA]] 审批与深化 [[Other Transaction Authority|OTA]] 商业授权对本土制造能力建设的核心作用。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]] — 实证反思战后美国信息技术产业中的非专利技术转移机制，系统论证开源披露、军方第二供应商制度与人才流动对[[General Purpose Technology|通用目的技术]]商业化的决定性推动。
-> - [[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone (2025)]] — 详尽剖析大学[[University-Industry Collaboration|产学合作]]合同中的知识产权条款谈判、[[Freedom to Operate|自由实施权]]规制与发表延迟纠纷防范。
-> - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 梳理大学-产业技术转移从早期线性许可到现代广义[[Knowledge Exchange|知识交流]]的历史演变与国际制度差异。
-> - [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson (2025)]] — 剖析[[Sponsored Research Agreement|赞助研究协议]]中企业知识产权捆绑对[[University Spin-Out|大学衍生企业]]形成的“创业毒丸”效应与治理约束。
+> - [[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone (2025)]] — 详尽剖析大学[[University-Industry Collaboration|产学合作]]合同中的知识产权条款谈判、[[Freedom to Operate|自由实施权]]规制与发表延迟纠纷防范。 [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 梳理大学-产业技术转移从早期线性许可到现代广义[[Knowledge Exchange|知识交流]]的历史演变与国际制度差异。 [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson (2025)]] — 剖析[[Sponsored Research Agreement|赞助研究协议]]中企业知识产权捆绑对[[University Spin-Out|大学衍生企业]]形成的“创业毒丸”效应与治理约束。
 > - [[Argument_Glitz_2020_AER|Glitz & Meyersson (2020)]] — 利用东德历史档案实证评估跨国技术转移中的工业间谍机制对行业[[Total Factor Productivity|全要素生产率]]的深远影响。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP (2019)]] — 审查英、美、欧等国家在技术转移宏观度量与监管障碍清除方面的政策创新实践。
 > - [[Argument_Mody_2017_MOH|Mody (2017)]] — 从管理史视阈剖析微电子学术中心与产业联合体通过驻场研究员、国家开放设施咨询及多学科生态完成的平台型技术转移与跨界二次再造。

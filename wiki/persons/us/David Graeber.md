@@ -156,7 +156,6 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引格雷伯关于互联网沦为高速图书馆与邮购目录的经典反思，批评当代科技界逃避现实物理工程挑战的倾向（Ch. 4）。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025)]] — 援引格雷伯关于“飞行汽车究竟去哪儿了”的时代之问与[[Technological Pastiche|技术拼贴]]批判，揭示[[Consumer Internet|消费互联网]]与[[Lifestyle Technology|生活方式科技]]对国家战略硬核创新的挤出（Ch. 9）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引格雷伯关于互联网沦为高速图书馆与邮购目录的经典反思，批评当代科技界逃避现实物理工程挑战的倾向（Ch. 4）。 [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025)]] — 援引格雷伯关于“飞行汽车究竟去哪儿了”的时代之问与[[Technological Pastiche|技术拼贴]]批判，揭示[[Consumer Internet|消费互联网]]与[[Lifestyle Technology|生活方式科技]]对国家战略硬核创新的挤出（Ch. 9）。
 
 

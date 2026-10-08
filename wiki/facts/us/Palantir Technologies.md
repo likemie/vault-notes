@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 37
+fact_related_count: 38
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Technological Agnosticism]]"
   - "[[Edge Autonomy]]"
   - "[[Shadow Hierarchy]]"
+  - "[[Banality of Evil]]"
   - "[[Bureaucracy]]"
   - "[[Status Transactions]]"
   - "[[Symphony Orchestra Model]]"
@@ -107,7 +108,7 @@ updated: 2026-10-08
 > - **联合创始人与核心领导层** [[Alexander Karp|亚历山大·卡普]]担任首席执行官，[[Peter Thiel|彼得·蒂尔]]担任董事长，[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Nicholas Zamiska]]）主管企业事务与国家安全政策。
 > - **前沿部署工程师体系（Forward-Deployed Engineers, FDEs）** 打破传统销售与研发割裂，将软件工程师直接派遣至客户现场与战区前线，以实战运行效果为唯一检验准则，践行[[Edge Autonomy|边缘自治]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 120)]]
 > - **阴影层级与生产性真空（[[Shadow Hierarchy]] & Strategic Ambiguity）** 组织弱化显性层级标志与虚荣头衔，通过动态形成的阴影层级驱动协作，为高自驱力实干人才预留主动填补空白的行动空间。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 125–126)]]
-> - **异见工程师包容与反从众保护** 彻底摒弃传统官僚对唯命是从者的制度偏好，建立对性格古怪、不讨喜但具顶尖技术洞见的实干工程师的制度性保护，防止组织陷入阿施式群体从众与平庸之恶。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 136–138)]]
+> - **异见工程师包容与反从众保护** 彻底摒弃传统官僚对唯命是从者的制度偏好，建立对性格古怪、不讨喜但具顶尖技术洞见的实干工程师的制度性保护，防止组织陷入阿施式群体从众与[[Banality of Evil|平庸之恶]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 136–138)]]
 
 > [!pathways] 反[[Bureaucracy|科层制]]的即兴工程文化机制
 > - **即兴演剧与[[Status Transactions|工具性地位]]观** 将[[Keith Johnstone|基思·约翰斯通]]（[[Keith Johnstone]]）的《即兴》（*Impro*）作为新员工必读书目，推行本体地位与扮演地位的解耦，将地位界定为服务于实战目标的临时、工具性手段（[[Status Transactions|Status Transactions]]）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 122–126)]]

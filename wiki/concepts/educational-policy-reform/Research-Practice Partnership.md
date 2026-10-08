@@ -91,7 +91,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-26
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Research-Practice Partnership
@@ -324,8 +324,6 @@ updated: 2026-10-07
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 在特刊导言中将 RPP 确立为[[Knowledge Mobilisation\|知识动员]]的关键伙伴关系策略，详细阐述安大略 [[Knowledge Network for Applied Education Research\|KNAER]] 全系统网络与 Wentworth et al. 的成效[[Scale of Measurement\|测量量表]]。
-> - [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 从[[Knowledge Production\|知识生产]]方式演进（Van de Ven & Johnson, 2006）与复杂系统视角，梳理英格兰 [[Teaching and Learning Research Programme\|TLRP]]、[[Education Endowment Foundation\|EEF]] [[Research Schools Network\|研究学校网络]]及高校跨界合作机制，深刻揭示学术发表激励错位与[[Knowledge Co-production\|知识共创]]的深层张力。
-> - [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] — 基于 [[OECD]] 跨国政策调查，实证测度大学-中小学网络在研究生产、政策促成与教学实践转化三端的活跃度，揭示其在多国实践转化功能上的断层与未制度化现实。
-> - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — 汇集 Prøitz、Nagy 与 Tseng 的多元视角，系统解构瑞典 ULF 国家试点对[[Third Space Discourse\|第三空间话语]]的建构、匈牙利 2013 教师生涯阶梯对校本[[Action Research\|行动研究]]的支撑，以及 Henrick et al. (2017) RPP 有效性五大维度评估框架与资助生态再造。
+> - [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 从[[Knowledge Production\|知识生产]]方式演进（Van de Ven & Johnson, 2006）与复杂系统视角，梳理英格兰 [[Teaching and Learning Research Programme\|TLRP]]、[[Education Endowment Foundation\|EEF]] [[Research Schools Network\|研究学校网络]]及高校跨界合作机制，深刻揭示学术发表激励错位与[[Knowledge Co-production\|知识共创]]的深层张力。 [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] — 基于 [[OECD]] 跨国政策调查，实证测度大学-中小学网络在研究生产、政策促成与教学实践转化三端的活跃度，揭示其在多国实践转化功能上的断层与未制度化现实。 [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — 汇集 Prøitz、Nagy 与 Tseng 的多元视角，系统解构瑞典 ULF 国家试点对[[Third Space Discourse\|第三空间话语]]的建构、匈牙利 2013 教师生涯阶梯对校本[[Action Research\|行动研究]]的支撑，以及 Henrick et al. (2017) RPP 有效性五大维度评估框架与资助生态再造。
 > - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 从循证改革宏观概化视角批判单学区 RPP 模式过度贴合本地生态而抑制[[External Validity\|外部效度]]的局限性，主张通过大样本多元情境的成功复现破解概化难题。
 > - [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] — 将 RPP 定位为促进研究-实践联结的全球代表性制度形态，在 [[Quality Use of Research Evidence Framework\|QURE]] 框架中确立其作为组织基础架构（外部学术伙伴联结）与系统生态协同网络的核心使能功能，并提出超越二元机制搭建、聚焦适切证据与审慎实施的使用质量评价标准。

@@ -9,7 +9,7 @@ summary: "匈牙利著名哲学家、布达佩斯学派核心代表人物，师�
 type: person
 nationality: hungary
 person_region: "hungary"
-person_related_count: 5
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -29,7 +29,8 @@ related_theories:
   - "[[Critical Theory]]"
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Hannah Arendt]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"
@@ -46,7 +47,7 @@ updated: 2026-10-08
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 匈牙利哲学家、[[Critical Theory|批判理论]]家，布达佩斯学派（Budapest School）核心成员，纽约新学院（The New School for Social Research）汉娜·阿伦特哲学讲座教授。
+> - **身份位置** 匈牙利哲学家、[[Critical Theory|批判理论]]家，布达佩斯学派（Budapest School）核心成员，纽约新学院（The New School for Social Research）[[Hannah Arendt|汉娜·阿伦特]]哲学讲座教授。
 > - **核心角色** 20世纪重要的伦理学与政治哲学家，二战大屠杀幸存者，系统反思了极权主义、现代性危机与当代伦理生活的重建。
 > - **代表贡献** 出版《超越正义》（*Beyond Justice*, 1987），提出“正义是骨架，[[Buen Vivir|美好生活]]是血肉”的经典道德哲学命题。
 
@@ -64,7 +65,7 @@ updated: 2026-10-08
 > - **1947–1955** 就读于布达佩斯大学，师从著名马克思主义哲学家格奥尔格·卢卡奇（György Lukács），成为布达佩斯学派骨干。
 > - **1968** 因公开谴责苏联入侵捷克斯洛伐克遭到政治清洗与监视。
 > - **1977** 流亡澳大利亚，任教于拉筹伯大学（La Trobe University）。
-> - **1986–2009** 接替汉娜·阿伦特，担任纽约新学院哲学讲座教授。
+> - **1986–2009** 接替[[Hannah Arendt|汉娜·阿伦特]]，担任纽约新学院哲学讲座教授。
 > - **1987** 出版重要哲学著作《超越正义》（*Beyond Justice*）。
 > - **2019** 在匈牙利巴拉顿湖游泳时逝世。
 

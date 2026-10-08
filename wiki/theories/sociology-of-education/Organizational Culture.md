@@ -307,8 +307,7 @@ updated: 2026-10-08
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - **[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025)]]** 运用组织文化框架剖析公共部门官僚自保[[Hypothesis|假设]]对创新的阻绝机制，提出导入工程实效文化与领导者成败责任以破除[[Innovation Desert|创新荒漠]]。
 > - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]]** 阐释如何阅读教室、校长办公室等学校物理[[Artefact|器物]]，说明器物在解读隐性组织文化与权力结构中的方法论价值。
-> - **[[Argument_Hill_2022_FacilitatingActors|Hill (2022)]]** 跨国实证测度 37 个教育系统的文化与心态指标，揭示循证理念高认同与深层政学信任赤字并存的组织病理。
-> - **[[Argument_Revai_2022_ChangingLandscape|Révai (2022)]]** 将文化与心态列为 [[OECD]] 强化教育[[Research Impact|研究影响力]][[Analytic Framework|分析框架]]的第四大支柱，探讨实证文化转型的系统策略。
+> - **[[Argument_Hill_2022_FacilitatingActors|Hill (2022)]]** 跨国实证测度 37 个教育系统的文化与心态指标，揭示循证理念高认同与深层政学信任赤字并存的组织病理。 **[[Argument_Revai_2022_ChangingLandscape|Révai (2022)]]** 将文化与心态列为 [[OECD]] 强化教育[[Research Impact|研究影响力]][[Analytic Framework|分析框架]]的第四大支柱，探讨实证文化转型的系统策略。
 > - **[[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]]** 比较美德两国数字化学校监测的基础设施流转，揭示高利害惩罚问责文化与低利害诊断自治文化如何从深层塑造[[Data Infrastructure|数据基础设施]]的落地形态与部门间物理隔离。
 > - **[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]]** 剖析德语区学校微观组织文化、人际网络与教师专业信念如何作为深层滤网阻断外部统考数据与督导建议的有效转化。
 > - **[[Argument_Fuchs_2010_RP|Fuchs (2010)]]** 深入剖析 [[DARPA]] 内部治理，证明组织在面临激进采办改革与文化口号转向时，项目经理所践行的五大微观非正式制度展现出高度的韧性与功能连续性。

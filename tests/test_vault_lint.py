@@ -101,5 +101,38 @@ class RelatedResearchBookTests(unittest.TestCase):
         self.assertEqual([], issues)
 
 
+class RelatedResearchEntryLengthTests(unittest.TestCase):
+    def lint(self, entry: str) -> list[lint.Issue]:
+        issues: list[lint.Issue] = []
+        text = (
+            "## 相关研究\n\n"
+            "> [!evidence-grid-a] 相关研究索引\n"
+            f"> - {entry}\n"
+        )
+        lint.check_related_research_entry_length(
+            ROOT / "wiki" / "concepts" / "Example.md",
+            text,
+            issues,
+        )
+        return issues
+
+    def test_exactly_150_visible_characters_is_allowed(self) -> None:
+        issues = self.lint("中" * 150)
+
+        self.assertEqual([], issues)
+
+    def test_151_visible_characters_warns(self) -> None:
+        issues = self.lint("中" * 151)
+
+        self.assertEqual(["RELATED_RESEARCH_ENTRY_TOO_LONG"], [issue.code for issue in issues])
+        self.assertIn("151", issues[0].message)
+
+    def test_wikilink_target_and_markdown_marks_are_not_visible(self) -> None:
+        visible = lint.markdown_visible_text(
+            "**[[Argument_A_Very_Long_Internal_Target|Author (2025)]]** — 结论。"
+        )
+
+        self.assertEqual("Author (2025) — 结论。", visible)
+
 if __name__ == "__main__":
     unittest.main()

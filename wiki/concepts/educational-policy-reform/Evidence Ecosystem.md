@@ -121,7 +121,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Evidence Ecosystem
@@ -480,9 +480,5 @@ updated: 2026-10-07
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review\|系统综述]]提出 [[Quality Use of Research Evidence Framework\|QURE]] 框架，系统界定宏观证据生态的系统级使能影响（战略优先、资源保障、过程监控），论证治理从下游结果问责转向决策过程透明度的制度转向。
-> - [[Argument_Hill_2022_FacilitatingActors\|Hill, D. (2022)]] — 跨国摸排 29 国 37 个教育系统证据中介组织生态位、部委政务网络、专业角色设立及微观决策心智，实证确证证据生态的中心—外围结构与交易型病理。
-> - [[Argument_Revai_2022_ChangingLandscape\|Révai, N. (2022)]] — 梳理国际循证政策二十年演变历程，系统构建线性-关系-系统嵌套模型与五维[[Analytic Framework\|分析框架]]，奠定跨国证据生态治理实证基底。
-> - [[Argument_Revai(Ed.)_2022_OECD\|Révai, N. (Ed.) (2022)]] — [[OECD]] [[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]全景研究成果，基于 29 国 37 个教育系统调查摸排证据生态治理机制。
-> - [[Argument_Torres_2022_KMModels\|Torres, P. (2022)]] — 系统横向比较跨领域主流与前沿[[Knowledge Mobilisation\|知识动员]]模型，揭示证据生态的双层嵌套演化规律与下一代自适应生态治理路径。
-> - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 提出基于证据生态系统的中介机构自我循证框架，论证既有生态需求摸排与外部高利害问责制度咬合的战略必要性，系统批判官方治理模型遗漏外层系统的结构性盲区，并依据多臂因果实证阐明扎根行为改变科学的理论路径。
+> - [[Argument_Hill_2022_FacilitatingActors\|Hill, D. (2022)]] — 跨国摸排 29 国 37 个教育系统证据中介组织生态位、部委政务网络、专业角色设立及微观决策心智，实证确证证据生态的中心—外围结构与交易型病理。 [[Argument_Revai_2022_ChangingLandscape\|Révai, N. (2022)]] — 梳理国际循证政策二十年演变历程，系统构建线性-关系-系统嵌套模型与五维[[Analytic Framework\|分析框架]]，奠定跨国证据生态治理实证基底。 [[Argument_Revai(Ed.)_2022_OECD\|Révai, N. (Ed.) (2022)]] — [[OECD]] [[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]全景研究成果，基于 29 国 37 个教育系统调查摸排证据生态治理机制。 [[Argument_Torres_2022_KMModels\|Torres, P. (2022)]] — 系统横向比较跨领域主流与前沿[[Knowledge Mobilisation\|知识动员]]模型，揭示证据生态的双层嵌套演化规律与下一代自适应生态治理路径。 [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 提出基于证据生态系统的中介机构自我循证框架，论证既有生态需求摸排与外部高利害问责制度咬合的战略必要性，系统批判官方治理模型遗漏外层系统的结构性盲区，并依据多臂因果实证阐明扎根行为改变科学的理论路径。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald, T., & Nevill, C. (2021)]] — 系统评析英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）十年来在因果评估、数据归档共享、证据[[Transfer Translation Transformation\|转译]]与全国[[Research Schools Network\|研究学校网络]]中的生态运作，揭示[[Implementation Fidelity\|实施保真度]]与规模化生态扩展的深层张力。

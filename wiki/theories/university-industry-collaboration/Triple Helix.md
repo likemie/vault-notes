@@ -80,7 +80,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Triple Helix
@@ -269,9 +269,5 @@ updated: 2026-10-07
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008]] — 系统梳理 1940 至 2000 年代美国[[Research Universities|研究型大学]]与政府、产业关系的历史变迁，详述 1978 年 [[National Science Foundation|NSF]] [[University-Industry Collaboration|产学合作]]试点计划、11 年期 [[Engineering Research Centers|ERC]]/[[Science and Technology Centers|STC]] 机制、《[[Bayh-Dole Act of 1980|拜杜法案]]》专利激增实证，以及对大学异化为工业“代工车间”的制度警示。
-> - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]] — 纵跨五十余年系统追踪英美日等国大学-产业-政府关系的演进历程，分析 1980 年代以来大学“[[Third Mission|第三使命]]”的制度化与长期公式化拨款机制。
-> - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b]] — 以三重螺旋为宏观背景，深入大学内部黑箱，实证揭示产学对接的五种组织模式及宏观整合与微观碎片化之间的理论张力。
-> - [[Argument_Ramming_2025_CorporateSupport|Ramming, 2025]] — 从企业[[Academic Engagement Team|学术参与团队]]视角提炼美国半导体行业三代公私伙伴关系（[[Public-Private Partnership in Research|PPP]]）演进历程，展现三重螺旋在具体产业中由项目化向国家法制化的跃升。
+> - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]] — 纵跨五十余年系统追踪英美日等国大学-产业-政府关系的演进历程，分析 1980 年代以来大学“[[Third Mission|第三使命]]”的制度化与长期公式化拨款机制。 [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b]] — 以三重螺旋为宏观背景，深入大学内部黑箱，实证揭示产学对接的五种组织模式及宏观整合与微观碎片化之间的理论张力。 [[Argument_Ramming_2025_CorporateSupport|Ramming, 2025]] — 从企业[[Academic Engagement Team|学术参与团队]]视角提炼美国半导体行业三代公私伙伴关系（[[Public-Private Partnership in Research|PPP]]）演进历程，展现三重螺旋在具体产业中由项目化向国家法制化的跃升。 [[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al., 2025]] — 运用三重螺旋、关系社会资本与[[Technology Transfer|技术转移]]多重视角，系统评估国际产学研发与创新合作面临的制度与文化阻碍。 [[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025]] — 结合[[Academic Health System|学术健康系统]]实证，指明在强监管、高合规领域中政府主要行使规则监管者职能，对三重螺旋提出关键结构性修正。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019]] — 深度剖析[[Netherlands Top-sector Policy|荷兰顶级行业政策]]如何激活三重螺旋，论证三方互动质量而非单纯研发强度投入是决定[[Competitiveness|国家竞争力]]的核心驱动。
-> - [[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al., 2025]] — 运用三重螺旋、关系社会资本与[[Technology Transfer|技术转移]]多重视角，系统评估国际产学研发与创新合作面临的制度与文化阻碍。
-> - [[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025]] — 结合[[Academic Health System|学术健康系统]]实证，指明在强监管、高合规领域中政府主要行使规则监管者职能，对三重螺旋提出关键结构性修正。

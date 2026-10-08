@@ -79,7 +79,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-05-23
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Basil Bernstein
@@ -177,8 +177,7 @@ updated: 2026-10-07
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Ball_2008_SR\|Ball, 2008]] — 以 Bernstein [[Horizontal Knowledge Structure\|横向知识结构]]和教育[[Discourse|话语]]为分析透镜，重构英国教育社会学演变史，剖析学科内部碎片化与[[Paradigm\|范式]]争鸣。
 > - [[Argument_McPhail_2023_JCS\|McPhail et al., 2023]] — 运用 Bernstein [[Regulative and Instructional Discourse\|规约性话语与教学性话语]]理论，评估新西兰国家课程改革中概念知识遭排挤的[[Epistemology\|认识论]]危机。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 27]] — 引用 Bernstein (1974) 对微观[[Interpretive Paradigm\|诠释范式]]、常人方法学与[[Symbolic Interactionism\|符号互动论]]展开严肃的方法论与权力不对称批判。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|Cohen et al., 2011, Ch. 2, p. 114]] — 引用 Bernstein (1970, 1971) 批判泰勒主义[[Technical Rationality\|技术理性]]课程，审视[[Action Research\|行动研究]]在面对宏观权力中心时的赋权限度。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 27]] — 引用 Bernstein (1974) 对微观[[Interpretive Paradigm\|诠释范式]]、常人方法学与[[Symbolic Interactionism\|符号互动论]]展开严肃的方法论与权力不对称批判。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|Cohen et al., 2011, Ch. 2, p. 114]] — 引用 Bernstein (1970, 1971) 批判泰勒主义[[Technical Rationality\|技术理性]]课程，审视[[Action Research\|行动研究]]在面对宏观权力中心时的赋权限度。
 > - [[Argument_Grace_2010_NZJES\|Grace, 2010]] — 视 Bernstein 为体现学者“社会批评家与良知”公共知识分子责任的最高典范。
 > - [[Argument_Cowen_2023_CE\|Cowen, 2023]] — 借助 Bernstein [[Totally Pedagogised Society\|全盘教育化社会]]概念，剖析 21 世纪数字监控与资本主义教学关系向全社会的无界蔓延。
 

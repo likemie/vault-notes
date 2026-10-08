@@ -375,16 +375,12 @@ updated: 2026-10-08
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统梳理西方研究方法论中价值中立的缘起、[[Positivism|实证主义]]预设及其遭受的批判，剖析[[Reflexivity|反身性]]与价值负荷对客观中立神话的解构。
-> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 剖析战后实证学派如何通过清除“价值负荷”确立科学身份，同时系统梳理霍姆斯对实证派指标[[Operationalization|操作化]]假中立的尖锐批判，揭示中立口号与战后理性规划技术官僚体制的共生关系。
+> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 剖析战后实证学派如何通过清除“价值负荷”确立科学身份，同时系统梳理霍姆斯对实证派指标[[Operationalization|操作化]]假中立的尖锐批判，揭示中立口号与战后理性规划技术官僚体制的共生关系。 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 系统剖析早期比较教育文献，指出[[Marc-Antoine Jullien|朱利安]][[Questionnaire|问卷]]对道德宗教与全人[[Bildung|教化]]的鲜明预设绝非研究“缺陷”，而是欧陆[[Geisteswissenschaften|精神科学]]中经验事实服从于社会伦理改良的必然要求，强力清算了实证派的教条指责。 [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 梳理两百年比较教育学术流变，结合[[Bernard Barber|巴伯]]（Barber, 1972）与卡诺伊（Carnoy, 1983）论述，深刻解构战[[Postpositivism|后实证主义]]对“价值中立探究”的机械幻想，揭示其抽空教育伦理关切并沦为资本主义再生产与国家规划政治借口（alibi）的意识形态本质。 [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 结合拉美外围资本主义现实与[[Critical Pedagogy|批判教育学]]，揭示任何教育政策诊断均暗含特定的国家理论，解构技术官僚将[[Endogenous and Exogenous Privatisation|教育私有化]]与紧缩政策伪装为“价值中立科学方案”的意识形态实质。 [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理比较教育学内部关于研究应当是[[Educational Meliorism|改良主义]]、[[Ideology Critique|意识形态批判]]抑或严格价值中立（Kazamias, 1961）的方法论交锋，将其作为学科科学化进程中的核心价值抉择。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 深入剖析英国 [[Education Endowment Foundation|EEF]] 工具包等循证实践，揭示技术官僚如何借助“价值中立证据”的科学修辞，回避关于工人阶层贫困与资本主义教育不平等的根本性政治辩论，消解教师的[[Professional Judgment|专业判断力]]。
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 系统剖析早期比较教育文献，指出[[Marc-Antoine Jullien|朱利安]][[Questionnaire|问卷]]对道德宗教与全人[[Bildung|教化]]的鲜明预设绝非研究“缺陷”，而是欧陆[[Geisteswissenschaften|精神科学]]中经验事实服从于社会伦理改良的必然要求，强力清算了实证派的教条指责。
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 梳理两百年比较教育学术流变，结合[[Bernard Barber|巴伯]]（Barber, 1972）与卡诺伊（Carnoy, 1983）论述，深刻解构战[[Postpositivism|后实证主义]]对“价值中立探究”的机械幻想，揭示其抽空教育伦理关切并沦为资本主义再生产与国家规划政治借口（alibi）的意识形态本质。
 > - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 论述教育不仅关乎技能传授的效率，更关乎民主公民的培育与自主主体的生成；将教育决策托付给去价值的中立实证数据，是对教育民主本质的重大背叛。
 > - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] — 剖析脑科学证据如何被包装为“不偏不倚的自然科学真理”，从而合法化国家对初等教育课程控制权的强行收紧。
 > - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 揭示 [[PISA]] 等国际大型测评所宣称的“客观中立比较”，实际上深度嵌入了全球资本主义竞争的政治经济学逻辑。
 > - [[Argument_Serpell_2020_EP|Serpell (2020)]] — 基于美国国会山立法沉浸反思，揭示立法决策的价值主导本质，批判学术界固守“中立平衡”与免责声明导致证据被政治家弃置的“中立陷阱”，论证研究者必须将实证证据融入立法者的价值体系。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 结合拉美外围资本主义现实与[[Critical Pedagogy|批判教育学]]，揭示任何教育政策诊断均暗含特定的国家理论，解构技术官僚将[[Endogenous and Exogenous Privatisation|教育私有化]]与紧缩政策伪装为“价值中立科学方案”的意识形态实质。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理比较教育学内部关于研究应当是[[Educational Meliorism|改良主义]]、[[Ideology Critique|意识形态批判]]抑或严格价值中立（Kazamias, 1961）的方法论交锋，将其作为学科科学化进程中的核心价值抉择。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp & Zamiska (2025, Ch. 7)]] — 专著第7章，深度剖析当代公共与学术文化混淆描述性事实与规范性评价的[[Epistemology|认识论]]危机，阐发独立评估事实真伪的“[[Cognitive Decoupling|认知脱钩]]”能力对维护战略理性的重要意义。
 
 ---

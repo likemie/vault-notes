@@ -56,7 +56,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 # Discourse Analysis
 
@@ -160,8 +160,7 @@ updated: 2026-10-07
 
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22\|Cohen et al. (2011, Ch. 22, pp. 385–402)]] — 系统介绍[[Discourse|话语]]分析的定义、与[[Jürgen Habermas\|哈贝马斯]][[Critical Theory\|批判理论]]的关联、Edwards的课堂话语分析案例，以及方法批评
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al. (2011, Ch. 23, pp. 403–420)]] — 将话语分析列为[[Structured Observation\|结构化观察]]数据的分析方法之一，用于课堂对话问答序列和互动模式分析（23.4 节）
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22\|Cohen et al. (2011, Ch. 22, pp. 385–402)]] — 系统介绍[[Discourse|话语]]分析的定义、与[[Jürgen Habermas\|哈贝马斯]][[Critical Theory\|批判理论]]的关联、Edwards的课堂话语分析案例，以及方法批评；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al. (2011, Ch. 23, pp. 403–420)]] — 将话语分析列为[[Structured Observation\|结构化观察]]数据的分析方法之一，用于课堂对话问答序列和互动模式分析（23.4 节）
 > - [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] — 运用话语分析法深入解析七年级科学课堂上围绕北极狐与三文鱼种群观察证据的口头论辩对话序列，揭示学生如何通过多轮师生与生生互动敏锐反思观察过程的[[Reliability\|可靠性]]条件。
 > - [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] — 运用话语分析与[[Narrative Analysis\|叙事分析]]技术对比 [[OECD]] 官方文本、英国教育大臣议会声明与大众媒体报道，揭示政客如何利用遗漏话语与危机修辞扭曲国际评估事实以服务本土改革议程。
 > - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 结合四层[[Multimodal Discourse Analysis\|多模态话语分析]]（Multimodal Discourse Analysis）框架，逐回合剖析初中生在利用 Canva 和 ChatGPT 协同建构植物生长与真菌分类[[Scientific Explanation\|科学解释]]时的言语对话、提示词迭代与多模态交互，揭示学生如何践行内容、信源与接收者三维[[Epistemological Vigilance\|认识论警觉]]。

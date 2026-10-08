@@ -42,7 +42,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-09-11
+updated: 2026-10-08
 ---
 ## 简介
 

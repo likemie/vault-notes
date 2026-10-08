@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-11
-updated: 2026-09-17
+updated: 2026-10-08
 ---
 # Non-participant Observation
 
@@ -124,5 +124,4 @@ Bailey（1994, p. 247）解释：在自然情境中，研究者很难进行非�
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al. (2011, Ch14)]] — 教材将非[[Participant Observation\|参与观察]]作为与参与式观察并列的主要观察类型，通过 Boulton（1992）、Blease & Cohen（1990）和 King（1979）进行示例说明（pp. 291–292）
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al. (2011, Ch. 23)]] — 专章系统介绍 Gold（1958）完全观察者角色、Dyer（1995）非参与观察设计清单、自然与人工情境中的单向镜与视频记录应用
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al. (2011, Ch14)]] — 教材将非[[Participant Observation\|参与观察]]作为与参与式观察并列的主要观察类型，通过 Boulton（1992）、Blease & Cohen（1990）和 King（1979）进行示例说明（pp. 291–292）；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al. (2011, Ch. 23)]] — 专章系统介绍 Gold（1958）完全观察者角色、Dyer（1995）非参与观察设计清单、自然与人工情境中的单向镜与视频记录应用

@@ -109,7 +109,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-10-01
+updated: 2026-10-08
 ---
 
 # Unit of Analysis
@@ -408,9 +408,6 @@ updated: 2026-10-01
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 批判比较教育学中的“[[Methodological Nationalism|方法论民族主义]]”，系统确立资本主义世界经济体作为基准分析单位，并运用[[Pluri-Scalar Governance|多标度治理]]与微观[[Comparative Case Study|比较案例研究]]重构空间与行动者分析单位（pp. 101, 104, 108–111）。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 31)]] — 提出[[Complexity Theory|复杂性理论]]重构分析单位的理论命题，论述从个体/机构原子切片走向围绕奇异吸引子的生态共生网络。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 系统阐释[[Content Analysis|内容分析]]中三级分析单位的划分原则、五类抽样与记录单位形态，以及聚合尺度与[[Reliability|信度]]的反比权衡规律（Ch. 30）。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 批判比较教育学中的“[[Methodological Nationalism|方法论民族主义]]”，系统确立资本主义世界经济体作为基准分析单位，并运用[[Pluri-Scalar Governance|多标度治理]]与微观[[Comparative Case Study|比较案例研究]]重构空间与行动者分析单位（pp. 101, 104, 108–111）。 [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 阐释宏观比较教育学科演进中，分析单位从 19 世纪民族国家制度容器与冷战地缘阵营向 21 世纪初超国家标准化测评度量空间的重大迁移（pp. 87–88, 94–96）。 [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统梳理比较教育两百年学科史中分析单位的重大演变，揭示从 19 世纪第一代“[[Scholiocentric Approach|以校为中心]]”（Scholiocentric）孤立办学考察向 20 世纪初[[Michael Sadler|萨德勒]]“民族国家整体教育体系”的历史性转变（pp. 140–142）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 31)]] — 提出[[Complexity Theory|复杂性理论]]重构分析单位的理论命题，论述从个体/机构原子切片走向围绕奇异吸引子的生态共生网络。 [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 系统阐释[[Content Analysis|内容分析]]中三级分析单位的划分原则、五类抽样与记录单位形态，以及聚合尺度与[[Reliability|信度]]的反比权衡规律（Ch. 30）。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 规范[[Qualitative Research|质性研究]]与[[Mixed Methods Research|混合方法]]设计中分析单位的选择，强调避免在不同分析阶段混淆个体与群体聚合单位（Ch. 9, 10）。
-> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 阐释宏观比较教育学科演进中，分析单位从 19 世纪民族国家制度容器与冷战地缘阵营向 21 世纪初超国家标准化测评度量空间的重大迁移（pp. 87–88, 94–96）。
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统梳理比较教育两百年学科史中分析单位的重大演变，揭示从 19 世纪第一代“[[Scholiocentric Approach|以校为中心]]”（Scholiocentric）孤立办学考察向 20 世纪初[[Michael Sadler|萨德勒]]“民族国家整体教育体系”的历史性转变（pp. 140–142）。

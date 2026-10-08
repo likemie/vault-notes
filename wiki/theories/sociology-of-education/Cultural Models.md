@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-22
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Cultural Models
@@ -229,7 +229,6 @@ updated: 2026-10-07
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 运用[[Prototype Methods|原型方法]]系统提炼西方与东亚学习文化模型的认知人类学与文化心理学经典研究。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 深入解构[[World Society Theory|世界文化理论]]的四项核心文化信念，提出基于[[Conditioned State Theory|受限国家]]与[[Dependency Theory|依附理论]]的批判性比较[[Analytic Framework|分析框架]]。
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合[[World-Systems Theory|世界体系分析]]与多国微观[[Ethnography|民族志]]案例，系统对质世界文化模型与现实主义依附论，确立全球与本土辩证互动的分析[[Paradigm|范式]]。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 深入解构[[World Society Theory|世界文化理论]]的四项核心文化信念，提出基于[[Conditioned State Theory|受限国家]]与[[Dependency Theory|依附理论]]的批判性比较[[Analytic Framework|分析框架]]。 [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合[[World-Systems Theory|世界体系分析]]与多国微观[[Ethnography|民族志]]案例，系统对质世界文化模型与现实主义依附论，确立全球与本土辩证互动的分析[[Paradigm|范式]]。
 
 ---

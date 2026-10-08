@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
 # Knowledge Mediation
@@ -248,8 +248,7 @@ updated: 2026-10-05
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 系统梳理知识中介在[[Knowledge Production|知识生产]]、传播与利用三大治理环节中的全流程覆盖，提出获取、技能与互动三维支持支柱，并反思政策短周期对中介机制的冲击。
-> - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 横向评述跨领域[[Knowledge Mobilisation|知识动员]]框架，系统界定知识中介的概念内涵与其在三代系统演进中的核心功能。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 系统梳理知识中介在[[Knowledge Production|知识生产]]、传播与利用三大治理环节中的全流程覆盖，提出获取、技能与互动三维支持支柱，并反思政策短周期对中介机制的冲击。 [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 横向评述跨领域[[Knowledge Mobilisation|知识动员]]框架，系统界定知识中介的概念内涵与其在三代系统演进中的核心功能。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 剖析国际组织如何运用第三代中介机制设立常设区域枢纽，以缓解全球证据闲置危机。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]] — 阐明[[Research Universities|研究型大学]]如何依托国防研发注资建立的先进科研基础设施与工程人才培养，在公共安全部门与民用高科技产业之间扮演跨界知识中介网络枢纽。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 结合英加实践，阐明一线教师对同行中介网络与[[Practice-Based Evidence|实践本位证据]]的显著偏好。

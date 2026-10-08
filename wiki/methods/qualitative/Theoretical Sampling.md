@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-09-17
+updated: 2026-10-08
 ---
 # Theoretical Sampling
 
@@ -109,5 +109,4 @@ Ezzy（2002, pp. 74–75）在其失业研究中给出了另一个示例：初�
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍理论抽样作为[[Grounded Theory\|扎根理论]]的核心方法，以及 Glaser & Strauss（1967）的[[Saturation\|理论饱和]]概念。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al. (2011, Ch. 11)]] — 通过教育案例（教师士气研究）和 Ezzy 失业研究展示理论抽样的完整操作逻辑，阐述其与[[Analytic Induction\|分析归纳法]]的延伸关系，以及理论饱和的终点标准。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍理论抽样作为[[Grounded Theory\|扎根理论]]的核心方法，以及 Glaser & Strauss（1967）的[[Saturation\|理论饱和]]概念。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al. (2011, Ch. 11)]] — 通过教育案例（教师士气研究）和 Ezzy 失业研究展示理论抽样的完整操作逻辑，阐述其与[[Analytic Induction\|分析归纳法]]的延伸关系，以及理论饱和的终点标准。

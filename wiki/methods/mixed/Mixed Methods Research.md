@@ -103,7 +103,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-06-14
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
 # Mixed Methods Research
@@ -345,14 +345,12 @@ updated: 2026-10-05
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 28]] — 系统论述混合方法作为第三次方法论运动的[[Pragmatic Paradigm\|实用主义范式]]、设计类型学、整合策略与哲学论辩。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 28]] — 系统论述混合方法作为第三次方法论运动的[[Pragmatic Paradigm\|实用主义范式]]、设计类型学、整合策略与哲学论辩。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch. 7, p. 119]] — 系统提出顺序、平行与合成式三种数据收集时间规划模型及前载/后载时间成本权衡。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al., 2011, Ch. 19, p. 380]] — 论证[[Virtual World\|虚拟世界]]探究高度适合混合方法，数据既可数值化统计又可通过解释[[Phenomenology\|现象学]]深入理解。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 232]] — 奠定混合方法与多方法的核心区分，规范聚敛式、解释序列与探索序列三大核心设计及[[Joint Display\|联合展示]]规程。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch. 7, p. 119]] — 系统提出顺序、平行与合成式三种数据收集时间规划模型及前载/后载时间成本权衡。
 > - [[Argument_Brady_2023_EPR\|Brady et al., 2023, p. 6]] — 追踪教育心理学期刊中混合方法的使用占比（6%）及其包含[[Recommendations for Practice\|实践建议]]的高比例特征（60%）。
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall, 2025b, p. 55]] — 综合运用理论框架建构、65 所大学[[Website Content Analysis\|网站内容分析]]与[[Questionnaire\|问卷调查]]三步混合设计，透视大学[[University-Industry Collaboration\|产学参与]]模式。
 > - [[Argument_Teng_2025_CE\|Teng & Wang, 2025, p. 305]] — 采用解释性混合设计，先通过问卷回归识别[[Peidu\|陪读]]社会分层梯度，再依托[[In-depth Interview\|深度访谈]]阐释微观运作机制。
 > - [[Argument_Cole_2015_AJE\|Cole et al., 2015, p. 30]] — 运用三阶段[[Convergent Design\|聚敛式设计]]，结合大样本问卷量表与多校课堂观察/访谈质性数据，检验[[International Baccalaureate\|国际文凭]] [[Theory of Knowledge\|TOK]] 课程对[[Critical Thinking\|批判性思维]]的培育效应。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al., 2011, Ch. 19, p. 380]] — 论证[[Virtual World\|虚拟世界]]探究高度适合混合方法，数据既可数值化统计又可通过解释[[Phenomenology\|现象学]]深入理解。
 > - [[Argument_Metli_2022_IJER\|Metli & Akış, 2022, p. 222]] — 结合问卷调查与[[Focus Group\|焦点小组]]访谈，质性阐释[[Concurrency of Learning\|并发学习]]认知挑战，量化统计印证定性发现。
 > - [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers, 2015, p. 10]] — 采用[[Explanatory Sequential Design\|解释性序列设计]]，结合大规模问卷与焦点[[Group Interview\|小组访谈]]评估 TOK 课程实施影响。
 

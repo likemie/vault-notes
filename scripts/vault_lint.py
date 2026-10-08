@@ -206,6 +206,7 @@ PERSON_YEAR_PATTERN = re.compile(
 )
 ALLOWED_CONFIDENCE = {"high", "medium", "low"}
 ALLOWED_STATUS = {"draft", "in-progress", "stable", "archived", "active", "published", "completed"}
+RELATED_RESEARCH_ENTRY_MAX_CHARS = 150
 
 TYPE_TO_RELATED_FIELD = {
     "concept": "related_concepts",
@@ -878,6 +879,81 @@ def argument_book_key(target: str, by_title: Dict[str, Dict[str, Any]]) -> Optio
     if len(parts) < 5 or parts[:3] != ("wiki", "arguments", "books"):
         return None
     return parts[3]
+
+
+def markdown_visible_text(text: str) -> str:
+    """Return compact reader-visible text for a single Markdown line."""
+    def wikilink_label(match: re.Match[str]) -> str:
+        raw = match.group(1)
+        if "\\|" in raw:
+            return raw.split("\\|", 1)[1].strip()
+        if "|" in raw:
+            return raw.split("|", 1)[1].strip()
+        return extract_wikilink_target(raw)
+
+    visible = WIKILINK_RE.sub(wikilink_label, text)
+    visible = MD_LINK_RE.sub(lambda match: match.group(1), visible)
+    visible = re.sub(r"[*_~`]", "", visible)
+    visible = re.sub(r"<[^>]+>", "", visible)
+    return re.sub(r"\s+", " ", visible).strip()
+
+
+def check_related_research_entry_length(path: Path, text: str, issues: List[Issue]) -> None:
+    """Warn when a top-level related-research index entry is too long."""
+    if TEMPLATES_DIR in path.parents or is_schema_or_workflow_doc(path) or not is_wiki_entry_path(path):
+        return
+
+    _, body, body_start_line = split_frontmatter(text)
+    callout_header_re = re.compile(
+        r"^(?P<quote>\s*(?:>\s*)+)\[![^\]\n]+\][+-]?\s*(?P<title>.*)$"
+    )
+    quoted_line_re = re.compile(r"^(?P<quote>\s*(?:>\s*)+)(?P<content>.*)$")
+    in_index = False
+    index_depth = 0
+    line_number = body_start_line
+
+    for line in body.splitlines(keepends=True):
+        header = callout_header_re.match(line)
+        if header:
+            depth = header.group("quote").count(">")
+            if in_index and depth > index_depth:
+                line_number += line.count("\n")
+                continue
+            title = header.group("title")
+            in_index = "相关研究" in title and "索引" in title
+            index_depth = depth if in_index else 0
+            line_number += line.count("\n")
+            continue
+
+        if not in_index:
+            line_number += line.count("\n")
+            continue
+
+        quoted = quoted_line_re.match(line)
+        if not quoted:
+            if line.strip():
+                in_index = False
+            line_number += line.count("\n")
+            continue
+
+        content = quoted.group("content").rstrip("\r\n")
+        if quoted.group("quote").count(">") != index_depth or not re.match(r"^[-*+]\s+", content):
+            line_number += line.count("\n")
+            continue
+
+        entry = re.sub(r"^[-*+]\s+", "", content, count=1)
+        visible_length = len(markdown_visible_text(entry))
+        if visible_length > RELATED_RESEARCH_ENTRY_MAX_CHARS:
+            issues.append(Issue(
+                "WARN",
+                rel(path),
+                f"相关研究索引顶层条目的可见文字为 {visible_length} 个字符，"
+                f"超过上限 {RELATED_RESEARCH_ENTRY_MAX_CHARS}；请压缩为一句话索引",
+                line=line_number,
+                code="RELATED_RESEARCH_ENTRY_TOO_LONG",
+            ))
+
+        line_number += line.count("\n")
 
 
 def check_related_research_duplicate_books(
@@ -2412,6 +2488,7 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
     check_citation_links(path, text, data, argument_citations, issues)
     check_duplicate_citations(path, text, data, issues)
     check_related_research_duplicate_books(path, text, by_title, issues)
+    check_related_research_entry_length(path, text, issues)
     check_citation_card_language_order(path, text, issues)
 
 

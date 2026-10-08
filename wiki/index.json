@@ -3081,6 +3081,17 @@
     ]
   },
   {
+    "title": "Banality of Evil",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Banality of Evil.md",
+    "aliases": [
+      "平庸之恶",
+      "恶的平庸性",
+      "极恶的平庸",
+      "The Banality of Evil"
+    ]
+  },
+  {
     "title": "Banking Model of Education",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Banking Model of Education.md",
@@ -24033,6 +24044,15 @@
     "aliases": [
       "Whitehurst, G.",
       "格罗弗·怀特赫斯特"
+    ]
+  },
+  {
+    "title": "Hannah Arendt",
+    "type": "person",
+    "path": "wiki/persons/us/Hannah Arendt.md",
+    "aliases": [
+      "汉娜·阿伦特",
+      "阿伦特"
     ]
   },
   {

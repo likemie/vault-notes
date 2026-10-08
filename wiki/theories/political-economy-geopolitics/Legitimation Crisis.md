@@ -158,8 +158,7 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025, Ch01)]] — 运用[[Jürgen Habermas|哈贝马斯]]合法化危机理论剖析当代硅谷退缩与公共[[Innovation Desert|创新荒漠]]，论证重构[[Technological Republic|技术共和国]]以维护民主治理公信力的紧迫性。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025, Overview)]] — 全书总览页，阐明四部十八章从合法性危机诊断走向工程文化实践重构的完整体系。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025, Ch01)]] — 运用[[Jürgen Habermas|哈贝马斯]]合法化危机理论剖析当代硅谷退缩与公共[[Innovation Desert|创新荒漠]]，论证重构[[Technological Republic|技术共和国]]以维护民主治理公信力的紧迫性。 [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025, Overview)]] — 全书总览页，阐明四部十八章从合法性危机诊断走向工程文化实践重构的完整体系。
 
 ---
 

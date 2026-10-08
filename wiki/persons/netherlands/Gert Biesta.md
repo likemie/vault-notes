@@ -7,7 +7,7 @@ summary: "荷兰教育哲学家，教育的美丽风险作者与教育目的论�
 type: person
 nationality: netherlands
 person_region: "netherlands"
-person_related_count: 24
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_methods:
 related_persons:
   - "[[John Dewey]]"
   - "[[Bruno Latour]]"
+  - "[[Hannah Arendt]]"
   - "[[Carlos Alberto Torres]]"
 related_facts: []
 related_arguments:
@@ -50,12 +51,13 @@ related_arguments:
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Rømer_2018_EPT]]"
+  - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Cowen_2019_ERE]]"
   - "[[Argument_Bainbridge_2022_ROE]]"
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-22
+updated: 2026-10-08
 ---
 ## 简介
 
@@ -111,13 +113,13 @@ updated: 2026-09-22
 
 > [!note-] 哲学渊源
 > - 深受 **[[John Dewey]]** 的[[Pragmatic Paradigm\|实用主义]]和**[[Bruno Latour]]** 的科学社会学影响——前者提供了交易[[Epistemology\|认识论]]基础，后者提供了对"科学作为黑箱"的批判视角
-> - 受 **Hannah Arendt** 的政治哲学启发，发展了教育中的主体化概念——教育不是"制造"主体，而是为主体"出现"创造条件
+> - 受 **[[Hannah Arendt]]** 的政治哲学启发，发展了教育中的主体化概念——教育不是"制造"主体，而是为主体"出现"创造条件
 > - 发展了关于教育中**被动性（passivity）**的概念：学习是"把自己交给教学"（being taught），教学被视为一种礼物（Biesta, 2013, "Receiving the Gift of Teaching", pp.449–461，转引自 [[Argument_Rømer_2018_EPT\|Rømer, 2018, p.8]]）。这一概念与 Dewey 的"经验的双重面向"（主动与被动）相呼应——Dewey 认为被动的一面是"想象力"，即让经验向外部世界的交易开放
 
 
 > [!note-] 在 [[Evidence-Based Education\|EBE]] 批判中的影响
 > - [[Argument_Rømer_2018_EPT\|Rømer (2018, p.8)]] 将 Biesta 的被动性概念用作对抗 Hattie [[Visible Learning]] 的理论资源：在 Hattie 的世界中，被动性被完全排除（"passive was not a word in the vocabulary of these accomplished teachers", Hattie, 2009, pp.28–29），而这构成了一种与整个西方教育传统的断裂——从 Dewey 到 Kant 到 Arendt，想象力和判断力（及其被动面）是教育行动的核心
-> - [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker (2019)]] 和 Wrigley (2018) 在方法论批判中广泛援引 Biesta 的开放/递归/符号系统理论——标志着 Biesta 的哲学框架从独立的[[Philosophical Analysis in Education\|哲学分析]]进入经验导向的方法论批判
+> - [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker (2019)]] 和 [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] 在方法论批判中广泛援引 Biesta 的开放/递归/符号系统理论——标志着 Biesta 的哲学框架从独立的[[Philosophical Analysis in Education\|哲学分析]]进入经验导向的方法论批判
 > - [[Argument_Cowen_2019_ERE\|Cowen (2019)]] 的制度批判与 Biesta 的哲学批判形成互补：Biesta 论证 EBE 在哲学上是错的，Cowen 论证它在制度上被选择并非因为对
 > - [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]在分析英国议会选择性教育政策辩论时，援引了 Biesta（2007a, 2010）对 EBE 的哲学批判作为理论基础，讨论证据在教育政策制定中的实际角色([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.3, 7]])——将 Biesta 的批判引入道德侧步的经验研究
 

@@ -251,9 +251,7 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统对比斯坦福新制度主义与[[Immanuel Wallerstein|沃勒斯坦]]现实主义两大流派，剖析新自由主义[[Time-Space Compression|时空压缩]]与微观本土抵制，重构全球与本土辩证法框架。
-> - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 深入应用并检验世界社会理论，展示大学作为无私代言人（[[Otherhood]]）通过协作、中介、解释和游说四种知识机制嵌入多边全球治理的过程。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 批判性检视世界文化理论的核心信念，重构外围国家教育扩张的历史唯物主义[[Analytic Framework|分析框架]]。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统对比斯坦福新制度主义与[[Immanuel Wallerstein|沃勒斯坦]]现实主义两大流派，剖析新自由主义[[Time-Space Compression|时空压缩]]与微观本土抵制，重构全球与本土辩证法框架。 [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 批判性检视世界文化理论的核心信念，重构外围国家教育扩张的历史唯物主义[[Analytic Framework|分析框架]]。
+> - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 深入应用并检验世界社会理论，展示大学作为无私代言人（[[Otherhood]]）通过协作、中介、解释和游说四种知识机制嵌入多边全球治理的过程。 [[Argument_Amos_2022_Springer|Amos (2022)]] — 梳理欧洲大众教育起源的历史脉络，论证大众教育源于主权国家确立成员身份与应对地缘竞争的防御性动员。
 > - [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] — 检验香港通识科创立到废除的全周期演变，揭示全球趋同[[Discourse|话语]]在主权政治危机下的工具性与可逆性。
-> - [[Argument_Amos_2022_Springer|Amos (2022)]] — 梳理欧洲大众教育起源的历史脉络，论证大众教育源于主权国家确立成员身份与应对地缘竞争的防御性动员。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 梳理比较教育三大国际关系传统，系统反思世界文化学派在[[Policy Borrowing|政策借用]]研究中的理论局限。

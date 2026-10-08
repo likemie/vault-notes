@@ -259,7 +259,5 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 系统考证自由教育作为 19 世纪欧洲四大[[Paideia\|古典教化]]传统之一的终极目标，以及二战浩劫导致的道德破产与战后[[Scientific Paradigm\|科学范式]]转型。
-> - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 阐述阿诺德如何将古典[[Bildung\|教化]]作为抵御自由放任资本主义庸俗化的核心思想武器。
+> - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 系统考证自由教育作为 19 世纪欧洲四大[[Paideia\|古典教化]]传统之一的终极目标，以及二战浩劫导致的道德破产与战后[[Scientific Paradigm\|科学范式]]转型。 [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 阐述阿诺德如何将古典[[Bildung\|教化]]作为抵御自由放任资本主义庸俗化的核心思想武器。 [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 阐发比较教育第二论述代际（历史-哲学与自由人文代际）的知识谱系，论证博雅教育作为抵御 20 世纪极权主义、维系民主政体与启蒙公民资格的人文主义核心（pp. 143–144）。
 > - [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987)]] — 探讨传统自由教育从精英古典主义向现代 IB 多元思维[[General Education\|通识教育]]的课程转换与批判反思。
-> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 阐发比较教育第二论述代际（历史-哲学与自由人文代际）的知识谱系，论证博雅教育作为抵御 20 世纪极权主义、维系民主政体与启蒙公民资格的人文主义核心（pp. 143–144）。

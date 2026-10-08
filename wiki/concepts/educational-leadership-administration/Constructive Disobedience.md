@@ -7,7 +7,7 @@ aliases:
 summary: "指组织成员在深刻理解并内化领导层宏观战略愿景的前提下，主动质疑、调整甚至拒绝执行不切实际的自上而下具体指令，依据实战物理反馈实施能动修正与系统重构的微观行动哲学。在卡普与扎米斯卡（2025）的科技治理体系中，建设性不服从是打破科层盲从与管理自恋、维系复杂自适应软件演化与重塑技术共和国工程思维的微观制度基石。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Swarm Intelligence]]"
   - "[[Emergence]]"
   - "[[Status Transactions]]"
+  - "[[Banality of Evil]]"
   - "[[Hacker Ethic]]"
   - "[[Technological Republic]]"
   - "[[Social Deafness]]"
@@ -159,7 +160,7 @@ updated: 2026-10-08
 ## 概念演变
 
 > [!dev-timeline] 概念演变历程
-> - **1961 [[Milgram Obedience Experiment|米尔格拉姆服从实验]]揭示盲从平庸之恶** [[Stanley Milgram|斯坦利·米尔格拉姆]]（Stanley Milgram）证实普通人在权威指令下极易让渡个人道德判断（代理态），以礼貌顺从执行残酷指令，为反思科层盲从提供了实验心理学基础。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, pp. 132–136)]]
+> - **1961 [[Milgram Obedience Experiment|米尔格拉姆服从实验]]揭示盲从[[Banality of Evil|平庸之恶]]** [[Stanley Milgram|斯坦利·米尔格拉姆]]（Stanley Milgram）证实普通人在权威指令下极易让渡个人道德判断（代理态），以礼貌顺从执行残酷指令，为反思科层盲从提供了实验心理学基础。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, pp. 132–136)]]
 > - **1979 [[Role-playing|即兴戏剧]]与[[Status Transactions|地位交易]]理论确立** 戏剧理论家[[Keith Johnstone|基思·约翰斯通]]（Keith Johnstone）提出地位交易理论，揭示人际互动中主导权与从属性的动态流动，为打破僵化科层权威提供了方法论洞见。
 > - **1980s–2000s 硅谷[[Hacker Ethic|黑客伦理]]与敏捷工程反思** 从[[Homebrew Computer Club|家酿计算机俱乐部]]到敏捷软件宣言，工程师群体逐渐发展出“代码胜于雄辩、实效高于层级”的反威权工作哲学。
 > - **2025 升华为[[Technological Republic|技术共和国]]工程文化的微观支柱** 卡普与扎米斯卡在《技术共和国》中正式系统界定“建设性不服从”，将其与[[Social Deafness|社交失聪]]、[[Shadow Hierarchy|影子层级]]并列为科技初创企业抵御组织官僚化平庸、锻造[[Hard Power|硬实力]]工程底座的核心机制。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, pp. 122–138)]]
@@ -200,7 +201,7 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - **[[Technological Republic|技术共和国]]工程治理与建设性不服从体系** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] 系统建构科技组织的微观文化哲学：在第 11 章阐述即兴剧场[[Status Transactions|地位交易]]与[[Shadow Hierarchy|影子层级]]，揭示去等级化协同机制；在第 12 章正式界定“建设性不服从”与[[Social Deafness|社交失聪]]，剖析[[Engineering Mindset|工程思维]]抵御阿施从众与[[Stanley Milgram|米尔格拉姆]]盲从平庸之恶的微观机理。
+> - **[[Technological Republic|技术共和国]]工程治理与建设性不服从体系** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] 系统建构科技组织的微观文化哲学：在第 11 章阐述即兴剧场[[Status Transactions|地位交易]]与[[Shadow Hierarchy|影子层级]]，揭示去等级化协同机制；在第 12 章正式界定“建设性不服从”与[[Social Deafness|社交失聪]]，剖析[[Engineering Mindset|工程思维]]抵御阿施从众与[[Stanley Milgram|米尔格拉姆]]盲从[[Banality of Evil|平庸之恶]]的微观机理。
 > - **权威服从心理学实验** Milgram (1974) 在《对权威的服从》中系统报告耶鲁服从实验，揭示普通人在层级权威压制下的“代理态”转换与道德脱敏，为反思组织内部盲从提供了里程碑式实证依据。
 > - **即兴剧场与地位动态理论** Johnstone (1979) 在《即兴：剧场中的即兴表演》中提出地位交易与主导-从属动态流动理论，成为分析高科技组织影子层级与打破静态职级权威的重要理论工具。
 
@@ -219,7 +220,7 @@ updated: 2026-10-08
 > | [[Bureaucracy]] | 概念 | 批判对象，因奖赏顺从者而导致系统性平庸化与创新枯竭的传统科层制。 |
 > | [[Technological Republic]] | 概念 | 宏观愿景，由具备建设性不服从文化的工程师共同体所支撑的技术共和国。 |
 > | [[Palantir Technologies]] | 事实 (机构) | 践行建设性不服从与去中心化影子层级的代表性高科技企业。 |
-> | [[Milgram Obedience Experiment]] | 事实 (事件) | 揭示盲目服从权威带来致命平庸之恶的经典社会心理学实验。 |
+> | [[Milgram Obedience Experiment]] | 事实 (事件) | 揭示盲目服从权威带来致命[[Banality of Evil\|平庸之恶]]的经典社会心理学实验。 |
 > | [[Alexander Karp]] | 人物 | 理论提出者，帕兰提尔首席执行官与《技术共和国》合著者。 |
 > | [[Nicholas Zamiska]] | 人物 | 理论提出者，帕兰提尔法律与政策高级副总裁，《技术共和国》合著者。 |
 > | [[Stanley Milgram]] | 人物 | 历史先驱，耶鲁权威服从实验设计者与代理态理论奠基人。 |

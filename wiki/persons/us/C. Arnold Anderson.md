@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-10-01
+updated: 2026-10-08
 ---
 
 # C. Arnold Anderson
@@ -185,9 +185,7 @@ updated: 2026-10-01
 > - **政策路径** 与鲍曼等人开创的[[Development Education|发展教育]]研究，深度参与战后[[World Bank\|世界银行]]（World Bank）与美国国际开发署对第三世界国家的教育扩张与[[Human Capital Theory|人力资本]]规划。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 详细考证安德森所代表的芝加哥学派在第三代际中的结构功能主义进路及其作为技术援助[[Social Science as Legitimation Alibi|合法化借口]]的功能（pp. 146–147, 150–151）。
-> - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 详细评析安德森所代表的芝加哥结构功能主义学派对恒常超越时空规律的追求及其方法论特征。
-> - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 论述安德森作为战后早期社会学界代表，在将常规社会科学规范与严谨分析模式引入比较教育学中的奠基性历史地位。
+> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 详细考证安德森所代表的芝加哥学派在第三代际中的结构功能主义进路及其作为技术援助[[Social Science as Legitimation Alibi|合法化借口]]的功能（pp. 146–147, 150–151）。 [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 详细评析安德森所代表的芝加哥结构功能主义学派对恒常超越时空规律的追求及其方法论特征。 [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 论述安德森作为战后早期社会学界代表，在将常规社会科学规范与严谨分析模式引入比较教育学中的奠基性历史地位。
 
 ---
 
@@ -251,6 +249,4 @@ updated: 2026-10-01
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 详细考据比较教育第三代际芝加哥学派（Anderson & Foster）的结构功能分析，深入剖析其追求超越时空恒常规律的理论志趣，并揭示其作为战后国家计划与技术援助[[Social Science as Legitimation Alibi|合法化借口]]的政治功能（pp. 146–147, 150–151）。
-> - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 详细评析安德森所代表的芝加哥[[Structural Functionalism|结构功能主义]]学派对恒常超越时空规律的追求及其方法论特征。
-> - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 论述安德森作为战后早期社会学界代表，在将常规社会科学规范与严谨分析模式引入比较教育学中的奠基性历史地位。
+> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 详细考据比较教育第三代际芝加哥学派（Anderson & Foster）的结构功能分析，深入剖析其追求超越时空恒常规律的理论志趣，并揭示其作为战后国家计划与技术援助[[Social Science as Legitimation Alibi|合法化借口]]的政治功能（pp. 146–147, 150–151）。 [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 详细评析安德森所代表的芝加哥[[Structural Functionalism|结构功能主义]]学派对恒常超越时空规律的追求及其方法论特征。 [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 论述安德森作为战后早期社会学界代表，在将常规社会科学规范与严谨分析模式引入比较教育学中的奠基性历史地位。

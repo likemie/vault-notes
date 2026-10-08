@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-02
+updated: 2026-10-08
 ---
 
 # Extended Essay
@@ -213,7 +213,6 @@ updated: 2026-10-02
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987)]] 记录 EE 从六学科课程缺口中产生的原因、早期四至六个月研究形态、外部评价、学生反馈及期限调整。
-> - [[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 181–182)]] 记录成熟期 EE 的选题问题、地方史与科学研究案例、外部评分规则及 1985 年奖励分分布。
+> - [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987)]] 记录 EE 从六学科课程缺口中产生的原因、早期四至六个月研究形态、外部评价、学生反馈及期限调整。 [[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 181–182)]] 记录成熟期 EE 的选题问题、地方史与科学研究案例、外部评分规则及 1985 年奖励分分布。
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] 说明 [[IB Diploma Programme\|IBDP]] 核心结构以及 EE 与 [[Theory of Knowledge\|TOK]] 的奖励分转换矩阵。
 > - [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] 分析 EE 如何通过[[Concurrency of Learning\|并发学习]]与 TOK 和 [[Chinese Academy of Sciences|CAS]] 形成证据审查、[[Research Question\|研究问题]]与现实行动的双向联系，并记录学校实施障碍。

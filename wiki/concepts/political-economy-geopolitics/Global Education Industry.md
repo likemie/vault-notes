@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-07'
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Global Education Industry
@@ -214,10 +214,7 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] — 分析了全球教育产业作为[[Discourse|话语]]与物质的[[Champ\|场域]]，如何深度介入和形塑[[Geopolitics of Higher Education\|高等教育的地缘政治]]转型。
-> - [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] — 探究了[[Corporate Education\|企业教育]]市场的演进史，揭示了在线学习寡头企业通过证书体系和网络效应确立市场主导地位的过程。
-> - [[Argument_Amos_2022_Springer\|Amos (2022)]] — 提出了推动 EdTech 扩张的“利润-正义-专业发展”三重驱动力框架，指出数字化的强力锁定特征。
-> - [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge (2022)]] — 探讨了在数字时代，专有软件如何将特定教学[[Hypothesis\|假设]][[Coding in Qualitative Research\|编码]]进算法中，从而实现对教学关系的全球标准化重塑。
+> - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] — 分析了全球教育产业作为[[Discourse|话语]]与物质的[[Champ\|场域]]，如何深度介入和形塑[[Geopolitics of Higher Education\|高等教育的地缘政治]]转型。 [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] — 探究了[[Corporate Education\|企业教育]]市场的演进史，揭示了在线学习寡头企业通过证书体系和网络效应确立市场主导地位的过程。 [[Argument_Amos_2022_Springer\|Amos (2022)]] — 提出了推动 EdTech 扩张的“利润-正义-专业发展”三重驱动力框架，指出数字化的强力锁定特征。 [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge (2022)]] — 探讨了在数字时代，专有软件如何将特定教学[[Hypothesis\|假设]][[Coding in Qualitative Research\|编码]]进算法中，从而实现对教学关系的全球标准化重塑。
 > - [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff (2024)]] — 从历史与哲学视角追溯了芬兰[[Phenomenon-Based Learning\|现象本位学习]]（PhBL）的[[Bildung\|教化]]与[[Phenomenology\|现象学]]根源，揭示了其在被政策收纳时所面临的技能原子化张力。
 
 ---

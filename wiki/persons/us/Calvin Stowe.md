@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Calvin Stowe
@@ -134,8 +134,7 @@ updated: 2026-10-07
 > - **跨国思想[[Transfer Translation Transformation\|转译]]** 斯托成功破除了美国公众对“借用欧洲专制君主国教育经验会腐蚀美利坚自由共和精神”的狭隘偏见，将普鲁士公学的技术卓越性（师范专业化、直观教学法与国民道德感）与政治专制外壳剥离开来，开创了美国借用欧陆经验的[[Pragmatic Paradigm\|实用主义]]修辞传统。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 将斯托与曼、巴纳德并列，系统论证其如何代表美国 19 世纪前期的“政策导向与行政[[Educational Meliorism\|改良主义]]母题”，将外国经验转化为推进各州公学法案的政治合法化依据。
-> - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 引述斯托在俄亥俄州议会的证词，称普鲁士教育不是“空想”而是“有史以来最好的学区”；指出斯托承认普鲁士教育兼有专制道德控制但以“恶政与良教可分”为借用正名。[(Rust et al., 2009, pp. 124–125)]
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 将斯托与曼、巴纳德并列，系统论证其如何代表美国 19 世纪前期的“政策导向与行政[[Educational Meliorism\|改良主义]]母题”，将外国经验转化为推进各州公学法案的政治合法化依据。 [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 引述斯托在俄亥俄州议会的证词，称普鲁士教育不是“空想”而是“有史以来最好的学区”；指出斯托承认普鲁士教育兼有专制道德控制但以“恶政与良教可分”为借用正名。[(Rust et al., 2009, pp. 124–125)]
 
 ---
 

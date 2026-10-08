@@ -90,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # World Bank
@@ -231,7 +231,6 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用[[World-Systems Theory|世界体系分析]]透视世界银行等机构的教育援助政策，揭示其防卫性[[Disciplina and Doctrina|规训]]、固化国际分层以及扶植去政治化“[[Shadow State|影子国家]]”的政治经济学后果（pp. 105–107, 110–112）。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用[[World-Systems Theory|世界体系分析]]透视世界银行等机构的教育援助政策，揭示其防卫性[[Disciplina and Doctrina|规训]]、固化国际分层以及扶植去政治化“[[Shadow State|影子国家]]”的政治经济学后果（pp. 105–107, 110–112）。 [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 建立[[Conditioned State Theory|受限国家理论]][[Analytic Framework|分析框架]]，解构世界银行[[Financial-Intellectual Complex|金融-智识复合体]]通过结构调整与指标杠杆对第三世界[[State Educational Sovereignty|国家教育主权]]的深度规训（pp. 80–85）。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 运用[[World Education Reform Database|世界教育改革数据库]]实证检验世界银行的自指性[[Policy Brokerage|政策中介]]机制，详述其从 [[UNESCO]] 依附期到回报率帝国与[[Knowledge Bank|知识银行]]演变的全过程（pp. 540–550）。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 建立[[Conditioned State Theory|受限国家理论]][[Analytic Framework|分析框架]]，解构世界银行[[Financial-Intellectual Complex|金融-智识复合体]]通过结构调整与指标杠杆对第三世界[[State Educational Sovereignty|国家教育主权]]的深度规训（pp. 80–85）。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 运用历史比较与统计分析，揭示 1980 年代受世界银行与外债危机约束的拉美经济体（如巴西）在教育投入与产业研发上的体制停滞，对照东亚自主型[[National Innovation System|国家创新系统]]的高速赶超，从[[Evolutionary Economics|演化经济学]]维度实证反思[[Structural Adjustment Programs|结构调整方案]]的负面制度锁定（pp. 13–15）。

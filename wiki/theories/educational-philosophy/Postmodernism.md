@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Postmodernism
@@ -219,6 +219,5 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 27–29)]] — 详尽解构詹姆逊后现代主义 11 项核心特征在教育探究中的[[Epistemology|认识论]]体现，系统阐发其变色龙亲和性以及与后实证、[[Post-structuralism|后结构主义]]的方法论同盟。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 在跨章节论述中探讨后现代主义对[[Reflexivity|反思性]][[Ethnography|民族志]]、微观政治学与多重视角互证的研究启示。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 27–29)]] — 详尽解构詹姆逊后现代主义 11 项核心特征在教育探究中的[[Epistemology|认识论]]体现，系统阐发其变色龙亲和性以及与后实证、[[Post-structuralism|后结构主义]]的方法论同盟。 [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 在跨章节论述中探讨后现代主义对[[Reflexivity|反思性]][[Ethnography|民族志]]、微观政治学与多重视角互证的研究启示。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 131–132, 136)]] — 考证比较教育学理论演进历程，揭示后现代主义作为 26 种核心[[Paradigm|范式]]之一，在打破战后西方现代化[[Grand Theory|宏大叙事]]垄断、推动多元理论共存中的关键地位。

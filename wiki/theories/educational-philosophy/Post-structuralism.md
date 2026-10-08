@@ -207,8 +207,7 @@ updated: 2026-10-08
 ## 实证数据
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 28–29)]] — 系统阐发后结构主义在教育探究中的核心特征：对[[Structural Functionalism|结构功能主义]]的反思、个体能动性与内在矛盾主体、数据即文本[[Discourse|话语]]、解构意义特权化以及与后实证、[[Postmodernism\|后现代主义]]的方法论互通。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 在跨章节（特别是第 31 章和第 32 章[[Discourse Analysis\|话语分析]]专题）中深入论述话语建构、文本表演与多重视角分析在教育[[Qualitative Research\|质性研究]]中的具体操作路径。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 28–29)]] — 系统阐发后结构主义在教育探究中的核心特征：对[[Structural Functionalism|结构功能主义]]的反思、个体能动性与内在矛盾主体、数据即文本[[Discourse|话语]]、解构意义特权化以及与后实证、[[Postmodernism\|后现代主义]]的方法论互通。 [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 在跨章节（特别是第 31 章和第 32 章[[Discourse Analysis\|话语分析]]专题）中深入论述话语建构、文本表演与多重视角分析在教育[[Qualitative Research\|质性研究]]中的具体操作路径。
 
 ---
 

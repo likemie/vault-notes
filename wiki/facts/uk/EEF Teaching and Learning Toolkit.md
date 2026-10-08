@@ -109,7 +109,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-09-22
+updated: 2026-10-08
 ---
 
 # EEF Teaching and Learning Toolkit
@@ -250,9 +250,8 @@ updated: 2026-09-22
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] — 对工具包所代表的文本改写被动分发模式进行系统因果检验，并严厉批评“[[Months of Progress\|月度进步指标]]”（Months of Progress）的常模线性成长[[Hypothesis\|假设]]与对原始数据质量的掩盖。
 > - [[Argument_Cowen_2015_CHESS\|Cowen et al. (2015)]] — 评估英国[[What Works Network\|有效性网络]]与 [[Education Endowment Foundation\|EEF]] Toolkit 的早期实施成效，系统剖析五类使用形态、本地情境适应性及与 [[Ofsted]] 督导指标的制度冲突。
-> - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 调查国际 15 个证据门户，将 Toolkit 确立为通用策略类[[Systematic Review\|系统综述]]标杆，剖析单向传播失效（[[Literacy Octopus\|识字八爪鱼]] [[Randomised Controlled Trials\|RCT]]）及向 [[Research Schools Network\|RSN]] 深度护航的演进逻辑。
+> - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 调查国际 15 个证据门户，将 Toolkit 确立为通用策略类[[Systematic Review\|系统综述]]标杆，剖析单向传播失效（[[Literacy Octopus\|识字八爪鱼]] [[Randomised Controlled Trials\|RCT]]）及向 [[Research Schools Network\|RSN]] 深度护航的演进逻辑。 [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — 呈现[[OECD\|经合组织]]政策调查中 Toolkit 的 70% 采纳率与信息促成机制，并援引顾青团队（Gu et al., 2021）实证剖析最终学业产出的时间滞后。
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 系统拆解 Toolkit 的方法论架构、[[Umbrella Review\|伞状综述]]设计、六维信息结构及与 Hattie、Marzano 传统的渊源。
-> - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — 呈现[[OECD\|经合组织]]政策调查中 Toolkit 的 70% 采纳率与信息促成机制，并援引顾青团队（Gu et al., 2021）实证剖析最终学业产出的时间滞后。
 > - [[Argument_Simpson_2017_JEP\|Simpson (2017)]] — 批判 Toolkit [[Effect Size\|效应量]]计算在对照组基线、样本范围与定制测验敏感度上的三重系统偏差。
 > - [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] — 批评 Toolkit 范畴聚合中的苹果与橙子问题，指出过度抽象抹杀了课堂复杂情境。
 > - [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker (2019)]] — 穿透式剖析“体育参与”条目，揭示[[Meta-meta-analysis\|二阶元分析]]如何抹杀 [[Playing for Success]] 项目的独特因果机制。

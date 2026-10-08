@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
 # Institute for Effective Education
@@ -169,8 +169,7 @@ updated: 2026-10-05
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] — 系统评析欧洲证据基础设施的演进格局，将 IEE 确立为证据生成与转化兼备的混合型组织典范，并提出知识[[Reusability Paradox\|可重用性悖论]]对跨国循证迁移的制约。
-> - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 考察英国[[What Works Network\|有效性网络]]（WWN）与中介生态，阐释 IEE 与 [[Education Endowment Foundation\|EEF]] 联合创设[[Research Schools Network\|研究学校网络]]（RSN）以打通证据应用最后一公里的历史经验。
-> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 剖析现代教育[[Knowledge Mediation\|知识中介]]组织形态演化，将 IEE 与 EEF 孵化的 RSN 确立为中介向校际[[Communities of Practice|实践共同体]]规模化下沉的标杆案例。
+> - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 考察英国[[What Works Network\|有效性网络]]（WWN）与中介生态，阐释 IEE 与 [[Education Endowment Foundation\|EEF]] 联合创设[[Research Schools Network\|研究学校网络]]（RSN）以打通证据应用最后一公里的历史经验。 [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 剖析现代教育[[Knowledge Mediation\|知识中介]]组织形态演化，将 IEE 与 EEF 孵化的 RSN 确立为中介向校际[[Communities of Practice|实践共同体]]规模化下沉的标杆案例。
 
 ---
 

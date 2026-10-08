@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Franz Hilker
@@ -148,8 +148,7 @@ updated: 2026-10-07
 > - **跨国组织与平台** 积极参与倡建[[UNESCO|联合国教科文组织]]汉堡教育研究所（UIE），重构了二战后德国教育界与国际学术界、特别是西欧同行间的常态化对话机制。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 米特系统阐明施奈德与希尔克作为战后西德比较教育第一阶段双核奠基人的历史坐标。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 拉斯特等学者评析希尔克对古代比较探究实践艺术源流的梳理，及其在德语学科定名争鸣中的核心论述。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 米特系统阐明施奈德与希尔克作为战后西德比较教育第一阶段双核奠基人的历史坐标。 [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 拉斯特等学者评析希尔克对古代比较探究实践艺术源流的梳理，及其在德语学科定名争鸣中的核心论述。
 
 ---
 

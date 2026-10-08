@@ -62,7 +62,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-02
+updated: 2026-10-08
 ---
 # Pilot Testing
 
@@ -232,6 +232,5 @@ updated: 2026-10-02
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 在调查与实验方法设计中将预测试列为关键质控步骤。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al. (2011, Ch20)]] — 系统界定[[Questionnaire|问卷]]预测试的双重类型（格式/覆盖范围预测试与统计缩减预测试）。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|Cohen et al. (2011, Ch24)]] — 阐明测验编制中预测试对[[Item Analysis|题目分析]]（难度与区分度）的不可替代性。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al. (2011, Ch20)]] — 系统界定[[Questionnaire|问卷]]预测试的双重类型（格式/覆盖范围预测试与统计缩减预测试）。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|Cohen et al. (2011, Ch24)]] — 阐明测验编制中预测试对[[Item Analysis|题目分析]]（难度与区分度）的不可替代性。
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 揭示科研同行评审中评审委员会对成熟预实验数据的过度依赖如何诱发学术避险并阻碍初次申请者。

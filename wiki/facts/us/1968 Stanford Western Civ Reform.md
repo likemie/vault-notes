@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -31,6 +31,7 @@ related_instruments: []
 related_persons:
   - "[[Plato]]"
   - "[[Jean-Jacques Rousseau]]"
+  - "[[Hannah Arendt]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07]]"
@@ -59,7 +60,7 @@ updated: 2026-10-08
 ## 发展经过与演变阶段
 
 > [!dev-timeline] 改革推进与终结历程
-> - **1940年代末–1960年代中期 — 正典必修繁盛期** 斯坦福大学效仿哥伦比亚大学与芝加哥大学模式，建立西方文明史必修课程，精选[[Plato|柏拉图]]、[[Jean-Jacques Rousseau|卢梭]]、马克思、阿伦特等思想名篇，作为所有新生的智识成人礼。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 87)]]
+> - **1940年代末–1960年代中期 — 正典必修繁盛期** 斯坦福大学效仿哥伦比亚大学与芝加哥大学模式，建立西方文明史必修课程，精选[[Plato|柏拉图]]、[[Jean-Jacques Rousseau|卢梭]]、马克思、[[Hannah Arendt|阿伦特]]等思想名篇，作为所有新生的智识成人礼。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 87)]]
 > - **1968年11月 — 帕克委员会裁定已死或垂死** 委员会发布《斯坦福教育研究报告》（*The Study of Education at Stanford*），认定统一必修的西方文明导论课程模式已无法适应后二战时代的多样化现实，在全美高校中已处于已死或垂死（dead or dying）状态。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 87–88)]]
 > - **1969年 — 课程正式谢幕** 该课程在1969年被彻底终止；据《斯坦福日报》（*Stanford Daily*）报道，课程的终结伴随着一声叹息而非一声轰鸣（with a whimper and not a bang），校方与教职员未遭遇实质性抵抗便已全线撤退。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 88)]]
 

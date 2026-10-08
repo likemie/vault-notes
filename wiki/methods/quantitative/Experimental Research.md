@@ -9,7 +9,7 @@ summary: "通过主动操纵自变量并随机分配处理组与对照组以严�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 56
+method_related_count: 57
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Evidence-Based Education]]"
   - "[[Deception in Research]]"
+  - "[[Banality of Evil]]"
 related_theories: []
 related_methods:
   - "[[Random Assignment]]"
@@ -188,7 +189,7 @@ updated: 2026-10-08
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|Karp & Zamiska (2025, Ch. 12, pp. 130–136)]] — 深入反思 1950 年代[[Asch Conformity Experiment|阿施从众实验]]与 1960 年代[[Stanley Milgram|米尔格拉姆]]权威服从实验如何运用严密控制与实验欺骗揭示从众本能与平庸之恶。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|Karp & Zamiska (2025, Ch. 12, pp. 130–136)]] — 深入反思 1950 年代[[Asch Conformity Experiment|阿施从众实验]]与 1960 年代[[Stanley Milgram|米尔格拉姆]]权威服从实验如何运用严密控制与实验欺骗揭示从众本能与[[Banality of Evil|平庸之恶]]。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, 第 8 章)]] — 系统阐述实验研究的[[Variable|变量]]操纵、[[Random Assignment|随机分配]]、[[Factorial Design|因子设计]]模型、效度威胁与统计分析指南。
 
 

@@ -8,10 +8,10 @@ aliases:
 summary: "指在科学研究中研究者有意对受试者隐瞒真实目的、实验条件、研究者身份或主动提供误导性信息的实验设计实践；虽然在社会心理学中被用于绕过被试的社会赞许性偏误并揭示人类从众与服从本能，但因直接冲突于知情同意与不伤害伦理原则，成为现代研究伦理学中最具争议的制度化焦点。"
 type: concept
 domain: "research-methodology"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - method/research-ethics
   - theme/research-governance
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Ecological Validity]]"
   - "[[Public Value]]"
+  - "[[Banality of Evil]]"
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Institutional Review Board]]"
   - "[[Technological Republic]]"
@@ -138,7 +139,7 @@ updated: 2026-10-08
 > 阐释在研究服从权威、从众压力与隐性偏见等高度敏感的人性弱点时，欺骗为何成为确保科学数据真实有效的必要手段。
 
 > [!claim] [[Louis Cohen|Cohen, L.]], et al.; [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
-> **信息遮蔽确保科学真实性断言** 艾略特·阿伦森（Elliot Aronson）等学者论证指出，如果欺骗实验是发现具有重大[[Public Value|公共价值]]真相的唯一途径，且在过程中能严格避免不可逆实质伤害，则所得科学洞见具有伦理上的权衡正当性。亚历山大·卡普与尼古拉斯·扎米斯卡进一步指出，在 1950 年代[[Asch Conformity Experiment|阿施从众实验]]与 1960 年代[[Milgram Obedience Experiment|米尔格拉姆服从实验]]中，研究者若不借助掩饰故事与同谋假象，受试者必将出于道德自我美化与社会赞许性做出虚假表现；唯有通过严密的信息欺骗，才能剥离世俗掩饰，揭示出人类在群体压力与权威指令面前惊人的盲从弱点与平庸之恶根源。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, pp. 110–113)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 130–136)]]
+> **信息遮蔽确保科学真实性断言** 艾略特·阿伦森（Elliot Aronson）等学者论证指出，如果欺骗实验是发现具有重大[[Public Value|公共价值]]真相的唯一途径，且在过程中能严格避免不可逆实质伤害，则所得科学洞见具有伦理上的权衡正当性。亚历山大·卡普与尼古拉斯·扎米斯卡进一步指出，在 1950 年代[[Asch Conformity Experiment|阿施从众实验]]与 1960 年代[[Milgram Obedience Experiment|米尔格拉姆服从实验]]中，研究者若不借助掩饰故事与同谋假象，受试者必将出于道德自我美化与社会赞许性做出虚假表现；唯有通过严密的信息欺骗，才能剥离世俗掩饰，揭示出人类在群体压力与权威指令面前惊人的盲从弱点与[[Banality of Evil|平庸之恶]]根源。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, pp. 110–113)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 130–136)]]
 
 ---
 
@@ -176,7 +177,7 @@ updated: 2026-10-08
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1950s–1960s — 战后社会心理学经典实验中的欺骗滥觞** 阿施（1951）使用同谋给出错误线条比对答案，[[Stanley Milgram|米尔格拉姆]]（1963）使用假电击装置测试权威服从，欺骗成为揭示人类从众与平庸之恶的核心工具。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 130–136)]]
+> - **1950s–1960s — 战后社会心理学经典实验中的欺骗滥觞** 阿施（1951）使用同谋给出错误线条比对答案，[[Stanley Milgram|米尔格拉姆]]（1963）使用假电击装置测试权威服从，欺骗成为揭示人类从众与[[Banality of Evil|平庸之恶]]的核心工具。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 130–136)]]
 > - **1967 — 凯尔曼系统提出欺骗治理三重框架** 赫伯特·凯尔曼系统反思欺骗的普遍泛滥，提出提升伦理意识、负面效果最小化与开发[[Role-playing|角色扮演]]替代技术的主张。
 > - **1970s–1980s — 伦理审查制度化与情境功利主义确立** 《贝尔蒙报告》（Belmont Report）确立尊重人、行善与正义原则；[[American Educational Research Association|AERA]] 等专业协会将欺骗列为严格受限的例外手段，确立只有在无替代方案且预期收益显著大于风险时方可使用的审查标准。
 > - **2025 — [[Technological Republic|技术共和国]]从工程视角重审经典实验欺骗** 卡普与扎米斯卡在《技术共和国》中重温阿施与[[Milgram Obedience Experiment|米尔格拉姆实验]]，指出正是欺骗揭示了人性的盲目从众弱点，为现代科技组织抵御假共识、制度化践行[[Constructive Disobedience|建设性不服从]]提供了深刻认知基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 130–138)]]

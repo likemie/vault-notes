@@ -93,7 +93,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Pluralism
@@ -282,6 +282,5 @@ updated: 2026-10-07
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 以美国联邦《[[Reading Excellence Act|卓越阅读法案]]》立法实录检验传统多元主义写信动员的失败，论证[[Cultural Capital|文化资本]]对多元博弈的阻隔。
-> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 梳理欧洲比较教育学演进脉络，论述文化多元主义在抵御世界体系单一普遍主义[[Disciplina and Doctrina|规训]]中的不可替代作用。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 对半个世纪比较教育研究进行[[Document|文献]]计量与学术调查，实证论证26种[[Theoretical Perspective|理论视角]]的共存繁荣，确立“健康多元主义”学科[[Paradigm|范式]]地位。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 梳理欧洲比较教育学演进脉络，论述文化多元主义在抵御世界体系单一普遍主义[[Disciplina and Doctrina|规训]]中的不可替代作用。 [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 对半个世纪比较教育研究进行[[Document|文献]]计量与学术调查，实证论证26种[[Theoretical Perspective|理论视角]]的共存繁荣，确立“健康多元主义”学科[[Paradigm|范式]]地位。
 

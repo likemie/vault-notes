@@ -416,12 +416,10 @@ updated: 2026-10-08
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] — 首项对大型城市学区 2.88 亿美元联邦教育资金开展循证审计的实证研究，量化证实法定单项合格研究门槛（95%–99%）与全量证据综合标准（49%–58%）之间的巨大落差。
-> - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 提出[[Educational Brokerage Agency\|知识中介机构]]证据标准的六大运作维度与四大病理根源，系统论证方法学严谨性与情境适切性的双维权衡。
-> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 考证全球教育中介机构在因果金标准派与多[[Meta-meta-analysis\|元综合]]派之间的方法学阵营分化，指出[[Cumulative Knowledge Base\|累积性知识库]]建构的制度阻碍。
+> - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 提出[[Educational Brokerage Agency\|知识中介机构]]证据标准的六大运作维度与四大病理根源，系统论证方法学严谨性与情境适切性的双维权衡。 [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 考证全球教育中介机构在因果金标准派与多[[Meta-meta-analysis\|元综合]]派之间的方法学阵营分化，指出[[Cumulative Knowledge Base\|累积性知识库]]建构的制度阻碍。 [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — [[Mark Schneider]] 系统论述美国 [[Institute of Education Sciences\|IES]] 推行的 SEER 九大循证卓越标准，推动证据评价从孤立的因果[[Internal Validity\|内部效度]]走向构件解构、成本分析、通用测量与社会公平。
 > - [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] — 实证评估欧美主流[[Educational Evidence Clearinghouses\|证据清算中心]]在评级标准与[[Systematic Review\|系统综述]]方法学上的[[Heterogeneity\|异质性]]，揭示标准不一致对决策互信的负面影响。
 > - Gough & White (2018) — 对国际 15 个网络证据门户开展跨案例实证调研，确立评估中介功效主张方法学标准的经验基底。
 > - Johnson et al. (2015) — 创立 [[EMMIE Framework\|EMMIE]] 综合评估框架，推动证据标准从单一效果测度向涵盖机制、情境与实施的多维架构拓展。
 > - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 系统总结全美循证改革三十年经验，阐述《[[Every Student Succeeds Act\|每个学生成功法]]案》（ESSA 2015）四级法定证据标准的制度演进，提出防范[[Effect Size\|效应量]]虚高的五大方法学硬约束与 [[Evidence for ESSA]] 评价规程。
-> - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — [[Mark Schneider]] 系统论述美国 [[Institute of Education Sciences\|IES]] 推行的 SEER 九大循证卓越标准，推动证据评价从孤立的因果[[Internal Validity\|内部效度]]走向构件解构、成本分析、通用测量与社会公平。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 系统解构英国 [[Education Endowment Foundation\|EEF]] 前八年大规模学校 [[Randomised Controlled Trials\|RCT]] 的证据标准演进；深度剖析[[EEF Padlock Security Rating\|挂锁安全评级]]的沟通边界与统计不确定性争议，确立禁止自编测验、优先锚定国家统考（NPD）以及强制整合[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）的循证标准体系。
 > - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne (2003)]] — 系统辨析华盛顿成文法与国家清算平台证据标准的功能分野，深入考证卡斯尔草案、[[Education Sciences Reform Act 2002|ESRA 2002]] 与 [[What Works Clearinghouse|WWC]] 早期实施方案中的方法学博弈，揭示学术界公共质证如何推动证据标准从狭隘预设清单迈向“方法契合[[Research Question|研究问题]]”与吸纳准实验、过程[[Variable|变量]]的动态机制。

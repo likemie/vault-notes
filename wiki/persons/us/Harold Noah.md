@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-05
-updated: 2026-10-01
+updated: 2026-10-08
 ---
 
 # Harold Noah
@@ -195,10 +195,7 @@ updated: 2026-10-01
 > - **批判史学反思** 考恩与卡扎米亚斯指出，哥大学派的起源叙事本质上是功能化的建制史，推迟了对档案隐蔽性、非西方经验与方法论主义的技术迷思展开反思。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 考恩分析诺亚与埃克斯坦经典著作对年轻学者学科合法性的建构机制，并将其列为[[Comparative History of Comparative Education|比较教育学比较史]]顾问委员会首选资深学者。
-> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 卡扎米亚斯回顾诺亚与埃克斯坦在 1960 年代对历史比较学派的实证主义批评，并对其狭隘科学观展开[[Epistemology|认识论]]辩护。
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统梳理战后第三代际哥大学派的量化实证纲领，评析诺亚“以变量替代系统”的方法论教条与家庭收入回归[[Hypothesis|假设]]案例，并基于[[Bernard Barber|巴伯]]的方法论主义揭示其实证模型充当冷战技术援助[[Social Science as Legitimation Alibi|合法化借口]]的实质。
-> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 评析诺亚与埃克斯坦在科学范式中建立的变量函数共变模型，及其审慎不称“法则”的方法论自省与战后政策规划取向。
+> - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 考恩分析诺亚与埃克斯坦经典著作对年轻学者学科合法性的建构机制，并将其列为[[Comparative History of Comparative Education|比较教育学比较史]]顾问委员会首选资深学者。 [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 卡扎米亚斯回顾诺亚与埃克斯坦在 1960 年代对历史比较学派的实证主义批评，并对其狭隘科学观展开[[Epistemology|认识论]]辩护。 [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统梳理战后第三代际哥大学派的量化实证纲领，评析诺亚“以变量替代系统”的方法论教条与家庭收入回归[[Hypothesis|假设]]案例，并基于[[Bernard Barber|巴伯]]的方法论主义揭示其实证模型充当冷战技术援助[[Social Science as Legitimation Alibi|合法化借口]]的实质。 [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 评析诺亚与埃克斯坦在科学范式中建立的变量函数共变模型，及其审慎不称“法则”的方法论自省与战后政策规划取向。
 
 ---
 

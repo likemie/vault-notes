@@ -8,10 +8,10 @@ summary: "美国著名社会心理学家，曾在耶鲁大学主持极具震撼�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 17
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: 1933
 died: 1984
 lifespan: "1933–1984"
@@ -23,6 +23,7 @@ tags:
   - theme/organizational-culture
   - region/us
 related_concepts:
+  - "[[Banality of Evil]]"
   - "[[Document]]"
   - "[[Constructive Disobedience]]"
   - "[[Deception in Research]]"
@@ -35,6 +36,7 @@ related_theories:
   - "[[Situative Perspective]]"
 related_persons:
   - "[[Solomon Asch]]"
+  - "[[Hannah Arendt]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
 related_facts:
@@ -57,7 +59,7 @@ updated: 2026-10-08
 > [!person-profile] 人物档案
 > - **身份位置** 美国社会心理学家，曾任耶鲁大学心理学助理教授、哈佛大学社会关系系助理教授、纽约市立大学研究生中心心理学特聘教授。
 > - **核心角色** 20 世纪下半叶最具颠覆性与争议性的实验心理学家，曾师从[[Solomon Asch|所罗门·阿施]]（Solomon Asch），将社会心理学从众研究推进至极端权威指令下的道德服从与情境压力机制。
-> - **代表贡献** 1961 年在耶鲁大学设计并实施经典的[[Milgram Obedience Experiment|米尔格拉姆服从实验]]，出版代表作《对权威的服从》（*Obedience to Authority*），系统阐明了代理态（Agentic State）理论与平庸之恶的微观心理动力学；同时提出著名的“六度分离”（Six Degrees of Separation）小世界网络假说。
+> - **代表贡献** 1961 年在耶鲁大学设计并实施经典的[[Milgram Obedience Experiment|米尔格拉姆服从实验]]，出版代表作《对权威的服从》（*Obedience to Authority*），系统阐明了代理态（Agentic State）理论与[[Banality of Evil|平庸之恶]]的微观心理动力学；同时提出著名的“六度分离”（Six Degrees of Separation）小世界网络假说。
 
 > [!citation-card] 米尔格拉姆论服从者的茶会礼貌与道德脱敏
 > 他以为自己正在杀死一个人，但他却使用的是茶会上的言辞。彬彬有礼与顺从的基调被一丝不苟地保持着。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 134–135)]]
@@ -127,7 +129,7 @@ updated: 2026-10-08
 > > 争论个体的残忍或服从行为究竟主要由不可抗拒的外在情境力量所塑造，还是个体自由意志的道德抉择。
 > >
 > > - **[[Situative Perspective|情境主义]]立场（Milgram / Zimbardo）** 强调强大的权威情境与社会系统力量能够轻易压倒普通人的良知，使善良平民沦为暴力执行者。
-> > - **能动性与反抗哲学（Hannah Arendt / Karp & Zamiska）** 强调即便在最极端的权威威压下，依然存在坚决拒绝的抗命者；现代民主社会与创新组织必须通过制度设计培育抵御盲从的微观抗体。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 135–136)]]
+> > - **能动性与反抗哲学（[[Hannah Arendt]] / Karp & Zamiska）** 强调即便在最极端的权威威压下，依然存在坚决拒绝的抗命者；现代民主社会与创新组织必须通过制度设计培育抵御盲从的微观抗体。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 135–136)]]
 
 ---
 
@@ -135,7 +137,7 @@ updated: 2026-10-08
 
 > [!actor-grid] 学术传承与跨领域关联网络
 > - **导师与合作先驱** [[Solomon Asch|所罗门·阿施]]（[[Solomon Asch]]）——从阿施的视觉线段从众实验承继了同谋欺骗[[Paradigm|范式]]，并将其扩展至权威服从领域。
-> - **哲学共鸣** 汉娜·阿伦特（Hannah Arendt）——关于艾希曼审判与“平庸之恶”（The Banality of Evil）的历史哲学论断，与米尔格拉姆的实验实证形成了震撼互证。
+> - **哲学共鸣** [[Hannah Arendt|汉娜·阿伦特]]（Hannah Arendt）——关于艾希曼审判与“[[Banality of Evil|平庸之恶]]”（The Banality of Evil）的历史哲学论断，与米尔格拉姆的实验实证形成了震撼互证。
 > - **现代科技组织治理转化** [[Alexander Karp|亚历山大·卡普]]（Alexander Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas Zamiska）——在《[[Technological Republic|技术共和国]]》中将米尔格拉姆的发现作为反思企业文化病理的镜像，警示高科技组织必须破除管理者对顺从者的自恋偏好，制度化保护敢于践行[[Constructive Disobedience|建设性不服从]]的独立工程师。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132–137)]]
 
 ---

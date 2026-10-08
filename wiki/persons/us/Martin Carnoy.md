@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-28
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
 # Martin Carnoy
@@ -141,8 +141,7 @@ updated: 2026-10-05
 > - **政策路径** 持续抗辩[[World Bank|世界银行]]等跨国金融机构推行的去监管化、教育券与学校私有化政策，成为全球南方国家学者抵御新自由主义教育紧缩处方的重要思想旗帜。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯系统评析卡诺伊由芝加哥学派经济学家转向修正主义新马克思主义教育政治经济学家的心智历程，确立其国家中心观与学校矛盾博弈论在第四代比较教育范式中的奠基地位。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯评述卡诺伊关于任何教育政策分析必然暗含特定国家理论的前提性支配命题。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯系统评析卡诺伊由芝加哥学派经济学家转向修正主义新马克思主义教育政治经济学家的心智历程，确立其国家中心观与学校矛盾博弈论在第四代比较教育范式中的奠基地位。 [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯评述卡诺伊关于任何教育政策分析必然暗含特定国家理论的前提性支配命题。
 
 ---
 

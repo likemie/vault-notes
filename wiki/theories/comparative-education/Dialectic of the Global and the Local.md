@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Dialectic of the Global and the Local
@@ -217,7 +217,6 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 权威理论专章，系统确立贯通宏观世界体系与微观课堂[[Ethnography|民族志]]的双重视野，提出教育改革发起方位与目标取向二维矩阵。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 运用全球与本土辩证法解构拉美[[Conditioned State Theory|受限国家]]在跨国依附下的阶级[[Dual School System|双轨学制]]与教育[[Legitimation Crisis|合法化危机]]。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 权威理论专章，系统确立贯通宏观世界体系与微观课堂[[Ethnography|民族志]]的双重视野，提出教育改革发起方位与目标取向二维矩阵。 [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 运用全球与本土辩证法解构拉美[[Conditioned State Theory|受限国家]]在跨国依附下的阶级[[Dual School System|双轨学制]]与教育[[Legitimation Crisis|合法化危机]]。
 
 ---

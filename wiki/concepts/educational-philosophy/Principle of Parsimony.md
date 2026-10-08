@@ -47,7 +47,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-17
+updated: 2026-10-08
 ---
 
 # Principle of Parsimony
@@ -189,8 +189,7 @@ updated: 2026-09-17
 ## 实证数据
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 16)]] — 系统界定科学探究中的简约原则、奥卡姆剃刀内涵、爱因斯坦底线以及 Kerlinger 假说经济性准则。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 在跨章节论述中探讨统计模型选择、因子分析公因子提取准则以及[[Hypothesis\|假设]]精简与质性[[Rich and Thick Description\|深描]]的方法论权衡。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 16)]] — 系统界定科学探究中的简约原则、奥卡姆剃刀内涵、爱因斯坦底线以及 Kerlinger 假说经济性准则。 [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 在跨章节论述中探讨统计模型选择、因子分析公因子提取准则以及[[Hypothesis\|假设]]精简与质性[[Rich and Thick Description\|深描]]的方法论权衡。
 
 ---
 

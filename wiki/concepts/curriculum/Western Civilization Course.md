@@ -9,7 +9,7 @@ aliases:
 summary: "20世纪美国高等教育中作为核心通识仪式的西方文明经典课程体系，旨在建构共同公民身份与公民宗教，后在多元解构批判中被广泛废除"
 type: concept
 domain: "curriculum"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,6 +31,7 @@ related_instruments: []
 related_persons:
   - "[[Plato]]"
   - "[[Jean-Jacques Rousseau]]"
+  - "[[Hannah Arendt]]"
   - "[[Fredric L. Cheyette]]"
   - "[[William H. McNeill]]"
   - "[[Kwame Anthony Appiah]]"
@@ -51,7 +52,7 @@ updated: 2026-10-08
 ## 定义
 
 > [!def] 核心定义
-> **西方文明通识课程（Western Civilization Course，通常简称为 Western Civ）**指20世纪在美国高等教育中广泛设立、作为本科生必修通识核心仪式的历史与经典阅读课程体系。该课程通过系统讲授从古希腊罗马、欧洲民族国家形成到美国宪政共和国演进的思想文本与历史脉络（如[[Plato|柏拉图]]、[[Jean-Jacques Rousseau|卢梭]]、马克思、阿伦特等），旨在日益多元异质的现代移民社会中，为受教育阶层构筑维系国家认同与理性共同体认同的[[Civic Religion|公民宗教]]精神纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 83–85)]]
+> **西方文明通识课程（Western Civilization Course，通常简称为 Western Civ）**指20世纪在美国高等教育中广泛设立、作为本科生必修通识核心仪式的历史与经典阅读课程体系。该课程通过系统讲授从古希腊罗马、欧洲民族国家形成到美国宪政共和国演进的思想文本与历史脉络（如[[Plato|柏拉图]]、[[Jean-Jacques Rousseau|卢梭]]、马克思、[[Hannah Arendt|阿伦特]]等），旨在日益多元异质的现代移民社会中，为受教育阶层构筑维系国家认同与理性共同体认同的[[Civic Religion|公民宗教]]精神纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 83–85)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种将高度分散的历史经验整合为连续性文明大叙事的课程设置模式与公民认同培育机制。

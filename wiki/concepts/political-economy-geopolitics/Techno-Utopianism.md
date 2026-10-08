@@ -7,7 +7,7 @@ aliases:
 summary: "一种认为前沿科学与数字技术能够自发超越政治冲突、社会层级并解决人类一切生存与治理难题的意识形态信念。在硅谷演进中，它从早期反主流文化的去中心化赋权理想，逐渐异化为回避国家安全责任、退缩至狭隘功利主义与快消消费算法的市场神话。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,15 +31,17 @@ related_theories: []
 related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Stewart Brand]]"
+related_facts:
+  - "[[Whole Earth Catalog]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Techno-Utopianism
@@ -133,7 +135,7 @@ updated: 2026-10-07
 ## 概念演变
 
 > [!dev-timeline] 硅谷技术意识形态的演变轨迹
-> - **1960s–1970s — 反主流文化赋权期** 斯图尔特·布兰德（Stewart Brand）《全球概览》倡导个人通过工具实现自主与解放，技术被赋予反抗官僚体制的乌托邦色彩。
+> - **1960s–1970s — 反主流文化赋权期** [[Stewart Brand|斯图尔特·布兰德]]（Stewart Brand）《[[Whole Earth Catalog|全球概览]]》倡导个人通过工具实现自主与解放，技术被赋予反抗官僚体制的乌托邦色彩。
 > - **1990s — 网络自由主义黄金期** 约翰·佩里·巴洛（John Perry Barlow）发表《赛博空间独立宣言》，技术乌托邦主义主张互联网应完全脱离民族国家主权与法律管辖。
 > - **2000s–2010s — 消费主义与平台垄断期** 科技巨头凭借广告算法与社交平台实现资本极度膨胀，乌托邦[[Discourse|话语]]演变为粉饰商业垄断的公关修辞。
 > - **2020s–至今 — 地缘现实冲击与[[Paradigm|范式]]危机** 人工智能崛起与大国地缘博弈彻底击碎去国家化神话，技术乌托邦主义面临严峻合法性危机，转向[[Technological Republic|技术共和国]]的重构呼声日益高涨。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 10–15)]]
@@ -159,8 +161,7 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025, Ch01)]] — 系统剖析技术乌托邦主义在硅谷的兴起与蜕变，论证其如何导致[[Intellectual Capital|智力资本]]向消费软件错配并造成公共部门[[Innovation Desert|创新荒漠]]。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025, Overview)]] — 全书总览页，展示从批判虚无主义技术乌托邦走向重塑[[Technological Republic|技术共和国]]的完整架构。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025, Ch01)]] — 系统剖析技术乌托邦主义在硅谷的兴起与蜕变，论证其如何导致[[Intellectual Capital|智力资本]]向消费软件错配并造成公共部门[[Innovation Desert|创新荒漠]]。 [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025, Overview)]] — 全书总览页，展示从批判虚无主义技术乌托邦走向重塑[[Technological Republic|技术共和国]]的完整架构。
 
 ---
 

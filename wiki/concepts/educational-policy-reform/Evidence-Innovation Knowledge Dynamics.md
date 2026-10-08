@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-22
+updated: 2026-10-08
 ---
 
 # Evidence-Innovation Knowledge Dynamics
@@ -173,6 +173,5 @@ updated: 2026-09-22
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Torres_2022_KMModels\|Torres (2022)]] — 评析 Révai 的证据-创新知识动力学模型，确立其在打破动员与创新割裂上的理论基石地位。
-> - [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 在 [[OECD]] 导言中系统阐述教师网络与专业生态系统对教育创新的支撑机制。
+> - [[Argument_Torres_2022_KMModels\|Torres (2022)]] — 评析 Révai 的证据-创新知识动力学模型，确立其在打破动员与创新割裂上的理论基石地位。 [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 在 [[OECD]] 导言中系统阐述教师网络与专业生态系统对教育创新的支撑机制。
 > - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 探讨[[School Enquiry Cycle\|学校探究循环]]中如何将外部实证研究与校本教学创新闭环整合。
