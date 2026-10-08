@@ -41,13 +41,7 @@ related_concepts:
   - "[[Consumer Internet]]"
   - "[[Technological Republic]]"
   - "[[Attrition]]"
-  - "[[Edge Autonomy]]"
-  - "[[Constructive Disobedience]]"
-  - "[[Winner's Fallacy]]"
-  - "[[Technological Agnosticism]]"
-  - "[[Innovation Desert]]"
-related_theories:
-  - "[[Organizational Culture]]"
+related_theories: []
 related_persons:
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
@@ -247,15 +241,6 @@ updated: 2026-10-08
 > 陆军未能妥善查明……针对本次采购涉及的需求，市场上是否存在适用的商用物品……陆军在此过程中的不作为构成了随意的行政行为。（p. 153）
 >
 > *Marian Blank Horn, who in November 2016 issued a 104-page ruling, concluding that "the Army failed to properly determine…whether there are commercially available items suitable to meet the agency's needs for the procurement at issue," and that "the Army acted in an arbitrary and capricious manner" in failing to do so.*
-
----
-
-## 跨章联系与理论贡献
-
-> [!implication]- 跨章理论推进与全书论证意涵
-> - **深化第 10–12 章的工程[[Organizational Culture|组织文化]]机制** 本章将第 10 章关于[[Edge Autonomy|边缘自治]]、第 11 章关于去科层协作以及第 12 章关于[[Constructive Disobedience|建设性不服从]]的讨论，延伸至阿富汗战地反简易爆炸装置作战与采办诉讼等实际案例中，说明了重视一线实效的工程文化在打破制度障碍中的作用。
-> - **承接前两部分对技术行业脱离国家使命的分析** 通过 2011 年[[Consumer Internet|消费级互联网]]投资案例，进一步支撑了第 3 章（[[Winner's Fallacy|胜者谬误]]）、第 6 章（[[Technological Agnosticism|技术不可知论]]）与第 9 章（玩具国迷航）的核心观点，指出了科技资源过度集中于浅层消费应用的局限性。
-> - **为第四部分公共治理制度重构提供实践依据** 引入《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]》与[[Commercial Off-The-Shelf|商用现货]]采购制度，为全书第四部探讨消除公共部门[[Innovation Desert|创新荒漠]]、重塑[[Technological Republic|技术共和国]]的制度路径提供了具体的政策与法律分析基础。
 
 ---
 
