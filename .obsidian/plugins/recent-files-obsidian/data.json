@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch10.md"
     },
     {
+      "basename": "Dance Language of Bees",
+      "path": "wiki/concepts/learning-science-cognitive-science/Dance Language of Bees.md"
+    },
+    {
       "basename": "Engineering Mindset",
       "path": "wiki/concepts/political-economy-geopolitics/Engineering Mindset.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Peter Thiel",
       "path": "wiki/persons/us/Peter Thiel.md"
-    },
-    {
-      "basename": "Bonsai Army",
-      "path": "wiki/concepts/political-economy-geopolitics/Bonsai Army.md"
     }
   ],
   "omittedPaths": [],

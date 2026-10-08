@@ -13,7 +13,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ tags:
   - theme/national-security
   - theme/robotics
 related_concepts:
+  - "[[Swarm Intelligence]]"
   - "[[Hard Power]]"
   - "[[AI Agent in Education]]"
   - "[[AI Deterrence]]"
@@ -52,7 +53,7 @@ updated: 2026-10-08
 ## 项目背景与立项契机
 
 > [!claim] 核心定性
-> 野外自主微型无人机集群（Autonomous Drone Swarms in the Wild），是指以2022年浙江大学微型飞行机器人团队在野外密集非结构化竹林环境中实现自主协同飞行追踪为标志的前沿群体智能突破。该项目是国际学术界首次实现在无全球定位系统（Global Positioning System, GPS）信号与无外部动捕设施辅助下的野外复杂林地自主编队与集群避障，并在短时间内被快速纳入国家防务与城市战实战化专利布局，成为展现威权对手军民前沿技术敏捷转化与算法[[Hard Power|硬实力]]的典型案例。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 30)]]
+> 野外自主微型无人机集群（Autonomous Drone Swarms in the Wild），是指以2022年浙江大学微型飞行机器人团队在野外密集非结构化竹林环境中实现自主协同飞行追踪为标志的前沿[[Swarm Intelligence|群体智能]]突破。该项目是国际学术界首次实现在无全球定位系统（Global Positioning System, GPS）信号与无外部动捕设施辅助下的野外复杂林地自主编队与集群避障，并在短时间内被快速纳入国家防务与城市战实战化专利布局，成为展现威权对手军民前沿技术敏捷转化与算法[[Hard Power|硬实力]]的典型案例。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 30)]]
 
 > [!program-context] 研发与转化背景
 > - **时间跨度 / 空间地理** 2022年5月（成果发表）至2023年10月（军事转化情报评估）；中国浙江杭州（浙江大学控制科学与工程学院）及野外竹林试验场。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 30)]]
@@ -97,7 +98,7 @@ updated: 2026-10-08
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Research Translation]] | 概念 | 实践案例，呈现高校前沿算法成果在短时间内向国防武器装备迅速转化的实证路径。 |
-> | [[Hard Power]] | 概念 | 核心载体，体现21世纪基于微型化硬件与群体智能软件的新型战术硬实力。 |
+> | [[Hard Power]] | 概念 | 核心载体，体现21世纪基于微型化硬件与[[Swarm Intelligence\|群体智能]]软件的新型战术硬实力。 |
 > | [[Strategic Bargaining Theory]] | 理论 | 理论支撑，说明无人蜂群突防与饱和打击能力如何构成大国博弈中的实质伤害筹码。 |
 > | [[Winner's Fallacy]] | 概念 | 现实警示，以对手在自主武器算法上的突进步伐破除西方社会的和平自满与单边道德空谈。 |
 > | [[Technological Republic]] | 概念 | 战略对照，印证现代技术共和国必须具备敏捷打通前沿科研与国家防务的动员能力。 |
