@@ -5,7 +5,7 @@ aliases:
 summary: "以法兰克福学派与哈贝马斯认识兴趣论为基础的规范性社会理论，主张知识与政策均具利益构成性，致力于通过意识形态批判揭示支配结构，推动实践解放与实质民主"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 45
+theory_related_count: 46
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -54,6 +54,7 @@ related_persons:
   - "[[Jürgen Habermas]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Immanuel Kant]]"
+  - "[[Sigmund Freud]]"
   - "[[Stephen Kemmis]]"
 related_facts:
   - "[[Reading Excellence Act]]"
@@ -96,7 +97,7 @@ updated: 2026-10-08
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 马克斯·霍克海默（Max Horkheimer）于 1937 年发表奠基性论文《传统理论与批判理论》（*Traditional and Critical Theory*），首次系统界定批判理论对实证科学[[Positivism|实证主义]]态度的决裂；[[Jürgen Habermas|哈贝马斯]]于 1968/1972 年出版《认识与兴趣》（*Knowledge and Human Interests*），提出三种知识构成性兴趣，将批判理论确立为系统的[[Epistemology|认识论]]框架。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 25–27)]]
 > - **原初问题** 面对资本主义垄断工业、集权主义灾难以及实证科学在社会工程中的技术化滥用，传统实证理论将社会现实物化为既定因果规律，使人类沦为[[Technical Rationality|技术理性]]操纵的被动客体。法兰克福学派学者试图探寻人类理性为何在高度发达的工业文明中倒退为控制工具，并寻找通向理性自决与解放的可能。
-> - **理论资源与材料** 批判性统整了[[Georg Wilhelm Friedrich Hegel|黑格尔]]的辩证法、马克思的商品拜物教与[[Ideology Critique|意识形态批判]]、[[Immanuel Kant|康德]]的批判哲学以及弗洛伊德的精神分析学说；哈贝马斯进一步吸收[[Linguistic Turn|语言学转向]]成果与[[Pragmatic Paradigm|实用主义]]沟通理论，将意识形态批判推进至交往行为理论。
+> - **理论资源与材料** 批判性统整了[[Georg Wilhelm Friedrich Hegel|黑格尔]]的辩证法、马克思的商品拜物教与[[Ideology Critique|意识形态批判]]、[[Immanuel Kant|康德]]的批判哲学以及[[Sigmund Freud|弗洛伊德]]的精神分析学说；哈贝马斯进一步吸收[[Linguistic Turn|语言学转向]]成果与[[Pragmatic Paradigm|实用主义]]沟通理论，将意识形态批判推进至交往行为理论。
 > - **形成路径** 从解构传统理论的“客观观察者”神话切入，揭示所有理论认识背后都存在前理论的社会生活兴趣；通过反思实证主义科学对预测控制的垄断，提炼出人类旨在摆脱支配、追求自律的解放性兴趣，进而将哲学转变为面向实践的社会自我批判事业。
 
 ### 理论源流与演变

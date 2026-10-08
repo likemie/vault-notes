@@ -24,34 +24,34 @@ tags:
   - theme/engineering-mindset
 related_concepts:
   - "[[Epistemology]]"
+  - "[[Engineering Mindset]]"
   - "[[Positivism]]"
-  - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Theory of Knowledge]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Construct]]"
   - "[[Typification]]"
+  - "[[Hypothesis]]"
   - "[[Document]]"
   - "[[Reflexivity]]"
   - "[[Operationalization]]"
   - "[[Paradigm]]"
-  - "[[Engineering Mindset]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
+  - "[[Five Whys]]"
   - "[[Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Ethnography]]"
   - "[[Qualitative Interview]]"
   - "[[Case Study]]"
   - "[[Correlational Research]]"
-  - "[[Five Whys]]"
 related_instruments: []
 related_persons:
   - "[[Edmund Husserl]]"
-  - "[[René Descartes]]"
-  - "[[Lucian Freud]]"
   - "[[Sigmund Freud]]"
+  - "[[Lucian Freud]]"
+  - "[[René Descartes]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
 related_facts:

@@ -7,7 +7,7 @@ aliases:
 summary: "指受过高等教育的统治精英与世俗化制度将宗教与超验信仰贬低为前工业时代的狂热与非理性冲动，从而系统性压制严肃信念在公共生活中表达的文化机制。"
 type: concept
 domain: "sociology-of-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -24,6 +24,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Stephen L. Carter]]"
+  - "[[Sigmund Freud]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"
@@ -58,7 +59,7 @@ updated: 2026-10-08
 ## 核心要素
 
 > [!feature] 核心要素
-> - **病理化心理还原论（Pathologizing Reductionism）** 承袭弗洛伊德（Sigmund Freud, 1907）将信仰还原为本能压抑与强迫性冲动的传统，将一切非功利性奉献解释为心理缺陷。
+> - **病理化心理还原论（Pathologizing Reductionism）** 承袭[[Sigmund Freud|弗洛伊德]]（Sigmund Freud, 1907）将信仰还原为本能压抑与强迫性冲动的传统，将一切非功利性奉献解释为心理缺陷。
 > - **世俗化过激矫正（Secular Overcorrection）** 战后美国为了促进社会包容而系统性消除公共生活中的宗教影响，其意想不到的后果是彻底消除了任何崇高规范性价值与国家信念的存在空间。
 > - **薄弱世俗教条的伪装（Thin Secular Ideology）** 精英阶层鄙视大众对宗教与传统的依附，自身却紧抱一套薄弱、肤浅且未经反思的世俗教条并误以为是独立思考。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 72–73)]]
 
