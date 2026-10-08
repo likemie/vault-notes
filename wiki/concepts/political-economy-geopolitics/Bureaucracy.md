@@ -147,7 +147,7 @@ updated: 2026-10-08
 > [!dev-timeline] 概念演变
 > - **1920s — 韦伯理想型科层制确立** 韦伯在《经济与社会》中将科层制界定为人类历史上最理性的行政组织形态。
 > - **1960s — 公共选择学派的官僚寻租批判** [[Robert J. Gordon|戈登]]·图洛克等学者提出[[Tullock's Bureaucracy Theory|官僚制理论]]，揭示官僚追求预算最大化、信息垄断与规避风险的自利行为。
-> - **2025 — [[Technological Republic|技术共和国]]工程治理对防卫型科层制的系统解构** 卡普与扎米斯卡在《技术共和国》中尖锐剖析科层制副总裁层级与例会周报对国家[[Hard Power|硬实力]]的侵蚀，确立[[Engineering Mindset|工程思维]]为重构公共部门的核心替代[[Paradigm|范式]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 121)]]
+> - **2025 — [[Technological Republic|技术共和国]]工程治理对防卫型科层制的系统解构** 卡普与扎米斯卡在《技术共和国》中尖锐剖析科层制副总裁层级、资历地位固化（如 1960 年代飞歌家具规章）以及[[Meeting-Industrial Complex|会议工业复合体]]对国家[[Hard Power|硬实力]]与个人创造力的严重侵蚀，确立[[Engineering Mindset|工程思维]]为重构公共部门的核心替代[[Paradigm|范式]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 121)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 124–128)]]
 
 ---
 
@@ -170,3 +170,4 @@ updated: 2026-10-08
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Karp & Zamiska (2025, Ch. 10, p. 121)]] — 专著第 10 章将传统科层制的层级副总裁架构与形式主义汇报，与自然界生物蜂群的去中心化即兴协同进行深刻对照批判。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|Karp & Zamiska (2025, Ch. 11, pp. 124–128)]] — 专著第 11 章深入剖析科层制强求地位合一的僵化弊端（飞歌公司家具规则）以及[[Meeting-Industrial Complex|会议工业复合体]]对实干工程师的心理榨取。

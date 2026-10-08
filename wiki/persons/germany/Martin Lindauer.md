@@ -55,7 +55,7 @@ updated: 2026-10-08
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1918** 出生于德国巴伐利亚南部的一个拥有 15 个子女的农户家庭，自幼在其父亲的蜂房熏陶下对蜜蜂生态产生浓厚兴趣。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 115)]]
+> - **1918** 出生于德国巴伐利亚南部的一个拥有 15 个子女的农户家庭，自幼在其父亲的蜂房熏陶下对蜜蜂生态产生浓厚兴趣。
 > - **1939–1942** 二战爆发后在德国陆军服役三年；1942 年在俄罗斯前线负伤后从军队退役并彻底投身科学研究。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 115)]]
 > - **1947–1955** 进入慕尼黑大学动物学研究所，师从卡尔·冯·弗里施开展博士后与独立研究；1951 年 6 月在慕尼黑植物园对埃克蜂群展开连续野外观测。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–117)]]
 > - **1955** 在《比较生理学杂志》（*Journal of Comparative Physiology*）发表奠基性论文《蜜蜂蜂群的寻巢行为》（*House-Hunting by Honey Bee Swarms*），系统阐明两万至三万只蜜蜂协同迁巢的无中心决策机制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 116–120)]]

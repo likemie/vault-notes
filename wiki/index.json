@@ -2888,6 +2888,18 @@
     ]
   },
   {
+    "title": "Meeting-Industrial Complex",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Meeting-Industrial Complex.md",
+    "aliases": [
+      "会议工业复合体",
+      "会议狂热",
+      "会议官僚主义",
+      "Meeting Madness",
+      "过度会议文化"
+    ]
+  },
+  {
     "title": "Neo-Taylorism",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Neo-Taylorism.md",
@@ -2931,6 +2943,47 @@
     "aliases": [
       "学校领导力",
       "学校领导"
+    ]
+  },
+  {
+    "title": "Shadow Hierarchy",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Shadow Hierarchy.md",
+    "aliases": [
+      "影子层级",
+      "隐性层级",
+      "隐性权力结构",
+      "组织模糊性",
+      "Productive Organizational Ambiguity",
+      "开放真空空间"
+    ]
+  },
+  {
+    "title": "Status Transactions",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Status Transactions.md",
+    "aliases": [
+      "地位交易",
+      "状态博弈",
+      "本质地位与扮演地位",
+      "Status You Are and Status You Play",
+      "工具性地位",
+      "Instrumental Status",
+      "Status Negotiation",
+      "地位协商"
+    ]
+  },
+  {
+    "title": "Symphony Orchestra Model",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Symphony Orchestra Model.md",
+    "aliases": [
+      "交响乐团组织模型",
+      "乐团式组织",
+      "交响乐团模型",
+      "乐团管理模式",
+      "Symphony Orchestra Organization",
+      "Orchestra Management Model"
     ]
   },
   {
@@ -9106,6 +9159,18 @@
       "组织文化转型",
       "组织文化重塑",
       "组织文化重构"
+    ]
+  },
+  {
+    "title": "Pecking Order",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Pecking Order.md",
+    "aliases": [
+      "啄序",
+      "支配等级",
+      "寒鸦啄序",
+      "Dominance Hierarchy",
+      "啄食顺序"
     ]
   },
   {
@@ -20812,6 +20877,18 @@
     ]
   },
   {
+    "title": "Konrad Lorenz",
+    "type": "person",
+    "path": "wiki/persons/austria/Konrad Lorenz.md",
+    "aliases": [
+      "康拉德·劳伦兹",
+      "康拉德·洛伦茨",
+      "Konrad Zacharias Lorenz",
+      "Lorenz, K. Z.",
+      "Lorenz, K."
+    ]
+  },
+  {
     "title": "Otto Neurath",
     "type": "person",
     "path": "wiki/persons/austria/Otto Neurath.md",
@@ -22716,6 +22793,16 @@
     ]
   },
   {
+    "title": "Keith Johnstone",
+    "type": "person",
+    "path": "wiki/persons/uk/Keith Johnstone.md",
+    "aliases": [
+      "基思·约翰斯通",
+      "Keith Peter Johnstone",
+      "Johnstone, K."
+    ]
+  },
+  {
     "title": "Keith Morrison",
     "type": "person",
     "path": "wiki/persons/uk/Keith Morrison.md",
@@ -24609,6 +24696,18 @@
       "林培瑞",
       "Link, P.",
       "Eugene Perry Link Jr."
+    ]
+  },
+  {
+    "title": "Peter Drucker",
+    "type": "person",
+    "path": "wiki/persons/us/Peter Drucker.md",
+    "aliases": [
+      "彼得·德鲁克",
+      "Peter Ferdinand Drucker",
+      "Peter F. Drucker",
+      "Drucker, P. F.",
+      "Drucker, P."
     ]
   },
   {
@@ -33290,6 +33389,11 @@
     "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch10",
     "type": "argument",
     "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch10.md"
+  },
+  {
+    "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch11",
+    "type": "argument",
+    "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch11.md"
   },
   {
     "title": "Argument_Kelly_Licona_2018_EpistemicPractices",
