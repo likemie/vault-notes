@@ -59,7 +59,7 @@
               "type": "markdown",
               "state": {
                 "file": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch17.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -272,11 +272,13 @@
   },
   "active": "9fa9dc0454e1193e",
   "lastOpenFiles": [
-    "wiki/persons/us/Benedict Anderson.md",
+    "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch16.md",
     "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch17.md",
+    "wiki/concepts/university-industry-collaboration/Competitiveness.md",
+    "wiki/theories/educational-policy-reform/Pluralism.md",
+    "wiki/persons/us/Benedict Anderson.md",
     "wiki/theories/political-economy-geopolitics/Imagined Community.md",
     "wiki/persons/singapore/Lee Kuan Yew.md",
-    "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch16.md",
     "wiki/persons/us/Richard Sennett.md",
     "wiki/persons/us/Martha Nussbaum.md",
     "wiki/persons/uk/Alasdair MacIntyre.md",
@@ -297,8 +299,6 @@
     "wiki/persons/us/James Madison.md",
     "wiki/persons/italy/Saint Benedict.md",
     "wiki/concepts/political-economy-geopolitics/Procedural Piety.md",
-    "wiki/concepts/political-economy-geopolitics/Technological Republic.md",
-    "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch01.md",
     "wiki/persons/singapore",
     "books/Karp_Zamiska_2025_Technological_Republic/figures/Figure_14-1_Accuracy_Predictions_Foxes_Hedgehogs.jpg",
     "tests/__pycache__/test_compact_related_research_entries.cpython-313.pyc",

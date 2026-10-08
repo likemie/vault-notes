@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Pluralism",
-      "path": "wiki/theories/educational-policy-reform/Pluralism.md"
-    },
-    {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch17",
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch17.md"
+    },
+    {
+      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch16",
+      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch16.md"
+    },
+    {
+      "basename": "Competitiveness",
+      "path": "wiki/concepts/university-industry-collaboration/Competitiveness.md"
+    },
+    {
+      "basename": "Pluralism",
+      "path": "wiki/theories/educational-policy-reform/Pluralism.md"
     },
     {
       "basename": "Benedict Anderson",
@@ -19,10 +27,6 @@
     {
       "basename": "Lee Kuan Yew",
       "path": "wiki/persons/singapore/Lee Kuan Yew.md"
-    },
-    {
-      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch16",
-      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch16.md"
     },
     {
       "basename": "Technological Republic",
@@ -195,10 +199,6 @@
     {
       "basename": "Hannah Arendt",
       "path": "wiki/persons/us/Hannah Arendt.md"
-    },
-    {
-      "basename": "Argument_Rømer_2018_EPT",
-      "path": "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md"
     }
   ],
   "omittedPaths": [],
