@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 32
+fact_related_count: 34
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -35,6 +35,9 @@ related_concepts:
   - "[[Status Transactions]]"
   - "[[Symphony Orchestra Model]]"
   - "[[Meeting-Industrial Complex]]"
+  - "[[Social Deafness]]"
+  - "[[Constructive Disobedience]]"
+  - "[[Screening Off]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Paradigm]]"
   - "[[AI Deterrence]]"
@@ -61,6 +64,7 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02]]"
 confidence: high
 status: active
@@ -105,6 +109,7 @@ updated: 2026-10-08
 > - **即兴演剧与[[Status Transactions|工具性地位]]观** 将[[Keith Johnstone|基思·约翰斯通]]（[[Keith Johnstone]]）的《即兴》（*Impro*）作为新员工必读书目，推行本体地位与扮演地位的解耦，将地位界定为服务于实战目标的临时、工具性手段（[[Status Transactions|Status Transactions]]）。
 > - **交响乐团直连模型** 践行德鲁克[[Symphony Orchestra Model|交响乐团模型]]，破除中间管理审批层级，实现首席执行官与一线工程师艺术家的直接信息视线连接。
 > - **坚决抵制[[Meeting-Industrial Complex|会议工业复合体]]** 严禁冗长形式主义会议与多层预备会，将员工智力资源从科层政治内耗中解放，全力聚焦于物理运行结果与代码攻关（[[Meeting-Industrial Complex|Meeting-Industrial Complex]]）。
+> - **[[Social Deafness|社交失聪]]与[[Constructive Disobedience|建设性不服从]]** 鼓励一线研发团队对上级指令进行能动性修正，并在关键演化节点主动[[Screening Off|屏蔽]]外界舆论从众压力与世俗批评，保持专注技术探索的战略定力（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|Karp & Zamiska, 2025, pp. 136–138]]）。
 
 ---
 
@@ -141,7 +146,7 @@ updated: 2026-10-08
 > >
 > > - **批评视角** 部分科技界同行与人权倡导者指责算法接入致命武器系统加剧战争自动化风险，呼吁签订限制公约或组织员工抗议（如微软员工抗议）。
 > > - **机构立场** 帕兰提尔领导层坚信无实力的和平是危险的幻想，西方若因[[Moral Dualism|道德二元论]]放弃防务算法研发，将导致极权主义对手在地缘博弈中占据支配地位，从而使全球民主政体遭受灭顶之灾（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska, 2025, Ch. 3]]）。
->
+> >
 > > [!axis] 数据隐私监视争议 vs 关键基础设施治理
 > > 公众与民权组织对大数据分析系统在边境管控、预测性警务中的隐私侵犯与偏见放大表示担忧。
 > >
@@ -161,10 +166,14 @@ updated: 2026-10-08
 > | [[Status Transactions\|地位交易]] | 概念 | 帕兰提尔[[Organizational Culture\|组织文化]]引入即兴演剧地位分流，将地位重塑为工具性手段。 |
 > | [[Shadow Hierarchy\|阴影层级]] | 概念 | 帕兰提尔内部打破显性科层，依托自发形成的阴影层级与行动空间驱动创新。 |
 > | [[Symphony Orchestra Model\|交响乐团组织模型]] | 概念 | 帕兰提尔借鉴德鲁克交响乐团模型，实现高管与工程师艺术家的扁平直连。 |
+> | [[Constructive Disobedience\|建设性不服从]] | 概念 | 帕兰提尔鼓励研发工程师打破唯命是从，根据现场反馈能动修正上级方案。 |
+> | [[Social Deafness\|社交失聪]] | 概念 | 帕兰提尔在关键演化节点主动[[Screening Off\|屏蔽]]世俗争议与从众压力，专注深耕底层技术。 |
 > | [[AI Deterrence\|人工智能威慑]] | 概念 | 帕兰提尔研发的防务 AI 平台构成了新时代软件威慑与算法均势的基石。 |
 > | [[Project Maven\|梅文项目]] | 事实 | 谷歌退出后帕兰提尔接棒核心研发，成为美军全域联合指挥的算法中枢。 |
 > | [[Alexander Karp\|亚历山大·卡普]] | 人物 | 帕兰提尔联合创始人兼首席执行官，《技术共和国》第一作者。 |
 > | [[Peter Thiel\|彼得·蒂尔]] | 人物 | 帕兰提尔联合创始人兼董事长，知名风险投资家。 |
 > | [[Nicholas Zamiska\|尼古拉斯·扎米斯卡]] | 人物 | 帕兰提尔企业事务主管，《技术共和国》合著者。 |
 > | [[Keith Johnstone\|基思·约翰斯通]] | 人物 | [[Role-playing\|即兴戏剧]]大师，其著作《即兴》被帕兰提尔列为工程师必读书目。 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11\|Karp & Zamiska (2025, Ch. 11)]] | 论证 | 详尽剖析帕兰提尔反[[Bureaucracy\|科层制]]的即兴演剧工程文化与组织自适应机制。 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11\|《技术共和国》第11章]] | 论证 | 详尽剖析帕兰提尔反[[Bureaucracy\|科层制]]的即兴演剧工程文化与组织自适应机制。 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12\|《技术共和国》第12章]] | 论证 | 论证帕兰提尔践行建设性不服从与社交失聪以抵御虚假群体共识的微观机制。 |
+

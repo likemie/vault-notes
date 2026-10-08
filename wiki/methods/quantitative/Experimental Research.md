@@ -9,7 +9,7 @@ summary: "通过操纵处理条件、比较处理组与控制组的结果差异�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 50
+method_related_count: 52
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -69,14 +69,16 @@ related_methods:
   - "[[Design-Based Research]]"
   - "[[Repeated Measures Design]]"
   - "[[Survey Research]]"
-related_persons: []
+related_persons:
+  - "[[Stanley Milgram]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12]]"
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-07-13
+updated: 2026-10-08
 ---
 
 # Experimental Research
@@ -84,7 +86,7 @@ updated: 2026-07-13
 ## 定义
 
 > [!info]
-> 实验研究（Experimental Research）是一种[[Quantitative Research\|量化研究]]设计，旨在确定某一特定处理是否影响结果。研究者通过向一组提供特定处理、对另一组不予处理，然后比较两组在结果上的得分来进行评估（Keppel, 1991）。实验设计起源于 19 世纪末至 20 世纪的生理学和心理学，主要依赖[[Postpositivism\|后实证主义]]世界观（Campbell & Stanley, 1963）。
+> 实验研究（Experimental Research）是一种[[Quantitative Research\|量化研究]]设计，旨在确定某一特定处理是否影响结果。其核心机制在于向一组提供特定处理、对另一组不予处理，并通过比较两组在结果上的得分来进行因果效应评估（Keppel, 1991）。实验设计起源于 19 世纪末至 20 世纪的生理学和心理学，主要依赖[[Postpositivism\|后实证主义]]世界观（Campbell & Stanley, 1963）。
 
 ## 研究程序
 
@@ -217,7 +219,16 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 ## 局限性
 
 > [!warning]
-> - 实验室情境的发现可能缺乏[[Ecological Validity\|生态效度]]，难以推广到自然情境。
-> - 部分教育[[Research Question\|研究问题]]不适合[[Random Assignment\|随机分配]]或处理操纵。
+> - 实验室情境的发现可能缺乏[[Ecological Validity|生态效度]]，难以推广到自然情境。
+> - 部分教育[[Research Question|研究问题]]不适合[[Random Assignment|随机分配]]或处理操纵。
 > - 伦理约束可能限制处理条件的设置。
+
+---
+
+## 使用此方法的研究
+
+> [!case] 经典实验研究案例
+> - **群体从众实验** 阿施（1951）通过操纵同谋群体给出一致性错误判断，在控制条件下测量受试者线段感知的从众行为与独立判断机制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 130–132)]]
+> - **权威服从实验** [[Stanley Milgram|米尔格拉姆]]（1961）在耶鲁大学实验室中通过逐步增加模拟电击电压与主试指令，系统检验受试者在权威施压下的服从极限与代理状态。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132–136)]]
+
 

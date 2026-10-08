@@ -9,7 +9,7 @@ aliases:
 summary: "指高中毕业生进入无须补习的高等学科学分课程或具备发展前景的高技能职业培训所需具备的综合核心素养；它颠覆了传统普通高中学术升学与职业就业的双轨二元割裂，被共同核心州立标准（CCSS）确立为十二年一贯制逆向推导与标准设计的顶层锚点。"
 type: concept
 domain: "curriculum"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,7 +39,8 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Stanley Milgram]]"
 related_facts:
   - "[[Common Core State Standards]]"
   - "[[Achieve]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-26
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
 # College and Career Readiness
@@ -177,7 +178,7 @@ updated: 2026-10-05
 > > [!axis] 理工科严谨度与统一门槛的取舍之争
 > > 争论统一的 CCR 门槛是否牺牲了培养未来顶尖理工科工程师所需的最高难度数学要求。
 > >
-> > - **顶尖数学家反对视角** 斯坦福大学数学家詹姆斯·米尔格拉姆（R. James Milgram）拒绝在 [[Common Core State Standards|CCSS]] 最终声明上签字，指出新标准在高年级未强制包含微积分预备（Pre-calculus），数学严谨度低于加州原有高标准，无法保障顶尖大学工程专业就绪。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 16)]]
+> > - **顶尖数学家反对视角** 斯坦福大学数学家詹姆斯·[[Stanley Milgram|米尔格拉姆]]（R. James Milgram）拒绝在 [[Common Core State Standards|CCSS]] 最终声明上签字，指出新标准在高年级未强制包含微积分预备（Pre-calculus），数学严谨度低于加州原有高标准，无法保障顶尖大学工程专业就绪。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 16)]]
 > > - **起草团队与倡导派辩护** 强调 CCR 界定的是面向全体学生的普适性就绪门槛，为绝大多数普通公立学校提供了扎实、聚焦与连贯的代数逻辑底座，且允许各州自主补充 15% 的高阶选修内容。
 >
 > > [!axis] 人文审美弱化与[[Pragmatic Paradigm|实用主义]]工具理性批判

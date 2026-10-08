@@ -12,7 +12,7 @@ aliases:
 summary: "指由基思·约翰斯通提出、描述人际面对面互动中微观权力与主从关系动态协商的理论概念；主张区分本质地位（固化身份）与扮演地位（情境表演），将地位视作服务于组织实效的工具性手段而非不可逾越的僵化特权。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

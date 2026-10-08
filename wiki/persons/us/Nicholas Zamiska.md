@@ -9,7 +9,7 @@ summary: "美国法律学者与企业高管，帕兰提尔科技公司企业事�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"

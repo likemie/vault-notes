@@ -8,7 +8,7 @@ aliases:
 summary: "设立于高校和研究机构内部的伦理审查委员会，依据美国联邦法规在数据收集前审查涉及人类受试者的研究方案，在临床试验中同时也是影响启动效率的关键运营节点"
 type: concept
 domain: "research-methodology"
-related_count: 22
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[APA Style]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Covert Research]]"
+  - "[[Deception in Research]]"
   - "[[Research Ethics]]"
   - "[[Research Question]]"
   - "[[Sensitive Research]]"
@@ -34,7 +35,8 @@ related_concepts:
   - "[[Advance Market Commitments]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Stanley Milgram]]"
 related_facts:
   - "[[Common Rule 2018]]"
   - "[[British Educational Research Association]]"
@@ -44,11 +46,12 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Bang_2025_ClinicalTrials]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Institutional Review Board
@@ -129,6 +132,12 @@ IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括�
 | **Social Research Association** (2003) | 四个层级的义务：对社会、对资助方和雇主、对同事、对参与者 |
 | **BERA** (2004) | 责任对象：研究专业、参与者、公众、资助机构、出版、知识产权、宿主机构 |
 | **AERA** (2000) | "不鼓励欺骗"，"仅当明确必要时使用"；需对当地情况敏感（文化、宗教、性别） |
+
+### 历史起源与审查尺度的时代演进
+
+> [!dev-timeline] 机构审查制度的建立与尺度演变
+> - **二战后至 1960 年代初 — 无 IRB 监管的“黄金时代”** 在现代 IRB 制度确立前，高校心理学系主要依赖自我监管，允许开展涉及高度[[Deception in Research|研究欺骗]]与情绪施压的实验，如阿施（1951）的从众实验与[[Stanley Milgram|米尔格拉姆]]（1961）的服从实验。这些实验在产出颠覆性社会心理学洞见的同时，因道德风险引发了对受试者保护的广泛社会反思。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 132)]]
+> - **1970s 至今 — IRB 制度化与过度审慎的张力** 现代 IRB 制度的确立极大地规范了人类受试者保护，但当代审查委员会日益审慎的合规导向（仅批准最温和形式的欺骗），也在客观上使学者回避了针对复杂人类心智的激进探索。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132, 147)]]
 
 ### 对伦理委员会的批评
 

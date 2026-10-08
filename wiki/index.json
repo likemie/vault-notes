@@ -2845,6 +2845,16 @@
     ]
   },
   {
+    "title": "Constructive Disobedience",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Constructive Disobedience.md",
+    "aliases": [
+      "建设性不服从",
+      "建设性违抗",
+      "建设性抗命"
+    ]
+  },
+  {
     "title": "Cult of Efficiency",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Cult of Efficiency.md",
@@ -2956,6 +2966,16 @@
       "组织模糊性",
       "Productive Organizational Ambiguity",
       "开放真空空间"
+    ]
+  },
+  {
+    "title": "Social Deafness",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Social Deafness.md",
+    "aliases": [
+      "社交失聪",
+      "社会性失聪",
+      "社交钝感"
     ]
   },
   {
@@ -24941,6 +24961,27 @@
     ]
   },
   {
+    "title": "Solomon Asch",
+    "type": "person",
+    "path": "wiki/persons/us/Solomon Asch.md",
+    "aliases": [
+      "所罗门·阿施",
+      "所罗门·E·阿施",
+      "Solomon E. Asch",
+      "S. E. Asch"
+    ]
+  },
+  {
+    "title": "Stanley Milgram",
+    "type": "person",
+    "path": "wiki/persons/us/Stanley Milgram.md",
+    "aliases": [
+      "斯坦利·米尔格拉姆",
+      "米尔格拉姆",
+      "S. Milgram"
+    ]
+  },
+  {
     "title": "Stephen L. Carter",
     "type": "person",
     "path": "wiki/persons/us/Stephen L. Carter.md",
@@ -30291,6 +30332,17 @@
     ]
   },
   {
+    "title": "Asch Conformity Experiment",
+    "type": "fact",
+    "path": "wiki/facts/us/Asch Conformity Experiment.md",
+    "aliases": [
+      "阿施从众实验",
+      "阿施从众研究",
+      "Asch Line Experiment",
+      "Asch Experiment"
+    ]
+  },
+  {
     "title": "Blueprints for Healthy Youth Development",
     "type": "fact",
     "path": "wiki/facts/us/Blueprints for Healthy Youth Development.md",
@@ -30555,6 +30607,18 @@
       "微软员工抗议陆军虚拟头显合同",
       "Microsoft HoloLens Defense Contract Protest",
       "Integrated Visual Augmentation System Protest"
+    ]
+  },
+  {
+    "title": "Milgram Obedience Experiment",
+    "type": "fact",
+    "path": "wiki/facts/us/Milgram Obedience Experiment.md",
+    "aliases": [
+      "米尔格拉姆服从实验",
+      "米尔格拉姆实验",
+      "耶鲁权威服从实验",
+      "Milgram Experiment",
+      "Obedience to Authority Experiment"
     ]
   },
   {
@@ -33409,6 +33473,11 @@
     "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch11",
     "type": "argument",
     "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch11.md"
+  },
+  {
+    "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch12",
+    "type": "argument",
+    "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch12.md"
   },
   {
     "title": "Argument_Kelly_Licona_2018_EpistemicPractices",

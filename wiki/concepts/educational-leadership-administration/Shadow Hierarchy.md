@@ -10,7 +10,7 @@ aliases:
 summary: "指科技初创企业与敏捷工程组织中客观存在但未被刚性明文固化的隐性权力与协调结构；与传统企业森严僵化的显性科层制不同，影子层级具备高度流动性与快速重构性，通过保留适度的组织模糊性为雄心勃勃的基层人才创造主动填补真空的开放空间。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

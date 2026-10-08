@@ -64,6 +64,7 @@ related_persons:
   - "[[Deborah Stone]]"
   - "[[William H. Schmidt]]"
   - "[[David Coleman]]"
+  - "[[Stanley Milgram]]"
 related_facts:
   - "[[Common Core State Standards]]"
   - "[[National Governors Association]]"
@@ -92,14 +93,14 @@ sources:
 part_of:
 status: draft
 created: 2026-09-24
-updated: 2026-09-26
+updated: 2026-10-08
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_McDonnell_2013_AJE"
 argument_key: "Argument_McDonnell_2013_AJE"
 argument_display_title: "Evidence use and the Common Core State Standards movement: From problem definition to policy adoption"
 argument_kind: "journal-article"
-argument_related_count: 61
+argument_related_count: 62
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -294,7 +295,7 @@ issuing_organization: ""
 >
 > > [!axis] 全国统一门槛与州最高水准的取舍
 > > 争论焦点在于：通用标准的学术要求是否达到了全美最先进州的水平，以及是否有证据表明它足以支撑大学高阶理工科学习。（p. 16）
-> > - **詹姆斯·米尔格拉姆（R. James Milgram，斯坦福大学数学家）** 拒绝在最终声明上签字，认为新标准在高年级没有包含微积分预备内容，数学严谨度低于加利福尼亚州原有标准。
+> > - **詹姆斯·[[Stanley Milgram|米尔格拉姆]]（R. James Milgram，斯坦福大学数学家）** 拒绝在最终声明上签字，认为新标准在高年级没有包含微积分预备内容，数学严谨度低于加利福尼亚州原有标准。
 > > - **桑德拉·斯托茨基（Sandra Stotsky，阿肯色大学文学学者）** 拒绝签字，批评语文标准大幅削减经典文学名著比例、过多增加非虚构实用文本，学术水准不及马萨诸塞州原有标准。
 >
 > > [!axis]- 早期儿童身心发展的适应性争议

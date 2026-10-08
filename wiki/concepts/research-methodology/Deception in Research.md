@@ -8,10 +8,10 @@ aliases:
 summary: "研究中研究者有意隐瞒真实目的、条件或误导参与者的行为，涉及不告知全部真相，在社会心理学实验和隐蔽研究中尤为常见，是研究伦理中最具争议的实践之一"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/research-ethics
   - theme/research-governance
@@ -24,16 +24,19 @@ related_theories: []
 related_methods:
   - "[[Rating Scale]]"
   - "[[Role-playing]]"
-related_persons: []
+related_persons:
+  - "[[Stanley Milgram]]"
 related_facts:
   - "[[American Educational Research Association]]"
+  - "[[Asch Conformity Experiment]]"
   - "[[Stanford Prison Experiment]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12]]"
 confidence: medium
 status: draft
 created: 2026-06-18
-updated: 2026-09-22
+updated: 2026-10-08
 ---
 
 # Deception in Research
@@ -112,6 +115,8 @@ Kelman (1967) 提出了三种处理欺骗问题的方式（[[Argument_Cohen_Mani
 ## 应用案例
 
 > [!case] 应用案例索引
-> - Milgram 服从权威实验——参与者被告知在研究学习与惩罚，实际上在测试服从性（见第26章）
-> - [[Stanford Prison Experiment]]——研究者在模拟监狱中研究人际动力学，[[Absolutist\|绝对主义立场]]认为它不应该发生（见第26章）
-> - 种族偏见研究——准确标记为"种族偏见研究"将肯定影响参与者行为，欺骗是必要的
+> - [[Asch Conformity Experiment|阿施从众实验]] — 7 名同谋受试者被伪装成普通测试者一致给出错误答案，用以检验真实受试者在群体压力下的屈从与独立判断。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 130–132)]]
+> - [[Stanley Milgram|米尔格拉姆]]服从权威实验 — 参与者被告知参与“惩罚与学习记忆效果”实验，实际上在测试对权威致命电击指令的服从程度。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132–136)]]
+> - [[Stanford Prison Experiment]] — 研究者在模拟监狱中研究人际动力学，[[Absolutist|绝对主义立场]]认为它不应该发生。
+> - 种族偏见研究 — 准确标记为"种族偏见研究"将肯定影响参与者行为，欺骗在实验设计中往往被视为获取真实数据的必要手段。
+
