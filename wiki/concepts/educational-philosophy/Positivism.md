@@ -9,7 +9,7 @@ aliases:
 summary: "一种主张真正知识唯独建立在感官经验、观察与实验基础之上的认识论立场，预设自然与社会遵循同质客观法则；在启蒙发轫期曾从属于全人道德教化与社会改良，而在20世纪演化为追求价值中立与法则概括的统治性实证范式。"
 type: concept
 domain: "educational-philosophy"
-related_count: 117
+related_count: 125
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -62,15 +62,15 @@ related_concepts:
   - "[[Historical Amnesia]]"
   - "[[Document]]"
   - "[[Critique of Evidence-Based Education]]"
+  - "[[Technological Republic]]"
   - "[[Working Hypothesis]]"
+  - "[[Grand Theory]]"
   - "[[Discourse]]"
   - "[[Big Science]]"
   - "[[Formal Epistemology]]"
   - "[[Practical Epistemology]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Engineering Mindset]]"
-  - "[[Technological Republic]]"
-  - "[[Luxury Belief]]"
+  - "[[Hard Power]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Critical Theory]]"
@@ -123,10 +123,9 @@ related_persons:
   - "[[Francis Bacon]]"
   - "[[Karl Popper]]"
   - "[[Crane Brinton]]"
-  - "[[Wolfgang Mitter]]"
-  - "[[Alexander Karp]]"
-  - "[[Nicholas Zamiska]]"
   - "[[Herbert Hoover]]"
+  - "[[Alexander Karp]]"
+  - "[[Wolfgang Mitter]]"
 related_facts:
   - "[[PISA]]"
   - "[[ESPRIT]]"
@@ -146,11 +145,11 @@ related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Eisenhart_Towne_2003_ER]]"
-  - "[[Argument_Brady_2023_EPR]]"
-  - "[[Argument_Sandoval_2005_SE]]"
-  - "[[Argument_Cowen_2009_CE]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15]]"
+  - "[[Argument_Brady_2023_EPR]]"
+  - "[[Argument_Cowen_2009_CE]]"
+  - "[[Argument_Sandoval_2005_SE]]"
 confidence: high
 status: completed
 created: 2026-06-13
@@ -382,6 +381,7 @@ updated: 2026-10-08
 > - **1990 年代 — 历史维度[[Attrition|流失]]与“[[Historical Amnesia|历史健忘症]]”诊断** 卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）考证指出，实证唯方法论主义长期霸权导致学科历史论文跌破 5%，使比较教育学陷入严重的“历史健忘症”（Historical Amnesia），切断了与制度源流的活态联系；卡扎米亚斯力倡复兴历史假说检验以重建历史与科学的综合。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 155–156)]]
 > - **2000–2003 年 — 法定实证主义（Statutory Positivism）垄断尝试与后实证审议纠偏** 美国国会通过《[[Reading Excellence Act|卓越阅读法]]》（REA）与《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）试图以成文法形式将实证主义假设检验与[[Randomised Controlled Trials|随机对照试验]]确立为国家唯一科研标准，甚至在卡斯尔草案（H.R. 4875）中试图贬低[[Qualitative Research|质性研究]]；[[National Research Council|国家研究委员会]]（NRC）发布《教育科学研究》（SRE）确立跨方法六大原则，并在国会听证中捍卫探究方法随问题而定的[[Postpositivism|后实证主义]]常态科学观，最终在《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA 2002）中扭转了法定实证主义的方法清单垄断。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 31–36)]]
 > - **21 世纪 — 跨国治理量化惯性与[[Evidence-Based Education\|循证教育]]新实证主义回潮** 在全球教育治理驱动下，实证量化模式在 [[IEA]] 测评与 [[OECD]] [[PISA]] 中展现出顽强的制度惯性；以 [[Randomised Controlled Trials\|RCT]] 黄金法则和[[Meta-analysis\|元分析]]为代表的“新实证主义”在循证教育中强势复兴，并引发学界对数据霸权与教学[[Ontology\|本体论]]抽空的深刻反思。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024)]]；[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 69)]]
+> - **2020 年代 — 狐狸型工程实证认识论对宏大教条与奢侈信念的重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中提出“极致狐狸”工程实证论，将经验探究从科层合规与宏大[[Determinism|决定论]]中解放，确立以客观物理运行与消减真实世界苦难（减少暴力、疾病与教育赤字）为唯一检验尺度的工程实证主义范式，破除脱离实战后果的奢侈信念与表演性道德主义。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Ch. 15, pp. 165–178)]]
 
 ---
 
@@ -420,6 +420,12 @@ updated: 2026-10-08
 > > 
 > > - **实证主义一元论阵营（Noah & Eckstein, 1969; Psacharopoulos, 1990）** 坚信自然科学的因果测量模型是人类唯一成熟的探究范式，主张将教育现象彻底还原为抽象变量与统计共变。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–149)]]
 > > - **历史哲学与批判反思阵营（Sadler, 1900; Holmes, 1965; [[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）** 批判单一全能方法的迷思，霍姆斯以波普尔后相对论社会科学解构绝对确定性，卡扎米亚斯借助[[Crane Brinton|布林顿]]（Crane Brinton）[[Working Hypothesis|历史探索性假说]]论证历史研究的科学严谨性，捍卫历史学与社会科学的辩证综合。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 149–152)]]
+> 
+> > [!axis] 刺猬型宏大教条 vs 狐狸型工程实证实效
+> > 争论焦点在于：应当执着于单一闭合的先验理论体系与纸面合规，还是以代码物理运行与消除现实苦难为唯一实证准绳？
+> > 
+> > - **刺猬型[[Grand Theory|宏大理论]]与道德自恋** 倾向于将复杂社会强行塞入预设教条中，在远离一线的安全距离外发表脱离治理后果的奢侈信念。
+> > - **狐狸型工程实证论（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025]]; Hoover, 1951）** 视现实为动态演化的云团，坚持工程成果面对物理世界的极端透明与责任对称，以降低凶杀率、疾病和饥饿等客观实效作为最高认识论与伦理裁判。
 
 > [!critique] 对实证主义局限的多维批评
 > - **唯方法论主义与科学一元论盲信（Toulmin, 1963; Barber, 1972; [[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）** 盲目推崇数理统计与量化回归等程序规程，狂热相信只要恪守技术操作即可脱离研究对象的历史文化特质获得绝对确定性，割裂了科学与伦理价值及人文精神的内在联系。
@@ -430,7 +436,7 @@ updated: 2026-10-08
 > - **复杂开放系统中的“变量恒常悖论”（Morrison, 2001）** [[Complexity Theory\|复杂性理论]]指出，教育世界处于动态生成之中，“保持变量恒定”在[[Ontology\|本体论]]上纯属虚妄，受控实验在人工环境中精确测量的仅仅是已死去的历史。
 > - **抹杀情境深度的去情境化偏向** 实证主义追求普适法则，往往通过统计控制强行剔除地方性文化、历史脉络与微观交往细节，导致研究成果高度贫瘠且脱离教育现场。
 > - **抹杀价值反思的技术自满** 将教育问题完全置换为“什么有效”（What Works）的工程学计算，直接剥夺了公众关于教育根本目的与社会公平正义的民主审议空间。
-> - **历史维度的系统性[[Attrition|流失]]与[[Historical Amnesia|历史健忘症]]（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）** 唯方法论实证主义对短期跨国变量的迷恋，导致历史比较研究在主流期刊急剧边缘化（论文占比跌破5%），使学科丧失了反思制度历史根由的文化记忆与深层审辨力。
+> - **历史维度的系统性[[Attrition|流失]]与[[Historical Amnesia|历史健忘症]]** 唯方法论实证主义对短期跨国变量的迷恋，导致历史比较研究在主流期刊急剧边缘化（论文占比跌破5%），使学科丧失了反思制度历史根由的文化记忆与深层审辨力（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a, pp. 155–156]]）。
 
 > [!warning] 适用局限与[[Epistemology\|认识论]]盲区
 > 实证主义无法跨越逻辑上的休谟鸿沟——绝不能从“实然数据”直接推导“应然价值”；对于教育公平、人性尊严与道德选择等涉及终极关怀的命题，实证主义方法在原则上不具备判定权力。
@@ -454,12 +460,12 @@ updated: 2026-10-08
 实证主义及其批评贯穿了教育哲学、比较教育与研究方法论的经典[[Document|文献]]。
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 113)]] — 系统复原孔德实证主义的起源、四[[Big Science|大科学]][[Hypothesis\|假设]]、Giddens 识别的方法论统一与产出同构双重预设，并综合存在主义（克尔凯郭尔）、法兰克福学派（[[Jürgen Habermas\|哈贝马斯]]）与社会学内部批评，展现当代教育研究向后实证与批判[[Paradigm\|范式]]演进的完整版图。
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 剖析比较教育学奠基人[[Marc-Antoine Jullien\|朱利安]]构建的准实证科学体系，澄清其事实分析图表与跨国[[Questionnaire\|问卷]]归属于欧陆二级[[Geisteswissenschaften|精神科学]]，揭示其经验收集始终从属于全人[[Bildung\|教化]]与社会改良，强力反驳 20 世纪行为主义实证派以[[Value Neutrality\|价值中立]]为由指责其带有主观偏见的辉格史错置。 [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 系统梳理 20 世纪 60 年代诺亚与埃克斯坦（Noah & Eckstein）、霍姆斯（Holmes）、安德森（Anderson）与埃普斯坦（Epstein）等实证主义学者对历史比较学派发起的范式围剿，揭示实证派如何从依赖私人洞察力、缺乏因果预测力、个殊事实无法抽象以及涉嫌神秘主义四个维度将历史传统贬为“前科学”，并反思实证科学对英语 *Science* 狭隘词义垄断的[[Epistemology\|认识论]]局限。 [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 剖析比较教育学两百年四重论述代际演变，揭示 20 世纪 60 年代“新科学革命”如何异化为斯蒂芬·图尔敏（Stephen Toulmin, 1963）所批评的科学一元论与[[Bernard Barber|伯纳德·巴伯]]（Bernard Barber, 1972）所批判的[[Empiricism|唯方法论主义]]（Methodologism）；阐明霍姆斯（[[Brian Holmes]]）[[Problem Approach|问题法]]作为“后相对论社会科学”对古典实证论的拒斥，结合卡诺伊（Carnoy, 1983）批判揭示实证主义作为资本主义再生产“意识形态借口”的政治本质，并实证诊断实证霸权导致历史论文暴跌跌破 5% 所诱发的严重“[[Historical Amnesia|历史健忘症]]”（Historical Amnesia）。 [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 深入剖析 20 世纪 60 年代比较教育实证[[Scientific Paradigm\|科学范式]]内部围绕“法则性质”的深刻分野（芝加哥学派的恒常规律 vs 哥大学派的[[Variable\|变量]]函数共变 vs 霍姆斯的权变社会学法则与预测划界），揭示实证主义之所以在实践中胜出，根源于其充当了战后国家五年计划与技术援助的政治[[Social Science as Legitimation Alibi\|合法化借口]]（alibi），并追踪其在现实危机、量子不确定性转向与后现代思潮冲击下向多元范式演进的终结轨迹。 [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 梳理欧洲比较教育学科范式演变，系统阐释 20 世纪 60 至 80 年代德国社会学“实证主义之争”（*[[Positivist Dispute in German Sociology|Positivismusstreit]]*）与新马克思主义思潮对实证主义量化范式的深刻反弹，揭示欧陆传统如何抵抗英美实证范式的一统天下并捍卫历史文化与社会批判维度。
-> - [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] — 揭示中小学科学教育深受教条实证主义影响，将科学探究扭曲为呆板的线性实验室规程，进而呼吁突破幼稚的[[Formal Epistemology\|形式认识论]]，转向关注学生在真实探究情境中的[[Practical Epistemology\|实践认识论]]。
-> - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] — 剖析当代[[Evidence-Based Education\|循证教育]]狂热标榜的实证主义科学[[Discourse|话语]]，揭示将教学质量简化为[[Meta-analysis\|元分析]][[Effect Size\|效应量]]与量化控制[[Variable\|变量]]，本质上是对微观教学实践关系性[[Ontology\|本体论]]的粗暴抽空。
-> - [[Argument_Cowen_2009_CE\|Cowen (2009b)]] — 回顾比较教育学科发展史，指出以美国 1960 年代科学实证派（如诺亚与埃克斯坦）为代表的实证主义霸权曾试图将跨国比较改造为脱离情境的假设检验与定律发现，最终在学科反思中被“转移-[[Transfer Translation Transformation\|转译]]-变形”的后实证视角所解构。
-> - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne (2003)]] — 系统考证 2000–2003 年美国联邦立法中“法定实证主义”（以卡斯尔草案和 [[No Child Left Behind Act 2001|NCLB]] 强制量化实验假设检验为代表）与后实证科学原则（NRC SRE 与 ESRA 2002 方法契合问题）的历史争鸣，论证学术界公共审议在反制实证主义行政垄断中的关键作用。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 113)]] — 系统复原孔德实证主义的起源、四[[Big Science|大科学]][[Hypothesis|假设]]、Giddens 识别的方法论统一与产出同构双重预设，展现当代教育研究向后实证与批判[[Paradigm|范式]]演进的完整版图。
+> - **《比较教育国际手册》专著论述** [[Argument_Cowen_2009_CE|Cowen (2009b)]] — 考证比较教育实证主义兴衰，涵盖准实证启蒙（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009]]）、范式围剿（[[Argument_Kazamias_2009_ForgottenThemes|Kazamias, 2009b]]）、政治借口（[[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009]]）及唯方法论反思（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）。
+> - [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] — 揭示中小学科学教育深受教条实证主义影响，呼吁突破[[Formal Epistemology|形式认识论]]转向[[Practical Epistemology|实践认识论]]。
+> - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] — 剖析当代[[Evidence-Based Education|循证教育]]狂热标榜的实证主义科学[[Discourse|话语]]，揭示将教学质量简化为[[Meta-analysis|元分析]][[Effect Size|效应量]]对微观教学[[Ontology|本体论]]的抽空。
+> - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne (2003)]] — 系统考证 2000–2003 年美国联邦立法中法定实证主义与后实证科学原则的历史争鸣。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025, Ch. 14–15)]] — 阐述“极致狐狸”工程实证[[Epistemology|认识论]]，以客观物理运行与解决公共物理苦难为裁判，解构刺猬型教条与奢侈信念。
 
 ---
 
@@ -475,11 +481,15 @@ updated: 2026-10-08
 > | [[Value Neutrality\|价值中立]] | 概念 | 构成实证主义[[Quantitative Research\|量化研究]]效度的核心规范，要求排除研究者主观价值与政治立场。 |
 > | [[Postpositivism\|后实证主义]] | 概念 | 对经典实证主义幼稚实在论的修正范式，引入理论负荷与概率[[Falsification\|证伪]]观念。 |
 > | [[Interpretive Paradigm\|诠释范式]] | 概念 | 作为实证主义的主要论敌，主张理解人类主观意图与情境意义建构。 |
+> | [[Engineering Mindset\|工程思维]] | 概念 | 实践重构：以客观物理运行与解决现实苦难为准绳的“极致狐狸”工程实证[[Epistemology\|认识论]]。 |
+> | [[Technological Republic\|技术共和国]] | 概念 | 宏观框架：将实证实效融入国家[[Hard Power\|硬实力]]与公共治理现代化的政治经济体制。 |
 > | [[Scientism\|科学主义]] | 概念 | 实证主义膨胀为绝对意识形态的异化产物，将经验科学奉为人类唯一的知识形式。 |
 > | [[Quantitative Research\|量化研究]] | 方法 | 实证主义范式的主要经验依托，通过统计、[[Causal Modeling\|因果建模]]与大样本测量推导规律。 |
 > | [[Randomised Controlled Trials\|随机对照试验]] | 方法 | 现代实证主义实验方法的最高代表，通过[[Random Assignment\|随机分配]]控制无关变量以证实因果干预。 |
 > | [[Scientific Paradigm\|比较教育学科学范式]] | 概念 | 实证主义在 20 世纪下半叶比较教育中的典型制度化范式形态，服务战后国家规划与政策预测。 |
 > | [[Evidence-Based Education\|证据本位教育]] | 概念 | 实证主义在当代教育政策领域的直接制度化体现，推崇中立证据指导教育实践。 |
+> | [[Herbert Hoover\|赫伯特·胡佛]] | 人物 | 早期先驱：在回忆录中系统阐明工程师作品完全暴露于公众视野、不可推诿的物理实证伦理。 |
+> | [[Alexander Karp\|亚历山大·卡普]] | 人物 | 现代倡导者：在《技术共和国》中主张以物理实效与[[Five Whys\|五问法]]多层根因复盘重塑求真认识论。 |
 > | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 梳理欧陆对实证主义的反思史，系统阐述德国“实证主义之争”与新马克思主义对比较教育实证范式的解构。 |
 > | [[Martin Carnoy\|马丁·卡诺伊]] | 人物 | 运用新马克思主义国家理论，解构实证功能主义作为资本主义再生产“意识形态借口”的政治本质。 |
 > | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 记录欧洲比较教育在 1960–1980 年代直面英美实证主义围剿与德意志“实证主义之争”的历史轨迹。 |
