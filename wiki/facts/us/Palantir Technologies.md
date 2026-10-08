@@ -46,6 +46,7 @@ related_concepts:
   - "[[AI Deterrence]]"
   - "[[Swarm Intelligence]]"
   - "[[Innovation Desert]]"
+  - "[[Epistemology]]"
   - "[[Moral Dualism]]"
   - "[[Engineering Mindset]]"
   - "[[Commercial Off-The-Shelf]]"
@@ -53,6 +54,7 @@ related_theories:
   - "[[Organizational Culture]]"
 related_methods:
   - "[[Five Whys]]"
+  - "[[Correlational Research]]"
   - "[[Role-playing]]"
 related_instruments: []
 related_persons:
@@ -150,6 +152,10 @@ updated: 2026-10-08
 > 2. **开创现代软件战争与[[AI Deterrence|算法威慑]]先河** 在乌克兰冲突与中东反恐中证明了软件算力、卫星遥感与[[Autonomous Drone Swarms|自主无人机蜂群]]融合的决定性杀伤效能，推动五角大楼将预算重心由传统重型动能硬件转向算法与软件中枢。
 > 3. **输出以艺术家聚落为核心的工程文化** 提炼出以去中心化[[Swarm Intelligence|群智能]]、即兴演剧、[[Five Whys|五问法]]免责复盘与去等级化为特征的组织管理范式，为西方公共治理部门走出[[Innovation Desert|创新荒漠]]提供了系统参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, Ch. 11, pp. 128–129)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 164–166)]]
 
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 系统阐发帕兰提尔的企业起源、阿富汗战地实战演进、法案诉讼、即兴演剧与五问法工程[[Epistemology|认识论]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Ch. 2]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Ch. 3]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Ch. 10]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|Ch. 11]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|Ch. 12]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|Ch. 13]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
+> - [[Argument_Cheng_2026_KeJiChuangXin|程楠等 (2026)]] — 梳理美国中央情报局 In-Q-Tel 战略风投机制对帕兰提尔等国防科技初创企业的早期孵化与资本支撑。
+
 ---
 
 ## 核心争议与批评
@@ -192,12 +198,8 @@ updated: 2026-10-08
 > | [[Nicholas Zamiska\|尼古拉斯·扎米斯卡]] | 人物 | 帕兰提尔企业事务主管，《技术共和国》合著者。 |
 > | [[Keith Johnstone\|基思·约翰斯通]] | 人物 | [[Role-playing\|即兴戏剧]]大师，其著作《即兴》被帕兰提尔列为工程师必读书目。 |
 > | [[Peter Drucker\|彼得·德鲁克]] | 人物 | 管理学先驱，其交响乐团组织模型被帕兰提尔用作组织扁平直连的理论蓝本。 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10\|《技术共和国》第10章]] | 论证 | 剖析帕兰提尔前沿部署工程师（FDEs）与生物[[Swarm Intelligence\|群智能]][[Edge Autonomy\|边缘自治]]的组织同构。 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11\|《技术共和国》第11章]] | 论证 | 详尽剖析帕兰提尔反[[Bureaucracy\|科层制]]的即兴演剧工程文化与组织自适应机制。 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12\|《技术共和国》第12章]] | 论证 | 论证帕兰提尔践行建设性不服从与社交失聪以抵御虚假群体共识的微观机制。 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13\|《技术共和国》第13章]] | 论证 | 剖析阿富汗战地数据合成需求、[[Federal Acquisition Streamlining Act of 1994\|FASA 1994]] 诉讼胜利与商业现货优先的工程突破。 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14\|《技术共和国》第14章]] | 论证 | 剖析帕兰提尔基于大野耐一五问法的组织根因诊断、狐狸型概率思维与如实观察哲学。 |
 > | [[Commercial Off-The-Shelf\|商用现货]] | 概念 | 帕兰提尔作为商业现货软件企业打破传统军工定制垄断的典型范式。 |
 > | [[Federal Acquisition Streamlining Act of 1994\|1994年联邦采购精简法]] | 事实 | 帕兰提尔于2016年诉美国陆军胜诉并以此赢得重大防务记录项目的法定基石。 |
 > | [[John Glenn\|约翰·格伦]] | 人物 | 参议员与航天先驱，FASA 1994 核心起草人，为帕兰提尔诉讼打破军工垄断提供法理武器。 |
+
 

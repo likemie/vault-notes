@@ -1,20 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Five Whys",
-      "path": "wiki/methods/qualitative/Five Whys.md"
-    },
-    {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch14",
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch14.md"
     },
     {
-      "basename": "Isaiah Berlin",
-      "path": "wiki/persons/uk/Isaiah Berlin.md"
+      "basename": "Palantir Technologies",
+      "path": "wiki/facts/us/Palantir Technologies.md"
     },
     {
-      "basename": "Nicholas Zamiska",
-      "path": "wiki/persons/us/Nicholas Zamiska.md"
+      "basename": "John Dewey",
+      "path": "wiki/persons/us/John Dewey.md"
     },
     {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch13",
@@ -23,6 +19,22 @@
     {
       "basename": "Alexander Karp",
       "path": "wiki/persons/us/Alexander Karp.md"
+    },
+    {
+      "basename": "Five Whys",
+      "path": "wiki/methods/qualitative/Five Whys.md"
+    },
+    {
+      "basename": "Lean Production",
+      "path": "wiki/concepts/educational-leadership-administration/Lean Production.md"
+    },
+    {
+      "basename": "Isaiah Berlin",
+      "path": "wiki/persons/uk/Isaiah Berlin.md"
+    },
+    {
+      "basename": "Nicholas Zamiska",
+      "path": "wiki/persons/us/Nicholas Zamiska.md"
     },
     {
       "basename": "Engineering Mindset",
@@ -59,10 +71,6 @@
     {
       "basename": "Consumer Internet",
       "path": "wiki/concepts/political-economy-geopolitics/Consumer Internet.md"
-    },
-    {
-      "basename": "Palantir Technologies",
-      "path": "wiki/facts/us/Palantir Technologies.md"
     },
     {
       "basename": "John Glenn",
@@ -191,14 +199,6 @@
     {
       "basename": "J. Robert Oppenheimer",
       "path": "wiki/persons/us/J. Robert Oppenheimer.md"
-    },
-    {
-      "basename": "Vannevar Bush",
-      "path": "wiki/persons/us/Vannevar Bush.md"
-    },
-    {
-      "basename": "Generative Artificial Intelligence",
-      "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
     }
   ],
   "omittedPaths": [],
