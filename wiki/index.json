@@ -8175,6 +8175,18 @@
     ]
   },
   {
+    "title": "Dunbar's Number",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Dunbar's Number.md",
+    "aliases": [
+      "邓巴数",
+      "150定律",
+      "150法则",
+      "Dunbar number",
+      "rule of 150"
+    ]
+  },
+  {
     "title": "Educational Affordances",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Educational Affordances.md",
@@ -8803,6 +8815,18 @@
       "教育科技人才一体化发展",
       "Education-Science-Technology-Talent Integration",
       "EST一体化"
+    ]
+  },
+  {
+    "title": "Everyday Plebiscite",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Everyday Plebiscite.md",
+    "aliases": [
+      "每日公民投票",
+      "每日公投",
+      "daily plebiscite",
+      "an everyday plebiscite",
+      "un plébiscite de tous les jours"
     ]
   },
   {
@@ -15912,6 +15936,18 @@
     ]
   },
   {
+    "title": "Great Man Theory",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Great Man Theory.md",
+    "aliases": [
+      "伟人理论",
+      "英雄史观",
+      "伟人史观",
+      "great man hypothesis",
+      "heroic theory of history"
+    ]
+  },
+  {
     "title": "Hedgehog and Fox Model",
     "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/Hedgehog and Fox Model.md",
@@ -21767,6 +21803,16 @@
     ]
   },
   {
+    "title": "Ernest Renan",
+    "type": "person",
+    "path": "wiki/persons/france/Ernest Renan.md",
+    "aliases": [
+      "欧内斯特·勒南",
+      "Renan, E.",
+      "Joseph Ernest Renan"
+    ]
+  },
+  {
     "title": "Frantz Fanon",
     "type": "person",
     "path": "wiki/persons/france/Frantz Fanon.md",
@@ -21996,6 +22042,15 @@
     ]
   },
   {
+    "title": "Ignatz Bubis",
+    "type": "person",
+    "path": "wiki/persons/germany/Ignatz Bubis.md",
+    "aliases": [
+      "伊格纳茨·布比斯",
+      "Bubis, I."
+    ]
+  },
+  {
     "title": "Immanuel Kant",
     "type": "person",
     "path": "wiki/persons/germany/Immanuel Kant.md",
@@ -22053,6 +22108,16 @@
     "aliases": [
       "马丁·林道尔",
       "林道尔"
+    ]
+  },
+  {
+    "title": "Martin Walser",
+    "type": "person",
+    "path": "wiki/persons/germany/Martin Walser.md",
+    "aliases": [
+      "马丁·瓦尔泽",
+      "Walser, M.",
+      "Martin Johannes Walser"
     ]
   },
   {
@@ -22503,6 +22568,15 @@
     ]
   },
   {
+    "title": "Goh Keng Swee",
+    "type": "person",
+    "path": "wiki/persons/singapore/Goh Keng Swee.md",
+    "aliases": [
+      "吴庆瑞",
+      "Goh, K. S."
+    ]
+  },
+  {
     "title": "Lee Kuan Yew",
     "type": "person",
     "path": "wiki/persons/singapore/Lee Kuan Yew.md",
@@ -22622,6 +22696,16 @@
     "aliases": [
       "Simpson, A.",
       "阿德里安·辛普森"
+    ]
+  },
+  {
+    "title": "Alasdair MacIntyre",
+    "type": "person",
+    "path": "wiki/persons/uk/Alasdair MacIntyre.md",
+    "aliases": [
+      "阿拉斯代尔·麦金太尔",
+      "MacIntyre, A.",
+      "Alasdair Chalmers MacIntyre"
     ]
   },
   {
@@ -23350,6 +23434,16 @@
     ]
   },
   {
+    "title": "Robin Dunbar",
+    "type": "person",
+    "path": "wiki/persons/uk/Robin Dunbar.md",
+    "aliases": [
+      "罗宾·邓巴",
+      "Dunbar, R. I. M.",
+      "Robin Ian MacDonald Dunbar"
+    ]
+  },
+  {
     "title": "Roger Dale",
     "type": "person",
     "path": "wiki/persons/uk/Roger Dale.md",
@@ -23462,6 +23556,15 @@
     "aliases": [
       "Wrigley, T.",
       "特里·瑞格利"
+    ]
+  },
+  {
+    "title": "Thomas Carlyle",
+    "type": "person",
+    "path": "wiki/persons/uk/Thomas Carlyle.md",
+    "aliases": [
+      "托马斯·卡莱尔",
+      "Carlyle, T."
     ]
   },
   {
@@ -23760,6 +23863,16 @@
       "阿里耶·内尔",
       "阿里耶·内伊尔",
       "Neier, A."
+    ]
+  },
+  {
+    "title": "Benedict Anderson",
+    "type": "person",
+    "path": "wiki/persons/us/Benedict Anderson.md",
+    "aliases": [
+      "本尼迪克特·安德森",
+      "Benedict Richard O'Gorman Anderson",
+      "B. Anderson"
     ]
   },
   {
@@ -24842,6 +24955,16 @@
     ]
   },
   {
+    "title": "Martha Nussbaum",
+    "type": "person",
+    "path": "wiki/persons/us/Martha Nussbaum.md",
+    "aliases": [
+      "玛莎·努斯鲍姆",
+      "Nussbaum, M. C.",
+      "Martha Craven Nussbaum"
+    ]
+  },
+  {
     "title": "Martin Carnoy",
     "type": "person",
     "path": "wiki/persons/us/Martin Carnoy.md",
@@ -25188,6 +25311,15 @@
     ]
   },
   {
+    "title": "Richard Sennett",
+    "type": "person",
+    "path": "wiki/persons/us/Richard Sennett.md",
+    "aliases": [
+      "理查德·桑内特",
+      "Sennett, R."
+    ]
+  },
+  {
     "title": "Rob Henderson",
     "type": "person",
     "path": "wiki/persons/us/Rob Henderson.md",
@@ -25206,6 +25338,16 @@
       "阿诺夫",
       "Arnove, R.",
       "Robert F. Arnove"
+    ]
+  },
+  {
+    "title": "Robert Bellah",
+    "type": "person",
+    "path": "wiki/persons/us/Robert Bellah.md",
+    "aliases": [
+      "罗伯特·贝拉",
+      "Bellah, R. N.",
+      "Robert Neelly Bellah"
     ]
   },
   {
@@ -27174,6 +27316,17 @@
       "中等教育系统转型与学术职业发展追踪",
       "Transformation des Sekundarschulsystems und akademische Karrieren",
       "Transformation of the Secondary School System and Academic Careers"
+    ]
+  },
+  {
+    "title": "Walser-Bubis Debate",
+    "type": "fact",
+    "path": "wiki/facts/germany/Walser-Bubis Debate.md",
+    "aliases": [
+      "瓦尔泽-布比斯之争",
+      "瓦尔泽与布比斯之争",
+      "Walser-Bubis-Debatte",
+      "1998 Walser-Bubis controversy"
     ]
   },
   {
@@ -29359,6 +29512,17 @@
     ]
   },
   {
+    "title": "Goh Report",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Goh Report.md",
+    "aliases": [
+      "吴庆瑞报告",
+      "1979年新加坡教育部报告",
+      "Report on the Ministry of Education Singapore",
+      "1979 Goh Report"
+    ]
+  },
+  {
     "title": "Singapore Civil Service Salary Benchmarking Policy",
     "type": "fact",
     "path": "wiki/facts/singapore/Singapore Civil Service Salary Benchmarking Policy.md",
@@ -29379,6 +29543,15 @@
       "Global Schoolhouse",
       "东方波士顿",
       "Boston of the East"
+    ]
+  },
+  {
+    "title": "Speak Mandarin Campaign",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Speak Mandarin Campaign.md",
+    "aliases": [
+      "讲华语运动",
+      "Singapore Speak Mandarin Campaign"
     ]
   },
   {
@@ -33911,6 +34084,11 @@
     "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch16",
     "type": "argument",
     "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch16.md"
+  },
+  {
+    "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch17",
+    "type": "argument",
+    "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch17.md"
   },
   {
     "title": "Argument_Kelly_Licona_2018_EpistemicPractices",

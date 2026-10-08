@@ -9,7 +9,7 @@ summary: "美国著名政治哲学家、哈佛大学讲座教授，当代社群�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -38,6 +38,7 @@ related_instruments: []
 related_persons:
   - "[[John Rawls]]"
   - "[[Socrates]]"
+  - "[[Alasdair MacIntyre]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
 related_facts:
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Michael Sandel
@@ -123,7 +124,7 @@ updated: 2026-10-08
 
 > [!person-network] 关系网络
 > - **主要论敌** [[John Rawls|约翰·罗尔斯]]（John Rawls） — 桑德尔对其《正义论》的道德中立性与先验主体观展开了终身哲学商榷。
-> - **思想对话者** 查尔斯·泰勒（Charles Taylor）与阿拉斯代尔·麦金太尔（Alasdair MacIntyre） — 共同奠定了当代西方社群主义政治哲学的理论基石。
+> - **思想对话者** 查尔斯·泰勒（Charles Taylor）与[[Alasdair MacIntyre|阿拉斯代尔·麦金太尔]]（Alasdair MacIntyre） — 共同奠定了当代西方社群主义政治哲学的理论基石。
 > - **分析与引用者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》中深度引述其理论以揭示西方政治[[Discourse|话语]]退化（Ch. 5）及科技精英向消费级轻应用逃避背后的[[Market Triumphalism|市场必胜论]]危机（Ch. 15）。
 
 ---

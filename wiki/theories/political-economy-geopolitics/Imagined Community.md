@@ -7,10 +7,10 @@ aliases:
 summary: "Anderson 提出的民族理论核心概念，主张民族是被想象的有边界和主权的政治共同体，成员虽互不相识却共享同属一个共同体的心理图像，依赖印刷资本主义与现代教育机器予以维持"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 7
-theory_related_level: 0
-theory_related_stars: ""
-theory_related_color: "#e5e7eb"
+theory_related_count: 12
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 domain: "political-economy-geopolitics"
 related_count: 6
 related_level: 0
@@ -27,17 +27,22 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Enlightenment]]"
   - "[[One Country, Two Systems]]"
-related_theories: []
+  - "[[Dunbar's Number]]"
+  - "[[Hard Power]]"
+related_theories:
+  - "[[Pluralism]]"
 related_methods:
   - "[[Correlational Research]]"
-related_persons: []
+related_persons:
+  - "[[Benedict Anderson]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Xu_2024_CE]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
 confidence: high
 status: active
 created: '2026-05-26'
-updated: 2026-09-17
+updated: 2026-10-09
 ---
 
 # Imagined Community
@@ -122,6 +127,18 @@ updated: 2026-09-17
 
 ---
 
+---
+
+### 命题三　语言与想象的链接是超越邓巴数上限、实现超大规模人类技术协作的前提
+
+> [!concept-lens] 认知上限突破与国家集体目的
+> 探讨语言与共享神话如何弥补人类大脑认知负荷的生物学局限，使数百万陌生人能够围绕公共善与战略科技展开长期协作。
+
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025)]]
+> **超越生物学社交上限的制度化纽带** 人类面对面直接社交受制于[[Dunbar's Number|邓巴数]]（约150人）；超出此规模的超大规模人类组织（从现代医学、城市到人工智能）之所以成为可能，完全依赖口头与书面语言构建的“想象链接”（imagined linkages）。当现代西方社会在后现代[[Pluralism|多元主义]]名义下掏空国家文化与共同叙事时，不仅破坏了公民之间的情感纽带，更直接削弱了维系现代高科技文明与国家安全生存所必需的集体奋斗意志。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191–194)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -129,15 +146,17 @@ updated: 2026-09-17
 > |---|---|---|---|
 > | **教科书国家叙事与民族想象** | 历史课程作为制造官方知识与塑造区域民族想象的政治工具 | 比较教育、教科书分析、一国两制认同研究 | [[Argument_Xu_2024_CE\|Xu (2024)]] |
 > | **物质与制度建构基础** | 印刷资本主义与国家学校系统对民族想象的物质与制度支撑 | 现代性转型、民族主义理论分析 | Anderson (2006); Gellner (1983) |
+> | **技术文明与大规模协同纽带** | 语言与共享叙事克服邓巴数约束、支撑国家[[Hard Power\|硬实力]]与科技共和国 | 演化人类学、国家能力建构、科技地缘政治 | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17\|Karp & Zamiska (2025)]] |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1983 年 — 现代主义建构论确立** — Benedict Anderson 出版 *Imagined Communities*，提出“被想象的政治共同体”定义，打破原生论迷思。
+> - **1983 年 — 现代主义建构论确立** — [[Benedict Anderson]] 出版 *Imagined Communities*，提出“被想象的政治共同体”定义，打破原生论迷思。
 > - **1990 年代 — 历史教育与课本研究引入** — 比较教育学者将该概念运用于解读历史教科书与课程大纲中的国家构建与[[Official Knowledge\|官方知识]]生产。
 > - **2020 年代 — [[One Country, Two Systems\|一国两制]]与中心-边缘再阐释** — [[Argument_Xu_2024_CE\|Xu (2024)]] 将其与 Brubaker 框架结合，揭示同一国家内部因政治体制与历史遗产落差导致的“一国两叙”民族想象分化。
+> - **2025 年 — 科技地缘政治与[[Hard Power|硬实力]]基础** — [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17\|Karp & Zamiska (2025)]] 将想象的共同体与[[Dunbar's Number\|邓巴数]]结合，论证国家共享认同是维系尖端技术协作与防卫硬实力的不可替代基石。
 
 ---
 
@@ -164,3 +183,4 @@ updated: 2026-09-17
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Xu_2024_CE\|Xu (2024)]] — 运用“想象的共同体”理论，实证对比了中国大陆与香港初中中国历史教科书中的领土型与族裔型民族想象。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17\|Karp & Zamiska (2025)]] — 结合认知人类学与国家治理实录，论述了想象的共同体在克服[[Dunbar's Number|邓巴数]]局限、维系大规模科技协作中的战略价值。

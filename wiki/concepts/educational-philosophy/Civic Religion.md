@@ -6,10 +6,10 @@ aliases:
 summary: "将国家历史、宪政原则与共同伦理理想升华为维系共同体凝聚力与政治认同的世俗信仰体系"
 type: concept
 domain: "educational-philosophy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/educational-philosophy
   - theme/political-philosophy
@@ -28,14 +28,16 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[William H. McNeill]]"
+  - "[[Robert Bellah]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Civic Religion
@@ -56,6 +58,11 @@ updated: 2026-10-08
 > 围绕西方传统构建的核心课程，其卓越之处在于它使美国能够从碎片化且异质的文化经历中构建出统一的国家认同——这是一种世俗的公民宗教，它在数百年间深深扎根于历史真理，同时又承载着为国家事业赋予连贯性与精神根基的崇高抱负。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 84–85)]]
 >
 > *The virtue of a core curriculum situated around the Western tradition was that it facilitated and indeed made possible the construction of a national identity in the United States from a fractured and disparate set of cultural experiences—a form of civic religion, tethered largely to truth and history across the centuries but also aspirational in its desire to provide coherence to and grounding of a national endeavor.*
+
+> [!citation-card] [[Robert Bellah|罗伯特·贝拉]]论美国的制度化公民宗教维度
+> 在教会体制之外且与教会截然不同地存在着一套精致且高度制度化的公民宗教……这种宗教——或者更准确地说，这种宗教维度——具有其自身的严肃性与完整性，并且需要像对待任何宗教一样给予同样的关怀与理解。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
+>
+> *There exists alongside of and rather clearly differentiated from the churches an elaborate and well-institutionalized civil religion in America... this religion—or perhaps better, this religious dimension—has its own seriousness and integrity and requires the same care and understanding that any religion does.*
 
 ---
 
@@ -91,4 +98,4 @@ updated: 2026-10-08
 ## 当代反思与重塑
 
 > [!critique] 走出后现代解构造成的公共精神虚无
-> 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）指出，当1960年代以降的文化解构运动彻底摧毁了以西方传统为锚点的公民宗教后，现代社会并未自然产生更高维度的公共认同，反而滑向了由市场消费、流行娱乐与纯粹[[Technical Rationality|技术理性]]主导的虚无主义。重建面向人工智能时代的[[Technological Republic|技术共和国]]，必须在克服传统殖民排他性的同时，重新赋予公民教育以实质性的文明担当与共同体信仰。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 95–96)]]
+> 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）指出，西方自由民主政体数百年间实际上深度借力了宗教传统所沉淀的道德资本；当 1960 年代以降的文化解构运动彻底摧毁了以西方传统为锚点的公民宗教后，现代社会并未自然产生更高维度的公共认同，反而滑向了由市场消费、流行娱乐与纯粹[[Technical Rationality|技术理性]]主导的虚无主义。重建面向人工智能时代的[[Technological Republic|技术共和国]]，必须在克服传统殖民排他性的同时，勇敢重构实质性的美德追求与世俗信仰，使公共领域重新成为培育崇高抱负与国家忠诚的坚固阵地。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 95–96)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]

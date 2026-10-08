@@ -8,7 +8,7 @@ summary: "美国思想家、散文家与诗人，19世纪超验主义运动领�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Thomas Carlyle]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
   - "[[John Dewey]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Ralph Waldo Emerson
@@ -72,7 +73,7 @@ updated: 2026-10-08
 > [!timeline] 生平与职涯
 > - **1803** 出生于马萨诸塞州波士顿，父亲为公理会知名牧师。
 > - **1821** 毕业于哈佛学院，后在哈佛神学院深造并受封为波士顿第二教堂牧师。
-> - **1832** 辞去牧师职务并游历欧洲，与华兹华斯、柯勒律治、托马斯·卡莱尔等欧洲思想家深入交往。
+> - **1832** 辞去牧师职务并游历欧洲，与华兹华斯、柯勒律治、[[Thomas Carlyle|托马斯·卡莱尔]]等欧洲思想家深入交往。
 > - **1836** 出版《论自然》（*Nature*），正式拉开美国超验主义运动的序幕。
 > - **1837** 发表《美国学者》（*The American Scholar*）演讲，被誉为美国的“思想独立宣言”。
 > - **1841** 出版《随笔集：第一辑》（*Essays: First Series*），收录传世名篇《论自信》（*Self-Reliance*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 158–159)]]
