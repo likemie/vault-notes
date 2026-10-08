@@ -11,7 +11,7 @@ aliases:
 summary: "行动者网络理论与后结构主义哲学的核心概念，指异质性的人类与非人类行动者（符号、文本、技术、法律与耐用客体）在动态关联中临时聚合形成的社会-物质网络。它打破结构先验论与本质主义，强调关系物质性、耐用材料的秩序化策略、转译过程与黑箱化，并在断裂与重构中展现权力的生成性。"
 type: concept
 domain: "comparative-education"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -58,6 +58,7 @@ related_persons:
   - "[[Bruno Latour]]"
   - "[[Jason Beech]]"
   - "[[Sigrid Hartong]]"
+  - "[[Isaiah Berlin]]"
 related_facts:
   - "[[Australian Education Research Organisation]]"
   - "[[Social Ventures Australia]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-07
-updated: 2026-10-02
+updated: 2026-10-08
 ---
 
 # Assemblage
@@ -180,7 +181,7 @@ updated: 2026-10-02
 > 检视技术标准、统一题库与数字[[Center of Calculation\|计算中心]]如何突破欧几里得地理空间与行政管辖边界，在微观教学与宏观治理之间建立直接的拓扑连接。
 
 > [!claim] [[Sigrid Hartong\|Hartong, S.]]
-> **拓扑折叠与[[Governing at a Distance\|远处治理]]重组** 政策装配不仅是要素的静态聚合，更是一种拓扑空间化策略。在德国联邦体制中，宪法明确规定各州享有文化主权（Kulturhoheit），禁止联邦设立全国统一学校公开排名榜或直接干预学校教学。然而，通过在柏林联合设立[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB）作为国家[[Center of Calculation\|计算中心]]，并装配经[[Item Response Theory\|项目反应理论]]（IRT）校准的国家统一题库、校际比较诊断（[[Vergleichsarbeiten\|VERA]]）与数字化自适应练习平台，[[Policy Network\|政策网络]]将原本距离遥远且层级分隔的国家与国际质量标准直接“折叠”（folding）进地方学校与班级的微观教学实践中。这种拓扑[[Data Infrastructure\|数据基础设施]]的装配，无需对宪法进行刚性修改，便实现了跨尺度的教育政策重组与[[Governing at a Distance\|远处治理]]。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 134–146)]]
+> **拓扑折叠与[[Governing at a Distance\|远处治理]]重组** 政策装配不仅是要素的静态聚合，更是一种拓扑空间化策略。在德国联邦体制中，宪法明确规定各州享有文化主权（Kulturhoheit），禁止联邦设立全国统一学校公开排名榜或直接干预学校教学。然而，通过在[[Isaiah Berlin|柏林]]联合设立[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB）作为国家[[Center of Calculation\|计算中心]]，并装配经[[Item Response Theory\|项目反应理论]]（IRT）校准的国家统一题库、校际比较诊断（[[Vergleichsarbeiten\|VERA]]）与数字化自适应练习平台，[[Policy Network\|政策网络]]将原本距离遥远且层级分隔的国家与国际质量标准直接“折叠”（folding）进地方学校与班级的微观教学实践中。这种拓扑[[Data Infrastructure\|数据基础设施]]的装配，无需对宪法进行刚性修改，便实现了跨尺度的教育政策重组与[[Governing at a Distance\|远处治理]]。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 134–146)]]
 
 ---
 

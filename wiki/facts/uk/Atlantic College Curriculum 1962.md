@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_persons:
   - "[[Alec Peterson]]"
   - "[[Kurt Hahn]]"
   - "[[Desmond Hoare]]"
+  - "[[Isaiah Berlin]]"
 related_facts:
   - "[[European Convention on the Equivalence of Diplomas Leading to Admission to Universities 1953]]"
   - "[[Founding of Atlantic College]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-09-16
+updated: 2026-10-08
 ---
 
 # Atlantic College Curriculum 1962
@@ -114,7 +115,7 @@ updated: 2026-09-16
 
 > [!evidence-grid] 首届学生升学范围
 > - **英国** 圣安德鲁斯、伯明翰、剑桥、爱丁堡、利物浦、伦敦、纽卡斯尔、萨塞克斯和约克等大学。
-> - **欧洲大陆** 雅典、柏林、海德堡、奥斯陆以及代尔夫特、恩斯赫德技术大学。
+> - **欧洲大陆** 雅典、[[Isaiah Berlin|柏林]]、海德堡、奥斯陆以及代尔夫特、恩斯赫德技术大学。
 > - **北美** 布朗、科罗拉多、达特茅斯、哈佛、麦吉尔、明德、宾夕法尼亚、普林斯顿、华盛顿和耶鲁等大学。
 > - **结果性质** 这些录取具有个别例外性质，说明一些大学愿意接受组合资格，但没有消除国家课程、语言、先修科目与录取时序问题。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, p. 13)]]
 

@@ -7,7 +7,7 @@ aliases:
 summary: "生物医药与科学研发经济学中的核心经验规律（摩尔定律 Moore Law 的反向拼写）：指尽管计算机算力、高通量筛选与基因测序技术呈指数级进步，通胀调整后每十亿美元研发投入所产生的新药获批数量却呈现每九年减半的长期指数级下降趋势；在更广阔的科学政策视阈下，该定律用于表征当代科研边际生产率普遍放缓、行政合规成本膨胀与既有研发组织范式陷入瓶颈的系统性困境。"
 type: concept
 domain: "science-policy"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Seniority Barrier in Academia]]"
   - "[[Academic Risk Aversion]]"
   - "[[Creativity]]"
+  - "[[Red Tape]]"
   - "[[Gold Standard Science]]"
   - "[[Document]]"
   - "[[Decodification]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Eroom's Law
@@ -94,7 +95,7 @@ updated: 2026-10-07
 > 剖析科研产出放缓中“客观探索难度上升”与“主观制度摩擦”的边界。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
-> **制度摩擦主导假说** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios）领衔的白宫科技战略报告论证指出，科学界常将厄鲁姆定律归咎于“容易摘的果子已被摘完”的客观难度。然而科技史表明，十九世纪末物理学与临床外科均曾被断言为大厦完工、无法突破，但随后量子革命与现代研究型医院彻底打破了停滞。当前生物医药与前沿科学的效率危机，实质上是源于 1950 年代建立的大学课题组与评审体制无法适应现代高度工程化、数据密集型科研规律的制度性错位。消除行政繁文缛节与打破资历壁垒，是逆转效率衰退的前提。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 14–16)]]
+> **制度摩擦主导假说** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios）领衔的白宫科技战略报告论证指出，科学界常将厄鲁姆定律归咎于“容易摘的果子已被摘完”的客观难度。然而科技史表明，十九世纪末物理学与临床外科均曾被断言为大厦完工、无法突破，但随后量子革命与现代研究型医院彻底打破了停滞。当前生物医药与前沿科学的效率危机，实质上是源于 1950 年代建立的大学课题组与评审体制无法适应现代高度工程化、数据密集型科研规律的制度性错位。消除行政[[Red Tape|繁文缛节]]与打破资历壁垒，是逆转效率衰退的前提。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 14–16)]]
 
 ---
 

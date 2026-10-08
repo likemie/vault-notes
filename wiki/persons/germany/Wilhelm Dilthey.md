@@ -8,7 +8,7 @@ summary: "德国历史主义哲学家与教育学家，柏林大学哲学教授�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -35,6 +35,7 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Isaiah Berlin]]"
   - "[[Wolfgang Mitter]]"
   - "[[Marc-Antoine Jullien]]"
   - "[[Auguste Comte]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-08
 ---
 
 # Wilhelm Dilthey
@@ -63,7 +64,7 @@ updated: 2026-09-29
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 德国著名哲学家、历史学家与教育理论家，柏林大学哲学讲座教授（接替洛采教席）；生命哲学（Lebensphilosophie）、现代解释学与德国[[Geisteswissenschaften|精神科学]]教育学（Geisteswissenschaftliche Pädagogik）的开山宗师。
+> - **身份位置** 德国著名哲学家、历史学家与教育理论家，[[Isaiah Berlin|柏林]]大学哲学讲座教授（接替洛采教席）；生命哲学（Lebensphilosophie）、现代解释学与德国[[Geisteswissenschaften|精神科学]]教育学（Geisteswissenschaftliche Pädagogik）的开山宗师。
 > - **核心角色** 在欧洲教育思想史与比较教育学史中，狄尔泰确立了人文社会科学独立于自然科学的[[Epistemology|认识论]]基础。[[Wolfgang Mitter|沃尔夫冈·米特]]（[[Wolfgang Mitter]]）将其与[[Marc-Antoine Jullien|马克-安托万·朱利安]]（[[Marc-Antoine Jullien]]）以及 19 世纪视学官/教育考察者并列为**欧洲比较教育学形成的三大先驱进路**之一。狄尔泰开创的历史与解释学进路，奠定了 20 世纪主导欧洲比较教育主流的“文化主义”（Culturalist）与历史学派传统。
 > - **代表贡献**
 >   - 创立**精神科学（Geisteswissenschaften）独立方法论** 提出自然科学在于“说明”（Erklären），精神科学在于“理解”（Verstehen），使历史、社会与教育研究摆脱机械自然主义与[[Positivism|实证主义]]的笼罩。
@@ -80,7 +81,7 @@ updated: 2026-09-29
 ## 生平与职涯
 
 > [!timeline] 思想生平与学术建制
-> - **1833** 出生于普鲁士拿骚公国比布里希（Biebrich），早年在海德堡大学与柏林大学攻读神学、历史学与哲学，深受兰克（Leopold von Ranke）历史学派与施莱尔马赫（Friedrich Schleiermacher）解释学熏陶。
+> - **1833** 出生于普鲁士拿骚公国比布里希（Biebrich），早年在海德堡大学与[[Isaiah Berlin|柏林]]大学攻读神学、历史学与哲学，深受兰克（Leopold von Ranke）历史学派与施莱尔马赫（Friedrich Schleiermacher）解释学熏陶。
 > - **1864** 完成关于施莱尔马赫伦理学思想的教授资格论文，开启大学教职生涯。
 > - **1867–1882** 先后执教于巴塞尔大学（1867）、基尔大学（1868）与弗罗茨瓦夫大学（布雷斯劳大学，1871），潜心探索人文社会科学的[[Epistemology|认识论]]奠基问题。
 > - **1882** 应聘前往柏林大学，接替鲁道夫·赫尔曼·洛采（Rudolf Hermann Lotze）的哲学讲座教授席位，在此任教直至逝世。

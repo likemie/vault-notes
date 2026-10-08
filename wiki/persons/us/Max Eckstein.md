@@ -9,7 +9,7 @@ summary: "美籍著名比较教育学家，纽约城市大学皇后学院教育�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 56
+person_related_count: 57
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -66,6 +66,7 @@ related_persons:
   - "[[Harold Noah]]"
   - "[[Andreas Kazamias]]"
   - "[[Robert Cowen]]"
+  - "[[Isaiah Berlin]]"
   - "[[Bernard Barber]]"
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
@@ -112,7 +113,7 @@ updated: 2026-10-08
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1926** **柏林出身与避难英国求学** 出生于德国柏林。童年时期随家庭逃离纳粹大屠杀避难英国，在伦敦接受完整的中学与高等教育，具备扎实的多语种[[Document|文献]]素养。
+> - **1926** **[[Isaiah Berlin|柏林]]出身与避难英国求学** 出生于德国柏林。童年时期随家庭逃离纳粹大屠杀避难英国，在伦敦接受完整的中学与高等教育，具备扎实的多语种[[Document|文献]]素养。
 > - **1950年代** **伦敦教育学院求学与赴美深造** 在英国伦敦大学教育学院（IOE）研修教育学，后赴美国哥伦比亚大学师范学院攻读博士学位（1964），系统研究跨国学校体系的历史演变与结构功能。
 > - **1960年代初** **结识诺亚开启三十年学术合作** 在哥伦比亚大学与诺亚相识，两人结为紧密的学术伙伴，共同致力于将现代经验社会科学量化方法引入比较教育学。
 > - **1969** **出版《走向比较教育科学》确立战后第三代际哥大学派** 与诺亚联合出版里程碑名著《走向比较教育科学》（*Toward a Science of Comparative Education*），系统确立以[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]函数共变关系为核心的实证规程，将古典历史学派判定为依赖个人洞察力的前科学阶段，在第三代际实证[[Scientism|科学主义]]运动中确立哥大学派的量化纲领。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 7)]]; [[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 53–54)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]

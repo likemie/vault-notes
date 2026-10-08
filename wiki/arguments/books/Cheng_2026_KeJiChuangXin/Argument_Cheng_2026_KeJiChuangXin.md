@@ -12,7 +12,7 @@ title: "Argument_Cheng_2026_KeJiChuangXin"
 argument_key: "Argument_Cheng_2026_KeJiChuangXin"
 argument_display_title: "科技创新和产业创新融合：中国的发展路径与对策研究报告"
 argument_kind: "book"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -55,6 +55,7 @@ related_methods:
 related_persons:
   - "[[Max Planck]]"
   - "[[Alfred Nobel]]"
+  - "[[Isaiah Berlin]]"
 related_facts:
   - "[[German Dual Education System]]"
   - "[[China S&T Innovation Policy Evolution]]"
@@ -325,7 +326,7 @@ citation_aliases:
 > 集群方面，德国是全球最早采用集群模式推动创新的国家之一。1995年启动BioRegio生物集群计划，此后陆续推出创新区域、GA网络和顶尖集群竞争计划，推动生物技术、交通运输、制造和工程、"微电子-纳米-光学"等领域的产业集聚。政府通过竞赛方式遴选高水平领先集群，确保政策资源精准投放。
 
 > [!info] 供给：多层次科研体系与四大机构
-> 研发投入长期高于欧盟平均水平，也持续领先于美国和中国，2000—2019年增长翻倍。政府持续加大科研经费，工业界也为高校和非大学研究机构提供大量资金。高等教育体系由[[Research Universities|研究型大学]]和应用技术大学构成，超过半数院校将应用创新作为主要定位，过去百年培养了104位[[Alfred Nobel|诺贝尔]]奖获得者。研究型大学强调"教学与研究相结合"，部分工业技术大学（如慕尼黑工大、柏林工大）明确定位为[[Entrepreneurial University\|创业型大学]](pp.44–45)。
+> 研发投入长期高于欧盟平均水平，也持续领先于美国和中国，2000—2019年增长翻倍。政府持续加大科研经费，工业界也为高校和非大学研究机构提供大量资金。高等教育体系由[[Research Universities|研究型大学]]和应用技术大学构成，超过半数院校将应用创新作为主要定位，过去百年培养了104位[[Alfred Nobel|诺贝尔]]奖获得者。研究型大学强调"教学与研究相结合"，部分工业技术大学（如慕尼黑工大、[[Isaiah Berlin|柏林]]工大）明确定位为[[Entrepreneurial University\|创业型大学]](pp.44–45)。
 >
 > 800余所公共研究机构中，四大机构最具代表性：[[Fraunhofer Society Model\|弗劳恩霍夫协会]]专注前沿关键技术，由76家研究所组成、3万员工，年度预算29亿欧元（其中25亿来自科研合同收入）；马克斯·普朗克创新公司年均受理130项发明报告、签订80余份许可协议、年许可收益超2000万欧元；亥姆霍兹联合会由18个国家实验室组成、4万科研人员、45亿欧元经费，通过设立专项基金会引入社会资本；莱布尼茨联合会有84个研究所、1.25万员工、14亿欧元经费（1/3来自竞争性项目、2/3来自财政拨款）。据测算，德国公共科研体系通过成果转化每年创造约1900亿欧元经济价值，相当于GDP的7.3%(pp.46–47)。
 

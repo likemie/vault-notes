@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_ForgottenThemes"
 argument_key: "Argument_Kazamias_2009_ForgottenThemes"
 argument_display_title: "Forgotten Men, Forgotten Themes: The Historical-philosophical-cultural and Liberal Humanist Motif in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 85
+argument_related_count: 86
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -110,6 +110,7 @@ related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Plato]]"
   - "[[Aristotle]]"
+  - "[[Isaiah Berlin]]"
   - "[[René Descartes]]"
   - "[[Jean-Jacques Rousseau]]"
   - "[[Johann Heinrich Pestalozzi]]"
@@ -383,7 +384,7 @@ updated: 2026-10-08
 ---
 #### 4. 乌利希编纂西方思想史四阶段演进并以古典全人教化坚守以人为中心的人文主义防线
 
-[[Robert Ulich|罗伯特·乌利希]]（Robert Ulich）早年在德国弗赖堡、柏林与莱比锡大学接受严格的史学与哲学训练，魏玛共和国时期曾出任萨克森州教育部高等教育主管官员与德累斯顿工业大学教授。1934 年希特勒上台后，44 岁的乌利希断然拒绝向纳粹法西斯政权妥协其社会民主党政治信念，毅然流亡美国，受聘于哈佛大学教育研究生院长期执教。同萨德勒、阿诺德与坎德尔一样，乌利希深沐欧洲古典人文主义知识传统。Ulich (1961) 出版代表作《国家教育：历史视角下的比较》（*The Education of Nations: A Comparison in Historical Perspective*）。卡扎米亚斯深刻评述指出，该书虽冠以比较之名，但其实质是一部宏阔深邃的西方文化与智识思想史（Cultural and intellectual history of the West），乌利希试图通过重构西方文明演进的四大文化思潮，为现代国民教育制度奠定精神史坐标。（pp.51–52）
+[[Robert Ulich|罗伯特·乌利希]]（Robert Ulich）早年在德国弗赖堡、[[Isaiah Berlin|柏林]]与莱比锡大学接受严格的史学与哲学训练，魏玛共和国时期曾出任萨克森州教育部高等教育主管官员与德累斯顿工业大学教授。1934 年希特勒上台后，44 岁的乌利希断然拒绝向纳粹法西斯政权妥协其社会民主党政治信念，毅然流亡美国，受聘于哈佛大学教育研究生院长期执教。同萨德勒、阿诺德与坎德尔一样，乌利希深沐欧洲古典人文主义知识传统。Ulich (1961) 出版代表作《国家教育：历史视角下的比较》（*The Education of Nations: A Comparison in Historical Perspective*）。卡扎米亚斯深刻评述指出，该书虽冠以比较之名，但其实质是一部宏阔深邃的西方文化与智识思想史（Cultural and intellectual history of the West），乌利希试图通过重构西方文明演进的四大文化思潮，为现代国民教育制度奠定精神史坐标。（pp.51–52）
 
 > [!phase] Ulich (1961) 在 *The Education of Nations* 中的西方文明四阶段演进脉络
 >

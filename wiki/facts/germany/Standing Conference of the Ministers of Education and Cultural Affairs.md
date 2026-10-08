@@ -12,7 +12,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -45,7 +45,8 @@ related_methods:
   - "[[Trend Study]]"
   - "[[Expert Interview]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Isaiah Berlin]]"
 related_facts:
   - "[[PISA]]"
   - "[[Institute for Educational Quality Improvement]]"
@@ -79,7 +80,7 @@ updated: 2026-10-08
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 创设于 1948 年，在二战后德国联邦制重建初期由各州自主达成协议成立，旨在防止联邦集权的同时保障国家教育文化体系的横向协同。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, p. 495)]]
-> - **总部地点 / 业务辐射** 秘书处设于波恩与柏林，业务全面统摄覆盖德国 16 个联邦州的学前教育、基础教育、职业教育与高等教育治理。
+> - **总部地点 / 业务辐射** 秘书处设于波恩与[[Isaiah Berlin|柏林]]，业务全面统摄覆盖德国 16 个联邦州的学前教育、基础教育、职业教育与高等教育治理。
 > - **法人属性与经费基础** 属于各州联合组成的官方常设行政协作机构，经费由 16 个联邦州按预算法律共同按比例分摊拨付。
 > - **核心宗旨与法定职责** 确保各州学校体制、教学标准与毕业考试具备国家层面的质量对等性与流动通行能力，制定国家教育监测体系与教育改革纲领。
 
@@ -93,7 +94,7 @@ KMK 的职能经历了从战后学制协议奠基、两德统一整合，到 [[P
 > - **1948–1990 — 联邦战后重建与跨州协议奠基** 通过多项具有里程碑意义的跨州协议（如《杜塞尔多夫协定》与《汉堡协定》），确立全国统一学制框架与文凭互认规则，在各州文化主权框架下维护联邦基础教育的制度一致性。
 > - **1990–2000 — 两德统一整合与传统规范期** 协助前东德各州顺利并轨重建分流学校体制，维持以课程大纲输入与行政规章管理为主导的传统科层规制。
 > - **2001–2002 — [[PISA]] 震荡应急响应与七大行动领域** PISA 2000 结果发布后 6 个月内，KMK 迅速制定全国协调应对方案，确立涵盖学前语言促进、学前小学有机衔接、基础读写与数理能力提升、移民背景群体靶向支持、国家教育标准集中验证、教师专业化培训及拓展全日制学校供给（Ganztagsangebote）等七大优先行动领域（Handlungsfelder）；同时做出关键制度决议，在后续 PISA 周期中将德国样本扩增至 40,000 余人，实现对 16 个联邦州的横向跨州比较。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 488, 491)]]
-> - **2004–2006 — [[Institute for Educational Quality Improvement\|IQB]] 创立与《[[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]》奠基** 2004 年 KMK 联合创立柏林洪堡大学教育质量发展研究所（IQB）作为国家[[Center of Calculation\|计算中心]]；2006 年正式审议通过《国家教育监测[[Total War|总体战]]略》，制度化确立四大实证支柱与外部[[School Inspection\|学校督导]]机制。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 484–485)]]; [[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–144)]]
+> - **2004–2006 — [[Institute for Educational Quality Improvement\|IQB]] 创立与《[[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]》奠基** 2004 年 KMK 联合创立[[Isaiah Berlin|柏林]]洪堡大学教育质量发展研究所（IQB）作为国家[[Center of Calculation\|计算中心]]；2006 年正式审议通过《国家教育监测[[Total War|总体战]]略》，制度化确立四大实证支柱与外部[[School Inspection\|学校督导]]机制。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 484–485)]]; [[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–144)]]
 > - **2012–至今 — 战略修订、跨州数据治理与拓扑[[Assemblage\|装配]]深化** KMK 分别于 2012 年和 2015 年更新总体战略，深化 IQB 国家题库建设、接管教育研究数据中心（Research Data Centre, FDZ / 德语：Forschungsdatenzentrum）与国际比较研究中心（[[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]]），并在禁止学校排名的底线共识下，依托跨尺度数据基础设施推动德国教育治理实现[[Topological Spatialisation\|拓扑空间化]]重组。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 139, 144–146)]]; [[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 7)]]
 
 ---
@@ -122,7 +123,7 @@ KMK 主导研制了一系列具有宪制性效力的国家教育标准、跨州�
 > [!finding-cards] 核心产品与业务矩阵
 > - **[[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]（2006、2012、2015 修订）** 确立四大实证支柱：(1) 定期参与国际大型评估（[[PISA]]、[[PIRLS\|国际阅读素养研究]]（Progress in International Reading Literacy Study, PIRLS）、[[TIMSS\|国际数学与科学趋势研究]]（Trends in International Mathematics and Science Study, TIMSS））；(2) 检验国家标准的全国集中抽测（[[Institute for Educational Quality Improvement\|IQB]] 联邦州比较测试，第 4、9、10 年级）；(3) 面向全域单体学校的[[Vergleichsarbeiten\|校际比较测试]]（VERA-3 与 VERA-8）；(4) 联合国家教育报告体系（Bildungsbericht für Deutschland）。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, p. 484)]]; [[Argument_Hartong_2018_GSE\|(Hartong, 2018, p. 139)]]
 > - **国家教育标准（Bildungsstandards）** 制定覆盖德语、数学、第一外语及自然科学学科的产出导向[[21st Century Skills and Competencies Discourse\|核心素养]]标准与多层级能力模型。
-> - **国家[[Center of Calculation\|计算中心]]（IQB）与科研数据中心（FDZ）** 2004 年由各州联合创立并托付柏林洪堡大学，作为 KMK 的科学专业支撑机构与国家计算中心，统筹研制国家测评题库、开展 [[Item Response Theory\|IRT]] 参数标定并向学术界开放标准化研究微观数据。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–144)]]
+> - **国家[[Center of Calculation\|计算中心]]（IQB）与科研数据中心（FDZ）** 2004 年由各州联合创立并托付[[Isaiah Berlin|柏林]]洪堡大学，作为 KMK 的科学专业支撑机构与国家计算中心，统筹研制国家测评题库、开展 [[Item Response Theory\|IRT]] 参数标定并向学术界开放标准化研究微观数据。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–144)]]
 > - **促成各州建立[[School Inspection\|外部学校督导]]体系** 推动各州普遍建立独立的外部学校督导（Schulinspektion / Schulvisitation）机构与州立教育质量研究院所，补充实地视导的过程性质量数据。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, p. 485)]]
 > - **跨州数据汇聚与单一事实来源（Single Point of Truth）规程** 建立严格的“时间冻结”（temporal freezing）机制，将 16 州异质口径的数据沉淀为权威的单一事实来源，统一对外发布国家教育统计基准。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 8, 14)]]
 
@@ -173,7 +174,7 @@ KMK 在协调全国教育改革的过程中，长期面临着决策机制迟缓�
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Gesamtstrategie zum Bildungsmonitoring]] | Fact (Policy) | KMK 于 2006 年制定并统筹推行的纲领性实证监测战略。 |
-> | [[Institute for Educational Quality Improvement]] | Fact (Organization) | KMK 创设并托付柏林洪堡大学运营的国家教育质量与测评研发中枢。 |
+> | [[Institute for Educational Quality Improvement]] | Fact (Organization) | KMK 创设并托付[[Isaiah Berlin\|柏林]]洪堡大学运营的国家教育质量与测评研发中枢。 |
 > | [[Vergleichsarbeiten]] | Fact (Program) | KMK [[Total War\|总体战]]略第三支柱：全德小学与初中校际比较测试。 |
 > | [[PISA]] | Fact (Program) | KMK 总体战略第一支柱：跨国大型学生能力评估项目。 |
 > | [[TIMSS]] | Fact (Program) | KMK 总体战略第一支柱：国际数学与科学[[Trend Study\|趋势研究]]。 |

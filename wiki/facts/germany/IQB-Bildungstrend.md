@@ -13,7 +13,7 @@ subtype: program
 region: "germany"
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ tags:
   - theme/competence-assessment
 related_concepts:
   - "[[Transfer Translation Transformation]]"
+  - "[[Cognitive Decoupling]]"
   - "[[Discourse]]"
   - "[[Center of Calculation]]"
   - "[[Total War]]"
@@ -82,7 +83,7 @@ updated: 2026-10-08
 >   - **初中阶段（9 年级）** 测评德语、英语、法语（第一外语）及数学、自然科学（生物、化学、物理），轮替周期为 2009、2015、2021/2022 年。
 >   - **小学阶段（4 年级）** 测评德语（阅读、听力、正字法）与数学，轮替周期为 2011、2016、2021 年。
 > - **心理测量学架构** 采用复杂的 Rasch 模型与多维 IRT 尺度链接技术，将历年测评数据锚定在同一能力连续体上，实现跨年份能力趋势的可比性分析。
-> - **去偶与耦合（Coupling & Decoupling）悖论** 官方在制度与[[Discourse|话语]]层面强调其独立于 [[PISA]]（由 [[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]] 协调）以适应本国文化，但在底层心理测量学参数、背景[[Questionnaire\|问卷]]架构与数据格式上与国际大型测评深度咬合，并统一汇聚于 IQB 的教育研究数据中心（FDZ）（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 143–144]]）。
+> - **去偶与耦合（Coupling & [[Cognitive Decoupling|decoupling]]）悖论** 官方在制度与[[Discourse|话语]]层面强调其独立于 [[PISA]]（由 [[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]] 协调）以适应本国文化，但在底层心理测量学参数、背景[[Questionnaire\|问卷]]架构与数据格式上与国际大型测评深度咬合，并统一汇聚于 IQB 的教育研究数据中心（FDZ）（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 143–144]]）。
 
 > [!citation-card] [[Sigrid Hartong\|哈通]]论 IQB 测评周期的自主动力学及其与 PISA 的解耦悖论
 > 国家标准测评在话语解耦的同时实现了测量架构的深度重组：

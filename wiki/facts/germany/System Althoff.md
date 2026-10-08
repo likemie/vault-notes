@@ -5,7 +5,7 @@ subtype: institution
 region: germany
 fact_region: "germany"
 fact_kind: "institution"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#e5e7eb"
@@ -27,6 +27,7 @@ related_concepts:
 related_theories:
   - "[[Three Generations of Mission-Oriented Policy]]"
 related_persons:
+  - "[[Isaiah Berlin]]"
   - "[[Alfred Nobel]]"
   - "[[Rainer Kattel]]"
   - "[[Mariana Mazzucato]]"
@@ -56,7 +57,7 @@ aliases:
 > **阿尔托夫体制（System Althoff / Althoff-System）**是指 1882 至 1907 年间由普鲁士宗教、教育与医疗事务部（即普鲁士文化部）高级官员弗里德里希·阿尔托夫（Friedrich Althoff）主导并确立的德国高等教育、基础学术与国家科研治理体制；该体制将韦伯式功绩制精英官僚的行政权力与前沿科学发展规律深度结合，通过自上而下的战略性学术人事任免、制度化设立跨学科新实验室以及打通大学与新兴化学、电气工业界的产学研协同网络，成为后发国家实施科技追赶与构建国家科研底座的制度奠基。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–793)]]
 
 > [!org-context] 历史背景与动因
-> - **运行时期与地理范畴** 1882 年至 1907 年阿尔托夫掌管普鲁士大学与科研司时期，以普鲁士王国（涵盖柏林大学、哥廷根大学、波恩大学等顶尖学府）为轴心，辐射整个德意志帝国。
+> - **运行时期与地理范畴** 1882 年至 1907 年阿尔托夫掌管普鲁士大学与科研司时期，以普鲁士王国（涵盖[[Isaiah Berlin|柏林]]大学、哥廷根大学、波恩大学等顶尖学府）为轴心，辐射整个德意志帝国。
 > - **时代背景与后发追赶动因** 19 世纪末德国统一后，面对老牌工业霸主英国的技术垄断与本国第二次工业革命（特别是合成染料、有机化学与电机制造）的爆发性需求，德意志帝国亟需突破传统洪堡大学自治传统的保守行会壁垒，动员国家力量迅速实现战略性科技超越。
 > - **核心治理哲学** 融合“国家理性”（Reason of State）与韦伯式超凡魅力官僚网络，主张国家有权为了长远公共利益主动干预与引导学术科研方向。
 

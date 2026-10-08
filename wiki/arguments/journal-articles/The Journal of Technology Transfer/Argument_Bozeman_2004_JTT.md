@@ -24,7 +24,7 @@ title: "Argument_Bozeman_2004_JTT"
 argument_key: "Argument_Bozeman_2004_JTT"
 argument_display_title: "The NSF Engineering Research Centers and the University–Industry Research Revolution: A Brief History Featuring an Interview with Erich Bloch"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Scientific Autarky]]"
   - "[[Seed Funding]]"
   - "[[Sunset Provisions]]"
+  - "[[Red Tape]]"
   - "[[Dual Appointment]]"
 related_methods:
   - "[[Expert Interview]]"
@@ -264,7 +265,7 @@ updated: 2026-10-07
 > *First, the sunset is very simple. It was put in place to make sure that centers find their feet. The second reason was to deflect from the idea of promoting bricks and mortar centers and ever-expanding centers. The idea of the sunset was at that time was that the centers should show fruit or die... A third good reason for the sunset is that the university should take over if they want the centers to continue. (Bloch, 2004, p. 374)*
 
 > [!tension] 联邦资助问责的微观管理 vs 学术界只要经费不要干预的自治诉求
-> - **大学中心主任的抱怨** 许多中心主任抱怨 NSF 存在严重的微观管理（Micromanagement），行政繁文缛节耗费了科学家过多的科研精力。
+> - **大学中心主任的抱怨** 许多中心主任抱怨 NSF 存在严重的微观管理（Micromanagement），行政[[Red Tape|繁文缛节]]耗费了科学家过多的科研精力。
 > - **布洛赫的尖锐回应** 布洛赫直言像 NSF 这样管理公共财政的机构不可能没有微观管理；大学学术界在心态上表现得极不成熟，总是幻想着把钱打给我，然后离我远点，这在面对纳税人与产业实际问责时根本无法成立。（p.373）
 
 ---

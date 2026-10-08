@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -30,6 +30,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Kingman Brewster Jr.]]"
+  - "[[Ralph Waldo Emerson]]"
 related_facts:
   - "[[2023 Congressional Hearing on Campus Antisemitism]]"
 related_arguments:
@@ -68,7 +69,7 @@ updated: 2026-10-08
 
 ## 关键文献与历史言论
 
-> [!citation-card] 爱默生论击打国王的决断
+> [!citation-card] [[Ralph Waldo Emerson|爱默生]]论击打国王的决断
 > 正如拉尔夫·沃尔多·爱默生曾言：“当你向国王发起进攻时，你必须一击毙命。”（p. 66）
 >
 > *As Ralph Waldo Emerson once said, 'When you strike at a king, you must kill him.'*

@@ -9,7 +9,7 @@ subtype: organization
 region: ireland
 fact_region: "ireland"
 fact_kind: "organization"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -31,7 +31,8 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Isaiah Berlin]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Engineering Research Centers]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Science Foundation Ireland
@@ -54,7 +55,7 @@ updated: 2026-10-07
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2000 年依托爱尔兰《国家发展规划 2000–2006》（National Development Plan 2000–2006）正式设立，2003 年通过《工业发展（爱尔兰科学基金会）法》（*Industrial Development (Science Foundation Ireland) Act 2003*）正式确立独立法定地位。
-> - **总部地点 / 业务辐射** 总部设于爱尔兰首都都柏林，业务辐射爱尔兰全境主要公立大学、技术大学及跨国高科技产业集群。
+> - **总部地点 / 业务辐射** 总部设于爱尔兰首都都[[Isaiah Berlin|柏林]]，业务辐射爱尔兰全境主要公立大学、技术大学及跨国高科技产业集群。
 > - **法人属性与经费基础** 国家法定公立资助机构，由爱尔兰中央财政全额设立并拨付专项创新预算。
 > - **核心宗旨与法定职责** 遴选并资助在生物医药、生物技术、信息通信技术（ICT）、能源材料及先进制造等战略领域的卓越科研项目与跨学科中心。
 

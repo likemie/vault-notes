@@ -10,7 +10,7 @@ subtype: organization
 region: ireland
 fact_region: "ireland"
 fact_kind: "organization"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dcfce7"
@@ -26,7 +26,8 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Isaiah Berlin]]"
 related_facts:
   - "[[Hunt Report]]"
   - "[[Irish Survey of Student Engagement]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-09-17
+updated: 2026-10-08
 ---
 
 # Higher Education Authority
@@ -47,7 +48,7 @@ updated: 2026-09-17
 > [!event-context] 机构创立与法律地位
 > - **成立时间 / 法律依据** 依据爱尔兰《1971年高等教育局法案》正式设立，并受《2022年高等教育局法案》进一步强化治理权能。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 11)]]
 > - **机构性质** 爱尔兰继续与高等教育、研究、创新与科学部下属的法定公共主管机构。
-> - **总部地点** 爱尔兰都柏林（Dublin, Ireland）。
+> - **总部地点** 爱尔兰都[[Isaiah Berlin|柏林]]（Dublin, Ireland）。
 > - **核心使命** 领导爱尔兰高等教育系统的战略发展，分配公共财政预算，维护院校办学质量、治理透明度与社会问责。
 
 ---

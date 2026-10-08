@@ -9,7 +9,7 @@ summary: "普鲁士枢密顾问官与教育改革家，主持起草1819年综合
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -38,6 +38,7 @@ related_instruments: []
 related_persons:
   - "[[Victor Cousin]]"
   - "[[Immanuel Kant]]"
+  - "[[Isaiah Berlin]]"
   - "[[François Guizot]]"
   - "[[Horace Mann]]"
   - "[[Calvin Stowe]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-22
+updated: 2026-10-08
 ---
 
 # Johann Wilhelm Süvern
@@ -79,7 +80,7 @@ updated: 2026-09-22
 > - **1775** 出生于东普鲁士；早年在柯尼斯堡大学学习，深受[[Immanuel Kant\|康德]]先验哲学与古希腊人文主义学术熏陶。
 > - **1809–1810** 普鲁士因耶拿之战遭遇军事惨败后启动施泰因-哈登贝格现代化改革；聚芬加入普鲁士内政部宗教与公教司，与威廉·冯·洪堡紧密共事，负责起草中等学校与国民学校改革规程。
 > - **1817–1819** 普鲁士新设独立的宗教、教育与医疗事务部（由阿尔滕施泰因男爵领导）；聚芬升任枢密顾问官兼学校司司长，历时两年全面起草《1819 年普鲁士综合教育法草案》，构建统摄全境的大一统公共教育法典。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 26–27)]]
-> - **1820–1829** 随着《卡尔斯巴德决议》出台与神圣同盟保守倒退风潮兴起，聚芬草案因主张世俗国家主权、限制教会特权而遭到保守封建贵族与教会强力阻挠，最终未能在全境正式颁行成法；但其草案条款被各省行政指令逐项采纳落实。1829 年逝世于柏林。
+> - **1820–1829** 随着《卡尔斯巴德决议》出台与神圣同盟保守倒退风潮兴起，聚芬草案因主张世俗国家主权、限制教会特权而遭到保守封建贵族与教会强力阻挠，最终未能在全境正式颁行成法；但其草案条款被各省行政指令逐项采纳落实。1829 年逝世于[[Isaiah Berlin|柏林]]。
 
 ---
 

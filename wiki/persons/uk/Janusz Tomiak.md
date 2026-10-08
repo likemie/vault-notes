@@ -9,10 +9,10 @@ summary: "波兰裔英国比较教育学家，伦敦大学教育研究院（IOE�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1928"
 died: "2003"
 lifespan: "1928–2003"
@@ -39,6 +39,7 @@ related_persons:
   - "[[Edmund King]]"
   - "[[Oskar Anweiler]]"
   - "[[Brian Holmes]]"
+  - "[[Isaiah Berlin]]"
   - "[[Robert Cowen]]"
 related_facts:
   - "[[Comparative Education Society in Europe]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-08
 ---
 
 # Janusz Tomiak
@@ -79,7 +80,7 @@ updated: 2026-09-29
 > - **1960s** 受约瑟夫·劳威斯与[[Nicholas Hans|尼古拉斯·汉斯]]举荐，进入伦敦大学教育研究院（IOE）比较教育系任教，同时在伦敦大学斯拉夫和东欧研究学院（SSEES）兼领教席。
 > - **1970–1985** 成为全英乃至整个西欧斯拉夫与苏联教育研究的核心学术协调人，主编多套东欧教育研究丛书，长期主持全英苏联与东欧研究协会（BASEES）教育分会。
 > - **1970s–1980s** 在 IOE 内部，面对[[Brian Holmes|布莱恩·霍姆斯]]（[[Brian Holmes]]）推行的[[Positivism|实证主义]][[Problem Approach|问题法]]浪潮，托米亚克与劳威斯、考恩共同捍卫了历史考据与文化理解的学统。
-> - **1989–1991** 柏林墙倒塌与苏联解体期间，受邀深入莫斯科、基辅与华沙考察转型期学校体制，为联合国与欧洲委员会提供转型教育评估。
+> - **1989–1991** [[Isaiah Berlin|柏林]]墙倒塌与苏联解体期间，受邀深入莫斯科、基辅与华沙考察转型期学校体制，为联合国与欧洲委员会提供转型教育评估。
 > - **2003** 逝世于英国伦敦。
 
 ---

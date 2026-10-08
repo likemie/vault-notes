@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch01"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch01"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -47,6 +47,7 @@ related_persons:
   - "[[Robert J. Gordon]]"
   - "[[Dwight D. Eisenhower]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
+  - "[[Isaiah Berlin]]"
 related_facts:
   - "[[Grammar School]]"
   - "[[United World Colleges]]"
@@ -358,7 +359,7 @@ updated: 2026-08-17
 
 > [!evidence-grid] 1964 年首届毕业生的录取证明方案可运行，但尚未形成稳定资格
 > - **英国大学** 首届学生凭高级程度考试与学院课程组合进入圣安德鲁斯、伯明翰、剑桥、爱丁堡、利物浦、伦敦、纽卡斯尔、萨塞克斯和约克等大学。
-> - **欧洲大陆大学** 学生进入雅典、柏林、海德堡、奥斯陆及代尔夫特、恩斯赫德的技术大学。
+> - **欧洲大陆大学** 学生进入雅典、[[Isaiah Berlin|柏林]]、海德堡、奥斯陆及代尔夫特、恩斯赫德的技术大学。
 > - **北美大学** 学生进入布朗、科罗拉多、达特茅斯、哈佛、麦吉尔、明德、宾夕法尼亚、普林斯顿、华盛顿和耶鲁等大学。
 > - **录取方式仍带例外性质** 这些结果证明 A-level 加学院课程的组合具有临时可用性。录取仍取决于个别大学的判断，尚未建立一项各国可按稳定规则普遍接受的国际资格（p. 13）。
 

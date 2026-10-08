@@ -8,10 +8,10 @@ summary: "波兰著名哲学家、教育学家、科学史家与比较教育学�
 type: person
 nationality: poland
 person_region: "poland"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1903"
 died: "1992"
 lifespan: "1903–1992"
@@ -34,6 +34,7 @@ related_persons:
   - "[[Wolfgang Mitter]]"
   - "[[Nicholas Hans]]"
   - "[[Friedrich Schneider]]"
+  - "[[Isaiah Berlin]]"
 related_facts:
   - "[[Chinese Academy of Sciences]]"
   - "[[Comparative Education Society in Europe]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-02
+updated: 2026-10-08
 ---
 
 # Bogdan Suchodolski
@@ -71,7 +72,7 @@ updated: 2026-10-02
 
 > [!timeline] 生平与学术建制
 > - **1903** 出生于波兰索斯诺维茨（Sosnowiec）。
-> - **1920s** 先后在克拉科夫雅盖隆大学（Jagiellonian University）与华沙大学深造，攻读波兰文学、哲学与教育学，并赴巴黎与柏林游学，奠定深厚的多语种欧陆思想学养。
+> - **1920s** 先后在克拉科夫雅盖隆大学（Jagiellonian University）与华沙大学深造，攻读波兰文学、哲学与教育学，并赴巴黎与[[Isaiah Berlin|柏林]]游学，奠定深厚的多语种欧陆思想学养。
 > - **1938** 出任利沃夫大学（University of Lwów）教授。
 > - **1939–1945** 二战与纳粹占领期间，冒生命危险投身波兰地下秘密大学网络（Tajne komplety），坚持组织地下高等教育与反法西斯文化抵抗。
 > - **1946–1968** 战后受聘出任华沙大学教育学院讲座教授，历任波兰教育学研究所所长、波兰[[Chinese Academy of Sciences|科学院]]院士及科学与技术史研究所所长。

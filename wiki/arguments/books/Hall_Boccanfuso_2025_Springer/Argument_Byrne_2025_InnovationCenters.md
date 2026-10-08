@@ -37,6 +37,7 @@ related_concepts:
   - "[[Seed Funding]]"
   - "[[Workforce Development]]"
   - "[[Research Question]]"
+  - "[[Red Tape]]"
   - "[[Creativity]]"
 related_theories:
   - "[[Theory of Mind]]"
@@ -72,7 +73,7 @@ title: "Argument_Byrne_2025_InnovationCenters"
 argument_key: "Argument_Byrne_2025_InnovationCenters"
 argument_display_title: "Innovation Centers and Economic Development"
 argument_kind: "book"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -400,7 +401,7 @@ citation_aliases:
 > [!warning]
 > **疫情后的商业地产困境反证了核心论点**
 > - [[Tech Square at Georgia Tech\|Tech Square]] 经历了两次全国最严重的衰退和一场全球疫情，后者既扰乱了商业地产市场，又似乎永久性地改变了美国工作者的心理。以强大学术-产业合作为基础的[[Innovation Park\|创新园区]]，比纯商业地产在面对远程办公趋势和市场波动时更具韧性，因为园区提供的核心价值是"社区"而非仅仅是"空间"(p.139)
-> - 减少官僚障碍和繁文缛节，可能比增加资金对创新中心成功的贡献更大
+> - 减少官僚障碍和[[Red Tape|繁文缛节]]，可能比增加资金对创新中心成功的贡献更大
 
 > [!abstract]
 > **[[TUFF]] 总结的四个成功主题**(pp.139–140)：

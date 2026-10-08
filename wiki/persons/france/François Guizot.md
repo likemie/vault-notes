@@ -8,7 +8,7 @@ summary: "法国七月王朝公共教育部部长、首相与自由派历史学�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -38,6 +38,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Victor Cousin]]"
+  - "[[Isaiah Berlin]]"
   - "[[Johann Wilhelm Süvern]]"
   - "[[Horace Mann]]"
   - "[[Henry Barnard]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-17
+updated: 2026-10-08
 ---
 
 # François Guizot
@@ -77,7 +78,7 @@ updated: 2026-09-17
 > - **1787** 出生于法国尼姆（Nîmes）的新教资产阶级家庭；父亲在法国大革命雅各宾恐怖统治时期被送上断头台，基佐随母亲流亡日内瓦，接受严格的古典与加尔文主义哲学教育。
 > - **1812–1830** 返回巴黎任索邦大学现代史教授，成为立宪“空想派（Doctrinaires）”自由主义理论领袖；主张中间道路，既反对波旁复辟时期的极端保皇反动，亦反对激进平民共和暴动。
 > - **1830–1832** 七月革命推翻波旁王朝建立奥尔良七月王朝；基佐步入权力中枢，委托同道哲学家[[Victor Cousin\|维克多·库森]]前往德国考察普鲁士公共教育体系。
-> - **1832–1837** 出任公共教育部部长；基于库森从柏林带回的普鲁士考察成果，主导起草并在 1833 年 6 月 28 日正式通过《[[Guizot Law of 1833\|基佐法案]]》；向全国每位小学教师亲笔致信，全面重塑法国初等教育与[[Normal School\|师范学院]]网络。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 27–29)]]
+> - **1832–1837** 出任公共教育部部长；基于库森从[[Isaiah Berlin|柏林]]带回的普鲁士考察成果，主导起草并在 1833 年 6 月 28 日正式通过《[[Guizot Law of 1833\|基佐法案]]》；向全国每位小学教师亲笔致信，全面重塑法国初等教育与[[Normal School\|师范学院]]网络。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 27–29)]]
 > - **1840–1848** 先后出任外交大臣与内阁首相，成为七月王朝实质掌权领袖；1848 年二月革命爆发后内阁倒台，流亡英国。
 > - **1849–1874** 退出政坛专心著述，当选法兰西学术院院士，完成多卷本《我当代历史的回忆录》；1874 年逝世于诺曼底。
 

@@ -9,7 +9,7 @@ title: "Argument_Ryabyy_2024_Maneto"
 argument_key: "Argument_Ryabyy_2024_Maneto"
 argument_display_title: "A horse derby, a missed connection, and hiking through the Alps: John Dewey's 1928 visit to the Soviet Union"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -42,6 +42,7 @@ related_persons:
   - "[[John Dewey]]"
   - "[[Stanislav Shatskii]]"
   - "[[Anatoly Lunacharsky]]"
+  - "[[Isaiah Berlin]]"
   - "[[Sherwood Eddy]]"
 related_facts:
   - "[[American Society for Cultural Relations with Russia]]"
@@ -150,7 +151,7 @@ citation_aliases:
 >
 > ### 6. Dewey 的行为模式：他不是"纪律严明的代表团团长"
 >
-> 这一步利用了 Dewey 私人通信中一个在公开报道中完全缺失的细节：Dewey 并没有直接从美国去苏联。他于 1928 年 5 月 27 日乘船抵达英国，随后花了 **三周时间** 游览伦敦、巴黎和柏林的美术馆(pp.105–106)。到达列宁格勒后，离其他团员抵达还有五天，他又独自逛了列宁格勒的美术馆——以致 VOKS 主席对此"感到不满"，试图为这位不按计划行动的贵客安排行程(p.106)。
+> 这一步利用了 Dewey 私人通信中一个在公开报道中完全缺失的细节：Dewey 并没有直接从美国去苏联。他于 1928 年 5 月 27 日乘船抵达英国，随后花了 **三周时间** 游览伦敦、巴黎和[[Isaiah Berlin|柏林]]的美术馆(pp.105–106)。到达列宁格勒后，离其他团员抵达还有五天，他又独自逛了列宁格勒的美术馆——以致 VOKS 主席对此"感到不满"，试图为这位不按计划行动的贵客安排行程(p.106)。
 >
 > 这个细节在论证中起什么作用？它打破了两种对立叙事：
 > - 反共叙事（"Dewey 是共产党的工具"）——一个被人操控的工具不会在欧洲逛三周美术馆只因为自己喜欢

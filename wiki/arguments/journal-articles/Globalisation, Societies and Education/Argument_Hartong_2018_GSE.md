@@ -7,7 +7,7 @@ title: "Argument_Hartong_2018_GSE"
 argument_key: "Argument_Hartong_2018_GSE"
 argument_display_title: "Towards a topological re-assemblage of education policy? Observing the implementation of performance data infrastructures and ‘centers of calculation’ in Germany"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -57,6 +57,7 @@ related_methods:
   - "[[Expert Interview]]"
   - "[[Ethnography]]"
 related_persons:
+  - "[[Isaiah Berlin]]"
   - "[[John Allen]]"
   - "[[Bruno Latour]]"
 related_facts:
@@ -97,7 +98,7 @@ updated: 2026-09-18
 > 教育治理的跨尺度重组不仅依赖宏观政策[[Discourse|话语]]与行政命令，更依托于将微观教育现象[[Transfer Translation Transformation\|转译]]为可[[Commensuration\|通约]]数据的绩效数据基础设施；德国在 PISA 震荡后建立的 IQB 作为国家计算中心，通过统筹国家教育标准、联邦州学业达标趋势比较（[[IQB-Bildungstrend]]）与全德[[Vergleichsarbeiten\|校际比较测试]]（Vergleichsarbeiten, VERA）题库，并在内部设立教育研究数据中心（Research Data Centre, FDZ / 德语：Forschungsdatenzentrum），在法律严格禁止公开发布学校排名表与维护各州文化主权的强制度约束下，依然在各州行政边界之间搭建起密集的拓扑连通管道，实现了对基层学校教学实践的远程拓扑[[Disciplina and Doctrina\|规训]]与政策重组。（pp. 143–146）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 德国在 PISA 震荡后构建的国家教育监测体系，重点考察各州教育与文化部长常设会议（[[Standing Conference of the Ministers of Education and Cultural Affairs]], KMK）的监测战略、柏林洪堡大学教育质量发展研究所（[[Institute for Educational Quality Improvement\|IQB]]）及其研发的跨州数据基础设施。
+> - **对象** 德国在 PISA 震荡后构建的国家教育监测体系，重点考察各州教育与文化部长常设会议（[[Standing Conference of the Ministers of Education and Cultural Affairs]], KMK）的监测战略、[[Isaiah Berlin|柏林]]洪堡大学教育质量发展研究所（[[Institute for Educational Quality Improvement\|IQB]]）及其研发的跨州数据基础设施。
 > - **张力** 德国《基本法》赋予 16 个联邦州的文化主权（Kulturhoheit）及禁止学校排名的法治传统，与全国统一质量基准、数据通约及中央计算中心崛起之间的制度张力。
 > - **贡献** 将[[Topological Spatialisation\|拓扑空间化]]与装配理论有机结合引入教育政策分析，揭示了软性治理背后以数据基础设施为中介的隐秘物质权力，打破了领土尺度与技术中立的二元迷思。
 
@@ -231,7 +232,7 @@ updated: 2026-09-18
 ### 论证步骤三　IQB 依托跨尺度数据基础设施穿透行政边界：在去排名约束下实现实质性远距离治理
 
 > [!claim] 步骤三核心主张
-> 柏林洪堡大学教育质量发展研究所（IQB）作为德国事实上的国家计算中心，通过统筹统一题库、接管 VERA 元治理、设立研究数据中心（FDZ）集成多源数据库以及上线数字化练习平台，在各州行政藩篱之间构筑起跨尺度的拓扑数据网络，促成了教育政策空间的深层重组。（pp. 140–145）
+> [[Isaiah Berlin|柏林]]洪堡大学教育质量发展研究所（IQB）作为德国事实上的国家计算中心，通过统筹统一题库、接管 VERA 元治理、设立研究数据中心（FDZ）集成多源数据库以及上线数字化练习平台，在各州行政藩篱之间构筑起跨尺度的拓扑数据网络，促成了教育政策空间的深层重组。（pp. 140–145）
 
 #### 1. IQB 通过垄断国家标准研制与统筹 VERA 确立元治理认知中枢地位
 
@@ -281,7 +282,7 @@ IQB 不仅生产宏观报告，更通过数字化平台向微观教学现场延�
 
 > [!finding-cards] 核心发现
 > 1. **[[Data Infrastructure\|数据基础设施]]作为政策重组的核心媒介** 绩效数据基础设施不仅是纯粹的技术工具，更是重组国家治理拓扑、将分散微观教学与宏观标准实时连接的核心制度媒介。（p. 134, p. 145）
-> 2. **[[Institute for Educational Quality Improvement\|IQB]] 确立国家[[Center of Calculation\|计算中心]]的元治理地位** 柏林 IQB 通过主导国家标准研发、跨州趋势测试、统筹 [[Vergleichsarbeiten\|VERA]] 命题及运营 FDZ 数据库，成为全德最具认知权威的计算中枢。（pp. 140–144）
+> 2. **[[Institute for Educational Quality Improvement\|IQB]] 确立国家[[Center of Calculation\|计算中心]]的元治理地位** [[Isaiah Berlin|柏林]] IQB 通过主导国家标准研发、跨州趋势测试、统筹 [[Vergleichsarbeiten\|VERA]] 命题及运营 FDZ 数据库，成为全德最具认知权威的计算中枢。（pp. 140–144）
 > 3. **拓扑穿透与去排名共识下的新型[[Disciplina and Doctrina\|规训]]** 尽管德国坚守禁止学校公开排名的法律底线，但集约化的数据池与数字化任务平台已在实质上构筑起全域对标与远距离治理的能力。（pp. 144–145）
 > 4. **分权与集权在[[Assemblage\|装配]]体中的复合共生** 德国教育政策并未简单走向中央集权或维持旧有分权，而是在物质技术、法律条款与专家网络的动态博弈中形成了新型复合政策装配体。（pp. 145–146）
 

@@ -6,7 +6,7 @@ summary: "德国不来梅大学国际关系与全球社会政策教授，德国�
 type: person
 nationality: "de"
 person_region: "de"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -46,6 +46,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Isaiah Berlin]]"
   - "[[Christian Ydesen]]"
   - "[[Gita Steiner-Khamsi]]"
 related_facts:
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-03
+updated: 2026-10-08
 ---
 
 # Kerstin Martens
@@ -82,7 +83,7 @@ updated: 2026-10-03
 
 > [!timeline] 生平与职涯
 > - **1974** 出生于德国。
-> - **2003** 获英国牛津大学与德国柏林自由大学联合培养政治学博士学位，专注研究非政府组织在联合国的制度化参与。
+> - **2003** 获英国牛津大学与德国[[Isaiah Berlin|柏林]]自由大学联合培养政治学博士学位，专注研究非政府组织在联合国的制度化参与。
 > - **2005–2009** 在不来梅大学“国家转型”（TranState）特种研究领域（SFB 597）担任高级研究员，主持[[OECD\|经合组织]]对民族国家教育政策影响的跨国比较项目。
 > - **2010** 与 Ansgar Weymann 等合著出版《经合组织治理机制：国家决策的国际激励？》（*Mechanisms of OECD Governance*，牛津大学出版社）。
 > - **2013** 与丹尼斯·尼曼（Dennis Niemann）在《比较教育评论》（*Comparative Education Review*）发表奠基性论文《[[Soft Power by Hard Facts\|以硬事实施展软权力]]：经合组织、[[PISA]] 与教育治理》（*[[Soft Power]] by Hard Facts*）。

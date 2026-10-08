@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_display_title: "Chapter five: Policy"
 argument_kind: "book-chapter"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Scientific Uncertainty]]"
   - "[[Variable]]"
   - "[[Emergence]]"
+  - "[[Red Tape]]"
   - "[[Public Engagement with Science]]"
   - "[[STEM Education]]"
   - "[[Social License to Operate]]"
@@ -328,7 +329,7 @@ updated: 2026-09-17
 > [!case] 案例研究七：民间机构 Independent SAGE 的全透明公共直播实践（Greenhalgh et al., 2025; p. 86）
 > 新冠疫情期间英国[[Emergence\|涌现]]出的民间科学咨询创新树立了全球公共对话的新高度：
 > - **官方早期的闭门保密争议** 2020 年初官方 SAGE 会议早期遵循严格保密规约，不公开参会专家名单、未发布详细会议纪要与流行病学原始数学模型，引发大众对群体免疫政策与疫苗策略的深刻恐慌与阴谋论猜测。
-> - **独立小组的激进透明度改革** 由前政府首席科学顾问大卫·金爵士（Sir David King）牵头、特里莎·格林哈尔（Trisha Greenhalgh）等顶尖临床与公共卫生学者组建了民间独立的“紧急科学咨询小组”（Independent SAGE）；该小组打破一切官僚繁文缛节，坚持**每周五通过 YouTube 平台面向全社会公开直播例会**，直接回答普通民众与各路记者的在线提问，并将所有政策简报与数学模型全网开源。
+> - **独立小组的激进透明度改革** 由前政府首席科学顾问大卫·金爵士（Sir David King）牵头、特里莎·格林哈尔（Trisha Greenhalgh）等顶尖临床与公共卫生学者组建了民间独立的“紧急科学咨询小组”（Independent SAGE）；该小组打破一切[[Red Tape|官僚繁文缛节]]，坚持**每周五通过 YouTube 平台面向全社会公开直播例会**，直接回答普通民众与各路记者的在线提问，并将所有政策简报与数学模型全网开源。
 > - **公共对话的制度反哺** 皇家学会明确将 Independent SAGE 列为现代公共对话（Public Dialogue）的典范；正是这种民间彻底透明的公众审议，有力倒逼官方 SAGE 全面改革，最终常态化公开发布全部纪要与支撑论文，确立了科学咨询与社会公众直接共创的现代化标准。（Greenhalgh et al., 2025; p. 86）
 
 ---

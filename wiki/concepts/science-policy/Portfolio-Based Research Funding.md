@@ -8,7 +8,7 @@ aliases:
 summary: "国家科技政策与科研资助治理中主动构建和优化资助工具、风险梯度、资助对象与组织形态的战略配置框架；通过融合对人资助、金券制、拉动机制、聚焦研究组织与元科学随机对照实验，克服单一同行评议的避险惯性并平衡纯好奇探索与应用导向攻坚。"
 type: concept
 domain: "science-policy"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Golden Ticket Mechanism]]"
   - "[[Advance Market Commitments]]"
   - "[[Academic Medical Center]]"
+  - "[[Red Tape]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Academic Freedom]]"
   - "[[Scientific Method]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Portfolio-Based Research Funding
@@ -112,7 +113,7 @@ updated: 2026-10-07
 > 剖析联邦科研资助若仅依赖传统院系面板评审与上一年度历史基数，为何必然导致资助流向固化与系统性学术避险。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]; [[Argument_Stephan_2013_NBER|Stephan (2013)]]
-> **偶然组合与在位者垄断假说** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios）领衔的白宫科技战略报告论证指出，美国联邦政府每年分配约 2000 亿美元研发经费，但长期缺乏系统性的顶层组合配置框架。当资助机构仅仅被动汇总各个学科评审面板通过的项目时，其形成的资助组合并非基于科学发现前沿的理性设计，而是由消耗经费的同一批高校在位者和资深学者主导的“偶然组合”（Accidental Portfolio）。在极低的资助率下，共识评审迫使青年学者回避高风险探索并退守增量课题，导致巨额公共预算在繁文缛节中固化为保守平庸的利益分配。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 20, 30–31)]]; [[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 41–44)]]
+> **偶然组合与在位者垄断假说** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios）领衔的白宫科技战略报告论证指出，美国联邦政府每年分配约 2000 亿美元研发经费，但长期缺乏系统性的顶层组合配置框架。当资助机构仅仅被动汇总各个学科评审面板通过的项目时，其形成的资助组合并非基于科学发现前沿的理性设计，而是由消耗经费的同一批高校在位者和资深学者主导的“偶然组合”（Accidental Portfolio）。在极低的资助率下，共识评审迫使青年学者回避高风险探索并退守增量课题，导致巨额公共预算在[[Red Tape|繁文缛节]]中固化为保守平庸的利益分配。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 20, 30–31)]]; [[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 41–44)]]
 
 ---
 

@@ -10,10 +10,10 @@ aliases:
 summary: "2001 年德语区（德国与奥地利）首次 PISA 结果公布后引发的全国性教育政策危机反应，被视为德语区教育政策制定的决定性分水岭，打破传统投入规制惯性并开启全面的产出导向、国家监测总体战略与拓扑数据基础设施重组"
 type: concept
 domain: "comparative-education"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - pisa
   - policy-shock
@@ -63,6 +63,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Sigrid Hartong]]"
+  - "[[Isaiah Berlin]]"
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
@@ -212,7 +213,7 @@ PISA 震荡作为制度分水岭，从根本上重塑了国家与地方、投入
 >
 > - **国家计算中心与标准题库奠基（2004–2005）**
 >
->   KMK 依托柏林洪堡大学创立柏林教育质量发展研究所（IQB），委托其研发基于[[Item Response Theory\|项目反应理论]]（IRT）的国家标准题库，建立统一心理测量学标尺。（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 140–144]]）
+>   KMK 依托[[Isaiah Berlin|柏林]]洪堡大学创立柏林教育质量发展研究所（IQB），委托其研发基于[[Item Response Theory\|项目反应理论]]（IRT）的国家标准题库，建立统一心理测量学标尺。（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 140–144]]）
 >
 > - **国家监测总体战略正式制度化（2006）**
 >

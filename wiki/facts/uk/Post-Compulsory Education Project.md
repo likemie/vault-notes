@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_persons:
   - "[[Edmund King]]"
   - "[[Wolfgang Mitter]]"
   - "[[Saul B. Robinsohn]]"
+  - "[[Isaiah Berlin]]"
   - "[[Max Planck]]"
 related_facts:
   - "[[Grammar School]]"
@@ -87,6 +88,6 @@ updated: 2026-10-08
 ## 学术影响与学科史地位
 
 > [!impact-cards]
-> - **开创西欧多国宏观社会学经验比较[[Paradigm|范式]]** [[Wolfgang Mitter|沃尔夫冈·米特]]将[[Edmund King|埃德蒙·金]]的后义务教育项目与[[Saul B. Robinsohn|索尔·罗宾逊]]（[[Saul B. Robinsohn]]）在柏林[[Max Planck|马克斯·普朗克]]研究所主持的《社会进程中的学校改革》项目相提并论，视其为 1970 年代欧洲比较教育突破“单一民族国家容器”、迈向跨国宏观实证社会学比较的标志性里程碑。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 95)]]
+> - **开创西欧多国宏观社会学经验比较[[Paradigm|范式]]** [[Wolfgang Mitter|沃尔夫冈·米特]]将[[Edmund King|埃德蒙·金]]的后义务教育项目与[[Saul B. Robinsohn|索尔·罗宾逊]]（[[Saul B. Robinsohn]]）在[[Isaiah Berlin|柏林]][[Max Planck|马克斯·普朗克]]研究所主持的《社会进程中的学校改革》项目相提并论，视其为 1970 年代欧洲比较教育突破“单一民族国家容器”、迈向跨国宏观实证社会学比较的标志性里程碑。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 95)]]
 > - **为西欧中等后教育体制改革提供关键决策依据** 调查结论直接影响了 1970–1980 年代英国进一步教育学院（[[Further Education]] Colleges）改革、法国学士后高技术职业文凭试点及欧洲[[OECD|经合组织]]的相关青年就业政策制定。
 > - **奠定埃德蒙·金的学科领导地位** 该项目确立了埃德蒙·金及其领衔的伦敦国王学院在全欧教育社会学与[[Comparative Policy Analysis|比较政策分析]]领域的核心声誉。

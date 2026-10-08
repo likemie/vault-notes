@@ -7,7 +7,7 @@ summary: "德国社会学家，理解社会学奠基人与新教伦理与资本�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Isaiah Berlin]]"
   - "[[Jerome E. Schnee]]"
   - "[[Pierre Bourdieu]]"
   - "[[Ann Swidler]]"
@@ -81,7 +82,7 @@ updated: 2026-10-08
 > [!timeline] 生平与职涯
 > - **1864–1886 早年奠基与通识法学**
 >   - **1864** 出生于普鲁士萨克森省埃尔福特（Erfurt），为家中长子。
->   - **1882–1886** 先后在海德堡大学、斯特拉斯堡大学、哥廷根大学和柏林大学学习法学、国民经济学、哲学、神学和历史学，主修罗马法；1883–1884 年服一年志愿兵役成为预备役军官（Kaesler, 2014, p. 198）。
+>   - **1882–1886** 先后在海德堡大学、斯特拉斯堡大学、哥廷根大学和[[Isaiah Berlin|柏林]]大学学习法学、国民经济学、哲学、神学和历史学，主修罗马法；1883–1884 年服一年志愿兵役成为预备役军官（Kaesler, 2014, p. 198）。
 > - **1889–1897 博士执教与经验调查转向**
 >   - **1889** 在柏林大学获法学博士学位（*magna cum laude*），论文为《中世纪贸易公司史》（MWG I/1, 2008, p. 343）。
 >   - **1892–1893** 完成教授资格论文《罗马农业史》，任柏林大学商法和德国法特聘教授；与表妹玛丽安娜·[[Jerome E. Schnee|施尼]]特格（Marianne Schnitger）结婚；主持社会政策协会易北河以东农业工人状况的大规模调查（Kaesler, 2014, p. 345, 387）。

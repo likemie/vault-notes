@@ -11,7 +11,7 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -33,7 +33,8 @@ related_methods:
   - "[[Item Response Theory]]"
 related_instruments:
   - "[[Consensual Assessment Technique]]"
-related_persons: []
+related_persons:
+  - "[[Isaiah Berlin]]"
 related_facts:
   - "[[Federal Ministry of Education and Research]]"
   - "[[Bologna Process]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-09-18
+updated: 2026-10-08
 ---
 
 # KoKoHs Program
@@ -86,7 +87,7 @@ updated: 2026-09-18
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** [[Federal Ministry of Education and Research\|德国联邦教育与研究部]]（BMBF）。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 16)]]
-> - **执行主体** 美因茨大学、柏林洪堡大学等 50 余所高校的 220 余名资深研究学者（如 Zlatkin-Troitschanskaia 等）。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 16–17)]]
+> - **执行主体** 美因茨大学、[[Isaiah Berlin|柏林]]洪堡大学等 50 余所高校的 220 余名资深研究学者（如 Zlatkin-Troitschanskaia 等）。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 16–17)]]
 > - **适用对象** 全德 350 所高等院校的 75,000 余名本科生及研究生。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]
 > - **政策工具** 竞争性教改基金资助、跨学科子项目攻关（70 个独立课题）与国家测试基础设施建设。
 

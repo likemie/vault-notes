@@ -48,6 +48,7 @@ related_methods:
   - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons:
+  - "[[Isaiah Berlin]]"
   - "[[Vannevar Bush]]"
   - "[[Franklin D. Roosevelt]]"
   - "[[Alfred Nobel]]"
@@ -95,7 +96,7 @@ title: "Argument_Atkinson_2008_TIS"
 argument_key: "Argument_Atkinson_2008_TIS"
 argument_display_title: "Research universities: Core of the US science and technology system"
 argument_kind: "journal-article"
-argument_related_count: 58
+argument_related_count: 59
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -193,7 +194,7 @@ issuing_organization: ""
 > - **18 世纪启蒙时代：皇家学术学会与[[Chinese Academy of Sciences|科学院]]兴起**
 >   科学研究与探索的主要阵地逐步转移至享有国家特许的专门机构，如巴黎皇家科学院（1666）与柏林科学院（1700）；美洲大陆亦由本杰明·富兰克林于 1743 年创立美国哲学会（American Philosophical Society, APS），约翰·亚当斯于 1780 年创立美国艺术与科学院（American Academy of Arts and Sciences, [[American Association for the Advancement of Science|AAAS]]），为科学家与社会贤达提供研讨平台。（p.32）
 > - **19 世纪初普鲁士改革：洪堡模式确立教学与科研统一原则**
->   1810 年柏林大学创办，正式奠定[[Humboldtian Model of Higher Education|洪堡模式]]（Humboldtian Model），提出大学教授不仅需要讲授知识，还必须从事科学研究；1826 年化学家李比希（Justus Liebig）在吉森大学创设首个兼具教学实验与前沿研究功能的现代化学实验室，教学与研究并重的现代大学体制由此成型，并在德意志帝国统一后与工业界产生紧密互动。（pp.32–33）
+>   1810 年[[Isaiah Berlin|柏林]]大学创办，正式奠定[[Humboldtian Model of Higher Education|洪堡模式]]（Humboldtian Model），提出大学教授不仅需要讲授知识，还必须从事科学研究；1826 年化学家李比希（Justus Liebig）在吉森大学创设首个兼具教学实验与前沿研究功能的现代化学实验室，教学与研究并重的现代大学体制由此成型，并在德意志帝国统一后与工业界产生紧密互动。（pp.32–33）
 
 德国开创的教学与科研一体化模式，打破了欧洲数百年间大学不从事知识生产的旧规，成为后来美国高等教育转型的制度母本。
 

@@ -7,10 +7,10 @@ summary: "德国比较教育学家，曾任法兰克福德国国际教育研究�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 39
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 40
+person_related_level: 5
+person_related_stars: "⭐⭐⭐⭐⭐"
+person_related_color: "#ffedd5"
 born: "1927"
 died: "2014"
 lifespan: "1927–2014"
@@ -43,6 +43,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Isaiah Berlin]]"
   - "[[Joseph Lauwerys]]"
   - "[[Robert Cowen]]"
   - "[[Oskar Anweiler]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
 # Wolfgang Mitter
@@ -95,7 +96,7 @@ updated: 2026-10-05
 > - **1954** **美因茨大学获博士学位奠定斯拉夫史学根基** 在德国美因茨大学完成博士学业，专攻欧洲历史学、斯拉夫语言文学与教育学，奠定了其开展东西欧教育体制[[Rich and Thick Description|深描]]的[[Document|文献]]学与历史发生学基础。
 > - **1972–1995** **执掌法兰克福 [[Leibniz Institute for Educational Research and Educational Information|DIPF]] 确立国家级非大学比较研究中枢** 出任德国[[International Education|国际教育]]研究所（DIPF）所长兼比较教育研究部主任，与瓦尔特·舒尔策（Walter Schultze）共同开辟专门比较教育研究实体与学术教席，成为西德大学体系之外最重要的国家学术智库。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 89–90)]]
 > - **1981–1985** **主政[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）架设冷战学术桥梁** 当选并连任欧洲比较教育学会（CESE）会长，恪守学者个人会员制原则，积极打破东西欧阵营壁垒，促成铁幕两侧教育学者的制度化对话。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 91–92)]]
-> - **1991–1996** **主政[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES）引领全球网络重组** 在柏林墙倒塌与苏东剧变后出任 WCCES 会长，组织协调后社会主义国家的教育体制转型评估，推动跨大洲学术对话与理论重构。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
+> - **1991–1996** **主政[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES）引领全球网络重组** 在[[Isaiah Berlin|柏林]]墙倒塌与苏东剧变后出任 WCCES 会长，组织协调后社会主义国家的教育体制转型评估，推动跨大洲学术对话与理论重构。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
 > - **2009** **发表巨著《欧洲的比较教育》奠定两百年学科史权判定评** 为考恩与卡扎米亚斯主编的《比较教育学国际手册》撰写长篇专论《欧洲的比较教育》（*Comparative [[Education in Europe]]*），从地缘版图、[[Paradigm|范式]]更迭、学会社会学与政策光谱对欧洲比较教育两百年历史展开全景式总结。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87–99)]]
 > - **2014** **逝世于德国美因茨与历史定论** 逝世于德国美因茨，享年 87 岁。学术界高度评价其作为欧洲比较教育学会政治中立与理性导航守护者的崇高学术声望。
 

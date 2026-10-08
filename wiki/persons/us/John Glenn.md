@@ -8,7 +8,7 @@ summary: "美国二战海军陆战队战斗机飞行员、首位环绕地球飞�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ tags:
   - theme/national-security
   - region/us
 related_concepts:
+  - "[[Red Tape]]"
   - "[[Commercial Off-The-Shelf]]"
   - "[[Science and Technology Studies]]"
 related_theories: []
@@ -49,7 +50,7 @@ updated: 2026-10-08
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国海军陆战队王牌战斗机飞行员、水星计划首位环绕地球飞行的宇航员、俄亥俄州联邦参议员（民主党，1974–1999 年连任四届）、参议院政府事务委员会（Senate Committee on Governmental Affairs）主席。
-> - **核心角色** 美国政府采购现代化改革与反官僚体制繁文缛节的关键立法领袖，主持起草并强力推动通过了具有划时代意义的《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]》（[[Federal Acquisition Streamlining Act of 1994|FASA 1994]]，S. 1587）。
+> - **核心角色** 美国政府采购现代化改革与反官僚体制[[Red Tape|繁文缛节]]的关键立法领袖，主持起草并强力推动通过了具有划时代意义的《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]》（[[Federal Acquisition Streamlining Act of 1994|FASA 1994]]，S. 1587）。
 > - **代表贡献** 推动确立[[Commercial Off-The-Shelf|商用现成产品]]（COTS）优先采购的法定义务（10 U.S.C. § 2377），深刻抨击十万采购官僚“不求有功、但求无过”的消极避险文化，为破除五角大楼定制垄断与繁杂规范提供了根本性制度钥匙。
 
 > [!citation-card] 约翰·格伦论政府采购改革的扎实苦工与官僚避险
@@ -82,7 +83,7 @@ updated: 2026-10-08
 ## 核心思想
 
 > [!claim] 务实治理与破除官僚避险
-> 约翰·格伦主张公共治理的效能必须建立在直面日常繁杂现实的制度设计之上。他深刻洞察到庞大国家官僚机构的避险惯性，认为唯有通过具有刚性约束的法定程序（如强制要求考虑成熟商业技术），才能冲破数以十万计采购官员筑起的繁文缛节高墙，重塑政府的务实行动力与公共信誉。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 151–152)]]
+> 约翰·格伦主张公共治理的效能必须建立在直面日常繁杂现实的制度设计之上。他深刻洞察到庞大国家官僚机构的避险惯性，认为唯有通过具有刚性约束的法定程序（如强制要求考虑成熟商业技术），才能冲破数以十万计采购官员筑起的[[Red Tape|繁文缛节]]高墙，重塑政府的务实行动力与公共信誉。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 151–152)]]
 
 > [!mindset] 格伦的治理哲学双重支柱
 > - **公共治理的扎实苦工（The "Grunt Work" of Government）** 坚决拒绝好大喜功的政治修辞，强调决定国家治理成败的往往是采购流程、标准化与物资流转等看似平淡无奇的日常基础制度。

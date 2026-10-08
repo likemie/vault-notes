@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch01"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch01"
 argument_display_title: "Lost valley"
 argument_kind: "book-chapter"
-argument_related_count: 36
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Other Transaction Authority]]"
   - "[[Artificial General Intelligence]]"
+  - "[[Red Tape]]"
   - "[[Problem Solving]]"
   - "[[Research Translation]]"
   - "[[Emergence]]"
@@ -58,6 +59,7 @@ related_persons:
   - "[[Nicholas Zamiska]]"
   - "[[Franklin D. Roosevelt]]"
   - "[[Vannevar Bush]]"
+  - "[[Herbert Hoover]]"
   - "[[J. C. R. Licklider]]"
   - "[[Dwight D. Eisenhower]]"
 related_facts:
@@ -200,7 +202,7 @@ updated: 2026-10-07
 > [!feature] 工程师与科学家作为 20 世纪国家英雄的文化崇尚
 > - **布什成为国家战争英雄** 1942 年《科利尔周刊》（*Collier’s*）以可能赢得战争的人为题向近 300 万读者深度报道万尼瓦尔·布什，使其成为美国家喻户晓的科技领袖。
 > - **[[Star Scientists|科学巨擘]]的公众追捧** 居里夫人（Marie Curie）1903 年发现镭后引发跨大西洋轰动，爱因斯坦（Albert Einstein）频频登上《时代》封面并成为全民偶像。（pp. 7–8）
-> - **工程师时代的文明信念** 1920–1930 年代赫伯特·胡佛（Herbert Hoover）时期的工程师英雄主义，将大型水坝、摩天大楼与电气化工程视为推动文明向上攀登的崇高国家事业。（pp. 8, 224）
+> - **工程师时代的文明信念** 1920–1930 年代[[Herbert Hoover|赫伯特·胡佛]]（Herbert Hoover）时期的工程师英雄主义，将大型水坝、摩天大楼与电气化工程视为推动文明向上攀登的崇高国家事业。（pp. 8, 224）
 
 > [!evidence-grid] 冷战国防安全与军工采购哺育早期硅谷的实证证据
 > - **仙童半导体研制间谍卫星设备** 1950 年代末期加州山景城的[[Fairchild Semiconductor|仙童半导体]]不仅奠定微电子工业基础，其航空部门更直接为美国中央情报局（Central Intelligence Agency, CIA）的侦察卫星研制机载高分辨率侦察设备，微芯片的首要初始市场为军方。（pp. 3–4）
@@ -256,7 +258,7 @@ updated: 2026-10-07
 
 > [!pathways] 重构技术共和国的双向行动路径
 > - **科技产业的公共责任回归** 软件与算法精英打破商业中立幻象，将工程智力重新投入国家防卫、战略基础设施与重大社会治理挑战。（pp. 10–11）
-> - **公共部门吸纳工程组织文化** 政府机构引入注重实战结果、摒弃表演性繁文缛节、赋权一线[[Problem Solving|问题解决]]者并建立领导者真实责任担当的组织运作逻辑，彻底消灭阻碍[[Research Translation|技术转化]]的[[Innovation Desert|创新荒漠]]。（pp. 14–15）
+> - **公共部门吸纳工程组织文化** 政府机构引入注重实战结果、摒弃表演性[[Red Tape|繁文缛节]]、赋权一线[[Problem Solving|问题解决]]者并建立领导者真实责任担当的组织运作逻辑，彻底消灭阻碍[[Research Translation|技术转化]]的[[Innovation Desert|创新荒漠]]。（pp. 14–15）
 
 ---
 

@@ -13,7 +13,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_concepts:
 related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
+  - "[[Isaiah Berlin]]"
   - "[[Friedrich List]]"
 related_facts:
   - "[[German Dual Education System]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
 # Gewerbe-Institut
@@ -58,7 +59,7 @@ updated: 2026-10-05
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1821 年由普鲁士工业促进委员会发起创办，核心契机是德意志地区在拿破仑战争后面对英国工业革命（特别是机床与蒸汽动力）的巨大代差，急需由国家协调技术吸收与自主工业能力构建。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7)]]
-> - **总部地点 / 业务辐射** 总部设于柏林，学员面向德意志各邦选拔，培养成果与装备扩散覆盖全德意志关税同盟制造企业。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 7)]]
+> - **总部地点 / 业务辐射** 总部设于[[Isaiah Berlin|柏林]]，学员面向德意志各邦选拔，培养成果与装备扩散覆盖全德意志关税同盟制造企业。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 7)]]
 > - **法人属性与经费基础** 官方公立建制机构，由普鲁士政府财政全额承担运转经费，为学员提供全额食宿、教材、实践津贴及海外考察资助。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 7)]]
 > - **核心宗旨与法定职责** 破除纯理论文科传统，将高等自然科学（数学、力学、应用化学）与车间机械制造实践深度结合，培养能设计、制造并操作工业母机的高素质工匠与工程师。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7)]]
 
@@ -69,7 +70,7 @@ updated: 2026-10-05
 > [!dev-timeline] 组织发展历程
 > - **1821–1840s — 创设奠基与逆向工程突破** 普鲁士工业促进委员会领导人博伊特主持校务，建立教学工坊与化学实验室；顶住英国机床出口重罚禁令，秘密引进先进机床开展测绘与逆向工程，聘用英国熟练技工驻校传授隐性经验。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 7)]]
 > - **1840s–1860s — 机械制造扩散与蒸汽机车自主化** 学院培养的技工与工程师进入德国新兴机械制造企业，直接支撑起 1840 至 1850 年代德国自主设计制造蒸汽机车的历史性突破，助力德意志各邦铁路网建设。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 7)]]
-> - **1879 — 并入柏林皇家技术高等学院** 与柏林建筑学院等合并重组为柏林皇家工科大学（Königlich Technische Hochschule zu Berlin），即当代柏林工业大学（Technische Universität Berlin）的前身，推动德国高等工科大学体制确立。
+> - **1879 — 并入[[Isaiah Berlin|柏林]]皇家技术高等学院** 与柏林建筑学院等合并重组为柏林皇家工科大学（Königlich Technische Hochschule zu Berlin），即当代柏林工业大学（Technische Universität Berlin）的前身，推动德国高等工科大学体制确立。
 
 ---
 
@@ -77,7 +78,7 @@ updated: 2026-10-05
 
 > [!actor-grid] 组织治理与协同网络
 > - **政府决策与资助层** 普鲁士工商与财政行政当局，负责制定长期追赶目标、调拨国家外汇与专项补贴，并出资组织官员赴英美工业重镇考察。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 7)]]
-> - **校务与教学实践层** 柏林工坊技术主管与科学导师，将前沿物理力学与手工作坊车削技能编制为标准化教学大纲。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7)]]
+> - **校务与教学实践层** [[Isaiah Berlin|柏林]]工坊技术主管与科学导师，将前沿物理力学与手工作坊车削技能编制为标准化教学大纲。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7)]]
 > - **外国专家与技工团队** 以优厚待遇吸纳来自英国亨利·莫兹利（Henry Maudslay）等顶尖机床工坊的熟练工匠，在校内生产工坊亲自带徒。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 7)]]
 > - **产业协同与非教学网络** 联合技术展览会、产业陈列馆及学术团体，定期向全社会公开展示工业母机结构，向民间制造工坊赠送机器图纸与样机。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 7)]]
 

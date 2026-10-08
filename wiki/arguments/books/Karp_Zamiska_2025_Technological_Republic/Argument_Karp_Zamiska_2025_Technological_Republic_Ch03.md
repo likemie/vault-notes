@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch03"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch03"
 argument_display_title: "The winner's fallacy"
 argument_kind: "book-chapter"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -52,6 +52,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Francis Fukuyama]]"
+  - "[[Isaiah Berlin]]"
   - "[[Thomas Schelling]]"
   - "[[Leo Szilard]]"
   - "[[Franklin D. Roosevelt]]"
@@ -92,7 +93,7 @@ updated: 2026-10-08
 >
 > - **解构[[End of History Thesis|历史终结论]]与确立软件硬实力基石**
 >
->   批判[[Francis Fukuyama|弗朗西斯·福山]]（Francis Fukuyama）在柏林墙倒塌前夕提出的[[End of History Thesis|历史终结论]]，指出自由民主制度的维系不仅需要道义感召，更需要以软件为核心的硬实力支撑；援引博弈论学者[[Thomas Schelling|托马斯·谢林]]（Thomas Schelling）的[[Strategic Bargaining Theory|战略博弈论]]现实主义命题，阐明伤害能力即谈判筹码、战争本质是流动的讨价还价过程（pp. 31–32）。
+>   批判[[Francis Fukuyama|弗朗西斯·福山]]（Francis Fukuyama）在[[Isaiah Berlin|柏林]]墙倒塌前夕提出的[[End of History Thesis|历史终结论]]，指出自由民主制度的维系不仅需要道义感召，更需要以软件为核心的硬实力支撑；援引博弈论学者[[Thomas Schelling|托马斯·谢林]]（Thomas Schelling）的[[Strategic Bargaining Theory|战略博弈论]]现实主义命题，阐明伤害能力即谈判筹码、战争本质是流动的讨价还价过程（pp. 31–32）。
 >
 > - **硅谷道德疏离、认知脱节与契约背叛**
 >
@@ -165,7 +166,7 @@ updated: 2026-10-08
 西方社会在追求前沿技术优势上的文化犹豫，根源于误以为自身制度已经取得永久胜利的自满；唯有重塑战略现实主义，认识到[[Hard Power|硬实力]]的核心是软件，才能确保自由社会的生存。
 
 > [!critique] [[Francis Fukuyama|福山]]的[[End of History Thesis|历史终结论]]误将阶段性胜利当成[[Perpetual Peace|永久和平]]，催生了危险的[[Winner's Fallacy|胜者谬误]]
-> 1989年，政治学者[[Francis Fukuyama|弗朗西斯·福山]]（Francis Fukuyama）在柏林墙倒塌前夕发表论文《历史的终结？》，随后出版专著《历史的终结与最后的人》，系统提出[[End of History Thesis|历史终结论]]，深刻影响了西方精英对大国竞争的认知。福山断言人类意识形态的演进已达终点，自由民主制代表了人类政府的最终形式。正如学者[[Allan Bloom|阿兰·布鲁姆]]（Allan Bloom）所分析的，这种观点诱人地暗示了大国兴衰的历史循环只是幻觉，人类历史正单向走向自由民主的终极胜利。然而，这种确定性构成了当代最危险的[[Winner's Fallacy|胜者谬误]]：正如[[Joseph S. Nye Jr.|约瑟夫·奈]]（Nye, 2004）所指出的，否定[[Soft Power|软实力]]固然是不懂文化与价值吸引力的“诱惑力量”，但软实力仅是[[Necessary and Sufficient Conditions|必要条件]]；自由与民主社会要在历史竞争中立于不败之地，绝不能仅仅依靠道德号召力，它必须拥有[[Hard Power|硬实力]]（Hard Power），而在21世纪，硬实力的核心正是软件（pp. 31–32, 228）。
+> 1989年，政治学者[[Francis Fukuyama|弗朗西斯·福山]]（Francis Fukuyama）在[[Isaiah Berlin|柏林]]墙倒塌前夕发表论文《历史的终结？》，随后出版专著《历史的终结与最后的人》，系统提出[[End of History Thesis|历史终结论]]，深刻影响了西方精英对大国竞争的认知。福山断言人类意识形态的演进已达终点，自由民主制代表了人类政府的最终形式。正如学者[[Allan Bloom|阿兰·布鲁姆]]（Allan Bloom）所分析的，这种观点诱人地暗示了大国兴衰的历史循环只是幻觉，人类历史正单向走向自由民主的终极胜利。然而，这种确定性构成了当代最危险的[[Winner's Fallacy|胜者谬误]]：正如[[Joseph S. Nye Jr.|约瑟夫·奈]]（Nye, 2004）所指出的，否定[[Soft Power|软实力]]固然是不懂文化与价值吸引力的“诱惑力量”，但软实力仅是[[Necessary and Sufficient Conditions|必要条件]]；自由与民主社会要在历史竞争中立于不败之地，绝不能仅仅依靠道德号召力，它必须拥有[[Hard Power|硬实力]]（Hard Power），而在21世纪，硬实力的核心正是软件（pp. 31–32, 228）。
 
 从博弈论视角审视，外交与和平从来不是脱离武力威慑的纯道德产物。
 

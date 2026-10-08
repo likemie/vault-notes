@@ -12,7 +12,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -41,6 +41,7 @@ related_theories:
 related_methods:
   - "[[Item Response Theory]]"
 related_persons:
+  - "[[Isaiah Berlin]]"
   - "[[Sigrid Hartong]]"
 related_facts:
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Institute for Educational Quality Improvement
@@ -70,7 +71,7 @@ updated: 2026-10-07
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 德国教育质量发展研究所（Institut zur Qualitätsentwicklung im Bildungswesen, IQB）是德意志联邦共和国 16 个联邦州依据各州教育与文化部长常设会议（[[Standing Conference of the Ministers of Education and Cultural Affairs]], KMK）决议于柏林洪堡大学联合创设的国家级专业科学研究机构。作为[[Gesamtstrategie zum Bildungsmonitoring\|德国国家教育监测总体战略]]（[[Gesamtstrategie zum Bildungsmonitoring]]）的学术中枢与核心研发基地，IQB 承担着研发国家教育标准测评工具、实施联邦州学业达标水平比较、统筹全德[[Vergleichsarbeiten\|校际比较测试]]（Vergleichsarbeiten, VERA）题库以及维护全国教育研究数据中心（Research Data Centre, FDZ / 德语：Forschungsdatenzentrum）的核心使命，在德国联邦分权治理体制中扮演了联结跨国、国家、州级与微观学校的国家[[Center of Calculation\|计算中心]]角色（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 140–145]]；[[Argument_Dedering_2009_EERJ\|Dedering, 2009, p. 484]]）。
+> 德国教育质量发展研究所（Institut zur Qualitätsentwicklung im Bildungswesen, IQB）是德意志联邦共和国 16 个联邦州依据各州教育与文化部长常设会议（[[Standing Conference of the Ministers of Education and Cultural Affairs]], KMK）决议于[[Isaiah Berlin|柏林]]洪堡大学联合创设的国家级专业科学研究机构。作为[[Gesamtstrategie zum Bildungsmonitoring\|德国国家教育监测总体战略]]（[[Gesamtstrategie zum Bildungsmonitoring]]）的学术中枢与核心研发基地，IQB 承担着研发国家教育标准测评工具、实施联邦州学业达标水平比较、统筹全德[[Vergleichsarbeiten\|校际比较测试]]（Vergleichsarbeiten, VERA）题库以及维护全国教育研究数据中心（Research Data Centre, FDZ / 德语：Forschungsdatenzentrum）的核心使命，在德国联邦分权治理体制中扮演了联结跨国、国家、州级与微观学校的国家[[Center of Calculation\|计算中心]]角色（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 140–145]]；[[Argument_Dedering_2009_EERJ\|Dedering, 2009, p. 484]]）。
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 创设于 2004 年。在 2000 年首轮[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）震荡（[[PISA Shock]]）引发德国全社会强烈震动后，KMK 决议打破各州完全分散的传统，联合建立专门科研实体以推进全国统一教育标准与客观质量监测（[[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 140]]）。
@@ -83,7 +84,7 @@ updated: 2026-10-07
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **2004–2006 — 机构创设与国家教育标准题库奠基** 2004 年由 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 决议在柏林正式组建，初期核心任务是为 KMK 颁布的中学第一阶段（Sekundarstufe I）与小学国家教育标准（Bildungsstandards）研发心理测量学指标、试题库与能力层级量规（[[Argument_Dedering_2009_EERJ\|Dedering, 2009, p. 484]]）。
+> - **2004–2006 — 机构创设与国家教育标准题库奠基** 2004 年由 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 决议在[[Isaiah Berlin|柏林]]正式组建，初期核心任务是为 KMK 颁布的中学第一阶段（Sekundarstufe I）与小学国家教育标准（Bildungsstandards）研发心理测量学指标、试题库与能力层级量规（[[Argument_Dedering_2009_EERJ\|Dedering, 2009, p. 484]]）。
 > - **2007–2012 — 联邦州比较测试常规化与 [[Vergleichsarbeiten\|VERA]] 统筹接管** 2009 年起常态化组织实施全国代表性样本的联邦州学业达标比较测试（[[IQB-Bildungstrend\|Ländervergleich]]），并逐步接管由各州自发发起的校际比较测试（[[Vergleichsarbeiten\|VERA]]）的全国命题与元治理协调职能，确立其作为全国命题与标准标定中枢的法定权威（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 141, 144]]）。
 > - **2013–至今 — 研究数据中心（FDZ）集成与数字化拓扑拓展** 正式建立并扩大教育研究数据中心（Forschungsdatenzentrum, FDZ），将跨国（[[PISA]]、[[TIMSS]]、[[PIRLS]]）与国内大规模测评数据全面集成归档；同时上线面向全德一线教师的数字化练习任务平台，推动国家标准向微观课堂教学直接延伸（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 144–145]]）。
 

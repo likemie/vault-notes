@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_display_title: "Chapter four: Industry and business sector"
 argument_kind: "book-chapter"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -70,7 +70,8 @@ related_methods:
   - "[[Accounts]]"
   - "[[Participatory Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Isaiah Berlin]]"
 related_facts:
   - "[[EngineeringUK]]"
   - "[[The Big Bang Fair]]"
@@ -415,7 +416,7 @@ updated: 2026-09-13
 > [!info]- 第四章专家研制工作组核心成员与跨界机构构成（Chapter 4 Working Group, Annex 1, p. 110）
 > 英国皇家学会为第四章《产业与商业部门／第三部门》组建了高规格专家工作组，成员横跨前沿学术界、跨国工业研发中枢、前沿人工智能实验室与转化医学机构：
 > - **工作组主席（Chair）**
->   - 卢克·奥尼尔教授（Professor Luke O'Neill）：英国皇家学会会士（Fellow of the Royal Society, FRS）、都柏林圣三一大学生物化学与免疫学顶尖教授、多家知名生物医药企业联合创始人。
+>   - 卢克·奥尼尔教授（Professor Luke O'Neill）：英国皇家学会会士（Fellow of the Royal Society, FRS）、都[[Isaiah Berlin|柏林]]圣三一大学生物化学与免疫学顶尖教授、多家知名生物医药企业联合创始人。
 > - **委员会成员（Committee Members）**
 >   - 露辛达·布鲁斯-加丁（Lucinda Bruce-Gardyne）：皇家学会常驻创业家（[[Entrepreneur in Residence]]）、Gluten Free Foods 创始人；
 >   - 马克·杰弗里斯（Mark Jefferies）：劳斯莱斯集团（Rolls-Royce）研发合作与伙伴关系总监；

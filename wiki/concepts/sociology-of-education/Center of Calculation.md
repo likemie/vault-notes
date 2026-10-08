@@ -9,7 +9,7 @@ aliases:
 summary: "行动者网络理论与治理社会学的核心概念，指将遥远、异质的现实实体通过标准化转译为流动、稳定且可组合的标准化数据表征（如测试数据、统计指标），并在中心节点进行汇聚、建模与运算，从而实现远距离治理的专业机构或空间节点。"
 type: concept
 domain: "sociology-of-education"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -47,6 +47,7 @@ related_methods:
 related_persons:
   - "[[Bruno Latour]]"
   - "[[Sigrid Hartong]]"
+  - "[[Isaiah Berlin]]"
 related_facts:
   - "[[OECD]]"
   - "[[Institute for Educational Quality Improvement]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Center of Calculation
@@ -164,7 +165,7 @@ updated: 2026-10-07
 > - **1987 年 — 科学技术学（Science, Technology and Society, [[Science and Technology Studies\|STS]]）的奠基** [[Bruno Latour\|布鲁诺·拉图尔]]在《行动中的科学》（*Science in Action*）中首次提出计算中心，阐述早期航海地图、天文台与帝国测量局如何通过收集标本与绘制图表实现对遥远殖民地的认知控制。
 > - **1999 年 — 治理社会学的空间化发展** 尼古拉斯·罗斯（Nikolas Rose）在《自由的权力》（*Powers of Freedom*）中将计算中心引入政治社会学，论证统计调查局与经济模型如何为新自由主义国家行使远距离治理提供基准。
 > - **2015 年 — 全球教育政策研究的应用** 拉德希卡·戈鲁尔（Radhika Gorur）将计算中心用于剖析[[OECD\|经济合作与发展组织]]（OECD）的 [[PISA]] 运作机制，揭示巴黎总部如何将全球各国的课堂现实[[Transfer Translation Transformation\|转译]]为单一维度的量化排行榜。
-> - **2018 年 — 联邦制国内[[Data Infrastructure\|教育数据基础设施]]的经验剖析** [[Sigrid Hartong\|西格丽德·哈通]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）将计算中心概念[[Operationalization\|操作化]]于德国教育监测体系，证明柏林 [[Institute for Educational Quality Improvement\|IQB]] 如何在宪法禁止国家排名的制度约束下，依然作为国家计算中心重组联邦教育治理。
+> - **2018 年 — 联邦制国内[[Data Infrastructure\|教育数据基础设施]]的经验剖析** [[Sigrid Hartong\|西格丽德·哈通]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）将计算中心概念[[Operationalization\|操作化]]于德国教育监测体系，证明[[Isaiah Berlin|柏林]] [[Institute for Educational Quality Improvement\|IQB]] 如何在宪法禁止国家排名的制度约束下，依然作为国家计算中心重组联邦教育治理。
 > - **2019 年 — 从单一中心走向分布式数据基础设施网络** 哈通与弗施勒（[[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler, 2019]]）进一步指出，随着数字平台、商业教育科技（EdTech）与云服务的渗透，现代治理正从依托单一国家计算中心向多中心协同、权能分散的“分布式数据基础设施网络”演化。
 
 ---

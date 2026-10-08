@@ -43,6 +43,7 @@ related_methods:
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
+  - "[[Jackson Pollock]]"
   - "[[Socrates]]"
 related_facts: []
 related_arguments: []
@@ -58,7 +59,7 @@ title: "Argument_Jovchevski_2026_PT"
 argument_key: "Argument_Jovchevski_2026_PT"
 argument_display_title: "What is wrong with automation bias?"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -95,7 +96,7 @@ issuing_organization: ""
 > | **支柱一：人机[[Trust Calibration\|信任校准]]与[[Epistemic Deference\|认识论顺从]]理论** | 缪尔（Muir, 1987）；李与西（Lee & See, 2004）；帕尔米拉（Palmira, 2020） | **解构强偏差的[[Epistemology\|认识论]]实质** 突破工效学经验行为主义局限，将过度信任（Overtrust）提升为认识论确证概念，证明[[Automation Bias\|强自动化偏差]]是操作者单凭系统属性将最终判断权威让渡给算法黑箱的“认识论顺从”状态，确立客观理由对主观自信的规范优先性。（pp. 8–12） |
 > | **支柱二：程序主义与实质关系自主性理论** | 斯坎伦（Scanlon, 1998）；斯托尔贾（Stoljar, 2000）；麦肯齐（Mackenzie, 2008） | **剖析自主能动性的双重侵蚀** 从双重视角论证强偏差对自主性的侵害：① **程序主义路径** 破坏了主体依据感知到的外部矛盾证据动态修正自身信念的理性机能；② **实质主义路径** 算法客观性迷信与高昂组织抗辩成本剥夺了个体的合法认识权威与认识自我信任（Epistemic Self-Trust）。（pp. 12–17） |
 > | **支柱三：基于生命尊严的道德受托责任伦理** | 海因斯（Heyns, 2017）；斯帕罗（Sparrow, 2016）；斯坎伦（Scanlon, 1998） | **诊断人在回路的形式化橡皮图章陷阱** 论证涉及生死存亡的强制性裁决必须包含对生命内在价值的道德敬畏，机器天然缺乏道德理解力与同理心；强偏差架空了[[Meaningful Human Control\|有意义的人类控制]]，使操作者退化为法律免责的橡皮图章，实质上违背了不可让渡的道德受托审思义务。（pp. 17–20） |
-> | **支柱四：生产性[[Epistemic Friction\|认识论摩擦]]与[[Defeater\|击败者]]设计架构** | 波洛克（Pollock, 1987）；梅迪纳（Medina, 2013）；维卢温坎普与伯伊斯曼（Veluwenkamp & Buijsman, 2025） | **构建认知安全防护与抗辩支架** 将哲学上的可撤销推理与社会认识论摩擦工程化落地，提出通过反思机器（[[Socratic Dialogue\|苏格拉底]]动态质询）与反驳型击败者（主动呈现冲突反例），向人机决策回路注入生产性认知阻力，为人类提供抗辩支架并实现[[Trust Calibration\|批判性信任校准]]。（pp. 20–25） |
+> | **支柱四：生产性[[Epistemic Friction\|认识论摩擦]]与[[Defeater\|击败者]]设计架构** | [[Jackson Pollock\|波洛克]]（Pollock, 1987）；梅迪纳（Medina, 2013）；维卢温坎普与伯伊斯曼（Veluwenkamp & Buijsman, 2025） | **构建认知安全防护与抗辩支架** 将哲学上的可撤销推理与社会认识论摩擦工程化落地，提出通过反思机器（[[Socratic Dialogue\|苏格拉底]]动态质询）与反驳型击败者（主动呈现冲突反例），向人机决策回路注入生产性认知阻力，为人类提供抗辩支架并实现[[Trust Calibration\|批判性信任校准]]。（pp. 20–25） |
 
 > [!warrant]- 理论推理桥梁
 > 论证以工效学认知启发式模型（弱自动化偏差）与规范认识论（强自动化偏差）的分野为起点，建立过度信任导致[[Epistemic Deference|认识论顺从]]的核心理论定性；进而通过程序主义与实质关系自主性理论，推导强顺从如何造成信念修正功能性瘫痪与认识权威剥离；随后结合基于生命尊严的道德哲学，揭示人在回路退化为形式化橡皮图章对道德受托责任的背离；最终整合可撤销推理的[[Defeater|击败者机制]]与社会认识论摩擦，将伦理批判转化为反思机器与反驳型击败者的交互设计架构，完成从概念辨析、认知机制、道德批判到系统工程落地的完整论证链条。（pp. 4–25）

@@ -8,7 +8,7 @@ summary: "社会心理学创始人之一、行动研究的奠基人，提出群�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -38,9 +38,11 @@ related_methods:
   - "[[Experimental Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
+related_persons:
+  - "[[Isaiah Berlin]]"
 status: draft
 created: 2026-07-18
-updated: 2026-09-18
+updated: 2026-10-08
 ---
 # Kurt Lewin
 
@@ -49,7 +51,7 @@ updated: 2026-09-18
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 德裔美国社会心理学家（1890–1947），先后任教于柏林大学、康奈尔大学、艾奥瓦大学和麻省理工学院，在 MIT 创立群体动力学研究中心（Research Center for Group Dynamics）。
+> - **身份位置** 德裔美国社会心理学家（1890–1947），先后任教于[[Isaiah Berlin|柏林]]大学、康奈尔大学、艾奥瓦大学和麻省理工学院，在 MIT 创立群体动力学研究中心（Research Center for Group Dynamics）。
 > - **核心角色** [[Action Research\|行动研究]]的两位奠基人之一（与 Corey 并列）；社会心理学创始人之一；群体动力学、力场分析和变革管理理论的创立者。
 > - **代表贡献** 提出行动研究的"计划—行动—观察—反思"螺旋模型；创立力场分析和变革三步模型（unfreezing → moving → refreezing）；开创群体决策和参与式管理研究。
 
@@ -64,7 +66,7 @@ updated: 2026-09-18
 
 > [!timeline] 生平与职涯
 > - **1890** 出生于普鲁士莫吉尔诺（今波兰境内）的犹太家庭。
-> - **1916** 在柏林大学获心理学博士学位，师从格式塔心理学家 Carl Stumpf。
+> - **1916** 在[[Isaiah Berlin|柏林]]大学获心理学博士学位，师从格式塔心理学家 Carl Stumpf。
 > - **1921–1933** 在柏林大学心理学研究所任教，与格式塔心理学派（Wertheimer、Köhler、Koffka）密切合作，发展场论（[[Champ\|field]] theory）。
 > - **1933** 因纳粹上台移居美国，先后在康奈尔大学和艾奥瓦大学儿童福利研究所工作。
 > - **1944** 在麻省理工学院（MIT）创立群体动力学研究中心。
@@ -77,7 +79,7 @@ updated: 2026-09-18
 
 > [!thought-timeline] 思想发展
 > - **1910s–1930s — 格式塔心理学与场论**
->   在柏林大学期间，勒温将格式塔心理学的整体性原则扩展到社会行为和动机领域。
+>   在[[Isaiah Berlin|柏林]]大学期间，勒温将格式塔心理学的整体性原则扩展到社会行为和动机领域。
 >   - **代表著作** *A Dynamic Theory of Personality*（1935）; *Principles of Topological Psychology*（1936）
 >   - **关键概念／方法** 场论（行为是人与环境的函数: B = f(P, E)）、生活空间（life space）、拓扑心理学
 >   - **阶段转向** 从个体心理动力学转向群体和社会行为研究

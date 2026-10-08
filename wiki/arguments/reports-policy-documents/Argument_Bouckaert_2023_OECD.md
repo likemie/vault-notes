@@ -7,7 +7,7 @@ title: "Argument_Bouckaert_2023_OECD"
 argument_key: "Argument_Bouckaert_2023_OECD"
 argument_display_title: "The assessment of students' creative and critical thinking skills in higher education across OECD countries: A review of policies and related practices (OECD Education Working Papers No"
 argument_kind: "report"
-argument_related_count: 114
+argument_related_count: 115
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -115,7 +115,8 @@ related_instruments:
   - "[[CALOHEE Assessment Reference Frameworks]]"
   - "[[OECD Rubrics for Creativity and Critical Thinking]]"
   - "[[Remote Associates Test]]"
-related_persons: []
+related_persons:
+  - "[[Isaiah Berlin]]"
 related_facts:
   - "[[OECD]]"
   - "[[KoKoHs Program]]"
@@ -434,7 +435,7 @@ updated: 2026-09-18
 >
 > （pp. 27–29）
 
-> [!case] 欧洲 CALOHEE 项目、都柏林描述符与全美质量测量工具清单
+> [!case] 欧洲 CALOHEE 项目、都[[Isaiah Berlin|柏林]]描述符与全美质量测量工具清单
 > - **欧洲资格标准体系与都柏林描述符（Dublin Descriptors）**
 >   - **博洛尼亚成果元基准** [[Bologna Process\|博洛尼亚进程]]采纳的都柏林描述符（Dublin Descriptors）将批判判断（Making Judgements）与复杂问题解决确立为本硕博核心资格；但由于其高度抽象，欧洲各大学在微观考核对齐中普遍受阻，直接倒逼了学科化量规的诞生（pp. 12–14, 27）。
 > - **全美质量测量工具清单调查（[[Measuring Quality Inventory]]）**

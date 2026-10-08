@@ -7,10 +7,10 @@ aliases:
 summary: "指在重大国家科技工程与高风险研发中，以行动优先、立即可见实效与技术可行性（技术精妙即去建造）为导向的工程实践哲学；强调成果交付与实战效能，同时要求反思性伦理与国家使命的校准以防止异化为科学非道德论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 32
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/political-economy
   - theme/technology-policy
@@ -32,6 +32,7 @@ related_concepts:
   - "[[AI Deterrence]]"
   - "[[Technological Republic]]"
   - "[[Document]]"
+  - "[[Hard Power]]"
   - "[[Artificial General Intelligence]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -46,12 +47,15 @@ related_persons:
   - "[[Alfred Nobel]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
+  - "[[Herbert Hoover]]"
 related_facts:
   - "[[Manhattan Project]]"
+  - "[[Operation Paperclip]]"
   - "[[Pause Giant AI Experiments Open Letter]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14]]"
 confidence: high
 status: active
 created: 2026-10-07
@@ -165,7 +169,9 @@ updated: 2026-10-08
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1940s — 曼哈顿[[Big Science|大科学工程]]与战时工程[[Pragmatic Paradigm|实用主义]]** [[J. Robert Oppenheimer|奥本海默]]在洛斯阿拉莫斯践行行动优先的工程哲学，战后广岛核爆引发物理学家对科学非道德论与道德原罪的反思。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 16–18)]]
+> - **1920s — [[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]]的实验精神** [[John Dewey|约翰·杜威]]提出踏入具体事物的泥泞激流，倡导以动手验证与抵制教条为核心的实验哲学。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 160–161)]]
+> - **1940s — 曼哈顿[[Big Science|大科学工程]]与战时工程[[Pragmatic Paradigm|实用主义]]** [[J. Robert Oppenheimer|奥本海默]]在洛斯阿拉莫斯践行行动优先的工程哲学；战后军方通过[[Operation Paperclip|回形针行动]]招募 1600 余名前纳粹德国科学家，展现出以国家[[Hard Power|硬实力]]攻坚为绝对优先的求实作风。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 16–18)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 161)]]
+> - **1950s — [[Herbert Hoover|胡佛]]回忆录确立工程师结果责任** [[Herbert Hoover|胡佛]]系统总结工程活动直接面对物理运行检验且无法语言掩盖的客观责任机制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 160)]]
 > - **1970s–2010s — 硅谷消费主义退化** 硅谷工程师将工程才智主要投入商业软件、线上广告与快消移动应用，工程实用主义与国家防卫使命发生严重脱节。
 > - **2020s — 人工智能时代的工程实用主义重构** [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025)]] 批判科技精英在面对 [[Artificial General Intelligence|AGI]] 突破时的暂停研发逃避主义，主张重构以国家安全、实战交付与严密安全护栏为中枢的现代工程实用主义。
 
@@ -193,6 +199,7 @@ updated: 2026-10-08
 > | [[AI Deterrence]] | 概念 | 工程实用主义在先进算法时代追求的核心地缘战略威慑形态。 |
 > | [[Pragmatic Paradigm]] | 概念 | 哲学与研究方法论层面的母体[[Paradigm\|范式]]，工程实用主义为其在科技工程领域的专业实践延伸。 |
 > | [[J. Robert Oppenheimer]] | 人物 | 战时[[Big Science\|大科学工程]]实用主义行动哲学的代表性历史人物。 |
+> | [[Operation Paperclip]] | 事实 | 二战后美国不拘成见吸纳关键前沿技术人才的重大国家行动。 |
 > | [[Pause Giant AI Experiments Open Letter]] | 事实 | 工程实用主义坚决反对与批判的消极技术叫停倡议。 |
 
 ---
@@ -201,3 +208,4 @@ updated: 2026-10-08
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025)]] — 结合[[J. Robert Oppenheimer|奥本海默]][[Manhattan Project|曼哈顿计划]]历史与当代 AI 工程师文化，系统论述工程[[Pragmatic Paradigm|实用主义]]在打造锋利防务工具与防范科学非道德论异化中的核心定位。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025)]] — 引用[[John Dewey|杜威]]、[[Herbert Hoover|胡佛]]与[[Operation Paperclip|回形针行动]]历史，论证以客观代码运行为唯一尺度并深入泥泞具体事物之中的工程实用主义[[Epistemology|认识论]]。

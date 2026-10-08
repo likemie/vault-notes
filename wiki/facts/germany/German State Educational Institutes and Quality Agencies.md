@@ -13,7 +13,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -54,6 +54,8 @@ related_arguments:
   - "[[Argument_Kelly_2025_ROE]]"
 related_theories:
   - "[[Organizational Culture]]"
+related_persons:
+  - "[[Isaiah Berlin]]"
 confidence: high
 status: completed
 created: 2026-09-26
@@ -111,7 +113,7 @@ updated: 2026-10-08
 > | **QUA-LiS NRW**<br>Qualitäts- und UnterstützungsAgentur – Landesinstitut für Schule NRW | 北莱茵-威斯特法伦州（索斯特） | 统筹全州课程大纲编制、教师进修、学校咨询；主导《学校发展研究文丛》出版 | 主办 2018 年 KBBB [[Knowledge Transfer\|知识转移]]大会；深度参与 FMS 平台共建 | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 8)]] |
 > | **ISB Bayern**<br>Staatsinstitut für Schulqualität und Bildungsforschung | 巴伐利亚州（慕尼黑） | 办学质量监测、全州统测试卷研制、学科教学法与实证教育[[Research Translation\|研究转化]] | 研发巴伐利亚 LehrplanPLUS 课程大纲体系与数字化教学资源库 | [[Argument_Dedering_2009_EERJ\|Dedering (2009, p. 485)]] |
 > | **LI Hamburg**<br>Landesinstitut für Lehrerbildung und Schulentwicklung | 汉堡自由汉萨市（汉堡） | 贯通第二阶段见习教师培养（Referendariat）与职后培训；开展低利害形成性治理 | 与 [[Institute for Educational Monitoring and Quality Improvement\|IfBQ]] 协同开展校长“同侪案例会商”（Kollegiale Fallberatung） | [[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 231)]] |
-> | **LISUM**<br>Landesinstitut für Schule und Medien Berlin-Brandenburg | 柏林-勃兰登堡跨州（路德维希费尔德） | 跨联邦州课程共建、数字媒体教育推进、中小学教学支持平台运营 | 研发柏林-勃兰登堡跨州联合统一教学大纲与数字媒介素养指南 | KMK (2015, p. 13) |
+> | **LISUM**<br>Landesinstitut für Schule und Medien Berlin-Brandenburg | [[Isaiah Berlin\|柏林]]-勃兰登堡跨州（路德维希费尔德） | 跨联邦州课程共建、数字媒体教育推进、中小学教学支持平台运营 | 研发柏林-勃兰登堡跨州联合统一教学大纲与数字媒介素养指南 | KMK (2015, p. 13) |
 
 ---
 

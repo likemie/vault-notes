@@ -7,7 +7,7 @@ summary: "英国开放大学经济与人文地理学荣休教授，拓扑空间�
 type: person
 nationality: "uk"
 person_region: "uk"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -40,6 +40,7 @@ related_methods:
 related_persons:
   - "[[Sigrid Hartong]]"
   - "[[Bob Lingard]]"
+  - "[[Isaiah Berlin]]"
   - "[[Bruno Latour]]"
   - "[[Stephen Ball]]"
 related_facts:
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-10-08
 ---
 
 # John Allen
@@ -99,7 +100,7 @@ updated: 2026-09-22
 ## 核心思想
 
 > [!claim] 核心主张
-> 空间并非独立于社会实践之外的客观物理舞台，而是由权力关系不断建构、拉伸与折叠的拓扑构型。传统以公里或国界测量的“远与近”不再反映权力的真实效能；通过[[Data Infrastructure\|数据基础设施]]、标准工具与象征符号的连接，处于遥远物理时空的行动者（如巴黎的 [[OECD]] 或柏林的 [[Institute for Educational Quality Improvement\|IQB]]）能够在微观基层空间中实现高度密集的即时在场与有效[[Disciplina and Doctrina\|规训]]（Allen, 2011; [[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 137–138]]）。
+> 空间并非独立于社会实践之外的客观物理舞台，而是由权力关系不断建构、拉伸与折叠的拓扑构型。传统以公里或国界测量的“远与近”不再反映权力的真实效能；通过[[Data Infrastructure\|数据基础设施]]、标准工具与象征符号的连接，处于遥远物理时空的行动者（如巴黎的 [[OECD]] 或[[Isaiah Berlin|柏林]]的 [[Institute for Educational Quality Improvement\|IQB]]）能够在微观基层空间中实现高度密集的即时在场与有效[[Disciplina and Doctrina\|规训]]（Allen, 2011; [[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 137–138]]）。
 
 > [!citation-card] 拓扑临近性与空间的折叠
 > 拓扑学视角重塑了对距离与权力的理解：

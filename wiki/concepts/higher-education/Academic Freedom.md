@@ -7,7 +7,7 @@ aliases:
 summary: "大学教师与学生在追求学术真理、传播思想、开展科研以及决定教学与学业评价方式上享有的不受非学术干预的法定与制度化自主权；既是知识生产开放渗透性的基石，也是产学合作知识产权张力与高教宏观政策微观转译的核心中介。"
 type: concept
 domain: "higher-education"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -54,6 +54,7 @@ related_methods:
   - "[[Multiple-Choice Questions]]"
 related_instruments: []
 related_persons:
+  - "[[Isaiah Berlin]]"
   - "[[Erich Bloch]]"
 related_facts:
   - "[[OECD]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-26
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Academic Freedom
@@ -228,7 +229,7 @@ updated: 2026-10-07
 ## 概念演变
 
 > [!dev-timeline] 学术自由制度演进历程
-> - **19 世纪初 — 德国洪堡大学理想奠定基石** 1810 年柏林大学创办确立教学与科研统一原则，教学自由（Lehrfreiheit）与学习自由（Lernfreiheit）成为现代大学制度母本。[[Argument_Atkinson_2008_TIS\|(Atkinson & Blanpied, 2008, pp. 32–33)]]
+> - **19 世纪初 — 德国洪堡大学理想奠定基石** 1810 年[[Isaiah Berlin|柏林]]大学创办确立教学与科研统一原则，教学自由（Lehrfreiheit）与学习自由（Lernfreiheit）成为现代大学制度母本。[[Argument_Atkinson_2008_TIS\|(Atkinson & Blanpied, 2008, pp. 32–33)]]
 > - **19 世纪末至 20 世纪初 — 美式专业保护与长聘制度确立** 结合赠地学院实用传统与洪堡科研理想，1915 年美国大学教授协会（AAUP）发布《原则宣言》，将学术自由与终身教职（Tenure）制度化结合。[[Argument_Boccanfuso_Hall_2025_OrgStrategy\|(Boccanfuso & Hall, 2025b, p. 11)]]
 > - **1945 年至 1950 年代 — 战后科学契约确立政府资助而不干预原则** [[Science, The Endless Frontier 1945|布什报告]]与 [[National Science Foundation|NSF]] 的成立确立了国家资助基础研究、由同行评议自主掌控科研优先级的制度共识，将学术自治提升为国家创新中枢的法律宪章。[[Argument_Atkinson_2008_TIS\|(Atkinson & Blanpied, 2008, pp. 35–36)]]
 > - **1970 年代至 2000 年代 — 单一正统瓦解与理论[[Pluralism|多元主义]]时代** 比较社会科学告别单一[[Structural Functionalism|结构功能主义]]垄断，多元[[Paradigm|范式]]共存确立了学者在[[Epistemology|认识论]]层面的自主选择权。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, p. 132)]]

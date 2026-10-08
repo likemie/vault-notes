@@ -8,10 +8,10 @@ summary: "美国哲学家、社会心理学家与社会学家，实用主义哲�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 31
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 32
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: "1863"
 died: "1931"
 lifespan: "1863–1931"
@@ -49,6 +49,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[Michael Gove]]"
+  - "[[Isaiah Berlin]]"
   - "[[John Dewey]]"
   - "[[Horace Mann]]"
   - "[[Erving Goffman]]"
@@ -62,7 +63,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # George Herbert Mead
@@ -89,7 +90,7 @@ updated: 2026-10-07
 > - **1863年** 出生于美国马萨诸塞州南哈德利一个公理会牧师与学者家庭，父亲为神学教授，母亲曾任曼荷莲学院（Mount Holyoke College）院长。
 > - **1879–1883年** 就读于俄亥俄州奥伯林学院（Oberlin College），毕业后曾从事乡村学校教师、家庭教师与威斯康星中央铁路勘测测绘员等职业。
 > - **1887–1888年** 进入哈佛大学深造，研读哲学与心理学，受教于乔赛亚·罗伊斯（Josiah Royce）与威廉·詹姆斯（William James），确立了对反思意识与经验心理学的浓厚兴趣。
-> - **1888–1891年** 游学德国，先后在莱比锡大学和柏林大学学习生理心理学、[[Epistemology\|认识论]]与国民经济学，深受威廉·冯特（Wilhelm Wundt）的手势（Gestures）理论启迪。
+> - **1888–1891年** 游学德国，先后在莱比锡大学和[[Isaiah Berlin|柏林]]大学学习生理心理学、[[Epistemology\|认识论]]与国民经济学，深受威廉·冯特（Wilhelm Wundt）的手势（Gestures）理论启迪。
 > - **1891–1894年** 经[[John Dewey\|约翰·杜威]]（[[John Dewey]]）引荐受聘于密歇根大学担任哲学与心理学讲师，结识查尔斯·霍顿·库利（Charles Horton Cooley），萌发“镜中我”与社会自我的互动思索。
 > - **1894–1931年** 随杜威一同移席新成立的芝加哥大学，在此执教长达37年。在此期间担任赫尔之家（Hull House）重要参与者与财务主管，与简·亚当斯（Jane Addams）紧密协作推动劳动立法、移民融合与[[Progressive Education\|进步主义教育]]改革实验。
 > - **1931年** 4月26日因心力衰竭逝世于芝加哥。因支持哲学系同仁抗议罗伯特·哈钦斯（Robert Hutchins）与莫蒂默·阿德勒（Mortimer J. Adler）的新托马斯主义改革而刚递交辞呈，原定转往哥伦比亚大学执教未果。

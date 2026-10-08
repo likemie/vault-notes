@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Metascience]]"
+  - "[[Red Tape]]"
   - "[[Creativity]]"
   - "[[Portfolio-Based Research Funding]]"
   - "[[Academic Risk Aversion]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Fast Grants
@@ -67,7 +68,7 @@ updated: 2026-10-07
 ## 方案设计与运行机制
 
 > [!claim] 核心机制假说
-> **极速决策与无行政包袱资助假说** 通过极简申报表格、全天候专家决策与零繁文缛节拨款，能够将优秀学者从无休止的基金文书写作中解脱出来，在技术突破与危机应对的黄金窗口期内释放最大的[[Creativity|创造力]]与敏捷行动力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
+> **极速决策与无行政包袱资助假说** 通过极简申报表格、全天候专家决策与零[[Red Tape|繁文缛节]]拨款，能够将优秀学者从无休止的基金文书写作中解脱出来，在技术突破与危机应对的黄金窗口期内释放最大的[[Creativity|创造力]]与敏捷行动力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
 
 > [!policy-design]- 极简方案设计与敏捷流程
 > - **极简申请[[Questionnaire|问卷]]** 申请人仅需填写一页简短表格，陈述三项核心内容：过去的研究成就背景、本次意图攻关的核心科学问题、若获得资助能够在未来几周内启动何种实质性实验。

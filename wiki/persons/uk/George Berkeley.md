@@ -7,7 +7,7 @@ summary: "爱尔兰哲学家与克洛因主教，经验论—唯心论代表人�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons:
+  - "[[Isaiah Berlin]]"
   - "[[René Descartes]]"
   - "[[Plato]]"
   - "[[John Locke]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-09-22
+updated: 2026-10-08
 ---
 # George Berkeley
 
@@ -58,7 +59,7 @@ updated: 2026-09-22
 
 > [!note]-
 > - **1685** — 出生于爱尔兰基尔肯尼（Kilkenny）的一个英格兰裔新教徒家庭
-> - **1700–1707** — 就读于都柏林三一学院（Trinity College Dublin），学习洛克、[[René Descartes\|笛卡尔]]和牛顿哲学
+> - **1700–1707** — 就读于都[[Isaiah Berlin|柏林]]三一学院（Trinity College Dublin），学习洛克、[[René Descartes\|笛卡尔]]和牛顿哲学
 > - **1707–1713** — 在三一学院任研究员，期间出版《视觉新论》（1709）和《人类知识原理》（1710），提出其唯心论哲学的核心论点
 > - **1713** — 出版《海拉斯与斐洛努斯的三篇对话》（*Three Dialogues between Hylas and Philonous*），以对话形式生动阐述其哲学。Li 在第 2 章中引用了此文本([[Argument_Li_2012_Cambridge\|Li, 2012, p.30 脚注 26]])
 > - **1713–1721** — 两次访问欧洲大陆，结交欧洲学者

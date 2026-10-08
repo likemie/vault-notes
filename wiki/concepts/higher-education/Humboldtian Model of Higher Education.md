@@ -11,7 +11,7 @@ aliases:
 summary: "19世纪初由威廉·冯·洪堡在创办柏林大学时确立的现代大学制度原型；确立了教学与科研相统一、学术自由与寂寞独处的现代高教三大核心原则，首次打破了中世纪与启蒙时代欧洲大学不从事科研的传统，成为现代研究型大学的奠基母本与全球高等教育转型的制度源头。"
 type: concept
 domain: "higher-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -39,10 +39,12 @@ related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
 related_methods:
   - "[[Experimental Research]]"
+related_persons:
+  - "[[Isaiah Berlin]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-08
 ---
 
 # Humboldtian Model of Higher Education
@@ -52,7 +54,7 @@ updated: 2026-10-02
 ## 定义
 
 > [!def] 核心定义
-> 洪堡高等教育模式（Humboldtian Model of Higher Education）是普鲁士教育改革家威廉·冯·洪堡（Wilhelm von Humboldt）于 1809–1810 年主持创办柏林大学（今柏林洪堡大学）时确立的现代[[Research Universities|研究型大学]]办学理念与制度组织[[Paradigm|范式]]；该模式从根本上推翻了中世纪至 18 世纪欧洲大学仅作为“既有已知知识传播中介”的狭隘经院传统，首次在世界高等教育史上将**科学研究（[[Knowledge Production|知识生产]]）**提升为大学教授的法定核心天职，并确立了**教学与科研相结合（Einheit von Lehre und Forschung）**的不可分割性。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–33)]]
+> 洪堡高等教育模式（Humboldtian Model of Higher Education）是普鲁士教育改革家威廉·冯·洪堡（Wilhelm von Humboldt）于 1809–1810 年主持创办[[Isaiah Berlin|柏林]]大学（今柏林洪堡大学）时确立的现代[[Research Universities|研究型大学]]办学理念与制度组织[[Paradigm|范式]]；该模式从根本上推翻了中世纪至 18 世纪欧洲大学仅作为“既有已知知识传播中介”的狭隘经院传统，首次在世界高等教育史上将**科学研究（[[Knowledge Production|知识生产]]）**提升为大学教授的法定核心天职，并确立了**教学与科研相结合（Einheit von Lehre und Forschung）**的不可分割性。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–33)]]
 
 > [!concept-lens] 概念透镜
 > - **制度突破** 打破长达数百年将科学发现排斥在大学体制之外、仅依托私人赞助或外部王室[[Chinese Academy of Sciences|科学院]]的旧格局，使大学一跃成为国家知识生产的中心。
@@ -76,7 +78,7 @@ updated: 2026-10-02
 ## 制度演进与跨国移植路径
 
 > [!dev-timeline] 洪堡模式的历史演化与全球辐射
-> - **1810 — 柏林大学创办奠定制度母本** 洪堡将德国唯心主义哲学理想融入大学规划，首先在古典语言学、哲学与历史学等文科领域实行基于[[Primary and Secondary Documents|原始文献]]批判的研究型研讨班（Seminar）教学制。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 32)]]
+> - **1810 — [[Isaiah Berlin|柏林]]大学创办奠定制度母本** 洪堡将德国唯心主义哲学理想融入大学规划，首先在古典语言学、哲学与历史学等文科领域实行基于[[Primary and Secondary Documents|原始文献]]批判的研究型研讨班（Seminar）教学制。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 32)]]
 > - **1826 — 李比希实验室将模式拓展至实验科学** 化学家尤斯图斯·冯·李比希（Justus von Liebig）在吉森大学创设现代首个兼具教学与前沿[[Experimental Research|实验研究]]功能的化学实验室，开创了实验台旁言传身教的现代理工科实验室[[Mentorship|导师制]]；随着 1870 年德意志帝国统一，该模式迅速转化为国家工业化学与电气产业崛起的智力支柱。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 33)]]
 > - **1876 至今 — 跨洋移植与美式[[Research Universities|研究型大学]]的诞生** 内战后的美国通过南北战争《[[Morrill Land-Grant Act of 1862|莫里尔赠地法案]]》奠定实用传统，并在 1876 年创办约翰斯·霍普金斯大学（Johns Hopkins University）时全盘借鉴洪堡科研原则；随后哈佛、哥伦比亚、芝加哥等校相继转型，将洪堡“科教融合”与美国研究生院体制（Graduate School）深度熔铸，孕育出当代全球卓越的顶尖研究型大学群落。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31, 33)]]
 

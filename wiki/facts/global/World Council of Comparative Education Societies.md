@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -41,6 +41,7 @@ related_instruments: []
 related_persons:
   - "[[Brian Holmes]]"
   - "[[Wolfgang Mitter]]"
+  - "[[Isaiah Berlin]]"
   - "[[Robert Cowen]]"
   - "[[Jurgen Schriewer]]"
   - "[[Carlos Alberto Torres]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # World Council of Comparative Education Societies
@@ -81,7 +82,7 @@ updated: 2026-10-07
 > [!dev-timeline] 组织发展历程
 > - **1970–1976 — 奠基与国际制度化初创期** 在渥太华首届世界大会后，加拿大教育学者约瑟夫·卡茨（Joseph Katz）当选首任会长。联合会确立了多元学会平权架构，起草了宪章并确立与 [[UNESCO]] 的咨商伙伴关系。
 > - **1977–1983 — 欧洲学派领导与全球标准体系构建** 英国比较教育学家[[Brian Holmes|布莱恩·霍姆斯]]（[[Brian Holmes]]，伦敦大学教育学院教授兼 [[Comparative Education Society in Europe|CESE]] 核心发起人）出任并连任两届 WCCES 主席。霍姆斯推动 WCCES 与 UNESCO、IBE 合作编制《[[International Education|国际教育]]系统指南》（*International Guide to Education Systems*, 1979），并在国际学会网络中普及以科学检验与政策预测为导向的[[Problem Approach|问题解决法]]。
-> - **1991–1996 — 冷战终结与后社会主义转型评估** 德国比较教育学家[[Wolfgang Mitter|沃尔夫冈·米特]]（[[Wolfgang Mitter]]）主政 WCCES 出任会长。在柏林墙倒塌与苏东剧变的历史时刻，联合会发挥超越地缘政治阵营对抗的桥梁功能，积极接纳东欧与后苏联新成立的比较教育学会，系统协调对后社会主义国家教育体制剧烈转型的国际学术评估。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
+> - **1991–1996 — 冷战终结与后社会主义转型评估** 德国比较教育学家[[Wolfgang Mitter|沃尔夫冈·米特]]（[[Wolfgang Mitter]]）主政 WCCES 出任会长。在[[Isaiah Berlin|柏林]]墙倒塌与苏东剧变的历史时刻，联合会发挥超越地缘政治阵营对抗的桥梁功能，积极接纳东欧与后苏联新成立的比较教育学会，系统协调对后社会主义国家教育体制剧烈转型的国际学术评估。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
 > - **1990s 初 — “理论转型委员会”创设与跨大西洋学术交锋** 布莱恩·霍姆斯倡议在世界大会机制下设立专门的“理论转型委员会”（Commission dealing with the observation and development of theory shifts within WCCES）。由欧洲方面的[[Robert Cowen|罗伯特·考恩]]（[[Robert Cowen]]）与尤尔根·施瑞威尔（[[Jurgen Schriewer]]），协同海外学者欧文·爱泼斯坦（Erwin Epstein）与安东尼·韦尔奇（Anthony Welch）共同领衔，深入审议全球化、[[Postmodernism|后现代主义]]与世界体系论对比较教育学科母体的冲击。
 > - **2000s 至今 — 全球南方转向与批判[[Paradigm|范式]]深化** 随着比较教育研究地理视野的极大拓展，联合会大会先后在韩国首尔（2001）、古巴哈瓦那（2004，第 12 届世界大会）、土耳其伊斯坦布尔（2007）、阿根廷布宜诺斯艾利斯（2013）及中国北京（2016）等地举行。至 2007 年，WCCES 成员学会规模已稳步扩张至 33 个国家与区域学会，成为学科从西方中心走向全球多中心“国际化”（internationalization）的最核心制度表征。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 129–130)]] 马克·布雷（Mark Bray）、[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]（[[Carlos Alberto Torres]]）等先后主政，强化学会对于[[Critical Pedagogy|批判教育学]]、[[Global Citizenship|全球公民教育]]、社会正义与非西方[[Epistemology|认识论]]传统的包容。
 

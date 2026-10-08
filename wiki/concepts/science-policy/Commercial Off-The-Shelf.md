@@ -10,7 +10,7 @@ aliases:
 summary: "指由私营市场基于商业竞争自主研发并公开发售的标准化成熟产品或软件服务；在现代防务创新与科技政策中，COTS 采购模式作为打破传统军工科层制定制采购垄断、解决软硬件开发迟滞并加速前沿民用技术向国家硬实力转化的关键制度工具。"
 type: concept
 domain: "science-policy"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Champ]]"
   - "[[Bureaucracy]]"
+  - "[[Red Tape]]"
   - "[[Hard Power]]"
   - "[[Dual-Use Technology]]"
   - "[[Consumer Internet]]"
@@ -61,7 +62,7 @@ updated: 2026-10-08
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向技术研发与供给的发生[[Champ|场域]]由封闭的政府定制体系向开放竞争的商业市场转移，强调利用市场成熟产品直接满足公共部门需求。
-> - **用途** 帮助研究者透视传统[[Bureaucracy|科层制]]政府采购中的冗余成本、过度规范（Red Tape）与开发迟滞，解释民用尖端技术（尤其是软件与人工智能）如何跨越军民隔离壁垒转化为国家[[Hard Power|硬实力]]。
+> - **用途** 帮助研究者透视传统[[Bureaucracy|科层制]]政府采购中的冗余成本、过度规范（[[Red Tape]]）与开发迟滞，解释民用尖端技术（尤其是软件与人工智能）如何跨越军民隔离壁垒转化为国家[[Hard Power|硬实力]]。
 > - **边界** 不适用于涉及最高国家机密、市场上完全不存在民用先例且必须由国家主导的特种战略工程；混淆点在于 COTS 并非廉价低质代名词，而在数字与软件时代往往代表着比军工定制系统更高性能与更友好的操作体验。
 
 > [!citation-card] 商用现货技术的法定优先采购原则
@@ -84,7 +85,7 @@ updated: 2026-10-08
 > | **产品演化速度** | 随市场真实用户高频反馈与商业竞争持续快速迭代 | 受制于冗长采办程序与多级分包，常历时数年甚至数十年 |
 > | **成本与定价机制** | 遵循公开市场供需与规模经济定价，边际成本极低 | 基于复杂的成本加成核算审计，极易诱发高昂浪费 |
 > | **开发者与用户距离** | 软件开发者与一线实际使用者高度亲密、保持紧密互动与即时反馈 | 软件外包层级森严，开发团队严重脱离一线实战情境 |
-> | **进入壁垒** | 面向全体商业创新企业开放，破除军工垄断 | 依靠繁琐的特许资质与繁文缛节形成封闭垄断网络 |
+> | **进入壁垒** | 面向全体商业创新企业开放，破除军工垄断 | 依靠繁琐的特许资质与[[Red Tape\|繁文缛节]]形成封闭垄断网络 |
 
 ---
 
@@ -119,7 +120,7 @@ updated: 2026-10-08
 > 传统政府定制采购模式倾向于为每一项日常物资制定极端繁琐的军工规格说明书，并强加苛刻的成本核算审计，导致政府无法在市场上购买甚至包括对讲机、螺栓或锤子在内的普通民用品；推行商用现货优先采购原则能够从根源上斩断科层自保机制，促使公共部门共享民用市场的创新红利。
 
 > [!claim] Karp & Zamiska
-> **传统定制采购的科层制异化与 COTS 的制度突围** [[Alexander Karp|亚历山大·卡普]]（[[Alexander Karp|Alexander C. Karp]]）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Nicholas Zamiska|Nicholas W. Zamiska]]）指出，海湾战争期间美国空军由于摩托罗拉无法满足国防部严苛特殊的成本核算凭据，一度无法合法采购市场上不足 20 美元的现成商用手持对讲机，最终被迫绕道日本政府转购；副总统戈尔（Al Gore）更曾曝光美国陆军曾为烤饼干起草 700 多页的技术规范。这种定制采购体制实际上将政府异化为一个自说自话的封闭机器。《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]》（[[Federal Acquisition Streamlining Act of 1994|FASA 1994]]）确立的 COTS 优先采购法定原则，正是重构政府采购常识与打破繁文缛节的关键转折。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 145–151)]]
+> **传统定制采购的科层制异化与 COTS 的制度突围** [[Alexander Karp|亚历山大·卡普]]（[[Alexander Karp|Alexander C. Karp]]）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Nicholas Zamiska|Nicholas W. Zamiska]]）指出，海湾战争期间美国空军由于摩托罗拉无法满足国防部严苛特殊的成本核算凭据，一度无法合法采购市场上不足 20 美元的现成商用手持对讲机，最终被迫绕道日本政府转购；副总统戈尔（Al Gore）更曾曝光美国陆军曾为烤饼干起草 700 多页的技术规范。这种定制采购体制实际上将政府异化为一个自说自话的封闭机器。《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]》（[[Federal Acquisition Streamlining Act of 1994|FASA 1994]]）确立的 COTS 优先采购法定原则，正是重构政府采购常识与打破[[Red Tape|繁文缛节]]的关键转折。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 145–151)]]
 
 ---
 

@@ -10,7 +10,7 @@ title: "Argument_Skourdoumbis_2024_AER"
 argument_key: "Argument_Skourdoumbis_2024_AER"
 argument_display_title: "A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement"
 argument_kind: "journal-article"
-argument_related_count: 49
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Causality]]"
   - "[[Document]]"
+  - "[[Red Tape]]"
   - "[[What Works Movement]]"
   - "[[Knowledge Production]]"
   - "[[Epistemology]]"
@@ -107,7 +108,7 @@ citation_aliases:
 
 > [!concept-lens]- 阅读透镜
 > - **对象** 澳大利亚联邦政府2023年发布的《强劲开端：教师教育专家小组报告》（*Strong Beginnings*），特别是其中将“大脑与学习”（神经科学）列为初始教师教育（ITE）必修核心课程的优先改革1（Priority Reform 1）及附录D的核心内容规范与指定参考[[Document\|文献]]。
-> - **张力** 一方面，教师流失与短缺的核心原因是“工作量过大”和“行政繁文缛节”等结构性与劳动环境问题（如2021年QITE审查所指出的）；另一方面，改革方案却将问题归咎于“教师培训质量不足”和“课堂准备度不够”，试图通过强制推行标准化、生物简化主义的“大脑与学习”课程来解决。此外，在提倡价值中立、客观“循证”的同时，改革却强制指定由保守智库（CIS）资助、尚未经过同行评审的未发表证据，这构成了话语与实际利益之间的张力。
+> - **张力** 一方面，教师流失与短缺的核心原因是“工作量过大”和“行政[[Red Tape|繁文缛节]]”等结构性与劳动环境问题（如2021年QITE审查所指出的）；另一方面，改革方案却将问题归咎于“教师培训质量不足”和“课堂准备度不够”，试图通过强制推行标准化、生物简化主义的“大脑与学习”课程来解决。此外，在提倡价值中立、客观“循证”的同时，改革却强制指定由保守智库（CIS）资助、尚未经过同行评审的未发表证据，这构成了话语与实际利益之间的张力。
 > - **贡献** 运用批判政策社会学视角与Bacchi的[[Bacchi's WPR Approach\|WPR方法]]，去除了神经科学在教育政策中“价值中立”的伪装，揭示了“[[What Works Movement\|什么有效运动]]”如何通过中介组织（AERO）、评估机构（AITSL）和保守智库（CIS）的权力网络进行“理念编排”，实现了对初始教师教育的监视蔓延与惩罚性问责，进而削弱了教师的专业自主权与大学教师教育者的专业地位。
 
 ---
@@ -192,7 +193,7 @@ citation_aliases:
 > | :--- | :--- | :--- |
 > | **核心痛点** | 过度工作量与行政繁文缛节是离职与供给不足的主因（Heffernan et al., 2022） | 教师准备度不足，缺乏课堂就绪度（p. 23） |
 > | **满意度数据** | 毕业生对 ITE 课程的整体满意度高达 75%，就业率和起薪表现优异（GOS, 2023） | 强调 32% 的毕业生期盼更好课程内容，以弱[[Causality\|因果]]推论支撑改革 |
-> | **政策回应性** | 2021年 QITE 明确建议“减少工作量”（建议3），去除繁文缛节（p. vi） | 全文 120 页仅提 2 次工作量且与实习体验绑定，回避结构性负荷 |
+> | **政策回应性** | 2021年 QITE 明确建议“减少工作量”（建议3），去除[[Red Tape\|繁文缛节]]（p. vi） | 全文 120 页仅提 2 次工作量且与实习体验绑定，回避结构性负荷 |
 > | **改革终极靶心** | 需要政府性资源投入及雇主制度重构的结构性变革 | 剑指教师教育机构，确立并强化“对教师的缺陷看法”（Barnes, 2021, p. 8） |
 
 > [!warrant]- 推理桥梁

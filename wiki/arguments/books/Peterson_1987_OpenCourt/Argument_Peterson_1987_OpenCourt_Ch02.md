@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -62,6 +62,7 @@ related_persons:
   - "[[Alec Peterson]]"
   - "[[Max Planck]]"
   - "[[Gerard Renaud]]"
+  - "[[Isaiah Berlin]]"
 related_facts:
   - "[[International Schools Examination Syndicate]]"
   - "[[International School of Geneva]]"
@@ -383,7 +384,7 @@ updated: 2026-09-29
 > - **家长接受升学不确定性** 已经使用 GCE 或法国 baccalauréat 的学校，往往能够满足部分主要国籍家庭。家长需要相信新资格值得承担风险，学校才能让真实学生进入项目（p. 27）。
 
 > [!case] 三所拒绝采用的学校说明访问与讨论不会自动产生承诺
-> 柏林法语文理中学、柏林约翰·F·肯尼迪学校和罗马圣乔治学校都经过较多讨论，最终没有参加首批试验。拒绝并不说明学校没有改革支持者；原书指出，实验型教师小组常能启动讨论，却无法带动多数同事。首批网络因此是领导、教师与家庭条件恰好对齐后的选择结果（pp. 26–27）。
+> [[Isaiah Berlin|柏林]]法语文理中学、柏林约翰·F·肯尼迪学校和罗马圣乔治学校都经过较多讨论，最终没有参加首批试验。拒绝并不说明学校没有改革支持者；原书指出，实验型教师小组常能启动讨论，却无法带动多数同事。首批网络因此是领导、教师与家庭条件恰好对齐后的选择结果（pp. 26–27）。
 
 > [!case] 双轨过渡降低家庭风险，也复制了多轨备考的资源浪费
 > - **保留国家资格可以减少采用阻力** 一些学校把 IB 作为替代轨道，同时继续为需要 GCE A-level 的学生备考。家庭可以保留熟悉的大学通道，学校较容易开始试验。

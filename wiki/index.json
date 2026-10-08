@@ -9283,6 +9283,17 @@
     ]
   },
   {
+    "title": "Red Tape",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Red Tape.md",
+    "aliases": [
+      "繁文缛节",
+      "红绳现象",
+      "形式主义规章",
+      "官僚繁文缛节"
+    ]
+  },
+  {
     "title": "Regulatory Regionalism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Regulatory Regionalism.md",
@@ -15802,6 +15813,19 @@
     ]
   },
   {
+    "title": "Hedgehog and Fox Model",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Hedgehog and Fox Model.md",
+    "aliases": [
+      "刺猬与狐狸思维模型",
+      "刺猬与狐狸模型",
+      "刺猬型与狐狸型思维",
+      "刺猬与狐狸",
+      "Hedgehog and Fox",
+      "Hedgehog and Fox Framework"
+    ]
+  },
+  {
     "title": "Hegemony",
     "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/Hegemony.md",
@@ -16317,6 +16341,19 @@
       "spatial triad",
       "production of space",
       "空间的产生"
+    ]
+  },
+  {
+    "title": "Mimetic Theory",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Mimetic Theory.md",
+    "aliases": [
+      "模仿理论",
+      "模仿欲望理论",
+      "拟态理论",
+      "拟态欲望理论",
+      "勒内·吉拉尔模仿理论",
+      "Mimetic Desire Theory"
     ]
   },
   {
@@ -17309,6 +17346,19 @@
       "田野研究",
       "实地调查",
       "field research"
+    ]
+  },
+  {
+    "title": "Five Whys",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Five Whys.md",
+    "aliases": [
+      "五问法",
+      "5个为什么",
+      "五个为什么",
+      "5 Whys",
+      "根本原因分析法",
+      "5-Why Analysis"
     ]
   },
   {
@@ -21699,6 +21749,17 @@
     ]
   },
   {
+    "title": "René Girard",
+    "type": "person",
+    "path": "wiki/persons/france/René Girard.md",
+    "aliases": [
+      "勒内·吉拉尔",
+      "吉拉尔",
+      "Girard, R.",
+      "René Girard"
+    ]
+  },
+  {
     "title": "Sébastien Bubeck",
     "type": "person",
     "path": "wiki/persons/france/Sébastien Bubeck.md",
@@ -22127,6 +22188,15 @@
     "aliases": [
       "大前研一",
       "Ohmae, K."
+    ]
+  },
+  {
+    "title": "Taiichi Ohno",
+    "type": "person",
+    "path": "wiki/persons/japan/Taiichi Ohno.md",
+    "aliases": [
+      "大野耐一",
+      "Ohno, T."
     ]
   },
   {
@@ -22697,6 +22767,16 @@
     ]
   },
   {
+    "title": "Isaiah Berlin",
+    "type": "person",
+    "path": "wiki/persons/uk/Isaiah Berlin.md",
+    "aliases": [
+      "以赛亚·柏林",
+      "柏林",
+      "Berlin, I."
+    ]
+  },
+  {
     "title": "Janusz Tomiak",
     "type": "person",
     "path": "wiki/persons/uk/Janusz Tomiak.md",
@@ -22905,6 +22985,15 @@
       "路易斯·蒙巴顿",
       "Mountbatten, L.",
       "Lord Mountbatten"
+    ]
+  },
+  {
+    "title": "Lucian Freud",
+    "type": "person",
+    "path": "wiki/persons/uk/Lucian Freud.md",
+    "aliases": [
+      "卢西安·弗洛伊德",
+      "Freud, L."
     ]
   },
   {
@@ -24133,6 +24222,16 @@
     ]
   },
   {
+    "title": "Herbert Hoover",
+    "type": "person",
+    "path": "wiki/persons/us/Herbert Hoover.md",
+    "aliases": [
+      "赫伯特·胡佛",
+      "胡佛",
+      "Hoover, H."
+    ]
+  },
+  {
     "title": "Hilda Taba",
     "type": "person",
     "path": "wiki/persons/us/Hilda Taba.md",
@@ -24225,6 +24324,16 @@
       "道格拉斯",
       "Jack D. Douglas",
       "Douglas, J. D."
+    ]
+  },
+  {
+    "title": "Jackson Pollock",
+    "type": "person",
+    "path": "wiki/persons/us/Jackson Pollock.md",
+    "aliases": [
+      "杰克逊·波洛克",
+      "波洛克",
+      "Pollock, J."
     ]
   },
   {
@@ -24837,6 +24946,28 @@
     ]
   },
   {
+    "title": "Philip Tetlock",
+    "type": "person",
+    "path": "wiki/persons/us/Philip Tetlock.md",
+    "aliases": [
+      "菲利普·泰特洛克",
+      "泰特洛克",
+      "Tetlock, P. E.",
+      "Philip E. Tetlock",
+      "Tetlock, P."
+    ]
+  },
+  {
+    "title": "Ralph Waldo Emerson",
+    "type": "person",
+    "path": "wiki/persons/us/Ralph Waldo Emerson.md",
+    "aliases": [
+      "拉尔夫·沃尔多·爱默生",
+      "爱默生",
+      "Emerson, R. W."
+    ]
+  },
+  {
     "title": "Richard C. Atkinson",
     "type": "person",
     "path": "wiki/persons/us/Richard C. Atkinson.md",
@@ -25152,6 +25283,16 @@
       "托马斯·D·西利",
       "托马斯·西利",
       "西利"
+    ]
+  },
+  {
+    "title": "Thomas Hart Benton",
+    "type": "person",
+    "path": "wiki/persons/us/Thomas Hart Benton.md",
+    "aliases": [
+      "托马斯·哈特·本顿",
+      "本顿",
+      "Benton, T. H."
     ]
   },
   {
@@ -32819,6 +32960,16 @@
     ]
   },
   {
+    "title": "Operation Paperclip",
+    "type": "fact",
+    "path": "wiki/facts/us/Operation Paperclip.md",
+    "aliases": [
+      "回形针行动",
+      "纸夹行动",
+      "Paperclip Project"
+    ]
+  },
+  {
     "title": "Peer-Assisted Learning Strategies",
     "type": "fact",
     "path": "wiki/facts/us/Peer-Assisted Learning Strategies.md",
@@ -33537,6 +33688,11 @@
     "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch13",
     "type": "argument",
     "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch13.md"
+  },
+  {
+    "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch14",
+    "type": "argument",
+    "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch14.md"
   },
   {
     "title": "Argument_Kelly_Licona_2018_EpistemicPractices",

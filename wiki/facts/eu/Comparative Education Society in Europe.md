@@ -10,7 +10,7 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 33
+fact_related_count: 34
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -43,6 +43,7 @@ related_methods:
 related_persons:
   - "[[Joseph Lauwerys]]"
   - "[[Saul B. Robinsohn]]"
+  - "[[Isaiah Berlin]]"
   - "[[Edmund King]]"
   - "[[Wolfgang Mitter]]"
   - "[[Brian Holmes]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
 # Comparative Education Society in Europe
@@ -116,7 +117,7 @@ CESE 的演进催生并伴随了欧洲比较教育学术学会的多中心分化
 > [!finding-cards] 核心业务与学术产出矩阵
 > - **两年一度的 CESE 跨国学术双年会（Biennial Conferences）** 学会的旗舰交流平台，汇聚全欧及跨大西洋核心学者，历届主题紧密呼应时代脉搏（如综合中学改革、[[Positivism|实证主义]]争论、全球化挑战与欧洲维度）。
 > - **旗舰学会论文集与专业出版物** 历届年会精选论文集（如 1994 哥本哈根、2006 格拉纳达文集）构成了欧洲比较教育[[Knowledge Production|知识生产]]与理论演进的重要[[Document|文献]]档案。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 98–99)]]
-> - **欧洲大学比较教育教席建制孵化** 学会骨干在伦敦大学 IOE、汉堡大学、海德堡大学、波鸿鲁尔大学与柏林洪堡大学等名校中推动设立独立研究中心与讲席，奠定了[[Disciplinary Institutionalization|学科制度化]]基石。
+> - **欧洲大学比较教育教席建制孵化** 学会骨干在伦敦大学 IOE、汉堡大学、海德堡大学、波鸿鲁尔大学与[[Isaiah Berlin|柏林]]洪堡大学等名校中推动设立独立研究中心与讲席，奠定了[[Disciplinary Institutionalization|学科制度化]]基石。
 > - **跨国政策咨询与重大比较项目论证** 搭建高规格研讨平台，为西德马普所罗宾逊主持的《社会进程中的学校改革》以及[[Edmund King|埃德蒙·金]]的西欧后义务教育项目等跨国社会学比较课题提供学术网络支撑。
 
 > [!citation-card]- 欧洲比较教育学会初期宪章宗旨（1961年）

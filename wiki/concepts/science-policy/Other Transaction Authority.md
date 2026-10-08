@@ -10,7 +10,7 @@ aliases:
 summary: "指美国国会赋予特定联邦机构以合法绕过《联邦采购条例》及常规合同法规，依据商业灵活条款与高科技初创企业及研发联合体直接签订研发和样机试制协议的特殊法律授权。"
 type: concept
 domain: "science-policy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Cooperative Research and Development Agreement]]"
   - "[[Innovation Ecosystem]]"
   - "[[Research Translation]]"
+  - "[[Red Tape]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Other Transaction Authority
@@ -133,7 +134,7 @@ updated: 2026-10-07
 ## 争议与批评
 
 > [!tension] 敏捷采购灵活性与公共财政监督透明度的制度张力
-> - **敏捷创新与效率优先论（蓝方）** 强调在日新月异的技术竞争中，繁文缛节等于自我扼杀，必须给予项目官员充分的商业自由裁量权。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 41)]]
+> - **敏捷创新与效率优先论（蓝方）** 强调在日新月异的技术竞争中，[[Red Tape|繁文缛节]]等于自我扼杀，必须给予项目官员充分的商业自由裁量权。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 41)]]
 > - **财政问责与寻租防范论（红方）** 监管机构（如 GAO）担忧豁免 FAR 规则可能导致竞争不充分、审计盲区以及潜在的利益输送风险。
 
 ---

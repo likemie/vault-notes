@@ -44,6 +44,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Gold Standard Science]]"
   - "[[Big Science]]"
+  - "[[Red Tape]]"
   - "[[Seniority Barrier in Academia]]"
   - "[[Eroom's Law]]"
   - "[[Star Scientists]]"
@@ -142,7 +143,7 @@ title: "Argument_Kratsios_2026_OSTP"
 argument_key: "Argument_Kratsios_2026_OSTP"
 argument_display_title: "Science: A new golden age (Report to the President)"
 argument_kind: "report"
-argument_related_count: 105
+argument_related_count: 106
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -316,7 +317,7 @@ issuing_organization: "Office of Science and Technology Policy"
 
 行政编制的自我扩张与资助流程的繁复合规相互强化，在大学内部衍生出庞大的科研管理官僚层。
 
-> [!factors] 科研行政繁文缛节与间接成本膨胀的驱动机制
+> [!factors] 科研行政[[Red Tape|繁文缛节]]与间接成本膨胀的驱动机制
 > - **合规条例激增** 1991 至 2025 年间联邦政府新增科研资助合规要求逾 270 项，远超减负努力。（p. 15）
 > - **行政官僚扩张** 高校利用高额间接成本补贴膨胀行政管理编制，增速显著超越一线科研本身。（p. 15）
 > - **创新税负效应** 擅长科研行政公关的机构与学者排挤专注于硬核实验的人才，以被放弃的颠覆性突破为沉重代价。（p. 15）

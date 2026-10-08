@@ -4,7 +4,7 @@ aliases: ["APA", "APA style manual", "Publication Manual of the APA", "APA 7th e
 summary: "美国心理学会出版手册规定的学术写作与文献著录规范，是社会科学、行为科学与教育学研究中应用最广泛的学术格式，涵盖文中引用、参考文献表、标题层级、图表呈现、章节时态及包容性无偏见语言等核心规则。"
 type: concept
 domain: "academic-writing"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -14,6 +14,7 @@ related_concepts:
   - "[[GB/T 7714-2015]]"
   - "[[Voice, Tense, and Concision in Academic Writing]]"
   - "[[Literature Review]]"
+  - "[[Red Tape]]"
   - "[[Construct]]"
   - "[[Linguistic Turn]]"
   - "[[Knowledge Production]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-31
-updated: 2026-09-22
+updated: 2026-10-08
 ---
 # APA Style
 
@@ -188,7 +189,7 @@ APA 格式对学术论文不同章节的动词时态与语态提出了明确的�
 > 探讨学术写作格式的统一性如何优化读者的阅读加工机制并提升学术对话的精确度。
 
 > [!claim] Creswell & Creswell
-> **降低认知负荷** APA 格式的核心目的不是繁文缛节或装饰性排版，而是消除形式层面的视觉噪音与歧义，让读者的眼睛不停顿、思维不磕绊，从而将认知资源完全投入到对[[Construct\|理论构念]]、方法设计和实证证据的批判性审视之中。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022)]]
+> **降低认知负荷** APA 格式的核心目的不是[[Red Tape|繁文缛节]]或装饰性排版，而是消除形式层面的视觉噪音与歧义，让读者的眼睛不停顿、思维不磕绊，从而将认知资源完全投入到对[[Construct\|理论构念]]、方法设计和实证证据的批判性审视之中。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022)]]
 
 ---
 

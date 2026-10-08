@@ -14,7 +14,7 @@ aliases:
 summary: "在认识论中指能够削弱或推翻某一信念、主张或推理确证效力的反向证据或反驳理由；在智能决策与人机协同中被转化为主动呈现冲突证据的认知支架，为人类行使独立审议提供可抗辩性支持。"
 type: concept
 domain: "educational-philosophy"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -42,6 +42,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Jackson Pollock]]"
   - "[[Socrates]]"
 related_facts: []
 related_arguments:
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Defeater
@@ -59,7 +60,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> **击败者（Defeater，又称[[Epistemology|认识论]]击败者）** 源自[[Formal Epistemology|形式认识论]]与可撤销推理（Defeasible Reasoning）理论，指当主体获得某一新的信息、证据或理由 $D$ 时，原本支持信念或主张 $P$ 的正当性理由被削弱或彻底失效的认识论[[Construct|构念]]。约翰·波洛克（John L. Pollock, 1987）确立了其经典二元分类：削弱型击败者（Undercutting Defeaters，直接攻击证据源的[[Reliability|可靠性]]或推理链条的连贯性，证明原证据无法充分支持结论）与反驳型击败者（Rebutting Defeaters，直接提供支持互斥结论 $\neg P$ 或竞争性[[Hypothesis|假设]]的实质反向证据）。在现代[[Man-Computer Symbiosis|人机协同]]决策与教育技术中，击败者被维卢温坎普与伯伊斯曼（Veluwenkamp & Buijsman, 2025）及 Jovchevski 等转化为交互设计机制，通过界面主动呈现冲突性数据与替代解释，为人类操作者提供反驳算法提示的可抗辩性支持（Contestability Support），构成抵御[[Automation Bias|自动化偏差]]与维系有意义人类控制的核心[[Scaffolding|认知脚手架]]。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 23–25)]]
+> **击败者（Defeater，又称[[Epistemology|认识论]]击败者）** 源自[[Formal Epistemology|形式认识论]]与可撤销推理（Defeasible Reasoning）理论，指当主体获得某一新的信息、证据或理由 $D$ 时，原本支持信念或主张 $P$ 的正当性理由被削弱或彻底失效的认识论[[Construct|构念]]。约翰·[[Jackson Pollock|波洛克]]（John L. Pollock, 1987）确立了其经典二元分类：削弱型击败者（Undercutting Defeaters，直接攻击证据源的[[Reliability|可靠性]]或推理链条的连贯性，证明原证据无法充分支持结论）与反驳型击败者（Rebutting Defeaters，直接提供支持互斥结论 $\neg P$ 或竞争性[[Hypothesis|假设]]的实质反向证据）。在现代[[Man-Computer Symbiosis|人机协同]]决策与教育技术中，击败者被维卢温坎普与伯伊斯曼（Veluwenkamp & Buijsman, 2025）及 Jovchevski 等转化为交互设计机制，通过界面主动呈现冲突性数据与替代解释，为人类操作者提供反驳算法提示的可抗辩性支持（Contestability Support），构成抵御[[Automation Bias|自动化偏差]]与维系有意义人类控制的核心[[Scaffolding|认知脚手架]]。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 23–25)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指能够瓦解原主张确证基础的反向证据、冲突事实或逻辑漏洞，展现了人类[[Knowledge Building Theory|知识建构]]与信念更新的可撤销性本质。
@@ -142,7 +143,7 @@ updated: 2026-10-07
 ## 概念演变
 
 > [!dev-timeline] 击败者概念的演变历程
-> - **1987 — [[Formal Epistemology|形式认识论]]与可撤销推理奠基** 约翰·波洛克（John L. Pollock, 1987）在 *Cognitive Science* 发表经典论文，正式确立削弱型击败者（Undercutting）与反驳型击败者（Rebutting）的逻辑分类学，为非单调逻辑与知识确证理论奠定基础。
+> - **1987 — [[Formal Epistemology|形式认识论]]与可撤销推理奠基** 约翰·[[Jackson Pollock|波洛克]]（John L. Pollock, 1987）在 *Cognitive Science* 发表经典论文，正式确立削弱型击败者（Undercutting）与反驳型击败者（Rebutting）的逻辑分类学，为非单调逻辑与知识确证理论奠定基础。
 > - **2000s–2010s — 论辩理论与人工智能知识表示** 击败者理论被广泛应用于人工智能论辩计算（Computational Argumentation）与证据图谱构建，形式化描述冲突命题之间的攻击与防御关系。
 > - **2025 — 人机交互中的击败者设计框架确立** Herman Veluwenkamp & Stefan Buijsman (2025) 首次将击败者从抽象哲学逻辑转化为人机交互界面的设计机制（Defeater Design），提出利用反向证据呈现赋能人类操作者的可抗辩性。
 > - **2026 — 认知安全防护与[[Automation Bias|自动化偏差]]防御架构** [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 将击败者机制与反思机器整合为抵御强[[Automation Bias|自动化偏差]]的认知安全防护架构，确立其在维护有意义人类控制与防范道德审思义务让渡中的核心规范价值。

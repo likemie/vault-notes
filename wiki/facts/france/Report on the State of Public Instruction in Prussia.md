@@ -15,7 +15,7 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -52,6 +52,7 @@ related_persons:
   - "[[Marc-Antoine Jullien]]"
   - "[[Johann Wilhelm Süvern]]"
   - "[[François Guizot]]"
+  - "[[Isaiah Berlin]]"
   - "[[Calvin Stowe]]"
   - "[[Horace Mann]]"
   - "[[Henry Barnard]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-10-08
 ---
 
 # Report on the State of Public Instruction in Prussia
@@ -115,7 +116,7 @@ updated: 2026-09-06
 
 > [!timeline] 报告时间线
 > - **1830** 法国爆发七月革命，[[François Guizot\|基佐]]与库森等立宪自由派入阁掌舵公共教育政策。
-> - **1831.05** 库森接受政府正式委派，启程前往法兰克福、魏玛、柏林等地开展教育行政调查。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 26)]]
+> - **1831.05** 库森接受政府正式委派，启程前往法兰克福、魏玛、[[Isaiah Berlin|柏林]]等地开展教育行政调查。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 26)]]
 > - **1831.11** 库森完成第一阶段调查，向法国公共教育部递交初步考察报告，引起政界强烈震撼。
 > - **1832** 报告由法国皇家印刷局正式出版两卷本全书（*Rapport sur l'état de l'instruction publique*）。
 > - **1833** 库森基于该报告主笔起草《初等教育法》，国民议会顺利审议通过，史称 [[Guizot Law of 1833\|1833年基佐法案]]。（pp. 28–30）

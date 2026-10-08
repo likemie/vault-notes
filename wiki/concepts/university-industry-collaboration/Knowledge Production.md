@@ -7,7 +7,7 @@ aliases:
 summary: "知识的创造、建构与合法化过程；在宏观场域揭示资本偏向、跨国组织自指性指标帝国与高校基础科研体制变迁，在微观教育场域指向学习者在本土协商共同体中依托证据协调与认识论实践自主生成新知并内化说服优于强制的民主审议价值。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 111
+related_count: 112
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -99,6 +99,7 @@ related_methods:
   - "[[Role-playing]]"
   - "[[Randomised Controlled Trials]]"
 related_persons:
+  - "[[Isaiah Berlin]]"
   - "[[Michael Kratsios]]"
   - "[[Ton de Jong]]"
   - "[[Jianwei Zhang]]"
@@ -140,7 +141,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Knowledge Production
@@ -179,7 +180,7 @@ updated: 2026-10-07
 > - **边界** 聚焦宏观研发体制、国家资助结构与国际组织治理工具，区别于微观个体的心理认知加工。
 
 > [!citation-card] 大学知识生产职能的历史转型与公共知识池假说
-> 直到 19 世纪中叶，大学在本质上仍是专注于传授已有知识的教学机构。这一传统首先在 19 世纪早期的德国被打破——柏林大学确立了大学应当同时从事知识生产与知识传播的全新信条。二战后[[Science, The Endless Frontier 1945|布什报告]]确立了基础研究的公共品属性：基础研究如同全社会共享的知识蓄水池，工业界从中汲取养分转化为技术，而联邦资助大学基础研究正是为了持续向这一知识蓄水池注水。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32, 35)]]
+> 直到 19 世纪中叶，大学在本质上仍是专注于传授已有知识的教学机构。这一传统首先在 19 世纪早期的德国被打破——[[Isaiah Berlin|柏林]]大学确立了大学应当同时从事知识生产与知识传播的全新信条。二战后[[Science, The Endless Frontier 1945|布什报告]]确立了基础研究的公共品属性：基础研究如同全社会共享的知识蓄水池，工业界从中汲取养分转化为技术，而联邦资助大学基础研究正是为了持续向这一知识蓄水池注水。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32, 35)]]
 >
 > *Until the mid-19th century, universities were teaching institutions devoted to the transmission of knowledge... The German model of universities dedicated to both the production and transmission of knowledge was replicated in the United States... [[Blue Skies Research|Basic Research]] is the pacemaker of technological progress, replenishing the [[Pool of Knowledge]] from which industry can draw.*
 
@@ -367,7 +368,7 @@ updated: 2026-10-07
 ## 概念演变历程
 
 > [!dev-timeline] 知识生产概念的谱系演化脉络
-> - **1810s–1870s — 现代[[Research Universities|研究型大学]]知识生产使命的确立** 柏林洪堡大学确立“研究与教学合一”信条；1876 年约翰斯·霍普金斯大学创立将这一[[Paradigm|范式]]引入美国，确立现代大学生产知识与传播知识并重的双重职能。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32)]]
+> - **1810s–1870s — 现代[[Research Universities|研究型大学]]知识生产使命的确立** [[Isaiah Berlin|柏林]]洪堡大学确立“研究与教学合一”信条；1876 年约翰斯·霍普金斯大学创立将这一[[Paradigm|范式]]引入美国，确立现代大学生产知识与传播知识并重的双重职能。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32)]]
 > - **1945–1950s — 战后公共科研契约确立与基础研究蓄水池假说** 《[[Science, The Endless Frontier 1945|布什报告]]》确立联邦支持大学基础科研的公共品契约，提出基础科学如同全社会共享的知识蓄水池，为后续工业技术开发提供源头活水；[[National Science Foundation|NSF]] 创设确立同行评审竞争资助传统。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–36)]]
 > - **1950s–1970s — 殖民知识体系批判与[[Epistemology|认识论]]去依附** 弗朗茨·[[Frantz Fanon|法农]]揭示宗主国如何通过语言与[[Cultural Hierarchy|文化等级]]制造依附性知识生产；[[Post-colonial Theory|后殖民理论]]呼吁打破西方中心主义认识论霸权。
 > - **1960s–2000s — 比较教育学科知识生产由大学诠释向跨国指标治理位移** [[Wolfgang Mitter|沃尔夫冈·米特]]尔梳理学科史指出，知识生产早年植根于大学历史哲学反思，晚近则被超国家机构（[[OECD]]、[[IEA]]）大规模标准化量化测度体系（如 [[PISA]]）全面收编。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94–98)]]

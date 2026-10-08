@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Andreas Schleicher]]"
+  - "[[Isaiah Berlin]]"
   - "[[John Bangs]]"
 related_facts:
   - "[[National Education Association]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # International Summits on the Teaching Profession
@@ -95,7 +96,7 @@ updated: 2026-10-07
 
 > [!dev-timeline]- 项目推进历程
 > - **2011–2014 年 — 跨国协商机制创设与信任奠基期** 2011 年首届峰会由美国在纽约市主办，确立了部长与工会领袖同桌平等协商的历史性惯例；随后的新西兰峰会与荷兰阿姆斯特丹峰会围绕教师职前培养、评价标准与专业学习展开讨论，打破了传统政府间国际会议排斥劳工组织的壁垒。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 211)]]
-> - **2015–2020 年 — 议题深化与实证反哺扩张期** 峰会先后由加拿大班夫、德国柏林、苏格兰爱丁堡、葡萄牙里斯本等地主办，讨论主题逐步从教师人事管理拓展至[[School Leadership\|学校领导力]]分配、教育公平、数字技术赋能与教师身心工作压力；促成将峰会成果反哺至 [[Teaching and Learning International Survey\|TALIS]] 2018 压力专属量表研制。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–212)]]
+> - **2015–2020 年 — 议题深化与实证反哺扩张期** 峰会先后由加拿大班夫、德国[[Isaiah Berlin|柏林]]、苏格兰爱丁堡、葡萄牙里斯本等地主办，讨论主题逐步从教师人事管理拓展至[[School Leadership\|学校领导力]]分配、教育公平、数字技术赋能与教师身心工作压力；促成将峰会成果反哺至 [[Teaching and Learning International Survey\|TALIS]] 2018 压力专属量表研制。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–212)]]
 > - **2021 年至今 — 疫后[[Whole Person Education\|全人教育]]复原与跨国共同原则确立** 2021 年第 11 届峰会再次由美国主办，主题聚焦从历史汲取智慧、共创卓越与公平，深度研讨后疫情时代的学校社区重建、数字教学伦理与教师福祉，并联合发布 [[OECD]] 与 EI 关于有效与公平教育复兴的十大原则。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211–212, 216)]]
 
 ---

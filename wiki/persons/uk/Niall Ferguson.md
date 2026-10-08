@@ -8,7 +8,7 @@ summary: "英国著名历史学家，斯坦福大学胡佛研究所高级研究�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 2
+person_related_count: 3
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -25,7 +25,8 @@ related_concepts: []
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Herbert Hoover]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07]]"
@@ -43,7 +44,7 @@ updated: 2026-10-08
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 英国著名历史学家、斯坦福大学胡佛研究所米尔班克家族高级研究员、哈佛大学欧洲研究中心高级研究员。
+> - **身份位置** 英国著名历史学家、斯坦福大学[[Herbert Hoover|胡佛]]研究所米尔班克家族高级研究员、哈佛大学欧洲研究中心高级研究员。
 > - **核心角色** 从金融制度、法治产权与科技军事演进的全球经验数据出发，考察近代西方帝国的兴起机制与相对衰落风险。
 > - **代表贡献** 提出西方文明领跑全球的“六大杀手级应用”（Killer Apps），著有《帝国》（2003）、《货币崛起》（2008）、《文明：西方与其余世界》（2011）等。
 
@@ -61,7 +62,7 @@ updated: 2026-10-08
 > - **1985–1989** 就读于牛津大学莫德林学院，获现代历史学学士与哲学博士学位。
 > - **1989–2002** 先后在剑桥大学基督学院与彼得学院、牛津大学耶稣学院任教。
 > - **2004–2016** 担任哈佛大学劳伦斯·A·蒂施历史学教授及哈佛商学院讲席教授。
-> - **2016–** 担任斯坦福大学胡佛研究所高级研究员。
+> - **2016–** 担任斯坦福大学[[Herbert Hoover|胡佛]]研究所高级研究员。
 > - **2011** 出版专著《文明：西方与其余世界》（*Civilization: The West and the Rest*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 89, 93–94)]]
 
 ---

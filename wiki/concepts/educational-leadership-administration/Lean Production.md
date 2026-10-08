@@ -10,7 +10,7 @@ aliases:
 summary: "起源于日本丰田汽车公司、由沃马克（Womack）等人在《改变世界的机器》中系统总结的现代化制造与管理组织范式；核心主张通过准时制库存控制（Just-in-Time, JIT）、看板管理、全面质量管理（TQM）、全员参与持续改进（Kaizen）与多技能轮岗，彻底消除生产流程中的一切过量库存与资源浪费；克里斯·弗里曼（Chris Freeman）将其列为微电子时代技术-经济范式转型中最重要的组织管理创新，论证后发国家吸收现代通用技术必须伴随精益生产等车间微观组织重组。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,13 +33,14 @@ related_methods:
 related_persons:
   - "[[Chris Freeman]]"
   - "[[Carlota Perez]]"
+  - "[[Taiichi Ohno]]"
   - "[[Joseph Schumpeter]]"
 related_arguments:
   - "[[Argument_Freeman_1995_CJE]]"
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
 # Lean Production
@@ -128,7 +129,7 @@ updated: 2026-10-05
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1950s–1970s — 丰田生产方式创立** 大野耐一与丰田喜一郎在战后日本资源匮乏环境下探索消除浪费之道，创建看板系统与准时制模式。
+> - **1950s–1970s — 丰田生产方式创立** [[Taiichi Ohno|大野耐一]]与丰田喜一郎在战后日本资源匮乏环境下探索消除浪费之道，创建看板系统与准时制模式。
 > - **1980s — [[Evolutionary Economics|演化经济学]]将其提炼为[[Paradigm|范式]]组织代表** 弗里曼等创新经济学者将日本民用工业的精益制造确立为新[[Joseph Schumpeter|熊彼特]][[Techno-economic Paradigm|技术-经济范式]]的组织典范。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 12, 18)]]
 > - **1990 — 《改变世界的机器》引发全球推广** 沃马克、琼斯与鲁斯（Womack, Jones, & Roos, 1990）正式提出“精益生产”（Lean Production）术语，推动全球汽车与电子制造业系统性改造。
 > - **2000s–至今 — 跨行业迁移与精益治理** 精益思维延伸至软件工程（敏捷开发）、医疗卫生流程再造与公共教育行政优化。

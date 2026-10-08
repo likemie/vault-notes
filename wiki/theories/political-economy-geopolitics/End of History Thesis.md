@@ -9,10 +9,10 @@ aliases:
 summary: "弗朗西斯·福山提出的政治哲学与国际政治理论，主张冷战结束标志着人类意识形态演进的终点与自由民主制作为人类政府最终形式的普世确立；后遭遇文明冲突论、威权韧性及技术共和国视角下胜者谬误与硬实力懈怠的深刻批判。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 23
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 24
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 domain: "political-economy-geopolitics"
 related_count: 15
 related_level: 2
@@ -45,6 +45,7 @@ related_instruments: []
 related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Francis Fukuyama]]"
+  - "[[Isaiah Berlin]]"
   - "[[Samuel P. Huntington]]"
   - "[[Allan Bloom]]"
   - "[[Thomas Schelling]]"
@@ -81,7 +82,7 @@ updated: 2026-10-08
 
 > [!theory-origin] 思想源流与建构路径
 > - **[[Georg Wilhelm Friedrich Hegel|黑格尔]]与科耶夫的历史哲学遗产** [[Francis Fukuyama|弗朗西斯·福山]]继承了[[Georg Wilhelm Friedrich Hegel|黑格尔]]（G. W. F. Hegel）关于历史是人类追求“获得承认的斗争”（Struggle for Recognition）以及亚历山大·科耶夫（Alexandre Kojève）关于普遍同质国家（Universal and Homogeneous State）的思辨论断，认为历史是有方向、有终点的理性和自由展开过程。
-> - **冷战终结与柏林墙倒塌的历史契机** 1989 年柏林墙倒塌前夕，福山在《国家利益》（*The National Interest*）发表论文《历史的终结？》，随后于 1992 年扩展出版专著《历史的终结与最后的人》，对苏联解体与西方自由主义阵营的胜利进行哲学升华。
+> - **冷战终结与[[Isaiah Berlin|柏林]]墙倒塌的历史契机** 1989 年柏林墙倒塌前夕，福山在《国家利益》（*The National Interest*）发表论文《历史的终结？》，随后于 1992 年扩展出版专著《历史的终结与最后的人》，对苏联解体与西方自由主义阵营的胜利进行哲学升华。
 
 > [!dev-timeline] 理论演进与争议历程
 > - **1989 — 原初论文发表** 福山发表《历史的终结？》，提出大国意识形态对抗已实质终结，西方自由民主制成为普世共识。

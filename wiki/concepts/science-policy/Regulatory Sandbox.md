@@ -8,7 +8,7 @@ aliases:
 summary: "国家科技与产业政策中为新兴颠覆性技术创设的受控豁免试验机制；在划定安全边界与限制时空范围内，免除特定前置行政审批与繁文缛节，允许创新主体在真实运行中快速测试原型并积累一手实证数据，实现从防范假设性风险向循证动态治理的转变。"
 type: concept
 domain: "science-policy"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,6 +18,7 @@ tags:
   - theme/innovation-policy
   - region/us
 related_concepts:
+  - "[[Red Tape]]"
   - "[[Hypothesis]]"
   - "[[Agile Governance]]"
   - "[[Permissionless Innovation]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Regulatory Sandbox
@@ -60,7 +61,7 @@ updated: 2026-10-07
 ## 概念总览与核心界定
 
 > [!def] 核心界定
-> **监管沙盒（Regulatory Sandbox）**，又称“规制沙盒”或“创新沙盒”，是指由国家监管机构在受控、透明且具备明确安全边界的真实运行环境中，为从事颠覆性新兴技术（如先进核能、基因治疗、自动驾驶与数字资产）研发与商业化落地的创新主体设立的柔性规制空间。在沙盒机制下，监管部门暂时豁免或精简特定前置性行政许可与繁文缛节，允许发明家与初创团队直接在真实场景中部署原型并测试性能，从而在有效控制外部风险的同时，为制定适应新技术特性的精准规制标准积累第一手实证数据。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 37–39, 45)]]
+> **监管沙盒（Regulatory Sandbox）**，又称“规制沙盒”或“创新沙盒”，是指由国家监管机构在受控、透明且具备明确安全边界的真实运行环境中，为从事颠覆性新兴技术（如先进核能、基因治疗、自动驾驶与数字资产）研发与商业化落地的创新主体设立的柔性规制空间。在沙盒机制下，监管部门暂时豁免或精简特定前置性行政许可与[[Red Tape|繁文缛节]]，允许发明家与初创团队直接在真实场景中部署原型并测试性能，从而在有效控制外部风险的同时，为制定适应新技术特性的精准规制标准积累第一手实证数据。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 37–39, 45)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将监管体系从被动的“案头事前审批把关者”转变为主动与创新主体协同开展现场测试的“同行试验者”。

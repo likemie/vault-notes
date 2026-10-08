@@ -8,7 +8,7 @@ summary: "美籍德裔著名人权活动家、法学家，美国公民自由联�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Isaiah Berlin]]"
   - "[[Pauli Murray]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
@@ -64,7 +65,7 @@ updated: 2026-10-08
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1937** 出生于德国柏林的一个犹太人家庭，幼年时期随父母为躲避纳粹迫害流亡英国，后移居美国。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, p. 57)]]
+> - **1937** 出生于德国[[Isaiah Berlin|柏林]]的一个犹太人家庭，幼年时期随父母为躲避纳粹迫害流亡英国，后移居美国。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, p. 57)]]
 > - **1958** 毕业于康奈尔大学，加入美国公民自由联盟（ACLU），开启长达数十年的民权与人权法律抗争生涯。
 > - **1970–1978** 担任 ACLU 全国执行总监，期间领导该机构介入包括水门事件、反战抗议与第一修正案维权在内的诸多历史性大案。
 > - **1977–1978** 在[[Skokie Free Speech Case|斯科基言论自由案]]中决定为新纳粹党人的和平集会权提供法律援助；尽管导致该机构[[Attrition|流失]]约三万名会员及严重财政危机，内尔始终坚持原则并最终在最高法院胜诉。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–58)]]

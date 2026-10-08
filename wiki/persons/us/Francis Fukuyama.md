@@ -8,7 +8,7 @@ summary: "美国著名政治学家、政治哲学家，斯坦福大学高级研�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -40,6 +40,7 @@ related_methods:
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Friedrich Nietzsche]]"
+  - "[[Isaiah Berlin]]"
   - "[[Samuel P. Huntington]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
 related_facts: []
@@ -64,7 +65,7 @@ updated: 2026-10-08
 > - **代表贡献** 提出“[[End of History Thesis|历史终结论]]”（The End of History）、政治秩序三要素[[Analytic Framework|分析框架]]（强大的国家、法治、民主问责制），系统批判后现代相对主义[[Epistemology|认识论]]的自我瓦解。
 
 > [!citation-card] 历史终结论断的标志性表述
-> 1989 年，弗朗西斯·福山发表了一篇后来扩充为其著作《历史的终结》的文章，阐述了一种在数十年内深刻塑造了西方精英关于大国竞争思考的世界观。在柏林墙倒塌前数月，他宣告我们已经迎来了‘人类意识形态演进的终点’，自由民主代表了‘人类政府的最终形式’。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 31)]]
+> 1989 年，弗朗西斯·福山发表了一篇后来扩充为其著作《历史的终结》的文章，阐述了一种在数十年内深刻塑造了西方精英关于大国竞争思考的世界观。在[[Isaiah Berlin|柏林]]墙倒塌前数月，他宣告我们已经迎来了‘人类意识形态演进的终点’，自由民主代表了‘人类政府的最终形式’。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 31)]]
 >
 > *In 1989, Francis Fukuyama published an essay, later expanded into his book The End of History, that articulated a worldview that would shape elite thinking about great power competition for decades. He declared months before the fall of the Berlin Wall that we had reached 'the end-point of mankind’s ideological evolution' and that liberal democracy represented 'the final form of human government.'*
 

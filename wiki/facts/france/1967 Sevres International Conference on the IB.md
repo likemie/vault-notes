@@ -10,7 +10,7 @@ subtype: event
 region: france
 fact_region: "france"
 fact_kind: "event"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -30,6 +30,7 @@ related_methods:
   - "[[Action Research]]"
 related_instruments: []
 related_persons:
+  - "[[Isaiah Berlin]]"
   - "[[Gerard Renaud]]"
 related_facts:
   - "[[International Schools Examination Syndicate]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-09-23
+updated: 2026-10-08
 ---
 
 # 1967 Sevres International Conference on the IB
@@ -74,7 +75,7 @@ updated: 2026-09-23
 > | 圣地亚哥学院 | 智利 | 代表南美洲学校，虽曾短期退出，后来继续参加 [[International Baccalaureate\|IB]]。 |
 > | 联合国国际学校（UNIS） | 美国纽约 | 带来跨大西洋维度、联合国流动家庭需求和美国大学联系。 |
 >
-> 皮特森访问过的柏林法语文理中学、约翰·F·肯尼迪学校和罗马圣乔治学校则决定不采用。对照显示，课程可行不等于组织采用：教师少数派必须取得同事、校长和家长支持，首批学校中最关键的[[Variable\|变量]]通常是能说服各方的校长。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 26–27)]]
+> 皮特森访问过的[[Isaiah Berlin|柏林]]法语文理中学、约翰·F·肯尼迪学校和罗马圣乔治学校则决定不采用。对照显示，课程可行不等于组织采用：教师少数派必须取得同事、校长和家长支持，首批学校中最关键的[[Variable\|变量]]通常是能说服各方的校长。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 26–27)]]
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "Robert Cowen（2009）提出、Jason Beech（2009）与 Steiner-Khamsi 等人（2024）深化的跨国教育知识流动分析框架，追踪教育思想在空间转移（太空门时刻）、政策转译（变色龙过程）与权力压缩转化（形态变质与制度化）中的演变，并在数字治理 2.0 中揭示转移空间的自指性转译与政策周期政治过滤机制。"
 type: concept
 domain: "comparative-education"
-related_count: 72
+related_count: 73
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -77,6 +77,7 @@ related_persons:
   - "[[Tao Xingzhi]]"
   - "[[Jason Beech]]"
   - "[[Sigrid Hartong]]"
+  - "[[Isaiah Berlin]]"
   - "[[Paul Morris]]"
   - "[[Eleftherios Klerides]]"
   - "[[Gita Steiner-Khamsi]]"
@@ -99,7 +100,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Transfer Translation Transformation
@@ -266,7 +267,7 @@ updated: 2026-10-07
 > - **1990s–2000s — 转移主题的重新聚焦 (Pre-3T Era)** Schriewer (1990, 2000), Phillips (1993, 2004), Popkewitz (1998, 2005) 重新确立转移主题的重要性，超越传统二元借用研究。（[[Argument_Cowen_2009_CE\|Cowen, 2009b, pp. 316–317]]）
 > - **2009 — Cowen 3T 模型的正式提出 (Theory Formulation)** [[Robert Cowen\|罗伯特·考恩]]（Robert Cowen）提出 3T 框架，将转移主题升级为“空间转移、变色龙式转译、权力压缩下的转化”三阶段过程模型。（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 255]]）
 > - **2009 — Beech 的空间与实践拓展 (Empirical Mapping)** 杰森·比奇（[[Jason Beech]]）结合 Castells 的[[Network Society\|网络社会]]与[[Space of Flows and Space of Places\|流动空间]]理论，将 3T 阶段分别映射至“[[Global Policy Space\|全球政策空间]]—国家官方政策—微观学校实践”三个地理与社会空间。（[[Argument_Beech_2009_CE\|Beech, 2009, p.348]]）
-> - **2018 — Hartong 的社会-技术转译与政策[[Topological Spatialisation\|拓扑学重组]] (Topological Re-[[Assemblage]] & Sociotechnical Translation)** [[Sigrid Hartong\|西格丽德·哈通]]（Sigrid Hartong）将 [[Actor-Network Theory\|ANT]] 转译社会学与[[Topological Spatialisation\|拓扑空间]]理论融入跨尺度政策研究，揭示德国教育监测战略如何通过柏林 [[Institute for Educational Quality Improvement\|IQB]][[Center of Calculation\|计算中心]]与 [[Vergleichsarbeiten\|VERA]] 题库平台将国家标准转译并拓扑折叠进各州学校与班级微观实践。（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）
+> - **2018 — Hartong 的社会-技术转译与政策[[Topological Spatialisation\|拓扑学重组]] (Topological Re-[[Assemblage]] & Sociotechnical Translation)** [[Sigrid Hartong\|西格丽德·哈通]]（Sigrid Hartong）将 [[Actor-Network Theory\|ANT]] 转译社会学与[[Topological Spatialisation\|拓扑空间]]理论融入跨尺度政策研究，揭示德国教育监测战略如何通过[[Isaiah Berlin|柏林]] [[Institute for Educational Quality Improvement\|IQB]][[Center of Calculation\|计算中心]]与 [[Vergleichsarbeiten\|VERA]] 题库平台将国家标准转译并拓扑折叠进各州学校与班级微观实践。（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）
 > - **2018 — Grey & Morris 的[[Mediatised Governance\|媒介化治理]]与逆向转译拓展 (Mediatised Borrowing & [[Shape-Shifting]])** [[Paul Morris\|保罗·莫里斯]]（Paul Morris）与休·格雷（Sue Grey）将 3T 视角延伸至现代跨国评估（[[PISA]]）时代的[[Policy Borrowing\|政策借用]]，揭示了全球测评样板如何作为外部参考资源被国内政客通过“遗漏[[Discourse|话语]]”与媒介公关实施高度策略性的转译，并在媒体“[[Policy Avoidance\|政策规避]]”下最终转化为强化本土私有化与行政集权的异化形态。（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）
 > - **2023 — Klerides 的国际关系[[Paradigm\|范式]]引入 (Theoretical Expansion)** [[Eleftherios Klerides\|埃莱夫塞里奥斯·克莱里德斯]]（Eleftherios Klerides）从[[Wight's Three Traditions of International Theory\|国际关系理论]]视角拓展 3T 分析范式，划分为现实主义、理性主义与[[Revolutionism\|革命主义]]三大路径。（[[Argument_Klerides_2023_CE\|Klerides, 2023, pp.422–427]]）
 > - **2024 — Zhou & Westberg 的中国民国实证深化 (Historical Application)** [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]] 运用 3T 框架精准拆解民国时期（1919–1928）[[John Dewey\|杜威]][[Pragmatic Paradigm\|实用主义]]在华转移、去政治化转译与转化为[[Scientific Attitude\|科学态度]]的历史过程。

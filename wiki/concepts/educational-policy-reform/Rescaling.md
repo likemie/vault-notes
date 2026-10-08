@@ -9,7 +9,7 @@ aliases:
 summary: "政治地理学与批判性教育政策研究的核心概念，指在全球化与治理转型过程中，国家规约权力与政策空间在跨国、国家、次国家/州与地方市镇等不同尺度之间发生的质性重构与再分配，强调空间尺度并非天然给定的物理容器，而是由政策流动、制度博弈与数据基础设施不断生产与重构的关系构型。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,6 +33,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[Sigrid Hartong]]"
+  - "[[Isaiah Berlin]]"
   - "[[Susan L. Robertson]]"
   - "[[Roger Dale]]"
   - "[[John Allen]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-09-29
+updated: 2026-10-08
 ---
 
 # Rescaling
@@ -119,7 +120,7 @@ updated: 2026-09-29
 > 探讨数据流动与[[Center of Calculation\|计算中心]]如何改变传统政治尺度的运作方式，使远距离干预得以发生。
 
 > [!claim] [[Sigrid Hartong\|Hartong, S.]]; Brenner, N.
-> **[[Data Infrastructure\|数据基础设施]]对科层尺度的穿透与重构** 政策尺度的重构不仅体现在法律文本的条文修改，更实质性地发生于底层数据基础设施的铺设过程中。[[Argument_Hartong_2018_GSE\|Hartong (2018)]] 论证指出，在德国高度联邦分权的体制下，柏林 [[Institute for Educational Quality Improvement\|IQB]] 作为跨尺度的国家计算中心，通过统筹全国教育标准、跨州学业趋势测评（[[IQB-Bildungstrend]]）及统一题库系统，将分散在 16 个联邦州与数万间教室的微观数据汇聚在教育研究数据中心（FDZ）。这一数据流转机制使得联邦与跨国标准在不修改联邦宪法分配原则的前提下，直接穿透了州级行政壁垒，实现了国家教育政策空间的深度尺度重组（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 136, 143–145]]）。
+> **[[Data Infrastructure\|数据基础设施]]对科层尺度的穿透与重构** 政策尺度的重构不仅体现在法律文本的条文修改，更实质性地发生于底层数据基础设施的铺设过程中。[[Argument_Hartong_2018_GSE\|Hartong (2018)]] 论证指出，在德国高度联邦分权的体制下，[[Isaiah Berlin|柏林]] [[Institute for Educational Quality Improvement\|IQB]] 作为跨尺度的国家计算中心，通过统筹全国教育标准、跨州学业趋势测评（[[IQB-Bildungstrend]]）及统一题库系统，将分散在 16 个联邦州与数万间教室的微观数据汇聚在教育研究数据中心（FDZ）。这一数据流转机制使得联邦与跨国标准在不修改联邦宪法分配原则的前提下，直接穿透了州级行政壁垒，实现了国家教育政策空间的深度尺度重组（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 136, 143–145]]）。
 
 ---
 

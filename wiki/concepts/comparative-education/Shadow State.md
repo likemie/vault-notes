@@ -7,7 +7,7 @@ aliases:
 summary: "萨顿、阿诺夫与卡马特提出的比较教育批判概念，指新自由主义外包机制下非政府组织沦为跨国机构与政府的教育服务承包商，在缓解财政负担的同时侵蚀了国家公共合法性并消解了民间社会的政治批判潜能"
 type: concept
 domain: "comparative-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Bureaucracy]]"
   - "[[Performance Indicators]]"
   - "[[State Educational Sovereignty]]"
+  - "[[Red Tape]]"
   - "[[Document]]"
   - "[[Variable]]"
 related_theories:
@@ -147,7 +148,7 @@ updated: 2026-10-08
 > 探讨密切依附外部大型援助官僚体系对民间组织内部治理的消极外溢。
 
 > [!claim] Sutton & Arnove
-> **官僚弊病复制与朋党化倾向** 随着非政府组织与跨国援助机构建立起长期的资金代管关系，民间组织不仅难以维系原初扁平、灵活与廉洁的理想形态，反而极易复制大型国际官僚机构的繁文缛节与层级控制；在缺乏正规民主监督的环境下，此类组织频繁滋生党派私利、任人唯亲与资源寻租等消极现象，进一步恶化了地方公共治理生态。[[Argument_Arnove_2009_WorldSystems|(Sutton & Arnove, 2004; Kamat, 2004, cited in Arnove, 2009, p. 112)]]
+> **官僚弊病复制与朋党化倾向** 随着非政府组织与跨国援助机构建立起长期的资金代管关系，民间组织不仅难以维系原初扁平、灵活与廉洁的理想形态，反而极易复制大型国际官僚机构的[[Red Tape|繁文缛节]]与层级控制；在缺乏正规民主监督的环境下，此类组织频繁滋生党派私利、任人唯亲与资源寻租等消极现象，进一步恶化了地方公共治理生态。[[Argument_Arnove_2009_WorldSystems|(Sutton & Arnove, 2004; Kamat, 2004, cited in Arnove, 2009, p. 112)]]
 
 ---
 

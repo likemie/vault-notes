@@ -11,10 +11,10 @@ aliases:
 summary: "18世纪起源于欧洲、19世纪经由法美与拉美跨国流通确立的教师专业化培养专门机构，通过国家垄断资格准入、规范化教学法训练与人道纪律塑造公共教育核心师资"
 type: concept
 domain: "teacher-education"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/teacher-education
   - theme/comparative-education
@@ -63,6 +63,7 @@ related_persons:
   - "[[Calvin Stowe]]"
   - "[[Jason Beech]]"
   - "[[Alejandro Artopoulos]]"
+  - "[[Isaiah Berlin]]"
 related_facts:
   - "[[National Education]]"
   - "[[Guizot Law of 1833]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-07
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
 # Normal School
@@ -211,7 +212,7 @@ updated: 2026-10-05
 师范学校经历了从 18 世纪地方神职讲习、19 世纪国家立法扩散、20 世纪并入综合大学，到 21 世纪构建全生命周期循证中介生态的演变历程：
 
 > [!dev-timeline] 概念演变
-> - **18世纪中后期 — 欧陆初创与讲习所萌芽** 普鲁士虔信派学者海克（Johann Julius Hecker）于 1748 年在柏林建立首座教师讲习所（*Lehrerseminar*）；法国大革命时期国民公会于 1794 年创立巴黎高等师范学校（École normale supérieure），确立通过设立示范准则（norm）指导国民教育的现代师范观念。
+> - **18世纪中后期 — 欧陆初创与讲习所萌芽** 普鲁士虔信派学者海克（Johann Julius Hecker）于 1748 年在[[Isaiah Berlin|柏林]]建立首座教师讲习所（*Lehrerseminar*）；法国大革命时期国民公会于 1794 年创立巴黎高等师范学校（École normale supérieure），确立通过设立示范准则（norm）指导国民教育的现代师范观念。
 > - **1817–1819 — 比较教育构想与国家法典化** [[Marc-Antoine Jullien\|朱利安]]在 1817 年《计划》中将师范教育列为第四大核心领域，倡议建立跨国示范师范学院；普鲁士《1819 年[[Johann Wilhelm Süvern\|聚芬]]草案》系统确立全省公立师范学校网络与国家督导准则。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 22, 27)]]
 > - **1830s–1840s — 跨大西洋借用与公学立法潮** 法国《1833 年[[Guizot Law of 1833\|基佐法案]]》强制各省设立公立师范学校；[[Calvin Stowe\|卡尔文·斯托]] 1837 年报告推动美国中西部各州通过师范法案；[[Horace Mann\|霍勒斯·曼]]推动马萨诸塞州于 1839 年在列克星敦建立全美首所州立公立师范学校。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 28, 31–32)]]
 > - **1840s–1870s — 全球南方扩散与拉美[[Circular Transfer\|循环转移]]** 萨米恩托在智利（1842）与阿根廷（巴拉那，1869）建立师范学校，将北美波士顿师范模型与欧陆法国集权管理模型融合[[Transfer Translation Transformation\|转译]]，扩散至泛美与全球南方。[[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015, pp. 50–52)]]

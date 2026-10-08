@@ -12,9 +12,9 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 issuing_organization: "马克斯·普朗克学会"
 tags:
@@ -34,6 +34,7 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Isaiah Berlin]]"
   - "[[Saul B. Robinsohn]]"
   - "[[Max Planck]]"
   - "[[Wolfgang Mitter]]"
@@ -57,7 +58,7 @@ updated: 2026-10-08
 ## 机构概况
 
 > [!policy-context] 机构档案
-> - **成立时间 / 主管机构** 1963 年创立于西柏林，直属于德国顶尖基础科研学术联合体——[[Max Planck Society|马克斯·普朗克科学促进学会]]（Max-Planck-Gesellschaft, MPG）。
+> - **成立时间 / 主管机构** 1963 年创立于西[[Isaiah Berlin|柏林]]，直属于德国顶尖基础科研学术联合体——[[Max Planck Society|马克斯·普朗克科学促进学会]]（Max-Planck-Gesellschaft, MPG）。
 > - **创办领袖** 由德国教育家赫尔穆特·贝克尔（Hellmut Becker）发起创立，汇聚了比较教育学家[[Saul B. Robinsohn|索尔·罗宾逊]]（Saul B. Robinsohn）与社会学家迪特里希·戈尔德施密特（Dietrich Goldschmidt）共同担任联合所长。
 > - **制度定位** 战后联邦德国首个完全独立于传统大学文理哲学院系、专注跨学科教育科学与人类发展的国家级国家级智库研究实体。与位于法兰克福的[[Leibniz Institute for Educational Research and Educational Information|德国国际教育研究所]]（DIPF）并列为联邦德国教育科学研究的两大旗舰中心。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 90)]]
 
@@ -89,7 +90,7 @@ updated: 2026-10-08
 > - **国际学术影响** 为战后德国学者深度参与[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）与跨国实证调查（如早期 [[IEA]] 项目）提供了坚实的实体依托与[[Data Infrastructure|数据基础设施]]。
 
 > [!citation-card] 米特论研究所的学术枢纽地位
-> 德国[[International Education|国际教育]]研究所（舒尔策、米特）与柏林[[Max Planck|马克斯·普朗克]]教育研究所（罗宾逊、戈尔德施密特）先后设立教席与研究实体……[[Saul B. Robinsohn|索尔·罗宾逊]]在柏林马普所主持的《社会进程中的学校改革》项目可以被视作一项先驱性成就。与波鸿、法兰克福和马堡的同行课题不同，其理论视界明确立足于社会学立场，专注于比较社会因素对国家教育系统的结构性冲击。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 90, 95)]]
+> 德国[[International Education|国际教育]]研究所（舒尔策、米特）与[[Isaiah Berlin|柏林]][[Max Planck|马克斯·普朗克]]教育研究所（罗宾逊、戈尔德施密特）先后设立教席与研究实体……[[Saul B. Robinsohn|索尔·罗宾逊]]在柏林马普所主持的《社会进程中的学校改革》项目可以被视作一项先驱性成就。与波鸿、法兰克福和马堡的同行课题不同，其理论视界明确立足于社会学立场，专注于比较社会因素对国家教育系统的结构性冲击。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 90, 95)]]
 
 ---
 

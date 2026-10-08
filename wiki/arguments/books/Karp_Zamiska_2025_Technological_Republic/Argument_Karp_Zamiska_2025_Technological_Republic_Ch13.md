@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch13"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch13"
 argument_display_title: "“Building a Better Rifle”"
 argument_kind: "book-chapter"
-argument_related_count: 12
+argument_related_count: 13
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#fef3c7"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Engineering Mindset]]"
   - "[[Consumer Internet]]"
   - "[[Technological Republic]]"
+  - "[[Red Tape]]"
   - "[[Attrition]]"
 related_theories: []
 related_persons:
@@ -82,7 +83,7 @@ updated: 2026-10-08
 >
 >   结合阿富汗战争 20 年耗资 2 万亿美元及人员伤亡事实，指出 1973 年实行全志愿兵役制后政治精英很少亲历战争风险（2006 年国会议员仅 3 人子女参军）；提出无论关于军事行动本身的争论如何，只要派遣人员走向前线，国家就必须全力提供最佳的武器与软件支持（pp. 143–145）。
 >
-> - **繁文缛节与过度规范阻碍了政府采购：海湾战争对讲机事件暴露了定制采购的体制积弊**
+> - **[[Red Tape|繁文缛节]]与过度规范阻碍了政府采购：海湾战争对讲机事件暴露了定制采购的体制积弊**
 >
 >   分析海湾战争期间空军因严格的成本审计规定无法直接购买 20 美元市售对讲机、被迫由外国政府代购的典型事例；回顾 1905 年基普委员会清理物资种类、1980 年代高价普通配件争议以及长达 700 页的军用食品规范，揭示要求一切物资必须定制的体制惯性（pp. 145–149）。
 >
@@ -155,7 +156,7 @@ updated: 2026-10-08
 
 ---
 
-### 四、 僵化的军规标准与合规审计造成了严重的采办障碍，使公共部门长期陷入耗资巨大的定制开发泥潭
+### 四、 僵化的军规标准与[[Red Tape|繁文缛节]]造成了严重的采办障碍，使公共部门长期陷入耗资巨大的定制开发泥潭
 
 > [!case] 海湾战争中摩托罗拉商用对讲机的采购困境
 > - **战地通信需求** 1990 年代初海湾战争期间，空军在科威特新建基地需要大量手持双向对讲机用于日常调度，这类设备在民用市场上属于单价不足 20 美元的成熟商品（pp. 145–146）。
@@ -164,7 +165,7 @@ updated: 2026-10-08
 > - **制度批评** 联邦参议员威廉·罗斯（William Roth）指出，政府连在普通商场能够随时买到的成熟商品都无法正常采购，反映出严重的机制僵化（p. 147）。
 
 > [!timeline] 政府采购规范与成本争议的历史演变
-> - **1905 年 — 基普委员会（Keep Commission）调查** 西奥多·罗斯福（Theodore Roosevelt）总统设立的委员会发现，政府各部门采购了 278 种笔和 28 种墨水，吉福德·平肖（Gifford Pinchot）批评繁琐行政程序（red tape）严重影响了行政效率（pp. 148–149）。
+> - **1905 年 — 基普委员会（Keep Commission）调查** 西奥多·罗斯福（Theodore Roosevelt）总统设立的委员会发现，政府各部门采购了 278 种笔和 28 种墨水，吉福德·平肖（Gifford Pinchot）批评政府机构深陷传统[[Red Tape|繁文缛节]]（Red Tape）的泥潭，严重影响了行政效率（pp. 148–149）。
 > - **1980 年代 — 高价普通零配件争议** 媒体披露海军采购普通锤子与飞机旋钮账面价格异常高昂；调查表明这源于将几百种零部件的共用生产费用均摊核算的会计方法，但也引发了公众对采办浪费的批评。
 > - **1984 年 — 监管机构的监督难点** 国防部监察长约瑟夫·谢里克（Joseph Sherick）在清理采购管理漏洞时面临庞大的官僚阻力。
 > - **1990 年代 — 冗长的军用食品技术标准** 副总统阿尔·戈尔（Al Gore）提及陆军曾编制 700 多页的技术规范（MIL-C-43205G）指导如何制作标准饼干，而不愿直接采用成熟的商业产品。

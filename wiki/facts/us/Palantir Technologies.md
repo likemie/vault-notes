@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 43
+fact_related_count: 46
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -52,6 +52,7 @@ related_concepts:
 related_theories:
   - "[[Organizational Culture]]"
 related_methods:
+  - "[[Five Whys]]"
   - "[[Role-playing]]"
 related_instruments: []
 related_persons:
@@ -60,6 +61,7 @@ related_persons:
   - "[[Nicholas Zamiska]]"
   - "[[Keith Johnstone]]"
   - "[[Peter Drucker]]"
+  - "[[Taiichi Ohno]]"
   - "[[John Glenn]]"
 related_facts:
   - "[[Federal Acquisition Streamlining Act of 1994]]"
@@ -74,6 +76,7 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02]]"
 confidence: high
 status: active
@@ -121,6 +124,7 @@ updated: 2026-10-08
 > - **交响乐团直连模型** 践行[[Peter Drucker|彼得·德鲁克]]（[[Peter Drucker]]）[[Symphony Orchestra Model|交响乐团模型]]，破除多层副总裁管理审批架构，实现首席执行官与一线工程师艺术家的直接信息视线连接。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 128–129)]]
 > - **坚决抵制[[Meeting-Industrial Complex|会议工业复合体]]** 严禁动辄数十人的冗长形式主义例会与多层预备会，将员工稀缺智力资源从科层政治内耗中解放，全力聚焦于物理运行结果与代码攻关。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 126–128)]]
 > - **[[Social Deafness|社交失聪]]与[[Constructive Disobedience|建设性不服从]]** 鼓励一线研发团队根据实战反馈主动修正甚至抗拒上级指令，并在关键演化节点主动[[Screening Off|屏蔽]]外界舆论从众压力与群体非难（Disapproval of the Crowd），保持专注技术探索的战略定力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 136–138)]]
+> - **[[Five Whys|五问法]]与免责根因复盘机制** 深度借鉴[[Taiichi Ohno|大野耐一]]的根本原因分析法，开展数千次五问法复盘并形成详尽书面报告；抑制指责个人的冲动，将软件交付延期与系统失误深入追溯至预算削减、考核导向与高管人际互动等深层组织根源，培育宽容试错与主动暴露问题的心理安全文化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 164–166)]]
 
 ---
 
@@ -144,7 +148,7 @@ updated: 2026-10-08
 > [!finding-cards] 关键战略与文化影响
 > 1. **重塑国家安全技术联盟[[Paradigm|范式]]** 打破了硅谷主流科技巨头在冷战后与国家防务脱钩的虚无主义潮流，重新确立了前沿科技企业与自由民主国家战略安全共生的传统。
 > 2. **开创现代软件战争与[[AI Deterrence|算法威慑]]先河** 在乌克兰冲突与中东反恐中证明了软件算力、卫星遥感与[[Autonomous Drone Swarms|自主无人机蜂群]]融合的决定性杀伤效能，推动五角大楼将预算重心由传统重型动能硬件转向算法与软件中枢。
-> 3. **输出以艺术家聚落为核心的工程文化** 提炼出以去中心化[[Swarm Intelligence|群智能]]、即兴演剧与去等级化为特征的组织管理范式，为西方公共治理部门走出[[Innovation Desert|创新荒漠]]提供了系统参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, Ch. 11, pp. 128–129)]]
+> 3. **输出以艺术家聚落为核心的工程文化** 提炼出以去中心化[[Swarm Intelligence|群智能]]、即兴演剧、[[Five Whys|五问法]]免责复盘与去等级化为特征的组织管理范式，为西方公共治理部门走出[[Innovation Desert|创新荒漠]]提供了系统参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, Ch. 11, pp. 128–129)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 164–166)]]
 
 ---
 
@@ -179,6 +183,8 @@ updated: 2026-10-08
 > | [[Symphony Orchestra Model\|交响乐团组织模型]] | 概念 | 帕兰提尔借鉴德鲁克交响乐团模型，实现高管与工程师艺术家的扁平直连。 |
 > | [[Constructive Disobedience\|建设性不服从]] | 概念 | 帕兰提尔鼓励研发工程师打破唯命是从，根据现场反馈能动修正上级方案。 |
 > | [[Social Deafness\|社交失聪]] | 概念 | 帕兰提尔在关键演化节点主动[[Screening Off\|屏蔽]]世俗争议与从众压力，专注深耕底层技术。 |
+> | [[Five Whys\|五问法]] | 方法 | 帕兰提尔制度化应用五问法开展数千次免责根因复盘，排查组织深层缺陷。 |
+> | [[Taiichi Ohno\|大野耐一]] | 人物 | 丰田高管与五问法开创者，其根因分析理念被帕兰提尔扩展至软件组织复盘。 |
 > | [[AI Deterrence\|人工智能威慑]] | 概念 | 帕兰提尔研发的防务 AI 平台构成了新时代软件威慑与算法均势的基石。 |
 > | [[Project Maven\|梅文项目]] | 事实 | 谷歌退出后帕兰提尔接棒核心研发，成为美军全域联合指挥的算法中枢。 |
 > | [[Alexander Karp\|亚历山大·卡普]] | 人物 | 帕兰提尔联合创始人兼首席执行官，《技术共和国》第一作者。 |
@@ -190,6 +196,7 @@ updated: 2026-10-08
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11\|《技术共和国》第11章]] | 论证 | 详尽剖析帕兰提尔反[[Bureaucracy\|科层制]]的即兴演剧工程文化与组织自适应机制。 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12\|《技术共和国》第12章]] | 论证 | 论证帕兰提尔践行建设性不服从与社交失聪以抵御虚假群体共识的微观机制。 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13\|《技术共和国》第13章]] | 论证 | 剖析阿富汗战地数据合成需求、[[Federal Acquisition Streamlining Act of 1994\|FASA 1994]] 诉讼胜利与商业现货优先的工程突破。 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14\|《技术共和国》第14章]] | 论证 | 剖析帕兰提尔基于大野耐一五问法的组织根因诊断、狐狸型概率思维与如实观察哲学。 |
 > | [[Commercial Off-The-Shelf\|商用现货]] | 概念 | 帕兰提尔作为商业现货软件企业打破传统军工定制垄断的典型范式。 |
 > | [[Federal Acquisition Streamlining Act of 1994\|1994年联邦采购精简法]] | 事实 | 帕兰提尔于2016年诉美国陆军胜诉并以此赢得重大防务记录项目的法定基石。 |
 > | [[John Glenn\|约翰·格伦]] | 人物 | 参议员与航天先驱，FASA 1994 核心起草人，为帕兰提尔诉讼打破军工垄断提供法理武器。 |

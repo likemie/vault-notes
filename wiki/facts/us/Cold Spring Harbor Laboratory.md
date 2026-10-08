@@ -9,7 +9,7 @@ subtype: organization
 region: "us"
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -22,6 +22,7 @@ tags:
   - research-institute
   - science-policy
 related_concepts:
+  - "[[Red Tape]]"
   - "[[Heterogeneity]]"
   - "[[Knowledge Exchange]]"
   - "[[Paradigm]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Cold Spring Harbor Laboratory
@@ -75,7 +76,7 @@ updated: 2026-10-07
 
 > [!actor-grid] 组织治理架构
 > - **理事会（Board of Trustees）** 由杰出科学家、企业领袖与慈善家组成，负责机构战略方向审定与财务监督。
-> - **学术管理层（院长与科研主任）** 延聘顶尖科学家担任学术带头人，维护以年轻实验室负责人为主体、免受繁文缛节束缚的扁平科研生态。
+> - **学术管理层（院长与科研主任）** 延聘顶尖科学家担任学术带头人，维护以年轻实验室负责人为主体、免受[[Red Tape|繁文缛节]]束缚的扁平科研生态。
 > - **冷泉港出版社与会议体系** 运营冷泉港学术研讨会、冷泉港实验室出版社，主导全球生物学实验手册标准（如《分子克隆实验指南》）。
 
 ---

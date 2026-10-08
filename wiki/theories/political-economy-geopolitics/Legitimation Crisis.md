@@ -7,7 +7,7 @@ aliases:
 summary: "尤尔根·哈贝马斯（Jürgen Habermas）提出的批判社会学与政治经济学理论，指出在晚期资本主义国家中，当行政系统的控制与干预逻辑从属于私人商业资本的狭隘目标，而未能将经济与科技增长转化为满足大众普遍利益的公共产品与社会安全时，国家面临系统性的大众忠诚流失与治理合法性危机。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Innovation Desert]]"
   - "[[Technological Republic]]"
   - "[[Intellectual Capital]]"
+  - "[[Red Tape]]"
   - "[[Research Question]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -104,7 +105,7 @@ updated: 2026-10-08
 > [!theory-proposition] 命题二｜政体公信力最终取决于核心公共品的技术供给效能
 > **解释** 民主国家的政治合法性不能单靠程序性选举与口头承诺维持，其实质支柱在于利用最前沿的科学与工程技术，切实提供保障公民基本生存与国家安全的公共产品。选民对技术落后导致的治理瘫痪具有零容忍性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 8–9, 11)]]
 >
-> **应用实例** 在面对突发公共危机或地缘安全威胁时，若国家治理体系因官僚繁文缛节无法部署现代敏捷软件与人工智能分析工具，造成伤亡与秩序混乱，公众对政体治理能力的信仰将被迅速摧毁。
+> **应用实例** 在面对突发公共危机或地缘安全威胁时，若国家治理体系因[[Red Tape|官僚繁文缛节]]无法部署现代敏捷软件与人工智能分析工具，造成伤亡与秩序混乱，公众对政体治理能力的信仰将被迅速摧毁。
 
 ---
 

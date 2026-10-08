@@ -15,9 +15,9 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 31
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 32
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 跨区域国家科研与信息基础设施机构（莱布尼茨学会成员）
 headquarters: 法兰克福（主址）、柏林（教育史研究图书馆）
@@ -53,6 +53,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Wolfgang Mitter]]"
+  - "[[Isaiah Berlin]]"
   - "[[Max Planck]]"
 related_facts:
   - "[[Max Planck Institute for Human Development]]"
@@ -86,7 +87,7 @@ updated: 2026-10-08
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1951 年创设于美占区法兰克福（初名国际教育研究高等学校 Hochschule für Internationale Pädagogische Forschung），旨在战后引入现代[[Experiential Learning\|经验教育]]科学与跨国比较方法重建德国教育学术；1964 年转制为跨州联合资助的德国国际教育研究所（DIPF）；2018 年正式更名为莱布尼茨教育研究与教育信息研究所，强化其数字时代教育信息学与基础设施职能。
-> - **总部地点与业务辐射** 设法兰克福（主园区，聚焦实证教育研究与信息学）与柏林（教育史研究图书馆 BBF 园区，聚焦历史与[[Document\|文献]]档案）；业务辐射全德 16 个联邦州，并承担多项欧盟与国际跨国测评技术支撑。
+> - **总部地点与业务辐射** 设法兰克福（主园区，聚焦实证教育研究与信息学）与[[Isaiah Berlin|柏林]]（教育史研究图书馆 BBF 园区，聚焦历史与[[Document\|文献]]档案）；业务辐射全德 16 个联邦州，并承担多项欧盟与国际跨国测评技术支撑。
 > - **法人属性与经费基础** 属于公法资助的独立学术机构，依托联邦与各州政府联合科学委员会（GWK）机制由 BMBF 与 16 州各按 50% 比例实行长期稳定联合财政拨款。
 > - **核心宗旨与法定职责** 致力于将严谨的实证教育科学研究与前沿的数字信息基础设施深度融合，为教育决策层、学术界与公众提供全生命周期的国家教育系统监测知识、科学数据托管与开放教育资源服务。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140, 145)]]
 
@@ -96,7 +97,7 @@ updated: 2026-10-08
 
 > [!dev-timeline] 组织发展历程
 > - **1951–1964 — 战后创设与实证比较方法引入** 1951 年在黑森州法兰克福成立，由埃里希·希瑟（Erich Hylla）等学者主导，打破德国传统思辨教育学垄断，首创以量化统计、心理测量与国际比较为核心的实证研究传统。
-> - **1964–1977 — 跨州体制化与比较教育教席建制** 1964 年签署跨州协定转制为公法研究所，更名为德国[[International Education\|国际教育]]研究所（DIPF），成为各州文教部长会议（[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]]）重要的实证咨询智库。米特（[[Wolfgang Mitter]]）指出，在此期间，DIPF 在舒尔策（Walter Schultze）与米特主持下设立了专门的比较教育研究实体与学术教席，与柏林[[Max Planck|马克斯·普朗克]]研究所共同成为战后德国大学之外的两大比较教育国家学术支柱。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90)]]
+> - **1964–1977 — 跨州体制化与比较教育教席建制** 1964 年签署跨州协定转制为公法研究所，更名为德国[[International Education\|国际教育]]研究所（DIPF），成为各州文教部长会议（[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]]）重要的实证咨询智库。米特（[[Wolfgang Mitter]]）指出，在此期间，DIPF 在舒尔策（Walter Schultze）与米特主持下设立了专门的比较教育研究实体与学术教席，与[[Isaiah Berlin|柏林]][[Max Planck|马克斯·普朗克]]研究所共同成为战后德国大学之外的两大比较教育国家学术支柱。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90)]]
 > - **1977–2000 — 纳入国家联合资助体系与柏林园区拓展** 1977 年作为国家骨干科研机构纳入蓝名单（Blaue Liste，莱布尼茨学会前身）；1992 年两德统一后，柏林的德国教育史研究图书馆（Bibliothek für Bildungsgeschichtliche Forschung, BBF）正式并入 DIPF。
 > - **2001–2009 — [[PISA]] 震荡响应与国家监测[[Total War|总体战]]略支柱确立** 2000 年首轮 [[PISA]] 危机后，DIPF 深度参与 [[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]（Gesamtstrategie zum Bildungsmonitoring）设计，受 KMK 与 [[Federal Ministry of Education and Research\|BMBF]] 委托牵头成立国家教育报告联合体，并于 2006 年正式发布首部《德国教育报告》（*[[Bildung]] in Deutschland*）。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 484–485)]]
 > - **2010–至今 — [[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]] 联合创设、技术赋能测评与基础设施数字化** 2010 年与慕尼黑工业大学（TUM）、莱布尼茨数理教育研究所（IPN）联合成立国家国际教育比较研究中心（[[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]]），DIPF 全权承担计算机化测验（TBA）与全套背景[[Questionnaire\|问卷]]研制；2018 年研究所更名为现名，系统运营全国教育信息门户 DIPF-Kompass 与德国教育云端资源。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, p. 145)]]; [[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]

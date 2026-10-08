@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch10"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch10"
 argument_display_title: "“The Eck Swarm”"
 argument_kind: "book-chapter"
-argument_related_count: 24
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Bureaucracy]]"
   - "[[Paradigm]]"
   - "[[Emergence]]"
+  - "[[Red Tape]]"
   - "[[Organizational Culture Change]]"
 related_theories:
   - "[[Organizational Culture]]"
@@ -247,7 +248,7 @@ updated: 2026-10-08
 > | **个体角色定位** | 机械执行既定指令的螺饰钉与汇报者 | 拥有感知权与行动权的独立侦察者与投票者 |
 
 > [!conclusion] 废除层级审批与重塑工程文化
-> 蜂群与椋鸟群没有冗长的中间管理层，因而能够保持纯粹的敏捷与弹性。高科技初创企业唯有彻底消除管理层级中介与繁文缛节，才能恢复类似生物集群的自组织生命力（p. 121）。
+> 蜂群与椋鸟群没有冗长的中间管理层，因而能够保持纯粹的敏捷与弹性。高科技初创企业唯有彻底消除管理层级中介与[[Red Tape|繁文缛节]]，才能恢复类似生物集群的自组织生命力（p. 121）。
 
 > [!implication] 对重构技术共和国组织治理的深层启示
 > 生物群智能与边缘自治确立了[[Engineering Mindset|工程思维]]的制度底色：重塑[[Technological Republic|技术共和国]]不仅需要发展前沿算法与硬核硬件，更需要一场深刻的[[Organizational Culture Change|组织文化变革]]——彻底消灭公共部门与国防军工体系中层层设卡的防卫型官僚程序，全面吸纳生物蜂群与顶尖初创企业的群智能机制，让一线工程人员与作战人员重获边缘自治权，使国家机器在面对大国竞争与技术风暴时重新具备闪电般的自适应反应能力（p. 121）。

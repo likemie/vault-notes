@@ -8,7 +8,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -38,14 +38,15 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Isaiah Berlin]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 ## 背景
@@ -65,7 +66,7 @@ Minerva University 是一所全球性的营利性高等教育机构，由前 Sna
 
 > [!note]- 2014–至今 运营与扩张
 > - 与克莱蒙特学院联盟（The Claremont Colleges）成员 Keck Graduate Institute（KGI）合作，利用其共享的现有制度基础设施构建"高效且可扩展"的业务和运营模型([[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.45]])
-> - "全球沉浸"体系逐步扩展至旧金山、布宜诺斯艾利斯、柏林、伦敦、海得拉巴、首尔和台北七大城市（Minerva, 2020b, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.48]]）
+> - "全球沉浸"体系逐步扩展至旧金山、布宜诺斯艾利斯、[[Isaiah Berlin|柏林]]、伦敦、海得拉巴、首尔和台北七大城市（Minerva, 2020b, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.48]]）
 
 ---
 
@@ -94,7 +95,7 @@ Minerva 自主研发了云端教学平台"积极学习论坛"（[[Active Learnin
 
 ### 全球沉浸：七城市的去地方化
 
-学生四年本科期间在七个全球城市轮流居住和学习：旧金山 → 布宜诺斯艾利斯 → 柏林 → 伦敦 → 海得拉巴 → 首尔 → 台北（Minerva, 2020b, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.48]]）。居住空间为共享式公寓而非传统宿舍——机构本身不拥有任何校园、教学楼或图书馆，完全脱离特定物理地点。这种"全球沉浸"以培养[[Global Citizenship|全球公民]]和领导力为公开目标，但其深层逻辑是去地方化：学生不属于任何一个城市或学术社区，他们只是依次经过各个全球枢纽（Thompson & Parreira do Amaral, 2022, p.3）。
+学生四年本科期间在七个全球城市轮流居住和学习：旧金山 → 布宜诺斯艾利斯 → [[Isaiah Berlin|柏林]] → 伦敦 → 海得拉巴 → 首尔 → 台北（Minerva, 2020b, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.48]]）。居住空间为共享式公寓而非传统宿舍——机构本身不拥有任何校园、教学楼或图书馆，完全脱离特定物理地点。这种"全球沉浸"以培养[[Global Citizenship|全球公民]]和领导力为公开目标，但其深层逻辑是去地方化：学生不属于任何一个城市或学术社区，他们只是依次经过各个全球枢纽（Thompson & Parreira do Amaral, 2022, p.3）。
 
 ### 成本结构
 

@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 33
+fact_related_count: 34
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Technological Republic]]"
   - "[[Hard Power]]"
   - "[[Assemblage]]"
+  - "[[Red Tape]]"
   - "[[Brainstorming]]"
   - "[[Engineering Pragmatism]]"
   - "[[Refined Mastery]]"
@@ -100,7 +101,7 @@ updated: 2026-10-08
 > [!policy-design]- 方案设计与组织网络
 > - **项目目标** 验证核裂变链式反应机理，攻克铀浓缩与钚生产工业化工艺，设计并引爆实战化原子弹。
 > - **实施网络** 形成“洛斯阿拉莫斯国家实验室（Project Y，理论设计与[[Assemblage|组装]]）— 橡树岭（铀同位素分离）— 汉福德（钚增殖反应堆）”三大基地协同网络。
-> - **保密与敏捷管理** 实行严格的模块化保密分区，同时赋予实验室主任[[J. Robert Oppenheimer|奥本海默]]对科学家的敏捷组织权限，打破繁文缛节，确保跨学科[[Brainstorming|头脑风暴]]与[[Engineering Pragmatism|工程实用主义]]高效落地。
+> - **保密与敏捷管理** 实行严格的模块化保密分区，同时赋予实验室主任[[J. Robert Oppenheimer|奥本海默]]对科学家的敏捷组织权限，打破[[Red Tape|繁文缛节]]，确保跨学科[[Brainstorming|头脑风暴]]与[[Engineering Pragmatism|工程实用主义]]高效落地。
 
 > [!contrast-table] 美德二战原子能研发战略决策与体制效能对比
 > | 比较维度 | 美国曼哈顿工程（Manhattan Project） | 纳粹德国铀俱乐部（Uranprojekt） |

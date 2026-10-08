@@ -8,10 +8,10 @@ summary: "德国比较教育学者与系统理论家，柏林洪堡大学比较�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 31
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 32
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: "1942"
 died: ""
 lifespan: "1942–至今"
@@ -45,6 +45,7 @@ related_theories:
   - "[[World-Systems Theory]]"
 related_methods: []
 related_persons:
+  - "[[Isaiah Berlin]]"
   - "[[Wolfgang Mitter]]"
   - "[[Niklas Luhmann]]"
   - "[[Robert Cowen]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-06
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Jurgen Schriewer
@@ -71,7 +72,7 @@ updated: 2026-10-07
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 德国当代最具国际影响力的比较教育学家之一、社会学系统理论家，柏林洪堡大学（Humboldt University of Berlin）哲学四院比较教育研究所创所所长、荣休讲座教授，曾任[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）主席（1996–2000）。
+> - **身份位置** 德国当代最具国际影响力的比较教育学家之一、社会学系统理论家，[[Isaiah Berlin|柏林]]洪堡大学（Humboldt University of Berlin）哲学四院比较教育研究所创所所长、荣休讲座教授，曾任[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）主席（1996–2000）。
 > - **核心角色** 比较教育学“社会学系统理论转向”与“世界体系[[Externalization|外化]][[Paradigm|范式]]”的开创者。米特（[[Wolfgang Mitter]]）指出，两德统一后，德国比较教育因西德部分大学财政收缩而将学科接力棒传向东部，施里韦尔领导下的柏林洪堡大学迅速发展为欧洲比较教育首屈一指的学术重镇。施里韦尔[[Creativity|创造性]]地将[[Niklas Luhmann|尼克拉斯·卢曼]]的[[Autopoiesis|自创生]]系统论（Autopoietic Systems Theory）与[[World-Systems Theory|世界体系理论]]融为一体，开创了享誉国际的“向世界参照外化”（Externalisation）分析范式。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 90, 93)]]
 > - **代表贡献** 创立教育政策与[[Discourse|话语]][[Externalization|外化]]理论；区分客观进化过程与主观语义建构；出版《比较教育中的话语形成》（2003）；与考恩（[[Robert Cowen]]）、卡扎米亚斯（[[Andreas Kazamias]]）一同在世纪之交坚守欧洲深厚的文化主义与学科本体理论传统，抵御去理论化的大规模量化测评。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94)]]
 
@@ -86,7 +87,7 @@ updated: 2026-10-07
 > - **1942** **德国出生与法德学术渊源** 出生于德国，早年在波恩大学等学府深造，熟谙法国思想史与社会学，奠定了跨越德法两国学术传统的方法论视野。
 > - **1980s** **法兰克福大学研究与[[Niklas Luhmann|卢曼]]系统论结合** 任教于法兰克福大学期间，深受德国社会学[[Positivism|实证主义]]争论与系统论洗礼，开始系统引入[[Niklas Luhmann|卢曼]]的[[Autopoiesis|自创生]]系统论，探索跨国教育转移中的意义生产机制。
 > - **1990** **发表[[Externalization|外化]]理论奠基性论文** 在与[[Brian Holmes|布莱恩·霍姆斯]]（[[Brian Holmes]]）合作编纂的论文集中发表《比较作为方法与外化的需求》（*The method of comparison and the need for externalization*），首次确立外化概念为比较教育学破解因果确定论迷思的核心[[Epistemology|认识论]]工具。
-> - **1992–2007** **执掌柏林洪堡大学引领东德学科重建** 两德统一后应邀执掌柏林洪堡大学比较教育讲座，创立洪堡大学比较教育研究所，延揽于尔根·亨策（Jürgen Henze）等学者，将洪堡大学打造为后冷战欧洲跨国网络研究与博士生培养的旗帜性中心。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 90)]]
+> - **1992–2007** **执掌[[Isaiah Berlin|柏林]]洪堡大学引领东德学科重建** 两德统一后应邀执掌柏林洪堡大学比较教育讲座，创立洪堡大学比较教育研究所，延揽于尔根·亨策（Jürgen Henze）等学者，将洪堡大学打造为后冷战欧洲跨国网络研究与博士生培养的旗帜性中心。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 90)]]
 > - **1996–2000** **当选[[Comparative Education Society in Europe|欧洲比较教育学会]]主席推动学术开放** 出任 CESE 主席，积极推动冷战后中东欧学者融入欧洲比较学术共同体，并在 2000 年组织编写关于[[European Education Space|欧洲教育空间]]重构的重磅成果。
 > - **2003** **出版《比较教育中的[[Discourse|话语]]形成》固化全球学派地位** 出版主编著作《比较教育中的话语形成》（*Discourse Formation in Comparative Education*），将外化分析正式升级为全球教育话语形成与跨国互涉（inter-referencing）的系统理论。
 > - **2007–至今** **洪堡大学荣休与持续理论阐发** 从洪堡大学荣休后，持续致力于复杂性与因果律的科学哲学探讨，被国际学术界公认为现代欧洲比较教育理论的一代宗师。
@@ -158,5 +159,5 @@ updated: 2026-10-07
 ## 论证索引
 
 > [!evidence-grid-a] 相关论证索引
-> - [[Argument_Mitter_2009_Europe|Mitter (2009, pp. 90, 93–94)]] — 详述施里韦尔在两德统一后执掌柏林洪堡大学比较教育研究所的学术史地位，系统阐释其结合[[Niklas Luhmann|卢曼]]系统论与[[World-Systems Theory|世界体系理论]]创立的[[Externalization|外化]][[Paradigm|范式]]，以及其作为欧洲文化主义与学科本体理论坚守者的标杆意义。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009, pp. 90, 93–94)]] — 详述施里韦尔在两德统一后执掌[[Isaiah Berlin|柏林]]洪堡大学比较教育研究所的学术史地位，系统阐释其结合[[Niklas Luhmann|卢曼]]系统论与[[World-Systems Theory|世界体系理论]]创立的[[Externalization|外化]][[Paradigm|范式]]，以及其作为欧洲文化主义与学科本体理论坚守者的标杆意义。
 > - [[Argument_Rappleye_2006_RCIE|Rappleye (2006, pp. 230, 232)]] — 深入解析施里韦尔关于外化过滤、进化过程与语义建构的分野，以及改革派与保守派双向外化的结构性机制。

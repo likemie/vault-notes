@@ -7,7 +7,7 @@ aliases:
 summary: "指将关键决策权与行动自由最大程度下放给处于系统外部前沿与外围边界的个体（如蜂群侦察蜂、椋鸟群外围鸟只、一线软件工程师与战区作战人员），依靠一线最新感知敏捷驱动全系统响应，彻底打破中心层级管控与官僚信息中介的组织协同机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
   - theme/decentralization
   - theme/organizational-culture
 related_concepts:
+  - "[[Red Tape]]"
   - "[[Creativity]]"
   - "[[Flocking Behavior]]"
   - "[[Paradigm]]"
@@ -123,7 +124,7 @@ updated: 2026-10-08
 ### 命题二　彻底清除中间管理中介与合规免责博弈是维持边缘自治的制度前提
 
 > [!concept-lens] 组织病理学与工程文化重构维度
-> 探讨如何通过消除科层中介与官僚繁文缛节，为一线工程人员提供即兴创造与自主响应的制度空间。
+> 探讨如何通过消除科层中介与[[Red Tape|官僚繁文缛节]]，为一线工程人员提供即兴创造与自主响应的制度空间。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
 > **废除中层管理阻碍与释放即兴自适应潜能断言** 亚历山大·卡普与尼古拉斯·扎米斯卡指出，在大多数人类科层组织中，大量宝贵的人才与[[Creativity|创造力]]被耗费在争权夺利、争抢功劳与回避责任的内部政治博弈中；要真正实现边缘自治，必须彻底消灭多层级的副总裁结构、形式化周报、向上级领导汇报的 PPT 演示以及为了开会而开会的准备会议，让组织回归到只有群体本身、允许即兴发挥与敏捷响应的扁平形态。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 121)]]
