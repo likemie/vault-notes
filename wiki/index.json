@@ -8057,6 +8057,17 @@
     ]
   },
   {
+    "title": "Dance Language of Bees",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Dance Language of Bees.md",
+    "aliases": [
+      "蜜蜂舞蹈语言",
+      "舞蹈语言",
+      "蜜蜂摆尾舞",
+      "Tanzsprache"
+    ]
+  },
+  {
     "title": "Educational Affordances",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Educational Affordances.md",
@@ -8341,6 +8352,16 @@
     ]
   },
   {
+    "title": "Swarm Intelligence",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Swarm Intelligence.md",
+    "aliases": [
+      "群智能",
+      "蜂群智能",
+      "群体自组织"
+    ]
+  },
+  {
     "title": "Synaptic Pruning",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Synaptic Pruning.md",
@@ -8571,6 +8592,16 @@
     "path": "wiki/concepts/political-economy-geopolitics/Economic Patriotism.md",
     "aliases": [
       "经济爱国主义"
+    ]
+  },
+  {
+    "title": "Edge Autonomy",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Edge Autonomy.md",
+    "aliases": [
+      "边缘自治",
+      "边缘决策权",
+      "边缘信息驱动决策"
     ]
   },
   {
@@ -20725,6 +20756,16 @@
     ]
   },
   {
+    "title": "Karl von Frisch",
+    "type": "person",
+    "path": "wiki/persons/austria/Karl von Frisch.md",
+    "aliases": [
+      "卡尔·冯·弗里施",
+      "冯·弗里施",
+      "Von Frisch"
+    ]
+  },
+  {
     "title": "Otto Neurath",
     "type": "person",
     "path": "wiki/persons/austria/Otto Neurath.md",
@@ -21668,6 +21709,15 @@
     ]
   },
   {
+    "title": "Martin Lindauer",
+    "type": "person",
+    "path": "wiki/persons/germany/Martin Lindauer.md",
+    "aliases": [
+      "马丁·林道尔",
+      "林道尔"
+    ]
+  },
+  {
     "title": "Max Planck",
     "type": "person",
     "path": "wiki/persons/germany/Max Planck.md",
@@ -21871,6 +21921,16 @@
       "罗伯·基钦",
       "基钦",
       "Kitchin, R."
+    ]
+  },
+  {
+    "title": "Giorgio Parisi",
+    "type": "person",
+    "path": "wiki/persons/italy/Giorgio Parisi.md",
+    "aliases": [
+      "乔治·帕里西",
+      "帕里西",
+      "Parisi"
     ]
   },
   {
@@ -26504,6 +26564,17 @@
       "法国业士文凭国际选项",
       "Option internationale du baccalauréat",
       "OIB"
+    ]
+  },
+  {
+    "title": "Eck Swarm Experiment",
+    "type": "fact",
+    "path": "wiki/facts/germany/Eck Swarm Experiment.md",
+    "aliases": [
+      "埃克蜂群实验",
+      "埃克蜂群观测",
+      "埃克蜂群",
+      "Eck Swarm"
     ]
   },
   {
@@ -33150,6 +33221,11 @@
     "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch09",
     "type": "argument",
     "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch09.md"
+  },
+  {
+    "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch10",
+    "type": "argument",
+    "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch10.md"
   },
   {
     "title": "Argument_Kelly_Licona_2018_EpistemicPractices",

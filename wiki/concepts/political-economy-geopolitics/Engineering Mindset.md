@@ -104,11 +104,21 @@ updated: 2026-10-08
 
 ---
 
+### 命题二　工程思维的组织本质是去中心化的生物群智能与边缘自治
+
+> [!concept-lens] 组织生态学与复杂自适应系统维度
+> 该命题揭示了工程思维在微观组织机制层面与生物自组织现象的深刻同构性。
+
+> [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
+> **群智能自组织与初创文化同构断言** 亚历山大·卡普与尼古拉斯·扎米斯卡援引[[Martin Lindauer|马丁·林道尔]]（[[Martin Lindauer]]）对[[Eck Swarm Experiment|埃克蜂群]]（[[Eck Swarm Experiment]]）的观测与[[Giorgio Parisi|乔治·帕里西]]（[[Giorgio Parisi]]）对椋鸟群飞的研究，指出最卓越的工程组织本质上应当是一个去中心化的蜜蜂蜂群或椋鸟群；通过将决策权与感知权充分赋予处于外部前沿的侦察蜂与一线工程师（[[Edge Autonomy|边缘自治]]），彻底破除传统官僚层级中层层设卡的副总裁、形式主义周报与内耗性免责博弈，使组织在高度动态不确定的环境中依托[[Swarm Intelligence|群智能]]自发涌现出极致的敏捷自适应能力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 119–121)]]
+
+---
+
 ## 概念演变
 
 > [!dev-timeline] 概念演变
 > - **1990s 末 — 破产废墟中的意外收获** [[Dot-Com Bubble|互联网泡沫]]破裂淘汰了虚浮商业模式，确立了以敏捷软件工程为代表的协同[[Paradigm|范式]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 111)]]
-> - **2000s–2010s — 在反恐战争与重大危机中实战进化** 帕兰提尔等硬核科技公司将工程思维应用于阿富汗反简易爆炸装置（IED）与战区数据融合。
+> - **1950s–2000s — 群体智能生物学与物理学渊源** 林道尔对蜜蜂蜂群决策的解密与帕里西对椋鸟群飞自组织物理机制的破译，为工程思维中的去中心化协同提供了深层科学依据。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–121)]]
 > - **2025 — 升华为国家治理重构范式** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中将工程思维确立为专著第三部的核心支柱，主张将其全面引入国防部、联邦机构与公共治理体系。
 
 ---
@@ -116,4 +126,6 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025)]] — 专著第 9 章结尾正式引出工程思维，作为全书由第二部（意识形态诊断）向第三部（微观组织机制）推进的理论转折点。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025, Ch. 9)]] — 专著第 9 章结尾正式引出工程思维，作为全书由第二部（意识形态诊断）向第三部（微观组织机制）推进的理论转折点。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Karp & Zamiska (2025, Ch. 10)]] — 专著第 10 章将工程思维与蜜蜂埃克蜂群、椋鸟群飞等生物群智能深度同构，奠定第三部组织机制论证基石。
+
