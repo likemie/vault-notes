@@ -5,6 +5,22 @@
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch16.md"
     },
     {
+      "basename": "Sage",
+      "path": "wiki/concepts/chinese-philosophy/Sage.md"
+    },
+    {
+      "basename": "Red Tape",
+      "path": "wiki/concepts/political-economy-geopolitics/Red Tape.md"
+    },
+    {
+      "basename": "Engineering Mindset",
+      "path": "wiki/concepts/political-economy-geopolitics/Engineering Mindset.md"
+    },
+    {
+      "basename": "Nicholas Zamiska",
+      "path": "wiki/persons/us/Nicholas Zamiska.md"
+    },
+    {
       "basename": "Technological Republic",
       "path": "wiki/concepts/political-economy-geopolitics/Technological Republic.md"
     },
@@ -87,14 +103,6 @@
     {
       "basename": "Five Whys",
       "path": "wiki/methods/qualitative/Five Whys.md"
-    },
-    {
-      "basename": "Nicholas Zamiska",
-      "path": "wiki/persons/us/Nicholas Zamiska.md"
-    },
-    {
-      "basename": "Engineering Mindset",
-      "path": "wiki/concepts/political-economy-geopolitics/Engineering Mindset.md"
     },
     {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31",
@@ -191,14 +199,6 @@
     {
       "basename": "Organizational Culture",
       "path": "wiki/theories/sociology-of-education/Organizational Culture.md"
-    },
-    {
-      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch09",
-      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch09.md"
-    },
-    {
-      "basename": "Alfred Nobel",
-      "path": "wiki/persons/sweden/Alfred Nobel.md"
     }
   ],
   "omittedPaths": [],
