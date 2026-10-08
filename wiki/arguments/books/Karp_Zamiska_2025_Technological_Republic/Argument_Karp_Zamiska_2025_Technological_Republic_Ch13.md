@@ -11,9 +11,9 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch13"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch13"
 argument_display_title: "“Building a Better Rifle”"
 argument_kind: "book-chapter"
-argument_related_count: 18
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 12
+argument_related_level: 0
+argument_related_stars: ""
 argument_related_color: "#fef3c7"
 book_title: "The Technological Republic: Hard Power, Soft Belief, and the Future of the West"
 publication_place: "New York"
