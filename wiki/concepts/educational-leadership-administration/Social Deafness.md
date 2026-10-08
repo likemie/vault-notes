@@ -7,10 +7,10 @@ aliases:
 summary: "指个体或组织在面对外部群体压力、世俗共识与社会评价时所保持的一种选择性钝感与反从众免疫力，通过屏蔽外部从众噪音以专注深层工程与艺术构想的创造性心理机制。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/organizational-culture
   - theme/engineering-mindset

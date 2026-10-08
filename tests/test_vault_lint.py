@@ -78,6 +78,18 @@ class RelatedResearchBookTests(unittest.TestCase):
 
         self.assertEqual([], issues)
 
+    def test_nested_callout_does_not_end_parent_index(self) -> None:
+        issues = self.lint(
+            "## 相关研究\n\n"
+            "> [!evidence-grid-a] 相关研究索引\n"
+            "> - [[Argument_Book_Ch11|Author (2025, Ch. 11)]] — 第一项。\n"
+            "> > [!axis] 补充讨论\n"
+            "> > 正文。\n"
+            "> - [[Argument_Book_Ch12|Author (2025, Ch. 12)]] — 第二项。\n"
+        )
+
+        self.assertEqual(["RELATED_RESEARCH_DUPLICATE_BOOK"], [issue.code for issue in issues])
+
     def test_same_book_outside_related_research_index_is_ignored(self) -> None:
         issues = self.lint(
             "## 其他\n\n"

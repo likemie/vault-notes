@@ -9,7 +9,7 @@ aliases:
 summary: "指基于明确的职能分工、自顶向下的层级节制、非人格化的成文规则与专业化职业考核建立的理性化组织与治理形态；在古典社会学中被视作现代性理性化效率的基石，而在公共选择学派与当代实战工程治理论证（卡普与扎米斯卡，2025）中，科层制被批判为容易滋生自利性层级设卡、微观地位固化、会议工业复合体、制度性顺从偏好与阻碍一线自适应创新的防卫型组织体制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

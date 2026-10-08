@@ -912,6 +912,9 @@ def check_related_research_duplicate_books(
         if header:
             title = header.group("title")
             depth = header.group("quote").count(">")
+            if in_index and depth > index_depth:
+                line_number += line.count("\n")
+                continue
             in_index = "相关研究" in title and "索引" in title
             index_depth = depth if in_index else 0
             seen_books = {}
@@ -958,7 +961,7 @@ def check_related_research_duplicate_books(
                 "WARN",
                 rel(path),
                 f"相关研究索引重复列出同一本书：[[{previous_target}]]（第 {previous_line} 行）与 "
-                f"[[{target}]]；请合并为一个顶层书籍条目，并在说明中保留所需章节链接",
+                f"[[{target}]]；请合并为一个顶层来源条目，并在说明中保留所需章节链接",
                 line=line_number,
                 code="RELATED_RESEARCH_DUPLICATE_BOOK",
             ))
