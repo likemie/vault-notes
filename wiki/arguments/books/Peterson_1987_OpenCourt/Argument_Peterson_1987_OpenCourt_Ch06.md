@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch06"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch06"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 32
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -55,6 +55,7 @@ related_persons:
   - "[[Hyman Rickover]]"
   - "[[Gerard Renaud]]"
   - "[[Gilbert Nicol]]"
+  - "[[James Madison]]"
 related_facts:
   - "[[International Baccalaureate North America]]"
   - "[[United World Colleges]]"
@@ -392,7 +393,7 @@ updated: 2026-10-08
 > - **1977 年 8 月：** 尼科尔接任执行主任。此前曾讨论把兼职人员置于哈佛、UNIS 或 College Board，最终改为全职主任和独立办公室；College Board 曾提出以每月 125 美元象征性租金暂供桌子和电话。
 > - **1977—1981 年：** 彼得森一度认为美国 IB 学校若达到 50 所，就可能需要把美国业务完全分设；实际数量在 1981 年底前已经越过 50 所，显示早期规划明显低估扩张速度。
 > - **1980 年：** 卡鲁斯辞去 IBNA 日常主席工作，把更多时间投入 IBO；哈戈特接任区域领导。
-> - **1983 年 5 月：** IBNA 从第五大道 680 号迁至麦迪逊大道 200 号更宽敞、实用的办公室；北美学校的高速增长早在搬迁前已经开始（pp. 142–144）。
+> - **1983 年 5 月：** IBNA 从第五大道 680 号迁至[[James Madison|麦迪逊]]大道 200 号更宽敞、实用的办公室；北美学校的高速增长早在搬迁前已经开始（pp. 142–144）。
 
 > [!case] 200 平方英尺办公室如何产生“富裕总部”神话
 > IBNA 最初的独立办公室只是纽约第五大道 680 号九层接待区隔出的约 200 平方英尺空间。彼得森把它比作哈默史密斯与西伦敦学院里曾供总干事使用的加大储物柜；尼科尔和后来加入的伊斯勒却要在此处理不断增长的区域业务。对熟悉纽约房地产的人而言，第五大道地址既可能代表富裕，也可能只是贫困机构租用的狭小角落；对从未到访的海外校长而言，它却容易成为“北美办公室资金充裕、薪酬过高并挤占全球资源”的象征（pp. 143–144）。

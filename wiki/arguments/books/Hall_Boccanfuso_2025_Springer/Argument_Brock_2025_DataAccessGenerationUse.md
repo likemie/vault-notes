@@ -24,7 +24,8 @@ related_theories: []
 related_methods:
   - "[[Questionnaire]]"
   - "[[Analytic Framework]]"
-related_persons: []
+related_persons:
+  - "[[James Madison]]"
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
   - "[[National Institutes of Health]]"
@@ -38,14 +39,14 @@ part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 related_instruments: []
 status: draft
 created: 2026-06-04
-updated: 2026-09-07
+updated: 2026-10-08
 subtype: book-chapter
 publication_type: book
 title: "Argument_Brock_2025_DataAccessGenerationUse"
 argument_key: "Argument_Brock_2025_DataAccessGenerationUse"
 argument_display_title: "Data: Access, generation, use"
 argument_kind: "book"
-argument_related_count: 15
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -153,7 +154,7 @@ citation_aliases:
 面对日益增长的数据治理需求，多所大学已建立了数据分类政策和管理框架。这些政策直接映射到产学协议的条款设计(pp.294–295)。
 
 > [!example]
-> 威斯康星大学麦迪逊分校的数据分类政策将"机构数据"按敏感性分为四个级别。Level 2 包括"合同保密义务限制公共披露的机构数据"。Level 4 被描述为"在授权公开发布的时间之前披露会丧失或降低其价值、或披露会以其他方式对大学造成不利财务影响的机构数据"，具体包括：发表前或专利申请前的研究数据或结果；非专利技术信息或专门知识（增强已专利发明的价值或具有独立商业价值）。这一分类直接对应产学协议中的发表延迟条款——当企业要求大学在发表前提交数据供审查时，大学可以援引 Level 4 的分类逻辑来界定"哪些数据在什么时间段内不可披露"。这不是大学在迁就企业，而是大学自身的数据治理框架本来就要求对发表前的研究数据施加临时性保护。
+> 威斯康星大学[[James Madison|麦迪逊]]分校的数据分类政策将"机构数据"按敏感性分为四个级别。Level 2 包括"合同保密义务限制公共披露的机构数据"。Level 4 被描述为"在授权公开发布的时间之前披露会丧失或降低其价值、或披露会以其他方式对大学造成不利财务影响的机构数据"，具体包括：发表前或专利申请前的研究数据或结果；非专利技术信息或专门知识（增强已专利发明的价值或具有独立商业价值）。这一分类直接对应产学协议中的发表延迟条款——当企业要求大学在发表前提交数据供审查时，大学可以援引 Level 4 的分类逻辑来界定"哪些数据在什么时间段内不可披露"。这不是大学在迁就企业，而是大学自身的数据治理框架本来就要求对发表前的研究数据施加临时性保护。
 
 > [!example]
 > 华盛顿大学的研究数据政策提供了另一制度实例。该政策将"研究数据"定义为"在大学进行、受大学支持或使用大学资源开展的研究中产生或与之相关的信息、记录和有形产品"，包括无形物（信息、软件等版权作品）和有形物（细胞系、合成化合物等）。大学主张对所有研究数据的所有权，但附加了两个关键例外：第三方协议另有约定、法律或大学政策另有规定。这一政策对产学协议谈判意味着：当企业要求获得项目数据的所有权时，大学谈判者必须声明——大学政策默认数据归大学所有，任何所有权的变更必须通过"第三方协议另有约定"这一例外条款来达成，即企业必须在协议中明确约定数据权利的分配，而不能依赖默认规则。项目负责人（Principal Investigator, PI）则承担管理职责、保存要求和数据转移程序(p.295)。

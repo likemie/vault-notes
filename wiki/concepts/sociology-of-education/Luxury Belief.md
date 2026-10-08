@@ -7,7 +7,7 @@ aliases:
 summary: "社会学者罗伯·亨德森提出的社会分层与文化资本概念；指特权阶层为彰显自身道德优越感与社会地位而采纳、自身承担极低成本却将严重社会代价转嫁给底层弱势群体的意识形态信念（例如削减地方执法支持或抵制技术警务）。"
 type: concept
 domain: "sociology-of-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Engineering Mindset]]"
   - "[[Externalization]]"
   - "[[Discourse]]"
+  - "[[Procedural Piety]]"
   - "[[Cultural Capital]]"
   - "[[Predictive Policing]]"
 related_theories: []
@@ -80,7 +81,7 @@ updated: 2026-10-08
 > [!feature] 核心要素
 > - **地位象征功能（Status-Signaling Function）** 精英通过倡导脱离现实的激进观念在同行中建立文化声望，形成道德垄断。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 177–178)]]
 > - **代价[[Externalization|外部化]]（Cost Externalization）** 倡导者自身居住于高安全富裕社区，享有私人安保或良好治安，免受政策恶果的直接冲击。
-> - **表演性道德[[Discourse|话语]]（Performative Moralism）** 优先关注象征性胜利与政治口号表态，而非实实在在改善底层民众的生活质量（如减少暴力与疾病）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 178)]]
+> - **表演性道德[[Discourse|话语]]（[[Procedural Piety|Performative Moralism]]）** 优先关注象征性胜利与政治口号表态，而非实实在在改善底层民众的生活质量（如减少暴力与疾病）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 178)]]
 
 ---
 

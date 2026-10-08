@@ -6,7 +6,7 @@ summary: "美国哲学家、教育理论家，加州大学伯克利分校哲学�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 11
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -29,8 +29,10 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Kenneth Burke]]"
   - "[[Plato]]"
   - "[[Aristotle]]"
+  - "[[James Madison]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
 related_facts:
@@ -50,7 +52,7 @@ updated: 2026-10-08
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国哲学家、教育思想家，加州大学伯克利分校（UC Berkeley）哲学系主任、教授。
+> - **身份位置** 美国哲学家、教育思想家，加州大学[[Kenneth Burke|伯克]]利分校（UC Berkeley）哲学系主任、教授。
 > - **核心角色** 20 世纪中叶美国高等教育实验性改革的先驱，伯克利实验大学计划（Experimental College Program, 1965–1969）的主导创立者；在 1960 年代末正典[[General Education|通识教育]]大论战中，因敏锐揭示核心课程选目编辑特权的内在困境而成为思想史关键节点。
 > - **代表贡献** 创立聚焦城邦危机的跨学科整合通识模式；在 1968 年发表关于正典篇目筛选机制的经典质问。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 88)]]
 
@@ -64,8 +66,8 @@ updated: 2026-10-08
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1914年** 出生于美国，后就读于威斯康星大学麦迪逊分校，深受亚历山大·米克尔约翰（Alexander Meiklejohn）实验学院思想影响。
-> - **1947年** 获得加州大学伯克利分校哲学博士学位，后留校长期任教，历任哲学系主任。
+> - **1914年** 出生于美国，后就读于威斯康星大学[[James Madison|麦迪逊]]分校，深受亚历山大·米克尔约翰（Alexander Meiklejohn）实验学院思想影响。
+> - **1947年** 获得加州大学[[Kenneth Burke|伯克]]利分校哲学博士学位，后留校长期任教，历任哲学系主任。
 > - **1960年** 出版政治哲学名著《义务与政治体》（*Obligation and the Body Politic*），探讨公民对民主制度的契约义务与政治教育。
 > - **1965–1969年** 在加州大学伯克利分校主持著名的“图斯曼实验学院（Tussman Experimental College）”，尝试通过研读古希腊、17世纪英格兰与当代美国三大危机时期的经典，重塑本科[[General Education|通识教育]]。
 > - **1968年** 发表《大学成人礼》（*The Collegiate Rite of Passage*），深刻剖析核心课程大纲编写的裁决特权与结构性危机。

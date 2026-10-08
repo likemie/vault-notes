@@ -9,7 +9,7 @@ aliases:
 summary: "由 Marcia C. Linn 领衔创立的科学教育建构主义教学设计与认知评估理论，主张学习者通过引出前概念、引入新想法、发展证据判别标准与反思整合四个协同机制，将离散经验演进为连贯的科学因果网络"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 29
+theory_related_count: 30
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -60,7 +60,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-22
+updated: 2026-10-08
 ---
 
 # Knowledge Integration

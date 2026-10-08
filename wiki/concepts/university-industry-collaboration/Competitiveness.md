@@ -11,7 +11,7 @@ aliases:
 summary: "驱动国家科技战略、大学治理变革与劳动力技能重塑的核心逻辑与地缘政治装置。在宏观上体现为打破规制阻滞、依托共享试验场与先进制造将基础科学转化为国家产业技术与地缘科技主权；在中观上体现为以产学工程中心突破学科壁垒，以及依托排名与卓越审计将大学重塑为争夺资源与声誉的准市场主体；在微观上体现为通过学习分析与产线组织学习管理潜在努力与工程技艺以消除不确定性。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 74
+related_count: 75
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"

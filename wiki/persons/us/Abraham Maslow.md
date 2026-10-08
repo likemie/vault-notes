@@ -9,7 +9,7 @@ summary: "美国心理学家，人本主义心理学主要奠基人，曾任美�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -41,6 +41,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[James Madison]]"
   - "[[Carl Rogers]]"
   - "[[John Dewey]]"
 related_facts: []
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-22
+updated: 2026-10-08
 ---
 
 # Abraham Maslow
@@ -68,7 +69,7 @@ updated: 2026-09-22
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1908** 出生于美国纽约布鲁克林，早年在威斯康星大学麦迪逊分校接受实验心理学与灵长类行为学训练，获心理学博士学位。
+> - **1908** 出生于美国纽约布鲁克林，早年在威斯康星大学[[James Madison|麦迪逊]]分校接受实验心理学与灵长类行为学训练，获心理学博士学位。
 > - **1937–1951** 任教于布鲁克林学院，深受格式塔心理学与文化人类学启发，转向对人类潜能与健康人格的积极心理探究。
 > - **1951–1969** 担任布兰代斯大学（Brandeis University）心理学系主任与讲座教授，成为人本主义心理学运动的核心理论家。
 > - **1954** 出版《动机与人格》（*Motivation and Personality*），系统阐发科学的多元功能（Box 1.1）与需求层次理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 16)]]

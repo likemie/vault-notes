@@ -8,7 +8,7 @@ aliases:
 summary: "指具备深厚跨学科认知广度与工程/实践创造力、能够自由穿透学科壁垒并参与国家战略治理的人格与知识形态。在近代科学专业化（1834 年科学家一词出现）之前，以富兰克林、杰斐逊等为代表的博学传统是早期技术共和国的政治与科学根基；现代学科过度区隔与代议技术人才匮乏使其成为跨学科治理反思的重要范畴。"
 type: concept
 domain: "higher-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,7 +31,8 @@ related_theories: []
 related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[James Madison]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Polymath
@@ -70,7 +71,7 @@ updated: 2026-10-07
 > |:---|:---|:---|:---|
 > | **认知结构** | 跨学科穿透力强，兼通自然哲学、工程实验与政治伦理 | 局限于单一狭窄专业分支，深谙技术细节但缺乏宏观视野 | [[Refined Mastery\|精通]]法律文牍与修辞辩论，缺乏工程理工与实证定量素养 |
 > | **决策取向** | 务实[[Pragmatism in China\|实验主义]]，将技术发明直接对准国家建设战略目标 | 遵循既有工程规格与合规程序，偏好局部渐进优化 | 诉诸意识形态、法条博弈与程序正义，回避技术实质问题 |
-> | **历史典范** | 本杰明·富兰克林、托马斯·杰斐逊、詹姆斯·麦迪逊 | 冷战军工项目工程师、硅谷专业架构师 | 当代美欧立法机构中占主导地位的律师政客（pp. 5–6, 155） |
+> | **历史典范** | 本杰明·富兰克林、托马斯·杰斐逊、[[James Madison\|詹姆斯·麦迪逊]] | 冷战军工项目工程师、硅谷专业架构师 | 当代美欧立法机构中占主导地位的律师政客（pp. 5–6, 155） |
 
 ---
 
@@ -79,7 +80,7 @@ updated: 2026-10-07
 > [!feature] 核心要素
 > - **跨学科穿透能力** 无视人为设置的学科壁垒，能够自由穿梭于物理学、生物学、工程制造、法律与哲学政治之间。
 > - **务实工程导向** 坚持[[Pragmatic Paradigm|实用主义]]科学政策，摒弃虚荣的好奇心，注重将科学发现转化为增进民生福利与国家实力的具体技术。
-> - **实证测量与反思精神** 崇尚亲自动手进行实验观察与测量（如麦迪逊解剖黄鼠狼反驳物种退化论），以经验证据挑战权威陈见。
+> - **实证测量与反思精神** 崇尚亲自动手进行实验观察与测量（如[[James Madison|麦迪逊]]解剖黄鼠狼反驳物种退化论），以经验证据挑战权威陈见。
 > - **政治与科学的双栖实践** 不将科学视为远离尘嚣的象牙塔避风港，而是主动作为国家治理的参与者与奠基者。
 
 ---

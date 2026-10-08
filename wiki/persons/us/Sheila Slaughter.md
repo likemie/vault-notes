@@ -7,7 +7,7 @@ summary: "美国当代著名高等教育学学者，佐治亚大学麦克比高�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -40,10 +40,12 @@ related_arguments:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Correlational Research]]"
+related_persons:
+  - "[[James Madison]]"
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-06
+updated: 2026-10-08
 ---
 
 # Sheila Slaughter
@@ -67,7 +69,7 @@ updated: 2026-10-06
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1960s–1970s** 获威斯康星大学麦迪逊分校博士学位，专注于美国高等教育历史与社会学批判研究。
+> - **1960s–1970s** 获威斯康星大学[[James Madison|麦迪逊]]分校博士学位，专注于美国高等教育历史与社会学批判研究。
 > - **1980s–2004年** 长期任教于亚利桑那大学高等教育研究中心，深入调查[[Bayh-Dole Act of 1980|拜杜法案]]（Bayh-Dole Act）对美国大学科研组织形态的微观重塑。
 > - **1997年** 出版开创性学术专著《[[Academic Capitalism|学术资本主义]]：政治、政策与[[Entrepreneurial University|创业型大学]]》，获 ASHE 年度杰出学术著作奖。
 > - **2004年起** 加盟佐治亚大学麦克比高等教育研究所任特聘讲席教授，系统跟踪全球[[Knowledge-Based Economy|知识经济]]中高校科学家的角色分化。

@@ -5028,8 +5028,10 @@
     "aliases": [
       "产出导向治理",
       "结果导向治理",
+      "实效优先治理",
       "Output-Orientierung",
       "Output-Oriented School Governance",
+      "Outcome-Centric Governance",
       "Evidenzbasierte Steuerung",
       "循证治理"
     ]
@@ -9264,6 +9266,20 @@
       "预判性治理",
       "先发制人的学生治理",
       "preemptive student governance"
+    ]
+  },
+  {
+    "title": "Procedural Piety",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Procedural Piety.md",
+    "aliases": [
+      "程序虔敬",
+      "规程虔敬",
+      "虔敬及其代价",
+      "Piety and Its Price",
+      "道德表演主义",
+      "Performative Moralism",
+      "形式主义合规迷思"
     ]
   },
   {
@@ -22264,6 +22280,18 @@
     ]
   },
   {
+    "title": "Saint Benedict",
+    "type": "person",
+    "path": "wiki/persons/italy/Saint Benedict.md",
+    "aliases": [
+      "圣本笃",
+      "努西亚的圣本笃",
+      "Saint Benedict of Nursia",
+      "Benedict of Nursia",
+      "本笃"
+    ]
+  },
+  {
     "title": "Kenichi Ohmae",
     "type": "person",
     "path": "wiki/persons/japan/Kenichi Ohmae.md",
@@ -24468,6 +24496,17 @@
     "aliases": [
       "Cohen, J.",
       "雅各布·科恩"
+    ]
+  },
+  {
+    "title": "James Madison",
+    "type": "person",
+    "path": "wiki/persons/us/James Madison.md",
+    "aliases": [
+      "詹姆斯·麦迪逊",
+      "麦迪逊",
+      "Madison, J.",
+      "James Madison Jr."
     ]
   },
   {

@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch07"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch07"
 argument_display_title: "A balloon cut loose"
 argument_kind: "book-chapter"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"

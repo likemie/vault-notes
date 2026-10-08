@@ -11,7 +11,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 27
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -44,6 +44,8 @@ related_persons:
   - "[[Alfred Nobel]]"
   - "[[Richard C. Atkinson]]"
   - "[[Pepka Boyadjieva]]"
+  - "[[Kenneth Burke]]"
+  - "[[James Madison]]"
   - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[National Research Council]]"
@@ -138,7 +140,7 @@ updated: 2026-10-08
 > - **美国在前 20 强所占席位** 17 席（全球前 20 强仅有 3 所非美学府：英国剑桥大学第 2、英国牛津大学第 10、日本东京大学第 20）。
 > - **美国在前 50 强所占席位** 37 席（在前 50 强中占比高达 74%）。
 > - **欧洲大陆高校在前 50 强席位** 仅 4 席（苏黎世联邦理工学院第 27、乌得勒支大学第 41、卡罗林斯卡学院第 45、巴黎第六大学第 46）。
-> - **前 20 强高校完整序列** 哈佛大学、剑桥大学、斯坦福大学、加州大学伯克利分校、麻省理工学院、加州理工学院、哥伦比亚大学、普林斯顿大学、芝加哥大学、牛津大学、耶鲁大学、康奈尔大学、加州大学圣地亚哥分校、加州大学洛杉矶分校、宾夕法尼亚大学、威斯康星大学麦迪逊分校、华盛顿大学西雅图分校、加州大学旧金山分校、约翰斯·霍普金斯大学、东京大学。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
+> - **前 20 强高校完整序列** 哈佛大学、剑桥大学、斯坦福大学、加州大学[[Kenneth Burke|伯克]]利分校、麻省理工学院、加州理工学院、哥伦比亚大学、普林斯顿大学、芝加哥大学、牛津大学、耶鲁大学、康奈尔大学、加州大学圣地亚哥分校、加州大学洛杉矶分校、宾夕法尼亚大学、威斯康星大学[[James Madison|麦迪逊]]分校、华盛顿大学西雅图分校、加州大学旧金山分校、约翰斯·霍普金斯大学、东京大学。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
 
 ---
 

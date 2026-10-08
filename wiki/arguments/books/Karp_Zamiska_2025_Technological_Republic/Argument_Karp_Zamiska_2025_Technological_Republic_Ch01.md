@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch01"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch01"
 argument_display_title: "Lost valley"
 argument_kind: "book-chapter"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -57,6 +57,7 @@ related_persons:
   - "[[Jürgen Habermas]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
+  - "[[James Madison]]"
   - "[[Franklin D. Roosevelt]]"
   - "[[Vannevar Bush]]"
   - "[[Herbert Hoover]]"
@@ -79,7 +80,7 @@ sources:
 part_of: "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 status: draft
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 # Argument_Karp_Zamiska_2025_Technological_Republic_Ch01
 
@@ -176,7 +177,7 @@ updated: 2026-10-07
 > [!evidence-grid] 建国先驱的工程实践与实证探索证据
 > - **富兰克林的电学科学革命** 哈佛大学化学教授达德利·赫施巴赫评价其在电学领域的奠基性发现，在科学史上足以与 17 世纪的牛顿或 20 世纪发现脱氧核糖核酸（DNA）双螺旋结构的沃森与克里克相提并论。
 > - **杰斐逊的科学热情与发明** 1791 年致信哈里·英尼斯称科学与自然史是其热情、政治是其职责，亲自设计日晷与便携式密码机，并在农业机械与古生物学领域开展长期实证考证。（p. 5）
-> - **麦迪逊解剖黄鼠狼反驳退化论** 1786 年亲自解剖一只北美黄鼠狼并记录近 40 组精确测量数据，在经验层面上驳斥布封伯爵提出的美洲物种退化假说。（pp. 5–6）
+> - **[[James Madison|麦迪逊]]解剖黄鼠狼反驳退化论** 1786 年亲自解剖一只北美黄鼠狼并记录近 40 组精确测量数据，在经验层面上驳斥布封伯爵提出的美洲物种退化假说。（pp. 5–6）
 > - **亚当斯倡导实用科学政策取向** 作为第二任总统，亚当斯明确主张年轻的共和国应当摆脱以虚荣好奇心为目标的不切实际的科学，引导国家智力资源转向服务于农业与实业的技术探索。（p. 6）
 
 > [!contrast-table] 历史博学传统与现代代议政治的技术素养对比

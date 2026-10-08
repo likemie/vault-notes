@@ -7,7 +7,7 @@ summary: "希腊裔比较教育学者，倡导历史和人文主义视角与普�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 55
+person_related_count: 56
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -57,12 +57,12 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Problem Approach]]"
 related_persons:
+  - "[[James Madison]]"
   - "[[Robert Cowen]]"
   - "[[Robert Ulich]]"
   - "[[Isaac Kandel]]"
   - "[[Crane Brinton]]"
   - "[[Michael Sadler]]"
-  - "[[Marc-Antoine Jullien]]"
   - "[[Brian Holmes]]"
   - "[[George Bereday]]"
   - "[[Eleftherios Klerides]]"
@@ -81,6 +81,7 @@ related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
+  - "[[Argument_Cowen(Ed.)_2009_Springer]]"
 confidence: high
 status: completed
 created: 2026-06-06
@@ -94,7 +95,7 @@ updated: 2026-10-08
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 希腊裔比较教育历史学家，威斯康星大学麦迪逊分校教授，[[Comparative Education Society in Europe\|欧洲比较教育学会]]（[[Comparative and International Education Society\|Comparative Education Society]] in Europe, CESE）荣誉会员，古典希腊人文主义教育哲学代表学者。
+> - **身份位置** 希腊裔比较教育历史学家，威斯康星大学[[James Madison|麦迪逊]]分校教授，[[Comparative Education Society in Europe\|欧洲比较教育学会]]（[[Comparative and International Education Society\|Comparative Education Society]] in Europe, CESE）荣誉会员，古典希腊人文主义教育哲学代表学者。
 > - **核心角色** 坚守历史与人文主义取向，倡导渐进主义-现代主义-[[Educational Meliorism\|改良主义]]-普罗米修斯式比较教育，是比较教育求同存异传统的核心代表学者。
 > - **代表贡献** 与 [[Robert Cowen\|罗伯特·考恩]]（Robert Cowen）联合主编《比较教育学国际手册》（*International Handbook of Comparative Education*, 2009）；在历史诠释学中确立每一代人必须重写其历史的经典治学原则；奠定比较教育学科创建与再造板块的历史学基石。
 
@@ -112,7 +113,7 @@ updated: 2026-10-08
 > - **1961** 发表《比较教育方法论中的新旧进路》（*Some Old and New Approaches to Methodology in Comparative Education*），作为战后新一代学者代表，率先反思[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）的[[Whiggism\|辉格史观]]与[[National Character\|国民性格]]概念。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 54–55)]]
 > - **1963** 发表《历史、科学与比较教育》（*History, Science and Comparative Education*），援引[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）比较史学理论，论证非普适[[Working Hypothesis|探索性假说]]在历史探究中的科学性，正面回击实证派将历史排斥于科学之外的浪潮。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 56)]]
 > - **1965** 与哈佛同门保罗·纳什（Paul Nash）、亨利·珀金森（Henry Perkinson）联合主编出版文集《受过教育的人》（*The Educated Man*），向导师乌利希致敬。
-> - **1960年代–1970年代** 长期任教于威斯康星大学麦迪逊分校，任比较教育学与教育政策教授，坚决捍卫[[Historical-Comparative Method\|历史比较法]]，抵制[[Positivism\|实证主义]]技术官僚化。
+> - **1960年代–1970年代** 长期任教于威斯康星大学[[James Madison|麦迪逊]]分校，任比较教育学与教育政策教授，坚决捍卫[[Historical-Comparative Method\|历史比较法]]，抵制[[Positivism\|实证主义]]技术官僚化。
 > - **2001** 获选为[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE）荣誉会员，表彰其在跨大西洋与跨欧洲比较教育学术共同体建设中的持久贡献。
 > - **2009** 与[[Robert Cowen\|罗伯特·考恩]]共同主编《比较教育学国际手册》（*International Handbook of Comparative Education*），主持并撰写学科创建与再造板块的多篇关键篇章，系统确立未来重塑过去的比较史学[[Epistemology\|认识论]]。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–10)]]
 > - **2018** 在 CESE 塞浦路斯会议上，卡扎米亚斯的学术生涯成为大会特别讲座的主题，引发学界关于先知化人文主义与半个世纪学科体制成就之间的深刻理论辨析。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 327)]]
@@ -178,8 +179,8 @@ updated: 2026-10-08
 > - **人文主义传统** 坚守古典希腊灵魂教育（[[Paideia]]）理想，在高度技术官僚化与经济[[Pragmatic Paradigm\|实用主义]]的教育改革潮流中，为全球比较教育界维系了批判性人文关怀。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] — 考恩分析卡扎米亚斯对每一代人必须重写其历史命题的提出，及其对学科比较史学传统的开创性贡献。 [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 卡扎米亚斯系统回顾历史-哲学母题奠基者的思想遗产，重构德语广义科学与非普适[[Working Hypothesis|探索性假说]]的方法论合法性。 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 考掘比较教育的现代主义发端，辨析[[Marc-Antoine Jullien\|朱利安]]准科学人道主义与行政借用母题。 [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 拉斯特等学者确证卡扎米亚斯作为学科历史主义奠基者的核心地位，征引其关于[[Structural Functionalism|结构功能主义]]解析、[[Educational Meliorism|改良主义]]改造社会抱负及方法论价值抉择的经典论断。 [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯系统界定比较教育学为“[[Protean Episteme|普罗透斯式认识体系]]”，梳理从启蒙至当代的四重论述代际演进，批判实证主义对单一方法的迷信，以期刊计量数据揭示学科面临的“[[Historical Amnesia|历史健忘症]]”危机并呼吁重建历史与社会科学的理性综合。
-> - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 考恩反思卡扎米亚斯的人文主义传统与学科半个世纪制度化成就之间的历史辩证关系。
+> - [[Argument_Cowen(Ed.)_2009_Springer|Cowen & Kazamias (Eds.) (2009)]] — 共同主编比较教育手册，收录考恩与拉斯特的评价以及卡扎米亚斯关于[[Historical-Philosophical-Cultural Motif|历史哲学母题]]与[[Protean Episteme|普罗透斯式认识体系]]的奠基性论述。
+> - [[Argument_Cowen_2023_CE|Cowen (2023)]] — 考恩反思卡扎米亚斯的人文主义传统与[[Disciplinary Institutionalization|学科制度化]]成就。
 
 
 ---
@@ -212,7 +213,7 @@ updated: 2026-10-08
 > - **学术渊源与反思对象** [[Isaac Kandel\|艾萨克·坎德尔]]、[[Nicholas Hans\|尼古拉斯·汉斯]]、[[Michael Sadler\|迈克尔·萨德勒]] — 兼具同情理解与内部批判。
 > - **学术史建制评析者** [[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust） — 阐发卡扎米亚斯在比较教育两百年学术史演进中作为历史主义与[[Structural Functionalism|结构功能主义]]核心阐释者的坐标。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122–123, 134–135)]]
 > - **思想灵感** 托马斯·斯特恩斯·艾略特（T. S. Eliot） — 汲取诗学与历史诠释学灵感，确立每一代人必须重写其历史的核心信念。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
-> - **学术机构** [[Comparative Education Society in Europe]]（CESE 荣誉会员）、威斯康星大学麦迪逊分校（长期教席）。
+> - **学术机构** [[Comparative Education Society in Europe]]（CESE 荣誉会员）、威斯康星大学[[James Madison|麦迪逊]]分校（长期教席）。
 
 ---
 

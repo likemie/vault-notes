@@ -9,7 +9,7 @@ summary: "美国著名比较教育学、课程史学与社会认识论泰斗，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -47,6 +47,7 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Analytic Framework]]"
 related_persons:
+  - "[[James Madison]]"
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Michael W. Apple]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Thomas S. Popkewitz
@@ -68,7 +69,7 @@ updated: 2026-10-07
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国当代著名比较教育学者、课程历史学家与社会[[Epistemology|认识论]]泰斗，威斯康星大学麦迪逊分校（University of Wisconsin-Madison）课程与教学系教授。
+> - **身份位置** 美国当代著名比较教育学者、课程历史学家与社会[[Epistemology|认识论]]泰斗，威斯康星大学[[James Madison|麦迪逊]]分校（University of Wisconsin-Madison）课程与教学系教授。
 > - **核心角色** 率先将米歇尔·福柯（Michel Foucault）的[[Discourse Analysis|话语分析]]、微观权力物理学与现代“[[Governmentality|治理术]]”（Governmentality）系统引入教育研究；开创了教育研究的“社会认识论”（Social Epistemology）传统；深度揭示了[[OECD|经合组织]]等国际组织如何通过教师教育跨国标准重构社会[[Disciplina and Doctrina|规训]]网络。
 > - **代表贡献** 提出教育改革中的“救赎叙事与排斥系统”（Inclusion and Exclusion System）[[Analytic Framework|分析框架]]；主持并出版 8 国教师教育改革跨国比较研究（1993）；出版代表作《争夺灵魂：学校教育政治学与教师的建构》（1998）与《世界主义与学校改革时代》（2008）。
 
@@ -83,7 +84,7 @@ updated: 2026-10-07
 
 > [!timeline] 生平与职涯
 > - **1940** 出生于美国纽约市，早年在纽约大学获得教育学硕士，后于纽约大学获得教育哲学与社会学博士学位。
-> - **1970–至今** 长期任教于威斯康星大学麦迪逊分校，与[[Michael W. Apple|迈克尔·阿普尔]]等学者共同铸就了麦迪逊作为全球批判教育研究与课程社会学重镇的学术声誉。
+> - **1970–至今** 长期任教于威斯康星大学[[James Madison|麦迪逊]]分校，与[[Michael W. Apple|迈克尔·阿普尔]]等学者共同铸就了麦迪逊作为全球批判教育研究与课程社会学重镇的学术声誉。
 > - **1984** 出版《教育研究中的[[Paradigm|范式]]与意识形态》（*Paradigm and Ideology in Educational Research*），系统反思[[Positivism|实证主义]]定量范式在教育研究中制造的“去政治化”科学幻觉。
 > - **1991** 出版《教育改革的政治社会学》（*A Political Sociology of Educational Reform*），将[[Discourse|话语]]即权力、权力即关系的[[Post-structuralism|后结构主义]]范式系统确立为教育改革的核心分析视角。
 > - **1993** 主编出版八国跨国比较里程碑著作《权力模式的变迁：社会[[Disciplina and Doctrina|规训]]与教师教育改革》（*Changing Patterns of Power*），系统考察跨国多边组织如何通过软法与专业化话语重构各国教师教育法规。
@@ -133,7 +134,7 @@ updated: 2026-10-07
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **学术同盟** [[Michael W. Apple]] — 威斯康星大学麦迪逊分校长期同事，共同确立麦迪逊作为全球[[Critical Pedagogy|批判教育学]]核心学术阵地的声誉。
+> - **学术同盟** [[Michael W. Apple]] — 威斯康星大学[[James Madison|麦迪逊]]分校长期同事，共同确立麦迪逊作为全球[[Critical Pedagogy|批判教育学]]核心学术阵地的声誉。
 > - **理论对话者** [[Carlos Alberto Torres]] 与 [[Liliana Esther Olmos]] — 在宏观国家理论与跨国组织[[Policy Borrowing|政策借用]]机制上展开深度理论对话与互补。
 > - **分析对象** [[OECD]] 与跨国政策治理网络 — 系统剖析其推行的国际大型评价与教师教育国际标准背后的隐性[[Governmentality|治理术]]。
 
@@ -161,4 +162,4 @@ updated: 2026-10-07
 > | [[Disciplina and Doctrina]] | 概念 | 阐释跨国教师教育法规与现代学校如何作为规训身体与灵魂的微观治理机器。 |
 > | [[World Society Theory]] | 理论 | 从微观[[Post-structuralism\|后结构主义]]视角反思新制度主义“世界文化趋同”[[Hypothesis\|假设]]背后的排斥性分类炼金术。 |
 > | [[Conditioned State Theory]] | 理论 | 为揭示跨国组织如何通过“软法”规训侵蚀民族国家主权提供认识论维度的呼应。 |
-> | [[Michael W. Apple]] | 人物 | 麦迪逊学派核心同事，共同推进美国批判教育社会学与意识形态制度分析。 |
+> | [[Michael W. Apple]] | 人物 | [[James Madison\|麦迪逊]]学派核心同事，共同推进美国批判教育社会学与意识形态制度分析。 |

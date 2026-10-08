@@ -8,7 +8,7 @@ summary: "美国著名政治学者，密歇根大学政治学荣休教授，美�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -45,6 +45,7 @@ related_methods:
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
+  - "[[James Madison]]"
   - "[[Peter Thiel]]"
 related_facts:
   - "[[Chinese Academy of Sciences]]"
@@ -78,7 +79,7 @@ updated: 2026-10-08
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1960年代** 毕业于威斯康星大学麦迪逊分校获得政治学博士学位，受行为主义政治学与立法决策实证研究训练，开启对美国联邦政治决策微观机制的长期观察。
+> - **1960年代** 毕业于威斯康星大学[[James Madison|麦迪逊]]分校获得政治学博士学位，受行为主义政治学与立法决策实证研究训练，开启对美国联邦政治决策微观机制的长期观察。
 > - **1973年** 出版《国会议员的投票决策》（*Congressmen's Voting Decisions*），深入国会大厦通过大范围[[In-depth Interview|深度访谈]]追踪议员在信息过载环境下的决策启发式策略。
 > - **1970年代末–1980年代初** 依托对美国联邦交通与卫生健康政策长达四年的密集追踪，访谈数百名联邦官员、国会议员、学者与利益集团领袖，系统构建政策议程演化的非线性模型。
 > - **1984年** 出版代表作《议程、备选方案与公共政策》（*Agendas, Alternatives, and Public Policies*），正式提出[[Multiple Streams Framework|多源流分析框架]]，荣获美国政治学会公共政策杰出著作奖。

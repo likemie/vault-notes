@@ -9,7 +9,7 @@ summary: "美国当代著名批判教育社会学者与课程理论泰斗，威�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -44,6 +44,7 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Ethnography]]"
 related_persons:
+  - "[[James Madison]]"
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Pierre Bourdieu]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Michael W. Apple
@@ -67,7 +68,7 @@ updated: 2026-10-07
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国当代批判教育社会学与课程理论泰斗级领军人物，威斯康星大学麦迪逊分校（University of Wisconsin-Madison）课程与教学论以及教育政策研究系约翰·巴斯科姆（John Bascom）荣休讲席教授。
+> - **身份位置** 美国当代批判教育社会学与课程理论泰斗级领军人物，威斯康星大学[[James Madison|麦迪逊]]分校（University of Wisconsin-Madison）课程与教学论以及教育政策研究系约翰·巴斯科姆（John Bascom）荣休讲席教授。
 > - **核心角色** [[Critical Pedagogy|批判教育学]]与意识形态课程批判的奠基者；率先系统揭示资本主义国家如何通过学校课程将阶级、种族与性别不平等合法化；深刻剖析从福特制向[[Post-Fordism|后福特制]]转型中劳动[[Cognitive Deskilling|去技能化]]与课程“技术控制逻辑”（Logic of Technical Control）的共谋机制。
 > - **代表贡献** 出版奠基性著作《意识形态与课程》（1979）、《教育与权力》（1982）、《[[Official Knowledge|官方知识]]》（1993）与《受教育的“正确”方式》（2001）；提出课程形态技术控制与占有性个人主义（Possessive Individualism）建构命题（1982）；揭示由新自由主义、新保守主义、威权民粹主义和职业中产阶层组成的“右翼霸权联盟”。
 
@@ -83,7 +84,7 @@ updated: 2026-10-07
 > [!timeline] 生平与职涯
 > - **1942** 出生于美国新泽西州帕特森一个贫困的工人阶级家庭，早年担任公立小学与初中教师，深受基层劳工抗争与民权运动浸润。
 > - **1970** 于哥伦比亚大学教育学院（Teachers College, Columbia University）获得博士学位，受存在主义[[Phenomenology|现象学]]、法兰克福学派与葛兰西统识理论影响，致力于开创教育批判社会学。
-> - **1970–至今** 任教于威斯康星大学麦迪逊分校，长达半个世纪执掌[[Critical Pedagogy|批判教育学]]与课程研究讲席，培养了来自全球南方与东亚的几代批判教育学者。
+> - **1970–至今** 任教于威斯康星大学[[James Madison|麦迪逊]]分校，长达半个世纪执掌[[Critical Pedagogy|批判教育学]]与课程研究讲席，培养了来自全球南方与东亚的几代批判教育学者。
 > - **1979** 出版《意识形态与课程》（*Ideology and Curriculum*），系统论证学校不仅再生产经济资本，更通过“[[Hidden Curriculum|隐性课程]]”（Hidden Curriculum）合法化资产阶级[[Cultural Capital|文化资本]]，该书入选国际比较教育学会“20世纪最重要的教育学著作”。
 > - **1982** 发表《课程形态与技术控制的逻辑：建构占有性个人》（*Curricular form and the logic of technical control*），深入揭示资本主义生产方式从福特制流水线向[[Post-Fordism|后福特制]]转型中，课程与教师劳动如何被技术官僚[[Cognitive Deskilling|去技能化]]。
 > - **1990s–2000s** 出版《[[Official Knowledge|官方知识]]》（*Official Knowledge*, 1993）与《受教育的“正确”方式》（*Educating the "Right" Way*, 2001），系统解剖新自由主义市场化与审计文化对公立教育的侵蚀；长期与[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]紧密合作并为其著作撰写权威前言。

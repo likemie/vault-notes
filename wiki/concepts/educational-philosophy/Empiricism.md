@@ -12,7 +12,7 @@ aliases:
 summary: "科学探究四大基本假设之一，主张可靠知识源自感官观察与直接经验，理论必须依托经验证据支撑，奠定了实证科学方法、Mouly 经验演化五步进程以及现代软件工程即兴经验科学的认识论基石。"
 type: concept
 domain: "educational-philosophy"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -237,7 +237,7 @@ updated: 2026-10-08
 > - **1930s — 逻辑经验主义与证实原则** 维也纳学派将经验主义推至顶峰，主张只有能够被经验证实的陈述才具备认知意义。
 > - **1960s 至今 — 后实证修正与多元经验论** 波普尔揭示观察渗透理论，[[Pragmatic Paradigm|实用主义]]与[[Mixed Methods Research|混合方法]]将经验主义改造为面向解决现实问题的工具主义与实践经验论。
 > - **1970s — 比较教育方法论经验主义批判与[[Geisteswissenschaften|精神科学]]反思** 卡扎米亚斯与施瓦茨（Kazamias & Schwartz, 1977）、[[Bernard Barber|巴伯]]（Barber, 1972）揭示并批判诺亚、埃克斯坦等实证派所确立的方法论经验主义与唯方法论主义，重申比较教育深植于精神科学的人文阐释与批判反思传统（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）。
-> - **2025 年 — 软件工程与自适应组织的[[Scientific Method|经验科学]]重塑** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）将经验主义原则注入现代[[Technological Republic|技术共和国]]与软件工程哲学，论证前沿软件开发本质是一门依赖实战观测与即兴演剧的经验观察性科学，重塑了面对不确定性世界的技术认知模式（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|Karp & Zamiska, 2025, Ch. 11]]）。
+> - **2025 年 — 软件工程与自适应组织的[[Scientific Method|经验科学]]重塑** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）将经验主义原则注入现代[[Technological Republic|技术共和国]]与软件工程哲学，在第 11 章中论证前沿软件开发本质是一门依赖实战观测与即兴演剧的经验观察性科学，重塑了面对不确定性世界的技术认知模式。
 
 ---
 

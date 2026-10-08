@@ -8,10 +8,10 @@ summary: "美国比较教育学家与非洲政治发展学者，斯坦福大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 30
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 32
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: "1943"
 died: ""
 lifespan: "1943–至今"
@@ -51,6 +51,7 @@ related_persons:
   - "[[Martin Carnoy]]"
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
+  - "[[James Madison]]"
   - "[[Andreas Kazamias]]"
 related_facts:
   - "[[World Bank]]"
@@ -59,6 +60,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
+  - "[[Argument_Cowen(Ed.)_2009_Springer]]"
 confidence: high
 status: completed
 created: 2026-09-28
@@ -86,7 +88,7 @@ updated: 2026-10-08
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1943** 出生于美国。早年在威斯康星大学麦迪逊分校攻读政治学，专注于坦桑尼亚与撒哈拉以南非洲的地方政治与去殖民化进程。
+> - **1943** 出生于美国。早年在威斯康星大学[[James Madison|麦迪逊]]分校攻读政治学，专注于坦桑尼亚与撒哈拉以南非洲的地方政治与去殖民化进程。
 > - **1970s–1980s** 长期在坦桑尼亚开展扎根[[Fieldwork|田野研究]]，先后任教于密歇根大学政治学系与斯坦福大学国际比较教育中心；深入反思非洲后独立时期的国家建设与教育扩张困局。
 > - **1990** 与[[Martin Carnoy|马丁·卡诺伊]]合作出版《第三世界的教育与社会转型》（*Education and Social Transition in the Third World*），系统分析莫桑比克、坦桑尼亚等国在革命与危机中的教育结构重塑。
 > - **1992** 在阿根廷布宜诺斯艾利斯举办的世界政治学大会上提交具有里程碑意义的论文《[[Financial-Intellectual Complex|金融-智识复合体]]》（*The Financial Intellectual Complex*），正式确立该[[Construct|理论构念]]。
@@ -137,7 +139,7 @@ updated: 2026-10-08
 > - **转型国家政治经济学比较** 与卡诺伊合作开创对第三世界社会主义转型社会（中国、古巴、莫桑比克、坦桑尼亚）的宏观历史比较，确立国家政权与政治意志在打破依附与重塑教育体系中的主导性推动作用。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 154–155)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]深入分析萨莫夫的金融-智识复合体理论，揭示[[World Bank|世界银行]]跨国知识垄断与放贷铁板一块机制。 [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯梳理第四代批判冲突与宏观[[Paradigm|范式]]，征引卡诺伊与萨莫夫（1990）关于第三世界转型国家政治权力主导教育根本转型的经验比较研究。
+> - [[Argument_Cowen(Ed.)_2009_Springer|Cowen & Kazamias (Eds.) (2009)]] — 手册中深入分析萨莫夫的金融-智识复合体理论（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]），并征引其关于第三世界转型国家政治权力重塑教育体系的经验比较（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）。
 
 ---
 

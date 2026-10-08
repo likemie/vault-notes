@@ -6,7 +6,7 @@ summary: "古希腊哲学家，苏格拉底的学生、亚里士多德的老师�
 type: person
 nationality: greece
 person_region: "greece"
-person_related_count: 47
+person_related_count: 48
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -64,6 +64,7 @@ related_persons:
   - "[[René Descartes]]"
   - "[[Immanuel Kant]]"
   - "[[Noam Chomsky]]"
+  - "[[James Madison]]"
   - "[[John Dewey]]"
   - "[[Lee Kuan Yew]]"
   - "[[Alexander Karp]]"
@@ -181,7 +182,7 @@ updated: 2026-10-08
 > - **政策路径** 雅典学院确立了西方第一所高等综合学术研究与讲学机构的组织模型；其哲学家王与分阶段递进筛选理念深刻渗透进西方中世纪大学、现代精英高等教育分流制度及博雅[[General Education|通识教育]]传统。
 > - **跨国／跨领域传播** 在中西比较视域下，柏拉图的精英天赋筛选与儒家“有教无类”形成文明级的互鉴对照[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 34–35)]]；在现代人工智能与教育技术领域，其[[Meno|《美诺篇》]]对话范式成为[[Intelligent Tutoring Systems|智能导师系统]]（Intelligent Tutoring Systems, ITS）交互设计的经典理论靶标[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 280–281)]]。
 > - **政策[[Epistemology|认识论]]批判扩展** 洞穴喻被现代批判政策社会学借用为解构实证技术主义的认识论透镜，警示教育者避免将自上而下政策塑造的指标阴影误认为终极教育目标。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, p. 12)]]
-> - **政治治理哲学与公共行政反思** 《理想国》确立了西方关于执政者应为“无私哲学家王/被迫服务之善者”的古典道德传统，不仅深刻影响了美国建国时期麦迪逊等联邦党人对公职薪酬的审慎态度，更成为卡普与扎米斯卡（2025）批判现代西方公共部门禁欲主义与低薪寡头化制度病理的古典理论溯源。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 254)]]
+> - **政治治理哲学与公共行政反思** 《理想国》确立了西方关于执政者应为“无私哲学家王/被迫服务之善者”的古典道德传统，不仅深刻影响了美国建国时期[[James Madison|麦迪逊]]等联邦党人对公职薪酬的审慎态度，更成为卡普与扎米斯卡（2025）批判现代西方公共部门禁欲主义与低薪寡头化制度病理的古典理论溯源。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 254)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 全面梳理柏拉图在西方学习传统四大支柱（知识确定性、心智奇迹、省察生活、学习者差异）中的奠基性地位，系统对比西方智力天赋导向与东亚儒家[[Self-Cultivation|修身]]努力导向。
