@@ -4,13 +4,12 @@ aliases:
   - 爱德华·萨义德
   - Edward W. Said
   - 爱德华·W·萨义德
-  - Said
   - 萨义德
 summary: "美籍巴勒斯坦裔文学理论家与文化批评家，后殖民理论奠基人，揭示西方学术与东方主义叙述背后的权力建构机制"
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"

@@ -7,9 +7,9 @@ summary: "印度著名散文家与文化批评家，深入批判后殖民学术�
 type: person
 nationality: global
 person_region: "global"
-person_related_count: 4
+person_related_count: 5
 person_related_level: 0
-person_related_stars: "☆"
+person_related_stars: ""
 person_related_color: "#e5e7eb"
 born: "1969"
 lifespan: "1969–至今"

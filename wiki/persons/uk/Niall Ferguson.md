@@ -8,7 +8,7 @@ summary: "英国著名历史学家，斯坦福大学胡佛研究所高级研究�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 1
+person_related_count: 2
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"

@@ -3,15 +3,14 @@ title: Nate Silver
 aliases:
   - 内特·银
   - 内特·席尔瓦
-  - Nate Silver
   - Nathaniel Read Silver
 summary: "美国统计学家、数据记者与作家，FiveThirtyEight 创始人，提出评估事实真伪的认知脱钩概念"
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 4
+person_related_count: 5
 person_related_level: 0
-person_related_stars: "☆"
+person_related_stars: ""
 person_related_color: "#e5e7eb"
 born: "1978"
 lifespan: "1978–至今"

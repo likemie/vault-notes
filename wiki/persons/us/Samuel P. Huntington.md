@@ -9,9 +9,9 @@ summary: "美国著名政治学家，哈佛大学教授，文明冲突论与现�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 4
+person_related_count: 5
 person_related_level: 0
-person_related_stars: "☆"
+person_related_stars: ""
 person_related_color: "#e5e7eb"
 born: "1927"
 died: "2008"
@@ -83,6 +83,6 @@ updated: 2026-10-08
 ## 学术评价与理论争议
 
 > [!critique] 学术影响与争议反思
-> - **文化地缘政治的开创性透视** 突破了单纯基于经济利益或意识形态的传统国际关系[[Paradigm|范式]]，敏锐捕捉到全球化进程中古老文化与宗教认同的强势复兴。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85–86)]]
-> - **[[Determinism|决定论]]与还原论批判** 批评者指责其文明分类具有过度简化与还原主义色彩，抹平了各文明内部的复杂多样性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85–86)]]
+> - **文化地缘政治的开创性透视** 突破了单纯基于经济利益或意识形态的传统国际关系[[Paradigm|范式]]，敏锐捕捉到全球化进程中古老文化与宗教认同的强势复兴。
+> - **[[Determinism|决定论]]与还原论批判** 批评者指责其文明分类具有过度简化与还原主义色彩，抹平了各文明内部的复杂多样性。
 > - **学术讨论禁忌化的后效** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）指出，学界对亨廷顿理论的集体排斥，客观上导致了关于文化在国际关系、经济发展与国家认同中规范性作用的严肃学术探讨被长期边缘化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85–86)]]

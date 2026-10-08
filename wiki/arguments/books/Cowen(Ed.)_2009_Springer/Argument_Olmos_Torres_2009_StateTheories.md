@@ -92,7 +92,6 @@ related_persons:
   - "[[Larissa Adler Lomnitz]]"
   - "[[Robert Arnove]]"
   - "[[Atilio Borón]]"
-  - "[[Edward Said]]"
 related_facts:
   - "[[World Bank]]"
   - "[[OECD]]"
@@ -108,14 +107,14 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-08
 subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Olmos_Torres_2009_StateTheories"
 argument_key: "Argument_Olmos_Torres_2009_StateTheories"
 argument_display_title: "Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches"
 argument_kind: "book-chapter"
-argument_related_count: 76
+argument_related_count: 75
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -425,7 +424,7 @@ issuing_organization: ""
 > [!citation-card] 葛兰西与萨特视阈下[[Praxis|实践哲学]]的重构
 > 重构作为方法与认识之道的辩证法，将马克思主义“冰冷”的一面（科学）与其“炽热”的一面（乌托邦）、知识与实践紧密结合，唯有如此，对现实的[[Creativity|创造性]]与革命性阐释才能得以展开，使马克思主义一如葛兰西所言，真正成为一门“实践哲学”。（p. 85）
 >
-> *Constructing partial synthesis and successive approximations, reconstructing the dialectic as a method and way of knowing, and associating the "cold" side of Marxism (science) with its "hot" phase (utopia), knowledge and [[Praxis]], will be how the creation and revolutionary interpretation of reality develops, so that Marxism continues to be as Gramsci [[Edward Said|Said]], a "Philosophy of Praxis."*
+> *Constructing partial synthesis and successive approximations, reconstructing the dialectic as a method and way of knowing, and associating the "cold" side of Marxism (science) with its "hot" phase (utopia), knowledge and [[Praxis]], will be how the creation and revolutionary interpretation of reality develops, so that Marxism continues to be as Gramsci Said, a "Philosophy of Praxis."*
 
 ---
 

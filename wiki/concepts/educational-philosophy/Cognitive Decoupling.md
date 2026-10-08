@@ -8,7 +8,7 @@ aliases:
 summary: "将描述性经验命题的客观真伪与规范性道德判断及言说者身份区分开来的解耦认知与理性评估能力"
 type: concept
 domain: "educational-philosophy"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

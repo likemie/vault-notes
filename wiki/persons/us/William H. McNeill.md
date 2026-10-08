@@ -9,7 +9,7 @@ summary: "美国著名历史学家，芝加哥大学历史学教授，全球通�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"

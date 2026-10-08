@@ -9,7 +9,7 @@ aliases:
 summary: "20世纪美国高等教育中作为核心通识仪式的西方文明经典课程体系，旨在建构共同公民身份与公民宗教，后在多元解构批判中被广泛废除"
 type: concept
 domain: "curriculum"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

@@ -6,7 +6,7 @@ aliases:
 summary: "将国家历史、宪政原则与共同伦理理想升华为维系共同体凝聚力与政治认同的世俗信仰体系"
 type: concept
 domain: "educational-philosophy"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

@@ -8,7 +8,7 @@ aliases:
 summary: "20世纪后半叶围绕大学课程中西方正典的代表性、排他性与政治意涵展开的激烈争论，揭示了关于国家认同与大学使命的深层文化断裂"
 type: concept
 domain: "higher-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

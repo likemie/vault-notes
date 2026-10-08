@@ -9,7 +9,7 @@ summary: "美国中世纪历史学家，阿默斯特学院教授，在1976年美
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 2
+person_related_count: 3
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -59,10 +59,10 @@ updated: 2026-10-08
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1932** 出生于美国纽约市，中学就读于宾夕法尼亚州默瑟斯堡学院。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 86)]]
-> - **1953–1959** 本科毕业于普林斯顿大学，并在哈佛大学获得中世纪历史学博士学位。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 86)]]
+> - **1932** 出生于美国纽约市，中学就读于宾夕法尼亚州默瑟斯堡学院。
+> - **1953–1959** 本科毕业于普林斯顿大学，并在哈佛大学获得中世纪历史学博士学位。
 > - **1963–2003** 长期任教于阿默斯特学院历史系近五十年，专研11至12世纪中世纪法国史。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 86)]]
-> - **1976** 在华盛顿召开的美国历史学会（AHA）年会上发表演讲，呼吁高校彻底废除西方文明传统通识必修课。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 83, 86)]]
+> - **1976** 在华盛顿召开的美国历史学会（AHA）年会上发表演讲，呼吁高校彻底废除西方文明传统通识必修课。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 83)]]
 > - **1977** 在《历史教师》（*History Teacher*）发表《超越西方文明：重建通识》（*Beyond Western Civilization: Rebuilding the Survey*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 87)]]
 > - **2015** 逝世于马萨诸塞州。
 
