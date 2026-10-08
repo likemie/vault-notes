@@ -86,16 +86,16 @@ updated: 2026-10-08
 > - **1990年代 — 共和主义公民身份与程序共和国反思** 批判战后美国沦为仅关注个体权利与程序公正、却丧失共同体公共善与公民德性的“程序共和国”（Procedural Republic）。
 >   - **代表著作** *Democracy's Discontent: America in Search of a Public Philosophy* (1996)。
 >   - **关键概念／方法** 公民共和主义、程序共和国。
-> - **2010年代至今 — 市场道德边界与绩优制批判** 聚焦晚期资本主义市场逻辑向教育、医疗与公共领域的全面侵蚀，剖析精英主义导致的社会撕裂与民粹反弹。
->   - **代表著作** *What Money Can't Buy: The Moral Limits of Markets* (2012); *The Tyranny of Merit* (2020)。
->   - **关键概念／方法** 市场的道德界限、绩优的暴政。
+> - **2010年代至今 — 市场道德边界与绩优制批判** 聚焦晚期资本主义市场逻辑向教育、医疗与公共领域的全面侵蚀，剖析精英主义导致的社会撕裂与民粹反弹；提出[[Market Triumphalism|市场必胜论]]批判，揭示道德中立留下的价值真空被不受约束的市场交易所占据。
+>   - **代表著作** *What Money Can't Buy: The Moral Limits of Markets* (2012); *The Tyranny of Merit* (2020)。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 171–173)]]
+>   - **关键概念／方法** [[Market Triumphalism|市场必胜论]]、市场的道德界限、绩优的暴政。
 
 ---
 
 ## 核心思想
 
 > [!claim] 核心主张
-> 迈克尔·桑德尔指出，自由主义试图在重大道德与精神争议中保持绝对中立的企图注定是一场幻觉。当自由主义者因害怕争议而放弃在公共领域阐发富有实质意义的共同体愿景与道德信念时（“自由主义者畏惧涉足之处”），留下的道德真空绝不会保持纯净，而是迅速被商业消费主义、低俗八卦丑闻以及狂热偏狭的极端思潮所占据。重建健康的民主生活必须勇于重振具有道德共鸣与公共抱负的哲学论辩。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 67–68)]]
+> 迈克尔·桑德尔指出，自由主义试图在重大道德与精神争议中保持绝对中立的企图注定是一场幻觉。当自由主义者因害怕争议而要求公民将道德和精神信念留在公共广场之外时（“自由主义者畏惧涉足之处”），留下的真空绝不会保持纯净，而是迅速被不受约束的[[Market Triumphalism|市场必胜论]]（Market Triumphalism）、商业消费主义、低俗八卦丑闻以及狂热偏狭的极端思潮所占据。重建健康的民主生活与技术共和国，必须勇于重振具有实质道德共鸣与公共善抱负的哲学论辩。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 67–68)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 171–173)]]
 
 ---
 
@@ -104,7 +104,7 @@ updated: 2026-10-08
 > [!influence-path] 影响路径
 > - **政治哲学与伦理学** 奠定了社群主义与自由主义对话的理论[[Paradigm|范式]]，深刻重塑了当代西方关于公民德性、政治共同体与社会正义的讨论框架。
 > - **公共哲学与教育传播** 通过[[Socrates|苏格拉底]]式的公开道德辨析课程，极大地推动了政治哲学从纯粹学术象牙塔走向全球大众公共启蒙。
-> - **文明危机与制度反思** 其对自由主义道德真空的诊断成为理解当代欧美高校管理主义危机、政治极化与民粹主义回潮的重要思想武器。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 67–68)]]
+> - **文明危机与制度反思** 其对自由主义道德真空与市场必胜论的诊断成为理解当代欧美高校管理主义危机、政治极化与科技精英避险逃避的重要思想武器。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 67–68)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 171–173)]]
 
 ---
 
@@ -113,7 +113,7 @@ updated: 2026-10-08
 > [!person-network] 关系网络
 > - **主要论敌** [[John Rawls|约翰·罗尔斯]]（John Rawls） — 桑德尔对其《正义论》的道德中立性与先验主体观展开了终身哲学商榷。
 > - **思想对话者** [[Allan Bloom]] — 共同从不同哲学进路反思美国高等教育与自由主义文化导致的道德空洞化。
-> - **分析与引用者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》中引述其理论以揭示西方科技与管理精英撤退背后的道德真空危机。
+> - **分析与引用者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》中引述其理论以揭示西方科技精英撤退背后的道德真空与市场必胜论危机（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|Ch. 5]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|Ch. 15]]）。
 
 ---
 
@@ -125,3 +125,5 @@ updated: 2026-10-08
 > |:-----|:-----|:-----|
 > | [[Goldfish Bowl Politics]] | 概念 | 理论诊断者，揭示公共道德[[Discourse\|话语]]衰退导致政治沦为八卦窥私与人格作秀的哲学根源。 |
 > | [[Moral Dualism]] | 概念 | 批判者，反思抽象道义二元论与程序中立主义对真实共同体纽带的割裂。 |
+> | [[Market Triumphalism]] | 概念 | 提出者，批判将道德信念逐出公共领域后市场逻辑全面篡夺公共善裁判权。 |
+

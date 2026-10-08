@@ -107,7 +107,7 @@ updated: 2026-10-08
 
 > [!dev-timeline] 组织发展历程
 > - **2003–2008 — 初创奠基与防务情报突破** [[Peter Thiel|彼得·蒂尔]]（Peter Thiel）、[[Alexander Karp|亚历山大·卡普]]（Alexander Karp）等人共同创立企业；研发针对反恐反洗钱的 Gotham 平台。
-> - **2008–2016 — 阿富汗前线战火淬炼与诉讼突围** 深入阿富汗战区（坎大哈与赫尔曼德省），直面简易爆炸装置（IED）危机，前沿工程师与美军第82空降师情报官紧密协同迭代数据分析系统；在 2011 年硅谷沉迷于社交与[[Consumer Internet|消费互联网]]（Zynga、Groupon）狂热之际逆流坚守防务；2016 年依据《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]》（[[Federal Acquisition Streamlining Act of 1994|FASA 1994]]）起诉美国陆军垄断性定制采购并大获全胜。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 139–155)]]
+> - **2008–2016 — 阿富汗前线战火淬炼、市政警务探索与诉讼突围** 深入阿富汗战区（坎大哈与赫尔曼德省），直面简易爆炸装置（IED）危机，前沿工程师与美军第82空降师情报官紧密协同迭代数据分析系统；在 2011 年硅谷沉迷于社交与[[Consumer Internet|消费互联网]]（Zynga、Groupon）狂热之际逆流坚守防务；2012 年起与新奥尔良警察局合作，将战区级 Gotham 平台降维应用于城市[[Predictive Policing|预测性警务]]与涉枪暴力犯罪网络研判；2016 年依据《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]》（[[Federal Acquisition Streamlining Act of 1994|FASA 1994]]）起诉美国陆军垄断性定制采购并大获全胜。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 139–155)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 174–176)]]
 > - **2016–2018 — 商业拓展与全域数据操作系统构建** 推出面向大型商业企业复杂供应链与多源异构数据整合的 Foundry 平台，业务扩展至空客、制药及全球金融机构。
 > - **2018 至今 — 赢得防务记录项目与人工智能中枢** 击败雷神等传统军工巨头赢得陆军数十亿美元 DCGS-A 采购合同，开创硅谷初创软件公司主导重大防务记录项目的先河；在谷歌因员工抗议退出[[Project Maven|梅文项目]]之际坚定接棒五角大楼核心算法工程；推出人工智能平台（AIP），成为全域联合指挥控制（Joint All-Domain Command and Control, JADC2）与现代无人系统协同算法的底层操作系统。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, Ch. 3)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 153–154)]]
 
@@ -153,7 +153,7 @@ updated: 2026-10-08
 > 3. **输出以艺术家聚落为核心的工程文化** 提炼出以去中心化[[Swarm Intelligence|群智能]]、即兴演剧、[[Five Whys|五问法]]免责复盘与去等级化为特征的组织管理范式，为西方公共治理部门走出[[Innovation Desert|创新荒漠]]提供了系统参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, Ch. 11, pp. 128–129)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 164–166)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 系统阐发帕兰提尔的企业起源、阿富汗战地实战演进、法案诉讼、即兴演剧与五问法工程[[Epistemology|认识论]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Ch. 2]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Ch. 3]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Ch. 10]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|Ch. 11]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|Ch. 12]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|Ch. 13]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 系统阐发帕兰提尔的企业起源、阿富汗战地实战演进、法案诉讼、即兴演剧、五问法工程[[Epistemology|认识论]]与新奥尔良警务实践（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Ch. 2]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Ch. 3]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Ch. 10]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|Ch. 11]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|Ch. 12]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|Ch. 13]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|Ch. 15]]）。
 > - [[Argument_Cheng_2026_KeJiChuangXin|程楠等 (2026)]] — 梳理美国中央情报局 In-Q-Tel 战略风投机制对帕兰提尔等国防科技初创企业的早期孵化与资本支撑。
 
 ---
@@ -168,10 +168,11 @@ updated: 2026-10-08
 > > - **批评视角** 部分科技界同行与人权倡导者指责算法接入致命武器系统加剧战争自动化风险，呼吁签订限制公约或组织员工抗议（如微软员工抗议）。
 > > - **机构立场** 帕兰提尔领导层坚信无实力的和平是危险的幻想，西方若因[[Moral Dualism|道德二元论]]放弃防务算法研发，将导致极权主义对手在地缘博弈中占据支配地位，从而使全球民主政体遭受灭顶之灾。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, Ch. 3)]]
 >
-> > [!axis] 数据隐私监视争议 vs 关键基础设施治理
-> > 公众与民权组织对大数据分析系统在边境管控、预测性警务中的隐私侵犯与偏见放大表示担忧。
+> > [!axis] 预测性警务民权争议 vs 城市公共安全救济
+> > 围绕 Gotham 平台在新奥尔良等城市开展[[Predictive Policing|预测性警务]]的数据偏见与民权侵犯问题展开交锋。
 > >
-> > - **审查与规约** 帕兰提尔强调其软件采用高度细粒度的权限控制、不可篡改的日志审计与法律合规机制，主张技术本身是中立的分析工具，其运用必须受到宪政法治与民主程序的合法授权。
+> > - **美国公民自由联盟（ACLU, 2018）** 指责数据分析平台可能被警方滥用以针对少数族裔与弱势群体，对宪法公民权利构成深层威胁。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 175–176)]]
+> > - **帕兰提尔与作者立场** 强调软件具有严格的权限日志审计与合规设计；指出将先进技术排斥在地方治安之外是典型的[[Luxury Belief|炫耀性信念]]，无视每年数千死于涉枪暴力的平民生命。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 174–177)]]
 
 ---
 
@@ -184,6 +185,8 @@ updated: 2026-10-08
 > | [[Technological Republic\|技术共和国]] | 概念 | 帕兰提尔是卡普论述技术共和国传统与国家战略共生的核心企业样本。 |
 > | [[Hard Power\|硬实力]] | 概念 | 帕兰提尔主张前沿软件与算法构成了现代地缘博弈中最根本的硬实力筹码。 |
 > | [[Engineering Mindset\|工程思维]] | 概念 | 帕兰提尔践行以实战运行和物理反馈为准绳的去官僚化工程思维[[Paradigm\|范式]]。 |
+> | [[Predictive Policing\|预测性警务]] | 概念 | 帕兰提尔 Gotham 平台应用于新奥尔良警务，成为现代治安数据中枢的代表案例。 |
+> | [[Luxury Belief\|炫耀性信念]] | 概念 | 批判以道德纯洁性为由抵制警务科技、转嫁治安恶果给底层社会的文化思潮。 |
 > | [[Status Transactions\|地位交易]] | 概念 | 帕兰提尔[[Organizational Culture\|组织文化]]引入即兴演剧地位分流，将地位重塑为工具性手段。 |
 > | [[Shadow Hierarchy\|阴影层级]] | 概念 | 帕兰提尔内部打破显性科层，依托自发形成的阴影层级与行动空间驱动创新。 |
 > | [[Symphony Orchestra Model\|交响乐团组织模型]] | 概念 | 帕兰提尔借鉴德鲁克交响乐团模型，实现高管与工程师艺术家的扁平直连。 |
@@ -201,5 +204,6 @@ updated: 2026-10-08
 > | [[Commercial Off-The-Shelf\|商用现货]] | 概念 | 帕兰提尔作为商业现货软件企业打破传统军工定制垄断的典型范式。 |
 > | [[Federal Acquisition Streamlining Act of 1994\|1994年联邦采购精简法]] | 事实 | 帕兰提尔于2016年诉美国陆军胜诉并以此赢得重大防务记录项目的法定基石。 |
 > | [[John Glenn\|约翰·格伦]] | 人物 | 参议员与航天先驱，FASA 1994 核心起草人，为帕兰提尔诉讼打破军工垄断提供法理武器。 |
+
 
 

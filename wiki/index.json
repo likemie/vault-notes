@@ -6616,6 +6616,17 @@
     ]
   },
   {
+    "title": "Blackstone's Ratio",
+    "type": "concept",
+    "path": "wiki/concepts/ethics-of-technology/Blackstone's Ratio.md",
+    "aliases": [
+      "布莱克斯通比率",
+      "布莱克斯通公式",
+      "Blackstone's formulation",
+      "疑罪从无原则"
+    ]
+  },
+  {
     "title": "Counterculture Computing",
     "type": "concept",
     "path": "wiki/concepts/ethics-of-technology/Counterculture Computing.md",
@@ -6645,6 +6656,16 @@
       "道德二元论",
       "善恶二元论",
       "压迫者与被压迫者二元论"
+    ]
+  },
+  {
+    "title": "Predictive Policing",
+    "type": "concept",
+    "path": "wiki/concepts/ethics-of-technology/Predictive Policing.md",
+    "aliases": [
+      "预测性警务",
+      "预测警务",
+      "predictive policing"
     ]
   },
   {
@@ -9049,6 +9070,16 @@
     ]
   },
   {
+    "title": "Market Triumphalism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Market Triumphalism.md",
+    "aliases": [
+      "市场必胜论",
+      "市场万能论",
+      "market triumphalism"
+    ]
+  },
+  {
     "title": "Media Logic",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Media Logic.md",
@@ -9579,6 +9610,16 @@
       "赢家谬误",
       "胜者的谬误",
       "胜者自满"
+    ]
+  },
+  {
+    "title": "Wisdom of Crowds",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Wisdom of Crowds.md",
+    "aliases": [
+      "群体智慧",
+      "群体的智慧",
+      "wisdom of crowds"
     ]
   },
   {
@@ -11641,7 +11682,6 @@
     "aliases": [
       "创新荒漠",
       "创新荒漠化",
-      "innovation desert",
       "innovation deserts"
     ]
   },
@@ -12516,6 +12556,17 @@
     "aliases": [
       "迷失无从者",
       "lost actor"
+    ]
+  },
+  {
+    "title": "Luxury Belief",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Luxury Belief.md",
+    "aliases": [
+      "炫耀性信念",
+      "奢华信念",
+      "luxury belief",
+      "luxury beliefs"
     ]
   },
   {
@@ -22702,6 +22753,17 @@
     ]
   },
   {
+    "title": "Francis Galton",
+    "type": "person",
+    "path": "wiki/persons/uk/Francis Galton.md",
+    "aliases": [
+      "弗朗西斯·高尔顿",
+      "高尔顿",
+      "Francis Galton",
+      "Galton, F."
+    ]
+  },
+  {
     "title": "Gary Thomas",
     "type": "person",
     "path": "wiki/persons/uk/Gary Thomas.md",
@@ -23391,6 +23453,17 @@
       "瓦尔特·博德默尔",
       "沃尔特·博德默",
       "Sir Walter Bodmer"
+    ]
+  },
+  {
+    "title": "William Blackstone",
+    "type": "person",
+    "path": "wiki/persons/uk/William Blackstone.md",
+    "aliases": [
+      "威廉·布莱克斯通",
+      "布莱克斯通",
+      "William Blackstone",
+      "Blackstone, W."
     ]
   },
   {
@@ -25011,6 +25084,17 @@
       "理查德·R·纳尔逊",
       "Nelson, R. R.",
       "Richard R. Nelson"
+    ]
+  },
+  {
+    "title": "Rob Henderson",
+    "type": "person",
+    "path": "wiki/persons/us/Rob Henderson.md",
+    "aliases": [
+      "罗伯·亨德森",
+      "亨德森",
+      "Rob Henderson",
+      "Henderson, R."
     ]
   },
   {
@@ -33694,6 +33778,11 @@
     "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch14",
     "type": "argument",
     "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch14.md"
+  },
+  {
+    "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch15",
+    "type": "argument",
+    "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch15.md"
   },
   {
     "title": "Argument_Kelly_Licona_2018_EpistemicPractices",
