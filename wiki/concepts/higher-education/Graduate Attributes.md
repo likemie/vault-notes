@@ -9,7 +9,7 @@ aliases:
 summary: "大学认定学生在学期间应发展出的品质、技能和理解，涵盖本科与博士两个层次，用于组织课程、评价培养目标和回应外部问责。"
 type: concept
 domain: "higher-education"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Language Skills]]"
   - "[[Operationalization]]"
-  - "[[Revoicing]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Return on Investment]]"
   - "[[Disciplinary Socialization]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 ## 定义
@@ -122,7 +121,7 @@ updated: 2026-10-07
 
 本科层次，[[Argument_Wong_2022_HERD|Wong et al. (2022)]]的"[[Global Citizenship|全球公民]]与参与"话语（70% 覆盖）包含四个子维度（pp.1347–1348）：人际技能（诚信、尊重、同理心、敏感性，15%）；社会与公民责任（服务社会、参与公平与可持续性议题、作为积极公民参与社群）；国际网络与[[Language Skills|外语技能]]（仅 8%，出人意料地低）；环境意识（仅 11%，被作者评价为"略令人担忧"）。
 
-博士层次，[[Global Citizenship|全球公民]]属性是发展感知最低的特质组。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]的调查中，环境素养（2.8）、文化理解（3.2）和全球视野（3.4）的均值远低于研究技能（4.4）（pp.89–90, Figure 1）。该研究将 O'Brien（2011）的数字素养、文化素养和社会沟通素养框架与 Spronken-Smith（2018）的环境素养整合为全球公民的[[Operationalization|操作化]]定义（p.87），并在七域分类中将 Senekal et al.（2022）的"积极公民身份"[[Revoicing|重铸]]为"全球公民"，增加倡导、社会正义取向和四种素养（p.98, Table 5）。但访谈显示，毕业生对全球公民属性的必要性看法分歧——部分认为"博士的目的是成为学科专家"，也有部分认为是"代际特征，不需要被教"（p.96）。
+博士层次，[[Global Citizenship|全球公民]]属性是发展感知最低的特质组。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]的调查中，环境素养（2.8）、文化理解（3.2）和全球视野（3.4）的均值远低于研究技能（4.4）（pp.89–90, Figure 1）。该研究将 O'Brien（2011）的数字素养、文化素养和社会沟通素养框架与 Spronken-Smith（2018）的环境素养整合为全球公民的[[Operationalization|操作化]]定义（p.87），并在七域分类中将 Senekal et al.（2022）的"积极公民身份"重铸为"全球公民"，增加倡导、社会正义取向和四种素养（p.98, Table 5）。但访谈显示，毕业生对全球公民属性的必要性看法分歧——部分认为"博士的目的是成为学科专家"，也有部分认为是"代际特征，不需要被教"（p.96）。
 
 ### 职业与专业发展
 
@@ -154,7 +153,7 @@ updated: 2026-10-07
 | **个人资源fulness（Personal resourcefulness）** | 个人品质、自我管理、**职业管理**（含网络建立）、学术声誉 |
 | **全球公民（Global citizenship）** | 倡导、社会正义取向、数字素养、文化素养、社会沟通素养、环境素养 |
 
-该框架的两个关键创新：将 Senekal et al.（2022）的"积极公民身份"[[Revoicing|重铸]]为"全球公民"以反映全球就业环境的多元素养需求；将职业管理显性化为独立子域，回应了已有研究对该维度的系统性忽视（pp.98–99）。
+该框架的两个关键创新：将 Senekal et al.（2022）的"积极公民身份"重铸为"全球公民"以反映全球就业环境的多元素养需求；将职业管理显性化为独立子域，回应了已有研究对该维度的系统性忽视（pp.98–99）。
 
 ### 发展与应用的系统性差距
 

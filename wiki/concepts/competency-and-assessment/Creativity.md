@@ -11,7 +11,7 @@ aliases:
 summary: "个体或群体在特定情境中综合调动认知、情绪与环境资源生成新颖且适切成果的心理能力与综合表现，在教育与心理学中兼具预测变量与发展结果的双重属性；在科学学与创新政策视阈下，个体科学创造力呈现显著的早年黄金生命周期，易受学术评价增量偏好与共识评审的体制性抑制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 78
+related_count: 84
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Problem Solving]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Technological Pastiche]]"
   - "[[Creativity Assessment]]"
   - "[[Ontology]]"
   - "[[Construct]]"
@@ -38,7 +39,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Falsification]]"
   - "[[Epistemic Virtues and Vices]]"
-  - "[[Counterfactual]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Dependent Variable]]"
   - "[[Academic Achievement]]"
   - "[[Creativity Training]]"
@@ -50,10 +51,12 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Self-Regulated Learning]]"
   - "[[Creative Deskilling]]"
+  - "[[Counterfactual]]"
   - "[[Cognitive Deskilling]]"
   - "[[AI Agent in Education]]"
   - "[[Scaffolding]]"
   - "[[Star Scientists]]"
+  - "[[Big Idea Famine]]"
   - "[[Predictive Validity]]"
   - "[[APA Style]]"
   - "[[Champ]]"
@@ -61,6 +64,8 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Domain Specificity]]"
   - "[[Polymath]]"
+  - "[[Lifestyle Technology]]"
+  - "[[Nature of Innovation]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Jigsaw]]"
   - "[[Common Method Variance]]"
@@ -92,6 +97,7 @@ related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
   - "[[Argument_Guo_2025_TSC]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09]]"
   - "[[Argument_Naeem_2026_Episteme]]"
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Li_2026_CEAI]]"
@@ -118,12 +124,12 @@ updated: 2026-10-08
 ## 定义
 
 > [!def] 核心定义
-> 创造力（Creativity）是指个体、群体或组织在特定社会文化与任务情境中，综合调动认知加工、情绪动机与环境资源，生成兼具**新颖性（Novelty / Originality）**与**适切性（Appropriateness / Usefulness）**的想法、[[Problem Solving|问题解决]]方案、行为或产品的心理潜能与综合表现。在教育心理学中，创造力兼具预测个体发展与作为教育干预效标的双重属性；在科学学与国家[[Innovation Ecosystem|创新生态]]中，颠覆性科学创造力高度依赖个体早年认知的探索灵活性，并受制于学术资助与评价制度的激励结构。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–3)]]; [[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 1–3)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–16)]]
+> 创造力（Creativity）是指个体、群体或组织在特定社会文化与任务情境中，综合调动认知加工、情绪动机与环境资源，生成兼具**新颖性（Novelty / Originality）**与**适切性（Appropriateness / Usefulness）**的想法、[[Problem Solving|问题解决]]方案、行为或产品的心理潜能与综合表现。在教育心理学中，创造力兼具预测个体发展与作为教育干预效标的双重属性；在科学学与国家[[Innovation Ecosystem|创新生态]]中，颠覆性科学创造力高度依赖个体早年认知的探索灵活性，并受制于学术资助与评价制度的激励结构；在技术哲学与创新社会学中，真正的开创性创造力（如巴斯奎特重新划定高雅艺术边界）必须与商业资本异化下的浅层[[Technological Pastiche|技术拼贴]]及无生命衍生品严格区分。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–3)]]; [[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 1–3)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–16)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 106–107)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向生成原创且具有现实应用价值成果的复杂心理机制、行为表现及制度化探索能力。
-> - **用途** 评估个体认知与潜能发展、优化课堂教学干预与思维训练课程，为[[Creativity Assessment|创造力测评]]提供[[Ontology|本体论]]与认知[[Construct|构念]]基础；在政策层面用于诊断学术评价机制对颠覆性探索的激励或抑制。
-> - **边界** 创造力不等于缺乏适切性与可行性的纯粹幻想，不等于常规智力测验表现，也不等于在成熟[[Paradigm|范式]]内流水线式产出的增量论文。
+> - **用途** 评估个体认知与潜能发展、优化课堂教学干预与思维训练课程，为[[Creativity Assessment|创造力测评]]提供[[Ontology|本体论]]与认知[[Construct|构念]]基础；在政策层面用于诊断学术评价机制对颠覆性探索的激励或抑制；在技术文明层面辨析从 0 到 1 的原真突破与浅层商业拼贴。
+> - **边界** 创造力不等于缺乏适切性与可行性的纯粹幻想，不等于常规智力测验表现，不等于成熟[[Paradigm|范式]]内的增量论文切香肠，更不等于将消除日常微观琐事过度包装为颠覆性创新的商业派生品。
 
 > [!citation-card] 关键表述：创造力的双重[[Variable|变量]]定位与可塑性
 > 这一区分反映了这样一个事实：有时创造力被定义为一种结果或产物，并在分析中作为效标，以其他变量作为预测指标；而在其他时候，研究将创造力作为[[Independent Variable|预测变量]]，去预测健康、问题解决或学业成功等其他结果。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–3)]]
@@ -137,10 +143,16 @@ updated: 2026-10-08
 >
 > *A classic finding in innovation economics is that scientists have their 'great ideas' early in their careers—typically in their 30s. Today, our institutional incentives enforce extreme academic risk aversion, suffocating radical divergent exploration during researchers' most fertile creative years.*
 
+> [!citation-card] 卡普与扎米斯卡论原真艺术开创与衍生性商业拼贴的界限
+> 艺术家让-米歇尔·巴斯奎特（Basquiat）在 1980 年代的画作要求重新划定高雅艺术的边界，将街头涂鸦融入其作品中。然而，使其画作独具原创性的诸多元素，后来被一个渴望新颖表象的文化无休止地挪用和回收……1990 年代末年轻互联网的鼎盛期同样如此：有一些真正的艺术正在被创造，一些巴斯奎特正在打磨他们的技艺；但大多数初创企业不过是无生命的衍生性作品。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 106–107)]]
+>
+> *The artist Jean-Michel Basquiat, whose paintings in the 1980s demanded that the boundaries of what could be considered high art be redrawn... So much of what made his paintings original, however, would later be repurposed and recycled, almost endlessly, by a culture ravenous for even hints of the novel... There was some real art being created, some Basquiats refining their craft. But most of the companies were lifeless and derivative works.*
+
 > [!boundary]- 概念边界
 > - 不等于 [[Divergent Thinking|发散思维]]：发散思维侧重于构想生成阶段的流畅与灵活性，创造力则涵盖[[Problem Finding|问题发现]]、评价选择与产品实现的完整系统。
 > - 不等于 创新（Innovation）：创造力侧重于新颖适切构想的生成，创新侧重于构想在组织、市场或社会实践中的应用、推广与价值转化。
 > - 不等于 [[Document|文献]]发表数量（Publication Volume）：在学术建制中，论文发表数量高并不等同于高创造力；切香肠式增量发表往往反映的是规避风险的常规劳动，而非开辟新领域的突破性创造力。
+> - 不等于 衍生性商业拼贴（Derivative Pastiche）：对既有成熟技术或通信协议的表面重组、界面换皮与商业分销套利，无法等同于推动文明边界跃升的原真创造力。
 
 ---
 
@@ -162,7 +174,8 @@ updated: 2026-10-08
 > - **创造过程（Process）** 探讨[[Problem Finding|问题发现]]、[[Divergent Thinking|发散思维]]、顿悟、酝酿与收敛评估等内在认知加工阶段，以及 AI [[Hypothesis|假设]]生成与物理实验[[Falsification|证伪]]的协同。
 > - **创造产品（Product）** 探讨最终产出的作品、观念、专利、科学定律或技术原型在特定领域的颠覆性与实用价值。
 > - **创造环境（Press / Environment）** 探讨物理空间、组织气候、同行评议机制、科研资助生态对高风险探索的包容或压制。
-> - **创造力作为[[Epistemic Virtues and Vices|理智美德]]（Creativity as an Intellectual Virtue）** 结合[[Virtue Epistemology|德性认识论]]框架，创造力不仅表现为外显的发散思维技能，更是深层的理智美德，由**动机成分**（对原创性、知识发现与真理深化的内在热爱）与**技能成分（发散思维、远距离联想、[[Counterfactual|反事实]][[Hypothesis|假设]]生成）**双重构成，并依赖于将新构想与个体独特的具身体验、个人叙事及多领域经验图式深度交织。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 270, 277–278)]]
+> - **创造力作为[[Epistemic Virtues and Vices|理智美德]]（Creativity as an Intellectual Virtue）** 结合[[Virtue Epistemology|德性认识论]]框架，创造力不仅表现为外显的发散思维技能，更是深层的理智美德，由**动机成分**与**技能成分**双重构成，并依赖于将新构想与个体独特的具身体验、个人叙事及多领域经验图式深度交织。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 270, 277–278)]]
+> - **原真性与超越衍生性（Authentic Originality vs Derivative Pastiche）** 真正的颠覆性创造力如同巴斯奎特（Basquiat）开创涂鸦艺术，要求打破旧有[[Paradigm|范式]]并重新划定人类认知边界；而在无差别商业投机与消费主义[[Disciplina and Doctrina|规训]]下，创造力极易退化为对既有通信协议的浅层排列组合与无生命衍生作品。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 106–107)]]
 
 > [!logic-map]- 要素关系与制度激励拓扑
 > ```mermaid
@@ -235,6 +248,16 @@ updated: 2026-10-08
 
 ---
 
+### 命题五　原真创造力源于无中生有的原创洞见与跨界重构，而技术拼贴仅是对既有要素的衍生性排列组合
+
+> [!concept-lens] 科技哲学、文化批评与创新形态学维度
+> 探讨真正的开创性原真创造（Genuine Originality）与工业化/商业化衍生性重组（[[Technological Pastiche]]）之间的本质区隔，揭示消费主义与快节奏商业逻辑对深度创造力的稀释机制。
+
+> [!claim] Karp & Zamiska; Graeber
+> **原真创造力与技术拼贴的[[Ontology|本体论]]分野** 真正的创造力（如 Basquiat 的绘画艺术）表现为打破既有意义框架、直面未知并产出具有独立灵魂的开创性产物；然而在当代以生活方式为主导的科技狂潮中，资本与工程力量日益将创造力退化为“技术拼贴（[[Technological Pastiche]]）”——即对既有成熟组件、现有算法或生活便利设施进行表面化的排列组合与衍生包装（如自动猫砂盆、果汁机、宠物健康项圈）。Graeber (2012) 与 [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025)]] 指出，这种将创造力等同于快速迭代与功能拼凑的倾向，制造了繁荣的创新幻觉，实则掩盖了底层重大构想的枯竭（[[Big Idea Famine]]）。培育真正的创造力，需要超越工具理性与快速套现的束缚，保护直觉、跨界综合以及对根本性重大问题的深度探索。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 207–211)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -244,6 +267,7 @@ updated: 2026-10-08
 > | **教育可塑性与干预效能** | 专门的教育教学干预与训练项目是促进创造力发展的最有效途径，合作学习对高阶认知赋能显著，高校干预呈现中短期倒 U 型周期与言语认知优势 | 课程设计、教学改革与思维训练 | Scott et al. (2004); [[Mark A. Runco\|Runco et al. (2026)]]; [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]; [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] |
 > | **人机构想激发** | AI 显著拓展发散构想空间，但对创造力整体促进有限并落后于其他高阶思维，须防范文风均质化、个体声音稀释与去技能化风险 | 人机协同创意设计、头脑风暴与学术写作 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; Urban et al. (2024); Monib et al. (2025); [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]]; [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] |
 > | **科学创造力与体制激励** | 颠覆性科学创造力集中于青年早年窗口，现行共识评审与增量指标诱发了严重的学术风险规避，需通过非共识资助破局 | 科学学、科研资助机制改革与[[Innovation Ecosystem\|创新生态]]建设 | Jones (2010); Chu & Evans (2021); [[Michael Kratsios\|Kratsios (2026)]] |
+> | **原真创造与技术拼贴** | 原真创造源于无中生有的原创洞见与重大突破，而技术拼贴仅是对既有组件的衍生性重组与表面包装，易滋生创新幻觉 | 创新形态学、技术哲学、文化批评与科技政策 | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09\|Karp & Zamiska (2025)]]; Graeber (2012) |
 
 ---
 
@@ -256,6 +280,7 @@ updated: 2026-10-08
 > - **2010 年代 科学学与生命周期创造力计量** Jones (2010) 等量化确立了科学家产生颠覆性创见的早年年龄峰值规律，揭示认知探索灵活性随年龄与[[Paradigm|范式]]深化的消长特征。
 > - **2020 年代 [[Meta-meta-analysis|二阶元分析]]确立实证效应基准** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 综合 52 项一阶[[Meta-analysis|元分析]]确立创造力关联全景基准；[[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 证实[[Cooperative Learning|合作学习]]对创造性思维等[[Higher-Order Thinking Skills|高阶认知技能]]的优先促进效能。
 > - **2025 年 高校[[Creativity Training|创造力干预]][[Three-Level Meta-Analysis|多层元分析]]** [[Argument_Guo_2025_TSC|Guo et al. (2025)]] 综合 29 项实证研究确立大学生创造力干预基准（$g = 0.628$）；[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] 揭示生成式 AI 对创造性思维干预基准（$g = 0.444$）及其套路化同质局限。
+> - **2025 年 商业衍生化批判与[[Technological Pastiche|技术拼贴]]反思** [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025)]] 结合 Graeber (2012) 提出科技与文化领域的[[Technological Pastiche|技术拼贴]]批判，以 Basquiat 的原真艺术创作对比当代消费级硬件的衍生重组，阐明开创性原真创造与表面排列组合的本质分野。
 > - **2026 年 [[Man-Computer Symbiosis|人机协同]]、[[Cognitive Deskilling|去技能化]]防范与国家科研体制反思** [[Argument_Naeem_2026_Episteme|Naeem (2026)]] 确立防范 AI 引发[[Creative Deskilling|创造力去技能化]]的[[Virtue Epistemology|美德认识论]]支架；[[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] 将科学创造力从心理学扩展至国家创新政策，揭示学术风险规避与共识评审对颠覆性探索的系统性压制。
 
 ---
@@ -285,6 +310,12 @@ updated: 2026-10-08
 > > [!axis] 高风险颠覆性创造力 vs 增量切香肠式常规科学
 > > - **颠覆性创造力派** 强调真正的重大科技跃迁来自于突破既有[[Paradigm|范式]]的高方差假说，必须建立容错与非共识资助机制保护探索者。
 > > - **增量累积论派** 认为常规科学的细密论证与严谨复现是科学大厦稳固的基石，过度追逐所谓颠覆性会导致学术漂浮与虚华。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–16)]]
+>
+> > [!axis] 开创性原真创造 vs 衍生性重组拼贴
+> > 争论创造力应以“无中生有、打破既有框架的原真突破”为根本标准，还是涵盖“对现有技术与商业组件进行微创新与重组拼贴”的广义改良。
+> >
+> > - **原真创造派（Karp & Zamiska / Graeber）** 强调真正的创造力具有不可替代的原创灵魂与范式突破性，批判将既有组件缝合打包的[[Lifestyle Technology|生活方式技术]]为缺乏灵魂的[[Technological Pastiche|技术拼贴]]，主张破除衍生繁荣带来的创新幻觉。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 207–211)]]
+> > - **组合创新派** 认为现代科技与商业[[Nature of Innovation|创新的本质]]即是已有技术要素的远距离联想与跨界组合（Arthur, 2009），微创新与功能整合同样降低了社会运行成本并具有实用创造价值。
 
 ---
 
@@ -357,6 +388,7 @@ updated: 2026-10-08
 > - **[[Cooperative Learning|合作学习]]对创造性思维赋能** [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 开展[[Cooperative Learning|合作学习]]对多维学习产出的二阶元分析，实证确立了合作学习对创造性思维等[[Higher-Order Thinking Skills|高阶认知技能]]的赋能效应达到 $ES = 0.76$，证实小群体互动与认知冲突对[[Creative Problem Solving|创造性问题解决]]的促进价值。
 > - **创造力与[[Critical Thinking|批判性思维]]相关元分析** [[Argument_Park_2026_TSC|Park et al. (2026)]] 开展学生样本中创造力与[[Critical Thinking|批判性思维]]相关的一阶元分析，综合 29 项研究 51 个[[Effect Size|效应量]]，确立两者中等正相关（$r = 0.386$），并证实测量类型显著调节相关大小，双主观组合相关最高（$r = 0.509$），提示自陈测量中的[[Common Method Variance|共同方法变异]]放大了观察相关。
 > - **科学创造力生命周期与体制激励改革** [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] 结合 Jones (2010) 等科学学实证，剖析早年创造力峰值与当代学术评价体系中“学术风险规避”及共识评审的体制冲突，倡导通过便携式青年资助与非共识评审（Golden Tickets）激发前沿颠覆性科学创造力。
+> - **原真创造力、[[Technological Pastiche|技术拼贴]]与重大构想枯竭** [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025)]] 从科技文化批评视角探讨创造力的本质，以 Basquiat 的绘画艺术作为开创性原真创造的范例，批判当代硅谷将既有成熟组件进行微小重组打包的[[Technological Pastiche|技术拼贴]]现象，阐明衍生性消费技术对重大基础突破探索的遮蔽机制。
 > - **高等教育政策与量规评价实践** [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] [[Systematic Review|系统综述]] [[OECD]] 国家高等教育中创造力与[[Critical Thinking Assessment|批判性思维评价]]的政策与实践，详析创造力在高校微观考核中的显性标准匮乏现状与真实性量规的破局路径。
 > - **[[Generative Artificial Intelligence|生成式人工智能]]赋能与抑制综述** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 系统综述 67 项实证研究，揭示 ChatGPT 作为发散生成伙伴在构想拓展（31 项）、结构[[Scaffolding|脚手架]]（24 项）与视角转换（18 项）中的促进效能，并指出非结构化使用导致个人学术声音稀释与探索停滞的风险。
 > - **生成式 AI 影响创造力的元分析实证** [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] 运用随机效应[[Meta-analysis|元分析]]综合 29 项实验与准实验（创造力子维度 $k = 23$），确立生成式 AI 对学生创造力的中等偏小正向促进效应（$g = 0.444$），揭示了统计生成模型的同质化输出对突破性原创新颖性构成的潜在阻抗。

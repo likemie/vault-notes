@@ -239,7 +239,7 @@ updated: 2026-10-08
 > | [[Counterculture Computing]] | Concept | 1960–1970 年代反文化运动与计算机革命的融合[[Paradigm\|范式]]，将技术重塑为个体解放武器。 |
 > | [[Consumer Internet]] | Concept | 21 世纪初技术精英放弃宏大政治理想、全面转向物质消费与广告流量变现的产业形态。 |
 > | [[Technological Agnosticism]] | Concept | 科技精英在国家认同解构后所形成的政治冷漠、道德脱嵌与战略避险心态。 |
-> | [[Technological Republic]] | Concept | 战后国家战略与前沿工程深度绑定的政产研结盟传统，在本章作为反文化计算的批判对照面。 |
+> | [[Technological Republic]] | Concept | 战后国家战略与前沿工程深度绑定的政产研结盟传统，构成反文化计算与去国家化思潮的对照范式。 |
 > | [[Steve Jobs]] | Person | 苹果公司联合创始人，将反文化审美与工程结合，开创亲密个人计算设备范式。 |
 > | [[Steven Levy]] | Person | 资深科技作家，著有《黑客》（1984），系统提炼黑客伦理与缺陷系统批判。 |
 > | [[Stewart Brand]] | Person | 《[[Whole Earth Catalog\|全球概览]]》创办人，论证反文化反集权哲学为互联网与个人计算革命提供基石。 |

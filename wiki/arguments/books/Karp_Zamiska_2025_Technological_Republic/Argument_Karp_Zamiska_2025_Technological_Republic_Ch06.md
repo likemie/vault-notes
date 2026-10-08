@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch06"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch06"
 argument_display_title: "Technological agnostics"
 argument_kind: "book-chapter"
-argument_related_count: 32
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -42,7 +42,6 @@ related_concepts:
   - "[[Buen Vivir]]"
   - "[[Technological Republic]]"
   - "[[Epistemology]]"
-  - "[[Revoicing]]"
   - "[[The Right and the Good]]"
   - "[[Hard Belief]]"
   - "[[Historical Amnesia]]"
@@ -106,7 +105,7 @@ updated: 2026-10-08
 >
 >   对比 F-35 战机分布全美 50 州的实体供应链与硅谷西海岸垄断 21.4 万亿美元市值的空前集聚，结合全球人均 GDP 长期增长（图 6-2），提出国家如何确保科技精英服务于公众的治理难题；援引[[E. Digby Baltzell|E. 迪格比·巴尔策尔]]关于贤能贵族蜕变为封闭种姓的理论模型，呼吁破除体制内部特权壁垒（pp. 76–79）。
 >
-> - **形式正义无法替代实质美好生活：克服恐惧非议的集体沉默以[[Revoicing|重铸]]国家政治认同**
+> - **形式正义无法替代实质美好生活：克服恐惧非议的集体沉默以重铸国家政治认同**
 >
 >   援引乔治·奥威尔《1984》密林麦克风与东德斯塔西窃听历史，指出真正威胁并非外在监视而是内在信念的丧失；结合[[John Rawls|约翰·罗尔斯]]与[[Ágnes Heller|阿格妮丝·赫勒]]论[[The Right and the Good|正当与善]]的血肉关系以及[[Morris Berman|莫里斯·伯曼]]对解构主义极限的批判，援引爱德华·R. [[Edward R. Murrow|默罗]]终结麦卡锡主义的名言，呼吁公众直面自身责任，终结对民族国家概念的思想内战（pp. 79–82）。
 
@@ -297,7 +296,7 @@ updated: 2026-10-08
 > - **直面专横迫害的历史勇气** 1954 年 3 月 9 日，哥伦比亚广播公司（CBS）传奇播音员[[Edward R. Murrow|爱德华·R·默罗]]（[[Edward R. Murrow]]）在《现在请看》（*See It Now*）节目中发表了对威斯康星州参议员约瑟夫·R. 麦卡锡（Joseph R. McCarthy）的严厉批判，开启了终结麦卡锡主义政治迫害的历史转折。
 > - **莎士比亚名言揭示公民责任** 默罗在演讲末尾引用莎士比亚《裘力斯·恺撒》中的名言警示全美公众：“亲爱的布鲁图斯，过错不在我们的星宿，而在我们自己”。克服心智空洞化危机不能寄望于政客的道德自律，而必须依靠公众自身的觉醒与反抗（pp. 81–82）。
 
-> [!conclusion] 终结对国家概念的思想内战以[[Revoicing|重铸]]技术共和国
+> [!conclusion] 终结对国家概念的思想内战以重铸技术共和国
 > 一个世纪前开启的对国家与民族身份概念的解构战争，已经将开放包容的初衷异化为对集体认同与共同政治方案的全面拒斥。唯有重新拥抱共同体使命与实质硬信念，硅谷与西方才能走出技术不可知论的泥潭，重建面向软件世纪的[[Technological Republic|技术共和国]]（pp. 81–82）。
 
 ---

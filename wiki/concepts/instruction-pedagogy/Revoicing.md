@@ -2,7 +2,6 @@
 title: Revoicing
 aliases:
   - 话语重铸
-  - 重铸
   - 教师重铸
   - teacher revoicing
   - O'Connor and Michaels revoicing
@@ -47,7 +46,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Revoicing
@@ -91,10 +90,10 @@ updated: 2026-10-07
 ## 核心要素
 
 > [!feature] [[Discourse|话语]]重铸的核心功能构成
-> - **标注观点作者权（Authorship Attribution）** 教师在互动中明确指明谁提出了什么观点，并将不同学生的提议置于对立面，促使学生将其视为个人的智力财产进行捍卫或修正。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 93–94)]]
-> - **认知层级提升（Cognitive Elevation）** 在不篡改学生核心原意的前提下，引入学科专业词汇与[[Analytic Framework|分析框架]]，将直觉性经验描述转化为严谨的知识表达。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 94)]]
-> - **促成同伴论证对立（Positioning for Peer Debate）** 借助句式重构将分歧显性化（例如所以你不同意某某同学的方案），为全班展开实证检验与[[Reflexivity|反思性]]讨论搭建结构化平台。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 94)]]
-> - **话语角色分离（Role Differentiation）** 依托欧文·[[Michael Gove|戈夫]][[Horace Mann|曼]]（[[Erving Goffman]]）的话语角色理论，教师仅承担话语发出者（Animator），而始终将学生保持为观点来源者（Author）。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 92–93)]]
+> - **标注观点作者权（Authorship Attribution）** 教师在互动中明确指明谁提出了什么观点，并将不同学生的提议置于对立面，促使学生将其视为个人的智力财产进行捍卫或修正。
+> - **认知层级提升（Cognitive Elevation）** 在不篡改学生核心原意的前提下，引入学科专业词汇与[[Analytic Framework|分析框架]]，将直觉性经验描述转化为严谨的知识表达。
+> - **促成同伴论证对立（Positioning for Peer Debate）** 借助句式重构将分歧显性化（例如所以你不同意某某同学的方案），为全班展开实证检验与[[Reflexivity|反思性]]讨论搭建结构化平台。
+> - **话语角色分离（Role Differentiation）** 依托欧文·[[Michael Gove|戈夫]][[Horace Mann|曼]]（[[Erving Goffman]]）的话语角色理论，教师仅承担话语发出者（Animator），而始终将学生保持为观点来源者（Author）。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 92–94)]]
 
 > [!logic-map]- 话语重铸的微观互动机制
 > ```mermaid
@@ -158,7 +157,7 @@ updated: 2026-10-07
 > [!contrast-table] 话语重铸的核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **微观认知提升命题** | 教师通过重铸实现概念范畴升级并确认学生观点作者权 | 探究式科学与数学课堂对话 | O'Connor & Michaels (1993); [[Argument_Li_2012_Cambridge\|Li (2012)]] |
+> | **微观认知提升命题** | 教师通过重铸实现概念范畴升级并确认学生观点作者权 | 探究式科学与数学课堂对话 | O'Connor & Michaels (1993); [[Jin Li\|Li (2012)]] |
 > | **文化制度契合命题** | 策略有效性依赖西方表达即思考的个体主义文化模型 | 跨文化教学比较与多文化课堂 | [[Argument_Li_2012_Cambridge\|Li (2012)]]; He (2001) |
 
 ---

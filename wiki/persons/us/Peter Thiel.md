@@ -8,7 +8,7 @@ summary: "德裔美国著名风险投资家、政治思想家、PayPal 联合创
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - defense-technology
 related_concepts:
   - "[[Big Idea Famine]]"
+  - "[[Consumer Internet]]"
   - "[[Credential Inflation]]"
   - "[[Creativity]]"
   - "[[Technological Republic]]"
@@ -52,7 +53,7 @@ updated: 2026-10-08
 
 > [!person-profile] 人物档案
 > - **身份位置** Peter Thiel（1967– ），德裔美国风险投资家、政治思想家与企业家，PayPal 联合创始人，Palantir 联合创始人兼董事长，Founders Fund 创始合伙人，《从0到1》（*Zero to One*）作者。
-> - **核心角色** 硅谷投资界批判“科技停滞假说”（Great Stagnation）与“[[Big Idea Famine|大构想饥荒]]”的核心思想导师，力主将风险资本从浅层消费互联网引导至前沿深科技与国防安全领域。
+> - **核心角色** 硅谷投资界批判“科技停滞假说”（Great Stagnation）与“[[Big Idea Famine|大构想饥荒]]”的核心思想导师，力主将风险资本从浅层[[Consumer Internet|消费互联网]]引导至前沿深科技与国防安全领域。
 > - **代表贡献** 提出“我们想要会飞的汽车，得到的却只是 140 个字符”的著名论断，开创从 0 到 1 的垂直创新理论，倡导以[[Apollo Program|阿波罗计划]]式的非连续跨维度跃进作为衡量人类真正进步的根本标尺。
 
 > [!citation-card]- 蒂尔论阿波罗太空计划作为人类进步标尺
@@ -116,7 +117,7 @@ updated: 2026-10-08
 
 > [!debates] 学术与公众争议
 >
-> > [!axis] 从 0 到 1 硬核跃升 vs 消费互联网渐进改良
+> > [!axis] 从 0 到 1 硬核跃升 vs [[Consumer Internet|消费互联网]]渐进改良
 > > 围绕技术创新的社会价值产生分歧。
 > >
 > > - **深科技跃迁派（Thiel, 2011）** 坚持认为只有能源、材料、深空与航电等物理世界的大突破才能根本扭转[[Total Factor Productivity|全要素生产率]]停滞。

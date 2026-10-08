@@ -11,7 +11,7 @@ aliases:
 summary: "依托自然语言处理与多轮语音文本交互技术，在教学情境中提供拟真会话演练、即时纠错反馈、启发式追问与自适应语料推送的交互中介系统。"
 type: concept
 domain: "educational-technology"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Feedback]]"
   - "[[Presence]]"
-  - "[[Revoicing]]"
   - "[[Zone of Proximal Development]]"
   - "[[Dependent Variable]]"
 related_theories: []
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Conversational AI in Education
@@ -74,7 +73,7 @@ updated: 2026-10-07
 
 > [!feature] [[Dialogue in Education\|教育对话]]式[[AI Agent in Education\|智能体]]四大教学功能
 > 1. **低焦虑浸润式口语演练（Low-Anxiety Spoken [[Presence\|immersion]]）** 为学生提供没有社交评判压力的一对一虚拟对话搭子，鼓励反复开口尝试，提升每分钟正确阅读字数（Words Correct Per Minute, WCPM）与口语流利度。
-> 2. **秒级形成性纠错与[[Revoicing\|重铸]]（Formative [[Feedback]] & Recasting）** 在对话过程中即时识别发音偏差、语法时态错误并以自然的重铸（Recasting）方式自适应反馈正确表达。
+> 2. **秒级形成性纠错与重铸（Formative [[Feedback]] & Recasting）** 在对话过程中即时识别发音偏差、语法时态错误并以自然的重铸（Recasting）方式自适应反馈正确表达。
 > 3. **[[Socrates\|苏格拉底]]式启发追问（Socratic Elicitation）** 非直接给出答案，而是基于学习者的输入提出递进式引导问题，激发学生的深层反思与逻辑推断。
 > 4. **分级语料自适应推送（Adaptive Corpus Recommendation）** 依据学生的词汇量与应答复杂度，自适应调节智能体自身的言语输出难度，精确锚定学生的[[Zone of Proximal Development\|最近发展区]]（ZPD）。
 
@@ -87,9 +86,9 @@ updated: 2026-10-07
 >
 > | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | Elmaadaway et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 智能语音[[Dialogue in Education\|对话]]聊天机器人 vs. 常规听说练习 | 初中 EFL 英语口语阅读流利度（WCPM） | $N = 60$（干预 $n = 30$, 控制 $n = 30$） | — | Hedges' $g = 2.12$ | $p < .001$ | 准实验设计；秒级发音重铸与低焦虑环境带来巨大促学增益 |
-> | Chen et al. (2024)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 交互式古诗词虚拟人物问答[[AI Agent in Education\|智能体]] vs. 传统精读教学 | 语文古诗词意境理解与发散鉴赏表现 | $N = 80$ | — | Hedges' $g = 1.15$ | $p < .001$ | 准实验设计；多轮启发式对话显著促进情境代入与深层理解 |
-> | Sapan & Uzun (2024)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 对话式写作助手分步[[Scaffolding\|脚手架]] vs. 独立自由写作 | 初中英语段落结构与论点展开质量 | $N = 68$ | — | Hedges' $g = 0.08$ | $p > .05$ | [[Quasi-Experimental Designs\|准实验设计]]；写作提示若缺乏教师干预则增益较为有限 |
+> | Elmaadaway et al. (2025) | 智能语音[[Dialogue in Education\|对话]]聊天机器人 vs. 常规听说练习 | 初中 EFL 英语口语阅读流利度（WCPM） | $N = 60$（干预 $n = 30$, 控制 $n = 30$） | — | Hedges' $g = 2.12$ | $p < .001$ | 准实验设计；秒级发音重铸与低焦虑环境带来巨大促学增益；引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] |
+> | Chen et al. (2024) | 交互式古诗词虚拟人物问答[[AI Agent in Education\|智能体]] vs. 传统精读教学 | 语文古诗词意境理解与发散鉴赏表现 | $N = 80$ | — | Hedges' $g = 1.15$ | $p < .001$ | 准实验设计；多轮启发式对话显著促进情境代入与深层理解 |
+> | Sapan & Uzun (2024) | 对话式写作助手分步[[Scaffolding\|脚手架]] vs. 独立自由写作 | 初中英语段落结构与论点展开质量 | $N = 68$ | — | Hedges' $g = 0.08$ | $p > .05$ | [[Quasi-Experimental Designs\|准实验设计]]；写作提示若缺乏教师干预则增益较为有限 |
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

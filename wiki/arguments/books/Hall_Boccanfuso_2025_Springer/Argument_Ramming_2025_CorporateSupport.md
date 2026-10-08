@@ -7,7 +7,7 @@ title: "Argument_Ramming_2025_CorporateSupport"
 argument_key: "Argument_Ramming_2025_CorporateSupport"
 argument_display_title: "Gaining Support Within Companies for Collaboration"
 argument_kind: "book"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Engineering Education]]"
   - "[[Precompetitive Research]]"
+  - "[[Consumer Internet]]"
   - "[[Reliability]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Commensuration]]"
@@ -78,7 +79,7 @@ sources:
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 status: active
 created: 2026-06-03
-updated: 2026-10-06
+updated: 2026-10-08
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 publication_place: "Cham"
 publisher: "Springer"
@@ -363,7 +364,7 @@ publisher: "Springer"
 > [!case] Intel 与 Microsoft 联合注资 UC Berkeley 与 UIUC 建立 [[Universal Parallel Computing Research Centers|UPCRC]] 破局并行编程瓶颈
 > 2008 年 3 月，微处理器制造领军企业英特尔与操作系统软件巨头微软宣布联手，共同发起通用并行计算研究中心（UPCRC）倡议，提供长期规模化资金联合资助全美计算机体系结构与系统软件领域的两大重镇：加利福尼亚大学伯克利分校与伊利诺伊大学厄巴纳-香槟分校。
 > - **前竞争合作机制** 硬件企业与软件巨头跨越以往各自为战的界限，共同划定并行编程语言、编译器优化、多核操作系统与并发算法库等关键[[Precompetitive Research|前竞争研究]]范围。
-> - **双中心优势互补** 伯克利中心侧重面向消费级互联网与桌面应用的高效并发设计，香槟中心主攻多核体系结构支撑与高[[Reliability|可靠性]]系统软件，形成紧密衔接的攻关组合。
+> - **双中心优势互补** 伯克利中心侧重面向[[Consumer Internet|消费级互联网]]与桌面应用的高效并发设计，香槟中心主攻多核体系结构支撑与高[[Reliability|可靠性]]系统软件，形成紧密衔接的攻关组合。
 > - **学科教学体系重塑** 该项目不仅攻克了多项底层多核编程理论瓶颈，更直接推动了并发编程理论被全面纳入全球大学计算机本科专业必修核心课程体系（Green, 2008; Ramming, 2013）。
 
 #### 3. 打破技术理事会的小额分散预算与协商妥协，推行集中化战略治理是撬动行业级破局投资的前提
