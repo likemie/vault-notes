@@ -93,7 +93,7 @@ updated: 2026-10-08
 > - **商业回报周期的不对称暴利** 服务消费者的商业闭环短、边际成本极低、变现迅速；而公共部门项目采购周期漫长、涉及复杂的防卫型官僚规章。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 172–173)]]
 > - **不可知论与价值真空的妥协** 科技领袖为避免冒犯任何社群，采取道德不可知论立场，放弃定义技术应服务于何种崇高生活，任由市场价格主导创新方向。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 172)]]
 
-> [!logic-map] 技术逃避主义向[[Innovation Desert|创新荒漠]]演化的因果链路
+> [!logic-map]- 技术逃避主义向[[Innovation Desert|创新荒漠]]演化的因果链路
 > ```mermaid
 > flowchart LR
 >   subgraph Drivers ["逃避动因"]

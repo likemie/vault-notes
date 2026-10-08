@@ -115,7 +115,7 @@ updated: '2026-09-08'
 > - **如何分析？** 尽早开始分析、渐进聚焦、生成厚描述；可借助 CAQDAS 编码、检索与理论建构，但软件不替代分析
 > - **证据是什么？** 内容为方法综述，引用 Geertz、Giddens、Miles & Huberman、LeCompte & Preissle、Kelle、Gibbs、Flick 等
 
-> [!logic-map] 论证链
+> [!logic-map]- 论证链
 > ```mermaid
 > flowchart LR
 >     A[质性数据多来源<br/>访谈/观察/笔记/文档/影像] --> B[转录选择<br/>成本效益+转录规范]

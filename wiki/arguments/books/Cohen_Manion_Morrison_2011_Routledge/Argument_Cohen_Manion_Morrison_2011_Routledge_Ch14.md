@@ -117,7 +117,7 @@ sources:
 
 ## 章节内容
 
-> [!logic-map] [[Case Study\|个案研究]]方法的核心知识结构
+> [!logic-map]- [[Case Study\|个案研究]]方法的核心知识结构
 > ```mermaid
 > flowchart LR
 >     A["个案研究<br/>Case Study"]

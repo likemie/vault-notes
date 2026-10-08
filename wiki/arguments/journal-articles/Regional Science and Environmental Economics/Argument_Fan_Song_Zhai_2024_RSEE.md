@@ -98,7 +98,7 @@ updated: 2026-09-16
 ---
 ## 论证结构
 
-> [!logic-map] 核心论证逻辑链
+> [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
 >     A["15项EST评价指标"]

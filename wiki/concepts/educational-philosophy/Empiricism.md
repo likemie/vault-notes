@@ -63,6 +63,7 @@ related_persons:
   - "[[Karl Popper]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11]]"
@@ -92,7 +93,7 @@ updated: 2026-10-08
 ## 定义
 
 > [!def] 核心定义
-> **经验主义（Empiricism）**，亦称**经验论**，是科学探究四大基本信仰[[Hypothesis|假设]]之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1, p. 15）。该假设坚信一切可靠的知识在根本上只能来源于感官经验与实地观察（derive from experience）。在科学研究与工程实践中，经验主义意味着任何理论、假说或技术系统的可立足性（tenability），完全取决于支撑它的经验证据与实战运行结果；在此，“经验的（empirical）”被界定为通过直接观察、物理交互与实地体验可加以复核验证的事物（Barratt, 1971; Karp & Zamiska, 2025），而“证据（evidence）”则是在概率与实效意义上对理论或假说提供确证支持的客观数据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 15–16)]]
+> **经验主义（Empiricism）**，亦称**经验论**，是科学探究四大基本信仰[[Hypothesis|假设]]之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1, p. 15）。该假设坚信一切可靠的知识在根本上只能来源于感官经验与实地观察（derive from experience）。在科学研究与工程实践中，经验主义意味着任何理论、假说或技术系统的可立足性（tenability），完全取决于支撑它的经验证据与实战运行结果；在此，“经验的（empirical）”被界定为通过直接观察、物理交互与实地体验可加以复核验证的事物（Barratt, 1971; [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]），而“证据（evidence）”则是在概率与实效意义上对理论或假说提供确证支持的客观数据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 15–16)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向以感官知觉、系统观察、实证数据与实战运行反馈为知识合法来源的[[Epistemology|认识论]][[Paradigm|范式]]。
@@ -132,7 +133,7 @@ updated: 2026-10-08
 > - **Mouly [[Scientific Method|经验科学]]五步演进规程（Five Steps of Empirical Science）** 穆利（Mouly, 1978）系统提炼的实证演进阶梯：经验积累、分类整理、精密量化、关系发现、逼近真理。
 > - **反先验教条主义（Anti-a-priori Dogmatism）** 拒绝任何未经经验数据检验的先验教条或权威断言，坚持理论与系统的立足性完全取决于证据与实战质量。
 > - **方法论经验主义与唯方法论主义（Methodological Empiricism & Methodologism）** 在 20 世纪战后实证[[Scientism|科学主义]]运动中，经验主义被窄化为图尔敏（Stephen Toulmin, 1963）所界定的通用科学方法信仰，即仅认可[[Hypothesis|假设]]检验、受控调查、[[Variable|变量]]测量与量化统计解释（Noah & Eckstein, 1969；Psacharopoulos, 1987），异化为[[Bernard Barber|巴伯]]（Bernard Barber, 1972）所批判的脱离历史文化语境与价值反思的唯方法论主义。
-> - **工程经验实战性与即兴试错（Engineering Empiricism & Improvisational [[Feedback]]）** 在技术与复杂自适应系统构建中，经验主义体现为对物理世界运行结果与实战反馈的绝对服从。前沿工程本质上是一门经验观察性科学（empirical and observational science），摒弃象牙塔式的先验公理推导，奉行尝试一切管用之法的务实准则，通过持续碰撞现实的即兴迭代获取真实认知（Karp & Zamiska, 2025, pp. 122–123）。
+> - **工程经验实战性与即兴试错（Engineering Empiricism & Improvisational [[Feedback]]）** 在技术与复杂自适应系统构建中，经验主义体现为对物理世界运行结果与实战反馈的绝对服从。前沿工程本质上是一门经验观察性科学（empirical and observational science），摒弃象牙塔式的先验公理推导，奉行尝试一切管用之法的务实准则，通过持续碰撞现实的即兴迭代获取真实认知（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025, pp. 122–123]]）。
 
 > [!proc] 经验科学的五步演化进程（Mouly, 1978）
 > 1. **经验积累（Experience）** 科学探究在最基础感官层次的起点，系统搜集原始观察材料。
@@ -141,7 +142,7 @@ updated: 2026-10-08
 > 4. **关系发现（Discovery of relationships）** 识别并确立现象与[[Variable|变量]]之间的函数和因果关联。
 > 5. **逼近真理（Approximation to the truth）** 科学借助持续的经验试错与修正，逐步渐进逼近客观真理。
 
-> [!logic-map] 经验主义方法论运作与演进逻辑
+> [!logic-map]- 经验主义方法论运作与演进逻辑
 > ```mermaid
 > flowchart TD
 >     A["认识论基石<br>感官经验第一性<br>可靠知识源于可复核观察"] --> B["Mouly 经验五步法<br>经验 -> 分类 -> 量化 -> 关联 -> 逼真"]
@@ -236,7 +237,7 @@ updated: 2026-10-08
 > - **1930s — 逻辑经验主义与证实原则** 维也纳学派将经验主义推至顶峰，主张只有能够被经验证实的陈述才具备认知意义。
 > - **1960s 至今 — 后实证修正与多元经验论** 波普尔揭示观察渗透理论，[[Pragmatic Paradigm|实用主义]]与[[Mixed Methods Research|混合方法]]将经验主义改造为面向解决现实问题的工具主义与实践经验论。
 > - **1970s — 比较教育方法论经验主义批判与[[Geisteswissenschaften|精神科学]]反思** 卡扎米亚斯与施瓦茨（Kazamias & Schwartz, 1977）、[[Bernard Barber|巴伯]]（Barber, 1972）揭示并批判诺亚、埃克斯坦等实证派所确立的方法论经验主义与唯方法论主义，重申比较教育深植于精神科学的人文阐释与批判反思传统（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）。
-> - **2025 年 — 软件工程与自适应组织的[[Scientific Method|经验科学]]重塑** 卡普与扎米斯卡（Karp & Zamiska, 2025）将经验主义原则注入现代[[Technological Republic|技术共和国]]与软件工程哲学，论证前沿软件开发本质是一门依赖实战观测与即兴演剧的经验观察性科学，重塑了面对不确定性世界的技术认知模式（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|Karp & Zamiska, 2025, Ch. 11]]）。
+> - **2025 年 — 软件工程与自适应组织的[[Scientific Method|经验科学]]重塑** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）将经验主义原则注入现代[[Technological Republic|技术共和国]]与软件工程哲学，论证前沿软件开发本质是一门依赖实战观测与即兴演剧的经验观察性科学，重塑了面对不确定性世界的技术认知模式（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|Karp & Zamiska, 2025, Ch. 11]]）。
 
 ---
 

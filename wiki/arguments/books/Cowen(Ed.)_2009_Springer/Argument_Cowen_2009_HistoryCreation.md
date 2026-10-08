@@ -75,7 +75,7 @@ sources:
 part_of: "[[Argument_Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-05
-updated: 2026-09-29
+updated: 2026-10-08
 ---
 # Argument_Cowen_2009_HistoryCreation
 
@@ -139,7 +139,7 @@ updated: 2026-09-29
 
 ## 论证结构
 
-> [!logic-map] 核心论证逻辑链
+> [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
 >     A["起源神话与学科合法性需求<br>(Noah & Eckstein, Bereday)"] --> B["学科史编纂的三重瓶颈<br>(隐蔽性/制度支持缺失/资料密度低)"]

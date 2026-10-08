@@ -90,13 +90,13 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-17
-updated: 2026-10-04
+updated: 2026-10-08
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04
 
 ## 概念地图
 
-> [!logic-map] 全章论证结构
+> [!logic-map]- 全章论证结构
 > ```mermaid
 > flowchart LR
 >   A["4.1 原因与条件<br>反事实、多重因果"] --> B["4.2 因果推断与<br>概率因果性"]

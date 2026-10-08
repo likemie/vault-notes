@@ -47,6 +47,7 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
 related_persons:
   - "[[Marcia C. Linn]]"
+  - "[[Kenneth Burke]]"
 related_facts:
   - "[[Web-based Inquiry Science Environment]]"
 related_theories:
@@ -67,7 +68,7 @@ updated: 2026-09-22
 ## 理论概述
 
 > [!def] 核心定义
-> 知识整合（Knowledge Integration, KI）是由学习科学学者玛西娅·琳（[[Marcia C. Linn]]）及其团队在加州大学伯克利分校历经三十年实证研究确立的科学教育[[Constructivist Paradigm\|建构主义]][[Didaktik\|教学理论]]与认知评价框架。该理论主张，学习者的初始认知并非缺乏知识的“白纸”，也不是充满必须被彻底连根拔除的孤立“迷思概念”（Misconceptions），而是由源于日常生活经验的多元、直觉性且往往相互冲突的想法片段构成的复合集合。科学学习的核心机制在于借助结构化情境与[[Scaffolding\|认知支架]]，引导学生经历**引出已有想法、增添规范新概念、发展证据评判标准、反思修正并整合认知网络**的动态重构过程，最终发展出连贯协调的科学因果理解（Linn, 2006; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 6, 9]]）。
+> 知识整合（Knowledge Integration, KI）是由学习科学学者玛西娅·琳（[[Marcia C. Linn]]）及其团队在加州大学[[Kenneth Burke|伯克]]利分校历经三十年实证研究确立的科学教育[[Constructivist Paradigm\|建构主义]][[Didaktik\|教学理论]]与认知评价框架。该理论主张，学习者的初始认知并非缺乏知识的“白纸”，也不是充满必须被彻底连根拔除的孤立“迷思概念”（Misconceptions），而是由源于日常生活经验的多元、直觉性且往往相互冲突的想法片段构成的复合集合。科学学习的核心机制在于借助结构化情境与[[Scaffolding\|认知支架]]，引导学生经历**引出已有想法、增添规范新概念、发展证据评判标准、反思修正并整合认知网络**的动态重构过程，最终发展出连贯协调的科学因果理解（Linn, 2006; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 6, 9]]）。
 
 知识整合框架构成了全球著名开源科学探究平台——基于网络的探究科学环境（[[Web-based Inquiry Science Environment]], WISE）的底层教学设计规范与[[Learning Analytics|学习分析学]]引擎。
 
@@ -96,13 +97,14 @@ updated: 2026-09-22
 >    - *机制* 指导学生调和相互竞争的想法，借助反思提示、结构化论证模板或[[Concept Mapping\|概念图]]，将经受检验的有效概念编织入稳定的因果网络。
 >    - *产出* 摒弃非科学的孤立猜测，形成兼具解释力与情境迁移能力的整合性认知图式。
 
-```mermaid
-flowchart LR
-    A["① 引出已有想法<br>(Elicit Ideas)<br>显性化生活直觉"] --> B["② 增添科学新概念<br>(Add Ideas)<br>交互仿真与实验观察"]
-    B --> C["③ 发展评判标准<br>(Develop Criteria)<br>设计检验与认知冲突"]
-    C --> D["④ 反思整合证据<br>(Sort & Integrate)<br>因果连接与概念网络"]
-    D -.->|"持续迭代与深化"| A
-```
+> [!logic-map]- 知识整合四大核心过程机制
+> ```mermaid
+> flowchart LR
+>     A["① 引出已有想法<br>(Elicit Ideas)<br>显性化生活直觉"] --> B["② 增添科学新概念<br>(Add Ideas)<br>交互仿真与实验观察"]
+>     B --> C["③ 发展评判标准<br>(Develop Criteria)<br>设计检验与认知冲突"]
+>     C --> D["④ 反思整合证据<br>(Sort & Integrate)<br>因果连接与概念网络"]
+>     D -.->|"持续迭代与深化"| A
+> ```
 
 ---
 
@@ -152,7 +154,7 @@ flowchart LR
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Marcia C. Linn]] | 人物 | 知识整合理论的奠基人，主持伯克利学习科学与科学教育长期实验。 |
+> | [[Marcia C. Linn]] | 人物 | 知识整合理论的奠基人，主持[[Kenneth Burke\|伯克]]利学习科学与科学教育长期实验。 |
 > | [[Web-based Inquiry Science Environment]] | 事实 | 知识整合理论的实体化平台载体，以此架构开发了数百个开源探究单元。 |
 > | [[Inquiry Cycle]] | 理论 | 知识整合与探究循环相互支撑，为各探究阶段提供了微观[[Epistemology\|认识论]]重构机制。 |
 > | [[Scaffolding]] | 概念 | 知识整合四步法为数字化支架与教师现场指导的精准投放提供了操作蓝图。 |

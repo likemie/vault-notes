@@ -149,7 +149,7 @@ citation_aliases:
 > [!argument-map] 论证逻辑总览
 > 整体批判性论证沿着“问题表征 → 预设揭示 → 历史沉默 → 生产者追溯 → 利益嵌入 → 权力强化”的递进逻辑展开，逐步拆解神经科学强制入课政策的真实权力运作过程。
 
-> [!logic-map] 核心论证逻辑链
+> [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
 >     subgraph Context [政策背景与置换]

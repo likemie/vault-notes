@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-10-08
 ---
 
 # PRISMA
@@ -176,27 +176,28 @@ updated: 2026-09-17
 > 3. **合格性审阅（Eligibility）** 下载并深入通读剩余文献的完整全文，对照严格的实证设计、样本量、干预时长及统计参数完整性标准进行逐一审阅，详细记录不合格文献的具体排除缘由。
 > 4. **纳入阶段（Included）** 汇总最终符合标准的独立研究篇数与独立效应量个数，构建元分析数据矩阵并绘制标准 PRISMA 流程图。
 
-```mermaid
-flowchart TD
-    subgraph Identification["<b>1. 识别阶段 (Identification)</b>"]
-        A["数据库检索记录<br>(WoS, Scopus, ERIC, PsycINFO, CNKI)"] --> C["去重后文献记录池"]
-        B["其他渠道补充检索<br>(引文追溯、未发表报告)"] --> C
-    end
-
-    subgraph Screening["<b>2. 初筛阶段 (Screening)</b>"]
-        C --> D["标题与摘要初筛"]
-        D -->|剔除不相关主题文献| E["初筛排除记录"]
-    end
-
-    subgraph Eligibility["<b>3. 合格性阶段 (Eligibility)</b>"]
-        D --> F["检索全文本并审阅合格性"]
-        F -->|记录具体排除理由| G["全文排除文献<br>(无对照组、缺乏关键参数等)"]
-    end
-
-    subgraph Included["<b>4. 纳入阶段 (Included)</b>"]
-        F --> H["最终纳入实证研究篇数 (k)<br>及效应量合成矩阵 (ES)"]
-    end
-```
+> [!proc]- PRISMA 四阶段文献筛选流转程序
+> ```mermaid
+> flowchart TD
+>     subgraph Identification["<b>1. 识别阶段 (Identification)</b>"]
+>         A["数据库检索记录<br>(WoS, Scopus, ERIC, PsycINFO, CNKI)"] --> C["去重后文献记录池"]
+>         B["其他渠道补充检索<br>(引文追溯、未发表报告)"] --> C
+>     end
+> 
+>     subgraph Screening["<b>2. 初筛阶段 (Screening)</b>"]
+>         C --> D["标题与摘要初筛"]
+>         D -->|剔除不相关主题文献| E["初筛排除记录"]
+>     end
+> 
+>     subgraph Eligibility["<b>3. 合格性阶段 (Eligibility)</b>"]
+>         D --> F["检索全文本并审阅合格性"]
+>         F -->|记录具体排除理由| G["全文排除文献<br>(无对照组、缺乏关键参数等)"]
+>     end
+> 
+>     subgraph Included["<b>4. 纳入阶段 (Included)</b>"]
+>         F --> H["最终纳入实证研究篇数 (k)<br>及效应量合成矩阵 (ES)"]
+>     end
+> ```
 
 ---
 

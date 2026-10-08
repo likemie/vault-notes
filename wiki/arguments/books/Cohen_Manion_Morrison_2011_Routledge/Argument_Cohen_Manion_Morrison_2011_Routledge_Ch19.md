@@ -94,7 +94,7 @@ related_facts:
   - "[[Research in Schools Evaluation]]"
 status: draft
 created: 2026-07-19
-updated: 2026-09-07
+updated: 2026-10-08
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19
 
@@ -105,7 +105,7 @@ updated: 2026-09-07
 
 ## 章节内容
 
-> [!logic-map] 第19章的核心论证结构
+> [!logic-map]- 第19章的核心论证结构
 > ```mermaid
 > flowchart LR
 >     A["模拟与虚拟世界<br/>19.1"]

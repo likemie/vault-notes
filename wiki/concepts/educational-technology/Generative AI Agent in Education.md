@@ -81,40 +81,41 @@ updated: 2026-09-17
 
 ## 核心架构与促学机制
 
-```mermaid
-flowchart LR
-    subgraph Perception ["感知与输入层"]
-        direction TB
-        P1["学习者开放自然语言提问"]
-        P2["代码片段与非结构化作业"]
-        P3["上下文情境与历史交互记忆"]
-    end
-
-    subgraph CoreEngine ["认知推理与生成中枢 (LLM Engine)"]
-        direction TB
-        E1["大语言模型规划与意图识别"]
-        E2["检索增强生成 (RAG 领域知识库)"]
-        E3["动态认知负荷监测与评估"]
-    end
-
-    subgraph Scaffolding ["自适应教学支架层"]
-        direction TB
-        S1["苏格拉底式启发追问 (Socratic Prompting)"]
-        S2["分步代码纠错与调试微提示"]
-        S3["结构化反思量规约束 (Reflection Rubrics)"]
-    end
-
-    subgraph Outcomes ["认知学习成果"]
-        direction TB
-        O1["计算思维与程序技能内化"]
-        O2["批判性反思与问题解决"]
-        O3["避免认知卸载与盲目依赖"]
-    end
-
-    Perception --> CoreEngine
-    CoreEngine --> Scaffolding
-    Scaffolding --> Outcomes
-```
+> [!logic-map]- [[Generative Artificial Intelligence|生成式人工智能]][[AI Agent in Education|教育智能体]]核心架构与促学机制
+> ```mermaid
+> flowchart LR
+>     subgraph Perception ["感知与输入层"]
+>         direction TB
+>         P1["学习者开放自然语言提问"]
+>         P2["代码片段与非结构化作业"]
+>         P3["上下文情境与历史交互记忆"]
+>     end
+> 
+>     subgraph CoreEngine ["认知推理与生成中枢 (LLM Engine)"]
+>         direction TB
+>         E1["大语言模型规划与意图识别"]
+>         E2["检索增强生成 (RAG 领域知识库)"]
+>         E3["动态认知负荷监测与评估"]
+>     end
+> 
+>     subgraph Scaffolding ["自适应教学支架层"]
+>         direction TB
+>         S1["苏格拉底式启发追问 (Socratic Prompting)"]
+>         S2["分步代码纠错与调试微提示"]
+>         S3["结构化反思量规约束 (Reflection Rubrics)"]
+>     end
+> 
+>     subgraph Outcomes ["认知学习成果"]
+>         direction TB
+>         O1["计算思维与程序技能内化"]
+>         O2["批判性反思与问题解决"]
+>         O3["避免认知卸载与盲目依赖"]
+>     end
+> 
+>     Perception --> CoreEngine
+>     CoreEngine --> Scaffolding
+>     Scaffolding --> Outcomes
+> ```
 
 > [!feature] 生成式[[AI Agent in Education\|教育智能体]]的三大赋能支柱与认知风险
 > 1. **开放上下文动态微提示（Dynamic Contextual [[Scaffolding]]）** 摆脱封闭题库约束，基于学习者个性化表述动态生成符合其[[Zone of Proximal Development\|最近发展区]]（ZPD）的渐进式线索。

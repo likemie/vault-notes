@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-09-17
+updated: 2026-10-08
 ---
 
 # Presence
@@ -81,7 +81,7 @@ updated: 2026-09-17
 > - **理解的总体响应** 当身临其境感被在那里能理解的总体响应增强时，沉浸式体验出现（Schuemie et al., 2001; Riva et al., 2003）。
 > - **个体性** 在场感是高度个体化的，取决于个体的知识、想象力和参与热情（Zhao, 2003）。
 
-> [!logic-map] 在场感的层次关系
+> [!logic-map]- 在场感的层次关系
 > ```mermaid
 > flowchart LR
 >     A["感觉信息<br/>与控制水平"] --> B["在场感<br/>我在这里"]

@@ -163,7 +163,7 @@ updated: 2026-10-08
 > - **微观实践与实施维度** 阐明标准循证干预进入课堂时面临的复杂情境调适障碍，揭示追求单一分数量化优化对体育、艺术与心理健康等多元价值造成的系统性副作用挤压。[[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, pp. 63–67)]]; [[Argument_Zhao_2017_JEC\|(Zhao, 2017, pp. 2–5)]]
 > - **制度政治与[[Epistemic Governance\|知识治理]]维度** 揭示在[[Evidence Era\|证据时代]]，证据如何演变为官僚体系的[[Rationalized Myth\|合理化神话]]，以及政府[[Gatekeepers\|守门人]]如何通过[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM）达成政治适宜性辩护与责任转嫁。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 611–615)]]; [[Argument_Cowen_2019_ERE\|(Cowen, 2019, pp. 110–115)]]
 
-> [!logic-map] 循证教育批判的多层逻辑架构
+> [!logic-map]- 循证教育批判的多层逻辑架构
 > ```mermaid
 > flowchart TD
 >     E1["认识论预设<br>（封闭系统 / 线性因果 / 忽视目的）"] --> M1["方法论失真<br>（黑箱 RCT / 异质元分析 / 效应量虚高）"]

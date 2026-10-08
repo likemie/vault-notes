@@ -117,7 +117,7 @@ updated: 2026-10-07
 > - **底层网络与系统统筹** 与澳大利亚教学与[[School Leadership\|学校领导力]]研究所（[[Australian Institute for Teaching and School Leadership\|AITSL]]）及[[Australian Curriculum\|澳大利亚课程]]、评估与报告局（ACARA）共享澳大利亚教育服务社（[[Educational Services Australia\|ESA]]）底层数字化中介架构。
 > - **外部咨询与学术分包网络** 深度委托外部中介实体[[Centre for Evidence and Implementation\|证据与实施中心]]（CEI）及各类商业咨询智库承担桌面审查与干预评估分包。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]])
 
-> [!logic-map]+ 机构组织架构与多方关系网络
+> [!logic-map]- 机构组织架构与多方关系网络
 > ```mermaid
 > flowchart TD
 >     %% 顶层联邦与州级政务所有权

@@ -56,7 +56,7 @@ sources:
   - "[[books/Peterson_1987_OpenCourt/Peterson_1987_OpenCourt|Peterson_1987_OpenCourt]]"
 status: draft
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 # Argument_Peterson_1987_OpenCourt_Ch08
 
@@ -101,7 +101,7 @@ updated: 2026-10-07
 
 价值理由首先进入课程设计，再进入扩张、资助与治理安排。下图概括这些判断之间的关系。
 
-> [!logic-map] 从教育目的推至课程与公共供给
+> [!logic-map]- 从教育目的推至课程与公共供给
 > ```mermaid
 > flowchart TD
 >   A["国际信息可服务竞争或合作"] --> B["全人发展为理解与合作提供价值理由"]

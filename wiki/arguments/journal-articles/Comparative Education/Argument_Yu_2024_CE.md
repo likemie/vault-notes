@@ -132,7 +132,7 @@ citation_aliases:
 
 ## 论证结构
 
-> [!logic-map] 核心论证逻辑链
+> [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
 >     A["政治历史脉络<br/>意识形态危机与<br/>儒家复兴的收编"]

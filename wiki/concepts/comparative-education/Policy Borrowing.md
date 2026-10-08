@@ -211,7 +211,7 @@ updated: 2026-10-08
 
 上述各要素在话语修辞与物质装配两个层面上相互咬合，共同构成了政策借用的动态运行机制：
 
-> [!logic-map] 政策借用与[[Topological Spatialisation\|拓扑重组]]动力学机制
+> [!logic-map]- 政策借用与[[Topological Spatialisation\|拓扑重组]]动力学机制
 > ```mermaid
 > flowchart LR
 >     subgraph 话语与合法化环 ["话语借用与政治合法化循环"]

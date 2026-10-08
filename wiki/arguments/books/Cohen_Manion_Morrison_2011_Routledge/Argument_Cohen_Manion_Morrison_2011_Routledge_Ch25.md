@@ -71,7 +71,7 @@ related_persons:
   - "[[George Kelly]]"
 status: draft
 created: 2026-07-28
-updated: 2026-09-18
+updated: 2026-10-08
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25
 
@@ -95,7 +95,7 @@ updated: 2026-09-18
 > - **repertory grid 在教育研究中如何应用？** 从校长角色认知到学生概念转变，从考试评分特征到医学生身份发展
 
 
-> [!logic-map] 全章论证链
+> [!logic-map]- 全章论证链
 > ```mermaid
 > flowchart LR
 >     A[基本公设<br/>预期引导心理过程] --> B[个人建构<br/>双极评价维度]

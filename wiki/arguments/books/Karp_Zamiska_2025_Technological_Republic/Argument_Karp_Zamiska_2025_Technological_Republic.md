@@ -275,7 +275,7 @@ updated: '2026-10-08'
 
 ## 全书论证地图
 
-> [!book-argument-map] 全书四部层层递进[[Argument Mapping|论证图]]
+> [!book-argument-map]- 全书四部层层递进[[Argument Mapping|论证图]]
 > ```mermaid
 > flowchart TD
 >   A["现实危机起点：<br>软件世纪降临与AI武器重构战场<br>硅谷向消费主义撤退与硬实力危机 (Part I)"] --> B["深层根源溯源：<br>1960s反文化与大学经典之争<br>解构国家认同，导致心智空洞化与大构想饥荒 (Part II)"]

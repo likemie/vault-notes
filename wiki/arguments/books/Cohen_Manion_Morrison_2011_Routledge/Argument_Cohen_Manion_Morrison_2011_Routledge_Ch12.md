@@ -88,7 +88,7 @@ updated: '2026-08-27'
 
 ## 章节内容
 
-> [!logic-map] 历史与[[Document\|文献]]研究的核心知识结构
+> [!logic-map]- 历史与[[Document\|文献]]研究的核心知识结构
 > ```mermaid
 > flowchart LR
 >     A["三个知识领域<br/>过去 · 变迁延续 · 当下起源"] --> B["文献<br/>四轴分类"]

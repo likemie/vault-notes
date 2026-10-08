@@ -121,7 +121,7 @@ citation_aliases:
 
 ## 论证结构
 
-> [!argument-map] 论证逻辑脉络
+> [!argument-map]- 论证逻辑脉络
 > 本文的论证逻辑围绕[[John Hattie\|哈蒂]]如何通过操纵四项[[Meta-analysis\|元分析]]的数据，将[[Whole Language\|全语言]][[Effect Size\|效应量]]压低至 d = 0.06 的过程展开：
 > 
 > ```mermaid

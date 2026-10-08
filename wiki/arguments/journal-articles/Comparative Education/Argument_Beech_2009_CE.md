@@ -236,7 +236,7 @@ Castells 据此区分了两种空间逻辑：
 
 ## 论证结构
 
-> [!logic-map] 核心论证逻辑链
+> [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
 >     A("全球政策空间 (流动空间)") -->|操演性与网络逻辑| B("生产：去历史的‘漂浮能指’<br>(Malleability + Stability)")

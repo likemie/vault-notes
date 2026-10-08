@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-02'
-updated: 2026-10-06
+updated: 2026-10-08
 ---
 
 # Preregistration
@@ -136,7 +136,7 @@ updated: 2026-10-06
 > - **[[Counterfactual\|反事实]]对照条件描述** 详尽阐述对照组的具体活动，明确对照组是纯粹[[Business as Usual\|常态教学]]（business as usual）还是接受替代干预，防止反事实模糊掩盖真实效应。[[Argument_Wolf_2020_JREE\|(Wolf et al., 2020, p. 444)]]
 > - **[[Implementation Fidelity\|实施保真度]]与过程测量计划** 预先设计[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）框架，包括干预核心活性成分界定、干预剂量记录、出勤追踪、课堂观察[[Coding in Qualitative Research\|编码]]及污染排查规程。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]
 
-> [!logic-map] 预注册全流程治理与证据锁定
+> [!logic-map]- 预注册全流程治理与证据锁定
 > ```mermaid
 > flowchart TD
 >     subgraph 事前设计与锁定

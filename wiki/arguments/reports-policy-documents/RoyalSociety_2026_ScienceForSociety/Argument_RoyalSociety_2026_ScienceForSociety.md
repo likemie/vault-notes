@@ -92,7 +92,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-22
-updated: 2026-09-07
+updated: 2026-10-08
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety
 
@@ -162,7 +162,7 @@ updated: 2026-09-07
 
 ## 全书历史与制度演进地图
 
-> [!book-argument-map] 核心演进脉络
+> [!book-argument-map]- 核心演进脉络
 > ```mermaid
 > flowchart TD
 >   subgraph 历史演进与范式转移

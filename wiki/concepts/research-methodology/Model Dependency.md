@@ -115,7 +115,7 @@ updated: 2026-10-08
 > - **效应结构假定（Fixed vs Random Effects）** 究竟将群聚单元视为固定效应（仅推论至参试学校）还是随机截距/随机斜率（推论至总体分布），直接决定了误差方差的分解方式。
 > - **缺失数据处理规程（Missing Data Mechanisms）** 是采用完全案例分析（Listwise Deletion）、均值填补、多重插补（Multiple [[Imputation Methods\|imputation]]）还是全信息极大似然法（FIML），会显著改变最终样本权重与效应估计。
 
-> [!logic-map] 模型依赖性的生成机制与应对路径
+> [!logic-map]- 模型依赖性的生成机制与应对路径
 > ```mermaid
 > flowchart TD
 >     A["同一批微观试验数据 (如 NPD 数据集)"] --> B["分析模型选择分歧"]

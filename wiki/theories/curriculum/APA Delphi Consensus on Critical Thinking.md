@@ -82,34 +82,35 @@ updated: 2026-09-23
 
 ## 关键构件与双元架构
 
-```mermaid
-flowchart TD
-    subgraph APA["<b>APA 德尔菲批判性思维双元共识架构 (Facione, 1990)</b>"]
-        CT["<b>批判性思维 (Critical Thinking)</b><br>有目的的、自我调节的判断过程"]
-        
-        subgraph Cog["<b>第一支柱：六大核心认知技能 (Cognitive Skills)</b>"]
-            C1["<b>1. 解释 (Interpretation)</b><br>理解与表达意义、分类编码与澄清"]
-            C2["<b>2. 分析 (Analysis)</b><br>识别论证结构、意图、假设与理由"]
-            C3["<b>3. 评价 (Evaluation)</b><br>评估证据可信度与论证逻辑效力"]
-            C4["<b>4. 推论 (Inference)</b><br>基于证据推导结论、形成假设"]
-            C5["<b>5. 说明 (Explanation)</b><br>论证结果陈述与方法学逻辑辩护"]
-            C6["<b>6. 自我调节 (Self-Regulation)</b><br>元认知监控、自我校正与反思"]
-        end
-
-        subgraph Aff["<b>第二支柱：七大情意倾向 (Affective Dispositions)</b>"]
-            D1["<b>求真性 (Truth-seeking)</b>"]
-            D2["<b>开放性 (Open-mindedness)</b>"]
-            D3["<b>分析性 (Analyticity)</b>"]
-            D4["<b>系统性 (Systematicity)</b>"]
-            D5["<b>思维自信 (CT Self-confidence)</b>"]
-            D6["<b>求知欲 (Inquisitiveness)</b>"]
-            D7["<b>认知成熟度 (Cognitive Maturity)</b>"]
-        end
-
-        CT --> Cog
-        CT --> Aff
-    end
-```
+> [!logic-map]- [[Critical Thinking|批判性思维]]双元架构（认知技能与情感倾向）
+> ```mermaid
+> flowchart TD
+>     subgraph APA["<b>APA 德尔菲批判性思维双元共识架构 (Facione, 1990)</b>"]
+>         CT["<b>批判性思维 (Critical Thinking)</b><br>有目的的、自我调节的判断过程"]
+>         
+>         subgraph Cog["<b>第一支柱：六大核心认知技能 (Cognitive Skills)</b>"]
+>             C1["<b>1. 解释 (Interpretation)</b><br>理解与表达意义、分类编码与澄清"]
+>             C2["<b>2. 分析 (Analysis)</b><br>识别论证结构、意图、假设与理由"]
+>             C3["<b>3. 评价 (Evaluation)</b><br>评估证据可信度与论证逻辑效力"]
+>             C4["<b>4. 推论 (Inference)</b><br>基于证据推导结论、形成假设"]
+>             C5["<b>5. 说明 (Explanation)</b><br>论证结果陈述与方法学逻辑辩护"]
+>             C6["<b>6. 自我调节 (Self-Regulation)</b><br>元认知监控、自我校正与反思"]
+>         end
+> 
+>         subgraph Aff["<b>第二支柱：七大情意倾向 (Affective Dispositions)</b>"]
+>             D1["<b>求真性 (Truth-seeking)</b>"]
+>             D2["<b>开放性 (Open-mindedness)</b>"]
+>             D3["<b>分析性 (Analyticity)</b>"]
+>             D4["<b>系统性 (Systematicity)</b>"]
+>             D5["<b>思维自信 (CT Self-confidence)</b>"]
+>             D6["<b>求知欲 (Inquisitiveness)</b>"]
+>             D7["<b>认知成熟度 (Cognitive Maturity)</b>"]
+>         end
+> 
+>         CT --> Cog
+>         CT --> Aff
+>     end
+> ```
 
 > [!entry-map]
 > | 构件名称 | 构件类型 | 在德尔菲共识框架中的功能 |

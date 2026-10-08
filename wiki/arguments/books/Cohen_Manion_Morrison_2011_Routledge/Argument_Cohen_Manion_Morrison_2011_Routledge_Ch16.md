@@ -135,7 +135,7 @@ updated: '2026-08-27'
 
 ## 章节内容
 
-> [!logic-map] 第16章的核心知识结构
+> [!logic-map]- 第16章的核心知识结构
 > ```mermaid
 > flowchart LR
 >     A["实验与准实验<br/>Experiments & Quasi-Experiments"]

@@ -162,7 +162,7 @@ updated: 2026-10-08
 
 这种由价值真空向消费主义退缩的演化链条，揭示了公共治理领域沦为[[Innovation Desert|创新荒漠]]的深层制度与文化诱因。
 
-> [!logic-map] 价值真空向消费主义逃避与创新荒漠演化的因果传导机制
+> [!logic-map]- 价值真空向消费主义逃避与创新荒漠演化的因果传导机制
 > ```mermaid
 > flowchart LR
 >   subgraph Vacuum ["公共领域价值真空化"]

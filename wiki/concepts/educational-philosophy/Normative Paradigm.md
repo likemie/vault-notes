@@ -107,7 +107,7 @@ updated: 2026-10-08
 > - **社会作为外在集体实在（Collectivity as External Reality）** 视社会、制度、学校与班级为客观存在的实体单元，主张宏观结构具有超越个体的独立法则与自足运作逻辑。
 > - **自然[[Scientific Method\|科学方法]]移植与社会工程学（Methodological Monism and Social Engineering）** 坚持方法论一元论，将自然科学的实证、量化与因果控制平移至教育探究，研究结果直接服务于效率提升与系统控制。
 
-> [!logic-map] 规范[[Paradigm\|范式]]的方法论推导机制
+> [!logic-map]- 规范[[Paradigm\|范式]]的方法论推导机制
 > ```mermaid
 > flowchart TD
 >     A["本体论公设<br>社会是外在客观实体<br>人类行为受普遍规则支配"] --> B["认识论与方法论一元论<br>移植自然科学方法<br>经验观察 · 变量测量 · 假说检验"]

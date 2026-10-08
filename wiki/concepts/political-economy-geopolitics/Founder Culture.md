@@ -95,7 +95,7 @@ updated: 2026-10-08
 > - **物理世界结果导向（Output-Oriented Pragmatism）** 确立以切实改善人民生活质量（减少犯罪、饥饿与疾病）为唯一衡量标准的[[Engineering Mindset|工程思维]]，鄙弃空洞的公关辞令与象征性胜利。
 > - **突破规章的敏捷重塑力（[[Bureaucracy]]-Busting Agility）** 赋予一线实干家打破繁琐人事与采购规章的裁量权，快速引入前沿软件与数据中枢，实现跨部门协同。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 14–15)]]
 
-> [!logic-map] 创始人文化重构公共部门的因果传导机制
+> [!logic-map]- 创始人文化重构公共部门的因果传导机制
 > ```mermaid
 > flowchart LR
 >   subgraph Principles ["制度原则"]

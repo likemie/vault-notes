@@ -138,7 +138,7 @@ updated: 2026-10-02
 > - **因果中介与变化机制验证（Mediating Mechanisms）** 检验理论预设的中介[[Variable\|变量]]（如师生互动模式、[[Metacognition\|元认知]]策略、学习动机）是否在现场被成功激活，验证干预如何经由特定路径传导至最终学业产出。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]
 > - **情境支持系统与真实实施成本（Contextual Support & Cost）** 评估学校[[Organizational Culture\|组织文化]]、领导力支持、课表调度排他性以及技术支持；核算时间消耗、师资置换与材料采购等综合成本。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 120–122)]]
 
-> [!logic-map] 实施保真度在因果评估全生命周期中的监控与调适逻辑
+> [!logic-map]- 实施保真度在因果评估全生命周期中的监控与调适逻辑
 > ```mermaid
 > flowchart TD
 >     subgraph 方案标准化设计

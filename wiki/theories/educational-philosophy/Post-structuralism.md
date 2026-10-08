@@ -109,7 +109,7 @@ updated: 2026-10-08
 > - **四重视角阐释网络（Multiple Perspectives Network）** 探究必须协同捕捉参与者、研究者、研究受众与研究读者的多重视角，并将研究发现锚定在参与者对自我的主观认知之中。
 > - **[[Knowledge Production\|知识生产]]与合法化反思（Production and Legitimation of Knowledge）** 审视教育研究中的知识是如何被特定权力网络生产、赋予合法性并加以运用的，破除客观中立神话。
 
-> [!logic-map] 后结构主义教育探究机制
+> [!logic-map]- 后结构主义教育探究机制
 > ```mermaid
 > flowchart TD
 >     A["传统结构功能主义决定论<br>(系统预设/角色木偶/机械因果)"] -->|核心反思与突破| B["后结构主义探究范式"]

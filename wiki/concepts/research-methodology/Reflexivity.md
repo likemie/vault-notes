@@ -116,7 +116,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-14
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Reflexivity
@@ -179,7 +179,7 @@ updated: 2026-10-07
 > [!warning] 个人经验叙述的篇幅控制
 > 在正文中阐释个人背景与前见时，必须严格控制篇幅，避免个人经验讨论反客为主，压倒研究问题、实证证据与方法论核心内容（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch. 9]]）。
 
-> [!logic-map] 反身性在质性探究与专业实践中的运作机制
+> [!logic-map]- 反身性在质性探究与专业实践中的运作机制
 > ```mermaid
 > flowchart LR
 >     subgraph Field ["田野与实践"]

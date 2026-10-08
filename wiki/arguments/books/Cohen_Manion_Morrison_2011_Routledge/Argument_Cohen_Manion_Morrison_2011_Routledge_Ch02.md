@@ -120,7 +120,7 @@ updated: '2026-07-21'
 
 ## 概念地图
 
-> [!logic-map] 第2章总体论证结构
+> [!logic-map]- 第2章总体论证结构
 > ```mermaid
 > flowchart LR
 >   A["两大范式的局限<br>技术知识+诠释知识"] --> B["批判理论<br>第三种范式"]
@@ -177,7 +177,7 @@ updated: '2026-07-21'
 
 ## 论证结构
 
-> [!logic-map] 核心论证逻辑链
+> [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
 >   A["实证主义+诠释范式<br>忽视政治与意识形态"] --> B["批判理论<br>作为第三种范式"]
@@ -565,7 +565,7 @@ Webb 等（2004）将女性主义原则应用于研究方法论的教学情境�
 > [!example]- 图2.2：实证主义、诠释和批判范式在教育研究中的定位
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_2-2_Positivist_Interpretive_Critical_Paradigms.jpg)
 
-> [!logic-map] 三大范式的总体关系
+> [!logic-map]- 三大范式的总体关系
 > ```mermaid
 > flowchart LR
 >   A["实证主义<br>技术兴趣<br>解释·预测·控制"] --> D["多元方法论<br>适合目的<br>变革性"]

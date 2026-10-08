@@ -134,7 +134,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-09-22
+updated: 2026-10-08
 ---
 
 # Meta-analysis
@@ -176,17 +176,18 @@ updated: 2026-09-22
 
 ## 元分析核心统计参数与方法索引矩阵
 
-```mermaid
-flowchart LR
-    subgraph Core["<b>元分析全流程统计体系</b>"]
-        direction LR
-        ES["<b>1. 前置质控与效应量度量</b><br>基线等效 (d < 0.25) · Hedges' g, Pearson r"] --> W["<b>2. 逆方差加权建模</b><br>固定效应 vs 随机效应 (DerSimonian-Laird τ²)"]
-        W --> H["<b>3. 异质性量化与检验</b><br>Cochran's Q, Higgins I², 95% 预测区间 PI"]
-        H --> V["<b>4. 证据可视化</b><br>森林图 (Forest Plot), 漏斗图 (Funnel Plot)"]
-        V --> PB["<b>5. 偏倚与敏感性诊断</b><br>Egger 检验, 剪补法, 经典/Orwin 失安全数, 留一法"]
-        PB --> MOD["<b>6. 变异分解与调节分析</b><br>亚组调节检验, 元回归, 三水平扩展"]
-    end
-```
+> [!logic-map]- 元分析核心统计参数关系
+> ```mermaid
+> flowchart LR
+>     subgraph Core["<b>元分析全流程统计体系</b>"]
+>         direction LR
+>         ES["<b>1. 前置质控与效应量度量</b><br>基线等效 (d < 0.25) · Hedges' g, Pearson r"] --> W["<b>2. 逆方差加权建模</b><br>固定效应 vs 随机效应 (DerSimonian-Laird τ²)"]
+>         W --> H["<b>3. 异质性量化与检验</b><br>Cochran's Q, Higgins I², 95% 预测区间 PI"]
+>         H --> V["<b>4. 证据可视化</b><br>森林图 (Forest Plot), 漏斗图 (Funnel Plot)"]
+>         V --> PB["<b>5. 偏倚与敏感性诊断</b><br>Egger 检验, 剪补法, 经典/Orwin 失安全数, 留一法"]
+>         PB --> MOD["<b>6. 变异分解与调节分析</b><br>亚组调节检验, 元回归, 三水平扩展"]
+>     end
+> ```
 
 > [!matrix-table] 元分析核心统计方法与参数索引矩阵
 > | 统计方法 / 核心参数 | 核心数学符号与公式 | 统计学功能与解决的痛点 | 决策阈值与研判准则 | 深度条目与实证索引 |
@@ -215,13 +216,14 @@ flowchart LR
 
 ## 核心统计原理与分析流程
 
-```mermaid
-flowchart LR
-    A["<b>1. 基线质控与效应量提取</b><br>基线等效 (WWC 门槛) · Holsti 信度<br>🔗 [[Baseline Standardized Mean Difference]]"] --> B["<b>2. 逆方差加权合成</b><br>固定 vs 随机效应<br>🔗 [[Fixed-Effect and Random-Effects Models]]"]
-    B --> C["<b>3. 异质性量化分解</b><br>Q 检验 · τ² · I²<br>🔗 [[Between-Study Variance]]"]
-    C --> D["<b>4. 偏倚与多重稳健性检验</b><br>漏斗图 · 剪补法 · 失安全数 · 留一法<br>🔗 [[Funnel Plot]]"]
-    D --> E["<b>5. 调节分析与情境解释</b><br>亚组检验 · 元回归 · 预测区间<br>🔗 [[Meta-regression]]"]
-```
+> [!proc]- 元分析核心统计原理与分析流程
+> ```mermaid
+> flowchart LR
+>     A["<b>1. 基线质控与效应量提取</b><br>基线等效 (WWC 门槛) · Holsti 信度<br>🔗 [[Baseline Standardized Mean Difference]]"] --> B["<b>2. 逆方差加权合成</b><br>固定 vs 随机效应<br>🔗 [[Fixed-Effect and Random-Effects Models]]"]
+>     B --> C["<b>3. 异质性量化分解</b><br>Q 检验 · τ² · I²<br>🔗 [[Between-Study Variance]]"]
+>     C --> D["<b>4. 偏倚与多重稳健性检验</b><br>漏斗图 · 剪补法 · 失安全数 · 留一法<br>🔗 [[Funnel Plot]]"]
+>     D --> E["<b>5. 调节分析与情境解释</b><br>亚组检验 · 元回归 · 预测区间<br>🔗 [[Meta-regression]]"]
+> ```
 
 > [!proc] 统计建模五步规范
 > 1. **初级[[Access and Acceptance in Research\|研究准入]]门槛、基线等效性审查与[[Effect Size\|效应量]]标准化**

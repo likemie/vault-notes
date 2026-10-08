@@ -160,7 +160,7 @@ updated: 2026-10-08
 > - **屏幕注意力经济对顶级智力的虹吸** 算法信息流与数字广告平台通过捕获用户即时多巴胺创造百亿暴利，将全社会最聪明的数理与计算机人才锁定在提升“广告点击率”与“屏幕停留时长”等微观套利上。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 46, 50)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 110)]]
 > - **资本狂热的无差别性与战略盲区** 资本市场蜂拥涌向即时电商与消费端软件，对研发壁垒高、客户验证周期长的国防情报、工业软件与战区算法形成了严重的投资荒漠。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 110–111)]]
 
-> [!logic-map] 大构想饥荒的生成机理、社会后果与[[Technological Republic|技术共和国]]破局路径
+> [!logic-map]- 大构想饥荒的生成机理、社会后果与[[Technological Republic|技术共和国]]破局路径
 > ```mermaid
 > flowchart TD
 >   subgraph IdeologicalRoots ["思想与阶层根源"]

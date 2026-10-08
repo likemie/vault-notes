@@ -145,7 +145,7 @@ citation_aliases:
 
 ## 论证结构
 
-> [!logic-map] 核心论证逻辑链
+> [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
 >     A["EBE 政策话语"]

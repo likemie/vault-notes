@@ -29,8 +29,8 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Sample Size Determination]]"
-  - "[[Between-Study Variance]]"
   - "[[I-squared Statistic]]"
+  - "[[Between-Study Variance]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
@@ -95,11 +95,12 @@ updated: 2026-09-17
 
 ## 进阶承接：$\tau^2$ 与 $I^2$ 的衍生基石
 
-```mermaid
-flowchart LR
-    Q["<b>Cochran's Q</b><br>加权离差平方和检验<br>判定异质性显著性"] --> Tau["<b>研究间方差 τ²</b><br>绝对离散尺度<br>(Q - df) / C"]
-    Q --> I2["<b>[[I-squared Statistic|I² 统计量]]</b><br>相对变异占比<br>(Q - df) / Q × 100%"]
-```
+> [!logic-map]- [[Heterogeneity|异质性]]检验与方差分解逻辑
+> ```mermaid
+> flowchart LR
+>     Q["<b>Cochran's Q</b><br>加权离差平方和检验<br>判定异质性显著性"] --> Tau["<b>研究间方差 τ²</b><br>绝对离散尺度<br>(Q - df) / C"]
+>     Q --> I2["<b>[[I-squared Statistic|I² 统计量]]</b><br>相对变异占比<br>(Q - df) / Q × 100%"]
+> ```
 
 Q 统计量构成了现代[[Meta-analysis|元分析]][[Heterogeneity|异质性]]量化体系的基础骨架：
 1. 从 $Q$ 减去其期望值 $k - 1$，提取出超出随机误差的真实变异，除以权重系数得到 **[[Between-Study Variance|研究间方差]] $\tau^2$**；

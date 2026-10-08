@@ -138,7 +138,7 @@ updated: 2026-10-07
 > > [!step] 步骤五：填补范畴空缺以达概念密度（Filling Gaps for Conceptual Density）
 > > 审视理论模型中尚未充分饱和的范畴与关系分支，定向开展[[Theoretical Sampling\|理论抽样]]或追溯已有材料，填补逻辑缺口，确保理论结构达到概念密度（conceptual density）与[[Saturation\|理论饱和]]。
 
-> [!logic-map] 选择性编码理论整合机制
+> [!logic-map]- 选择性编码理论整合机制
 > ```mermaid
 > flowchart TD
 >     subgraph 基础分析准备

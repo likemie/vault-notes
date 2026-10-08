@@ -101,13 +101,13 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-21
-updated: 2026-07-13
+updated: 2026-10-08
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08
 
 ## 概念地图
 
-> [!logic-map] 章节论证结构
+> [!logic-map]- 章节论证结构
 > ```mermaid
 > flowchart LR
 >   A["8.1 引言<br>班级教师案例<br>五因素框架<br>总体→样本"] --> B["8.2 样本量<br>30规则·卡方要求<br>置信水平/区间<br>Krejcie & Morgan<br>Bartlett et al."]

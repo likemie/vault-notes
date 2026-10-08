@@ -113,7 +113,7 @@ updated: 2026-10-08
 > 4. **当事人的理由陈述（Actors' [[Accounts]] as Primary Data）**
 >    最关键的科学数据来自行动者对自己“为何如此作为”的合理解释（reasons and accounts），而非外在强加的统计相关。
 
-> [!logic-map] 拟人化模型的方法论推演图
+> [!logic-map]- 拟人化模型的方法论推演图
 > ```mermaid
 > flowchart TD
 >   Human["拟人化模型<br>Anthropomorphic Model"] --> A1["把人当作真正的人类对待<br>Harré & Secord 1972"]

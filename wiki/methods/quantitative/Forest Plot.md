@@ -75,18 +75,19 @@ updated: 2026-09-17
 
 ## 森林图解剖结构与视觉要素
 
-```mermaid
-flowchart TD
-    FP["<b>森林图视觉要素体系</b>"]
-    FP --> ID["<b>左侧区域：研究基本信息</b><br>作者姓名、发表年份、亚组分类"]
-    FP --> PLOT["<b>中间核心绘图区</b>"]
-    PLOT --> ZERO["<b>垂直无效线 (Line of No Effect)</b><br>效应量为 0 (均值差) 或 1 (比值比/风险比)"]
-    PLOT --> BOX["<b>方形点估计 (Point Estimate)</b><br>方块面积正比于研究逆方差权重 w_i"]
-    PLOT --> LINE["<b>水平置信区间 (Confidence Interval)</b><br>线段宽度 = 95% CI，反映单项研究精度"]
-    PLOT --> DIAMOND["<b>底部合并菱形 (Pooled Diamond)</b><br>中心 = 加权合并效应量；宽度 = 95% CI"]
-    PLOT --> PI_BAR["<b>底部预测区间虚线 (Prediction Interval)</b><br>反映未来单项真实效应波动的 95% PI 范围"]
-    FP --> NUM["<b>右侧区域：精确统计数值</b><br>点估计值、95% CI 上下限、加权百分比 (%)"]
-```
+> [!logic-map]- 森林图视觉要素体系
+> ```mermaid
+> flowchart TD
+>     FP["<b>森林图视觉要素体系</b>"]
+>     FP --> ID["<b>左侧区域：研究基本信息</b><br>作者姓名、发表年份、亚组分类"]
+>     FP --> PLOT["<b>中间核心绘图区</b>"]
+>     PLOT --> ZERO["<b>垂直无效线 (Line of No Effect)</b><br>效应量为 0 (均值差) 或 1 (比值比/风险比)"]
+>     PLOT --> BOX["<b>方形点估计 (Point Estimate)</b><br>方块面积正比于研究逆方差权重 w_i"]
+>     PLOT --> LINE["<b>水平置信区间 (Confidence Interval)</b><br>线段宽度 = 95% CI，反映单项研究精度"]
+>     PLOT --> DIAMOND["<b>底部合并菱形 (Pooled Diamond)</b><br>中心 = 加权合并效应量；宽度 = 95% CI"]
+>     PLOT --> PI_BAR["<b>底部预测区间虚线 (Prediction Interval)</b><br>反映未来单项真实效应波动的 95% PI 范围"]
+>     FP --> NUM["<b>右侧区域：精确统计数值</b><br>点估计值、95% CI 上下限、加权百分比 (%)"]
+> ```
 
 > [!feature] 核心解剖要素解读
 > 1. **垂直无效参考线（Line of No Effect）** 通常位于 $x = 0$（连续型均值差）或 $x = 1$（二分类 RR/OR）。若单项研究的水平置信线段穿过该垂直线，表明该研究结果在 $\alpha = .05$ 下不具备[[Statistical Significance\|统计显著性]]。

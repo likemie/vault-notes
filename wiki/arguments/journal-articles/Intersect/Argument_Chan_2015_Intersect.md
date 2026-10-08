@@ -36,6 +36,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Discourse]]"
   - "[[Flow]]"
+  - "[[Bureaucracy]]"
   - "[[Interaction Effect]]"
 related_theories:
   - "[[Informationalism]]"
@@ -56,7 +57,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-12
-updated: 2026-09-16
+updated: 2026-10-08
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Chan_2015_Intersect"
@@ -127,7 +128,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 ---
 ## 论证结构
 
-> [!logic-map] 核心论证逻辑链
+> [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
 >     A["苏联技术衰退之谜"]
@@ -332,7 +333,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 > [!citation-card]- 拉链效应：苏联经济的垂直结构
 > 整个苏联经济是一台由庞大官僚机构的垂直行政决策推动的巨型机器，拥有无数计划机构、执行部门和生产单位。因此，机构之间几乎没有水平联系，交流由各自的上级主管部门预先设定。（p.8）
 >
-> Original: The whole Soviet economy was a gargantuan piece of machinery moved by the vertical administrative decisions of a massive bureaucracy with countless planning institutions, ministries of execution, and production units. As a result, few horizontal links existed across agencies, and exchanges were pre-established by respective parent administrations.
+> Original: The whole Soviet economy was a gargantuan piece of machinery moved by the vertical administrative decisions of a massive [[Bureaucracy]] with countless planning institutions, ministries of execution, and production units. As a result, few horizontal links existed across agencies, and exchanges were pre-established by respective parent administrations.
 
 > [!citation-card]- [[Akademgorodok]] 的结局
 > 这个有前途的西伯利亚科学城变成了日益吱吱作响的苏联工业机器中的又一个齿轮。（p.9）

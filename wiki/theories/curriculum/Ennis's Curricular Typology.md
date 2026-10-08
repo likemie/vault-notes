@@ -38,7 +38,8 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Robert Ennis]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Abrami_2015_RER]]"
@@ -72,24 +73,25 @@ updated: 2026-09-17
 
 ## 关键概念与理论构件
 
-```mermaid
-flowchart TD
-    subgraph Typology["<b>Ennis (1989) 批判性思维课程模式四象限体系</b>"]
-        direction TB
-        subgraph StandAlone["<b>独立通用轨迹 (Stand-alone Track)</b>"]
-            GA["<b>通用模式 (General Approach)</b><br>• 独立开设思维与逻辑课程<br>• 使用非学科日常生活情境<br>• Abrami et al. (2015): g+ = 0.26"]
-        end
-        subgraph SubjectEmbedded["<b>学科嵌入轨迹 (Subject-embedded Track)</b>"]
-            INF["<b>学科融入模式 (Infusion)</b><br>• 嵌入常规学科课程<br>• 显性教授思维准则与元认知<br>• Abrami et al. (2015): g+ = 0.29"]
-            IMM["<b>学科沉浸模式 (Immersion)</b><br>• 嵌入常规学科课程<br>• 隐性渗透，不显性揭示思维规则<br>• Abrami et al. (2015): g+ = 0.23 (最低)"]
-        end
-        subgraph Integration["<b>双轨协同融合 (Dual-Track Synthesis)</b>"]
-            MIX["<b>显性混合模式 (Mixed Approach)</b><br>• 独立显性通用思维教学 + 学科内显性融入<br>• 双层脚手架协同驱动深度认知迁移<br>• Abrami et al. (2015): g+ = 0.38 (最高综合增益)"]
-        end
-        GA -.-> MIX
-        INF -.-> MIX
-    end
-```
+> [!logic-map]- [[Robert Ennis|恩尼斯]]课程教学四维进路拓扑结构
+> ```mermaid
+> flowchart TD
+>     subgraph Typology["<b>Ennis (1989) 批判性思维课程模式四象限体系</b>"]
+>         direction TB
+>         subgraph StandAlone["<b>独立通用轨迹 (Stand-alone Track)</b>"]
+>             GA["<b>通用模式 (General Approach)</b><br>• 独立开设思维与逻辑课程<br>• 使用非学科日常生活情境<br>• Abrami et al. (2015): g+ = 0.26"]
+>         end
+>         subgraph SubjectEmbedded["<b>学科嵌入轨迹 (Subject-embedded Track)</b>"]
+>             INF["<b>学科融入模式 (Infusion)</b><br>• 嵌入常规学科课程<br>• 显性教授思维准则与元认知<br>• Abrami et al. (2015): g+ = 0.29"]
+>             IMM["<b>学科沉浸模式 (Immersion)</b><br>• 嵌入常规学科课程<br>• 隐性渗透，不显性揭示思维规则<br>• Abrami et al. (2015): g+ = 0.23 (最低)"]
+>         end
+>         subgraph Integration["<b>双轨协同融合 (Dual-Track Synthesis)</b>"]
+>             MIX["<b>显性混合模式 (Mixed Approach)</b><br>• 独立显性通用思维教学 + 学科内显性融入<br>• 双层脚手架协同驱动深度认知迁移<br>• Abrami et al. (2015): g+ = 0.38 (最高综合增益)"]
+>         end
+>         GA -.-> MIX
+>         INF -.-> MIX
+>     end
+> ```
 
 > [!entry-map]
 > | 理论构件 | 构件类型 | 在理论体系中的功能与角色 |

@@ -115,7 +115,7 @@ updated: 2026-10-08
 > 4. **表意法的方法论必然性（[[Idiographic]] Methodological Mandate）**
 >    既然现实是由独特的个体意义建构而成，探究方法必须聚焦于具体案例、独特情境与个体生命叙事的深度阐释。
 
-> [!logic-map] 唯名论在社会科学元理论中的逻辑推演图
+> [!logic-map]- 唯名论在社会科学元理论中的逻辑推演图
 > ```mermaid
 > flowchart TD
 >   Nom["唯名论本体论<br>Nominalism"] --> A1["外部实体是语言标签<br>Words as Conveniences"]

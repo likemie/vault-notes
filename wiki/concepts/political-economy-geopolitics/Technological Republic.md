@@ -5,10 +5,10 @@ aliases:
 summary: "指国家战略力量、公共福利与民主制度合法性同前沿科技研发与软件工程实力深度绑定的政治经济体制形态。强调国家战略导向与科技工程共同体的深度互信与协同动员，以软件硬实力与人工智能威慑替代原子时代的工业化防御，破解同盟盆景军队、大构想饥荒与创新荒漠，并依托文明历史叙事实质锚定与认知脱钩求真能力，重构自由民主政体的地缘优势与社会治理效能。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 89
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_count: 117
+related_level: 6
+related_stars: "⭐⭐⭐⭐⭐⭐"
+related_color: "#ddd6fe"
 tags:
   - concept/political-economy
   - theme/technology-policy
@@ -131,7 +131,7 @@ related_facts:
   - "[[Eck Swarm Experiment]]"
   - "[[Palantir Technologies]]"
   - "[[1968 Stanford Western Civ Reform]]"
-related_persons:
+elated_persons:
   - "[[Michael Sandel]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"

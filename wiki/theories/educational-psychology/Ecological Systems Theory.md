@@ -108,7 +108,7 @@ updated: 2026-10-08
 
 ## 理论机制图
 
-> [!mechanism-map] 生态系统理论多层嵌套与时间动力学模型
+> [!mechanism-map]- 生态系统理论多层嵌套与时间动力学模型
 > ```mermaid
 > flowchart TD
 >   subgraph Chrono ["【历时系统 Chronosystem】历史时空与制度演进时间轴"]

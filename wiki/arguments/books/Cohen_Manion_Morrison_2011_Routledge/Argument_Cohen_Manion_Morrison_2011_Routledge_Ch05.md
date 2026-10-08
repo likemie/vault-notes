@@ -97,7 +97,7 @@ updated: '2026-09-18'
 
 ## 概念地图
 
-> [!logic-map] 论证结构
+> [!logic-map]- 论证结构
 > ```mermaid
 > flowchart LR
 >   A["5.1 引言<br>伦理问题来源<br>三种伦理立场<br>Seedhouse金字塔"] --> B["5.2 知情同意<br>四要素 · 合理知情同意<br>儿童/弱势群体<br>反对论证 · Wax批评"]

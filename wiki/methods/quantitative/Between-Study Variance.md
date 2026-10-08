@@ -80,13 +80,14 @@ updated: 2026-10-07
 
 ## 核心数学原理与估计方法
 
-```mermaid
-flowchart TD
-    Obs["观察到的效应量变异 Var(y_i)"] --> V["研究内抽样方差 v_i<br>(样本量越大，v_i 越小)"]
-    Obs --> Tau["<b>研究间方差 τ² (Tau²)</b><br>(真实总体效应的内在离散度)"]
-    Tau --> W["<b>随机效应逆方差权重</b><br>w_i* = 1 / (v_i + τ²)"]
-    Tau --> PI["<b>95% 预测区间 (PI)</b><br>μ_hat ± t × sqrt(SE² + τ²)"]
-```
+> [!logic-map]- 研究间方差估计与参数传递逻辑
+> ```mermaid
+> flowchart TD
+>     Obs["观察到的效应量变异 Var(y_i)"] --> V["研究内抽样方差 v_i<br>(样本量越大，v_i 越小)"]
+>     Obs --> Tau["<b>研究间方差 τ² (Tau²)</b><br>(真实总体效应的内在离散度)"]
+>     Tau --> W["<b>随机效应逆方差权重</b><br>w_i* = 1 / (v_i + τ²)"]
+>     Tau --> PI["<b>95% 预测区间 (PI)</b><br>μ_hat ± t × sqrt(SE² + τ²)"]
+> ```
 
 ### 1. DerSimonian-Laird (DL) 经典矩估计法
 

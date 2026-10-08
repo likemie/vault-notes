@@ -109,7 +109,7 @@ updated: 2026-10-07
 > - **数字作为政治[[Scaffolding\|脚手架]]功能** 量化指标充当了阻挡公众批评与专业异见的防御性盾牌，为既有政策议程提供坚不可摧的客观外包装。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
 > - **指标叙事的弹性空间** 数字不仅不消解叙事，反而激发叙事；决策者能够剥离原始统计口径的技术细节，根据政党选举与施政需要自由讲述关于指标含义的政治故事。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
 
-> [!logic-map] 要素关系
+> [!logic-map]- 要素关系
 > ```mermaid
 > flowchart TD
 >     A["教育决策生态约束<br>(歧义性 / 公共争议 / 技术赤字)"] --> B["信息过载与认知超载"]

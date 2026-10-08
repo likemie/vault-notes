@@ -135,11 +135,12 @@ updated: '2026-09-12'
 > 7. **[[Construct Validity\|构念效度]]与[[Composite Reliability\|复合信度]]电池检验** 计算各因子的[[Average Variance Extracted\|平均方差抽取量]]（AVE $\ge .50$）与组合[[Reliability\|信度]]（CR $\ge .70$），验证 Fornell-Larcker [[Convergent and Discriminant Validity\|区分效度]]准则，报告 Cronbach's $\alpha$ 与 McDonald's $\omega$。
 > 8. **跨群体[[Measurement Invariance\|多组测量等值性]]检验与实证应用** 阶梯检验形态、弱、强与严格等值性（$|\Delta\text{CFI}| \le .010$），结合[[Analysis of Variance\|方差分析]]（[[Multivariate Analysis of Variance\|MANOVA]]）探索背景[[Variable\|变量]]的赋能效应。
 
-```mermaid
-flowchart LR
-  A["阶段 1：构念界定与题项生成<br/>理论操作化 → 题池编写 → 专家 CVI 评审"] --> B["阶段 2：初测净化与结构探索<br/>样本 1 项目分析 (r ≥ .30) → EFA 因子提取与精简"]
-  B --> C["阶段 3：结构确证与高级验证<br/>样本 2 CFA 模型拟合 → AVE/CR 效信度 → 跨组等值性检验"]
-```
+> [!proc]- 量表编制八步标准操作规程
+> ```mermaid
+> flowchart LR
+>   A["阶段 1：构念界定与题项生成<br/>理论操作化 → 题池编写 → 专家 CVI 评审"] --> B["阶段 2：初测净化与结构探索<br/>样本 1 项目分析 (r ≥ .30) → EFA 因子提取与精简"]
+>   B --> C["阶段 3：结构确证与高级验证<br/>样本 2 CFA 模型拟合 → AVE/CR 效信度 → 跨组等值性检验"]
+> ```
 
 ---
 

@@ -111,7 +111,7 @@ updated: 2026-09-18
 > - **[[Effect Size\|效应量]]系统性衰减（Effect Size Attenuation）** 组间均值差因尺度边界而被人为缩减，使得原本具有实质教育意义的教学干预在数据报表上呈现为“无统计显著差异”（$d \approx 0.00$）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 > - **弱势亚组评估失真（Subgroup Inequity Masking）** 地板效应最常发生在处境不利学生身上，导致旨在弥合贫困成就差距的补偿性干预无法在量化指标上展现成效。
 
-> [!logic-map] 天花板与地板效应对[[Causality\|因果推断]]的侵蚀逻辑
+> [!logic-map]- 天花板与地板效应对[[Causality\|因果推断]]的侵蚀逻辑
 > ```mermaid
 > flowchart TD
 >     A["教学干预产生真实学业改进"] --> B["终结性测验测量量程不足"]

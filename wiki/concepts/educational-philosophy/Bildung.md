@@ -173,7 +173,7 @@ updated: 2026-10-08
 > - **时代关切与社会批判解放性** 经典教化理论（如 Klafki）要求课程围绕生态、不平等、地缘冲突等[[Epochal Key Problems\|时代关键问题]]展开，赋予个体抵抗新自由主义工具化改造的批判性社会责任感。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, pp. 6–7)]]
 > - **以人为中心的文明防线（Anthropocentric Episteme）** 将对人（*Anthropos*）的整全教化确立为比较教育的灵魂基石，抵制将学校降格为技术官僚机器的人文学术屏障。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
 
-> [!logic-map] 教化概念的多维认识论结构与防线
+> [!logic-map]- 教化概念的多维认识论结构与防线
 > ```mermaid
 > flowchart TD
 >     A["古典 Paideia 与德国新人文主义精神传统"] --> B["教化（Bildung）核心本体"]

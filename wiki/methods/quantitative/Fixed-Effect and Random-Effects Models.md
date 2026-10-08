@@ -80,17 +80,18 @@ updated: 2026-09-17
 
 ## 核心模型结构与数学公式
 
-```mermaid
-flowchart TD
-    subgraph FE["<b>固定效应模型 (Fixed-Effect)</b>"]
-        FE_Ass["假定: θ_1 = θ_2 = ... = θ_k = θ<br>(单一真实效应)"] --> FE_W["<b>权重公式</b><br>w_i = 1 / v_i<br>(纯抽样精度加权)"]
-        FE_W --> FE_Pool["<b>合并估计量</b><br>θ_hat_FE = Σ(w_i y_i) / Σ w_i<br>方差: Var = 1 / Σ w_i"]
-    end
-    subgraph RE["<b>随机效应模型 (Random-Effects)</b>"]
-        RE_Ass["假定: θ_i ~ N(μ, τ²)<br>(真实效应服从正态分布)"] --> RE_W["<b>权重公式</b><br>w_i* = 1 / (v_i + τ²)<br>(纳入研究间方差)"]
-        RE_W --> RE_Pool["<b>合并估计量</b><br>μ_hat_RE = Σ(w_i* y_i) / Σ w_i*<br>方差: Var = 1 / Σ w_i*"]
-    end
-```
+> [!formula-set]- 固定效应与随机效应模型架构
+> ```mermaid
+> flowchart TD
+>     subgraph FE["<b>固定效应模型 (Fixed-Effect)</b>"]
+>         FE_Ass["假定: θ_1 = θ_2 = ... = θ_k = θ<br>(单一真实效应)"] --> FE_W["<b>权重公式</b><br>w_i = 1 / v_i<br>(纯抽样精度加权)"]
+>         FE_W --> FE_Pool["<b>合并估计量</b><br>θ_hat_FE = Σ(w_i y_i) / Σ w_i<br>方差: Var = 1 / Σ w_i"]
+>     end
+>     subgraph RE["<b>随机效应模型 (Random-Effects)</b>"]
+>         RE_Ass["假定: θ_i ~ N(μ, τ²)<br>(真实效应服从正态分布)"] --> RE_W["<b>权重公式</b><br>w_i* = 1 / (v_i + τ²)<br>(纳入研究间方差)"]
+>         RE_W --> RE_Pool["<b>合并估计量</b><br>μ_hat_RE = Σ(w_i* y_i) / Σ w_i*<br>方差: Var = 1 / Σ w_i*"]
+>     end
+> ```
 
 ### 1. 固定效应模型（Fixed-Effect Model）
 

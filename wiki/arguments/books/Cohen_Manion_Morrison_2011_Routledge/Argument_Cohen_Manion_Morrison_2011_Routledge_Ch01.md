@@ -158,6 +158,7 @@ related_persons:
   - "[[John Rex]]"
   - "[[Basil Bernstein]]"
   - "[[John W. Creswell]]"
+  - "[[Kenneth Burke]]"
   - "[[Stuart Kauffman]]"
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
@@ -166,7 +167,7 @@ related_facts:
 related_arguments: []
 status: draft
 created: 2026-06-16
-updated: 2026-09-09
+updated: 2026-10-08
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01
 
@@ -174,7 +175,7 @@ updated: 2026-09-09
 
 #### 概念地图
 
-> [!logic-map] 方法论推导与[[Paradigm\|范式]]演进全景架构
+> [!logic-map]- 方法论推导与[[Paradigm\|范式]]演进全景架构
 > ```mermaid
 > flowchart LR
 >   subgraph Foundations["一、哲学奠基与范式对峙"]
@@ -332,7 +333,7 @@ updated: 2026-09-09
 
 库恩颠覆了实证主义关于科学是“知识平滑线性累积”的经典预设，指出科学进步是通过范式转换实现的非连续断裂进程：
 
-> [!logic-map] 库恩科学革命演进循环
+> [!logic-map]- 库恩科学革命演进循环
 > ```mermaid
 > flowchart LR
 >   A["常规科学<br>Normal Science"] --> B["反常积累<br>Anomalies"]
@@ -750,7 +751,7 @@ updated: 2026-09-09
 > - **推动纵深分析与数据衍生重构** 促进质性发现与量化模式之间的持续往返阐发，催生全新理论洞见。
 > - **优化抽样机制与受访者定位** 运用大样本问卷调查筛选出具有典型特征的受访者开展纵深访谈，实现精准靶向探究。
 
-针对学界对混合方法的多元理解，伯克·约翰逊（R. Burke Johnson）等系统梳理了19种定义谱系，并提炼出混合方法研究的九大合法化类型（Johnson et al., 2007, p. 126）：
+针对学界对混合方法的多元理解，[[Kenneth Burke|伯克]]·约翰逊（R. Burke Johnson）等系统梳理了19种定义谱系，并提炼出混合方法研究的九大合法化类型（Johnson et al., 2007, p. 126）：
 
 > [!taxonomy] 混合方法研究的九大合法化类型（Johnson et al., 2007）
 > - **设计与效度合法化**

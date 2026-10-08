@@ -127,7 +127,7 @@ updated: 2026-09-22
 > [!claim] 命题总览
 > 联合实践发展否定了实践可被无损转移的[[Technical Rationality\|技术理性]]神话，将教学变革牢固锚定在基于真实课堂的教师协同探究之中；它既是[[Professional Learning Community\|专业学习共同体]]激活实证证据的操作杠杆，也是克服形式主义模仿、抵御[[Activity Traps\|活动陷阱]]的制度防火墙。
 
-> [!logic-map] 联合实践发展的机制回路
+> [!logic-map]- 联合实践发展的机制回路
 > ```mermaid
 > flowchart LR
 >   A["外部研究证据 / 校本数据"] --> B["JPD 协作平台（PLC / RLC）"]

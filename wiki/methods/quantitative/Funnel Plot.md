@@ -88,14 +88,15 @@ updated: 2026-09-17
 
 ## 数学原理与几何特征
 
-```mermaid
-flowchart TD
-    FP["<b>漏斗图空间几何结构</b>"]
-    FP --> V["<b>纵轴 (Vertical Axis)</b><br>标准误 SE (倒置刻度: 顶部 SE=0, 底部 SE 大)"]
-    FP --> H["<b>横轴 (Horizontal Axis)</b><br>效应量尺度 (g, d, r, OR)"]
-    FP --> C["<b>对称中轴线</b><br>加权平均合并效应量 θ_bar"]
-    FP --> B["<b>伪 95% 置信界限 (Pseudo 95% CI)</b><br>θ_bar ± 1.96 × SE (构成三角形漏斗两条斜边)"]
-```
+> [!logic-map]- 漏斗图空间几何结构
+> ```mermaid
+> flowchart TD
+>     FP["<b>漏斗图空间几何结构</b>"]
+>     FP --> V["<b>纵轴 (Vertical Axis)</b><br>标准误 SE (倒置刻度: 顶部 SE=0, 底部 SE 大)"]
+>     FP --> H["<b>横轴 (Horizontal Axis)</b><br>效应量尺度 (g, d, r, OR)"]
+>     FP --> C["<b>对称中轴线</b><br>加权平均合并效应量 θ_bar"]
+>     FP --> B["<b>伪 95% 置信界限 (Pseudo 95% CI)</b><br>θ_bar ± 1.96 × SE (构成三角形漏斗两条斜边)"]
+> ```
 
 > [!formula-step] 漏斗图参考边界方程
 > 漏斗图中的三角警戒边界（斜边）基于以下公式构建：

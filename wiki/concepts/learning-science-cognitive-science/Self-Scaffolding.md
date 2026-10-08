@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-10-08
 ---
 
 # Self-Scaffolding
@@ -79,12 +79,13 @@ updated: 2026-09-17
 > 2. **表征语法内化（Internalization of Grammar）** 学习者掌握了概念节点、逻辑连线与层级分支的组织法则，形成内部空间隐喻心理图式。
 > 3. **自发心智建模（Spontaneous Mental Modeling）** 面对新问题时，脑海中自发生成虚拟逻辑导图，自主卸载低阶信息维持负荷并调控[[Higher-Order Thinking Skills\|高阶思维]]。
 
-```mermaid
-flowchart LR
-    A["阶段 1：依赖外部图形组织器<br>(External Scaffolding)"] --> B["阶段 2：空间拓扑语法内化<br>(Representation Internalization)"]
-    B --> C["阶段 3：自发构建心智隐喻<br>(Self-Scaffolding)"]
-    C --> D["外部实体工具边际效应递减<br>(高学段/专家型学习者)"]
-```
+> [!logic-map]- 自我支架内化生成与认知调控机制
+> ```mermaid
+> flowchart LR
+>     A["阶段 1：依赖外部图形组织器<br>(External Scaffolding)"] --> B["阶段 2：空间拓扑语法内化<br>(Representation Internalization)"]
+>     B --> C["阶段 3：自发构建心智隐喻<br>(Self-Scaffolding)"]
+>     C --> D["外部实体工具边际效应递减<br>(高学段/专家型学习者)"]
+> ```
 
 ---
 

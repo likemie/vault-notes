@@ -86,14 +86,15 @@ updated: 2026-09-17
 > 3. **表征功能理解（Understanding Function & Form）** 理解空间拓扑、颜色[[Coding in Qualitative Research\|编码]]、箭头方向与节点包含关系如何映射抽象语义与因果逻辑。
 > 4. **表征修饰与[[Transfer Translation Transformation\|转译]]（Modification & Translation）** 能够在文字、[[Concept Mapping\|概念图]]、逻辑公式与表格等不同模态之间自如转译信息。
 
-```mermaid
-flowchart TD
-    A["元表征能力 (MRC)"] --> B["1. 表征发明<br>(自发设计新图示)"]
-    A --> C["2. 表征评估<br>(批判图示适切性)"]
-    A --> D["3. 机制理解<br>(空间拓扑映射语义)"]
-    A --> E["4. 跨模态转译<br>(图文/公式自由转换)"]
-    B & C & D & E --> F["深度释放图形组织器促学效能"]
-```
+> [!logic-map]- 元表征能力四维结构与心智操作模型
+> ```mermaid
+> flowchart TD
+>     A["元表征能力 (MRC)"] --> B["1. 表征发明<br>(自发设计新图示)"]
+>     A --> C["2. 表征评估<br>(批判图示适切性)"]
+>     A --> D["3. 机制理解<br>(空间拓扑映射语义)"]
+>     A --> E["4. 跨模态转译<br>(图文/公式自由转换)"]
+>     B & C & D & E --> F["深度释放图形组织器促学效能"]
+> ```
 
 ---
 

@@ -154,7 +154,7 @@ updated: 2026-10-08
 
 ## 围绕概念形成的命题
 
-> [!logic-map] 政策网络运行机制与病理逻辑
+> [!logic-map]- 政策网络运行机制与病理逻辑
 > ```mermaid
 > flowchart LR
 >   subgraph Critical["批判社会学面向：公私共生与异层治理"]

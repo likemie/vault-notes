@@ -191,7 +191,7 @@ updated: 2026-10-07
 
 ## 研究程序与操作模型
 
-> [!proc] [[Kurt Lewin\|勒温]]—[[Stephen Kemmis\|凯米斯]]螺旋循环模型
+> [!proc]- [[Kurt Lewin\|勒温]]—[[Stephen Kemmis\|凯米斯]]螺旋循环模型
 > ```mermaid
 > flowchart LR
 >   A["1. 计划 (Plan)<br>诊断问题与制定策略"] --> B["2. 行动 (Act)<br>实施干预与实践变革"]

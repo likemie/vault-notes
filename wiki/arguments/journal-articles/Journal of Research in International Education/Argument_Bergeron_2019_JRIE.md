@@ -125,7 +125,7 @@ issuing_organization: ""
 
 ## 论证结构
 
-> [!logic-map]
+> [!logic-map]-
 > ```mermaid
 > flowchart LR
 >     A["调查教师对 TOK 的理念认同"] --> B["发现批判性思维与跨学科连接被视为最大价值"]

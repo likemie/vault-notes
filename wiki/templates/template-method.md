@@ -121,7 +121,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **缺失与异常处理** 说明插补、删除、平滑、缩尾或其他处理方式。
 > - **标准化范围** 说明按全样本、逐年、逐地区还是其他范围标准化。
 
-> [!formula-set] 公式链总览
+> [!formula-set]- 公式链总览
 > ```mermaid
 > flowchart LR
 >   A["原始数据"] --> B["可比较输入"]

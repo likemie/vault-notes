@@ -76,6 +76,7 @@ related_methods:
   - "[[External Auditor]]"
   - "[[Correlational Research]]"
 related_persons:
+  - "[[Kenneth Burke]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
   - "[[Erich Bloch]]"
@@ -146,7 +147,7 @@ updated: 2026-10-08
 > *Competitiveness operates as a geopolitical apparatus that reassembles universities through rankings, metrics, and audit practices into competitive market participants.*
 
 > [!citation-card] Macher et al. 论微观产线组织学习对产业工程竞争力的决定性贡献
-> 加州大学伯克利分校竞争性半导体制造（[[Competitive Semiconductor Manufacturing Program|CSM]]）项目的微观产线实测打破了将芯片竞争力片面等同于单一良率或重资产自动化的狭隘视角。日本晶圆厂在洁净室全自动搬运硬件上投入巨大，但美国领先晶圆厂凭借工程师与操作人员高水平的软件数据分析能力、快速工程排障及工艺自适应调整，在人均直接劳动生产率上反而超越了日本同行。微观实证证明了以人为本的产线技能形成与组织数据学习能够创造出匹敌甚至超越纯机械自动化的微观工程竞争力。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 108, 117–118)]]
+> 加州大学[[Kenneth Burke|伯克]]利分校竞争性半导体制造（[[Competitive Semiconductor Manufacturing Program|CSM]]）项目的微观产线实测打破了将芯片竞争力片面等同于单一良率或重资产自动化的狭隘视角。日本晶圆厂在洁净室全自动搬运硬件上投入巨大，但美国领先晶圆厂凭借工程师与操作人员高水平的软件数据分析能力、快速工程排障及工艺自适应调整，在人均直接劳动生产率上反而超越了日本同行。微观实证证明了以人为本的产线技能形成与组织数据学习能够创造出匹敌甚至超越纯机械自动化的微观工程竞争力。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 108, 117–118)]]
 >
 > *Micro-level evidence demonstrates that human-centered organizational learning, rapid engineering problem-solving, and data utilization create engineering competitiveness that equals or surpasses pure mechanical automation.*
 
@@ -182,7 +183,7 @@ updated: 2026-10-08
 > - **以人为本的产线工程组织学习与技能形成（Human-Centered Engineering Learning）** 强调微观制造工程竞争力源于一线工程师与技术工人的[[Process Knowledge|过程知识]]、快速排障与数据自适应能力，而非单纯依赖硬件机械自动化。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 117–118)]]
 > - **潜在未来努力的数字化管理（Anticipatory Effort Governance）** 借助数字化[[Learning Analytics|学习分析]]将学业与就业不确定性转化为可计算的行为数据，引导学生主动自我优化。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, p. 221)]]
 
-> [!logic-map] 竞争力三层治理与传导逻辑图
+> [!logic-map]- 竞争力三层治理与传导逻辑图
 > ```mermaid
 > flowchart TD
 >   subgraph Macro["宏观：国家战略与实体制造竞争力（Kratsios, 2026; Bozeman, 2004）"]
@@ -251,7 +252,7 @@ updated: 2026-10-08
 > 先进制造业与微电子领域的微观工程竞争力，并非单纯取决于洁净室硬件自动化程度，而是高度依赖一线工程师与技术工人在真实产线情境下的数据分析能力、快速工程排障与工艺自适应调整等[[Process Knowledge|过程知识]]积累。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 108, 117–118)]]
 >
 > > [!warrant]- 理论推导与经验依据
-> > 加州大学伯克利分校竞争性半导体制造（[[Competitive Semiconductor Manufacturing Program|CSM]]）项目跨国调研发现：日本晶圆厂在自动化物料搬运等重资产硬件上投入巨大，但美国领先晶圆厂凭借一线团队优异的软件数据利用、快速排障与持续工艺微调，在逻辑芯片人均劳动生产率上反超日本。这实证[[Falsification|证伪]]了技术驱动假说，证明以人为本的技能形成与组织学习是微观竞争力的核心源泉。
+> > 加州大学[[Kenneth Burke|伯克]]利分校竞争性半导体制造（[[Competitive Semiconductor Manufacturing Program|CSM]]）项目跨国调研发现：日本晶圆厂在自动化物料搬运等重资产硬件上投入巨大，但美国领先晶圆厂凭借一线团队优异的软件数据利用、快速排障与持续工艺微调，在逻辑芯片人均劳动生产率上反超日本。这实证[[Falsification|证伪]]了技术驱动假说，证明以人为本的技能形成与组织学习是微观竞争力的核心源泉。
 
 ---
 

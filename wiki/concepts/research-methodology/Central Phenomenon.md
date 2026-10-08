@@ -138,14 +138,15 @@ updated: 2026-10-07
 
 安塞尔姆·施特劳斯与朱丽叶·科宾（Anselm Strauss & Juliet Corbin, 1990；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 561]]）论证，质性数据分析从离散[[Coding in Qualitative Research|编码]]迈向理论建构的关键飞跃，取决于核心现象的确立：
 
-```mermaid
-flowchart TD
-    CC["因果条件（Causal Conditions）\n诱发事件与动因"] --> CP["核心现象（Central Phenomenon / Core Category）\n处于统摄轴心地位的过程与行动"]
-    CTX["情境脉络（Context）\n特定属性与时空条件"] --> CP
-    IC["中介条件（Intervening Conditions）\n促进或阻碍性结构要素"] --> CP
-    CP --> ACT["行动/互动策略（Actions & Interactions）\n行动者的应对表征"]
-    ACT --> RES["结果（Consequences）\n行动产生的影响与状态"]
-```
+> [!logic-map]- 核心现象轴心统摄与典范模型机制
+> ```mermaid
+> flowchart TD
+>     CC["因果条件（Causal Conditions）\n诱发事件与动因"] --> CP["核心现象（Central Phenomenon / Core Category）\n处于统摄轴心地位的过程与行动"]
+>     CTX["情境脉络（Context）\n特定属性与时空条件"] --> CP
+>     IC["中介条件（Intervening Conditions）\n促进或阻碍性结构要素"] --> CP
+>     CP --> ACT["行动/互动策略（Actions & Interactions）\n行动者的应对表征"]
+>     ACT --> RES["结果（Consequences）\n行动产生的影响与状态"]
+> ```
 
 1. **六要素[[Paradigm|范式]]模型的引力轴心** 在[[Axial Coding|主轴编码]]中，核心现象占据结构拓扑的绝对中心。因果条件解释核心现象何以产生，情境脉络与中介条件划定核心现象展开的约束[[Champ|场域]]，行动与互动策略是当事人针对核心现象作出的动态反应，而结果则是该应对机制的衍生状态。脱离核心现象，六要素模型将坍缩为互不连贯的碎片。
 2. **选择性编码的[[Story Line|故事线]]（Story Line）与概念密度** 在选择性编码阶段，研究者必须识别并最终确立那一个具有最大解释潜力的核心范畴（Strauss, 1987, p. 11）。确立核心范畴依赖于：
@@ -236,13 +237,14 @@ flowchart TD
 
 依据安塞尔姆·施特劳斯与朱丽叶·科宾（Strauss & Corbin, 1990；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 561]]），从微观[[Coding in Qualitative Research|编码]]提炼核心现象的标准操作五步法：
 
-```mermaid
-flowchart LR
-    A["步骤 1：撰写故事线\n提炼总括性经验叙事"] --> B["步骤 2：锚定核心范畴\n命名具有最大解释力的中心构念"]
-    B --> C["步骤 3：主轴矩阵回测\n将其他范畴对齐六要素"]
-    C --> D["步骤 4：验证经验关联\n对照原始文本检验理论密度"]
-    D --> E["步骤 5：饱和度修补\n完善薄弱维度完成理论构建"]
-```
+> [!proc]- 核心范畴提炼与[[Story Line|故事线]]整合规程
+> ```mermaid
+> flowchart LR
+>     A["步骤 1：撰写故事线\n提炼总括性经验叙事"] --> B["步骤 2：锚定核心范畴\n命名具有最大解释力的中心构念"]
+>     B --> C["步骤 3：主轴矩阵回测\n将其他范畴对齐六要素"]
+>     C --> D["步骤 4：验证经验关联\n对照原始文本检验理论密度"]
+>     D --> E["步骤 5：饱和度修补\n完善薄弱维度完成理论构建"]
+> ```
 
 > [!proc] 核心范畴提炼五步操作规程
 > 1. **撰写描述性[[Story Line\|故事线]]（Story Line）** 暂时抽离微观代码，用通俗语言写下一篇 1–2 页的整体叙事概览，描绘核心人物在特定情境中所遭遇的核心困境与主要行动过程。

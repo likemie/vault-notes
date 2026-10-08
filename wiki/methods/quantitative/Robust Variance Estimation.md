@@ -107,7 +107,7 @@ updated: 2026-09-18
 
 ## 核心数学模型与完整推导：从 Wecker 经典加权到三明治估计量
 
-> [!formula-set] 从 Wecker 经典[[Inverse-Variance Weighting\|逆方差加权]]到现代三明治估计量的数学推导与演进
+> [!formula-set]- 从 Wecker 经典[[Inverse-Variance Weighting\|逆方差加权]]到现代三明治估计量的数学推导与演进
 > ```mermaid
 > flowchart LR
 >   A["步骤 1：Wecker 标量加权<br/>(经典逆方差加权平均)"] --> B["步骤 2：GLS 矩阵同构<br/>(面包层理论方差假定独立)"]

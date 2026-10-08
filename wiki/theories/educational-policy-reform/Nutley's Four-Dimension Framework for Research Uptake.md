@@ -115,7 +115,7 @@ updated: 2026-10-08
 
 ## 理论机制图
 
-> [!mechanism-map] 纳特利证据吸纳动态机制
+> [!mechanism-map]- 纳特利证据吸纳动态机制
 > ```mermaid
 > flowchart TD
 >   subgraph Input ["研究供给端"]

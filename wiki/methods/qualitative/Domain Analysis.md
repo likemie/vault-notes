@@ -134,20 +134,21 @@ updated: 2026-10-08
 2. **下位词（Included Terms）** 所有从属于该领域的具体概念或经验范畴（例如“跑步锻炼”、“向同行倾诉”、“饮酒借消”）；
 3. **语义关系（Semantic Relationship）** 将下位词与覆盖词有机串联成统一知识结构的单一逻辑线索（例如“……是……的一种途径/手段”）。
 
-```mermaid
-flowchart TD
-    subgraph Domain ["文化领域（Domain）"]
-        CT["覆盖词（Cover Term）\n上位象征范畴"]
-        SR{"单一语义关系（Semantic Relationship）\n文化认知联结法则"}
-        IT1["下位词 A（Included Term）"]
-        IT2["下位词 B（Included Term）"]
-        IT3["下位词 C（Included Term）"]
-    end
-    IT1 --> SR
-    IT2 --> SR
-    IT3 --> SR
-    SR --> CT
-```
+> [!logic-map]- 领域文化三元结构与语义关系
+> ```mermaid
+> flowchart TD
+>     subgraph Domain ["文化领域（Domain）"]
+>         CT["覆盖词（Cover Term）\n上位象征范畴"]
+>         SR{"单一语义关系（Semantic Relationship）\n文化认知联结法则"}
+>         IT1["下位词 A（Included Term）"]
+>         IT2["下位词 B（Included Term）"]
+>         IT3["下位词 C（Included Term）"]
+>     end
+>     IT1 --> SR
+>     IT2 --> SR
+>     IT3 --> SR
+>     SR --> CT
+> ```
 
 ### 机制二　斯普拉德利九大通用语义关系
 
@@ -258,14 +259,15 @@ flowchart TD
 
 依据[[Louis Cohen|路易斯·科恩]]等（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, pp. 568–572]]）的[[Content Analysis|内容分析]]工作流，通过包容层级归并消除范畴重叠的标准操作如下：
 
-```mermaid
-flowchart LR
-    A["步骤 1：文本提取\n抽取微观评注与分析编码"] --> B["步骤 2：宏观聚类\n划定四大基础主题领域"]
-    B --> C["步骤 3：频次盘点\n统计各议题涌现频次"]
-    C --> D["步骤 4：二级包容归并\n按属性提炼互斥子领域"]
-    D --> E["步骤 5：模式反思\n审视系统性结构失衡"]
-    E --> F["步骤 6：理论推进\n提炼因果命题与工作假设"]
-```
+> [!proc]- 领域分析包容层级归并操作流程
+> ```mermaid
+> flowchart LR
+>     A["步骤 1：文本提取\n抽取微观评注与分析编码"] --> B["步骤 2：宏观聚类\n划定四大基础主题领域"]
+>     B --> C["步骤 3：频次盘点\n统计各议题涌现频次"]
+>     C --> D["步骤 4：二级包容归并\n按属性提炼互斥子领域"]
+>     D --> E["步骤 5：模式反思\n审视系统性结构失衡"]
+>     E --> F["步骤 6：理论推进\n提炼因果命题与工作假设"]
+> ```
 
 > [!proc] 包容层级归并的六阶段操作规程
 > 1. **提取微观评注并拟定分析[[Coding in Qualitative Research\|编码]]** 通读全部转录材料，提取核心意涵陈述，并在侧栏赋予初级描述性编码。

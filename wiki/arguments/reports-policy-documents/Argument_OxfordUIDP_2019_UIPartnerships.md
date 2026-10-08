@@ -89,7 +89,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-10
-updated: 2026-09-16
+updated: 2026-10-08
 ---
 # Argument_OxfordUIDP_2019_UIPartnerships
 
@@ -135,7 +135,7 @@ updated: 2026-09-16
 
 ## 论证结构
 
-> [!logic-map] 核心论证逻辑链
+> [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
 >     A["全球格局变化"]

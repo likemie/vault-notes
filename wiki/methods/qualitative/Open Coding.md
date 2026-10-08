@@ -141,7 +141,7 @@ updated: 2026-10-08
 >   - 属性【投入强度（Intensity）】➔ 维度连续统：从极高（high）到极低（low）；
 >   - 属性【持续时长（Duration）】➔ 维度连续统：从长久（long）到短暂（short）。
 
-> [!logic-map] 范畴属性与维度连续统结构
+> [!logic-map]- 范畴属性与维度连续统结构
 > ```mermaid
 > flowchart TD
 >     A["概念范畴<br>（如：注视行为 / Watching）"]

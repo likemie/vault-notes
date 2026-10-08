@@ -129,7 +129,7 @@ updated: 2026-10-07
 > - **内在专业动机与利他认同排斥（[[Intrinsic vs Extrinsic Motivation\|intrinsic motivation]] & Professional Altruism Crowding-Out）** 教师劳动深受内在教学自尊与利他动机驱动，外部生硬的[[Random Assignment\|随机化]]经济刺激产生强烈的动机挤出与道德排异。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 55)]]
 > - **象征性政策挪用（Symbolic [[Policy Borrowing]]）** 决策者常借用外部高声望国际评估（如 [[PISA]]）声称其具有实证支撑，利用“遗漏[[Discourse|话语]]”掩盖不利证据以推行改革。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 116–118)]]
 
-> [!logic-map] 要素传导与制度矛盾
+> [!logic-map]- 要素传导与制度矛盾
 > ```mermaid
 > flowchart TD
 >     A["外在经济激励假设 (Rational Actor)"] --> B["量化考评绑定与校长裁量"]

@@ -83,7 +83,7 @@ sources:
 
 ## 章节内容
 
-> [!logic-map] [[Ex Post Facto Research\|事后回溯研究]]方法的核心知识结构
+> [!logic-map]- [[Ex Post Facto Research\|事后回溯研究]]方法的核心知识结构
 > ```mermaid
 > flowchart LR
 >     A["事后回溯研究<br/>Ex Post Facto Research"]

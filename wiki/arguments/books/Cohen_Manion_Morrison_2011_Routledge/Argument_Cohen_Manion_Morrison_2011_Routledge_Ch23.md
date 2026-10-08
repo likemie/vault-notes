@@ -602,7 +602,7 @@ Dyer（1995, pp. 181–186）提出结构化观察必须处理九项关键原则
 
 Adler & Adler（1994, p. 380）建议观察的四个阶段：
 
-> [!logic-map] 观察的四个阶段（Adler & Adler, 1994, p. 380）
+> [!logic-map]- 观察的四个阶段（Adler & Adler, 1994, p. 380）
 > ```mermaid
 > flowchart TD
 >   A["第一步：选择聚焦的情境"] --> B["第二步：寻求进入情境的手段

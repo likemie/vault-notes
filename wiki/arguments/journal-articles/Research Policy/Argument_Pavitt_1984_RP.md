@@ -84,7 +84,7 @@ updated: 2026-09-24
 ---
 ## 论证结构
 
-> [!logic-map] 核心论证逻辑链
+> [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
 >     A["2000项创新数据"]

@@ -99,7 +99,7 @@ updated: 2026-10-07
 > - **去意识形态化筛选机制（De-ideologization Filter）** 借用者具备高度的理性反思能力，能够在引进外国制度时主动过滤君主专制或宗教灌输等异质毒素。
 > - **民主赋义与本土重组（Democratic Re-articulation）** 将外来高效教学机制（如公学学制、师范研习所）植入民主宪政土壤，使其转化为服务全民赋权与共和自决的工具。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 125–126)]]
 
-> [!logic-map] 要素关系
+> [!logic-map]- 要素关系
 > ```mermaid
 > flowchart TD
 >     A["承认外来政体专制属性 (Despotism)"] --> B["恶政与良教自然可分假说"]

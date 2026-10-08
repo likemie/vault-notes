@@ -120,7 +120,7 @@ citation_aliases:
 
 ## 论证结构
 
-> [!logic-map] 核心论证逻辑链
+> [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
 >     A["经典心理学<br/>皮亚杰四阶段理论：<br/>缺乏阶段过渡的脑机制解释 (p.3)"]

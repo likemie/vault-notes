@@ -151,7 +151,7 @@ updated: 2026-10-08
 > - **超越表层互助的深度协作（Collaboration beyond mere assistance）** 超越礼节性协助或教案分工，深入微观课堂教学开展共同设计、互评与攻关。
 > - **群体与个体学习的共同促进（Promotion of group and individual learning）** 将教师个体的专业成长深度嵌入集体知识创新与组织学习的有机循环中。
 
-> [!logic-map] 专业学习共同体的证据转化机制
+> [!logic-map]- 专业学习共同体的证据转化机制
 > ```mermaid
 > flowchart LR
 >     A["制度化排程与专有时空保障"] --> C["专业学习共同体 (PLC)<br>互信研讨与去私有化反思"]

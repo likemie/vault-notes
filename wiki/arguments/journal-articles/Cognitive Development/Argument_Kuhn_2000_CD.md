@@ -136,7 +136,7 @@ issuing_organization: ""
 
 为了确定个体在上述每个题目上的认识论层级，测试中包含了两步递进式的标准追问（p. 316）：
 
-> [!logic-map] 两步递进式追问与层级判定规则
+> [!logic-map]- 两步递进式追问与层级判定规则
 > ```mermaid
 > flowchart TD
 >     Start(["提供对立观点：Robin 认为... Chris 认为..."]) --> Q1

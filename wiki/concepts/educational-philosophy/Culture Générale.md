@@ -118,7 +118,7 @@ updated: 2026-10-08
 > - **哲学修辞与作文训练（Dissertation）** 中学毕业班（Classe de Philosophie）将系统的哲学论辩与规范化长篇论文写作作为最高顶点，训练学生就宏大伦理、政治与[[Epistemology\|认识论]]命题展开周密逻辑推演。
 > - **国家主义政治选拔功能** 依托高度集权的教育部、全国统考（Baccalauréat）与[[Grandes Ecoles|大学校]]（Grandes Écoles）竞争性竞试，将掌握普通文化的精英输送至国家行政核心。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 59)]]
 
-> [!logic-map] 普通文化的认识论生成与国家功能结构
+> [!logic-map]- 普通文化的认识论生成与国家功能结构
 > ```mermaid
 > flowchart TD
 >     A["笛卡尔理性主义哲学<br>（清晰明了的思想原则）"] & B["官能心理学与折衷主义<br>（Cousin: 心智训练与文理融通）"] --> C["普通文化（Culture Générale）课程理想"]

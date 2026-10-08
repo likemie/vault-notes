@@ -106,7 +106,7 @@ updated: 2026-09-18
 
 ## 核心统计模型与数学公式
 
-> [!formula-set] 二阶[[Meta-regression\|元回归]]统计建模与[[Hypothesis\|假设]]检验流程
+> [!formula-set]- 二阶[[Meta-regression\|元回归]]统计建模与[[Hypothesis\|假设]]检验流程
 > ```mermaid
 > flowchart LR
 >   A["步骤 1：输入效应量矩阵<br/>(嵌套于一阶元分析集群)"] --> B["步骤 2：构建三水平元回归模型<br/>(纳入理论构念与设计协变量)"]

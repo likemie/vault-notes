@@ -111,7 +111,7 @@ updated: 2026-09-17
 > - **Tier 2 — 小组针对性补充辅导（Targeted Small-Group Tutoring）** 面向在 Tier 1 中仍存在轻度落后的约 10%–15% 处境不利学生。采用结构化的小组辅导方案（如 1 对 2 至 1 对 6），由认证教师或经过系统培训的教学[[Teaching Assistant\|助教]]（Teaching Assistant, TA）实施，加权[[Effect Size\|效应量]]达 +0.20 至 +0.64。
 > - **Tier 3 — 密集型一对一个别辅导（Intensive One-to-One Tutoring）** 面向经历 Tier 2 后仍有严重阅读或数学障碍的 2%–5% 高危学生。由专业教师或资深助教提供每日高强度 1 对 1 辅导（如 [[Reading Recovery]]、[[Sound Partners]]），加权效应量最高达 +0.86，以此作为替代特教转介的最后强效防线。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
-> [!logic-map] 循证干预反应（RTPI）的梯级分流金字塔
+> [!logic-map]- 循证干预反应（RTPI）的梯级分流金字塔
 > ```mermaid
 > flowchart LR
 >     T1["Tier 1：全员核心通用教学<br>（全校循证方案，覆盖 100% 学生）"]

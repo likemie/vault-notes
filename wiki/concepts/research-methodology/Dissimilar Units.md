@@ -97,7 +97,7 @@ updated: 2026-10-01
 > - **指标内涵的文化多义性（Cultural Multivocality）** 升学率、师资学历、课程大纲或纪律规程等表面通用的指标，在不同民族国家具有截然不同的社会再生产功能与阶层象征资本。
 > - **自然[[Situative Perspective|情境观]]察依托（Natural Setting Reliance）** 由于研究者无法像自然科学家那样在人工控制环境下对主权国家或文化社群施加操纵性[[Variable|变量]]干预，比较研究必须以自然情境中发生的历史与现实变异为唯一事实来源。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 129)]]
 
-> [!logic-map] 要素关系
+> [!logic-map]- 要素关系
 > ```mermaid
 > flowchart TD
 >     A["深嵌的历史文化脉络"] --> B["分析单位异质性 (Dissimilar Units)"]

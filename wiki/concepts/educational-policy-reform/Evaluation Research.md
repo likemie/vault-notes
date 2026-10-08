@@ -81,7 +81,7 @@ updated: 2026-10-02
 > - **多重价值立场** 不同于研究对[[Value Neutrality\|价值中立]]（VALUE neutrality）的追求，评估研究必须呈现多重价值立场并包含相关数据（Smith & Glass, 1987, p. 34）。
 > - **方法论与研究的重叠** 评估研究在操作层面几乎与研究无法区分——两者都提出问题与[[Hypothesis\|假设]]、选择样本、操纵和测量[[Variable\|变量]]、计算结果并陈述结论。Norris（1990, p. 97）因此将评估视为"研究的延伸"。
 
-> [!logic-map] 评估研究的双重关系
+> [!logic-map]- 评估研究的双重关系
 > ```mermaid
 > flowchart LR
 >   A["研究<br>Research"] --> B["共享方法论<br>全套研究工具"]

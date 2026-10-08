@@ -191,7 +191,7 @@ updated: 2026-10-07
 > [!abstract]
 > GPK 的命题结构从宏观到微观形成三个相互嵌套的分析层次：①**空间-竞争层**——[[Knowledge-Based Economization\|知识经济化]]重构了大学的空间逻辑和国家竞争形态，其核心悖论是[[Fixity-Motion Tension\|固着-流动张力]]与 Hub-[[Flow]] 想象；②**主体-治理层**——大学成为生产特定主体性的核心地缘政治装置，治理通过[[Epistemology\|认识论]]控制在全球尺度运作；③**知识-认识论层**——GPK 的最终战场是知识本身：谁生产何种知识、知识如何流动和被控制（两面模型），以及哪种认识论被认定为合理（[[Narrative Knowledge\|叙事知识]]衰退），决定[[Discourse|话语]]权力的全球格局。
 
-> [!logic-map] 核心命题关系
+> [!logic-map]- 核心命题关系
 >
 > ```mermaid
 > flowchart LR
@@ -352,7 +352,7 @@ updated: 2026-10-07
 > [!abstract] GPK 话语-主体性传导链条
 > [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022)]]揭示了 GPK 如何通过全球技能话语（[[Single-Case Design\|SCD]]）在全球尺度生产特定主体性——将 GPK 分析从"制度如何被重塑"拓展至"主体性如何被生产"。
 
-> [!logic-map]
+> [!logic-map]-
 > ```mermaid
 > flowchart LR
 >     D(["远距治理"]) -. 驱动 .-> A

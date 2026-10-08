@@ -25,6 +25,7 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[Dependent Variable]]"
   - "[[Procedural Skill]]"
+  - "[[Problem Solving]]"
   - "[[Logic Model]]"
   - "[[Construct]]"
   - "[[Critical Thinking]]"
@@ -84,39 +85,40 @@ updated: 2026-10-03
 
 ## 核心维度与心智操作模型
 
-```mermaid
-flowchart LR
-    subgraph InputStage ["问题输入阶段"]
-        direction TB
-        I1["复杂现实挑战 / 劣构任务"]
-        I2["多模态领域情境数据"]
-    end
-
-    subgraph Operations ["四大核心心智操作 (CT Core)"]
-        direction TB
-        O1["问题分解 (Decomposition: 模块拆解)"]
-        O2["模式识别 (Pattern Recognition: 共性提取)"]
-        O3["抽象表征 (Abstraction: 过滤冗余要素)"]
-        O4["算法设计 (Algorithm Design: 分步规则构建)"]
-    end
-
-    subgraph Execution ["执行与反思调试"]
-        direction TB
-        E1["代码/模型自动化执行"]
-        E2["错误归因与逻辑调试 (Debugging)"]
-        E3["反思优化与泛化迁移"]
-    end
-
-    subgraph Outcomes ["认知高阶进阶"]
-        direction TB
-        R1["复杂系统问题解决能力"]
-        R2["计算创造力与逻辑推理"]
-    end
-
-    InputStage --> Operations
-    Operations --> Execution
-    Execution --> Outcomes
-```
+> [!logic-map]- 计算思维核心维度与[[Problem Solving|问题解决]]模型
+> ```mermaid
+> flowchart LR
+>     subgraph InputStage ["问题输入阶段"]
+>         direction TB
+>         I1["复杂现实挑战 / 劣构任务"]
+>         I2["多模态领域情境数据"]
+>     end
+> 
+>     subgraph Operations ["四大核心心智操作 (CT Core)"]
+>         direction TB
+>         O1["问题分解 (Decomposition: 模块拆解)"]
+>         O2["模式识别 (Pattern Recognition: 共性提取)"]
+>         O3["抽象表征 (Abstraction: 过滤冗余要素)"]
+>         O4["算法设计 (Algorithm Design: 分步规则构建)"]
+>     end
+> 
+>     subgraph Execution ["执行与反思调试"]
+>         direction TB
+>         E1["代码/模型自动化执行"]
+>         E2["错误归因与逻辑调试 (Debugging)"]
+>         E3["反思优化与泛化迁移"]
+>     end
+> 
+>     subgraph Outcomes ["认知高阶进阶"]
+>         direction TB
+>         R1["复杂系统问题解决能力"]
+>         R2["计算创造力与逻辑推理"]
+>     end
+> 
+>     InputStage --> Operations
+>     Operations --> Execution
+>     Execution --> Outcomes
+> ```
 
 > [!feature] 计算思维四大核心心智维度
 > 1. **问题分解（Decomposition）** 将庞大、繁复的综合问题拆解为若干细小、独立且易于管理与解决的子模块。

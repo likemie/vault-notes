@@ -90,7 +90,7 @@ updated: 2026-09-18
 
 ## 核心统计模型与数学公式
 
-> [!formula-set] 多水平[[Egger Regression Test\|艾格检验]]与截距校正流程
+> [!formula-set]- 多水平[[Egger Regression Test\|艾格检验]]与截距校正流程
 > ```mermaid
 > flowchart LR
 >   A["步骤 1：输入效应量与标准误<br/>(作为唯一连续调节变量)"] --> B["步骤 2：拟合三水平艾格元回归<br/>(分解集群间与集群内变异)"]

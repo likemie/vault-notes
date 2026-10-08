@@ -52,6 +52,7 @@ related_concepts:
   - "[[Boarding Schools]]"
 related_persons:
   - "[[Louis Mountbatten]]"
+  - "[[Hyman Rickover]]"
   - "[[Gerard Renaud]]"
   - "[[Gilbert Nicol]]"
 related_facts:
@@ -69,7 +70,7 @@ related_theories:
   - "[[Theory of Mind]]"
 status: draft
 created: 2026-09-01
-updated: 2026-10-01
+updated: 2026-10-08
 ---
 # Argument_Peterson_1987_OpenCourt_Ch06
 
@@ -144,7 +145,7 @@ updated: 2026-10-01
 
 ## 论证结构
 
-> [!logic-map] 北美扩张机制
+> [!logic-map]- 北美扩张机制
 > ```mermaid
 > flowchart LR
 >   A["地方课程自主"] --> B["学校可自行采用外部课程"]
@@ -300,7 +301,7 @@ updated: 2026-10-01
 > - **1950 年代初：** 詹姆斯·科尔纳（James Koerner）持续揭示许多教师培养项目的学术薄弱，雅克·巴赞（Jacques Barzun）批评大学教育缺少智识严谨；《为什么约翰尼不会阅读》（*Why Johnny Can't Read*）等著作又把小学阅读问题带入公众讨论。
 > - **1956 年：** 基础教育委员会（Council for Basic Education）成立，最初更关注小学，随后把注意力扩展到高中。
 > - **[[Sputnik Shock 1957\|Sputnik]] 冲击之后：** 教育标准与国家能力之间的联系受到更严肃关注，也为 AP 等面向优秀学生的改革增加推动力。
-> - **1962 年：** 海曼·里科弗（Hyman G. Rickover）猛烈批评美国高中课程与学业标准。他选择瑞士作比较，是因为瑞士同样具有强烈分权、民主制度以及多文化、多语言社会，比中央集权的欧洲国家更接近美国条件。彼得森与里科弗会面时，也直接感受到其对 IB 等改革计划的强烈兴趣。
+> - **1962 年：** [[Hyman Rickover|海曼·里科弗]]（Hyman G. Rickover）猛烈批评美国高中课程与学业标准。他选择瑞士作比较，是因为瑞士同样具有强烈分权、民主制度以及多文化、多语言社会，比中央集权的欧洲国家更接近美国条件。彼得森与里科弗会面时，也直接感受到其对 IB 等改革计划的强烈兴趣。
 > - **1970 年代至 1980 年代初：** 包括总统外语与国际研究委员会在内的一系列调查，继续聚焦优秀且有动机的学生缺少智识挑战，以及外语和国际研究不足。
 > - **1983—1984 年：** 多份报告把长期焦虑汇聚为具体课程改革议程。1983 年 4 月发表的《[[A Nation at Risk 1983\|国家处于危险中]]》售出 60 万册，并因大众期刊转载而获得估计超过 600 万的传播量；卡内基教学促进基金会的《高中》（*High School*）则提出覆盖更广的中学改革框架（pp. 137–138）。
 

@@ -138,7 +138,7 @@ Schofield (1990) 精准刻画了这一分裂：对于一派，通过剥离情境
 > - **时间推广性（Temporal Generalizability）** 此时此刻获得的因果效应在未来或其他历史时期是否依然成立。[[Counterfactual\|反事实]]条件与[[Business as Usual\|常态教学]]随时间动态演变，历史效应容易侵蚀推广效度。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 44)]]
 > - **测验与[[Construct\|构念]]推广性（Outcome Generalizability）** 干预在特定测验上呈现的效应是否能够推广到国家关键考试或更广泛的能力构念。紧密贴合干预的自编测验会导致[[Effect Size\|效应量]]虚假放大，缺乏向通用结果的推广性。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 
-> [!logic-map] 外部效度要素与威胁关系
+> [!logic-map]- 外部效度要素与威胁关系
 > ```mermaid
 > flowchart LR
 >   A["人群推广性<br>(Population)"] --> E["外部效度<br>(External Validity)"]

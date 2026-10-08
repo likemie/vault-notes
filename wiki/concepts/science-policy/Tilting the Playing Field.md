@@ -86,7 +86,7 @@ aliases:
 
 ## 实施机制
 
-> [!process] 倾斜竞争场地的政策杠杆协同机制
+> [!process]- 倾斜竞争场地的政策杠杆协同机制
 > ```mermaid
 > flowchart LR
 >     Dir["明确战略方向<br>（重大社会挑战）"] --> Tilting["制度化倾斜政策组合<br>（Tilting Policy Mix）"]

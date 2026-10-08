@@ -101,7 +101,7 @@ updated: '2026-08-27'
 > - **如何收集？** 通过照片引谈、录像镜头选择、器物就地观察，并纳入[[Triangulation\|三角互证]]
 > - **证据是什么？** 内容为方法综述，所引用案例分布在[[Ethnography\|民族志]]、[[Case Study\|案例研究]]与儿童研究等质性传统中
 
-> [!logic-map] 论证链
+> [!logic-map]- 论证链
 > ```mermaid
 > flowchart LR
 >     A[视觉数据无处不在<br/>照片/录像/器物/图画] --> B[Prosser & Loxley 四类<br/>found/researcher/respondent/representations]

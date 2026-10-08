@@ -137,7 +137,7 @@ updated: 2026-09-17
 
 ## 分析流程与应用
 
-> [!proc] 量表[[Reliability\|信度]]检验标准流程
+> [!proc]- 量表[[Reliability\|信度]]检验标准流程
 > ```mermaid
 > flowchart LR
 >   A["采集样本作答数据"] --> B["反向计分题项转换与缺失值处理"]

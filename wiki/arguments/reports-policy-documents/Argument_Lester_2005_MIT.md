@@ -47,7 +47,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-10
-updated: 2026-09-24
+updated: 2026-10-08
 ---
 # Argument_Lester_2005_MIT
 
@@ -96,7 +96,7 @@ updated: 2026-09-24
 ---
 ## 论证结构
 
-> [!logic-map] 核心论证逻辑链
+> [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
 >     A["22地区产业转型案例"]

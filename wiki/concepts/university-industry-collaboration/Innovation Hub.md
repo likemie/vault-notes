@@ -132,7 +132,7 @@ updated: 2026-10-08
 > - **开放共享的工程试验与[[Pilot Scale Platform|中试平台]]（Shared Testbeds & Pilot Fabs）** 依托国家实验室与地方共建微纳加工中心、生命科学共享湿实验平台与 GMP 级中试线，打破早期初创企业在物理原型试制上面临的重资产壁垒。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 40–41)]]
 > - **工艺知识与区域技能网络（[[Process Knowledge]] & Skill Networks）** 联合地方社区学院开发定制技术员课程，将[[Apprenticeship|注册学徒制]]与工匠学者融入产线攻坚，维系现场排障经验。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 53–55)]]
 
-> [!process] 创新中心从实验室发现到产业集群的闭环运转流程
+> [!process]- 创新中心从实验室发现到产业集群的闭环运转流程
 > ```mermaid
 > flowchart LR
 >     RU["研究型大学 & 国家实验室<br>（原创科学发现与前沿概念）"] --> ST["开放共享试验场 & 中试平台<br>（微纳洁净室 / 湿实验室 / GMP 线）"]

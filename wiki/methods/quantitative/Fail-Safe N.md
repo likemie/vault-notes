@@ -97,17 +97,18 @@ updated: 2026-09-17
 
 ## 核心计算原理与数学公式
 
-```mermaid
-flowchart TD
-    subgraph FSN["<b>失安全数体系的三大计算分支</b>"]
-        A["<b>1. Rosenthal 经典失安全数</b><br>基于 p 值的推断逆推<br>判定显著性何时消失"]
-        B["<b>2. Orwin 效应量失安全数</b><br>基于效应量绝对尺度的稀释<br>判定何时降至微小阈值 gc"]
-        C["<b>3. Rosenberg 加权失安全数</b><br>考虑样本量与权重的加权逆推<br>解决未加权算术偏差"]
-    end
-    A --> D["<b>判定准则：Rosenthal 5k + 10 安全线</b>"]
-    B --> E["<b>判定准则：所需零效应篇数 >> 领域未发表容量</b>"]
-    C --> F["<b>输出综合稳健性评估结论</b>"]
-```
+> [!formula-set]- 倒失安全数统计计算流程
+> ```mermaid
+> flowchart TD
+>     subgraph FSN["<b>失安全数体系的三大计算分支</b>"]
+>         A["<b>1. Rosenthal 经典失安全数</b><br>基于 p 值的推断逆推<br>判定显著性何时消失"]
+>         B["<b>2. Orwin 效应量失安全数</b><br>基于效应量绝对尺度的稀释<br>判定何时降至微小阈值 gc"]
+>         C["<b>3. Rosenberg 加权失安全数</b><br>考虑样本量与权重的加权逆推<br>解决未加权算术偏差"]
+>     end
+>     A --> D["<b>判定准则：Rosenthal 5k + 10 安全线</b>"]
+>     B --> E["<b>判定准则：所需零效应篇数 >> 领域未发表容量</b>"]
+>     C --> F["<b>输出综合稳健性评估结论</b>"]
+> ```
 
 > [!formula-step] 公式步骤一　Rosenthal（1979）经典失安全数
 > $$N_{\text{fs}} = \frac{\left(\sum_{i=1}^k Z_i\right)^2}{Z_\alpha^2} - k = \frac{\left(\sum_{i=1}^k Z_i\right)^2}{2.706} - k$$

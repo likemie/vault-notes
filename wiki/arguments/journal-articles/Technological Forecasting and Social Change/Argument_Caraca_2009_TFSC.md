@@ -121,7 +121,7 @@ issuing_organization: ""
 
 ## 论证结构
 
-> [!logic-map] 核心论证逻辑链
+> [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
 >        A["背景<br/>女王与灰姑娘<br/>双重隐喻"]

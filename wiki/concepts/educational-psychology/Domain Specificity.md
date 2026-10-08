@@ -123,15 +123,16 @@ updated: 2026-10-07
 
 ## 核心要素与领域分类体系
 
-```mermaid
-flowchart TD
-    subgraph Structure["<b>领域特异性分类与认知层级结构</b>"]
-        D["<b>领域的划分维度</b>"]
-        D --> D1["<b>日常判断领域 (Kuhn et al., 2000)</b><br>个人品味 $\to$ 审美 $\to$ 价值观 $\to$ 社会事实 $\to$ 物理事实<br>(从极端主观到极端客观)"]
-        D --> D2["<b>学术学科结构 (Greene et al., 2010)</b><br>良构领域 (如数学、物理: 规则明确、解唯一)<br>劣构领域 (如历史、文学: 观点冲突、多重因果)"]
-        D --> D3["<b>课程整合模式 (Ennis, 1989; Abrami et al., 2015)</b><br>独立通用模式 (General) · 学科融入模式 (Infusion)<br>学科沉浸模式 (Immersion) · 显性混合模式 (Mixed)"]
-    end
-```
+> [!logic-map]- 领域特殊性分类体系与认知构件关系
+> ```mermaid
+> flowchart TD
+>     subgraph Structure["<b>领域特异性分类与认知层级结构</b>"]
+>         D["<b>领域的划分维度</b>"]
+>         D --> D1["<b>日常判断领域 (Kuhn et al., 2000)</b><br>个人品味 $\to$ 审美 $\to$ 价值观 $\to$ 社会事实 $\to$ 物理事实<br>(从极端主观到极端客观)"]
+>         D --> D2["<b>学术学科结构 (Greene et al., 2010)</b><br>良构领域 (如数学、物理: 规则明确、解唯一)<br>劣构领域 (如历史、文学: 观点冲突、多重因果)"]
+>         D --> D3["<b>课程整合模式 (Ennis, 1989; Abrami et al., 2015)</b><br>独立通用模式 (General) · 学科融入模式 (Infusion)<br>学科沉浸模式 (Immersion) · 显性混合模式 (Mixed)"]
+>     end
+> ```
 
 > [!feature] 领域特异性的三大分类框架
 > - **日常判断领域分类（Judgment Domains）** [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] 将日常论辩划分为五个递进领域：个人品味、审美、价值观、社会事实、物理事实。这五个领域在接纳主观性与找回客观评价标准上呈现出截然相反的发展轨迹。

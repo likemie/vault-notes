@@ -70,7 +70,7 @@ sources:
 part_of:
 status: draft
 created: 2026-09-21
-updated: 2026-10-03
+updated: 2026-10-08
 ---
 
 # Argument_Matthews(Ed.)_2018_Springer
@@ -124,29 +124,30 @@ updated: 2026-10-03
 
 全书的四大板块与核心论证逻辑可通过如下结构流程直观呈现：
 
-```mermaid
-flowchart TD
-    Intro["编者导论：HPS&ST 传统与新前沿<br/>(Matthews)"] --> Part1["Part I: 科学、文化与教育<br/>(启蒙传统、伪科学界分与反相对主义)"]
-    Intro --> Part2["Part II: 科学教学与学习<br/>(认识论实践、自我调节与马赫启发式传统)"]
-    Intro --> Part3["Part III: 课程开发与正当性辩护<br/>(文化内容知识、四支柱整合与演化论素养)"]
-    Intro --> Part4["Part IV: 灌输与科学教育<br/>(隐性课程、权威信任与正当性灌输基准)"]
-
-    Part1 --> Ch1["Ch.1 风水与世界观责任<br/>(Matthews)"]
-    Part1 --> Ch2["Ch.2 启蒙的流行病学解析<br/>(Nola)"]
-    Part1 --> Ch3["Ch.3 土耳其启蒙传统与科学教育<br/>(Peker & Taskin)"]
-    Part1 --> Ch4["Ch.4 文化科学教育研究批判<br/>(McCarthy)"]
-
-    Part2 --> Ch5["Ch.5 微观课堂认识论实践<br/>(Kelly & Licona)"]
-    Part2 --> Ch6["Ch.6 科学本质与自我调节学习<br/>(Peters-Burton)"]
-    Part2 --> Ch7["Ch.7 自然科学教学中的心理与逻辑<br/>(Mach / Siemsen 译)"]
-
-    Part3 --> Ch8["Ch.8 科学知识作为文化范式<br/>(Galili)"]
-    Part3 --> Ch9["Ch.9 四支柱整合的能量课程设计<br/>(Lehavi & Eylon)"]
-    Part3 --> Ch10["Ch.10 演化论教学的辩护基准<br/>(Smith)"]
-
-    Part4 --> Ch11["Ch.11 隐性课程与教条灌输<br/>(Hansson)"]
-    Part4 --> Ch12["Ch.12 科学教育中的正当性灌输<br/>(Wagner)"]
-```
+> [!book-argument-map]- 全书四大板块与章节演进路线
+> ```mermaid
+> flowchart TD
+>     Intro["编者导论：HPS&ST 传统与新前沿<br/>(Matthews)"] --> Part1["Part I: 科学、文化与教育<br/>(启蒙传统、伪科学界分与反相对主义)"]
+>     Intro --> Part2["Part II: 科学教学与学习<br/>(认识论实践、自我调节与马赫启发式传统)"]
+>     Intro --> Part3["Part III: 课程开发与正当性辩护<br/>(文化内容知识、四支柱整合与演化论素养)"]
+>     Intro --> Part4["Part IV: 灌输与科学教育<br/>(隐性课程、权威信任与正当性灌输基准)"]
+> 
+>     Part1 --> Ch1["Ch.1 风水与世界观责任<br/>(Matthews)"]
+>     Part1 --> Ch2["Ch.2 启蒙的流行病学解析<br/>(Nola)"]
+>     Part1 --> Ch3["Ch.3 土耳其启蒙传统与科学教育<br/>(Peker & Taskin)"]
+>     Part1 --> Ch4["Ch.4 文化科学教育研究批判<br/>(McCarthy)"]
+> 
+>     Part2 --> Ch5["Ch.5 微观课堂认识论实践<br/>(Kelly & Licona)"]
+>     Part2 --> Ch6["Ch.6 科学本质与自我调节学习<br/>(Peters-Burton)"]
+>     Part2 --> Ch7["Ch.7 自然科学教学中的心理与逻辑<br/>(Mach / Siemsen 译)"]
+> 
+>     Part3 --> Ch8["Ch.8 科学知识作为文化范式<br/>(Galili)"]
+>     Part3 --> Ch9["Ch.9 四支柱整合的能量课程设计<br/>(Lehavi & Eylon)"]
+>     Part3 --> Ch10["Ch.10 演化论教学的辩护基准<br/>(Smith)"]
+> 
+>     Part4 --> Ch11["Ch.11 隐性课程与教条灌输<br/>(Hansson)"]
+>     Part4 --> Ch12["Ch.12 科学教育中的正当性灌输<br/>(Wagner)"]
+> ```
 
 ---
 

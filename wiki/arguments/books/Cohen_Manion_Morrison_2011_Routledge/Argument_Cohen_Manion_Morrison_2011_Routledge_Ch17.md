@@ -107,7 +107,7 @@ related_theories:
   - "[[Realist Evaluation]]"
 status: draft
 created: 2026-07-13
-updated: 2026-09-18
+updated: 2026-10-08
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17
 
@@ -118,7 +118,7 @@ updated: 2026-09-18
 
 ## 章节内容
 
-> [!logic-map] 第17章的核心知识结构
+> [!logic-map]- 第17章的核心知识结构
 > ```mermaid
 > flowchart LR
 >     A["Meta-analysis, Research<br/>Syntheses & Systematic Reviews"]

@@ -109,7 +109,7 @@ updated: 2026-10-08
 > - **另一极即威廉·狄尔泰的哲学与解释学进路** 代表历史主义与人文[[Geisteswissenschaften|精神科学]]，强调教育制度深深植根于民族历史文化土壤中，主张运用历史研究与解释学方法阐发教育现象背后的内在精神与价值关联；
 > - **教育旅行者与视学官的综合进路** [[Michael Sadler|萨德勒]]（[[Michael Sadler]]）、库赞（[[Victor Cousin]]）、阿诺德（[[Matthew Arnold]]）等人在搜集国外法律统计[[Document|文献]]的同时，高度依赖人文训练对外国学校文化开展[[Rich and Thick Description|深描]]与情境化解读，成为朱利安与狄尔泰双重进路的实践折中者。
 
-> [!logic-map] 狄尔泰对欧洲比较教育学科[[Paradigm|范式]]的奠基脉络
+> [!logic-map]- 狄尔泰对欧洲比较教育学科[[Paradigm|范式]]的奠基脉络
 > ```mermaid
 > flowchart TD
 >     A["威廉·狄尔泰 (Wilhelm Dilthey)"] -->|精神科学认识论| B["理解 (Verstehen) 与生命历史性"]

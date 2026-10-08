@@ -107,7 +107,7 @@ updated: 2026-10-08
 > - **社会环境的主体间构建（Production of Environments）** 学校规范、课堂纪律与[[Organizational Culture\|组织文化]]并非天然物理实体，而是行动者在日常交往互动中持续赋予意义、协商并再生产的产物。
 > - **把人当作人类来对待（Treating People as Humans）** [[Rom Harré\|罗姆·哈雷]]与保罗·塞考德（Harré & Secord, 1972）[[Anthropomorphic Model\|拟人化模型]]的核心基准，主张科学必须尊重行动者对其行动的理由解释（[[Accounts]]）与主观意图。
 
-> [!logic-map] 唯意志论在教育探究中的逻辑推导
+> [!logic-map]- 唯意志论在教育探究中的逻辑推导
 > ```mermaid
 > flowchart TD
 >     A["人性本体论公设<br>人具备自由意志与创造力<br>人是自身行动的自主发起者"] --> B["意义与行动维度<br>行动源于内在目的与未来期望<br>主动生产与重塑社会环境"]

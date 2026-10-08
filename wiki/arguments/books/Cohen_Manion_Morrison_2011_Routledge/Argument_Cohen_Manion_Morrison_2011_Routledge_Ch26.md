@@ -116,7 +116,7 @@ Carmel O'Sullivan 系统介绍[[Role-playing|角色扮演]]（role-playing）作
 > - **如何成功运作？** 戏剧张力、[[Self-spectator\|自观]]、保护入戏与保护入情感，加上八项设计原则与四项组织要点
 > - **证据是什么？** 三项实证研究分别检验角色扮演的效果、作为评估工具的有效性和录像回放对反思深度的作用
 
-> [!logic-map] 论证链
+> [!logic-map]- 论证链
 > ```mermaid
 > flowchart LR
 >     A[戏剧的感染力<br/>felt understanding] --> B[心理剧理论根源<br/>Moreno 1939]

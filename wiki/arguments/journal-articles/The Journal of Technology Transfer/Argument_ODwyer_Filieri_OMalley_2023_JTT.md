@@ -100,7 +100,7 @@ updated: 2026-09-16
 ---
 ## 论证结构
 
-> [!logic-map] 核心论证逻辑链
+> [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
 >     A["横截面研究无法捕捉演化动态"]

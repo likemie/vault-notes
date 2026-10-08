@@ -275,7 +275,7 @@ updated: 2026-10-08
 >   3. 应对对手双重转化挑战与克服道德撤退（Adversarial Fast-[[Tracking]] & Overcoming Moral Evasion）：警惕威权对手以国家所有者心态极速推进人脸识别与[[Autonomous Drone Swarms|自主无人机蜂群]]军用化，破除西方工程师将防务研发视为道德污点的[[Winner's Fallacy|胜者自满]]；
 >   4. 科学家与国家行政常态结盟（Executive-Scientific Institutional Liaison）：继承 1939 年[[Einstein-Szilard Letter|爱因斯坦-西拉德信函]]典范，建立顶尖前沿科学家与国家决策中枢的持续互动机制。
 
-> [!logic-map] 研究转化多场域立体联动逻辑
+> [!logic-map]- 研究转化多场域立体联动逻辑
 > ```mermaid
 > flowchart LR
 >   A["前沿科学研究发现与实验证据"] --> B["产学商业转化<br>（Ramming, 2025）"]

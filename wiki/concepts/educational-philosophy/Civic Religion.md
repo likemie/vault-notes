@@ -61,7 +61,7 @@ updated: 2026-10-08
 
 ## 构成要素与实现机制
 
-> [!logic-map] 公民宗教的三维支撑结构
+> [!logic-map]- 公民宗教的三维支撑结构
 > ```mermaid
 > flowchart TD
 >   CR["公民宗教 (Civic Religion)"]

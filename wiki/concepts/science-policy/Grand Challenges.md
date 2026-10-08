@@ -122,7 +122,7 @@ updated: 2026-10-07
 
 ## 实施路径与解构机制
 
-> [!process] 从重大挑战到技术突破的闭环解构链条
+> [!process]- 从重大挑战到技术突破的闭环解构链条
 > ```mermaid
 > flowchart LR
 >     GC["重大挑战设定<br>（Grand Challenges<br>如：创世纪20项国家挑战）"] --> BF["基准设计与问题表述<br>（Problem Formulation & CASP Benchmarks）"]

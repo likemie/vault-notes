@@ -66,7 +66,7 @@ updated: 2026-09-17
 > [!claim] 个体层（Individual）：尊重个体的自由和自主
 > 第四层是核心——尊重个人自由和自主是所有伦理考量的最终落脚点。这一原则要求研究者在所有决策中将参与者的自主性作为不可侵犯的底线（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 76–77]]）。
 
-> [!mechanism-map] 金字塔运作机制
+> [!mechanism-map]- 金字塔运作机制
 > ```mermaid
 > flowchart TB
 >   A["外部层<br/>规范·法律·守则"] --> B["后果层<br/>对个人、群体、社会的后果"]

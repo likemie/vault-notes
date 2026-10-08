@@ -117,7 +117,7 @@ updated: 2026-09-17
 > - **缺失数据诊断与敏感性规程（Missing Data Protocols）** 预先规定当[[Attrition\|样本流失]]率超过特定阈值时，采取何种缺失机制[[Hypothesis\|假设]]（MCAR, MAR, MNAR）并执行多重插补或界限分析（Bounds Analysis）。
 > - **偏离记录与备案透明度（Protocol Deviation Reporting）** 明确若在实际分析中因不可抗力必须偏离 SAP 时，必须在最终报告中设立专门章节详述偏离理由，并同时报告原 SAP 模型的基准结果。
 
-> [!logic-map] 统计分析计划（SAP）在证据生产全周期的防护机制
+> [!logic-map]- 统计分析计划（SAP）在证据生产全周期的防护机制
 > ```mermaid
 > flowchart TD
 >     A["试验立项与方案设计"] --> B["编制并公开发布详尽 SAP"]

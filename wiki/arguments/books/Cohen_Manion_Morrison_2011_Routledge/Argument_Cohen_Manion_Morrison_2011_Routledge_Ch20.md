@@ -94,7 +94,7 @@ updated: '2026-08-27'
 
 ## 章节内容
 
-> [!logic-map] 第20章的核心论证结构
+> [!logic-map]- 第20章的核心论证结构
 > ```mermaid
 > flowchart LR
 >     A["伦理前提<br/>20.1"]

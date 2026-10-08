@@ -118,7 +118,7 @@ updated: 2026-10-08
 > - **城邦政治公民性（Polites）** 拒绝将教育降格为孤立个体的私性谋生，将教化锚定在公共生活之中，使青年在城邦法律、公共议事与节庆仪式中内化对城邦正义的绝对责任。
 > - **整全人本视野（Anthropocentric [[Paradigm]]）** 将完整的人（*Anthropos*）确立为一切社会制度与知识探索的中心尺度，为后世比较教育历史学派提供了对抗工具主义与技术异化的精神资源。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
 
-> [!logic-map] 古典 Paideia 的灵魂转向与人本比较[[Epistemology\|认识论]]逻辑
+> [!logic-map]- 古典 Paideia 的灵魂转向与人本比较[[Epistemology\|认识论]]逻辑
 > ```mermaid
 > flowchart TD
 >     A["古希腊城邦哲学传统<br>（苏格拉底、柏拉图、亚里士多德）"] --> B["古典教化（Paideia）核心本体"]

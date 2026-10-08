@@ -132,31 +132,32 @@ updated: 2026-09-28
 > - **证据转化与清算枢纽** 由 NCEE 统筹监管[[What Works Clearinghouse\|有效干预清算中心]]（WWC）与[[Education Resources Information Center\|教育资源信息中心]]（Education Resources Information Center, ERIC），执行高标准的[[Evaluator Independence\|第三方独立评估]]与证据评级。
 > - **独立监督与同行评审委员会** 设立国家教育科学委员会（National Board for Education Sciences, NBES），由独立学者与公众代表组成，监督科研资助的公正性、科学严谨性与非党派属性。
 
-```mermaid
-flowchart LR
-    ED["美国教育部<br/>(U.S. Department of Education)"] --> IES["美国教育科学研究院<br/>(Institute of Education Sciences, IES)"]
-    NBES["国家教育科学委员会<br/>(NBES · 独立监督与顾问)"] -. 监督与战略审议 .-> IES
-
-    subgraph IES_CENTERS ["IES 四大常设国家研究中心"]
-        IES --> NCER["国家教育研究中心 (NCER)<br/>· 基础科研与因果实证立项<br/>· 学习科学与教学干预资助"]
-        IES --> NCES["国家教育统计中心 (NCES)<br/>· 全美教育进展评估 (NAEP)<br/>· 纵向追踪教育统计大数据"]
-        IES --> NCSER["国家特殊教育研究中心 (NCSER)<br/>· 残障儿童与全纳教育实证<br/>· 早期干预与发展支持"]
-        IES --> NCEE["国家教育评估与地区资助中心 (NCEE)<br/>· 联邦重大政策效果评估<br/>· 证据综合、清算与转化协助"]
-    end
-
-    subgraph NCEE_ENTITIES ["NCEE 下设核心转化与业务枢纽"]
-        NCEE --> WWC["有效干预清算中心<br/>(What Works Clearinghouse, WWC)"]
-        NCEE --> ERIC["教育资源信息中心 (ERIC)<br/>· 全球性教育文献数据库与索引"]
-        NCEE --> REL["区域教育实验室网络 (RELs)<br/>· 10 个跨州大区实验室<br/>· 支撑学区与州的实践伙伴网络"]
-        NCEE --> NAE["国家重大项目评估处<br/>(Title I / i3 / EIR 法定评估)"]
-    end
-
-    subgraph WWC_OUTPUTS ["WWC 证据产品与评价规程"]
-        WWC --> W1["WWC 证据审查标准与规程<br/>(Standards Handbook)<br/>· Group Design / RCT 因果认证"]
-        WWC --> W2["循证实践指南 (Practice Guides)<br/>· 操作性教学建议与专家共识"]
-        WWC --> W3["干预效果报告 (Intervention Reports)<br/>· 课程、软件与方案因果评级库"]
-    end
-```
+> [!logic-map]- 美国教育科学研究院（IES）治理架构与循证运行机制
+> ```mermaid
+> flowchart LR
+>     ED["美国教育部<br/>(U.S. Department of Education)"] --> IES["美国教育科学研究院<br/>(Institute of Education Sciences, IES)"]
+>     NBES["国家教育科学委员会<br/>(NBES · 独立监督与顾问)"] -. 监督与战略审议 .-> IES
+> 
+>     subgraph IES_CENTERS ["IES 四大常设国家研究中心"]
+>         IES --> NCER["国家教育研究中心 (NCER)<br/>· 基础科研与因果实证立项<br/>· 学习科学与教学干预资助"]
+>         IES --> NCES["国家教育统计中心 (NCES)<br/>· 全美教育进展评估 (NAEP)<br/>· 纵向追踪教育统计大数据"]
+>         IES --> NCSER["国家特殊教育研究中心 (NCSER)<br/>· 残障儿童与全纳教育实证<br/>· 早期干预与发展支持"]
+>         IES --> NCEE["国家教育评估与地区资助中心 (NCEE)<br/>· 联邦重大政策效果评估<br/>· 证据综合、清算与转化协助"]
+>     end
+> 
+>     subgraph NCEE_ENTITIES ["NCEE 下设核心转化与业务枢纽"]
+>         NCEE --> WWC["有效干预清算中心<br/>(What Works Clearinghouse, WWC)"]
+>         NCEE --> ERIC["教育资源信息中心 (ERIC)<br/>· 全球性教育文献数据库与索引"]
+>         NCEE --> REL["区域教育实验室网络 (RELs)<br/>· 10 个跨州大区实验室<br/>· 支撑学区与州的实践伙伴网络"]
+>         NCEE --> NAE["国家重大项目评估处<br/>(Title I / i3 / EIR 法定评估)"]
+>     end
+> 
+>     subgraph WWC_OUTPUTS ["WWC 证据产品与评价规程"]
+>         WWC --> W1["WWC 证据审查标准与规程<br/>(Standards Handbook)<br/>· Group Design / RCT 因果认证"]
+>         WWC --> W2["循证实践指南 (Practice Guides)<br/>· 操作性教学建议与专家共识"]
+>         WWC --> W3["干预效果报告 (Intervention Reports)<br/>· 课程、软件与方案因果评级库"]
+>     end
+> ```
 
 > [!pathways]- 业务运行机制与宏观制度杠杆
 > - **竞争性同行资助与预先注册规程** 实行高强度的同行竞争性立项评审，强制要求所有受资助的因果实证评估项目在干预前公开注册[[Hypothesis\|研究假设]]、设计与分析计划，并全程公开数据与计算脚本，遏制数据挖掘与[[Publication Bias\|发表偏倚]]。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 206)]]

@@ -80,7 +80,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-17
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 # Argument_Peterson_1987_OpenCourt
 
@@ -130,7 +130,7 @@ updated: 2026-10-07
 
 ## 全书论证地图
 
-> [!book-argument-map] 学校共同体与课程资格的两条路径在扩展中汇合
+> [!book-argument-map]- 学校共同体与课程资格的两条路径在扩展中汇合
 > ```mermaid
 > flowchart TD
 >   A["战后理解与跨国流动的教育需要"] --> B["大西洋学院：共同生活、行动与服务"]

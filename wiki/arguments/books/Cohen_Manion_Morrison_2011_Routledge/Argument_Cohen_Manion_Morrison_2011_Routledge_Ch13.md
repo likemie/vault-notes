@@ -108,7 +108,7 @@ sources:
 
 ## 章节内容
 
-> [!logic-map] [[Survey Research\|调查研究]]方法的核心知识结构
+> [!logic-map]- [[Survey Research\|调查研究]]方法的核心知识结构
 > ```mermaid
 > flowchart LR
 >     A["调查研究<br/>Survey Research<br/>14项特征 · 四种分析类型"] --> B["调查规划<br/>3项前提 · 14阶段<br/>4项考虑(Rosier)<br/>预试测 vs 试测"]

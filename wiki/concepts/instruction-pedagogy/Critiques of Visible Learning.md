@@ -184,7 +184,7 @@ updated: 2026-10-08
 
 ## 方法论批评
 
-> [!logic-map] 方法论批评结构：问题如何在各层级叠加
+> [!logic-map]- 方法论批评结构：问题如何在各层级叠加
 > ```mermaid
 > flowchart TD
 >     PS["初级研究"] --> MA["元分析"]
@@ -761,7 +761,7 @@ Nielsen & Klitmøller 的独特贡献在于：不同于 Wecker 等人（2016）�
 ## 教学理论与内容批评
 
 
-> [!logic-map] 批评结构：三路内容缺失 + 风格内部矛盾
+> [!logic-map]- 批评结构：三路内容缺失 + 风格内部矛盾
 > ```mermaid
 > flowchart LR
 >     CLAIM["VL 声称具有教学理论框架"]
@@ -800,7 +800,7 @@ Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教
 
 [[Argument_Rømer_2018_EPT|Rømer (2018)]]、[[Argument_Larsen_2019_EducSci|Larsen (2019)]] 和 Nielsen & Klitmøller (2021) 三位丹麦学者从不同角度提供了 VL 的教育哲学批判，三者构成递进关系：VL 的基本理论是什么？→ VL 能看到什么、不能看到什么？→ 为什么有严重缺陷的 VL 仍然主导政策？
 
-> [!logic-map] 批评结构：三位学者的递进追问
+> [!logic-map]- 批评结构：三位学者的递进追问
 > ```mermaid
 > flowchart LR
 >     R["Rømer 2018"]

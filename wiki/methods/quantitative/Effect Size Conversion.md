@@ -70,7 +70,7 @@ updated: 2026-09-18
 
 ## 公式推导流程与核心族系转换
 
-> [!formula-set] [[Effect Size\|效应量]]转换与正态化处理全流程
+> [!formula-set]- [[Effect Size\|效应量]]转换与正态化处理全流程
 > ```mermaid
 > flowchart LR
 >   A["原始研究数据<br/>(均值差/t值/r/OR)"] --> B["标准化均值差<br/>Cohen's d"]

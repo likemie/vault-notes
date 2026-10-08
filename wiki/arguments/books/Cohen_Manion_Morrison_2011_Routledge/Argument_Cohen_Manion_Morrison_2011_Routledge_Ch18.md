@@ -103,7 +103,7 @@ related_persons:
 related_instruments: []
 status: draft
 created: 2026-07-18
-updated: 2026-09-13
+updated: 2026-10-08
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18
 
@@ -114,7 +114,7 @@ updated: 2026-09-13
 
 ## 章节内容
 
-> [!logic-map] 第18章的核心论证结构
+> [!logic-map]- 第18章的核心论证结构
 > ```mermaid
 > flowchart LR
 >     A["定义谱系<br/>18.1–18.2"]

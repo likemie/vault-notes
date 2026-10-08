@@ -74,7 +74,7 @@ updated: 2026-06-10
 > [!abstract]
 > [[Ontology\|本体论]]共谋确立了行动者对[[Champ\|场域]]秩序的前反思认可，从而转化为在教育场域中对特定“大师品牌”和管理框架的无意识维护与制度深锁。
 
-> [!logic-map] 命题关系
+> [!logic-map]- 命题关系
 > 
 > ```mermaid
 > flowchart TD

@@ -175,13 +175,13 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-22
-updated: 2026-09-18
+updated: 2026-10-08
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10
 
 ## 概念地图
 
-> [!logic-map] 章节论证结构
+> [!logic-map]- 章节论证结构
 > ```mermaid
 > flowchart LR
 >   A["10.1 效度定义<br>效度是程度而非绝对<br>信度是效度必要非充分条件<br>二十余种效度类型全景"] --> B["10.2-10.3 量化vs质性效度<br>量化:可控、可复制、可推广<br>质性:可信、可迁移、可确认<br>Table 10.1并排对照"]
