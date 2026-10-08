@@ -3,13 +3,12 @@ title: William Blackstone
 aliases:
   - 威廉·布莱克斯通
   - 布莱克斯通
-  - William Blackstone
   - Blackstone, W.
 summary: "18 世纪英国法学家、牛津大学首位英国法讲座教授、法官；代表作《英国法释义》奠定了英美普通法体系的现代法理学基石，并确立了著名的布莱克斯通比率（宁纵十罪，不枉一无辜）。"
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 7
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -23,13 +22,15 @@ tags:
   - theme/rule-of-law
 related_concepts:
   - "[[Blackstone's Ratio]]"
-  - "[[Epistemology]]"
   - "[[Predictive Policing]]"
+  - "[[Type I and Type II Errors]]"
+  - "[[Technological Republic]]"
+  - "[[Epistemology]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Voltaire]]"
+  - "[[Alexander Hamilton]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
 related_facts: []
@@ -91,16 +92,16 @@ updated: 2026-10-08
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **宪政法治与刑事诉讼** 《英国法释义》被美国开国元勋（如约翰·亚当斯、亚历山大·汉密尔顿）奉为圭臬，直接形塑了美国宪法第五和第六修正案的权利保护架构。
-> - **科技伦理与现代执法** “布莱克斯通比率”成为当代在执法领域引入人脸识别、算法分析、[[Predictive Policing|预测性警务]]与步态识别等前沿技术时，评估算法假阳性（False Positive）与误判容忍度的核心理论标尺。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 174)]]
+> - **宪政法治与刑事诉讼** 《英国法释义》被美国开国元勋（如约翰·亚当斯、[[Alexander Hamilton|亚历山大·汉密尔顿]]）奉为圭臬，直接形塑了美国宪法第五和第六修正案的权利保护架构。
+> - **科技伦理与现代执法** “[[Blackstone's Ratio|布莱克斯通比率]]”成为当代在执法领域引入人脸识别、算法分析、[[Predictive Policing|预测性警务]]与步态识别等前沿技术时，评估算法假阳性（[[Type I and Type II Errors|false positive]]）与误判容忍度的核心理论标尺。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 174)]]
 
 ---
 
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **思想共鸣者** [[Voltaire]] — 伏尔泰在 1749 年《查第格》中主张“宁放两人不可冤一无辜”，与布莱克斯通共同构建了启蒙时代对司法误判的审慎传统。
-> - **引用与评述者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《技术共和国》第15章引述其法理名言以剖析刑事执法中技术应用、错误容忍度与公共安全救济之间的深层张力。
+> - **思想共鸣者** 伏尔泰（Voltaire） — 伏尔泰在 1749 年《查第格》中主张“宁放两人不可冤一无辜”，与布莱克斯通共同构建了启蒙时代对司法误判的审慎传统。
+> - **引用与评述者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》第15章引述其法理名言以剖析刑事执法中技术应用、错误容忍度与公共安全救济之间的深层张力。
 
 ---
 
@@ -110,4 +111,4 @@ updated: 2026-10-08
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Blackstone's Ratio]] | 概念 | 确立者，提出了“十纵一枉”的经典刑事司法与证据法认识论原则。 |
+> | [[Blackstone's Ratio]] | 概念 | 确立者，提出了“十纵一枉”的经典刑事司法与证据法[[Epistemology\|认识论]]原则。 |

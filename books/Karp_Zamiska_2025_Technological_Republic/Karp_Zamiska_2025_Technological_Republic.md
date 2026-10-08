@@ -16,6 +16,7 @@ extracted_to:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15]]"
 processed_date: 2026-10-07
 ---
 

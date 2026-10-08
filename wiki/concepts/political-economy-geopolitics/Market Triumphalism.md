@@ -3,7 +3,6 @@ title: Market Triumphalism
 aliases:
   - 市场必胜论
   - 市场万能论
-  - market triumphalism
 summary: "政治哲学家迈克尔·桑德尔提出的批判性概念；指冷战后新自由主义将道德与精神信念逐出公共广场后，由不受约束的市场逻辑全面填补公共价值真空的思潮，导致社会以商业估值替代关于何种企业与事业应当存在的实质性公共善探讨。"
 type: concept
 domain: "political-economy-geopolitics"
@@ -17,13 +16,14 @@ tags:
   - theme/market-morality
   - theme/public-philosophy
 related_concepts:
-  - "[[Technological Republic]]"
+  - "[[Discourse]]"
   - "[[Technological Agnosticism]]"
-  - "[[Consumer Internet]]"
   - "[[Innovation Desert]]"
-  - "[[Wisdom of Crowds]]"
-related_theories: []
-related_methods: []
+  - "[[Consumer Internet]]"
+related_theories:
+  - "[[Pluralism]]"
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Michael Sandel]]"
@@ -45,21 +45,21 @@ updated: 2026-10-08
 ## 定义
 
 > [!def] 核心定义
-> 市场必胜论（Market Triumphalism）指 20 世纪末冷战结束以来在西方社会占据统治地位的政治经济学思潮；该思潮主张公共话语应当保持绝对的道德中立，要求公民在进入公共广场时放下实质性的道德与精神信念，进而使市场交换与价格机制从单纯配置资源的经济工具演变为裁决社会价值与塑造公共生活的终极裁判。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 171–173)]]
+> 市场必胜论（Market Triumphalism）指 20 世纪末冷战结束以来在西方社会占据统治地位的政治经济学思潮；该思潮主张公共[[Discourse|话语]]应当保持绝对的道德中立，要求公民在进入公共广场时放下实质性的道德与精神信念，进而使市场交换与价格机制从单纯配置资源的经济工具演变为裁决社会价值与塑造公共生活的终极裁判。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 171–173)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示市场逻辑对公共道德、教育、医疗、国家安全与技术创新方向的全面侵蚀与替代。
 > - **用途** 诊断为何科技界与公共政策制定者主动放弃对“何种企业应当存在、社会资本应流向何方”进行价值反思，而是将商业成功与用户点击等同于社会善。
 > - **边界** 区别于对常规商品进行供需匹配的健康市场经济；市场必胜论特指将市场机制扩张至其不适用的道德、伦理与战略公共品领域。
 
-> [!citation-card] 桑德尔论公共道德真空与市场必胜论的泛滥
+> [!citation-card] [[Michael Sandel|桑德尔]]论公共道德真空与市场必胜论的泛滥
 > 我们如此急于将善的生活观念逐出公共话语，要求公民在进入公共广场时把道德和精神信念抛在身后，以至于留下的真空在很大程度上被市场的逻辑——即市场必胜论所填补。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 172)]]; (Sandel, 2012, pp. 12–13)
 >
 > *We have been so eager "to banish notions of the good life from public discourse," to require that "citizens leave their moral and spiritual convictions behind when they enter the public square," that the void left behind has been filled in large part by the logic of the market—what Sandel has described as "market triumphalism."*
 
 > [!boundary]- 概念边界
 > - 不等于市场经济制度（Market Economy） — 市场经济是组织商品生产与分配的工具性制度安排；市场必胜论是将市场价值上升为衡量一切人类生活与公共事业合法性的单一意识形态。
-> - 不等于古典自由放任主义（Laissez-faire） — 古典主义侧重限制国家权力；市场必胜论则是现代多元主义文化逃避实质道德论争后，由资本逻辑主动占据公共话语中枢。
+> - 不等于古典自由放任主义（Laissez-faire） — 古典主义侧重限制国家权力；市场必胜论则是现代[[Pluralism|多元主义]]文化逃避实质道德论争后，由资本逻辑主动占据公共话语中枢。
 
 ---
 
@@ -92,8 +92,8 @@ updated: 2026-10-08
 > [!concept-lens] 政治哲学与公共理性
 > 探讨自由主义程序中立对公共精神生活的削弱机制。
 
-> [!claim] Sandel, M. J.
-> **道德中立导致价值裁判让渡给市场** 迈克尔·桑德尔指出，当代政治话语普遍要求公民将实质性道德承诺留在私人领域，这种刻意维持的公共中立并未带来理性的公共生活，反而使原本需要经由民主论辩确立的公共善观念被无情的市场逻辑所取代，使金钱与市场交换侵蚀了非市场领域的伦理底线。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 172)]]
+> [!claim] [[Michael Sandel|Sandel, M. J.]]
+> **道德中立导致价值裁判让渡给市场** 迈克尔·桑德尔指出，当代政治[[Discourse|话语]]普遍要求公民将实质性道德承诺留在私人领域，这种刻意维持的公共中立并未带来理性的公共生活，反而使原本需要经由民主论辩确立的公共善观念被无情的市场逻辑所取代，使金钱与市场交换侵蚀了非市场领域的伦理底线。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 172)]]
 
 ---
 
@@ -102,7 +102,7 @@ updated: 2026-10-08
 > [!concept-lens] 产业创新与国家战略
 > 阐释科技资本在市场逻辑诱导下放弃硬核公共治理领域的机制。
 
-> [!claim] Karp, A. C., & Zamiska, N. W.
+> [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
 > **消费级技术逃避主义与公共荒漠化** 亚历山大·卡普与尼古拉斯·扎米斯卡论证指出，硅谷对“市场智慧”的温顺臣服构成了其技术逃避主义的遮羞布。由于服务消费者（如社交游戏、折扣聚合与外卖平台）既利润丰厚又无需面对公众听证与政治争议，科技资本在市场必胜论的引导下将巨额资源投入微不足道的琐碎便利，而将国家防务、暴力犯罪、医疗攻关与教育改革等复杂公共难题判定为不具商业吸引力的禁区，最终在全国关键治理领域制造了广泛的[[Innovation Desert|创新荒漠]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 172–173)]]
 
 ---
@@ -119,5 +119,5 @@ updated: 2026-10-08
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|Karp & Zamiska (2025)]] — 借助桑德尔的市场必胜论理论，深刻剖析硅谷向消费互联网退缩与关键公共部门陷入创新荒漠的深层意识形态根源。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|Karp & Zamiska (2025)]] — 借助[[Michael Sandel|桑德尔]]的市场必胜论理论，深刻剖析硅谷向[[Consumer Internet|消费互联网]]退缩与关键公共部门陷入[[Innovation Desert|创新荒漠]]的深层意识形态根源。

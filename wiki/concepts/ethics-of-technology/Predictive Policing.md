@@ -3,7 +3,6 @@ title: Predictive Policing
 aliases:
   - 预测性警务
   - 预测警务
-  - predictive policing
 summary: "运用大数据融合、态势感知软件与人工智能算法整合多源异构线索、识别暴力犯罪网络与优化警力调配的现代治安治理范式；在反恐与打击涉枪暴力中展现出显著效能，但同时在民权保护、程序正义与算法偏见审查方面引发持续的宪政与伦理争辩。"
 type: concept
 domain: "ethics-of-technology"
@@ -18,18 +17,18 @@ tags:
   - theme/civil-liberties
   - theme/criminal-justice
 related_concepts:
-  - "[[Blackstone's Ratio]]"
-  - "[[Luxury Belief]]"
-  - "[[Engineering Mindset]]"
-  - "[[Technological Republic]]"
-  - "[[Hard Power]]"
+  - "[[Paradigm]]"
+  - "[[Meaningful Human Control]]"
+  - "[[Document]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Network Analysis]]"
+  - "[[Audit Trail]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
-  - "[[William Blackstone]]"
 related_facts:
   - "[[Palantir Technologies]]"
 related_arguments:
@@ -47,10 +46,10 @@ updated: 2026-10-08
 ## 定义
 
 > [!def] 核心定义
-> 预测性警务（Predictive Policing）指执法机关运用先进大数据集成平台、地理空间态势感知与人工智能（[[Generative Artificial Intelligence|AI]]）算法，对历史犯罪数据、涉案枪支网络、被害人与嫌疑人关联线索进行深度交叉比对与因果挖掘，从而在空间上精准预判高危暴力犯罪发生区域、在关系网络上快速识别犯罪团伙架构并优化警力调配的现代公共安全治理范式。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 173–175)]]
+> 预测性警务（Predictive Policing）指执法机关运用先进大数据集成平台、地理空间态势感知与人工智能（AI）算法，对历史犯罪数据、涉案枪支网络、被害人与嫌疑人关联线索进行深度交叉比对与因果挖掘，从而在空间上精准预判高危暴力犯罪发生区域、在关系网络上快速识别犯罪团伙架构并优化警力调配的现代公共安全治理[[Paradigm|范式]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 173–175)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 将战场情报融合与复杂网络分析技术降维应用于城市公共治安，解决治安线索碎片化与多源数据割裂困境。
+> - **含义** 将战场情报融合与复杂[[Network Analysis|网络分析]]技术降维应用于城市公共治安，解决治安线索碎片化与多源数据割裂困境。
 > - **用途** 提高地方警方侦破枪击案与打掉黑恶势力的效率，降低恶性犯罪率，保障一线社区居民生命安全。
 > - **边界** 必须受到宪法第四修正案与严格司法程序的规约，防范将算法模型直接转化为缺乏独立证据的定罪工具。
 
@@ -81,8 +80,8 @@ updated: 2026-10-08
 > [!feature] 核心要素
 > - **多源异构数据融合（Multi-Source Data Integration）** 将原本孤立分布于各部门的涉枪记录、车辆轨迹、通话关联与现场勘验数据整合至统一底层本体。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 174–175)]]
 > - **暴力网络链路发现（Criminal Network Linkage）** 识别复杂犯罪集团内部层级、枪支流转路径与潜在报复性冲突节点。
-> - **合规与审计跟踪（Compliance and Auditability）** 设立细粒度访问权限控制，确保每一次线索调阅均有据可查并符合法定授权程序。
-> - **算法与警力协同（Human-in-the-Loop Deployment）** 坚持人机协作原则，由具有一线经验的刑侦警官对算法线索进行审慎核实与专业裁决。
+> - **合规与[[Audit Trail|审计跟踪]]（Compliance and Auditability）** 设立细粒度访问权限控制，确保每一次线索调阅均有据可查并符合法定授权程序。
+> - **算法与警力协同（[[Meaningful Human Control|Human-in-the-Loop]] Deployment）** 坚持人机协作原则，由具有一线经验的刑侦警官对算法线索进行审慎核实与专业裁决。
 
 ---
 
@@ -95,7 +94,7 @@ updated: 2026-10-08
 > [!concept-lens] 治安治理效能与技术工具
 > 探讨数据集成分析在打击复杂有组织犯罪与保护平民生命中的决定性价值。
 
-> [!claim] Karp, A. C., & Zamiska, N. W.
+> [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
 > **数据中枢重塑基层治安打击效能** 亚历山大·卡普与尼古拉斯·扎米斯卡指出，现代城市暴力犯罪往往由资金雄厚、组织严密的黑恶团伙实施；警方面临的核心瓶颈并非缺乏线索，而是缺乏能够连接信息孤岛的软件中枢。[[Palantir Technologies|帕兰提尔]]将战区反简易爆炸装置（IED）的 Gotham 平台应用于新奥尔良警方后，证明了先进数据架构能够高效穿透受害人、嫌疑人与证人间的复杂网络，为拯救无辜平民生命提供了至关重要的技术支撑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 174–175)]]
 
 ---
@@ -113,7 +112,7 @@ updated: 2026-10-08
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
 > |:---|:---|:---|:---|
 > | **治安效能赋能** | 数据中枢与算法集成能显著提升对复杂犯罪网络的侦破效能 | 涉枪暴力治理、反恐侦查、新奥尔良警务改革 | [[Alexander Karp]] & [[Nicholas Zamiska]] (2025); Sledge & Vargas (2018) |
 > | **技术避险批判** | 彻底抵制警务科技是转嫁治理成本、漠视受害者生命权的虚伪表态 | 科技企业社会责任、民权争论、司法政策制定 | [[Alexander Karp]] & [[Nicholas Zamiska]] (2025); Stanley (2018) |
@@ -127,12 +126,12 @@ updated: 2026-10-08
 > > [!axis] 民权自由保障 vs 恶性犯罪预防
 > > 围绕大数据与 AI 算法应用于刑事侦查中的宪法边界展开激烈辩论。
 > >
-> > - **美国公民自由联盟（ACLU, 2018）** 批评数据警务加剧了对特定弱势群体的无端针对与种族偏见放大，严重威胁公民自由。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 175–176)]]
+> > - **美国公民自由联盟（ACLU, 2018）** 批评数据警务加剧了对特定弱势群体的无端针对与种族偏见放大，严重威胁公民自由。
 > > - **卡普与扎米斯卡（2025）** 强调防范技术滥用固然是系统设计的根本前提，但不能以此为由在挽救每年数以千计死于枪击的底层生命面前无所作为。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 175–176)]]
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|Karp & Zamiska (2025)]] — 详述帕兰提尔在新奥尔良的预测性警务实践及由此引发的全国性科技与司法伦理大论战。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|Karp & Zamiska (2025)]] — 详述[[Palantir Technologies|帕兰提尔]]在新奥尔良的预测性警务实践及由此引发的全国性科技与司法伦理大论战。
