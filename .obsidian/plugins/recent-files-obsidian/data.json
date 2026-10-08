@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Cognitive Decoupling",
-      "path": "wiki/concepts/educational-philosophy/Cognitive Decoupling.md"
+      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch08",
+      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch08.md"
+    },
+    {
+      "basename": "Technological Agnosticism",
+      "path": "wiki/concepts/ethics-of-technology/Technological Agnosticism.md"
+    },
+    {
+      "basename": "Steve Jobs",
+      "path": "wiki/persons/us/Steve Jobs.md"
     },
     {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch07",
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch07.md"
+    },
+    {
+      "basename": "Cognitive Decoupling",
+      "path": "wiki/concepts/educational-philosophy/Cognitive Decoupling.md"
     },
     {
       "basename": "Culture of Disbelief",
@@ -35,10 +47,6 @@
     {
       "basename": "Aristotle",
       "path": "wiki/persons/greece/Aristotle.md"
-    },
-    {
-      "basename": "Technological Agnosticism",
-      "path": "wiki/concepts/ethics-of-technology/Technological Agnosticism.md"
     },
     {
       "basename": "Historical Amnesia",
@@ -191,14 +199,6 @@
     {
       "basename": "Sébastien Bubeck",
       "path": "wiki/persons/france/Sébastien Bubeck.md"
-    },
-    {
-      "basename": "Other Transaction Authority",
-      "path": "wiki/concepts/science-policy/Other Transaction Authority.md"
-    },
-    {
-      "basename": "Herbert A. Simon",
-      "path": "wiki/persons/us/Herbert A. Simon.md"
     }
   ],
   "omittedPaths": [],

@@ -8,7 +8,7 @@ summary: "法国社会学家，场域-习性-资本理论创立者与区分作�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 47
+person_related_count: 48
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -77,7 +77,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Pierre Bourdieu

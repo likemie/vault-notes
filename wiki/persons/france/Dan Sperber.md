@@ -8,7 +8,7 @@ summary: "法国认知科学家与哲学家，关联理论与认识论警觉理�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Dan Sperber

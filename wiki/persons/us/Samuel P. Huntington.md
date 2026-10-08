@@ -9,7 +9,7 @@ summary: "美国著名政治学家，哈佛大学教授，文明冲突论与现�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 5
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"

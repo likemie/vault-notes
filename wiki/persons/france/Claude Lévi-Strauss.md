@@ -9,7 +9,7 @@ summary: "法国人类学家、哲学家，结构主义人类学奠基人，法�
 type: person
 nationality: "france"
 person_region: "france"
-person_related_count: 9
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

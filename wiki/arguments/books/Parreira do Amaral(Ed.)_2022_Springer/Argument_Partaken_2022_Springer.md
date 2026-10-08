@@ -9,7 +9,7 @@ title: "Argument_Partaken_2022_Springer"
 argument_key: "Argument_Partaken_2022_Springer"
 argument_display_title: "Two faces of geopolitics of knowledge"
 argument_kind: "book"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -80,7 +80,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-10'
-updated: 2026-09-18
+updated: 2026-10-08
 year: 2022
 doi: ""
 citation_aliases:

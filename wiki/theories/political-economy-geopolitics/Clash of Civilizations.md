@@ -7,10 +7,10 @@ aliases:
 summary: "塞缪尔·亨廷顿提出的地缘政治理论，主张冷战后人类冲突的核心根源不再是意识形态或经济，而是文化与文明的断层线；将世界划分为七至八个主要文明板块，并预言伊斯兰与儒家文明对西方霸权的挑战；卡普与扎米斯卡进一步指出，学术界对该简化模型的全盘抵制产生了严重的副作用，导致关于文化在国际关系、经济产出与国家能力中实质作用的严肃探讨在高校中沦为学术禁区。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 17
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 25
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 domain: "political-economy-geopolitics"
 tags:
   - theory/geopolitics
@@ -166,7 +166,7 @@ updated: 2026-10-08
 > > 围绕如何对待文明冲突论的理论缺陷展开争论。
 > >
 > > - **后现代解构派（Appiah, 2016）** 认为西方文明本身就是后验发明的神话，应彻底解构文明冲突话语。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85, 89–90)]]
-> > - **技术战略现实主义派（Karp & Zamiska, 2025）** 认为虽然反对其简单化划分，但绝不能因噎废食放弃对文化与国家制度力量的严肃求真探讨。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85–86)]]
+> > - **技术战略现实主义派（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）** 认为虽然反对其简单化划分，但绝不能因噎废食放弃对文化与国家制度力量的严肃求真探讨。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85–86)]]
 
 > [!critique]- 批评索引
 > - Said (2001) — 指责文明冲突论掩盖了地缘政治中的霸权利益，将复杂的政治经济矛盾转嫁为虚构的文化敌对。

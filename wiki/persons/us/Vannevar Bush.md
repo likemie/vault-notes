@@ -228,6 +228,7 @@ updated: 2026-10-08
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025, Ch. 1)]] — 专著《[[Technological Republic|技术共和国]]》第一章，探讨二战 [[Office of Scientific Research and Development|OSRD]] 与冷战初期硅谷崛起中布什所确立的国家安全与前沿科研紧密结盟的动员体制。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025, Ch. 4)]] — 专著第四章，对比布什时期对深层物理突破的攻坚与当代“[[Big Idea Famine|大构想饥荒]]”的避险异化，呼唤重振国家重大工程动员机制与创设技术和平队。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Karp & Zamiska (2025, Ch. 8)]] — 专著第八章，对比布什终其一生将科技作为推进国家大战略的传统，剖析 1970 年代个人计算与反文化革命如何走向与国家权力的对立，最终退缩至消费互联网。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 2026 年白宫战略报告，全面对照 1945 年[[Science, The Endless Frontier 1945|布什报告]]，肯定其公共资助核心，同时宣告单向管道终结，提出四大支柱与 2028 财年研发预算优先序。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 系统剖析布什《科学——无止境的边疆》所确立的三大制度性承诺，揭示 2025 年起美国科技政策实践启动对布什契约的退出、以及向技术能力导向型契约的深刻转型。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 系统反思并批判布什报告在战后制度化的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]，提出[[Discovery-Invention Cycle|发现-发明循环]]理论。

@@ -11,7 +11,7 @@ subtype: organization
 region: europe
 fact_region: "europe"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -42,7 +42,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-01
+updated: 2026-10-08
 ---
 
 # Mediterranean Society of Comparative Education

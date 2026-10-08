@@ -6532,6 +6532,28 @@
     ]
   },
   {
+    "title": "Counterculture Computing",
+    "type": "concept",
+    "path": "wiki/concepts/ethics-of-technology/Counterculture Computing.md",
+    "aliases": [
+      "反文化计算",
+      "反文化计算机革命",
+      "countercultural computing",
+      "counterculture computer revolution"
+    ]
+  },
+  {
+    "title": "Hacker Ethic",
+    "type": "concept",
+    "path": "wiki/concepts/ethics-of-technology/Hacker Ethic.md",
+    "aliases": [
+      "黑客伦理",
+      "黑客精神",
+      "Hacker Ethos",
+      "hacker ethics"
+    ]
+  },
+  {
     "title": "Moral Dualism",
     "type": "concept",
     "path": "wiki/concepts/ethics-of-technology/Moral Dualism.md",
@@ -8452,6 +8474,16 @@
       "古典地缘政治",
       "传统地缘政治",
       "Traditional Geopolitics"
+    ]
+  },
+  {
+    "title": "Consumer Internet",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Consumer Internet.md",
+    "aliases": [
+      "消费互联网",
+      "consumer internet industry",
+      "consumer technology"
     ]
   },
   {
@@ -24140,6 +24172,16 @@
     ]
   },
   {
+    "title": "Lee Felsenstein",
+    "type": "person",
+    "path": "wiki/persons/us/Lee Felsenstein.md",
+    "aliases": [
+      "李·费尔森斯坦",
+      "L. Felsenstein",
+      "Felsenstein, L."
+    ]
+  },
+  {
     "title": "Leo Szilard",
     "type": "person",
     "path": "wiki/persons/us/Leo Szilard.md",
@@ -24645,6 +24687,17 @@
     ]
   },
   {
+    "title": "Steve Jobs",
+    "type": "person",
+    "path": "wiki/persons/us/Steve Jobs.md",
+    "aliases": [
+      "史蒂夫·乔布斯",
+      "史蒂文·保罗·乔布斯",
+      "Steven Paul Jobs",
+      "Jobs, S. P."
+    ]
+  },
+  {
     "title": "Steven Brint",
     "type": "person",
     "path": "wiki/persons/us/Steven Brint.md",
@@ -24653,6 +24706,16 @@
       "布林特",
       "S. Brint",
       "Brint, S."
+    ]
+  },
+  {
+    "title": "Steven Levy",
+    "type": "person",
+    "path": "wiki/persons/us/Steven Levy.md",
+    "aliases": [
+      "史蒂文·利维",
+      "S. Levy",
+      "Levy, S."
     ]
   },
   {
@@ -24689,6 +24752,16 @@
       "James Stigler",
       "The Learning Gap",
       "学习鸿沟"
+    ]
+  },
+  {
+    "title": "Stewart Brand",
+    "type": "person",
+    "path": "wiki/persons/us/Stewart Brand.md",
+    "aliases": [
+      "斯图尔特·布兰德",
+      "S. Brand",
+      "Brand, S."
     ]
   },
   {
@@ -30725,6 +30798,16 @@
     ]
   },
   {
+    "title": "Homebrew Computer Club",
+    "type": "fact",
+    "path": "wiki/facts/us/Homebrew Computer Club.md",
+    "aliases": [
+      "家酿计算机俱乐部",
+      "自制计算机俱乐部",
+      "Homebrew Club"
+    ]
+  },
+  {
     "title": "House Committee on Education and the Workforce",
     "type": "fact",
     "path": "wiki/facts/us/House Committee on Education and the Workforce.md",
@@ -32584,6 +32667,16 @@
     ]
   },
   {
+    "title": "Whole Earth Catalog",
+    "type": "fact",
+    "path": "wiki/facts/us/Whole Earth Catalog.md",
+    "aliases": [
+      "全球概览",
+      "全球目录",
+      "WEC"
+    ]
+  },
+  {
     "title": "Simon Bolivar United World Institute of Experimental Agriculture",
     "type": "fact",
     "path": "wiki/facts/venezuela/Simon Bolivar United World Institute of Experimental Agriculture.md",
@@ -32956,6 +33049,11 @@
     "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch07",
     "type": "argument",
     "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch07.md"
+  },
+  {
+    "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch08",
+    "type": "argument",
+    "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch08.md"
   },
   {
     "title": "Argument_Kelly_Licona_2018_EpistemicPractices",

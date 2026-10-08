@@ -141,6 +141,9 @@ updated: 2026-10-08
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
 > **[[Canon Wars|经典之争]]留存的道德真空驱动科技精英脱嵌** 20世纪60至70年代欧美顶尖高校（如1968年斯坦福大学课程改革）全面废除西方文明核心必修课，旧有的正典大纲被拆解，但未能确立任何具有向心力的替代性共同价值。成长于这一时期的计算机革命奠基者对国家的合法性与历史大叙事深感幻灭，进而将技术抱负全面内卷至个人消费品开发与纯粹代码创造，形成了对国家防卫与政治使命漠不关心的“技术不可知论”。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 83–84, 95–96)]]
 
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> **反文化反体制哲学向消费互联网的异化堕落** 早期个人计算先驱（如[[Lee Felsenstein|费尔森斯坦]]、[[Stewart Brand|布兰德]]）受 1960 年代反文化运动影响，将政府与大企业官僚体系定性为压制探索冲动的“缺陷系统”（[[Hacker Ethic|黑客伦理]]），试图以个人电脑赋予个体抵抗国家的工具；但当国家共同体认同“我们”被彻底解构后，[[Steve Jobs|乔布斯]]开创的亲密个人产品哲学迅速被资本主义消费市场收编，演化为完全放弃公共政治抱负、以唯利是图为导向的[[Consumer Internet|消费互联网]]，最终将技术不可知论固化为整个高科技产业的默认行为规范。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 97–102)]]
+
 ---
 
 ### 命题三　剥离价值判断的工程主义使技术人才沦为他人政治算计与商业资本的工具
@@ -159,7 +162,7 @@ updated: 2026-10-08
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **责任逃避命题** | 不可知论是科技巨头享受公共红利却逃避防卫义务的借口 | 硅谷大型科技平台、军民融合防务争议 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025)]]; Eisenhower (1961) |
-> | **教育发生学命题** | 通识正典与国家信念瓦解导致科技精英退守纯粹工程与消费主义 | 高等[[General Education\|通识教育]]改革、硅谷文化溯源 | 同上 |
+> | **教育与反文化溯源命题** | 通识正典瓦解与反体制黑客伦理导致科技精英退守消费互联网与不可知论 | 高等[[General Education\|通识教育]]改革、反文化计算与硅谷产业变迁 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025)]]; [[Stewart Brand\|Brand (1995)]]; [[Steven Levy\|Levy (1984)]] |
 > | **心智异化命题** | 剥离价值决断的纯工程训练导致技术专家主体性丧失与工具化 | [[Engineering Education\|高等工程教育]]、科技伦理审查 | 同上 |
 
 ---
@@ -193,5 +196,6 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Karp & Zamiska (2025)]] 第6章 — 系统界定技术不可知论的文化成因、组织表现与政治危害。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|第7章]] — 深度揭示战后大学[[Western Civilization Course|西方文明课]]程瓦解与[[Canon Wars|经典之争]]留下的道德真空，如何促使技术先驱全面撤退至消费主义与不可知论。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Karp & Zamiska (2025, pp. 69–82)]] — 系统界定技术不可知论的文化成因、组织表现与政治危害。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp & Zamiska (2025, pp. 83–96)]] — 深度揭示战后大学[[Western Civilization Course|西方文明课]]程瓦解与[[Canon Wars|经典之争]]留下的道德真空，如何促使技术先驱全面撤退至消费主义与不可知论。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Karp & Zamiska (2025, pp. 97–102)]] — 剖析 1970 年代反文化运动与黑客伦理如何将政府定性为“缺陷系统”，最终演变为空洞化的消费互联网与技术不可知论。

@@ -7,7 +7,7 @@ aliases:
 summary: "以国家为中心、将空间视为可占有客观地理实体的传统地缘政治范式，以社会有机体论为理论基石，关注领土控制、军事力量和硬实力竞争"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

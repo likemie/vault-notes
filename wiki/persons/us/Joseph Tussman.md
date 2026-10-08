@@ -6,7 +6,7 @@ summary: "美国哲学家、教育理论家，加州大学伯克利分校哲学�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 9
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
