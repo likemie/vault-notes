@@ -6,10 +6,10 @@ aliases:
 summary: "英国人类学家高尔顿通过 1906 年普利茅斯家畜市集估重实验开创的集体智能概念；指出在个体独立判断且信息分散的情境下，群体估计的中位数或均值往往比少数专家的离散预测更为精准；当代反思则指出将其泛化至市场资本配置容易诱发对消费泡沫的盲从。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 18
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/political-economy
   - theme/collective-intelligence

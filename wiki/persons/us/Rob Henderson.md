@@ -8,10 +8,10 @@ summary: "美国社会学者、作家与公共知识分子，剑桥大学心理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 6
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1990"
 lifespan: "1990–至今"
 tags:

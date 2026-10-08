@@ -8,10 +8,10 @@ summary: "英国维多利亚时代著名博学家、人类学家与统计学先�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 5
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1822"
 died: "1911"
 lifespan: "1822–1911"

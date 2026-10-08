@@ -8,10 +8,10 @@ aliases:
 summary: "英国法学家威廉·布莱克斯通在《英国法释义》中确立的刑事司法经典认识论原则（宁可放过十个罪犯，不可冤枉一个无辜）；体现了刑法对误判无辜的极端零容忍态度，并构成当代在执法中应用人工智能与监控技术时权衡误伤风险与公共安全效能的基准伦理框架。"
 type: concept
 domain: "ethics-of-technology"
-related_count: 7
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/jurisprudence
   - theme/criminal-justice

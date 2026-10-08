@@ -8,10 +8,10 @@ summary: "18 世纪英国法学家、牛津大学首位英国法讲座教授、�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 6
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 9
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1723"
 died: "1780"
 lifespan: "1723–1780"
