@@ -6,7 +6,7 @@ aliases:
 summary: "指在解决高度复杂现实危机与工程挑战过程中形成的一种以实战结果、系统演化、敏捷协作与权责对称机制为核心的组织文化与协同范式；在卡普与扎米斯卡（2025）的论证中，工程思维是互联网泡沫破裂与软件世纪洗礼后留下的最具颠覆性的组织制度遗产，它超越了官僚体制的避险合规与金融投机，构成了重塑西方公共治理与重建技术共和国的核心组织基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 67
+related_count: 68
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Pecking Order]]"
   - "[[Hypothesis]]"
   - "[[Epoché]]"
+  - "[[Founder Culture]]"
   - "[[Predictive Policing]]"
   - "[[Blackstone's Ratio]]"
   - "[[Man-Computer Symbiosis]]"
@@ -246,7 +247,7 @@ updated: 2026-10-08
 ### 命题七　工程思维的实效伦理与创始人文化构成了打破表演性道德主义、跨越公共创新荒漠的核心驱动力
 
 > [!concept-lens] 公共治理实效伦理与制度行动力维度
-> 阐释工程思维如何以解决真实世界物理苦难为唯一伦理准绳，打破特权阶层的空头道德姿态，将创始人文化引入公共机构以根除治理停滞。
+> 阐释工程思维如何以解决真实世界物理苦难为唯一伦理准绳，打破特权阶层的空头道德姿态，将[[Founder Culture|创始人文化]]引入公共机构以根除治理停滞。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
 > **实效伦理与创始人文化跨越荒漠断言** 亚历山大·卡普与尼古拉斯·扎米斯卡论证指出，工程思维在公共治理中的核心价值在于确立了以**客观实效**为最高准绳的行动伦理：

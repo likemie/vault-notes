@@ -5,7 +5,7 @@ aliases:
 summary: "指国家战略力量、公共福利与民主制度合法性同前沿科技研发与软件工程实力深度绑定的政治经济体制形态。强调国家战略导向与科技工程共同体的深度互信与协同动员，以软件硬实力与人工智能威慑替代原子时代的工业化防御，破解同盟盆景军队、大构想饥荒与创新荒漠，并依托文明历史叙事实质锚定与认知脱钩求真能力，重构自由民主政体的地缘优势与社会治理效能。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 88
+related_count: 89
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -62,6 +62,7 @@ related_concepts:
   - "[[Status Transactions]]"
   - "[[Shadow Hierarchy]]"
   - "[[Meeting-Industrial Complex]]"
+  - "[[Founder Culture]]"
   - "[[Wisdom of Crowds]]"
   - "[[Predictive Policing]]"
   - "[[Document]]"
@@ -410,7 +411,7 @@ updated: 2026-10-08
 ### 命题十四　重塑所有权社会与创始人文化以消灭公共创新荒漠并恢复民主实效
 
 > [!concept-lens] 制度治理哲学与公共部门创新动力学维度
-> 阐释技术共和国如何通过重振“创始人文化”与实质所有权社会，破除科技界消费主义逃避与体制内政治犬儒主义，将工程师直面现实的求真伦理引入公共治理核心。
+> 阐释技术共和国如何通过重振“[[Founder Culture|创始人文化]]”与实质所有权社会，破除科技界消费主义逃避与体制内政治犬儒主义，将工程师直面现实的求真伦理引入公共治理核心。
 
 > [!claim] Karp, Zamiska & Sandel (2025/2012)
 > **所有权社会与创始人文化破除创新荒漠断言** 亚历山大·卡普与尼古拉斯·扎米斯卡结合[[Michael Sandel|迈克尔·桑德尔]]（[[Michael Sandel]]）对市场凯旋主义的批判指出，仅靠自由市场[[Wisdom of Crowds|群体智慧]]（[[Wisdom of Crowds]]）无法自发解决公共领域的资本错配与[[Innovation Desert|创新荒漠]]：

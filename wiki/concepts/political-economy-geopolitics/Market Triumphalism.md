@@ -6,7 +6,7 @@ aliases:
 summary: "政治哲学家迈克尔·桑德尔提出的批判性概念；指冷战后新自由主义将道德与精神信念逐出公共广场后，由不受约束的市场逻辑全面填补公共价值真空的思潮，导致社会以商业估值替代关于何种企业与事业应当存在的实质性公共善探讨。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Technological Agnosticism]]"
   - "[[Innovation Desert]]"
+  - "[[Technological Escapism]]"
   - "[[Consumer Internet]]"
 related_theories:
   - "[[Pluralism]]"
@@ -79,7 +80,7 @@ updated: 2026-10-08
 > [!feature] 核心要素
 > - **公共道德的祛魅与驱逐（Banishment of Moral Convictions）** 现代自由主义因害怕争议而将关于“崇高生活”的哲学探讨排斥在公共决策之外。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 172)]]
 > - **市场价值的僭越替代（Value Colonization）** 资本市场的短期价格信号与消费热潮被误认为是社会最高理性的表达。
-> - **科技精英的不可知论避险（Technological Escapism）** 硅谷领袖顺从市场逻辑，以服务消费者（在线购物、外卖游戏）替代服务公共利益（国防、治安、教育）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 172–173)]]
+> - **科技精英的不可知论避险（[[Technological Escapism]]）** 硅谷领袖顺从市场逻辑，以服务消费者（在线购物、外卖游戏）替代服务公共利益（国防、治安、教育）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 172–173)]]
 
 ---
 
@@ -103,7 +104,7 @@ updated: 2026-10-08
 > 阐释科技资本在市场逻辑诱导下放弃硬核公共治理领域的机制。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
-> **消费级技术逃避主义与公共荒漠化** 亚历山大·卡普与尼古拉斯·扎米斯卡论证指出，硅谷对“市场智慧”的温顺臣服构成了其技术逃避主义的遮羞布。由于服务消费者（如社交游戏、折扣聚合与外卖平台）既利润丰厚又无需面对公众听证与政治争议，科技资本在市场必胜论的引导下将巨额资源投入微不足道的琐碎便利，而将国家防务、暴力犯罪、医疗攻关与教育改革等复杂公共难题判定为不具商业吸引力的禁区，最终在全国关键治理领域制造了广泛的[[Innovation Desert|创新荒漠]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 172–173)]]
+> **[[Technological Escapism|消费级技术逃避主义]]与公共荒漠化** 亚历山大·卡普与尼古拉斯·扎米斯卡论证指出，硅谷对“市场智慧”的温顺臣服构成了其技术逃避主义的遮羞布。由于服务消费者（如社交游戏、折扣聚合与外卖平台）既利润丰厚又无需面对公众听证与政治争议，科技资本在市场必胜论的引导下将巨额资源投入微不足道的琐碎便利，而将国家防务、暴力犯罪、医疗攻关与教育改革等复杂公共难题判定为不具商业吸引力的禁区，最终在全国关键治理领域制造了广泛的[[Innovation Desert|创新荒漠]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 172–173)]]
 
 ---
 

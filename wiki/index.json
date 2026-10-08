@@ -8836,6 +8836,17 @@
     ]
   },
   {
+    "title": "Founder Culture",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Founder Culture.md",
+    "aliases": [
+      "创始人文化",
+      "创业者文化",
+      "创始人精神",
+      "ownership society"
+    ]
+  },
+  {
     "title": "Fourth Industrial Revolution",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Fourth Industrial Revolution.md",
@@ -9340,6 +9351,19 @@
     ]
   },
   {
+    "title": "Scapegoat Mechanism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Scapegoat Mechanism.md",
+    "aliases": [
+      "替罪羊机制",
+      "替罪羊过程",
+      "替罪机制",
+      "替罪羊仪式",
+      "Scapegoating",
+      "Scapegoat Ritual"
+    ]
+  },
+  {
     "title": "Schmittian Sovereignty",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Schmittian Sovereignty.md",
@@ -9491,6 +9515,16 @@
       "catching up",
       "technological catching up",
       "catch-up"
+    ]
+  },
+  {
+    "title": "Technological Escapism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Technological Escapism.md",
+    "aliases": [
+      "技术逃避主义",
+      "消费级技术逃避主义",
+      "consumer escapism"
     ]
   },
   {
@@ -22440,6 +22474,16 @@
     ]
   },
   {
+    "title": "Lee Kuan Yew",
+    "type": "person",
+    "path": "wiki/persons/singapore/Lee Kuan Yew.md",
+    "aliases": [
+      "李光耀",
+      "Lee, K. Y.",
+      "Harry Lee Kuan Yew"
+    ]
+  },
+  {
     "title": "Josep Borrell",
     "type": "person",
     "path": "wiki/persons/spain/Josep Borrell.md",
@@ -24328,6 +24372,18 @@
     ]
   },
   {
+    "title": "Hyman Rickover",
+    "type": "person",
+    "path": "wiki/persons/us/Hyman Rickover.md",
+    "aliases": [
+      "海曼·里科弗",
+      "海曼·G·里科弗",
+      "里科弗",
+      "Rickover, H. G.",
+      "Hyman G. Rickover"
+    ]
+  },
+  {
     "title": "Immanuel Wallerstein",
     "type": "person",
     "path": "wiki/persons/us/Immanuel Wallerstein.md",
@@ -24602,6 +24658,17 @@
     "aliases": [
       "Goodman, K.",
       "肯·古德曼"
+    ]
+  },
+  {
+    "title": "Kenneth Burke",
+    "type": "person",
+    "path": "wiki/persons/us/Kenneth Burke.md",
+    "aliases": [
+      "肯尼斯·伯克",
+      "伯克",
+      "Burke, K.",
+      "Kenneth Duva Burke"
     ]
   },
   {
@@ -29252,6 +29319,17 @@
     ]
   },
   {
+    "title": "Singapore Civil Service Salary Benchmarking Policy",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Singapore Civil Service Salary Benchmarking Policy.md",
+    "aliases": [
+      "新加坡公职薪酬市场化挂钩制度",
+      "新加坡部长与高级公务员薪酬基准政策",
+      "White Paper on Competitive Salaries for Competent Government",
+      "Singapore Ministerial Salary Benchmarking"
+    ]
+  },
+  {
     "title": "Singapore Education Hub Policy",
     "type": "fact",
     "path": "wiki/facts/singapore/Singapore Education Hub Policy.md",
@@ -33345,6 +33423,18 @@
     ]
   },
   {
+    "title": "USS Nautilus Submarine Development",
+    "type": "fact",
+    "path": "wiki/facts/us/USS Nautilus Submarine Development.md",
+    "aliases": [
+      "鹦鹉螺号核潜艇研制",
+      "鹦鹉螺号核潜艇工程",
+      "USS Nautilus",
+      "SSN-571",
+      "美国海军核动力推进计划"
+    ]
+  },
+  {
     "title": "Web-based Inquiry Science Environment",
     "type": "fact",
     "path": "wiki/facts/us/Web-based Inquiry Science Environment.md",
@@ -33776,6 +33866,11 @@
     "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch15",
     "type": "argument",
     "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch15.md"
+  },
+  {
+    "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch16",
+    "type": "argument",
+    "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch16.md"
   },
   {
     "title": "Argument_Kelly_Licona_2018_EpistemicPractices",

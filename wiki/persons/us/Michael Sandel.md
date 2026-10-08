@@ -9,7 +9,7 @@ summary: "美国著名政治哲学家、哈佛大学讲座教授，当代社群�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Technological Republic]]"
   - "[[Paradigm]]"
+  - "[[Technological Escapism]]"
   - "[[Innovation Desert]]"
   - "[[Goldfish Bowl Politics]]"
   - "[[Moral Dualism]]"
@@ -114,7 +115,7 @@ updated: 2026-10-08
 > [!influence-path] 影响路径
 > - **政治哲学与伦理学** 奠定了社群主义与自由主义对话的理论[[Paradigm|范式]]，深刻重塑了当代西方关于公民德性、政治共同体与社会正义的讨论框架。
 > - **公共哲学与全球启蒙** 通过[[Socrates|苏格拉底]]式的公开道德辨析课程，极大地推动了政治哲学从纯粹学术象牙塔走向全球大众公共启蒙。
-> - **科技批判与[[Technological Republic|技术共和国]]反思** 其对自由主义道德真空与[[Market Triumphalism|市场必胜论]]的诊断成为卡普与扎米斯卡批判硅谷技术逃避主义、重构政产协同治理的核心哲学支柱。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 67–68)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 171–173)]]
+> - **科技批判与[[Technological Republic|技术共和国]]反思** 其对自由主义道德真空与[[Market Triumphalism|市场必胜论]]的诊断成为卡普与扎米斯卡批判硅谷[[Technological Escapism|技术逃避主义]]、重构政产协同治理的核心哲学支柱。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 67–68)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 171–173)]]
 
 ---
 
