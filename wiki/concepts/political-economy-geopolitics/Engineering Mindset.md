@@ -6,7 +6,7 @@ aliases:
 summary: "指在解决高度复杂现实危机与工程挑战过程中形成的一种以实战结果、系统演化、敏捷协作与权责对称机制为核心的组织文化与协同范式；在卡普与扎米斯卡（2025）的论证中，工程思维是互联网泡沫破裂与软件世纪洗礼后留下的最具颠覆性的组织制度遗产，它超越了官僚体制的避险合规与金融投机，构成了重塑西方公共治理与重建技术共和国的核心组织基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 57
+related_count: 60
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -45,6 +45,8 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Epoché]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Dependent Variable]]"
+  - "[[Commercial Off-The-Shelf]]"
 related_theories:
   - "[[Organizational Culture]]"
   - "[[Hedgehog and Fox Model]]"
@@ -52,6 +54,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Role-playing]]"
   - "[[Five Whys]]"
+  - "[[Effect Size]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -269,7 +272,37 @@ updated: 2026-10-08
 > > - **传统公共行政学派** 强调公共资金使用与权力行使必须遵循严格的程序公开与制衡，防止过度追求效率引发监管真空。
 
 > [!warning] 适用局限
-> 工程思维强调高度的个人责任对称、反权威与[[Agile Governance|敏捷试错]]，适用于需要突破性解决复杂未知难题的实战领域；在追求高度标准化、零容错率或强调程序正义的传统公共事务中，需注意与现有制度规则的协调。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 111)]]
+> 工程思维强调高度的个人责任对称、反权威与[[Agile Governance|敏捷试错]]，适用于需要突破性解决复杂未知难题的实战领域；在追求高度标准化、零容错率或强调程序正义的传统公共事务中，需注意与现有制度规则的协调。
+
+---
+
+## 实证数据
+
+> [!effect-table]- 支撑工程思维微观机制与[[Epistemology|认识论]]效能的关键实证研究
+> <span class="concept-effect-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
+> |---|---|---|---|---|---|---|---|
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14\|Tetlock (2005)]] | 狐狸型认知（多元敏捷） vs. 刺猬型认知（单一教条） | 地缘政治与宏观经济预测准确度与校准度 | $N = 284$ 位学者智囊；$k = 27,451$ 项预测 | 狐狸型在短期与长期预测中全面占优；极端刺猬型失误率最高 | — | 显著优于刺猬型与粗糙基线 ($p < 0.01$) | 20年纵向追踪实证；证明动态概率认知优于决定论教条 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12\|Asch (1951, 1955)]] | 多数人错误线段判断压力 vs. 独立物理事实判断 | 个体屈从群体压力的从众错误率 | $N = 123$ 名大学生受试者 | 对照组错误率 $< 1\%$；群体压力下受试者平均从众错误率 $36.8\%$ | — | 约 $75\%$ 受试者至少出现一次从众错误 | 实验室经典实验；揭示反从众独立判断与工程客观检验的必要性 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12\|Milgram (1963)]] | 实验者权威指令 vs. 受害者痛苦电击反馈 | 达到最高 450V 致命电压的完全服从比例 | $N = 40$ 名成年男性受试者 | $65\%$（26/40）受试者在权威施压下完全服从施加最高电击 | — | 预测服从率仅 $1.2\%$ vs. 实际服从率 $65\%$ | 揭示服从权威的深层自适应弱点；确立[[Constructive Disobedience\|建设性不服从]]的制度价值 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10\|Lindauer (1955)]] | 去中心化侦察蜂自由辩论 vs. 单一中心指令 | 蜂群迁巢选址质量与决策收敛速度 | 德国埃克岛自然蜂群（[[Eck Swarm Experiment\|Eck Swarm]]） | 侦察蜂完全去中心化摆尾舞互动，无单一蜂后指挥 | — | 100% 达成最优巢穴共识决策 | 生物行为学实证；证明[[Swarm Intelligence\|群智能]]与[[Edge Autonomy\|边缘自治]]在复杂环境中的优越性 |
+
+---
+
+## 条目关联
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Technological Republic]] | 概念 | 核心治理基石：工程思维构成了技术共和国重建国家[[Hard Power\|硬实力]]与公共效能的微观组织引擎。 |
+> | [[Hard Power]] | 概念 | 实体转化桥梁：将软件代码、工程架构与[[Agile Governance\|敏捷试错]]转化为国防安全与国家地缘竞争的实质能力。 |
+> | [[Swarm Intelligence]] | 概念 | 组织运行原型：提供蜜蜂蜂群与[[Flocking Behavior\|椋鸟群飞]]的去中心化[[Edge Autonomy\|边缘自治]]协同模型。 |
+> | [[Constructive Disobedience]] | 概念 | 微观心理抗体：在制度层面保护一线工程师根据物理运行反馈抵御上级错误指令与群体从众。 |
+> | [[Commercial Off-The-Shelf]] | 概念 | 制度落地路径：以商用现成采购破除传统军工承包商的垄断壁垒与官僚阻滞。 |
+> | [[Hedgehog and Fox Model]] | 理论 | [[Epistemology\|认识论]]基础：确立弃绝宏大体系、依据运行反馈动态调整的“极致狐狸”经验探索[[Paradigm\|范式]]。 |
+> | [[Five Whys]] | 方法 | 诊断工具：提供穿透表象直达组织激励与人际博弈深层根源的免责式复盘方法。 |
 
 ---
 

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Five Whys",
+      "path": "wiki/methods/qualitative/Five Whys.md"
+    },
+    {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch14",
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch14.md"
+    },
+    {
+      "basename": "Isaiah Berlin",
+      "path": "wiki/persons/uk/Isaiah Berlin.md"
     },
     {
       "basename": "Nicholas Zamiska",
@@ -191,14 +199,6 @@
     {
       "basename": "Generative Artificial Intelligence",
       "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
-    },
-    {
-      "basename": "Steven Levy",
-      "path": "wiki/persons/us/Steven Levy.md"
-    },
-    {
-      "basename": "Technological Agnosticism",
-      "path": "wiki/concepts/ethics-of-technology/Technological Agnosticism.md"
     }
   ],
   "omittedPaths": [],
