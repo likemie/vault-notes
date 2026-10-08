@@ -5,16 +5,40 @@
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch14.md"
     },
     {
+      "basename": "Ralph Waldo Emerson",
+      "path": "wiki/persons/us/Ralph Waldo Emerson.md"
+    },
+    {
+      "basename": "Thomas Hart Benton",
+      "path": "wiki/persons/us/Thomas Hart Benton.md"
+    },
+    {
+      "basename": "Herbert Hoover",
+      "path": "wiki/persons/us/Herbert Hoover.md"
+    },
+    {
+      "basename": "Sigmund Freud",
+      "path": "wiki/persons/austria/Sigmund Freud.md"
+    },
+    {
+      "basename": "Lucian Freud",
+      "path": "wiki/persons/uk/Lucian Freud.md"
+    },
+    {
+      "basename": "Lean Production",
+      "path": "wiki/concepts/educational-leadership-administration/Lean Production.md"
+    },
+    {
+      "basename": "Agile Governance",
+      "path": "wiki/concepts/science-policy/Agile Governance.md"
+    },
+    {
       "basename": "Hedgehog and Fox Model",
       "path": "wiki/theories/political-economy-geopolitics/Hedgehog and Fox Model.md"
     },
     {
       "basename": "Isaiah Berlin",
       "path": "wiki/persons/uk/Isaiah Berlin.md"
-    },
-    {
-      "basename": "Ralph Waldo Emerson",
-      "path": "wiki/persons/us/Ralph Waldo Emerson.md"
     },
     {
       "basename": "René Girard",
@@ -47,10 +71,6 @@
     {
       "basename": "Five Whys",
       "path": "wiki/methods/qualitative/Five Whys.md"
-    },
-    {
-      "basename": "Lean Production",
-      "path": "wiki/concepts/educational-leadership-administration/Lean Production.md"
     },
     {
       "basename": "Nicholas Zamiska",
@@ -179,26 +199,6 @@
     {
       "basename": "Martin Lindauer",
       "path": "wiki/persons/germany/Martin Lindauer.md"
-    },
-    {
-      "basename": "Alfred Binet",
-      "path": "wiki/persons/france/Alfred Binet.md"
-    },
-    {
-      "basename": "Buen Vivir",
-      "path": "wiki/concepts/educational-philosophy/Buen Vivir.md"
-    },
-    {
-      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch07",
-      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch07.md"
-    },
-    {
-      "basename": "Revoicing",
-      "path": "wiki/concepts/instruction-pedagogy/Revoicing.md"
-    },
-    {
-      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch08",
-      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch08.md"
     }
   ],
   "omittedPaths": [],
