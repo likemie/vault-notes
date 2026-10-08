@@ -133,5 +133,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Karp & Zamiska (2025, pp. 97–102)]] — 系统阐明从反文化个人计算向唯利是图的消费互联网异化的历史脉络与思想根源。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025, pp. 3–15)]] — 批判当代硅谷退缩至消费主义软件，呼吁重构以国家安全与[[Hard Power|硬实力]]为导向的[[Technological Republic|技术共和国]]。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 专著系统阐明硅谷从战后国家战略使命与 1970 年代[[Counterculture Computing|反文化计算]]解放理想向唯利是图的消费互联网异化的历史脉络与思想根源（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]），批判技术精英退缩至浅层物质消费与注意力经济，呼吁重构以国家安全与[[Hard Power|硬实力]]为导向的[[Technological Republic|技术共和国]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]]）。

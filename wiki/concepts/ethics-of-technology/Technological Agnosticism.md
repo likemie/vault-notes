@@ -9,7 +9,7 @@ aliases:
 summary: "指当代技术精英与软件工程师将技术创造活动本身视为纯粹目的，刻意回避对国家使命、政治立场、公共善与伦理价值进行实质决断与承诺的意识形态取向；其历史根源可追溯至20世纪后半叶欧美通识正典瓦解与反文化黑客伦理将国家定性为缺陷系统后，科技阶层向唯利是图消费互联网的全面退缩。"
 type: concept
 domain: "ethics-of-technology"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

@@ -7,7 +7,7 @@ aliases:
 summary: "国际关系与地缘政治的核心概念，指行为体通过军事武力、强制威慑与经济制裁等有形物质资源迫使他者服从的指挥性权力；在现代智能化与算法时代，硬实力的物质载体深度转向软件代码与自主系统；卡普与扎米斯卡（2025）进一步论证，硬实力的可持续性从根本上取决于科技精英对国家共同体使命的文化认同。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 23
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
