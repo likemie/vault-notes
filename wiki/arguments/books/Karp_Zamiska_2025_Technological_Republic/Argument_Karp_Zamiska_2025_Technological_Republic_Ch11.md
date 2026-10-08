@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch11"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch11"
 argument_display_title: "“The Improvisational Startup”"
 argument_kind: "book-chapter"
-argument_related_count: 25
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -44,7 +44,6 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Engineering Mindset]]"
   - "[[Paradigm]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Empiricism]]"
   - "[[Emergence]]"
   - "[[Scientific Method]]"
@@ -114,10 +113,6 @@ updated: 2026-10-08
 > | **[[Symphony Orchestra Model\|交响乐团组织模型]]**<br>[[Peter Drucker\|Drucker]] (1988); [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) | **去中介化扁平组织原型** 构想由高度专业化的软件艺术家直接向首席执行官协同演奏的知识型架构，彻底剔除阻隔信息的多层副总裁中介（p. 127）。 |
 > | **[[Meeting-Industrial Complex\|会议工业复合体]]**<br>Perlow et al. (2017); [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) | **大企业病与内耗机制批判** 揭露大型机构中数十人例会与预备会异化为政治精英争夺地位、展示虚假公关与榨取实干者精力的病态机制（pp. 126–127）。 |
 > | **[[Shadow Hierarchy\|影子层级]]**<br>[[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) | **高重构性隐性权力架构** 承认敏捷组织中客观存在隐性协调层级，通过维持适度的组织模糊性为基层雄心创造主动填补真空的开放空间（pp. 125–126）。 |
-> | **[[Pecking Order\|啄序支配等级]]**<br>[[Konrad Lorenz\|Lorenz]] (1949); [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) | **动物本能等级批判原型** 描绘寒鸦社会中高种姓对底层的极端蔑视，作为解构传统企业森严金字塔特权壁垒的生物学对照（pp. 123–124）。 |
-> | **[[Engineering Mindset\|工程思维]]**<br>[[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) | **初创组织微观文化基石** 确立包容特立独行、崇尚实战产出、敢于打破教条[[Disciplina and Doctrina\|规训]]与即兴创新的文化生态系统（pp. 122, 128–129）。 |
-> | **[[Bureaucracy\|科层制]]**<br>[[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) | **批判靶向与制度反思** 剖析战后企业过度形式化规章（如飞歌家具规则）对自适应能力的毁灭性扼杀（pp. 124–125）。 |
-> | **[[Technological Republic\|技术共和国]]**<br>[[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) | **国家重构终极战略目标** 呼吁公共部门与政府治理主动吸纳硅谷即兴工程文化，破除官僚阻滞以应对地缘技术竞争（pp. 128–129）。 |
 
 > [!assumptions] 支撑本章主张的关键前提
 > - **实证[[Empiricism|经验主义]]优于先验教条前提** 技术与软件构建本质上是观察性科学而非理论推演；组织必须具备根据真实用户与战场反馈即时抛弃预设概念、即兴转向的心理弹性。

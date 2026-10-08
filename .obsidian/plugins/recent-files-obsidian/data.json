@@ -5,6 +5,26 @@
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch12.md"
     },
     {
+      "basename": "Constructive Disobedience",
+      "path": "wiki/concepts/educational-leadership-administration/Constructive Disobedience.md"
+    },
+    {
+      "basename": "Stanley Milgram",
+      "path": "wiki/persons/us/Stanley Milgram.md"
+    },
+    {
+      "basename": "Hard Power",
+      "path": "wiki/concepts/political-economy-geopolitics/Hard Power.md"
+    },
+    {
+      "basename": "Creativity",
+      "path": "wiki/concepts/competency-and-assessment/Creativity.md"
+    },
+    {
+      "basename": "Bureaucracy",
+      "path": "wiki/concepts/political-economy-geopolitics/Bureaucracy.md"
+    },
+    {
       "basename": "Deception in Research",
       "path": "wiki/concepts/research-methodology/Deception in Research.md"
     },
@@ -31,10 +51,6 @@
     {
       "basename": "Empiricism",
       "path": "wiki/concepts/educational-philosophy/Empiricism.md"
-    },
-    {
-      "basename": "Bureaucracy",
-      "path": "wiki/concepts/political-economy-geopolitics/Bureaucracy.md"
     },
     {
       "basename": "Engineering Mindset",
@@ -183,22 +199,6 @@
     {
       "basename": "Mariana Mazzucato",
       "path": "wiki/persons/italy/Mariana Mazzucato.md"
-    },
-    {
-      "basename": "Project Maven",
-      "path": "wiki/facts/us/Project Maven.md"
-    },
-    {
-      "basename": "Francis Fukuyama",
-      "path": "wiki/persons/us/Francis Fukuyama.md"
-    },
-    {
-      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch05",
-      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch05.md"
-    },
-    {
-      "basename": "Total Institution",
-      "path": "wiki/concepts/sociology-of-education/Total Institution.md"
     }
   ],
   "omittedPaths": [],

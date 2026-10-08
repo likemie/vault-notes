@@ -64,6 +64,7 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
 status: draft
 created: 2026-10-08
@@ -219,8 +220,5 @@ updated: 2026-10-08
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025, Ch. 9, p. 111)]] — 正式引出工程思维，作为由意识形态与制度诊断转向微观组织机制的理论转折点。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Karp & Zamiska (2025, Ch. 10, pp. 119–121)]] — 将工程思维与蜜蜂[[Eck Swarm Experiment|埃克蜂群]]、[[Flocking Behavior|椋鸟群飞]]等生物[[Swarm Intelligence|群智能]]深度同构，奠定微观组织机制论证基石。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|Karp & Zamiska (2025, Ch. 11, pp. 122–129)]] — 结合即兴剧场与[[Symphony Orchestra Model|交响乐团模型]]，阐明工程思维的地位工具化、去中介化与工程师艺术家公社生态。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|Karp & Zamiska (2025, Ch. 12, pp. 130–138)]] — 系统反思阿施与[[Stanley Milgram|米尔格拉姆]]的从众与服从实验，确立[[Constructive Disobedience|建设性不服从]]与[[Social Deafness|社交失聪]]在工程思维中的微观心理根基。
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 专著系统论证工程思维的微观制度与心理基石：[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|第 9 章（p. 111）]]确立工程思维为重塑[[Technological Republic|技术共和国]]的核心[[Paradigm|范式]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|第 10 章（pp. 119–121）]]揭示其与蜂群及椋鸟群生物[[Swarm Intelligence|群智能]]的机制同构；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|第 11 章（pp. 122–129）]]阐明即兴演剧地位工具化、去中介交响乐团与会议内耗批判；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|第 12 章（pp. 130–138）]]反思阿施与[[Milgram Obedience Experiment|米尔格拉姆实验]]，确立[[Constructive Disobedience|建设性不服从]]与[[Social Deafness|社交失聪]]的微观心理抗体。

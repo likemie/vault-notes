@@ -868,6 +868,106 @@ def normalize_title(s: str) -> str:
     return s.strip()
 
 
+def argument_book_key(target: str, by_title: Dict[str, Dict[str, Any]]) -> Optional[str]:
+    """Return the shared book-directory key for an indexed Argument target."""
+    item = by_title.get(target)
+    if not item or item.get("type") != "argument":
+        return None
+
+    parts = Path(str(item.get("path") or "")).parts
+    if len(parts) < 5 or parts[:3] != ("wiki", "arguments", "books"):
+        return None
+    return parts[3]
+
+
+def check_related_research_duplicate_books(
+    path: Path,
+    text: str,
+    by_title: Dict[str, Dict[str, Any]],
+    issues: List[Issue],
+) -> None:
+    """Warn when one related-research index lists several chapters of one book.
+
+    Only the top-level bullets of callouts titled ``相关研究索引`` count as
+    source entries. Links inside an entry's explanation remain free to point to
+    several chapters, which supports the preferred consolidated-book format.
+    """
+    if TEMPLATES_DIR in path.parents or is_schema_or_workflow_doc(path) or not is_wiki_entry_path(path):
+        return
+
+    _, body, body_start_line = split_frontmatter(text)
+    lines = body.splitlines(keepends=True)
+    callout_header_re = re.compile(
+        r"^(?P<quote>\s*(?:>\s*)+)\[![^\]\n]+\][+-]?\s*(?P<title>.*)$"
+    )
+    quoted_line_re = re.compile(r"^(?P<quote>\s*(?:>\s*)+)(?P<content>.*)$")
+
+    in_index = False
+    index_depth = 0
+    seen_books: Dict[str, Tuple[str, int]] = {}
+    line_number = body_start_line
+
+    for line in lines:
+        header = callout_header_re.match(line)
+        if header:
+            title = header.group("title")
+            depth = header.group("quote").count(">")
+            in_index = "相关研究" in title and "索引" in title
+            index_depth = depth if in_index else 0
+            seen_books = {}
+            line_number += line.count("\n")
+            continue
+
+        if not in_index:
+            line_number += line.count("\n")
+            continue
+
+        quoted = quoted_line_re.match(line)
+        if not quoted:
+            if line.strip():
+                in_index = False
+                seen_books = {}
+            line_number += line.count("\n")
+            continue
+
+        depth = quoted.group("quote").count(">")
+        content = quoted.group("content")
+        if depth != index_depth or not re.match(r"^[-*+]\s+", content):
+            line_number += line.count("\n")
+            continue
+
+        target = ""
+        for match in WIKILINK_RE.finditer(content):
+            candidate = extract_wikilink_target(match.group(1))
+            if candidate.startswith("Argument_"):
+                target = candidate
+                break
+        if not target:
+            line_number += line.count("\n")
+            continue
+
+        book_key = argument_book_key(target, by_title)
+        if not book_key:
+            line_number += line.count("\n")
+            continue
+
+        previous = seen_books.get(book_key)
+        if previous:
+            previous_target, previous_line = previous
+            issues.append(Issue(
+                "WARN",
+                rel(path),
+                f"相关研究索引重复列出同一本书：[[{previous_target}]]（第 {previous_line} 行）与 "
+                f"[[{target}]]；请合并为一个顶层书籍条目，并在说明中保留所需章节链接",
+                line=line_number,
+                code="RELATED_RESEARCH_DUPLICATE_BOOK",
+            ))
+        else:
+            seen_books[book_key] = (target, line_number)
+
+        line_number += line.count("\n")
+
+
 # -----------------------------
 # Index loading
 # -----------------------------
@@ -2308,6 +2408,7 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
     check_path_and_index_consistency(path, data, path_to_title, issues)
     check_citation_links(path, text, data, argument_citations, issues)
     check_duplicate_citations(path, text, data, issues)
+    check_related_research_duplicate_books(path, text, by_title, issues)
     check_citation_card_language_order(path, text, issues)
 
 

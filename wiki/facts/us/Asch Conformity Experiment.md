@@ -56,7 +56,7 @@ updated: 2026-10-08
 > - **时间跨度 / 空间地理** 1951 年；美国宾夕法尼亚州斯沃斯莫尔学院（Swarthmore College）心理学实验室。
 > - **核心当事主体** 主持研究者[[Solomon Asch|所罗门·阿施]]（[[Solomon Asch]]）；实验指导教师；每组由 1 名真实受试者与 7 名由实验者安排的同谋（Confederates）组成的 8 人测试组。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 130)]]
 > - **深层制度与社会背景** 20 世纪 30 年代德国纳粹主义兴起与二战极权动员引发了心理学界对人性的深刻反思；研究旨在探索为何理性大众会盲从于集体的荒谬意志。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 131–132)]]
-> - **制度伦理环境** 实验进行于战后社会心理学的“黄金时代”，当时尚未建立现代[[Institutional Review Board|机构审查委员会]]（Institutional Review Board, IRB），实验允许采用高度的[[Deception in Research|研究欺骗]]设计。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 132)]]
+> - **制度伦理环境** 实验进行于战后社会心理学的黄金时代，当时尚未建立现代[[Institutional Review Board|机构审查委员会]]（Institutional Review Board, IRB），实验允许采用高度的[[Deception in Research|研究欺骗]]设计。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 132)]]
 
 ---
 
@@ -80,6 +80,6 @@ updated: 2026-10-08
 
 ## 影响与理论遗产
 
-> [!warrant] 对[[Organizational Culture|组织文化]]与科技创新的深远启示
-> - **从众的普遍性** 哥伦比亚大学心理学家霍华德·格鲁伯（Howard Gruber）指出，阿施实验清晰证明“从众是跨越国界的”（Conformity is international），美国社会在群体心理压力面前同样脆弱。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 136–137)]]
+> [!implication] 对[[Organizational Culture|组织文化]]与科技创新的深远启示
+> - **从众的普遍性** 哥伦比亚大学心理学家霍华德·格鲁伯（Howard Gruber）指出，阿施实验清晰证明从众是跨越国界的，美国社会在群体心理压力面前同样脆弱。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 136–137)]]
 > - **工程文化的微观根基** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]论证指出，群体从众本能虽有利于物种原始生存，却对技术与艺术的颠覆性创新具有毁灭性；硅谷与[[Palantir Technologies|帕兰提尔]]的[[Engineering Mindset|工程思维]]的核心优势，正在于吸纳并保护那些具有[[Social Deafness|社交失聪]]特质、敢于对抗虚假群体共识的独立工程师。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 136–138)]]

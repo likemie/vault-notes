@@ -109,5 +109,5 @@ updated: 2026-10-08
 
 > [!actor-grid] 学术传承与关联网络
 > - **导师与合作者** [[Solomon Asch|所罗门·阿施]]（[[Solomon Asch]]）、[[Robert J. Gordon|戈登]]·奥尔波特（Gordon Allport）。
-> - **哲学与思想共鸣** 汉娜·阿伦特（Hannah Arendt）关于“平庸之恶”（The Banality of Evil）的历史哲学反思。
+> - **哲学与思想共鸣** 汉娜·阿伦特（Hannah Arendt）关于平庸之恶（The Banality of Evil）的历史哲学反思。
 > - **组织治理转化** [[Alexander Karp|亚历山大·卡普]]（[[Alexander Karp]]）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Nicholas Zamiska]]）在《[[Technological Republic|技术共和国]]》中将米尔格拉姆的发现作为反思企业文化病理的镜像，警示科技公司必须破除盲从文化，培育敢于[[Constructive Disobedience|建设性违抗]]权威的工程师人格。

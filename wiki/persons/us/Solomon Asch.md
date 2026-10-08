@@ -53,7 +53,7 @@ updated: 2026-10-08
 
 > [!person-profile] 人物档案
 > - **身份位置** 波兰裔美国社会心理学家、格式塔心理学代表人物，曾任斯沃斯莫尔学院（Swarthmore College）心理学教授。
-> - **核心角色** post-WWII 社会心理学黄金时代的奠基人之一，开创了关于群体压力与从众行为的实验[[Paradigm|范式]]，深刻影响了其学生斯坦利·[[Stanley Milgram|米尔格拉姆]]（[[Stanley Milgram]]）等一代学者。
+> - **核心角色** 二战后社会心理学黄金时代的奠基人之一，开创了关于群体压力与从众行为的实验[[Paradigm|范式]]，深刻影响了其学生斯坦利·[[Stanley Milgram|米尔格拉姆]]（[[Stanley Milgram]]）等一代学者。
 > - **代表贡献** 设计并实施著名的[[Asch Conformity Experiment|阿施从众实验]]（Asch Conformity Experiment），系统揭示人类心智在面对群体虚假共识时的认知失调、屈从机制与反从众独立人格。
 
 > [!citation-card] 阿施论群体压力对青年独立判断的侵蚀
