@@ -192,4 +192,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone (2025)]] — 系统拆解了赞助研究协议中的核心法律条款、[[Foreground IP|FIP]] 与 [[Background IP|BIP]] 权利转让谱系、论文发表审查机制、PBU 税务限制及宾州州立等创新预付费许可模式。
+> - [[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone (2025)]] — 系统拆解了赞助研究协议中的核心法律条款、[[Foreground IP|FIP]] 与 [[Background IP|BIP]] 权利转让谱系、论文发表审查机制、PBU 税务限制及宾州州立等创新预付费许可模式。 [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 提出了基于时间尺度层次的[[University-Industry Collaboration|产学合作]]契约工具矩阵，构建了企业中央 [[Academic Engagement Team|AET]] 与业务产品线协同管理长周期 SRA 的“两阶段监护与职能转移模型”。 [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] — 依托全美 65 所顶尖大学调查实证数据，揭示了赞助研究协议在高校中心产学管理机构及企业关系专职谈判人员业务中的核心统领地位。

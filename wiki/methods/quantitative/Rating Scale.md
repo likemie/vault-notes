@@ -186,4 +186,4 @@ Simpson & Tuson（2003, pp. 42–44）对观察评定量表提出三项建议：
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al. (2011, Ch. 20)]] — 详细讨论了评定量表的类型、常见格式和十七项使用警示；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al. (2011, Ch. 23)]] — 将评定量表列为[[Structured Observation\|结构化观察]]的五种数据记录方式之一，介绍 Wragg（1994）教学行为量表。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al. (2011, Ch. 20)]] — 详细讨论了评定量表的类型、常见格式和十七项使用警示；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al. (2011, Ch. 23)]] — 将评定量表列为[[Structured Observation\|结构化观察]]的五种数据记录方式之一，介绍 Wragg（1994）教学行为量表、Simpson & Tuson（2003）建议，以及与[[Questionnaire\|问卷]]评定量表的对比（23.2 节）

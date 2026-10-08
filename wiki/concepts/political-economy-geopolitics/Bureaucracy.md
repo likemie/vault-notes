@@ -6,10 +6,10 @@ aliases:
   - 官僚科层制
   - 科层官僚制
   - 层级科层制
-summary: "指基于明确的职能分工、自顶向下的层级节制、非人格化的成文规则与专业化职业考核建立的理性化组织与治理形态；在古典社会学中被视作现代性理性化效率的基石，而在公共选择学派与当代实战工程治理论证（卡普与扎米斯卡，2025）中，科层制被批判为容易滋生自利性层级设卡、微观地位固化、会议工业复合体、制度性顺从偏好与阻碍一线自适应创新的防卫型组织体制。"
+summary: "指基于明确的职能分工、自顶向下的层级节制、非人格化的成文规则与专业化职业考核建立的理性化组织与治理形态；在古典社会学中被视作现代性理性化效率的基石，而在公共选择学派与当代实战工程治理论证（卡普与扎米斯卡，2025）中，科层制被批判为容易滋生自利性层级设卡、微观地位固化、会议工业复合体、制度性顺从偏好、公共采办定制垄断及避险自保机制，严重阻碍一线自适应创新与快速交付。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 25
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,6 +19,7 @@ tags:
   - theme/public-governance
   - theme/engineering-mindset
   - theme/organizational-culture
+  - theme/procurement-reform
 related_concepts:
   - "[[Paradigm]]"
   - "[[Meeting-Industrial Complex]]"
@@ -32,6 +33,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Attrition]]"
   - "[[Technological Republic]]"
+  - "[[Commercial Off-The-Shelf]]"
 related_theories:
   - "[[Tullock's Bureaucracy Theory]]"
 related_methods:
@@ -43,12 +45,15 @@ related_persons:
   - "[[Nicholas Zamiska]]"
   - "[[Hannah Arendt]]"
   - "[[Robert J. Gordon]]"
+  - "[[John Glenn]]"
 related_facts:
   - "[[Eck Swarm Experiment]]"
+  - "[[Federal Acquisition Streamlining Act of 1994]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
@@ -205,4 +210,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 专著从实战工程治理视角对防卫型科层制展开系统批判：[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|第 10 章（p. 121）]]批判多层中介副总裁架构对一线即兴活力的阻滞；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|第 11 章（pp. 124–128）]]剖析微观地位固化与[[Meeting-Industrial Complex|会议工业复合体]]对实干人才的智力榨取。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 专著从实战工程治理视角对防卫型科层制展开系统批判：[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|第 10 章（p. 121）]]批判多层中介副总裁架构对一线即兴活力的阻滞；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|第 11 章（pp. 124–128）]]剖析微观地位固化与[[Meeting-Industrial Complex|会议工业复合体]]对实干人才的智力榨取；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|第 12 章（pp. 132–136）]]揭示科层制对顺从者的体制偏好、[[Banality of Evil|平庸之恶]]与挑战者号式技术灾难根源。

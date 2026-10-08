@@ -252,5 +252,5 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 提出 AET 叠加层构型、实践者作为组织[[Polymath|通才]]、九维支持框架、资助治理矩阵以及 [[Universal Parallel Computing Research Centers|UPCRC]] 重大案例，系统奠定了从企业内部透视[[University-Industry Collaboration|产学合作]]的微观分析[[Paradigm|范式]]。
+> - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 提出 AET 叠加层构型、实践者作为组织[[Polymath|通才]]、九维支持框架、资助治理矩阵以及 [[Universal Parallel Computing Research Centers|UPCRC]] 重大案例，系统奠定了从企业内部透视[[University-Industry Collaboration|产学合作]]的微观分析[[Paradigm|范式]]。 [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] — 对应大学侧视角，调查 65 所顶尖大学五类组织模式，分析[[University Corporate Engagement Professional|大学企业参与专员]]（UCEP）与中心办公室如何作为[[Boundary Spanner|边界跨越者]]与企业 AET 进行对接。 [[Argument_Dean_2025_UICollaborationSupport|Dean et al. (2025)]] — 从加拿大滑铁卢大学视角探讨政府与产业 1:1 配资杠杆对撬动科研人员的成效，与企业 AET 配套资金机制形成对照。
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 详析[[Semiconductor Research Corporation|半导体研究公司]]（SRC）[[Membership-based Research Consortium|会员制联合体]]的全行业多边预算分配模式，与英特尔/微软 AET 发起的双边 UPCRC 战略联合体形成机制互补。

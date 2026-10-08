@@ -201,7 +201,7 @@ updated: 2026-10-08
 ## 实证数据
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 8, 16–17)]] — 系统界定唯意志论作为人性[[Ontology\|本体论]]基石，阐发其与[[Determinism\|决定论]]的对立，并探讨哈雷[[Anthropomorphic Model\|拟人化模型]]与格林菲尔德主观组织观。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 8, 16–17)]] — 系统界定唯意志论作为人性[[Ontology\|本体论]]基石，阐发其与[[Determinism\|决定论]]的对立，并探讨哈雷[[Anthropomorphic Model\|拟人化模型]]与格林菲尔德主观组织观。 [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 在跨章节论述中探讨[[Ethogenic Approach\|人因取向]]、自述法、[[Case Study\|个案研究]]与[[Action Research\|行动研究]]中的主体性赋权逻辑。
 
 ---
 

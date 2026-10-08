@@ -178,7 +178,7 @@ updated: 2026-10-08
 > - **人文主义传统** 坚守古典希腊灵魂教育（[[Paideia]]）理想，在高度技术官僚化与经济[[Pragmatic Paradigm\|实用主义]]的教育改革潮流中，为全球比较教育界维系了批判性人文关怀。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] — 考恩分析卡扎米亚斯对每一代人必须重写其历史命题的提出，及其对学科比较史学传统的开创性贡献。
+> - [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] — 考恩分析卡扎米亚斯对每一代人必须重写其历史命题的提出，及其对学科比较史学传统的开创性贡献。 [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 卡扎米亚斯系统回顾历史-哲学母题奠基者的思想遗产，重构德语广义科学与非普适[[Working Hypothesis|探索性假说]]的方法论合法性。 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 考掘比较教育的现代主义发端，辨析[[Marc-Antoine Jullien\|朱利安]]准科学人道主义与行政借用母题。 [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 拉斯特等学者确证卡扎米亚斯作为学科历史主义奠基者的核心地位，征引其关于[[Structural Functionalism|结构功能主义]]解析、[[Educational Meliorism|改良主义]]改造社会抱负及方法论价值抉择的经典论断。 [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯系统界定比较教育学为“[[Protean Episteme|普罗透斯式认识体系]]”，梳理从启蒙至当代的四重论述代际演进，批判实证主义对单一方法的迷信，以期刊计量数据揭示学科面临的“[[Historical Amnesia|历史健忘症]]”危机并呼吁重建历史与社会科学的理性综合。
 > - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 考恩反思卡扎米亚斯的人文主义传统与学科半个世纪制度化成就之间的历史辩证关系。
 
 

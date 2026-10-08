@@ -345,7 +345,7 @@ updated: 2026-10-08
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] — 系统综合 52 项一阶[[Meta-analysis\|元分析]]，确立[[Creativity\|创造力]]测评四大[[Paradigm\|范式]]与二阶效应基准，量化揭示[[Independent Variable\|预测变量]]（$r = 0.29$）与[[Dependent Variable\|结果变量]]（$r = 0.12$）的不对称性，证实过程测量（$r = 0.27$）优于单纯发散测验。
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 开展[[Three-Level Meta-Analysis\|三水平元分析]]检验创造力与[[Critical Thinking\|批判性思维]]的测量关联，证实测量类型组合显著调节观察效应（双主观 $r = 0.509$ vs 双客观 $r = 0.317$），揭示了 [[Common Method Variance\|CMV]] 膨胀与[[Executive Function\|执行功能]]真实重叠的双重机制。
-> - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — 综合 29 项高校实验（109 个[[Effect Size\|效应量]]），实证确立[[Creativity Training\|创造力干预]]总体增益（$g = 0.628$），并首次系统量化了不同测量工具与子[[Construct\|构念]]的响应敏感度（思维测验 $g = 0.671$、图形创作 $g = 0.644$、词汇联想 $g = 0.641$。
+> - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — 综合 29 项高校实验（109 个[[Effect Size\|效应量]]），实证确立[[Creativity Training\|创造力干预]]总体增益（$g = 0.628$），并首次系统量化了不同测量工具与子[[Construct\|构念]]的响应敏感度（思维测验 $g = 0.671$、图形创作 $g = 0.644$、词汇联想 $g = 0.641$、言语表达 $g = 0.606$、[[Problem Solving\|问题解决]] $g = 0.539$、情绪量表 $g = 0.397$）。
 > - [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] — [[Systematic Review\|系统综述]] [[OECD]] 国家高教创造力评价政策，梳理发散测验、[[Consensual Assessment Technique\|CAT]] 专家评定、[[Rainbow Project\|彩虹项目]]招生试验与校本真实性量规（VALUE/[[Centre for Educational Research and Innovation\|CERI]]/[[CALOHEE Project\|CALOHEE]]）的实施机制与制度挑战。
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]证实[[Cooperative Learning\|合作学习]]对创造性思维等[[Higher-Order Thinking Skills\|高阶认知技能]]具有显著促进效应（$ES = 0.76$），确立了社会建构情境对打破思维定势的测评与教学价值。
 

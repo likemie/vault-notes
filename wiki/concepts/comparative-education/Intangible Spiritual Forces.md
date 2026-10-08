@@ -216,4 +216,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]] — 梳理[[Michael Sadler\|萨德勒]]无形精神力量概念的提出、[[Isaac Kandel\|坎德尔]]的理论继承，以及 1970 年代埃普斯坦发起的[[Positivism\|实证主义]]清算与方法论论辩。
+> - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]] — 梳理[[Michael Sadler\|萨德勒]]无形精神力量概念的提出、[[Isaac Kandel\|坎德尔]]的理论继承，以及 1970 年代埃普斯坦发起的[[Positivism\|实证主义]]清算与方法论论辩。 [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 考掘坎德尔对无形文化精神力量的捍卫、二战后极权危机导致的[[Bildung\|教化]]防线坍塌、战后规划理性对观念支配论的边缘化，以及霍姆斯基于[[Critical Dualism\|批判二元论]]对活的精神的规范模式重构。

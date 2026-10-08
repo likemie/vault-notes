@@ -252,4 +252,4 @@ updated: 2026-10-08
 > | [[Indexicality]] | 概念 | 揭示社会[[Discourse\|话语]]与行为意义对特定时空与历时性交往历史的不可剥离附着性。 |
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 15)]] — 全景奠定诠释范式与规范性范式的哲学对照、Burrell & Morgan 四维框架、三大理论传统、教室草莓事件（Box 1.5）与四重批判。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 15)]] — 全景奠定诠释范式与规范性范式的哲学对照、Burrell & Morgan 四维框架、三大理论传统、教室草莓事件（Box 1.5）与四重批判。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al. (2011, Ch. 11, p. 402)]] — 详尽展开自然主义探究的 11 项操作公理、emic/etic 区分、概括性重释以及 Woods 与 Dobbert 的范式辩证。

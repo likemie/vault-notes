@@ -137,7 +137,7 @@ updated: 2026-10-08
 > - **转型国家政治经济学比较** 与卡诺伊合作开创对第三世界社会主义转型社会（中国、古巴、莫桑比克、坦桑尼亚）的宏观历史比较，确立国家政权与政治意志在打破依附与重塑教育体系中的主导性推动作用。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 154–155)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]深入分析萨莫夫的金融-智识复合体理论，揭示[[World Bank|世界银行]]跨国知识垄断与放贷铁板一块机制。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]深入分析萨莫夫的金融-智识复合体理论，揭示[[World Bank|世界银行]]跨国知识垄断与放贷铁板一块机制。 [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯梳理第四代批判冲突与宏观[[Paradigm|范式]]，征引卡诺伊与萨莫夫（1990）关于第三世界转型国家政治权力主导教育根本转型的经验比较研究。
 
 ---
 

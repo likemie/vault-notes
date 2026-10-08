@@ -104,4 +104,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统阐述 2025 年劳动力佩尔助学金（Workforce Pell Grants）扩容的政策动因与制度设计。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统阐述 2025 年劳动力佩尔助学金（Workforce Pell Grants）扩容的政策动因与制度设计；揭示以往联邦助学金过度偏向四年制学位导致的技能结构失衡，论证通过将短周期技术培训纳入佩尔资助、推行百万学徒计划与绩效付费机制，重构全美先进制造与[[Process Knowledge|过程知识]]基底的战略路径。

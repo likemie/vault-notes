@@ -219,4 +219,4 @@ updated: 2026-10-08
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 系统考证并评析[[Brian Holmes|布赖恩·霍姆斯]]的问题法在战后比较教育科学化运动中的理论建构、[[Epistemology|认识论]]争鸣及其对历史学派与[[Positivism|实证主义]]的折衷综合。
+> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 系统考证并评析[[Brian Holmes|布赖恩·霍姆斯]]的问题法在战后比较教育科学化运动中的理论建构、[[Epistemology|认识论]]争鸣及其对历史学派与[[Positivism|实证主义]]的折衷综合。 [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 权威阐释第三代际实证[[Scientism|科学主义]]运动中霍姆斯伦敦学派的 $L + I = P$ 假说演绎分析架构，辨析条件预测与历史宿命论预言的边界，并揭示实证模型充当技术规划[[Social Science as Legitimation Alibi|合法化借口]]的历史实质。 [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 梳理霍姆斯以科学预测为标尺对古典历史学派发起的实证围剿及其学科史影响。

@@ -205,4 +205,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson (2025)]] — 深入剖析企业风险投资（CVC）在投资阶段、团队成功记录与[[Technology Readiness Level|技术就绪度]]（TRL）试点要求三个维度上与大学早期衍生企业的系统性错配，并揭示生物医药领域企业孵化器（JLabs 与 Lilly Ventures）的差异化运作。
+> - [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson (2025)]] — 深入剖析企业风险投资（CVC）在投资阶段、团队成功记录与[[Technology Readiness Level|技术就绪度]]（TRL）试点要求三个维度上与大学早期衍生企业的系统性错配，并揭示生物医药领域企业孵化器（JLabs 与 Lilly Ventures）的差异化运作。 [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 从企业科技转化三路径（内部研发、外部初创并购、开源生态）视角，论证 CVC 作为外部创新雷达防范颠覆性技术冲击的核心功能，并以斯坦福 PageRank 案例作为工业界错失外部转化的关键历史警示。

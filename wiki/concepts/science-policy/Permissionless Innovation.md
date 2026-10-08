@@ -153,4 +153,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统阐述无许可创新（Permissionless Innovation）在国家科技新政中的核心定位。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统阐述无许可创新（Permissionless Innovation）在国家科技新政中的核心定位；深刻剖析传统预防原则仅计算行动风险而忽视“停滞代价”的制度偏倚，论述比特世界与原子世界的规制失衡如何导致工程人才逃逸，并以核能审批改革、莫哈韦试验场和州级沙盒为例，提出通过设定法定许可上限、开放公共试验台与重塑风险收益平衡，全面释放国家物理建造能力的改革方案。

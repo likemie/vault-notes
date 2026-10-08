@@ -345,7 +345,7 @@ updated: 2026-10-08
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 28]] — 系统论述混合方法作为第三次方法论运动的[[Pragmatic Paradigm\|实用主义范式]]、设计类型学、整合策略与哲学论辩。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 28]] — 系统论述混合方法作为第三次方法论运动的[[Pragmatic Paradigm\|实用主义范式]]、设计类型学、整合策略与哲学论辩。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch. 7, p. 119]] — 系统提出顺序、平行与合成式三种数据收集时间规划模型及前载/后载时间成本权衡。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al., 2011, Ch. 19, p. 380]] — 论证[[Virtual World\|虚拟世界]]探究高度适合混合方法，数据既可数值化统计又可通过解释[[Phenomenology\|现象学]]深入理解。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 232]] — 奠定混合方法与多方法的核心区分，规范聚敛式、解释序列与探索序列三大核心设计及[[Joint Display\|联合展示]]规程。
 > - [[Argument_Brady_2023_EPR\|Brady et al., 2023, p. 6]] — 追踪教育心理学期刊中混合方法的使用占比（6%）及其包含[[Recommendations for Practice\|实践建议]]的高比例特征（60%）。
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall, 2025b, p. 55]] — 综合运用理论框架建构、65 所大学[[Website Content Analysis\|网站内容分析]]与[[Questionnaire\|问卷调查]]三步混合设计，透视大学[[University-Industry Collaboration\|产学参与]]模式。

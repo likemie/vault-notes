@@ -284,5 +284,5 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 针对 Zhang et al. (2022) 宣扬[[Direct Instruction\|直接教学]]绝对优越论的立场发起系统性反驳与批判综述，全面整合受控实验、[[PISA]] 跨国数据与课程级长周期实证，确立了指导式探究在深层概念理解上的循证优势，并提出以学习目标。
+> - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** — 针对 Zhang et al. (2022) 宣扬[[Direct Instruction\|直接教学]]绝对优越论的立场发起系统性反驳与批判综述，全面整合受控实验、[[PISA]] 跨国数据与课程级长周期实证，确立了指导式探究在深层概念理解上的循证优势，并提出以学习目标、先验知识与认知特质为调节[[Variable\|变量]]的探究与直接教学协同模型。
 > - **[[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]** — 针对 26 项实验与准实验[[Intervention Research\|干预研究]]开展[[Meta-analysis\|元分析]]，证实指导式探究（$d = 0.808$）是促进[[Epistemic Cognition\|认识论认知]]发展与提升[[Academic Achievement\|学业成就]]最有效的教学框架，显著优于缺乏显性支架的问题驱动学习（$d = 0.340$）与开放辩论（$d = 0.134$）。

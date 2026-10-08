@@ -181,4 +181,4 @@ updated: 2026-10-08
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al. (2011, Ch. 19)]] — 以公民教育中的敏感议题研究（Martin, 2010）为案例，展示了如何通过[[Virtual World\|虚拟世界]]中的投射技术收集青少年对公民身份、宽容和赋权等议题的观点和价值观，包括[[Avatar\|化身]]创建、物品选择、情境讨论、在线日记、同伴审查和退出访谈的完整流程。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al. (2011, Ch. 19)]] — 以公民教育中的敏感议题研究（Martin, 2010）为案例，展示了如何通过[[Virtual World\|虚拟世界]]中的投射技术收集青少年对公民身份、宽容和赋权等议题的观点和价值观，包括[[Avatar\|化身]]创建、物品选择、情境讨论、在线日记、同伴审查和退出访谈的完整流程。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al. (2011, Ch. 21)]] — 系统介绍了投射技术在儿童访谈中的经典形式（图片、玩偶、手偶、场景照片、猜是谁、三个愿望、感受卡），以及在边缘群体和沟通困难者中的应用（Kelly, 2007），展示了投射技术避免直接提问偏差、作为替代沟通方式的功能。

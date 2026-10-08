@@ -231,6 +231,6 @@ updated: 2026-10-08
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 考证企业内部中央研发实验室作为一项重大组织创新的制度发生学起源（1870 年代德国化学染料工业率先确立），论证其在沟通大学基础科研与工业[[Research Translation|技术转化]]中的核心功能。
-> - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 梳理从企业中央研发实验室向开放创新与现代[[University-Industry Collaboration|产学合作]]网络演变的百年历史脉络，指出系统集成能力赤字。
+> - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 梳理从企业中央研发实验室向开放创新与现代[[University-Industry Collaboration|产学合作]]网络演变的百年历史脉络，指出系统集成能力赤字。 [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 从企业内部研发管理实践出发，剖析分散技术理事会与中央研发实验室（Intel Labs）在产学资助结构中的权衡，深度解构英特尔与微软发起 [[Universal Parallel Computing Research Centers|UPCRC]] 攻关多核并发瓶颈的破局机制。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP (2019)]] — 探讨企业中央实验室衰退后，现代企业在开放和分布式[[Innovation Ecosystem|创新生态]]中如何重构与[[Research Universities|研究型大学]]的战略伙伴关系。
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 实证剖析微电子大企业中央研发机构重组对美国半导体产业复苏与基础研究长期供给脆弱性的深远影响。

@@ -508,7 +508,7 @@ updated: 2026-10-08
 > - [[Argument_Serpell_2020_EP|Serpell (2020)]] — 提出宏观立法研究转化导航框架，确立[[Legislative Policy Brief|立法政策简报]]法条化、极简定调传播法则与专业学会快速响应机制（[[Rapid Assessment and Response Strategy|RARS]]）。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 提出企业支持大学研究转化的六阶段漏斗模型，深度解析监护权交接、组织风险分担与三类转化路径。
 > - [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] — 实证揭示英格兰小学通过 RLCs 推进研究转化的机制，提出微观转化需超越“剪贴照搬”，依托[[School Enquiry Cycle|学校探究循环]]与[[Lesson Study|课例研究]]识别底层行动理论，规避[[Activity Traps|活动陷阱]]。
-> - [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] — 跨国实证测度 37 个教育系统组织行动者在生产、政策促成与实践促成三端的分布，确立生产过剩与转化贫瘠的结构性断裂。
+> - [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] — 跨国实证测度 37 个教育系统组织行动者在生产、政策促成与实践促成三端的分布，确立生产过剩与转化贫瘠的结构性断裂。 [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] — 阐明[[Evidence Ecosystem|证据生态系统]]中转化中介的生态位，提出超越线性传递的动态共创模型。 [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 比较四大主流[[Knowledge Mobilisation|知识动员]]模型与微观创新动力学，提炼研究转化从[[Technology Transfer|技术转移]]向系统自适应转型的演化规律。
 
 ---
 

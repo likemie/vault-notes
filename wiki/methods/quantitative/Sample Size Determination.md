@@ -130,4 +130,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统梳理样本量确定的多重因素、经验法则、统计方法要求和数学公式，涵盖 Krejcie & Morgan（1970）、Bartlett et al.（2001）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统梳理样本量确定的多重因素、经验法则、统计方法要求和数学公式，涵盖 Krejcie & Morgan（1970）、Bartlett et al.（2001）、Borg & Gall（1979）和 Gorard（2003）等关键来源。

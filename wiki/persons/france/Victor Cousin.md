@@ -218,7 +218,7 @@ updated: 2026-10-08
 > - **法国课程哲学与文化传统** 其所倡导的文理融合通识构想，直接孕育了法国中等教育延续一个多世纪的“[[Culture Générale\|普通文化]]（*culture générale*）”理念与心智训练传统。（Halls, 1965:2; p. 30）
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 深度解构库森的“政策导向行政改良主义母题”，阐明教育权作为国家公共资源的法哲学如何作为推论桥梁，完成从普鲁士[[Prussian Draft Education Law of 1819\|聚芬法案]]向法国 1833 年基佐法案的实定法直接转置。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 深度解构库森的“政策导向行政改良主义母题”，阐明教育权作为国家公共资源的法哲学如何作为推论桥梁，完成从普鲁士[[Prussian Draft Education Law of 1819\|聚芬法案]]向法国 1833 年基佐法案的实定法直接转置。 [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 确认[[Report on the State of Public Instruction in Prussia|库森报告]]经奥斯汀英译后在美国掀起教育者与政治家大规模赴欧浪潮，援引 Hinsdale (1906) 评语称其影响超越美国历史上任何其他教育[[Document|文献]]；揭示美国公学制度直接模仿普鲁士国民学校而师范学校沿用法语术语的史实。[(Rust et al., 2009, p. 124)]；[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 确立库森在比较教育“第一重论述代际（启蒙准科学与行政改良代际）”中的枢纽坐标，剖析其“[[Scholiocentric Approach|以校为中心]]”（Scholiocentric）考察如何充当游说立法机关与争取公共财政的政治合法化依据（pp. 140–141）。
 
 ---
 

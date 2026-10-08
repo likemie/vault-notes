@@ -274,6 +274,6 @@ updated: 2026-10-08
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 详述了 [[Education Endowment Foundation\|EEF]] 试验复算审计推动出台国家级《EEF 评估统计分析指南》（Statistical Analysis Guidance for EEF Evaluations。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 详述了 [[Education Endowment Foundation\|EEF]] 试验复算审计推动出台国家级《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018），确立强制采用组内相关系数（ICC）与聚类稳健[[Standard Error\|标准误]]模型（Demack, 2019）的技术准则。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 详析全球 12 所[[Educational Evidence Clearinghouses\|证据清算中心]]在[[Cluster Randomized Trials\|集群随机试验]]审查中的分歧，批判了忽视 ICC 校正与[[Unit of Analysis\|分析单位]]错位导致虚假显著性的普遍现象。
 > - [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] — 采用双向随机效应绝对一致性单评分者模型 ICC(2,1) 评估大语言模型与人类专家在 156 项教育[[Meta-analysis\|元分析]]数据提取中的准确性与评分者间一致性（LLMs $\text{ICC} = 0.96–0.97$）。

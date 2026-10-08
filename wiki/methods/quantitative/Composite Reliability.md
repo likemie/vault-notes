@@ -135,7 +135,7 @@ updated: 2026-10-08
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 在《[[Research Literacy Scale for Teachers\|教师研究素养量表]]》的 [[Confirmatory Factor Analysis\|CFA]] 心理计量检验中，计算各分维度的组合[[Reliability\|信度]]分别为：研究意识（$\text{CR} = .83$）、研究态度（$\text{CR} = .75$）、研究技能（$\text{CR} = .87$）。
+> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 在《[[Research Literacy Scale for Teachers\|教师研究素养量表]]》的 [[Confirmatory Factor Analysis\|CFA]] 心理计量检验中，计算各分维度的组合[[Reliability\|信度]]分别为：研究意识（$\text{CR} = .83$）、研究态度（$\text{CR} = .75$）、研究技能（$\text{CR} = .87$）、[[Research Utilization\|研究使用]]（$\text{CR} = .90$），全部显著超过 $.70$ 门槛，证实了量表各维度卓越的[[Internal Consistency\|内部一致性]]。
 
 ---
 

@@ -341,7 +341,7 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 从经济思想史与[[Evolutionary Economics|演化经济学]]视角追溯[[National Innovation System|国家创新系统]]的[[Friedrich List|李斯特]]渊源，通过英、德、美、日、苏及东亚与拉美的长周期比较历史考证，系统论证国家教育培训体系、企业内部专业化研发与网络连接在[[Technological Catch-up|技术赶超]]中的决定性作用，反驳全球化导致民族国家过时的论调。
+> - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 从经济思想史与[[Evolutionary Economics|演化经济学]]视角追溯[[National Innovation System|国家创新系统]]的[[Friedrich List|李斯特]]渊源，通过英、德、美、日、苏及东亚与拉美的长周期比较历史考证，系统论证国家教育培训体系、企业内部专业化研发与网络连接在[[Technological Catch-up|技术赶超]]中的决定性作用，反驳全球化导致民族国家过时的论调，确立[[National Innovation System|国家创新系统]]与[[Regional Innovation System|区域创新系统]]的多标量空间架构。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]] — 阐述从国家创新系统“系统失灵修补”向使命导向“[[Market Shaping and Creating|市场塑造]]与创造”的理论演化脉络与 ROAR 政策[[Analytic Framework|分析框架]]。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]] — 历史制度分析战后五十年美国国防研发投资与采购体系，系统阐明[[University-Based Research Infrastructure|大学科研基础设施]]奠定、初生期先导采购与第二货源机制如何塑造美国 IT 创新系统，揭示产业成熟期由民向军的逆向技术溢出规律及反恐预算重组的潜在风险。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]] — 系统梳理五十年来产学关系与[[Innovation Policy Paradigms|创新政策范式]]的三次跃迁（科学促增长 → 创新系统 → [[Transformative Change|变革转型]]），详述系统失灵的完整分类（制度、网络、锁定、能力等）及大学对创新全谱系的多维贡献。

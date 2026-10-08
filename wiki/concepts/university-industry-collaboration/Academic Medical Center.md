@@ -192,4 +192,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Bang_2025_ClinicalTrials|Bang (2025)]] — 实证剖析学术医学中心（AMC）在产业[[Clinical Trial|临床试验]]中的运营绩效，详尽揭示其在启动周期（$>120$天）、多重委员会审查与管理费率上的效率劣势，并提炼高绩效 AMC 的精益改革路径。
+> - [[Argument_Bang_2025_ClinicalTrials|Bang (2025)]] — 实证剖析学术医学中心（AMC）在产业[[Clinical Trial|临床试验]]中的运营绩效，详尽揭示其在启动周期（$>120$天）、多重委员会审查与管理费率上的效率劣势，并提炼高绩效 AMC 的精益改革路径。 [[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones (2025)]] — 系统界定学术医学中心（AMC）的学术-临床二元结构，深入对比 AMC 与[[Academic Health System|学术健康系统]]（AHS）在组织逻辑、区域整合与产业创新促进力上的本质差异。

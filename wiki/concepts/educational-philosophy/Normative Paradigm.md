@@ -203,7 +203,7 @@ updated: 2026-10-08
 ## 实证数据
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 17–18)]] — 系统界定规范[[Paradigm\|范式]]两大基本假定、行为与行动的[[Ontology\|本体论]]断裂、理论建构的理性大厦取向及其与[[Interpretive Paradigm\|诠释范式]]的横向辨析。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 17–18)]] — 系统界定规范[[Paradigm\|范式]]两大基本假定、行为与行动的[[Ontology\|本体论]]断裂、理论建构的理性大厦取向及其与[[Interpretive Paradigm\|诠释范式]]的横向辨析。 [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 在跨章节论述中展示规范范式在量化调查设计、[[Experimental Research\|实验研究]]与标准化测量中的具体操作逻辑。
 
 ---
 

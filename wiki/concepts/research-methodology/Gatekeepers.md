@@ -455,7 +455,7 @@ Bogdan & Biklen（1992）提出了把关人在审查研究方案时核心关切�
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 在[[Qualitative Research|质性研究]]设计中系统确立把关人的五项审查问题框架，将获得把关人批准定位为进入现场的关键前置步骤。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 全面系统探讨质性与[[Sensitive Research|敏感研究]]中的把关人机制：在[[Research Ethics|研究伦理]]框架中阐明把关人准入谈判地位、Bell 保证框架与非对称利害关系（Ch. 5），并在敏感研究视域下深入剖析把关人的六种风险控制行为。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 全面系统探讨质性与[[Sensitive Research|敏感研究]]中的把关人机制：在[[Research Ethics|研究伦理]]框架中阐明把关人准入谈判地位、Bell 保证框架与非对称利害关系（Ch. 5），并在敏感研究视域下深入剖析把关人的六种风险控制行为、Morrison 的十五项现实困境与 Whyte 街角社会中担保人的角色演变（Ch. 9）。
 > - [[Argument_Altrichter_2019_ZfB|Altrichter et al. (2019)]] — 将学校校长定性为教育变革把关人，实证检验其对 22 项治理工具的过滤态度，证实把关人价值认同对学校改进活动与微观工时配置具有强烈的塑造效应。
 > - [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] — 开展英德两国 20 所学校跨国质性比较，揭示外部高利害（[[Ofsted]]）与低利害（[[Institute for Educational Monitoring and Quality Improvement|IfBQ]]）治理问责体制如何决定学校把关人对研究证据的采纳模式（表演性合规 vs [[Reflexivity|反思性]]同侪会商）及教师专长发展。
 > - [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013)]] — 提出政策生命周期把关人驱动证据权变假说，通过全美 [[Common Core State Standards|CCSS]] 政策推进的三阶段追踪，阐明议程设置、方案设计与法定采纳中政治领袖、专家工会与法定表决机构等制度把关人如何迫使实证证据从宏观象征符号向微观技术工具演化。

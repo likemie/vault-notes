@@ -169,4 +169,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 67–71)]] — 通过 IB 六年试验比较自治大学、中央教育机关、指定学校和公共任职等不同承认路径，展示国际资格如何从有限承诺发展为跨国使用网络。
+> - [[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 67–71)]] — 通过 IB 六年试验比较自治大学、中央教育机关、指定学校和公共任职等不同承认路径，展示国际资格如何从有限承诺发展为跨国使用网络。 [[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 161–191)]] — 以法国国际选项和德国 Abitur 争议说明，成熟国际资格仍须在多文化流动、专业准入与国内统一竞争之间协商有限承认。

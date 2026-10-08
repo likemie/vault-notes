@@ -342,4 +342,4 @@ updated: 2026-10-08
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — 强调智能技术干预必须依托显性教学法脚手架，缺乏任务规程与支架约束的自由应用容易诱发认知参与失衡。
 > - [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]] — 质性[[Case Study\|个案研究]]教师在课堂探究与自主阅读中如何借助引导性提问搭建从依附走向独立的过渡支架。
 > - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 提出基于[[Defeater|击败者机制]]（Defeaters）与反思机器（Reflection Machines）的认知安全脚手架架构，论证其在为人机协同决策提供可抗辩性支持、注入生产性[[Epistemic Friction|认识论摩擦]]以及防范[[Automation Bias|自动化偏差]]中的关键功能。
-> - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 从[[Virtue Epistemology|美德认识论]]责任论出发，提出 Q-Tutor 架构：通过内置直接答案拦截规则、双模态提问序列（AI 主导探究 → 学生主导练习）与个人经验联结，将脚手架的功能定位从效率减负转向防范[[Cognitive Deskilling|认知去技能化]]与培育[[Epistemic Virtues and Vices|理智美德]]的德性培育机制。
+> - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 从[[Virtue Epistemology|美德认识论]]责任论出发，提出 Q-Tutor 架构：通过内置直接答案拦截规则、双模态提问序列（AI 主导探究 → 学生主导练习）与个人经验联结，将脚手架的功能定位从效率减负转向防范[[Cognitive Deskilling|认知去技能化]]与培育[[Epistemic Virtues and Vices|理智美德]]的德性培育机制；其叙事故事模式通过唤起好奇与着迷等[[Intellectual Emotions|理智情感]]，协助[[Skill of Questioning|提问技能]]升华为[[Open-Mindedness|思想开放]]与[[Creativity|创造力]]等稳定的理智品格。

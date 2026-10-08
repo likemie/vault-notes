@@ -447,4 +447,4 @@ Simpson & Tuson（2003, ch. 2）提出观察规划需考虑十四个方面（[[A
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015, Ch.3)]] — 系统介绍观察法的含义、类型、程序、策略和记录方式
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al. (2011, Ch. 23)]] — 教材专章系统介绍观察的分类维度（Flick 五维、Cooper & Schindler 三维、Gold 角色连续体）、Simpson & Tuson 规划清单、[[Structured Observation\|结构化观察]]与[[Critical Incidents\|关键事件法]]、参与式观察与[[Field Notes\|田野笔记]]、技术记录、时间与[[Causality\|因果推断]]三法则。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al. (2011, Ch. 23)]] — 教材专章系统介绍观察的分类维度（Flick 五维、Cooper & Schindler 三维、Gold 角色连续体）、Simpson & Tuson 规划清单、[[Structured Observation\|结构化观察]]与[[Critical Incidents\|关键事件法]]、参与式观察与[[Field Notes\|田野笔记]]、技术记录、时间与[[Causality\|因果推断]]三法则、伦理考量以及十类偏误与信效度保障

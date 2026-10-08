@@ -307,6 +307,6 @@ updated: 2026-10-08
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 在研究方法教科书的哲学基础章节中系统阐述证伪主义作为[[Postpositivism|后实证主义范式]]的基石概念，详细界定严格检验与推测反驳循环。
-> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 考掘战后比较教育学中霍姆斯如何引入波普尔假说-演绎法与可反驳假说，探讨预测划界标准引发的学术大论战。
+> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 考掘战后比较教育学中霍姆斯如何引入波普尔假说-演绎法与可反驳假说，探讨预测划界标准引发的学术大论战。 [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 权威阐述霍姆斯以 $L + I = P$ 公式[[Operationalization|操作化]]波普尔证伪原则，辨析条件预测与不可证伪的历史宿命论预言，并借由[[Crane Brinton|布林顿]]史学论证历史探索性工作[[Hypothesis|假设]]的可检验性。 [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 思想史考古揭示 1960 年代霍姆斯、诺亚与埃克斯坦如何利用波普尔可证伪性准绳围剿历史比较学派，并借由布林顿比较史学归纳法重构非普适[[Working Hypothesis|探索性假说]]的合法性。
 > - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 IB [[Theory of Knowledge|知识论]]（TOK）教科书为经验案例，剖析证伪主义在[[Critical Thinking|批判性思维]]教学中被教条化和简化的结构性困境。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，提出在[[Metascience|元科学]]时代强制实施[[Gold Standard Science|黄金标准科学]]、设立专职复现与证伪奖金、以及构建 AI 自动化形式化验证基础设施。

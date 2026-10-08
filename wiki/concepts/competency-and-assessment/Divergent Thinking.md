@@ -320,7 +320,7 @@ updated: 2026-10-08
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] — 运用随机效应[[Meta-analysis\|元分析]]检验[[Graphic Organizer\|图形组织器]]对发散思维的促进作用，证实空间可视化工具对发散性[[Higher-Order Thinking Skills\|高阶思维]]（$g = 1.167$）的提升显著强于[[Convergent Thinking\|聚合思维]]（$g = 0.680$）。
 > - [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] — 在[[Meta-meta-analysis\|二阶元分析]]中将发散思维与综合创造过程分别建模比较，揭示发散思维作为关键认知构件与[[Creativity\|创造力]]指标存在稳定的正向关联（$r = 0.14$）。
-> - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — 针对高校[[Creativity Training\|创造力干预]]开展[[Three-Level Meta-Analysis\|多层元分析]]（29 项研究，109 个[[Effect Size\|效应量]]），证实发散创造性思维在各[[Construct\|构念]]中增益最高（$g = 0.671$），揭示言语训练（$g = 0.998$）与独立个体练习（$g = 0.682$）的显著优势。
-> - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 运用随机效应[[Meta-analysis\|元分析]]（29 项实验与准[[Experimental Research\|实验研究]]，59 个[[Effect Size\|效应量]]）确立生成式 AI 对学生创造力与发散思维的干预基准（$k = 23, g = 0.444$），揭示 AI 倾向输出中规中矩的常规套路，容易使构想同质化而难以突破创新。
+> - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — 针对高校[[Creativity Training\|创造力干预]]开展[[Three-Level Meta-Analysis\|多层元分析]]（29 项研究，109 个[[Effect Size\|效应量]]），证实发散创造性思维在各[[Construct\|构念]]中增益最高（$g = 0.671$），揭示言语训练（$g = 0.998$）与独立个体练习（$g = 0.682$）的显著优势，并确立 $< 2$ 个月的倒 U 型黄金干预窗口（$g = 0.844$）。
+> - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 运用随机效应[[Meta-analysis\|元分析]]（29 项实验与准[[Experimental Research\|实验研究]]，59 个[[Effect Size\|效应量]]）确立生成式 AI 对学生创造力与发散思维的干预基准（$k = 23, g = 0.444$），揭示 AI 倾向输出中规中矩的常规套路，容易使构想同质化而难以突破创新，并证实适度干预周期（8–16 周）与高[[Self-Regulated Learning\|自我调节学习]]能力的显著调节保护作用。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项高等教育实证研究，揭示生成式 AI 作为发散思维催化剂（$n=31$）与构想惰性风险源（$n=20$）的双向作用机制。
 > - [[Argument_Smith_2026_SPE\|Smith (2026)]] — 结合写作学与社会[[Epistemology|认识论]]，解构灵感生成与[[Brainstorming|头脑风暴]]中的发散思维机制，揭示 AI 构想均质化与非具身空想如何诱发未成年求知者的[[Formative Epistemic Injustice|成长性认识不正义]]。

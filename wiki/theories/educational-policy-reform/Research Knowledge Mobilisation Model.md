@@ -185,6 +185,6 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 系统评述 Levin RKM 模型，将其与 Lavis、Graham、Gough 横向比照，确立其在功能重叠与系统思维上的突破贡献。
+> - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 系统评述 Levin RKM 模型，将其与 Lavis、Graham、Gough 横向比照，确立其在功能重叠与系统思维上的突破贡献。 [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — [[OECD\|经合组织]]编著第五章，征引 Levin 理论将动员机制与障壁比率[[Operationalization\|操作化]]为评估系统优先级的实证诊断工具，并基于跨国数据深化五阶段利用阶梯的评估分析。
 > - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 在全系统[[Knowledge Mobilisation\|知识动员]]战略中征引并深化 Levin 的重叠网络思想，推动全系统能力建设。
 

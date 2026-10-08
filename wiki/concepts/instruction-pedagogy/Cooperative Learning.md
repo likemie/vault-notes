@@ -274,4 +274,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — 综合 15 项一阶[[Meta-analysis\|元分析]]（403 项原始研究、23 个[[Effect Size\|效应量]]），开展[[Meta-meta-analysis\|二阶元分析]]系统确立合作学习对[[Academic Achievement\|学业成就]]（$ES = 0.71$）。
+> - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — 综合 15 项一阶[[Meta-analysis\|元分析]]（403 项原始研究、23 个[[Effect Size\|效应量]]），开展[[Meta-meta-analysis\|二阶元分析]]系统确立合作学习对[[Academic Achievement\|学业成就]]（$ES = 0.71$）、[[Higher-Order Thinking Skills\|高阶思维技能]]（$ES = 0.76$）与[[Affective Outcomes\|情感行为]]（$ES = 0.51$）的宏观干预基准（总加权 $ES = 0.71$），并揭示 [[Cooperative Integrated Reading and Composition\|CIRC]]、小组[[Survey Research\|调查法]]、[[Jigsaw\|拼图法]]等技术形态与学科情境的显著调节机制。

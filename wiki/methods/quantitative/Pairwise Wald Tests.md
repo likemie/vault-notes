@@ -188,4 +188,4 @@ updated: 2026-10-08
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 运用成对 Wald 检验系统验证了[[Graphic Organizer\|图形组织器]]形态（[[Mind Mapping\|思维导图]] $g = 1.041$ > [[Argument Mapping\|论证图]] $g = 0.798$ > [[Concept Mapping\|概念图]] $g = 0.548$）。
+> - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 运用成对 Wald 检验系统验证了[[Graphic Organizer\|图形组织器]]形态（[[Mind Mapping\|思维导图]] $g = 1.041$ > [[Argument Mapping\|论证图]] $g = 0.798$ > [[Concept Mapping\|概念图]] $g = 0.548$）、学段（中学 $g = 1.113$ > 小学 $g = 0.877$ > 大学 $g = 0.659$）以及[[Higher-Order Thinking Skills\|高阶思维]][[Construct\|构念]]层级（倾向与过程显著强于技能结果）的两两级差显著性。

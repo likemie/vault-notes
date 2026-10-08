@@ -205,7 +205,7 @@ updated: 2026-10-08
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 在《[[Research Literacy Scale for Teachers\|教师研究素养量表]]》的实证检验中，对男性（$n=77$）与女性（$n=181$）教师执行跨性别 MG-[[Confirmatory Factor Analysis\|CFA]]，形态等值（$\text{[[Model Fit Indices in SEM and CFA\|CFI]]}=.907$）、弱等值（$\Delta\text{CFI}=-.001$）。
+> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 在《[[Research Literacy Scale for Teachers\|教师研究素养量表]]》的实证检验中，对男性（$n=77$）与女性（$n=181$）教师执行跨性别 MG-[[Confirmatory Factor Analysis\|CFA]]，形态等值（$\text{[[Model Fit Indices in SEM and CFA\|CFI]]}=.907$）、弱等值（$\Delta\text{CFI}=-.001$）、强等值（$\Delta\text{CFI}=+.003$）与严格等值（$\Delta\text{CFI}=.000$）全部完全满足 $|\Delta\text{CFI}| \le .010$ 标准，实证确立了跨性别严格测量不变性，为男女教师[[Research Literacy\|研究素养]]均值无偏比较提供了基石。
 
 ---
 

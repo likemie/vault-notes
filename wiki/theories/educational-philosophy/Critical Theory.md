@@ -227,6 +227,6 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen, Manion & Morrison (2011, pp. 25–31)]] — 系统阐释批判教育研究的理论框架与应用图景：解构泰勒课程原理的[[Technical Rationality|技术理性]]预设，将课程重读为意识形态选择，阐明[[Participatory Research|参与式研究]]的社区赋权逻辑与女性主义[[Epistemology|认识论]]扩展。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen, Manion & Morrison (2011, pp. 25–31)]] — 系统阐释批判教育研究的理论框架与应用图景：解构泰勒课程原理的[[Technical Rationality|技术理性]]预设，将课程重读为意识形态选择，阐明[[Participatory Research|参与式研究]]的社区赋权逻辑与女性主义[[Epistemology|认识论]]扩展。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen, Manion & Morrison (2011, pp. 270–276)]] — 详尽剖析批判理论在方法论层面的操作形态，界定以[[Jürgen Habermas|哈贝马斯]]认识兴趣为指引的[[Emancipatory Action Research|解放性行动研究]]与[[Ideal Speech Situation|理想言说情境]]，反思政治化研究的实践困境。
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 运用批判理论与安妮·施耐德与海伦·英格拉姆的政策价值建构论，深度剖析美国《[[Reading Excellence Act|卓越阅读法案]]》立法背后的政商学铁三角，创立统整三类研究与三维民主阵线的[[Critical Pluralism|批判性多元主义]]框架。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 131–132, 136)]] — 考证比较教育学科演进史，揭示 1970 年代新兴批判知识共同体如何打破战后[[Structural Functionalism|结构功能主义]]与现代化理论的单一霸权，确立包括批判理论在内的 26 种核心[[Theoretical Standpoint|理论立场]]共存的理论[[Pluralism|多元主义]]。

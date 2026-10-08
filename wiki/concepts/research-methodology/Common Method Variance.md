@@ -111,4 +111,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Park_2026_TSC\|Park et al. (2026)]] 在学生样本[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]相关的[[Three-Level Meta-Analysis\|三水平元分析]]中，发现双主观（自陈）测量组合的相关（$r = 0.509$）显著高于双客观组合（$r = 0.317$），据此将测量类型[[Interaction Effect\|调节效应]]解释为自陈测量中共同方法变异的证据。
+> - [[Argument_Park_2026_TSC\|Park et al. (2026)]] 在学生样本[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]相关的[[Three-Level Meta-Analysis\|三水平元分析]]中，发现双主观（自陈）测量组合的相关（$r = 0.509$）显著高于双客观组合（$r = 0.317$），据此将测量类型[[Interaction Effect\|调节效应]]解释为自陈测量中共同方法变异的证据，并建议未来研究以表现型或行为指标对自陈测量进行[[Triangulation\|三角验证]]。

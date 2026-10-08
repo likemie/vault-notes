@@ -255,4 +255,4 @@ updated: 2026-10-08
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 综述了齐·肖（ZhiMin Xiao）、[[Steve Higgins\|史蒂夫·希金斯]]（Steve Higgins）与阿迪特·卡西姆（Adetayo Kasim）利用英格兰 NPD 数据开展的 17 项试验复算，证实了基线[[Pre-test and Post-test\|前测]] OLS 回归在方差吸收与功效提升方面的核心价值。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 综述了齐·肖（ZhiMin Xiao）、[[Steve Higgins\|史蒂夫·希金斯]]（Steve Higgins）与阿迪特·卡西姆（Adetayo Kasim）利用英格兰 NPD 数据开展的 17 项试验复算，证实了基线[[Pre-test and Post-test\|前测]] OLS 回归在方差吸收与功效提升方面的核心价值，同时也警示了未校正聚类结构的 OLS 会诱发严重的[[Standard Error\|标准误]]低估与伪显著性，促成了英国试验统计指南的确立。

@@ -181,4 +181,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室 2026 年总统科学报告完整论证文本《科学：新的黄金时代》（Science: A New Golden Age）。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室 2026 年总统科学报告完整论证文本《科学：新的黄金时代》（*Science: A New Golden Age*）；系统诊断战后线性模型失灵与行政摩擦，提出重塑对人资助、畅通本土制造承接、重振[[Process Knowledge|过程知识]]与[[Apprenticeship|学徒制]]、推进[[Genesis Mission|创世纪计划]]与[[Gold Standard Science|黄金标准科学]]四大政策支柱，并制定面向 2028 财年的联邦研发预算优先事项指导备忘录。

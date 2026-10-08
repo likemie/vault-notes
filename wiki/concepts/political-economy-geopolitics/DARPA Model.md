@@ -165,4 +165,4 @@ updated: 2026-10-08
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 深度解构 [[DARPA]] 模式微观本质的里程碑论文，确立[[Embedded Network Governance|嵌入型网络治理]][[Paradigm|范式]]。
 > - Bonvillian & Van Atta (2011) — 提出 DARPA 作为国家技术变革“连通性发动机”的综合分析模型。
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 把 DARPA 写成不把共识小组当作主要决策者、由单个项目经理下技术赌注并组织团队的容器。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 把 DARPA 写成不把共识小组当作主要决策者、由单个项目经理下技术赌注并组织团队的容器。国会后来设立的健康领域高级研究计划局（[[ARPA-H|Advanced Research Projects Agency for Health]], ARPA-H）和能源领域高级研究计划局（Advanced Research Projects Agency–Energy, [[ARPA-E]]）被当作同一逻辑的延伸。报告把成功归结为雇对人和给他们真正的裁量，并把海尔迈耶问答当作缺口绘图的纪律。它同时指出，中等规模科学里的[[Focused Research Organization|聚焦研究组织]]和X 实验室占据的是标准联邦资助装不下、风险投资又因不够商业而离开的另一块，不能由项目经理模式单独覆盖。

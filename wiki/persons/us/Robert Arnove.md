@@ -161,7 +161,7 @@ updated: 2026-10-08
 > - **学术共同体与跨国传播** 作为 [[Comparative and International Education Society|CIES]] 前会长与国际比较教育学界的精神领袖，阿诺夫长期致力于推动南北学术平等对话，支持拉美、非洲与亚洲青年学者开展反思资本主义霸权本土经验的批判研究。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 权威代表作，全面系统梳理[[World-Systems Theory|世界体系分析]]在比较教育学中的演进，对质新制度主义与政治现实主义，确立全球与本土辩证法及自下而上全球化分析框架。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 权威代表作，全面系统梳理[[World-Systems Theory|世界体系分析]]在比较教育学中的演进，对质新制度主义与政治现实主义，确立全球与本土辩证法及自下而上全球化分析框架。 [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 在第四阶段[[Discourse|话语]]（1970–1990）学科史梳理中，高度肯定阿诺夫将[[Immanuel Wallerstein|沃勒斯坦]][[World-Systems Theory|世界体系理论]]引入比较教育学的奠基性突破，揭示跨国教育依附与支配链条，并反思批判宏观范式对历史维度的挤压。 [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 全面继承阿诺夫与托雷斯的全球与本土辩证法，作为分析拉美[[Conditioned State Theory|受限国家]]在依附性资本主义下的阶级[[Dual School System|双轨学制]]与教育[[Legitimation Crisis|合法化危机]]的核心支柱。
 
 ---
 

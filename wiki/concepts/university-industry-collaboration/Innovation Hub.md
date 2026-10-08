@@ -209,4 +209,4 @@ updated: 2026-10-08
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统论述如何通过开放国家实验室用户设施、建立共享微纳与生物[[Pilot Scale Platform|中试平台]]，以及联动社区学院和区域制造集群，将创新中心打造成维系国家工艺知识与产业制造韧性的战略枢纽。
-> - [[Argument_Byrne_2025_InnovationCenters|Byrne & Clements (2025)]] — 结合 [[TUFF]] 四十余年实践，系统阐明创新中心四个核心信条与六项优先领域，剖析 [[Research Triangle Park|RTP]]、[[Tech Square at Georgia Tech|Tech Square]]、[[Kendall Square|CIC]] 与[[Purdue Discovery Park|普渡发现园]]的成功机制，提出“密度就是命运”的[[Placemaking|场所营造]][[Paradigm|范式]]。
+> - [[Argument_Byrne_2025_InnovationCenters|Byrne & Clements (2025)]] — 结合 [[TUFF]] 四十余年实践，系统阐明创新中心四个核心信条与六项优先领域，剖析 [[Research Triangle Park|RTP]]、[[Tech Square at Georgia Tech|Tech Square]]、[[Kendall Square|CIC]] 与[[Purdue Discovery Park|普渡发现园]]的成功机制，提出“密度就是命运”的[[Placemaking|场所营造]][[Paradigm|范式]]。 [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]] — 深度剖析产学联合体与基于地点的创新中心治理架构，分析大企业、高校、投资者与地方政府在创新中心中的差异化价值主张与契约设计。

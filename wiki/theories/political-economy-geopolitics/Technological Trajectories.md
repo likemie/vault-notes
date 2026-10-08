@@ -322,6 +322,6 @@ updated: 2026-10-08
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 深入微电子产业前沿，揭示公共代理人（[[DARPA]] 项目经理）如何在[[Vertical Disintegration|纵向碎片化产业]]中调动[[Network Plasticity|网络可塑性]]与五大非正式机制，引导硅锗、应变硅、3D 封装与光芯片等战略性技术轨道跃迁。
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 实证剖析美日半导体产业竞争中从大宗存储器制造微缩向微处理器架构设计与垂直专业化分工的重大技术轨迹跃迁。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]] — 实证对比美欧信息技术政策，揭示军工首发采购、反垄断规制与第二供应商强制扩散如何塑造美国多元竞争的技术轨迹，而欧洲扶持单一国家冠军则导致技术轨道锁定与跟跑滞后。
-> - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 以[[Semiconductor Research Corporation|半导体研究公司]]（SRC）1982–2011 年为案例，实证展示会员制研究联合体如何通过 GRC→[[Focus Center Research Program|FCRP]]→NRI 的多轨道计划矩阵，对半导体技术轨迹的不同成熟度时域进行分层管理，在维持主流 CMOS 轨道演进的同时。
+> - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 以[[Semiconductor Research Corporation|半导体研究公司]]（SRC）1982–2011 年为案例，实证展示会员制研究联合体如何通过 GRC→[[Focus Center Research Program|FCRP]]→NRI 的多轨道计划矩阵，对半导体技术轨迹的不同成熟度时域进行分层管理，在维持主流 CMOS 轨道演进的同时，为后摩尔时代的颠覆性新器件轨道播撒制度性种子。
 
 ---

@@ -230,5 +230,5 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] — 调查揭示全美 65% 的大学中心[[University-Industry Collaboration|产学合作]]办公室将产业联盟作为核心管辖业务，并分析了专职管理团队在多边会员关系维护中的关键职能。
+> - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] — 调查揭示全美 65% 的大学中心[[University-Industry Collaboration|产学合作]]办公室将产业联盟作为核心管辖业务，并分析了专职管理团队在多边会员关系维护中的关键职能。 [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]] — 提出了产业联盟在产学组织化连续谱中的演进定位，深入阐明了捐赠型与合同型联盟在会费池运作、投票议程设定与知识产权转化中的实操规范。 [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 从[[Academic Engagement Team|企业学术参与团队]]与产业周期演进视角，论证了产业联盟在长周期时间尺度上充当前竞争战略技术雷达与人才培育底座的独特价值。
 > - [[Argument_Mody_2017_MOH|Mody (2017)]] — 从组织史与[[Academic Entrepreneurship|学术制度创业]]视角，系统重构了加州理工 [[Silicon Structures Project|SSP]]、康奈尔 [[National Research and Resource Facility for Submicron Structures|NRRFSS]] 与斯坦福 CIS 产业联盟在出资模式、人员轮换与微观治理中的起源与演化历程。

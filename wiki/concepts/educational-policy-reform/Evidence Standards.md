@@ -416,7 +416,7 @@ updated: 2026-10-08
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] — 首项对大型城市学区 2.88 亿美元联邦教育资金开展循证审计的实证研究，量化证实法定单项合格研究门槛（95%–99%）与全量证据综合标准（49%–58%）之间的巨大落差。
-> - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 提出[[Educational Brokerage Agency\|知识中介机构]]证据标准的六大运作维度与四大病理根源，系统论证方法学严谨性与情境适切性的双维权衡。
+> - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 提出[[Educational Brokerage Agency\|知识中介机构]]证据标准的六大运作维度与四大病理根源，系统论证方法学严谨性与情境适切性的双维权衡。 [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 考证全球教育中介机构在因果金标准派与多[[Meta-meta-analysis\|元综合]]派之间的方法学阵营分化，指出[[Cumulative Knowledge Base\|累积性知识库]]建构的制度阻碍。 [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — [[Mark Schneider]] 系统论述美国 [[Institute of Education Sciences\|IES]] 推行的 SEER 九大循证卓越标准，推动证据评价从孤立的因果[[Internal Validity\|内部效度]]走向构件解构、成本分析、通用测量与社会公平。
 > - [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] — 实证评估欧美主流[[Educational Evidence Clearinghouses\|证据清算中心]]在评级标准与[[Systematic Review\|系统综述]]方法学上的[[Heterogeneity\|异质性]]，揭示标准不一致对决策互信的负面影响。
 > - Gough & White (2018) — 对国际 15 个网络证据门户开展跨案例实证调研，确立评估中介功效主张方法学标准的经验基底。
 > - Johnson et al. (2015) — 创立 [[EMMIE Framework\|EMMIE]] 综合评估框架，推动证据标准从单一效果测度向涵盖机制、情境与实施的多维架构拓展。

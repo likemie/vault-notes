@@ -134,4 +134,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 将人类基因组计划（HGP）系统提炼为国家在[[Pasteur's Quadrant|巴斯德象限]]中组织跨部门、跨学科前竞争[[Big Science|大科学]]攻坚的标志性典范。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 将人类基因组计划（HGP）系统提炼为国家在[[Pasteur's Quadrant|巴斯德象限]]中组织跨部门、跨学科前竞争[[Big Science|大科学]]攻坚的标志性典范；论证其通过《百慕大原则》保障数据 24 小时公开共享、击败私有垄断、以 38 亿美元投入撬动近 8000 亿美元宏观产业红利的机制，并将其确立为 2026 年[[Genesis Mission|创世纪计划]]与 [[National Science Foundation|NSF TIP]] X 实验室的组织设计蓝本。

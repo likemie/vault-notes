@@ -312,7 +312,7 @@ updated: 2026-10-08
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]系统检验[[Creativity\|创造力]]外认知[[Construct\|构念]]群，确立外认知动力因素的二阶效应基准（$r = 0.14$），量化论证了外认知与认知双轮驱动模型的必要性。
-> - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — 开展高校[[Creativity Training\|创造力干预]][[Three-Level Meta-Analysis\|多层元分析]]（涵盖 Meinel et al., 2019 等研究），证实系统干预的总体促进效能（$g = 0.628$），揭示了认知训练优于情绪训练。
+> - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — 开展高校[[Creativity Training\|创造力干预]][[Three-Level Meta-Analysis\|多层元分析]]（涵盖 Meinel et al., 2019 等研究），证实系统干预的总体促进效能（$g = 0.628$），揭示了认知训练优于情绪训练、独立练习（$g = 0.682$）优于小组协作（$g = 0.567$）对学生效能感与能力沉淀的机制。
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 三水平[[Meta-analysis\|元分析]]量化了主客观测量类型组合的[[Interaction Effect\|调节效应]]，证实自陈测量（含 CSE）因[[Common Method Variance\|共同方法变异]]（CMV）而产生虚高相关（双自陈 $r = 0.509$ vs 双表现 $r = 0.317$）。
 > - Haase et al. (2018) — 开展首项创造性[[Self-Efficacy\|自我效能感]]一阶元分析（$k = 34, N = 12,058$），证实 CSE 与客观创造表现的稳健强关联（$r = 0.39$）以及与[[Divergent Thinking\|发散思维]]的中等关联（$r = 0.26$）。
 > - Tierney & Farmer (2002) — 奠基性界定创造性自我效能感构念，编制首套经典[[Scale of Measurement\|测量量表]]并验证其对组织创新行为的独特[[Predictive Validity\|预测效度]]。

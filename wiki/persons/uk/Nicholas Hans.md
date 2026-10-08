@@ -207,7 +207,7 @@ updated: 2026-10-08
 > - **政策与实践** 通过主编《教育年鉴》持续介入战后欧洲教育重建与去法西斯化改革[[Discourse|话语]]，推动民主公民教育理念的跨国传播。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯阐述汉斯作为比较教育学“第二代”历史-哲学学派代表人物，主张将比较教育界定为广义教育科学（Vergleichende Erziehungswissenschaft）与人文学科（[[Geisteswissenschaften]]）。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯阐述汉斯作为比较教育学“第二代”历史-哲学学派代表人物，主张将比较教育界定为广义教育科学（*Vergleichende Erziehungswissenschaft*）与人文学科（*[[Geisteswissenschaften]]*），并以历史与社会科学理性的结合推动教育改良。 [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 卡扎米亚斯系统评析汉斯的因素[[Analytic Framework|分析框架]]及其对英美自由民主与苏联社会主义民主的辩证超越。 [[Argument_Cowen_2009_HistoryCreation|Cowen, 2009a]] — 考恩考察汉斯在战后伦敦大学比较教育学术建制中的承前启后地位。 [[Argument_Mitter_2009_Europe|Mitter, 2009]] — 米特将汉斯与施奈德并列为 20 世纪前中期（1920s–1950s）主导欧洲的“宏大历史文化全景”流派领袖，评析其以历史语境与[[National Character|国民性格]]诠释教育体系的[[Theories of the Driving Forces|驱动力理论]]，构筑抵御量化行为主义的文化主义防线。 [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 拉斯特等学者确证汉斯将教育深植于广泛社会文化动因的方法论奠基地位，并考据其在冷战时期对苏联比较教育研究的客观引介。
 
 ---
 
