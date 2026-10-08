@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch08.md"
     },
     {
+      "basename": "Whole Earth Catalog",
+      "path": "wiki/facts/us/Whole Earth Catalog.md"
+    },
+    {
       "basename": "Big Idea Famine",
       "path": "wiki/concepts/science-policy/Big Idea Famine.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Generative Artificial Intelligence",
       "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
-    },
-    {
-      "basename": "Whole Earth Catalog",
-      "path": "wiki/facts/us/Whole Earth Catalog.md"
     },
     {
       "basename": "Steven Levy",

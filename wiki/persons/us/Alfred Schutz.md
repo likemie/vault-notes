@@ -6,7 +6,7 @@ summary: "奥地利-美国社会学家与哲学家，现象学社会学奠基人
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -47,6 +47,7 @@ related_methods:
 related_persons:
   - "[[Edmund Husserl]]"
   - "[[Max Weber]]"
+  - "[[Talcott Parsons]]"
   - "[[Harold Garfinkel]]"
 related_facts: []
 related_arguments:
@@ -56,7 +57,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Alfred Schutz
@@ -84,7 +85,7 @@ updated: 2026-10-07
 > - **1918–1921年** 在维也纳大学攻读法律与社会科学，受到路德维希·冯·米塞斯（Ludwig von Mises）私人讨论班与[[Max Weber\|马克斯·韦伯]]（[[Max Weber]]）理解社会学传统的深刻熏陶。
 > - **1921–1938年** 在维也纳银行业担任常务法律顾问，业余潜心研读亨利·柏格森（Henri Bergson）的时间与绵延理论，随后转向胡塞尔[[Phenomenology\|现象学]]。1932年出版德文名著《社会世界的意义构成》（*Der sinnhafte Aufbau der sozialen Welt*），奠定现象学社会学基石，胡塞尔赞誉其为“真正理解先验现象学精髓的极少数思想家之一”。
 > - **1938–1939年** 纳粹德国吞并奥地利，因犹太背景被迫携家人流亡巴黎，1939年辗转迁往美国纽约。
-> - **1943–1956年** 兼任纽约新社会研究学院（New School for Social Research）哲学与社会学讲师，日间从事国际银行业务，夜间授课与著述，并与塔尔科特·帕森斯（Talcott Parsons）展开关于社会行动理论的著名通信辩论。
+> - **1943–1956年** 兼任纽约新社会研究学院（New School for Social Research）哲学与社会学讲师，日间从事国际银行业务，夜间授课与著述，并与[[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）展开关于社会行动理论的著名通信辩论。
 > - **1956–1959年** 辞去银行法律职务，成为新社会研究学院全职社会学教授与哲学系主任。期间指导了彼得·伯格（Peter L. Berger）与托马斯·卢克曼（Thomas Luckmann），其思想亦深刻启发了[[Harold Garfinkel\|哈罗德·加芬克尔]]（[[Harold Garfinkel]]）。
 > - **1959年** 5月20日因心脏病逝世于纽约市，其未完成手稿由卢克曼整理为《生活世界结构》（*The Structures of the Life-World*）两卷本出版。
 
@@ -151,7 +152,7 @@ updated: 2026-10-07
 >   - **[[Harold Garfinkel\|哈罗德·加芬克尔]]（Harold Garfinkel）** 常人方法学创始人，将舒茨关于日常生活中“理所当然”常识[[Hypothesis\|假设]]的论述激进化为微观实证方法。
 >   - **彼得·伯格（Peter L. Berger）与托马斯·卢克曼（Thomas Luckmann）** 博士弟子，继承其生活世界现象学并出版《实在的社会构建》，风靡全球社会学界。
 > - **批评者／学术论敌**
->   - **塔尔科特·帕森斯（Talcott Parsons）** [[Structural Functionalism|结构功能主义]]领袖，与舒茨就主观唯意志行动是否能在宏观系统框架中被客观化展开了长达两年的历史性通信论战。
+>   - **[[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）** [[Structural Functionalism|结构功能主义]]领袖，与舒茨就主观唯意志行动是否能在宏观系统框架中被客观化展开了长达两年的历史性通信论战。
 
 ---
 

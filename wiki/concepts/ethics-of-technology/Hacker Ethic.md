@@ -162,4 +162,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Karp & Zamiska (2025, pp. 97–102)]] — 追溯黑客伦理的“缺陷系统”批判，剖析其如何瓦解了国家科技动员传统并铺平了向[[Consumer Internet|消费互联网]]转型的文化道路。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 专著系统追溯黑客伦理与“缺陷系统”批判，剖析其如何瓦解战后国家科技动员传统并铺平向唯利是图[[Consumer Internet|消费互联网]]转型的文化道路（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。

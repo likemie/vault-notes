@@ -9,7 +9,7 @@ aliases:
 summary: "二战后盛行于英美社会学与比较教育学的核心宏观理论范式，将社会视为由相互依存的子系统构成的有机均衡系统，强调教育承担着社会化、人才选拔与劳动力分流的客观功能，以价值共识、社会整合与适应性演进维系现代功绩制民主社会。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 26
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -41,6 +41,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Talcott Parsons]]"
   - "[[C. Arnold Anderson]]"
   - "[[Philip Foster]]"
   - "[[David Coleman]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Structural Functionalism
@@ -67,7 +68,7 @@ updated: 2026-10-07
 > - **解释对象** 阐释教育制度与经济、政治、家庭等社会子系统之间的结构关联，揭示学校教育在个体社会化、劳动力分选、社会地位分配以及维系社会整体秩序中的客观功能。
 > - **理论问题** 旨在克服早前历史主义与哲学思辨缺乏经验规律和预测效力的局限，寻求跨越国界与具体时空的恒常社会发展规律，为战后国家现代性规划与人力资源配置提供[[Scientific Explanation|科学解释]]基准。
 > - **理论类型** 宏观实证解释理论、社会系统功能主义[[Analytic Framework|分析框架]]。
-> - **知识位置** 承袭涂尔干有机团结论与英国结构功能人类学传统，经由塔尔科特·帕森斯（Talcott Parsons）升华为主流社会学理论，在 20 世纪 50 至 60 年代成为英美教育社会学与比较教育学芝加哥学派的统治性[[Paradigm|范式]]。
+> - **知识位置** 承袭涂尔干有机团结论与英国结构功能人类学传统，经由[[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）升华为主流社会学理论，在 20 世纪 50 至 60 年代成为英美教育社会学与比较教育学芝加哥学派的统治性[[Paradigm|范式]]。
 
 > [!claim] 核心判断
 > 结构功能主义将社会视为一个由相互关联、分工协作的子系统构成的自组织均衡有机体；学校教育并非孤立的教学场所，而是现代社会实现代际社会化（内化核心价值）与客观地位分流（依据才能与努力分配社会角色）的核心制度中枢，其良性运行是保障现代社会稳定、适应性演进与功绩制公平的基石。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 146–147)]]
@@ -77,7 +78,7 @@ updated: 2026-10-07
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 智识谱系由布罗尼斯瓦夫·马林诺夫斯基（Bronisław Malinowski）与阿瑟·雷吉纳德·拉德克利夫-布朗（A. R. Radcliffe-Brown）的人类学功能主义奠基，经塔尔科特·帕森斯在《社会系统》（*The Social System*, 1951）与《作为社会系统的班级》（*The School Class as a Social System*, 1959）中系统应用于教育领域。在比较教育学中，由[[C. Arnold Anderson|阿诺德·安德森]]（C. Arnold Anderson）与[[Philip Foster|菲利普·福斯特]]（Philip Foster）在[[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]将其[[Operationalization|操作化]]为指导跨国教育现代化的实证分析体系。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 146–147)]]
+> - **提出者与原始文本** 智识谱系由布罗尼斯瓦夫·马林诺夫斯基（Bronisław Malinowski）与阿瑟·雷吉纳德·拉德克利夫-布朗（A. R. Radcliffe-Brown）的人类学功能主义奠基，经[[Talcott Parsons|塔尔科特·帕森斯]]在《社会系统》（*The Social System*, 1951）与《作为社会系统的班级》（*The School Class as a Social System*, 1959）中系统应用于教育领域。在比较教育学中，由[[C. Arnold Anderson|阿诺德·安德森]]（C. Arnold Anderson）与[[Philip Foster|菲利普·福斯特]]（Philip Foster）在[[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]将其[[Operationalization|操作化]]为指导跨国教育现代化的实证分析体系。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 146–147)]]
 > - **原初问题** 二战后亚非拉民族独立浪潮与欧美经济高速增长，急需解释教育如何有效驱动发展中国家摆脱贫困走向现代，并平息冷战背景下关于社会制度合法性与社会阶层流动的政治争鸣。
 > - **理论资源与材料** 汲取了生物有机体比喻、系统论控制论模型、涂尔干的道德教育与分工学说，以及人类学对文化习俗维系群体生存机能的[[Qualitative Observation|田野观察]]。
 > - **形成路径** 从观察社会的稳定与再生产需求出发，将教育抽象为社会系统内部的专门化功能构件，通过建构社会化（Socialization）与分流配置（Allocation）两大机制，解释教育如何衔接个人能动性与宏观社会结构的秩序需求。
@@ -163,7 +164,7 @@ updated: 2026-10-07
 > > [!axis] 社会秩序的本质：共识驱动 vs 阶级利益冲突
 > > 宏观社会学关于社会基本结构驱动机制的百年大论战。
 > >
-> > - **帕森斯与芝加哥功能学派** 坚信人类社会具有天然的自我平衡与整合本能，共同核心价值共识是维系社会存在的基石，教育是推动代际流动与功绩制公平的文明引擎。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 146–147)]]
+> > - **[[Talcott Parsons|帕森斯]]与芝加哥功能学派** 坚信人类社会具有天然的自我平衡与整合本能，共同核心价值共识是维系社会存在的基石，教育是推动代际流动与功绩制公平的文明引擎。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 146–147)]]
 > > - **冲突理论派（鲍尔斯与金蒂斯、[[Rolland Paulston|保尔斯顿]]）** 痛斥功能主义是资产阶级维持统治现状的辩护词，指出学校教育并非促进流动的中立工具，而是按照社会分工单向[[Disciplina and Doctrina|规训]]劳工阶层、再生产资本主义生产关系的暴力机器。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–154)]]
 >
 > > [!axis] 跨国比较法则：普遍恒常规律 vs 具体历史文化情境

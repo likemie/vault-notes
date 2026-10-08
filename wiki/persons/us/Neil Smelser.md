@@ -9,7 +9,7 @@ summary: "美国当代著名社会学大师，国际社会学会（ISA）前主�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Talcott Parsons]]"
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
   - "[[David Held]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
 # Neil Smelser
@@ -55,7 +56,7 @@ updated: 2026-10-05
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名社会学大师、比较制度分析家；加州大学伯克利分校社会学荣休大学教授（University Professor），曾任国际社会学会（[[International Schools Association|ISA]]）主席（1994–1998）、美国社会学学会（ASA）会长（1997）及斯坦福大学行为科学高级研究中心（CASBS）主任。
 > - **核心角色** 20 世纪下半叶[[Structural Functionalism|结构功能主义]]修正、经济社会学与集体行为理论的公认巨擘；在冷战后全球化初兴阶段，敏锐把握世界格局转型，系统指出了跨国生产网络对传统主权民族国家疆界的渗透与消解，为比较教育学理解民族国家在跨国[[Disciplina and Doctrina|规训]]下主权多孔化（[[Permeable State]]）提供了权威的宏观社会学定性。
-> - **代表贡献** 与塔尔科特·帕森斯（Talcott Parsons）合著奠基性名著《经济与社会》（1956）；出版《集体行为理论》（1962）、《社会分化与社会变革》（1976）以及权威教材《社会学》（1981）。
+> - **代表贡献** 与[[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）合著奠基性名著《经济与社会》（1956）；出版《集体行为理论》（1962）、《社会分化与社会变革》（1976）以及权威教材《社会学》（1981）。
 
 > [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论斯梅尔塞对全球化侵蚀民族国家主权边界的经典定性
 > 全球化进程被视为模糊了国家边界，转变了民族国家内部与相互间的认同纽带，并深刻影响了国家与利益群体的身份构成。尼尔·斯梅尔塞（Neil Smelser, 1993）极其精准地捕捉到了这一主题的实质：描绘当今世界格局的一个适宜起点，就是审视民族国家的地位。曾几何时，国家普遍被假定为其公民忠诚与团结的天然与主权焦点，然而如今，这一国家理念在所有这些基本构成要素上都遭到了深刻挑战。随着生产全球化的深入，民族国家的国际边界已变得高度多孔与通透。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 80)]]
@@ -68,7 +69,7 @@ updated: 2026-10-05
 
 > [!timeline] 生平与职涯
 > - **1930** 出生于美国密苏里州卡霍卡。
-> - **1952–1958** 先后在哈佛大学与牛津大学求学（罗德学者），在哈佛师从塔尔科特·帕森斯，28 岁即与帕森斯合著出版《经济与社会》（*Economy and Society*）。
+> - **1952–1958** 先后在哈佛大学与牛津大学求学（罗德学者），在哈佛师从[[Talcott Parsons|塔尔科特·帕森斯]]，28 岁即与帕森斯合著出版《经济与社会》（*Economy and Society*）。
 > - **1958–1994** 执教于加州大学伯克利分校社会学系，历任伯克利分校助理副校长，并于 1972 年荣膺大学教授（University Professor，加州大学系统最高学术荣誉）。
 > - **1962** 出版社会运动与大众心理学里程碑著作《集体行为理论》（*Theory of Collective Behavior*）。
 > - **1994–1998** 当选并出任国际社会学会（[[International Schools Association|ISA]]）主席，任内积极推动全球社会学在面对新自由主义全球化时的主题重构。
@@ -118,7 +119,7 @@ updated: 2026-10-05
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **导师与合作者** 塔尔科特·帕森斯（Talcott Parsons） — 共同开创现代经济社会学。
+> - **导师与合作者** [[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons） — 共同开创现代经济社会学。
 > - **理论对话者** [[David Held]]、[[Carlos Alberto Torres]] — 其全球化边界多孔论与赫尔德、托雷斯的跨国[[Disciplina and Doctrina|规训]]模型形成共振。
 > - **国际学术机构** 国际社会学会（[[International Schools Association|ISA]]） — 曾任主席。
 

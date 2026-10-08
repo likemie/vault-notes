@@ -8,7 +8,7 @@ aliases:
 summary: "指冷战结束后西方自由民主社会及其科技精英普遍滋生的战略自满与认知盲区；将暂时的地缘胜利误判为历史的终结，将国家安全与繁荣视作无需持续代价与硬实力威慑的默认背景常态，从而在文化与道德层面解构了维持前沿军事与防务技术优势的紧迫性。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_persons:
   - "[[Thomas Schelling]]"
 related_facts:
   - "[[Autonomous Drone Swarms]]"
+  - "[[Dot-Com Bubble]]"
   - "[[Project Maven]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
@@ -133,7 +134,7 @@ updated: 2026-10-08
 
 > [!dev-timeline] 概念演变历程
 > - **1989 — [[End of History Thesis|历史终结论断]]的提出** [[Francis Fukuyama|福山]]发表《历史的终结？》，在冷战结束前夕断言自由民主制代表了人类政治治理的最终形态，为西方社会注入了深层的意识形态胜者自满心态。
-> - **1990–2010年代 — 硅谷消费主义漂移与和平红利耗竭** 伴随互联网泡沫与智能手机浪潮，硅谷科技生态从早期深度参与国防军工（如雷达、半导体与网络协议）全面转向以广告点击、社交娱乐和消费优化为核心的商业模式，科技精英逐渐遗忘国防研发的历史渊源。
+> - **1990–2010年代 — 硅谷消费主义漂移与和平红利耗竭** 伴随[[Dot-Com Bubble|互联网泡沫]]与智能手机浪潮，硅谷科技生态从早期深度参与国防军工（如雷达、半导体与网络协议）全面转向以广告点击、社交娱乐和消费优化为核心的商业模式，科技精英逐渐遗忘国防研发的历史渊源。
 > - **2018–2019 — 科技巨头内部防务抵制事件爆发** 谷歌员工联名抵制美国国防部[[Project Maven|梅文项目]]（Project Maven），微软员工抗议陆军增强现实头显合同，标志着科技精英与国家安全战略的公开割裂达到顶峰。
 > - **2025 — 胜者谬误的系统理论化** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中正式提出胜者谬误，从思想史、地缘博弈论与工程文化维度系统清算后冷战自满心态，呼吁重构基于软件实力与国家战略结盟的现代技术共和国。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 29–36)]]
 

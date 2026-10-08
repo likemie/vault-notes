@@ -8594,6 +8594,15 @@
     ]
   },
   {
+    "title": "Engineering Mindset",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Engineering Mindset.md",
+    "aliases": [
+      "工程思维",
+      "工程心智"
+    ]
+  },
+  {
     "title": "Engineering Pragmatism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Engineering Pragmatism.md",
@@ -8866,6 +8875,16 @@
       "知识经济",
       "知识型经济",
       "KBE"
+    ]
+  },
+  {
+    "title": "Lifestyle Technology",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Lifestyle Technology.md",
+    "aliases": [
+      "生活方式技术",
+      "生活方式科技",
+      "lifestyle tech"
     ]
   },
   {
@@ -9258,6 +9277,15 @@
       "catching up",
       "technological catching up",
       "catch-up"
+    ]
+  },
+  {
+    "title": "Technological Pastiche",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Technological Pastiche.md",
+    "aliases": [
+      "技术拼贴",
+      "创新拼贴"
     ]
   },
   {
@@ -12077,6 +12105,17 @@
       "教育阶梯",
       "educational attainment",
       "level of education"
+    ]
+  },
+  {
+    "title": "Elite Overproduction",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Elite Overproduction.md",
+    "aliases": [
+      "精英生产过剩",
+      "精英过量生产",
+      "elite overproduction theory",
+      "过量精英生产"
     ]
   },
   {
@@ -21318,7 +21357,7 @@
   {
     "title": "Claude Lévi-Strauss",
     "type": "person",
-    "path": "wiki/persons/france/Claude Lévi-Strauss.md",
+    "path": "wiki/persons/france/Claude Lévi-Strauss.md",
     "aliases": [
       "克洛德·列维-斯特劳斯",
       "列维-斯特劳斯",
@@ -23069,6 +23108,16 @@
     ]
   },
   {
+    "title": "Alan Greenspan",
+    "type": "person",
+    "path": "wiki/persons/us/Alan Greenspan.md",
+    "aliases": [
+      "艾伦·格林斯潘",
+      "Greenspan, A.",
+      "格林斯潘"
+    ]
+  },
+  {
     "title": "Albert Bandura",
     "type": "person",
     "path": "wiki/persons/us/Albert Bandura.md",
@@ -24469,6 +24518,16 @@
     ]
   },
   {
+    "title": "Peter Turchin",
+    "type": "person",
+    "path": "wiki/persons/us/Peter Turchin.md",
+    "aliases": [
+      "彼得·图尔钦",
+      "Turchin, P.",
+      "图尔钦"
+    ]
+  },
+  {
     "title": "Philip Altbach",
     "type": "person",
     "path": "wiki/persons/us/Philip Altbach.md",
@@ -24773,6 +24832,16 @@
       "考夫曼",
       "Kauffman, S. A.",
       "Stuart A. Kauffman"
+    ]
+  },
+  {
+    "title": "Talcott Parsons",
+    "type": "person",
+    "path": "wiki/persons/us/Talcott Parsons.md",
+    "aliases": [
+      "塔尔科特·帕森斯",
+      "Parsons, T.",
+      "帕森斯"
     ]
   },
   {
@@ -30137,6 +30206,17 @@
     ]
   },
   {
+    "title": "Dot-Com Bubble",
+    "type": "fact",
+    "path": "wiki/facts/us/Dot-Com Bubble.md",
+    "aliases": [
+      "互联网泡沫",
+      "科技股泡沫",
+      "dot-com crash",
+      "dot-bomb"
+    ]
+  },
+  {
     "title": "Economics of Education Movement",
     "type": "fact",
     "path": "wiki/facts/us/Economics of Education Movement.md",
@@ -30411,6 +30491,17 @@
       "Tech Square",
       "Georgia Tech Tech Square",
       "Technology Square"
+    ]
+  },
+  {
+    "title": "The Middle Americans",
+    "type": "fact",
+    "path": "wiki/facts/us/The Middle Americans.md",
+    "aliases": [
+      "中间美国人",
+      "Middle Americans",
+      "1970年《时代》周刊中间美国人",
+      "1970 Time Person of the Year: The Middle Americans"
     ]
   },
   {
@@ -33054,6 +33145,11 @@
     "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch08",
     "type": "argument",
     "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch08.md"
+  },
+  {
+    "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch09",
+    "type": "argument",
+    "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch09.md"
   },
   {
     "title": "Argument_Kelly_Licona_2018_EpistemicPractices",

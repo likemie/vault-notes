@@ -7,10 +7,10 @@ aliases:
 summary: "尤尔根·哈贝马斯（Jürgen Habermas）提出的批判社会学与政治经济学理论，指出在晚期资本主义国家中，当行政系统的控制与干预逻辑从属于私人商业资本的狭隘目标，而未能将经济与科技增长转化为满足大众普遍利益的公共产品与社会安全时，国家面临系统性的大众忠诚流失与治理合法性危机。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 16
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/sociology-of-education
   - theory/political-economy
@@ -31,6 +31,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Jürgen Habermas]]"
+  - "[[Talcott Parsons]]"
   - "[[Niklas Luhmann]]"
   - "[[Max Weber]]"
   - "[[Alexander Karp]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Legitimation Crisis
@@ -67,7 +68,7 @@ updated: 2026-10-07
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 德国哲学家与社会学家[[Jürgen Habermas|尤尔根·哈贝马斯]]于 1973 年出版德文专著《晚期资本主义的合法性问题》（*Legitimationsprobleme im Spätkapitalismus*），1975 年英译本定名为《合法化危机》（*Legitimation Crisis*）。
 > - **原初问题** 战后福利国家通过凯恩斯主义干预成功规避了经典马克思主义预言的灾难性经济崩溃，但国家机器对经济生活的深度介入为何催生了新型的政治冷漠、社会抗议与体制信任危机。
-> - **理论资源与材料** 批判性整合马克思的剩余价值与资本积累理论、帕森斯与[[Niklas Luhmann|卢曼]]的社会系统论，以及[[Max Weber|马克斯·韦伯]]的统治合法性分类学。
+> - **理论资源与材料** 批判性整合马克思的剩余价值与资本积累理论、[[Talcott Parsons|帕森斯]]与[[Niklas Luhmann|卢曼]]的社会系统论，以及[[Max Weber|马克斯·韦伯]]的统治合法性分类学。
 > - **形成路径** 哈贝马斯将晚期资本主义社会划分为四个子系统（经济系统、行政系统、合法化系统与意义系统），论证经济危机被国家干预置换为理性危机与合法化危机——即国家必须源源不断地从文化生活界汲取大众忠诚，但国家自身的技术官僚控制却在不断破坏这种忠诚的文化根基。
 
 ### 后续修订与扩展

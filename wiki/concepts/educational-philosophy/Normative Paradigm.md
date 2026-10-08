@@ -4,7 +4,7 @@ aliases: [规范范式, normative model, 规则统治范式]
 summary: "道格拉斯提出的方法论上位范式，统摄实证主义与结构功能主义取向，主张人类行为本质上受规则统治，应采纳自然科学方法探究外在因果规律，追求构建普适的宏大理性大厦。"
 type: concept
 domain: "educational-philosophy"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -33,6 +33,7 @@ related_persons:
   - "[[Jack Douglas]]"
   - "[[Thomas Barr Greenfield]]"
   - "[[Auguste Comte]]"
+  - "[[Talcott Parsons]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
@@ -54,7 +55,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-01
+updated: 2026-10-08
 ---
 
 # Normative Paradigm
@@ -171,7 +172,7 @@ updated: 2026-10-01
 
 > [!dev-timeline] 概念演变
 > - **19 世纪中叶 — [[Positivism\|实证主义]]社会学奠基** [[Auguste Comte\|奥古斯特·孔德]]（[[Auguste Comte]]）提出社会学作为“社会物理学”的构想，确立了运用自然科学经验实证方法探寻社会不变法则的规范传统。
-> - **1930s–1950s — [[Structural Functionalism|结构功能主义]]与行为主义合流** 塔尔科特·帕森斯（Talcott Parsons）建立结构功能主义[[Grand Theory\|宏大理论]]体系，约翰·华生与斯金纳确立行为主义刺激-反应模型，规范传统在社会学与教育心理学中确立统治地位。
+> - **1930s–1950s — [[Structural Functionalism|结构功能主义]]与行为主义合流** [[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）建立结构功能主义[[Grand Theory\|宏大理论]]体系，约翰·华生与斯金纳确立行为主义刺激-反应模型，规范传统在社会学与教育心理学中确立统治地位。
 > - **1973–1975 — 规范[[Paradigm\|范式]]概念提炼与学术交锋** [[Jack Douglas\|杰克·道格拉斯]]（Jack Douglas, 1973）在《社会学方法规则》中正式提炼“规范范式”与“[[Interpretive Paradigm\|诠释范式]]”的二元对立；[[Thomas Barr Greenfield\|托马斯·巴尔·格林菲尔德]]（[[Thomas Barr Greenfield]], 1975）在[[International Education\|国际教育]]行政大会上发起对实证规范组织观的系统清算。
 > - **2010s 至今 — 范式多元共生与后实证重构** [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] 系统将规范范式与诠释范式作为教育研究哲学的双支柱坐标，并在[[Mixed Methods Research\|混合方法]]与[[Complexity Theory\|复杂性理论]]的交融中深化对其方法论适用边界的审视。
 

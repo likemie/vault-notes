@@ -8,7 +8,7 @@ summary: "德国社会学家，社会系统理论创始人；提出自创生系�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 38
+person_related_count: 39
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -56,6 +56,7 @@ related_methods:
   - "[[Meta-analysis]]"
 related_instruments: []
 related_persons:
+  - "[[Talcott Parsons]]"
   - "[[Jürgen Habermas]]"
   - "[[René Descartes]]"
   - "[[Immanuel Kant]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-10-01
+updated: 2026-10-08
 ---
 
 # Niklas Luhmann
@@ -94,7 +95,7 @@ updated: 2026-10-01
 > [!timeline] 生平与职涯
 > - **1927** 出生于德国下萨克森州吕讷堡。
 > - **1946–1949** 在弗赖堡大学修读法学，毕业后进入吕讷堡高级行政法院与下萨克森州议会从事公共行政法务工作。
-> - **1960–1961** 获得福特基金会资助赴哈佛大学公共行政学院深造，师从社会学泰斗帕森斯（Talcott Parsons）研习[[Structural Functionalism|结构功能主义]]与现代系统论。
+> - **1960–1961** 获得福特基金会资助赴哈佛大学公共行政学院深造，师从社会学泰斗[[Talcott Parsons|帕森斯]]（Talcott Parsons）研习[[Structural Functionalism|结构功能主义]]与现代系统论。
 > - **1966** 在斯佩尔高级行政学院短暂进修后，于明斯特大学以单日破纪录完成博士答辩与教授任职资格（Habilitation）。
 > - **1968–1993** 获聘为新建的比勒费尔德大学社会学首任讲席教授。自入职起即宣称其毕生研究计划是“社会理论，耗时 30 年，成本零”，在随后的三十年间创立了规模宏大、概念精密的[[Autopoiesis\|自创生]]系统理论大厦。
 > - **1971** 与[[Jürgen Habermas\|哈贝马斯]]（[[Jürgen Habermas]]）开展世纪学术大论辩，出版论辩集《社会理论还是社会工程》（*Theorie der Gesellschaft oder Sozialtechnologie*）。
@@ -161,7 +162,7 @@ updated: 2026-10-01
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **理论渊源／师承** 帕森斯（Talcott Parsons） — 现代[[Structural Functionalism|结构功能主义]]系统论创始人，卢曼的学术领路人；卢曼全盘扬弃了帕森斯的行动参考框架与静态整合预设，转向以[[Autopoiesis\|自创生]]与沟通为核心的新系统论。
+> - **理论渊源／师承** [[Talcott Parsons|帕森斯]]（Talcott Parsons） — 现代[[Structural Functionalism|结构功能主义]]系统论创始人，卢曼的学术领路人；卢曼全盘扬弃了帕森斯的行动参考框架与静态整合预设，转向以[[Autopoiesis\|自创生]]与沟通为核心的新系统论。
 > - **世纪论敌** [[Jürgen Habermas\|哈贝马斯]]（Jürgen Habermas） — [[Critical Theory\|批判理论]]法兰克福学派第二代领袖；哈贝马斯坚持规范性的主体间沟通理性与生活世界拯救，卢曼则坚持反规范、功能分化与操作封闭的纯系统观察，二者展开了战后社会学界最宏大的[[Paradigm\|范式]]论战。
 > - **教育学范式继承者** [[Jurgen Schriewer|Jürgen Schriewer]]（于尔根·施瑞尔） — 国际比较教育学系统论学派奠基人，将卢曼的[[Externalization\|外化]]命题与自指性系统论[[Creativity\|创造性]]运用于全球教育[[Policy Borrowing\|政策借用]]研究。
 > - **理论对话与批评对象** [[John Hattie\|约翰·哈蒂]]（John Hattie） — [[Evidence-Based Education\|循证教育]]与[[Meta-analysis\|元分析]]可见学习倡导者；哈蒂追求[[Technical Rationality\|技术理性]]的可见性范式与因果控制论，成为卢曼理论后继学者（如 Larsen, 2019）深度批判与反思的关键典型。

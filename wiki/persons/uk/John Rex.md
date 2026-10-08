@@ -9,7 +9,7 @@ summary: "英国著名社会学家，华威大学荣休教授，冲突理论与�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -40,6 +40,7 @@ related_instruments: []
 related_persons:
   - "[[Max Weber]]"
   - "[[Basil Bernstein]]"
+  - "[[Talcott Parsons]]"
   - "[[Peter Woods]]"
 related_facts: []
 related_arguments:
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # John Rex
@@ -78,7 +79,7 @@ updated: 2026-10-07
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1961 — *Key Problems of Sociological Theory*** 系统批判帕森斯[[Structural Functionalism|结构功能主义]]共识神话，构建以权力冲突与价值分歧为核心的社会学元理论。
+> - **1961 — *Key Problems of Sociological Theory*** 系统批判[[Talcott Parsons|帕森斯]][[Structural Functionalism|结构功能主义]]共识神话，构建以权力冲突与价值分歧为核心的社会学元理论。
 > - **1967 — *Race, Community, and Conflict: A Study of Sparkbrook*** （与 Robert Moore 合著）开创英国城市微观[[Ethnography\|民族志]]与宏观阶级冲突相结合的经典实证[[Paradigm\|范式]]。
 > - **1970 — *Race Relations in Sociological Theory*** 构建种族关系社会学的比较分析理论框架。
 > - **1974 — *Approaches to Sociology: An Introduction to Major Trends in British Sociology*** 汇聚英国社会学前沿思潮，提出微观主观报告不可替代客观视角的方法论批判。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 26)]]

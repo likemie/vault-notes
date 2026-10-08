@@ -10,9 +10,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 6
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 9
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "1968–1972 (后续不定期发行至1998)"
 initiator_organization: Portola Institute
@@ -26,17 +26,20 @@ related_concepts:
   - "[[Counterculture Computing]]"
   - "[[Paradigm]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Stewart Brand]]"
   - "[[Steve Jobs]]"
+  - "[[Steven Levy]]"
 related_facts:
   - "[[Homebrew Computer Club]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
-status: draft
+status: active
 created: 2026-10-08
 updated: 2026-10-08
 ---
@@ -93,7 +96,15 @@ updated: 2026-10-08
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Counterculture Computing]] | 概念 | 该项目作为反文化计算[[Paradigm\|范式]]最核心的舆论与知识载体。 |
-> | [[Stewart Brand]] | 人物 | 该项目的创办人、主编与精神领袖。 |
-> | [[Steve Jobs]] | 人物 | 深受该项目哲学影响的代表性科技领袖。 |
-> | [[Homebrew Computer Club]] | 事实 (组织) | 共享该项目反集权与获取工具理念的线下实体技术社团。 |
+> | [[Counterculture Computing]] | Concept | 该项目作为反文化计算[[Paradigm\|范式]]最核心的舆论与知识载体。 |
+> | [[Stewart Brand]] | Person | 该项目的创办人、主编与精神领袖。 |
+> | [[Steve Jobs]] | Person | 深受该项目哲学影响的代表性科技领袖。 |
+> | [[Homebrew Computer Club]] | Fact (Org) | 共享该项目反集权与获取工具理念的线下实体技术社团。 |
+> | [[Steven Levy]] | Person | 在《黑客》中记录《全球概览》对早期黑客群体影响的资深科技作家。 |
+
+---
+
+## 相关研究
+
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 专著第八章深入阐述布兰德《全球概览》对个人计算与无领导互联网的哲学奠基作用，剖析其如何推动技术脱离国家大战略（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。

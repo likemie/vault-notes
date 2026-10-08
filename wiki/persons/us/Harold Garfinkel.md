@@ -6,7 +6,7 @@ summary: "美国社会学家，常人方法学（Ethnomethodology）创始人，
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 28
+person_related_count: 29
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -46,6 +46,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Alfred Schutz]]"
+  - "[[Talcott Parsons]]"
 related_facts:
   - "[[Achieve]]"
 related_arguments:
@@ -55,7 +56,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Harold Garfinkel
@@ -83,7 +84,7 @@ updated: 2026-10-07
 > - **1935–1939年** 在纽瓦克大学（现罗格斯大学纽瓦克分校）攻读商业与会计，在此期间接触社会学理论并确立了对日常实际操作推理的兴趣。
 > - **1939–1942年** 进入北卡罗来纳大学教堂山分校攻读社会学硕士，师从霍华德·奥杜姆（Howard W. Odum），开展跨种族人际互动与法律刑罚的实地[[Ethnography\|民族志]]调查。
 > - **1942–1946年（二战服役）** 在美国陆军航空兵服役，从事战车操作与人员培训系统的实践测试，积累了大量关于人类在危机情境中如何协调规则的经验观察。
-> - **1946–1952年** 进入哈佛大学社会关系学系攻读博士，师从塔尔科特·帕森斯（Talcott Parsons）。期间深入反思帕森斯的顶层规范[[Determinism\|决定论]]，前往纽约新社会研究学院旁听[[Alfred Schutz\|阿尔弗雷德·舒茨]]（[[Alfred Schutz]]）的[[Phenomenology\|现象学]]讲座，1952年完成博士论文《感知他人行动者的知觉与反应研究》。
+> - **1946–1952年** 进入哈佛大学社会关系学系攻读博士，师从[[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）。期间深入反思帕森斯的顶层规范[[Determinism\|决定论]]，前往纽约新社会研究学院旁听[[Alfred Schutz\|阿尔弗雷德·舒茨]]（[[Alfred Schutz]]）的[[Phenomenology\|现象学]]讲座，1952年完成博士论文《感知他人行动者的知觉与反应研究》。
 > - **1954年** 在参与美国陪审团决策录音研究中正式铸造“常人方法学”（[[Ethnomethodology]]）这一学术术语，用以指称普通人理解与产生日常社会秩序的方法技巧。同年受聘为加利福尼亚大学洛杉矶分校（UCLA）助理教授并任教至1987年荣休。
 > - **1967年** 出版里程碑式代表作《常人方法学研究》（*Studies in Ethnomethodology*），在学术界掀起微观社会学海啸，全面奠定常人方法学作为独立研究流派的国际地位。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 > - **1970s–1990s** 推动“常人方法学工作研究”（Studies of Work），深入科学实验室、神经外科手术室与天文台，剖析高度专业化知识与科学事实的现场制造过程；其弟子哈维·萨克斯（Harvey Sacks）与伊曼纽尔·谢格洛夫（Emanuel Schegloff）在其启迪下开创了微观[[Conversation Analysis|会话分析]]（Conversation Analysis）。
@@ -94,7 +95,7 @@ updated: 2026-10-07
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1940s–1950s — 批判规范[[Determinism\|决定论]]与常人方法奠基阶段（Harvard & Early UCLA Phase）** 反思帕森斯的[[Structural Functionalism|结构功能主义]]规范内化[[Hypothesis\|假设]]，结合舒茨生活世界[[Phenomenology\|现象学]]，提出实践推理与“常人方法”构想。
+> - **1940s–1950s — 批判规范[[Determinism\|决定论]]与常人方法奠基阶段（Harvard & Early UCLA Phase）** 反思[[Talcott Parsons|帕森斯]]的[[Structural Functionalism|结构功能主义]]规范内化[[Hypothesis\|假设]]，结合舒茨生活世界[[Phenomenology\|现象学]]，提出实践推理与“常人方法”构想。
 >   - **代表论文／著作** 博士论文《感知他人行动者的知觉与反应研究》（1952）、陪审团决策民族志调查（1954）。
 >   - **关键概念／方法** 实践社会学推理（Practical Sociological Reasoning）、拒绝“文化笨蛋”（Rejection of Cultural Dopes）、常人方法（Ethno-methods）。
 >   - **阶段转向** 质疑正统社会学将行动者视作受外在规范与价值共识操纵的木偶，主张研究人们在微观情境中如何凭借常识推理建构行动的可理解性。
@@ -161,7 +162,7 @@ updated: 2026-10-07
 > [!person-network] 关系网络
 > - **师承／思想渊源**
 >   - **[[Alfred Schutz\|阿尔弗雷德·舒茨]]（Alfred Schutz）** 精神导师，加芬克尔将其生活世界常识与[[Typification\|类型化]]概念转化为微观经验研究规程。
->   - **塔尔科特·帕森斯（Talcott Parsons）** 博士导师，加芬克尔通过反叛其宏观规范[[Determinism\|决定论]]，走向了常人方法学的经验道路。
+>   - **[[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）** 博士导师，加芬克尔通过反叛其宏观规范[[Determinism\|决定论]]，走向了常人方法学的经验道路。
 > - **学生／合作者**
 >   - **哈维·萨克斯（Harvey Sacks）** 杰出弟子，常人方法学[[Conversation Analysis|会话分析]]（CA）的主要创立者。
 >   - **伊曼纽尔·谢格洛夫（Emanuel Schegloff）** 早期学术伙伴，推动会话分析在社会学与语言学界制度化。

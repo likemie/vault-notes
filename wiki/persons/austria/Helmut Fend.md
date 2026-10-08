@@ -8,7 +8,7 @@ summary: "奥地利教育社会学家、苏黎世大学荣休讲席教授，欧�
 type: person
 nationality: austria
 person_region: "austria"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -40,14 +40,15 @@ related_methods:
   - "[[Cohort Study]]"
   - "[[Correlational Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Talcott Parsons]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-01
+updated: 2026-10-08
 ---
 
 # Helmut Fend
@@ -89,7 +90,7 @@ updated: 2026-10-01
 
 > [!thought-timeline] 思想发展阶段
 > - **第一阶段：综合中学实证研究与社会化理论（1970 年代）** 运用严密的社会学量化调查，探讨不同中等学校类型对学生社会化、学业自我概念与平等机会的影响。代表作：《学校与社会化》（*Schule und Sozialisation*, 1974）。
-> - **第二阶段：制度系统理论与四大功能[[Paradigm\|范式]]（1980–1990 年代）** 结合塔尔科特·帕森斯[[Structural Functionalism|结构功能主义]]与批判社会学，系统构建学校系统理论，提炼四大社会功能与中观单校自主发展机制。代表作：《学校理论》（*Theorie der Schule*, 1980, 两卷本）。
+> - **第二阶段：制度系统理论与四大功能[[Paradigm\|范式]]（1980–1990 年代）** 结合[[Talcott Parsons|塔尔科特·帕森斯]][[Structural Functionalism|结构功能主义]]与批判社会学，系统构建学校系统理论，提炼四大社会功能与中观单校自主发展机制。代表作：《学校理论》（*Theorie der Schule*, 1980, 两卷本）。
 > - **第三阶段：新治理、多层因果链与再情境化（2000 年代至今）** 吸收新制度主义与治理理论，将学校定位为宏观制度供给与微观教学互动的中介枢纽，深刻剖析政策在多层级链条中的远端解耦与本土[[Transfer Translation Transformation\|转译]]。代表作：《学校新理论》（*Neue Theorie der Schule*, 2006）；《生命历程的形成》（*Vom Kind zum Erwachsenen*, 2009）。
 
 ---

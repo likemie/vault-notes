@@ -8,7 +8,7 @@ summary: "美国著名人类学家、无政府主义理论家，曾任教于耶�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,9 +22,12 @@ tags:
   - theme/critique-of-technology
 related_concepts:
   - "[[Creativity]]"
+  - "[[Technological Pastiche]]"
   - "[[Big Idea Famine]]"
   - "[[Innovation Desert]]"
   - "[[Big Science]]"
+  - "[[Consumer Internet]]"
+  - "[[Lifestyle Technology]]"
 related_methods:
   - "[[Fieldwork]]"
   - "[[Correlational Research]]"
@@ -33,6 +36,7 @@ related_persons:
   - "[[Nicholas Negroponte]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09]]"
 confidence: high
 status: active
 created: 2026-10-08
@@ -78,7 +82,7 @@ updated: 2026-10-08
 >   - **关键概念** 道德负债、虚拟货币起源、暴力催生市场。
 > - **2012–2020年 — 技术停滞、无意义劳动与人类史重构** 批判科技野心收缩并重写人类不平等起源。
 >   - **代表著作** *Of Flying Cars and the Declining Rate of Profit* (2012); *Bullshit Jobs* (2018); *The Dawn of Everything* (2021, 与戴维·温格罗合著)。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Graeber, 2012; cited in Karp & Zamiska, 2025, p. 47)]]
->   - **关键概念** 飞行汽车幻灭、超高速邮局神话、管理封建主义。
+>   - **关键概念** 飞行汽车幻灭、超高速邮局神话、管理封建主义、[[Technological Pastiche|技术拼贴]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Graeber, 2012; cited in Karp & Zamiska, 2025, p. 110)]]
 
 ---
 
@@ -143,6 +147,7 @@ updated: 2026-10-08
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Big Idea Famine\|大构想饥荒]] | 概念 | 格雷伯对互联网狭窄化的批判构成了大构想饥荒诊断的关键思想源流。 |
+> | [[Technological Pastiche\|技术拼贴]] | 概念 | 批判后工业社会将既有数字化突破浅层重组的衍生化倾向。 |
 > | [[Innovation Desert\|创新荒漠]] | 概念 | 揭示了官僚体制与市场短视导致公共研发活力丧失的社会学机理。 |
 > | [[Nicholas Negroponte\|尼古拉斯·尼葛洛庞帝]] | 人物 | 与格雷伯共同批判消费互联网对重[[Big Science\|大科学工程]]抱负的取代。 |
 
@@ -151,6 +156,7 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引格雷伯关于互联网沦为高速图书馆与邮购目录的经典反思，批评当代科技界逃避现实物理工程挑战的倾向。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引格雷伯关于互联网沦为高速图书馆与邮购目录的经典反思，批评当代科技界逃避现实物理工程挑战的倾向（Ch. 4）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025)]] — 援引格雷伯关于“飞行汽车究竟去哪儿了”的时代之问与[[Technological Pastiche|技术拼贴]]批判，揭示[[Consumer Internet|消费互联网]]与[[Lifestyle Technology|生活方式科技]]对国家战略硬核创新的挤出（Ch. 9）。
 
 

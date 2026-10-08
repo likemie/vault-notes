@@ -8,7 +8,7 @@ summary: "哥伦比亚大学社会学教授、美国文理科学院院士，科�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_methods:
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
+  - "[[Talcott Parsons]]"
   - "[[George Psacharopoulos]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-10-02
+updated: 2026-10-08
 ---
 
 # Bernard Barber
@@ -64,7 +65,7 @@ updated: 2026-10-02
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国哥伦比亚大学巴纳德学院社会学系终身教授、美国文理[[Chinese Academy of Sciences|科学院]]院士（[[American Association for the Advancement of Science|AAAS]] Fellow）、著名科学社会学家。师从罗伯特·默顿（Robert K. Merton）与塔尔科特·帕森斯（Talcott Parsons）。
+> - **身份位置** 美国哥伦比亚大学巴纳德学院社会学系终身教授、美国文理[[Chinese Academy of Sciences|科学院]]院士（[[American Association for the Advancement of Science|AAAS]] Fellow）、著名科学社会学家。师从罗伯特·默顿（Robert K. Merton）与[[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）。
 > - **核心角色** 现代科学社会学的重要奠基人之一，1952 年出版划时代专著《科学与社会秩序》（*Science and the Social Order*）；1972 年在《比较教育评论》发表专论，对社会科学与比较教育学中的“[[Empiricism|唯方法论主义]]”（Methodologism）发起经典[[Epistemology|认识论]]清算，成为解构战后经验[[Positivism|实证主义]]迷思的权威思想资源。
 > - **代表贡献** 奠定科学制度化运行与科学家规范结构的[[Analytic Framework|分析框架]]；提出并界定“唯方法论主义”概念，批判将科学矮化为单一全能数学规程的教条倾向；开创现代信任社会学传统（《信任的逻辑与界限》，1983）。
 
@@ -79,7 +80,7 @@ updated: 2026-10-02
 
 > [!timeline] 生平与职涯
 > - **1918** 出生于美国马萨诸塞州波士顿。
-> - **1939–1948** 在哈佛大学攻读社会学，先后获得学士与博士学位，深受导师帕森斯[[Structural Functionalism|结构功能主义]]与默顿科学社会学的双重滋养。
+> - **1939–1948** 在哈佛大学攻读社会学，先后获得学士与博士学位，深受导师[[Talcott Parsons|帕森斯]][[Structural Functionalism|结构功能主义]]与默顿科学社会学的双重滋养。
 > - **1948–1952** 任教于史密斯学院社会学系。
 > - **1952** 出版里程碑专著《科学与社会秩序》（*Science and the Social Order*），成为全球最早系统研究科学建制、科学家社会角色与公众信任的科学社会学经典。
 > - **1952–1988** 受聘于哥伦比亚大学巴纳德学院社会学系，历任长聘教授、系主任，长期执掌哥大社会科学[[Epistemology|认识论]]与科学社会学讲席。

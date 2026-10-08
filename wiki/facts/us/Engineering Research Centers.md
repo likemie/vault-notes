@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Competitiveness]]"
   - "[[Engineering Education]]"
+  - "[[Engineering Mindset]]"
   - "[[Research Translation]]"
   - "[[University-Based Research Center]]"
 related_persons:
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Engineering Research Centers
@@ -72,7 +73,7 @@ updated: 2026-10-07
 > 通过建立长期资助、跨学科与多机构联动的实体工程中心，将产业界前沿技术痛点转化为大学实验室先导课题，推动工程专业师生参与高强度工程实践与产学交互，使大学科研能力直接转化为支撑美国工业国际[[Competitiveness|竞争力]]的关键杠杆。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 367, 370)]]
 
 > [!policy-design]- 方案设计
-> - **项目目标** 根本性重塑美国工程科学研究与[[Engineering Education|高等工程教育]]生态，培养具备多学科系统工程思维、熟悉产业前沿需求并能直接投入工业竞争的高阶工程科技人才。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 367)]]
+> - **项目目标** 根本性重塑美国工程科学研究与[[Engineering Education|高等工程教育]]生态，培养具备多学科系统[[Engineering Mindset|工程思维]]、熟悉产业前沿需求并能直接投入工业竞争的高阶工程科技人才。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 367)]]
 > - **覆盖对象** 全美高水平[[Research Universities|研究型大学]]工程学院、工业制造与高科技企业研发团队、大学工程专业本科生与硕博士研究生。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 367–368)]]
 > - **干预措施** [[National Science Foundation|NSF]] 设立高强度连续资助（2003 财年 ERC 专项拨款达 6,572 万美元）；要求中心设立产业咨询网络，建立跨学科研发设施，开发贯通本科与研究生的动手实践导向工程课程。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 367, 369)]]
 > - **实施控制** 实行严苛的同行评审与期中绩效审核，确立优胜劣汰机制；引入十年[[Sunset Provisions|日落条款]]（Sunset Provisions），迫使中心在获得充足培育期后逐步摆脱对联邦资金的单向依赖。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 369, 373–374)]]

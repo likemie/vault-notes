@@ -8,7 +8,7 @@ aliases:
 summary: "旨在培养学生在真实物理、经济与社会多重约束下运用科学与数学原理进行系统设计、优化集成与原型迭代能力的专门教育范式；涵盖从基础科学认识论实践向跨学科动手实践、车间排障技艺、系统工程与产学协同攻关的范式演进。"
 type: concept
 domain: "higher-education"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Practitioner-in-Residence]]"
   - "[[Community College Strategic Anchoring]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Engineering Mindset]]"
   - "[[Academic Engagement]]"
   - "[[University-Based Research Center]]"
   - "[[Dual Appointment]]"
@@ -204,7 +205,7 @@ updated: 2026-10-08
 > - **19 世纪后半叶 — 工艺学与专门学科院系成型** 伴随工业革命与《[[Morrill Land-Grant Act of 1862|莫里尔法案]]》，机械、土木、化工等专门工程系所相继确立，奠定现代工学院的学科分立格局。
 > - **战后至 1970 年代 — 工程科学化与理论偏向** 随着冷战基础科研投入激增，大学工程教育日益数学化和物理化，但逐步演变为偏重黑板理论讲授、脱离一线动手工程实践的狭隘模式。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 367)]]
 > - **1984 年 — [[Engineering Research Centers|ERC]] 与跨学科动手实践革命** [[National Science Foundation|NSF]] 设立[[Engineering Research Centers|工程研究中心]]（ERC）并在内部建立工程教育与中心处（EEC），强制要求中心嵌入工程教育组件，开创跨学科系统设计与动手原型制造新纪元。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 366–369)]]
-> - **21 世纪初期 — [[Epistemic Practices|认识论实践]]与工程思维深化** 工程教育研究（EER）正式发展为独立学术领域，深度融入贯通 K-12 的 [[STEM Education|STEM]] 教育，强调多约束权衡、设计思维与工程伦理。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 142, 156)]]
+> - **21 世纪初期 — [[Epistemic Practices|认识论实践]]与[[Engineering Mindset|工程思维]]深化** 工程教育研究（EER）正式发展为独立学术领域，深度融入贯通 K-12 的 [[STEM Education|STEM]] 教育，强调多约束权衡、设计思维与工程伦理。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 142, 156)]]
 > - **2026 年 — 智能时代的手艺回归与产学制造公地重振** 面临实体制造空心化与 AI 认知工具普及的双重挑战，工程教育从单纯的理论与编程模拟转向车间操作实训、仪器建造技艺（Craftsmanship）、现场排障直觉与工业博士[[Apprenticeship|学徒制]]深度贯通的新阶段。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51–54)]]
 
 ---

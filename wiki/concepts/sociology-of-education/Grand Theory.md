@@ -10,7 +10,7 @@ aliases:
 summary: "统摄学科全貌、历史进程或文明演进、追求先验普遍性与高度逻辑自洽的思辨性元叙述体系；在社会学中因脱离经验事实而遭遇默顿中层理论、扎根理论与后现代主义的解构；在技术政治与文明史中呈现多重张力：福山式意识形态宏大叙事诱发胜者谬误与战略麻痹，工程宏大叙事的丧失导致大构想饥荒，而全盘解构西方文明宏大叙事则切断了维系移民社会凝聚力的世俗公民宗教，诱发国家认同沦为断线气球与技术不可知论。"
 type: concept
 domain: "sociology-of-education"
-related_count: 57
+related_count: 58
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -66,6 +66,7 @@ related_instruments: []
 related_persons:
   - "[[Francis Fukuyama]]"
   - "[[William H. McNeill]]"
+  - "[[Talcott Parsons]]"
   - "[[Keith Morrison]]"
   - "[[Allan Bloom]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
@@ -108,7 +109,7 @@ updated: 2026-10-08
 > 3. **文明认同与世俗[[Civic Religion|公民宗教]]** 如历史学家[[William H. McNeill|威廉·麦克尼尔]]所指出的西方文明宏大叙事，其作为凝聚多族裔移民社会的“世俗公民宗教”在一战后确立；然而后现代批判与[[Canon Wars|经典之争]]对其后验虚构性与排他性的全盘解构，又反向切断了国家历史深度的文化锚桩，导致国家认同沦为半空中漂浮的“断线气球”，加剧了科技阶层的[[Technological Agnosticism|技术不可知论]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 10–11)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–32, 49–50)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 83–90)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向社会学、历史哲学、文明史与战略理论中那些试图提供全包容解释框架、国家工程愿景或文明认同锚桩的知识体系（如帕森斯[[Structural Functionalism|结构功能主义]]、福山历史终结论、阿波罗工程宏大叙事、西方文明正典叙事）。
+> - **含义** 指向社会学、历史哲学、文明史与战略理论中那些试图提供全包容解释框架、国家工程愿景或文明认同锚桩的知识体系（如[[Talcott Parsons|帕森斯]][[Structural Functionalism|结构功能主义]]、福山历史终结论、阿波罗工程宏大叙事、西方文明正典叙事）。
 > - **用途** 帮助研究者与战略家识别先验体系推演的认知自负，辨析“目的论意识形态迷思”、“实体科技突破的宏大工程抱负”与“凝聚国家共同体的文明历史叙事”之间的本质分野。
 > - **边界** 宏大理论不提供可直接[[Operationalization|操作化]]检验的微观经验假说，不能替代微观扎根探究；但健康的文明历史叙事与宏大工程愿景对维系共和国政治凝聚力与举国体制攻关具有不可替代的引领功能。
 

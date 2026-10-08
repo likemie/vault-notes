@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -21,6 +21,7 @@ tags:
   - theme/industry-collaboration
 related_concepts:
   - "[[STEM Education]]"
+  - "[[Engineering Mindset]]"
   - "[[Apprenticeship]]"
   - "[[Science Capital]]"
 related_facts:
@@ -34,7 +35,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
 # EngineeringUK
@@ -54,7 +55,7 @@ updated: 2026-10-05
 
 > [!feature] 核心行动支柱
 > - **主办全国性标志展会与赛事（[[The Big Bang Fair]]）** 牵头策划并运营全英最大规模的青少年科技盛会大爆炸博览会及其配套竞赛，每年为数以万计的 11–14 岁学生提供沉浸式动手工程体验。
-> - **气候与可持续发展学校行动计划（Climate Schools Programme）** 针对生态转型与绿色技能人才缺口，开发跨学科工程课程资源，引导学生运用系统工程思维解决气候变化难题。
+> - **气候与可持续发展学校行动计划（Climate Schools Programme）** 针对生态转型与绿色技能人才缺口，开发跨学科工程课程资源，引导学生运用系统[[Engineering Mindset|工程思维]]解决气候变化难题。
 > - **校企对接与工程职业指导网络** 协同落实《盖茨比良好职业指导基准》（[[Gatsby Benchmarks]]），搭建学校与工程企业一线技术专家的精准对接通道，推广带薪工程[[Apprenticeship|学徒制]]（Degree Apprenticeships）。
 > - **推动工程人才构成的公平与包容（EDI）** 长期实施靶向弱势群体学校的扶持计划，消除少数族裔与工薪阶层青年在选择工程专业时的体制性障碍。
 
