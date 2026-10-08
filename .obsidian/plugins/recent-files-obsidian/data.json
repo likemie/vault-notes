@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Historical Amnesia",
+      "path": "wiki/concepts/comparative-education/Historical Amnesia.md"
+    },
+    {
+      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch06",
+      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch06.md"
+    },
+    {
+      "basename": "Project Maven",
+      "path": "wiki/facts/us/Project Maven.md"
+    },
+    {
+      "basename": "Francis Fukuyama",
+      "path": "wiki/persons/us/Francis Fukuyama.md"
+    },
+    {
+      "basename": "Manuel Castells",
+      "path": "wiki/persons/spain/Manuel Castells.md"
+    },
+    {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch05",
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch05.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Public Value",
       "path": "wiki/concepts/science-policy/Public Value.md"
-    },
-    {
-      "basename": "National Aeronautics and Space Administration",
-      "path": "wiki/facts/us/National Aeronautics and Space Administration.md"
-    },
-    {
-      "basename": "ARPANET",
-      "path": "wiki/facts/us/ARPANET.md"
-    },
-    {
-      "basename": "Star Scientists",
-      "path": "wiki/concepts/university-industry-collaboration/Star Scientists.md"
-    },
-    {
-      "basename": "Organizational Culture",
-      "path": "wiki/theories/sociology-of-education/Organizational Culture.md"
-    },
-    {
-      "basename": "Man-Computer Symbiosis",
-      "path": "wiki/concepts/educational-technology/Man-Computer Symbiosis.md"
     }
   ],
   "omittedPaths": [],
