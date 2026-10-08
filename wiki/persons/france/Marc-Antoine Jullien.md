@@ -187,7 +187,7 @@ updated: 2026-10-08
 > - **跨国改良与国家建制** 构想了以瑞士 22 个州为试点的教育经验互鉴机制，主张借用外部优良制度以培育国家意识与政治统合，开启了[[Empiricism\|经验主义]][[Policy Borrowing\|教育借用]]传统。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 14)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 深入解构朱利安的准[[Proto-Scientific Motif|科学人道主义母题]]，澄清其欧陆二级精神科学属性，有力反驳 20 世纪行为实证派指责其问卷带有主观偏见的时代倒错。 [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 将朱利安 1816–1817 年方案置于两百年比较学术史连续统中，驳斥实证主义者将其孤立化为“史前孤立天才”的断裂叙事，确立其作为跨文化制度考证传统的思想源流。 [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯反思比较教育学的现代主义与启蒙源流，系统阐述朱利安通过比较解剖学类比与分析事实图表消除统治者主观专断、开创准实证科学与道德改良双重使命的奠基性坐标。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 深入解构朱利安的准[[Proto-Scientific Motif|科学人道主义母题]]，澄清其欧陆二级精神科学属性，有力反驳 20 世纪行为实证派指责其问卷带有主观偏见的时代倒错。
 
 ---
 

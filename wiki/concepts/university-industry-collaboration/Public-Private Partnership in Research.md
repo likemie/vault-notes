@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-04
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Public-Private Partnership in Research
@@ -243,7 +243,7 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 把国家实验室用户设施、[[Other Transaction Authority|其他交易授权]]（Other Transaction Authority, OTA）、机构相邻的独立基金会和产业博士训练写成可以扩大、目前仍用得不够的接口。能源部单独运营 28 个用户设施。[[Accelerating Medicines Partnership|加速药物伙伴关系]]是[[National Institutes of Health|美国国立卫生研究院]]基金会的一项公私伙伴关系，十二条以疾病为焦点的计划之一、阿尔茨海默病方向实验验证了 20 个候选药物靶点。产业博士、产业博士后，以及劳伦斯伯克利国家实验室的 [[Activate Fellowship|Activate]] 项目，被写成让人在部门之间移动、而不是做一次不可逆跳跃的原型。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 把国家实验室用户设施、[[Other Transaction Authority|其他交易授权]]（Other Transaction Authority, OTA）、机构相邻的独立基金会和产业博士训练写成可以扩大、目前仍用得不够的接口。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 从企业学术合作团队（[[Academic Engagement Team|AET]]）实践视角，系统提出多边治理、竞争理论、技术战略与知识产权四大决策支柱，并提炼半导体协同机制由企业战略倡议（[[Universal Parallel Computing Research Centers|UPCRC]]）、行业前竞争联盟（[[Semiconductor Research Corporation|SRC]]）向国家法定[[Innovation Hub|创新中心]]（[[National Science and Technology Council|NSTC]]）演进的历史轨迹。
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 详尽复盘半导体研究公司（SRC）30 年产学研公私合作历史，实证揭示其如何通过企业会费撬动联邦资金实现 70% 以上的强公共杠杆，并培养 9,200 余名高阶工程博士人才。
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 结合 [[Sematech]] 与 [[DARPA]] 对等注资案例，系统阐述研究型公私合作如何通过纵向用户—供应商协同克服前竞争合作中的企业利益冲突。

@@ -11427,6 +11427,19 @@
     ]
   },
   {
+    "title": "Commercial Off-The-Shelf",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Commercial Off-The-Shelf.md",
+    "aliases": [
+      "COTS",
+      "商用现货",
+      "商用现成产品",
+      "商业货架产品",
+      "商业现货技术",
+      "commercial items"
+    ]
+  },
+  {
     "title": "Complexity Paradox",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Complexity Paradox.md",
@@ -24298,6 +24311,16 @@
     ]
   },
   {
+    "title": "John Glenn",
+    "type": "person",
+    "path": "wiki/persons/us/John Glenn.md",
+    "aliases": [
+      "约翰·格伦",
+      "约翰·赫歇尔·格伦",
+      "John Herschel Glenn Jr."
+    ]
+  },
+  {
     "title": "John Hardwig",
     "type": "person",
     "path": "wiki/persons/us/John Hardwig.md",
@@ -31946,6 +31969,18 @@
     ]
   },
   {
+    "title": "Federal Acquisition Streamlining Act of 1994",
+    "type": "fact",
+    "path": "wiki/facts/us/Federal Acquisition Streamlining Act of 1994.md",
+    "aliases": [
+      "1994年联邦采购精简法",
+      "联邦采购精简法案",
+      "FASA",
+      "FASA 1994",
+      "Federal Acquisition Streamlining Act"
+    ]
+  },
+  {
     "title": "Foundations for Evidence-Based Policymaking Act of 2018",
     "type": "fact",
     "path": "wiki/facts/us/Foundations for Evidence-Based Policymaking Act of 2018.md",
@@ -33498,6 +33533,11 @@
     "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch12",
     "type": "argument",
     "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch12.md"
+  },
+  {
+    "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch13",
+    "type": "argument",
+    "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch13.md"
   },
   {
     "title": "Argument_Kelly_Licona_2018_EpistemicPractices",

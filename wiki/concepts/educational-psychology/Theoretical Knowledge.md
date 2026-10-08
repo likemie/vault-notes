@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-09-17
+updated: 2026-10-08
 ---
 
 # Theoretical Knowledge
@@ -88,4 +88,4 @@ updated: 2026-09-17
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] [[Meta-meta-analysis\|二阶元分析]]报告，PBL 对高等教育学生理论性知识的效应（d = 0.59）为高水平，源于分析真实问题带来的深层理解；Dochy et al. (2003) 与 Strobel & Van Barneveld (2009) 均指出 PBL 短期知识获取较低但长期保持更优。（pp. 963）
+> - [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] [[Meta-meta-analysis\|二阶元分析]]报告，PBL 对高等教育学生理论性知识的效应（d = 0.59）为高水平，源于分析真实问题带来的深层理解。

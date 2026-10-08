@@ -162,7 +162,7 @@ updated: 2026-10-08
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022, pp. 893–894)]] — 将吉登斯结构化理论与结构二重性创造性迁移至小学科学探究课堂，系统建构[[Reflective Structuration|反思性结构化]]理论与四维共享探究架构。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 7, 18)]] — 援引吉登斯提炼[[Positivism|实证主义]]社会学的方法论统一与产出同构假定，并以其主体-主体关系与前诠释世界奠定对自然主义[[Scientific Method|科学方法]]的认识论清算。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, Ch. 2, pp. 23–25)]] — 阐释[[Jürgen Habermas|哈贝马斯]]呼应吉登斯双重诠释学说，论证在被诠释世界中展开的研究必然带有反思性与价值牵连。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011, Ch. 10, p. 181)]] — 借吉登斯双重诠释指出[[Qualitative Validity|质性效度]]的认识论悖论：理解人类生活最充分的工具只能是人本身，但同时也必然伴随着人类解释误差的风险。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|Cohen et al. (2011, Ch. 28, p. 538)]] — 以吉登斯双重诠释说明质性数据分析与报告是研究者诠释叠加于参与者经验诠释之上的过程，指导质性写作结合第一人称与反思性。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 7, 18)]] — 援引吉登斯提炼[[Positivism|实证主义]]社会学的方法论统一与产出同构假定，并以其主体-主体关系与前诠释世界奠定对自然主义[[Scientific Method|科学方法]]的认识论清算。
 
 ---
 

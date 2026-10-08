@@ -186,4 +186,4 @@ updated: 2026-10-08
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch.7)]] — 系统阐明田野调查的定义、基本特征、[[Phenomenology|现象学]][[Epistemology|认识论]]基石以及进入现场、搜集资料与[[Rich and Thick Description|深描]]呈现的完整规范。
 > - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 深入华北某区域 4 所案例学校开展实地[[Qualitative Observation|田野观察]]并记录同行评课研讨的[[Field Notes|田野笔记]]，交叉验证校长与教师的教学改进决策。
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 108–110)]] — 评析比较教育学者如何通过精细的实证田野研究（fieldwork），考察以色列课程分权、几内亚与美法阅读教学、巴布亚新几内亚乡村青年文化抵抗以及印度女教师在职培训，实证确立全球与本土辩证互动的微观机制。 [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128–129)]] — 梳理国际与比较教育研究中的田野伦理困境，深入反思跨文化田野调查中研究者与研究对象的权力关系、女性主义田野困境及[[Going Native|本土化]]（Going Native）张力。 [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 155–156)]] — 考证 20 世纪 80–90 年代人类学田野调查与女性主义广泛进入比较教育学、打破功能主义垄断的多元化历程，并警示田野微观繁荣背后学科深陷“[[Historical Amnesia|历史健忘症]]”的危机。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 108–110)]] — 评析比较教育学者如何通过精细的实证田野研究（fieldwork），考察以色列课程分权、几内亚与美法阅读教学、巴布亚新几内亚乡村青年文化抵抗以及印度女教师在职培训，实证确立全球与本土辩证互动的微观机制。

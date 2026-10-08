@@ -96,9 +96,10 @@ updated: 2026-10-08
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **2003–2008 — 初创奠基与防务情报突破** [[Peter Thiel|彼得·蒂尔]]（Peter Thiel）、[[Alexander Karp|亚历山大·卡普]]（Alexander Karp）等人共同创立企业；研发针对反恐反洗钱的 Gotham 平台，深入美军前线开展阿富汗反简易爆炸装置（Improvised Explosive Device, IED）作战软件实战敏捷迭代。
-> - **2008–2018 — 商业拓展与全域数据操作系统构建** 推出面向大型商业企业复杂供应链与多源异构数据整合的 Foundry 平台，业务扩展至空客、制药及全球金融机构。
-> - **2018 至今 — 人工智能防务中枢与国家[[Technological Republic|技术共和国]]前沿** 在谷歌因员工抗议退出[[Project Maven|梅文项目]]之际坚定接棒五角大楼核心算法工程；推出人工智能平台（AIP），成为全域联合指挥控制（Joint All-Domain Command and Control, JADC2）与现代无人系统协同算法的底层操作系统，深度参与乌克兰战场等现代算法战争实践。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, Ch. 3)]]
+> - **2003–2008 — 初创奠基与防务情报突破** [[Peter Thiel|彼得·蒂尔]]（Peter Thiel）、[[Alexander Karp|亚历山大·卡普]]（Alexander Karp）等人共同创立企业；研发针对反恐反洗钱的 Gotham 平台。
+> - **2008–2016 — 阿富汗前线战火淬炼与诉讼突围** 深入阿富汗战区（坎大哈与赫尔曼德省），直面简易爆炸装置（IED）危机，前沿工程师与美军第82空降师情报官紧密协同迭代数据分析系统；在 2011 年硅谷沉迷于社交与消费互联网（Zynga、Groupon）狂热之际逆流坚守防务；2016 年依据《1994年联邦采购精简法》（[[Federal Acquisition Streamlining Act of 1994|FASA 1994]]）起诉美国陆军垄断性定制采购并大获全胜。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 139–155)]]
+> - **2016–2018 — 商业拓展与全域数据操作系统构建** 推出面向大型商业企业复杂供应链与多源异构数据整合的 Foundry 平台，业务扩展至空客、制药及全球金融机构。
+> - **2018 至今 — 赢得防务记录项目与人工智能中枢** 击败雷神等传统军工巨头赢得陆军数十亿美元 DCGS-A 采购合同，开创硅谷初创软件公司主导重大防务记录项目的先河；在谷歌因员工抗议退出[[Project Maven|梅文项目]]之际坚定接棒五角大楼核心算法工程；推出人工智能平台（AIP），成为全域联合指挥控制（Joint All-Domain Command and Control, JADC2）与现代无人系统协同算法的底层操作系统。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, Ch. 3)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 153–154)]]
 
 ---
 
@@ -183,4 +184,7 @@ updated: 2026-10-08
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10\|《技术共和国》第10章]] | 论证 | 剖析帕兰提尔前沿部署工程师（FDEs）与生物[[Swarm Intelligence\|群智能]][[Edge Autonomy\|边缘自治]]的组织同构。 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11\|《技术共和国》第11章]] | 论证 | 详尽剖析帕兰提尔反[[Bureaucracy\|科层制]]的即兴演剧工程文化与组织自适应机制。 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12\|《技术共和国》第12章]] | 论证 | 论证帕兰提尔践行建设性不服从与社交失聪以抵御虚假群体共识的微观机制。 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13\|《技术共和国》第13章]] | 论证 | 剖析阿富汗战地数据合成需求、FASA 1994 诉讼胜利与商业现货优先的工程突破。 |
+> | [[Commercial Off-The-Shelf\|商用现货]] | 概念 | 帕兰提尔作为商业现货软件企业打破传统军工定制垄断的典型范式。 |
+> | [[Federal Acquisition Streamlining Act of 1994\|1994年联邦采购精简法]] | 事实 | 帕兰提尔于2016年诉美国陆军胜诉并以此赢得重大防务记录项目的法定基石。 |
 

@@ -286,7 +286,7 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 系统阐述[[Educational Brokerage Agency\|知识中介机构]]必须确立变革理论作为自我循证支柱，论证单纯信息推送的无效性，并构建结合 [[COM-B Model\|COM-B]] 模型的因果机制架构。 [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 梳理教育中介机构的历史演进与治理挑战，探讨中介在不同政策情境下构建因果服务链条的制度困境。 [[Argument_Torres_2022_KMModels\|Torres, P. (2022)]] — 比较跨领域主流[[Knowledge Mobilisation\|知识动员]]模型，解构微观行为因果转化机制（Langer et al., 2016）与多层系统架构。
+> - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 系统阐述[[Educational Brokerage Agency\|知识中介机构]]必须确立变革理论作为自我循证支柱，论证单纯信息推送的无效性，并构建结合 [[COM-B Model\|COM-B]] 模型的因果机制架构。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald, T., & Nevill, C. (2021)]] — 详述 [[Education Endowment Foundation\|EEF]] 如何将变革理论、[[TIDieR]] 活性成分界定与实施[[Implementation and Process Evaluation\|过程评估]]（IPE）深度整合，用于区分理论失败与实施失败，并解析儿童哲学（P4C）等方案规模化扩展中的因果链断裂案例。
 > - Lord et al. (2017) — 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）“[[Literacy Octopus\|识字八爪鱼]]”大规模多臂 [[Randomised Controlled Trials\|RCT]] 试验评估报告，实证裁决单纯信息传播在改善教学与学业上的零效应。
 > - Michie et al. (2011) — 提出行为改变轮与 COM-B 模型，为变革理论中由认知到行为转化的微观机制提供心理学基石。

@@ -31,7 +31,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-09-17
+updated: 2026-10-08
 ---
 
 # Test Specifications and Test Blueprint
@@ -97,4 +97,4 @@ updated: 2026-09-17
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.5 节详细介绍测验规格的矩阵框架方法（Tables 24.1–24.2）、Gronlund & Linn（1990）的三步权重分配顺序、Mager（1962）的五条目标标准以及英国评估与测验任务组（Task Group on Assessment and Testing, TGAT, 1988）的呈现-操作-反应三模式
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.5 节详细介绍测验规格的矩阵框架方法（Tables 24.1–24.2）、Gronlund & Linn（1990）的三步权重分配顺序。

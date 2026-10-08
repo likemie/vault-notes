@@ -233,5 +233,5 @@ updated: 2026-10-08
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied (2008)]] — 详述《[[Bayh-Dole Act of 1980|拜杜法案]]》前全美大学成果商业化匮乏的历史教训，印证法律赋权促成各校建立 TTO 并带来专利四倍暴增的体制跨越。
-> - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] — 对 65 所美国顶尖[[Research Universities|研究型大学]]进行组织学实证分析，揭示 TTO 在中心办公室架构中的五种模式及其在全谱系产学活动中的碎片化与导航者局限。 [[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone (2025)]] — 深入剖析产学协议中 TTO 与首席研究员（PI）在背景 IP 与前景 IP 谈判中的信息断裂，揭示其对学者未来创业与发表造成的潜在风险。 [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson (2025)]] — 结合[[University Spin-Out|大学衍生企业]]实证，论证 TTO 尽职调查作为外部风投“质量信号”的功能，以及内设新创企业组在商业路径评估中的关键机制。 [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 系统追踪产学关系五十年演变，阐明 1980 年代 TTO 兴起如何使大学从与工业界相对脱钩转为重新嵌入国家[[Systems of Innovation|创新系统]]。 [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 从企业侧[[Academic Engagement Team|学术参与团队]]（AET）视角审视大学 TTO 许可实践，揭示 3–8 年商业化时间滞后、三轨转化漏斗与斯坦福 PageRank 专利许可案例中的制度权衡。
+> - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] — 对 65 所美国顶尖[[Research Universities|研究型大学]]进行组织学实证分析，揭示 TTO 在中心办公室架构中的五种模式及其在全谱系产学活动中的碎片化与导航者局限。
 > - [[Argument_Lester_2005_MIT|Lester (2005)]] — 批判政策界将 TTO 专利许可收入作为大学唯一经济贡献的“一刀切”迷思，主张[[Technology Transfer|技术转移]]必须与本地产业转型模式相匹配。

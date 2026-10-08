@@ -211,4 +211,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Karp & Zamiska (2025, pp. 69–82)]] — 系统界定技术不可知论的文化成因、组织表现与政治危害。 [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp & Zamiska (2025, pp. 83–96)]] — 深度揭示战后大学[[Western Civilization Course|西方文明课]]程瓦解与[[Canon Wars|经典之争]]留下的道德真空，如何促使技术先驱全面撤退至消费主义与不可知论。 [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Karp & Zamiska (2025, pp. 97–102)]] — 剖析 1970 年代反文化运动与[[Hacker Ethic|黑客伦理]]如何将政府定性为“缺陷系统”，最终演变为空洞化的[[Consumer Internet|消费互联网]]与技术不可知论。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Karp & Zamiska (2025, pp. 69–82)]] — 系统界定技术不可知论的文化成因、组织表现与政治危害。

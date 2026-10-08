@@ -285,4 +285,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合[[Pluri-Scalar Governance|多标度治理]]理论，深刻揭示 [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]] 经贸规制与非政府组织“[[Shadow State|影子国家]]”外包对民族国家教育主权的削弱，剖析南北国家在自主权上的严重分化（pp. 110–112）。 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 系统解构 19 世纪法国[[Victor Cousin|库森]]与美国[[Horace Mann|霍勒斯·曼]]如何分别动用“国家公共资源论”与“自由共和政治合法化依据”，推动世俗国家确立教育最高主权并开创两种跨国借用[[Paradigm|范式]]。 [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 系统阐明民族国家对教育主权的垄断如何确立了整个 20 世纪比较教育的经验容器，剖析主权多样性与欧洲统一性的结构张力，并揭示当代超国家测评[[Disciplina and Doctrina|规训]]与[[Intercultural Education|跨文化教育]]对国家教育主权的双向重塑。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合[[Pluri-Scalar Governance|多标度治理]]理论，深刻揭示 [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]] 经贸规制与非政府组织“[[Shadow State|影子国家]]”外包对民族国家教育主权的削弱，剖析南北国家在自主权上的严重分化（pp. 110–112）。

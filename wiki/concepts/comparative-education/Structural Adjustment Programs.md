@@ -244,4 +244,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 从[[Conditioned State Theory|受限国家理论]]与阶级策略视角，系统阐述[[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 的结构调整方案如何通过贷款附加条件剥夺拉美国家的教育公共主权并加剧阶级分化。 [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 104–106, 110–112)]] — 运用[[World-Systems Theory|世界体系分析]]透视结构调整方案的技术官僚成本效益[[Discourse|话语]]，揭示公共开支削减如何导致基础教育向非政府组织外包并异化为“[[Shadow State|影子国家]]”，进而固化外围国家的依附地位。 [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 实证对照结构调整市场化改革对受援国[[Education for All|全民教育]]（[[Exploratory Factor Analysis|EFA]]）进程的阻碍与古巴自主公共教育动员的成功，揭示外部强制紧缩与市场化对全球南方教育发展造成的结构性破坏。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 从[[Conditioned State Theory|受限国家理论]]与阶级策略视角，系统阐述[[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 的结构调整方案如何通过贷款附加条件剥夺拉美国家的教育公共主权并加剧阶级分化。

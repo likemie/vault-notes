@@ -279,7 +279,7 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 系统阐明比较教育学的现代主义发端如何扎根于启蒙运动的现代性[[Paradigm|范式]]，由[[Jean-Jacques Rousseau|卢梭]]的自然自由、[[Immanuel Kant|康德]]的启蒙自主性、[[Marc-Antoine Jullien|朱利安]]的准科学图表与[[Jürgen Habermas|哈贝马斯]]的公共领域重构共同熔铸。 [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统考察启蒙理性主义、培根[[Empiricism|经验主义]]、进步崇拜与道德[[Educational Meliorism|教育改良主义]]如何共同构成比较教育第一代（准科学与行政改良代际）的思想源泉，反思后世[[Positivism|实证主义]]对启蒙双重母题的去语境化简化与[[Historical Amnesia|历史失忆症]]（pp. 139–141, 151）。 [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 追溯启蒙理性主义对新制度主义[[World Society Theory|世界文化理论]]的深刻塑形，并结合世界体系政治经济学批判启蒙趋同神话背后的中心-边缘剥削与依附固化。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 系统阐明比较教育学的现代主义发端如何扎根于启蒙运动的现代性[[Paradigm|范式]]，由[[Jean-Jacques Rousseau|卢梭]]的自然自由、[[Immanuel Kant|康德]]的启蒙自主性、[[Marc-Antoine Jullien|朱利安]]的准科学图表与[[Jürgen Habermas|哈贝马斯]]的公共领域重构共同熔铸。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 阐释科学教育中以证据评估与理性说服为核心的[[Epistemic Practices|认识论实践]]，如何作为启蒙民主理性传统在当代学校教育与公共公民审议中的微观实现（pp. 147–148, 161）。
 
 ---

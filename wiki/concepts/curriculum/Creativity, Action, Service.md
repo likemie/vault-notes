@@ -198,6 +198,6 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - [[Argument_Peterson_1987_OpenCourt\|Peterson (1987)]] — 追溯 CASS 从保护非学术学习时间的最低制度要求（Ch. 3），到莫希[[International Schools|国际学校]]结合坦桑尼亚自力更生原则形成社区服务（Ch. 4），再到 Bellaire 高中以学生自我组织强调责任和就业准备的本地化路径（Ch. 6）。 [[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 161–191)]] — 比较救援、自然保护和城市日常照护，分析 CASS 定义、强制参与与跨文化评价的成熟期争议。
+> - [[Argument_Peterson_1987_OpenCourt\|Peterson (1987)]] — 追溯 CASS 从保护非学术学习时间的最低制度要求（Ch. 3），到莫希[[International Schools|国际学校]]结合坦桑尼亚自力更生原则形成社区服务（Ch. 4），再到 Bellaire 高中以学生自我组织强调责任和就业准备的本地化路径（Ch. 6）。
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 分析 [[Chinese Academy of Sciences|CAS]] 在 IB 课程架构中的定位及其与 [[Theory of Knowledge\|TOK]] 的跨领域印证机制。
 > - [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] — 探讨在 [[IB Diploma Programme|IBDP]] 中促进 CAS、TOK 与 EE 之间[[Concurrency of Learning\|并发学习]]的整合策略，主张通过[[Experiential Learning\|经验学习]]将[[Epistemology\|认识论]]思考转化为本地社区服务行动。

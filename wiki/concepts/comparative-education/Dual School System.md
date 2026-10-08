@@ -279,5 +279,5 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 深度剖析 19 世纪法国[[Victor Cousin\|库森]]、[[François Guizot\|基佐]]基于普鲁士经验构建的阶级分选双轨学制，以及[[Horace Mann\|霍勒斯·曼]]在北美开创的单轨[[Common School Movement\|公学运动]]抗衡路径。 [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009)]] — 揭示第三世界外围[[Conditioned State Theory|受限国家]]在依附性资本积累与政治合法化压力下，中高等精英教育超速膨胀与基础初等大众教育匮乏并存的“外围双轨教育”结构。\n
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 深度剖析 19 世纪法国[[Victor Cousin\|库森]]、[[François Guizot\|基佐]]基于普鲁士经验构建的阶级分选双轨学制，以及[[Horace Mann\|霍勒斯·曼]]在北美开创的单轨[[Common School Movement\|公学运动]]抗衡路径。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 探讨宏观双轨学制历史瓦解后，学校内部微观分轨（[[Tracking]]）如何继续与能力固定信念相互强化并制度化再生产学业不平等。

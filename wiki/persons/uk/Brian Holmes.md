@@ -217,7 +217,7 @@ updated: 2026-10-08
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Cowen_2023_CE|Cowen (2023)]] — 考察霍姆斯物理学式预测模型与[[Policy Science in Comparative Education|政策科学]]定位在 1960 年代[[Ontology|本体论]]大论战中的关键地位。
-> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 梳理霍姆斯以科学预测为标尺对历史学派发起的实证围剿与[[Paradigm|范式]]冲击。 [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统评析战后第三代际实证科学主义运动中霍姆斯伦敦学派的 $L + I = P$ 假说演绎模型、审慎条件预测与反宿命预言立场，并揭示实证政策科学作为冷战现代化援助[[Social Science as Legitimation Alibi|合法化借口]]的政治功能。 [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 评析霍姆斯运用批判二元论解构美国普遍因果律、以问题法综合历史文化与社会科学的[[Epistemology|认识论]]建构，以及在官方资助市场的边缘化遭遇。 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 引用霍姆斯对巴纳德百科全书式比较调查的极高赞誉与思想史平反。 [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 米特系统考察霍姆斯引入波普尔批判二元论对欧洲比较教育学科的[[Positivism|实证主义]]重塑，梳理其在 IOE 内部与汉斯、劳威斯文化主义传统的认识论论辩，以及联合创立 [[Comparative Education Society in Europe|CESE]] 与 [[World Council of Comparative Education Societies|WCCES]] 理论转型委员会的建制贡献。
+> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 梳理霍姆斯以科学预测为标尺对历史学派发起的实证围剿与[[Paradigm|范式]]冲击。
 
 ---
 

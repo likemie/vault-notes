@@ -228,4 +228,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 专著系统剖析奥本海默在洛斯阿拉莫斯的[[Engineering Pragmatism|工程实用主义]]与[[Big Science|大科学]]攻坚[[Paradigm|范式]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]]、[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Ch. 2]]），论述其开启的原子威慑与[[Long Peace|长和平]]正在让位于人工智能战略威慑（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Ch. 4]]），并系统对比了奥本海默的国家大战略使命范式与 1970 年代硅谷反文化个人计算及[[Consumer Internet|消费互联网]]的历史对立（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 专著系统剖析奥本海默在洛斯阿拉莫斯的[[Engineering Pragmatism|工程实用主义]]与[[Big Science|大科学]]攻坚[[Paradigm|范式]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]]、[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Ch. 2]]），论述其开启的原子威慑与[[Long Peace|长和平]]正在让位于人工智能战略威慑（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Ch. 4]]）。

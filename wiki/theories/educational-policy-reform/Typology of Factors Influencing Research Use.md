@@ -252,6 +252,6 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — [[OECD\|经合组织]]编著第五章，正式提出本类型学，并运用 29 国 37 个教育系统跨国调查数据实证测度机制与障壁的分布态势。 [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 系统对比跨领域[[Knowledge Mobilisation\|知识动员]]模型，为理解机制运作提供理论基础。 [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] — 实证描绘 17 类行动者活跃度网络，为类型学中的互动维度提供微观主体结构证据。
+> - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — [[OECD\|经合组织]]编著第五章，正式提出本类型学，并运用 29 国 37 个教育系统跨国调查数据实证测度机制与障壁的分布态势。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] — 提出信任、技能、结构与关系四类贯通微观、中观与宏观的治理机制，与五维类型学形成微观与宏观互补。
 

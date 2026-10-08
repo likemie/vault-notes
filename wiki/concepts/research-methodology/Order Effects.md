@@ -37,7 +37,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-07-12
-updated: 2026-09-17
+updated: 2026-10-08
 ---
 # Order Effects
 
@@ -228,4 +228,4 @@ updated: 2026-09-17
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 全书涉及顺序效应的两个章节：Ch16 在[[Repeated Measures Design\|重复测量设计]]中讨论延续效应、早期优势效应以及拉丁方排列的均衡逻辑（六种序列）；Ch20 在多选问题陷阱（首因效应与情境效应）、矩阵题回答定势、分支指令位置效应（Redline et al., 2002）、题目排序原则以及 Oppenheim（1992）漏斗技术与过滤器技巧等层面讨论了顺序效应在[[Questionnaire\|问卷]]设计中的表现。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 全书涉及顺序效应的两个章节：Ch16 在[[Repeated Measures Design\|重复测量设计]]中讨论延续效应、早期优势效应以及拉丁方排列的均衡逻辑（六种序列）。

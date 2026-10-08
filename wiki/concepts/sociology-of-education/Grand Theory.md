@@ -316,4 +316,4 @@ updated: 2026-10-08
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen, Manion & Morrison (2011)]] — 贯穿全书系统界定宏大理论的元叙述性质与思辨内核，剖析[[Grounded Theory|扎根理论]]与[[Hypothesis|假设]]检验如何超越传统先验宏大思辨。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, pp. 31–32, 49–50, 83–90, 94–96)]] — 贯穿全书揭示[[Francis Fukuyama|福山]][[End of History Thesis|历史终结论]]宏大叙事诱发的地缘战略麻痹与[[Winner's Fallacy|胜者谬误]]，批判科技界抛弃工程宏大叙事所诱发的[[Big Idea Famine|大构想饥荒]]与[[Total Factor Productivity|全要素生产率]]停滞，并剖析西方文明宏大叙事作为“世俗[[Civic Religion|公民宗教]]”的解体与“断线气球”危机。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, pp. 31–32, 49–50, 83–90, 94–96)]] — 贯穿全书揭示[[Francis Fukuyama|福山]][[End of History Thesis|历史终结论]]宏大叙事诱发的地缘战略麻痹与[[Winner's Fallacy|胜者谬误]]，批判科技界抛弃工程宏大叙事所诱发的[[Big Idea Famine|大构想饥荒]]与[[Total Factor Productivity|全要素生产率]]停滞。

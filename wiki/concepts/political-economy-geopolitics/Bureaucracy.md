@@ -205,4 +205,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 专著从实战工程治理视角对防卫型科层制展开系统批判：[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|第 10 章（p. 121）]]批判多层中介副总裁架构对一线即兴活力的阻滞；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|第 11 章（pp. 124–128）]]剖析微观地位固化与[[Meeting-Industrial Complex|会议工业复合体]]对实干人才的智力榨取；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|第 12 章（pp. 132–136）]]揭示科层制对顺从者的体制偏好、[[Banality of Evil|平庸之恶]]与挑战者号式技术灾难根源。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 专著从实战工程治理视角对防卫型科层制展开系统批判：[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|第 10 章（p. 121）]]批判多层中介副总裁架构对一线即兴活力的阻滞；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|第 11 章（pp. 124–128）]]剖析微观地位固化与[[Meeting-Industrial Complex|会议工业复合体]]对实干人才的智力榨取。

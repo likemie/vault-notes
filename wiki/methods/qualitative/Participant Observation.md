@@ -213,6 +213,6 @@ Wolff（2004, pp. 195–196）和 Flick（1998, p. 57）指出进入现场的六
 > - **Willis（1977）** 作为“班级成员而非教师”长期沉浸，对工人阶级反叛男孩的亚文化与反学校行为展开深度观察。
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, pp. 290–293)]] — 教材将参与观察列为个案研究的核心观察方式，讨论了参与观察的四项优势（Bailey, 1994）、与[[Non-participant Observation\|非参与式观察]]的连续体区分，以及六种研究类型示例（Acker/Boulton/Wild/Blease & Cohen/Antonsen/Houghton）。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011, pp. 425–430)]] — 教材将参与观察列为自然主义和[[Ethnography\|民族志研究]]的主要数据收集方法，讨论了研究者角色的光谱（完全观察到完全参与）和角色冲突/边际性管理。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, pp. 456–472)]] — 教材专章系统介绍 Gold（1958）的四层观察者角色连续体、参与观察的流程（描述性→聚焦→选择性观察）、[[Field Notes\|田野笔记]]的多层记录框架、[[Emic and Etic\|主位与客位]]分析、“[[Going Native\|本土化]]”风险和[[Saturation\|理论饱和]]作为停止观察的标准。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, pp. 290–293)]] — 教材将参与观察列为个案研究的核心观察方式，讨论了参与观察的四项优势（Bailey, 1994）、与[[Non-participant Observation\|非参与式观察]]的连续体区分。
 > - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne (2003, pp. 33–34)]] — 详尽考证 2000 年卡斯尔草案（H.R. 4875）将参与观察明文法定贬低为“初步形式”的历史事件，阐明学术界如何依据“方法契合[[Research Question|研究问题]]”原则为现场沉浸观察争取同等科学合法性。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128–131)]] — 阐明比较教育学立足自然情境探索变异的本质特征，指出参与观察作为核心一手调查方法打破了早期对[[Primary and Secondary Documents|二手文献]]诠释的狭隘依赖。

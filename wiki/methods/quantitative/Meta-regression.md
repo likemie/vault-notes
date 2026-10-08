@@ -80,7 +80,7 @@ related_facts:
   - "[[World Bank]]"
 confidence: high
 created: 2026-08-19
-updated: 2026-09-17
+updated: 2026-10-08
 ---
 
 # Meta-regression
@@ -245,6 +245,6 @@ updated: 2026-09-17
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 运用随机效应元回归检验国家人均国内生产总值 Z 分数（$F = 9.430, p < .01, \beta_1 = 0.197$）、文献发表年份（$F = 7.006, p < .05, \beta_1 = 0.032$）及样本性别比例对图形组织器干预效应的连续调节作用。
+> - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 运用随机效应元回归检验国家人均国内生产总值 Z 分数（$F = 9.430, p < .01, \beta_1 = 0.197$）、文献发表年份（$F = 7.006, p < .05。
 > - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] 在[[Epistemic Cognition\|认识论认知]][[Meta-analysis\|元分析]]中运用元回归检验[[Questionnaire\|问卷]][[Reliability\|信度]]对[[Effect Size\|效应量]]的预测力，发现信度回归系数达 $b = .300$。
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] 在[[Three-Level Meta-Analysis\|三水平元分析]]框架下运用元回归检验参与者年龄、学段、地理区域、发表年份及[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]测量类型对相关量的调节作用，并检验两类测量类型的交互项（$Q_M(1) = 6.524, p = .011$）。

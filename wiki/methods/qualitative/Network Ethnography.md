@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Network Ethnography
@@ -169,4 +169,4 @@ updated: 2026-10-07
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 综合调取澳大利亚证券与投资委员会 17 份企业档案、慈善财务年报及信息公开公函，绘制澳大利亚国家[[Educational Brokerage Agency\|证据中介机构]][[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）背后跨越十年的[[Venture Philanthropy\|风险慈善]]游说与跨国[[Policy Network\|政策网络]]。
-> - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 综合运用网络[[Ethnography\|民族志]]、[[In-depth Interview\|深度访谈]]、澳大利亚慈善与非营利委员会（Australian Charities and Not-for-profits Commission, ACNC）财务年报、澳大利亚证券与投资委员会（Australian Securities and Investments Commission, ASIC）监管报告与 Gephi 网络可视化，以[[Social Ventures Australia\|澳大利亚社会创投]]（Social Ventures Australia, SVA）为中枢，解构连接学校加计划、[[Evidence for Learning\|证据学习中心]]（Evidence for Learning, E4L）与[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（Australian Education Research Organisation, AERO）的风险慈善中介[[Assemblage\|装配]]及其对国家再分配职能的重塑。
+> - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 综合运用网络[[Ethnography\|民族志]]、[[In-depth Interview\|深度访谈]]、澳大利亚慈善与非营利委员会（Australian Charities and Not-for-profits Commission, ACNC）财务年报。

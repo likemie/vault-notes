@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-06'
-updated: 2026-09-22
+updated: 2026-10-08
 ---
 
 # Self-control
@@ -281,7 +281,7 @@ updated: 2026-09-22
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 详述英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）2014 年起将评价范围拓展至自我控制与韧性等非学业产出（Non-attainment outcomes），并揭示非认知测量工具的信效度赤字与 [[Social-Emotional Learning\|SEL]] 实践指南演化。
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 援引 Kennett et al. (2008) [[Mixed Methods Research\|混合方法研究]]，阐明 Rosenbaum (1990) 自我控制理论与习得性资源感（Learned Resourcefulness）在赋能个体行为自我管理中的机制，并引述 Lekhal (2015) 性别差异（$d = -0.42$）与行为中介证据。
+> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 援引 Kennett et al. (2008) [[Mixed Methods Research\|混合方法研究]]，阐明 Rosenbaum (1990) 自我控制理论与习得性资源感（Learned Resourcefulness）在赋能个体行为自我管理中的机制。
 > - Duckworth & Seligman (2005) — 经典纵向追踪实证，证实自我控制对青少年[[Academic Achievement\|学业表现]]的预测力超越智商（IQ）。
 > - van Poortvliet et al. (2019) — EEF 官方实践指南，系统提炼在小学课堂中系统落地社会情感学习（SEL）与自我控制策略的循证建议。
 

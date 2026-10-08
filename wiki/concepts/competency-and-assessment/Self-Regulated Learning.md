@@ -59,7 +59,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-31
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Self-Regulated Learning
@@ -227,5 +227,5 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 运用随机效应[[Meta-analysis\|元分析]]检验生成式 AI 促进学生[[Higher-Order Thinking Skills\|高阶思维]]的调节机制，实证确立自主调节学习能力构成极其显著的分流门槛（$Q_b = 40.962, p < 0.001$），高自律水平学生获得大效应提升（$g = 0.863$），而低自律学生促学成效微弱（$g = 0.284$），并在理论上确立了 SRL 的“风险中和”功能与双向强化互促机制。
+> - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 运用随机效应[[Meta-analysis\|元分析]]检验生成式 AI 促进学生[[Higher-Order Thinking Skills\|高阶思维]]的调节机制，实证确立自主调节学习能力构成极其显著的分流门槛（$Q_b = 40.962, p < 0.001$），高自律水平学生获得大效应提升（$g = 0.863$）。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项实证研究，将自我调节学习确立为[[Man-Computer Symbiosis|人机协同]]中实现批判性与[[Creativity\|创造性思维]]双向增益的核心认知机制。

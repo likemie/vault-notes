@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-03
+updated: 2026-10-08
 ---
 
 # Bloom's Taxonomy
@@ -212,5 +212,5 @@ updated: 2026-10-03
 > - [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] 运用修订版布鲁姆分类法检查[[International Baccalaureate\|国际文凭]]项目（国际文凭大学预科项目, [[IB Diploma Programme\|IBDP]]）指南中的命令词层级，审视[[Critical Thinking\|批判性思维]]要求是否在课程指南、评估目标与评分量规之间实现有效对齐。
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] 基于布鲁姆三维框架与认知分层，在[[Meta-meta-analysis\|二阶元分析]]中细化评估[[Cooperative Learning\|合作学习]]对学生高阶思维（$ES = 0.76$）与[[Academic Achievement\|学业成就]]的宏观促进价值。
 > - [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] 依托布鲁姆目标分类学与五维 HOTS 架构，综合 19 项 AIEd 一阶[[Meta-analysis\|元分析]]评估人工智能对分析、评价等高阶认知产出的干预成效。
-> - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] 基于修订版布鲁姆认知目标分类学的高阶思维界定，将生成式 AI 促学成效解构为分析与评价（[[Critical Thinking\|批判性思维]] $g = 0.691$）、策略探索（[[Problem Solving\|问题解决]] $g = 0.745$）及顶层综合（[[Creativity\|创造力]] $g = 0.444$）三大维度，实证检验了智能技术在认知层级上的赋能落差。
+> - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] 基于修订版布鲁姆认知目标分类学的高阶思维界定，将生成式 AI 促学成效解构为分析与评价（[[Critical Thinking\|批判性思维]] $g = 0.691$）、策略探索（[[Problem Solving\|问题解决]] $g = 0.745$）及顶层综合（[[Creativity\|创造力]] $g = 0.444$）三大维度。
 > - [[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]] 深入反思 Bloom 分类学与 [[SOLO Taxonomy\|SOLO]] 模型在界定表层与深层知识时的理论局限，提出[[Dynamic Knowledge and Learning Model\|动态知识与学习模型]]。

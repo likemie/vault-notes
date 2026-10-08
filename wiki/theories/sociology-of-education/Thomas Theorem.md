@@ -153,4 +153,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 18, 25–26)]] — 系统阐明托马斯定理的微观机制、课堂互动应用以及[[Basil Bernstein\|伯恩斯坦]]与[[John Rex\|雷克斯]]的结构性批判。 [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 贯穿全书[[Qualitative Research\|质性研究]]设计与[[Ethnography\|民族志]]章节，指导研究者深入理解参与者的生活世界叙事。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 18, 25–26)]] — 系统阐明托马斯定理的微观机制、课堂互动应用以及[[Basil Bernstein\|伯恩斯坦]]与[[John Rex\|雷克斯]]的结构性批判。

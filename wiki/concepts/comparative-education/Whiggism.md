@@ -232,4 +232,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]] — 思想史考古揭示比较教育历史学派在追求教育改良时陷入混淆实然与应然的辉格史观，并澄清[[Historical-Comparative Method\|历史比较法]]在超越[[National Character\|国民性格]]循环论证后的广义[[Scientific Explanation\|科学解释]]力。 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 系统解构战[[Postpositivism\|后实证主义]]学者编造的单向学科进化神话，反驳以现代量化标准裁判 19 世纪早期先驱的时代倒错，正名其教育编年史官与[[Ethnography\|民族志]]记录者的奠基价值。\n
+> - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]] — 思想史考古揭示比较教育历史学派在追求教育改良时陷入混淆实然与应然的辉格史观，并澄清[[Historical-Comparative Method\|历史比较法]]在超越[[National Character\|国民性格]]循环论证后的广义[[Scientific Explanation\|科学解释]]力。

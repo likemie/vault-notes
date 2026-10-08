@@ -221,4 +221,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 专著系统论证工程思维的微观制度与心理基石：[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|第 9 章（p. 111）]]确立工程思维为重塑[[Technological Republic|技术共和国]]的核心[[Paradigm|范式]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|第 10 章（pp. 119–121）]]揭示其与蜂群及椋鸟群生物[[Swarm Intelligence|群智能]]的机制同构；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|第 11 章（pp. 122–129）]]阐明即兴演剧地位工具化、去中介交响乐团与会议内耗批判；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|第 12 章（pp. 130–138）]]反思阿施与[[Milgram Obedience Experiment|米尔格拉姆实验]]，确立[[Constructive Disobedience|建设性不服从]]与[[Social Deafness|社交失聪]]的微观心理抗体。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 专著系统论证工程思维的微观制度与心理基石：[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|第 9 章（p. 111）]]确立工程思维为重塑[[Technological Republic|技术共和国]]的核心[[Paradigm|范式]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|第 10 章（pp. 119–121）]]揭示其与蜂群及椋鸟群生物[[Swarm Intelligence|群智能]]的机制同构。

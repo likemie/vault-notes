@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-09-22
+updated: 2026-10-08
 ---
 
 # Public Engagement with Science
@@ -169,4 +169,4 @@ updated: 2026-09-22
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 系统梳理 1985–2026 年英国科学传播与公众参与的发展演进与制度挑战；第四章深入剖析产业界与第三部门在科研全生命周期公众参与中的战略定位；第五章进一步提出面向颠覆性技术的前瞻共进化对话与国家技能资助蓝图；第六章全面解构学术共同体微观参与行为的二十年演进，揭示时间瓶颈与评价机制脱节，并规划高校领导与资助机构的制度行动框架。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 系统梳理 1985–2026 年英国科学传播与公众参与的发展演进与制度挑战；第四章深入剖析产业界与第三部门在科研全生命周期公众参与中的战略定位；第五章进一步提出面向颠覆性技术的前瞻共进化对话与国家技能资助蓝图。

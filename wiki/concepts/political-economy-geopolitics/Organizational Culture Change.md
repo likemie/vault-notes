@@ -171,4 +171,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025, Ch. 9, p. 111)]] — 将[[Engineering Mindset|工程思维]]提炼为泡沫破灭后留下的最持久[[Organizational Culture|组织文化]]遗产，揭示组织文化变革对打破[[Innovation Desert|创新荒漠]]的关键价值。 [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Karp & Zamiska (2025, Ch. 10, p. 121)]] — 阐明吸纳生物[[Swarm Intelligence|群智能]]与[[Edge Autonomy|边缘自治]]是推进公共部门深层组织文化变革的核心机制路径。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025, Ch. 9, p. 111)]] — 将[[Engineering Mindset|工程思维]]提炼为泡沫破灭后留下的最持久[[Organizational Culture|组织文化]]遗产，揭示组织文化变革对打破[[Innovation Desert|创新荒漠]]的关键价值。

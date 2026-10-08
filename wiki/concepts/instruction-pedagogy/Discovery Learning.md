@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-22
+updated: 2026-10-08
 ---
 
 # Discovery Learning
@@ -270,4 +270,4 @@ updated: 2026-09-22
 ## 使用此概念的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统反驳[[Direct Instruction\|直接教学]]垄断论，评析 Alfieri et al. (2011) 164 项[[Meta-analysis\|元分析]]、Dean & Kuhn (2007) 13 周追踪与 Mayer (2004) 三击出局论，将“无指导纯发现”与“有指导发现”严格区隔，确立配备支架的发现探究在长效概念建构中的循证优势。
+> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统反驳[[Direct Instruction\|直接教学]]垄断论，评析 Alfieri et al. (2011) 164 项[[Meta-analysis\|元分析]]、Dean & Kuhn (2007) 13 周追踪与 Mayer (2004) 三击出局论，将“无指导纯发现”与“有指导发现”严格区隔。

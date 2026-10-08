@@ -190,6 +190,6 @@ updated: 2026-10-08
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 19)]] — 阐发哈雷与塞考德的[[Anthropomorphic Model\|拟人化模型]]与“人的科学”倡议，主张在质性探究中将人视为具备反思与自我监控能力的能动主体。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22\|Cohen et al. (2011, Ch. 22, pp. 441–442)]] — 系统阐述人因取向的五原则、陈述与[[Social Episodes\|社会片段]]的特征、以及陈述分析的具体操作程序与方法论边界。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 19)]] — 阐发哈雷与塞考德的[[Anthropomorphic Model\|拟人化模型]]与“人的科学”倡议，主张在质性探究中将人视为具备反思与自我监控能力的能动主体。
 
 ---

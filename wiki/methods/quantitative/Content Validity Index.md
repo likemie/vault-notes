@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-28
-updated: 2026-09-17
+updated: 2026-10-08
 ---
 
 # Content Validity Index
@@ -112,7 +112,7 @@ updated: 2026-09-17
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 在《[[Research Literacy Scale for Teachers\|教师研究素养量表]]》编制的第一阶段，针对 63 道初始题池邀请 9 位领域与测量专家进行 CVI/CVR 独立评审，依据 $\text{I-CVI} \ge .78$ 阈值筛选剔除 11 道效度偏低题项，保留 52 道高质量题项进入后续实证施测。
+> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 在《[[Research Literacy Scale for Teachers\|教师研究素养量表]]》编制的第一阶段，针对 63 道初始题池邀请 9 位领域与测量专家进行 CVI/CVR 独立评审，依据 $\text{I-CVI} \ge .78$ 阈值筛选剔除 11 道效度偏低题项。
 
 ---
 

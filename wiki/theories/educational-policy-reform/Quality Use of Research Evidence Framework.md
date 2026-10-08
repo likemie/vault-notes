@@ -380,6 +380,6 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — [[Monash Q Project\|莫纳什 Q 项目]]旗舰成果，在[[OECD\|经合组织]]（OECD）编著第九章系统阐释高质量[[Research Utilization\|研究使用]]理论内核、六大特征、实证使能条件与四大系统进路。 [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] — 将 QURE [[Operationalization\|操作化]]为跨国政策调查维度，实证检验了 29 国 37 个教育系统的组织中介角色、个体文化心智与研究使用形态。 [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 以 QURE 为理论基石确立强化教育[[Research Impact\|研究影响力]]的五维宏观政策诊断模型（结构、关系、质量、文化、能力）。 [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 系统剖析 QURE 框架在教育[[Knowledge Mobilisation\|知识动员]]模型演进中的前沿定位，肯定其在定义深思熟虑使用与多层使能结构上的理论贡献。
+> - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — [[Monash Q Project\|莫纳什 Q 项目]]旗舰成果，在[[OECD\|经合组织]]（OECD）编著第九章系统阐释高质量[[Research Utilization\|研究使用]]理论内核、六大特征、实证使能条件与四大系统进路。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] — 以 QURE 为主先验框架进行[[Framework Synthesis\|框架综合]]，聚合分析映射各层级发现，并据实证结果将框架重构为跨层治理机制模型。
 > - **Gleeson et al. (2023, 2024)** — 莫纳什大学 Q 项目跟进研究，开发出基于 QURE 框架的学校研究使用自评与诊断工具。

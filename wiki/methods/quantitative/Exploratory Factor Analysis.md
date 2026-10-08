@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-09-18
+updated: 2026-10-08
 ---
 
 # Exploratory Factor Analysis
@@ -187,4 +187,4 @@ updated: 2026-09-18
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 运用主轴因子分析结合 Promax 斜交旋转，在 $\text{KMO} = 0.81$ 支持下将奥地利校长对 22 项教育治理工具的态度降维提炼为 5 个核心政策维度（解释 42.1% 方差），并为后续[[Cluster Analysis\|聚类分析]]奠定了特征向量基础。
 > - [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015)]] — 量化部分利用探索性因子分析（EFA，带主成分提取）检验了包含 11 道题的教学信心量表结构，确认其单一维度结构并解释了 35.03% 的累积方差。
 > - [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] — 对 447 名十年级中学生的 Schommer 修订版[[Epistemology\|认识论]][[Questionnaire\|问卷]]（[[Schommer's Modified Epistemological Questionnaire\|SMEQ]]）52 个题项进行主轴探索性因子分析与方差最大旋转，提取出固定与快速学习能力（FQAL）、[[Simplicity of Knowledge\|简单知识]]（SK）和确定知识（CK）三个核心因子（解释 16.81% 方差）。
-> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 对 310 名中小学教师的 56 个初测题项进行主轴因子提取法（Principal Axis Factoring, PAF）与方差最大正交旋转（Varimax Rotation），经矫正题总相关与载荷准则逐题筛选，在 KMO 系数（$\text{KMO} = 0.966$）支持下，最终提取出涵盖技能、态度、使用与意识的 4 因子 20 题结构（解释 62.602% 累积方差）。
+> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 对 310 名中小学教师的 56 个初测题项进行主轴因子提取法（Principal Axis Factoring, PAF）与方差最大正交旋转（Varimax Rotation），经矫正题总相关与载荷准则逐题筛选。

@@ -252,7 +252,7 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - **[[Technological Republic|技术共和国]]大战略与软件硬实力体系** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] 系统建构 21 世纪西方国家硬实力的全新理论框架：在第 1–3 章揭示冷战后“[[Winner's Fallacy|赢家谬误]]”对硬实力的销蚀，提出软件与自主系统是现代硬实力的物质基石，并运用[[Strategic Bargaining Theory|谢林战略博弈论]]论证伤害能力与议价筹码；在第 4–7 章阐明深科技制造与实战试验场闭环的必要性；在第 8 章深刻剖析[[Counterculture Computing|反文化计算]]与[[Consumer Internet|消费互联网]]导致的科技人才脱嵌危机。
+> - [[Technological Republic|技术共和国]]大战略与软件硬实力体系 [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] 系统建构 21 世纪西方国家硬实力的全新理论框架：在第 1–3 章揭示冷战后“[[Winner's Fallacy|赢家谬误]]”对硬实力的销蚀，提出软件与自主系统是现代硬实力的物质基石，并运用[[Strategic Bargaining Theory|谢林战略博弈论]]论证伤害能力与议价筹码。
 > - **强制外交与战略议价理论** Schelling (1966) 在《武器与影响》中奠定硬实力的战略博弈论基础，阐明暴力的威慑与议价功能在于其尚未施加但对手预期的伤害潜能，将硬实力从单纯的战术破坏提升为危机外交的核心杠杆。
 > - **[[Soft Power|软实力]]与硬实力概念二元框架** Nye (2004) 在《软实力：在世界政治中获得成功的途径》中系统界定硬实力（依靠军事与经济强制）与软实力（依靠文化与制度吸引）的对偶关系，奠定现代国际关系权力分析的基准[[Paradigm|范式]]。
 > - **[[End of History Thesis|历史终结论]]与冷战后战略盲区** Fukuyama (1992) 在《历史的终结与最后的人》中提出自由民主制的终极胜利假说，成为后来诱发西方忽视实体制造与战略硬实力底座的“赢家谬误”的思想源头。

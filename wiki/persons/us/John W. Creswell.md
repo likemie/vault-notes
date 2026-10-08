@@ -190,7 +190,7 @@ updated: 2026-10-08
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 《研究设计》第六版，全面呈现世界观三维模型、量化与质性技术以及混合方法设计的最新标准化表述。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 28)]] — 在教育研究哲学全景中引述克雷斯维尔的三大核心混合设计类型学与[[Pragmatic Paradigm\|实用主义]]整合逻辑。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011, Ch. 10, p. 261)]] — 系统评析克雷斯维尔与普拉诺·克拉克的混合设计拓扑学、时间规划策略与数据整合实践。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 28)]] — 在教育研究哲学全景中引述克雷斯维尔的三大核心混合设计类型学与[[Pragmatic Paradigm\|实用主义]]整合逻辑。
 
 ---
 

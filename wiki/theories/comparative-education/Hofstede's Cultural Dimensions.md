@@ -81,7 +81,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-05
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Hofstede's Cultural Dimensions
@@ -306,7 +306,7 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] — 在高等教育生成式 AI 促学成效的[[Meta-analysis\|元分析]]中引入 Hofstede 权力距离指数（PDI）作为宏观调节[[Variable\|变量]]，发现高权力距离文化下产生极其显著的“权力壁垒破除效应”（$g^+ = 0.859$ vs 低权力距离 $0.236$ 不显著），开辟了文化维度在智能教育中的前沿应用。
+> - [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] — 在高等教育生成式 AI 促学成效的[[Meta-analysis\|元分析]]中引入 Hofstede 权力距离指数（PDI）作为宏观调节[[Variable\|变量]]，发现高权力距离文化下产生极其显著的“权力壁垒破除效应”（$g^+ = 0.859$ vs 低权力距离 $0.236$ 不显著）。
 > - [[Argument_Laursen_2015_Paideia\|Laursen (2015)]] — 运用 Hofstede 对丹麦文化的刻画提出跨文化教学差异[[Hypothesis\|假设]]，结合丹麦 [[Science Foundation Ireland|SFI]] 报告与高绩效学校实证检验国际[[Effective Teaching\|有效教学]]综合在丹麦的适切性，发现核心有效教学质量跨文化稳健，且社会阶层比国家文化更具解释力。
 > - [[Argument_Ryan_2010_ChineseLearner\|Ryan (2010)]] — 针对西方[[Document\|文献]]中广泛存在的“[[Chinese Learner\|中国学习者]]”刻板印象展开深层[[Discourse|话语]]解构，批判援引 Hofstede 文化维度进行“文化地图绘制”所带来的本质化倾向，深度剖析了第五维度“儒家工作动力”的历史政治建构与教育实践危害。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011, Ch. 10)]] — 在教育研究方法跨文化比较章节中全面评述 Hofstede 文化维度理论的演进史与测量逻辑，重点辨析了跨国抽样局限以及将国家聚合指标套用于微观个体时所引发的[[Ecological Fallacy\|生态谬误]]。

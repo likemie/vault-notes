@@ -205,7 +205,7 @@ updated: 2026-10-08
 [[Correlational Research|相关研究]]深入梳理了曼在比较教育与思想史维度的学术贡献：
 
 > [!evidence-grid-a]- 相关研究索引
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 阐释曼与斯托、巴纳德构成的美洲[[Educational Meliorism\|改良主义]]谱系，系统辨析欧陆直接制度移植与北美政治合法化论证的机制分野。 [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 确立曼在比较教育“第一重论述代际（启蒙准科学与行政改良代际）”中的美洲旗手坐标，揭示其“[[Scholiocentric Approach|以校为中心]]”（Scholiocentric）考察如何充当游说州立法机关与争取公共财政的政治合法化依据（pp. 140–141）。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 阐释曼与斯托、巴纳德构成的美洲[[Educational Meliorism\|改良主义]]谱系，系统辨析欧陆直接制度移植与北美政治合法化论证的机制分野。
 
 ---
 

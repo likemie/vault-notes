@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Knowledge Co-production
@@ -225,5 +225,5 @@ updated: 2026-10-07
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] — 基于 [[OECD]] 覆盖 29 国 37 个教育系统的政策调查，系统揭示知识共创作为证据生态基础设施的现实落差，实证指出实践者在研究生产全周期中被严重局限于“数据收集”客体环节，并论证外在制度化激励机制缺位是阻碍共创的核心瓶颈。（pp. 89–96）
-> - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 比较英格兰、苏格兰与德国汉堡[[School Leadership\|学校领导]]者的[[Research Utilization\|证据使用]]体验，论证苏格兰通过将“[[Practitioner Enquiry\|实践者探究]]”（Practitioner Enquiry）制度化嵌入教师专业标准（[[General Teaching Council for Scotland\|GTCS]]），使一线教师成为情境化知识的共创者，成功搭建起沟通[[Interactional Expertise\|交互型专长]]与[[Contributory Expertise\|贡献型专长]]的制度桥梁。（pp. 14–16, 23–24）
+> - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 比较英格兰、苏格兰与德国汉堡[[School Leadership\|学校领导]]者的[[Research Utilization\|证据使用]]体验，论证苏格兰通过将“[[Practitioner Enquiry\|实践者探究]]”（Practitioner Enquiry）制度化嵌入教师专业标准（[[General Teaching Council for Scotland\|GTCS]]），使一线教师成为情境化知识的共创者，成功搭建起沟通[[Interactional Expertise\|交互型专长]]与[[Contributory Expertise\|贡献型专长]]的制度桥梁。
 

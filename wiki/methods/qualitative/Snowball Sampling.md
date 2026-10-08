@@ -190,4 +190,4 @@ updated: 2026-10-08
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Teng_2025_CE\|Teng & Wang (2025, p. 305)]] — 招募公立学校教师作为转介起点（种子），通过滚雪球抽样获取进城[[Peidu\|陪读]]与留守乡村的农村家庭访谈样本。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统介绍滚雪球抽样、受访者驱动抽样和声誉滚雪球，并分析了 Browne (2005) 和 Heckathorn (1997, 2002) 的系统偏差。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09\|Cohen et al. (2011, Ch. 9)]] — 将网络化作为特殊群体抽样策略中应用最广的一种，深入讨论其在绕过[[Gatekeepers\|守门人]]方面的操作实践（Morrison, 2006），以及同质性偏差、互惠性与传递性限制。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统介绍滚雪球抽样、受访者驱动抽样和声誉滚雪球，并分析了 Browne (2005) 和 Heckathorn (1997, 2002) 的系统偏差。

@@ -159,7 +159,7 @@ updated: 2026-10-08
 > - **跨国／跨领域传播** 斯坦福学派形成了庞大的跨国学术传承，研究脉络从中小学学科知识构成（Benavot）、妇女公民参政权扩展（Ramirez）延伸至当代[[Research Universities|研究型大学]]向完全组织的转型（Zapp, Bromley），成为现代高等教育学、国际比较教育学与公共政策分析的核心理论渊源。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统辨析迈耶的世界文化流派与[[Immanuel Wallerstein|沃勒斯坦]]的[[Dependency Theory|依附论]]流派，肯定迈耶在解释全球学校制度形式趋同上的奠基贡献，但批判其掩盖了核心国家对边缘国家的资本积累与阶层再生产。 [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 在第四阶段话语（1970–1990）宏观跨国转向中，评述迈耶新制度主义将现代学校阐释为全球扩散的“理性化现代化与进步神话”，同时反思当代宏观实证研究对历史维度的挤压。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统辨析迈耶的世界文化流派与[[Immanuel Wallerstein|沃勒斯坦]]的[[Dependency Theory|依附论]]流派，肯定迈耶在解释全球学校制度形式趋同上的奠基贡献，但批判其掩盖了核心国家对边缘国家的资本积累与阶层再生产。
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 全面汲取迈耶的[[Organizational Actorhood|组织能动者身份]]（Actorhood）与[[Otherhood|为他者行动]]（Otherhood）框架，实证解构现代超级研究型大学如何通过科学客观性与[[Knowledge Production|知识生产]]，在全球去中心化治理中占据独特的合法性中心地位。
 
 ---

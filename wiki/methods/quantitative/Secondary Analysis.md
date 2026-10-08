@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-09-17
+updated: 2026-10-08
 ---
 
 # Secondary Analysis
@@ -106,4 +106,4 @@ updated: 2026-09-17
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]] — Cohen、Manion and Morrison 以英国全国儿童发展研究（National Child Development Study）为示例，说明二手分析如何通过新问题和新分析路径从已有数据集中挖掘原始研究框架之外的发现。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]] — Cohen、Manion and Morrison 以英国全国儿童发展研究（National Child Development Study）为示例。

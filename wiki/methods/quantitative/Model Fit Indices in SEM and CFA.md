@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-09-22
+updated: 2026-10-08
 ---
 
 # Model Fit Indices in SEM and CFA
@@ -142,4 +142,4 @@ updated: 2026-09-22
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 在独立样本 2（$N=258$）中对比单因子、一阶四因子与二阶因子模型的拟合指数（$\chi^2/df = 1.94, \text{RMSEA} = 0.060, \text{CFI} = 0.94$），确立教师[[Research Literacy\|研究素养]]的二阶高阶因子结构。
+> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 在独立样本 2（$N=258$）中对比单因子、一阶四因子与二阶因子模型的拟合指数（$\chi^2/df = 1.94, \text{RMSEA} = 0.060, \text{CFI} = 0.94$）。

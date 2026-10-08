@@ -213,4 +213,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022)]] — 结合澳大利亚中小学调查，论证教育[[Research Utilization\|研究利用]]议程从供给驱动（Push）向需求牵引（Pull）转型的必要性，提出 [[Quality Use of Research Evidence Framework\|QURE]] 框架及使能支持路径。 [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 系统梳理[[Knowledge Mobilisation\|知识动员三代演进模型]]，剖析 Push、Pull 与 Exchange 机制在 [[OECD]] 成员国教育政策中的演进与配置形态。 [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 探讨[[Educational Brokerage Agency\|知识中介机构]]在连接供给推送与需求牵引中的关键跨界功能，反思商业化异化风险。
+> - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022)]] — 结合澳大利亚中小学调查，论证教育[[Research Utilization\|研究利用]]议程从供给驱动（Push）向需求牵引（Pull）转型的必要性，提出 [[Quality Use of Research Evidence Framework\|QURE]] 框架及使能支持路径。

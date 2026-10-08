@@ -222,6 +222,6 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — 汇聚 [[Vivian Tseng]] 与 Makito Yurita 的专题论辩，系统奠定证据民主化的[[Epistemology\|认识论]]批判、资助制度重构准则以及对功利可用性修辞的专业受托伦理反思。 [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 梳理[[OECD\|经合组织]]国家[[Evidence Ecosystem\|证据生态系统]]的制度演进，探讨从单一线性[[Knowledge Transfer\|知识转移]]向多元利益相关者协同共创的全球政策趋势。
+> - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — 汇聚 [[Vivian Tseng]] 与 Makito Yurita 的专题论辩，系统奠定证据民主化的[[Epistemology\|认识论]]批判、资助制度重构准则以及对功利可用性修辞的专业受托伦理反思。
 > - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 在特刊中阐述[[Knowledge Mobilisation\|知识动员]]与跨界中介人的培育路径，为证据民主化中[[Research-Practice Partnership\|研究-实践伙伴关系]]的微观运行机制提供实证案例支撑。
 

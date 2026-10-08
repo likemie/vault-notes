@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-17
+updated: 2026-10-08
 ---
 
 # Jigsaw
@@ -190,4 +190,4 @@ updated: 2026-09-17
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]，将拼图法作为四大独立合作技术亚组之一进行综合评估，报告二阶合成[[Effect Size\|效应量]] $ES = 0.72$，并纳入 Özkan (2024)、Solissa (2023)、Shakerian (2020) 与 Stanczak (2022) 等 6 个独立效应量。
+> - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]，将拼图法作为四大独立合作技术亚组之一进行综合评估，报告二阶合成[[Effect Size\|效应量]] $ES = 0.72$，并纳入 Özkan (2024)、Solissa (2023)。

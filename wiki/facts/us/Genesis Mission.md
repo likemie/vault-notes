@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Genesis Mission
@@ -130,4 +130,4 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统阐述 2025 年 11 月启动的创世纪计划（Genesis Mission）；详细剖析如何依托能源部 17 个国家实验室与 24 家企业联合体构建美国科学与安全平台（ASSP），提出战略问题选择、科学云数据解封与闭环自主实验室建设路径，论证在十年内将科学工程生产率翻倍并与[[Gold Standard Science|黄金标准科学]]核验侧协同推进的顶层设计。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统阐述 2025 年 11 月启动的创世纪计划（Genesis Mission）。

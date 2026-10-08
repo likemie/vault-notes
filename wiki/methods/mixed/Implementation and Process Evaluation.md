@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-18
+updated: 2026-10-08
 ---
 
 # Implementation and Process Evaluation
@@ -201,5 +201,5 @@ updated: 2026-09-18
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 系统回顾了英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）在 [[Randomised Controlled Trials\|RCT]] 中引入并规范化实施与过程评估（IPE）的方法学历程。指出早期试验因缺乏 IPE 陷入无法解释因果机制与实施细节的困境（当时全英仅 38% 教育试验包含过程评估）；进而通过委托曼彻斯特大学综述并发布 IPE 评估指南（EEF, 2019b），确立了理论检验、影响与 IPE 整合、依从性预先测量及 [[TIDieR]] 规程等行业标准规范。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 系统回顾了英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）在 [[Randomised Controlled Trials\|RCT]] 中引入并规范化实施与过程评估（IPE）的方法学历程。
 > - [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] — 在提出[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]的同时，倡导将实施与过程评估拓展应用于学校组织[[Research Utilization\|证据使用]]的[[Formative Assessment\|形成性评价]]，主张超越静态产出指标，系统追踪专业审议、探究心智与[[Reflexivity\|反思性]][[Organizational Culture\|组织文化]]等深层动态机制（p. 145）。
