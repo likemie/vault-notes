@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 3
+fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -49,10 +49,10 @@ updated: 2026-10-08
 > 斯科基言论自由案（Skokie Free Speech Case, 1977–1978）是美国宪法第一修正案与司法判例史上最具标志性的言论自由危机与法理确立事件。该案以极端仇恨团体在犹太人聚居区申请游行引发的剧烈宪法冲突，确立了“即使最令人深恶痛绝的政治言论，政府亦不得依其内容实施事前禁止或审查”的硬性法律底线。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–58)]]
 
 > [!event-context] 事件背景
-> - **时间跨度 / 空间地理** 1976–1978 年；美国伊利诺伊州库克县斯科基村（Skokie, Illinois）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, p. 57)]]
-> - **核心当事主体** 美国国家社会主义党（新纳粹团体）党魁弗兰克·柯林（Frank Collin）、斯科基村地方当局及大屠杀幸存者居民、美国公民自由联盟（ACLU）全国执行总监[[Aryeh Neier|阿里耶·内尔]]（[[Aryeh Neier]]）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–58)]]
+> - **时间跨度 / 空间地理** 1976–1978 年；美国伊利诺伊州库克县斯科基村（Skokie, Illinois）。
+> - **核心当事主体** 美国国家社会主义党（新纳粹团体）党魁弗兰克·柯林（Frank Collin）、斯科基村地方当局及大屠杀幸存者居民、美国公民自由联盟（ACLU）全国执行总监[[Aryeh Neier|阿里耶·内尔]]（[[Aryeh Neier]]）。
 > - **深层制度与社会背景** 斯科基村当时约有 4 万名犹太居民，其中数千人系欧洲二战大屠杀幸存者；新纳粹选择在此集会旨在最大化引发轰动并公开煽动反犹仇恨。
-> - **直接导火索 / 触发事件** 柯林向斯科基村申请在市政厅门前举行佩戴纳粹万字臂章的集会游行，遭到斯科基村行政委员会通过三项地方规约予以紧急全面封杀。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, p. 57)]]
+> - **直接导火索 / 触发事件** 柯林向斯科基村申请在市政厅门前举行佩戴纳粹万字臂章的集会游行，遭到斯科基村行政委员会通过三项地方规约予以紧急全面封杀。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–58)]]
 
 ---
 
@@ -60,7 +60,7 @@ updated: 2026-10-08
 
 > [!dev-timeline] 事件推进历程
 > - **1976–1977 — 申请集会与地方禁令出台** 纳粹团体策划斯科基集会，斯科基村出台要求巨额保险保证金、禁止煽动仇恨符号等法令阻止游行，引发全美舆论哗然。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, p. 57)]]
-> - **1977 — ACLU 介入代理与内部巨大撕裂** 本身为逃离纳粹大屠杀幸存者的 ACLU 总监[[Aryeh Neier|阿里耶·内尔]]力排众议，决定依据第一修正案为纳粹团体的集会权利提供无偿法律辩护；该决定引发该机构约三万名核心会员退会抗议与严重财政危机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–58)]]
+> - **1977 — ACLU 介入代理与内部巨大撕裂** 本身为逃离纳粹大屠杀幸存者的 ACLU 总监[[Aryeh Neier|阿里耶·内尔]]力排众议，决定依据第一修正案为纳粹团体的集会权利提供无偿法律辩护；该决定引发该机构约三万名核心会员退会抗议与严重财政危机。
 > - **1977–1978 — 司法审判与宪法判例终审确立** 联邦上诉法院与美国最高法院相继作出判决，裁定斯科基村的事前限制与符号禁令违反宪法第一修正案，确立了宪法言论自由超越政治厌恶的[[Hard Belief|硬信念]]法理。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–58)]]
 
 ---

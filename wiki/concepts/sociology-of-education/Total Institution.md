@@ -8,7 +8,7 @@ aliases:
 summary: "欧文·戈夫曼提出的社会学经典概念，指将同类群体的全部生活集中在单一场所和单一权威之下、与外部社会高度隔绝且管理者与被管理者截然对立的封闭组织形态；可用于审视寄宿学校及当代精英大学的制度规训与心智塑造。"
 type: concept
 domain: "sociology-of-education"
-related_count: 14
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

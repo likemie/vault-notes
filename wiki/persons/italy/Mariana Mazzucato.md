@@ -7,7 +7,7 @@ summary: "意大利裔经济学家，伦敦大学学院创新与公共目的研�
 type: person
 nationality: italy
 person_region: "italy"
-person_related_count: 37
+person_related_count: 38
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -61,6 +61,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"
   - "[[Argument_Reynolds_2024_JICT]]"
   - "[[Argument_Bulfone_2024_IAI]]"
 confidence: high

@@ -8,7 +8,7 @@ summary: "西班牙社会学家，信息时代和网络社会理论的主要奠�
 type: person
 nationality: spain
 person_region: "spain"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -47,10 +47,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Chan_2015_Intersect]]"
   - "[[Argument_Beech_2009_CE]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Manuel Castells

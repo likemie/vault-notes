@@ -8,7 +8,7 @@ summary: "美国著名法学家、教育家、外交官，耶鲁大学第17任�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

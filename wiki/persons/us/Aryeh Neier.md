@@ -8,7 +8,7 @@ summary: "美籍德裔著名人权活动家、法学家，美国公民自由联�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

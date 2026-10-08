@@ -9,7 +9,7 @@ aliases:
 summary: "政治传播学与媒介政治学概念，由拉里·萨巴托提出；指大众媒体对公职人员或候选人私生活、微观瑕疵与丑闻进行成群结队、无节制且侵入式的毁灭性围剿报道机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

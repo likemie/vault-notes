@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch07"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch07"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -74,7 +74,7 @@ related_theories:
   - "[[Theory of Mind]]"
 status: draft
 created: 2026-09-29
-updated: 2026-10-04
+updated: 2026-10-08
 ---
 # Argument_Peterson_1987_OpenCourt_Ch07
 

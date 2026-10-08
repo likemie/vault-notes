@@ -8,7 +8,7 @@ aliases:
 summary: "政治心理学与言论审查控制机制概念，由汉学家林培瑞提出；指通过维持潜伏未定的威慑气场诱发广泛的心理警惕与前置自我审查，而非依赖机械化明文禁令的深层规训机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -119,7 +119,7 @@ updated: 2026-10-08
 > [!debates] 学术争议
 >
 > > [!axis] 跨制度语境类比的有效性与边界
-> > 争论焦点在于将威权国家的国家级心理审查机制，类比于西方自由民主社会大学校园与企业内部的舆论压力是否属于过度引申。
+> > 争论焦点在于将威权国家的国家级心理审查机制，类比于西方自由民主社会[[Grandes Ecoles|大学校]]园与企业内部的舆论压力是否属于过度引申。
 > >
 > > - **批评视角** 指出西方社会的舆论争议具有多元博弈与司法救济通道，与国家机器垄断暴力下的心理威慑存在性质区别。
 > > - **防御视角** 强调二者在微观心理层面诱发的“戒备退缩与自我消音”机制具有高度同构性，均在实质上剥夺了思想探索的自由空间。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 66–67)]]

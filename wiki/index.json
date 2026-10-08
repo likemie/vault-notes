@@ -4091,6 +4091,18 @@
     ]
   },
   {
+    "title": "The Right and the Good",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/The Right and the Good.md",
+    "aliases": [
+      "正当与善",
+      "正义与善",
+      "priority of right over good",
+      "正当优先于善",
+      "正当与善的区分"
+    ]
+  },
+  {
     "title": "Transformative Paradigm",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Transformative Paradigm.md",
@@ -6496,6 +6508,18 @@
     ]
   },
   {
+    "title": "Technological Agnosticism",
+    "type": "concept",
+    "path": "wiki/concepts/ethics-of-technology/Technological Agnosticism.md",
+    "aliases": [
+      "技术不可知论",
+      "科技不可知论",
+      "technological agnostics",
+      "technological agnostic",
+      "技术不可知论者"
+    ]
+  },
+  {
     "title": "Academic and Social Integration",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Academic and Social Integration.md",
@@ -6962,6 +6986,16 @@
       "National Craftsman Fellowship",
       "驻校技师项目",
       "驻校工匠"
+    ]
+  },
+  {
+    "title": "Productization of the Mind",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Productization of the Mind.md",
+    "aliases": [
+      "心智产品化",
+      "美国心智产品化",
+      "productization of the American mind"
     ]
   },
   {
@@ -11827,6 +11861,17 @@
     ]
   },
   {
+    "title": "Cult of Optionality",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Cult of Optionality.md",
+    "aliases": [
+      "选择权崇拜",
+      "备选方案崇拜",
+      "pursuit of optionality",
+      "optionality"
+    ]
+  },
+  {
     "title": "Cultural Barrier",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Cultural Barrier.md",
@@ -11880,6 +11925,16 @@
       "文化等级",
       "文化层次",
       "文化支配等级"
+    ]
+  },
+  {
+    "title": "Culture of Disbelief",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Culture of Disbelief.md",
+    "aliases": [
+      "不信文化",
+      "怀疑文化",
+      "The Culture of Disbelief"
     ]
   },
   {
@@ -11942,6 +11997,17 @@
     "aliases": [
       "文化濡化",
       "濡化"
+    ]
+  },
+  {
+    "title": "Establishment Caste",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Establishment Caste.md",
+    "aliases": [
+      "统治集团种姓化",
+      "贵族制向种姓制退化",
+      "aristocracy to caste",
+      "caste structures in organizations"
     ]
   },
   {
@@ -21600,6 +21666,17 @@
     ]
   },
   {
+    "title": "Ágnes Heller",
+    "type": "person",
+    "path": "wiki/persons/hungary/Ágnes Heller.md",
+    "aliases": [
+      "阿格妮丝·赫勒",
+      "赫勒",
+      "Heller, A.",
+      "Agnes Heller"
+    ]
+  },
+  {
     "title": "Ellen Hazelkorn",
     "type": "person",
     "path": "wiki/persons/ireland/Ellen Hazelkorn.md",
@@ -22934,6 +23011,16 @@
     ]
   },
   {
+    "title": "Amy Gutmann",
+    "type": "person",
+    "path": "wiki/persons/us/Amy Gutmann.md",
+    "aliases": [
+      "艾米·古特曼",
+      "古特曼",
+      "Gutmann, A."
+    ]
+  },
+  {
     "title": "Andreas Kazamias",
     "type": "person",
     "path": "wiki/persons/us/Andreas Kazamias.md",
@@ -23256,6 +23343,17 @@
       "Douglas R. Hofstadter",
       "道格拉斯·霍夫施塔特",
       "霍夫施塔特"
+    ]
+  },
+  {
+    "title": "E. Digby Baltzell",
+    "type": "person",
+    "path": "wiki/persons/us/E. Digby Baltzell.md",
+    "aliases": [
+      "E. 迪格比·巴尔策尔",
+      "迪格比·巴尔策尔",
+      "巴尔策尔",
+      "Baltzell, E. D."
     ]
   },
   {
@@ -24291,6 +24389,16 @@
       "Eddy, S.",
       "宣夏德",
       "谢伍德·埃迪"
+    ]
+  },
+  {
+    "title": "Stephen L. Carter",
+    "type": "person",
+    "path": "wiki/persons/us/Stephen L. Carter.md",
+    "aliases": [
+      "斯蒂芬·L. 卡特",
+      "斯蒂芬·卡特",
+      "Carter, S. L."
     ]
   },
   {
@@ -32573,6 +32681,11 @@
     "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch05",
     "type": "argument",
     "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch05.md"
+  },
+  {
+    "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch06",
+    "type": "argument",
+    "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch06.md"
   },
   {
     "title": "Argument_Kelly_Licona_2018_EpistemicPractices",

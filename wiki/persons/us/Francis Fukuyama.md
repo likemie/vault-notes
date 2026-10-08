@@ -8,7 +8,7 @@ summary: "美国著名政治学家、政治哲学家，斯坦福大学教授；�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -32,12 +32,13 @@ related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"
 related_theories:
   - "[[End of History Thesis]]"
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Francis Fukuyama

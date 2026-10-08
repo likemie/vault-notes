@@ -8,7 +8,7 @@ summary: "美国著名非裔民权活动家、法学家、女性主义先驱、�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -67,7 +67,7 @@ updated: 2026-10-08
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1910** 出生于美国马里兰州巴尔的摩，外祖母曾是北卡罗来纳州的奴隶，父亲在公立精神病院遭受种族主义狱警残忍殴打致死。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 58–59)]]
+> - **1910** 出生于美国马里兰州巴尔的摩，外祖母曾是北卡罗来纳州的奴隶，父亲在公立精神病院遭受种族主义狱警残忍殴打致死。
 > - **1944** 以第一名毕业于霍华德大学法学院，但因女性身份被哈佛大学法学院研究生项目拒之门外。
 > - **1950** 出版权威著作《州关于种族和肤色的法律》（*States' Laws on Race and Color*），被瑟古德·马歇尔（Thurgood Marshall）赞誉为民权诉讼律师的“圣经”。
 > - **1963** 在耶鲁法学院攻读法学博士期间，针对阿拉巴马州州长华莱士访校争议致信校长布鲁斯特，坚决主张保障政治异见的校园演讲权利，反对顺从暴力威胁的消音行为。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 58–59)]]
