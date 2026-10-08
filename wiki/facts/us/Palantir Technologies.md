@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 46
+fact_related_count: 48
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -167,7 +167,7 @@ updated: 2026-10-08
 > >
 > > - **批评视角** 部分科技界同行与人权倡导者指责算法接入致命武器系统加剧战争自动化风险，呼吁签订限制公约或组织员工抗议（如微软员工抗议）。
 > > - **机构立场** 帕兰提尔领导层坚信无实力的和平是危险的幻想，西方若因[[Moral Dualism|道德二元论]]放弃防务算法研发，将导致极权主义对手在地缘博弈中占据支配地位，从而使全球民主政体遭受灭顶之灾。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, Ch. 3)]]
-> >
+>
 > > [!axis] 数据隐私监视争议 vs 关键基础设施治理
 > > 公众与民权组织对大数据分析系统在边境管控、预测性警务中的隐私侵犯与偏见放大表示担忧。
 > >

@@ -5,6 +5,30 @@
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch14.md"
     },
     {
+      "basename": "Hedgehog and Fox Model",
+      "path": "wiki/theories/political-economy-geopolitics/Hedgehog and Fox Model.md"
+    },
+    {
+      "basename": "Isaiah Berlin",
+      "path": "wiki/persons/uk/Isaiah Berlin.md"
+    },
+    {
+      "basename": "Ralph Waldo Emerson",
+      "path": "wiki/persons/us/Ralph Waldo Emerson.md"
+    },
+    {
+      "basename": "René Girard",
+      "path": "wiki/persons/france/René Girard.md"
+    },
+    {
+      "basename": "Mimetic Theory",
+      "path": "wiki/theories/sociology-of-education/Mimetic Theory.md"
+    },
+    {
+      "basename": "Creativity",
+      "path": "wiki/concepts/competency-and-assessment/Creativity.md"
+    },
+    {
       "basename": "Palantir Technologies",
       "path": "wiki/facts/us/Palantir Technologies.md"
     },
@@ -27,10 +51,6 @@
     {
       "basename": "Lean Production",
       "path": "wiki/concepts/educational-leadership-administration/Lean Production.md"
-    },
-    {
-      "basename": "Isaiah Berlin",
-      "path": "wiki/persons/uk/Isaiah Berlin.md"
     },
     {
       "basename": "Nicholas Zamiska",
@@ -109,10 +129,6 @@
       "path": "wiki/persons/us/Stanley Milgram.md"
     },
     {
-      "basename": "Creativity",
-      "path": "wiki/concepts/competency-and-assessment/Creativity.md"
-    },
-    {
       "basename": "Deception in Research",
       "path": "wiki/concepts/research-methodology/Deception in Research.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch08",
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch08.md"
-    },
-    {
-      "basename": "Whole Earth Catalog",
-      "path": "wiki/facts/us/Whole Earth Catalog.md"
-    },
-    {
-      "basename": "Big Idea Famine",
-      "path": "wiki/concepts/science-policy/Big Idea Famine.md"
-    },
-    {
-      "basename": "Total Factor Productivity",
-      "path": "wiki/concepts/political-economy-geopolitics/Total Factor Productivity.md"
-    },
-    {
-      "basename": "J. Robert Oppenheimer",
-      "path": "wiki/persons/us/J. Robert Oppenheimer.md"
     }
   ],
   "omittedPaths": [],

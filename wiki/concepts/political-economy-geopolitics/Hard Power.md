@@ -7,10 +7,10 @@ aliases:
 summary: "国际关系与地缘政治的核心分析范畴，指行为体通过军事武力、强制威慑与经济制裁等有形物质资源迫使他者服从的指挥性权力。在 21 世纪智能化演进中，硬实力的物质底座深度转向软件算法、自主系统与实体制造的实战闭环；卡普与扎米斯卡（2025）进一步论证，制度软实力无法脱离硬实力底座而独立存在，忽视硬实力威慑的“赢家谬误”以及科技精英对国家使命的文化脱嵌将导致国家战略硬实力的系统性空洞化。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 37
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 related_concepts:
   - "[[Counterculture Computing]]"
   - "[[Consumer Internet]]"
@@ -30,6 +30,8 @@ related_concepts:
   - "[[Scientific Paradigm]]"
   - "[[Commercial Off-The-Shelf]]"
   - "[[Cultural Disembedding]]"
+  - "[[Engineering Mindset]]"
+  - "[[Epistemology]]"
   - "[[AI Deterrence]]"
 related_theories:
   - "[[Strategic Bargaining Theory]]"
@@ -53,7 +55,9 @@ related_facts:
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14]]"
 confidence: high
 status: active
 created: 2026-10-07
@@ -256,7 +260,7 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - **[[Technological Republic|技术共和国]]大战略与软件硬实力体系** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] 系统建构 21 世纪软件硬实力理论，剖析[[Winner's Fallacy|赢家谬误]]、试验场闭环、[[Cultural Disembedding|文化脱嵌]]与[[Commercial Off-The-Shelf|商用现货]]采购机制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Ch. 3)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Ch. 13)]]
+> - **[[Technological Republic|技术共和国]]大战略与软件硬实力体系** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] 系统建构 21 世纪软件硬实力理论，剖析[[Winner's Fallacy|赢家谬误]]、试验场闭环、[[Cultural Disembedding|文化脱嵌]]、[[Commercial Off-The-Shelf|商用现货]]采购机制与[[Engineering Mindset|工程思维]][[Epistemology|认识论]]底座。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Ch. 1)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Ch. 3)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Ch. 13)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Ch. 14)]]
 > - **[[Strategic Bargaining Theory|强制外交与战略议价理论]]** Schelling (1966) 在《武器与影响》中奠定硬实力的战略博弈论基础，阐明暴力的威慑与议价功能在于其尚未施加但对手预期的伤害潜能，将硬实力从单纯的战术破坏提升为危机外交的核心杠杆。
 > - **[[Soft Power|软实力]]与硬实力概念二元框架** Nye (2004) 在《软实力：在世界政治中获得成功的途径》中系统界定硬实力（依靠军事与经济强制）与软实力（依靠文化与制度吸引）的对偶关系，奠定现代国际关系权力分析的基准[[Paradigm|范式]]。
 > - **[[End of History Thesis|历史终结论]]与冷战后战略盲区** Fukuyama (1992) 在《历史的终结与最后的人》中提出自由民主制的终极胜利假说，成为后来诱发西方忽视实体制造与战略硬实力底座的“赢家谬误”的思想源头。
@@ -270,14 +274,18 @@ updated: 2026-10-08
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Soft Power]] | 概念 | 对偶概念，构成国家综合国力分析的互补维度。 |
+> | [[Engineering Mindset]] | 概念 | [[Epistemology\|认识论]]基础，阐明硬实力技术供给依赖直面物理现实与客观运行反馈的工程哲学。 |
 > | [[Winner's Fallacy]] | 概念 | 批判对象，揭示忽视硬实力威慑而盲目迷信制度道德吸引力的认知谬误。 |
 > | [[AI Deterrence]] | 概念 | 实践形态，软件时代硬实力在国家防务层面的战略威慑体现。 |
 > | [[Technological Republic]] | 概念 | 制度载体，阐明培育和维系现代软件硬实力的国家体制架构。 |
 > | [[Counterculture Computing]] | 概念 | 挑战传统硬实力生产机制、将技术导向个体解放与反建制的对立[[Paradigm\|范式]]。 |
 > | [[Consumer Internet]] | 概念 | 造成硬科技人才与资本内耗、削弱国家战略硬实力的产业形态。 |
 > | [[Technological Agnosticism]] | 概念 | 科技精英逃避硬实力防务责任、采取道德中立与政治冷漠的意识形态。 |
-> | [[Autonomous Drone Swarms]] | 事实 (项目) | 现代软件硬实力在战场战术层面的去中心化自主武器系统典范。 |
-> | [[Manhattan Project]] | 事实 (项目) | 战后美国构建国家战略硬实力的历史典范。 |
+> | [[Autonomous Drone Swarms]] | 事实 | 现代软件硬实力在战场战术层面的去中心化自主武器系统典范。 |
+> | [[Manhattan Project]] | 事实 | 战后美国构建国家战略硬实力的历史典范。 |
 > | [[Thomas Schelling]] | 人物 | 理论源流，提出伤害能力即谈判筹码的[[Strategic Bargaining Theory\|战略博弈论]]经典命题。 |
 > | [[Vannevar Bush]] | 人物 | 历史先驱，战时与战后国家硬实力科研动员体制的战略总设计师。 |
 > | [[J. Robert Oppenheimer]] | 人物 | 科学巨匠，主持曼哈顿工程确立战后战略硬实力基石的代表科学家。 |
+> | [[Alexander Karp]] | 人物 | 当代学者与实践者，《技术共和国》第一作者，论证软件与工程思维重构硬实力。 |
+> | [[Nicholas Zamiska]] | 人物 | 当代学者与实践者，《技术共和国》合著者，阐发防务采办与硬实力制度保障。 |
+

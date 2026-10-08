@@ -8,7 +8,7 @@ aliases:
 summary: "先完整论述古典哲学层面（杜威等的经验、探究与行动后果），再阐述延伸出的研究方法论层次（混合方法研究的问题驱动、适合目的与方法自由）。"
 type: concept
 domain: "educational-philosophy"
-related_count: 41
+related_count: 49
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -42,9 +42,12 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Discourse]]"
   - "[[Quality Education]]"
+  - "[[Grand Theory]]"
+  - "[[Engineering Mindset]]"
   - "[[Document]]"
   - "[[Commensuration]]"
   - "[[Research Ethics]]"
+  - "[[Technological Republic]]"
 related_theories:
   - "[[Pluralism]]"
   - "[[Structural Functionalism]]"
@@ -58,17 +61,22 @@ related_persons:
   - "[[Brian Holmes]]"
   - "[[Karl Popper]]"
   - "[[George Bereday]]"
-related_facts: []
+  - "[[Herbert Hoover]]"
+  - "[[Alexander Karp]]"
+related_facts:
+  - "[[Operation Paperclip]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Zhou_2024_CE]]"
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
   - "[[Argument_Rust_2009_Reflections]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Pragmatic Paradigm
@@ -217,6 +225,16 @@ updated: 2026-10-07
 
 ---
 
+### 命题五（工程与治理认识论层）　实用主义投身具体经验的求真精神构成了现代工程思维与反教条治理的哲学基石
+
+> [!concept-lens] 现代工程哲学与技术治理认识论
+> 探讨古典实用主义气质如何超越传统教育学界限，成为现代工程师以物理实测为准绳、直面复杂系统动态现实的认识论底座。
+
+> [!claim] Dewey (1922) & [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025)]]
+> **投身具体事物激流与抗拒教条概括** [[John Dewey|杜威]]在《实用主义美国》（*Pragmatic America*, 1922）中阐明，实用主义气质愿意走下高傲超然的教条神坛，投身具体事物的泥泞激流之中；在给予完全赞同前查明系统如何运作，坚决抵制过于宽泛轻率的[[Grand Theory|宏大理论]]概括。卡普与扎米斯卡（2025）指出，硅谷之所以能够推动计算机与现代软件工程的爆发，其精神源头正是这种放下宏大意识形态束缚、一切以代码和物理运行结果为尺度的实用主义[[Engineering Mindset|工程思维]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 160–161)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -226,16 +244,17 @@ updated: 2026-10-07
 > | **问题驱动与方法自由** | 层次二：方法论层次 | 强调方法服务于研究问题，主张适合目的与技术自由 | [[Mixed Methods Research\|混合方法研究]]设计 | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] |
 > | **跨国解耦与功能性拆解** | 层次三：实践与跨国层 | 探讨危机语境下哲学理想与方法手段的解耦 | 比较教育与跨国知识转移 | [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]]; [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] |
 > | **假设-演绎与实用互动论** | 层次四：比较教育学层 | 依托杜威问题法构建假设-演绎比较范式，突破功能主义垄断 | 比较教育方法论与范式争鸣 | [[Brian Holmes\|Holmes (1965)]]; [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] |
+> | **工程求真与反教条认识论** | 层次五：工程治理层 | 走下神坛投身具体系统运作，以物理代码实测检验理论 | 现代软件工程哲学与国家技术治理 | Dewey (1922); [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14\|Karp & Zamiska (2025, Ch. 14)]] |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **19世纪末–20世纪初 — 哲学起源（哲学层面）** Peirce, James, Mead 与 [[John Dewey|杜威]] 建立实用主义哲学体系，重构经验、探究、民主与行动后果。
+> - **19世纪末–20世纪初 — 哲学起源（哲学层面）** Peirce, James, Mead 与 [[John Dewey|杜威]] 建立实用主义哲学体系，重构经验、探究、民主与行动后果；1922年杜威发表《实用主义美国》，阐发深入具体事物运作机理的实验精神。
 > - **1960s–1970s — 比较教育方法论论争与实用互动论（比较教育学层）** [[Brian Holmes|布莱恩·霍姆斯]]（Holmes, 1965）借鉴[[John Dewey|杜威]]问题求解逻辑提出“[[Hypothesis|假设]]-演绎[[Problem Approach|问题法]]”，掀起与归纳法的[[Paradigm|范式]]论争；“实用互动论”被确认为 1970 年代打破[[Structural Functionalism|结构功能主义]]实证霸权的核心批判范式之一。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 128–129, 136)]]
 > - **1990s–2000s — 方法论[[Paradigm|范式]]奠基（方法论层次）** Cherryholmes (1992), Patton (1990), Tashakkori & Teddlie (2010), Johnson & Onwuegbuzie (2004), Denscombe (2008), Morgan (2007) 将实用主义确立为[[Mixed Methods Research|混合方法研究]]的官方哲学基础。
-> - **2010s至今 — 教育研究应用与跨国解构** 深入[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]]与[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]教材体系，同时在比较教育中被用来分析实用主义哲学在非西方社会的跨国转移与结构性拆解（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024]]）。
+> - **2010s至今 — 教育研究应用、跨国解构与现代工程[[Epistemology|认识论]]复兴** 深入[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]]与[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]教材体系；在比较教育中被用来分析实用主义哲学在非西方社会的跨国转移与结构性拆解（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024]]）；并在现代科技哲学中被卡普与扎米斯卡（2025）升华为[[Engineering Mindset|工程思维]]与反官僚推诿的核心认识论。
 
 ---
 
@@ -267,3 +286,22 @@ updated: 2026-10-07
 > - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 梳理比较教育学术史中的[[Paradigm|范式]]演化，阐述霍姆斯基于[[John Dewey|杜威]]实用主义建立的[[Hypothesis|假设]]-演绎[[Problem Approach|问题法]]，并确认实用互动论在挑战功能主义单一霸权中的范式地位。
 > - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 揭示实用主义[[Paradigm|范式]]（民主目标与渐进方法）在民国中国跨国转移中的拆解与[[Recontextualization|本土重构]]。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 追踪实用主义范式在建国后中国教育政治[[Discourse|话语]]中的三重变形。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 探讨实用主义哲学（杜威《实用主义美国》）对现代[[Engineering Mindset|工程思维]]与反教条经验[[Epistemology|认识论]]的奠基（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
+
+---
+
+## 条目关联
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[John Dewey]] | 人物 | 哲学先驱：提出经验探究、工具主义与《实用主义美国》求真精神。 |
+> | [[Mixed Methods Research]] | 方法 | 方法论载体：以实用主义为官方哲学基础，主张[[Research Question\|研究问题]]驱动与方法自由选择。 |
+> | [[Engineering Mindset]] | 概念 | 现代延伸：将实用主义转化为以物理运行反馈与代码实测为尺度的工程[[Epistemology\|认识论]]。 |
+> | [[Fitness for Purpose]] | 概念 | 核心原则：主张方法选择应取决于能否最有效地回答研究问题。 |
+> | [[Problem Approach]] | 方法 | 比较教育学应用：[[Brian Holmes\|布莱恩·霍姆斯]]基于杜威实用主义构建的[[Hypothesis\|假设]]-演绎比较[[Paradigm\|范式]]。 |
+> | [[Operation Paperclip]] | 事实 | 历史案例：国家安全危机中以行动后果与实际技术收益为首要考量的[[Engineering Pragmatism\|工程实用主义]]典范。 |
+> | [[Herbert Hoover]] | 人物 | 历史人物：阐述工程实践直接面对客观物理结果、拒绝语言辩解的实用主义责任观。 |
+> | [[Alexander Karp]] | 人物 | 现代学者：《[[Technological Republic\|技术共和国]]》作者，将实用主义重新激活为高科技组织与防务工程的治理认识论。 |
+
