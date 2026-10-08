@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Consumer Internet",
+      "path": "wiki/concepts/political-economy-geopolitics/Consumer Internet.md"
+    },
+    {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch08",
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch08.md"
+    },
+    {
+      "basename": "J. Robert Oppenheimer",
+      "path": "wiki/persons/us/J. Robert Oppenheimer.md"
+    },
+    {
+      "basename": "Vannevar Bush",
+      "path": "wiki/persons/us/Vannevar Bush.md"
+    },
+    {
+      "basename": "Generative Artificial Intelligence",
+      "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
+    },
+    {
+      "basename": "Total Factor Productivity",
+      "path": "wiki/concepts/political-economy-geopolitics/Total Factor Productivity.md"
+    },
+    {
+      "basename": "Big Idea Famine",
+      "path": "wiki/concepts/science-policy/Big Idea Famine.md"
+    },
+    {
+      "basename": "Whole Earth Catalog",
+      "path": "wiki/facts/us/Whole Earth Catalog.md"
+    },
+    {
+      "basename": "Steven Levy",
+      "path": "wiki/persons/us/Steven Levy.md"
     },
     {
       "basename": "Technological Agnosticism",
@@ -125,18 +157,6 @@
       "path": "wiki/persons/brazil/Paulo Freire.md"
     },
     {
-      "basename": "Vannevar Bush",
-      "path": "wiki/persons/us/Vannevar Bush.md"
-    },
-    {
-      "basename": "J. Robert Oppenheimer",
-      "path": "wiki/persons/us/J. Robert Oppenheimer.md"
-    },
-    {
-      "basename": "Generative Artificial Intelligence",
-      "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
-    },
-    {
       "basename": "Josep Borrell",
       "path": "wiki/persons/spain/Josep Borrell.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Research Translation",
       "path": "wiki/concepts/university-industry-collaboration/Research Translation.md"
-    },
-    {
-      "basename": "Emergence",
-      "path": "wiki/concepts/educational-philosophy/Emergence.md"
-    },
-    {
-      "basename": "Pragmatic Paradigm",
-      "path": "wiki/concepts/educational-philosophy/Pragmatic Paradigm.md"
-    },
-    {
-      "basename": "Engineering Pragmatism",
-      "path": "wiki/concepts/political-economy-geopolitics/Engineering Pragmatism.md"
-    },
-    {
-      "basename": "Percy Williams Bridgman",
-      "path": "wiki/persons/us/Percy Williams Bridgman.md"
-    },
-    {
-      "basename": "Sébastien Bubeck",
-      "path": "wiki/persons/france/Sébastien Bubeck.md"
     }
   ],
   "omittedPaths": [],

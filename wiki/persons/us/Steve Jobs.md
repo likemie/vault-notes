@@ -8,6 +8,11 @@ aliases:
 summary: "美国企业家、工业设计师与苹果公司联合创始人，开创个人电脑、图形用户界面、数字音乐与智能手机革命；作为反文化运动消退期成长起来的技术先驱，将人文美学与精密工程相融合，开创极简产品哲学；在卡普与扎米斯卡（2025）的批判中，乔布斯的革命本质上是亲密的个人革命，其以个人设备赋权个体、抵御政府与企业巨兽的哲学，深刻塑造了硅谷脱离国家战略使命的消费主义技术范式。"
 type: person
 nationality: us
+person_region: "us"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1955"
 died: "2011"
 lifespan: "1955–2011"
@@ -19,26 +24,28 @@ tags:
   - theme/ethics-of-technology
   - region/us
 related_concepts:
+  - "[[Creativity]]"
+  - "[[Paradigm]]"
+  - "[[Technological Republic]]"
   - "[[Counterculture Computing]]"
-  - "[[Hacker Ethic]]"
   - "[[Consumer Internet]]"
   - "[[Technological Agnosticism]]"
-  - "[[Technological Republic]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Steven Levy]]"
   - "[[Stewart Brand]]"
   - "[[Lee Felsenstein]]"
+  - "[[Steven Levy]]"
+  - "[[Vannevar Bush]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
-  - "[[Vannevar Bush]]"
 related_facts:
   - "[[Homebrew Computer Club]]"
   - "[[Whole Earth Catalog]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
 status: draft
 created: 2026-10-08
@@ -100,7 +107,7 @@ updated: 2026-10-08
 ## 历史评价
 
 > [!citation-card] 卡普与扎米斯卡论乔布斯与反文化思潮的交汇
-> 乔布斯是美国日渐式微的反文化运动的产物，他在 1960 年代的冲突与风暴消退后寻找着目标与方向……他是一个彻底的、创造性的奇才，他看到了未来并将其变为现实。他的雄心是重塑世界，而不是在边缘修修补补。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 100)]]
+> 乔布斯是美国日渐式微的反文化运动的产物，他在 1960 年代的冲突与风暴消退后寻找着目标与方向……他是一个彻底的、[[Creativity|创造性]]的奇才，他看到了未来并将其变为现实。他的雄心是重塑世界，而不是在边缘修修补补。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 100)]]
 >
 > *Steve Jobs, in particular, was a product of a waning counterculture movement in the United States, searching for purpose and direction after the conflict and storm of the 1960s began to recede... To be clear, Jobs was a radical and creative savant who saw the future and made it real. His ambition was to remake the world, not tinker at its margins.*
 
@@ -109,11 +116,11 @@ updated: 2026-10-08
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **思想与文化渊源** [[Stewart Brand]] — 汲取《全球概览》中反集权与获取工具的哲学。
-> - **技术社区先驱** [[Lee Felsenstein]] — 参与家酿计算机俱乐部，汲取个人计算与去中心化理念。
+> - **思想与文化渊源** [[Stewart Brand]] — 汲取《[[Whole Earth Catalog|全球概览]]》中反集权与获取工具的哲学。
+> - **技术社区先驱** [[Lee Felsenstein]] — 参与[[Homebrew Computer Club|家酿计算机俱乐部]]，汲取个人计算与去中心化理念。
 > - **时代记录者** [[Steven Levy]] — 利维在其《黑客》与后续专著中对乔布斯与苹果早期的反体制文化进行了经典记录。
-> - **历史对照者** [[Vannevar Bush]] — 布什代表着以技术服务国家大战略与国防安全的传统，乔布斯则代表了以个人消费与个体解放为核心的西海岸范式。
-> - **批评与剖析者** [[Alexander Karp]]、[[Nicholas Zamiska]] — 在《技术共和国》中系统批判了乔布斯式亲密技术主义对国家战略防务责任的文化剥离。
+> - **历史对照者** [[Vannevar Bush]] — 布什代表着以技术服务国家大战略与国防安全的传统，乔布斯则代表了以个人消费与个体解放为核心的西海岸[[Paradigm|范式]]。
+> - **批评与剖析者** [[Alexander Karp]]、[[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》中系统批判了乔布斯式亲密技术主义对国家战略防务责任的文化剥离。
 
 ---
 
@@ -125,7 +132,7 @@ updated: 2026-10-08
 > > 苹果公司对用户隐私与设备加密的极端保护（如在加州圣贝纳迪诺枪击案调查中公开拒绝协助联邦调查局解锁 iPhone），引发了个人权利保护与国家公共安全防务之间的深刻对立。
 > >
 > > - **苹果与乔布斯遗产立场** 设备必须完全属于个体心智的延伸，任何向政府妥协留后门的行为都构成对用户自由与基本权利的侵犯。
-> > - **国家安全与技术现实主义批评（Karp & Zamiska, 2025）** 科技巨头自封为超越主权国家的道德裁判，拒斥与民选政府防务及执法部门合作，本质上体现了科技精英对维系其繁荣基础的国家安全的搭便车与漠视。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 101)]]
+> > - **国家安全与技术现实主义批评（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）** 科技巨头自封为超越主权国家的道德裁判，拒斥与民选政府防务及执法部门合作，本质上体现了科技精英对维系其繁荣基础的国家安全的搭便车与漠视。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 101)]]
 
 ---
 
@@ -137,5 +144,5 @@ updated: 2026-10-08
 > |:-----|:-----|:-----|
 > | [[Counterculture Computing]] | 概念 | 将反文化美学与反体制哲学商业化落地为大众个人计算产品。 |
 > | [[Consumer Internet]] | 概念 | 其个人设备与智能终端为 21 世纪消费互联网的全面繁荣铺平了硬件基础设施。 |
-> | [[Technological Agnosticism]] | 概念 | 开创了技术研发脱离国家战略防务合作、专注于个人消费市场的商业范式。 |
+> | [[Technological Agnosticism]] | 概念 | 开创了技术研发脱离国家战略防务合作、专注于个人消费市场的商业[[Paradigm\|范式]]。 |
 > | [[Homebrew Computer Club]] | 事实 (组织) | 早期展示 Apple I 原型与汲取极客技术社区营养的核心发源地。 |

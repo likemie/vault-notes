@@ -115,6 +115,9 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Affective Outcomes]]"
+  - "[[Counterculture Computing]]"
+  - "[[Consumer Internet]]"
+  - "[[Technological Agnosticism]]"
 related_theories:
   - "[[Formative Epistemic Injustice]]"
   - "[[Epistemic Injustice]]"
@@ -145,6 +148,10 @@ related_persons:
   - "[[Chin-Chung Tsai]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
+  - "[[Steve Jobs]]"
+  - "[[Lee Felsenstein]]"
+  - "[[Stewart Brand]]"
+  - "[[Steven Levy]]"
 related_facts:
   - "[[Office of Science and Technology Policy]]"
   - "[[Genesis Mission]]"
@@ -157,6 +164,7 @@ related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08]]"
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
@@ -272,6 +280,7 @@ updated: 2026-10-08
 > - **[[Artificial General Intelligence|通用人工智能]]火花与多模态空间常识（Sparks of AGI & Multimodal Commonsense Reasoning）** 万亿参数大模型展现出跨模态模式识别与物理常识隐空间表征（如[[Sébastien Bubeck|塞巴斯蒂安·布贝克]]等人开展的 3D 空间立体堆叠与 TikZ 独角兽代码绘制），打破了人类在心智、[[Creativity|创造力]]与复杂推理领域的历史垄断。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 18–21)]]
 > - **软件世纪与软硬件支配关系的根本颠覆（Software-Hardware Hierarchy Inversion）** 在国家防务与高维博弈中，生成式大模型与算法跃升为全域感知、多模态情报解算与杀伤链分派的指挥中枢，动能物理硬件（战机、坦克、舰艇）降维成为执行软件决策的消耗性载体。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 44–46)]]
 > - **分布式计算底座与大学前竞争开源基础设施（Distributed Computing & Open-source AI Infrastructure）** 生成式 AI 模型（如 ChatGPT 等基础大模型）的百亿/千亿级参数训练与高并发推理，不仅依赖深度学习算法，更深植于大学前竞争[[University-Industry Collaboration|产学合作]]孕育的分布式系统。加州大学伯克利分校（UC Berkeley）联合实验室（从 [[Universal Parallel Computing Research Centers|UPCRC]] 到 AMPLab、RISELab）研发的 Apache Spark 与 Ray（高性能分布式 AI 调度执行框架），直接演进为支撑 OpenAI 训练与调度超大规模生成式模型的关键工业算力底座，证明了大学长期基础探索对现代生成式人工智能产业的底层支撑功能。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 232)]]
+> - **反文化个人计算基因与战略软件威慑重塑（Countercultural Genesis to Strategic Software Deterrence）** 早期数字革命、个人计算与人工智能算法在 1970 年代硅谷发轫时深植于[[Counterculture Computing|反文化计算运动]]，其初衷是作为抵御国家机器与大公司集权的个体赋权工具；然而随着地缘科技博弈白热化，生成式 AI 打破了后继[[Consumer Internet|消费互联网]]的浅层娱乐与广告推荐自满，被重新确立为决定大国力量均势、统领动能装备与构筑[[AI Deterrence|人工智能威慑]]的核心战略软件中枢。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–99)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 44–46)]]
 
 > [!quad-grid] 四重社会技术中介路径
 > - **流畅权威性（Fluent Authority）**

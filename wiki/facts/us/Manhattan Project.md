@@ -5,16 +5,16 @@ aliases:
   - 曼哈顿计划
   - Manhattan District
   - Manhattan Engineer District
-summary: "二战期间美国在罗斯福总统领导、万尼瓦尔·布什（Vannevar Bush）统筹与奥本海默（J. Robert Oppenheimer）科学主持下实施的绝密核武器研发工程；始于1939年爱因斯坦与西拉德致信罗斯福确立的科学家与政府常态化结盟传统，开创了国家安全牵引、军政学产深度融合与尖端科学集中攻关的大科学任务导向型科研范式，奠定了战后核威慑体系与技术共和国基石。"
+summary: "二战期间美国在罗斯福总统领导、万尼瓦尔·布什（Vannevar Bush）统筹与奥本海默（J. Robert Oppenheimer）科学主持下实施的绝密核武器研发工程；始于1939年爱因斯坦与西拉德致信罗斯福确立的科学家与政府常态化结盟传统，开创了国家安全牵引、军政学产深度融合的大科学科研范式，奠定了战后核威慑体系与技术共和国基石；后在1970年代遭遇反文化计算革命的历史性颠覆与挑战。"
 type: fact
 subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 29
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
-fact_related_color: "#ede9fe"
+fact_related_count: 40
+fact_related_level: 5
+fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_color: "#fecdd3"
 period: "1942–1946"
 initiator_organization: "[[Office of Scientific Research and Development]]"
 tags:
@@ -23,6 +23,7 @@ tags:
   - theme/science-policy
   - theme/mission-oriented
   - theme/geopolitics
+  - theme/technological-republic
 related_concepts:
   - "[[Technological Republic]]"
   - "[[Hard Power]]"
@@ -33,6 +34,8 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Paradigm]]"
   - "[[Mission-Oriented Research]]"
+  - "[[Counterculture Computing]]"
+  - "[[Hacker Ethic]]"
   - "[[AI Deterrence]]"
   - "[[Document]]"
   - "[[Winner's Fallacy]]"
@@ -52,11 +55,13 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[Fairchild Semiconductor]]"
   - "[[Stanford Research Park]]"
+  - "[[Homebrew Computer Club]]"
   - "[[Autonomous Drone Swarms]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04]]"
 confidence: high
@@ -134,6 +139,7 @@ updated: 2026-10-08
 > - **确立[[Big Science|大科学]]与任务导向科研[[Paradigm|范式]]** 彻底终结了单打独斗的作坊式科研传统，开创了国家安全战略牵引、跨学科大规模并联协作的[[Mission-Oriented Research|任务导向型研究]]模式。
 > - **铸就战后原子威慑体系与[[Hard Power|硬实力]]底座** 确立了美苏冷战核威慑（MAD）架构，证明在残酷的大国竞争中，扎实的物质摧毁与强制威慑能力构成了维系战略均势的根本筹码。
 > - **奠定早期硅谷微电子与高科技军工生态** 曼哈顿工程聚集的大批顶尖物理学家、数学家与微电子供应链人才在战后流向加利福尼亚，为[[Fairchild Semiconductor|仙童半导体]]、[[Stanford Research Park|斯坦福工业园]]以及早期硅谷微电子产业提供了核心智力与工程底座。
+> - **反文化运动对国家主义科研范式的颠覆与历史断裂** 1970 年代兴起的[[Counterculture Computing|反文化计算]]与[[Homebrew Computer Club|家酿计算机俱乐部]]极客，将曼哈顿工程确立的政府-军工集中科研视为压制探索冲动的“缺陷系统”（[[Hacker Ethic|黑客伦理]]），推动计算技术转向去中心化个体解放与消费软件，开启了长达半个世纪的硅谷商业技术与国家安全使命的大分流。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–101)]]
 > - **从原子威慑向[[AI Deterrence|人工智能威慑]]的历史交接与新曼哈顿工程倡议** 卡普与扎米斯卡指出，二战确立的原子威慑时代正在走向终结；21 世纪以先进算法、[[Autonomous Drone Swarms|自主无人机蜂群]]和智能决策网络为核心的[[AI Deterrence|人工智能威慑]]全面开启，西方世界必须复兴曼哈顿工程时期的公私结盟精神，启动面向战场人工智能的“新曼哈顿工程”，以软件硬实力重建[[Technological Republic|技术共和国]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 27–28)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 35–36)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 44–46)]]
 
 > [!stat-cards]- 关键历史数据
@@ -152,9 +158,12 @@ updated: 2026-10-08
 > | [[Technological Republic]] | Concept | 曼哈顿工程是美国作为技术共和国在 20 世纪最典型的国家工程体现。 |
 > | [[Einstein-Szilard Letter]] | Fact ([[Document]]) | 1939 年促成曼哈顿工程立项、开启科学家与国家常态结盟的历史原点。 |
 > | [[Hard Power]] | Concept | 曼哈顿工程创造的核武能力奠定了后战时期的物理硬实力基石。 |
+> | [[Counterculture Computing]] | Concept | 1970 年代颠覆曼哈顿工程国家主义科研传统、主张去中心化个体解放的对立[[Paradigm\|范式]]。 |
+> | [[Hacker Ethic]] | Concept | 将曼哈顿工程式的政府与军工科层机构定性为压制探索冲动的“缺陷系统”。 |
 > | [[AI Deterrence]] | Concept | 接替原子时代核威慑、主导 21 世纪大国力量平衡的新型威慑形态。 |
 > | [[Winner's Fallacy]] | Concept | 后冷战西方在享受曼哈顿工程确立的长期和平红利后滋生的战略自满。 |
 > | [[Office of Scientific Research and Development]] | Fact (Organization) | 曼哈顿工程的最高军民科研协调与发起母体。 |
+> | [[Homebrew Computer Club]] | Fact (Organization) | 1970 年代践行反国家主义科研、开启个人计算革命的基层极客社团。 |
 > | [[Science, The Endless Frontier 1945]] | Fact (Policy) | 总结曼哈顿工程经验、指导战后美国国家科研体制转型的纲领性文件。 |
 > | [[Vannevar Bush]] | Person | 曼哈顿工程的战略架构师与最高文官管理者。 |
 > | [[J. Robert Oppenheimer]] | Person | 洛斯阿拉莫斯实验室主任，曼哈顿工程科学主持者与技术精妙主义代表。 |

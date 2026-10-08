@@ -6,22 +6,26 @@ aliases:
   - technological agnostics
   - technological agnostic
   - 技术不可知论者
-summary: "指当代技术精英与软件工程师将技术创造活动本身视为纯粹目的，刻意回避对国家使命、政治立场、公共善与伦理价值进行实质决断与承诺的意识形态取向；其历史根源可追溯至20世纪后半叶欧美通识正典瓦解与国家共同体信念空洞化后科技阶层向个人消费主义的战略撤退。"
+summary: "指当代技术精英与软件工程师将技术创造活动本身视为纯粹目的，刻意回避对国家使命、政治立场、公共善与伦理价值进行实质决断与承诺的意识形态取向；其历史根源可追溯至20世纪后半叶欧美通识正典瓦解与反文化黑客伦理将国家定性为缺陷系统后，科技阶层向唯利是图消费互联网的全面退缩。"
 type: concept
 domain: "ethics-of-technology"
-related_count: 21
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 31
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/ethics-of-technology
   - concept/political-economy
   - theme/technology-policy
   - theme/technological-republic
+  - theme/counterculture
+  - theme/consumer-technology
 related_concepts:
   - "[[Value Neutrality]]"
   - "[[Western Civilization Course]]"
-  - "[[Canon Wars]]"
+  - "[[Counterculture Computing]]"
+  - "[[Consumer Internet]]"
+  - "[[Artefact]]"
   - "[[Moral Dualism]]"
   - "[[Hard Belief]]"
   - "[[Epoché]]"
@@ -29,10 +33,12 @@ related_concepts:
   - "[[Civic Religion]]"
   - "[[Discourse]]"
   - "[[Historical Amnesia]]"
+  - "[[Hacker Ethic]]"
   - "[[Cognitive Decoupling]]"
   - "[[General Education]]"
   - "[[Engineering Education]]"
   - "[[Variable]]"
+  - "[[Canon Wars]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
@@ -40,11 +46,16 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Dwight D. Eisenhower]]"
+  - "[[Lee Felsenstein]]"
+  - "[[Stewart Brand]]"
+  - "[[Steve Jobs]]"
+  - "[[Steven Levy]]"
 related_facts:
   - "[[DARPA]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
 status: draft
@@ -64,7 +75,7 @@ updated: 2026-10-08
 > [!concept-lens] 概念透镜
 > - **含义** 指向科技精英将工程创造本身绝对化，割裂技术研发与国家战略、共同体归属及道德承诺之间的制度性联系。
 > - **用途** 帮助研究者透视硅谷科技企业在享受国家法律、资本与安全红利的同时，拒绝承担国防防卫与公共责任的深层文化根源。
-> - **发生学根源** 植根于20世纪60至70年代欧美大学通识课程解体（[[Western Civilization Course|西方文明课]]程终结）与[[Canon Wars|经典之争]]后留下的国家认同道德真空。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 83–84, 95–96)]]
+> - **发生学根源** 植根于 20 世纪 60 至 70 年代欧美大学通识课程解体（[[Western Civilization Course|西方文明课]]程终结）留下的国家认同道德真空，以及[[Counterculture Computing|反文化计算]]将政府定性为“缺陷系统”后向[[Consumer Internet|消费互联网]]的异化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 83–84, 95–96)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 97–102)]]
 > - **边界** 不等同于技术工具论（Technological Instrumentalism）或一般的科学怀疑论，其核心在于一种以“为了建造而建造”为掩护的政治冷漠与避险策略。
 
 > [!citation-card] 技术不可知论者的创造伦理与国家使命脱钩
@@ -76,6 +87,11 @@ updated: 2026-10-08
 > 20世纪后半叶对西方传统及其国家方案的系统性解构，在留存下道德真空的同时，使整整一代人对宏大国家认同与集体事业充满怀疑；这代人——包括许多后来创立硅谷并掀起计算机革命的技术先驱——将注意力完全转移到了个体消费者身上，对推进一个其存在合理性已被彻底解构的政府事业毫无兴趣。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 95–96)]]
 >
 > *By the end of the 1970s, an entire generation had grown skeptical of broader national identity or shared endeavors. And that generation, including many who would go on to found Silicon Valley and spur the computing revolution, turned its attention elsewhere, to the individual consumer, disinterested in furthering the misadventures of a government whose entire project and reason for being had so thoroughly been called into question.*
+
+> [!citation-card] 消费互联网时代技术精英的雇佣兵式转向
+> 本世纪初的下一代创新者甚至走得更远，他们甚至抛弃了对更宏大政治计划或技术解放潜能的借口。相反，他们进入了对当时[[Artefact|物质文化]]更为唯利是图且直截了当的侍奉之中。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 102)]]
+>
+> *This next generation of innovators would go even further than the prior, abandoning even the pretext of claims to a broader political project, to the liberating potential of technology. They instead entered into a far more mercenary and straightforward service of the material culture of the time.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Moral Dualism]] — 道德二元论是将技术划分为绝对的纯洁民用与邪恶军用，而技术不可知论则是彻底回避一切价值决断，退缩至为了建造而建造的自洽世界。
@@ -139,10 +155,9 @@ updated: 2026-10-08
 > 揭示硅谷计算机革命一代在成长过程中所遭遇的大学通识危机，阐明国家大叙事的解构如何直接催生了工程师阶层向消费主义与技术不可知论的战略撤退。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
-> **[[Canon Wars|经典之争]]留存的道德真空驱动科技精英脱嵌** 20世纪60至70年代欧美顶尖高校（如1968年斯坦福大学课程改革）全面废除西方文明核心必修课，旧有的正典大纲被拆解，但未能确立任何具有向心力的替代性共同价值。成长于这一时期的计算机革命奠基者对国家的合法性与历史大叙事深感幻灭，进而将技术抱负全面内卷至个人消费品开发与纯粹代码创造，形成了对国家防卫与政治使命漠不关心的“技术不可知论”。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 83–84, 95–96)]]
-
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
-> **反文化反体制哲学向消费互联网的异化堕落** 早期个人计算先驱（如[[Lee Felsenstein|费尔森斯坦]]、[[Stewart Brand|布兰德]]）受 1960 年代反文化运动影响，将政府与大企业官僚体系定性为压制探索冲动的“缺陷系统”（[[Hacker Ethic|黑客伦理]]），试图以个人电脑赋予个体抵抗国家的工具；但当国家共同体认同“我们”被彻底解构后，[[Steve Jobs|乔布斯]]开创的亲密个人产品哲学迅速被资本主义消费市场收编，演化为完全放弃公共政治抱负、以唯利是图为导向的[[Consumer Internet|消费互联网]]，最终将技术不可知论固化为整个高科技产业的默认行为规范。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 97–102)]]
+> **通识正典断裂与反文化异化双重发生学** 20 世纪 60 至 70 年代欧美顶尖高校（如 1968 年斯坦福大学课程改革）废除西方文明核心必修课，旧有正典大纲被拆解，留下了深刻的道德真空，导致成长于这一时期的计算机革命奠基者对国家历史大叙事深感幻灭。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 83–84, 95–96)]]
+> 
+> 同时，早期先驱（如[[Lee Felsenstein|李·费尔森斯坦]]、[[Stewart Brand|斯图尔特·布兰德]]）受反文化运动影响，将政府与企业官僚定性为“缺陷系统”（[[Hacker Ethic|黑客伦理]]），试图以个人电脑赋予个体抵抗国家的工具；但当国家共同体认同“我们”被彻底解构后，[[Steve Jobs|史蒂夫·乔布斯]]开创的亲密个人产品哲学迅速被资本主义消费市场收编，演化为完全放弃公共政治抱负、以唯利是图为导向的[[Consumer Internet|消费互联网]]，最终将技术不可知论固化为整个高科技产业的默认行为规范。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 97–102)]]
 
 ---
 
@@ -161,8 +176,8 @@ updated: 2026-10-08
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **责任逃避命题** | 不可知论是科技巨头享受公共红利却逃避防卫义务的借口 | 硅谷大型科技平台、军民融合防务争议 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025)]]; Eisenhower (1961) |
-> | **教育与反文化溯源命题** | 通识正典瓦解与反体制黑客伦理导致科技精英退守消费互联网与不可知论 | 高等[[General Education\|通识教育]]改革、反文化计算与硅谷产业变迁 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025)]]; [[Stewart Brand\|Brand (1995)]]; [[Steven Levy\|Levy (1984)]] |
+> | **责任逃避命题** | 不可知论是科技巨头享受公共红利却逃避防卫义务的借口 | 硅谷大型科技平台、军民融合防务争议 | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06\|Karp & Zamiska (2025)]]; Eisenhower (1961) |
+> | **教育与反文化溯源命题** | 通识正典瓦解与反体制黑客伦理导致科技精英退守消费互联网与不可知论 | 高等[[General Education\|通识教育]]改革、反文化计算与硅谷产业变迁 | [[Stewart Brand\|Brand (1995)]]; [[Steven Levy\|Levy (1984)]] |
 > | **心智异化命题** | 剥离价值决断的纯工程训练导致技术专家主体性丧失与工具化 | [[Engineering Education\|高等工程教育]]、科技伦理审查 | 同上 |
 
 ---
@@ -198,4 +213,4 @@ updated: 2026-10-08
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Karp & Zamiska (2025, pp. 69–82)]] — 系统界定技术不可知论的文化成因、组织表现与政治危害。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp & Zamiska (2025, pp. 83–96)]] — 深度揭示战后大学[[Western Civilization Course|西方文明课]]程瓦解与[[Canon Wars|经典之争]]留下的道德真空，如何促使技术先驱全面撤退至消费主义与不可知论。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Karp & Zamiska (2025, pp. 97–102)]] — 剖析 1970 年代反文化运动与黑客伦理如何将政府定性为“缺陷系统”，最终演变为空洞化的消费互联网与技术不可知论。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Karp & Zamiska (2025, pp. 97–102)]] — 剖析 1970 年代反文化运动与[[Hacker Ethic|黑客伦理]]如何将政府定性为“缺陷系统”，最终演变为空洞化的[[Consumer Internet|消费互联网]]与技术不可知论。
