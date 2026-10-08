@@ -36,6 +36,7 @@ sources:
 related_concepts:
   - "[[Technological Republic]]"
   - "[[Hard Power]]"
+  - "[[Hard Belief]]"
   - "[[Innovation Desert]]"
   - "[[Research Translation]]"
   - "[[Man-Computer Symbiosis]]"
@@ -115,7 +116,7 @@ updated: '2026-10-07'
 ## 全书定位
 
 > [!monograph-profile] 阅读档案
-> - **书名** 《[[Technological Republic|技术共和国]]》（The Technological Republic: [[Hard Power]], Soft Belief, and the Future of the West）。
+> - **书名** 《[[Technological Republic|技术共和国]]》（The Technological Republic: [[Hard Power]], [[Hard Belief|soft belief]], and the Future of the West）。
 > - **作者** 亚历山大·C. 卡普（[[Alexander Karp|Alexander C. Karp]]）与尼古拉斯·W. 扎米斯卡（[[Nicholas Zamiska|Nicholas W. Zamiska]]）。
 > - **处理粒度** `chapter-arguments`。本页作为全书总览入口，按章建立独立论证页。
 > - **核心议题** 剖析西方与硅谷科技精英从国家战略使命的文化撤退，反思公共部门“[[Innovation Desert|创新荒漠]]”的体制诱因，提出面向人工智能与地缘竞争新时代重构“技术共和国”与工程文化治理的系统路径。

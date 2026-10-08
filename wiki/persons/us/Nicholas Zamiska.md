@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Technological Republic]]"
   - "[[Hard Power]]"
+  - "[[Hard Belief]]"
   - "[[Innovation Desert]]"
 related_theories: []
 related_methods: []
@@ -59,14 +60,14 @@ updated: 2026-10-07
 > - **本科时期** 毕业于耶鲁大学（Yale College）。
 > - **法学深造** 获得耶鲁法学院（Yale Law School）法律博士（Juris Doctor, J.D.）学位。
 > - **帕兰提尔任职** 担任帕兰提尔科技公司企业事务主管兼首席执行官办公室法律顾问，并出任防务政策与国际事务基金会董事。
-> - **2025** 与[[Alexander Karp|亚历山大·卡普]]合著出版《[[Technological Republic|技术共和国]]：[[Hard Power|硬实力]]、软信念与西方的未来》（*The Technological Republic: Hard Power, Soft Belief, and the Future of the West*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 297)]]
+> - **2025** 与[[Alexander Karp|亚历山大·卡普]]合著出版《[[Technological Republic|技术共和国]]：[[Hard Power|硬实力]]、[[Hard Belief|软信念]]与西方的未来》（*The Technological Republic: Hard Power, Soft Belief, and the Future of the West*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 297)]]
 
 ---
 
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **2025 — *The [[Technological Republic]]: [[Hard Power]], Soft Belief, and the Future of the West*** 与[[Alexander Karp|亚历山大·卡普]]合著，系统论证软件与人工智能在国家安全与地缘竞争中的关键地位，剖析西方公共治理体系面临的信念危机与[[Innovation Desert|创新荒漠]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–15)]]
+> - **2025 — *The [[Technological Republic]]: [[Hard Power]], [[Hard Belief|soft belief]], and the Future of the West*** 与[[Alexander Karp|亚历山大·卡普]]合著，系统论证软件与人工智能在国家安全与地缘竞争中的关键地位，剖析西方公共治理体系面临的信念危机与[[Innovation Desert|创新荒漠]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–15)]]
 
 ---
 

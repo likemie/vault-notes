@@ -23,6 +23,7 @@ tags:
   - theme/human-rights
   - political-philosophy
 related_concepts:
+  - "[[Hard Belief]]"
   - "[[Heckler's Veto]]"
 related_theories: []
 related_methods: []
@@ -60,7 +61,7 @@ updated: 2026-10-08
 > [!dev-timeline] 事件推进历程
 > - **1976–1977 — 申请集会与地方禁令出台** 纳粹团体策划斯科基集会，斯科基村出台要求巨额保险保证金、禁止煽动仇恨符号等法令阻止游行，引发全美舆论哗然。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, p. 57)]]
 > - **1977 — ACLU 介入代理与内部巨大撕裂** 本身为逃离纳粹大屠杀幸存者的 ACLU 总监[[Aryeh Neier|阿里耶·内尔]]力排众议，决定依据第一修正案为纳粹团体的集会权利提供无偿法律辩护；该决定引发该机构约三万名核心会员退会抗议与严重财政危机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–58)]]
-> - **1977–1978 — 司法审判与宪法判例终审确立** 联邦上诉法院与美国最高法院相继作出判决，裁定斯科基村的事前限制与符号禁令违反宪法第一修正案，确立了宪法言论自由超越政治厌恶的硬信念法理。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–58)]]
+> - **1977–1978 — 司法审判与宪法判例终审确立** 联邦上诉法院与美国最高法院相继作出判决，裁定斯科基村的事前限制与符号禁令违反宪法第一修正案，确立了宪法言论自由超越政治厌恶的[[Hard Belief|硬信念]]法理。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–58)]]
 
 ---
 
@@ -86,7 +87,7 @@ updated: 2026-10-08
 
 > [!finding-cards] 关键历史后果
 > - **第一修正案司法基准的刚性化** 彻底封闭了地方政府以防范群体愤怒或被冒犯感为由剥夺集会权力的行政审查后门。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–58)]]
-> - **智识勇气的历史坐标** 成为政治哲学与领导学中衡量公共领袖能否为超越自身利益的“硬信念”承担声誉与政治代价的经典检验案例。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–60)]]
+> - **智识勇气的历史坐标** 成为政治哲学与领导学中衡量公共领袖能否为超越自身利益的“[[Hard Belief|硬信念]]”承担声誉与政治代价的经典检验案例。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–60)]]
 
 ---
 

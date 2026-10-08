@@ -27,6 +27,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Perry Link]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
 related_facts: []
@@ -45,7 +46,7 @@ updated: 2026-10-08
 ## 定义
 
 > [!def] 核心定义
-> 吊灯里的巨蟒（Anaconda in the Chandelier）是政治心理学与言论[[Disciplina and Doctrina|规训]]研究中的著名隐喻和分析范畴，由汉学家林培瑞（Perry Link）于 2002 年提出。该隐喻指一种基于心理威慑与预期模糊性的非机械化控制系统：审查权力如同盘踞在吊灯上的巨蟒，它无需频繁主动发起攻击，仅凭其隐秘而庞大的在场，便足以让下方的人群始终处于一种钝滞而根深蒂固的戒备与警惕（leeriness）之中，进而主动进行前置性的自我语言过滤与思想退缩。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 66–67)]]
+> 吊灯里的巨蟒（Anaconda in the Chandelier）是政治心理学与言论[[Disciplina and Doctrina|规训]]研究中的著名隐喻和分析范畴，由汉学家[[Perry Link|林培瑞]]（Perry Link）于 2002 年提出。该隐喻指一种基于心理威慑与预期模糊性的非机械化控制系统：审查权力如同盘踞在吊灯上的巨蟒，它无需频繁主动发起攻击，仅凭其隐秘而庞大的在场，便足以让下方的人群始终处于一种钝滞而根深蒂固的戒备与警惕（leeriness）之中，进而主动进行前置性的自我语言过滤与思想退缩。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 66–67)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 描述通过维持惩戒边界的不确定性与潜在代价的高昂性，迫使行动者将外部规训内化为心理自我审查的无形控制机制。
@@ -73,8 +74,8 @@ updated: 2026-10-08
 ## 核心要素
 
 > [!feature] 核心要素
-> - **惩戒红线的结构性模糊** 规则通常未以清晰法条明示，而是体现为动态、繁复且隐性的不成文行为准则与道德敏感点。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 66–67)]]
-> - **惩罚后果的非对称性** 一旦触发红线将面临毁灭性的社会声誉剥夺、职业取消或体制排斥，迫使行动者采取最大化的防御性退缩策略。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 66–67)]]
+> - **惩戒红线的结构性模糊** 规则通常未以清晰法条明示，而是体现为动态、繁复且隐性的不成文行为准则与道德敏感点。
+> - **惩罚后果的非对称性** 一旦触发红线将面临毁灭性的社会声誉剥夺、职业取消或体制排斥，迫使行动者采取最大化的防御性退缩策略。
 > - **自我审查的无意识内化** 行动者在长期的心理[[Disciplina and Doctrina|规训]]中将避险本能内化为思维方式，最终丧失对重大真实议题提出原创性见解的智识冲动。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 66–67)]]
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-10-08
 > [!concept-lens] 制度文化与智识生态
 > 探讨隐性道德巡查与言论审查如何侵蚀知识精英的灵魂，使大学与企业管理层沦为缺乏实质主张的技术官僚。
 
-> [!claim] Link, P.
+> [!claim] [[Perry Link|Link, P.]]
 > **心理控制系统的深层渗透性** 相比于苏联时期详尽列出 96 类禁止信息的机械审查手册，基于心理恐惧的模糊控制系统迫使社会成员自觉成为自己的审查官，将思想[[Disciplina and Doctrina|规训]]的重担彻底转移到个体心理层面。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 66–67)]]
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
@@ -107,7 +108,7 @@ updated: 2026-10-08
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2002 — 汉学与比较政治分析奠基** 林培瑞在《纽约书评》发表论文《中国：吊灯里的巨蟒》，系统确立该隐喻以阐释现代心理威慑审查机制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 66–67)]]
+> - **2002 — 汉学与比较政治分析奠基** [[Perry Link|林培瑞]]在《纽约书评》发表论文《中国：吊灯里的巨蟒》，系统确立该隐喻以阐释现代心理威慑审查机制。
 > - **2010年代 — 跨国政治学与文化研究应用** 概念被广泛引入政治学、传播学与法学领域，用以分析威权统治下社会信任的解构以及数字平台的隐性言论算法调控。
 > - **2020年代 — 西方高校取消文化与管理主义批判** 卡普等学者将该隐喻逆向应用于反思西方精英大学与科技巨头的内部文化，揭示语言审查与道德合规如何造成严重的思想空洞化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 66–67)]]
 
@@ -118,7 +119,7 @@ updated: 2026-10-08
 > [!debates] 学术争议
 >
 > > [!axis] 跨制度语境类比的有效性与边界
-> > 争论焦点在于将威权国家的国家级心理审查机制，类比于西方自由民主社会[[Grandes Ecoles|大学校]]园与企业内部的舆论压力是否属于过度引申。
+> > 争论焦点在于将威权国家的国家级心理审查机制，类比于西方自由民主社会大学校园与企业内部的舆论压力是否属于过度引申。
 > >
 > > - **批评视角** 指出西方社会的舆论争议具有多元博弈与司法救济通道，与国家机器垄断暴力下的心理威慑存在性质区别。
 > > - **防御视角** 强调二者在微观心理层面诱发的“戒备退缩与自我消音”机制具有高度同构性，均在实质上剥夺了思想探索的自由空间。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 66–67)]]
@@ -128,4 +129,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|Karp & Zamiska (2025, Ch. 5)]] — 借林培瑞的隐喻深刻剖析当代美国大学行政管理层因恐惧引发舆论非议而全面推行语言管控与自我审查的心理根源。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|Karp & Zamiska (2025, Ch. 5)]] — 借[[Perry Link|林培瑞]]的隐喻深刻剖析当代美国大学行政管理层因恐惧引发舆论非议而全面推行语言管控与自我审查的心理根源。

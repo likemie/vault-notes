@@ -27,6 +27,7 @@ related_concepts:
   - "[[Technological Republic]]"
   - "[[Innovation Desert]]"
   - "[[Hard Power]]"
+  - "[[Hard Belief]]"
 related_theories:
   - "[[Organizational Culture]]"
 related_methods: []
@@ -66,14 +67,14 @@ updated: 2026-10-08
 > - **1992** 获得斯坦福法学院（Stanford Law School）法律博士（Juris Doctor, J.D.）学位。
 > - **2002** 获得德国法兰克福歌德大学（Goethe University Frankfurt）社会理论博士学位，师从德国哲学家与社会学家[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas）。
 > - **2003** 与[[Peter Thiel|彼得·蒂尔]]（Peter Thiel）等人共同创立帕兰提尔科技公司（Palantir Technologies），长期担任首席执行官。
-> - **2025** 与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]合著出版专著《[[Technological Republic|技术共和国]]：[[Hard Power|硬实力]]、软信念与西方的未来》（*The Technological Republic: Hard Power, Soft Belief, and the Future of the West*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–15, 297)]]
+> - **2025** 与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]合著出版专著《[[Technological Republic|技术共和国]]：[[Hard Power|硬实力]]、[[Hard Belief|软信念]]与西方的未来》（*The Technological Republic: Hard Power, Soft Belief, and the Future of the West*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–15, 297)]]
 
 ---
 
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **2025 — *The [[Technological Republic]]: [[Hard Power]], Soft Belief, and the Future of the West*** 系统阐述[[Technological Republic|技术共和国]]构想，回顾硅谷起源与军工科研深度融合的历史，批判当代科技精英对国家使命的逃避，提出以结果导向的工程[[Organizational Culture|组织文化]]重塑政府效能与西方地缘优势。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–15)]]
+> - **2025 — *The [[Technological Republic]]: [[Hard Power]], [[Hard Belief|soft belief]], and the Future of the West*** 系统阐述[[Technological Republic|技术共和国]]构想，回顾硅谷起源与军工科研深度融合的历史，批判当代科技精英对国家使命的逃避，提出以结果导向的工程[[Organizational Culture|组织文化]]重塑政府效能与西方地缘优势。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–15)]]
 
 ---
 

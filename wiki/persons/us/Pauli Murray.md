@@ -26,12 +26,14 @@ related_concepts:
   - "[[Champ]]"
   - "[[Academic Freedom]]"
   - "[[Grandes Ecoles]]"
+  - "[[Hard Belief]]"
   - "[[Technological Republic]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Mark Ginsburg]]"
+  - "[[Kingman Brewster Jr.]]"
   - "[[Aryeh Neier]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
@@ -53,7 +55,7 @@ updated: 2026-10-08
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名非裔民权运动先驱、法学家、女性主义理论家、作家及首位非裔圣公会女牧师，全国妇女组织（National Organization for Women, NOW）联合创始人。
 > - **核心角色** 20 世纪美国民权与女权法学理论的奠基者之一，其关于“简·克劳法”（Jane Crow，即性别与种族双重压迫）的理论深刻启发了最高法院大法官鲁斯·巴德·[[Mark Ginsburg|金斯伯格]]（Ruth Bader Ginsburg）的平权判例。
-> - **代表贡献** 1963 年在耶鲁法学院就读期间致信校长金曼·布鲁斯特（Kingman Brewster Jr.），力主允许狂热种族隔离分子乔治·华莱士（George Wallace）在校园演讲，前瞻性界定了反对[[Heckler's Veto|起哄者否决]]（Heckler's Veto）的宪法法理基石；出版回忆录《疲惫咽喉中的歌声》（*Song in a Weary Throat*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 58–59)]]
+> - **代表贡献** 1963 年在耶鲁法学院就读期间致信校长[[Kingman Brewster Jr.|金曼·布鲁斯特]]（Kingman Brewster Jr.），力主允许狂热种族隔离分子乔治·华莱士（George Wallace）在校园演讲，前瞻性界定了反对[[Heckler's Veto|起哄者否决]]（Heckler's Veto）的宪法法理基石；出版回忆录《疲惫咽喉中的歌声》（*Song in a Weary Throat*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 58–59)]]
 
 > [!citation-card] 拒绝因暴力风险剥夺个人宪法权利
 > 尽管我本人深受种族隔离之恶的伤害，但在法律上，暴力的潜在可能性绝不能构成阻止个人行使宪法权利的充分理由。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 58–59)]]
@@ -108,7 +110,7 @@ updated: 2026-10-08
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **思想共鸣者** [[Aryeh Neier]] — 共同构成当代西方在极度争议情境下坚守宪法硬信念的典范人物。
+> - **思想共鸣者** [[Aryeh Neier]] — 共同构成当代西方在极度争议情境下坚守宪法[[Hard Belief|硬信念]]的典范人物。
 > - **学术与对话者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》中作为展现“智识勇气与硬信念”的核心案例。
 
 ---

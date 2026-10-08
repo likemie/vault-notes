@@ -8512,6 +8512,18 @@
     ]
   },
   {
+    "title": "Feeding Frenzy",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Feeding Frenzy.md",
+    "aliases": [
+      "捕食狂欢",
+      "攻击性新闻业",
+      "attack journalism",
+      "media frenzy",
+      "媒体狂欢"
+    ]
+  },
+  {
     "title": "Fictitious Commodity of Knowledge",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Fictitious Commodity of Knowledge.md",
@@ -8605,6 +8617,17 @@
       "数字治理",
       "以数字治理",
       "governance by numbers"
+    ]
+  },
+  {
+    "title": "Hard Belief",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Hard Belief.md",
+    "aliases": [
+      "硬信念",
+      "软信念",
+      "soft belief",
+      "hard beliefs"
     ]
   },
   {
@@ -23769,6 +23792,16 @@
     ]
   },
   {
+    "title": "Kingman Brewster Jr.",
+    "type": "person",
+    "path": "wiki/persons/us/Kingman Brewster Jr..md",
+    "aliases": [
+      "金曼·布鲁斯特",
+      "Brewster, K.",
+      "Kingman Brewster"
+    ]
+  },
+  {
     "title": "Kurt Fischer",
     "type": "person",
     "path": "wiki/persons/us/Kurt Fischer.md",
@@ -24042,6 +24075,16 @@
       "珀西·威廉斯·布里奇曼",
       "珀西·布里奇曼",
       "布里奇曼"
+    ]
+  },
+  {
+    "title": "Perry Link",
+    "type": "person",
+    "path": "wiki/persons/us/Perry Link.md",
+    "aliases": [
+      "林培瑞",
+      "Link, P.",
+      "Eugene Perry Link Jr."
     ]
   },
   {
@@ -29442,6 +29485,18 @@
       "TDTS",
       "思考、操作、对话科学",
       "Thinking Doing Talking Science"
+    ]
+  },
+  {
+    "title": "1970 Yale May Day Crisis",
+    "type": "fact",
+    "path": "wiki/facts/us/1970 Yale May Day Crisis.md",
+    "aliases": [
+      "1970年耶鲁五一危机",
+      "耶鲁黑豹党危机",
+      "耶鲁五一集会",
+      "Yale May Day Crisis",
+      "1970 Yale May Day"
     ]
   },
   {

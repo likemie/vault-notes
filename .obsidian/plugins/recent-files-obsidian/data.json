@@ -5,6 +5,18 @@
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch05.md"
     },
     {
+      "basename": "Total Institution",
+      "path": "wiki/concepts/sociology-of-education/Total Institution.md"
+    },
+    {
+      "basename": "Heckler's Veto",
+      "path": "wiki/concepts/political-economy-geopolitics/Heckler's Veto.md"
+    },
+    {
+      "basename": "Erving Goffman",
+      "path": "wiki/persons/global/Erving Goffman.md"
+    },
+    {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch04",
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch04.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Man-Computer Symbiosis",
       "path": "wiki/concepts/educational-technology/Man-Computer Symbiosis.md"
-    },
-    {
-      "basename": "J. C. R. Licklider",
-      "path": "wiki/persons/us/J. C. R. Licklider.md"
-    },
-    {
-      "basename": "Office of Scientific Research and Development",
-      "path": "wiki/facts/us/Office of Scientific Research and Development.md"
-    },
-    {
-      "basename": "International Schools",
-      "path": "wiki/concepts/comparative-education/International Schools.md"
     }
   ],
   "omittedPaths": [],

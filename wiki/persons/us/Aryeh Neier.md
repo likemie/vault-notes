@@ -21,6 +21,7 @@ tags:
   - theme/human-rights
   - political-philosophy
 related_concepts:
+  - "[[Hard Belief]]"
   - "[[Attrition]]"
   - "[[Heckler's Veto]]"
   - "[[Paradigm]]"
@@ -53,7 +54,7 @@ updated: 2026-10-08
 > - **核心角色** 当代西方第一修正案法理与国际人权运动的关键领袖，以在极具争议的历史关头坚守言论自由宪法原则、不惜承受巨大社会与组织代价著称。
 > - **代表贡献** 在 1977 年[[Skokie Free Speech Case|斯科基言论自由案]]中力排众议为纳粹游行权利辩护；出版经典著作《保卫我的敌人：美国纳粹、斯科基案与自由的风险》（*Defending My Enemy*, 1979）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–58)]]
 
-> [!citation-card] 以自由限制权力与不惜代价的硬信念
+> [!citation-card] 以自由限制权力与不惜代价的[[Hard Belief|硬信念]]
 > 为了保护我自己，我必须用自由来约束权力，哪怕这一原则的暂时受益者正是自由的敌人。坚守信念必须付出代价，而为之辩护需要将组织自身的信誉以及个人的声誉置于险境。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–58)]]; (Neier, 1979, p. 5)
 >
 > *To defend myself, I must restrain power with freedom, even if the temporary beneficiaries are the enemies of freedom. His beliefs had a cost, and their defense required putting the credibility of his organization, and himself, at risk.*
@@ -75,7 +76,7 @@ updated: 2026-10-08
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1970年代 — 第一修正案的硬信念与法律程序正义** 面对冷战与民权时期的极化撕裂，确立了宪法言论自由的普适性原则，反对任何基于政治观点或道德厌恶而赋予国家的审查特权。
+> - **1970年代 — 第一修正案的[[Hard Belief|硬信念]]与法律程序正义** 面对冷战与民权时期的极化撕裂，确立了宪法言论自由的普适性原则，反对任何基于政治观点或道德厌恶而赋予国家的审查特权。
 >   - **代表著作** *Defending My Enemy: American Nazis, the [[Skokie Free Speech Case|Skokie case]], and the Risks of Freedom* (1979)。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, p. 57)]]
 >   - **关键概念／方法** [[Heckler's Veto]]、宪法第一修正案、程序正义。
 >   - **阶段转向** 将个人逃离大屠杀的流亡经历升华为坚决防止国家权力侵犯自由表达的根本制度约束。
@@ -88,7 +89,7 @@ updated: 2026-10-08
 ## 核心思想
 
 > [!claim] 核心主张
-> 阿里耶·内尔强调，真正的自由主义信念并非毫无代价的情感宣泄，而是一种明知会遭受公众唾骂与组织损失却依然甘愿承担风险的“硬信念”（Hard Belief）。言论自由的最严苛考验恰恰在于保护那些我们深恶痛绝的敌人的发声权利；一旦允许国家以防范极端观念为由行使审查特权，这种不受约束的权力最终必将反噬所有人。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–58)]]
+> 阿里耶·内尔强调，真正的自由主义信念并非毫无代价的情感宣泄，而是一种明知会遭受公众唾骂与组织损失却依然甘愿承担风险的“[[Hard Belief|硬信念]]”（Hard Belief）。言论自由的最严苛考验恰恰在于保护那些我们深恶痛绝的敌人的发声权利；一旦允许国家以防范极端观念为由行使审查特权，这种不受约束的权力最终必将反噬所有人。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–58)]]
 
 ---
 
@@ -105,7 +106,7 @@ updated: 2026-10-08
 
 > [!person-network] 关系网络
 > - **思想共鸣者** [[Pauli Murray]] — 同样主张即使面对极端种族主义者也不应因防范冲突而剥夺其宪法表达权利。
-> - **分析与对话者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》第 5 章中将内尔树立为具有“硬信念”与智识勇气的领袖典范。
+> - **分析与对话者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》第 5 章中将内尔树立为具有“[[Hard Belief|硬信念]]”与智识勇气的领袖典范。
 > - **关键历史事件** [[Skokie Free Speech Case]] — 1977 年斯科基案核心法律辩护者与决策者。
 
 ---
