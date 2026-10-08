@@ -11,7 +11,7 @@ aliases:
 summary: "驱动国家科技战略、大学治理变革与劳动力技能重塑的核心逻辑与地缘政治装置。在宏观上体现为长程战略计算、先进制造与地缘威慑；在中观上体现为产学中心破除学科壁垒与排名审计重塑大学；在微观上体现为产线组织学习与学习分析；卡普与扎米斯卡进一步论证，国家千年期战略决断、创始人长期主义与全员股权所有权模式，构成了抵御短期金融化与维系持久科技竞争力的决定性底座。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 63
+related_count: 62
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -54,9 +54,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Falsification]]"
-  - "[[Technology Transfer]]"
-  - "[[Hard Power]]"
-  - "[[Hard Belief]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Governmentality]]"
@@ -65,13 +62,10 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[External Auditor]]"
   - "[[Correlational Research]]"
-  - "[[Accounts]]"
 related_persons:
   - "[[Lee Kuan Yew]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
-  - "[[David C. Mowery]]"
-  - "[[Christiane Thompson]]"
 related_facts:
   - "[[Office of Science and Technology Policy]]"
   - "[[Engineering Research Centers]]"
@@ -84,7 +78,6 @@ related_facts:
   - "[[Sematech]]"
   - "[[EUV LLC]]"
   - "[[Research Excellence Framework]]"
-  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
@@ -150,7 +143,7 @@ updated: 2026-10-09
 > | **主导驱动力** | 地缘政治博弈、先进制造业技术主权与长程威慑 | 审美品味、突破性创新与抵御季度短期主义 | [[Global Universities Rankings\|全球大学排名]]、国家卓越计划与高教拨款争夺 | 毕业[[Employability\|就业力]]、产业技能缺口填补与不确定性规避 |
 > | **核心组织载体** | 开放试验场、[[Megascience Installations\|大科学装置]]、前竞争联合体、长程国家战略规划机构 | 创始人掌舵企业、全员股权所有权社群 | 跨学科研究中心（[[Engineering Research Centers\|ERC]]）、[[Stakeholder University\|利益相关者大学]] | 产线工程技术人员、现代学徒、自我优化型学生 |
 > | **治理机制** | 千年期战略决断、[[Regulatory Sandbox\|监管沙盒]]、[[Other Transaction Authority\|OTA]] 协议、试验设施开放 | 股权激励、非委员会裁量、长程托管 | 排名指标、REF 卓越审计、[[Research Impact\|科研影响力]]绩效 | [[Learning Analytics\|学习分析]]算法、在线自评系统、产线数据分析 |
-> | **典型[[Document\|文献]]** | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17\|Karp & Zamiska (2025, Ch. 17)]] | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|Karp & Zamiska (2025, Ch. 18)]] | [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022)]] | [[Argument_Macher_1998_CMR\|Macher et al. (1998)]] |
+> | **典型[[Document\|文献]]** | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17\|Karp & Zamiska (2025, pp. 194–197)]] | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|Karp & Zamiska (2025, pp. 209–212)]] | [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022)]] | [[Argument_Macher_1998_CMR\|Macher et al. (1998)]] |
 
 ---
 
@@ -352,18 +345,3 @@ updated: 2026-10-09
 > - [[Argument_Bozeman_2004_JTT|Bozeman & Boardman (2004)]] — 论证 1980 年代国家经贸竞争力焦虑如何驱动 [[National Science Foundation|NSF]] 设立[[Engineering Research Centers|工程研究中心]]（ERC）并奠定多用途大学研究中心支柱地位。
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 实证揭示以人为本的产线组织数据学习与快速工程排障对产业微观工程竞争力的决定性超越。
 > - [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]] — 运用[[Governmentality|治理术]]与[[Societies of Control|控制社会]]理论，剖析竞争力作为地缘政治装置如何依托排名与[[Learning Analytics|学习分析]]重塑高等教育。
-
----
-
-## 参考文献
-
-- Bozeman, B., & Boardman, C. (2004). The design and foundation of multi-disciplinary, multi-institutional university research centers: The [[National Science Foundation|NSF]] [[Engineering Research Centers]] program. *Journal of [[Technology Transfer]]*, 29(3–4), 365–376.
-- Fahlenbrach, R. (2009). Founder-CEOs, investment decisions, and stock market performance. *Journal of Financial and Quantitative Analysis*, 44(2), 439–466.
-- [[Alexander Karp|Karp, A. C.]], & Zamiska, N. W. (2025). *The [[Technological Republic]]: [[Hard Power]], [[Hard Belief|soft belief]], and the Future of the West*. New York: Crown Currency.
-- Kissinger, H. (2000). Foreword. In K. Y. Lee, *From Third World to First: The Singapore Story: 1965–2000* (pp. ix–xi). New York: HarperCollins.
-- Kratsios, M. (2026). *Science: A New Golden Age*. Washington, D.C.: [[Office of Science and Technology Policy]], Executive Office of the President.
-- Lee, J. M., Kim, J., & Bae, J. (2016). Founder CEOs and innovation: Evidence from S&P 500 firms. *SSRN Electronic Journal*, February 17, 1–45.
-- Macher, J. T., [[David C. Mowery|Mowery, D. C.]], & Hodges, D. A. (1998). Reversal of fortune? The recovery of the U.S. semiconductor industry. *California Management Review*, 41(1), 107–136.
-- Swensen, D. (2017). *A Conversation with David Swensen* (Interview by R. E. Rubin). Council on Foreign Relations, November 14.
-- [[Christiane Thompson|Thompson, C.]], Sellar, S., & Buchanan, R. (2022). The performative production of the [[Promising Student]]: Competitiveness, analytics and the geopolitical apparatus of higher education. *Critical Studies in Education*, 63(2), 219–234.
-- World Bank Group. (2023). *GDP per capita (current US$) - Singapore*. [[World Bank]] national [[Accounts]] data, and [[OECD]] National Accounts data files.

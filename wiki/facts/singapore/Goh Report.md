@@ -29,16 +29,12 @@ related_concepts:
   - "[[Language Skills]]"
   - "[[Academic Attrition]]"
   - "[[Emergence]]"
-  - "[[Technological Republic]]"
-  - "[[Hard Power]]"
-  - "[[Hard Belief]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Goh Keng Swee]]"
   - "[[Lee Kuan Yew]]"
-  - "[[Alexander Karp]]"
 related_facts:
   - "[[Speak Mandarin Campaign]]"
 related_arguments:
@@ -143,10 +139,3 @@ updated: 2026-10-09
 > | [[Goh Keng Swee]] | 人物 | 报告的主持者与首席起草人。 |
 > | [[Lee Kuan Yew]] | 人物 | 委托吴庆瑞进行教育审计并强力推行改革的建国总理。 |
 > | [[Speak Mandarin Campaign]] | 事实 | 依据报告调研结果直接启动的全国性语言整合运动。 |
-
----
-
-## 参考文献
-
-- [[Goh Keng Swee|Goh, K. S.]], & Education Study Team. (1979). *Report on the Ministry of Education 1978*. Singapore: Singapore National Printers.
-- [[Alexander Karp|Karp, A. C.]], & Zamiska, N. W. (2025). *The [[Technological Republic]]: [[Hard Power]], [[Hard Belief|soft belief]], and the future of the West*. New York: Crown Currency.

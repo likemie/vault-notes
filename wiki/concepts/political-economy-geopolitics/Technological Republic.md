@@ -74,7 +74,6 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Global Citizenship]]"
   - "[[Variable]]"
-  - "[[Growth]]"
 related_theories:
   - "[[End of History Thesis]]"
   - "[[Legitimation Crisis]]"
@@ -124,7 +123,6 @@ related_facts:
   - "[[Dot-Com Bubble]]"
   - "[[Eck Swarm Experiment]]"
   - "[[Palantir Technologies]]"
-  - "[[Research in Schools Evaluation]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
@@ -501,40 +499,3 @@ updated: 2026-10-09
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - **技术共和国专著论述** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] 系统阐明技术共和国在人工智能地缘竞争中的制度重塑方案与组织治理哲学。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Ch. 1–4)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Ch. 6–8)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Ch. 9–13)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Ch. 15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Ch. 16)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Ch. 17)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Ch. 18)]]
-
----
-
-## 参考文献
-
-- Amar, A. R. (2005). *America’s Constitution: A Biography*. New York: Random House.
-- Ames, R. T., & Rosemont, H., Jr. (1998). *The Analects of [[Confucius]]: A Philosophical Translation*. New York: Ballantine Books.
-- Appiah, K. A. (2016). There is no such thing as western civilisation. *The Guardian*, November 9.
-- Baltzell, E. D. (1987). *The Protestant Establishment: Aristocracy and Caste in America*. New Haven, CT: Yale University Press.
-- Beard, M. (2016). Kenneth Clark by James Stourton review—Mary Beard on Civilisation without women. *The Guardian*, October 1.
-- Bellah, R. N. (1967). [[Civic Religion|civil religion]] in America. *Daedalus*, 96(1), 1–21.
-- Benedict, R. (1934). *Patterns of Culture*. Boston: Houghton Mifflin.
-- Carlyle, T. (1841). *On Heroes, Hero-Worship, and the Heroic in History*. London: James Fraser.
-- Clark, K. (1969). *Civilisation*. New York: Harper & Row.
-- Fahlenbrach, R. (2009). Founder-CEOs, investment decisions, and stock market performance. *Journal of Financial and Quantitative Analysis*, 44(2), 439–466.
-- Fukuyama, F. (1992). *[[End of History Thesis|The End of History]] and the Last Man*. New York: Free Press.
-- Gaddis, J. L. (1987). *The [[Long Peace]]: Inquiries into the History of the Cold War*. Oxford: Oxford University Press.
-- Glenn, J. (1994). [[Federal Acquisition Streamlining Act of 1994]]. *Public Law*, 103–355.
-- Gordon, R. J. (2016). *The [[Research in Schools Evaluation|RISE]] and Fall of American [[Growth]]*. Princeton, NJ: Princeton University Press.
-- Graeber, D. (2012). Of flying cars and the declining rate of profit. *The Baffler*, 19, 66–84.
-- Habermas, J. (1975). *[[Legitimation Crisis]]*. Boston: Beacon Press.
-- Heller, Á. (1987). *Beyond Justice*. Oxford: Basil Blackwell.
-- [[Alexander Karp|Karp, A. C.]], & Zamiska, N. W. (2025). *The Technological Republic: [[Hard Power]], [[Hard Belief|soft belief]], and the Future of the West*. New York: Crown Currency.
-- King, C. (2020). *Gods of the Upper Air: How a Circle of Renegade Anthropologists Reinvented Race, Sex, and Gender in the Twentieth Century*. New York: Anchor Books.
-- Lee, J. M., Kim, J., & Bae, J. (2016). Founder CEOs and innovation: Evidence from S&P 500 firms. *SSRN Electronic Journal*, February 17, 1–45.
-- Lee, K. Y. (2020). *[[Lee Kuan Yew]]: The Grand Master’s Insights on China, the United States, and the World* (G. Allison & R. D. Blackwill, Eds.). Cambridge, MA: MIT Press.
-- McNeill, W. H. (1986). *Mythistory and Other Essays*. Chicago: University of Chicago Press.
-- Rawls, J. (2005). *Political Liberalism*. New York: Columbia University Press.
-- Renan, E. (2018). *What Is a Nation? and Other Political Writings* (M. F. N. Giglioli, Ed. & Trans.). New York: Columbia University Press. (Original work published 1882)
-- Sallust. (2013). *The War with Catiline* (J. C. Rolfe, Trans.; J. T. Ramsey, Rev.). Cambridge, MA: Harvard University Press.
-- Sandel, M. J. (2012). *What Money Can’t Buy: The Moral Limits of Markets*. New York: Farrar, Straus and Giroux.
-- Schelling, T. C. (1966). *Arms and Influence*. New Haven, CT: Yale University Press.
-- Scruton, R. (2000). Animal rights. *City Journal*, Summer.
-- Silver, N. (2024). *On the Edge: The Art of Risking Everything*. New York: Penguin Press.
-- Singer, P. (1975). *Animal Liberation: A New Ethics for Our Treatment of Animals*. New York: New York Review Books.
-- Strauss, L. (1959). *What Is Political Philosophy? And Other Studies*. Chicago: University of Chicago Press.
-- Swensen, D. (2017). *A Conversation with David Swensen* (Interview by R. E. Rubin). Council on Foreign Relations, November 14.

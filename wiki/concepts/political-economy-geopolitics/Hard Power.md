@@ -4,7 +4,7 @@ aliases:
   - 硬实力
   - 硬权力
   - 物质强制力
-summary: "国际关系与地缘政治的核心分析范畴，指行为体通过军事武力、强制威慑与经济制裁迫使他者服从的指挥性权力。在 21 世纪智能化演进中，硬实力的物质底座转向软件算法、自主系统与实体制造闭环；卡普与扎米斯卡论证，硬实力无法脱离软信念而独立存在，审美品味、创始人长期主义、全员所有权与文明认同构成了维系软件硬实力的终极文化底座。"
+summary: "国际关系与地缘政治的核心范畴，指行为体通过军事武力、强制威慑与经济制裁迫使他者服从的指挥性权力。在智能化时代，硬实力的底座转向软件算法、自主系统与实体制造；卡普与扎米斯卡进一步论证，硬实力无法脱离软信念而孤立维系，国家千年期战略决断、共享文化认同与防卫意志构成了可信硬实力威慑的终极支柱。"
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 44
@@ -20,14 +20,13 @@ tags:
 related_concepts:
   - "[[Hard Belief]]"
   - "[[Soft Power]]"
-  - "[[Technological Republic]]"
   - "[[Technological Agnosticism]]"
   - "[[Reliability]]"
-  - "[[Creativity]]"
   - "[[Consumer Internet]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
   - "[[Demonstration Effect]]"
+  - "[[Technological Republic]]"
   - "[[Counterculture Computing]]"
   - "[[Hacker Ethic]]"
   - "[[Civic Religion]]"
@@ -38,9 +37,6 @@ related_concepts:
   - "[[Scientific Paradigm]]"
   - "[[Commercial Off-The-Shelf]]"
   - "[[Return on Investment]]"
-  - "[[Cultural Disembedding]]"
-  - "[[Engineering Mindset]]"
-  - "[[Epistemology]]"
 related_theories:
   - "[[Strategic Bargaining Theory]]"
   - "[[End of History Thesis]]"
@@ -58,10 +54,14 @@ related_persons:
   - "[[Joseph S. Nye Jr.]]"
 related_facts:
   - "[[Autonomous Drone Swarms]]"
+  - "[[Research in Schools Evaluation]]"
+  - "[[Goh Report]]"
+  - "[[Walser-Bubis Debate]]"
   - "[[Manhattan Project]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02]]"
@@ -83,12 +83,12 @@ updated: 2026-10-09
 > [!def] 核心定义
 > 硬实力（Hard Power，亦称硬权力或物质强制力），是国际关系学与[[Strategic Bargaining Theory|战略博弈论]]中的经典核心概念，指政治行为体依据有形的物质资源（包括军事武力、精确打击能力、战略威慑装备以及经济制裁与金融强制杠杆），通过强迫或利诱等手段直接改变他者行为以实现国家战略目标的能力（Nye, 2004）。
 > 
-> 在 21 世纪的智能化与软件时代，硬实力的物质载体经历了深刻演进——从依赖重工业装甲与火炮平台，转向由敏捷软件架构、人工智能模型、[[Autonomous Drone Swarms|自主无人机蜂群]]与算法决策网络所驱动的新型威慑体系。[[Alexander Karp|亚历山大·卡普]]（Alexander Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas Zamiska）进一步提出“硬实力与[[Hard Belief|软信念]]”（Hard Power & Soft Belief）的辩证统一命题：现代软件硬实力无法脱离深层的伦理美德、审美品味与国家认同而孤立维系；若缺乏科技精英对国家使命的政治承诺、缺乏创始人抵御季度资本市场的长期主义定力，国家的战略硬实力底座必将面临内部空洞化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–36)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 205–218)]]
+> 在 21 世纪的智能化与软件时代，硬实力的物质载体经历了深刻演进——从依赖重工业装甲与火炮平台，转向由敏捷软件架构、人工智能模型、[[Autonomous Drone Swarms|自主无人机蜂群]]与算法决策网络所驱动的新型威慑体系。[[Alexander Karp|亚历山大·卡普]]（Alexander Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas Zamiska）进一步提出“硬实力与[[Hard Belief|软信念]]”（Hard Power & Soft Belief）的辩证统一命题：现代软件硬实力无法脱离深层的国家认同、防卫意志与战略决断而孤立维系。若一个社会解构了自身的国家认同（如战后德国对集体防卫意志的过度压制），即便坐拥庞大经济体量，也将丧失可靠的地缘威慑力；唯有依托数代人乃至“千年期”的长程战略计算、共享文化叙事与实质道德共同体，才能维系坚不可摧的硬实力威慑底座。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–36)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–204)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 205–218)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于依靠文化吸引、政治价值观与合法性制度认同的[[Soft Power|软实力]]，硬实力直接根植于物理毁灭、施加伤害与物质资源强制的可信能力。
 > - **用途** 用于分析国家间安全困境、军事军备竞赛、危机外交谈判中的议价筹码，以及国家战略科技政策与国防动员的攻防布局。
-> - **文化与组织前提** 硬实力并非孤立的技术参数，它依赖于政产研协同的[[Technological Republic|技术共和国]]机制；当工程师文化滑向[[Technological Agnosticism|技术不可知论]]或反建制冷漠时，硬实力的生产机制便会发生断裂。
+> - **文化与意志前提** 硬实力并非孤立的技术参数，它深度依赖于国家共同体的防卫意愿与政产研协同机制；当社会陷入后国家道德虚无、解构集体认同或工程师文化滑向[[Technological Agnosticism|技术不可知论]]时，硬实力的战略威慑功能将彻底失效。
 > - **边界** 硬实力不等于静态的武器库存堆叠，而是由技术研发转化效能、工程组织韧性以及在实战中施加精准强制的可[[Reliability|信度]]共同决定的动态系统能力。
 
 > [!citation-card] 21世纪硬实力的软件基石
@@ -101,10 +101,10 @@ updated: 2026-10-09
 >
 > *To be coercive, violence has to be anticipated. The power to hurt is bargaining power. To exploit it is diplomacy—vicious diplomacy, but diplomacy... War is always a bargaining process.*
 
-> [!citation-card] 奥德修斯自愿自我约束与长期[[Creativity|创造力]]
-> 对单一路径或观点的执着承诺以及对自身选项的限制，有时是应对公共生活变幻莫测与外界压力的最有效、甚至是唯一的手段。当奥德修斯要求船员在驶过塞壬女妖时将自己绑在船桅上时，他是在故意限制自己的行动自由，限制自己对外界致命诱惑做出反应的能力。随意调头的行动自由往往伪装成权力的假象；而甘愿约束选择、将自己绑在桅杆上，往往是无论是对于一家企业还是对于一种文化而言通往创造性生产的最佳乃至唯一路径。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 208–209)]]
+> [!citation-card] 国家认同消解对地缘硬实力威慑的系统性剥夺
+> 对德国认同的极度怀疑、对在战后废墟中允许任何国家感生根发芽的极力遏制，已经付出了巨大的战略代价，并使得欧洲大陆丧失了对俄罗斯侵略的可靠威慑力。在 1930 和 1940 年代德国陷入狂乱之后，对其国家工程的拆解当然是必要的。但许多人却竭力确保废墟中不再允许升起任何有实质意义的东西。这是一个错误，一个我们乃至其他国家正面临重复风险的错误。放弃对统一与共同体身份的追求，就是放弃了在长远乃至极长远尺度上生存的任何真正机会。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 204)]]
 >
-> *The commitment to a single path or point of view, and the limiting of one’s options, can sometimes be the most effective, indeed the only, means of navigating the vicissitudes and pressures of public life... A freedom of motion, to maneuver at will, can masquerade as an imitation of power. A willingness to constrain choice, to cast oneself to the mast, is often the best, if not only, route to creative production, for either a company or a culture.*
+> *An intense skepticism of German identity, of allowing any sense of the nation to take hold in the wreckage of the war, has had significant costs and deprived the continent of a credible deterrent to Russian aggression. The dismantling of a German national project was, of course, necessary... But many have strained to ensure that nothing quite substantial is permitted to [[Research in Schools Evaluation|RISE]] from the ashes. This is a mistake, and one that we, in America and other countries, are at risk of repeating.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Soft Power|软实力]]（Soft Power）：软实力依赖文化吸引与价值观同化，使对方自愿追求你所期望的目标；硬实力依赖物质强制与惩罚，直接迫使对方屈从。
@@ -121,7 +121,7 @@ updated: 2026-10-09
 > |:---|:---|:---|:---|:---|
 > | **核心物质载体** | 钢铁装甲、航空母舰、弹道导弹、火炮弹药 | 先进算法模型、[[Autonomous Drone Swarms\|自主无人机蜂群]]、侦察感知软件、算力网络 | 智能手机、社交平台、算法推荐广告、即时配送应用 | 文化艺术、意识形态、教育体系、外交声誉 |
 > | **权力作用机制** | 物理毁灭、火力覆盖与地理空间占领 | 精准打击闭环、自主目标识别、算法决策提速与电子瘫痪 | 满足微观个体消费欲望、占用注意力时长、资本变现 | 规范认同、价值同化、[[Discourse\|话语]]吸引与[[Demonstration Effect\|示范效应]] |
-> | **组织与文化底色** | 集中化军工大厂与五角大楼采办科层 | [[Technological Republic\|技术共和国]]国家动员、曼哈顿工程公私协同、创始人长期主义 | [[Counterculture Computing\|反文化计算]]、[[Hacker Ethic\|黑客伦理]]、[[Technological Agnosticism\|技术不可知论]] | 长期历史积淀与渐进文化传播 |
+> | **组织与文化底色** | 集中化军工大厂与五角大楼采办科层 | [[Technological Republic\|技术共和国]]国家动员、千年期战略决断、创始人长期主义 | [[Counterculture Computing\|反文化计算]]、[[Hacker Ethic\|黑客伦理]]、[[Technological Agnosticism\|技术不可知论]] | 长期历史积淀与渐进文化传播 |
 > | **战略安全功能** | 提供基础的大规模物理威慑底线 | 提供敏捷灵活、高精度的实时反制与战区升级控制筹码 | 脱离国家防务合作，甚至拒绝为执法与军工提供工具 | 降低合作交易成本，增强国际动员合法性 |
 
 ---
@@ -133,16 +133,19 @@ updated: 2026-10-09
 > - **危机外交与战略博弈中的底层议价筹码（Bargaining Leverage）** 如[[Thomas Schelling|托马斯·谢林]]（Thomas Schelling）所论证，暴力与武力并非纯粹的破坏工具，而是战略谈判过程中的关键杠杆；任何外交决议的达成，均取决于各方对潜在暴力后果的精细计算。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Schelling, 1966; Karp & Zamiska, 2025, p. 32)]]
 > - **敏捷软件架构、算法模型与自主蜂群（Software-Defined Autonomous Systems）** 现代硬实力已脱离纯粹的物理质量与士兵数量对比，转而取决于谁能以最快速度从海量多模态数据中提炼目标情报并协同无人化作战单元实施打击。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 29–31)]]
 > - **深科技实体制造与实战试验场闭环（Deep-Tech Manufacturing & Proving Grounds）** 软件硬实力无法悬空存在，必须依托先进制造能力与一线实战物理反馈，形成软硬件快速迭代的验证闭环。
+> - **国家认同与地缘威慑意志底座（National Identity & Deterrent Willpower）** 硬实力不单纯是硬件参数，其实战威慑力根本上取决于共同体为捍卫自身而战斗的集体意志；抽离了国家认同与防卫意志的社会，必将丧失对外威慑力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 204)]]
 > - **硬实力与[[Hard Belief|软信念]]的辩证共生（Hard Power & Soft Belief Dialectic）** 硬实力的长期维系依赖于由审美品味、崇高道德目标、全员所有权社会与[[Civic Religion|世俗公民宗教]]构成的“软信念”；缺乏精神信念与价值判断，硬实力研发将蜕变为无方向的资本消耗或被短期市场噪音所瓦解。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 205–218)]]
 
 > [!logic-map]- 现代软件硬实力生产机制与软信念共生拓扑图
 > ```mermaid
 > flowchart TD
->     A["国家战略使命与文明认同<br>（软信念与世俗公民宗教）"] --> B["顶尖科技精英与创始人长期主义<br>（奥德修斯自愿自我约束/审美品味）"]
+>     A["国家战略使命与文明认同<br>（软信念、千年期决断与公民宗教）"] --> B["顶尖科技精英与创始人长期主义<br>（奥德修斯自愿自我约束/审美品味）"]
 >     B --> C["敏捷算法软件与自主作战系统<br>(无人蜂群/智能感知/算力中枢)"]
 >     D["深科技实体制造与实战试验场<br>(规制沙盒/物理迭代闭环)"] --> C
 >     C --> E["可信的精准威慑与物理打击能力<br>(21世纪软件硬实力)"]
 >     E --> F["危机外交谈判与战略议价筹码<br>(阻止强权扩张与维护国际均势)"]
+>     A --> G["集体防卫意志与威慑可信度"]
+>     G --> F
 > ```
 
 ---
@@ -181,23 +184,25 @@ updated: 2026-10-09
 
 ---
 
-### 命题四　现代硬实力的效能取决于敏捷软件算法与深科技实体制造及试验场的深度闭环
+### 命题四　国家认同与集体防卫意志的消解将直接摧毁硬实力的地缘战略威慑效能
+
+> [!concept-lens] 共同体认同、历史创伤与威慑赤字
+> 探讨后国家去民族化思潮与过度自我道德审查如何侵蚀国家的硬实力威慑基础。
+
+> [!claim] Karp & Zamiska (2025, Ch. 17); Goh (1979)
+> **国家认同消解诱发地缘战略威慑赤字断言** 卡普与扎米斯卡结合战后德国的防务演变与新加坡《[[Goh Report|吴庆瑞报告]]》指出，硬实力不仅取决于技术装备库存，更根本地取决于国家共同体的集体防卫意志：
+> 1. **德国去国家化对欧洲威慑力的剥夺** 战后德国在瓦尔瑟-布比斯争论（[[Walser-Bubis Debate]]）所揭示的道德内疚与去国家化工程中，将对本国历史的清算演变为对国家身份与防卫意识的彻底压制，导致其常规军力严重空心化，系统性剥夺了欧洲大陆对外部地缘侵略的可靠威慑力；
+> 2. **价值观凝聚与集体利益保卫** 《吴庆瑞报告》深刻指出，一个缺乏道德价值观与共同身份认同的社会在压力下极难保持凝聚；正是对共同体命运的承诺，决定了民众在多大程度上愿意捍卫集体安全。放弃国家叙事与防卫意志，硬实力便沦为空壳。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196, 204)]]
+
+---
+
+### 命题五　现代硬实力的效能取决于敏捷软件算法与深科技实体制造及试验场的深度闭环
 
 > [!concept-lens] 工业制造基础与实战物理迭代
 > 探讨纯软件代码向实际硬实力转化过程中对深科技硬件制造能力与[[Pilot Testing|实地测试]]环境的结构性依赖。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
 > **软硬件融合与实战试验场闭环** 软件虽是现代硬实力的中枢神经，但代码本身无法击落导弹或防御无人机。高水平的战略硬实力要求建立“敏捷软件迭代 ➔ 深科技先进制造 ➔ 实战环境试验 ➔ 物理反馈优化”的完整闭环。如果一个国家仅有软件算法能力而丧失了实体制造产能、或者被僵化的官僚行政规制阻碍了实地试验，其战略威慑力将迅速退化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 39–43)]]
-
----
-
-### 命题五　科技精英与国家安全使命的文化脱嵌会导致民主政体硬实力的系统性空洞化
-
-> [!concept-lens] 政治文化基础与硬实力生产机制
-> 阐明硬实力不仅是一套武器装备，更是政产学研协同的制度产物；当文化思潮驱使技术人才拒绝防务合作时，硬实力基础将被内部瓦解。
-
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
-> **反文化脱离与硬实力空洞化** 1970 年代以来的[[Counterculture Computing|反文化计算]]与[[Hacker Ethic|黑客伦理]]将政府定性为压制[[Creativity|创造力]]的缺陷系统，推动工程师群体彻底背弃了[[Vannevar Bush|万尼瓦尔·布什]]与[[J. Robert Oppenheimer|奥本海默]]确立的技术服务国家战略传统。技术精英将才华全面转向个人消费设备与[[Consumer Internet|消费互联网]]广告算法，在面对专制大国的地缘安全威胁时陷入深度的[[Technological Agnosticism|技术不可知论]]冷漠，导致民主社会在算法战与前沿国防科技上出现严重的能力亏空。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–102)]]
 
 ---
 
@@ -222,8 +227,8 @@ updated: 2026-10-09
 > | **伤害潜能与谈判议价** | 武力伤害的预期性构成外交谈判与战略博弈的底层杠杆 | 危机外交、核威慑与军控博弈 | [[Thomas Schelling\|Schelling (1966)]]; [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
 > | **软件定义硬实力** | 21 世纪硬实力决胜于算法模型、自主蜂群与数据处理的迭代速度 | 现代智能化战争、算法战与国防科技政策 | Karp & Zamiska (2025, Ch. 3) |
 > | **赢家谬误与硬实力基石** | 制度软实力无法替代物质强制威慑，忽视硬实力底座将引发战略脆弱性 | 国家大战略、国际秩序演变与地缘冲突评估 | Karp & Zamiska (2025, Ch. 2); Fukuyama (1992) |
+> | **国家认同与威慑意志** | 压制国家认同与防卫意志将直接摧毁硬实力的战略威慑功能 | 联盟防御战略、历史创伤清算与地缘安全重建 | Karp & Zamiska (2025, Ch. 17); Goh (1979) |
 > | **软硬件与试验场闭环** | 现代硬实力效能依赖算法软件与深科技实体制造及实战反馈的深度融合 | 国防采办改革、先进制造业政策与[[Regulatory Sandbox\|规制沙盒]] | Karp & Zamiska (2025, Ch. 4, 7) |
-> | **文化认同与硬实力生产** | 科技精英背弃国家安全使命将直接导致国家战略硬实力的内部空洞化 | 科技政策、工程师文化、军民融合与科技伦理 | Karp & Zamiska (2025, Ch. 8) |
 > | **软信念与硬实力共生** | 审美品味、创始人长期主义与全员所有权构成维系软件硬实力的终极文化底座 | 科技企业治理、国家文化建设、长周期战略竞争 | Karp & Zamiska (2025, Ch. 18) |
 
 ---
@@ -236,7 +241,7 @@ updated: 2026-10-09
 > - **1970 年代 — [[Counterculture Computing|反文化计算]]的分离与挑战** 黑客文化明确拒绝为军工机构研发武器，开启了硅谷与国家硬实力建设的历史性脱节。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–100)]]
 > - **1990 年代 — 软硬实力二元区分与冷战后[[Winner's Fallacy|赢家谬误]]** [[Joseph S. Nye Jr.|约瑟夫·奈]]系统界定硬实力与[[Soft Power|软实力]]的边界；西方社会普遍陷入过度依赖软实力的胜者谬误，放任硬实力制造底座萎缩。
 > - **2000 年代 — [[Consumer Internet|消费互联网]]对硬科技资源的虹吸** 硅谷科技精英全面滑向以广告变现和日常便利为导向的消费互联网，国家安全与硬实力技术研发被边缘化。
-> - **2020 年代 — 智能化时代的硬实力重塑与[[Hard Belief|软信念]]共生** 卡普与扎米斯卡系统论证以敏捷软件与人工智能重构硬实力，并在《[[Technological Republic|技术共和国]]》终章确立硬实力与软信念的共生体系。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025)]]
+> - **2020 年代 — 智能化时代的硬实力重塑与[[Hard Belief|软信念]]共生** 卡普与扎米斯卡系统论证以敏捷软件与人工智能重构硬实力，并在《[[Technological Republic|技术共和国]]》（Ch. 17–18）确立硬实力、国家认同防卫意志与软信念的共生体系。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025)]]
 
 ---
 
@@ -273,6 +278,7 @@ updated: 2026-10-09
 > |---|---|---|---|---|
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01\|Karp & Zamiska (2025, pp. 4–8)]] | 1940 年代美国[[Manhattan Project\|曼哈顿工程]] | [[Big Science\|大科学]]动员与物理威慑 | 汇聚顶尖理论物理学家与数百亿美元国家制造产能，在极短周期内造出原子弹，确立战后核威慑硬实力 | 奠定国家资助基础科学与国防工业同盟的经典大[[Scientific Paradigm\|科学范式]] |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03\|Karp & Zamiska (2025, pp. 29–32)]] | 2022 年至今俄乌战场实战检验 | 软件定义战争与无人蜂群 | 商用微型无人机经开源算法改装协同作战，结合实时卫星与战场感知软件，多次击溃传统重装甲集群 | 证实敏捷算法与低成本自主系统对传统动能重型武器形成非对称代际优势 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17\|Karp & Zamiska (2025, p. 204)]] | 战后欧洲地缘防务演变（德国去国家化案例） | 国家认同与常规威慑意志 | 战后过度压制国家认同与防卫意志导致德国常规军力严重萎缩，直接剥夺了欧洲大陆对外部侵略的可靠威慑力 | 证实缺乏共同体认同与防卫意志的硬实力必然空心化 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13\|Karp & Zamiska (2025, pp. 139–144)]] | 2011–2012 年阿富汗战地反 IED 战争 | 物理装甲极限与数据驱动硬实力 | 斥资 250 亿美元采购 24000 辆 MRAP 重装甲车仍受制于 300 美元化肥炸弹；前线急需多源情报实时缝合分析软件 | 证明现代硬实力已无法单靠增加物理钢铁厚度实现，必须依托敏捷软件与[[Commercial Off-The-Shelf\|商用现货]]算法支撑 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|Fahlenbrach (2009)]] | 1992–2002 年间 2327 家美国上市公司 | 创始人管理与长期资本超额收益 | 创始人担任 CEO 的企业投资组合年化超额回报达 10.7%，较全市场基准高出 4.4% | 实证揭示创始人掌舵在维系长期战略研发投入与超额[[Return on Investment\|投资回报]]上的制度优势 |
 
@@ -281,16 +287,6 @@ updated: 2026-10-09
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - **[[Technological Republic|技术共和国]]大战略与软件硬实力体系** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] 系统建构 21 世纪软件硬实力理论，剖析[[Winner's Fallacy|胜者谬误]]、试验场闭环、[[Cultural Disembedding|文化脱嵌]]、[[Commercial Off-The-Shelf|商用现货]]采购机制、[[Engineering Mindset|工程思维]][[Epistemology|认识论]]底座与[[Hard Belief|软信念]]共生。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Ch. 1)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Ch. 3)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Ch. 13)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Ch. 18)]]
+> - **[[Technological Republic|技术共和国]]大战略与软件硬实力体系** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] 系统建构 21 世纪软件硬实力理论，剖析[[Winner's Fallacy|胜者谬误]]、试验场闭环、国家认同防卫意志、[[Commercial Off-The-Shelf|商用现货]]采购机制与[[Hard Belief|软信念]]共生。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Ch. 1)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Ch. 3)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Ch. 17)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Ch. 18)]]
 > - **[[Strategic Bargaining Theory|强制外交与战略议价理论]]** Schelling (1966) 在《武器与影响》中奠定硬实力的战略博弈论基础，阐明暴力的威慑与议价功能在于其尚未施加但对手预期的伤害潜能。
 > - **[[Soft Power|软实力]]与硬实力概念二元框架** Nye (2004) 在《软实力：在世界政治中获得成功的途径》中系统界定硬实力与软实力的对偶关系。
-
----
-
-## 参考文献
-
-- Fahlenbrach, R. (2009). Founder-CEOs, investment decisions, and stock market performance. *Journal of Financial and Quantitative Analysis*, 44(2), 439–466.
-- Fukuyama, F. (1992). *[[End of History Thesis|The End of History]] and the Last Man*. New York: Free Press.
-- [[Alexander Karp|Karp, A. C.]], & Zamiska, N. W. (2025). *The [[Technological Republic]]: Hard Power, [[Hard Belief|soft belief]], and the Future of the West*. New York: Crown Currency.
-- Nye, J. S., Jr. (2004). *[[Soft Power]]: The Means to Success in World Politics*. New York: PublicAffairs.
-- Schelling, T. C. (1966). *Arms and Influence*. New Haven, CT: Yale University Press.

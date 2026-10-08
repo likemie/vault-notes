@@ -27,7 +27,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Paradigm]]"
   - "[[Hard Power]]"
-  - "[[Hard Belief]]"
 related_theories:
   - "[[Pluralism]]"
 related_methods: []
@@ -36,7 +35,6 @@ related_persons:
   - "[[Robert Bellah]]"
   - "[[William H. McNeill]]"
   - "[[Jean-Jacques Rousseau]]"
-  - "[[Alexander Karp]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07]]"
@@ -166,12 +164,3 @@ updated: 2026-10-09
 >
 > > [!axis] 世俗化与传统宗教信仰的张力
 > > 保守派神学家质疑世俗公民宗教篡夺了神圣崇拜并导致真信仰被国家工具化；现代政治哲学家则反驳指出，在政教分离的现代社会，公民宗教是唯一能够协调不同信仰群体的和平公约数。
-
----
-
-## 参考文献
-
-- Bellah, R. N. (1967). Civil religion in America. *Daedalus*, 96(1), 1–21.
-- [[Alexander Karp|Karp, A. C.]], & Zamiska, N. W. (2025). *The [[Technological Republic]]: [[Hard Power]], [[Hard Belief|soft belief]], and the future of the West*. New York: Crown Currency.
-- McNeill, W. H. (1986). *Mythistory and other essays*. Chicago: University of Chicago Press.
-- Smith, J. K. A. (2017). *Awaiting the king: Reforming public theology*. Grand Rapids, MI: Baker Academic.

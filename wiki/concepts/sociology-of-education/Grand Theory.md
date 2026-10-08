@@ -53,7 +53,6 @@ related_concepts:
   - "[[Determinism]]"
   - "[[General Education]]"
   - "[[Cognitive Decoupling]]"
-  - "[[Hard Belief]]"
 related_theories:
   - "[[End of History Thesis]]"
   - "[[Structural Functionalism]]"
@@ -78,8 +77,6 @@ related_persons:
   - "[[Nicholas Zamiska]]"
   - "[[Elon Musk]]"
   - "[[Kwame Anthony Appiah]]"
-  - "[[Louis Cohen]]"
-  - "[[Lawrence Manion]]"
 related_facts:
   - "[[Apollo Program]]"
   - "[[Research in Schools Evaluation]]"
@@ -309,12 +306,3 @@ updated: 2026-10-09
 > | [[Kwame Anthony Appiah]] | Person | 哲学家，批判西方文明宏大叙事的后验虚构性与理想化神话。 |
 > | [[Lee Kuan Yew]] | Person | 新加坡建国总理，提出着眼于未来一千年的宏大国家生存战略。 |
 > | [[Thomas Carlyle]] | Person | 历史学家，系统阐发以英雄正典为核心的历史宏大理论。 |
-
----
-
-## 参考文献
-
-- Carlyle, T. (1908). *On heroes, hero-worship, and the heroic in history*. London: J. M. Dent & Sons. (Original work published 1841)
-- [[Louis Cohen|Cohen, L.]], [[Lawrence Manion|Manion, L.]], & Morrison, K. (2011). *Research methods in education* (7th ed.). London: Routledge.
-- [[Alexander Karp|Karp, A. C.]], & Zamiska, N. W. (2025). *The [[Technological Republic]]: [[Hard Power]], [[Hard Belief|soft belief]], and the future of the West*. New York: Crown Currency.
-- McNeill, W. H. (1986). *Mythistory and other essays*. Chicago: University of Chicago Press.

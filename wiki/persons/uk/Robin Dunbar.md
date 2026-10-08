@@ -20,12 +20,9 @@ tags:
   - theme/social-cognition
   - region/uk
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Dunbar's Number]]"
-  - "[[Paradigm]]"
   - "[[Technological Republic]]"
-  - "[[Hard Power]]"
-  - "[[Hard Belief]]"
+  - "[[Civic Religion]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods:
@@ -34,11 +31,12 @@ related_instruments: []
 related_persons:
   - "[[Benedict Anderson]]"
   - "[[Alexander Karp]]"
+  - "[[Nicholas Zamiska]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
 confidence: high
-status: draft
+status: active
 created: 2026-10-08
 updated: 2026-10-09
 ---
@@ -50,12 +48,12 @@ updated: 2026-10-09
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 英国人类学家、演化心理学家，牛津大学实验心理学系进化心理学荣休教授，英国国家学术院院士（FBA）。
-> - **核心角色** 演化人类学与社会脑假说（Social Brain [[Hypothesis|Hypothesis]]）的开创性学者，在灵长类梳毛行为、大脑认知负荷与人类群体规模研究中承担奠基性节点功能。
+> - **身份位置** 英国人类学家、演化心理学家，牛津大学实验心理学系进化心理学荣休教授，英国国家学术院院士（Fellow of the British Academy, FBA）。
+> - **核心角色** 演化人类学与社会脑假说（Social Brain Hypothesis）的开创性学者，在灵长类梳毛行为、大脑认知负荷与人类群体规模研究中承担奠基性节点功能。
 > - **代表贡献** 提出[[Dunbar's Number|邓巴数]]（150定律），论证了大脑新皮质对人类稳定面对面社交规模的生物学硬约束。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
 
 > [!citation-card]- 人物定位的关键来源
-> 邓巴 1947 年出生于利物浦并在牛津大学任教，他指出 150 人的大致上限不仅适用于原始部落，在罗马军团的战术编制以及现代企业的业务部门等诸多情境中同样发挥着作用。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
+> 邓巴（Robin Dunbar）1947 年出生于利物浦并在牛津大学任教，他指出 150 人的大致上限不仅适用于原始部落，在罗马军团的战术编制以及现代企业的业务部门等诸多情境中同样发挥着作用。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
 >
 > *Dunbar, who was born in Liverpool in 1947 and taught at Oxford, has noted that the rough upper bound of 150 individuals seems to operate in other contexts, including the size of military formations within the Roman army as well as modern business units in companies.*
 
@@ -67,7 +65,7 @@ updated: 2026-10-09
 > - **1947** 出生于英国利物浦，后就读于牛津大学莫德林学院并获得博士学位。
 > - **1993** 发表里程碑论文《人类新皮质大小、群体规模与语言的协同演化》（*Co-evolution of Neocortex Size, Group Size, and Language in Humans*），正式确立[[Dunbar's Number|邓巴数]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
 > - **1998–2007** 担任利物浦大学进化心理学教授。
-> - **2007–2018** 出任牛津大学认知与进化[[Ethnography|人类学研究]]所所长。
+> - **2007–2018** 出任牛津大学认知与进化人类学研究所所长。
 
 ---
 
@@ -95,9 +93,12 @@ updated: 2026-10-09
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **认知神经科学与演化心理学路径** 奠定了社会脑假说，成为解释人类社交网络分层结构的标准分析[[Paradigm|范式]]。
+> - **认知神经科学与演化心理学路径** 奠定了社会脑假说，成为解释人类社交网络分层结构的标准分析范式。
 > - **组织管理与军事编制路径** 深刻影响了现代敏捷组织的小团队裂变管理以及现代军队战术编制设计。
 > - **国家建构与政治哲学路径** 卡普与扎米斯卡借用[[Dunbar's Number|邓巴数]]论证，国家认同与共享文化叙事是克服生物学认知上限、实现现代科技与防卫协同的生命线。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
+
+> [!evidence-grid-a]- 相关研究索引
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 结合邓巴数生物学认知上限，论述大规模现代国家维系共同体叙事的必要性。
 
 ---
 
@@ -121,8 +122,12 @@ updated: 2026-10-09
 
 ---
 
-## 参考文献
+## 条目关联
 
-- Dunbar, R. I. M. (1993). Coevolution of neocortical size, group size and language in humans. *Behavioral and Brain Sciences*, 16(4), 681–735.
-- Dunbar, R. I. M. (1996). *Grooming, gossip, and the evolution of language*. Cambridge, MA: Harvard University Press.
-- [[Alexander Karp|Karp, A. C.]], & Zamiska, N. W. (2025). *The [[Technological Republic]]: [[Hard Power]], [[Hard Belief|soft belief]], and the future of the West*. New York: Crown Currency.
+> [!entry-map]
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Dunbar's Number\|邓巴数]] | 概念 | 邓巴于 1993 年提出的关于人类群体规模认知上限的核心概念。 |
+> | [[Imagined Community\|想象的共同体]] | 理论 | 为安德森的超熟人共同体语言建构假说提供了神经认知基础。 |
+> | [[Technological Republic\|技术共和国]] | 概念 | 卡普引用邓巴数论证克服认知上限、构建大规模科技共和国的精神文化机制。 |

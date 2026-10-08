@@ -24,8 +24,6 @@ tags:
 related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Hard Power]]"
-  - "[[Technological Republic]]"
-  - "[[Hard Belief]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods: []
@@ -34,7 +32,6 @@ related_persons:
   - "[[Martin Walser]]"
   - "[[Ignatz Bubis]]"
   - "[[Jürgen Habermas]]"
-  - "[[Alexander Karp]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
@@ -118,11 +115,3 @@ updated: 2026-10-09
 >
 > > [!axis] 战后欧洲国家能力与安全意志反思
 > > 卡普与扎米斯卡认为，欧洲在战后长期将任何国家自信等同于军国主义残余，这种自我抑制造成了严重的文化虚无与地缘防务真空。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 203–204)]]
-
----
-
-## 参考文献
-
-- Kamenetzky, D. A. (1999). The debate on national identity and the [[Martin Walser]] speech: How does Germany reckon with its past? *SAIS Review*, 19(2), 257–266.
-- [[Alexander Karp|Karp, A. C.]], & Zamiska, N. W. (2025). *The [[Technological Republic]]: [[Hard Power]], [[Hard Belief|soft belief]], and the future of the West*. New York: Crown Currency.
-- Walser, M. (1998). *Erfahrungen beim Verfassen einer Sonntagsrede*. Frankfurt am Main: Suhrkamp.

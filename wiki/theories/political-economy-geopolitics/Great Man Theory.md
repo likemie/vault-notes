@@ -29,8 +29,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Document]]"
   - "[[Discourse]]"
-  - "[[Hard Power]]"
-  - "[[Hard Belief]]"
 related_theories:
   - "[[Organizational Culture]]"
 related_methods: []
@@ -40,7 +38,6 @@ related_persons:
   - "[[Lee Kuan Yew]]"
   - "[[J. Robert Oppenheimer]]"
   - "[[Hyman Rickover]]"
-  - "[[Alexander Karp]]"
 related_facts:
   - "[[Speak Mandarin Campaign]]"
   - "[[Manhattan Project]]"
@@ -140,11 +137,3 @@ updated: 2026-10-09
 >
 > > [!axis] 民主制衡 vs 领袖决断之争
 > > 自由主义宪政学者担忧对伟人的过度崇拜可能侵蚀法治与分权制衡机制；而战略现实主义者则强调，在科技颠覆与生死存亡关头，缺乏强有力领导力将使民主政体在专制对手面前陷入致命瘫痪。
-
----
-
-## 参考文献
-
-- Carlyle, T. (1908). *On heroes, hero-worship, and the heroic in history*. London: J. M. Dent & Sons. (Original work published 1841)
-- [[Alexander Karp|Karp, A. C.]], & Zamiska, N. W. (2025). *The [[Technological Republic]]: [[Hard Power]], [[Hard Belief|soft belief]], and the future of the West*. New York: Crown Currency.
-- Kissinger, H. (2000). Foreword. In K. Y. Lee, *From third world to first: The Singapore story: 1965–2000*. New York: HarperCollins.

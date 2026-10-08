@@ -24,7 +24,6 @@ related_concepts:
   - "[[Global Citizenship]]"
   - "[[Technological Republic]]"
   - "[[Hard Power]]"
-  - "[[Hard Belief]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods: []
@@ -151,10 +150,3 @@ updated: 2026-10-09
 >
 > > [!axis] 历史遗忘的道德正当性之争
 > > [[Critical Theory|批判理论]]与后殖民学者批评勒南提倡的“战略遗忘”可能成为遮蔽历史暴行、压制少数群体正义诉求的意识形态工具。
-
----
-
-## 参考文献
-
-- [[Alexander Karp|Karp, A. C.]], & Zamiska, N. W. (2025). *The [[Technological Republic]]: [[Hard Power]], [[Hard Belief|soft belief]], and the future of the West*. New York: Crown Currency.
-- Renan, E. (2018). *What is a nation? and other political writings* (M. F. N. Giglioli, Ed. & Trans.). New York: Columbia University Press. (Original work published 1882)

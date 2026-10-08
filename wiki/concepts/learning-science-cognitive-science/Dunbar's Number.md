@@ -22,16 +22,12 @@ tags:
 related_concepts:
   - "[[Bureaucracy]]"
   - "[[Determinism]]"
-  - "[[Technological Republic]]"
-  - "[[Hard Power]]"
-  - "[[Hard Belief]]"
 related_theories:
   - "[[Pluralism]]"
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Robin Dunbar]]"
-  - "[[Alexander Karp]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
@@ -151,11 +147,3 @@ updated: 2026-10-09
 >
 > > [!axis] 数字社交媒体对认知上限的重构争论
 > > 数字技术倡导者主张算法推荐与社交网络工具能够极大扩展人类的社交认知带宽；而演化心理学者坚持认为，尽管算法可以增加弱连接数量，但深度互信的强连接上限依然牢固受制于邓巴数。
-
----
-
-## 参考文献
-
-- Dunbar, R. I. M. (1992). Neocortex size as a constraint on group size in primates. *Journal of Human Evolution*, 22(6), 469–493.
-- Dunbar, R. I. M. (1993). Coevolution of neocortical size, group size and language in humans. *Behavioral and Brain Sciences*, 16(4), 681–735.
-- [[Alexander Karp|Karp, A. C.]], & Zamiska, N. W. (2025). *The [[Technological Republic]]: [[Hard Power]], [[Hard Belief|soft belief]], and the future of the West*. New York: Crown Currency.

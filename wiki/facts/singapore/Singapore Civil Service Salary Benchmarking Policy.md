@@ -27,11 +27,8 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Competitiveness]]"
   - "[[Technological Republic]]"
-  - "[[Hard Power]]"
-  - "[[Hard Belief]]"
 related_persons:
   - "[[Lee Kuan Yew]]"
-  - "[[Alexander Karp]]"
 related_facts:
   - "[[World Bank]]"
 related_arguments:
@@ -144,10 +141,3 @@ updated: 2026-10-09
 > |:-----|:-----|:-----|
 > | [[Lee Kuan Yew]] | 人物 | 主导创立新加坡公职薪酬市场化对标体系，提出务实治理哲学。 |
 > | [[Technological Republic]] | 概念 | 卡普与扎米斯卡将其作为重构技术共和国公共激励、克服公职禁欲悖论的标杆模式。 |
-
----
-
-## 参考文献
-
-- Government of Singapore. (1994). *Competitive salaries for competent & honest government: Benchmarks for ministers & senior public officers* (White Paper Cmd. 13 of 1994). Singapore: Prime Minister's Office.
-- [[Alexander Karp|Karp, A. C.]], & Zamiska, N. W. (2025). *The [[Technological Republic]]: [[Hard Power]], [[Hard Belief|soft belief]], and the future of the West*. New York: Crown Currency.

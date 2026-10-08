@@ -23,9 +23,6 @@ tags:
   - region/singapore
 related_concepts:
   - "[[Attrition]]"
-  - "[[Technological Republic]]"
-  - "[[Hard Power]]"
-  - "[[Hard Belief]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Imagined Community]]"
@@ -33,7 +30,6 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Lee Kuan Yew]]"
-  - "[[Alexander Karp]]"
 related_facts:
   - "[[Goh Report]]"
 related_arguments:
@@ -144,10 +140,3 @@ updated: 2026-10-09
 > | [[Goh Report]] | 事实 | 1979 年提出教育改革方案，为讲华语运动提供了直接的数据诊断与政策蓝图。 |
 > | [[Lee Kuan Yew]] | 人物 | 讲华语运动的最高发起人与坚定推动者。 |
 > | [[Imagined Community]] | 理论 | 讲华语运动是国家主动制造语言纽带与共享政治想象的经典范例。 |
-
----
-
-## 参考文献
-
-- [[Alexander Karp|Karp, A. C.]], & Zamiska, N. W. (2025). *The [[Technological Republic]]: [[Hard Power]], [[Hard Belief|soft belief]], and the future of the West*. New York: Crown Currency.
-- Lee, K. Y. (2000). *From third world to first: The Singapore story: 1965–2000*. New York: HarperCollins.
