@@ -8,10 +8,10 @@ summary: "美国思想家、散文家与诗人，19世纪超验主义运动领�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 14
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1803"
 died: "1882"
 lifespan: "1803–1882"

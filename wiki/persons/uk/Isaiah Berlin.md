@@ -8,10 +8,10 @@ summary: "英国哲学家与思想史家，牛津大学教授、沃尔夫森学�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 11
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 18
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1909"
 died: "1997"
 lifespan: "1909–1997"
