@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch13"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch13"
 argument_display_title: "“Building a Better Rifle”"
 argument_kind: "book-chapter"
-argument_related_count: 23
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -56,7 +56,6 @@ related_methods: []
 related_facts:
   - "[[Federal Acquisition Streamlining Act of 1994]]"
   - "[[Palantir Technologies]]"
-  - "[[Research Excellence Framework]]"
 related_arguments: []
 confidence: high
 status: draft
@@ -83,7 +82,7 @@ updated: 2026-10-08
 >
 > - **开发人员脱离一线需求导致系统低效：多层转包与冗长规划使定制软件无法适应战地实战**
 >
->   对比二战时期格鲁曼公司工程师与飞行员直接沟通（研制出 F6F 地狱猫战斗机）的经验，分析传统军工承包商程序员身处后方办公室、缺乏一线实地反馈的弊端；记录美军第82空降师情报人员绕过繁琐程序向快速装备部队（Rapid Equipping Force, [[Research Excellence Framework|REF]]）申请实用软件的经过（pp. 141–143）。
+>   对比二战时期格鲁曼公司工程师与飞行员直接沟通（研制出 F6F 地狱猫战斗机）的经验，分析传统军工承包商程序员身处后方办公室、缺乏一线实地反馈的弊端；记录美军第82空降师情报人员绕过繁琐程序向快速装备部队（Rapid Equipping Force, REF）申请实用软件的经过（pp. 141–143）。
 >
 > - **兵役制度演变拉大政治精英与战场风险的距离：全志愿兵役制下国家对前线人员负有充分保障的责任**
 >

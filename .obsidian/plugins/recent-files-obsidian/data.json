@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Nicholas Zamiska",
-      "path": "wiki/persons/us/Nicholas Zamiska.md"
-    },
-    {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch13",
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch13.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md"
+    },
+    {
+      "basename": "TEMPLATE-SPEC",
+      "path": "wiki/templates/TEMPLATE-SPEC.md"
+    },
+    {
+      "basename": "CALLOUTS-PREVIEW",
+      "path": "wiki/templates/CALLOUTS-PREVIEW.md"
+    },
+    {
+      "basename": "template-argument-monograph",
+      "path": "wiki/templates/template-argument-monograph.md"
+    },
+    {
+      "basename": "template-argument-edited-volume",
+      "path": "wiki/templates/template-argument-edited-volume.md"
+    },
+    {
+      "basename": "Research Excellence Framework",
+      "path": "wiki/facts/uk/Research Excellence Framework.md"
+    },
+    {
+      "basename": "Technological Republic",
+      "path": "wiki/concepts/political-economy-geopolitics/Technological Republic.md"
+    },
+    {
+      "basename": "Consumer Internet",
+      "path": "wiki/concepts/political-economy-geopolitics/Consumer Internet.md"
+    },
+    {
+      "basename": "Palantir Technologies",
+      "path": "wiki/facts/us/Palantir Technologies.md"
+    },
+    {
+      "basename": "John Glenn",
+      "path": "wiki/persons/us/John Glenn.md"
+    },
+    {
+      "basename": "Nicholas Zamiska",
+      "path": "wiki/persons/us/Nicholas Zamiska.md"
     },
     {
       "basename": "Alexander Karp",
@@ -45,10 +85,6 @@
       "path": "wiki/concepts/educational-leadership-administration/Constructive Disobedience.md"
     },
     {
-      "basename": "Technological Republic",
-      "path": "wiki/concepts/political-economy-geopolitics/Technological Republic.md"
-    },
-    {
       "basename": "Stanley Milgram",
       "path": "wiki/persons/us/Stanley Milgram.md"
     },
@@ -63,10 +99,6 @@
     {
       "basename": "Swarm Intelligence",
       "path": "wiki/concepts/learning-science-cognitive-science/Swarm Intelligence.md"
-    },
-    {
-      "basename": "Palantir Technologies",
-      "path": "wiki/facts/us/Palantir Technologies.md"
     },
     {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch11",
@@ -145,10 +177,6 @@
       "path": "wiki/concepts/political-economy-geopolitics/Total Factor Productivity.md"
     },
     {
-      "basename": "Consumer Internet",
-      "path": "wiki/concepts/political-economy-geopolitics/Consumer Internet.md"
-    },
-    {
       "basename": "J. Robert Oppenheimer",
       "path": "wiki/persons/us/J. Robert Oppenheimer.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Steve Jobs",
       "path": "wiki/persons/us/Steve Jobs.md"
-    },
-    {
-      "basename": "Cognitive Decoupling",
-      "path": "wiki/concepts/educational-philosophy/Cognitive Decoupling.md"
-    },
-    {
-      "basename": "Culture of Disbelief",
-      "path": "wiki/concepts/sociology-of-education/Culture of Disbelief.md"
-    },
-    {
-      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch06",
-      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch06.md"
-    },
-    {
-      "basename": "Manuel Castells",
-      "path": "wiki/persons/spain/Manuel Castells.md"
-    },
-    {
-      "basename": "Grand Theory",
-      "path": "wiki/concepts/sociology-of-education/Grand Theory.md"
-    },
-    {
-      "basename": "Value Neutrality",
-      "path": "wiki/concepts/educational-philosophy/Value Neutrality.md"
-    },
-    {
-      "basename": "Aristotle",
-      "path": "wiki/persons/greece/Aristotle.md"
     }
   ],
   "omittedPaths": [],

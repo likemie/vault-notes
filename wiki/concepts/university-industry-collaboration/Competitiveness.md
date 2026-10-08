@@ -81,11 +81,11 @@ related_persons:
   - "[[Erich Bloch]]"
   - "[[Michael Kratsios]]"
 related_facts:
-  - "[[Research Excellence Framework]]"
   - "[[Office of Science and Technology Policy]]"
   - "[[Competitive Semiconductor Manufacturing Program]]"
   - "[[Engineering Research Centers]]"
   - "[[CHIPS and Science Act]]"
+  - "[[Research Excellence Framework]]"
   - "[[EUV LLC]]"
   - "[[Accelerating Medicines Partnership]]"
   - "[[Reading Excellence Act]]"
@@ -122,7 +122,7 @@ updated: 2026-10-08
 >
 > 该[[Construct|构念]]在当代跨学科科技政策、高等教育学与政治经济学中包含三个紧密嵌套的层级构型：
 > 1. **宏观国家战略与实体制造竞争力（Macro National & Manufacturing Competitiveness）** 指国家在全球经贸与地缘博弈中确立并维系工业技术主权与先进制程制造能力的综合实力。在此维度下，竞争力作为国家科技政策转型的合法性中枢，驱动科研体系破除规制行政阻滞、开放共享试验场与[[Megascience Installations|大科学装置]]、组建前竞争技术联合体，将基础科学发现深度锚定于本土先进制造与产业链闭环。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 33–46)]]; [[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 367)]]
-> 2. **中观大学机构治理与地缘声誉竞争力（Meso Institutional & Higher Education Competitiveness）** 指一种重新组织大学及学者行为的治理装置：在科研端通过多用途跨学科研究中心（MMURC）对接国家战略需求；在评价端通过[[Global Universities Rankings|全球大学排名]]、卓越计划（如英国 [[Research Excellence Framework|REF]]、德国卓越战略）与指标审计，将大学转化为彼此争夺声誉、生源和资源的竞争性市场主体，重塑学术卓越的标准。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 219–220)]]
+> 2. **中观大学机构治理与地缘声誉竞争力（Meso Institutional & Higher Education Competitiveness）** 指一种重新组织大学及学者行为的治理装置：在科研端通过多用途跨学科研究中心（MMURC）对接国家战略需求；在评价端通过[[Global Universities Rankings|全球大学排名]]、卓越计划（如英国 REF、德国卓越战略）与指标审计，将大学转化为彼此争夺声誉、生源和资源的竞争性市场主体，重塑学术卓越的标准。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 219–220)]]
 > 3. **微观劳动力技能与个体学业竞争力（Micro Student & Workforce Competitiveness）** 指在数字化治理与[[Human Capital Theory|人力资本]]框架下，通过[[Learning Analytics|学习分析]]、在线自评与产线组织学习，将学业不确定性转化为可干预的数据，培养具备自我优化能力的[[Promising Student|有前景的学生]]与高素质工程技术劳动力。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 220–221)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 117–118)]]
 
 > [!concept-lens] 概念透镜

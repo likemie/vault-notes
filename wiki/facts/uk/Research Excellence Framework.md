@@ -1,7 +1,6 @@
 ---
 title: Research Excellence Framework
 aliases:
-  - REF
   - RAE
   - Research Assessment Exercise
   - 研究卓越框架
@@ -18,7 +17,7 @@ fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
 related_count: 14
 related_level: 2
-related_stars: "⭐⭐"
+related_stars: ⭐⭐
 related_color: "#fde68a"
 tags:
   - region/uk
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-09-18
+updated: 2026-10-08
 ---
 
 # Research Excellence Framework

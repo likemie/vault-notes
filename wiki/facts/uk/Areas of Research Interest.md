@@ -12,7 +12,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -34,13 +34,12 @@ related_persons: []
 related_facts:
   - "[[Government Office for Science]]"
   - "[[Rothschild Report 1971]]"
-  - "[[Research Excellence Framework]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05]]"
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-10-08
 ---
 
 # Areas of Research Interest
@@ -74,7 +73,7 @@ updated: 2026-09-04
 
 > [!feature] 塑造教育学与学术研究生态的三大维度
 > - **英国教育部重点研究领域清单（DfE ARIs）的标杆作用** 英国教育部常态化发布其核心政策问题清单（涵盖教师留任机制、早期儿童发展、职业技能培训及数字技术进课堂等），成为英国教育学界申请重大课题与规划政策影响力的黄金指引。
-> - **引导大学科研卓越框架（[[Research Excellence Framework\|REF]]）影响力构建** 高校学者依托与特定部委 ARIs 的对齐，能够清晰证明其学术发现如何实质性改善了公共政策，为其构建高质量 REF 影响案例（Impact Case Studies）提供权威官方佐证。
+> - **引导大学科研卓越框架（REF）影响力构建** 高校学者依托与特定部委 ARIs 的对齐，能够清晰证明其学术发现如何实质性改善了公共政策，为其构建高质量 REF 影响案例（Impact Case Studies）提供权威官方佐证。
 > - **赋能青年学者与博士生政策训练** 各大高校与资助机构利用 ARIs 设立政策实习生（Policy Internships）与议会学术研究员计划，推动早期科研人员直接参与真实世界政策证据的生产。
 
 ---

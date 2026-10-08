@@ -52,7 +52,7 @@ updated: 2026-10-06
 
 > [!concept-lens] 概念透镜
 > - **关注焦点** 师生教学与学术科研关系从“伦理与信任”向“契约与审计”的转变。
-> - **制度推手** [[New Public Management\|新公共管理]]（NPM）中[[External Auditor\|外部审计]]机制的泛滥（如 [[Research Excellence Framework\|REF]]/RAE 评估、QAA 教学评估）。
+> - **制度推手** [[New Public Management\|新公共管理]]（NPM）中[[External Auditor\|外部审计]]机制的泛滥（如 REF/[[Research Excellence Framework|RAE]] 评估、QAA 教学评估）。
 > - **日常表现** 以工作量表、课程手册文档存档、以及可量化社会影响（impact）指标来规范和驯化学术活动。
 
 ---

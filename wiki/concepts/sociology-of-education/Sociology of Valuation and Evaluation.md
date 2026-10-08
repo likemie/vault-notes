@@ -7,10 +7,10 @@ aliases:
 summary: "Lamont (2012) 概括的研究领域，关注排名和绩效测量如何同时完成资源分配、合法性制造和不平等正当化三重操作，为理解学术评估的非预期效应提供经验基础"
 type: concept
 domain: "sociology-of-education"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - sociology-of-evaluation
   - higher-education
@@ -31,14 +31,13 @@ related_theories:
 related_methods:
   - "[[Discourse Analysis]]"
 related_persons: []
-related_facts:
-  - "[[Research Excellence Framework]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Sociology of Valuation and Evaluation
@@ -81,7 +80,7 @@ updated: 2026-10-07
 > [!note]-
 > [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017)]]将评估与赋值社会学置于其多维分析策略的一个关键交叉点上（pp.798–799, 801–802, 807–809）：
 >
-> - **连接分配冲突与[[Discursive Stratification\|话语分层]]** 评估工具（排名、[[Research Excellence Framework\|REF]]、影响因子）同时运作在物质维度（决定拨款的分配）和符号维度（定义什么是"卓越"）——评估与赋值社会学提供了同时追踪这两个维度的分析工具
+> - **连接分配冲突与[[Discursive Stratification\|话语分层]]** 评估工具（排名、REF、影响因子）同时运作在物质维度（决定拨款的分配）和符号维度（定义什么是"卓越"）——评估与赋值社会学提供了同时追踪这两个维度的分析工具
 > - **揭示准市场的运作逻辑** 高等教育中的 准市场 正是通过评估工具来实现的——标准化产出指标 → 指标与拨款挂钩 → 制度化马太效应。评估与赋值社会学为理解这一链条中的每一环提供了经验研究基础
 > - **为三种理论路径提供经验锚点** 制度分析可以用它来比较不同国家的评估制度差异；阶级分析可以用它来追踪评估如何将文化优势转化为学术功绩；[[Discourse Analysis\|话语分析]]可以用它来揭示评估标准的建构性和争议性
 

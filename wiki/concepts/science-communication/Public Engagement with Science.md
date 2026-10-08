@@ -142,7 +142,7 @@ updated: 2026-10-08
 > - **2000 — 转向公众参与（PES）** 上议院报告批判[[Deficit Model of Science Communication\|赤字模型]]，确立双向参与和公众对话[[Paradigm\|范式]]。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 10)]]
 > - **2004–2020 — 制度化公共对话** 依托 [[Sciencewise]] 等计划，推动公民陪审团与协商迷你公众直接进入技术政策审议。
 > - **2026 — 整合科研全周期与前瞻共进化** 面对人工智能与深度技术冲击，将科研预算专项划拨给科研人员技能培训，确立平权前瞻的共进化对话范式。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 86–88)]]
-> - **2026 — 纵向微观实证与高校体制内嵌** 依托 2006–2025 年科研人员全国追踪，揭示参与行为普及化（85%）与道德义务认同（83%），确立上游深度嵌入原则，推动 [[Research Excellence Framework\|REF]] 2029 设立独立“参与与影响”维度。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 94–101)]]
+> - **2026 — 纵向微观实证与高校体制内嵌** 依托 2006–2025 年科研人员全国追踪，揭示参与行为普及化（85%）与道德义务认同（83%），确立上游深度嵌入原则，推动 REF 2029 设立独立“参与与影响”维度。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 94–101)]]
 
 ---
 

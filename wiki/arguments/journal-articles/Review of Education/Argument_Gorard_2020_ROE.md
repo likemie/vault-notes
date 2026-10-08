@@ -241,7 +241,7 @@ sources:
 更为严重的是，现行科研评价体制建立在一种完全错误的方法学[[Hypothesis|假设]]之上：假定单项研究成果能够且应当直接对现实政策或一线课堂产生独立的现实影响。（pp. 572–574）
 
 > [!tension] 单项[[Research Impact\|研究影响力]]狂热 vs 贝叶斯证据体综合需求
-> - **单项研究影响力狂热（英国 [[Research Excellence Framework\|REF]] 与 ESRC 导向）** 英国卓越研究框架（Research Excellence Framework, REF）将巨额政府拨款与单项科研项目的影响力个案挂钩；经济与社会研究理事会（Economic and Social Research Council, ESRC）强行要求所有资助项目在全周期内开展[[Knowledge Exchange\|知识交流]]与影响，并通过[[Researchfish\|英国科研成果与影响追踪系统]]（Researchfish）长期监控，设立杰出影响力大奖表彰在现实中获得广泛应用的项目。（pp. 571–573）
+> - **单项研究影响力狂热（英国 REF 与 ESRC 导向）** 英国卓越研究框架（[[Research Excellence Framework]], REF）将巨额政府拨款与单项科研项目的影响力个案挂钩；经济与社会研究理事会（Economic and Social Research Council, ESRC）强行要求所有资助项目在全周期内开展[[Knowledge Exchange\|知识交流]]与影响，并通过[[Researchfish\|英国科研成果与影响追踪系统]]（Researchfish）长期监控，设立杰出影响力大奖表彰在现实中获得广泛应用的项目。（pp. 571–573）
 > - **贝叶斯证据体综合需求（循证科学基石）** 真实的教育情境极少开展直接重复试验。单项研究哪怕设计极为严密，其结论仍极易受到特定样本、局部情境与未测[[Variable\|变量]]的扰动，甚至极可能被后续更高质[[Quantitative Research\|量的研究]]所[[Falsification\|证伪]]。在贝叶斯证据积累视角下，任何单项研究本身绝不具备指导宏观行动的合法性；真正的决策基石只能是基于全体高质量研究的综合证据体。（pp. 572–573）
 
 这种制度导向不可避免地诱发了严重的道德风险与学术推销行为。（p. 573）
@@ -497,7 +497,7 @@ sources:
 > *An evaluation of the Literacy Octopus in England looked at the impact of sending primary schools research summaries and evidence-based resources to improve teaching, with or without ‘light touch’ support... After two years, there was little or no increase in any of the six measures of teachers’ use of research, and no improvement in pupils’ Key Stage 2 English scores compared with the control group. So far, simply disseminating research summaries and evidence-based resources to schools does not seem to be an effective way for research organisations to support schools in improving pupil outcomes.*
 
 > [!citation-card] [[Engineered Evidence\|证据工程化]]封装为教学工件的必要性
-> 教师可能需要更清晰的指导、专业发展以及关于使用研究证据的有效策略示范以提高学业成绩。需要某种更为工程化的形式将研究证据转化为给教师的实用指南——这可以表现为教案或规程的形式——供教师直接使用，而无需他们理解或领会底层的证据基础。成功的卓越研究框架（[[Research Excellence Framework\|REF]]）案例表明，支撑性研究所产生的现实影响通常对教师是不可见的，而是最好嵌入到服务与技术等工件之中。（pp. 596–597）
+> 教师可能需要更清晰的指导、专业发展以及关于使用研究证据的有效策略示范以提高学业成绩。需要某种更为工程化的形式将研究证据转化为给教师的实用指南——这可以表现为教案或规程的形式——供教师直接使用，而无需他们理解或领会底层的证据基础。成功的卓越研究框架（REF）案例表明，支撑性研究所产生的现实影响通常对教师是不可见的，而是最好嵌入到服务与技术等工件之中。（pp. 596–597）
 >
 > *Teachers probably need clearer guidance, professional development, and modelling of effective strategies on the use of research evidence, to improve attainment. There needs to be some more engineered format to translate research evidence into practical guidance for teachers — which could be in the form of lesson plans or protocols — that are simply used by teachers without the need for them to understand or appreciate the underlying evidence base... Successful UK REF case studies suggest that any real-life impact from underpinning research is usually invisible to teachers, and instead is best embedded in artefacts such as services and technologies.*
 

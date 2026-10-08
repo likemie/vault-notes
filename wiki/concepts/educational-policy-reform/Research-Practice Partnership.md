@@ -8,7 +8,7 @@ aliases:
 summary: "研究者与实践组织之间长期、互惠的协作机制，通过共同确定问题、协同生产与情境化运用知识，被视为弥合研究-实践鸿沟并打破线性知识转移瓶颈的重要制度安排。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 62
+related_count: 61
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -74,7 +74,6 @@ related_persons:
 related_facts:
   - "[[Knowledge Network for Applied Education Research]]"
   - "[[National Center for Research in Policy and Practice]]"
-  - "[[Research Excellence Framework]]"
   - "[[Teaching and Learning Research Programme]]"
   - "[[Research Schools Network]]"
   - "[[Education Endowment Foundation]]"
@@ -202,7 +201,7 @@ updated: 2026-10-08
 > 尽管各国政府日益要求科研体现“社会影响力”，但高等教育内部的同行评议、期刊发表与职称晋升体系仍对应用型合作研究存在显著歧视。
 
 > [!claim] Cherney et al. (2012)
-> **学术激励机制与跨界参与的制度错位** 尽管英国科研卓越框架（[[Research Excellence Framework\|REF]]）与澳大利亚同类评估强化了对社会影响力的考核，大学内部的晋升与资源分配仍牢牢受制于高影响因子学术期刊发表。参与 RPP 需要耗费大量时间建立跨界人际信任、打磨通俗转译产品或提供一线培训，这些实质性付出在学术同行评价体系中几乎得不到认可，直接抑制了科研人员长期参与 RPP 的制度意愿。（Cherney et al., 2012；引于 [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 22]]）
+> **学术激励机制与跨界参与的制度错位** 尽管英国科研卓越框架（REF）与澳大利亚同类评估强化了对社会影响力的考核，大学内部的晋升与资源分配仍牢牢受制于高影响因子学术期刊发表。参与 RPP 需要耗费大量时间建立跨界人际信任、打磨通俗转译产品或提供一线培训，这些实质性付出在学术同行评价体系中几乎得不到认可，直接抑制了科研人员长期参与 RPP 的制度意愿。（Cherney et al., 2012；引于 [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 22]]）
 
 > [!claim] Burkhardt & Schoenfeld (2021)
 > **教育科研生产文化对累积性实践改进的阻滞** 教育科研界长期倾向于优先资助和发表能够验证理论[[Hypothesis\|假设]]、产生统计显著结论的短平快实证论文，而非服务于日常教学持续改进的设计型与伙伴型研究。这种科研生产文化导致教育证据碎片化、不可累积，严重削弱了 RPP 在长期学校发展中的理论引导力。（Burkhardt & Schoenfeld, 2021；引于 [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 22]]）

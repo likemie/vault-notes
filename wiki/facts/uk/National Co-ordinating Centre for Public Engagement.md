@@ -71,7 +71,7 @@ updated: 2026-10-02
 ## 评估与学术生态赋能
 
 > [!dimension] NCCPE 在国家科研评价与政策中的关键角色
-> - **科研卓越框架（[[Research Excellence Framework\|REF]]）影响力案例深度分析**
+> - **科研卓越框架（REF）影响力案例深度分析**
 >   系统梳理 REF 2014 与 REF 2021 中近 50% 涉及[[Public Engagement with Science\|公众科学参与]]的影响力案例（Impact Case Studies），揭示公众参与在医疗健康改善、公共政策启发、文化繁荣及产业协同中的关键路径，并向政府与大学领导力证公众参与绝非科研副产品，而是催生实质社会影响的核心引擎。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society, 2026, p. 101]]）
 > - **赋能专业支持队伍（Engagement Professionals）**
 >   推动英国高校设立全职的公众参与专业支持团队，提供媒体公关、社区联络、伦理合规及伦理反思支持；这一努力直接促成 REF 2029 改革将专业支持人员编制规模正式纳入科研环境核算指标。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society, 2026, pp. 98, 101]]）

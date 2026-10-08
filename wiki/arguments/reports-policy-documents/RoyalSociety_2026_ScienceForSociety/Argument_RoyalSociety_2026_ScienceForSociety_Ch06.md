@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_display_title: "Chapter six: Academic scientific community"
 argument_kind: "book-chapter"
-argument_related_count: 43
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -77,7 +77,6 @@ related_persons: []
 related_facts:
   - "[[The Perception Census]]"
   - "[[National Co-ordinating Centre for Public Engagement]]"
-  - "[[Research Excellence Framework]]"
   - "[[UK Knowledge Exchange Framework]]"
   - "[[Chinese Academy of Sciences]]"
 related_arguments: []
@@ -337,7 +336,7 @@ updated: 2026-10-04
 外部资助机构的经费分配机制与国家级科研评估框架，是决定大学管理层是否愿意对公众参与进行长线制度投资的终极决定性杠杆。（p. 100）
 
 > [!claim] 步骤四核心主张
-> 依托单项分散课题划拨短期经费的传统机制无法激发大学的长期战略承诺；现行科研卓越框架（[[Research Excellence Framework\|REF]]）在测度公众参与的长周期、微妙[[Research Impact\|科研影响力]]上存在量化归因失真，导致大学资源过度向短期商业化倾斜；唯有通过即将实行的 REF 2029 改革设立专属性的“参与与影响”独立考评剖面，并将专职专业支持人员编制纳入科研共同体数据核算，才能从根本上矫正制度扭曲。（pp. 100–101）
+> 依托单项分散课题划拨短期经费的传统机制无法激发大学的长期战略承诺；现行科研卓越框架（REF）在测度公众参与的长周期、微妙[[Research Impact\|科研影响力]]上存在量化归因失真，导致大学资源过度向短期商业化倾斜；唯有通过即将实行的 REF 2029 改革设立专属性的“参与与影响”独立考评剖面，并将专职专业支持人员编制纳入科研共同体数据核算，才能从根本上矫正制度扭曲。（pp. 100–101）
 
 #### 主题一：课题制资助的分散性与上游深度嵌入诉求（p. 100）
 
@@ -479,7 +478,7 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 > [!finding-cards] 核心发现
 > 1. **英国科学界已实现公众参与从精英特权到全员道德义务的历史性转变** 理工科（[[STEM Education\|STEM]]）学者参与覆盖率达到 85% 历史峰值，83% 视为不可推卸的职业伦理义务，认为“仅限资深学者”的比例从 44% 断崖式跌至 9%。（pp. 94–95）
 > 2. **学者参与热情与高校体制性支持赤字构成尖锐的结构性撕裂** 75% 的科研人员面临严峻的时间竞合压力，专项经费短缺上升至 45%，仅 25% 认为参与有助于职称晋升，岗位职责说明书中极少体现参与贡献。（pp. 97–98）
-> 3. **科研卓越框架（REF 2029）改革确立公众参与独立考评与专职编制核算** 针对以往案例量化归因困难与商业化投资严重挤出弊端，[[Research Excellence Framework\|REF]] 2029 设立独立“参与与影响”考评剖面，并将公众参与专业支持团队编制首次纳入国家科研共同体核算。（pp. 100–101）
+> 3. **科研卓越框架（REF 2029）改革确立公众参与独立考评与专职编制核算** 针对以往案例量化归因困难与商业化投资严重挤出弊端，REF 2029 设立独立“参与与影响”考评剖面，并将公众参与专业支持团队编制首次纳入国家科研共同体核算。（pp. 100–101）
 > 4. **公众参与是维系大学办学生存合法性与[[Social License to Operate\|社会运营许可]]的战略防线** 在财政紧缩与社会极化挑战下，公众参与构成大学捍卫公共财政投资、履行公民大学责任与争取社会慈善的不可替代基石。（pp. 93, 102–105）
 
 > [!stat-cards]- 核心数据（pp. 94–100）
@@ -522,7 +521,7 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 ## 自述局限
 
 > [!warning]
-> 本章分析主要基于英国特有的双重科研资助体制（Dual-support system：QR 核心拨款 + 竞争性课题经费）、科研卓越框架（[[Research Excellence Framework\|REF]]）评价体系及多元分权的高等教育治理生态；在将工作量法定核算、卓越水印外部认证及独立参与考评剖面等制度经验向中央集权型科研体制或不同学术劳动力市场迁移时，必须充分考量本土科研生态的适配性与制度摩擦。（pp. 98–101）
+> 本章分析主要基于英国特有的双重科研资助体制（Dual-support system：QR 核心拨款 + 竞争性课题经费）、科研卓越框架（REF）评价体系及多元分权的高等教育治理生态；在将工作量法定核算、卓越水印外部认证及独立参与考评剖面等制度经验向中央集权型科研体制或不同学术劳动力市场迁移时，必须充分考量本土科研生态的适配性与制度摩擦。（pp. 98–101）
 
 ---
 

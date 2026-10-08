@@ -5,7 +5,7 @@ aliases:
 summary: "指国家战略力量、公共福利与民主制度合法性同前沿科技研发与软件工程实力深度绑定的政治经济体制形态。强调国家战略导向与科技工程共同体的深度互信与协同动员，以软件硬实力与人工智能威慑替代原子时代的工业化防御，破解同盟盆景军队、大构想饥荒与创新荒漠，并依托文明历史叙事实质锚定与认知脱钩求真能力，重构自由民主政体的地缘优势与社会治理效能。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 110
+related_count: 115
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Cognitive Decoupling]]"
   - "[[Western Civilization Course]]"
   - "[[Canon Wars]]"
+  - "[[Commercial Off-The-Shelf]]"
   - "[[General Education]]"
   - "[[Dual-Use Technology]]"
   - "[[National Innovation System]]"
@@ -77,7 +78,6 @@ related_theories:
 related_methods:
   - "[[Role-playing]]"
   - "[[Correlational Research]]"
-  - "[[Ideology Critique]]"
 related_instruments: []
 related_persons:
   - "[[Jürgen Habermas]]"
@@ -99,6 +99,7 @@ related_persons:
   - "[[Kwame Anthony Appiah]]"
   - "[[Edward Said]]"
   - "[[Nate Silver]]"
+  - "[[John Glenn]]"
   - "[[Stanley Milgram]]"
   - "[[J. C. R. Licklider]]"
   - "[[Niall Ferguson]]"
@@ -108,6 +109,7 @@ related_persons:
   - "[[Manuel Castells]]"
   - "[[Mariana Mazzucato]]"
 related_facts:
+  - "[[Federal Acquisition Streamlining Act of 1994]]"
   - "[[Office of Scientific Research and Development]]"
   - "[[Einstein-Szilard Letter]]"
   - "[[Apollo Program]]"
@@ -121,6 +123,7 @@ related_facts:
   - "[[Dot-Com Bubble]]"
   - "[[Huntington-Wallace Line]]"
   - "[[Eck Swarm Experiment]]"
+  - "[[Palantir Technologies]]"
   - "[[1968 Stanford Western Civ Reform]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
@@ -129,12 +132,9 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09]]"
-  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08]]"
-  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10]]"
-  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11]]"
-  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12]]"
 confidence: high
 status: active
 created: 2026-10-07
@@ -158,7 +158,8 @@ updated: 2026-10-08
 > 5. **创立国家技术和平队** 创设国家技术和平队（Technological Peace Corps）等制度化通道，打通硅谷工程师与公共部门治理的壁垒，根除治理体系中的[[Innovation Desert|创新荒漠]]；
 > 6. **解构[[Moral Dualism|道德二元论]]** 破除将商业消费技术视作崇高、将国家安全技术视作污秽的[[Moral Dualism|道德二元论]]，重申技术发展必须服务于自由制度的生存与延续；
 > 7. **破除[[Technological Agnosticism|技术不可知论]]与种姓化危机** 批判硅谷“为了建造而建造”的技术不可知论与逃避排他性承诺的[[Cult of Optionality|选择权崇拜]]，打破资本垄断下的[[Establishment Caste|统治集团种姓化]]，以“正义是骨架、[[Buen Vivir|美好生活]]是血肉”的[[Hard Belief|硬信念]]重建国家政治认同；
-> 8. **重铸文明历史锚定与[[Cognitive Decoupling|认知脱钩]]求真理性** 克服因[[Western Civilization Course|西方文明课]]程解体与[[Canon Wars|经典之争]]导致国家认同沦为“断线气球”的道德真空，抵制身份政治对客观事实的绑架，重塑独立评估事实真伪的“认知脱钩”能力，避免战略盲视与道德傲慢。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–5, 8–11, 15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 26–28)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–36)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 37–54)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 69–82)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 83–96)]]
+> 8. **重铸文明历史锚定与[[Cognitive Decoupling|认知脱钩]]求真理性** 克服因[[Western Civilization Course|西方文明课]]程解体与[[Canon Wars|经典之争]]导致国家认同沦为“断线气球”的道德真空，抵制身份政治对客观事实的绑架，重塑独立评估事实真伪的“认知脱钩”能力，避免战略盲视与道德傲慢；
+> 9. **采购法治与商用现成优先** 破除传统军工承包商耗资数十亿美元、编制数千页定制规范的成本加成垄断，严格执行《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]案》确立的[[Commercial Off-The-Shelf|商用现成产品]]（COTS）法定优先权，以法治力量和实战亲密回路打破五角大楼官僚阻滞。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–5, 8–11, 15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 26–28)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–36)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 37–54)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 69–82)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 83–96)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 139–155)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示现代国家的地缘竞争优势、社会制度韧性与公共治理公信力，根本上取决于前沿科学技术、国家战略需求与实质伦理信念的组织化融合程度。
@@ -223,8 +224,9 @@ updated: 2026-10-08
 > - **创设国家技术和平队以消解公共部门[[Innovation Desert|创新荒漠]]（National Technological Peace Corps）** 建立科技人才定期轮岗服务公共部门与防卫体系的制度化纽带，将一线顶尖软件工程实践制度化导入政府、司法、医疗与国防系统，根除体制内的[[Innovation Desert|创新荒漠]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 52–54)]]
 > - **解构[[Moral Dualism|道德二元论]]与达沃斯共识迷思（Dismantling Moral Dualism & Davos Consensus）** 摒弃将商业技术视作纯洁、将防务研发视作原罪的虚伪认知，破除认为全球经贸融合可自发消除大国对抗的达沃斯空想，确立唯有捍卫自身能力的民主政体才能享有真正的伦理与和平。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 38–40)]]
 > - **破除[[Technological Agnosticism|技术不可知论]]与重建实质[[Hard Belief|硬信念]]（Transcending Agnosticism & Restoring Hard Belief）** 克服技术工程师将纯建造主义与国家使命脱钩的不可知论，打破高等教育[[Productization of the Mind|心智产品化]]与避险的[[Cult of Optionality|选择权崇拜]]；援引[[Ágnes Heller|阿格妮丝·赫勒]]正义与[[Buen Vivir|美好生活]]的辩证统一，重申唯有愿意承担现实代价的崇高信念才能赋予技术共和国长久生命力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 69–82)]]
-- **文明历史锚定与[[Civic Religion|公民宗教]]维系（Civilizational Anchoring & Civic Religion）** 抵制对国家正典与西方文明[[Grand Theory|宏大叙事]]的虚无主义解构，复兴作为移民社会“世俗公民宗教”的通识历史传统，将国家凝聚力从“断线气球”重新锚定于共同体的历史纵深与宪政价值之上。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 83–90)]]
-- **[[Cognitive Decoupling|认知脱钩]]与战略求真理性（Cognitive Decoupling & Strategic Truth-Seeking）** 培养将客观事实评估与主观道德评价相剥离的“认知脱钩”能力，抵制道德正义感对经验证据与统计规律的绑架，捍卫技术共和国基于求真理性的战略决策敏锐度与技术研发优势。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 91–96)]]
+> - **文明历史锚定与[[Civic Religion|公民宗教]]维系（Civilizational Anchoring & Civic Religion）** 抵制对国家正典与西方文明[[Grand Theory|宏大叙事]]的虚无主义解构，复兴作为移民社会“世俗公民宗教”的通识历史传统，将国家凝聚力从“断线气球”重新锚定于共同体的历史纵深与宪政价值之上。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 83–90)]]
+> - **[[Cognitive Decoupling|认知脱钩]]与战略求真理性（Cognitive Decoupling & Strategic Truth-Seeking）** 培养将客观事实评估与主观道德评价相剥离的“认知脱钩”能力，抵制道德正义感对经验证据与统计规律的绑架，捍卫技术共和国基于求真理性的战略决策敏锐度与技术研发优势。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 91–96)]]
+> - **政府采购法治与商用现成优先（Procurement Rule of Law & Statutory Commercial Preference）** 破除定制成本加成合同对军工采办的垄断，严格执行《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]案》将成熟商用软件与算法（[[Commercial Off-The-Shelf|COTS]]）作为首选，建立研发人员与一线战士实战需求的紧密亲密回路。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 149–155)]]
 
 > [!logic-map]- 技术共和国的系统动力循环机制
 > ```mermaid
@@ -235,11 +237,13 @@ updated: 2026-10-08
 >     B --> E["国家技术和平队机制化输出<br>(消解公共部门创新荒漠)"]
 >     B --> G["破除技术不可知论与种姓化固化<br>(克服选择权崇拜/重塑实质道德信念)"]
 >     B --> H["文明历史锚定与认知脱钩求真<br>(维系世俗公民宗教/抵制意识形态盲视)"]
+>     B --> I["采购法治与商用现成优先<br>(打破定制垄断/打通一线实战回路)"]
 >     C --> F["民主政体治理合法性与地缘战略主动"]
 >     D --> F
 >     E --> F
 >     G --> F
 >     H --> F
+>     I --> F
 >     F --> A
 > ```
 
@@ -380,6 +384,16 @@ updated: 2026-10-08
 
 ---
 
+### 命题十三　政府采购法治与商用现成优先是技术共和国打破军工垄断与官僚阻滞的制度破局之钥
+
+> [!concept-lens] 政府采购法治与防务创新制度经济学维度
+> 阐释技术共和国如何通过刚性法定商用优先权与司法诉讼打破传统军工复合体的定制成本加成垄断，打通前沿软件向国防安全输送的体制回路。
+
+> [!claim] Karp, Zamiska & Glenn (2025/1994)
+> **采购法治与商用现成优先制度破局断言** 亚历山大·卡普与尼古拉斯·扎米斯卡结合参议员[[John Glenn|约翰·格伦]]（[[John Glenn]]）推动《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]案》（FASA 1994）的历史经验指出，技术共和国宏大构想的落实必须依托底层的政府采购法治与去官僚化改革。五角大楼长达十五年、耗资数十亿美元的定制软件系统（如 DCGS-A）之所以屡屡溃败，根源在于传统军工巨头利用成千上万页军用规范制造高额准入壁垒，并借助成本加成合同（Cost-plus Contracts）转嫁低效；唯有通过刚性法定约束（10 U.S.C. § 2377）强制推行[[Commercial Off-The-Shelf|商用现成产品]]（COTS）优先，并以司法诉讼打破体制避险惰性，才能将私营部门最前沿的软件与人工智能技术高效引入国家防务体系。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 139–155)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -397,13 +411,14 @@ updated: 2026-10-08
 > | **克服不可知论与种姓化固化** | 破除建造与国家使命割裂的冷漠，以实质硬信念重建政治认同 | 赫勒正义骨架与善血肉；巴尔策尔种姓化批判；克服心智产品化与选择权崇拜 | [[Ágnes Heller\|Heller]] (1987); [[E. Digby Baltzell\|Baltzell]] (1964); [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
 > | **正典解构与求真理性断裂** | 批判通识正典瓦解切断文明历史锚桩，以认知脱钩求真重建战略理性 | 麦克尼尔世俗公民宗教；断线气球危机；阿皮亚/萨义德叙事批判；奈特·银认知脱钩 | [[William H. McNeill\|McNeill]] (1986); [[Kwame Anthony Appiah\|Appiah]] (2018); [[Nate Silver\|Silver]] (2024); [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
 > | **微观工程组织与心理基石** | 破除科层制盲从与内耗，以群智能、建设性不服从与社交失聪铸就组织敏捷性 | [[Eck Swarm Experiment\|埃克蜂群]]与椋鸟群飞；[[Role-playing\|即兴戏剧]]与影子层级；阿施与[[Stanley Milgram\|米尔格拉姆]]反盲从心理机制 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025, Ch. 9–12) |
+> | **采购法治与商用优先** | 破除军工成本加成垄断，以商用现成法定优先与司法诉讼打破官僚避险 | 约翰·格伦 FASA 1994 改革；10 U.S.C. § 2377 商用优先；[[Palantir Technologies\|帕兰提尔]]诉陆军胜诉打破定制垄断 | [[John Glenn\|Glenn]] (1994); [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025, Ch. 13) |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - **技术共和国专著论述** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] 系统阐明技术共和国在人工智能地缘竞争中的制度重塑方案，涵盖国家动员（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]]）、AI 威慑（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Ch. 2]]）、软件[[Hard Power|硬实力]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Ch. 3]]）、同盟防务与[[Big Idea Famine|大构想饥荒]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Ch. 4]]）、克服[[Technological Agnosticism|技术不可知论]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Ch. 6]]）、通识正典与求真理性（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Ch. 7]]）、反文化[[Ideology Critique|意识形态批判]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）、[[Lifestyle Technology|生活方式科技]]与玩具之地迷失（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Ch. 9]]）、生物[[Swarm Intelligence|群智能]]与[[Edge Autonomy|边缘自治]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Ch. 10]]）、即兴协作与[[Status Transactions|工具性地位]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|Ch. 11]]）以及[[Constructive Disobedience|建设性不服从]]与[[Social Deafness|社交失聪]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|Ch. 12]]）。
+> - **技术共和国专著论述** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] 系统阐明技术共和国在人工智能地缘竞争中的制度重塑方案与组织治理哲学。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Ch. 1–4)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Ch. 6–8)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Ch. 9–13)]]
 
 ---
 
@@ -436,6 +451,7 @@ updated: 2026-10-08
 > | [[Robert J. Gordon]] | Person | 经济学家，实证揭示[[Consumer Internet\|消费互联网]]未能拉动[[Total Factor Productivity\|全要素生产率]]（TFP）的长期停滞现象。 |
 > | [[Peter Thiel]] | Person | 风险投资家与思想家，批判“想要飞车却得到 140 字符”的微观虚拟创新局限。 |
 > | [[Nicholas Negroponte]] | Person | 麻省理工媒体实验室创始人，批判初创界洗衣服送外卖的“[[Big Idea Famine\|大构想饥荒]]”。 |
+> | [[John Glenn]] | Person | 联邦参议员与宇航员，主持制定 [[Federal Acquisition Streamlining Act of 1994\|FASA 1994]]，确立[[Commercial Off-The-Shelf\|商用现成产品]]法定优先权以打破官僚垄断。 |
 > | [[Hard Power]] | Concept | 技术共和国在 21 世纪维系地缘均势与外交谈判筹码的软件代码与算法实力底座。 |
 > | [[Technological Agnosticism]] | Concept | 技术共和国着力批判的将工程建造与国家使命脱钩、不问目的后果的冷漠心态。 |
 > | [[Western Civilization Course]] | Concept | 战后作为移民社会世俗公民宗教的[[General Education\|通识教育]]形态，其瓦解切断了国家历史锚桩。 |
@@ -458,11 +474,14 @@ updated: 2026-10-08
 > | [[Lifestyle Technology]] | Concept | 消费互联网在 2010 年代演进出的典型形态，致力于为富裕阶层痛点提供微观便利。 |
 > | [[Technological Pastiche]] | Concept | 消费级科技的核心技术形态，对成熟组件进行表面重组包装并制造创新幻觉。 |
 > | [[Long Peace]] | Concept | 战后由核均势维系的相对和平期，后演化为催生西方防务自满与盆景军队的温床。 |
+> | [[Commercial Off-The-Shelf]] | Concept | 商用现成采购模式，技术共和国打破国防垄断与加速前沿软件列装的制度钥匙。 |
 > | [[Project Maven]] | Fact (Program) | 标志性事件，展现硅谷科技精英对国家防务[[Research Translation\|技术转化]]的道德疏离与抵触。 |
 > | [[Einstein-Szilard Letter]] | Fact ([[Document]]) | 1939 年历史典范，顶尖科学家主动推动行政当局开启重大战略工程的制度参照。 |
 > | [[Article 9 of the Japanese Constitution]] | Fact (Document) | 日本和平宪法核心条款，构成战后盟友将自身防卫外包于外部保护伞的制度案例。 |
 > | [[Office of Scientific Research and Development]] | Fact (Organization) | 技术共和国在二战期间的最高国家科技动员组织原型。 |
 > | [[Fairchild Semiconductor]] | Fact (Organization) | 冷战早期硅谷依托国防情报合同孕育微电子革命的典型企业案例。 |
+> | [[Palantir Technologies]] | Fact (Organization) | 践行技术共和国理念的前沿软件企业，援引 FASA 1994 诉讼打破国防采购垄断。 |
+> | [[Federal Acquisition Streamlining Act of 1994]] | Fact (Policy) | 联邦采购精简法案，确立商用现成产品法定优先权，构成技术共和国采办改革基石。 |
 > | [[Artificial General Intelligence]] | Concept | 技术共和国在大国技术竞争中争夺战略制高点的根本计算智能目标。 |
 > | [[Innovation Desert]] | Concept | 技术共和国机制失效时在公共治理领域产生的技术滞后与体制排斥现象。 |
 > | [[Man-Computer Symbiosis]] | Concept | 国家战略资助与前沿认知科学紧密结合所孕育的标志性计算范式。 |

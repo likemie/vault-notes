@@ -10,9 +10,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
 fact_related_color: "#dcfce7"
 issuing_organization: "Higher Education Funding Council for England"
 tags:
@@ -31,14 +31,13 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Higher Education Act of 1965]]"
-  - "[[Research Excellence Framework]]"
   - "[[TESTA Project]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-09-18
+updated: 2026-10-08
 ---
 
 # Higher Education Funding Council for England
@@ -58,7 +57,7 @@ updated: 2026-09-18
 ## 核心职能与评价治理
 
 > [!feature] 核心业务与高阶能力资助行动
-> - **公共经费分配** 年均分配数十亿英镑的政府经常性教学拨款与科研卓越框架（[[Research Excellence Framework\|REF]]）质量挂钩拨款（QR funding）。
+> - **公共经费分配** 年均分配数十亿英镑的政府经常性教学拨款与科研卓越框架（REF）质量挂钩拨款（QR funding）。
 > - **发起国家级[[Learning Gain\|学习增益]]计划** 2014–2018 年注资 400 万英镑设立 英格兰学习增益项目，联合 70 余所高校系统探索测量大学生[[Critical Thinking\|批判性思维]]与高阶能力发展的[[Scientific Method\|科学方法]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 17–18)]]
 > - **奠定卓越教学框架基石** 推动全英卓越教学框架（Teaching Excellence Framework, TEF）从单一声誉指标转向以学生学习成效与教学质量证据为基础的综合评价体系。
 
