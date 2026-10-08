@@ -12,9 +12,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 4
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "1948–1955"
 initiator_organization: "美国海军（U.S. Navy）与美国原子能委员会（Atomic Energy Commission, AEC）"
@@ -27,11 +27,16 @@ tags:
   - region/us
 related_concepts:
   - "[[Screening Off]]"
+  - "[[Reliability]]"
   - "[[Red Tape]]"
+  - "[[Engineering Mindset]]"
+  - "[[Technological Republic]]"
 related_persons:
   - "[[Hyman Rickover]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16]]"
+related_theories:
+  - "[[Organizational Culture]]"
 confidence: high
 status: draft
 created: 2026-10-08
@@ -82,8 +87,34 @@ updated: 2026-10-08
 
 ---
 
+## 实施架构与角色分工
+
+> [!actor-grid] 实施协同矩阵
+> - **指挥与监管方** [[Hyman Rickover|海曼·里科弗]]海军上将统领的美国海军反应堆部门与原子能委员会，负责总体路线裁决与穿透式技术把关。
+> - **工程总装与建造方** 通用动力电船分部（Electric Boat），负责耐压壳体建造、动力舱集成与水下系统总装。
+> - **核动力研发机构** 西屋电气（Westinghouse Electric Corporation）与爱达荷国家反应堆试验站，负责反应堆物理设计与陆上原型堆测试。
+> - **实战用户** 美国海军潜艇部队，直接在极端远洋巡航中检验战术性能并反馈迭代。
+
+> [!pathways]- 实施路径与工程管理
+> - **打破官僚程序** 严格实行结果问责制，里科弗直接下令烧毁阻碍进度的规章手册，确保工程人员将全部注意力集中于物理[[Reliability|可靠性]]与实战交付。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 185)]]
+> - **跨机构强力统合** 打破海军军种内耗与文职官僚阻隔，实现从核物理基础科研到舰艇工程制造的无缝集成。
+
+---
+
 ## 历史成效与治理启示
 
 > [!performance] 战略成效与治理反思
 > - **改写全球海战与地缘均势** 彻底终结了柴电潜艇时代，直接推动美国海军建立起核动力航母战斗群与弹道导弹核潜艇二次核打击力量。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 184)]]
 > - **彰显实战导向工程文化的力量** 证明在面对极端不确定的颠覆性科技前沿时，必须赋予具备高度决断力与专业权威的战略科学家与工程领袖打破[[Red Tape|繁文缛节]]的制度自主权。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 184–187)]]
+
+---
+
+## 条目关联
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Hyman Rickover]] | 人物 | 担任工程最高总指挥，以极致[[Engineering Mindset\|工程思维]]打破官僚科层阻力缔造鹦鹉螺号。 |
+> | [[Engineering Mindset]] | 概念 | 鹦鹉螺号研制全过程成为实战导向工程[[Organizational Culture\|组织文化]]的历史典范。 |
+> | [[Technological Republic]] | 概念 | 作为美国冷战时期国家安全动员与前沿科技深度绑定的标志性工程成就。 |

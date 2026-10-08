@@ -10,9 +10,9 @@ summary: "美国海军四星上将，被誉为核海军之父；领导开发了�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 4
+person_related_count: 7
 person_related_level: 0
-person_related_stars: "☆"
+person_related_stars: ""
 person_related_color: "#e5e7eb"
 born: "1900"
 died: "1986"
@@ -27,6 +27,9 @@ tags:
 related_concepts:
   - "[[Engineering Mindset]]"
   - "[[Bureaucracy]]"
+  - "[[Red Tape]]"
+  - "[[Paradigm]]"
+  - "[[Scapegoat Mechanism]]"
 related_facts:
   - "[[USS Nautilus Submarine Development]]"
 related_arguments:
@@ -70,7 +73,7 @@ updated: 2026-10-08
 
 ---
 
-## 核心思想与工程治理风格
+## 核心思想
 
 > [!claim] 核心主张
 > 工程领袖的首要天职在于交付关乎国家命运的实质成果，而非屈从于平庸自保的科层合规；追求完美的道德纯洁性与僵化程序往往会逆向淘汰真正具有开创能力的异类工程天才。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 184–187)]]
@@ -87,3 +90,37 @@ updated: 2026-10-08
 > [!influence-path] 影响路径
 > - **战略与国防路径** 开创了全球潜艇核动力时代，直接催生了美国弹道导弹核潜艇与攻击核潜艇部队，构筑起美苏冷战核威慑的关键基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 184)]]
 > - **组织与治理反思路径** 成为反思现代[[Bureaucracy|官僚制]]防卫心态、道德纯洁性审判与结果导向型[[Engineering Mindset|工程思维]]冲突的经典案例；揭示了当社会沉溺于狭隘的程序审查与寻找替罪羊时，往往会牺牲掉最具颠覆性价值的战略创新者。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 187–188)]]
+
+---
+
+## 关系网络
+
+> [!person-network] 关系网络
+> - **合作者／工程副官** 埃德温·金特纳（Edwin E. Kintner）— 反应堆工程师，协助主导爱达荷陆上原型堆试验。
+> - **支持者／政治盟友** 威廉·普罗克斯迈尔（William Proxmire）— 美国参议员，在小礼品公案中坚定捍卫里科弗战功。
+> - **批评者／行政上级** 约翰·莱曼（John Lehman）— 海军部长，在 1980 年代初主导对里科弗合规审查并定性其跌落神坛。
+> - **主导工程** [[USS Nautilus Submarine Development]] — 领导研制世界首艘核潜艇鹦鹉螺号。
+
+---
+
+## 争议与批评
+
+> [!debates] 官僚程序审查与战略成果辩护之争
+>
+> > [!axis] 官僚合规派指控特权自大
+> > 批评者与海军审查委员会指控里科弗自以为凌驾于规则之上，十六年间收受承包商小额纪念品构成职业道德瑕疵。
+>
+> > [!axis] 战略实战派捍卫不可磨灭战功
+> > 支持者强调里科弗一生清贫奉献、开创核海军战略威慑，微小合规瑕疵不能掩盖其粗粝天才对国家生存的重大贡献。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 186)]]
+
+---
+
+## 条目关联
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Engineering Mindset]] | 概念 | 代表了打破[[Red Tape\|繁文缛节]]、直面物理规律与实战交付的极致工程领袖[[Paradigm\|范式]]。 |
+> | [[Scapegoat Mechanism]] | 概念 | 晚年遭遇合规公审成为体制通过替罪羊机制牺牲异类实干家的经典案例。 |
+> | [[USS Nautilus Submarine Development]] | 事实 | 亲自指挥并领导研制世界首艘核动力潜艇鹦鹉螺号。 |
