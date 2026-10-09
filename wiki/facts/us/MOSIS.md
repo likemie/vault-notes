@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 19
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -47,10 +48,13 @@ related_facts:
   - "[[ARPANET]]"
   - "[[National Science Foundation]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
+  - "[[National Semiconductor Technology Center]]"
+  - "[[National Science and Technology Council]]"
   - "[[Engineering Research Centers]]"
   - "[[1956 AT&T Consent Decree]]"
 related_arguments:
   - "[[Argument_Mowery_2011_NBER]]"
+  - "[[Argument_NIST_2023_NSTC]]"
 confidence: high
 status: active
 created: 2026-10-03
@@ -80,6 +84,7 @@ updated: 2026-10-09
 > - **1978–1980 — 米德–康威革命与早期 MPC 试验** 米德与康威出版划时代著作《超大规模集成电路系统导论》，提出独立于具体晶圆代工厂工艺的“Lambda 可伸缩几何设计规则”；1979 年通过 [[ARPANET]] 开展首个多项目芯片（Multi-Project Chip, MPC79）远程流片试验，汇聚了全美十余所顶尖高校的 82 个芯片设计方案。
 > - **1981–1990 — [[DARPA]] 资助建制化与高校 [[VLSI Project|VLSI]] 繁荣** DARPA 正式注资设立 MOSIS，由丹尼·科恩（Danny Cohen）等主持；MOSIS 承接全美计算机科学系所的流片需求，直接培育了斯坦福大学（MIPS 架构）与加州大学伯克利分校（RISC 架构）微处理器革命，支撑了全美 100 多所大学的 VLSI 实验教学。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 183)]]
 > - **1990s–至今 — 商业化 Fabless 生态奠基与先进工艺拓展** 随着[[Taiwan Semiconductor Manufacturing Corporation|台积电]]（TSMC）等商业晶圆代工厂的崛起，MOSIS 成为连接全球主流代工厂（TSMC、格罗方德、意法半导体）与全球科研机构的枢纽，支持深亚微米、FinFET 及硅光子前沿芯片原型的敏捷迭代。
+> - **2023 年 — [[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）全国 MPW 与先进封装网络整合** 美国商务部在《国家半导体技术中心愿景与战略》（[[Argument_NIST_2023_NSTC|NIST, 2023]]）中将多项目晶圆与封装流片（MPW and Packaging Runs）确立为国家级核心中试项目，继承并升级了 MOSIS 开创的共享拼版模式，统筹整合商业代工厂、高校产线与 NSTC 共享技术中心的流片排期。[[Argument_NIST_2023_NSTC|(NIST, 2023, p. 15)]]
 
 ---
 
@@ -150,6 +155,15 @@ updated: 2026-10-09
 > |:-----|:-----|:-----|
 > | [[General Purpose Technology]] | Concept | MOSIS 推动的 [[VLSI Project\|VLSI]] 设计革命是信息技术 GPT 持续演进的核心底座。 |
 > | [[Demand-side Innovation Policy]] | Concept | MOSIS 体现了公共研发资金通过搭建共性基础设施促进技术扩散的需求侧政策逻辑。 |
+> | [[National Semiconductor Technology Center]] | Fact (Organization) | 继承并规模化升级 MPW 流片共享机制的国家级半导体中试中枢。 |
 > | [[DARPA]] | Fact (Organization) | 创设并长期资助 MOSIS 的联邦国防前沿科研中枢。 |
 > | [[National Science Foundation]] | Fact (Organization) | 协同资助全美大学师生通过 MOSIS 开展微电子科研与教学。 |
 > | [[1956 AT&T Consent Decree]] | Fact (Policy) | 与 MOSIS 共同构成了破除垄断、促进美国半导体专业化分工的制度力量。 |
+
+---
+
+## 相关研究
+
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 论述 [[DARPA]] 支持的 MOSIS 原型制造服务如何降低集成电路设计门槛，奠定全球无晶圆设计与代工专业化分工体系。
+> - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 阐述[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）多项目晶圆（MPW）与先进封装排期机制，展现公共原型流片平台在后摩尔时代的国家级制度升级。

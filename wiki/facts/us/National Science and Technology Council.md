@@ -153,13 +153,13 @@ updated: 2026-10-09
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Office of Science and Technology Policy]] | Fact | OSTP 主任兼任 NSTC 执行主任，并为 NSTC 及其下设委员会提供日常专业与行政支撑。 |
+> | [[Office of Science and Technology Policy]] | Fact | OSTP 主任兼任 [[National Semiconductor Technology Center\|NSTC]] 执行主任，并为 NSTC 及其下设委员会提供日常专业与行政支撑。 |
 > | [[National Semiconductor Technology Center]] | Fact | [[CHIPS and Science Act\|芯片法案]]设立的国家级中试转化中心；其战略方向由 NSTC 与商务部、国防部共同协调推进（注意同名英文缩写区别）。 |
 > | [[CHIPS and Science Act]] | Fact | 授权强化跨部门半导体攻关的顶层立法，NSTC 承担跨部委科技资源统筹职能。 |
 > | [[Science in the National Interest 1994]] | Fact | 克林顿政府发布的纲领性政策，NSTC 构成了将该纲领落实为各部委联合行动的组织中枢。 |
 > | [[President's Science Advisory Committee]] | Fact | 冷战时期白宫科学咨询中枢，NSTC 继承了其顶层战略协调职能，但更加突出内阁跨部委行政整合而非学者自治评议。 |
 > | [[Social Contract of Science]] | Theory | NSTC 设立标志着科学社会契约由部门自主资助进入跨部门顶层统筹与问责协调的制度化新阶段。 |
 > | [[Technology-Oriented Social Contract]] | Concept | 2025 年起美国科技政策新[[Paradigm\|范式]]，NSTC 成为执行总统定向技术指令的重要行政依托。 |
-> | [[Argument_Fan_2026_BCAS|樊春良 (2026)]] | Argument | 樊春良关于美国科学社会契约再协商与 NSTC 跨部门统筹演进的系统论述。 |
-> | [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] | Argument | 卓泽林关于美国半导体体系顶层跨部门治理与[[Research Universities\|研究型大学]]角色重构的实证分析。 |
+> | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] | Argument | 樊春良关于美国科学社会契约再协商与 NSTC 跨部门统筹演进的系统论述。 |
+> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 卓泽林关于美国半导体体系顶层跨部门治理与[[Research Universities\|研究型大学]]角色重构的实证分析。 |
 

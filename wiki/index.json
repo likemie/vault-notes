@@ -33395,6 +33395,18 @@
     ]
   },
   {
+    "title": "Microelectronics Commons",
+    "type": "fact",
+    "path": "wiki/facts/us/Microelectronics Commons.md",
+    "aliases": [
+      "微电子共用体",
+      "微电子公用品计划",
+      "DOD Microelectronics Commons",
+      "微电子通用平台",
+      "Microelectronics Commons Hubs"
+    ]
+  },
+  {
     "title": "MN-IP Create",
     "type": "fact",
     "path": "wiki/facts/us/MN-IP Create.md",
@@ -33402,6 +33414,16 @@
       "MN-IP Create",
       "明尼苏达大学IP创新计划",
       "University of Minnesota MN-IP Create"
+    ]
+  },
+  {
+    "title": "National Advanced Packaging Manufacturing Program",
+    "type": "fact",
+    "path": "wiki/facts/us/National Advanced Packaging Manufacturing Program.md",
+    "aliases": [
+      "国家先进封装制造计划",
+      "NAPMP",
+      "美国国家先进封装制造计划"
     ]
   },
   {
@@ -35472,6 +35494,11 @@
     "title": "Argument_Stephan_2013_NBER",
     "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/Argument_Stephan_2013_NBER.md"
+  },
+  {
+    "title": "Argument_NIST_2023_NSTC",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/Argument_NIST_2023_NSTC.md"
   },
   {
     "title": "Argument_Bouckaert_2023_OECD",

@@ -84,7 +84,7 @@ related_methods:
 confidence: high
 status: completed
 created: 2026-06-05
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # STEM Education

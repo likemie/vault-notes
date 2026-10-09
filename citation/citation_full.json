@@ -6015,6 +6015,40 @@
       "title": "Argument_Møller_2017_EERJ",
       "year": "2017"
     },
+    "NIST (2023)": {
+      "aliases": [
+        "NIST, 2023",
+        "NIST (2023)"
+      ],
+      "argument": "Argument_NIST_2023_NSTC",
+      "authors": [
+        "NIST"
+      ],
+      "citation": "NIST. (2023). A vision and strategy for the National Semiconductor Technology Center. U.S. Department of Commerce.",
+      "doi": "",
+      "isbn": "",
+      "path": "wiki/arguments/reports-policy-documents/Argument_NIST_2023_NSTC.md",
+      "source_language": "en",
+      "title": "Argument_NIST_2023_NSTC",
+      "year": "2023"
+    },
+    "NIST, 2023": {
+      "aliases": [
+        "NIST, 2023",
+        "NIST (2023)"
+      ],
+      "argument": "Argument_NIST_2023_NSTC",
+      "authors": [
+        "NIST"
+      ],
+      "citation": "NIST. (2023). A vision and strategy for the National Semiconductor Technology Center. U.S. Department of Commerce.",
+      "doi": "",
+      "isbn": "",
+      "path": "wiki/arguments/reports-policy-documents/Argument_NIST_2023_NSTC.md",
+      "source_language": "en",
+      "title": "Argument_NIST_2023_NSTC",
+      "year": "2023"
+    },
     "Naeem (2026)": {
       "aliases": [
         "Naeem, 2026",

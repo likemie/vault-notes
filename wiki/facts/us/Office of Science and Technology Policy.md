@@ -65,7 +65,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Office of Science and Technology Policy

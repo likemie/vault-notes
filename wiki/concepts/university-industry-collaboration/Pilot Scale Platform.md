@@ -11,7 +11,7 @@ aliases:
 summary: "介于大学/实验室基础研发与工业规模化量产之间的关键共性技术基础设施。通过中立的测试验证线、共享微纳洁净室、湿实验室与 GMP 级中试制造环境，提供工艺可行性验证、设备成熟度评估（MTBF/COO）与小批量试生产服务，是跨越技术就绪度（TRL 4–7）“死亡之谷”、降低产业链协同风险并锁定国家先进制造能力的核心制度载体。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 47
+related_count: 49
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Innovation Ecosystem]]"
   - "[[Variable]]"
+  - "[[Translational Research]]"
   - "[[Document]]"
   - "[[Co-invention]]"
   - "[[Technology Transfer]]"
@@ -74,6 +75,7 @@ related_arguments:
   - "[[Argument_Zhuo_2026_ICE]]"
   - "[[Argument_Mowery_2011_NBER]]"
   - "[[Argument_Logar_2014_Minerva]]"
+  - "[[Argument_NIST_2023_NSTC]]"
   - "[[Argument_Mody_2017_MOH]]"
 confidence: high
 status: active
@@ -242,7 +244,7 @@ updated: 2026-10-09
 > - **1970s — 日本[[Ministry of International Trade and Industry|通产省]]共同研究所中试线模式** 日本在[[VLSI Project|超大规模集成电路项目]]中设立联合研究所共同中试线，开创了竞争对手共用中间试验设施的先河。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 726)]]
 > - **1980s–1990s — [[Sematech]] 奥斯汀中试线与欧洲 IMEC 模式确立** Sematech 投资数亿美元建立全流程奥斯汀中试厂，确立了以设备成熟度认证（[[Cost of Ownership|COO]]/[[Statistical Process Control|SPC]]）为核心的现代中试平台[[Paradigm|范式]]；同期比利时 IMEC 发展为面向全球开放的独立微电子中试中介。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 733–735)]]
 > - **2000s–2010s — [[Innovation Ecosystem|创新生态系统]]中的 [[Technology Readiness Level|TRL]] 跨越桥梁** 随着技术就绪度概念的普及，中试平台被明确界定为跨越 TRL 4–7“[[Valley of Death|死亡之谷]]”的标准制度配置，广泛拓展至生物医药、先进材料与新能源领域。
-> - **2020s — 《[[CHIPS and Science Act|芯片法案]]》[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）与大学 300 毫米中试线重构** 美国《芯片与科学法案》将建设国家级先进半导体中试线（Prototyping Facilities）作为核心支柱；纽约州立大学理工学院依托 [[Albany NanoTech Complex|Albany NanoTech]] 建立 300 毫米晶圆中试线，麻省理工学院建设 MIT.nano 开放共享微纳平台，标志着大学深度嵌入国家深科技中试基础设施网络。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1135–1137)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 22–24)]]
+> - **2020s — 《[[CHIPS and Science Act|芯片法案]]》[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）与大学 300 毫米中试线重构** 美国《芯片与科学法案》将建设国家级先进半导体中试线（Prototyping Facilities）作为核心支柱；纽约州立大学理工学院依托 [[Albany NanoTech Complex|Albany NanoTech]] 建立 300 毫米晶圆中试线，麻省理工学院建设 MIT.nano 开放共享微纳平台，标志着大学深度嵌入国家深科技中试基础设施网络。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1135–1137)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11, 14–15)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 22–24)]]
 > - **2026 年 — 共享试验场、微纳洁净室与 GMP 中试平台全面开放** 白宫 [[Office of Science and Technology Policy|OSTP]] 发布《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]），推动能源部用户设施与 NNCI 开放准入、提供小时级计费共享洁净室与共建 GMP 级中试制造平台，构筑覆盖商业航天、微电子与生物医药的现代化国家深科技中试底座。
 
 ---
@@ -271,6 +273,7 @@ updated: 2026-10-09
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键统计与经验结果 | 解释边界 |
 > |:---|:---|:---|:---|:---|:---|
+> | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | [[National Semiconductor Technology Center\|美国国家半导体技术中心]]（[[National Science and Technology Council\|NSTC]]）多节点共享中试体系 | 国家战略规划与产业中试体系设计 | 研发预算（110 亿美元）、中试技术中心构型、多项目晶圆与封装排期（MPW）、设计赋能网关 | 规划极紫外（EUV）光刻与先进 CMOS 基线试验线；设立 30 亿美元先进封装计划与 20 亿美元国防原型网络；构建云端设计网关以大幅压缩从实验室到代工厂（[[Translational Research\|lab-to-fab]]）周期与研发成本 | 确立国家级半导体共性中试与原型转化平台的顶层设计[[Paradigm\|范式]] |
 > | [[Argument_Grindley_1994_JPAM\|Grindley et al. (1994)]] | 美国 [[Sematech]] 奥斯汀中试试验平台（1988–1992） | 深度工程项目档案考察（11 项）与[[Expert Interview\|专家访谈]]（25+ 场） | 设施建设投资、合作设备商覆盖数、设备平均无故障时间（MTBF）提升倍数 | 投资建设世界级洁净室中试线；覆盖 **130+ 家**设备与材料商；受测试设备 MTBF 提升 **数倍**，新设备引入调试周期大幅缩短 | 证实集中式中试平台在提升在役装备[[Reliability\|可靠性]]上的微观工程成效 |
 > | [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] | 美国[[Semiconductor Research Corporation\|半导体研究公司]]（SRC）与联邦微电子中试设施（NIST 纳米制造中心等） | 嵌入式单案例研究与访谈（$N=19$）及跨行业比较 | 中小企业参与壁垒、开放中试平台必要性、能源技术电网锁定周期 | SRC 产业联合体模式因高额会费与派驻要求导致中小初创企业缺位；电网资产沉淀长达 40 年造成严重基础设施锁定 | 证实公共开放中试平台是弥补纯私营联合体排斥中小企业缺陷的必要制度补充 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | 莫哈韦火箭试验场与国家纳米技术基础设施（NNCI）中试共享 | 科技战略政策评估 | 共享工具规模与验证周期缩短跨度 | NNCI 提供 2000 余台共享工具；中试共享平台将深科技初创企业概念验证周期从数年压缩至数周 | 适用于前沿硬科技与深科技初创企业跨越[[Valley of Death\|死亡之谷]]情境 |
@@ -281,6 +284,7 @@ updated: 2026-10-09
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 阐述《[[CHIPS and Science Act|芯片与科学法案]]》下[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）构建共享技术中心、多项目晶圆流片（MPW）与云端设计网关以跨越半导体“[[Valley of Death|死亡之谷]]”的顶层战略设计。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，系统论述共享试验场、NNCI 微纳洁净室与 GMP 级中试制造平台对跨越深科技[[Valley of Death|死亡之谷]]与重振本土先进制造的战略基石作用。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 比较教育研究权威论文，深入阐述美国[[Research Universities|研究型大学]]依托 [[Albany NanoTech Complex|Albany NanoTech]] 300 毫米晶圆中试线与 MIT.nano 开放平台弥合半导体创新链与产业链断层的平台化机制。
 > - [[Argument_Grindley_1994_JPAM|Grindley et al., 1994]] — 深入阐述 [[Sematech]] 奥斯汀集中中试验证线在设备成熟度评估与供应链协同中的关键治理功能。

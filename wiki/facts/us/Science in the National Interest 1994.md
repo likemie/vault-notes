@@ -52,7 +52,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Science in the National Interest 1994

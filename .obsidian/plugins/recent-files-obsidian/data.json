@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "National Semiconductor Technology Center",
+      "path": "wiki/facts/us/National Semiconductor Technology Center.md"
+    },
+    {
+      "basename": "Argument_NIST_2023_NSTC",
+      "path": "wiki/arguments/reports-policy-documents/Argument_NIST_2023_NSTC.md"
+    },
+    {
+      "basename": "Innovation Ecosystem",
+      "path": "wiki/concepts/university-industry-collaboration/Innovation Ecosystem.md"
+    },
+    {
+      "basename": "CHIPS and Science Act",
+      "path": "wiki/facts/us/CHIPS and Science Act.md"
+    },
+    {
+      "basename": "Translational Research",
+      "path": "wiki/concepts/university-industry-collaboration/Translational Research.md"
+    },
+    {
       "basename": "Argument_Zhuo_2026_ICE",
       "path": "wiki/arguments/journal-articles/International and Comparative Education/Argument_Zhuo_2026_ICE.md"
     },
@@ -61,10 +81,6 @@
       "path": "wiki/concepts/university-industry-collaboration/National Innovation System.md"
     },
     {
-      "basename": "CHIPS and Science Act",
-      "path": "wiki/facts/us/CHIPS and Science Act.md"
-    },
-    {
       "basename": "Directionality of Innovation",
       "path": "wiki/concepts/science-policy/Directionality of Innovation.md"
     },
@@ -79,10 +95,6 @@
     {
       "basename": "Securitization of Technology",
       "path": "wiki/concepts/political-economy-geopolitics/Securitization of Technology.md"
-    },
-    {
-      "basename": "Innovation Ecosystem",
-      "path": "wiki/concepts/university-industry-collaboration/Innovation Ecosystem.md"
     },
     {
       "basename": "Knowledge Production",
@@ -187,18 +199,6 @@
     {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch01",
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch01.md"
-    },
-    {
-      "basename": "USS Nautilus Submarine Development",
-      "path": "wiki/facts/us/USS Nautilus Submarine Development.md"
-    },
-    {
-      "basename": "Output-Oriented Governance",
-      "path": "wiki/concepts/educational-policy-reform/Output-Oriented Governance.md"
-    },
-    {
-      "basename": "Founder Culture",
-      "path": "wiki/concepts/political-economy-geopolitics/Founder Culture.md"
     }
   ],
   "omittedPaths": [],
