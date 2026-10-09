@@ -81,7 +81,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Absorptive Capacity
@@ -258,7 +258,8 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 结合全澳中小学调查，系统论证需求端吸收能力与学校组织使能条件是打破供给驱动偏误、实现高质量[[Research Utilization\|证据使用]]的核心支柱。 [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 评述[[Knowledge Mobilisation\|知识动员三代演进模型]]，剖析 [[OECD]] 国家在供给推送与实践端吸收能力建设上的政策失衡与演变进路。
+> - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 结合全澳中小学调查，系统论证需求端吸收能力与学校组织使能条件是打破供给驱动偏误、实现高质量[[Research Utilization\|证据使用]]的核心支柱。
+> - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 评述[[Knowledge Mobilisation\|知识动员三代演进模型]]，剖析 [[OECD]] 国家在供给推送与实践端吸收能力建设上的政策失衡与演变进路。
 > - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]] — 通过巴尔的摩 [[Students and Teachers Accessing Tomorrow\|STAT]] 项目，检验项目理解与开放沟通对学区吸收和转化评价证据的支撑机制。
 > - [[Argument_Glitz_2020_AER\|Glitz & Meyersson (2020)]] — 基于东德工业间谍数据，实证检验认知距离对技术情报吸收同化效率的调节作用。
 > - [[Argument_Cohen_2025_JTT\|Cohen et al. (2025)]] — 探讨产学研发合作中吸收能力的门槛与放大效应，揭示其对企业创新绩效的决定性调节机制。

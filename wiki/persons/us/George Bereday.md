@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # George Bereday
@@ -164,7 +164,8 @@ updated: 2026-10-08
 > - **史学反思与肖像学解构** [[Robert Cowen\|罗伯特·考恩]]（Robert Cowen）指出，贝雷迪的学术叙事赋予了学科早期合法的历史感，但他本人的复杂学术生命长期被学科圣徒式的肖像叙事所遮蔽，亟待严肃的历史学家撰写批判性学术评传。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] — 考恩分析贝雷迪著作对战后青年学者专业合法性认同的建构功能，以及学界缺乏严肃史学评传的反思。 [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 马修系统定位贝雷迪作为历史学派与[[Scientific Paradigm\|科学范式]]之间关键桥梁的方法论贡献，提炼其四步法对内在普遍力量与跨国法则的探寻。
+> - [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] — 考恩分析贝雷迪著作对战后青年学者专业合法性认同的建构功能，以及学界缺乏严肃史学评传的反思。
+> - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 马修系统定位贝雷迪作为历史学派与[[Scientific Paradigm\|科学范式]]之间关键桥梁的方法论贡献，提炼其四步法对内在普遍力量与跨国法则的探寻。
 
 ---
 

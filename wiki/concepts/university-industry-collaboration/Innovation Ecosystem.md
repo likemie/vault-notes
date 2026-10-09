@@ -382,7 +382,11 @@ updated: 2026-10-09
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统诊断战后单向线性假说失灵与当代创新生态中等规模工程公共品断层，提出确立[[Pasteur's Quadrant|巴斯德象限]]导向、引入[[Focused Research Organization|聚焦研究组织]]（FRO）与前竞争联合体、并将默会[[Process Knowledge|过程知识]]与本土实体制造重新锚定为国家创新生态底层闭环的制度蓝图。
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 结合微观晶圆厂标杆与产业计量，实证阐明 Fabless-Foundry 纵向专业化分工与下游互补资产协同如何重构敏捷创新生态，并警示基础研究萎缩隐患。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 结合美国国家半导体体系建设，系统论证创新生态如何通过城市锚定、跨校协同联盟（[[Joint University Microelectronics Program 2.0|JUMP 2.0]]）与多极分布式网络提升供应链韧性，并依托 300 毫米晶圆中试线与共置平台打通 [[Technology Readiness Level|TRL]] 4–6 鸿沟。
-> - [[Argument_Hall(Ed.)_2025_Springer|Hall & Boccanfuso (Eds.) (2025)]] — 汇集 [[Argument_Dean_2025_UICollaborationSupport|Dean et al. (2025)]]、[[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson (2025)]]、[[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]]、[[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] 与 [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] 产学研究。
+> - [[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025]] — 分析多伦多-滑铁劳走廊的半乡村区位禀赋、[[Cooperative Education|合作教育]]与[[University of Waterloo Inventor-Owned IP Policy|发明人自有知识产权政策]]如何塑造差异化创新生态。
+> - [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson, 2025]] — 探讨[[University Spin-Out|大学衍生企业]]在创新生态中跨越[[Technology Readiness Level|技术就绪度]]鸿沟时，产业界充当“市场声音”的制度路径。
+> - [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al., 2025]] — 考察[[Innovation Hub|创新中心]]与产业研发联盟在跨主体资源协调与产学联盟网络中的组织架构。
+> - [[Argument_Ramming_2025_CorporateSupport|Ramming, 2025]] — 从工业界实务视角系统解构产学转化的内部吸收、初创并购与开源生态三轨路径，并以 [[Universal Parallel Computing Research Centers|UPCRC]]、[[Semiconductor Research Corporation|SRC]] 与 [[National Science and Technology Council|NSTC]] 的历史演变为实证，提炼半导体创新生态三代跨界协同[[Paradigm|范式]]的演进规律。
+> - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]] — 梳理从[[Linear Model of Innovation|线性创新模型]]向网络化[[Systems of Innovation|创新系统]]与[[Ecological Systems Theory|生态系统理论]]演进的历史脉络。
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 基于 [[Sematech]] 案例系统阐明高技术研发联盟从横向工艺开发转向纵向用户—供应商生态协同的治理原则。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 深入揭示战后美国国防采购、反垄断同意令与大学基础科研共同塑造 IT 产业去中心化竞争生态的制度根源。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP (2019)]] — 提出通过提升创新参与者临界密度、完善基础设施与设立联合平台战略性培育大学周边本地创新生态。

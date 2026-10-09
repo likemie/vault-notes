@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-06
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Edmund King
@@ -133,7 +133,8 @@ updated: 2026-10-08
 > - **学科守门与方法论断裂的历史负资产** 在 1970 年代方法论分裂中对结构社会学的排斥与对阿彻的权威[[Disciplina and Doctrina\|规训]]，被后代批判学者定性为英格兰老一代学人排他固步的历史教训。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 考证金与霍姆斯围绕科学划界标准与社会预测可行性展开的长年激烈方法论争鸣。 [[Argument_Mitter_2009_Europe\|Mitter (2009)]] — 米特考察金在伦敦国王学院开辟的学术中枢地位，评析其代表的文化主义传统在 1960–1980 年代与霍姆斯[[Positivism|实证主义]][[Problem Approach|问题法]]之间的认识论博弈。
+> - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 考证金与霍姆斯围绕科学划界标准与社会预测可行性展开的长年激烈方法论争鸣。
+> - [[Argument_Mitter_2009_Europe\|Mitter (2009)]] — 米特考察金在伦敦国王学院开辟的学术中枢地位，评析其代表的文化主义传统在 1960–1980 年代与霍姆斯[[Positivism|实证主义]][[Problem Approach|问题法]]之间的认识论博弈。
 > - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 批判金在 1970 年代方法论大分裂中试图规训阿彻的学术霸权，并反思其政策科学立场与国家权力的危险结盟。
 
 ---

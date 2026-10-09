@@ -149,7 +149,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Education Endowment Foundation
@@ -439,6 +439,7 @@ updated: 2026-10-08
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 详述 EEF 作为英格兰证据中介旗舰的创设经纬、留本基金运作、[[Randomised Controlled Trials\|RCT]] 试验资助与[[Research Schools Network\|研究学校网络]]（RSN）治理架构。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] — 批判 EEF 与澳大利亚 AERO 等[[Policy Network\|政策网络]]如何将[[Cognitive Load Theory\|认知负荷理论]]等特定学说编排为强制教师教育国家标准。
 > - [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] — 剖析 EEF 在英格兰教师教育政策网络中作为“[[Rationalized Myth\|合理化神话]]”的功能及政治[[Champ\|场域]]中的选择性证据利用。
-> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 比较[[OECD\|经合组织]]（OECD）视野下 EEF 克服传统线性清算中心局限、迈向生态型证据中介的系统经验。 [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — 评析 EEF 工具包的学校决策渗透率及研究学校网络（RSN）三年独立评估的因果时滞。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 比较[[OECD\|经合组织]]（OECD）视野下 EEF 克服传统线性清算中心局限、迈向生态型证据中介的系统经验。
+> - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — 评析 EEF 工具包的学校决策渗透率及研究学校网络（RSN）三年独立评估的因果时滞。
 > - [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] — 从[[Critical Realism\|批判实在论]]视阈核查 EEF 新起点拼读试验的数据包装缺陷与[[Teaching Assistant\|助教]]排行榜的去情境化误区。
 > - [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] — 记录美国 [[Every Student Succeeds Act\|ESSA]] [[Title I of the Elementary and Secondary Education Act\|Title I]] 经费审计中将 EEF 视同 [[What Works Clearinghouse\|WWC]] 的国际权威实证。

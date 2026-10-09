@@ -8,10 +8,10 @@ aliases:
 summary: "指主权国家在地缘政治博弈加剧背景下，将半导体、人工智能等战略性关键技术、基础科研与产业链控制力上升为关乎国家生存与主权安全的核心议程；通过出口管制、投资审查、定向产业立法与有组织科研动员，将大学等创新主体深度嵌入国家安全体系。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 35
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/science-policy
   - theme/geopolitics

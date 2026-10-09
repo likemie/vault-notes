@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Merge same-book entries in related-research index callouts.
+"""Merge same-monograph/textbook entries in related-research index callouts.
 
-The first top-level entry for a book remains in place. Later top-level entries
-from the same ``wiki/arguments/books/<book>/`` directory are appended to it as
-inline chapter/source details, so every original link and explanation is kept.
+The first top-level entry for a monograph or textbook remains in place. Later
+top-level entries from the same ``wiki/arguments/books/<book>/`` directory are
+appended to it as inline chapter/source details, so every original link and
+explanation is kept. Edited-volume chapters deliberately remain independent.
 
 The command is a dry run by default. Pass ``--apply`` to write changes.
 """

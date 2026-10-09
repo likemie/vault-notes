@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Sutton Trust
@@ -202,4 +202,5 @@ updated: 2026-10-08
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 映射萨顿信托背后的跨国金融与法律资本网络（高盛、美洲银行、摩根大通、普华永道），剖析其向 [[Education Endowment Foundation\|EEF]] 及澳大利亚（[[Social Ventures Australia\|SVA]]/[[Australian Education Research Organisation\|AERO]]）流动的[[Policy Network\|异质治理]]机制。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 记录萨顿信托发起创设 [[Education Endowment Foundation\|EEF]] 的历史经纬、法定留本基金运营及清算中心联合治理架构。
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 梳理萨顿信托资助杜伦大学编制早期[[Meta-analysis\|元分析]][[Abstract\|研究摘要]]、推动工具包诞生的学术脉络。
-> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 评析萨顿信托通过留本基金设立独立证据中介以化解短期政治选举周期的制度设计。 [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 剖析萨顿信托与 EEF 作为英国[[What Works Network\|有效性网络]]正式成员在[[Evidence-Based Education\|循证教育]]生态中的独特功能。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 评析萨顿信托通过留本基金设立独立证据中介以化解短期政治选举周期的制度设计。
+> - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 剖析萨顿信托与 EEF 作为英国[[What Works Network\|有效性网络]]正式成员在[[Evidence-Based Education\|循证教育]]生态中的独特功能。

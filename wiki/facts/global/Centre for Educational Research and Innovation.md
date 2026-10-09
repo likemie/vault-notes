@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-11
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Centre for Educational Research and Innovation
@@ -197,5 +197,7 @@ updated: 2026-10-08
 > - [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] — 记录 CERI 在 1980 年代孕育指标网络与《[[Education at a Glance\|教育概览]]》的科学争论档案，呈现学者与决策者围绕数据[[Commensuration\|通约]]性的博弈。
 > - [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] — 系统评析 OECD CERI 在高等教育领域推行的[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]原型评价量规及其在真实教学情境中的赋能机制。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] — 引述 CERI 近年来关于加强教育研究影响的政策反思，探讨超越机械循证中介、迈向专业信任与协作参与的新路径。
-> - [[Argument_Revai_2022_ChangingLandscape\|Révai, N. (2022)]] — 梳理 CERI 20 年知识管理与证据治理研究脉络，基于跨国政策调查构建五维[[Evidence Ecosystem\|证据生态系统]]诊断框架。 [[Argument_Revai(Ed.)_2022_OECD\|Révai, N. (Ed.) (2022)]] — CERI [[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]综合成果专著，全面呈现 29 国 37 个教育系统证据治理调研结论。 [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — CERI 专著第 10 章，系统呈现 7 大利益相关者群体关于知识供给侧质量、工会赋权、[[Democratising Evidence\|证据民主化]]与受托伦理的全景论辩。
+> - [[Argument_Revai_2022_ChangingLandscape\|Révai, N. (2022)]] — 梳理 CERI 20 年知识管理与证据治理研究脉络，基于跨国政策调查构建五维[[Evidence Ecosystem\|证据生态系统]]诊断框架。
+> - [[Argument_Revai(Ed.)_2022_OECD\|Révai, N. (Ed.) (2022)]] — CERI [[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]综合成果专著，全面呈现 29 国 37 个教育系统证据治理调研结论。
+> - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — CERI 专著第 10 章，系统呈现 7 大利益相关者群体关于知识供给侧质量、工会赋权、[[Democratising Evidence\|证据民主化]]与受托伦理的全景论辩。
 

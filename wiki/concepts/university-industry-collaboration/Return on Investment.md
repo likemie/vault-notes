@@ -93,7 +93,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-06-02
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Return on Investment
@@ -298,4 +298,5 @@ updated: 2026-10-08
 > - [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] — 记录新西兰基础教育改革中政策话语从普遍供给向“社会投资与回报”的战略转型。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 揭示教育投资回报模型如何充当实证社会科学为国家财政扩张与政策免责背书的“[[Social Science as Legitimation Alibi\|合法化借口]]”。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships\|Oxford & UIDP (2019)]] — 深入探讨[[University-Industry Collaboration\|产学合作]]联合体中 ROI 的差异化定义机制、[[Counterfactual\|反事实]]测算原则与以终端用户受益为核心的价值检验框架。
-> - [[Argument_Swick_Jones_2025_AcademicHealthSystems\|Swick & Jones (2025)]] — 论证[[Academic Health System\|学术健康系统]]在[[Applied Medical Innovation\|医用创新]]产学合作中的独特组织功能，确立以终端用户（患者）安全与体验为底线的 ROI 评估准则与价值对齐机制。 [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025)]] — 系统解构企业资助大学科研面临的“结构性度量赤字”，提出贯穿基础探索至产品集成的两级指标体系（前置与滞后指标）、业务部门 50% 配比资金检验机制以及起源故事溯源保护方案。
+> - [[Argument_Swick_Jones_2025_AcademicHealthSystems\|Swick & Jones (2025)]] — 论证[[Academic Health System\|学术健康系统]]在[[Applied Medical Innovation\|医用创新]]产学合作中的独特组织功能，确立以终端用户（患者）安全与体验为底线的 ROI 评估准则与价值对齐机制。
+> - [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025)]] — 系统解构企业资助大学科研面临的“结构性度量赤字”，提出贯穿基础探索至产品集成的两级指标体系（前置与滞后指标）、业务部门 50% 配比资金检验机制以及起源故事溯源保护方案。

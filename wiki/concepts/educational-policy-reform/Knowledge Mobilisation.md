@@ -98,7 +98,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-21"
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Knowledge Mobilisation
@@ -438,7 +438,8 @@ updated: 2026-10-08
 > - **[[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]]** 揭示校内知识动员对非正式同伴网络的高度依附，指出领导者必须通过建立包容性正式分享结构，防止[[Professional Learning Community\|专业学习共同体]]退化为孤立小组。
 > - **[[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]]** 系统构建知识动员四类核心推进策略，总结安大略 [[Knowledge Network for Applied Education Research\|KNAER]] 全系统伙伴关系与三位一体法则。
 > - **[[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]]** 将知识动员应用于北欧 [[Visible Learning]] 学校改进，揭示能力建设、同行研讨与组织支持对证据转化的决定性作用。
-> - **[[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]]** 结合 [[OECD]] 29 国 37 个教育系统政策调查，构建知识流动三代嵌套模型与五维[[Analytic Framework\|分析框架]]，揭示学术考核体制与[[Knowledge Co-production\|知识共创]]的深层断裂。 **[[Argument_Torres_2022_KMModels\|Torres, P. (2022)]]** 跨领域系统横向比较四类经典知识动员模型与四类前沿微观补充模型，提炼出构件双层嵌套与行动者多维复合演进规律，并提出确立终极目标等四大未来建构路径。
+> - **[[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]]** 结合 [[OECD]] 29 国 37 个教育系统政策调查，构建知识流动三代嵌套模型与五维[[Analytic Framework\|分析框架]]，揭示学术考核体制与[[Knowledge Co-production\|知识共创]]的深层断裂。
+> - **[[Argument_Torres_2022_KMModels\|Torres, P. (2022)]]** 跨领域系统横向比较四类经典知识动员模型与四类前沿微观补充模型，提炼出构件双层嵌套与行动者多维复合演进规律，并提出确立终极目标等四大未来建构路径。
 > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]** 综合 109 项实证研究，批判线性实施取向，提出以信任、技能、组织结构与关系为核心的跨层整合治理框架。
 > - **[[Argument_Dean_2025_UICollaborationSupport\|Dean et al. (2025)]]** 结合加拿大滑铁卢大学 [[Schlegel-UW Research Institute for Aging\|RIA]] 案例，论证共同选址与终端嵌入在推动健康研究成果向临床照护快速动员中的机制。
 > - **[[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]]** 梳理欧盟证据中介组织与[[Educational Brokerage Agency\|知识经纪]]网络，展示非处方化协调与跨国同伴学习的知识流动路径。

@@ -153,7 +153,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Positivism
@@ -461,7 +461,10 @@ updated: 2026-10-08
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 113)]] — 系统复原孔德实证主义的起源、四[[Big Science|大科学]][[Hypothesis|假设]]、Giddens 识别的方法论统一与产出同构双重预设，展现当代教育研究向后实证与批判[[Paradigm|范式]]演进的完整版图。
-> - **《比较教育国际手册》专著论述** [[Argument_Cowen_2009_CE|Cowen (2009b)]] — 考证比较教育实证主义兴衰，涵盖准实证启蒙（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009]]）、范式围剿（[[Argument_Kazamias_2009_ForgottenThemes|Kazamias, 2009b]]）、政治借口（[[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009]]）及唯方法论反思（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 剖析比较教育学奠基人[[Marc-Antoine Jullien\|朱利安]]构建的准实证科学体系，澄清其事实分析图表与跨国[[Questionnaire\|问卷]]归属于欧陆二级[[Geisteswissenschaften|精神科学]]，揭示其经验收集始终从属于全人[[Bildung\|教化]]与社会改良，强力反驳 20 世纪行为主义实证派以[[Value Neutrality\|价值中立]]为由指责其带有主观偏见的辉格史错置。
+> - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 系统梳理 20 世纪 60 年代诺亚与埃克斯坦（Noah & Eckstein）、霍姆斯（Holmes）、安德森（Anderson）与埃普斯坦（Epstein）等实证主义学者对历史比较学派发起的范式围剿，揭示实证派如何从依赖私人洞察力、缺乏因果预测力、个殊事实无法抽象以及涉嫌神秘主义四个维度将历史传统贬为“前科学”，并反思实证科学对英语 *Science* 狭隘词义垄断的[[Epistemology\|认识论]]局限。
+> - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 深入剖析 20 世纪 60 年代比较教育实证[[Scientific Paradigm\|科学范式]]内部围绕“法则性质”的深刻分野（芝加哥学派的恒常规律 vs 哥大学派的[[Variable\|变量]]函数共变 vs 霍姆斯的权变社会学法则与预测划界），揭示实证主义之所以在实践中胜出，根源于其充当了战后国家五年计划与技术援助的政治[[Social Science as Legitimation Alibi\|合法化借口]]（alibi），并追踪其在现实危机、量子不确定性转向与后现代思潮冲击下向多元范式演进的终结轨迹。
+> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 剖析比较教育学两百年四重论述代际演变，揭示 20 世纪 60 年代“新科学革命”如何异化为斯蒂芬·图尔敏（Stephen Toulmin, 1963）所批评的科学一元论与[[Bernard Barber|伯纳德·巴伯]]（Bernard Barber, 1972）所批判的[[Empiricism|唯方法论主义]]（Methodologism）；阐明霍姆斯（[[Brian Holmes]]）[[Problem Approach|问题法]]作为“后相对论社会科学”对古典实证论的拒斥，结合卡诺伊（Carnoy, 1983）批判揭示实证主义作为资本主义再生产“意识形态借口”的政治本质，并实证诊断实证霸权导致历史论文暴跌跌破 5% 所诱发的严重“[[Historical Amnesia|历史健忘症]]”（Historical Amnesia）。
 > - [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] — 揭示中小学科学教育深受教条实证主义影响，呼吁突破[[Formal Epistemology|形式认识论]]转向[[Practical Epistemology|实践认识论]]。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] — 剖析当代[[Evidence-Based Education|循证教育]]狂热标榜的实证主义科学[[Discourse|话语]]，揭示将教学质量简化为[[Meta-analysis|元分析]][[Effect Size|效应量]]对微观教学[[Ontology|本体论]]的抽空。
 > - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne (2003)]] — 系统考证 2000–2003 年美国联邦立法中法定实证主义与后实证科学原则的历史争鸣。

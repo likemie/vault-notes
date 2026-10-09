@@ -207,6 +207,8 @@ PERSON_YEAR_PATTERN = re.compile(
 ALLOWED_CONFIDENCE = {"high", "medium", "low"}
 ALLOWED_STATUS = {"draft", "in-progress", "stable", "archived", "active", "published", "completed"}
 RELATED_RESEARCH_ENTRY_MAX_CHARS = 150
+MERGEABLE_BOOK_SUBTYPES = ("monograph", "textbook")
+EDITED_VOLUME_BOOK_SUBTYPES = ("edited-volume", "edited-volume-overview")
 
 TYPE_TO_RELATED_FIELD = {
     "concept": "related_concepts",
@@ -883,8 +885,31 @@ def normalize_title(s: str) -> str:
     return s.strip()
 
 
+@lru_cache(maxsize=None)
+def book_folder_subtype(book_folder: str) -> str:
+    """Read the overview subtype that determines how a book folder is indexed."""
+    directory = WIKI_DIR / "arguments" / "books" / book_folder
+    if not directory.exists():
+        return ""
+    subtypes: set[str] = set()
+    for path in directory.glob("*.md"):
+        data = entry_metadata(path)
+        subtype = str((data or {}).get("subtype") or "").strip()
+        if subtype:
+            subtypes.add(subtype)
+    # Safety first: any edited-volume marker prevents chapter consolidation,
+    # even if inconsistent metadata also contains a mergeable subtype.
+    for subtype in EDITED_VOLUME_BOOK_SUBTYPES:
+        if subtype in subtypes:
+            return subtype
+    for subtype in MERGEABLE_BOOK_SUBTYPES:
+        if subtype in subtypes:
+            return subtype
+    return ""
+
+
 def argument_book_key(target: str, by_title: Dict[str, Dict[str, Any]]) -> Optional[str]:
-    """Return the shared book-directory key for an indexed Argument target."""
+    """Return a shared folder key only for monograph/textbook Arguments."""
     item = by_title.get(target)
     if not item or item.get("type") != "argument":
         return None
@@ -892,7 +917,8 @@ def argument_book_key(target: str, by_title: Dict[str, Dict[str, Any]]) -> Optio
     parts = Path(str(item.get("path") or "")).parts
     if len(parts) < 5 or parts[:3] != ("wiki", "arguments", "books"):
         return None
-    return parts[3]
+    subtype = str(item.get("book_subtype") or book_folder_subtype(parts[3])).strip()
+    return parts[3] if subtype in MERGEABLE_BOOK_SUBTYPES else None
 
 
 def markdown_visible_text(text: str) -> str:
@@ -976,7 +1002,7 @@ def check_related_research_duplicate_books(
     by_title: Dict[str, Dict[str, Any]],
     issues: List[Issue],
 ) -> None:
-    """Warn when one related-research index lists several chapters of one book.
+    """Warn when one index lists several chapters of one monograph/textbook.
 
     Only the top-level bullets of callouts titled ``相关研究索引`` count as
     source entries. Links inside an entry's explanation remain free to point to
@@ -1050,7 +1076,7 @@ def check_related_research_duplicate_books(
             issues.append(Issue(
                 "WARN",
                 rel(path),
-                f"相关研究索引重复列出同一本书：[[{previous_target}]]（第 {previous_line} 行）与 "
+                f"相关研究索引重复列出同一本专著或教材：[[{previous_target}]]（第 {previous_line} 行）与 "
                 f"[[{target}]]；请合并为一个顶层来源条目，并在说明中保留所需章节链接",
                 line=line_number,
                 code="RELATED_RESEARCH_DUPLICATE_BOOK",

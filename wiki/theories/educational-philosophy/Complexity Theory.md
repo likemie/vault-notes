@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Complexity Theory
@@ -311,5 +311,6 @@ updated: 2026-10-08
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 28)]] — 确立复杂性理论作为超越实证与诠释的新兴[[Paradigm\|范式]]，阐述 [[Chinese Academy of Sciences|CAS]] 五大机制、受控实验四大解构与 Kuhn 五大公理。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch. 16, p. 319)]] — 深入反思[[Experimental Research\|实验研究]]在开放教育情境中的因果局限与[[Variable\|变量]]控制悖论。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|Cohen et al. (2011, Ch. 18, p. 278)]] — 系统论证行动研究与复杂性理论的九重深层学理共鸣。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al. (2011, Ch. 19, p. 335)]] — 详析基于主体建模（ABM）与[[Virtual World\|虚拟世界]]对复杂性自组织涌现原理的实践化检验。
-> - [[Argument_Torres_2022_KMModels\|Torres (2022b, pp. 35–37)]] — 论证复杂自适应系统作为[[Knowledge Mobilisation\|知识动员]]第三代范式与教育系统生态治理的元理论价值。 [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a, pp. 118–119)]] — 结合[[OECD\|经合组织]] 37 个教育系统实证调查，论证复杂系统思维在破除机制孤岛中的决定性作用，并提出系统战略的实证检验赤字与实施反思。
+> - [[Argument_Torres_2022_KMModels\|Torres (2022b, pp. 35–37)]] — 论证复杂自适应系统作为[[Knowledge Mobilisation\|知识动员]]第三代范式与教育系统生态治理的元理论价值。
+> - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a, pp. 118–119)]] — 结合[[OECD\|经合组织]] 37 个教育系统实证调查，论证复杂系统思维在破除机制孤岛中的决定性作用，并提出系统战略的实证检验赤字与实施反思。
 > - [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, pp. 9–12)]] — 引入政策执行复杂性理论（Honig, 2006），剖析德语区教育监测治理中中层研训督导界面（Landesinstitute / Schulinspektion）与单体学校组织吸收能力的非线性互动，解释新治理工具成效缺失的系统机制。

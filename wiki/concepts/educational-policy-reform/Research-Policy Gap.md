@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Research-Policy Gap
@@ -236,5 +236,6 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — 跨国实证绘制 37 个教育系统政策端的[[Research Utilization\|研究利用]]阻碍与机制部署全景，系统剖析时间错配与需求委托倒挂。 [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 辨析超越线性政策转移动员模式的关系统筹[[Paradigm\|范式]]与治理结构。
+> - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — 跨国实证绘制 37 个教育系统政策端的[[Research Utilization\|研究利用]]阻碍与机制部署全景，系统剖析时间错配与需求委托倒挂。
+> - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 辨析超越线性政策转移动员模式的关系统筹[[Paradigm\|范式]]与治理结构。
 > - [[Argument_Serpell_2020_EP\|Serpell (2020)]] — 基于美国国会众议院立法实务，剖析证据在联邦教育政策制定中的转化困境，揭示政策时间系统与十年实验周期的脱节，提出整合法定示范条文的[[Legislative Policy Brief\|立法政策简报]]与国会研究员制度化弥合路径。

@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Social Science as Legitimation Alibi
@@ -235,7 +235,8 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 历史社会学考证了 1960 年代比较教育学实证[[Scientific Paradigm\|科学范式]]如何作为战后国家计划、[[Human Capital Theory\|人力资本]]投资与技术援助的合法化借口（alibi），并追踪其在 1970 年代危机后的多元演变与当代 [[PISA]] 惯性。 [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 梳理两百年比较教育学术史，揭示 19 世纪欧美行政改良者（[[Horace Mann|曼]]、巴纳德）如何将跨国数据用作推动公共教育立法的“合法化理由”（legitimising rationales），分析战后政府与国际组织（[[OECD]]、[[World Bank|世界银行]]）对[[Positivism|实证主义]]的制度赞助与政策利益驱动，并结合卡诺伊（Carnoy, 1983）批判阐释实证功能主义作为资本主义再生产意识形态借口（ideological alibi）的深层本质。
+> - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 历史社会学考证了 1960 年代比较教育学实证[[Scientific Paradigm\|科学范式]]如何作为战后国家计划、[[Human Capital Theory\|人力资本]]投资与技术援助的合法化借口（alibi），并追踪其在 1970 年代危机后的多元演变与当代 [[PISA]] 惯性。
+> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 梳理两百年比较教育学术史，揭示 19 世纪欧美行政改良者（[[Horace Mann|曼]]、巴纳德）如何将跨国数据用作推动公共教育立法的“合法化理由”（legitimising rationales），分析战后政府与国际组织（[[OECD]]、[[World Bank|世界银行]]）对[[Positivism|实证主义]]的制度赞助与政策利益驱动，并结合卡诺伊（Carnoy, 1983）批判阐释实证功能主义作为资本主义再生产意识形态借口（ideological alibi）的深层本质。
 > - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 揭示了冷战时期及全球化时代跨国测试（[[IEA]] 与 PISA）如何从学术性的文化理解异化为新自由主义国家机器追求治理效率与正当性的附庸工具。
 
 ---

@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Immanuel Wallerstein
@@ -126,7 +126,8 @@ updated: 2026-10-08
 > - **政策与机构批判** 为解构[[World Bank|世界银行]]、[[International Monetary Fund|IMF]] 等多边金融组织以及大型跨国基金会的教育援助政策提供了锐利武器，揭示外部援助固化依附性分层的实质。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–106)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 全面系统梳理沃勒斯坦长时段历史观与世界体系分析对比较教育学的深层奠基，对比现实主义冲突论与斯坦福新制度主义的[[Paradigm|范式]]分歧。 [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 在第四阶段[[Discourse|话语]]（1970–1990）跨国转向中，评述沃勒斯坦现代[[World-Systems Theory|世界体系理论]]为比较教育学打破功能主义现代化迷思提供了宏观结构基石，同时反思该阶段宏观批判与学科“[[Historical Amnesia|历史健忘症]]”并存的历史学悖论。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 全面系统梳理沃勒斯坦长时段历史观与世界体系分析对比较教育学的深层奠基，对比现实主义冲突论与斯坦福新制度主义的[[Paradigm|范式]]分歧。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 在第四阶段[[Discourse|话语]]（1970–1990）跨国转向中，评述沃勒斯坦现代[[World-Systems Theory|世界体系理论]]为比较教育学打破功能主义现代化迷思提供了宏观结构基石，同时反思该阶段宏观批判与学科“[[Historical Amnesia|历史健忘症]]”并存的历史学悖论。
 
 ---
 

@@ -81,7 +81,7 @@ updated: 2026-10-08
 - Argument 条目引用当前对应文献时只写页码，例如（p.147）或（pp.147–148）。
 - Argument 条目引用当前文献之外的已处理文献时，使用 APA 短引用。
 - 同一普通段落或同一 callout 内，相同来源与相同页码的引用只出现一次。跨段落、跨 callout 或页码不同可以分别引用。`vault_lint.py` 使用 `CITATION_DUPLICATE_IN_UNIT` 检查。
-- 同一个“相关研究索引”中，同一本书只保留一个顶层来源条目；涉及不同章节时，在该条说明中补充各章 Argument 链接，不把章节分别列成多个来源。专著可用全书 Argument 作为顶层入口；论文集仍以可引用的章节 Argument 为主，不用 overview 替代章节证据。`vault_lint.py` 使用 `RELATED_RESEARCH_DUPLICATE_BOOK` 提醒合并。
+- 同一个“相关研究索引”中，同一本专著或教材只保留一个顶层来源条目；涉及不同章节时，在该条说明中补充各章 Argument 链接，不把章节分别列成多个来源。论文集各章由不同作者承担独立论证，必须分别保留为顶层索引条目，不得合并，也不得用 overview 替代章节证据。`vault_lint.py` 使用 `RELATED_RESEARCH_DUPLICATE_BOOK` 检查专著和教材，自动排除论文集。
 - “相关研究索引”的每个顶层条目只写一句话，可见文字不得超过 150 个字符；计数排除 wikilink 目标和 Markdown 标记，保留链接显示文字、正文与标点。超出时回到 Argument 查看细节，不在索引卡片堆叠摘要。`vault_lint.py` 使用 `RELATED_RESEARCH_ENTRY_TOO_LONG` 提醒精简。
 - 原文已有 `Author (YearSuffix: page)` 或 `Author, YearSuffix: page` 这类内部参考文献编号时，清除原文后缀，只保留作者、年份和页码，例如将 `Tandon (2005c: 30)` 写作 `Tandon (2005, p. 30)`；未独立处理该文献前不自动补链。
 - Argument frontmatter 的 `authors` 必须写成 YAML 列表，每位作者单独一项。

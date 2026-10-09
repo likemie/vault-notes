@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Crane Brinton
@@ -131,7 +131,8 @@ updated: 2026-10-08
 > - **比较教育学[[Epistemology|认识论]]辩护** 被卡扎米亚斯在 1963 年论战及 2009 年《国际手册》两篇纲领性论著中反复援引，成为打破战[[Postpositivism|后实证主义]]对“比较”与“科学”狭隘垄断的关键史学认识论武器。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 56)]]；[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 151–152)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 卡扎米亚斯在历史-哲学母题论述中援引布林顿比较史学，论证非普适[[Working Hypothesis|工作假说]]在跨情境历史比较中的理论建构效能。 [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯在学科两百年历史反思中再次重申布林顿命题，驳斥历史仅处理独特个别事实而无法比较的实证偏见，确立历史学与社会科学在普遍性与个殊性关怀上的同构性。
+> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 卡扎米亚斯在历史-哲学母题论述中援引布林顿比较史学，论证非普适[[Working Hypothesis|工作假说]]在跨情境历史比较中的理论建构效能。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯在学科两百年历史反思中再次重申布林顿命题，驳斥历史仅处理独特个别事实而无法比较的实证偏见，确立历史学与社会科学在普遍性与个殊性关怀上的同构性。
 
 ---
 

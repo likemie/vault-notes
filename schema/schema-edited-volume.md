@@ -9,6 +9,7 @@
 - 模板读取顺序统一为 `wiki/templates/TEMPLATE-SPEC.md` → `wiki/templates/CALLOUTS.md` → 对应 `wiki/templates/template-*.md`。
 - 论文集 overview 是整本书的结构入口，使用 `wiki/templates/template-argument-edited-volume.md`，负责维护编者问题意识、全书组织逻辑、跨章主题线索和章节处理路线。
 - 论文集章节是主要可引用单元，使用 `wiki/templates/template-argument.md`。
+- 在知识条目的“相关研究索引”中，各章节 Argument 必须按章节作者和独立论证分别列为顶层条目；不得因同属一本论文集而合并，也不得用 overview 汇总条目替代具体章节证据。
 - 章节 Argument 的 citation 字段按章节作者、章节年份和章节标题填写。
 - overview source 与章节 source 都放在 `books/<book-folder>/`，不放 `sources/`。
 - PDF 是本地阅读副本，保留在 `books/<book-folder>/`，但不进入 git；同一路径的文件需要同步到 NAS，并按 `https://img.mylikemie.icu/books/<book-folder>/<文件名>` 发布。`source_record.py` 会同时生成本地阅读入口和 NAS iframe。

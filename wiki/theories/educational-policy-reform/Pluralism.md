@@ -230,5 +230,6 @@ updated: 2026-10-09
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 检验传统多元主义写信动员的失败，论证[[Cultural Capital|文化资本]]对多元博弈的阻隔，倡导[[Critical Pluralism|批判性多元主义]]。
-> - Cowen & Kazamias (2009) — 比较教育国际手册：[[Argument_Mitter_2009_Europe|Mitter (2009)]] 论述文化多元主义在抵御世界体系单一普遍主义[[Disciplina and Doctrina|规训]]中的作用；[[Argument_Rust_2009_Reflections|Rust et al. (2009)]] 实证论证 26 种[[Theoretical Perspective|理论视角]]的共存繁荣，确立“健康多元主义”[[Paradigm|范式]]地位。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 梳理欧洲比较教育学演进脉络，论述文化多元主义在抵御世界体系单一普遍主义[[Disciplina and Doctrina|规训]]中的不可替代作用。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 对半个世纪比较教育研究进行[[Document|文献]]计量与学术调查，实证论证26种[[Theoretical Perspective|理论视角]]的共存繁荣，确立“健康多元主义”学科[[Paradigm|范式]]地位。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 《[[Technological Republic|技术共和国]]》：[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch. 17]] 结合新加坡多元社会语言政策与麦金太尔学说，批判“淹没性多元主义”与虚无宽容；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch. 18]] 批判[[Cultural Relativism|文化相对主义]]与[[John Rawls|罗尔斯]]形式中立，呼吁重塑实质伦理美德与审美品味。

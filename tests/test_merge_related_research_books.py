@@ -16,16 +16,34 @@ BOOK_INDEX = {
         "title": "Argument_Book_Ch01",
         "type": "argument",
         "path": "wiki/arguments/books/Book/Argument_Book_Ch01.md",
+        "book_subtype": "monograph",
     },
     "Argument_Book_Ch02": {
         "title": "Argument_Book_Ch02",
         "type": "argument",
         "path": "wiki/arguments/books/Book/Argument_Book_Ch02.md",
+        "book_subtype": "monograph",
     },
     "Argument_Other": {
         "title": "Argument_Other",
         "type": "argument",
         "path": "wiki/arguments/books/Other/Argument_Other.md",
+        "book_subtype": "monograph",
+    },
+}
+
+EDITED_VOLUME_INDEX = {
+    "Argument_Volume_Ch01": {
+        "title": "Argument_Volume_Ch01",
+        "type": "argument",
+        "path": "wiki/arguments/books/Volume/Argument_Volume_Ch01.md",
+        "book_subtype": "edited-volume",
+    },
+    "Argument_Volume_Ch02": {
+        "title": "Argument_Volume_Ch02",
+        "type": "argument",
+        "path": "wiki/arguments/books/Volume/Argument_Volume_Ch02.md",
+        "book_subtype": "edited-volume",
     },
 }
 
@@ -83,6 +101,19 @@ class MergeRelatedResearchBooksTests(unittest.TestCase):
         self.assertEqual(1, first_count)
         self.assertEqual(0, second_count)
         self.assertEqual(once, twice)
+
+    def test_edited_volume_chapters_are_not_merged(self) -> None:
+        text = (
+            "## 相关研究\n\n"
+            "> [!evidence-grid-a] 相关研究索引\n"
+            "> - [[Argument_Volume_Ch01|Author A (2025)]] — 第一章。\n"
+            "> - [[Argument_Volume_Ch02|Author B (2025)]] — 第二章。\n"
+        )
+
+        result, count = merge_duplicate_book_entries(text, EDITED_VOLUME_INDEX)
+
+        self.assertEqual(0, count)
+        self.assertEqual(text, result)
 
 
 if __name__ == "__main__":

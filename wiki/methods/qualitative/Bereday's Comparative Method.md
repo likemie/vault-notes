@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Bereday's Comparative Method
@@ -192,4 +192,6 @@ updated: 2026-10-08
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Rust_2009_Reflections|Rust et al., 2009]] — 将贝雷迪四步归纳法确立为 1960 年代学科实证科学化历程中经验归纳进路的最系统代表形态，剖析其与霍姆斯假说演绎法的世纪论争。 [[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009]] — 深度评述贝雷迪《教育中的比较方法》如何充当历史学派向社会[[Scientific Paradigm|科学范式]]过渡的理论桥梁，并以此界定科学比较研究的四步[[Paradigm|范式]]。 [[Argument_Cowen_2009_HistoryCreation|Cowen, 2009a]] — 考证贝雷迪四步法在确立战后比较教育学专业地位与跨国学术共同体网络构建中的奠基性历史作用。
+> - [[Argument_Rust_2009_Reflections|Rust et al., 2009]] — 将贝雷迪四步归纳法确立为 1960 年代学科实证科学化历程中经验归纳进路的最系统代表形态，剖析其与霍姆斯假说演绎法的世纪论争。
+> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009]] — 深度评述贝雷迪《教育中的比较方法》如何充当历史学派向社会[[Scientific Paradigm|科学范式]]过渡的理论桥梁，并以此界定科学比较研究的四步[[Paradigm|范式]]。
+> - [[Argument_Cowen_2009_HistoryCreation|Cowen, 2009a]] — 考证贝雷迪四步法在确立战后比较教育学专业地位与跨国学术共同体网络构建中的奠基性历史作用。

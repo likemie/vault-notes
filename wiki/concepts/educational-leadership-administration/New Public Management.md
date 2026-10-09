@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # New Public Management
@@ -268,7 +268,8 @@ updated: 2026-10-08
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 批判 NPM 将政府局限于被动市场修补与外包监管的弊端，论证企业型国家的主动[[Market Shaping and Creating|市场塑造]]与共创能力。
 > - [[Argument_Møller_2017_EERJ|Møller (2017)]] — 分析挪威等北欧国家基础教育中 NPM 问责制与督导评级对教师专业自主与教育公平的侵蚀。
 > - [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] — 揭示英格兰 35 年教师教育改革中 NPM 如何将循证实践异化为性价比核算与[[Policy-Based Evidence-Making|逆向证据生产]]。
-> - [[Argument_Amos_2022_Springer|Amos (2022)]] — 阐明 NPM 治理[[Discourse|话语]]在教育结构中的自然化嵌入与[[Knowledge-Based Economization|知识经济化]]机制。 [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 探讨[[Internationalization of Higher Education|高等教育国际化]]中 NPM 驱动的留学生市场化依赖与企业化转型。
+> - [[Argument_Amos_2022_Springer|Amos (2022)]] — 阐明 NPM 治理[[Discourse|话语]]在教育结构中的自然化嵌入与[[Knowledge-Based Economization|知识经济化]]机制。
+> - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 探讨[[Internationalization of Higher Education|高等教育国际化]]中 NPM 驱动的留学生市场化依赖与企业化转型。
 > - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 批判领导力培训项目中管理主义能力框架对校长专业身份的[[Disciplina and Doctrina|规训]]。
 > - [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]] — 比较英德高等教育中 NPM 绩效评估与[[Research Excellence Framework|研究卓越框架]]对资源分层的强化。
 

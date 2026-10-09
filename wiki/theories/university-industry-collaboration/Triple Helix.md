@@ -8,7 +8,7 @@ aliases:
 summary: "Etzkowitz 与 Leydesdorff 于 1995 年提出的创新系统理论，阐明大学、产业与政府在知识经济中突破单向线性分工、形成非线性反馈与职能重叠的动态螺旋；历经创业型大学、产业公私联合体到国家地缘战略安全化四代演进，并揭示了宏观使命整合与微观组织碎片化之间的深层治理张力。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 66
+theory_related_count: 72
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -332,7 +332,11 @@ updated: 2026-10-09
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied (2008)]] — 系统梳理 1940 至 2000 年代美国[[Research Universities|研究型大学]]与政府、产业关系的历史变迁，详述 1978 年 [[National Science Foundation|NSF]] [[University-Industry Collaboration|产学合作]]试点计划、11 年期 [[Engineering Research Centers|ERC]]/[[Science and Technology Centers|STC]] 机制、《[[Bayh-Dole Act of 1980|拜杜法案]]》专利激增实证，以及对大学异化为工业“代工车间”的制度警示。
-> - [[Argument_Hall(Ed.)_2025_Springer|Hall & Boccanfuso (Eds.) (2025)]] — 汇集 [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]]、[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]]、[[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]]、[[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al. (2025)]] 与 [[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones (2025)]] 三螺旋研究。
+> - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]] — 纵跨五十余年系统追踪英美日等国大学-产业-政府关系的演进历程，分析 1980 年代以来大学“[[Third Mission|第三使命]]”的制度化与长期公式化拨款机制。
+> - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b]] — 以三重螺旋为宏观背景，深入大学内部黑箱，实证揭示产学对接的五种组织模式及宏观整合与微观碎片化之间的理论张力。
+> - [[Argument_Ramming_2025_CorporateSupport|Ramming, 2025]] — 从企业[[Academic Engagement Team|学术参与团队]]视角提炼美国半导体行业三代公私伙伴关系（[[Public-Private Partnership in Research|PPP]]）演进历程，展现三重螺旋在具体产业中由项目化向国家法制化的跃升。
+> - [[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al., 2025]] — 运用三重螺旋、关系社会资本与[[Technology Transfer|技术转移]]多重视角，系统评估国际产学研发与创新合作面临的制度与文化阻碍。
+> - [[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025]] — 结合[[Academic Health System|学术健康系统]]实证，指明在强监管、高合规领域中政府主要行使规则监管者职能，对三重螺旋提出关键结构性修正。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统分析《[[CHIPS and Science Act|芯片与科学法案]]》背景下美国研究型大学在国家半导体体系中的角色重构，阐明基础研究引领、全链条人才培养、多圈层网络编织与[[Securitization of Technology|技术安全化]]协同治理的第四代三螺旋演进形态。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，论证 2025 年起美国科技政策转向以技术能力掌控为核心的替代契约，剖析国家实验室与企业崛起对研究型大学轴心地位的替代效应及三轨分化生态。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP (2019)]] — 深度剖析[[Netherlands Top-sector Policy|荷兰顶级行业政策]]如何激活三重螺旋，论证三方互动质量而非单纯研发强度投入是决定[[Competitiveness|国家竞争力]]的核心驱动。

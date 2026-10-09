@@ -16,21 +16,37 @@ BOOK_INDEX = {
         "title": "Argument_Book",
         "type": "argument",
         "path": "wiki/arguments/books/Book/Argument_Book.md",
+        "book_subtype": "monograph",
     },
     "Argument_Book_Ch11": {
         "title": "Argument_Book_Ch11",
         "type": "argument",
         "path": "wiki/arguments/books/Book/Argument_Book_Ch11.md",
+        "book_subtype": "monograph",
     },
     "Argument_Book_Ch12": {
         "title": "Argument_Book_Ch12",
         "type": "argument",
         "path": "wiki/arguments/books/Book/Argument_Book_Ch12.md",
+        "book_subtype": "monograph",
     },
     "Argument_Other_Book": {
         "title": "Argument_Other_Book",
         "type": "argument",
         "path": "wiki/arguments/books/Other/Argument_Other_Book.md",
+        "book_subtype": "monograph",
+    },
+    "Argument_Volume_Ch01": {
+        "title": "Argument_Volume_Ch01",
+        "type": "argument",
+        "path": "wiki/arguments/books/Volume/Argument_Volume_Ch01.md",
+        "book_subtype": "edited-volume",
+    },
+    "Argument_Volume_Ch02": {
+        "title": "Argument_Volume_Ch02",
+        "type": "argument",
+        "path": "wiki/arguments/books/Volume/Argument_Volume_Ch02.md",
+        "book_subtype": "edited-volume",
     },
 }
 
@@ -96,6 +112,16 @@ class RelatedResearchBookTests(unittest.TestCase):
             "> [!evidence-grid-a] 证据索引\n"
             "> - [[Argument_Book_Ch11|Author (2025, Ch. 11)]] — 第一项。\n"
             "> - [[Argument_Book_Ch12|Author (2025, Ch. 12)]] — 第二项。\n"
+        )
+
+        self.assertEqual([], issues)
+
+    def test_edited_volume_chapters_remain_independent_entries(self) -> None:
+        issues = self.lint(
+            "## 相关研究\n\n"
+            "> [!evidence-grid-a] 相关研究索引\n"
+            "> - [[Argument_Volume_Ch01|Author A (2025)]] — 第一章。\n"
+            "> - [[Argument_Volume_Ch02|Author B (2025)]] — 第二章。\n"
         )
 
         self.assertEqual([], issues)

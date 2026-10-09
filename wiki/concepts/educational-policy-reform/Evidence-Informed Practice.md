@@ -122,7 +122,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-01"
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Evidence-Informed Practice
@@ -428,7 +428,9 @@ updated: 2026-10-08
 > - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 运用专长社会学理论框架，对英格兰、苏格兰与德国汉堡 34 所中小学的 53 名[[School Leadership\|学校领导]]者展开跨国比较，揭示宏观治理体制对 EIP 的深层塑造：英格兰高利害问责导致[[Research Utilization\|研究使用]]异化为象征性合规工具，而苏格兰与汉堡的低利害探究文化促进了实践者[[Contributory Expertise\|贡献型专长]]与外部[[Interactional Expertise\|交互型专长]]的有机融合。
 > - [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] — 结合德语区教学清算中心（[[Clearing House Unterricht]], CHU）近十年运行实践与高校教师教育者（$N = 189$）评估数据，论证以高[[Reliability\|信度]][[Meta-analysis\|元分析]]为证据基底进行通俗化二次加工、以高校师资培训者为辐射支点并健全双向反馈机制，是推进教师教育 EIP 转型与破除[[Research-Practice Gap\|转移困境]]的有效路径。
 > - [[Argument_Brown_2017_ER\|Brown et al. (2017)]] — 诊断 EIP 在微观实践中的 [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 双轨割裂困境，提出八步 [[School Enquiry Cycle\|ESTI]] [[Inquiry Cycle\|探究循环]]与三大微观支撑机制，为两界整合与 EIP 微观[[Operationalization\|操作化]]奠定理论与实证基石。
-> - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 莫纳什大学 Q 项目旗舰成果，结合全澳 906 名教育者两轮调查与[[In-depth Interview\|深度访谈]]，系统揭示从证据质量向使用质量跃迁的实践机制，确立六大特征并量化检验榜样领导力与时间赤字的决定性影响。 [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 追溯 15 年来循证运动从政策端向实践端的演进历程，反思证据知情标签的商业公关化风险，并借助循证医学反思捍卫教师[[Professional Judgment\|专业判断]]与[[Knowledge Mediation\|知识中介]]的独立性。 [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 梳理 EIP [[Epistemology\|认识论]]变迁与 20 年知识管理脉络，将实践知情与政策决策统合进复杂[[Evidence Ecosystem\|证据生态系统]]，并对 29 国跨国政策调查框架展开系统奠基。
+> - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 莫纳什大学 Q 项目旗舰成果，结合全澳 906 名教育者两轮调查与[[In-depth Interview\|深度访谈]]，系统揭示从证据质量向使用质量跃迁的实践机制，确立六大特征并量化检验榜样领导力与时间赤字的决定性影响。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 追溯 15 年来循证运动从政策端向实践端的演进历程，反思证据知情标签的商业公关化风险，并借助循证医学反思捍卫教师[[Professional Judgment\|专业判断]]与[[Knowledge Mediation\|知识中介]]的独立性。
+> - [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 梳理 EIP [[Epistemology\|认识论]]变迁与 20 年知识管理脉络，将实践知情与政策决策统合进复杂[[Evidence Ecosystem\|证据生态系统]]，并对 29 国跨国政策调查框架展开系统奠基。
 > - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 系统构建 EIP 的三维理论框架，阐述四源整合机制、[[Knowledge Mobilisation\|知识动员]]策略与成果测量类型学。
 > - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]] — 通过马里兰州 [[Students and Teachers Accessing Tomorrow\|STAT]] 技术改革项目，检验 [[Every Student Succeeds Act\|ESSA]] [[Evidence Standards\|证据标准]]在学区采购与复杂改革中的局限性，论证[[Local Knowledge in Evidence-Based Policy\|地方知识]]与实施成本对[[Evidence-Informed Decision-Making\|证据知情决策]]的塑造作用。
 > - [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] — 梳理欧盟证据知情教育政策与中介机构网络，提出适应成员国教育主权、非处方式推进评价文化与证据支持的跨国治理路径。

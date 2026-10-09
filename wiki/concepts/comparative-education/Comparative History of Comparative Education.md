@@ -67,7 +67,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Comparative History of Comparative Education
@@ -227,4 +227,5 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] — 考恩系统阐述“比较教育学的历史应成为比较教育学的比较史”这一核心纲领，提出解构[[Academic Iconography\|学术肖像学]]、开掘隐蔽历史与纳入多中心经验的史学编纂议程。 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 卡洛扬纳基与卡扎米亚斯通过精细考据 19 世纪英美法[[Primary and Secondary Documents\|原始文献]]，解构了学科发端的单一实证[[Empiricism\|经验主义]]神话，还原了准科学人道主义与行政[[Educational Meliorism\|改良主义]]交织的双重现代主义母题，为比较教育学比较史的个案[[Rich and Thick Description\|深描]]树立了典范。
+> - [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] — 考恩系统阐述“比较教育学的历史应成为比较教育学的比较史”这一核心纲领，提出解构[[Academic Iconography\|学术肖像学]]、开掘隐蔽历史与纳入多中心经验的史学编纂议程。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 卡洛扬纳基与卡扎米亚斯通过精细考据 19 世纪英美法[[Primary and Secondary Documents\|原始文献]]，解构了学科发端的单一实证[[Empiricism\|经验主义]]神话，还原了准科学人道主义与行政[[Educational Meliorism\|改良主义]]交织的双重现代主义母题，为比较教育学比较史的个案[[Rich and Thick Description\|深描]]树立了典范。

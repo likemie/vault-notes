@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Engineering Pragmatism
@@ -207,5 +207,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025)]] — 结合[[J. Robert Oppenheimer|奥本海默]][[Manhattan Project|曼哈顿计划]]历史与当代 AI 工程师文化，系统论述工程[[Pragmatic Paradigm|实用主义]]在打造锋利防务工具与防范科学非道德论异化中的核心定位。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025)]] — 引用[[John Dewey|杜威]]、[[Herbert Hoover|胡佛]]与[[Operation Paperclip|回形针行动]]历史，论证以客观代码运行为唯一尺度并深入泥泞具体事物之中的工程实用主义[[Epistemology|认识论]]。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025)]] — 结合[[J. Robert Oppenheimer|奥本海默]][[Manhattan Project|曼哈顿计划]]历史与当代 AI 工程师文化，系统论述工程[[Pragmatic Paradigm|实用主义]]在打造锋利防务工具与防范科学非道德论异化中的核心定位。 [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025)]] — 引用[[John Dewey|杜威]]、[[Herbert Hoover|胡佛]]与[[Operation Paperclip|回形针行动]]历史，论证以客观代码运行为唯一尺度并深入泥泞具体事物之中的工程实用主义[[Epistemology|认识论]]。

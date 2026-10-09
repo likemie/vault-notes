@@ -11,6 +11,7 @@
 - `wiki/index.json`、`wiki/index.md` 和各类型索引页由 `scripts/wiki_index.py` 自动生成，不手动维护。不手动维护生成字段：`related_*`、Argument YAML `sources`、source record 的 `extracted_to`。Source 记录与阅读页面由 `scripts/source_record.py` 生成。
 - 修改已有条目必须先读取文件，判断目标章节、子主题与插入位置，再使用 `str_replace` 精确替换相关段落，不重写整个文件。
 - Argument 条目引用当前对应文献时只写页码，如（pp.147–148）。其他条目需按照APA格式严格引用。非 Argument 条目不写 YAML `sources` 和正文 `## 来源`；
+- “相关研究索引”中，只有同一本专著或教材的分章节 Argument 合并为一个顶层来源条目；论文集章节按各章作者与独立论证分别列出，不合并，也不用论文集 overview 替代章节证据。每个顶层索引条目只写一句话，可见文字不超过 150 个字符；脚本只提醒超限，不自动压缩正文。
 - 不使用来源以外的知识；
 
 - 普通论文 / 报告 source record 使用最终 `<论文命名>` 创建；完整 citation 在 Argument 页完成后由 `source_record.py finalize` 回填。若文献包含需要保留占位的 figure，`finalize` 时使用 `--with-figures` 生成 `sources/<论文命名>/figures/`。

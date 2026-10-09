@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # University Industry Demonstration Partnership
@@ -203,6 +203,11 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] — 详尽考证 UIDP 从 1980 年代 GUIRR 探索至 2015 年独立运作的完整组织史，并以 65 所 UIDP 成员大学为样本系统剖析中心产学办公室的微观治理架构。 [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 从企业侧[[Academic Engagement Team|学术参与团队]]（AET）视角探讨产学资助与治理，援引 UIDP 2024 年关于[[Joint Faculty Appointments|联合教职]]（Joint Faculty Employment）的权威实践报告。 [[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone (2025)]] — 深入剖析校企协议中的知识产权谈判，高度评价 UIDP《合同共识》（Contract Accords 5 & 6）在化解背景与前景 IP 争议中的指南价值。 [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]] — 将 UIDP 归入产学联盟的核心“组织基础设施”，论证标准化合同与专业社区对推动长期重复性校企合作的基础性贡献。 [[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones (2025)]] — 探讨学术健康中心生态，将[[Physician-Scientist|医师科学家]]界定为践行 UIDP 双语跨界翻译使命的生物医学典型实践范例。 [[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera (2025)]] — 将 UIDP 界定为产学“拥护者”核心交汇空间，并以普林斯顿大学参与 2023 年 UIDP 东京会议为例实证展现跨国峰会催化战略伙伴关系的效能。
+> - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] — 详尽考证 UIDP 从 1980 年代 GUIRR 探索至 2015 年独立运作的完整组织史，并以 65 所 UIDP 成员大学为样本系统剖析中心产学办公室的微观治理架构。
+> - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 从企业侧[[Academic Engagement Team|学术参与团队]]（AET）视角探讨产学资助与治理，援引 UIDP 2024 年关于[[Joint Faculty Appointments|联合教职]]（Joint Faculty Employment）的权威实践报告。
+> - [[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone (2025)]] — 深入剖析校企协议中的知识产权谈判，高度评价 UIDP《合同共识》（Contract Accords 5 & 6）在化解背景与前景 IP 争议中的指南价值。
+> - [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]] — 将 UIDP 归入产学联盟的核心“组织基础设施”，论证标准化合同与专业社区对推动长期重复性校企合作的基础性贡献。
+> - [[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones (2025)]] — 探讨学术健康中心生态，将[[Physician-Scientist|医师科学家]]界定为践行 UIDP 双语跨界翻译使命的生物医学典型实践范例。
+> - [[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera (2025)]] — 将 UIDP 界定为产学“拥护者”核心交汇空间，并以普林斯顿大学参与 2023 年 UIDP 东京会议为例实证展现跨国峰会催化战略伙伴关系的效能。
 > - [[Argument_UIDP_2012_PartnershipContinuum|Southerton et al. (2012)]] — UIDP 官方里程碑出版物，系统阐述[[Partnership Continuum|伙伴关系连续体]]（Partnership Continuum）的五大领域与三级深度，为全球产学实践确立了分类标准。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP (2019)]] — 首届牛津 UIDP 国际峰会报告，系统梳理面对[[Fourth Industrial Revolution|第四次工业革命]]与地缘技术竞争，未来[[Strategic Partnership|产学战略伙伴关系]]演化的核心趋势与度量挑战。

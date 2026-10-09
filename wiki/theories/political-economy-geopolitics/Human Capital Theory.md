@@ -302,7 +302,9 @@ updated: 2026-10-09
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 深度剖析人力资本理论如何作为实证[[Scientific Paradigm|科学范式]]的理论支柱，为战后西方国家教育预算大扩张与第三世界技术援助提供合法化免责借口。 [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 考据战后第三代实证[[Scientism|科学主义]]运动中人力资本理论（Schultz, Harbison & Myers, Psacharopoulos）如何与方法论[[Empiricism|经验主义]]缝合，确立“教育-发展-现代化”工具性发展[[Paradigm|范式]]并受跨国权力机构支持的历史机制。 [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，揭示跨国大规模评估（[[OECD]]/[[PISA]]）崛起后，以人力资本和经济[[Competitiveness|竞争力]]为导向的技术官僚治理如何对比较教育的研究课题、经费分配与政策咨询施加直接的量化[[Disciplina and Doctrina|规训]]压力。
+> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 深度剖析人力资本理论如何作为实证[[Scientific Paradigm|科学范式]]的理论支柱，为战后西方国家教育预算大扩张与第三世界技术援助提供合法化免责借口。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 考据战后第三代实证[[Scientism|科学主义]]运动中人力资本理论（Schultz, Harbison & Myers, Psacharopoulos）如何与方法论[[Empiricism|经验主义]]缝合，确立“教育-发展-现代化”工具性发展[[Paradigm|范式]]并受跨国权力机构支持的历史机制。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，揭示跨国大规模评估（OECD/PISA）崛起后，以人力资本和经济[[Competitiveness|竞争力]]为导向的技术官僚治理如何对比较教育的研究课题、经费分配与政策咨询施加直接的量化[[Disciplina and Doctrina|规训]]压力。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 揭示当代全球治理中人力资本[[Discourse|话语]]如何与 [[PISA]] 测评机制紧密咬合，驱动教育系统按照资本回报逻辑重组。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理[[OECD|经合组织]]与[[World Bank|世界银行]]七十五年历时制度演变，揭示冷战[[Sputnik Shock 1957|斯普特尼克冲击]]后国际组织如何将人力资本理论、控制论规划与教育收益率数据库工具化，打造出跨国放贷与指标治理帝国的历史轨迹。
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统剖析美国半导体与计算机产业发展史，揭示重大公共战略工程如何培育高技术专门工程人力资本，并通过企业间衍生创业网络与企业内部跨部门平移双重机制驱动民用产业升级。

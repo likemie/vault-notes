@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Research Schools Network
@@ -184,7 +184,9 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 剖析[[International Education\|国际教育]][[Knowledge Mediation\|知识中介]]组织形态演化，将 RSN 确立为中介向校际[[Communities of Practice|实践共同体]]规模化下沉的标杆[[Paradigm\|范式]]（p. 62）。 [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 深度解构英国有效性中心生态，将 RSN 作为 [[Education Endowment Foundation\|EEF]] 突破单纯信息传播、由中央平台向区域深度实施护航转型的核心案例（pp. 149–151），并阐明其在广泛拓展范式下面临的系统协调阻抗。 [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — 援引顾青团队（Gu et al., 2021）对机会区 RSN 为期三年的独立综合评估，实证剖析循证中介在文化重塑与终极学生学业产出之间的非线性时间滞后（p. 118）。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 剖析[[International Education\|国际教育]][[Knowledge Mediation\|知识中介]]组织形态演化，将 RSN 确立为中介向校际[[Communities of Practice|实践共同体]]规模化下沉的标杆[[Paradigm\|范式]]（p. 62）。
+> - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 深度解构英国有效性中心生态，将 RSN 作为 [[Education Endowment Foundation\|EEF]] 突破单纯信息传播、由中央平台向区域深度实施护航转型的核心案例（pp. 149–151），并阐明其在广泛拓展范式下面临的系统协调阻抗。
+> - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — 援引顾青团队（Gu et al., 2021）对机会区 RSN 为期三年的独立综合评估，实证剖析循证中介在文化重塑与终极学生学业产出之间的非线性时间滞后（p. 118）。
 
 ---
 

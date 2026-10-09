@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Embedded Researcher
@@ -223,4 +223,5 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research\|相关研究]]索引
-> - **[[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]]** 跨国实证测度 37 个教育系统中嵌入式研究者等专业角色的设立分布与供求矛盾，奠定其在教育治理研究中的实证基石。 **[[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]]** 在 [[OECD]] 五维系统[[Analytic Framework\|分析框架]]中将技能、能力与中介角色界定为支撑证据生态可持续运转的关键支柱。
+> - **[[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]]** 跨国实证测度 37 个教育系统中嵌入式研究者等专业角色的设立分布与供求矛盾，奠定其在教育治理研究中的实证基石。
+> - **[[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]]** 在 [[OECD]] 五维系统[[Analytic Framework\|分析框架]]中将技能、能力与中介角色界定为支撑证据生态可持续运转的关键支柱。

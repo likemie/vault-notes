@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Precompetitive Research
@@ -222,6 +222,8 @@ updated: 2026-10-08
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 把前竞争联合体界定为科学已经明白、工程尚未做完、风险又由全行业共享时的制度。1987 年十四家美国半导体公司与经由 [[DARPA]] 匹配的联邦经费组成半导体制造技术联盟，攻光刻、刻蚀和材料工艺。1997 年的[[EUV LLC|极紫外有限责任公司]]再与三个能源部国家实验室签约开发极紫外光刻，到 2001 年建成第一台原型曝光工具并提交 150 多项专利。报告同时承认，随后的政策把主导市场地位让给了一家欧洲公司。
-> - [[Argument_Narayan_Spohrer_2025_Metrics|Narayan & Spohrer (2025)]] — 论证探索性[[University-Industry Collaboration|产学合作]]的前竞争性质，提出按成熟度分层设计知识产权条款以避免度量错配。 [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]] — 剖析 [[Advanced Manufacturing Research Centre|AMRC]] 的两层知识产权模型，示范前竞争共有轨道与商业专有轨道的互补共生机制。 [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 阐释[[Semiconductor Research Corporation|半导体研究公司]]（SRC）如何运用前竞争范围界定准则化解竞争对手之间的零和博弈。
+> - [[Argument_Narayan_Spohrer_2025_Metrics|Narayan & Spohrer (2025)]] — 论证探索性[[University-Industry Collaboration|产学合作]]的前竞争性质，提出按成熟度分层设计知识产权条款以避免度量错配。
+> - [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]] — 剖析 [[Advanced Manufacturing Research Centre|AMRC]] 的两层知识产权模型，示范前竞争共有轨道与商业专有轨道的互补共生机制。
+> - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 阐释[[Semiconductor Research Corporation|半导体研究公司]]（SRC）如何运用前竞争范围界定准则化解竞争对手之间的零和博弈。
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 跨国对比美日欧 16 个研发联盟，系统揭示前竞争研究在横向同业联盟中的专有权困境及其向近中期纵向通用标准演化的规律。
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 剖析 SRC 30 年的演化历程，揭示多轨前竞争子计划矩阵（GRC 与 [[Focus Center Research Program|FCRP]]/NRI）如何在大学长周期前沿探索与工业近期需求之间维持动态平衡，并验证公私联合出资对维持前竞争基础研究预算抗周期的关键作用。

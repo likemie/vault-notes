@@ -89,7 +89,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Scientific Paradigm
@@ -295,7 +295,8 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 全景式考据比较教育学科学[[Paradigm|范式]]的兴起动因、四大派别在目标与法则上的争论、其实用政策结盟机制以及走向解体的深层[[Epistemology|认识论]]原因。 [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 考据比较教育学在近代 26 个比较学科群中的定位，分析自然情境与[[Dissimilar Units|非同质单位]]带来的认识论边界，实证揭示单一科学范式垄断瓦解与 26 种[[Theoretical Perspective|理论视角]][[Pluralism|健康多元主义]]的形成。
+> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 全景式考据比较教育学科学[[Paradigm|范式]]的兴起动因、四大派别在目标与法则上的争论、其实用政策结盟机制以及走向解体的深层[[Epistemology|认识论]]原因。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 考据比较教育学在近代 26 个比较学科群中的定位，分析自然情境与[[Dissimilar Units|非同质单位]]带来的认识论边界，实证揭示单一科学范式垄断瓦解与 26 种[[Theoretical Perspective|理论视角]][[Pluralism|健康多元主义]]的形成。
 > - Bereday (1964) — 提出描述、解释、并置、比较的四步操作程序，充当从古典历史向实证科学转型的关键过渡桥梁。
 > - Anderson (1961) — 奠定芝加哥学派[[Structural Functionalism|结构功能主义]]立足点，主张探索社会系统超越时空的恒常不变关系。
 > - Noah & Eckstein (1969) — 奠定经验实证与跨国[[Variable|变量]]共变检验纲领，建立五阶段调查程序并保持拒称法则的方法论自律。

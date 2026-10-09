@@ -92,7 +92,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Geisteswissenschaften
@@ -287,4 +287,6 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯系统阐述比较教育学作为[[Protean Episteme|普罗透斯式认识体系]]的人文科学（*Geisteswissenschaften*）属性，梳理四重论述代际演进，深刻批判战[[Postpositivism|后实证主义]]的方法论主义盲目，并借助期刊计量数据诊断学科面临的“[[Historical Amnesia|历史健忘症]]”危机（pp. 139–144, 148–156）。 [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 系统考据[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、汉斯与[[Robert Ulich|乌利希]]等历史学派学者的思想遗产，阐明历史-哲学母题的精神科学[[Epistemology|认识论]]基石，并借[[Crane Brinton|布林顿]]理论为非普适探索性[[Working Hypothesis|工作假说]]确立现代科学合法性（pp. 37–58）。 [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 米特深入梳理欧洲比较教育学跨越两个世纪的学统演进，揭示[[Wilhelm Dilthey|狄尔泰]]精神科学传统如何深刻塑造德语[[Allgemeine Pädagogik|普通教育学]]母体，并构成了欧洲文化主义学统抵抗纯量化[[Positivism|实证主义]]的理论源泉（pp. 88–89, 93–94）。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯系统阐述比较教育学作为[[Protean Episteme|普罗透斯式认识体系]]的人文科学（*Geisteswissenschaften*）属性，梳理四重论述代际演进，深刻批判战[[Postpositivism|后实证主义]]的方法论主义盲目，并借助期刊计量数据诊断学科面临的“[[Historical Amnesia|历史健忘症]]”危机（pp. 139–144, 148–156）。
+> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 系统考据[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、汉斯与[[Robert Ulich|乌利希]]等历史学派学者的思想遗产，阐明历史-哲学母题的精神科学[[Epistemology|认识论]]基石，并借[[Crane Brinton|布林顿]]理论为非普适探索性[[Working Hypothesis|工作假说]]确立现代科学合法性（pp. 37–58）。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 米特深入梳理欧洲比较教育学跨越两个世纪的学统演进，揭示[[Wilhelm Dilthey|狄尔泰]]精神科学传统如何深刻塑造德语[[Allgemeine Pädagogik|普通教育学]]母体，并构成了欧洲文化主义学统抵抗纯量化[[Positivism|实证主义]]的理论源泉（pp. 88–89, 93–94）。
