@@ -56,12 +56,14 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Scientism]]"
   - "[[Theoretical Perspective]]"
+  - "[[Securitization of Technology]]"
 related_theories:
   - "[[Structural Functionalism]]"
   - "[[Post-structuralism]]"
   - "[[Critical Theory]]"
   - "[[Human Capital Theory]]"
   - "[[Pluralism]]"
+  - "[[Postmodernism]]"
 related_methods:
   - "[[Problem Approach]]"
   - "[[Discourse Analysis]]"
@@ -87,7 +89,7 @@ related_arguments:
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Rust_2009_Reflections]]"
 confidence: high
-status: draft
+status: active
 created: 2026-09-07
 updated: 2026-10-09
 ---
@@ -106,7 +108,7 @@ updated: 2026-10-09
 > - **用途** 帮助研究者透视学科如何从战前宏观文化历史白描转向结构功能主义、变量控制与政策预测，以及跨国[[Knowledge Production\|知识生产]]如何同战后国家规划体制发生深度结盟。
 > - **边界** 绝非单一均质的方法体系，其内部在法则性质上存在恒常规律、函数共变与情境权变法则的深刻分裂；亦不可等同于一般自然科学范式，其在教育领域始终面临价值渗透与政治工具化的约束。
 
-> [!citation-card]- 关键表述：比较教育科学范式的兴起与建筑隐喻
+> [!citation-card] 比较教育科学范式的兴起与建筑隐喻
 > 学科的先驱们在 19 世纪[[Policy Borrowing\|教育借用]]的泥泞沼泽中开辟出特许基地，建立起第一座大厦，旨在通过历史洞察社会与教育的交织。随后，当困境显现，装备了全新科学技术的继承者们又加盖了崭新而看似更为坚固的产业……自此之后，各色风格迥异的新建筑拔地而起……其中一些楼宇从一开始便被政策相关的房客所占据；然而其余的大部分依然留在学术共同体手中并持续延展。值得庆幸的是，那里始终是批判、创新思维与[[Creativity\|创造力]]的栖息之所，是追求无尽真理之艺术（episteme）的真正安居之地。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 69)]]
 >
 > *The pioneers of the [[Champ\|field]] cleared the ground of the muddy waters of 19th century borrowings and established the first charted territory... then when difficulties emerged their successors, equipped with new scientific tools and techniques, added new and seemingly more solid property... From the very beginning some of those buildings were occupied by tenants related to policy making. Yet the rest remain in the hands of the academic community and are still being expanded. Fortunately enough, they constitute the habitat of criticism, innovative thinking and creativity; the place where episteme... resides.*
@@ -301,3 +303,20 @@ updated: 2026-10-09
 > - Anderson (1961) — 奠定芝加哥学派[[Structural Functionalism|结构功能主义]]立足点，主张探索社会系统超越时空的恒常不变关系。
 > - Noah & Eckstein (1969) — 奠定经验实证与跨国[[Variable|变量]]共变检验纲领，建立五阶段调查程序并保持拒称法则的方法论自律。
 > - Holmes (1965, 1981) — 创立[[Critical Dualism|批判二元论]]与假说-演绎[[Problem Approach|问题法]]，确立权变社会学法则与预测划界标准，实现历史与社会科学的折衷综合。
+
+---
+
+## 相关条目网络
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Paradigm]] | Concept | 科学范式所属的上位元理论认知结构与学科发展阶段概念。 |
+> | [[Positivism]] | Concept | 为科学范式提供经验证实、客观规律与因果检验支撑的底层[[Epistemology\|认识论]]。 |
+> | [[Epistemology]] | Concept | 科学范式与历史主义、[[Postmodernism\|后现代主义]]进行划界与合法性论辩的哲学基石。 |
+> | [[Structural Functionalism]] | Theory | 科学范式全盛时期支配比较教育跨国制度建模与[[Variable\|变量]][[Operationalization\|操作化]]的核心社会学理论。 |
+> | [[Academic Freedom]] | Concept | 保障学者摆脱单一科学范式教条垄断、自由选择多元理论透镜与解释工具的心智成熟标志。 |
+> | [[Problem Approach]] | Method | 霍姆斯学派在科学范式内推进假说-演绎与情境政策预测的核心方法论路径。 |
+> | [[Pluralism]] | Theory | 科学范式单一垄断瓦解后学科演化形成的 26 种理论传统并存的健康多元主义格局。 |
+> | [[Securitization of Technology]] | Concept | 当代地缘竞争中驱动科学研究范式由自由探索向战略使命与排他防御转向的政治经济动力。 |

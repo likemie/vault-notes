@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,8 @@ related_concepts:
   - "[[Public-Private Partnership in Research]]"
   - "[[Paradigm]]"
   - "[[Industry Affiliate Program]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -98,8 +100,24 @@ updated: 2026-10-09
 
 ---
 
+## 相关条目网络
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[DARPA]] | Fact (Organization) | 联合发起与资助方，提供国家战略防务科技需求与长期匹配研发经费。 |
+> | [[Semiconductor Research Corporation]] | Fact (Organization) | 联合管理与工业界出资枢纽，统筹产业界会员需求与高校协同中心运营。 |
+> | [[Research Universities]] | Concept | JUMP 2.0 计划的核心实施载体与多中心网络化协同攻坚节点。 |
+> | [[Public-Private Partnership in Research]] | Concept | JUMP 2.0 所代表的联邦战略机构与私营芯片巨头联合出资资助大学的前竞争公私合作[[Paradigm\|范式]]。 |
+> | [[Focus Center Research Program]] | Fact (Program) | JUMP 2.0 在 SRC 跨校产学研联合中心谱系中的早期前身计划。 |
+> | [[Industry Affiliate Program]] | Concept | 产业界会员通过导师派驻、成果优先评审与人才直聘嵌入大学中心的制度机制。 |
+> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 剖析 JUMP 2.0 作为区域跨校微电子攻关联盟重塑半导体[[Innovation Ecosystem\|创新生态]]的实证[[Document\|文献]]。 |
+
+---
+
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026, p. 23)]] — 详细剖析了由 [[DARPA]] 与 [[Semiconductor Research Corporation|SRC]] 共同推动的 JUMP 2.0 计划，揭示以宾州州立大学牵头的 14 所高校异构集成中心如何重塑跨区域产学研协同网络。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 探讨 SRC 与 DARPA 合作历程中从 [[Focus Center Research Program|FCRP]]、STARnet 到 JUMP 2.0 的产学前竞争联合体演进逻辑。

@@ -12,7 +12,7 @@ aliases:
 summary: "连接科学研究发现与实际应用的跨界转化过程，在产学合作中体现为技术成果商业化漏斗，在学校教育中体现为基于因果行动理论的情境再脉络化与微观课例探究，在宏观治理中体现为立足政策时间生态与立法政策简报的法律实质采纳，在前沿科技创新中体现为公共代理人依托嵌入型网络治理引导颠覆性技术轨道，在国家硬科技战略中体现为打破规制阻滞、依托共享试验场、中试平台与前竞争联合体将前沿科学锚定于本土实体制造，在国家安全与公共治理中体现为突破防务采购壁垒与官僚创新荒漠、将前沿软件与智能技术转化为国家战略交付能力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 112
+related_count: 117
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -559,4 +559,4 @@ updated: 2026-10-09
 > | [[Michael Kratsios]] | Person | 白宫科技政策办公室主任，主导起草《[[Science A New Golden Age 2026\|科学：新的黄金时代]]》，系统提出实体转化与制造锚定战略。 |
 > | [[Nancy Cartwright]] | Person | 批判证据盲目剪贴照搬，提出干预生效依赖底层行动理论与支撑因果条件的科学哲学家。 |
 > | [[Zewelanji N. Serpell]] | Person | 开创研究者宏观立法导航框架，系统阐明立法政策简报与敏捷学会机制的教育心理学者。 |
-> | [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] | Argument | 揭示[[Research Universities\|研究型大学]]在中试共置、人才梯队与“教育即标准”开源生态中推动深科技转化的制度重构。 |
+> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 揭示[[Research Universities\|研究型大学]]在中试共置、人才梯队与“教育即标准”开源生态中推动深科技转化的制度重构。 |
