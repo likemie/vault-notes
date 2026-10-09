@@ -61,7 +61,8 @@ related_facts:
   - "[[DARPA]]"
   - "[[Semiconductor Research Corporation]]"
   - "[[Joint University Microelectronics Program 2.0]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Mazzucato_2018_ICC]]"
 sources:
   - "[[sources/Zhuo_2026_ICE|Zhuo_2026_ICE]]"
 part_of:
@@ -74,9 +75,9 @@ title: "Argument_Zhuo_2026_ICE"
 argument_key: "Argument_Zhuo_2026_ICE"
 argument_display_title: "美国研究型大学在国家半导体体系中的角色重构"
 argument_kind: "journal-article"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 38
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "International and Comparative Education"
 book_title: ""
@@ -195,7 +196,7 @@ issuing_organization: ""
 > [!feature] [[Knowledge Production|知识生产]]与技术标准的内生耦合机制
 > - **实验室体制驱动前沿探索** 二战后确立的联邦科研资助驱动大学建立实验室体制，实现科学研究与博士研究生教育的高度整合，使前沿探索直接转化为人才能力结构的起点优势。（pp. 19–20）
 > - **教育即标准的技术扩散机制** 加利福尼亚大学[[Kenneth Burke|伯克]]利分校在开源精简指令集（Reduced Instruction Set Computer - Five, RISC-V）上的研究表明，高校将开源指令集方案直接同步嵌入研究生课程体系与实验室训练，伴随高端人才流动在全美及全球扩散，产生规模收益递增与网络外部性（David, 1985），驱动技术标准锁定。（p. 20）
-> - **使命导向下的方向性塑造** 《[[CHIPS and Science Act|芯片与科学法案]]》规划未来 5 年投入约 2000 亿美元用于科学研究与创新体系建设，推动科技政策从市场驱动转向战略驱动（Mazzucato, 2018）；[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）工程学学部（Directorate for Engineering, ENG）通过[[Engineering Research Centers|工程研究中心]]（Engineering Research Centers, ERCs）引导大学围绕半导体材料、电子设计自动化（Electronic Design Automation, EDA）工具与新型器件开展使命导向的有组织科研。（p. 20）
+> - **使命导向下的方向性塑造** 《[[CHIPS and Science Act|芯片与科学法案]]》规划未来 5 年投入约 2000 亿美元用于科学研究与创新体系建设，推动科技政策从市场驱动转向战略驱动（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）；[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）工程学学部（Directorate for Engineering, ENG）通过[[Engineering Research Centers|工程研究中心]]（Engineering Research Centers, ERCs）引导大学围绕半导体材料、电子设计自动化（Electronic Design Automation, EDA）工具与新型器件开展使命导向的有组织科研。（p. 20）
 
 #### 2. 嵌入制造环节：培育多层级工程人才培养梯队
 

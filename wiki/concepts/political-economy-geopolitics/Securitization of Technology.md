@@ -8,10 +8,10 @@ aliases:
 summary: "指主权国家将关键技术、前沿科研与高端产业链从传统的自由市场竞争与开放学术交流范畴，重构为关乎国家生存、地缘政治优势与主权安全的核心议程；通过出口管制、投资审查、国家战略拨款与有组织科研动员，将大学等创新主体深度嵌入国家安全体系。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/science-policy
   - theme/geopolitics
