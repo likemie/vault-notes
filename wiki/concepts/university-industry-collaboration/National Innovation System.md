@@ -10,7 +10,7 @@ aliases:
 summary: "指由国家公共教育与培训体系、企业专职研发实验室、产业网络、前竞争技术联合体、实体制造公地、政府协调规制以及承接战略使命并贯通中试研发的研究型大学所构成的制度网络，是解释跨国技术赶超、无形知识积累与经济长期分化的核心分析单位。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 85
+related_count: 82
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"

@@ -8,7 +8,7 @@ aliases:
 summary: "Etzkowitz 与 Leydesdorff 于 1995 年提出的创新系统理论，阐明大学、产业与政府在知识经济中突破单向线性分工、形成非线性反馈与职能重叠的动态螺旋；历经创业型大学、产业公私联合体到国家地缘战略安全化四代演进，并揭示了宏观使命整合与微观组织碎片化之间的深层治理张力。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 77
+theory_related_count: 72
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
