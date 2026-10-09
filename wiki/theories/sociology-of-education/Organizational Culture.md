@@ -9,7 +9,7 @@ aliases:
 summary: "Schein 提出的组织文化三层次框架（器物、信奉价值观、深层基本假设），揭示了表层可见符号与官方理念如何常与深层防御心理及信任赤字发生结构性断裂，并解释了正式管理文化重构与微观非正式制度之间的解耦与韧性，以及工程实效文化与官僚自保文化对创新荒漠的决定性塑造。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 55
+theory_related_count: 57
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Technological Republic]]"
   - "[[Discourse]]"
   - "[[Red Tape]]"
+  - "[[Founder Culture]]"
   - "[[Dialogue in Education]]"
   - "[[Evidence Ecosystem]]"
   - "[[Embedded Researcher]]"
@@ -46,7 +47,6 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Embedded Network Governance]]"
   - "[[Research Impact]]"
-  - "[[Founder Culture]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -129,7 +129,7 @@ updated: 2026-10-09
 > | 使命驱动工程文化（Mission-Driven Engineering Culture） | 概念 | 追求实战结果、扁平敏捷决策、赋权一线工程人员、以真实危机检验成效的组织文化形态。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01\|(Karp & Zamiska, 2025, pp. 11, 14–15)]] |
 > | 官僚自保防御文化（Bureaucratic Defensive Culture） | 概念 | 处于规避政治争议与程序问责的本能，以繁苛合规替代实质结果、严厉惩罚创新失败的科层防御形态。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01\|(Karp & Zamiska, 2025, pp. 10–11)]] |
 > | 创始人审美裁量文化（Founder Aesthetic Culture） | 概念 | 视前沿技术与软件工程为艺术创作，赋予创始人非委员会定性裁量权并容许宏大叙事存在的组织文化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|(Karp & Zamiska, 2025, pp. 207–208)]] |
-> | 全员股权所有权文化（Ownership Society Culture） | 概念 | 打破传统雇佣异化与剩余利润垄断，向全体员工普惠授予股权、共享风险与上升红利的高科技公社文化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|(Karp & Zamiska, 2025, pp. 211–212)]] |
+> | 全员股权所有权文化（[[Founder Culture\|ownership society]] Culture） | 概念 | 打破传统雇佣异化与剩余利润垄断，向全体员工普惠授予股权、共享风险与上升红利的高科技公社文化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|(Karp & Zamiska, 2025, pp. 211–212)]] |
 > | 长程资产托管文化（Long-term Stewardship Culture） | 概念 | 如奥德修斯自缚船桅般自愿自我约束以抵御短期噪音，面向数十年乃至数百年存续的资产与技术托管文化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|(Karp & Zamiska, 2025, pp. 208–209, 212)]] |
 > | 探究文化（Culture of Inquiry） | 概念 | 鼓励开放[[Dialogue in Education\|对话]]、容忍批判性反思并支持将研究证据用于审议的组织文化形态 |
 > | 防御性规避（Defensive Avoidance） | 机制 | 组织因恐惧政治问责或业务暴露缺陷，本能将研究证据异化为交易型技术修补工具的文化防御机制 |
