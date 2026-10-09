@@ -11,7 +11,7 @@ aliases:
 summary: "指国家与公共机构不局限于事后修复既有市场失灵，而是通过战略投资、需求侧公共采购、标准规制、制度化附加条件与前沿引领，依托公共动态能力主动构筑、从零创造并共同重塑新经济、社会与技术景观的公共政策范式。"
 type: concept
 domain: "science-policy"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -50,6 +50,7 @@ related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Systems of Innovation]]"
   - "[[Technological Trajectories]]"
+  - "[[Path Dependence]]"
   - "[[Three Generations of Mission-Oriented Policy]]"
 related_methods:
   - "[[Cost-Benefit Analysis]]"
@@ -82,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Market Shaping and Creating
@@ -228,7 +229,7 @@ updated: 2026-10-07
 > [!debates] 学术争议
 >
 > > [!axis] 政府选优能力与市场扭曲风险 vs 遴选意愿者与自下而上探索
-> > 新自由主义经济学者与公共选择理论家认为政府缺乏完备信息，无法有效挑选技术路径，且易引发腐败寻租；市场塑造倡导者反驳指出，市场塑造的核心是选择具有广泛社会共识的重大转型方向并遴选意愿者，通过组合投资与自下而上的多元探索避免单点技术锁定。
+> > 新自由主义经济学者与公共选择理论家认为政府缺乏完备信息，无法有效挑选技术路径，且易引发腐败寻租；市场塑造倡导者反驳指出，市场塑造的核心是选择具有广泛社会共识的重大转型方向并遴选意愿者，通过组合投资与自下而上的多元探索避免单点[[Path Dependence|技术锁定]]。
 > >
 > > - **Buchanan (2003)** 认为针对特定行业或企业的精准干预必然导致利益集团游说与政策扭曲。
 > > - **[[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]; [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]** 强调市场塑造以宏大社会挑战为中心，跨越单一行业边界，依赖透明的组合管理、战略采购与自下而上的试错机制。

@@ -8,7 +8,7 @@ aliases:
 summary: "以多元行动者横向协作、关系协调与异层结构替代垂直科层或纯粹市场的公共治理方式；在批判教育政策与演化科技政策中揭示国家并未空心化退场，而是表现为积极特许赋权、资助中介并缔造市场的异层担保人，以及通过去中心化探索网络引领使命导向创新的催化者。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 71
+related_count: 72
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -59,6 +59,7 @@ related_theories:
   - "[[Technological Trajectories]]"
   - "[[Neocorporatism]]"
   - "[[Pluralism]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Network Analysis]]"
   - "[[Case Study]]"
@@ -103,7 +104,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-04
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Network Governance
@@ -339,7 +340,7 @@ updated: 2026-10-08
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Rambla_2022_Springer\|Rambla (2022)]] | 欧盟 16 个地区 168 名[[Lifelong Learning\|终身学习]]政策制定者与专家 | 跨国质性比较研究、[[Semi-structured Interview\|半结构化访谈]]与[[Documentary Analysis\|文献分析]] | 治理形态分类（官僚/网络/市场）；指标采纳模式 | 证实 16 个地区均呈现官僚与网络混合构型；纯自由市场治理占比接近 0%；EUROSTAT 区域[[Performance Indicators\|绩效指标]]被所有地区作为核心参考基准 | — | 证明欧洲网络治理并不等于完全私有化，而是受制于历史制度路径依赖的多层杂合体 |
+> | [[Argument_Rambla_2022_Springer\|Rambla (2022)]] | 欧盟 16 个地区 168 名[[Lifelong Learning\|终身学习]]政策制定者与专家 | 跨国质性比较研究、[[Semi-structured Interview\|半结构化访谈]]与[[Documentary Analysis\|文献分析]] | 治理形态分类（官僚/网络/市场）；指标采纳模式 | 证实 16 个地区均呈现官僚与网络混合构型；纯自由市场治理占比接近 0%；EUROSTAT 区域[[Performance Indicators\|绩效指标]]被所有地区作为核心参考基准 | — | 证明欧洲网络治理并不等于完全私有化，而是受制于历史制度[[Path Dependence\|路径依赖]]的多层杂合体 |
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | 新西兰基础教育系统（2001–2016 年 9 项关键公私改革实践与法律文本） | 政策文本[[Discourse Analysis\|话语分析]]与历时制度追踪 | 私营部门参与度；政策核心词频演变；[[Public-Private Partnership in Research\|PPP]] 合同规模 | 记录 9 项核心公私合作实例；国家政策文本全面剔除“国家资助与提供”，全面转为“国家补贴”与“[[Social Impact Investing\|社会投资]]”；涉及数亿美元的 PPP 与采购合同转包 | — | 系统论证网络治理如何通过修辞重构与制度突破，将私营资本财产权植入公共教育 |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 澳大利亚公立教育[[Policy Network\|政策网络]]与[[Venture Philanthropy\|风险慈善]]中介（SVA 辐射 20 年网络，2002–2021） | 监管档案调档、税法修正案追踪与 Gephi 拓扑分析 | 咨询外包公共支出；组织四层控股架构；法定特许审批 | 联邦管理咨询公共支出居全球首位（人均）；揭示 4 层控股网络；通过《1997年所得税评估法》修正特许 [[Deductible Gift Recipient\|DGR1]] 免税资质；撬动 5000 万澳元政府联合注资 | — | 确证国家在网络治理中演进为异层市场缔造者与制度担保人，推翻国家单纯空心化假说 |
 > | [[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987)]] | [[United World Colleges\|联合世界书院]]（UWC）跨国分层治理体系（1962–1987 历史档案） | 历史制度主义[[Case Study\|案例研究]]与长程[[Process Tracing\|过程追踪]] | 治理节点协同度；跨国奖学金与资金分担比重 | 跨国网络涵盖数十个国家选拔委员会与多所独立自治书院，通过分层协议实现无中心科层的跨国持续协调 | — | 展现网络治理在跨国教育自治共同体中兼顾文化多样性与核心使命统一性的制度有效性 |

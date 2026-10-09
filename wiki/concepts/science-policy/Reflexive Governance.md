@@ -8,7 +8,7 @@ aliases:
 summary: "在高度复杂与不确定情境下，通过持续监测、多方学习与动态调整来防范路径锁定的现代治理模式"
 type: concept
 domain: "science-policy"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,7 +32,8 @@ related_concepts:
   - "[[Document]]"
   - "[[Regulatory Sandbox]]"
   - "[[Grand Challenges]]"
-related_theories: []
+related_theories:
+  - "[[Path Dependence]]"
 related_arguments:
   - "[[Argument_Wanzenbock_2020_SPP]]"
 related_methods:
@@ -42,7 +43,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Reflexive Governance
@@ -52,7 +53,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> **[[Reflexivity|反思性]]治理（Reflexive Governance）** 是由扬-彼得·福斯（Jan-Peter Voß）与巴斯蒂安·博内曼（Bastien Bornemann）等学者在可持续转型与科技政策中系统发展的治理理论[[Paradigm|范式]]，并在伊里斯·万岑伯克（Iris Wanzenböck）等人的研究中被确立为[[Mission-Oriented Innovation Policy|使命导向创新政策]]的核心机制。它指面对具有高度[[Scientific Uncertainty|认知不确定性]]、价值争议与复杂系统关联的社会转型挑战时，治理主体放弃确定性预测与刚性自上而下规划，通过制度化嵌入多方参与审议、持续实证监测、跨领域社会学习与小步渐进试验，动态反思并调整公共[[Problem Finding|问题界定]]与技术方案选择，从而防范系统过早陷入不可逆的技术锁定与合法性赤字。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 485–487)]]
+> **[[Reflexivity|反思性]]治理（Reflexive Governance）** 是由扬-彼得·福斯（Jan-Peter Voß）与巴斯蒂安·博内曼（Bastien Bornemann）等学者在可持续转型与科技政策中系统发展的治理理论[[Paradigm|范式]]，并在伊里斯·万岑伯克（Iris Wanzenböck）等人的研究中被确立为[[Mission-Oriented Innovation Policy|使命导向创新政策]]的核心机制。它指面对具有高度[[Scientific Uncertainty|认知不确定性]]、价值争议与复杂系统关联的社会转型挑战时，治理主体放弃确定性预测与刚性自上而下规划，通过制度化嵌入多方参与审议、持续实证监测、跨领域社会学习与小步渐进试验，动态反思并调整公共[[Problem Finding|问题界定]]与技术方案选择，从而防范系统过早陷入不可逆的[[Path Dependence|技术锁定]]与合法性赤字。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 485–487)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将政策制定本身视为一个持续的反思、探索与纠偏实验，强调对政策[[Hypothesis|假设]]、外部次生效应及替代方案的[[Open-Mindedness|开放性]]审视。
@@ -87,7 +88,7 @@ updated: 2026-10-07
 > [!feature] [[Reflexivity|反思性]]治理的核心制度构件
 > - **双重对象反思（Dual Reflexivity）** 不仅对技术方案的经济与环境性能进行动态监测，更对公共[[Problem Finding|问题界定]]本身的伦理正当性与社会接受度进行持续审视。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 485)]]
 > - **多元利益相关方审议平台（Multi-Stakeholder Arenas）** 建立包容公民代表、非政府组织、跨行业企业与跨学科专家的制度化协商空间，防止政策被特定技术精英游说垄断。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 484–485)]]
-> - **保持替代路线[[Open-Mindedness|开放性]]（Openness to Alternatives）** 避免过早把全部资源倾斜至单一候选技术，通过设立技术组合库与阶段性评审保持系统演进弹性，有效防范技术锁定。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 485–486)]]
+> - **保持替代路线[[Open-Mindedness|开放性]]（Openness to Alternatives）** 避免过早把全部资源倾斜至单一候选技术，通过设立技术组合库与阶段性评审保持系统演进弹性，有效防范[[Path Dependence|技术锁定]]。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 485–486)]]
 > - **小胜累积与适应性调整（Small Wins & Adaptive Pacing）** 借助一系列局部的试验性改革与阶段性成果逐步凝聚共识，依据实施反馈持续修正政策工具与边界。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 485–487)]]
 
 > [!logic-map]- 反思性治理的动态反馈与纠偏机制
@@ -150,7 +151,7 @@ updated: 2026-10-07
 > [!contrast-table] 反思性治理核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **元治理能力命题** | 通过持续学习与反馈回路克服不确定性及技术锁定 | 长期可持续性转型与前沿科技风险治理 | Voß & Bornemann (2011); Weber & Rohracher (2012) |
+> | **元治理能力命题** | 通过持续学习与反馈回路克服不确定性及[[Path Dependence\|技术锁定]] | 长期可持续性转型与前沿科技风险治理 | Voß & Bornemann (2011); Weber & Rohracher (2012) |
 > | **使命落地协同命题** | 双重反思是协调技术突破与社会合法性的关键保障 | [[Mission-Oriented Innovation Policy\|使命导向创新政策]]全生命周期实施 | [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] |
 
 ---
@@ -183,4 +184,4 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 阐释了[[Reflexivity|反思性]]治理作为[[Mission-Oriented Innovation Policy|使命导向创新政策]]核心推进机制的实践路径，论证其在避免技术锁定与实现系统收敛中的关键作用。
+> - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 阐释了[[Reflexivity|反思性]]治理作为[[Mission-Oriented Innovation Policy|使命导向创新政策]]核心推进机制的实践路径，论证其在避免[[Path Dependence|技术锁定]]与实现系统收敛中的关键作用。

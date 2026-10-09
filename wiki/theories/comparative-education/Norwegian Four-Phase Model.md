@@ -9,7 +9,7 @@ aliases:
 summary: "由瓦尔·拉斯特基于挪威自1840年代以来的教育改革委员会制度实践提炼的跨国政策借用分析框架，涵盖发起调研、凝聚共识、确立法律框架与推进实施四个阶段，阐明主权国家如何通过常设专门委员会与民主协商白皮书，实现高度自主且具制度韧性的外部经验筛选与本土化重塑。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -29,7 +29,8 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Policy Mobility]]"
   - "[[Knowledge-Based Economy]]"
-related_theories: []
+related_theories:
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Comparative Policy Analysis]]"
   - "[[Correlational Research]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-06
+updated: 2026-10-09
 ---
 
 # Norwegian Four-Phase Model
@@ -95,7 +96,7 @@ updated: 2026-10-06
 > [!contrast-table] 四阶段特征矩阵
 > | 阶段 | 核心主体 | 关键产出 | 跨国比较维度 | 本土化转换功能 |
 > |---|---|---|---|---|
-> | **一、发起调研** | 皇家改革调查委员会 | 比较国别考察调研报告 | 扫描斯堪的纳维亚、西欧及北美 | 开阔政策视野，解构单一路径依赖 |
+> | **一、发起调研** | 皇家改革调查委员会 | 比较国别考察调研报告 | 扫描斯堪的纳维亚、西欧及北美 | 开阔政策视野，解构单一[[Path Dependence\|路径依赖]] |
 > | **二、凝聚共识** | 议会、政党、教师工会与公众 | 政府白皮书与政策辩论记录 | 评估外部模型与本国国情的兼容度 | 剥离意识形态异质物，凝聚民主认同 |
 > | **三、确立框架** | 挪威议会与教育部 | 基础教育法案与规程立法 | 确立国家主权法律刚性约束 | 将软性外部经验固化为刚性法律制度 |
 > | **四、推进实施** | 地方市政学区、学校与社区 | 综合学校体系与地方课程重构 | 与邻国实施成效开展持续追踪比对 | 完成制度[[Transfer Translation Transformation\|转译]]，融入北欧福利国家机制 |

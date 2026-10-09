@@ -8,7 +8,7 @@ aliases:
 summary: "按最终验证结果而非前期投入付费的创新政策工具，涵盖重大技术悬赏奖金、高级市场承诺（AMC）与事后追溯资助；适用于攻坚目标明确但技术路径开放的战略瓶颈，能以高杠杆激发多元解题主体并行试错。"
 type: concept
 domain: "science-policy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Variable]]"
 related_theories:
+  - "[[Path Dependence]]"
   - "[[Pasteur's Quadrant]]"
 related_methods:
   - "[[Effect Size]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Pull Mechanisms for Innovation
@@ -54,7 +55,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 改变政府在创新体系中的角色，从“指定特定专家并资助其尝试过程”转变为“设定清晰的性能标准与终点指标，向所有能交付达标方案的主体买单”。
-> - **用途** 突破传统学科评审网络的路径依赖与把关者偏倚，以有限公共预算撬动数倍至数十倍的私人研发资本，吸引跨学科外来解题者。
+> - **用途** 突破传统学科评审网络的[[Path Dependence|路径依赖]]与把关者偏倚，以有限公共预算撬动数倍至数十倍的私人研发资本，吸引跨学科外来解题者。
 > - **边界** 拉动机制高度依赖于“目标必须清晰可测”的前提；完全不适用于目标未知、方向开放的好奇心驱动探索（玻尔象限纯基础科学），后者依然必须依靠推动式基金保障。
 
 > [!boundary]- 概念边界

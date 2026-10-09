@@ -8,7 +8,7 @@ aliases:
 summary: "在试验数据收集或解盲前由独立评估团队预先制定并公开发布的详尽技术法典，硬性锁定主要模型、协变量、集群校正与敏感性分析规则，是根除数据钓鱼与消解模型依赖性的制度基石"
 type: concept
 domain: "research-methodology"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Heterogeneity]]"
 related_theories:
   - "[[Theory of Change]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Standard Error]]"
   - "[[Complier Average Causal Effect]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-17
+updated: 2026-10-09
 ---
 
 # Statistical Analysis Plan
@@ -142,7 +143,7 @@ updated: 2026-09-17
 > 科学社会学与量化方法学研究表明：仅在网站上简略登记研究假说，依然为研究者保留了巨大的操纵空间；唯有代码级的先验 SAP 才能真正终结假阳性危机。
 
 > [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, pp. 51–53)]]
-> **技术锁定根除选择性报告** 传统社会科学研究中，正向显著结果的发表几率比零结果高出 40%（Franco et al., 2014）。许多研究者即使[[Preregistration\|预注册]]了假说，仍会在后端通过“更换协[[Variable\|变量]]”或“删除不显著亚组”实现显著。[[Education Endowment Foundation\|EEF]] 的实践表明，强制评估团队在接触数据前独立提交长篇 SAP，并将具体分析模型、协变量定义和聚类校正方法固定在公开服务器上，使得任何事后迎合资助方或学术期刊审稿人的暗室操作在技术上彻底失去空间。
+> **[[Path Dependence|技术锁定]]根除选择性报告** 传统社会科学研究中，正向显著结果的发表几率比零结果高出 40%（Franco et al., 2014）。许多研究者即使[[Preregistration\|预注册]]了假说，仍会在后端通过“更换协[[Variable\|变量]]”或“删除不显著亚组”实现显著。[[Education Endowment Foundation\|EEF]] 的实践表明，强制评估团队在接触数据前独立提交长篇 SAP，并将具体分析模型、协变量定义和聚类校正方法固定在公开服务器上，使得任何事后迎合资助方或学术期刊审稿人的暗室操作在技术上彻底失去空间。
 
 ---
 

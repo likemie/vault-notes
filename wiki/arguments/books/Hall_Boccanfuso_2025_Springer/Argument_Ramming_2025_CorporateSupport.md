@@ -7,7 +7,7 @@ title: "Argument_Ramming_2025_CorporateSupport"
 argument_key: "Argument_Ramming_2025_CorporateSupport"
 argument_display_title: "Gaining Support Within Companies for Collaboration"
 argument_kind: "book"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Recommendations for Practice]]"
 related_theories:
   - "[[Technological Trajectories]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Peer Debriefing]]"
@@ -398,7 +399,7 @@ UPCRC 的成功不仅解决了多核初期的软件生态瓶颈，更展现了[[
 
 > [!finding-cards] 核心发现
 > 1. **价值多维不可[[Commensuration|通约]]与管理考核错位构成企业内部最深阻力** [[University-Industry Collaboration|产学合作]]的总收益由招聘、科研、品牌与技能成长等多维要素构成且难以统一货币化，中层经理只背负单一维度的季度考核，致使实践者必须在缺乏直接行政命令权的矩阵叠加层中开展耐心的组织沟通。（pp. 217–221）
-> 2. **资助结构与治理机制是实践者推动战略转型的核心手段** 资金来源直接决定了技术导向，从分散业务线向中央统筹资金的调配能打破既有业务的路径依赖；而主动出让部分审批权力组建技术评审委员会，则是以必要的沟通成本换取业务团队实质认同的关键制度安排。（pp. 221–222, 228–229）
+> 2. **资助结构与治理机制是实践者推动战略转型的核心手段** 资金来源直接决定了技术导向，从分散业务线向中央统筹资金的调配能打破既有业务的[[Path Dependence|路径依赖]]；而主动出让部分审批权力组建技术评审委员会，则是以必要的沟通成本换取业务团队实质认同的关键制度安排。（pp. 221–222, 228–229）
 > 3. **运用漏斗里程碑管理与协议矩阵精准化解时间节拍冲突** 针对企业季度产品交付与高校长周期学术研究的节奏错位，应采用从短期咨询到长期 [[Sponsored Research Agreement|SRA]] 的梯级契约形式；在[[Research Translation|技术转化]]中推行六阶段漏斗管理，兼顾内部产品吸收、外部初创收购与共性技术生态培育等多条价值路径。（pp. 229–233）
 > 4. **产业[[Paradigm|范式]]转折期要求行业领袖敢于推行突破常规的跨界重组** 英特尔与微软联手发起 [[Universal Parallel Computing Research Centers|UPCRC]] 的实践表明，当面临底层物理极限等全行业危机时，成熟在位巨头必须果断重塑分散守旧的内部审批模式，以超大规模跨界协同和国家科技倡议形成共振。（pp. 234–238）
 

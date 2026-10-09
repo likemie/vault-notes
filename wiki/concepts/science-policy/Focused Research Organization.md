@@ -7,7 +7,7 @@ aliases:
 summary: "一种以攻克关键科学瓶颈、生产公共品为导向的中等规模新型非营利科研组织；通过固定 5 年周期与严格日落条款（做完即散）、全职专业科学家与工程团队以及 2000 万至 5000 万美元集中资助，填补传统大学小课题组、营利性企业研发与永久国家实验室之间的‘中等规模公共品缺口’。"
 type: concept
 domain: "science-policy"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,7 +32,8 @@ related_concepts:
   - "[[Construct]]"
   - "[[Convergence Research]]"
   - "[[Attrition]]"
-related_theories: []
+related_theories:
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Focused Research Organization
@@ -98,7 +99,7 @@ updated: 2026-10-07
 > - **明确的“[[Sunset Provisions|日落条款]]”与做完即散（Sunset Clause by Design）** 组织为解决一个界定清晰的技术里程碑而创设，设定硬性存续上限（通常为 5 年）。达成目标后即刻解散，彻底阻断机构自保、游说维权与编制膨胀的制度惯性。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 24)]]
 > - **职业化工程与科研攻坚团队（Full-time Professional Team）** 雇佣全职资深软件工程师、硬件工程师、仪器专家与实验科学家，提供具有市场[[Competitiveness|竞争力]]的全额薪酬，摆脱传统学术界“写基金—发论文—招学生”的无休止跑步机，沉淀高强度的组织记忆与执行力。
 > - **无保留的公共品产出（Pure Public Goods Output）** 成果不以申请排他性专利垄断为目的，而是将生成的高通量图谱、分子试剂库、自动化流水线协议与开源分析软件无偿向全球学术界与产业界开放。
-> - **中等规模资源集聚（Meso-scale Resource Concentration）** 资金规模精准卡位在 2000 万至 5000 万美元区间，既超越了普通大学 R01 课题组的资金承载极限，又避免了数十亿美元国家级[[Megascience Installations|大科学装置]]的繁琐官僚审批与路径依赖。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 24–25)]]
+> - **中等规模资源集聚（Meso-scale Resource Concentration）** 资金规模精准卡位在 2000 万至 5000 万美元区间，既超越了普通大学 R01 课题组的资金承载极限，又避免了数十亿美元国家级[[Megascience Installations|大科学装置]]的繁琐官僚审批与[[Path Dependence|路径依赖]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 24–25)]]
 > - **多元灵活的人员出口机制（Flexible Off-ramps）** 项目完成后，团队成员可自由携带核心技能返回大学担任教职、进驻国家实验室，或以平台技术为基础分拆（Spin-off）创立硬科技商业公司筹集风险投资。
 
 > [!logic-map]- 聚焦研究组织在国家[[Innovation Ecosystem|创新生态]]中的定位与知识流向

@@ -8,7 +8,7 @@ aliases:
 summary: "决策者与管理者在工作情境中自发且常规调用的结构化知识体系，包含信念、假定、实践经验及社会科学知识，在新证据进入时发挥认知过滤与调适中介功能"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -43,10 +43,11 @@ related_arguments:
   - "[[Argument_Dedering_2009_EERJ]]"
 related_theories:
   - "[[Bounded Rationality]]"
+  - "[[Path Dependence]]"
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Working Knowledge
@@ -172,7 +173,7 @@ updated: 2026-10-07
 > > - **支持视角（正方）** 辩护者认为，拆解与简化是人类在[[Bounded Rationality\|有限理性]]（Bounded rationality）下应对海量复杂信息的必然认知机制；若完全脱离本土运作知识的常识锚定，抽象的统计模型将无法在复杂的教育科层系统中转化为可操作的行政行动。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, p. 485)]]
 >
 > > [!axis] 组织防御常规与结构性改革阻力
-> > 官员的实践运作知识深植于长期的科层职业惯例之中，具有较强的路径依赖与自我保护倾向。面对指出教育体制深层弊端的测评诊断，官员往往倾向于调用运作知识进行象征性包装与既有措施背书（如宣称早已具备先见之明），从而在危机应对中消解外部问责压力，阻碍触及根本学制结构的实质性变革。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 487, 491)]]
+> > 官员的实践运作知识深植于长期的科层职业惯例之中，具有较强的[[Path Dependence|路径依赖]]与自我保护倾向。面对指出教育体制深层弊端的测评诊断，官员往往倾向于调用运作知识进行象征性包装与既有措施背书（如宣称早已具备先见之明），从而在危机应对中消解外部问责压力，阻碍触及根本学制结构的实质性变革。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 487, 491)]]
 
 ---
 

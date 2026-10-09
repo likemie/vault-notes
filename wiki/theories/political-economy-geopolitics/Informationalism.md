@@ -4,7 +4,7 @@ aliases: ["信息主义", "Castells' Informationalism Theory"]
 summary: "由 Manuel Castells 提出的信息时代发展模式理论，认为信息化社会的主要生产力来源是基于知识和信息优化生产要素组合的质化能力，与依赖重工业物质投入的工业化形成对比，并论证了国家主义体制与信息化之间的深层不相容"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 11
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Soviet Statism]]"
   - "[[Operationalization]]"
 related_theories:
+  - "[[Path Dependence]]"
   - "[[Network Society]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -31,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-09-17
+updated: 2026-10-09
 ---
 
 # Informationalism
@@ -57,7 +58,7 @@ Informationalism（信息主义）是 [[Manuel Castells]] 在其《信息时代�
 >
 > Original: Informationalization is a mode of development in which the main source of productivity lies in the qualitative capacity to optimize combination and use factors of production on the basis of knowledge and information.
 
-该理论还包含对国家主义体制（statism）的整合分析。Castells 将国家主义社会系统定义为"围绕国家机器权力持有者对社会经济剩余的占有而组织起来的系统"[[Argument_Chan_2015_Intersect|Chi Ling Chan, 2015]]。资本主义追求利润最大化，国家主义则追求国家机器权力最大化。两种体制在信息时代面临截然不同的适应压力。国家主义被论证为在结构上与信息化不相容。
+该理论还包含对国家主义体制（statism）的整合分析。Castells 将国家主义社会系统定义为"围绕国家机器权力持有者对社会经济剩余的占有而组织起来的系统"[[Argument_Chan_2015_Intersect|(Chan, 2015)]]。资本主义追求利润最大化，国家主义则追求国家机器权力最大化。两种体制在信息时代面临截然不同的适应压力。国家主义被论证为在结构上与信息化不相容。
 
 ---
 ## 核心命题
@@ -66,10 +67,10 @@ Informationalism（信息主义）是 [[Manuel Castells]] 在其《信息时代�
 > Informationalism 包含两个相互关联的核心命题。第一个命题确立工业化与[[Informationalization\|信息化]]作为两种性质不同的发展模式；第二个命题论证国家主义体制在结构上无法满足信息化的制度前提。
 
 > [!line-a] 命题一：发展模式转换（Mode Transition）
-> 工业化与信息化是两种性质不同的发展模式，而非同一现代化进程的不同阶段。工业化依赖物质投入的线性扩张。正因如此，苏联的中央计划模式在工业追赶期极为有效。信息化依赖知识的自由流动、信息网络的扩散和迭代创新过程。成功完成工业化并不自动带来信息化成功：苏联在1980年代钢铁产量超过美国80%、水泥超过78%、石油超过42%，拥有全球最高比例的科学家和工程师，却在PC革命中被完全绕过[[Argument_Chan_2015_Intersect\|Chi Ling Chan, 2015]]。
+> 工业化与信息化是两种性质不同的发展模式，而非同一现代化进程的不同阶段。工业化依赖物质投入的线性扩张。正因如此，苏联的中央计划模式在工业追赶期极为有效。信息化依赖知识的自由流动、信息网络的扩散和迭代创新过程。成功完成工业化并不自动带来信息化成功：苏联在1980年代钢铁产量超过美国80%、水泥超过78%、石油超过42%，拥有全球最高比例的科学家和工程师，却在PC革命中被完全绕过[[Argument_Chan_2015_Intersect\|(Chan, 2015)]]。
 
 > [!line-b] 命题二：体制—模式不相容（Regime-Mode Incompatibility）
-> 国家主义体制的内在逻辑与信息化所要求的制度条件存在结构性冲突。国家主义以垂直控制、信息封闭、风险规避和意识形态正统为特征；信息化要求水平网络、信息自由流动、试错创新和开放交流。这一不相容不是偶然的政策失误，而是两种逻辑在制度层面的根本对立。在苏联案例中，这种不相容通过五个机制展开：[[Military-Industrial Black Hole\|军工黑洞]]将创新资源封锁在军事闭环中；[[Ideological Capture of Science\|科学意识形态化]]切断与全球科学共同体的联系；官僚逻辑和创新负激励消灭企业和个人的创新动力；技术保守主义使苏联陷入对西方的路径依赖；封闭信息回路与[[State Vertical\|国家垂直结构]]阻断水平协作和知识交叉。
+> 国家主义体制的内在逻辑与信息化所要求的制度条件存在结构性冲突。国家主义以垂直控制、信息封闭、风险规避和意识形态正统为特征；信息化要求水平网络、信息自由流动、试错创新和开放交流。这一不相容不是偶然的政策失误，而是两种逻辑在制度层面的根本对立。在苏联案例中，这种不相容通过五个机制展开：[[Military-Industrial Black Hole\|军工黑洞]]将创新资源封锁在军事闭环中；[[Ideological Capture of Science\|科学意识形态化]]切断与全球科学共同体的联系；官僚逻辑和创新负激励消灭企业和个人的创新动力；技术保守主义使苏联陷入对西方的[[Path Dependence|路径依赖]]；封闭信息回路与[[State Vertical\|国家垂直结构]]阻断水平协作和知识交叉。
 
 ---
 ## 分析框架
@@ -88,10 +89,10 @@ Informationalism（信息主义）是 [[Manuel Castells]] 在其《信息时代�
 > [!timeline] 理论形成与扩展
 > - **1996–1998** Castells 出版《信息时代》三部曲初版（*The [[Research in Schools Evaluation\|RISE]] of the [[Network Society]]*; *The Power of Identity*; *End of Millennium*），系统提出信息主义理论框架。
 > - **2010** 三部曲再版，在第三卷 *End of Millennium* 中详细分析了[[Soviet Statism\|苏联国家主义]]体制在信息时代的转型与崩溃，提出国家主义与[[Informationalization\|信息化]]不相容的核心论点。
-> - **2015** Chan 运用该框架分析苏联科技落后的五个具体机制，将信息主义的理论命题[[Operationalization\|操作化]]为可检验的历史解释[[Argument_Chan_2015_Intersect\|Chi Ling Chan, 2015]]。
+> - **2015** Chan 运用该框架分析苏联科技落后的五个具体机制，将信息主义的理论命题[[Operationalization\|操作化]]为可检验的历史解释[[Argument_Chan_2015_Intersect\|(Chan, 2015)]]。
 
 ---
 ## 相关研究
 
 > [!example]
-> - [[Argument_Chan_2015_Intersect]] — 运用 Informationalism 框架分析苏联科技落后的五个机制，论证国家主义逻辑与[[Informationalization\|信息化]]要求之间的结构性不相容。
+> - [[Argument_Chan_2015_Intersect|Chan (2015)]] — 运用 Informationalism 框架分析苏联科技落后的五个机制，论证国家主义逻辑与[[Informationalization\|信息化]]要求之间的结构性不相容。

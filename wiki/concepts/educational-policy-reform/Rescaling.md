@@ -9,7 +9,7 @@ aliases:
 summary: "政治地理学与批判性教育政策研究的核心概念，指在全球化与治理转型过程中，国家规约权力与政策空间在跨国、国家、次国家/州与地方市镇等不同尺度之间发生的质性重构与再分配，强调空间尺度并非天然给定的物理容器，而是由政策流动、制度博弈与数据基础设施不断生产与重构的关系构型。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,7 +28,8 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Recontextualization]]"
   - "[[Assemblage]]"
-related_theories: []
+related_theories:
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Correlational Research]]"
 related_persons:
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Rescaling
@@ -127,7 +128,7 @@ updated: 2026-10-08
 ### 命题二　尺度重组呈现去领土化与再领土化的辩证张力而非民族国家的单一削弱
 
 > [!concept-lens] 领土政治与多层级博弈维度
-> 剖析全球化与尺度重组过程中地方路径依赖、国家主权强化与次国家防御的复杂共存状态。
+> 剖析全球化与尺度重组过程中地方[[Path Dependence|路径依赖]]、国家主权强化与次国家防御的复杂共存状态。
 
 > [!claim] Brenner, N.; [[Sigrid Hartong\|Hartong, S.]]; [[Susan L. Robertson|Robertson, S. L.]]
 > **尺度重组中的领土防御与制度妥协** 尺度重组决非线性的去国家化，而是伴随着强烈的再领土化（Re-territorialisation）防御与制度再协商。在德国个案中，尽管 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 与 IQB 建立了跨尺度的统一测评网络，但各联邦州依然牢牢掌控着[[School Inspection\|学校督导]]权与具体人事财政权，并在法律上明文禁止发布公立学校绩效排行榜，以捍卫各州的文化主权（Kulturhoheit）。这表明尺度重组是在旧有的制度路径依赖与新型跨尺度治理技术之间的持续博弈与妥协构型（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 140–145]]）。

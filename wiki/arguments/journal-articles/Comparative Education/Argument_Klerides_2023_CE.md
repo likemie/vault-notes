@@ -9,9 +9,9 @@ title: "Argument_Klerides_2023_CE"
 argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
-argument_related_count: 59
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 60
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Comparative Education
 citation: "Klerides, E. (2023). Comparative education and international relations. Comparative Education, 59(3), 416-435."
@@ -61,6 +61,7 @@ related_concepts:
   - "[[Champ]]"
 related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
+  - "[[Path Dependence]]"
   - "[[Human Capital Theory]]"
   - "[[Governing at a Distance]]"
   - "[[World Society Theory]]"
@@ -111,7 +112,7 @@ citation_aliases:
 > 然而，一个显著的学术悖论贯穿始终：比较教育从未系统性地运用[[Wight's Three Traditions of International Theory\|国际关系理论]]的透镜来阐述自身的学科身份、历史和未来。纠缠如此之深，理论自觉如此之少，这种不对称性本身就值得追问。这之所以构成悖论，还因为三个现实条件使这种理论自觉变得既需要也可行：
 > 1. 这种纠缠本身一直支撑着比较教育的历史[[Document\|文献]]。
 > 2. 纠缠深刻地形塑了当下的学术可能性。
-> 3. 纠缠正将比较教育引向具有路径依赖性质的未来。
+> 3. 纠缠正将比较教育引向具有[[Path Dependence|路径依赖]]性质的未来。
 > 
 > 同时，比较教育正在永久性地寻找新的学科史、新的比较教育者定义和新的未来构想概念。围绕这个核心悖论，本研究的核心追问是：国际关系的三大思想传统各自生产了什么样的比较教育形态？每种形态看见了什么，又遮蔽了什么？(p. 417)
 

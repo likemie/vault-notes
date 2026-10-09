@@ -8,7 +8,7 @@ aliases:
 summary: "将严谨科学方法、实证评估与机制设计工具反身应用于科学事业自身的研究与治理领域；通过对同行评议、资助规则、项目经理自由裁量权及机构组织形态开展对照实验与量化追踪，旨在降低科研行政摩擦、破除平庸共识避险偏好，优化国家科学企业的整体配置效率。"
 type: concept
 domain: "science-policy"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,7 +31,8 @@ related_concepts:
   - "[[Technology Readiness Level]]"
   - "[[Focused Research Organization]]"
   - "[[Epistemology]]"
-related_theories: []
+related_theories:
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Random Assignment]]"
   - "[[Mechanism Experiments]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Metascience
@@ -101,7 +102,7 @@ updated: 2026-10-08
 ### 命题一　公共资助机构若不实验自己的规则，科研组合将在无纠错反馈中滑向平庸惯性
 
 > [!concept-lens] 资源配置反馈机制维度
-> 探讨公共研发预算分配的制度动力学：揭示缺乏市场竞争约束的官僚资助体系为何必然产生路径依赖与避险惯性。
+> 探讨公共研发预算分配的制度动力学：揭示缺乏市场竞争约束的官僚资助体系为何必然产生[[Path Dependence|路径依赖]]与避险惯性。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
 > **缺乏纠错反馈的组合惯性命题** 在缺乏真实世界对照实验的情况下，公共资助机构往往机械延续上一年度的资助比例与评审偏好。由于官员和评审专家承担极小的失败问责，而支持非常规探索面临巨大的声誉风险，整个体系将系统性排斥颠覆性非共识提案。元科学单元通过将资助规则变为可检验、可量化的实证对象，为公共资助注入了至关重要的动态反馈纠错机制。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 30–32)]]

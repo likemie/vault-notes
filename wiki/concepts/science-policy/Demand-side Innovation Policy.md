@@ -2,7 +2,7 @@
 summary: "指国家通过公共采购、预商用采购、标准制定、催化性法规与示范项目等手段，主动培育、汇聚与定向引导市场需求，以化解前沿技术早期市场不确定性并加速创新扩散的公共政策体系；是使命导向政策塑造新兴市场的核心支柱。"
 type: concept
 domain: "science-policy"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -35,6 +35,7 @@ related_concepts:
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Technological Trajectories]]"
+  - "[[Path Dependence]]"
 related_persons:
   - "[[Rainer Kattel]]"
   - "[[Mariana Mazzucato]]"
@@ -55,7 +56,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-09
 title: Demand-side Innovation Policy
 aliases:
   - 需求侧创新政策
@@ -174,7 +175,7 @@ aliases:
 > [!debates] 学术争议
 >
 > > [!axis] 战略[[Market Shaping and Creating|市场创造]]论 vs. 市场扭曲与寻租风险论
-> > 围绕政府运用公共采购干预技术选择是否会扭曲市场竞争与导致技术锁定的争议。
+> > 围绕政府运用公共采购干预技术选择是否会扭曲市场竞争与导致[[Path Dependence|技术锁定]]的争议。
 > >
 > > - **市场塑造学派（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]; [[Argument_Mowery_2011_NBER|Mowery, 2011]]; [[Argument_Schnee_1978_RP|Schnee, 1978]]）** 强调纯市场力量在面对巨大外部性与高研发风险时存在严重的早期[[Market Failure|市场失灵]]，政府采购能有效托底并创造新市场。
 > > - **自由市场与公共选择学派** 批评政府采购容易被特定利益集团俘获，导致政府“挑选赢家”（Picking Winners）失败，并锁定次优技术路线。
@@ -210,7 +211,7 @@ aliases:
 > | [[Mission-Oriented Innovation Policy]] | 概念 | 需求侧创新公共采购是第三代与狮子型使命政策的核心支柱。 |
 > | [[Learning Economy]] | 理论 | 需求侧首购保障通过规模倍增释放 20%–30% 成本下降的学习曲线机制。 |
 > | [[Demonstration Effect]] | 概念 | 需求侧示范工程与首发应用向民用商业市场传导信任与降低不确定性的机制。 |
-> | [[Second-Sourcing]] | 概念 | 需求侧采购为防范单点技术锁定与维系供应链竞争所推行的第二货源规制。 |
+> | [[Second-Sourcing]] | 概念 | 需求侧采购为防范单点[[Path Dependence\|技术锁定]]与维系供应链竞争所推行的第二货源规制。 |
 > | [[General Purpose Technology]] | 概念 | 需求侧创新政策成功拉动半导体与计算机跨越[[Valley of Death\|死亡之谷]]、演变为通用技术的产业形态。 |
 > | [[Valley of Death]] | 概念 | 需求侧战略采购为早期实验室成果跨越商业化中试鸿沟所提供的托底保障。 |
 > | [[Brookings Institution]] | 事实 | 出版关于政府采购重构半导体市场竞争格局经典专著（Tilton 1971）的学术智库。 |

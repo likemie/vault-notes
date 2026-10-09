@@ -10,7 +10,7 @@ aliases:
 summary: "以应对重大社会挑战和变革性系统转型为核心导向，通过主动塑造与共创市场、战略方向引导、挑选意愿者、三层公共动态能力构建与引领和学习范式推动创新的公共政策体系"
 type: concept
 domain: "science-policy"
-related_count: 54
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -53,13 +53,15 @@ related_concepts:
   - "[[Complexity Paradox]]"
   - "[[Problem Finding]]"
   - "[[Regulatory Sandbox]]"
-  - "[[Determinism]]"
   - "[[Research Universities]]"
+  - "[[Determinism]]"
+  - "[[Academic Freedom]]"
   - "[[Cognitive Deskilling]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Technological Trajectories]]"
   - "[[Punctuated Equilibrium Theory]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Cost-Benefit Analysis]]"
@@ -71,6 +73,10 @@ related_persons:
 related_facts:
   - "[[Manhattan Project]]"
   - "[[UN Sustainable Development Goals]]"
+  - "[[CHIPS and Science Act]]"
+  - "[[National Science Foundation]]"
+  - "[[Engineering Research Centers]]"
+  - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[System Althoff]]"
   - "[[Ministry of International Trade and Industry]]"
   - "[[Apollo Program]]"
@@ -80,11 +86,12 @@ related_arguments:
   - "[[Argument_Wanzenbock_2020_SPP]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
+  - "[[Argument_Zhuo_2026_ICE]]"
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Mission-Oriented Innovation Policy
@@ -180,7 +187,7 @@ updated: 2026-10-07
 >   由企业、科研院所与公民社会自下而上提交并实施的多元化探索与试错项目组合。
 
 > [!feature] 应对[[Transformative System Failures|变革性系统失灵]]的四大治理构件（[[Argument_Wanzenbock_2020_SPP|Wanzenböck et al., 2020, pp. 475–476]]; [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018, pp. 790–791]]）
-> - **方向性引导（[[Directionality of Innovation|directionality]]）** 明确公共资源投入的优先战略方向，打破技术演进的路径依赖，引导创新活动朝向可持续发展与公共福祉。
+> - **方向性引导（[[Directionality of Innovation|directionality]]）** 明确公共资源投入的优先战略方向，打破技术演进的[[Path Dependence|路径依赖]]，引导创新活动朝向可持续发展与公共福祉。
 > - **需求表达机制（Demand Articulation）** 建立吸纳用户、公民与利益相关方参与的制度渠道，将模糊的社会需求转化为明确的创新采购、规制标准与应用场景。
 > - **[[Reflexivity|反思性]]治理（Reflexivity）** 建立动态监测、政策试验与适应性调整机制，及时纠正技术锁定与政策偏倚，应对转型过程中的[[Scientific Uncertainty|认知不确定性]]。
 > - **跨部门跨层级协调（Policy Coordination）** 打破各级政府与部门壁垒，统筹科技、环境、产业、卫生与空间规划等多维政策工具，破解现代政策的[[Complexity Paradox|复杂性悖论]]。
@@ -217,7 +224,9 @@ updated: 2026-10-07
 > 传统产业政策因针对特定行业或特定企业直接补贴，极易被利益集团游说俘获并造成公共资源浪费；使命政策通过重构垂直干预靶向消除这一结构性缺陷。
 
 > [!claim] [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]
-> **[[Picking the Willing|挑选意愿者]]机制** 使命导向政策确立了一种新型的垂直干预逻辑，政策不选定特定企业或单一产业（“挑选赢家”），而是选定必须实现的社会转型方向，并“挑选意愿者”（Picking the willing）——即在全经济范围内激励所有愿意致力于解决该挑战的跨行业公私组织。通过以问题为核心拉动跨部门协同和自下而上的多元探索，既避免了特定行业的寻租俘获，又带动了传统低技术产业的系统革新。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–806)]]
+> **[[Picking the Willing|挑选意愿者]]机制与战略方向塑造** 使命导向政策确立了一种新型的垂直干预逻辑，政策不选定特定企业或单一产业（“挑选赢家”），而是选定必须实现的社会转型方向，并“挑选意愿者”（Picking the willing）——即在全经济范围内激励所有愿意致力于解决该挑战的跨行业公私组织。通过以问题为核心拉动跨部门协同和自下而上的多元探索，既避免了特定行业的寻租俘获，又带动了传统低技术产业的系统革新。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–806)]]
+>
+> **应用实例：半导体战略攻坚中的使命导向有组织科研** 在《[[CHIPS and Science Act|芯片与科学法案]]》战略部署下，联邦政府以半导体供应链安全与关键技术自主为战略使命，通过 [[National Science Foundation|NSF]] 工程学学部（ENG）[[Engineering Research Centers|工程研究中心]]（[[Engineering Research Centers|ERC]]）与技术创新伙伴署（[[Directorate for Technology, Innovation and Partnerships|TIP]]）定向资助跨界联盟；[[Research Universities|研究型大学]]打破单一学科自由探索壁垒，围绕电子设计自动化（EDA）软件、宽禁带半导体与异构封装等国家急需领域组建跨校跨企攻关中心，驱动高等教育从市场中立适配转向国家战略使命导向的有组织科研。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–21)]]
 
 ---
 
@@ -248,7 +257,7 @@ updated: 2026-10-07
 > |---|---|---|---|
 > | **双重棘手性命题** | 批判技术[[Determinism\|决定论]]，主张同时解构问题与方案两端的争议性、复杂性与不确定性 | 面向气候、能源、公共健康等复杂社会转型的顶层设计 | [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]]; Weber & Rohracher (2012) |
 > | **路径收敛命题** | 揭示使命合法化与技术方案落地的三类动态过程演化机制 | 政策工具组合选择、试验示范区建设与社会各方博弈协调 | 同上（2020）; [[Mariana Mazzucato\|马祖卡托]] |
-> | **挑选意愿者机制** | 确立以社会挑战为中心的跨行业协同，化解传统产业补贴的寻租与低效 | 绿色低碳转型、重大公共卫生攻坚与现代工业战略重构 | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
+> | **挑选意愿者机制** | 确立以社会挑战为中心的跨行业协同，化解传统产业补贴的寻租与低效 | 绿色低碳转型、重大公共卫生攻坚与现代工业战略重构 | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]]; [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] |
 > | **风险收益对称共享** | 建立股权保留、特许权提成与限价机制，扭转公私利益失衡 | 医药研发公私合作、清洁能源担保贷款与开发性金融支持 | [[Mariana Mazzucato\|马祖卡托（风险收益分配理论）]] |
 > | **三代演进与公共动态能力** | 融合企业双元动态能力与韦伯国家能力，以三层能力矩阵支撑引领与学习范式 | 应对复杂性悖论、重构国家创新机构与推进数字化服务转型 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018)]] |
 
@@ -264,6 +273,7 @@ updated: 2026-10-07
 > - **2018 — 欧盟[[Horizon Europe|地平线欧洲]]战略确立与 ROAR 框架** [[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）提出[[Market Shaping and Creating|市场塑造]]、[[Picking the Willing|挑选意愿者]]机制与 ROAR [[Analytic Framework|分析框架]]，推动使命导向框架进入欧盟科研创新顶层设计。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
 > - **2018 — 三代演化理论与[[Public Dynamic Capabilities|公共部门动态能力]]构建** [[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]提出三代使命政策理论，打破 [[New Public Management|NPM]] 束缚，确立国家、政策与行政三层[[Public Dynamic Capabilities|公共动态能力]]及[[Lead-and-Learn Paradigm|引领与学习范式]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–801)]]
 > - **2020 — 过程导向与问题–解决方案空间建构** [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]]系统解构社会挑战的双重棘手性，提出基于问题–解决方案空间的过程导向收敛路径框架。
+> - **2022–2026 — 战略性关键技术主权与半导体使命重构** 美国《[[CHIPS and Science Act|芯片与科学法案]]》规划向科研与创新体系注入约 2000 亿美元公共投资，推动科技政策由新自由主义市场中立转向战略驱动的使命导向创新政策（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）；通过 [[National Science Foundation|NSF]] 与能源部为 EDA 工具与新型器件注入强方向性，引导大学开展跨界有组织科研与共置中试攻关。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–21)]]
 
 ---
 
@@ -283,6 +293,12 @@ updated: 2026-10-07
 > >
 > > - **新公共管理派** 坚持严格的事前[[Cost-Benefit Analysis|成本收益分析]]（CBA）与防错问责。
 > > - **[[Public Dynamic Capabilities|公共动态能力]]派** 指出创新具有根本不确定性，必须建立容忍探索性失败的反思学习平台，避免因微观合规导致[[Complexity Paradox|复杂性悖论]]与协调瘫痪。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–798)]]
+>
+> > [!axis] 国家安全化使命动员 vs. 学术自主与开放科学生态
+> > 争论当使命导向政策转向大国地缘科技博弈与排他性技术主权防御时，是否会挤压大学的自由探索传统并割裂全球科学交流网络。
+> >
+> > - **学术共同体批判** 担忧过度的国家安全化审查与使命导向动员会导致基础科研生态封闭化，侵蚀学者[[Academic Freedom|学术自由]]与国际合作。
+> > - **战略创新学者辩护** 强调在供应链断裂风险下，国家通过使命导向政策引导大学开展有组织科研是维系关键技术底座与产业主权的必然选择。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–26)]]
 
 > [!warning] 适用局限与能力边界
 > - **政治极化下的合法性脆弱** 当面临高度价值割裂的政治极化情境时，使命的合法性构建极其脆弱，单纯依赖科技创新往往难以化解根本性的意识形态冲突。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 486)]]
@@ -297,4 +313,5 @@ updated: 2026-10-07
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 奠基性理论[[Document|文献]]，系统论证使命导向创新政策从市场修补转向[[Market Shaping and Creating|市场塑造]]与共创，提出 ROAR 治理框架与五大遴选标准。
 > - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 提出基于问题–解决方案空间的使命导向创新政策[[Analytic Framework|分析框架]]，系统阐述其内涵、棘手维度与收敛路径。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 论述[[Innovation Policy Paradigms|创新政策三范式]]演进脉络，分析[[Transformative Change|变革转型范式]]下大学作为中立召集者与方向性情报贡献者的新型角色定位。
+> - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 结合美国《[[CHIPS and Science Act|芯片与科学法案]]》实证剖析使命导向创新政策如何为半导体战略产业注入方向性，驱动大学从市场适配转向国家战略使命导向的有组织科研。
 

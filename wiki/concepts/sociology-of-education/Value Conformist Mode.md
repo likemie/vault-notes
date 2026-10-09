@@ -7,7 +7,7 @@ aliases:
 summary: "毕业出路分化中的一种类型，以直觉依赖和强价值信念结合为特征，通过内化学校理想与主流规范获得体制赞助性流动"
 type: concept
 domain: "sociology-of-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,7 +27,8 @@ related_concepts:
   - "[[Self-Driven Mode]]"
   - "[[Opportunist Mode]]"
   - "[[Lost Mode]]"
-related_theories: []
+related_theories:
+  - "[[Path Dependence]]"
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
@@ -40,7 +41,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-05-09
-updated: 2026-10-02
+updated: 2026-10-09
 ---
 
 ## 定义
@@ -66,7 +67,7 @@ updated: 2026-10-02
 
 ### 体制通道的存在
 
-即便市场机制已经在整个社会的经济运行中占主要份额，政府机关以及包含学术科研组织在内的事业单位仍是一条上升为社会精英的关键通道。在自上而下的渐进式改革中，国家主导和原有体制的路径依赖决定了主导再分配权力的政府体制并未被削弱，而与市场体制并立或融通（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引吕鹏和范晓光，2016; Walder, 1995; 刘欣，2021）。万闻华和方长春（2008）甚至认为，政治权力和市场共同作用于精英形成，政府体制其实一直居于主导地位，而市场从属于政府体制。
+即便市场机制已经在整个社会的经济运行中占主要份额，政府机关以及包含学术科研组织在内的事业单位仍是一条上升为社会精英的关键通道。在自上而下的渐进式改革中，国家主导和原有体制的[[Path Dependence|路径依赖]]决定了主导再分配权力的政府体制并未被削弱，而与市场体制并立或融通（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引吕鹏和范晓光，2016; Walder, 1995; 刘欣，2021）。万闻华和方长春（2008）甚至认为，政治权力和市场共同作用于精英形成，政府体制其实一直居于主导地位，而市场从属于政府体制。
 
 中国精英大学稳定地制造出大量可供学生获取的体制内机会——选调生项目、[[Recommendation-Based Graduate Admission System|推免]]直研、留校任教、向政府机关和事业单位的定向输送等——为价值归顺者提供了一条从学校到体制的"赞助性流动"通道([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 

@@ -10,7 +10,7 @@ summary: "美国理论物理学家，二战期间曼哈顿工程洛斯阿拉莫�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 40
+person_related_count: 41
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Dual-Use Technology]]"
   - "[[Other Transaction Authority]]"
 related_theories:
+  - "[[Path Dependence]]"
   - "[[Strategic Bargaining Theory]]"
 related_methods:
   - "[[Correlational Research]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # J. Robert Oppenheimer
@@ -153,7 +154,7 @@ updated: 2026-10-08
 > - **国家战略牵引的[[Big Science|大科学]]协同模式（State-Directed Big Science [[Paradigm|Paradigm]]）** 打破传统象牙塔中零散自由探索的孤立形态，在[[Vannevar Bush|万尼瓦尔·布什]]领导的 [[Office of Scientific Research and Development|OSRD]] 顶层设计下，建立由国家安全明确战略目标牵引、高度组织化与跨学科交叉的军政产学大协同体制，奠定了战后[[Federally Funded Research and Development Centers|美国国家实验室]]系统与现代重大工程攻坚的原型。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
 > - **科学家群体的原罪认知与道德自省（The Physicists' Sin & Moral Accountability）** 广岛核爆后，奥本海默公开宣告物理学家已经“体会到了罪恶”，拒绝以技术中立为由洗脱科学家的道德责任。他强调科学家不仅是工具的制造者，更是人类命运的共同承担者，必须对尖端技术的毁灭性潜能保持高度清醒。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 17)]]
 > - **原子威慑与大国[[Long Peace|长和平]]的历史缔造（Architect of Atomic Deterrence & The Long Peace）** 奥本海默领导研制的核武器彻底改变了大国地缘博弈的底层逻辑。正如历史学家[[John Lewis Gaddis|加迪斯]]所指出的，二战后世界主要大国之间长达近一个世纪未爆发直接[[Total War|全面战争]]的[[Long Peace|长和平]]，正是建立在奥本海默点燃的核毁灭平衡（MAD）之上。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 37–41)]]
-> - **奥本海默国家使命范式与反文化去国家化计算的历史裂变（Oppenheimer State-Mission Paradigm vs [[Counterculture Computing|countercultural computing]]）** 卡普与扎米斯卡揭示，奥本海默将科技研发视为维护国家生存与赋能国家大战略使命（American project）的基石；这一传统在 1970 年代被硅谷[[Counterculture Computing|反文化计算]]革命瓦解。新一代工程师将国家机构视作压制[[Creativity|创造力]]的“缺陷系统”（Flawed Systems），将技术锁定于个人与[[Consumer Internet|消费互联网]]，导致硅谷陷入长达半个世纪的[[Technological Agnosticism|技术不可知论]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–100)]]
+> - **奥本海默国家使命范式与反文化去国家化计算的历史裂变（Oppenheimer State-Mission Paradigm vs [[Counterculture Computing|countercultural computing]]）** 卡普与扎米斯卡揭示，奥本海默将科技研发视为维护国家生存与赋能国家大战略使命（American project）的基石；这一传统在 1970 年代被硅谷[[Counterculture Computing|反文化计算]]革命瓦解。新一代工程师将国家机构视作压制[[Creativity|创造力]]的“缺陷系统”（Flawed Systems），将[[Path Dependence|技术锁定]]于个人与[[Consumer Internet|消费互联网]]，导致硅谷陷入长达半个世纪的[[Technological Agnosticism|技术不可知论]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–100)]]
 > - **从原子时代到软件时代的战略镜像（Mirror of the Software Century）** 当今硅谷面临与 1942 年奥本海默相同的十字路口：面对地缘对手在自主算法武器上的突进，科技界不能沉溺于[[Moral Dualism|道德二元论]]或单边暂停，而必须像当年的科学家一样，以负责任的姿态将前沿代码转化为保卫自由社会的[[AI Deterrence|人工智能威慑]]力量。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 18, 27–28)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 44–46)]]
 
 ---

@@ -3,7 +3,7 @@ title: Epistemological Beliefs
 summary: "关于个体对知识本质及认知过程的假设与信念。该研究领域经历了从早期一维发展阶段模型，到 Schommer 多维独立量表，再到被重构为“认识论理论”核心四维度，以及近期被拆分为本体论与认识论认知（EOC）的演变过程。"
 type: concept
 domain: "educational-psychology"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Task Structure]]"
 related_theories:
   - "[[Epistemic and Ontological Cognition]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Quantitative Research]]"
@@ -67,7 +68,7 @@ related_arguments:
   - "[[Argument_Lodewyk_2007_EP]]"
 status: active
 created: 2026-08-13
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Epistemological Beliefs
@@ -179,7 +180,7 @@ updated: 2026-10-07
 > [!claim] Tsai & Wu et al.
 > **认识论信念在技术环境中的双向互动机制** 学习者对知识本质与来源的认识论信念在数字与[[Generative Artificial Intelligence\|生成式人工智能]]环境中展现出双向互动规律：
 > - **正向[[Interaction Effect\|调节效应]]** 拥有高级（评价论）认识论信念的学习者，倾向于利用开放非结构化环境或大语言模型进行多元表征整合与深层因果探究；而持有幼稚（绝对主义）认识论信念的学习者则倾向于进行线性的浅层事实搜索或产生被动盲从与表面顺从式[[Cognitive Offloading\|认知卸载]]。
-> - **逆向重塑效能** 技术环境并非中立容器，在融入提示词支架（如反思提示、[[Chain-of-Thought Prompting\|思维链]]引导）与教学法支架（如交互式同行评议）的双轨干预下，引导学习者对技术输出进行持续的证据审问与批判性比较，能够有效逆向打破绝对主义认知的路径依赖，推动其认识论信念向高阶评价论转变。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
+> - **逆向重塑效能** 技术环境并非中立容器，在融入提示词支架（如反思提示、[[Chain-of-Thought Prompting\|思维链]]引导）与教学法支架（如交互式同行评议）的双轨干预下，引导学习者对技术输出进行持续的证据审问与批判性比较，能够有效逆向打破绝对主义认知的[[Path Dependence|路径依赖]]，推动其认识论信念向高阶评价论转变。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
 
 ---
 

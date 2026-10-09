@@ -9,10 +9,10 @@ aliases:
 summary: "法国高等教育特有的精英专业学院系统；以严格的高考后预科班选拔淘汰和职业导向培养著称，长期垄断国家高级工程师、高官与企业领袖培养；与专注基础研究的国家科研中心（CNRS）及大众化综合大学形成著名的三元割裂格局，构成法国难以复制英美高教教育科研一体化模式的制度根源。"
 type: concept
 domain: "higher-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - level/higher-education
   - region/france
@@ -32,10 +32,12 @@ related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
 related_persons:
   - "[[Alfred Nobel]]"
+related_theories:
+  - "[[Path Dependence]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Grandes Écoles
@@ -74,7 +76,7 @@ updated: 2026-10-08
 >   2. **顶尖青年人才集聚于大学校** 最聪慧的学生与师资被大学校（Grandes Écoles）吸纳，但大学校传统上以专业实务培训为主，缺乏大规模基础研究实验室；
 >   3. **综合性大学沦为平民大众教学机构** 普通综合公立大学实行免试入学，生源庞大且经费严重短缺，既无法留住拔尖精英生源，又缺乏足够的科研基础设施，形成严重的科教分立与社会阶层固化。
 > - **制度移植的结构性困境**
->   当法国试图模仿美国[[Research Universities|研究型大学]]将基础前沿科研与博士生培养深度统合于大学实验室时，遭遇到强大的制度路径依赖与大学校既得利益集团的顽固阻力，导致其在[[Academic Ranking of World Universities|世界大学学术排名]]等以大学机构为统计单位的全球指标中长期处于劣势。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
+>   当法国试图模仿美国[[Research Universities|研究型大学]]将基础前沿科研与博士生培养深度统合于大学实验室时，遭遇到强大的制度[[Path Dependence|路径依赖]]与大学校既得利益集团的顽固阻力，导致其在[[Academic Ranking of World Universities|世界大学学术排名]]等以大学机构为统计单位的全球指标中长期处于劣势。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
 
 ---
 

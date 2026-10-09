@@ -8,7 +8,7 @@ aliases:
 summary: "指使命导向创新政策中摒弃针对个别企业直接补贴的挑选赢家旧模式，转为以重大社会挑战为导向、依托公共动态能力在全经济范围内遴选激励具备转型意愿与协同攻关承诺跨界主体的引领与学习治理机制"
 type: concept
 domain: "science-policy"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Market Shaping and Creating]]"
   - "[[Public Value]]"
 related_theories:
+  - "[[Path Dependence]]"
   - "[[Technological Trajectories]]"
   - "[[Three Generations of Mission-Oriented Policy]]"
 related_persons:
@@ -51,7 +52,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-09
 ---
 
 # Picking the Willing
@@ -101,7 +102,7 @@ updated: 2026-10-03
 > - **挑战导向的方向性（Directional Challenge Focus）** 国家挑选的是全社会必须发生的系统转型“方向”（如脱碳），而非挑选具体的技术路径或企业实体。
 > - **跨行业网络联结（Cross-Sectoral Network Orchestration）** 打破单一行业藩篱，将自然科学、工程制造、数字技术、商业设计与社会科学多元力量紧密组织在同一使命之下。
 > - **严格的战略附条件性（Strategic Conditionality）** 获得资助的企业必须签署具有约束力的协议，承诺将收益用于本土研发再投资、达标降碳指标或保障产品终端可及性。
-> - **组合式容错与自下而上探索（Portfolio Diversification）** 保持底层技术路线的多样性，支持多个意愿团队在不同路径上并行试错，以大数定律防范单点技术锁定。
+> - **组合式容错与自下而上探索（Portfolio Diversification）** 保持底层技术路线的多样性，支持多个意愿团队在不同路径上并行试错，以大数定律防范单点[[Path Dependence|技术锁定]]。
 
 > [!quad-grid] 支撑挑选意愿者的三层[[Public Dynamic Capabilities|公共动态能力]]矩阵（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018, pp. 796–798]]）
 > - **国家层级能力（State Capabilities）** 确立宏观愿景与政治领导力，通过广泛社会审议构建使命合法性，激发多元社会力量主动结盟。
@@ -173,7 +174,7 @@ updated: 2026-10-03
 > | **寻租阻断命题** | 将选择靶向从特定企业转向社会使命，阻断利益集团游说俘获 | 现代产业战略重构、反腐败规制与垂直干预机制设计 | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]]; Buchanan (2003) |
 > | **产业倒逼命题** | 以刚性绿色使命对传统高耗能重工业施加倒逼与转型支持 | 钢铁建材化工脱碳、传统制造绿色化与循环经济改造 | [[Mariana Mazzucato\|马祖卡托（绿色转型理论）]] |
 > | **动态止损命题** | 建立附条件契约与技术就绪度里程碑考核，确保动态退场 | 重大科技项目管理、前沿技术中试与开发性补贴 | [[Mariana Mazzucato\|马祖卡托（契约规制模型）]] |
-> | **路径防锁定命题** | 资助多元自下而上探索方案，以组合投资分散技术锁定风险 | 清洁能源路线竞逐、颠覆性技术早期孵化与前沿攻坚 | [[Mariana Mazzucato\|马祖卡托（组合管理理论）]] |
+> | **路径防锁定命题** | 资助多元自下而上探索方案，以组合投资分散[[Path Dependence\|技术锁定]]风险 | 清洁能源路线竞逐、颠覆性技术早期孵化与前沿攻坚 | [[Mariana Mazzucato\|马祖卡托（组合管理理论）]] |
 > | **共创与引领学习** | 打破单向外包合规，以三层动态能力与引领学习范式协同意愿者 | 跨部门政策协同、数字化公共服务转型与后 NPM 治理 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018)]] |
 
 ---

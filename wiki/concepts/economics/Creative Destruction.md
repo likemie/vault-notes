@@ -8,7 +8,7 @@ aliases:
 summary: "由约瑟夫·熊彼特（Joseph Schumpeter）提出的演化经济学与创新经济学核心概念，指创新从经济系统内部不断打破既有经济结构、摧毁陈旧产业与组织范式并建立全新产业范式与增长前沿的内生动态突变过程；克里斯·弗里曼（Chris Freeman）与卡洛塔·佩雷斯（Carlota Perez）将其置于技术-经济范式变革的中心，论证激进技术革命必然带来深层的创造性破坏，迫使国家调整教育技能、工种架构与制度体系以克服“制度滞后”。"
 type: concept
 domain: "economics"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_theories:
   - "[[Technological Trajectories]]"
   - "[[Techno-economic Paradigm]]"
   - "[[Systems of Innovation]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Correlational Research]]"
 related_persons:
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 # Creative Destruction
@@ -144,7 +145,7 @@ updated: 2026-10-05
 > > 围绕市场体系是否能够自发消化[[Creativity|创造性]]破坏带来的失业与结构性破损的分歧。
 > >
 > > - **新自由主义经济学** 主张市场价格信号与资本自由流动能够迅速出清陈旧产业，自发引导劳动力完成跨行业转移。
-> > - **演化创新经济学（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）** 坚决指出激进创新的创造性破坏具有深层外部性与路径依赖，若缺乏[[National Innovation System|国家创新系统]]在公共教育、职业再培训与技术标准上的制度兜底，将陷入长期的经济停滞与社会动荡。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 18–20)]]
+> > - **演化创新经济学（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）** 坚决指出激进创新的创造性破坏具有深层外部性与[[Path Dependence|路径依赖]]，若缺乏[[National Innovation System|国家创新系统]]在公共教育、职业再培训与技术标准上的制度兜底，将陷入长期的经济停滞与社会动荡。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 18–20)]]
 
 > [!warning] 适用局限
 > 创造性破坏概念主要适用于具有根本性影响的重大技术突破与[[Techno-economic Paradigm|技术-经济范式]]转换分析；在成熟[[Technological Trajectories|技术轨道]]的常规平稳发展期，产业升级主要受[[Learning by Doing|干中学]]与渐进性创新驱动，盲目强调破坏反而会打乱精密工艺与隐性技能的连续性积累。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 9–11)]]

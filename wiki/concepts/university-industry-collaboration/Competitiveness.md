@@ -11,7 +11,7 @@ aliases:
 summary: "驱动国家科技战略、大学治理变革与劳动力技能重塑的核心逻辑与地缘政治装置。在宏观上体现为长程战略计算、先进制造与地缘威慑；在中观上体现为产学中心破除学科壁垒与排名审计重塑大学；在微观上体现为产线组织学习与学习分析；卡普与扎米斯卡进一步论证，国家千年期战略决断、创始人长期主义与全员股权所有权模式，构成了抵御短期金融化与维系持久科技竞争力的决定性底座。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 60
+related_count: 62
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -58,6 +58,7 @@ related_concepts:
   - "[[National Innovation System]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Path Dependence]]"
   - "[[Governmentality]]"
   - "[[Societies of Control]]"
 related_methods:
@@ -81,6 +82,7 @@ related_facts:
   - "[[Sematech]]"
   - "[[EUV LLC]]"
   - "[[Research Excellence Framework]]"
+  - "[[Albany NanoTech Complex]]"
 related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
@@ -286,7 +288,7 @@ updated: 2026-10-09
 > [!claim] [[Argument_Zhuo_2026_ICE|卓泽林 (2026, p. 20)]]; [[Argument_Fan_2026_BCAS|樊春良 (2026, pp. 24–27)]]
 > **教育即标准与开源技术生态锁定** [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]]与樊春良（2026）指出，大国地缘科技与产业竞争力的最高形态，已由末端产品与专利防御演进为底层技术标准与开源生态的范式主导：
 > 1. **高校教学向事实工业标准的转化** 美国研究型大学将 RISC-V 开放指令集架构、开源电子设计自动化（EDA）工具链及机器学习框架（如 PyTorch）全面植入本科与研究生核心工程课程，在学生认知形成期塑造其软硬件设计习惯；
-> 2. **不可逆的技术生态锁定效应** 当成千上万受训工程师进入全球科技企业后，其技术路径依赖将自然转化为整个产业对该开源生态的惯性采用，从根本上锁死后发竞争者的替代空间，形成极具韧性的国家产业技术事实标准与生态竞争力。
+> 2. **不可逆的技术生态[[Path Dependence|锁定效应]]** 当成千上万受训工程师进入全球科技企业后，其技术路径依赖将自然转化为整个产业对该开源生态的惯性采用，从根本上锁死后发竞争者的替代空间，形成极具韧性的国家产业技术事实标准与生态竞争力。
 
 ---
 
@@ -313,7 +315,7 @@ updated: 2026-10-09
 > - **1980s — 制造危机震荡与产学协同中心制度化** 日本先进制造崛起引发美国产业竞争力恐慌；1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》与 1984 年 [[Engineering Research Centers|NSF ERC]] 计划相继出台，国家竞争力被法定确立为大学工程科研与产学协同的核心支柱。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 367)]]
 > - **1990s — 产线组织学习与全员股权所有权创新** [[Competitive Semiconductor Manufacturing Program|CSM]] 项目实证确立一线组织学习对工程竞争力的核心作用（[[Argument_Macher_1998_CMR|Macher et al., 1998]]）；硅谷开创向全员授予股权的现代所有权模式；[[Sematech]] 与 [[EUV LLC]] 联合体探索前竞争共担机制。
 > - **1990s–2000s — [[Global Universities Rankings|全球大学排名]]基础设施化** 英国开展 [[Research Excellence Framework|RAE]]/REF，德国推行卓越计划，竞争力演化为以指标、审计与量化声誉为核心的高教地缘政治装置。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, p. 220)]]
-> - **2020s — 国家长程战略、开源标准与深科技竞争力重塑** 《[[CHIPS and Science Act|芯片与科学法案]]》推动建立前竞争中试枢纽（Albany NanoTech / MIT.nano）与“教育即标准”开源生态锁定机制；卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中系统总结国家千年期战略意志、创始人溢价与所有权公社对抵御短期金融化的决定性意义；白宫 [[Office of Science and Technology Policy|OSTP]] 发布战略报告重塑硬科技试验场与本土制造竞争力。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 17–26)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, Ch. 17)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Ch. 18)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026)]]
+> - **2020s — 国家长程战略、开源标准与深科技竞争力重塑** 《[[CHIPS and Science Act|芯片与科学法案]]》推动建立前竞争中试枢纽（[[Albany NanoTech Complex|Albany NanoTech]] / MIT.nano）与“教育即标准”开源生态锁定机制；卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中系统总结国家千年期战略意志、创始人溢价与所有权公社对抵御短期金融化的决定性意义；白宫 [[Office of Science and Technology Policy|OSTP]] 发布战略报告重塑硬科技试验场与本土制造竞争力。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 17–26)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, Ch. 17)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Ch. 18)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026)]]
 
 ---
 

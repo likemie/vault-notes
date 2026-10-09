@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch04"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch04"
 argument_display_title: "End of the atomic age"
 argument_kind: "book-chapter"
-argument_related_count: 39
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -76,6 +76,8 @@ related_facts:
   - "[[Apollo Program]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
+related_theories:
+  - "[[Path Dependence]]"
 status: draft
 created: 2026-10-08
 updated: 2026-10-08
@@ -206,7 +208,7 @@ updated: 2026-10-08
 > - **德国过度道德自省的地缘安全真空** 战后德国对军事力量的长期道德排斥导致联邦国防军战备严重空洞化，这种实力真空直接促成了俄罗斯在 2022 年发动全面侵乌战争的战略误判（p. 43）。
 > - **日本宪法第九条的绝对和平限制** 1947 年颁布的[[Article 9 of the Japanese Constitution|日本国宪法第九条]]放弃交战权与军队建设，使亚洲最富裕民主政体在面临现实入侵威胁时完全依附于外部援助，加剧了印太地区力量平衡的脆弱性（pp. 43–44）。
 
-> [!implication]- 同盟体系打破路径依赖的紧迫性
+> [!implication]- 同盟体系打破[[Path Dependence|路径依赖]]的紧迫性
 > 同盟体系若无法打破安全搭便车的路径依赖，单方面的去武力化非但不能换取[[Perpetual Peace|永久和平]]，反而会向潜在侵略者释放极其危险的软弱信号。必须推动盟友从传统重型装备外包转向分布式算法蜂群与自主防务能力建设。
 
 ---

@@ -8,10 +8,10 @@ aliases:
 summary: "地理空间上高密度集聚的产业与研发集群所内生的正向经济溢出效应，由共享专业劳动力池、投入品供应商网络及隐性技术知识外溢三大马歇尔微观机制驱动；在现代产业政策与高科技竞争视角下，集聚外部性构成半导体产业极端地理集中的经济学动因，而追求地缘安全与供应链分散化的政策干预将显著稀释集聚红利并推高长期制造成本。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/economics
   - theme/industrial-policy
@@ -30,7 +30,8 @@ related_concepts:
   - "[[Industrial District]]"
   - "[[Variable]]"
   - "[[Vertical Disintegration]]"
-related_theories: []
+related_theories:
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Agglomeration Externalities
@@ -121,7 +122,7 @@ updated: 2026-10-07
 ### 命题一　集聚外部性是驱动高科技制造产业走向极端地理集中的核心经济动因，并使后发地区面临强大的规模壁垒
 
 > [!concept-lens] 空间经济学与微观集聚优势形成
-> 解释微观企业在区位选址中为何展现出极强的路径依赖与空间抱团倾向，从而形成跨国竞争中的自我强化优势。
+> 解释微观企业在区位选址中为何展现出极强的[[Path Dependence|路径依赖]]与空间抱团倾向，从而形成跨国竞争中的自我强化优势。
 
 > [!claim] [[Argument_Bown_2024_JEP|Bown & Wang (2024)]]
 > **半导体制造业极端地理集中的集聚动因** 查德·博恩（Chad P. Bown）与汪智（Zhi Wang）指出，高科技半导体制造不仅具有高昂的固定研发成本，更高度依赖集聚外部性与[[Learning by Doing|在做中学]]。在半导体早期，[[Fairchild Semiconductor|仙童半导体]]衍生出的大量企业在加州硅谷集聚，通过高密度人才交流催生了先发制造优势；随后数十年，东亚地区（特别是台湾与韩国）通过政府补贴、产业园区基础设施与密集的高素质工程劳动力池，构筑起无可比拟的本地配套网络与晶圆制造集群，直接导致全球 70% 的芯片制造产能与 90% 以上的先进制程产能被极端锁定于东亚，形成了后发国家极难依靠纯市场力量打破的集聚壁垒。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 82–83, 88–92)]]

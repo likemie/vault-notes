@@ -5,7 +5,7 @@ aliases:
 summary: "Slaughter & Leslie (1997) 提出的概念，描述大学日益卷入专利商业化、产学合作和竞争性拨款等市场导向活动，学术生产与资本积累逻辑深度绑定的制度转型过程"
 type: theory
 theory_field: "higher-education"
-theory_related_count: 30
+theory_related_count: 31
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_concepts:
 related_theories:
   - "[[Dependency Theory]]"
   - "[[Varieties of Capitalism]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Analytic Framework]]"
 related_persons:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Academic Capitalism
@@ -89,7 +90,7 @@ updated: 2026-10-07
 > - **1997 — 原始奠基版本（Slaughter & Leslie）** 聚焦高校面临国家财政削减时的应对策略，界定院校和教师为获取外部竞争性资金而采取的市场和类市场行为。
 > - **2004 — 知识体制扩展（Slaughter & Rhoades）** 从个体行为策略跃升为制度分析，提出“学术资本主义知识体制”，关注大学管理层、中介机构（如[[Technology Transfer|技术转让]]办公室）与外部资本形成的联结网络。
 > - **2013 — 微观经济学与商场模型深化（[[Argument_Stephan_2013_NBER|Stephan, 2013]]）** 科学经济学家[[Paula Stephan|保拉·斯蒂芬]]引入商场模型与[[Soft-Money Faculty Model|软钱教职模式]]，揭示战后美国大学如何反客为主倒逼政府承担薪资与间接成本，以及实验室将研究生作为边际廉价用工的微观组织理性。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–33)]]
-> - **2017 — 福利[[Varieties of Capitalism|资本主义多样性]]整合（Schulze-Cleven et al.）** 结合[[Varieties of Capitalism|资本主义多样性]]（VoC）框架，系统比较自由主义（美）、保守主义（德）与社会民主主义（挪）国家在学术资本主义推进中的差异化路径依赖。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, pp. 803–804)]]
+> - **2017 — 福利[[Varieties of Capitalism|资本主义多样性]]整合（Schulze-Cleven et al.）** 结合[[Varieties of Capitalism|资本主义多样性]]（VoC）框架，系统比较自由主义（美）、保守主义（德）与社会民主主义（挪）国家在学术资本主义推进中的差异化[[Path Dependence|路径依赖]]。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, pp. 803–804)]]
 
 ---
 
@@ -104,7 +105,7 @@ updated: 2026-10-07
 > | [[Shopping Mall Model of Research Universities]] | 机制 | 将大学组织功能透视为空房出租与基础设施搭建，学者作为独立商铺自负盈亏并上缴租金税费。 |
 > | [[Soft-Money Faculty Model]] | 机制 | 大学将教师薪酬[[Externalization\|外部化]]转嫁至外部科研项目，免除自身经常性财务兜底义务。 |
 > | [[PhD Overproduction in Science]] | 机制 / 后果 | 课题组为降低边际科研交付成本而系统性过度吸纳并剥削低薪受训者，造成劳动力市场脱节。 |
-> | [[Varieties of Capitalism]] | 分类 / 框架 | 区分自由主义、保守主义与社会民主主义福利体制下学术资本主义演化的路径依赖差异。 |
+> | [[Varieties of Capitalism]] | 分类 / 框架 | 区分自由主义、保守主义与社会民主主义福利体制下学术资本主义演化的[[Path Dependence\|路径依赖]]差异。 |
 
 ---
 
@@ -147,7 +148,7 @@ updated: 2026-10-07
 
 ## 比较视野：学术资本主义的多样性
 
-> [!note]- 福利资本主义体制下的路径依赖差异
+> [!note]- 福利资本主义体制下的[[Path Dependence|路径依赖]]差异
 > Schulze-Cleven & Olson 基于 Hall & Soskice（2001）的 [[Varieties of Capitalism]] 框架，比较了三种资本主义类型中学术资本主义的差异化表现：
 >
 > - **自由主义体制（以美国为代表）** 亲市场规制传统最深，高等教育市场化与金融化最为激进，营利性高校[[Emergence|涌现]]，软钱教职与商场化科研模型高度成熟。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, pp. 803–804)]]

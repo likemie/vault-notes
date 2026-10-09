@@ -6,7 +6,7 @@ aliases:
 summary: "知识密集型资本主义通过投资、治理和空间规划持续把地点与人口划分为赢家和输家的过程，是空间不平等生产的重要机制"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[EST Integrated Development]]"
 related_theories:
   - "[[Fixity-Motion Tension]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Case Study]]"
   - "[[LISA Spatiotemporal Transition]]"
@@ -47,7 +48,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-09-18
+updated: 2026-10-09
 ---
 
 ## 定义
@@ -99,7 +100,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 
 ---
 
-> [!line-a] 空间锁定的自我强化与路径依赖
+> [!line-a] 空间锁定的自我强化与[[Path Dependence|路径依赖]]
 > 空间分选一旦形成，并非静态标签，而是随时间持续自我强化的动态过程。Fan 等（2024）通过 LISA 时空转移矩阵为这一机制提供了系统的量化证据：Type0（自身不变-邻域不变）占全部转移事件的 $80.2\%$，空间凝聚度 $SC = 0.849$，相对移动率 $p = 0.089$（$p=0$ 为完全锁定，$p=1$ 为格局解体）（[[Argument_Fan_Song_Zhai_2024_RSEE\|Fan et al., 2024, pp. 72–73]]）。这意味着给定某省某一年的空间关联类型，下一年的类型极大概率保持不变——空间分选具有高度的惯性。
 
 > [!line-b] 子系统层面的分选强度差异

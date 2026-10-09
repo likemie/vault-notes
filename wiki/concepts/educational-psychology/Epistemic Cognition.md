@@ -5,7 +5,7 @@ aliases:
 summary: "涵盖个体关于知识和认知过程的所有显性或隐性信念与认知实践活动的总括性术语。是理解学习过程、批判性思维与情境适应的核心变量。"
 type: concept
 domain: "educational-psychology"
-related_count: 77
+related_count: 78
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -62,6 +62,7 @@ related_theories:
   - "[[AIR Model of Epistemic Cognition]]"
   - "[[Situative Perspective]]"
   - "[[Integrative Pluralism]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Internal Consistency]]"
@@ -97,7 +98,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 # Epistemic Cognition
 （[[Epistemology|认识论]]认知）
@@ -212,7 +213,7 @@ updated: 2026-10-07
 > [!claim] Wu et al.
 > **适应性认识立场的动态调适与双轨支架矩阵** 在[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）深度介入的学习环境中，认识论认知不再仅仅是个体内隐的静态特质，而是表现为学习者在人机交互中动态调适三种[[Epistemic Stances\|认识立场]]（绝对主义、相对主义、评价主义）的高级调控能力：
 > - **认识立场的动态中介效应** 学习者的认识立场直接决定其与大模型交互时的认知加工深度：绝对主义导致对机器输出的表面顺从与盲目[[Cognitive Offloading\|认知卸载]]，相对主义滑向主观臆测与交互抗拒，而评价主义则驱动对模型输出的批判性审问与跨信源证据协调。
-> - **双轨干预支架矩阵的赋能效能** 通过技术提示词支架（如[[Chain-of-Thought Prompting\|思维链]]引导、反思提示）与教学法支架（如交互式同行评议）的双轨协同干预，能够有效打破绝对主义认知的路径依赖，培育评价主义立场并最大化人机共生学习效益。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–368)]]
+> - **双轨干预支架矩阵的赋能效能** 通过技术提示词支架（如[[Chain-of-Thought Prompting\|思维链]]引导、反思提示）与教学法支架（如交互式同行评议）的双轨协同干预，能够有效打破绝对主义认知的[[Path Dependence|路径依赖]]，培育评价主义立场并最大化人机共生学习效益。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–368)]]
 
 ---
 

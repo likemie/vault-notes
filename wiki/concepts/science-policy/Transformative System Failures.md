@@ -10,10 +10,10 @@ aliases:
 summary: "指阻碍创新系统自发实现社会技术转型与应对重大挑战的四类根本性制度失灵"
 type: concept
 domain: "science-policy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/science-policy
   - innovation-policy
@@ -37,6 +37,7 @@ related_concepts:
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Evolutionary Economics]]"
+  - "[[Path Dependence]]"
   - "[[Transitology]]"
 related_arguments:
   - "[[Argument_Wanzenbock_2020_SPP]]"
@@ -46,7 +47,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-09
 ---
 
 # Transformative System Failures
@@ -150,7 +151,7 @@ updated: 2026-10-03
 > 探讨在缺乏价值共识与反思纠偏机制的情境下，单向度技术攻关如何诱发广泛的社会抵触与资源沉没。
 
 > [!claim] Wanzenböck, I. et al.
-> **缺乏[[Reflexive Governance|反思性治理]]的技术锁定代价** 若政府在[[Problem Finding|问题界定]]仍具高度规范争议时过早挑选并强制推广特定技术（方向性偏误与反思性缺失），不仅会面临来自受损群体的激烈政治抵抗，还会错失更具生态与社会潜力的替代路线，最终造成系统性政策失败。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 485–486)]]
+> **缺乏[[Reflexive Governance|反思性治理]]的[[Path Dependence|技术锁定]]代价** 若政府在[[Problem Finding|问题界定]]仍具高度规范争议时过早挑选并强制推广特定技术（方向性偏误与反思性缺失），不仅会面临来自受损群体的激烈政治抵抗，还会错失更具生态与社会潜力的替代路线，最终造成系统性政策失败。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 485–486)]]
 
 ---
 

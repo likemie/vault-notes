@@ -64,6 +64,7 @@ related_theories:
   - "[[World-Systems Theory]]"
   - "[[Cultural Models]]"
   - "[[Colonial State Theory]]"
+  - "[[Path Dependence]]"
   - "[[Liberal-Pluralist Theory of the State]]"
   - "[[Dependency Theory]]"
   - "[[Post-Imperialism Theory]]"
@@ -116,7 +117,7 @@ title: "Argument_Olmos_Torres_2009_StateTheories"
 argument_key: "Argument_Olmos_Torres_2009_StateTheories"
 argument_display_title: "Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches"
 argument_kind: "book-chapter"
-argument_related_count: 77
+argument_related_count: 78
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -208,7 +209,7 @@ issuing_organization: ""
 > | 比较维度 | 普世世界文化理论 | 批判政治经济学分析 |
 > |---|---|---|
 > | **扩张根本动力** | 扩散共享的现代文化信念与公民观念 | 满足资本积累对劳动力的需求并缓和国家政治统治危机 |
-> | **历史因果逻辑** | 强调 1945 年后制度共时趋同 | 强调前殖民与殖民剥削遗产的长期路径依赖 |
+> | **历史因果逻辑** | 强调 1945 年后制度共时趋同 | 强调前殖民与殖民剥削遗产的长期[[Path Dependence\|路径依赖]] |
 > | **学校体制现实** | 均质平等的国民教育机构 | 资源高度悬殊的[[Dual School System\|双轨教育体系]]（精英学校与简陋大众学校） |
 > | **国家角色定位** | 照搬国际标准的被动模仿者 | 在外部资本依赖与内部阶级冲突中勉强维持平衡的矛盾主体 |
 

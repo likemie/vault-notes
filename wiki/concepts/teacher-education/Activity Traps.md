@@ -7,7 +7,7 @@ aliases:
 summary: "指专业学习共同体运作中，实践者未真正投入探究便径直跳到解决方案的活动形态；其后果是实践与情境的根本问题未被确立、未考虑全部成因与方案，并因做法“已知”而重复无效实践。"
 type: concept
 domain: "teacher-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Evidence-Informed Practice]]"
 related_theories:
+  - "[[Path Dependence]]"
   - "[[Inquiry Cycle]]"
 related_methods:
   - "[[Questionnaire]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-15
-updated: 2026-09-21
+updated: 2026-10-09
 ---
 
 # Activity Traps
@@ -100,7 +101,7 @@ updated: 2026-09-21
 > [!factors] 活动陷阱的四重系统性破坏后果
 > - **根本[[Problem Finding\|问题界定]]偏误与资源错配** 实践与情境的根本症结未被确立，改进工作易指向错误靶心，甚至将有限资源错配于最容易短期提分的边缘群体。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 130–131)]]
 > - **深层致因与多元方案探索被阻断** 未能系统检视教学失误的因果机制，全部潜在成因与可选方案被压缩为少数现成表面化方案。
-> - **低效无效惯例被习惯性盲目复制** 仅因某种做法在校内“已被大家熟知（known）”便被视为既定真理不断重复，难以打破路径依赖。
+> - **低效无效惯例被习惯性盲目复制** 仅因某种做法在校内“已被大家熟知（known）”便被视为既定真理不断重复，难以打破[[Path Dependence|路径依赖]]。
 > - **行动理论缺失导致成效不可持续** 新举措缺乏深层因果行动理论（Theories of Action）支撑，往往只能带来短暂的脉冲表象而无法实现长效改进。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 131)]]
 
 > [!logic-map]- 活动陷阱的生成路径

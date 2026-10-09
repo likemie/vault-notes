@@ -11,7 +11,7 @@ aliases:
 summary: "Schot & Steinmueller（2018）与 Mazzucato（2018）等学者识别的创新政策三大范式——科学促增长（Frame 1）、国家创新系统（Frame 2）与变革转型（Frame 3），揭示了公共干预从弥补市场失灵到管理系统失灵再到主动进行市场塑造与方向性引导的递进演化逻辑"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -50,6 +50,7 @@ related_theories:
   - "[[Systems of Innovation]]"
   - "[[ROAR Framework]]"
   - "[[Evolutionary Economics]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Cost-Benefit Analysis]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-27
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Innovation Policy Paradigms
@@ -134,7 +135,7 @@ updated: 2026-10-07
 >   - **大学角色** 充当纯粹的[[Knowledge Production|知识生产]]者与人才输送源泉，技术商业化被视为科研完成后的单向线性外溢。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 28–29)]]
 > - **范式二：国家[[Systems of Innovation|创新系统]]（Frame 2: Systems of Innovation）**
 >   - **理论根基** 植根于[[Evolutionary Economics|演化经济学]]与制度主义（Freeman, 1987; Lundvall, 1992; Nelson, 1993）。创新被界定为大学、企业、政府实验室与中介机构在特定制度环境下的非线性交互、知识流动与集体学习。
->   - **政策干预** 从“市场失灵”转向“系统失灵”——针对制度失灵、网络连接失灵、技术锁定失灵、基础设施失灵、[[Absorptive Capacity|吸收能力]]失灵及探索开发失衡实施系统修补。
+>   - **政策干预** 从“市场失灵”转向“系统失灵”——针对制度失灵、网络连接失灵、[[Path Dependence|技术锁定]]失灵、基础设施失灵、[[Absorptive Capacity|吸收能力]]失灵及探索开发失衡实施系统修补。
 >   - **大学角色** 从单纯的知识供给方升级为“系统催化剂”与深度互动伙伴，通过建立[[University-Based Research Center|产学合作研究中心]]、长期[[Knowledge Exchange|知识交流]]拨款融入国家[[Innovation Ecosystem|创新生态]]。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 29–31)]]
 > - **范式三：[[Transformative Change|变革转型]]与使命导向（Frame 3: Transformative Change & Mission-Oriented）**
 >   - **理论根基** 面对21世纪气候变化、人口老龄化与公共卫生危机等[[Wicked Problem|复杂社会难题]]，系统范式因缺乏价值导向而陷入被动（Schot & Steinmueller, 2018; [[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]; [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al., 2020]]）。
@@ -216,7 +217,7 @@ updated: 2026-10-07
 > [!debates] 学术争议
 >
 > > [!axis] [[Paradigm|范式]]历史阶段划分的普适性争议
-> > 批评者指出，三范式框架将极其复杂的国家科技史压缩为三个线性阶段，可能低估了各国在政治体制、产业结构与资源禀赋上的路径依赖与非线性差异；支持者则认为三范式提供了极具解释力的理想型（Ideal Types）分析工具。
+> > 批评者指出，三范式框架将极其复杂的国家科技史压缩为三个线性阶段，可能低估了各国在政治体制、产业结构与资源禀赋上的[[Path Dependence|路径依赖]]与非线性差异；支持者则认为三范式提供了极具解释力的理想型（Ideal Types）分析工具。
 > >
 > > - **Lindner et al. (2024)** 强调各范式在不同国家并非单向替代，而是处于“科学推动与政策拉动”的持续动态博弈之中。
 > > - **[[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]]** 实证指出各范式政策工具在实践中高度重叠并存，必须从组合治理视角理解政策演进。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 34–35)]]

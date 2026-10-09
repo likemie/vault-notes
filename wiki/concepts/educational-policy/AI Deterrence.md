@@ -7,7 +7,7 @@ aliases:
 summary: "指在21世纪软件世纪中，大国战略安全与地缘均势不再主要取决于传统动能硬件与核武器物理存量，而转由人工智能算法、自主无人系统、边缘算力与敏捷软件开发能力所决定的新型战略威慑形态。强调软件跃居指挥调度中枢、硬件降维为执行载体，以低成本分布式算法蜂群重构非对称攻防成本，为伦理约束下的民主政体提供常规威慑支柱。"
 type: concept
 domain: "educational-policy"
-related_count: 25
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Other Transaction Authority]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Emergence]]"
+  - "[[Swarm Intelligence]]"
   - "[[Technological Republic]]"
   - "[[Document]]"
   - "[[Winner's Fallacy]]"
@@ -33,6 +34,7 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Artificial General Intelligence]]"
 related_theories:
+  - "[[Path Dependence]]"
   - "[[Strategic Bargaining Theory]]"
 related_methods: []
 related_instruments: []
@@ -52,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # AI Deterrence
@@ -72,7 +74,7 @@ updated: 2026-10-08
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示现代战争与大国均势的决胜要素已从物理毁灭当量与重工业产能，转移为算法推理速度、模型泛化能力与数据杀伤链闭合效率。
-> - **用途** 诊断传统国防采办深陷重型硬件平台路径依赖的战略脆弱性，为民主政体构建非对称防卫能力、扭转同盟体系防务萎缩提供核心理论基石。
+> - **用途** 诊断传统国防采办深陷重型硬件平台[[Path Dependence|路径依赖]]的战略脆弱性，为民主政体构建非对称防卫能力、扭转同盟体系防务萎缩提供核心理论基石。
 > - **边界** 强调的是软件与算法在国家防御中的指挥决策中枢地位，并不意味着物理硬件的消失，而是强调硬件装备必须接受统一算法中枢的动态协同与重构；同时坚持必须在算法链条中设立严格的[[Man-Computer Symbiosis|人机协同]]伦理护栏。
 
 > [!citation-card] 原子时代落幕与人工智能威慑新纪元
@@ -116,7 +118,7 @@ updated: 2026-10-08
 > [!feature] 核心要素
 > - **软硬件主从关系的根本逆转（Software-Hardware Hierarchy Inversion）** 彻底打破将软件视作装备附件的传统工业定势，确立软件为战略态势感知、目标识别与火力调度的中枢神经，硬件战机与舰艇则成为可替换的执行末端。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 44–46)]]
 > - **极限压缩的传感器到射手杀伤链（Ultra-Compressed Sensor-to-Shooter Loop）** 依托多模态模型与边缘计算，将战场海量异构数据（卫星、雷达、无人机视频）在秒级内转化为战术杀伤指令，实现以快制慢的高维决策压制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 26–27)]]
-> - **非对称成本与分布式集群[[Emergence|涌现]]（Asymmetric Cost & Distributed Swarm Intelligence）** 运用由敏捷算法控制的大规模低成本[[Autonomous Drone Swarms|自主无人机蜂群]]，在实战中瓦解对手昂贵的传统重型武器平台，重构现代战争的成本交换比。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 45–47)]]
+> - **非对称成本与分布式集群[[Emergence|涌现]]（Asymmetric Cost & Distributed [[Swarm Intelligence]]）** 运用由敏捷算法控制的大规模低成本[[Autonomous Drone Swarms|自主无人机蜂群]]，在实战中瓦解对手昂贵的传统重型武器平台，重构现代战争的成本交换比。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 45–47)]]
 > - **空中实时推送与持续进化部署（Over-the-Air [[Other Transaction Authority|OTA]] Updates & Agile Evolution）** 摆脱传统装备数年一次的大修升级，依托现代化云边协同架构，实现前线算法根据对手反制策略在天级与周级内完成代码重构与 OTA 空中推送。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 27–28)]]
 > - **民主政体的非对称算法代差要求（Democratic Asymmetric Algorithmic Overmatch）** 针对民主国家无法承受大规模人员伤亡与无底线消耗战的制度特征，通过不可逾越的算法认知代差与精准制衡能力，形成让潜在侵略者不敢轻举妄动的常规威慑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 46–48)]]
 > - **国家战略研发体制重塑与新[[Manhattan Project|曼哈顿工程]]（New Manhattan Project for Defense Software）** 扭转防务预算中 AI 软件研发占比畸低的现状，通过[[Other Transaction Authority|其他交易授权]]（Other Transaction Authority, OTA）等新型机制吸纳顶尖民间工程智力，构建国家级军民协同攻坚体系。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 47–48, 52–54)]]

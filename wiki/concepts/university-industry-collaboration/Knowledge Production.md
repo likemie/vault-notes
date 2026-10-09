@@ -7,7 +7,7 @@ aliases:
 summary: "知识的创造、建构与合法化过程；在宏观场域揭示资本偏向、跨国组织自指性指标帝国与高校基础科研体制变迁，在微观教育场域指向学习者在本土协商共同体中依托证据协调与认识论实践自主生成新知并内化说服优于强制的民主审议价值。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 124
+related_count: 125
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -124,6 +124,7 @@ related_facts:
   - "[[World Bank]]"
   - "[[Genesis Mission]]"
   - "[[Office of Science and Technology Policy]]"
+  - "[[Albany NanoTech Complex]]"
   - "[[Academic Ranking of World Universities]]"
   - "[[National Science Board]]"
   - "[[Systems Approach for Better Education Results]]"
@@ -272,7 +273,7 @@ updated: 2026-10-09
 > 探讨国家产业政策与地缘竞争如何改变大学知识生产的扩散路径，揭示高校如何通过人才流动与共置[[Pilot Scale Platform|中试平台]]将学术探索转化为产业主导权。
 
 > [!claim] [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]]
-> **教育即标准扩散与中试共置跨越假说** 卓泽林论证指出，在国家半导体体系等战略攻坚中，大学知识生产超越了发表论文与申请专利的传统[[Technology Transfer|技术转移]]范式：一方面，大学将开源技术架构（如加利福尼亚大学伯克利分校研发的 RISC-V 指令集）直接内生化为研究生课程与实验训练的标准内容，使拔尖学生在进入产业界后自发成为该标准的推广者与开发者，借助人才流动与报酬递增机制形成全球技术标准的路径锁定（David, 1985）；另一方面，大学通过建设 300 毫米晶圆中试线与开放微纳加工平台（如纽约州立大学理工学院 Albany NanoTech 与麻省理工学院 MIT.nano），将学者与产业工程师置于真实工业级洁净室环境中一体化攻关，承担了基础原型向商业代工厂导入的早期制造风险，打破了[[Technology Readiness Level|技术就绪度]]（TRL 4–6）的工程转化断层。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–22)]]
+> **教育即标准扩散与中试共置跨越假说** 卓泽林论证指出，在国家半导体体系等战略攻坚中，大学知识生产超越了发表论文与申请专利的传统[[Technology Transfer|技术转移]]范式：一方面，大学将开源技术架构（如加利福尼亚大学伯克利分校研发的 RISC-V 指令集）直接内生化为研究生课程与实验训练的标准内容，使拔尖学生在进入产业界后自发成为该标准的推广者与开发者，借助人才流动与报酬递增机制形成全球技术标准的路径锁定（David, 1985）；另一方面，大学通过建设 300 毫米晶圆中试线与开放微纳加工平台（如纽约州立大学理工学院 [[Albany NanoTech Complex|Albany NanoTech]] 与麻省理工学院 MIT.nano），将学者与产业工程师置于真实工业级洁净室环境中一体化攻关，承担了基础原型向商业代工厂导入的早期制造风险，打破了[[Technology Readiness Level|技术就绪度]]（TRL 4–6）的工程转化断层。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–22)]]
 
 ---
 

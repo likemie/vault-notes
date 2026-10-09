@@ -8,7 +8,7 @@ aliases:
 summary: "美国联邦采办条例（FAR 35.016）确立并由DARPA广泛应用的颠覆性前沿科技竞争发包机制。区别于详述技术规格指标的传统征求建议书（RFP），BAA仅界定宏观科学挑战与战略使命愿景，允许申请人自由提出异质性突破方案；Fuchs（2010）指出BAA是公共代理人向产学研生态释放前沿信号、播撒创新主题而不钦定单一赢家的核心制度工具。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Other Transaction Authority]]"
   - "[[Innovation Ecosystem]]"
 related_theories:
+  - "[[Path Dependence]]"
   - "[[Technological Trajectories]]"
 related_methods:
   - "[[Audit Trail]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Broad Agency Announcement
@@ -107,7 +108,7 @@ updated: 2026-10-07
 ### 命题一　BAA 通过问题导向与非预设技术路线激发颠覆性多元解题思路
 
 > [!concept-lens] 创新经济学与机制设计维度
-> 探讨如何通过发包机制破除传统招标中的路径依赖与创新固化。
+> 探讨如何通过发包机制破除传统招标中的[[Path Dependence|路径依赖]]与创新固化。
 
 > [!claim] Bonvillian, W. B.
 > **非预设发包的创新激励效能** 传统的政府采购 RFP 假定采购官员已经知晓最佳技术路线，因而必然将竞标限定在渐进改良[[Paradigm|范式]]内。BAA 将政府角色严格限制为“提出极高挑战性问题的出题人”，把“技术路径的设计权”完全交还给科学家与工程师共同体，从而最大化地激发了非共识、跨学科的颠覆性解决方案。

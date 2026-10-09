@@ -12,7 +12,7 @@ title: "Argument_Schulze-Cleven_2017_HighEduc"
 argument_key: "Argument_Schulze-Cleven_2017_HighEduc"
 argument_display_title: "The new political economy of higher education: between distributional conflicts and discursive stratification"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -58,6 +58,7 @@ related_concepts:
   - "[[Sociology of Valuation and Evaluation]]"
 related_theories:
   - "[[Academic Capitalism]]"
+  - "[[Path Dependence]]"
   - "[[Varieties of Capitalism]]"
   - "[[Neo-feudalism in Higher Education]]"
 related_methods:
@@ -131,7 +132,7 @@ Slaughter & Leslie(1997)和 Slaughter & Rhoades(2004)的 [[Academic Capitalism|�
 ### 三种理论路径的互补
 
 > [!abstract] 三种路径
-> - **制度分析** 解释为什么学术资本主义在美国、德国和挪威呈现出不同面貌，不同政治经济体中的市场化路径受制度安排和福利国家传统的深刻约束，展现出强路径依赖(p.796)
+> - **制度分析** 解释为什么学术资本主义在美国、德国和挪威呈现出不同面貌，不同政治经济体中的市场化路径受制度安排和福利国家传统的深刻约束，展现出强[[Path Dependence|路径依赖]](p.796)
 > - **阶级导向理论（马克思主义与 Bourdieu 式分析）** 揭示这些制度安排背后谁受益、谁受损，精英机构如何通过评估和排名机制将文化优势转化为学术功绩，从而实现阶级再生产的合法化(pp.798–799)
 > - **[[Discourse Analysis\|话语分析]]方法论** 阐明上述"合法化"是如何在语言和符号层面具体操作的，排名不只是数字，更是一套教人们"看见"谁在上、谁在下的话语技术(pp.797–798, 805–807)
 
@@ -183,7 +184,7 @@ Slaughter & Leslie(1997)和 Slaughter & Rhoades(2004)的 [[Academic Capitalism|�
 > [!info] 金融化的具体机制
 > Eaton et al.(2016)提供了一组关键数据：2003 至 2012 年间，美国高等教育中"机构债务利息、营利性运营利润和学生贷款利息的综合实际成本"增加了一倍以上，而这些"上升的金融成本远远超过了增加的金融回报"(Eaton et al., 2016, p.2, p.23f)。换句话说，金融系统从高等教育中抽取的财富，超过了金融投资为高等教育创造的回报，这场"金融化"不是双赢，而是财富从学生和公立院校向金融部门的净转移。
 
-但市场化决非整齐划一。德国部分联邦州在 2000 年代初引入学费，随后在学生的激烈抗议下全面撤销，这一拉锯展示了市场化可以被政治动员所逆转。法国的主要改革方向是合并院校形成更大规模的结构，而非引入价格竞争。英国虽然走市场化道路，但其高等教育仍以公立院校为主，与美国营利性部门的泛滥形成鲜明对比。市场化是一个有条件的、路径依赖的过程，而非普遍的历史必然(pp.800–801)。
+但市场化决非整齐划一。德国部分联邦州在 2000 年代初引入学费，随后在学生的激烈抗议下全面撤销，这一拉锯展示了市场化可以被政治动员所逆转。法国的主要改革方向是合并院校形成更大规模的结构，而非引入价格竞争。英国虽然走市场化道路，但其高等教育仍以公立院校为主，与美国营利性部门的泛滥形成鲜明对比。市场化是一个有条件的、[[Path Dependence|路径依赖]]的过程，而非普遍的历史必然(pp.800–801)。
 
 ---
 

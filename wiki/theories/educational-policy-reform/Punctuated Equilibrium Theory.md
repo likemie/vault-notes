@@ -12,7 +12,7 @@ aliases:
 summary: "弗兰克·R·鲍姆加特纳与布莱恩·D·琼斯于1993年提出的公共政策变迁经典理论；指出大多数公共政策在绝大多数时期处于由专属制度场所与正面政策形象构筑的政策垄断稳态之中，但当政策企业家通过重构政策形象并开展制度场所转换时，长期惰性稳态将在短时间内发生断裂式剧变。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 35
+theory_related_count: 36
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -44,6 +44,7 @@ related_concepts:
 related_theories:
   - "[[Bounded Rationality]]"
   - "[[Complexity Theory]]"
+  - "[[Path Dependence]]"
   - "[[Multiple Streams Framework]]"
   - "[[Six-Stage Model of Policymaking]]"
 related_methods:
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-26
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Punctuated Equilibrium Theory
@@ -179,7 +180,7 @@ updated: 2026-10-07
 > > [!axis] 突变解释与渐进演进的[[Ontology|本体论]]争议
 > > 批评者质疑间断突变是否只是表面立法现象，深层实践变革本质上依然是渐进的。
 > >
-> > - **历史制度主义批评视角** 强调制度演进具有强烈的路径依赖（Path Dependency）与层叠（Layering）特征，立法上的剧变往往伴随着基层执行机制对旧模式的隐蔽延续。
+> > - **历史制度主义批评视角** 强调制度演进具有强烈的[[Path Dependence|路径依赖]]（Path Dependency）与层叠（Layering）特征，立法上的剧变往往伴随着基层执行机制对旧模式的隐蔽延续。
 > > - **间断均衡理论辩护** 强调[[Bounded Rationality|有限理性]]导致注意力瓶颈必然呈现断裂跳跃，宏观法案与管辖权的断裂式重组重构了后续演化的游戏规则。
 > >
 > > - **结构[[Determinism|决定论]]** 认为 2008 年金融大衰退与奥巴马政府执政等外生大环境才是打破垄断的唯一决定性因素。

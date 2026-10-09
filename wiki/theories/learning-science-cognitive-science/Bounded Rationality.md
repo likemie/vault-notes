@@ -7,7 +7,7 @@ aliases:
 summary: "由赫伯特·西蒙（Herbert A. Simon）开创的认知与决策理论，指出行为主体在信息、时间与计算能力受限条件下无法实现全局最优，只能依靠满意原则与持续反馈进行决策；在教育中解释了教师面对高复杂度课堂时依赖反馈修正开展专业判断的必然性；在国家创新系统理论中作为微观行为基石，论证了有限理性与不确定性导致主体高度依赖地理与制度邻近性开展本地化互动学习，从而奠定国家制度多样性与发展路径差异。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 40
+theory_related_count: 41
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Homework]]"
 related_theories:
   - "[[Evolutionary Economics]]"
+  - "[[Path Dependence]]"
   - "[[Convergence Theory in Comparative Education]]"
   - "[[Post-structuralism]]"
   - "[[Critical Theory]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Bounded Rationality
@@ -82,7 +83,7 @@ updated: 2026-10-08
 > - **知识位置** 诞生于行为科学、认知心理学与组织决策学[[Comparative Education as a Cross-Sectional Area|交叉领域]]，随后广泛辐射至比较政治经济学、[[Evolutionary Economics|演化经济学]]、[[National Innovation System|国家创新系统]]学派与教育[[Professional Judgment|专业判断]]理论。
 
 > [!claim] 核心判断
-> 人类理性的边界不是可以通过增加数据或算法计算就能彻底消除的临时性技术缺陷，而是主体所面对的客观环境复杂性结构性超出其神经计算与认知处理能力（“任务的复杂性大于行动者的实践能力”）；在微观教学中，这意味着教师面对课堂不确定性必须依靠经验规则与高频反馈开展[[Professional Judgment|专业判断]]；在宏观经济与技术演化中，有限理性与本地化学习使得不同国家的微观互动网络深植于特定制度母体，直接打破了全球化技术自然趋同神话，决定了制度多样性与发展路径依赖的必然性。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 6)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 11)]]
+> 人类理性的边界不是可以通过增加数据或算法计算就能彻底消除的临时性技术缺陷，而是主体所面对的客观环境复杂性结构性超出其神经计算与认知处理能力（“任务的复杂性大于行动者的实践能力”）；在微观教学中，这意味着教师面对课堂不确定性必须依靠经验规则与高频反馈开展[[Professional Judgment|专业判断]]；在宏观经济与技术演化中，有限理性与本地化学习使得不同国家的微观互动网络深植于特定制度母体，直接打破了全球化技术自然趋同神话，决定了制度多样性与发展[[Path Dependence|路径依赖]]的必然性。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 6)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 11)]]
 
 ---
 

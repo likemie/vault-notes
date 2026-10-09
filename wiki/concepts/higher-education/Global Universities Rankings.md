@@ -9,7 +9,7 @@ aliases:
 summary: "对高等教育机构进行比较性评估和排序的工具系统，已成为驱动大学竞争、政策调整和全球高教分层的重要基础设施。"
 type: concept
 domain: "higher-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -37,7 +37,8 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Value Neutrality]]"
   - "[[Reliability]]"
-related_theories: []
+related_theories:
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Analytic Framework]]"
 related_persons: []
@@ -58,7 +59,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-11'
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Global Universities Rankings
@@ -119,7 +120,7 @@ updated: 2026-10-07
 
 - **偏爱研究密集型机构** 以自然科学和论文发表为绝对重心，教学和社会服务功能被边缘化
 - **偏爱英语大学** 以英文发表为核心的数据库天然有利于英语国家
-- **偏爱历史悠久的老牌院校** 声誉积累具有路径依赖效应
+- **偏爱历史悠久的老牌院校** 声誉积累具有[[Path Dependence|路径依赖]]效应
 - **偏爱等级森严的高教体系中的机构** 处于层级顶端的少数精英大学持续受益
 - **偏爱低内部多样性的机构** 综合性研究大学被认为"规范"
 

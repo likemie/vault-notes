@@ -9,7 +9,7 @@ aliases:
 summary: "源自康德哲学与启蒙国际主义的规范性政治与教育构想，主张通过普遍理性觉醒、共和立宪法权与跨国制度协作消除野蛮战争状态；在比较教育学中构成了人道主义与世界公民教化的奠基性伦理动因，在当代地缘战略中则遭遇现实主义批判——警示单方面去武力化无法换取永久和平，缺乏可信威慑与硬实力的和平主义幻觉反将加剧国际安全秩序的脆弱性。"
 type: concept
 domain: "comparative-education"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Paradigm]]"
 related_theories:
+  - "[[Path Dependence]]"
   - "[[Wight's Three Traditions of International Theory]]"
   - "[[Dependency Theory]]"
   - "[[Hegemony]]"
@@ -94,7 +95,7 @@ updated: 2026-10-09
 > *Our illustrious and learned CUVIER ... had rightly judged ... that only comparative anatomy and comparative geology could advance the sciences ... Similarly, only comparative civilization can speedily advance our present civilization, which still preserves, despite its brilliant and imposing wonders, the deep and afflicting traces of the old barbarism.*
 
 > [!citation-card] 卡普与扎米斯卡论单方面去武力化与和平主义的自满风险
-> 同盟体系若无法打破安全搭便车的路径依赖，单方面的去武力化非但不能换取永久和平，反而会向潜在侵略者释放极其危险的软弱信号。和平主义的诱惑在于它以廉价的道德自慰免除了人们权衡代价与进行艰难决断的痛苦。必须推动盟友从传统重型装备外包转向分布式算法蜂群与自主防务能力建设。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 41–44, 54)]]
+> 同盟体系若无法打破安全搭便车的[[Path Dependence|路径依赖]]，单方面的去武力化非但不能换取永久和平，反而会向潜在侵略者释放极其危险的软弱信号。和平主义的诱惑在于它以廉价的道德自慰免除了人们权衡代价与进行艰难决断的痛苦。必须推动盟友从传统重型装备外包转向分布式算法蜂群与自主防务能力建设。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 41–44, 54)]]
 >
 > *Unilateral disarmament does not secure perpetual peace; rather, it invites aggression by signaling weakness. Pacifism appeals because it offers moral self-[[Rightness|righteousness]] without the agony of difficult trade-offs.*
 

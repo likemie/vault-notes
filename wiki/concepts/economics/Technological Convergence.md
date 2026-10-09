@@ -9,10 +9,10 @@ aliases:
 summary: "技术经济学与工程教育的核心理论命题，由内森·罗森伯格提出，指在通用目的技术扩散过程中，原本相互割裂的工业部门与学科领域逐渐汇聚于共同的底层科学原理、制造工艺、工程技能体系与标准物理界面上，为高等工程教育课程标准化与跨行业工程人才流动奠定基础。"
 type: concept
 domain: "economics"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/technological-change
   - theme/engineering-education
@@ -35,6 +35,7 @@ related_concepts:
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Human Capital Theory]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Archival Research]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Technological Convergence
@@ -160,7 +161,7 @@ updated: 2026-10-07
 > > 针对全行业收敛于单一技术底层对长期技术演进路径的影响分析。
 > >
 > > - **规模经济与互补协同论** 强调技术收敛极大提升了全社会的研发与生产效率，使上游元器件企业能以海量规模平摊研发成本并驱动价格断崖式下降。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 180–181)]]
-> > - **技术锁定与路径依赖批评** 认为过早收敛于特定技术架构（如硅基微电子或特定封装形态）可能挤压其他前沿替代路径（如化合物半导体或磁逻辑）的探索空间，造成宏观[[Innovation Ecosystem|创新生态]]的技术锁定。
+> > - **[[Path Dependence|技术锁定]]与路径依赖批评** 认为过早收敛于特定技术架构（如硅基微电子或特定封装形态）可能挤压其他前沿替代路径（如化合物半导体或磁逻辑）的探索空间，造成宏观[[Innovation Ecosystem|创新生态]]的技术锁定。
 
 ---
 

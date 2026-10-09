@@ -9,7 +9,7 @@ summary: "美国法律学者与科技企业高管，耶鲁法学院法律博士�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,13 +29,14 @@ related_concepts:
   - "[[Commercial Off-The-Shelf]]"
   - "[[Bureaucracy]]"
   - "[[Hard Power]]"
-  - "[[Hard Belief]]"
+  - "[[Soft Belief]]"
   - "[[Epistemology]]"
   - "[[Engineering Mindset]]"
   - "[[Innovation Desert]]"
   - "[[Discourse]]"
   - "[[Chain of Evidence]]"
-related_theories: []
+related_theories:
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Five Whys]]"
   - "[[Correlational Research]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Nicholas Zamiska
@@ -85,7 +86,7 @@ updated: 2026-10-08
 > - **早期经历** 曾在《华尔街日报》（*The Wall Street Journal*）等主流媒体从事深度调查报道，积累了对复杂机构运转与公共政策的观察视野。
 > - **[[Palantir Technologies|帕兰提尔]]任职** 加入帕兰提尔科技公司，担任企业事务主管兼首席执行官办公室法律顾问，兼任防务政策基金会董事，深度参与重大防务采办法律抗争与国际政策战略。
 > - **2016** 深度参与帕兰提尔诉美国陆军案，依据《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]案》赢得历史性胜诉，迫使美国国防部向商用科技公司开放准入通道。
-> - **2025** 与[[Alexander Karp|亚历山大·卡普]]合著出版专著《[[Technological Republic|技术共和国]]：[[Hard Power|硬实力]]、[[Hard Belief|软信念]]与西方的未来》（*The Technological Republic: Hard Power, Soft Belief, and the Future of the West*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 297)]]
+> - **2025** 与[[Alexander Karp|亚历山大·卡普]]合著出版专著《[[Technological Republic|技术共和国]]：[[Hard Power|硬实力]]、[[Soft Belief|软信念]]与西方的未来》（*The Technological Republic: Hard Power, Soft Belief, and the Future of the West*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 297)]]
 
 ---
 
@@ -94,14 +95,14 @@ updated: 2026-10-08
 > [!thought-timeline] 思想发展
 > - **2000s–2010s — 法律规制与公共调查阶段** 结合耶鲁法学训练与调查报道经验，剖析大型科层官僚系统的运行弊端与制度寻租。
 >   - **代表成果** 针对政府监管、公共采购与行政法治的实证分析。
->   - **关键概念／方法** 行政法治、信息公开、制度路径依赖。
+>   - **关键概念／方法** 行政法治、信息公开、制度[[Path Dependence|路径依赖]]。
 >   - **阶段转向** 从法律学术观察转向科技企业的战略法务与前沿制度实践。
 > - **2016–2024 — 政府采购法治与商用准入破局阶段** 依托 [[Federal Acquisition Streamlining Act of 1994|FASA 1994]] 法律条款，系统挑战五角大楼定制采购垄断，重塑采办制度标准。
 >   - **代表成果** 推动 [[Palantir Technologies|Palantir]] v. United States Army 案胜诉判决落地；构建[[Commercial Off-The-Shelf|商用现成产品]]（COTS）法理框架。
 >   - **关键概念／方法** COTS 法定优先权、成本文书合规壁垒解构、市场竞争机制引入。
 >   - **阶段转向** 从单项司法诉讼上升为关于国家科技能力供给与行政治理现代化的全局思考。
 > - **2025 — [[Technological Republic|技术共和国]]制度设计阶段** 与卡普合著专著，系统提供融合组织社会学、采购法治与工程[[Epistemology|认识论]]的制度重构蓝图。
->   - **代表著作** *The [[Technological Republic]]: [[Hard Power]], [[Hard Belief|soft belief]], and the Future of the West*（2025）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025)]]
+>   - **代表著作** *The [[Technological Republic]]: [[Hard Power]], [[Soft Belief]], and the Future of the West*（2025）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025)]]
 >   - **关键概念／方法** [[Technological Republic|技术共和国]]、[[Engineering Mindset|工程思维]]、[[Innovation Desert|创新荒漠]]治理、[[Five Whys|五问法]]诊断。
 >   - **阶段转向** 形成跨越行政法、企业管理学与国家地缘安全的复合学术与政策[[Discourse|话语]]体系。
 
@@ -117,7 +118,7 @@ updated: 2026-10-08
 > - **破除成本加成合同的合谋壁垒** 彻底扭转传统军工巨头利用成千上万页军用规范构建的高额进入壁垒与无休止预算追加，依托司法诉讼与透明竞争引入前沿软件创新。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 149–155)]]
 > - **打通一线战士与研发工程师的直接回路** 消除中间官僚中介与采购委员会的层层阻隔，以一线实战效能与生命安全作为采购系统最终的合法性判准。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 142–143)]]
 
-> [!citation-card] 论政府采购法治与破除行政路径依赖
+> [!citation-card] 论政府采购法治与破除行政[[Path Dependence|路径依赖]]
 > 真正的行政法治要求政府不能把规章制度当成保护既得利益集团免受竞争的挡箭牌。将市场中经过实战检验的最优商业技术引入国防领域，不仅是法律的明文规定，更是对一线作战官兵生命的最高负责。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 154–155)]]
 >
 > *Administrative law must not serve as a shield for incumbent monopolies. Bringing the best commercially validated software to the defense sector is both a statutory command and an ethical imperative for protecting lives.*

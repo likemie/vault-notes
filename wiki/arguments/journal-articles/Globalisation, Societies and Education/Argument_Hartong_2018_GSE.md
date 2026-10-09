@@ -7,7 +7,7 @@ title: "Argument_Hartong_2018_GSE"
 argument_key: "Argument_Hartong_2018_GSE"
 argument_display_title: "Towards a topological re-assemblage of education policy? Observing the implementation of performance data infrastructures and ‘centers of calculation’ in Germany"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -48,6 +48,7 @@ related_concepts:
 related_theories:
   - "[[Actor-Network Theory]]"
   - "[[Governing at a Distance]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Case Study]]"
   - "[[Semi-structured Interview]]"
@@ -201,7 +202,7 @@ updated: 2026-09-18
 
 #### 1. 文化主权壁垒与 PISA 震荡危机倒逼治理范式从输入控制转向产出监测
 
-德国基础教育体系历史上长期受制于高度分散的制度路径依赖。
+德国基础教育体系历史上长期受制于高度分散的制度[[Path Dependence|路径依赖]]。
 
 > [!policy-context] 联邦制历史路径依赖与 PISA 震荡危机
 > - **文化主权在州原则（Kulturhoheit der Länder）** 依据《基本法》，德国 16 个联邦州对教育事务享有排他性宪制管辖权，联邦政府被严格禁止直接干预中小学事务；各州长期依赖详尽的教学大纲（Lehrpläne）与行政法规进行输入端控制，缺乏全国统一质量标准。（p. 139）

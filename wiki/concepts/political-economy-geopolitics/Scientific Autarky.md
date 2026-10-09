@@ -11,7 +11,7 @@ aliases:
 summary: "指国家在科研与技术发展中追求自主自足、减少对外部人力资本、资金与合作的依赖，并在技术主权与孤立化成本之间寻求平衡的政策与战略导向。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -28,12 +28,13 @@ related_arguments:
   - "[[Argument_Dezhina_2022_ECO]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Correlational Research]]"
 confidence: medium
 status: draft
 created: '2026-06-26'
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Scientific Autarky
@@ -79,7 +80,7 @@ updated: 2026-10-07
 > 俄罗斯的科学自给自足政策在某些行政管控的收缩力度上甚至快于外部制裁的发生，这种 situational 且不具预见性的行政指令（如限制外籍人员交流等）对学术国际化带来了严重的负面干扰 [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022, p. 49)]]。
 
 > [!claim] Pencea
-> 中国的科技自足发展路径依赖于极高强度的财政和研发投资，以支持在关键核心技术领域的突破，并逐步弱化对国际学界量化指标的依赖 [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022, pp. 37–38)]]。
+> 中国的科技自足发展[[Path Dependence|路径依赖]]于极高强度的财政和研发投资，以支持在关键核心技术领域的突破，并逐步弱化对国际学界量化指标的依赖 [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022, pp. 37–38)]]。
 
 > [!claim] Malakhov et al.
 > 伊兰（Iran）在长期硬性外部制裁下，通过针对性投资于国际会议学术交流与双向信息流，结合迅速增长的国内研发支出，实现了明显的科学产出增长 [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022, p. 38)]]。

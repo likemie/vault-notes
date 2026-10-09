@@ -13,7 +13,7 @@ subtype: program
 region: east-asia
 fact_region: "east-asia"
 fact_kind: "program"
-fact_related_count: 29
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Market Failure]]"
   - "[[Industry Affiliate Program]]"
 related_theories:
+  - "[[Path Dependence]]"
   - "[[Three Generations of Mission-Oriented Policy]]"
 related_methods:
   - "[[Archival Research]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # VLSI Project
@@ -193,7 +194,7 @@ updated: 2026-10-07
 > - **追赶阶段聚焦共性瓶颈的集中优势** 当产业处于追赶期且技术目标清晰时，集中式项目管理与联合实体实验室能最大化研发投资效率。
 > - **[[Precompetitive Research|前竞争研发]]与专有量产的严格隔离** 联盟必须设立清晰的制度边界，只共享通用工艺与设备标准，将产品设计与市场销售留给企业独立竞争。
 > - **制度环境制约联盟模式的可移植性** 在缺乏紧密产业网络与面临反垄断审查的环境下，研发联盟应优先考虑纵向供应链协同而非同业横向联合。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 751–754)]]
-> - **警惕大宗技术锁定对架构转型的抑制** 政策制定者需警惕单一产品制造工艺成功带来的路径依赖，及时布局支持去中心化、模块化与敏捷设计的创新基础设施。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 121–123)]]
+> - **警惕大宗[[Path Dependence|技术锁定]]对架构转型的抑制** 政策制定者需警惕单一产品制造工艺成功带来的路径依赖，及时布局支持去中心化、模块化与敏捷设计的创新基础设施。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 121–123)]]
 
 ---
 

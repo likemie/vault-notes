@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -26,7 +26,8 @@ related_concepts:
   - "[[Emergence]]"
   - "[[General Purpose Technology]]"
   - "[[Co-invention]]"
-related_theories: []
+related_theories:
+  - "[[Path Dependence]]"
 related_methods: []
 related_instruments: []
 related_persons: []
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-09
 ---
 
 # 1956 IBM Consent Decree
@@ -90,7 +91,7 @@ updated: 2026-10-03
 > - **1969 年软件解绑前奏** 1956 年同意令确立的反垄断监管框架，直接促成了 1969 年司法部第二次对 IBM 提起反垄断诉讼并迫使 IBM 宣布实行软硬件解绑，正式催生了商业化标准软件产业。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 179–180)]]
 
 > [!pathways]- 产业传导路径
-> - **打破锁定效应** 强制买断使企业客户能够自主选择第三方维护、升级及二手设备交易，削弱了 IBM 的客户锁定能力。
+> - **打破[[Path Dependence|锁定效应]]** 强制买断使企业客户能够自主选择第三方维护、升级及二手设备交易，削弱了 IBM 的客户锁定能力。
 > - **激活周边外设生态** 开放专利降低了第三方磁带机、打印机及内存等周边兼容设备制造商的技术壁垒。
 > - **孕育专业软件开发群体** 服务局的分离与设备购买模式的普及，使得大量用户企业与专业软件服务机构能够自主编写并沉淀程序代码。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 177–180)]]
 

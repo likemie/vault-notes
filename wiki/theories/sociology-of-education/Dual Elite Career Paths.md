@@ -5,7 +5,7 @@ aliases:
 summary: "解释后社会主义社会精英流动如何沿政治管理路径与专业技术路径分化展开的理论，用于分析教育、身份与职业机会的不同连接方式"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 10
+theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Credential Inflation]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Path Dependence]]"
 related_methods: []
 related_persons: []
 related_facts:
@@ -34,7 +35,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-08'
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 ## 核心主张
@@ -66,7 +67,7 @@ updated: 2026-10-07
 
 [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]第五章将二元精英路径理论纳入其[[Graduation Pathway Typology|毕业出路产生机制四分类]]模型（[[Graduation Pathway Typology]]）的分析，提出：
 
-- **体制通道的持续开放** 在自上而下的渐进式改革中，国家主导和原有体制的路径依赖决定了政府体制并未被削弱，而与市场体制并立或融通。大学本身作为一种政府管理下的事业单位，与体制资源有诸多衔接之处——选调生项目、[[Recommendation-Based Graduate Admission System|推免]]直研、留校任教、向政府机关和事业单位的定向输送等——为弱势背景学生中的[[Value Conformist Mode|价值归顺者]]提供了一条从学校到体制的"赞助性流动"通道（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引吕鹏和范晓光，2016; Walder, 1995; 刘欣，2021）
+- **体制通道的持续开放** 在自上而下的渐进式改革中，国家主导和原有体制的[[Path Dependence|路径依赖]]决定了政府体制并未被削弱，而与市场体制并立或融通。大学本身作为一种政府管理下的事业单位，与体制资源有诸多衔接之处——选调生项目、[[Recommendation-Based Graduate Admission System|推免]]直研、留校任教、向政府机关和事业单位的定向输送等——为弱势背景学生中的[[Value Conformist Mode|价值归顺者]]提供了一条从学校到体制的"赞助性流动"通道（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引吕鹏和范晓光，2016; Walder, 1995; 刘欣，2021）
 - **市场与体制在[[Discourse|话语]]层面的分化** 两校的就业取向差异——北方大学毕业生以公有制经济部门为主而南方大学以非公有制经济部门为主——反映了两条路径在精英大学层面的制度化分化。北方大学"绝不会在官方场合宣传"60 万年薪的外企，而倡导"入主流上大舞台"，但南方大学"自由而无用"文化则对体制和市场均持一定的批判距离([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 - **四类毕业生的路径选择**[[Self-Driven Mode|自主驱动者]]和[[Opportunist Mode|机会主义者]]多走市场路径（金融、咨询、互联网），薪酬最高；[[Value Conformist Mode|价值归顺者]]多走体制路径（选调生、航天研发、学术职业），薪酬不高但声望理想；[[Lost Mode|迷失无从者]]往往两条路径都未能有效进入，处于被动处境([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 

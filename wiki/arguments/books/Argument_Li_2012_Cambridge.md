@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 161
+argument_related_count: 162
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -137,6 +137,7 @@ related_theories:
   - "[[Cultural Models]]"
   - "[[Confucian Learning Tradition]]"
   - "[[Neo-Confucianism]]"
+  - "[[Path Dependence]]"
   - "[[Self-Determination Theory]]"
   - "[[Inquiry Cycle]]"
   - "[[Phenomenology]]"
@@ -1003,7 +1004,7 @@ Li 将西方知识传统分解为四个主题，每个主题不是孤立罗列�
 > - 儒家高度重视努力和吃苦——因为自我完善的路上没有捷径
 
 > [!warning] 这不是"二分法"
-> Li 在本章末明确指出她不是在制造"二分法"（dichotomies）。她的立场是：两种文化都拥有漫长的、自觉的、系统的关于学习的智识传统，只是它们的**起点**和**核心前提**不同，因此演化的方向不同。她引用梁漱溟的话来总结这种路径依赖："如果你循着西方的求知和学习之路，你不太可能走到儒家的终点。同样，如果你循着儒家路径，你也很难到达西方路径的目的地"(p.31)。
+> Li 在本章末明确指出她不是在制造"二分法"（dichotomies）。她的立场是：两种文化都拥有漫长的、自觉的、系统的关于学习的智识传统，只是它们的**起点**和**核心前提**不同，因此演化的方向不同。她引用梁漱溟的话来总结这种[[Path Dependence|路径依赖]]："如果你循着西方的求知和学习之路，你不太可能走到儒家的终点。同样，如果你循着儒家路径，你也很难到达西方路径的目的地"(p.31)。
 
 ---
 

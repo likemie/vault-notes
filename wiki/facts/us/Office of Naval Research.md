@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Document]]"
 related_theories:
   - "[[Social Contract of Science]]"
+  - "[[Path Dependence]]"
 related_persons:
   - "[[Peter Woods]]"
   - "[[Alfred Nobel]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Office of Naval Research
@@ -117,7 +118,7 @@ updated: 2026-10-08
 
 > [!finding-cards] 关键成效与历史辐射
 > - **多元分布式资助网络的制度样板** ONR 证明了联邦政府无需设立单一集权的“科学部”，通过任务导向部门对基础研究的分布式资助，既能保障军事实践的长远前瞻需求，又能维系大学科研的学术自治与生态弹性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
-> - **打破技术垄断锁定** 战后 ONR 与陆军、空军并行资助数十个相互竞争的计算机与电子学团队，使得[[Von Neumann Architecture|冯·诺依曼架构]]、旋风磁芯存储等多元方案得以自由竞争，避免了单一机构押注造成的路径依赖。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 172–173)]]
+> - **打破技术垄断锁定** 战后 ONR 与陆军、空军并行资助数十个相互竞争的计算机与电子学团队，使得[[Von Neumann Architecture|冯·诺依曼架构]]、旋风磁芯存储等多元方案得以自由竞争，避免了单一机构押注造成的[[Path Dependence|路径依赖]]。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 172–173)]]
 > - **为高风险前沿资助提供永恒的制度对照** 在当代学术界深受资助率走低与[[Academic Risk Aversion|学术避险主义]]困扰的背景下，ONR 早期对颠覆性假说的宽容庇护，成为科技政策研究反思同行评议局限性的经典历史案例。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 38, 44–45)]]
 
 > [!stat-cards]- 核心规模数据

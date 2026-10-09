@@ -44,6 +44,7 @@ related_theories:
   - "[[Triple Helix]]"
   - "[[Pool of Knowledge]]"
   - "[[Systems of Innovation]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
 related_instruments: []
@@ -96,9 +97,9 @@ title: "Argument_Atkinson_2008_TIS"
 argument_key: "Argument_Atkinson_2008_TIS"
 argument_display_title: "Research universities: Core of the US science and technology system"
 argument_kind: "journal-article"
-argument_related_count: 59
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 60
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Technology in Society"
 book_title: ""
@@ -294,7 +295,7 @@ issuing_organization: ""
 
 #### 2. 跨国制度移植受阻：西欧、东亚四国案例比较
 
-欧洲大陆与东亚各国在战后均试图模仿美国模式，但由于深层治理传统的路径依赖，改革面临着不同的结构性阻碍。（pp.42–43）
+欧洲大陆与东亚各国在战后均试图模仿美国模式，但由于深层治理传统的[[Path Dependence|路径依赖]]，改革面临着不同的结构性阻碍。（pp.42–43）
 
 > [!quad-grid] 欧亚四国高校科研体制与制度移植瓶颈案例分析
 > - **德国：独立科研学会与大学讲席制壁垒**

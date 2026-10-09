@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch10"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch10"
 argument_display_title: "“The Eck Swarm”"
 argument_kind: "book-chapter"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Organizational Culture Change]]"
 related_theories:
   - "[[Organizational Culture]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Accounts]]"
@@ -169,7 +170,7 @@ updated: 2026-10-08
 > - **物理参数精密编码** 爬行步长严格对应目标物理距离，摆尾轴线相对于太阳的偏角精准映射三维方位角（p. 117）。
 > - **去中心化公开提案** 任何完成侦察的个体均可在群体围观者面前跳舞展示，无准入门槛与行政审批（p. 118）。
 > - **基于质量的动态加权投票** 巢穴环境越优越，侦察蜂跳舞越兴奋且持续时间越长，从而吸引更多同伴前往复核并加入舞蹈。
-> - **环境反馈自适应纠错** 外部物理环境一旦发生改变（如下雨淹没），错误方案的支持者会自发停止跳舞并转向更优解，彻底避免路径依赖（p. 119）。
+> - **环境反馈自适应纠错** 外部物理环境一旦发生改变（如下雨淹没），错误方案的支持者会自发停止跳舞并转向更优解，彻底避免[[Path Dependence|路径依赖]]（p. 119）。
 
 > [!conclusion] 无中心决策的高效性与鲁棒性
 > 埃克蜂群的实证数据证明，在完全没有中心权威统一指令的情境下，分布式群体通过公开透明的提案机制与动态投票，不仅能够实现跨数万个体的复杂决策，而且在面对突发环境灾变时展现出极高的自我纠错敏捷度（p. 119）。

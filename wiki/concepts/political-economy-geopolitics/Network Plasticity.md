@@ -6,7 +6,7 @@ aliases:
 summary: "Gerald F. Davis（2009）与 Erica Fuchs（2010）提出的组织社会学与科技政策概念，指社会与组织网络的拓扑结构并非固化给定的外部约束，而是能够被具备资源与权威的能动行动者策略性修剪、重织与主动重构的动态属性。在前沿创新治理中，公共代理人依托网络可塑性打破学科与产业壁垒，引导国家战略技术轨道。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Construct]]"
 related_theories:
+  - "[[Path Dependence]]"
   - "[[Bounded Rationality]]"
   - "[[Technological Trajectories]]"
 related_methods:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-09
 ---
 
 # Network Plasticity
@@ -76,7 +77,7 @@ updated: 2026-10-04
 > [!contrast-table] 网络结构观[[Paradigm|范式]]辨析
 > | 比较维度 | 结构[[Determinism\|决定论]]网络观（Structural Determinism） | 嵌入性网络观（Granovetter, 1985） | 网络可塑性治理观（Davis, 2009; [[Argument_Fuchs_2010_RP\|Fuchs, 2010]]） |
 > |:---|:---|:---|:---|
-> | **网络拓扑[[Ontology\|本体论]]** | 刚性客观给定的外在约束结构 | 历史路径依赖形成的社会关系沉淀 | 具备高度弹性与可重构性的动态社会技术网络 |
+> | **网络拓扑[[Ontology\|本体论]]** | 刚性客观给定的外在约束结构 | 历史[[Path Dependence\|路径依赖]]形成的社会关系沉淀 | 具备高度弹性与可重构性的动态社会技术网络 |
 > | **行动者行为角色** | 被动适应者、受制于网络中心度 | 嵌入于既有关系信任中的[[Bounded Rationality\|有限理性]]人 | **[[Embedded Network Governance\|网络架构重塑]]者**、乐队指挥家与系统集成者 |
 > | **网络断裂（[[Structural Holes\|结构洞]]）** | 长期存在的客观分割与信息壁垒 | 跨群体沟通成本高昂的社会阻隔 | 可被公共代理人强制搭桥、闭合与消除的关键节点 |
 > | **政策与管理意涵** | 只能依据既有网络位置制定被动策略 | 依赖非正式人脉与历史声誉进行润滑 | **主动调动资金与技术背书重织网络，引导[[Technological Trajectories\|技术轨道]]** |
@@ -140,7 +141,7 @@ updated: 2026-10-04
 >
 > > [!axis] 网络可塑性的限度：能动重组 vs 历史网络惯性
 > > - **网络可塑性派** 强调关键资源与权威能够迅速打通跨界阻隔，打破既有壁垒。
-> > - **结构惯性与路径依赖派** 指出深层的利益冲突与历史怨恨难以仅凭政府资助而彻底消除；一旦外部资助停止，网络极易退化回原本的孤立状态。
+> > - **结构惯性与[[Path Dependence|路径依赖]]派** 指出深层的利益冲突与历史怨恨难以仅凭政府资助而彻底消除；一旦外部资助停止，网络极易退化回原本的孤立状态。
 
 ---
 

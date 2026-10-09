@@ -6,7 +6,7 @@ aliases:
 summary: "围绕知识生产、流动、控制和利用展开的地缘政治竞争形态，用于分析高等教育、科研和技术如何成为国际权力关系的一部分。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 85
+related_count: 86
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -78,6 +78,7 @@ related_theories:
   - "[[Governing at a Distance]]"
   - "[[Hegemony]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Coding in Qualitative Research]]"
@@ -386,7 +387,7 @@ updated: 2026-10-09
 > 2. **作为不平等合法化的工具** 排名"确认、巩固和再生产高等教育的声望和权力"（Marginson, 2009, p.600），将全球[[Knowledge Production\|知识生产]]中的资源差异和不均衡结构合法化为"自然的"等级秩序（[[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, pp.132, 134]]）
 > 3. **作为全球竞争驱动者** 排名驱动"高等教育中的市场式竞争"（Marginson, 2014, p.47），使高等教育从"以社会为主的机构转变为经济政策的基石并负有地缘政治责任"（Hazelkorn, 2018, p.16）
 > 4. **认识论层面的治理效应** 排名"惩罚"那些履行公共使命而非追求研究卓越的机构——肯塔基大学案例中，USNWR 因该大学招收大量低收入和少数族裔学生而系统性压低其排名，迫使其在排名目标和赠地使命之间做出选择（[[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, pp.125–126]]）
-> 5. **光环效应与路径依赖** "后来者、新兴大学和国家难以打入。排名对竞争中的大学并不'公平'——出发位置明显不对等"（Marginson, 2014, p.46, cit. in Boyadjieva, 2022, p.135）
+> 5. **光环效应与[[Path Dependence|路径依赖]]** "后来者、新兴大学和国家难以打入。排名对竞争中的大学并不'公平'——出发位置明显不对等"（Marginson, 2014, p.46, cit. in Boyadjieva, 2022, p.135）
 
 > [!citation-card]- Amsler & Bolsmann, 2012
 > 全球排名是"一个强大的象征性和经济权力机器……一种政治-意识形态技术，服务的不是学生或教师的教育需求，而是全球精英的利益"。

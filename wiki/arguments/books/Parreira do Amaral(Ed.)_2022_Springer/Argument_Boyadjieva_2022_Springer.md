@@ -9,7 +9,7 @@ title: "Argument_Boyadjieva_2022_Springer"
 argument_key: "Argument_Boyadjieva_2022_Springer"
 argument_display_title: "(Un)avoidable clash: Higher education at the altar of its missions and rankings"
 argument_kind: "book"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Literature Review]]"
 related_theories:
   - "[[Capability Approach]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Questionnaire]]"
@@ -306,7 +307,7 @@ Boyadjieva 公平地承认，一些排名系统已经意识到了上述问题并
 > > [!example]
 > > 中国、沙特阿拉伯、俄罗斯等国近年来投入巨额资金建设"世界一流大学"，很大一部分动力就来自全球排名所定义的国家竞争力叙事。一所大学不参与排名，不仅是自己"低调"，而且会被本国政府视为"缺乏国家荣誉感"。
 
-> **锁链 5：技术锁定——你不上榜也不会消失**
+> **锁链 5：[[Path Dependence|技术锁定]]——你不上榜也不会消失**
 >
 > 主要全球排名（ARWU、THE、QS）并不依赖高校主动提交数据——它们使用大型公开研究数据库（如 Web of Science、Scopus）和声誉调查。这意味着，即使某所大学决定"不理排名"，它仍然会在排名中出现——排名方从公开数据库中提取了它的论文和引用数据，自动计算了它的"分数"(p.138)。
 >

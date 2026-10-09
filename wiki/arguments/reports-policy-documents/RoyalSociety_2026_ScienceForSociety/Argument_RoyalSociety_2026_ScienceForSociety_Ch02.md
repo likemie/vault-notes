@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch02"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch02"
 argument_display_title: "Chapter two: Informal engagement with science"
 argument_kind: "book-chapter"
-argument_related_count: 39
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Praxis]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Participatory Research]]"
   - "[[Case Study]]"
@@ -192,7 +193,7 @@ updated: 2026-09-15
 > | **科学节与快闪科学展（Festivals & Pop-ups）** | **7%** | 逐步复苏 | 节日庆典狂欢氛围、街头快闪即兴互动、科技艺术跨界碰撞 | 极度依赖短期商业赞助与志愿劳动力，组织脆弱性高 | 设立区域科学节长效孵化基金，强化高校与地方社区的常设伙伴关系 |
 
 > [!warrant]- 信息渴求与治理边缘化深层结构性断层的四大制度根源
-> - **1. [[Deficit Model of Science Communication\|赤字模型]]残余与单向说教的路径依赖** 许多科研机构和政府决策部门仍潜意识地将公众视为缺乏科学知识的认知赤字群体，习惯于在方案敲定后进行单向宣传与公关解释，而非在研发初期开展平等对话。
+> - **1. [[Deficit Model of Science Communication\|赤字模型]]残余与单向说教的[[Path Dependence|路径依赖]]** 许多科研机构和政府决策部门仍潜意识地将公众视为缺乏科学知识的认知赤字群体，习惯于在方案敲定后进行单向宣传与公关解释，而非在研发初期开展平等对话。
 > - **2. 上游公众审议（Upstream Public Deliberation）的制度化机制缺失** 在人工智能伦理边界、基因编辑监管、绿色低碳基础设施选址等重大前沿科技决策中，缺乏常设性公民陪审团（Citizens' Juries）或公众协商程序，公众诉求无法实质性进入政策制定管道。
 > - **3. [[Science Capital\|科学资本]]阶层惯习与自选受众壁垒（Self-Selecting Audiences）** 收费特展的高昂门槛与科学活动的学术精英化表达，导致校外科学参与往往沦为高[[Science Capital\|科学资本]]家庭的自选特权（Dawson, 2019），中下阶层与少数族裔群体在心理上形成科学与我们无关的文化疏离感。
 > - **4. 政府部门管辖割裂与非正式部门的资金贫困** 科学探索中心与校外参与网络处于英国科学、创新与技术部（Department for Science, Innovation and Technology, DSIT）、英国教育部（Department for Education, DfE）、英国文化、媒体与体育部（Department for Culture, Media and Sport, DCMS）与地方政府的四不管地带，导致这套支撑全民终身学习的关键社会基础设施长期缺乏法定财政兜底。（p. 48）

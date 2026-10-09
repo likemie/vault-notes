@@ -7,7 +7,7 @@ title: "Argument_Fan_Song_Zhai_2024_RSEE"
 argument_key: "Argument_Fan_Song_Zhai_2024_RSEE"
 argument_display_title: "Education, science and technology, and talent integrated development: Evidence from China"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Document]]"
 related_theories:
   - "[[Coupling Coordination Theory]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Coupling Coordination Model]]"
   - "[[LISA Time Path]]"
@@ -332,7 +333,7 @@ updated: 2026-09-16
 >
 > 空间凝聚度 $SC = (Type0 + Type3A) / \text{全部} = 0.849$，时空流动度 $SF = (Type1 + Type2) / \text{全部} = 0.160$。相对移动率 $p = 0.089$，远小于 $1$，表明绝大多数省份在空间关联类型上没有任何转移。
 >
-> **从数据到结论** $80.2\%$ 的Type0占比意味着给定一个省份某一年的空间关联类型，下一年的类型极大概率相同。$SC = 0.849$ 的凝聚度和 $p = 0.089$ 的相对移动率共同指向一个结论：EST发展的空间格局具有**高度的路径依赖和锁定特征**——优势省份持续优势，劣势省份持续劣势。这种锁定不是偶然的，而是资源自我强化配置的必然结果。
+> **从数据到结论** $80.2\%$ 的Type0占比意味着给定一个省份某一年的空间关联类型，下一年的类型极大概率相同。$SC = 0.849$ 的凝聚度和 $p = 0.089$ 的相对移动率共同指向一个结论：EST发展的空间格局具有**高度的[[Path Dependence|路径依赖]]和锁定特征**——优势省份持续优势，劣势省份持续劣势。这种锁定不是偶然的，而是资源自我强化配置的必然结果。
 
 > [!chain-link] 分系统对比：哪个子系统锁定最强？
 > 将EST整体拆分为教育、科技、人才三个子系统分别计算转移矩阵（p.73, Table 3）：
@@ -362,7 +363,7 @@ updated: 2026-09-16
 
 > [!finding-cards] 核心发现
 > 1. **EST整体上升，教育领先** 东部教育增127%、科技增62%、人才增76%。中部人才增57%，西部科技增71%
-> 2. **东中西递减格局稳定** 高等级省从2个增至7个，低等级从24个降至10个。LISA和[[LISA Spatiotemporal Transition\|空间转移矩阵]]确认空间锁定效应
+> 2. **东中西递减格局稳定** 高等级省从2个增至7个，低等级从24个降至10个。LISA和[[LISA Spatiotemporal Transition\|空间转移矩阵]]确认空间[[Path Dependence|锁定效应]]
 > 3. **耦合度需双指标判断** 低水平高耦合是已知陷阱，必须结合协调度D综合评估
 > 4. **描述性有余[[Causality\|因果性]]不足** 准确描述了格局但未能解释成因，制约政策指导价值
 

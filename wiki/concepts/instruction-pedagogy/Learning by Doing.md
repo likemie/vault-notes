@@ -8,7 +8,7 @@ aliases:
 summary: "个体、组织与公共治理系统通过实际行动、工程实践、政策试错与自适应排障获取并内化深层知识的认识与生产率演进机制。在杜威进步主义教育中指通过真实探究建构批判性思维的核心教学法；在产业组织与创新经济学中指随累积产量爬坡带来的动态良率提升与单位成本下降（学习曲线效应）；在现代产业战略中指通过执行中的自适应规制调整、审批改革与反馈纠偏实现政策实效的关键过程准则。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Active Learning]]"
 related_theories:
+  - "[[Path Dependence]]"
   - "[[Systems of Innovation]]"
 related_methods:
   - "[[Statistical Process Control]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Learning by Doing
@@ -144,7 +145,7 @@ updated: 2026-10-07
 ### 命题二　制造良率爬坡的组织化干中学构成了高科技先发优势与产业政策补贴的核心经济学辩护
 
 > [!concept-lens] 产业经济学与动态规模报酬递增
-> 阐明高科技制造业为何具有强烈的路径依赖，以及政府通过公共补贴分担早期生产规模积累风险的正当性。
+> 阐明高科技制造业为何具有强烈的[[Path Dependence|路径依赖]]，以及政府通过公共补贴分担早期生产规模积累风险的正当性。
 
 > [!claim] [[Argument_Bown_2024_JEP|Bown & Wang (2024)]]
 > **半导体良率学习曲线与产业政策的效率假说** 查德·博恩（Chad P. Bown）与汪智（Zhi Wang）指出，芯片制造不仅要求百亿美元级的沉没研发支出，更具有极度陡峭的干中学学习曲线。新一代尖端制程在刚投产时良率往往极低（甚至不足 20%），企业唯有通过连续大规模生产才能暴露出微观工艺缺陷并完成良率爬坡。这一机制意味着先发扩大产能的企业能以最快速度降低平均成本并挤垮对手。由于早期高缺陷率造成的亏损构成了巨大的私人投资壁垒，政府动用直接采购或建厂补贴支持本土企业承担早期规模化风险，在经济学上具备纠正[[Market Failure|市场失灵]]、培育动态比较优势的理论正当性。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81, 102)]]

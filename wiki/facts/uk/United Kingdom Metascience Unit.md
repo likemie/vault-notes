@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -26,9 +26,11 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Reliability]]"
   - "[[Emergence]]"
+  - "[[Wisdom of Crowds]]"
   - "[[Paradigm]]"
   - "[[Portfolio-Based Research Funding]]"
-related_theories: []
+related_theories:
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Random Assignment]]"
   - "[[Mechanism Experiments]]"
@@ -49,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # United Kingdom Metascience Unit
@@ -59,7 +61,7 @@ updated: 2026-10-07
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **英国[[Metascience|元科学]]单元（United Kingdom Metascience Unit）** 是英国科学、创新与技术部（Department for Science, Innovation and Technology, DSIT）与英国国家科研与创新署（UK Research and Innovation, UKRI）于 2024 年联合设立的全球首个国家级专门[[Metascience|元科学]]实验与评估机构。该机构的核心使命是将[[Scientific Method|科学方法]]反身应用于科学体制本身——通过对照实验、计量分析与数据公开，实证检验科研基金配置、同行评议与项目评审机制的实际效能，消除资助体系内部的摩擦与偏误。在白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）《科学：新黄金时代》报告中，该单元被确立为现代国家克服科研机构路径依赖、设立独立元科学评估中枢的全球制度范本。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 9, 31–32)]]
+> **英国[[Metascience|元科学]]单元（United Kingdom Metascience Unit）** 是英国科学、创新与技术部（Department for Science, Innovation and Technology, DSIT）与英国国家科研与创新署（UK Research and Innovation, UKRI）于 2024 年联合设立的全球首个国家级专门[[Metascience|元科学]]实验与评估机构。该机构的核心使命是将[[Scientific Method|科学方法]]反身应用于科学体制本身——通过对照实验、计量分析与数据公开，实证检验科研基金配置、同行评议与项目评审机制的实际效能，消除资助体系内部的摩擦与偏误。在白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）《科学：新黄金时代》报告中，该单元被确立为现代国家克服科研机构[[Path Dependence|路径依赖]]、设立独立元科学评估中枢的全球制度范本。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 9, 31–32)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 设立主体** 2024 年在英国政府科技体制改革框架下创设，由 DSIT 与 UKRI 共同管理与注资。
@@ -95,7 +97,7 @@ updated: 2026-10-07
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 首年三大核心实验产出
-> - **分布式同行评议（Distributed Peer Review, DPR）** 突破传统少数资深学者组成的封闭评审小组模式，将评审权分散至更广泛的申请人与同行网络中，实证检验群体智慧在稀释门阀把关偏误与降低行政成本上的效能。
+> - **分布式同行评议（Distributed Peer Review, DPR）** 突破传统少数资深学者组成的封闭评审小组模式，将评审权分散至更广泛的申请人与同行网络中，实证检验[[Wisdom of Crowds|群体智慧]]在稀释门阀把关偏误与降低行政成本上的效能。
 > - **部分[[Random Assignment|随机化]]抽签资助（Partial Randomization / Lotteries）** 在评分达到基础质量门槛（Fundable Threshold）的候选提案池中，引入部分随机抽签决定资助对象，以科学实验检验抽签机制是否能有效克服评审中的微弱方差噪音与对高风险非共识创新的系统性歧视。
 > - **评审判断一致性与[[Reliability|信度]]审计（[[Inter-Rater Reliability]] Testing）** 运用统计计量方法对不同评审专家在相同提案上的打分进行双盲交叉比对，量化揭示传统同行评议在评价颠覆性项目时极高的离散度与不稳定性，为推行“一票赞成金券制”提供量化依据。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 32)]]
 

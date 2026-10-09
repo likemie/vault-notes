@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -52,6 +52,7 @@ related_facts:
   - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[Department of Energy]]"
   - "[[Infrastructure Investment and Jobs Act]]"
+  - "[[Regional Technology and Innovation Hubs]]"
   - "[[National Semiconductor Technology Center]]"
 related_arguments:
   - "[[Argument_Reynolds_2024_JICT]]"
@@ -93,7 +94,7 @@ updated: 2026-10-09
 > [!citation-card] 区域创新集聚与技能生态构建
 > 新产业立法依托一系列备受瞩目的竞争性资助项目推动区域专业化与全球竞争力，且强制要求构建更具包容性的区域联合体（例如基础设施法案的氢能枢纽、[[CHIPS and Science Act|芯片法案]]的半导体区域集群、商务部区域技术与[[Innovation Hub|创新中心]]，以及国家科学基金会区域创新引擎资助）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 6)]]
 >
-> *The new legislation leans into driving regional specialization and global [[Competitiveness]] through a number of high-profile competitive grant programs that also require more inclusive regional coalitions (e.g., [[Infrastructure Investment and Jobs Act|IIJA]] Hydrogen Hubs, CHIPS Act semiconductor regional clusters as well as Regional Technology and Innovation Hubs and [[National Science Foundation]] Engine grants).*
+> *The new legislation leans into driving regional specialization and global [[Competitiveness]] through a number of high-profile competitive grant programs that also require more inclusive regional coalitions (e.g., [[Infrastructure Investment and Jobs Act|IIJA]] Hydrogen Hubs, CHIPS Act semiconductor regional clusters as well as [[Regional Technology and Innovation Hubs]] and [[National Science Foundation]] Engine grants).*
 
 > [!logic-map]- 区域创新引擎产教协同网络
 > ```mermaid
@@ -132,7 +133,7 @@ updated: 2026-10-09
 
 > [!pathways]- 实施路径与管理
 > - **纵向传导与支持** NSF 通过设立专门的项目总监（Engine Program Directors）深度介入引擎治理，提供成果转化与跨区域资源对接支持。
-> - **横向跨部门协同** 与美国商务部经济发展署（EDA）的“区域技术与[[Innovation Hub|创新中心]]”（Tech Hubs）及能源部清洁能源枢纽建立数据共享与资助互补机制。
+> - **横向跨部门协同** 与美国商务部经济发展署（EDA）的“区域技术与[[Innovation Hub|创新中心]]”（[[Regional Technology and Innovation Hubs|Tech Hubs]]）及能源部清洁能源枢纽建立数据共享与资助互补机制。
 > - **动态反馈与纠偏** 实行每三年一次的严格阶段性综合评估，若引擎未达预期[[Research Translation|技术转化]]或就业带动指标，NSF 保留缩减预算或提前终止资助的裁量权。
 
 ---

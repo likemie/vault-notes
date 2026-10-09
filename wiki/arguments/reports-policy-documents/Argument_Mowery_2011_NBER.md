@@ -36,6 +36,7 @@ related_concepts:
   - "[[Greenfield vs Brownfield Innovation]]"
   - "[[Growth]]"
 related_theories:
+  - "[[Path Dependence]]"
   - "[[Systems of Innovation]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
@@ -70,7 +71,7 @@ title: "Argument_Mowery_2011_NBER"
 argument_key: "Argument_Mowery_2011_NBER"
 argument_display_title: "Federal policy and the development of semiconductors, computer hardware, and computer software: A policy model for climate change R&D? In R"
 argument_kind: "report"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dcfce7"
@@ -248,7 +249,7 @@ issuing_organization: "National Bureau of Economic Research"
 > **图表解读** 展现了二战刚结束的十年间，美国陆海空三军与民政科研机构以多元去中心化方式并行资助了至少 19 项由高校和新创企业研发的计算机项目，确立了 [[Von Neumann Architecture|冯·诺依曼架构]] 与存储程序通用计算机的技术基石。（pp.172–173）
 
 > [!feature] 战后美国大学早期计算探索的制度特征
-> - **多元去中心化资助渠道** 陆海空三军与民政科研机构并行支持不同技术路线（[[Von Neumann Architecture|冯·诺依曼架构]]、旋风工程等），有效规避了单一机构押注特定方案的技术锁定风险。（pp.171–173）
+> - **多元去中心化资助渠道** 陆海空三军与民政科研机构并行支持不同技术路线（[[Von Neumann Architecture|冯·诺依曼架构]]、旋风工程等），有效规避了单一机构押注特定方案的[[Path Dependence|技术锁定]]风险。（pp.171–173）
 > - **非专有与学术公开原则** 资助协议普遍坚持研究成果公开出版与广泛扩散，打破了军事保密壁垒，奠定了通用计算的基础知识公地。（pp.173–174）
 
 #### 2. 国防战略工程与 [[1956 IBM Consent Decree|1956年国际商业机器公司反垄断同意令]]

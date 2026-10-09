@@ -11,7 +11,7 @@ subtype: program
 region: australia
 fact_region: "australia"
 fact_kind: "program"
-fact_related_count: 41
+fact_related_count: 42
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Rationalism in International Relations]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Questionnaire]]"
@@ -73,7 +74,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-28
+updated: 2026-10-09
 ---
 
 # Monash Q Project
@@ -173,7 +174,7 @@ updated: 2026-09-28
 > > 批判学者指出，莫纳什 Q 项目与 [[Quality Use of Research Evidence Framework\|QURE]] 框架虽强调从证据生产质量转向使用质量，但其背后仍带有功能主义与理性主义假设，预设只要通过专业学习、榜样领导与工时排程等使能条件，证据就能顺畅转化为优质实践；然而专长社会学与比较教育研究表明，[[Educational Brokerage Agency\|证据中介机构]]所代表的[[Interactional Expertise\|交互型专长]]（技术客观性）与一线教师扎根现场的[[Contributory Expertise\|贡献型专长]]（具身实践经验）之间存在深刻的[[Epistemological Break\|认识论断裂]]，且在高利害市场化治理体制下，[[Research Utilization\|证据使用]]极易异化为迎合外部问责的表演性合规，而非自发的[[Reflective Thinking\|反思性探究]]。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 4–5, 21–23)]]
 
 > [!lessons] 经验教训与启示
-> - **从供给驱动向需求牵引全面转型** 改变以往单纯资助成果生产与单向数据库推送的路径依赖，必须将增量资源投向一线教师的[[Absorptive Capacity\|吸收能力]]与学校组织使能条件建设。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 193–195)]]
+> - **从供给驱动向需求牵引全面转型** 改变以往单纯资助成果生产与单向数据库推送的[[Path Dependence|路径依赖]]，必须将增量资源投向一线教师的[[Absorptive Capacity\|吸收能力]]与学校组织使能条件建设。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 193–195)]]
 > - **确立放慢节奏以换取长远加速的教研伦理** 证据的审慎研读与课堂试验需要充足工时保障，必须坚决削减行政繁冗负担并在排程中刚性划拨专有研讨时间。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 190, 192–193)]]
 
 ---

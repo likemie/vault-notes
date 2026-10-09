@@ -8,7 +8,7 @@ aliases:
 summary: "指主权国家在地缘政治博弈加剧背景下，将半导体、人工智能等战略性关键技术、基础科研与产业链控制力上升为关乎国家生存与主权安全的核心议程；通过出口管制、投资审查、定向产业立法与有组织科研动员，将大学等创新主体深度嵌入国家安全体系。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -49,6 +49,7 @@ related_persons:
   - "[[Michael Kratsios]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
+  - "[[Albany NanoTech Complex]]"
   - "[[Manhattan Project]]"
   - "[[CHIPS and Science Act]]"
   - "[[Inflation Reduction Act]]"
@@ -119,7 +120,7 @@ updated: 2026-10-09
 > - **创新主体制度性嵌入** 将[[Research Universities|研究型大学]]、国家实验室与领军企业编织进国家主导的协同创新网络，要求学术研究直接对接国家战略使命。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 21–24)]]
 > - **学术流动排他化** 收紧国际学者签证、强化意识形态审查与跨国学术合作合规限制，以防御性逻辑阻隔知识外流。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 25–26)]]
 > - **契约关系重构** 推动二战后由[[Science, The Endless Frontier 1945|布什报告]]确立的自由探索型科学契约，向国家意志主导的技术导向型社会契约转变。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 20–22)]]
-> - **中试共置与闭环制造** 依托国家级 300 毫米晶圆中试线与共置洁净室（Albany NanoTech, MIT.nano），打破设计制造割裂，将默会[[Process Knowledge|过程知识]]重新锚定在本土工业基座之上。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 22–24)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 22–26)]]
+> - **中试共置与闭环制造** 依托国家级 300 毫米晶圆中试线与共置洁净室（[[Albany NanoTech Complex|Albany NanoTech]], MIT.nano），打破设计制造割裂，将默会[[Process Knowledge|过程知识]]重新锚定在本土工业基座之上。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 22–24)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 22–26)]]
 
 > [!logic-map]- 技术安全化的运行逻辑
 > ```mermaid

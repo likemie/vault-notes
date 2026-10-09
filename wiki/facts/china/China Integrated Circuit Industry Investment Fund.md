@@ -12,7 +12,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[Market Failure]]"
 related_theories:
+  - "[[Path Dependence]]"
   - "[[Three Generations of Mission-Oriented Policy]]"
 related_methods: []
 related_instruments: []
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 # China Integrated Circuit Industry Investment Fund
@@ -141,7 +142,7 @@ updated: 2026-10-05
 > > 依靠国家大基金集中配置巨额资本是否必然带来低效投资与监管寻租？
 > >
 > > - **批评与制度审视** 巨额资金注入催生了一批缺乏核心技术储备的造芯企业与重复建设烂尾项目，引发了严重的资本浪费与后续反腐风暴。
-> > - **发展型国家辩护** 面对尖端半导体百亿美元级的沉没资本与跨国技术壁垒，私营风投资本无法承担长达数十年的战略亏损，主权资本集中托底是打破外资技术锁定与实现产业从无到有的唯一可行途径。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 93–94)]]
+> > - **发展型国家辩护** 面对尖端半导体百亿美元级的沉没资本与跨国技术壁垒，私营风投资本无法承担长达数十年的战略亏损，主权资本集中托底是打破外资[[Path Dependence|技术锁定]]与实现产业从无到有的唯一可行途径。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 93–94)]]
 >
 > > [!axis] 全面自主可控诉求与[[Vertical Disintegration|纵向离散]]跨国网络的不兼容性
 > > 在高度细分的全球半导体网络中，依靠单一国家资本实现全产业链自给自足是否符合经济规律？

@@ -74,6 +74,7 @@ related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Dependency Theory]]"
   - "[[Human Capital Theory]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Correlational Research]]"
@@ -98,7 +99,7 @@ title: "Argument_Yu_Xie_2025_JHE"
 argument_key: "Argument_Yu_Xie_2025_JHE"
 argument_display_title: "空间、权力与高等教育：地缘政治视角下的高等教育研究"
 argument_kind: "journal-article"
-argument_related_count: 64
+argument_related_count: 65
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -354,7 +355,7 @@ journal: "高等教育研究"
 
 > [!evidence-grid] 挑战既有认知秩序的制度创新
 > - **中国的破唯政策** 中国近年来出台多项政策，提出破除唯SCI或SSCI的导向，强调科研质量与社会价值导向，鼓励人文社会科学聚焦国家发展中的现实问题。许多高校也开始将中文成果纳入核心考核指标，以在全球性象征体系中为本土语言谋求合法性地位（p.9）。
-> - **哈萨克斯坦纳扎尔巴耶夫大学** 哈萨克斯坦创办了具有自主治理结构的新型高校（纳扎尔巴耶夫大学），试图通过制度创新提升本国高校在全球知识体系分层结构中的位置，减弱对欧美研究模式的路径依赖。类似的改革也出现在沙特等国。
+> - **哈萨克斯坦纳扎尔巴耶夫大学** 哈萨克斯坦创办了具有自主治理结构的新型高校（纳扎尔巴耶夫大学），试图通过制度创新提升本国高校在全球知识体系分层结构中的位置，减弱对欧美研究模式的[[Path Dependence|路径依赖]]。类似的改革也出现在沙特等国。
 > - **区域学术出版平台** 以拉丁美洲、非洲和南亚为代表的多个地区性学术社群，开始积极推动建立本土主导的学术出版平台。这些平台强调使用本土语言、以区域问题为研究导向，并重视研究方法论的多样性，意图打破以英语、引用率和主流数据库为核心的知识流通路径。
 > - **去殖民视角的认识论反思** 米尼奥洛（W. Mignolo）主张以去殖民视角反转我思故我在，提出我在我思之处（I am where I think），指出知识并非无处不在的普遍理性，而是扎根于具体的空间、语境与身体经验之中的位置性实践。不少国家开始主张以南方社会的经验为基础重建社会科学知识体系，强调理论必须立足特定历史条件、地方实践与文化，反对北方知识所声称的普遍性（pp.8–9）。
 

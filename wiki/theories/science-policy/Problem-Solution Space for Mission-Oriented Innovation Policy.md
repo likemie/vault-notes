@@ -10,7 +10,7 @@ aliases:
 summary: "基于争议性、复杂性与不确定性解构社会问题与创新方案，划分二维象限并阐释三条收敛治理路径的政策分析框架"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 27
+theory_related_count: 28
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -51,11 +51,12 @@ related_facts:
 related_arguments:
   - "[[Argument_Wanzenbock_2020_SPP]]"
 related_theories:
+  - "[[Path Dependence]]"
   - "[[Systems of Innovation]]"
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Problem-Solution Space for Mission-Oriented Innovation Policy
@@ -79,7 +80,7 @@ updated: 2026-10-07
 
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 伊里斯·万岑伯克（Iris Wanzenböck）、约里·韦瑟林（Joeri H. Wesseling）、科恩·弗伦肯（Koen Frenken）、马尔科·赫克特（Marko P. Hekkert）与 K. 马蒂亚斯·韦伯（K. Matthias Weber）于 2020 年在期刊 *Science and Public Policy* 发表论文 *A framework for [[Mission-Oriented Innovation Policy]]: Alternative pathways through the problem–solution space*，首次系统构建该理论模型。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 474–489)]]
-> - **原初问题** 各国创新政策在转向气候变化、能源转型和公共卫生等[[Grand Challenges|重大挑战]]时，普遍遭遇公众抵触、社会合法性缺失与技术锁定等制度瓶颈，学界缺乏能够诊断挑战属性并指导政策工具组合选择的系统[[Analytic Framework|分析框架]]。
+> - **原初问题** 各国创新政策在转向气候变化、能源转型和公共卫生等[[Grand Challenges|重大挑战]]时，普遍遭遇公众抵触、社会合法性缺失与[[Path Dependence|技术锁定]]等制度瓶颈，学界缺乏能够诊断挑战属性并指导政策工具组合选择的系统[[Analytic Framework|分析框架]]。
 > - **理论资源与材料** 吸收了 Turnpenny et al.（2009）关于[[Wicked Problem|棘手问题]]三维度（争议性、复杂性、不确定性）的提炼，结合[[Systems of Innovation|创新系统]]中的[[Transformative System Failures|变革性系统失灵]]概念，并运用英国闭路电视监控（Closed-Circuit Television, CCTV）、公共场所禁烟规制以及荷兰陆上风电治理等案例进行比较论证。
 > - **形成路径** 将公共问题端与创新解决方案端分别做发散与收敛的二分处理，构建 $2 \times 2$ 象限空间，并在静态分类基础上引入时间演化与治理干预向量，推导出三条动态收敛路径。
 
@@ -168,7 +169,7 @@ updated: 2026-10-07
 > **应用实例** 荷兰陆上风电政策通过建立由政府、能源企业、地方社区与环保组织共同参与的国家能源协议（Energieakkoord 2013），在协商风机选址与噪音补偿标准的同时动态调整国家可再生能源发展目标，典型体现了混合演化路径的治理机制。
 
 > [!theory-proposition] 命题三｜使命政策的实施有效性依赖于以小胜累积为支撑的[[Reflexive Governance|反思性治理]]与动态纠偏机制
-> **解释** 在高度不确定与动态演化的社会转型中，过早锁定单一技术路线极易引发强烈的社会反弹与技术锁定风险。过程导向的使命政策要求在治理网络中嵌入持续监测、跨部门反思与学习机制，允许政策边界根据利益相关方的动态反馈进行小步微调，通过一系列小胜（Small Wins）的累积逐步促成系统性的社会合法性与技术突破。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 485–487)]]
+> **解释** 在高度不确定与动态演化的社会转型中，过早锁定单一技术路线极易引发强烈的社会反弹与[[Path Dependence|技术锁定]]风险。过程导向的使命政策要求在治理网络中嵌入持续监测、跨部门反思与学习机制，允许政策边界根据利益相关方的动态反馈进行小步微调，通过一系列小胜（Small Wins）的累积逐步促成系统性的社会合法性与技术突破。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 485–487)]]
 >
 > **应用实例** 英国闭路电视监控（CCTV）政策在早期大规模铺设后遭遇犯罪控制效果不显的实证质疑，决策部门迅速进行政策反思与功能重构，将其定位调整为威慑街头反社会行为与缓解公众恐惧感，并在社区层面达成了治理对齐。
 
@@ -183,7 +184,7 @@ updated: 2026-10-07
 > - **[[Research Question|研究问题]]** 某项国家或区域重大使命战略在推进过程中为何受阻？其所采用的政策工具组合是否与挑战在空间中的初始坐标及演化路径相适配？
 > - **分析对象与单位** 国家重大战略工程、跨部门创新专项、区域低碳试验区或重大科技基础设施的政策治理过程。
 > - **需要的材料** 政策文本与规划纲要、议会审议记录、民意调查数据、科技评估报告、行业准入法规、利益相关方访谈与多方协商协议。
-> - **解释目标** 精准诊断政策阻力究竟源于问题端价值伦理撕裂还是方案端技术锁定，识别当前路径偏离并提出工具组合重构策略。
+> - **解释目标** 精准诊断政策阻力究竟源于问题端价值伦理撕裂还是方案端[[Path Dependence|技术锁定]]，识别当前路径偏离并提出工具组合重构策略。
 
 ### 分层维度与末级指标体系
 
@@ -288,7 +289,7 @@ updated: 2026-10-07
 > > [!axis] 方案导向路径的技术[[Determinism|决定论]]风险与民主合法性赤字
 > > 批判学者认为，方案导向路径（先推技术后找问题）容易被既得利益产业集团俘获，将技术可行性强加为公共需求，从而削弱公众在重大社会议程中的民主参与权。
 > >
-> > - **[[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020, pp. 485–486)]]** 强调方案导向路径在现实中确实面临最高的合法性风险，因此更需要嵌入[[Reflexivity|反思性]]评估与[[Public Value|公共价值]]对齐机制，防止陷入技术锁定。
+> > - **[[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020, pp. 485–486)]]** 强调方案导向路径在现实中确实面临最高的合法性风险，因此更需要嵌入[[Reflexivity|反思性]]评估与[[Public Value|公共价值]]对齐机制，防止陷入[[Path Dependence|技术锁定]]。
 
 ---
 

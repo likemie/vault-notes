@@ -9,7 +9,7 @@ aliases:
 summary: "指创新活动不仅具有研发投入与扩散速率等数量维度，更具有明确的规范性社会目标与价值取向；公共政策的核心使命在于通过战略引导、规制重构、需求侧牵引与市场塑造，主动克服方向性失灵并引领技术轨道朝向绿色、包容、安全与可持续转型。"
 type: concept
 domain: "science-policy"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -45,6 +45,7 @@ related_concepts:
 related_theories:
   - "[[Technological Trajectories]]"
   - "[[Systems of Innovation]]"
+  - "[[Path Dependence]]"
   - "[[Evolutionary Economics]]"
   - "[[Pasteur's Quadrant]]"
 related_methods:
@@ -117,7 +118,7 @@ updated: 2026-10-09
 > [!feature] 创新方向性的核心构成要素
 > - **规范性议程设定（Normative Agenda Setting）** 超越技术中立假说，由国家、学术界、产业界与公民社会共同协商确定紧迫的战略发展优先序与社会挑战清单。
 > - **公共投资与需求端牵引（Public Investment & Demand-Side Pull）** 通过战略性公共采购、前沿[[Big Science|大科学]]资助与规制标准，为特定[[Technological Trajectories|技术轨道]]创造高确定性市场预期。
-> - **克服方向性失灵的能力机制（Capabilities against Orientation Failure）** 建立跨部门政策协调与敏捷反思机制，防止[[Systems of Innovation|创新系统]]因路径依赖而锁死在不可持续或存在外部断供风险的低效路径中。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]
+> - **克服方向性失灵的能力机制（Capabilities against Orientation Failure）** 建立跨部门政策协调与敏捷反思机制，防止[[Systems of Innovation|创新系统]]因[[Path Dependence|路径依赖]]而锁死在不可持续或存在外部断供风险的低效路径中。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]
 > - **国家战略使命与安全化护栏（Strategic Mission & Security Guardrails）** 在地缘政治竞争下将方向性拓展至国家安全与主权供应链，通过专项立法（如《[[CHIPS and Science Act|芯片法案]]》）与安全审查引导科研攻关。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–25)]]
 > - **实体中试与制造[[Process Knowledge|过程知识]]闭环（Pilot Infrastructure & Manufacturing Closure）** 将创新方向从虚化的论文专利指标，实质性导向制造测试床与产线调试，确保默会过程知识在本土形成闭环。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 24–26)]]
 
@@ -218,7 +219,7 @@ updated: 2026-10-09
 > > - **[[Securitization of Technology|技术安全化]]推动者（[[Argument_Zhuo_2026_ICE|卓泽林, 2026]]）** 强调在现实地缘博弈下，失去底层关键技术自主权将直接威胁国家生存，方向性必须优先确保关键供应链的安全与抗脆弱性。
 
 > [!warning] 适用局限与警示
-> - **方向锁定与路径依赖风险** 一旦国家将巨额公共资本锁定在特定技术方向上，若缺乏敏捷的[[Reflexivity|反思性]]纠偏机制，可能造成巨大的沉没成本损失。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 797–798)]]
+> - **方向锁定与[[Path Dependence|路径依赖]]风险** 一旦国家将巨额公共资本锁定在特定技术方向上，若缺乏敏捷的[[Reflexivity|反思性]]纠偏机制，可能造成巨大的沉没成本损失。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 797–798)]]
 > - **公共部门能力短缺瓶颈** 落实方向性需要公共部门具备高超的“[[Market Shaping and Creating|市场塑造]]”与“引领学习”动态能力；若体制能力不足，极易退化为形式主义的行政指令。
 
 ---

@@ -9,7 +9,7 @@ aliases:
 summary: "由国家或地方政府授权的外部独立机构对学校教育教学质量、管理运行与合规状态开展现场审查、评级发布与行政问责的制度化规制机制"
 type: concept
 domain: "educational-policy-reform"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Document]]"
 related_theories:
   - "[[Complexity Theory]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Winnowing]]"
   - "[[Action Research]]"
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # School Inspection
@@ -260,7 +261,7 @@ updated: 2026-10-07
 > > 探讨督导报告应当采用单一简化的“一锤定音”等级，还是提供不作等级判定的多维度细粒度诊断反馈。
 > >
 > > - **单一等第支持者** 认为简化的单一定级能为家长提供零门槛[[School Choice\|择校]]参考，并为政府精准施加行政干预提供明确的法定触发点。
-> > - **细粒度画像倡导者** 指出单一定级抹杀了学校极其复杂的社会背景[[Heterogeneity\|异质性]]，对弱势生源薄弱学校造成毁灭性的污名锁定效应。
+> > - **细粒度画像倡导者** 指出单一定级抹杀了学校极其复杂的社会背景[[Heterogeneity\|异质性]]，对弱势生源薄弱学校造成毁灭性的污名[[Path Dependence|锁定效应]]。
 >
 > > [!axis] 督导评估与量化测试的行政割裂与综合整合瓶颈
 > > 探讨在现代多源监测体系中，定性学校督导报告如何与大规模标准化测试数据实现深层协同。

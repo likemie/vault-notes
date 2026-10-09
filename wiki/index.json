@@ -6785,6 +6785,18 @@
     ]
   },
   {
+    "title": "Anchor Institution",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Anchor Institution.md",
+    "aliases": [
+      "锚定机构",
+      "锚定机构理论",
+      "大学作为锚定机构",
+      "Anchor Institutions",
+      "Anchoring Innovation Districts"
+    ]
+  },
+  {
     "title": "Canon Wars",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Canon Wars.md",
@@ -14421,7 +14433,6 @@
       "用户-生产者互动",
       "用户与生产者互动",
       "用户生产者互动",
-      "user-producer interaction",
       "user-producer relationships"
     ]
   },
@@ -16132,6 +16143,18 @@
     "path": "wiki/theories/political-economy-geopolitics/Orientalism.md",
     "aliases": [
       "东方主义"
+    ]
+  },
+  {
+    "title": "Path Dependence",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Path Dependence.md",
+    "aliases": [
+      "路径依赖",
+      "路径依赖理论",
+      "path dependence theory",
+      "技术锁定",
+      "锁定效应"
     ]
   },
   {
@@ -19305,10 +19328,10 @@
     "type": "method",
     "path": "wiki/methods/quantitative/LISA Spatiotemporal Transition.md",
     "aliases": [
-      "LISA时空转移",
+      "时空转移",
+      "时空跃迁",
       "LISA Spatiotemporal Transition Matrix",
-      "空间转移矩阵",
-      "LISA时空跃迁"
+      "空间转移矩阵"
     ]
   },
   {
@@ -31530,6 +31553,18 @@
     ]
   },
   {
+    "title": "Albany NanoTech Complex",
+    "type": "fact",
+    "path": "wiki/facts/us/Albany NanoTech Complex.md",
+    "aliases": [
+      "奥尔巴尼纳米技术综合体",
+      "Albany NanoTech",
+      "NY CREATES",
+      "纽约州立大学理工学院纳米综合体",
+      "Albany 300mm Wafer Complex"
+    ]
+  },
+  {
     "title": "Alliance for Southern California Innovation",
     "type": "fact",
     "path": "wiki/facts/us/Alliance for Southern California Innovation.md",
@@ -33578,6 +33613,19 @@
     "aliases": [
       "阅读营救",
       "阅读营救项目"
+    ]
+  },
+  {
+    "title": "Regional Technology and Innovation Hubs",
+    "type": "fact",
+    "path": "wiki/facts/us/Regional Technology and Innovation Hubs.md",
+    "aliases": [
+      "区域技术与创新枢纽",
+      "区域技术与创新中心",
+      "Tech Hubs",
+      "Tech Hubs Program",
+      "EDA Tech Hubs",
+      "Regional Technology and Innovation Hubs Program"
     ]
   },
   {

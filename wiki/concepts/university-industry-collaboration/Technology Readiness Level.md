@@ -10,7 +10,7 @@ aliases:
 summary: "由美国国家航空航天局（NASA）于 1970 年代创设并在全球科技与产业政策中广泛应用的 9 级技术成熟度标准化评估架构（从 TRL 1 基础原理观察到 TRL 9 真实环境运行验证）。在深科技转化中，TRL 4–6 构成大学实验室与规模化量产之间的“死亡之谷”；通过中试验证平台、洁净室跨界共置与概念验证项目，能够有效桥接早期科学突破向工业级成熟度的演进。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -52,6 +52,7 @@ related_facts:
   - "[[CREATES Project]]"
   - "[[National Science Foundation]]"
   - "[[SBIR and STTR Programs]]"
+  - "[[Albany NanoTech Complex]]"
   - "[[Educational Services Australia]]"
   - "[[Department of Energy]]"
   - "[[CHIPS and Science Act]]"
@@ -116,7 +117,7 @@ updated: 2026-10-09
 > [!feature] 核心运行特征
 > - **阶梯式风险收敛** 随着 TRL 从 1 向 9 攀升，技术的纯科学机理风险逐步收敛，而工程放大、制造工艺与资本投入规模呈指数级增长。
 > - **TRL 4–6 [[Valley of Death|死亡之谷]]跨越** 大学实验室技术通常停留在 TRL 3–4，而企业工业级承接通常要求 TRL 6–7；这一区间因缺乏清晰的出资主体与重资产测试设备而面临资本断崖。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 145)]]
-> - **中试共置与协同跨越** 在微电子与先进制造领域，依托大学与产业界共建的 300 毫米晶圆中试线与共享洁净室（如 Albany NanoTech 与 MIT.nano），师生与企业工程师在真实工业级设备上共置攻关，使技术在校内即可推进至 TRL 6–7。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–24)]]
+> - **中试共置与协同跨越** 在微电子与先进制造领域，依托大学与产业界共建的 300 毫米晶圆中试线与共享洁净室（如 [[Albany NanoTech Complex|Albany NanoTech]] 与 MIT.nano），师生与企业工程师在真实工业级设备上共置攻关，使技术在校内即可推进至 TRL 6–7。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–24)]]
 
 ---
 
@@ -149,7 +150,7 @@ updated: 2026-10-09
 > 探讨如何通过重资产共性平台让大学突破象牙塔边界，直接参与深科技全生命周期攻关。
 
 > [!claim] [[Argument_Zhuo_2026_ICE|卓泽林 (2026, pp. 20–24)]]; [[Argument_Kratsios_2026_OSTP|Kratsios (2026, pp. 38–41)]]
-> **洁净室共置模式填补 TRL 4–6 中试断裂** 在半导体与硬科技领域，传统大学实验室缺乏开展 TRL 4–6 工艺放大的重型装备。通过在纽约州立大学奥尔巴尼分校（Albany NanoTech Complex）建设 300 毫米晶圆研发中试线、在麻省理工学院建设 MIT.nano 开放共享洁净室，高校师生与企业研发人员在真实工业级设备上实现“共置共研”（[[University-Industry Co-location|co-location]]），使大学从单纯在上游从事 TRL 1–3 基础研究，转变为跨越 TRL 4–6 并深度协同下游 TRL 7–9 产业应用的战略[[Innovation Hub|创新枢纽]]。
+> **洁净室共置模式填补 TRL 4–6 中试断裂** 在半导体与硬科技领域，传统大学实验室缺乏开展 TRL 4–6 工艺放大的重型装备。通过在纽约州立大学奥尔巴尼分校（[[Albany NanoTech Complex]]）建设 300 毫米晶圆研发中试线、在麻省理工学院建设 MIT.nano 开放共享洁净室，高校师生与企业研发人员在真实工业级设备上实现“共置共研”（[[University-Industry Co-location|co-location]]），使大学从单纯在上游从事 TRL 1–3 基础研究，转变为跨越 TRL 4–6 并深度协同下游 TRL 7–9 产业应用的战略[[Innovation Hub|创新枢纽]]。
 
 ### 命题三　概念验证计划与非稀释性资助为 TRL 3–5 早期跨越提供减震缓冲
 
@@ -205,7 +206,7 @@ updated: 2026-10-09
 > | 研究与来源 | 考察样本与情境 | 研究设计与方法 | 核心[[Variable\|变量]]与指标 | 原始实证结果 | 显著性或不确定性 | 理论与政策启示 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison & Wilson (2025)]] | 美国[[Research Universities\|研究型大学]]衍生企业与[[Corporate Venture Capital\|企业风险投资]]（CVC）对接过程 | 质性[[In-depth Interview\|深度访谈]]与多案例追踪 | 成立初期 TRL 等级 vs 企业试点要求的 TRL 等级 | [[University Spin-Out\|大学衍生企业]]成立初期普遍处于 TRL 3–5，而企业试点要求 TRL 6–7，存在 2–3 级刚性断层 | 质性实证确证 | 证实 TRL 断层是导致衍生企业无法获得商业验证与早期融资的决定性技术阻力 |
-> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | 美国研究型大学在国家半导体体系中的中试嵌入案例（Albany/MIT） | 比较案例分析与政策文本剖析 | 共享[[Pilot Scale Platform\|中试平台]]配置 vs 跨越 TRL 4–6 周期 | Albany NanoTech 300mm 中试线与 MIT.nano 开放洁净室使师生与企业工程师在真实工业级设备上共置攻关 | 政策案例核验 | 证实洁净室与中试线共置是研究型大学突破 TRL 1–3 局限、跨越[[Valley of Death\|死亡之谷]]的有效组织载体 |
+> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | 美国研究型大学在国家半导体体系中的中试嵌入案例（Albany/MIT） | 比较案例分析与政策文本剖析 | 共享[[Pilot Scale Platform\|中试平台]]配置 vs 跨越 TRL 4–6 周期 | [[Albany NanoTech Complex\|Albany NanoTech]] 300mm 中试线与 MIT.nano 开放洁净室使师生与企业工程师在真实工业级设备上共置攻关 | 政策案例核验 | 证实洁净室与中试线共置是研究型大学突破 TRL 1–3 局限、跨越[[Valley of Death\|死亡之谷]]的有效组织载体 |
 
 ---
 

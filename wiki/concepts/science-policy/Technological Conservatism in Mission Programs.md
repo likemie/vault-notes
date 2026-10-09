@@ -10,7 +10,7 @@ aliases:
 summary: "指大型使命导向公共项目管理层因承担灾难性系统失败与人员生命安全风险，在飞行元器件选型上表现出高度的风险规避与保守倾向，但项目的极端功能与环境约束又反向迫使工业界在前沿技术上急剧加速创新的组织与治理张力机制。"
 type: concept
 domain: "science-policy"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,6 +32,7 @@ related_concepts:
 related_theories:
   - "[[Technological Trajectories]]"
   - "[[Evolutionary Economics]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Technological Conservatism in Mission Programs
@@ -124,7 +125,7 @@ updated: 2026-10-07
 
 > [!debates] 学术争议
 >
-> > [!axis] 过度保守导致技术锁定 vs 激进冒进引发系统灾难
+> > [!axis] 过度保守导致[[Path Dependence|技术锁定]] vs 激进冒进引发系统灾难
 > > 围绕使命工程管理层应如何在[[Reliability|可靠性]]底线与前沿探索之间划定边界的争议。
 > >
 > > - **审慎管理视角（[[Argument_Schnee_1978_RP|Schnee, 1978]]）** 强调在不可逆的重大生命与国家安全工程中，基于成熟技术的保守选型是确保系统生存的唯一科学理性。

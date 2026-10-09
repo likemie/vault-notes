@@ -9,7 +9,7 @@ aliases:
 summary: "Freeman 与 Lundvall 等人发展的理论框架，将创新理解为多行动者在特定制度环境下通过网络与市场互动进行的集体学习活动；主张创新绩效取决于行动者能力、网络连接密度与制度规则适配性，推动公共政策从弥补市场失灵转向修复系统失灵。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 86
+theory_related_count: 87
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -74,6 +74,7 @@ related_theories:
   - "[[Triple Helix]]"
   - "[[Bounded Rationality]]"
   - "[[Organizational Culture]]"
+  - "[[Path Dependence]]"
   - "[[Technological Trajectories]]"
   - "[[Cultural Political Economy]]"
 related_methods:
@@ -114,7 +115,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-27
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Systems of Innovation
@@ -192,7 +193,7 @@ updated: 2026-10-08
 > **应用实例** 欠发达地区即使全额引进跨国高科技企业研发专利，若本地企业缺乏具备研发经验的技术骨干（缺乏吸收能力），相关专利将长期闲置；而具备深厚工程技艺积累的成熟[[Industrial District|工业区]]（如德国巴伐利亚或中国长三角），即使仅获得初步构想，也能迅速通过本地工匠与工程师网络完成工程化落地。
 
 > [!theory-proposition] 命题三｜公共政策的重心必须从弥补“[[Market Failure|市场失灵]]”转向识别并修复多维度的“系统失灵”
-> **解释** 新古典政策[[Paradigm|范式]]将政府职能局限于通过基础科研资助和税收补贴来弥补私营部门对公共品投资不足的“市场失灵”。创新系统理论指出，创新受阻往往并非因为研发资金短缺，而是系统内部出现了结构性断裂。政府的核心使命是采取跨部门协同手段（涵盖科技、产业、教育与金融政策），诊断并修复网络链接、制度规则、技术锁定及吸收能力层面的“系统失灵”。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 30–31)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–12)]]
+> **解释** 新古典政策[[Paradigm|范式]]将政府职能局限于通过基础科研资助和税收补贴来弥补私营部门对公共品投资不足的“市场失灵”。创新系统理论指出，创新受阻往往并非因为研发资金短缺，而是系统内部出现了结构性断裂。政府的核心使命是采取跨部门协同手段（涵盖科技、产业、教育与金融政策），诊断并修复网络链接、制度规则、[[Path Dependence|技术锁定]]及吸收能力层面的“系统失灵”。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 30–31)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–12)]]
 >
 > **应用实例** 某区域政府若仅通过科研基金盲目向大学实验室注入研发经费，而忽视产学之间缺乏中介技术经纪人（网络失灵）、传统高耗能产业占据政策资源拒绝接纳新技术（锁定失灵）、以及本地中小企业无力招募硕博研发人才（能力失灵），那么高额科技投资将最终沉淀为“抽屉成果”，无法转化为区域生产力。
 
@@ -233,7 +234,7 @@ updated: 2026-10-08
 > | **制度规则与法律框架**<br>[[Argument_Ulrichsen_2025_UIR_Evolution\|(Ulrichsen, 2025, p. 30)]] | 规约知识流动与创新的制度环境是否健全？产权界定、激励机制或文化规范是否阻碍探索？ | 知识产权法案条款（如《[[Bayh-Dole Act of 1980\|拜杜法案]]》类赋权）、大学衍生企业股权激励规定、企业对失败的文化容忍度 | 若产权过度集中于政府/校方导致教师缺乏转化意愿，或知识产权保护过严阻碍知识开源流动，判定存在**制度失灵（Institutional Failure）**。 |
 > | **网络连接与互动密度**<br>[[Argument_Ulrichsen_2025_UIR_Evolution\|(Ulrichsen, 2025, p. 31)]] | 大学、科研机构与产业界之间是否存在常态化、多通道的双向知识交换管道？ | 校企联合研发中心数量、教师兼职咨询比例、学术界与产业界的联合专利/论文比例、中介平台密度 | 若大学与企业界各自为政、缺乏制度化对接界面与人员双向流动渠道，判定存在**网络与链接失灵（Network & Interaction Failure）**。 |
 > | **吸收能力与技术能力**<br>[[Argument_Ulrichsen_2025_UIR_Evolution\|(Ulrichsen, 2025, p. 29)]]; [[Argument_Freeman_1995_CJE\|(Freeman, 1995, p. 14)]] | 需求端（特别是本地中小企业）是否具备识别、消化并利用前沿科研成果的技术骨干？ | 企业工程技术人员占总员工比重、工科生占人口比、企业自主研发支出占营收比、产学合作中定向委托 vs 联合攻关比例 | 若前沿研究供给充沛但本地企业缺乏工程师吸收消化，判定存在**能力失灵（Competence Failure）**；仅靠扩大知识供给无法解决问题。 |
-> | **技术锁定与惯性阻尼**<br>[[Argument_Caraca_2009_TFSC\|(Caraça et al., 2009, p. 865)]]; [[Argument_Freeman_1995_CJE\|(Freeman, 1995, p. 18)]] | 系统是否过度偏爱既有优势技术与成熟利益集团，从而挤压新兴[[General Purpose Technology\|通用技术]][[Paradigm\|范式]]的发育空间？ | 财政补贴与科技基金在传统高碳/成熟产业 vs 新兴产业的分配比例、既有基础设施沉没成本规模 | 若既得利益网络与成熟基础设施排斥绿色与数字化替代方案，判定存在**锁定失灵（Lock-in Failure）**，需依赖强有力的方向性规制打破路径依赖。 |
+> | **技术锁定与惯性阻尼**<br>[[Argument_Caraca_2009_TFSC\|(Caraça et al., 2009, p. 865)]]; [[Argument_Freeman_1995_CJE\|(Freeman, 1995, p. 18)]] | 系统是否过度偏爱既有优势技术与成熟利益集团，从而挤压新兴[[General Purpose Technology\|通用技术]][[Paradigm\|范式]]的发育空间？ | 财政补贴与科技基金在传统高碳/成熟产业 vs 新兴产业的分配比例、既有基础设施沉没成本规模 | 若既得利益网络与成熟基础设施排斥绿色与数字化替代方案，判定存在**锁定失灵（Lock-in Failure）**，需依赖强有力的方向性规制打破[[Path Dependence\|路径依赖]]。 |
 > | **大学与产业转型匹配度**<br>[[Argument_Lester_2005_MIT\|(Lester, 2005, pp. 11–24)]] | 大学的科研、教学与社会服务职能是否精准匹配本地产业的发展阶段与转型需求？ | 本地产业转型类型（新产业形成、产业移植、多元化、既有升级）、大学对非专利渠道（人才培训、问题咨询、公共论坛）的贡献分布 | 若地方产业急需工艺改良与熟练技师，而大学盲目追求前沿理论发表与高难度专利转让，判定存在**结构错配失灵（Structural Mismatch）**。 |
 
 ---
@@ -341,7 +342,7 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 从经济思想史与[[Evolutionary Economics|演化经济学]]视角追溯[[National Innovation System|国家创新系统]]的[[Friedrich List|李斯特]]渊源，通过英、德、美、日、苏及东亚与拉美的长周期比较历史考证，系统论证国家教育培训体系、企业内部专业化研发与网络连接在[[Technological Catch-up|技术赶超]]中的决定性作用，反驳全球化导致民族国家过时的论调，确立[[National Innovation System|国家创新系统]]与[[Regional Innovation System|区域创新系统]]的多标量空间架构。
+> - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 追溯[[National Innovation System|国家创新系统]]的思想渊源，结合英德美日苏长周期比较，论证教育培训、企业专职研发与网络连接在技术赶超中的决定性作用，确立创新系统的多标量空间架构。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]] — 阐述从国家创新系统“系统失灵修补”向使命导向“[[Market Shaping and Creating|市场塑造]]与创造”的理论演化脉络与 ROAR 政策[[Analytic Framework|分析框架]]。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]] — 历史制度分析战后五十年美国国防研发投资与采购体系，系统阐明[[University-Based Research Infrastructure|大学科研基础设施]]奠定、初生期先导采购与第二货源机制如何塑造美国 IT 创新系统，揭示产业成熟期由民向军的逆向技术溢出规律及反恐预算重组的潜在风险。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]] — 系统梳理五十年来产学关系与[[Innovation Policy Paradigms|创新政策范式]]的三次跃迁（科学促增长 → 创新系统 → [[Transformative Change|变革转型]]），详述系统失灵的完整分类（制度、网络、锁定、能力等）及大学对创新全谱系的多维贡献。

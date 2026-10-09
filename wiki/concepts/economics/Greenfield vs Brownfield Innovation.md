@@ -9,7 +9,7 @@ aliases:
 summary: "科技政策与演化经济学中用于区分技术进入环境特征的核心分析概念对；绿地创新指技术进入缺乏庞大存量资产与固定制度网络的全新空白领域（如二战后半导体与互联网），能依托军用性能溢价快速迭代；棕地创新指技术必须嵌入深嵌于强监管、长资产周期与规避风险的存量基础设施网络（如电力与能源大宗商品），无法索取自然性能溢价，高度依赖外部规制与系统级试验"
 type: concept
 domain: "economics"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_concepts:
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Systems of Innovation]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Effect Size]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Greenfield vs Brownfield Innovation
@@ -131,7 +132,7 @@ updated: 2026-10-07
 ### 命题二　棕地创新的突破必须依托“碳定价、强制性规制与大型系统级基础设施试验”的协同政策组合
 
 > [!concept-lens] 棕地[[Systems of Innovation|创新系统]]的政策架构设计
-> 探讨如何构建克服存量网络锁定效应的综合政策组合。
+> 探讨如何构建克服存量网络[[Path Dependence|锁定效应]]的综合政策组合。
 
 > [!claim] Mowery, D. C.
 > **规制创造需求与大型存量基础设施试验的不可替代性** 莫厄里指出，由于棕地技术缺乏自然市场驱动力，其需求侧政策不能止步于传统的政府采购订单，而必须从国家顶层建立清晰的碳规制信号（如碳税、排放上限或强制可再生能源配额），强行改变存量能源大宗商品的比价关系。同时，棕地创新面临的[[Valley of Death|死亡之谷]]主要发生在大规模系统集成与存量网络互联阶段；政府必须资助建立兆瓦级大型示范工程与公用事业试验网，为新型低碳技术提供融入复杂存量电网的真实运行验证。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 185–186)]]

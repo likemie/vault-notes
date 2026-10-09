@@ -9,7 +9,7 @@ aliases:
 summary: "以经验观察、受控检验与假设证伪为基础的系统性探究程序；传统实证主义将其预设为贯通自然与社会的普适法则，当代科学哲学与科学教育将其重构为多元情境化的社会认识论实践，而现代科学学（Metascience）进一步将科学方法反身应用于评估与革新科研资助及评价制度本身。"
 type: concept
 domain: "educational-philosophy"
-related_count: 77
+related_count: 78
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -61,6 +61,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[School Effectiveness]]"
 related_theories:
+  - "[[Path Dependence]]"
   - "[[Pluralism]]"
   - "[[Inquiry Cycle]]"
   - "[[Critical Theory]]"
@@ -106,7 +107,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Scientific Method
@@ -134,7 +135,7 @@ updated: 2026-10-07
 > *Scientific methods are diverse... scientific knowledge is constructed using a variety of methods, including observation, modeling, experiment, and historical reconstruction.*
 
 > [!citation-card] 科学学中科学方法的[[Reflexivity|反身性]]应用：以科学方法革新科学资助体制
-> 克服联邦资助机构对传统同行评议与增量研究的路径依赖，关键在于将‘科学方法’反身应用于科研资助制度本身。各联邦科学机构必须设立独立的[[Metascience|元科学]]部门，通过[[Randomised Controlled Trials|随机对照试验]]（RCT）、部分抽签资助、双盲评审与一致性检验等严格的实证方法，客观评估不同资助工具的真实成效并据此重塑国家科研体系。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 31–32)]]
+> 克服联邦资助机构对传统同行评议与增量研究的[[Path Dependence|路径依赖]]，关键在于将‘科学方法’反身应用于科研资助制度本身。各联邦科学机构必须设立独立的[[Metascience|元科学]]部门，通过[[Randomised Controlled Trials|随机对照试验]]（RCT）、部分抽签资助、双盲评审与一致性检验等严格的实证方法，客观评估不同资助工具的真实成效并据此重塑国家科研体系。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 31–32)]]
 >
 > *To overcome institutional inertia, federal agencies must establish independent metascience units to apply the scientific method to our system of science funding itself—using rigorous experimental trials to measure and improve how research is supported.*
 

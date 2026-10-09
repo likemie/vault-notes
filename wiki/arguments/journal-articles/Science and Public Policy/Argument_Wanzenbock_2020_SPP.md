@@ -41,6 +41,7 @@ related_concepts:
   - "[[Feedback]]"
 related_theories:
   - "[[Problem-Solution Space for Mission-Oriented Innovation Policy]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Typological Analysis]]"
@@ -62,7 +63,7 @@ title: "Argument_Wanzenbock_2020_SPP"
 argument_key: "Argument_Wanzenbock_2020_SPP"
 argument_display_title: "A framework for mission-oriented innovation policy: Alternative pathways through the problem–solution space"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -342,7 +343,7 @@ issuing_organization: ""
 > *A process-oriented MIP would involve continuous learning and adaptation, reflecting on both the performance of specific solutions and the legitimacy of the problem definition. It would also involve more flexible and open governance arrangements, engaging citizens and stakeholders in the specification of missions and throughout their implementation.*
 
 > [!citation-card] 避免单一技术路径锁定的[[Reflexivity|反思性]]治理
-> 忽视解决方案中的规范与制度要素，或者单方面假定某一技术方案是不二之选，极易引发强烈的社会反弹和技术锁定风险。[[Reflexive Governance|反思性治理]]要求政策制定者在探索解决路径时始终保持对替代方案的[[Open-Mindedness|开放性]]，并在制度安排中嵌入动态评估与纠偏机制。（pp.485–486）
+> 忽视解决方案中的规范与制度要素，或者单方面假定某一技术方案是不二之选，极易引发强烈的社会反弹和[[Path Dependence|技术锁定]]风险。[[Reflexive Governance|反思性治理]]要求政策制定者在探索解决路径时始终保持对替代方案的[[Open-Mindedness|开放性]]，并在制度安排中嵌入动态评估与纠偏机制。（pp.485–486）
 >
 > *Disregarding the normative elements involved in specific solutions or prematurely locking into one technological route comes at a high price of social resistance and lock-in. Reflexive governance requires policy makers to remain open to alternative pathways and embed continuous [[Feedback]] mechanisms into institutional designs.*
 

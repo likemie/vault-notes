@@ -9,7 +9,7 @@ aliases:
 summary: "Schein 提出的组织文化三层次框架（器物、信奉价值观、深层基本假设），揭示了表层可见符号与官方理念如何常与深层防御心理及信任赤字发生结构性断裂，并解释了正式管理文化重构与微观非正式制度之间的解耦与韧性，以及工程实效文化与官僚自保文化对创新荒漠的决定性塑造。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 57
+theory_related_count: 58
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -47,7 +47,8 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Embedded Network Governance]]"
   - "[[Research Impact]]"
-related_theories: []
+related_theories:
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Visual Research Methods]]"
@@ -238,7 +239,7 @@ updated: 2026-10-09
 ## 理论立场与使用方式
 
 > [!theory-stance] [[Epistemology|认识论]]立场
-> - **[[Ontology|本体论]]** 组织文化是客观存在、分层演化且具有强路径依赖的社会认知结构；既有外在物理显现，更有深层的潜意识共同体信念。
+> - **[[Ontology|本体论]]** 组织文化是客观存在、分层演化且具有强[[Path Dependence|路径依赖]]的社会认知结构；既有外在物理显现，更有深层的潜意识共同体信念。
 > - **认识论** [[Artefact|器物]]是宝贵的可观察经验材料，但器物必须与行动者的主观解释和深层制度规范相结合才能获得合法阐明，单凭器物存在推断效度风险。
 > - **方法含义** 支持[[Mixed Methods Research|混合方法]]与[[Triangulation|三角互证]]研究设计；要求将环境观察、视觉[[Ethnography|民族志]]与[[In-depth Interview|深度访谈]]、政策文本分析及[[Rating Scale|态度量表]]测度深度整合。
 > - **不能直接推出的东西** 不能从单一器物直接推断出组织的道德优劣；不能将官员或教师在调查[[Questionnaire|问卷]]中的自陈理念等同于其在真实工作中的实际行为。

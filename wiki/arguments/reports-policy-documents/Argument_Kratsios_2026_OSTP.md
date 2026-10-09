@@ -70,6 +70,7 @@ related_concepts:
   - "[[Pilot Scale Platform]]"
   - "[[Cooperative Research and Development Agreement]]"
   - "[[Other Transaction Authority]]"
+  - "[[Anchor Institution]]"
   - "[[Variable]]"
   - "[[Assemblage]]"
   - "[[Academic Engagement]]"
@@ -87,6 +88,7 @@ related_concepts:
   - "[[Portfolio-Based Research Funding]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Design-Based Research]]"
@@ -143,7 +145,7 @@ title: "Argument_Kratsios_2026_OSTP"
 argument_key: "Argument_Kratsios_2026_OSTP"
 argument_display_title: "Science: A new golden age (Report to the President)"
 argument_kind: "report"
-argument_related_count: 106
+argument_related_count: 108
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -491,7 +493,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 
 #### 5. 设立被充分授权的元科学单元以制度化推进随机对照实验
 
-为克服资助机构的路径依赖，各联邦科学机构必须设立直属局长的独立[[Metascience|元科学]]部门，以[[Scientific Method|科学方法]]评估并改进科研资助制度本身（pp. 31–32）。
+为克服资助机构的[[Path Dependence|路径依赖]]，各联邦科学机构必须设立直属局长的独立[[Metascience|元科学]]部门，以[[Scientific Method|科学方法]]评估并改进科研资助制度本身（pp. 31–32）。
 
 > [!policy-design] 联邦元科学单元的制度职权与实验设计
 > - **核心使命** 将科学方法应用于国家科研管理体制，识别关键技术瓶颈，绘制国家前沿能力缺口地图，推动资助流程自我革新。
@@ -623,7 +625,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 > [!policy-context] 联邦体制下各州规制试验的独特优势
 > - **分布式创新试验床** 五十个州与数千个地方政府可同时开展差异化规制、许可与税收激励试验。（p. 45）
 > - **成功范式快速扩散** 制度设计卓越的辖区能够迅速吸聚资本与拔尖人才，倒逼并带动其他地区学习迭代。（pp. 45–46）
-> - **因地制宜政策供给** 地方锚定机构与州政府能够根据本地产业禀赋精准提供土地、教育与基建支持。（p. 54）
+> - **因地制宜政策供给** 地方[[Anchor Institution|锚定机构]]与州政府能够根据本地产业禀赋精准提供土地、教育与基建支持。（p. 54）
 
 ---
 

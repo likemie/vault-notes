@@ -8,7 +8,7 @@ aliases:
 summary: "国家科技政策与科研资助治理中主动构建和优化资助工具、风险梯度、资助对象与组织形态的战略配置框架；通过融合对人资助、金券制、拉动机制、聚焦研究组织与元科学随机对照实验，克服单一同行评议的避险惯性并平衡纯好奇探索与应用导向攻坚。"
 type: concept
 domain: "science-policy"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Epistemology]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
+  - "[[Path Dependence]]"
   - "[[Pool of Knowledge]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Portfolio-Based Research Funding
@@ -109,7 +110,7 @@ updated: 2026-10-08
 
 ### 命题一　缺乏主动配置与实证反馈的科研资助体系会将既得利益惯性误认为国家战略优先序
 
-> [!concept-lens] 偶然组合与路径依赖
+> [!concept-lens] 偶然组合与[[Path Dependence|路径依赖]]
 > 剖析联邦科研资助若仅依赖传统院系面板评审与上一年度历史基数，为何必然导致资助流向固化与系统性学术避险。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]; [[Argument_Stephan_2013_NBER|Stephan (2013)]]
@@ -171,7 +172,7 @@ updated: 2026-10-08
 
 > [!dev-timeline] 科研资助治理与组合[[Paradigm|范式]]的演变脉络
 > - **1945 — [[Science, The Endless Frontier 1945|布什报告]]奠定联邦公共资助基石与单向线性模式** 《[[Science, The Endless Frontier 1945|布什报告]]》确立政府出资基础科学以充实国家知识池的公共品契约，但预设了基础研究专属于大学、开发专属于企业的单向分工。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 1–3)]]
-> - **1950s–1980s — 分散同行评议竞争资助体系的确立与成熟** [[National Science Foundation|NSF]] 与 [[National Institutes of Health|NIH]] 确立直接面向大学教师竞争性下拨课题的同行评审体制，极大激发了科研产出，但也逐步固化为对大学单课题组的路径依赖。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
+> - **1950s–1980s — 分散同行评议竞争资助体系的确立与成熟** [[National Science Foundation|NSF]] 与 [[National Institutes of Health|NIH]] 确立直接面向大学教师竞争性下拨课题的同行评审体制，极大激发了科研产出，但也逐步固化为对大学单课题组的[[Path Dependence|路径依赖]]。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 > - **1990s — [[Pasteur's Quadrant|巴斯德象限]]提出打破基础与应用二分法** [[Donald Stokes|唐纳德·斯托克斯]]提出[[Pasteur's Quadrant|巴斯德象限]]理论，论证由应用启发同时探究根本机理的研究范式，为资助组合的多样化提供了[[Epistemology|认识论]]基础。
 > - **2000s–2010s — 学术避险危机与对人资助机制试验** 随着资助成功率持续走低与学者年龄老化，科学界反思同行评议的保守倾向；HHMI 与 NIH 先锋奖等长周期“对人资助”模式展现出卓越的突破性创新激发效应。[[Argument_Stephan_2013_NBER|(Stephan, 2013)]]
 > - **2024 — [[United Kingdom Metascience Unit|英国元科学单元]]成立开启资助机制实证检验** [[United Kingdom Metascience Unit|英国元科学单元]]正式将[[Randomised Controlled Trials|随机对照实验]]引入国家科研基金评审与分配机制评估。

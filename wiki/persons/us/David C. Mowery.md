@@ -10,7 +10,7 @@ summary: "美国著名创新经济学与科技政策学者，加州大学伯克�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 45
+person_related_count: 46
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -50,6 +50,7 @@ related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Technological Trajectories]]"
   - "[[Systems of Innovation]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[In-depth Interview]]"
   - "[[Correlational Research]]"
@@ -211,7 +212,7 @@ updated: 2026-10-09
 > | [[Second-Sourcing]] | 概念 | 揭示军方强制要求第二供应商制度对半导体制造工艺诀窍跨企均质化扩散的核心机制。 |
 > | [[Demand-side Innovation Policy]] | 概念 | 系统剖析国防部首发战略采购在技术萌芽期为企业平摊[[Learning by Doing\|干中学]]成本的先导拉动机制。 |
 > | [[Evolutionary Economics]] | 理论 | 将制度变迁、[[Technological Trajectories\|技术轨迹]]与企业组织惯性融入演化创新[[Analytic Framework\|分析框架]]。 |
-> | [[Technological Trajectories]] | 理论 | 深入实证微电子、计算机与化工产业长期技术轨迹的路径依赖特征。 |
+> | [[Technological Trajectories]] | 理论 | 深入实证微电子、计算机与化工产业长期技术轨迹的[[Path Dependence\|路径依赖]]特征。 |
 > | [[Sematech]] | 事实 | 完成对该联盟从横向工艺开发向纵向用户—供应商设备开发战略转型的权威评估。 |
 > | [[Semi-Automatic Ground Environment]] | 事实 | 剖析 [[Sage]] 超级工程如何为 IBM 注入软件工程与实时系统架构能力并催生 SABRE 订票系统。 |
 > | [[Bell Labs]] | 事实 | 揭示军工资助与反垄断规制对贝尔实验室技术外溢和全美半导体创业生态的双重塑造。 |

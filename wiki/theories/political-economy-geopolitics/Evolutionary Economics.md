@@ -8,7 +8,7 @@ aliases:
 summary: "以 Nelson & Winter（1982）为奠基的经济学流派，将经济变迁视为多样性变异、组织惯例学习、路径依赖与动态选择的演化过程；批判新古典静态均衡假设，为技术轨迹、创新系统、公共动态能力与引领和学习范式提供底层理论基石"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 63
+theory_related_count: 64
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -57,6 +57,7 @@ related_concepts:
   - "[[Wicked Problem]]"
   - "[[Innovation Policy Paradigms]]"
 related_theories:
+  - "[[Path Dependence]]"
   - "[[Bounded Rationality]]"
   - "[[Technological Trajectories]]"
   - "[[Systems of Innovation]]"
@@ -90,7 +91,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-10
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Evolutionary Economics
@@ -100,7 +101,7 @@ updated: 2026-10-07
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 解释技术创新、产业演进、企业行为差异与宏观经济长期动态变迁的内在机理，重点解构经济系统中的多样性产生、组织惯例变异、路径依赖与动态选择机制。[[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016, pp. 153–156)]]
+> - **解释对象** 解释技术创新、产业演进、企业行为差异与宏观经济长期动态变迁的内在机理，重点解构经济系统中的多样性产生、组织惯例变异、[[Path Dependence|路径依赖]]与动态选择机制。[[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016, pp. 153–156)]]
 > - **理论问题** 回应并打破新古典经济学关于完全理性、代表性企业（Representative Agent）、边际最优化行为与静态市场均衡的刚性[[Hypothesis|假设]]，揭示现实经济如何在极度不确定性与非线性互动中演进。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–807)]]
 > - **理论类型** 异端经济学理论体系、中观产业演进理论与宏观创新治理哲学。
 > - **知识位置** 承接[[Joseph Schumpeter|熊彼特]]创新理论与西蒙[[Bounded Rationality|有限理性]]假说，是Pavitt 产业分类法、[[Technological Trajectories|技术轨迹]]理论、国家[[Systems of Innovation|创新系统理论]]以及现代[[Market Shaping and Creating|市场塑造]]、[[Public Dynamic Capabilities|公共动态能力]]与使命导向政策的底层基石。
@@ -146,7 +147,7 @@ updated: 2026-10-07
 >   国家间生产力分化取决于无形[[Intellectual Capital|知识资本]]与[[Absorptive Capacity|吸收能力]]的差距；跨国技术扩散存在显著的时滞与制度壁垒，后发国家必须依托主动的教育与组织研发积累才能实现赶超。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–8)]]
 > - **市场与制度选择环境（Selection Environment）**
 >   市场竞争机制与公共规制政策共同构成的筛选压力，决定了不同惯例与技术方案的生存、扩散或淘汰。
-> - **路径依赖与技术锁定（Path Dependency & Lock-in）**
+> - **[[Path Dependence|路径依赖]]与技术锁定（Path Dependency & Lock-in）**
 >   历史沉淀的前期决策、网络外部性与累积性学习使得技术演进具有强烈的历史依赖特征，易陷入次优锁定。
 
 > [!contrast-table] 演化经济学 vs 新古典经济学核心范式对照
@@ -205,7 +206,7 @@ updated: 2026-10-07
 > 创新活动面对的不是可以进行概率计算的风险，而是无法预知结果的奈特式激进不确定性。
 
 > [!claim] Nelson & Winter & Mazzucato
-> **激进不确定性与路径依赖命题** 颠覆性技术突破充满内在认知盲区与极端失败概率，其发展受制于既有认知结构与沉没成本的路径依赖。单纯依靠私人市场的短期分散投资极易导致技术锁定于既有次优轨道或因风险规避而出现严重投资不足，必须依赖公共部门提供跨周期的[[Patient Capital|耐性资本]]与长期战略方向引导。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–808)]]
+> **激进不确定性与[[Path Dependence|路径依赖]]命题** 颠覆性技术突破充满内在认知盲区与极端失败概率，其发展受制于既有认知结构与沉没成本的路径依赖。单纯依靠私人市场的短期分散投资极易导致技术锁定于既有次优轨道或因风险规避而出现严重投资不足，必须依赖公共部门提供跨周期的[[Patient Capital|耐性资本]]与长期战略方向引导。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–808)]]
 
 ---
 
@@ -274,7 +275,7 @@ updated: 2026-10-07
 > > 新古典经济学主流学者批评演化经济学依赖[[Computer Simulation|计算机仿真]]模拟和历史叙事，缺乏解析性（Analytical）的封闭数学均衡解；演化学者反驳指出，为了数学上的优雅而强行[[Hypothesis|假设]]代表性企业与市场出清完全是对经济现实的歪曲。
 > >
 > > - **Lucas / Solow** 坚持宏观经济模型必须具备基于最优化行为的微观基础。
-> > - **Nelson & Winter (1982)** 强调经济系统的非线性和路径依赖使得计算机仿真比封闭方程更能真实再现产业演化动力学。
+> > - **Nelson & Winter (1982)** 强调经济系统的非线性和[[Path Dependence|路径依赖]]使得计算机仿真比封闭方程更能真实再现产业演化动力学。
 >
 > > [!axis] 国家[[Market Shaping and Creating|市场塑造]]能力与政治寻租风险
 > > 演化经济学赋予国家在市场塑造中极其积极的主导角色，受到公共选择学派与自由主义经济学家的强烈质疑，担忧政府方向设定演化为行政垄断与权力寻租。

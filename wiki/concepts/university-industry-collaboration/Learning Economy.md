@@ -10,7 +10,7 @@ aliases:
 summary: "涵盖微观制造经验积累与宏观创新系统演进的双重经济分析范式。微观上指累计产量翻番带来单位生产成本下降20%–30%的动态学习效应；宏观上指在全球化与技术快速变迁中，竞争力取决于动态学习与知识吸收能力而非静态要素存量的经济形态。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,6 +40,7 @@ related_concepts:
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Technological Trajectories]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Correlational Research]]"
 related_arguments:
@@ -53,7 +54,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 # Learning Economy
 
@@ -162,11 +163,11 @@ updated: 2026-10-07
 ### 命题总览
 
 > [!contrast-table] 学习经济相关命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
-> | **微观制造学习曲线** | 累计经验积累使单位产品成本每翻一番下降 20%–30%，公共采购托底是跨越早期高成本门槛的关键 | 资本与技术密集型新兴制造工业（如半导体、光伏、电池） | [[Argument_Schnee_1978_RP\|Schnee (1978)]]; Arrow (1962) |
-> | **宏观动态学习能力** | 竞争优势源于知识获取、吸收与遗忘的敏捷学习流速而非静态存量 | 全球化竞争与技术快速变迁的现代[[Knowledge-Based Economy\|知识经济]]体 | [[Argument_Caraca_2009_TFSC\|Caraça et al. (2009)]]; Lundvall & Johnson (1994) |
-> | **多通道互动学习协同** | 经验互动学习（DUI）与研发探索（STI）具有同等重要性，突破了线性科学观 | 企业复杂系统创新与国家[[Systems of Innovation\|创新系统]]治理 | [[Argument_Caraca_2009_TFSC\|Caraça et al. (2009)]]; Jensen et al. (2007) |
+> | **微观制造学习曲线** | 累计经验积累使单位产品成本每翻一番下降 20%–30%，公共采购托底是跨越早期高成本门槛的关键 | 资本与技术密集型新兴制造工业（如半导体、光伏、电池） | Schnee (1978); Arrow (1962) |
+> | **宏观动态学习能力** | 竞争优势源于知识获取、吸收与遗忘的敏捷学习流速而非静态存量 | 全球化竞争与技术快速变迁的现代[[Knowledge-Based Economy\|知识经济]]体 | Caraça et al. (2009); Lundvall & Johnson (1994) |
+> | **多通道互动学习协同** | 经验互动学习（DUI）与研发探索（STI）具有同等重要性，突破了线性科学观 | 企业复杂系统创新与国家[[Systems of Innovation\|创新系统]]治理 | Caraça et al. (2009); Jensen et al. (2007) |
 
 ---
 
@@ -185,7 +186,7 @@ updated: 2026-10-07
 > [!debates] 学术争议
 >
 > > [!axis] 经验曲线的学习锁定 vs. 激进[[Technological Trajectories|技术轨道]]的[[Paradigm|范式]]跃迁
-> > 围绕过度依赖生产线上的渐进式学习经济是否会导致企业陷入次优技术锁定的争议。
+> > 围绕过度依赖生产线上的渐进式学习经济是否会导致企业陷入次优[[Path Dependence|技术锁定]]的争议。
 > >
 > > - **经验效率学派（[[Argument_Schnee_1978_RP|Schnee, 1978]]; BCG, 1968）** 强调在既定技术轨道上通过规模制造迅速压低成本是构筑产业竞争壁垒和实现商业普及的最有效手段。
 > > - **技术锁定与能力陷阱批评（Arthur, 1989; Levinthal & March, 1993）** 指出过分专注于既有工艺的学习曲线优化会产生“利用性惯性”，使企业对新一代革命性技术架构（如从分立器件到集成电路、从双极型到 MOS 器件）产生认知盲区，沦为“能力陷阱”。

@@ -9,7 +9,7 @@ aliases:
 summary: "将民主参与原则拓展至教育研究证据生产与利用全过程的学术思潮与治理议程，主张终结学者与资助者对科研议程的排他性垄断，将实践者与边缘社群确立为议程设定与知识转化的平等主体，同时反思功利主义实用性修辞对离群弱势群体的潜在排斥"
 type: concept
 domain: "educational-policy-reform"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
 related_theories:
   - "[[Organizational Culture]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Action Research]]"
   - "[[Effect Size]]"
@@ -198,7 +199,7 @@ updated: 2026-10-09
 
 > [!critique] 外部批评与现实阻力
 > - **时间贫困与沟通损耗** 一线教育工作者和边缘社区成员面临严重的时间贫困与教学压力，深度参与学术论辩需要耗费极高的人际协调与沟通成本。
-> - **大学传统晋升体制的路径依赖** 尽管倡导证据民主化，但全球绝大多数[[Research Universities|研究型大学]]的常任教职评审仍牢牢锁定在英文顶刊发表与专著出版上，缺乏对社区服务与政策转化的实质性制度激励。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 222–223, 231)]]
+> - **大学传统晋升体制的[[Path Dependence|路径依赖]]** 尽管倡导证据民主化，但全球绝大多数[[Research Universities|研究型大学]]的常任教职评审仍牢牢锁定在英文顶刊发表与专著出版上，缺乏对社区服务与政策转化的实质性制度激励。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 222–223, 231)]]
 
 > [!warning] 适用局限
 > - 证据民主化不等于降低研究的方法学严谨性；若缺乏具备扎实[[Research Literacy\|研究素养]]的资深学者把关，民主共创项目易滑落为低效的日常事务性开发。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 219)]]

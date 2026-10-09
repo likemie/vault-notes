@@ -7,7 +7,7 @@ aliases:
 summary: "区分不同资本主义制度协调方式的比较政治经济框架，常用来解释教育培训体系、企业行为和技能形成路径的跨国差异"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 11
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Hypothesis]]"
 related_theories:
   - "[[Academic Capitalism]]"
+  - "[[Path Dependence]]"
 related_methods: []
 related_persons: []
 related_facts: []
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-18'
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 # Varieties of Capitalism
@@ -95,7 +96,7 @@ Hartmann 结合产业社会学对 MNC 组织类型的分类，揭示了 VoC and 
 - **国际型 MNCs**（高整合、低本地响应）→ 多源于 LMEs，以标准化产品和流程为特征
 - **联邦型 MNCs**（低整合、高本地响应）→ 多源于 CMEs，给予各国分支较大自主权
 
-详见 [[Corporate University]] 核心要素部分和 [[Argument_Hartmann_2022_CorporateEducation]] 第三步。
+详见 [[Corporate University]] 核心要素部分和 [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] 第三步。
 
 ---
 
@@ -114,7 +115,7 @@ Hartmann 结合产业社会学对 MNC 组织类型的分类，揭示了 VoC and 
 > - **保守主义协调经济体（以德国为代表）** 允许社会群体自我规制，市场化改革的引入和撤回呈现拉锯——部分州在 2000 年代初引入学费后被学生抗议撤销，改革的结果不一
 > - **社会民主主义协调经济体（以挪威为代表）** 强国家干预和进步主义传统，高等教育市场化程度较低，公共供给仍占主导，但也经历了自由化进程
 >
-> 三种模式均经历了自由化（liberalization），但结果强烈路径依赖——差异反映在各国更广泛经济的组织方式和动力上（Hall & Soskice, 2001）。这一应用展示了 VoC 框架从企业治理和技能形成领域向高等教育政治经济分析的可扩展性。
+> 三种模式均经历了自由化（liberalization），但结果强烈[[Path Dependence|路径依赖]]——差异反映在各国更广泛经济的组织方式和动力上（Hall & Soskice, 2001）。这一应用展示了 VoC 框架从企业治理和技能形成领域向高等教育政治经济分析的可扩展性。
 
 ### 路径依赖的具体机制
 

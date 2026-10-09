@@ -11,9 +11,9 @@ subtype: organization
 region: east-asia
 fact_region: "east-asia"
 fact_kind: "organization"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 跨国高科技半导体制造企业 / 纯晶圆代工巨头
 headquarters: 中国台湾新竹科学园区（Hsinchu Science Park, Taiwan）
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Technological Catch-up]]"
   - "[[Learning by Doing]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Anchor Institution]]"
   - "[[Agglomeration Externalities]]"
   - "[[Strategic Autonomy]]"
   - "[[Research Universities]]"
@@ -132,7 +133,7 @@ updated: 2026-10-09
 > [!finding-cards] 关键成效与辐射影响
 > 1. **开创[[Vertical Disintegration|纵向离散]]分工，催生全球无晶圆厂芯片产业繁荣** 台积电纯代工模式打破了巨额晶圆厂资产对芯片创新的资金垄断，使得仅有数十人的小型初创设计公司也能凭借优秀算法与微架构直接参与全球竞争，促成了无晶圆厂设计（Fabless）的黄金时代。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 86–88)]]
 > 2. **成为大国先进制程竞争的战略基石** 台积电所掌握的 3nm/2nm 先进逻辑制造工艺与 CoWoS 先进封装产能，是训练尖端大语言模型、构建人工智能超级计算集群以及研制尖端国防微电子系统的底层唯一硬件供给载体。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 98–101)]]
-> 3. **作为[[Modern Industrial Policy|现代产业政策]]投资风向标与城市[[Innovation Ecosystem|创新生态]]磁石** 在美国《[[CHIPS and Science Act|芯片法案]]》推动下，台积电在亚利桑那州投资追加至 650 亿美元；依托亚利桑那州立大学（ASU）作为锚定机构（Anchor Institution）的人才与科研网络扩张，台积电与英特尔等 24 家半导体相关企业集聚入驻，助推凤凰城跃升为全美前列高技术驱动型创新城市。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 10–11)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]
+> 3. **作为[[Modern Industrial Policy|现代产业政策]]投资风向标与城市[[Innovation Ecosystem|创新生态]]磁石** 在美国《[[CHIPS and Science Act|芯片法案]]》推动下，台积电在亚利桑那州投资追加至 650 亿美元；依托亚利桑那州立大学（ASU）作为[[Anchor Institution|锚定机构]]（Anchor Institution）的人才与科研网络扩张，台积电与英特尔等 24 家半导体相关企业集聚入驻，助推凤凰城跃升为全美前列高技术驱动型创新城市。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 10–11)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]
 > 4. **与上游设备垄断巨头构建跨国共生依附** 台积电虽然垄断了全球 92% 的先进代工制造，但其尖端产线完全依赖荷兰阿斯麦尔（ASML）极紫外光刻设备的独家供应，构成了“上游设备单向垄断 vs. 中游制造单向代工”的深层相互依赖网络。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 7)]]
 
 > [!stat-cards]- 核心规模数据
@@ -178,7 +179,7 @@ updated: 2026-10-09
 > | [[October 2022 US Semiconductor Export Controls]] | Fact (Policy) | 美国出口管制通过长臂管辖禁止台积电为特定受限实体代工先进制程芯片。 |
 > | [[Learning by Doing]] | Concept | 晶圆制造良率提升的组织化学习曲线是台积电拉大与追赶者制程成本代差的核心动力。 |
 > | [[Strategic Autonomy]] | Concept | 美欧引进台积电设厂的深层战略动因，在于摆脱对单一地缘热点的先进制程制造依赖以实现供应链自主。 |
-> | [[Research Universities]] | Concept | 作为城市与区域创新网络的锚定机构（如 ASU），为台积电等晶圆制造龙头集聚提供多级工程人才支撑。 |
+> | [[Research Universities]] | Concept | 作为城市与区域创新网络的[[Anchor Institution\|锚定机构]]（如 ASU），为台积电等晶圆制造龙头集聚提供多级工程人才支撑。 |
 > | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 剖析大学作为锚定机构吸引台积电入驻凤凰城并重塑城市创新网络的制度[[Document\|文献]]。 |
 
 ---
@@ -189,5 +190,5 @@ updated: 2026-10-09
 > - [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] — 详尽剖析台积电开创晶圆代工模式重塑全球半导体分工的经济史，揭示其先进制程垄断地位及大国产业政策争夺背后的供应链安全逻辑。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 从现代产业战略实施过程与[[Policy Conditionalities|政策附加条件]]视角，分析台积电亚利桑那 650 亿美元建厂面临的技能短缺、工会协商与生态重构挑战。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 比较分析台积电在美（650 亿美元独资）与在欧（100 亿欧元合资）的设厂决策、受助机制与制度约束，揭示其 92% 先进制程垄断与对 ASML 设备外部依赖的跨国相互依存网络。
-> - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 从高等教育与[[National Innovation System|国家创新体系]]重构视角，阐释[[Research Universities|研究型大学]]（如 ASU）作为锚定机构如何重塑城市空间并吸引台积电等龙头企业形成高技术产业集聚。
+> - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 从高等教育与[[National Innovation System|国家创新体系]]重构视角，阐释[[Research Universities|研究型大学]]（如 ASU）作为[[Anchor Institution|锚定机构]]如何重塑城市空间并吸引台积电等龙头企业形成高技术产业集聚。
 

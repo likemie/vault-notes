@@ -10,7 +10,7 @@ aliases:
 summary: "指由地理邻近的企业、大学、科研机构与地方政府在特定次国家区域内构成的互动学习网络，依赖面对面交流、隐性知识扩散与地方制度厚度培育差异化区域竞争优势。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Multi-channel Interactive Learning Model]]"
 related_theories:
   - "[[Systems of Innovation]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[In-depth Interview]]"
   - "[[Effect Size]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Regional Innovation System
@@ -176,7 +177,7 @@ updated: 2026-10-07
 > > 争论强烈的本地网络与文化嵌入是否一定会促进创新。
 > >
 > > - **区域嵌入支持者** 强调面对面社交网络与本土信任资本是隐性知识传递的关键保障。
-> > - **路径依赖与锁定批评者（Grabher, 1993）** 指出过度封闭的本地网络可能导致“认知与技术负向锁定”（Negative Lock-in），使区域沦为拒绝接纳外部颠覆性创新的封闭圈子，必须建立跨区域与全球的“知识管道”（Global Pipelines）。
+> > - **[[Path Dependence|路径依赖]]与锁定批评者（Grabher, 1993）** 指出过度封闭的本地网络可能导致“认知与技术负向锁定”（Negative Lock-in），使区域沦为拒绝接纳外部颠覆性创新的封闭圈子，必须建立跨区域与全球的“知识管道”（Global Pipelines）。
 
 > [!critique] 外部批评
 > - **概念泛化与边界模糊** 部分区域经济学者批评区域创新系统概念在政策界被过度滥用，任何设立了开发区管委会和地方大专院校的次国家区域均自称具备创新系统，导致分析解释力被稀释。

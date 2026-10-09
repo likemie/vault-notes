@@ -1,15 +1,15 @@
 ---
 title: LISA Spatiotemporal Transition
 aliases:
-  - LISA时空转移
+  - 时空转移
+  - 时空跃迁
   - LISA Spatiotemporal Transition Matrix
   - 空间转移矩阵
-  - LISA时空跃迁
 summary: "一种基于Moran散点图像限转移矩阵的探索性时空数据分析方法，通过Type0-Type3四种转移类型量化空间关联格局的惯性强度和流动性，揭示空间锁定与路径依赖特征"
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 5
+method_related_count: 6
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dcfce7"
@@ -19,7 +19,8 @@ tags:
   - method/spatiotemporal
 related_concepts:
   - "[[Hypothesis]]"
-related_theories: []
+related_theories:
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[LISA Time Path]]"
@@ -31,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-06-12T18:30:00
+updated: 2026-10-09
 ---
 
 # LISA Spatiotemporal Transition
@@ -170,7 +171,7 @@ updated: 2026-06-12T18:30:00
 ## 适用场景
 
 > [!success]
-> 适合回答"空间格局的惯性有多强？是否存在路径依赖和空间锁定？不同子系统（如教育、科技、人才）的空间锁定强度有何差异？"等问题。尤其适用于：
+> 适合回答"空间格局的惯性有多强？是否存在[[Path Dependence|路径依赖]]和空间锁定？不同子系统（如教育、科技、人才）的空间锁定强度有何差异？"等问题。尤其适用于：
 > - 检验区域发展是否存在"富者愈富、穷者愈穷"的马太效应
 > - 评估政策干预是否改变了既有的空间格局
 > - 比较不同发展维度的空间流动性和固化程度
@@ -199,4 +200,4 @@ updated: 2026-06-12T18:30:00
 ## 使用此方法的研究
 
 > [!example]
-> - [[Argument_Fan_Song_Zhai_2024_RSEE]] — 使用LISA时空转移分析中国EST耦合协调度的空间格局稳定性，发现Type0占80.2%（$SC = 0.849$，$p = 0.089$），证明存在显著的空间锁定效应；进一步分教育、科技、人才三个子系统对比，发现科技子系统锁定最强（Type0 = 0.814）、人才最弱（Type0 = 0.743）
+> - [[Argument_Fan_Song_Zhai_2024_RSEE|Fan et al. (2024)]] — 使用LISA时空转移分析中国EST耦合协调度的空间格局稳定性，发现Type0占80.2%（$SC = 0.849$，$p = 0.089$），证明存在显著的空间[[Path Dependence|锁定效应]]；进一步分教育、科技、人才三个子系统对比，发现科技子系统锁定最强（Type0 = 0.814）、人才最弱（Type0 = 0.743）

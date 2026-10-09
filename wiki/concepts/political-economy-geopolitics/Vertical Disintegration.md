@@ -14,7 +14,7 @@ aliases:
 summary: "纵向离散指原本整合在大型垄断企业内部的研发、设计、制造与封装等全价值链环节，解构并分散至专业化设计公司、代工厂、设备商与测试商等独立实体的产业组织形态；该结构赋予产业敏捷产品创新优势，但导致跨环节协调失灵、长周期基础研究萎缩，并在当代演化为极度地理集中与单点咽喉依赖的跨国多阶段网络，使单一国家推行封闭式国家冠军策略在现代彻底失效。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Variable]]"
 related_theories:
+  - "[[Path Dependence]]"
   - "[[Technological Trajectories]]"
 related_methods:
   - "[[Correlational Research]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Vertical Disintegration
@@ -143,7 +144,7 @@ updated: 2026-10-07
 > 探讨纵向专业化分工在提升短期模块生产效率的同时，为何削弱了私营部门自发探索跨学科颠覆性系统架构的动力。
 
 > [!claim] [[Erica Fuchs|Fuchs, E. R. H.]]
-> **纵向离散驱动的技术锁定与协调真空** 纵向一体化巨头（如[[Bell Labs|贝尔实验室]]）解体后，高科技产业演进为高度分散的离散格局。独立的设计企业无力自行改造代工厂的底层物理工艺，代工厂亦不愿为未经验证的前沿设计承担改造成本昂贵产线的风险；这种分散结构导致各个体理性汇聚为全产业链的集体保守，使行业深陷既有渐进改良轨道，无法自发实现跨价值链的[[Paradigm|范式]]跃迁。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144–1145)]]
+> **纵向离散驱动的[[Path Dependence|技术锁定]]与协调真空** 纵向一体化巨头（如[[Bell Labs|贝尔实验室]]）解体后，高科技产业演进为高度分散的离散格局。独立的设计企业无力自行改造代工厂的底层物理工艺，代工厂亦不愿为未经验证的前沿设计承担改造成本昂贵产线的风险；这种分散结构导致各个体理性汇聚为全产业链的集体保守，使行业深陷既有渐进改良轨道，无法自发实现跨价值链的[[Paradigm|范式]]跃迁。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144–1145)]]
 
 ---
 

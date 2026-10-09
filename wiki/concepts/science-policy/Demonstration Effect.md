@@ -8,7 +8,7 @@ aliases:
 summary: "指公共部门或先导机构通过在前沿重大任务中公开部署、测试与运行新型复杂技术，向潜在商业用户与产业界展示技术可行性与可靠性，从而消除信息不对称、化解认知疑虑并加速市场采纳的机制。"
 type: concept
 domain: "science-policy"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -46,10 +46,12 @@ related_persons:
   - "[[Jerome E. Schnee]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
+related_theories:
+  - "[[Path Dependence]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Demonstration Effect
@@ -100,7 +102,7 @@ updated: 2026-10-08
 > [!feature] 示范效应的作用维度与构成要素
 > - **高可见性任务场景** 依托具有国家级关注度与社会影响力的重大工程或城市公共安全场景，确保技术应用成果能够广泛触达产业界、政府系统与公众视野。
 > - **极端环境下的[[Reliability|可靠性]]与实效验证** 在容错率极低的严苛任务（如载人航天、枪支暴力治理）中稳定运行，向外界证明新技术在连续性、抗干扰与鲁棒性方面已超越传统替代方案。
-> - **认知破冰与[[Paradigm|范式]]转移** 打破企业高管与公共官僚对传统人工或低效流程的路径依赖，促成管理者敢于让算法软件接管核心业务流程。
+> - **认知破冰与[[Paradigm|范式]]转移** 打破企业高管与公共官僚对传统人工或低效流程的[[Path Dependence|路径依赖]]，促成管理者敢于让算法软件接管核心业务流程。
 > - **破除体制避险与跨越[[Innovation Desert|创新荒漠]]** 以无可辩驳的可测量物理成果（如降低凶杀率、缩减排队时间）击碎官僚系统的推诿免责心态与特权阶层的空头道德指责。
 > - **超前应用方向指引** 领先于普通市场与体制两至三年探索前沿系统架构，为民间产业与公共治理数字化转型指明前进路径。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 10–11)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 174–178)]]
 

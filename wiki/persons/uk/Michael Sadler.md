@@ -8,7 +8,7 @@ summary: "英国比较教育先驱与历史主义学派代表人物，主持教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 57
+person_related_count: 58
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Realism in International Relations]]"
 related_theories:
   - "[[Situative Perspective]]"
+  - "[[Path Dependence]]"
   - "[[Wight's Three Traditions of International Theory]]"
   - "[[Governing at a Distance]]"
 related_methods:
@@ -208,7 +209,7 @@ updated: 2026-10-09
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 阐明萨德勒创设 [[Office of Special Inquiries and Reports|OSIR]] 并以德国为参照系开创比较研究，推动比较教育在英国大学率先扎根并由伦敦教育学院继承的制度史贡献（pp. 88, 89–90）。
 > - [[Argument_Cowen_2009_HistoryCreation\|Cowen, 2009a]] — 批判比较教育学对萨德勒的肖像学崇拜与传统的发明，指出其 1900 年演讲造成的混乱远多于解答。
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 将萨德勒定位为现实主义国关传统在比较教育中的典型代拟节点，解析其背后的工业自保焦虑。
-> - [[Argument_Cowen_2023_CE\|Cowen, 2023]] — 批判比较教育学科对萨德勒“实用价值”格言的长期路径依赖，指出该学科应超越对这种古老辞藻的重复。
+> - [[Argument_Cowen_2023_CE\|Cowen, 2023]] — 批判比较教育学科对萨德勒“实用价值”格言的长期[[Path Dependence|路径依赖]]，指出该学科应超越对这种古老辞藻的重复。
 > - [[Argument_Cowen_2009_CE\|Cowen, 2009b]] — 评价萨德勒关于外部力量与因素的洞察，批判其后续发展中沦为地理区域细节堆砌的[[Epistemology\|认识论]]盲区。
 > - [[Argument_Rappleye_2006_RCIE\|Rappleye, 2006]] — 指出学界虽然继承了萨德勒关于情境重要的口号，但一个世纪以来始终没有提出去拆解情境中特定要素的系统性操作方法。
 

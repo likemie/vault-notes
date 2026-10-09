@@ -8,7 +8,7 @@ aliases:
 summary: "由卡洛塔·佩雷斯（Carlota Perez）与克里斯·弗里曼（Chris Freeman）共同开创的演化经济学重大理论框架；指由突破性通用技术集群扩散所驱动的、对整个经济社会的生产组织、成本结构、技术轨迹及制度框架产生深远变革的元主导模式；核心揭示激进技术创新的快速扩散必然导致与旧社会制度框架的严重结构失调与“制度滞后”，只有通过教育、产业组织、法律与公共治理的多样化试错与深度制度调适，才能实现新技术范式在全社会的充分吸纳与繁荣。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Technological Trajectories]]"
   - "[[Systems of Innovation]]"
+  - "[[Path Dependence]]"
 related_persons:
   - "[[Joseph Schumpeter]]"
   - "[[Immanuel Kant]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Techno-economic Paradigm
@@ -106,7 +107,7 @@ updated: 2026-10-08
 >
 > **应用实例** 20 世纪 70 至 80 年代微电子革命席卷全球时，传统机械工业工人严格的单一工种职业壁垒使得计算机辅助设计（CAD）和数控机床难以直接发挥效能，唯有推行多工种轮岗培训与打破旧工会工种界限的国家（如日本），才能率先消化新技术。
 
-> [!theory-proposition] 命题二｜新范式导入期的试错过程极度依赖制度多样性以避免过早技术锁定
+> [!theory-proposition] 命题二｜新范式导入期的试错过程极度依赖制度多样性以避免过早[[Path Dependence|技术锁定]]
 > **解释** 新技术-经济范式的扩散并非确定性的一维演进，而是一个充满高度不确定性的试错过程（trial and error process）。维持宏观制度环境、组织形式与微观技术路线的多样性，能够为全社会提供巨大的演化优势；过早被单一技术标准或管理模式“锁定”（lock-in）将引发毁灭性的技术单一栽培（technological monoculture）危机。（[[Argument_Freeman_1995_CJE|Freeman, 1995, pp. 18–19]]）
 >
 > **应用实例** 在[[Informationalization|信息化]]基础设施铺设初期，国家公共政策必须维持多元竞争环境与多源科研资助，支持企业探索[[Lean Production|精益生产]]、看板制等不同管理体制，而非由跨国资本单一推行标准化流水线。

@@ -7,7 +7,7 @@ aliases:
 summary: "指国际组织在面临教育技术赤字与未来不确定性时，将其治理权威建立在对教育未来的期许与危机规避允诺之上的正当化机制。国际组织将未来危机描绘为当下脆弱现实的逻辑延伸，并向各国政府推销即可采取行动的循证方案以生产确定性。"
 type: concept
 domain: "comparative-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Policy Ambiguity]]"
   - "[[Variable]]"
 related_theories:
+  - "[[Path Dependence]]"
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Qualitative Research]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Promissory Legitimacy
@@ -88,7 +89,7 @@ updated: 2026-10-07
 > | **时间锚点** | 面向未来（Future-Oriented / Promissory） | 面向过去与当下（Ex-Post / Historical） | 面向既有规程（Procedural / Ex-Ante） |
 > | **正当性基石** | 对未来危机预测的科学权威与避险承诺 | 经济增长率、就业率等实证物质回报 | 民主选举程序、宪法授权与主权管辖权 |
 > | **核心维系工具** | 危机预测模型、未来技能雷达、即可行动证据清单 | 统计审计年报、财政盈余账册、工程验收指标 | 法定听证会、投票决议、主权法律法令 |
-> | **应对不确定性** | 将未来投射为当下延伸，以行动消除焦虑 | 依赖过去成功经验进行路径依赖式外推 | 严格恪守既定程序标准以实现法律免责 |
+> | **应对不确定性** | 将未来投射为当下延伸，以行动消除焦虑 | 依赖过去成功经验进行[[Path Dependence\|路径依赖]]式外推 | 严格恪守既定程序标准以实现法律免责 |
 > | **代表性治理主体** | [[OECD\|经合组织]]（OECD）、世界银行、跨国咨询公司 | 主权国家经济部门、中央银行、社会保障局 | 国家议会、各级立法机构、宪法法院 |
 
 ---

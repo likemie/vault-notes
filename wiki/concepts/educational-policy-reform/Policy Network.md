@@ -12,7 +12,7 @@ aliases:
 summary: "由政府部门、中介组织、智库、高校与私有资本等多元行动者交织构成的网状治理结构。在批判政策社会学中揭示国家作为市场缔造者与私营中介协同重构再分配与理念编排的异层治理，在实证治理中测度政务网络规模与互动深度非线性解耦。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 60
+related_count: 61
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -57,6 +57,7 @@ related_concepts:
   - "[[Research Impact]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Network Ethnography]]"
@@ -186,7 +187,7 @@ updated: 2026-10-09
 ### 命题二　表演性问责与制度性死锁深度剥离一线专业自主权
 
 > [!concept-lens] 网状话语结合行政规制时的硬性[[Disciplina and Doctrina\|规训]]效应
-> 探讨理念编排一旦与课程认证、质量审计及财政拨款挂钩时，对微观实践者产生的制度锁定效应。
+> 探讨理念编排一旦与课程认证、质量审计及财政拨款挂钩时，对微观实践者产生的制度[[Path Dependence|锁定效应]]。
 
 > [!claim] Skourdoumbis, A.; Rowe, E.
 > **表演性问责与行政死锁对专业自主权的蚕食** 当政策网络的理念编排结合了官方监管与资金拨付手段时，会迅速演变为一套自循环的惩罚性问责链条，极大限制了基层教育者的专业自由裁量权。政策执行不再是单纯的行政指令，而是由课程认证附表强制介入、质量保证委员会常态审计以及绩效资金挂钩组成的刚性死锁，驱使[[Normal School\|师范教育]]院校和中小学将教学降格为满足指标的合规表演。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 11)]]

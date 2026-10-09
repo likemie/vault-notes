@@ -5,7 +5,7 @@ aliases:
 summary: "一种围绕国家机器权力最大化而组织的社会系统，在苏联表现为党对国家和国家对社会的全面控制，通过中央计划经济和马克思列宁主义意识形态运作，其内在逻辑与信息化所要求的开放网络和水平协作存在结构性不相容"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[State Vertical]]"
   - "[[Variable]]"
 related_theories:
+  - "[[Path Dependence]]"
   - "[[Informationalism]]"
 related_methods: []
 related_persons:
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Soviet Statism
@@ -67,7 +68,7 @@ updated: 2026-10-08
 > [!line-a] 官僚逻辑与创新负激励
 > 苏联将管理指令经济的官僚逻辑应用于科技发展。五年计划由缺乏技术判断力的[[Bureaucracy|官僚制]]定，系统性风险规避使高风险创新项目不被鼓励。更严重的是，以总产值为核心的考核制度（val accounting system）将工资奖金与总产出而非利润率挂钩，采用新技术降低成本反而会带来下一轮更高的计划指标，企业和个人因此没有创新激励（pp.5–6）。
 
-> [!line-b] 技术保守主义与对西方的路径依赖
+> [!line-b] 技术保守主义与对西方的[[Path Dependence|路径依赖]]
 > 冷战零和思维导致苏联过度追求与西方技术"同步"。在计算机领域，苏联本有自己的 BESM-6 等研发路线，但在军方压力下转向全面采用 IBM 360 系统，原有独立设计被边缘化。此后，KGB 主导的工业间谍和逆向工程成为技术获取的主要方式，但逆向工程永远落后于前沿技术迭代，苏联由此陷入对西方的技术依赖（pp.6–7）。
 
 > [!line-a] 封闭信息回路与[[State Vertical\|国家垂直结构]]

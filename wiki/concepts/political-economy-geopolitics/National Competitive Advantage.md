@@ -8,7 +8,7 @@ aliases:
 summary: "波特提出的经典战略经济学理论，认为国家竞争优势并非由先天生产要素禀赋决定，而是通过高度本地化的产业集群、有效国内竞争、高标准需求与创新生态所共同创造与维持；在当代地缘经济学与现代产业政策中，该理论被进一步拓展为国家通过战略性干预主动重塑关键供应链韧性与科技主权的核心地缘想象与政策基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -57,6 +57,7 @@ related_facts:
   - "[[International Reading Association]]"
   - "[[Infrastructure Investment and Jobs Act]]"
   - "[[Inflation Reduction Act]]"
+  - "[[Regional Technology and Innovation Hubs]]"
   - "[[CHIPS and Science Act]]"
 related_arguments:
   - "[[Argument_Moisio_2022_Springer]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-07
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # National Competitive Advantage
@@ -200,7 +201,7 @@ updated: 2026-10-07
 > > 争论国家优先培育“超级冠军城市与技术枢纽”是否会加剧广大内陆与边缘区域的经济衰退与政治不满。
 > >
 > > - **集群集聚支持派** 强调前沿创新离不开极高密度的科研与产业集聚。
-> > - **区域公平与包容增长派** 批评资源过度集中导致空间撕裂，主张通过区域技术枢纽（Tech Hubs）与社区利益计划推动更均衡的区域发展。
+> > - **区域公平与包容增长派** 批评资源过度集中导致空间撕裂，主张通过区域技术枢纽（[[Regional Technology and Innovation Hubs|Tech Hubs]]）与社区利益计划推动更均衡的区域发展。
 
 ---
 
@@ -209,7 +210,7 @@ updated: 2026-10-07
 > [!finding-cards] 经验证据与政策实践表现
 > - **国家冠军城市与区域[[Innovation Hub|创新枢纽]]** 国家将公共研发、战略资本与交通基建大规模倾斜于特定大都市圈，培育具备全球控制力的“超级创新枢纽”。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 28–29)]]
 > - **[[Economic Patriotism|经济爱国主义]]与制造回流** 通过立法将国家认同与特定领土内的产业投资紧密绑定，动员超过 5000 亿美元私人投资投向本土先进半导体与清洁能源制造。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 6)]]
-> - **区域技术枢纽（Tech Hubs）与空间再平衡探索** 美国通过《芯片与科学法》指定 31 个国家技术枢纽，试图在传统内陆与中西部地区复制产业竞争优势，平衡空间极化压力。
+> - **区域技术枢纽（[[Regional Technology and Innovation Hubs|Tech Hubs]]）与空间再平衡探索** 美国通过《芯片与科学法》指定 31 个国家技术枢纽，试图在传统内陆与中西部地区复制产业竞争优势，平衡空间极化压力。
 
 ---
 

@@ -5,7 +5,7 @@ aliases:
 summary: "国家战略力量、公共福利与民主合法性同前沿科技与软件工程深度绑定的政治经济体制形态。强调国家战略与技术共同体结盟，以软件硬实力与人工智能威慑替代原子时代工业化防御；破除胜者谬误、大构想饥荒与创新荒漠，依托审美品味、创始人长期主义、全员所有权社会与实质伦理美德，在微观工程思维与宏观国家使命中重构自由民主政体的地缘优势与社会治理效能。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 117
+related_count: 118
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -82,6 +82,7 @@ related_concepts:
 related_theories:
   - "[[End of History Thesis]]"
   - "[[Legitimation Crisis]]"
+  - "[[Path Dependence]]"
   - "[[Strategic Bargaining Theory]]"
   - "[[Organizational Culture]]"
 related_methods:
@@ -227,7 +228,7 @@ updated: 2026-10-09
 > - **以软件为中枢的现代[[Hard Power|硬实力]]与战略威慑（Software Hard Power & [[AI Deterrence]]）** 颠覆硬件主导的工业化思维，确立软件在全域感知、指挥协同与精准打击中的核心主导地位。以先进算法模型与自主致命软件为中枢的人工智能威慑替代原子时代的互保机制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 27–28)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 44–46)]]
 > - **政权合法性与技术供给效能的内在绑定（Legitimacy Tied to Technological Delivery）** 依据社会理论学者[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas）的[[Legitimation Crisis|合法化危机]]理论，民主政体的政治公信力依赖于持续为公民提供安全、经济增长与高效公共服务；技术红利若无法转化为公共福利，将直接诱发政权合法性危机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 8–11)]]
 > - **破除[[Winner's Fallacy|胜者谬误]]与克服道德逃避（Overcoming the Winner's Fallacy & Moral Evasion）** 坚决抵制将历史阶段性胜利误读为永久终结的自满，批判科技精英沉溺于消费软件而拒绝国家防务合作的道德疏离，强调持久和平必须建立在让对手明确预期的大国威慑筹码之上。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–35)]]
-> - **破解同盟防务外包与[[Bonsai Army|盆景军队]]困局（Overcoming Bonsai Armies & Alliance Self-Reliance）** 推动欧洲与日本等传统盟友告别对单一保护伞的路径依赖，摆脱兵力空心化的盆景军队状态，运用分布式低成本算法蜂群与敏捷软件重构区域防卫纵深。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 40–43)]]
+> - **破解同盟防务外包与[[Bonsai Army|盆景军队]]困局（Overcoming Bonsai Armies & Alliance Self-Reliance）** 推动欧洲与日本等传统盟友告别对单一保护伞的[[Path Dependence|路径依赖]]，摆脱兵力空心化的盆景军队状态，运用分布式低成本算法蜂群与敏捷软件重构区域防卫纵深。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 40–43)]]
 > - **克服[[Big Idea Famine|大构想饥荒]]与重振[[Total Factor Productivity|全要素生产率]]（Reversing the Big Idea Famine & TFP Stagnation）** 引导全社会资本与工程人才从低风险广告点击与轻量级社交应用，转向受控核聚变、先进机器人、生命科学与量子计算等深层物理突破。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 48–51)]]
 > - **创设国家技术和平队以消解公共部门[[Innovation Desert|创新荒漠]]（National Technological Peace Corps）** 建立科技人才定期轮岗服务公共部门与防卫体系的制度化纽带，将一线顶尖软件工程实践制度化导入政府、司法、医疗与国防系统。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 52–54)]]
 > - **解构[[Moral Dualism|道德二元论]]与达沃斯共识迷思（Dismantling Moral Dualism & Davos Consensus）** 摒弃将商业技术视作纯洁、将防务研发视作原罪的虚伪认知，确立唯有捍卫自身能力的民主政体才能享有真正的伦理与和平。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 38–40)]]

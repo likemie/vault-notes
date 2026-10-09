@@ -7,7 +7,7 @@ aliases:
 summary: "新古典福利经济学核心概念，指由于公共品、外部性、信息不对称与不完全竞争导致自由市场价格机制无法实现帕累托最优资源配置；在科技政策中构成了传统研发资助与产业政策（集聚外部性、干中学效应）的基准依据，但在演化经济学与当代地缘政治产业政策实践中，该框架因无法指引演化方向并被国家安全与供应链保险动机所超越，成为理论反思与扩展的核心对象。"
 type: concept
 domain: "science-policy"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -40,6 +40,7 @@ related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Systems of Innovation]]"
   - "[[Technological Trajectories]]"
+  - "[[Path Dependence]]"
 related_persons:
   - "[[Mariana Mazzucato]]"
   - "[[Rainer Kattel]]"
@@ -66,7 +67,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-06
+updated: 2026-10-09
 ---
 
 # Market Failure
@@ -161,7 +162,7 @@ updated: 2026-10-06
 > 探讨新古典市场失灵理论为何在面对重大社会挑战与颠覆性技术革命时陷入被动修补困境。
 
 > [!claim] Mazzucato & Kattel (2018)
-> **市场失灵修补论的方向性失明** 市场失灵框架立足于静态均衡[[Hypothesis|假设]]，其政策逻辑局限于识别知识外部性导致的私人研发投资缺口，进而通过供给端补贴与税收抵免平整竞争场地；但该理论对技术演化的路径依赖与非中性缺乏认知，完全无法为有限公共资源的投向提供战略方向（[[Directionality of Innovation|directionality]]），因而无法指导国家主动应对气候变化与系统性技术变革。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]
+> **市场失灵修补论的方向性失明** 市场失灵框架立足于静态均衡[[Hypothesis|假设]]，其政策逻辑局限于识别知识外部性导致的私人研发投资缺口，进而通过供给端补贴与税收抵免平整竞争场地；但该理论对技术演化的[[Path Dependence|路径依赖]]与非中性缺乏认知，完全无法为有限公共资源的投向提供战略方向（[[Directionality of Innovation|directionality]]），因而无法指导国家主动应对气候变化与系统性技术变革。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]
 
 ---
 
@@ -278,7 +279,7 @@ updated: 2026-10-06
 > | [[Modern Industrial Policy]] | 概念 | 超越微观外部性纠偏、转向以国家安全与产业转型为目标的 21 世纪产业政策范式。 |
 > | [[Learning by Doing]] | 概念 | 经典高技术制造业中由于经验外溢与良率攀升产生的动态规模经济市场失灵依据。 |
 > | [[Agglomeration Externalities]] | 概念 | 先进制造生态网络与空间外溢效应，构成传统产业政策干预的外部性论据。 |
-> | [[Evolutionary Economics]] | 理论 | 彻底解构新古典市场失灵静态均衡假定、提供动态能力与路径依赖分析的底层理论。 |
+> | [[Evolutionary Economics]] | 理论 | 彻底解构新古典市场失灵静态均衡假定、提供动态能力与[[Path Dependence\|路径依赖]]分析的底层理论。 |
 > | [[CHIPS and Science Act]] | 事实 | 兼具纠正半导体干中学失灵与达成国家地缘安全保险双重目标的现代产业政策立法。 |
 > | [[Important Projects of Common European Interest]] | 事实 | 欧盟以放宽国家援助审查为杠杆弥补前沿微电子研发与初次工业部署高额市场资金缺口的关键政策工具。 |
 

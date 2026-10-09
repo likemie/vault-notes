@@ -8,7 +8,7 @@ aliases:
 summary: "Etzkowitz 与 Leydesdorff 于 1995 年提出的创新系统理论，阐明大学、产业与政府在知识经济中突破单向线性分工、形成非线性反馈与职能重叠的动态螺旋；历经创业型大学、产业公私联合体到国家地缘战略安全化四代演进，并揭示了宏观使命整合与微观组织碎片化之间的深层治理张力。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 72
+theory_related_count: 77
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -79,6 +79,7 @@ related_facts:
   - "[[National Science and Technology Council]]"
   - "[[CHIPS and Science Act]]"
   - "[[Joint University Microelectronics Program 2.0]]"
+  - "[[Albany NanoTech Complex]]"
   - "[[Manhattan Project]]"
   - "[[MIT Radiation Laboratory]]"
   - "[[Science and Technology Centers]]"
@@ -96,7 +97,6 @@ related_arguments:
   - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Bulfone_2024_IAI]]"
-  - "[[Argument_Hall(Ed.)_2025_Springer]]"
   - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
 confidence: high
 status: active
@@ -139,7 +139,7 @@ updated: 2026-10-09
 > - **2025 — 公私伙伴关系（[[Public-Private Partnership in Research|PPP]]）制度化分期** 拉明（Ramming）从企业[[Academic Engagement Team|学术参与团队]]视角提炼半导体行业三代公私伙伴关系（Public-Private Partnership, PPP）路径（[[Universal Parallel Computing Research Centers|UPCRC]] 企业先行 → [[Semiconductor Research Corporation|SRC]] 行业联盟 → [[National Science and Technology Council|NSTC]] 国家制度化），展现三重螺旋从松散项目向持久法制架构的演变。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233–236)]]
 > - **2025 — 微观组织碎片化张力修正** 博坎富索与霍尔（Boccanfuso & Hall）揭示宏观三重螺旋交织与大学内部微观碎片化之间的巨大张力：大学内部产学参与接口高度分散在学院、科研处与发展部门之间，中心办公室平均仅覆盖 12 项职能中的 3.5 项，大学内部实际上存在协调各部门的“微型三重螺旋”。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 52–53, 64–65)]]
 > - **2025 — [[Academic Health System|学术健康系统]]监管者角色修正** 斯威克与琼斯（Swick & Jones）提出在高度规制的医学与健康领域，政府并非平等平行的研发合作伙伴，而是制定强制法律与伦理标准的监管者，表明三重螺旋在特定行业需作结构性修正。[[Argument_Swick_Jones_2025_AcademicHealthSystems|(Swick & Jones, 2025, pp. 188–189)]]
-> - **2026 — 国家半导体战略重构与地缘安全化第四代三螺旋** [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]]与樊春良（2026）论证指出，在地缘科技博弈与尖端芯片供应链断裂风险下，以《[[CHIPS and Science Act|芯片与科学法案]]》为标志的三重螺旋进入国家使命导向与[[Securitization of Technology|技术安全化]]阶段：政府从被动资助者跃升为战略总设计师与安全监管者，大学通过领衔跨校联盟（[[Joint University Microelectronics Program 2.0|JUMP 2.0]] 14 校攻关）与共置 300 毫米晶圆中试线（Albany NanoTech / MIT.nano）成为国家网络枢纽，企业则通过巨额配资与联合中心深度嵌入，共同构建起旨在弥合 [[Technology Readiness Level|TRL]] 4–6 转化鸿沟的国家级战略协同网络。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 22–26)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 20–29)]]
+> - **2026 — 国家半导体战略重构与地缘安全化第四代三螺旋** [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]]与樊春良（2026）论证指出，在地缘科技博弈与尖端芯片供应链断裂风险下，以《[[CHIPS and Science Act|芯片与科学法案]]》为标志的三重螺旋进入国家使命导向与[[Securitization of Technology|技术安全化]]阶段：政府从被动资助者跃升为战略总设计师与安全监管者，大学通过领衔跨校联盟（[[Joint University Microelectronics Program 2.0|JUMP 2.0]] 14 校攻关）与共置 300 毫米晶圆中试线（[[Albany NanoTech Complex|Albany NanoTech]] / MIT.nano）成为国家网络枢纽，企业则通过巨额配资与联合中心深度嵌入，共同构建起旨在弥合 [[Technology Readiness Level|TRL]] 4–6 转化鸿沟的国家级战略协同网络。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 22–26)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 20–29)]]
 
 ---
 
@@ -186,7 +186,7 @@ updated: 2026-10-09
 > [!theory-proposition] 命题五｜在国家关键战略技术攻关中，三螺旋演进为由战略使命统领、跨校协同网络与中试共置平台支撑的国家安全网络[[Paradigm|范式]]
 > **解释** 在尖端半导体等资本与技术密集型产业中，传统分散的“单校-单企”双边合作已无法应对后摩尔时代高昂的研发门槛与供应链断链危机。三重螺旋在国家安全化驱动下发生深刻重构：政府通过国家战略立法（如《[[CHIPS and Science Act|芯片法案]]》）设立技术路线图与专项基金；产业界通过联合出资（[[Semiconductor Research Corporation|SRC]] 模式）与深度捐资反哺大学；大学则从单纯的知识供给者演进为跨区域协同攻关网络的“组织中枢”（如 [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 14 校联盟），并通过与产业人员在 300 毫米晶圆中试线中“空间共置”，共同跨越 [[Technology Readiness Level|TRL]] 4–6 [[Valley of Death|死亡之谷]]。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 22–24)]]
 >
-> **应用实例** 由 [[DARPA]] 与 SRC 联合资助的 JUMP 2.0 计划中，宾夕法尼亚州立大学作为牵头高校组织全美 14 所顶尖大学成立微电子系统异构集成中心（CHIMES），联合数十家主流半导体企业开展前竞争协同攻关；同时纽约州立大学 Albany NanoTech 与麻省理工学院 MIT.nano 提供产学共享的先进制程洁净室中试环境，成功打通了从学术原型到代工厂放大的工程闭环。
+> **应用实例** 由 [[DARPA]] 与 SRC 联合资助的 JUMP 2.0 计划中，宾夕法尼亚州立大学作为牵头高校组织全美 14 所顶尖大学成立微电子系统异构集成中心（CHIMES），联合数十家主流半导体企业开展前竞争协同攻关；同时纽约州立大学 [[Albany NanoTech Complex|Albany NanoTech]] 与麻省理工学院 MIT.nano 提供产学共享的先进制程洁净室中试环境，成功打通了从学术原型到代工厂放大的工程闭环。
 
 ---
 

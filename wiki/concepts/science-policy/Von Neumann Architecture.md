@@ -12,7 +12,7 @@ aliases:
 summary: "约翰·冯·诺依曼于1945年提出的经典电子通用数字计算机体系结构范式；以存储程序控制与运算器、控制器、存储器、输入输出设备五大部件为核心，实现了指令与数据的同等存储和软硬件彻底解耦；二战后美国军政资助方坚持公开出版其技术报告，促成全美及全球早期计算机工业群（IAS派生机群）的去中心化繁荣，奠定了信息通用目的技术的底层硬件标准"
 type: concept
 domain: "science-policy"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,7 +29,8 @@ related_concepts:
   - "[[Corporate University]]"
   - "[[Co-invention]]"
   - "[[Sage]]"
-related_theories: []
+related_theories:
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Perpetual Inventory Method]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Von Neumann Architecture
@@ -194,4 +195,4 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 详尽考据二战后美国陆海空三军与民政科研机构资助普林斯顿 [[Institute for Advanced Study|IAS]] 计算机工程的历史，论证冯·诺依曼架构的非专有公开出版如何避免了技术锁定并奠定现代计算机产业生态。
+> - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 详尽考据二战后美国陆海空三军与民政科研机构资助普林斯顿 [[Institute for Advanced Study|IAS]] 计算机工程的历史，论证冯·诺依曼架构的非专有公开出版如何避免了[[Path Dependence|技术锁定]]并奠定现代计算机产业生态。

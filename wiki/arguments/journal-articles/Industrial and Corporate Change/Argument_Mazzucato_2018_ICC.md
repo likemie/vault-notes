@@ -46,6 +46,7 @@ related_theories:
   - "[[Evolutionary Economics]]"
   - "[[ROAR Framework]]"
   - "[[Systems of Innovation]]"
+  - "[[Path Dependence]]"
   - "[[Technological Trajectories]]"
   - "[[Educational Governance Framework]]"
   - "[[Punctuated Equilibrium Theory]]"
@@ -79,7 +80,7 @@ title: "Argument_Mazzucato_2018_ICC"
 argument_key: "Argument_Mazzucato_2018_ICC"
 argument_display_title: "Mission-oriented innovation policies: challenges and opportunities"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -114,7 +115,7 @@ argument_related_color: "#dbeafe"
 > | **[[Wicked Problem\|棘手问题理论]]** | 说明气候、老龄化与贫困等21世纪挑战的复杂性、系统交织性与多因性，为组合式探索与跨部门协同提供问题学依据。（pp. 803–804） |
 
 > [!warrant]- 理论如何支撑论证
-> 理论框架植根于[[Evolutionary Economics|演化经济学]]与国家[[Systems of Innovation|创新系统理论]]，将创新活动还原为充满内在不确定性、路径依赖与累积性学习的动态探索过程。新古典[[Market Failure|市场失灵理论]]将市场视为天然最优的自发实体，导致公共政策被动局限于修补外部性、提供纯公共品或消除信息不对称；而市场塑造与共创理论揭示了市场本身是由公共与私人力量共同演化建构的制度景观。ROAR 框架在此基础上搭建起从宏观战略方向设置、中观探索型公共组织建设，到微观项目动态评估与公私利益结构重塑的完整逻辑桥梁。（pp. 806–810）
+> 理论框架植根于[[Evolutionary Economics|演化经济学]]与国家[[Systems of Innovation|创新系统理论]]，将创新活动还原为充满内在不确定性、[[Path Dependence|路径依赖]]与累积性学习的动态探索过程。新古典[[Market Failure|市场失灵理论]]将市场视为天然最优的自发实体，导致公共政策被动局限于修补外部性、提供纯公共品或消除信息不对称；而市场塑造与共创理论揭示了市场本身是由公共与私人力量共同演化建构的制度景观。ROAR 框架在此基础上搭建起从宏观战略方向设置、中观探索型公共组织建设，到微观项目动态评估与公私利益结构重塑的完整逻辑桥梁。（pp. 806–810）
 
 ---
 
@@ -366,7 +367,7 @@ argument_related_color: "#dbeafe"
 > [!warning] 原文自述的理论与政策局限
 > - **复杂难题政策工具箱处于探索期** 虽然使命导向政策在冷战工程领域有丰富案例，但在应对不平等与可持续发展等[[Wicked Problem|复杂社会难题]]时，超越[[Market Failure|市场失灵]]的新型工具箱仍需实践检验。（pp. 804–805）
 > - **社会使命选择的民主合法性挑战** 社会使命的界定极具价值争议性，如何构建常态化的公民审议与民主协商机制以确保方向设定的合法性仍需深入研究。（p. 809）
-> - **动态[[Public Value|公共价值]]测量工具匮乏** 公共价值与系统转型溢出效应的测量体系尚不完善，现有行政评估仍严重受制于静态[[Cost-Benefit Analysis|成本收益分析]]（CBA）的路径依赖。（pp. 809–810）
+> - **动态[[Public Value|公共价值]]测量工具匮乏** 公共价值与系统转型溢出效应的测量体系尚不完善，现有行政评估仍严重受制于静态[[Cost-Benefit Analysis|成本收益分析]]（CBA）的[[Path Dependence|路径依赖]]。（pp. 809–810）
 > - **公私风险收益共享契约的政治阻力** 在公私合作中落实股权保留、特许权提成与价格管制等共享机制，在现实政治与法律层面面临既得利益集团的强烈抵制。（pp. 809–810）
 
 ---

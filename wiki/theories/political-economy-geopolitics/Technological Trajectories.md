@@ -7,7 +7,7 @@ aliases:
 summary: "由 Dosi 与 Pavitt 奠基的演化经济学核心理论，指技术变迁沿特定范式方向进行累积性、不可逆与路径依赖的演进；阐明技术来源、需求与专有性塑造产业异质性，以及军工首发采购、反垄断规制与嵌入型网络治理如何引导并协同新兴通用技术轨道的跨国分叉与起飞。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 63
+theory_related_count: 64
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Second-Sourcing]]"
   - "[[Network Governance]]"
 related_theories:
+  - "[[Path Dependence]]"
   - "[[Evolutionary Economics]]"
   - "[[Systems of Innovation]]"
   - "[[Bounded Rationality]]"
@@ -89,7 +90,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-11
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Technological Trajectories
@@ -99,7 +100,7 @@ updated: 2026-10-08
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 解释不同产业与技术系统变迁的方向、速率与累积演进路径，揭示为何技术变革不是完全随机的自由探索，而是受制于特定知识基础、用户需求与制度规则的“轨道约束”与“路径依赖”。[[Argument_Pavitt_1984_RP|(Pavitt, 1984, pp. 343–345)]]
+> - **解释对象** 解释不同产业与技术系统变迁的方向、速率与累积演进路径，揭示为何技术变革不是完全随机的自由探索，而是受制于特定知识基础、用户需求与制度规则的“轨道约束”与“[[Path Dependence|路径依赖]]”。[[Argument_Pavitt_1984_RP|(Pavitt, 1984, pp. 343–345)]]
 > - **理论问题** 破解新古典经济学“技术要素均质替代”、“无摩擦扩散”与“市场自发达致最优技术组合”的理论虚构，解释产业间创新模式为何呈现结构性[[Heterogeneity|异质性]]，以及既有成熟技术如何形成强大的自增强锁定并阻碍新兴颠覆性技术的发育。[[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016, pp. 156–158)]]
 > - **理论类型** [[Evolutionary Economics|演化经济学]]微观与中观基础解释理论、产业技术创新动力学[[Analytic Framework|分析框架]]。
 > - **知识位置** 位于[[Evolutionary Economics|演化经济学]]与产业组织理论的交汇处；向上支撑部门[[Systems of Innovation|创新系统]]（Sectoral Innovation Systems）与[[National Innovation System|国家创新系统]]理论，向前对话[[Mission-Oriented Innovation Policy|使命导向创新政策]]中关于“方向性”（[[Directionality of Innovation|directionality]]）选择、[[Market Shaping and Creating|市场塑造]]与三代使命轨迹治理的战略理论。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–806)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–792)]]
@@ -122,7 +123,7 @@ updated: 2026-10-08
 > [!dev-timeline] 理论演进历程
 > - **1982 — 技术范式与轨迹二元模型奠基** 多西（Dosi, 1982）提出技术范式定义了“需要解决的技术问题与求解模型”，而技术轨迹则是“在范式界定的多维技术–经济空间中所推进的权衡取舍方向”。
 > - **1984 — 三大塑造因素与帕维特分类法** 帕维特（[[Argument_Pavitt_1984_RP|Pavitt, 1984]]）通过实证提炼出塑造技术轨迹的三大核心维度（技术来源、用户需求、专有可能性），划分出科学基础型、专业供应商型、规模密集型与供应商主导型四大产业轨迹。
-> - **1989/1993 — 路径依赖与技术锁定理论深化** 阿瑟（W. Brian Arthur, 1989）与纳尔逊（Nelson, 1993）揭示技术轨迹因收益递增和网络外部性极易形成“技术锁定”（Lock-in），即使存在更优技术路线也难以自发替代劣质成熟技术（如 QWERTY 键盘效应）。
+> - **1989/1993 — [[Path Dependence|路径依赖]]与技术锁定理论深化** 阿瑟（W. Brian Arthur, 1989）与纳尔逊（Nelson, 1993）揭示技术轨迹因收益递增和网络外部性极易形成“技术锁定”（Lock-in），即使存在更优技术路线也难以自发替代劣质成熟技术（如 QWERTY 键盘效应）。
 > - **1998 — 产业技术轨迹分化与架构创新跃迁** 杰弗里·T·马歇尔、戴维·C·莫厄里与戴维·A·霍奇斯（[[Argument_Macher_1998_CMR|Macher, Mowery, & Hodges, 1998]]）实证剖析了全球半导体产业技术轨迹的分叉演进：日本厂商在“重资产、大宗存储器良率微缩（DRAM）”轨道上确立制造垄断，而美国厂商则开辟并引领了“微处理器架构（MPU）、定制逻辑芯片与[[Vertical Disintegration|垂直专业化分工]]”的新兴轨迹，证明技术范式跃迁能从根本上重塑国际产业竞争格局。
 > - **2010 — [[Vertical Disintegration|纵向碎片化产业]]中嵌入型网络对技术轨道的引导** [[Erica Fuchs|埃丽卡·福克斯]]（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）深化了技术轨迹理论在纵向碎片化（Dis-integrated）产业情境下的微观机制，实证证明公共部门代理人（如 [[DARPA]] 项目经理）可通过调动“[[Network Plasticity|网络可塑性]]”（Network Plasticity）与五大非正式机制，在不挑选单一赢家的前提下，主动识别、播撒并重塑共性技术轨道（如硅锗、应变硅、3D 封装与光互连）。
 > - **2016 — 跨国定量操作化与检验** 博利亚奇诺与皮安塔（[[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta, 2016]]）基于欧洲创新调查（CIS）数据库，通过主成分分析将四大技术轨迹操作化为“技术[[Competitiveness|竞争力]]”与“成本竞争力”两个正交轴线，完成跨国大样本定量检验。
@@ -142,7 +143,7 @@ updated: 2026-10-08
 > | **技术来源（Sources of Technology）** | 供给构件 | 决定产业创新知识源泉（大学基础科学 vs 内部工程经验 vs 外部设备供应商）。[[Argument_Pavitt_1984_RP\|(Pavitt, 1984, p. 347)]] |
 > | **用户需求特征（User Requirements）** | 需求构件 | 界定市场拉力性质（性能敏感型 vs 价格成本敏感型 vs 定制化[[Problem Solving\|问题解决]]型）。 |
 > | **专有可能性（Appropriation Mechanisms）** | 激励构件 | 保护创新租金的制度载体（专利壁垒 vs 商业机密 vs 制造规模与先发优势）。 |
-> | **技术锁定与惯性阻尼（Lock-in & Inertia）** | 系统阻力 | 既有基础设施、供应链网络与认知惯例对破坏性新兴技术轨迹的结构性排斥。 |
+> | **[[Path Dependence\|技术锁定]]与惯性阻尼（Lock-in & Inertia）** | 系统阻力 | 既有基础设施、供应链网络与认知惯例对破坏性新兴技术轨迹的结构性排斥。 |
 > | **方向性指引（[[Directionality of Innovation\|directionality]] Steering）** | 政策引擎 | 公共政策围绕重大社会挑战通过战略采购与组合投资主动引导技术轨道跃迁。[[Argument_Mazzucato_2018_ICC\|(Mazzucato, 2018, pp. 805–806)]] |
 > | **[[Network Plasticity\|网络可塑性]]（Network Plasticity）** | 结构调控 | 研发社会网络在公共代理人介入下被动态重塑、打破机构壁垒以实现跨界协同的能力。[[Argument_Fuchs_2010_RP\|(Fuchs, 2010, p. 1134)]] |
 > | **[[Vertical Disintegration\|纵向碎片化]]（Vertical Dis-integration）** | 产业情境 | 产业链各环节高度解耦分离的组织形态，加剧了跨技术轨道协同与共性研发的协调失灵。[[Argument_Fuchs_2010_RP\|(Fuchs, 2010, pp. 1134–1135)]] |
@@ -151,7 +152,7 @@ updated: 2026-10-08
 
 ## 核心命题
 
-> [!theory-proposition] 命题一｜技术变迁受制于特定[[Paradigm|范式]]并在累积学习中展现强烈的路径依赖
+> [!theory-proposition] 命题一｜技术变迁受制于特定[[Paradigm|范式]]并在累积学习中展现强烈的[[Path Dependence|路径依赖]]
 > **解释** 技术演进绝非没有方向的随机布朗运动，而是深受历史经验与知识沉淀的锚定。一旦某种技术范式（如硅基半导体微缩、化石燃料内燃机）被确立，工程研发便会沿着可预测的技术–经济参数轨道（如摩尔定律算力密度提升、燃油热效率微调）持续累积演进。早期的细微历史偶发事件通过自增强正反馈机制，能够永久性塑造长期的技术演进轨道。[[Argument_Pavitt_1984_RP|(Pavitt, 1984, pp. 343–345)]]
 >
 > **应用实例** 在微电子产业中，登纳德缩放定律与摩尔定律主导了半导体行业半个世纪的研发投资方向，所有设备制造、光刻胶研发与芯片架构均高度协同地依循该轨道推进。
@@ -209,7 +210,7 @@ updated: 2026-10-08
 ## 转化为分析框架
 
 > [!theory-use] 框架入口
-> - **[[Research Question|研究问题]]** 某产业为何长期陷入低水平技术锁定？为什么通用的研发补贴政策在不同行业产生截然不同的效果？国家应如何设计战略政策以引导新兴颠覆性技术轨道的形成？
+> - **[[Research Question|研究问题]]** 某产业为何长期陷入低水平[[Path Dependence|技术锁定]]？为什么通用的研发补贴政策在不同行业产生截然不同的效果？国家应如何设计战略政策以引导新兴颠覆性技术轨道的形成？
 > - **分析对象与单位** 产业部门技术体系、技术演进路线图、企业研发与专利资产组合、国家使命攻关项目。
 > - **需要的材料** 行业专利分布数据、研发投入强度、技术来源与设备采购清单、用户定制化程度调研、公私研发资助合同条款。
 > - **解释目标** 诊断特定产业所处的技术轨迹类型及其锁定机制，制定匹配的部门政策或跨部门使命导向攻关组合。
@@ -294,7 +295,7 @@ updated: 2026-10-08
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Evolutionary Economics]] | Theory | 技术轨迹理论的母体理论，提供变异、选择与路径依赖的底层逻辑。 |
+> | [[Evolutionary Economics]] | Theory | 技术轨迹理论的母体理论，提供变异、选择与[[Path Dependence\|路径依赖]]的底层逻辑。 |
 > | [[Pavitt Taxonomy]] | Theory | 技术轨迹在产业层面的直接[[Operationalization\|操作化]]分类成果。 |
 > | [[Three Generations of Mission-Oriented Policy]] | Theory | 总结国家引导与协同技术轨迹的三代制度演化形态。 |
 > | [[Mission-Oriented Innovation Policy]] | Concept | 主动打破既有技术锁定、开辟全新可持续技术轨道的现代政策[[Paradigm\|范式]]。 |
@@ -322,6 +323,6 @@ updated: 2026-10-08
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 深入微电子产业前沿，揭示公共代理人（[[DARPA]] 项目经理）如何在[[Vertical Disintegration|纵向碎片化产业]]中调动[[Network Plasticity|网络可塑性]]与五大非正式机制，引导硅锗、应变硅、3D 封装与光芯片等战略性技术轨道跃迁。
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 实证剖析美日半导体产业竞争中从大宗存储器制造微缩向微处理器架构设计与垂直专业化分工的重大技术轨迹跃迁。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]] — 实证对比美欧信息技术政策，揭示军工首发采购、反垄断规制与第二供应商强制扩散如何塑造美国多元竞争的技术轨迹，而欧洲扶持单一国家冠军则导致技术轨道锁定与跟跑滞后。
-> - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 以[[Semiconductor Research Corporation|半导体研究公司]]（SRC）1982–2011 年为案例，实证展示会员制研究联合体如何通过 GRC→[[Focus Center Research Program|FCRP]]→NRI 的多轨道计划矩阵，对半导体技术轨迹的不同成熟度时域进行分层管理，在维持主流 CMOS 轨道演进的同时，为后摩尔时代的颠覆性新器件轨道播撒制度性种子。
+> - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 以[[Semiconductor Research Corporation|SRC]] 为案例，实证展示会员制研究联合体如何通过多轨道计划矩阵对半导体技术轨迹实施分层管理，兼顾主流 CMOS 演进与后摩尔颠覆性器件培育。
 
 ---

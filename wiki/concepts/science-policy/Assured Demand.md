@@ -9,7 +9,7 @@ aliases:
 summary: "指国家或公共部门通过具有法律约束力的采购协议与前瞻性预算承诺，全额或大比例包揽新兴颠覆性技术初创阶段的产能，从而消除早期商业化买单不确定性并释放微观学习经济的创新政策机制。"
 type: concept
 domain: "science-policy"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Demonstration Effect]]"
   - "[[Mission-Oriented Innovation Policy]]"
 related_theories:
+  - "[[Path Dependence]]"
   - "[[Evolutionary Economics]]"
 related_methods:
   - "[[Correlational Research]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Assured Demand
@@ -164,7 +165,7 @@ updated: 2026-10-07
 
 > [!debates] 学术争议
 >
-> > [!axis] 确定性需求的创新催化效力 vs 财政寻租与技术锁定风险
+> > [!axis] 确定性需求的创新催化效力 vs 财政寻租与[[Path Dependence|技术锁定]]风险
 > > 围绕政府提供长期采购保底是否会削弱企业面向商业市场的竞争意识或锁定次优技术路线的争论。
 > >
 > > - **创新政策与[[Evolutionary Economics|演化经济学]]视角（[[Argument_Schnee_1978_RP|Schnee, 1978]]; [[Argument_Mowery_2011_NBER|Mowery, 2011]]）** 强调在极端不确定性的产业萌芽期，没有确定性需求托底就没有技术突破；通过多源发包与第二货源机制能够有效规避垄断锁定。
@@ -197,7 +198,7 @@ updated: 2026-10-07
 > | [[Market Shaping and Creating]] | Concept | 确定性需求所服务的主动创造与塑造新兴产业的政策[[Paradigm\|范式]]。 |
 > | [[Learning Economy]] | Theory | 确定性需求通过保障规模预期释放 20%–30% 成本下降的核心动力学机制。 |
 > | [[Demonstration Effect]] | Concept | 确定性需求支持下的工程项目成功运行向民用市场传导信任的机制。 |
-> | [[Second-Sourcing]] | Concept | 政府采购为维系供应链竞争与防范技术锁定所配合推行的第二货源规制。 |
+> | [[Second-Sourcing]] | Concept | 政府采购为维系供应链竞争与防范[[Path Dependence\|技术锁定]]所配合推行的第二货源规制。 |
 > | [[Jerome E. Schnee]] | Person | 首次系统量化并确立确定性需求对战后高技术产业成长关键作用的奠基学者。 |
 > | [[John E. Tilton]] | Person | 出版布鲁金斯专著（1971）实证论证政府采购打破寡头垄断与激活微观学习效应的学者。 |
 > | [[David C. Mowery]] | Person | 深化确定性需求采购生命周期与跨领域移植规律的科技政策学者。 |

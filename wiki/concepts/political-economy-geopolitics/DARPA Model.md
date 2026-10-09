@@ -9,7 +9,7 @@ aliases:
 summary: "国家主导颠覆性科技创新的组织与管理范式。以防范战略技术突袭为使命，赋予顶尖项目经理（PMs）高度自由裁量权，通过广泛领域资助公告（BAA）与海尔迈耶问卷筛选高风险方案。Fuchs（2010）实证论证其核心本质既非表层采办合同亦非组织文化，而是项目经理依托微观非正式制度重塑研发网络拓扑、引导国家技术轨道的嵌入型网络治理机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -35,6 +35,7 @@ related_concepts:
 related_theories:
   - "[[Technological Trajectories]]"
   - "[[Organizational Culture]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Correlational Research]]"
 related_instruments:
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # DARPA Model
@@ -136,7 +137,7 @@ updated: 2026-10-08
 > 探讨创新机构如何兼顾深厚专业洞察力与组织反腐败、反僵化能力。
 
 > [!claim] [[David C. Mowery|Mowery, D. C.]]; Fuchs, E. R. H.
-> **流动性制度对路径依赖的防御** 常规科研资助官僚随着任期延长极易被特定学术圈子或军工巨头“俘获”，陷入渐进改良[[Paradigm|范式]]。DARPA 项目经理 3–5 年即必须离职返回大学或工业界的强制流动机制，使得 PM 没有长期官僚升迁包袱，迫使其在有限任期内全力押注最高风险的革命性构想，有效消除了范式锁死风险。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1135)]]
+> **流动性制度对[[Path Dependence|路径依赖]]的防御** 常规科研资助官僚随着任期延长极易被特定学术圈子或军工巨头“俘获”，陷入渐进改良[[Paradigm|范式]]。DARPA 项目经理 3–5 年即必须离职返回大学或工业界的强制流动机制，使得 PM 没有长期官僚升迁包袱，迫使其在有限任期内全力押注最高风险的革命性构想，有效消除了范式锁死风险。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1135)]]
 
 ---
 
