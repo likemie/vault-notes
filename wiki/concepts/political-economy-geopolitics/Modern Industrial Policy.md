@@ -9,10 +9,10 @@ aliases:
 summary: "现代产业政策区别于20世纪以纠正市场失灵与追求经济效率为单一导向的传统产业政策；它深度交织了国家安全、地缘政治对抗、供应链韧性与去风险目标，综合运用巨额直接补贴、前置研发资助、投资审查、单边及多边出口管制、友岸外包、制度化附加条件与战略矿产反制等全方位政策工具包。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 45
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 53
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - political-economy-geopolitics
   - industrial-policy
@@ -247,9 +247,9 @@ updated: 2026-10-10
 > [!contrast-table] 现代产业政策核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 核心逻辑依据 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|---|
-> | **效率换安全保险** | 产业政策主动牺牲集聚外部性以换取供应链韧性与地缘安全 | 跨国半导体建厂补贴、回流本土与友岸外包 | 空间分散与产能重复建设的长期成本 | [[Argument_Bown_2024_JEP\|Bown & Wang (2024)]] |
-> | **国家冠军模式失效** | [[Vertical Disintegration\|纵向离散]]网络使单一国家封闭式全产业链自主政策面临技术与成本天花板 | 全球高科技多阶段供应链、出口管制同盟 | 模块化全球分工对全栈自研的协调阻力 | [[Argument_Bown_2024_JEP\|Bown & Wang (2024)]] |
-> | **产能扭曲与过剩隐患** | 技术管制迫使资本转向成熟制程，叠加全球补贴竞赛引发产能过剩 | 成熟制程晶圆制造、非对称反制与补贴内耗 | 资本涌入中低端产能引发的价格战风险 | [[Argument_Bown_2024_JEP\|Bown & Wang (2024)]] |
+> | **效率换安全保险** | 产业政策主动牺牲集聚外部性以换取供应链韧性与地缘安全 | 跨国半导体建厂补贴、回流本土与友岸外包 | 空间分散与产能重复建设的长期成本 | [[Argument_Bown_2024_JEP\|Bown & Wang (2024, p. 86)]] |
+> | **国家冠军模式失效** | [[Vertical Disintegration\|纵向离散]]网络使单一国家封闭式全产业链自主政策面临技术与成本天花板 | 全球高科技多阶段供应链、出口管制同盟 | 模块化全球分工对全栈自研的协调阻力 | [[Argument_Bown_2024_JEP\|Bown & Wang (2024, p. 93)]] |
+> | **产能扭曲与过剩隐患** | 技术管制迫使资本转向成熟制程，叠加全球补贴竞赛引发产能过剩 | 成熟制程晶圆制造、非对称反制与补贴内耗 | 资本涌入中低端产能引发的价格战风险 | [[Argument_Bown_2024_JEP\|Bown & Wang (2024, p. 99)]] |
 > | **新自由主义共识破裂** | 国家打破不直接干预中立立场，公开通过定向研发清单挑选前沿赢家 | 前沿技术研发资助、大学科技动员与国家安全立法 | 国家直接筛选前沿技术清单的范式转变 | [[Argument_Brint_2023_IHE\|Brint (2023)]] |
 > | **过程治理与市场塑造** | 依托竞争性、投资组合、干中学弹性与社会附加条件防范寻租并共创公共价值 | 三大联邦法案落地、清洁能源与半导体制造业重塑 | 七项过程准则与护栏附加条件治理网络 | [[Argument_Reynolds_2024_JICT\|Reynolds (2024)]] |
 > | **政体形态与治理效能** | 财政集权程度决定直接投资与协调者模式的分化，去中心化补贴加剧区域失衡 | 跨大西洋高科技产业战略比较、超国家产业政策评估 | 超国家财政赤字、国家援助依赖与单一市场分裂风险 | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024)]] |
@@ -261,9 +261,9 @@ updated: 2026-10-10
 
 > [!dev-timeline] 概念演变
 > - **1970–1980年代 — 传统赶超与管理贸易** 日本[[Ministry of International Trade and Industry|通产省]]主导 [[VLSI Project|VLSI]] 项目 推动 DRAM 赶超；美日爆发激烈贸易摩擦，美国通过 [[1986 U.S.-Japan Semiconductor Trade Agreement|美日半导体贸易协定]] 实行配额管制，并组建 [[Sematech]] 研发联盟。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 83–86)]]
-> - **1990–2000年代 — 自由化与产业政策退潮** 华盛顿共识与[[World Trade Organization|世贸组织]]（WTO）规则盛行，产业政策被主流经济学界边缘化；半导体产业全面向全球 [[Vertical Disintegration|纵向离散]] 与东亚制造集聚演进。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 86–92)]]
-> - **2014–2018年代 — 国家战略资本赶超与贸易争端升级** 中国成立 [[China Integrated Circuit Industry Investment Fund|国家集成电路产业投资基金]]（大基金）并发布《[[Made in China 2025|中国制造2025]]》；特朗普政府发起 [[Sino-American Trade War|中美贸易战]] 并将华为列入实体清单，暴露关税工具在中间品长链条中的局限性。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 93–95)]]
-> - **2020年代 — 现代产业政策[[Paradigm|范式]]全面成型** 拜登政府出台 [[CHIPS and Science Act|芯片与科学法案]] 与 2022年10月出口管制新规；欧盟通过 [[European Chips Act|欧洲芯片法案]]；日本大幅补贴熊本晶圆厂与 Rapidus，标志着以巨额资本补贴、技术管辖与多边同盟为特征的现代产业政策全面主导全球高科技格局。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 97–101)]]
+> - **1990–2000年代 — 自由化与产业政策退潮** 华盛顿共识与[[World Trade Organization|世贸组织]]（WTO）规则盛行，产业政策被主流经济学界边缘化；半导体产业全面向全球 [[Vertical Disintegration|纵向离散]] 与东亚制造集聚演进。(pp. 86–92)
+> - **2014–2018年代 — 国家战略资本赶超与贸易争端升级** 中国成立 [[China Integrated Circuit Industry Investment Fund|国家集成电路产业投资基金]]（大基金）并发布《[[Made in China 2025|中国制造2025]]》；特朗普政府发起 [[Sino-American Trade War|中美贸易战]] 并将华为列入实体清单，暴露关税工具在中间品长链条中的局限性。(pp. 93–95)
+> - **2020年代 — 现代产业政策[[Paradigm|范式]]全面成型** 拜登政府出台 [[CHIPS and Science Act|芯片与科学法案]] 与 2022年10月出口管制新规；欧盟通过 [[European Chips Act|欧洲芯片法案]]；日本大幅补贴熊本晶圆厂与 Rapidus，标志着以巨额资本补贴、技术管辖与多边同盟为特征的现代产业政策全面主导全球高科技格局。(pp. 97–101)
 > - **2024 — 国家战略研发统筹与自维持生态构建** [[National Science and Technology Council|白宫国家科学技术委员会]]（NSTC）发布《微电子研究国家战略》，将现代产业政策深化为涵盖底层物理探索、跨部门中试漏斗（NSTC/[[National Advanced Packaging Manufacturing Program|NAPMP]]/Commons/[[National Nanotechnology Coordinated Infrastructure|NNCI]]）、早期风险资本引导与劳动力培育的跨部门全链条体系。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 1–4, 21–29)]]
 
 ---

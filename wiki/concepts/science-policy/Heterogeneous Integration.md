@@ -92,7 +92,7 @@ updated: 2026-10-10
 > - **模块化芯粒架构（Modular Chiplet Architecture）** 将庞大复杂的单芯片解构为具有独立功能的标准化小芯片（Chiplets），支持跨厂商、跨工艺节点的即插即用与灵活配置。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10, 17)]]
 > - **微尺度高密度互连技术（Micro-Scale Interconnects）** 包含微凸点（Micro-bumps）、硅中介层（Silicon Interposer）、硅通孔（TSV）与晶圆级直接混合键合（Direct Hybrid Bonding），提供超高互连线密度与超低信号传输损耗。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17–18)]]
 > - **多物理场表征与计量（Multi-Physics Metrology）** 跨越微米到纳米尺度的无损缺陷检测、界面应力分析、三维热分布感知与高频电磁兼容测量规程。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17–18, 28)]]
-> - **[[Assemblage|装配]]设计套件（Assembly Design Kit, ADK）** 与[[Process Design Kit|工艺设计套件]]（PDK）相配套，为跨芯片装配、热机械应力模拟与信号完整性仿真提供标准化的数字模型与设计规则。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17, 24)]]
+> - **[[Assemblage|装配]]设计套件（[[Process Design Kit|Assembly Design Kit]], ADK）** 与[[Process Design Kit|工艺设计套件]]（PDK）相配套，为跨芯片装配、热机械应力模拟与信号完整性仿真提供标准化的数字模型与设计规则。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17, 24)]]
 
 > [!logic-map]- 异构集成技术体系
 > ```mermaid
@@ -126,7 +126,7 @@ updated: 2026-10-10
 > 围绕尖端制程高昂全掩膜成本对大学与初创企业的排斥，探讨芯粒复用与先进封装如何降低硬件创新试验成本。
 
 > [!claim] NSTC
-> **硬件敏捷迭代与创新去中心化** 传统单片先进制程流片动辄数千万美元的掩膜成本，使得学术界与初创企业被阻隔在硬件创新前沿之外。异构集成允许科研人员将创新的专用功能单元与商业现货（[[Commercial Off-The-Shelf]], COTS）成熟芯粒通过标准化[[Assemblage|装配]]设计套件（Assembly Design Kit, ADK）进行封装级集成，在显著压缩研发周期与流片资本开支的同时，为跨学科原型验证与硬件[[Innovation Ecosystem|创新生态]]的繁荣提供了制度与技术支撑。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 14, 17–18, 28)]]
+> **硬件敏捷迭代与创新去中心化** 传统单片先进制程流片动辄数千万美元的掩膜成本，使得学术界与初创企业被阻隔在硬件创新前沿之外。异构集成允许科研人员将创新的专用功能单元与商业现货（[[Commercial Off-The-Shelf]], COTS）成熟芯粒通过标准化[[Assemblage|装配]]设计套件（[[Process Design Kit|Assembly Design Kit]], ADK）进行封装级集成，在显著压缩研发周期与流片资本开支的同时，为跨学科原型验证与硬件[[Innovation Ecosystem|创新生态]]的繁荣提供了制度与技术支撑。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 14, 17–18, 28)]]
 
 ---
 
@@ -147,7 +147,7 @@ updated: 2026-10-10
 > - **2000s — 系统级封装（SiP）与消费电子普及** 随着智能手机对微型化与多功能集成的爆发式需求，系统级封装（System-in-Package, SiP）兴起，在有机基板上将基带芯片、射频收发器与存储器堆叠封装，开启多器件板级向封装级整合的过渡阶段。
 > - **2010s — 2.5D/3D TSV 先进微互连技术突破** 硅通孔（Through-Silicon Via, TSV）与硅中介层（Silicon Interposer）实现商业化量产，[[Taiwan Semiconductor Manufacturing Corporation|台积电]] CoWoS 与英特尔 EMIB 等先进封装平台将逻辑芯片与高带宽存储器（High Bandwidth Memory, HBM）紧密相连，大幅突破单芯片互连带宽瓶颈。
 > - **2020s — 芯粒（Chiplets）架构与 UCIe 标准化** 芯粒互连通用标准（Universal Chiplet Interconnect Express, UCIe）等开放行业规范确立，模块化芯粒生态形成，[[DARPA|美国国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）启动三维异构集成（3D Heterogeneous Integration, 3DHI）重大攻关计划。
-> - **2024 — 国家战略确立三维异构集成为后摩尔核心[[Paradigm|范式]]** [[National Science and Technology Council|白宫国家科学技术委员会]]（NSTC）在《微电子研究国家战略》中将先进封装与异构集成确立为全美四大战略科技目标之一，依托[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）系统推进[[Assemblage|装配]]设计套件（ADK）与跨材料 3DHI 平台。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10, 17–18)]]
+> - **2024 — 国家战略确立三维异构集成为后摩尔核心[[Paradigm|范式]]** [[National Science and Technology Council|白宫国家科学技术委员会]]（NSTC）在《微电子研究国家战略》中将先进封装与异构集成确立为全美四大战略科技目标之一，依托[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）系统推进[[Assemblage|装配]]设计套件（[[Process Design Kit|ADK]]）与跨材料 3DHI 平台。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10, 17–18)]]
 
 ---
 
@@ -164,7 +164,7 @@ updated: 2026-10-10
 > > [!axis] 生态治理规范：专有私有互连协议 vs 开放跨厂商[[Assemblage|装配]]标准
 > > 围绕芯粒间互连协议应由芯片巨头主导私有架构还是推行开放通用标准展开的分歧。
 > >
-> > - **开放架构与国家计划倡导者** 强调必须建立统一的开放装配设计套件（ADK）与物理测试标准，以破除行业龙头专利壁垒，允许中小企业与大学原型公平接入先进封装生态。（pp. 17–18）
+> > - **开放架构与国家计划倡导者** 强调必须建立统一的开放[[Process Design Kit|装配设计套件]]（ADK）与物理测试标准，以破除行业龙头专利壁垒，允许中小企业与大学原型公平接入先进封装生态。（pp. 17–18）
 > > - **行业先发寡头企业** 倾向于维护私有专有接口以最大化垂直整合性能与构筑技术护城河，认为过度标准化会拖慢前沿定制化算力创新的迭代节奏。
 
 ---
@@ -199,5 +199,5 @@ updated: 2026-10-10
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 提出将三维异构集成（3DHI）确立为突破单片晶体管物理微缩极限的核心战略路径，系统规划模块化芯粒（Chiplets）与开放[[Assemblage|装配]]设计套件（ADK）标准体系。
+> - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 提出将三维异构集成（3DHI）确立为突破单片晶体管物理微缩极限的核心战略路径，系统规划模块化芯粒（Chiplets）与开放[[Assemblage|装配]]设计套件（[[Process Design Kit|ADK]]）标准体系。
 

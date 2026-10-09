@@ -5,6 +5,10 @@
       "path": "wiki/arguments/reports-policy-documents/Argument_NSTC_2024_MicroelectronicsResearch.md"
     },
     {
+      "basename": "Process Design Kit",
+      "path": "wiki/concepts/university-industry-collaboration/Process Design Kit.md"
+    },
+    {
       "basename": "Argument_NIST_2023_NSTC",
       "path": "wiki/arguments/reports-policy-documents/Argument_NIST_2023_NSTC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "National Character",
       "path": "wiki/concepts/comparative-education/National Character.md"
-    },
-    {
-      "basename": "Positivism",
-      "path": "wiki/concepts/educational-philosophy/Positivism.md"
     }
   ],
   "omittedPaths": [],

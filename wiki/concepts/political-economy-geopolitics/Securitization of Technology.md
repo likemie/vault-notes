@@ -8,10 +8,10 @@ aliases:
 summary: "指主权国家在地缘政治博弈加剧背景下，将半导体、人工智能等战略性关键技术、基础科研与产业链控制力上升为关乎国家生存与主权安全的核心议程；通过出口管制、投资审查、定向产业立法与有组织科研动员，将大学等创新主体深度嵌入国家安全体系。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 42
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 51
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/science-policy
   - theme/geopolitics
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Research Security]]"
   - "[[Academic Freedom]]"
   - "[[Research Universities]]"
+  - "[[Hardware Security]]"
   - "[[National Competitive Advantage]]"
   - "[[Competitiveness]]"
   - "[[Modern Industrial Policy]]"
@@ -32,6 +33,7 @@ related_concepts:
   - "[[Process Knowledge]]"
   - "[[National Innovation System]]"
   - "[[Knowledge Production]]"
+  - "[[Heterogeneous Integration]]"
   - "[[Innovation Ecosystem]]"
   - "[[Document]]"
   - "[[Technology-Oriented Social Contract]]"
@@ -40,6 +42,7 @@ related_theories:
   - "[[Social Contract of Science]]"
   - "[[Pasteur's Quadrant]]"
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Documentary Analysis]]"
   - "[[Audit Trail]]"
   - "[[Correlational Research]]"
@@ -48,6 +51,8 @@ related_persons:
   - "[[Vannevar Bush]]"
   - "[[Michael Kratsios]]"
 related_facts:
+  - "[[National Science and Technology Council]]"
+  - "[[ROOTS]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Albany NanoTech Complex]]"
   - "[[Manhattan Project]]"
@@ -55,6 +60,9 @@ related_facts:
   - "[[Inflation Reduction Act]]"
   - "[[Office of Science and Technology Policy]]"
   - "[[Joint University Microelectronics Program 2.0]]"
+  - "[[Subcommittee on Microelectronics Leadership]]"
+  - "[[Department of Energy]]"
+  - "[[National Science Foundation]]"
   - "[[Important Projects of Common European Interest]]"
   - "[[DARPA]]"
   - "[[Semiconductor Research Corporation]]"
@@ -63,13 +71,14 @@ related_facts:
 related_arguments:
   - "[[Argument_Zhuo_2026_ICE]]"
   - "[[Argument_Fan_2026_BCAS]]"
+  - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_Atkinson_2008_TIS]]"
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 
 # Securitization of Technology
@@ -90,6 +99,11 @@ updated: 2026-10-09
 > 技术议题的属性转变正在重塑技术、大学与国家之间的权力关系，使[[Research Universities|研究型大学]]从市场环境中的上游知识供给者，转变为深度嵌入地缘政治博弈的制度型行动者。这种转向本质上体现为技术体系的政治嵌入，重新界定了研究型大学在产业创新体系中的制度位置与功能边界。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–25)]]
 >
 > *The shift in the attributes of technological issues is reshaping the power relations among technology, universities, and the state, transforming research universities from upstream knowledge providers in a market environment into institutional actors deeply embedded in geopolitical competition.*
+
+> [!citation-card] [[National Science and Technology Council|白宫国家科学技术委员会]]论全栈微电子与硬件根信任安全化
+> 微电子是支撑国家安全、国防任务与数字经济命脉的核心底层基础设施。随着半导体供应链全球化暴露严重脆弱性，技术安全化要求在全政府统筹（Whole-of-Government）下将安全防御内嵌于芯片研发全生命周期：从最底层的物理材料探索、抗篡改芯片设计、可信中试流片，到硬件根信任（Root of Trust）、零信任架构与防伪追溯，将国家安全目标与前沿微电子研究实现全栈深度绑定。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 1–4, 37–44)]]
+>
+> *Microelectronics is foundational to national security and economic prosperity. Securitization of technology demands a whole-of-government approach embedding [[Hardware Security]] into every phase of the lifecycle—from material physics, tamper-resistant design, and trusted prototyping, to hardware [[ROOTS]] of trust, zero-trust architectures, and anti-counterfeiting verification.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[National Competitive Advantage|国家竞争优势]] — 前者强调地缘安全对抗、生存威胁与排他性防御，后者主要聚焦经济生产率与自由市场贸易[[Competitiveness|竞争力]]。
@@ -121,6 +135,7 @@ updated: 2026-10-09
 > - **学术流动排他化** 收紧国际学者签证、强化意识形态审查与跨国学术合作合规限制，以防御性逻辑阻隔知识外流。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 25–26)]]
 > - **契约关系重构** 推动二战后由[[Science, The Endless Frontier 1945|布什报告]]确立的自由探索型科学契约，向国家意志主导的技术导向型社会契约转变。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 20–22)]]
 > - **中试共置与闭环制造** 依托国家级 300 毫米晶圆中试线与共置洁净室（[[Albany NanoTech Complex|Albany NanoTech]], MIT.nano），打破设计制造割裂，将默会[[Process Knowledge|过程知识]]重新锚定在本土工业基座之上。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 22–24)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 22–26)]]
+> - **硬件全生命周期根信任与零信任治理** 将技术安全化从外生出口管制下沉至微观芯片设计、异构封装与晶圆制造全栈，确立防伪、抗物理篡改、混淆加密与可证明安全度量衡，构建全生命周期硬件溯源与零信任生态。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 37–44)]]
 
 > [!logic-map]- 技术安全化的运行逻辑
 > ```mermaid
@@ -191,6 +206,16 @@ updated: 2026-10-09
 
 ---
 
+### 命题四　技术安全化从外生贸易管制深化为底层硬件根信任与全生命周期技术主权
+
+> [!concept-lens] 全栈[[Hardware Security|硬件安全]]、零信任架构与全生命周期技术主权
+> 探讨当代技术安全化如何从宏观边境与贸易审查下沉至底层物理微结构、芯片设计与异构封装，将国家安全目标与微电子全生命周期实现工程化绑定。
+
+> [!claim] [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]]
+> **全栈硬件安全与全生命周期国家安全治理** [[National Science and Technology Council|白宫国家科学技术委员会]]（NSTC）微电子战略将技术安全化推向微观全栈维度：技术安全已不再局限于传统出口管制、投资审查与实体清单等外生行政手段，而是内生化为贯穿底层材料探索、防篡改芯片设计、可信中试流片到[[Heterogeneous Integration|异构集成]]的全链条工程防御。通过研发可证明硬件安全度量衡（Provable Security Metrics）、硬件根信任（Root of Trust）芯片、物理防拆与抗侧信道攻击技术、混淆加密算法及全生命周期防伪溯源体系，国家安全逻辑被深度[[Coding in Qualitative Research|编码]]进半导体架构的底层微结构之中，确立了全政府跨部门统筹下的国家微电子全栈技术主权。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 1–4, 37–44)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -199,6 +224,7 @@ updated: 2026-10-09
 > | **使命导向体系嵌入** | 解释大学科研目标如何从自由市场知识供给转向国家安全战略执行 | [[Modern Industrial Policy\|现代产业政策]]落地、半导体及关键前沿技术动员 | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026, pp. 24–25)]] |
 > | **学术生态制度张力** | 揭示安全审查与排他性管制对学术自由、开放科学及国际合作的深层冲击 | 跨国科技管制、高等教育去全球化与[[Research Security\|科研安全]]合规分析 | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026, pp. 25–26)]] |
 > | **契约重构与组织分化** | 阐明科学社会契约由自由探索向技术导向让渡，科研组织呈现三轨分化格局 | 国家科技体制改革、联邦预算战略转向与科技安全立法评估 | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] |
+> | **全栈硬件根信任主权** | 论证技术安全化由外生贸易管制深化为底层硬件根信任、零信任架构与全链条防伪 | 微电子全链条研发、芯片硬件安全与国防供应链韧性保障 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] |
 
 ---
 
@@ -208,6 +234,7 @@ updated: 2026-10-09
 > - **1940s–1980s — 冷战军工复合体与战后自由探索契约共存** [[Manhattan Project|曼哈顿计划]]开启了国家重大工程动员[[Paradigm|范式]]，但[[Vannevar Bush|万尼瓦尔·布什]]在《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》中奠定了由联邦资助大学开展非功利、自由探索基础科研的战后契约，技术安全议程主要局限于涉核与军品出口管制（如巴统协定）。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 20–22)]]
 > - **2010s — 关键产业链断链风险与出口管制泛化** 随着全球化垂直分工深入与新兴大国崛起，关键战略技术（尤其是先进制程芯片、关键原材料与电信设备）从单纯的商业贸易商品被重新定义为地缘博弈的战略制高点，实体清单与单边技术制裁手段密集出台。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 8–10)]]
 > - **2022 — 《[[CHIPS and Science Act|芯片与科学法案]]》确立技术安全化法治范式** 2022 年《[[CHIPS and Science Act|芯片与科学法案]]》与《[[Inflation Reduction Act|通胀削减法案]]》标志着美国正式打破市场中立范式，通过 2000 亿美元研发授权与巨额制造补贴，将半导体本土回流与多层次科研人才供给法定确立为国家安全基石。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–20)]]
+> - **2024 — 白宫微电子国家战略确立全栈[[Hardware Security|硬件安全]]与全政府治理范式** [[National Science and Technology Council|白宫国家科学技术委员会]]（NSTC）发布《微电子研究国家战略》，将硬件安全与零信任架构列为四大核心战略支柱之一，把技术安全化由外在贸易限制推进至微观芯片架构、硬件根信任（Root of Trust）与全生命周期防伪溯源。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 37–44)]]
 > - **2025–2026 — 白宫科技战略转型与[[Research Universities|研究型大学]]制度重构** 白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）发布《科学：新黄金时代》报告并出台相关行政令，全面推行[[Research Security|科研安全]]合规审查与技术导向契约，推动研究型大学在基础研究引领、微电子多级人才培养、中试共置与跨校攻关联盟（[[Joint University Microelectronics Program 2.0|JUMP 2.0]]）中全面重塑自身职能。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 20–29)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–26)]]
 
 ---
@@ -241,6 +268,7 @@ updated: 2026-10-09
 >
 > | 研究[[Document\|文献]] | 观察情境与样本 | 研究设计与方法 | 核心实证指标 | 原始统计与制度发现 | 理论解释边界 |
 > |:---|:---|:---|:---|:---|:---|
+> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | 白宫跨部门微电子研究国家战略（2024） | 全政府战略规划与[[Hardware Security\|硬件安全]]技术路线图分析 | 硬件安全支柱定位、全生命周期溯源覆盖率、跨部门微电子领导力（[[Subcommittee on Microelectronics Leadership\|SML]]）协同度 | 将硬件安全确立为四大国家目标之一（Goal 4）；设立零信任架构、芯片防伪度量衡与侧信道防护标准；统筹 DoD/[[Department of Energy\|DOE]]/NIST/[[National Science Foundation\|NSF]] 跨部门资源 | 揭示技术安全化从外生出口管制向底层微电子硬件根信任与全栈技术主权的纵深演进 |
 > | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | 美国半导体产业生态与大学微电子工程项目（2020–2026） | 政策[[Documentary Analysis\|文献分析]]与制度演化多案例追踪 | 制造产能全球份额变迁、劳动力缺口、法案科研预算与多校联盟规模 | ① 全球晶圆制造产能份额由 1990 年的 37% 跌至 2022 年约 10%；② 至 2030 年面临 6.7 万名专业技术岗位缺口与全美 140 万技术工人宏观短缺；③ 《[[CHIPS and Science Act\|芯片法案]]》规划 2000 亿美元研发预算；④ [[Joint University Microelectronics Program 2.0\|JUMP 2.0]] 计划统筹 14 所顶尖高校攻关微电子异构集成 | 揭示技术安全化驱动下美国对大学工程人才培养、开源标准锁定与跨校协同网络的战略动员及其伴生的安全审查张力 |
 > | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] | 1945—2025 年美国科技政策史与 2025 年起科研治理实践 | 宏观制度分析与政策文本[[Audit Trail\|审计追踪]] | 联邦研发预算调整方式（扣留拨款）、科研动员核心主体、组织分化格局 | ① 传统大学从战略动员轴心地位显著边缘化；② 气候变化与公共卫生等大学优势领域经费被冻结削减；③ 国家实验室与企业崛起，科研体系分化为三轨格局 | 证实技术导向型契约对二战后大学宪章地位的深层冲击与科研生态重构 |
 > | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024)]] | 欧盟微电子与通信技术重大项目（[[Important Projects of Common European Interest\|IPCEI ME/CT]]） | 超国家产业政策计量与比较分析 | 多国多边协同网络规模、公共与私人配套补贴规模 | 动员 14 个成员国、56 家企业与 30 余所大学，组建 180 项技术攻关合作，撬动 81 亿欧元公共补贴与 137 亿欧元配套资金 | 揭示超国家多边联盟在应对地缘科技竞争时的战略网络形态与跨国人才虹吸效应 |
@@ -255,6 +283,7 @@ updated: 2026-10-09
 > |:---|:---|:---|
 > | [[National Innovation System]] | Concept | 技术安全化改造与重塑的宏观国家制度框架。 |
 > | [[Research Universities]] | Concept | 在技术安全化体系中承担基础研究引领与三级人才梯队供给的枢纽机构。 |
+> | [[Hardware Security]] | Concept | 技术安全化在微观芯片设计、[[Heterogeneous Integration\|异构集成]]与底层根信任维度的核心技术载体。 |
 > | [[Academic Freedom]] | Concept | 技术安全化治理面临的最核心制度伦理底线与冲突焦点。 |
 > | [[Research Security]] | Concept | 技术安全化在大学微观科研管理中的具体合规与审查实施机制。 |
 > | [[Technology-Oriented Social Contract]] | Concept | 替代战后自由探索契约、以技术能力掌控为核心的底层社会契约。 |
@@ -269,6 +298,7 @@ updated: 2026-10-09
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
+> - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — [[National Science and Technology Council|白宫国家科学技术委员会]]战略报告，系统阐述全政府统筹下将微电子底层物理探索、先进异构封装与硬件根信任/零信任架构内生嵌入国家安全体系的顶层设计。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统分析《[[CHIPS and Science Act|芯片与科学法案]]》背景下美国[[Research Universities|研究型大学]]在国家半导体体系中的角色重构，阐明基础研究引领、人才多级培养、多圈层网络编织与技术安全化协同治理的深层张力。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从长时段[[Social Contract of Science|科学社会契约]]演化视角，系统阐释 2025 年起美国科技政策转向以技术能力掌控为核心的替代契约，剖析国家实验室与企业崛起对研究型大学轴心地位的替代效应及三轨分化生态。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 诊断单向线性模型失灵，提出确立[[Pasteur's Quadrant|巴斯德象限]]导向、引入[[Focused Research Organization|聚焦研究组织]]（FRO）与前竞争联合体、依托[[Genesis Mission|创世纪计划]]整合国家算力网络并将[[Process Knowledge|默会过程知识]]锚定在实体制造之中。

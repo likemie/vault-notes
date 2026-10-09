@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 28
+fact_related_count: 31
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,8 @@ related_concepts:
   - "[[Grand Challenges]]"
   - "[[Research Security]]"
   - "[[Technology-Oriented Social Contract]]"
+  - "[[Heterogeneous Integration]]"
+  - "[[Hardware Security]]"
   - "[[Knowledge Production]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Pluralistic Federal Funding System]]"
@@ -44,11 +46,12 @@ related_facts:
   - "[[Science in the National Interest 1994]]"
   - "[[Subcommittee on Microelectronics Leadership]]"
   - "[[National Strategy on Microelectronics Research]]"
+  - "[[Department of Energy]]"
   - "[[National Science Board]]"
   - "[[Industrial Advisory Committee]]"
   - "[[National Advanced Packaging Manufacturing Program]]"
   - "[[Microelectronics Commons]]"
-  - "[[Department of Energy]]"
+  - "[[National Nanotechnology Coordinated Infrastructure]]"
   - "[[President's Science Advisory Committee]]"
 related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
@@ -94,7 +97,7 @@ updated: 2026-10-10
 > [!actor-grid] 组织治理架构
 > - **决策机构（理事会 / 董事会）** 美国总统亲自担任主席；副总统、商务部长、国防部长、能源部长、卫生部长及各关键研发机构长官为法定正式成员。
 > - **执行机构（秘书处 / 管理层）** 由总统科学顾问兼 [[Office of Science and Technology Policy|OSTP]] 主任担任执行主任，负责召集会议、督办跨部门联合工作组日常运转。
-> - **专门委员会与小组委员会** 设立科学、技术、环境、国土与国家安全（Committee on Homeland and National Security, CHNS）等专门委员会；在 CHNS 下依据 2021 财年《国防授权法案》第 9906 条专门设立[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（SML），统筹全美微电子战略与预算协同。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. ii, 9–10)]]
+> - **专门委员会与小组委员会** 设立科学、技术、环境、国土与国家安全（Committee on Homeland and National Security, CHNS）等专门委员会；在 CHNS 下依据 2021 财年《国防授权法案》第 9906 条专门设立[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（SML），由 OSTP、DoD、[[Department of Energy|DOE]]、NIST、[[National Science Foundation|NSF]] 五大机构主管共同担任联合主席（Co-Chairs），并纳入 NSA、[[National Aeronautics and Space Administration|NASA]] 等机构代表，统筹全美微电子战略与预算协同。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. ii, 9–10)]]
 > - **会员与外部利益相关者** 深度联动[[National Science Board|国家科学委员会]]（NSB）、总统科技顾问委员会（PCAST）、芯片[[Industrial Advisory Committee|工业咨询委员会]]（IAC）及工业界代表，吸纳外部建议。
 
 > [!pathways]- 业务运行机制
@@ -108,7 +111,8 @@ updated: 2026-10-10
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **跨部门重大技术倡议统筹** 牵头孵化并统领跨部委重大科技计划，如跨越十余个机构的国家纳米技术倡议（NNI）、国家量子计划（NQI）以及《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》（统筹四大支柱与二十余项行动）。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. iv–v, 2)]]
+> - **跨部门重大技术倡议统筹** 牵头孵化并统领跨部委重大科技计划，如跨越十余个机构的国家纳米技术倡议（NNI）、国家量子计划（NQI）以及《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. iv–v, 2)]]
+> - **国家微电子研究战略四项支柱目标** 依据《[[CHIPS and Science Act|芯片法案]]》法定要求，统领全美微电子研发全链条：① 赋能下一代微电子创新（底层材料、神经形态与[[Heterogeneous Integration|异构集成]]）；② 建设互联开放的研发中试基础设施网络（NSTC/[[National Advanced Packaging Manufacturing Program|NAPMP]]/Commons/[[National Nanotechnology Coordinated Infrastructure|NNCI]]/DEG）；③ 壮大并维系工程劳动力供给流水线；④ 筑牢全栈[[Hardware Security|硬件安全]]、可信防伪与供应链韧性。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 1–4, 48)]]
 > - **关键与新兴技术清单** 动态研判并发布关乎国家安全与战略优势的关键技术领域（如人工智能、半导体、先进计算、生物技术），指导联邦资金优先倾斜。
 > - **[[Research Security|科研安全]]与诚信跨部门标准制定** 针对学术交流与地缘技术竞争风险，组织制定统领全美联邦基金的科研安全披露、利益冲突防范与数据合规指引。
 > - **年度战略报告与优先序指南** 每年发布跨部门战略投资指引，为国会科技拨款与部委预算编制提供法定参考基准。

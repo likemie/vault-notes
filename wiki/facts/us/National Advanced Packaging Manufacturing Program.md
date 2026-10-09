@@ -10,9 +10,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 20
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2022–至今"
 initiator_organization: "美国商务部国家标准与技术研究院（NIST）"
@@ -26,8 +26,8 @@ tags:
 related_concepts:
   - "[[Assemblage]]"
   - "[[Heterogeneous Integration]]"
-  - "[[Competitiveness]]"
   - "[[Process Design Kit]]"
+  - "[[Competitiveness]]"
   - "[[Technology Transfer]]"
   - "[[Technology Infusion]]"
   - "[[Pilot Scale Platform]]"
@@ -80,7 +80,7 @@ updated: 2026-10-10
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> 通过资助共性先进封装中试线、确立开放式[[Assemblage|装配]]设计套件（Assembly Design Kit, ADK）与通用芯粒（[[Heterogeneous Integration|Chiplet]]）互连互通标准，并攻克微米/亚微米级微互连（微凸点、硅通孔与直接混合键合）计量与多物理场协同仿真，大幅降低复杂异构微系统的研发准入门槛，形成从实验室概念到 300 毫米晶圆级量产封装的本土工程化闭环。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 10, 15)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17–18, 24)]]
+> 通过资助共性先进封装中试线、确立开放式[[Assemblage|装配]]设计套件（[[Process Design Kit|Assembly Design Kit]], ADK）与通用芯粒（[[Heterogeneous Integration|Chiplet]]）互连互通标准，并攻克微米/亚微米级微互连（微凸点、硅通孔与直接混合键合）计量与多物理场协同仿真，大幅降低复杂异构微系统的研发准入门槛，形成从实验室概念到 300 毫米晶圆级量产封装的本土工程化闭环。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 10, 15)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17–18, 24)]]
 
 > [!policy-design]- 方案设计
 > - **项目目标** 建立国内具备全球[[Competitiveness|竞争力]]的先进封装制造生态，使新型先进封装构型从概念设计到工业级量产验证的周期与成本削减 50% 以上。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–10)]]
@@ -106,7 +106,7 @@ updated: 2026-10-10
 > [!dev-timeline] 项目推进历程
 > - **2022 — 立法授权与资金划拨** 国会通过《[[CHIPS and Science Act|芯片与科学法案]]》，正式为 NAPMP 授权 30 亿美元专项拨款，确立其与 [[National Science and Technology Council|NSTC]] 并列的法定战略地位。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 3, 26)]]
 > - **2023 — 顶层愿景与技术路线图确立** 商务部发布《[[National Semiconductor Technology Center|国家半导体技术中心]]愿景与战略》，界定 NAPMP 与 NSTC 的协同机制，系统规划 2.5D/3D 封装中试线与芯粒互连规范。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]
-> - **2024 — 纳入白宫微电子国家战略核心支柱** NSTC 发布《微电子研究国家战略》，将先进封装与[[Heterogeneous Integration|异构集成]]确立为全美四大战略科技目标之一，明确 NAPMP 在[[Assemblage|装配]]设计套件（ADK）、跨尺度先进计量与 300 毫米中试验证中的核心落地功能。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10, 17–18)]]
+> - **2024 — 纳入白宫微电子国家战略核心支柱** NSTC 发布《微电子研究国家战略》，将先进封装与[[Heterogeneous Integration|异构集成]]确立为全美四大战略科技目标之一，明确 NAPMP 在[[Assemblage|装配]]设计套件（[[Process Design Kit|ADK]]）、跨尺度先进计量与 300 毫米中试验证中的核心落地功能。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10, 17–18)]]
 > - **2024–至今 — 竞争性资助发布与[[Pilot Scale Platform|中试基地]]落地** NIST 陆续发布先进封装基板、制造装备工具、热管理以及先进封装原型中试基地（Prototyping Facility）专项资助机会公告（NOFO），全面启动产学研攻关联合体建设。
 
 ---
@@ -120,7 +120,7 @@ updated: 2026-10-10
 > - **大学与科研机构** 开展前沿热力学模拟、新型界面材料、微结构表征与异构布线算法研究，培养封装领域高阶工程人才。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 18–19)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 31–36)]]
 
 > [!pathways]- 实施路径与管理
-> - **跨学科技术标准制定** 联合行业联盟（如 UCIe [[Industry Affiliate Program|产业联盟]]）与 IEEE 封装学会确立统一的芯粒机械尺寸、电气互连、[[Assemblage|装配]]设计套件（ADK）与通信协议标准。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17–18)]]
+> - **跨学科技术标准制定** 联合行业联盟（如 UCIe [[Industry Affiliate Program|产业联盟]]）与 IEEE 封装学会确立统一的芯粒机械尺寸、电气互连、[[Assemblage|装配]]设计套件（[[Process Design Kit|ADK]]）与通信协议标准。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17–18)]]
 > - **软硬件[[Co-Design|协同设计]]工具集成** 与主流 EDA 软件商合作，开发针对 3D [[Heterogeneous Integration|异构集成]]的多物理场联合仿真平台并嵌入 NSTC 云端网关。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 16–17)]]
 > - **全链条跨部门无缝衔接** 承接国家科学基金会（[[National Science Foundation|NSF]]）与国防部[[Microelectronics Commons|微电子共用体]]的早期原型，直接对接商业代工厂量产。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 9–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23)]]
 
@@ -131,7 +131,7 @@ updated: 2026-10-10
 > [!indicators]- 评估指标体系
 > - **技术成熟度跃升** 将先进异构封装方案的[[Technology Readiness Level|技术就绪度]]（TRL）从实验室原理（TRL 3–4）加速推进至工业量产就绪（TRL 7–8）。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 9–10)]]
 > - **本土产业链完整度** 建立涵盖先进中介层制造、微凸点焊接、混合键合及高密度测试的本土全流程验证能力。
-> - **研发门槛降低** 借助标准芯粒库与[[Assemblage|装配]]设计套件（ADK），使初创企业开发系统级封装（System-in-Package, SiP）的研发周期与资金投入降低 50% 以上。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 15–17)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17, 24)]]
+> - **研发门槛降低** 借助标准芯粒库与[[Assemblage|装配]]设计套件（[[Process Design Kit|ADK]]），使初创企业开发系统级封装（System-in-Package, SiP）的研发周期与资金投入降低 50% 以上。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 15–17)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17, 24)]]
 
 > [!finding-cards] 核心实证结论与战略预期
 > - **打破单片晶圆微缩物理瓶颈** 推动芯片设计向模块化芯粒系统解耦演进，显著降低大芯片制造缺陷率与流片成本。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–10, 15)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10, 17)]]
@@ -163,7 +163,7 @@ updated: 2026-10-10
 > > - **国家战略统筹辩护** 强调通过商业建厂补贴（Manufacturing Incentives）与 NAPMP 研发基金联动，正同步培育本土先进封装晶圆厂与中试基础设施，打破外流恶性循环。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–3, 8–11)]]
 
 > [!lessons] 经验教训与启示
-> - **标准先行与生态共建** 异构封装的成败高度取决于跨厂商接口标准（如 UCIe）、装配设计套件（ADK）与 EDA 仿真工具的[[Open-Mindedness|开放性]]，必须在研发早期避免闭门造车与专有格式壁垒。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17–18)]]
+> - **标准先行与生态共建** 异构封装的成败高度取决于跨厂商接口标准（如 UCIe）、[[Process Design Kit|装配设计套件]]（ADK）与 EDA 仿真工具的[[Open-Mindedness|开放性]]，必须在研发早期避免闭门造车与专有格式壁垒。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17–18)]]
 > - **中试公共品与商业闭环衔接** 先进封装研发必须紧密依托 [[National Science and Technology Council|NSTC]] 共享物理设施与商业晶圆代工厂，避免研发成果停留在实验室论文阶段。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 15, 26)]]
 
 ---
@@ -189,4 +189,4 @@ updated: 2026-10-10
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 系统阐述国家先进封装制造计划（NAPMP）的战略愿景，解析其与 [[National Science and Technology Council|NSTC]] 及[[Microelectronics Commons|微电子共用体]]协同攻克[[Heterogeneous Integration|异构集成]]中试断层的运行机制。
-> - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 白宫微电子研究国家战略，将先进封装与异构集成确立为战略目标 1 的核心支柱，系统规划[[Assemblage|装配]]设计套件（ADK）与 300 毫米先进封装[[Pilot Scale Platform|中试平台]]。
+> - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 白宫微电子研究国家战略，将先进封装与异构集成确立为战略目标 1 的核心支柱，系统规划[[Assemblage|装配]]设计套件（[[Process Design Kit|ADK]]）与 300 毫米先进封装[[Pilot Scale Platform|中试平台]]。

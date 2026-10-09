@@ -5,13 +5,13 @@ aliases:
   - DOE
   - United States Department of Energy
   - U.S. Department of Energy
-summary: "美国联邦政府主管国家能源安全、核安全监管、重大科技基础设施及前沿物理与计算科学研发的内阁级行政部门，管理包括橡树岭、劳伦斯伯克利、阿贡及桑迪亚等17所国家实验室；既是冷战大科学工程与跨学科联合攻关的制度发源地，也是21世纪使命导向创新政策、绿色技术市场塑造与创世纪计划AI科学超级平台的战略核心。"
+summary: "美国联邦政府主管国家能源安全、核安全监管、重大科技基础设施及前沿物理与计算科学研发的内阁级行政部门，管理包括橡树岭、劳伦斯伯克利、阿贡及桑迪亚等17所国家实验室；既是冷战大科学工程与极紫外光刻（EUV LLC）的制度发源地，也是国家微电子战略中微电子领导小组（SML）联合主席单位与纳米科学基础设施（NSRCs）统筹者，并领航创世纪计划AI科学超级平台。"
 type: fact
 subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 43
+fact_related_count: 49
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -25,17 +25,19 @@ tags:
   - theme/clean-energy
   - theme/artificial-intelligence
   - theme/national-labs
+  - theme/semiconductor
   - region/us
 related_concepts:
   - "[[Big Science]]"
   - "[[Research Translation]]"
-  - "[[Market Shaping and Creating]]"
   - "[[Research Universities]]"
   - "[[Grand Challenges]]"
+  - "[[Co-Design]]"
   - "[[Megascience Installations]]"
   - "[[Innovation Ecosystem]]"
   - "[[Evidence Ecosystem]]"
   - "[[Paradigm]]"
+  - "[[Market Shaping and Creating]]"
   - "[[Nature of Innovation]]"
   - "[[Valley of Death]]"
   - "[[Long-Term Public Utility]]"
@@ -57,6 +59,7 @@ related_persons:
   - "[[Michael Kratsios]]"
   - "[[Paula Stephan]]"
 related_facts:
+  - "[[Subcommittee on Microelectronics Leadership]]"
   - "[[Genesis Mission]]"
   - "[[Manhattan Project]]"
   - "[[Loan Programs Office]]"
@@ -65,21 +68,25 @@ related_facts:
   - "[[ARPA-E]]"
   - "[[DARPA]]"
   - "[[CHIPS and Science Act]]"
+  - "[[National Science and Technology Council]]"
+  - "[[National Strategy on Microelectronics Research]]"
   - "[[Transformational AI Models Consortium]]"
   - "[[National Institutes of Health]]"
   - "[[National Science Foundation]]"
   - "[[Nuclear Regulatory Reform Executive Orders 2025]]"
+  - "[[National Semiconductor Technology Center]]"
   - "[[Bell Labs]]"
 related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
+  - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
   - "[[Argument_Brint_2023_IHE]]"
   - "[[Argument_Stephan_2013_NBER]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 
 # Department of Energy
@@ -89,7 +96,7 @@ updated: 2026-10-09
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 美国能源部（United States Department of Energy，简称 DOE）是美国联邦政府负责国家能源战略、核安全保障以及重大基础与工程前沿科学研发的内阁级行政主管机关；依托遍布全美的 17 所国家实验室体系（汇聚约 4 万名科学家与工程师，年研发预算约 200 亿美元），DOE 构成了美国物理科学、先进材料、高性能计算以及大型重大科技基础设施领域的头号公共资助者与研发组织者。在科技政策与国家战略中，DOE 既是冷战[[Big Science|大科学工程]]与颠覆性[[Research Translation|技术转化]]的母体，也是 21 世纪使命导向型科研、绿色[[Market Shaping and Creating|市场塑造]]以及[[Genesis Mission|创世纪计划]]（Genesis Mission）人工智能科研超级平台的战略中枢。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 19, 61–63)]]
+> 美国能源部（United States Department of Energy，简称 DOE）是美国联邦政府负责国家能源战略、核安全保障以及重大基础与工程前沿科学研发的内阁级行政主管机关；依托遍布全美的 17 所国家实验室体系（汇聚约 4 万名科学家与工程师，年研发预算约 200 亿美元），DOE 构成了美国物理科学、先进材料、高性能计算以及大型重大科技基础设施领域的头号公共资助者与研发组织者。在科技政策与国家战略中，DOE 既是冷战[[Big Science|大科学工程]]与颠覆性[[Research Translation|技术转化]]的母体，也是国家微电子战略中微电子领导小组（[[Subcommittee on Microelectronics Leadership|SML]]）联合主席单位，统筹全美纳米科学研究中心（NSRCs）与极低能耗半导体前沿攻关，并作为[[Genesis Mission|创世纪计划]]（Genesis Mission）人工智能科研超级平台的战略中枢。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 19, 61–63)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1977 年由吉米·卡特（Jimmy Carter）总统签署法案设立，整合二战[[Manhattan Project|曼哈顿工程]]以来的能源研发署（ERDA）、联邦能源署（FEA）及原子能委员会（AEC）等机构，以应对 1970 年代石油危机暴露出的国家能源安全脆弱性。
@@ -105,7 +112,9 @@ updated: 2026-10-09
 > - **1942–1977 — 战时军工起源与机构整合期** 源于[[Manhattan Project|曼哈顿工程]]建立的洛斯阿拉莫斯、橡树岭等绝密实验室，历经原子能委员会（AEC）与能源研发署（ERDA），逐步从单一核武器研制拓展至核动力堆、受控核聚变与辐射生物学研究（包括后来成为[[Human Genome Project|人类基因组计划]]发端的基础工作）。
 > - **1977–2000 — 内阁设部与[[Big Science|大科学]]基础设施确立** 1977 年正式成立能源部，将分散的国家实验室群整合为统一的国家科研基础设施基地；在 1990 年代末，能源部劳伦斯利弗莫尔、劳伦斯伯克利与桑迪亚三大国家实验室组建“虚拟国家实验室”（Virtual National Laboratory, VNL），深度协同英特尔等工业巨头组建 [[EUV LLC]] 产学研财团，历时四年攻克极紫外光刻核心技术原型。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 44)]]
 > - **2009 — 危机应对与颠覆性绿色创新机制爆发** 在《美国复苏与再投资法案》（ARRA）支持下，正式启动高级能源研究计划署（[[ARPA-E|Advanced Research Projects Agency-Energy]], [[DARPA|ARPA]]-E，借鉴 [[DARPA]] 模式），设立能源前沿研究中心（EFRCs），并通过第 1705 条款清洁能源贷款担保计划向特斯拉等企业注入数十亿美元风险贷款。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
-> - **2022 — [[CHIPS and Science Act|芯片法案]]授权与科研基础扩容** 依据《[[CHIPS and Science Act|芯片与科学法案]]》，科学办公室获授权在五年内新增 305 亿美元预算，重点通过竞争性课题流向高水平[[Research Universities|研究型大学]]实验室，与国家实验室协同攻坚清洁能源、量子计算与先进材料。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
+> - **2022–2024 — [[CHIPS and Science Act|芯片法案]]授权与国家微电子战略统筹**
+>   - 依据《[[CHIPS and Science Act|芯片与科学法案]]》，科学办公室获授权在五年内新增 305 亿美元预算，重点通过竞争性课题流向高水平[[Research Universities|研究型大学]]实验室，与国家实验室协同攻坚清洁能源、量子计算与先进材料；[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
+>   - 在[[National Science and Technology Council|国家科学技术委员会]]（[[National Science and Technology Council|NSTC]]）微电子领导小组（[[Subcommittee on Microelectronics Leadership|SML]]）中担任联合主席，牵头编制《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》；统领 5 大纳米科学研究中心（NSRCs）与微电子[[Co-Design|协同设计]]（Microelectronics Co-Design）专项，攻坚二维材料、自旋电子器件与能效极限突破。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12, 19–21)]]
 > - **2025–2026 — [[Genesis Mission|创世纪计划]]领航与国家人工智能科研基础设施重塑** 白宫签署国家安全总统备忘录启动[[Genesis Mission|创世纪计划]]（Genesis Mission），指定 DOE 为牵头联邦机构，统筹 17 所国家实验室打造“美国科学与安全平台”（ASSP），组建涵盖 24 家顶级产学研机构的“[[Transformational AI Models Consortium|变革性人工智能模型联合体]]”（Transformational AI Models Consortium），并在全美实验室部署自主闭环机器人合成与表征设施，同时全面落实 2025 年核能监管改革行政命令。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 61–63, 67–68)]]
 
 ---
@@ -130,7 +139,9 @@ updated: 2026-10-09
 
 > [!finding-cards] 核心业务与科研矩阵
 > - **[[Megascience Installations|大科学装置]]与物理基石** 运营先进光子源（APS）、国家同步辐射光源二期（NSLS-II）与散裂中子源（SNS）在内的全球顶尖科研设施。
-> - **超级计算与数值模拟平台** 研制 Frontier、Aurora、Summit 等百亿亿次级（Exascale）超级计算机，构筑全美科学 AI 模型训练的核心算力基座。
+> - **纳米科学研究中心（NSRCs）与微纳中试基础设施** 依托 5 大国家纳米科学研究中心（如伯克利分子铸造厂 Molecular Foundry、阿贡纳米材料中心 CNM、布鲁克海文功能纳米材料中心 CFN），为全美学术界与初创企业提供开放式纳米材料合成、纳米光刻与高精度结构表征平台。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 19–21)]]
+> - **微电子[[Co-Design|协同设计]]（Co-Design）与能效极限攻坚** 设立微电子科学研究中心与极低能耗计算专项，跨越材料、器件、物理紧凑模型到系统架构，攻克二维半导体（TMDs）、拓扑量子材料与自旋电子学器件，解决人工智能与数据中心指数级电力瓶颈。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12)]]
+> - **超级计算与数值模拟平台** 研制 Frontier、Aurora、Summit 等百亿亿次级（Exascale）超级计算机，构筑全美微电子多尺度材料模拟与科学 AI 模型训练的核心算力基座。
 > - **[[Transformational AI Models Consortium|变革性人工智能模型联合体]]（Transformational AI Models Consortium）** 聚合 24 家产学研伙伴，依托 DOE 独有的物理、材料、燃烧与聚变实验数据集，联合训练跨学科科学基座大模型。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 61–63)]]
 > - **先进制程光刻研发母体（[[EUV LLC]] 产学研财团）** 1997 年依托利弗莫尔、伯克利与桑迪亚国家实验室组建虚拟国家实验室（VNL），与英特尔、AMD 等企业联合攻坚，完成了极紫外光刻（EUV）物理可行性验证与核心专利沉淀。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 44)]]
 > - **颠覆性清洁能源技术孵化（[[DARPA|ARPA]]-E）** 资助固态电池电解质、先进地热钻探与电网级储能技术，攻克高风险工程发明瓶颈。
@@ -208,6 +219,9 @@ updated: 2026-10-09
 > | [[Nuclear Regulatory Reform Executive Orders 2025]] | Fact | 能源部负责落地推进的核电扩容、功率提升与先进反应堆建设新政。 |
 > | [[National Institutes of Health]] | Fact (Organization) | 与能源部并列为美国两大任务导向型联邦科研机构典范。 |
 > | [[DARPA]] | Fact (Organization) | 能源部高级能源研究计划署（[[ARPA-E]]）直接借鉴的组织母版。 |
+> | [[National Strategy on Microelectronics Research]] | Fact (Policy) | 国家微电子顶层战略，DOE 担任微电子领导小组（[[Subcommittee on Microelectronics Leadership\|SML]]）联合主席并主导前沿材料与能效攻坚。 |
+> | [[Subcommittee on Microelectronics Leadership]] | Fact (Organization) | [[National Science and Technology Council\|国家科学技术委员会]]跨部门微电子协调机构，DOE 为五大联合主席单位之一。 |
+> | [[National Semiconductor Technology Center]] | Fact (Organization) | 商务部主导的国家半导体中枢，与 DOE 国家实验室的[[Megascience Installations\|大科学装置]]和超级算力深度联动。 |
 > | [[Mission-Oriented Innovation Policy]] | Concept | 能源部推行清洁能源转型与创世纪计划的核心政策[[Paradigm\|范式]]。 |
 > | [[Market Shaping and Creating]] | Concept | 能源部通过贷款担保与[[Megascience Installations\|大科学装置]]主动塑造技术市场的理论透镜。 |
 > | [[ROAR Framework]] | Theory | 指导能源部实现战略方向设定、探索型组织能力与风险收益对称分配的治理框架。 |
@@ -227,6 +241,7 @@ updated: 2026-10-09
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统阐述能源部在 2025 年[[Genesis Mission|创世纪计划]]中的领导地位，论证 17 所国家实验室在科学 AI 基座模型训练、闭环自主实验室部署、[[EUV LLC]]/[[Human Genome Project|HGP]] 传统继承以及 2025 年核能监管改革中的战略支柱功能。
+> - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 阐释《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》下能源部作为 [[Subcommittee on Microelectronics Leadership|SML]] 联合主席，统领 5 大纳米科学研究中心（NSRCs）、[[Megascience Installations|大科学装置]]与微电子[[Co-Design|协同设计]]（Co-Design）专项，在二维材料与能效极限攻坚中的战略机制。
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 系统评析《[[CHIPS and Science Act|芯片与科学法案]]》对联邦科技资助格局的重塑，指出能源部科学办公室获得五年内 305 亿美元的经费法定授权，重点向高校实验室定向配置前沿基础与应用[[Comparative Education as a Cross-Sectional Area|交叉领域]]竞争性科研经费。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 深度剖析美国能源部清洁能源贷款担保计划（特斯拉 vs. 索林德拉）的案例，系统论述组合式风险管理理念及公共部门建立风险收益对称机制的紧迫性。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al. (2013)]] — 系统剖析能源部与 [[National Institutes of Health|NIH]] 任务导向型科研组织机制，批评传统基础/应用二分法对长周期技术发明的阻碍。
