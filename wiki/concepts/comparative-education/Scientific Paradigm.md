@@ -8,7 +8,7 @@ aliases:
 summary: "20 世纪 50 至 70 年代支配英美比较教育学的知识体系与研究纲领，摒弃古典历史学派主观印象与思辨归因，通过变量控制、量化共变检验与假说-演绎问题法探寻跨国规律与政策预测，并在实践中与战后国家理性规划形成合法化共谋"
 type: concept
 domain: "comparative-education"
-related_count: 62
+related_count: 69
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -51,12 +51,15 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Postpositivism]]"
   - "[[Academic Freedom]]"
+  - "[[Securitization of Technology]]"
   - "[[Bildung]]"
   - "[[Critical Dualism]]"
   - "[[Determinism]]"
+  - "[[Research Security]]"
   - "[[Scientism]]"
+  - "[[National Innovation System]]"
+  - "[[Research Universities]]"
   - "[[Theoretical Perspective]]"
-  - "[[Securitization of Technology]]"
 related_theories:
   - "[[Structural Functionalism]]"
   - "[[Post-structuralism]]"
@@ -85,9 +88,11 @@ related_facts:
   - "[[IEA]]"
   - "[[OECD]]"
   - "[[PISA]]"
+  - "[[CHIPS and Science Act]]"
 related_arguments:
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Rust_2009_Reflections]]"
+  - "[[Argument_Zhuo_2026_ICE]]"
 confidence: high
 status: active
 created: 2026-09-07
@@ -229,6 +234,16 @@ updated: 2026-10-09
 
 ---
 
+### 命题五　当代地缘科技博弈推动开放国际主义科学范式向技术安全化与使命导向范式演进
+
+> [!concept-lens] 科学范式的地缘安全化与使命导向转向
+> 这类命题探讨 21 世纪大国科技竞争背景下，科学范式如何从战后以好奇心驱动、全球开放共享为特征的国际主义知识生产体系，向以国家安全、战略技术主权与有组织攻关为特征的使命导向范式发生深刻跃迁。
+
+> [!claim] [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]]
+> **产业竞争安全化与科学知识生产范式重组** 卓泽林指出，半导体产业竞争逻辑的[[Securitization of Technology|技术安全化]]转向彻底重构了科学范式与知识生产的底层逻辑：科学研究由新自由主义时期的“学术兴趣驱动、自由市场适配、追求论文与专利指标”传统范式，跃升为“国家战略使命导向、绑定军事与产业安全、以创新体系节点连接能力为核心”的后新自由主义安全化范式。在这一范式转型中，外籍人才流动受限与排他性安全审查打破了传统的开放无界交流公理，引发了学术共同体自由探索与国家排他性战略目标之间的深层制度冲突。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–26)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -238,6 +253,7 @@ updated: 2026-10-09
 > | **政治合法化与权力共谋** | 实证量化数据充当国家规划与技术官僚的科学借口（alibi） | 跨国[[Policy Borrowing\|政策借用]]、教育计划体制与官方资助市场 | Mattheou, Parnes, Schultz, Halsey |
 > | **范式危机与学科复数化** | 规划落空、量子不确定性与后现代解构导致单数范式终结 | 学科史演进、当代多元范式格局反思 | Mattheou, Husén, [[Philip Altbach\|Altbach]], Cowen |
 > | **客观认识论约束与多元主义成熟** | 自然情境受限与非同质单位制约，单一实证范式解体让位于健康多元主义 | 跨国比较研究设计、理论多元格局定性、期刊实证计量 | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]]; Smelser (1976) |
+> | **地缘安全化与使命导向演进** | 产业竞争安全化重构知识生产底层逻辑，开放国际主义范式转向国家使命与技术主权范式 | 大国科技博弈、战略硬科技政策与大学科研转型 | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] |
 
 ---
 
@@ -249,17 +265,19 @@ updated: 2026-10-09
 > - **1970 年代中叶 — 三重危机与全包容神话破灭** 西方滞胀与第三世界危机戳破了实证规划承诺；量子物理学打破[[Determinism|决定论]]神话；后现代思潮解构[[Grand Theory|宏大叙事]]，单一科学范式不可逆转地走向衰落。（pp. 68–69）
 > - **1980 年代至今 — 学科复数化与全球治理制度惯性** 学界确立多元范式并存且无霸权主导的共识（[[Comparative Educations]]）；与此同时，实证量化模式在 [[IEA]] 与 [[OECD]]（如 [[PISA]] 测验）等跨国治理机制中依然保有强大的制度惯性[[Discourse|话语]]权。（p. 69）
 > - **2000 年代 — [[Pluralism|健康多元主义]]实证确立** 拉斯特等学者（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）依托[[Document|文献]]计量实证证实，冷战时期单一实证功能主义正统已彻底终结，学科演进为涵盖 26 种理论传统的健康多元主义格局，确立了方法论与理论工具自由选择的成熟研究范式。
+> - **2020 年代至今 — [[Securitization of Technology|技术安全化]]与国家使命导向范式重构** 在大国地缘科技博弈与《[[CHIPS and Science Act|芯片与科学法案]]》等立法推动下，科学范式经历从新自由主义市场适配向后新自由主义技术安全化与战略使命导向的深度转型，[[Research Security|科研安全]]审查与外籍人才管控使传统的开放国际主义科学范式面临结构性重塑。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–26)]]
 
 ---
 
 ## 实证数据
 
-> [!ref-table]- 比较教育学理论[[Paradigm|范式]]演变与实证分布（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）
+> [!ref-table]- 比较教育学与科技治理理论[[Paradigm|范式]]演变观察
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 指标 | 关键结果 | 解释边界 |
 > |---|---|---|---|---|
 > | [[Argument_Rust_2009_Reflections\|Rust et al. (2009, pp. 131–132, 135)]] | 《比较教育评论》（CER）等主流期刊长期发表论文计量分析 | 理论范式与母学科认同分布 | 1960 年代结构功能主义与现代化理论的一统天下瓦解，至 1990 年代演变为 26 种理论范式共存（[[Positivism\|实证主义]] 40.5%、[[Postpositivism\|后实证主义]] 36.1%、非实证主义 23.4%）；社会学、政治学与经济学并列为三大母学科 | 揭示单一[[Scientism\|科学主义]]垄断的崩溃，实证多元性不等同于所有范式在政策制定中具有同等权重 |
+> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026, pp. 24–26)]] | 美国半导体[[National Innovation System\|国家创新体系]]立法与顶尖[[Research Universities\|研究型大学]]科研转型案例 | 科学研究范式转型维度与制度机制比较 | 科学研究动因由兴趣驱动与市场适配转向国家使命导向与技术自主；评估标准由论文与专利指标转向体系节点连接能力；国际交流由开放协作转向排他性安全审查与科研生态封闭 | 揭示大国地缘科技博弈对传统开放科学范式与学者自由探索空间的制度性重塑 |
 
 ---
 
@@ -299,6 +317,7 @@ updated: 2026-10-09
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 全景式考据比较教育学科学[[Paradigm|范式]]的兴起动因、四大派别在目标与法则上的争论、其实用政策结盟机制以及走向解体的深层[[Epistemology|认识论]]原因。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 考据比较教育学在近代 26 个比较学科群中的定位，分析自然情境与[[Dissimilar Units|非同质单位]]带来的认识论边界，实证揭示单一科学范式垄断瓦解与 26 种[[Theoretical Perspective|理论视角]][[Pluralism|健康多元主义]]的形成。
+> - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统论述大国地缘科技博弈与《[[CHIPS and Science Act|芯片法案]]》如何推动科学研究范式由新自由主义市场适配向后新自由主义[[Securitization of Technology|技术安全化]]与国家使命导向跃迁，深刻反思科研生态封闭化对[[Academic Freedom|学术自由]]与开放创新的制度性冲击（pp. 24–26）。
 > - Bereday (1964) — 提出描述、解释、并置、比较的四步操作程序，充当从古典历史向实证科学转型的关键过渡桥梁。
 > - Anderson (1961) — 奠定芝加哥学派[[Structural Functionalism|结构功能主义]]立足点，主张探索社会系统超越时空的恒常不变关系。
 > - Noah & Eckstein (1969) — 奠定经验实证与跨国[[Variable|变量]]共变检验纲领，建立五阶段调查程序并保持拒称法则的方法论自律。
@@ -320,3 +339,4 @@ updated: 2026-10-09
 > | [[Problem Approach]] | Method | 霍姆斯学派在科学范式内推进假说-演绎与情境政策预测的核心方法论路径。 |
 > | [[Pluralism]] | Theory | 科学范式单一垄断瓦解后学科演化形成的 26 种理论传统并存的健康多元主义格局。 |
 > | [[Securitization of Technology]] | Concept | 当代地缘竞争中驱动科学研究范式由自由探索向战略使命与排他防御转向的政治经济动力。 |
+> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 揭示大国地缘科技博弈驱动科学研究范式发生技术安全化与国家使命导向跃迁的实证[[Document\|文献]]。 |

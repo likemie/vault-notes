@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Application Engineering]]"
   - "[[Membership-based Research Consortium]]"
+  - "[[Document]]"
 related_theories:
   - "[[Systems of Innovation]]"
 related_methods:
@@ -196,8 +197,10 @@ updated: 2026-10-09
 > | [[Precompetitive Research]] | Concept | SRC 划定跨企业合作边界与规避反垄断制裁的核心制度概念。 |
 > | [[Public-Private Partnership in Research]] | Concept | SRC 作为行业自律与公私协同典范所代表的产学研合作[[Paradigm\|范式]]。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 推动设立 NSTC、在国家层面上扩展 SRC [[University-Industry Collaboration\|产学合作]]与人才培养模式的现代核心法案。 |
+> | [[Joint University Microelectronics Program 2.0]] | Fact (Program) | SRC 联合 [[DARPA]] 发起、资助 14 校协同联盟攻坚微电子异构集成的国家级产学协同重大计划。 |
 > | [[David C. Mowery]] | Person | 系统评估 Sematech 与 SRC 在国家[[Systems of Innovation\|创新系统]]（NIS）中分工定位的科技政策学者。 |
 > | [[Argument_Mody_2017_MOH\|Mody (2017)]] | Argument | 探讨 SRC 与康奈尔 [[National Research and Resource Facility for Submicron Structures\|NRRFSS]]、斯坦福 CIS 等大学中心同源嵌合及北卡竞标总部历史的研究。 |
+> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 分析 SRC 联合 DARPA 设立 JUMP 2.0 跨校协作网络攻坚微电子异构集成的实证[[Document\|文献]]。 |
 
 ---
 

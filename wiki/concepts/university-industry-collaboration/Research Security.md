@@ -8,7 +8,7 @@ aliases:
 summary: "大学与科研体系为保护学术研究、关键技术与知识产权免受外国不当干预、经济间谍活动与未经授权转移而建立的制度性风险防范机制；近年在大国地缘技术博弈中进一步上升为国家科技治理重塑国际科研合作边界、将学术自治置于国家安全合规之下的核心治理工具。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 27
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Academic Risk Aversion]]"
   - "[[Securitization of Technology]]"
-  - "[[Evidence Ecosystem]]"
   - "[[Technology-Oriented Social Contract]]"
   - "[[Competitiveness]]"
   - "[[Creativity]]"
@@ -151,7 +150,7 @@ updated: 2026-10-09
 > **合规寒蝉效应与认知生态收缩** 当科研安全审查由特定军民两用领域外溢至广谱基础探索时，将带来多重负向后果：一方面，刚性安全合规与潜在的政治追责加剧了[[Academic Risk Aversion|学术避险主义]]，导致学者回避高风险或前沿国际合作；另一方面，先进制程与技术限制的强化阻碍了全球顶尖科研人才流动，加剧了全球科学网络的阵营化割裂，严重动摇全球前沿创新的源头生态。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1061, 1064)]]
 
 > [!claim] [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]]
-> **[[Securitization of Technology|技术安全化]]侵蚀链与科研生态封闭化** 半导体竞争逻辑从商业效率向大国地缘博弈的跃升，推动联邦政府将科研安全审查层层穿透至大学微观科研。外籍人才政策与跨国交流审查以意识形态与国别划线，迫使高校学术共同体从全球开放协作走向消极合作与科研生态封闭化（Closure of [[Evidence Ecosystem|research ecosystem]]）；这不仅挤压了学者的自由探索空间，更在长远上动摇颠覆性创新的多元源头生态。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–26)]]
+> **[[Securitization of Technology|技术安全化]]侵蚀链与科研生态封闭化** 半导体竞争逻辑从商业效率向大国地缘博弈的跃升，推动联邦政府将科研安全审查层层穿透至大学微观科研。外籍人才政策与跨国交流审查以意识形态与国别划线，迫使高校学术共同体从全球开放协作走向消极合作与科研生态封闭化；这不仅挤压了学者的自由探索空间，更在长远上动摇颠覆性创新的多元源头生态。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–26)]]
 
 ---
 
@@ -162,7 +161,7 @@ updated: 2026-10-09
 > |---|---|---|---|
 > | **宏观战略工具化** | 解释科研安全如何成为国家在大国博弈中重塑国际合作边界的治理抓手 | 科技外交、国家地缘战略与[[Social Contract of Science\|科学社会契约]]转型 | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] |
 > | **微观信任促进论** | 阐明高校专业保障团队如何将合规负担转化为增进产学与跨国合作的信任后盾 | 大学科研管理、产学研协同治理与制度化支持体系建设 | [[Argument_Dean_2025_UICollaborationSupport\|Dean et al. (2025)]] |
-> | **生态封闭与避险论** | 揭示科研安全与技术安全化过度泛化对学术自由、学者流动与开放科研生态的封闭性侵蚀 | 科技政策评估、学者合规心理、全球科学阵营化与半导体安全化分析 | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]]; [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] |
+> | **生态封闭与避险论** | 揭示科研安全与技术安全化过度泛化对学术自由、学者流动与开放科研生态的封闭性侵蚀 | 科技政策评估、学者合规心理、全球科学阵营化与半导体安全化分析 | 樊春良; [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] |
 
 ---
 

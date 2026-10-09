@@ -10,7 +10,7 @@ aliases:
 summary: "由美国国家航空航天局（NASA）于 1970 年代创设并在全球科技与产业政策中广泛应用的 9 级技术成熟度标准化评估架构（从 TRL 1 基础原理观察到 TRL 9 真实环境运行验证）。在深科技转化中，TRL 4–6 构成大学实验室与规模化量产之间的“死亡之谷”；通过中试验证平台、洁净室跨界共置与概念验证项目，能够有效桥接早期科学突破向工业级成熟度的演进。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 33
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -37,6 +37,8 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Research Universities]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Paradigm]]"
+  - "[[Cost of Ownership]]"
   - "[[Variable]]"
   - "[[Transfer Translation Transformation]]"
 related_theories: []
@@ -149,6 +151,14 @@ updated: 2026-10-09
 > [!claim] [[Argument_Zhuo_2026_ICE|卓泽林 (2026, pp. 20–24)]]; [[Argument_Kratsios_2026_OSTP|Kratsios (2026, pp. 38–41)]]
 > **洁净室共置模式填补 TRL 4–6 中试断裂** 在半导体与硬科技领域，传统大学实验室缺乏开展 TRL 4–6 工艺放大的重型装备。通过在纽约州立大学奥尔巴尼分校（Albany NanoTech Complex）建设 300 毫米晶圆研发中试线、在麻省理工学院建设 MIT.nano 开放共享洁净室，高校师生与企业研发人员在真实工业级设备上实现“共置共研”（[[University-Industry Co-location|co-location]]），使大学从单纯在上游从事 TRL 1–3 基础研究，转变为跨越 TRL 4–6 并深度协同下游 TRL 7–9 产业应用的战略[[Innovation Hub|创新枢纽]]。
 
+### 命题三　概念验证计划与非稀释性资助为 TRL 3–5 早期跨越提供减震缓冲
+
+> [!concept-lens] 概念验证资助、技术去风险与非稀释性资本
+> 探讨高校如何通过小额非稀释性公共资金支持，帮助初创团队在不被过早稀释股权的前提下提升 TRL 等级。
+
+> [!claim] [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson (2025, pp. 148–149)]]
+> **概念验证基金有效降低早期 TRL 爬升阻力** 面对 TRL 3–5 阶段企业试点缺位的死结，大学设立的[[Proof of Concept Programs|概念验证项目]]（Proof of Concept Programs）与联邦非稀释性资助（如 [[SBIR and STTR Programs|SBIR]]/STTR Phase I）为初创团队提供了关键的“去风险”（De-risking）缓冲资金。通过资助 5–20 万美元完成实验室原型的可重复性测试与初步工程化参数测定，初创企业得以在不丧失核心股权的前提下将技术推进至 TRL 5，从而显著增强吸引外部 [[Corporate Venture Capital|CVC]] 和产业战略投资者的议价能力。
+
 ---
 
 ## 概念演变
@@ -177,6 +187,13 @@ updated: 2026-10-09
 > >
 > > - **单一技术就绪派** 坚持 TRL 必须专注于纯粹的技术可行性，避免混淆市场风险与工程风险。
 > > - **多维就绪度集成派** 主张必须将 TRL 与制造就绪度（MRL）、商业就绪度（CRL）以及组织就绪度相结合，构建综合性的技术商业化评估矩阵。
+
+> [!critique] 外部批评
+> - **线性[[Paradigm|范式]]对复杂非线性创新的裁剪** 批评者指出，TRL 的单向阶梯假定忽视了现代高科技创新中“科学发现—工程试错—逆向理论建构”的高频循环，将动态演化的创新生态僵化为线性的考核里程碑。
+> - **重技术就绪而轻制造与市场落地** 单纯追求 TRL 达标可能掩盖制造成本不可行（如高 [[Cost of Ownership|COO]]）或缺乏真实市场需求的致命缺陷，导致“技术上完全成功但商业上彻底失败”的虚假就绪。
+
+> [!warning] 适用局限
+> TRL 评估体系最适用于具有明确物理硬件、航空航天、国防采办与重资产工程制造等强结构化领域；在以敏捷迭代、快速试错与网络效应为核心的纯软件开发、互联网平台及部分数字服务创新中，过度机械套用 TRL 评估将显著降低创新敏捷度。
 
 ---
 

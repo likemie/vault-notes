@@ -7,7 +7,7 @@ aliases:
 summary: "大学教师与学生在追求学术真理、传播思想、开展科研以及决定教学与学业评价方式上享有的不受非学术干预的法定与制度化自主权；既是知识生产开放渗透性的基石，也是产学合作知识产权张力与高教宏观政策微观转译的核心中介。"
 type: concept
 domain: "higher-education"
-related_count: 53
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"

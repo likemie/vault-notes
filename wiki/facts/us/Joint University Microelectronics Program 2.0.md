@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Public-Private Partnership in Research]]"
   - "[[Paradigm]]"
   - "[[Industry Affiliate Program]]"
+  - "[[Technology Readiness Level]]"
   - "[[Innovation Ecosystem]]"
   - "[[Document]]"
 related_theories: []
@@ -97,6 +98,30 @@ updated: 2026-10-09
 > [!finding-cards] 核心影响
 > - **开创网络化产学研协同[[Paradigm|范式]]** 证明了以大学为主导节点的跨校、跨区域协作网络在解决复杂系统级半导体工程难题中的制度优越性。
 > - **强化国家微电子技术战略纵深** 为美国在后摩尔时代抢占先进封装与异构集成制高点提供了持续的基础科研支撑与高水平人才储备。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]
+
+> [!stat-cards]- 关键规模与设计数据
+> - **2023 年 1 月** 由 [[DARPA]] 与 [[Semiconductor Research Corporation|SRC]] 联合正式启动推进的重大公私协同科研计划。
+> - **14 所** 宾夕法尼亚州立大学牵头的 CHIMES 核心顶尖[[Research Universities|研究型大学]]协同网络规模。
+> - **7 个** 分布于全美重点高校的跨学科微电子协同攻关研发中心。
+> - **[[Technology Readiness Level|TRL]] 4–6** 重点聚焦的微电子异构集成、先进封装与新型器件原型验证技术成熟度区间。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]
+
+---
+
+## 争议与协同挑战
+
+> [!debates] 核心协同争议与治理挑战
+>
+> > [!axis] 跨校分布式网络协同摩擦 vs 单一国家实验室集聚效率
+> > 分散在全美多所高校的跨学科团队在设备共享、知识产权归属与科研进度统筹上面临较高的跨组织协调成本。
+> >
+> > - **批评与挑战** 多校协同易受各高校独立行政体制与科研利益诉求掣肘，在工程化攻坚节奏上可能慢于高度集权的单一工业实验室或国家实验室。
+> > - **制度应对** 依托宾夕法尼亚州立大学等牵头高校设立专属管理架构，建立统一的跨校 IP 共享协议与产业导师深度介入机制，以网络化多元智力优势弥补组织摩擦。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]
+>
+> > [!axis] 国防战略安全管控 vs 高校学术开放自由与国际合作
+> > JUMP 2.0 深度嵌入 [[DARPA]] 的国防与国家安全目标，对关键技术路线与人员准入提出严格的审查与合规要求。
+> >
+> > - **张力所在** 国防安全审查与出口管制可能收窄国际留学生与外籍学者参与核心研发的渠道，与[[Research Universities|研究型大学]]传统依托的国际化开放科研生态产生摩擦。
+> > - **制度调适** 在前竞争基础研究与敏感原型转化之间划分梯度合规界面，兼顾国家科技安全与高校拔尖工程人才的开放式培养。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 23–24)]]
 
 ---
 
