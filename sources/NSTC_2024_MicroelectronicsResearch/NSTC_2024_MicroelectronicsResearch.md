@@ -1,6 +1,7 @@
 ---
 citation: "NSTC. (2024). National strategy on microelectronics research (as amended April 2025). Subcommittee on Microelectronics Leadership, Committee on Homeland and National Security, National Science and Technology Council."
-extracted_to: []
+extracted_to:
+  - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
 processed_date: 2026-10-10
 ---
 

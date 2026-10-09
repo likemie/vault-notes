@@ -19,12 +19,59 @@ tags:
   - theme/workforce-development
   - theme/university-industry-collaboration
   - region/us
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Translational Research]]"
+  - "[[Heterogeneous Integration]]"
+  - "[[Co-Design]]"
+  - "[[Hardware Security]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[Modern Industrial Policy]]"
+  - "[[Pilot Scale Platform]]"
+  - "[[Market Failure]]"
+  - "[[Technology Readiness Level]]"
+  - "[[Valley of Death]]"
+  - "[[Securitization of Technology]]"
+  - "[[Process Design Kit]]"
+  - "[[Document]]"
+  - "[[Assemblage]]"
+  - "[[Grandes Ecoles]]"
+  - "[[Curiosity-Driven Research]]"
+  - "[[Engineering Education]]"
+  - "[[STEM Education]]"
+  - "[[Von Neumann Architecture]]"
+  - "[[Megascience Installations]]"
+  - "[[Apprenticeship]]"
+  - "[[Informal Science Learning]]"
+  - "[[Public-Private Partnership in Research]]"
+  - "[[Grand Challenges]]"
+  - "[[Patient Capital]]"
+  - "[[General Purpose Technology]]"
+related_theories:
+  - "[[Ecological Systems Theory]]"
+related_methods:
+  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[National Strategy on Microelectronics Research]]"
+  - "[[National Science and Technology Council]]"
+  - "[[Subcommittee on Microelectronics Leadership]]"
+  - "[[National Semiconductor Technology Center]]"
+  - "[[National Advanced Packaging Manufacturing Program]]"
+  - "[[Microelectronics Commons]]"
+  - "[[National Nanotechnology Coordinated Infrastructure]]"
+  - "[[Industrial Advisory Committee]]"
+  - "[[DARPA]]"
+  - "[[National Science Foundation]]"
+  - "[[CHIPS and Science Act]]"
+  - "[[Department of Energy]]"
+  - "[[NSF I-Corps]]"
+  - "[[Semiconductor Research Corporation]]"
+  - "[[Manufacturing USA]]"
+  - "[[Joint University Microelectronics Program 2.0]]"
+  - "[[SBIR and STTR Programs]]"
+  - "[[Loan Programs Office]]"
+  - "[[Activate Fellowship]]"
 related_arguments: []
 sources:
   - "[[sources/NSTC_2024_MicroelectronicsResearch/NSTC_2024_MicroelectronicsResearch|NSTC_2024_MicroelectronicsResearch]]"
@@ -53,15 +100,15 @@ publisher: "Executive Office of the President of the United States"
 ## 研究问题
 
 > [!question]
-> 面对全球半导体制造与封装产能高度向东亚集中、传统单片二维物理微缩（摩尔定律）逼近原子与热极限，以及全美大学与初创企业的硬件创新深陷“实验室到代工厂”（lab-to-fab）中试转化断层的三重系统性危机，美国联邦政府应当如何通过法定跨部委顶层设计，统筹全技术栈前沿研发、联邦化共享中试设施、全谱系工程劳动力供给与公私合作伙伴关系生态，以重塑本土微电子产业基底并巩固国家安全与经济竞争力？（pp. 1–3, 8–10）
+> 面对全球半导体制造与封装产能高度向东亚集中、传统单芯片二维物理微缩（摩尔定律）逼近原子尺寸与散热物理极限，以及大学与初创企业的芯片硬件构想深陷“实验室到代工厂”（[[Translational Research|lab-to-fab]]）中试断层的三重现实困境，美国联邦政府应当如何通过法定跨部门顶层设计，统筹前沿研发、共享实验平台、全谱系工程人才培养与公私合作生态，以重塑本土半导体产业基底并保障国家安全与经济发展？（pp. 1–3, 8–10）
 
 > [!claim] 核心主张
-> **《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》（National Strategy on Microelectronics Research）**由美国[[National Science and Technology Council|国家科学技术委员会]]（NSTC）[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（SML）制定，确立了未来五年统筹全美微电子技术创新的四大战略支柱：通过[[Heterogeneous Integration|异构集成]]、全栈[[Co-Design|协同设计]]与[[Hardware Security|硬件安全]]加速前沿技术突破；依托联邦化中试设施网络与开放设计网关跨越从实验室到代工厂的转化鸿沟；构建贯通基础教育到高阶工程研究的全谱系人才培养流水线；并以公私合作联合体与创业孵化机制打造自生型创新生态，构筑兼具全栈自主与国际盟友协同的国家微电子战略创新体系。（pp. iv–v, 1–3, 10–48）
+> **《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》（National Strategy on Microelectronics Research）**由美国[[National Science and Technology Council|国家科学技术委员会]]（NSTC）[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（SML）制定，确立了未来五年统筹全美微电子技术创新的四大支柱：通过[[Heterogeneous Integration|异构集成]]、全栈[[Co-Design|协同设计]]与[[Hardware Security|硬件安全]]突破前沿技术瓶颈；依托联邦化中试设施网络与开放设计网关跨越从实验室到代工厂的转化鸿沟；构建贯通基础教育到高阶工程研究的全谱系人才培养流水线；并以公私合作联合体与创业扶持机制培育自生型[[Innovation Ecosystem|创新生态]]，构筑兼具自主制造能力与国际盟友协作的国家微电子战略体系。（pp. iv–v, 1–3, 10–48）
 
 > [!concept-lens] 阅读透镜
-> - **经验对象** 美国联邦各研发与国家安全部委（商务部、国防部、能源部、国家科学基金会等）、国家半导体技术中心（NSTC）、国家先进封装制造计划（NAPMP）、微电子共用体（Microelectronics Commons）、国家纳米技术协调基础设施（NNCI）及全美产学研半导体创新网络。（pp. 1–3, 9–10, 21–28, 38–43）
-> - **制度张力** 尖端半导体制造极端重资产资本门槛与大学/初创企业研发资金短缺的矛盾；基础科研开放共享与前沿硬件安全防扩散的张力；跨部门分散预算体制与国家战略集中协同的统筹矛盾。（pp. 1–3, 9–10, 20–25, 48）
-> - **理论贡献** 系统建构了后摩尔时代微电子创新全技术栈双向贯通模型，丰富了现代产业政策在战略高科技领域依托共性中试公共品、云端设计资产与全谱系劳动力培育修复市场失灵的治理理论。（pp. 6, 13, 20–28, 31–37, 45）
+> - **经验对象** 美国商务部、国防部、能源部、国家科学基金会等联邦研发部门，[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）、[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）、[[Microelectronics Commons|微电子共用体]]（Microelectronics Commons）、[[National Nanotechnology Coordinated Infrastructure|国家纳米技术协调基础设施]]（NNCI）以及高校和企业的半导体创新网络。（pp. 1–3, 9–10, 21–28, 38–43）
+> - **制度张力** 先进半导体制造动辄数十亿美元的重资产门槛与高校师生及初创团队资金短缺的矛盾；学术界自由探索与芯片硬件安全防扩散的张力；多部门分散预算与国家集中战略的协调矛盾。（pp. 1–3, 9–10, 20–25, 48）
+> - **理论贡献** 系统建构了后摩尔时代微电子创新全技术栈双向协同模型，阐明了[[Modern Industrial Policy|现代产业政策]]在战略高科技领域通过建设共性[[Pilot Scale Platform|中试平台]]、共享设计软件与全链条劳动力培养来纠正[[Market Failure|市场失灵]]的运行机理。（pp. 6, 13, 20–28, 31–37, 45）
 
 ---
 
@@ -70,13 +117,13 @@ publisher: "Executive Office of the President of the United States"
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **[[Modern Industrial Policy\|现代产业政策]]**<br>[[Modern Industrial Policy]] | 阐明国家如何通过定向资本注入、共性研发基础设施建设、采购标准与公私合作机制，克服尖端硬件研发中极端的市场失灵与高资本门槛。 |
-> | **[[Innovation Ecosystem\|创新生态系统]]**<br>[[Innovation Ecosystem]] | 揭示由大学、国家实验室、初创企业、晶圆代工厂与政府机构构成的互锁网络，说明各创新主体在技术接力与知识扩散中的协同机制。 |
-> | **[[Translational Research\|转化研究与中试平台]]**<br>[[Translational Research]] | 解释基础科学发现（TRL 1–3）向商业规模化制造（TRL 8–9）跃迁过程中的“死亡之谷”，确立中试线与设计网关在工艺硬化中的桥梁功能。 |
-> | **[[Securitization of Technology\|技术安全化与国家安全战略]]**<br>[[Securitization of Technology]] | 阐明将微电子硬件确立为主权安全底座的内在逻辑，论证硬件完整性、防篡改与供应链韧性作为国家生存基石的合法性。 |
+> | **[[Modern Industrial Policy\|现代产业政策]]**<br>[[Modern Industrial Policy]] | 解释国家如何通过直接财政引导、共性研发平台建设与公私合作模式，克服尖端硬件研发中高资本投入与长回报周期的[[Market Failure\|市场失灵]]。 |
+> | **[[Innovation Ecosystem\|创新生态系统]]**<br>[[Innovation Ecosystem]] | 揭示高校、国家实验室、初创企业、晶圆代工厂与政府部门之间的网络关联，阐明各主体在技术接力与成果扩散中的协同机制。 |
+> | **[[Translational Research\|转化研究与中试平台]]**<br>[[Translational Research]] | 阐释实验室科学发现（[[Technology Readiness Level\|TRL]] 1–3）向商业规模化生产（TRL 8–9）过渡中的“[[Valley of Death\|死亡之谷]]”，确立中试线与设计工具在工艺验证中的桥梁功能。 |
+> | **[[Securitization of Technology\|技术安全化与国家安全战略]]**<br>[[Securitization of Technology]] | 阐述将微电子硬件确立为主权安全底座的内在逻辑，论证硬件完整性、防篡改与供应链韧性对现代国家安全的关键作用。 |
 
 > [!warrant]- 理论如何支撑论证
-> 现代产业政策与创新生态系统理论为战略提出的“全政府”（Whole-of-Government）跨部门协同机制与共性中试基础设施建设提供了正当性依据。微电子制造业不仅具有极高的研发强度与极长的回报周期，且面临单次流片数千万美元的超高试错成本，纯粹自由市场机制必然导致上游基础科研向工业量产转化的系统性断裂。通过引入转化研究模型与技术安全化视角，战略将国家干预的着力点精准锚定在共性物理中试试验线、云端设计网关、全生命周期硬件安全验证与跨学科工程人才管网上，从而形成从科学探索到产业制造的闭合创新循环。（pp. 1–3, 8–13, 20–28, 38–48）
+> 现代产业政策与创新[[Ecological Systems Theory|生态系统理论]]为战略提出的全政府跨部门协同机制与共性中试基础设施建设提供了[[Analytic Framework|分析框架]]。先进芯片制造具有极高的研发强度，单次流片验证成本高达数千万美元，普通市场机制无法自发解决大学实验室前沿突破与工业量产之间的技术断层。通过引入转化研究模型与技术安全化视角，战略将国家支持重点精准放置在物理中试试验线、云端芯片设计工具、全生命周期[[Hardware Security|硬件安全]]验证与多层次工程人才培养上，进而建立起从科学原理到实体制造的顺畅转化通道。（pp. 1–3, 8–13, 20–28, 38–48）
 
 ---
 
@@ -85,16 +132,16 @@ publisher: "Executive Office of the President of the United States"
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **战略政策文本分析**<br>Strategic Policy Analysis | 系统梳理美国国会法定授权文本（NDAA 2021 Section 9906）、白宫科技政策办公室与国家科学技术委员会发布的顶层规划、各联邦机构实施方案及工业咨询委员会建议。 |
-> | **跨部门协同与生态映射**<br>Interagency & Ecosystem Mapping | 绘制覆盖商务部（NIST）、国防部（DARPA）、能源部（国家实验室）、国家科学基金会（NSF）等十余个核心部委的技术分工矩阵与设施协作网络。 |
-> | **技术经济与供应链全生命周期评估**<br>Techno-Economic & Lifecycle Assessment | 综合分析全球半导体市场份额演变、晶圆制造与先进封装产能分布、EDA工具与PDK生态壁垒、以及全谱系高技术劳动力供需缺口数据。 |
+> | **战略政策文本分析**<br>Strategic Policy Analysis | 深入分析美国国会法定授权文本（NDAA 2021 第 9906 条）、白宫科技政策办公室与[[National Science and Technology Council\|国家科学技术委员会]]发布的顶层规划、各部委实施方案及[[Industrial Advisory Committee\|工业咨询委员会]]建议。 |
+> | **跨部门协同与网络映射**<br>Interagency & Ecosystem Mapping | 梳理商务部（NIST）、国防部（[[DARPA]]）、能源部（国家实验室）、国家科学基金会（[[National Science Foundation\|NSF]]）等十余个核心部门的技术分工与设施协作网络。 |
+> | **技术经济与供应链全周期评估**<br>Techno-Economic & Lifecycle Assessment | 综合分析全球半导体市场份额演变、晶圆制造与先进封装产能分布、设计软件（EDA）与工艺套件（[[Process Design Kit\|PDK]]）准入门槛，以及技术工人与科研人才供需数据。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
 > | **战略文本** | 白宫国家科学技术委员会《国家微电子研究战略》（55 页完整报告，2024 年 3 月发布，2025 年 4 月修订版）。 |
-> | **法定与政策文献** | 《2021财年国防授权法案》（P.L. 116-283）、《2022年芯片与科学法案》（P.L. 117-167）、白宫百日供应链审查报告及工业咨询委员会（IAC）系列审查报告。 |
-> | **覆盖机构与网络** | 包含 DOC（NSTC、NAPMP、NIST）、DOD（DARPA、Microelectronics Commons）、DOE（国家实验室设施）、NSF（NNCI 用户设施网络）及全美产学研合作实体。 |
+> | **法定与政策[[Document\|文献]]** | 《2021财年国防授权法案》（P.L. 116-283）、《2022年[[CHIPS and Science Act\|芯片与科学法案]]》（P.L. 117-167）、白宫百日供应链审查报告及工业咨询委员会（IAC）系列报告。 |
+> | **覆盖机构与网络** | 包含 DOC（NSTC、[[National Advanced Packaging Manufacturing Program\|NAPMP]]、NIST）、DOD（DARPA、[[Microelectronics Commons]]）、[[Department of Energy\|DOE]]（国家实验室设施）、NSF（[[National Nanotechnology Coordinated Infrastructure\|NNCI]] 用户设施网络）及全美产学研合作项目。 |
 
 ---
 
@@ -103,12 +150,12 @@ publisher: "Executive Office of the President of the United States"
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart TD
->     Crisis["战略危机起点\n(产能离岸化/摩尔定律物理极限/中试死亡之谷)"] --> TopDesign["全政府全技术栈顶层统筹\n(SML跨部委机制 + 芯片法案协同)"]
+>     Crisis["战略危机起点\n(制造外包/物理微缩放缓/中试断层)"] --> TopDesign["全政府全技术栈顶层统筹\n(SML跨部委机制 + 芯片法案协同)"]
 >     TopDesign --> G1["目标一：前沿技术突破\n(异构集成 / 协同设计 / 硬件安全)"]
 >     TopDesign --> G2["目标二：中试基础设施\n(NNCI网络 / 开放EDA与PDK / 封装测试)"]
->     TopDesign --> G3["目标三：工程劳动力管网\n(K-12 STEM / 社区学院证书 / 研究生培养)"]
->     TopDesign --> G4["目标四：产业转化生态\n(公私伙伴关系 / 路线图 / 创业孵化)"]
->     G1 --> Ecosystem["自生型微电子国家创新生态\n(重塑全球半导体领导地位与国家安全)"]
+>     TopDesign --> G3["目标三：工程劳动力培养\n(K-12 STEM / 社区学院证书 / 研究生培养)"]
+>     TopDesign --> G4["目标四：产业转化生态\n(公私伙伴关系 / 路线图 / 创业扶持)"]
+>     G1 --> Ecosystem["自生型微电子国家创新体系\n(重塑全球半导体领导地位与国家安全)"]
 >     G2 --> Ecosystem
 >     G3 --> Ecosystem
 >     G4 --> Ecosystem
@@ -116,129 +163,172 @@ publisher: "Executive Office of the President of the United States"
 
 ---
 
-### 论证步骤一　面对物理极限与离岸断链双重危机确立全技术栈全政府协同顶层范式
+### 论证步骤一　面对物理极限与制造外包危机确立全技术栈跨部委协同战略
 
 > [!claim] 步骤一核心主张
-> 美国微电子产业面临本土制造产能严重萎缩与传统物理微缩收益递减的双重夹击，必须突破单一部门离散资助模式，依托法定跨部委机制推行贯穿材料到系统的全技术栈全政府顶层协同。（pp. 1–3, 8–10）
+> 美国微电子产业面临本土制造产能严重萎缩与传统物理微缩收益放缓的双重挑战，必须打破单一部门分散资助格局，依托法定跨部委机制推行贯穿材料到系统的全技术栈跨部门协同。（pp. 1–3, 8–10）
 
-#### 1. 本土制造产能流失与前沿技术微缩极限交织的结构性危机
+#### 1. 制造外包与物理微缩放缓阻断了传统技术升级路径
 
-微电子是现代经济运转与国防安全不可或缺的底层支柱，其技术演进正处于历史性转折关头。
+微电子器件是现代数字经济与国防系统的物质基石，其技术演进正处于重大转折期。
 
-> [!policy-context] 危机背景与战略动因
-> - **制造与封装产能极端离岸化** 美国在全球半导体制造中的份额已从 1990 年的 37% 骤降至 12%，组装、测试与封装份额更是跌至不足 2%–3%，尖端先进制程高度集中于东亚地缘高风险区域，导致关键供应链极度脆弱。（pp. 1–2）
-> - **传统摩尔定律演进遭遇物理与经济天花板** 晶体管特征尺寸微缩逼近 3 纳米及原子极限，量子隧穿、漏电发热与全套光罩流片成本呈指数级攀升，迫使微电子性能演进从单一二维晶体管尺寸微缩转向多维多元技术路线。（pp. 2–3, 10–12）
-> - **实验室到代工厂（lab-to-fab）中试转化断层** 大量源自大学与初创企业的颠覆性材料与器件构想，因缺乏匹配商业晶圆厂基线工艺的中试验证环境而夭折于“死亡之谷”。（pp. 6, 9）
+> [!challenges] 制造外包与物理微缩引发的三重危机
+> - **制造与封装产能严重依赖海外** 美国在全球半导体制造中的份额从 1990 年的 37% 下降至 12%，[[Assemblage|组装]]、测试与封装份额更是降至不足 2%–3%，先进制程高度集中于东亚特定地区，导致供应链在面临突发事件时极为脆弱。（pp. 1–2）
+> - **单芯片尺寸微缩逼近物理极限** 晶体管特征尺寸缩小到 3 纳米及以下时，量子隧穿效应和发热问题愈发严重，单次制作全套光罩的成本大幅攀升，单纯依靠缩小晶体管尺寸来提升芯片性能的传统路径难以为继。（pp. 2–3, 10–12）
+> - **实验室到代工厂（[[Translational Research|lab-to-fab]]）中试转化断层** [[Grandes Ecoles|大学校]]园与初创团队研发的新型半导体材料与器件原型，由于缺少能够匹配工业生产标准的试验制造环境，难以转化为可量产的产品。（pp. 6, 9）
 
-> [!example]- 图1：微电子技术发展全周期转化路径
+> [!case] ENIAC 计算机微缩为单芯片的历史演进
+> 1946 年宾夕法尼亚大学研制的首台通用电子数字计算机 ENIAC 占地 1,800 平方英尺，重达 30 吨，耗电 150 千瓦并装有 18,000 个真空管。1995 年 ENIAC 问世 50 周年时，宾夕法尼亚大学师生在仅 $7.44\text{ mm}\times 5.29\text{ mm}$ 的单个硅片上完整再现了 ENIAC 的计算逻辑。该芯片采用 0.5 微米 CMOS 工艺，集成了 174,569 个晶体管。这一经典事实展现了半导体物理微缩带来的计算能力跃升，同时也表明，当特征尺寸接近原子极限时，必须转向三维集成与架构革新。（p. 4）
+
+> [!figure]- 图1：微电子技术发展全周期转化路径
 > ![](https://img.mylikemie.icu/sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig1_Technology_Development_Pathway.png)
 
-#### 2. 法定跨部委协调机制与全技术栈双向贯通设计
+#### 2. 微电子领导力小组委员会统筹全技术栈双向研发流程
 
-为克服传统官僚体制各自为政的弊端，联邦政府依据法定授权确立了跨部门协同治理架构。
+为克服各部门分散管理带来的资源分散，联邦政府建立了顶层跨部门协同架构。
 
 > [!proc] 全政府跨部门协同推进机制
-> 1. **法定设立微电子领导力小组委员会（SML）** 依据 2021 财年《国防授权法案》第 9906 条，在 [[National Science and Technology Council|NSTC]] 框架下组建 [[Subcommittee on Microelectronics Leadership|SML]]，负责编制并动态修订国家战略，统筹协调全联邦部门相关预算与研发活动。（pp. ii, 9–10, 48）
-> 2. **统领《芯片与科学法案》重大投资与常规项目** 将商务部（NSTC、NAPMP）、国防部（Microelectronics Commons）的百亿美元增量投资，与 NSF（NNCI）、能源部（国家实验室）及 DARPA 的既有基础研究深度锚定。（pp. 2, 9–10）
-> 3. **确立全技术栈双向信息互通架构** 打破材料、器件、封装、架构、软件与应用之间的层级壁垒，使终端需求逆向牵引底层材料研发，底层物理突破正向重构上层计算架构。（pp. 10, 13）
+> 1. **法定设立[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（SML）** 依据 2021 财年《国防授权法案》第 9906 条，在 [[National Science and Technology Council|NSTC]] 下组建 [[Subcommittee on Microelectronics Leadership|SML]]，统一编制国家战略，协调各部门的半导体研发预算与项目部署。（pp. ii, 9–10, 48）
+> 2. **统筹《[[CHIPS and Science Act|芯片与科学法案]]》重大工程与既有项目** 将商务部负责的[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）、先进封装计划（[[National Advanced Packaging Manufacturing Program|NAPMP]]），国防部负责的[[Microelectronics Commons|微电子共用体]]（Microelectronics Commons），与 [[National Science Foundation|NSF]]（[[National Nanotechnology Coordinated Infrastructure|NNCI]] 网络）、能源部国家实验室的基础研究有机串联。（pp. 2, 9–10）
+> 3. **推行全技术栈双向信息互通** 打破材料、器件、封装、电路、软件与应用之间的单向壁垒，使终端系统的具体需求直接指导底层材料研究，同时底层物理的新突破能够迅速被上层计算架构采纳。（pp. 10, 13）
 
-> [!example]- 图2：全技术栈双向贯通的协同设计模型
+> [!row-contrast] 联邦主要机构在微电子研发体系中的分工
+> | 联邦机构 | 核心职责 | 重点支撑项目与基础设施 | 战略衔接功能 |
+> |---|---|---|---|
+> | **商务部（DOC / NIST）** | 先进制造中试、先进封装、计量标准 | 国家半导体技术中心（NSTC）、国家先进封装制造计划（NAPMP） | 承接 [[Technology Readiness Level\|TRL]] 4–7 中试验证并对接商业代工厂 |
+> | **国防部（DOD / [[DARPA]]）** | 国防专用芯片、极端环境器件、敏捷原型 | 微电子共用体（8 大枢纽）、下一代微系统制造（NGMM）、T&AM 计划 | 推动军民两用快速转化与可信硬件供给 |
+> | **能源部（[[Department of Energy\|DOE]]）** | 基础材料物理、超算架构、微观表征设施 | 5 大纳米科学研究中心（NSRC）、国家实验室先进光源与中子源 | 探索量子与前沿材料物理机理并提供精密表征 |
+> | **国家科学基金会（NSF）** | [[Curiosity-Driven Research\|自由探索研究]]、开放共享设施、[[Engineering Education\|工程教育]] | 国家纳米技术协调基础设施（NNCI）、[[NSF I-Corps\|I-Corps]]、ASEM 计划 | 资助早期前沿课题与各层次 [[STEM Education\|STEM]] 人才培养 |
+
+> [!figure]- 图2：全技术栈双向贯通的[[Co-Design|协同设计]]模型
 > ![](https://img.mylikemie.icu/sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig2_Integrated_Design_Stack.jpg)
 
 ---
 
-### 论证步骤二　以异构集成、全栈协同设计与硬件安全重塑后摩尔时代前沿研发技术路线
+### 论证步骤二　异构集成、全栈协同设计与硬件安全共同构成后摩尔时代技术主攻方向
 
 > [!claim] 步骤二核心主张
-> 战略第一目标（Goal 1）聚焦六大前沿科研领域，将研发主攻方向确立为以三维异构集成突破单芯片物理极限、以全栈协同设计提升系统能效，以及将硬件完整性与安全性作为系统内生根基。（pp. 10–20）
+> 战略第一目标（Goal 1）聚焦六大前沿科研领域，将研发重心确立为利用[[Heterogeneous Integration|三维异构集成]]突破单芯片物理极限、依靠全栈协同设计提高系统整体能效，并将[[Hardware Security|硬件安全]]作为系统内生要素贯穿始终。（pp. 10–20）
 
-#### 1. 新型材料探索与超越冯·诺依曼架构的算力突破
+#### 1. 宽禁带材料与非冯·诺依曼计算架构突破单芯片物理与能耗极限
 
-应对人工智能、边缘感知与量子计算等多元化计算负载，必须从底层物理材料与体系架构同步革新。
+为满足人工智能、移动通信和边缘计算等复杂场景的要求，必须从底层半导体材料与芯片体系架构两端同步创新。
 
-> [!finding-cards] 关键技术研发重点矩阵
-> - **前沿半导体材料与物理（Materials R&D, 1.1）** 重点攻关二维（2D）材料、宽禁带与超宽禁带半导体（GaN、SiC、金刚石）、铁电与自旋电子材料，满足高频、大功率、抗辐射及超低温极端工作环境。（pp. 14–15）
-> - **先进设计工具与电子设计自动化（EDA Tools, 1.2）** 发展高层次综合、多物理场仿真、人工智能辅助电路生成工具及开源 EDA 流程，降低前端设计复杂度与时间开销。（pp. 15–16）
-> - **多元化稳健处理架构（Processing Architectures, 1.3）** 探索非冯·诺依曼计算、类脑神经形态计算、存内计算（In-Memory Computing）、模拟计算与专用硬件加速器，实现能效的量级跃升。（pp. 16–17）
+> [!feature] 前沿技术重点研发方向
+> - **先进半导体材料研发（Materials R&D, 1.1）** 重点探索二维（2D）材料、宽禁带与超宽禁带半导体（碳化硅 SiC、氮化镓 GaN、金刚石）、铁电与自旋电子材料，满足高频通信、电力控制、航天防辐射及极低温环境下的特殊工作需求。（pp. 14–15）
+> - **电路设计与仿真工具开发（EDA Tools, 1.2）** 发展高层次综合、多物理场联合仿真、人工智能辅助版图生成工具及开源电子设计自动化（EDA）流程，缩短芯片研发周期并降低设计复杂度。（pp. 15–16）
+> - **新型稳健处理架构（Processing Architectures, 1.3）** 发展非[[Von Neumann Architecture|冯·诺依曼架构]]、类脑神经形态计算、存内计算（In-Memory Computing）、光子计算与专用硬件加速器，大幅降低数据在处理器与内存之间频繁搬运带来的能耗。（pp. 16–17）
 
-#### 2. 三维异构集成与全栈协同硬件安全防御
+> [!figure]- 图：半导体算力演进曲线与未来三维异构驱动力
+> ![](https://img.mylikemie.icu/sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig_Computing_Power_3DHI.png)
 
-后摩尔时代的核心技术抓手在于多维堆叠集成与系统级安全内生设计。
+#### 2. 三维芯粒堆叠与内生硬件安全机制保障系统性能与物理可信
 
-> [!feature] 异构集成与硬件安全核心部署
-> - **[[Heterogeneous Integration|三维异构集成]]与先进封装（Heterogeneous Integration, 1.4）** 推动模块化芯粒（Chiplets）技术标准、微凸点与混合键合工艺、多物理场热管理及跨尺度无损表征计量技术，实现不同材料与工艺节点的紧密系统级融合。（pp. 17–18）
-> - **全栈内生[[Hardware Security|硬件安全]]（Hardware Security, 1.5）** 将硬件完整性作为[[Co-Design|协同设计]]的核心要素，开发硬件信任根（RoT）、物理不可克隆函数（PUF）、抗侧信道攻击电路与自动化安全漏洞扫描工具，确保芯片在非可信供应链环境下的真实可信。（pp. 18–19）
-> - **绿色可持续制造工艺（Sustainable Manufacturing, 1.6）** 攻克全氟/多氟烷基物质（PFAS）替代化学品、低能耗制造装备与芯片全生命周期环境影响评估，支撑绿色半导体转型。（pp. 19–20）
+后摩尔时代提升芯片整体效能与安全性的关键，在于将多个独立制造的功能单元紧密集成并在设计前端根植防护。
+
+> [!feature] 异构集成与硬件安全重点举措
+> - **[[Heterogeneous Integration|三维异构集成]]与先进封装（Heterogeneous Integration, 1.4）** 推进模块化芯粒（Chiplets）标准、微凸点与混合键合工艺、多物理场散热技术及无损检测计量方法，把不同工艺节点制造的数字逻辑、射频和存储芯片高效堆叠集成。（pp. 17–18）
+> - **全栈内生[[Hardware Security|硬件安全]]（Hardware Security, 1.5）** 将防篡改与完整性作为[[Co-Design|协同设计]]的核心要求，在芯片前端设计中嵌入硬件信任根（RoT）、物理不可克隆函数（PUF）与自动化安全扫描算法，确保在复杂的供应链环境下芯片依然可信。（pp. 18–19）
+> - **绿色可持续制造工艺（Sustainable Manufacturing, 1.6）** 研发替代全氟/多氟烷基物质（PFAS）的环保化学试剂，降低半导体制造过程中的水电消耗与环境足迹。（pp. 19–20）
+
+> [!frames-ref]- 目标一前沿技术突破六大任务
+> - **1.1 材料创新** 研发超越传统硅基的二维晶体管材料与超宽禁带功率半导体。（pp. 14–15）
+> - **1.2 设计使能** 支持 AI 辅助的芯片设计工具与开放装配设计套件（ADK）。（pp. 15–16）
+> - **1.3 新型架构** 研发存内计算与抗辐射计算架构以提升复杂任务能效。（pp. 16–17）
+> - **1.4 异构封装** 攻关三维直接混合键合、微米级互连与多芯片散热难题。（pp. 17–18）
+> - **1.5 硬件安全** 建立涵盖流片、封装与运行全流程的零信任硬件验证标准。（pp. 18–19）
+> - **1.6 绿色制造** 推动低碳工艺技术与无毒环保替代化学品研发。（pp. 19–20）
 
 ---
 
-### 论证步骤三　构建联邦化开放中试与表征设施网络系统性跨越从实验室到代工厂转化鸿沟
+### 论证步骤三　联邦化开放中试与表征设施网络是跨越从实验室到代工厂中试断层的物质基础
 
 > [!claim] 步骤三核心主张
-> 战略第二目标（Goal 2）致力于建设与连通从器件级微纳加工到晶圆级中试制造的研发基础设施网络，通过开放式工具链与先进封装测试平台打破重资产准入壁垒。（pp. 20–28）
+> 战略第二目标（Goal 2）旨在构建并贯通从微观材料制备到晶圆级中试加工的基础设施网络，通过开放设计工具与先进封装测试平台消除硬件创新的重资产准入门槛。（pp. 20–28）
 
-#### 1. 联邦式用户设施网络与前沿功能材料开放共享
+#### 1. 国家纳米技术设施网络与设计网关打破大学和小微企业的重资产壁垒
 
-针对大学和小微企业无法负担昂贵洁净室设备的现实，联邦政府推行多层次开放共享基础设施战略。
+针对高校师生和小微企业无力独立建设昂贵洁净室的现实，联邦政府推行开放共享的基础设施支持体系。
 
-> [!policy-design]- 基础设施支撑矩阵
-> - **联邦化微纳制造与表征用户网络（User Facilities Network, 2.1）** 依托 NSF 资助的[[National Nanotechnology Coordinated Infrastructure|国家纳米技术协调基础设施]]（NNCI）与能源部国家实验室光源/中子源，向全美研究人员开放数千台先进加工与表征机台，实现科学研究的普惠化。（pp. 21–23, 38）
-> - **灵活设计工具与晶圆级制造准入（Design Tools & Wafer Access, 2.2）** 聚合全美多项目晶圆（MPW）拼版流片需求，扩大成熟与先进制程[[Process Design Kit|工艺设计套件]]（PDK）及装配设计套件（ADK）的开放授权，大幅降低流片试错成本。（pp. 23–24）
-> - **关键功能材料库与先进网络基础设施（Materials & Cyberinfrastructure, 2.3–2.4）** 建立晶圆级前沿材料合成与分发中心，构建面向建模仿真的云端高性能计算与数字孪生平台。（pp. 24–25）
+> [!pathways] 开放中试与表征设施支撑体系
+> - **联邦微纳制造与表征用户网络（User Facilities Network, 2.1）** 依托 NSF 资助的[[National Nanotechnology Coordinated Infrastructure|国家纳米技术协调基础设施]]（NNCI）与能源部国家实验室[[Megascience Installations|大科学装置]]，向全美科研人员开放数千台加工与检测仪器，降低前沿研究的实验门槛。（pp. 21–23, 38）
+> - **灵活设计工具与晶圆流片准入（Design Tools & Wafer Access, 2.2）** 整合多项目晶圆（MPW）拼版流片需求，扩大商业与开源[[Process Design Kit|工艺设计套件]]（PDK）及装配设计套件（ADK）的使用授权，降低单次流片验证费用。（pp. 23–24）
+> - **关键材料库与高性能建模平台（Materials & Cyberinfrastructure, 2.3–2.4）** 建设前沿半导体材料样品分发中心，并提供面向多物理场仿真的云端高性能计算支持。（pp. 24–25）
 
-> [!example]- 图3：国家纳米技术协调基础设施（NNCI）用户设施网络
+> [!figure]- 图3：国家纳米技术协调基础设施（NNCI）用户设施网络
 > ![](https://img.mylikemie.icu/sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig3_NNCI_Network.jpg)
 
-#### 2. 攻克中试中枢建设与先进封装测试短板
+#### 2. 国家半导体技术中心与先进封装计划弥合商业量产前的工艺匹配差距
 
-打通从基础原型到工业规模化生产的关键工程桥梁。
+打通从原理验证样机到商业规模化生产的中间工程环节。
 
-> [!proc] 中试跨越与封装测试落地路径
-> 1. **建设国家级中试试验线（Bridge Lab-to-Fab Gap, 2.5）** 依托商务部国家半导体技术中心（NSTC）技术中心网络与国防部微电子共用体（Microelectronics Commons）枢纽，布局 300 毫米晶圆先导测试线，提供匹配商业量产代工厂基线工艺的原型验证环境。（pp. 25–28）
-> 2. **补齐先进封装与测试短板（Packaging & Testing, 2.6）** 依托国家先进封装制造计划（NAPMP），建立涵盖晶圆级封装、基板制造与高速自动化测试的原型试验床，扭转本土封装严重落后的战略被动局面。（pp. 28–29）
+> [!case] 极紫外光刻（EUV）四十年中试研发历程
+> 先进半导体制造技术的商业化通常需要漫长的研发与验证。普通科学突破从论文发表到走向量产通常需要 10 至 15 年，而涉及极端制造装备的突破耗时更久。以支撑当前 3 纳米芯片量产的极紫外光刻（EUV）技术为例，从最初的基础物理概念提出和实验室光源试验，到解决光源功率衰减、多层反射镜缺陷与高灵敏度光刻胶等一系列复杂工程难题并在商业晶圆厂中普及，前后历经了 40 余年。这一历史过程说明，必须依靠国家级共性中试设施提供长期稳定的资金与实验环境，颠覆性硬件技术才能跨越产业化前的中试鸿沟。（p. 38）
+
+> [!proc] 中试试验与先进封装推进路径
+> 1. **建设国家级中试试验线（Bridge Lab-to-Fab Gap, 2.5）** 依托国家半导体技术中心（NSTC）技术中心网络与微电子共用体（Microelectronics Commons）枢纽，设立 300 毫米晶圆先导试验线，提供符合商业代工厂工艺参数的原型测试平台。（pp. 25–28）
+> 2. **补齐先进封装与测试短板（Packaging & Testing, 2.6）** 依托国家先进封装制造计划（NAPMP），建设晶圆级封装、高密度基板制造与自动化测试平台，改变本土先进封装能力薄弱的现状。（pp. 28–29）
 
 ---
 
-### 论证步骤四　布局从 K–12 到研究生全贯通工程教育管道筑牢国家半导体技能基底
+### 论证步骤四　多层级工程教育与技能认证管道是解决半导体全谱系人才短缺的根本支撑
 
 > [!claim] 步骤四核心主张
-> 战略第三目标（Goal 3）提出全谱系、多层级微电子人才开发战略，通过正规学历教育、非学位技能证书、学徒制与公众科普，系统性解决从晶圆厂技师到领军科学家的人力资源断层。（pp. 29–37）
+> 战略第三目标（Goal 3）提出全谱系微电子人才开发方案，通过基础教育普及、非学位技能认证、[[Apprenticeship|学徒制]]与高层次科研训练，系统性缓解从一线产线技师到领军科学家的人力资源缺口。（pp. 29–37）
 
-#### 1. 扩充早期科技教育储备与提升产业职业认知
+#### 1. 从中小学科普启发到研究生前沿科研贯通全链条人才培养
 
-半导体劳动力危机的根本解决依赖于从基础教育阶段建立强大的人才蓄水池。
+半导体人才供给的长期保障依赖于从早期教育阶段建立宽广的生源基础。
 
-> [!actor-grid] 多层级人才培养体系架构
-> - **K–12 STEM 与师资赋能（Learners & Educators, 3.1）** 将微电子与半导体物理概念融入中小学科学与工程课程，为教师提供专业培训与虚拟实验教具。（pp. 31–34）
-> - **公众科学传播与职业认知唤醒（Public Engagement, 3.2）** 依托全美非正式科学教育网络（NISE Network）、科技馆与产业巡展，消除公众对半导体制造的传统刻板印象，展现高薪职业发展前景。（pp. 34–35）
-> - **非学位技能培训与微证书认证（Non-Degree Pathways, 3.3）** 联动社区学院与产业工会，开展快速认证、设备操作实训与注册学徒制，加速退役军人与转岗人员进入芯片制造一线。（pp. 33, 35–36）
-> - **高层次科研与创新人才涵养（Research Capacity, 3.4）** 设立国家级微电子研究生与博士后奖学金，支持高校开设跨学科交叉课程，并在国家实验室与中试基地中提供深度实习实训。（pp. 36–37）
+> [!quad-grid] 多层级人才培养体系架构
+> - **中小学 STEM 启蒙与师资支持（Learners & Educators, 3.1）** 将微电子与基础物理概念引入中小学科学课程，为一线教师提供实验教学套件与专业培训。（pp. 31–34）
+> - **公众科普与职业认知引导（Public Engagement, 3.2）** 依托全美[[Informal Science Learning|非正式科学教育]]网络（NISE Network）与各地科技馆，普及芯片制造知识，展示半导体行业的工作机会。（pp. 34–35）
+> - **非学位技能认证与快速实训（Non-Degree Pathways, 3.3）** 联合社区学院与行业工会，推行短期技能认证、洁净室实操培训与学徒制，帮助退役军人与转岗工人进入芯片制造生产线。（pp. 33, 35–36）
+> - **高层次科研与工程人才培养（Research Capacity, 3.4）** 设立微电子专项研究生与博士后奖学金，支持跨学科联合培养，并在国家实验室与[[Pilot Scale Platform|中试基地]]中提供真实的工程实践环境。（pp. 36–37）
+
+> [!case] 宾州州立大学与加州大学伯克利分校非学位技能实训方案
+> 宾夕法尼亚州立大学纳米技术教育中心推行的微电子与纳米制造证书（MNCP）项目，为全美数十所社区学院学生与退役军人提供集中的洁净室实操培训。在加州大学伯克利分校，退役军人学员在单学期密集训练中直接学习操作光刻机台与真空刻蚀设备，考核合格后直接入职半导体制造企业担任设备维护主管与资深技师，形成了快速缓解制造业技术工人短缺的实用模式。（p. 33）
+
+> [!case] 全美非正式科学教育网络（NISE Network）科普实践
+> 由 NSF 资助建立的 NISE Network 联合了全美 600 余家科技馆、大学科普基地与社区中心。该网络通过发放便携式微电子体验教具箱、举办全国巡回展览，向青少年直观演示晶体管工作机理与芯片制造流程，增进了公众对微电子产业的理解与投身意愿。（p. 35）
+
+> [!figure]- 图：全美非正式科学教育网络（NISE Network）合作机构分布
+> ![](https://img.mylikemie.icu/sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig_NISE_Network.jpg)
+
+> [!case] [[Semiconductor Research Corporation|半导体研究公司]]（SRC）本科生科研保留机制
+> 为防止工程专业本科生转向轻资产热门领域，半导体研究公司（Semiconductor Research Corporation, SRC）与 NSF 设立本科生科研体验（REU）专项，资助大二、大三学生直接参与大学微电子实验室与企业研发中心的一线芯片设计工作，显著提升了优秀本科生在微电子领域的深造与就业比例。（p. 37）
 
 ---
 
-### 论证步骤五　依托公私合作联合体、技术路线图与创业孵化打造自生型微电子产业创新生态
+### 论证步骤五　公私合作联合体、共性路线图与创业扶持形成技术向产业转化的持续循环
 
 > [!claim] 步骤五核心主张
-> 战略第四目标（Goal 4）强调通过高水平公私合作伙伴关系（PPP）、产业共性技术路线图牵引、产学研人员双向流动以及全周期创业孵化，加速前沿成果向美国产业界转化并形成正向创新闭环。（pp. 37–47）
+> 战略第四目标（Goal 4）强调通过[[Public-Private Partnership in Research|公私合作伙伴关系]]（PPP）、产业共性技术路线图指引、产学研人员双向交流以及全周期创业扶持，加速科研成果向实体产业转化，形成技术演进与再投入的良性循环。（pp. 37–47）
 
-#### 1. 完善跨界协同联盟与工业界深度参与机制
+#### 1. 产学研联合体与产业技术路线图引导研发资金紧密对接实际需求
 
-构建连接多元创新主体的制度纽带，确保公共研发投资紧贴产业真实需求。
+搭建跨界协同的制度平台，使公共研发投入能够紧扣产业前沿的技术痛点。
 
-> [!pathways]- 创新生态协同推进路径
-> - **深化公私合作联合体（Centers & PPPs, 4.1）** 统筹运营 NSTC、NAPMP、微电子共用体、Manufacturing USA 研究所及半导体研究公司（SRC JUMP 2.0）跨校中心，促进技术资产与知识产权共享。（pp. 39–43）
-> - **发挥工业咨询委员会（IAC）枢纽作用（Engage IAC, 4.2）** 持续听取半导体领军企业、学术界与劳工领袖的战略建议，动态修正联邦资助重点与执行机制。（pp. 43–44）
-> - **产业技术路线图与重大挑战指引（Roadmaps & Grand Challenges, 4.3）** 借鉴国际半导体技术路线图（ITRS/IRDS）成功经验，定期发布共性关键技术攻关清单，引导产学研资本形成合力。（pp. 44）
-> - **产学研人员双向流动机制（Stakeholder Exchange, 4.4）** 设立高校教师产业学术休假（Sabbaticals）、企业专家驻校授课与政府访问学者通道，破除体制编制壁垒。（pp. 44–45）
+> [!pathways]- 产业生态协同机制
+> - **深化公私合作研发联盟（Centers & PPPs, 4.1）** 统筹运营 NSTC、NAPMP、微电子共用体、[[Manufacturing USA]] 制造业研究所及半导体研究公司（SRC [[Joint University Microelectronics Program 2.0|JUMP 2.0]]）跨校中心，促进技术成果与知识产权共享。（pp. 39–43）
+> - **发挥[[Industrial Advisory Committee|工业咨询委员会]]（IAC）桥梁作用（Engage IAC, 4.2）** 持续听取半导体企业、高校学者与劳工代表的政策建议，动态调整联邦资金资助重点。（pp. 43–44）
+> - **编制技术路线图与设立重大攻关目标（Roadmaps & [[Grand Challenges]], 4.3）** 借鉴国际半导体技术路线图（ITRS/IRDS）经验，定期发布行业共性技术指标，引导科研资源集中攻关。（pp. 44）
+> - **建立产学研人员双向流动机制（Stakeholder Exchange, 4.4）** 推行高校教师企业学术休假制度，鼓励企业工程师驻校授课与政府科研人员交流，打破体制壁垒。（pp. 44–45）
 
-#### 2. 全周期硬科技创业扶持与国际标准战略话语权
+#### 2. 战略风险投资与国际标准制定提升本土初创企业生存率与全球话语权
 
-打通高风险硬件初创企业孵化全链条，并在全球科技治理中占据制高点。
+为高风险硬件初创团队提供早期生存支持，并在国际技术治理中确立优势。
 
-> [!finding-cards] 创业支持与国际协同机制
-> - **靶向创业资助与风投网络（Entrepreneurship & Start-ups, 4.5）** 跨部委协同布局小企业创新研发（SBIR/STTR）专项，联动能源部实验室嵌入式创业计划（如 Cyclotron Road）、国防部 DARPA 嵌入式创业倡议及战略风投基金（In-Q-Tel），为硬件创客提供耐心资本与导师资源。（pp. 45–47）
-> - **积极主导国际技术标准制定（International Standards）** 支持本土中小企业与学术机构参与国际标准化组织（ISO/IEC/IEEE）活动，将自主前沿技术固化为全球标准。（pp. 47）
-> - **维系国际盟友战略协作（Allies & Partners）** 在维护国家安全底线的同时，深化与欧洲、日本、韩国等盟友在研发分工、人才流动与供应链冗余互备方面的多边合作。（pp. v, 47–48）
+> [!case] DARPA 嵌入式创业倡议与空军 AFVentures 风险匹配机制
+> 针对微电子硬件初创企业资本投入大、回报周期长的特点，DARPA 设立了嵌入式创业倡议（Embedded Entrepreneurship Initiative），联合战略风险投资机构 In-Q-Tel 为早期团队提供商业指导与投资者对接。同时，美国空军 AFVentures 通过小企业创新研发（[[SBIR and STTR Programs|SBIR]]/STTR）私人资本匹配基金，将获奖企业后续获得风险投资的比例从过去的 10% 提升至 29%；[[Loan Programs Office|能源部贷款项目办公室]]（LPO）也为首创性硬件中试工程提供低息债务融资支持。（pp. 46–47）
+
+> [!case] 国防部可信与可保证微电子（T&AM）计划
+> 国防部 T&AM 计划围绕六大重点任务展开系统布局：先进封装与测试使用通道、先进制程芯片制造、抗辐射加固微电子、尖端射频与光电子器件、微电子人才教育、以及全生命周期可信保证体系，构建了抵御外部恶意植入与供应链中断的安全防线。（p. 47）
+
+> [!feature] 创业扶持与国际协作机制
+> - **靶向创业资助与[[Patient Capital|耐心资本]]对接（Entrepreneurship & Start-ups, 4.5）** 协调多部门小企业创新研发（SBIR/STTR）选题，联动能源部实验室创业计划（如 [[Activate Fellowship|Cyclotron Road]]）、DARPA 创业项目及战略投资基金，为初创企业提供资金与导师支持。（pp. 45–47）
+> - **积极参与国际技术标准制定（International Standards）** 支持本土企业与学术机构参与国际标准化组织活动，推动自主前沿技术固化为全球[[General Purpose Technology|通用技术]]规范。（pp. 47）
+> - **深化国际盟友战略协同（Allies & Partners）** 在坚守国家安全的前提下，与欧洲、日本、韩国等盟友开展在研发分工、人才流动与供应链备份方面的多边合作。（pp. v, 47–48）
 
 ---
 

@@ -42,15 +42,18 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[Science in the National Interest 1994]]"
+  - "[[Subcommittee on Microelectronics Leadership]]"
+  - "[[National Strategy on Microelectronics Research]]"
   - "[[National Science Board]]"
   - "[[President's Science Advisory Committee]]"
 related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Zhuo_2026_ICE]]"
+  - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 
 # National Science and Technology Council
