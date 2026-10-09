@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Innovation Ecosystem",
-      "path": "wiki/concepts/university-industry-collaboration/Innovation Ecosystem.md"
+      "basename": "Triple Helix",
+      "path": "wiki/theories/university-industry-collaboration/Triple Helix.md"
+    },
+    {
+      "basename": "Argument_Hall(Ed.)_2025_Springer",
+      "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md"
     },
     {
       "basename": "Argument_Zhuo_2026_ICE",
       "path": "wiki/arguments/journal-articles/International and Comparative Education/Argument_Zhuo_2026_ICE.md"
+    },
+    {
+      "basename": "Securitization of Technology",
+      "path": "wiki/concepts/political-economy-geopolitics/Securitization of Technology.md"
+    },
+    {
+      "basename": "National Innovation System",
+      "path": "wiki/concepts/university-industry-collaboration/National Innovation System.md"
+    },
+    {
+      "basename": "Innovation Ecosystem",
+      "path": "wiki/concepts/university-industry-collaboration/Innovation Ecosystem.md"
     },
     {
       "basename": "Knowledge Production",
@@ -183,22 +199,6 @@
     {
       "basename": "Herbert Hoover",
       "path": "wiki/persons/us/Herbert Hoover.md"
-    },
-    {
-      "basename": "Sigmund Freud",
-      "path": "wiki/persons/austria/Sigmund Freud.md"
-    },
-    {
-      "basename": "Lucian Freud",
-      "path": "wiki/persons/uk/Lucian Freud.md"
-    },
-    {
-      "basename": "Lean Production",
-      "path": "wiki/concepts/educational-leadership-administration/Lean Production.md"
-    },
-    {
-      "basename": "Agile Governance",
-      "path": "wiki/concepts/science-policy/Agile Governance.md"
     }
   ],
   "omittedPaths": [],
