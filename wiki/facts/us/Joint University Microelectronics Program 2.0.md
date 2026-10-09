@@ -90,6 +90,6 @@ updated: 2026-10-09
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026, p. 23)]] — 详细剖析了由 DARPA 与 SRC 共同推动的 JUMP 2.0 计划，揭示以宾州州立大学牵头的 14 所高校异构集成中心如何重塑跨区域产学研协同网络。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 探讨 SRC 与 DARPA 合作历程中从 FCRP、STARnet 到 JUMP 2.0 的产学前竞争联合体演进逻辑。
