@@ -53,8 +53,6 @@ related_persons:
   - "[[Lee Kuan Yew]]"
   - "[[Hyman Rickover]]"
   - "[[Kenneth Burke]]"
-  - "[[Alexander Karp]]"
-  - "[[Nicholas Zamiska]]"
   - "[[James Madison]]"
   - "[[Saint Benedict]]"
   - "[[Plato]]"
@@ -64,7 +62,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 # Argument_Karp_Zamiska_2025_Technological_Republic_Ch16
 
@@ -76,7 +74,7 @@ updated: 2026-10-08
 > 在现代国家治理体系中，为何对公职人员道德纯洁性与清教徒式禁欲主义的执着追求，反而导致了公共部门顶尖人才匮乏、富豪阶层垄断政坛以及实干领袖遭受体制逆向淘汰的深重危机？从美联储主席每年仅 19 万美元的象征性年薪到国会议员的微薄报酬，西方公职补偿机制如何催生出富豪自费从政与离职后流量变现的恶性扭曲？对比[[Lee Kuan Yew|李光耀]]（[[Lee Kuan Yew|Lee Kuan Yew]]）在新加坡推行的公职薪酬市场化挂钩制度，务实激励逻辑为何优于空洞的道德说教？以核海军之父[[Hyman Rickover|海曼·里科弗]]（[[Hyman Rickover|Hyman G. Rickover]]）上将研制鹦鹉螺号核潜艇奠定国家深海霸权却在晚年因琐碎礼品遭遇合规审查的公案为例，官僚程序主义如何通过[[Kenneth Burke|肯尼斯·伯克]]（[[Kenneth Burke|Kenneth Burke]]）揭示的[[Scapegoat Mechanism|替罪羊机制]]将开拓型实干领袖牺牲以换取表层的合规幻觉？重构[[Technological Republic|技术共和国]]为何必须彻底打破道德表演，转向结果导向与权责对齐的制度设计？
 
 > [!claim] 核心主张
-> 西方国家治理能力衰退与公共部门技术贫困的深层体制根源，在于公共文化中深植的清教徒式道德纯洁性崇拜与[[Procedural Piety|程序虔敬]]（Procedural Piety）对实质治理成果的严重压制。[[Alexander Karp|亚历山大·卡普]]（[[Alexander Karp|Alexander C. Karp]]）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Nicholas Zamiska|Nicholas W. Zamiska]]）指出，美欧社会一方面心安理得地容忍硅谷与华尔街金融资本的巨额暴利，另一方面却对关乎数亿国民福祉的公共治理职位施加不切实际的禁欲要求，迫使公职沦为少数无需为生计担忧的世袭特权阶层或亿万富豪的志愿活动，并诱使普通政客通过煽动政治极化与媒体表演在离职后变现；李光耀在新加坡确立的务实市场化薪酬挂钩证明，承认人性的现实激励才能为国家吸引一流治理英才。更严重的是，现代官僚体制沉溺于繁琐的行政合规审查，将追求无瑕纯洁的道德洁癖置于建造潜艇、攻克绝症与保障国家安全等重大战略成果之上；里科弗上将凭借无畏开拓精神打造鹦鹉螺号（[[USS Nautilus Submarine Development|USS Nautilus]]）确立西方数十年的深海优势，晚年却因收受防务承包商总额微小的日常纪念品而沦为官僚政治与[[Kenneth Burke|肯尼斯·伯克]]（[[Kenneth Burke]]）所论[[Scapegoat Mechanism|替罪羊机制]]的牺牲品。作者强调，必须终结用审美偏好与道德表演替代实战问责的虚伪作风，在公共部门重塑风险与回报对称的[[Engineering Mindset|工程思维]]与制度激励，以强大的国家共同体认同重铸技术共和国（pp. 179–189）。
+> 西方国家治理能力衰退与公共部门技术贫困的深层体制根源，在于公共文化中深植的清教徒式道德纯洁性崇拜与[[Procedural Piety|程序虔敬]]（Procedural Piety）对实质治理成果的严重压制。美欧社会一方面心安理得地容忍硅谷与华尔街金融资本的巨额暴利，另一方面却对关乎数亿国民福祉的公共治理职位施加不切实际的禁欲要求，迫使公职沦为少数无需为生计担忧的世袭特权阶层或亿万富豪的志愿活动，并诱使普通政客通过煽动政治极化与媒体表演在离职后变现；李光耀在新加坡确立的务实市场化薪酬挂钩证明，承认人性的现实激励才能为国家吸引一流治理英才。更严重的是，现代官僚体制沉溺于繁琐的行政合规审查，将追求无瑕纯洁的道德洁癖置于建造潜艇、攻克绝症与保障国家安全等重大战略成果之上；里科弗上将凭借无畏开拓精神打造鹦鹉螺号（[[USS Nautilus Submarine Development|USS Nautilus]]）确立西方数十年的深海优势，晚年却因收受防务承包商总额微小的日常纪念品而沦为官僚政治与[[Kenneth Burke|肯尼斯·伯克]]（[[Kenneth Burke]]）所论[[Scapegoat Mechanism|替罪羊机制]]的牺牲品。必须终结用审美偏好与道德表演替代实战问责的虚伪作风，在公共部门重塑风险与回报对称的[[Engineering Mindset|工程思维]]与制度激励，以强大的国家共同体认同重铸技术共和国（pp. 179–189）。
 
 > [!phase] 章节论证推进脉络
 >
