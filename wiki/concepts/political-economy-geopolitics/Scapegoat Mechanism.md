@@ -233,4 +233,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - **替罪羊机制与现代公共治理病理** [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|Karp & Zamiska (2025, Ch. 16)]] 结合[[Kenneth Burke|伯克]]修辞学与[[Hyman Rickover|里科弗]]案例，深度解构现代官僚体制退守“[[Procedural Piety|程序虔敬]]”、启动替罪羊机制清算实干家的制度危害。
+> - **替罪羊机制与现代公共治理病理** [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|Karp & Zamiska (2025, Ch. 16)]] 结合伯克修辞学与[[Hyman Rickover|里科弗]]案例，深度解构现代官僚体制退守“[[Procedural Piety|程序虔敬]]”、启动替罪羊机制清算实干家的制度危害。

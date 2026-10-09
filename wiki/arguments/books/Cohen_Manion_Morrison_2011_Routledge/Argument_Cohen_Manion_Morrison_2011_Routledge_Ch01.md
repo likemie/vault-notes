@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 128
+argument_related_count: 127
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -158,7 +158,6 @@ related_persons:
   - "[[John Rex]]"
   - "[[Basil Bernstein]]"
   - "[[John W. Creswell]]"
-  - "[[Kenneth Burke]]"
   - "[[Stuart Kauffman]]"
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
@@ -751,7 +750,7 @@ updated: 2026-10-08
 > - **推动纵深分析与数据衍生重构** 促进质性发现与量化模式之间的持续往返阐发，催生全新理论洞见。
 > - **优化抽样机制与受访者定位** 运用大样本问卷调查筛选出具有典型特征的受访者开展纵深访谈，实现精准靶向探究。
 
-针对学界对混合方法的多元理解，[[Kenneth Burke|伯克]]·约翰逊（R. Burke Johnson）等系统梳理了19种定义谱系，并提炼出混合方法研究的九大合法化类型（Johnson et al., 2007, p. 126）：
+针对学界对混合方法的多元理解，伯克·约翰逊（R. Burke Johnson）等系统梳理了19种定义谱系，并提炼出混合方法研究的九大合法化类型（Johnson et al., 2007, p. 126）：
 
 > [!taxonomy] 混合方法研究的九大合法化类型（Johnson et al., 2007）
 > - **设计与效度合法化**

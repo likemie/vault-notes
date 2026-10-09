@@ -68,7 +68,7 @@ updated: 2026-10-08
 ## 理论概述
 
 > [!def] 核心定义
-> 知识整合（Knowledge Integration, KI）是由学习科学学者玛西娅·琳（[[Marcia C. Linn]]）及其团队在加州大学[[Kenneth Burke|伯克]]利分校历经三十年实证研究确立的科学教育[[Constructivist Paradigm\|建构主义]][[Didaktik\|教学理论]]与认知评价框架。该理论主张，学习者的初始认知并非缺乏知识的“白纸”，也不是充满必须被彻底连根拔除的孤立“迷思概念”（Misconceptions），而是由源于日常生活经验的多元、直觉性且往往相互冲突的想法片段构成的复合集合。科学学习的核心机制在于借助结构化情境与[[Scaffolding\|认知支架]]，引导学生经历**引出已有想法、增添规范新概念、发展证据评判标准、反思修正并整合认知网络**的动态重构过程，最终发展出连贯协调的科学因果理解（Linn, 2006; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 6, 9]]）。
+> 知识整合（Knowledge Integration, KI）是由学习科学学者玛西娅·琳（[[Marcia C. Linn]]）及其团队在加州大学伯克利分校历经三十年实证研究确立的科学教育[[Constructivist Paradigm\|建构主义]][[Didaktik\|教学理论]]与认知评价框架。该理论主张，学习者的初始认知并非缺乏知识的“白纸”，也不是充满必须被彻底连根拔除的孤立“迷思概念”（Misconceptions），而是由源于日常生活经验的多元、直觉性且往往相互冲突的想法片段构成的复合集合。科学学习的核心机制在于借助结构化情境与[[Scaffolding\|认知支架]]，引导学生经历**引出已有想法、增添规范新概念、发展证据评判标准、反思修正并整合认知网络**的动态重构过程，最终发展出连贯协调的科学因果理解（Linn, 2006; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 6, 9]]）。
 
 知识整合框架构成了全球著名开源科学探究平台——基于网络的探究科学环境（[[Web-based Inquiry Science Environment]], WISE）的底层教学设计规范与[[Learning Analytics|学习分析学]]引擎。
 

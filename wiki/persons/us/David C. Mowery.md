@@ -10,7 +10,7 @@ summary: "美国著名创新经济学与科技政策学者，加州大学伯克�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 44
+person_related_count: 45
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[General Purpose Technology]]"
   - "[[Learning by Doing]]"
   - "[[Sage]]"
+  - "[[Commercial Off-The-Shelf]]"
   - "[[Reliability]]"
   - "[[Paradigm]]"
   - "[[Dual-Use Technology]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-03
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 # David C. Mowery
@@ -129,7 +130,7 @@ updated: 2026-10-05
 > [!proposition-chain] 国防支持与技术创新的生命周期演变命题（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]]）
 > - **阶段一：萌芽期首发采购与规模学习孵化** 在新兴[[General Purpose Technology|通用技术]]（如集成电路、计算机架构、分组通信）初期，民用市场需求微弱且无法承受极高制造成本与低良率；军方通过提供 100% 采购兜底垫付研发沉没成本，并通过第二供应商强制跨企工艺转让，驱动企业在[[Learning by Doing|干中学]]中快速下滑学习曲线。
 > - **阶段二：成长期军民技术共存与军用向民用顺流外溢** 随着民用计算机与消费电子市场兴起，军用技术成果（如 [[Sage]] 软件工程、操作系统与网络协议）顺流向民用市场广泛溢出，催生出独立软件公司与民航在线订票等商业巨头。
-> - **阶段三：成熟期商用市场主导与逆向技术溢出** 商业市场规模呈几何级数超越军用采购，军工专用研发的社会回报率与溢出效能出现不可逆的结构性递减；国防部门反而逐步转变为民用前沿商业现成货（COTS）的净采购方，呈现“商业向军用”的逆向技术溢出。
+> - **阶段三：成熟期商用市场主导与逆向技术溢出** 商业市场规模呈几何级数超越军用采购，军工专用研发的社会回报率与溢出效能出现不可逆的结构性递减；国防部门反而逐步转变为民用前沿商业现成货（[[Commercial Off-The-Shelf|COTS]]）的净采购方，呈现“商业向军用”的逆向技术溢出。
 > - **衍生推论：安全管控收紧对开放创新的侵蚀** 9/11 后联邦研发向短周期战术反恐倾斜、加强学术交流保密审查，极易阻断大学长期基础研究的知识溢出回路，削弱国家[[Innovation Ecosystem|创新生态]]的底层韧性。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29–33, 40–42)]]
 
 > [!citation-card] 高技术研发联盟成功的关键在纵向供应链协同

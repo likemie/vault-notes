@@ -13,7 +13,7 @@ title: "Argument_Zhang_2023_PHEI"
 argument_key: "Argument_Zhang_2023_PHEI"
 argument_display_title: "科技创新\"双循环\"生态系统：基于粤港澳大湾区的实践与探索"
 argument_kind: "book"
-argument_related_count: 36
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -74,8 +74,7 @@ related_facts:
   - "[[Open Competition Mechanism]]"
 related_methods:
   - "[[Analytic Framework]]"
-related_persons:
-  - "[[Kenneth Burke]]"
+related_persons: []
 status: draft
 created: 2026-06-11
 updated: 2026-10-08
@@ -262,7 +261,7 @@ updated: 2026-10-08
 > 梳理[[San Francisco Bay Area\|旧金山湾区]]、[[New York Bay Area\|纽约湾区]]和[[Tokyo Bay Area\|东京湾区]]三大世界级湾区的产业发展特色和创新推动举措，提炼对粤港澳大湾区创新生态系统建设的四点经验启示。
 
 > [!case] [[San Francisco Bay Area\|旧金山湾区]]：自下而上的科技湾区
-> 地处美国加利福尼亚州北部，聚集斯坦福大学、加州[[Kenneth Burke|伯克]]利分校等20多所世界一流大学和多个国家实验室，是以电子与信息技术产业为代表的全球最大产业创新集聚区。由于美国联邦制下"小政府、大社会"的管理体系，州政府没有制定统筹规划，湾区内部自发组建专业公共机构进行跨行政区协同管理。开放包容的创新文化源于淘金文化和移民文化赋予的自由、冒险、包容精神。
+> 地处美国加利福尼亚州北部，聚集斯坦福大学、加州伯克利分校等20多所世界一流大学和多个国家实验室，是以电子与信息技术产业为代表的全球最大产业创新集聚区。由于美国联邦制下"小政府、大社会"的管理体系，州政府没有制定统筹规划，湾区内部自发组建专业公共机构进行跨行政区协同管理。开放包容的创新文化源于淘金文化和移民文化赋予的自由、冒险、包容精神。
 >
 > > [!features] 区域协调机制
 > > - **ABAG**（旧金山湾区政府协会）：最主要区域性综合规划机构

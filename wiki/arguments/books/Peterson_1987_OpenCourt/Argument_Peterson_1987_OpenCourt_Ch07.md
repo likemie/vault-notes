@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch07"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch07"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 38
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -50,7 +50,6 @@ related_persons:
   - "[[Kurt Hahn]]"
   - "[[Louis Mountbatten]]"
   - "[[Kingman Brewster Jr.]]"
-  - "[[Kenneth Burke]]"
   - "[[Alec Peterson]]"
 related_facts:
   - "[[United World Colleges]]"
@@ -327,7 +326,7 @@ UWC 早期把和平寄托于潜在领导者的跨国共同生活、救援服务�
 > [!dev-timeline] 八个月内从选址委员会推进到教师招聘
 > - **1981 年 5 月 1 日** 威尔士亲王主持华盛顿会议，否决租用圣迭戈美国国际大学部分校园的初步设想，成立由汤姆·西蒙斯（Tom Symons）、阿曼德·哈默、[[Kingman Brewster Jr.|金曼·布鲁斯特]]（Kingman Brewster）、特德·洛克伍德、约翰·尼科尔（John Nicol）、杰克·马修斯、乔治·富兰克林（George Franklin）与拉塞尔·帕尔默（Russell Palmer）组成的选址委员会。
 > - **1981 年 5–6 月** 吉姆·普加什在获得任务后考察一百多个地点，范围从圣迭戈转向亚利桑那州斯科茨代尔，再缩小到斯科茨代尔与新墨西哥州拉斯维加斯附近的蒙特祖马。
-> - **1981 年 8 月 26 日** 哈默在阿尔[[Kenneth Burke|伯克]]基获得州长布鲁斯·金（Bruce King）与州教育主管支持，后者承诺清除行政障碍。
+> - **1981 年 8 月 26 日** 哈默在阿尔伯克基获得州长布鲁斯·金（Bruce King）与州教育主管支持，后者承诺清除行政障碍。
 > - **1981 年 8 月 27 日** 工作组结束临时使命，改组为正式校董会，由前哥伦比亚大学校长威廉·麦吉尔任主席。
 > - **1981 年 9 月至 1982 年 2 月** 特德·洛克伍德就任校长，杰克·马修斯任顾问，安德鲁·麦克尔霍斯（Andrew Maclehose）自大西洋学院加入课程规划；到 1982 年 2 月，十一项教师职位平均各收到约二十五份申请。
 > - **1982 年 9–10 月** 首届学生到校，10 月 27 日举行成立典礼（pp. 175–177）。

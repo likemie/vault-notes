@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 16
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -37,7 +37,6 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Kenneth Burke]]"
   - "[[James Madison]]"
   - "[[David C. Mowery]]"
 related_facts:
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Sematech Centers of Excellence
@@ -66,7 +65,7 @@ updated: 2026-10-08
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1988 年启动，贯穿 Sematech 第一阶段（1988–1992）与第二阶段（1993 以后），持续运作至 1990 年代后期。
 > - **发起方与资助机制** 由 Sematech 每年安排 **1000 万至 1500 万美元（约占 Sematech 年总预算的 5%–7.5%）**，通过半导体研究公司（SRC）进行专业转拨与项目跟踪管理，与各合作大学自筹资金及国家科学基金会（[[National Science Foundation|NSF]]）课题形成对等匹配。
-> - **覆盖范围与对象** 资助覆盖加州大学[[Kenneth Burke|伯克]]利分校、斯坦福大学、麻省理工学院、得克萨斯大学奥斯汀分校、威斯康星大学[[James Madison|麦迪逊]]分校、亚利桑那大学等全美十余所顶尖微电子与工程研究型大学。
+> - **覆盖范围与对象** 资助覆盖加州大学伯克利分校、斯坦福大学、麻省理工学院、得克萨斯大学奥斯汀分校、威斯康星大学[[James Madison|麦迪逊]]分校、亚利桑那大学等全美十余所顶尖微电子与工程研究型大学。
 > - **核心问题导向** 解决产业联盟在聚焦 0.5 微米与 0.35 微米在役制造设备改良时，缺乏长远光学物理、等离子体动力学机理支撑以及高校微电子专业毕业生[[Attrition|流失]]的结构性危机。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 754)]]
 
 ---
@@ -78,7 +77,7 @@ updated: 2026-10-08
 
 > [!policy-design]- 方案设计
 > - **研发分工体系** 大学卓越中心专注于 5 至 10 年维度的“竞争前”基础科学与物理极限探索（如 X 射线与 EUV 光刻物理、等离子体化学反应仿真、薄膜生长机理）；[[Sematech]] 奥斯汀总部聚焦 2 至 3 年维度的工业中试验证；设备供应商与制造厂负责具体商品化开发。
-> - **跨校跨学科研究集群** 在各重点高校设立专项技术中心，如[[Kenneth Burke|伯克]]利与斯坦福的先进光刻与 CAD 中心、威斯康星大学的 X 射线光刻中心、得克萨斯大学的先进材料与清洗技术中心等。
+> - **跨校跨学科研究集群** 在各重点高校设立专项技术中心，如伯克利与斯坦福的先进光刻与 CAD 中心、威斯康星大学的 X 射线光刻中心、得克萨斯大学的先进材料与清洗技术中心等。
 > - **博士与博士后专项资助** 设立[[Categorical Funding|定向研究]]生助研金（RA），要求受资助学生参与工业真实场景下的技术建模与联合实验。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 735)]]
 
 > [!citation-card] 大学基础研究与产业联合体不可相互替代

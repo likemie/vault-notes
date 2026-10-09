@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "CHIPS and Science Act",
-      "path": "wiki/facts/us/CHIPS and Science Act.md"
+      "basename": "Research Translation",
+      "path": "wiki/concepts/university-industry-collaboration/Research Translation.md"
     },
     {
       "basename": "Argument_Zhuo_2026_ICE",
       "path": "wiki/arguments/journal-articles/International and Comparative Education/Argument_Zhuo_2026_ICE.md"
+    },
+    {
+      "basename": "Competitiveness",
+      "path": "wiki/concepts/university-industry-collaboration/Competitiveness.md"
+    },
+    {
+      "basename": "Workforce Development",
+      "path": "wiki/concepts/educational-policy-reform/Workforce Development.md"
+    },
+    {
+      "basename": "Innovation Hub",
+      "path": "wiki/concepts/university-industry-collaboration/Innovation Hub.md"
+    },
+    {
+      "basename": "Engineering Education",
+      "path": "wiki/concepts/higher-education/Engineering Education.md"
+    },
+    {
+      "basename": "Engineering Research Centers",
+      "path": "wiki/facts/us/Engineering Research Centers.md"
+    },
+    {
+      "basename": "National Science Foundation",
+      "path": "wiki/facts/us/National Science Foundation.md"
+    },
+    {
+      "basename": "Kenneth Burke",
+      "path": "wiki/persons/us/Kenneth Burke.md"
+    },
+    {
+      "basename": "National Innovation System",
+      "path": "wiki/concepts/university-industry-collaboration/National Innovation System.md"
+    },
+    {
+      "basename": "CHIPS and Science Act",
+      "path": "wiki/facts/us/CHIPS and Science Act.md"
     },
     {
       "basename": "Directionality of Innovation",
@@ -23,10 +59,6 @@
     {
       "basename": "Securitization of Technology",
       "path": "wiki/concepts/political-economy-geopolitics/Securitization of Technology.md"
-    },
-    {
-      "basename": "National Innovation System",
-      "path": "wiki/concepts/university-industry-collaboration/National Innovation System.md"
     },
     {
       "basename": "Innovation Ecosystem",
@@ -129,10 +161,6 @@
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch16.md"
     },
     {
-      "basename": "Competitiveness",
-      "path": "wiki/concepts/university-industry-collaboration/Competitiveness.md"
-    },
-    {
       "basename": "Pluralism",
       "path": "wiki/theories/educational-policy-reform/Pluralism.md"
     },
@@ -165,40 +193,12 @@
       "path": "wiki/persons/greece/Plato.md"
     },
     {
-      "basename": "Kenneth Burke",
-      "path": "wiki/persons/us/Kenneth Burke.md"
-    },
-    {
       "basename": "Scapegoat Mechanism",
       "path": "wiki/concepts/political-economy-geopolitics/Scapegoat Mechanism.md"
     },
     {
       "basename": "Sage",
       "path": "wiki/concepts/chinese-philosophy/Sage.md"
-    },
-    {
-      "basename": "Red Tape",
-      "path": "wiki/concepts/political-economy-geopolitics/Red Tape.md"
-    },
-    {
-      "basename": "Engineering Mindset",
-      "path": "wiki/concepts/political-economy-geopolitics/Engineering Mindset.md"
-    },
-    {
-      "basename": "Nicholas Zamiska",
-      "path": "wiki/persons/us/Nicholas Zamiska.md"
-    },
-    {
-      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch15",
-      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch15.md"
-    },
-    {
-      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch14",
-      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch14.md"
-    },
-    {
-      "basename": "Ralph Waldo Emerson",
-      "path": "wiki/persons/us/Ralph Waldo Emerson.md"
     }
   ],
   "omittedPaths": [],

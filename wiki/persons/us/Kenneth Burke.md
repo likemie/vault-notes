@@ -2,7 +2,6 @@
 title: Kenneth Burke
 aliases:
   - 肯尼斯·伯克
-  - 伯克
   - Burke, K.
   - Kenneth Duva Burke
 summary: "美国著名文学理论家、修辞学家与哲学家；提出戏剧主义（Dramatism）理论与符号行动论，在《持久与变迁》（Permanence and Change, 1935）中深刻剖析了人类社会通过仪式化牺牲个体以卸载集体罪咎感的替罪羊机制（Scapegoat Mechanism）。"
@@ -15,7 +14,7 @@ person_related_stars: "⭐"
 person_related_color: "#dbeafe"
 born: "1897"
 died: "1993"
-lifespan: "1897–1993"
+lifespan: 1897–1993
 tags:
   - person/rhetoric
   - person/philosophy

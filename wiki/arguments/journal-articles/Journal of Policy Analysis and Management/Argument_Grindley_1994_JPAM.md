@@ -47,8 +47,7 @@ related_methods:
   - "[[Comparative Case Study]]"
   - "[[Statistical Process Control]]"
 related_instruments: []
-related_persons:
-  - "[[Kenneth Burke]]"
+related_persons: []
 related_facts:
   - "[[Sematech]]"
   - "[[VLSI Project]]"
@@ -75,7 +74,7 @@ title: "Argument_Grindley_1994_JPAM"
 argument_key: "Argument_Grindley_1994_JPAM"
 argument_display_title: "SEMATECH and collaborative research: Lessons in the design of high-technology consortia"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -216,7 +215,7 @@ issuing_organization: ""
 
 > [!pathways] SEMATECH 三位一体的教育培训与人才扩散机制
 > - **骨干工程师借调轮换制（Assignees Program）** 联盟要求 14 家出资芯片制造厂商选派 200 至 300 名资深工程技术人员全职借调进驻奥斯汀中试基地，借调期通常为 1 至 2 年。工程师在真实中试线上直接参与下一代 0.35 微米关键设备联调与先进制程攻关；借调期满返回母公司后，他们将最新的工艺诀窍、COO/SPC 标准和协作文化带回各企业商业产线，成为企业内部的“技术播种者”与转化桥梁，彻底解决了以往研发成果“停留在纸面报告、难以在车间落地”的困境。（pp.726, 752–753）
-> - **[[Sematech Centers of Excellence|大学卓越技术中心网络]]（[[Sematech Centers of Excellence|SCOE]]）与前沿基础人才培养** 联盟每年安排 1000 万至 1500 万美元，通过[[Semiconductor Research Corporation|半导体研究公司]]（Semiconductor Research Corporation, SRC）资助加州大学[[Kenneth Burke|伯克]]利分校、斯坦福大学、麻省理工学院、得克萨斯大学等顶尖高校建立大学卓越技术中心（Semiconductor Centers of Excellence, SCOE），专注于光刻物理、等离子体反应动力学与新型材料等底层科学探索，直接资助并培养了数百名兼具前沿学术视野与产业应用技能的微电子工程硕士与博士研究生。（pp.730, 735, 754）
+> - **[[Sematech Centers of Excellence|大学卓越技术中心网络]]（[[Sematech Centers of Excellence|SCOE]]）与前沿基础人才培养** 联盟每年安排 1000 万至 1500 万美元，通过[[Semiconductor Research Corporation|半导体研究公司]]（Semiconductor Research Corporation, SRC）资助加州大学伯克利分校、斯坦福大学、麻省理工学院、得克萨斯大学等顶尖高校建立大学卓越技术中心（Semiconductor Centers of Excellence, SCOE），专注于光刻物理、等离子体反应动力学与新型材料等底层科学探索，直接资助并培养了数百名兼具前沿学术视野与产业应用技能的微电子工程硕士与博士研究生。（pp.730, 735, 754）
 > - **供应商全员质量教育项目（PFTQ）与工程技能再造** 联盟设立“全面质量伙伴关系”（Partnering for Total Quality, PFTQ）专项，每年投入 500 万至 1000 万美元，对 130 余家上游中小设备与材料供应商开展全员[[Total Quality Management|TQM]]、[[Statistical Process Control|SPC]]、[[Cost of Ownership|COO]] 及实验设计（Design of Experiments, [[Department of Energy|DOE]]）[[Further Education|继续教育]]培训，促使 90% 以上供应商完成认证，从根本上弥补了中小企业缺乏现代工程管理规范与统计素养的短板。（pp.734–735）
 
 ---

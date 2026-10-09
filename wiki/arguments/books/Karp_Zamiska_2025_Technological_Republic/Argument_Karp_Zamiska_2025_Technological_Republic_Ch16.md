@@ -278,7 +278,7 @@ updated: 2026-10-09
 > - **公职禁欲悖论** 西方社会对公职人员施加清教徒式道德纯洁性要求与微薄法定薪酬，导致公职被富豪阶层垄断或异化为离职变现跳板，严重剥夺公共部门吸引顶尖专业人才的激励能力（pp. 179–183）。
 > - **[[Lee Kuan Yew|李光耀]]务实薪酬挂钩[[Paradigm|范式]]** 将公共治理职位薪酬与私营市场顶级行业中位数挂钩，承认人性现实诉求，以一流待遇招募一流人才并辅以严苛法治问责（pp. 182–183）。
 > - **[[Hyman Rickover|里科弗]]工程领袖范式** 以交付颠覆性战略成果为第一要务，敢于突破僵化科层合规，代表了颠覆性科技攻坚所必须的实战[[Engineering Mindset|工程思维]]（pp. 183–185）。
-> - **[[Kenneth Burke|伯克]][[Scapegoat Mechanism|替罪羊机制]]** 体制在遭遇结构性无能与内部道德失调时，通过将过错转嫁并牺牲具有争议的实干天才，以换取短暂虚幻的集体心理释怀与道德纯洁感（pp. 187–188）。
+> - **伯克[[Scapegoat Mechanism|替罪羊机制]]** 体制在遭遇结构性无能与内部道德失调时，通过将过错转嫁并牺牲具有争议的实干天才，以换取短暂虚幻的集体心理释怀与道德纯洁感（pp. 187–188）。
 > - **[[Output-Oriented Governance|结果导向治理]]与国家认同** 终结形式主义程序审判，以权责对齐的制度设计与共同体信念重铸[[Technological Republic|技术共和国]]（pp. 188–189）。
 
 ---
@@ -295,10 +295,10 @@ updated: 2026-10-09
 >
 > *My job was not to work within the system. My job was to get things done.*
 
-> [!citation-card] [[Kenneth Burke|伯克]]论[[Scapegoat Mechanism|替罪羊机制]]的纯粹形态
+> [!citation-card] 伯克论[[Scapegoat Mechanism|替罪羊机制]]的纯粹形态
 > 替罪羊机制最纯粹的形式，是将牺牲性客体作为一种容器，用于仪式性地卸除自身的罪过。（p. 188）
 >
-> *In Permanence and Change, published in 1935, Kenneth Burke described “the scapegoat mechanism in its purest form,” as “the use of a sacrificial receptacle for the ritual unburdening of one’s sins.”*
+> *In Permanence and Change, published in 1935, [[Kenneth Burke]] described “the scapegoat mechanism in its purest form,” as “the use of a sacrificial receptacle for the ritual unburdening of one’s sins.”*
 
 > [!citation-card] 形式程序对实质成果的倒置侵害
 > 风险在于我们开始将看似无可指摘的透明度与程序目标置于真正重要的事情之上——建造潜艇、研制最难攻克的药物、防范恐怖袭击以及捍卫国家利益。这种功利主义权衡或许并不具审美吸引力，但在任何严峻斗争中，我们有时必须抛开审美上的厌恶；我们太经常躲在自身的道德纯洁性背后，以逃避关于结果与成效的更艰难且令人不安的追问。（p. 187）

@@ -52,11 +52,13 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Research Translation]]"
   - "[[Variable]]"
+  - "[[Linear Model of Innovation]]"
   - "[[Knowledge-Based Economy]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Triple Helix]]"
   - "[[Pasteur's Quadrant]]"
+  - "[[Ecological Systems Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Effect Size]]"
@@ -65,7 +67,6 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
-  - "[[Kenneth Burke]]"
   - "[[Michael Kratsios]]"
   - "[[Joseph Schumpeter]]"
   - "[[Vannevar Bush]]"
@@ -104,7 +105,6 @@ related_arguments:
   - "[[Argument_Caraca_2009_TFSC]]"
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
   - "[[Argument_Lester_2005_MIT]]"
-  - "[[Argument_Hall(Ed.)_2025_Springer]]"
 confidence: high
 status: active
 created: 2026-05-26
@@ -215,7 +215,7 @@ updated: 2026-10-09
 > 探讨大学在区域创新生态中的定位机制：创新生态并非依赖孤立的精英[[Research Universities|研究型大学]]，而是由顶尖基础科研锚点与多层次应用型高等教育网络共同构建的复合人才与技术支撑体系。
 
 > [!claim] Scott & Kirst (2017)
-> **多层次高等教育梯队的生态基石作用** 硅谷创新经济的持续繁荣并不单靠斯坦福大学或加州大学[[Kenneth Burke|伯克]]利分校等研究型大学，而是深度依托《[[California Master Plan for Higher Education|加州高等教育总体规划]]》所构建的三层体系（加州大学负责尖端基础科研、加州州立大学承担工程骨干培养、社区学院提供高技能技术工人），为区域高技术生态提供了全谱系的人才梯队支撑。[[Argument_Dean_2025_UICollaborationSupport|(Scott & Kirst, 2017, cited in Dean et al., 2025, pp. 12–13)]]
+> **多层次高等教育梯队的生态基石作用** 硅谷创新经济的持续繁荣并不单靠斯坦福大学或加州大学伯克利分校等研究型大学，而是深度依托《[[California Master Plan for Higher Education|加州高等教育总体规划]]》所构建的三层体系（加州大学负责尖端基础科研、加州州立大学承担工程骨干培养、社区学院提供高技能技术工人），为区域高技术生态提供了全谱系的人才梯队支撑。[[Argument_Dean_2025_UICollaborationSupport|(Scott & Kirst, 2017, cited in Dean et al., 2025, pp. 12–13)]]
 
 > [!claim] [[Argument_Dean_2025_UICollaborationSupport|Dean et al. (2025)]]
 > **锚点大学与本地[[Industrial District|产业区]]位的差异化自增强循环** 大学的学科文化与本地产业结构具有深度的自增强互锁效应；滑铁卢大学通过大规模[[Cooperative Education|合作教育]]（每年 26,000 名本科生与 8,000+ 雇主对接）与[[University of Waterloo Inventor-Owned IP Policy|发明人自有知识产权政策]]，在多伦多-滑铁卢走廊催生了 15,000 家科技公司与 315,000 名从业者，证明创新生态建设无需机械模仿都市密度模型，半乡村区位的充足工业用地与农业机器人、汽车科技等特定产业场景亦能形成差异化生态位。[[Argument_Dean_2025_UICollaborationSupport|(Dean et al., 2025, pp. 246–249)]]
@@ -298,7 +298,7 @@ updated: 2026-10-09
 > - **1990s — 三螺旋理论与[[Industry Affiliate Program|产业联盟]]纵向协同实践** Etzkowitz & Leydesdorff（1995）提出三螺旋模型；Grindley、Mowery 与 Silverman 系统评估 [[Sematech]] 研发联盟，提炼出纵向用户—供应商生态协同与共性技术治理准则。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 723–758)]]
 > - **1998 — 纵向专业化分工与模块化生态逆转** Macher、Mowery 与 Hodges 结合微观标杆数据系统论证 Fabless-Foundry 纵向专业化分工与下游个人电脑互补资产如何驱动美国半导体产业逆转，纠正了 80 年代学界关于产业组织碎片化必然失败的悲观误判。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 107–136)]]
 > - **2000s–2010s — 区域锚点生态与开放创新范式扩展** 莱斯特（Richard Lester）提出大学根据本地产业生命周期进行差异化适配的[[Analytic Framework|分析框架]]；牛津 [[University Industry Demonstration Partnership|UIDP]] 峰会确立了战略性建设高密度、高宜居性本地创新生态的现代范式。[[Argument_Lester_2005_MIT|(Lester, 2005)]]; [[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 8–10)]]
-> - **2008 — 企业战略倡议与开源生态协同（[[Universal Parallel Computing Research Centers|UPCRC]]）** 英特尔与微软联合资助加利福尼亚大学[[Kenneth Burke|伯克]]利分校与伊利诺伊大学厄巴纳-香槟分校设立[[Universal Parallel Computing Research Centers|通用并行计算研究中心]]（UPCRC），开创了寡头企业联合出资、成果全面开源的产学前竞争生态共建范式，为后续 Apache Spark 与 Ray 等开源计算生态奠定基础。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 234–236)]]
+> - **2008 — 企业战略倡议与开源生态协同（[[Universal Parallel Computing Research Centers|UPCRC]]）** 英特尔与微软联合资助加利福尼亚大学伯克利分校与伊利诺伊大学厄巴纳-香槟分校设立[[Universal Parallel Computing Research Centers|通用并行计算研究中心]]（UPCRC），开创了寡头企业联合出资、成果全面开源的产学前竞争生态共建范式，为后续 Apache Spark 与 Ray 等开源计算生态奠定基础。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 234–236)]]
 > - **2020s — 供应链韧性与地缘科技生态重构** 面对全球产业链脱钩与技术主权竞争，2022 年《[[CHIPS and Science Act|芯片与科学法案]]》设立[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]），将创新生态系统扩展为涵盖供应链韧性、共性中试线与地缘科技安全的核心治理工具。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1135–1137)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–238)]]
 > - **2026 — 多圈层协同网络与中试共置生态范式** [[Argument_Zhuo_2026_ICE|卓泽林 (2026, pp. 22–24)]] 结合美国半导体体系角色重构实践，系统提炼出涵盖城市锚点、区域跨校联盟（[[Joint University Microelectronics Program 2.0|JUMP 2.0]]）与国家分布式多极网络的空间拓扑，以及依托 Albany NanoTech 与 MIT.nano 产学洁净室共置打通 [[Technology Readiness Level|TRL]] 4–6 鸿沟的中试中转机制。
 

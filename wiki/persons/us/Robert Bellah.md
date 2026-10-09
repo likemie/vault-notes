@@ -25,6 +25,7 @@ related_concepts:
   - "[[Civic Religion]]"
   - "[[Habitus]]"
   - "[[Technological Republic]]"
+  - "[[Soft Belief]]"
   - "[[Hard Belief]]"
   - "[[National Character]]"
 related_theories: []
@@ -32,7 +33,6 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
-  - "[[Kenneth Burke]]"
   - "[[Talcott Parsons]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
@@ -53,7 +53,7 @@ updated: 2026-10-09
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国著名宗教社会学家，加州大学[[Kenneth Burke|伯克]]利分校福特社会学教授（Elliott Professor of Sociology emeritus），美国国家人文奖章获得者。
+> - **身份位置** 美国著名宗教社会学家，加州大学伯克利分校福特社会学教授（Elliott Professor of Sociology emeritus），美国国家人文奖章获得者。
 > - **核心角色** 当代[[Civic Religion|公民宗教]]（Civil Religion）理论与社群主义文化批判的核心奠基人。
 > - **代表贡献** 创立美国[[Civic Religion|公民宗教]]概念，揭示支撑民主宪政共同体的非排他性世俗信仰体系；主笔经典社会学著作《心灵的[[Habitus|习性]]》（*Habits of the Heart*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
 
@@ -110,7 +110,7 @@ updated: 2026-10-09
 
 > [!person-network] 关系网络
 > - **博士导师** [[Talcott Parsons|塔尔科特·帕森斯]] — 继承了帕森斯关于社会系统整合与价值内化的宏观社会学视野。
-> - **当代应用与对话** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 将[[Civic Religion|公民宗教]]作为[[Technological Republic|技术共和国]]不可或缺的[[Hard Belief|软信念]]基石。
+> - **当代应用与对话** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 将[[Civic Religion|公民宗教]]作为[[Technological Republic|技术共和国]]不可或缺的[[Soft Belief|软信念]]基石。
 
 ---
 

@@ -9,7 +9,7 @@ summary: "西班牙社会学家，网络社会与信息时代发展模式奠基�
 type: person
 nationality: spain
 person_region: "spain"
-person_related_count: 29
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -46,8 +46,7 @@ related_theories:
   - "[[Network Society]]"
   - "[[Informationalism]]"
 related_methods: []
-related_persons:
-  - "[[Kenneth Burke]]"
+related_persons: []
 related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
@@ -70,7 +69,7 @@ updated: 2026-10-09
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 西班牙著名社会学家，南加州大学传播学与社会学讲座教授（Wallis Annenberg Chair in Communication Technology and Society），曾任加州大学[[Kenneth Burke|伯克]]利分校城市与区域规划及社会学教授、西班牙大学部部长（2020–2021）。
+> - **身份位置** 西班牙著名社会学家，南加州大学传播学与社会学讲座教授（Wallis Annenberg Chair in Communication Technology and Society），曾任加州大学伯克利分校城市与区域规划及社会学教授、西班牙大学部部长（2020–2021）。
 > - **核心角色** [[Network Society|网络社会]]与[[Informationalism|信息主义]]理论的奠基人，当代最具影响力的全球传播与技术社会学者之一。其空间二分法、网络国家及精英[[Cosmopolitanism|世界主义]]分析，被广泛用于解释全球化时代的权力重组、跨国[[Policy Mobility|政策流动]]及科技精英的政治脱嵌。
 > - **代表贡献** 著有《信息时代：经济、社会与文化》三部曲与《传播权力》，提出 [[Network Society|网络社会]]、[[Space of Flows and Space of Places|流动空间与地方空间]]、网络国家（Network State）与“世界主义精英 vs 本土大众”的社会分层命题。
 
@@ -87,7 +86,7 @@ updated: 2026-10-09
 > - **1942** 出生于西班牙阿尔瓦塞特省埃林。
 > - **1960s** 积极参与反对佛朗哥独裁统治的学生运动，流亡法国巴黎，于巴黎大学（索邦）获得社会学与经济学学位，受教于阿兰·图海纳（Alain Touraine）。
 > - **1967–1979** 任教于巴黎第十大学（南泰尔分校）与法国高等社会科学研究中心（EHESS），开展城市社会学批判研究。
-> - **1979–2003** 担任美国加州大学[[Kenneth Burke|伯克]]利分校城市与区域规划及社会学教授，奠定信息社会与城市理论体系。
+> - **1979–2003** 担任美国加州大学伯克利分校城市与区域规划及社会学教授，奠定信息社会与城市理论体系。
 > - **1996–1998** 出版里程碑式学术巨著《信息时代：经济、社会与文化》三部曲（*The Information Age: Economy, Society and Culture*）。
 > - **2003 至今** 担任美国南加州大学安嫩伯格传播与新闻学院传播学讲座教授。
 > - **2020–2021** 出任西班牙政府大学部部长（Minister of Universities）。

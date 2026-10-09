@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Import Substitution Industrialisation]]"
+  - "[[Cognitive Decoupling]]"
   - "[[Competitiveness]]"
   - "[[Emergence]]"
   - "[[Disciplinary Institutionalization]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # MOSIS
@@ -91,7 +92,7 @@ updated: 2026-10-07
 > - **科研与初创设计社群** 覆盖全美高校电子工程与计算机系所师生、国防工业研发团队及硅谷无晶圆厂初创公司。
 
 > [!pathways]- 独特的多项目晶圆（MPW）流片机制
-> - **设计与制造解耦（Design-Fab Decoupling）** 设计人员无需掌握特定半导体厂繁杂的化学物理工艺，只需遵循标准化的设计规则；MOSIS 充当设计文件与物理代工厂之间的中立数字翻译接口。
+> - **设计与制造解耦（Design-Fab [[Cognitive Decoupling|decoupling]]）** 设计人员无需掌握特定半导体厂繁杂的化学物理工艺，只需遵循标准化的设计规则；MOSIS 充当设计文件与物理代工厂之间的中立数字翻译接口。
 > - **多项目晶圆共享拼版（Multi-Project Wafer, MPW）** 将数十甚至数百个不同大学和机构提交的微型芯片设计合并到同一套高昂的光刻掩膜版（Mask Set）上，使各项目平摊掩膜和晶圆制造成本。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 183)]]
 > - **网络化敏捷提交流程（[[ARPANET]]/Internet Submission）** 开创了通过电子邮件远程提交 CIF/GDSII 芯片设计版图、数周内通过快递回寄封装测试样片的敏捷研发流程。
 

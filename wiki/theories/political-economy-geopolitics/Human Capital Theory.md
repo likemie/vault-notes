@@ -7,7 +7,7 @@ aliases:
 summary: "将教育与培训视为提升劳动生产率与驱动内生经济增长的核心生产性投资之经济学理论。二战后在冷战地缘博弈中成为经合组织（OECD）推行技术官僚式人力规划与世界银行构建跨国放贷指标帝国的核心理论支柱；在创新经济学中阐明了重大工程实战历练与冷战大学研究生流动构筑高科技产业实体技术转移与人才生态的微观机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 64
+theory_related_count: 63
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -63,7 +63,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[George Psacharopoulos]]"
-  - "[[Kenneth Burke]]"
   - "[[Torsten Husén]]"
   - "[[Jerome E. Schnee]]"
 related_facts:
@@ -163,7 +162,7 @@ updated: 2026-10-09
 > - **推导** ① 空间与国防公共重大项目充当了高技术专门人力资本的国家级实训基地；② 在半导体领域催化了以研发外溢与衍生企业繁衍为特征的高频“企业间外部流动网络”（如[[Bell Labs|贝尔实验室]]与仙童繁衍谱系）；③ 在计算机领域构建了以复杂系统项目主管跨界调配为特征的“企业内部知识平移机制”，共同构筑了国家高技术产业的人才生态优势。
 
 > [!proposition-chain] 核心命题六｜[[Cold War University|冷战大学]]科研资助通过研究生流动构筑新兴产业的实体人力资本转移载体
-> - **前提一** 战后美国国防部与联邦机构对[[Cold War University|冷战大学]]（如麻省理工学院、斯坦福大学、卡内基梅隆大学与[[Kenneth Burke|伯克]]利分校）的计算机与工程研究进行了长达数十年的非保密基础研究注资（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005, pp. 29–31]]）。
+> - **前提一** 战后美国国防部与联邦机构对[[Cold War University|冷战大学]]（如麻省理工学院、斯坦福大学、卡内基梅隆大学与伯克利分校）的计算机与工程研究进行了长达数十年的非保密基础研究注资（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005, pp. 29–31]]）。
 > - **前提二** 与传统依靠正式专利许可的交易型[[Technology Transfer|技术转移]]不同，新兴信息技术领域知识具有高度默会性与未定型性，大学与产业间最高效的知识扩散载体是直接参与前沿课题攻关的研究生与博士后（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005, p. 30]]）。
 > - **推导** ① 联邦科研预算实质上发挥了“跨期人力资本孵化基金”功能，在学术前沿培育了全美第一代掌握复杂操作系统、网络协议与芯片工艺的高阶工程师；② 受训青年学者的高频实体跨界流动（毕业任职于商业巨头或独立创办衍生企业），构成了战后美国信息技术向民用市场扩散的最关键机制；③ 证实了人力资本理论在[[National Innovation System|国家创新体系]]维度的微观机理——高强度的公共研发投资必须与自由开放的人才流动网络相咬合，方能转化为不可逆的产业竞争优势。
 
@@ -304,7 +303,7 @@ updated: 2026-10-09
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 深度剖析人力资本理论如何作为实证[[Scientific Paradigm|科学范式]]的理论支柱，为战后西方国家教育预算大扩张与第三世界技术援助提供合法化免责借口。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 考据战后第三代实证[[Scientism|科学主义]]运动中人力资本理论（Schultz, Harbison & Myers, Psacharopoulos）如何与方法论[[Empiricism|经验主义]]缝合，确立“教育-发展-现代化”工具性发展[[Paradigm|范式]]并受跨国权力机构支持的历史机制。
-> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，揭示跨国大规模评估（OECD/PISA）崛起后，以人力资本和经济[[Competitiveness|竞争力]]为导向的技术官僚治理如何对比较教育的研究课题、经费分配与政策咨询施加直接的量化[[Disciplina and Doctrina|规训]]压力。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，揭示跨国大规模评估（[[OECD]]/[[PISA]]）崛起后，以人力资本和经济[[Competitiveness|竞争力]]为导向的技术官僚治理如何对比较教育的研究课题、经费分配与政策咨询施加直接的量化[[Disciplina and Doctrina|规训]]压力。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 揭示当代全球治理中人力资本[[Discourse|话语]]如何与 [[PISA]] 测评机制紧密咬合，驱动教育系统按照资本回报逻辑重组。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理[[OECD|经合组织]]与[[World Bank|世界银行]]七十五年历时制度演变，揭示冷战[[Sputnik Shock 1957|斯普特尼克冲击]]后国际组织如何将人力资本理论、控制论规划与教育收益率数据库工具化，打造出跨国放贷与指标治理帝国的历史轨迹。
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统剖析美国半导体与计算机产业发展史，揭示重大公共战略工程如何培育高技术专门工程人力资本，并通过企业间衍生创业网络与企业内部跨部门平移双重机制驱动民用产业升级。
