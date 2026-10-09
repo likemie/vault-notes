@@ -9,10 +9,10 @@ aliases:
 summary: "贯穿微电子系统从底层材料、电路设计、晶圆制造、异构封装到现场部署全生命周期的安全防护学科与工程实践，旨在防范硬件木马、物理侧信道攻击、逆向工程、供应链伪造与篡改，并在架构根基处建立可度量验证的零信任硬件信任根。"
 type: concept
 domain: "science-policy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 16
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/semiconductor
   - theme/science-policy
@@ -26,12 +26,19 @@ related_concepts:
   - "[[Screening Off]]"
   - "[[Hypothesis]]"
   - "[[Document]]"
+  - "[[Competitiveness]]"
+  - "[[Variable]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Power Analysis]]"
+  - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[National Science and Technology Council]]"
+  - "[[DARPA]]"
+  - "[[National Strategy on Microelectronics Research]]"
 related_arguments:
   - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
 confidence: high
@@ -127,3 +134,65 @@ updated: 2026-10-10
 > |---|---|---|---|
 > | **国家可信计算根基** | 硬件完整性是整个计算栈信任链条的物理支点 | 驱动国防与关键基础设施专用可信微电子研发计划 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 3, 10)]] |
 > | **供应链安全防御** | 前置全栈协同安全设计能够免疫非可信代工环节风险 | 指导开发新一代安全EDA工具与零信任硬件标准 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 13, 18–19)]] |
+
+---
+
+## 概念演变
+
+> [!dev-timeline] 概念演变
+> - **1980s–1990s — 独立加密协处理器与物理防拆封装** 早期硬件安全主要依赖物理隔离的安全芯片（如智能卡与加密协处理器），通过环氧树脂封装与防拆网格传感器防止攻击者磨削芯片直连总线。
+> - **2000s — 侧信道分析与微观物理泄露防御** 科赫尔（Paul Kocher）等学者提出差分功耗分析（Differential [[Power Analysis]], DPA）与电磁辐射探测，硬件安全研究转向防范利用芯片计算过程中的物理副产物反推密钥。
+> - **2010s — 物理不可克隆函数（PUF）与硬件信任根（RoT）** 利用硅晶圆制造中不可控的纳米级物理工艺偏差，生成芯片唯一且不可复制的硬件“数字指纹”（PUF），奠定了现代芯片物理防伪与密钥生成的基石。
+> - **2020s — 零信任硬件架构与自动化安全形式化验证** 针对全球代工供应链中的硬件木马与非授权篡改风险，[[DARPA|国防高级研究计划局]]（DARPA）与电子设计自动化（EDA）厂商合作开发前置安全扫描工具，在流片前自动检出硬件脆弱性。
+> - **2024 — 国家战略确立硬件完整性与安全性为内生[[Co-Design|协同设计]]支柱** [[National Science and Technology Council|白宫国家科学技术委员会]]（NSTC）在《微电子研究国家战略》中将硬件安全与保证（Trust and Assurance）确立为全栈协同设计的核心内生要素，依托跨部门机制保障国防与关键基础设施微电子系统的绝对可信。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10, 18–19)]]
+
+---
+
+## 争议与批评
+
+> [!debates] 硬件安全学术争议与工程张力
+>
+> > [!axis] 安全防护开销：内生安全防御 vs 商业算力与面积能效损耗
+> > 争论芯片架构设计应不计代价最大化硬件防护，还是在可接受的安全等级下优先保障算力与成本[[Competitiveness|竞争力]]。
+> >
+> > - **[[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]]** 强调国家安全关键领域的微电子系统必须推行零信任硬件信任根与全流程形式化验证，安全开销是保障主权可信的必要代价。
+> > - **商业消费级芯片阵营** 认为过度的物理混淆网格、功耗均衡电路与重度加密鉴权会造成 15%–30% 以上的芯片面积与能耗惩罚，降低产品商业竞争力，主张分级适度防护。
+>
+> > [!axis] 供应链安全验证：事后破坏性抽样检测 vs 前端设计端零信任免疫
+> > 围绕非可信全球化制造环境下，保障芯片真实可信的主导防御路径展开的争论。
+> >
+> > - **前置内生安全[[Co-Design|协同设计]]学派** 论证指出单纯依赖流片后抽样破坏性物理扫描与 X 射线检测覆盖率极低且成本高昂，必须通过前端安全[[Co-Design|协同设计]]实现“设计端内生免疫”。（pp. 18–19）
+> > - **传统军规可信代工（Trusted Foundry）支持者** 坚持认为唯有完全由本国受控的封闭专用可信晶圆厂才能保证硬件的绝对纯净，设计端算法防御无法完全阻断恶意代工厂在底层掺杂层施加的隐蔽物理篡改。
+
+---
+
+## 实证数据
+
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | 美国关键基础设施与国防微电子全生命周期供应链安全（涵盖材料、设计、流片、先进封装与现场部署） | 跨部门国家安全战略评估与供应链脆弱性审查 | 硬件完整性与安全性（T&AM）要素、零信任硬件架构、抗侧信道防御与 EDA 安全验证工具 | ① 确立硬件信任根（RoT）与物理不可克隆函数（PUF）为底层信任支点；② 规划自动化安全 EDA 验证工具以实现流片前硬件木马 **100% 形式化覆盖**；③ 提出跨部门微电子可信与保证框架 | 跨部门国家战略政策文件与安全规划（原文报告） | 确立硬件安全作为全生命周期内生要素抵御非可信代工风险与物理侧信道攻击的核心战略地位 |
+
+---
+
+## 条目关联
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关联维度与贡献 |
+> |:---|:---|:---|
+> | [[Trustworthiness]] | Concept | 硬件安全构成了整个信息与计算系统自底向上可信赖性的物理锚点。 |
+> | [[Co-Design]] | Concept | 协同设计将硬件安全从外部补丁转化为贯穿全技术栈的前置内生属性。 |
+> | [[Reliability]] | Concept | 硬件安全防范主动敌对攻击，与防范物理退化失效的硬件可靠性形成互补。 |
+> | [[National Science and Technology Council]] | Fact (Organization) | 制定《微电子研究国家战略》并统筹全美硬件安全科技攻坚的白宫协调机构。 |
+> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 白宫[[National Strategy on Microelectronics Research\|国家微电子研究战略]]，确立硬件完整性与安全性为协同设计的核心支柱。 |
+
+---
+
+## 相关研究
+
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 将硬件完整性与安全性确立为国家安全基石，提出基于零信任硬件信任根与全生命周期安全[[Co-Design|协同设计]]的防御体系。
+

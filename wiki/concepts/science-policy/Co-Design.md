@@ -10,7 +10,7 @@ aliases:
 summary: "打破传统自上而下单向或离散工程壁垒，在微电子系统全生命周期中将底层物理材料、器件物理、制造工艺、高级封装、电路架构、算法软件直至终端应用需求进行全栈双向信息互通与联合优化的工程研发范式。"
 type: concept
 domain: "science-policy"
-related_count: 10
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,13 +27,17 @@ related_concepts:
   - "[[Variable]]"
   - "[[Computer Simulation]]"
   - "[[Document]]"
+  - "[[Process Design Kit]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[International Schools Association]]"
   - "[[National Science and Technology Council]]"
+  - "[[National Strategy on Microelectronics Research]]"
 related_arguments:
   - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
 confidence: high
@@ -130,3 +134,64 @@ updated: 2026-10-10
 > |---|---|---|---|
 > | **物理与架构效能** | 跨尺度全栈双向反馈突破传统单片物理微缩收益递减瓶颈 | 推动先进电子设计自动化（EDA）与跨尺度仿真工具研发 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 10–16)]] |
 > | **安全与系统可持续性** | 硬件信任根与全生命周期低碳参数必须在前置阶段内生嵌入 | 指导国防关键芯片与绿色半导体制造重大研发计划布局 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 18–20)]] |
+
+---
+
+## 概念演变
+
+> [!dev-timeline] 概念演变
+> - **1990s — 狭义软硬件协同设计（HW/SW Co-Design）** 随着嵌入式系统与专用集成电路（ASIC）复杂化，学界与产业界开始探索在系统级规约下将功能合理划分为硬件电路与软件代码，主要聚焦指令集架构（[[International Schools Association|ISA]]）与编译器的协同权衡。
+> - **2010s — 设计—技术协同优化（DTCO）进入纳米制造节点** 在 16 纳米及更先进制程中，晶体管引入鳍式场效应晶体管（FinFET）与复杂多重曝光光刻，电路设计规则与底层制造工艺强烈耦合，设计—技术协同优化（Design-Technology Co-Optimization, DTCO）成为晶圆厂与无晶圆厂设计企业缩短研发周期的标准方法。
+> - **2020s — 系统—技术协同优化（STCO）与三维堆叠** 面对后摩尔时代异构芯粒堆叠与内存墙瓶颈，系统—技术协同优化（System-Technology Co-Optimization, STCO）兴起，将优化边界从单一芯片单元推进至涵盖先进封装、三维热分布、片上供电网络与系统软件的宏观系统层。
+> - **2024 — 全栈双向协同设计确立为国家级工程研发[[Paradigm|范式]]** [[National Science and Technology Council|白宫国家科学技术委员会]]（NSTC）在《微电子研究国家战略》中将协同设计定义为横跨材料、器件、封装、架构、软件直至全生命周期安全与可持续性的全栈双向信息互通机制，确立其为支撑微电子创新的顶层方法论。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10, 13–16)]]
+
+---
+
+## 争议与批评
+
+> [!debates] 协同设计学术争议与治理张力
+>
+> > [!axis] 工程架构[[Paradigm|范式]]：跨层级全局联合优化 vs 经典抽象分层黑箱
+> > 争论微电子系统研发应打破层级界限推行端到端联合优化，还是维持经典计算机体系结构的抽象分层隔离。
+> >
+> > - **[[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]]** 认为先进节点下物理效应与系统架构深度交织，维持严格抽象层级将造成巨大能效与算力浪费，必须打通全栈双向参数反馈。
+> > - **计算机抽象体系学派** 强调严格的分层抽象（如晶体管模型、标准单元库、硬件描述语言）是半导体产业实现超大规模复杂分工与软件复用的基石，过度打破层级会导致设计空间维度爆炸与验证不可收敛。
+>
+> > [!axis] 商业知识产权壁垒：制造工艺数据全透明共享 vs 晶圆代工厂专有商业机密
+> > 围绕全栈协同设计所需的高精度底层工艺与缺陷参数共享，与代工厂知识产权保护之间的商业博弈。
+> >
+> > - **开放设计与国家战略视角** 呼吁构建开放[[Process Design Kit|工艺设计套件]]（PDK）与云端仿真数字孪生平台，降低设计人员获取高精度底层参数的门槛。（pp. 14–16）
+> > - **头部商业代工厂** 出于保护核心制造工艺机密与客户隔离考虑，倾向于提供高度抽象化、保守放宽安全裕量的商业 PDK，限制了深度软硬件定制潜力的完全释放。
+
+---
+
+## 实证数据
+
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | 全美微电子技术栈跨层协同（涵盖材料、器件物理、异构封装、近存计算电路与系统软件） | 跨部门国家科技战略规划与技术路线图论证 | 全栈双向协同设计维度、跨尺度仿真工具链、[[Hardware Security\|硬件安全]]内生嵌入与可持续性指标 | ① 确立涵盖 **6 大层级**（材料/器件/封装/架构/软件/应用）的双向信息流架构；② 提出跨越量子第一性原理到系统仿真的跨尺度数字孪生目标；③ 将硬件信任根与全生命周期环境能效确立为协同设计前置约束 | 跨部门国家战略政策文件与路线图规划（原文报告） | 确立全栈双向协同设计作为化解物理孤岛效应、提升系统能效与内生安全性的核心方法论 |
+
+---
+
+## 条目关联
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关联维度与贡献 |
+> |:---|:---|:---|
+> | [[Paradigm]] | Concept | 协同设计标志着从传统线性单向流水线向全栈双向网状迭代的工程范式转型。 |
+> | [[Hardware Security]] | Concept | 协同设计将硬件信任根与形式化安全验证作为前置约束内生嵌入芯片架构。 |
+> | [[Reliability]] | Concept | 协同设计通过在初始阶段联合考量热学与物理退化机制提升系统全生命周期可靠性。 |
+> | [[National Science and Technology Council]] | Fact (Organization) | 制定《微电子研究国家战略》并统筹全栈协同设计跨部门重大研发计划的白宫协调机构。 |
+> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 白宫[[National Strategy on Microelectronics Research\|国家微电子研究战略]]，确立全栈双向协同设计为四大战略科技目标之一。 |
+
+---
+
+## 相关研究
+
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 提出贯穿底层物理材料至终端应用的全栈双向协同设计（DTCO/STCO）[[Paradigm|范式]]，将[[Hardware Security|硬件安全]]与可持续性前置内生嵌入微电子系统架构。
+

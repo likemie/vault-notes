@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -45,6 +45,10 @@ related_facts:
   - "[[Subcommittee on Microelectronics Leadership]]"
   - "[[National Strategy on Microelectronics Research]]"
   - "[[National Science Board]]"
+  - "[[Industrial Advisory Committee]]"
+  - "[[National Advanced Packaging Manufacturing Program]]"
+  - "[[Microelectronics Commons]]"
+  - "[[Department of Energy]]"
   - "[[President's Science Advisory Committee]]"
 related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
@@ -90,12 +94,13 @@ updated: 2026-10-10
 > [!actor-grid] 组织治理架构
 > - **决策机构（理事会 / 董事会）** 美国总统亲自担任主席；副总统、商务部长、国防部长、能源部长、卫生部长及各关键研发机构长官为法定正式成员。
 > - **执行机构（秘书处 / 管理层）** 由总统科学顾问兼 [[Office of Science and Technology Policy|OSTP]] 主任担任执行主任，负责召集会议、督办跨部门联合工作组日常运转。
-> - **专家与审议委员会** 设立科学、技术、环境、国家与国土安全等专门委员会，各下设若干跨部委专项工作组（如[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]、[[Research Security|科研安全]]联合工作组等）。
-> - **会员与外部利益相关者** 深度联动[[National Science Board|国家科学委员会]]（NSB）、总统科技顾问委员会（PCAST）及工业界代表，吸纳外部建议。
+> - **专门委员会与小组委员会** 设立科学、技术、环境、国土与国家安全（Committee on Homeland and National Security, CHNS）等专门委员会；在 CHNS 下依据 2021 财年《国防授权法案》第 9906 条专门设立[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（SML），统筹全美微电子战略与预算协同。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. ii, 9–10)]]
+> - **会员与外部利益相关者** 深度联动[[National Science Board|国家科学委员会]]（NSB）、总统科技顾问委员会（PCAST）、芯片[[Industrial Advisory Committee|工业咨询委员会]]（IAC）及工业界代表，吸纳外部建议。
 
 > [!pathways]- 业务运行机制
 > - **议程设置** 每年联合白宫管理与预算办公室（OMB）发布《联邦研发预算优先序联合备忘录》，直接规约各部委下一财年研发经费报送。
 > - **研究与开发** 跨部委设立联合项目办公室，协调各部委所属国家实验室、大学合作中心共同参与重大技术攻关。
+> - **微电子与关键技术跨部门统筹** 通过 SML 定期组织微电子能力审查与联合 RFI 发布，统筹商务部（NSTC/[[National Advanced Packaging Manufacturing Program|NAPMP]]）、国防部（[[Microelectronics Commons]]）与 [[National Science Foundation|NSF]]/[[Department of Energy|DOE]] 的基础设施开放与技术路线对齐。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 9–10, 48)]]
 > - **质量控制与透明度** 制定统领全美联邦基金的[[Research Security|科研安全]]披露、利益冲突防范与数据合规指引，确保政策执行的一致性。
 
 ---
@@ -103,7 +108,7 @@ updated: 2026-10-10
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **跨部门重大技术倡议统筹** 牵头孵化并统领跨部委重大科技计划，如跨越十余个机构的国家纳米技术倡议（NNI）、国家量子计划（NQI）以及半导体与微电子跨部门研发协同。
+> - **跨部门重大技术倡议统筹** 牵头孵化并统领跨部委重大科技计划，如跨越十余个机构的国家纳米技术倡议（NNI）、国家量子计划（NQI）以及《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》（统筹四大支柱与二十余项行动）。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. iv–v, 2)]]
 > - **关键与新兴技术清单** 动态研判并发布关乎国家安全与战略优势的关键技术领域（如人工智能、半导体、先进计算、生物技术），指导联邦资金优先倾斜。
 > - **[[Research Security|科研安全]]与诚信跨部门标准制定** 针对学术交流与地缘技术竞争风险，组织制定统领全美联邦基金的科研安全披露、利益冲突防范与数据合规指引。
 > - **年度战略报告与优先序指南** 每年发布跨部门战略投资指引，为国会科技拨款与部委预算编制提供法定参考基准。
@@ -124,12 +129,12 @@ updated: 2026-10-10
 
 > [!finding-cards] 关键成效与辐射影响
 > - **奠定顶层跨部门统筹常态** 彻底改变了二战后各联邦部委在研发投资上“老死不相往来”的割裂状态，建立了制度化的协调管道。
-> - **支撑重大前沿战略攻坚** 通过 NNI、NQI 等旗舰计划，确保美国在关键前沿[[Comparative Education as a Cross-Sectional Area|交叉学科]]持续保持战略先发优势。
+> - **支撑重大前沿战略攻坚** 通过 NNI、NQI 以及[[National Strategy on Microelectronics Research|国家微电子研究战略]]等旗舰计划，确保美国在关键前沿[[Comparative Education as a Cross-Sectional Area|交叉学科]]持续保持战略先发优势。
 > - **推动科学契约由分散走向集中** 构成了战后[[Social Contract of Science|科学社会契约]]由部门自主资助向国家目标驱动转型的重要组织依托。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1059)]]
 
 > [!stat-cards]- 核心规模数据
-> - **创立时间** 1993 年 11 月 23 日由总统行政令正式设立。
-> - **覆盖部门** 统辖全美 20 余个拥有主要研发预算的联邦部委与独立执行机构。
+> - **1993 年 11 月 23 日** 由比尔·克林顿总统签署第 12881 号行政令正式设立的时间。
+> - **20 余个** NSTC 统辖的全美拥有主要研发预算的联邦部委与独立执行机构数量。
 
 ---
 
@@ -156,7 +161,9 @@ updated: 2026-10-10
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Office of Science and Technology Policy]] | Fact | OSTP 主任兼任 [[National Semiconductor Technology Center\|NSTC]] 执行主任，并为 NSTC 及其下设委员会提供日常专业与行政支撑。 |
+> | [[Office of Science and Technology Policy]] | Fact | OSTP 主任兼任 NSTC 执行主任，并为 NSTC 及其下设专门委员会提供日常专业与行政支撑。 |
+> | [[Subcommittee on Microelectronics Leadership]] | Fact | NSTC 国土与国家安全委员会下设的法定常设机构，负责统筹全美微电子研究战略与跨部委预算协调。 |
+> | [[National Strategy on Microelectronics Research]] | Fact | NSTC SML 依据法定授权编制并修订的五年期国家微电子顶层战略规划。 |
 > | [[National Semiconductor Technology Center]] | Fact | [[CHIPS and Science Act\|芯片法案]]设立的国家级中试转化中心；其战略方向由 NSTC 与商务部、国防部共同协调推进（注意同名英文缩写区别）。 |
 > | [[CHIPS and Science Act]] | Fact | 授权强化跨部门半导体攻关的顶层立法，NSTC 承担跨部委科技资源统筹职能。 |
 > | [[Science in the National Interest 1994]] | Fact | 克林顿政府发布的纲领性政策，NSTC 构成了将该纲领落实为各部委联合行动的组织中枢。 |
@@ -165,4 +172,5 @@ updated: 2026-10-10
 > | [[Technology-Oriented Social Contract]] | Concept | 2025 年起美国科技政策新[[Paradigm\|范式]]，NSTC 成为执行总统定向技术指令的重要行政依托。 |
 > | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] | Argument | 樊春良关于美国科学社会契约再协商与 NSTC 跨部门统筹演进的系统论述。 |
 > | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 卓泽林关于美国半导体体系顶层跨部门治理与[[Research Universities\|研究型大学]]角色重构的实证分析。 |
+> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | NSTC SML 发布的国家微电子研究战略之深度结构化论证。 |
 

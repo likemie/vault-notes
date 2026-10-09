@@ -5,12 +5,32 @@
       "path": "wiki/arguments/reports-policy-documents/Argument_NSTC_2024_MicroelectronicsResearch.md"
     },
     {
-      "basename": "Argument_Zhuo_2026_ICE",
-      "path": "wiki/arguments/journal-articles/International and Comparative Education/Argument_Zhuo_2026_ICE.md"
-    },
-    {
       "basename": "Argument_NIST_2023_NSTC",
       "path": "wiki/arguments/reports-policy-documents/Argument_NIST_2023_NSTC.md"
+    },
+    {
+      "basename": "Heterogeneous Integration",
+      "path": "wiki/concepts/science-policy/Heterogeneous Integration.md"
+    },
+    {
+      "basename": "Subcommittee on Microelectronics Leadership",
+      "path": "wiki/facts/us/Subcommittee on Microelectronics Leadership.md"
+    },
+    {
+      "basename": "National Science and Technology Council",
+      "path": "wiki/facts/us/National Science and Technology Council.md"
+    },
+    {
+      "basename": "National Strategy on Microelectronics Research",
+      "path": "wiki/facts/us/National Strategy on Microelectronics Research.md"
+    },
+    {
+      "basename": "Translational Research",
+      "path": "wiki/concepts/university-industry-collaboration/Translational Research.md"
+    },
+    {
+      "basename": "Argument_Zhuo_2026_ICE",
+      "path": "wiki/arguments/journal-articles/International and Comparative Education/Argument_Zhuo_2026_ICE.md"
     },
     {
       "basename": "Policy Conditionalities",
@@ -57,10 +77,6 @@
       "path": "wiki/facts/us/CHIPS and Science Act.md"
     },
     {
-      "basename": "Translational Research",
-      "path": "wiki/concepts/university-industry-collaboration/Translational Research.md"
-    },
-    {
       "basename": "Competitiveness",
       "path": "wiki/concepts/university-industry-collaboration/Competitiveness.md"
     },
@@ -75,10 +91,6 @@
     {
       "basename": "NSF Regional Innovation Engines",
       "path": "wiki/facts/us/NSF Regional Innovation Engines.md"
-    },
-    {
-      "basename": "National Science and Technology Council",
-      "path": "wiki/facts/us/National Science and Technology Council.md"
     },
     {
       "basename": "Research Translation",
@@ -187,18 +199,6 @@
     {
       "basename": "Positivism",
       "path": "wiki/concepts/educational-philosophy/Positivism.md"
-    },
-    {
-      "basename": "Lee Kuan Yew",
-      "path": "wiki/persons/singapore/Lee Kuan Yew.md"
-    },
-    {
-      "basename": "Goh Keng Swee",
-      "path": "wiki/persons/singapore/Goh Keng Swee.md"
-    },
-    {
-      "basename": "Thomas Carlyle",
-      "path": "wiki/persons/uk/Thomas Carlyle.md"
     }
   ],
   "omittedPaths": [],
