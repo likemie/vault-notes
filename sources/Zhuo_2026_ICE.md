@@ -1,6 +1,7 @@
 ---
 citation: "卓泽林. (2026). 美国研究型大学在国家半导体体系中的角色重构. 比较教育研究, 48(9), 17–28. https://doi.org/10.20013/j.cnki.ICE.2026.09.02"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Zhuo_2026_ICE]]"
 processed_date: 2026-10-09
 ---
 
