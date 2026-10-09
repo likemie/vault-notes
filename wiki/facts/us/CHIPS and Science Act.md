@@ -74,7 +74,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # CHIPS and Science Act
@@ -250,3 +250,14 @@ updated: 2026-10-07
 > | [[European Chips Act\|欧洲芯片法案]] | 事实 | 欧盟针对美国芯片法案出台的对标与协同立法。 |
 > | [[Inflation Reduction Act\|通胀削减法案]] | 事实 | 拜登政府现代产业战略的三大支柱之一，聚焦清洁能源与绿色低碳转型。 |
 > | [[Infrastructure Investment and Jobs Act\|基础设施投资与就业法案]] | 事实 | 拜登政府现代产业战略的三大支柱之一，为先进制造落地提供基础网络支撑。 |
+
+---
+
+## 相关研究
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Brint_2023_IHE|Brint (2023)]] — 分析《[[CHIPS and Science Act|芯片与科学法案]]》对研究型大学科技研发与理工人才培养的红利，并指出两阶段拨款脱节的制度性风险。
+> - [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] — 评估《[[CHIPS and Science Act|芯片与科学法案]]》对半导体供应链各环节补贴的精准度、经济成本溢价与国家安全护栏条款。
+> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 采用五维比较产业政策框架对比美欧芯片法案的治理模式、财政承诺与制度化约束。
+> - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 实证研究高水平研究型大学在《[[CHIPS and Science Act|芯片与科学法案]]》激励下通过专班机制与工作坊动员跨学科科研团队的微观过程。
+> - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统剖析《[[CHIPS and Science Act|芯片与科学法案]]》统筹推进下美国研究型大学在国家半导体体系中的角色重构、人才梯队培养模式及技术安全化张力。

@@ -64,7 +64,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Documentary Analysis
@@ -182,3 +182,4 @@ Jupp & Norris (1993) 将文献分析的理论传统归纳为三类：
 > - [[Argument_Kelly_2025_ROE|Kelly et al. (2025, pp. 9–10)]] 对英格兰、德国（汉堡）与苏格兰三地的 49 份政府政策文本、国际非政府组织报告及中介机构公开文献进行跨国文献分析（Documentary Analysis），系统梳理了不同治理体制下[[Research Utilization|研究使用]]指引的目标受众、证据呈现与支持方式。
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005, pp. 4–10)]] 运用文献分析（Documentary Analysis）系统对比了美国《[[Reading Excellence Act|卓越阅读法案]]》在众议院与参议院审议中的立法文本草案、听证会证词及专业协会政策声明，解析了阅读定义与科学证据门槛演变背后的政策博弈。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024, pp. 6–13)]] 运用政策文献与法规文本分析（Documentary Analysis），对美国《[[Infrastructure Investment and Jobs Act|基础设施投资与就业法案]]》、《[[CHIPS and Science Act|芯片与科学法案]]》及《[[Inflation Reduction Act|通胀削减法案]]》的法定条文、联邦行政规章（如 FERC 并网规则、Made in America 豁免）及资助机会公告（NOFO）展开系统分析，提炼出护栏条款与社会附加条件在现代产业战略中的运行机制。
+> - [[Argument_Zhuo_2026_ICE|卓泽林 (2026, pp. 17–28)]] 运用政策文献分析（Documentary Analysis）与制度演化分析，系统梳理了《[[CHIPS and Science Act|芯片与科学法案]]》及相关联邦白皮书与产业报告，深入剖析了美国[[Research Universities|研究型大学]]在国家半导体体系中从基础研究引领、人才梯队培养到创新网络建构的角色重构及其制度张力。

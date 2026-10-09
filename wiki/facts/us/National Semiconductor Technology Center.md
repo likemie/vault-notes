@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-06
+updated: 2026-10-09
 ---
 
 # National Semiconductor Technology Center
@@ -184,3 +184,4 @@ updated: 2026-10-06
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 详尽剖析从企业倡议、[[Semiconductor Research Corporation|SRC]] 到 [[National Science and Technology Council|NSTC]] 的三代半导体公私产学研协同机制演进，揭示国家法定[[Innovation Hub|创新中心]]对企业[[Academic Engagement|学术参与]]战略的制度重塑。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 从 21 世纪现代产业战略执行视角剖析《[[CHIPS and Science Act|芯片与科学法案]]》110 亿美元研发计划与 NSTC 的制度化设计，提炼跨越“实验室到量产代工厂”断层的过程准则。
+> - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 分析国家半导体技术中心（NSTC）作为跨部门治理平台将大学嵌入核心参与位置的协同机制，阐明大学在技术路线制定与中试验证中的制度功能。

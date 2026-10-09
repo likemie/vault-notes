@@ -9517,6 +9517,17 @@
     ]
   },
   {
+    "title": "Securitization of Technology",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Securitization of Technology.md",
+    "aliases": [
+      "技术安全化",
+      "科技安全化",
+      "Technology Securitization",
+      "Securitization of Science and Technology"
+    ]
+  },
+  {
     "title": "Selectivity",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Selectivity.md",
@@ -33275,6 +33286,17 @@
     ]
   },
   {
+    "title": "Joint University Microelectronics Program 2.0",
+    "type": "fact",
+    "path": "wiki/facts/us/Joint University Microelectronics Program 2.0.md",
+    "aliases": [
+      "联合大学微电子2.0计划",
+      "JUMP 2.0",
+      "Joint University Microelectronics Program",
+      "联合大学微电子计划"
+    ]
+  },
+  {
     "title": "Khanmigo",
     "type": "fact",
     "path": "wiki/facts/us/Khanmigo.md",
@@ -34846,6 +34868,11 @@
     "title": "Argument_Kattel_Mazzucato_2018_ICC",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Industrial and Corporate Change/Argument_Kattel_Mazzucato_2018_ICC.md"
+  },
+  {
+    "title": "Argument_Zhuo_2026_ICE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/International and Comparative Education/Argument_Zhuo_2026_ICE.md"
   },
   {
     "title": "Argument_Brint_2023_IHE",

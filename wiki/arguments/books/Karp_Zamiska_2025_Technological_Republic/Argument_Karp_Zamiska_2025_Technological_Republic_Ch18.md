@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch18"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch18"
 argument_display_title: "“An Aesthetic Point of View”"
 argument_kind: "book-chapter"
-argument_related_count: 26
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"

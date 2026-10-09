@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-04
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Semiconductor Research Corporation
@@ -195,6 +195,15 @@ updated: 2026-10-08
 > | [[CHIPS and Science Act]] | Fact (Policy) | 推动设立 NSTC、在国家层面上扩展 SRC [[University-Industry Collaboration\|产学合作]]与人才培养模式的现代核心法案。 |
 > | [[David C. Mowery]] | Person | 系统评估 Sematech 与 SRC 在国家[[Systems of Innovation\|创新系统]]（NIS）中分工定位的科技政策学者。 |
 > | [[Argument_Mody_2017_MOH\|Mody (2017)]] | Argument | 探讨 SRC 与康奈尔 [[National Research and Resource Facility for Submicron Structures\|NRRFSS]]、斯坦福 CIS 等大学中心同源嵌合及北卡竞标总部历史的研究。 |
+
+---
+
+## 相关研究
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 详尽剖析从企业倡议、[[Semiconductor Research Corporation|SRC]] 到 [[National Semiconductor Technology Center|NSTC]] 的三代半导体公私产学研协同机制演进。
+> - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 评估 SRC 在美国半导体产学合作与博士人才培养中的长周期成效与抗周期机制。
+> - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 分析 SRC 联合 [[DARPA]] 发起的 [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 计划，揭示以顶尖大学为主导节点的跨区域网络化协同对先进封装与异构集成前沿攻关的支撑机制。
 
 ---
 
