@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "National Semiconductor Technology Center",
-      "path": "wiki/facts/us/National Semiconductor Technology Center.md"
+      "basename": "Policy Conditionalities",
+      "path": "wiki/concepts/science-policy/Policy Conditionalities.md"
     },
     {
       "basename": "Argument_NIST_2023_NSTC",
       "path": "wiki/arguments/reports-policy-documents/Argument_NIST_2023_NSTC.md"
+    },
+    {
+      "basename": "Valley of Death",
+      "path": "wiki/concepts/university-industry-collaboration/Valley of Death.md"
+    },
+    {
+      "basename": "Technology Readiness Level",
+      "path": "wiki/concepts/university-industry-collaboration/Technology Readiness Level.md"
+    },
+    {
+      "basename": "Pilot Scale Platform",
+      "path": "wiki/concepts/university-industry-collaboration/Pilot Scale Platform.md"
+    },
+    {
+      "basename": "Public-Private Partnership in Research",
+      "path": "wiki/concepts/university-industry-collaboration/Public-Private Partnership in Research.md"
+    },
+    {
+      "basename": "Modern Industrial Policy",
+      "path": "wiki/concepts/political-economy-geopolitics/Modern Industrial Policy.md"
+    },
+    {
+      "basename": "Microelectronics Commons",
+      "path": "wiki/facts/us/Microelectronics Commons.md"
+    },
+    {
+      "basename": "National Advanced Packaging Manufacturing Program",
+      "path": "wiki/facts/us/National Advanced Packaging Manufacturing Program.md"
+    },
+    {
+      "basename": "National Semiconductor Technology Center",
+      "path": "wiki/facts/us/National Semiconductor Technology Center.md"
     },
     {
       "basename": "Innovation Ecosystem",
@@ -35,10 +67,6 @@
     {
       "basename": "Zhuo_2026_ICE",
       "path": "sources/Zhuo_2026_ICE.md"
-    },
-    {
-      "basename": "Technology Readiness Level",
-      "path": "wiki/concepts/university-industry-collaboration/Technology Readiness Level.md"
     },
     {
       "basename": "NSF Regional Innovation Engines",
@@ -171,34 +199,6 @@
     {
       "basename": "Martha Nussbaum",
       "path": "wiki/persons/us/Martha Nussbaum.md"
-    },
-    {
-      "basename": "Benedict Anderson",
-      "path": "wiki/persons/us/Benedict Anderson.md"
-    },
-    {
-      "basename": "Enlightenment",
-      "path": "wiki/concepts/educational-philosophy/Enlightenment.md"
-    },
-    {
-      "basename": "Ernest Renan",
-      "path": "wiki/persons/france/Ernest Renan.md"
-    },
-    {
-      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch16",
-      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch16.md"
-    },
-    {
-      "basename": "Pluralism",
-      "path": "wiki/theories/educational-policy-reform/Pluralism.md"
-    },
-    {
-      "basename": "Imagined Community",
-      "path": "wiki/theories/political-economy-geopolitics/Imagined Community.md"
-    },
-    {
-      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch01",
-      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch01.md"
     }
   ],
   "omittedPaths": [],
