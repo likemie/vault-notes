@@ -46,7 +46,7 @@ Total entries: **757**
 |---|---:|
 | Higher Education `#level` | 95 |
 | University Industry Collaboration `#theme` | 74 |
-| Science Policy `#theme` | 68 |
+| Science Policy `#theme` | 69 |
 | K12 `#level` | 61 |
 | International Education `#theme` | 36 |
 | Semiconductor `#theme` | 34 |
@@ -101,7 +101,7 @@ Total entries: **757**
 
 > [!trail]- University-industry links (8)
 > - [[Act on the Promotion of Technology Transfer from Universities to Private Business Operators]] — 1998年日本颁布实施的高等教育与科技体制改革里程碑法案，通过确立大学技术许可机构（TLO）的法定地位与资助规程，并推动国立大学教师兼职创业及持股限制松绑，从法律层面奠定了东京湾区产官学协同与高校知识产权商业化的制度基础。
-> - [[Activate Fellowship]] — 起源于劳伦斯伯克利国家实验室的硬科技创业学者培育计划，通过为期两年的全额生活津贴、国家实验室仪器使用权与产业孵化指导，培育兼具学术深度与产业转化能力的创业科学家。
+> - [[Activate Fellowship]] — 起源于劳伦斯伯克利国家实验室的硬科技创业学者培育计划。通过提供为期两年的全额非稀释性生活薪资、国家实验室尖端仪器设备免租使用权与全方位商业孵化导师网络，支持拔尖博士与早期科学家跨越死亡之谷，培育兼具前沿学术深度与工业转化能力的“双栖”创业科学家。
 > - [[Advanced Manufacturing Research Centre]] — 1999年由谢菲尔德大学和波音公司共同发起的产学联合体，截至2024年拥有600多名员工和120多家产业成员，年研究经费4,000万英镑，是大学主导研究联合体的标杆案例
 > - [[African Orphan Crops Consortium]] — 2011 年由 Mars、非盟 NEPAD、WWF and UC Davis 共同发起的多边跨国产学合作项目，通过基因组学改良 101 种传统非洲粮食作物以消除非洲大陆的慢性饥饿和营养不良，已培训超过 172 名非洲科学家
 > - [[Albany NanoTech Complex]] — 由纽约州立大学理工学院（SUNY Poly）与纽约创新科技与先进研究机构（NY CREATES）主导建设的国家级半导体研发与中试综合体，拥有全美唯一的公立大学 300 毫米晶圆先进制程洁净室中试制造线，通过学术与产业研发人员物理共置机制跨越 TRL 4–6 转化断层。
@@ -1064,7 +1064,7 @@ Total entries: **757**
 
 > [!index-list]- Program (85)
 > - [[Accelerating Medicines Partnership]] — 由国立卫生研究院基金会（FNIH）组织的旗舰公私前竞争伙伴关系，通过按商业灵活条款混合联邦拨款与产业私人资本，在阿尔茨海默病等 12 个重点疾病领域联合验证了 20 个候选药物靶点，成为白宫 OSTP 推荐全美联邦科学机构推广的独立基金会合作范式。
-> - [[Activate Fellowship]] — 起源于劳伦斯伯克利国家实验室的硬科技创业学者培育计划，通过为期两年的全额生活津贴、国家实验室仪器使用权与产业孵化指导，培育兼具学术深度与产业转化能力的创业科学家。
+> - [[Activate Fellowship]] — 起源于劳伦斯伯克利国家实验室的硬科技创业学者培育计划。通过提供为期两年的全额非稀释性生活薪资、国家实验室尖端仪器设备免租使用权与全方位商业孵化导师网络，支持拔尖博士与早期科学家跨越死亡之谷，培育兼具前沿学术深度与工业转化能力的“双栖”创业科学家。
 > - [[Advancement Via Individual Determination]] — 1980 年创立于美国的非营利性全国性大学预备与学业辅导项目，专注于通过选修课程、高阶探究式辅导与学业技能训练，支持处于中游水平的家庭第一代大学生及弱势群体提升大学准备度
 > - [[AERA Congressional Fellowship Program]] — 美国教育研究学会（AERA）联合美国科学促进会设立的政策实践培育项目，选拔博士级教育学者深入国会常设委员会或议员办公室全职服务一年，通过在干中学掌握立法隐性知识，推动实证证据融入宏观立法，并向联邦行政中枢与智库输送复合型领军人才。
 > - [[American Diploma Project]] — 由教育智库阿奇夫（Achieve）联合教育信托与福特汉姆基金会于 2004 年发起的高中基准改革旗舰项目，吸引全美 35 个州自愿加入；该项目首次通过系统调查高校教授与高薪行业雇主确立了‘大学与职业就绪’（CCR）能力模型，并联合研发跨州通用代数二统考，成为共同核心州立标准（CCSS）在理念、技术与多州联合机制上的直接先驱母体。

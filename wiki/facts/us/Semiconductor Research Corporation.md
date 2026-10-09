@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 40
+fact_related_count: 47
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -31,8 +31,9 @@ related_concepts:
   - "[[Total War]]"
   - "[[Precompetitive Research]]"
   - "[[Paradigm]]"
-  - "[[Innovation Ecosystem]]"
+  - "[[Heterogeneous Integration]]"
   - "[[Industry Affiliate Program]]"
+  - "[[Innovation Ecosystem]]"
   - "[[Open-Mindedness]]"
   - "[[Technology Readiness Level]]"
   - "[[University-Industry Collaboration]]"
@@ -59,11 +60,14 @@ related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
+  - "[[National Strategy on Microelectronics Research]]"
+  - "[[National Advanced Packaging Manufacturing Program]]"
+  - "[[Microelectronics Commons]]"
+  - "[[Manufacturing USA]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[American Council on Education]]"
   - "[[National Research and Resource Facility for Submicron Structures]]"
   - "[[Microelectronics and Computer Technology Corporation]]"
-  - "[[Manufacturing USA]]"
   - "[[Industrial Advisory Committee]]"
 related_arguments:
   - "[[Argument_Ramming_2025_CorporateSupport]]"
@@ -71,9 +75,9 @@ related_arguments:
   - "[[Argument_Logar_2014_Minerva]]"
   - "[[Argument_Macher_1998_CMR]]"
   - "[[Argument_NIST_2023_NSTC]]"
-  - "[[Argument_Mody_2017_MOH]]"
-  - "[[Argument_Zhuo_2026_ICE]]"
   - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
+  - "[[Argument_Zhuo_2026_ICE]]"
+  - "[[Argument_Mody_2017_MOH]]"
 confidence: high
 status: active
 created: 2026-06-04
@@ -104,7 +108,7 @@ updated: 2026-10-10
 > - **1988–1996 — 协同 [[Sematech]] 统筹[[Sematech Centers of Excellence|大学卓越中心]]网络（SCOE）** 承担 [[Sematech]] 每年 **1000 万至 1500 万美元** 的大学科研经费转拨与统筹管理职能，在加州大学伯克利分校、斯坦福大学、麻省理工学院等高校建立 Sematech 大学卓越技术中心网络，专注于前沿光刻物理、等离子体刻蚀与材料建模基础研究。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 735, 754)]]
 > - **1997–2017 — [[Focus Center Research Program|焦点研究中心计划]]（FCRP）、NRI 扩张与分层全球开放** 1998 年联合 SIA、[[DARPA]] 与 [[Sematech]] 设立微电子先进研究联盟（MARCO），正式启动焦点研究中心计划（Focus Center Research Program, FCRP），随后设立纳米电子学研究倡议（NRI）；同时在 1999 年起重新对全球跨国半导体企业开放 GRC 等子计划的会员准入，形成“底层计划全球开放、联邦对等资助计划本土限制”的分层开放格局。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 242, 248–249)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 121, note 48)]]
 > - **2018–至今 — [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 与对接《[[CHIPS and Science Act|芯片法案]]》国家战略体系** 启动微电子联合大学微电子计划（JUMP 2.0），并与 2022 年《芯片与科学法案》设立的[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）深度协同，从行业联盟型 [[Public-Private Partnership in Research|PPP]] 跃升为国家战略级产学研核心支撑平台。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]
-> - **2024 年 — 白宫《国家微电子研究战略》下的公私协同与本科生留存专项** 白宫国家科学技术委员会在国家战略中将 SRC JUMP 2.0 跨校中心列为 Goal 4.1 公私伙伴关系的核心支柱，与 NSTC、NAPMP、微电子共用体和 [[Manufacturing USA]] 紧密联动；同时针对拔尖人才流失危机，SRC 联合 [[National Science Foundation|NSF]] 设立本科生科研体验（REU）微电子专项，资助低年级本科生直接参与前沿芯片设计与实验，构筑从本科到硕博的微电子人才蓄水池。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 37, 39–43)]]
+> - **2024 年 — 白宫《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》下的公私协同与本科生留存专项** 白宫国家科学技术委员会在国家战略中将 SRC JUMP 2.0 跨校中心列为 Goal 4.1 公私伙伴关系的核心支柱，与 NSTC、[[National Advanced Packaging Manufacturing Program|NAPMP]]、[[Microelectronics Commons|微电子共用体]]和 [[Manufacturing USA]] 紧密联动；同时针对拔尖人才流失危机，SRC 联合 [[National Science Foundation|NSF]] 设立本科生科研体验（REU）微电子专项，资助低年级本科生直接参与前沿芯片设计与实验，构筑从本科到硕博的微电子人才蓄水池。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 37, 39–43)]]
 
 ---
 
@@ -132,9 +136,9 @@ updated: 2026-10-10
 > - **[[Sematech Centers of Excellence|大学卓越技术中心网络]]（SCOE / Centers of Excellence）** 1980–1990 年代与 [[Sematech]] 深度协作，在全美顶尖院校建立 10 余个微电子制造共性技术研发中心，攻克深紫外（DUV）光刻、化学机械抛光（CMP）等关键工艺基础理论。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 735)]]
 > - **[[Focus Center Research Program|焦点研究中心计划]]（FCRP / STARnet）** 1998 年联合 SIA、[[DARPA]] 与 SEMATECH 设立，聚焦 10 至 15 年跨度、[[Paradigm|范式]]跃迁的多大学联合中心，由产业界与 DARPA 对等（50:50）联合注资，实行一票制协同治理。[[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 121, note 48)]]; [[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 248–253)]]
 > - **纳米电子学研究倡议（NRI）** 2005 年设立，面向超越 CMOS（Beyond CMOS）的全新逻辑开关物理与器件探索，由企业、[[National Science Foundation|NSF]] 与国家标准与技术研究院（NIST）联合资助。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 248–249)]]
-> - **微电子联合大学计划（JUMP / [[Joint University Microelectronics Program 2.0|JUMP 2.0]]）** 联合 [[DARPA]] 资助 7 个全美跨校研究中心（涵盖 CHIMES、CogniSense、CUbiC、PRISM、[[American Council on Education|ACE]]、SUPREME、CRISP 等），攻坚高能效认知计算、智能传感与三维异构集成。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 39–43)]]
-> - **SRC-NSF 本科生科研保留专项（REU Supplements）** 联合 NSF 资助本科生深入顶尖微电子课题组与企业实验室开展一线科研，有效遏制优秀理工生源向纯软件或金融业流失。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 37)]]
-> - **十年微电子技术愿景（Decadal Plan for Semiconductors）** 联合 SIA 制定发布指引全美未来 10 年半导体研发重点的战略白皮书，成为国会制定《[[CHIPS and Science Act|芯片法案]]》与 NSTC 制定国家微电子研究战略的重要理论依据。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 44)]]
+> - **微电子联合大学计划（JUMP / [[Joint University Microelectronics Program 2.0|JUMP 2.0]]）** 联合 [[DARPA]] 资助 7 个全美跨校研究中心（涵盖 CHIMES、CogniSense、CUbiC、PRISM、[[American Council on Education|ACE]]、SUPREME、CRISP 等），攻坚高能效认知计算、智能传感与[[Heterogeneous Integration|三维异构集成]]。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 39–43)]]
+> - **SRC-NSF 本科生科研保留专项（REU Supplements）** 联合 NSF 资助本科生深入顶尖微电子课题组与企业实验室开展一线科研，有效遏制优秀理工生源向纯软件或金融业[[Attrition|流失]]。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 37)]]
+> - **十年微电子技术愿景（Decadal Plan for Semiconductors）** 联合 SIA 制定发布指引全美未来 10 年半导体研发重点的战略白皮书，成为国会制定《[[CHIPS and Science Act|芯片法案]]》与 [[National Science and Technology Council|NSTC]] 制定[[National Strategy on Microelectronics Research|国家微电子研究战略]]的重要理论依据。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 44)]]
 
 > [!citation-card] [[Industry Affiliate Program|产业联盟]]不可替代大学开放基础科研与人才培养
 > 从国家视角来看，单纯依靠产业主导的研发联合体不足以维持高技术产业的基础[[Innovation Ecosystem|创新生态]]。它们的研发努力必须辅之以长周期的基础研究与人才培养，而这些活动从本质上只能由公共资金资助，并在强调公开披露与技术扩散的[[Open-Mindedness|开放性]]机构环境（如大学）中开展。
@@ -217,10 +221,10 @@ updated: 2026-10-10
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 强调 SRC JUMP 2.0 跨校中心作为国家微电子公私合作（Goal 4.1）的核心支柱，并阐述 SRC-NSF 本科生科研留存专项（Goal 3.2）与十年微电子技术愿景（Goal 4.3）对国家战略的支撑。
+> - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 强调 SRC [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 跨校中心作为国家微电子公私合作（Goal 4.1）的核心支柱，并阐述 SRC-[[National Science Foundation|NSF]] 本科生科研留存专项（Goal 3.2）与十年微电子技术愿景（Goal 4.3）对国家战略的支撑。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 详尽剖析从企业倡议、[[Semiconductor Research Corporation|SRC]] 到 [[National Science and Technology Council|NSTC]] 的三代半导体公私产学研协同机制演进。
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 评估 SRC 在美国半导体[[University-Industry Collaboration|产学合作]]与博士人才培养中的长周期成效与抗周期机制。
-> - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 分析 SRC 联合 [[DARPA]] 发起的 [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 计划，揭示以顶尖大学为主导节点的跨区域网络化协同对先进封装与异构集成前沿攻关的支撑机制。
+> - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 分析 SRC 联合 [[DARPA]] 发起的 [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 计划，揭示以顶尖大学为主导节点的跨区域网络化协同对先进封装与[[Heterogeneous Integration|异构集成]]前沿攻关的支撑机制。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 将 SRC 列为美国半导体产学合作研发联合体的核心对标典范，阐述 NSTC 如何借鉴 SRC 跨校[[Precompetitive Research|前竞争研发]]网络并弥补其缺乏 300mm 硬件[[Pilot Scale Platform|中试验证线]]的制度断层。
 
 ---

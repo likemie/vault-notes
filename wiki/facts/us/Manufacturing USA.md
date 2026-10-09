@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 26
+fact_related_count: 31
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -35,10 +35,10 @@ related_concepts:
   - "[[Valley of Death]]"
   - "[[Industrial Commons]]"
   - "[[Technology Transfer]]"
+  - "[[Computer Simulation]]"
+  - "[[Apprenticeship]]"
   - "[[Research Universities]]"
   - "[[Industry Advisory Board]]"
-  - "[[Apprenticeship]]"
-  - "[[Computer Simulation]]"
   - "[[Big Science]]"
   - "[[Innovation Ecosystem]]"
   - "[[Pilot Scale Platform]]"
@@ -54,12 +54,14 @@ related_facts:
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
   - "[[National Advanced Packaging Manufacturing Program]]"
+  - "[[National Strategy on Microelectronics Research]]"
+  - "[[Microelectronics Commons]]"
+  - "[[Semiconductor Research Corporation]]"
+  - "[[Joint University Microelectronics Program 2.0]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[National Science Foundation]]"
   - "[[Albany NanoTech Complex]]"
   - "[[ROI Initiative for Unleashing American Innovation]]"
-  - "[[Semiconductor Research Corporation]]"
-  - "[[Joint University Microelectronics Program 2.0]]"
 related_arguments:
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
   - "[[Argument_NIST_2023_NSTC]]"
@@ -93,7 +95,7 @@ updated: 2026-10-10
 > - **2012–2014 — 试点创立与《RAMI 法案》立法建制** 针对金融危机后美国制造业空心化与德国制造业强劲韧性的制度对比，奥巴马政府在俄亥俄州扬斯敦设立首个国家增材制造创新研究所（America Makes）；2014 年国会通过《振兴美国制造业与创新法案》（RAMI Act），正式授权设立国家制造创新网络（NNMI，后品牌重塑为 Manufacturing USA）。
 > - **2015–2021 — 跨部门网络扩张与前沿领域覆盖** 在商务部、国防部和能源部共同推进下，研究所数量稳步扩展至 16 家以上，广泛覆盖宽禁带半导体（PowerAmerica）、集成光子学（AIM Photonics）、先进复合材料（IACMI）、柔性混合电子（NextFlex）、生物制药制造（NIIMBL）及清洁能源智能制造（CESMII）。
 > - **2022 年至今 — 《[[CHIPS and Science Act|芯片与科学法案]]》与国家半导体研发体系协同** 美国商务部依据《芯片法案》统筹 110 亿美元研发资金，将 Manufacturing USA 深度嵌入国家半导体技术创新矩阵；NIST 与 Manufacturing USA 联合设立全新的**芯片数字孪生与智能制造创新研究所**，与[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）、[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）构建全链条中试与先进制造转化闭环。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11, 21)]]
-> - **2024 年 — 白宫《国家微电子研究战略》下的全链条公私协同** 白宫国家科学技术委员会（NSTC）将 Manufacturing USA 的制造创新研究所（MIIs）确立为国家微电子研发战略第四目标（Goal 4.1）的核心公私合作支柱之一，统筹协调 NSTC、NAPMP、微电子共用体（Microelectronics Commons）以及半导体研究公司（[[Semiconductor Research Corporation|SRC]]）[[Joint University Microelectronics Program 2.0|JUMP 2.0]] 跨校中心，强化中试制造工艺、数字孪生虚拟仿真与微电子技术工人学徒制技能认证。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 39–43)]]
+> - **2024 年 — 白宫《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》下的全链条公私协同** 白宫国家科学技术委员会（NSTC）将 Manufacturing USA 的制造创新研究所（MIIs）确立为国家微电子研发战略第四目标（Goal 4.1）的核心公私合作支柱之一，统筹协调 NSTC、NAPMP、[[Microelectronics Commons|微电子共用体]]（Microelectronics Commons）以及[[Semiconductor Research Corporation|半导体研究公司]]（[[Semiconductor Research Corporation|SRC]]）[[Joint University Microelectronics Program 2.0|JUMP 2.0]] 跨校中心，强化中试制造工艺、数字孪生[[Computer Simulation|虚拟仿真]]与微电子技术工人[[Apprenticeship|学徒制]]技能认证。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 39–43)]]
 
 ---
 
@@ -174,6 +176,6 @@ updated: 2026-10-10
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 明确将 Manufacturing USA 各研究所纳入国家微电子全链条公私研发合作矩阵（Goal 4.1），与 NSTC、NAPMP 及 JUMP 2.0 协同攻坚芯片数字孪生与先进制造工艺。
+> - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 明确将 Manufacturing USA 各研究所纳入国家微电子全链条公私研发合作矩阵（Goal 4.1），与 [[National Science and Technology Council|NSTC]]、[[National Advanced Packaging Manufacturing Program|NAPMP]] 及 [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 协同攻坚芯片数字孪生与先进制造工艺。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP (2019)]] — 比较分析 Manufacturing USA 制造创新研究所与英国 Catapult、德国 Fraunhofer 在公私产学伙伴关系中的治理架构与财务自生机制。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 阐明《[[CHIPS and Science Act|芯片与科学法案]]》框架下[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）、先进封装制造计划（[[National Advanced Packaging Manufacturing Program|NAPMP]]）与 Manufacturing USA 半导体数字孪生研究所的跨部门研发中试衔接网络。
