@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 69
+fact_related_count: 75
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Use-Inspired Basic Research]]"
   - "[[Academic Entrepreneurship]]"
   - "[[Convergence Research]]"
+  - "[[Technology Readiness Level]]"
   - "[[Golden Ticket Mechanism]]"
   - "[[Portable Fellowship]]"
   - "[[University-Industry Collaboration]]"
@@ -85,6 +86,10 @@ related_facts:
   - "[[NSF Broader Impacts Criterion]]"
   - "[[NSF I-Corps]]"
   - "[[CHIPS and Science Act]]"
+  - "[[National Semiconductor Technology Center]]"
+  - "[[National Science and Technology Council]]"
+  - "[[National Advanced Packaging Manufacturing Program]]"
+  - "[[Manufacturing USA]]"
   - "[[NSF X-Labs]]"
   - "[[Restoring Gold Standard Science Executive Order]]"
   - "[[DARPA]]"
@@ -100,13 +105,14 @@ related_arguments:
   - "[[Argument_Brint_2023_IHE]]"
   - "[[Argument_Byrne_2025_InnovationCenters]]"
   - "[[Argument_Zhuo_2026_ICE]]"
+  - "[[Argument_NIST_2023_NSTC]]"
   - "[[Argument_Fuchs_2010_RP]]"
   - "[[Argument_Cheng_2026_KeJiChuangXin]]"
   - "[[Argument_Stephan_2013_NBER]]"
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 
 # National Science Foundation
@@ -142,8 +148,9 @@ updated: 2026-10-09
 >   - 冷战终结后，克林顿政府 1994 年发布《[[Science in the National Interest 1994|科学与国家利益]]》；[[Donald Stokes|唐纳德·斯托克斯]] 1997 年提出[[Pasteur's Quadrant|巴斯德象限]]，NSF 大力吸纳[[Use-Inspired Basic Research|应用启发的基础研究]]理念，资助逻辑向竞争性项目制与产业社会相关性倾斜。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
 > - **2010–2021 — 刚性化“更广泛影响”（[[NSF Broader Impacts Criterion|Broader Impacts]]）与高校创业生态拓展**
 >   - 2010 年依据 GPRAMA 法案将更广泛影响转为刚性门槛；2011 年创设 [[NSF I-Corps]] 创新兵团推动高校[[Academic Entrepreneurship|学术创业]]；2019 年启动跨学科[[Convergence Research|融合研究]]与首批国家人工智能研究院布局。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]; [[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]
-> - **2022–2024 — 《[[CHIPS and Science Act|芯片法案]]》赋能、[[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会与微电子生态**
->   - 依据《芯片与科学法案》获五年 810 亿美元预算授权，设立三十年来首个新理事会——技术、创新与伙伴关系理事会（TIP），将研究生研究奖学金（GRFP）扩大至每年 3000 名，启动[[NSF Regional Innovation Engines|区域创新引擎]]（首批资助 1.6 亿美元），并大力支持大学开源指令集（RISC-V）与开源 EDA 工具链的研发与课程普及。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]; [[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 20)]]
+> - **2022–2024 — 《[[CHIPS and Science Act|芯片法案]]》赋能、[[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会与国家半导体协同**
+>   - 依据《芯片与科学法案》获五年 810 亿美元预算授权，设立三十年来首个新理事会——技术、创新与伙伴关系理事会（TIP），将研究生研究奖学金（GRFP）扩大至每年 3000 名，启动[[NSF Regional Innovation Engines|区域创新引擎]]（首批资助 1.6 亿美元），并大力支持大学开源指令集（RISC-V）与开源 EDA 工具链的研发与课程普及。
+>   - 在部际协同机制上，NSF 主任与商务部长、国防部长和能源部长共同建立[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]），将 NSF 资助的高校 [[Technology Readiness Level|TRL]] 1–3 基础前沿研究与 NSTC、[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）及国家制造创新机构（[[Manufacturing USA]]）的共享中试设施与劳动力网络全链条咬合。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]; [[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 20)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–3, 8–11, 26)]]
 > - **2025–2026 — [[Metascience|元科学]]单元设立、资助机制试验与非学术组织直接资助**
 >   - 白宫科技战略报告系统诊断 NSF 沿袭自 1950 年代的学科分立壁垒与 42%–44% 的行政文书负担，要求建立直属独立[[Metascience|元科学]]单元以推行[[Randomised Controlled Trials|随机对照试验]]（RCTs）；
 >   - 通过 TIP [[NSF X-Labs|X-Labs]] 突破大学系所界限、直接资助新型[[Focused Research Organization|聚焦研究组织]]（FRO）；全面推行金券制（Golden Tickets）、对人长期资助与可携带式研究生早期奖学金；并依据《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令建立强制性代码数据开源与复现机制。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 8, 15, 26–28, 31–32, 65–66)]]
@@ -246,6 +253,8 @@ updated: 2026-10-09
 > | [[Erich Bloch]] | Person | 1984–1990 年出任 NSF 第八任主任，推动 ERC 创设与工程学学部独立。 |
 > | [[Research Universities]] | Concept | NSF 资助的主要高校主体，承接基础研究、开源标准研发与拔尖工程人才培养。 |
 > | [[Joint University Microelectronics Program 2.0]] | Fact (Program) | 全美跨校微电子协同联合体，与 NSF 基础研究和工程中心形成紧密联动。 |
+> | [[National Semiconductor Technology Center]] | Fact (Organization) | 《芯片与科学法案》下设立的国家半导体研发中枢；NSF 主任参与其跨部门共治，与 TIP 理事会形成基础到中试的研发接力。 |
+> | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | Argument | 阐明国家半导体技术中心（[[National Science and Technology Council\|NSTC]]）的部际共治架构、全链条研发流水线及与 NSF 基础科学探索的协同机制。 |
 
 ---
 
@@ -259,3 +268,4 @@ updated: 2026-10-09
 > - [[Argument_Bozeman_2004_JTT|Bozeman & Boardman (2004)]] — 结合口述史与实证追踪，深入剖析 NSF 设立[[Engineering Research Centers|工程研究中心]]（ERC）与工程学学部独立的政治博弈过程。
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 量化剖析 NSF 早期独立奖学金向课题助研津贴（GRAs）异化对研究生培养生态与青年学术职业造成的深层负面影响。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 实证阐明 [[DARPA]] 与 NSF 在半导体前沿技术突破中的机制分工与跨机构资助接力规律。
+> - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 阐述《芯片与科学法案》下商务部、国防部、能源部与 NSF 共同构建国家半导体全链条研发转化体系的制度构想。

@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-10
 ---
 
 # Industrial Commons
@@ -160,7 +160,7 @@ updated: 2026-10-08
 > [!dev-timeline] 产业公地理论与政策概念演变脉络
 > - **1980s–1990s — 半导体制造技术联盟（[[Sematech]]）与早期公地探索** 针对日本半导体制造工艺赶超，全美 14 家芯片巨头与国防部组建 SEMATECH 前竞争联合体，开启共享工艺设备与制造基础设施的早期公地实践。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 43)]]
 > - **2009–2012 — 皮萨诺与施正式提出“制造业公地”理论** 哈佛商学院学者加里·皮萨诺（Gary Pisano）与施威利（Willy Shih）在《制造繁荣》（*Producing Prosperity*）中系统提出“制造业公地（Manufacturing Commons）”概念，警告研发外包给离岸工厂将永久性摧毁美国的创新能力。
-> - **2010s — 先进制造伙伴关系（[[Accelerating Medicines Partnership|AMP]]）与国家制造创新网络（NNMI）** 奥巴马政府启动先进制造计划，建立制造创新研究所（[[Manufacturing USA]]），推动产学研共享测试平台。
+> - **2010s — 先进制造伙伴关系（[[Accelerating Medicines Partnership|AMP]]）与国家制造创新网络（[[Manufacturing USA|NNMI]]）** 奥巴马政府启动先进制造计划，建立制造创新研究所（[[Manufacturing USA]]），推动产学研共享测试平台。
 > - **2025–2026 — 白宫《[[Science A New Golden Age 2026|科学：新的黄金时代]]》将重振产业公地确立为国家战略支柱** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告第四章系统重构产业公地，确立[[Process Knowledge|默会过程知识]]、工匠[[Apprenticeship|学徒制]]、[[Workforce Pell Grants 2025|劳动力佩尔助学金]]与民间建造文化为国家核心战略资产。
 
 ---

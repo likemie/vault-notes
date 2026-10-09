@@ -31979,6 +31979,18 @@
     ]
   },
   {
+    "title": "Manufacturing USA",
+    "type": "fact",
+    "path": "wiki/facts/us/Manufacturing USA.md",
+    "aliases": [
+      "美国制造创新网络",
+      "National Network for Manufacturing Innovation",
+      "NNMI",
+      "Manufacturing USA Initiative",
+      "制造美国网络"
+    ]
+  },
+  {
     "title": "Massachusetts Department of Elementary and Secondary Education",
     "type": "fact",
     "path": "wiki/facts/us/Massachusetts Department of Elementary and Secondary Education.md",
@@ -32696,14 +32708,6 @@
       "Mansfield Amendment",
       "1969年曼斯菲尔德修正案",
       "Section 203"
-    ]
-  },
-  {
-    "title": "Manufacturing USA",
-    "type": "fact",
-    "path": "wiki/facts/us/Manufacturing USA.md",
-    "aliases": [
-      "Manufacturing USA Initiative"
     ]
   },
   {

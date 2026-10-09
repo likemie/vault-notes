@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 52
+fact_related_count: 58
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -69,7 +69,12 @@ related_facts:
   - "[[MOSIS]]"
   - "[[Sematech]]"
   - "[[Joint University Microelectronics Program 2.0]]"
+  - "[[CHIPS and Science Act]]"
   - "[[Semiconductor Research Corporation]]"
+  - "[[Microelectronics Commons]]"
+  - "[[National Semiconductor Technology Center]]"
+  - "[[National Science and Technology Council]]"
+  - "[[National Advanced Packaging Manufacturing Program]]"
   - "[[ARPA-H]]"
   - "[[ARPA-E]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"
@@ -84,11 +89,12 @@ related_arguments:
   - "[[Argument_Grindley_1994_JPAM]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Zhuo_2026_ICE]]"
+  - "[[Argument_NIST_2023_NSTC]]"
   - "[[Argument_Ramming_2025_CorporateSupport]]"
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 
 # DARPA
@@ -116,7 +122,7 @@ updated: 2026-10-09
 > - **1980s — 战略计算倡议、[[VLSI Project|VLSI]] 设计革命与半导体危机应对** 面对日本半导体制造业的激烈竞争，发起战略计算倡议（SCI）；资助超大规模集成电路（VLSI）结构化设计方法论革命并创立 [[MOSIS]] 硅代工原型试验平台；资助伯克利与斯坦福开发精简指令集（RISC）架构；在 1980–1989 年间资助 9 亿美元实施甚高速集成电路（VHSIC）计划；1987 年联合 14 家芯片制造巨头创立 [[Sematech]] 战略联盟，每年提供 1 亿美元对等匹配资助；全力推进全球定位系统（GPS）的军民部署。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 180–183)]]; [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–730)]]
 > - **1990s — 冷战后军民两用转型与微系统基础探索** 在登曼、林恩与费尔南德斯领导下，DARPA 重点转向军民两用（Dual-use）技术开发与跨学科基础探索；微系统技术办公室（MTO）依托开放广泛领域公告（[[Broad Agency Announcement|BAA]]），前瞻性资助硅锗（SiGe）异质结晶体管与应变硅材料研发，突破硅基物理极限，为后摩尔时代微处理器奠定核心工艺基石。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138)]]
 > - **2000s — [[Tony Tether|托尼·瑟瑟]]采办改革、“弥合鸿沟”与自主系统挑战赛** 2001 年托尼·瑟瑟出任局长，确立“弥合鸿沟”施政纲领，推行采办机制变革；资助重心由大学转向工业界传统国防巨头，引入 12–16 个月硬性里程碑审查（Go/No-Go）与涉密限制；微观层面项目经理继续运用[[Embedded Network Governance|嵌入型网络治理]]攻克 3D 封装与芯片光互连；同期资助 CALO 项目（孵化出 Siri），并在 2004 与 2005 年举办两届无人车大挑战赛（Grand Challenge），开创了现代自动驾驶产业生态。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138, 1142–1144)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21, 28)]]
-> - **2010s–至今 — 生物技术拓展、多域协同、[[Joint University Microelectronics Program 2.0|JUMP 2.0]] 与联邦科研体制扩散** 设立生物技术办公室（BTO），在新冠疫情暴发前数年即通过 ADEPT 计划前瞻资助莫德纳（Moderna）等团队研发 mRNA 疫苗平台与核酸递送技术；在空战领域推行“小妖精”（Gremlins）低成本无人机群空中回收验证。2023 年联合半导体研究联盟（[[Semiconductor Research Corporation|SRC]]）发起[[Joint University Microelectronics Program 2.0|联合大学微电子2.0计划]]（JUMP 2.0），依托宾夕法尼亚州立大学牵头的 14 所顶尖高校攻坚微电子异构集成与先进封装。进入 2020 年代，DARPA 的项目经理制、挑战赛模式与前竞争公私协同机制直接启发了美国卫生高级研究计划署（[[ARPA-H]]）、高级能源研究计划署（[[ARPA-E]]）、国家科学基金会 [[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会以及[[Focused Research Organization|聚焦研究组织]]（FRO）等新型科研建制的落地。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 807)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21, 26, 32)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]
+> - **2010s–至今 — 生物技术拓展、[[Joint University Microelectronics Program 2.0|JUMP 2.0]] 与《[[CHIPS and Science Act|芯片法案]]》跨机构研发衔接** 设立生物技术办公室（BTO），在新冠疫情暴发前数年即通过 ADEPT 计划前瞻资助莫德纳（Moderna）等团队研发 mRNA 疫苗平台与核酸递送技术；在空战领域推行“小妖精”（Gremlins）低成本无人机群空中回收验证。2023 年联合半导体研究联盟（[[Semiconductor Research Corporation|SRC]]）发起[[Joint University Microelectronics Program 2.0|联合大学微电子2.0计划]]（JUMP 2.0），依托宾夕法尼亚州立大学牵头的 14 所顶尖高校攻坚微电子异构集成与先进封装。在《芯片与科学法案》（[[CHIPS and Science Act]]）框架下，DARPA 的电子复兴计划（ERI）和工具箱共享机制（DARPA Toolbox）与美国国防部微电子公地（[[Microelectronics Commons]]）、商务部[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）及[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）实现全链条研发协同与技术进阶衔接。DARPA 的项目经理制、挑战赛模式与前竞争公私协同机制亦直接启发了美国卫生高级研究计划署（[[ARPA-H]]）、高级能源研究计划署（[[ARPA-E]]）、国家科学基金会 [[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会以及[[Focused Research Organization|聚焦研究组织]]（FRO）等新型科研建制。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 807)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21, 26, 32)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8, 24–25)]]
 
 ---
 
@@ -142,7 +148,7 @@ updated: 2026-10-09
 
 > [!finding-cards] 颠覆性技术策源矩阵
 > - **数字时代信息基础设施** 互联网前身 [[ARPANET]]、TCP/IP 协议族、分时计算系统、计算机图形界面与鼠标早期研发资助。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 38–40)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 175–176)]]
-> - **微电子设计革命与芯片原型流片平台** 资助结构化 [[VLSI Project|VLSI]] 设计方法论，设立 [[MOSIS]] 原型制造服务平台，将芯片设计与半导体制造物理环节解耦，奠定了无晶圆厂（Fabless）设计产业蓬勃发展的制度与技术基础。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 183)]]
+> - **微电子设计革命与芯片原型流片平台** 资助结构化 [[VLSI Project|VLSI]] 设计方法论，设立 [[MOSIS]] 原型制造服务平台，将芯片设计与半导体制造物理环节解耦，奠定了无晶圆厂（Fabless）设计产业蓬勃发展的制度与技术基础。进入 2020 年代，DARPA 推行的“DARPA 工具箱”（DARPA Toolbox）为研究人员提供简化的 EDA 与 IP 授权访问，直接成为商务部[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）设计赋能网关（DEG）与多项目晶圆（MPW）拼版中试服务的制度蓝本。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 183)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 24–25)]]
 > - **微处理器架构突破** 资助加州大学伯克利分校与斯坦福大学开发精简指令集计算机（RISC）架构，为现代高性能工作站、服务器与移动计算芯片确立了底层架构[[Paradigm|范式]]。
 > - **异构集成与先进封装协同攻关** 联合 [[Semiconductor Research Corporation|SRC]] 实施 [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 计划，推动宾州州立等 14 校协同联盟突破后摩尔时代微电子异构封装技术瓶颈。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]
 > - **智能移动终端与导航基石** 现代微型 GPS 接收机、半导体微缩制造工艺与 Siri 底层语音认知架构。
@@ -193,10 +199,12 @@ updated: 2026-10-09
 > | [[Pasteur's Quadrant]] | Concept | DARPA 模式跨越纯理论探索与国防应用使命，是巴斯德象限研究的标志性公共组织。 |
 > | [[Sematech]] | Fact (Organization) | DARPA 于 1987 年对等出资联合组建的半导体前竞争共性技术研发联盟。 |
 > | [[Joint University Microelectronics Program 2.0]] | Fact (Program) | DARPA 联合 [[Semiconductor Research Corporation\|SRC]] 于 2023 年发起、资助 14 校协同联盟攻坚微电子异构集成的国家级重大产学研计划。 |
+> | [[National Semiconductor Technology Center]] | Fact (Organization) | 商务部主导的国家半导体中试平台；其设计赋能网关（DEG）与多项目晶圆（MPW）拼版中试直接继承并升级了 DARPA MOSIS 与 DARPA Toolbox 模式，并与国防部微电子公地（[[Microelectronics Commons]]）构建跨机构全链条研发衔接梯队。 |
 > | [[Mariana Mazzucato]] | Person | 经济学家，高度提炼 DARPA 作为探索型公共组织典范，批判私营寡头抹杀公共投资的健忘症。 |
 > | [[Alexander Karp]] | Person | 《技术共和国》作者，将 DARPA 视为 21 世纪软件[[Hard Power\|硬实力]]与国防动员体制必须复兴的典范。 |
 > | [[David C. Mowery]] | Person | 深入分析 DARPA 历史资助成效、软件规制与半导体联盟治理的核心学者。 |
 > | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 剖析 DARPA 联合 SRC 推进 JUMP 2.0 跨校协作网络并支撑美国半导体体系角色重构的[[Document\|文献]]。 |
+> | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | Argument | 阐明国家半导体技术中心（[[National Science and Technology Council\|NSTC]]）战略构想、跨机构研发协同机制及对 DARPA 历史中试与工具共享模式的制度演化。 |
 
 ---
 
@@ -208,3 +216,4 @@ updated: 2026-10-09
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 深入揭示 DARPA 项目经理如何通过[[Embedded Network Governance|嵌入型网络治理]]推动 SiGe 材料、3D 封装与光芯片等微系统前沿突破。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Karp & Zamiska (2025)]] — 论述 DARPA 作为现代[[Technological Republic|技术共和国]][[Hard Power|硬实力]]与国防动员制度基石的政治哲学意义。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 从高等教育与[[National Innovation System|国家创新体系]]演化视角，探讨 DARPA 联合 [[Semiconductor Research Corporation|SRC]] 设立 [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 跨区域跨校网络攻坚微电子异构集成的战略机制。
+> - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 阐述《[[CHIPS and Science Act|芯片与科学法案]]》框架下 [[National Science and Technology Council|NSTC]] 与 DARPA、DoD 微电子公地等机构构建全链条研发衔接机制，并继承升级 DARPA Toolbox 与 [[MOSIS]] 原型制造流片网络。

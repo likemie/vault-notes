@@ -10,10 +10,10 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 37
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
-fact_related_color: "#dcfce7"
+fact_related_count: 40
+fact_related_level: 5
+fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_color: "#fecdd3"
 org_type: "非营利性产学合作科研资助联合体（Industry-University Research Consortium）"
 headquarters: "美国北卡罗来纳州三角研究园（Research Triangle Park, NC）"
 established: "1982"
@@ -34,10 +34,12 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Industry Affiliate Program]]"
   - "[[Open-Mindedness]]"
+  - "[[Technology Readiness Level]]"
   - "[[University-Industry Collaboration]]"
   - "[[Application Engineering]]"
   - "[[Membership-based Research Consortium]]"
   - "[[Document]]"
+  - "[[Pilot Scale Platform]]"
 related_theories:
   - "[[Systems of Innovation]]"
 related_methods:
@@ -56,6 +58,7 @@ related_facts:
   - "[[Joint University Microelectronics Program 2.0]]"
   - "[[CHIPS and Science Act]]"
   - "[[National Semiconductor Technology Center]]"
+  - "[[National Science and Technology Council]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[American Council on Education]]"
   - "[[National Research and Resource Facility for Submicron Structures]]"
@@ -65,9 +68,9 @@ related_arguments:
   - "[[Argument_Grindley_1994_JPAM]]"
   - "[[Argument_Logar_2014_Minerva]]"
   - "[[Argument_Macher_1998_CMR]]"
+  - "[[Argument_NIST_2023_NSTC]]"
   - "[[Argument_Mody_2017_MOH]]"
   - "[[Argument_Zhuo_2026_ICE]]"
-  - "[[Argument_NIST_2023_NSTC]]"
 confidence: high
 status: active
 created: 2026-06-04
@@ -97,7 +100,7 @@ updated: 2026-10-10
 > - **1982–1987 — 破冰创建与前竞争产学资助体系奠基** 建立首个全行业共享的大学微电子研究资助基金，确立“行业提需求、高校出方案、同行评议立项、知识产权非独占共享”的治理准则；早期曾构想广泛吸纳外资企业，但在 1983 年修改章程限制仅允许美国本土公司参与，以化解冷战技术[[Attrition|流失]]顾虑并深度撬动联邦国防对等资助。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 241–242)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]
 > - **1988–1996 — 协同 [[Sematech]] 统筹[[Sematech Centers of Excellence|大学卓越中心]]网络（SCOE）** 承担 [[Sematech]] 每年 **1000 万至 1500 万美元** 的大学科研经费转拨与统筹管理职能，在加州大学伯克利分校、斯坦福大学、麻省理工学院等高校建立 Sematech 大学卓越技术中心网络，专注于前沿光刻物理、等离子体刻蚀与材料建模基础研究。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 735, 754)]]
 > - **1997–2017 — [[Focus Center Research Program|焦点研究中心计划]]（FCRP）、NRI 扩张与分层全球开放** 1998 年联合 SIA、[[DARPA]] 与 [[Sematech]] 设立微电子先进研究联盟（MARCO），正式启动焦点研究中心计划（Focus Center Research Program, FCRP），随后设立纳米电子学研究倡议（NRI）；同时在 1999 年起重新对全球跨国半导体企业开放 GRC 等子计划的会员准入，形成“底层计划全球开放、联邦对等资助计划本土限制”的分层开放格局。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 242, 248–249)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 121, note 48)]]
-> - **2018–至今 — [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 与对接《[[CHIPS and Science Act|芯片法案]]》国家战略体系** 启动微电子联合大学微电子计划（JUMP 2.0），并与 2022 年《芯片与科学法案》设立的[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）深度协同，从行业联盟型 [[Public-Private Partnership in Research|PPP]] 跃升为国家战略级产学研核心支撑平台。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
+> - **2018–至今 — [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 与对接《[[CHIPS and Science Act|芯片法案]]》国家战略体系** 启动微电子联合大学微电子计划（JUMP 2.0），并与 2022 年《芯片与科学法案》设立的[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）深度协同，从行业联盟型 [[Public-Private Partnership in Research|PPP]] 跃升为国家战略级产学研核心支撑平台。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]
 
 ---
 
@@ -149,7 +152,7 @@ updated: 2026-10-10
 > - **支撑 [[Sematech]] 等[[Industry Affiliate Program|产业联盟]]的基础研究短板** 弥补了工业制造联盟聚焦中短期工程开发的局限，为全产业链提供了深厚的上游学科地基。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 754)]]
 > - **依托大学中心充当校园内部技术经纪人** 莫迪（[[Argument_Mody_2017_MOH|Mody, 2017]]）指出，SRC 在对接学术界时克服了院系官僚迟缓与个别学者知识老化的双重困境，通过与康奈尔 [[National Research and Resource Facility for Submicron Structures|NRRFSS]]（设立微科学卓越中心，主任爱德华·沃尔夫进入 SRC 大学顾问委员会）与斯坦福 CIS 等大学多学科中心深度嵌合，将高校跨系所教员直接编织进国家行业路线图。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 292–293)]]
 > - **催化北卡罗来纳州微电子产业走廊崛起** 1980 年代初北卡罗来纳州长吉姆·亨特联合 5 所重点大学出资设立北卡微电子中心（MCNC），并成功将 SRC 总部争夺吸纳至三角研究园（[[Research Triangle Park|RTP]]），成为美国各州利用大学中心开展高技术制度竞标的早期经典战役。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 293–294)]]
-> - **为《[[CHIPS and Science Act|芯片法案]]》与 [[National Science and Technology Council|NSTC]] 奠定制度雏形** 2022 年《芯片与科学法案》在规划[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）的产学协同与人才发展网络时，高度复刻了 SRC 运行 40 余年的运作架构与同行评审机制。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
+> - **为《[[CHIPS and Science Act|芯片法案]]》与 [[National Science and Technology Council|NSTC]] 奠定产学协同与人才网络蓝本** 2022 年《芯片与科学法案》在规划[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）的产学协同与人才发展网络时，高度复刻了 SRC 运行 40 余年的运作架构与同行评审机制；同时，[[Argument_NIST_2023_NSTC|NIST (2023)]]指出 NSTC 通过提供 300mm 共享中试线与设计网关，有力补齐了 SRC 受资助大学成果在 [[Technology Readiness Level|TRL]] 4–7 中试验证环节的硬件短板。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]
 
 ---
 
@@ -197,6 +200,7 @@ updated: 2026-10-10
 > | [[Precompetitive Research]] | Concept | SRC 划定跨企业合作边界与规避反垄断制裁的核心制度概念。 |
 > | [[Public-Private Partnership in Research]] | Concept | SRC 作为行业自律与公私协同典范所代表的产学研合作[[Paradigm\|范式]]。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 推动设立 NSTC、在国家层面上扩展 SRC [[University-Industry Collaboration\|产学合作]]与人才培养模式的现代核心法案。 |
+> | [[National Semiconductor Technology Center]] | Fact (Organization) | 2022 年《芯片法案》设立的国家半导体研发中枢，吸纳 SRC 的产学协同机制并提供中试试验线支撑。 |
 > | [[Joint University Microelectronics Program 2.0]] | Fact (Program) | SRC 联合 [[DARPA]] 发起、资助 14 校协同联盟攻坚微电子异构集成的国家级产学协同重大计划。 |
 > | [[David C. Mowery]] | Person | 系统评估 Sematech 与 SRC 在国家[[Systems of Innovation\|创新系统]]（NIS）中分工定位的科技政策学者。 |
 > | [[Argument_Mody_2017_MOH\|Mody (2017)]] | Argument | 探讨 SRC 与康奈尔 [[National Research and Resource Facility for Submicron Structures\|NRRFSS]]、斯坦福 CIS 等大学中心同源嵌合及北卡竞标总部历史的研究。 |
@@ -210,6 +214,7 @@ updated: 2026-10-10
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 详尽剖析从企业倡议、[[Semiconductor Research Corporation|SRC]] 到 [[National Science and Technology Council|NSTC]] 的三代半导体公私产学研协同机制演进。
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 评估 SRC 在美国半导体[[University-Industry Collaboration|产学合作]]与博士人才培养中的长周期成效与抗周期机制。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 分析 SRC 联合 [[DARPA]] 发起的 [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 计划，揭示以顶尖大学为主导节点的跨区域网络化协同对先进封装与异构集成前沿攻关的支撑机制。
+> - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 将 SRC 列为美国半导体产学合作研发联合体的核心对标典范，阐述 NSTC 如何借鉴 SRC 跨校[[Precompetitive Research|前竞争研发]]网络并弥补其缺乏 300mm 硬件[[Pilot Scale Platform|中试验证线]]的制度断层。
 
 ---
 

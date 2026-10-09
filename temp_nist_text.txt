@@ -1,0 +1,2061 @@
+=== PAGE 1 ===
+A VISION AND STRATEGY 
+FOR THE NATIONAL 
+SEMICONDUCTOR 
+TECHNOLOGY CENTER
+CHIPS Research and Development Office
+April 25, 2023 
+=== PAGE 2 ===
+for AMERICA
+CHIPS.gov
+CHIPS for America includes the CHIPS Program Office, responsible for 
+semiconductor incentives, and the CHIPS Research and Development Office, 
+responsible for R&D programs, that both sit within the National Institute of 
+Standards and Technology (NIST) at the Department of Commerce. 
+NIST promotes U.S. innovation and industrial competitiveness by advancing 
+measurement science, standards, and technology in ways that enhance 
+economic security and improve our quality of life. NIST is uniquely positioned 
+to successfully administer the CHIPS for America program because of the 
+bureau’s strong relationships with U.S. industries, its deep understanding of the 
+semiconductor ecosystem, and its reputation as fair and trusted. 
+Visit https:/ /www.chips.gov to learn more.
+=== PAGE 3 ===
+INTRODUCTION ........................................................................................................................................2
+Mission ....................................................................................................................................................3
+Goals ........................................................................................................................................................5
+Landscape .............................................................................................................................................6
+Relationship to Other Programs ...................................................................................................8
+PROGRAMS ...............................................................................................................................................12
+Technology Leadership ..................................................................................................................12
+Managing Assets that Benefit the Community .....................................................................14
+Workforce Programs .......................................................................................................................17
+Membership Programs and Services .........................................................................................19 
+GOVERNANCE ........................................................................................................................................20
+Operating Model ...............................................................................................................................21
+Financial Model .................................................................................................................................22
+Measures of Success and Metrics ..............................................................................................22
+GOING FORWARD ................................................................................................................................23
+CONCLUSION ..........................................................................................................................................23
+APPENDIX: DEFINITIONS OF ACRONYMS .................................................................................24
+CITATIONS ................................................................................................................................................25
+A Vision And 
+Strategy For 
+The National 
+Semiconductor 
+Technology Center
+TABLE OF CONTENTS 
+=== PAGE 4 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+2 
+INTRODUCTION
+It is hard to imagine a sector more important to the 
+national and economic security of our nation than 
+the semiconductor industry. Nearly every innovation 
+of the future, whether for smarter transportation or 
+better medical devices, for agricultural efficiencies 
+or to address climate risks, or for the technology 
+that powers our national defense capabilities, 
+will depend on semiconductor technology. The 
+Biden administration called out three classes of 
+technology as being particularly critical over the 
+coming decade¹: computing-related technologies 
+including microelectronics, quantum, and artificial 
+intelligence; biotechnologies and biomanufacturing; 
+and clean energy technologies. Each of these fields 
+is dependent on semiconductors, and semiconductor 
+advancements, in turn, are driven by the demands of 
+new applications. 
+The pace of innovation in the semiconductor 
+technology sector over the past seven decades has 
+been extraordinary. The industry has progressed 
+from building a few transistors in silicon to, today, 
+building billions of transistors on a single wafer. 
+Much of this success is due to advances in the 
+manufacture of ever smaller semiconductors 
+following a consistent progression in scaling known 
+as Moore’s Law. Today, the smallest dimensions of 
+leading-edge semiconductor devices have reached 
+the atomic scale and the complexity of the circuit 
+architecture is increasing exponentially with the use 
+of three-dimensional structures, the incorporation of 
+new materials, and improvements in the thousands 
+of process steps needed to make advanced chips. 
+Into the future, as new applications demand higher-
+performance semiconductors, their design and 
+production will become even more complex. This 
+complexity makes it increasingly difficult and costly to 
+implement innovations because of the dependencies 
+between design and manufacturing, between 
+manufacturing steps, and between front-end and 
+back-end processes.
+To accelerate innovation in semiconductor technology, 
+there is a need for a systems-level research and 
+development approach that connects sophisticated 
+tools, resources, and facilities. This provides innovators 
+with the flexibility to explore improvements to 
+complex heterogeneous systems and the confidence 
+that new designs and manufacturing technologies 
+will be successful. More than ever, research and 
+development activities need to be closely aligned with 
+design and manufacturing processes. For example, a 
+research ecosystem built upon a network of physical 
+and virtual manufacturing tools could reduce the 
+time needed to design new products and processes 
+and shorten the experimentation cycle needed to 
+implement innovations. 
+Recognizing these needs, Congress appropriated 
+funds for a national semiconductor technology center 
+(NSTC)² to support and extend U.S. leadership in 
+semiconductor research, design, engineering, and 
+advanced manufacturing. By integrating efforts across 
+a complex ecosystem, a successful NSTC will advance 
+critical semiconductor research and development; 
+expand access to design and manufacturing resources 
+and allow industry, academia, and government to build 
+on each other’s work; and reduce the time and cost of 
+bringing technologies to market. As an independent 
+public-private consortium, the NSTC will provide a 
+platform where government, national laboratories, 
+industry, customers, suppliers, educational institutions, 
+entrepreneurs, workforce representatives, and 
+investors collaborate. 
+The NSTC will provide domestic access to advanced 
+prototyping capabilities for the research and 
+development community to advance new concepts 
+and facilitate both the development and production 
+of American technology on shore, energizing 
+domestic manufacturing. Targeted research 
+programs will deliver potentially disruptive and 
+performance-enhancing capabilities. Faculty, students, 
+and researchers will have access to experiential 
+technical learning including state-of-the-art design 
+environments and infrastructure, process design kits, 
+and circuit design libraries to build the workforce 
+needed to power manufacturing growth in the 
+United States.
+The U.S. has a once-in-a-generation opportunity 
+to create a transformative center that can endure 
+for decades, accelerate the pace of innovation, and 
+ensure those innovations form the foundations for 
+future industries. This paper outlines the strategy, 
+capabilities, and resources envisioned for the NSTC by 
+the Department of Commerce (hereafter referred to as 
+“the Department”). First, it outlines the NSTC’s mission 
+and goals, then identifies how the NSTC relates to 
+other CHIPS-focused programs within the Department 
+=== PAGE 5 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+ 3
+and across the federal government. Second, it 
+describes the core programs that the Department 
+believes that the NSTC should build. Third, it provides 
+an overview of the governance structure and financial 
+and operating model, which the Department will 
+continue to develop. 
+For information on the interrelated CHIPS Research 
+and Development National Advanced Packaging 
+Manufacturing Program, the NIST Manufacturing USA 
+institute(s) dedicated to semiconductors, and the 
+CHIPS Metrology Research Program, as well as the 
+CHIPS Incentives Program, please visit the CHIPS for 
+America website.³ 
+Mission 
+The Creating Helpful Incentives to Produce 
+Semiconductors for America (CHIPS) Act⁴ (hereafter 
+referred to as “the Act”) specifies that:
+[T]he Secretary of Commerce, in collaboration 
+with the Secretary of Defense, shall establish 
+a national semiconductor technology center 
+to conduct research and prototyping of 
+advanced semiconductor technology and grow 
+the domestic semiconductor workforce to 
+strengthen the economic competitiveness and 
+security of the domestic supply chain. Such 
+center shall be operated as a public private-
+sector consortium with participation from the 
+private sector, the Department of Energy, and 
+the National Science Foundation. The Secretary 
+may make financial assistance awards, 
+including construction awards, in support of 
+the national semiconductor technology center.
+Engagement with the Community
+To inform the development of the NSTC, the 
+Department has conducted and continues to 
+conduct significant engagement with stakeholders. 
+The Department received more than 250 responses 
+to “Incentives, Infrastructure, and Research and 
+Development Needs to Support a Strong Domestic 
+Semiconductor Industry,” a Request for Information 
+(RFI) issued on January 2, 2022, which included 
+questions on the scope of the NSTC.⁵ Responses 
+represented input from different sectors of the 
+semiconductor supply chain. To date, the Department 
+has hosted over 30 workshops, listening sessions, and 
+webinars with different parts of the semiconductor 
+value chain. The Department also has considered 
+the recommendations from other federal agencies, 
+the President’s Council of Advisors on Science 
+and Technology (PCAST), public reports like those 
+published by the Semiconductor Industry Association 
+(SIA), the insight and recommendations of the 
+Industrial Advisory Committee (IAC) established by 
+the Act,⁶ and input received from other stakeholders.
+=== PAGE 6 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+4 
+Mission Statement
+Figure 1. The Department has created this mission statement to define its approach to meeting the 
+objectives of the Act.⁷
+The National 
+Semiconductor T echnology 
+Center (NSTC) will serve as the 
+focal point for research and 
+engineering throughout the 
+semiconductor ecosystem, 
+advancing and enabling disruptive 
+innovation to provide 
+U.S. leadership in the 
+industries of the future.
+Focal Point
+Will have a core of centrally operated, 
+in-house research, engineering, and 
+program capabilities combined with a 
+network of directly funded and 
+aﬃliated entities that takes advantage 
+of regional expertise and assets 
+throughout the country. The NSTC 
+also will serve as a key convening 
+body for the ecosystem.
+Industries of the Future
+Will welcome the participation of 
+semiconductor users, device makers, 
+designers, application and software 
+product developers, and other 
+market shapers to develop promising 
+use cases to bring to 
+commercialization.
+Disruptive Innovation
+Will focus research and 
+engineering on challenging 
+projects with a time horizon 
+beyond 5 years. NSTC will focus 
+on delivering broad beneﬁts to 
+the U.S. semiconductor 
+ecosystem, even when working 
+with individual entities. 
+U.S. Leadership
+Will work with allies to 
+complement and 
+reinforce existing 
+research assets and 
+capabilities, while 
+strengthening and 
+growing U.S. capacity.
+Advancing and Enabling
+Will engage in and support 
+research through collaboration, 
+technical exchanges, convenings, 
+and grant programs.
+Semiconductor Ecosystem
+Will work across the semi-
+conductor technical stack and 
+its supply chain, including 
+design, materials, capital 
+equipment, and facilities. The 
+NSTC charter also extends to 
+the broader community that 
+supports and enables the 
+industry, such as workforce 
+and training institutions, 
+capital providers, and 
+semiconductor end users.
+Research and Engineering
+Will work across a range of 
+activities including applied 
+research, start-up company 
+support, prototyping of 
+devices and processes in a 
+real-world environment, 
+challenges related to scaling, 
+or development of advanced 
+manufacturing tools and 
+processes. 
+National Semiconductor T echnology Center Mission
+=== PAGE 7 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+ 5
+Goals
+To fulfill its statutory mission, the Department has 
+identified three high-level goals for the NSTC and 
+expects that the programs needed to implement these 
+goals will be executed through a combination of new 
+capabilities along with affiliated and collaborative 
+relationships with existing entities. The Department 
+expects to build the NSTC in stages, beginning 
+with standing-up the organization, followed by 
+prioritization of early-stage projects, and leading to 
+the development and implementation of 
+focused programs.
+1. Extend U.S. leadership in foundational 
+technologies for future applications 
+and industries and strengthen the U.S. 
+semiconductor manufacturing ecosystem.
+• Conduct world-class research at the 
+precompetitive stage, yielding both design 
+and process technology and intellectual 
+property (IP) that can be made available to 
+all participants.
+• Support world-class research across the 
+ecosystem including at academic institutions, 
+government agencies, and government-
+funded research institutions.
+• Create grand challenges, support targeted 
+industry road maps, and foster standards to 
+facilitate broad ecosystem collaboration on 
+technology development.
+2. Reduce significantly the time and cost to 
+prototype innovative ideas for 
+member organizations. 
+• Establish and provide access to physical 
+assets such as end-to-end prototyping and 
+other facilities and equipment with capital 
+costs that otherwise make access difficult, or 
+which are not available in the U.S. today. 
+• Provide access to digital assets and IP, 
+including design tools, reference flows, 
+process design kits, and data sets.
+• Provide access to in-house technical staff to 
+assist with overcoming technical and 
+process challenges. 
+• Create an investment fund that is structured 
+to attract significant private capital into 
+semiconductor-focused emerging companies.
+• Aggregate and manage demand for access to 
+multi-project wafer services at 
+commercial fabs.
+• Enable participation from communities 
+traditionally not a part of the semiconductor 
+industry through targeted access programs.
+3. Build and sustain a semiconductor workforce 
+development ecosystem. 
+• Serve as a coordination point and 
+resource across industry, academic 
+institutions, government agencies, and 
+government-funded research institutions 
+for semiconductor-related workforce data, 
+training, and development programs. 
+• Encourage and promote the adoption of 
+diversity, equity, inclusion, and accessibility 
+(DEIA) best practices and the Department’s 
+Good Jobs Principles⁸ as foundational for all 
+workforce investments. 
+• Develop and fund workforce programs to 
+provide support to NSTC members in building 
+and sustaining career pathways in the 
+semiconductor sector. 
+By the decade’s end, the NSTC should be viewed 
+throughout the world as an essential resource within 
+the broad semiconductor ecosystem with a network 
+of respected scientists and engineers, state-of-the-
+art facilities, effective programs, and demonstrated 
+technical achievements. 
+=== PAGE 8 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+6 
+Landscape
+For both small and large organizations, innovation 
+often starts with new concepts for materials, devices, 
+or architectures. However, there are few accessible 
+manufacturing resources to go from concepts to 
+physical devices to demonstrating manufacturing 
+viability. In addition, the ability to transition 
+technologies from new device demonstration to 
+manufacturing that device at higher volumes is limited 
+by high risk and high costs. 
+The focus of the NSTC is to lower the cost and 
+time to develop semiconductor technologies by 
+providing the R&D community—including the full 
+range of industry, government, academic, and non-
+profit researchers and technology developers—with 
+access to state-of-the-art capabilities, design and 
+manufacturing expertise, fabrication flows, digital 
+products, and research opportunities to validate 
+concepts from materials to components to system-
+level prototypes. This access will build manufacturing 
+process knowledge and expertise, and allow the R&D 
+community to develop devices, tools, processes, and 
+designs that are attractive for further investment 
+and support clearly identified economic and national 
+security priorities. Supporting the community of 
+researchers at this step in the development process 
+within a pre-competitive, collaborative environment 
+will enable validation of material, tool, device, and 
+design technologies to a stage that can attract the 
+private investment needed to reach the marketplace.
+Initially, the NSTC will work with the community to 
+identify a set of strategic challenges that are relevant 
+to the industry, government, or the wider commercial 
+ecosystem. The NSTC will target technologies 
+in the proof-of-concept stage that will benefit 
+from prototyping and scale up, and that have the 
+potential to provide significant competitive benefit 
+to customers of microelectronics technology or 
+strategic benefit to the U.S. semiconductor ecosystem. 
+In further sections of this paper, the Department has 
+identified as investment priorities several important 
+technology areas, including advanced packaging 
+and chiplets. In the longer term, the NSTC will create 
+a process to regularly identify strategic challenges, 
+assess capabilities to develop solutions, and invest to 
+close the gaps.
+The NSTC will serve the entire semiconductor R&D 
+ecosystem. Members will benefit from access to NSTC 
+research, facilities, multi-project wafer schemes, 
+workforce programs, convenings, shared road maps, 
+standards development, and data sets. 
+=== PAGE 9 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+ 7
+Figure 2. Conceptual diagram illustrating how the NSTC and Microelectronics Commons will expand the number 
+of concepts and ideas that can transition from proof-of-concept to the market. 
+NSF – National Science Foundation 
+DMREF – NSF Designing Materials to Revolutionize and Engineer our Future 
+RINGS – NSF Resilient & Intelligent NextG Systems 
+DOE – Department of Energy 
+SC – DOE Office of Science 
+NNSA - National Nuclear Security Administration 
+EERE - DOE Office of Energy Efficiency and Renewable Energy 
+ARPA-E – DOE Advanced Research Projects Agency-Energy 
+DOD – Department of Defense 
+ERI 2.0 – DOD Electronics Resurgence Initiative 
+NGMM – DOD Next-Generation Microelectronics Manufacturing 
+SBIR – Small Business Innovation Research 
+NIH – National Institutes of Health 
+USG – U.S. government 
+FuSe – NSF Future of Semiconductors initiative 
+SHIP - State-of-the-art Heterogeneous Integration Prototype 
+RAMP-C - DOD Rapid Assured Microelectronics Prototypes - Commercial
+
+=== PAGE 10 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+8 
+Relationship to Other Programs
+The NSTC will be part of a whole-of-government 
+strategy to advance and enable innovations in 
+microelectronics R&D.⁹
+Whole-of-Government Approach: The Department 
+works with all federal agencies through the White 
+House CHIPS Implementation Steering Council and the 
+White House National Science and Technology Council 
+Subcommittee for Microelectronics Leadership 
+(SML) and is informed by the National Strategy 
+on Microelectronics Research. The Department is 
+working with the Department of Defense (DOD), 
+National Science Foundation (NSF), Department of 
+Energy (DOE), and others to coordinate programs 
+and future investments to create a well-connected 
+“network of networks” supporting the national 
+strategy developed by the SML. The Department also 
+will pursue interagency agreements and policies that 
+reduce barriers for future NSTC collaboration with 
+agencies and U.S. government-funded institutions 
+such as DOE National Laboratories and other federally 
+funded research and development centers, nano-
+fabrication facilities, and high-performance computing 
+centers. This framework will facilitate and formalize 
+the NSTC’s role in advancing technologies emerging 
+from NSF, DOE, DOD, and other U.S. government-
+funded programs and institutions, such as those 
+Basic science
+& process
+research
+Proof of 
+concept
+Prototype in 
+laboratory
+Prototype in 
+fabrication
+Pilot and 
+scaling
+Commercial 
+production
+Stages of Innovation
+NSTC and
+NAPMP programsNSTC
+research
+DOD Commons-Hubs
+Manufacturing 
+USAFederal science programs
+Private
+sector
+Figure 3. A conceptual diagram of the stages of innovation for a new chip design across various government 
+programs. (Note that the Commons Cores are not displayed. Shading is not to scale of investment.)
+=== PAGE 11 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+ 9
+from the Defense Advanced Research Projects 
+Agency (DARPA) Next-Generation Microelectronics 
+Manufacturing (NGMM) and other Electronics 
+Resurgence Initiative (ERI) 2.0 efforts.
+The Department supports a whole-of-government 
+approach to ensure effective coordination with 
+microelectronic programs beyond the CHIPS 
+legislation. The remaining section briefly describes the 
+other CHIPS-specific programs and offices with which 
+the NSTC will coordinate. 
+CHIPS R&D Office: To establish and manage the 
+R&D programs authorized by the Act, the National 
+Institute of Standards and Technology (NIST) has 
+created the CHIPS R&D Office led by an R&D director 
+reporting to the Under Secretary of Commerce for 
+Standards and Technology. The CHIPS R&D Office 
+will manage the development of the NSTC, the 
+National Advanced Packaging Manufacturing Program 
+(NAPMP), the semiconductor-focused Manufacturing 
+USA Institute(s) and the CHIPS Metrology Research 
+Program. The separate, but coordinated, CHIPS 
+Program Office is focused on incentives.
+National Advanced Packaging Manufacturing Program 
+(NAPMP):¹⁰ For many years, the ability to increase 
+the number and density of transistors on a chip, 
+often referred to as Moore’s Law,¹¹ has driven the 
+exponential performance growth of the industry. The 
+RFI input and in-depth conversations with industry 
+experts emphasized the importance of advances 
+in packaging to continue this trajectory. Traditional 
+packaging is labor intensive and relatively low 
+margin and has largely moved offshore. Advanced 
+packaging draws upon progress in materials, substrate 
+fabrication, tooling, modeling, design, and processes 
+that allow multiple semiconductors and different 
+types of semiconductors to be combined in a multi-
+dimensional arrangement on a substrate, all in one 
+package. Advanced packaging is one example of the 
+concept often called “More than Moore,”¹² indicating 
+that performance advances can continue beyond the 
+original feature-size scaling concept embodied by 
+Moore’s Law. 
+The U.S. has a unique opportunity to expand existing 
+and develop new advanced packaging capacity. 
+To support this effort, the Act authorized NIST to 
+establish the NAPMP in coordination with the NSTC. 
+The Department plans to establish NAPMP as a 
+separate program¹³ within NIST, with a director 
+reporting to the CHIPS R&D director. As a program 
+office, the NAPMP will determine funding priorities 
+both for facilities and for research programs focused 
+on technology areas such as materials, substrates, 
+tools, design, and test. When decisions are made 
+on one or more facilities to be funded, the NAPMP 
+Program Office will evaluate whether these facilities 
+could be best managed by the NSTC as technical 
+centers (as defined below), which could facilitate 
+access for NSTC members. 
+For example, the NAPMP Program Office is likely to 
+fund the following priorities in coordination with 
+the NSTC:
+• Advanced Packaging Pilot Facility – A modern, 
+low-volume pilot packaging facility focused on 
+innovations in advanced packaging; a place to test 
+and pilot new equipment and processes.
+• Heterogeneous Integration Technical Center – A 
+technical center to include research capabilities 
+needed to integrate and package a wide variety 
+of devices and materials systems such as 
+photonics, wide-bandgap and ultra-wide bandgap 
+semiconductors, advanced node logic, and mixed 
+signal and novel memory devices.
+Manufacturing USA:¹⁴ The Manufacturing USA network 
+currently consists of 16 public-private partnerships 
+where members from industry, educational 
+institutions, and government work together to 
+solve industry-relevant advanced manufacturing 
+challenges to enhance industrial competitiveness, 
+enable economic growth, and strengthen national 
+security. The Act authorizes the establishment of up 
+to three new Manufacturing USA institutes focused on 
+advancing semiconductor manufacturing. The CHIPS 
+R&D Office, in coordination with the NIST Office of 
+Advanced Manufacturing, will determine potential 
+topics for these semiconductor institute(s). In an RFI 
+published in the Federal Register on October 13, 2022, 
+NIST requested information to inform the design 
+of, and requirements for, potential Manufacturing 
+USA institutes to strengthen the semiconductor and 
+microelectronics innovation system, which could 
+include design, fabrication, and advanced test, 
+assembly, and packaging capabilities.¹⁵ The topic 
+selection will be designed to be complementary to 
+the NSTC, NAPMP, and CHIPS Metrology Research 
+=== PAGE 12 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+10 
+programs. The Department anticipates that new 
+semiconductor-related institute(s) will participate 
+with the NSTC as an affiliated technical center(s). The 
+Department also anticipates providing mechanisms for 
+other Manufacturing USA institutes to participate with 
+the NSTC.
+Metrology Research: The extraordinary progress of 
+the semiconductor industry has been enabled, in large 
+part, by the ability to measure, and therefore control, 
+all aspects of the integrated circuit manufacturing 
+process. Metrology that is accurate, precise, and 
+fit-for-purpose is fundamental to the production 
+of microelectronic materials, devices, circuits, and 
+systems. Built on decades of world-class metrology 
+work at NIST, the CHIPS Metrology Research 
+Program enabled by the Act is focused on creating 
+advances and breakthroughs in measurement science, 
+standards, materials characterization, instrumentation, 
+testing, and manufacturing capabilities that will 
+accelerate the development of metrology for next-
+generation microelectronics technology. The program 
+will focus on a set of metrology grand challenges¹⁶ 
+identified through two semiconductor workshops with 
+significant participation from industry stakeholders. 
+The CHIPS Metrology Research Program will address 
+these challenges by leveraging current programs 
+and capabilities, establishing collaborations with 
+institutions such as the DOE national laboratories and 
+academic centers, and working closely with industry. 
+Through the CHIPS R&D Office, the CHIPS Metrology 
+Research Program will be integrated with the NSTC 
+and NAPMP to ensure that metrology solutions 
+developed in the program are available to members 
+of the community, and that key metrology problems 
+identified are addressed by the program. Finally, 
+the CHIPS Metrology Research Program will build 
+partnerships to accelerate transition of metrology 
+advances from the laboratory to the commercial 
+marketplace.
+CHIPS Incentives Program within the CHIPS Program 
+Office (CPO): CPO administers the CHIPS Incentives 
+Program, which provides federal funding to incentivize 
+investment in facilities and equipment in the United 
+States for the fabrication, assembly, testing, advanced 
+packaging, production, or research and development 
+of semiconductors, materials used to manufacture 
+semiconductors, or semiconductor manufacturing 
+equipment. Applicants under the Notice of Funding 
+Opportunity released on February 28, 2023,¹⁷ should 
+commit to participating in the NSTC and, if applicable, 
+engage, support, and collaborate with NAPMP-funded 
+projects in an appropriate manner, taking into account 
+the nature of the applicant and the activities of these 
+organizations. Applicants for CHIPS incentives also 
+should propose commitments to support CHIPS 
+R&D efforts.
+In addition, the CPO plans to release two additional 
+funding opportunities over the course of 2023: one 
+The CPO funding notice includes the following suggestions for incentives applicants’ R&D plans:
+• Applicants for semiconductor production facilities should reserve capacity to support shuttle runs 
+(multi-project wafers) at market rates or below in support of semiconductor startups, academia, 
+government agencies, and potential R&D projects coordinated by the NSTC.
+• Applicants for packaging facilities could reserve capacity for use by the NSTC or NAPMP.
+• Applicants could rotate technical staff to the NSTC or NAPMP, or train NSTC and NAPMP techni-
+cal staff through exchanges.
+• Applicants could provide process data to the NSTC to support aggregated large-scale datasets 
+for training and manufacturing process optimization.
+• Applicants could provide access to existing R&D facilities either as technical centers affiliated with 
+the NSTC, the Microelectronic Commons, or independently.
+• Applicants could provide donations or low-cost access to equipment and/or design tools to the 
+NSTC, NAPMP, or Microelectronic Commons.
+• Applicants could increase public and industry access to mature-node process design kits, such as 
+through open-source licenses, to foster IP development and improve foundry interoperability.
+=== PAGE 13 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+ 11
+for semiconductor materials and manufacturing 
+equipment facilities, and one for R&D facilities.
+DOD Microelectronics Commons: The Microelectronics 
+Commons of the Department of Defense (the 
+Commons) is a complementary program provided 
+for by the Act that enables the development of 
+microelectronics materials, processes, devices, and 
+architectural designs that are focused on national 
+defense needs. The Commons will address the need 
+for processes, materials, devices, and architectures to 
+be developed and quickly ported and re-characterized 
+as they transition from research to small-volume 
+prototyping in labs and finally to fabrication 
+prototypes that can demonstrate the volume and 
+characteristics required to ensure reduced risk for 
+manufacturing. However, at-scale prototyping is high-
+risk and expensive. Small and mid-size companies 
+and universities have great difficulty bridging that 
+laboratory to fabrication or ‘lab-to-fab’ transition 
+between research ideas and realization of those 
+ideas into manufacturing. The Commons will leverage 
+non-traditional defense innovators (e.g., startups 
+and universities) and lower some of the existing 
+barriers that hinder their ability to evolve laboratory 
+prototypes to fabrication prototypes. The Commons 
+is a planned network of regional “hubs” with early to 
+mid-stage development capabilities and associated 
+“cores” with later stage capabilities. The cores will 
+work closely with hubs to align them with commercial 
+processes to facilitate transition of technologies. While 
+the Commons will have some efforts in the same range 
+of technologies and device development with those 
+supported by NSTC, the Commons has a different set 
+of targets in its application focus and scope of desired 
+productization to address a set of defense-specific 
+priorities. The Microelectronics Commons is focused 
+in six technical areas important to national defense 
+and emerging commercial markets: electromagnetic 
+warfare, secure-edge computing, artificial intelligence 
+(AI) hardware, quantum technology, 5G/6G 
+technology, and commercial leap-ahead technologies. 
+Additional maturation will occur utilizing subsequent 
+programs and resources that could include the NSTC 
+and DOD demonstration programs.
+The NSTC is distinct from the Commons. The NSTC 
+is focused on providing access to manufacturing 
+technologies that support end-to-end wafer-level 
+and die-level prototyping, including full-process and 
+back-end line capabilities, in leading-edge and other 
+technologies. The NSTC will utilize these capabilities 
+to support a wide range of device technologies 
+and R&D in design, tools, process technology, 
+software, and digital products. With a broader scope 
+of commercial device technologies, ecosystem 
+development, and manufacturing solutions, the NSTC 
+will be able to support technologies emerging from 
+the Commons and will collaborate closely with DOD to 
+ensure program coordination and sharing of resources 
+as part of the broader whole-of-government approach 
+in alignment with the national strategy. For many 
+projects within the Microelectronics Commons, the 
+NSTC will offer capabilities to validate concepts at 
+an increased level of developmental maturity prior to 
+moving into a commercialization track.
+Department of Energy (DOE): The Department 
+of Energy’s Office of Science (SC) and National 
+Nuclear Security Administration (NNSA) national 
+laboratories host user facilities and other, unique 
+resources, including X-ray light sources, neutron 
+sources, nanoscale-science centers, and exascale 
+computing providing world-leading imaging, 
+diagnostic, characterization, simulation, and analysis 
+capabilities. The NSTC and its members may leverage 
+these resources to accelerate the development of 
+next-generation semiconductor technologies. In 
+addition, DOE’s R&D investments, including the 
+programs comprising SC’s Microelectronics Initiative 
+and efforts supported by the Advanced Materials and 
+Manufacturing Technologies Office, will feed NSTC’s 
+innovation pipeline. DOE and the NSTC will work to 
+avoid duplication and ensure program coordination.
+National Science Foundation (NSF): The NSTC 
+will work closely with NSF to build coordinated 
+programs that support the future workforce needed 
+to realize U.S. leadership in microelectronics 
+and to support fundamental research as well as 
+technology translation. As examples, there are a 
+range of foundational research programs that feed 
+technology into the NSTC, such as the Future of 
+Semiconductors, which the NSF recently launched 
+in collaboration with private industry. There are also 
+use-inspired and translational research programs 
+such as the NSF Regional Innovation Engines, NSF 
+I-Corps, Partnerships for Innovation, Small Business 
+Innovation Research/Small Business Technology 
+Transfer, NSF Entrepreneurial Fellowships, and NSF 
+Convergence Accelerator. All these NSF programs 
+will complement programs of the NSTC: The unique 
+facilities and expertise of the NSTC are expected to be 
+a key resource available to the full breadth of NSF’s 
+programs. As with all federal agency programs, close 
+collaboration with NSF will avoid duplication and 
+ensure program coordination leading to leveraging 
+and sharing of resources.
+=== PAGE 14 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+12 
+Partners and allies: The U.S. has a shared interest 
+and many existing joint research programs with the 
+governments of allies and partner nations to drive 
+the future of microelectronics. There are existing or 
+planned organizations similar to the NSTC located 
+around the world. The NSTC will work to establish 
+positive and synergistic relationships with partner 
+nations and allies that share common values and 
+objectives, including building and sustaining the future 
+semiconductor workforce. The NSTC will help facilitate 
+U.S.-based companies’ participation in research 
+centers hosted by allies and partner nations, and 
+also facilitate the participation of those centers and 
+international companies in NSTC facilities in the U.S.
+as appropriate. 
+The Department, in conjunction with other agency 
+partners, will establish guidelines, safeguards, 
+and securities to enable trusted cooperation and 
+collaboration between the NSTC and allies and partner 
+nations in microelectronics development for national 
+security applications, as needed. 
+PROGRAMS
+The NSTC will have in-house research, engineering, 
+and program capabilities in addition to providing 
+research grants to other entities. The NSTC also will 
+support an integrated network of facilities, including 
+leveraging existing capabilities across the country that 
+are referred to as technical centers. While a high-
+level summary is provided here, the specific technical 
+objectives, goals, and outcomes will also be informed 
+by the National Strategy on Microelectronics Research 
+and recommendations from technical advisory bodies 
+including the Industrial Advisory Committee. 
+The Department intends for the NSTC headquarters to 
+have a distinct identity and be a prominent gathering 
+place. Functions that are expected to be housed in 
+the headquarters include the executive leadership 
+of the entity that will operate the NSTC (described 
+in more detail in the Governance section), financial 
+and legal operations, human resources, program 
+management, government relations, member services, 
+and convening spaces. In addition, NSTC research 
+scientists and engineers, their labs, a prototyping 
+facility, packaging facility, or a technical center may be 
+co-located with the headquarters location.
+The Department anticipates that the NSTC will focus 
+on three key program areas:
+1. Technology leadership
+2. Managing assets that benefit the community
+3. Workforce programs
+Technology Leadership
+The first key program area will focus on technology 
+leadership in semiconductors and
+advanced electronics.
+Technology leadership is pivotal to the NSTC’s goal 
+of delivering superior science, leading engineering, 
+and breakthrough innovations that can be accessed 
+throughout the community. Working at the NSTC or 
+in collaboration with the NSTC should be considered 
+a highly valued assignment with opportunities for 
+significant impact and substantial career development.
+Grand challenges: Grand challenges provide a 
+mechanism to align the semiconductor community’s 
+research and development efforts to address larger 
+problems, serving to build new communities of 
+practice and helping to guide further program 
+investment. Grand challenges, such as the DARPA 
+Subterranean Challenge,¹⁸ have a rich history of 
+driving innovation. They can be used to engage 
+participants outside the usual communities to bring 
+fresh insights and expertise. The NSTC will work with 
+federal agencies and with the community to identify 
+and select difficult problems that, when solved, could: 
+• Lead to dramatic advances for the U.S. 
+microelectronics ecosystem
+• Strengthen domestic manufacturing
+• Achieve strategic objectives
+• Improve national and economic security for the 
+United States and its allies
+As an example, the IAC proposed grand challenges 
+to consider such as lowering costs for semiconductor 
+manufacturing and improving environmental 
+sustainability in the industry.
+Technical advisors: To determine specific areas of 
+technology focus and grand challenges, the NSTC 
+will rely on technical advice from world-class experts 
+across industry, academia, DOE national laboratories 
+and other federally funded research and development 
+centers, and government agencies. Such advice 
+will be critical to ensuring that prioritization of 
+technical work meets the long-term needs of the U.S. 
+microelectronics R&D ecosystem and NSTC members, 
+and the strategic and national and economic security 
+imperatives of the United States and its allies. The 
+NSTC will determine the appropriate composition and 
+structure of advisory groups. To the extent that the 
+NSTC is able to support national security objectives, 
+the NSTC will engage technical advisors with 
+appropriate clearances. 
+=== PAGE 15 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+ 13
+In-house and funded research: The NSTC will conduct 
+and fund research and collaborations with others, 
+focusing primarily on those developments that will 
+benefit industry approximately 5 to 15 years in the 
+future, with the technical focus guided by advisors 
+and in alignment with grand challenges. Research 
+programs approaching a proof-of-concept stage 
+with the potential to move to the prototyping 
+stage if enabled by the NSTC should be a priority, 
+including programs at universities, community 
+colleges, and minority serving institutions (MSIs). 
+Research will be conducted on design innovation 
+as well as manufacturing process improvements, 
+and all segments of the semiconductor industry 
+will be considered for programs. The Department 
+anticipates that the NSTC will fund research areas 
+that deliver maximum impact across the ecosystem. 
+The R&D portfolio and technical focus of the NSTC 
+will evolve over time to track with industry needs. 
+Strategic investment areas that cut across many 
+types of devices such as energy efficiency, AI, high-
+performance computing, and secure systems should 
+be considered during program development.
+Investment fund: The Act calls for the creation of an 
+investment fund with the private sector to support 
+startups as well as collaborations between new 
+ventures, academia, and established companies, 
+with the goal of commercializing innovations that 
+contribute to the domestic semiconductor ecosystem. 
+More information on the investment fund is included in 
+the Membership Programs and Services section.
+Technical exchanges: Staff researchers may be 
+joined by visiting researchers through fellowships, 
+residencies, and technical exchange programs 
+to build a connected, collaborative community. 
+Universities are encouraged to consider establishing 
+or using existing government service leave programs 
+and other mechanisms to enable students, post-
+doctoral scholars, faculty, researchers, scientists, 
+and engineers to participate in the NSTC. The NSTC 
+aims to attract early-career scientists and engineers 
+for one- to two-year rotations, offering experiential 
+learning and prototyping, enabling them to become 
+part of the community, training them for leadership 
+positions, expanding their networks, and connecting 
+them with each other and with established scientists 
+and technologists. Close interactions with senior 
+researchers from major companies, universities, 
+NIST laboratories, other federal agencies, allies and 
+partners, and national laboratories will help accelerate 
+the development of top-notch technical talent. In-
+house staff also can serve as a readily available set of 
+experts to provide technical advice to members and to 
+evaluate potential investment fund opportunities.
+Road maps: Road maps can be effective tools to 
+communicate needs and timelines across industries 
+and establish clear goals and deliverables for both 
+research and commercial activities.¹⁹ Establishing road 
+maps in microelectronics is challenging because the 
+industry has gone through a phase of disaggregation 
+with the diversity of materials, devices, and functions 
+increasing dramatically. Although the complexity 
+of the industry precludes the notion of a single 
+comprehensive road map, certain areas of technical 
+exploration, such as fab virtualization or multi-chip 
+architectures,²⁰ could benefit tremendously from an 
+NSTC-led road map process that is regularly updated 
+with input from industry, government, and
+academic leaders.²¹
+ 
+Standards and protocols: The NSTC, working with U.S. 
+and international standards bodies²² and leveraging 
+the standards development expertise within NIST, can 
+unify and focus the efforts of suppliers and developers 
+in emerging areas including chiplets, advanced 
+packaging, and heterogeneous integration. Standards 
+vary widely in purpose and scope but can include 
+documentary test methods, specifications, practices, 
+terminology, classifications, and guides, as well as 
+physical artifacts. Industry standards, when developed 
+carefully and implemented at the right time, provide 
+frameworks for manufacturers and developers that 
+ensure consistency, compatibility, validation, and/
+or interoperability. Such standards can increase the 
+potential for new entrants to compete in a field, 
+simplify product development, and reduce time
+to market.
+ 
+To further advance the electronic design automation 
+(EDA) and circuit-design industries, the NSTC 
+also should work to facilitate the development of 
+standards for process and assembly design kits so 
+that heterogenous systems can be better integrated in 
+EDA tooling flows. The NSTC should especially ensure 
+these standards are applicable to multi-facility process 
+design kits for wafers integrated across facilities or 
+circuits composed of multiple technologies.
+Security: The NSTC will lead efforts to ensure 
+the security and validation of the domestic 
+microelectronics ecosystem, such as developing 
+methods to combat cloning, counterfeiting, and 
+relabeling of semiconductors. Security is especially 
+critical in national defense, energy security, and other 
+national security applications. Furthermore, there is 
+widespread connectivity in the automotive, health 
+care, mobile communications, and other sectors 
+that requires security to be built in at all levels of the 
+hardware and software stacks, including at the lowest 
+levels of hardware. In coordination with NIST, the NSTC 
+=== PAGE 16 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+14 
+can facilitate the implementation of standards for 
+security features that contribute to the development 
+of, and access to, silicon-proven secure IP. Maximizing 
+the level of protection provided while minimally 
+compromising system performance is a challenge for 
+the whole industry, and one that the NSTC will be well-
+positioned to address in the precompetitive space.
+Managing Assets that Benefit 
+the Community
+The Department anticipates that the NSTC will 
+manage a variety of physical and digital assets 
+that will benefit the broad community through 
+better availability, lower cost, strong support for 
+experimentation, and improved technical support.
+Technical Centers
+As described earlier, the NSTC will consist of a 
+headquarters facility and an integrated network 
+of NSTC-affiliated technical centers with locations 
+geographically distributed to leverage existing 
+capabilities. The Department envisions that the 
+network of NSTC technical centers will be capable of 
+end-to-end fabrication to enable small prototyping 
+and pilot runs, experimentation with and testing of 
+new materials and equipment, and other research-
+related activities. The scope and quality will exceed 
+what is feasible for universities, semiconductor start-
+ups, federal R&D facilities, and even some corporate 
+R&D laboratories. Although these technical centers 
+will be similar to industrial R&D fabs in capability, 
+they aim for flexibility and availability over unit cost 
+optimization, with the expectation that proven designs 
+move into larger scale commercial production at 
+private-sector foundry service suppliers. An important 
+role of the technical centers is to enable students to 
+get hands-on experience designing and prototyping 
+semiconductors at a variety of technology nodes.
+ 
+In addition, the Department imagines a broad range 
+of technical centers where members can offer limited 
+access to specialty equipment or facilities that the 
+NSTC could make available in a programmatic fashion 
+to members. For example, a specific facility might seek 
+funding for upgraded equipment, and in exchange 
+offer a percentage of the capacity of the facility to 
+be managed by the NSTC and made available to the 
+community.
+ 
+The exact makeup and number of the NSTC’s technical 
+centers has not yet been determined and may change 
+over time. The Department expects that government 
+entities or programs such as the semiconductor-
+focused Manufacturing USA institute(s) could also 
+serve as technical centers affiliated with the NSTC. 
+As part of the process of evaluating, selecting, or 
+creating technical centers, the NSTC should be driven 
+by the strategic needs identified through efforts such 
+as grand challenges, and include criteria such as local 
+and state support, financial impact, environmental 
+sustainability, and workforce availability. Because 
+there are significant infrastructure costs associated 
+with the construction of new fabrication facilities, 
+the Department is exploring several options to 
+establish technical centers. These include building new 
+facilities, acquiring existing facilities, or collaborating 
+between the NSTC and existing facilities with potential 
+expansion and upgrade funding to meet the desired 
+specifications. Relationships with technical centers 
+may be structured in a variety of ways depending on 
+the needs of the NSTC, with the NSTC determining the 
+ideal structure for each project.
+The NSTC should strive to create an open and 
+collaborative research environment while balancing 
+the need to protect proprietary information that will 
+be present in the technical centers. The NSTC should 
+implement processes and practices that are aligned 
+with laws, executive orders, and national research 
+security policies articulated by the Office of Science 
+and Technology Policy.²³ 
+The NSTC technical centers will produce significant 
+quantities of process and test vehicle performance 
+data. Additional details are described in the Digital 
+Assets section. 
+=== PAGE 17 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+ 15
+Chiplets: Developments on chiplets cut across many 
+core NSTC and NAPMP activities: standards, road 
+maps, technical centers, and the multi-project wafer 
+program. The Department expects the NSTC to work 
+with the NAPMP to create a chiplet program that 
+plays a leading role in driving standards in 2D and 
+2.5D heterogenous integration, as well as establishing 
+a long-term vision in 3D integration of memory and 
+logic beyond existing standards in stacked memory. 
+NSTC-sponsored multi-project wafer programs could 
+be used to grow an expansive library of interoperable 
+chiplets that can be integrated with custom chiplets 
+to demonstrate innovations with reduced investment 
+and time. The technical center for heterogenous 
+integration described earlier, combined with an 
+open chiplet platform, could play a central role in 
+prototyping new and emerging complex systems 
+for transition into commercial production. Private-
+sector companies could be created or expanded to 
+participate in a chiplet ecosystem. In brief, the NSTC, 
+in coordination with the NAPMP, should establish a 
+robust chiplet program to enable an open chiplet 
+TECHNICAL CENTERS: COMMUNITY INPUT
+The semiconductor community has provided extensive input to the requirements for potential 
+technical centers. The NSTC will embark on a prioritization process to ensure that the highest priority 
+needs are met with the funds available. Identified needs for the NSTC to consider include:
+• Baseline CMOS (complementary metal-oxide semiconductor): Fully functional and supported 
+CMOS process flow at 22 nm or below with a capacity of 10,000 wafer starts per month on 
+300 mm wafers 
+• CMOS R&D process: Front-end short loops supporting < 3 nm technology R&D at a capacity 
+of 2,000 wafers per month using extreme ultraviolet technology enabling the development of 
+leading-edge materials, devices, and process and metrology tools 
+• Manufacturing test vehicles that provide low-cost patterned and functional substrates that can be 
+used to provide data through electrical test, to enable materials, equipment, process, and device 
+development and optimization, especially for CMOS+X enabled technologies
+• Extended metrology capacity to enable R&D in a production environment including rapid 
+failure analysis to shorten prototype development cycles, extensive in-line process monitoring 
+capabilities, and off-line characterization facilities 
+• Space and flexibility to accommodate next-generation or prototype processing and metrology 
+tools so that they can be demonstrated in a production environment
+• Back-end short loop processing from specialized capabilities enabling “fab-to-lab”²⁴ finishing of 
+R&D devices and high-quality processing of novel materials and devices while maintaining process 
+and material segregation
+• Power electronics: Power management devices often require non-silicon substrates (e.g., silicon 
+carbide, gallium nitride) and specialized designs, tools, and processes
+• Radio frequency, mixed signal, and analog: Communication and sensing applications require 
+diverse capabilities distinct from leading-edge CMOS
+• Photonics: Advancements in quantum, sensing, and interconnect are all possible at the 
+intersection of light and electronics
+• Microelectromechanical systems: Sensors for mobile, automotive, health care, and internet-of-
+things are all growth areas that require resources distinct from traditional CMOS flow
+• Bioelectronics: The convergence of microfabrication and biotechnology brings new opportunities, 
+but also increased complexity and significant integration challenges
+• Mature node: The NSTC may seek to have capacity at a mature node (e.g., 130 nm), with such a 
+facility well suited to certain research programs and workforce education
+• Design tools: New design tools and methodologies to accelerate the generation of circuit IP; 
+virtualize devices, circuits, and processes; and enable co-design, simulation, and heterogeneous 
+integration
+=== PAGE 18 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+16 
+marketplace and maintain U.S. leadership in a broad 
+spectrum of silicon and non-silicon technologies. 
+Digital Assets: The NSTC Design Enablement 
+Gateway
+Today’s IP requirements make it difficult for industry 
+participants to share up-to-date circuit designs and 
+software and to cooperate in the development of 
+new technologies. As the cost of integrated circuit 
+design skyrockets and the industry moves toward 
+more complex heterogenous systems, improved 
+flexibility in the design ecosystem will be an important 
+component of improving the pathway from design to 
+commercialization. 
+The NSTC could pursue new methods and approaches, 
+some technical and others focused on simplifying 
+legal compliance, to ensure that IP can be safely 
+shared by establishing a cloud-based, design 
+enablement gateway to serve as the focal point for 
+semiconductor fabless R&D. A priority of NSTC-based 
+research and funding into EDA and circuit design 
+could be aimed at increasing the portability of designs 
+between foundries and technology nodes. Research 
+into this area could reduce the time it takes to spin 
+up new processes at foundries as well as improve the 
+ability to rapidly qualify ported designs.
+Such a gateway is complex and many details are yet to 
+be determined, but the overriding goal is to facilitate 
+collaboration, reduce cost and time to market, and 
+broaden access to important tools and information, all 
+while respecting private companies’ IP.
+DESIGN ENABLEMENT GATEWAY: COMMUNITY INPUT
+The semiconductor community has provided extensive input to the requirements for a new hosted 
+design environment. Specifications that have been identified include:
+• A complete set of resources needed for the design, simulation, and tape-out of integrated sys-
+tems to be made in the U.S., without proprietary information leaving the cloud environment
+• A well-structured, version-controlled interchange system between all participants within a multi-
+party “nondisclosure agreement ecosystem” to facilitate sharing IP as needed by the members, 
+especially circuit design-IP surrounding foundry process design kits
+• An “app-store”-like environment where users can exchange integrated circuit design-IP under 
+standardized licensing and support terms for basic R&D as well as for commercial use, as deter-
+mined by the owner of the circuit design-IP 
+• A catalog of IP generated from NSTC-sponsored projects, along with a pre-defined set of contrac-
+tual obligations to determine the ownership of that IP; IP may be owned or co-owned by mem-
+bers or the NSTC itself
+• A catalog of circuit design-IP from NSTC-sponsored projects and, to the extent possible, of other 
+federal agencies, that is made available for license at a reasonable cost
+• A resource to help trace the provenance of circuit design-IP, both to ensure it is secure and to 
+prevent piracy of proprietary information
+• Collaboration between commercial EDA vendors and universities or startups to consider interop-
+erability via industry standard tool formats or application programming interfaces (API’s) that 
+would allow EDA innovations (open source or proprietary) to more tightly integrate and leverage 
+commercial tool investment, adoption, and support.
+The community has suggested options in licensing that the NSTC could consider in partnership with 
+providers of EDA tooling and integrated IP: 
+• Enabling the contribution of circuit design-IP under standard contributor license agreements
+• Allowing NSTC members to access NSTC EDA resources using their own existing licenses (“bring 
+your own license”)
+• Subsidizing EDA and circuit design-IP license access for U.S. government agencies, universities, 
+and early-stage startups
+• Developing, promoting, and supporting existing or new licensing models that improve community 
+access, such as a non-commercial, research-only licenses at low or no cost
+=== PAGE 19 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+ 17
+Data sets: The Department envisions a role for the 
+NSTC in collecting, aggregating, and sharing data 
+sets that enable benchmarking and operational 
+improvements, tools development, the creation of 
+digital twins, and training AI models. The NSTC could 
+develop a methodology for the voluntary sharing of 
+data that protects the proprietary component and 
+national security while enabling access to appropriate 
+performance data. To start, the NSTC could publish 
+non-proprietary process, materials, and performance 
+data from NSTC-operated and affiliated technical 
+centers. In addition, the NSTC could use the multi-
+project wafer programs to collect certain process and 
+circuit measurement data to add to the data sets. 
+These data sets should be available to NSTC members 
+under clear guidelines that could dramatically shorten 
+the time and lower the cost to go from circuit design 
+concept to silicon-proven IP.
+In addition, the NSTC could create a secure data 
+repository where member operating data is reported 
+and aggregated for return to all data contributors. 
+While being meticulous about protecting data privacy, 
+the NSTC could provide significant value in enabling 
+individual companies to compare their data with 
+aggregate industry data, making benchmarking easier 
+and providing a road map for improved operations. 
+Patents: Patents are an important tool that enable 
+companies to publicly disclose technical information, 
+yet profit from their commercialization. The NSTC 
+will develop rules and procedures that protect the 
+ownership of any underlying IP of its members, 
+including clear procedures and expectations on IP 
+disclosure, licensing, and use. As an incentive to 
+encourage participation, the NSTC should strive to 
+make available IP that is generated as a result of NSTC 
+funding to members at a reasonable cost, and to 
+facilitate appropriate IP sharing amongst members. 
+The NSTC may own or co-own IP generated from 
+NSTC-funded projects that it may later attempt to 
+monetize to generate revenue. 
+Workforce Programs
+An innovative and resilient semiconductor industry will 
+require a robust pool of skilled workers in research, 
+development, and construction that is enabled 
+through effective training and career development 
+programs. Workforce development is a priority 
+across both the CHIPS Incentives and Research and 
+Development programs. The February 28, 2023, 
+Notice of Funding Opportunity for Commercial 
+Fabrication Facilities requires companies seeking 
+funding from the CHIPS Incentives program to 
+submit workforce development plans for the workers 
+who will construct and operate their facilities. The 
+CHIPS Program Office has provided an informational 
+workforce development planning guide with examples 
+of strategies applicants can use to meet the goals 
+outlined in the Notice of Funding Opportunity.²⁶ 
+The NSTC is envisioned to serve as a coordinating 
+body and center of excellence to help scale the 
+technical workforce—including scientists, engineers, 
+and technicians—while leveraging the many 
+semiconductor-related workforce activities funded 
+by the U.S. government. The CHIPS R&D Office is 
+working closely with federal agencies to coordinate 
+semiconductor workforce programs such as through 
+the SML, with NSF and its extensive portfolio of 
+education and training programs, and with efforts at 
+the DOD and other agencies. The CHIPS R&D Office’s 
+workforce strategy document is planned for release at 
+a future date.
+The NSTC can facilitate workforce expansion by 
+providing support to scale-up existing quality training 
+programs and to develop and test novel training 
+approaches. Expanding the pool of engineers and 
+technicians necessitates reaching out to individuals 
+from underserved communities who are historically 
+underrepresented in the semiconductor industry. The 
+NSTC workforce programs will include a focus on 
+recruiting, training, and retaining these workers.
+To achieve these goals, the NSTC should: 
+1. Collaborate with industry, educational 
+institutions, government agencies, and 
+government-funded research institutions to 
+identify and scale gold-standard education 
+models, experiential learning, and training 
+programs that consistently meet industry 
+needs 
+2. Create a clearinghouse to collect and 
+disseminate a wide range of information on 
+research, best practices, and opportunities in 
+education, experiential learning, and workforce 
+training programs 
+3. Advance opportunities for career exploration 
+in semiconductors and related microelectronics 
+=== PAGE 20 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+18 
+design fields, including individuals from 
+underserved communities
+4. Serve as a collaborative space to solve industry 
+workforce challenges by convening, aligning 
+resources, or otherwise providing support as 
+industry needs arise 
+The NSTC should strongly encourage adoption and 
+use of the DEIA principles as detailed in the Good 
+Jobs Principles⁸ and the Department’s workforce 
+investment best practices.²⁷ 
+Identify and Scale Proven 
+Education Models
+The NSTC should convene industry and educational 
+institutions to identify hiring needs, challenges in 
+the existing workforce pipeline, and evidence-based 
+strategies to overcome those challenges. The NSTC 
+should consider convening a group of experts focused 
+on workforce to guide its efforts and investments. 
+Frameworks. In coordination with stakeholders, the 
+NSTC should facilitate the ongoing development, 
+maintenance, and adoption of common semiconductor 
+industry occupational frameworks to identify 
+significant skills gaps and identify emerging skills 
+needs. A common framework would enable the 
+development of curricula, skills, and credentials for a 
+variety of programs. By adopting a common language, 
+skills, and credentials, a framework would support 
+transferable and consistent education and training 
+that allows employers to easily recruit workers and 
+enable mobility within the industry. An example of this 
+approach is the National Initiative for Cybersecurity 
+Education (NICE) Framework.²⁸ 
+In collaboration with external stakeholders, the 
+NSTC framework will build a common lexicon of 
+tasks, knowledge, and skills for the semiconductor 
+technical workforce. The NSTC should inventory 
+and integrate duplicative efforts already underway 
+by stakeholders and similar models in related 
+fields, such as the Semiconductor-Nanotechnology 
+Manufacturing Competency Model developed by the 
+Competency Model Clearinghouse.²⁹ Such a workforce 
+framework is a key step in developing industry-wide 
+apprenticeships and certificates that can benefit both 
+employers and employees. The NSTC’s support of a 
+Learning and Employment Record³⁰ program would 
+similarly help jobseekers communicate their relevant 
+skills to employers. As semiconductor technology 
+evolves, this model should be updated with skills 
+needs identified by all stakeholders.
+Technical training. The NSTC should identify 
+opportunities to scale existing evidence-based training 
+programs, particularly those that have demonstrated 
+an ability to attract potential employees, 
+representative of the United States population. 
+Effective training opportunities are needed to train 
+prospective workers in non-degree and advanced 
+degree programs, and in programs in between. Many 
+career technical education centers and community 
+colleges have partnered with organizations to help 
+reach students from underserved communities. 
+Some engineering schools across the country have 
+expanded access to computing and engineering 
+programs by, for example, changing the structure 
+of introductory mathematics courses or increasing 
+experiential learning. The NSTC should catalogue 
+methods that work and support their adoption. The 
+NSTC should consider a funding process to enable 
+more programs to adopt techniques that have 
+proven successful.
+Create a Clearinghouse of Information
+The NSTC should create and host a publicly 
+accessible clearinghouse of education and workforce 
+development information to increase standardization 
+and transparency in the field. 
+Workforce Metrics. The NSTC should collect, review, 
+and disseminate metrics about industry employment 
+and training efforts as provided by members and 
+other appropriate organizations to allow evidence-
+based decision making for workforce education or 
+training programs. Examples of workforce metrics 
+include, but are not limited to:
+• Data about industry employment including 
+geographic and demographic information
+• Metrics about the availability, quality, and usage 
+and success rates of training programs, degree 
+programs, internships, apprenticeships, and 
+job openings
+General Resources. The NSTC should collect, review, 
+and disseminate shared resources for semiconductor 
+workforce development and outreach. These resources 
+could include:
+• Evaluations of relevant workforce training and 
+development programs to give guidance to 
+=== PAGE 21 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+ 19
+industry participants in developing or selecting 
+a workforce advancement program
+• Grade-appropriate educational materials 
+for K-12 students to create excitement and 
+curiosity about the semiconductor industry 
+and related microelectronics design career 
+pathways
+• Virtual programming like specialized 
+on-demand courses, virtual tours of 
+semiconductor fabs, and interactive tools for 
+post-secondary learners
+• Leading practices for diversifying the 
+semiconductor workforce like wraparound 
+services, mentorships, and sponsorship 
+programs
+• Information on career pathways for workers 
+wanting to advance their career in the industry, 
+course listings, and options for acquiring 
+industry-recognized credentials
+• Listings of internship and apprenticeship 
+programs
+• Job postings
+Advance Opportunities for Semiconductor 
+Career Exploration 
+and Participation
+Many students and prospective workforce 
+participants, particularly those from underserved 
+communities, are not aware of potential career 
+opportunities in the semiconductor industry. The 
+NSTC should provide both financial and non-financial 
+support to increase interest and participation in 
+the industry. 
+For example, the NSTC could:
+• Create campaigns to increase visibility 
+for careers in the semiconductor industry, 
+highlighting representative role models in a 
+wide range of occupations. The campaigns 
+should be regionally based and include 
+member companies to highlight the unique 
+opportunities available in specific locations
+• To expand access to jobs in the semiconductor 
+industry, develop programs that provide 
+financial and non-financial support through 
+grants, fellowships, and scholarships³¹ that 
+enhance student success
+• Provide programmatic support (e.g., career 
+planning, mentorship, sponsorship, and 
+cohort programs) and additional funding to 
+scholarship and fellowship recipients 
+• Develop a program for professionals from 
+member companies to guest teach and mentor 
+students at schools, community colleges, 
+or universities in the region or at regional 
+Manufacturing USA institutes
+• Create a fund to upgrade educational 
+laboratory facilities at universities, including 
+MSIs and tribal colleges around the country, 
+enabling more experiential learning for both 
+teachers and students
+It is expected that the NSTC workforce development 
+portfolio will evolve over time as industry needs 
+change and as the community provides feedback on 
+direct workforce efforts.
+Membership Programs 
+and Services
+The NSTC will be a membership organization that 
+thrives best with active participation and provides 
+significant value to all its members. The Department 
+expects a flexible membership structure with different 
+fees by scale of institution and by industry sector with 
+the objective of making membership attractive and 
+accessible to all parts of the community including: 
+• Fabless semiconductor companies
+• Semiconductor customers who design their 
+own chips 
+• Research institutions and community colleges
+• State and local governments
+• Federal agencies, national labs, and federally-
+funded labs
+• Foundries and integrated device manufacturers
+• Equipment vendors and materials suppliers
+• Labor unions
+• Investors 
+It is anticipated that specific programs may require 
+additional fee structures.
+The Department anticipates that international 
+companies and research organizations will be able to 
+participate in the NSTC subject to restrictions imposed 
+by law. Foreign entities of concern and entities 
+owned, controlled by, or subject to the jurisdiction of 
+a foreign country of concern will not be eligible for 
+membership.³² Additional guidance for international 
+companies will be developed. The Department 
+expects that most NSTC-funded work will take place 
+at facilities and institutions located in the U.S.
+=== PAGE 22 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+20 
+Investment Fund and Startup Support
+As the costs and time required to progress from idea 
+to commercialization have escalated, it has become 
+harder for universities and emerging companies to 
+bring new ideas to the market. The significant amount 
+of capital required at the early stages requires highly 
+dilutive investment capital, discouraging innovation. 
+Supporting the advancement of many new ideas is an 
+important objective that cuts across many program 
+areas in the NSTC including providing low-cost and 
+reliable access to the physical and digital assets 
+described here, and managing a multi-project wafer 
+program, incubation services, and IP licensing support.
+One of the important programs detailed in the Act 
+is the NSTC Investment Fund. The Department 
+foresees the following important characteristics as the 
+Investment Fund strategy is developed:
+• A structure designed to help startups reduce 
+risk and accelerate milestones in order to 
+attract significant private capital
+• A collaboration with other U.S. government 
+entities that have similar objectives 
+• A collaboration with private sector venture, 
+corporate, and strategic investors that 
+bring substantial expertise to assessing and 
+structuring financings
+• A portfolio approach, with balanced risk across 
+investments
+• Entrepreneurial support
+The Department expects that the NSTC will hire a 
+manager of the investment fund with substantial 
+private sector investment and technology 
+development experience to guide this effort.
+GOVERNANCE
+The Department desires to create an NSTC that can be 
+agile, fast-moving, flexible, responsive to industry and 
+researcher needs, and accountable to taxpayers. The 
+integrity of the NSTC is paramount, and it is essential 
+that it is viewed throughout the ecosystem as neutral, 
+trusted, and science-driven. In order to best effectuate 
+the Department’s vision to establish the NSTC as a 
+once-in-a-generation, transformative center that can 
+endure for decades, the NSTC must have world-class 
+leadership that is visionary, dedicated to the aims of 
+the NSTC, and committed to the public interest. 
+The Secretary of Commerce, in collaboration with the 
+Secretary of Defense, will establish the NSTC through 
+the creation of a public-private consortium as required 
+by the Act. The Department has also considered the 
+appropriate governance structure for the operations 
+of the NSTC. It has reviewed governance structures of 
+analogous organizations such as SEMATECH, and 
+MEMBERSHIP STRUCTURE: COMMUNITY INPUT
+The following benefits have been requested as part of the membership structure, and could be 
+included either in the base fee or as an ad hoc cost:
+• Use of technical centers 
+• Access to research and development programs, technical expertise, emerging materials and 
+process technologies, and manufacturing test vehicles 
+• Access to digital assets, such as EDA and design enablement tools, IP, and aggregated data sets 
+• Facilitated access to multi-project wafers at leading-edge and mature foundries
+• Access for startups to a nurturing ecosystem, including resources such as incubation support, 
+IP-licensing guidance, convening opportunities that introduce startups to interested investors, and 
+coordination with the efforts of other federal agencies
+• Participation in the groups that advise the NSTC leadership on different program objectives
+• Participation in industry convenings including groups focused on road maps, standards, and  
+grand challenges
+• Participation in training, workforce development, technical exchange programs, and access to the 
+workforce data clearinghouse
+=== PAGE 23 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+ 21
+has considered the structures of various consortia, 
+independent research organizations, federally funded 
+research and development centers, universities, 
+and allies’ research organizations, among others. 
+In addition, the Department reviewed the input of 
+PCAST, the IAC, industry coalitions and associations, 
+and feedback we received from stakeholders across 
+the country. 
+Based on this research and stakeholder input, the 
+Department anticipates the creation of a new, 
+purpose-built, independent, nonprofit entity with the 
+requisite neutrality, expertise, leadership, and capacity 
+to serve as the operator of the NSTC. The Department 
+anticipates entering into an agreement with the NSTC 
+operator that, among other things, will detail the 
+processes for receiving government funds to support 
+the NSTC’s statutory responsibilities, reporting on 
+NSTC activities, and ensuring taxpayer accountability.
+Operating Model
+The NSTC seeks to encourage broad participation 
+across the entire semiconductor ecosystem. Specific 
+benefits for different categories of members will vary, 
+but all members should benefit from being part of 
+the community. The NSTC will stay relevant only if it 
+is serving the needs of its members. The NSTC should 
+be structured with a careful balance between the 
+proprietary interests of individual companies and the 
+interests of the community. 
+The NSTC will determine the appropriate mix of 
+programs and whether they are executed through 
+in-house resources or in collaboration with other 
+entities. The Department envisions the NSTC utilizing 
+several approaches to achieve its goals including 
+providing funding for collaborative projects, providing 
+fee-for-service capabilities to members and the 
+community, and convening and facilitating joint 
+program development and road mapping activities. 
+Figure 4. A conceptual model of the operational structure of the NSTC.
+=== PAGE 24 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+22 
+The NSTC will develop a network of technical centers 
+with input from stakeholders. The network should 
+ensure effective integration and workflow between 
+centers and accessibility to all members. 
+The NSTC should determine how best to engage 
+advisors from industry and educational institutions 
+to provide input on technical programs, workforce 
+development, or other activities as needed.
+Financial Model
+The Department is developing a financial model to 
+inform the broad strategic direction for the NSTC. The 
+Act appropriated funding for five years. Using these 
+funds as a catalyst, the Department’s ambition is to 
+create a consortium that can fund multi-year research 
+programs to tackle long-term strategic challenges, 
+enable major facilities and virtual assets, and create a 
+program that can last for decades. The Department’s 
+financial model will explore potential revenue sources 
+and enumerate likely costs over a period of ten years. 
+Possible revenue sources for the NSTC, beyond 
+funding from the Department as detailed in the Act, 
+include membership fees, program service fees, 
+returns from the investment fund, IP licensing fees, 
+royalties, state and local government support, other 
+federal agency participation, and philanthropy. The 
+Department will work closely with the NSTC to ensure 
+a financial model that serves the needs of the nation.
+Measures of Success 
+and Metrics
+The NSTC represents a substantial investment for 
+U.S. taxpayers. As such, it will be critical for the 
+NSTC operator and the CHIPs R&D Office to work 
+together to establish appropriate metrics and a 
+common understanding of what constitutes success. 
+In addition, a good set of metrics will enable the NSTC 
+to better communicate its value to stakeholders and 
+to provide guidance for future program activities. The 
+Department proposes some principles to determine 
+those metrics.
+Measure Against Mission
+Once established, the NSTC will continue to refine 
+its mission and goals and prioritize programs and 
+projects. The CHIPS R&D director will work directly 
+with the NSTC operator to define specific measures 
+of success that are consistent with the Act’s goals 
+and the interests of the taxpayers, and to ensure 
+accountability toward delivering them. The NSTC will 
+need to define key milestones and metrics that show 
+progress relative to its defined measures of success. 
+The NSTC should regularly assess its defined measures 
+of success and derive metrics to ensure that program 
+efforts align with NSTC objectives and current 
+program efforts. The NSTC should establish a policy to 
+conduct these assessments as part of establishing new 
+programs or revising existing programs.
+Establish Measurement Infrastructure
+The NSTC should establish the organizational 
+infrastructure (e.g., systems and processes) 
+necessary to assess progress toward meeting the 
+defined measures of success. The NSTC should 
+leverage existing resources and established best 
+practices to enhance and guide the development 
+of this infrastructure. The NSTC should coordinate 
+and collaborate on these efforts with relevant 
+organizations while ensuring the protection of 
+proprietary information. The NSTC should use the 
+capabilities provided by this infrastructure to support 
+program efforts, when appropriate. 
+Metrics Should Include Both Quantitative and 
+Qualitative Measurements 
+In addition to reporting on a wide range of specific 
+activities, the NSTC should include qualitative 
+measures in addition to counts of activities and 
+outputs when defining metrics to show success. For 
+example, data elements should include measures of 
+program activities (e.g., number of individuals who 
+receive certification in NSTC-sponsored training 
+programs), leading indicators (e.g., data on post-
+training job placements), evidence of downstream 
+impacts (e.g., research output of trainees), and 
+qualitative factors such as the support and respect 
+of industry members. In addition, metrics should be 
+established for both short- and long-term timeframes.
+Regularly Report and Follow Evaluation Leading 
+Practices
+The NSTC will produce annual reports of its progress 
+toward accomplishing its goals using the measures 
+of success and related metrics, relying primarily 
+on performance measures. These annual evidence-
+building activities will provide regular, systematic 
+updates on the extent to which the NSTC is achieving 
+its intended outcomes and, if not, provides critical 
+=== PAGE 25 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+ 23
+markers that enable the NSTC to adjust its activities as 
+needed. 
+In addition, the NSTC should engage in the practice 
+of conducting rigorous, systematic evaluations via 
+experienced, independent external experts. Rigorous 
+program evaluation activities complement the annual 
+reporting by seeking to answer overall questions of 
+effectiveness. These evaluation activities may include 
+formative, process, outcome, and impact evaluations, 
+as defined by the Office of Management and Budget 
+(OMB), as appropriate for the stage of the component 
+of the NSTC under review and the evaluation questions 
+being asked.³³ Consistent with OMB guidance and the 
+Department of Commerce Program Evaluation policy, 
+these reports should be made available to the public. 
+Evaluation activities should be conducted on a regular 
+cycle with a longer time horizon (e.g., every three to 
+five years) than the schedule on which NSTC publishes 
+its own performance reports. 
+GOING FORWARD
+The Department’s vision is to create an NSTC that 
+can endure for generations. While that will take 
+time, this vision and strategy document provides 
+a critical guide to the path forward. This calendar 
+year, the Department will work to establish the NSTC 
+consortium with public and private representation, 
+and will encourage the establishment of a new, 
+purpose-built, non-profit entity with world-class 
+leadership to operate the consortium. 
+The Department encourages members of the 
+semiconductor community to plan on becoming part 
+of the NSTC, and to consider which program areas 
+are of particular interest and how they will be able 
+to participate in building this important consortium. 
+As the Department proceeds with refining and 
+finalizing these plans, it will continue to engage with 
+participants in the broad ecosystem to ensure that the 
+needs of the community are being addressed.
+CONCLUSION
+The NSTC will provide systems-level research and 
+development with the sophisticated tools, resources, 
+and capabilities needed to build the foundational 
+semiconductor technologies of the future. The 
+NSTC is a challenging and multifaceted endeavor 
+that seeks to balance the needs of a wide range of 
+constituents including government, the private sector, 
+workforce entities, and educational institutions. The 
+Department’s leadership believes that the best way to 
+use the Act’s substantial appropriations, in accordance 
+with the authority granted by the statute, is to create a 
+long-lived center that can manage this complexity and 
+become an engine of innovation for the nation. Such 
+an effort will generate substantial new technology and 
+broad benefits in fulfillment of this exciting mission.
+The Department anticipates that the NSTC will create an open and transparent process to engage the 
+community in building the NSTC, including the following possible areas of collaboration:
+• Participating in research programs, grand challenges, and standard-setting activities
+• Providing a headquarters location and administrative services
+• Proposing a variety of structures for affiliated technical centers
+• Creating the framework for new digital assets, such as the Design Enablement Gateway
+• Proposing assets to be included in the Design Enablement Gateway
+• Executing programs desired by the NSTC, such as providing incubation support to start-ups
+• Participating in programs desired by the NSTC, such as participating in the investment fund
+=== PAGE 26 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+24 
+APPENDIX: DEFINITIONS 
+OF ACRONYMS
+AEC – Automotive Electronics Council 
+AI – artificial intelligence
+API - application programming interface
+ARPA-E - DOE Advanced Research Projects 
+Agency-Energy
+CEO - chief executive officer 
+CHIPS – Creating Helpful Incentives to Produce 
+Semiconductors 
+CMOS – complimentary metal-oxide 
+semiconductor 
+CPO – CHIPS Program Office
+DARPA – Defense Advanced Research Projects 
+Agency 
+DEIA – diversity, equity, inclusion, and 
+accessibility 
+DMREF - Designing Materials to Revolutionize 
+and Engineer our Future, and NSF program
+DOD – Department of Defense 
+DOE – Department of Energy
+EDA – electronic design automation 
+EERE – DOE Office of Energy Efficiency and 
+Renewable Energy
+ERI - Electronics Resurgence Initiative
+ESDA – Electrostatic Discharge Association (also 
+known as EOS/ESD Association) 
+EUV – extreme ultraviolet 
+FuSe - NSF Future of Semiconductors initiative
+IAC - Industrial Advisory Committee
+IEC – International Electrotechnical Commission 
+IEEE – Institute for Electrical and Electronic 
+Engineers 
+IP – intellectual property 
+JEDEC – JEDEC Solid State Technology 
+Association (formally Joint Electron Device 
+Engineering Council) 
+MSI – minority serving institution
+NAPMP – National Advanced Packaging 
+Manufacturing Program
+NDAA – National Defense Authorization Act 
+NGMM - Next-Generation Microelectronics 
+Manufacturing
+NICE – National Initiative for Cybersecurity 
+Education 
+NIH – National Institutes of Health
+NNSA - National Nuclear Security Administration
+NSF – National Science Foundation 
+NSTC – National Semiconductor Technology 
+Center 
+OMB – Office of Management and Budget
+PCAST – President’s Council of Advisors on 
+Science and Technology
+R&D – research and development 
+RAMP-C - DOD Rapid Assured Microelectronics 
+Prototypes - Commercial
+RFI - Request for Information
+RINGS – Resilient & Intelligent NextG Systems, 
+and NSF program
+SBIR - Small Business Innovation Research
+SC - DOE Office of Science
+SEMI – formally Semiconductor Equipment and 
+Materials International 
+SHIP - State-of-the-art Heterogeneous 
+Integration Prototype
+SIA - Semiconductor Industry Association
+SML – Subcommittee on Microelectronic 
+Leadership
+USG – United States government
+=== PAGE 27 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+ 25
+CITATIONS
+¹ Remarks by National Security Advisor Jake 
+Sullivan at the Special Competitive Studies 
+Project Global Emerging Technologies Summit, 
+Speeches and Remarks, The White House, available 
+at https:/ /www.whitehouse.gov/briefing-room/
+speeches-remarks/2022/09/16/remarks-by-
+national-security-advisor-jake-sullivan-at-the-
+special-competitive-studies-project-global-emerging-
+technologies-summit/
+² The William M. (Mac) Thornberry National Defense 
+Authorization Act for Fiscal Year 2021 authorized 
+funding, while the CHIPS Act of 2022 appropriated 
+funding. Pub. L. 116-283, §§ 9901-9908, 134 Stat. 3388, 
+4843-4860 (2021) (codified at 15 U.S.C. §§ 4651-4657), 
+as amended by the CHIPS Act of 2022, Pub. L. 117-167, 
+§§ 101-107, 136 Stat. 1366, 1372-1390 (2022) (codified 
+as amended at 15 U.S.C. §§ 4651-4843)
+³ CHIPS for America, available at https:/ /www.chips.
+gov
+⁴ “The CHIPS Act” or “the Act” refers to the William M. 
+(Mac) Thornberry National Defense Authorization Act 
+for Fiscal Year 2021, Pub. L. 116-283, §§ 9901-9908, 134 
+Stat. 3388, 4843-4860 (2021) (codified at 15 U.S.C. §§ 
+4651-4657), as amended by the CHIPS and Science 
+Act of 2022, Pub. L. 117-167, §§ 101-107, 136 Stat. 1366, 
+1372-1390 (2022) (codified as amended at 15 U.S.C. §§ 
+4651-4843).
+⁵ See National Institute of Standards and Technology 
+(2022) Incentives, Infrastructure, and Research and 
+Development Needs to Support a Strong Domestic 
+Semiconductor Industry: Summary of Responses to 
+Request for Information. (Department of Commerce, 
+Washington, D.C.), NIST Special Publication (SP) NIST 
+SP 1282, available at https:/ /doi.org/10.6028/NIST.
+SP.1282
+⁶ Under 15 U.S.C. 4656(b), the IAC shall be established 
+as an advisory committee to be composed of not 
+fewer than 12 members, including representatives 
+of industry, federal laboratories, and academic 
+institutions, who are qualified to provide advice 
+to the United States Government on matters 
+relating to microelectronics research, development, 
+manufacturing, and policy.
+⁷ The graphic describing the NSTC mission appears 
+as a reproduction from the NSTC Update to the 
+Community released on November 16, 2022 at https:/ /
+www.nist.gov/document/chips-america-national-
+semiconductor-technology-center-update-community
+⁸ See Department of Commerce and Department of 
+Labor Good Jobs Principles, available at https:/ /www.
+dol.gov/sites/dolgov/files/goodjobs/Good-Jobs-
+Summit-Principles-Factsheet.pdf
+⁹ See also Draft National Strategy on Microelectronics 
+Research (for Public Comment (September 14, 2022), 
+available at https:/ /www.whitehouse.gov/wp-content/
+uploads/2022/09/SML-DRAFT-Microlectronics-
+Strategy-For-Public-Comment.pdf 
+¹⁰ Under 15 U.S.C. 4565(d), “ National Advanced 
+Packaging Manufacturing Program
+Subject to the availability of appropriations for such 
+purpose, the Secretary of Commerce shall establish 
+a National Advanced Packaging Manufacturing 
+Program led by the Director of the National Institute 
+of Standards and Technology, in coordination with the 
+national semiconductor technology center established 
+under subsection (c), to strengthen semiconductor 
+advanced test, assembly, and packaging capability in 
+the domestic ecosystem, and which shall coordinate 
+with a Manufacturing USA institute established under 
+subsection (f), if applicable.” (emphasis added)
+The Director may make financial assistance awards, 
+including construction awards, in support of the 
+National Advanced Packaging Manufacturing Program.
+¹¹ G. E. Moore, Cramming More Components Onto 
+Integrated Circuits, Electronics, volume 38, number 8, 
+April 19, 1965, pp. 114 ff.
+¹² W. Arden, M. Brillouët, P. Cogez, M. Graef, B. Huizing, 
+R. Mahnkopf, “More-than-Moore” White Paper, 
+SIA/ITRS (2010).
+See also Bennett, H. and Hutcheson, G. (2011), More 
+than Moore or More Moore: a SWOT analysis, AIP 
+Conference Proceedings, [online], https:/ /tsapps.
+nist.gov/publication/get_pdf.cfm?pub_id=909225 
+(Accessed March 23, 2023)
+¹³ 15 U.S.C. 4565(d) National Advanced Packaging 
+Manufacturing Program 
+Subject to the availability of appropriations for such 
+purpose, the Secretary of Commerce shall establish 
+a National Advanced Packaging Manufacturing 
+Program led by the Director of the National Institute 
+=== PAGE 28 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+26 
+of Standards and Technology, in coordination with the 
+national semiconductor technology center established 
+under subsection (c), to strengthen semiconductor 
+advanced test, assembly, and packaging capability in 
+the domestic ecosystem, and which shall coordinate 
+with a Manufacturing USA institute established under 
+subsection (f), if applicable. The Director may make 
+financial assistance awards, including construction 
+awards, in support of the National Advanced 
+Packaging Manufacturing Program.
+¹⁴ Under 15 U.S.C. 4656(f), the Manufacturing USA 
+Institutes “may emphasize the following: (1) Research 
+to support the virtualization and automation of 
+maintenance of semiconductor machinery. (2) 
+Development of new advanced test, assembly 
+and packaging capabilities. (3) Developing and 
+deploying educational and skills training curricula 
+needed to support the industry sector and ensure the 
+United States can build and maintain a trusted and 
+predictable talent pipeline.” (emphasis added)
+¹⁵ See Manufacturing USA Semiconductor Institutes, 
+87 FR 62080 (October 13, 2022), available at https:/ /
+www.federalregister.gov/d/2022-22221
+¹⁶ See National Institute of Standards and Technology 
+(2022) Strategic Opportunities for U.S. Semiconductor 
+Manufacturing: Facilitating U.S. Leadership and 
+Competitiveness through Advancements in 
+Measurements and Standards. (Department of 
+Commerce, Washington, D.C.), available at https:/ /doi.
+org/10.6028/NIST.CHIPS.1000
+¹⁷ https:/ /www.nist.gov/news-events/news/2023/02/
+biden-harris-administration-launches-first-chips-
+america-funding
+¹⁸ https:/ /www.darpa.mil/program/
+darpa-subterranean-challenge
+¹⁹ P. Gargini, “Roadmap evolution: From NTRS to 
+ITRS, from ITRS 2.0 to IRDS.” 2017 Fifth Berkeley 
+Symposium on Energy Efficient Electronic Systems & 
+Steep Transistors Workshop (E3S). IEEE, 2017.
+²⁰ DOI: 10.1109/
+VLSITechnologyandCir46769.2022.9830253
+²¹ See Report to the President, Revitalizing the U.S. 
+Semiconductor Ecosystem, President’s Council 
+of Advisors on Science and Technology, avail-
+able at https:/ /www.whitehouse.gov/wp-content/
+uploads/2022/09/PCAST_Semiconductors-Report_
+Sep2022.pdf, see page 22. 
+²² Primary standards developing organizations with 
+international technical activity in semiconductors/
+microelectronics include the following: Automotive 
+Electronics Council (AEC), ASTM International (ASTM), 
+Electrostatic Discharge Association (ESDA), Institute 
+of Electrical and Electronics Engineers (IEEE), IPC 
+International, Inc. (IPC), JEDEC Solid State Technology 
+Association (JEDEC), International Electrotechnical 
+Commission (IEC), and SEMI.
+²³ See the Report by the Subcommittee on 
+Research Security Joint Committee on the Research 
+Environment, available at https:/ /www.whitehouse.
+gov/wp-content/uploads/2022/01/010422-NSPM-33-
+Implementation-Guidance.pdf
+²⁴ The fab-to-lab concept captures the idea of using 
+advanced fabrication technology on full wafers to 
+produce high-quality device substrates that can then 
+be cored or diced to enable processing in research 
+systems. These test coupons are then returned to a 
+special back-end-of-line facility to complete device 
+fabrication. 
+²⁵ The DARPA Toolbox Initiative has established a 
+precedent for the use of R&D licenses for targeted 
+projects.
+²⁶ See https:/ /www.nist.gov/document/
+workforce-development-planning-guide
+²⁷ See the Department of Commerce three-pronged 
+approach to workforce development and highly 
+effective workforce investments at https:/ /www.
+commerce.gov/issues/workforce-development
+²⁸ See NIST Special Publication 800-181, Revision 
+1: National Initiative for Cybersecurity Education 
+Workforce Framework for Cybersecurity (NICE 
+Framework), available at https:/ /doi.org/10.6028/NIST.
+SP.800-181r1
+²⁹ See the Semiconductor-Nanotechnology 
+Manufacturing Competency Model at https:/ /www.
+careeronestop.org/CompetencyModel/Competency-
+Models/semiconductor-nanotechnology.aspx
+³⁰ Learning and Employment Records are a secure 
+and detailed record of verified achievements, whether 
+education or training processes, formal or informal, 
+classroom-based or workplace-based, that can easily 
+=== PAGE 29 ===
+CHIPSfor AMERICA CHIPSfor AMERICA
+ 27
+transfer from one job or learning experience to 
+another. See https:/ /www.commerce.gov/sites/default/
+files/2020-09/LERwhitepaper09222020.pdf
+³¹ https:/ /doi.org/10.1177/0002764219869417; https:/ /
+files.eric.ed.gov/fulltext/EJ1234479.pdf; Ceyhan, Gaye 
+D., Alia N. Thompson, Jeremy D. Sloane, 
+Jason R. Wiles, and John W. Tillotson. “The 
+Socialization and Retention of Low-Income College 
+Students: The Impact of a Wrap-Around Intervention.” 
+International Journal of Higher Education 8, no. 6 
+(2019): 249-261.
+³² See definition for the term “foreign entity of 
+concern” under 15 USC § 4651(8).
+³³ See the Memorandum for Heads of Executive 
+Departments and Agencies describing “Phase 4 
+Implementation of the Foundations for Evidence-
+Based Policymaking Act of 2018: Program Evaluation 
+Standards and Practices” at https:/ /www.whitehouse.
+gov/wp-content/uploads/2020/03/M-20-12.pdf
+Disclaimer Statement
+Any mention of companies, organizations, 
+products or services within this document is 
+for informational purposes only and does not 
+imply recommendation or endorsement of any 
+company, organization, product or service.
+Copyright
+This document is a work of the U.S. Government 
+and is not subject to copyright in the United 
+States (see 17 U.S.C. § 105). Foreign rights 
+reserved. All tables and figures in this report, 
+unless otherwise noted, were produced by NIST 
+and DOC employees. Certain content contained 
+within this report, which was not created by 
+U.S. Government employees, may be subject to 
+copyright.
+=== PAGE 30 ===
+CHIPS.gov
+askchips@chips.gov
+HTTPS:/ /WWW. CHIPS.GOV
