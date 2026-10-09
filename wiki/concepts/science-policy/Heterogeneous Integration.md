@@ -10,10 +10,10 @@ aliases:
 summary: "将采用不同半导体材料、制造工艺节点与特定功能特性的独立制造单元（如数字CMOS、射频、光子、高带宽存储器、微机电系统与模拟器件）在高阶微互连基板或三维堆叠结构中紧密集成的工程范式与制造技术，旨在突破单芯片单片集成物理极限，实现后摩尔时代的系统级算力与能耗效能扩展。"
 type: concept
 domain: "science-policy"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/semiconductor
   - theme/science-policy

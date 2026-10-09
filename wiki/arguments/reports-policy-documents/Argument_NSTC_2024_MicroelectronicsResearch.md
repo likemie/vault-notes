@@ -85,9 +85,9 @@ title: "Argument_NSTC_2024_MicroelectronicsResearch"
 argument_key: "Argument_NSTC_2024_MicroelectronicsResearch"
 argument_display_title: "National strategy on microelectronics research (as amended April 2025)"
 argument_kind: "report"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 47
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dcfce7"
 issuing_organization: "Subcommittee on Microelectronics Leadership, National Science and Technology Council"
 publication_place: "Washington, D.C."

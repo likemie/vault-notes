@@ -9,7 +9,7 @@ aliases:
 summary: "贯穿微电子系统从底层材料、电路设计、晶圆制造、异构封装到现场部署全生命周期的安全防护学科与工程实践，旨在防范硬件木马、物理侧信道攻击、逆向工程、供应链伪造与篡改，并在架构根基处建立可度量验证的零信任硬件信任根。"
 type: concept
 domain: "science-policy"
-related_count: 0
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
