@@ -9224,7 +9224,10 @@
       "Megascience Facilities",
       "Megascience projects",
       "大型科研基础设施",
-      "Megascience"
+      "Megascience",
+      "国家大型科研基础设施",
+      "国家用户设施网络",
+      "Federal User Facilities"
     ]
   },
   {
@@ -31375,16 +31378,6 @@
     ]
   },
   {
-    "title": "NSF I-Corps",
-    "type": "fact",
-    "path": "wiki/facts/us/NSF I-Corps.md",
-    "aliases": [
-      "NSF Innovation Corps",
-      "I-Corps",
-      "美国国家科学基金会创新兵团"
-    ]
-  },
-  {
     "title": "Pajaro Dunes Statement of 1982",
     "type": "fact",
     "path": "wiki/facts/us/Pajaro Dunes Statement of 1982.md",
@@ -33560,6 +33553,18 @@
       "国家纳米技术协调基础设施",
       "NNCI",
       "美国国家纳米技术协调基础设施"
+    ]
+  },
+  {
+    "title": "NSF I-Corps",
+    "type": "fact",
+    "path": "wiki/facts/us/NSF I-Corps.md",
+    "aliases": [
+      "NSF Innovation Corps",
+      "I-Corps",
+      "美国国家科学基金会创新兵团",
+      "国家科学基金会创新军团",
+      "Innovation Corps"
     ]
   },
   {

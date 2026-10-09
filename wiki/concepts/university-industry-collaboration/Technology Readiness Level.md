@@ -7,13 +7,13 @@ aliases:
   - Technology Readiness Levels
   - technical readiness level
   - 技术成熟度等级
-summary: "由美国国家航空航天局（NASA）于 1970 年代创设并在全球科技与产业政策中广泛应用的 9 级技术成熟度标准化评估架构（从 TRL 1 基础原理观察到 TRL 9 真实环境运行验证）。在深科技转化中，TRL 4–6 构成大学实验室与规模化量产之间的“死亡之谷”；通过中试验证平台、洁净室跨界共置与概念验证项目，能够有效桥接早期科学突破向工业级成熟度的演进。"
+summary: "由美国国家航空航天局（NASA）于 1970 年代创设并在全球科技与产业政策中广泛应用的 9 级技术成熟度标准化评估架构（从 TRL 1 基础原理观察到 TRL 9 真实环境运行验证）。在国家微电子战略中，TRL 4–7 构成大学实验室与规模化量产之间的核心中试断层；通过全要素中试平台、共享设计赋能网关（DEG）与洁净室跨界共置，能够有效桥接早期科学突破向工业级成熟度的演进并实现双向闭环反馈。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 38
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 43
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - concept/university-industry-collaboration
   - theme/innovation
@@ -21,6 +21,7 @@ tags:
   - theme/commercialization
   - theme/deep-tech-manufacturing
   - level/higher-education
+  - theme/semiconductor
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Research Translation]]"
@@ -40,6 +41,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Cost of Ownership]]"
   - "[[Variable]]"
+  - "[[Translational Research]]"
   - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods:
@@ -59,16 +61,20 @@ related_facts:
   - "[[Educational Services Australia]]"
   - "[[Department of Energy]]"
   - "[[CHIPS and Science Act]]"
+  - "[[National Strategy on Microelectronics Research]]"
+  - "[[Microelectronics Commons]]"
+  - "[[Natcast]]"
 related_arguments:
   - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
   - "[[Argument_Zhuo_2026_ICE]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_NIST_2023_NSTC]]"
+  - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 
 # Technology Readiness Level
@@ -231,6 +237,7 @@ updated: 2026-10-09
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson (2025)]] — 深入剖析[[University Spin-Out|大学衍生企业]]在 TRL 3–5 面临的企业试点与 [[Corporate Venture Capital|CVC]] 融资壁垒，论证[[Proof of Concept Programs|概念验证项目]]与[[Non-dilutive Funding|非稀释性资助]]的填补作用。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 系统阐述以 [[National Science and Technology Council|NSTC]] 为核心的全要素中试基线、云端 DEG 网关与测试样片机制，实现 TRL 4–7 跨越周期缩短 50% 及 Fab-to-Lab 双向闭环。
+> - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 阐释《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》第二支柱构建联邦化[[Pilot Scale Platform|中试平台]]网络，将 [[National Science Foundation|NSF]]/[[Department of Energy|DOE]] 基础发现（TRL 1–3）与国防部微电子公地（TRL 3–4）、NSTC 300mm 基线及先进封装中试线（TRL 4–7）全链条咬合的顶层设计。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统分析[[Research Universities|研究型大学]]在国家半导体体系中的角色重构，揭示中试共置与共享洁净室如何助力大学贯通 TRL 1 至 TRL 9 创新链条。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，论证开放国家实验室与共享中试试验场以加速硬科技跨越 TRL 4–6 的国家战略。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP (2019)]] — 解析[[University-Industry Collaboration|产学合作]]中从 TRL 3 概念验证到 TRL 7 规模化应用之间的[[Valley of Death|死亡之谷]]与组织纽带。
@@ -247,11 +254,15 @@ updated: 2026-10-09
 > | [[Pilot Scale Platform]] | Concept | 专门用于推进技术在 TRL 4–7 开展工艺放大、[[Reliability\|可靠性]]认证与试生产的共性基础设施。 |
 > | [[Proof of Concept Programs]] | Concept | 旨在帮助高校早期实验室成果从 TRL 3 推进至 TRL 4–5 的概念验证资助机制。 |
 > | [[University Spin-Out]] | Concept | 依托高校专利设立的初创企业，其早期发展高度受制于 TRL 成熟度。 |
-> | [[Research Translation]] | Concept | TRL 各阶段跨越所依托的微观与宏观知识[[Transfer Translation Transformation\|转译]]、工程化与制度调试过程。 |
+> | [[Translational Research]] | Concept | TRL 各阶段跨越所依托的微观与宏观知识[[Transfer Translation Transformation\|转译]]、工程化与制度调试过程。 |
+> | [[National Strategy on Microelectronics Research]] | Fact (Policy) | 将建立支撑 TRL 4–7 的联邦化中试平台列为第二核心支柱的国家战略。 |
+> | [[National Semiconductor Technology Center]] | Fact (Organization) | 依据[[CHIPS and Science Act\|芯片法案]]建立的国家级中试转化中心，统筹推进微电子领域 TRL 4–7 中试攻关。 |
+> | [[Microelectronics Commons]] | Fact (Program) | 国防部资助的 8 大区域中试枢纽，承接大学实验室原型向 TRL 3–4 工程放大。 |
+> | [[Natcast]] | Fact (Organization) | 运营国家设计网关并打通 TRL 4–7 流片与封装验证的受托实体。 |
 > | [[National Aeronautics and Space Administration]] | Fact | 1970 年代首创并系统发展 TRL 评估体系的发起机构。 |
-> | [[National Semiconductor Technology Center]] | Fact | 依据[[CHIPS and Science Act\|芯片法案]]建立的国家级中试转化中心，统筹推进微电子领域 TRL 4–7 中试攻关。 |
 > | [[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison & Wilson (2025)]] | Argument | 论述大学衍生企业技术就绪度与企业投资对接的实证研究。 |
 > | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | Argument | 阐明国家半导体技术中心全要素中试平台贯通 TRL 1 至 TRL 9 创新漏斗与双向闭环的战略白皮书。 |
+> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 确立国家微电子顶层战略，系统论述全链条跨越 TRL 转化断层的跨部门中试协作机制。 |
 > | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 论述[[Research Universities\|研究型大学]]在国家半导体体系中依托中试平台贯通 TRL 链条的实证研究。 |
 
 

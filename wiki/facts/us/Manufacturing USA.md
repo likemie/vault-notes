@@ -58,9 +58,12 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[Albany NanoTech Complex]]"
   - "[[ROI Initiative for Unleashing American Innovation]]"
+  - "[[Semiconductor Research Corporation]]"
+  - "[[Joint University Microelectronics Program 2.0]]"
 related_arguments:
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
   - "[[Argument_NIST_2023_NSTC]]"
+  - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
 confidence: high
 status: active
 created: 2026-06-10
@@ -90,6 +93,7 @@ updated: 2026-10-10
 > - **2012–2014 — 试点创立与《RAMI 法案》立法建制** 针对金融危机后美国制造业空心化与德国制造业强劲韧性的制度对比，奥巴马政府在俄亥俄州扬斯敦设立首个国家增材制造创新研究所（America Makes）；2014 年国会通过《振兴美国制造业与创新法案》（RAMI Act），正式授权设立国家制造创新网络（NNMI，后品牌重塑为 Manufacturing USA）。
 > - **2015–2021 — 跨部门网络扩张与前沿领域覆盖** 在商务部、国防部和能源部共同推进下，研究所数量稳步扩展至 16 家以上，广泛覆盖宽禁带半导体（PowerAmerica）、集成光子学（AIM Photonics）、先进复合材料（IACMI）、柔性混合电子（NextFlex）、生物制药制造（NIIMBL）及清洁能源智能制造（CESMII）。
 > - **2022 年至今 — 《[[CHIPS and Science Act|芯片与科学法案]]》与国家半导体研发体系协同** 美国商务部依据《芯片法案》统筹 110 亿美元研发资金，将 Manufacturing USA 深度嵌入国家半导体技术创新矩阵；NIST 与 Manufacturing USA 联合设立全新的**芯片数字孪生与智能制造创新研究所**，与[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）、[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）构建全链条中试与先进制造转化闭环。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11, 21)]]
+> - **2024 年 — 白宫《国家微电子研究战略》下的全链条公私协同** 白宫国家科学技术委员会（NSTC）将 Manufacturing USA 的制造创新研究所（MIIs）确立为国家微电子研发战略第四目标（Goal 4.1）的核心公私合作支柱之一，统筹协调 NSTC、NAPMP、微电子共用体（Microelectronics Commons）以及半导体研究公司（[[Semiconductor Research Corporation|SRC]]）[[Joint University Microelectronics Program 2.0|JUMP 2.0]] 跨校中心，强化中试制造工艺、数字孪生虚拟仿真与微电子技术工人学徒制技能认证。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 39–43)]]
 
 ---
 
@@ -105,7 +109,7 @@ updated: 2026-10-10
 > - **对等出资与风险共担（Cost-Sharing Model）** 实行硬性 1:1 匹配规则，联邦每一美元拨款必须撬动至少一美元的产业界会费、实物捐赠或州政府配套资金，确保研发议题紧密锚定真实工业需求。
 > - **开放共享中试设施与测试床（Shared Pilot Facilities & Testbeds）** 建设工业级先导中试生产线与测试验证平台，允许初创企业和中小制造商以极低边际成本进行工艺参数优化与小批量打样。
 > - **前竞争共性知识产权池（Pre-Competitive IP Licensing）** 研究所产出的前竞争共性技术归联盟共有，会员企业享有非排他性、优惠费率的商业化实施许可，降低专利诉讼壁垒。
-> - **产教融合与制造业劳动力管道** 联合全美社区学院开发微证书与[[Apprenticeship|学徒培训]]课程，将最新中试产线工艺快速转化为产业工人的实操技能。
+> - **产教融合与制造业劳动力管道** 联合全美社区学院开发微证书与[[Apprenticeship|学徒培训]]课程，将最新中试产线工艺快速转化为产业工人的实操技能。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 31–37)]]
 
 ---
 
@@ -115,7 +119,7 @@ updated: 2026-10-10
 > - **半导体与光电子中试枢纽**
 >   - **PowerAmerica（北卡州立大学牵头）** 攻坚碳化硅（SiC）与氮化镓（GaN）宽禁带功率半导体器件制造，加速电动汽车与电网能效革命。
 >   - **AIM Photonics（纽约州立大学/[[Albany NanoTech Complex|Albany NanoTech]] 牵头）** 推进硅光子集成电路晶圆级中试制造与光电协同封装。
->   - **半导体数字孪生制造研究所（CHIPS Manufacturing USA Institute）** 依据《[[CHIPS and Science Act|芯片法案]]》设立，研发晶圆制造与先进封装全生命周期的数字孪生[[Computer Simulation|虚拟仿真]]、智能工艺控制与高精度计量模型。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]
+>   - **半导体数字孪生制造研究所（CHIPS Manufacturing USA Institute）** 依据《[[CHIPS and Science Act|芯片法案]]》设立，研发晶圆制造与先进封装全生命周期的数字孪生[[Computer Simulation|虚拟仿真]]、智能工艺控制与高精度计量模型。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 39–43)]]
 > - **先进材料与增材制造矩阵**
 >   - **America Makes** 增材制造（3D 打印）国家先导研究所，制定航空航天与国防零部件 3D 打印材料标准。
 >   - **LIFT & IACMI** 攻坚轻量化金属合金与先进复合材料汽车结构件制造。
@@ -160,6 +164,8 @@ updated: 2026-10-10
 > | [[Public-Private Partnership in Research]] | Concept | 支撑 Manufacturing USA 运作的核心制度架构，通过 1:1 匹配共担中试研发风险。 |
 > | [[National Semiconductor Technology Center]] | Fact (Organization) | 《[[CHIPS and Science Act\|芯片与科学法案]]》下设立的国家研发枢纽，与 Manufacturing USA 新设半导体研究所深度协同。 |
 > | [[National Advanced Packaging Manufacturing Program]] | Fact (Program) | 先进封装制造计划，与 Manufacturing USA 芯片数字孪生研究所共同构成制造中试支柱。 |
+> | [[Semiconductor Research Corporation]] | Fact (Organization) | 联合开展前竞争微电子共性技术研发，与 Manufacturing USA 形成从大学探索到中试制造的分工协作。 |
+> | [[Joint University Microelectronics Program 2.0]] | Fact (Program) | JUMP 2.0 跨校前沿研究成果通过 Manufacturing USA 制造创新研究所承接并完成工业级中试验证。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 为 Manufacturing USA 体系注资并授权设立半导体专属制造研究所的标志性立法。 |
 > | [[ROI Initiative for Unleashing American Innovation]] | Fact (Policy) | 美国联邦创新政策的制度优化倡议，与 Manufacturing USA 形成软硬兼备的创新协同。 |
 
@@ -168,5 +174,6 @@ updated: 2026-10-10
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 明确将 Manufacturing USA 各研究所纳入国家微电子全链条公私研发合作矩阵（Goal 4.1），与 NSTC、NAPMP 及 JUMP 2.0 协同攻坚芯片数字孪生与先进制造工艺。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP (2019)]] — 比较分析 Manufacturing USA 制造创新研究所与英国 Catapult、德国 Fraunhofer 在公私产学伙伴关系中的治理架构与财务自生机制。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 阐明《[[CHIPS and Science Act|芯片与科学法案]]》框架下[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）、先进封装制造计划（[[National Advanced Packaging Manufacturing Program|NAPMP]]）与 Manufacturing USA 半导体数字孪生研究所的跨部门研发中试衔接网络。
