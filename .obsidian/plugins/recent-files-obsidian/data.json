@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Research Translation",
-      "path": "wiki/concepts/university-industry-collaboration/Research Translation.md"
-    },
-    {
       "basename": "Argument_Zhuo_2026_ICE",
       "path": "wiki/arguments/journal-articles/International and Comparative Education/Argument_Zhuo_2026_ICE.md"
+    },
+    {
+      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic",
+      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md"
+    },
+    {
+      "basename": "Zhuo_2026_ICE",
+      "path": "sources/Zhuo_2026_ICE.md"
+    },
+    {
+      "basename": "Technology Readiness Level",
+      "path": "wiki/concepts/university-industry-collaboration/Technology Readiness Level.md"
+    },
+    {
+      "basename": "NSF Regional Innovation Engines",
+      "path": "wiki/facts/us/NSF Regional Innovation Engines.md"
+    },
+    {
+      "basename": "National Science and Technology Council",
+      "path": "wiki/facts/us/National Science and Technology Council.md"
+    },
+    {
+      "basename": "Research Translation",
+      "path": "wiki/concepts/university-industry-collaboration/Research Translation.md"
     },
     {
       "basename": "Competitiveness",
@@ -71,10 +91,6 @@
     {
       "basename": "Research Universities",
       "path": "wiki/concepts/higher-education/Research Universities.md"
-    },
-    {
-      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic",
-      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md"
     },
     {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch18",
@@ -183,22 +199,6 @@
     {
       "basename": "Founder Culture",
       "path": "wiki/concepts/political-economy-geopolitics/Founder Culture.md"
-    },
-    {
-      "basename": "Innovation Desert",
-      "path": "wiki/concepts/science-policy/Innovation Desert.md"
-    },
-    {
-      "basename": "Plato",
-      "path": "wiki/persons/greece/Plato.md"
-    },
-    {
-      "basename": "Scapegoat Mechanism",
-      "path": "wiki/concepts/political-economy-geopolitics/Scapegoat Mechanism.md"
-    },
-    {
-      "basename": "Sage",
-      "path": "wiki/concepts/chinese-philosophy/Sage.md"
     }
   ],
   "omittedPaths": [],
