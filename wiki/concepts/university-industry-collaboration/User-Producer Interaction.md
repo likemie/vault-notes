@@ -9,7 +9,7 @@ aliases:
 summary: "由本格特-奥克·伦德瓦尔等演化经济学家提出、后成为国家创新系统微观基础的核心概念；指技术装备和先进材料的供应企业与下游行业用户之间持续开展的非正式、双向且制度化的信息交换、协同开发与反馈网络；强调技术创新不仅源于实验室科学推动，更依赖于供需双方在地理与文化邻近性基础上形成的日常互动学习，是决定复杂技术扩散速度与比较优势形成的关键微观机制。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
