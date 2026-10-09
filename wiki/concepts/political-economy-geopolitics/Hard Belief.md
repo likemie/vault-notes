@@ -2,8 +2,6 @@
 title: Hard Belief
 aliases:
   - 硬信念
-  - 软信念
-  - soft belief
   - hard beliefs
 summary: "政治哲学与思想史概念，指具备超越自利、承受公众非议并愿意为之承担现实代价与声誉风险的实质信念；与缺乏代价意识、流于合规避险与道德姿态的软信念形成鲜明对立。"
 type: concept

@@ -8980,8 +8980,6 @@
     "path": "wiki/concepts/political-economy-geopolitics/Hard Belief.md",
     "aliases": [
       "硬信念",
-      "软信念",
-      "soft belief",
       "hard beliefs"
     ]
   },
@@ -9504,6 +9502,15 @@
       "汉化",
       "中国化",
       "sinicization"
+    ]
+  },
+  {
+    "title": "Soft Belief",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Soft Belief.md",
+    "aliases": [
+      "软信念",
+      "soft beliefs"
     ]
   },
   {

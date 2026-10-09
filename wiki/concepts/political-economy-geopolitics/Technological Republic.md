@@ -5,7 +5,7 @@ aliases:
 summary: "国家战略力量、公共福利与民主合法性同前沿科技与软件工程深度绑定的政治经济体制形态。强调国家战略与技术共同体结盟，以软件硬实力与人工智能威慑替代原子时代工业化防御；破除胜者谬误、大构想饥荒与创新荒漠，依托审美品味、创始人长期主义、全员所有权社会与实质伦理美德，在微观工程思维与宏观国家使命中重构自由民主政体的地缘优势与社会治理效能。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 113
+related_count: 114
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Establishment Caste]]"
   - "[[Buen Vivir]]"
   - "[[Hard Belief]]"
+  - "[[Soft Belief]]"
   - "[[Cognitive Decoupling]]"
   - "[[Western Civilization Course]]"
   - "[[Canon Wars]]"
@@ -404,7 +405,7 @@ updated: 2026-10-09
 
 > [!claim] Karp, Zamiska & Sandel (2025/2012)
 > **所有权社会与创始人文化破除创新荒漠断言** 卡普与扎米斯卡结合政治哲学家[[Michael Sandel|迈克尔·桑德尔]]（Michael Sandel）对市场凯旋主义的批判指出，仅靠自由市场[[Wisdom of Crowds|群体智慧]]无法自发解决公共领域的资本错配与创新荒漠：
-> 1. **破除消费逃避与奢侈信念** 批判科技精英沉溺于为富人提供微观便利的消费软件，或将对公共部门的工程援助贬低为道德不洁（如针对[[Predictive Policing|预测性警务]]的意识形态攻讦）；
+> 1. **破除消费逃避与[[Soft Belief|软信念（奢侈信念）]]** 批判科技精英沉溺于为富人提供微观便利的消费软件，或将对公共部门的工程援助贬低为道德不洁（如针对[[Predictive Policing|预测性警务]]的意识形态攻讦）；
 > 2. **克服官僚避险与政治犬儒主义** 剖析公共部门在防卫型科层制与人事规章束缚下丧失建构野心、退化为假装创新的停滞病理；
 > 3. **确立工程师的实效伦理与创始人文化** 强调重构技术共和国的根本在于将创始人文化注入公共机构——选拔具有利益绑定的领导者，以减少犯罪、贫困、疾病与教育赤字等物理世界的客观实效为最高伦理准绳。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 165–178)]]
 
@@ -442,7 +443,7 @@ updated: 2026-10-09
 > | **正典解构与求真理性断裂** | 批判通识正典瓦解切断文明历史锚桩，以认知脱钩求真重建战略理性 | 麦克尼尔世俗公民宗教；断线气球危机；阿皮亚/萨义德叙事批判；奈特·银认知脱钩 | [[William H. McNeill\|McNeill]] (1986); [[Kwame Anthony Appiah\|Appiah]] (2018); [[Nate Silver\|Silver]] (2024); [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
 > | **微观工程组织与心理基石** | 破除科层制盲从与内耗，以群智能、建设性不服从与社交失聪铸就组织敏捷性 | [[Eck Swarm Experiment\|埃克蜂群]]与椋鸟群飞；[[Role-playing\|即兴戏剧]]与影子层级；反盲从心理机制 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025, Ch. 9–12) |
 > | **采购法治与商用优先** | 破除军工成本加成垄断，以商用现成法定优先与司法诉讼打破官僚避险 | 约翰·格伦 FASA 1994 改革；10 U.S.C. § 2377 商用优先；[[Palantir Technologies\|帕兰提尔]]诉陆军案 | [[John Glenn\|Glenn]] (1994); [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025, Ch. 13) |
-> | **所有权社会与创始人文化** | 重构创始人文化与实效伦理，打破科技消费逃避与公共政治犬儒，消灭创新荒漠 | 桑德尔市场凯旋主义批判；破除奢侈信念；建立结果导向与利益绑定机制 | [[Michael Sandel\|Sandel]] (2012); [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025, Ch. 15) |
+> | **所有权社会与创始人文化** | 重构创始人文化与实效伦理，打破科技消费逃避与公共政治犬儒，消灭创新荒漠 | 桑德尔市场凯旋主义批判；破除[[Soft Belief\|软信念]]（奢侈信念）；建立结果导向与利益绑定机制 | [[Michael Sandel\|Sandel]] (2012); [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025, Ch. 15) |
 > | **审美品味与长期主义综合** | 以审美品味、创始人长期主导、全员股权所有权社会与实质伦理美德重铸共和国 | 法伦布拉赫/普渡创始人实证；奥德修斯自愿约束；全员股权；君子美德超越罗尔斯中立 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025, Ch. 18); Fahlenbrach (2009); Lee et al. (2016) |
 
 ---
