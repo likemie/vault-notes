@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 43
+fact_related_count: 44
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -51,6 +51,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Kenneth Burke]]"
   - "[[Mariana Mazzucato]]"
   - "[[Alfred Nobel]]"
   - "[[Venkatesh Narayanamurti]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Department of Energy
@@ -103,7 +104,7 @@ updated: 2026-10-08
 
 > [!dev-timeline] 组织发展历程
 > - **1942–1977 — 战时军工起源与机构整合期** 源于[[Manhattan Project|曼哈顿工程]]建立的洛斯阿拉莫斯、橡树岭等绝密实验室，历经原子能委员会（AEC）与能源研发署（ERDA），逐步从单一核武器研制拓展至核动力堆、受控核聚变与辐射生物学研究（包括后来成为[[Human Genome Project|人类基因组计划]]发端的基础工作）。
-> - **1977–2000 — 内阁设部与[[Big Science|大科学]]基础设施确立** 1977 年正式成立能源部，将分散的国家实验室群整合为统一的国家科研基础设施基地；在 1990 年代末，能源部劳伦斯利弗莫尔、劳伦斯伯克利与桑迪亚三大国家实验室组建“虚拟国家实验室”（Virtual National Laboratory, VNL），深度协同英特尔等工业巨头组建 [[EUV LLC]] 产学研财团，历时四年攻克极紫外光刻核心技术原型。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 44)]]
+> - **1977–2000 — 内阁设部与[[Big Science|大科学]]基础设施确立** 1977 年正式成立能源部，将分散的国家实验室群整合为统一的国家科研基础设施基地；在 1990 年代末，能源部劳伦斯利弗莫尔、劳伦斯[[Kenneth Burke|伯克]]利与桑迪亚三大国家实验室组建“虚拟国家实验室”（Virtual National Laboratory, VNL），深度协同英特尔等工业巨头组建 [[EUV LLC]] 产学研财团，历时四年攻克极紫外光刻核心技术原型。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 44)]]
 > - **2009 — 危机应对与颠覆性绿色创新机制爆发** 在《美国复苏与再投资法案》（ARRA）支持下，正式启动高级能源研究计划署（[[ARPA-E|Advanced Research Projects Agency-Energy]], [[DARPA|ARPA]]-E，借鉴 [[DARPA]] 模式），设立能源前沿研究中心（EFRCs），并通过第 1705 条款清洁能源贷款担保计划向特斯拉等企业注入数十亿美元风险贷款。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 > - **2022 — [[CHIPS and Science Act|芯片法案]]授权与科研基础扩容** 依据《[[CHIPS and Science Act|芯片与科学法案]]》，科学办公室获授权在五年内新增 305 亿美元预算，重点通过竞争性课题流向高水平[[Research Universities|研究型大学]]实验室，与国家实验室协同攻坚清洁能源、量子计算与先进材料。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
 > - **2025–2026 — [[Genesis Mission|创世纪计划]]领航与国家人工智能科研基础设施重塑** 白宫签署国家安全总统备忘录启动[[Genesis Mission|创世纪计划]]（Genesis Mission），指定 DOE 为牵头联邦机构，统筹 17 所国家实验室打造“美国科学与安全平台”（ASSP），组建涵盖 24 家顶级产学研机构的“[[Transformational AI Models Consortium|变革性人工智能模型联合体]]”（Transformational AI Models Consortium），并在全美实验室部署自主闭环机器人合成与表征设施，同时全面落实 2025 年核能监管改革行政命令。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 61–63, 67–68)]]
@@ -120,7 +121,7 @@ updated: 2026-10-08
 
 > [!pathways]- 业务运行机制
 > - **跨学科[[Megascience Installations|大科学装置]]共享与开放利用** 集中投资数十亿美元研制极端光源、散裂中子源与百亿亿次超算平台，不仅服务于基础研究，更根据 2026 年新战略向商业初创企业开放机时，大幅降低先进材料与生物技术的研发门槛。
-> - **闭环自主实验室（Closed-Loop Autonomous Labs）** 依托劳伦斯伯克利国家实验室（LBNL）的 A-Lab（无机固态材料自主合成）与阿贡国家实验室（ANL）的 Polybot 等闭环平台，融合 AI 预测、机器人自主操作与原位表征，将新材料合成周期由数月压缩至数小时。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 62)]]
+> - **闭环自主实验室（Closed-Loop Autonomous Labs）** 依托劳伦斯[[Kenneth Burke|伯克]]利国家实验室（LBNL）的 A-Lab（无机固态材料自主合成）与阿贡国家实验室（ANL）的 Polybot 等闭环平台，融合 AI 预测、机器人自主操作与原位表征，将新材料合成周期由数月压缩至数小时。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 62)]]
 > - **任务驱动的组合式项目管理（Portfolio Risk Approach）** 在重大技术攻坚中采用风险投资组合策略，同时布局多种互补或竞争的技术路线，以全局战略突破对冲单点试错风险。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 > - **战略性工艺平台与前沿制造托底** 针对市场无力承担的长周期基础工艺（如高温超导薄膜制造、高纯浓缩铀供应链），由公共预算与国防生产法（DPA）授权直接托底，维系国家工艺知识与制造韧性。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 67–68)]]
 
@@ -132,7 +133,7 @@ updated: 2026-10-08
 > - **[[Megascience Installations|大科学装置]]与物理基石** 运营先进光子源（APS）、国家同步辐射光源二期（NSLS-II）与散裂中子源（SNS）在内的全球顶尖科研设施。
 > - **超级计算与数值模拟平台** 研制 Frontier、Aurora、Summit 等百亿亿次级（Exascale）超级计算机，构筑全美科学 AI 模型训练的核心算力基座。
 > - **[[Transformational AI Models Consortium|变革性人工智能模型联合体]]（Transformational AI Models Consortium）** 聚合 24 家产学研伙伴，依托 DOE 独有的物理、材料、燃烧与聚变实验数据集，联合训练跨学科科学基座大模型。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 61–63)]]
-> - **先进制程光刻研发母体（[[EUV LLC]] 产学研财团）** 1997 年依托利弗莫尔、伯克利与桑迪亚国家实验室组建虚拟国家实验室（VNL），与英特尔、AMD 等企业联合攻坚，完成了极紫外光刻（EUV）物理可行性验证与核心专利沉淀。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 44)]]
+> - **先进制程光刻研发母体（[[EUV LLC]] 产学研财团）** 1997 年依托利弗莫尔、[[Kenneth Burke|伯克]]利与桑迪亚国家实验室组建虚拟国家实验室（VNL），与英特尔、AMD 等企业联合攻坚，完成了极紫外光刻（EUV）物理可行性验证与核心专利沉淀。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 44)]]
 > - **颠覆性清洁能源技术孵化（[[DARPA|ARPA]]-E）** 资助固态电池电解质、先进地热钻探与电网级储能技术，攻克高风险工程发明瓶颈。
 > - **国家绿色产业塑造示范** 依托贷款项目办公室在 2009 年向特斯拉（Tesla）注入 4.65 亿美元关键低息贷款，直接催化了全球电动汽车产业的商业化爆发。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 808)]]
 > - **核能复兴与监管加速（核能行政令实施）** 依据 2025 年总统行政令，牵头通过核电功率提升（Uprates）在 2030 年前释放 5 GW 清洁电力，启动 10 座先进反应堆建设，并利用《国防生产法》第三章启动高丰度低浓缩铀（HALEU）燃料供应链兜底采购。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 67–68)]]

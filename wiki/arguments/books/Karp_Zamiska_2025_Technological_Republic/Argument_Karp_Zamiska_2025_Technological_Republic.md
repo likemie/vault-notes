@@ -7,7 +7,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic"
 argument_display_title: "The Technological Republic: Hard Power, Soft Belief, and the Future of the West"
 argument_kind: "book"
-argument_related_count: 213
+argument_related_count: 216
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -107,6 +107,9 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Epistemology]]"
   - "[[Screening Off]]"
+  - "[[Cultural Relativism]]"
+  - "[[Effective Altruism]]"
+  - "[[Civic Rituals]]"
   - "[[Innovation Ecosystem]]"
   - "[[Document]]"
 related_persons:
@@ -357,7 +360,7 @@ updated: '2026-10-09'
 ### 第四部：破除市场必胜论与清教徒式道德纯洁性，以权责对称的创始人文化、审美品味与实质美德重铸技术共和国
 
 > [!book-synthesis] 消灭公共部门[[Innovation Desert|创新荒漠]]、克服公职禁欲悖论、唤醒[[Civic Religion|公民宗教]]与弘扬审美品味的治理重构综合
-> - **递进或修正** 第 15 章（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|Ch15 踏入荒漠]]）、第 16 章（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|Ch16 虔敬及其代价]]）、第 17 章（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch17 未来一千年]]）与第 18 章（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch18 审美视角]]）构成了第四部关于国家治理与精神信念重塑的完整四重批判与建设支柱：第 15 章聚焦外部机制，揭示了在[[Market Triumphalism|市场必胜论]]与特权阶层[[Luxury Belief|炫耀性信念]]主导下，前沿科技如何因政治避险被驱逐出公共领域从而制造了大面积的[[Innovation Desert|创新荒漠]]；第 16 章进一步深入公共治理内部的制度与文化病理，深刻揭露了清教徒式道德纯洁性（Piety）与微薄薪酬制度如何将公职演变为富豪寡头志愿活动或离职变现秀，并通过对比新加坡[[Lee Kuan Yew|李光耀]]务实薪酬挂钩制度与[[Hyman Rickover|里科弗]]遭[[Scapegoat Mechanism|替罪羊机制]]审判的公案，痛陈狭隘程序主义对实干领袖的逆向淘汰；第 17 章将论证从具体制度激励进一步升华至文明与国家生存哲学的维度，借由[[Robin Dunbar|罗宾·邓巴]]的[[Dunbar's Number|邓巴数]]揭示出超大规模现代文明无法自发维系，必须依托安德森所论[[Imagined Community|想象的共同体]]克服生理社交极限，以李光耀与[[Goh Keng Swee|吴庆瑞]]建国工程、卡莱尔[[Great Man Theory|伟人理论]]、勒南[[Everyday Plebiscite|每日公投]]命题及德国[[Walser-Bubis Debate|瓦尔泽-布比斯之争]]论证重塑全民族共享神话与[[Civic Religion|公民宗教]]的必要性；第 18 章则完成了全书的终极政治哲学收官：阐明软件与深科技构建高度依赖审美品味，结合法伦布拉赫与普渡大学实证确立创始人长期主义溢价（Founder Premium）与奥德修斯式自愿自我约束的制度价值，详述硅谷全员股权所有权模式打破资本雇佣异化的创新，并严厉批判鲁斯·本尼迪克特文化相对主义、有效利他主义与[[John Rawls|罗尔斯]]形式[[Value Neutrality|价值中立]]所导致的道德萎缩与虚无主义，主张在公共领域复兴儒家[[Junzi|君子]]（Junzi）式实质美德与制造国家的公民仪式，在个人自由与崇高集体体验中重铸[[Technological Republic|技术共和国]]。（第 15–18 章，pp. 171–218）
+> - **递进或修正** 第 15 章（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|Ch15 踏入荒漠]]）、第 16 章（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|Ch16 虔敬及其代价]]）、第 17 章（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch17 未来一千年]]）与第 18 章（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch18 审美视角]]）构成了第四部关于国家治理与精神信念重塑的完整四重批判与建设支柱：第 15 章聚焦外部机制，揭示了在[[Market Triumphalism|市场必胜论]]与特权阶层[[Luxury Belief|炫耀性信念]]主导下，前沿科技如何因政治避险被驱逐出公共领域从而制造了大面积的[[Innovation Desert|创新荒漠]]；第 16 章进一步深入公共治理内部的制度与文化病理，深刻揭露了清教徒式道德纯洁性（Piety）与微薄薪酬制度如何将公职演变为富豪寡头志愿活动或离职变现秀，并通过对比新加坡[[Lee Kuan Yew|李光耀]]务实薪酬挂钩制度与[[Hyman Rickover|里科弗]]遭[[Scapegoat Mechanism|替罪羊机制]]审判的公案，痛陈狭隘程序主义对实干领袖的逆向淘汰；第 17 章将论证从具体制度激励进一步升华至文明与国家生存哲学的维度，借由[[Robin Dunbar|罗宾·邓巴]]的[[Dunbar's Number|邓巴数]]揭示出超大规模现代文明无法自发维系，必须依托安德森所论[[Imagined Community|想象的共同体]]克服生理社交极限，以李光耀与[[Goh Keng Swee|吴庆瑞]]建国工程、卡莱尔[[Great Man Theory|伟人理论]]、勒南[[Everyday Plebiscite|每日公投]]命题及德国[[Walser-Bubis Debate|瓦尔泽-布比斯之争]]论证重塑全民族共享神话与[[Civic Religion|公民宗教]]的必要性；第 18 章则完成了全书的终极政治哲学收官：阐明软件与深科技构建高度依赖审美品味，结合法伦布拉赫与普渡大学实证确立创始人长期主义溢价（Founder Premium）与奥德修斯式自愿自我约束的制度价值，详述硅谷全员股权所有权模式打破资本雇佣异化的创新，并严厉批判鲁斯·本尼迪克特[[Cultural Relativism|文化相对主义]]、[[Effective Altruism|有效利他主义]]与[[John Rawls|罗尔斯]]形式[[Value Neutrality|价值中立]]所导致的道德萎缩与虚无主义，主张在公共领域复兴儒家[[Junzi|君子]]（Junzi）式实质美德与[[Civic Rituals|制造国家的公民仪式]]，在个人自由与崇高集体体验中重铸[[Technological Republic|技术共和国]]。（第 15–18 章，pp. 171–218）
 > - **成立条件** 这一治理重塑方案依赖于社会勇于打破程序中立与形式合规所制造的道德真空，重振对实质公共善、卓越美德与实战成果的哲学裁判；同时要求制度设计在破除清教徒禁欲主义的同时，以市场化对标激励、[[Founder Culture|创始人文化]]、全员股权所有权社会与超越血缘的公民认同构筑权责与信念对称的长效协同机制。（第 15–18 章，pp. 171–218）
 
 ### 全书理论贡献与制度重构意涵：工程思维、法治采办与技术共和国的立国之本

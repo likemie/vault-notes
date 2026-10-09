@@ -10,7 +10,7 @@ aliases:
 summary: "人工智能伦理学、人机协同与规范技术哲学核心构念，指在自动化与智能系统辅助决策全流程中，人类保持对系统因果链的主动追踪与价值响应能力，主导分歧仲裁与道德裁决权，防止人在回路退化为形式化橡皮图章。"
 type: concept
 domain: "educational-technology"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Paradigm]]"
   - "[[Analytical Stance]]"
+  - "[[Scapegoat Mechanism]]"
   - "[[Variable]]"
   - "[[Epistemic Agency]]"
   - "[[Evaluative Judgement]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Meaningful Human Control
@@ -234,7 +235,7 @@ updated: 2026-10-07
 > > 争论法律法规要求的“人在回路”是否能够真正保障人类控制。
 > >
 > > - **合规程序主义立场** 只要制度上设立了人类签字节点，便已在法律上落实了监管与问责责任。
-> > - **实质规范[[Analytical Stance|批判立场]]（[[Argument_Jovchevski_2026_PT|Jovchevski et al., 2026]]）** 形式化签字往往沦为机构免责的遮羞布与替罪羊机制；若缺乏对算法建议的主动质询与证据反思，人在回路在认知和伦理实质上已荡然无存。
+> > - **实质规范[[Analytical Stance|批判立场]]（[[Argument_Jovchevski_2026_PT|Jovchevski et al., 2026]]）** 形式化签字往往沦为机构免责的遮羞布与[[Scapegoat Mechanism|替罪羊机制]]；若缺乏对算法建议的主动质询与证据反思，人在回路在认知和伦理实质上已荡然无存。
 >
 > > [!axis] 全流程微观人工复核 vs 关键节点分歧仲裁
 > > 争论在大规模数据密集型任务中，人类控制是否要求对每一条数据进行人工复核。

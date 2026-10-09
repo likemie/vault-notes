@@ -8,7 +8,7 @@ summary: "一种通过采集模拟母子对话样本来研究文化学习信念�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 27
+method_related_count: 28
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -55,7 +55,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-04
+updated: 2026-10-09
 ---
 
 # Mother-Child Conversation

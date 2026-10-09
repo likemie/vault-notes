@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 92
+fact_related_count: 93
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -108,6 +108,7 @@ related_facts:
   - "[[Programme for the International Assessment of Adult Competencies]]"
   - "[[PISA for Development]]"
   - "[[Strengthening the Impact of Education Research Project]]"
+  - "[[Whole Earth Catalog]]"
   - "[[Education GPS]]"
   - "[[World Bank]]"
   - "[[Achieve]]"
@@ -127,7 +128,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # OECD
@@ -181,7 +182,7 @@ updated: 2026-10-07
 > - **议程设置** 研判全球宏观经济转型与劳动力技能演进趋势，在教育政策委员会引导下确定跨国比较[[Research Topic\|研究选题]]与新型素养维度（如创新思维、全球素养）。
 > - **研究开发与跨国标准化施测** 研制标准化测评框架与背景[[Questionnaire\|问卷]]，指导各参与国设立的国家项目中心（National Project Centers）进行严密的[[Going Native\|本土化]]双向翻译、抽样与计算机化施测。
 > - **质量控制与同行审查** 采用项目反应理论（Item Response Theory，IRT）与潜[[Variable\|变量]]模型消除跨文化题项偏差，通过发布国别政策[[Peer Debriefing\|同行审议]]报告（Peer Review）形成具有广泛舆论反响的国际比较结论。
-> - **双轨发布与媒介定制策略** 数据发布采取技术中立的国别简报（Country Notes）与高度倡导性的全球概览（[[PISA]] in Focus 及演示幻灯片）双轨分流：前者呈现统计指标，声明数据不直接推导具体政策处方；后者面向大众媒体定制口号化警句与图表分类，为国内行动者选择性剪裁留出缝隙。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 114–116)]]
+> - **双轨发布与媒介定制策略** 数据发布采取技术中立的国别简报（Country Notes）与高度倡导性的[[Whole Earth Catalog|全球概览]]（[[PISA]] in Focus 及演示幻灯片）双轨分流：前者呈现统计指标，声明数据不直接推导具体政策处方；后者面向大众媒体定制口号化警句与图表分类，为国内行动者选择性剪裁留出缝隙。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 114–116)]]
 
 ---
 

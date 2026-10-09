@@ -10,7 +10,7 @@ aliases:
 summary: "18世纪欧洲以理性批判、经验科学、世俗化与普遍人权为核心的现代性奠基运动，主张摆脱未成熟状态，将公共教育确立为培育自主公民、重构公共领域、推进立宪法权与实现永久和平的本体机制；当代延伸至通过科学实践中的证据协商与理性说服培育民主公共审议素养。"
 type: concept
 domain: "educational-philosophy"
-related_count: 64
+related_count: 65
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Cosmopolitanism]]"
   - "[[Historical Amnesia]]"
   - "[[Epistemic Practices]]"
+  - "[[Civic Rituals]]"
   - "[[Junzi]]"
   - "[[Creativity]]"
   - "[[Hard Power]]"
@@ -223,7 +224,7 @@ updated: 2026-10-09
 ### 命题四　启蒙科学分析与道德价值二分的“道德迟钝”预设孕育了当代文化虚无主义，维系启蒙现代性必须以实质伦理美德与公民仪式重塑价值锚桩
 
 > [!concept-lens] 科技文明的哲学反思与实质伦理重建
-> 探讨启蒙运动将科学分析与道德判断二分的认识论遗产在当代高科技社会的异化风险，阐明重铸启蒙技术文明为何必须诉诸实质文化特质与公民仪式。
+> 探讨启蒙运动将科学分析与道德判断二分的认识论遗产在当代高科技社会的异化风险，阐明重铸启蒙技术文明为何必须诉诸实质文化特质与[[Civic Rituals|公民仪式]]。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025, Ch. 18)]]
 > **科学道德迟钝的虚无主义危机与实质美德重铸** 列奥·施特劳斯（Leo Strauss, 1959）深刻揭示，放弃道德视角的“道德迟钝”虽是启蒙运动与近代科学革命的前提，但在实践中将科学与道德截然二分极其困难，被禁止从前门进入的价值判断最终都会从后门溜进；对崇高目标的漠然与随波逐流直接构成了当代西方文化虚无主义的种子。同时，[[John Rawls|约翰·罗尔斯]]（John Rawls, 2005）的形式程序中立抽空了公共生活的文化特质，无法提供精神凝聚力。
@@ -254,7 +255,7 @@ updated: 2026-10-09
 > - **20世纪后半叶 — 启蒙理性的世界文化扩散与世界体系批判** [[Stanford School|斯坦福新制度主义学派]]（Meyer et al., 1997）将战后全球大众教育普及与公民权扩展追溯至源自启蒙理性的普遍[[Cultural Models|文化模型]]扩散；而[[Immanuel Wallerstein|沃勒斯坦]]与[[Robert Arnove|阿诺夫]]（1980, 2009）等现实主义学者则批判其掩盖了资本主义世界经济中核心对边缘的剩余剥削与依附固化。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–106)]]
 > - **20世纪末 — [[Jürgen Habermas|哈贝马斯]]坚守交往理性与未完成的现代性工程** 哈贝马斯提出交往行动理论与宪政爱国主义，主张通过主体间无强迫的理性商谈守护启蒙的批判解放潜能，坚守现代性是一项未完成的崇高工程。
 > - **21世纪初 — 科学[[Practical Epistemology|实践认识论]]与公共民主审议素养** [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] 结合当代科学实践研究，将启蒙理性的公共运用落实到科学教育视阈中以证据评估与理性说服为核心的微观[[Epistemic Practices|认识论实践]]，服务于现代民主公共生活。
-> - **2020年代 — 科技共和国视阈下的启蒙反思与实质美德重铸** [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025)]] 结合列奥·施特劳斯政治哲学，批判启蒙科学分析中的“道德迟钝”与形式中立在当代蜕变为[[Technological Agnosticism|技术不可知论]]与文化虚无主义，倡导以儒家[[Junzi|君子]]美德与国民公民仪式重铸现代技术文明的价值锚桩（pp. 214–218）。
+> - **2020年代 — 科技共和国视阈下的启蒙反思与实质美德重铸** [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025)]] 结合列奥·施特劳斯政治哲学，批判启蒙科学分析中的“道德迟钝”与形式中立在当代蜕变为[[Technological Agnosticism|技术不可知论]]与文化虚无主义，倡导以儒家[[Junzi|君子]]美德与国民[[Civic Rituals|公民仪式]]重铸现代技术文明的价值锚桩（pp. 214–218）。
 
 ---
 
@@ -276,7 +277,7 @@ updated: 2026-10-09
 > > - **自由主义[[Cosmopolitanism|世界主义]]学派** 主张启蒙所倡导的人人平等、科学理性与基本人权具备跨越地域文化的普遍规范价值。
 > > - **后殖民与去殖民理论学者** 批判启蒙运动以“理性 vs 野蛮”的二元对立[[Discourse|话语]]将欧洲文明自封为历史终极尺度，在历史上成为西方殖民征服、[[Hegemony|文化霸权]]输出与压制非西方本土[[Epistemology|认识论]]的道义掩护。
 >
-> > [!axis] 形式程序中立与科学道德迟钝 vs 实质文化特质与公民仪式重铸
+> > [!axis] 形式程序中立与科学道德迟钝 vs 实质文化特质与[[Civic Rituals|公民仪式]]重铸
 > > 围绕启蒙现代性应当坚持[[John Rawls|罗尔斯]]式的普遍程序[[Value Neutrality|价值中立]]，还是必须以具体的文化传统与实质伦理美德为共同体奠基展开论辩。
 > >
 > > - **形式自由主义（Rawls, 2005）** 坚持公共理性应在各种善观念之间保持程序中立，将公民美德限定在公平合作等消极规则之内以维护多元包容。

@@ -5,7 +5,7 @@ aliases:
 summary: "一种跨文化教学元能力，强调后退一步把他者文化和自身文化都作为系统来理解，避免本质化赞美或简单否定"
 type: concept
 domain: "comparative-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -14,6 +14,7 @@ tags:
 - level/higher-ed
 - level/k12
 related_concepts:
+  - "[[Cultural Relativism]]"
   - "[[Stereotype Threat]]"
   - "[[Chinese Learner]]"
   - "[[Hypothesis]]"
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-17'
-updated: 2026-09-29
+updated: 2026-10-09
 ---
 
 # Meta-Cultural Sensitivity
@@ -46,7 +47,7 @@ updated: 2026-09-29
 
 > [!example]
 > - vs 文化能力（cultural competence）— 文化能力通常指掌握**特定文化**的知识和行为规范（如"了解中国文化中的面子概念"）；元文化敏感度则强调**跨文化的元视角**——理解所有文化作为系统如何运作，而非学习某一特定文化的内容。前者学的是"鱼"，后者学的是"渔"
-> - vs 文化相对主义（cultural relativism）— 文化相对主义可能滑向"所有文化实践都应被无差别接受"；元文化敏感度明确要求理解文化"如何可能既有益又有害"（Louie, 2005, p.23），允许在深入理解的基础上做出评判，但前提是先"后退一步"而非从自身文化出发直接否定
+> - vs [[Cultural Relativism|文化相对主义]]（cultural relativism）— 文化相对主义可能滑向"所有文化实践都应被无差别接受"；元文化敏感度明确要求理解文化"如何可能既有益又有害"（Louie, 2005, p.23），允许在深入理解的基础上做出评判，但前提是先"后退一步"而非从自身文化出发直接否定
 > - vs [[Stereotype Threat\|刻板印象威胁]] — 刻板印象威胁描述了"刻板化会伤害学生"的**问题机制**；元文化敏感度提供了"教师如何不刻板化"的**实践出路**。两者在同一论证链中前后衔接
 
 ## 概念演变

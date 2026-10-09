@@ -8,7 +8,7 @@ aliases:
 summary: "20世纪末在欧洲兴起的教育研究与实践范式，以多元文化社会中异质文化族群间的交互对话、相互学习与包容共生为核心；打破传统比较教育以民族国家为单一分析单元的局限，转向文化配置、移民融入、教材去偏见与课堂反思性互动。"
 type: concept
 domain: "comparative-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Patriotic Education]]"
   - "[[Hypothesis]]"
   - "[[International Baccalaureate]]"
+  - "[[Cultural Relativism]]"
 related_theories:
   - "[[Pluralism]]"
   - "[[Theories of the Driving Forces]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Intercultural Education
@@ -162,7 +163,7 @@ updated: 2026-10-07
 >
 > > [!axis] 文化本真性保护与社会结构性不平等批判
 > > 争论聚焦于跨文化教育究竟应侧重文化尊重与生活方式体验，还是深入剖析阶级、种族与制度性资本造成的实质压迫。
-> > - **文化相对主义与交往对话论** 强调课堂对话与文化多样性体验，认为文化误解源于偏见，消除教科书与观念壁垒即可达成和谐共处。
+> > - **[[Cultural Relativism|文化相对主义]]与交往对话论** 强调课堂对话与文化多样性体验，认为文化误解源于偏见，消除教科书与观念壁垒即可达成和谐共处。
 > > - **批判政治经济学与结构论** 批评单纯的文化倡导容易沦为浪漫化的民俗展示（Folklore），掩盖移民群体在劳动力市场、居住隔离与学校分流轨道上遭受的深层结构性歧视。
 
 > [!warning] 适用边界

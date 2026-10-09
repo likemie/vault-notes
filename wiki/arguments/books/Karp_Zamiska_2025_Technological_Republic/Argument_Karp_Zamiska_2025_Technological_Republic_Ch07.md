@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch07"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch07"
 argument_display_title: "A balloon cut loose"
 argument_kind: "book-chapter"
-argument_related_count: 39
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Paradigm]]"
   - "[[Value Neutrality]]"
+  - "[[Cultural Relativism]]"
   - "[[Epoché]]"
   - "[[Technological Republic]]"
 related_persons:
@@ -195,7 +196,7 @@ updated: 2026-10-08
 
 ### 论证步骤四　事实描述与道德评价严重混淆：认知脱钩能力退化导致战略理性丧失
 
-> [!claim] 抵制文化相对主义面临被取消的学术困境
+> [!claim] 抵制[[Cultural Relativism|文化相对主义]]面临被取消的学术困境
 > 在激进[[Pluralism|多元主义]]与后现代解构的笼罩下，任何试图在经验层面陈述西方制度与经济优势的学者都面临被边缘化甚至取消的风险。麦克尼尔在1997年撰文坚决抵制以多元文化名义推行的道德相对主义，指出所有文化传统一律等同是公然违背历史事实的虚假断言；但在当代学术气候下，这类主张几乎必然遭遇取消（p. 93）。
 
 > [!stat-cards] 西方帝国全球份额与经济主导历史实证

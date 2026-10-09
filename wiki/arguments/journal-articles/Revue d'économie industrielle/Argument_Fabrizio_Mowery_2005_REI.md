@@ -52,7 +52,8 @@ related_methods:
   - "[[Historical-Comparative Method]]"
   - "[[Network Analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Kenneth Burke]]"
 related_facts:
   - "[[DARPA]]"
   - "[[American Association for the Advancement of Science]]"
@@ -77,7 +78,7 @@ title: "Argument_Fabrizio_Mowery_2005_REI"
 argument_key: "Argument_Fabrizio_Mowery_2005_REI"
 argument_display_title: "Defense-related R&D and the growth of the postwar information technology industrial complex in the United States"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -251,7 +252,7 @@ issuing_organization: ""
 > | **Eckert-Mauchly UNIVAC** | $400–$500 | 陆军（经人口普查局） / 空军 | 1951 | 通用自动计算机（Universal Automatic Computer, UNIVAC），首台商用数字计算机先驱，军民两用采购协同 |
 > | **MIT Whirlwind** | $4,000–$5,000 | 海军 / 空军 | 1951 | 麻省理工学院旋风计算机，磁芯存储与实时飞行模拟，耗资巨大 |
 > | **[[Institute for Advanced Study\|Princeton IAS]] Computer** | $650 | 陆军 / 海军 / RCA / 原子能委员会 | 1951 | 普林斯顿[[Von Neumann Architecture\|冯·诺依曼架构]]原型，跨部门联合资助 |
-> | **Univ. of Cal. CALDIC** | $95 | 海军（Navy） | 1951 | 加州大学伯克利分校低成本教学科研计算平台 |
+> | **Univ. of Cal. CALDIC** | $95 | 海军（Navy） | 1951 | 加州大学[[Kenneth Burke\|伯克]]利分校低成本教学科研计算平台 |
 > | **Harvard Mark IV** | n.a. | 空军（Air Force） | 1951 | 哈佛大学艾肯团队最后一代军资计算机 |
 > | **EDVAC** | $467 | 陆军（Army） | 1952 | 离散[[Variable\|变量]]自动电子计算机（Electronic Discrete Variable Automatic Computer, EDVAC），冯·诺依曼存储程序设计 |
 > | **Raytheon Hurricane (RAYDAC)** | $460 | 海军（Navy） | 1952 | 雷神公司为海军防空导弹飞控研制的计算机 |

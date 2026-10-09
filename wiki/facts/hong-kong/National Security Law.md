@@ -10,7 +10,7 @@ subtype: event
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "event"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Knowledge Framework]]"
   - "[[Discourse]]"
+  - "[[Cultural Relativism]]"
   - "[[One Country, Two Systems]]"
   - "[[Zhonghua Minzu]]"
   - "[[Soft Power]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # National Security Law
@@ -118,7 +119,7 @@ updated: 2026-10-07
 > - **建制与官方立场** 强调国家安全是一切社会稳定与教育发展的前提，教育体系必须服务于主权利益，扫除[[General Education\|通识教育]]科等危及安全的隐患，促进青年国族认同与人心回归。
 > - **专业与教学视角** 指出国安法在学校层面的广泛落实导致教学自主权彻底消丧，泛化的红线使教师和教育工作者产生严重的自我审查与生存恐惧（p.141）。
 > - **学术研究视角** 记录表明，国安法直接充当了废除通识科的推动力量，而非官方所谓的检讨结果。学者指出，国家安全概念的无限延伸实质上消除了专业论证的空间（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, pp. 489–490]]）。
-> - **去殖民理论反思** 去殖民学说如果只关注思想的出身（例如以法治起源于殖民统治而否定其价值），实质上剥夺了本土人保留制度的能动性，沦为为威权权力扩张提供虚无主义文化相对论的辩护工具（pp.154–155）。
+> - **去殖民理论反思** 去殖民学说如果只关注思想的出身（例如以法治起源于殖民统治而否定其价值），实质上剥夺了本土人保留制度的能动性，沦为为威权权力扩张提供虚无主义[[Cultural Relativism|文化相对论]]的辩护工具（pp.154–155）。
 
 > [!tension] 争议焦点
 > - **国家安全无边界延伸（蓝方）** 将维护主权和政治稳定置于绝对优先地位，任何教育内容和教学自主必须让位于国家利益与安全控制（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 490]]）。

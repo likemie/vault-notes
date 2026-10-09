@@ -7,7 +7,7 @@ aliases:
 summary: "母亲引导儿童思考学习时所依赖的认知框架与合法性资源，通常表现为心智来源或学习美德来源等不同文化取向"
 type: concept
 domain: "educational-psychology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-04
+updated: 2026-10-09
 ---
 
 # Cognitive Source

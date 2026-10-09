@@ -7,7 +7,7 @@ summary: "英国资深教育政策学者与教师工会战略家，剑桥大学�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 34
+person_related_count: 35
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -50,6 +50,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Francis Galton]]"
   - "[[Andreas Schleicher]]"
   - "[[Mark Schneider]]"
   - "[[Dirk Van Damme]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-18
+updated: 2026-10-09
 ---
 
 # John Bangs
@@ -91,7 +92,7 @@ updated: 2026-09-18
 
 > [!timeline] 生平与职涯
 > - **1970–1990 年代** 投身英国基础教育一线教学与工会维权，历任伦敦特殊教育教师与工会基层代表，深切体认一线教师在自上而下行政问责体制下的失语困境。
-> - **1990–2010 年** 担任全英教师联合会（NUT，现全国教育联盟 NEU）教育与平等事务部部长，主导应对英国国家课程与高利害考试改革；与剑桥大学教授约翰·麦克比斯（John MacBeath）、莫里斯·高尔顿（Maurice Galton）深度合作，系统开展教师工作负担与专业状态实证研究。
+> - **1990–2010 年** 担任全英教师联合会（NUT，现全国教育联盟 NEU）教育与平等事务部部长，主导应对英国国家课程与高利害考试改革；与剑桥大学教授约翰·麦克比斯（John MacBeath）、莫里斯·[[Francis Galton|高尔顿]]（Maurice Galton）深度合作，系统开展教师工作负担与专业状态实证研究。
 > - **2010 年** 加盟剑桥大学教育学院担任高级研究员；出任代表全球 3200 万教师的[[Education International\|国际教育协会]]（EI）特别战略顾问，领导 EI 智库与研究院的政策证据倡导工作。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 209–210)]]
 > - **2011 年** 联手美国前教育部长阿恩·邓肯（Arne Duncan）、[[National Education Association\|全美教育协会]]（NEA）与[[OECD\|经合组织]]（OECD），联合创办首届[[International Summits on the Teaching Profession\|国际教师职业峰会]]（ISTP），并常年担任峰会核心规划者与联合主持专家。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 211)]]
 > - **2012–2020 年** 开展跨国教师领导力质性调研（Bangs & Frost, 2012），成功推动 OECD 在 [[Teaching and Learning International Survey\|TALIS]] 2013 引入分布式领导力量表、在 TALIS 2018 增设教师工作压力来源专属量表。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 210)]]

@@ -9,7 +9,7 @@ summary: "劳伦斯·H·基利（Lawrence H. Keeley，1948–2016），美国史
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Falsification]]"
   - "[[Determinism]]"
+  - "[[Cultural Relativism]]"
   - "[[Total War]]"
   - "[[Long Peace]]"
   - "[[Hard Power]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Lawrence H. Keeley
@@ -138,7 +139,7 @@ updated: 2026-10-08
 > > [!axis] 人类本质论：[[Jean-Jacques Rousseau|卢梭]]主义（高贵野蛮人）vs 霍布斯主义（丛林状态）
 > > 基利的研究在 1990 年代遭到部分文化人类学者的指责，认为其过度强调前现代社会的暴力残暴性，可能会被政治保守派用于为殖民主义和国家暴力辩护。
 > >
-> > - **文化相对主义/后现代人类学学者** 部落冲突多为仪式性、象征性对抗，基利的实证方法可能将极端个案放大为普遍特征。
+> > - **[[Cultural Relativism|文化相对主义]]/后现代人类学学者** 部落冲突多为仪式性、象征性对抗，基利的实证方法可能将极端个案放大为普遍特征。
 > > - **基利与实证考古学者** 骨骼创伤、群体合葬坑与防御工事遗址等硬性考古发掘无可辩驳地证明，前国家部落因战争死亡的人口比例高达 10%–60%，远超 20 世纪包括两次世界大战在内的国家战争伤亡率（约 1%–2%）。
 
 ---

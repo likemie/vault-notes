@@ -3291,6 +3291,17 @@
     ]
   },
   {
+    "title": "Cultural Relativism",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Cultural Relativism.md",
+    "aliases": [
+      "文化相对主义",
+      "cultural relativist",
+      "文化相对论",
+      "等效文化模式"
+    ]
+  },
+  {
     "title": "Culture Générale",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Culture Générale.md",
@@ -6667,6 +6678,16 @@
     ]
   },
   {
+    "title": "Effective Altruism",
+    "type": "concept",
+    "path": "wiki/concepts/ethics-of-technology/Effective Altruism.md",
+    "aliases": [
+      "有效利他主义",
+      "effective altruist",
+      "有效利他主义者"
+    ]
+  },
+  {
     "title": "Hacker Ethic",
     "type": "concept",
     "path": "wiki/concepts/ethics-of-technology/Hacker Ethic.md",
@@ -8665,6 +8686,18 @@
       "官僚科层制",
       "科层官僚制",
       "层级科层制"
+    ]
+  },
+  {
+    "title": "Civic Rituals",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Civic Rituals.md",
+    "aliases": [
+      "公民仪式",
+      "制造国家的公民仪式",
+      "civic ritual",
+      "国民仪式",
+      "政治仪式"
     ]
   },
   {

@@ -9,7 +9,7 @@ aliases:
 summary: "指当代技术精英与软件工程师将技术创造活动本身视为纯粹目的，刻意回避对国家使命、政治立场、公共善与伦理价值进行实质决断与承诺的意识形态取向；其历史根源可追溯至20世纪后半叶欧美通识正典瓦解与反文化黑客伦理将国家定性为缺陷系统后，科技阶层向唯利是图消费互联网的全面退缩。"
 type: concept
 domain: "ethics-of-technology"
-related_count: 36
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -34,8 +34,10 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Cosmopolitanism]]"
   - "[[Historical Amnesia]]"
+  - "[[Effective Altruism]]"
   - "[[Hacker Ethic]]"
   - "[[Cognitive Decoupling]]"
+  - "[[Cultural Relativism]]"
   - "[[Junzi]]"
   - "[[General Education]]"
   - "[[Engineering Education]]"
@@ -125,7 +127,7 @@ updated: 2026-10-09
 > - **通识正典断裂诱发的价值虚无（Civilizational Dis-anchoring）** 伴随大学人文学科对西方传统通识的拆解，科技精英在成长过程中丧失了理解国家制度与自由价值的文化锚定，导致国家历史沦为“断线气球”。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 88, 95–96)]]
 > - **[[Historical Amnesia|历史健忘症]]与责任剥离（Institutional Amnesia）** 抹杀早期研发受惠于[[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）等国家公共投资的历史事实，将成功完全归因于私人自由创新。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 74–75)]]
 > - **形式程序中立的庇护（Refuge in Procedural Neutrality）** 借助政治自由主义对不同善观念的程序中立主张，将技术研发界定为超越道德纷争的纯粹形式工具，从而回避对特定政治体制与国家防卫的实质承诺。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 213–215)]]
-> - **有效利他主义的功利折算（Utilitarian Evasion of Civic Duty）** 采纳将人类繁荣还原为单一福利指标的算术功利主义（如有效利他主义，Effective Altruism, EA），以全球抽象慈善抵消甚至取代对本土政治共同体的公民责任与制度防卫义务。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–213)]]
+> - **[[Effective Altruism|有效利他主义]]的功利折算（Utilitarian Evasion of Civic Duty）** 采纳将人类繁荣还原为单一福利指标的算术功利主义（如有效利他主义，Effective Altruism, EA），以全球抽象慈善抵消甚至取代对本土政治共同体的公民责任与制度防卫义务。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–213)]]
 
 > [!logic-map]- 技术不可知论的形成逻辑与后果
 > ```mermaid
@@ -186,7 +188,7 @@ updated: 2026-10-09
 > 剖析 20 世纪价值中立政治哲学与单一功利主义如何为科技阶层的政治冷漠提供理论辩护，并揭示其导致社会丧失辨别力与方向感的虚无主义后果。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025, Ch. 18)]]
-> **程序中立与功利折算的双重迷思** 鲁斯·本尼迪克特（Ruth Benedict, 1934）的文化相对主义与[[John Rawls|约翰·罗尔斯]]（John Rawls, 2005）的形式程序中立抽空了公共生活的文化特质，使规范正当与实质善意发生断裂；彼得·辛格（Peter Singer, 1975）奠定的有效利他主义（Effective Altruism, EA）则将公民使命降格为单一的福利计算，为科技精英提供了逃避国家防卫与政治忠诚的廉价道德外衣。
+> **程序中立与功利折算的双重迷思** 鲁斯·本尼迪克特（Ruth Benedict, 1934）的[[Cultural Relativism|文化相对主义]]与[[John Rawls|约翰·罗尔斯]]（John Rawls, 2005）的形式程序中立抽空了公共生活的文化特质，使规范正当与实质善意发生断裂；彼得·辛格（Peter Singer, 1975）奠定的[[Effective Altruism|有效利他主义]]（Effective Altruism, EA）则将公民使命降格为单一的福利计算，为科技精英提供了逃避国家防卫与政治忠诚的廉价道德外衣。
 >
 > 正如列奥·施特劳斯（Leo Strauss, 1959）所警示，将科学探索与道德判断截然二分的“道德迟钝”预设，若被绝对化为对一切崇高目标的冷漠与不可知论，终将滑向文化虚无主义；[[Lee Kuan Yew|李光耀]]（Lee Kuan Yew, 2000）在治理中践行儒家[[Junzi|君子]]美德的历史经验表明，唯有重新确立具体的伦理特质与实质文化锚桩，才能抵御不可知论引发的共同体瓦解。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–216)]]
 
@@ -215,7 +217,7 @@ updated: 2026-10-09
 > > - **技术共和主义者** 批判扎克伯格代表的技术不可知论抹杀了技术赖以生存的政治前提，指出没有任何技术系统能在真空中繁荣，技术必须服务于捍卫自由民主体制的实质目标。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 71–75)]]
 >
 > > [!axis] 形式程序中立 / 单一功利计算 vs 实质伦理美德与国家承诺
-> > 围绕科技精英是应当遵循程序价值中立与有效利他主义，还是必须承担具体的共同体伦理与防卫承诺展开争鸣。
+> > 围绕科技精英是应当遵循程序价值中立与[[Effective Altruism|有效利他主义]]，还是必须承担具体的共同体伦理与防卫承诺展开争鸣。
 > >
 > > - **形式自由主义与有效利他主义（Rawls, 2005; Singer, 1975）** 主张政治制度与前沿科技应当在善观念之间保持程序中立，以量化福利计算作为道德评判的普遍标准。
 > > - **实质德性论批判** 指出空洞的中立与算术功利是[[Soft Belief|软信念]]与技术不可知论的温床，科技力量必须由具备儒家[[Junzi|君子]]品德与文化特质的实体所锚定，才能避免滑入施特劳斯所警示的虚无主义深渊。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 213–216)]]

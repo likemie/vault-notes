@@ -10,7 +10,7 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Psychologisation]]"
   - "[[Paradigm]]"
+  - "[[Cultural Relativism]]"
   - "[[Schmittian Sovereignty]]"
   - "[[One Country, Two Systems]]"
 related_theories:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-14
+updated: 2026-10-09
 ---
 
 # Citizenship and Social Development
@@ -184,7 +185,7 @@ updated: 2026-09-14
 > > - **支持政策人士（2021）** 简化考评有助于将学生从枯燥的分数竞争中解放出来，更多通过内地研学考察建立直观的、感性的家国情怀。
 
 > [!citation-card]- 反思西方学术界去殖民理论盲区
-> 西方去殖民学者仅关注观念起源的殖民血统（如因法治源于英国统治而予以排斥），与威权政府的文化相对论达成共谋，实际上背叛了香港本土的民主与自由能动性（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.154–155]]）。
+> 西方去殖民学者仅关注观念起源的殖民血统（如因法治源于英国统治而予以排斥），与威权政府的[[Cultural Relativism|文化相对论]]达成共谋，实际上背叛了香港本土的民主与自由能动性（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.154–155]]）。
 >
 > *“Hong Kong stands as a warning of how 'decolonial' thinking, in obsessing over the 'pedigree' of ideas, can overlook the importance of native 'agency'.”*
 

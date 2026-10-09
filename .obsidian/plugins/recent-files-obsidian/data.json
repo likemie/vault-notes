@@ -5,6 +5,22 @@
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch18.md"
     },
     {
+      "basename": "Effective Altruism",
+      "path": "wiki/concepts/ethics-of-technology/Effective Altruism.md"
+    },
+    {
+      "basename": "Critical Theory",
+      "path": "wiki/theories/educational-philosophy/Critical Theory.md"
+    },
+    {
+      "basename": "Civic Religion",
+      "path": "wiki/concepts/educational-philosophy/Civic Religion.md"
+    },
+    {
+      "basename": "Junzi",
+      "path": "wiki/concepts/chinese-philosophy/Junzi.md"
+    },
+    {
       "basename": "John Rawls",
       "path": "wiki/persons/us/John Rawls.md"
     },
@@ -19,10 +35,6 @@
     {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch17",
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch17.md"
-    },
-    {
-      "basename": "Civic Religion",
-      "path": "wiki/concepts/educational-philosophy/Civic Religion.md"
     },
     {
       "basename": "Palantir Technologies",
@@ -187,18 +199,6 @@
     {
       "basename": "Creativity",
       "path": "wiki/concepts/competency-and-assessment/Creativity.md"
-    },
-    {
-      "basename": "John Dewey",
-      "path": "wiki/persons/us/John Dewey.md"
-    },
-    {
-      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch13",
-      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch13.md"
-    },
-    {
-      "basename": "Alexander Karp",
-      "path": "wiki/persons/us/Alexander Karp.md"
     }
   ],
   "omittedPaths": [],

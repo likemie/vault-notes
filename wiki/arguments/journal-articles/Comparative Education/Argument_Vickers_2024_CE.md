@@ -9,7 +9,7 @@ title: "Argument_Vickers_2024_CE"
 argument_key: "Argument_Vickers_2024_CE"
 argument_display_title: "The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Schmittian Sovereignty]]"
   - "[[Decolonial Paradox]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Civic Rituals]]"
   - "[[Zhonghua Minzu]]"
   - "[[Champ]]"
   - "[[Soft Power]]"
@@ -43,6 +44,7 @@ related_concepts:
   - "[[Benevolence]]"
   - "[[Dialogue in Education]]"
   - "[[Social-Emotional Learning]]"
+  - "[[Cultural Relativism]]"
 related_theories: []
 related_methods:
   - "[[Comparative Textbook Analysis]]"
@@ -146,7 +148,7 @@ citation_aliases:
 
 > [!chain-link] 权力结构从对抗制衡到全面[[Disciplina and Doctrina\|规训]]
 > - **2020年前的抵抗性公民社会** 教育官员与学校保有一定程度的专业精神（professional ethos），抵制强行政治化。香港教育专业人员协会（Hong Kong Professional Teachers Union）为教师提供集体保护与抵抗声量。自由开放的媒体以及各类选举提供了公共制衡平台。学生在2012年德育及国民教育科争议中通过绝食和占领政府总部成功迫使政府搁置课程，展现了强劲的公民社会制衡力（p.141）。
-> - **2020年后制度防线的全面解体** 国家安全法实施后，香港教育专业人员协会以及大批公民社会团体被迫解散，批评人士入狱，选举被限制在爱国者治港范畴内。公务员与全体教师必须宣誓效忠，国家安全教育成为学校的法定强制要求。教育局设立了国家安全教育一站式学校门户网站，集中发布和推广相关的课程倡议与教学资源。这包括举行国旗国歌礼仪培训（甚至在特殊学校培训中让智力障碍学生艰难模仿这些政治仪式）以及举办虚拟国家安全展览。该展览通过强调美国、英国、加拿大和澳大利亚等国也采用一切手段维护安全，以证明国家利益在内外不受威胁的必要性，并借此推行总体国家安全观。
+> - **2020年后制度防线的全面解体** 国家安全法实施后，香港教育专业人员协会以及大批公民社会团体被迫解散，批评人士入狱，选举被限制在爱国者治港范畴内。公务员与全体教师必须宣誓效忠，国家安全教育成为学校的法定强制要求。教育局设立了国家安全教育一站式学校门户网站，集中发布和推广相关的课程倡议与教学资源。这包括举行国旗国歌礼仪培训（甚至在特殊学校培训中让智力障碍学生艰难模仿这些[[Civic Rituals|政治仪式]]）以及举办虚拟国家安全展览。该展览通过强调美国、英国、加拿大和澳大利亚等国也采用一切手段维护安全，以证明国家利益在内外不受威胁的必要性，并借此推行总体国家安全观。
 > - **教学规训与惩罚机制的落地** 过去以软性劝勉和资助为主的游学及国民教育活动转为刚性的行政控制。教学自主权（pedagogical agency）被剥夺，教师如果偏离官方规定的学习重点将面临被指控煽动的刑事风险，从而在学校中植入结构性恐惧（pp.141–142）。
 
 > [!feature] 公共历史与文博生态的爱国化重构
@@ -233,7 +235,7 @@ citation_aliases:
 > [!chain-link] 臣民范式与[[Decolonial Paradox\|去殖民悖论]]
 > - **政治生活作为忠诚表演的舞台** 转型后的政治生活不再是公民能动性（civic agency）实践的竞技场，而是退化为表演爱国忠诚的单向舞台（p.155）。
 > - **去殖民化叙事在非西方威权情境下的理论盲区** 盎格鲁学术界广泛流行去殖民化（decoloniality）[[Grand Theory\|宏大叙事]]，导致部分学者将香港的本土诉求机械地归结为西方地缘政治操纵或殖民遗毒，甚至在国际学术讨论中将民主抗议者斥为文化叛徒（cultural renegades）（p.154）。
-> - **观念起源谱系迷恋与本土能动性背叛的理论共谋** 针对这种过度关注思想出身（pedigree）的去殖民化思维，泰沃（Olúfẹ́mi Táíwò）指出，仅仅因为香港的法治和自由源于英国殖民主义的历史积淀便否定其正当性，实际上剥夺了本土人（native agency）选择保留何种制度的自决权（pp.154–155）。去殖民学者与威权主义国家在虚无主义的文化相对论上达成共谋，为强制性的权力扩张提供了理论辩护。
+> - **观念起源谱系迷恋与本土能动性背叛的理论共谋** 针对这种过度关注思想出身（pedigree）的去殖民化思维，泰沃（Olúfẹ́mi Táíwò）指出，仅仅因为香港的法治和自由源于英国殖民主义的历史积淀便否定其正当性，实际上剥夺了本土人（native agency）选择保留何种制度的自决权（pp.154–155）。去殖民学者与威权主义国家在虚无主义的[[Cultural Relativism|文化相对论]]上达成共谋，为强制性的权力扩张提供了理论辩护。
 > - **卡尔·施密特主权逻辑在香港宪制体制中的落地** 北京宪制学者[[Jiang Shigong\|强世功]]（Jiang Shigong）将卡尔·施米特（Carl Schmitt）的主权决定[[Schmittian Sovereignty\|例外状态]]（state of exception）理论与福柯的“权力即知识”观念结合，论证中央对香港的绝对主权在于拥有定义和解释法律的最终权力。2020年颁布的《特区维护国家安全法》正是施密特式主权逻辑在香港宪制体制中的落地，将香港的宪政基础从“法治”转变为“以法而治”（rule by law），使中国Pedigree成为了无法抗拒的宿命。
 
 > [!warrant]- 学者的良知与概念重建

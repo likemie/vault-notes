@@ -9,7 +9,7 @@ aliases:
 summary: "本尼迪克特·安德森提出的民族主义核心理论，主张民族是被想象的有边界和主权的政治共同体。成员虽互不相识却共享同属一体的心理图像；印刷资本主义与统一学校系统提供了物质制度基础；卡普与扎米斯卡进一步将其拓展至认知人类学与科技政治学，论证想象链接克服了邓巴数极限并维系超大规模技术协作，批判后国家思潮对“情感民族”防线的放弃导致公民认同崩解与商业技术公社的替代性兴起。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 27
+theory_related_count: 28
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Official Knowledge]]"
   - "[[Constructivist Paradigm]]"
   - "[[Dunbar's Number]]"
+  - "[[Civic Rituals]]"
   - "[[Cosmopolitanism]]"
   - "[[Enlightenment]]"
   - "[[Document]]"
@@ -70,7 +71,7 @@ updated: 2026-10-09
 > - **知识位置** 现代性转型与民族主义理论（Anderson, Gellner, Hobsbawm），跨界延伸至比较教育学（[[Argument_Xu_2024_CE|Xu, 2024]]）与科技地缘政治哲学（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）。
 
 > [!claim] 核心判断
-> 民族是一个被想象的、有边界的和主权的政治共同体。民族之所以是“想象的”，是因为即便最小民族的成员也绝不可能认识大部分同胞，但每个人心中都活着他们共属一体的心理图像。印刷资本主义与统一学校系统奠定了民族想象的物质与制度基础（Anderson, 1983/2006）；在认知人类学与科技政治视域下，这种由语言和共同叙事构筑的“想象链接”是人类克服[[Dunbar's Number|邓巴数]]生理社交上限（约 150 人）、组织数百万陌生人协同推进尖端技术攻坚的战略基石。卡普与扎米斯卡进一步指出，当代知识阶层误将建构性当作解构国家的理由，放弃了对“情感民族”边界的守护（如 Sennett, 1994; Nussbaum, 1994）；当国家制造认同的公民仪式被系统拆解时，社会并未走向普遍[[Cosmopolitanism|世界主义]]，而是迅速退化为消费主义种姓与硅谷高科技封闭公社。[[Argument_Xu_2024_CE|(Xu, 2024, p. 575)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–198)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 216–218)]]
+> 民族是一个被想象的、有边界的和主权的政治共同体。民族之所以是“想象的”，是因为即便最小民族的成员也绝不可能认识大部分同胞，但每个人心中都活着他们共属一体的心理图像。印刷资本主义与统一学校系统奠定了民族想象的物质与制度基础（Anderson, 1983/2006）；在认知人类学与科技政治视域下，这种由语言和共同叙事构筑的“想象链接”是人类克服[[Dunbar's Number|邓巴数]]生理社交上限（约 150 人）、组织数百万陌生人协同推进尖端技术攻坚的战略基石。卡普与扎米斯卡进一步指出，当代知识阶层误将建构性当作解构国家的理由，放弃了对“情感民族”边界的守护（如 Sennett, 1994; Nussbaum, 1994）；当国家制造认同的[[Civic Rituals|公民仪式]]被系统拆解时，社会并未走向普遍[[Cosmopolitanism|世界主义]]，而是迅速退化为消费主义种姓与硅谷高科技封闭公社。[[Argument_Xu_2024_CE|(Xu, 2024, p. 575)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–198)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 216–218)]]
 
 ---
 
@@ -88,7 +89,7 @@ updated: 2026-10-09
 > - **1983 年 — 现代主义建构论确立** [[Benedict Anderson|本尼迪克特·安德森]]出版《想象的共同体》，界定民族为有限且主权的想象政治实体，奠定[[Constructivist Paradigm|建构主义]]民族理论基石。
 > - **1990 年代 — 比较教育与教科书[[Official Knowledge|官方知识]]研究引入** 比较教育学者将该理论运用于解构历史教科书、课程大纲与仪式庆典在制造国家认同中的政治装置功能。
 > - **2024 年 — [[One Country, Two Systems|一国两制]]下的领土与族群叙事分化** [[Argument_Xu_2024_CE|Xu (2024)]] 结合 Brubaker 分析维度，揭示中国大陆与香港历史教科书如何分别构建出领土型与族裔型的差异化民族想象。
-> - **2025 年 — 认知人类学、情感民族防线与科技国家建构** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》（Ch. 17 & Ch. 18）中将想象的共同体与[[Dunbar's Number|邓巴数]]结合，论证共享语言叙事是克服生物学认知上限、实现现代尖端技术协作的必要纽带；尖锐批评后现代思潮对“情感民族”边界的放弃，并剖析了公民仪式瓦解导致想象亲密感断裂与硅谷技术公社的替代性崛起。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–198)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(pp. 216–218)]]
+> - **2025 年 — 认知人类学、情感民族防线与科技国家建构** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》（Ch. 17 & Ch. 18）中将想象的共同体与[[Dunbar's Number|邓巴数]]结合，论证共享语言叙事是克服生物学认知上限、实现现代尖端技术协作的必要纽带；尖锐批评后现代思潮对“情感民族”边界的放弃，并剖析了[[Civic Rituals|公民仪式]]瓦解导致想象亲密感断裂与硅谷技术公社的替代性崛起。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–198)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(pp. 216–218)]]
 
 ---
 
@@ -107,7 +108,7 @@ updated: 2026-10-09
 > | 想象链接（Imagined Linkages） | 认知协作机制 | 突破[[Dunbar's Number\|邓巴数]]限制，使数百万陌生人能够围绕宏大国家工程协同攻坚。 |
 > | 情感民族边界（Emotional Nation Boundaries） | 政治文化防线 | 安德森界定的情感认同疆界；若放弃巡守该边界将导致公共空间被市场消费主义全面吞噬。 |
 > | 每日公民投票（[[Everyday Plebiscite\|Everyday Plebiscite]]） | 认同维系机制 | 勒南（Renan, 1882）提出的持续同意机制，构成想象共同体跨代际存续的活态根基。 |
-> | 制造国家的公民仪式（Nation-Manufacturing Rituals） | 实践装置 | 兵役、公民教育、[[Civic Religion\|世俗公民宗教]]等维系陌生人间“想象亲密感”的实践纽带。 |
+> | [[Civic Rituals\|制造国家的公民仪式]]（Nation-Manufacturing Rituals） | 实践装置 | 兵役、公民教育、[[Civic Religion\|世俗公民宗教]]等维系陌生人间“想象亲密感”的实践纽带。 |
 
 ---
 
@@ -151,7 +152,7 @@ updated: 2026-10-09
 > | 物质与制度载体（Anderson, 1983; Gellner, 1983） | **符号传播媒介** 依靠何种大众媒介与制度通道传递共同体记忆？ | 统一课程大纲、国家纪念日仪式、公共媒体报道模式。 | 存在高覆盖率的统一仪式支持强建构；媒介碎片化表明认同分散。 |
 > | 认知协同纽带（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17\|Karp & Zamiska, 2025, pp. 190–194]]） | **超越[[Dunbar's Number\|邓巴数]]的协同效能** 共同体叙事是否足以支撑跨领域陌生人攻坚重大工程？ | 科技动员法令、国防研发参与度、国家战略项目推进效率。 | 科技精英主动参与国家工程支持强纽带；拒斥国防合作表明认同断裂。 |
 > | 情感民族守护（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17\|Karp & Zamiska, 2025, pp. 191–198]]） | **公共认同抵抗消费主义异化度** 政治精英是否积极捍卫共享国家叙事与爱国情感？ | 领导人公开讲话、多元文化政策定位、公共文化典籍推荐。 | 肯定国家共享文化支持强韧共同体；宣称“不存在本国文化”表明情感边界失守。 |
-> | 公民仪式维系（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|Karp & Zamiska, 2025, pp. 216–218]]） | **想象亲密感维持度** 制造国家的公共仪式是否健全？是否被亚文化或技术公社替代？ | 兵役服役率、通识核心课程设置、[[Innovation Park\|科技园区]]封闭自治程度。 | 公民仪式健全维系国家认同；仪式废弃则导致认同迁移至企业公社或体育部落。 |
+> | 公民仪式维系（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|Karp & Zamiska, 2025, pp. 216–218]]） | **想象亲密感维持度** 制造国家的公共仪式是否健全？是否被亚文化或技术公社替代？ | 兵役服役率、通识核心课程设置、[[Innovation Park\|科技园区]]封闭自治程度。 | [[Civic Rituals\|公民仪式]]健全维系国家认同；仪式废弃则导致认同迁移至企业公社或体育部落。 |
 
 ---
 
@@ -194,4 +195,4 @@ updated: 2026-10-09
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 运用想象的共同体理论，实证对比了中国大陆与香港初中历史教科书中的领土型与族裔型民族想象。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》：[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch. 17]] 论证想象链接克服[[Dunbar's Number|邓巴数]]维系科技协作与守卫情感民族；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch. 18]] 剖析公民仪式瓦解与硅谷技术公社兴起。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》：[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch. 17]] 论证想象链接克服[[Dunbar's Number|邓巴数]]维系科技协作与守卫情感民族；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch. 18]] 剖析[[Civic Rituals|公民仪式]]瓦解与硅谷技术公社兴起。

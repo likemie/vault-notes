@@ -8,7 +8,7 @@ aliases:
 summary: "在比较教育与政策借用研究中，指被特定国家用作自身教育体制改革、政策辩护或合法化重构的外部参照范例或制度模板。概念源自施赖弗（Jürgen Schriewer）的“外化假说”与卢曼系统论，强调系统对外部参照点的内部建构以应对政策情境的偶然性与不确定性。在当代全球量化治理中，经合组织通过外向型同行比较建构参考社会，而世界银行则展现出以自身工具与项目为依归的自指性中介特征。"
 type: concept
 domain: "comparative-education"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Governing by Numbers]]"
   - "[[New Public Management]]"
+  - "[[Civic Rituals]]"
   - "[[Positivism]]"
   - "[[Technical Rationality]]"
   - "[[Transfer Science]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-05
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Reference Society
@@ -171,7 +172,7 @@ updated: 2026-10-07
 > 法国在面对自身 PISA 排名长期平庸的焦虑时，执政精英与学者明确选择以芬兰而非新加坡或上海为模范。尽管东亚体系在数学与科学上遥遥领先，但法国主流学界认为东亚模式与法国大革命奠定的共和人文主义传统格格不入。对芬兰模式的援引为法国左右翼政党就教育公平与教师培训达成共识提供了关键机会之窗。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]; (Dobbins & Martens, 2012)
 
 > [!case] 南锥体国家（阿根廷、智利、乌拉圭）：将参与本身作为接入参考体系的入场券
-> 南美洲南锥体国家参与 PISA 并不单纯为了模仿某个特定北欧国家，而是为了将自身教育事务与“[[OECD\|经济合作与发展组织]]（OECD）俱乐部”直接对接。在此情境下，整个“OECD 发达国家群落”被整体构想为一个巨型复合参考体系，参与测评本身就是向国内各界彰显其执政符合“国际现代性标准”的政治仪式。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]; (Acosta, 2020)
+> 南美洲南锥体国家参与 PISA 并不单纯为了模仿某个特定北欧国家，而是为了将自身教育事务与“[[OECD\|经济合作与发展组织]]（OECD）俱乐部”直接对接。在此情境下，整个“OECD 发达国家群落”被整体构想为一个巨型复合参考体系，参与测评本身就是向国内各界彰显其执政符合“国际现代性标准”的[[Civic Rituals|政治仪式]]。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]; (Acosta, 2020)
 
 > [!case] [[World Bank\|世界银行]]全球改革数据库（[[World Education Reform Database\|WERD]]）揭示的自指性中介特异性
 > 塞策、白与施泰纳-哈姆西（Seitzer, Baek, & Steiner-Khamsi, 2023）对 WERD 数据库数千份多边政策文本的深入挖掘发现：当发展中国家向经合组织寻求政策建议时，OECD 会系统列举英国、德国或韩国等具体成员国的经验；但在世界银行出具的政策方案中，世行极少推荐某一个受援国向另一个主权国家学习，而是反复推荐自身主导推行的标准指标模块（如 [[Systems Approach for Better Education Results\|SABER]]）或微观实验项目（DIME），展现了多边金融机构拒绝树立外部主权参考社会、致力于自身知识垄断的自指特征。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 545)]]

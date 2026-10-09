@@ -7,10 +7,10 @@ aliases:
 summary: "当代人类动机与人格的核心宏观理论，主张个体具有追求自主性、胜任感与归属感三大基本心理需求的内在成长倾向，构筑了从无动机、外在动机到内在动机的自决连续体，广泛应用于教育环境设计与人机协同学习赋能。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 31
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 32
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/educational-psychology
   - motivation
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Man-Computer Symbiosis]]"
   - "[[Champ]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Cultural Relativism]]"
 related_theories:
   - "[[Control-Value Theory]]"
   - "[[Cognitive Load Theory]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-05'
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Self-Determination Theory
@@ -193,7 +194,7 @@ updated: 2026-10-07
 
 > [!debates] 理论争议
 >
-> > [!axis] 三大心理需求的跨文化普适性 vs 文化相对主义
+> > [!axis] 三大心理需求的跨文化普适性 vs [[Cultural Relativism|文化相对主义]]
 > > 争论西方个人主义文化中的“自主性”是否适用于集体主义东亚文化。
 > >
 > > - **文化相对主义学者（Markus & Kitayama, 1991）** 认为集体主义社会更看重服从、义务与社会关系和谐，自主性并非首要需求。

@@ -8,7 +8,7 @@ aliases:
 summary: "指在非西方威权情境中，部分去殖民学者因过度审查社会制度与自由法治的西方殖民起源（pedigree），而在客观上否定并剥夺了本土人（native agency）选择和保留这些制度的权利，与威权统治者在文化相对主义上达成合流的理论矛盾"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
   - comparative-education
 related_concepts:
   - "[[Discourse]]"
+  - "[[Cultural Relativism]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Grand Theory]]"
   - "[[Disciplina and Doctrina]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-07-13'
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Decolonial Paradox
@@ -57,7 +58,7 @@ updated: 2026-10-07
 > - **概念边界** 它并不否认西方殖民主义的历史罪恶，而是警示不能以“反殖民”为借口，将本地学童和市民追求的自由与专业自主空间扣上“殖民遗毒”的帽子予以消灭（p.155）。
 
 > [!citation-card]- 关键学术表述
-> 过度专注于思想或制度的殖民谱系，必然导致对本地人能动性的背叛。去殖民主义学者与非西方极权主义者在文化相对主义上达成合流，共同合谋了对本土人权利的剥夺。
+> 过度专注于思想或制度的殖民谱系，必然导致对本地人能动性的背叛。去殖民主义学者与非西方极权主义者在[[Cultural Relativism|文化相对主义]]上达成合流，共同合谋了对本土人权利的剥夺。
 >
 > *“...Hong Kong thus stands as a warning of how 'decolonial' thinking, in obsessing over the 'pedigree' of ideas, can overlook the importance of native 'agency'.”*（[[Argument_Vickers_2024_CE\|Vickers, 2024, p. 155]]）
 
@@ -104,7 +105,7 @@ updated: 2026-10-07
 > [!claim] Vickers, 2024
 > **谱系审查与威权压迫的理论共谋**
 > - **殖民起源的污名化** 在盎格鲁学术界中，香港所保留的普通法系、司法独立、人权边界以及LS的[[Inquiry-Based Learning\|探究式教学]]，因其带有英国殖民时代的演进烙印，被贴上“殖民建构”的标签，其在现实中制衡威权、保护市民自由的防御性功能被完全忽视（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.154–155]]）。
-> - **文化相对主义的合流** 西方去殖民主义者所主张的“解脱西方霸权”与中国宪政学者（如[[Jiang Shigong\|强世功]]）宣称的“清除西方殖民洗脑、恢复种族自我意识”在逻辑上达成奇妙的共鸣。这使得威权政府可以合理合法地以“去殖民”和“去西化”的名义，彻底废除限制政府权力的法治契约（p.139）。
+> - **[[Cultural Relativism|文化相对主义]]的合流** 西方去殖民主义者所主张的“解脱西方霸权”与中国宪政学者（如[[Jiang Shigong\|强世功]]）宣称的“清除西方殖民洗脑、恢复种族自我意识”在逻辑上达成奇妙的共鸣。这使得威权政府可以合理合法地以“去殖民”和“去西化”的名义，彻底废除限制政府权力的法治契约（p.139）。
 > - **学术失语与犬儒主义** 在这套去殖民[[Grand Theory\|宏大叙事]]下，西方进步学者无法面对香港本地学童被强行灌输臣民思想的现实，选择用沉默或“[[Guangdong-Hong Kong-Macau Greater Bay Area\|大湾区]]整合是去殖民必然趋势”的话语来掩盖现实中的集权控制（p.154）。
 
 ---

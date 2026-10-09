@@ -11,7 +11,7 @@ aliases:
 summary: "个体或群体在特定情境中综合调动认知、情绪与环境资源生成新颖且适切成果的心理能力与综合表现，在教育与心理学中兼具预测变量与发展结果的双重属性；在科学学与创新政策视阈下，个体科学创造力呈现显著的早年黄金生命周期，易受学术评价增量偏好与共识评审的体制性抑制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 98
+related_count: 99
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -61,6 +61,7 @@ related_concepts:
   - "[[Constructive Disobedience]]"
   - "[[Bureaucracy]]"
   - "[[Epistemology]]"
+  - "[[Grand Theory]]"
   - "[[Predictive Validity]]"
   - "[[Student-Teacher Relationship]]"
   - "[[APA Style]]"
@@ -306,7 +307,7 @@ updated: 2026-10-09
 > 探讨前沿科技与软件构建中审美品味的不可替代性，以及为何自愿限制战术灵活性的“奥德修斯约束”与长程托管是实现长周期创造性生产的根本路径。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]] & [[Nicholas Zamiska|Zamiska, N. W.]]; Fahlenbrach, R.; Lee, J. M. et al.; Swensen, D.
-> **审美品味与非委员会决断对突破性创造的决定性作用** 软件工程与硬科技构建兼具严密算法与艺术品味，需要对程序架构与工程师性格优劣做出定性裁量。硅谷早期之所以能诞生技术奇迹，根本原因在于它为具备独立审美品味的创始人保留了空间，允许其行使艺术评判权并坚持胜利与失败的宏大叙事，而非屈从于平庸合规的委员会协商。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 207–208)]]
+> **审美品味与非委员会决断对突破性创造的决定性作用** 软件工程与硬科技构建兼具严密算法与艺术品味，需要对程序架构与工程师性格优劣做出定性裁量。硅谷早期之所以能诞生技术奇迹，根本原因在于它为具备独立审美品味的创始人保留了空间，允许其行使艺术评判权并坚持胜利与失败的[[Grand Theory|宏大叙事]]，而非屈从于平庸合规的委员会协商。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 207–208)]]
 >
 > **奥德修斯约束与创始人长程治理溢价** 在荷马史诗中，奥德修斯命令船员将其紧紧绑缚在船桅上以抵御塞壬女妖的致命诱惑。随意调头的战术灵活性往往只是权力的假象；甘愿约束选择、将自己绑在桅杆上的战略定力才是通往创造性生产的最佳乃至唯一路径。实证金融学与技术创新计量研究（Fahlenbrach, 2009; Lee et al., 2016）系统证实：创始人掌舵的企业在年化超额回报（高出全市场 4.4%）与高被引重大核心专利数量（高出 31%）上显著超越职业经理人合规治理；配合耶鲁捐赠基金主管大卫·斯文森（David Swensen）面向三百年的长程资产托管哲学，自愿自我约束构成了抵御季度财报短期主义、庇护颠覆性创造力的核心机制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 208–212)]]
 

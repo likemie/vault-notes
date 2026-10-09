@@ -7,7 +7,7 @@ title: "Argument_Matthews(Ed.)_2018_Springer"
 argument_key: "Argument_Matthews(Ed.)_2018_Springer"
 argument_display_title: "History, Philosophy and Science Teaching: New Perspectives"
 argument_kind: "edited-volume"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Hidden Curriculum]]"
   - "[[Knowledge Production]]"
   - "[[Ontology]]"
+  - "[[Cultural Relativism]]"
   - "[[Self-Regulated Learning]]"
   - "[[Paradigm]]"
   - "[[Scientifically Based Research]]"
@@ -100,7 +101,7 @@ updated: 2026-10-08
 
 > [!volume-argument] 编者组织主张
 > - **共同问题** 编者认为，任何明智且深刻的学科教学，都必然要求教师和课程开发者对所教学科的历史、认识论（epistemology）与[[Ontology\|本体论]]（ontology）具备清晰认识（p. x）。全书各章共同回应的核心命题是：科学是一种具有特定认识论规范与历史演进轨迹的人类文化成就，科学教学必须使学习者理解证据与主张之间的理性联结。
-> - **组织逻辑** 编者将全书 12 篇论文划分为四个有机衔接的部分。首先在文化与历史哲学高度确立科学教育与启蒙传统的内在统一性，有力驳斥文化相对主义对科学客观性的消解（Part I）；接着打通认识论规范与教育心理学机制，探讨学生如何在微观共同体中掌握科学[[Epistemic Practices\|认识论实践]]与[[Self-Regulated Learning\|自我调节学习]]（Part II）；随后通过物理学（能量）与生物学（演化论）的具体教学设计，示范科学史哲如何为课程正当性提供四支柱支撑（Part III）；最终以教育哲学透视长期被回避的灌输难题，划定合法权威传递与教条灌输的边界（Part IV）（pp. xi–xxii）。
+> - **组织逻辑** 编者将全书 12 篇论文划分为四个有机衔接的部分。首先在文化与历史哲学高度确立科学教育与启蒙传统的内在统一性，有力驳斥[[Cultural Relativism|文化相对主义]]对科学客观性的消解（Part I）；接着打通认识论规范与教育心理学机制，探讨学生如何在微观共同体中掌握科学[[Epistemic Practices\|认识论实践]]与[[Self-Regulated Learning\|自我调节学习]]（Part II）；随后通过物理学（能量）与生物学（演化论）的具体教学设计，示范科学史哲如何为课程正当性提供四支柱支撑（Part III）；最终以教育哲学透视长期被回避的灌输难题，划定合法权威传递与教条灌输的边界（Part IV）（pp. xi–xxii）。
 > - **整体贡献** 本书系统弥补了此前国际手册未能充分覆盖的研究盲区，特别是将[[Enlightenment\|启蒙运动]]（Enlightenment）传统、文化科学教育研究（CSSE）批判以及教育哲学中的教条灌输（indoctrination）问题确立为 HPS&ST 领域的标准分析[[Paradigm\|范式]]，为科学教育捍卫客观理性与可错主义（fallibilism）立场提供了坚实的方法论支持（pp. x–xi, p. xvii, pp. xxi–xxiii）。
 
 编者对现代科学教育与启蒙运动传统的紧密共生关系作出了明确界定。
@@ -159,7 +160,7 @@ updated: 2026-10-08
 > - **科学史、科学哲学与科学教学（History, Philosophy and Science Teaching, HPS&ST）** 贯穿全书的核心跨学科框架。它主张自然科学教学不能切断知识与历史发现情境、[[Epistemology\|认识论]]辩护基础以及[[Ontology\|本体论]]假定的联系，强调通过历史启发与哲学反思提升教学品质。（p. ix, pp. xxii–xxiii）
 > - **[[Nature of Science\|科学本质]]（Nature of Science, NOS）** 全书的理论焦点之一。编者与各章作者既承认 NOS 研究在国际科学教育改革中的巨大推进作用，又着力克服传统清单式（consensus view）NOS 教学在认识论上的肤浅化与机械化倾向，呼吁转向更具[[Reflexivity\|反思性]]的深层机制。（p. x, pp. xvii–xviii）
 > - **[[Enlightenment\|启蒙运动]]（Enlightenment）与可错主义（Fallibilism）** 全书的规范性理论旗帜。编者坚持启蒙运动确立的证据优先、理性批判与普遍人权价值，并指出在绝对无误论（infallibilism）与虚无相对主义（relativism）之间，科学展现出一种严密的可错主义认知机制。（pp. xii–xiii, p. xvii）
-> - **文化科学教育研究（Cultural Studies of Science Education, CSSE）与[[Constructivist Paradigm\|建构主义]]批判** 全书直面审视的当代流派。编者指明建构主义（constructivism）在认识论上的主观唯心主义陷阱，警告 CSSE 中滋生的后现代文化相对主义正在动摇科学真理的公共合法性。（pp. xv–xvii）
+> - **文化科学教育研究（Cultural Studies of Science Education, CSSE）与[[Constructivist Paradigm\|建构主义]]批判** 全书直面审视的当代流派。编者指明建构主义（constructivism）在认识论上的主观唯心主义陷阱，警告 CSSE 中滋生的后现代[[Cultural Relativism|文化相对主义]]正在动摇科学真理的公共合法性。（pp. xv–xvii）
 > - **[[Epistemic Practices\|认识论实践]]（Epistemic Practices）与[[Self-Regulated Learning\|自我调节学习]]（Self-Regulated Learning, SRL）** Part II 的核心机制工具。将认识论主体从[[René Descartes\|笛卡尔]]式的孤立个体拓展为社会协商共同体，并在认知心理学层面利用 SRL 目标设定、监控与反思子过程落实科学思维培育。（pp. xvii–xix）
 > - **文化内容知识（Cultural Content Knowledge, CCK）** Part III 提出的物理学课程重塑[[Paradigm\|范式]]。将科学知识超越狭隘的公式解题体系，呈现为人类思想史上关于重量、光学等根本[[Construct\|构念]]演化的文化全景。（pp. xix–xx）
 > - **教条灌输（Indoctrination）与[[Hidden Curriculum|隐性课程]]（Hidden Curriculum）** Part IV 的规范分析工具。探讨当科学知识因远离直接感官经验而不得不依赖权威证言与第二手信息时，如何界定合法概念入门与歪曲灌输的规范性界限。（pp. xxi–xxii）
@@ -171,7 +172,7 @@ updated: 2026-10-08
 全书各章节跨越不同分支学科，但在若干根本哲学命题上展现出高度呼应的横向关联。
 
 > [!cross-chapter] 跨章主题线索
-> - **主题线索一：科学划界、启蒙理性与反相对主义的文化战役** 探讨科学教育如何划定伪科学界限并抵御文化相对主义侵蚀。
+> - **主题线索一：科学划界、启蒙理性与反相对主义的文化战役** 探讨科学教育如何划定伪科学界限并抵御[[Cultural Relativism|文化相对主义]]侵蚀。
 >   - **相关章节** Ch. 1 Argument_Matthews_2018_FengShui；Ch. 2 Argument_Nola_2018_EnlightenmentTruths；Ch. 3 Argument_Peker_Taskin_2018_TurkeyEnlightenment；Ch. 4 Argument_McCarthy_2018_CSSEAppraisal。
 >   - **阅读价值** 本线索展现了理性辩护从抽象分析哲学（Nola 对启蒙属性的流行病学考察）、具体民俗迷信剖析（Matthews 对风水伪科学性的界定）、国别现代化政教冲突史（Peker & Taskin 对土耳其世俗教育的考察），到当代学术阵地清理（McCarthy 对 CSSE 内部后现代相对主义的严厉批判）的完整推进链条。
 > - **主题线索二：[[Epistemology\|认识论]]探究与微观学习心理机制的贯通** 探讨科学哲学中的认识论规范如何有效转化为学生课堂认知与思维习惯。
@@ -193,7 +194,7 @@ updated: 2026-10-08
 > [!chapter-roadmap] 章节处理路线
 > - **已处理章节** 全书概览（Overview）及编者导论（*New Perspectives in History, Philosophy and Science Teaching: An Introduction*）；Ch. 05 [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]（构建微观课堂[[Epistemic Practices\|认识论实践]]的四维行动框架与三大教学取向对比）。
 > - **优先处理章节**
->   - **Ch. 01** Argument_Matthews_2018_FengShui — 迈克尔·马修斯（Michael R. Matthews）对风水迷信、科学与伪科学界分以及科学教育世界观重塑责任的核心论证，直接奠定全书反思文化相对主义的基调。
+>   - **Ch. 01** Argument_Matthews_2018_FengShui — 迈克尔·马修斯（Michael R. Matthews）对风水迷信、科学与伪科学界分以及科学教育世界观重塑责任的核心论证，直接奠定全书反思[[Cultural Relativism|文化相对主义]]的基调。
 >   - **Ch. 02** Argument_Nola_2018_EnlightenmentTruths — 罗伯特·诺拉（Robert Nola）运用当代分析哲学对启蒙抽象名词化陷阱进行的概念清算与流行病学属性模型，是全书的理论枢纽。
 >   - **Ch. 04** Argument_McCarthy_2018_CSSEAppraisal — 克里斯汀·麦卡锡（Christine L. McCarthy）对文化科学教育研究（CSSE）与后现代[[Constructivist Paradigm\|建构主义]]的哲学解构，属于科学教育哲学争论的标志性[[Document\|文献]]。
 >   - **Ch. 11** Argument_Hansson_2018_IndoctrinationHiddenCurriculum — 莉娜·汉森（Lena Hansson）关于[[Hidden Curriculum|隐性课程]]、唯[[Scientism\|科学主义]]扭曲形象与教条灌输的分析。

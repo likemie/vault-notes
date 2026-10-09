@@ -51,6 +51,7 @@ related_persons:
   - "[[Isaiah Berlin]]"
   - "[[Vannevar Bush]]"
   - "[[Franklin D. Roosevelt]]"
+  - "[[Kenneth Burke]]"
   - "[[Alfred Nobel]]"
   - "[[Dwight D. Eisenhower]]"
   - "[[Richard C. Atkinson]]"
@@ -96,9 +97,9 @@ title: "Argument_Atkinson_2008_TIS"
 argument_key: "Argument_Atkinson_2008_TIS"
 argument_display_title: "Research universities: Core of the US science and technology system"
 argument_kind: "journal-article"
-argument_related_count: 59
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 60
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Technology in Society"
 book_title: ""
@@ -237,7 +238,7 @@ issuing_organization: ""
 1940 年 6 月[[Franklin D. Roosevelt|罗斯福总统]]设立国家国防研究委员会（National Defense Research Committee, NDRC），并在 1941 年升格为[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（[[Office of Scientific Research and Development|OSRD]]），由万尼瓦尔·布什领衔，哈佛[[Grandes Ecoles|大学校]]长科南特、麻省理工学院（Massachusetts Institute of Technology, MIT）校长康普顿及贝尔实验室总裁朱厄特协同执掌。（pp.34–35）
 
 > [!proc] 战时科研动员向常态科研体系转化的机制推进
-> 1. **开创联邦政府与大学科研合同资助机制** [[Office of Scientific Research and Development|OSRD]] 改变了以往政府自建实验室的旧规，直接与大学签订研发合同，设立MIT [[MIT Radiation Laboratory|辐射实验室]]（Rad Lab，雷达攻关）与芝加哥大学冶金实验室（原子核链式反应），加利福尼亚大学伯克利分校主持洛斯阿拉莫斯实验室研发原子弹。（pp.34–35）
+> 1. **开创联邦政府与大学科研合同资助机制** [[Office of Scientific Research and Development|OSRD]] 改变了以往政府自建实验室的旧规，直接与大学签订研发合同，设立MIT [[MIT Radiation Laboratory|辐射实验室]]（Rad Lab，雷达攻关）与芝加哥大学冶金实验室（原子核链式反应），加利福尼亚大学[[Kenneth Burke|伯克]]利分校主持洛斯阿拉莫斯实验室研发原子弹。（pp.34–35）
 > 2. **战时知识储备消耗倒逼自主基础研究供给** 战前美国工业界主要依赖欧洲学界的理论成果进行应用转化；欧洲在二战中的严重破坏促使美国决策层认识到必须依托本土大学建立基础研究供给源泉。（pp.35–36）
 > 3. **[[Pool of Knowledge|知识池隐喻]]确立基础研究的公共品属性** 布什提出[[Pool of Knowledge|知识池理论]]（Pool of Knowledge）：基础科学如同知识蓄水池，为工业创新提供活水；企业因研究成果具有公开性与非排他性而缺乏投资动力，必须由联邦政府作为公共品予以全额资助。（p.35）
 

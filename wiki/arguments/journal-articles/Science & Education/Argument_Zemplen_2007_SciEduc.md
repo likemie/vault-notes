@@ -36,6 +36,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Scientific Method]]"
+  - "[[Cultural Relativism]]"
   - "[[Value Neutrality]]"
   - "[[Socioscientific Issues]]"
   - "[[Science and Technology Studies]]"
@@ -86,7 +87,7 @@ title: "Argument_Zemplen_2007_SciEduc"
 argument_key: "Argument_Zemplen_2007_SciEduc"
 argument_display_title: "Conflicting agendas: Critical thinking versus science education in the International Baccalaureate Theory of Knowledge course"
 argument_kind: "journal-article"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -254,7 +255,7 @@ issuing_organization: ""
 > [!contrast-table] Alchin 教科书中范式概念的两种用法
 > | 使用语境 | 范式概念的使用方式 | 问题 |
 > |---|---|---|
-> | **范式与文化章节** | 引入模糊的大范式（grand-paradigms）：古典范式（在哥白尼之后！）被启蒙范式取代，后者可能让位于基于进化论和普遍怀疑主义的现代范式（声称没有通往真理的道路）（Alchin, 2003b, pp.177–181） | 历史时序错乱（哥白尼被放在古典范式中）；大范式的划分方式缺乏学术依据；暗示某种文化相对主义 |
+> | **范式与文化章节** | 引入模糊的大范式（grand-paradigms）：古典范式（在哥白尼之后！）被启蒙范式取代，后者可能让位于基于进化论和普遍怀疑主义的现代范式（声称没有通往真理的道路）（Alchin, 2003b, pp.177–181） | 历史时序错乱（哥白尼被放在古典范式中）；大范式的划分方式缺乏学术依据；暗示某种[[Cultural Relativism\|文化相对主义]] |
 > | **自然科学章节** | 回归累积进步观：虽然牛顿是错的，但他还是相当对的。爱因斯坦虽然可能也是错的，但他对得更多（Alchin, 2003a, p.18） | 与[[Deanna Kuhn\|库恩]]关于范式不可通约的核心主张直接矛盾；累积观无法与范式革命的理论相容 |
 
 > [!case] 大爆炸（Big Bang）案例：教科书无法调和库恩与实验传统

@@ -9,10 +9,10 @@ summary: "美国著名历史学家，芝加哥大学历史学教授，全球通�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1917"
 died: "2016"
 lifespan: "1917–2016"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Civic Religion]]"
   - "[[Paradigm]]"
   - "[[General Education]]"
+  - "[[Cultural Relativism]]"
 related_theories:
   - "[[Pluralism]]"
 related_methods: []
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # William H. McNeill
@@ -78,7 +79,7 @@ updated: 2026-10-08
 > [!work-line] 代表著作与学术视野
 > - **1963 — *The [[Research in Schools Evaluation|RISE]] of the West*** 突破传统国别史孤立视角，从各大文明相互碰撞与技术文化扩散的宏观视野重构人类整体历史演进。
 > - **1976 — *Plagues and Peoples*** 开创环境史与疫病生态史跨学科先河，揭示传染病在地缘政治与文明兴衰中的决定性机制。
-> - **1997 — *[[Western Civilization Course|Western Civ]] in World Politics: What We Mean by the West*** 阐明西方文明通识课程在多元移民社会中扮演的[[Civic Religion|公民宗教]]功能，批判全盘否定文化优劣判断的极端文化相对主义倾向。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 84–85, 93)]]
+> - **1997 — *[[Western Civilization Course|Western Civ]] in World Politics: What We Mean by the West*** 阐明西方文明通识课程在多元移民社会中扮演的[[Civic Religion|公民宗教]]功能，批判全盘否定文化优劣判断的极端[[Cultural Relativism|文化相对主义]]倾向。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 84–85, 93)]]
 
 ---
 
