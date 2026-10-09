@@ -100,9 +100,15 @@ updated: 2026-10-10
 ## 政策意义与生态演进
 
 > [!pathways] [[Modern Industrial Policy|现代产业政策]]推动 PDK 开放与标准化的核心路径
-> - **破除实验室到代工厂（[[Translational Research|lab-to-fab]]）的准入壁垒** 传统商业代工厂对先进制程 PDK 施加严苛的非公开商业审查与法律保密壁垒，将中小微初创公司与高校研究者阻隔在先进硬件创新之外。
-> - **建设国家级云端设计网关与标准参考流程** [[National Science and Technology Council|NSTC]] 与 [[DARPA]] 通过搭建集中托管的设计网关（Design Enablement Gateway, DEG），预集成多晶圆厂 PDK 与端到端参考设计流程，使研究人员无需重复签署繁琐法务协议即可调用硅验证工具链。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 16–17)]]
-> - **推动开源 PDK 革命与跨代工厂互操作性** 借鉴 SkyWater 130nm 等开源 PDK 先例，联邦产业政策鼓励代工厂开放成熟制程模型，繁荣开源 EDA 工具链（如 OpenROAD），并提高芯片设计在不同代工产线之间的可移植性。
+> - **破除实验室到代工厂（[[Translational Research|lab-to-fab]]）的准入壁垒** 传统商业代工厂对先进制程 PDK 施加严苛的非公开商业审查与法律保密壁垒，将中小微初创公司与高校研究者阻隔在先进硬件创新之外。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 5, 11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 23–24)]]
+> - **建设国家级云端设计网关与标准参考流程** [[National Semiconductor Technology Center|NSTC]] 与 [[DARPA]] 通过搭建集中托管的设计网关，预集成多晶圆厂 PDK、装配设计套件（Assembly Design Kit, ADK）与端到端参考设计流程，使研究人员无需重复签署繁琐法务协议即可调用硅验证工具链。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 16–17)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 15, 23–24)]]
+> - **推动开源 PDK/ADK 革命与跨代工厂互操作性** 鼓励代工厂开放成熟制程与先进封装模型，繁荣开源 EDA 与封装装配设计工具链，大幅提升芯片与芯粒设计在不同代工与封装产线之间的可移植性。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17, 23–24)]]
 
 ---
+
+## 相关研究
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 提出构建集成 PDK/ADK 与多项目晶圆流片的国家级开放设计基础设施，打破设计工具与先进制造资源准入壁垒。
+> - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 系统阐明通过国家半导体技术中心云端设计网关集中托管商业 PDK 与开源模型，降低芯片前端设计与流片验证门槛。
 

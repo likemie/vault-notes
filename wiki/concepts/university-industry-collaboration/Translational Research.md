@@ -75,7 +75,7 @@ updated: 2026-10-10
 ## 定义
 
 > [!def] 核心定义
-> **转化研究（Translational Research）** 指将学术实验室的基础科学发现与概念验证转化为可商业化产品、临床治疗方案或工业规模化制造的研究与工程化过渡过程。在生物医药领域，转化研究表现为从实验室台架到病床边（bench-to-bedside）的临床前验证；在半导体与硬科技制造领域，转化研究表现为从实验室到晶圆代工厂（lab-to-fab）的工艺参数匹配与中试放大，其核心功能在于消除早期原理样机向规模化生产跃迁时的工程风险，跨越技术商业化的[[Valley of Death|死亡之谷]]。[[Argument_Bang_2025_ClinicalTrials|(Bang, 2025, pp. 202–203)]]; [[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025, pp. 95–96)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 6–10)]]
+> **转化研究（Translational Research）** 指将学术实验室的基础科学发现与概念验证转化为可商业化产品、临床治疗方案或工业规模化制造的研究与工程化过渡过程。在生物医药领域，转化研究表现为从实验室台架到病床边（bench-to-bedside）的临床前验证；在半导体与硬科技制造领域，转化研究表现为从实验室到晶圆代工厂（lab-to-fab）的工艺参数匹配与中试放大，其核心功能在于消除早期原理样机向规模化生产跃迁时的工程风险，跨越技术商业化的[[Valley of Death|死亡之谷]]。[[Argument_Bang_2025_ClinicalTrials|(Bang, 2025, pp. 202–203)]]; [[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025, pp. 95–96)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 6–10)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 6, 20–28)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 转化研究聚焦连接基础科学探索（[[Technology Readiness Level|技术就绪度]]，TRL 1–3）与工业规模化制造（TRL 8–9）之间的中试放大、原型工程化、工艺基线匹配与可制造性验证（TRL 4–7）。
@@ -272,6 +272,7 @@ updated: 2026-10-10
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 提出构建覆盖全美学术界与小微企业的联邦式中试与表征设施网络，通过开放EDA工具、多项目晶圆流片与先进封装测试，跨越从实验室到代工厂的转化鸿沟。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 系统阐明半导体硬科技领域从实验室到代工厂（lab-to-fab）的转化研究战略，提出通过共享 300 毫米中试线、极紫外光刻机时、Fab-to-Lab 切片测试与云端设计网关，构建多部门协同的端到端转化流水线。
 > - [[Argument_Narayan_Spohrer_2025_Metrics|Narayan & Spohrer (2025)]] — 深入剖析传统学术激励与产业硬化技能之间的双重断层，以 IBM 研发队伍结构转型为案例，探讨 [[National Science Foundation|NSF TIP]] 理事会与融合加速器在弥合转化鸿沟中的机制。
 > - [[Argument_Bang_2025_ClinicalTrials|Bang (2025)]] — 阐释生物制药领域从实验室台架到病床边（bench-to-bedside）的转化研究机制，揭示大学专有类器官与动物模型在塑造临床前合作与 I 期临床方案中的前置决定功能。

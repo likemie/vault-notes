@@ -160,7 +160,7 @@ updated: 2026-10-10
 > - **2023-09** 商务部发布护栏条款最终实施规则，明确先进制程在华扩产 5% 的严格上限；国防部宣布拨款 2.38 亿美元启动[[Microelectronics Commons|微电子共用体]]首批 8 个[[Innovation Hub|区域创新枢纽]]。[[Argument_NIST_2023_NSTC|(NIST, 2023, p. 11)]]
 > - **2023-10** 拜登政府公布首批 31 个国家技术枢纽（[[Regional Technology and Innovation Hubs|Tech Hubs]]）认定名单。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 133–134)]]
 > - **2023-11** 商务部正式成立独立非营利实体国家先进技术与半导体合作体（Natcast），受托作为 NSTC 的法定运营商。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 21–22)]]
-> - **2024-01 / 02** [[National Science Foundation|NSF TIP]] 向 10 个区域创新合作体授予高达 1.6 亿美元资助；商务部陆续公布向三星（64亿美元）、英特尔（85亿美元补贴+110亿美元贷款）与美光（61亿美元）的巨额资助协议。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 100)]]
+> - **2024-03 / 2025-04** 白宫国家科学技术委员会[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（SML）依据 2021 财年 NDAA 第 9906 条正式发布并修订《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》，统筹全美四大前沿研发与中试基础设施支柱。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 1–2, 48)]]
 > - **2024-04** 台积电宣布进一步追加亚利桑那州投资至 650 亿美元以兴建三座尖端晶圆厂，获得美联邦政府 66 亿美元直接补助与至多 50 亿美元贷款支持。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 10)]]
 
 ---

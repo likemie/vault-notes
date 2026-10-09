@@ -78,7 +78,7 @@ updated: 2026-10-09
 > [!dev-timeline] 组织发展历程
 > - **1993–2000 — 创设奠基与经济[[Competitiveness|竞争力]]导向确立** 克林顿政府组建 NSTC，确立总统挂帅、内阁成员参与的高规格架构；深度主导 1994 年《[[Science in the National Interest 1994|科学与国家利益]]》白皮书落地，统筹推动国家纳米技术倡议（NNI）等跨部门公私协同旗舰计划。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
 > - **2001–2016 — 职能深化与[[Grand Challenges|重大挑战]]导向重塑** 小布什与奥巴马时期，NSTC 下设委员会制度化扩容，聚焦反恐国家安全、气候变化监测、先进制造（Advanced Manufacturing）及干细胞/生命伦理准则，推动科研向重大社会挑战聚焦。
-> - **2017–至今 — 大国竞争加剧与再集中转向** 特朗普第一任期与拜登时期，NSTC 重点转向关键与新兴技术清单制定、量子与人工智能跨部门行动计划推进，以及[[Research Security|科研安全]]跨部门联合审查标准的出台；在《[[CHIPS and Science Act|芯片与科学法案]]》落地后，进一步跨部门统筹商务部、国防部、能源部与国家科学基金会（[[National Science Foundation|NSF]]）的半导体研发与劳动力布局；2025 年起在[[Technology-Oriented Social Contract|技术型社会契约]]导向下，成为落实总统定向技术攻关指令的核心行政中枢。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1061–1062)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 17–20)]]
+> - **2017–至今 — 大国竞争加剧与再集中转向** 特朗普第一任期与拜登时期，NSTC 重点转向关键与新兴技术清单制定、量子与人工智能跨部门行动计划推进，以及[[Research Security|科研安全]]跨部门联合审查标准的出台；在《[[CHIPS and Science Act|芯片与科学法案]]》与 2021 财年《国防授权法案》第 9906 条落地后，通过下设的[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（SML）正式发布并修订《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》，统筹商务部、国防部、能源部与国家科学基金会（[[National Science Foundation|NSF]]）的半导体研发与劳动力布局；2025 年起在[[Technology-Oriented Social Contract|技术型社会契约]]导向下，成为落实总统定向技术攻关指令的核心行政中枢。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1061–1062)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 17–20)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. ii, 1–2, 48)]]
 
 ---
 
@@ -87,7 +87,7 @@ updated: 2026-10-09
 > [!actor-grid] 组织治理架构
 > - **决策机构（理事会 / 董事会）** 美国总统亲自担任主席；副总统、商务部长、国防部长、能源部长、卫生部长及各关键研发机构长官为法定正式成员。
 > - **执行机构（秘书处 / 管理层）** 由总统科学顾问兼 [[Office of Science and Technology Policy|OSTP]] 主任担任执行主任，负责召集会议、督办跨部门联合工作组日常运转。
-> - **专家与审议委员会** 设立科学、技术、环境、国家与国土安全等专门委员会，各下设若干跨部委专项工作组（如微电子领导力小组、[[Research Security|科研安全]]联合工作组等）。
+> - **专家与审议委员会** 设立科学、技术、环境、国家与国土安全等专门委员会，各下设若干跨部委专项工作组（如[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]、[[Research Security|科研安全]]联合工作组等）。
 > - **会员与外部利益相关者** 深度联动[[National Science Board|国家科学委员会]]（NSB）、总统科技顾问委员会（PCAST）及工业界代表，吸纳外部建议。
 
 > [!pathways]- 业务运行机制

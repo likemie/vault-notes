@@ -11663,6 +11663,19 @@
     ]
   },
   {
+    "title": "Co-Design",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Co-Design.md",
+    "aliases": [
+      "协同设计",
+      "协同优化",
+      "Design-Technology Co-Optimization",
+      "DTCO",
+      "System-Technology Co-Optimization",
+      "STCO"
+    ]
+  },
+  {
     "title": "Commercial Off-The-Shelf",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Commercial Off-The-Shelf.md",
@@ -11856,6 +11869,31 @@
       "社会重大挑战",
       "grand societal challenges",
       "社会大挑战"
+    ]
+  },
+  {
+    "title": "Hardware Security",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Hardware Security.md",
+    "aliases": [
+      "硬件安全",
+      "硬件完整性与安全",
+      "Hardware Integrity and Security",
+      "硬件信任根",
+      "Hardware Root of Trust"
+    ]
+  },
+  {
+    "title": "Heterogeneous Integration",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Heterogeneous Integration.md",
+    "aliases": [
+      "异构集成",
+      "3D Heterogeneous Integration",
+      "3DHI",
+      "三维异构集成",
+      "Chiplet",
+      "芯粒技术"
     ]
   },
   {
@@ -32394,6 +32432,16 @@
     ]
   },
   {
+    "title": "Subcommittee on Microelectronics Leadership",
+    "type": "fact",
+    "path": "wiki/facts/us/Subcommittee on Microelectronics Leadership.md",
+    "aliases": [
+      "微电子领导力小组委员会",
+      "SML",
+      "NSTC SML"
+    ]
+  },
+  {
     "title": "System Development Corporation",
     "type": "fact",
     "path": "wiki/facts/us/System Development Corporation.md",
@@ -32785,6 +32833,15 @@
       "NRSA",
       "National Research Service Award",
       "国家研究服务奖"
+    ]
+  },
+  {
+    "title": "National Strategy on Microelectronics Research",
+    "type": "fact",
+    "path": "wiki/facts/us/National Strategy on Microelectronics Research.md",
+    "aliases": [
+      "国家微电子研究战略",
+      "美国国家微电子研究战略"
     ]
   },
   {
@@ -33490,6 +33547,16 @@
     "aliases": [
       "国家扩散网络",
       "NDN"
+    ]
+  },
+  {
+    "title": "National Nanotechnology Coordinated Infrastructure",
+    "type": "fact",
+    "path": "wiki/facts/us/National Nanotechnology Coordinated Infrastructure.md",
+    "aliases": [
+      "国家纳米技术协调基础设施",
+      "NNCI",
+      "美国国家纳米技术协调基础设施"
     ]
   },
   {
@@ -35554,6 +35621,11 @@
     "title": "Argument_Kratsios_2026_OSTP",
     "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md"
+  },
+  {
+    "title": "Argument_NSTC_2024_MicroelectronicsResearch",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/Argument_NSTC_2024_MicroelectronicsResearch.md"
   },
   {
     "title": "Argument_RoyalSociety_2026_ScienceForSociety",
