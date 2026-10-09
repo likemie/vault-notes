@@ -56,7 +56,6 @@ related_facts:
   - "[[Joint University Microelectronics Program 2.0]]"
   - "[[CHIPS and Science Act]]"
   - "[[National Semiconductor Technology Center]]"
-  - "[[National Science and Technology Council]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[American Council on Education]]"
   - "[[National Research and Resource Facility for Submicron Structures]]"
@@ -68,10 +67,11 @@ related_arguments:
   - "[[Argument_Macher_1998_CMR]]"
   - "[[Argument_Mody_2017_MOH]]"
   - "[[Argument_Zhuo_2026_ICE]]"
+  - "[[Argument_NIST_2023_NSTC]]"
 confidence: high
 status: active
 created: 2026-06-04
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 
 # Semiconductor Research Corporation
