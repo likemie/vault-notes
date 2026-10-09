@@ -47,7 +47,7 @@ Total entries: **748**
 | Higher Education `#level` | 95 |
 | University Industry Collaboration `#theme` | 72 |
 | K12 `#level` | 61 |
-| Science Policy `#theme` | 59 |
+| Science Policy `#theme` | 60 |
 | International Education `#theme` | 36 |
 | Innovation `#theme` | 32 |
 | Evidence Based Education `#theme` | 27 |

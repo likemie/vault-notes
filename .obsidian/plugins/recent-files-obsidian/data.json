@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "CHIPS and Science Act",
+      "path": "wiki/facts/us/CHIPS and Science Act.md"
+    },
+    {
+      "basename": "Argument_Zhuo_2026_ICE",
+      "path": "wiki/arguments/journal-articles/International and Comparative Education/Argument_Zhuo_2026_ICE.md"
+    },
+    {
+      "basename": "Directionality of Innovation",
+      "path": "wiki/concepts/science-policy/Directionality of Innovation.md"
+    },
+    {
       "basename": "Triple Helix",
       "path": "wiki/theories/university-industry-collaboration/Triple Helix.md"
     },
     {
       "basename": "Argument_Hall(Ed.)_2025_Springer",
       "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md"
-    },
-    {
-      "basename": "Argument_Zhuo_2026_ICE",
-      "path": "wiki/arguments/journal-articles/International and Comparative Education/Argument_Zhuo_2026_ICE.md"
     },
     {
       "basename": "Securitization of Technology",
@@ -191,14 +199,6 @@
     {
       "basename": "Ralph Waldo Emerson",
       "path": "wiki/persons/us/Ralph Waldo Emerson.md"
-    },
-    {
-      "basename": "Thomas Hart Benton",
-      "path": "wiki/persons/us/Thomas Hart Benton.md"
-    },
-    {
-      "basename": "Herbert Hoover",
-      "path": "wiki/persons/us/Herbert Hoover.md"
     }
   ],
   "omittedPaths": [],
