@@ -7,7 +7,7 @@ aliases:
 summary: "新古典福利经济学核心概念，指由于公共品、外部性、信息不对称与不完全竞争导致自由市场价格机制无法实现帕累托最优资源配置；在科技政策中构成了传统研发资助与产业政策（集聚外部性、干中学效应）的基准依据，但在演化经济学与当代地缘政治产业政策实践中，该框架因无法指引演化方向并被国家安全与供应链保险动机所超越，成为理论反思与扩展的核心对象。"
 type: concept
 domain: "science-policy"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -61,6 +61,7 @@ related_facts:
   - "[[Government Digital Service]]"
   - "[[Important Projects of Common European Interest]]"
   - "[[National Science and Technology Council]]"
+  - "[[Natcast]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Bown_2024_JEP]]"
@@ -282,7 +283,7 @@ updated: 2026-10-10
 > | 2020年代美国现代产业战略 | 制造业去工业化、供应链脆弱、气候转型与区域极化 | 三大支柱立法（[[Infrastructure Investment and Jobs Act\|IIJA]]、[[CHIPS and Science Act\|CHIPS]]、[[Inflation Reduction Act\|IRA]]）及制度化附加条件 | 推动战略产业回流，拉动超 5000 亿美元私人投资，重塑绿色与半导体生产体系 | 依赖公共行政执行能力、面临宏观通胀与劳动力供给瓶颈 | [[Argument_Reynolds_2024_JICT\|(Reynolds, 2024, pp. 1–3, 6)]] |
 > | 英国数字政府与创新转型 | 传统政府采购锁定、系统[[Reflexivity\|反思性]]与跨部门协调缺失 | 设立政府数字服务局（[[Government Digital Service\|GDS]]）、重构公共采购标准 | 打破单一大型 IT 供应商垄断、节约数十亿英镑财政支出 | 依赖强有力的政治授权与公共机构内部动态技术能力 | [[Argument_Kattel_Mazzucato_2018_ICC\|(Kattel & Mazzucato, 2018, pp. 797–800)]] |
 > | 尖端半导体制造极端重资产与周期避险 | 单厂 200 亿欧元固定投资壁垒、剧烈繁荣萧条周期与单一咽喉垄断（[[Taiwan Semiconductor Manufacturing Corporation\|TSMC]] 垄断 92% 先进制程） | 美欧半导体法案（中央 527 亿美元直接拨款 vs. 欧委会放宽国家援助与 [[Important Projects of Common European Interest\|IPCEI]]） | 跨国巨头宣布重资产建厂承诺（如台积电亚利桑那追加至 650 亿美元），试图打破单点脆弱性 | 自由市场避险机制无法自发储备安全冗余，需依赖公共资本分担资本折旧风险 | [[Argument_Bulfone_2024_IAI\|(Bulfone et al., 2024, pp. 7, 10–14)]] |
-> | [[Argument_NIST_2023_NSTC\|NIST (2023)]] 前沿中试断层与产业公共品供给 | 300mm 先进制程中试线数百亿美元资本壁垒、数百万美元流片成本与设计授权门槛导致的实验室到代工厂（[[Translational Research\|lab-to-fab]]）失灵 | 设立[[National Semiconductor Technology Center\|国家半导体技术中心]]（[[National Science and Technology Council\|NSTC]]），构建共享中试技术中心网络、云端设计网关（DEG）与拼版流片（MPW） | 确立 110 亿美元研发基金，将中试验证能力转化为中立产业公共品，降低初创企业准入门槛 | 依赖中立非营利运营机构（Natcast）的专业受托能力与长期多元造血机制 | [[Argument_NIST_2023_NSTC\|(NIST, 2023, pp. 6–10, 20–23)]] |
+> | [[Argument_NIST_2023_NSTC\|NIST (2023)]] 前沿中试断层与产业公共品供给 | 300mm 先进制程中试线数百亿美元资本壁垒、数百万美元流片成本与设计授权门槛导致的实验室到代工厂（[[Translational Research\|lab-to-fab]]）失灵 | 设立[[National Semiconductor Technology Center\|国家半导体技术中心]]（[[National Science and Technology Council\|NSTC]]），构建共享中试技术中心网络、云端设计网关（DEG）与拼版流片（MPW） | 确立 110 亿美元研发基金，将中试验证能力转化为中立产业公共品，降低初创企业准入门槛 | 依赖中立非营利运营机构（[[Natcast]]）的专业受托能力与长期多元造血机制 | [[Argument_NIST_2023_NSTC\|(NIST, 2023, pp. 6–10, 20–23)]] |
 
 ---
 

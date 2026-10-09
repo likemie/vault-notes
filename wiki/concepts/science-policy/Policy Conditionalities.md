@@ -10,7 +10,7 @@ aliases:
 summary: "现代产业政策中政府向受补贴或受资助企业施加的契约性与法定约束机制；通过将公共财政支持与公共价值目标（包括高标准劳动力发展、托儿支持、禁止股票回购、超额利润分享、国家安全护栏及本土采购含量要求等）硬性绑定，旨在克服传统产业补贴的私营资本寻租与无条件分红弊端，实现兼具经济效率、供应链安全与社会包容的双重目标。"
 type: concept
 domain: "science-policy"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -49,6 +49,7 @@ related_facts:
   - "[[European Chips Act]]"
   - "[[Important Projects of Common European Interest]]"
   - "[[National Science and Technology Council]]"
+  - "[[Natcast]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[World Bank]]"
   - "[[International Monetary Fund]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 
 # Policy Conditionalities
@@ -125,7 +126,7 @@ updated: 2026-10-09
 > - **资本纪律与公共收益分享机制（Capital Discipline & Profit-Sharing）** 明确禁止受资助企业动用补贴资金回购本公司股票，并对超出商业预期的超额利润设置公共返还机制，实现公共与私人部门的风险收益对等。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–9)]]
 > - **国家安全与地缘护栏条款（National Security Guardrails）** 设立 10 年期具有法律约束力的“护栏条款”，严禁受资助芯片制造企业在特定受关切国家扩大先进制程产能超过 5%，防范技术外溢与地缘反噬。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 8)]]
 > - **需求拉动与本土采购含量要求（Domestic Content & Demand Pull）** 通过立法（如《[[Build America, Buy America Act|以美国制造为荣法案]]》BABA）硬性要求联邦资助项目使用本土钢铁与建材，或将最高清洁税收抵免与本土[[Assemblage|组装]]配额绑定。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–14)]]
-> - **研发中试公私合作的开放准入与知识产权均衡条件（R&D Consortium Conditionalities）** 附加条件超越了制造建厂补贴，延伸至国家级研发中试联合体（如 [[National Science and Technology Council|NSTC]]）。联邦政府要求运营实体必须实行开放包容的会员准入、向全美高校与初创企业开放 300mm 基线设施与 DEG 云端工具，并将共性[[Precompetitive Research|前竞争研发]]成果设定为非排他、全球免版税许可，同时强制要求非营利运营商（Natcast）建立多元收入流实现长期自负盈亏，确保公共研发投资转化为持久的产业共性公共产品。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 10–11)]]
+> - **研发中试公私合作的开放准入与知识产权均衡条件（R&D Consortium Conditionalities）** 附加条件超越了制造建厂补贴，延伸至国家级研发中试联合体（如 [[National Science and Technology Council|NSTC]]）。联邦政府要求运营实体必须实行开放包容的会员准入、向全美高校与初创企业开放 300mm 基线设施与 DEG 云端工具，并将共性[[Precompetitive Research|前竞争研发]]成果设定为非排他、全球免版税许可，同时强制要求非营利运营商（[[Natcast]]）建立多元收入流实现长期自负盈亏，确保公共研发投资转化为持久的产业共性公共产品。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 10–11)]]
 > - **集中强约束 vs. 危机激活弱约束的跨国体制分水岭** [[Comparative Policy Analysis|比较产业政策分析]]表明，附加条件的严苛度高度依附于治理体制的集权程度：美国依托中央财政直接拨款建立起涵盖国家安全护栏、劳工现行工资、托儿保障、禁止股票回购及超额利润分享的全套集中式强约束；而欧盟因缺乏统领性财政工具，主要依托[[Important Projects of Common European Interest|IPCEI]]下的利润回缴机制以及仅在经认定的供应链突发危机状态下才激活的信息披露与本土订单优先权指令，整体约束效力显著弱于美国。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 14–17)]]
 
 > [!logic-map]- 附加条件在现代产业战略中的契约治理逻辑
@@ -205,7 +206,7 @@ updated: 2026-10-09
 > 探讨国家重大研发中试计划如何通过制度化附加条件确保成果普惠扩散与长期财务可持续。
 
 > [!claim] [[Argument_NIST_2023_NSTC|NIST (2023)]]
-> **研发联合体附加条件防范寡头垄断并保障技术公地** 在国家法定研发[[Innovation Hub|创新中心]]（如 [[National Science and Technology Council|NSTC]]）的设计中，附加条件被精准嵌入联合体章程与运营契约。为防范 110 亿美元联邦研发注资沦为个别龙头企业的私有研发外包，政策硬性规定：运营商（Natcast）必须对高校与中小初创企业实行非歧视性开放准入、提供补贴性 300mm 基线流片与 DEG 云网关支持；前竞争基线研究成果必须采取非独占（Non-exclusive）、全球免版税许可；劳动力项目必须将少数族裔服务机构（MSI）与社区学院深度纳入；并强制 Natcast 在初始联邦资金之后通过多元造血实现自负盈亏。这些研发附加条件确保了国家技术基础设施的公共品属性与长期[[Strategic Autonomy|战略自主]]。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 10–11)]]
+> **研发联合体附加条件防范寡头垄断并保障技术公地** 在国家法定研发[[Innovation Hub|创新中心]]（如 [[National Science and Technology Council|NSTC]]）的设计中，附加条件被精准嵌入联合体章程与运营契约。为防范 110 亿美元联邦研发注资沦为个别龙头企业的私有研发外包，政策硬性规定：运营商（[[Natcast]]）必须对高校与中小初创企业实行非歧视性开放准入、提供补贴性 300mm 基线流片与 DEG 云网关支持；前竞争基线研究成果必须采取非独占（Non-exclusive）、全球免版税许可；劳动力项目必须将少数族裔服务机构（MSI）与社区学院深度纳入；并强制 Natcast 在初始联邦资金之后通过多元造血实现自负盈亏。这些研发附加条件确保了国家技术基础设施的公共品属性与长期[[Strategic Autonomy|战略自主]]。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 10–11)]]
 
 ---
 
@@ -260,7 +261,7 @@ updated: 2026-10-09
 > | 立法支柱与政策载体 | 核心资金/工具规模 | 主要附加条件与护栏条款类型 | 具体执行要求与机制 | 政策效应与面临挑战 | 来源 |
 > |:---|:---|:---|:---|:---|:---|
 > | 《[[CHIPS and Science Act\|芯片与科学法案]]》（CHIPS Act 制造补贴） | 390 亿美元制造补贴 | 劳动力培育、资本纪律、利润分享、地缘护栏 | 申请 >1.5 亿美元项目需提供托儿计划与[[Apprenticeship\|注册学徒制]]；10 年内禁止关切国先进制程扩产 >5%；禁止回购股票 | 成功拉动全球巨头在美投资超 2000 亿美元，但早期面临代工厂文化与合规磨合 | [[Argument_Reynolds_2024_JICT\|(Reynolds, 2024, pp. 8–10)]] |
-> | 《[[CHIPS and Science Act\|CHIPS]] 研发与 NSTC 联合体》 (2023) | 110 亿美元研发基金 | 开放准入、知识产权非排他许可、多元造血自负盈亏 | 设立中立非营利运营实体（Natcast）；强制面向全美高校与初创企业开放 300mm 基线中试线与 DEG；基线成果实行非独占许可 | 确立国家级研发中试公共品防范寡头垄断与维持长期活力的治理框架 | [[Argument_NIST_2023_NSTC\|(NIST, 2023, pp. 2–5, 10–11)]] |
+> | 《[[CHIPS and Science Act\|CHIPS]] 研发与 NSTC 联合体》 (2023) | 110 亿美元研发基金 | 开放准入、知识产权非排他许可、多元造血自负盈亏 | 设立中立非营利运营实体（[[Natcast]]）；强制面向全美高校与初创企业开放 300mm 基线中试线与 DEG；基线成果实行非独占许可 | 确立国家级研发中试公共品防范寡头垄断与维持长期活力的治理框架 | [[Argument_NIST_2023_NSTC\|(NIST, 2023, pp. 2–5, 10–11)]] |
 > | 《[[Inflation Reduction Act\|通胀削减法案]]》（IRA） | 3690 亿美元清洁能源与气候转型税收激励 | 现行工资（Prevailing Wage）、注册学徒工时 | 清洁能源项目满足法定现行工资及注册学徒工时比例，可获得基准税率 5 倍（最高 30%）的投资/生产税收抵免 | 极大调动私营清洁能源投资，同时推动工会高薪与注册学徒培训规模化增长 | [[Argument_Reynolds_2024_JICT\|(Reynolds, 2024, pp. 9, 13)]] |
 > | 《[[Infrastructure Investment and Jobs Act\|两党基础设施法]]》（IIJA） | 1.2 万亿美元联邦基础设施专项拨款 | 《[[Build America, Buy America Act\|以美国制造为荣法案]]》（BABA） | 所有联邦资助项目使用的钢铁、制造品与建材必须 100% 在本土生产；推行分阶段豁免过渡期 | 创造数百亿美元本土采购内生需求，需妥善处理特定高端部件短期供给瓶颈 | [[Argument_Reynolds_2024_JICT\|(Reynolds, 2024, pp. 12–14)]] |
 > | 美欧半导体法案附加条件对比 | 美国 CHIPS Act vs. 欧盟 Chips Act | 美方全面硬性绑定（地缘护栏、劳工标准、分红回购禁令、超额利润分成）；欧方去中心化弱约束（[[Important Projects of Common European Interest\|IPCEI]] 利润回缴、危机期应急优先订单） | 揭示美国集中式法定强约束与欧盟去中心化弱约束的制度分水岭，指出多层级治理制约了欧盟附加条件的规制效能 | [[Argument_Bulfone_2024_IAI\|(Bulfone et al., 2024, pp. 14–17)]] |

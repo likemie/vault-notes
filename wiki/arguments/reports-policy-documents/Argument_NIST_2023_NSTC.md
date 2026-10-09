@@ -35,6 +35,8 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Innovation Hub]]"
   - "[[Assemblage]]"
+  - "[[Process Design Kit]]"
+  - "[[Learning and Employment Records]]"
   - "[[Discourse]]"
 related_theories: []
 related_methods:
@@ -46,8 +48,10 @@ related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
+  - "[[Natcast]]"
   - "[[National Advanced Packaging Manufacturing Program]]"
   - "[[Microelectronics Commons]]"
+  - "[[Industrial Advisory Committee]]"
   - "[[Sematech]]"
   - "[[Semiconductor Research Corporation]]"
   - "[[DARPA]]"
@@ -70,7 +74,7 @@ title: "Argument_NIST_2023_NSTC"
 argument_key: "Argument_NIST_2023_NSTC"
 argument_display_title: "A vision and strategy for the National Semiconductor Technology Center"
 argument_kind: "report"
-argument_related_count: 31
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dcfce7"
@@ -88,7 +92,7 @@ publisher: "U.S. Department of Commerce"
 > 面对全球先进半导体制造产能高度向东亚集中、前沿物理微缩与异构封装研发资本门槛呈指数级攀升，以及全美大学与初创企业的硬件创新构想深陷从实验室到代工厂（[[Translational Research|lab-to-fab]]）中试断层的系统性困境，美国联邦政府应当如何依据《[[CHIPS and Science Act|芯片与科学法案]]》构建国家级半导体公私研发合作联合体，统筹物理中试试验线、云端数字设计资产、全谱系工程劳动力供给与独立中立治理架构，以重塑本土微电子[[Innovation Ecosystem|创新生态]]并巩固国家安全？（pp. 2–5）
 
 > [!claim] 核心主张
-> **[[National Semiconductor Technology Center|国家半导体技术中心]]（National Semiconductor Technology Center, [[National Science and Technology Council|NSTC]]）**作为《芯片与科学法案》110 亿美元研发资金的核心中枢，必须通过布局跨区域共享中试技术中心网络、聚合全国多项目晶圆与先进封装排期服务、打造云端设计网关以及依托独立非营利运营商（Natcast）推行公私分权共治，全面打通从基础科研探索到工业规模化制造的创新链条，构建兼具国家安全韧性与长期商业自生能力的新一代国家创新平台。（pp. 2–5, 8–11, 21–25）
+> **[[National Semiconductor Technology Center|国家半导体技术中心]]（National Semiconductor Technology Center, [[National Science and Technology Council|NSTC]]）**作为《芯片与科学法案》110 亿美元研发资金的核心中枢，必须通过布局跨区域共享中试技术中心网络、聚合全国多项目晶圆与先进封装排期服务、打造云端设计网关以及依托独立非营利运营商（[[Natcast]]）推行公私分权共治，全面打通从基础科研探索到工业规模化制造的创新链条，构建兼具国家安全韧性与长期商业自生能力的新一代国家创新平台。（pp. 2–5, 8–11, 21–25）
 
 > [!concept-lens] 阅读透镜
 > - **经验对象** 美国国家半导体技术中心（NSTC）、[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（National Advanced Packaging Manufacturing Program, NAPMP）、国防部[[Microelectronics Commons|微电子共用体]]（Microelectronics Commons）、商务部国家标准与技术研究院（National Institute of Standards and Technology, NIST）计量研究项目及全美产学研微电子创新网络。（pp. 2–3, 8–11）
@@ -104,7 +108,7 @@ publisher: "U.S. Department of Commerce"
 > |---|---|
 > | **中试验证平台<br>[[Pilot Scale Platform]]** | 阐释介于大学实验室原理突破（[[Technology Readiness Level\|技术就绪度]]，Technology Readiness Level, TRL 1–3）与工业规模化量产（TRL 8–9）之间的共享中试试验线如何消除工艺放大风险并跨越[[Valley of Death\|死亡之谷]]。（pp. 6–10） |
 > | **现代产业政策<br>[[Modern Industrial Policy]]** | 解释国家如何通过战略性公共资本注入、共性研发平台搭建与[[Policy Conditionalities\|制度化附加条件]]，引导私营部门与大学开展前竞争协同。（pp. 2–5, 8–11） |
-> | **研发公私伙伴关系<br>[[Public-Private Partnership in Research]]** | 剖析联邦部委监管、独立非营利运营商（Natcast）与多层级产业会员在风险共担与知识产权共享中的治理机制。（pp. 21–23） |
+> | **研发公私伙伴关系<br>[[Public-Private Partnership in Research]]** | 剖析联邦部委监管、独立非营利运营商（[[Natcast]]）与多层级产业会员在风险共担与知识产权共享中的治理机制。（pp. 21–23） |
 > | **劳动力发展体系<br>[[Workforce Development]]** | 解析从 K-12 阶段[[STEM Education\|科学、技术、工程与数学]]（Science, Technology, Engineering, and Mathematics, STEM）启蒙、社区学院技术员证书、大学洁净室实战到博士生奖学金的全谱系技能开发模型。（pp. 18–19） |
 
 > [!warrant]- 理论如何支撑论证
@@ -118,7 +122,7 @@ publisher: "U.S. Department of Commerce"
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **文献与法案解构<br>[[Documentary Analysis]]** | 深度解构《2021 财年国防授权法案》第 99 编与《2022 年[[CHIPS and Science Act\|芯片与科学法案]]》（公法第 117-167 号）法定授权条款与拨款机制。（pp. 2–3, 26） |
-> | **多方利益相关者调研** | 汇总来自芯片制造商、无晶圆厂设计公司、电子设计自动化（Electronic Design Automation, EDA）厂商、材料设备商、[[Research Universities\|研究型大学]]、社区学院及工会的数百份信息征询书（Request for Information, RFI）答复。（pp. 2–3, 14, 16, 21） |
+> | **多方利益相关者调研** | 汇总来自芯片制造商、无晶圆厂设计公司、电子设计自动化（Electronic Design Automation, EDA）厂商、材料设备商、[[Research Universities\|研究型大学]]、社区学院及工会的数百份信息征询书（Request for Information, RFI）答复，以及[[Industrial Advisory Committee\|工业咨询委员会]]（Industrial Advisory Committee, IAC）的战略建议报告。（pp. 2–3, 14, 16, 21） |
 > | **跨机构比较制度分析<br>[[Comparative Policy Analysis]]** | 比较国内外半导体研发联合体（如 [[Sematech]]、比利时微电子研究中心［Interuniversity Microelectronics Centre, IMEC］、工业技术研究院［Industrial Technology Research Institute, ITRI］、[[Semiconductor Research Corporation\|半导体研究公司]]［Semiconductor Research Corporation, SRC］、[[DARPA\|国防高级研究计划局]]［Defense Advanced Research Projects Agency, DARPA］[[MOSIS\|金属氧化物半导体实现服务]]［Metal Oxide Semiconductor Implementation Service, MOSIS］及[[Federally Funded Research and Development Centers\|联邦资助研发中心]]［Federally Funded Research and Development Centers, FFRDC］）的组织构型与财务自生能力。（pp. 8–11, 21–23） |
 
 > [!sample-panel]- 政策调研与咨询样本快照
@@ -247,7 +251,7 @@ publisher: "U.S. Department of Commerce"
 
 > [!feature] 设计网关核心赋能矩阵
 > - **云端 EDA 工具共享授权** 借鉴 [[DARPA]] 工具箱（DARPA Toolbox）先例，与主流 EDA 厂商谈判，为学术界与初创企业提供低成本甚至免费的云端设计套件。（pp. 16, 26）
-> - **标准工艺设计套件（Process Design Kit, PDK）与参考设计流程** 汇聚不同代工厂的工艺参数，提供端到端经过硅验证的参考流程。
+> - **标准[[Process Design Kit|工艺设计套件]]（Process Design Kit, PDK）与参考设计流程** 汇聚不同代工厂的工艺参数，提供端到端经过硅验证的参考流程。
 > - **硅验证安全 IP 库与开源标准** 建立涵盖 RISC-V 等开源架构与商业核心的安全 IP 资源库，加速复杂芯片开发。（pp. 16–17）
 > - **芯粒（Chiplet）互连标准与行业公共数据集** 制定统一的通用芯粒互连互通标准（Universal Chiplet Interconnect Express, UCIe），建立涵盖失效分析与制造缺陷的行业共享数据库。（pp. 15, 17）
 
@@ -264,7 +268,7 @@ publisher: "U.S. Department of Commerce"
 
 > [!pathways] 全谱系半导体劳动力生态建设路径
 > - **全谱系教育通道贯通** 从 K-12 阶段激发 [[STEM Education|STEM]] 兴趣，到社区学院技术员认证、本科生动手洁净室实训，再到研究生前沿科研全额奖学金。（pp. 18–19）
-> - **全国性微证书与技能标准** 由 WCoE 联合行业协会制定被全美芯片企业广泛认可的技能标准框架（参照国家网络安全教育倡议［National Initiative for Cybersecurity Education, [[National Institute for Health and Care Excellence|NICE]]］框架与制造业胜任力模型）与学习与就业记录（Learning and Employment Records, LER）。（pp. 19, 26–27）
+> - **全国性微证书与技能标准** 由 WCoE 联合行业协会制定被全美芯片企业广泛认可的技能标准框架（参照国家网络安全教育倡议［National Initiative for Cybersecurity Education, [[National Institute for Health and Care Excellence|NICE]]］框架与制造业胜任力模型）与[[Learning and Employment Records|学习与就业记录]]（Learning and Employment Records, LER）。（pp. 19, 26–27）
 > - **全包式支持服务（Wrap-around Services）** 提供托儿服务、交通补贴、应急援助与心理支持，消除少数族裔、退役军人与低收入学生进入微电子行业的制度壁垒。（pp. 18–19, 27）
 > - **创业投资基金与孵化培育** 设立早期直投基金，为深科技微电子初创企业提供长期耐受资本、知识产权辅导与市场化孵化。（p. 20）
 
@@ -275,20 +279,20 @@ publisher: "U.S. Department of Commerce"
 为确保 NSTC 成为能够跨越代际持续运行的百年创新中枢，报告规划了中立的治理架构与多渠道自生财务模型。（pp. 21–25）
 
 > [!claim] 步骤四核心主张
-> NSTC 必须依托独立设立的专用非营利实体（Natcast）实施专业化运营，通过分层会员结构防范利益冲突，并以五年联邦拨款为杠杆建立多元造血的长效财务机制。（pp. 21–25）
+> NSTC 必须依托独立设立的专用非营利实体（[[Natcast]]）实施专业化运营，通过分层会员结构防范利益冲突，并以五年联邦拨款为杠杆建立多元造血的长效财务机制。（pp. 21–25）
 
 治理结构的设计必须在政府战略把关、产业敏捷响应与学术中立探索之间取得动态平衡。
 
 > [!figure]- 图 4　国家半导体技术中心运营与治理架构模型
 > ![](https://img.mylikemie.icu/sources/NIST_2023_NSTC/figures/NIST_2023_NSTC_Fig4_Operational_Structure_NSTC.jpg)
 
-#### 1. 设立独立非营利运营商 Natcast 能够有效防范利益冲突并实现多方共治
+#### 1. 设立独立非营利运营商 [[Natcast]] 能够有效防范利益冲突并实现多方共治
 
-NSTC 采取政府宏观监管、独立实体运营与专家技术审议相结合的三权分立治理架构。（pp. 21–23）
+NSTC 综合总统科技顾问委员会（PCAST）与[[Industrial Advisory Committee|工业咨询委员会]]（IAC）的建议，采取政府宏观监管、独立实体运营与专家技术审议相结合的三权分立治理架构。（pp. 21–23）
 
 > [!actor-grid] NSTC 治理与运营分工架构
 > - **商务部与部际联合指导委员会** 行使出资人与国家战略把关职能，监督重大预算流向与国家安全合规。（pp. 21–22）
-> - **独立非营利运营实体（Natcast 董事会与执行层）** 作为中立运营主体，全权负责设施投资、日常项目管理与跨主体利益协调，避免被单一行业巨头捕获。
+> - **独立非营利运营实体（[[Natcast]] 董事会与执行层）** 作为中立运营主体，全权负责设施投资、日常项目管理与跨主体利益协调，避免被单一行业巨头捕获。
 > - **技术咨询与行业委员会** 汇聚顶尖学者、晶圆代工高管与设计专家，动态评估并修正技术攻关指南。（p. 22）
 > - **分层会员体系与国家安全护栏** 面向大中小型企业、高校与科研机构建立分级会员制度，坚决防范受关注外国实体（Foreign Entity of Concern, FEOC）的技术渗透。（pp. 21, 27）
 
@@ -316,7 +320,7 @@ NSTC 采取政府宏观监管、独立实体运营与专家技术审议相结合
 > 1. **中试与设计双重门槛是微电子创新的致命堵点** 单片集成电路微缩成本高昂与 EDA 软件昂贵构成了压制大学与初创企业创新的首要制度壁垒。（pp. 6, 14–17）
 > 2. **跨部门创新流水线必须实现从基础到制造的顺畅衔接** [[National Science and Technology Council|NSTC]] 必须同国防部[[Microelectronics Commons|微电子共用体]]及先进封装计划紧密配合，形成分工协同的端到端技术中试转化通道。（pp. 8–11）
 > 3. **人才是支撑先进制造回流的核心决定要素** 唯有通过劳动力卓越中心统筹微证书、高校实训与全包式托儿服务，才能有效弥合数十万人的技能赤字。（pp. 18–19）
-> 4. **独立非营利运营是维持联合体公信力与活力的制度基石** 依托独立实体（Natcast）运营并引入长期多渠道财务机制，是确保中心超越行政任期、持久运行的制度保障。（pp. 21–25）
+> 4. **独立非营利运营是维持联合体公信力与活力的制度基石** 依托独立实体（[[Natcast]]）运营并引入长期多渠道财务机制，是确保中心超越行政任期、持久运行的制度保障。（pp. 21–25）
 
 > [!stat-cards]- 核心规划与预算数据
 > - **110 亿美元** 《[[CHIPS and Science Act|芯片法案]]》直接拨付用于 NSTC 及微电子先进研发项目的国家级研发总预算。（pp. 2–3）

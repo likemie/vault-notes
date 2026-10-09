@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Import Substitution Industrialisation]]"
+  - "[[Process Design Kit]]"
   - "[[Cognitive Decoupling]]"
   - "[[Competitiveness]]"
   - "[[Emergence]]"
@@ -94,7 +95,7 @@ updated: 2026-10-10
 > [!actor-grid] 组织治理与协作网络
 > - **运营管理团队（USC/[[Import Substitution Industrialisation|ISI]]）** 负责接收全球网络提交的芯片版图文件、执行自动化几何与电气设计规则检查（DRC/[[Engineering Research Centers|ERC]]）并完成晶圆掩膜拼版（Wafer Mask Layout）。
 > - **公共资助与指导中枢（[[DARPA]] & [[National Science Foundation|NSF]]）** 负责提供战略拨款，补贴高校教师与研究生的流片费用，制定重点资助的微处理器与体系结构方向。
-> - **商业晶圆代工厂联盟（Commercial Foundries）** 包括惠普、德州仪器、IBM 及后续[[Taiwan Semiconductor Manufacturing Corporation|台积电]]等实体晶圆制造厂，向 MOSIS 提供多项目晶圆流片配额与标准工艺设计套件（PDK）。
+> - **商业晶圆代工厂联盟（Commercial Foundries）** 包括惠普、德州仪器、IBM 及后续[[Taiwan Semiconductor Manufacturing Corporation|台积电]]等实体晶圆制造厂，向 MOSIS 提供多项目晶圆流片配额与标准[[Process Design Kit|工艺设计套件]]（PDK）。
 > - **科研与初创设计社群** 覆盖全美高校电子工程与计算机系所师生、国防工业研发团队及硅谷无晶圆厂初创公司。
 
 > [!pathways]- 独特的多项目晶圆（MPW）流片机制

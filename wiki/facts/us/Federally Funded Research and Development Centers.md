@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -45,6 +45,7 @@ related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
+  - "[[Natcast]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[President's Science Advisory Committee]]"
@@ -83,7 +84,7 @@ updated: 2026-10-10
 > - **1942–1947 — 战时起源与[[Manhattan Project|曼哈顿计划]]孵化** 曼哈顿计划期间，联邦政府打破自建军工基地的陈规，与加利福尼亚大学签署合同由其管理洛斯阿拉莫斯实验室（Los Alamos），与芝加哥大学签署合同管理冶金实验室（后为阿贡国家实验室），奠定了大学托管联邦战略实验室的原型。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 35)]]
 > - **1950–1970 年代 — 冷战[[Big Science|大科学]]扩张与功能分化** 原子能委员会（AEC）与国防部大规模扩建国家实验室网络；体系内逐步分化出两类核心形态：一类是以费米国家加速器实验室（Fermi National Accelerator Laboratory）和劳伦斯伯克利国家实验室（Lawrence Berkeley National Laboratory）为代表的“用户[[Megascience Installations|大科学装置]]型”，另一类是以洛斯阿拉莫斯、利弗莫尔（Livermore）和桑迪亚（Sandia）为代表的“核武与国家安全防御型”。
 > - **1980 年代至今 — 任务拓展与跨学科前沿转型** 冷战结束后，原本专注于核军工的实验室普遍拓展了使命边界，深度转向先进超级计算、材料科学、可再生能源、气候环境模拟及人类基因组测序等民用前沿攻关。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
-> - **2020 年代 — [[Modern Industrial Policy|现代产业政策]]下的制度评估与新型 [[Public-Private Partnership in Research|PPP]] 衍生** 进入 2020 年代，随着《[[CHIPS and Science Act|芯片与科学法案]]》等重大产业战略的实施，美国政府在设计[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）等新型创新中枢时系统评估了 FFRDC 模式，吸纳其战略中立性与长期公共投资优势，同时针对产业中试敏捷度与知识产权弹性演化出独立非营利运营实体（Natcast）模式。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11, 21–25)]]
+> - **2020 年代 — [[Modern Industrial Policy|现代产业政策]]下的制度评估与新型 [[Public-Private Partnership in Research|PPP]] 衍生** 进入 2020 年代，随着《[[CHIPS and Science Act|芯片与科学法案]]》等重大产业战略的实施，美国政府在设计[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）等新型创新中枢时系统评估了 FFRDC 模式，吸纳其战略中立性与长期公共投资优势，同时针对产业中试敏捷度与知识产权弹性演化出独立非营利运营实体（[[Natcast]]）模式。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11, 21–25)]]
 
 ---
 
@@ -123,7 +124,7 @@ updated: 2026-10-10
 
 > [!debates] 核心争议与制度演化
 >
-> > [!axis] [[Big Science|大科学]]国家安全使命 vs 产业中试转化敏捷性：FFRDC 与新型非营利联合体（Natcast/[[National Science and Technology Council|NSTC]]）治理模式对比
+> > [!axis] [[Big Science|大科学]]国家安全使命 vs 产业中试转化敏捷性：FFRDC 与新型非营利联合体（[[Natcast]]/[[National Science and Technology Council|NSTC]]）治理模式对比
 > > 探讨在微电子与军民两用关键技术领域，传统 FFRDC 模式与新型研发公私伙伴关系（[[Public-Private Partnership in Research|PPP]]）的适用边界。
 > >
 > > - **FFRDC 模式的传统优势与产业中试局限** FFRDC 具有由联邦全额保障预算、长期战略任务明确且中立性强的优势，适用于高能物理与战略国防；但在半导体等需要高度商业敏捷性与快速迭代的领域，受《联邦采购条例》（FAR）严格规制，行政流程繁琐，且在[[Bayh-Dole Act of 1980|拜杜法案]]与联邦合同下的知识产权归属相对刚性，导致私营商业芯片巨头不愿共享关键核心 IP。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11, 21–25)]]
@@ -151,4 +152,4 @@ updated: 2026-10-10
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied (2008)]] — 系统梳理战后美国[[Categorical Funding|委托研究]]型大学管理 FFRDC 国家实验室体系的制度起源与[[Big Science|大科学]]协同演进。
-> - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 比较分析 FFRDC、[[Industry Affiliate Program|产业联盟]]与独立非营利实体（Natcast）在半导体产业公私伙伴研发网络中的治理效能与制度适用边界。
+> - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 比较分析 FFRDC、[[Industry Affiliate Program|产业联盟]]与独立非营利实体（[[Natcast]]）在半导体产业公私伙伴研发网络中的治理效能与制度适用边界。

@@ -2001,6 +2001,16 @@
     ]
   },
   {
+    "title": "Learning and Employment Records",
+    "type": "concept",
+    "path": "wiki/concepts/competency-and-assessment/Learning and Employment Records.md",
+    "aliases": [
+      "学习与就业记录",
+      "LER",
+      "学习与就业档案"
+    ]
+  },
+  {
     "title": "Learning Portfolio",
     "type": "concept",
     "path": "wiki/concepts/competency-and-assessment/Learning Portfolio.md",
@@ -13994,6 +14004,16 @@
       "pre-competitive research",
       "precompetitive",
       "前竞争研发"
+    ]
+  },
+  {
+    "title": "Process Design Kit",
+    "type": "concept",
+    "path": "wiki/concepts/university-industry-collaboration/Process Design Kit.md",
+    "aliases": [
+      "工艺设计套件",
+      "PDK",
+      "工艺设计包"
     ]
   },
   {
@@ -31912,6 +31932,16 @@
     ]
   },
   {
+    "title": "Industrial Advisory Committee",
+    "type": "fact",
+    "path": "wiki/facts/us/Industrial Advisory Committee.md",
+    "aliases": [
+      "美国半导体工业咨询委员会",
+      "IAC",
+      "工业咨询委员会"
+    ]
+  },
+  {
     "title": "Information Science and Technology Study Group",
     "type": "fact",
     "path": "wiki/facts/us/Information Science and Technology Study Group.md",
@@ -32042,6 +32072,16 @@
       "金属氧化物半导体实现服务平台",
       "多项目晶圆流片服务",
       "Metal Oxide Semiconductor Implementation Service"
+    ]
+  },
+  {
+    "title": "Natcast",
+    "type": "fact",
+    "path": "wiki/facts/us/Natcast.md",
+    "aliases": [
+      "国家半导体技术推进中心",
+      "National Center for the Advancement of Semiconductor Technology",
+      "Natcast (NSTC Operator)"
     ]
   },
   {

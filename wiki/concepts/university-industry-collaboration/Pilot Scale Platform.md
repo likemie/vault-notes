@@ -11,7 +11,7 @@ aliases:
 summary: "介于大学/实验室基础研发与工业规模化量产之间的关键共性技术基础设施。通过中立的测试验证线、共享微纳洁净室、湿实验室与 GMP 级中试制造环境，提供工艺可行性验证、设备成熟度评估（MTBF/COO）与小批量试生产服务，是跨越技术就绪度（TRL 4–7）“死亡之谷”、降低产业链协同风险并锁定国家先进制造能力的核心制度载体。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[University-Industry Co-location]]"
   - "[[Research Translation]]"
   - "[[Technology Transfer Office]]"
+  - "[[Process Design Kit]]"
   - "[[Membership-based Research Consortium]]"
   - "[[Translational Research]]"
   - "[[Dual-Use Technology]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-05
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 
 # Pilot Scale Platform
@@ -142,7 +143,7 @@ updated: 2026-10-09
 > - **中立客观的第三方评估与认证体系** 制定全行业通用的评估规范（如[[Cost of Ownership|所有权成本]] COO 模型、[[Statistical Process Control|统计过程控制]] SPC 标准），为下游用户采购提供无利益偏见的成熟度报告。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 746)]]
 > - **测试样片与 Fab-to-Lab 逆向接力通道** 提供标准化测试样片（Test Coupons）接口，支持高校和初创企业将早期新材料与新器件送入 300mm 基线产线测试，实现实验室成果向工业产线的无缝导入。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–9)]]
 > - **跨企业工程师借调与共同调试空间** 提供买卖双方技术团队共同进驻、实时共享参数并在役排查故障的物理协作环境。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 752)]]
-> - **云端数字化设计执行网关（DEG）与共享准入** 整合安全云环境、多项目晶圆（MPW）排期、标准工艺设计套件（PDK）与高额 EDA/IP 许可，将中试门槛从实体设备扩展至数字设计全流程。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 10–11)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 40–41)]]
+> - **云端数字化设计执行网关（DEG）与共享准入** 整合安全云环境、多项目晶圆（MPW）排期、标准[[Process Design Kit|工艺设计套件]]（PDK）与高额 EDA/IP 许可，将中试门槛从实体设备扩展至数字设计全流程。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 10–11)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 40–41)]]
 > - **公私协同的长效资金保障机制** 依赖政府长期匹配拨款（如 [[DARPA]]、[[National Science Foundation|NSF]]、商务部 CHIPS 研发基金）与企业年费联合维系。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1135–1137)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–3)]]
 
 > [!logic-map]- 中试平台跨越“[[Valley of Death|死亡之谷]]”的功能架构

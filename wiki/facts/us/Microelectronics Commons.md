@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Valley of Death]]"
   - "[[Assemblage]]"
+  - "[[Process Design Kit]]"
   - "[[Research Translation]]"
   - "[[Open-Mindedness]]"
   - "[[Pilot Scale Platform]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 
 # Microelectronics Commons
@@ -123,7 +124,7 @@ updated: 2026-10-09
 > - **国防部（DOD）主管中枢** 负责下达国防战略微电子需求指南、评估区域枢纽运营成效并统筹军品采购接口。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8, 11)]]
 > - **[[Innovation Hub|区域创新枢纽]]牵头单位** 由区域核心[[Research Universities|研究型大学]]或非营利研究机构主导，运营中立的微纳加工洁净室与测试实验室。
 > - **[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）与商务部** 提供跨平台数字化设计与执行网关（DEG）、多项目晶圆（MPW）流片排期及国家级先进封[[Assemblage|装配]]套。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11, 15)]]
-> - **产业界与商业代工厂** 开放兼容的工艺设计套件（PDK）与流片机时，承接中试成熟技术的量产转化。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 15–17)]]
+> - **产业界与商业代工厂** 开放兼容的[[Process Design Kit|工艺设计套件]]（PDK）与流片机时，承接中试成熟技术的量产转化。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 15–17)]]
 
 > [!pathways]- 实施路径与管理
 > - **敏捷流片支持** 通过资助区域枢纽内部试验线机时，为大学课题组提供数周内完成流片迭代的敏捷通道。

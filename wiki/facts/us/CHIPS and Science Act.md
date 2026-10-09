@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 60
+fact_related_count: 61
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -67,6 +67,7 @@ related_facts:
   - "[[Department of Energy]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
+  - "[[Natcast]]"
   - "[[National Advanced Packaging Manufacturing Program]]"
   - "[[Microelectronics Commons]]"
   - "[[Manufacturing USA]]"
@@ -94,7 +95,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 
 # CHIPS and Science Act
@@ -130,7 +131,7 @@ updated: 2026-10-09
 >   - **先进制造投资税收抵免（25% ITC）** 提供为期四年的 25% 联邦投资税收抵免（Section 48D），预估支持规模达 240 亿美元，辅以行政审批提速；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 97–98)]]
 >   - **国家科研机构扩容与大学角色重塑** 为[[National Science Foundation|美国国家科学基金会]]（NSF）授权 810 亿美元预算并增设[[Directorate for Technology, Innovation and Partnerships|技术、创新与伙伴关系理事会]]（TIP），专门加速[[Use-Inspired Basic Research|应用启发的基础研究]]与成果转化；为[[Department of Energy|美国能源部]]（DOE）科学办公室授权 305 亿美元增量预算支持前沿技术攻关；[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–20)]]
 >   - **先进研发四大支柱专项（110 亿美元直接研发拨款）** 由商务部与国防部联合统筹，构建贯通从基础科学到规模化量产的中试转化体系：
->     1. **[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）** 研发预算核心中枢，依托独立非营利运营商 Natcast 运营，布局 300 毫米先进 CMOS 基线线、极紫外（EUV）光刻机时共享、全国多项目晶圆（MPW）流片、云端设计网关（DEG）与劳动力卓越中心（WCoE）；[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 14–20)]]
+>     1. **[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）** 研发预算核心中枢，依托独立非营利运营商 [[Natcast]] 运营，布局 300 毫米先进 CMOS 基线线、极紫外（EUV）光刻机时共享、全国多项目晶圆（MPW）流片、云端设计网关（DEG）与劳动力卓越中心（WCoE）；[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 14–20)]]
 >     2. **[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP，30 亿美元）** 专攻 2.5D/3D 异构集成、芯粒互连标准（UCIe）、共封装光学（CPO）与微流控散热；[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8, 26)]]
 >     3. **[[Microelectronics Commons|微电子共用体]]（20 亿美元）** 国防部在全美设立 8 大[[Innovation Hub|区域创新枢纽]]，专攻射频、量子、安全边缘计算及 AI 原型验证，构建军民两用转化走廊；[[Argument_NIST_2023_NSTC|(NIST, 2023, p. 11)]]
 >     4. **芯片计量与制造创新机构（NIST Metrology & [[Manufacturing USA]]）** 研发先进测量标准、数字孪生与智能制造工艺模型；[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 9–10)]]
@@ -155,7 +156,7 @@ updated: 2026-10-09
 > - **2022-12** [[Taiwan Semiconductor Manufacturing Corporation|台积电]]宣布在亚利桑那州凤凰城投资 400 亿美元兴建前沿晶圆厂。
 > - **2023-01** 国防部高级研究计划局（[[DARPA]]）与半导体研究联盟（[[Semiconductor Research Corporation|SRC]]）依托芯片法案研发战略正式启动 [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 计划，统筹全美顶尖高校成立跨校协同中心。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]
 > - **2023-02** 美国商务部正式启动首轮 390 亿美元商业制造设施补贴申请流程，同步发布托儿服务、现行工资与超额利润分享细则。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–9)]]
-> - **2023-05** 商务部与 NIST 发布《[[National Semiconductor Technology Center|国家半导体技术中心]]愿景与战略》（*A Vision and Strategy for the [[National Science and Technology Council|NSTC]]*），界定三大战略目标、研发流水线及 Natcast 治理模型。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 1–25)]]
+> - **2023-05** 商务部与 NIST 发布《[[National Semiconductor Technology Center|国家半导体技术中心]]愿景与战略》（*A Vision and Strategy for the [[National Science and Technology Council|NSTC]]*），界定三大战略目标、研发流水线及 [[Natcast]] 治理模型。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 1–25)]]
 > - **2023-09** 商务部发布护栏条款最终实施规则，明确先进制程在华扩产 5% 的严格上限；国防部宣布拨款 2.38 亿美元启动[[Microelectronics Commons|微电子共用体]]首批 8 个[[Innovation Hub|区域创新枢纽]]。[[Argument_NIST_2023_NSTC|(NIST, 2023, p. 11)]]
 > - **2023-10** 拜登政府公布首批 31 个国家技术枢纽（[[Regional Technology and Innovation Hubs|Tech Hubs]]）认定名单。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 133–134)]]
 > - **2023-11** 商务部正式成立独立非营利实体国家先进技术与半导体合作体（Natcast），受托作为 NSTC 的法定运营商。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 21–22)]]
@@ -168,7 +169,7 @@ updated: 2026-10-09
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 美国国会两党（立法授权）与美国总统行政办公室。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 2)]]
-> - **执行主体** 美国商务部（CHIPS 计划办公室与 NIST）、[[National Science Foundation|美国国家科学基金会]]（NSF [[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会）、美国国防部（微电子执行总监办公室）、能源部与独立非营利运营商 Natcast。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 15)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 21–23)]]
+> - **执行主体** 美国商务部（CHIPS 计划办公室与 NIST）、[[National Science Foundation|美国国家科学基金会]]（NSF [[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会）、美国国防部（微电子执行总监办公室）、能源部与独立非营利运营商 [[Natcast]]。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 15)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 21–23)]]
 > - **适用对象** 英特尔（Intel）、[[Taiwan Semiconductor Manufacturing Corporation|台积电]]（TSMC）、三星电子（Samsung）、美光科技（Micron）、格芯（GlobalFoundries）等制造企业及全美[[Research Universities|研究型大学]]。
 > - **政策工具** 联邦中央直接资本资助（390 亿美元）、25% 投资税收抵免、低息联邦贷款、公私合作研发联盟（[[National Science and Technology Council|NSTC]]）、30 亿美元先进封装专项（[[National Advanced Packaging Manufacturing Program|NAPMP]]）及技术枢纽建设。
 
@@ -218,7 +219,7 @@ updated: 2026-10-09
 
 > [!finding-cards] 实施成效与结构反响
 > - **重塑全球先进制程投资流向** 成功吸引[[Taiwan Semiconductor Manufacturing Corporation|台积电]]（亚利桑那州凤凰城超级晶圆厂追加至 650 亿美元）、三星（德州泰勒）、英特尔（俄亥俄与亚利桑那州）及美光（纽约州超级 DRAM 厂）落地，锁定了未来 2nm–4nm 先进产能。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 100)]]; [[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 10)]]
-> - **开创三代公私研发合作新格局** 推动建立[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）与独立非营利受托实体 Natcast，使[[University-Industry Collaboration|产学合作]]从公司自发投资跃升为国家战略级法定公私合作创新基础设施。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 21–23)]]
+> - **开创三代公私研发合作新格局** 推动建立[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）与独立非营利受托实体 [[Natcast]]，使[[University-Industry Collaboration|产学合作]]从公司自发投资跃升为国家战略级法定公私合作创新基础设施。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 21–23)]]
 > - **全流程[[Policy Conditionalities|制度化附加条件]]确立国家权威** 法案开创性地将国家安全护栏（10 年中国扩产限制）、劳工体面工资标准、员工托儿福利、禁止股票回购及超额利润分享等条件作为资金转移契约的前置要求，确保公共资本干预服务于公共战略价值。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 14–15)]]
 > - **联邦集中治理与投资地理高度集聚** 法案依托中央财政直投的高集中度治理实现高效筛选与快速资金下达；2022 年 8 月至 2024 年 2 月全美录得 28 项重大制造投资公告，除台积电（扩建至 650 亿美元）与博世外主要响应者均为美资科技龙头（美光 350 亿、英特尔 300 亿、IBM 200 亿、德州仪器 110 亿、Wolfspeed 55 亿、应用材料 40 亿），且增量投资与新增岗位极度集聚于亚利桑那州与纽约州。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 9–11)]]
 > - **重塑大学基础研究引领与三级人才梯队** 法案强力驱动[[Research Universities|研究型大学]]将教育工具转化为 RISC-V 等开源工业标准，建立微证书、工程本科与跨学科拔尖博士三级培养梯队，并依托 [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 14 校协同网络与 [[Albany NanoTech Complex|Albany NanoTech]] 300 毫米晶圆中试线攻克 [[Technology Readiness Level|TRL]] 4–6 转化断层。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–24)]]
