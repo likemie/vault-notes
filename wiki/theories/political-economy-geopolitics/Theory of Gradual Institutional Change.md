@@ -8,7 +8,7 @@ aliases:
 summary: "历史制度主义核心理论，由马奥尼与希伦系统建构；主张制度本质上是具有分配性权力后果的安排，将遵从与执行视为核心解释变量；通过政治环境否决可能性与制度解释裁量权两个维度，系统解释置换、层叠、漂移与转换四类内生渐进演进模式及四类微观变革行动者策略。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 19
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -39,6 +39,8 @@ related_methods:
 related_persons:
   - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"
+  - "[[George Tsebelis]]"
+  - "[[Peter A. Hall]]"
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
 confidence: high
@@ -69,7 +71,7 @@ updated: 2026-10-11
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）于 2009 年合编出版的专著《解释制度变迁：模糊性、能动性与权力》（*Explaining Institutional Change: Ambiguity, Agency, and Power*）第一章《渐进制度变迁理论》（*A Theory of Gradual Institutional Change*）。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
 > - **原初问题** 为何许多长期维系的核心体制（如英国上议院、美国社会保障法案、德国职业培训体系）在没有经历外部战争、革命或宏观经济危机冲击的情况下，其治理职能与权力分配后果发生了颠覆性质变。
-> - **理论资源与材料** 吸收了沃尔夫冈·施特雷克与希伦（Streeck & Thelen, 2005）的渐进变迁形态学、雅各布·哈克（Hacker, 2005）的政策漂移说、埃里克·希克勒（Schickler, 2001）的脱节多元主义与层叠分析、乔治·茨贝利斯（Tsebelis, 2002）的否决玩家理论，以及书中收录的巴西医疗改革、肯尼亚土地产权、印尼威权政体等比较历史个案。
+> - **理论资源与材料** 吸收了沃尔夫冈·施特雷克与希伦（Streeck & Thelen, 2005）的渐进变迁形态学、雅各布·哈克（Hacker, 2005）的政策漂移说、埃里克·希克勒（Schickler, 2001）的脱节多元主义与层叠分析、[[George Tsebelis|乔治·茨贝利斯]]（George Tsebelis, 2002）的否决玩家理论、[[Peter A. Hall|彼得·A·霍尔]]（Peter A. Hall, 1986）关于制度作为权力分配工具的界定，以及书中收录的巴西医疗改革、肯尼亚土地产权、印尼威权政体等比较历史个案。
 > - **形成路径** 从将制度界定为具有权力分配意涵的工具出发，引入规则遵从作为博弈变量的分析视界，提炼政治否决阻力与裁量空间双维度空间，将宏观约束、微观行动者角色与宏观演化形态建立因果咬合。
 
 ### 后续修订与扩展
@@ -91,7 +93,7 @@ updated: 2026-10-11
 > | **[[Institutional Layering\|制度层叠]]** | 变迁形态 | 刻画在不触动旧核心框架前提下，通过向顶端附加新规则边际改变制度规约方式的机制。 |
 > | **[[Institutional Drift\|制度漂移]]** | 变迁形态 | 刻画规则文本形式冻结，但面对外部环境变迁因行动者策略性不作为导致保护效能衰退的机制。 |
 > | **[[Institutional Conversion\|制度转换]]** | 变迁形态 | 刻画规则形式保持不变，行动者策略性利用模糊性将其转用于全新政策目标的机制。 |
-> | **否决可能性（Veto Possibilities）** | 解释变量 | 衡量政治环境中维持现状阵营阻挠正式修法与政策更新的制度化权力阻力。 |
+> | **[[George Tsebelis|否决可能性]]（Veto Possibilities）** | 解释变量 | 衡量政治环境中维持现状阵营阻挠正式修法与政策更新的制度化权力阻力（源自茨贝利斯否决者模型）。 |
 > | **[[Enforcement Discretion|解释与执行裁量权]]（Discretion）** | 解释变量 | 衡量成文规约在日常司法判决与行政执法过程中留给执行主体的操作空间。 |
 > | **变革行动者四分类（Change Agents）** | 微观机制 | 提炼[[Insurrectionaries|起义者]]、[[Subversives|颠覆者]]、[[Symbionts|共生者]]与[[Opportunists|机会主义者]]四类微观策略角色，桥接结构与能动性。 |
 

@@ -7,7 +7,7 @@ title: "Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change"
 argument_key: "Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change"
 argument_display_title: "A theory of gradual institutional change"
 argument_kind: "book-chapter"
-argument_related_count: 30
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -64,6 +64,8 @@ related_persons:
   - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"
   - "[[Franklin D. Roosevelt]]"
+  - "[[George Tsebelis]]"
+  - "[[Peter A. Hall]]"
 sources:
   - "[[books/Mahoney_Thelen_2009_Cambridge/Ch01_Mahoney_Thelen_2009|Ch01_Mahoney_Thelen_2009]]"
 status: draft
@@ -116,7 +118,7 @@ updated: 2026-10-11
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **理论[[Document\|文献]]样本** | 涵盖[[Rational Action Theory\|理性选择理论]]经典（North, Ostrom, Weingast）、历史制度主义文献（Hall, Skocpol, Pierson, Hacker, Streeck, Thelen）与组织社会学研究（Selznick, Stinchcombe）。 |
+> | **理论[[Document\|文献]]样本** | 涵盖[[Rational Action Theory\|理性选择理论]]与否决者文献（North, Ostrom, [[George Tsebelis|Tsebelis]]）、历史制度主义文献（[[Peter A. Hall|Hall]], Skocpol, Pierson, Hacker, Streeck, Thelen）与组织社会学研究（Selznick, Stinchcombe）。 |
 > | **经验案例覆盖** | 涉及英国议会改革、美国国会议事与福利立法、巴西地方医疗、肯尼亚土地产权、印度尼西亚威权政体以及中国和古巴的市场双轨发展。 |
 > | **材料功能** | 案例不用于大样本统计检验，而是作为因果机制的经验具象检验，展示理论模型的现实解释力。 |
 
@@ -148,7 +150,7 @@ updated: 2026-10-11
 
 #### 1. 传统制度分析将变迁寄托于外生重大危机，忽视了常规历史时期累积微调引发的根本性质变
 
-传统社会科学三大制度主义流派在解释秩序维系时各具洞见，但在面对变迁时却陷入了共同的理论盲区：
+传统社会科学三大制度主义流派（[[Peter A. Hall|彼得·A·霍尔（Peter A. Hall）]]与泰勒于 1996 年所作经典分类）在解释秩序维系时各具洞见，但在面对变迁时却陷入了共同的理论盲区：
 
 > [!critique] 传统制度主义三大流派的静态稳态偏误
 > - **社会学制度主义的认知[[Determinism|决定论]]** 将制度界定为不假思索遵循的文化认知模板，假定行动者完全无意识地照章行事，导致既无法解释行动者在缺乏外部冲击时的内生异议，也无法解释日常遵从中的策略性偏离。（pp. 4–5）
@@ -270,7 +272,7 @@ updated: 2026-10-11
 
 > [!dimension] 驱动制度变迁形态的双维解释变量
 > - **政治语境的否决可能性（Veto Possibilities）**
->   衡量现状支持者阻挠制度变革的结构化能力，取决于体制内否决玩家的权势多寡与否决点的数量分布；在强否决环境下，废除旧法的置换与重立新规的转换极易被否决点封杀。（pp. 18–20）
+>   衡量现状支持者阻挠制度变革的结构化能力，该维度直接吸收并扩展了[[George Tsebelis|乔治·茨贝利斯（George Tsebelis, 2002）]]关于“否决玩家”（Veto Players）的形式化理论界定，取决于体制内否决玩家的权势多寡与否决点的数量分布；在强否决环境下，废除旧法的置换与重立新规的转换极易被否决点封杀。（pp. 18–20）
 > - **制度解释与执行的自由裁量权（Discretion in Interpretation and Enforcement）**
 >   衡量规则文本在日常落实中赋予执法官僚与司法裁判者的弹性操作空间；高裁量权允许行动者避开立法端的政治阻击，直接在执行端通过重新部署撬动实质演进。（pp. 20–22）
 

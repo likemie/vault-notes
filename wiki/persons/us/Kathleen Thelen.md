@@ -10,7 +10,7 @@ summary: "麻省理工学院政治学讲席教授、美国文理科学院院士�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -51,6 +51,7 @@ related_instruments: []
 related_persons:
   - "[[James Mahoney]]"
   - "[[Jeroen van der Heijden]]"
+  - "[[Peter A. Hall]]"
 related_facts: []
 related_arguments:
   - "[[Argument_VanDerHeijden_2011_Politics]]"
@@ -153,7 +154,7 @@ updated: 2026-10-11
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **师承／合作者** 斯温·施泰因莫（Sven Steinmo）— 1990年代早期合作奠基历史制度主义；沃尔夫冈·施特雷克（Wolfgang Streeck）— 2005年合著合编系统提出渐进变迁分类学；[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）— 2009年合作完成行动者类型与变迁模式整合框架。
+> - **师承／合作者** 斯温·施泰因莫（Sven Steinmo）与[[Peter A. Hall|彼得·A·霍尔]]（Peter A. Hall）— 1990年代早期合作奠基历史制度主义；沃尔夫冈·施特雷克（Wolfgang Streeck）— 2005年合著合编系统提出渐进变迁分类学；[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）— 2009年合作完成行动者类型与变迁模式整合框架。
 > - **学术启发源** 埃里克·希克勒（Eric Schickler）— 其国会委员会演进研究为希伦提供了[[Disjointed Pluralism|脱节多元主义]]与边际妥协机制的思想源泉；凯伦·奥伦与斯蒂芬·斯科夫罗内克（Karen Orren & Stephen Skowronek）— 其历史时间性命题深化了希伦关于制度是多重历史碎片共存体的认识。
 > - **反思与批评者** [[Jeroen van der Heijden]] — 开展跨学科[[Critical Review|批判性文献综述]]，指出当代学者在引用希伦时出现概念漂移，将保护既有核心的制度再生产误读为层叠变迁，倡导聚焦行动者与工具[[Variable|变量]]。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 12–16)]]
 > - **理论对话者** 弗兰克·鲍姆加特纳与布莱恩·琼斯（Frank Baumgartner & Bryan Jones）— 其[[Punctuated Equilibrium Theory|间断均衡理论]]强调外生重大危机驱动的断裂，与希伦强调的内生渐变构成当代制度分析的两大核心对话阵营。

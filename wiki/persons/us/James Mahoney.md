@@ -9,7 +9,7 @@ summary: "美国政治学家与历史社会学家，西北大学政治学与社�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -41,6 +41,7 @@ related_methods:
   - "[[Typological Analysis]]"
 related_persons:
   - "[[Kathleen Thelen]]"
+  - "[[Peter A. Hall]]"
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
 confidence: high
@@ -131,7 +132,7 @@ updated: 2026-10-11
 
 > [!person-network] 关系网络
 > - **师承／合作者** [[Kathleen Thelen|凯瑟琳·希伦（Kathleen Thelen）]] — 核心理论合作者，共同创立[[Theory of Gradual Institutional Change|渐进制度变迁理论]]与行动者类型学；迪特里希·吕施迈耶（Dietrich Rueschemeyer） — 合作编著奠立比较历史分析学科地位；加里·戈茨（Gary Goertz） — 合作系统阐释定性与定量“两种文化”；戴维·科利尔（David Collier） — 伯克利学派导师，深化概念界定与比较研究逻辑。
-> - **理论对话者** 西达·斯考切波（Theda Skocpol）与保罗·皮尔逊（Paul Pierson） — 共同推进历史制度主义与路径依赖因果分析；沃尔夫冈·施特雷克（Wolfgang Streeck）与彼得·霍尔（Peter Hall） — 在比较资本主义与制度变迁动力学领域展开多重学术交锋。
+> - **理论对话者** 西达·斯考切波（Theda Skocpol）与保罗·皮尔逊（Paul Pierson） — 共同推进历史制度主义与路径依赖因果分析；沃尔夫冈·施特雷克（Wolfgang Streeck）与[[Peter A. Hall|彼得·霍尔]]（Peter Hall） — 在比较资本主义与制度变迁动力学领域展开多重学术交锋。
 > - **学术论敌／批评者** 传统计量政治学者与新古典制度经济学者 — 质疑小样本比较历史分析与布尔代数集合论方法的经验稳健性，马奥尼通过建立严密的因果图式与机制追踪予以系统辩护。
 
 ---
