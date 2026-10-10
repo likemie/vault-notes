@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Politics/Argument_VanDerHeijden_2011_Politics.md"
     },
     {
+      "basename": "Punctuated Equilibrium Theory",
+      "path": "wiki/theories/educational-policy-reform/Punctuated Equilibrium Theory.md"
+    },
+    {
       "basename": "Argument_Sobe_Fischer_2009_MobilityMigration",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Sobe_Fischer_2009_MobilityMigration.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "National Semiconductor Technology Center",
       "path": "wiki/facts/us/National Semiconductor Technology Center.md"
-    },
-    {
-      "basename": "Innovation Ecosystem",
-      "path": "wiki/concepts/university-industry-collaboration/Innovation Ecosystem.md"
     }
   ],
   "omittedPaths": [],
