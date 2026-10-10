@@ -56,6 +56,7 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Champ]]"
   - "[[Academic Freedom]]"
+  - "[[Co-Design]]"
   - "[[Evaluator Independence]]"
   - "[[Self-report Bias]]"
 related_theories:
@@ -421,7 +422,7 @@ updated: 2026-09-13
 > |---|---|---|
 > | **议程设定** | 研究者自发根据学科前沿、个人兴趣与发表偏好自由选题 | 依据国家与区域中长期教育战略，兼顾学科探索与现实痛点 |
 > | **需求对接** | 单向论文发表，被动等待政策与实践者发现、购买与应用 | 建立制度化常态化需求磋商平台，反向牵引科研立项方向 |
-> | **机制协同** | 科研资助、成果中介与教师研训相互割裂，各自为战 | 将科研生产资助、教师能力发展与中介工具包进行一体化协同设计 |
+> | **机制协同** | 科研资助、成果中介与教师研训相互割裂，各自为战 | 将科研生产资助、教师能力发展与中介工具包进行一体化[[Co-Design\|协同设计]] |
 > | **典型案例** | 瑞士部分联邦州、捷克共和国等分散分权系统 | [[Programme for Research and Innovation in the Educational Sector\|挪威教育部门研究与创新计划]]（Programme for Research and Innovation in the Educational Sector, FINNUT）、[[Netherlands Initiative for Education Research\|荷兰教育研究倡议]]（Netherlands Initiative for Education Research, NRO）、[[National Strategy for Educational Research and Enquiry\|威尔士国家教育研究与探究战略]]（National Strategy for Educational Research and Enquiry, NSERE） |
 >
 > 实证数据显示，拥有长期科研生产战略的系统，其在政策与实践端部署促进利用机制的比例显著更高。匈牙利、荷兰、瑞典和土耳其四个系统同时具备科研生产战略与政策/实践利用系统战略，展现出成熟的科研动力学系统思维。（pp. 115–116）

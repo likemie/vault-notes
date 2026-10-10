@@ -55,6 +55,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Visible Learning]]"
   - "[[Professional Judgment]]"
+  - "[[Bureaucracy]]"
 related_theories: []
 related_methods:
   - "[[Semi-structured Interview]]"
@@ -330,7 +331,7 @@ issuing_organization: ""
 > [!citation-card] 政治语境与教育治理对[[Research Utilization\|研究使用]]经验的决定性塑造
 > 我们的比较分析表明，不同国家在研究使用进路上的差异取决于学校教育的政治语境。具体而言，国家体制是高度统合且相对协调，还是因市场化而四分五裂，至关重要，因为后者会导致更多利益群体在学校参与教育市场竞争的同时争夺校长与教师的注意力；学校属于稳定但欠缺灵活性的官僚体制，还是处于充满不确定性的市场环境，至关重要，因为后者促使人们为了寻求确定性而转向管理主义与科学理性；市场问责对学校领导者具有低利害还是高利害，至关重要，因为高利害迫使实践者战略性地专注于产出指标的最大化，甚至导致专业利益与部分学生的利益发生冲突；最后，对学校领导者和教师的公众审视程度至关重要，因为这会侵蚀公众对[[Professional Judgment\|专业判断]]的信任，并迫使校长使用所谓的客观研究来为决策辩护。（p. 22）
 >
-> *More broadly, our comparative analysis suggests that variations in approaches to research use between countries depend on the political context of schooling. Specifically, it matters whether the state is unified and relatively coherent or disaggregated through marketisation... It matters whether schools are part of a stable but inflexible bureaucracy or a more uncertain market... It matters whether market accountabilities have low or high stakes for school leaders and teachers... And finally, the extent to which there is public scrutiny of school leaders and teachers matters because this can erode public trust in professional judgement.*
+> *More broadly, our comparative analysis suggests that variations in approaches to research use between countries depend on the political context of schooling. Specifically, it matters whether the state is unified and relatively coherent or disaggregated through marketisation... It matters whether schools are part of a stable but inflexible [[Bureaucracy]] or a more uncertain market... It matters whether market accountabilities have low or high stakes for school leaders and teachers... And finally, the extent to which there is public scrutiny of school leaders and teachers matters because this can erode public trust in professional judgement.*
 
 ---
 

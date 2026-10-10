@@ -29,7 +29,8 @@ related_methods:
   - "[[Forest Plot]]"
   - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
-related_persons: []
+related_persons:
+  - "[[Francis Galton]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
@@ -50,7 +51,7 @@ updated: 2026-09-11
 > [!note]-
 > - 1857年出生于英国伦敦
 > - 1904年在《英国医学杂志》发表伤寒疫苗接种数据的跨研究合并分析，首次提出合并多项研究数据以回答因果问题的思想([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.33]])
-> - 担任伦敦大学学院高尔顿优生学教授及高尔顿实验室主任
+> - 担任伦敦大学学院[[Francis Galton|高尔顿]]优生学教授及高尔顿实验室主任
 > - 1936年逝世
 
 ---

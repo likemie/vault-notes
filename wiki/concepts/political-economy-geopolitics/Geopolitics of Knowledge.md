@@ -31,6 +31,7 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Multiplicity]]"
   - "[[Cosmopolitanism]]"
+  - "[[Student Mobility]]"
   - "[[Flow]]"
   - "[[Narrative Knowledge]]"
   - "[[Competitiveness]]"
@@ -182,7 +183,7 @@ updated: 2026-10-09
 >   以不断增长的政府投资为支撑，侧重国内能力建设而非全球扩张。国家尺度和全球尺度活动相互强化，形成循环效应
 
 > [!phase] 第二阶段（2015 至今）：西方的部分去全球化与中美脱钩
-> 不均衡但广泛的西方对跨境连接的反弹，由双重因素触发：（a）长期殖民秩序的侵蚀和全球[[Multiplicity\|多重性]]的增长——包括中国和全球南方大部分地区的崛起；（b）欧美人口的新自由主义贫困化催生了民粹政治。规范国际主义和[[Cosmopolitanism|世界主义]]让位于单一国家认同论、多边主义削弱、本土主义反移民（包括跨境学生流动），以及美国推动的中美在政治经济-技术-科学-大学领域关系的部分破裂（[[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 22–23]]）。
+> 不均衡但广泛的西方对跨境连接的反弹，由双重因素触发：（a）长期殖民秩序的侵蚀和全球[[Multiplicity\|多重性]]的增长——包括中国和全球南方大部分地区的崛起；（b）欧美人口的新自由主义贫困化催生了民粹政治。规范国际主义和[[Cosmopolitanism|世界主义]]让位于单一国家认同论、多边主义削弱、本土主义反移民（包括跨境[[Student Mobility|学生流动]]），以及美国推动的中美在政治经济-技术-科学-大学领域关系的部分破裂（[[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 22–23]]）。
 >
 > 这一阶段证实了 Massey 的核心洞见：试图通过[[Discourse|话语]]或强力"固定"空间的策略最终都"逃避了空间的挑战——即空间作为多重性"（[[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 6]]）。英美全球化最终无法维持其同质化控制——"每个空间最终都会部分地从那些使用它的人手中逃脱"（Lefebvre, 1991, p. 26, cited in [[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 12]]）。
 

@@ -83,7 +83,7 @@ updated: 2026-10-08
 > [!feature] 核心要素
 > - **衍生性与去原创性（Derivative Character）** 如同巴斯奎特（Basquiat）开创的涂鸦艺术被后世商业文化无休止地解构与克隆，绝大多数初创应用仅仅是对早期互联网连接技术的无生命衍生品。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 106–107)]]
 > - **屏幕注意力收割（Screen-Based Attention Capturing）** 将顶尖工程资源投入到刺激人类即时多巴胺分泌的屏幕竞争之中，特别是对儿童与青少年心智造成长期损害。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 110)]]
-> - **物理世界承诺的违背（Betrayal of Physical-World Promise）** 无法兑现 20 世纪中叶科幻黄金时代关于飞行汽车、力场、隐形传态与火星殖民地的承诺，退守于虚拟屏幕的微小修补。
+> - **物理世界承诺的违背（[[Betrayal in Research|betrayal]] of Physical-World Promise）** 无法兑现 20 世纪中叶科幻黄金时代关于飞行汽车、力场、隐形传态与火星殖民地的承诺，退守于虚拟屏幕的微小修补。
 
 ---
 

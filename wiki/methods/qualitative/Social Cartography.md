@@ -9,7 +9,7 @@ summary: "罗兰·保尔斯顿（Rolland Paulston）开创的比较教育质性�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 35
+method_related_count: 37
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Presence]]"
   - "[[Ontology]]"
+  - "[[Temporalization of Space]]"
   - "[[Reflexivity]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
@@ -91,7 +92,7 @@ updated: 2026-10-10
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 彻底摒弃现代主义与[[Positivism|实证主义]]的普世真理与线性进化论，坚持[[Postmodernism|后现代主义]]的多元视角主义与空间[[Ontology|本体论]]。批判[[Enlightenment|启蒙运动]]以来的“空间时间化”（Temporalization of Space）偏向——即欧洲旅行者自视为“时间旅行者”，将非西方世界与边缘人群划入“未开化”的历史时间阶梯（Leed, 1991; Sayre, 1997）；社会制图学通过共时性空间并置（Synchronic Spatial Juxtaposition）拆解这种等级叙事。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
+> - **知识观** 彻底摒弃现代主义与[[Positivism|实证主义]]的普世真理与线性进化论，坚持[[Postmodernism|后现代主义]]的多元视角主义与空间[[Ontology|本体论]]。批判[[Enlightenment|启蒙运动]]以来的“空间时间化”（[[Temporalization of Space]]）偏向——即欧洲旅行者自视为“时间旅行者”，将非西方世界与边缘人群划入“未开化”的历史时间阶梯（Leed, 1991; Sayre, 1997）；社会制图学通过共时性空间并置（Synchronic Spatial Juxtaposition）拆解这种等级叙事。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
 > - **研究者角色** 研究者不是超然物外的客观测量者，而是身处图景之内的制图员（Cartographer）；其自身绘制的地图同样是一种有立场的视角表达，需持续保持认识论自省与[[Reflexivity|反身性]]。
 > - **有效性标准** 强调诠释的启发性（Heuristic Value）、对话性开放度（Dialogic Openness）、[[Paradigm|范式]]区分的清晰度与对边缘知识盲区的发掘能力，而非统计精确度。
 > - **不声称回答的问题** 不能检验[[Variable|变量]]间的因果[[Effect Size|效应量]]，不能进行[[Hypothesis|假设]]检验，亦不能为公共教育政策提供技术官僚式的单一标准化处方。
@@ -148,6 +149,7 @@ updated: 2026-10-10
 > | [[Discourse Analysis]] | 补充方法 | 提供微观文本层面的[[Discourse\|话语]]权力解构工具，支撑宏观范式图绘。 |
 > | [[Comparative Policy Analysis]] | 补充方法 | 将空间图绘拓展至国家与超国家公共政策模式的横向多维对比。 |
 > | [[Student Mobility\|学生流动性]] | 概念 | 社会制图学关注的实践议题之一，透视人口在物理与制度空间中的流动机制。 |
+> | [[Temporalization of Space\|空间的时间化]] | 概念 | 社会制图学反思与批判的核心认识论靶标，旨在破除单线时间演化阶梯对空间多元性的抹杀。 |
 > | [[Rolland Paulston]] | 人物 | 社会制图学的首创者，将后现代空间图绘引入比较教育研究的核心学者。 |
 
 ---

@@ -31,6 +31,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
+  - "[[Student Mobility]]"
 related_theories:
   - "[[Dependency Theory]]"
   - "[[World-Systems Theory]]"
@@ -99,7 +100,7 @@ updated: 2026-10-07
 > [!success]
 > - 在高等教育中，英美顶尖大学是"新自由主义资本主义全球"被生产出来的地点——它们同时受益于全球人才和资金流入，并通过排名、出版和学位标准定义全球学术规范([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 12]])
 > - 排名体系中的出发位置严重不对等：以 [[Academic Ranking of World Universities\|ARWU]] 为例，其指标（Nature/Science 发表、诺奖/菲尔兹奖获得者）先天偏向历史悠久、英语为母语、研究密集型的老牌大学，"后来者、新兴大学和国家难以打入"（Marginson, 2014, p. 46）([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 4–5]])
-> - 澳大利亚的案例展示了权力几何学的复杂性：人口仅 2500 万的澳大利亚以国际学生费用资助了约四分之一的大学科研，7 所大学进入 ARWU 前 100。它既是全球不平等中的受益者（从亚洲学生流动中获利），又受到英美中心定义"卓越"标准的约束([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 19]])
+> - 澳大利亚的案例展示了权力几何学的复杂性：人口仅 2500 万的澳大利亚以国际学生费用资助了约四分之一的大学科研，7 所大学进入 ARWU 前 100。它既是全球不平等中的受益者（从亚洲[[Student Mobility|学生流动]]中获利），又受到英美中心定义"卓越"标准的约束([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 19]])
 
 ---
 

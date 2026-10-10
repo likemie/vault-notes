@@ -38,6 +38,7 @@ related_concepts:
   - "[[Pilot Scale Platform]]"
   - "[[Paradigm]]"
   - "[[Research Translation]]"
+  - "[[Heterogeneous Integration]]"
   - "[[University-Based Research Center]]"
 related_persons:
   - "[[Erich Bloch]]"
@@ -127,7 +128,7 @@ updated: 2026-10-09
 > 1. **科研资助模式革命** 成功确立了多用途、多学科大学研究中心（MMURC）作为美国高校研发的核心组织形态，彻底改变了战后数十年由学科院系与单一自由探索 PI 垄断的科研资助版图。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–366)]]
 > 2. **稳定的历史存续与造血机制** 截至 2003 年末，在 [[National Science Foundation|NSF]] 累计资助的 56 所中心中，有 44 所成功存续或实现财务自给（历史存活率达 79%），13 所中心在资助期满后完全实现自主造血良性运转。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 368–369)]]
 > 3. **[[Engineering Education|高等工程教育]]动手能力重塑** 彻底扭转了大学工程教育过度理论化、偏离产业工程实际的倾向，通过本科生实践流片、系统集成和跨学科团队攻坚，为全美高技术产业输送了高水准的系统工程师。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 367, 370)]]
-> 4. **催生战略半导体多校协同新[[Paradigm|范式]]** ERC 的跨学科中心模式成为当今全美跨校协同攻坚模板；在 [[DARPA]]/[[Semiconductor Research Corporation|SRC]] [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 框架下，宾夕法尼亚州立大学依托 ERC 式治理统领全美 14 所顶尖大学共建异构集成中心，攻克三维先进封装与新型微系统瓶颈。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]
+> 4. **催生战略半导体多校协同新[[Paradigm|范式]]** ERC 的跨学科中心模式成为当今全美跨校协同攻坚模板；在 [[DARPA]]/[[Semiconductor Research Corporation|SRC]] [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 框架下，宾夕法尼亚州立大学依托 ERC 式治理统领全美 14 所顶尖大学共建[[Heterogeneous Integration|异构集成]]中心，攻克三维先进封装与新型微系统瓶颈。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]
 
 > [!stat-cards]- 关键实证数据
 > - **56 所与 80+ 所** 自 1984 年至 2004 年 NSF 累计资助设立的早期 ERC 数量；截至 2020 年代全美累计资助设立的 ERC 总数。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 368–369)]]

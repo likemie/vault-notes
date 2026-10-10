@@ -26,6 +26,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Student Mobility]]"
   - "[[State Educational Sovereignty]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Presence]]"
@@ -70,7 +71,7 @@ updated: 2026-10-07
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1994 年在摩洛哥马拉喀什正式签署，1995 年 1 月 1 日随[[World Trade Organization|世界贸易组织]]（WTO）成立正式生效；由 WTO 及其各成员国政府共同制定与执行。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 > - **适用地区 / 对象** 覆盖所有 WTO 成员国境内的教育服务提供者，重点规范高等教育、成人教育以及各类非正规商业培训机构的跨境交易与办学准入。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
-> - **问题背景** 20 世纪末期，信息通信技术革命与跨国资本流动促使全球服务产业飞速膨胀。传统将教育完全视为封闭在民族国家边界内的公益事业与主权事务的[[Paradigm|范式]]，遭遇跨国离岸办学、远程网络教学与庞大自费留学生流动的强烈冲击，各成员国迫切需要统一的国际法框架以保护教育跨境投资与服务流动。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 107, 110–111)]]
+> - **问题背景** 20 世纪末期，信息通信技术革命与跨国资本流动促使全球服务产业飞速膨胀。传统将教育完全视为封闭在民族国家边界内的公益事业与主权事务的[[Paradigm|范式]]，遭遇跨国离岸办学、远程网络教学与庞大自费留[[Student Mobility|学生流动]]的强烈冲击，各成员国迫切需要统一的国际法框架以保护教育跨境投资与服务流动。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 107, 110–111)]]
 > - **制度位置** 作为 WTO 多边规则体系的三大支柱之一（涵盖货物、服务与知识产权），GATS 将全球服务贸易划分为 12 大门类，教育服务被明确编为第 5 门类（CPC 92），确立了教育受国际商法约束的法律地位。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 
 ---

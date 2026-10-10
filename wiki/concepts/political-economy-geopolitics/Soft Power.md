@@ -23,6 +23,7 @@ related_concepts:
   - "[[Soft Power by Hard Facts]]"
   - "[[Hard Power]]"
   - "[[Discourse]]"
+  - "[[Student Mobility]]"
   - "[[Cultural Diplomacy]]"
   - "[[Policy Brokerage]]"
   - "[[Performance Indicators]]"
@@ -75,7 +76,7 @@ updated: 2026-10-08
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于军事威慑与经济收买等[[Hard Power|硬实力]]形态，软实力聚焦意识形态、价值规范、文化制度与知识[[Discourse|话语]]的非强制性吸纳与同化功能。
-> - **用途** 帮助研究者透视国家为何在非高敏感领域（如跨境高等教育、学术交流、技术援助与留学生流动）进行战略投资；解释国际多边组织如何通过设立自愿性测评（如 [[PISA]]）和发布指标实现超国家层面的政策协调与远处规制。
+> - **用途** 帮助研究者透视国家为何在非高敏感领域（如跨境高等教育、学术交流、技术援助与留[[Student Mobility|学生流动]]）进行战略投资；解释国际多边组织如何通过设立自愿性测评（如 [[PISA]]）和发布指标实现超国家层面的政策协调与远处规制。
 > - **边界** 软实力不等于纯粹的学术中立合作（它始终服务于地缘政治与国家利益诉求），也不等于一般的[[Cultural Diplomacy\|文化外交]]（文化外交是其具体政策载体，而软实力是底层权力[[Analytic Framework\|分析框架]]）。
 
 > [!citation-card] 软实力的核心定义与吸引力机制

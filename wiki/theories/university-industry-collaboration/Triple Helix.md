@@ -47,6 +47,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Valley of Death]]"
+  - "[[Heterogeneous Integration]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
   - "[[Research Security]]"
@@ -186,7 +187,7 @@ updated: 2026-10-09
 > [!theory-proposition] 命题五｜在国家关键战略技术攻关中，三螺旋演进为由战略使命统领、跨校协同网络与中试共置平台支撑的国家安全网络[[Paradigm|范式]]
 > **解释** 在尖端半导体等资本与技术密集型产业中，传统分散的“单校-单企”双边合作已无法应对后摩尔时代高昂的研发门槛与供应链断链危机。三重螺旋在国家安全化驱动下发生深刻重构：政府通过国家战略立法（如《[[CHIPS and Science Act|芯片法案]]》）设立技术路线图与专项基金；产业界通过联合出资（[[Semiconductor Research Corporation|SRC]] 模式）与深度捐资反哺大学；大学则从单纯的知识供给者演进为跨区域协同攻关网络的“组织中枢”（如 [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 14 校联盟），并通过与产业人员在 300 毫米晶圆中试线中“空间共置”，共同跨越 [[Technology Readiness Level|TRL]] 4–6 [[Valley of Death|死亡之谷]]。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 22–24)]]
 >
-> **应用实例** 由 [[DARPA]] 与 SRC 联合资助的 JUMP 2.0 计划中，宾夕法尼亚州立大学作为牵头高校组织全美 14 所顶尖大学成立微电子系统异构集成中心（CHIMES），联合数十家主流半导体企业开展前竞争协同攻关；同时纽约州立大学 [[Albany NanoTech Complex|Albany NanoTech]] 与麻省理工学院 MIT.nano 提供产学共享的先进制程洁净室中试环境，成功打通了从学术原型到代工厂放大的工程闭环。
+> **应用实例** 由 [[DARPA]] 与 SRC 联合资助的 JUMP 2.0 计划中，宾夕法尼亚州立大学作为牵头高校组织全美 14 所顶尖大学成立微电子系统[[Heterogeneous Integration|异构集成]]中心（CHIMES），联合数十家主流半导体企业开展前竞争协同攻关；同时纽约州立大学 [[Albany NanoTech Complex|Albany NanoTech]] 与麻省理工学院 MIT.nano 提供产学共享的先进制程洁净室中试环境，成功打通了从学术原型到代工厂放大的工程闭环。
 
 ---
 

@@ -126,6 +126,7 @@ related_concepts:
   - "[[Listening-Oriented Learning]]"
   - "[[Lesson Study]]"
   - "[[Devil's Advocate]]"
+  - "[[Student Mobility]]"
   - "[[Xiaokang]]"
   - "[[Self-Continuity, Self-Distinctness, and Self-Agency]]"
   - "[[Avatar]]"
@@ -3322,7 +3323,7 @@ Li 还提出了说话者的"道德、社会、个人"三重负担框架(pp.102-1
 
 #### 第 1 步：设定问题 — 文化差异会在全球化中消失吗？
 
-全球化使人口流动和文化交流达到空前规模。跨国学生流动激增：中国、印度等新兴经济体的大批学生前往西方求学，同时西方、南美、非洲和中东的学生也开始前往中国等非西方国家学习(pp.329-330)。Li 描述了她在 2004 年 12 月带一位欧裔美国同事去中国偏远乡村研究儿童认知发展时，"震惊地发现整条街都挂满了圣诞装饰、播放着圣诞音乐"(p.330)。
+全球化使人口流动和文化交流达到空前规模。[[Student Mobility|跨国学生流动]]激增：中国、印度等新兴经济体的大批学生前往西方求学，同时西方、南美、非洲和中东的学生也开始前往中国等非西方国家学习(pp.329-330)。Li 描述了她在 2004 年 12 月带一位欧裔美国同事去中国偏远乡村研究儿童认知发展时，"震惊地发现整条街都挂满了圣诞装饰、播放着圣诞音乐"(p.330)。
 
 面对如此深度的文化交融，一种预测是：文化差异终将消失，全人类将重新融合为同一种文化（"a grand global consilience"）。这种预测不是空想——它曾经（且仍在）指导着快速同化政策，如对 Native American 儿童强制推行 English-only 教育；也有人提出了 WEIRD（white, educated, industrialized, rich, democratic）同质化的观点(pp.331-332)。
 

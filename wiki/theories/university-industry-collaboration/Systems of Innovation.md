@@ -342,12 +342,12 @@ updated: 2026-10-09
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 追溯[[National Innovation System|国家创新系统]]的思想渊源，结合英德美日苏长周期比较，论证教育培训、企业专职研发与网络连接在技术赶超中的决定性作用，确立创新系统的多标量空间架构。
+> - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 追溯[[National Innovation System|国家创新系统]]的思想渊源，结合英德美日苏长周期比较，论证教育培训、企业专职研发与网络连接在[[Technological Catch-up|技术赶超]]中的决定性作用，确立创新系统的多标量空间架构。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]] — 阐述从国家创新系统“系统失灵修补”向使命导向“[[Market Shaping and Creating|市场塑造]]与创造”的理论演化脉络与 ROAR 政策[[Analytic Framework|分析框架]]。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]] — 历史制度分析战后五十年美国国防研发投资与采购体系，系统阐明[[University-Based Research Infrastructure|大学科研基础设施]]奠定、初生期先导采购与第二货源机制如何塑造美国 IT 创新系统，揭示产业成熟期由民向军的逆向技术溢出规律及反恐预算重组的潜在风险。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]] — 系统梳理五十年来产学关系与[[Innovation Policy Paradigms|创新政策范式]]的三次跃迁（科学促增长 → 创新系统 → [[Transformative Change|变革转型]]），详述系统失灵的完整分类（制度、网络、锁定、能力等）及大学对创新全谱系的多维贡献。
 > - [[Argument_Caraca_2009_TFSC|Caraça et al., 2009]] — 提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，整合部门、区域与国家创新系统，论证三类知识池互动及微观/宏观制度滞后造成的阻尼效应。
 > - [[Argument_Lester_2005_MIT|Lester, 2005]] — 依托 MIT [[Local Innovation Systems Project|本地创新系统项目]]（LIS）对 6 国 22 个地区的实证调研，系统构建大学匹配四种本地产业转型路径的差异化支持模型。
-> - [[Argument_Moisio_2022_Springer|Moisio, 2022]] — 从[[Cultural Political Economy|文化政治经济学]]与地缘政治学视角追溯国家创新系统的李斯特渊源，揭示[[Knowledge-Based Economization|知识经济化]]如何将知识、创新与国家竞争实力深度绑定。
+> - [[Argument_Moisio_2022_Springer|Moisio, 2022]] — 从[[Cultural Political Economy|文化政治经济学]]与地缘政治学视角追溯国家创新系统的[[Friedrich List|李斯特]]渊源，揭示[[Knowledge-Based Economization|知识经济化]]如何将知识、创新与国家竞争实力深度绑定。
 > - [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta, 2016]] — 运用修订版帕维特产业分类法，实证阐明科学基础型、专业供应商型、规模密集型等不同部门创新系统的[[Heterogeneity|异质性]]机制。
 > - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008]] — 梳理美国国家科技体制变迁，印证联邦竞争性拨款与《[[Bayh-Dole Act of 1980|拜杜法案]]》如何激活国家创新系统内部大学与产业的动态联结。

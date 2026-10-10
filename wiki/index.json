@@ -1442,6 +1442,16 @@
     ]
   },
   {
+    "title": "Sedentarism",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Sedentarism.md",
+    "aliases": [
+      "定居主义",
+      "定居中心主义",
+      "sedentarist bias"
+    ]
+  },
+  {
     "title": "Selective Affinity",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Selective Affinity.md",
@@ -1558,6 +1568,16 @@
       "教育技术赤字",
       "Technologiedefizit der Erziehung",
       "Technology Deficit"
+    ]
+  },
+  {
+    "title": "Temporalization of Space",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Temporalization of Space.md",
+    "aliases": [
+      "空间的时间化",
+      "空间的历时化",
+      "temporalising space"
     ]
   },
   {
@@ -13321,6 +13341,17 @@
     ]
   },
   {
+    "title": "Teacher Mobility",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Teacher Mobility.md",
+    "aliases": [
+      "教师流动",
+      "教师跨校流动",
+      "教师跨国流动",
+      "educator mobility"
+    ]
+  },
+  {
     "title": "Teacher Professional Agency",
     "type": "concept",
     "path": "wiki/concepts/teacher-education/Teacher Professional Agency.md",
@@ -14472,7 +14503,6 @@
     "path": "wiki/concepts/university-industry-collaboration/Transnational Research Collaboration.md",
     "aliases": [
       "跨国研究合作",
-      "transnational research collaboration",
       "international research collaboration"
     ]
   },

@@ -30,7 +30,8 @@ related_concepts:
 related_theories:
   - "[[Growth Mindset]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Francis Galton]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
@@ -47,7 +48,7 @@ updated: 2026-08-20
 > [!info]
 > 天赋[[Hypothesis\|假设]]（talent assumption）是 Li (2012) 在分析西方 [[Nerd]] 同伴文化时识别的一种深层文化信念：**智力成就主要来源于先天禀赋（天赋、天才），而非后天努力。** 根据这一假设，一个人在学术领域的表现——尤其是卓越的表现——被认为反映了他天生被赋予的智力水平([[Argument_Li_2012_Cambridge\|Li, 2012, pp.96–98]])。
 
-这一信念的历史根源可追溯至 Francis Galton 的《Hereditary Genius》（1869/2006 重印）——该书首次系统论证"天才是遗传的"——并延续至 Hernstein and Murray 的《The Bell Curve》（1994）等当代争论。Li 指出，这一假设之所以难以被彻底反驳，是因为日常生活中确实存在明显的天赋差异（莫扎特、毕加索、爱因斯坦），使得天赋假设具有直观的"常识"感召力([[Argument_Li_2012_Cambridge|Li, 2012, pp.96–97]])。
+这一信念的历史根源可追溯至 [[Francis Galton]] 的《Hereditary Genius》（1869/2006 重印）——该书首次系统论证"天才是遗传的"——并延续至 Hernstein and Murray 的《The Bell Curve》（1994）等当代争论。Li 指出，这一假设之所以难以被彻底反驳，是因为日常生活中确实存在明显的天赋差异（莫扎特、毕加索、爱因斯坦），使得天赋假设具有直观的"常识"感召力([[Argument_Li_2012_Cambridge|Li, 2012, pp.96–97]])。
 
 > [!tip]- 与 Entity vs [[Growth Mindset\|Incremental Intelligence]] 的关系
 > 天赋假设是**文化层面的信念**，实体智力观是这一文化信念在**个体心理层面**的[[Operationalization\|操作化]]。Dweck 的实体论（entity theory）描述了"智力是固定的"这一**个人信念**如何影响学习行为；天赋假设则描述了"才能在出生时已定"这一**文化叙事**如何渗透学校制度、教师判断、同伴态度和家长社会化实践。两者同源但在不同分析层面运作。

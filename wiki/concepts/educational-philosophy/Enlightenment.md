@@ -76,7 +76,6 @@ related_arguments:
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
-  - "[[Argument_Cowen(Ed.)_2009_Springer]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 related_theories:
   - "[[Postmodernism]]"

@@ -21,6 +21,7 @@ related_concepts:
   - "[[Wicked Problem]]"
   - "[[Directionality of Innovation]]"
   - "[[Big Science]]"
+  - "[[Co-Design]]"
   - "[[Grand Challenges]]"
   - "[[Problem Finding]]"
   - "[[Discourse]]"
@@ -70,7 +71,7 @@ aliases:
 > - **边界** 分布式主体不等于无政府式的放任自流或无序碎片化，而是强调在统摄性宏观使命（[[Directionality of Innovation|directionality]]）引领下的多元分布式协同。
 
 > [!citation-card] 第三代使命政策中的分布式主体与社会共创
-> 第三代使命导向政策在制度动因上由非纯技术性的棘手社会挑战所驱动。与第二代[[Big Science|大科学]]项目依赖单一权威主管和单一集权实验室不同，第三代使命政策展现出高度分布式的行动主体（Distributed Agency），涵盖多边国际组织、大型慈善基金会、草根社会运动以及广大公民用户。这要求政策制定从封闭指令转向跨学科协同设计与社会响应性实验。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
+> 第三代使命导向政策在制度动因上由非纯技术性的棘手社会挑战所驱动。与第二代[[Big Science|大科学]]项目依赖单一权威主管和单一集权实验室不同，第三代使命政策展现出高度分布式的行动主体（Distributed Agency），涵盖多边国际组织、大型慈善基金会、草根社会运动以及广大公民用户。这要求政策制定从封闭指令转向跨学科[[Co-Design|协同设计]]与社会响应性实验。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
 >
 > *Third-generation missions are driven by [[Grand Challenges]] that are 'wicked' problems... they exhibit distributed agency (multilateral organizations, large philanthropic foundations, grassroots social movements, users), with a strong focus on social responsiveness, multidisciplinary cross-design, and user-centred experimentation.*
 

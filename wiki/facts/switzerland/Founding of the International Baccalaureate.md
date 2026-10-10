@@ -25,6 +25,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Open-Mindedness]]"
   - "[[Reflexivity]]"
+  - "[[Student Mobility]]"
   - "[[General Education]]"
 related_theories: []
 related_methods:
@@ -97,7 +98,7 @@ updated: 2026-09-23
 ## 经过
 
 > [!dev-timeline]- [[International Baccalaureate\|国际文凭]]的起源与早期制度形成
-> - **1924–1925 — 日内瓦[[International Schools\|国际学校]]提出最早设想** [[International School of Geneva\|日内瓦国际学校]]于 1924 年为国际联盟雇员子女创办。1925 年，校长保罗·迈霍弗（Paul Meyhoffer）依治理委员会要求，向 17 位欧洲教育改革者发出[[Questionnaire\|问卷]]，试探建立“国际毕业会考”（maturité internationale）的可能性。现存材料没有记录回复；当时国际学校和跨国学生流动都很少，设想未进入实施，但[[General Education\|通识教育]]与专门化教育的关系已经成为核心问题。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, p. 15)]]
+> - **1924–1925 — 日内瓦[[International Schools\|国际学校]]提出最早设想** [[International School of Geneva\|日内瓦国际学校]]于 1924 年为国际联盟雇员子女创办。1925 年，校长保罗·迈霍弗（Paul Meyhoffer）依治理委员会要求，向 17 位欧洲教育改革者发出[[Questionnaire\|问卷]]，试探建立“国际毕业会考”（maturité internationale）的可能性。现存材料没有记录回复；当时国际学校和[[Student Mobility|跨国学生流动]]都很少，设想未进入实施，但[[General Education\|通识教育]]与专门化教育的关系已经成为核心问题。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, p. 15)]]
 >
 > - **1948–1955 — 战后需求使旧设想重新出现** 1948 年，国际意识学校会议要求日内瓦国际学校恢复倡议；1951 年成立的[[International Schools Association\|国际学校协会]]（International Schools Association，ISA）为不断增加的国际学校协调共同问题；1955 年，欧洲共同体学校创办者范·豪特再次向 ISA 呼吁建立国际文凭。大学入学竞争加剧，使学生必须精确准备某一国家的课程与考试，国际共同资格由理想议题转为现实需要。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 15–17)]]
 >

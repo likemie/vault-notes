@@ -16,8 +16,10 @@ tags:
   - source/edited-volume
 related_concepts:
   - "[[Research Question]]"
+  - "[[Student Mobility]]"
   - "[[Cultural Diplomacy]]"
   - "[[Discourse]]"
+  - "[[Teacher Mobility]]"
   - "[[Soft Power]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
@@ -32,7 +34,8 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Expert Interview]]"
   - "[[Qualitative Documents]]"
-related_persons: []
+related_persons:
+  - "[[Lee Kuan Yew]]"
 related_facts:
   - "[[OECD]]"
   - "[[Singapore Education Hub Policy]]"
@@ -43,14 +46,14 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-19
-updated: 2026-09-18
+updated: 2026-10-10
 subtype: book-chapter
 publication_type: book
 title: "Argument_Erfurth_2022_education-hubs"
 argument_key: "Argument_Erfurth_2022_education-hubs"
 argument_display_title: "Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates"
 argument_kind: "book"
-argument_related_count: 18
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -72,7 +75,7 @@ citation_aliases:
 
 本章来自一个更大的博士论文项目（2016–2021，明斯特大学），项目总[[Research Question|研究问题]]是：(1) 现有国际比较高等教育研究概念在分析教育枢纽现象时具有怎样的分析潜力？(2) 教育枢纽现象如何改变国际高等教育中的政策制定与治理？(p.201)
 
-本章的独特视角在于：不研究高等教育的子议题（学生流动、国际化策略等），而是将高等教育视为**被政治行动者改变的对象**——高等教育被嵌入更大的政治项目，成为追求地缘政治转型的工具(p.205)。
+本章的独特视角在于：不研究高等教育的子议题（[[Student Mobility|学生流动]]、国际化策略等），而是将高等教育视为**被政治行动者改变的对象**——高等教育被嵌入更大的政治项目，成为追求地缘政治转型的工具(p.205)。
 
 
 ## 理论框架
@@ -116,7 +119,7 @@ citation_aliases:
 论文诊断出现有研究的两个问题(pp.202–204)：
 
 1. **肯定性的政策倡导导向**Knight (2014) 的三类枢纽递进模型、Lane & Kinser (2011) 的跨境教育框架——主要采取肯定性立场，为政策制定者提供实施指南和进度测量工具
-2. **视角碎片化** 实证研究集中在留学生/教师流动、英美澳大学的分校/卫星校园等单一议题(Altbach & Salmi, 2011; Kosmützky, 2018)，少数批评声音指出了[[Soft Power|软实力]]维度但缺乏系统实证(Nye, 2005; Lee, 2015; Tan, 2016)
+2. **视角碎片化** 实证研究集中在留学生/[[Teacher Mobility|教师流动]]、英美澳大学的分校/卫星校园等单一议题(Altbach & Salmi, 2011; Kosmützky, 2018)，少数批评声音指出了[[Soft Power|软实力]]维度但缺乏系统实证(Nye, 2005; Lee, 2015; Tan, 2016)
 
 由此论证需要一种**系统层面的视角**——将教育枢纽置于更广泛的社会政治和经济背景中考察，而非局限于高等教育领域内部。
 
@@ -128,7 +131,7 @@ citation_aliases:
 
 - 1990 年代初：冷战结束后利用地理位置成为"亚洲门户"，以市场资本主义对接西方
 - 1996–1997 年：提出"东方波士顿"（Boston of the East）战略——按哈佛/MIT 模式重塑 NUS and NTU，标志着从区域到全球整合的战略转向
-- 1992 年起陆续建立：哈佛肯尼迪学院与 NUS 合作项目（后发展为李光耀公共政策学院）→ NYU Tisch 艺术学院（后失败）→ 耶鲁-NUS 文理学院(2011)
+- 1992 年起陆续建立：哈佛肯尼迪学院与 NUS 合作项目（后发展为[[Lee Kuan Yew|李光耀]]公共政策学院）→ NYU Tisch 艺术学院（后失败）→ 耶鲁-NUS 文理学院(2011)
 - 2002 年：推出"全球校园"（Global Schoolhouse）项目，吸引"世界一流大学"创建商业化国际高等教育产业
 - 2007 年：遭遇市场失败——一所澳大利亚大学开学不到一年即关闭(Ng & Tan, 2010)，此后转向强化监管和质量保证
 

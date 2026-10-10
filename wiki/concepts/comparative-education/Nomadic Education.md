@@ -7,10 +7,10 @@ aliases:
 summary: "游牧教育是指面向游牧及半游牧畜牧群体的教育政策与教学供给模式；它处于国家推行定居化同化规训与游牧社群维护生计自主权的双重张力之中，既被现代国家用作终结流动性并纳入行政管辖的中心工具，又被游牧家庭策略性地用作防范生计风险、积累社会资本并摆脱外部剥削依赖的家庭保障机制。"
 type: concept
 domain: "comparative-education"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 22
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/comparative-education
   - theme/migrant-education
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Cultural Capital]]"
+  - "[[Sedentarism]]"
   - "[[Educational Level]]"
   - "[[Traveller Education]]"
   - "[[Boarding Schools]]"
@@ -61,7 +62,7 @@ updated: 2026-10-10
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向逐水草而居的非定居群体的正规与非正规教育实践，聚焦物理流动性与定居化制度之间的空间冲突。
-> - **用途** 帮助研究者透视国家教育体制中深层蕴含的定居主义（Sedentarism）偏见，识别边缘少数群体利用学校制度进行反向自保与生计多元化的微观能动性。
+> - **用途** 帮助研究者透视国家教育体制中深层蕴含的[[Sedentarism|定居主义]]（Sedentarism）偏见，识别边缘少数群体利用学校制度进行反向自保与生计多元化的微观能动性。
 > - **边界** 不等于通用意义上的农村教育或偏远地区教育；它不仅涉及地理偏远，更核心的特征是生产生活方式对空间流动性（Spatial Mobility）的内在依赖。
 
 > [!citation-card] 游牧教育的社会资本积累与去依附功能

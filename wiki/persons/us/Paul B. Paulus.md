@@ -34,6 +34,7 @@ related_concepts:
   - "[[Divergent Thinking]]"
   - "[[Working Memory]]"
   - "[[Heterogeneity]]"
+  - "[[Wisdom of Crowds]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -94,7 +95,7 @@ updated: 2026-09-22
 ## 核心思想
 
 > [!claim] 核心主张
-> 群体本身既非创意的天然催化剂，亦非必然的绊脚石；面对面口头交互之所以失败，是因为单一言语信道迫使思考者在排队等待时遗忘了即时构想（生产阻塞），并诱发了害怕被评判的自我防卫（评价顾虑）；只要改变交互媒介，采用异步书面轮转（Brainwriting）或推行“先个体独立深思、后群体结构化交锋”的混合[[Paradigm\|范式]]，群体的[[Heterogeneity\|异质性]]背景便能转化为强大的无意识语义启动刺激，实现真正超越个人的群体智慧飞跃。Paulus (2000); Baruah & Paulus (2008); [[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10)]]
+> 群体本身既非创意的天然催化剂，亦非必然的绊脚石；面对面口头交互之所以失败，是因为单一言语信道迫使思考者在排队等待时遗忘了即时构想（生产阻塞），并诱发了害怕被评判的自我防卫（评价顾虑）；只要改变交互媒介，采用异步书面轮转（Brainwriting）或推行“先个体独立深思、后群体结构化交锋”的混合[[Paradigm\|范式]]，群体的[[Heterogeneity\|异质性]]背景便能转化为强大的无意识语义启动刺激，实现真正超越个人的[[Wisdom of Crowds|群体智慧]]飞跃。Paulus (2000); Baruah & Paulus (2008); [[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10)]]
 
 > [!citation-card]- 关键表述
 > 构想的生成在本质上是一种深度认知加工过程。当一个人在聆听他人讲话时，他自己的概念检索网络就会被强行打断或带偏；唯有让每个个体享有完全并发的自主思考时间，群体的碰撞才具有真正的启发价值。Paulus (2000, pp. 240–243)

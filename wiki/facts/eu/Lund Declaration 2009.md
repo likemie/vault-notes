@@ -31,6 +31,7 @@ related_concepts:
   - "[[Directionality of Innovation]]"
   - "[[Distributed Agency]]"
   - "[[Market Failure]]"
+  - "[[Co-Design]]"
   - "[[Tilting the Playing Field]]"
 related_theories: []
 related_persons: []
@@ -83,7 +84,7 @@ aliases:
 > | 比较维度 | 传统欧洲科技政策范式（前隆德时代） | 《隆德宣言》开启的新范式（第三代使命政策） |
 > |:---|:---|:---|
 > | **合法性基础** | 弥补[[Market Failure\|市场失灵]]、提升单一产业在国际市场中的商业竞争力。 | 直面关乎人类生存福祉与可持续发展的[[Grand Challenges\|重大社会挑战]]。 |
-> | **研发组织模式** | 学科界限分明的自下而上自由申报或狭隘行业专项攻关。 | 跨部门、跨学科协同设计与社会响应性实验。 |
+> | **研发组织模式** | 学科界限分明的自下而上自由申报或狭隘行业专项攻关。 | 跨部门、跨学科[[Co-Design\|协同设计]]与社会响应性实验。 |
 > | **干预战略取向** | 供给侧研发要素补贴与被动去风险。 | 运用跨政策工具箱主动[[Tilting the Playing Field\|倾斜竞争场地]]与塑造新兴市场。 |
 > | **代表性科研框架** | 欧盟早期框架计划（FP1–FP6）。 | 欧盟“地平线 2020”（Horizon 2020）与[[Horizon Europe Missions\|地平线欧洲使命]]。 |
 

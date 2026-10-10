@@ -23,6 +23,7 @@ related_concepts:
   - "[[Total Factor Productivity]]"
   - "[[Growth]]"
   - "[[General Purpose Technology]]"
+  - "[[Commercial Off-The-Shelf]]"
   - "[[Learning by Doing]]"
   - "[[Sage]]"
   - "[[Second-Sourcing]]"
@@ -73,7 +74,7 @@ updated: 2026-10-05
 > [!feature] 核心要素
 > - **军民技术重叠度（Technological Overlap）** 衡量军用作战指标（抗毁性、低延迟、恶劣环境适应）与民用商业指标（成本、能效、用户友好性）在技术物理底座上的兼容程度；重叠度越高，早期军民双向渗透越顺畅。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 31, 34)]]
 > - **市场规模主导权更迭（Market Scale Dominance）** 在产业萌芽期，国防采购占芯片与早期主机市场的绝对主导，军方承担了高额试错成本；伴随商业市场爆炸式增长，民用需求在规模上彻底压倒国防需求，主导了技术演进方向。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 33–34)]]
-> - **规范分化与制度壁垒（Standard Divergence vs. COTS）** 军用特种规格（Mil-Specs）与商业工业标准的脱节容易导致军工体系孤岛化；促使现代国防政策向采购商用现成产品（COTS）与开放架构转型。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 34, 38)]]
+> - **规范分化与制度壁垒（Standard Divergence vs. [[Commercial Off-The-Shelf|COTS]]）** 军用特种规格（Mil-Specs）与商业工业标准的脱节容易导致军工体系孤岛化；促使现代国防政策向采购商用现成产品（COTS）与开放架构转型。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 34, 38)]]
 
 > [!logic-map]- 军民两用技术生命周期演化模型
 > ```mermaid

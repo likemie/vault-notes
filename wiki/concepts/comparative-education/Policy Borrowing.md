@@ -523,7 +523,7 @@ updated: 2026-10-09
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 系统剖析 19 世纪欧美跨国借用的机制分野：[[Victor Cousin\|维克多·库森]]在法国推行的普鲁士教育法案“实定法直接转置”模式，与[[Horace Mann\|霍勒斯·曼]]在北美将普鲁士公学实绩作为反击保守派的“政治合法化论证依据”模式。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 阐发 19 世纪第一代学校中心主义借用如何作为政治意识形态合法化依据，以及[[Michael Sadler|萨德勒]]历史文化转向对素朴借用的超越。
 > - [[Argument_Mitter_2009_Europe\|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，深入对比了英国实务借用导向与德国[[Allgemeine Pädagogik|普通教育学]]哲思导向的双轨演进模式，并在当代大规模国际测评背景下警示浅层功利性政策借用对比较教育[[Epistemology|认识论]]身份的稀释风险。
-> - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 结合挪威常设委员会长程实践与美德公学考察，平反早期政策借用并确立“恶政良教自然可分”公理；同时构建涵盖“接受-抵制-恢复-强制再生产”的全球化四维批判分析框架，揭示跨国政策输出中的非对称强加与依附机制。
+> - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 结合挪威常设委员会长程实践与美德公学考察，平反早期政策借用并确立“恶政良教自然可分”公理；同时构建涵盖“接受-抵制-恢复-强制再生产”的全球化四维批判[[Analytic Framework|分析框架]]，揭示跨国政策输出中的非对称强加与依附机制。
 > - [[Argument_Rappleye_2006_RCIE\|Rappleye (2006)]] — 构建[[Cross-National Attraction\|跨国吸引力]]情境[[Concept Mapping\|概念地图]]，剖析[[Pre-Transfer Agency\|前转移能动性]]与吸引力四种修辞动机，并以甲午战争后中国晚清改革派与保守派基于不同政治动机共同借用日本教育体制为例展开实证分析。
 > - [[Argument_Cowen_2009_CE\|Cowen (2009b)]] — 建立“转移—[[Transfer Translation Transformation\|转译]]—形态变异”分析视角，论证教育政策元素在跨国流动中受微观权力与时空重构必然发生实质形态改变。
 > - [[Argument_Yan_2025_JCS\|Yan & Morris (2025)]] — 追踪[[Liberal Studies\|香港通识教育科]]从创立到废除的生命周期，揭示政策借用作为本土政治议程[[Externalization\|外化]]合法化工具的运作机制，并界定高压威权行政接管下政策借用[[Analytic Framework\|分析框架]]的失效边界。

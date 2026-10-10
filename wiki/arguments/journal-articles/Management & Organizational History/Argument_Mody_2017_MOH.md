@@ -58,6 +58,7 @@ related_facts:
   - "[[DARPA]]"
   - "[[National Science Board]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
+  - "[[National Nanotechnology Coordinated Infrastructure]]"
 related_arguments: []
 sources:
   - "[[sources/Mody_2017_MOH|Mody_2017_MOH]]"
@@ -304,7 +305,7 @@ NRRFSS 在运营过程中不仅为 40 余家机构提供微纳实验室建设咨
 > - **推论：平台跨界复用与新生态共生**
 >   学术创业者将微电子加工手段引入生命科学：康奈尔 NRRFSS 支持研制出植物遗传学工具基因枪（成为康奈尔历史上最成功的[[Technology Transfer|技术转移]]案例）；斯坦福 CIS 的微加工设施直接支撑了帕特里克·布朗团队发明 DNA 微阵列芯片；西雅图华盛顿大学微技术中心向微流控芯片实验室转型。
 > - **结论：多学科灵活性赋予大学组织持久生命力**
->   相较于目标单一的产业研发联盟，大学学术中心依托高等教育环境的多学科灵活性，完成了从单一微电子工艺向国家纳米技术基础设施（如国家纳米制造用户网络 NNUN 及国家纳米技术协同基础设施 NNCI）与生物医疗工程的战略再造。（pp.298–299）
+>   相较于目标单一的产业研发联盟，大学学术中心依托高等教育环境的多学科灵活性，完成了从单一微电子工艺向国家纳米技术基础设施（如国家纳米制造用户网络 NNUN 及国家纳米技术协同基础设施 [[National Nanotechnology Coordinated Infrastructure|NNCI]]）与生物医疗工程的战略再造。（pp.298–299）
 
 ---
 

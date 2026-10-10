@@ -60,7 +60,6 @@ related_facts:
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
-  - "[[Argument_Cowen(Ed.)_2009_Springer]]"
 confidence: high
 status: completed
 created: 2026-09-28

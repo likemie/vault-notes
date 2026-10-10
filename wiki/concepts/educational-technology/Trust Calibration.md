@@ -32,6 +32,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[AI Literacy]]"
   - "[[Epistemic Friction]]"
+  - "[[Cognitive Decoupling]]"
   - "[[Epistemic Deference]]"
   - "[[Scaffolding]]"
   - "[[Evaluative Judgement]]"
@@ -98,7 +99,7 @@ updated: 2026-10-07
 > [!feature] 人机信任校准的核心维度与机制
 > - **能力与边界感知（Capability & Boundary Awareness）** 操作者对系统算法架构、训练语料分布及适用情境极限的清晰认知，是实现精准信任校准的认知基石。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 8–10)]]
 > - **信任动态调节性（Dynamic Adjustability）** 信任不是静态常量，必须随任务复杂度、传感器数据噪声及现场反常信号的出现而实时动态升降。
-> - **自信与校准解耦（Decoupling of Confidence & Calibration）** 信任校准取决于信任分配是否具备情境合理性，不能简单还原为操作者个人自信心高低的心理博弈。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 9–10)]]
+> - **自信与校准解耦（[[Cognitive Decoupling|decoupling]] of Confidence & Calibration）** 信任校准取决于信任分配是否具备情境合理性，不能简单还原为操作者个人自信心高低的心理博弈。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 9–10)]]
 > - **过度信任向[[Epistemic Deference\|认识论顺从]]的转化阈值（Overtrust to Deference Threshold）** 当过度信任越过临界点，操作者不仅在行为上顺从，更在[[Epistemology|认识论]]上将最终裁决权威让渡给机器，导致理性信念修正机能陷入瘫痪。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 10–12)]]
 > - **批判性校准[[Scaffolding|脚手架]]（Calibration Scaffolding）** 利用反思机器（Reflection Machines）的[[Socrates|苏格拉底]]追问与[[Defeater|反驳型击败者]]（Rebutting Defeaters）的主动介入，为操作者提供重新校准信任的认知支架。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–24)]]
 

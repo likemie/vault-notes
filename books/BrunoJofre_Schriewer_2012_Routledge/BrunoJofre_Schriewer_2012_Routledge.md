@@ -1,6 +1,7 @@
 ---
 citation: "Bruno-Jofré, R., & Schriewer, J. (Eds.). (2012). The global reception of John Dewey's thought: Multiple refractions through time and space. New York and London: Routledge."
-extracted_to: []
+extracted_to:
+  - "[[Argument_BrunoJofre_Schriewer_2012_Routledge]]"
 processed_date: 2026-10-10
 ---
 

@@ -36,6 +36,7 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Rationalized Myth]]"
   - "[[Research Utilization]]"
+  - "[[Research Universities]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Case Study]]"
@@ -54,6 +55,7 @@ related_arguments:
   - "[[Argument_Kelly_2025_ROE]]"
   - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_Reynolds_2024_JICT]]"
+  - "[[Argument_Zhuo_2026_ICE]]"
 related_facts:
   - "[[OECD]]"
   - "[[What Works Network]]"

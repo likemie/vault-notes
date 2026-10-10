@@ -29,7 +29,8 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Case Study]]"
-related_persons: []
+related_persons:
+  - "[[Lee Kuan Yew]]"
 related_facts:
   - "[[Singapore Education Hub Policy]]"
   - "[[UAE Education Hub Projects]]"
@@ -73,7 +74,7 @@ updated: 2026-10-07
 
 通过在本国建立精英教育机构（通常与西方顶尖大学合作），培育本国及**他国**未来的政治、商业和社会精英。这些精英回国后带有在本国接受教育的网络和认知框架，成为本国在区域内的长期影响力渠道。
 
-- **新加坡案例** 哈佛肯尼迪学院与 NUS 合作设立政策项目（1992 年），后发展为李光耀公共政策学院——"教育新加坡及区域的未来公共行政人员"（p.207）。耶鲁-NUS 文理学院（2011 年）则是"区域内首个声誉卓越的文理学院"，旨在培育区域文化精英。项目的范围从企业[[Executive Education|高管培训]]到邻国公共行政人员，意味着"既有收入，更意味着通过高等教育和伙伴关系产生的**影响力**"（p.207）
+- **新加坡案例** 哈佛肯尼迪学院与 NUS 合作设立政策项目（1992 年），后发展为[[Lee Kuan Yew|李光耀]]公共政策学院——"教育新加坡及区域的未来公共行政人员"（p.207）。耶鲁-NUS 文理学院（2011 年）则是"区域内首个声誉卓越的文理学院"，旨在培育区域文化精英。项目的范围从企业[[Executive Education|高管培训]]到邻国公共行政人员，意味着"既有收入，更意味着通过高等教育和伙伴关系产生的**影响力**"（p.207）
 
 ### 声誉关联与形象工程
 
@@ -97,7 +98,7 @@ updated: 2026-10-07
 > [!note]-
 > [[Argument_Erfurth_2022_education-hubs\|Erfurth (2022)]] 的分析揭示，文化外交维度和政治经济维度不是相互独立的，而是在同一枢纽项目中以不同方式组合：
 
-- **新加坡的时间交替模式** 文化外交先行（"[[Singapore Education Hub Policy|东方波士顿]]"、李光耀公共政策学院），政治经济跟进（"全球校园"），但后者市场失败后政策重心回调至监管（pp.207–209）。详见 [[Singapore Education Hub Policy]]
+- **新加坡的时间交替模式** 文化外交先行（"[[Singapore Education Hub Policy|东方波士顿]]"、[[Lee Kuan Yew|李光耀]]公共政策学院），政治经济跟进（"全球校园"），但后者市场失败后政策重心回调至监管（pp.207–209）。详见 [[Singapore Education Hub Policy]]
 - **阿联酋的空间分工模式** 阿布扎比承担文化外交功能（不求经济回报），迪拜承担政治经济功能（追求直接经济回报），两者在同一联邦体系内并行（pp.208–211）。详见 [[UAE Education Hub Projects]]
 
 两种组合模式都指向一个共同特征：文化外交维度由**国家财政**主导、追求**长期无形回报**；政治经济维度依赖**市场机制**、追求**直接经济回报**。两者的运作逻辑内在不同，在某些条件下可能产生摩擦——新加坡 Global Schoolhouse 的市场失败和迪拜 KHDA 的监管转向，均可视为这种摩擦的表现。
@@ -116,7 +117,7 @@ updated: 2026-10-07
 ## 相关案例
 
 > [!example]
-- [[Singapore Education Hub Policy]] — "东方波士顿"战略和李光耀公共政策学院是文化外交的时间先行模式
+- [[Singapore Education Hub Policy]] — "东方波士顿"战略和[[Lee Kuan Yew|李光耀]]公共政策学院是文化外交的时间先行模式
 - [[UAE Education Hub Projects]] — 阿布扎比的 NYUAD、索邦、卢浮宫是文化外交的空间分工模式的代表
 - [[International Education Hubs]] — 文化外交是所有 IEH 项目的共同维度
 - [[John Dewey's 1928 Visit to the Soviet Union]] — 1928 年 [[American Society for Cultural Relations with Russia|ASCRR]] 与 VOKS 通过书籍交换和学者互访推动的美苏教育交流，是高等教育文化外交的早期历史先例

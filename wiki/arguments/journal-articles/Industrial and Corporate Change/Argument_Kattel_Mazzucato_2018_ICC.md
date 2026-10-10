@@ -40,6 +40,7 @@ related_concepts:
   - "[[Agile Governance]]"
   - "[[Embedded Autonomy]]"
   - "[[Picking the Willing]]"
+  - "[[Co-Design]]"
   - "[[Grand Challenges]]"
   - "[[Reflexivity]]"
   - "[[Bureaucracy]]"
@@ -238,7 +239,7 @@ issuing_organization: ""
 #### 2. 第三代儿童形态以多方共创、敏捷实验与跨部门协同应对复杂的社会转型挑战
 
 > [!policy-design] 应对重大社会挑战的组织重构与治理哲学转向
-> 第三代使命政策从封闭单一的工程攻坚，转向以社会响应性、跨学科协同设计与去中心化实验为核心的治理架构，深刻重构了创新政策的组织设计诉求。（pp. 795–796）
+> 第三代使命政策从封闭单一的工程攻坚，转向以社会响应性、跨学科[[Co-Design|协同设计]]与去中心化实验为核心的治理架构，深刻重构了创新政策的组织设计诉求。（pp. 795–796）
 
 > [!contrast-table] 第二代与第三代使命政策核心治理特征深度对照（pp. 795–796）
 > | 治理维度 | 第二代使命政策（狮子：技术大科学） | 第三代使命政策（儿童：社会–技术[[Grand Challenges\|重大挑战]]） |

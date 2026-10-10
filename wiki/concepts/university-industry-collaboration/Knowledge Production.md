@@ -49,6 +49,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Technology Readiness Level]]"
   - "[[Structural Adjustment Programs]]"
+  - "[[Heterogeneous Integration]]"
   - "[[Valley of Death]]"
   - "[[Hypothesis]]"
   - "[[Inquiry-Based Learning]]"
@@ -290,7 +291,7 @@ updated: 2026-10-09
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, p. 544)]] | 世界银行 [[Systems Approach for Better Education Results\|SABER]] 指标库与全球 30 个涉教育国际组织 | 跨国政策工具计量普查与组织资产追踪 | 世界银行 SABER 涵盖 1,600 余项系统性量化指标；内部政策仓库收录 1,120 项教育回报率自指性研究；33.3% 涉教育国际组织属于经济协调类机构 | 证实超国家机构自建排他性知识帝国的巨大规模，将量化政策知识工具化为推行[[Structural Adjustment Programs\|结构调整]]贷款的治理杠杆 |
 > | [[Argument_Fan_2026_BCAS\|樊春良 (2026, pp. 1061–1063)]] | 美国 2025–2026 年科技政策转型（白宫 OSTP 2026 报告、联邦扣留拨款与[[Restoring Gold Standard Science Executive Order\|恢复黄金标准科学行政令]]） | 政策文本分析与国家研发体制个案追踪 | 白宫 OSTP 确立“技术导向型契约”；通过扣留对传统高校基础科研款项、创设“创世计划”绕开高校自由探索，将联邦研发向国防与关键颠覆性技术倾斜 | 实证检验了地缘博弈下国家对高校知识生产自主权的外部行政规约，印证了知识生产由“认知中枢”向“地缘技术能力工具”的体制位移 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 62–70)]] | 2025–2026 年[[Federally Funded Research and Development Centers\|美国国家实验室]]网络、AI 科研基础设施（4000 亿美元私人投资）与素数定理形式化验证案例 | 科技政策文本分析、国家算力平台评估与算法核验追踪 | 创世纪计划统筹 17 所国家实验室算力与仪器网络；素数定理形式化验证由 20 余名数学家 18 个月人工推演压缩至 AI 驱动下 3 周完成 1100 个定理机器核验 | 实证检验了智能时代知识生产从单向论文发表向国家级动态平台与自动化机器核验基础设施转型的必要性与巨大效能 |
-> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026, pp. 20–24)]] | 美国国家半导体创新体系与承接联邦战略任务的研究型大学实践（加州大学伯克利分校、纽约州立大学理工学院 Albany NanoTech、麻省理工学院 MIT.nano、宾夕法尼亚州立大学 [[Joint University Microelectronics Program 2.0\|JUMP 2.0]] CHIMES 联盟） | 政策[[Documentary Analysis\|文献分析]]与嵌入式多案例追踪 | ① RISC-V 开源指令集课程嵌入与标准扩散；② 300 毫米晶圆中试线与共享平台；③ 14 所顶尖高校跨校异构集成攻关联盟 | 加州大学伯克利分校将 RISC-V 深度融入研究生培养，推动开源架构成为全球事实标准；Albany NanoTech 依托 300 毫米产线打通原型到制造的[[Valley of Death\|死亡之谷]]；宾州州立大学牵头 14 校攻坚异构集成 | 揭示战略产业中大学知识生产通过标准内生锁定、中试共置与跨校网络嵌入国家体系的运行机制与安全化治理张力 |
+> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026, pp. 20–24)]] | 美国国家半导体创新体系与承接联邦战略任务的研究型大学实践（加州大学伯克利分校、纽约州立大学理工学院 Albany NanoTech、麻省理工学院 MIT.nano、宾夕法尼亚州立大学 [[Joint University Microelectronics Program 2.0\|JUMP 2.0]] CHIMES 联盟） | 政策[[Documentary Analysis\|文献分析]]与嵌入式多案例追踪 | ① RISC-V 开源指令集课程嵌入与标准扩散；② 300 毫米晶圆中试线与共享平台；③ 14 所顶尖高校跨校[[Heterogeneous Integration\|异构集成]]攻关联盟 | 加州大学伯克利分校将 RISC-V 深度融入研究生培养，推动开源架构成为全球事实标准；Albany NanoTech 依托 300 毫米产线打通原型到制造的[[Valley of Death\|死亡之谷]]；宾州州立大学牵头 14 校攻坚异构集成 | 揭示战略产业中大学知识生产通过标准内生锁定、中试共置与跨校网络嵌入国家体系的运行机制与安全化治理张力 |
 
 ---
 

@@ -39,6 +39,7 @@ related_instruments: []
 related_persons:
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
+  - "[[Thomas D. Seeley]]"
   - "[[Immanuel Kant]]"
   - "[[Joel Samoff]]"
   - "[[Martin Carnoy]]"
@@ -74,7 +75,7 @@ updated: 2026-09-28
 
 > [!timeline] 生平与职涯
 > - **1936** 出生于巴西米纳斯吉拉斯州贝洛奥里藏特。
-> - **1961–1964** 在米纳斯吉拉斯联邦大学与巴西利亚大学研习政治学与社会学，积极参与左翼学生运动与马克思主义理论研讨小组。
+> - **1961–1964** 在米纳斯吉拉斯联邦大学与巴[[Thomas D. Seeley|西利]]亚大学研习政治学与社会学，积极参与左翼学生运动与马克思主义理论研讨小组。
 > - **1964** 巴西爆发军事政变后流亡智利，任教于智利大学当代社会经济研究中心（CESO），与鲁伊·毛罗·马里尼（Ruy Mauro Marini）等人共同开创拉美马克思主义依附学派。
 > - **1970** 出版奠基性论文《依附的结构》（*The Structure of Dependence*），在《美国经济评论》发表并引发全球学界对新[[Dependency Theory|依附论]]的轰动性讨论。
 > - **1973** 智利皮诺切特政变后再度流亡墨西哥，进入墨西哥国立自治大学（UNAM）经济学院任教，深化世界体系与跨国公司研究。

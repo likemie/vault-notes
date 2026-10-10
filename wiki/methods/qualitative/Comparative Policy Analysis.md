@@ -8,7 +8,7 @@ summary: "公共政策与比较政治经济学中系统比较不同国家、地�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 26
+method_related_count: 27
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"

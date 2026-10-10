@@ -32,6 +32,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Discourse]]"
   - "[[Scientific Method]]"
+  - "[[Knowledge Questions]]"
   - "[[Lifelong Learning]]"
   - "[[Technical Rationality]]"
   - "[[Knowledge Framework]]"
@@ -42,6 +43,7 @@ related_concepts:
 related_theories:
   - "[[Governmentality]]"
   - "[[Post-structuralism]]"
+  - "[[Educational Governance Framework]]"
   - "[[World Society Theory]]"
   - "[[Conditioned State Theory]]"
 related_methods:
@@ -57,6 +59,7 @@ related_facts:
   - "[[American Educational Research Association]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
+  - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
 confidence: high
 status: draft
 created: 2026-09-28
@@ -105,8 +108,8 @@ updated: 2026-10-09
 >   - **关键概念／理论** 社会规训（Social Regulation）、跨国教师教育治理、专业化话语。
 >   - **阶段转向** 突破传统国家中心论视角，实证证明[[OECD|经合组织]]（[[OECD]]）与欧盟等跨国多边组织正通过推行统一的教师胜任力模型与专业标准，自上而下重塑民族国家教师的职业认同与社会调控机制。
 > - **2000s–至今 — 社会[[Epistemology|认识论]]与[[Cosmopolitanism|世界主义]]排斥逻辑** 此阶段建构起深邃的历史认识论与世界主义批判。
->   - **代表著作** *Educational Governance and Social Inclusion and Exclusion* (2000, with S. Lindblad); *Cosmopolitanism and the Age of School Reform* (2008)。
->   - **关键概念／理论** 社会认识论、理性系统（Systems of Reason）、双重姿态（Double Gesture of Inclusion/Exclusion）、教育治理双重问题式（知识问题式与公平-参与问题式）。
+>   - **代表著作** *[[Educational Governance Framework|Educational Governance]] and Social Inclusion and Exclusion* (2000, with S. Lindblad); *Cosmopolitanism and the Age of School Reform* (2008)。
+>   - **关键概念／理论** 社会认识论、理性系统（Systems of Reason）、双重姿态（Double Gesture of Inclusion/Exclusion）、教育治理双重问题式（[[Knowledge Questions|知识问题]]式与公平-参与问题式）。
 >   - **阶段转向** 揭露现代学校教育口头上倡导普惠全纳与“世界主义[[Lifelong Learning|终身学习]]者”，但在实际认识论分类系统中，却通过将达不到标准的孩子定义为“有风险的”、“落后的”，制造了精巧的二次排斥与边缘化。该框架关于知识资格系统与结构性参与的区分，被后续学者深度整合进学校空间治理与流动人口排斥分析中。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 367–368)]]
 
 ---

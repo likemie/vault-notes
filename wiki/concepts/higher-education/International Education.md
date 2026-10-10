@@ -5,7 +5,7 @@ aliases:
 summary: "跨越单一国家教育边界组织人员、共同生活、课程、评价与资格承认的教育实践和制度；既包含国际理解的教育计划，也包含全球化推动的流动、比较和市场扩张。"
 type: concept
 domain: "higher-education"
-related_count: 56
+related_count: 58
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -14,6 +14,7 @@ tags:
 - level/k12
 - level/higher-ed
 related_concepts:
+  - "[[Teacher Mobility]]"
   - "[[International Schools]]"
   - "[[International Baccalaureate]]"
   - "[[Internationalization of Higher Education]]"
@@ -28,6 +29,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Educational Multilateralism]]"
   - "[[Structural Adjustment Programs]]"
+  - "[[Student Mobility]]"
   - "[[Knowledge Production]]"
   - "[[Open-Mindedness]]"
   - "[[Hypothesis]]"
@@ -78,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-16'
-updated: 2026-10-07
+updated: 2026-10-10
 ---
 
 # International Education
@@ -90,7 +92,7 @@ updated: 2026-10-07
 概念首先需要区分其教育目的与能够由课程制度直接规定的条件。
 
 > [!def] 核心定义
-> 国际教育（international education）是跨越单一国家教育边界组织人员、共同生活、课程、教学、评价和资格承认的教育实践与制度。它既指以跨文化理解、共同责任和多种思维方式为目的的教育计划，也指全球化条件下学生与教师流动、课程跨境采用、[[International Schools|国际学校]]、海外分校、跨国评价和教育市场形成的制度现象。前者强调教育要改变怎样的人与关系，后者强调教育活动如何越过国家管辖、进入全球网络。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, pp. 1–13)]] [[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 15–31)]] [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 1–5, 19–31)]]
+> 国际教育（international education）是跨越单一国家教育边界组织人员、共同生活、课程、教学、评价和资格承认的教育实践与制度。它既指以跨文化理解、共同责任和多种思维方式为目的的教育计划，也指全球化条件下学生与[[Teacher Mobility|教师流动]]、课程跨境采用、[[International Schools|国际学校]]、海外分校、跨国评价和教育市场形成的制度现象。前者强调教育要改变怎样的人与关系，后者强调教育活动如何越过国家管辖、进入全球网络。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, pp. 1–13)]] [[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 15–31)]] [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 1–5, 19–31)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 国家边界不再独占学生归属、课程内容、评价标准和资格效力；人与制度可在多个教育系统之间流动和组合。
@@ -327,7 +329,7 @@ updated: 2026-10-07
 >
 > - **大众流动、[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]] 贸易规制与全球比较扩张（1990 年代至 2000 年代初）**
 >
->   国际学生流动与海外分校急剧增长；1995 年世贸组织成立并实施服务贸易总协定（GATS），国际教育正式确立为跨国服务贸易门类，推动资格互认与边境壁垒清除；2000 年 [[PISA]] 建立跨国学生评价，2003 年[[Academic Ranking of World Universities|世界大学学术排名]]（[[Academic Ranking of World Universities|Academic Ranking of World Universities]]，ARWU） 等大学排名系统将大学置入共同测量序列。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 1–18, 22–28)]]; [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 110–111)]]
+>   国际[[Student Mobility|学生流动]]与海外分校急剧增长；1995 年世贸组织成立并实施服务贸易总协定（GATS），国际教育正式确立为跨国服务贸易门类，推动资格互认与边境壁垒清除；2000 年 [[PISA]] 建立跨国学生评价，2003 年[[Academic Ranking of World Universities|世界大学学术排名]]（[[Academic Ranking of World Universities|Academic Ranking of World Universities]]，ARWU） 等大学排名系统将大学置入共同测量序列。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 1–18, 22–28)]]; [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 110–111)]]
 >
 > - **[[Hegemony|文化霸权]]、再生产批判与主权解放反思（21 世纪初至今）**
 >
@@ -348,7 +350,7 @@ updated: 2026-10-07
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p. 24)]] | 国际学校，1960 与 2005 | 创始国学生比例 | 约 70% 降至约 30%，显示生源从母国侨民转向更广泛、尤其是本地家庭 | 去国家化描述生源变化，不证明课程和教学已经文化中立 |
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p. 28)]] | 全球 [[International Baccalaureate\|IB]]，2008–2009 | 学生、学校与国家 | 2009 年 709,000 名学生、2,609 所学校、135 国；一年前为 596,000 名、2,218 所、125 国 | 规模不能单独说明教育质量或跨文化效果 |
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 1–2)]] | 全球高等教育流动 | 跨境学生 | 2006 年出国大学生超过 270 万；计入短期交流、海外实习和教师交换后，参与者超过 600 万 | 参与国际教育涵盖项目差异很大的活动 |
-> | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 17–18)]] | 中国学生流动，1978–2007 | 出境与入境人数 | 1978–2003 年 580,000 名中国本科生和研究生赴美；赴华外国学生由 61,869（2001）增至 110,844（2004）和 140,000 以上（2005） | 中国出境数据在媒体与[[Education International\|国际教育协会]]（Institute of International Education，IIE）之间差异显著 |
+> | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 17–18)]] | 中国[[Student Mobility\|学生流动]]，1978–2007 | 出境与入境人数 | 1978–2003 年 580,000 名中国本科生和研究生赴美；赴华外国学生由 61,869（2001）增至 110,844（2004）和 140,000 以上（2005） | 中国出境数据在媒体与[[Education International\|国际教育协会]]（Institute of International Education，IIE）之间差异显著 |
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p. 2)]] | 美国新入学国际学生，2008 | 来源地区 | 南亚、东亚（含中国）及印度次大陆学生占 61% | 区域聚合不能代表内部学习者具有同质文化 |
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p. 26)]] | 香港国际学校 | 学费 | 年费约 10,000–20,000 美元 | 价格显示市场与阶层门槛，不代表全球国际学校共同水平 |
 > | [[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, pp. 67–71)]] | IB 六年试验，1970–1975 | 考试与承认规模 | 完整文凭考生由 29 人增至 377 人；截至 1973 年底，20 国给予一般承认，学生进入 25 国 175 所大学 | 样本非随机，承认用途和部分承认范围未在总数中分开 |

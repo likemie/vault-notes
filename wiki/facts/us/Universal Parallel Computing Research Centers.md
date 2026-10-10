@@ -24,6 +24,7 @@ tags:
   - "theme/semiconductor"
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Co-Design]]"
   - "[[Reliability]]"
   - "[[Precompetitive Research]]"
   - "[[Academic Engagement Team]]"
@@ -78,7 +79,7 @@ updated: 2026-10-06
 > [!policy-design]- 方案设计与站点分工
 > - **双中心差异化分工** 为避免重复投入并覆盖并发计算全链条，项目在两所大学进行了明确的战略定位切割：
 >   - **加州大学伯克利分校（UC Berkeley UPCRC）** 聚焦消费级/桌面与互联网并发应用程序、并行算法、可复用设计模式（Design Patterns）以及普通终端用户的并行交互体验，着力解决普通软件工程师难以驾驭并发代码的痛点。(Green, 2008，转引自 [[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, p. 234]])
->   - **伊利诺伊大学厄巴纳-香槟分校（UIUC UPCRC）** 聚焦系统级基础软件、并发编译器优化、计算机体系结构协同设计以及高[[Reliability|可靠性]]并发运行环境，重点攻关硬件多核与底层操作系统之间的桥接瓶颈。
+>   - **伊利诺伊大学厄巴纳-香槟分校（UIUC UPCRC）** 聚焦系统级基础软件、并发编译器优化、计算机体系结构[[Co-Design|协同设计]]以及高[[Reliability|可靠性]]并发运行环境，重点攻关硬件多核与底层操作系统之间的桥接瓶颈。
 > - **前竞争知识产权与开源共享** 赞助企业与校方达成前竞争（[[Precompetitive Research|precompetitive]]）共识协议，所有研究产出的基础编程模型、算法库、教学大纲与实验原型完全向学术界和产业界开源共享，不设置排他性专利技术壁垒，以最快速度促进全球软件生态普及。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 234–235)]]
 > - **产学人员双向嵌合机制** 企业指派资深首席科学家常驻大学，定期举办跨校联合研讨会与代码审查，使工业界最真实的硬件架构约束直接传递至大学基础研究一线。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]
 

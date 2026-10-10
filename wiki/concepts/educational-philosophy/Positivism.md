@@ -148,7 +148,6 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15]]"
   - "[[Argument_Brady_2023_EPR]]"
-  - "[[Argument_Cowen_2009_CE]]"
   - "[[Argument_Sandoval_2005_SE]]"
 confidence: high
 status: completed

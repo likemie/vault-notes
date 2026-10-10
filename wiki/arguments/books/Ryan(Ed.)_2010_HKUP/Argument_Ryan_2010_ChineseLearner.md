@@ -9,9 +9,9 @@ title: "Argument_Ryan_2010_ChineseLearner"
 argument_key: "Argument_Ryan_2010_ChineseLearner"
 argument_display_title: "The Chinese Learner: Misconceptions and Realities"
 argument_kind: "book"
-argument_related_count: 27
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: International Education and the Chinese Learner
 citation: "Ryan, J. (2010). The Chinese Learner: Misconceptions and Realities. In J. Ryan & G. Slethaug (Eds.), International Education and the Chinese Learner (pp. 37–56). Hong Kong: Hong Kong University Press."
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Document]]"
   - "[[Reflexivity]]"
+  - "[[Teacher Mobility]]"
   - "[[Critical Thinking]]"
   - "[[International Education]]"
   - "[[Refined Mastery]]"
@@ -48,10 +49,12 @@ related_theories:
   - "[[Orientalism]]"
   - "[[Hofstede's Cultural Dimensions]]"
   - "[[Neo-Confucianism]]"
+  - "[[Clash of Civilizations]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
 related_persons:
+  - "[[Lee Kuan Yew]]"
   - "[[Confucius]]"
 related_facts:
   - "[[China Basic Education Curriculum Reform]]"
@@ -61,7 +64,7 @@ sources:
 part_of: '[[Argument_Ryan_2010_HKUP]]'
 status: draft
 created: '2026-05-17'
-updated: 2026-08-20
+updated: 2026-10-10
 year: 2010
 doi: ""
 citation_aliases:
@@ -100,7 +103,7 @@ citation_aliases:
 ### 第 0 步：问题的提出——我们到底在说什么？
 
 > [!note]-
-> **逻辑起点：** 论文开头描绘了一个看似矛盾的现象——一方面，中西之间的学生与教师流动（"全球文化流动"，Appadurai, 1996）空前密集；另一方面，西方对[[Chinese Learner\|中国学习者]]的认知仍基于过时的刻板印象(p.37)。这引出一个前提性问题：连"中国学习者"指谁都没搞清楚，讨论他们的特征有什么意义？
+> **逻辑起点：** 论文开头描绘了一个看似矛盾的现象——一方面，中西之间的学生与[[Teacher Mobility|教师流动]]（"全球文化流动"，Appadurai, 1996）空前密集；另一方面，西方对[[Chinese Learner\|中国学习者]]的认知仍基于过时的刻板印象(p.37)。这引出一个前提性问题：连"中国学习者"指谁都没搞清楚，讨论他们的特征有什么意义？
 
 **例：** 澳大利亚大学里 24% 的学生是国际学生，主要来自中国及其他 [[Confucian Heritage Cultures|CHC]] 国家——CHC 即 Confucian Heritage Culture（儒家文化圈），在[[Document|文献]]中通常指中国（含香港）、台湾、新加坡、日本、韩国等受儒学历史影响的东亚社会(p.38–39)。老师们每天面对这些学生，但他们依赖的"[[Chinese Learner|中国学习者]]指南"往往还是 1990 年代的刻板描述。就像用 1990 年的手机说明书来操作今天的智能手机——工具和对象已经变了，说明书却原地踏步。
 
@@ -226,7 +229,7 @@ Kumaravadivelu（2003, p.716）从教师心理学角度提出了一个诚实的�
 
 > 儒学在数百年间被不断重新解读以服务于各种政治、经济和社会议程(Bell, 2008; Jensen, 1997; Louie, 2005)。Louie（2005, p.7）指出，20 世纪对儒学——特别是儒家教育——的解读"经历了转变，有时使得任何公认的诠释变得毫无意义"。
 
-**例：** 新加坡前总理李光耀可以称新加坡为"儒家社会"，但新加坡的许多实际价值"与[[Confucius|孔子]]能够辨认的内容相去甚远"(Watkins & Biggs, 2001, p.4, 转, p.46)。当"儒家"这个标签可以用来包装截然不同的政治体制和社会实践时，它作为解释工具的价值就已接近为零。
+**例：** 新加坡前总理[[Lee Kuan Yew|李光耀]]可以称新加坡为"儒家社会"，但新加坡的许多实际价值"与[[Confucius|孔子]]能够辨认的内容相去甚远"(Watkins & Biggs, 2001, p.4, 转, p.46)。当"儒家"这个标签可以用来包装截然不同的政治体制和社会实践时，它作为解释工具的价值就已接近为零。
 
 #### 4b. "儒家价值"只是保守思想的拼贴
 
@@ -321,7 +324,7 @@ Ryan (pp.52–53)以自身经历为证：她自己是在中国做了两年国际
 
 #### 7c. 从文明冲突到文明对话
 
-Ryan (p.57)以 Hayhoe & Pan（2001, p.21）的"真正的对话——在愿意倾听者之间"（true dialogue among ready listeners）来对抗"文明冲突"（clash of civilizations）话语。论文最后一句引用了北京师范大学 Kang Changyun 教授的话：
+Ryan (p.57)以 Hayhoe & Pan（2001, p.21）的"真正的对话——在愿意倾听者之间"（true dialogue among ready listeners）来对抗"文明冲突"（[[Clash of Civilizations]]）话语。论文最后一句引用了北京师范大学 Kang Changyun 教授的话：
 
 > **"良好的教学与学习，是人类的共同财富。"（转, p.57）**
 

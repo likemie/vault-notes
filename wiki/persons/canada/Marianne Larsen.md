@@ -29,6 +29,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Champ]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Student Mobility]]"
   - "[[Space Production]]"
   - "[[Discourse]]"
   - "[[Policy Borrowing]]"
@@ -94,7 +95,7 @@ updated: 2026-10-07
 >   - **代表著作** *The Making and Shaping of the Victorian Teacher: A Comparative New Cultural History* (2010)。
 >   - **关键概念／方法** 新文化史、规训权力、主体化机制。
 >   - **阶段转向** 展现了后结构主义比较史学在具体微观教育主题上的强大解释力。
-> - **2014–至今 — 空间转向与全球教育正义** 融合地理学与社会学空间理论，考察全球化背景下国际志愿支教、学生流动与跨国公民认同的[[Space Production|空间生产]]逻辑。
+> - **2014–至今 — 空间转向与全球教育正义** 融合地理学与社会学空间理论，考察全球化背景下国际志愿支教、[[Student Mobility|学生流动]]与跨国公民认同的[[Space Production|空间生产]]逻辑。
 >   - **代表著作** *Spatializing International and Comparative Education* (2014); *International Service Learning: Engaging Host Communities* (2015)。
 >   - **关键概念／方法** 空间转向（Spatial Turn）、[[Global Citizenship|全球公民教育]]、跨文化同理心。
 >   - **阶段转向** 从历史时间轴的纵向批判延伸至全球空间轴的横向正义构建。

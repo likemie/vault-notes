@@ -8,7 +8,7 @@ aliases:
 summary: "比较教育与教育政策中指向学生跨校、跨区或跨国空间位移的核心构念；在欧美政策话语中呈现两极对立的治理逻辑，既被欧洲一体化塑造成培育公民认同与灵活就业能力的积极制度资产，又在美国绩效问责制下被问题化为表征贫困、学业阻滞与学校失范的流动漂泊（transiency）。"
 type: concept
 domain: "comparative-education"
-related_count: 27
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Intercultural Education]]"
   - "[[Bildung]]"
+  - "[[Teacher Mobility]]"
   - "[[Attrition]]"
 related_theories:
   - "[[Spatial Governmentality]]"
@@ -198,7 +199,7 @@ updated: 2026-10-10
 > [!critique] 对底层学生流动“家庭病态化”[[Hypothesis|假设]]的学术反思
 > - **忽视居住变迁的结构动因** 官方政策倾向于将中小学中途转校直接等同于家庭管理失灵，完全忽视了约 60% 的转学是由房租到期、城市拆迁或家长工作调动等客观居住变迁所引发（Rumberger, 2003）。（p. 363）
 > - **遮蔽底层主体的避险能动性** 将流动学童视作被动受害者或问题制造者，遮蔽了许多贫困家庭中途转校是为逃离原校校园暴力与恶劣校风而做出的理性自卫选择（Kerbow et al., 2003）。
-> - **高等教育与教师流动的反差双标** 高等教育中的学生转学被指责为拉低毕业率的多机构就读（Pusser & Turner, 2004），而教师流动则呈现鲜明分化：欧洲将教师跨国任教视为一体化理想，美国却将其视为优秀教师逃离薄弱学校的[[Attrition|流失]]危机（Elfers et al., 2006）。（pp. 363–364）
+> - **高等教育与[[Teacher Mobility|教师流动]]的反差双标** 高等教育中的学生转学被指责为拉低毕业率的多机构就读（Pusser & Turner, 2004），而[[Teacher Mobility|教师流动]]则呈现鲜明分化：欧洲将教师跨国任教视为一体化理想，美国却将其视为优秀教师逃离薄弱学校的[[Attrition|流失]]危机（Elfers et al., 2006）。（pp. 363–364）
 
 ---
 

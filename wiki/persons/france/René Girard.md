@@ -23,6 +23,7 @@ tags:
   - theme/conformity
   - theme/engineering-mindset
 related_concepts:
+  - "[[Scapegoat Mechanism]]"
   - "[[Creativity]]"
   - "[[Document]]"
   - "[[Enlightenment]]"
@@ -56,7 +57,7 @@ updated: 2026-10-08
 
 > [!person-profile] 人物档案
 > - **身份位置** 法国哲学家、人类学家、文化理论家，法兰西学术院院士，曾长期任教于约翰斯·霍普金斯大学与斯坦福大学。
-> - **核心角色** 在欲望发生学、文化人类学与暴力理论中建立独创学派；提出人类欲望的非自主性与三角模仿结构，揭示了同侪竞争、从众跟风与替罪羊机制的深层心理机制。
+> - **核心角色** 在欲望发生学、文化人类学与暴力理论中建立独创学派；提出人类欲望的非自主性与三角模仿结构，揭示了同侪竞争、从众跟风与[[Scapegoat Mechanism|替罪羊机制]]的深层心理机制。
 > - **代表贡献** 创立[[Mimetic Theory|模仿理论]]（Mimetic Theory）与替罪羊机制；其理论深刻影响了硅谷创业与技术哲学界对抵御同质化跟风与保护颠覆性[[Creativity|创造力]]的反思（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025, pp. 157–158]]）。
 
 > [!citation-card] 吉拉尔论模仿欲望的锁链反应
@@ -77,7 +78,7 @@ updated: 2026-10-08
 > - **1923** 出生于法国阿维尼翁。
 > - **1947** 毕业于巴黎[[Document|文献]]学院（École Nationale des Chartes），同年赴美深造，在印第安纳大学获得历史学博士学位。
 > - **1961** 出版代表作《浪漫的谎言与小说的真实》（*Deceit, Desire and the Novel*），首次系统提出欲望的三角模仿模型。
-> - **1972** 出版《暴力与神圣》（*Violence and the Sacred*），将模仿欲望扩展为人类文明起源与替罪羊机制的宏大人类学假说。
+> - **1972** 出版《暴力与神圣》（*Violence and the Sacred*），将模仿欲望扩展为人类文明起源与[[Scapegoat Mechanism|替罪羊机制]]的宏大人类学假说。
 > - **1981–1995** 任教于斯坦福大学，其关于模仿竞争与垄断创新的讲座深刻影响了硅谷早期学者与创业家。
 > - **1983** 在跨学科访谈中系统阐述灵长类动物行为学中的模仿选择实验。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 158)]]
 > - **2005** 当选法兰西学术院院士。
@@ -92,7 +93,7 @@ updated: 2026-10-08
 >   - **代表著作** 《浪漫的谎言与小说的真实》（*Deceit, Desire and the Novel*, 1961）。
 >   - **关键概念** 三角欲望（Triangular Desire）、中介者（Mediator）、形而上欲望。
 >   - **阶段转向** 批判[[Enlightenment|启蒙运动]]以来的自主个体神话，揭示欲望的借用与模仿本质。
-> - **1972 — 模仿危机与人类学替罪羊机制** 从文学批评走向宗教人类学与社会起源论。
+> - **1972 — 模仿危机与人类学[[Scapegoat Mechanism|替罪羊机制]]** 从文学批评走向宗教人类学与社会起源论。
 >   - **代表著作** 《暴力与神圣》（*Violence and the Sacred*, 1972）。
 >   - **关键概念** 模仿危机（Mimetic Crisis）、双重束缚、替罪羊机制（Scapegoating）。
 >   - **阶段转向** 将微观心理学欲望模型扩展为宏大社会暴力发生学与秩序重建理论。
@@ -110,7 +111,7 @@ updated: 2026-10-08
 
 > [!feature] 思想支柱
 > - **三角欲望结构（Triangular Desire）** 揭示欲望的三个支点：主体（Subject）、中介者/榜样（Mediator）与客体（Object）。客体本身通常不具备决定性物理差异，是中介者的选择赋予了其排他性吸引力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 158)]]
-> - **模仿竞争与替罪羊机制（Mimetic Rivalry & Scapegoating）** 当群体相互模仿并争夺同一指标或赛道时，差异被抹平引发无差别冲突；群体往往通过集体迫害孤立的异端（替罪羊）暂时恢复虚假团结。
+> - **模仿竞争与[[Scapegoat Mechanism|替罪羊机制]]（Mimetic Rivalry & Scapegoating）** 当群体相互模仿并争夺同一指标或赛道时，差异被抹平引发无差别冲突；群体往往通过集体迫害孤立的异端（替罪羊）暂时恢复虚假团结。
 > - **模仿的创造毒性与从无到有的突破** 模仿虽是学习的起点，但若停滞于此便会沦为创新的毒药；真正的重大创造必须克服同侪模仿的引力，在抵抗性共事中实现从无到有的决裂。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 158)]]
 
 ---

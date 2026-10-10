@@ -20,6 +20,7 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Unit of Analysis]]"
   - "[[Methodological Globalism]]"
+  - "[[Student Mobility]]"
   - "[[Relational Space]]"
   - "[[Ontology]]"
   - "[[Space-Making]]"
@@ -68,7 +69,7 @@ updated: 2026-10-06
 > - **尺度的共存性** — 多重尺度同时运作。一位科学家同时在国家尺度（申请国家基金）和全球尺度（在国际期刊发表）中活动，其行为由两套规范共同塑造，不可还原为单一尺度的逻辑
 > - **高等教育的七层活跃尺度**
 >   1. **世界尺度（world scale）**— 含自然环境、气候、生态系统
->   2. **全球尺度（global scale）**— 人类社会世界层面：全球科学、全球排名市场、跨境学生流动
+>   2. **全球尺度（global scale）**— 人类社会世界层面：全球科学、全球排名市场、跨境[[Student Mobility|学生流动]]
 >   3. **泛国家区域尺度（pan-national regional scale）**— 欧盟（EHEA）、东盟（ASEAN）等区域教育治理
 >   4. **国家尺度（national scale）**— 法律、国家政策、拨款机制、国家高教系统
 >   5. **次国家区域尺度（sub-national regional scale）**— 城市、省份的教育集群

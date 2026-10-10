@@ -12,7 +12,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
 - region/australia
 related_concepts:
   - "[[International Education]]"
+  - "[[Teacher Mobility]]"
   - "[[Competitiveness]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Internationalization of Higher Education]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: 2026-10-07
+updated: 2026-10-10
 ---
 
 # Australia in the Asian Century White Paper
@@ -68,7 +69,7 @@ updated: 2026-10-07
 > 白皮书推动了澳大利亚在高等教育和研究领域与亚洲的系统性对接([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.99–100]])：
 > - **AISRF**（澳印战略研究基金）— 旨在维持和加强与印度的研究关系
 > - **ACSRF**（澳中科学与研究基金）— 旨在与"高绩效国家"合作，"增强我们的表现"，与具有"互补研究优先事项和挑战"的亚洲国家合作（Barlow, 2014, p.13, cited in）
-> - 更广泛的《[[International Education\|国际教育]]国家战略 2025》延续了白皮书的方向，旨在"加强国内外伙伴关系、提升学生和教师流动性、通过促进卓越来使澳大利亚教育机构参与全球竞争"
+> - 更广泛的《[[International Education\|国际教育]]国家战略 2025》延续了白皮书的方向，旨在"加强国内外伙伴关系、提升学生和[[Teacher Mobility|教师流动]]性、通过促进卓越来使澳大利亚教育机构参与全球竞争"
 
 ## 效果与评价
 

@@ -56,6 +56,7 @@ related_persons:
   - "[[Jianwei Zhang]]"
   - "[[Anthony Giddens]]"
   - "[[Marc-Antoine Jullien]]"
+  - "[[Thomas D. Seeley]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -392,7 +393,7 @@ issuing_organization: ""
 > *As a hallmark of authentic science practices, students need to enact epistemic agency to shape/reshape the key aspects of their inquiry work as a collaborative community. This study elaborates an emergent temporal mechanism for engaging students' epistemic agency: 'reflective structuration' by which members of a classroom community coconstruct ever-evolving inquiry directions and group structures as their collective inquiry work proceeds.*
 
 > [!citation-card] [[Creativity|创造性]]知识工作的激流皮划艇隐喻
-> 知识创造团队应对的是[[Creativity|创造性]]过程中突现、不确定与不断展开的本质，鼓励所有参与者提出多元观点并展现领导力，借助灵活的观点互动与[[Opportunistic Collaboration|自组织协作]]进行探究。安·M·彭德尔顿-[[Marc-Antoine Jullien|朱利安]]（Ann M. Pendleton-Jullian）与约翰·西利·布朗（John Seely Brown）使用白水皮划艇漂流的隐喻来描述互联世界中的创造性知识工作：[[Knowledge Building Theory|知识建构]]者如同皮划艇团队，绝非沿着一条固定航线死板向前推进，而是需要持续研读不断演化的情境并调整自身重心，以参与并塑造周围流淌的知识洪流。（p.891）
+> 知识创造团队应对的是[[Creativity|创造性]]过程中突现、不确定与不断展开的本质，鼓励所有参与者提出多元观点并展现领导力，借助灵活的观点互动与[[Opportunistic Collaboration|自组织协作]]进行探究。安·M·彭德尔顿-[[Marc-Antoine Jullien|朱利安]]（Ann M. Pendleton-Jullian）与约翰·[[Thomas D. Seeley|西利]]·布朗（John Seely Brown）使用白水皮划艇漂流的隐喻来描述互联世界中的创造性知识工作：[[Knowledge Building Theory|知识建构]]者如同皮划艇团队，绝非沿着一条固定航线死板向前推进，而是需要持续研读不断演化的情境并调整自身重心，以参与并塑造周围流淌的知识洪流。（p.891）
 >
 > *Knowledge creation teams work with the emergent, uncertain, and ever-unfolding nature of creative processes, encourage diverse ideas and leadership among all participants and leverage flexible idea interaction and self-organized collaboration. Pendleton-Jullian and Brown use the metaphor of white-water kayaking to describe creative knowledge work: Instead of pushing forward along a fixed path, knowledge builders, like kayaking teams, need to constantly read the evolving context and reposition their center of gravity to participate in and shape the [[Flow]] of knowledge around them.*
 

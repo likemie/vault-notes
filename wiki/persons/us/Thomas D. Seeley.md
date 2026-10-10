@@ -21,13 +21,21 @@ tags:
   - theme/swarm-intelligence
   - theme/collective-decision-making
   - region/us
-related_concepts: []
+related_concepts:
+  - "[[Wisdom of Crowds]]"
+  - "[[Swarm Intelligence]]"
+  - "[[Edge Autonomy]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_persons:
+  - "[[Karl von Frisch]]"
+  - "[[Martin Lindauer]]"
+related_facts:
+  - "[[Chinese Academy of Sciences]]"
+  - "[[Eck Swarm Experiment]]"
+related_arguments:
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10]]"
 confidence: high
 status: draft
 created: 2026-10-08
@@ -41,8 +49,8 @@ updated: 2026-10-08
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国生物学家、行为生态学家与社会生物学家；康奈尔大学神经生物学与行为学系名誉教授，美国文理科学院院士，曾获德国亚历山大·冯·洪堡高级研究奖。
-> - **核心角色** 当代蜜蜂群体智慧与集体决策研究的最核心领军人物；系统总结与传承了德国行为生物学派（[[Karl von Frisch|卡尔·冯·弗里施]]与[[Martin Lindauer|马丁·林道尔]]）的学术遗产，通过数十年定量实验将蜂群无中心民主投票机制提升为跨学科自组织决策经典理论。
+> - **身份位置** 美国生物学家、行为生态学家与社会生物学家；康奈尔大学神经生物学与行为学系名誉教授，美国文理[[Chinese Academy of Sciences|科学院]]院士，曾获德国亚历山大·冯·洪堡高级研究奖。
+> - **核心角色** 当代蜜蜂[[Wisdom of Crowds|群体智慧]]与集体决策研究的最核心领军人物；系统总结与传承了德国行为生物学派（[[Karl von Frisch|卡尔·冯·弗里施]]与[[Martin Lindauer|马丁·林道尔]]）的学术遗产，通过数十年定量实验将蜂群无中心民主投票机制提升为跨学科自组织决策经典理论。
 > - **代表贡献** 出版奠基性学术专著《蜜蜂的民主》（*Honeybee Democracy*），详尽考证与重现了[[Martin Lindauer|马丁·林道尔]]在 1951 年实施的[[Eck Swarm Experiment|埃克蜂群实验]]（[[Eck Swarm Experiment]]），系统阐释了[[Swarm Intelligence|群智能]]（[[Swarm Intelligence]]）与[[Edge Autonomy|边缘自治]]（[[Edge Autonomy]]）在生物与人类组织中的应用。
 
 > [!citation-card] 西利论林道尔与战后科学精神
@@ -58,7 +66,7 @@ updated: 2026-10-08
 > - **1952** 出生于美国宾夕法尼亚州，自幼在乡村农场观察自然生态。
 > - **1974–1978** 毕业于达特茅斯学院，随后在哈佛大学师从著名社会生物学家爱德华·O. 威尔逊（Edward O. Wilson）与伯特·霍尔多布勒（Bert Hölldobler），获得生物学博士学位。
 > - **1980–1986** 在耶鲁大学任教，随后转入康奈尔大学长期执教并建立全球领先的蜜蜂行为学实验室。
-> - **2002–2010** 与德国同行合作撰写林道尔学术传记，并在普林斯顿大学出版社出版代表作《蜜蜂的民主》，通过高帧率红外摄像与标记实验全面证实了蜂群协商的数理模型。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–116)]]
+> - **2002–2010** 与德国同行合作撰写[[Martin Lindauer|林道尔]]学术传记，并在普林斯顿大学出版社出版代表作《蜜蜂的民主》，通过高帧率红外摄像与标记实验全面证实了蜂群协商的数理模型。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–116)]]
 
 ---
 

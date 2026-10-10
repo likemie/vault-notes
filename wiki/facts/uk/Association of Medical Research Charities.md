@@ -24,6 +24,7 @@ related_concepts:
   - "[[Patient and Public Involvement]]"
   - "[[Paradigm]]"
   - "[[Clinical Trial]]"
+  - "[[Co-Design]]"
   - "[[Public Engagement with Science]]"
 related_theories: []
 related_methods: []
@@ -59,7 +60,7 @@ updated: 2026-09-04
 
 > [!finding-cards] 机构引领的核心治理与参与[[Paradigm\|范式]]
 > - **扎根患者真实生活体验（Lived Experience）** 成员机构积极联结特定病患群体与照护者社群，从科研立项源头精准捕捉患者日常生活痛点，使科研优先级设定（Priority Setting）摆脱单纯的学术兴趣导向，紧扣未被满足的临床照护刚需。
-> - **全生命周期的以患者为中心（Patient Centricity）** 推动从药物靶点发现、[[Clinical Trial\|临床试验]]方案协同设计、受试者伦理审议，到试验终点指标评估的全流程患者发声，有效提高临床试验的依从性与新药可及性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, pp. 71, 74)]]
+> - **全生命周期的以患者为中心（Patient Centricity）** 推动从药物靶点发现、[[Clinical Trial\|临床试验]]方案[[Co-Design|协同设计]]、受试者伦理审议，到试验终点指标评估的全流程患者发声，有效提高临床试验的依从性与新药可及性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, pp. 71, 74)]]
 > - **公众筹资驱动与透明信任纽带** 慈善机构的科研经费几乎完全来源于普通公众的自发捐赠、遗产赠予与志愿筹款；这种独特的经济命脉决定了其对科研伦理、资金使用效益和进展透明度具备最高的民意敏感性与问责机制。
 
 ---

@@ -55,6 +55,7 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
+  - "[[Whole Earth Catalog]]"
   - "[[Grammar School]]"
   - "[[Ofsted]]"
   - "[[Sutton Trust]]"
@@ -190,7 +191,7 @@ issuing_organization: ""
 
 作为评估发布者的 OECD 在设计传播物料时，本身就表现出迎合新闻媒体的传播倾向。
 
-> [!tension-table] OECD 国别简报与全球概览材料的修辞张力
+> [!tension-table] OECD 国别简报与[[Whole Earth Catalog|全球概览]]材料的修辞张力
 > | 分析维度 | 英国国别简报（UK Country Note） | 《聚焦 PISA》与演示幻灯片（PIF & Slides） |
 > |---|---|---|
 > | **文本定位与语态风格** | 描述性、中立且客观；呈现排列表、均值及分项统计指标 | 解读性、规范性且极富修辞张力；全彩印刷，配大量图表与图示 |

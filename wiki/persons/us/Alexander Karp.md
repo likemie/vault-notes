@@ -32,7 +32,7 @@ related_concepts:
   - "[[Commercial Off-The-Shelf]]"
   - "[[Engineering Mindset]]"
   - "[[Hard Power]]"
-  - "[[Hard Belief]]"
+  - "[[Soft Belief]]"
   - "[[Epistemology]]"
   - "[[Edge Autonomy]]"
   - "[[Consumer Internet]]"
@@ -106,7 +106,7 @@ updated: 2026-10-08
 > - **2003–2004** 与[[Peter Thiel|彼得·蒂尔]]（Peter Thiel）等人共同创立[[Palantir Technologies|帕兰提尔科技公司]]（Palantir Technologies），出任首席执行官。
 > - **2016** 主导帕兰提尔针对美国陆军提起里程碑式联邦诉讼，依据《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]案》（FASA 1994）迫使美国国防部向商用科技公司开放准入通道。
 > - **2020** 带领帕兰提尔在纽约证券交易所公开上市（NYSE: PLTR）。
-> - **2025** 与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]合著出版专著《[[Technological Republic|技术共和国]]：[[Hard Power|硬实力]]、[[Hard Belief|软信念]]与西方的未来》（*The Technological Republic: Hard Power, Soft Belief, and the Future of the West*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–15, 297)]]
+> - **2025** 与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]合著出版专著《[[Technological Republic|技术共和国]]：[[Hard Power|硬实力]]、[[Soft Belief|软信念]]与西方的未来》（*The Technological Republic: Hard Power, Soft Belief, and the Future of the West*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–15, 297)]]
 
 ---
 
@@ -126,7 +126,7 @@ updated: 2026-10-08
 >   - **关键概念／方法** [[Commercial Off-The-Shelf|COTS]] 采购优先权、反垄断准入、国家公共利益契约。
 >   - **阶段转向** 将微观企业管理经验升华为宏观科技政策与国家战略治理方案。
 > - **2025 — [[Technological Republic|技术共和国]]与工程认识论升华阶段** 系统出版理论专著，将工程思维阐释为重构西方国家能力与认识论[[Paradigm|范式]]的总纲。
->   - **代表著作** *The [[Technological Republic]]: [[Hard Power]], [[Hard Belief|soft belief]], and the Future of the West*（2025）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025)]]
+>   - **代表著作** *The [[Technological Republic]]: [[Hard Power]], [[Soft Belief]], and the Future of the West*（2025）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025)]]
 >   - **关键概念／方法** [[Technological Republic|技术共和国]]、极致狐狸认识论、云状动态现实、[[Hard Power|硬实力]]。
 >   - **阶段转向** 融汇哲学、生物学、戏剧学与历史学，提出重构民主政体技术供给效能的全局方案。
 

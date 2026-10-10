@@ -71,6 +71,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Structural Coupling]]"
   - "[[Rationalized Myth]]"
+  - "[[Cognitive Decoupling]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Hidden Curriculum]]"
   - "[[Champ]]"
@@ -452,7 +453,7 @@ updated: 2026-10-01
 > | **03** | [[Human Capital Theory\|人力资本理论]]<br>*(Human Capital Theory)* | 实证与功能主义集群 | 教育收益率、技能人力储备、生产率与经济增长 | 将教育开支重新定性为高回报生产性投资，成为二战后国家教育规划与国际组织放贷的计量支柱 |
 > | **04** | 系统论<br>*(Systems Theory)* | 实证与功能主义集群 | 输入—转换—产出—反馈模型、系统边界与环境 | 借鉴控制论与工程系统模型，宏观分析国民教育子系统与外部政治经济环境的[[Structural Coupling\|结构耦合]] |
 > | **05** | 理性选择理论<br>*(Rational Choice Theory)* | 实证与功能主义集群 | 效用最大化行动者、博弈均衡、成本收益核算 | 解构微观家长、师生与行政官僚在教育准入、学业分流与资源竞争中的策略博弈 |
-> | **06** | 组织与制度理论<br>*(Organizational / Institutional)* | 实证与功能主义集群 | 组织同构、[[Rationalized Myth\|制度神话]]、科层常规、仪式性认同 | 解释全球教育体制在形式上的高度趋同，以及地方实施过程中的仪式性脱耦（Decoupling） |
+> | **06** | 组织与制度理论<br>*(Organizational / Institutional)* | 实证与功能主义集群 | 组织同构、[[Rationalized Myth\|制度神话]]、科层常规、仪式性认同 | 解释全球教育体制在形式上的高度趋同，以及地方实施过程中的仪式性脱耦（[[Cognitive Decoupling\|decoupling]]） |
 > | **07** | 政治[[Pluralism\|多元主义]]<br>*(Political Pluralism)* | 实证与功能主义集群 | 利益集团博弈、价值分歧调和、政策妥协均衡 | 将教育政策借用与决策视为多元利益集团在开放竞技场中的协商博弈，肯定多样性共存价值 |
 > | **08** | [[Dependency Theory\|依附理论]]<br>*(Dependency Theory)* | 马克思主义与批判经济学 | 中心-边缘支配、跨国资本剥削、外围阶级依附 | 彻底颠覆现代化理论的“内部缺失”假说，揭示全球资本积累对全球南方教育体系的结构扭曲 |
 > | **09** | 马克思主义与新马克思主义<br>*(Marxian / Neo-Marxian)* | 马克思主义与批判经济学 | 阶级再生产、经济基础与上层建筑、[[Hegemony\|文化霸权]] | 批判正规学校教育在资本主义生产关系扩大再生产中的驯顺功能与不平等阶级筛选机制 |

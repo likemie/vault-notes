@@ -8,7 +8,7 @@ aliases:
 summary: "旅行者教育是指面向大篷车居民、旅行者以及罗姆/吉普赛族群儿童的专门教育政策与教学干预实践；该领域聚焦于具有漫游传统的少数群体所承受的社会污名、正规学校内部高度结构化的空间区隔引发的文化与身体失调，以及多元文化政策在追求社会融入与尊重社群空间自主性之间的内在张力。"
 type: concept
 domain: "comparative-education"
-related_count: 11
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Discourse]]"
   - "[[Nomadic Education]]"
+  - "[[Sedentarism]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Habitus]]"
   - "[[Heterogeneity]]"
@@ -57,13 +58,13 @@ updated: 2026-10-10
 > - **边界** 不等于通用跨国劳工移民子女教育；旅行者群体具有数百年本土巡回生存史，其受排斥的核心根源在于“流窜不定（Itinerant）”的污名，而非单纯的国籍或语言差异。
 
 > [!citation-card] 学校高度结构化空间利用引发的文化失调
-> 在确实处于流动状态的人群中，研究者 Martin Levinson & Andrew Sparkes（2005）发现，学生在适应学校内部的空间使用方式时面临严重障碍，特别是‘高度结构化的空间使用’（第764页）产生了强烈的文化失调。这种错位削弱了政策目标的达成——即一方面使这些儿童做好参与更大社会的准备，另一方面又承认其本土文化并允许这些群体继续保持某种程度的独立与区隔。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 366)]]
+> 在确实处于流动状态的受访群体中，实证研究发现学生在适应学校内部的空间使用方式时面临严重障碍，特别是‘高度结构化的空间使用’（第764页）产生了强烈的文化失调。这种错位削弱了政策目标的达成——即一方面使这些儿童做好参与更大社会的准备，另一方面又承认其本土文化并允许这些群体继续保持某种程度的独立与区隔。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 366)]]
 >
-> *Among sections of these populations that are in fact migrant, researchers Martin Levinson and Andrew Sparkes (2005) have found that students face problems adapting to the way that space is used within the school, specifically "the highly structured use of space" (p. 764) which generates a cultural dissonance. This mismatch undermines the policy objective of preparing these children for participation in the larger society at the same time as recognizing home culture(s) and enabling these populations to continue to remain somewhat apart.*
+> *Among sections of these populations that are in fact migrant, researchers Martin Levinson & Andrew Sparkes (2005) have found that students face problems adapting to the way that space is used within the school, specifically "the highly structured use of space" (p. 764) which generates a cultural dissonance. This mismatch undermines the policy objective of preparing these children for participation in the larger society at the same time as recognizing home culture(s) and enabling these populations to continue to remain somewhat apart.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Nomadic Education|游牧教育]] — 游牧教育植根于广大天然草场的季节性转场畜牧经济；旅行者教育则身处欧洲城市化与工业化环境中，依附于大篷车营地、修配手工业与季节性短工。
-> - 不等于跨国难民教育 — 旅行者社群多为世代居住在欧洲本土的少数族裔或合法居民，面临的问题是深层的定居主义文明污名与微观空间排斥，而非国籍界定或跨境避难庇护手续。
+> - 不等于跨国难民教育 — 旅行者社群多为世代居住在欧洲本土的少数族裔或合法居民，面临的问题是深层的[[Sedentarism|定居主义]]文明污名与微观空间排斥，而非国籍界定或跨境避难庇护手续。
 
 ---
 
@@ -165,8 +166,7 @@ updated: 2026-10-10
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 英国大篷车吉普赛与旅行者学生社群（转引自 Levinson & Sparkes, 2005） | 深度定性[[Ethnography\|民族志研究]] | 学校空间规约体验、身体受限感与课堂冲突事件 | 发现高度结构化的空间区隔是学生产生抵触情绪的最主要诱因，学生普遍表达对无法自主移动与封闭教室的强烈压抑感 | 深度[[Qualitative Research\|定性研究]]，无量化数值指标 | 揭示了微观物理空间组织引发的文化失调机制，不提供量化效应量或学业差距标准差数据 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 英国初高中阶段吉普赛与旅行者中学生（转引自 Derrington & Kendall, 2004） | 追踪定性调查与个案访谈 | 中等教育过渡期保留率、族群认同冲突与离校意向 | 揭示学生在进入中等教育后学业辍学率剧增，家长与学生由于担忧文化同化与校园霸凌而主动提前脱离全日制学校 | 定性追踪调查 | 证明了多元文化融入政策在中学阶段面临的严峻结构性阻力 |
+> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 英国大篷车吉普赛与旅行者中学生及儿童群体（转引自 Levinson & Sparkes, 2005; Derrington & Kendall, 2004） | 深度定性[[Ethnography\|民族志]]与追踪个案访谈 | 学校空间规约体验、身体受限感与中等教育过渡期保留率 | 发现高度结构化的空间区隔是学生产生抵触情绪的最主要诱因，且进入中等教育后因担忧文化同化与校园霸凌而出现显著的提前离校现象 | 深度[[Qualitative Research\|定性研究]]，无量化数值指标 | 揭示了微观物理空间组织引发的文化失调与中学过渡期学业断裂机制，不提供量化效应量或学业差距标准差数据 |
 
 ---
 

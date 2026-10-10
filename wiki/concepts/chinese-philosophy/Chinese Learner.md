@@ -62,6 +62,7 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons:
   - "[[Confucius]]"
+  - "[[Lee Kuan Yew]]"
 related_facts:
   - "[[English Schools Foundation Hong Kong]]"
   - "[[Civil Service Examination]]"
@@ -291,7 +292,7 @@ updated: 2026-10-07
 
 > [!warning]
 > - **"中国学习者"范畴本身的问题**[[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p.34)]]指出，仅考虑一种"中国性"是有问题的；完全忽视学生的中国性以迁就教师母国价值，同样有问题
-> - **"儒家价值"归因缺乏实证基础**Clark & Gieve（2006, p.63）指出西方教师通过诉诸"看似有道理的儒家传统解释"来验证对中国学习者的感知，而非通过实证。儒学在数百年间被不断重新解读以服务于政治议程——李光耀称新加坡为"儒家社会"，但其中的许多价值与[[Confucius\|孔子]]能辨认的内容"相去甚远"（Watkins & Biggs, 2001, p.4，转引自 Ryan, 2010, pp.46-47）。Louie（2005）指出 20 世纪对儒学的解读经历了"使得任何公认的诠释变得毫无意义"的转变
+> - **"儒家价值"归因缺乏实证基础**Clark & Gieve（2006, p.63）指出西方教师通过诉诸"看似有道理的儒家传统解释"来验证对中国学习者的感知，而非通过实证。儒学在数百年间被不断重新解读以服务于政治议程——[[Lee Kuan Yew|李光耀]]称新加坡为"儒家社会"，但其中的许多价值与[[Confucius\|孔子]]能辨认的内容"相去甚远"（Watkins & Biggs, 2001, p.4，转引自 Ryan, 2010, pp.46-47）。Louie（2005）指出 20 世纪对儒学的解读经历了"使得任何公认的诠释变得毫无意义"的转变
 > - **中国内部文化多元性被忽视** 中国有 55 个官方承认的少数民族文化及佛教、道教、基督教、伊斯兰教等多元宗教传统([[Argument_Ryan_2010_ChineseLearner\|Ryan, 2010, p.47]])
 > - **对学生的身份伤害**[[Argument_Ryan_2010_ChineseLearner\|Ryan (2010, pp.49–50)]]描述了学生在海外经历的"身份丧失和自尊降低"，机制见 [[Stereotype Threat]]
 > - **[[Argument_Li_2012_Cambridge\|Li (2012)]] 模型的局限** Li 的模型是文化理想型（ideal type），不描述任何个体学习者；聚焦"一般文化取向"而忽略内部差异和反例([[Argument_Li_2012_Cambridge\|Li, 2012, p.xi]])。模型中的"中国学习者"是来自儒家文本和精英大学生样本的提炼，其对中国农村、少数民族或非精英学习者的代表性需要更多研究支持

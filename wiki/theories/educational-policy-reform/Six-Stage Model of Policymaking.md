@@ -29,6 +29,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Research Utilization]]"
   - "[[Problem Finding]]"
+  - "[[Co-Design]]"
   - "[[Policymaking Chronosystem]]"
   - "[[Legislative Policy Brief]]"
   - "[[Academic Achievement]]"
@@ -119,7 +120,7 @@ updated: 2026-10-08
 > |:-----|:-----|:--------------|
 > | [[Problem Finding\|问题识别与界定]] | 概念 | 阶段一核心：将分散的社会不满或突发公共事件提炼并表征为需要国家干预的政策议题。 |
 > | 议程设置（Agenda Setting） | 机制 | 阶段二核心：借助大众传媒、党派价值与选民动员，推动特定议题正式列入立法机关行动日程。 |
-> | 政策制定（Policy Formulation） | 机制 | 阶段三核心：委员会幕僚、专业中介与学者协同设计政策方案、起草法案文本与法定示范条文。 |
+> | 政策制定（Policy Formulation） | 机制 | 阶段三核心：委员会幕僚、专业中介与学者[[Co-Design\|协同设计]]政策方案、起草法案文本与法定示范条文。 |
 > | 政策合法化（Policy Legitimization） | 机制 | 阶段四核心：经由委员会辩论、法案修正、听证作证与两院表决，赋予政策法定约束力。 |
 > | 政策实施（Policy Implementation） | 机制 | 阶段五核心：各级行政机关制定实施规程、调配财政资源并由基层行政人员与学校推进落实。 |
 > | [[Implementation and Process Evaluation\|政策评估]] | 方法 | 阶段六核心：实证检验政策产出、因果干预效果与非预期副效应，形成政策延续或修正的反馈。 |

@@ -27,6 +27,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Hypothesis]]"
   - "[[Performativity]]"
+  - "[[Student Mobility]]"
   - "[[Class Size]]"
   - "[[Performance Indicators]]"
   - "[[Paradigm]]"
@@ -85,7 +86,7 @@ updated: 2026-10-07
 > 《教育概览》将复杂的国家教育生态抽象并归纳为四大相互嵌套的分析维度：
 > - **维度 A：教育机构的产出与学习影响（Output and Impact of Learning）** 劳动力受教育程度分布、毕业与升学率、高等教育溢价、教育与劳动力市场衔接及认知测试结果。
 > - **维度 B：教育投入的财务与人力资源（Financial and Human Resources）** 教育支出占国内生产总值（Gross Domestic Product，GDP）比重、各学段生均公共与私人支出、教育经费来源与转移支付结构。
-> - **维度 C：教育参与、入学与升学（Access, Participation and Progression）** 早期幼儿教育普及率、义务教育在读率、国际留学生流动与跨学段留存率。
+> - **维度 C：教育参与、入学与升学（Access, Participation and Progression）** 早期幼儿教育普及率、义务教育在读率、国际留[[Student Mobility|学生流动]]与跨学段留存率。
 > - **维度 D：学习环境与学校组织（Learning Environment and Organisation）** 法定教学时间安排、教师法定与实际薪资水平、[[Class Size\|班级规模]]与生师比、学校教学与管理自主权。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 9)]]
 
 > [!citation-card] [[OECD]] 官方对《教育概览》权威定位的表述

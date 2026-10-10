@@ -18,6 +18,7 @@ fact_related_color: "#dcfce7"
 tags: ["region/canada", "theme/university-industry-collaboration", "theme/aging", "theme/co-location"]
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Co-Design]]"
   - "[[University-Industry Co-location]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Knowledge Production]]"
@@ -56,7 +57,7 @@ updated: 2026-10-03
 > - **2014 年** RIA 大楼在滑铁卢大学北校区建成并投入运营
 > - **持续至今** Schlegel 家族累计投入超过 5000 万加元，用于大楼建设、设立 12 个资助讲席教授职位和支持研究活动
 
-RIA 的独特之处在于其运行模式从一开始就是"共同设计"（co-design）的：Schlegel 家族深度参与了与大学行政人员和利益相关方共同制定 RIA 蓝图和发展路线图的过程。家族成员持续参与 RIA 研究活动和活动，并以董事会成员身份指导 RIA 的持续发展。Schlegel Villages 及其居民同时也是 RIA 研究成果的第一手知识用户([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.252]])。
+RIA 的独特之处在于其运行模式从一开始就是"共同设计"（[[Co-Design]]）的：Schlegel 家族深度参与了与大学行政人员和利益相关方共同制定 RIA 蓝图和发展路线图的过程。家族成员持续参与 RIA 研究活动和活动，并以董事会成员身份指导 RIA 的持续发展。Schlegel Villages 及其居民同时也是 RIA 研究成果的第一手知识用户([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.252]])。
 
 自运营以来，RIA 汇聚了来自滑铁卢大学健康学院、工程学院和文学院（六大学院中的三个）的多学科研究团队，围绕心血管健康、失智症、食品与营养、老年医学、心理健康、行动能力、灵性照护和护理团队建设等议题开展跨学科研究([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.253]])。
 

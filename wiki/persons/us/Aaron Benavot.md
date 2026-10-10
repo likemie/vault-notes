@@ -27,6 +27,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Heterogeneity]]"
   - "[[School Autonomy]]"
+  - "[[Cognitive Decoupling]]"
   - "[[International Education]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Discourse]]"
@@ -98,7 +99,7 @@ updated: 2026-10-07
 > - **2000s — 分权改革下国家大纲落地的阶层分化** 从宏观跨国模型深入具体国家教育系统内部，揭示政策落地的[[Heterogeneity|异质性]]。
 >   - **代表著作** "The social construction of the local school curriculum: Patterns of diversity and uniformity in Israeli junior high schools" (2001, with N. Resh)。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108, 116)]]
 >   - **关键概念／理论** 课程本土社会建构、[[School Autonomy|学校自主权]]悖论、阶层差异调节。
->   - **阶段转向** 承认地方背景（如学校阶层生态、资源动员力）对宏观政策存在重大中介作用，丰富了新制度主义对脱耦（Decoupling）现象的微观解释。
+>   - **阶段转向** 承认地方背景（如学校阶层生态、资源动员力）对宏观政策存在重大中介作用，丰富了新制度主义对脱耦（[[Cognitive Decoupling|decoupling]]）现象的微观解释。
 > - **2010s–至今 — [[International Education|国际教育]]监测与[[Global Citizenship|全球公民教育]]指标化** 将理论研究与全球多边治理监测深度融合。
 >   - **代表著作** [[UNESCO]] GEM Report 2016: *Education for People and Planet* (2016)。
 >   - **关键概念／理论** 全球教育监测、[[UN Sustainable Development Goals|可持续发展目标]]指标化。

@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[International Schools]]"
   - "[[International Baccalaureate]]"
+  - "[[Student Mobility]]"
   - "[[Advanced Placement Program]]"
   - "[[School Choice]]"
   - "[[International Education]]"
@@ -54,7 +55,7 @@ updated: 2026-10-07
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 日内瓦[[International Schools|国际学校]]（International School of Geneva，通称 Ecolint）为国际工作人员家庭提供跨国教育，并成为[[International Baccalaureate|国际文凭]]的主要发源地。学校通过教师合作、课程试验和组织空间，把学生流动与升学困难转化为共同资格建设；其自身财政与双语治理限制又促使考试项目走向独立。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 15–22)]]
+> 日内瓦[[International Schools|国际学校]]（International School of Geneva，通称 Ecolint）为国际工作人员家庭提供跨国教育，并成为[[International Baccalaureate|国际文凭]]的主要发源地。学校通过教师合作、课程试验和组织空间，把[[Student Mobility|学生流动]]与升学困难转化为共同资格建设；其自身财政与双语治理限制又促使考试项目走向独立。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 15–22)]]
 
 > [!org-context] 机构背景
 > - **成立时间与背景** 1924 年创办，为国际联盟工作人员家庭的跨国教育需要提供学校。
@@ -89,7 +90,7 @@ updated: 2026-10-07
 ### 组织发展与国际文凭的形成
 
 > [!dev-timeline]- Ecolint 从[[International Schools|国际学校]]先例发展为国际资格发源地
-> - **1924–1925 年　学校创办与首次资格倡议** 学校成立一年后，校长保罗·梅霍弗（Paul Meyhoffer）依董事会指示，向 17 位欧洲教育改革者发出国际成熟证书[[Questionnaire|问卷]]。没有保存下来的答复，也没有足够国际学校或学生流动支撑实施，计划随即沉寂。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, p. 15)]]
+> - **1924–1925 年　学校创办与首次资格倡议** 学校成立一年后，校长保罗·梅霍弗（Paul Meyhoffer）依董事会指示，向 17 位欧洲教育改革者发出国际成熟证书[[Questionnaire|问卷]]。没有保存下来的答复，也没有足够国际学校或[[Student Mobility|学生流动]]支撑实施，计划随即沉寂。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, p. 15)]]
 > - **1948–1955 年　战后国际学校网络重新提出需求** 国际意识学校会议于 1948 年要求 Ecolint 恢复倡议。学校随后参与建立[[International Schools Association|国际学校协会]]（International Schools Association，ISA），范·豪特又在 1955 年向 ISA 呼吁建立国际毕业会考。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 15–17)]]
 > - **1961–1962 年　教师把倡议转为课程合作** 德斯蒙德·科尔-贝克（Desmond Cole-Baker）出任英语部主任后组织教师和校外支持者。[[Bob Leach|鲍勃·利奇]]（Bob Leach）领导社会研究教师召开会议，正式把国际毕业会考写入课程开发议程。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 17–18)]]
 > - **1964–1965 年　独立考试组织从校内网络分化** Ecolint 财政困难，英法两部合并失败，ISA 又缺少持续推进高中资格项目的资源。学校继续提供发起支持，项目则转入具有独立法律身份的[[International Schools Examination Syndicate|国际学校考试辛迪加]]（International Schools Examination Syndicate，ISES）。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 18–20)]]

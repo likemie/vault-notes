@@ -54,6 +54,7 @@ related_facts:
   - "[[Sematech]]"
   - "[[Silicon Structures Project]]"
   - "[[National Research and Resource Facility for Submicron Structures]]"
+  - "[[National Nanotechnology Coordinated Infrastructure]]"
   - "[[Center for Integrated Systems]]"
 related_arguments:
   - "[[Argument_Mody_2017_MOH]]"
@@ -197,7 +198,7 @@ updated: 2026-10-07
 > | 研究 | 案例对象与情境 | 创设年份 | 核心出资架构与规模 | 工业界参与深度与机制 | 关键技术产出与跨界演化节点 | 来源[[Document\|文献]] |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Mody_2017_MOH\|Mody (2017)]] | 加州理工学院 [[Silicon Structures Project\|硅结构计划（SSP）]] | 1977 年 | 7 家巨头每家每年 \$100,000 会费（极少政府资助） | 企业派遣全职轮转科学家入校 | 奠定 Mead-Conway [[VLSI Project\|VLSI]] 设计方法学；数年后因师资规模失衡解体 | pp. 290–291, 296 |
-> | 〃 | 康奈尔大学 [[National Research and Resource Facility for Submicron Structures\|国家亚微米设施（NRRFSS）]] | 1977 年 | NSF 核心资助 + 37 家企业联盟年费（\$8,500/家） | 驻留工程师制度，40 余家机构洁净室咨询 | 演进为国家纳米制造网络（NNUN/NNCI），孵化植物遗传学基因枪 | pp. 291–293, 297–298 |
+> | 〃 | 康奈尔大学 [[National Research and Resource Facility for Submicron Structures\|国家亚微米设施（NRRFSS）]] | 1977 年 | NSF 核心资助 + 37 家企业联盟年费（\$8,500/家） | 驻留工程师制度，40 余家机构洁净室咨询 | 演进为国家纳米制造网络（NNUN/[[National Nanotechnology Coordinated Infrastructure\|NNCI]]），孵化植物遗传学基因枪 | pp. 291–293, 297–298 |
 > | 〃 | 斯坦福大学 [[Center for Integrated Systems\|集成系统中心（CIS）]] | 1979 年 | 20 家赞助商每家 \$750,000 基建注资 + DARPA 合同 | FMA 三位一体[[Mentorship\|导师制]]，派驻研究员 | 跑通 15 万晶体管 BiCMOS 流片试验；支撑 DNA 微阵列芯片研发 | pp. 293–298 |
 
 ---

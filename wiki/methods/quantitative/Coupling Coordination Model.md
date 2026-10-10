@@ -79,7 +79,7 @@ updated: 2026-06-14
 >   - 自然断点分类
 >   - 地图可视化
 >   - [[LISA Time Path\|LISA时空路径]]
->   - [[LISA Spatiotemporal Transition\|LISA时空转移]]
+>   - LISA[[LISA Spatiotemporal Transition|时空转移]]
 
 ---
 
@@ -170,7 +170,7 @@ updated: 2026-06-14
 > > - **子系统权重 $\alpha_j$** 常见做法为等权，例如三系统各取 $1/3$。等权表达“同等重要”的规范判断，不是数据自动给出的事实。
 > > - **等级阈值** Fan et al. 使用 ArcGIS 10.8 的自然断点法；自然断点依赖样本分布，分类线不能被理解为自然断裂。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 68)]]
 > > - **因果边界** $D$ 是描述性综合指标，不是因果估计。高 $D$ 不能说明某个子系统导致另一个子系统发展。
-> > - **空间扩展** LISA 时空路径和 LISA 时空转移可分析空间关联，但空间相关不等于空间溢出因果。
+> > - **空间扩展** LISA 时空路径和 LISA [[LISA Spatiotemporal Transition|时空转移]]可分析空间关联，但空间相关不等于空间溢出因果。
 
 ---
 
@@ -260,4 +260,4 @@ updated: 2026-06-14
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 研究索引
-> - [[Argument_Fan_Song_Zhai_2024_RSEE]] — 使用耦合协调模型测度中国 30 个省份教育-科技-人才一体化发展水平，并结合[[LISA Time Path\|LISA时空路径]]和[[LISA Spatiotemporal Transition\|LISA时空转移]]分析时空格局演变。
+> - [[Argument_Fan_Song_Zhai_2024_RSEE]] — 使用耦合协调模型测度中国 30 个省份教育-科技-人才一体化发展水平，并结合[[LISA Time Path\|LISA时空路径]]和LISA[[LISA Spatiotemporal Transition|时空转移]]分析时空格局演变。

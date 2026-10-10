@@ -23,6 +23,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Cosmopolitanism]]"
   - "[[Discourse]]"
+  - "[[Student Mobility]]"
   - "[[Multiplicity]]"
   - "[[Global Citizenship]]"
   - "[[STEM Education]]"
@@ -80,7 +81,7 @@ updated: 2026-10-09
 - 但在此表面的同质化之下，新加坡、中国、韩国、法国和北欧国家等也在采取全球性举措——"国际化"的实践远非单一([[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 15–17]])
 
 **2015 至今：部分去全球化与西方反弹**
-- 西方对跨境连接的反弹表现为：规范国际主义和世界主义让位于单一国家认同论、多边主义削弱、本土主义反移民（包括跨境学生流动）
+- 西方对跨境连接的反弹表现为：规范国际主义和世界主义让位于单一国家认同论、多边主义削弱、本土主义反移民（包括跨境[[Student Mobility|学生流动]]）
 - 美国推动的中美在政治经济-技术-科学-大学领域关系的部分破裂，标志着"国际化"作为共享规范性框架的终结
 - Marginson 指出这一反弹的深层根源在于：（a）殖民秩序的侵蚀和全球[[Multiplicity|多重性]]的增长——包括中国和全球南方的崛起；（b）新自由主义导致的欧美人口贫困化，催生了民粹政治([[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 22–23]])
 
@@ -110,7 +111,7 @@ updated: 2026-10-09
 ## 实证发现
 
 > [!success]
-> - 全球高等教育在学人数自本世纪初已翻倍以上，亚洲中产阶级是国际学生流动的主要需求来源([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, p.89, 96]])
+> - 全球高等教育在学人数自本世纪初已翻倍以上，亚洲中产阶级是国际[[Student Mobility|学生流动]]的主要需求来源([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, p.89, 96]])
 > - 全球中产阶级 2016 年底约 32 亿人，新增中产阶级绝大多数在亚洲（Kharas, 2017, cited in [[Argument_Rizvi_2022_Springer\|Rizvi, 2022, p.96]]）
 > - 澳大利亚大学在招收全额付费国际学生方面的成功使政府有底气推动其他市场导向政策，内生私有化成为公立高等教育的永久特征([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.97–98]])
 > - COVID-19 疫情期间，许多亚洲国际学生回国，部分不太可能恢复海外学习，使严重依赖该收入来源的大学面临生存危机([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.101–102]])

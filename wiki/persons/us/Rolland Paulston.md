@@ -30,6 +30,8 @@ related_concepts:
   - "[[Epistemological Break]]"
   - "[[Popular Education]]"
   - "[[Value Neutrality]]"
+  - "[[Policy Mobility]]"
+  - "[[Discourse]]"
   - "[[Determinism]]"
   - "[[Protean Episteme]]"
   - "[[Unit of Analysis]]"
@@ -41,6 +43,7 @@ related_theories:
   - "[[Dependency Theory]]"
   - "[[World-Systems Theory]]"
 related_methods:
+  - "[[Social Cartography]]"
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
@@ -51,6 +54,7 @@ related_facts:
   - "[[Comparative and International Education Society]]"
 related_arguments:
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
+  - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
 confidence: high
 status: completed
 created: 2026-10-01
@@ -65,7 +69,7 @@ updated: 2026-10-01
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国比较教育学家、匹兹堡大学（University of Pittsburgh）国际与[[Development Education|发展教育]]杰出教授、1976 年[[Comparative and International Education Society\|比较与国际教育学会]]（CIES）会长。
-> - **核心角色** 比较教育学第四代际“批判冲突[[Paradigm\|范式]]”的方法论奠基人与倡导者；在 1977 年《比较教育评论》创刊二十周年专刊中发表划时代论文，系统确立“冲突范式”（Conflict Paradigms）抗衡并打破战后[[Structural Functionalism|结构功能主义]]与实证量化派对学科的垄断；1990 年代首创“社会地图学”（Social Cartography），运用后现代空间隐喻图绘多元范式竞争与知识光谱，深刻重塑了世纪之交比较教育学的[[Epistemology|认识论]]生态。
+> - **核心角色** 比较教育学第四代际“批判冲突[[Paradigm\|范式]]”的方法论奠基人与倡导者；在 1977 年《比较教育评论》创刊二十周年专刊中发表划时代论文，系统确立“冲突范式”（Conflict Paradigms）抗衡并打破战后[[Structural Functionalism|结构功能主义]]与实证量化派对学科的垄断；1990 年代首创“[[Social Cartography|社会地图学]]”（Social Cartography），运用后现代空间隐喻图绘多元范式竞争与知识光谱，深刻重塑了世纪之交比较教育学的[[Epistemology|认识论]]生态。
 > - **代表贡献** 确立冲突范式的核心概念群（权力、剥削、统治阶级、[[Hegemony|文化霸权]]与知识控制）；开创社会地图学方法，主编《社会地图学：图绘社会与教育变迁的视角》（*Social Cartography*, 1996）；推动比较教育学从单一[[Positivism|实证主义]]走向多元范式共存。
 
 > [!citation-card] 卡扎米亚斯论保尔斯顿对比较教育冲突范式的奠基
@@ -83,7 +87,7 @@ updated: 2026-10-01
 > - **1969** 加盟匹兹堡大学国际与[[Development Education|发展教育]]系（IDEP），建立长达三十余年的比较教育教学生涯，指导大批来自拉美与亚洲的国际学者。
 > - **1976** 当选为[[Comparative and International Education Society|比较与国际教育学会]]（CIES）会长，以[[Critical Pluralism|批判多元主义]]重构学术年会治理。
 > - **1977** 在《比较教育评论》（*CER*）发表里程碑长文 *Social and Educational Change: Conceptual Frameworks*，正式宣告比较教育冲突论[[Paradigm|范式]]的确立。
-> - **1990 年代** 吸收[[Postmodernism|后现代主义]]与解释学空间转向，开创“社会地图学”（Social Cartography），在匹兹堡大学设立空间绘图研究小组。
+> - **1990 年代** 吸收[[Postmodernism|后现代主义]]与解释学空间转向，开创“[[Social Cartography|社会地图学]]”（Social Cartography），在匹兹堡大学设立空间绘图研究小组。
 > - **1996** 出版集大成代表作《社会地图学：图绘社会与教育变迁的视角》（*Social Cartography: Mapping Ways of Seeing Social and Educational Change*）。
 > - **2006** 逝世于美国宾夕法尼亚州匹兹堡。
 
@@ -94,7 +98,7 @@ updated: 2026-10-01
 > [!work-line] 代表著作
 > - **1977 — *Social and Educational Change: Conceptual Frameworks*** 比较教育学史上引用率最高的经典[[Document|文献]]之一，系统梳理功能均衡[[Paradigm|范式]]与多元冲突范式在社会变迁认知上的[[Epistemological Break|认识论断裂]]。
 > - **1980 — *Other Dreams, Other Schools: Folk Colleges in Social and Ethnic Movements*** 运用冲突与抗争视角考察[[Popular Education|民众教育]]和民族社会运动中的另类学校形态。
-> - **1996 — *Social Cartography: Mapping Ways of Seeing Social and Educational Change* (Ed.)** 奠定社会地图学理论与实践准则的开山巨著，倡导用跨学科地图图谱表达知识争鸣。
+> - **1996 — *[[Social Cartography]]: Mapping Ways of Seeing Social and Educational Change* (Ed.)** 奠定社会地图学理论与实践准则的开山巨著，倡导用跨学科地图图谱表达知识争鸣。
 > - **1999 — *Mapping the [[Postmodernism|postmodern]] in Comparative Education*** 反思世纪之交比较教育学的[[Epistemology|认识论]]碎片化，倡导通过地图隐喻实现范式间的宽容对话。
 
 ---
@@ -108,7 +112,7 @@ updated: 2026-10-01
 面对 1980 年代后期比较教育学界内部日益激化的范式攻讦（实证派 vs 批判派 vs 后现代派），保尔斯顿拒绝用一种新正统取代旧正统，而是吸收[[Postmodernism|后现代主义]]空间转向思想，开创了[[Social Cartography|社会制图学]]（Social Cartography）：
 - 主张将所有理论和方法视作不同认知主体看待世界的“透镜”（Ways of seeing）；
 - 运用具有空间坐标的隐喻地图（Cognitive Maps），将相互竞争的学术流派标注在全景图上，清晰呈现各派的位置、距离、边界与重叠领域；
-- 强调地图绘制不是为了宣告唯一的真理，而是为了提供一种促进各流派平等对话的视觉认知框架。该方法随后被广泛运用于解构教育政策流动、话语空间争鸣与跨国治理图绘。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–360)]]
+- 强调地图绘制不是为了宣告唯一的真理，而是为了提供一种促进各流派平等对话的视觉认知框架。该方法随后被广泛运用于解构教育[[Policy Mobility|政策流动]]、[[Discourse|话语]]空间争鸣与跨国治理图绘。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–360)]]
 
 ---
 
@@ -122,7 +126,7 @@ updated: 2026-10-01
 > > - **[[Positivism|实证主义]]学者（诺亚、埃克斯坦）** 坚持比较教育应当寻找客观的教育运行规律，指责冲突理论带有过强的先验意识形态偏见，缺乏可量化检验的统计假说。
 > > - **保尔斯顿与批判学者** 反驳指出将科学等同于中立指标本身就是资本主义主流意识形态的自我伪装；只有揭示教育制度内部的剥削与权力结构，才能真正理解社会变迁的本质。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 152–153)]]
 >
-> > [!axis] 社会地图学的相对主义倾向
+> > [!axis] [[Social Cartography|社会地图学]]的相对主义倾向
 > > 部分马克思主义与实证主义学者批评社会地图学陷入了极端的后现代相对主义，指责其将一切理论平等罗列为地图视角的做法消解了客观真理与政治行动的坚定立场。
 
 ---
@@ -133,7 +137,7 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Social Cartography\|社会制图学]] | 方法 | 首创后现代范式图绘与空间认知地图方法，重塑比较教育认识论生态。 |
+> | [[Social Cartography\|社会制图学]] | 方法 | 首创后现代[[Paradigm\|范式]]图绘与空间认知地图方法，重塑比较教育[[Epistemology\|认识论]]生态。 |
 > | [[Paradigm\|范式]] | 概念 | 开创比较教育冲突范式，打破结构功能主义与[[Positivism\|实证主义]]在学科内的长期垄断。 |
 > | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 作为第四代际批判冲突演进的领军学者，深刻展现了学科[[Epistemology\|认识论]]丝线的重组。 |
 > | [[Unit of Analysis\|分析单位]] | 概念 | 推动比较分析单位从孤立的民族国家外貌深化拓展至跨国阶级权力与[[Hegemony\|文化霸权]]网络。 |
@@ -144,4 +148,4 @@ updated: 2026-10-01
 > | [[Harold Noah\|哈罗德·诺亚]] | 人物 | 第三代哥大学派领袖，构成保尔斯顿批评功能均衡论与实证唯方法论的核心学术论敌。 |
 > | [[Comparative and International Education Society\|比较与国际教育学会]] | 事实 | 1976 年出任会长，依托学会旗舰期刊系统确立批判与冲突学术议程。 |
 > | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 权威阐明保尔斯顿 1977 年论文在第四代际冲突话语确立中的奠基地位与核心[[Construct\|构念]]。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 论证 | 探讨空间转向与社会制图学在追踪教育政策流动与少数群体治理中的应用。 |
+> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 论证 | 探讨空间转向与社会制图学在追踪教育[[Policy Mobility\|政策流动]]与少数群体治理中的应用。 |

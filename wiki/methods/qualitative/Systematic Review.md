@@ -294,7 +294,7 @@ updated: 2026-10-09
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - **[[Argument_Higgins_2016_ROE\|Higgins (2016)]]** 系统综述的方法论权威教材，详述[[Research Question\|研究问题]]制定、纳入排除、穷尽检索、偏倚风险评估与数据综合的完整操作规范。
 > - **[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]]** 调查全球 15 个代表性证据门户对系统综述标准的采纳率（Table 7.1），解构聚合型与配置型系统综述在国家[[What Works Network\|有效性网络]]与证据生态中的[[Epistemology\|认识论]]定位与标准塌陷风险。
-> - **[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]]** 在 [[OECD]] 编著第九章中，通过对卫生保健、社会关照、公共政策与教育四大领域相关文献开展跨行业系统综述与叙事综合，跨界界定证据使用质量（Quality of Evidence Use）并奠定 [[Quality Use of Research Evidence Framework\|QURE]] 框架的先验理论基础。
+> - **[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]]** 在 [[OECD]] 编著第九章中，通过对卫生保健、社会关照、公共政策与教育四大领域相关[[Document|文献]]开展跨行业系统综述与[[Narrative Synthesis|叙事综合]]，跨界界定[[Research Utilization|证据使用]]质量（Quality of Evidence Use）并奠定 [[Quality Use of Research Evidence Framework\|QURE]] 框架的先验理论基础。
 > - **[[Argument_Li_2025_HSSC\|Li et al. (2025)]]** 遵循 [[PRISMA]] 框架从 SSCI 与 Scopus 数据库系统检索并筛选 85 篇 [[PISA]] 政策影响实证研究，使用[[Coding in Qualitative Research\|编码]]分析和序列分析探讨 PISA 对全球基础教育改革的影响。
 > - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011, Ch17)]]** 教材第 17 章节系统阐述系统综述与研究综合的定义、类型、[[EPPI-Centre]] 七项质量准则与方法学警示。
 > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]** 遵循 PRISMA 报告，三库系统检索并双盲两阶段筛选 109 项学校[[Research Utilization\|研究使用]]实证研究，运用 [[Mixed Methods Appraisal Tool\|MMAT]] 工具评估质量并采用[[Framework Synthesis\|框架综合]]法进行证据整合。
