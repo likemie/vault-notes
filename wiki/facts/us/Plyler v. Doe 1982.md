@@ -21,6 +21,12 @@ tags:
   - migrant-education
   - constitutional-law
   - equal-protection
+related_concepts:
+  - "[[Presence]]"
+related_methods:
+  - "[[Correlational Research]]"
+related_arguments:
+  - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
 confidence: high
 status: draft
 created: 2026-10-10
@@ -37,7 +43,7 @@ updated: 2026-10-10
 > - **发布时间 / 发布主体** 1982 年 6 月 15 日由美国联邦最高法院（Supreme Court of the United States）以 5 比 4 的表决结果裁定发布（判例案号：457 U.S. 202）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 365)]]
 > - **适用地区 / 对象** 全美各州公立学区，直接覆盖所有未取得合法居留身份的适龄移民学童（Undocumented Children）。
 > - **问题背景** 1975 年得克萨斯州修订《教育法》第 21.031 条，授权地方学区拒绝向未合法入境的儿童拨付州级教育经费，并允许公立学区向此类学童收取高额学费（每年每人约 1000 美元），导致大批随农业务工父母迁徙的拉美裔儿童失学。
-> - **制度位置** 作为美国移民教育与宪政人权史上最关键的里程碑判例，确立了宪法第十四修正案“平等保护条款”对州管辖范围内所有“人”（不论国籍与居留合法性）的普遍约束力。
+> - **制度位置** 作为美国移民教育与宪政人权史上最关键的里程碑判例，确立了宪法第十四修正案平等保护条款对州管辖范围内所有人（不论国籍与居留合法性）的普遍约束力。
 
 ---
 
@@ -48,13 +54,13 @@ updated: 2026-10-10
 
 > [!policy-design] 司法判决设计与宪法准则
 > - **宪法权利界定** 确立第十四修正案平等保护条款不仅保护美国公民，同样保护身处州管辖地理范围内的所有个人，包括非法移民。
-> - **中间审查标准** 最高法院认定虽然无证移民不属于“可疑分类”（Suspect Class），且公共教育本身并非宪法明文规定的“基本权利”（Fundamental Right），但教育对维持民主社会至关重要；剥夺特定群体的受教育机会必须通过实质性政府重大利益的严格检验。
+> - **中间审查标准** 最高法院认定虽然无证移民不属于可疑分类（Suspect Class），且公共教育本身并非宪法明文规定的基本权利（Fundamental Right），但教育对维持民主社会至关重要；剥夺特定群体的受教育机会必须通过实质性政府重大利益的严格检验。
 > - **拒绝转嫁父母责任** 儿童无法自主决定父母的入境方式，国家不能因父母的非法迁移行为惩罚其未成年子女。
 
 > [!citation-card] 布伦南大法官论剥夺无证儿童受教育权之宪法违宪性
 > 剥夺这些儿童接受教育的机会，就等于对他们施加了难以消除的终身残疾。通过剥夺教育，国家实际上在自己的边界之内制造并维系着一个由文盲组成的次等底层阶级。这种做法违背了平等保护条款最核心的宪法精神。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 365)]]
 >
-> *By denying these children a basic education, we deny them the ability to live within the structure of our civic institutions... It is difficult to conceive of a rational justification for penalizing these children for their presence within the United States.*
+> *By denying these children a basic education, we deny them the ability to live within the structure of our civic institutions... It is difficult to conceive of a rational justification for penalizing these children for their [[Presence]] within the United States.*
 
 ---
 
@@ -78,8 +84,8 @@ updated: 2026-10-10
 > - **受益流动群体** 包括墨西哥裔、海地裔、波多黎各裔及亚欧移民背景的季节性务工子女与流动儿童。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 365)]]
 
 > [!pathways] 实施路径与长远制度影响
-> - **学籍注册去身份化规约** 全美公立学校统一建立“不得询问移民身份”的注册制度，确保入学门槛仅以学区居住事实而非合法签证为前提。
-> - **流动儿童支持网络规范化** 推动各州教育厅设立流动学生教育专项服务，提供英语学习辅导（ESL）、跨校学分转接与健康支持。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 365)]]
+> - **学籍注册去身份化规约** 全美公立学校统一建立不得询问移民身份的注册制度，确保入学门槛仅以学区居住事实而非合法签证为前提。
+> - **流动儿童支持网络规范化** 推动各州教育厅设立流动学生教育专项服务，提供英语作为第二语言（English as a Second Language，ESL）辅导、跨校学分转接与健康支持。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 365)]]
 
 ---
 
@@ -96,5 +102,5 @@ updated: 2026-10-10
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 阐述该判决如何为美国无证移民及流动学生接受公立基础教育确立宪法基准，并催生联邦流动教育支持网络。
