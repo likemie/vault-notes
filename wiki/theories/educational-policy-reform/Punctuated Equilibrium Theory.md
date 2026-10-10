@@ -187,7 +187,7 @@ updated: 2026-10-11
 > > [!axis] 突变解释与渐进演进的理论对立与机制弥合
 > > 批评者质疑间断突变是否只是表面立法现象，深层实践变革本质上依然是渐进的。
 > >
-> > - **历史制度主义批评视角** 强调制度演进具有强烈的[[Path Dependence|路径依赖]]与[[Institutional Layering|制度层叠]]特征，宏观法案突变往往伴随着底层执行机制中新旧规则的长期层叠共生；[[Jeroen van der Heijden|范德海登]]（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]]）指出间断均衡论缺乏变迁幅度与时间跨度的[[Operationalization|操作化]]阈值，极易陷入证实偏差，而聚焦被添加的行动者与规制工具[[Variable|变量]]能够有效沟通突变模型与渐进模型。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10, 16)]]
+> > - **历史制度主义批评视角** 强调制度演进具有强烈的[[Path Dependence|路径依赖]]与[[Institutional Layering|制度层叠]]特征，宏观法案突变往往伴随着底层执行机制中新旧规则的长期层叠共生；马奥尼与希伦（Mahoney & Thelen, 2009）明确批判间断均衡理论将常规历史时期矮化为无变迁的静态惰性期、过度迷信外生危机的偏误，证明渐进微调在长周期内完全足以累积引发颠覆性体制转型；[[Jeroen van der Heijden|范德海登]]（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]]）进一步指出间断均衡论缺乏变迁幅度与时间跨度的[[Operationalization|操作化]]阈值，极易陷入证实偏差，而聚焦被添加的行动者与规制工具[[Variable|变量]]能够有效沟通突变模型与渐进模型。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 4–7)]]；[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10, 16)]]
 > > - **间断均衡理论辩护** 强调[[Bounded Rationality|有限理性]]导致注意力瓶颈必然呈现断裂跳跃，宏观法案与管辖权的断裂式重组重构了后续演化的游戏规则。（Baumgartner & Jones, 1993）
 >
 > > [!axis] 结构性外生危机 vs [[Policy Entrepreneur|政策企业家]]行动能动的动因之争
@@ -203,6 +203,7 @@ updated: 2026-10-11
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013)]] — 明确将间断均衡理论与政策垄断框架应用于全美[[Common Core State Standards|共同核心州立标准]]（CCSS）推进的全[[Process Tracing|过程追踪]]。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 探讨[[Mission-Oriented Innovation Policy|使命导向创新政策]]如何打破传统新古典[[Market Failure|市场失灵]]垄断并重塑国家能力的代表性[[Document|文献]]。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 批判间断均衡理论将常规历史简化为静态稳态的教条，建构解释长周期累积质变的渐进演化模型。
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 评述[[Institutional Layering|制度层叠]]概念并论证其在行动者与工具[[Variable|变量]]层面弥合间断均衡与渐进演变理论分歧的分析文献。
 
 ---

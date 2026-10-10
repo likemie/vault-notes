@@ -189,8 +189,15 @@ updated: 2026-10-08
 > > - **德梅拉斯（Demerath, 1999; 引自 Arnove, 2009）** 在巴布亚新几内亚的[[Ethnography|民族志研究]]证实，当西方输入的现代文凭导致青年就业无望时，本土青年主动通过嘲弄升学、重构村落生活自尊来击碎抽象的西方成本效益模型。（Demerath, 1999; 引自 [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 109–110]]）
 > > - **[[Robert Arnove|阿诺夫]]（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）** 指出若不将微观行动者的理性置于宏观依附关系与本土文化意义中审视，主流理性选择分析势必沦为新自由主义教育政策的辩护工具。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 
+> > [!axis] 规则遵从的静态均衡假定 vs 动态政治博弈
+> > 历史制度主义与政治社会学学者批评理性选择理论将规则遵从（Compliance）预设为已知收益矩阵下的静态均衡，忽视了制度内在的模糊性与分配冲突。
+> >
+> > - **理性选择制度主义假定** 认为监督与违规成本已经完全内生于理性行动者的效用预期中，制度构成了自我实施的协调均衡，变迁只能诉诸外生参数剧变。
+> > - **詹姆斯·马奥尼与凯瑟琳·希伦（Mahoney & Thelen, 2009）** 批评指出，理性选择理论将规则遵从预设为静态事实，掩盖了成文规则不可消除的内生模糊性与执行裁量缝隙；制度本质上是不平等的权力分配工具，遵从是行动者在不同否决与裁量语境下不断博弈、甚至策略性偏离的动态变量，微观主体的机会主义策略正是驱动渐进制度变迁的核心动能。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 5–6, 10–14)]]
+
 > [!critique]- 批评索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 批评工具理性假定对寒门学子文化融合、价值追寻与身份困境的解释无力。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 批判理性选择制度主义将规则遵从预设为静态均衡，揭示遵从与解释裁量权作为微观博弈变量的内生动力学。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 引用 Demerath (1999) 民族志案例，从全球体系与比较文化视角批评西方抽象理性选择理论与狭隘[[Cost-Benefit Analysis|成本效益分析]]的跨情境局限。
 
 ---

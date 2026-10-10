@@ -137,6 +137,9 @@ updated: 2026-10-11
 > [!claim] [[Kathleen Thelen|Thelen, K.]]
 > **边际附加的累积质变效应** 在政治权力分散或存在强大机构阻力导致全面[[Institutional Displacement|制度替代]]不可行时，行动者通过积极赞助修正案或在旧体制边缘设立新机制，使得新规则逐步侵蚀、改写或边缘化原有规则对行为的规约方式，在长时段内累积出等同于剧烈变革的制度转型后果。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 11–12)]]
 
+> [!claim] [[James Mahoney|Mahoney, J.]] & [[Kathleen Thelen|Thelen, K.]]
+> **强否决阻力与颠覆者潜伏层叠** 当既有制度由强力否决玩家捍卫且规则缺乏解释裁量权时，改革者无法公开废法；其主导变革者为“颠覆者”（Subversives），他们表面遵从规则、潜伏运作，策略性在既有核心顶端或外围增添补充条款，如地下室白蚁般随时间推移逐渐掏空并取代旧核心。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 16–17, 25–26)]]
+
 > [!claim] Schickler, E.
 > **多元利益妥协的层叠张力** 制度并非源于单一理性主体的顶层宏观规划，而是在不同历史时期相互竞争的多元利益主体博弈妥协的产物；各方妥协推动了新安排在既有结构之上的层叠，形成充满张力且非统一设计的杂合制度形态。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 12)]]
 
@@ -189,6 +192,8 @@ updated: 2026-10-11
 > - **战后公共行政扩张（行动者增厚与[[Problem of Many Hands|多手难题]]）** 尤金·贝利斯尔（Belisle, 1944）、劳伦斯·赫森（Herson, 1961）、尼尔·张伯伦（Chamberlain, 1969）与保罗·莱特（Light, 1995）系统考证了在联邦、州与地方多级层级中持续增设新局署，以及在既有体制中引入私营与非营利主体；组织层叠造成权力重叠与责任稀释，印证了行动者增厚的制度成本与多手难题（[[Problem of Many Hands]]）。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
 > - **战后金融与劳工规制演进（[[Regulatory Ratchet|规制棘轮]]与工具叠加）** 克利夫顿·克雷普斯（Kreps, 1966）揭示大萧条后银行业监管层层加盖；尤金·巴达克与罗伯特·卡根（Bardach & Kagan, 1982）以及理查德·佛罗里达与马丁·肯尼（Florida & Kenney, 1992）揭示规则只增不减形成[[Regulatory Ratchet|规制棘轮]]（Regulatory Ratchet），使合规体系日益繁复庞杂。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 14–15)]]
 > - **公共服务供给体制转型（组织与工具双重叠加）** 布鲁斯·史密斯（Smith, 1983）与[[Kathleen Thelen|凯瑟琳·希伦]]（Thelen, 2004）系统剖析美国公共服务在公营实体、非营利组织与表外融资契约上的层叠演化，证实新旧组织与新型管理工具的叠床架屋能够深刻重构公共行政的运行生态。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 15)]]
+> - **美国教育券计划与公立学区改革（边际分流层叠典范）** 保守派改革者无法击败强大的公立教师工会直接废除公立学区体系，转而在公立学区体制边缘增设教育券（School Vouchers）选择权，随着越来越多的家庭使用教育券，公立学校的财政资源与生源被渐进分流。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 16–17)]]
+> - **巴西军政府时期的基层卫生运动（颠覆者潜伏层叠典范）** 图利亚·法莱蒂（Falleti）考证表明，激进卫生改革者在威权军政府时期表面顺从国家卫生政策，敏锐利用体制向内地扩张诊所的契机在基层试点自治管理模式，如白蚁般将新规则层叠于旧体制内部，直至民主化到来时一举跃升为主导制度。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 26, 30–31)]]
 > - **荷兰住房法建筑规制执行史（多维时空感知）** 展现微观建筑承包商感知到的剧烈突变、中观部门长达二十年的渐进谈判与宏观百年法理框架的边际微调，证明变迁定性取决于主体的制度位置与时间跨度。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10–11)]]
 
 > [!critique]- 反面概念辨析案例：被当代学者误读为“制度层叠”的制度再生产与[[Path Dependence|技术锁定]]

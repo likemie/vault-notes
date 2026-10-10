@@ -189,7 +189,7 @@ updated: 2026-10-11
 > > [!axis] 制度变迁中的[[Determinism|决定论]] vs 制度演化能动性
 > > 历史制度主义内部就路径依赖理论是否过度强调制度刚性、无法解释渐进式制度演进与制度突破进行反思。
 > >
-> > - **Kathleen Thelen（2004）** 提出[[Institutional Layering|制度层叠]]（Layering）与[[Institutional Conversion|制度转换]]（Conversion）概念，指出制度变迁往往不是依靠外生危机的瞬间剧烈断裂，而是在既有路径内部由行动者持续进行渐进式重塑。
+> > - **Kathleen Thelen（2004）与 James Mahoney & Kathleen Thelen（2009）** 批评早期路径依赖理论过度依赖报酬递增与锁定假定，倾向于将历史机械割裂为刚性惰性期与外生危机断裂，陷入间断均衡窠臼；马奥尼与希伦指出，现实中绝对刚性的制度死锁极罕见，常规政治更多表现为行动者在权力分配张力与规则模糊性中推动置换、层叠、漂移与转换等内生渐变。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 4–7)]]
 > > - **Jeroen van der Heijden（2011）** 进一步澄清路径依赖与分层变迁的理论分界：外围新要素的叠加若只是强化核心并筑高转换壁垒（如互联网高厚度商），本质属于路径依赖的自我强化与制度再生产；真正的制度层叠必须随时间推移改变原有规则规约行为的方式，二者不可混淆。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–14)]]
 
 ---
@@ -198,6 +198,7 @@ updated: 2026-10-11
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 运用路径依赖理论与开源标准锁定机制，阐释美国[[Research Universities|研究型大学]]如何通过科教融合将 RISC-V 指令集嵌入工程人才梯队，形成全球半导体产业生态的主导权。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 批判路径依赖理论的刚性死锁假定，阐发以权力分配与规则模糊性为基石的渐进内生演化模型。
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 评析复合技术标准中外围叠加与厚度商对核心标准的路径依赖加固机制，辨析制度再生产与[[Institutional Layering|制度层叠]]的分析边界。
 
 ---
