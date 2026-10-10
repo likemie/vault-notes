@@ -11,7 +11,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -43,8 +43,10 @@ related_theories:
   - "[[Two Problematics of Educational Inclusion and Exclusion]]"
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[António Nóvoa]]"
 related_facts:
+  - "[[Erasmus Programme]]"
   - "[[Bologna Process]]"
   - "[[European Standards and Guidelines]]"
   - "[[Tuning Project]]"
@@ -63,7 +65,7 @@ updated: 2026-10-10
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **泛欧大学机动性合作计划（Trans-European Mobility Programme for University Studies，TEMPUS / 天普计划）** 是欧洲联盟（European Union，EU）于 1990 年在冷战终结与东欧剧变的历史节点上设立的高等教育跨国合作与学术流动旗舰项目。该计划作为欧盟内部伊拉斯谟计划（ERASMUS）向非成员国外围邻国的制度延伸，专门面向中东欧、西巴尔干、东欧邻国、南高加索、中亚以及南部地中海周边伙伴国，旨在通过大学跨国结对、课程革新与体制对接，推进伙伴国高等教育体制的现代化、民主化与市场经济转型。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
+> **泛欧大学机动性合作计划（Trans-European Mobility Programme for University Studies，TEMPUS / 天普计划）** 是欧洲联盟（European Union，EU）于 1990 年在冷战终结与东欧剧变的历史节点上设立的高等教育跨国合作与学术流动旗舰项目。该计划作为欧盟内部[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）向非成员国外围邻国的制度延伸，专门面向中东欧、西巴尔干、东欧邻国、南高加索、中亚以及南部地中海周边伙伴国，旨在通过大学跨国结对、课程革新与体制对接，推进伙伴国高等教育体制的现代化、民主化与市场经济转型。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1990 年正式设立，先后历经四期工程（TEMPUS I 至 TEMPUS IV），持续推进至 2013 年底；2014 年整体整合并入新一代欧盟“伊拉斯谟+”（Erasmus+）全球教育、培训与青年行动框架。
@@ -109,7 +111,7 @@ graph TD
 > - **1990–1994 年 — TEMPUS I：中东欧政治转型应激支援期** 聚焦中东欧“中欧四国”（维谢格拉德集团，波兰、匈牙利、捷克、斯洛伐克）及波罗的海三国的高等教育体系重建，重点资助语言教育、经管法政学科现代化与基础设备更新。
 > - **1994–2000 年 — TEMPUS II / II bis：向独联体与西巴尔干纵深扩展期** 项目覆盖面扩展至前苏联加盟共和国（TACIS 计划国家）及战后西巴尔干地区，重点转向大学内部管理重组、系所自治与多边伙伴关系深化。
 > - **2000–2006 年 — TEMPUS III：[[Bologna Process|博洛尼亚进程]]全面对接期** 正式纳入地中海沿岸伙伴国（MEDA 计划）；核心任务全面转向对接 1999 年《博洛尼亚宣言》目标，推动学士-硕士-博士三级学位架构改革、欧洲学分转换系统（ECTS）落地与学分透明。
-> - **2007–2013 年 — TEMPUS IV：区域高教区辐射与[[Lifelong Learning|终身学习]]融合期** 强化高等教育对区域经济转型的适应性，推动大学与企业、公民社会的产学研网络化共建；2014 年正式完成历史使命，整体整合并入“伊拉斯谟+”（Erasmus+）全球旗舰项目。
+> - **2007–2013 年 — TEMPUS IV：区域高教区辐射与[[Lifelong Learning|终身学习]]融合期** 强化高等教育对区域经济转型的适应性，推动大学与企业、公民社会的产学研网络化共建；2014 年正式完成历史使命，整体整合并入“伊拉斯谟+”（[[Erasmus Programme|Erasmus+]]）全球旗舰项目。
 
 ---
 
@@ -145,7 +147,7 @@ graph TD
 > | [[Two Problematics of Educational Inclusion and Exclusion]] | Theory | **批判反思视角** 揭示 TEMPUS 在推进制度包容与代表性的同时，在知识分类系统层面生产出新型外围排斥。 |
 > | [[Bologna Process]] | Fact (Policy) | **体制对齐基准** 项目实施后期全面对齐博洛尼亚进程学制与学分转换标准。 |
 > | [[Tuning Project]] | Fact (Program) | **协同支撑项目** 博洛尼亚进程中具体研制各学科核心能力参考框架的欧盟同行协作方案。 |
-> | 安东尼奥·诺沃亚（António Nóvoa） | 学者 | **关键理论家** 深入解构欧洲流动性[[Discourse\|话语]]如何生产超国家公民认同与欧洲社会想象。 |
+> | [[António Nóvoa\|安东尼奥·诺沃亚]]（António Nóvoa） | 学者 | **关键理论家** 深入解构欧洲流动性[[Discourse\|话语]]如何生产超国家公民认同与欧洲社会想象。 |
 
 ---
 

@@ -11,7 +11,7 @@ aliases:
 summary: "驱动国家科技战略、大学治理变革与劳动力技能重塑的核心逻辑与地缘政治装置。在宏观上体现为长程战略计算、先进制造与地缘威慑；在中观上体现为产学中心破除学科壁垒与排名审计重塑大学；在微观上体现为产线组织学习与学习分析；卡普与扎米斯卡进一步论证，国家千年期战略决断、创始人长期主义与全员股权所有权模式，构成了抵御短期金融化与维系持久科技竞争力的决定性底座。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 71
+related_count: 72
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -83,6 +83,7 @@ related_facts:
   - "[[Goh Report]]"
   - "[[World Bank]]"
   - "[[National Science Foundation]]"
+  - "[[Erasmus Programme]]"
   - "[[TEMPUS]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Competitive Semiconductor Manufacturing Program]]"
@@ -312,7 +313,7 @@ updated: 2026-10-10
 
 > [!claim] Papatsiba (2005, 2006); Nóvoa (2002); [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]]
 > **跨国流动性与就业竞争力风险的个体化承担** 诺亚·索比与梅丽莎·菲舍尔援引帕帕齐巴（Papatsiba, 2005, 2006）关于欧洲一体化与高等教育[[Student Mobility|学生流动性]]的研究指出，超国家教育治理通过将“流动性”（Mobility）[[Coding in Qualitative Research|编码]]为 enfranchised 公民的黄金资产，实质上构筑了一种巧妙的新自由主义[[Governmentality|治理术]]：
-> 1. **胜任力话语对就业风险的转嫁** 欧洲联盟在伊拉斯谟计划（ERASMUS）与[[TEMPUS|天普计划]]框架下，将跨国学业流动打造成以[[Employability|就业能力]]为核心的个体化教育实践；
+> 1. **胜任力话语对就业风险的转嫁** 欧洲联盟在[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）与[[TEMPUS|天普计划]]框架下，将跨国学业流动打造成以[[Employability|就业能力]]为核心的个体化教育实践；
 > 2. **公民修辞与竞争理性的双重编码** 尽管政策修辞高调颂扬文化多样性、欧洲认同与公民游学理想，其实质是将应对全球化劳动力市场弹性需求、跨文化适应与职业竞争的责任，全面转嫁给青年个体，要求其通过自费或自发流动累积“国际竞争力”，从而在宏观上免除了国家兜底充分就业的福利责任。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 
 ---

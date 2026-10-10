@@ -10,7 +10,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -33,13 +33,14 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Erasmus Programme]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-09-22
+updated: 2026-10-10
 ---
 
 # CREATES Project
@@ -50,7 +51,7 @@ updated: 2026-09-22
 
 > [!event-context] 事件背景
 > - **时间 / 地点** 2017–2020 年，覆盖荷兰、德国、英国等 6 所欧洲文理学院（Liberal Arts and Sciences Colleges）。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 8)]]
-> - **关键主体** 欧盟委员会 Erasmus+ 战略合作伙伴项目资助，由荷兰马斯特里赫特大学（Maastricht University）、德国弗莱堡大学等联合主持。
+> - **关键主体** 欧盟委员会 [[Erasmus Programme|Erasmus+]] 战略合作伙伴项目资助，由荷兰马斯特里赫特大学（Maastricht University）、德国弗莱堡大学等联合主持。
 > - **制度背景** 高等教育迫切需要将以学生为中心的主动[[Inquiry-Based Learning\|探究学习]]转化为可操作的课程与评价工具包。
 > - **触发条件** 研发一套能够全面激发学生[[Self-Directed Learning\|自我导向学习]]（Self-Directed Learning）、批判性反思与[[Creative Problem Solving\|创造性问题解决]]的开源工具集。
 

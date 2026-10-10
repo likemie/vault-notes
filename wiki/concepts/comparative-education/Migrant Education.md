@@ -9,7 +9,7 @@ aliases:
 summary: "流动儿童教育是指面向因父母生计迁移、季节性务工或无证流动而处于迁徙过渡状态的学龄儿童所实施的教育供给与治理模式；在比较教育学与空间治理视野下，流动儿童教育不同于预设永久定居与文化同化的传统移民教育，而是深受身份登记、空间封闭与学籍准入制度的规制，体现了现代学校作为人口治理容器与向上流动资格筛选关卡的双重政治功能。"
 type: concept
 domain: "comparative-education"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
   - theme/educational-equity
   - theme/student-mobility
 related_concepts:
+  - "[[Migrant Children]]"
   - "[[Intercultural Education]]"
   - "[[Language Skills]]"
   - "[[Student Mobility]]"
@@ -43,6 +44,7 @@ related_persons:
   - "[[Thomas S. Popkewitz]]"
 related_facts:
   - "[[Hukou System]]"
+  - "[[Schools for Migrant Children]]"
   - "[[Plyler v. Doe 1982]]"
   - "[[Elementary and Secondary Education Act of 1965]]"
   - "[[No Child Left Behind Act 2001]]"
@@ -61,7 +63,7 @@ updated: 2026-10-10
 ## 定义
 
 > [!def] 核心定义
-> **流动儿童教育（Migrant Education）** 是指面向因家庭跨区域经济流动、季节性生计转移、内部务工或跨境身份未决而处于“流转/过渡状态”（in transit）的学龄群体所推行的制度安排、教学供给与公共政策。在比较教育学与批判社会学视角下，流动儿童教育不仅关涉弱势群体的受教育权保障，更是现代国家通过划分地理区域、登记人口身份与划定学校空间边界，对人口流动性（Mobility）实施识别、规制与筛选的核心机制。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 364–366)]]
+> **[[Migrant Children|流动儿童]]教育（Migrant Education）** 是指面向因家庭跨区域经济流动、季节性生计转移、内部务工或跨境身份未决而处于“流转/过渡状态”（in transit）的学龄群体所推行的制度安排、教学供给与公共政策。在比较教育学与批判社会学视角下，流动儿童教育不仅关涉弱势群体的受教育权保障，更是现代国家通过划分地理区域、登记人口身份与划定学校空间边界，对人口流动性（Mobility）实施识别、规制与筛选的核心机制。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 364–366)]]
 
 > [!concept-lens] 概念透镜与理论辨析
 > 在概念谱系与制度预设上，“流动儿童教育”与传统意义上的“移民教育”（Immigrant Education）存在实质区隔：
@@ -72,7 +74,7 @@ updated: 2026-10-10
 
 ## 跨国比较图景与政策形态
 
-在全球比较视野中，流动儿童教育并非整齐划一的制度模式，而是在不同国家的历史传统、法律框架与空间政治下呈现出高度异质的发展样态：
+在全球比较视野中，[[Migrant Children|流动儿童]]教育并非整齐划一的制度模式，而是在不同国家的历史传统、法律框架与空间政治下呈现出高度异质的发展样态：
 
 ```mermaid
 graph TD
@@ -87,7 +89,7 @@ graph TD
 ### 1. 中国：城乡二元体制下的随迁子女博弈
 在中国快速城市化与工业化进程中，流动儿童教育主要体现为超过 2000 万农村随迁务工子女的就学问题。这一实践被国家刚性的[[Hukou System|户籍制度]]（Hukou）深刻规制：
 - **制度壁垒与准入排斥** 由于义务教育财政拨款与户籍属地紧密挂钩，迁入地城市公立学校长期向流动家庭设立极高的户籍准入门槛或收取巨额赞助费。
-- **自发办学与空间合法性清理** 农民工群体在城乡结合部自发创立打工子弟学校，虽有效弥补了学位缺口，但往往因办学条件简陋被地方行政部门定性为“非正规/非法办学”。2006 年北京等特大城市对数百所打工子弟学校的集中关停与拆迁，集中暴露出空间治理权力对未登记流动群体的空间驱逐与资格剥夺。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 365)]]
+- **自发办学与空间合法性清理** 农民工群体在城乡结合部自发创立[[Schools for Migrant Children|打工子弟学校]]，虽有效弥补了学位缺口，但往往因办学条件简陋被地方行政部门定性为“非正规/非法办学”。2006 年北京等特大城市对数百所打工子弟学校的集中关停与拆迁，集中暴露出空间治理权力对未登记流动群体的空间驱逐与资格剥夺。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 365)]]
 
 ### 2. 美国：司法平权与联邦流动教育项目
 在美国，流动儿童教育集中交织在无证跨境移民与季节性农业流动农工学童（Children of the Road）的双重视野中：
@@ -116,7 +118,7 @@ graph TD
 > [!citation-card]
 > **Popkewitz & Lindblad (2000) 论[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]在流动教育中的交织**
 > [[Thomas S. Popkewitz|托马斯·S·波普科维茨]]与斯韦克·林德布拉德指出，对弱势人口教育处境的考察必须统合“公平-参与问题式”与“[[Knowledge Questions|知识问题]]式”：
-> - **公平-参与维度** 流动儿童在国家治理中往往面临实体性的资源匮乏与准入剥夺（如公立学校门槛、拨款短缺、办学资质受限）；
+> - **公平-参与维度** [[Migrant Children|流动儿童]]在国家治理中往往面临实体性的资源匮乏与准入剥夺（如公立学校门槛、拨款短缺、办学资质受限）；
 > - **知识与文化分类维度** 更为隐蔽的是，教育体制内部运作着将“流动性”视为病态、将“定居”视为常态的知识理性体系。流动儿童即使坐在同一间教室里，也往往被测试标准与分类[[Discourse|话语]][[Coding in Qualitative Research|编码]]为“落后”、“文化缺失”或“有待矫正的偏常群体”，在象征秩序上完成二次排斥。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 367–368)]]
 
 > [!warrant] 比较教育学研究的新启示

@@ -7215,6 +7215,19 @@
     ]
   },
   {
+    "title": "Multiple Institution Attendance",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Multiple Institution Attendance.md",
+    "aliases": [
+      "多机构就读",
+      "跨校就读",
+      "多校修读",
+      "高校转学流动",
+      "multiple institution enrollment",
+      "concurrent enrollment across institutions"
+    ]
+  },
+  {
     "title": "New Managerialism",
     "type": "concept",
     "path": "wiki/concepts/higher-education/New Managerialism.md",
@@ -12897,6 +12910,18 @@
     ]
   },
   {
+    "title": "Migrant Children",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Migrant Children.md",
+    "aliases": [
+      "随迁儿童",
+      "进城务工人员随迁子女",
+      "流动儿童",
+      "随迁子女",
+      "Children of Migrant Workers"
+    ]
+  },
+  {
     "title": "Nerd",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Nerd.md",
@@ -13192,6 +13217,19 @@
       "能力分组",
       "ability grouping",
       "streaming"
+    ]
+  },
+  {
+    "title": "Transiency",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Transiency.md",
+    "aliases": [
+      "流动漂泊",
+      "学年中途转学",
+      "学生漂泊",
+      "学生非正常流动",
+      "transiency in education",
+      "school transiency"
     ]
   },
   {
@@ -22818,6 +22856,18 @@
     ]
   },
   {
+    "title": "António Nóvoa",
+    "type": "person",
+    "path": "wiki/persons/portugal/António Nóvoa.md",
+    "aliases": [
+      "安东尼奥·诺沃亚",
+      "安东尼奥·诺瓦",
+      "Antonio Novoa",
+      "Nóvoa, A.",
+      "António Manuel Seixas Sampaio da Nóvoa"
+    ]
+  },
+  {
     "title": "Anatoly Lunacharsky",
     "type": "person",
     "path": "wiki/persons/russia/Anatoly Lunacharsky.md",
@@ -26794,6 +26844,20 @@
     ]
   },
   {
+    "title": "Schools for Migrant Children",
+    "type": "fact",
+    "path": "wiki/facts/china/Schools for Migrant Children.md",
+    "aliases": [
+      "打工子弟学校",
+      "农民工子弟学校",
+      "流动儿童学校",
+      "民办打工子弟学校",
+      "随迁子女学校",
+      "Migrant Worker Schools",
+      "Migrant Schools"
+    ]
+  },
+  {
     "title": "Chinese Academy of Sciences",
     "type": "fact",
     "path": "wiki/facts/china/Chinese Academy of Sciences.md",
@@ -27326,6 +27390,18 @@
       "CRITHINKEDU",
       "高等教育课程批判性思维项目",
       "Critical Thinking in Higher Education Curricula"
+    ]
+  },
+  {
+    "title": "Erasmus Programme",
+    "type": "fact",
+    "path": "wiki/facts/eu/Erasmus Programme.md",
+    "aliases": [
+      "伊拉斯谟计划",
+      "伊拉斯谟项目",
+      "ERASMUS",
+      "Erasmus+",
+      "European Community Action Scheme for the Mobility of University Students"
     ]
   },
   {

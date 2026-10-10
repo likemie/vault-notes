@@ -8,7 +8,7 @@ aliases:
 summary: "旅行者教育是指面向大篷车居民、旅行者以及罗姆/吉普赛族群儿童的专门教育政策与教学干预实践；该领域聚焦于具有漫游传统的少数群体所承受的社会污名、正规学校内部高度结构化的空间区隔引发的文化与身体失调，以及多元文化政策在追求社会融入与尊重社群空间自主性之间的内在张力。"
 type: concept
 domain: "comparative-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Nomadic Education]]"
   - "[[Sedentarism]]"
+  - "[[Migrant Children]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Habitus]]"
   - "[[Heterogeneity]]"
@@ -73,7 +74,7 @@ updated: 2026-10-10
 > [!contrast-table] 概念辨析
 > | 维度 | 旅行者教育（Traveller Education） | [[Nomadic Education\|游牧教育]]（Nomadic Education） | 普通跨国移民教育（Immigrant Education） |
 > |------|-----------------------------------|---------------------------------------------|----------------------------------------|
-> | 群体底色 | 具有漫游大篷车传统的本土少数群体与东欧罗姆人 | 依附草原荒漠生态的季节性迁徙放牧牧民 | 跨境跨国流动的劳工家庭及其随迁子女 |
+> | 群体底色 | 具有漫游大篷车传统的本土少数群体与东欧罗姆人 | 依附草原荒漠生态的季节性迁徙放牧牧民 | 跨境跨国流动的劳工家庭及其[[Migrant Children\|随迁子女]] |
 > | 空间摩擦点 | 学校内部网格化坐班、封闭教室与严密作息[[Disciplina and Doctrina\|规训]] | 固定封闭校舍与长途季节性放牧转场路线冲突 | 居住证学籍准入、语言障碍与居住区空间隔离 |
 > | 政策两难 | 促进公民融入 vs 维系社群边界与大篷车生活自主 | 强制推行定居同化 vs 牧民家庭非农保险防风险 | 同化入籍促进融合 vs 承认多元文化与母语存续 |
 

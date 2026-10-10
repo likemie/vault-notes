@@ -7,10 +7,10 @@ aliases:
 summary: "定居主义是一种将固定地域居住、扎根生活与空间稳定视为人类文明、秩序与理性默认基准的认识论偏见与治理意识形态；该观念将物理流动与漫游状态编码为落后、病态或缺乏教化的社会偏常，在现代教育体制中为强制定居化改造、学籍空间壁垒与学校封闭容器规训提供了正当性辩护。"
 type: concept
 domain: "comparative-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/comparative-education
   - theme/spatial-turn
@@ -20,10 +20,12 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Bildung]]"
   - "[[Paradigm]]"
+  - "[[Transiency]]"
   - "[[Discourse]]"
   - "[[Temporalization of Space]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Boarding Schools]]"
+  - "[[Migrant Children]]"
   - "[[Habitus]]"
   - "[[Variable]]"
   - "[[Student Mobility]]"
@@ -59,7 +61,7 @@ updated: 2026-10-10
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向将空间固定性天然优位化、将流动性病理化的思维[[Paradigm|范式]]与制度分类逻辑。
-> - **用途** 帮助研究者透视现代教育政策为何倾向于将流动学生定性为“漂泊赤字（Transiency Deficit）”，揭示强制定居化学校背后的文明等级偏见。
+> - **用途** 帮助研究者透视现代教育政策为何倾向于将流动学生定性为“漂泊赤字（[[Transiency]] Deficit）”，揭示强制定居化学校背后的文明等级偏见。
 > - **边界** 不等于具体的定居行为本身；定居主义是一种价值化、规范性的权力[[Discourse|话语]]与认知框架，关乎对不同生存方式的合法性裁判。
 
 > [!citation-card] 定居基准与流动病理化的文化[[Coding in Qualitative Research|编码]]
@@ -88,9 +90,9 @@ updated: 2026-10-10
 
 > [!feature] 核心要素
 > - **定居基准的规范化（Normalization of Settlement）** 将稳定的地理扎根预设为主体健全发育、公民资格确认与道德责任承担的必要前置条件。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 361)]]
-> - **流动的病理化与道德贬抑（Pathologization of Movement）** 在政策与学术[[Discourse|话语]]中，底层群体因生计所迫的空间位移被命名为漂泊（Transiency）或流窜（Itinerancy），与家庭功能失调、学业失败和秩序破坏深度捆绑。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 363–364)]]
+> - **流动的病理化与道德贬抑（Pathologization of Movement）** 在政策与学术[[Discourse|话语]]中，底层群体因生计所迫的空间位移被命名为漂泊（[[Transiency]]）或流窜（Itinerancy），与家庭功能失调、学业失败和秩序破坏深度捆绑。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 363–364)]]
 > - **精英与底层流动的阶层双标（Class-Bifurcated Mobility Coding）** 文化精英跨越国界的自决漫游被加冕为面向未来的国际化美德，而弱势群体的迁徙则被判定为亟待管制的社会风险。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
-> - **同化式空间[[Disciplina and Doctrina|规训]]技术（Assimilationist Spatial Disciplining）** 国家依托[[Boarding Schools|寄宿学校]]与封闭教室，强制切断流动儿童原有的身体移动[[Habitus|习性]]，强行注入定居作息节律。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 366–367)]]
+> - **同化式空间[[Disciplina and Doctrina|规训]]技术（Assimilationist Spatial Disciplining）** 国家依托[[Boarding Schools|寄宿学校]]与封闭教室，强制切断[[Migrant Children|流动儿童]]原有的身体移动[[Habitus|习性]]，强行注入定居作息节律。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 366–367)]]
 
 > [!logic-map]- 定居主义意识形态在教育系统中的运作逻辑
 > ```mermaid
@@ -118,7 +120,7 @@ updated: 2026-10-10
 > **静止优位与流动等级论** 人类学与社会理论长期以定居为常态[[Paradigm|范式]]，将原地留存的生活方式视为有待外部开化的落后残余；流动性本身被划分为两极：文化精英的自由旅行被浪漫化为自主能动性，而劳工与难民的迫迁则被赋予依赖与无能的烙印。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 361)]]
 
 > [!claim] Sobe, N. W. & Fischer, M. G.
-> **学校问责中的漂泊赤字编码** 在美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》实施背景下，政策话语从描述客观的流动（Mobility）滑向定罪式的漂泊（Transiency），将底层学生中途转学判定为无法过上正常定居生活的病理表征，进而使学校能够以生源异化为由推卸绩效不达标责任，完成了对流动儿童的系统性道德贬抑。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 363–364)]]
+> **学校问责中的漂泊赤字编码** 在美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》实施背景下，政策话语从描述客观的流动（Mobility）滑向定罪式的漂泊（[[Transiency]]），将底层学生中途转学判定为无法过上正常定居生活的病理表征，进而使学校能够以生源异化为由推卸绩效不达标责任，完成了对[[Migrant Children|流动儿童]]的系统性道德贬抑。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 363–364)]]
 
 ---
 
@@ -180,4 +182,4 @@ updated: 2026-10-10
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 结合欧美政策对比及亚欧非多国案例，系统批判现代教育体制中的定居主义意识形态及其对流动儿童的制度排斥。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 结合欧美政策对比及亚欧非多国案例，系统批判现代教育体制中的定居主义意识形态及其对[[Migrant Children|流动儿童]]的制度排斥。

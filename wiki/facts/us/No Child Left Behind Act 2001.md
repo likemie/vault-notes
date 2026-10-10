@@ -30,6 +30,7 @@ related_concepts:
   - "[[Student Mobility]]"
   - "[[Operationalization]]"
   - "[[Document]]"
+  - "[[Transiency]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Data-Based Decision Making]]"
   - "[[Paradigm]]"
@@ -170,7 +171,7 @@ updated: 2026-10-10
 > - **中央标准与地方测试落实** 各州依据联邦框架制定阅读与数学学术标准，并在 3–8 年级及高中阶段推行年度全员统考；学校与学区被强制要求公开发布按种族、家庭收入、特殊教育需求及英语学习者（EL）分层的学生学业细分报告。
 > - **非学校情境缺失引发的治理危机** [[Argument_Downey_2016_SoE\|Downey & Condron (2016, pp. 10–11)]] 指出，NCLB 最初实施时完全依赖单一时间点的绝对通过率来评估学校，未对校际之间显著的非学校环境（如家庭社会经济地位差距）进行任何统计调整。由于校际成就差距在儿童进入幼儿园时便已广泛成型，这种不考虑情境的静态考评在方法学与教育学上毫无道理。
 > - **向增值评估（Value-Added Assessments）的制度转变** 面对治理危机，多州在执行后期逐步摒弃静态通过率，转向运用统计模型分离学校净增贡献的增值评估模型。Downey & Condron 将这一转变定性为“情境方的一次值得关注的胜利”（a noteworthy acknowledgment by policymakers that context matters），表明政策制定者被迫承认了学校外部社会环境的基础性作用。([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p. 11]])
-> - **学校报告卡与[[Student Mobility|学生流动]]的病态化[[Coding in Qualitative Research|编码]]** 法案强制推行的“学校报告卡”（School Report Card）要求公开追踪中小学生的学年中途转校率（[[Student Mobility|学生流动性]]）。在问责指标体系中，学生流动被问题化为表征贫困、家庭破裂与学业失败的“流动漂泊”（Transiency），并被学校管理层视作解释未能达成 AYP 绩效目标的潜在推卸借口或失范指标，折射出空间[[Governmentality|治理术]]将不服从空间圈禁的学生界定为越轨群体的[[Disciplina and Doctrina|规训]]逻辑。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
+> - **学校报告卡与[[Student Mobility|学生流动]]的病态化[[Coding in Qualitative Research|编码]]** 法案强制推行的“学校报告卡”（School Report Card）要求公开追踪中小学生的学年中途转校率（[[Student Mobility|学生流动性]]）。在问责指标体系中，学生流动被问题化为表征贫困、家庭破裂与学业失败的“[[Transiency|流动漂泊]]”（Transiency），并被学校管理层视作解释未能达成 AYP 绩效目标的潜在推卸借口或失范指标，折射出空间[[Governmentality|治理术]]将不服从空间圈禁的学生界定为越轨群体的[[Disciplina and Doctrina|规训]]逻辑。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
 > - **各州标准碎片化与“竞相向下沉沦”（Race to the Bottom）** NCLB 授权各州自主界定“熟练”（proficient）标准并选择统考测验，导致全美形成 50 套互不可比的割裂标准。为规避未达 AYP 带来的严厉联邦制裁与重组处罚，大量州政府纷纷采取下调考试及格线、简化试题难度的“战略性妥协”。美国国家教育统计中心（National Center for Education Statistics, NCES, 2007）的实证映射研究确证，部分州报告的高达 80%–90% 的熟练率在国家教育进展评估（[[National Assessment of Educational Progress|NAEP]]）标准下仅对应 30% 左右的真实熟练水平。各州间的巨大差距与竞相向下沉沦的逆向激励，直接暴露了 NCLB 分权标准的制度失灵，为后续推动全美统一的[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）提供了最直接的危机动员依据。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
 
 ---
@@ -195,7 +196,7 @@ updated: 2026-10-10
 > | NCES (2007)，引自 [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013, pp. 8–9)]] | 全美各州 2005 年州立统考与 NAEP 成绩对照数据 | 宏观政策映射与心理测量分数等值化分析 | 各州自定熟练线（Proficiency Cut-score）在 NAEP 尺度上的等值分数与达标率断层 | 多州公布的 **80%–90%** 达标率在 NAEP 尺度下仅对应 **25%–35%** 真实熟练度；各州自定标准最大跨度达两个完整年级水准 | 实证证实 NCLB 问责诱发各州普遍下调标准（竞相向下沉沦），构成 CCSS 统一国家标准运动的直接催化依据 |
 > | Hanushek (2005)，引自 [[Argument_Hattie_2005_ACER\|Hattie (2005, pp. 12–13)]] | 全美公立学校 1960–2000 年宏观纵向数据 | 宏观教育经济学纵向追踪分析 | 财政生均支出、生师比、高学历教师占比 vs NAEP 17 岁[[Academic Achievement\|学业成绩]] | 生均实际支出激增 **240%**（\$2,235 $\to$ \$7,591），生师比降至 17.3，硕士师资升至 56%，但 NAEP 成绩近乎完全平缓停滞 | 揭示了传统资源投入与学业产出的严重脱钩，构成 NCLB 高利害问责立法的主要推力 |
 > | Linn (2003)，引自 [[Argument_Hattie_2005_ACER\|Hattie (2005, p. 12)]] | 全美 NAEP 统考历史增长率模型 | 统计外推与增长率线性建模 | 达成 100% 熟练水平（Proficiency）所需时间 | 按历史实际速率，四年级数学需 **150 年**、八年级数学需 **160 年** 方能实现 100% 达标 | 实证证实 NCLB 设定的 2014 年全员达标指标违背统计规律与教育现实 |
-> | Offenberg (2004)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009, p. 362)]] | 费城学区城市公立中小学校 | [[Multiple Regression\|多元回归]]与问责指标归因分析 | 学校报告卡中转校率（Transiency）对学校 AYP 达标的影响 | 高流动率被学校管理者普遍用作未能达成 AYP 的核心辩护借口；实证显示流动性显著负向预测学校统考达标率 | 揭示了问责制将人口结构性流动转化为学校推卸责任与病态化学生的治理异化 |
+> | Offenberg (2004)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009, p. 362)]] | 费城学区城市公立中小学校 | [[Multiple Regression\|多元回归]]与问责指标归因分析 | 学校报告卡中转校率（[[Transiency]]）对学校 AYP 达标的影响 | 高流动率被学校管理者普遍用作未能达成 AYP 的核心辩护借口；实证显示流动性显著负向预测学校统考达标率 | 揭示了问责制将人口结构性流动转化为学校推卸责任与病态化学生的治理异化 |
 | Rumberger (2003); Kerbow et al. (2003)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009, p. 363)]] | 全美加州及芝加哥公立学校弱势学童 | 纵向追踪与家庭流动动因调查 | 居住搬迁在学生转学中的占比；低收入家庭转校的避险动机 | **60%** 的转学由居住搬迁直接诱发；贫困家庭高频转校往往属于主动逃避校园暴力与劣质教学的策略性避险 | 强力[[Falsification\|证伪]]了 NCLB 政策假定中将学生流动等同于“家庭失范”与“学业冷漠”的赤字[[Discourse\|话语]] |
 | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | 全美 1988–2017 年中小学实证[[Intervention Research\|干预研究]]库 | 政策法案与因果实证[[Document\|文献]]演进分析 | 符合严格因果标准（ESSA 强/中等）的研究产出数量 | 1988–2003 年（NCLB 前期）每两年仅产出 **0–2 项**合格因果研究；[[Institute of Education Sciences\|IES]] 成立及 i3 实施后跃升至每两年 **20+ 项** | 证明单纯提出“科学本位研究”口号无效，唯有配套公共研发管线才能形成项目存量 |
 | Nichols & Berliner (2007)，引自 [[Argument_Zhao_2017_JEC\|Zhao (2017)]] | 全美多州公立中小学师生与管理者 | 全国性[[Questionnaire\|问卷调查]]与高风险问责行为分析 | 考场作弊、免考排斥与科目课时变化 | 约 **10%** 教师与管理者存在修改答案等作弊行为；非统考科目（音体美社会）课时被系统性削减 | 实证确证了坎贝尔定律下高利害外部测试对教学行为与学校生态的严重扭曲 |
@@ -232,7 +233,7 @@ updated: 2026-10-10
 > >
 > > - **奥芬伯格（Offenberg, 2004）** 证明学校管理层将高流动率转化为未能达成 [[Adequate Yearly Progress|AYP]] 的规避借口，使流动学生沦为学校免责的制度替罪羊。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 362)]]
 > > - **伦伯格（Rumberger, 2003）与科博等（Kerbow et al., 2003）** 实证表明 60% 的转校由居住变动诱发，低收入家庭往往主动通过流动逃离暴力与失败学校，而 NCLB 的固定空间圈禁惩罚了弱势家庭的自救行动。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
-> > - **索贝与菲舍尔（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）** 批评 NCLB 的学校报告卡通过将空间流动病态化为“漂泊”（transiency），再生产了空间围堵与人口分类治理，与欧洲将流动视为积极公民资本的政策形成鲜明对比。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
+> > - **索贝与菲舍尔（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）** 批评 NCLB 的学校报告卡通过将空间流动病态化为“漂泊”（[[Transiency]]），再生产了空间围堵与人口分类治理，与欧洲将流动视为积极公民资本的政策形成鲜明对比。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
 
 > [!citation-card] 政策逆向激励与“竞相向下沉沦”
 > 由于 NCLB 允许各州自行定义“熟练”水准并自主选择测验工具，该法律给各州施加了巨大的逆向激励，迫使其下调及格门槛以规避严厉制裁，从而引发了批评者所谓的“竞相向下沉沦”。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]

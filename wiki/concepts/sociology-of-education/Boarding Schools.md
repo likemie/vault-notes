@@ -9,7 +9,7 @@ aliases:
 summary: "以学生全天候在校寄宿与全域生活管理为组织特征的学校形态；既是现代国家通过物理隔离推行定居主义与文化同化的空间圈禁工具，又是维系精英阶层社会资本再生产与当代跨国文凭跳板的特权机构。"
 type: concept
 domain: "sociology-of-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Chinese Learner]]"
   - "[[International Schools]]"
+  - "[[Migrant Children]]"
   - "[[Champ]]"
   - "[[Document]]"
   - "[[Intercultural Education]]"
@@ -69,7 +70,7 @@ updated: 2026-10-10
 > - **阶层再生产与跨国文凭跳板** 在西方精英教育与当代[[International Education|国际教育]]市场中，私立寄宿学校充当阶层社会资本网络结识的高阶孵化器，并为来自非西方背景的富裕家庭（如[[Chinese Learner|中国学习者]]）提供通往全球顶尖大学的升学跳板。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 20–21)]]
 
 > [!boundary]- 概念边界
-> - **vs [[International Schools|国际学校]]（[[International Schools]]）** 寄宿学校通常位于学校母国境内（如英国、澳大利亚、加拿大本土），学生跨国或跨区域“返回/进入”母国就读并提供全套食宿；而国际学校广泛分布于全球海外各地，主要服务外籍人员随迁子女及当地非本国课程生源，通常以日间走读为主。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, p. 20)]]
+> - **vs [[International Schools|国际学校]]（[[International Schools]]）** 寄宿学校通常位于学校母国境内（如英国、澳大利亚、加拿大本土），学生跨国或跨区域“返回/进入”母国就读并提供全套食宿；而国际学校广泛分布于全球海外各地，主要服务外籍人员[[Migrant Children|随迁子女]]及当地非本国课程生源，通常以日间走读为主。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, p. 20)]]
 > - **vs 专门感化/收容机构（Reformatories）** 感化机构具有强制司法判决与惩戒定性；寄宿学校在法律上属于正规初等与中等教育学术机构，具备完备的学科课程体系与文凭授予资质。
 
 ---

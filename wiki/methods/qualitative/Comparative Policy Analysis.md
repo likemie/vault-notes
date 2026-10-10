@@ -8,7 +8,7 @@ summary: "公共政策与比较政治经济学中系统比较不同国家、地�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 27
+method_related_count: 28
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Student Mobility]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Competitiveness]]"
+  - "[[Transiency]]"
   - "[[Epistemology]]"
   - "[[Value Neutrality]]"
   - "[[Heterogeneity]]"
@@ -45,6 +46,7 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_facts:
+  - "[[Erasmus Programme]]"
   - "[[No Child Left Behind Act 2001]]"
 related_arguments:
   - "[[Argument_Bulfone_2024_IAI]]"
@@ -76,7 +78,7 @@ updated: 2026-10-10
 > *In section two, we compare the industrial policy plans adopted by the United States and the EU along five dimensions identified as crucial in the industrial policy literature: protagonists (the main actors carrying out the industrial policy effort), goals, size/financial commitment, type of policy instruments used [...], and the forms of [[Policy Conditionalities|Conditionalities]] attached to public support.*
 
 > [!citation-card] 跨大西洋政策话语与[[Spatial Governmentality|空间治理术]]比较
-> 比较政策分析通过对质跨大西洋教育政策话语，揭示了流动性意义建构的深层分野：在欧洲联盟政策语境中，[[Student Mobility|学生流动性]]被赞颂为培育超国家欧洲公民认同与[[Knowledge-Based Economy|知识经济]][[Competitiveness|竞争力]]的理想资本（如伊拉斯谟计划）；而在美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》框架下，学生跨校流动却被规训为表征贫困、家庭破裂与学业失败的“漂泊”（transiency），沦为解释学校未能达标的病态指标。政策对比不仅展现了工具差异，更暴露了空间围堵与人口治理理性的根本分歧。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
+> 比较政策分析通过对质跨大西洋教育政策话语，揭示了流动性意义建构的深层分野：在欧洲联盟政策语境中，[[Student Mobility|学生流动性]]被赞颂为培育超国家欧洲公民认同与[[Knowledge-Based Economy|知识经济]][[Competitiveness|竞争力]]的理想资本（如[[Erasmus Programme|伊拉斯谟计划]]）；而在美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》框架下，学生跨校流动却被规训为表征贫困、家庭破裂与学业失败的“漂泊”（[[Transiency]]），沦为解释学校未能达标的病态指标。政策对比不仅展现了工具差异，更暴露了空间围堵与人口治理理性的根本分歧。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
 >
 > *Mobility can be valued and promoted as an essential attribute of the flexible, cosmopolitan citizen... or it can be pathologized as a sign of disorder, social dislocation, and academic failure requiring spatial containment.*
 
@@ -120,7 +122,7 @@ updated: 2026-10-10
 > [!proc] 质性分析程序
 > 1. **文本搜集与法规范畴锚定** 检索并系统整理比照案例的法定政策文本、配套拨款审查准则与行政评估手册。
 > 2. **比较维度矩阵构建** 确立制度功能维度（主体、目标、工具、资金、约束）或话语[[Paradigm|范式]]维度（问题化定义、主体道德编码、空间规训策略）。
-> 3. **跨案例横向对质与话语解构** 运用[[Content Analysis|内容分析法]]与批判[[Discourse Analysis|话语分析]]，对平行维度的法条表述、关键词汇（如 mobility vs. transiency）与规训机制展开结构化对质。
+> 3. **跨案例横向对质与话语解构** 运用[[Content Analysis|内容分析法]]与批判[[Discourse Analysis|话语分析]]，对平行维度的法条表述、关键词汇（如 mobility vs. [[Transiency]]）与规训机制展开结构化对质。
 > 4. **制度生成逻辑与空间政治解释** 结合各国宪制权力分配、财政体系及社会历史语境，阐明政策异同背后的制度能力与治理理性。
 
 ---
@@ -142,4 +144,4 @@ updated: 2026-10-10
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al., 2024]] — 针对美欧半导体产业政策构建涵盖治理主体、政策目标、资金规模、政策工具与[[Policy Conditionalities|制度化附加条件]]的五维比较[[Analytic Framework|分析框架]]，揭示美国集中式补贴模式与欧盟去中心化“协调者”模式的制度差异与效能分化。
-> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]] — 采用跨大西洋与跨国比较政策分析，对比欧盟伊拉斯谟计划将[[Student Mobility|学生流动性]]建构为世界公民积极资本与美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》将学生流动性[[Coding in Qualitative Research|编码]]为病态化“漂泊”问责借口的[[Discourse|话语]]机制，并系统比较中、美、西、英、印等国对流动学童的空间教育治理政策。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]] — 采用跨大西洋与跨国比较政策分析，对比欧盟[[Erasmus Programme|伊拉斯谟计划]]将[[Student Mobility|学生流动性]]建构为世界公民积极资本与美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》将学生流动性[[Coding in Qualitative Research|编码]]为病态化“漂泊”问责借口的[[Discourse|话语]]机制，并系统比较中、美、西、英、印等国对流动学童的空间教育治理政策。

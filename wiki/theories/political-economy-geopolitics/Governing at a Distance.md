@@ -57,6 +57,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[Bruno Latour]]"
+  - "[[António Nóvoa]]"
   - "[[Sigrid Hartong]]"
   - "[[Eleftherios Klerides]]"
   - "[[Isaiah Berlin]]"
@@ -107,7 +108,7 @@ updated: 2026-10-08
 
 > [!dev-timeline] 理论版本与贡献
 > - **1992 — 政治社会学框架确立** Rose & Miller 将治理术空间化与技术化，界定“转译”、“专业知识”与“技术网络”为远处治理三大支柱。（Rose & Miller, 1992）
-> - **2003–2009 — 数字与指标治理转型** 安东尼奥·诺沃亚（António Nóvoa）与珍妮·奥兹加（Jenny Ozga）将理论引入比较教育学，提出“以数据行使治理”（[[Governing by Numbers]]），揭示跨国教育基准如何构成新型远处治理平台。（Nóvoa & Yariv-Mashal, 2003; Ozga, 2009）
+> - **2003–2009 — 数字与指标治理转型** [[António Nóvoa|安东尼奥·诺沃亚]]（António Nóvoa）与珍妮·奥兹加（Jenny Ozga）将理论引入比较教育学，提出“以数据行使治理”（[[Governing by Numbers]]），揭示跨国教育基准如何构成新型远处治理平台。（Nóvoa & Yariv-Mashal, 2003; Ozga, 2009）
 > - **2018 — [[Topological Spatialisation\|拓扑空间化]]与国家计算中心重组** [[Sigrid Hartong\|西格丽德·哈通]]（Sigrid Hartong）整合 [[Actor-Network Theory\|ANT]] 计算中心与拓扑地理学，剖析德国在各州享有文化宪政主权且禁止公开排名的体制下，如何通过设立国家计算中心（[[Institute for Educational Quality Improvement\|IQB]]）与拓扑[[Data Infrastructure\|数据基础设施]]（[[Vergleichsarbeiten\|VERA]]）实现跨尺度的远处治理。（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 134–146]]）
 > - **2022–2023 — 全球地缘政治与微观学术主体性批判** [[Eleftherios Klerides\|埃莱夫塞里奥斯·克莱里德斯]]（Eleftherios Klerides）解构国际组织测评作为分散权威下的地缘[[Disciplina and Doctrina\|规训]]工具；米哈尔·泽林卡（Michal Zelinka）揭示单一受试设计（[[Single-Case Design\|SCD]]）等因果量规如何远距塑造学者的自我认知。（[[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 424–425]]；[[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, pp. 251–260]]）
 

@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[College and Career Readiness]]"
   - "[[Student Mobility]]"
+  - "[[Transiency]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Hypothesis]]"
   - "[[Evaluation Research]]"
@@ -37,6 +38,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Sampling Error]]"
   - "[[Scapegoat Mechanism]]"
+  - "[[Migrant Children]]"
   - "[[Document]]"
   - "[[Policy Entrepreneur]]"
   - "[[Policy Window]]"
@@ -133,7 +135,7 @@ updated: 2026-10-10
 > - **各州及格线的自利性调降** 由于 [[No Child Left Behind Act 2001|NCLB]] 允许各州自行决定何为“熟练”，各州面临巨大的政治恐慌：标准定得越高，未达标被制裁的学校越多；州政府因此普遍采取下调难度与切分点的防御策略，造成全美 50 州标准严重割裂。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
 > - **“临界生”（Bubble Kids）应试战术** 学校管理层发现资源平均分配无法改善达标率，因而将最优质教学资源集中倾斜给成绩处于及格线边缘的学生（即努力一把即可过关的临界生），同时放弃离及格线过于遥远的深度后进生与高分拔尖生。
 > - **挤压弱势群体的排异策略** [[Yong Zhao|赵勇]]（[[Argument_Zhao_2017_JEC|Zhao, 2017]]）指出，部分学区为确保亚群达标率，系统性地将成绩低下的特殊需求学生推向免考通道、促使其退学转校或施加严苛惩戒，引发坎贝尔定律（Campbell's Law）视角下的严重道德危机。[[Argument_Zhao_2017_JEC|(Zhao, 2017, pp. 13–15)]]
-> - **[[Student Mobility|学生流动]]的病态化[[Coding in Qualitative Research|编码]]与未达标免责推诿** 在严苛的 AYP 达标考核高压下，学校管理者将学年中途转入或转出的流动学生（[[Student Mobility|学生流动性]]）在学校报告卡中标记为破坏教学秩序的“漂泊”（Transiency）。迈克尔·奥芬伯格（Michael Offenberg, 2004）针对费城公立学校的实证研究确证，学校管理层普遍将学生高流动率作为未能达成 AYP 的核心免责辩解借口（Mitigating Factor），进而诱发学校对频繁转校的贫困学生与流动学童产生制度性防御与冷漠排斥。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
+> - **[[Student Mobility|学生流动]]的病态化[[Coding in Qualitative Research|编码]]与未达标免责推诿** 在严苛的 AYP 达标考核高压下，学校管理者将学年中途转入或转出的流动学生（[[Student Mobility|学生流动性]]）在学校报告卡中标记为破坏教学秩序的“漂泊”（[[Transiency]]）。迈克尔·奥芬伯格（Michael Offenberg, 2004）针对费城公立学校的实证研究确证，学校管理层普遍将学生高流动率作为未能达成 AYP 的核心免责辩解借口（Mitigating Factor），进而诱发学校对频繁转校的贫困学生与流动学童产生制度性防御与冷漠排斥。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
 
 ---
 
@@ -152,7 +154,7 @@ updated: 2026-10-10
 > |---|---|---|---|---|---|
 > | NCES (2007)，引自 [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013, pp. 8–9)]] | 全美各州 2005 年统考与 NAEP 对照数据 | 宏观政策映射与心理测量等值化分析 | 各州自定熟练线在 NAEP 尺度上的达标率断层 | 多州公布的高达 **80%–90%** 的 AYP 达标率在 NAEP 真实标准下仅对应 **25%–35%** 熟练度 | 实证证实 AYP 刚性问责诱发各州普遍下调标准（竞相向下沉沦） |
 > | Linn (2003)，引自 [[Argument_Hattie_2005_ACER\|Hattie (2005, p. 12)]] | 全美 NAEP 统考历史增长率模型 | 统计外推与增长率线性建模 | 达成 100% 熟练水平所需时间 | 按历史实际速率，四年级数学需 **150 年**、八年级数学需 **160 年** 方能实现 100% 达标 | 强力证实 AYP 设定的 2014 年全员达标指标违背统计规律与教育现实 |
-> | Offenberg (2004)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009, p. 362)]] | 费城学区城市公立中小学校 | [[Multiple Regression\|多元回归]]与问责指标归因分析 | 学校报告卡中转校率（Transiency）对学校 AYP 达标的影响 | 高流动率被学校管理者普遍用作未能达成 AYP 的核心辩护借口；流动性显著负向预测统考达标率 | 揭示了问责制将人口结构性流动转化为学校推卸责任与病态化学生的治理异化 |
+> | Offenberg (2004)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009, p. 362)]] | 费城学区城市公立中小学校 | [[Multiple Regression\|多元回归]]与问责指标归因分析 | 学校报告卡中转校率（[[Transiency]]）对学校 AYP 达标的影响 | 高流动率被学校管理者普遍用作未能达成 AYP 的核心辩护借口；流动性显著负向预测统考达标率 | 揭示了问责制将人口结构性流动转化为学校推卸责任与病态化学生的治理异化 |
 > | Rumberger (2003); Kerbow et al. (2003)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009, p. 363)]] | 加州及芝加哥公立学校弱势学童 | 纵向追踪与家庭流动动因调查 | 居住搬迁在学生转学中的占比；低收入家庭转校的避险动机 | **60%** 的转学由居住搬迁直接诱发；贫困家庭高频转校往往属于主动逃避校园暴力与劣质教学的策略性避险 | [[Falsification\|证伪]]了政策假定中将[[Student Mobility\|学生流动]]等同于“家庭失范”与“学业冷漠”的赤字[[Discourse\|话语]] |
 > | Nichols & Berliner (2007)，引自 [[Argument_Zhao_2017_JEC\|Zhao (2017)]] | 全美多州公立中小学师生与管理者 | 全国性[[Questionnaire\|问卷调查]]与高风险问责行为分析 | 考场作弊、免考排斥与科目课时变化 | 约 **10%** 教师与管理者存在修改答案等作弊行为；非统考科目（音体美社会）课时被系统性削减 | 实证确证了坎贝尔定律下 AYP 刚性指标对一线教学行为与学校生态的严重扭曲 |
 
@@ -171,7 +173,7 @@ updated: 2026-10-10
 > > [!axis] 空间流动性赤字假定与弱势学童的制度[[Scapegoat Mechanism|替罪羊机制]]
 > > AYP 预设学生固定定居为常态，将跨校流动定性为破坏达标的“失范”，引发空间正义与弱势家庭生存策略的深层冲突。
 > >
-> > - **实证与空间批判学者（Offenberg, 2004; [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）** 指出 AYP 绩效压力导致学校管理层将高流动率作为免责工具，把宏观经济与住房动荡造成的学生迁移归咎于家庭道德缺陷，诱发了针对弱势流动儿童的次生空间排斥。
+> > - **实证与空间批判学者（Offenberg, 2004; [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）** 指出 AYP 绩效压力导致学校管理层将高流动率作为免责工具，把宏观经济与住房动荡造成的学生迁移归咎于家庭道德缺陷，诱发了针对弱势[[Migrant Children|流动儿童]]的次生空间排斥。
 > > - **制度问责辩护者** 坚持统一考核指标不应因学生转学而妥协，唯有将流动学生纳入亚群考核才能防范学校忽视转校生学业。
 
 ---

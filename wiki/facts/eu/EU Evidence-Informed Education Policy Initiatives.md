@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 42
+fact_related_count: 43
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -60,6 +60,7 @@ related_facts:
   - "[[Institute for Effective Education]]"
   - "[[Centre for the Use of Research and Evidence in Education]]"
   - "[[Evidence-Based Teachers Network]]"
+  - "[[Erasmus Programme]]"
   - "[[Reach]]"
   - "[[OECD]]"
   - "[[No Child Left Behind Act 2001]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-10-07
+updated: 2026-10-10
 ---
 
 # EU Evidence-Informed Education Policy Initiatives
@@ -143,7 +144,7 @@ updated: 2026-10-07
 > [!prop-table]- 关键行动者属性与跨国利益格局
 > | 行动者 | 资源类型 | 核心利益 | 立场 | 策略 |
 > |:---|:---|:---|:---|:---|
-> | **欧盟委员会（DG EAC）** | 资助基金 / 制度协调 / 监测平台 | 推动[[European Education Space\|欧洲教育空间]]（EEA）一体化与教育质量问责 | 积极倡导 | 运用 OMC 软治理、资助 Erasmus+ 课题与 Eurydice 评估网络 |
+> | **欧盟委员会（DG EAC）** | 资助基金 / 制度协调 / 监测平台 | 推动[[European Education Space\|欧洲教育空间]]（EEA）一体化与教育质量问责 | 积极倡导 | 运用 OMC 软治理、资助 [[Erasmus Programme\|Erasmus+]] 课题与 Eurydice 评估网络 |
 > | **先锋中介机构（如 [[EPPI-Centre]], [[Education Endowment Foundation\|EEF]]）** | 方法学规程 / 实证工具 / 跨国学术声誉 | 输出技术标准、推广[[Systematic Review\|系统综述]]并构建跨国元网络 | 主导协同 | 牵头 EIPPEE 联盟、主持跨国综述并倡导“中介的中介” |
 > | **成员国教育部** | 行政主权 / 财政拨款权 / 课程裁定权 | 保留本国教育政策制定自主权，防范布鲁塞尔越权干预 | 审慎支持 | 参与自愿性政策[[Dialogue in Education\|对话]]，但拒绝接受强制性外部证据评级约束 |
 > | **一线教师工会与学校群体** | 专业实践经验 / 地方情境知识 | 捍卫专业自主权与因地制宜教学，抵制去情境化的数字问责 | 批判性审视 | 倡导包容性证据观，强调质性经验与[[Formative Assessment\|形成性评估]]价值 |
@@ -172,7 +173,7 @@ updated: 2026-10-07
 > - **[[Reusability Paradox\|可重用性悖论]]（Reusability Paradox）的制度挑战** [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] 深刻论证指出，欧洲高度异质的制度与文化环境导致证据无法作为通用“固定脚本”跨国复用；即便某一干预在英国取得显著正向效应，直接移植到南欧或东欧也极易遭遇严重的制度排异反应。
 
 > [!stat-cards]- 核心欧洲治理规模数据
-> - **38 个** Erasmus+ 参与国家纳入 Eurydice 监测体系
+> - **38 个** [[Erasmus Programme|Erasmus+]] 参与国家纳入 Eurydice 监测体系
 > - **43 个** [[Heterogeneity\|异质性]]教育系统共同构成了欧洲极其复杂的制度拼图([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 36]])
 > - **24 种** 欧盟官方工作语言，构成了跨国证据快速流通与[[Transfer Translation Transformation\|转译]]的天然语言壁垒
 > - **23 国 36 家机构** 构成了 EIPPEE 跨国中介协作网络的最鼎盛规模([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 67]])

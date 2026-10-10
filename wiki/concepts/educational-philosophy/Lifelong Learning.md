@@ -7,7 +7,7 @@ aliases:
 summary: "指贯穿个体全生命周期的自愿性、适应性与累积性学习过程，既包含服务知识经济与劳动力重构的人力资本技能更新，更涵盖支撑公民健康、理性决策、民主协商与社会文化基础设施构建的全人发展与非正式参与生态。"
 type: concept
 domain: "educational-philosophy"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -64,6 +64,7 @@ related_facts:
   - "[[World Bank]]"
   - "[[OECD]]"
   - "[[EU Key Competences for Lifelong Learning]]"
+  - "[[Erasmus Programme]]"
   - "[[Association for Science and Discovery Centres]]"
   - "[[Big Butterfly Count]]"
   - "[[The Perception Census]]"
@@ -109,7 +110,7 @@ updated: 2026-10-10
 > - **1996 年 德洛尔报告确立四大支柱与应对全球化挑战** 联合国教科文组织发布《教育：财富蕴藏其中》（Learning: The Treasure Within，Delors 报告），将终身学习凝练为四大支柱：学会认知（Learning to know）、学会做事（Learning to do）、学会共处（Learning to live together）以及学会生存（Learning to be），并警惕经济全球化与纯粹功利主义可能侵蚀社会连带；但国际多边治理主导权已开始向国际金融机构倾斜。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 > - **1990 年代末至 2000 年代初 [[Knowledge-Based Economy|知识经济]]主导与[[Policy Borrowing|政策借用]]转向** 伴随全球化进程，终身学习被[[World Bank|世界银行]]（[[World Bank]]）与 [[OECD]] 深度重塑为服务[[Knowledge-Based Economy|知识经济]]与劳动力市场[[Employability|就业能力]]的工具；各国政府亦频繁借用终身学习[[Discourse|话语]]作为[[Externalization|外部化]]国内矛盾的政策工具。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, p. 487)]]
 > - **2006 年与 2018 年 欧盟[[21st Century Skills and Competencies Discourse|关键能力]]框架** 欧洲联盟（European Union, EU）发布并更新《终身学习核心素养建议书》（[[EU Key Competences for Lifelong Learning]]），确立了包括科学、数学、数字素养、公民素养及[[Learner Autonomy|自主学习]]在内的八大终身学习关键能力。
-> - **2007 年 欧盟“终身学习计划”（Lifelong Learning Programme, LLP）确立跨国流动支柱** 欧盟正式启动 2007–2013 统摄性“终身学习计划”（LLP），将伊拉斯谟计划（ERASMUS）、夸美纽斯计划（COMENIUS）、达芬奇计划（LEONARDO DA VINCI）及格伦特维计划（GRUNDTVIG）全面整合；将学生跨国流动（[[Student Mobility|学生流动性]]）确立为获取终身学习素养与提升个体就业胜任力的核心制度载体。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
+> - **2007 年 欧盟“终身学习计划”（Lifelong Learning Programme, LLP）确立跨国流动支柱** 欧盟正式启动 2007–2013 统摄性“终身学习计划”（LLP），将[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）、夸美纽斯计划（COMENIUS）、达芬奇计划（LEONARDO DA VINCI）及格伦特维计划（GRUNDTVIG）全面整合；将学生跨国流动（[[Student Mobility|学生流动性]]）确立为获取终身学习素养与提升个体就业胜任力的核心制度载体。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 > - **2020 年代中 数字化、绿色化转型与社会文化基础设施跃迁** 面对[[Generative Artificial Intelligence|生成式人工智能]]（Artificial Intelligence, AI）颠覆与气候变化危机，英国皇家学会（Royal Society, 2026）重塑终身学习[[Construct|构念]]，提出涵盖[[Data Literacy|数据素养]]、批判性 AI 素养与可持续发展素养的交叉素养框架，并将科技馆、探索中心及[[Citizen Science|公民科学]]确立为保障全民终身学习的社会与文化基础设施。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 31–32)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 48)]]
 
 ---
@@ -173,7 +174,7 @@ updated: 2026-10-10
 > 超国家教育治理（如[[European Education Space|欧洲教育空间]]）将终身学习构型与[[Student Mobility|学生流动性]]深度嵌套，使跨国流动从早期的文化交融与欧洲公民认同培育，转变为个体终身维持人力资本与就业[[Competitiveness|竞争力]]的战略工具。
 
 > [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] & Papatsiba (2005)
-> **终身学习对流动性的工具化吸纳与新自由主义就业规训** 索贝与菲舍尔（Noah W. Sobe & Trevor Fischer, 2009, pp. 362–363）援引瓦西莉基·帕帕齐巴（Vassiliki Papatsiba, 2005）的批判考证指出，欧盟通过“终身学习计划 2007–2013”（LLP）将伊拉斯谟（ERASMUS）等跨国流动项目全面整合进终身学习政策伞下，标志着流动性质的根本转型。流动不再仅仅关乎文化探索或政治一体化，而是被重新[[Coding in Qualitative Research|编码]]为个体必须具备的终身学习核心技能与就业胜任力（Employability）。在这种超国家空间[[Governmentality|治理术]]下，宏观经济与劳动力市场的结构性动荡风险被系统性地个体化：个体被要求通过终身跨国流动展现持续的适应性与灵活性，流动的缺席则被归咎为个人的技能缺陷与自我投资不足。
+> **终身学习对流动性的工具化吸纳与新自由主义就业规训** 索贝与菲舍尔（Noah W. Sobe & Trevor Fischer, 2009, pp. 362–363）援引瓦西莉基·帕帕齐巴（Vassiliki Papatsiba, 2005）的批判考证指出，欧盟通过“终身学习计划 2007–2013”（LLP）将伊拉斯谟（[[Erasmus Programme|ERASMUS]]）等跨国流动项目全面整合进终身学习政策伞下，标志着流动性质的根本转型。流动不再仅仅关乎文化探索或政治一体化，而是被重新[[Coding in Qualitative Research|编码]]为个体必须具备的终身学习核心技能与就业胜任力（Employability）。在这种超国家空间[[Governmentality|治理术]]下，宏观经济与劳动力市场的结构性动荡风险被系统性地个体化：个体被要求通过终身跨国流动展现持续的适应性与灵活性，流动的缺席则被归咎为个人的技能缺陷与自我投资不足。
 
 ---
 

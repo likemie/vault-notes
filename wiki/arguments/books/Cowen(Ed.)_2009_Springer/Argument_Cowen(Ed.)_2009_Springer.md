@@ -7,7 +7,7 @@ title: "Argument_Cowen(Ed.)_2009_Springer"
 argument_key: "Argument_Cowen(Ed.)_2009_Springer"
 argument_display_title: "International Handbook of Comparative Education"
 argument_kind: "edited-volume"
-argument_related_count: 90
+argument_related_count: 92
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Enlightenment]]"
+  - "[[Migrant Children]]"
   - "[[Student Mobility]]"
   - "[[Proto-Scientific Motif]]"
   - "[[Educational Meliorism]]"
@@ -115,6 +116,7 @@ related_facts:
   - "[[World Trade Organization]]"
   - "[[GATS and Trade in Education Services]]"
   - "[[Hukou System]]"
+  - "[[Schools for Migrant Children]]"
   - "[[Plyler v. Doe 1982]]"
   - "[[Education in Europe]]"
 related_arguments:
@@ -209,7 +211,7 @@ updated: 2026-10-10
 >   - **阅读价值** 呈现[[Policy Borrowing\|教育借用]]从经典移植论向全球治理与去[[Going Native\|本土化]]分析的[[Paradigm\|范式]]演进；Ch. 09 示范了美德跨大西洋互动与挪威多边借用中“恶政与良教自然可分”的理性[[Transfer Translation Transformation|转译]]逻辑。
 > - **空间转向、流动性与人口治理**
 >   - **相关章节** Ch. 23 [[Argument_Sobe_Fischer_2009_MobilityMigration]]；Ch. 61（空间认知地图）；Ch. 67（Phillips 转移地理学）；Ch. 71（Steiner-Khamsi）。
->   - **阅读价值** 呈现比较教育学如何从[[Enlightenment|启蒙运动]]将空间从属于时间的线性进化史观，转向批判性空间实践与[[Governmentality|治理术]]微观解剖；解构现代学校作为封闭容器对跨国与国内流动人口（移民、游牧民、随迁儿童）的规训机制，揭示欧美政策[[Discourse|话语]]对[[Student Mobility|学生流动性]]（欧洲一体化公民资本 vs 美国 [[No Child Left Behind Act 2001|NCLB]] 漂泊失范）的阶层化道德双标，并统合知识理性系统与结构性参与公平。
+>   - **阅读价值** 呈现比较教育学如何从[[Enlightenment|启蒙运动]]将空间从属于时间的线性进化史观，转向批判性空间实践与[[Governmentality|治理术]]微观解剖；解构现代学校作为封闭容器对跨国与国内流动人口（移民、游牧民、[[Migrant Children|随迁儿童]]）的规训机制，揭示欧美政策[[Discourse|话语]]对[[Student Mobility|学生流动性]]（欧洲一体化公民资本 vs 美国 [[No Child Left Behind Act 2001|NCLB]] 漂泊失范）的阶层化道德双标，并统合知识理性系统与结构性参与公平。
 
 ---
 
@@ -226,7 +228,7 @@ updated: 2026-10-10
 >   - Ch. 08 [[Argument_Arnove_2009_WorldSystems]]。Arnove 系统回顾[[World-Systems Theory|世界体系分析]]（WSA）在比较教育学中的引入与演进，辨析共识取向（迈耶等人的新制度主义[[World Society Theory|世界文化理论]]）与冲突取向（[[Immanuel Wallerstein|沃勒斯坦]]等人的政治现实主义[[World-Systems Theory|世界体系理论]]）在解释教育同形与依附不平等上的[[Epistemology|认识论]]分野；阐明世界体系分析与全球化研究的汇融，揭示跨国金融与贸易机构（世行、[[World Trade Organization|WTO]] / [[GATS and Trade in Education Services|GATS]]）在[[Pluri-Scalar Governance|多标度治理]]中对[[State Educational Sovereignty|国家教育主权]]的重构、非政府组织向[[Shadow State|影子国家]]蜕变的异化风险，并通过多层次[[Comparative Case Study|比较案例研究]]示范了全球与本土互动的“双重视野”，最终提出以[[Time-Space Compression|时空压缩]]和流散空间为载体、联合草根力量抵御新自由主义的自下而上全球化抗争范式。
 >   - Ch. 09 [[Argument_Rust_2009_Reflections]]。Rust、Johnstone 与 Allaf 系统梳理学科发端的多重历史锚点，借鉴比较文学平反十九世纪[[Influences Across Cultures|跨文化影响]]实证考察遗产，揭示美德跨大西洋互动中“恶政与良教自然可分”的借用公理；运用 UCLA 大规模期刊[[Document|文献]]计量与作者调查证实 26 种理论并存的“健康[[Pluralism|多元主义]]”；并在批判主流将教育等同于资本主义现代性的基础上，建构涵盖接受、抵制、恢复与强制再生产的[[Typology of Educational Responses to Globalization|全球化教育响应类型学]]，呼吁学科回归人道主义与解放实践。
 >   - Ch. 10 [[Argument_Kazamias_2009_HistoricalReflections]]。Kazamias 系统确立比较教育学作为“[[Protean Episteme|普罗透斯式认识体系]]”的学科本质，梳理从启蒙准科学与行政改良、历史-哲学自由人文主义、战后经验实证主义到批判冲突理论的四重论述代际；借助[[Bernard Barber|巴伯]]（Barber）科学社会学深刻解构将科学狭隘化为单一量化操作的“方法论主义”，并援引拉森（Larsen）等人的旗舰期刊计量数据（历史论文降至不足 5%）实证确证学科面临的“[[Historical Amnesia|历史健忘症]]”危机，最终重申历史学与社会科学理性综合的现代合法性。
->   - Ch. 23 [[Argument_Sobe_Fischer_2009_MobilityMigration]]。Sobe 与 Fischer 运用空间转向与[[Governmentality|治理术]]理论，解构欧美政策[[Discourse|话语]]对[[Student Mobility|学生流动性]]的阶层化双重[[Coding in Qualitative Research|编码]]（欧洲一体化跨国公民胜任力 vs 美国 [[No Child Left Behind Act 2001|NCLB]] 绩效问责下的病态漂泊与失范指标），剖析学校作为兼具物理封闭与社会资格筛选功能的空间治理容器；通过中（[[Hukou System|户籍制度]]排斥与打工子弟学校整顿）、美（《[[Plyler v. Doe 1982|普莱勒诉多伊案]]》宪法平权与无证农工子女）、西（跨文化教育调适）、英（大篷车游民的空间文化失调）与印（游牧部族以教育避险的能动性）五国经验，揭示国家强制定居规训与边缘少数群体微观能动性的动态博弈，最终将知识理性系统与公平参与结构统合于空间实践[[Analytic Framework|分析框架]]。
+>   - Ch. 23 [[Argument_Sobe_Fischer_2009_MobilityMigration]]。Sobe 与 Fischer 运用空间转向与[[Governmentality|治理术]]理论，解构欧美政策[[Discourse|话语]]对[[Student Mobility|学生流动性]]的阶层化双重[[Coding in Qualitative Research|编码]]（欧洲一体化跨国公民胜任力 vs 美国 [[No Child Left Behind Act 2001|NCLB]] 绩效问责下的病态漂泊与失范指标），剖析学校作为兼具物理封闭与社会资格筛选功能的空间治理容器；通过中（[[Hukou System|户籍制度]]排斥与[[Schools for Migrant Children|打工子弟学校]]整顿）、美（《[[Plyler v. Doe 1982|普莱勒诉多伊案]]》宪法平权与无证农工子女）、西（跨文化教育调适）、英（大篷车游民的空间文化失调）与印（游牧部族以教育避险的能动性）五国经验，揭示国家强制定居规训与边缘少数群体微观能动性的动态博弈，最终将知识理性系统与公平参与结构统合于空间实践[[Analytic Framework|分析框架]]。
 > - **优先处理章节** Ch. 01（联合导论）、Ch. 21（导论）、Ch. 61（新思维导论）、Ch. 79 与 Ch. 80（全书收束与结论）。
 > - **可暂缓章节** 专门聚焦特定国家微观细部、与全书主干理论对话相对松散的案例章节。
 > - **缺口提醒** 目前已完成 Ch. 02 至 Ch. 10 共 9 章，以及 Section 3 核心章节 Ch. 23 共 10 章；全书第一板块（Section 1 学科的创建与再造）已全部夯实收束，第三板块（Section 3 民族、国际与全球）关于空间转向、跨国流动性与移民治理的关键理论维度已正式建立连接。

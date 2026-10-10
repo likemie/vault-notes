@@ -9,7 +9,7 @@ aliases:
 summary: "教育包容与排斥的双重问题式是托马斯·S·波普科维茨与斯韦克·林德布拉德提出的教育社会学批判分析框架，区隔了聚焦入学机会、资源分配与国家制度代表性的“公平-参与问题式”，以及聚焦思维理性系统、文化分类图式与主体资格筛选的“知识问题式”；在比较教育学中，空间治理实践被视作沟通并统一这两大问题式的关键纽带。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Knowledge Questions]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Champ]]"
+  - "[[Migrant Children]]"
   - "[[Scale of Measurement]]"
   - "[[Cultural Capital]]"
   - "[[Operationalization]]"
@@ -99,7 +100,7 @@ graph TD
 ### 1. 公平-参与问题式（Equity-Participation Problematic）
 - **核心关切** 个体的教育可及性（Access）、制度代表性（Representation）与资源配置平等性。
 - **分析逻辑** 将国家视为由不同阶级、族群与政治利益驱动的行动实体。该问题式追问：哪些群体被排斥在正规学校之外？国家通过何种财政转移支付、民权法律或扶持项目促进了边缘人口的入学率？
-- **经验案例** 美国《[[Plyler v. Doe 1982|普莱勒诉多伊案]]》赋予无证儿童公立学校受教育权、中国针对随迁子女设立城市入学指标、印度政府在游牧区建立定居公立小学等。
+- **经验案例** 美国《[[Plyler v. Doe 1982|普莱勒诉多伊案]]》赋予无证儿童公立学校受教育权、中国针对[[Migrant Children|随迁子女]]设立城市入学指标、印度政府在游牧区建立定居公立小学等。
 - **局限性** 若仅停留在此层面，研究者会误以为只要消除法律壁垒、增加经费投入，就能实现彻底的“教育平等”。
 
 ### 2. 知识问题式（Problematic of Knowledge）
@@ -154,7 +155,7 @@ graph TD
 ### 在流动儿童教育中的实证阐释
 
 [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] 借助五国经验材料，系统展现了空间实践如何统合两大问题式：
-1. **中国进城务工随迁学童** 在公平-参与层面，二元[[Hukou System|户籍制度]]直接在物理空间上将随迁子女排斥在城市公立学校之外；在知识问题式层面，政策与社会话语将城市常住视为合规，将流动自发创办的学校定性为缺乏资质与秩序的“黑校”，即便公立学校逐步接纳随迁儿童，仍通过借读标签与积分制实施隐性筛选。
+1. **中国进城务工随迁学童** 在公平-参与层面，二元[[Hukou System|户籍制度]]直接在物理空间上将[[Migrant Children|随迁子女]]排斥在城市公立学校之外；在知识问题式层面，政策与社会话语将城市常住视为合规，将流动自发创办的学校定性为缺乏资质与秩序的“黑校”，即便公立学校逐步接纳随迁儿童，仍通过借读标签与积分制实施隐性筛选。
 2. **美国农业流动儿童** 在公平-参与层面，1982 年《[[Plyler v. Doe 1982|普莱勒诉多伊案]]》裁定公立学校不得核查移民身份并赋予无证儿童受教育权；但在知识问题式层面，2001 年《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB）的问责指标将学生学年中途流动[[Coding in Qualitative Research|编码]]为拉低 [[Adequate Yearly Progress|AYP]] 达标率的“漂泊”失范，在校园内部诱发隐性的分班隔离与教学排斥。
 3. **英国大篷车游民儿童** 在公平-参与层面，地方教育当局推行多元文化接纳与巡回教师支持；但在知识问题式层面，学校建筑高度结构化的物理微观空间（固定课桌椅、封闭走廊、严苛考勤节律）与游民自由迁徙的生活节律产生剧烈文化失调，游民儿童被病理化为具有多动或注意力障碍的“异常学生”。
 4. **印度拉巴里游牧部族与定居[[Boarding Schools|寄宿学校]]** 在公平-参与层面，国家在边疆兴建公立[[Boarding Schools|寄宿学校]]以提供免费入学指标；但在知识问题式层面，国家将寄宿学校明确用作消解部族流动性、强推[[Sedentarism|定居主义]]（Sedentarization）的同化工具；拉巴里家庭则展现出反向能动性，策略性将单个儿子送入寄宿学校作为生计风险的“保险单”，用以对冲外部文字盘剥（Dyer, 2001; [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009, p. 367]]）。

@@ -10,7 +10,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_instruments:
   - "[[CALOHEE Assessment Reference Frameworks]]"
 related_persons: []
 related_facts:
+  - "[[Erasmus Programme]]"
   - "[[Tuning Project]]"
   - "[[Bologna Process]]"
   - "[[Dublin Descriptors]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-10-10
 ---
 
 # CALOHEE Project
@@ -53,7 +54,7 @@ updated: 2026-08-27
 
 > [!event-context] 事件背景
 > - **时间 / 地点** 2016–2018 年（第一期）及后续拓展期，覆盖欧洲高等教育区数十所跨国大学。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 27–28)]]
-> - **关键主体** 欧盟委员会（Erasmus+ 战略资助）、国际 [[Tuning Project\|Tuning]] 学院（格罗宁根大学协调）联合全欧高校、学科组织与行业专家。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 27)]]
+> - **关键主体** 欧盟委员会（[[Erasmus Programme|Erasmus+]] 战略资助）、国际 [[Tuning Project\|Tuning]] 学院（格罗宁根大学协调）联合全欧高校、学科组织与行业专家。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 27)]]
 > - **制度背景** [[Bologna Process\|博洛尼亚进程]][[Dublin Descriptors\|都柏林描述符]]过于抽象宏观，高校教师普遍缺乏将通用素养（如批判与创造）[[Transfer Translation Transformation\|转译]]为具体专业教学考核的操作性工具。
 > - **触发条件** 研发一套跨国可比、深植学科沃土且兼顾形成性教学与终结性评价的“学科[[CALOHEE Assessment Reference Frameworks\|评价参照框架]]”。
 

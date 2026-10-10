@@ -9,7 +9,7 @@ aliases:
 summary: "米歇尔·福柯提出的权力分析核心理论，指一种以人口为对象、以安全配置为技术、通过塑造主体的自我理解来引导个体行为的治理理性；该理论指出自由与主体化是现代治理的运作条件而非对立面，并通过远距治理与空间化规训将学校和制度环境建构为可计算、可干预的治理单元。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 40
+theory_related_count: 42
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -36,6 +36,8 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Learner Autonomy]]"
   - "[[Competitiveness]]"
+  - "[[Migrant Children]]"
+  - "[[Transiency]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Research Question]]"
   - "[[Performance Indicators]]"
@@ -58,6 +60,7 @@ related_instruments: []
 related_persons:
   - "[[Stephen Ball]]"
 related_facts:
+  - "[[Erasmus Programme]]"
   - "[[Hukou System]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[TEMPUS]]"
@@ -157,12 +160,12 @@ graph TD
 > [!theory-proposition] 命题二｜自由是现代治理的必要技术条件而非对立面
 > **解释** 新自由主义治理理性最深沉的悖论在于：越是鼓吹“自由选择”与“去中心化”，治理权力的毛细血管渗透就越彻底。当政府赋予学校[[School Choice|择校]]权或赋予学生[[Learner Autonomy|自主学习]]权时，实际上是将宏观的结构性风险（失业、贫困、教育不公）个体化、道德化为个人选择的后果，从而免除了国家作为最终责任人的负担。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 222–223)]]
 >
-> **应用实例** 欧洲联盟通过伊拉斯谟计划（ERASMUS）赋予大学生跨国求学的充分自由，并将其赞美为自由探索未来的美德；然而学者指出，这实质上是要求青年个体自发承担打造跨文化“就业[[Competitiveness|竞争力]]”的责任，把应对全球劳动力市场波动的压力内化为个人的道德修行。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
+> **应用实例** 欧洲联盟通过[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）赋予大学生跨国求学的充分自由，并将其赞美为自由探索未来的美德；然而学者指出，这实质上是要求青年个体自发承担打造跨文化“就业[[Competitiveness|竞争力]]”的责任，把应对全球劳动力市场波动的压力内化为个人的道德修行。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
 
 > [!theory-proposition] 命题三｜现代治理本质上依赖对空间的建构、计算与封闭
 > **解释** 治理决不仅是时间上的历史演进或身体上的行为操练，而是在根本上依赖于空间的构想、划界与操控。如 Rose（1999）与 Sobe & Fischer（2009）所示，现代权力通过人为制造“学区”、“教室”、“家庭”等离散单元（领地化），并通过统计图表将分散人群变为可见对象（空间凝视），从而使学校成为把人口圈禁在固定网格中的“封闭容器”（Enclosure），以及根据文化标准决定谁有资格跨入更广阔社会空间的“筛选关卡”（Qualification）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361)]]
 >
-> **应用实例** 在流动儿童管理中，中国通过城乡二元[[Hukou System|户籍制度]]在空间上设立公办学校准入门槛，而美国基础教育则在《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》下将中途频繁转校的学生定性为拖累达标率的“流动漂泊者”；两者均利用空间技术划定主体合法性。
+> **应用实例** 在[[Migrant Children|流动儿童]]管理中，中国通过城乡二元[[Hukou System|户籍制度]]在空间上设立公办学校准入门槛，而美国基础教育则在《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》下将中途频繁转校的学生定性为拖累达标率的“[[Transiency|流动漂泊]]者”；两者均利用空间技术划定主体合法性。
 
 > [!theory-proposition] 命题四｜治理术通过远距机制在超国家尺度编织话语网络
 > **解释** 权力的有效运行并不依赖集中单一的主权中枢，而是依托跨国组织、智库与标准化指标体系所构筑的松散网络，在空间“远处”协调各方行为。全球[[Geopolitics of Knowledge|知识地缘政治]]通过界定“[[21st Century Skills and Competencies Discourse|21世纪技能]]”或“未来教育愿景”，远距离重塑各主权国家的课程大纲与公民自我期待。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, pp. 251–260)]]

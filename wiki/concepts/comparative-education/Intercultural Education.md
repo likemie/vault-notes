@@ -8,7 +8,7 @@ aliases:
 summary: "20世纪末在欧洲兴起的教育研究与实践范式，以多元文化社会中异质文化族群间的交互对话、相互学习与包容共生为核心；打破传统比较教育以民族国家为单一分析单元的局限，转向文化配置、移民融入、教材去偏见与课堂反思性互动。"
 type: concept
 domain: "comparative-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Language Skills]]"
   - "[[Cultural Relativism]]"
+  - "[[Migrant Children]]"
 related_theories:
   - "[[Pluralism]]"
   - "[[Theories of the Driving Forces]]"
@@ -219,7 +220,7 @@ updated: 2026-10-10
 > | [[Lefebvre's Spatial Triad\|列斐伏尔空间三元组]] | 理论 | 为剖析跨文化教育在不同国家空间实践、空间表征与表征性空间中的差异化制度配置提供理论透镜。 |
 > | [[International Schools]] | 机构类型 | 容纳多国籍流动学生的典型实践[[Champ\|场域]]，其实践既可能是跨文化互学的先锋，也可能沦为封闭的国际特权飞地。 |
 > | [[International Baccalaureate]] | 课程事实 | 试图超越单一国家中心主义的跨国资格设计，但面临国内升学公开竞争与公平性的多重制度博弈。 |
-> | [[Comparative Policy Analysis]] | 研究方法 | 横向对比不同国家应对流动儿童时采取的同化、排斥或跨文化承认政策。 |
+> | [[Comparative Policy Analysis]] | 研究方法 | 横向对比不同国家应对[[Migrant Children\|流动儿童]]时采取的同化、排斥或跨文化承认政策。 |
 > | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证条目 | 追踪比较教育与跨文化教育从建制分离到重新合流的历史，提出将文化配置作为比较教育核心对象。 |
 > | [[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987)]] | 论证条目 | 深入论证双文化课程与国际跨文化课程在服务不同流动学生时的适用边界与资格承认争议。 |
 > | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 论证条目 | 考察西班牙面对移民结构剧变推行的跨文化取向（intercultural approach），揭示学校空间容纳与多元文化教育的治理张力。 |

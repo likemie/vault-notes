@@ -10,7 +10,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#ede9fe"
@@ -29,13 +29,14 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Erasmus Programme]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-10-10
 ---
 
 # CRITHINKEDU Project
@@ -46,7 +47,7 @@ updated: 2026-08-27
 
 > [!event-context] 事件背景
 > - **时间 / 地点** 2016–2019 年，覆盖葡萄牙、爱尔兰、西班牙、罗马尼亚、比利时、希腊、立陶宛、捷克、意大利 9 国。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 8)]]
-> - **关键主体** 欧盟委员会（Erasmus+ 战略合作伙伴关系资助），由葡萄牙特拉斯-奥斯-蒙特斯和上杜罗大学（UTAD）牵头协调 11 所欧洲大学。
+> - **关键主体** 欧盟委员会（[[Erasmus Programme|Erasmus+]] 战略合作伙伴关系资助），由葡萄牙特拉斯-奥斯-蒙特斯和上杜罗大学（UTAD）牵头协调 11 所欧洲大学。
 > - **制度背景** 尽管欧洲高教区高度重视[[Critical Thinking\|批判性思维]]，但大学教师普遍缺乏系统的课程教学法指南与评价培训体系。
 > - **触发条件** 跨国协同开发一套贯通欧洲高等教育课程设计、教学实践与学业评价的批判性思维实施蓝图。
 

@@ -7,7 +7,7 @@ title: "Argument_Sobe_Fischer_2009_MobilityMigration"
 argument_key: "Argument_Sobe_Fischer_2009_MobilityMigration"
 argument_display_title: "Mobility, Migration and Minorities in Education"
 argument_kind: "book-chapter"
-argument_related_count: 45
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -35,10 +35,12 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Student Mobility]]"
   - "[[Competitiveness]]"
+  - "[[Migrant Children]]"
   - "[[Sedentarism]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Enlightenment]]"
   - "[[Employability]]"
+  - "[[Transiency]]"
   - "[[Intercultural Education]]"
   - "[[Traveller Education]]"
   - "[[Nomadic Education]]"
@@ -47,6 +49,7 @@ related_concepts:
   - "[[Study Population and Sample]]"
   - "[[Lifelong Learning]]"
   - "[[Teacher Mobility]]"
+  - "[[Multiple Institution Attendance]]"
   - "[[Attrition]]"
   - "[[Migrant Education]]"
   - "[[Language Skills]]"
@@ -75,11 +78,14 @@ related_instruments: []
 related_persons:
   - "[[Thomas S. Popkewitz]]"
   - "[[Rolland Paulston]]"
+  - "[[António Nóvoa]]"
 related_facts:
   - "[[TEMPUS]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Hukou System]]"
+  - "[[Schools for Migrant Children]]"
   - "[[Plyler v. Doe 1982]]"
+  - "[[Erasmus Programme]]"
   - "[[Adequate Yearly Progress]]"
 related_arguments:
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
@@ -100,7 +106,7 @@ updated: 2026-10-10
 > 比较教育学长期将国家与学校视为固定不变的地理容器，习惯用时间的先后演进代替空间的差异，忽视了空间组织与物理流动对教育实践的塑造。在全球人口流动日益频繁的背景下，比较教育研究应当如何理解空间与流动在政策[[Discourse|话语]]中被赋予的意义？现代学校如何通过划分区域、登记学籍与空间管控，对不同社会阶层、族裔和边缘群体的求学机会施加制度性约束？（pp. 359–360）
 
 > [!claim] 核心主张
-> 现代学校不仅坐落在特定的地理位置上，其日常运作本身就是一套管理人口的空间技术。在欧美政策话语中，[[Student Mobility|学生流动性]]被赋予了截然相反的价值评价：欧洲一体化将精英大学生自主的跨国求学赞许为培育欧洲认同与就业[[Competitiveness|竞争力]]的时代美德，而美国基础教育绩效问责制则将底层家庭因生计困境而中途转学贬斥为破坏学校成绩的病态缺陷。中国、美国、西班牙、英国与印度的案例表明，学校既是把学生圈禁在固定场所内的行政容器，又是评判学生是否具备向上流动资格的筛选关卡；要透视流动儿童面临的制度排斥，必须打破只关注资源分配的传统思路，将空间物质管理与文化分类标准结合起来进行考察。（pp. 359–361, 367–368）
+> 现代学校不仅坐落在特定的地理位置上，其日常运作本身就是一套管理人口的空间技术。在欧美政策话语中，[[Student Mobility|学生流动性]]被赋予了截然相反的价值评价：欧洲一体化将精英大学生自主的跨国求学赞许为培育欧洲认同与就业[[Competitiveness|竞争力]]的时代美德，而美国基础教育绩效问责制则将底层家庭因生计困境而中途转学贬斥为破坏学校成绩的病态缺陷。中国、美国、西班牙、英国与印度的案例表明，学校既是把学生圈禁在固定场所内的行政容器，又是评判学生是否具备向上流动资格的筛选关卡；要透视[[Migrant Children|流动儿童]]面临的制度排斥，必须打破只关注资源分配的传统思路，将空间物质管理与文化分类标准结合起来进行考察。（pp. 359–361, 367–368）
 
 > [!concept-lens] 阅读透镜
 > - **考察对象** 欧洲联盟（European Union，EU）与美国教育政策关于学生流动的官方[[Discourse|话语]]，以及中国、美国、西班牙、英国与印度的移民、少数族裔与流动儿童就学案例。
@@ -130,15 +136,15 @@ updated: 2026-10-10
 > | 分析模块 | 材料来源与分析方法 |
 > |---|---|
 > | **比较政策话语分析**<br>[[Comparative Policy Analysis]] | 对比欧洲联盟与美国联邦层面的官方改革文件、资助方案与问责政策文本，剖析[[Student Mobility\|学生流动]]在不同制度语境下被赋予的政治含义与修辞手法。（pp. 361–364） |
-> | **跨国空间治理案例分析**<br>Comparative Spatial Case Analysis | 选取中国、美国、西班牙、英国与印度五个涵盖不同制度背景与地理尺度的国家案例，梳理流动儿童在入学政策、校园空间适应与身份登记方面的实际遭遇。（pp. 364–367） |
+> | **跨国空间治理案例分析**<br>Comparative Spatial Case Analysis | 选取中国、美国、西班牙、英国与印度五个涵盖不同制度背景与地理尺度的国家案例，梳理[[Migrant Children\|流动儿童]]在入学政策、校园空间适应与身份登记方面的实际遭遇。（pp. 364–367） |
 > | **学术史与认识论考察**<br>Social Epistemology Review | 梳理跨学科空间转向进入比较教育学的学术脉络，反思西方[[Enlightenment\|启蒙哲学]]将空间差异等同于文明早晚的偏见。（pp. 359–360） |
 
 > [!sample-panel]- 案例与经验材料全景快照
 > | 案例地区 | 考察人群与核心材料 | 空间与制度冲突焦点 |
 > |---|---|---|
 > | **欧洲联盟** | 高等教育阶段本科生与研究生；伊拉斯谟计划（European Community Action Scheme for the Mobility of University Students，ERASMUS）、天普计划（Trans-European Mobility Programme for University Studies，[[TEMPUS]]）。 | 跨国公民认同塑造、欧洲性（Europeanness）公民资产建构与[[Employability\|就业能力]]个体化包装。（pp. 362–363） |
-> | **美国基础教育** | 基础教育阶段中小学（Kindergarten through Twelfth Grade，K–12）学生；2001 年《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（No Child Left Behind Act，NCLB）推行的学校报告卡。 | 学年中途频繁转校被定性为流动漂泊（Transiency），作为贫困缺陷与解释绩效未达标的减分指标。（pp. 363–364） |
-> | **中国城乡随迁** | 约 2000 万农村进城务工随迁学龄儿童；[[Hukou System\|户籍制度]]（户口登记条例）、打工子弟学校政策。 | 城乡二元户口壁垒将流动儿童排斥在城市公立学校之外；民间自办打工子弟学校在 2006 年北京遭遇集中强制关停。（p. 365） |
+> | **美国基础教育** | 基础教育阶段中小学（Kindergarten through Twelfth Grade，K–12）学生；2001 年《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（No Child Left Behind Act，NCLB）推行的学校报告卡。 | 学年中途频繁转校被定性为[[Transiency\|流动漂泊]]（Transiency），作为贫困缺陷与解释绩效未达标的减分指标。（pp. 363–364） |
+> | **中国城乡随迁** | 约 2000 万农村进城务工随迁学龄儿童；[[Hukou System\|户籍制度]]（户口登记条例）、打工子弟学校政策。 | 城乡二元户口壁垒将流动儿童排斥在城市公立学校之外；民间自办[[Schools for Migrant Children\|打工子弟学校]]在 2006 年北京遭遇集中强制关停。（p. 365） |
 > | **美国流动农工** | 跨国与跨州季节性农业流动农工学童（Children of the Road）；1982 年《[[Plyler v. Doe 1982\|普莱勒诉多伊案]]》裁决。 | 宪法第十四修正案确立无证学童受教育平权；联邦设立流动教育办公室，但面临语言隔绝与师资缺乏培训困境。（pp. 365–366） |
 > | **西班牙移民** | 摩洛哥、拉美与东欧移民（占人口 9%）；[[Intercultural Education\|跨文化教育]]指南（Enfoque Intercultural）。 | 由劳力输出国向输入国急剧逆转，班级高度异质化引发在维护文化特性与促进语言融入间的政策摇摆。（p. 366） |
 > | **英国大篷车游民** | 传统大篷车儿童（Travellers）与东欧罗姆儿童（Romani）；[[Traveller Education\|旅行者教育]]与学校空间环境[[Ethnography\|民族志研究]]。 | 学校建筑高度结构化的物理空间使用（固定课桌与走廊）与游民自由生活节奏产生深层空间文化失调。 |
@@ -199,7 +205,7 @@ updated: 2026-10-10
 
 > [!feature] 比较教育学空间转向的学术脉络演进
 > - **[[Social Cartography|社会制图学]]（[[Social Cartography]]）的确立** [[Rolland Paulston|罗兰·保尔斯顿]]（Paulston, 1997, 2000）将空间隐喻转化为制图分析方法，用二维平面图谱平铺展示相互竞争的学术思想（如功能主义、冲突论、解释学与[[Postmodernism|后现代主义]]），以不同思想流派之间的拓扑距离与对话取代单一真理垄断。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
-> - **跨国教育空间建构的批判解构** 诸多学者将空间视角运用于具体教育政策分析：比奇（Beech, 2002）解构了将拉美教育预设为落后于西方单一时间轨道的“单线演进假象”，揭示了西方[[Discourse|话语]]如何通过构筑等级化的认知空间来维持发展主义依附；杜塞尔等（Dussel et al., 2000）绘制阿根廷课程分权改革的新地图；戈登与拉赫尔玛（Gordon & Lahelma, 1996）剖析学校内部具身空间；诺瓦与劳恩（Nóvoa & Lawn, 2002）系统剖析[[European Education Space|欧洲教育空间]]的制造过程。（p. 360）
+> - **跨国教育空间建构的批判解构** 诸多学者将空间视角运用于具体教育政策分析：比奇（Beech, 2002）解构了将拉美教育预设为落后于西方单一时间轨道的“单线演进假象”，揭示了西方[[Discourse|话语]]如何通过构筑等级化的认知空间来维持发展主义依附；杜塞尔等（Dussel et al., 2000）绘制阿根廷课程分权改革的新地图；戈登与拉赫尔玛（Gordon & Lahelma, 1996）剖析学校内部具身空间；诺沃亚与劳恩（Nóvoa & Lawn, 2002）系统剖析[[European Education Space|欧洲教育空间]]的制造过程。（p. 360）
 
 ---
 
@@ -210,17 +216,17 @@ updated: 2026-10-10
 
 #### 1. 欧洲一体化将跨国高校学生流动建构为高尚的公民美德与灵活就业资本
 
-在欧洲一体化建设中，跨国空间流动被赋予了崇高的象征意义。安东尼奥·诺瓦（Nóvoa, 2002）指出，欧洲政策话语借用古典人文旅行与游学传统，将跨国流动塑造为自由开拓与面向未来的时代象征。（pp. 361–363）
+在欧洲一体化建设中，跨国空间流动被赋予了崇高的象征意义。[[António Nóvoa|安东尼奥·诺沃亚]]（Nóvoa, 2002）指出，欧洲政策话语借用古典人文旅行与游学传统，将跨国流动塑造为自由开拓与面向未来的时代象征。（pp. 361–363）
 
 > [!policy-design] 欧洲一体化进程中[[Student Mobility|学生流动]]的制度设计与身份建构
 > - **政策目标（Policy Goals）** 借由跨国流动塑造超民族的欧洲认同与网络归属感（Schissler & Soysal, 2005; Soysal, 2002），强化高等教育乃至欧洲人本身的欧洲维度，替代传统的同质化民族国家构建模式。（pp. 362–363）
 > - **适用对象（[[Study Population and Sample|target population]]）** 以欧洲高等教育阶段本科生与研究生为核心主体，并通过[[TEMPUS|天普计划]]（[[TEMPUS]]）辐射东欧、西巴尔干、中东及北非伙伴国高校师生，建立跨国学术交流网络（Lawson et al., 2003; Walsh et al., 2005）。
-> - **政策工具（Policy Instruments）** 依托设立于 1987 年的伊拉斯谟计划（ERASMUS）及其后续[[Lifelong Learning|终身学习]]框架，提供专项经费资助并推进全欧统一的欧洲学分转换与累加系统（European Credit Transfer and Accumulation System，ECTS）学分互认与学籍透明。（p. 362）
+> - **政策工具（Policy Instruments）** 依托设立于 1987 年的[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）及其后续[[Lifelong Learning|终身学习]]框架，提供专项经费资助并推进全欧统一的欧洲学分转换与累加系统（European Credit Transfer and Accumulation System，ECTS）学分互认与学籍透明。（p. 362）
 > - **责任机制（Individualized Accountability）** 将跨文化适应与弹性应变包装为现代公民的个人美德与[[Employability|就业能力]]（Employability-related Competencies），实质上是将应对宏观劳动力市场波动与失业风险的责任，隐蔽地转嫁给流动个体自负盈亏（Papatsiba, 2005, 2006）。（p. 363）
 
 #### 2. 美国绩效问责制将中小学生中途转校贬斥为表征贫困失序的病态漂泊
 
-与欧洲的高调赞颂形成尖锐对比，在美国基础教育政策语境中，学生流动往往从技术性的流动（Mobility）滑向带有严重病理学色彩的漂泊（Transiency）。（pp. 363–364）
+与欧洲的高调赞颂形成尖锐对比，在美国基础教育政策语境中，学生流动往往从技术性的流动（Mobility）滑向带有严重病理学色彩的漂泊（[[Transiency]]）。（pp. 363–364）
 
 > [!critique] 美国绩效问责框架下对流动漂泊的制度性贬抑
 > - **贫困与病态家庭标签的绑定** 政策制定者与部分研究者倾向于将中小学生学年中途转校与城市贫困、单亲抚养、住房不稳定及家庭管理失调划等号，认定流动群体存在无法安稳生活的缺陷，流动因而被视作破坏教学秩序的负面难题。（p. 363）
@@ -234,34 +240,34 @@ updated: 2026-10-10
 > [!evidence-grid] 学生流动成因实证研究对官方病态化叙事的对质
 > - **居住变迁的主导地位** 拉塞尔·伦伯格（Russell Rumberger, 2003）实证指出，居住地变迁是导致美国中小学生中途转校的最大因素（约占 60%），大多源于租房到期或家长工作调动等客观现实。（p. 363）
 > - **底层家庭的主动避险选择** 柯博等学者（Kerbow et al., 2003）对芝加哥城市学校的调查表明，大量居住变迁属于同城近距离搬迁；许多贫困与少数族裔家庭中途转校是深思熟虑的选择，旨在逃避原校严重的校园暴力、低下的教学质量与混乱校风，是底层家长谋求孩子人身安全的理性抗争。
-> - **高等教育与[[Teacher Mobility|教师流动]]的反差镜像** 在美国高等教育中，学生跨校流动被称为多机构就读（Multiple Institution Attendance），常被指责为拉低毕业率的低效损耗（Pusser & Turner, 2004）；只有富裕家庭学生的海外交流才被命名为国际交流而免遭污名。同时，在[[Teacher Mobility|教师流动]]（Teacher Mobility）镜像中，欧洲将教师跨国任教视作一体化理想（Sayer, 2006），而美国基础教育则更关注优秀教师因为待遇和环境逃离贫困薄弱学校的[[Attrition|流失]]危机（Attrition, Elfers et al., 2006; Scafidi et al., 2007）。（pp. 363–364）
+> - **高等教育与[[Teacher Mobility|教师流动]]的反差镜像** 在美国高等教育中，学生跨校流动被称为[[Multiple Institution Attendance|多机构就读]]（Multiple Institution Attendance），常被指责为拉低毕业率的低效损耗（Pusser & Turner, 2004）；只有富裕家庭学生的海外交流才被命名为国际交流而免遭污名。同时，在[[Teacher Mobility|教师流动]]（Teacher Mobility）镜像中，欧洲将教师跨国任教视作一体化理想（Sayer, 2006），而美国基础教育则更关注优秀教师因为待遇和环境逃离贫困薄弱学校的[[Attrition|流失]]危机（Attrition, Elfers et al., 2006; Scafidi et al., 2007）。（pp. 363–364）
 
 > [!contrast-table] 欧美学生流动政策建构的跨大西洋对比
 > | 比较维度 | 欧洲联盟政策话语（EU Discourse） | 美国联邦问责政策话语（US NCLB Discourse） |
 > |---|---|---|
 > | **教育学段与核心主体** | 高等教育阶段本科生与研究生（文化精英自主选择） | 基础教育中小学生（K–12，城市贫困与少数族裔被动应对） |
-> | **政策法规与制度平台** | ERASMUS、[[TEMPUS]] 终身学习计划框架 | 《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（NCLB）学校绩效报告卡 |
-> | **核心语义与修辞色彩** | 流动（Mobility）、自由、欧洲认同、跨文化资产 | 漂泊（Transiency）、失范、贫困病态、学业风险 |
+> | **政策法规与制度平台** | [[Erasmus Programme\|ERASMUS]]、[[TEMPUS]] 终身学习计划框架 | 《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（NCLB）学校绩效报告卡 |
+> | **核心语义与修辞色彩** | 流动（Mobility）、自由、欧洲认同、跨文化资产 | [[Transiency\|漂泊]]（Transiency）、失范、贫困病态、学业风险 |
 > | **治理功能定位** | 建构超国家公民归属感与网络化弹性[[Employability\|就业能力]] | 识别学校生源异化、解释未达 AYP 绩效达标的减分因子 |
 > | **对主体移动的定性** | 自主自决的公民权利与崇高时代美德 | 拒绝服从空间圈禁规训的越轨偏离行为 |
-> | **高等教育跨校流动** | 制度化全欧洲学分互认与学位无缝衔接 | 降格为多机构就读，被指责为降低系统效率与毕业率 |
+> | **高等教育跨校流动** | 制度化全欧洲学分互认与学位无缝衔接 | 降格为[[Multiple Institution Attendance\|多机构就读]]，被指责为降低系统效率与毕业率 |
 > | **[[Teacher Mobility\|教师流动]]政策镜像** | 消除边境壁垒、统一欧洲师资资质的理想目标 | 师资流失危机（Attrition），揭示良师逃离贫困薄弱学校 |
 
 ---
 
 ### 步骤三　流动儿童就学折射出国家定居化制度管控与边缘群体生存博弈的动态张力
 
-> [!claim] 核心判断：移民与流动儿童的就学并非单纯的同化融入，而是制度排斥与底层能动应对的博弈过程
+> [!claim] 核心判断：移民与[[Migrant Children|流动儿童]]的就学并非单纯的同化融入，而是制度排斥与底层能动应对的博弈过程
 > [[Migrant Education|流动儿童教育]]（Migrant Education）深刻有别于预设永久定居的移民教育；中美两国分别展现了以户籍行政壁垒与宪法平权诉讼为基础的法律准入机制；西班牙展现了移民激增下的[[Intercultural Education|跨文化教育]]调适；英印两国则揭示了正规学校固化空间对游民儿童造成的文化失调，以及游牧家庭利用识字教育作为生计保险的自发能动性。（pp. 364–367）
 
 #### 1. 中国城乡户籍壁垒形成领地化准入排斥，催生民间打工子弟学校的自发生长与整顿
 
 在中国急剧的经济转型中，数以亿计的农民工从农村腹地流向东部沿海城市，随迁子女的就学问题直接凸显了国家空间行政壁垒的刚性。（p. 365）
 
-> [!case] 中国进城务工随迁子女就学的空间壁垒与应对
-> - **制度性排斥与非正规居民身份** 依据城乡二元[[Hukou System|户籍制度]]，进入东部城市务工的人员及其子女无法获得当地户籍，沦为非正式城市居民，长期难以平等享受公共财政资助的城市公立教育（Liang & Chen, 2007; Shaoqing & Shouli, 2004; Yan, 2005）。（p. 365）
-> - **民间打工子弟学校的自发生长** 面对公立学校的高昂门槛，进城务工家庭与社会力量自发创办民办打工子弟学校，在城市边缘填补底层教育真空（Jianhua, 2006; Kwong, 2004）。
-> - **政策转向与空间清理的现实矛盾** 2003 年起国家政策开始推动公立学校扩大招收随迁儿童（Yuankai, 2006）；但在 2006 年，北京市出于控制特大城市人口规模与学校安全整顿，集中关停取缔了上百所打工子弟学校（French, 2007）。在约 2000 万流动儿童的庞大规模下，教育准入成为城市人口空间调控的行政手段。
+> [!case] 中国进城务工[[Migrant Children|随迁子女]]就学的空间壁垒与应对
+> - **制度性排斥与非正规居民身份** 依据城乡二元[[Hukou System|户籍制度]]，进入东部城市务工的人员及其子女（[[Migrant Children|随迁儿童]]）无法获得当地户籍，沦为非正式城市居民，长期难以平等享受公共财政资助的城市公立教育（Liang & Chen, 2007; Shaoqing & Shouli, 2004; Yan, 2005）。（p. 365）
+> - **民间[[Schools for Migrant Children|打工子弟学校]]的自发生长** 面对公立学校的高昂门槛，进城务工家庭与社会力量自发创办民办[[Schools for Migrant Children|打工子弟学校]]，在城市边缘填补底层教育真空（Jianhua, 2006; Kwong, 2004）。
+> - **政策转向与空间清理的现实矛盾** 2003 年起国家政策开始推动公立学校扩大招收随迁儿童（Yuankai, 2006）；但在 2006 年，北京市出于控制特大城市人口规模与学校安全整顿，集中关停取缔了上百所[[Schools for Migrant Children|打工子弟学校]]（French, 2007）。在约 2000 万[[Migrant Children|流动儿童]]的庞大规模下，教育准入成为城市人口空间调控的行政手段。
 
 #### 2. 美国司法确立无证学童受教育平权，但季节性农业流动儿童仍面临隐性分班隔离
 
@@ -345,13 +351,13 @@ updated: 2026-10-10
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **欧美教育政策对[[Student Mobility|学生流动]]存在阶层化的道德双标** 欧洲联盟通过伊拉斯谟计划将高等教育跨境求学塑造为培育共同欧洲公民与职场[[Competitiveness|竞争力]]的制度资产，而美国基础教育问责制（[[No Child Left Behind Act 2001|NCLB]]）则将中小学中途转校贬斥为表征贫困缺陷与拖累学校业绩的流动漂泊，反映出主体的社会阶层深刻决定了流动的道德评价。（pp. 361–364）
+> 1. **欧美教育政策对[[Student Mobility|学生流动]]存在阶层化的道德双标** 欧洲联盟通过[[Erasmus Programme|伊拉斯谟计划]]将高等教育跨境求学塑造为培育共同欧洲公民与职场[[Competitiveness|竞争力]]的制度资产，而美国基础教育问责制（[[No Child Left Behind Act 2001|NCLB]]）则将中小学中途转校贬斥为表征贫困缺陷与拖累学校业绩的[[Transiency|流动漂泊]]，反映出主体的社会阶层深刻决定了流动的道德评价。（pp. 361–364）
 > 2. **学校制度兼具物理领地圈禁与社会资格筛选的双重属性** 现代学校依据领地划界、统计制图与空间规则三维技术运作，既是通过围墙大门和作息规定将学龄人口固定在受控场所的物理容器，又是通过考核评定个体是否有资格进入更高阶社会阶层的筛选关卡。（pp. 360–361）
-> 3. **流动儿童求学反映了国家定居管控与边缘群体生存博弈的动态张力** 无论是中美在户籍行政壁垒与宪法平权诉讼上的法律分野，还是西英印在多语言教学、校园空间不适与游牧家庭通过识字避险上的实践，流动群体都在国家定居化管理中展现出自主应对的能动性。（pp. 365–367）
+> 3. **[[Migrant Children|流动儿童]]求学反映了国家定居管控与边缘群体生存博弈的动态张力** 无论是中美在户籍行政壁垒与宪法平权诉讼上的法律分野，还是西英印在多语言教学、校园空间不适与游牧家庭通过识字避险上的实践，流动群体都在国家定居化管理中展现出自主应对的能动性。（pp. 365–367）
 
 > [!stat-cards]- 关键实证数据快照
 > - **150 万人** 欧洲联盟伊拉斯谟计划（ERASMUS）自 1987 年设立至 2007 年二十周年期间资助的跨国研修大学生总规模。（p. 362）
-> - **2000 万人** 中国进城务工随迁学龄儿童的估计总量，面临城乡二元户籍准入排斥与打工子弟学校取缔危机。（p. 365）
+> - **2000 万人** 中国进城务工随迁学龄儿童的估计总量，面临城乡二元户籍准入排斥与[[Schools for Migrant Children|打工子弟学校]]取缔危机。（p. 365）
 > - **9%** 西班牙外籍常住人口比例，其 0–14 岁外籍学童在 2002 至 2006 年间翻了一倍以上，推动[[Intercultural Education|跨文化教育]]改革。（p. 366）
 > - **60%** 美国中小学生学年中途转校中归因于家庭居住地址变迁的比例（Rumberger, 2003），反驳纯粹家庭病态化[[Hypothesis|假设]]。（p. 363）
 
@@ -365,7 +371,7 @@ updated: 2026-10-10
 > *In recent years space and spatiality have increasingly become seen as important research topics in comparative and international education. By taking an interest in space as a domain of cultural practice, the researcher can also bring into resolution the restrictions on movement, inward inducements to movement, and the related boundaries, flows, and enclosures that have profound impact on the ways that educational policy and schooling practices are implemented, reformed, and contested.*
 
 > [!citation-card] [[Student Mobility|学生流动]]概念的两极分化
-> 审视有关学生流动的教育研究暴露了深层矛盾：在某些情境下，流动是备受推崇的目标；而在另一些情境下，它却是亟需遏制的灾难性难题。在对流动的颂扬与斥责之间，极少存在中间立场。一种是以欧盟伊拉斯谟计划为代表的高等教育流动，另一种则是美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》学校报告卡中所定义的流动——学生在学年中途转入或转出学校，被视作学校人口异化与学业问责的严重障碍。（pp. 361–362）
+> 审视有关学生流动的教育研究暴露了深层矛盾：在某些情境下，流动是备受推崇的目标；而在另一些情境下，它却是亟需遏制的灾难性难题。在对流动的颂扬与斥责之间，极少存在中间立场。一种是以欧盟[[Erasmus Programme|伊拉斯谟计划]]为代表的高等教育流动，另一种则是美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》学校报告卡中所定义的流动——学生在学年中途转入或转出学校，被视作学校人口异化与学业问责的严重障碍。（pp. 361–362）
 >
 > *Looking globally and comparatively across education research on 'student mobility' exposes a deep contradiction: in some settings this is a cherished objective and key desideratum of educational policy; in others it is woeful problem to be stemmed and urgently managed. In fact, it is quite rare to find any middle ground between the valorizing and excoriating perspectives.*
 

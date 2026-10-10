@@ -7,7 +7,7 @@ aliases:
 summary: "空间的时间化是欧洲启蒙运动确立的一种单向演化认识论偏见，指将全球地理空间的横向并列与文化差异生硬地折算为垂直的文明演进历史时间阶梯；该观念将异域原住民与少数群体贬抑为处于低级发展阶段的原始人，为帝国殖民同化、文明开化工程以及现代教育中残留的欠缺补偿话语提供了正当性辩护。"
 type: concept
 domain: "comparative-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Sedentarism]]"
   - "[[Boarding Schools]]"
   - "[[Discourse]]"
+  - "[[Migrant Children]]"
   - "[[Hypothesis]]"
   - "[[Bildung]]"
   - "[[Disciplina and Doctrina]]"
@@ -129,7 +130,7 @@ updated: 2026-10-10
 > 考察启蒙时空进化论如何在当代民族国家教育改革、少数群体就学政策与扶贫[[Discourse|话语]]中持续再生。
 
 > [!claim] [[Thomas S. Popkewitz|Popkewitz, T. S.]]
-> **教育拯救叙事中的文明等级残留** 现代教育政策话语在针对城市贫民区、流动儿童或原住民的补偿方案中，依然无意识地复刻了[[Enlightenment|启蒙运动]]的空间时间化逻辑；政策系统往往预先[[Hypothesis|假设]]这些边缘群体所在的家庭与社区空间欠缺基本的文明[[Bildung|教养]]规范，从而将学校教育包装成引领其脱离原始蒙昧、跨入现代文明门槛的拯救工程。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Popkewitz, 1998; Sobe & Fischer, 2009, p. 360)]]
+> **教育拯救叙事中的文明等级残留** 现代教育政策话语在针对城市贫民区、[[Migrant Children|流动儿童]]或原住民的补偿方案中，依然无意识地复刻了[[Enlightenment|启蒙运动]]的空间时间化逻辑；政策系统往往预先[[Hypothesis|假设]]这些边缘群体所在的家庭与社区空间欠缺基本的文明[[Bildung|教养]]规范，从而将学校教育包装成引领其脱离原始蒙昧、跨入现代文明门槛的拯救工程。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Popkewitz, 1998; Sobe & Fischer, 2009, p. 360)]]
 
 > [!claim] Paulston, R.
 > **[[Social Cartography|社会制图学]]对时间演化单线论的拓扑解构** 为终结时间演化论对多元经验的抹杀，必须通过[[Social Cartography|社会制图学]]将思想与实践重新空间化，用平铺的学术地图展示不同文化与理论[[Paradigm|范式]]在多维拓扑网络中的对话与并存，彻底打破以西方为历史终极目的地的单向进化时间轴。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]

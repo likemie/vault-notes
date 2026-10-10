@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Presence]]"
   - "[[Migrant Education]]"
+  - "[[Migrant Children]]"
   - "[[Evaluation Research]]"
   - "[[Variable]]"
   - "[[Student Mobility]]"
@@ -93,7 +94,7 @@ updated: 2026-10-10
 > - **司法终审主体** 联邦最高法院，裁定州级排斥性教育立法违宪。
 > - **联邦协调机构** 联邦教育部流动教育办公室（Office of [[Migrant Education]], OME），组织跨州区域协作网络并执行流动教育专项拨款项目（Migrant Education Program, MEP）。
 > - **地方公立学区** 被禁止在学童注册入学时核查移民身份，严禁向移民执法部门通报学生家庭身份信息。
-> - **受益流动群体** 包括墨西哥裔、海地裔、波多黎各裔、非洲裔、越南裔、柬埔寨裔及东欧移民背景的季节性农业务工子女与流动儿童。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 365–366)]]
+> - **受益流动群体** 包括墨西哥裔、海地裔、波多黎各裔、非洲裔、越南裔、柬埔寨裔及东欧移民背景的季节性农业务工子女与[[Migrant Children|流动儿童]]。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 365–366)]]
 
 > [!pathways]- 实施路径与长远制度影响
 > - **学籍注册去身份化规约** 全美公立学校统一建立不得询问移民身份的注册制度，确保入学门槛仅以学区居住事实而非合法签证为前提。
@@ -105,7 +106,7 @@ updated: 2026-10-10
 ## 效果与评价
 
 > [!finding-cards] 效果与评价
-> - **[[Migrant Education|流动儿童教育]]供给的正规化（Regularization）** 该判例确立了全美流动儿童接受免费公立教育的宪法底线，直接促成联邦教育部设立流动教育办公室（OME）并催生了由专业研究者和一线教师组成的全国性支持网络（Garza et al., 2004; Green, 2003）。
+> - **[[Migrant Education|流动儿童教育]]供给的正规化（Regularization）** 该判例确立了全美[[Migrant Children|流动儿童]]接受免费公立教育的宪法底线，直接促成联邦教育部设立流动教育办公室（OME）并催生了由专业研究者和一线教师组成的全国性支持网络（Garza et al., 2004; Green, 2003）。
 > - **“在路上的孩子”面临的持续结构性困境** 尽管获得了法定入学权利，这批被称为“在路上的孩子”（children of the road）的学童在校内仍遭遇多重制度性排斥：因英语能力受限而产生的实质性隔离、因频繁跨州流动导致的教学机会非连续性（Brunn, 1999）、家校文化期待断裂（Lopez, 1999），以及仅有极少数任课教师曾接受过针对流动学生的专业培训。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 365–366)]]
 > - **跨国比较视阈下的身份登记政治** 与中国进城务工人员集中于城市次级劳动力市场不同，美国随迁农业工人的子女主要流动于乡村农业种植区；但两国教育体系均展现出深刻的“身份核验与登记政治”（politics of documentation and registration），揭示出学校作为规范人口流动、生产“可治理主体”的空间容器特征。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 366)]]
 

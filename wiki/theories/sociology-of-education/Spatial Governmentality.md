@@ -8,7 +8,7 @@ aliases:
 summary: "空间治理术是尼古拉斯·罗斯对福柯治理术理论的空间化拓展，指出治理不仅是对身体与时间的规训，更本质地依赖于空间的构想、划界与操控；该理论通过领地化划界、空间化统治之眸与空间质地建模三大轴线，揭示了现代学校如何作为封闭性空间容器与资格筛选装置，规制不同人口群体的物理与社会流动。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 20
+theory_related_count: 23
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Space Production]]"
+  - "[[Migrant Children]]"
   - "[[Industrial District]]"
   - "[[Knowledge Questions]]"
   - "[[Sedentarism]]"
@@ -41,8 +42,10 @@ related_persons:
   - "[[Thomas S. Popkewitz]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Erasmus Programme]]"
   - "[[TEMPUS]]"
   - "[[Hukou System]]"
+  - "[[Schools for Migrant Children]]"
 related_arguments:
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
 confidence: high
@@ -115,7 +118,7 @@ graph TD
 > | 空间质地建模（Spatial Texture Modeling） | 分类框架 | 区分均质平滑的“等方空间”与具有厚度深度的“纵深空间”，为不同空间区域配置相异的统治策略。 |
 > | 空间容器（Enclosure） | 制度隐喻 | 学校作为物理与制度边界，用于固定特定人口、阻止无序流动并强制实施时间作息与道德灌输。 |
 > | 资格筛选装置（Apparatus of Qualification） | 权力功能 | 学校通过考试凭证与品行考核，决定哪些个体有资格跨越门槛参与更广阔的社会与经济空间。 |
-> | 流动与阻隔机制（Flows and Stoppages） | 动力学机制 | 空间实践通过加速合规流动（如学术精英跨国）与阻断违规流动（如流动儿童越界），维系社会秩序。 |
+> | 流动与阻隔机制（Flows and Stoppages） | 动力学机制 | 空间实践通过加速合规流动（如学术精英跨国）与阻断违规流动（如[[Migrant Children\|流动儿童]]越界），维系社会秩序。 |
 
 ---
 
@@ -129,7 +132,7 @@ graph TD
 > [!theory-proposition] 命题二｜平滑与纵深的空间质地建构催生了双重分异的[[Disciplina and Doctrina|规训]]策略
 > **解释** 治理思想对空间物理与社会质地的想象直接决定了权力的干预方式。当空间被构想为均质、等方且处处相同的“平滑平面（Smooth Plane / Isotropic Space）”时，权力便推行统一的标准化规程、重复性操作与通用问责指标；而当空间被构想为具有厚度、层级和质地不均的“纵深空间（Thick Space / Nonregular Depth）”时，差异化治理原则便随之确立。现代国家往往双管齐下：在核心社会阶层所处的主流空间推崇自由选择、民主协商与赋权参与；在边缘、流动或少数族裔集聚的次级空间，则调动官僚审查、行政限制、强制同化与身体隔离等威权规训技术。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361)]]
 >
-> **应用实例** 在现代教育问责制中，中央教育部门假定全州学校处于同一个等方考核平面上，要求所有学校达标统考；但对于游牧民儿童、无证移民儿童或贫民区流动儿童所在的边缘空间，政策系统又将其定义为带有文明欠缺或社会病态的特殊纵深区域，实施强制定居化安排或附加严格的学籍准入审查。
+> **应用实例** 在现代教育问责制中，中央教育部门假定全州学校处于同一个等方考核平面上，要求所有学校达标统考；但对于游牧民儿童、无证移民儿童或贫民区[[Migrant Children|流动儿童]]所在的边缘空间，政策系统又将其定义为带有文明欠缺或社会病态的特殊纵深区域，实施强制定居化安排或附加严格的学籍准入审查。
 
 > [!theory-proposition] 命题三｜学校兼具规训身体的空间容器与社会准入的筛选关卡功能
 > **解释** 学校既非孤立于社会的象牙塔，亦非中立的知识传授场所，而是现代空间[[Governmentality|治理术]]的枢纽装置。一方面，学校扮演着严密的空间容器角色，依靠围墙、教室门禁、考勤钟声与固定座位，将儿童固定在可严密监控的物理微观空间中，切断流浪与无序流动；另一方面，学校扮演着社会分层的空间筛选关卡角色，通过标准化测验、文凭认证与行为定性，赋予一部分人向更高阶级空间跨越的通行证，同时以学业失败或行为不端为由，取消边缘群体进入主流劳动力市场或公民权力空间的合法资格。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 361)]]
@@ -139,7 +142,7 @@ graph TD
 > [!theory-proposition] 命题四｜空间实践是统合教育制度准入与深层文化分类的核心纽带
 > **解释** 传统教育研究长久割裂了关注宏观资源分配与法律代表性的“公平-参与问题式”（Equity-Participation Problematic）和关注微观思维理性与身份评判的“[[Knowledge Questions|知识问题]]式”（Problematic of Knowledge）。空间治理术表明，学校的日常运作本质上是一系列具体的“空间实践”（Spatial Practices）：通过对物理边界的构筑、对人口流动的催化或阻滞（Flows and Stoppages），学校既在物质层面硬性决定谁能进入校园空间，又在文化层面根据[[Sedentarism|定居主义]]规范裁定何种流动是合法的时代美德、何种流动是需要矫正的病态偏常。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 367–368)]]
 >
-> **应用实例** 在对待[[Student Mobility|学生流动性]]时，欧盟将精英大学生通过伊拉斯谟计划或[[TEMPUS|天普计划]]的跨国求学赞许为培育欧洲认同的文明资产（平滑流动），而美国学校报告卡与中国[[Hukou System|户籍制度]]则将底层家庭因生计搬迁造成的中途转校界定为破坏教学秩序的异类并设置行政阻隔（空间阻断）。
+> **应用实例** 在对待[[Student Mobility|学生流动性]]时，欧盟将精英大学生通过[[Erasmus Programme|伊拉斯谟计划]]或[[TEMPUS|天普计划]]的跨国求学赞许为培育欧洲认同的文明资产（平滑流动），而美国学校报告卡与中国[[Hukou System|户籍制度]]则将底层家庭因生计搬迁造成的中途转校界定为破坏教学秩序的异类并设置行政阻隔（空间阻断）。
 
 ---
 
@@ -157,17 +160,17 @@ graph TD
 > |:---------|:---------------|:-----------------|:-----------------|
 > | 命题一（Rose, 1999; [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer, 2009]]） | **边界划定与领地化（Territorialization）** 政策如何划定教育治理的空间单位？ | 学区边界划分图、学校服务半径、行政隶属层级、学籍所在地证明。 | 明确划分离散单位，将空间外的流动视为越界并设置准入壁垒，支持空间领地化假说。 |
 > | 命题一（空间凝视构件） | **空间凝视与可视化（Spatial Gaze）** 管理者如何通过数据与图表使受教育者变得可计算？ | 学校报告卡、流动学生名册、辍学地图、标准化测试分数分布图表。 | 若政策严重依赖图表化、空间分布化的统计指征来定义薄弱与偏差群体，表明空间化凝视正在运作。 |
-> | 命题二（Rose, 1999; Foucault, 1971） | **空间质地分化（Spatial Texture）** 主流与边缘群体所处空间被赋予了何种不同质地与治理逻辑？ | 普通公办学校与打工子弟学校/定居点学校的资源对比、对流动学生转学的定性语态。 | 若对主流中产推行自由[[School Choice\|择校]]与个性化发展，而对流动底层推行封闭隔离或强制定居同化，支持空间质地双重分化假说。 |
+> | 命题二（Rose, 1999; Foucault, 1971） | **空间质地分化（Spatial Texture）** 主流与边缘群体所处空间被赋予了何种不同质地与治理逻辑？ | 普通公办学校与[[Schools for Migrant Children\|打工子弟学校]]/定居点学校的资源对比、对流动学生转学的定性语态。 | 若对主流中产推行自由[[School Choice\|择校]]与个性化发展，而对流动底层推行封闭隔离或强制定居同化，支持空间质地双重分化假说。 |
 > | 命题三（空间容器构件） | **空间容器与身体约束（School Enclosure）** 学校如何通过物理微观空间约束学生的身体自由？ | 校园围墙与出入道闸、课桌椅排列方式、作息时刻表、走廊纪律规范。 | 检查高度刚性的空间与时间安排是否旨在消除学生的街头流动性与社区自主习惯。 |
 > | 命题三（Popkewitz & Lindblad, 2000） | **关卡筛选与资格赋予（Spatial Qualification）** 学校机制如何决定谁有权进入下一阶社会空间？ | 毕业文凭、升学考试门槛、品行评语、分流机制与户籍学籍联动机制。 | 揭示学校考核如何将空间区隔转化为个人的学业禀赋差异，进而合法化社会分层。 |
-> | 命题四（[[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer, 2009]]） | **流动性与阻隔调控（Flows and Stoppages）** 体制如何加速或阻滞不同阶层群体的空间位移？ | 跨境学生签证、学分互认协议、公立学位准入户籍门槛、流动儿童专项资助方案。 | 若政策对精英流动提供绿色通道与补贴，同时对底层家庭设置身份核验与驱逐，支持流动分层调控假说。 |
+> | 命题四（[[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer, 2009]]） | **流动性与阻隔调控（Flows and Stoppages）** 体制如何加速或阻滞不同阶层群体的空间位移？ | 跨境学生签证、学分互认协议、公立学位准入户籍门槛、[[Migrant Children\|流动儿童]]专项资助方案。 | 若政策对精英流动提供绿色通道与补贴，同时对底层家庭设置身份核验与驱逐，支持流动分层调控假说。 |
 
 ---
 
 ## 局限性与适用边界
 
 > [!theory-boundary] 局限性与适用边界
-> - **适合分析** 民族国家利用初等与中等教育体系实施人口调控、阶层固化、学区隔离、少数族裔定居同化以及流动儿童排斥的制度过程。
+> - **适合分析** 民族国家利用初等与中等教育体系实施人口调控、阶层固化、学区隔离、少数族裔定居同化以及[[Migrant Children|流动儿童]]排斥的制度过程。
 > - **成立条件** 研究对象须处于具有一定[[Bureaucracy|官僚科层制]]水平与空间规划权力的现代治理体系之下，且存在明确的制度化学校教育形态。
 > - **解释不足** 容易过度强调权力技术的无所不在与结构性严密性，相对低估受[[Disciplina and Doctrina|规训]]群体（如移民家庭、游牧民族、流动学生）的日常生活反抗、非正式网络支持以及利用制度缝隙实现的能动超越。
 > - **不能直接推出** 不能仅凭学校存在围墙或制度化考试就断定其必然发挥专制压迫作用；物理空间管理是群体教育规模化实施的技术前提，不能等同于纯粹的阶级规训。
@@ -192,7 +195,7 @@ graph TD
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 运用空间[[Governmentality|治理术]]的三大轴线系统剖析全球教育中的[[Student Mobility|学生流动性]][[Discourse|话语]]差异，以及中国、美国、西班牙、英国和印度的流动儿童边缘化机制。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 运用空间[[Governmentality|治理术]]的三大轴线系统剖析全球教育中的[[Student Mobility|学生流动性]][[Discourse|话语]]差异，以及中国、美国、西班牙、英国和印度的[[Migrant Children|流动儿童]]边缘化机制。
 
 ---
 

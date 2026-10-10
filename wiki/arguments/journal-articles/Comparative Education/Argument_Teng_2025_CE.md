@@ -10,7 +10,7 @@ title: "Argument_Teng_2025_CE"
 argument_key: "Argument_Teng_2025_CE"
 argument_display_title: "Migration for school choice: urbanisation and rural social stratification in China"
 argument_kind: "journal-article"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Quality Education]]"
   - "[[Academic Achievement]]"
   - "[[Class Size]]"
+  - "[[Migrant Children]]"
 related_theories:
   - "[[Social Capital Theory]]"
 related_methods:
@@ -456,7 +457,7 @@ source_language: en
 > [!stat-cards]- 核心统计数据
 > - **83%** 2000 年至 2022 年间，全国农村小学因合并政策而被关闭的比例。(p.304)
 > - **27.1%** G县被调查的 6 所农村学校仅保留了其对应学区服务人口内 27.1% 的学龄学生，生源[[Attrition\|流失]]极其惨重。(p.306, 表3)
-> - **68.1%** G县县城小学中，来自学区以外的农村随迁子女即择校迁移生源所占的比例。(p.306, 表2)
+> - **68.1%** G县县城小学中，来自学区以外的农村[[Migrant Children|随迁子女]]即择校迁移生源所占的比例。(p.306, 表2)
 > - **21,325 元** 2018 年G县县城陪读家庭的年均基本开支，是同期该县农村人均年收入即 10,340 元的 2.06 倍，构成了沉重的财务负担 (第 308 页)。
 > - **7,000 元** 2023 年追踪回访时，G县县城租房年租金的最低起步门槛价 (第 308 页)。
 > - **87.5%** 县城受访的农村随迁陪读家庭在入学时动用了非正式社会关系网络的比例 (第 308 页)。
