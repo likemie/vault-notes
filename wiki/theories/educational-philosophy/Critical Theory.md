@@ -5,7 +5,7 @@ aliases:
 summary: "以法兰克福学派与哈贝马斯认识兴趣论为基础的规范性社会理论，主张知识与政策均具利益构成性，致力于通过意识形态批判揭示支配结构，推动实践解放与实质民主"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 46
+theory_related_count: 47
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Transformative Paradigm]]"
   - "[[Ideal Speech Situation]]"
   - "[[Praxis]]"
+  - "[[Institutional Displacement]]"
   - "[[Value Neutrality]]"
   - "[[Evidence-Based Education]]"
   - "[[Hypothesis]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-16
-updated: 2026-10-08
+updated: 2026-10-11
 ---
 
 # Critical Theory
@@ -123,7 +124,7 @@ updated: 2026-10-08
 > | **[[Ideal Speech Situation\|理想言说情境]]** | 规范准则 | 设定所有参与者拥有完全平等的发声权利、免受权力胁迫与层级压制的对称沟通规范，作为评估现实民主与学术商议质量的标准。 |
 > | **实践（[[Praxis]]）** | 行动机制 | 在理论反思指导下指向自由与正义的自觉变革行动。强调反思与行动的有机融合，使专业实践超越纯粹的技术操作。 |
 > | **政策的价值建构属性** | 概念基石 | 指出公共政策并非客观中立的科学工程，而是统治群体关于理想社会秩序的权威宣告，本质是负载利益与价值偏好的社会建构。 |
-> | **[[Critical Pluralism\|批判性多元主义]]** | 制度替代模型 | 埃德蒙森提出的批判性替代框架，要求教育者统整功能、沟通与批判三类研究，在本土拒止、社会结盟与伦理对质中重夺自主权。 |
+> | **[[Critical Pluralism\|批判性多元主义]]** | [[Institutional Displacement\|制度替代]]模型 | 埃德蒙森提出的批判性替代框架，要求教育者统整功能、沟通与批判三类研究，在本土拒止、社会结盟与伦理对质中重夺自主权。 |
 > | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 学术史证据 | 论证 1970 年代批判与解释性知识共同体打破比较教育学[[Structural Functionalism\|结构功能主义]]霸权的历史转向。 |
 
 > [!mechanism-map]- 机制图：批判理论的解构与解放动力链条

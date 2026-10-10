@@ -7,13 +7,13 @@ title: "Argument_Mahoney_Thelen_2009_Cambridge"
 argument_key: "Argument_Mahoney_Thelen_2009_Cambridge"
 argument_display_title: "Explaining institutional change: Ambiguity, agency, and power"
 argument_kind: "edited-volume"
-argument_related_count: 0
+argument_related_count: 7
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#e5e7eb"
 authors: []
 editors:
-  - "Mahoney, J."
+  - "[[James Mahoney|Mahoney, J.]]"
   - "[[Kathleen Thelen|Thelen, K.]]"
 source_language: "en"
 book_title: "Explaining Institutional Change: Ambiguity, Agency, and Power"
@@ -24,6 +24,20 @@ doi: ""
 isbn: "9780511658440"
 citation: "Mahoney, J., & Thelen, K. (Eds.). (2009). Explaining institutional change: Ambiguity, agency, and power. Cambridge: Cambridge University Press."
 tags: ["theme/institutional-change", "theme/historical-institutionalism", "theme/book-reading"]
+related_concepts:
+  - "[[Document]]"
+  - "[[Creativity]]"
+related_theories:
+  - "[[Theory of Gradual Institutional Change]]"
+related_persons:
+  - "[[James Mahoney]]"
+  - "[[Kathleen Thelen]]"
+related_facts:
+  - "[[Research in Schools Evaluation]]"
+related_arguments:
+  - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
+sources:
+  - "[[books/Mahoney_Thelen_2009_Cambridge/Mahoney_Thelen_2009_Cambridge|Mahoney_Thelen_2009_Cambridge]]"
 status: "draft"
 created: "2026-10-11"
 updated: "2026-10-11"
@@ -35,8 +49,8 @@ updated: "2026-10-11"
 
 > [!volume-profile] 阅读档案
 > - **书名** 《解释制度变迁，模糊性、能动性与权力》（Explaining Institutional Change: Ambiguity, Agency, and Power，中文题名为暂译）。
-> - **编者** 詹姆斯·马奥尼（James Mahoney）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）。
-> - **材料边界** 当前依据版权页、目录、前言和章节起止页建立阅读入口，尚未进行各章论证解读。
+> - **编者** [[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）。
+> - **材料边界** 当前依据版权页、目录、前言和章节起止页建立阅读入口，已完成第 1 章理论导论解读。
 > - **章节关系** 七章由理论导论、五个经验研究章节和制度主义比较章节组成。（前言，pp. xi–xii）
 > - **使用方式** 按章建立独立章节 Argument，本页维护章节结构、原文入口和阅读进度。
 
@@ -48,7 +62,7 @@ updated: "2026-10-11"
 ## 全书结构与章节路线
 
 > [!volume-structure] 章节组织
-> - **第 1 章，理论导论** 渐进制度变迁理论。
+> - **第 1 章，理论导论** [[Theory of Gradual Institutional Change|渐进制度变迁理论]]。
 > - **第 2–6 章，经验研究** 巴西卫生保健改革、肯尼亚土地文书、美国社会保障、印度尼西亚威权制度和美国众议院规则。
 > - **第 7 章，制度主义比较** 理性主义与社会学视角下的历史制度主义。
 
@@ -57,12 +71,12 @@ updated: "2026-10-11"
 > [!chapter-roadmap] 阅读进度
 > - **准备完成** 七章已转换为七个 TXT，每章包含原有脚注和参考[[Document|文献]]。
 > - **阅读顺序** 从第 1 章理论导论开始，按原书次序阅读第 2–6 章，最后阅读第 7 章。
-> - **当前进度** 尚未建立章节论证页；具体机制、证据评价和跨章综合留待分章解读。
+> - **当前进度** 第 1 章理论导论已完成解读（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]）；第 2–6 章经验章节与第 7 章制度主义比较章节待解读。
 
 ## 各章概览
 
 > [!chapter-index] 原文入口
-> - **第 1 章，渐进制度变迁理论** A Theory of Gradual Institutional Change。James Mahoney; [[Kathleen Thelen]]，原书 pp. 1–37。[TXT](../../../../raw/Mahoney_Thelen_2009_Cambridge_txt/Ch01_Mahoney_Thelen_Gradual_Institutional_Change.txt)。待解读。
+> - **第 1 章，[[Theory of Gradual Institutional Change|渐进制度变迁理论]]** A Theory of Gradual Institutional Change。[[James Mahoney|James Mahoney]]; [[Kathleen Thelen]]，原书 pp. 1–37。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|章节论证页]]。[TXT](../../../../raw/Mahoney_Thelen_2009_Cambridge_txt/Ch01_Mahoney_Thelen_Gradual_Institutional_Change.txt)。系统建构权力分配、规则模糊性与依从裁量权支柱，提出置换、层叠、漂移与转换四类演进模式及行动者矩阵。
 > - **第 2 章，渗入国家，巴西卫生保健改革的演变** Infiltrating the State: The Evolution of Health Care Reforms in Brazil, 1964–1988。Tulia G. Falleti，原书 pp. 38–62。[TXT](../../../../raw/Mahoney_Thelen_2009_Cambridge_txt/Ch02_Falleti_Health_Care_Reforms_in_Brazil.txt)。待解读。
 > - **第 3 章，制度的矛盾潜能，肯尼亚土地文书制度的兴衰** The Contradictory Potential of Institutions: The [[Research in Schools Evaluation|RISE]] and Decline of Land Documentation in Kenya。Ato Kwamena Onoma，原书 pp. 63–93。[TXT](../../../../raw/Mahoney_Thelen_2009_Cambridge_txt/Ch03_Onoma_Land_Documentation_in_Kenya.txt)。待解读。
 > - **第 4 章，政策制定作为政治约束，美国社会保障制度的发展** Policymaking as Political Constraint: Institutional Development in the U.S. Social Security Program。Alan M. Jacobs，原书 pp. 94–131。[TXT](../../../../raw/Mahoney_Thelen_2009_Cambridge_txt/Ch04_Jacobs_US_Social_Security.txt)。待解读。

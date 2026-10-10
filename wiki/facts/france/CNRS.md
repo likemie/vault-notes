@@ -9,7 +9,7 @@ subtype: organization
 region: france
 fact_region: "france"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -23,6 +23,7 @@ tags:
   - policy/research-governance
   - theme/comparative-governance
 related_concepts:
+  - "[[Institutional Displacement]]"
   - "[[Emergence]]"
   - "[[Grandes Ecoles]]"
   - "[[Normal School]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-08
+updated: 2026-10-11
 ---
 
 # CNRS
@@ -62,7 +63,7 @@ updated: 2026-10-08
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 法国国家科学研究中心（Centre National de la Recherche Scientifique，简称 CNRS）是 1939 年成立的法国最高国家级公共科研机构，直属法国高等教育和科研部，也是欧洲规模最大的基础研究实体；其在法律上定性为科学技术公立机构（Établissement Public à Caractère Scientifique et Technologique, EPST），以全职终身制国家公务员（Fonctionnaires）专职从事前沿探索为核心基石，与英美以短期竞争性课题和大学驱动为主的科研治理体系形成鲜明的制度替代路径。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, p. 809)]]
+> 法国国家科学研究中心（Centre National de la Recherche Scientifique，简称 CNRS）是 1939 年成立的法国最高国家级公共科研机构，直属法国高等教育和科研部，也是欧洲规模最大的基础研究实体；其在法律上定性为科学技术公立机构（Établissement Public à Caractère Scientifique et Technologique, EPST），以全职终身制国家公务员（Fonctionnaires）专职从事前沿探索为核心基石，与英美以短期竞争性课题和大学驱动为主的科研治理体系形成鲜明的[[Institutional Displacement|制度替代]]路径。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, p. 809)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1939 年 10 月由法国政府法令正式设立（整合了 1930 年代早期的国家科研基金会与纯科学研究高等委员会），旨在第二次世界大战爆发前夕统筹国家科学力量、协调全国基础与应用科学探索，战后迅速确立为国家战略级综合科研母体。
@@ -155,5 +156,5 @@ updated: 2026-10-08
 > | [[Pierre Bourdieu]] | Person | 法国当代社会学大师，曾荣获 CNRS 金奖并长期在此开展学术研究。 |
 > | [[Dan Sperber]] | Person | 法国认知科学家，长期担任 CNRS 名誉研究主任。 |
 > | [[Systems of Innovation]] | Theory | 法国国家创新系统（NIS）中专职国家科研机构与[[Grandes Ecoles\|大学校]]分立的经典制度载体。 |
-> | [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017]] | Argument | 论证 CNRS 展现了高等教育治理与资源分配的跨国多样性及制度替代路径。 |
+> | [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017]] | Argument | 论证 CNRS 展现了高等教育治理与资源分配的跨国多样性及[[Institutional Displacement\|制度替代]]路径。 |
 > | [[Argument_Atkinson_2008_TIS\|Atkinson & Blanpied, 2008]] | Argument | 剖析法国 CNRS 与大学校精英分立对大众大学与科研共生造成的制度瓶颈。 |

@@ -10,9 +10,9 @@ summary: "多位独立评判者使用同一工具对相同对象评分时彼此�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 31
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 32
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/research-methods
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Heterogeneity]]"
   - "[[Observer Drift]]"
+  - "[[Institutional Drift]]"
   - "[[Hypothesis]]"
   - "[[Reflexivity]]"
   - "[[Halo Effect]]"
@@ -54,7 +55,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
 status: draft
 created: 2026-06-01
-updated: 2026-09-17
+updated: 2026-10-11
 ---
 # Inter-Rater Reliability
 
@@ -103,7 +104,7 @@ updated: 2026-09-17
 > - **简单百分比计算** 计算评分者间一致性百分比：两位评判者评分一致的次数除以总评分次数
 > - **Robson 的复杂方法** Robson (2002, p. 341) 提出了在[[Coding in Qualitative Research\|编码]]观察数据中测量评分者间信度的更复杂方法
 > - **常见统计指标** Cohen's κ（两位评判者、类别评定）、Fleiss' κ（多位评判者）、[[Intraclass Correlation Coefficient\|组内相关系数]] ICC（连续评分）
-> - **[[Observer Drift\|观察者漂移]]** 需避免疲劳和观察者漂移（observer drift），观察者随时间推移逐渐改变评分标准（Cooper & Schindler, 2001, p. 380）
+> - **[[Observer Drift\|观察者漂移]]** 需避免疲劳和观察者漂移（observer [[Institutional Drift|drift]]），观察者随时间推移逐渐改变评分标准（Cooper & Schindler, 2001, p. 380）
 
 > [!formula-step] 评分者间信度的计算公式
 > $$

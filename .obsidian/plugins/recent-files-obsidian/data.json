@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Argument_VanDerHeijden_2011_Politics",
-      "path": "wiki/arguments/journal-articles/Politics/Argument_VanDerHeijden_2011_Politics.md"
+      "basename": "Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change",
+      "path": "wiki/arguments/books/Mahoney_Thelen_2009_Cambridge/Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change.md"
+    },
+    {
+      "basename": "Institutional Displacement",
+      "path": "wiki/concepts/political-economy-geopolitics/Institutional Displacement.md"
     },
     {
       "basename": "Institutional Layering",
       "path": "wiki/concepts/political-economy-geopolitics/Institutional Layering.md"
+    },
+    {
+      "basename": "Argument_Mahoney_Thelen_2009_Cambridge",
+      "path": "wiki/arguments/books/Mahoney_Thelen_2009_Cambridge/Argument_Mahoney_Thelen_2009_Cambridge.md"
+    },
+    {
+      "basename": "Argument_VanDerHeijden_2011_Politics",
+      "path": "wiki/arguments/journal-articles/Politics/Argument_VanDerHeijden_2011_Politics.md"
     },
     {
       "basename": "Ray Pawson",
@@ -187,18 +199,6 @@
     {
       "basename": "Policy Conditionalities",
       "path": "wiki/concepts/science-policy/Policy Conditionalities.md"
-    },
-    {
-      "basename": "Valley of Death",
-      "path": "wiki/concepts/university-industry-collaboration/Valley of Death.md"
-    },
-    {
-      "basename": "Technology Readiness Level",
-      "path": "wiki/concepts/university-industry-collaboration/Technology Readiness Level.md"
-    },
-    {
-      "basename": "Pilot Scale Platform",
-      "path": "wiki/concepts/university-industry-collaboration/Pilot Scale Platform.md"
     }
   ],
   "omittedPaths": [],

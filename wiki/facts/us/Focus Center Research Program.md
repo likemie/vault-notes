@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Precompetitive Research]]"
   - "[[Research Translation]]"
   - "[[Heterogeneous Integration]]"
+  - "[[Institutional Displacement]]"
   - "[[University-Industry Collaboration]]"
   - "[[Paradigm]]"
   - "[[Document]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-10
+updated: 2026-10-11
 ---
 
 # Focus Center Research Program
@@ -168,7 +169,7 @@ updated: 2026-10-10
 > > - **制度回应与平衡** FCRP 严格坚持基础物理与前竞争探索定位，禁止企业将具体的近中期产品工程问题带入中心，并在资助协议中刚性保障研究成果公开自由发表；相关[[Qualitative Interview|质性访谈]]也证实，相较于 GRC 等产业驱动型计划，FCRP 参与高校教授享有更显著的学术自主权。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 248–249)]]
 
 > [!lessons] 经验教训与高教启示
-> - **大[[Corporate R&D Labs|企业中央实验室]]衰落后的制度替代机制** 表明在企业缩减基础研究的产业成熟期，国家必须建立多主体共建的大学研究中心，以承担战略性产业的底层科学地基重任。
+> - **大[[Corporate R&D Labs|企业中央实验室]]衰落后的[[Institutional Displacement|制度替代]]机制** 表明在企业缩减基础研究的产业成熟期，国家必须建立多主体共建的大学研究中心，以承担战略性产业的底层科学地基重任。
 > - **人才培养与基础科研的双重红利** 证明了将前沿科研资助直接注入[[Research Universities|研究型大学]]的研究生教育，比建立封闭式国家实验室能产生更强大的产业人才外溢与技术扩散效应。
 > - **50:50 公私对等联合注资的放大效应** FCRP 的 [[DARPA]]-产业界对等配资模式证明，政府资金可通过与产业会费等比配套的方式实现双重杠杆放大，既保障长周期研发稳定性，又通过产业出资强化研究方向的实用导向。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 249, 257–258)]]
 

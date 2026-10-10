@@ -9,7 +9,7 @@ aliases:
 summary: "由 David 与 Arthur 奠基、经 Pierson 扩展至制度分析的演化经济学与制度主义核心理论；阐明历史偶然事件在规模报酬递增、自我强化机制、网络外部性与高转换成本驱动下，如何将技术轨道、产业标准或组织制度锁定于特定均衡；在半导体与高教领域，揭示高校通过“教育即标准”将开源架构内生化为全球产业生态路径依赖的微观机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 27
+theory_related_count: 28
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Determinism]]"
   - "[[Market Failure]]"
+  - "[[Institutional Conversion]]"
   - "[[National Innovation System]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[University-Industry Collaboration]]"
@@ -188,7 +189,7 @@ updated: 2026-10-11
 > > [!axis] 制度变迁中的[[Determinism|决定论]] vs 制度演化能动性
 > > 历史制度主义内部就路径依赖理论是否过度强调制度刚性、无法解释渐进式制度演进与制度突破进行反思。
 > >
-> > - **Kathleen Thelen（2004）** 提出[[Institutional Layering|制度层叠]]（Layering）与制度转换（Conversion）概念，指出制度变迁往往不是依靠外生危机的瞬间剧烈断裂，而是在既有路径内部由行动者持续进行渐进式重塑。
+> > - **Kathleen Thelen（2004）** 提出[[Institutional Layering|制度层叠]]（Layering）与[[Institutional Conversion|制度转换]]（Conversion）概念，指出制度变迁往往不是依靠外生危机的瞬间剧烈断裂，而是在既有路径内部由行动者持续进行渐进式重塑。
 > > - **Jeroen van der Heijden（2011）** 进一步澄清路径依赖与分层变迁的理论分界：外围新要素的叠加若只是强化核心并筑高转换壁垒（如互联网高厚度商），本质属于路径依赖的自我强化与制度再生产；真正的制度层叠必须随时间推移改变原有规则规约行为的方式，二者不可混淆。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–14)]]
 
 ---

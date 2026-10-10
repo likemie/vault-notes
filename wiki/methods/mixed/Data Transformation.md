@@ -5,12 +5,13 @@ summary: "混合方法研究中的数据整合策略之一，将质性数据转�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"
 tags: [mixed-methods, research-methodology, data-analysis]
 related_concepts:
+  - "[[Institutional Conversion]]"
   - "[[Variable]]"
   - "[[Integration in Mixed Methods]]"
 related_theories: []
@@ -34,14 +35,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-09-11
+updated: 2026-10-11
 ---
 
 # Data Transformation
 
 ## 定义
 
-> [!def] 数据转换（Data Transformation / Data Conversion）
+> [!def] 数据转换（Data Transformation / Data [[Institutional Conversion|conversion]]）
 > [[Mixed Methods Research\|混合方法研究]]中将一种类型的数据转换为另一种类型的策略。Teddlie & Tashakkori (2009, p. 27) 将其称为"数据转换"（data conversion / transformation）：质性数据被"量化"（quantitized）——转换为数字（通常为名义或序数尺度）；量化数据被"质化"（qualitized）——转换为叙事，然后用质性数据分析程序处理（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1）。
 
 在 Creswell & Creswell (2022) 的框架中，数据转换是[[Convergent Design|聚敛式设计]]（Convergent Design）中三种整合分析方式之一。具体操作是将质性主题或[[Coding in Qualitative Research|编码]]进行计数（并可能分组），形成量化测量指标。这一方法在量化训练背景的研究者中较受欢迎（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.238]]）。

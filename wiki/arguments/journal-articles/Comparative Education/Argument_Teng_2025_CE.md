@@ -10,7 +10,7 @@ title: "Argument_Teng_2025_CE"
 argument_key: "Argument_Teng_2025_CE"
 argument_display_title: "Migration for school choice: urbanisation and rural social stratification in China"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Class Size]]"
   - "[[Migrant Children]]"
+  - "[[Institutional Displacement]]"
 related_theories:
   - "[[Social Capital Theory]]"
 related_methods:
@@ -472,7 +473,7 @@ source_language: en
 >
 > *Peidu, the school choice in rural China, is also a stratified practice along class lines, similar to school choice in international contexts.*
 
-> [!citation-card]- 歧视性质的制度置换
+> [!citation-card]- 歧视性质的[[Institutional Displacement|制度置换]]
 > 基于户口的行政歧视正日益且隐蔽地被基于家庭社会经济地位的市场歧视所取代。(p.313)
 >
 > *The administrative discrimination based on [[Hukou System\|hukou]] is increasingly and implicitly being replaced by market discrimination based on family socioeconomic standings.*

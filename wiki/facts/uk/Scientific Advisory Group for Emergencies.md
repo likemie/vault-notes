@@ -12,7 +12,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Moral Sidestep]]"
   - "[[Big Science]]"
   - "[[Conflict of Interest in Research]]"
+  - "[[Institutional Displacement]]"
   - "[[Metascience]]"
   - "[[Document]]"
   - "[[Post-Normal Science]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-08
+updated: 2026-10-11
 ---
 
 # Scientific Advisory Group for Emergencies
@@ -158,7 +159,7 @@ updated: 2026-10-08
 >   2. **决策转化黑箱与政治推诿** 科学顾问的推论究竟在内阁讨论中何时被采纳、何时被篡改或驳回缺乏[[Audit Trail\|审计追踪]]，导致循证决策过程在行政权力面前极易沦为道德侧步（[[Moral Sidestep]]）与修辞粉饰；
 >   3. **终极因果影响后验追踪全面缺位** 国家投入巨额资源维系庞[[Big Science|大科学]]咨询网络，但对于被采纳或被否决的顾问建议究竟在多大程度上减缓了病毒传播、挽救了生命，或造成了何种次生社会经济代价，始终缺乏制度化的因果后验评估（[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, p. 157]]）。
 > - **狂牛病（BSE）危机的历史镜鉴（Hinchliffe, 2001）** 1990 年代英国暴发的牛脑海绵状病（BSE）公共卫生危机中，官方科学顾问委员会同样暴露出类似弊病：专家遴选缺乏显性标准、潜在利益冲突（[[Conflict of Interest in Research]]）未予披露，审议过程高度保密，且顾问机构将科学上极不确定的早期推断包装为“食用英国牛肉绝对安全”的虚假政治确定性（Hinchliffe, 2001，引自 Chapter 7 案例）。这一历史重演表明，若缺乏对顾问机构本身的元评估机制，应急咨询极易蜕变为政治危机推诿的护身符。
-> - **科学咨询机构评价真空与制度替代选择（Gough, 2020; [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022]]）** [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022, pp. 150–151)]]尖锐指出，各国政府在建立高级别特设科学咨询委员会时，普遍缺乏清晰的合理性论证——政府获取科学证据并非仅有组建临时专家小组一途，完全可以通过常设学术学会（Academic Societies）与政府内部专业研究分析师网络（Government Research Analysts）达成同等乃至更具长效性的实证支撑。然而现实中，这些专门委员会不仅缺乏自我有效性评价框架，更是普遍处于元研究（[[Metascience|Research on Research]] Use）的监控盲区（Box 7.6, p. 157）。
+> - **科学咨询机构评价真空与[[Institutional Displacement|制度替代]]选择（Gough, 2020; [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022]]）** [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022, pp. 150–151)]]尖锐指出，各国政府在建立高级别特设科学咨询委员会时，普遍缺乏清晰的合理性论证——政府获取科学证据并非仅有组建临时专家小组一途，完全可以通过常设学术学会（Academic Societies）与政府内部专业研究分析师网络（Government Research Analysts）达成同等乃至更具长效性的实证支撑。然而现实中，这些专门委员会不仅缺乏自我有效性评价框架，更是普遍处于元研究（[[Metascience|Research on Research]] Use）的监控盲区（Box 7.6, p. 157）。
 
 > [!citation-card] 代表性批判[[Document\|文献]]
 > [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]]在总结国家核心科学顾问机制时提出了深刻的[[Metascience|元科学]]警示：

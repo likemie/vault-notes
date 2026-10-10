@@ -7,7 +7,7 @@ aliases:
 summary: "指科技企业与风险资本在避险动机、道德不可知论与商业暴利驱使下，系统性放弃国防安全、公共治安、基础教育与重大医疗等具有高度政治争议与体制复杂性的硬核公共难题，转而将顶尖智力与资金集中于外卖、网购、打车与休闲游戏等微小消费级便利的产业与文化逃避倾向。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Innovation Desert]]"
   - "[[Artefact]]"
   - "[[Consumer Internet]]"
+  - "[[Institutional Drift]]"
   - "[[Techno-Utopianism]]"
   - "[[Market Triumphalism]]"
   - "[[Luxury Belief]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-11
 ---
 
 # Technological Escapism
@@ -65,7 +66,7 @@ updated: 2026-10-08
 > [!citation-card] 卡普与扎米斯卡论科技界的消费主义逃避
 > 科技行业向消费者诉求的倾斜，既反映又助长了一种特定的技术逃避主义——硅谷本能地避开我们作为社会所面临的最重要难题，转而投向那些本质上微不足道却极易解决的日常生活消费琐事，从在线购物到外卖配送。从国家防务到暴力犯罪、从教育改革到医学研究，一整套挑战在许多人看来都过于棘手、过于棘手且充斥着政治争议，以至于无法得到真正的应对。大多数人满足于将这些硬核难题束之高阁。相比之下，玩具不会顶嘴、不会召开新闻发布会，也不会资助抗议游行。悲剧在于，对硅谷而言，服务普通消费者往往远比服务公共领域更容易、更暴利，而且风险要低得多。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 172–173)]]
 >
-> *The drift of the technology world to the concerns of the consumer both reflected and helped reinforce a certain technological escapism—the instinct by Silicon Valley to steer away from the most important problems we face as a society toward what are essentially the minor and trivial yet solvable inconveniences of everyday consumer life, from online shopping to food delivery. An entire swath of challenges from national defense to violent crime, education reform to medical research, appeared to many to be too intractable, too thorny, and too politically fraught to address in any real way. Most were content to set the hard problems aside. Toys, by contrast, did not talk back, hold press conferences, or fund pressure groups. The tragedy is that it has often been far easier and more lucrative for Silicon Valley to serve the consumer than the public, and certainly less risky.*
+> *The [[Institutional Drift|drift]] of the technology world to the concerns of the consumer both reflected and helped reinforce a certain technological escapism—the instinct by Silicon Valley to steer away from the most important problems we face as a society toward what are essentially the minor and trivial yet solvable inconveniences of everyday consumer life, from online shopping to food delivery. An entire swath of challenges from national defense to violent crime, education reform to medical research, appeared to many to be too intractable, too thorny, and too politically fraught to address in any real way. Most were content to set the hard problems aside. Toys, by contrast, did not talk back, hold press conferences, or fund pressure groups. The tragedy is that it has often been far easier and more lucrative for Silicon Valley to serve the consumer than the public, and certainly less risky.*
 
 > [!boundary]- 概念边界
 > - 不等于普通商业消费创新 — 普通消费应用旨在改善民生便利；技术逃避主义特指以微小便利替代重大公共责任的制度性逃避。

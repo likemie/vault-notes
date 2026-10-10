@@ -8,7 +8,7 @@ aliases:
 summary: "规制治理与公共行政学中用以解释规则与审查细则单向累加、只增不减的制度病理；指在危机、丑闻或市场失灵驱动下，监管系统持续叠加新标准与合规程序而罕有清理旧规则，导致制度体系如同机械棘轮般单向加码，最终引发合规负担过重与规制不合理性困境。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,8 +20,10 @@ tags:
 related_concepts:
   - "[[Market Failure]]"
   - "[[Institutional Layering]]"
+  - "[[Institutional Drift]]"
   - "[[Red Tape]]"
   - "[[Attrition]]"
+  - "[[Institutional Displacement]]"
   - "[[Competitiveness]]"
   - "[[Professional Judgment]]"
 related_theories: []
@@ -69,7 +71,7 @@ updated: 2026-10-11
 ## 概念辨析
 
 > [!contrast-table] 规制棘轮与相关制度机制辨析
-> | 维度 | 规制棘轮（Regulatory Ratchet） | [[Institutional Layering\|制度层叠]]（Institutional Layering） | 制度漂移（Institutional Drift） |
+> | 维度 | 规制棘轮（Regulatory Ratchet） | [[Institutional Layering\|制度层叠]]（Institutional Layering） | [[Institutional Drift\|制度漂移]]（Institutional Drift） |
 > |---|---|---|---|
 > | **变动对象** | 规制标准、合规细则与技术审查条文 | 制度规则、组织实体或政策工具 | 制度自身静态不动，外部环境变迁 |
 > | **演进方向** | 单向累加只增不减，规制网络日益繁密 | 新旧规则并存并逐步改变行为规约方式 | 维持原有条文，实际政策效力遭受侵蚀 |
@@ -84,7 +86,7 @@ updated: 2026-10-11
 > - **危机响应式规则繁衍（Crisis-Driven Rule Proliferation）** 偶发性灾难、事故或公众舆论发酵迫使立法与行政机构迅速出台应对条例，将针对极端个案的防御要求普遍化为全行业法定标准。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 15)]]
 > - **清退机制的不对称匮乏（Asymmetric [[Attrition]] of Rules）** 增设新规具有极高的政治收益与道德正当性，而废除冗余或过时规则则面临严重的政治问责风险，导致规制系统缺乏自我修剪功能。
 > - **合规负担非线性递增（Escalation of Compliance Costs）** 伴随规章图层的层层加码，各类报表填报、资质审查与第三方认证程序呈现指数级累加，耗竭一线执行机构的专业精力。
-> - **防卫性遵从与目标置换（Defensive Compliance & Goal Displacement）** 被规制者将精力从追求实质治理绩效转向机械完成合规留痕，演化出巴达克所批判的规制不合理性困境。
+> - **防卫性遵从与目标置换（Defensive Compliance & Goal [[Institutional Displacement|displacement]]）** 被规制者将精力从追求实质治理绩效转向机械完成合规留痕，演化出巴达克所批判的规制不合理性困境。
 
 > [!logic-map]- 规制棘轮的形成机制与治理困境
 > ```mermaid

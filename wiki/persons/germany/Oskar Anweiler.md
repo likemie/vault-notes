@@ -7,10 +7,10 @@ summary: "德国比较教育学家与历史学家，波鸿鲁尔大学教育学�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1925"
 died: "2020"
 lifespan: "1925–2020"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Paradigm]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Institutional Displacement]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Geisteswissenschaften]]"
   - "[[State Educational Sovereignty]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-08
+updated: 2026-10-11
 ---
 
 # Oskar Anweiler
@@ -97,7 +98,7 @@ updated: 2026-10-08
 >   - **阶段转向** 建立起严格抵制冷战宣传的学术[[Documentary Analysis|文献分析]][[Paradigm|范式]]，强调从第一手[[Primary and Secondary Documents|原始文献]]中发掘社会主义学制的实际功能机制。
 > - **1990年代 — 两德教育体制对比与后冷战重组反思** 系统总结资本主义与社会主义两套德国教育体系的历史演化，为统一后的制度转型提供理论与历史事实参照。
 >   - **代表著作** *Vergleich von Bildung und Erziehung in der Bundesrepublik Deutschland und in der Deutschen Demokratischen Republik* (1990)。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 96)]]
->   - **关键概念／方法** 两德学制比较、制度替代方案评估、教育一体化重构。
+>   - **关键概念／方法** 两德学制比较、[[Institutional Displacement|制度替代]]方案评估、教育一体化重构。
 >   - **阶段转向** 推动波鸿学派在冷战终结后实现学术平稳过渡，为其继任者阿迪克（Christel Adick）转向全球化与[[World-Systems Theory|世界体系理论]]奠定基础。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 93)]]
 
 ---
@@ -105,7 +106,7 @@ updated: 2026-10-08
 ## 核心思想
 
 > [!claim] 核心主张
-> 比较教育学在德意志学术传统中绝非游离于教育学之外的纯实证社会学分支，而是依附于[[Allgemeine Pädagogik|普通教育学]]（Allgemeine Pädagogik）母体学科、面向历史学与社会学开放的[[Comparative Education as a Cross-Sectional Area|交叉领域]]（Querschnittsbereich）。安维勒主张，教育体系的比较研究必须始终关照人类[[Bildung|教化]]（[[Bildung]]）与人的成长本质，同时借用严格的历史[[Document|文献]]发生学考证与社会学制度结构工具。在冷战地缘博弈中，比较学者必须超越意识形态阵营对抗的浅层口号，以第一手档案文献为基石，客观还原社会主义学制的内在逻辑与制度局限，为社会公共决策提供审慎的制度替代方案。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93, 96–98)]]
+> 比较教育学在德意志学术传统中绝非游离于教育学之外的纯实证社会学分支，而是依附于[[Allgemeine Pädagogik|普通教育学]]（Allgemeine Pädagogik）母体学科、面向历史学与社会学开放的[[Comparative Education as a Cross-Sectional Area|交叉领域]]（Querschnittsbereich）。安维勒主张，教育体系的比较研究必须始终关照人类[[Bildung|教化]]（[[Bildung]]）与人的成长本质，同时借用严格的历史[[Document|文献]]发生学考证与社会学制度结构工具。在冷战地缘博弈中，比较学者必须超越意识形态阵营对抗的浅层口号，以第一手档案文献为基石，客观还原社会主义学制的内在逻辑与制度局限，为社会公共决策提供审慎的[[Institutional Displacement|制度替代]]方案。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93, 96–98)]]
 
 > [!citation-card] 比较教育学的交叉领域定位与学科依附
 > 安维勒指出，比较教育既不是自给自足的封闭体系，也不是去情境化的社会学技术；它是普通教育学面向历史学与社会学邻近学科开放的交叉领域。这一构想为比较教育打破传统象牙塔壁垒、走向跨学科性奠定了坚实基础，同时又确保了学科不脱离对普通教育学母体的根基性依附。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]

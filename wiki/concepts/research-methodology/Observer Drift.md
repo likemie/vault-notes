@@ -6,15 +6,16 @@ aliases:
 summary: "观察者在长时间观察过程中逐渐改变评分标准和判断尺度的倾向，评分者间信度和观察者培训是主要的防范手段"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/observation
   - theme/reliability
   - method/measurement
 related_concepts:
+  - "[[Institutional Drift]]"
   - "[[Reliability]]"
   - "[[Definition of Terms]]"
   - "[[Halo Effect]]"
@@ -28,7 +29,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
 status: draft
 created: 2026-07-24
-updated: 2026-09-17
+updated: 2026-10-11
 ---
 
 # Observer Drift
@@ -38,7 +39,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 观察者漂移（Observer drift）是观察者在长时间观察过程中逐渐改变评分标准和判断尺度的倾向（Cooper & Schindler, 2001, p. 380）。随着时间推移，同一观察者可能对相同行为给出不同的评分或[[Coding in Qualitative Research\|编码]]，导致数据的[[Reliability\|信度]]下降（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.12 节]]）。
+> 观察者漂移（Observer [[Institutional Drift|drift]]）是观察者在长时间观察过程中逐渐改变评分标准和判断尺度的倾向（Cooper & Schindler, 2001, p. 380）。随着时间推移，同一观察者可能对相同行为给出不同的评分或[[Coding in Qualitative Research\|编码]]，导致数据的[[Reliability\|信度]]下降（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.12 节]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 观察者的内部评分标准不是固定不变的，而是随时间漂移——早期可能严格，后期可能宽松，或反之

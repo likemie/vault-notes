@@ -8,7 +8,7 @@ aliases:
 summary: "在教育研究-实践伙伴关系（RPP）与证据治理中，指大学研究者与学校一线实践者在跨界交往中形成的一种超越传统象牙塔学术话语与日常教学经验话语二元对立的杂合型公共沟通体系；该机制明确承认并包容两类群体的专业异质性与价值差异，拒绝单向强行同化，通过平等研讨场域实现协同问题界定、概念情境化重构与循证教学改进。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Discipline-Based Theory]]"
   - "[[Causality]]"
   - "[[Research Question]]"
+  - "[[Institutional Drift]]"
   - "[[Scientific Literacy]]"
   - "[[Cumulative Knowledge Base]]"
   - "[[External Validity]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-07
+updated: 2026-10-11
 ---
 
 # Third Space Discourse
@@ -157,7 +158,7 @@ updated: 2026-10-07
 > 探讨实践导向课题如何抵御功利化侵蚀，避免研究退化为纯事务性的行政折腾。
 
 > [!claim] Prøitz, T. S.
-> **警惕发展性漂移** 伙伴关系随着时间推移极易出现一种隐蔽的病理演变：为了维系与地方学校的良好人际关系，学者不断妥协学术标准，项目逐渐演变为纯粹解决个别学校排课、考勤或文书格式的事务性组织开发（Developmental drift）。第三空间绝非放弃严谨性的妥协之地，必须由具备丰富经验的资深学者严格把守认识论、测量效度与伦理底线，确保生成的知识具备全系统迁移与累积价值。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 219)]]
+> **警惕发展性漂移** 伙伴关系随着时间推移极易出现一种隐蔽的病理演变：为了维系与地方学校的良好人际关系，学者不断妥协学术标准，项目逐渐演变为纯粹解决个别学校排课、考勤或文书格式的事务性组织开发（Developmental [[Institutional Drift|drift]]）。第三空间绝非放弃严谨性的妥协之地，必须由具备丰富经验的资深学者严格把守认识论、测量效度与伦理底线，确保生成的知识具备全系统迁移与累积价值。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 219)]]
 
 > [!claim] [[Dirk Van Damme\|Van Damme]], D.
 > **捍卫学科自主演绎建制** 实践研究如果丧失了严格的同行自律与理论严谨性，产出的证据将如同建立在沙滩上的城堡；第三空间话语必须建立在高水准[[Scientific Literacy\|科学素养]]的基础之上，才能真正赢得政策与公众的持久信任。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 204–206)]]

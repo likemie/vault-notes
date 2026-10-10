@@ -10,7 +10,7 @@ summary: "运用历史因果考证与跨国情境对照解释教育制度、国�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 79
+method_related_count: 80
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -65,6 +65,7 @@ related_concepts:
 related_theories:
   - "[[Path Dependence]]"
   - "[[Three Generations of Mission-Oriented Policy]]"
+  - "[[Theory of Gradual Institutional Change]]"
   - "[[Systems of Innovation]]"
   - "[[Evolutionary Economics]]"
 related_methods:
@@ -109,7 +110,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-09
+updated: 2026-10-11
 ---
 
 # Historical-Comparative Method
@@ -242,7 +243,7 @@ updated: 2026-10-09
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Three Generations of Mission-Oriented Policy]] | 理论 | 运用历史比较法梳理使命政策 150 年代际演进所提炼的核心制度变迁理论。 |
+> | [[Three Generations of Mission-Oriented Policy]] | 理论 | 运用历史比较法梳理使命政策 150 年代际演进所提炼的核心[[Theory of Gradual Institutional Change\|制度变迁理论]]。 |
 > | [[Public Dynamic Capabilities]] | 概念 | 历史比较法在科技与公共行政领域剖析美欧亚各国制度成败所揭示的核心解释[[Variable\|变量]]。 |
 > | [[Positivism\|实证主义]] | 理论/范式 | 历史比较法的主要论敌；实证学派曾指责历史法为缺乏预测力的前科学，历史法对此展开强力反思与抗辩。 |
 > | [[Postpositivism\|后实证主义]] | 理论/范式 | 历史比较法的现代[[Epistemology\|认识论]]基石；通过恢复德语广义科学（*Wissenschaft*）观与可错主义，确立其科学合法性。 |

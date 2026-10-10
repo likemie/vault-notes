@@ -29,6 +29,9 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
+  - "[[Institutional Conversion]]"
+  - "[[Institutional Drift]]"
+  - "[[Institutional Displacement]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Heterogeneity]]"
   - "[[Scaffolding]]"
@@ -36,6 +39,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Literature Search]]"
 related_theories:
+  - "[[Theory of Gradual Institutional Change]]"
   - "[[Punctuated Equilibrium Theory]]"
   - "[[Path Dependence]]"
   - "[[Realist Evaluation]]"
@@ -63,9 +67,9 @@ title: "Argument_VanDerHeijden_2011_Politics"
 argument_key: "Argument_VanDerHeijden_2011_Politics"
 argument_display_title: "Institutional layering: A review of the use of the concept"
 argument_kind: "journal-article"
-argument_related_count: 27
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 31
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Politics"
 book_title: ""
@@ -87,7 +91,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 长期以来制度分析被外生重大冲击打破长期惰性稳态与内生微观主体持续推动微小调整两种割裂视角主导；作为解释渐进制度变迁的热门分析工具，[[Institutional Layering|制度层叠]]（Institutional Layering）在当代研究中经历着持续的语义宽泛化与随意改编，导致其作为分析工具的比较优势面临[[Attrition|流失]]危险。
+> 长期以来制度分析被外生重大冲击打破长期惰性稳态与内生微观主体持续推动微小调整两种割裂视角主导；作为解释[[Theory of Gradual Institutional Change|渐进制度变迁]]的热门分析工具，[[Institutional Layering|制度层叠]]（Institutional Layering）在当代研究中经历着持续的语义宽泛化与随意改编，导致其作为分析工具的比较优势面临[[Attrition|流失]]危险。
 
 > [!claim] 核心主张
 > 制度层叠概念本身并不属于某一学者的固化专利，而是经历六十年演化、由行动者增厚、[[Regulatory Ratchet|规制棘轮]]向双重叠加推进的思想传统；当代[[Document|文献]]将层叠误用于描述制度核心巩固与制度再生产的做法削弱了其分析效力，但只要将层叠聚焦于被叠加的行动者与规制工具这两类具体解释[[Variable|变量]]，它便具备弥合[[Punctuated Equilibrium Theory|间断均衡理论]]（Punctuated Equilibrium Theory）与渐进变迁视角理论鸿沟的根本分析潜能。
@@ -200,9 +204,9 @@ issuing_organization: ""
 
 > [!feature] 历史制度主义的五种内生变迁机制
 > - **[[Institutional Layering|制度层叠]]（Layering）** 在保留旧框架前提下附加新规则或新工具，随时间推移逐步改变行为结构。（Campbell, 2009; p. 11）
-> - **制度转换（Conversion）** 规则形式保持不变，但在新行动者介入或新议题引导下被赋予全新功能或目标。
-> - **制度漂移（Drift）** 制度文本静态不动，但外部环境发生剧烈变迁导致既有规则的实际治理效力发生侵蚀。
-> - **制度替代（Displacement）** 彻底废除既有旧规则，或引入竞争性平行体制逐步边缘化并挤出旧体制。
+> - **[[Institutional Conversion|制度转换]]（Conversion）** 规则形式保持不变，但在新行动者介入或新议题引导下被赋予全新功能或目标。
+> - **[[Institutional Drift|制度漂移]]（Drift）** 制度文本静态不动，但外部环境发生剧烈变迁导致既有规则的实际治理效力发生侵蚀。
+> - **[[Institutional Displacement|制度替代]]（Displacement）** 彻底废除既有旧规则，或引入竞争性平行体制逐步边缘化并挤出旧体制。
 > - **拼贴与[[Transfer Translation Transformation|转译]]（Bricolage & Translation）** 行动者将[[Heterogeneity|异质性]]制度碎片重新组合，或将外部理念本地化转译为新规范。
 
 希伦在确立层叠机制时，深度吸收了美国政治发展中的国会妥协与历史时间性研究。（pp. 11–12）
@@ -285,7 +289,7 @@ issuing_organization: ""
 ### 论证步骤四　制度层叠将解释变量收拢至行动者与政策工具从而整合突变与渐进视角
 
 > [!claim] 步骤四核心主张
-> 制度层叠的真正价值在于提供以行动者和工具为因果解释[[Variable|变量]]的中观操作化框架，能够打破外生突变与内生渐进的伪二元对立，具备弥合宏观制度变迁理论鸿沟的分析潜能。（p. 16）
+> 制度层叠的真正价值在于提供以行动者和工具为因果解释[[Variable|变量]]的中观操作化框架，能够打破外生突变与内生渐进的伪二元对立，具备弥合宏观[[Theory of Gradual Institutional Change|制度变迁理论]]鸿沟的分析潜能。（p. 16）
 
 #### 1. 锁定新引入的行动者与规制工具为跨尺度因果追踪提供客观分析支点
 

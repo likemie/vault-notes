@@ -8,10 +8,10 @@ aliases:
 summary: "历史制度主义与政策变迁分析中的渐进制度变迁核心机制；指在不废除或替换既有制度结构的前提下，通过向既有制度框架中附加新规则、新行动者、新政策工具或新管理程序，随时间推移逐步改变原有制度地位、行为结构与治理后果的演进过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 17
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 22
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 concept_field: "political-economy-geopolitics"
 tags:
   - theme/institutional-change
@@ -19,6 +19,9 @@ tags:
   - theory/institutionalism
   - theme/public-policy
 related_concepts:
+  - "[[Institutional Displacement]]"
+  - "[[Institutional Drift]]"
+  - "[[Institutional Conversion]]"
   - "[[Venue Shopping]]"
   - "[[Problem of Many Hands]]"
   - "[[Regulatory Ratchet]]"
@@ -28,6 +31,7 @@ related_concepts:
   - "[[Composite-Standard Model]]"
   - "[[Operationalization]]"
 related_theories:
+  - "[[Theory of Gradual Institutional Change]]"
   - "[[Punctuated Equilibrium Theory]]"
   - "[[Path Dependence]]"
   - "[[Realist Evaluation]]"
@@ -42,6 +46,7 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_VanDerHeijden_2011_Politics]]"
+  - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
 confidence: high
 status: draft
 created: 2026-10-11
@@ -55,12 +60,12 @@ updated: 2026-10-11
 ## 定义
 
 > [!def] 核心定义
-> 历史制度主义与公共政策分析中用以解释渐进制度变迁（Incremental Institutional Change）的核心概念；指在维持既有制度总体稳定或保留核心制度框架的前提下，行动者通过向既有结构附加新规则、新政策工具、新组织机构或新行政程序，使其与旧制度并存共生，进而随着历史时间推移逐步重塑原有规则的行为导向、治理功能与制度地位。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 9, 11)]]
+> 历史制度主义与公共政策分析中用以解释[[Theory of Gradual Institutional Change|渐进制度变迁]]（Incremental Institutional Change）的核心概念；指在维持既有制度总体稳定或保留核心制度框架的前提下，行动者通过向既有结构附加新规则、新政策工具、新组织机构或新行政程序，使其与旧制度并存共生，进而随着历史时间推移逐步重塑原有规则的行为导向、治理功能与制度地位。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 9, 11)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向制度变迁过程中的边际累加与层叠机制；其核心特征是增新而不废旧，新机制在旧机制顶端累积共生。
 > - **用途** 帮助研究者超越激进革命与长期停滞的二元对立，识别行动者在制度意图与现实结果之间存在缝隙时所采取的策略性妥协与制度创新。
-> - **边界** 严格区别于彻底推倒重建的制度置换，也区别于未引入新规则但环境变迁导致的制度漂移；同时必须防范将巩固旧核心的制度再生产误读为层叠变迁。
+> - **边界** 严格区别于彻底推倒重建的[[Institutional Displacement|制度置换]]，也区别于未引入新规则但环境变迁导致的[[Institutional Drift|制度漂移]]；同时必须防范将巩固旧核心的制度再生产误读为层叠变迁。
 
 > [!citation-card] 制度层叠的内生机制界定
 > 层叠是指在保留其他既有制度要素的同时，对某套既有制度的部分要素进行重新协商；它涉及在原本稳定的制度框架之上构筑新要素，或者主动赞助修正案、补充条款与修订规程；当新规则附着于旧规则之上并改变原规则规约行为的方式时，层叠便发生。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 11)]]
@@ -69,7 +74,7 @@ updated: 2026-10-11
 
 > [!boundary]- 概念边界
 > - 不等于 间断均衡 间断均衡假定制度长期处于惰性静止，仅在受到严重外生危机冲击时才发生突发性断裂变革；制度层叠则关注常规政治周期中行动者持续推进的内生、累积性渐进转变。
-> - 不等于 制度转换（Conversion） 制度转换指既有制度规则文本保持不变，但由于行动者重构解释或外部环境变迁，既有制度被转用于全新目标；制度层叠则明确要求在结构上增加了新规则或新实体。
+> - 不等于 [[Institutional Conversion|制度转换]]（Conversion） 制度转换指既有制度规则文本保持不变，但由于行动者重构解释或外部环境变迁，既有制度被转用于全新目标；制度层叠则明确要求在结构上增加了新规则或新实体。
 > - 不等于 制度再生产（Institutional Reproduction） 层叠必须随时间推移产生制度地位或行为结构的实际改变；若仅仅增加外围保护层以加固原有制度核心且未改变轨迹，实质属于制度再生产与制度强化而非层叠变迁。
 
 ---
@@ -130,7 +135,7 @@ updated: 2026-10-11
 > 聚焦制度变迁的动力来源，探讨改革者在面对强大制度否决点与既得利益阻力时，如何通过边际性附加规避直接正面冲突，最终实现实质性制度演进。
 
 > [!claim] [[Kathleen Thelen|Thelen, K.]]
-> **边际附加的累积质变效应** 在政治权力分散或存在强大机构阻力导致全面制度替代不可行时，行动者通过积极赞助修正案或在旧体制边缘设立新机制，使得新规则逐步侵蚀、改写或边缘化原有规则对行为的规约方式，在长时段内累积出等同于剧烈变革的制度转型后果。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 11–12)]]
+> **边际附加的累积质变效应** 在政治权力分散或存在强大机构阻力导致全面[[Institutional Displacement|制度替代]]不可行时，行动者通过积极赞助修正案或在旧体制边缘设立新机制，使得新规则逐步侵蚀、改写或边缘化原有规则对行为的规约方式，在长时段内累积出等同于剧烈变革的制度转型后果。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 11–12)]]
 
 > [!claim] Schickler, E.
 > **多元利益妥协的层叠张力** 制度并非源于单一理性主体的顶层宏观规划，而是在不同历史时期相互竞争的多元利益主体博弈妥协的产物；各方妥协推动了新安排在既有结构之上的层叠，形成充满张力且非统一设计的杂合制度形态。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 12)]]
@@ -217,3 +222,5 @@ updated: 2026-10-11
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] 跨学科审视 60 年间 166 篇期刊[[Document|文献]]中层叠概念的演变传统，提炼行动者增厚、[[Regulatory Ratchet|规制棘轮]]与双重叠加三类演化支脉，并反思当代应用混淆变迁与再生产的边界偏误。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] 将制度层叠定位于强否决可能性与低执行裁量权制度语境，揭示颠覆者在不触动旧规则前提下通过附加新规累积重塑体制逻辑。
+

@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch05"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch05"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch05"
 argument_kind: "book-chapter"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Open-Mindedness]]"
   - "[[Boarding Schools]]"
+  - "[[Institutional Conversion]]"
   - "[[Flow]]"
   - "[[Teaching Assistant]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -165,7 +166,7 @@ updated: 2026-10-10
 > [!evidence-grid] 四个案例分别检验不同制度组合
 > - **新加坡** 检验 [[United World Colleges\|UWC]] 能否进入既有全龄[[International Schools\|国际学校]]，以少数奖学金生、IB 和教育理念影响更广泛的缴费学生。
 > - **加拿大** 检验国家纪念（national memorial）、政府资本和外国学生奖学金能否建立接近公共教育的经典寄宿书院。
-> - **沃特福德** 检验一所价值相近、反种族隔离、全龄且主要收费的既有学校能否经关联、课程转换（curriculum conversion）和财政协商加入。
+> - **沃特福德** 检验一所价值相近、反种族隔离、全龄且主要收费的既有学校能否经关联、课程转换（curriculum [[Institutional Conversion|conversion]]）和财政协商加入。
 > - **亚得里亚海** 检验中央与地区政府支持、全奖政策（full-scholarship policy）和村落嵌入能否形成另一种经典书院（pp. 110–129）。
 
 ---
@@ -439,7 +440,7 @@ updated: 2026-10-10
 
 #### 从合作办高中部到整校加入
 
-> [!actor-grid] 制度转换中的关键参与者
+> [!actor-grid] [[Institutional Conversion|制度转换]]中的关键参与者
 > - **蒙巴顿** 借助与李光耀的关系提出圣约翰方案，樟宜被否决后继续推动合作；1974 年又把关联关系明确收束为终止或整校加入两种选择。
 > - **李光耀与新加坡政府** 支持国际教育的长期价值，但优先考虑土地、国民教育和本国学校容量，不接受樟宜独立书院，也不愿把私立国际学校转为公共教育项目。
 > - **罗伊·贝内特（Roy Bennett）及研究委员会** 代表正在形成的新加坡国际学校，首要任务是建立一所服务外籍社群且能够维持高中部的完整学校。

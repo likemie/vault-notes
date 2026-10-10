@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23"
 argument_display_title: "Research Methods in Education · Ch23"
 argument_kind: "book-chapter"
-argument_related_count: 65
+argument_related_count: 66
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -65,6 +65,7 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Reflexivity]]"
   - "[[Observer Drift]]"
+  - "[[Institutional Drift]]"
   - "[[Habituation]]"
   - "[[Geisteswissenschaften]]"
   - "[[Rich and Thick Description]]"
@@ -961,7 +962,7 @@ Silverman（1993）提醒注意主位分析（emic）与客位分析（etic）�
 > - **不引人注目但保持专注** 不干扰被观察者，同时不遗漏关键信息
 > - **知情判断的经验** 具有从观察数据做出知情判断的必要经验
 >
-> 这些品质对于避免疲劳和**[[Observer Drift\|观察者漂移]]（observer drift）**，以及[[Halo Effect\|光环效应]]至关重要（Cooper & Schindler, 2001, p. 380）。
+> 这些品质对于避免疲劳和**[[Observer Drift\|观察者漂移]]（observer [[Institutional Drift|drift]]）**，以及[[Halo Effect\|光环效应]]至关重要（Cooper & Schindler, 2001, p. 380）。
 
 ---
 

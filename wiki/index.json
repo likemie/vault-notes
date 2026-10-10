@@ -9192,6 +9192,36 @@
     ]
   },
   {
+    "title": "Institutional Conversion",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Institutional Conversion.md",
+    "aliases": [
+      "制度转换",
+      "制度转用",
+      "conversion"
+    ]
+  },
+  {
+    "title": "Institutional Displacement",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Institutional Displacement.md",
+    "aliases": [
+      "制度置换",
+      "制度替代",
+      "displacement"
+    ]
+  },
+  {
+    "title": "Institutional Drift",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Institutional Drift.md",
+    "aliases": [
+      "制度漂移",
+      "政策漂移",
+      "drift"
+    ]
+  },
+  {
     "title": "Institutional Layering",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Institutional Layering.md",
@@ -16506,6 +16536,17 @@
       "技术轨迹",
       "technological trajectory",
       "技术轨道"
+    ]
+  },
+  {
+    "title": "Theory of Gradual Institutional Change",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Theory of Gradual Institutional Change.md",
+    "aliases": [
+      "渐进制度变迁理论",
+      "渐进制度变迁",
+      "制度变迁理论",
+      "gradual institutional change"
     ]
   },
   {
@@ -25070,6 +25111,15 @@
       "麦迪逊",
       "Madison, J.",
       "James Madison Jr."
+    ]
+  },
+  {
+    "title": "James Mahoney",
+    "type": "person",
+    "path": "wiki/persons/us/James Mahoney.md",
+    "aliases": [
+      "詹姆斯·马奥尼",
+      "Mahoney, J."
     ]
   },
   {
@@ -34833,6 +34883,11 @@
     "title": "Argument_Mahoney_Thelen_2009_Cambridge",
     "type": "argument",
     "path": "wiki/arguments/books/Mahoney_Thelen_2009_Cambridge/Argument_Mahoney_Thelen_2009_Cambridge.md"
+  },
+  {
+    "title": "Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change",
+    "type": "argument",
+    "path": "wiki/arguments/books/Mahoney_Thelen_2009_Cambridge/Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change.md"
   },
   {
     "title": "Argument_Kelly_Licona_2018_EpistemicPractices",
