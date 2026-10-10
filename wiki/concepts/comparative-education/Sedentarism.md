@@ -7,7 +7,7 @@ aliases:
 summary: "定居主义是一种将固定地域居住、扎根生活与空间稳定视为人类文明、秩序与理性默认基准的认识论偏见与治理意识形态；该观念将物理流动与漫游状态编码为落后、病态或缺乏教化的社会偏常，在现代教育体制中为强制定居化改造、学籍空间壁垒与学校封闭容器规训提供了正当性辩护。"
 type: concept
 domain: "comparative-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

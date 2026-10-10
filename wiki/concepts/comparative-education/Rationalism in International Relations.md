@@ -8,10 +8,10 @@ aliases:
 summary: "Martin Wight 国际关系三大传统之一（对应 Grotius 思想），视国际社会为通过多边合作与规则缓和无政府冲突的“存在制度缺陷的社会”，以“权威”为核心概念。在比较教育中，它将学科塑造成促进国际理解与远处治理规范趋同的“理性事业”。"
 type: concept
 domain: "comparative-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 theory_related_count: 5
 theory_related_level: 1
 theory_related_stars: "⭐"
@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-10-07
+updated: 2026-10-10
 ---
 
 # Rationalism in International Relations

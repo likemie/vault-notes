@@ -8,7 +8,7 @@ aliases:
 summary: "欧洲教育空间是指在欧洲一体化与超国家治理进程中，由欧盟委员会与OECD通过数据基础设施、资格框架、开放协调机制以及学术流动项目共同建构的功能性与象征性治理空间；该概念打破了将欧洲教育视为单一主权国家集合的地理假定，揭示了数据互认与跨国流动如何既建构出共同的欧洲公民身份想象，又在定义合格现代大学与就业能力的过程中生产出新型外围排斥。"
 type: concept
 domain: "comparative-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

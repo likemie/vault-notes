@@ -9,7 +9,7 @@ aliases:
 summary: "法国哲学家与社会学家亨利·列斐伏尔（Henri Lefebvre）在《空间的生产》（1991）中创立的批判空间理论分析框架，确立空间并非自然中立的被动容器，而是由社会关系生产的动态产物；通过空间实践（感知空间）、空间表征（构想空间）与表征性空间（活生生空间）三元辩证互动，为比较教育学解构学校空间治理规训以及分析高等教育区域产学政网络提供了核心理论透镜。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 35
+theory_related_count: 36
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"

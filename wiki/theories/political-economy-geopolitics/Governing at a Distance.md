@@ -11,7 +11,7 @@ aliases:
 summary: "起源于福柯治理术谱系并经罗斯、米勒与拉图尔发展、在批判教育社会学与拓扑学中深化的空间治理理论，指权力不依赖直接行政命令或物理在场，而是通过将宏观政治抱负转译为技术标准、计算中心、不变移动物与自适应数据基础设施，在“远处”重塑主体认知与微观实践的非接触式权力机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 44
+theory_related_count: 45
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-10-08
+updated: 2026-10-10
 ---
 
 # Governing at a Distance

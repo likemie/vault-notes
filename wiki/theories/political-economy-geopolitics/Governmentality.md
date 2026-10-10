@@ -9,7 +9,7 @@ aliases:
 summary: "米歇尔·福柯提出的权力分析核心理论，指一种以人口为对象、以安全配置为技术、通过塑造主体的自我理解来引导个体行为的治理理性；该理论指出自由与主体化是现代治理的运作条件而非对立面，并通过远距治理与空间化规训将学校和制度环境建构为可计算、可干预的治理单元。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 42
+theory_related_count: 43
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"

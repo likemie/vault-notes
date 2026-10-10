@@ -10,10 +10,10 @@ aliases:
 summary: "指学生在学年中途频繁跨校转学的非正常流动形态。在政策问责话语中常被病理化为家庭贫困、失范与学业落后的表征，甚至被学校作为未达成问责目标的免责借口；实证研究则揭示其主要受住房居住变迁驱动，并构成底层家庭逃离校园暴力与劣质教学的主动避险策略。"
 type: concept
 domain: "sociology-of-education"
-related_count: 12
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 24
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/sociology-of-education
   - theme/student-mobility
@@ -157,8 +157,8 @@ updated: 2026-10-10
 > [!contrast-table] 流动漂泊核心命题归纳
 > | 命题类型 | 核心论断 | 机制与政策影响 | 代表[[Document\|文献]] |
 > |---|---|---|---|
-> | **绩效问责异化与免责** | 高利害问责制将学生流动赤字化，作为学校逃避未达 AYP 责任的法定借口 | 学校报告卡将生源流动列为减分因子，掩盖学校办学失职 | Offenberg (2004); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] |
-> | **空间规训越轨定性** | 频繁转校挑战了学校作为固定封闭空间容器的规训连续性 | 空间[[Governmentality\|治理术]]将非定居主体病理化为失范越轨群体 | Sobe & Fischer (2009) |
+> | **绩效问责异化与免责** | 高利害问责制将学生流动赤字化，作为学校逃避未达 AYP 责任的法定借口 | 学校报告卡将生源流动列为减分因子，掩盖学校办学失职 | Offenberg (2004) |
+> | **空间规训越轨定性** | 频繁转校挑战了学校作为固定封闭空间容器的规训连续性 | 空间[[Governmentality\|治理术]]将非定居主体病理化为失范越轨群体 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] |
 > | **底层家庭能动避险** | 转校多源于居住动荡且是底层家长逃避暴力弱校的理性自救 | 颠覆官方病理学叙事，揭示贫困社区教育生态恶化现实 | Rumberger (2003); Kerbow et al. (2003) |
 
 ---
