@@ -20,7 +20,7 @@ tags:
 related_concepts:
   - "[[Institutional Drift]]"
   - "[[Variable]]"
-  - "[[Opportunist Mode]]"
+  - "[[Opportunists]]"
   - "[[Institutional Displacement]]"
   - "[[Institutional Layering]]"
   - "[[Institutional Conversion]]"
@@ -88,7 +88,7 @@ updated: 2026-10-11
 > | **[[Institutional Conversion\|制度转换]]** | 变迁形态 | 刻画规则形式保持不变，行动者策略性利用模糊性将其转用于全新政策目标的机制。 |
 > | **否决可能性（Veto Possibilities）** | 解释变量 | 衡量政治环境中维持现状阵营阻挠正式修法与政策更新的制度化权力阻力。 |
 > | **解释与执行裁量权（Discretion）** | 解释变量 | 衡量成文规约在日常司法判决与行政执法过程中留给执行主体的操作空间。 |
-> | **变革行动者四分类（Change Agents）** | 微观机制 | 提炼起义者、颠覆者、共生者与机会主义者四类微观策略角色，桥接结构与能动性。 |
+> | **变革行动者四分类（Change Agents）** | 微观机制 | 提炼起义者、颠覆者、共生者与[[Opportunists|机会主义者]]四类微观策略角色，桥接结构与能动性。 |
 
 ---
 

@@ -9452,6 +9452,17 @@
     ]
   },
   {
+    "title": "Opportunists",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Opportunists.md",
+    "aliases": [
+      "机会主义者",
+      "机会主义行动者",
+      "opportunist actor",
+      "机会主义变革者"
+    ]
+  },
+  {
     "title": "Orchestrator State",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Orchestrator State.md",
@@ -13018,11 +13029,9 @@
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Opportunist Mode.md",
     "aliases": [
-      "机会主义者",
-      "opportunist actor",
-      "机会主义",
       "机会主义模式",
-      "Opportunists"
+      "机会主义生涯模式",
+      "机会主义出路类型"
     ]
   },
   {

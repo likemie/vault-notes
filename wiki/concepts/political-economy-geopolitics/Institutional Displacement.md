@@ -66,7 +66,7 @@ updated: 2026-10-11
 > | **[[Institutional Displacement\|制度置换]]**<br>（Displacement） | 彻底废除或竞争淘汰 | 是（全新排他性规则） | 弱否决可能性 + 低执行裁量权 | **起义者**<br>（Insurrectionaries） |
 > | **[[Institutional Layering\|制度层叠]]**<br>（Layering） | 保留核心，增设补充 | 是（边际附加条款） | 强否决可能性 + 低执行裁量权 | **颠覆者**<br>（Subversives） |
 > | **[[Institutional Drift\|制度漂移]]**<br>（Drift） | 文本维持不变，效能侵蚀 | 否（无新规则） | 强否决可能性 + 高执行裁量权 | **寄生型共生者**<br>（Parasitic Symbionts） |
-> | **[[Institutional Conversion\|制度转换]]**<br>（Conversion） | 文本维持不变，功能重定向 | 否（重释旧规则） | 弱否决可能性 + 高执行裁量权 | **机会主义者**<br>（Opportunists） |
+> | **[[Institutional Conversion\|制度转换]]**<br>（Conversion） | 文本维持不变，功能重定向 | 否（重释旧规则） | 弱否决可能性 + 高执行裁量权 | **[[Opportunists|机会主义者]]**<br>（Opportunists） |
 
 ---
 
@@ -75,7 +75,7 @@ updated: 2026-10-11
 > [!feature] 制度置换的运作机制与构成维度
 > - **旧规则的废止与边缘化（Rule Elimination or Marginalization）** 既有正式规约从法律上被直接废除，或在竞争中丧失权威与资源，被压缩至边缘地带直至完全失效。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 15–16)]]
 > - **竞争性新规则的平行引入（Competitive New Rule Introduction）** 变革者设立具有排他性、不相容逻辑的全新制度框架，其目标不是补充旧体制，而是与其展开争夺参与者的零和博弈。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 16)]]
-> - **微观背叛与滚雪球转移（Defection and Cumulative Shift）** 随着新规则优势显现或旧规则成本上升，行动者自主选择“背叛”旧规则并依附新机制，形成不可逆的级联扩散，最终实现制度彻底更替。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 16)]]
+> - **微观背叛与滚雪球转移（Defection and Cumulative Shift）** 随着新规则优势显现或旧规则成本上升，行动者自主选择“背叛”旧规则并依附新机制，形成不可逆的级联扩散，最终实现制度彻底更替。
 
 > [!factors] 制度置换的生成条件与因果要素
 > - **弱政治否决可能性（Weak Veto Possibilities）** 维护既有制度的保守阵营缺乏足够的否决点或政治盟友，无法构筑阻止新制度合法化或扩散的有效壁垒。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 18–20)]]

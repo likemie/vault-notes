@@ -19,7 +19,7 @@ tags:
 related_concepts:
   - "[[Institutional Layering]]"
   - "[[Institutional Drift]]"
-  - "[[Opportunist Mode]]"
+  - "[[Opportunists]]"
   - "[[Institutional Displacement]]"
 related_theories:
   - "[[Theory of Gradual Institutional Change]]"
@@ -55,7 +55,7 @@ updated: 2026-10-11
 > [!boundary]- 概念边界
 > - 不等于 [[Institutional Drift|制度漂移]] 制度漂移是行动者不作为引发的被动衰退；制度转换是行动者主动采取创新性解释与重新部署的能动性行为。
 > - 不等于 [[Institutional Layering|制度层叠]] 制度层叠通过引入外部补充条款或新实体来改变逻辑；制度转换完全基于既有既定规则体系的内部重构。
-> - 不等于 制度颠覆（Subversion） 制度颠覆强调行动者终结旧制度的长期颠覆意图；制度转换中的行动者往往是[[Opportunist Mode|机会主义者]]，其目标是借用旧制度资源为己所用，不必然寻求摧毁体制。
+> - 不等于 制度颠覆（Subversion） 制度颠覆强调行动者终结旧制度的长期颠覆意图；制度转换中的行动者往往是[[Opportunists|机会主义者]]，其目标是借用旧制度资源为己所用，不必然寻求摧毁体制。
 
 ---
 
@@ -81,7 +81,7 @@ updated: 2026-10-11
 > [!factors] 制度转换的生成条件与因果要素
 > - **弱政治否决可能性（Weak Veto Possibilities）** 守旧阵营缺乏强有力的否决机制阻止新联盟对法律规则的创新性解释，或者司法与行政裁量链条脱离了立法否决控制。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 18–20)]]
 > - **高解释与执行裁量权（High Discretion in Interpretation/Enforcement）** 既有法条表述具有原则性、抽象性或历史妥协形成的内生模糊性，为创造性判例与官僚行政重塑提供了广阔的操作缝隙。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 20–22)]]
-> - **主导行动者：机会主义者（Opportunists）** 对旧体制无固定忠诚，不愿承担激进违规或高昂立法修法的政治成本，擅长顺应外部政治大势，以低风险方式借用既有规则资产推进新议程。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 26–27)]]
+> - **主导行动者：[[Opportunists|机会主义者]]（Opportunists）** 对旧体制无固定忠诚，不愿承担激进违规或高昂立法修法的政治成本，擅长顺应外部政治大势，以低风险方式借用既有规则资产推进新议程。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 26–27)]]
 
 > [!logic-map]- 制度转换的演进逻辑
 > ```mermaid
@@ -133,7 +133,7 @@ updated: 2026-10-11
 
 > [!dev-timeline] 概念演变
 > - **2004年–2005年 — 施特雷克与希伦界定转换机制** 沃尔夫冈·施特雷克与凯瑟琳·希伦在比较政治经济学中提炼“转换”（Conversion）概念，用以解释德国与欧洲福利资本主义如何在法条未大改的情况下发生实质新自由主义重组。
-> - **2009年 — 马奥尼与希伦建构类型学与机会主义者角色** 马奥尼与希伦在《解释制度变迁》中系统将转换与弱否决、高裁量权锚定，提炼出机会主义者（Opportunists）顺应风向的策略模式，确立了司法官僚转用的完整逻辑链条。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 17–18, 26–27)]]
+> - **2009年 — 马奥尼与希伦建构类型学与机会主义者角色** 马奥尼与希伦在《解释制度变迁》中系统将转换与弱否决、高裁量权锚定，提炼出[[Opportunists|机会主义者]]（Opportunists）顺应风向的策略模式，确立了司法官僚转用的完整逻辑链条。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 17–18, 26–27)]]
 
 ---
 
