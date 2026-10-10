@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Fieldwork",
+      "path": "wiki/methods/qualitative/Fieldwork.md"
+    },
+    {
       "basename": "Argument_Sobe_Fischer_2009_MobilityMigration",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Sobe_Fischer_2009_MobilityMigration.md"
+    },
+    {
+      "basename": "Ethnography",
+      "path": "wiki/methods/qualitative/Ethnography.md"
+    },
+    {
+      "basename": "Spatial Governmentality",
+      "path": "wiki/theories/sociology-of-education/Spatial Governmentality.md"
+    },
+    {
+      "basename": "Two Problematics of Educational Inclusion and Exclusion",
+      "path": "wiki/theories/sociology-of-education/Two Problematics of Educational Inclusion and Exclusion.md"
     },
     {
       "basename": "Nomadic Education",
@@ -27,10 +43,6 @@
     {
       "basename": "Governmentality",
       "path": "wiki/theories/political-economy-geopolitics/Governmentality.md"
-    },
-    {
-      "basename": "Spatial Governmentality",
-      "path": "wiki/theories/sociology-of-education/Spatial Governmentality.md"
     },
     {
       "basename": "Argument_Kratsios_2026_OSTP",
@@ -187,18 +199,6 @@
     {
       "basename": "CHIPS and Science Act",
       "path": "wiki/facts/us/CHIPS and Science Act.md"
-    },
-    {
-      "basename": "Competitiveness",
-      "path": "wiki/concepts/university-industry-collaboration/Competitiveness.md"
-    },
-    {
-      "basename": "Zhuo_2026_ICE",
-      "path": "sources/Zhuo_2026_ICE.md"
-    },
-    {
-      "basename": "NSF Regional Innovation Engines",
-      "path": "wiki/facts/us/NSF Regional Innovation Engines.md"
     }
   ],
   "omittedPaths": [],

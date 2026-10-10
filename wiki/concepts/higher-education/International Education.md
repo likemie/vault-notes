@@ -5,7 +5,7 @@ aliases:
 summary: "跨越单一国家教育边界组织人员、共同生活、课程、评价与资格承认的教育实践和制度；既包含国际理解的教育计划，也包含全球化推动的流动、比较和市场扩张。"
 type: concept
 domain: "higher-education"
-related_count: 58
+related_count: 59
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Educational Multilateralism]]"
   - "[[Structural Adjustment Programs]]"
+  - "[[Boarding Schools]]"
   - "[[Student Mobility]]"
   - "[[Knowledge Production]]"
   - "[[Open-Mindedness]]"
@@ -295,7 +296,7 @@ updated: 2026-10-10
 > [!row-contrast] 国际教育的主要命题
 > | 命题类型 | 核心指向 | 适用情境 | 代表作者 |
 > |---|---|---|---|
-> | **关系与教育目的** | 多国共处需要共同任务与同情理解，信息用途不能独自确定价值 | 国际学校、寄宿教育、跨文化项目 | Peterson |
+> | **关系与教育目的** | 多国共处需要共同任务与同情理解，信息用途不能独自确定价值 | 国际学校、[[Boarding Schools\|寄宿教育]]、跨文化项目 | Peterson |
 > | **资格制度化** | 组织、课程、评价、大学承认与财政来源相互依赖 | 国际课程与跨国升学资格 | Peterson |
 > | **地方迁移与文化协商** | 共同资格需逐地协商，课程修订需更多文化经验 | 不同国家制度、语言环境与国际课程修订 | Peterson |
 > | **公共责任与社会开放** | 积极平衡、录取资助分工及公共治理共同决定可及性 | 学校网络、奖学金与政府支持 | Peterson |

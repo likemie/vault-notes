@@ -11,7 +11,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - theme/urbanisation
   - policy/school-consolidation
 related_concepts:
+  - "[[Boarding Schools]]"
   - "[[School Choice]]"
   - "[[Peidu]]"
   - "[[Attrition]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-26
-updated: 2026-09-16
+updated: 2026-10-10
 ---
 
 # Rural School Consolidation
@@ -46,7 +47,7 @@ updated: 2026-09-16
 
 > [!policy-context] 政策背景
 > - **发布时间与主体** 2001 年由国务院明确提出基础教育学校布局调整，随后各地方政府出台细则。[[Argument_Teng_2025_CE\|Teng & Wang (2025, p. 304)]]
-> - **适用地区与对象** 中国中西部及广大农村地区的公立小学、教学点及寄宿制学校。
+> - **适用地区与对象** 中国中西部及广大农村地区的公立小学、教学点及[[Boarding Schools|寄宿制学校]]。
 > - **问题背景** 应对农村学龄人口因超低生育率和早期劳动力流动产生的骤减，优化分散办学的低效配置，合并小微学校以整合公用经费和编制。
 > - **制度位置** 政策前期以“资源效益”为纲领，后期与“人口城镇化”战略深度捆绑，成为地方政府促成教育城镇化和消纳城镇房地产的重要抓手。
 

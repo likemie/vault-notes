@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch01"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch01"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Avatar]]"
   - "[[International Schools]]"
   - "[[Assemblage]]"
+  - "[[Boarding Schools]]"
   - "[[Normal School]]"
   - "[[Open-Mindedness]]"
 related_theories: []
@@ -59,7 +60,7 @@ sources:
 part_of: "[[Argument_Peterson_1987_OpenCourt]]"
 status: draft
 created: 2026-08-17
-updated: 2026-08-17
+updated: 2026-10-10
 ---
 # Argument_Peterson_1987_OpenCourt_Ch01
 
@@ -241,7 +242,7 @@ updated: 2026-08-17
 > - **美国筹资预期只得到有限实现** Atlantic College 这一名称兼有海洋教育、残余北约联系、首批大西洋沿岸国家学生和吸引美国资金四层考虑。实际美国支持主要来自桑尼·马雷西（Sonny Maresi）的个人捐赠及福特基金会的一笔资助；马雷西后来还承担首批女生宿舍的建设费用（pp. 6–7）。
 
 > [!case] 1962 年开学与持续至 1964 年的财政风险
-> - **首届规模不足以实现收支平衡** 学校于 1962 年招收首批 56 名男生，主要来自英国、斯堪的纳维亚和联邦德国，也有少量其他欧洲及北美学生。小规模有利于试办，却无法分摊国际寄宿教育的固定成本。
+> - **首届规模不足以实现收支平衡** 学校于 1962 年招收首批 56 名男生，主要来自英国、斯堪的纳维亚和联邦德国，也有少量其他欧洲及北美学生。小规模有利于试办，却无法分摊国际[[Boarding Schools|寄宿教育]]的固定成本。
 > - **奖学金承诺扩大收入缺口** 学校坚持不因家庭无力付费而拒绝合格者，学费收入因而低于维持教师、宿舍、课程和救援设施所需的水平。教育公平原则直接转化为运营赤字。
 > - **治理成员承担短期流动性风险** 一次治理会议收到警告，若成员不向学校提供无息贷款，下月教师工资便无法支付。财政脆弱性直到乔治·舒斯特（George Schuster）于 1964 年加入治理机构后才开始得到稳定处理（pp. 7–8）。
 

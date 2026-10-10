@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-25'
-updated: 2026-10-07
+updated: 2026-10-10
 ---
 
 # Fei Xiaotong
@@ -114,7 +114,7 @@ updated: 2026-10-07
 > - **理论路径** 确立了中国民族学与[[Ethnography\|人类学研究]]的[[Paradigm\|范式]]。其“多元一体”概念为[[Ma Rong\|马戎]]倡导的“[[Depoliticalization of Ethnic Policy\|民族政策去政治化]]”以及“[[Second-generation Ethnic Policy\|第二代民族政策]]”讨论提供了理论源头。[[Argument_Bulag_2024_CE\|(Bulag, 2024, pp. 102–103)]]
 > - **政策路径** 为国家由“多民族国家”向“单一国族”政策的转型提供了理论底座。2002 年中共党章修改将党重新定义为“[[Zhonghua Minzu\|中华民族]]的先锋队”，标志着这一转向在制度层面的确立。[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 102)]]
 > - **教育路径** 其领土型中国观成为中国大陆历史教科书叙事的基础。[[Argument_Xu_2024_CE\|Xu (2024)]] 指出，大陆初中历史教科书普遍将当代疆域逆向投影至古代，将古代各政权间战争重构为家门内摩擦，正是“多元一体”框架在课程层面的具体落实。[[Argument_Xu_2024_CE\|(Xu, 2024, pp. 580–583)]]
-> - **跨国传播** 在国际比较教育领域，其理论成为分析中国少数民族双语教育、寄宿制学校（[[Boarding Schools]]）及国家认同建构的重要框架。
+> - **跨国传播** 在国际比较教育领域，其理论成为分析中国少数民族双语教育、[[Boarding Schools|寄宿制学校]]（[[Boarding Schools]]）及国家认同建构的重要框架。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Bulag_2024_CE\|Bulag (2024)]] — 系统分析了费孝通“多元一体”理论中的汉人中心主义倾向及其对国家同化主义政策转型的影响。
