@@ -10,7 +10,7 @@ summary: "在存在不完全依从（Non-compliance）的实验中，通过工�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -43,13 +43,14 @@ related_facts:
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[Social Programs That Work]]"
   - "[[What Works Clearinghouse]]"
+  - "[[Advanced Technological Education]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-09-22
+updated: 2026-10-10
 ---
 
 # Complier Average Causal Effect
@@ -116,7 +117,7 @@ updated: 2026-09-22
 
 > [!boundary] 概念辨析与适用边界
 > - **CACE vs 完工者分析（Per-Protocol / As-Treated）** 完工者分析简单粗暴地剔除违约者，直接对比实际完成者与对照组，彻底破坏了[[Random Assignment\|随机化]]平衡（引入严重选择偏倚）；CACE 运用工具[[Variable\|变量]]模型，利用外生随机分配 $Z$ 作为杠杆，[[Causality\|因果推断]]具有严密的无偏数学保证。
-> - **CACE vs ATE（总体平均处理效应）** ATE 代表若强制全员 100% 接受干预时的理论总体平均值；CACE 仅代表自然状态下愿意顺从该干预的子群体效应（若干预强制推广至从不接受者，效应可能大幅下降）。
+> - **CACE vs [[Advanced Technological Education|ATE]]（总体平均处理效应）** ATE 代表若强制全员 100% 接受干预时的理论总体平均值；CACE 仅代表自然状态下愿意顺从该干预的子群体效应（若干预强制推广至从不接受者，效应可能大幅下降）。
 > - **排除性约束失效风险** 若实验组学生得知自己入组后产生了强烈的期望效应（心理安慰剂），即使未实际使用干预也提高了成绩，此时工具变量排除性[[Hypothesis\|假设]]被击穿，CACE 估计将产生系统偏误。
 
 ---

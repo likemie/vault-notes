@@ -9,7 +9,7 @@ summary: "利用初始份额分布与总体冲击的交互项构建工具变量�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 11
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -32,13 +32,14 @@ related_methods:
   - "[[Ordinary Least Squares]]"
   - "[[Correlational Research]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Advanced Technological Education]]"
 related_arguments:
   - "[[Argument_Glitz_2020_AER]]"
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-09-17
+updated: 2026-10-10
 ---
 
 # Shift-Share Instrument
@@ -100,7 +101,7 @@ updated: 2026-09-17
 > [!method-limits] 方法局限
 > - **偏误来源** 初始份额可能不是真正外生的——如果初始分布本身就是更早时期策略选择的结果，则工具[[Variable\|变量]]仍可能存在内生性。总体 shift 可能存在未观测的共同冲击。
 > - **适用边界** LATE 解释范围局限于"依从者"群体——即其处理状态确实被初始份额和总体变化交互驱动的那部分单位。
-> - **误用风险** 将 LATE 直接解释为 ATE（平均处理效应）而忽略依从者[[Heterogeneity\|异质性]]。
+> - **误用风险** 将 LATE 直接解释为 [[Advanced Technological Education|ATE]]（平均处理效应）而忽略依从者[[Heterogeneity\|异质性]]。
 > - **补救方式** 结合定性历史论证初始份额的外生性；报告安慰剂检验结果；使用替代工具变量作为稳健性检验。
 
 ---

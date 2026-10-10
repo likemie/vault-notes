@@ -56,6 +56,7 @@ related_facts:
   - "[[National Science and Technology Council]]"
   - "[[National Strategy on Microelectronics Research]]"
   - "[[SBIR and STTR Programs]]"
+  - "[[AFVentures]]"
   - "[[Loan Programs Office]]"
   - "[[KfW]]"
   - "[[Department of Energy]]"
@@ -163,7 +164,7 @@ updated: 2026-10-10
 > **转化断层命题** 私人风险资本受制于其有限合伙人（LP）的短期回报考核，天然规避中试与产业示范阶段的巨大资本黑洞。由公共机构提供的耐心资本填补了这一结构性融资空白，有效防止颠覆性技术在[[Valley of Death|死亡之谷]]中因资金链断裂而夭折。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 8–11)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 
 > [!claim] [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]]
-> **多层级混合耐心资本链条加速硬科技转化** [[National Science and Technology Council|白宫国家科学技术委员会]]在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》中明确指出，微电子与深科技硬件初创企业因资本投入大、研发周期长，必须构建多梯度的战略耐心金融支持链条：以 [[SBIR and STTR Programs|SBIR]]/STTR 提供非稀释性早期研发种子，以空军 AFVentures 模式对等匹配私人风投资本（将风投获投率从 10% 提升至 29%），联合战略风投基金（如 In-Q-Tel、BARDA Ventures、NSTC 投资基金）进行股权直投，并依托[[Loan Programs Office|能源部贷款项目办公室]]（LPO）为首创性工程中试提供定制化低息长期债务融资，实现从实验室到工厂制造的全生命周期资本护航。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 45–47)]]
+> **多层级混合耐心资本链条加速硬科技转化** [[National Science and Technology Council|白宫国家科学技术委员会]]在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》中明确指出，微电子与深科技硬件初创企业因资本投入大、研发周期长，必须构建多梯度的战略耐心金融支持链条：以 [[SBIR and STTR Programs|SBIR]]/STTR 提供非稀释性早期研发种子，以空军 [[AFVentures]] 模式对等匹配私人风投资本（将风投获投率从 10% 提升至 29%），联合战略风投基金（如 In-Q-Tel、BARDA Ventures、NSTC 投资基金）进行股权直投，并依托[[Loan Programs Office|能源部贷款项目办公室]]（LPO）为首创性工程中试提供定制化低息长期债务融资，实现从实验室到工厂制造的全生命周期资本护航。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 45–47)]]
 
 ---
 
@@ -239,7 +240,7 @@ updated: 2026-10-10
 > - **1980s–1990s — 日美资本成本论战与 90 年代敏捷分工反思** 80 年代以麻省理工学院委员会为代表的学者将美国制造业危机归咎为缺乏日本主银行体制的低成本耐心资本；但 90 年代美国半导体在风险投资与纵向分工支持下的复兴，证实耐心资本若脱离敏捷产品设计易沦为大宗制造产能内耗。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 123–125)]]
 > - **2018 — 使命导向[[Market Shaping and Creating|市场塑造]]与 ROAR 框架** [[Mariana Mazzucato|马祖卡托]]系统论证国家作为耐心资本供给者的核心功能，提出通过 ROAR 框架与风险收益共享重塑[[Public Value|公共价值]]。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–810)]]
 > - **2018 — 三代使命演变与[[Public Dynamic Capabilities|公共动态能力]]融合** 莱纳·[[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]提出将耐心资本与国家、政策、行政三层[[Public Dynamic Capabilities|公共动态能力]]及[[Lead-and-Learn Paradigm|引领与学习范式]]深度融合，克服[[Complexity Paradox|复杂性悖论]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–801)]]
-> - **2024 — 国家战略科技混合耐心资本工具箱建制** 白宫发布《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》，构建涵盖[[Non-dilutive Funding|非稀释性资助]]（[[SBIR and STTR Programs|SBIR]]/STTR）、私营资本匹配（AFVentures）、战略股权投资（[[National Science and Technology Council|NSTC]] 基金 / In-Q-Tel）与国家开发性债务融资（[[Loan Programs Office|LPO]]）的多层级耐心资本体系，保障硬科技从原型到规模制造的全周期生存。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 45–47)]]
+> - **2024 — 国家战略科技混合耐心资本工具箱建制** 白宫发布《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》，构建涵盖[[Non-dilutive Funding|非稀释性资助]]（[[SBIR and STTR Programs|SBIR]]/STTR）、私营资本匹配（[[AFVentures]]）、战略股权投资（[[National Science and Technology Council|NSTC]] 基金 / In-Q-Tel）与国家开发性债务融资（[[Loan Programs Office|LPO]]）的多层级耐心资本体系，保障硬科技从原型到规模制造的全周期生存。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 45–47)]]
 
 ---
 
@@ -315,7 +316,7 @@ updated: 2026-10-10
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 系统阐明在硬科技与微电子战略攻坚中，如何通过[[Non-dilutive Funding|非稀释性资助]]（[[SBIR and STTR Programs|SBIR]]/STTR）、私营资本匹配（AFVentures）、战略股权基金与国家债务信贷（[[Loan Programs Office|LPO]]）构建多层级混合耐心资本生态（Goal 4.5）。
+> - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 系统阐明在硬科技与微电子战略攻坚中，如何通过[[Non-dilutive Funding|非稀释性资助]]（[[SBIR and STTR Programs|SBIR]]/STTR）、私营资本匹配（[[AFVentures]]）、战略股权基金与国家债务信贷（[[Loan Programs Office|LPO]]）构建多层级混合耐心资本生态（Goal 4.5）。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 结合三代使命演化理论，系统论证耐心资本与公共部门三层动态能力及引领学习[[Paradigm|范式]]的协同逻辑。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 奠定当代[[Mission-Oriented Innovation Policy|使命导向创新政策]]中耐心资本供给机制、ROAR [[Analytic Framework|分析框架]]与风险收益共享理论的核心[[Document|文献]]。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP (2019)]] — 论证[[University-Industry Collaboration|产学合作]]中长周期战略伙伴关系如何依托耐心资本跨越成果转化的[[Valley of Death|死亡之谷]]。

@@ -9,7 +9,7 @@ summary: "用于分析纵向追踪与群聚相关数据的半参数半回归方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 30
+method_related_count: 31
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -52,13 +52,14 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Advanced Technological Education]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-09-17
+updated: 2026-10-10
 ---
 
 # Generalized Estimating Equations
@@ -72,7 +73,7 @@ updated: 2026-09-17
 
 > [!method-scope] 方法范围
 > - **研究对象** 包含集群内部相关性的多层数据（如嵌套于学校或班级的学生考分）以及针对同一受试者的多期纵向追踪面板。
-> - **问题类型** 群体平均处理效应（Average Treatment Effect, ATE）评估、非独立数据的边际关联分析与[[Causality\|因果推断]][[Covariate Adjustment\|协变量控制]]。
+> - **问题类型** 群体平均处理效应（Average Treatment Effect, [[Advanced Technological Education|ATE]]）评估、非独立数据的边际关联分析与[[Causality\|因果推断]][[Covariate Adjustment\|协变量控制]]。
 > - **[[Unit of Analysis\|分析单位]]** 微观个体（测量单位）及其所属的独立集群（集群单位，如学校、学区）。
 > - **输出形式** 群体平均回归系数向量 $\boldsymbol{\beta}$、基于模型与三明治经验修正的两组标准误、Wald 统计量及 95% [[Confidence Interval\|置信区间]]。
 

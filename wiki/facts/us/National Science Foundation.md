@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 78
+fact_related_count: 79
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -92,6 +92,7 @@ related_facts:
   - "[[National Science and Technology Council]]"
   - "[[National Strategy on Microelectronics Research]]"
   - "[[National Nanotechnology Coordinated Infrastructure]]"
+  - "[[Advanced Technological Education]]"
   - "[[NSF X-Labs]]"
   - "[[Restoring Gold Standard Science Executive Order]]"
   - "[[DARPA]]"
@@ -155,7 +156,7 @@ updated: 2026-10-10
 > - **2022–2024 — 《[[CHIPS and Science Act|芯片法案]]》赋能、[[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会与国家微电子战略协同**
 >   - 依据《芯片与科学法案》获五年 810 亿美元预算授权，设立三十年来首个新理事会——技术、创新与伙伴关系理事会（TIP），将研究生研究奖学金（GRFP）扩大至每年 3000 名，启动[[NSF Regional Innovation Engines|区域创新引擎]]（首批资助 1.6 亿美元），并大力支持大学开源指令集（RISC-V）与开源 [[Electronic Design Automation|EDA]] 工具链的研发与课程普及。
 >   - **国家战略与中试网络共建** 在[[National Science and Technology Council|国家科学技术委员会]]（[[National Science and Technology Council|NSTC]]）微电子领导小组（[[Subcommittee on Microelectronics Leadership|SML]]）中担任联合主席，牵头编制《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》；设立“未来半导体前沿”（Future of Semiconductors, FuSe / FuSe2）专项计划，由 TIP 与工程学学部（ENG）、数学与物理科学学部（MPS）跨学科协同，聚焦多维[[Co-Design|协同设计]]、二维材料与能效突破，跨越从实验室到工业代工厂的转化断层；
->   - **开放科研基础设施与全谱系人才培养** 持续资助全美国家纳米技术协同基础设施（[[National Nanotechnology Coordinated Infrastructure|NNCI]]）16 个核心高校微纳加工与表征节点，提供低门槛开放中试服务；通过先进技术教育（Advanced Technological Education, ATE）计划、本科生研究体验（REU）与教师研究体验（RET）深耕社区学院与大学晶圆代工技术员与工程拔尖人才梯队。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]; [[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 20)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–3, 8–11, 26)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12, 19–21, 26–28)]]
+>   - **开放科研基础设施与全谱系人才培养** 持续资助全美国家纳米技术协同基础设施（[[National Nanotechnology Coordinated Infrastructure|NNCI]]）16 个核心高校微纳加工与表征节点，提供低门槛开放中试服务；通过[[Advanced Technological Education|先进技术教育]]（Advanced Technological Education, ATE）计划、本科生研究体验（REU）与教师研究体验（RET）深耕社区学院与大学晶圆代工技术员与工程拔尖人才梯队。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]; [[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 20)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–3, 8–11, 26)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12, 19–21, 26–28)]]
 > - **2025–2026 — [[Metascience|元科学]]单元设立、资助机制试验与非学术组织直接资助**
 >   - 白宫科技战略报告系统诊断 NSF 沿袭自 1950 年代的学科分立壁垒与 42%–44% 的行政文书负担，要求建立直属独立[[Metascience|元科学]]单元以推行[[Randomised Controlled Trials|随机对照试验]]（RCTs）；
 >   - 通过 TIP [[NSF X-Labs|X-Labs]] 突破大学系所界限、直接资助新型[[Focused Research Organization|聚焦研究组织]]（FRO）；全面推行金券制（Golden Tickets）、对人长期资助与可携带式研究生早期奖学金；并依据《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令建立强制性代码数据开源与复现机制。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 8, 15, 26–28, 31–32, 65–66)]]
@@ -185,7 +186,7 @@ updated: 2026-10-10
 > - **[[University-Industry Collaboration|产学合作]][[Innovation Hub|创新中心]]矩阵（[[Industry-University Cooperative Research Centers|I/UCRC]]、ERCs 与 STCs）** 构建大学与工业界共同攻克关键共性工程技术的长效跨界共生网络。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 > - **未来半导体前沿计划（FuSe / FuSe2）与多维[[Co-Design|协同设计]]** 联合工业界设立 Future of Semiconductors 专项，跨学部资助二维材料、神经形态器件、自旋电子学与全栈[[Co-Design|协同设计]]，并设立跨机构中试直通车突破后摩尔时代物理极限。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12)]]
 > - **国家纳米技术协同基础设施（[[National Nanotechnology Coordinated Infrastructure|NNCI]]）开放网络** 统领全美 16 个核心高校微纳加工与材料表征中试节点，每年面向万余名学术与企业科研人员开放纳米级流片与原型验证服务。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 19–21)]]
-> - **半导体全谱系技能与工程技术员培育（ATE / REU / RET）** 依托先进技术教育（ATE）计划联动社区学院开发标准化微电子技术员认证课程，辅以本科生研究体验（REU）与中中学教师研究体验（RET），构筑全谱系人才蓄水池。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 26–28)]]
+> - **半导体全谱系技能与工程技术员培育（[[Advanced Technological Education|ATE]] / REU / RET）** 依托先进技术教育（ATE）计划联动社区学院开发标准化微电子技术员认证课程，辅以本科生研究体验（REU）与中中学教师研究体验（RET），构筑全谱系人才蓄水池。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 26–28)]]
 > - **国家超级计算机中心与网络基础设施** 1980 年代在 5 所大学设立超算中心，为早期互联网（NSFNET）与现代前沿计算奠定基石。
 > - **NSF 创新兵团（[[NSF I-Corps]]）** 高校[[Academic Entrepreneurship|学术创业]]标杆，累计孵化超 1,000 家科技初创企业，撬动逾 7.6 亿美元商业化融资。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]
 > - **[[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会与[[NSF Regional Innovation Engines|区域创新引擎]]** 依据《[[CHIPS and Science Act|芯片法案]]》向 10 个区域创新合作体授予高达 1.6 亿美元十年期资助，并设立 [[NSF X-Labs|X-Labs]] 攻坚前沿中等规模工程科学。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 26)]]
@@ -280,4 +281,4 @@ updated: 2026-10-10
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 量化剖析 NSF 早期独立奖学金向课题助研津贴（GRAs）异化对研究生培养生态与青年学术职业造成的深层负面影响。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 实证阐明 [[DARPA]] 与 NSF 在半导体前沿技术突破中的机制分工与跨机构资助接力规律。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 阐述《芯片与科学法案》下商务部、国防部、能源部与 NSF 共同构建国家半导体全链条研发转化体系的制度构想。
-> - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 阐释国家微电子顶层战略下 NSF 作为 [[Subcommittee on Microelectronics Leadership|SML]] 联合主席，通过未来半导体（FuSe）计划、全美纳米协同基础设施（[[National Nanotechnology Coordinated Infrastructure|NNCI]]）与先进技术教育（ATE）技术员培养体系，全链条支撑从基础发现到中试转化的跨部门制度网络。
+> - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 阐释国家微电子顶层战略下 NSF 作为 [[Subcommittee on Microelectronics Leadership|SML]] 联合主席，通过未来半导体（FuSe）计划、全美纳米协同基础设施（[[National Nanotechnology Coordinated Infrastructure|NNCI]]）与[[Advanced Technological Education|先进技术教育]]（ATE）技术员培养体系，全链条支撑从基础发现到中试转化的跨部门制度网络。

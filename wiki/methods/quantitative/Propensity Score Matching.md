@@ -10,7 +10,7 @@ summary: "一种基于可观测协变量将多维特征压缩为单一参与概�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 28
+method_related_count: 29
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -50,6 +50,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[National Pupil Database]]"
+  - "[[Advanced Technological Education]]"
   - "[[Education Endowment Foundation]]"
   - "[[Researching School Choices]]"
 related_arguments:
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-09-17
+updated: 2026-10-10
 ---
 
 # Propensity Score Matching
@@ -73,7 +74,7 @@ updated: 2026-09-17
 > - **研究对象** 大规模教育行政调查截面数据、学生追踪档案（如英国[[National Pupil Database\|国家学生数据库]]）中自愿或按规则采纳某项政策、课程模式或办学机制的非实验样本。
 > - **问题类型** 因果效应评估问题（回答“当控制所有可观测背景差异后，加入某种办学模式相比未加入模式的学校平均带来了多少学业增益”）。
 > - **[[Unit of Analysis\|分析单位]]** 学生个体、班级或整所学校。
-> - **输出形式** 处理组平均处理效应（Average Treatment Effect on the Treated, ATT）、总体平均处理效应（ATE）、配对权重、协变量标准化偏差均衡图。
+> - **输出形式** 处理组平均处理效应（Average Treatment Effect on the Treated, ATT）、总体平均处理效应（[[Advanced Technological Education|ATE]]）、配对权重、协变量标准化偏差均衡图。
 
 > [!citation-card] 准实验匹配在学校体制抉择评估中的机制应用（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）
 > 面对学校宏观办学机制转型等无法强行人为[[Random Assignment\|随机化]]的现实难题，英国 [[Education Endowment Foundation\|EEF]] 设立了“[[Researching School Choices\|研究学校选择]]”（Researching School Choices）专属资助流。该资助流不再依赖传统 RCT，而是依托国家学生数据库（NPD）详实的纵向普查大数据，采用[[Difference-in-Differences\|双重差分法]]（DID）、倾向得分匹配（PSM）与回归断点设计（[[Regression Discontinuity Design\|RDD]]）等严密的准实验架构，科学评估真实教育生态下的宏观治理决策。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]

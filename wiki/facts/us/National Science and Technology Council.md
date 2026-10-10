@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 31
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 32
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 内阁级跨部门科技政策协调委员会
 headquarters: 美国华盛顿特区白宫（The White House, Washington, D.C., USA）
@@ -52,6 +52,7 @@ related_facts:
   - "[[Industrial Advisory Committee]]"
   - "[[National Advanced Packaging Manufacturing Program]]"
   - "[[Microelectronics Commons]]"
+  - "[[National Quantum Initiative]]"
   - "[[National Nanotechnology Coordinated Infrastructure]]"
   - "[[President's Science Advisory Committee]]"
 related_arguments:
@@ -112,7 +113,7 @@ updated: 2026-10-10
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **跨部门重大技术倡议统筹** 牵头孵化并统领跨部委重大科技计划，如跨越十余个机构的[[National Nanotechnology Initiative|国家纳米技术倡议]]（NNI）、国家量子计划（NQI）以及《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. iv–v, 2)]]
+> - **跨部门重大技术倡议统筹** 牵头孵化并统领跨部委重大科技计划，如跨越十余个机构的[[National Nanotechnology Initiative|国家纳米技术倡议]]（NNI）、[[National Quantum Initiative|国家量子计划]]（NQI）以及《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. iv–v, 2)]]
 > - **国家微电子研究战略四项支柱目标** 依据《[[CHIPS and Science Act|芯片法案]]》法定要求，统领全美微电子研发全链条：① 赋能下一代微电子创新（底层材料、神经形态与[[Heterogeneous Integration|异构集成]]）；② 建设互联开放的研发中试基础设施网络（NSTC/[[National Advanced Packaging Manufacturing Program|NAPMP]]/Commons/[[National Nanotechnology Coordinated Infrastructure|NNCI]]/DEG）；③ 壮大并维系工程劳动力供给流水线；④ 筑牢全栈[[Hardware Security|硬件安全]]、可信防伪与供应链韧性。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 1–4, 48)]]
 > - **关键与新兴技术清单** 动态研判并发布关乎国家安全与战略优势的关键技术领域（如人工智能、半导体、先进计算、生物技术），指导联邦资金优先倾斜。
 > - **[[Research Security|科研安全]]与诚信跨部门标准制定** 针对学术交流与地缘技术竞争风险，组织制定统领全美联邦基金的科研安全披露、利益冲突防范与数据合规指引。
@@ -134,7 +135,7 @@ updated: 2026-10-10
 
 > [!finding-cards] 关键成效与辐射影响
 > - **奠定顶层跨部门统筹常态** 彻底改变了二战后各联邦部委在研发投资上“老死不相往来”的割裂状态，建立了制度化的协调管道。
-> - **支撑重大前沿战略攻坚** 通过 [[National Nanotechnology Initiative|NNI]]、NQI 以及[[National Strategy on Microelectronics Research|国家微电子研究战略]]等旗舰计划，确保美国在关键前沿[[Comparative Education as a Cross-Sectional Area|交叉学科]]持续保持战略先发优势。
+> - **支撑重大前沿战略攻坚** 通过 [[National Nanotechnology Initiative|NNI]]、[[National Quantum Initiative|NQI]] 以及[[National Strategy on Microelectronics Research|国家微电子研究战略]]等旗舰计划，确保美国在关键前沿[[Comparative Education as a Cross-Sectional Area|交叉学科]]持续保持战略先发优势。
 > - **推动科学契约由分散走向集中** 构成了战后[[Social Contract of Science|科学社会契约]]由部门自主资助向国家目标驱动转型的重要组织依托。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1059)]]
 
 > [!stat-cards]- 核心规模数据

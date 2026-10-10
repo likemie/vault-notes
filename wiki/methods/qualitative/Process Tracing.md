@@ -10,7 +10,7 @@ summary: "政治学与比较政治学中用于案例内质性因果推断的核�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 27
+method_related_count: 28
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -51,13 +51,14 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Advanced Technological Education]]"
   - "[[Common Core State Standards]]"
 related_arguments:
   - "[[Argument_McDonnell_2013_AJE]]"
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-10-10
 ---
 
 # Process Tracing
@@ -88,7 +89,7 @@ updated: 2026-09-26
 > - **知识观** 秉持因果实在论（Causal Realism）。认为[[Causality|因果关系]]不仅是统计[[Variable|变量]]间恒常相伴的线性相关（Constant conjunction），而是存在于物理与社会世界中的真实生成机制（Productive mechanisms）；即便缺乏大样本统计量，详尽的微观[[Chain of Evidence|证据链]]同样能够确立强健的因果解释。
 > - **研究者角色** 兼具历史侦探与法官角色。研究者根据预先设定的理论假说，深入档案、会议纪要与当事人证词，运用贝叶斯更新（Bayesian updating）逻辑，评估每一条新发现的证据在多大程度上强化或削弱了特定因果链条的可[[Reliability|信度]]。
 > - **有效性标准** [[Internal Validity|内部效度]]极高；强调时间先后的不可逆性（Temporal precedence）、机制链条的无断裂闭合（Continuous causal chain）以及证据的来源多元性与互相印证。
-> - **不声称回答的问题** 无法直接估计[[Independent Variable|自变量]]在全样本总体中的平均处理效应（Average Treatment Effect, ATE），亦不能替代大样本实验推断跨总体普适率。
+> - **不声称回答的问题** 无法直接估计[[Independent Variable|自变量]]在全样本总体中的平均处理效应（Average Treatment Effect, [[Advanced Technological Education|ATE]]），亦不能替代大样本实验推断跨总体普适率。
 
 > [!method-stack] 过程追踪中的四大经典因果证据检验
 > 根据质性方法学家范·埃弗拉（Stephen Van Evera）与戴维·科利尔（David Collier）的分类，过程追踪运用[[Necessary and Sufficient Conditions|充分条件]]与必要条件逻辑，对理论假说进行四种严苛度不同的经验证据检验：

@@ -9,7 +9,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 41
+fact_related_count: 42
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -65,7 +65,9 @@ related_facts:
   - "[[Department of Energy]]"
   - "[[National Nanotechnology Coordinated Infrastructure]]"
   - "[[NSF Regional Innovation Engines]]"
+  - "[[Lab-Embedded Entrepreneurship Program]]"
   - "[[Activate Fellowship]]"
+  - "[[AFVentures]]"
 related_arguments:
   - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
 confidence: high
@@ -133,7 +135,7 @@ updated: 2026-10-10
 > [!pathways]- 实施路径
 > - **顶层跨部门机制对齐** 通过 SML 定期会议与年度能力盘点，将各部委未获[[CHIPS and Science Act|芯片法案]]专项增量资金的基础研发项目与芯片法案重大基础设施紧密串联。（pp. 9–10, 48）
 > - **产学研共用中试枢纽落地** 建立开放式用户设施与[[Multi-Project Wafer|多项目晶圆]]集中流片网关，向中小企业和大学科研人员开放商用级制造与封装资源。（pp. 21–28）
-> - **人才管网与产业孵化协同** 结合 NSF [[NSF Regional Innovation Engines|区域创新引擎]]与 DOE 实验室嵌入式创业计划（如 [[Activate Fellowship|Cyclotron Road]]），打通人才培养与初创企业种子轮融资渠道。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 31–37, 45–47)]]
+> - **人才管网与产业孵化协同** 结合 NSF [[NSF Regional Innovation Engines|区域创新引擎]]与 DOE [[Lab-Embedded Entrepreneurship Program|实验室嵌入式创业计划]]（如 [[Activate Fellowship|Cyclotron Road]]），打通人才培养与初创企业种子轮融资渠道。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 31–37, 45–47)]]
 
 ---
 
@@ -172,7 +174,7 @@ updated: 2026-10-10
 > - **37% $\to$ 12%** 1990 年至 2020 年间美国本土芯片制造份额下滑幅度。（p. 1）
 > - **< 2%–3%** 美国本土在全球先进封装与组装测试中所占份额。（p. 2）
 > - **40 余年** 极紫外光刻（EUV）从基础探索走向商业量产历经的中试研发周期。（p. 38）
-> - **10% $\to$ 29%** 空军 AFVentures 风险匹配使初创企业后续获得风险投资的比例跃升幅度。（pp. 46–47）
+> - **10% $\to$ 29%** 空军 [[AFVentures]] 风险匹配使初创企业后续获得风险投资的比例跃升幅度。（pp. 46–47）
 > - **600 余家** NISE Network 覆盖的全美科技馆与科普教育基地数量。（p. 35）
 
 ---

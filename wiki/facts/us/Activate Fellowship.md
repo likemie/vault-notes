@@ -14,7 +14,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -52,9 +52,11 @@ related_facts:
   - "[[DARPA]]"
   - "[[SBIR and STTR Programs]]"
   - "[[NSF I-Corps]]"
+  - "[[Embedded Entrepreneurship Initiative]]"
   - "[[Loan Programs Office]]"
   - "[[National Strategy on Microelectronics Research]]"
   - "[[National Science and Technology Council]]"
+  - "[[AFVentures]]"
   - "[[National Semiconductor Technology Center]]"
 related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
@@ -96,7 +98,7 @@ updated: 2026-10-10
 > - **全流程商业化与工程制造导师网络（[[Mentorship]] & Curriculum）**
 >   - 配备资深行业高管、连续创业者、知识产权律师与工程制造专家，开展涵盖知识产权许可、客户发现、供应链谈判与股权融资的实务辅导。
 > - **跨部门资金与政策接力（Capital Ladder）**
->   - 深度联动联邦 [[SBIR and STTR Programs|SBIR]]/STTR 专项、[[NSF I-Corps]]、[[DARPA]] 嵌入式创业倡议（EEI）以及能源部 [[Loan Programs Office|LPO]] 贷款工具，构筑无缝衔接的后续融资阶梯。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 45–47)]]
+>   - 深度联动联邦 [[SBIR and STTR Programs|SBIR]]/STTR 专项、[[NSF I-Corps]]、[[DARPA]] [[Embedded Entrepreneurship Initiative|嵌入式创业倡议]]（EEI）以及能源部 [[Loan Programs Office|LPO]] 贷款工具，构筑无缝衔接的后续融资阶梯。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 45–47)]]
 
 ---
 
@@ -105,7 +107,7 @@ updated: 2026-10-10
 > [!dev-timeline] 项目推进历程
 > - **2015–2018 — 劳伦斯伯克利实验室试点破冰期（Cyclotron Road）** 在能源部支持下于伯克利实验室率先探索，建立科学家兼任实验室访问学者与公司法人的合规治理架构，验证了“硬科技创业博士后”[[Paradigm|范式]]的可行性。
 > - **2019–2023 — 全美多节点跨区域网络扩张期** 成立独立运营实体 Activate Global，设立伯克利、波士顿（联动 MIT/林肯实验室）、纽约（联动哥伦比亚大学与布鲁克海文）、休斯敦等全美四大创新集群。
-> - **2024 — 纳入白宫《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》创业协同体系** 白宫 [[National Science and Technology Council|NSTC]] 在微电子战略第四目标（Goal 4.5）中将 Activate / Cyclotron Road 确立为国家实验室硬科技创业的核心标杆模式，与多部门 [[SBIR and STTR Programs|SBIR]]/STTR、空军 AFVentures 资本匹配及未来 NSTC 投资基金形成国家级硬科技转化网络。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 45–47)]]
+> - **2024 — 纳入白宫《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》创业协同体系** 白宫 [[National Science and Technology Council|NSTC]] 在微电子战略第四目标（Goal 4.5）中将 Activate / Cyclotron Road 确立为国家实验室硬科技创业的核心标杆模式，与多部门 [[SBIR and STTR Programs|SBIR]]/STTR、空军 [[AFVentures]] 资本匹配及未来 NSTC 投资基金形成国家级硬科技转化网络。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 45–47)]]
 > - **2026 — 确立为国家科技体制改革典范** 白宫科技政策办公室在《科学：新黄金时代》中正式将 Activate 模式总结为打破高校象牙塔与产业界晋升壁垒、培育新一代“双栖”战略领军人才的示范工程。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 43)]]
 
 ---

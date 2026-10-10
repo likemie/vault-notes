@@ -33133,6 +33133,19 @@
     ]
   },
   {
+    "title": "Advanced Technological Education",
+    "type": "fact",
+    "path": "wiki/facts/us/Advanced Technological Education.md",
+    "aliases": [
+      "先进技术教育计划",
+      "先进技术教育",
+      "ATE",
+      "NSF ATE",
+      "社区学院技术教育计划",
+      "半导体技师培养计划"
+    ]
+  },
+  {
     "title": "Advancement Via Individual Determination",
     "type": "fact",
     "path": "wiki/facts/us/Advancement Via Individual Determination.md",
@@ -33151,6 +33164,18 @@
       "国会研究员计划",
       "AERA Congressional Fellowship",
       "Congressional Fellowship Program"
+    ]
+  },
+  {
+    "title": "AFVentures",
+    "type": "fact",
+    "path": "wiki/facts/us/AFVentures.md",
+    "aliases": [
+      "空军商业投资计划",
+      "空军创投",
+      "空军商业风投计划",
+      "空军风险投资计划",
+      "AFWERX AFVentures"
     ]
   },
   {
@@ -33300,6 +33325,18 @@
       "EIR",
       "EIR Program",
       "Education Innovation and Research Program"
+    ]
+  },
+  {
+    "title": "Embedded Entrepreneurship Initiative",
+    "type": "fact",
+    "path": "wiki/facts/us/Embedded Entrepreneurship Initiative.md",
+    "aliases": [
+      "嵌入式创业者计划",
+      "嵌入式创业倡议",
+      "EEI",
+      "DARPA EEI",
+      "嵌入式商业化加速计划"
     ]
   },
   {
@@ -33492,6 +33529,18 @@
     ]
   },
   {
+    "title": "Lab-Embedded Entrepreneurship Program",
+    "type": "fact",
+    "path": "wiki/facts/us/Lab-Embedded Entrepreneurship Program.md",
+    "aliases": [
+      "实验室嵌入式创业计划",
+      "实验室嵌入式创业项目",
+      "实验室嵌入式创业倡议",
+      "LEEP",
+      "DOE LEEP"
+    ]
+  },
+  {
     "title": "Lightning Squad",
     "type": "fact",
     "path": "wiki/facts/us/Lightning Squad.md",
@@ -33625,6 +33674,17 @@
       "国家纳米技术倡议",
       "NNI",
       "国家纳米技术计划"
+    ]
+  },
+  {
+    "title": "National Quantum Initiative",
+    "type": "fact",
+    "path": "wiki/facts/us/National Quantum Initiative.md",
+    "aliases": [
+      "国家量子倡议",
+      "国家量子计划",
+      "NQI",
+      "国家量子倡议法案"
     ]
   },
   {

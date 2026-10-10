@@ -53,7 +53,7 @@ updated: 2026-10-10
 > 下一代微系统制造计划（Next-Generation Microsystems Manufacturing, NGMM）是由[[DARPA|美国国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）于 2023 年正式启动的重大先导制造基础设施计划。该计划旨在通过建立全美首个开放共享的国家级[[Heterogeneous Integration|三维异构集成]]（3D Heterogeneous Integration, 3DHI）研发与中试制造中心，彻底扭转美国本土缺乏先进微互连与多材料垂直异构集成制造能力的战略被动局面，为国防任务与关键工业构建自主可控的微系统制造基底。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 27–28)]]
 
 > [!program-context] 项目背景
-> - **立项时间 / 周期** 2022 年底发布需求征集，2023 年下半年正式启动，规划执行周期为多阶段长周期国家工程。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 27)]]
+> - **立项时间 / 周期** 2022 年底发布需求征集，2023 年下半年正式启动，规划执行周期为多阶段长周期国家工程。
 > - **发起方与资助机制** 由 DARPA 微系统技术办公室（MTO）全权发起并主导资助，通过大额定向国防研发合同联合大学联盟、国家实验室及半导体装备与先进封装企业共同出资共建。
 > - **覆盖范围与对象** 面向全美微系统与半导体创新界开放，涵盖从事先进国防雷达、电子战、人工智能边缘芯片及高性能计算的产学研团队。
 > - **核心问题导向** 彻底解决美国半导体企业与大学在开展尖端 3D 异构集成前沿研究时，因本土无代工产线而严重依赖东亚海外先进封装与中试代工设施的重大地缘脆弱性危机。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 27)]]

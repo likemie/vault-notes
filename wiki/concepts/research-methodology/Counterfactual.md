@@ -10,7 +10,7 @@ aliases:
 summary: "因果推断中通过构建与设想原因不存在时的潜在结果以识别真实因果效应的核心推理机制，在实证研究中依托控制组与随机分配构建无偏反事实代理"
 type: concept
 domain: "research-methodology"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -61,6 +61,7 @@ related_persons:
   - "[[Robert Slavin]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
+  - "[[Advanced Technological Education]]"
   - "[[Education Endowment Foundation]]"
   - "[[Success for All]]"
   - "[[ISRCTN]]"
@@ -73,7 +74,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-09-24
+updated: 2026-10-10
 ---
 
 # Counterfactual
@@ -171,7 +172,7 @@ updated: 2026-09-24
 > 探讨面对个体反事实不可观测的认识论困境，[[Random Assignment\|随机分配]]如何在大样本群体层面上实现其他条件相同（ceteris paribus）并生成合法的反事实基线。
 
 > [!claim] Holland, P. W.
-> **[[Fundamental Problem of Causal Inference\|因果推断的基本问题]]与群体反事实替代** 因果分析的根本障碍在于“因果推断的基本问题”（Fundamental Problem of Causal Inference）：研究者永远无法在同一时间点对同一个体同时观测到接受处理 $Y(1)$ 与未接受处理 $Y(0)$ 的状态。因此，科学因果推断必须从个体层面的因果效应转向群体层面的平均处理效应（Average Treatment Effect, ATE）；通过随机分配，使得实验组与控制组在处理前的所有特征期望完全相同，从而使控制组的现实表现合法地充当实验组未受干预时的反事实代理。（Holland, 1986, pp. 945–947）
+> **[[Fundamental Problem of Causal Inference\|因果推断的基本问题]]与群体反事实替代** 因果分析的根本障碍在于“因果推断的基本问题”（Fundamental Problem of Causal Inference）：研究者永远无法在同一时间点对同一个体同时观测到接受处理 $Y(1)$ 与未接受处理 $Y(0)$ 的状态。因此，科学因果推断必须从个体层面的因果效应转向群体层面的平均处理效应（Average Treatment Effect, [[Advanced Technological Education|ATE]]）；通过随机分配，使得实验组与控制组在处理前的所有特征期望完全相同，从而使控制组的现实表现合法地充当实验组未受干预时的反事实代理。（Holland, 1986, pp. 945–947）
 
 > [!claim] Edovald & Nevill
 > **大样本随机试验对反事实有效性的制度保障** 在大规模教育试验中，反事实代理的有效性高度取决于[[Sample Size Determination\|样本量]]规模与数据损耗控制。微弱样本或高[[Attrition\|流失]]率会破坏随机分配建立的初始同质性，引入选择性偏倚，导致控制组偏离真实的反事实基准；高标准循证机构（如英国 [[Education Endowment Foundation\|EEF]]）通过大样本多中心设计与严格方案[[Preregistration\|预注册]]，确保反事实估计免受研究者操作偏倚的侵蚀。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 50–53)]]
@@ -221,7 +222,7 @@ updated: 2026-09-24
 > > - **人工严格受控派（传统实验心理学）** 坚持反事实控制组必须剔除所有非特异性干预成分，追求因果解释的纯洁性与高[[Internal Validity\|内部效度]]。
 > > - **生态常态对照派（[[Argument_Slavin_2019_EP\|Slavin, 2019, pp. 22–23]]）** 指出教育并非医学给药，控制组教师绝不可能处于“零教学”真空；教育反事实必须定义为常规教学对照（[[Business as Usual\|BAU]]），唯有超越现存真实实践的干预才具备推广价值。
 >
-> > [!axis] 平均处理效应（ATE）的反事实充分性 vs 异质性机制黑箱
+> > [!axis] 平均处理效应（[[Advanced Technological Education|ATE]]）的反事实充分性 vs 异质性机制黑箱
 > > 争论围绕量化反事实推导出的群体平均效应是否足以指导复杂的教育决策。
 > >
 > > - **实验因果派（Holland, 1986; WWC）** 强调群体平均反事实是排除偏倚、达成科学因果推论的唯一可靠途径。

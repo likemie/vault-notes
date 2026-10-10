@@ -11,7 +11,7 @@ summary: "包含三个或更多平行实验组（实验臂）的随机对照试�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 40
+method_related_count: 41
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -61,6 +61,7 @@ related_instruments: []
 related_persons:
   - "[[Franklin D. Roosevelt]]"
 related_facts:
+  - "[[Advanced Technological Education]]"
   - "[[Education Endowment Foundation]]"
   - "[[Literacy Octopus]]"
   - "[[Research Schools Network]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-08
+updated: 2026-10-10
 ---
 
 # Multi-Arm Trial
@@ -86,7 +87,7 @@ updated: 2026-10-08
 > - **研究对象** 被[[Random Assignment\|随机分配]]至不同干预臂或对照臂的个体受试者或集群单位（学校/班级）。
 > - **问题类型** 相对疗效比较（“在 A、B、C 三种教学策略中哪一种最有效”）、干预递送媒介效能筛选、复合方案独立组件拆解。
 > - **[[Unit of Analysis\|分析单位]]** 学生个体或集群学校。
-> - **输出形式** 各处理臂相对于对照组的平均处理效应（ATE）、各处理臂之间的成对均值差、经过多重比较校正的[[Confidence Interval\|置信区间]]与调整后 $p$ 值。
+> - **输出形式** 各处理臂相对于对照组的平均处理效应（[[Advanced Technological Education|ATE]]）、各处理臂之间的成对均值差、经过多重比较校正的[[Confidence Interval\|置信区间]]与调整后 $p$ 值。
 
 > [!citation-card] 多臂试验与复杂因果机制拆解（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]; Lord et al., 2017）
 > 为彻底打破传统双臂实验将复杂方案打包为单维度黑箱的局限，英国 [[Education Endowment Foundation\|EEF]] 大力资助并探索多臂试验与析因架构。在著名的“[[Literacy Octopus\|识字八爪鱼]]”多臂试验（Lord et al., 2017）中，EEF 动员了全英 800 余所小学，设置多个平行实验臂系统对比了纸质手册、邮件通讯、杂志专栏及网络研讨 4 种证据传播载体，最终证实单向被动推送循证材料对学生成绩的净效应全部为零，有力推动英格兰建立了深入基层的[[Research Schools Network\|研究学校网络]]。此外，在 ABRA 在线阅读多臂试验中，评估团队通过多臂设计系统剥离了技术软件[[Learner Autonomy\|自主学习]]与教师主导辅导的独立与[[Interaction Effect\|交互效应]]。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]

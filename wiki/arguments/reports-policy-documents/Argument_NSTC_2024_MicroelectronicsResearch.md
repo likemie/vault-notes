@@ -71,13 +71,18 @@ related_facts:
   - "[[Next-Generation Microsystems Manufacturing]]"
   - "[[NSF I-Corps]]"
   - "[[Materials Genome Initiative]]"
+  - "[[National Quantum Initiative]]"
   - "[[National Nanotechnology Initiative]]"
   - "[[DARPA Toolbox Initiative]]"
+  - "[[Advanced Technological Education]]"
   - "[[Semiconductor Research Corporation]]"
   - "[[Manufacturing USA]]"
   - "[[Joint University Microelectronics Program 2.0]]"
+  - "[[Embedded Entrepreneurship Initiative]]"
+  - "[[AFVentures]]"
   - "[[SBIR and STTR Programs]]"
   - "[[Loan Programs Office]]"
+  - "[[Lab-Embedded Entrepreneurship Program]]"
   - "[[Activate Fellowship]]"
 related_arguments: []
 sources:
@@ -92,7 +97,7 @@ title: "Argument_NSTC_2024_MicroelectronicsResearch"
 argument_key: "Argument_NSTC_2024_MicroelectronicsResearch"
 argument_display_title: "National strategy on microelectronics research (as amended April 2025)"
 argument_kind: "report"
-argument_related_count: 53
+argument_related_count: 57
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dcfce7"
@@ -224,7 +229,7 @@ publisher: "Executive Office of the President of the United States"
 > [!feature] 前沿技术重点研发方向
 > - **先进半导体材料研发（Materials R&D, 1.1）** 依托[[Materials Genome Initiative|材料基因组计划]]（Materials Genome Initiative, MGI）建立的材料创新基础设施，重点探索二维（2D）材料、宽禁带与超宽禁带半导体（碳化硅 SiC、氮化镓 GaN、金刚石）、铁电与自旋电子材料，满足高频通信、电力控制、航天防辐射及极低温环境下的特殊工作需求。（pp. 14–15）
 > - **电路设计与仿真工具开发（[[Electronic Design Automation|EDA Tools]], 1.2）** 发展高层次综合、多物理场联合仿真、人工智能辅助版图生成工具及开源[[Electronic Design Automation|电子设计自动化]]（Electronic Design Automation, EDA）流程，缩短芯片研发周期并降低设计复杂度。（pp. 15–16）
-> - **新型稳健处理架构（Processing Architectures, 1.3）** 发展非[[Von Neumann Architecture|冯·诺依曼架构]]、类脑神经形态计算、存内计算（In-Memory Computing）、光子计算与专用硬件加速器，大幅降低数据在处理器与内存之间频繁搬运带来的能耗。（pp. 16–17）
+> - **新型稳健处理架构（Processing Architectures, 1.3）** 发展非[[Von Neumann Architecture|冯·诺依曼架构]]、类脑神经形态计算、存内计算（In-Memory Computing）、光子计算与专用硬件加速器，大幅降低数据在处理器与内存之间频繁搬运带来的能耗；并协同[[National Quantum Initiative|国家量子倡议]]（National Quantum Initiative, NQI）探索量子计算器件、极低温电子学与量子传感接口系统。（pp. 16–17）
 
 > [!figure]- 图：半导体算力演进曲线与未来三维异构驱动力
 > ![](https://img.mylikemie.icu/sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig_Computing_Power_3DHI.png)
@@ -258,7 +263,7 @@ publisher: "Executive Office of the President of the United States"
 针对高校师生和小微企业无力独立建设昂贵洁净室的现实，联邦政府推行开放共享的基础设施支持体系。
 
 > [!pathways] 开放中试与表征设施支撑体系
-> - **联邦微纳制造与表征用户网络（User Facilities Network, 2.1）** 依托[[National Nanotechnology Initiative|国家纳米技术倡议]]（National Nanotechnology Initiative, NNI）支持的[[National Nanotechnology Coordinated Infrastructure|国家纳米技术协调基础设施]]（NNCI）与能源部国家实验室[[Megascience Installations|大科学装置]]，向全美科研人员开放数千台加工与检测仪器，降低前沿研究的实验门槛。（pp. 21–23, 38）
+> - **联邦微纳制造与表征用户网络（User Facilities Network, 2.1）** 依托[[National Nanotechnology Initiative|国家纳米技术倡议]]（National Nanotechnology Initiative, NNI）支持的[[National Nanotechnology Coordinated Infrastructure|国家纳米技术协调基础设施]]（NNCI）、能源部国家实验室[[Megascience Installations|大科学装置]]及[[National Quantum Initiative|国家量子倡议]]（NQI）设立的国家量子信息科学中心与用户平台，向全美科研人员开放数千台加工与检测仪器，降低前沿研究的实验门槛。（pp. 21–23, 38）
 > - **灵活设计工具与晶圆流片准入（Design Tools & Wafer Access, 2.2）** 推广DARPA [[DARPA Toolbox Initiative|工具箱计划]]（[[DARPA Toolbox Initiative]]）模式，整合[[Multi-Project Wafer|多项目晶圆]]（Multi-Project Wafer, MPW）拼版流片需求，扩大商业与开源[[Process Design Kit|工艺设计套件]]（PDK）及装配设计套件（ADK）的使用授权，降低单次流片验证费用。（pp. 23–24）
 > - **关键材料库与高性能建模平台（Materials & Cyberinfrastructure, 2.3–2.4）** 建设前沿半导体材料样品分发中心，并提供面向多物理场仿真的云端高性能计算支持。（pp. 24–25）
 
@@ -290,7 +295,7 @@ publisher: "Executive Office of the President of the United States"
 > [!quad-grid] 多层级人才培养体系架构
 > - **中小学 STEM 启蒙与师资支持（Learners & Educators, 3.1）** 将微电子与基础物理概念引入中小学科学课程，为一线教师提供实验教学套件与专业培训。（pp. 31–34）
 > - **公众科普与职业认知引导（Public Engagement, 3.2）** 依托全美[[Informal Science Learning|非正式科学教育]]网络（NISE Network）与各地科技馆，普及芯片制造知识，展示半导体行业的工作机会。（pp. 34–35）
-> - **非学位技能认证与快速实训（Non-Degree Pathways, 3.3）** 联合社区学院与行业工会，推行短期技能认证、洁净室实操培训与学徒制，帮助退役军人与转岗工人进入芯片制造生产线。（pp. 33, 35–36）
+> - **非学位技能认证与快速实训（Non-Degree Pathways, 3.3）** 依托国家科学基金会[[Advanced Technological Education|先进技术教育计划]]（Advanced Technological Education, ATE），联合社区学院与行业工会，推行短期技能认证、洁净室实操培训与学徒制，帮助退役军人与转岗工人进入芯片制造生产线。（pp. 33, 35–36）
 > - **高层次科研与工程人才培养（Research Capacity, 3.4）** 设立微电子专项研究生与博士后奖学金，支持跨学科联合培养，并在国家实验室与[[Pilot Scale Platform|中试基地]]中提供真实的工程实践环境。（pp. 36–37）
 
 > [!case] 宾州州立大学与加州大学伯克利分校非学位技能实训方案
@@ -326,14 +331,14 @@ publisher: "Executive Office of the President of the United States"
 
 为高风险硬件初创团队提供早期生存支持，并在国际技术治理中确立优势。
 
-> [!case] DARPA 嵌入式创业倡议与空军 AFVentures 风险匹配机制
-> 针对微电子硬件初创企业资本投入大、回报周期长的特点，DARPA 设立了嵌入式创业倡议（Embedded Entrepreneurship Initiative），联合战略风险投资机构 In-Q-Tel 为早期团队提供商业指导与投资者对接。同时，美国空军 AFVentures 通过小企业创新研发（[[SBIR and STTR Programs|SBIR]]/STTR）私人资本匹配基金，将获奖企业后续获得风险投资的比例从过去的 10% 提升至 29%；[[Loan Programs Office|能源部贷款项目办公室]]（LPO）也为首创性硬件中试工程提供低息债务融资支持。（pp. 46–47）
+> [!case] DARPA [[Embedded Entrepreneurship Initiative|嵌入式创业者计划]]与空军 [[AFVentures]] 风险匹配机制
+> 针对微电子硬件初创企业资本投入大、回报周期长的特点，DARPA 设立了[[Embedded Entrepreneurship Initiative|嵌入式创业者计划]]（Embedded Entrepreneurship Initiative, EEI），联合战略风险投资机构 In-Q-Tel 为早期团队提供商业指导与投资者对接。同时，美国空军商业投资计划（AFVentures）通过小企业创新研发（[[SBIR and STTR Programs|SBIR]]/STTR）私人资本匹配基金，将获奖企业后续获得风险投资的比例从过去的 10% 提升至 29%；[[Loan Programs Office|能源部贷款项目办公室]]（LPO）也为首创性硬件中试工程提供低息债务融资支持。（pp. 46–47）
 
 > [!case] 国防部可信与可保证微电子（T&AM）计划
 > 国防部 T&AM 计划围绕六大重点任务展开系统布局：先进封装与测试使用通道、先进制程芯片制造、抗辐射加固微电子、尖端射频与光电子器件、微电子人才教育、以及全生命周期可信保证体系，构建了抵御外部恶意植入与供应链中断的安全防线。（p. 47）
 
 > [!feature] 创业扶持与国际协作机制
-> - **靶向创业资助与[[Patient Capital|耐心资本]]对接（Entrepreneurship & Start-ups, 4.5）** 协调多部门小企业创新研发（SBIR/STTR）选题，联动能源部实验室创业计划（如 [[Activate Fellowship|Cyclotron Road]]）、DARPA 创业项目及战略投资基金，为初创企业提供资金与导师支持。（pp. 45–47）
+> - **靶向创业资助与[[Patient Capital|耐心资本]]对接（Entrepreneurship & Start-ups, 4.5）** 协调多部门小企业创新研发（SBIR/STTR）选题，联动能源部[[Lab-Embedded Entrepreneurship Program|实验室嵌入式创业计划]]（Lab-Embedded Entrepreneurship Program, LEEP，如 [[Activate Fellowship|Cyclotron Road]]）、DARPA 创业项目及战略投资基金，为初创企业提供资金与导师支持。（pp. 45–47）
 > - **积极参与国际技术标准制定（International Standards）** 支持本土企业与学术机构参与国际标准化组织活动，推动自主前沿技术固化为全球[[General Purpose Technology|通用技术]]规范。（pp. 47）
 > - **深化国际盟友战略协同（Allies & Partners）** 在坚守国家安全的前提下，与欧洲、日本、韩国等盟友开展在研发分工、人才流动与供应链备份方面的多边合作。（pp. v, 47–48）
 

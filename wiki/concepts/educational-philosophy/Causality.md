@@ -9,7 +9,7 @@ aliases:
 summary: "教育与社会科学中建立原因与效果之间关系的推理体系，涵盖概率因果、反事实潜在结果模型、因果识别设计层级（RCT/QED/RDD/SCD）以及生成性因果机制与筛选隔离逻辑。"
 type: concept
 domain: "educational-philosophy"
-related_count: 83
+related_count: 84
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -98,6 +98,7 @@ related_facts:
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[Home Visiting Evidence of Effectiveness]]"
   - "[[Top Institute for Evidence-Based Education Research]]"
+  - "[[Advanced Technological Education]]"
   - "[[Education Sciences Reform Act 2002]]"
   - "[[National Research Council]]"
   - "[[No Child Left Behind Act 2001]]"
@@ -113,7 +114,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-01
+updated: 2026-10-10
 ---
 
 # Causality
@@ -181,7 +182,7 @@ updated: 2026-10-01
 > [!formula-step] 前后测控制组真实验的平均因果[[Effect Size\|效应量]]化
 > 在[[Pretest-Posttest Control Group Design\|前后测控制组设计]]（Pretest-Posttest Control Group Design）中，平均因果效应量化模型为([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch. 16, p. 314]])：
 >
-> $$\text{平均因果效应（ATE）} = (E_1 - E_2) - (C_1 - C_2)$$
+> $$\text{平均因果效应（[[Advanced Technological Education|ATE]]）} = (E_1 - E_2) - (C_1 - C_2)$$
 >
 > - **数学含义** $E_1, E_2$ 分别为实验组后测与前测分值；$C_1, C_2$ 分别为控制组后测与前测分值。$(E_1 - E_2)$ 包含“干预净效应 + 自然成熟 + 历史变动”，$(C_1 - C_2)$ 包含“纯自然成熟 + 历史变动”；二者[[Difference-in-Differences\|双重差分]]相减，剥离出纯净的因果效应。
 > - **成立前提** 依赖于**其他条件不变假定（Ceteris Paribus）**；随机分配（Random Assignment）通过大数定律保证了两组在期望上的完全等价性。
@@ -211,7 +212,7 @@ updated: 2026-10-01
 > 因果推断的核心任务在于回答“如果干预未发生，结果会怎样”。
 
 > [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen, Manion, & Morrison (2011)]]
-> **因果推断基本问题与实验[[Operationalization\|操作化]]回答** 依据 Holland (1986) 确立的“因果推断基本问题”，同一个体无法同时处于接受干预与未接受干预的状态，因此个体反事实永远无法直接观测。实验设计通过[[Random Assignment\|随机化]]构建控制组，用控制组的平均潜在结果作为实验组反事实的无偏替代，从而在群体均值层面实现平均因果效应（ATE）的无偏估计。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, pp. 55–56)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|(Cohen et al., 2011, Ch. 16, p. 314)]]
+> **因果推断基本问题与实验[[Operationalization\|操作化]]回答** 依据 Holland (1986) 确立的“因果推断基本问题”，同一个体无法同时处于接受干预与未接受干预的状态，因此个体反事实永远无法直接观测。实验设计通过[[Random Assignment\|随机化]]构建控制组，用控制组的平均潜在结果作为实验组反事实的无偏替代，从而在群体均值层面实现平均因果效应（[[Advanced Technological Education|ATE]]）的无偏估计。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, pp. 55–56)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|(Cohen et al., 2011, Ch. 16, p. 314)]]
 
 ---
 
@@ -307,7 +308,7 @@ updated: 2026-10-01
 > > - **实验方法学派** 坚守内部效度优先原则，强调因果关系不清的研究无法提供任何有效实践指导([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p. 461]])。
 > > - **复杂系统学派** 批评社会系统具有[[Open-Mindedness|开放性]]与[[Emergence\|涌现]]性（Emergence），过度隔离混杂可能脱离真实情境脉络([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch. 16, p. 319]])。
 >
-> > [!axis] 平均处理效应（ATE） vs [[Heterogeneity\|异质性]]因果效应（HTE）
+> > [!axis] 平均处理效应（[[Advanced Technological Education|ATE]]） vs [[Heterogeneity\|异质性]]因果效应（HTE）
 > > 争论宏观平均[[Effect Size\|效应量]]是否会掩盖弱势群体中的差异化因果反应（如高能力与低能力学生的完全相反表现）。
 >
 > > [!axis] 跨国普适因果规律（[[Nomothetic]]） vs 历史文化脉络独特性（[[Idiographic]]）

@@ -11,7 +11,7 @@ summary: "线性回归参数估计的最经典基准模型，通过最小化观�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 44
+method_related_count: 45
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -69,12 +69,13 @@ related_persons:
   - "[[Steve Higgins]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
+  - "[[Advanced Technological Education]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-08
+updated: 2026-10-10
 ---
 
 # Ordinary Least Squares
@@ -171,7 +172,7 @@ updated: 2026-10-08
 > **这个公式在做什么** 在[[Randomised Controlled Trials\|随机对照试验]]中，通过纳入基线前测成绩 $Y_{\text{pre},i}$ 与背景协变量 $\mathbf{Z}_i$，大幅吸收后测结果的未解释变异，压缩处理效应 $\tau$ 的抽样方差。
 >
 > **符号说明**
-> - $\tau$：平均处理效应（ATE）的 OLS 估计值。
+> - $\tau$：平均处理效应（[[Advanced Technological Education|ATE]]）的 OLS 估计值。
 > - $\beta_{\text{pre}}$：基线前测成绩对后测成绩的回归系数。
 > - $R_{Y|X}^2$：协变量对后测方差的联合解释率。
 > - $\sigma_Y^2$：后测成绩的总体原始方差。

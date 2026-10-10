@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 43
+fact_related_count: 44
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -71,6 +71,7 @@ related_facts:
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
   - "[[DARPA]]"
+  - "[[Embedded Entrepreneurship Initiative]]"
 related_arguments:
   - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
   - "[[Argument_Fan_2026_BCAS]]"
@@ -140,7 +141,7 @@ updated: 2026-10-10
 > - **从技术供给推力向市场需求拉力[[Paradigm|范式]]转型** 彻底打破高校学者“手握锤子找钉子”的单向思维定势，迫使科研团队在投入巨额中试资金前准确识别真实工业痛点。
 > - **赋权青年学者并培育[[Academic Entrepreneurship|学术创业]]生力军** 将博士生与博士后推上商业化谈判第一线，培育了兼具学术深度与商业素养的双栖复合人才，改变了大学唯论文论的传统评价偏见。
 > - **显著提升衍生企业生存率与融资成功率** 经 I-Corps 训练并完成 100+ 场客户访谈的团队，其申请 [[SBIR and STTR Programs|SBIR]] 资助的中标率提高近三倍，外部风投资本跟投率显著跃升。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]
-> - **深科技全链条孵化基石** 在国家半导体与量子计算攻关中，I-Corps 与中试流片网关、[[DARPA]] EEI 创业计划紧密衔接，为前沿材料与芯片架构突破输送源源不断的高质量初创企业。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 31–33)]]
+> - **深科技全链条孵化基石** 在国家半导体与量子计算攻关中，I-Corps 与中试流片网关、[[DARPA]] [[Embedded Entrepreneurship Initiative|EEI]] 创业计划紧密衔接，为前沿材料与芯片架构突破输送源源不断的高质量初创企业。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 31–33)]]
 
 > [!stat-cards]- 核心规模与投资成效数据
 > - **14,000+ 名** I-Corps 累计培训的全美高校教授、博士后与青年科研人员总数。

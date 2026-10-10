@@ -9,7 +9,7 @@ aliases:
 summary: "现代产业政策区别于20世纪以纠正市场失灵与追求经济效率为单一导向的传统产业政策；它深度交织了国家安全、地缘政治对抗、供应链韧性与去风险目标，综合运用巨额直接补贴、前置研发资助、投资审查、单边及多边出口管制、友岸外包、制度化附加条件与战略矿产反制等全方位政策工具包。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -60,6 +60,8 @@ related_facts:
   - "[[Subcommittee on Microelectronics Leadership]]"
   - "[[Department of Energy]]"
   - "[[DARPA]]"
+  - "[[Embedded Entrepreneurship Initiative]]"
+  - "[[AFVentures]]"
   - "[[SBIR and STTR Programs]]"
   - "[[Important Projects of Common European Interest]]"
   - "[[Natcast]]"
@@ -136,7 +138,7 @@ updated: 2026-10-10
 > - **友岸外包与跨国供应链多元化** 推动封装测试与成熟制程产能在越南、哥斯达黎加、巴拿马等友好国家分散布局，防范地缘热点集中爆发导致的断链风险。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 98, 100)]]
 > - **战略关键原材料出口反制** 掌握上游关键矿产（如镓、锗）主导份额的经济体，通过出口配额与许可限制反制技术管制，形成地缘经济博弈应对机制。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 101)]]
 > - **全要素中试基础设施与跨部门研发流水线** 现代产业政策超越单一的建厂补贴，通过设立国家级共享[[Pilot Scale Platform|中试平台]]（如 [[National Semiconductor Technology Center|国家半导体技术中心]] [[National Science and Technology Council|NSTC]]）、先进封装专项（[[National Advanced Packaging Manufacturing Program|NAPMP]]）与云端数字化设计与执行网关（DEG），构建贯通 [[National Science Foundation|NSF]] $\to$ 国防部微电子公社 $\to$ 商务部 NSTC/NAPMP $\to$ 商业晶圆代工厂的跨部委创新漏斗，大幅削减深科技初创企业的资本门槛。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 8–11)]]
-> - **跨部门战略统筹与公私风险分担机制** 现代产业政策构建了跨部委统筹架构（如白宫 NSTC 微电子领导小组委员会 [[Subcommittee on Microelectronics Leadership]], SML），将 NSF、DOD、[[Department of Energy|DOE]] 与 NIST 各部门研发预算与创新漏斗对齐；并通过早期引导基金（如 [[DARPA]] 嵌入式创业家倡议 Embedded Entrepreneurship Initiative, EEI 与空军创投 AFVentures [[SBIR and STTR Programs|SBIR]] 匹配机制），将深科技初创企业获得私营风投的转化率提升近 3 倍（从 10% 升至 29%），以公共资本撬动私营资本分担硬科技早期的工程化与量产风险。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 4, 24, 27–29)]]
+> - **跨部门战略统筹与公私风险分担机制** 现代产业政策构建了跨部委统筹架构（如白宫 NSTC 微电子领导小组委员会 [[Subcommittee on Microelectronics Leadership]], SML），将 NSF、DOD、[[Department of Energy|DOE]] 与 NIST 各部门研发预算与创新漏斗对齐；并通过早期引导基金（如 [[DARPA]] 嵌入式创业家倡议 [[Embedded Entrepreneurship Initiative]], EEI 与[[AFVentures|空军创投]] AFVentures [[SBIR and STTR Programs|SBIR]] 匹配机制），将深科技初创企业获得私营风投的转化率提升近 3 倍（从 10% 升至 29%），以公共资本撬动私营资本分担硬科技早期的工程化与量产风险。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 4, 24, 27–29)]]
 > - **集中式与协调者两种国家治理形态** 比较政治经济学视阈下，现代产业政策在不同政体展现出截然不同的治理路径：美国采取联邦集中直接资助模式，由中央行政系统自上而下统一挑选优先项目与直投补贴；欧盟受制于缺乏超国家税收自主权，采取多层级去中心化模式，欧盟委员会主要作为“[[Orchestrator State|产业政策协调者]]”（Orchestrator），依托放宽国家援助审查例外与[[Important Projects of Common European Interest|欧洲共同利益重要项目]]（IPCEI）等跨国框架，动员各成员国国库与私营资本共担风险。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 3, 13–14)]]
 
 > [!logic-map]- 现代产业政策的动力与工具系统
@@ -239,7 +241,7 @@ updated: 2026-10-10
 > **公共原型中试与跨部委创新漏斗** 现代半导体产业政策深刻认识到，单纯依赖数百亿美元的制造资本补贴无法保障长期战略领先，必须建立由国家注资的共享研发与中试基础设施。通过设立独立非营利实体（[[Natcast]]）运营 [[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]），联合先进封装专项（[[National Advanced Packaging Manufacturing Program|NAPMP]]）与云端数字化网关（DEG），联邦政府构建起贯通科学基金会基础探索、国防部微电子公社实验室原型、商务部 NSTC 中试线验证到商业代工厂规模量产的“跨部门全链条创新漏斗”；这种公共[[Pilot Scale Platform|中试平台]]使初创企业无需自建耗资数十亿美元的产线即可完成技术验证，将尖端芯片从概念到商业化周期缩短至数月，有效弥合了深科技创新的转化死谷。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 8–11)]]
 
 > [!claim] [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]]
-> **跨部门研发统筹与自维持[[Innovation Ecosystem|创新生态]]四支柱** 白宫国家科学技术委员会在《微电子研究国家战略》中提出，现代产业政策在科技研发维度的落地核心在于构建“自维持创新生态系统”，其实施依托跨部门领导小组委员会（[[Subcommittee on Microelectronics Leadership]], SML）消除部门壁垒、建设 300 毫米先进封装（NAPMP）与中试共享网络（[[National Nanotechnology Coordinated Infrastructure|NNCI]]/Commons）、利用 [[DARPA]] 嵌入式创业家倡议（EEI）等金融工具实施早期公私风险分担，并将大学科研与全谱系工程人才培养相融合。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 3–4, 21–29, 31–36)]]
+> **跨部门研发统筹与自维持[[Innovation Ecosystem|创新生态]]四支柱** 白宫国家科学技术委员会在《微电子研究国家战略》中提出，现代产业政策在科技研发维度的落地核心在于构建“自维持创新生态系统”，其实施依托跨部门领导小组委员会（[[Subcommittee on Microelectronics Leadership]], SML）消除部门壁垒、建设 300 毫米先进封装（NAPMP）与中试共享网络（[[National Nanotechnology Coordinated Infrastructure|NNCI]]/Commons）、利用 [[DARPA]] 嵌入式创业家倡议（[[Embedded Entrepreneurship Initiative|EEI]]）等金融工具实施早期公私风险分担，并将大学科研与全谱系工程人才培养相融合。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 3–4, 21–29, 31–36)]]
 
 ---
 

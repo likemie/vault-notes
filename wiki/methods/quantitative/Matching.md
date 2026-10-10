@@ -6,9 +6,9 @@ summary: "观察性研究中的因果推断方法，通过匹配协变量分布�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 23
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 24
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - matching
@@ -44,11 +44,12 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
   - "[[Argument_Berk_2011_ER]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15]]"
-related_facts: []
+related_facts:
+  - "[[Advanced Technological Education]]"
 confidence: low
 status: draft
 created: 2026-05-03
-updated: 2026-09-17
+updated: 2026-10-10
 ---
 
 ## 定义
@@ -101,7 +102,7 @@ updated: 2026-09-17
 ## 资料与分析
 
 > [!info]
-> 匹配后的数据分析需要在匹配样本（而非原始样本）上进行。关键分析步骤包括：检验匹配后两组在协[[Variable\|变量]]上的标准化均值差（SMD < 0.1 通常视为平衡良好）；在匹配样本上估计处理效应（平均处理效应 ATT 或 ATE）；通过 Rosenbaum 敏感性分析评估结果对未观测混杂的稳健性。[[Argument_Berk_2011_ER\|Berk (2011, p. 198)]] 强调匹配过程中的[[Dependent Variable\|结果变量]]应"锁在保险箱里"——匹配变量的选择不得参考结果变量，以避免循环论证。
+> 匹配后的数据分析需要在匹配样本（而非原始样本）上进行。关键分析步骤包括：检验匹配后两组在协[[Variable\|变量]]上的标准化均值差（SMD < 0.1 通常视为平衡良好）；在匹配样本上估计处理效应（平均处理效应 ATT 或 [[Advanced Technological Education|ATE]]）；通过 Rosenbaum 敏感性分析评估结果对未观测混杂的稳健性。[[Argument_Berk_2011_ER\|Berk (2011, p. 198)]] 强调匹配过程中的[[Dependent Variable\|结果变量]]应"锁在保险箱里"——匹配变量的选择不得参考结果变量，以避免循环论证。
 
 ## 适用场景
 

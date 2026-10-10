@@ -9,7 +9,7 @@ aliases:
 summary: "解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学新制度主义理论，阐明组织趋同源于对制度合法性与合理化神话的追求而非纯粹的技术效率"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 38
+theory_related_count: 39
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Determinism]]"
   - "[[Rationalized Myth]]"
+  - "[[Cognitive Decoupling]]"
   - "[[Corporate Education]]"
   - "[[Corporate University]]"
   - "[[Industry Affiliate Program]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-18
-updated: 2026-10-07
+updated: 2026-10-10
 ---
 
 # Institutional Isomorphism
@@ -102,7 +103,7 @@ updated: 2026-10-07
 > | 模仿型同构 | 机制 | 组织在目标模糊、技术不确定或环境充满动荡时，以场域内被视为成功的组织为标杆展开模仿。 |
 > | 规范型同构 | 机制 | 源于专业化进程与专业共同体确立的认知规范、行业认证与正当性标准。 |
 > | [[Rationalized Myth\|合理化神话]] | 概念 | 提供同构扩散的文化认知蓝图，使采纳特定结构成为获得合法性的仪式化前提。 |
-> | 仪式化脱耦（Decoupling） | 机制 | 组织在形式上采纳同构结构以满足外部合法性，但在内部实际运作中与正式规则保持脱离。 |
+> | 仪式化脱耦（[[Cognitive Decoupling\|decoupling]]） | 机制 | 组织在形式上采纳同构结构以满足外部合法性，但在内部实际运作中与正式规则保持脱离。 |
 
 ---
 
