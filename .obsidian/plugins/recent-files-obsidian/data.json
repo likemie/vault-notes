@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Institutional Layering",
+      "path": "wiki/concepts/political-economy-geopolitics/Institutional Layering.md"
+    },
+    {
       "basename": "Argument_VanDerHeijden_2011_Politics",
       "path": "wiki/arguments/journal-articles/Politics/Argument_VanDerHeijden_2011_Politics.md"
+    },
+    {
+      "basename": "Ray Pawson",
+      "path": "wiki/persons/uk/Ray Pawson.md"
+    },
+    {
+      "basename": "Realist Evaluation",
+      "path": "wiki/theories/research-methodology/Realist Evaluation.md"
+    },
+    {
+      "basename": "Critical Review",
+      "path": "wiki/methods/qualitative/Critical Review.md"
+    },
+    {
+      "basename": "Analytic Framework",
+      "path": "wiki/methods/qualitative/Analytic Framework.md"
     },
     {
       "basename": "Punctuated Equilibrium Theory",
@@ -179,26 +199,6 @@
     {
       "basename": "Pilot Scale Platform",
       "path": "wiki/concepts/university-industry-collaboration/Pilot Scale Platform.md"
-    },
-    {
-      "basename": "Public-Private Partnership in Research",
-      "path": "wiki/concepts/university-industry-collaboration/Public-Private Partnership in Research.md"
-    },
-    {
-      "basename": "Modern Industrial Policy",
-      "path": "wiki/concepts/political-economy-geopolitics/Modern Industrial Policy.md"
-    },
-    {
-      "basename": "Microelectronics Commons",
-      "path": "wiki/facts/us/Microelectronics Commons.md"
-    },
-    {
-      "basename": "National Advanced Packaging Manufacturing Program",
-      "path": "wiki/facts/us/National Advanced Packaging Manufacturing Program.md"
-    },
-    {
-      "basename": "National Semiconductor Technology Center",
-      "path": "wiki/facts/us/National Semiconductor Technology Center.md"
     }
   ],
   "omittedPaths": [],
