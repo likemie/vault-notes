@@ -7,7 +7,7 @@ title: "Argument_Sobe_Fischer_2009_MobilityMigration"
 argument_key: "Argument_Sobe_Fischer_2009_MobilityMigration"
 argument_display_title: "Mobility, Migration and Minorities in Education"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Teacher Mobility]]"
   - "[[Attrition]]"
+  - "[[Migrant Education]]"
   - "[[Language Skills]]"
   - "[[Boarding Schools]]"
   - "[[Hypothesis]]"
@@ -57,6 +58,7 @@ related_concepts:
   - "[[Document]]"
 related_theories:
   - "[[Governmentality]]"
+  - "[[Two Problematics of Educational Inclusion and Exclusion]]"
   - "[[Lefebvre's Spatial Triad]]"
   - "[[Spatial Governmentality]]"
   - "[[Postmodernism]]"
@@ -72,6 +74,7 @@ related_persons:
   - "[[Rolland Paulston]]"
   - "[[Robert J. Gordon]]"
 related_facts:
+  - "[[TEMPUS]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Hukou System]]"
   - "[[Plyler v. Doe 1982]]"
@@ -100,7 +103,7 @@ updated: 2026-10-10
 > [!concept-lens] 阅读透镜
 > - **考察对象** 欧洲联盟（European Union，EU）与美国教育政策关于学生流动的官方[[Discourse|话语]]，以及中国、美国、西班牙、英国与印度的移民、少数族裔与流动儿童就学案例。
 > - **核心张力** 精英自主跨国求学所获得的赞美，与底层被动转学所遭遇的污名化之间的阶层反差；国家推行[[Sedentarism|定居主义]][[Disciplina and Doctrina|规训]]与边缘群体维护生存自主权之间的持续博弈。
-> - **理论洞见** 打破将空间视为中立地理容器的传统假定，提出结合空间[[Governmentality|治理术]]与双重问题式的分析路径。
+> - **理论洞见** 打破将空间视为中立地理容器的传统假定，提出结合空间[[Governmentality|治理术]]与[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]的分析路径。
 
 ---
 
@@ -111,11 +114,11 @@ updated: 2026-10-10
 > |---|---|
 > | **空间的社会生产理论**<br>[[Lefebvre's Spatial Triad]] | 引入法国社会学家亨利·列斐伏尔（Henri Lefebvre）的观点，确立空间并非自然中立的物理背景，而是由社会关系、权力运作与制度实践共同建构的产物。（pp. 359–360） |
 > | **空间治理术的三维轴线**<br>[[Spatial Governmentality]] | 借鉴英国社会学家尼古拉斯·罗斯（Nikolas Rose）的空间治理理论，阐明现代政府如何通过领地化划界、统计制图与空间质地建模对人口流动实施精细管理，将学校打造为[[Disciplina and Doctrina\|规训]]容器与筛选关卡。（pp. 360–361） |
-> | **教育治理的双重问题式**<br>Popkewitz & Lindblad's Two Problematics | 采纳[[Thomas S. Popkewitz\|托马斯·S·波普科维茨]]（Thomas S. Popkewitz）与林德布拉德（Sverker Lindblad）的理论，区分关注制度准入与代表性的公平-参与视角，以及关注文化标准与思维定势的知识分类视角。（pp. 367–368） |
+> | **教育治理的双重问题式**<br>[[Two Problematics of Educational Inclusion and Exclusion]] | 采纳[[Thomas S. Popkewitz\|托马斯·S·波普科维茨]]（Thomas S. Popkewitz）与林德布拉德（Sverker Lindblad）的理论，区分关注制度准入与代表性的公平-参与视角，以及关注文化标准与思维定势的知识分类视角。（pp. 367–368） |
 > | **社会制图学**<br>[[Social Cartography]] | 吸收[[Rolland Paulston\|罗兰·保尔斯顿]]（Rolland Paulston）的认知制图方法，用平铺的学术地图展示并列共存的多元理论范式，破除线性演进历史观对边缘经验的抹杀。 |
 
 > [!warrant]- 空间理论与教育制度分析的结合路径
-> 这套理论工具将宏观的权力批判落实到具体的学校日常机制中：罗斯的[[Spatial Governmentality|空间治理术]]视角指明，现代学校并不是简单的教书场所，而是通过围墙、教室、固定作息与学籍管理，把儿童固定在特定区域内的[[Disciplina and Doctrina|规训]]技术；波普科维茨的双重问题式则进一步指出，仅仅增加教育经费或降低学费并不能消除不平等，因为学校在制度观念中早已把特定群体的流动预设为不正常或有缺陷，这种文化偏见构成了更难以察觉的深层排斥。（pp. 360–361, 367–368）
+> 这套理论工具将宏观的权力批判落实到具体的学校日常机制中：罗斯的[[Spatial Governmentality|空间治理术]]视角指明，现代学校并不是简单的教书场所，而是通过围墙、教室、固定作息与学籍管理，把儿童固定在特定区域内的[[Disciplina and Doctrina|规训]]技术；波普科维茨的[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]则进一步指出，仅仅增加教育经费或降低学费并不能消除不平等，因为学校在制度观念中早已把特定群体的流动预设为不正常或有缺陷，这种文化偏见构成了更难以察觉的深层排斥。（pp. 360–361, 367–368）
 
 ---
 
@@ -131,7 +134,7 @@ updated: 2026-10-10
 > [!sample-panel]- 案例与经验材料全景快照
 > | 案例地区 | 考察人群与核心材料 | 空间与制度冲突焦点 |
 > |---|---|---|
-> | **欧洲联盟** | 高等教育阶段本科生与研究生；伊拉斯谟计划（European Community Action Scheme for the Mobility of University Students，ERASMUS）、天普计划（Trans-European Mobility Programme for University Studies，TEMPUS）。 | 跨国公民认同塑造、欧洲性（Europeanness）公民资产建构与[[Employability\|就业能力]]个体化包装。（pp. 362–363） |
+> | **欧洲联盟** | 高等教育阶段本科生与研究生；伊拉斯谟计划（European Community Action Scheme for the Mobility of University Students，ERASMUS）、天普计划（Trans-European Mobility Programme for University Studies，[[TEMPUS]]）。 | 跨国公民认同塑造、欧洲性（Europeanness）公民资产建构与[[Employability\|就业能力]]个体化包装。（pp. 362–363） |
 > | **美国基础教育** | 基础教育阶段中小学（Kindergarten through Twelfth Grade，K–12）学生；2001 年《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（No Child Left Behind Act，NCLB）推行的学校报告卡。 | 学年中途频繁转校被定性为流动漂泊（Transiency），作为贫困缺陷与解释绩效未达标的减分指标。（pp. 363–364） |
 > | **中国城乡随迁** | 约 2000 万农村进城务工随迁学龄儿童；[[Hukou System\|户籍制度]]（户口登记条例）、打工子弟学校政策。 | 城乡二元户口壁垒将流动儿童排斥在城市公立学校之外；民间自办打工子弟学校在 2006 年北京遭遇集中强制关停。（p. 365） |
 > | **美国流动农工** | 跨国与跨州季节性农业流动农工学童（Children of the Road）；1982 年《[[Plyler v. Doe 1982\|普莱勒诉多伊案]]》裁决。 | 宪法第十四修正案确立无证学童受教育平权；联邦设立流动教育办公室，但面临语言隔绝与师资缺乏培训困境。（pp. 365–366） |
@@ -209,7 +212,7 @@ updated: 2026-10-10
 
 > [!policy-design] 欧洲一体化进程中[[Student Mobility|学生流动]]的制度设计与身份建构
 > - **政策目标（Policy Goals）** 借由跨国流动塑造超民族的欧洲认同与网络归属感（Schissler & Soysal, 2005; Soysal, 2002），强化高等教育乃至欧洲人本身的欧洲维度，替代传统的同质化民族国家构建模式。（pp. 362–363）
-> - **适用对象（[[Study Population and Sample|target population]]）** 以欧洲高等教育阶段本科生与研究生为核心主体，并通过天普计划（TEMPUS）辐射东欧、西巴尔干、中东及北非伙伴国高校师生，建立跨国学术交流网络（Lawson et al., 2003; Walsh et al., 2005）。
+> - **适用对象（[[Study Population and Sample|target population]]）** 以欧洲高等教育阶段本科生与研究生为核心主体，并通过[[TEMPUS|天普计划]]（[[TEMPUS]]）辐射东欧、西巴尔干、中东及北非伙伴国高校师生，建立跨国学术交流网络（Lawson et al., 2003; Walsh et al., 2005）。
 > - **政策工具（Policy Instruments）** 依托设立于 1987 年的伊拉斯谟计划（ERASMUS）及其后续[[Lifelong Learning|终身学习]]框架，提供专项经费资助并推进全欧统一的欧洲学分转换与累加系统（European Credit Transfer and Accumulation System，ECTS）学分互认与学籍透明。（p. 362）
 > - **责任机制（Individualized Accountability）** 将适应多元文化与灵活应变包装为现代欧洲公民的个人美德与就业资本，隐蔽地将应对劳动力市场风险与职业发展的责任转嫁给流动个体（Papatsiba, 2005, 2006）。（p. 363）
 
@@ -235,7 +238,7 @@ updated: 2026-10-10
 > | 比较维度 | 欧洲联盟政策话语（EU Discourse） | 美国联邦问责政策话语（US NCLB Discourse） |
 > |---|---|---|
 > | **教育学段与核心主体** | 高等教育阶段本科生与研究生（文化精英自主选择） | 基础教育中小学生（K–12，城市贫困与少数族裔被动应对） |
-> | **政策法规与制度平台** | ERASMUS、TEMPUS 终身学习计划框架 | 《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（NCLB）学校绩效报告卡 |
+> | **政策法规与制度平台** | ERASMUS、[[TEMPUS]] 终身学习计划框架 | 《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（NCLB）学校绩效报告卡 |
 > | **核心语义与修辞色彩** | 流动（Mobility）、自由、欧洲认同、跨文化资产 | 漂泊（Transiency）、失范、贫困病态、学业风险 |
 > | **治理功能定位** | 建构超国家公民归属感与网络化弹性[[Employability\|就业能力]] | 识别学校生源异化、解释未达 AYP 绩效达标的减分因子 |
 > | **对主体移动的定性** | 自主自决的公民权利与崇高时代美德 | 拒绝服从空间圈禁规训的越轨偏离行为 |
@@ -247,7 +250,7 @@ updated: 2026-10-10
 ### 步骤三　流动儿童就学折射出国家定居化制度管控与边缘群体生存博弈的动态张力
 
 > [!claim] 核心判断：移民与流动儿童的就学并非单纯的同化融入，而是制度排斥与底层能动应对的博弈过程
-> 中美两国分别展现了以户籍行政壁垒与宪法平权诉讼为基础的法律准入机制；西班牙展现了移民激增下的[[Intercultural Education|跨文化教育]]调适；英印两国则揭示了正规学校固化空间对游民儿童造成的文化失调，以及游牧家庭利用识字教育作为生计保险的自发能动性。（pp. 364–367）
+> [[Migrant Education|流动儿童教育]]（Migrant Education）深刻有别于预设永久定居的移民教育；中美两国分别展现了以户籍行政壁垒与宪法平权诉讼为基础的法律准入机制；西班牙展现了移民激增下的[[Intercultural Education|跨文化教育]]调适；英印两国则揭示了正规学校固化空间对游民儿童造成的文化失调，以及游牧家庭利用识字教育作为生计保险的自发能动性。（pp. 364–367）
 
 #### 1. 中国城乡户籍壁垒形成领地化准入排斥，催生民间打工子弟学校的自发生长与整顿
 
@@ -369,7 +372,7 @@ updated: 2026-10-10
 >
 > *In the United States, since the 1982 Plyler v. Doe Supreme Court decision, the equal protection clause of the constitution has been held to grant to the children of illegal aliens the right to a free, public education. Though not all migrant students in the US are of 'undocumented status,' this decision was pivotal in regularizing the provision of education to migrant students.*
 
-> [!citation-card] 整合知识系统与参与公平的双重问题式
+> [!citation-card] 整合知识系统与参与公平的[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]
 > [[Thomas S. Popkewitz|波普科维茨]]和林德布拉德建议我们从[[Knowledge Questions|知识问题]]式与公平-参与问题式双重视角切入教育包容与排斥。后者关注个体与群体在教育与社会实践中的准入与代表性，强调国家作为利益驱动的主体；前者则聚焦于判定何为得体与失范、美德与缺陷的文化推理与实践系统。将这两种问题式结合起来是一项艰巨挑战；然而，考察学校赖以运作的空间实践，正是推进这一议程极富成果的路径。（pp. 367–368）
 >
 > *Popkewitz & Lindblad (2000) recommend that we approach the issue of educational inclusion and exclusion as involving both a problematic of knowledge and an equity-participation problematic... To join these two problematics is a formidable analytic challenge; however, we propose that looking at the spatial practices within which and by which schools operate is one productive way to undertake such a project.*

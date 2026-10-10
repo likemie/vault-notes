@@ -8,7 +8,7 @@ aliases:
 summary: "比较教育与教育政策中指向学生跨校、跨区或跨国空间位移的核心构念；在欧美政策话语中呈现两极对立的治理逻辑，既被欧洲一体化塑造成培育公民认同与灵活就业能力的积极制度资产，又在美国绩效问责制下被问题化为表征贫困、学业阻滞与学校失范的流动漂泊（transiency）。"
 type: concept
 domain: "comparative-education"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -45,6 +45,7 @@ related_methods:
   - "[[Ethnography]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
+  - "[[TEMPUS]]"
   - "[[Hukou System]]"
   - "[[Plyler v. Doe 1982]]"
 related_arguments:
@@ -120,7 +121,7 @@ updated: 2026-10-10
 > 探讨同一空间移动[[Construct|构念]]如何在不同制度文化背景下被建构为完全相悖的政策对象，反映文化精英与底层弱势群体在流动正当性上的阶层分野。
 
 > [!claim] Sobe, N. W. & Fischer, M. G.
-> **政策话语的两极分化** 欧美政策[[Document|文献]]极少在学生流动议题上形成中间折衷立场。欧洲联盟通过伊拉斯谟计划（European Community Action Scheme for the Mobility of University Students，ERASMUS）与天普计划（Trans-European Mobility Programme for University Studies，TEMPUS）将大学生跨境流动塑造成构建欧洲公民身份、灵活性与[[Lifelong Learning|终身学习]]能力的核心象征符号；相反，美国在《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（No Child Left Behind Act，NCLB）的绩效问责框架下，将中小学生学年中途频繁转校直接等同于流动漂泊（Transiency），视作与贫困、单亲监护、失范家庭紧密绑定的负面障碍，并在学校报告卡中列为解释绩效未达标的减分项。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–363)]]
+> **政策话语的两极分化** 欧美政策[[Document|文献]]极少在学生流动议题上形成中间折衷立场。欧洲联盟通过伊拉斯谟计划（European Community Action Scheme for the Mobility of University Students，ERASMUS）与[[TEMPUS|天普计划]]（Trans-European Mobility Programme for University Studies，TEMPUS）将大学生跨境流动塑造成构建欧洲公民身份、灵活性与[[Lifelong Learning|终身学习]]能力的核心象征符号；相反，美国在《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（No Child Left Behind Act，NCLB）的绩效问责框架下，将中小学生学年中途频繁转校直接等同于流动漂泊（Transiency），视作与贫困、单亲监护、失范家庭紧密绑定的负面障碍，并在学校报告卡中列为解释绩效未达标的减分项。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–363)]]
 
 ---
 
@@ -171,7 +172,7 @@ updated: 2026-10-10
 > [!row-contrast] 学生流动性跨国治理实践与空间机制对比
 > | 案例地区 | 政策载体与治理工具 | 空间机制与权力运作 | 制度后果与主体博弈 |
 > |---|---|---|---|
-> | **欧洲联盟** | 伊拉斯谟计划（ERASMUS）、天普计划（TEMPUS） | 跨国学分互换与透明度体系，将地理位移重构为网络化超国家认同与就业胜任力资本。 | 资助逾 150 万高校学生，重塑欧洲性（Europeanness）公民资格，但将就业风险个体化转嫁给行动者。[[Argument_Sobe_Fischer_2009_MobilityMigration\|(Sobe & Fischer, 2009, pp. 362–363)]] |
+> | **欧洲联盟** | 伊拉斯谟计划（ERASMUS）、[[TEMPUS\|天普计划]]（TEMPUS） | 跨国学分互换与透明度体系，将地理位移重构为网络化超国家认同与就业胜任力资本。 | 资助逾 150 万高校学生，重塑欧洲性（Europeanness）公民资格，但将就业风险个体化转嫁给行动者。[[Argument_Sobe_Fischer_2009_MobilityMigration\|(Sobe & Fischer, 2009, pp. 362–363)]] |
 > | **美国基础教育** | 2001 年《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（NCLB）学校报告卡 | 统计视线聚焦：将学年中途转校率列为生源失范与问责减分指标，将其与贫困病态深度绑定。 | 底层家庭将中途转学作为逃离校园暴力与劣质教学的主动避险策略，承受污名化压力。[[Argument_Sobe_Fischer_2009_MobilityMigration\|(Sobe & Fischer, 2009, p. 363)]] |
 > | **美国农业流动** | 1982 年《[[Plyler v. Doe 1982\|普莱勒诉多伊案]]》、联邦流动教育办公室 | 宪法平权诉讼打破州立行政壁垒；建立跨州学籍网络保障无证与季节性农工子女入学。 | 确立受教育平权，但语言隔阂与迁徙脱节导致校内隐性分班隔离依然严峻。[[Argument_Sobe_Fischer_2009_MobilityMigration\|(Sobe & Fischer, 2009, pp. 365–366)]] |
 > | **中国** | 城乡二元[[Hukou System\|户籍制度]]（户口登记条例） | 领地化行政隔离：以户口簿阻隔 2000 万随迁儿童公立入学资格，以此调控特大城市人口。 | 民间自发创办打工子弟学校；2006 年北京集中关停取缔非正规学校，引发城市空间承载博弈。[[Argument_Sobe_Fischer_2009_MobilityMigration\|(Sobe & Fischer, 2009, p. 365)]] |
@@ -185,7 +186,7 @@ updated: 2026-10-10
 
 > [!dev-timeline] 概念演变
 > - **17–19 世纪 — 古典游学与时间化地理** 欧洲启蒙思想将跨越地理空间的旅行想象为跨越文明阶段的时间旅行，跨国游学被界定为贵族与文化精英获取[[Bildung|教养]]的特权资本（Leed, 1991）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–360)]]
-> - **1987–2000s — 欧洲一体化与制度化流动** 欧洲联盟相继设立伊拉斯谟计划（ERASMUS）与天普计划（TEMPUS），通过学分互认系统将高校学生跨境流动塑造成培育超民族欧洲认同与现代职场胜任力的时代美德（Nóvoa, 2002; Papatsiba, 2006）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–363)]]
+> - **1987–2000s — 欧洲一体化与制度化流动** 欧洲联盟相继设立伊拉斯谟计划（ERASMUS）与[[TEMPUS|天普计划]]（TEMPUS），通过学分互认系统将高校学生跨境流动塑造成培育超民族欧洲认同与现代职场胜任力的时代美德（Nóvoa, 2002; Papatsiba, 2006）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–363)]]
 > - **2001 至今 — 绩效问责框架下的病态化与问题化** 美国实施《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB），推行学校报告卡制度，将基础教育阶段中小学中途频繁转校定义为表征贫困失调与拖累学校达标的“流动漂泊（Transiency）”（Offenberg, 2004; Rumberger, 2003）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 363–364)]]
 
 ---

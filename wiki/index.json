@@ -1125,6 +1125,18 @@
     ]
   },
   {
+    "title": "Migrant Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Migrant Education.md",
+    "aliases": [
+      "流动儿童教育",
+      "随迁子女教育",
+      "流动学生教育",
+      "education of migrant children",
+      "education of migrant students"
+    ]
+  },
+  {
     "title": "National Character",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/National Character.md",
@@ -16868,6 +16880,18 @@
     ]
   },
   {
+    "title": "Two Problematics of Educational Inclusion and Exclusion",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Two Problematics of Educational Inclusion and Exclusion.md",
+    "aliases": [
+      "教育包容与排斥的双重问题式",
+      "包容与排斥的双重问题式",
+      "双重问题式",
+      "Two Problematics",
+      "two problematics of educational governance"
+    ]
+  },
+  {
     "title": "Dollinger et al. Framework for UI Collaboration",
     "type": "theory",
     "path": "wiki/theories/university-industry-collaboration/Dollinger et al. Framework for UI Collaboration.md",
@@ -27318,6 +27342,17 @@
       "Important Project of Common European Interest",
       "IPCEI ME/CT",
       "微电子与通信技术欧洲共同利益重要项目"
+    ]
+  },
+  {
+    "title": "TEMPUS",
+    "type": "fact",
+    "path": "wiki/facts/eu/TEMPUS.md",
+    "aliases": [
+      "天普计划",
+      "泛欧大学机动性合作计划",
+      "Trans-European Mobility Programme for University Studies",
+      "Trans-European Mobility Scheme for University Studies"
     ]
   },
   {

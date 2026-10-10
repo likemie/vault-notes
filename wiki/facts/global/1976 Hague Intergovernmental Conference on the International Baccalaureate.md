@@ -9,7 +9,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[International Baccalaureate]]"
   - "[[International Education]]"
+  - "[[Migrant Education]]"
   - "[[International Qualification Recognition]]"
 related_theories: []
 related_methods: []
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-08
+updated: 2026-10-10
 ---
 
 # 1976 Hague Intergovernmental Conference on the International Baccalaureate
@@ -50,7 +51,7 @@ updated: 2026-10-08
 > - **时间／地点** 1976 年 2 月，荷兰海牙。会议由荷兰教育部长召集，荷兰教育与科学大臣约斯·范凯梅纳德博士（Dr Jos van Kemenade）主持。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 94–96)]]
 > - **关键主体** 比利时、意大利、摩洛哥、荷兰和英国派出教育部长或国务秘书；喀麦隆、加拿大、丹麦、法国、德意志联邦共和国、伊朗、罗马尼亚、瑞典、瑞士和美国派出高级官员，联合国教育、科学及文化组织（[[UNESCO\|United Nations Educational, Scientific and Cultural Organization]]，UNESCO）也派代表与会。
 > - **制度背景** [[International Baccalaureate Six-Year Experiment\|国际文凭六年试验]]已证明考试和资格可以运行，但基金会启动资助接近终止。[[International Baccalaureate\|国际文凭]]办公室（International Baccalaureate Office，IBO）原拟由 UNESCO 或[[International Education\|国际教育]]局（International Bureau of Education，IBE）承接日内瓦的课程研究与行政，瑞士基金会继续负责年度考试；到 1975 年底，整合或固定资助已越来越不可能。
-> - **触发条件** 十所最依赖国际文凭（International Baccalaureate，IB）的学校已紧急把年费提高到原来的四倍，仍不足以保证 1977—1978 年考试和长期服务。会议因此要把一个组织的生存危机转化为政府是否共同承担跨国流动学生教育服务的问题。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 93–95)]]
+> - **触发条件** 十所最依赖国际文凭（International Baccalaureate，IB）的学校已紧急把年费提高到原来的四倍，仍不足以保证 1977—1978 年考试和长期服务。会议因此要把一个组织的生存危机转化为政府是否共同承担跨国[[Migrant Education|流动学生教育]]服务的问题。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 93–95)]]
 
 ---
 

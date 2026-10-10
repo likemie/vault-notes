@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[International Baccalaureate]]"
   - "[[International Education]]"
+  - "[[Migrant Education]]"
 related_facts:
   - "[[1976 Hague Intergovernmental Conference on the International Baccalaureate]]"
   - "[[1985 Trieste Intergovernmental Conference on the International Baccalaureate]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-10
 ---
 # Standing Conference of Governments of the International Baccalaureate
 
@@ -61,7 +62,7 @@ updated: 2026-09-29
 
 > [!actor-grid] 政府参与的三个渠道
 > - **代表渠道** 成员政府选举代表进入 [[International Baccalaureate|IBO]] 国际理事会。
-> - **财政渠道** 以年度会费共同承担跨国流动学生教育服务的成本。
+> - **财政渠道** 以年度会费共同承担跨国[[Migrant Education|流动学生教育]]服务的成本。
 > - **专业渠道** 派专家参加课程审查小组，并在可行时协助发展项目。
 
 > [!tension] 公共影响与实际出资
