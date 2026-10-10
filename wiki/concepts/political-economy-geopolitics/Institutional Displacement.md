@@ -20,6 +20,7 @@ related_concepts:
   - "[[Institutional Layering]]"
   - "[[Institutional Conversion]]"
   - "[[Institutional Drift]]"
+  - "[[Insurrectionaries]]"
 related_theories:
   - "[[Theory of Gradual Institutional Change]]"
 related_methods:
@@ -63,9 +64,9 @@ updated: 2026-10-11
 > [!contrast-table] 制度置换与相关渐进变迁机制辨析
 > | 机制类型 | 旧规则处理方式 | 是否引入新规则 | 政治否决与裁量环境 | 主导行动者类型 |
 > |---|---|---|---|---|
-> | **[[Institutional Displacement\|制度置换]]**<br>（Displacement） | 彻底废除或竞争淘汰 | 是（全新排他性规则） | 弱否决可能性 + 低执行裁量权 | **起义者**<br>（Insurrectionaries） |
-> | **[[Institutional Layering\|制度层叠]]**<br>（Layering） | 保留核心，增设补充 | 是（边际附加条款） | 强否决可能性 + 低执行裁量权 | **颠覆者**<br>（Subversives） |
-> | **[[Institutional Drift\|制度漂移]]**<br>（Drift） | 文本维持不变，效能侵蚀 | 否（无新规则） | 强否决可能性 + 高执行裁量权 | **寄生型共生者**<br>（Parasitic Symbionts） |
+> | **[[Institutional Displacement\|制度置换]]**<br>（Displacement） | 彻底废除或竞争淘汰 | 是（全新排他性规则） | 弱否决可能性 + 低执行裁量权 | **[[Insurrectionaries\|起义者]]**<br>（Insurrectionaries） |
+> | **[[Institutional Layering\|制度层叠]]**<br>（Layering） | 保留核心，增设补充 | 是（边际附加条款） | 强否决可能性 + 低执行裁量权 | **[[Subversives\|颠覆者]]**<br>（Subversives） |
+> | **[[Institutional Drift\|制度漂移]]**<br>（Drift） | 文本维持不变，效能侵蚀 | 否（无新规则） | 强否决可能性 + 高执行裁量权 | **[[Symbionts\|寄生型共生者]]**<br>（Parasitic Symbionts） |
 > | **[[Institutional Conversion\|制度转换]]**<br>（Conversion） | 文本维持不变，功能重定向 | 否（重释旧规则） | 弱否决可能性 + 高执行裁量权 | **[[Opportunists|机会主义者]]**<br>（Opportunists） |
 
 ---
@@ -80,7 +81,7 @@ updated: 2026-10-11
 > [!factors] 制度置换的生成条件与因果要素
 > - **弱政治否决可能性（Weak Veto Possibilities）** 维护既有制度的保守阵营缺乏足够的否决点或政治盟友，无法构筑阻止新制度合法化或扩散的有效壁垒。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 18–20)]]
 > - **低解释与执行裁量权（Low Enforcement Discretion）** 既有规则的规约边界相对清晰刚性，行动者难以通过变通解释来满足新利益诉求，迫使变革力量走向制度替换。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 20–22)]]
-> - **主导行动者：起义者（Insurrectionaries）** 明确否定旧制度合法性、拒绝遵循旧制度规则，积极通过公开动员、开辟外部竞争轨道打破维持现状的政治僵局。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 23–24)]]
+> - **主导行动者：[[Insurrectionaries|起义者]]（Insurrectionaries）** 明确否定旧制度合法性、拒绝遵循旧制度规则，积极通过公开动员、开辟外部竞争轨道打破维持现状的政治僵局。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 23–24)]]
 
 > [!logic-map]- 制度置换的演进逻辑
 > ```mermaid

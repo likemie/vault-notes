@@ -5,12 +5,16 @@
       "path": "wiki/arguments/books/Mahoney_Thelen_2009_Cambridge/Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change.md"
     },
     {
-      "basename": "Typological Analysis",
-      "path": "wiki/methods/qualitative/Typological Analysis.md"
+      "basename": "Opportunists",
+      "path": "wiki/concepts/political-economy-geopolitics/Opportunists.md"
     },
     {
       "basename": "Opportunist Mode",
       "path": "wiki/concepts/sociology-of-education/Opportunist Mode.md"
+    },
+    {
+      "basename": "Typological Analysis",
+      "path": "wiki/methods/qualitative/Typological Analysis.md"
     },
     {
       "basename": "Kathleen Thelen",
@@ -195,10 +199,6 @@
     {
       "basename": "Subcommittee on Microelectronics Leadership",
       "path": "wiki/facts/us/Subcommittee on Microelectronics Leadership.md"
-    },
-    {
-      "basename": "National Science and Technology Council",
-      "path": "wiki/facts/us/National Science and Technology Council.md"
     }
   ],
   "omittedPaths": [],

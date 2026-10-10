@@ -9233,6 +9233,17 @@
     ]
   },
   {
+    "title": "Insurrectionaries",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Insurrectionaries.md",
+    "aliases": [
+      "起义者",
+      "制度起义者",
+      "insurrectionary actors",
+      "insurrectionary agent"
+    ]
+  },
+  {
     "title": "Intellectual Capital",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Intellectual Capital.md",
@@ -9800,6 +9811,30 @@
       "开放战略自主",
       "Open Strategic Autonomy",
       "欧洲战略自主"
+    ]
+  },
+  {
+    "title": "Subversives",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Subversives.md",
+    "aliases": [
+      "颠覆者",
+      "制度颠覆者",
+      "subversive actors",
+      "subversive agent"
+    ]
+  },
+  {
+    "title": "Symbionts",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Symbionts.md",
+    "aliases": [
+      "共生者",
+      "制度共生者",
+      "寄生型共生者",
+      "互利型共生者",
+      "symbiont actors",
+      "symbiontic agent"
     ]
   },
   {

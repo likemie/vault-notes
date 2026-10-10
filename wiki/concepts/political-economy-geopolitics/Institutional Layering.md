@@ -22,6 +22,7 @@ related_concepts:
   - "[[Institutional Displacement]]"
   - "[[Institutional Drift]]"
   - "[[Institutional Conversion]]"
+  - "[[Subversives]]"
   - "[[Venue Shopping]]"
   - "[[Problem of Many Hands]]"
   - "[[Regulatory Ratchet]]"
@@ -138,7 +139,7 @@ updated: 2026-10-11
 > **边际附加的累积质变效应** 在政治权力分散或存在强大机构阻力导致全面[[Institutional Displacement|制度替代]]不可行时，行动者通过积极赞助修正案或在旧体制边缘设立新机制，使得新规则逐步侵蚀、改写或边缘化原有规则对行为的规约方式，在长时段内累积出等同于剧烈变革的制度转型后果。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 11–12)]]
 
 > [!claim] [[James Mahoney|Mahoney, J.]] & [[Kathleen Thelen|Thelen, K.]]
-> **强否决阻力与颠覆者潜伏层叠** 当既有制度由强力否决玩家捍卫且规则缺乏解释裁量权时，改革者无法公开废法；其主导变革者为“颠覆者”（Subversives），他们表面遵从规则、潜伏运作，策略性在既有核心顶端或外围增添补充条款，如地下室白蚁般随时间推移逐渐掏空并取代旧核心。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 16–17, 25–26)]]
+> **强否决阻力与颠覆者潜伏层叠** 当既有制度由强力否决玩家捍卫且规则缺乏解释裁量权时，改革者无法公开废法；其主导变革者为[[Subversives|颠覆者]]（Subversives），他们表面遵从规则、潜伏运作，策略性在既有核心顶端或外围增添补充条款，如地下室白蚁般随时间推移逐渐掏空并取代旧核心。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 16–17, 25–26)]]
 
 > [!claim] Schickler, E.
 > **多元利益妥协的层叠张力** 制度并非源于单一理性主体的顶层宏观规划，而是在不同历史时期相互竞争的多元利益主体博弈妥协的产物；各方妥协推动了新安排在既有结构之上的层叠，形成充满张力且非统一设计的杂合制度形态。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 12)]]

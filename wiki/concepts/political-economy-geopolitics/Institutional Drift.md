@@ -20,6 +20,7 @@ related_concepts:
   - "[[Institutional Layering]]"
   - "[[Institutional Conversion]]"
   - "[[Institutional Displacement]]"
+  - "[[Symbionts]]"
 related_theories:
   - "[[Theory of Gradual Institutional Change]]"
 related_methods:
@@ -80,7 +81,7 @@ updated: 2026-10-11
 > [!factors] 制度漂移的生成条件与因果要素
 > - **强政治否决可能性（Strong Veto Possibilities）** 政治体系内存在强大的否决玩家或众多的否决点，使得支持更新规则的改革力量无法突破立法阻力对制度参数进行适应性修补。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 18–20)]]
 > - **高执行裁量权（High Enforcement Discretion）** 规制机构或行政官僚在日常执法与行政监督上享有宽广的自由度；消极不执法或执法松弛成为推动漂移的行政杠杆。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 20–22)]]
-> - **主导行动者：寄生型共生者（Parasitic Symbionts）** 依附于既有制度获取私利的主体；其短期行为利用制度漏洞违规套利并阻挠规则更新，放任制度实质效能自然衰退。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 24–25)]]
+> - **主导行动者：[[Symbionts|寄生型共生者]]（Parasitic Symbionts）** 依附于既有制度获取私利的主体；其短期行为利用制度漏洞违规套利并阻挠规则更新，放任制度实质效能自然衰退。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 24–25)]]
 
 > [!logic-map]- 制度漂移的演进逻辑
 > ```mermaid
