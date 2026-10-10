@@ -1,0 +1,1233 @@
+{
+  "source": "raw/Thomas S. Popkewitz - Inventing the Modern Self and John Dewey_ Modernities and the Traveling of Pragmatism in Education (2005).pdf",
+  "source_sha256": "97ee3cf59dcf0c2043a0d0cab5e1fc8da6f474aa27edb729c2a32fbd89e61b27",
+  "book_title": "Inventing the Modern Self and John Dewey: Modernities and the Traveling of Pragmatism in Education",
+  "editor": "Thomas S. Popkewitz",
+  "year": 2005,
+  "publisher": "Palgrave Macmillan",
+  "publication_place": "New York",
+  "isbn": "1403968624",
+  "encoding": "UTF-8",
+  "source_pdf_pages": 321,
+  "extraction": "Poppler pdftotext -layout from the original digital text layer; common ligatures expanded; recognized running headers and page-number footers removed; no semantic rewriting.",
+  "page_mapping": "Arabic print page N is one-based PDF page N+19. Roman front-matter page labels match the original PDF page-label tree.",
+  "excluded_body_pages": [
+    {
+      "print_page": 1,
+      "pdf_page": 20,
+      "reason": "part-divider"
+    },
+    {
+      "print_page": 2,
+      "pdf_page": 21,
+      "reason": "blank"
+    },
+    {
+      "print_page": 37,
+      "pdf_page": 56,
+      "reason": "part-divider"
+    },
+    {
+      "print_page": 38,
+      "pdf_page": 57,
+      "reason": "blank"
+    },
+    {
+      "print_page": 84,
+      "pdf_page": 103,
+      "reason": "blank"
+    },
+    {
+      "print_page": 110,
+      "pdf_page": 129,
+      "reason": "blank"
+    },
+    {
+      "print_page": 133,
+      "pdf_page": 152,
+      "reason": "part-divider"
+    },
+    {
+      "print_page": 134,
+      "pdf_page": 153,
+      "reason": "blank"
+    },
+    {
+      "print_page": 152,
+      "pdf_page": 171,
+      "reason": "blank"
+    },
+    {
+      "print_page": 178,
+      "pdf_page": 197,
+      "reason": "blank"
+    },
+    {
+      "print_page": 179,
+      "pdf_page": 198,
+      "reason": "part-divider"
+    },
+    {
+      "print_page": 180,
+      "pdf_page": 199,
+      "reason": "blank"
+    },
+    {
+      "print_page": 202,
+      "pdf_page": 221,
+      "reason": "blank"
+    },
+    {
+      "print_page": 230,
+      "pdf_page": 249,
+      "reason": "blank"
+    },
+    {
+      "print_page": 252,
+      "pdf_page": 271,
+      "reason": "blank"
+    },
+    {
+      "print_page": 253,
+      "pdf_page": 272,
+      "reason": "part-divider"
+    },
+    {
+      "print_page": 254,
+      "pdf_page": 273,
+      "reason": "blank"
+    },
+    {
+      "print_page": 278,
+      "pdf_page": 297,
+      "reason": "blank"
+    }
+  ],
+  "excluded_materials": [
+    "Cover and duplicate half-title/title pages",
+    "Contents",
+    "Part-divider pages and intentional blank pages",
+    "Index (print pp. 300–302)"
+  ],
+  "entries": [
+    {
+      "chapter": 1,
+      "title": "Inventing the Modern Self and John Dewey: Modernities and the Traveling of Pragmatism in Education—An Introduction",
+      "authors": [
+        "Thomas S. Popkewitz"
+      ],
+      "part": "I",
+      "part_title": "Introduction",
+      "chinese_navigation_label": "导论，现代自我的发明与杜威",
+      "print_pages": [
+        3,
+        36
+      ],
+      "pdf_pages": [
+        22,
+        55
+      ],
+      "txt": "Ch01_Popkewitz_Introduction.txt",
+      "book_supplements": [
+        {
+          "material": "Book-level supplement: Preface",
+          "pdf_pages": [
+            8,
+            12
+          ],
+          "print_pages": [
+            "vii",
+            "xi"
+          ]
+        },
+        {
+          "material": "Book-level supplement: Acknowledgments",
+          "pdf_pages": [
+            14,
+            15
+          ],
+          "print_pages": [
+            "xiii",
+            "xiv"
+          ]
+        },
+        {
+          "material": "Book-level supplement: List of Contributors",
+          "pdf_pages": [
+            16,
+            18
+          ],
+          "print_pages": [
+            "xv",
+            "xvii"
+          ]
+        }
+      ],
+      "removed_running_headers": {
+        "4": [
+          "4    Thomas S. Popkewitz"
+        ],
+        "5": [
+          "                          Inventing the Modern Self and John Dewey       5"
+        ],
+        "6": [
+          "6     Thomas S. Popkewitz"
+        ],
+        "7": [
+          "                         Inventing the Modern Self and John Dewey      7"
+        ],
+        "8": [
+          "8     Thomas S. Popkewitz"
+        ],
+        "9": [
+          "                         Inventing the Modern Self and John Dewey      9"
+        ],
+        "10": [
+          "10     Thomas S. Popkewitz"
+        ],
+        "16": [
+          "16     Thomas S. Popkewitz"
+        ],
+        "17": [
+          "                         Inventing the Modern Self and John Dewey       17"
+        ],
+        "18": [
+          "18     Thomas S. Popkewitz"
+        ],
+        "19": [
+          "                         Inventing the Modern Self and John Dewey        19"
+        ],
+        "20": [
+          "20     Thomas S. Popkewitz"
+        ],
+        "21": [
+          "                        Inventing the Modern Self and John Dewey      21"
+        ],
+        "22": [
+          "22     Thomas S. Popkewitz"
+        ],
+        "23": [
+          "                        Inventing the Modern Self and John Dewey       23"
+        ],
+        "24": [
+          "24     Thomas S. Popkewitz"
+        ],
+        "25": [
+          "                         Inventing the Modern Self and John Dewey        25"
+        ],
+        "26": [
+          "26     Thomas S. Popkewitz"
+        ],
+        "27": [
+          "                        Inventing the Modern Self and John Dewey       27"
+        ],
+        "28": [
+          "28     Thomas S. Popkewitz"
+        ],
+        "29": [
+          "                        Inventing the Modern Self and John Dewey       29"
+        ],
+        "30": [
+          "30     Thomas S. Popkewitz"
+        ],
+        "31": [
+          "                        Inventing the Modern Self and John Dewey       31"
+        ],
+        "32": [
+          "32     Thomas S. Popkewitz"
+        ],
+        "33": [
+          "                            Inventing the Modern Self and John Dewey              33"
+        ],
+        "34": [
+          "34      Thomas S. Popkewitz"
+        ],
+        "35": [
+          "                            Inventing the Modern Self and John Dewey             35"
+        ],
+        "36": [
+          "36      Thomas S. Popkewitz"
+        ]
+      },
+      "characters": 108672,
+      "sha256": "cdd1f547d0d279be77aae4e8e0151dd5ad451bae3f7745a685e0d44a8bf32625"
+    },
+    {
+      "chapter": 2,
+      "title": "Dewey as an Epistemic Figure in the Swedish Discourse on Governing the Self",
+      "authors": [
+        "Ulf Olsson",
+        "Kenneth Petersson"
+      ],
+      "part": "II",
+      "part_title": "European Spaces: The Northern and Southern Ties",
+      "chinese_navigation_label": "瑞典自我治理话语中作为认识论人物的杜威",
+      "print_pages": [
+        39,
+        60
+      ],
+      "pdf_pages": [
+        58,
+        79
+      ],
+      "txt": "Ch02_Olsson_Petersson_Dewey_in_Sweden.txt",
+      "book_supplements": [],
+      "removed_running_headers": {
+        "40": [
+          "40     Ulf Olsson and Kenneth Petersson"
+        ],
+        "41": [
+          "                                     Dewey as an Epistemic Figure      41"
+        ],
+        "42": [
+          "42     Ulf Olsson and Kenneth Petersson"
+        ],
+        "43": [
+          "                                    Dewey as an Epistemic Figure     43"
+        ],
+        "44": [
+          "44     Ulf Olsson and Kenneth Petersson"
+        ],
+        "45": [
+          "                                     Dewey as an Epistemic Figure      45"
+        ],
+        "46": [
+          "46     Ulf Olsson and Kenneth Petersson"
+        ],
+        "47": [
+          "                                      Dewey as an Epistemic Figure      47"
+        ],
+        "48": [
+          "48     Ulf Olsson and Kenneth Petersson"
+        ],
+        "49": [
+          "                                     Dewey as an Epistemic Figure     49"
+        ],
+        "50": [
+          "50       Ulf Olsson and Kenneth Petersson"
+        ],
+        "51": [
+          "                                      Dewey as an Epistemic Figure       51"
+        ],
+        "52": [
+          "52     Ulf Olsson and Kenneth Petersson"
+        ],
+        "53": [
+          "                                        Dewey as an Epistemic Figure            53"
+        ],
+        "54": [
+          "54       Ulf Olsson and Kenneth Petersson"
+        ],
+        "55": [
+          "                                         Dewey as an Epistemic Figure             55"
+        ],
+        "56": [
+          "56     Ulf Olsson and Kenneth Petersson"
+        ],
+        "57": [
+          "                                      Dewey as an Epistemic Figure       57"
+        ],
+        "58": [
+          "58      Ulf Olsson and Kenneth Petersson"
+        ],
+        "59": [
+          "                                        Dewey as an Epistemic Figure        59"
+        ],
+        "60": [
+          "60     Ulf Olsson and Kenneth Petersson"
+        ]
+      },
+      "characters": 57077,
+      "sha256": "80ff02f8f6a4deb96ad40bb6f4fef53be2b23b7f981e7b7fa0a6afc14fba7b32"
+    },
+    {
+      "chapter": 3,
+      "title": "Langue as Homeland: The Genevan Reception of Pragmatism",
+      "authors": [
+        "Daniel Tröhler"
+      ],
+      "part": "II",
+      "part_title": "European Spaces: The Northern and Southern Ties",
+      "chinese_navigation_label": "语言作为家园，日内瓦对实用主义的接受",
+      "print_pages": [
+        61,
+        83
+      ],
+      "pdf_pages": [
+        80,
+        102
+      ],
+      "txt": "Ch03_Trohler_Langue_as_Homeland.txt",
+      "book_supplements": [],
+      "removed_running_headers": {
+        "62": [
+          "62     Daniel Tröhler"
+        ],
+        "63": [
+          "                                              Langue as Homeland     63"
+        ],
+        "64": [
+          "64     Daniel Tröhler"
+        ],
+        "65": [
+          "                                             Langue as Homeland       65"
+        ],
+        "66": [
+          "66     Daniel Tröhler"
+        ],
+        "67": [
+          "                                            Langue as Homeland      67"
+        ],
+        "68": [
+          "68     Daniel Tröhler"
+        ],
+        "69": [
+          "                                              Langue as Homeland       69"
+        ],
+        "70": [
+          "70     Daniel Tröhler"
+        ],
+        "71": [
+          "                                             Langue as Homeland      71"
+        ],
+        "72": [
+          "72     Daniel Tröhler"
+        ],
+        "73": [
+          "                                             Langue as Homeland       73"
+        ],
+        "74": [
+          "74     Daniel Tröhler"
+        ],
+        "75": [
+          "                                               Langue as Homeland       75"
+        ],
+        "76": [
+          "76     Daniel Tröhler"
+        ],
+        "77": [
+          "                                               Langue as Homeland       77"
+        ],
+        "78": [
+          "78      Daniel Tröhler"
+        ],
+        "79": [
+          "                                                      Langue as Homeland           79"
+        ],
+        "80": [
+          "80      Daniel Tröhler"
+        ],
+        "81": [
+          "                                                     Langue as Homeland           81"
+        ],
+        "82": [
+          "82      Daniel Tröhler"
+        ],
+        "83": [
+          "                                                  Langue as Homeland          83"
+        ]
+      },
+      "characters": 62948,
+      "sha256": "bfc748ea646eb57ce28d4453f5ff38224ad27591e471926dbe6d0684329aaea8"
+    },
+    {
+      "chapter": 4,
+      "title": "Dewey in Belgium: A Libation for Modernity? Coping with His Presence and Possible Influence",
+      "authors": [
+        "Tom De Coster",
+        "Marc Depaepe",
+        "Frank Simon",
+        "Angelo Van Gorp"
+      ],
+      "part": "II",
+      "part_title": "European Spaces: The Northern and Southern Ties",
+      "chinese_navigation_label": "比利时的杜威，现代性的奠酒",
+      "print_pages": [
+        85,
+        109
+      ],
+      "pdf_pages": [
+        104,
+        128
+      ],
+      "txt": "Ch04_DeCoster_et_al_Dewey_in_Belgium.txt",
+      "book_supplements": [],
+      "removed_running_headers": {
+        "86": [
+          "86     Tom De Coster et al."
+        ],
+        "87": [
+          "                                         A Libation for Modernity?    87"
+        ],
+        "88": [
+          "88     Tom De Coster et al."
+        ],
+        "89": [
+          "                                         A Libation for Modernity?    89"
+        ],
+        "90": [
+          "90     Tom De Coster et al."
+        ],
+        "91": [
+          "                                         A Libation for Modernity?    91"
+        ],
+        "92": [
+          "92     Tom De Coster et al."
+        ],
+        "93": [
+          "                                          A Libation for Modernity?     93"
+        ],
+        "94": [
+          "94     Tom De Coster et al."
+        ],
+        "95": [
+          "                                        A Libation for Modernity?    95"
+        ],
+        "96": [
+          "96     Tom De Coster et al."
+        ],
+        "97": [
+          "                                         A Libation for Modernity?    97"
+        ],
+        "98": [
+          "98     Tom De Coster et al."
+        ],
+        "99": [
+          "                                         A Libation for Modernity?    99"
+        ],
+        "100": [
+          "100     Tom De Coster et al."
+        ],
+        "101": [
+          "                                        A Libation for Modernity?     101"
+        ],
+        "102": [
+          "102     Tom De Coster et al."
+        ],
+        "103": [
+          "                                           A Libation for Modernity?       103"
+        ],
+        "104": [
+          "104      Tom De Coster et al."
+        ],
+        "105": [
+          "                                               A Libation for Modernity?         105"
+        ],
+        "106": [
+          "106      Tom De Coster et al."
+        ],
+        "107": [
+          "                                            A Libation for Modernity?        107"
+        ],
+        "108": [
+          "108       Tom De Coster et al."
+        ],
+        "109": [
+          "                                             A Libation for Modernity?        109"
+        ]
+      },
+      "characters": 70231,
+      "sha256": "959d8ff8a1f98688afe71e740c8b26cdca1a00a50b959f2529332f9b390e0054"
+    },
+    {
+      "chapter": 5,
+      "title": "Dewey on Lima or the Social Prosthesis in the Construction of the New Education Discourse in Portugal (1925–1936)",
+      "authors": [
+        "Jorge Ramos do Ó"
+      ],
+      "part": "II",
+      "part_title": "European Spaces: The Northern and Southern Ties",
+      "chinese_navigation_label": "葡萄牙新教育话语建构中的杜威与社会义肢",
+      "print_pages": [
+        111,
+        132
+      ],
+      "pdf_pages": [
+        130,
+        151
+      ],
+      "txt": "Ch05_RamosDoO_New_Education_in_Portugal.txt",
+      "book_supplements": [],
+      "removed_running_headers": {
+        "112": [
+          "112     Jorge Ramos do Ó"
+        ],
+        "113": [
+          "                                                 Dewey on Lima        113"
+        ],
+        "114": [
+          "114     Jorge Ramos do Ó"
+        ],
+        "115": [
+          "                                                   Dewey on Lima        115"
+        ],
+        "116": [
+          "116     Jorge Ramos do Ó"
+        ],
+        "117": [
+          "                                                  Dewey on Lima        117"
+        ],
+        "118": [
+          "118     Jorge Ramos do Ó"
+        ],
+        "119": [
+          "                                                Dewey on Lima       119"
+        ],
+        "120": [
+          "120     Jorge Ramos do Ó"
+        ],
+        "121": [
+          "                                                   Dewey on Lima         121"
+        ],
+        "122": [
+          "122      Jorge Ramos do Ó"
+        ],
+        "123": [
+          "                                                   Dewey on Lima        123"
+        ],
+        "124": [
+          "124     Jorge Ramos do Ó"
+        ],
+        "125": [
+          "                                                   Dewey on Lima        125"
+        ],
+        "126": [
+          "126     Jorge Ramos do Ó"
+        ],
+        "127": [
+          "                                                     Dewey on Lima         127"
+        ],
+        "128": [
+          "128     Jorge Ramos do Ó"
+        ],
+        "129": [
+          "                                                  Dewey on Lima        129"
+        ],
+        "130": [
+          "130      Jorge Ramos do Ó"
+        ],
+        "131": [
+          "                                                      Dewey on Lima         131"
+        ],
+        "132": [
+          "132      Jorge Ramos do Ó"
+        ]
+      },
+      "characters": 57450,
+      "sha256": "4cb41dfcbd934f078f7e41901e84a26cd3c29b0527bb8112f2dfd8d692d302bb"
+    },
+    {
+      "chapter": 6,
+      "title": "Balkanizing John Dewey",
+      "authors": [
+        "Noah W. Sobe"
+      ],
+      "part": "III",
+      "part_title": "European Spaces: The Southern Eastern Tiers",
+      "chinese_navigation_label": "杜威的巴尔干化",
+      "print_pages": [
+        135,
+        151
+      ],
+      "pdf_pages": [
+        154,
+        170
+      ],
+      "txt": "Ch06_Sobe_Balkanizing_John_Dewey.txt",
+      "book_supplements": [],
+      "removed_running_headers": {
+        "136": [
+          "136     Noah W. Sobe"
+        ],
+        "137": [
+          "                                           Balkanizing John Dewey      137"
+        ],
+        "138": [
+          "138     Noah W. Sobe"
+        ],
+        "139": [
+          "                                           Balkanizing John Dewey        139"
+        ],
+        "140": [
+          "140     Noah W. Sobe"
+        ],
+        "141": [
+          "                                           Balkanizing John Dewey       141"
+        ],
+        "142": [
+          "142     Noah W. Sobe"
+        ],
+        "143": [
+          "                                         Balkanizing John Dewey     143"
+        ],
+        "144": [
+          "144     Noah W. Sobe"
+        ],
+        "145": [
+          "                                          Balkanizing John Dewey      145"
+        ],
+        "146": [
+          "146     Noah W. Sobe"
+        ],
+        "147": [
+          "                                         Balkanizing John Dewey      147"
+        ],
+        "148": [
+          "148     Noah W. Sobe"
+        ],
+        "149": [
+          "                                               Balkanizing John Dewey         149"
+        ],
+        "150": [
+          "150      Noah W. Sobe"
+        ],
+        "151": [
+          "                                              Balkanizing John Dewey        151"
+        ]
+      },
+      "characters": 44540,
+      "sha256": "68e7dbf243769e554251c523982ebd34c1bcbab101a150575f2ff45ce09f0ae2"
+    },
+    {
+      "chapter": 7,
+      "title": "John Dewey’s Travelings into the Project of Turkish Modernity",
+      "authors": [
+        "Sabiha Bilgi",
+        "Seçkin Özsoy"
+      ],
+      "part": "III",
+      "part_title": "European Spaces: The Southern Eastern Tiers",
+      "chinese_navigation_label": "杜威思想进入土耳其现代性工程",
+      "print_pages": [
+        153,
+        177
+      ],
+      "pdf_pages": [
+        172,
+        196
+      ],
+      "txt": "Ch07_Bilgi_Ozsoy_Dewey_in_Turkey.txt",
+      "book_supplements": [],
+      "removed_running_headers": {
+        "154": [
+          "154     Sabiha Bilgi and Seçkin Özsoy"
+        ],
+        "155": [
+          "                                       Project of Turkish Modernity      155"
+        ],
+        "156": [
+          "156     Sabiha Bilgi and Seçkin Özsoy"
+        ],
+        "157": [
+          "                                      Project of Turkish Modernity     157"
+        ],
+        "158": [
+          "158     Sabiha Bilgi and Seçkin Özsoy"
+        ],
+        "159": [
+          "                                     Project of Turkish Modernity     159"
+        ],
+        "160": [
+          "160     Sabiha Bilgi and Seçkin Özsoy"
+        ],
+        "161": [
+          "                                        Project of Turkish Modernity         161"
+        ],
+        "162": [
+          "162     Sabiha Bilgi and Seçkin Özsoy"
+        ],
+        "163": [
+          "                                     Project of Turkish Modernity     163"
+        ],
+        "164": [
+          "164     Sabiha Bilgi and Seçkin Özsoy"
+        ],
+        "165": [
+          "                                     Project of Turkish Modernity    165"
+        ],
+        "166": [
+          "166     Sabiha Bilgi and Seçkin Özsoy"
+        ],
+        "167": [
+          "                                      Project of Turkish Modernity      167"
+        ],
+        "168": [
+          "168     Sabiha Bilgi and Seçkin Özsoy"
+        ],
+        "169": [
+          "                                        Project of Turkish Modernity        169"
+        ],
+        "170": [
+          "170     Sabiha Bilgi and Seçkin Özsoy"
+        ],
+        "171": [
+          "                                       Project of Turkish Modernity        171"
+        ],
+        "172": [
+          "172     Sabiha Bilgi and Seçkin Özsoy"
+        ],
+        "173": [
+          "                                         Project of Turkish Modernity        173"
+        ],
+        "174": [
+          "174      Sabiha Bilgi and Seçkin Özsoy"
+        ],
+        "175": [
+          "                                           Project of Turkish Modernity          175"
+        ],
+        "176": [
+          "176      Sabiha Bilgi and Seçkin Özsoy"
+        ],
+        "177": [
+          "                                         Project of Turkish Modernity        177"
+        ]
+      },
+      "characters": 68082,
+      "sha256": "e975367e2ac388cbcc17f1a203104afb9ab83a7490a1d38b494753664f6c44a9"
+    },
+    {
+      "chapter": 8,
+      "title": "Discursive Inscriptions in the Fabrication of a Modern Self: Mexican Educational Appropriations of Dewey’s Writings",
+      "authors": [
+        "Rosa N. Buenfil Burgos"
+      ],
+      "part": "IV",
+      "part_title": "The Americas",
+      "chinese_navigation_label": "现代自我建构中的话语铭刻，墨西哥对杜威著作的挪用",
+      "print_pages": [
+        181,
+        201
+      ],
+      "pdf_pages": [
+        200,
+        220
+      ],
+      "txt": "Ch08_BuenfilBurgos_Dewey_in_Mexico.txt",
+      "book_supplements": [],
+      "removed_running_headers": {
+        "182": [
+          "182     Rosa N. Buenfil Burgos"
+        ],
+        "183": [
+          "                              Mexican Educational Appropriations       183"
+        ],
+        "184": [
+          "184     Rosa N. Buenfil Burgos"
+        ],
+        "185": [
+          "                              Mexican Educational Appropriations      185"
+        ],
+        "186": [
+          "186     Rosa N. Buenfil Burgos"
+        ],
+        "187": [
+          "                              Mexican Educational Appropriations     187"
+        ],
+        "188": [
+          "188     Rosa N. Buenfil Burgos"
+        ],
+        "189": [
+          "                              Mexican Educational Appropriations     189"
+        ],
+        "190": [
+          "190     Rosa N. Buenfil Burgos"
+        ],
+        "191": [
+          "                              Mexican Educational Appropriations      191"
+        ],
+        "192": [
+          "192     Rosa N. Buenfil Burgos"
+        ],
+        "193": [
+          "                              Mexican Educational Appropriations     193"
+        ],
+        "194": [
+          "194     Rosa N. Buenfil Burgos"
+        ],
+        "195": [
+          "                              Mexican Educational Appropriations     195"
+        ],
+        "196": [
+          "196     Rosa N. Buenfil Burgos"
+        ],
+        "197": [
+          "                              Mexican Educational Appropriations      197"
+        ],
+        "198": [
+          "198      Rosa N. Buenfil Burgos"
+        ],
+        "199": [
+          "                                  Mexican Educational Appropriations          199"
+        ],
+        "200": [
+          "200      Rosa N. Buenfil Burgos"
+        ],
+        "201": [
+          "                                  Mexican Educational Appropriations          201"
+        ]
+      },
+      "characters": 56888,
+      "sha256": "706a3fcd4acdf6e288eba707bdfd53d224583adf4181626c916b5722725ed560"
+    },
+    {
+      "chapter": 9,
+      "title": "John Dewey through the Brazilan Anísio Teixeira or Reenchantment of the World",
+      "authors": [
+        "Mirian Jorge Warde"
+      ],
+      "part": "IV",
+      "part_title": "The Americas",
+      "chinese_navigation_label": "通过巴西的阿尼西奥·特谢拉阅读杜威与世界再魅化",
+      "print_pages": [
+        203,
+        229
+      ],
+      "pdf_pages": [
+        222,
+        248
+      ],
+      "txt": "Ch09_Warde_Dewey_and_Anisio_Teixeira.txt",
+      "book_supplements": [],
+      "removed_running_headers": {
+        "204": [
+          "204     Mirian Jorge Warde"
+        ],
+        "205": [
+          "                              John Dewey through Anísio Teixeira     205"
+        ],
+        "206": [
+          "206     Mirian Jorge Warde"
+        ],
+        "207": [
+          "                                John Dewey through Anísio Teixeira       207"
+        ],
+        "208": [
+          "208     Mirian Jorge Warde"
+        ],
+        "209": [
+          "                              John Dewey through Anísio Teixeira     209"
+        ],
+        "210": [
+          "210     Mirian Jorge Warde"
+        ],
+        "211": [
+          "                              John Dewey through Anísio Teixeira      211"
+        ],
+        "212": [
+          "212      Mirian Jorge Warde"
+        ],
+        "213": [
+          "                              John Dewey through Anísio Teixeira    213"
+        ],
+        "214": [
+          "214     Mirian Jorge Warde"
+        ],
+        "215": [
+          "                              John Dewey through Anísio Teixeira    215"
+        ],
+        "216": [
+          "216     Mirian Jorge Warde"
+        ],
+        "217": [
+          "                              John Dewey through Anísio Teixeira    217"
+        ],
+        "218": [
+          "218     Mirian Jorge Warde"
+        ],
+        "219": [
+          "                              John Dewey through Anísio Teixeira    219"
+        ],
+        "220": [
+          "220     Mirian Jorge Warde"
+        ],
+        "221": [
+          "                                   John Dewey through Anísio Teixeira           221"
+        ],
+        "222": [
+          "222      Mirian Jorge Warde"
+        ],
+        "223": [
+          "                                   John Dewey through Anísio Teixeira          223"
+        ],
+        "224": [
+          "224      Mirian Jorge Warde"
+        ],
+        "225": [
+          "                                   John Dewey through Anísio Teixeira           225"
+        ],
+        "226": [
+          "226      Mirian Jorge Warde"
+        ],
+        "227": [
+          "                                    John Dewey through Anísio Teixeira            227"
+        ],
+        "228": [
+          "228      Mirian Jorge Warde"
+        ],
+        "229": [
+          "                                 John Dewey through Anísio Teixeira        229"
+        ]
+      },
+      "characters": 73771,
+      "sha256": "d49273847e38827e0da8c625aeb1ee1f355dc081d9d7785686f4097a810eda14"
+    },
+    {
+      "chapter": 10,
+      "title": "The Appropriation of Dewey’s Pedagogy in Colombia as a Cultural Event",
+      "authors": [
+        "Javier Sáenz-Obregón"
+      ],
+      "part": "IV",
+      "part_title": "The Americas",
+      "chinese_navigation_label": "哥伦比亚挪用杜威教育学的文化事件",
+      "print_pages": [
+        231,
+        251
+      ],
+      "pdf_pages": [
+        250,
+        270
+      ],
+      "txt": "Ch10_SaenzObregon_Dewey_in_Colombia.txt",
+      "book_supplements": [],
+      "removed_running_headers": {
+        "232": [
+          "232     Javier Sáenz-Obregón"
+        ],
+        "233": [
+          "                                   Dewey’s Pedagogy in Colombia         233"
+        ],
+        "234": [
+          "234     Javier Sáenz-Obregón"
+        ],
+        "235": [
+          "                                   Dewey’s Pedagogy in Colombia        235"
+        ],
+        "236": [
+          "236     Javier Sáenz-Obregón"
+        ],
+        "237": [
+          "                                   Dewey’s Pedagogy in Colombia        237"
+        ],
+        "238": [
+          "238     Javier Sáenz-Obregón"
+        ],
+        "239": [
+          "                                    Dewey’s Pedagogy in Colombia          239"
+        ],
+        "240": [
+          "240     Javier Sáenz-Obregón"
+        ],
+        "241": [
+          "                                  Dewey’s Pedagogy in Colombia       241"
+        ],
+        "242": [
+          "242     Javier Sáenz-Obregón"
+        ],
+        "243": [
+          "                                   Dewey’s Pedagogy in Colombia         243"
+        ],
+        "244": [
+          "244     Javier Sáenz-Obregón"
+        ],
+        "245": [
+          "                                   Dewey’s Pedagogy in Colombia         245"
+        ],
+        "246": [
+          "246     Javier Sáenz-Obregón"
+        ],
+        "247": [
+          "                                  Dewey’s Pedagogy in Colombia       247"
+        ],
+        "248": [
+          "248      Javier Sáenz-Obregón"
+        ],
+        "249": [
+          "                                       Dewey’s Pedagogy in Colombia           249"
+        ],
+        "250": [
+          "250      Javier Sáenz-Obregón"
+        ],
+        "251": [
+          "                                       Dewey’s Pedagogy in Colombia            251"
+        ]
+      },
+      "characters": 58137,
+      "sha256": "401b796708d40eb3814c0f69f1a8ebdb890d4aad7c89b1ad74a758024ef5bf91"
+    },
+    {
+      "chapter": 11,
+      "title": "A History of the Present: Chinese Intellectuals, Confucianism and Pragmatism",
+      "authors": [
+        "Jie Qi"
+      ],
+      "part": "V",
+      "part_title": "Asia/Asia Minor",
+      "chinese_navigation_label": "当下的历史，中国知识分子、儒学与实用主义",
+      "print_pages": [
+        255,
+        277
+      ],
+      "pdf_pages": [
+        274,
+        296
+      ],
+      "txt": "Ch11_Qi_Chinese_Intellectuals_and_Pragmatism.txt",
+      "book_supplements": [],
+      "removed_running_headers": {
+        "256": [
+          "256     Jie Qi"
+        ],
+        "257": [
+          "                                   Confucianism and Pragmatism      257"
+        ],
+        "258": [
+          "258     Jie Qi"
+        ],
+        "259": [
+          "                                   Confucianism and Pragmatism       259"
+        ],
+        "260": [
+          "260     Jie Qi"
+        ],
+        "261": [
+          "                                      Confucianism and Pragmatism          261"
+        ],
+        "262": [
+          "262     Jie Qi"
+        ],
+        "263": [
+          "                                   Confucianism and Pragmatism      263"
+        ],
+        "264": [
+          "264     Jie Qi"
+        ],
+        "265": [
+          "                                      Confucianism and Pragmatism           265"
+        ],
+        "266": [
+          "266     Jie Qi"
+        ],
+        "267": [
+          "                                      Confucianism and Pragmatism           267"
+        ],
+        "268": [
+          "268     Jie Qi"
+        ],
+        "269": [
+          "                                     Confucianism and Pragmatism         269"
+        ],
+        "270": [
+          "270     Jie Qi"
+        ],
+        "271": [
+          "                                     Confucianism and Pragmatism         271"
+        ],
+        "272": [
+          "272     Jie Qi"
+        ],
+        "273": [
+          "                                       Confucianism and Pragmatism    273"
+        ],
+        "274": [
+          "274     Jie Qi"
+        ],
+        "275": [
+          "                                       Confucianism and Pragmatism         275"
+        ],
+        "276": [
+          "276      Jie Qi"
+        ],
+        "277": [
+          "                                        Confucianism and Pragmatism          277"
+        ]
+      },
+      "characters": 58182,
+      "sha256": "08b693540dba586838caad4387a458592fea64d02f7d31b4e178d0fe3bf22ff7"
+    },
+    {
+      "chapter": 12,
+      "title": "Dewey and the Ambivalent Modern Japan",
+      "authors": [
+        "Kentaro Ohkura"
+      ],
+      "part": "V",
+      "part_title": "Asia/Asia Minor",
+      "chinese_navigation_label": "杜威与矛盾的现代日本",
+      "print_pages": [
+        279,
+        299
+      ],
+      "pdf_pages": [
+        298,
+        318
+      ],
+      "txt": "Ch12_Ohkura_Dewey_and_Modern_Japan.txt",
+      "book_supplements": [],
+      "removed_running_headers": {
+        "280": [
+          "280     Kentaro Ohkura"
+        ],
+        "281": [
+          "                       Dewey and the Ambivalent Modern Japan       281"
+        ],
+        "282": [
+          "282     Kentaro Ohkura"
+        ],
+        "283": [
+          "                        Dewey and the Ambivalent Modern Japan          283"
+        ],
+        "284": [
+          "284     Kentaro Ohkura"
+        ],
+        "285": [
+          "                        Dewey and the Ambivalent Modern Japan         285"
+        ],
+        "286": [
+          "286     Kentaro Ohkura"
+        ],
+        "287": [
+          "                        Dewey and the Ambivalent Modern Japan         287"
+        ],
+        "288": [
+          "288     Kentaro Ohkura"
+        ],
+        "289": [
+          "                        Dewey and the Ambivalent Modern Japan            289"
+        ],
+        "290": [
+          "290     Kentaro Ohkura"
+        ],
+        "291": [
+          "                         Dewey and the Ambivalent Modern Japan              291"
+        ],
+        "292": [
+          "292     Kentaro Ohkura"
+        ],
+        "293": [
+          "                        Dewey and the Ambivalent Modern Japan         293"
+        ],
+        "294": [
+          "294     Kentaro Ohkura"
+        ],
+        "295": [
+          "                         Dewey and the Ambivalent Modern Japan          295"
+        ],
+        "296": [
+          "296     Kentaro Ohkura"
+        ],
+        "297": [
+          "                          Dewey and the Ambivalent Modern Japan             297"
+        ],
+        "298": [
+          "298      Kentaro Ohkura"
+        ],
+        "299": [
+          "                          Dewey and the Ambivalent Modern Japan            299"
+        ]
+      },
+      "characters": 55409,
+      "sha256": "005a47a9b585f6acda0d3cc52af5efffcdcb5e88821acf30cd676815fd9c3ede"
+    }
+  ]
+}

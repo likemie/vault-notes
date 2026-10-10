@@ -9185,8 +9185,8 @@
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Institutional Layering.md",
     "aliases": [
-      "制度分层",
       "制度层叠",
+      "制度分层",
       "制度叠加",
       "layering"
     ]
@@ -34921,6 +34921,11 @@
     "title": "Argument_Peterson_1987_OpenCourt_Ch08",
     "type": "argument",
     "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch08.md"
+  },
+  {
+    "title": "Argument_Popkewitz_2005_Palgrave",
+    "type": "argument",
+    "path": "wiki/arguments/books/Popkewitz_2005_Palgrave/Argument_Popkewitz_2005_Palgrave.md"
   },
   {
     "title": "Argument_QiMei_2015_EducationalResearchMethods",

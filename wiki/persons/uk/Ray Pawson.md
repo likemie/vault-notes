@@ -160,7 +160,7 @@ updated: 2026-10-11
 > - **师承与哲学渊源** [[Roy Bhaskar|罗伊·巴斯卡]]（Roy Bhaskar）— [[Critical Realism|批判实在论]]奠基人，为波森提供深层[[Ontology|本体论]]与生成性因果哲学的基石。
 > - **核心学术合作者** 尼克·蒂利（Nick Tilley）— 英国犯罪学学者，与波森共同创立[[Realist Evaluation|实在论评估理论]]大厦与 CMO 模型。
 > - **教育批判继承者** [[Terry Wrigley]] — 将波森的实在论综合与开放系统命题引入教育政策研究，发起对[[Evidence-Based Education|循证教育]]排行榜的学术批判。
-> - **制度分析拓展者** Jeroen van der Heijden — 将波森关于“何为变迁、对谁而言、在何种情境下”的实在论评估原理引入建筑规制与[[Institutional Layering|制度分层]][[Document|文献]]，论证观察者位置与时间跨度对变迁性质的决定作用。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 10)]]
+> - **制度分析拓展者** Jeroen van der Heijden — 将波森关于“何为变迁、对谁而言、在何种情境下”的实在论评估原理引入建筑规制与[[Institutional Layering|制度层叠]][[Document|文献]]，论证观察者位置与时间跨度对变迁性质的决定作用。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 10)]]
 
 ---
 

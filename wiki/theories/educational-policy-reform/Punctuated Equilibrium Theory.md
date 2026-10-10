@@ -186,7 +186,7 @@ updated: 2026-10-11
 > > [!axis] 突变解释与渐进演进的理论对立与机制弥合
 > > 批评者质疑间断突变是否只是表面立法现象，深层实践变革本质上依然是渐进的。
 > >
-> > - **历史制度主义批评视角** 强调制度演进具有强烈的[[Path Dependence|路径依赖]]与[[Institutional Layering|制度分层]]特征，宏观法案突变往往伴随着底层执行机制中新旧规则的长期层叠共生；范德海登（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]]）指出间断均衡论缺乏变迁幅度与时间跨度的[[Operationalization|操作化]]阈值，极易陷入证实偏差，而聚焦被添加的行动者与规制工具[[Variable|变量]]能够有效沟通突变模型与渐进模型。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10, 16)]]
+> > - **历史制度主义批评视角** 强调制度演进具有强烈的[[Path Dependence|路径依赖]]与[[Institutional Layering|制度层叠]]特征，宏观法案突变往往伴随着底层执行机制中新旧规则的长期层叠共生；范德海登（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]]）指出间断均衡论缺乏变迁幅度与时间跨度的[[Operationalization|操作化]]阈值，极易陷入证实偏差，而聚焦被添加的行动者与规制工具[[Variable|变量]]能够有效沟通突变模型与渐进模型。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10, 16)]]
 > > - **间断均衡理论辩护** 强调[[Bounded Rationality|有限理性]]导致注意力瓶颈必然呈现断裂跳跃，宏观法案与管辖权的断裂式重组重构了后续演化的游戏规则。（Baumgartner & Jones, 1993）
 >
 > > [!axis] 结构性外生危机 vs [[Policy Entrepreneur|政策企业家]]行动能动的动因之争
@@ -202,7 +202,7 @@ updated: 2026-10-11
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013)]] — 明确将间断均衡理论与政策垄断框架应用于全美[[Common Core State Standards|共同核心州立标准]]（CCSS）推进的全[[Process Tracing|过程追踪]]。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 探讨[[Mission-Oriented Innovation Policy|使命导向创新政策]]如何打破传统新古典[[Market Failure|市场失灵]]垄断并重塑国家能力的代表性[[Document|文献]]。
-> - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 评述[[Institutional Layering|制度分层]]概念并论证其在行动者与工具[[Variable|变量]]层面弥合间断均衡与渐进演变理论分歧的分析文献。
+> - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 评述[[Institutional Layering|制度层叠]]概念并论证其在行动者与工具[[Variable|变量]]层面弥合间断均衡与渐进演变理论分歧的分析文献。
 
 ---
 
@@ -224,4 +224,4 @@ updated: 2026-10-11
 > | [[American Federation of Teachers]] | Fact (Organization) | 方案制定阶段行使把关权、影响政策垄断重塑的重要专业利益共同体。 |
 > | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | Argument | 明确将断裂平衡理论与政策垄断框架应用于全美 CCSS 推进全[[Process Tracing\|过程追踪]]的核心[[Document\|文献]]。 |
 > | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | Argument | 探讨使命导向创新政策如何打破传统新古典垄断并重塑国家能力的代表性文献。 |
-> | [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]] | Argument | 评述制度分层概念并论证其在行动者与工具变量层面弥合间断均衡与渐进演变理论分歧的分析文献。 |
+> | [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]] | Argument | 评述制度层叠概念并论证其在行动者与工具变量层面弥合间断均衡与渐进演变理论分歧的分析文献。 |
