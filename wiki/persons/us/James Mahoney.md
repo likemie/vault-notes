@@ -9,10 +9,10 @@ summary: "美国政治学家与历史社会学家，西北大学政治学与社�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 14
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 17
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: 1968
 lifespan: "1968–至今"
 tags:
@@ -30,6 +30,9 @@ related_concepts:
   - "[[Institutional Conversion]]"
   - "[[Champ]]"
   - "[[Opportunists]]"
+  - "[[Insurrectionaries]]"
+  - "[[Subversives]]"
+  - "[[Symbionts]]"
 related_theories:
   - "[[Theory of Gradual Institutional Change]]"
   - "[[Path Dependence]]"
@@ -90,7 +93,7 @@ updated: 2026-10-11
 >   - **阶段转向** 从拉美政权演化的具体案例研究，升华为对历史时间性、报酬递增与锁定机制的因果机制提炼，奠立小样本比较历史分析的分析规范。
 > - **2004–2010 — 殖民遗产长程比较与渐进制度变迁理论** 突破传统历史制度主义过度强调制度刚性稳态的局限，探索常规政治中行动者如何通过边际策略推动深层结构转型。
 >   - **代表著作** *Explaining Institutional Change: Ambiguity, Agency, and Power* (2009, with K. Thelen); *Colonialism and Postcolonial Development* (2010)。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
->   - **关键概念／方法** [[Theory of Gradual Institutional Change|渐进制度变迁理论]]、[[Institutional Displacement|制度置换]]、[[Institutional Layering|制度层叠]]、[[Institutional Drift|制度漂移]]、[[Institutional Conversion|制度转换]]、[[Opportunists|机会主义者]]。
+>   - **关键概念／方法** [[Theory of Gradual Institutional Change|渐进制度变迁理论]]、四类变迁形态（置换/层叠/漂移/转换）、四类变革行动者（[[Insurrectionaries|起义者]]/[[Subversives|颠覆者]]/[[Symbionts|共生者]]/[[Opportunists|机会主义者]]）。
 >   - **阶段转向** 将制度分析重心从外生冲击转移至内生权力分配冲突，将规则遵从解构为包含解释与执行自由裁量权的微观动态博弈。
 > - **2011年至今 — 质性与定量“两种文化”比较与建构主义因果逻辑** 转向社会科学哲学与方法论深层反思，探讨定性个案研究与主流统计计量在本体论和因果律上的根本分野。
 >   - **代表著作** *A Tale of Two Cultures* (2012, with G. Goertz); *The Logic of Social Science* (2021)。
@@ -163,6 +166,9 @@ updated: 2026-10-11
 > | [[Institutional Layering]] | 概念 | 阐发颠覆者如何在强否决与低裁量权约束下运用地下室白蚁机制推进制度层叠。 |
 > | [[Institutional Drift]] | 概念 | 阐发强否决与高裁量权语境下共生者放任制度漂移的微观合规套利逻辑。 |
 > | [[Institutional Conversion]] | 概念 | 阐明弱否决与高裁量权语境下机会主义者利用制度模糊性推动制度重定向转换的机制。 |
+> | [[Insurrectionaries]] | 概念 | 界定起义者在弱否决与低裁量权下驱动制度置换的反体制排他性博弈逻辑。 |
+> | [[Subversives]] | 概念 | 界定颠覆者在强否决与低裁量权下运用地下室白蚁机制推进边缘层叠的潜伏逻辑。 |
+> | [[Symbionts]] | 概念 | 界定共生者依附制度存续的利益羁绊，区分寄生型漂移与互利型稳健双重演化分支。 |
 > | [[Opportunists]] | 概念 | 界定机会主义者作为变革行动者与制度惰性盟友的双重属性，阐发其级联倒戈动力学。 |
 > | [[Qualitative Research]] | 方法 | 奠定比较历史分析与定性因果推断规范，确立过程追踪与集合论因果逻辑。 |
 > | [[Typological Analysis]] | 方法 | 建构宏观否决度与微观裁量权的因果类型学矩阵，推动类型学分析在制度变迁中的规范应用。 |

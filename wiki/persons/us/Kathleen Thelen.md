@@ -10,7 +10,7 @@ summary: "麻省理工学院政治学讲席教授、美国文理科学院院士�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 24
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -27,6 +27,9 @@ related_concepts:
   - "[[Institutional Conversion]]"
   - "[[Institutional Displacement]]"
   - "[[Opportunists]]"
+  - "[[Insurrectionaries]]"
+  - "[[Subversives]]"
+  - "[[Symbionts]]"
   - "[[Champ]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
@@ -105,7 +108,7 @@ updated: 2026-10-11
 >   - **阶段转向** 吸纳埃里克·希克勒（Eric Schickler, 2001）对美国国会委员会制度演化的研究（[[Disjointed Pluralism|脱节多元主义]]），将制度理解为多元妥协与碎片并存的历史复合物。
 > - **2010年代及以后 — 制度变迁类型学定型与自由化多样性** 融合行动者偏好、依从类型与制度权力属性，形成完整的渐进演化因果解释模型，并运用于当代欧美福利体制与数字经济变迁分析。
 >   - **代表著作** *Explaining Institutional Change* (2009, with J. Mahoney); *Varieties of Liberalization and the New Politics of Social Solidarity* (2014)。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
->   - **关键概念／方法** [[Institutional Drift|制度漂移]]（Drift）、[[Institutional Displacement|制度替代]]（Displacement）、[[Opportunists|机会主义者]]、自由化轨迹。
+>   - **关键概念／方法** 四类变迁形态（置换/层叠/漂移/转换）、四类变革行动者（[[Insurrectionaries|起义者]]/[[Subversives|颠覆者]]/[[Symbionts|共生者]]/[[Opportunists|机会主义者]]）、自由化轨迹。
 >   - **阶段转向** 明确提出分层的精髓在于将新规则附着于旧规则顶端并重构行动者行为，为跨学科制度研究提供通用分析语法。
 
 ---
@@ -186,6 +189,9 @@ updated: 2026-10-11
 > | [[Institutional Conversion]] | 概念 | 阐明在制度缝隙中重定向既有规则与资源的功能转换机制。 |
 > | [[Institutional Drift]] | 概念 | 揭示外部环境变迁下由于不作为导致的功能漂移与共生者合规套利机制。 |
 > | [[Institutional Displacement]] | 概念 | 界定新制度引入并逐步边缘化旧制度的双轨替代演进逻辑。 |
+> | [[Insurrectionaries]] | 概念 | 界定起义者在弱否决与低裁量权下驱动制度置换的反体制排他性博弈逻辑。 |
+> | [[Subversives]] | 概念 | 界定颠覆者在强否决与低裁量权下运用地下室白蚁机制推进边缘层叠的潜伏逻辑。 |
+> | [[Symbionts]] | 概念 | 界定共生者依附制度存续的利益羁绊，区分寄生型漂移与互利型稳健双重演化分支。 |
 > | [[Opportunists]] | 概念 | 共同界定机会主义者在制度转换与惰性维系中的双重角色与级联动态。 |
 > | [[Varieties of Capitalism]] | 理论 | 深入拓展德国、英国、美国与日本职业技能形成体制与协调市场经济的多样性。 |
 > | [[Path Dependence]] | 理论 | 反思传统路径依赖刚性闭锁假定，开拓在制度缝隙中累积质变的内生演化理论。 |

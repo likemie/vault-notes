@@ -7,7 +7,7 @@ aliases:
 summary: "历史制度主义与比较政治经济学中的制度变迁核心机制；指通过废除、取消或边缘化既有规则并引入全新规则体系的过程；既包含关键节点上的突发性体制颠覆，也涵盖边缘竞争性新体制通过持续吸引背叛与资源转移、最终累积挤出并彻底取代旧体制的渐进替代过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

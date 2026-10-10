@@ -10,6 +10,10 @@ aliases:
 summary: "历史制度主义渐进变迁理论中的四类变革行动者之一，自身利益依附于非自身设计的既有制度；分为利用漏洞套利并阻挠规则更新以驱动制度漂移的寄生型共生者，以及通过变通合规维系体制实质精神并扩大支持联盟的互利型共生者"
 type: concept
 domain: "political-economy-geopolitics"
+related_count: 13
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - symbionts
   - institutional-change

@@ -8,7 +8,7 @@ aliases:
 summary: "历史制度主义渐进变迁理论中的四类变革行动者之一，对制度存续持模糊偏好且采取模糊遵从；在弱否决与高裁量权语境下利用规则缝隙重新部署资源以驱动制度转换，在常规政治中因规避风险充当维持现状的惰性盟友，在临界点上通过集体倒戈触发级联变革"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,9 @@ related_concepts:
   - "[[Institutional Drift]]"
   - "[[Institutional Displacement]]"
   - "[[Institutional Layering]]"
+  - "[[Insurrectionaries]]"
+  - "[[Subversives]]"
+  - "[[Symbionts]]"
   - "[[Opportunist Mode]]"
 related_theories:
   - "[[Theory of Gradual Institutional Change]]"
@@ -53,7 +56,7 @@ updated: 2026-10-11
 > [!concept-lens] 概念透镜
 > - **含义** 指向在特定规则体系中缺乏深层制度忠诚、亦无激进反叛意识，以最小合规成本博取最大私人收益的理性博弈行动者。
 > - **用途** 解释制度为何能在缺乏外部危机冲击的情境下发生内生功能重构（制度转换），以及既有体制为何能依靠庞大规避风险的中间大众获得强大的维持现状惰性。
-> - **边界** 区别于公开打破规则的起义者（Insurrectionaries）、长期潜伏旨在架空旧体制的颠覆者（Subversives），以及自身繁荣依附于旧体制的共生者（Symbionts）；亦区别于教育社会学中作为微观求职策略的[[Opportunist Mode|机会主义模式]]。
+> - **边界** 区别于公开打破规则的[[Insurrectionaries|起义者]]（Insurrectionaries）、长期潜伏旨在架空旧体制的[[Subversives|颠覆者]]（Subversives），以及自身繁荣依附于旧体制的[[Symbionts|共生者]]（Symbionts）；亦区别于教育社会学中作为微观求职策略的[[Opportunist Mode|机会主义模式]]。
 
 > [!citation-card] 制度套利与模糊偏好
 > 机会主义者对制度连续性持有模糊的偏好。他们不积极寻求维护制度；但由于反对制度现状成本高昂，他们也不会试图直接改变规则。机会主义者转而利用现存体制内的一切可能性来实现其目标。事实上，机构内机会主义者的权重可能是制度惰性的主要来源。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 26–27)]]
@@ -61,8 +64,8 @@ updated: 2026-10-11
 > *Opportunists are actors who have ambiguous preferences about institutional continuity. They do not actively seek to preserve institutions. However, because opposing the institutional status quo is costly, they also do not try to change the rules. Opportunists instead exploit whatever possibilities exist within the prevailing system to achieve their ends. Indeed, the weight of opportunists within an institution can be a major source of institutional inertia.*
 
 > [!boundary]- 概念边界
-> - 不等于 起义者（Insurrectionaries） — 起义者明确否定旧体制合法性，长期目标为彻底推翻旧制度，短期采取公开违规策略；机会主义者对制度存续并无内在偏好，绝不承担公开违法或对抗的政治成本（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 23–24]]）。
-> - 不等于 颠覆者（Subversives） — 颠覆者具备明确消灭旧体制的长期意图，短期伪装成模范合规者潜伏运作，旨在通过[[Institutional Layering|制度层叠]]架空旧核心；机会主义者无意消灭制度，其重定向转用纯粹受私人收益驱动（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 25–26]]）。
+> - 不等于 [[Insurrectionaries|起义者]]（Insurrectionaries） — 起义者明确否定旧体制合法性，长期目标为彻底推翻旧制度，短期采取公开违规策略；机会主义者对制度存续并无内在偏好，绝不承担公开违法或对抗的政治成本（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 23–24]]）。
+> - 不等于 [[Subversives|颠覆者]]（Subversives） — 颠覆者具备明确消灭旧体制的长期意图，短期伪装成模范合规者潜伏运作，旨在通过[[Institutional Layering|制度层叠]]架空旧核心；机会主义者无意消灭制度，其重定向转用纯粹受私人收益驱动（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 25–26]]）。
 > - 不等于 [[Opportunist Mode|机会主义模式]] — 机会主义模式指微观教育分流场域中优势阶层大学生的求职发展出路（目标掌控+弱价值信念）；机会主义者在此特指宏观与中观政治经济博弈中的制度变革行动者角色。
 
 ---
@@ -72,9 +75,9 @@ updated: 2026-10-11
 > [!contrast-table] 四类制度变革行动者的行为特征与偏好取向（Table 1.3）
 > | 行动者类别 | 追求维系既有制度（长期意图） | 遵守既有制度规则（短期策略） | 核心博弈行为与演进导向 | 主导驱动的变迁形态 |
 > |---|---|---|---|---|
-> | **起义者（Insurrectionaries）** | 否 | 否 | 明确否定旧体制合法性，公开动员并打破规则；以推翻旧制度为目标 | [[Institutional Displacement\|制度置换]] |
-> | **共生者（Symbionts）** | 是 | 否（寄生型）／表面违规维护实质（互利型） | 自身依附旧制度繁荣；寄生型利用漏洞违规套利并阻挠规则更新；互利型违规护本 | [[Institutional Drift\|制度漂移]] |
-> | **颠覆者（Subversives）** | 否 | 是 | 隐瞒推翻旧制度真实意图，伪装成模范守法者；体制内长期蛰伏，在边缘赞助新规则层叠 | [[Institutional Layering\|制度层叠]] |
+> | **[[Insurrectionaries\|起义者]]（Insurrectionaries）** | 否 | 否 | 明确否定旧体制合法性，公开动员并打破规则；以推翻旧制度为目标 | [[Institutional Displacement\|制度置换]] |
+> | **[[Symbionts\|共生者]]（Symbionts）** | 是 | 否（寄生型）／表面违规维护实质（互利型） | 自身依附旧制度繁荣；寄生型利用漏洞违规套利并阻挠规则更新；互利型违规护本 | [[Institutional Drift\|制度漂移]] |
+> | **[[Subversives\|颠覆者]]（Subversives）** | 否 | 是 | 隐瞒推翻旧制度真实意图，伪装成模范守法者；体制内长期蛰伏，在边缘赞助新规则层叠 | [[Institutional Layering\|制度层叠]] |
 > | **机会主义者（Opportunists）** | 模棱两可（视收益而定） | 模棱两可（视风险而定） | 对制度无忠诚亦无反叛，不愿承担改革成本；顺应风向利用规则裁量权行重新部署转用 | [[Institutional Conversion\|制度转换]] |
 
 ---

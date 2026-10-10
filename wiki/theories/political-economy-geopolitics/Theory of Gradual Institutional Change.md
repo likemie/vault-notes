@@ -8,10 +8,10 @@ aliases:
 summary: "历史制度主义核心理论，由马奥尼与希伦系统建构；主张制度本质上是具有分配性权力后果的安排，将遵从与执行视为核心解释变量；通过政治环境否决可能性与制度解释裁量权两个维度，系统解释置换、层叠、漂移与转换四类内生渐进演进模式及四类微观变革行动者策略。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 14
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 19
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/institutionalism
   - theme/institutional-change
@@ -28,6 +28,8 @@ related_concepts:
   - "[[Institutional Layering]]"
   - "[[Institutional Conversion]]"
   - "[[Avatar]]"
+  - "[[Enforcement Discretion]]"
+  - "[[Baptist-Bootlegger Coalition]]"
 related_theories:
   - "[[Disjointed Pluralism]]"
 related_methods:
@@ -90,7 +92,7 @@ updated: 2026-10-11
 > | **[[Institutional Drift\|制度漂移]]** | 变迁形态 | 刻画规则文本形式冻结，但面对外部环境变迁因行动者策略性不作为导致保护效能衰退的机制。 |
 > | **[[Institutional Conversion\|制度转换]]** | 变迁形态 | 刻画规则形式保持不变，行动者策略性利用模糊性将其转用于全新政策目标的机制。 |
 > | **否决可能性（Veto Possibilities）** | 解释变量 | 衡量政治环境中维持现状阵营阻挠正式修法与政策更新的制度化权力阻力。 |
-> | **解释与执行裁量权（Discretion）** | 解释变量 | 衡量成文规约在日常司法判决与行政执法过程中留给执行主体的操作空间。 |
+> | **[[Enforcement Discretion|解释与执行裁量权]]（Discretion）** | 解释变量 | 衡量成文规约在日常司法判决与行政执法过程中留给执行主体的操作空间。 |
 > | **变革行动者四分类（Change Agents）** | 微观机制 | 提炼[[Insurrectionaries|起义者]]、[[Subversives|颠覆者]]、[[Symbionts|共生者]]与[[Opportunists|机会主义者]]四类微观策略角色，桥接结构与能动性。 |
 
 ---
@@ -108,12 +110,12 @@ updated: 2026-10-11
 > **应用实例** 美国 1964 年《民权法》平等就业机会委员会（EEOC）条款在国会被保守派严重妥协削弱，但执法官僚敏锐抓住条文缝隙，策略性将诉讼推向法院并借助司法扩张解释，将羸弱机构反向塑造为全球最强规制体系之一。（示例：Lieberman 民权法案例，pp. 13–14）
 
 > [!theory-proposition] 命题三｜政治否决阻力与制度裁量空间共同决定四类渐进变迁模式
-> **解释** 政治环境中维持现状支持者的否决门槛（强/弱）与制度在落实中的解释执行裁量空间（高/低）构成双维属性空间，系统决定了四类演进路径：强否决+低裁量驱动制度层叠；强否决+高裁量驱动制度漂移；弱否决+低裁量驱动制度置换；弱否决+高裁量驱动制度转换。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 18–22)]]
+> **解释** 政治环境中维持现状支持者的否决门槛（强/弱）与制度在落实中的[[Enforcement Discretion|解释执行裁量空间]]（高/低）构成双维属性空间，系统决定了四类演进路径：强否决+低裁量驱动制度层叠；强否决+高裁量驱动制度漂移；弱否决+低裁量驱动制度置换；弱否决+高裁量驱动制度转换。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 18–22)]]
 >
 > **应用实例** 日本自民党面对城市化人口迁移，在强否决保护下故意不重新划分选区，任由农村票仓代表性被动放大，展现了高裁量与强否决环境下的典型制度漂移。（示例：日本选举区维持案例，p. 17）
 
 > [!theory-proposition] 命题四｜结构环境筛选出优势变革行动者，变迁推进依赖跨阵营政治联盟
-> **解释** 宏观制度环境通过筛选微观行动者的偏好取向产生因果效力；将行动者的长期制度诉求（维系/废除）与其短期遵从行为（守法/违规）分离，推导出[[Insurrectionaries|起义者]]驱动置换、[[Subversives|颠覆者]]驱动层叠、[[Symbionts|共生者]]驱动漂移、[[Opportunists|机会主义者]]驱动转换的匹配逻辑；由于制度享有现状惯性偏误，任何行动者单打独斗均无法破局，成功演进取决于拉拢中立机会主义者或构建隐蔽同盟。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 22–31)]]
+> **解释** 宏观制度环境通过筛选微观行动者的偏好取向产生因果效力；将行动者的长期制度诉求（维系/废除）与其短期遵从行为（守法/违规）分离，推导出[[Insurrectionaries|起义者]]驱动置换、[[Subversives|颠覆者]]驱动层叠、[[Symbionts|共生者]]驱动漂移、[[Opportunists|机会主义者]]驱动转换的匹配逻辑；由于制度享有现状惯性偏误，任何行动者单打独斗均无法破局，成功演进取决于拉拢中立机会主义者或构建隐蔽同盟（如[[Baptist-Bootlegger Coalition|浸礼会与私酒贩同盟]]）。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 22–31)]]
 >
 > **应用实例** 巴西军政府时期激进卫生改革者作为“颠覆者”，表面顺从威权政策，在基层利用内地扩张缝隙层叠建立自治诊所网络，直至民主化时刻彻底浮出水面。（示例：Falleti 巴西卫生改革案例，pp. 26, 30–31）
 
@@ -143,7 +145,7 @@ updated: 2026-10-11
 > | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
 > |:---|:---|:---|:---|
 > | **权力分配命题**<br>（Mahoney & Thelen, 2009, pp. 8–10） | **制度利益偏向与动员平衡**<br>该制度赋予谁特权、剥夺谁的利益？维持现状需要既得利益者投入哪些动员资源？ | 预算拨款流向、立法游说记录、受损群体的抗争与上诉档案。 | 出现受损者在其他优势领域调动资源逆向挑战当前制度时，支持内生利益失衡假说。 |
-> | **规则模糊性命题**<br>（Mahoney & Thelen, 2009, pp. 10–14） | **解释与执行裁量缝隙**<br>成文规则是否存在原则性抽象表述？日常执法是否脱离了立法者的控制？ | 司法判例演进线索、行政自由裁量权指导手册、监管检查松紧度记录。 | 出现判例偏离立法初衷或官僚选择性执法时，支持规则裁量缝隙存在。 |
+> | **规则模糊性命题**<br>（Mahoney & Thelen, 2009, pp. 10–14） | **[[Enforcement Discretion|解释与执行裁量缝隙]]**<br>成文规则是否存在原则性抽象表述？日常执法是否脱离了立法者的控制？ | 司法判例演进线索、行政自由裁量权指导手册、监管检查松紧度记录。 | 出现判例偏离立法初衷或官僚选择性执法时，支持规则裁量缝隙存在。 |
 > | **双维矩阵命题**<br>（Mahoney & Thelen, 2009, pp. 18–22） | **否决阻力与裁量空间测量**<br>政治体制中存在多少否决点？规则本身的刚性程度如何？ | 宪制否决权设置、议会多党联合阻力、法律法条技术明晰度。 | 强否决+低裁量判定为层叠；强否决+高裁量判定为漂移；弱否决+低裁量判定为置换；弱否决+高裁量判定为转换。 |
 > | **行动者与联盟命题**<br>（Mahoney & Thelen, 2009, pp. 22–31） | **变革者角色与联盟策略**<br>主导变革者是公开抗争、蛰伏合规还是相机抉择？如何拉拢中立派？ | 政治行动者的公开声明与私下策略纪要、跨党派妥协协议文本。 | 表面合规但暗中推新规支持[[Subversives|颠覆者]]；公开违规支持[[Insurrectionaries|起义者]]；利用漏洞套利支持[[Symbionts|共生者]]；摇摆倒戈支持[[Opportunists|机会主义者]]。 |
 

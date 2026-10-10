@@ -8757,6 +8757,18 @@
     ]
   },
   {
+    "title": "Baptist-Bootlegger Coalition",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Baptist-Bootlegger Coalition.md",
+    "aliases": [
+      "浸礼会与私酒贩同盟",
+      "浸礼教徒与私酒贩同盟",
+      "浸礼会与走私贩同盟",
+      "浸礼会-私酒贩联盟",
+      "baptist bootlegger alliance"
+    ]
+  },
+  {
     "title": "Bonsai Army",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Bonsai Army.md",
@@ -8949,6 +8961,19 @@
       "嵌入型网络治理",
       "网络架构重塑",
       "re-architecting social networks"
+    ]
+  },
+  {
+    "title": "Enforcement Discretion",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Enforcement Discretion.md",
+    "aliases": [
+      "解释与执行裁量权",
+      "执行裁量权",
+      "规则裁量权",
+      "制度裁量空间",
+      "rule discretion",
+      "institutional discretion"
     ]
   },
   {

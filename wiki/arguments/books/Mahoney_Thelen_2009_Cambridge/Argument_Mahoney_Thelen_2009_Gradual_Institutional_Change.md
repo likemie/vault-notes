@@ -7,9 +7,9 @@ title: "Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change"
 argument_key: "Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change"
 argument_display_title: "A theory of gradual institutional change"
 argument_kind: "book-chapter"
-argument_related_count: 25
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
 authors:
   - "[[James Mahoney|Mahoney, J.]]"
@@ -41,6 +41,8 @@ related_concepts:
   - "[[Insurrectionaries]]"
   - "[[Subversives]]"
   - "[[Symbionts]]"
+  - "[[Enforcement Discretion]]"
+  - "[[Baptist-Bootlegger Coalition]]"
   - "[[Hypothesis]]"
   - "[[Document]]"
   - "[[Variable]]"
@@ -83,7 +85,7 @@ updated: 2026-10-11
 > [!concept-lens] 阅读透镜
 > - **对象** 现代政治经济体制中的正式规约与组织安排，涵盖宪法条款、国会规则、社会保障、劳资关系与土地产权制度。
 > - **张力** 制度持久稳态假定与现实渐进质变之间的冲突；外生危机解释范式与微观内生演变现实之间的脱节；机械的赢家输家对立与复杂的日常策略遵从之间的张力。
-> - **贡献** 创立[[Theory of Gradual Institutional Change|渐进制度变迁理论]]；确立以权力分配、制度模糊性与依从裁量权为核心的[[Analytic Framework|分析框架]]；提出变迁模式与行动者类型的双维解释矩阵。
+> - **贡献** 创立[[Theory of Gradual Institutional Change|渐进制度变迁理论]]；确立以权力分配、制度模糊性与[[Enforcement Discretion|依从裁量权]]为核心的[[Analytic Framework|分析框架]]；提出变迁模式与行动者类型的双维解释矩阵。
 
 ---
 
@@ -98,7 +100,7 @@ updated: 2026-10-11
 > | **[[Disjointed Pluralism\|脱节多元主义]]**<br>[[Disjointed Pluralism]] | 理论启发来源。揭示制度并非单一集团纯粹设计的理性产物，而是历史中多元妥协碎片拼合的复合体，内部充满模糊性与操作缝隙。 |
 
 > [!warrant]- 理论如何支撑论证
-> 理论工具箱首先将制度从中立的技术协调工具还原为承载资源偏向的权力分配安排，确立了变迁动力的内生性；随后将规则模糊性与依从裁量权引入分析，解释了行动者为何能在不打破现有体制的情况下展开策略博弈；最终通过否决结构与裁量空间双重维度，将宏观政治约束与微观策略选择紧密连接，推导出系统的因果解释。（pp. 8–15）
+> 理论工具箱首先将制度从中立的技术协调工具还原为承载资源偏向的权力分配安排，确立了变迁动力的内生性；随后将规则模糊性与[[Enforcement Discretion|依从裁量权]]引入分析，解释了行动者为何能在不打破现有体制的情况下展开策略博弈；最终通过否决结构与裁量空间双重维度，将宏观政治约束与微观策略选择紧密连接，推导出系统的因果解释。（pp. 8–15）
 
 ---
 
@@ -109,7 +111,7 @@ updated: 2026-10-11
 > |---|---|
 > | **制度主义学术史批判**<br>Comparative Institutionalist Critique | 梳理社会学、理性选择与历史制度主义在变迁解释上的共同局限，反思外生危机[[Hypothesis\|假设]]，提炼制度稳定性的政治动员前提。（pp. 4–7） |
 > | **长时段比较历史案例考证**<br>Comparative-Historical Case Analysis | 考证英国上议院演进、美国社会保障立法、法国劳资关系、日本议会选区与肯尼亚土地产权等案例，作为因果机制的经验检验。（pp. 1–3, 11–28） |
-> | **类型学因果建模**<br>Typological Modeling | 提炼政治否决可能性（强/弱）与解释执行裁量权（高/低）双维属性空间，逻辑推导四类演进模式与四类行动者角色的匹配亲和性。（pp. 15, 28） |
+> | **类型学因果建模**<br>Typological Modeling | 提炼政治否决可能性（强/弱）与[[Enforcement Discretion|解释执行裁量权]]（高/低）双维属性空间，逻辑推导四类演进模式与四类行动者角色的匹配亲和性。（pp. 15, 28） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -336,7 +338,7 @@ updated: 2026-10-11
 > | 行动者类别 | 与制度支持者结盟 | 与制度挑战者结盟 | 核心政治联盟逻辑与级联效应 |
 > |---|---|---|---|
 > | **[[Insurrectionaries\|起义者]]** | 否 | 是 | 必须在制度反对派中广泛联合；胜败关键在于能否向中立的机会主义者证明变革不可逆，从而触发倒戈级联。（pp. 30–31） |
-> | **[[Symbionts\|共生者]]** | 是 | 否 | 充当现状保卫者的天然盟友；但因其实质利益与主流保卫者冲突，常结成奇特的利益同盟（如浸礼会与私酒贩同盟）。（p. 31） |
+> | **[[Symbionts\|共生者]]** | 是 | 否 | 充当现状保卫者的天然盟友；但因其实质利益与主流保卫者冲突，常结成奇特的利益同盟（如[[Baptist-Bootlegger Coalition\|浸礼会与私酒贩同盟]]）。（p. 31） |
 > | **[[Subversives\|颠覆者]]** | 否（公开层面） | 否（公开层面） | 隐蔽政治意图，如地下室白蚁般潜伏运作；极力避免过早与激进起义者公开串联以防遭清洗。 |
 > | **[[Opportunists\|机会主义者]]** | 是／否（相机抉择） | 是／否（相机抉择） | 构成政治博弈的关键摇摆票；当起义者打破势均力敌僵局时，机会主义者的集体倒戈将形成不可逆的变革浪潮。（p. 30） |
 
@@ -346,7 +348,7 @@ updated: 2026-10-11
 > - **隐蔽意图与合规假象** 图利亚·法莱蒂（Tulia Falleti）考证表明，巴西从集权医疗体制转向全民分散体制并非民主化后的突发产物；在军政府独裁时期，激进卫生改革者作为颠覆者（Subversives），表面顺从军政府卫生政策，未诉诸暴力对抗。（pp. 26, 30–31）
 > - **白蚁式边缘层叠** 他们敏锐利用军政府向内地扩张医疗网络的缝隙，在基层市镇悄然建立自治管理试点；他们如地下室白蚁般将新规则层叠于旧体制内，直到民主化时刻全面浮出水面。（pp. 26, 31）
 
-> [!case] 经验案例八：共生者与守旧者结盟典范——浸礼会与私酒贩同盟（Jacobs 案例）
+> [!case] 经验案例八：共生者与守旧者结盟典范——[[Baptist-Bootlegger Coalition|浸礼会与私酒贩同盟]]（Jacobs 案例）
 > - **利益对立者的奇特结盟** 在美国禁酒令政治中，出于道德禁酒的浸礼会与谋取暴利的黑市私酒贩共同支持维持禁酒法律。这一逻辑在福利国家发展中同样成立。
 > - **跨党派巩固社会保障制度** 艾伦·雅各布斯（Alan Jacobs）发现，1950年代社会进步派（希望扩权）与财政保守派（希望限支）不可思议地联合起来捍卫缴费型融资，共同抵御激进财政补贴方案。（p. 31）
 
