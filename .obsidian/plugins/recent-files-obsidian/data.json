@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Kratsios_2026_OSTP",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md"
+    },
+    {
+      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic",
+      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md"
+    },
+    {
       "basename": "Argument_Sobe_Fischer_2009_MobilityMigration",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Sobe_Fischer_2009_MobilityMigration.md"
     },
@@ -161,10 +169,6 @@
       "path": "wiki/concepts/university-industry-collaboration/Competitiveness.md"
     },
     {
-      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic",
-      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md"
-    },
-    {
       "basename": "Zhuo_2026_ICE",
       "path": "sources/Zhuo_2026_ICE.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "National Science Foundation",
       "path": "wiki/facts/us/National Science Foundation.md"
-    },
-    {
-      "basename": "Kenneth Burke",
-      "path": "wiki/persons/us/Kenneth Burke.md"
     }
   ],
   "omittedPaths": [],
