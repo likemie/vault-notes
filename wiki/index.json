@@ -9181,6 +9181,17 @@
     ]
   },
   {
+    "title": "Institutional Layering",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Institutional Layering.md",
+    "aliases": [
+      "制度分层",
+      "制度层叠",
+      "制度叠加",
+      "layering"
+    ]
+  },
+  {
     "title": "Intellectual Capital",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Intellectual Capital.md",
@@ -25193,6 +25204,17 @@
     ]
   },
   {
+    "title": "Kathleen Thelen",
+    "type": "person",
+    "path": "wiki/persons/us/Kathleen Thelen.md",
+    "aliases": [
+      "凯瑟琳·希伦",
+      "凯瑟琳·瑟伦",
+      "Thelen, K.",
+      "Kathleen Ann Thelen"
+    ]
+  },
+  {
     "title": "Kathryn Anderson-Levitt",
     "type": "person",
     "path": "wiki/persons/us/Kathryn Anderson-Levitt.md",
@@ -35729,6 +35751,11 @@
     "title": "Argument_Jovchevski_2026_PT",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Philosophy & Technology/Argument_Jovchevski_2026_PT.md"
+  },
+  {
+    "title": "Argument_VanDerHeijden_2011_Politics",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Politics/Argument_VanDerHeijden_2011_Politics.md"
   },
   {
     "title": "Argument_Fan_Song_Zhai_2024_RSEE",

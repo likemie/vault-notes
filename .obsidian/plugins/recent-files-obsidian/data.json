@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_VanDerHeijden_2011_Politics",
+      "path": "wiki/arguments/journal-articles/Politics/Argument_VanDerHeijden_2011_Politics.md"
+    },
+    {
       "basename": "Argument_Sobe_Fischer_2009_MobilityMigration",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Sobe_Fischer_2009_MobilityMigration.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Innovation Ecosystem",
       "path": "wiki/concepts/university-industry-collaboration/Innovation Ecosystem.md"
-    },
-    {
-      "basename": "CHIPS and Science Act",
-      "path": "wiki/facts/us/CHIPS and Science Act.md"
     }
   ],
   "omittedPaths": [],

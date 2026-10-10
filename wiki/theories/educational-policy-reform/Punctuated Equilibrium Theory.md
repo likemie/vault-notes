@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-26
-updated: 2026-10-09
+updated: 2026-10-11
 ---
 
 # Punctuated Equilibrium Theory
@@ -180,7 +180,7 @@ updated: 2026-10-09
 > > [!axis] 突变解释与渐进演进的[[Ontology|本体论]]争议
 > > 批评者质疑间断突变是否只是表面立法现象，深层实践变革本质上依然是渐进的。
 > >
-> > - **历史制度主义批评视角** 强调制度演进具有强烈的[[Path Dependence|路径依赖]]（Path Dependency）与层叠（Layering）特征，立法上的剧变往往伴随着基层执行机制对旧模式的隐蔽延续。
+> > - **历史制度主义批评视角** 强调制度演进具有强烈的[[Path Dependence|路径依赖]]与[[Institutional Layering|制度分层]]特征，宏观法案突变往往伴随着底层执行机制中新旧规则的长期层叠共生；[[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] 进一步指出制度分层通过聚焦行动者与规制工具变量，具备沟通突变模型与渐进演进模型的整合分析价值。
 > > - **间断均衡理论辩护** 强调[[Bounded Rationality|有限理性]]导致注意力瓶颈必然呈现断裂跳跃，宏观法案与管辖权的断裂式重组重构了后续演化的游戏规则。
 > >
 > > - **结构[[Determinism|决定论]]** 认为 2008 年金融大衰退与奥巴马政府执政等外生大环境才是打破垄断的唯一决定性因素。
@@ -199,9 +199,11 @@ updated: 2026-10-09
 > | [[Innovation Policy Paradigms]] | Theory | 创新政策从[[Market Failure\|市场失灵]]修补（Frame 1/2）向使命导向塑造（Frame 3）跃迁是间断均衡理论在科技政策中的生动展现。 |
 > | [[Policy Entrepreneur]] | Concept | 间断均衡理论中负责重构政策形象、捕捉注意力与开展[[Venue Shopping\|制度场所转换]]的核心行动主体。 |
 > | [[Theories of Policy Change]] | Concept | 间断均衡理论所属的宏观政策变迁理论家族。 |
+> | [[Institutional Layering]] | Concept | 历史制度主义解释渐进变迁的代表性机制，与间断均衡理论的外生突变模型形成互补并由行动者/工具变量形成桥接。 |
 > | [[Mission-Oriented Innovation Policy]] | Concept | 依靠颠覆性议程重构与跨部门治理场所开辟突破传统研发税收垄断的新政策形态。 |
 > | [[Common Core State Standards]] | Fact (Policy) | 间断均衡理论在当代教育研究中最为经典的实证案例之一，展现各州标准垄断的破局过程。 |
 > | [[Race to the Top]] | Fact (Program) | 政策倡导者开展场所转换与动员外生财政杠杆、将采纳进程急剧压缩为间断突变的核心国家工程。 |
 > | [[American Federation of Teachers]] | Fact (Organization) | 方案制定阶段行使把关权、影响政策垄断重塑的重要专业利益共同体。 |
 > | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | Argument | 明确将断裂平衡理论与政策垄断框架应用于全美 CCSS 推进全[[Process Tracing\|过程追踪]]的核心[[Document\|文献]]。 |
 > | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | Argument | 探讨使命导向创新政策如何打破传统新古典垄断并重塑国家能力的代表性文献。 |
+> | [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]] | Argument | 评述制度分层概念并论证其在行动者与工具变量层面弥合间断均衡与渐进演变理论分歧的分析文献。 |
