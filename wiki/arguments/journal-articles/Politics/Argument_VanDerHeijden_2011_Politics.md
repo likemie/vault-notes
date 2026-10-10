@@ -18,10 +18,13 @@ tags:
   - theme/comparative-politics
   - theme/governance
 related_concepts:
+  - "[[Research Contribution]]"
   - "[[Institutional Layering]]"
-  - "[[Attrition]]"
-  - "[[Document]]"
   - "[[Variable]]"
+  - "[[Attrition]]"
+  - "[[Regulatory Ratchet]]"
+  - "[[Document]]"
+  - "[[Composite-Standard Model]]"
   - "[[Paradigm]]"
   - "[[Operationalization]]"
   - "[[Epistemology]]"
@@ -36,13 +39,14 @@ related_theories:
   - "[[Punctuated Equilibrium Theory]]"
   - "[[Path Dependence]]"
   - "[[Realist Evaluation]]"
-  - "[[Pluralism]]"
+  - "[[Disjointed Pluralism]]"
 related_methods:
   - "[[Case Study]]"
   - "[[Analytic Framework]]"
   - "[[Critical Review]]"
 related_instruments: []
 related_persons:
+  - "[[Jeroen van der Heijden]]"
   - "[[Kathleen Thelen]]"
   - "[[Ray Pawson]]"
 related_facts: []
@@ -59,7 +63,7 @@ title: "Argument_VanDerHeijden_2011_Politics"
 argument_key: "Argument_VanDerHeijden_2011_Politics"
 argument_display_title: "Institutional layering: A review of the use of the concept"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -73,13 +77,20 @@ issuing_organization: ""
 
 ---
 
+> [!author-profile] 作者学术定位与[[Research Contribution|研究贡献]]
+> - **著者** [[Jeroen van der Heijden|耶伦·范德海登]]（Jeroen van der Heijden），荷兰公共管理与规制治理学者，任教于代尔夫特理工大学与牛津大学政治与国际关系学系。
+> - **研究传统** 比较历史制度主义、规制治理（Regulatory Governance）与公共政策分析。
+> - **核心贡献** 解构[[Kathleen Thelen|凯瑟琳·希伦]]（Thelen）[[Institutional Layering|制度层叠]]概念的思想前史，归纳制度层叠的三大历史传统，划定制度变迁与制度再生产的分析边界，并提出以行动者和政策工具为中观解释[[Variable|变量]]弥合间断均衡与渐变理论鸿沟。
+
+---
+
 ## 研究问题
 
 > [!question]
 > 长期以来制度分析被外生重大冲击打破长期惰性稳态与内生微观主体持续推动微小调整两种割裂视角主导；作为解释渐进制度变迁的热门分析工具，[[Institutional Layering|制度层叠]]（Institutional Layering）在当代研究中经历着持续的语义宽泛化与随意改编，导致其作为分析工具的比较优势面临[[Attrition|流失]]危险。
 
 > [!claim] 核心主张
-> 制度层叠概念本身并不属于某一学者的固化专利，而是经历六十年演化、由行动者增厚、规制棘轮向双重叠加推进的思想传统；当代[[Document|文献]]将层叠误用于描述制度核心巩固与制度再生产的做法削弱了其分析效力，但只要将层叠聚焦于被叠加的行动者与规制工具这两类具体解释[[Variable|变量]]，它便具备弥合[[Punctuated Equilibrium Theory|间断均衡理论]]（Punctuated Equilibrium Theory）与渐进变迁视角理论鸿沟的根本分析潜能。
+> 制度层叠概念本身并不属于某一学者的固化专利，而是经历六十年演化、由行动者增厚、[[Regulatory Ratchet|规制棘轮]]向双重叠加推进的思想传统；当代[[Document|文献]]将层叠误用于描述制度核心巩固与制度再生产的做法削弱了其分析效力，但只要将层叠聚焦于被叠加的行动者与规制工具这两类具体解释[[Variable|变量]]，它便具备弥合[[Punctuated Equilibrium Theory|间断均衡理论]]（Punctuated Equilibrium Theory）与渐进变迁视角理论鸿沟的根本分析潜能。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 跨越经济学、法学、社会学、政治学与公共行政学等学科，考察 60 年间（1944–2010）涉及层叠概念的 166 篇期刊文献、理论专著以及涵盖荷兰建筑规制、欧洲联盟（European Union, EU）预算与规制空间、互联网协议标准的代表性实证案例。
@@ -115,7 +126,7 @@ issuing_organization: ""
 > | 样本层面 | 构成 |
 > |---|---|
 > | **文本样本** | 涵盖经济学、法学、社会学、政治学、公共政策与公共行政学等学科的 166 篇期刊论文与代表性理论专著。（p. 16） |
-> | **经验案例** | 荷兰住房法案执行演化（Van der Heijden et al., 2007）、欧盟预算体系（Ackrill & Kay, 2006）、欧盟规制网络（Thatcher & Coen, 2008）、互联网复合标准模型（Boas, 2007）等典型个案。（pp. 10, 13） |
+> | **经验案例** | 荷兰住房法案执行演化（Van der Heijden et al., 2007）、欧盟预算体系（Ackrill & Kay, 2006）、欧盟规制网络（Thatcher & Coen, 2008）、互联网[[Composite-Standard Model\|复合标准模型]]（Boas, 2007）等典型个案。（pp. 10, 13） |
 > | **材料情境** | 跨越战后公共行政扩张期、1980 年代规制国家兴起期及 2000 年代历史制度主义深化期。（pp. 14–16） |
 
 ---
@@ -181,7 +192,7 @@ issuing_organization: ""
 ### 论证步骤二　制度层叠植根于六十年跨学科研究并演化出三类具象的累积形态
 
 > [!claim] 步骤二核心主张
-> [[Kathleen Thelen|凯瑟琳·希伦]]并非层叠概念的绝对起点，而是当代发展的关键枢纽；层叠概念在长达六十年的学术史中形成了行动者增厚、规制棘轮与双重叠加三类清晰演化支脉。（pp. 11–12, 14–15）
+> [[Kathleen Thelen|凯瑟琳·希伦]]并非层叠概念的绝对起点，而是当代发展的关键枢纽；层叠概念在长达六十年的学术史中形成了行动者增厚、[[Regulatory Ratchet|规制棘轮]]与双重叠加三类清晰演化支脉。（pp. 11–12, 14–15）
 
 #### 1. 希伦吸收国会妥协与时间性研究并将层叠界定为改变行为结构的边际累加
 
@@ -199,7 +210,7 @@ issuing_organization: ""
 > [!theory-origin] 希伦层叠概念的理论渊源与形成路径
 > - **提出者与原始文本** 凯瑟琳·希伦（Thelen, 2003, 2004）在历史制度主义理论框架中系统提出制度层叠概念。（p. 11）
 > - **原初问题** 既有制度框架难以推倒重来，但政策目标与现实运行出现缝隙，改革者如何在制度否决点约束下推动演变。
-> - **理论资源与材料** 埃里克·希克勒（Schickler, 2001b）对美国国会委员会制度演化的研究（脱节[[Pluralism|多元主义]]），以及奥伦与斯科夫罗内克（Orren & Skowronek, 1994）关于多重历史时间性与制度碎片共存的理论命题。
+> - **理论资源与材料** 埃里克·希克勒（Schickler, 2001b）对美国国会委员会制度演化的研究（[[Disjointed Pluralism|脱节多元主义]]），以及奥伦与斯科夫罗内克（Orren & Skowronek, 1994）关于多重历史时间性与制度碎片共存的理论命题。
 > - **形成路径** 提炼多元政治妥协在既有结构之上的边际附加逻辑，确立增新而不废旧的渐进重塑机制。
 
 在此理论渊源之上，希伦对层叠内涵的界定经历了从边缘修补到行为重塑的深化过程。（p. 11）
@@ -230,14 +241,14 @@ issuing_organization: ""
 > | 演进传统 | 核心机制与侧重 | 代表学者与文献 | 典型治理后果与理论隐喻 |
 > |---|---|---|---|
 > | **行动者增厚**<br>（Thickening） | **纵向与横向增设组织主体**<br>在联邦、州与地方多级层级中叠加新机构，或引入私营与非营利主体。 | Eugene Belisle (1944); Lawrence Herson (1961); Neil Chamberlain (1969); Paul Light (1995) | **多手问题与管辖模糊**<br>层级重叠削弱治理责任，导致丹尼斯·汤普森（Denis Thompson, 1980）提出的多手问题（Problem of Many Hands）与管辖权冲突（Brenner, 1975）。（p. 14） |
-> | **规制棘轮**<br>（Regulatory Ratchet） | **横向与纵向叠加规制条文**<br>在既有法律体系顶端不断增设新规章、标准与审查细则。 | Clifton Kreps (1966); Eugene Bardach & Robert Kagan (1982); Richard Florida & Martin Kenney (1992) | **单向加码与合规负担**<br>规制如同单向棘轮只增不减，导致规则系统极度复杂冗余甚至陷入治理失能。（pp. 14–15） |
+> | **[[Regulatory Ratchet\|规制棘轮]]**<br>（Regulatory Ratchet） | **横向与纵向叠加规制条文**<br>在既有法律体系顶端不断增设新规章、标准与审查细则。 | Clifton Kreps (1966); Eugene Bardach & Robert Kagan (1982); Richard Florida & Martin Kenney (1992) | **单向加码与合规负担**<br>规制如同单向棘轮只增不减，导致规则系统极度复杂冗余甚至陷入治理失能。（pp. 14–15） |
 > | **双重叠加**<br>（Actors & Instruments） | **同时增设新载体与新工具**<br>面对行政困境，既引入新型组织实体，又配套新型管理工具与财政契约。 | Bruce Smith (1983); Jamie Peck (1998); Kathleen Thelen (2004); James Mahoney & Kathleen Thelen (2010) | **系统复合杂合化**<br>新旧管理装置在同一制度空间复杂交织，开启深层结构重塑。（p. 15） |
 
 这三大演变传统分别扎根于战后行政扩张、规制国家兴起与公共治理转型的具体历史情境。（pp. 14–15）
 
 > [!evidence-grid] 三大传统的代表性经验证据与历史情境
 > - **行动者增厚：战后多级行政扩张与多手问题** 尤金·贝利斯尔（Belisle, 1944）考证战后联邦与州市多层机构增设；丹尼斯·汤普森（Thompson, 1980）与保罗·莱特（Light, 1995）进一步揭示引入私营与非营利主体导致职权割裂与多手问题（[[Problem of Many Hands]]），引发治理责任稀释。（p. 14）
-> - **规制棘轮：危机驱动的合规条文单向加码** 克雷普斯（Kreps, 1966）揭示大萧条后银行业监管层层加盖；理查德·佛罗里达与马丁·肯尼（Florida & Kenney, 1992）发现钢铁工会规则繁琐失控；尤金·巴达克与罗伯特·卡根（Bardach & Kagan, 1982）以机械棘轮隐喻规则只增不减导致的治理失能。（pp. 14–15）
+> - **[[Regulatory Ratchet|规制棘轮]]：危机驱动的合规条文单向加码** 克雷普斯（Kreps, 1966）揭示大萧条后银行业监管层层加盖；理查德·佛罗里达与马丁·肯尼（Florida & Kenney, 1992）发现钢铁工会规则繁琐失控；尤金·巴达克与罗伯特·卡根（Bardach & Kagan, 1982）以机械棘轮隐喻规则只增不减导致的治理失能。（pp. 14–15）
 > - **双重叠加：公共服务供给中的组织与工具复合** 布鲁斯·史密斯（Smith, 1983）系统解剖美国公共服务在公营公司、非营利组织与表外融资契约上的层叠演化，证实新旧组织与管理工具叠床架屋反致公共行政的系统性协调失灵。（p. 15）
 
 ---
@@ -254,7 +265,7 @@ issuing_organization: ""
 > [!critique-logic] 当代经验研究对层叠概念的逻辑偏离与概念漂移（p. 13）
 > - **欧盟预算体系的时空层叠改造（Ackrill & Kay, 2006）** 将层叠拆分为空间维度（中东欧新成员国加入）与时间维度（预算基本法规延续）；但外围新成员的加入非但没有改变既有利益格局，反倒让原有的共同农业政策和结构基金支出轨道更加固化。
 > - **欧盟规制空间的制度核心强化（Thatcher & Coen, 2008）** 提出制度核心假说，指出欧盟设立的跨国独立监管网络充当了一道防震缓冲带，把外部市场冲击挡在门外，让核心制度的演进轨迹完全不受干扰。
-> - **互联网复合标准模型（Boas, 2007）** 类比互联网技术演进，将底层传输控制协议/网际协议（Transmission Control Protocol/Internet Protocol, TCP/IP）视作核心，将上层简单邮件传输协议（Simple Mail Transfer Protocol, SMTP）、超文本传输协议（Hypertext Transfer Protocol, HTTP）与对等网络（Peer-to-Peer, P2P）视作外围。博阿斯提出厚度商概念：外围协议越繁荣，底层 TCP/IP 的网络正反馈效益越大，转换成本高到不可承受，从而将核心协议彻底锁死。
+> - **互联网[[Composite-Standard Model|复合标准模型]]（Boas, 2007）** 类比互联网技术演进，将底层传输控制协议/网际协议（Transmission Control Protocol/Internet Protocol, TCP/IP）视作核心，将上层简单邮件传输协议（Simple Mail Transfer Protocol, SMTP）、超文本传输协议（Hypertext Transfer Protocol, HTTP）与对等网络（Peer-to-Peer, P2P）视作外围。博阿斯提出厚度商概念：外围协议越繁荣，底层 TCP/IP 的网络正反馈效益越大，转换成本高到不可承受，从而将核心协议彻底锁死。
 
 #### 2. 混淆变迁与加固使得层叠概念丧失解释制度转型的理论比较优势
 
@@ -301,7 +312,7 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **层叠概念兼具可塑性与深厚思想渊源** 层叠概念经历六十年演变，绝非希伦一人的孤立创造，而是由行动者增厚、规制棘轮向双重叠加不断推进的深厚学术传统。（pp. 11, 14–15）
+> 1. **层叠概念兼具可塑性与深厚思想渊源** 层叠概念经历六十年演变，绝非希伦一人的孤立创造，而是由行动者增厚、[[Regulatory Ratchet|规制棘轮]]向双重叠加不断推进的深厚学术传统。（pp. 11, 14–15）
 > 2. **当代经验应用存在严重的制度再生产误判** 当代学者常以层叠之名分析欧洲联盟一体化或互联网治理，但其实质揭示的是外围层叠对核心结构的加固与制度再生产，混淆了变迁与强化的理论界限。（pp. 13–14）
 > 3. **行动者与工具[[Variable|变量]]具备超越抽象理论对立的桥梁价值** 层叠将因果机制具象化为新行动者与新规制工具的附加过程，能够有效桥接[[Punctuated Equilibrium Theory|间断均衡理论]]与渐进制度演化理论的二元鸿沟。（p. 16）
 
@@ -319,7 +330,7 @@ issuing_organization: ""
 >
 > *Layering occurs when new rules are attached to existing ones, thereby changing the ways in which the original rules structure behaviour.*
 
-> [!citation-card] 规制棘轮隐喻对工具叠加的刻画
+> [!citation-card] [[Regulatory Ratchet|规制棘轮]]隐喻对工具叠加的刻画
 > 规则与分类体系经过漫长时间层层累积，如今变得异常复杂与混乱，甚至对身处其中工作与管理的人也是如此。（p. 15）
 >
 > *system of rules and classifications has built up layer after layer over a long period and is now extraordinarily complicated and confusing, even for those who work and manage within it*

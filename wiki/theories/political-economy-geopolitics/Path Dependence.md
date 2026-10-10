@@ -9,7 +9,7 @@ aliases:
 summary: "由 David 与 Arthur 奠基、经 Pierson 扩展至制度分析的演化经济学与制度主义核心理论；阐明历史偶然事件在规模报酬递增、自我强化机制、网络外部性与高转换成本驱动下，如何将技术轨道、产业标准或组织制度锁定于特定均衡；在半导体与高教领域，揭示高校通过“教育即标准”将开源架构内生化为全球产业生态路径依赖的微观机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 26
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
   - "[[Industry Affiliate Program]]"
+  - "[[Composite-Standard Model]]"
   - "[[Institutional Layering]]"
   - "[[Research Question]]"
   - "[[Innovation Policy Paradigms]]"
@@ -126,7 +127,7 @@ updated: 2026-10-11
 > **应用实例** 美国长期依赖离岸代工与精益全球供应链的半导体产业政策模式，在面临供应链中断危机前具有强大的制度惯性；直至 2022 年《[[CHIPS and Science Act|芯片与科学法案]]》出台，联邦政府才通过立法强行打破纯市场驱动的依赖路径，重构国家干预与有组织科研体系。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–20)]]
 
 > [!theory-proposition] 命题四｜外围应用生态的繁荣叠加通过高厚度商将底层标准推向绝对路径锁定
-> **解释** 传统路径依赖理论多强调单一技术采纳在时间序列中的早期优势与报酬递增；而在复合技术标准与复杂制度体系中，外围应用层对底层核心协议的层层叠加，构建起强大的网络正反馈护城河。博阿斯（Taylor Boas, 2007）提出的“厚度商”（Thickness Quotient）揭示出：外围图层开发越活跃、使用者越广泛，底层核心标准所享有的转换壁垒就越高，任何试图用新一代更优协议替代底层核心的努力都将因不可承受的系统重构成本而宣告失败，使底层结构深陷于外围赋能的刚性锁定中。这一机制常被经验研究误读为[[Institutional Layering|制度层叠]]，其实质构成了典型的路径依赖自我强化与制度再生产。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 13)]]
+> **解释** 传统路径依赖理论多强调单一技术采纳在时间序列中的早期优势与报酬递增；而在复合技术标准与复杂制度体系中，外围应用层对底层核心协议的层层叠加，构建起强大的网络正反馈护城河。博阿斯（Taylor Boas, 2007）在[[Composite-Standard Model|复合标准模型]]中提出的“厚度商”（Thickness Quotient）揭示出：外围图层开发越活跃、使用者越广泛，底层核心标准所享有的转换壁垒就越高，任何试图用新一代更优协议替代底层核心的努力都将因不可承受的系统重构成本而宣告失败，使底层结构深陷于外围赋能的刚性锁定中。这一机制常被经验研究误读为[[Institutional Layering|制度层叠]]，其实质构成了典型的路径依赖自我强化与制度再生产。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 13)]]
 >
 > **应用实例** 互联网通信协议演进：尽管早期传输控制协议/网际协议（TCP/IP）在设计之初存在数据传输安全性不足、地址资源有限等固有缺陷，但由于数十年间全球在上层开发出海量电子邮件（SMTP）、超文本网页浏览（HTTP）与对等网络（P2P）数据传输应用（高厚度商），导致全球网络向理论上更健全的替代协议迁移的转换成本高到不可估量，从而将底层 TCP/IP 标准彻底锁死为全球信息社会的绝对基础设施。
 

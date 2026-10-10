@@ -9,7 +9,7 @@ summary: "麻省理工学院政治学讲席教授、美国文理科学院院士�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -31,7 +31,7 @@ related_concepts:
   - "[[Document]]"
 related_theories:
   - "[[Varieties of Capitalism]]"
-  - "[[Pluralism]]"
+  - "[[Disjointed Pluralism]]"
   - "[[Path Dependence]]"
   - "[[Punctuated Equilibrium Theory]]"
 related_methods:
@@ -39,7 +39,8 @@ related_methods:
   - "[[Critical Review]]"
   - "[[Correlational Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Jeroen van der Heijden]]"
 related_facts:
   - "[[Chinese Academy of Sciences]]"
   - "[[American Association for the Advancement of Science]]"
@@ -95,7 +96,7 @@ updated: 2026-10-11
 > - **2000年代初 — 渐进变迁理论构建与技能体系演化** 突破历史制度主义早期将制度视为自我强化稳态、变迁全依赖关键节点（Critical Junctures）的理论瓶颈，提出在制度缝隙中的边际重塑理论。
 >   - **代表著作** *How Institutions Evolve: The Political Economy of Skills in Germany, Britain, the United States, and Japan* (2004); *Beyond Continuity* (2005, with W. Streeck)。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 11–12)]]
 >   - **关键概念／方法** [[Institutional Layering|制度层叠]]（Layering）、制度转换（Conversion）、修正案赞助。
->   - **阶段转向** 吸纳埃里克·希克勒（Eric Schickler, 2001）对美国国会委员会制度演化的研究（脱节[[Pluralism|多元主义]]），将制度理解为多元妥协与碎片并存的历史复合物。
+>   - **阶段转向** 吸纳埃里克·希克勒（Eric Schickler, 2001）对美国国会委员会制度演化的研究（[[Disjointed Pluralism|脱节多元主义]]），将制度理解为多元妥协与碎片并存的历史复合物。
 > - **2010年代及以后 — 制度变迁类型学定型与自由化多样性** 融合行动者偏好、依从类型与制度权力属性，形成完整的渐进演化因果解释模型，并运用于当代欧美福利体制与数字经济变迁分析。
 >   - **代表著作** *Explaining Institutional Change* (2010, with J. Mahoney); *Varieties of Liberalization and the New Politics of Social Solidarity* (2014)。
 >   - **关键概念／方法** 制度漂移（Drift）、制度替代（Displacement）、被附加的规则、自由化轨迹。
@@ -134,8 +135,8 @@ updated: 2026-10-11
 
 > [!person-network] 关系网络
 > - **师承／合作者** 斯温·施泰因莫（Sven Steinmo）— 1990年代早期合作奠基历史制度主义；沃尔夫冈·施特雷克（Wolfgang Streeck）— 2005年合著合编系统提出渐进变迁分类学；詹姆斯·马奥尼（James Mahoney）— 2010年合作完成行动者类型与变迁模式整合框架。
-> - **学术启发源** 埃里克·希克勒（[[Education Resources Information Center|ERIC]] Schickler）— 其国会委员会演进研究为希伦提供了脱节[[Pluralism|多元主义]]与边际妥协机制的思想源泉；凯伦·奥伦与斯蒂芬·斯科夫罗内克（Karen Orren & Stephen Skowronek）— 其历史时间性命题深化了希伦关于制度是多重历史碎片共存体的认识。
-> - **反思与批评者** Jeroen van der Heijden — 开展跨学科[[Critical Review|批判性文献综述]]，指出当代学者在引用希伦时出现概念漂移，将保护既有核心的制度再生产误读为分层变迁，倡导聚焦行动者与工具[[Variable|变量]]。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 12–16)]]
+> - **学术启发源** 埃里克·希克勒（[[Education Resources Information Center|ERIC]] Schickler）— 其国会委员会演进研究为希伦提供了[[Disjointed Pluralism|脱节多元主义]]与边际妥协机制的思想源泉；凯伦·奥伦与斯蒂芬·斯科夫罗内克（Karen Orren & Stephen Skowronek）— 其历史时间性命题深化了希伦关于制度是多重历史碎片共存体的认识。
+> - **反思与批评者** [[Jeroen van der Heijden]] — 开展跨学科[[Critical Review|批判性文献综述]]，指出当代学者在引用希伦时出现概念漂移，将保护既有核心的制度再生产误读为层叠变迁，倡导聚焦行动者与工具[[Variable|变量]]。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 12–16)]]
 > - **理论对话者** 弗兰克·鲍姆加特纳与布莱恩·琼斯（Frank Baumgartner & Bryan Jones）— 其[[Punctuated Equilibrium Theory|间断均衡理论]]强调外生重大危机驱动的断裂，与希伦强调的内生渐变构成当代制度分析的两大核心对话阵营。
 
 ---

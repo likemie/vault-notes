@@ -8813,6 +8813,17 @@
     ]
   },
   {
+    "title": "Composite-Standard Model",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Composite-Standard Model.md",
+    "aliases": [
+      "复合标准模型",
+      "复合技术标准模型",
+      "复合标准路径依赖模型",
+      "composite standard model"
+    ]
+  },
+  {
     "title": "Consumer Internet",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Consumer Internet.md",
@@ -9557,6 +9568,17 @@
       "红绳现象",
       "形式主义规章",
       "官僚繁文缛节"
+    ]
+  },
+  {
+    "title": "Regulatory Ratchet",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Regulatory Ratchet.md",
+    "aliases": [
+      "规制棘轮",
+      "监管棘轮",
+      "规制累积",
+      "规制棘轮效应"
     ]
   },
   {
@@ -16215,6 +16237,16 @@
     ]
   },
   {
+    "title": "Disjointed Pluralism",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Disjointed Pluralism.md",
+    "aliases": [
+      "脱节多元主义",
+      "脱节多元论",
+      "脱节多元主义理论"
+    ]
+  },
+  {
     "title": "End of History Thesis",
     "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/End of History Thesis.md",
@@ -22784,6 +22816,16 @@
     "aliases": [
       "Biesta, G.",
       "格特·比斯塔"
+    ]
+  },
+  {
+    "title": "Jeroen van der Heijden",
+    "type": "person",
+    "path": "wiki/persons/netherlands/Jeroen van der Heijden.md",
+    "aliases": [
+      "范德海登",
+      "耶伦·范德海登",
+      "Van der Heijden, J."
     ]
   },
   {

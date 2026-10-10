@@ -12,7 +12,7 @@ aliases:
 summary: "弗兰克·R·鲍姆加特纳与布莱恩·D·琼斯于1993年提出的公共政策变迁经典理论；指出大多数公共政策在绝大多数时期处于由专属制度场所与正面政策形象构筑的政策垄断稳态之中，但当政策企业家通过重构政策形象并开展制度场所转换时，长期惰性稳态将在短时间内发生断裂式剧变。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 41
+theory_related_count: 42
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -58,6 +58,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Herbert A. Simon]]"
+  - "[[Jeroen van der Heijden]]"
 related_facts:
   - "[[Common Core State Standards]]"
   - "[[TIMSS]]"
@@ -106,7 +107,7 @@ updated: 2026-10-11
 > [!dev-timeline] 理论版本与贡献
 > - **1993 年 — 原初奠基** 鲍姆加特纳与琼斯系统确立政策垄断、[[Policy Image|政策形象]]与制度场所三大核心构件，解释美国国内政策子系统的稳态与破裂。
 > - **2005 年 — 跨国比较议程项目（[[Industry Affiliate Program|CAP]]）扩展** 琼斯与鲍姆加特纳等人将研究推向比较议程项目（Comparative Agendas Project, CAP），在西欧多国检验间断均衡的普遍性，证实信息处理摩擦是导致所有民主体制预算与立法呈现厚尾分布（Kurtosis）与间断跳跃的根本成因。
-> - **2011 年 — [[Epistemology|认识论]]审视与微观机制桥接** 范德海登（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]]）系统反思间断均衡论缺乏客观变迁幅度与时间尺度标尺的局限，论证宏观外生危机要落地为持久制度现实必须依赖微观新行动者与新规制工具的层叠，确立分层作为弥合突变论与渐进论鸿沟的关键桥梁。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10, 16)]]
+> - **2011 年 — [[Epistemology|认识论]]审视与微观机制桥接** [[Jeroen van der Heijden|范德海登]]（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]]）系统反思间断均衡论缺乏客观变迁幅度与时间尺度标尺的局限，论证宏观外生危机要落地为持久制度现实必须依赖微观新行动者与新规制工具的层叠，确立分层作为弥合突变论与渐进论鸿沟的关键桥梁。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10, 16)]]
 > - **2013 年 — 教育政策生命周期应用** 洛兰·M·麦克唐奈（Lorraine M. McDonnell）与 M·斯蒂芬·韦瑟福德（M. Stephen Weatherford）将理论引入全美[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）运动研究，阐明[[Policy Entrepreneur|政策企业家]]如何在政策生命周期中将实证差距指标与两党规范价值相结合，摧毁各州分散割裂的百年政策垄断。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–10)]]
 > - **2018 年至今 — 科技与产业创新[[Paradigm|范式]]拓展** 间断均衡逻辑被广泛引入科技创新政策研究，解释二战后主流“[[Market Failure|市场失灵]]修补/研发税收减免”政策垄断如何在气候危机与地缘竞争冲击下被打破，进而间断式跃升为[[Mission-Oriented Innovation Policy|使命导向创新政策]]（Frame 3 范式）。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
 
@@ -186,7 +187,7 @@ updated: 2026-10-11
 > > [!axis] 突变解释与渐进演进的理论对立与机制弥合
 > > 批评者质疑间断突变是否只是表面立法现象，深层实践变革本质上依然是渐进的。
 > >
-> > - **历史制度主义批评视角** 强调制度演进具有强烈的[[Path Dependence|路径依赖]]与[[Institutional Layering|制度层叠]]特征，宏观法案突变往往伴随着底层执行机制中新旧规则的长期层叠共生；范德海登（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]]）指出间断均衡论缺乏变迁幅度与时间跨度的[[Operationalization|操作化]]阈值，极易陷入证实偏差，而聚焦被添加的行动者与规制工具[[Variable|变量]]能够有效沟通突变模型与渐进模型。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10, 16)]]
+> > - **历史制度主义批评视角** 强调制度演进具有强烈的[[Path Dependence|路径依赖]]与[[Institutional Layering|制度层叠]]特征，宏观法案突变往往伴随着底层执行机制中新旧规则的长期层叠共生；[[Jeroen van der Heijden|范德海登]]（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]]）指出间断均衡论缺乏变迁幅度与时间跨度的[[Operationalization|操作化]]阈值，极易陷入证实偏差，而聚焦被添加的行动者与规制工具[[Variable|变量]]能够有效沟通突变模型与渐进模型。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10, 16)]]
 > > - **间断均衡理论辩护** 强调[[Bounded Rationality|有限理性]]导致注意力瓶颈必然呈现断裂跳跃，宏观法案与管辖权的断裂式重组重构了后续演化的游戏规则。（Baumgartner & Jones, 1993）
 >
 > > [!axis] 结构性外生危机 vs [[Policy Entrepreneur|政策企业家]]行动能动的动因之争

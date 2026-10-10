@@ -8,7 +8,7 @@ aliases:
 summary: "指在多元行动者共同参与的复杂决策网络与层叠制度中，由于行动者增厚与权责边界重叠，导致无法将系统后果归咎于任何单一主体的责任困境与治理病理。"
 type: concept
 domain: "science-policy"
-related_count: 12
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Wicked Problem]]"
   - "[[Problem Finding]]"
+  - "[[Regulatory Ratchet]]"
   - "[[Argument Mapping]]"
 related_theories: []
 related_arguments:
@@ -36,6 +37,8 @@ related_arguments:
   - "[[Argument_VanDerHeijden_2011_Politics]]"
 related_methods:
   - "[[Correlational Research]]"
+related_persons:
+  - "[[Jeroen van der Heijden]]"
 confidence: high
 status: draft
 created: 2026-10-03
@@ -150,8 +153,8 @@ updated: 2026-10-11
 > [!concept-lens] [[Institutional Layering|制度层叠]]与行动者增厚的病理演化
 > 探讨公共行政与规制体制在长期演化中，通过不断叠加组织主体应对治理挑战，如何反向导致权力层级重叠、管辖界限模糊与系统性责任稀释。
 
-> [!claim] Van der Heijden, J.
-> **行动者层叠增厚诱发多手难题与管辖权模糊** [[Institutional Layering|制度层叠]]在其长期的学术演化中，存在着一条从行动者增厚（Thickening）到规制棘轮的清晰演进脉络。从战后行政机构在不同地理层级上的持续增设（Belisle, 1944），到在既有规制体系中引入私营部门与非营利组织，政府始终倾向于通过添加行动者来应对新问题。然而，这种层叠并未带来治理效能的线性增长，反而因多层权威（Layers of Authority）与规制图层的相互重叠，制造了严重的管辖权模糊不清（Unclearness of Jurisdiction）与责任边界淡化（Blurring of Responsibilities；Brenner, 1975）。这种制度增厚与重叠使得行政系统陷入典型的多手难题，最终削弱了公共权力的整体问责能力。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
+> [!claim] [[Jeroen van der Heijden|Van der Heijden, J.]]
+> **行动者层叠增厚诱发多手难题与管辖权模糊** [[Institutional Layering|制度层叠]]在其长期的学术演化中，存在着一条从行动者增厚（Thickening）到[[Regulatory Ratchet|规制棘轮]]的清晰演进脉络。从战后行政机构在不同地理层级上的持续增设（Belisle, 1944），到在既有规制体系中引入私营部门与非营利组织，政府始终倾向于通过添加行动者来应对新问题。然而，这种层叠并未带来治理效能的线性增长，反而因多层权威（Layers of Authority）与规制图层的相互重叠，制造了严重的管辖权模糊不清（Unclearness of Jurisdiction）与责任边界淡化（Blurring of Responsibilities；Brenner, 1975）。这种制度增厚与重叠使得行政系统陷入典型的多手难题，最终削弱了公共权力的整体问责能力。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
 
 > [!claim] Light, P.
 > **政府增厚加剧官僚官阶重叠与归责断层** 现代政府在面对危机时往往采取增设专门委员会、副职岗位或监督实体的分层策略，导致官僚层级体系的厚度不断累加。这种增厚表面上强化了专业监管，实质上却在行动者之间拉长了指令链条，使一线执行者的专业裁量与顶层官员的政治问责彻底脱节，形成了谁都在监管却谁都不承担系统后果的结构性免责机制。
@@ -176,7 +179,7 @@ updated: 2026-10-11
 > - **1980 — 政治伦理学正式命名** 丹尼斯·汤普森（Dennis F. Thompson）在 *American Political Science Review* 发表经典论文，首次界定政府官员道德责任中的多手难题，批判庞大行政系统中责任随决策链条消散的困境。
 > - **1995 — 政府增厚与科层病理批判** 保罗·莱特（Paul Light）提出“政府增厚”（Thickening of Government）理论，揭示官僚层级不断添加行动者导致管辖权重叠与推诿加剧。
 > - **2008 — 引入公共政策与[[Wicked Problem|棘手问题]]研究** 布赖恩·黑德（Brian W. Head）将该概念用于剖析公共政策领域[[Wicked Problem|棘手问题]]（Wicked Problems）的治理失灵。
-> - **2011 — 融入[[Institutional Layering|制度层叠]]与变迁理论** 范德海登（Jeroen van der Heijden）将多手难题与制度层叠（Institutional Layering）中的“行动者增厚”传统建立理论联结，[[Argument Mapping|论证图]]层重叠是诱发责任模糊与管辖冲突的内在机制。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
+> - **2011 — 融入[[Institutional Layering|制度层叠]]与变迁理论** [[Jeroen van der Heijden|范德海登]]（Jeroen van der Heijden）将多手难题与制度层叠（Institutional Layering）中的“行动者增厚”传统建立理论联结，[[Argument Mapping|论证图]]层重叠是诱发责任模糊与管辖冲突的内在机制。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
 > - **2012 — 扩展至工程伦理与科技治理** 范德波尔（Ibo van de Poel）等学者将其拓展到复杂工程系统、算法决策与人工智能等前沿技术风险的责任分配分析中。
 > - **2020 — 融入使命政策系统复杂性诊断** 万岑伯克（Iris Wanzenböck）等人将多手难题作为评估重大社会挑战系统复杂性的核心指标与跨部门协调失灵的诊断工具。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 476–477)]]
 

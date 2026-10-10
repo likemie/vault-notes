@@ -8,7 +8,7 @@ aliases:
 summary: "历史制度主义与政策变迁分析中的渐进制度变迁核心机制；指在不废除或替换既有制度结构的前提下，通过向既有制度框架中附加新规则、新行动者、新政策工具或新管理程序，随时间推移逐步改变原有制度地位、行为结构与治理后果的演进过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,9 +21,11 @@ tags:
 related_concepts:
   - "[[Venue Shopping]]"
   - "[[Problem of Many Hands]]"
+  - "[[Regulatory Ratchet]]"
   - "[[Variable]]"
   - "[[Document]]"
   - "[[Paradigm]]"
+  - "[[Composite-Standard Model]]"
   - "[[Operationalization]]"
 related_theories:
   - "[[Punctuated Equilibrium Theory]]"
@@ -35,6 +37,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Kathleen Thelen]]"
+  - "[[Jeroen van der Heijden]]"
   - "[[Ray Pawson]]"
 related_facts: []
 related_arguments:
@@ -88,7 +91,7 @@ updated: 2026-10-11
 
 > [!feature] 制度层叠的历史演进传统与构成维度
 > - **官僚与行动者增厚（Thickening: adding actors）** 在既有行政层级中不断增设新机构、职能部门、私营或非营利主体，导致权力层级重叠并引发责任稀释的多手问题（[[Problem of Many Hands]]）。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
-> - **规制棘轮与工具叠加（Regulatory ratchet: adding instruments）** 在既有法律法规体系之上持续叠加密集的新细则、审查要求与合规规程，使制度体系如同单向棘轮般日益繁复庞杂。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 14–15)]]
+> - **[[Regulatory Ratchet|规制棘轮]]与工具叠加（Regulatory ratchet: adding instruments）** 在既有法律法规体系之上持续叠加密集的新细则、审查要求与合规规程，使制度体系如同单向棘轮般日益繁复庞杂。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 14–15)]]
 > - **行动者与工具双重叠加（Adding actors and instruments）** 面对公共治理困境，改革者同时引入新型组织载体与新型管理工具，在双重层叠中逐步推动整体制度生态的质性重构。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 15)]]
 
 > [!factors] 层叠因果机制聚焦的核心解释[[Variable|变量]]
@@ -139,7 +142,7 @@ updated: 2026-10-11
 > [!concept-lens] 制度变迁与制度再生产的边界划分维度
 > 审视当代经验[[Document|文献]]对层叠概念的宽泛化应用，界定外围层叠究竟是推动了制度转型，还是充当护城河强化了既有制度核心。
 
-> [!claim] Van der Heijden, J.
+> [!claim] [[Jeroen van der Heijden|Van der Heijden, J.]]
 > **变迁与再生产的理论边界** 层叠必须随时间推移导致原有规则地位、结构或规约行为方式的质性改变；若在外围叠加新机构或新标准仅仅充当了吸收外部震荡的防震缓冲带，反倒强化了既有制度核心并推高了转换成本（如互联网 TCP/IP 协议的高厚度商与欧盟预算锁定），该现象实质属于制度再生产与制度加固，绝不能泛化贴上层叠变迁的标签。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 12–14)]]
 
 ---
@@ -169,9 +172,9 @@ updated: 2026-10-11
 
 > [!dev-timeline] 概念演变
 > - **1940年代–1970年代 — 官僚层级增厚研究** 早期行政学[[Document|文献]]使用层叠描述多级政府机构层级扩张与职权叠加，重点揭示多层管辖权冲突与责任模糊问题。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
-> - **1980年代–1990年代 — 规制累积与工具增多** 规制研究引入层叠描述法律与劳动规制条款的层层加码，凝练出规制棘轮（Regulatory Ratchet）隐喻，揭示合规体系的过度复杂化负担。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 14–15)]]
+> - **1980年代–1990年代 — [[Regulatory Ratchet|规制累积]]与工具增多** 规制研究引入层叠描述法律与劳动规制条款的层层加码，凝练出[[Regulatory Ratchet|规制棘轮]]（Regulatory Ratchet）隐喻，揭示合规体系的过度复杂化负担。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 14–15)]]
 > - **2000年代初 — 希伦奠定历史制度主义核心机制** [[Kathleen Thelen|凯瑟琳·希伦]]（[[Kathleen Thelen]]）等学者将层叠提升为历史制度主义四大渐进变迁支柱之一，系统界定其通过增设规则改变原有规则行为结构的机制内涵。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 11–12)]]
-> - **2010年代及以后 — 概念漂移检视与理论桥梁重构** 学界出现宽泛套用层叠的概念漂移现象；范德海登（Van der Heijden）等学者开展系统学术史考证，厘清层叠边界并倡导将其作为弥合间断均衡与渐进演化理论的因果分析工具。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–16)]]
+> - **2010年代及以后 — 概念漂移检视与理论桥梁重构** 学界出现宽泛套用层叠的概念漂移现象；[[Jeroen van der Heijden|范德海登]]（Van der Heijden）等学者开展系统学术史考证，厘清层叠边界并倡导将其作为弥合间断均衡与渐进演化理论的因果分析工具。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–16)]]
 
 ---
 
@@ -179,12 +182,12 @@ updated: 2026-10-11
 
 > [!evidence-grid] 制度层叠的代表性经验案例（增新不废旧并驱动制度演化）
 > - **战后公共行政扩张（行动者增厚与[[Problem of Many Hands|多手难题]]）** 尤金·贝利斯尔（Belisle, 1944）、劳伦斯·赫森（Herson, 1961）、尼尔·张伯伦（Chamberlain, 1969）与保罗·莱特（Light, 1995）系统考证了在联邦、州与地方多级层级中持续增设新局署，以及在既有体制中引入私营与非营利主体；组织层叠造成权力重叠与责任稀释，印证了行动者增厚的制度成本与多手难题（[[Problem of Many Hands]]）。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
-> - **战后金融与劳工规制演进（规制棘轮与工具叠加）** 克利夫顿·克雷普斯（Kreps, 1966）揭示大萧条后银行业监管层层加盖；尤金·巴达克与罗伯特·卡根（Bardach & Kagan, 1982）以及理查德·佛罗里达与马丁·肯尼（Florida & Kenney, 1992）揭示规则只增不减形成规制棘轮（Regulatory Ratchet），使合规体系日益繁复庞杂。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 14–15)]]
+> - **战后金融与劳工规制演进（[[Regulatory Ratchet|规制棘轮]]与工具叠加）** 克利夫顿·克雷普斯（Kreps, 1966）揭示大萧条后银行业监管层层加盖；尤金·巴达克与罗伯特·卡根（Bardach & Kagan, 1982）以及理查德·佛罗里达与马丁·肯尼（Florida & Kenney, 1992）揭示规则只增不减形成[[Regulatory Ratchet|规制棘轮]]（Regulatory Ratchet），使合规体系日益繁复庞杂。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 14–15)]]
 > - **公共服务供给体制转型（组织与工具双重叠加）** 布鲁斯·史密斯（Smith, 1983）与[[Kathleen Thelen|凯瑟琳·希伦]]（Thelen, 2004）系统剖析美国公共服务在公营实体、非营利组织与表外融资契约上的层叠演化，证实新旧组织与新型管理工具的叠床架屋能够深刻重构公共行政的运行生态。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 15)]]
 > - **荷兰住房法建筑规制执行史（多维时空感知）** 展现微观建筑承包商感知到的剧烈突变、中观部门长达二十年的渐进谈判与宏观百年法理框架的边际微调，证明变迁定性取决于主体的制度位置与时间跨度。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10–11)]]
 
 > [!critique]- 反面概念辨析案例：被当代学者误读为“制度层叠”的制度再生产与[[Path Dependence|技术锁定]]
-> - **互联网技术标准复合模型（Boas, 2007 概念错置案例）** 泰勒·博阿斯虽借用 Thelen 的层叠概念描述在 TCP/IP 核心之上累加 SMTP、HTTP、P2P 等应用层标准，但范德海登（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, pp. 13–14]]）明确指出这属于典型的概念泛化与错置——外围应用协议的繁荣（高“厚度商”，Thickness Quotient）不仅没有改变或侵蚀底层核心，反而通过网络外部性极大地推高了转换成本、死锁了技术核心。这一机制本质属于**[[Path Dependence|路径依赖]]、制度再生产与制度加固（Institutional Reproduction & Reinforcement）**，绝非带来规则质变的制度层叠。
+> - **互联网[[Composite-Standard Model|复合标准模型]]（Boas, 2007 概念错置案例）** 泰勒·博阿斯虽借用 Thelen 的层叠概念描述在 TCP/IP 核心之上累加 SMTP、HTTP、P2P 等应用层标准，但[[Jeroen van der Heijden|范德海登]]（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, pp. 13–14]]）明确指出这属于典型的概念泛化与错置——外围应用协议的繁荣（高“厚度商”，Thickness Quotient）不仅没有改变或侵蚀底层核心，反而通过网络外部性极大地推高了转换成本、死锁了技术核心。这一机制本质属于**[[Path Dependence|路径依赖]]、制度再生产与制度加固（Institutional Reproduction & Reinforcement）**，绝非带来规则质变的制度层叠。
 > - **欧洲联盟预算与规制核心模型（Ackrill & Kay, 2006; Thatcher & Coen, 2008 概念错置案例）** 罗伯特·阿克里尔和阿德里安·凯在欧盟预算研究中、马克·撒切尔和大卫·科恩在规制核心研究中同样借用层叠概念，但新成员国加入或设立外围监管网络并未动摇欧盟既有核心规制轨道，外围图层反倒充当防震垫保护并巩固了旧核心，同样属于制度再生产而非制度层叠。（Ackrill & Kay, 2006; Thatcher & Coen, 2008）
 
 ---
@@ -197,7 +200,7 @@ updated: 2026-10-11
 > > 争论聚焦于外围图层的增加究竟是推动了制度转型，还是仅仅巩固了既有制度核心。
 > > 
 > > - **制度再生产与强化视角** 罗伯特·阿克里尔和阿德里安·凯（Ackrill & Kay, 2006）在欧洲联盟（European Union, EU）预算研究中、泰勒·博阿斯（Boas, 2007）在互联网标准复合模型研究中认为，叠加新成员或协议标准并未改变核心轨道，反而强化了制度核心并提升了转换壁垒。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 13)]]
-> > - **制度渐进变迁视角** [[Kathleen Thelen|凯瑟琳·希伦]]（Thelen, 2004）与范德海登（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]]）坚持层叠必须导致原有规则地位、结构或行为规约方式的质性改变，将加固核心的现象统称为层叠会丧失概念的分析效力。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–14)]]
+> > - **制度渐进变迁视角** [[Kathleen Thelen|凯瑟琳·希伦]]（Thelen, 2004）与[[Jeroen van der Heijden|范德海登]]（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]]）坚持层叠必须导致原有规则地位、结构或行为规约方式的质性改变，将加固核心的现象统称为层叠会丧失概念的分析效力。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–14)]]
 > 
 > > [!axis] 观察者位置与时间尺度导致的定性认知偏差
 > > 争论聚焦于同一项制度改革到底应定性为根本性突变还是边际性微调。
@@ -213,4 +216,4 @@ updated: 2026-10-11
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] 跨学科审视 60 年间 166 篇期刊[[Document|文献]]中层叠概念的演变传统，提炼行动者增厚、规制棘轮与双重叠加三类演化支脉，并反思当代应用混淆变迁与再生产的边界偏误。
+> - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] 跨学科审视 60 年间 166 篇期刊[[Document|文献]]中层叠概念的演变传统，提炼行动者增厚、[[Regulatory Ratchet|规制棘轮]]与双重叠加三类演化支脉，并反思当代应用混淆变迁与再生产的边界偏误。
