@@ -7,7 +7,7 @@ aliases:
 summary: "以相对风险规避为核心机制解释不同阶层教育选择差异的中层社会学理论，主张教育决策是个体在阶级约束条件下对成本、风险和收益的理性权衡。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 32
+theory_related_count: 35
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -48,18 +48,21 @@ related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Max Weber]]"
   - "[[Robert Arnove]]"
+  - "[[James Mahoney]]"
+  - "[[Kathleen Thelen]]"
 related_facts:
   - "[[Gaokao]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
+  - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
 related_instruments:
   - "[[Remote Associates Test]]"
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-08
+updated: 2026-10-11
 ---
 
 # Rational Action Theory
@@ -208,3 +211,4 @@ updated: 2026-10-08
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al. (2011)]] — 以 Goldthorpe（2007）的七步逻辑链条展示理性行动理论如何通过严谨的经验[[Falsification|证伪]]与队列分析排除竞争假说。
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 深入检验 [[Remote Associates Test|RAT]] 机制在中国一流高校大学生阶层分流与文化适应中的解释效力及其批判性边界。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合 Demerath (1999) 佩雷村[[Ethnography|民族志研究]]，系统论证微观行动者的文化能动性如何颠覆自上而下输入的现代文凭主义与西方成本效益计算。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 批判理性选择制度主义将规则遵从预设为静态均衡，揭示遵从与解释裁量权作为微观博弈变量的内生动力学。

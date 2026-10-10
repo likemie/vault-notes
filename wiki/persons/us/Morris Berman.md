@@ -2,7 +2,6 @@
 title: Morris Berman
 aliases:
   - 莫里斯·伯曼
-  - 伯曼
   - Berman, M.
 summary: "美国著名文化史学家、社会批评家，以“意识三部曲”与《美国文化的薄暮》著称，批判晚期资本主义文化衰退与过度解构主义对客观真理与智识传统的消解。"
 type: person
@@ -14,7 +13,7 @@ person_related_stars: ""
 person_related_color: "#e5e7eb"
 born: "1944"
 died: ""
-lifespan: "1944–至今"
+lifespan: 1944–至今
 tags:
   - person/cultural-history
   - person/social-criticism
@@ -37,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-11
 ---
 
 # Morris Berman
