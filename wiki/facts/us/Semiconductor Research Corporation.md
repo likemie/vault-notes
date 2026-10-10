@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 47
+fact_related_count: 48
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Total War]]"
   - "[[Precompetitive Research]]"
+  - "[[Electronic Design Automation]]"
   - "[[Paradigm]]"
   - "[[Heterogeneous Integration]]"
   - "[[Industry Affiliate Program]]"
@@ -123,7 +124,7 @@ updated: 2026-10-10
 > [!pathways]- 业务运行与知识产权共享机制
 > - **出资者强问责与精简运营** 与依赖国会拨款的公共机构不同，SRC 运作经费完全由成员企业按年缴纳的会费托底；若企业对资助成效不满可随时退出。这种问责压力倒逼 SRC 将管理间接费用严格控制在 13% 以下，并实行全流程透明高效的项目追踪。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 241, 252)]]
 > - **重要性与满意度双维评分（IS Score）** 成员企业对在研项目持续进行“重要性”与“满意度”乘积打分，联合体管理层根据综合得分动态调配预算流向、淘汰边缘课题或强化优势方向，确保科研始终紧密贴合产业实际痛点。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 250–251)]]
-> - **[[Precompetitive Research|前竞争研究]]边界划分** 将合作范围严格限定在前瞻性工艺物理、基础材料科学、EDA 算法与通用行业标准，坚决回避直接涉及芯片架构、商业产品设计等差异化竞争领域，从制度上消除企业间搭便车与商业泄密顾虑。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]
+> - **[[Precompetitive Research|前竞争研究]]边界划分** 将合作范围严格限定在前瞻性工艺物理、基础材料科学、[[Electronic Design Automation|EDA]] 算法与通用行业标准，坚决回避直接涉及芯片架构、商业产品设计等差异化竞争领域，从制度上消除企业间搭便车与商业泄密顾虑。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]
 > - **开放发表与非独占知识产权许可** 资助成果坚持完全公开学术发表原则，所有 SRC 成员企业均自动获得受资助成果的非独占、全球免版税使用许可（Non-exclusive, Royalty-free License），保障研究在全行业广泛扩散。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 754)]]
 > - **TECHCON 人才直聘管道** 每年举办半导体技术大会（TECHCON），受资助博士生直接向企业技术高管与招聘团队汇报最新成果并开展现场面试，使高层次人才吸纳成为企业出资最立竿见影的核心回报。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 245, 251)]]
 

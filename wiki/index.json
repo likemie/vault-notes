@@ -11750,6 +11750,19 @@
     ]
   },
   {
+    "title": "Digital Twin in Manufacturing",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Digital Twin in Manufacturing.md",
+    "aliases": [
+      "制造数字孪生",
+      "半导体制造数字孪生",
+      "虚拟晶圆厂",
+      "Fab Virtualization",
+      "数字孪生制造",
+      "Digital Twins in Semiconductor Manufacturing"
+    ]
+  },
+  {
     "title": "Directionality of Innovation",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Directionality of Innovation.md",
@@ -11792,6 +11805,19 @@
       "可计算研究笔记本",
       "Dynamic Research Notebooks",
       "Computational Research Notebook"
+    ]
+  },
+  {
+    "title": "Electronic Design Automation",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Electronic Design Automation.md",
+    "aliases": [
+      "电子设计自动化",
+      "EDA",
+      "Electronic Design Automation Tools",
+      "EDA Tools",
+      "高级综合",
+      "HLS"
     ]
   },
   {
@@ -13920,6 +13946,20 @@
       "产学多面关系",
       "Multi-Faceted UI Relationships",
       "多面合作关系"
+    ]
+  },
+  {
+    "title": "Multi-Project Wafer",
+    "type": "concept",
+    "path": "wiki/concepts/university-industry-collaboration/Multi-Project Wafer.md",
+    "aliases": [
+      "多项目晶圆",
+      "MPW",
+      "拼圆",
+      "拼圆服务",
+      "Multi-Project Wafer Service",
+      "多项目晶圆流片",
+      "晶圆拼版"
     ]
   },
   {
@@ -33207,6 +33247,17 @@
     ]
   },
   {
+    "title": "DARPA Toolbox Initiative",
+    "type": "fact",
+    "path": "wiki/facts/us/DARPA Toolbox Initiative.md",
+    "aliases": [
+      "工具箱计划",
+      "国防预研局工具箱计划",
+      "DARPA Toolbox",
+      "Toolbox Initiative"
+    ]
+  },
+  {
     "title": "Early Reading Intervention",
     "type": "fact",
     "path": "wiki/facts/us/Early Reading Intervention.md",
@@ -33482,6 +33533,17 @@
     ]
   },
   {
+    "title": "Materials Genome Initiative",
+    "type": "fact",
+    "path": "wiki/facts/us/Materials Genome Initiative.md",
+    "aliases": [
+      "材料基因组计划",
+      "MGI",
+      "材料基因工程",
+      "Materials Innovation Infrastructure"
+    ]
+  },
+  {
     "title": "Math Recovery",
     "type": "fact",
     "path": "wiki/facts/us/Math Recovery.md",
@@ -33553,6 +33615,28 @@
       "国家纳米技术协调基础设施",
       "NNCI",
       "美国国家纳米技术协调基础设施"
+    ]
+  },
+  {
+    "title": "National Nanotechnology Initiative",
+    "type": "fact",
+    "path": "wiki/facts/us/National Nanotechnology Initiative.md",
+    "aliases": [
+      "国家纳米技术倡议",
+      "NNI",
+      "国家纳米技术计划"
+    ]
+  },
+  {
+    "title": "Next-Generation Microsystems Manufacturing",
+    "type": "fact",
+    "path": "wiki/facts/us/Next-Generation Microsystems Manufacturing.md",
+    "aliases": [
+      "下一代微系统制造计划",
+      "NGMM",
+      "NGMM Program",
+      "下一代微系统制造",
+      "三维异构集成国家中试中心"
     ]
   },
   {

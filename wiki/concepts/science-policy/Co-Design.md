@@ -10,7 +10,7 @@ aliases:
 summary: "打破传统自上而下单向或离散工程壁垒，在微电子系统全生命周期中将底层物理材料、器件物理、制造工艺、高级封装、电路架构、算法软件直至终端应用需求进行全栈双向信息互通与联合优化的工程研发范式。"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Flow]]"
   - "[[Variable]]"
+  - "[[Electronic Design Automation]]"
   - "[[Computer Simulation]]"
   - "[[Document]]"
   - "[[Process Design Kit]]"
@@ -79,7 +80,7 @@ updated: 2026-10-10
 > | **信息流动模式** | 全栈多层级持续双向反馈与动态迭代 | 严格自顶向下或自底向上单向抽象传递 | 先行制造标准通用硬件，后期通过软件适配 |
 > | **约束边界处理** | 将制造、热学与安全约束作为前置优化[[Variable\|变量]] | 上下层通过固定设计规则（Design Rules）刚性隔离 | 在既有固定物理硬件约束下被动妥协 |
 > | **优化目标维度** | 算力、面积、能效、良率、安全与全生命周期成本 | 局部电路功能实现与标准单元面积压缩 | 快速推向市场与前期工程成本压缩 |
-> | **主要工具支撑** | 跨尺度物理模型、云端数字孪生与多物理场仿真 | 标准电子设计自动化（EDA）静态综合与验证工具 | 硬件仿真器与后仿真微调补丁 |
+> | **主要工具支撑** | 跨尺度物理模型、云端数字孪生与多物理场仿真 | 标准[[Electronic Design Automation\|电子设计自动化]]（EDA）静态综合与验证工具 | 硬件仿真器与后仿真微调补丁 |
 
 ---
 
@@ -132,7 +133,7 @@ updated: 2026-10-10
 > [!contrast-table] 协同设计核心命题概览
 > | 命题方向 | 核心论断 | 技术与政策意涵 | 代表[[Document\|文献]] |
 > |---|---|---|---|
-> | **物理与架构效能** | 跨尺度全栈双向反馈突破传统单片物理微缩收益递减瓶颈 | 推动先进电子设计自动化（EDA）与跨尺度仿真工具研发 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 10–16)]] |
+> | **物理与架构效能** | 跨尺度全栈双向反馈突破传统单片物理微缩收益递减瓶颈 | 推动先进[[Electronic Design Automation\|电子设计自动化]]（EDA）与跨尺度仿真工具研发 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 10–16)]] |
 > | **安全与系统可持续性** | 硬件信任根与全生命周期低碳参数必须在前置阶段内生嵌入 | 指导国防关键芯片与绿色半导体制造重大研发计划布局 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 18–20)]] |
 
 ---

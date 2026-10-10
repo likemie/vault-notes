@@ -12,9 +12,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 31
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 32
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 联邦跨部门制造业公私伙伴创新网络（PPP）
 headquarters: 美国马里兰州盖瑟斯堡（NIST AMNPO 协调办公室）及全美各研究所专属基地
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Apprenticeship]]"
   - "[[Research Universities]]"
   - "[[Industry Advisory Board]]"
+  - "[[Digital Twin in Manufacturing]]"
   - "[[Big Science]]"
   - "[[Innovation Ecosystem]]"
   - "[[Pilot Scale Platform]]"
@@ -121,7 +122,7 @@ updated: 2026-10-10
 > - **半导体与光电子中试枢纽**
 >   - **PowerAmerica（北卡州立大学牵头）** 攻坚碳化硅（SiC）与氮化镓（GaN）宽禁带功率半导体器件制造，加速电动汽车与电网能效革命。
 >   - **AIM Photonics（纽约州立大学/[[Albany NanoTech Complex|Albany NanoTech]] 牵头）** 推进硅光子集成电路晶圆级中试制造与光电协同封装。
->   - **半导体数字孪生制造研究所（CHIPS Manufacturing USA Institute）** 依据《[[CHIPS and Science Act|芯片法案]]》设立，研发晶圆制造与先进封装全生命周期的数字孪生[[Computer Simulation|虚拟仿真]]、智能工艺控制与高精度计量模型。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 39–43)]]
+>   - **半导体[[Digital Twin in Manufacturing|数字孪生制造]]研究所（CHIPS Manufacturing USA Institute）** 依据《[[CHIPS and Science Act|芯片法案]]》设立，研发晶圆制造与先进封装全生命周期的数字孪生[[Computer Simulation|虚拟仿真]]、智能工艺控制与高精度计量模型。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 39–43)]]
 > - **先进材料与增材制造矩阵**
 >   - **America Makes** 增材制造（3D 打印）国家先导研究所，制定航空航天与国防零部件 3D 打印材料标准。
 >   - **LIFT & IACMI** 攻坚轻量化金属合金与先进复合材料汽车结构件制造。

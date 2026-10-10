@@ -9,7 +9,7 @@ aliases:
 summary: "现代产业政策区别于20世纪以纠正市场失灵与追求经济效率为单一导向的传统产业政策；它深度交织了国家安全、地缘政治对抗、供应链韧性与去风险目标，综合运用巨额直接补贴、前置研发资助、投资审查、单边及多边出口管制、友岸外包、制度化附加条件与战略矿产反制等全方位政策工具包。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Technological Catch-up]]"
   - "[[Vertical Disintegration]]"
   - "[[Hypothesis]]"
+  - "[[Electronic Design Automation]]"
   - "[[Market Shaping and Creating]]"
   - "[[Policy Conditionalities]]"
   - "[[Public Value]]"
@@ -128,7 +129,7 @@ updated: 2026-10-10
 
 > [!feature] 现代产业政策的核心构成维度
 > - **巨额制造资本与研发补贴** 针对先进制程晶圆厂（Fab）单厂建设成本高达 200 亿美元的现实，通过数百亿美元规模的直接财政补助与税收抵免弥补跨国建厂成本劣势（如美国 390 亿美元制造补贴、欧盟 430 亿欧元计划）。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81, 97, 100)]]
-> - **先进制程技术与设备多边出口管制** 运用域外管辖与关键技术垄断（如极紫外光刻机、电子设计自动化软件），对竞争对手实施先进制程设备与算力芯片禁运，形成跨国管制联盟。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 98–100)]]
+> - **先进制程技术与设备多边出口管制** 运用域外管辖与关键技术垄断（如极紫外光刻机、[[Electronic Design Automation|电子设计自动化]]软件），对竞争对手实施先进制程设备与算力芯片禁运，形成跨国管制联盟。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 98–100)]]
 > - **护栏条款与地缘排他性限制** 规定受补贴企业在获得资金后十年内不得在特定竞争对手国家大幅扩建先进半导体制造产能，强制跨国供应链与战略对手脱钩。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 97)]]
 > - **制度化过程治理准则（Process Criteria）** 政策成败高度取决于如何实施（How），包括维持部门内竞争性、以公共激励撬动私人投资（Crowding in）、避免扶植单一全国冠军的投资组合进路（Portfolio approach）、基于[[Learning by Doing|干中学]]（Learning by doing）的动态调整弹性、全程透明度、分里程碑监测评估（M&E）以及未履约资金追回（Clawbacks）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–5)]]
 > - **[[Market Shaping and Creating|市场塑造]]附加条件（Market-Shaping [[Policy Conditionalities|Conditionalities]]）** 打破单纯弥补[[Market Failure|市场失灵]]的被动定位，将巨额公共资助与企业提供托儿服务、分享超额意外利润、限制股票回购、支付现行工资、雇佣注册学徒工及落实社区利益计划（Community Benefits Plan, CBP）等[[Public Value|公共价值]]目标深度绑定。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 8–11)]]
@@ -185,7 +186,7 @@ updated: 2026-10-10
 > 探讨现代高科技产业极端细分与专业化的全球网络如何瓦解封闭式国家冠军扶持逻辑。
 
 > [!claim] [[Argument_Bown_2024_JEP|Bown & Wang (2024)]]
-> **产业组织与政策工具失配** 现代半导体产业已由 1980 年代的纵向一体化模式全面演进为由核心 IP、EDA 软件、精密装备、无晶圆厂设计、晶圆代工与封装测试组成的跨国多阶段网络；在如此细分且相互高度依赖的全球供应链中，任何单一国家试图通过封闭式产业政策建立全栈自主可控的国家冠军都将面临极高技术门槛与协调成本，必须依赖跨国联盟与多边协同。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 86–90, 102)]]
+> **产业组织与政策工具失配** 现代半导体产业已由 1980 年代的纵向一体化模式全面演进为由核心 IP、[[Electronic Design Automation|EDA]] 软件、精密装备、无晶圆厂设计、晶圆代工与封装测试组成的跨国多阶段网络；在如此细分且相互高度依赖的全球供应链中，任何单一国家试图通过封闭式产业政策建立全栈自主可控的国家冠军都将面临极高技术门槛与协调成本，必须依赖跨国联盟与多边协同。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 86–90, 102)]]
 
 ---
 

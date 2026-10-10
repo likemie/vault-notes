@@ -29,6 +29,7 @@ related_concepts:
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Directionality of Innovation]]"
   - "[[Workforce Development]]"
+  - "[[Electronic Design Automation]]"
   - "[[Engineering Education]]"
   - "[[Research Translation]]"
   - "[[Corporate Education]]"
@@ -38,6 +39,7 @@ related_concepts:
   - "[[Valley of Death]]"
   - "[[Pilot Scale Platform]]"
   - "[[Anchor Institution]]"
+  - "[[Heterogeneous Integration]]"
   - "[[University-Industry Collaboration]]"
   - "[[Research Security]]"
   - "[[Academic Freedom]]"
@@ -80,9 +82,9 @@ title: "Argument_Zhuo_2026_ICE"
 argument_key: "Argument_Zhuo_2026_ICE"
 argument_display_title: "美国研究型大学在国家半导体体系中的角色重构"
 argument_kind: "journal-article"
-argument_related_count: 43
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "International and Comparative Education"
 book_title: ""
@@ -201,7 +203,7 @@ issuing_organization: ""
 > [!feature] [[Knowledge Production|知识生产]]与技术标准的内生耦合机制
 > - **实验室体制驱动前沿探索** 二战后确立的联邦科研资助驱动大学建立实验室体制，实现科学研究与博士研究生教育的高度整合，使前沿探索直接转化为人才能力结构的起点优势。（pp. 19–20）
 > - **教育即标准的技术扩散机制** 加利福尼亚大学伯克利分校在开源精简指令集（Reduced Instruction Set Computer - Five, RISC-V）上的研究表明，高校将开源指令集方案直接同步嵌入研究生课程体系与实验室训练，伴随高端人才流动在全美及全球扩散，产生规模收益递增与网络外部性（David, 1985），驱动技术标准锁定。（p. 20）
-> - **使命导向下的方向性塑造** 《[[CHIPS and Science Act|芯片与科学法案]]》规划未来 5 年投入约 2000 亿美元用于科学研究与创新体系建设，推动科技政策从市场驱动转向战略驱动（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）；[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）工程学学部（Directorate for Engineering, ENG）通过[[Engineering Research Centers|工程研究中心]]（Engineering Research Centers, ERCs）引导大学围绕半导体材料、电子设计自动化（Electronic Design Automation, EDA）工具与新型器件开展使命导向的有组织科研。（p. 20）
+> - **使命导向下的方向性塑造** 《[[CHIPS and Science Act|芯片与科学法案]]》规划未来 5 年投入约 2000 亿美元用于科学研究与创新体系建设，推动科技政策从市场驱动转向战略驱动（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）；[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）工程学学部（Directorate for Engineering, ENG）通过[[Engineering Research Centers|工程研究中心]]（Engineering Research Centers, ERCs）引导大学围绕半导体材料、[[Electronic Design Automation|电子设计自动化]]（Electronic Design Automation, EDA）工具与新型器件开展使命导向的有组织科研。（p. 20）
 
 #### 2. 嵌入制造环节：培育多层级工程人才培养梯队
 
@@ -248,7 +250,7 @@ issuing_organization: ""
 > - **城市网络维度（Urban Innovation Network）**
 >   依据 Spirou (2021) 的[[Anchor Institution|锚定机构]]理论，ASU 在凤凰城都会区的扩张深刻重塑了城市空间与产业结构，吸引了[[Taiwan Semiconductor Manufacturing Corporation|台湾积体电路制造公司]]（Taiwan Semiconductor Manufacturing Company, TSMC）与英特尔等 24 家半导体相关企业投资入驻，助推凤凰城跃升为全美前列高技术驱动型创新城市。（p. 23）
 > - **区域网络维度（Regional Cross-University Consortium）**
->   2023 年美国国防部高级研究计划局（[[DARPA|Defense Advanced Research Projects Agency]], [[DARPA]]）与半导体研究联盟（[[Semiconductor Research Corporation]], [[Semiconductor Research Corporation|SRC]]）联合启动[[Joint University Microelectronics Program 2.0|联合大学微电子2.0计划]]（Joint University Microelectronics Program 2.0, JUMP 2.0），由宾夕法尼亚州立大学牵头 CHIMES 中心，联合斯坦福大学、MIT 等 14 所顶尖高校协同攻坚异构集成与先进封装。（p. 23）
+>   2023 年美国国防部高级研究计划局（[[DARPA|Defense Advanced Research Projects Agency]], [[DARPA]]）与半导体研究联盟（[[Semiconductor Research Corporation]], [[Semiconductor Research Corporation|SRC]]）联合启动[[Joint University Microelectronics Program 2.0|联合大学微电子2.0计划]]（Joint University Microelectronics Program 2.0, JUMP 2.0），由宾夕法尼亚州立大学牵头 CHIMES 中心，联合斯坦福大学、MIT 等 14 所顶尖高校协同攻坚[[Heterogeneous Integration|异构集成]]与先进封装。（p. 23）
 > - **国家网络维度（National Distributed Topology）**
 >   改变以往半导体创新高度集聚于硅谷的单中心格局，依托亚利桑那宏技术工程中心、德克萨斯大学奥斯汀分校以及纽约 NY SMART I-Corridor 等新兴节点，构建具备高容灾抗风险能力的多极分布式网络。（p. 23）
 
@@ -306,7 +308,7 @@ issuing_organization: ""
 > - **36% 与 75%** 中国市场占美国半导体企业全球销售额的份额；以及 2020 年以来全球成熟制程芯片新增产能来自中国的占比。（p. 19）
 > - **2000 亿美元** 《[[CHIPS and Science Act|芯片与科学法案]]》未来 5 年规划用于科学研究与创新体系建设的预算规模。（p. 20）
 > - **20–30 小时** 亚利桑那州立大学微电子[[Workforce Development|劳动力发展]]中心模块化封装证书课程的紧凑培训学时。（p. 21）
-> - **14 所顶尖高校** 宾夕法尼亚州立大学在 JUMP 2.0 计划中牵头联合攻坚微电子异构集成的跨校联盟规模。（p. 23）
+> - **14 所顶尖高校** 宾夕法尼亚州立大学在 JUMP 2.0 计划中牵头联合攻坚微电子[[Heterogeneous Integration|异构集成]]的跨校联盟规模。（p. 23）
 > - **370 万美元** 韩国三星电子于 2023 年 9 月向德克萨斯大学奥斯汀分校承诺用于半导体人才奖学金与实验室升级的资助额。（p. 24）
 
 ---

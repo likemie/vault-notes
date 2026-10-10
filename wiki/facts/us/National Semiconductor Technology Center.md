@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 34
+fact_related_count: 37
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -30,8 +30,11 @@ related_concepts:
   - "[[Pilot Scale Platform]]"
   - "[[Translational Research]]"
   - "[[Valley of Death]]"
+  - "[[Electronic Design Automation]]"
   - "[[University Spin-Out]]"
   - "[[Process Design Kit]]"
+  - "[[Heterogeneous Integration]]"
+  - "[[Multi-Project Wafer]]"
   - "[[Apprenticeship]]"
   - "[[University-Industry Collaboration]]"
   - "[[Academic Engagement Team]]"
@@ -103,7 +106,7 @@ updated: 2026-10-10
 > [!actor-grid] 组织治理架构
 > - **部际联合指导与商务部监管** 由美国商务部（NIST CHIPS 研发办公室牵头）、国防部、能源部、国家科学基金会及白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）高级代表组成，把控国家战略导向并监督项目绩效。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 21–23)]]
 > - **[[Natcast]] 独立受托人董事会与执行层** 由具备深厚产业界与学术界声望的技术领袖组成独立董事会，中立管理中心日常运营、设施投资决策与多方利益平衡。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 21–22)]]
-> - **技术顾问咨询委员会（Technical Advisory Boards）** 汇聚全美主流晶圆代工厂（如 Intel、[[Taiwan Semiconductor Manufacturing Corporation|TSMC]]、GlobalFoundries）、无晶圆设计巨头（如 NVIDIA、Qualcomm）、电子设计自动化（Electronic Design Automation, EDA）软件商、装备材料供应商与顶尖大学领袖。[[Argument_NIST_2023_NSTC|(NIST, 2023, p. 22)]]
+> - **技术顾问咨询委员会（Technical Advisory Boards）** 汇聚全美主流晶圆代工厂（如 Intel、[[Taiwan Semiconductor Manufacturing Corporation|TSMC]]、GlobalFoundries）、无晶圆设计巨头（如 NVIDIA、Qualcomm）、[[Electronic Design Automation|电子设计自动化]]（Electronic Design Automation, EDA）软件商、装备材料供应商与顶尖大学领袖。[[Argument_NIST_2023_NSTC|(NIST, 2023, p. 22)]]
 > - **多层级会员体系与国家安全护栏** 设立涵盖跨国企业、初创公司、[[Research Universities|研究型大学]]、社区学院及州政府的分级会员制度，严格执行防范受关注外国实体（Foreign Entities of Concern, FEOC）的安全合规护栏。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 21, 27)]]
 
 > [!pathways]- 业务运行机制与财务可持续性
@@ -117,10 +120,10 @@ updated: 2026-10-10
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务矩阵
-> - **300 毫米基线与先进封装中试设施（Prototyping & Packaging Facilities）** 建设涵盖先进基线互补金属氧化物半导体（Complementary Metal-Oxide-Semiconductor, CMOS）制程、EUV 光刻机时共享、Fab-to-Lab 切片测试与 2.5D/3D 异构集成的共享洁净室试验床。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 14–15)]]
+> - **300 毫米基线与先进封装中试设施（Prototyping & Packaging Facilities）** 建设涵盖先进基线互补金属氧化物半导体（Complementary Metal-Oxide-Semiconductor, CMOS）制程、EUV 光刻机时共享、Fab-to-Lab 切片测试与 2.5D/3D [[Heterogeneous Integration|异构集成]]的共享洁净室试验床。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 14–15)]]
 > - **[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]协同（NAPMP Coordination）** 与 NIST NAPMP 紧密联动，承接先进封装前沿技术的工程化验证与标准化芯粒接口落地。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11, 26)]]
 > - **多节点技术中心网络（Technical Centers）** 布局后 CMOS 新材料、神经形态计算、宽禁带功率半导体与射频器件等专业化技术中心。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 12–14)]]
-> - **数字化设计与执行网关（Design and Execution Gateway, DEG）** 搭建集成云端 EDA 工具链、标准 [[Process Design Kit|PDK]] 与多项目晶圆（Multi-Project Wafer, MPW）拼版制造的一站式设计网关。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 16–17)]]
+> - **数字化设计与执行网关（Design and Execution Gateway, DEG）** 搭建集成云端 [[Electronic Design Automation|EDA]] 工具链、标准 [[Process Design Kit|PDK]] 与[[Multi-Project Wafer|多项目晶圆]]（Multi-Project Wafer, MPW）拼版制造的一站式设计网关。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 16–17)]]
 > - **半导体人才卓越中心（Workforce Center of Excellence, WCoE）** 统筹协调全美社区学院、[[Research Universities|研究型大学]]与[[Apprenticeship|学徒制]]基地，制定行业技能标准与微证书认证体系。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 18–19)]]
 > - **[[National Science and Technology Council|NSTC]] 创业投资基金与孵化服务（Investment Fund & Startup Support）** 设立定向催化投资基金，为早期深科技初创企业提供抗周期耐受资本与商业代工厂准入辅导。[[Argument_NIST_2023_NSTC|(NIST, 2023, p. 20)]]
 
@@ -147,7 +150,7 @@ updated: 2026-10-10
 > - **110 亿美元** 《[[CHIPS and Science Act|芯片法案]]》配置的先进半导体直接研发资金总额（含 NSTC、[[National Advanced Packaging Manufacturing Program|NAPMP]]、[[Microelectronics Commons|微电子共用体]]与计量项目）。
 > - **50% 以上** NSTC 规划将创新设计从概念向商业化放大的时间与成本缩减幅度。
 > - **3–5 年** 预期将前沿半导体技术从实验室导入商业晶圆代工厂量产的时间压缩周期。
-> - **300 毫米** NSTC 共享中试设施所采用的先进晶圆与异构集成工业级基线标准。
+> - **300 毫米** NSTC 共享中试设施所采用的先进晶圆与[[Heterogeneous Integration|异构集成]]工业级基线标准。
 > - **6 大** 核心业务板块（中试与先进封装线、NAPMP 协同、技术中心、设计网关 DEG、劳动力卓越中心 WCoE、创业投资基金）。
 
 ---

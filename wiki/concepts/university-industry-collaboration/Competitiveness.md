@@ -11,7 +11,7 @@ aliases:
 summary: "驱动国家科技战略、大学治理变革与劳动力技能重塑的核心逻辑与地缘政治装置。在宏观上体现为长程战略计算、先进制造与地缘威慑；在中观上体现为产学中心破除学科壁垒与排名审计重塑大学；在微观上体现为产线组织学习与学习分析；卡普与扎米斯卡进一步论证，国家千年期战略决断、创始人长期主义与全员股权所有权模式，构成了抵御短期金融化与维系持久科技竞争力的决定性底座。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 62
+related_count: 63
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Promising Student]]"
   - "[[Creativity]]"
   - "[[Engineering Education]]"
+  - "[[Electronic Design Automation]]"
   - "[[Big Science]]"
   - "[[Discourse]]"
   - "[[Variable]]"
@@ -96,7 +97,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-19
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 
 # Competitiveness
@@ -287,7 +288,7 @@ updated: 2026-10-09
 
 > [!claim] [[Argument_Zhuo_2026_ICE|卓泽林 (2026, p. 20)]]; [[Argument_Fan_2026_BCAS|樊春良 (2026, pp. 24–27)]]
 > **教育即标准与开源技术生态锁定** [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]]与樊春良（2026）指出，大国地缘科技与产业竞争力的最高形态，已由末端产品与专利防御演进为底层技术标准与开源生态的范式主导：
-> 1. **高校教学向事实工业标准的转化** 美国研究型大学将 RISC-V 开放指令集架构、开源电子设计自动化（EDA）工具链及机器学习框架（如 PyTorch）全面植入本科与研究生核心工程课程，在学生认知形成期塑造其软硬件设计习惯；
+> 1. **高校教学向事实工业标准的转化** 美国研究型大学将 RISC-V 开放指令集架构、开源[[Electronic Design Automation|电子设计自动化]]（EDA）工具链及机器学习框架（如 PyTorch）全面植入本科与研究生核心工程课程，在学生认知形成期塑造其软硬件设计习惯；
 > 2. **不可逆的技术生态[[Path Dependence|锁定效应]]** 当成千上万受训工程师进入全球科技企业后，其技术路径依赖将自然转化为整个产业对该开源生态的惯性采用，从根本上锁死后发竞争者的替代空间，形成极具韧性的国家产业技术事实标准与生态竞争力。
 
 ---

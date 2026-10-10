@@ -10,9 +10,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "Executive Office of the President of the United States"
 tags:
@@ -42,6 +42,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
   - "[[National Science and Technology Council]]"
+  - "[[National Nanotechnology Initiative]]"
   - "[[Science, The Endless Frontier 1945]]"
 related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
@@ -52,7 +53,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 
 # Science in the National Interest 1994
@@ -93,7 +94,7 @@ updated: 2026-10-09
 > - **1993年11月** 克林顿签署行政令组建内阁级[[National Science and Technology Council|国家科学技术委员会]]（NSTC），为起草跨部门国家科学战略搭建中枢。
 > - **1994年08月** 克林顿与戈尔正式发布《科学与国家利益》白皮书，确立五大国家目标。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1059)]]
 > - **1997年** [[Donald Stokes|唐纳德·斯托克斯]]（Donald E. Stokes）出版《[[Pasteur's Quadrant|巴斯德象限]]》，从[[Epistemology|认识论]]层面为该报告倡导的“基础理解兼顾应用目标”奠定理论基石。
-> - **2000年** 基于该报告奠定的公私协同逻辑，联邦正式启动国家纳米技术倡议（NNI）。
+> - **2000年** 基于该报告奠定的公私协同逻辑，联邦正式启动[[National Nanotechnology Initiative|国家纳米技术倡议]]（NNI）。
 
 ---
 

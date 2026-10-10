@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ tags:
   - theme/semiconductor
 related_concepts:
   - "[[Meta-Representational Competence]]"
+  - "[[Electronic Design Automation]]"
   - "[[Technology Transfer]]"
   - "[[Heterogeneity]]"
   - "[[Competitiveness]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 
 # Microelectronics and Computer Technology Corporation
@@ -99,7 +100,7 @@ updated: 2026-10-09
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **先进封装与互连技术（Packaging/Interconnect）** 成功开发多芯片组件（MCM）与倒装芯片（Flip-chip）封装测试规范，被广泛采用于高端服务器与国防硬件。
-> - **超大规模集成电路 CAD 工具套件** 研发跨厂商的芯片自动化设计与电路仿真算法，为后来商用 EDA 软件奠定了算法基础。
+> - **超大规模集成电路 CAD 工具套件** 研发跨厂商的芯片自动化设计与电路仿真算法，为后来商用 [[Electronic Design Automation|EDA]] 软件奠定了算法基础。
 > - **人工智能与常识知识库工程（Cyc Project）** 由[[Jack Douglas|道格拉斯]]·莱纳特（Douglas Lenat）在 MCC 内部主导创立的宏大常识推理知识库（Cyc），成为早期人工智能符号主义工程的代表性旗舰。
 > - **软件工程与分布式计算技术** 开发先进面向对象软件开发环境与数据库集成接口，支撑成员企业的大型系统集成。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 726)]]
 

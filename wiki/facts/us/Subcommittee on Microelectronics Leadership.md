@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -24,10 +24,12 @@ tags:
   - theme/national-security
   - region/us
 related_concepts:
+  - "[[Electronic Design Automation]]"
   - "[[Document]]"
   - "[[Process Design Kit]]"
   - "[[Innovation Hub]]"
   - "[[Research Translation]]"
+  - "[[Multi-Project Wafer]]"
   - "[[Hardware Security]]"
   - "[[Innovation Ecosystem]]"
   - "[[Translational Research]]"
@@ -92,7 +94,7 @@ updated: 2026-10-10
 > - **领导层与联席主席** 由白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）、商务部（DOC/NIST）、国防部（DOD）及能源部（[[Department of Energy|DOE]]）高级科技官员共同担任领导或联席职务。（pp. ii, 9–10）
 > - **成员部门矩阵** 涵盖商务部（DOC）、国防部（DOD）、能源部（DOE）、国家科学基金会（[[National Science Foundation|NSF]]）、[[National Aeronautics and Space Administration|国家航空航天局]]（NASA）、国土安全部（DHS）、卫生与公众服务部（HHS）及国家情报总监办公室（ODNI）等。（pp. ii, 5, 9–10）
 > - **外部咨询接口** 深度对接依法国会设立的芯片[[Industrial Advisory Committee|工业咨询委员会]]（Industrial Advisory Committee, IAC），吸纳半导体领军企业、学术界专家与劳工领袖的产业反馈。（pp. ii, 43–44）
-> - **工作组与任务组** 围绕先进材料、设计工具（EDA）、新型计算架构、异构封装、基础设施网络及劳动力培育设立跨部门专项技术工作组。（pp. ii, 10–39）
+> - **工作组与任务组** 围绕先进材料、设计工具（[[Electronic Design Automation|EDA]]）、新型计算架构、异构封装、基础设施网络及劳动力培育设立跨部门专项技术工作组。（pp. ii, 10–39）
 
 > [!pathways]- 业务运行机制
 > - **战略规划与更新** 每隔五年或依据政策重大调整，组织全美产学研大讨论，动态编制并修订国家微电子前沿研发战略规划。（pp. ii, 1–2）
@@ -124,7 +126,7 @@ updated: 2026-10-10
 
 > [!finding-cards] 关键成效与辐射影响
 > - **消除部际壁垒** 首次在白宫层面确立了横跨材料到终端系统的全技术栈双向贯通研发模型。（pp. 10–13）
-> - **赋能中小微创新** 推动多项目晶圆（MPW）流片补贴与开源设计工具共享，大幅降低学术界与初创企业硬件试错门槛。（pp. 23–25）
+> - **赋能中小微创新** 推动[[Multi-Project Wafer|多项目晶圆]]（MPW）流片补贴与开源设计工具共享，大幅降低学术界与初创企业硬件试错门槛。（pp. 23–25）
 > - **强化国家安全韧性** 将全生命周期[[Hardware Security|硬件信任根]]与零信任架构标准嵌入联邦研发全流程。（pp. 18–19）
 
 > [!stat-cards]- 核心规模数据

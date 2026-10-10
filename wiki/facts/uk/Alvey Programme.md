@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Dual-Use Technology]]"
   - "[[Research Universities]]"
+  - "[[Electronic Design Automation]]"
   - "[[University-Industry Collaboration]]"
   - "[[Precompetitive Research]]"
 related_theories: []
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-05
+updated: 2026-10-10
 ---
 
 # Alvey Programme
@@ -105,7 +106,7 @@ updated: 2026-10-05
 > [!indicators]- 评估指标体系
 > - **经费与项目规模** 5 年累计投入 **3.5 亿英镑**，资助完成 **309 个**跨学科联合项目，覆盖 **127 家**产学研机构。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 726)]]
 > - **学术学科重塑效益** 建立了全英统一的人工智能与软件工程学术共同体，培养了英国第一代大规模计算机科学博士与高阶工程师。
-> - **商业化成果转化率** 产出部分商用 EDA 工具与并行计算原型，但未能根本性逆转英国大型计算机主机的市场败局。
+> - **商业化成果转化率** 产出部分商用 [[Electronic Design Automation|EDA]] 工具与并行计算原型，但未能根本性逆转英国大型计算机主机的市场败局。
 
 > [!finding-cards] 核心实证结论
 > - **奠定英国高校计算机科学与 AI 学科领先地位** 彻底提升了英国大学在人工智能（知识工程、自然语言处理）与软件工程领域的国际学术声誉。

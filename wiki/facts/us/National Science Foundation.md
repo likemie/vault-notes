@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 77
+fact_related_count: 78
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Use-Inspired Basic Research]]"
   - "[[Academic Entrepreneurship]]"
   - "[[Convergence Research]]"
+  - "[[Electronic Design Automation]]"
   - "[[Co-Design]]"
   - "[[Golden Ticket Mechanism]]"
   - "[[Portable Fellowship]]"
@@ -152,7 +153,7 @@ updated: 2026-10-10
 > - **2010–2021 — 刚性化“更广泛影响”（[[NSF Broader Impacts Criterion|Broader Impacts]]）与高校创业生态拓展**
 >   - 2010 年依据 GPRAMA 法案将更广泛影响转为刚性门槛；2011 年创设 [[NSF I-Corps]] 创新兵团推动高校[[Academic Entrepreneurship|学术创业]]；2019 年启动跨学科[[Convergence Research|融合研究]]与首批国家人工智能研究院布局。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]; [[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]
 > - **2022–2024 — 《[[CHIPS and Science Act|芯片法案]]》赋能、[[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会与国家微电子战略协同**
->   - 依据《芯片与科学法案》获五年 810 亿美元预算授权，设立三十年来首个新理事会——技术、创新与伙伴关系理事会（TIP），将研究生研究奖学金（GRFP）扩大至每年 3000 名，启动[[NSF Regional Innovation Engines|区域创新引擎]]（首批资助 1.6 亿美元），并大力支持大学开源指令集（RISC-V）与开源 EDA 工具链的研发与课程普及。
+>   - 依据《芯片与科学法案》获五年 810 亿美元预算授权，设立三十年来首个新理事会——技术、创新与伙伴关系理事会（TIP），将研究生研究奖学金（GRFP）扩大至每年 3000 名，启动[[NSF Regional Innovation Engines|区域创新引擎]]（首批资助 1.6 亿美元），并大力支持大学开源指令集（RISC-V）与开源 [[Electronic Design Automation|EDA]] 工具链的研发与课程普及。
 >   - **国家战略与中试网络共建** 在[[National Science and Technology Council|国家科学技术委员会]]（[[National Science and Technology Council|NSTC]]）微电子领导小组（[[Subcommittee on Microelectronics Leadership|SML]]）中担任联合主席，牵头编制《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》；设立“未来半导体前沿”（Future of Semiconductors, FuSe / FuSe2）专项计划，由 TIP 与工程学学部（ENG）、数学与物理科学学部（MPS）跨学科协同，聚焦多维[[Co-Design|协同设计]]、二维材料与能效突破，跨越从实验室到工业代工厂的转化断层；
 >   - **开放科研基础设施与全谱系人才培养** 持续资助全美国家纳米技术协同基础设施（[[National Nanotechnology Coordinated Infrastructure|NNCI]]）16 个核心高校微纳加工与表征节点，提供低门槛开放中试服务；通过先进技术教育（Advanced Technological Education, ATE）计划、本科生研究体验（REU）与教师研究体验（RET）深耕社区学院与大学晶圆代工技术员与工程拔尖人才梯队。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]; [[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 20)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–3, 8–11, 26)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12, 19–21, 26–28)]]
 > - **2025–2026 — [[Metascience|元科学]]单元设立、资助机制试验与非学术组织直接资助**

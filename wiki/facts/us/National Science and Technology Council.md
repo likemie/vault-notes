@@ -44,6 +44,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[Science in the National Interest 1994]]"
+  - "[[National Nanotechnology Initiative]]"
   - "[[Subcommittee on Microelectronics Leadership]]"
   - "[[National Strategy on Microelectronics Research]]"
   - "[[Department of Energy]]"
@@ -86,7 +87,7 @@ updated: 2026-10-10
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **1993–2000 — 创设奠基与经济[[Competitiveness|竞争力]]导向确立** 克林顿政府组建 NSTC，确立总统挂帅、内阁成员参与的高规格架构；深度主导 1994 年《[[Science in the National Interest 1994|科学与国家利益]]》白皮书落地，统筹推动国家纳米技术倡议（NNI）等跨部门公私协同旗舰计划。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
+> - **1993–2000 — 创设奠基与经济[[Competitiveness|竞争力]]导向确立** 克林顿政府组建 NSTC，确立总统挂帅、内阁成员参与的高规格架构；深度主导 1994 年《[[Science in the National Interest 1994|科学与国家利益]]》白皮书落地，统筹推动[[National Nanotechnology Initiative|国家纳米技术倡议]]（NNI）等跨部门公私协同旗舰计划。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
 > - **2001–2016 — 职能深化与[[Grand Challenges|重大挑战]]导向重塑** 小布什与奥巴马时期，NSTC 下设委员会制度化扩容，聚焦反恐国家安全、气候变化监测、先进制造（Advanced Manufacturing）及干细胞/生命伦理准则，推动科研向重大社会挑战聚焦。
 > - **2017–至今 — 大国竞争加剧与再集中转向** 特朗普第一任期与拜登时期，NSTC 重点转向关键与新兴技术清单制定、量子与人工智能跨部门行动计划推进，以及[[Research Security|科研安全]]跨部门联合审查标准的出台；在《[[CHIPS and Science Act|芯片与科学法案]]》与 2021 财年《国防授权法案》第 9906 条落地后，通过下设的[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（SML）正式发布并修订《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》，统筹商务部、国防部、能源部与国家科学基金会（[[National Science Foundation|NSF]]）的半导体研发与劳动力布局；2025 年起在[[Technology-Oriented Social Contract|技术型社会契约]]导向下，成为落实总统定向技术攻关指令的核心行政中枢。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1061–1062)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 17–20)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. ii, 1–2, 48)]]
 
@@ -111,7 +112,7 @@ updated: 2026-10-10
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **跨部门重大技术倡议统筹** 牵头孵化并统领跨部委重大科技计划，如跨越十余个机构的国家纳米技术倡议（NNI）、国家量子计划（NQI）以及《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. iv–v, 2)]]
+> - **跨部门重大技术倡议统筹** 牵头孵化并统领跨部委重大科技计划，如跨越十余个机构的[[National Nanotechnology Initiative|国家纳米技术倡议]]（NNI）、国家量子计划（NQI）以及《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. iv–v, 2)]]
 > - **国家微电子研究战略四项支柱目标** 依据《[[CHIPS and Science Act|芯片法案]]》法定要求，统领全美微电子研发全链条：① 赋能下一代微电子创新（底层材料、神经形态与[[Heterogeneous Integration|异构集成]]）；② 建设互联开放的研发中试基础设施网络（NSTC/[[National Advanced Packaging Manufacturing Program|NAPMP]]/Commons/[[National Nanotechnology Coordinated Infrastructure|NNCI]]/DEG）；③ 壮大并维系工程劳动力供给流水线；④ 筑牢全栈[[Hardware Security|硬件安全]]、可信防伪与供应链韧性。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 1–4, 48)]]
 > - **关键与新兴技术清单** 动态研判并发布关乎国家安全与战略优势的关键技术领域（如人工智能、半导体、先进计算、生物技术），指导联邦资金优先倾斜。
 > - **[[Research Security|科研安全]]与诚信跨部门标准制定** 针对学术交流与地缘技术竞争风险，组织制定统领全美联邦基金的科研安全披露、利益冲突防范与数据合规指引。
@@ -133,7 +134,7 @@ updated: 2026-10-10
 
 > [!finding-cards] 关键成效与辐射影响
 > - **奠定顶层跨部门统筹常态** 彻底改变了二战后各联邦部委在研发投资上“老死不相往来”的割裂状态，建立了制度化的协调管道。
-> - **支撑重大前沿战略攻坚** 通过 NNI、NQI 以及[[National Strategy on Microelectronics Research|国家微电子研究战略]]等旗舰计划，确保美国在关键前沿[[Comparative Education as a Cross-Sectional Area|交叉学科]]持续保持战略先发优势。
+> - **支撑重大前沿战略攻坚** 通过 [[National Nanotechnology Initiative|NNI]]、NQI 以及[[National Strategy on Microelectronics Research|国家微电子研究战略]]等旗舰计划，确保美国在关键前沿[[Comparative Education as a Cross-Sectional Area|交叉学科]]持续保持战略先发优势。
 > - **推动科学契约由分散走向集中** 构成了战后[[Social Contract of Science|科学社会契约]]由部门自主资助向国家目标驱动转型的重要组织依托。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1059)]]
 
 > [!stat-cards]- 核心规模数据

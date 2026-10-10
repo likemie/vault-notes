@@ -28,6 +28,7 @@ related_concepts:
   - "[[Market Failure]]"
   - "[[Learning by Doing]]"
   - "[[Vertical Disintegration]]"
+  - "[[Electronic Design Automation]]"
   - "[[Document]]"
   - "[[Market Shaping and Creating]]"
   - "[[Fair Market Value]]"
@@ -72,7 +73,7 @@ title: "Argument_Bown_2024_JEP"
 argument_key: "Argument_Bown_2024_JEP"
 argument_display_title: "Semiconductors and modern industrial policy"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -122,7 +123,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **历史比较分析**<br>[[Historical-Comparative Method]] | 对照 20 世纪 70–80 年代美日半导体摩擦与 2020 年代中美芯片竞争两波产业政策浪潮，比较产业结构、政策工具与市场反馈机制的代际差异。（pp. 83–86, 96–103） |
-> | **全球供应链分解** | 拆解核心知识产权（Core Intellectual Property, Core IP）、电子设计自动化（Electronic Design Automation, EDA）软件、半导体制造设备（Semiconductor Manufacturing Equipment, SME）、芯片设计、晶圆代工与封装测试六大环节，绘制全球领先企业与地理分布全景图。（pp. 86–92） |
+> | **全球供应链分解** | 拆解核心知识产权（Core Intellectual Property, Core IP）、[[Electronic Design Automation\|电子设计自动化]]（Electronic Design Automation, EDA）软件、半导体制造设备（Semiconductor Manufacturing Equipment, SME）、芯片设计、晶圆代工与封装测试六大环节，绘制全球领先企业与地理分布全景图。（pp. 86–92） |
 > | **政策工具与贸易数据考察** | 梳理各国关税、直接补贴、实体清单、外国直接产品规则（Foreign Direct Product Rule, FDPR）、三边出口管制与关键矿产反制措施，追踪芯片进出口流向与产能变迁。（pp. 93–101） |
 
 > [!sample-panel]- 样本与材料快照
@@ -209,7 +210,7 @@ issuing_organization: ""
 ### 论证步骤二　制造流程走向纵向离散与极端地理集中，导致美欧本土制造份额断崖式下跌并加剧断链风险
 
 > [!claim] 步骤二核心主张
-> 20 世纪 90 年代以来，半导体产业经历了深刻的[[Vertical Disintegration|纵向离散]]与全球专业化重组，演变为由核心知识产权、EDA 软件、制造设备、芯片设计、晶圆代工与封装测试组成的六大跨国多阶段网络；在亚洲政府补贴与低成本[[Assemblage|组装]]需求的共同驱动下，晶圆制造产能高度向东亚倾斜，导致美欧本土制造产能份额急剧萎缩。（pp. 86–92）
+> 20 世纪 90 年代以来，半导体产业经历了深刻的[[Vertical Disintegration|纵向离散]]与全球专业化重组，演变为由核心知识产权、[[Electronic Design Automation|EDA]] 软件、制造设备、芯片设计、晶圆代工与封装测试组成的六大跨国多阶段网络；在亚洲政府补贴与低成本[[Assemblage|组装]]需求的共同驱动下，晶圆制造产能高度向东亚倾斜，导致美欧本土制造产能份额急剧萎缩。（pp. 86–92）
 
 #### 1. 晶圆建厂成本激增迫使产业分化为设计与代工分离模式，形成了跨国高度细分的六大专业化环节
 

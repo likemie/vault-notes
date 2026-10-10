@@ -9,7 +9,7 @@ aliases:
 summary: "由大学、企业、政府、供应链供应商、中介机构与资本市场通过多维网络互动共同催化、转化与扩散创新的复合自组织系统；具有基于地点与全球网络两种形态，其演进依赖于基础科研锚点、需求侧采购拉动、纵向供应链协同与开放知识产权环境。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 93
+related_count: 95
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -39,6 +39,8 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Reliability]]"
   - "[[Valley of Death]]"
+  - "[[Multi-Project Wafer]]"
+  - "[[Electronic Design Automation]]"
   - "[[Competitiveness]]"
   - "[[Translational Research]]"
   - "[[Corporate R&D Labs]]"
@@ -259,7 +261,7 @@ updated: 2026-10-10
 > [!claim] [[Argument_NIST_2023_NSTC|NIST (2023)]]
 > **第三代法定国家级公私伙伴中枢与全要素基础设施赋能** 美国国家标准与技术研究院（NIST）在《国家半导体技术中心愿景与战略》中确立了第三代创新生态中枢的顶层设计：
 > 1. **独立非营利实体治理与长期自维持循环** 由独立非营利组织 [[Natcast]] 负责运营[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC），在初始联邦资助期后依托会费、服务收费、特许权使用费与各州及产业匹配资金形成多渠道自维持造血机制；
-> 2. **共享实体中试线与数字设计网关大幅降低创业壁垒** 针对先进半导体晶圆厂高达数十亿至上百亿美元的资本支出壁垒，NSTC 通过设立分布式 300 毫米先进原型与封装中试设施，并搭建集成多项目晶圆（MPW）拼版与云端电子设计自动化（EDA）工具的数字化设计与执行网关（DEG），使大学衍生企业与硬件初创公司无需巨额固定资产即可低成本验证原型并向商业代工厂导入量产；
+> 2. **共享实体中试线与数字设计网关大幅降低创业壁垒** 针对先进半导体晶圆厂高达数十亿至上百亿美元的资本支出壁垒，NSTC 通过设立分布式 300 毫米先进原型与封装中试设施，并搭建集成[[Multi-Project Wafer|多项目晶圆]]（MPW）拼版与云端[[Electronic Design Automation|电子设计自动化]]（EDA）工具的数字化设计与执行网关（DEG），使大学衍生企业与硬件初创公司无需巨额固定资产即可低成本验证原型并向商业代工厂导入量产；
 > 3. **跨部门国家创新漏斗与全链条协同** 建立从 [[National Science Foundation|NSF]]（基础研究/实验室突破）$\to$ [[DARPA]]/国防部微电子公社（[[Microelectronics Commons|DOD Microelectronics Commons]]，军工与实验室应用）$\to$ 商务部 NSTC / [[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP，中试放大与先进封装）$\to$ 商业晶圆代工厂与国防工业基地的跨部门无缝衔接漏斗，最大化放大公共投资的生态杠杆效应。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 1–25)]]
 
 > [!claim] [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]]

@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 24
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -26,8 +26,10 @@ tags:
 related_concepts:
   - "[[Assemblage]]"
   - "[[Heterogeneous Integration]]"
+  - "[[Electronic Design Automation]]"
   - "[[Process Design Kit]]"
   - "[[Competitiveness]]"
+  - "[[Multi-Project Wafer]]"
   - "[[Technology Transfer]]"
   - "[[Technology Infusion]]"
   - "[[Pilot Scale Platform]]"
@@ -72,7 +74,7 @@ updated: 2026-10-10
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2022 年 8 月随《芯片与科学法案》立法确立，2023 年正式启动战略部署，2024 年作为国家微电子核心中试基础设施纳入 [[National Science and Technology Council|NSTC]] 国家战略，规划为期五至十年的跨部门长期实施周期。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 3, 8)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17–18)]]
 > - **发起方与资助机制** 由美国商务部 NIST 设立 CHIPS 研发办公室主管，统筹《芯片法案》拨付的 30 亿美元专项研发与中试设施资助基金，与[[National Semiconductor Technology Center|国家半导体技术中心]]（National Semiconductor Technology Center, [[National Science and Technology Council|NSTC]]）并列为全美四大半导体研发支柱。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 3, 26)]]
-> - **覆盖范围与对象** 辐射全美半导体设计企业、外包半导体组装与测试（Outsourced Semiconductor Assembly and Test, OSAT）厂商、基板与材料供应商、电子设计自动化（Electronic Design Automation, EDA）软件商以及顶尖工程类大学。
+> - **覆盖范围与对象** 辐射全美半导体设计企业、外包半导体组装与测试（Outsourced Semiconductor Assembly and Test, OSAT）厂商、基板与材料供应商、[[Electronic Design Automation|电子设计自动化]]（Electronic Design Automation, EDA）软件商以及顶尖工程类大学。
 > - **核心问题导向** 应对全球先进封装产能高度集中于东亚（美国本土全球封装市场份额不足 3%）的地缘供应链断裂风险，并在单片系统级芯片（System-on-Chip, SoC）逼近物理微缩极限的背景下开辟多维异质系统性能提升新路径。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10, 17)]]
 
 ---
@@ -91,7 +93,7 @@ updated: 2026-10-10
 >   4. 芯粒间高速接口互连规范（如通用芯粒互连互通标准 Universal Chiplet Interconnect Express, UCIe）；
 >   5. 共封装光学（Co-Packaged Optics, CPO）与光电异质集成；
 >   6. 嵌入式微流控冷却芯片、多物理场热应力仿真建模与跨尺度无损缺陷计量。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17–18, 28)]]
-> - **协同接口** 与 [[National Science and Technology Council|NSTC]] 紧密协同，依托 NSTC 共享技术中心构建物理先进封装中试线，并将先进封装纳入全国性多项目晶圆与封装流片（Multi-Project Wafer and Packaging Runs）共享排期。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 10, 15)]]
+> - **协同接口** 与 [[National Science and Technology Council|NSTC]] 紧密协同，依托 NSTC 共享技术中心构建物理先进封装中试线，并将先进封装纳入全国性[[Multi-Project Wafer|多项目晶圆]]与封装流片（Multi-Project Wafer and Packaging Runs）共享排期。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 10, 15)]]
 > - **跨机构联动** 承接国防部[[Microelectronics Commons|微电子共用体]]（Microelectronics Commons）及制造创新机构（[[Manufacturing USA]]）芯片研究所开发的军民两用硬件原型，打通[[Technology Transfer|技术转移]]与放大通道。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23)]]
 
 > [!citation-card] 商务部论先进封装与系统级创新的战略价值
@@ -121,7 +123,7 @@ updated: 2026-10-10
 
 > [!pathways]- 实施路径与管理
 > - **跨学科技术标准制定** 联合行业联盟（如 UCIe [[Industry Affiliate Program|产业联盟]]）与 IEEE 封装学会确立统一的芯粒机械尺寸、电气互连、[[Assemblage|装配]]设计套件（[[Process Design Kit|ADK]]）与通信协议标准。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17–18)]]
-> - **软硬件[[Co-Design|协同设计]]工具集成** 与主流 EDA 软件商合作，开发针对 3D [[Heterogeneous Integration|异构集成]]的多物理场联合仿真平台并嵌入 NSTC 云端网关。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 16–17)]]
+> - **软硬件[[Co-Design|协同设计]]工具集成** 与主流 [[Electronic Design Automation|EDA]] 软件商合作，开发针对 3D [[Heterogeneous Integration|异构集成]]的多物理场联合仿真平台并嵌入 NSTC 云端网关。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 16–17)]]
 > - **全链条跨部门无缝衔接** 承接国家科学基金会（[[National Science Foundation|NSF]]）与国防部[[Microelectronics Commons|微电子共用体]]的早期原型，直接对接商业代工厂量产。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 9–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23)]]
 
 ---
@@ -135,7 +137,7 @@ updated: 2026-10-10
 
 > [!finding-cards] 核心实证结论与战略预期
 > - **打破单片晶圆微缩物理瓶颈** 推动芯片设计向模块化芯粒系统解耦演进，显著降低大芯片制造缺陷率与流片成本。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–10, 15)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10, 17)]]
-> - **构筑软硬件[[Co-Design|协同设计]]生态** 联合 EDA 厂商建立支持 3D 异构封装的热、电、磁多物理场联合仿真与 ADK 标准，攻克高功率密度芯片散热瓶颈。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 16–17)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17–18)]]
+> - **构筑软硬件[[Co-Design|协同设计]]生态** 联合 [[Electronic Design Automation|EDA]] 厂商建立支持 3D 异构封装的热、电、磁多物理场联合仿真与 ADK 标准，攻克高功率密度芯片散热瓶颈。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 16–17)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17–18)]]
 > - **形成跨部门[[Research Translation|技术转化]]接力** 承接国防部 [[Microelectronics Commons]] 与 [[National Science Foundation|NSF]] 用户设施的军事与商用原型，并导入本土 300 毫米规模化制造。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23)]]
 
 > [!stat-cards]- 关键规模数据
@@ -163,7 +165,7 @@ updated: 2026-10-10
 > > - **国家战略统筹辩护** 强调通过商业建厂补贴（Manufacturing Incentives）与 NAPMP 研发基金联动，正同步培育本土先进封装晶圆厂与中试基础设施，打破外流恶性循环。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–3, 8–11)]]
 
 > [!lessons] 经验教训与启示
-> - **标准先行与生态共建** 异构封装的成败高度取决于跨厂商接口标准（如 UCIe）、[[Process Design Kit|装配设计套件]]（ADK）与 EDA 仿真工具的[[Open-Mindedness|开放性]]，必须在研发早期避免闭门造车与专有格式壁垒。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17–18)]]
+> - **标准先行与生态共建** 异构封装的成败高度取决于跨厂商接口标准（如 UCIe）、[[Process Design Kit|装配设计套件]]（ADK）与 [[Electronic Design Automation|EDA]] 仿真工具的[[Open-Mindedness|开放性]]，必须在研发早期避免闭门造车与专有格式壁垒。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17–18)]]
 > - **中试公共品与商业闭环衔接** 先进封装研发必须紧密依托 [[National Science and Technology Council|NSTC]] 共享物理设施与商业晶圆代工厂，避免研发成果停留在实验室论文阶段。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 15, 26)]]
 
 ---

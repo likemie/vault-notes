@@ -9,10 +9,10 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 38
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
-fact_related_color: "#dbeafe"
+fact_related_count: 41
+fact_related_level: 5
+fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_color: "#fecdd3"
 issuing_organization: "National Science and Technology Council"
 tags:
   - policy/national-strategy
@@ -25,8 +25,10 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Translational Research]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Multi-Project Wafer]]"
   - "[[Process Design Kit]]"
   - "[[Apprenticeship]]"
+  - "[[Electronic Design Automation]]"
   - "[[Heterogeneous Integration]]"
   - "[[Hardware Security]]"
   - "[[STEM Education]]"
@@ -58,6 +60,7 @@ related_facts:
   - "[[Office of Science and Technology Policy]]"
   - "[[National Advanced Packaging Manufacturing Program]]"
   - "[[DARPA]]"
+  - "[[Next-Generation Microsystems Manufacturing]]"
   - "[[National Science Foundation]]"
   - "[[Department of Energy]]"
   - "[[National Nanotechnology Coordinated Infrastructure]]"
@@ -93,11 +96,11 @@ updated: 2026-10-10
 > [!policy-design]- 政策设计
 > - **政策目标** 突破后摩尔时代物理极限，跨越从实验室到代工厂的中试断层，培育全谱系工程人才，建立自生型微电子国家[[Innovation Ecosystem|创新生态]]。（pp. 2, 10–48）
 > - **适用对象** 覆盖全美参与微电子研发、制造、测试、设计与教育培训的所有联邦科研机构、学术界、产业界联盟及中小微企业。（pp. iv, 2）
-> - **政策工具** 涵盖重大国家研发中心布局（[[National Semiconductor Technology Center|国家半导体技术中心]]、[[Microelectronics Commons|微电子共用体]]）、多项目晶圆（MPW）流片补贴、开源[[Process Design Kit|工艺设计套件]]（PDK）与[[Assemblage|装配]]设计套件（ADK）推广、小企业创新研发（[[SBIR and STTR Programs|SBIR]]/STTR）私人资本匹配、[[Apprenticeship|学徒制]]与技能认证项目。（pp. 21–28, 31–37, 39–46）
+> - **政策工具** 涵盖重大国家研发中心布局（[[National Semiconductor Technology Center|国家半导体技术中心]]、[[Microelectronics Commons|微电子共用体]]）、[[Multi-Project Wafer|多项目晶圆]]（MPW）流片补贴、开源[[Process Design Kit|工艺设计套件]]（PDK）与[[Assemblage|装配]]设计套件（ADK）推广、小企业创新研发（[[SBIR and STTR Programs|SBIR]]/STTR）私人资本匹配、[[Apprenticeship|学徒制]]与技能认证项目。（pp. 21–28, 31–37, 39–46）
 > - **约束机制** 建立[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]年度能力审查、跨部门联合征求意见书（RFI）、[[Industrial Advisory Committee|工业咨询委员会]]（IAC）独立督导以及多部委预算与技术路线图动态对齐机制。（pp. 9–10, 43–44, 48）
 
 > [!frames-ref]- 四大战略支柱与重点行动矩阵
-> - **目标一：加速前沿技术研发突破（Goal 1）** 攻关先进材料（1.1）、电子设计自动化（EDA）工具（1.2）、新型计算架构（1.3）、[[Heterogeneous Integration|三维异构集成]]与先进封装（1.4）、全栈[[Hardware Security|硬件安全]]（1.5）及绿色制造（1.6）。（pp. 10–20）
+> - **目标一：加速前沿技术研发突破（Goal 1）** 攻关先进材料（1.1）、[[Electronic Design Automation|电子设计自动化]]（EDA）工具（1.2）、新型计算架构（1.3）、[[Heterogeneous Integration|三维异构集成]]与先进封装（1.4）、全栈[[Hardware Security|硬件安全]]（1.5）及绿色制造（1.6）。（pp. 10–20）
 > - **目标二：构建跨越中试的基础设施网络（Goal 2）** 开放微纳制造与表征用户网络（2.1）、灵活设计工具与晶圆流片准入（2.2）、材料样品库（2.3）、高性能仿真计算底座（2.4）、先导中试试验线（2.5）与先进封装测试平台（2.6）。（pp. 20–28）
 > - **目标三：培育全谱系工程劳动力管网（Goal 3）** 贯通中小学 [[STEM Education|STEM]] 启蒙与师资支持（3.1）、公众科普与职业引导（3.2）、非学位证书与实操学徒制（3.3）及高层次跨学科科研人才培养（3.4）。（pp. 29–37）
 > - **目标四：营造自生型产业转化创新生态（Goal 4）** 建设公私合作联盟（4.1）、吸纳工业咨询委员会建议（4.2）、发布产业共性路线图（4.3）、促进产学研人员双向流动（4.4）及强化[[Patient Capital|耐心资本]]对接与国际标准协同（4.5）。（pp. 37–48）
@@ -124,12 +127,12 @@ updated: 2026-10-10
 > [!actor-grid] 实施角色分工
 > - **发布与统筹主体** 白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）与[[National Science and Technology Council|国家科学技术委员会]]（NSTC）[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（SML）。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. ii, 9–10)]]
 > - **商务部（DOC / NIST）** 负责牵头建设[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）、[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）及计量研究计划。（pp. 2, 25, 28, 39）
-> - **国防部（DOD / [[DARPA]]）** 负责推进[[Microelectronics Commons|微电子共用体]]（8 大跨区域中试枢纽）与下一代微系统制造（NGMM）计划。（pp. 2, 27, 40）
+> - **国防部（DOD / [[DARPA]]）** 负责推进[[Microelectronics Commons|微电子共用体]]（8 大跨区域中试枢纽）与[[Next-Generation Microsystems Manufacturing|下一代微系统制造]]（NGMM）计划。（pp. 2, 27, 40）
 > - **国家科学基金会（[[National Science Foundation|NSF]]）与能源部（[[Department of Energy|DOE]]）** NSF 运营[[National Nanotechnology Coordinated Infrastructure|国家纳米技术协调基础设施]]（NNCI）与基础 [[STEM Education|STEM]] 教育，DOE 开放 5 大纳米科学研究中心（NSRC）与国家实验室先进光源/中子源。（pp. 21–25, 41, 45）
 
 > [!pathways]- 实施路径
 > - **顶层跨部门机制对齐** 通过 SML 定期会议与年度能力盘点，将各部委未获[[CHIPS and Science Act|芯片法案]]专项增量资金的基础研发项目与芯片法案重大基础设施紧密串联。（pp. 9–10, 48）
-> - **产学研共用中试枢纽落地** 建立开放式用户设施与多项目晶圆集中流片网关，向中小企业和大学科研人员开放商用级制造与封装资源。（pp. 21–28）
+> - **产学研共用中试枢纽落地** 建立开放式用户设施与[[Multi-Project Wafer|多项目晶圆]]集中流片网关，向中小企业和大学科研人员开放商用级制造与封装资源。（pp. 21–28）
 > - **人才管网与产业孵化协同** 结合 NSF [[NSF Regional Innovation Engines|区域创新引擎]]与 DOE 实验室嵌入式创业计划（如 [[Activate Fellowship|Cyclotron Road]]），打通人才培养与初创企业种子轮融资渠道。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 31–37, 45–47)]]
 
 ---
@@ -156,8 +159,8 @@ updated: 2026-10-10
 ## 效果与评价
 
 > [!indicators]- 评价指标体系
-> - **投入指标** 联邦微电子研发预算总额、开放式中试洁净室机时分配、MPW 拼版流片补贴规模、研究生与学徒奖学金数量。（pp. 21–28, 31–37）
-> - **过程指标** 跨部委联合资助选题比例、开源 EDA/[[Process Design Kit|PDK]] 采纳率、[[National Nanotechnology Coordinated Infrastructure|NNCI]] 与国家实验室外部学术用户比例、产学研人员双向流动人次。（pp. 23–25, 43–45）
+> - **投入指标** 联邦微电子研发预算总额、开放式中试洁净室机时分配、[[Multi-Project Wafer|MPW]] 拼版流片补贴规模、研究生与学徒奖学金数量。（pp. 21–28, 31–37）
+> - **过程指标** 跨部委联合资助选题比例、开源 [[Electronic Design Automation|EDA]]/[[Process Design Kit|PDK]] 采纳率、[[National Nanotechnology Coordinated Infrastructure|NNCI]] 与国家实验室外部学术用户比例、产学研人员双向流动人次。（pp. 23–25, 43–45）
 > - **结果指标** 原型跨越[[Valley of Death|死亡之谷]]周期缩短幅度、3D [[Heterogeneous Integration|异构集成]]封装密度、硬件零信任漏洞检出率、本土晶圆制造与先进封测全球份额回升率。（pp. 1–3, 17–20, 38）
 
 > [!finding-cards] 预期效果与战略突破

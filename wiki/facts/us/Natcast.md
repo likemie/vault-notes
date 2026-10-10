@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -27,7 +27,9 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Innovation Hub]]"
   - "[[Translational Research]]"
+  - "[[Electronic Design Automation]]"
   - "[[Process Design Kit]]"
+  - "[[Multi-Project Wafer]]"
   - "[[Learning and Employment Records]]"
 related_theories: []
 related_methods: []
@@ -88,8 +90,8 @@ updated: 2026-10-10
 
 > [!feature] Natcast 核心运营业务与赋能中枢
 > - **跨区域实体中试技术中心网络** 统一建设和调度 300 毫米晶圆先进基线工艺试验线、极紫外光刻（EUV）机时及超越摩尔特色器件试验床。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 14–15)]]
-> - **云端设计使能网关（DEG）** 集中谈判并向会员提供高性价比的商业 EDA 工具、安全 IP 资源库及标准[[Process Design Kit|工艺设计套件]]（PDK）。
-> - **多项目晶圆（MPW）与先进封装穿梭服务** 聚合全国碎片化流片需求，统一向商业代工厂与封测厂采购并排期拼版机时，大幅压缩验证成本。
+> - **云端设计使能网关（DEG）** 集中谈判并向会员提供高性价比的商业 [[Electronic Design Automation|EDA]] 工具、安全 IP 资源库及标准[[Process Design Kit|工艺设计套件]]（PDK）。
+> - **[[Multi-Project Wafer|多项目晶圆]]（MPW）与先进封装穿梭服务** 聚合全国碎片化流片需求，统一向商业代工厂与封测厂采购并排期拼版机时，大幅压缩验证成本。
 > - **国家半导体劳动力卓越中心（WCoE）** 统一制定覆盖全美产业界认可的微证书标准，推广[[Learning and Employment Records|学习与就业记录]]（LER）体系，弥合工程技能赤字。
 > - **[[National Science and Technology Council|NSTC]] 早期创投基金与孵化服务** 设立早期直投基金，为深科技硬件初创企业提供耐受性资本与市场化辅导。[[Argument_NIST_2023_NSTC|(NIST, 2023, p. 20)]]
 

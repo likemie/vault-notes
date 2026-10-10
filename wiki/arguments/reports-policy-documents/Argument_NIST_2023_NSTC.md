@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Translational Research]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Multi-Project Wafer]]"
   - "[[Modern Industrial Policy]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Pilot Scale Platform]]"
@@ -34,7 +35,9 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Paradigm]]"
   - "[[Innovation Hub]]"
+  - "[[Heterogeneous Integration]]"
   - "[[Assemblage]]"
+  - "[[Electronic Design Automation]]"
   - "[[Process Design Kit]]"
   - "[[Learning and Employment Records]]"
   - "[[Discourse]]"
@@ -60,6 +63,7 @@ related_facts:
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[National Science Foundation]]"
   - "[[Manufacturing USA]]"
+  - "[[DARPA Toolbox Initiative]]"
   - "[[National Institute for Health and Care Excellence]]"
 related_arguments: []
 sources:
@@ -74,7 +78,7 @@ title: "Argument_NIST_2023_NSTC"
 argument_key: "Argument_NIST_2023_NSTC"
 argument_display_title: "A vision and strategy for the National Semiconductor Technology Center"
 argument_kind: "report"
-argument_related_count: 37
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dcfce7"
@@ -92,7 +96,7 @@ publisher: "U.S. Department of Commerce"
 > 面对全球先进半导体制造产能高度向东亚集中、前沿物理微缩与异构封装研发资本门槛呈指数级攀升，以及全美大学与初创企业的硬件创新构想深陷从实验室到代工厂（[[Translational Research|lab-to-fab]]）中试断层的系统性困境，美国联邦政府应当如何依据《[[CHIPS and Science Act|芯片与科学法案]]》构建国家级半导体公私研发合作联合体，统筹物理中试试验线、云端数字设计资产、全谱系工程劳动力供给与独立中立治理架构，以重塑本土微电子[[Innovation Ecosystem|创新生态]]并巩固国家安全？（pp. 2–5）
 
 > [!claim] 核心主张
-> **[[National Semiconductor Technology Center|国家半导体技术中心]]（National Semiconductor Technology Center, [[National Science and Technology Council|NSTC]]）**作为《芯片与科学法案》110 亿美元研发资金的核心中枢，必须通过布局跨区域共享中试技术中心网络、聚合全国多项目晶圆与先进封装排期服务、打造云端设计网关以及依托独立非营利运营商（[[Natcast]]）推行公私分权共治，全面打通从基础科研探索到工业规模化制造的创新链条，构建兼具国家安全韧性与长期商业自生能力的新一代国家创新平台。（pp. 2–5, 8–11, 21–25）
+> **[[National Semiconductor Technology Center|国家半导体技术中心]]（National Semiconductor Technology Center, [[National Science and Technology Council|NSTC]]）**作为《芯片与科学法案》110 亿美元研发资金的核心中枢，必须通过布局跨区域共享中试技术中心网络、聚合全国[[Multi-Project Wafer|多项目晶圆]]与先进封装排期服务、打造云端设计网关以及依托独立非营利运营商（[[Natcast]]）推行公私分权共治，全面打通从基础科研探索到工业规模化制造的创新链条，构建兼具国家安全韧性与长期商业自生能力的新一代国家创新平台。（pp. 2–5, 8–11, 21–25）
 
 > [!concept-lens] 阅读透镜
 > - **经验对象** 美国国家半导体技术中心（NSTC）、[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（National Advanced Packaging Manufacturing Program, NAPMP）、国防部[[Microelectronics Commons|微电子共用体]]（Microelectronics Commons）、商务部国家标准与技术研究院（National Institute of Standards and Technology, NIST）计量研究项目及全美产学研微电子创新网络。（pp. 2–3, 8–11）
@@ -198,7 +202,7 @@ publisher: "U.S. Department of Commerce"
 > [!proc] 联邦跨部门微电子创新接力流程
 > 1. **基础科研与工艺探索（[[Technology Readiness Level|TRL]] 1–3）** 由国家科学基金会半导体未来计划（Future of Semiconductors, FuSe）与加速材料创新研究设计倡议（Designing Materials to Revolutionize and Engineer our Future, DMREF）协同能源部国家实验室支持早期材料与器件物理探索。（pp. 8–9）
 > 2. **敏捷国防原型验证（TRL 3–5）** 国防部微电子共用体依托 8 大[[Innovation Hub|区域创新枢纽]]，开展射频、量子、人工智能及安全边缘计算的原型制作。（p. 11）
-> 3. **共性中试与工艺放大（TRL 4–7）** NSTC 共享技术中心与 NAPMP 先进封装计划承接原型，进行 300 毫米晶圆基线工艺与异构集成放大。（pp. 14–15）
+> 3. **共性中试与工艺放大（TRL 4–7）** NSTC 共享技术中心与 NAPMP 先进封装计划承接原型，进行 300 毫米晶圆基线工艺与[[Heterogeneous Integration|异构集成]]放大。（pp. 14–15）
 > 4. **工业规模化商业量产（TRL 8–9）** 技术成果向本土商业晶圆代工厂与外包半导体[[Assemblage|组装]]与测试（Outsourced Semiconductor Assembly and Test, OSAT）厂商转移，实现大规模商业与国防采购。（pp. 8–10）
 
 各部门依托技术就绪度梯次推进，实现了基础研究向商业量产的闭环接力。
@@ -213,7 +217,7 @@ publisher: "U.S. Department of Commerce"
 > [!row-contrast] 《芯片法案》研发四大支柱协同矩阵
 > | 计划支柱 | 主管部门 / 资金规模 | 核心职责与业务重点 | 与 NSTC 的协同关系 |
 > |---|---|---|---|
-> | **国家半导体技术中心<br>([[National Semiconductor Technology Center\|NSTC]])** | 商务部 NIST / 研发专项预算核心中枢 | 建设共享技术中心、多项目晶圆流片、设计网关与劳动力卓越中心 | 顶层统筹与中试公共底座 |
+> | **国家半导体技术中心<br>([[National Semiconductor Technology Center\|NSTC]])** | 商务部 NIST / 研发专项预算核心中枢 | 建设共享技术中心、[[Multi-Project Wafer\|多项目晶圆流片]]、设计网关与劳动力卓越中心 | 顶层统筹与中试公共底座 |
 > | **国家先进封装制造计划<br>([[National Advanced Packaging Manufacturing Program\|NAPMP]])** | 商务部 NIST / 30 亿美元 | 攻克 2.5D/3D 封装、芯粒互连标准、共封装光学（Co-Packaged Optics, CPO）与微流控散热 | 依托 NSTC 设施开展先进封装中试 |
 > | **微电子共用体<br>([[Microelectronics Commons]])** | 国防部 DOD / 20 亿美元 | 布局 8 大区域枢纽，专攻电磁/射频、量子、安全边缘与 AI 原型验证 | 为 NSTC 中试线输送成熟技术原型 |
 > | **芯片计量与制造创新机构<br>(Metrology & Manufacturing USA)** | 商务部 NIST / 专项拨款 | 制定先进制程测量标准，设立半导体数字孪生与智能制造研究所 | 提供精度表征与制造工艺模型支撑 |
@@ -247,10 +251,10 @@ publisher: "U.S. Department of Commerce"
 
 #### 2. 云端设计软件授权、工艺套件与芯粒标准协同消除了前端电路设计的准入壁垒
 
-除了物理硬件，现代芯片创新的主要门槛在于 EDA 工具授权与可信知识产权（Intellectual Property, IP）库的极高费用。（pp. 16–17）
+除了物理硬件，现代芯片创新的主要门槛在于 [[Electronic Design Automation|EDA]] 工具授权与可信知识产权（Intellectual Property, IP）库的极高费用。（pp. 16–17）
 
 > [!feature] 设计网关核心赋能矩阵
-> - **云端 EDA 工具共享授权** 借鉴 [[DARPA]] 工具箱（DARPA Toolbox）先例，与主流 EDA 厂商谈判，为学术界与初创企业提供低成本甚至免费的云端设计套件。（pp. 16, 26）
+> - **云端 EDA 工具共享授权** 借鉴 [[DARPA]] 工具箱（[[DARPA Toolbox Initiative|DARPA Toolbox]]）先例，与主流 EDA 厂商谈判，为学术界与初创企业提供低成本甚至免费的云端设计套件。（pp. 16, 26）
 > - **标准[[Process Design Kit|工艺设计套件]]（Process Design Kit, PDK）与参考设计流程** 汇聚不同代工厂的工艺参数，提供端到端经过硅验证的参考流程。
 > - **硅验证安全 IP 库与开源标准** 建立涵盖 RISC-V 等开源架构与商业核心的安全 IP 资源库，加速复杂芯片开发。（pp. 16–17）
 > - **芯粒（Chiplet）互连标准与行业公共数据集** 制定统一的通用芯粒互连互通标准（Universal Chiplet Interconnect Express, UCIe），建立涵盖失效分析与制造缺陷的行业共享数据库。（pp. 15, 17）
@@ -317,7 +321,7 @@ NSTC 综合总统科技顾问委员会（PCAST）与[[Industrial Advisory Commit
 ## 主要发现
 
 > [!finding-cards] 核心政策发现
-> 1. **中试与设计双重门槛是微电子创新的致命堵点** 单片集成电路微缩成本高昂与 EDA 软件昂贵构成了压制大学与初创企业创新的首要制度壁垒。（pp. 6, 14–17）
+> 1. **中试与设计双重门槛是微电子创新的致命堵点** 单片集成电路微缩成本高昂与 [[Electronic Design Automation|EDA]] 软件昂贵构成了压制大学与初创企业创新的首要制度壁垒。（pp. 6, 14–17）
 > 2. **跨部门创新流水线必须实现从基础到制造的顺畅衔接** [[National Science and Technology Council|NSTC]] 必须同国防部[[Microelectronics Commons|微电子共用体]]及先进封装计划紧密配合，形成分工协同的端到端技术中试转化通道。（pp. 8–11）
 > 3. **人才是支撑先进制造回流的核心决定要素** 唯有通过劳动力卓越中心统筹微证书、高校实训与全包式托儿服务，才能有效弥合数十万人的技能赤字。（pp. 18–19）
 > 4. **独立非营利运营是维持联合体公信力与活力的制度基石** 依托独立实体（[[Natcast]]）运营并引入长期多渠道财务机制，是确保中心超越行政任期、持久运行的制度保障。（pp. 21–25）

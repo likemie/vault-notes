@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 68
+fact_related_count: 69
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Assemblage]]"
   - "[[Use-Inspired Basic Research]]"
+  - "[[Multi-Project Wafer]]"
   - "[[Heterogeneous Integration]]"
   - "[[Innovation Hub]]"
   - "[[Policy Conditionalities]]"
@@ -138,7 +139,7 @@ updated: 2026-10-10
 >   - **先进制造投资税收抵免（25% ITC）** 提供为期四年的 25% 联邦投资税收抵免（Section 48D），预估支持规模达 240 亿美元，辅以行政审批提速；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 97–98)]]
 >   - **国家科研机构扩容与大学角色重塑** 为[[National Science Foundation|美国国家科学基金会]]（NSF）授权 810 亿美元预算并增设[[Directorate for Technology, Innovation and Partnerships|技术、创新与伙伴关系理事会]]（TIP），专门加速[[Use-Inspired Basic Research|应用启发的基础研究]]与成果转化；为[[Department of Energy|美国能源部]]（DOE）科学办公室授权 305 亿美元增量预算支持前沿技术攻关；[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–20)]]
 >   - **先进研发四大支柱专项（110 亿美元直接研发拨款）** 由商务部与国防部联合统筹，构建贯通从基础科学到规模化量产的中试转化体系：
->     1. **[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）** 研发预算核心中枢，依托独立非营利运营商 [[Natcast]] 运营，布局 300 毫米先进 CMOS 基线线、极紫外（EUV）光刻机时共享、全国多项目晶圆（MPW）流片、云端设计网关（DEG）与劳动力卓越中心（WCoE）；[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 14–20)]]
+>     1. **[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）** 研发预算核心中枢，依托独立非营利运营商 [[Natcast]] 运营，布局 300 毫米先进 CMOS 基线线、极紫外（EUV）光刻机时共享、全国[[Multi-Project Wafer|多项目晶圆]]（MPW）流片、云端设计网关（DEG）与劳动力卓越中心（WCoE）；[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 14–20)]]
 >     2. **[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP，30 亿美元）** 专攻 2.5D/3D [[Heterogeneous Integration|异构集成]]、芯粒互连标准（UCIe）、共封装光学（CPO）与微流控散热；[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8, 26)]]
 >     3. **[[Microelectronics Commons|微电子共用体]]（20 亿美元）** 国防部在全美设立 8 大[[Innovation Hub|区域创新枢纽]]，专攻射频、量子、安全边缘计算及 AI 原型验证，构建军民两用转化走廊；[[Argument_NIST_2023_NSTC|(NIST, 2023, p. 11)]]
 >     4. **芯片计量与制造创新机构（NIST Metrology & [[Manufacturing USA]]）** 研发先进测量标准、数字孪生与智能制造工艺模型；[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 9–10)]]
@@ -184,7 +185,7 @@ updated: 2026-10-10
 > - **联邦中央集权遴选与直接拨付** 资金由联邦政府全额出资并直接主导投资优先级裁决，绕开地方中介层级，直接面向单个制造企业开展定向资助谈判，实现资金落地与项目推进的高效迅速。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 9–10)]]
 > - **无国籍偏好的投资组合与资金池竞标** 商务部打破传统保护主义只补贴本土企业的偏狭，向所有在美投建尖端晶圆厂的全球领军厂商（台积电、三星、英特尔、美光）开放资金池竞标，采用投资组合进路分散技术与商业化风险。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4, 8)]]
 > - **地方与区域承接** 亚利桑那州、纽约州、德克萨斯州、俄亥俄州等地方政府提供数十亿美元的地方税收减免与土地配套，推动晶圆超级工厂落地，并在地理空间上形成高度集聚。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 11)]]
-> - **公私研发协同与中试共置** 通过[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）联合产业界与大学，建立新型三代公私合作[[Paradigm|范式]]，依托独立非营利实体 Natcast 运营，整合 300 毫米晶圆测试线、多项目晶圆流片（MPW）与云端设计网关（DEG），并依托 [[Albany NanoTech Complex|Albany NanoTech]] 与 MIT.nano 洁净室实现产学空间共置攻关。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 14–22)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 22–24)]]
+> - **公私研发协同与中试共置** 通过[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）联合产业界与大学，建立新型三代公私合作[[Paradigm|范式]]，依托独立非营利实体 Natcast 运营，整合 300 毫米晶圆测试线、[[Multi-Project Wafer|多项目晶圆流片]]（MPW）与云端设计网关（DEG），并依托 [[Albany NanoTech Complex|Albany NanoTech]] 与 MIT.nano 洁净室实现产学空间共置攻关。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 14–22)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 22–24)]]
 > - **高校微观学术动员与多级人才培养** 高水平研究型大学设立专门应对法案的跨学科工作专班（如德州农工大学半导体研究院），联合产业领军企业建立微证书、工程本科与跨学科拔尖博士三级培养梯队，并设立国家半导体劳动力卓越中心（WCoE）统筹全美技能标准。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3–5)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 18–19)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–22)]]
 
 ---

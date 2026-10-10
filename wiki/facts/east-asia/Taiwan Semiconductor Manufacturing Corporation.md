@@ -11,7 +11,7 @@ subtype: organization
 region: east-asia
 fact_region: "east-asia"
 fact_kind: "organization"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[Paradigm]]"
   - "[[Technological Catch-up]]"
+  - "[[Electronic Design Automation]]"
   - "[[Process Design Kit]]"
   - "[[Learning by Doing]]"
   - "[[Innovation Ecosystem]]"
@@ -109,7 +110,7 @@ updated: 2026-10-10
 
 > [!pathways]- 业务运行机制
 > - **纯代工客户信任基石** 坚决不涉足芯片终端设计，彻底消除苹果、英伟达等客户关于核心设计架构与商业机密外泄的顾虑。
-> - **开放创新平台（Open Innovation Platform, OIP）** 联合 EDA 巨头（新思科技、铿腾电子）、IP 供应商（Arm）与设备材料商，为全球设计公司提供标准化的先进制程[[Process Design Kit|工艺设计套件]]（PDK），构建起强大的软件与生态护城河。在《[[CHIPS and Science Act|芯片与科学法案]]》下，美国[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）的共享中试产线与设计赋能网关（DEG）亦以台积电等主流商业晶圆厂的 PDK 基准与工艺流程为参照，确保大学和初创团队在中试线验证的原型能无缝导入商业代工厂进行规模化量产。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 14–22)]]
+> - **开放创新平台（Open Innovation Platform, OIP）** 联合 [[Electronic Design Automation|EDA]] 巨头（新思科技、铿腾电子）、IP 供应商（Arm）与设备材料商，为全球设计公司提供标准化的先进制程[[Process Design Kit|工艺设计套件]]（PDK），构建起强大的软件与生态护城河。在《[[CHIPS and Science Act|芯片与科学法案]]》下，美国[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）的共享中试产线与设计赋能网关（DEG）亦以台积电等主流商业晶圆厂的 PDK 基准与工艺流程为参照，确保大学和初创团队在中试线验证的原型能无缝导入商业代工厂进行规模化量产。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 14–22)]]
 > - **良率与规模的正反馈飞轮** 庞大的客户代工规模为台积电提供了海量晶圆缺陷数据，使其[[Learning by Doing|在做中学]]的学习曲线斜率远陡于同行，持续巩固“良率领先 $\to$ 成本更低 $\to$ 利润更厚 $\to$ 研发开支更大 $\to$ 新制程再次领跑”的垄断闭环。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81, 88)]]
 
 ---

@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
+  - "[[Electronic Design Automation]]"
   - "[[University-Based Research Center]]"
   - "[[Membership-based Research Consortium]]"
   - "[[Industry Affiliate Program]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-08
+updated: 2026-10-10
 ---
 
 # Silicon Structures Project
@@ -92,7 +93,7 @@ updated: 2026-10-08
 
 > [!finding-cards] 核心成果与辐射影响
 > - **Mead-Conway [[VLSI Project|VLSI]] 设计方法学奠基** 推动将芯片物理版图与逻辑功能解耦，开创了无晶圆厂设计（Fabless）与代工制造分离的基础理念。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 290)]]
-> - **早期多厂商 EDA 算法原型** 联合出资开发针对数十万晶体管规模的早期电路仿真与版图自动生成软件工具。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 290–291)]]
+> - **早期多厂商 [[Electronic Design Automation|EDA]] 算法原型** 联合出资开发针对数十万晶体管规模的早期电路仿真与版图自动生成软件工具。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 290–291)]]
 
 > [!citation-card] 卡弗·米德论大学在前瞻性微电子研究中的不可替代功能
 > 大学的功能之一在于进行比在快速兴起且竞争激烈的产业界中可能进行的更长远的前瞻性探索。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 290–291)]]

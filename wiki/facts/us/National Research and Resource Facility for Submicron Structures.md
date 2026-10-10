@@ -13,7 +13,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -46,12 +46,13 @@ related_facts:
   - "[[Semiconductor Research Corporation]]"
   - "[[Bell Labs]]"
   - "[[National Science Board]]"
+  - "[[National Nanotechnology Coordinated Infrastructure]]"
 related_arguments:
   - "[[Argument_Mody_2017_MOH]]"
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-06
+updated: 2026-10-10
 ---
 
 # National Research and Resource Facility for Submicron Structures
@@ -77,7 +78,7 @@ updated: 2026-10-06
 > - **1976–1977 — 制度企业家倡议与破冰设立** 康奈尔大学电气工程教授约瑟夫·鲍尔（Joseph Ballantyne）与查尔斯·李（Charles Lee）等早期提议，前[[Bell Labs|贝尔实验室]]研究员杰弗里·哈里斯（Jeffrey Harris）在 [[National Science Foundation|NSF]] 组织多次行业研讨会与论证，化解了来自英特尔与军方的质疑，最终促成 NSF 理事会正式立项资助康奈尔大学建立 NRRFSS。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 291–292)]]
 > - **1978–1986 — 产学交融与卓越中心共建** 由爱德华·沃尔夫（Edward Wolf）出任中心主任，广泛开展工业界技术咨询、设备采购指导与人员驻留；1981 年建立[[Industry Affiliate Program|产业联盟计划]]（吸纳 37 家企业，每家年费 8,500 美元）；并在康奈尔校园协同设立 [[Semiconductor Research Corporation|SRC]] 微科学与技术卓越中心，沃尔夫等中心领袖出任 SRC 大学顾问委员会成员直接参与行业技术议程规划。1982 年[[National Science Board|国家科学委员会]]（NSB）批评其对外开放不足并威胁撤资，中心增设专门用户计划副主任，至 1986 年将外部用户比例大幅提升至 60%（其中 12% 为工业界用户），设施内 1/3 的科研课题获得工业界直接资助。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 292–293, 297)]]
 > - **1985–1987 — 政治盟友动员化解撤资危机** 1985 年 NSF 企图削减其拨款时，中心展现出强大的政治动员能力，协同纽约州国会代表团、工业联盟赞助商及顾问委员会企业高管联合游说 NSF，成功迫使联邦管理层撤回撤资决定并巩固了国家级地位。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 295)]]
-> - **1987–至今 — 向纳米制造与多学科网络演变** 1987 年更名为康奈尔纳米加工设施（Cornell Nanofabrication Facility, CNF），随后成为 NSF 国家纳米制造用户网络（National Nanofabrication Users Network, NNUN）以及 13 所高校组成的国家纳米技术协同基础设施（National Nanotechnology Coordinated Infrastructure, NNCI）的核心节点，研究领域从纯半导体工艺成功拓宽至生物工程（如基因枪发明、酒庄微孔真菌生长研究）、微流控与材料科学。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 297–298)]]
+> - **1987–至今 — 向纳米制造与多学科网络演变** 1987 年更名为康奈尔纳米加工设施（Cornell Nanofabrication Facility, CNF），随后成为 NSF 国家纳米制造用户网络（National Nanofabrication Users Network, NNUN）以及 13 所高校组成的国家纳米技术协同基础设施（[[National Nanotechnology Coordinated Infrastructure]], NNCI）的核心节点，研究领域从纯半导体工艺成功拓宽至生物工程（如基因枪发明、酒庄微孔真菌生长研究）、微流控与材料科学。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 297–298)]]
 
 ---
 

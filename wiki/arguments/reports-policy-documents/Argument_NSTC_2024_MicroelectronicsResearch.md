@@ -38,8 +38,11 @@ related_concepts:
   - "[[Curiosity-Driven Research]]"
   - "[[Engineering Education]]"
   - "[[STEM Education]]"
+  - "[[Electronic Design Automation]]"
   - "[[Von Neumann Architecture]]"
+  - "[[Digital Twin in Manufacturing]]"
   - "[[Megascience Installations]]"
+  - "[[Multi-Project Wafer]]"
   - "[[Apprenticeship]]"
   - "[[Informal Science Learning]]"
   - "[[Public-Private Partnership in Research]]"
@@ -65,7 +68,11 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[CHIPS and Science Act]]"
   - "[[Department of Energy]]"
+  - "[[Next-Generation Microsystems Manufacturing]]"
   - "[[NSF I-Corps]]"
+  - "[[Materials Genome Initiative]]"
+  - "[[National Nanotechnology Initiative]]"
+  - "[[DARPA Toolbox Initiative]]"
   - "[[Semiconductor Research Corporation]]"
   - "[[Manufacturing USA]]"
   - "[[Joint University Microelectronics Program 2.0]]"
@@ -85,7 +92,7 @@ title: "Argument_NSTC_2024_MicroelectronicsResearch"
 argument_key: "Argument_NSTC_2024_MicroelectronicsResearch"
 argument_display_title: "National strategy on microelectronics research (as amended April 2025)"
 argument_kind: "report"
-argument_related_count: 47
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dcfce7"
@@ -196,7 +203,7 @@ publisher: "Executive Office of the President of the United States"
 > | 联邦机构 | 核心职责 | 重点支撑项目与基础设施 | 战略衔接功能 |
 > |---|---|---|---|
 > | **商务部（DOC / NIST）** | 先进制造中试、先进封装、计量标准 | 国家半导体技术中心（NSTC）、国家先进封装制造计划（NAPMP） | 承接 [[Technology Readiness Level\|TRL]] 4–7 中试验证并对接商业代工厂 |
-> | **国防部（DOD / [[DARPA]]）** | 国防专用芯片、极端环境器件、敏捷原型 | 微电子共用体（8 大枢纽）、下一代微系统制造（NGMM）、T&AM 计划 | 推动军民两用快速转化与可信硬件供给 |
+> | **国防部（DOD / [[DARPA]]）** | 国防专用芯片、极端环境器件、敏捷原型 | 微电子共用体（8 大枢纽）、[[Next-Generation Microsystems Manufacturing\|下一代微系统制造]]（NGMM）、T&AM 计划 | 推动军民两用快速转化与可信硬件供给 |
 > | **能源部（[[Department of Energy\|DOE]]）** | 基础材料物理、超算架构、微观表征设施 | 5 大纳米科学研究中心（NSRC）、国家实验室先进光源与中子源 | 探索量子与前沿材料物理机理并提供精密表征 |
 > | **国家科学基金会（NSF）** | [[Curiosity-Driven Research\|自由探索研究]]、开放共享设施、[[Engineering Education\|工程教育]] | 国家纳米技术协调基础设施（NNCI）、[[NSF I-Corps\|I-Corps]]、ASEM 计划 | 资助早期前沿课题与各层次 [[STEM Education\|STEM]] 人才培养 |
 
@@ -215,8 +222,8 @@ publisher: "Executive Office of the President of the United States"
 为满足人工智能、移动通信和边缘计算等复杂场景的要求，必须从底层半导体材料与芯片体系架构两端同步创新。
 
 > [!feature] 前沿技术重点研发方向
-> - **先进半导体材料研发（Materials R&D, 1.1）** 重点探索二维（2D）材料、宽禁带与超宽禁带半导体（碳化硅 SiC、氮化镓 GaN、金刚石）、铁电与自旋电子材料，满足高频通信、电力控制、航天防辐射及极低温环境下的特殊工作需求。（pp. 14–15）
-> - **电路设计与仿真工具开发（EDA Tools, 1.2）** 发展高层次综合、多物理场联合仿真、人工智能辅助版图生成工具及开源电子设计自动化（EDA）流程，缩短芯片研发周期并降低设计复杂度。（pp. 15–16）
+> - **先进半导体材料研发（Materials R&D, 1.1）** 依托[[Materials Genome Initiative|材料基因组计划]]（Materials Genome Initiative, MGI）建立的材料创新基础设施，重点探索二维（2D）材料、宽禁带与超宽禁带半导体（碳化硅 SiC、氮化镓 GaN、金刚石）、铁电与自旋电子材料，满足高频通信、电力控制、航天防辐射及极低温环境下的特殊工作需求。（pp. 14–15）
+> - **电路设计与仿真工具开发（[[Electronic Design Automation|EDA Tools]], 1.2）** 发展高层次综合、多物理场联合仿真、人工智能辅助版图生成工具及开源[[Electronic Design Automation|电子设计自动化]]（Electronic Design Automation, EDA）流程，缩短芯片研发周期并降低设计复杂度。（pp. 15–16）
 > - **新型稳健处理架构（Processing Architectures, 1.3）** 发展非[[Von Neumann Architecture|冯·诺依曼架构]]、类脑神经形态计算、存内计算（In-Memory Computing）、光子计算与专用硬件加速器，大幅降低数据在处理器与内存之间频繁搬运带来的能耗。（pp. 16–17）
 
 > [!figure]- 图：半导体算力演进曲线与未来三维异构驱动力
@@ -229,7 +236,7 @@ publisher: "Executive Office of the President of the United States"
 > [!feature] 异构集成与硬件安全重点举措
 > - **[[Heterogeneous Integration|三维异构集成]]与先进封装（Heterogeneous Integration, 1.4）** 推进模块化芯粒（Chiplets）标准、微凸点与混合键合工艺、多物理场散热技术及无损检测计量方法，把不同工艺节点制造的数字逻辑、射频和存储芯片高效堆叠集成。（pp. 17–18）
 > - **全栈内生[[Hardware Security|硬件安全]]（Hardware Security, 1.5）** 将防篡改与完整性作为[[Co-Design|协同设计]]的核心要求，在芯片前端设计中嵌入硬件信任根（RoT）、物理不可克隆函数（PUF）与自动化安全扫描算法，确保在复杂的供应链环境下芯片依然可信。（pp. 18–19）
-> - **绿色可持续制造工艺（Sustainable Manufacturing, 1.6）** 研发替代全氟/多氟烷基物质（PFAS）的环保化学试剂，降低半导体制造过程中的水电消耗与环境足迹。（pp. 19–20）
+> - **绿色制造与工艺数字孪生（Sustainable Manufacturing & Metrology, 1.6）** 研发替代全氟/多氟烷基物质（PFAS）的环保化学试剂，推进[[Digital Twin in Manufacturing|半导体制造数字孪生]]（Digital Twin in Manufacturing）与全厂虚拟化建模，结合原位计量加速工艺流收敛并降低制造环境足迹。（pp. 19–20）
 
 > [!frames-ref]- 目标一前沿技术突破六大任务
 > - **1.1 材料创新** 研发超越传统硅基的二维晶体管材料与超宽禁带功率半导体。（pp. 14–15）
@@ -251,8 +258,8 @@ publisher: "Executive Office of the President of the United States"
 针对高校师生和小微企业无力独立建设昂贵洁净室的现实，联邦政府推行开放共享的基础设施支持体系。
 
 > [!pathways] 开放中试与表征设施支撑体系
-> - **联邦微纳制造与表征用户网络（User Facilities Network, 2.1）** 依托 NSF 资助的[[National Nanotechnology Coordinated Infrastructure|国家纳米技术协调基础设施]]（NNCI）与能源部国家实验室[[Megascience Installations|大科学装置]]，向全美科研人员开放数千台加工与检测仪器，降低前沿研究的实验门槛。（pp. 21–23, 38）
-> - **灵活设计工具与晶圆流片准入（Design Tools & Wafer Access, 2.2）** 整合多项目晶圆（MPW）拼版流片需求，扩大商业与开源[[Process Design Kit|工艺设计套件]]（PDK）及装配设计套件（ADK）的使用授权，降低单次流片验证费用。（pp. 23–24）
+> - **联邦微纳制造与表征用户网络（User Facilities Network, 2.1）** 依托[[National Nanotechnology Initiative|国家纳米技术倡议]]（National Nanotechnology Initiative, NNI）支持的[[National Nanotechnology Coordinated Infrastructure|国家纳米技术协调基础设施]]（NNCI）与能源部国家实验室[[Megascience Installations|大科学装置]]，向全美科研人员开放数千台加工与检测仪器，降低前沿研究的实验门槛。（pp. 21–23, 38）
+> - **灵活设计工具与晶圆流片准入（Design Tools & Wafer Access, 2.2）** 推广DARPA [[DARPA Toolbox Initiative|工具箱计划]]（[[DARPA Toolbox Initiative]]）模式，整合[[Multi-Project Wafer|多项目晶圆]]（Multi-Project Wafer, MPW）拼版流片需求，扩大商业与开源[[Process Design Kit|工艺设计套件]]（PDK）及装配设计套件（ADK）的使用授权，降低单次流片验证费用。（pp. 23–24）
 > - **关键材料库与高性能建模平台（Materials & Cyberinfrastructure, 2.3–2.4）** 建设前沿半导体材料样品分发中心，并提供面向多物理场仿真的云端高性能计算支持。（pp. 24–25）
 
 > [!figure]- 图3：国家纳米技术协调基础设施（NNCI）用户设施网络
@@ -266,7 +273,7 @@ publisher: "Executive Office of the President of the United States"
 > 先进半导体制造技术的商业化通常需要漫长的研发与验证。普通科学突破从论文发表到走向量产通常需要 10 至 15 年，而涉及极端制造装备的突破耗时更久。以支撑当前 3 纳米芯片量产的极紫外光刻（EUV）技术为例，从最初的基础物理概念提出和实验室光源试验，到解决光源功率衰减、多层反射镜缺陷与高灵敏度光刻胶等一系列复杂工程难题并在商业晶圆厂中普及，前后历经了 40 余年。这一历史过程说明，必须依靠国家级共性中试设施提供长期稳定的资金与实验环境，颠覆性硬件技术才能跨越产业化前的中试鸿沟。（p. 38）
 
 > [!proc] 中试试验与先进封装推进路径
-> 1. **建设国家级中试试验线（Bridge Lab-to-Fab Gap, 2.5）** 依托国家半导体技术中心（NSTC）技术中心网络与微电子共用体（Microelectronics Commons）枢纽，设立 300 毫米晶圆先导试验线，提供符合商业代工厂工艺参数的原型测试平台。（pp. 25–28）
+> 1. **建设国家级中试试验线（Bridge Lab-to-Fab Gap, 2.5）** 依托国家半导体技术中心（NSTC）技术中心网络、微电子共用体（Microelectronics Commons）枢纽与 DARPA [[Next-Generation Microsystems Manufacturing|下一代微系统制造计划]]（NGMM）设立的本土开放式 3DHI 中试中心，设立晶圆先导试验线，提供符合商业代工厂工艺参数的原型测试平台。（pp. 25–28）
 > 2. **补齐先进封装与测试短板（Packaging & Testing, 2.6）** 依托国家先进封装制造计划（NAPMP），建设晶圆级封装、高密度基板制造与自动化测试平台，改变本土先进封装能力薄弱的现状。（pp. 28–29）
 
 ---

@@ -7,7 +7,7 @@ aliases:
 summary: "新古典福利经济学核心概念，指由于公共品、外部性、信息不对称与不完全竞争导致自由市场价格机制无法实现帕累托最优资源配置；在科技政策中构成了传统研发资助与产业政策（集聚外部性、干中学效应）的基准依据，但在演化经济学与当代地缘政治产业政策实践中，该框架因无法指引演化方向并被国家安全与供应链保险动机所超越，成为理论反思与扩展的核心对象。"
 type: concept
 domain: "science-policy"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Policy Conditionalities]]"
   - "[[Public Value]]"
   - "[[Pilot Scale Platform]]"
+  - "[[Electronic Design Automation]]"
   - "[[Translational Research]]"
   - "[[Valley of Death]]"
   - "[[Process Design Kit]]"
@@ -228,7 +229,7 @@ updated: 2026-10-10
 > 探讨在先进制程、异构封装与硬件安全研发中，为何自由市场与分散私人资本无法自发提供共性中试线与安全信任根，导致深科技陷入创新链中间带市场失灵。
 
 > [!claim] [[Argument_NIST_2023_NSTC|NIST (2023)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]]
-> **中试验证高门槛与硬件安全外部性导致的创新链市场失灵与公共品修复** 在半导体等高资本密度战略前沿领域，基础科研成果向产业化量产的转化面临深层市场失灵。兴建一座具备 300mm 晶圆与 2.5D/3D 异构封装能力的[[Pilot Scale Platform|中试验证线]]需要数十至上百亿美元资本开支，单次流片掩模成本高达数百万至上千万美元，且 EDA 工具授权极其昂贵；同时，硬件层面的木马后门与侧信道漏洞无法在商业市场中被买方有效检验或定价，导致私营部门对硬件根信任（Root of Trust）与零信任架构严重投资不足。这种极高的资本门槛、试错不确定性与信息不对称，导致商业资本系统性避险，使全美高校与初创企业的研究成果深陷实验室到制造厂（[[Translational Research|lab-to-fab]]）的[[Valley of Death|死亡之谷]]。[[National Science and Technology Council|白宫国家科学技术委员会]]（NSTC）与 NIST 战略论证指出，国家必须通过法定授权直接出资设立分布式共享中试技术中心、云端设计网关（DEG）、开放 [[Process Design Kit|PDK]]/ADK 接口及可量化硬件安全基准，将中试验证能力与根信任架构转化为国家级产业公共品，从根本上矫正微电子创新链的中试与安全市场失灵。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 6–10, 20–23)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–29, 37–44)]]
+> **中试验证高门槛与硬件安全外部性导致的创新链市场失灵与公共品修复** 在半导体等高资本密度战略前沿领域，基础科研成果向产业化量产的转化面临深层市场失灵。兴建一座具备 300mm 晶圆与 2.5D/3D 异构封装能力的[[Pilot Scale Platform|中试验证线]]需要数十至上百亿美元资本开支，单次流片掩模成本高达数百万至上千万美元，且 [[Electronic Design Automation|EDA]] 工具授权极其昂贵；同时，硬件层面的木马后门与侧信道漏洞无法在商业市场中被买方有效检验或定价，导致私营部门对硬件根信任（Root of Trust）与零信任架构严重投资不足。这种极高的资本门槛、试错不确定性与信息不对称，导致商业资本系统性避险，使全美高校与初创企业的研究成果深陷实验室到制造厂（[[Translational Research|lab-to-fab]]）的[[Valley of Death|死亡之谷]]。[[National Science and Technology Council|白宫国家科学技术委员会]]（NSTC）与 NIST 战略论证指出，国家必须通过法定授权直接出资设立分布式共享中试技术中心、云端设计网关（DEG）、开放 [[Process Design Kit|PDK]]/ADK 接口及可量化硬件安全基准，将中试验证能力与根信任架构转化为国家级产业公共品，从根本上矫正微电子创新链的中试与安全市场失灵。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 6–10, 20–23)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–29, 37–44)]]
 
 ---
 

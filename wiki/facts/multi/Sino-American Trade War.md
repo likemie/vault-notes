@@ -10,7 +10,7 @@ subtype: event
 region: multi
 fact_region: "multi"
 fact_kind: "event"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge Production]]"
   - "[[Vertical Disintegration]]"
+  - "[[Electronic Design Automation]]"
   - "[[Market Failure]]"
 related_theories: []
 related_methods: []
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-10-08
+updated: 2026-10-10
 ---
 
 # Sino-American Trade War
@@ -121,7 +122,7 @@ updated: 2026-10-08
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Modern Industrial Policy]] | Concept | 贸易战促成了从关税保护向巨额补贴、出口管制与国家安全主导的现代产业政策跃迁。 |
-> | [[Vertical Disintegration]] | Concept | 半导体产业链的全球纵向离散使得双方在关键卡点环节（EDA、设备、成熟产能）展开激烈博弈。 |
+> | [[Vertical Disintegration]] | Concept | 半导体产业链的全球纵向离散使得双方在关键卡点环节（[[Electronic Design Automation\|EDA]]、设备、成熟产能）展开激烈博弈。 |
 > | [[Market Failure]] | Concept | 国家安全与地缘政治风险超越了传统市场失灵框架，成为贸易战中政府深度干预经济的依据。 |
 > | [[October 2022 US Semiconductor Export Controls]] | Fact (Policy) | 贸易战向高科技先进制程技术封锁全面升级的里程碑式政策产物。 |
 > | [[China Integrated Circuit Industry Investment Fund]] | Fact (Program) | 中国在应对贸易战封锁与技术断链中充当资本托底与国产替代核心引擎的产业基金。 |

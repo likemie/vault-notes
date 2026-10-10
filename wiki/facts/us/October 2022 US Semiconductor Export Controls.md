@@ -13,7 +13,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
   - theme/trade-policy
   - policy/national-security
 related_concepts:
+  - "[[Electronic Design Automation]]"
   - "[[Paradigm]]"
   - "[[Modern Industrial Policy]]"
   - "[[Vertical Disintegration]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-06
+updated: 2026-10-10
 ---
 
 # October 2022 US Semiconductor Export Controls
@@ -56,7 +57,7 @@ updated: 2026-10-06
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2022 年 10 月 7 日由美国商务部工业与安全局（Bureau of Industry and Security, BIS）正式颁布（并在 2023 年 10 月发布更新与强化规则）。
-> - **适用地区 / 对象** 全球半导体制造设备供应商、电子设计自动化（EDA）软件开发商、先进制程晶圆代工厂，以及在相关涉华半导体实体任职的“美国人”（含美国公民与永久居民）。
+> - **适用地区 / 对象** 全球半导体制造设备供应商、[[Electronic Design Automation|电子设计自动化]]（EDA）软件开发商、先进制程晶圆代工厂，以及在相关涉华半导体实体任职的“美国人”（含美国公民与永久居民）。
 > - **问题背景** 2018 年以来以关税为主要武器的[[Sino-American Trade War|中美贸易战]]未能有效遏制中国在半导体领域的自主化进程；2022 年中芯国际被证实具备生产 7nm 芯片的能力，加剧了美国政府对于中国在先进制程和人工智能芯片领域取得军事应用优势的深度担忧。
 > - **制度位置** 标志着美国对华科技战略由保持“相对领先优势”全面转向“绝对领先并主动拉大技术代差”的[[Paradigm|范式]]转变，成为 [[Modern Industrial Policy|现代产业政策]] 中非关税国家安全治理工具的典型代表。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 98–99)]]
 
@@ -65,7 +66,7 @@ updated: 2026-10-06
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 2022 年 10 月出口管制新规建立了全方位的先进制程技术禁运防线：设定了明确的逻辑芯片与存储芯片制程性能门槛，全面禁止向中国出口先进制程芯片、先进制程制造设备与特定 EDA 工具，限制美国人员支持中国先进晶圆厂运营，并推动荷兰与日本政府跟进协同管制。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 98–100)]]
+> 2022 年 10 月出口管制新规建立了全方位的先进制程技术禁运防线：设定了明确的逻辑芯片与存储芯片制程性能门槛，全面禁止向中国出口先进制程芯片、先进制程制造设备与特定 [[Electronic Design Automation|EDA]] 工具，限制美国人员支持中国先进晶圆厂运营，并推动荷兰与日本政府跟进协同管制。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 98–100)]]
 
 > [!policy-design]- 政策设计
 > - **政策目标** 全面锁死中国发展先进制程芯片制造能力、阻断用于训练大语言模型与前沿 AI 算法的高性能图形处理器（GPU）与计算芯片流向中国。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 99)]]
@@ -102,7 +103,7 @@ updated: 2026-10-06
 > [!actor-grid] 实施角色分工
 > - **发布与主导部门** 美国商务部工业与安全局（BIS）、美国国家安全委员会（NSC）。
 > - **跨国盟友执行部门** 荷兰外贸与发展合作部（管制 ASML DUV 光刻机出口）、日本经济产业省（METI，管制 23 类半导体设备出口）。
-> - **受规制行业主体** 美国 EDA 软件龙头（新思科技、铿腾电子）、设备巨头（应用材料、泛林半导体、科磊）及 AI 芯片巨头（英伟达、AMD）。
+> - **受规制行业主体** 美国 [[Electronic Design Automation|EDA]] 软件龙头（新思科技、铿腾电子）、设备巨头（应用材料、泛林半导体、科磊）及 AI 芯片巨头（英伟达、AMD）。
 > - **被施加限制目标** 中国先进制程晶圆厂（中芯国际、华虹）、存储器巨头（长江存储、长鑫存储）以及顶尖人工智能研发机构。
 
 > [!pathways]- 实施路径
@@ -177,7 +178,7 @@ updated: 2026-10-06
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Modern Industrial Policy]] | Concept | 2022 年管制新规是现代产业政策以国家安全为导向、动用非关税技术封锁的核心标志。 |
-> | [[Vertical Disintegration]] | Concept | 半导体产业链跨国多阶段网络为长臂管辖（控制 EDA、设备卡点）提供了制度卡点杠杆。 |
+> | [[Vertical Disintegration]] | Concept | 半导体产业链跨国多阶段网络为长臂管辖（控制 [[Electronic Design Automation\|EDA]]、设备卡点）提供了制度卡点杠杆。 |
 > | [[Market Failure]] | Concept | 纯市场竞争无法自发提供国家安全与地缘防务保障，构成政府实施强制性出口管制的理论理由。 |
 > | [[Sino-American Trade War]] | Fact (Event) | 2018 年关税贸易战的升级演进产物，标志着争端从关税惩罚全面转向高科技冷战与设备禁运。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 美国在实施对外出口管制的同胞互补政策，意在通过本土巨额补贴重建制造产能。 |

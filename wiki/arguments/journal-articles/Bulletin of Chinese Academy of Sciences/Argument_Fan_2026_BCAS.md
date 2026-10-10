@@ -68,6 +68,7 @@ related_facts:
   - "[[President's Science Advisory Committee]]"
   - "[[Science in the National Interest 1994]]"
   - "[[National Science and Technology Council]]"
+  - "[[National Nanotechnology Initiative]]"
   - "[[NSF Broader Impacts Criterion]]"
   - "[[A Strategy for American Innovation 2011]]"
   - "[[March for Science 2017]]"
@@ -85,7 +86,7 @@ title: "Argument_Fan_2026_BCAS"
 argument_key: "Argument_Fan_2026_BCAS"
 argument_display_title: "科学还是无止境的边疆吗——从“科学的社会契约”看美国科学政策的过去与未来"
 argument_kind: "journal-article"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -244,7 +245,7 @@ journal: "中国科学院院刊"
 > [!feature] 应对冷战后合法性危机的四项制度重构举措（pp. 1059–1060）
 > - **战略纲领重定** 1994 年克林顿-戈尔政府发布《[[Science in the National Interest 1994|科学与国家利益]]》，将科学目标转向经济繁荣、环境保护与国民健康。
 > - **认知范式重构** [[Donald Stokes|唐纳德·斯托克斯]]（Donald E. Stokes）于 1997 年提出[[Pasteur's Quadrant|巴斯德象限]]，确立[[Use-Inspired Basic Research|应用启发的基础研究]]概念，打破基础与应用的机械对立。
-> - **统筹与产业协同** 设立[[National Science and Technology Council|国家科学技术委员会]]（National Science and Technology Council, NSTC），实施先进技术计划（ATP）与国家纳米技术倡议（NNI）等跨部门产业协同工具。
+> - **统筹与产业协同** 设立[[National Science and Technology Council|国家科学技术委员会]]（National Science and Technology Council, NSTC），实施先进技术计划（ATP）与[[National Nanotechnology Initiative|国家纳米技术倡议]]（NNI）等跨部门产业协同工具。
 > - **多重契约交叠共存** [[Sheila Slaughter|希拉·斯劳特]]（[[Sheila Slaughter]]）等学者的实证分析表明，该时期并未发生单一契约向另一单一契约的骤然更替，而是形成了冷战遗产契约、经济竞争力契约与健康研究特定契约等多维交叠、动态博弈的复合形态。
 
 > [!implication]- 科学资助逻辑的竞争性转向与自治属性的条件化（p. 1060）

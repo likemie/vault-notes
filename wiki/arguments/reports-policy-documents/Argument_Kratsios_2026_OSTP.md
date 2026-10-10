@@ -129,6 +129,7 @@ related_facts:
   - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[Fast Grants]]"
   - "[[United Kingdom Metascience Unit]]"
+  - "[[National Nanotechnology Coordinated Infrastructure]]"
   - "[[Accelerating Medicines Partnership]]"
   - "[[Activate Fellowship]]"
   - "[[Transformational AI Models Consortium]]"
@@ -145,7 +146,7 @@ title: "Argument_Kratsios_2026_OSTP"
 argument_key: "Argument_Kratsios_2026_OSTP"
 argument_display_title: "Science: A new golden age (Report to the President)"
 argument_kind: "report"
-argument_related_count: 108
+argument_related_count: 109
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -570,7 +571,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 
 #### 5. 调整国家实验室用户设施准入标准以吸纳产业创新者
 
-能源部所属 28 个世界级用户设施与国家纳米技术协调基础设施（National Nanotechnology Coordinated Infrastructure, NNCI），长期主要依据学术论文优劣分配机时，导致商业初创企业难以进入。
+能源部所属 28 个世界级用户设施与[[National Nanotechnology Coordinated Infrastructure|国家纳米技术协调基础设施]]（National Nanotechnology Coordinated Infrastructure, NNCI），长期主要依据学术论文优劣分配机时，导致商业初创企业难以进入。
 
 > [!feature] 开放型联邦基础设施与共享平台
 > - **[[Megascience Installations|大科学装置]]机时共享** 推动同步辐射光源与中子散射源向硬科技产业界开放，兼顾科学深度与商业验证紧迫性。（p. 40）

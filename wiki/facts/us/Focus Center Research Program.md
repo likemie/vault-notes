@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 26
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -32,10 +32,12 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Corporate R&D Labs]]"
   - "[[Hypothesis]]"
+  - "[[Electronic Design Automation]]"
   - "[[Open-Mindedness]]"
   - "[[Multi-University]]"
   - "[[Precompetitive Research]]"
   - "[[Research Translation]]"
+  - "[[Heterogeneous Integration]]"
   - "[[University-Industry Collaboration]]"
   - "[[Paradigm]]"
   - "[[Document]]"
@@ -62,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 
 # Focus Center Research Program
@@ -91,7 +93,7 @@ updated: 2026-10-09
 > - **项目目标** 聚焦半导体技术路线图预测中 10 至 15 年后硅基 CMOS 工艺面临的“红砖墙”（Red Bricks，即已知物理方法无法逾越的技术瓶颈），开展颠覆性新原理、新材料、新架构的前沿突破。
 > - **多校多学科网络布局** 首批及后续设立的重点焦点中心包括：
 >   - **互连技术焦点中心（Interconnect Focus Center, IFC）** 佐治亚理工学院牵头，斯坦福、MIT 等协同，攻坚多层金属互连、光电互连与热管理。
->   - **设计与测试焦点中心（Gigascale Systems Research Center, GSRC）** 加州大学伯克利分校牵头，探索十亿门级超大规模集成电路系统架构与 EDA 工具。
+>   - **设计与测试焦点中心（Gigascale Systems Research Center, GSRC）** 加州大学伯克利分校牵头，探索十亿门级超大规模集成电路系统架构与 [[Electronic Design Automation|EDA]] 工具。
 >   - **纳米级材料与结构中心（FENA / MSD）** 加州大学洛杉矶分校（UCLA）、MIT 等牵头，攻坚高介电常数（High-k）材料与后 CMOS 新器件。
 > - **[[Open-Mindedness|开放性]]与人才培养设计** 坚持完全公开学术发表原则，所有研究生的学位论文对成员企业全面开放，将博士生的高质量科研过程与紧缺人才培养深度捆绑。
 
@@ -143,7 +145,7 @@ updated: 2026-10-09
 > - **[[Research Translation|技术转化]]外溢指标** 被国际半导体技术路线图（ITRS）采纳的新材料/新器件标准数、催生的硬科技初创企业数。
 
 > [!finding-cards] 核心实证结论与产业影响
-> - **维系摩尔定律持续演进的技术突破** FCRP 在三维异构集成、FinFET 晶体管物理、极紫外（EUV）光刻材料及 EDA 自动化合成算法上做出了决定性基础贡献。
+> - **维系摩尔定律持续演进的技术突破** FCRP 在[[Heterogeneous Integration|三维异构集成]]、FinFET 晶体管物理、极紫外（EUV）光刻材料及 [[Electronic Design Automation|EDA]] 自动化合成算法上做出了决定性基础贡献。
 > - **构建全美微电子高阶人才供给主干道** FCRP 累计培养了数千名微电子与计算机工程领域的顶尖博士，成为美国半导体跨国企业与顶尖高校微电子教职的核心人才来源。
 > - **树立产学官公私研发合作（[[Public-Private Partnership in Research|PPP]]）制度标杆** 成功验证了在竞争性高技术领域，政府（[[DARPA]]）、[[Industry Affiliate Program|产业联盟]]（SIA/[[Sematech]]）与大学科研深度融合的长效治理模式。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]
 

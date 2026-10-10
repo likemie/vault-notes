@@ -7,7 +7,7 @@ aliases:
 summary: "由 Dosi 与 Pavitt 奠基的演化经济学核心理论，指技术变迁沿特定范式方向进行累积性、不可逆与路径依赖的演进；阐明技术来源、需求与专有性塑造产业异质性，以及军工首发采购、反垄断规制与嵌入型网络治理如何引导并协同新兴通用技术轨道的跨国分叉与起飞。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 64
+theory_related_count: 65
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Wicked Problem]]"
   - "[[Market Failure]]"
   - "[[Distributed Agency]]"
+  - "[[Electronic Design Automation]]"
   - "[[Return on Investment]]"
   - "[[Technology Infusion]]"
   - "[[Embedded Network Governance]]"
@@ -90,7 +91,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-11
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 
 # Technological Trajectories
@@ -189,7 +190,7 @@ updated: 2026-10-09
 > **应用实例** [[Government Digital Service|英国政府数字服务局]]（GDS）通过小步原型迭代与跨部门流动团队，打破传统各部委独立的 IT 系统开发轨迹，推动公共服务平台与开源技术轨迹的深度融合。
 
 > [!theory-proposition] 命题六｜公共代理人依托[[Network Plasticity|网络可塑性]]与非正式机制在[[Vertical Disintegration|纵向碎片化产业]]中引导技术轨道
-> **解释** 随着产业组织从传统的垂直一体化（如[[Bell Labs|贝尔实验室]]内部研发巨头）向垂直纵向碎片化（Dis-integrated / Vertically Fragmented，如芯片设计 Fabless、晶圆代工 Foundry、封装测试 OSAT 与电子设计自动化 EDA 软件割裂）转变，私营企业由于各自追求短期[[Return on Investment|投资回报]]与狭隘局部最优，缺乏动力与能力协调跨产业链环节的高风险共性[[Technology Infusion|技术整合]]。在此情境下，国家公共部门的专业代理人（如 [[DARPA]] 项目经理）依托[[Embedded Network Governance|嵌入型网络治理]]与非正式微观机制（前瞻识别与播撒构想、闭门[[Brainstorming|头脑风暴]]、构建跨界研发共同体、提供第三方信誉背书与机制化退出），主动调动“网络可塑性”（Network Plasticity），将大学基础研究、代工厂工艺、材料供应商与系统集成商编织进战略性试验网络，在不人为挑选单一商业赢家（Picking Winners）的前提下，系统引导并开辟突破物理极限的新兴技术轨道（如硅锗、应变硅、3D 封装与光互连芯片）。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144–1146)]]
+> **解释** 随着产业组织从传统的垂直一体化（如[[Bell Labs|贝尔实验室]]内部研发巨头）向垂直纵向碎片化（Dis-integrated / Vertically Fragmented，如芯片设计 Fabless、晶圆代工 Foundry、封装测试 OSAT 与[[Electronic Design Automation|电子设计自动化]] EDA 软件割裂）转变，私营企业由于各自追求短期[[Return on Investment|投资回报]]与狭隘局部最优，缺乏动力与能力协调跨产业链环节的高风险共性[[Technology Infusion|技术整合]]。在此情境下，国家公共部门的专业代理人（如 [[DARPA]] 项目经理）依托[[Embedded Network Governance|嵌入型网络治理]]与非正式微观机制（前瞻识别与播撒构想、闭门[[Brainstorming|头脑风暴]]、构建跨界研发共同体、提供第三方信誉背书与机制化退出），主动调动“网络可塑性”（Network Plasticity），将大学基础研究、代工厂工艺、材料供应商与系统集成商编织进战略性试验网络，在不人为挑选单一商业赢家（Picking Winners）的前提下，系统引导并开辟突破物理极限的新兴技术轨道（如硅锗、应变硅、3D 封装与光互连芯片）。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144–1146)]]
 >
 > **应用实例** 在微电子后摩尔时代，单体芯片微缩逼近物理与发热极限，单体芯片公司无力独立承担跨学科光电集成风险；DARPA 项目经理通过设立超高性能片内纳米光子通信（UNIC）计划，将大学光子学团队、太阳微系统（Sun Microsystems）以及波音等防务巨头强制协同，开辟了硅光互连技术轨道。
 
