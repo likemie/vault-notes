@@ -1,0 +1,1369 @@
+Explaining Institutional Change: Ambiguity, Agency, and Power
+Edited by James Mahoney and Kathleen Thelen
+First published in print: 2009 | Copyright: 2010 | Cambridge University Press
+
+Chapter 3: The Contradictory Potential of Institutions: The Rise and Decline of Land Documentation in Kenya
+Ato Kwamena Onoma
+Original print pages 63–93; PDF pages 81–111
+
+[English original. Chapter footnotes and references are retained in their original page positions. Print page markers and one-based PDF page numbers are provided. Original line breaks and fixed-width table layout are retained; verify diagrams and exact typography against the PDF.]
+
+
+========================================================================
+Chapter text, footnotes, and references
+========================================================================
+
+[p. 63] [PDF page 81]
+
+3
+
+The Contradictory Potential of Institutions
+
+The Rise and Decline of Land Documentation
+in Kenya
+
+      Ato Kwamena Onoma
+
+
+
+
+      I wanted a [land] document because it is like a marriage certificate for
+      a woman. It gives you [the husband] confidence that no one will ever
+      bother you.
+          An old farmer in Taita Taveta, Kenya, in a 2005 interview with
+          author
+
+      [Land titles] are mere pieces of paper.
+         William ole Ntimama, minister of local government, Kenya, “The
+         Indigenous and the Natives,” Weekly Review (Nairobi), July 9, 1993.
+
+
+Introduction
+
+The gradual decline of institutions that secure property rights presents
+us with an interesting puzzle. These institutions have a number of
+features that should display positive-feedback effects and ensure their
+continued strength. Land documentation systems, which constitute key
+components of these institutions, can aid informed and well-connected
+members of society in acquiring swathes of land, giving these actors an
+incentive to perpetuate such documentation systems (Scott 1998, 48).
+
+
+I thank Peter Hall, James Mahoney, Yaba Ndiaye, Abbey Steele, Kathleen Thelen,
+Elisabeth Wood, and the participants in the Workshop on Historical Institutionalism
+held at Northwestern University (October 26–27, 2007), as well as members of the Yale
+Comparative Politics Workshop, for comments on this paper. Research for this paper
+was partly funded by an International Dissertation Research Fellowship from the Social
+Science Research Council.
+
+[p. 64] [PDF page 82]
+
+Further, because titles and other forms of land documents and records
+can help them hold onto their property, we can expect landowners to
+invest in ensuring the efficacious operation of these systems. Beyond
+helping resolve issues of ownership, record systems create incentives
+for their perpetuation by facilitating the productive use of land and
+the transformation of land rights into capital (de Soto 2000). People
+involved in these modes of using land thus have an interest in uphold-
+ing effective record systems. Also, by rendering such exploitation of
+land more profitable, these institutional arrangements draw new actors
+to these land uses and so increase the pool of those dedicated to insti-
+tutional stability. For these reasons, the development of land docu-
+mentation systems should foster changes that reinforce rather than
+undermine property rights.
+    Against this background, the history of the documentation of land
+rights in Kenya presents a real conundrum. Introduced by the colo-
+nial administration in the early 1900s to aid the commercial activities
+of European settlers, land documentation was later extended to the
+African population and was warmly embraced and reinforced by the
+postcolonial government after independence in 1963. But instead of
+demonstrating the expected trajectory of increasing the stability of
+institutions that have positive-feedback effects, the practice of title
+registration gradually eroded and, by 2004, had fallen into disrepute
+(Kenya 2004, 189). Many have been quick to blame the exogenous
+shock of multiparty democratization in 1991 for this decline (Klopp
+2000, 2002; Kenya 2004, 82).1 This focus on exogenous shocks is
+consistent with much of the literature on change in institutions that
+display positive-feedback effects (Mahoney 2000; Katznelson 2003).
+If such institutions operate to increase support for their own continued
+existence, then their decline must be due to factors external to their
+workings.
+    Yet this focus on the exogenous shock of redemocratization in
+Kenya is a mistake. In May 1991, months before the announcement
+of multiparty democracy in Kenya, the exploitation of documentation
+
+
+1   Many policymakers that I interviewed similarly attributed this decline wholly to the
+    redemocratization process of the 1990s. Interviews with an official of the Ministry of
+    Lands in Nairobi (Ken 1), February 14, 2005, and a land control board member in
+    Nyeri District (Ken 18), March 3, 2005.
+
+[p. 65] [PDF page 83]
+
+systems and subsequent cancellation of hundreds of title deeds by
+Kenya’s High Court had led one contributor to the reputable Nairobi
+newspaper Weekly Review to wonder whether the assumption that
+a title gives one indefeasible rights to property was still true.2 Even
+more important, much of the fraudulent exploitation of land docu-
+ments and property rights that followed redemocratization mirrored
+(and maybe even copied) similar activities in the 1970s. So why did
+this institution, which should display strong positive-feedback effects,
+change over time?
+   To answer this question, I highlight the contradictory potential of
+institutions in explaining gradual change. By the “contradictory poten-
+tial of institutions” I mean the ability of institutions to simultaneously
+cultivate and sustain dominant coalitions that support perpetuation
+of these institutions and to engender marginal groups that thrive on
+subverting these institutions. These marginal groups take advantage of
+institutional rules by covertly violating the rules’ intended purpose –
+they are precisely the parasitic variety of “symbionts” to which
+Mahoney and Thelen refer in the introduction to this volume. In the
+struggles between institutional backers and parasitic actors, exogenous
+shocks can play a role, but not always as the sole or even the main
+causes of institutional change. Exogenous shocks often only exacerbate
+the existing advantage of one group or trend over others.
+   The first part of this chapter details the state’s attempt to introduce
+and expand land documentation in Kenya and the positive-feedback
+effects these efforts had over time. The aggressive efforts of colonial
+and postcolonial state officials popularized land documents in Kenya
+(Meek 1949, 93–94; Kenya 2004). But by the late 1990s, following
+a long process of erosion and drift, the efficacy of land documents
+had dramatically declined (Kenya 2004, 189). The second part of this
+empirical section thus details how the system of land documentation
+contributed over time to its own decline. I locate a significant cause
+of the decline in the efficacy of land documents in Kenya in the grad-
+ual activities of parasitic forces nurtured and sustained by the very
+system of land documentation that these forces were undermining.
+The promotion of land documentation in the Kenyan environment
+produced and empowered a dominant constituency of white settlers
+
+2   “What Value a Title Deed?” Weekly Review (Nairobi), May 31, 1991.
+
+[p. 66] [PDF page 84]
+
+and new black landed elites who supported land documentation and
+forcefully advocated the “sanctity of land titles” (Kenya 2004, 16).
+Vigorous efforts by the colonial and postcolonial state to encourage
+land documentation created the popular expectation that possession of
+a particular piece of paper could confer certain rights to a specific land
+parcel (Kenya 2004, 16). But, at the same time, land documentation
+fostered the rise of marginal con men dedicated to its exploitation. By
+cleverly manipulating beliefs about land documentation and the legal
+instruments that underpinned them, con men, working from the rela-
+tive safety of their offices, were able to exchange fake land documents
+for money and thereby defraud people across the country.3
+   By the 1970s, well-connected politicians, copying the con men,
+brought the subversive exploitation of land documents closer to the
+mainstream of Kenya’s political economy. They used land documents
+to amass and deploy political support. Issuing and selling fake docu-
+ments became an excellent way of raising cash for electoral campaigns,
+for buying the support of various individuals and groups, and for
+dissuading would-be opponents. Supplying land documents to people
+without actually giving them the land turned out to be an excellent way
+to get them to attend political rallies. Moreover, by promising land to
+document holders in various areas of the country, the politicians could
+change the makeup of electoral constituencies.4
+   This embrace of the fraudulent exploitation of land documenta-
+tion by politicians compromised the willingness of the state to crack
+down on this activity. Thus the problem was not just one of weak
+state capacity. Nor was it that the system of land documentation was
+not well-established in the first place. The problem was that as peo-
+ple close to the state adopted the con men’s techniques, state agencies
+became increasingly less willing to use their powers to stop the fraudu-
+lent exploitation of land documentation by these people. The activities
+
+
+3 Letter from the district commissioner, Kwale, to the district officer of the Coast
+  Division, Kwale, April 4, 1968, Kenya National Archives (hereafter KNA) CC/12/47;
+  letter from J. M. Masesi of Garissa to the minister for lands and settlement, June 25,
+  1968, KNA CC/12/47; and letter from the managing director of the Kenya Express
+  Land and Estate Agent to Mr. James Crispus, April 5, 1968, KNA CC/12/47.
+4 “Vanity Shares,” Weekly Review (Nairobi), June 20, 1980; “Bogus Companies,”
+
+  Weekly Review (Nairobi), May 23, 1980; and “Ngwataniro at Crossroads as Internal
+  Problems Surface,” Weekly Review (Nairobi), December 12, 1977.
+
+[p. 67] [PDF page 85]
+
+of politically well-connected land-buying company executives under-
+pinned a process of gradual institutional drift. State leaders failed to
+adequately shore up the institutions threatened by the widespread par-
+asitic activity. When senior state leaders embraced similar activities
+after the exogenous shock of redemocratization in the 1990s, it only
+furthered a process that was already undermining the efficacy of the
+land document system in Kenya.
+   The conclusion of this chapter examines the implications of the
+contradictory potential of institutions for the literature on the political
+economy of Kenya, as well as on institutional change and stability more
+generally. As is clear from the analysis here, the extreme emphasis
+on exogenous shocks such as redemocratization to explain change
+in institutions that display positive-feedback effects is mistaken and
+overlooks endogenous processes that drive change over time. Given
+the constant possibilities for change that the contradictory potential of
+institutions allows, the excessive focus on so-called critical junctures
+in the study of institutional change also needs further appraisal. There
+are more openings for and processes of change than such accounts,
+steeped in the punctuated equilibrium model of change, permit.
+
+
+The Contradictory Potential of Institutions
+
+Streeck and Thelen (2005, 1–2) point out that a dominant strain of
+research on change in institutions that display positive-feedback effects
+emphasizes the consequences of sudden discontinuous changes sparked
+by exogenous shocks. Such institutions are said to be characterized by
+strong periods of stability produced by their positive-feedback effects
+(Mahoney 2000; Pierson 2000). These periods of stability are punc-
+tuated by disruptive moments of change – critical junctures – when
+exogenous shocks break down the institutions, creating episodes of
+contingency that allow agents to choose between alternatives (Pierson
+2004, 144). This emphasis on exogenous sources of institutional
+change is grounded in an understanding of institutions as unambigu-
+ous entities that structure behavior in coherent and uniform ways
+(Arthur 1994; North 1990, 94; Pierson 2000, 76–77). They are said
+to exert what Schneiberg (2005, 103), in critical mode, has called
+“isomorphic pressures” on agents through incentives and distribu-
+tional consequences that create and reinforce constituencies dedicated
+
+[p. 68] [PDF page 86]
+
+to the survival of these institutions, and that shrink and raise the costs
+to those who might be interested in institutional change.5
+   A small but growing body of work has raised the possibility of
+gradual instead of abrupt change, and has suggested that endogenous
+factors might play a significant role in generating change in institutions
+with positive-feedback effects (DiMaggio 1988, 13; Greif and Laitin
+2004, 634; Thelen 2004; Schneiberg 2005, 128; Streeck and Thelen
+2005; Schneiberg and Clemens 2006, 218). Such analyses are partly
+grounded in an understanding of institutions as ambiguous entities (see
+Comaroff 1980, 107; Thelen 2000, 105; Ngugi 2004, 472; Jackson
+2005, 229). One dimension of the ambiguity of institutions is that
+institutional forms do not necessarily dictate specific functions and
+render all other functions impossible (Thelen 2000, 105). As Thelen
+(2000, 105) has pointed out, an institution’s role can change over time
+as new interests come into power or as the environment facing old
+interests is altered.
+   I take this line of argumentation a step further by pointing out that
+self-reinforcing institutions can contain internal contradictions that
+offer the potential for change. Institutions can engender and sustain
+dominant constituencies who support their continued existence and
+simultaneously foster parasitic groups that thrive on exploiting them
+in ways that may ultimately contribute to the institutions’ decline. This
+view draws insights from but also shifts away from the idea of “tem-
+poral segregation”6 found in works that subscribe to what DiMaggio
+(1988, 13) calls the “internal logic of contradiction” in the process of
+institutionalization (Barley and Kunda 1992, 386; Schneiberg 2005,
+106). According to this idea, the factors that are responsible for an
+institution’s rise at time 1 then contribute to its decline at time 2.
+Here, however, I show that some of the very things about institutions
+that produce dominant coalitions invested in their perpetuation also
+concurrently create and sustain subordinate parasitic groups whose
+activities subvert the institutions. The coexistence of these forces makes
+an institution, even at the height of its influence, subject to contention
+and exploitation by subversive groups.
+
+5 Leblebici et al. (1991, 336) and Thelen (1999, 392–396) point out this same portrayal
+  of how institutions work.
+6 I am using a term that Stephen Barley and Gideon Kunda (1992, 386) borrow from
+
+  David Maybury-Lewis (1989).
+
+[p. 69] [PDF page 87]
+
+Institutions with positive-feedback effects create stable expectations
+and material conditions that, ironically, can engender their own sub-
+version by groups that exploit these beliefs. These groups rely on others
+to play by rules that they themselves ignore. Many institutions, includ-
+ing property rights systems, work by creating certain expectations in
+the minds of agents about the meanings and implications of specific
+acts and symbols. Thus the success of an institution depends on and
+can be measured by how tenaciously people hold onto the expecta-
+tions that the institution engenders. For instance, a system of land title
+registration succeeds to the extent that it leads parties to believe that
+various documents represent rights to pieces of land. These beliefs and
+expectations enable titling systems to facilitate market transactions
+involving land. However, some of these same expectations can also
+make it easier for parasitic agents to feed on institutions in ways that
+undermine their overall efficacy and strength. In Brazil, for example,
+con men exploited the trust of American and European environmen-
+talists and sold the foreigners worthless “titles” to state-owned land
+in the Amazon. One particularly successful con man was able to sell
+“titles” to an area the size of Ireland.7
+   The workings of a self-reinforcing institution can also create mate-
+rial conditions whose exploitation by parasitic actors causes the insti-
+tution to drift from its intended purpose. Institutions may, for example,
+restrict the supply of a good or suppress competition for certain goods.
+When this occurs, opportunities for parasitic activity may result. For
+instance, by suppressing suppliers of alcohol, Prohibition in the United
+States created highly profitable opportunities for bootleggers. Whereas
+the bootleggers embraced Prohibition because of the high profit mar-
+gins it gave them, their activities subverted the effort to prevent the
+consumption of alcohol – the main point of Prohibition.8
+   This perspective calls on us to move beyond the prevalent view that
+institutional failure occurs only because some actors who are disad-
+vantaged by or who detest particular institutions set out to destroy
+them (Thelen 2000, 107; Schneiberg 2005, 120–121; Schneiberg and
+
+7 “Brazil Hunts Amazon Land Thief,” BBC News, January 9, 2001, http://news.bbc
+  .co.uk/2/hi/americas/1107272.stm (accessed June 12, 2007).
+8 Yandle (1983) sheds light on these situations where “bootleggers” and “Baptists”
+
+  coincide in their support for institutions even though their attitudes toward the ulti-
+  mate goals of those institutions are opposed to each other.
+
+[p. 70] [PDF page 88]
+
+Clemens 2006, 218). For instance, in noting how institutions can con-
+tribute to their own demise, Clemens (1993, 757) points to the way
+in which self-reinforcing institutions with distributional consequences
+create grievances through the same exclusionary features that attract
+“winners” invested in perpetuating these institutions. But I make the
+point here that change can also be unwittingly brought about by
+symbionts of the parasitic variety. These are agents who harbor no
+grievances toward the institutions they are involved with. In fact, they
+depend on these institutions for their survival and so embrace them.
+Yet despite their need for these institutions, their parasitic activities
+can, over time and cumulatively, end up ruining the health of their
+hosts. The efforts of some con men to prevent others from engaging in
+similar con games can be understood in this light. Although themselves
+engaged in rackets that exploit certain institutions, they seek to main-
+tain the health of those institutions by keeping others from similarly
+feeding on them.
+   Recognizing the contradictory potential of institutions allows us to
+explore ways in which such endogenous processes highlighted above
+and exogenous factors collaborate to engender and shape institutional
+change (Streeck and Thelen 2005, 22). While self-reinforcing institu-
+tions may simultaneously foster parasitic groups that gradually under-
+mine them, these groups may have only a limited capacity to inflict
+damage. These agents may be only marginal actors innovating with
+institutional forms and operational logics on the periphery. Exoge-
+nous changes that impact the distribution of preferences and power in
+favor of these agents, however, can aid in bringing formerly marginal
+forms and logics from the periphery to the center (Streeck and Thelen
+2005, 22). Such exogenous shocks could be shifts in the political envi-
+ronment that encourage members of dominant groups to adjust their
+preferences in ways that bring them in line with those of parasitic
+groups. These more powerful actors can then bring their power to
+bear against the institutional system.
+   Alternatively, shocks such as defeats in major elections could erode
+the power of dominant groups, allowing parasitic forces to take over
+and fundamentally undermine institutions. As can happen in cases of
+parasitic behavior, the very success of the parasitic agents can lead
+to a total institutional collapse that eliminates the agents’ own host
+institutions. For instance, where con men gain unhindered freedom to
+
+[p. 71] [PDF page 89]
+
+exploit land documentation, popular belief in the efficacy of land doc-
+uments will drastically decline over time, eventually making it almost
+impossible for the con men to profit from the fraudulent deployment
+of these documents and resulting in a sort of “tragedy of the con men,”
+as Dan Slater has termed it.9
+
+
+The Establishment of Land Documentation in Kenya
+
+By land documentation, I refer to a system by which information
+about the locations, dimensions, and various rights to parcels of land
+are noted in record systems in documents issued to relevant parties.
+Land documents in Kenya encompass titles, letters of allotment, and
+letters of offer issued by the Ministry of Lands (Kenya 2004, 13), as
+well as share certificates issued by private land-buying companies.10
+I adopt this broad definition, which goes beyond land title deeds, in
+part because people employ many forms of documents as indicators of
+their right to land (Kenya 2004, 12–13).
+   In Kenya, land documentation started as a primary means through
+which the British colonial administration sought to attract European
+settlers to the country.11 To facilitate the subjugation of Kenya fol-
+lowing the declaration of the Protectorate of East Africa in 1895,
+the British East Africa Company and colonial administrators moved
+aggressively to encourage European settlement and agriculture (Arnold
+1974, 54; Hazlewood 1979, 1; Berman and Lonsdale 1992, 335). The
+resulting expropriation of land from Africans caused massive landless-
+ness and land hunger among Africans.
+   The reasons given for documenting the land rights of Europeans
+in Kenya resembled contemporary arguments supporting title regis-
+tration and property rights security. European farmers had to have
+secure property rights to persuade them to invest in agriculture and
+to facilitate their use of their land rights as collateral for loans (Kenya
+1941, 1–3). As a result, settlers’ organizations like the Settlement Com-
+mittee, the Convention of Associations, and the Nairobi Chamber of
+
+9  Comments by Dan Slater on an earlier draft of this paper at the Workshop on
+   Historical Institutionalism at Northwestern University, October 26–27, 2007.
+10 “Vanity Shares,” Weekly Review (Nairobi), June 20, 1980.
+11 This was in addition to the subsidization of European settlers with heavy taxes levied
+
+   on Africans. See Leys (1931).
+
+[p. 72] [PDF page 90]
+
+Commerce all lobbied the authorities for a land documentation system
+(Kenya 1941, 1–13).
+   Ultimately, the East African (Lands) Order in Council (1901), the
+Crown Lands Ordinance (1902 and 1915), and the Land Titles Ordi-
+nance (1908) were passed to provide for the registration of documents
+for lands seized from Africans for exclusive European use (Kenya 2002,
+21–23). In addition, the colonial administration created survey depart-
+ments, registries, and assorted boards to govern land transactions. By
+1919 the colonial government was recording land titles and granting
+them to Europeans on a large scale (Meek 1949, 93–94).
+   Africans were initially excluded from these efforts at documenta-
+tion. However, at the height of the Mau Mau liberation war (1952–
+1960), the Swynnerton Plan of 1954 extended land documentation
+to the Native Reserves, where Africans were allowed to possess land
+(Atieno-Odhiambo 2002, 238). An honest and perceptive colonial offi-
+cial portrayed the Swynnerton Plan as a counterinsurgency weapon
+aimed at creating a new Kenyan, who will “become the anchor of the
+tribe, the solid yeoman farmer, the land owner who knows that he has
+too much to lose if he flirts, however lightly, with the passions of his
+nationalistic friends” (quoted in Branch 2006, 28).
+   At independence in 1963, Jomo Kenyatta’s postcolonial govern-
+ment (1963–1978) warmly embraced and promoted land documen-
+tation (Kenya 1966). Laws such as the Land Adjudication Act (Cap
+284), the Land Consolidation Act (Cap 283), the Land (Group Rep-
+resentatives) Act (Cap 287), and the Registered Land Act (Cap 300)
+ensured the continuation of documentation. The Land Adjudication
+and Settlement Department continued to register titles for land parcels
+in trust land areas.12 Records were strictly kept for plots in the state’s
+settlement schemes, including the Million Acre, Z-Scheme, Shirika,
+and Haraka schemes, which settled more than two hundred thousand
+families on approximately three million acres by 2005.13 In many
+
+12 Interview with an official of the Ministry of Lands and Settlement, Nairobi (Ken 5),
+   February 18, 2005; and “Recent Land Reforms in Kenya” (paper given by the Kenya
+   delegate at the Seminar on Land Law Reforms in East Africa, June 4, 1968, p. 10),
+   Kenya National Archives (KNA), BN/81/87.
+13 Interview with an official of the Ministry of Lands and Housing, Nairobi, (Ken 29),
+
+   March 15, 2005.
+
+[p. 73] [PDF page 91]
+
+districts, land registries were created to facilitate the registration of
+land rights.
+    By the late 1960s, land documents had become a common part of
+Kenyan life (Kenya 1966). A total of 3.1 million titles had been issued
+by 1999,14 and the use of land documents in financial transactions was
+pervasive (Kenya 2004, 65). Banks that granted loans for the acqui-
+sition and operation of agricultural, real estate, and tourism concerns
+accepted titles to properties as collateral (Wanjohi 1985, 13; Kenya
+2004, 65).15
+
+The Positive-Feedback Effects of Land Documentation
+Land documentation systems often have positive-feedback effects by
+virtue of their ability to distribute land in certain ways and make cer-
+tain modes of using land easier and more profitable (de Soto 2000, 6–7;
+World Bank 2002, 4–8; Ngugi 2004, 477). Beneficiaries can transform
+some of their economic benefits into political instruments to reinforce
+the structure and integrity of land documentation. Land documenta-
+tion within the context of land hunger and landlessness in Kenya had
+such positive-feedback effects. It gained the support of many Kenyans
+with large landholdings by reducing threats to their new holdings posed
+by rival claimants (Ngugi 2004, 502). This protection was critical.
+
+14 “How To Get Out of the Quagmire,” East African Standard (Nairobi), March 11,
+   2002.
+15 This urge to use titles to get loans from the Agricultural Finance Corporation (AFC)
+
+   and other financial institutions was a big part of what motivated many community
+   leaders to ask the state to carry out land documentation in their area. See letter from
+   Chief Zephaniah Malit of East Karachuonyo to the assistant land adjudication offi-
+   cer of South Nyanza, September 8, 1968. The chief was asking for adjudication and
+   documentation in the area to allow people to use their title deeds to get AFC loans.
+   See KNA BV/156/2. Also, interview with a farmer and member of a group ranch
+   in Taita Taveta, (Ken 62), May 12, 2005; and “Back to Square 1,” Weekly Review
+   (Nairobi), May 20, 1981. Also see “‘Kenyan Ministers’” Row Over ‘Grabbed’ Forest
+   Land Deepens Divisions in Narc,” The East African (Nairobi), April 4, 2005; and
+   “Kenya Starts Process To Cancel 12,000 Title Deeds,” The East African (Nairobi),
+   February 28, 2005. These stories reported the concern of the Kenya Bankers’ Asso-
+   ciation over threats by the government to cancel titles because of the monies they
+   had lent out on titles. Also see comments by Joseph Wanyela, chairperson of the
+   Kenya Bankers’ Association, in “How Should the Ndung’u Report Recommenda-
+   tions Be Implemented? What Kenyans Say,” Land Update 3(4) October–December
+   2004. Nakuru: Kenya Land Alliance. http://www.oxfam.org.uk/resources/learning/
+   landrights/downloads/kla_land_update3_4.pdf (accessed May 8, 2009).
+
+[p. 74] [PDF page 92]
+
+Many large estates, such as the Taveta Sisal Estate of Basil Criticos
+and the Ziwani Estate of the Kenyatta family, existed side by side with
+large populations of squatters. As they sought to keep out squatters,
+who often had strong historical claims to the land parcels (Ngugi 2004,
+502), the owners of these estates quickly adopted the “sanctity of land
+titles” language first used by European settlers.
+    Land registration in Kenya, like that in many other places, also
+acted as a cover beneath which the well-connected and knowledgeable
+could redistribute land in their own favor. Their education and their
+positions within the state machinery gave them a deep understand-
+ing of land administration procedures, as well as the ability to take
+advantage of these procedures.16 Many bureaucrats and politicians
+registered titles to pieces of land that the state had procured for set-
+tling poor Kenyans, using the guarantee of the security offered by the
+titles to shield themselves from challenges.17 They also exploited land
+documentation to acquire huge commercial concerns. The family of
+Kenya’s first president, Jomo Kenyatta, acquired, among other prop-
+erties, the Gicheha Farms in Kiambu District18 and the Ziwani Estate
+in Taita Taveta District,19 properties that covered tens of thousands
+of acres. Kenya’s second president, Daniel arap Moi, acquired, among
+others, Kabarak Farm in Nakuru District20 and Ziwa Farm in Uasin
+Gishu District.21
+    The ease with which land titles could be procured throughout the
+country meant that many Kenyans could use their land as collateral for
+loans from the Agricultural Finance Corporation (AFC), the Settlement
+
+16 “Moi Suspends Land Allocations, Raises Hopes About Land Reform,” Weekly
+   Review (Nairobi), September 22, 1978.
+17 “No Cheer,” Weekly Review (Nairobi), August 7, 1981; and letter from J. H.
+
+   Angaine, minister for lands and settlement, to the director of settlement, January
+   7, 1975, KNA BN/81/135.
+18 “Land: Who Owns Kenya?” East African Standard (Nairobi), October 1, 2004.
+19 “Land: Who Owns Kenya?” East African Standard (Nairobi), October 1, 2004; and
+
+   interview with an official of one of the land administration agencies in Taita-Taveta
+   District (Ken 63), May 13, 2005.
+20 “Land: Who Owns Kenya?” East African Standard (Nairobi), October 1, 2004; “A
+
+   Choice of Seven Grand Homes: Which Will Moi Opt For?” Daily Nation (Nairobi),
+   January 28, 2002; and “Six Cows Stolen from Moi’s Farm,” East African Standard
+   (Nairobi), June 4, 2005.
+21 Interview with a divisional officer in Uasin Gishu District (Ken 35), April 21, 2005;
+
+   and “A Choice of Seven Grand Homes: Which Will Moi Opt For?” Daily Nation
+   (Nairobi), January 28, 2002.
+
+[p. 75] [PDF page 93]
+
+Fund Trustees (SFT), and various private institutions (Wanjohi 1985,
+13).22 The banks and financial institutions involved in such borrowing
+also became big supporters of land documentation.23
+    Land documentation produced and empowered significant con-
+stituencies that were dedicated to its continuance (Ngugi 2004, 502).
+Defending the sanctity of land titles spread from its initial base within
+the European settler community to the black Kenyan community
+(Kenya 2004, 16; Ngugi 2004, 502; Branch 2006, 28). The African del-
+egates to the Lancaster House Conferences, where independence was
+negotiated, accepted the “sanctity of private property,” and Kenyatta
+himself went to the European redoubt of Nakuru to assure the settlers
+there that the state would respect land titles and would not expropriate
+property (Arnold 1974, 65). These moves were unsurprising. Repre-
+sentatives from the crucial Central Province who had been elected
+in 1957 and 1958 had depended on electoral support from African
+yeomen advocates of private property who had just received “newly
+issued land titles” (Branch 2006, 43). Over time, these supporters
+would try to stamp “an imprimatur of legal invincibility” on land
+title deeds (Kenya 2004, 16). Yet the development of this dominant
+constituency of black and white elites and commoners in support of
+efficacious land documentation went hand in hand with the develop-
+ment of a marginal constituency that thrived on the subversion of land
+documentation.
+
+The Parasitic Exploitation of Land Documentation:
+Peripheral Innovators
+Land documentation, while displaying positive-feedback effects, also
+created opportunities for its own subversion by parasitic elements.
+Kenya’s colonial and postcolonial governments succeeded in creating
+exploitable expectations through their introduction and promotion
+of land documentation. Parasitic elements whose activities ultimately
+
+22 “Fifteen Years of Land Settlement,” Weekly Review (Nairobi), October 20, 1978;
+   and “No Hanging On, Moi Tells Land Companies,” Weekly Review (Nairobi), April
+   4, 1985. In fact, this urge to use titles to get loans from the AFC and other financial
+   institutions was a big part of what motivated many community leaders to ask the
+   state to carry out land documentation in their area. See note 15.
+23 “How Should the Ndung’u Report Recommendations Be Implemented? What
+
+   Kenyans Say,” Land Update, Nakuru (Kenya): Kenya Land Alliance. October–
+   December 2004 (p. 13). Also see (Kenya 2004, 66).
+
+[p. 76] [PDF page 94]
+
+undermined the system of land documentation embraced these oppor-
+tunities with zest and inventiveness.24 As often occurs with innovation
+in the face of dominant institutions (see Leblebici et al. 1991, 345),25
+marginal actors operating at the periphery took the lead in introducing
+an alternative logic into the structure of land documentation. Already
+by 1968, we find state authorities in communication about the activi-
+ties of petty fraudsters who, taking advantage of widespread belief in
+the efficacy of land titles, were selling worthless pieces of paper to land-
+hungry Kenyans.26 These minor con men, lacking political clout, were
+bent on accessing some of the benefits of the dynamic land market of
+the 1960s and 1970s. In one example, in 1970, a con man fooled a cer-
+tain Kariuki into buying “title” to two hundred acres of land in Lunga
+Lunga Location; the land, however, turned out to be Crown Land
+to which the seller had had no right.27 The District Commissioner of
+Kwale was to tell Kinuthia later that “the legality of the written agree-
+ment between you and the seller is very questionable.”28 In another
+example, three men sold some Kamba people land that turned out to be
+Trust Land belonging to Shimba North Location.29 The proliferation
+of fraudulent sales in Kwale led the district commissioner to request
+assistance from local chiefs in combatting the practice.30
+
+
+24 Ngugi (2004, 472) also argues that land registration in Kenya faced significant oppo-
+   sition. But his argument concerns how various social actors sought to blunt some of
+   the implications of land registration that posed major challenges to existing social
+   arrangements. As he points out, “These social sectors refused to accept all the impli-
+   cations of registration, such as near-absolute powers of the individually registered
+   owner. They organized, invented and mobilized customary norms to frustrate com-
+   plete operation of the new formal regime of tenure arrangements.”
+25 See the interesting work of Leblebici et al. (1991, 345) on how alternative logics and
+
+   structures are first innovated at the periphery and gradually seep into the center.
+26 Letter from the chief of Chimba North Location to the district commissioner of
+
+   Kwale discussing the illegal sale of state land by con men in Msulwa, October 18,
+   1968, p. 277, KNA CC/12/47; letter from J. C. Kariuki to the district commissioner
+   of Kwale concerning 200 acres of land, May 29, 1970, KNA CC/12/47; and letter
+   from the district commissioner of Kwale to the district officer of the Coast Division,
+   Kwale, April 4, 1968, KNA CC/12/47.
+27 Letter from J. C. Kariuki to the Ministry of Lands and Settlement, May 15, 1970,
+
+   KNA CC/12/47.
+28 Letter from the Disctict Commissioner of Kwale to Mr. Kariuki if Mariakani, May
+
+   29, 1970, KNA CC/12/47.
+29 “Msulwa Report,” by the Shimba North Location chief to the district commissioner,
+
+   Kwale, October 18, 1968, KNA CC/12/47.
+30 Letter from the district commissioner, Kwale, to the district officer of the Coast
+
+   Division, Kwale, April 4, 1968, KNA CC/12/47.
+
+[p. 77] [PDF page 95]
+
+Eventually, these institutional entrepreneurs began to invent more
+complex schemes to exploit the credulity created by land documenta-
+tion. The “company” that called itself the Kenya Express Land and
+Estate Agent was a sophisticated example of this trend. With an eye-
+catching name and a postal address in Nairobi it set about its business
+of harvesting the fruits of Kenyans’ belief in the validity of land doc-
+uments. It placed at least two advertisements in the influential Taifa
+Leo newspaper (March 23 and April 5, 1968) offering to sell fifty-acre
+parcels of land in Kwale District.31 The ads invited people to bring
+or send in the 1,170 shillings for the land, a 20-shilling registration
+fee, a 2-shilling stamp fee, and a 200-shilling agent fee “in one lump
+sum – no installment.”32 Their letter of April 5, 1968, to one customer
+prominently noted that buyers will be issued with “Title-deed[s].”33
+When a would-be buyer in Garissa inquired about visiting Kwale to
+see the plots he was informed that “owing to unforeseen circumstances
+the land in question is not yet available and therefore it will be a waste
+of time for you to come to Nairobi. We will inform you in the future
+if it will be necessary for you to come.”34 At other times company
+employees passed themselves off as the agents of the “Local govern-
+ment of Kwale.”35 At least a few victims and would-be victims wrote to
+officials, including the district commissioner of Kwale and the Kenyan
+minister of lands and settlement, inquiring or complaining about this
+company. In response to all inquiries, the district commissioner’s rep-
+resentative wrote: “There are no 50 acre plots being sold in Kwale at
+all. Watch out for rogues who go around deceiving people that they
+have lands to sell.”36
+    These subversive institutional innovations by shady “land mer-
+chants” on the periphery would gradually move closer to the
+
+
+31 Letter from J. M. Masesi of Garissa to the minister for lands and settlement, June
+   25, 1968, KNA CC/12/47.
+32 Letter from J. M. Masesi of Garissa to the minister for lands and settlement, June
+
+   25, 1968, KNA CC/12/47.
+33 Letter from the managing director of the Kenya Express Land and Estate Agent to
+
+   Mr. James Crispus, April 5, 1968, KNA CC/12/47.
+34 Letter from J. M. Masesi of Garissa to the minister for lands and settlement, June
+
+   25, 1968, KNA CC/12/47.
+35 Letter from Kinuthia Njoroge to the district commissioner of Kwale, May 4, 1968,
+
+   KNA CC/12/47.
+36 Letter from the district commissioner of Kwale to J. K. Ithagu, May 4, 1968, KNA
+
+   CC/12/47.
+
+[p. 78] [PDF page 96]
+
+mainstream of institutional practice after they were adopted by wily
+and politically ambitious land-buying company executives in the
+1970s.
+
+Refining and Exporting Technologies
+Institutional innovations by marginal actors do not necessarily become
+dominant. How did the institutional logics and forms invented by unin-
+fluential crooks move from the margins, where they were deliberately
+hidden from the glare of the law, to the mainstream of Kenya’s political
+economy? An important step in the migration of institutional innova-
+tions from the periphery to the mainstream is often the adaptation of
+these institutional forms by actors with more clout who are trying to
+solve new problems. These actors, who have the power to avoid pun-
+ishment by state authorities, can shield new institutional logics and
+forms from attack in a way that marginal actors cannot. The aura of
+impunity that surrounds the behavior of these influential actors then
+encourages imitation by others. In the 1970s in Kenya, powerful, polit-
+ically ambitious land-buying company (LBC) executives in Central and
+Rift Valley provinces played this critical role.
+   The leading LBC executives had little to do with small-time crooks
+even as they adapted the crooks’ fraudulent logics. Because of the
+executives’ political ambitions they found the economic exploitation
+of land documents useful, but they needed to maximize its political
+effectiveness. To this end, once they had gotten Kenyans to purchase
+land documents, they impressed on the buyers that the documents’
+worth depended on the new owners’ “correct” political behavior. In
+effect, the LBC executives removed the guarantee of rights inherent in
+various land documents and the administrative institutions that sup-
+ported them, and transferred it to themselves. This gave the executives
+the benefit of monies and support that people had already tendered for
+the papers. It also had the advantage for politicians of transforming
+people who held land documents into captive populations who had to
+obey the politicians over the long term so that the rights promised by
+the land documents could be actualized and protected.
+   The evolution of LBCs in Kenya represents an interesting case of
+what Hacker (2005) and Streeck and Thelen (2005) have called insti-
+tutional “drift.” LBCs are registered under the Companies Act (Cap
+486). Departing white settlers often sought to sell their farms in large
+
+[p. 79] [PDF page 97]
+
+chunks, and poor peasants, many of whom had been rendered landless
+by massive seizures of land for exclusive European use, could not afford
+to enter the land market as individuals. Land-buying companies were
+devised as a way for people to pool their resources by buying shares in
+a company. Revenues from the sale of shares could then be used by the
+company to purchase farms that would be subdivided among share-
+holders according to the number of shares they held (Wanjohi 1985,
+13; Kenya 2002, 38). LBCs had tremendous success in enabling many
+poor Kenyans to pool their money and acquire land in the 1960s.37 It
+is this success that explains why people were subsequently willing to
+buy into the schemes of crooked executives.
+    This institutional structure of the land-buying company was in the
+1970s taken over by fraudsters and politicians and used for politi-
+cal ends through the systematic subversion of land documentation. In
+Kenya, many parliamentarians and aspiring parliamentarians formed
+LBCs. Thus, Ngengi Muigai, MP for Gatundu, formed the Gatundu
+Development Company38 John Michuki, who wished to be the MP
+for Kangema, formed the Kangema Farlands Company.39 George
+Mwicigi, the assistant minister for agriculture and livestock develop-
+ment, formed the Kandara Investment Company.40 Waruru Kanja,
+Nyeri MP and assistant minister for local government and urban
+development, formed Burguret Arimi Limited.41 Kihika Kimani, who
+aspired to be MP for Nakuru, formed the notorious Ngwataniro Land
+Buying Company. There were some 320 and 700 LBCs in the provinces
+of the Central Valley and the Rift Valley, respectively, by the late
+1970s.42 Kihika Kimani’s Ngwataniro LBC alone was estimated to
+have as many as 30,000 members in 1979;43 the Uiguano wa Mumbi
+
+
+37 “Bogus Companies,” Weekly Review (Nairobi), May 23, 1980, and “Ultimatum:
+   Directors Told To End Land Problems,” Weekly Review (Nairobi), August 29, 1980.
+38 “Land Issue,” Weekly Review (Nairobi), May 9, 1980, and “Opting Out,” Weekly
+
+   Review (Nairobi), March 26, 1980.
+39 “Michuki Takes the Plunge,” Weekly Review (Nairobi), May 4, 1979.
+40 “Mwicigi Resigns,” Weekly Review (Nairobi), January 25, 1985.
+41 “Bogus Companies,” Weekly Review (Nairobi), May 23, 1980.
+42 “No Hanging On, Moi Tells Land Companies,” Weekly Review (Nairobi), April
+
+   4, 1986; “Act Two: Nyeri Land Squabbles Continue,” Weekly Review (Nairobi),
+   September 5, 1980; “Bogus Companies,” Weekly Review (Nairobi), May 23, 1980.
+43 “Shocking Revelations: Company Allegedly Lost Millions Of Shillings,” Weekly
+
+   Review (Nairobi), March 30, 1979.
+
+[p. 80] [PDF page 98]
+
+Company was thought to have 3,604 members;44 and Ngengi Muigai’s
+Gatundu Development Company had around 23,000 members.45
+   Land-buying company executives sold “vanity shares” to amass
+money for political campaigns.46 They used the money to influence
+attendance at political rallies and how and where people voted.47
+“Vanity shares” were share certificates that were supposed to but
+that did not actually give people access to land. Shareholders some-
+times found that their access to land depended not on their owning
+share certificates, but on their performance of services, such as ren-
+dering political support to LBC executives. The existence of “vanity
+shares” led to widespread doubts about the legitimacy of LBC share
+certificates. In 1980, 30,032 people registered with the district com-
+missioner of Nyeri alone, claiming that they had been defrauded by
+LBC executives.48 Of seventy-three known LBCs in Nyeri District in
+1980, the directors of forty-one were under investigation for fraudulent
+activities. The heads of the other thirty-two had simply disappeared,
+leaving little evidence of their companies’ activities beyond the irate
+peasants they had defrauded.49
+   LBCs were transformed into excellent instruments for raising money
+for political action. Share certificates were issued for which there
+were no corresponding land parcels, providing company executives
+with money for their political activities but leaving purchasers with
+worthless documents. In 1980, 1,370 shareholders in Burguret Arimi,
+the LBC headed by Waruru Kanja, complained to the Nyeri district
+commissioner. They had purchased shares in the company but had
+received no lands for their shares.50 The mammoth Gatarakwa Farm-
+ing Company, headed by the powerful Ndungu Gicheru, a freedom
+
+
+44 “Land Ultimatum: Directors Told To End Land Problems,” Weekly Review
+   (Nairobi), August 29, 1980.
+45 “Land Issue: Shareholders’ Patience Running Out,” Weekly Review (Nairobi), May
+
+   9, 1980.
+46 “Vanity Shares” was the title of a story in the Weekly Review (Nairobi), June 20,
+
+   1980.
+47 “Campaign Against JM Rumors,” Weekly Review (Nairobi), May 5, 1975, and
+
+   “Bogus Companies,” Weekly Review (Nairobi), May 23, 1980.
+48 “Vanity Shares,” Weekly Review (Nairobi), June 20, 1980.
+49 “Act Two: Nyeri Land Squabbles Continue,” Weekly Review (Nairobi), September
+
+   5, 1980.
+50 “Bogus Companies,” Weekly Review (Nairobi), May 23, 1980.
+
+[p. 81] [PDF page 99]
+
+fighter during the Mau Mau liberation war, produced even more land-
+less shareholders. Only a third of the company’s 6,000 members had
+received their plots by May 1980. The rest crowded the office of the
+Nyeri district commissioner to complain about their worthless share
+certificates. More than a thousand shareholders in Weru-ini Land Lim-
+ited, a company headed by the governor of the Central Bank of Kenya,
+Duncan Ndegwa, similarly trooped to the district commissioner’s office
+to complain about not receiving the land presumably guaranteed by
+their share certificates.51 Some LBC executives put the same plot num-
+ber on multiple ballots, which led to more than one person’s draw-
+ing “rights” to the same piece of land.52 About 300 members of the
+Githunguri Constituency Ranching Company actually got land title
+deeds from their executives but found no corresponding lands. Another
+3,250 company members received neither titles nor land parcels.53
+Most shareholders in LBCs in the 1970s eventually came to the same
+painful conclusion pithily expressed by Mzee Mathenge, a victim of
+the Ngwataniro LBC: “The land just was not there.”54
+   The fortunate few shareholders and titleholders who actually got
+land often soon realized that their troubles were not over. In many
+cases, avaricious company directors, eager to profit one more time
+before they relinquished actual land, used the titles to shareholders’
+land as collateral for massive loans that they made no efforts to repay.
+As a result, the few lucky people who had gotten those parcels dis-
+covered that they had to repay those loans to avoid foreclosure by the
+bank. In essence, they had to pay for the land twice to avoid losing it.
+Members of the Ngwataniro LBC, however, did not lose their newly
+acquired plots to the banks that held the titles as collateral, thanks to
+President Moi’s intervention on their behalf.55
+   Allegations that some of the proceeds from these fraudulent activi-
+ties had been used “in the last two parliamentary and civic elections”
+
+
+51 “Bogus Companies,” Weekly Review (Nairobi), May 23, 1980.
+52 Interview with three land control board members and former shareholders in LBCs
+   in Nyeri District (Ken 26), March 9, 2005.
+53 “No Hanging On, Moi Tells Land Buying Companies,” Weekly Review (Nairobi),
+
+   April 4, 1986.
+54 “Vanity Shares,” Weekly Review (Nairobi), June 20, 1980.
+55 “No Hanging On, Moi Tells Land Buying Companies,” Weekly Review (Nairobi),
+
+   April 4, 1986.
+
+[p. 82] [PDF page 100]
+
+were widespread.56 Given the involvement of many LBC executives in
+local and national politics these allegations were not surprising. LBCs
+had become cash cows for politicians seeking to acquire or maintain
+positions in the ruling Kenya African National Union’s (KANU) com-
+petitive one-party system.
+    But the political uses of LBCs went beyond the companies’ serv-
+ing as a reliable source of cash for aspiring politicians. LBCs became
+instruments for holding shareholders as political captives who could
+be manipulated in various ways. The idea was to collect payment from
+shareholders but delay the distribution of share certificates or titles
+or both, as well as the land parcels that were supposedly guaran-
+teed by these documents. Politicians could then use the undistributed
+certificates, titles, and parcels as bait to get people to attend rallies
+and to vote in certain ways. The case of John Michuki is particularly
+instructive here. When the former head of the Kenya Commercial Bank
+decided to contest the Kangema parliamentary seat in 1979, he called
+a meeting of his Kangema Farlands Company to discuss share cer-
+tificates. But when members of the six thousand-member-strong LBC
+gathered at Michuki’s home, they had to endure a well-choreographed
+performance at which share certificates never came up for discussion.
+Instead, after refreshments were served, a series of speakers mounted
+the podium to beseech Michuki to run for the parliamentary seat.
+Michuki finally agreed to do so and announced his intention to unseat
+the incumbent MP, J. J. Kamotho.57
+    The use of LBCs to gerrymander electoral constituencies was one of
+the contributions of the man who would become the poster child for
+the ills of LBCs in the 1970s. Kihika Kimani was the founder and chief
+executive of what the Weekly Review called the “all-pervading busi-
+ness cum political organization” Ngwataniro LBC.58 Kimani manip-
+ulated the character of voting constituencies in Nakuru District by
+moving members of his LBC around the company’s vast properties
+during revision of the voters’ roll in 1977. Promising land to those
+who cooperated and threatening the rights of those who refused,
+Kimani allegedly transported voters from other constituencies to his
+
+
+56 “Bogus Companies,” Weekly Review (Nairobi), May 23, 1980.
+57 “Michuki Takes the Plunge,” Weekly Review (Nairobi), May 4, 1979.
+58 “Kihika Kimani To Face Uphill Battle,” Weekly Review (Nairobi), April 27, 1979.
+
+[p. 83] [PDF page 101]
+
+own in Nakuru North, where they registered to vote and boosted his
+support.59
+   Kihika Kimani used his LBC to rise from obscurity to the heights
+of Nakuruan and national politics. He created the Ngwataniro LBC
+after losing his initial bid to unseat the influential Nakuru East MP Fred
+Kubai in the 1969 parliamentary elections. To raise money for his polit-
+ical activities, he oversubscribed his company’s shares, leaving many
+members with no land. He also threatened to evict company mem-
+bers who opposed his political ambitions and gave company land to
+many people who were not shareholders but who supported him polit-
+ically. Using these techniques he expertly executed his plan to replace
+three of the four incumbent Nakuru District MPs with Ngwataniro
+members in the 1974 parliamentary elections.60 By the middle of the
+1970s he was the most influential politician in Nakuru and had set
+his sights on national politics. He was elected organizing secretary of
+the powerful Gikuyu, Embu and Meru Association (GEMA), which
+was very influential during the reign of President Kenyatta. Formed
+in 1971 to further the social welfare of the Gikuyu, Embu and Meru
+ethnic groups, GEMA became a powerful and feared political asso-
+ciation with an active investment arm, GEMA Holdings.61 When the
+prominent Nyandarua North MP J. M. Kariuki was murdered, Kimani
+launched a series of meetings in the Rift Valley to quell widespread
+rumors that senior state officials were involved in his assassination.
+Ngwataniro funds and vehicles were thought to have been used in
+organizing those meetings.62 Kihika Kimani’s most significant foray
+into national politics was his founding of the Change the Constitu-
+tion Movement in 1977, which hoped to prevent Vice President Moi
+from automatically succeeding President Kenyatta in the event of the
+president’s death.63
+
+59 “Ngwataniro at Crossroads as Internal Problems Surface,” Weekly Review (Nairobi),
+   December 12, 1977.
+60 “Campaign Against JM Rumors,” Weekly Review (Nairobi), May 5, 1975, and “Mr.
+
+   100 per cent,” Weekly Review (Nairobi), January 12, 1979.
+61 “GEMA speaks out on politics,” Weekly Review (Nairobi), May 19, 1975; “What
+
+   Went Wrong at GEMA Holdings,” Weekly Review (Nairobi), February 2, 1979.
+62 “Ngwataniro at Crossroads as Internal Problems Surface,” Weekly Review (Nairobi),
+
+   December 12, 1977.
+63 “1977 Limping to the Finish in Kenya,” Weekly Review (Nairobi), December 26,
+
+   1977.
+
+[p. 84] [PDF page 102]
+
+Moi was well aware of the political significance of these LBCs and
+of their fraudulent manipulation of land documentation and property
+rights in the struggle for control of the Kenyan state. One of his first
+actions on succeeding Kenyatta as president was to launch a sustained
+attack on the LBCs that had enabled his opponents to form the Change
+the Constitution Movement. Moi knew that the power of these LBC
+executives came from their frauds involving share certificates, titles,
+and land parcels. By going after the manipulators he set out to liberate
+the captive shareholders on whose backs the LBC executives stood
+(Wanjohi 1985, 14). He thus worked diligently on property institutions
+in areas influenced by LBC executives, seeking to hinder their efforts
+to exploit land to garner political support.
+    Moi repeatedly criticized LBCs and their fraudulent activities, going
+so far as to compare the LBC executives to Kenya’s former colo-
+nial masters.64 He compelled the companies to register everyone who
+bought shares from them as shareholders, not just the executives. In
+its 1977 returns, for instance, GEMA had listed only seven sharehold-
+ers, all of whom were executive members. The 6,980 others who also
+held shares were left off the list. By not registering the vast major-
+ity of their shareholders, LBC executives kept these “sleeping part-
+ners” in legal limbo, denying them the legal standing to challenge
+the executives.65 Moi also forced LBC executives to issue titles to
+their members and immediately parcel out farms to the rightful share-
+holders (Wanjohi 1985, 14).66 He even deployed state officials to aid
+the subdivision of parcels and registration of titles wherever execu-
+tives seemed unwilling or unable to undertake these tasks. Such was
+the case with the Gatarakwa Farming Company in Nyeri District.
+Moi went there himself in 1986 to distribute titles to members but
+refrained from doing so because of problems with the documentation.
+He then sent state officials to give out land to shareholders and register
+
+
+64 “Beware Conmen,” Weekly Review (Nairobi), October 5, 1979.
+65 “Company Rules Tightened: Sleeping Partners To Get Protection,” Weekly Review
+   (Nairobi), February 23, 1979.
+66 “Company Rules Tightened: Sleeping Partners To Get Protection,” Weekly Review
+
+   (Nairobi), February 23, 1970; “Beware Conmen! President Warns Kenyans,” Weekly
+   Review (Nairobi), October 5, 1979; “Ultimatum: Directors Told To End Land Prob-
+   lems,” Weekly Review (Nairobi), August 29, 1980; and “Progress,” Weekly Review
+   (Nairobi), April 22, 1983.
+
+[p. 85] [PDF page 103]
+
+their rights.67 Earlier, in April 1983, Moi had traveled to Bahati in
+Nakuru to distribute share certificates to members of the Ngwataniro
+LBC.68 In addition, he ordered the deregistration and dissolution
+of LBCs once they had completed issuing land and titles to their
+shareholders.69 Moi thus tried to free tens of thousands of people
+from the control of LBC executives. However, given his own similar
+ruthless manipulation of property rights in the years to come, one can
+only assume that his effort to save LBC shareholders was motivated
+more by an interest in undermining his LBC opponents than by any
+genuine interest in empowering land-hungry Kenyans.
+    Moi’s efforts paid off for him handsomely. As some of the most
+notable LBC executives lost their ability to manipulate shares and
+titles, they experienced a rapid decline in their political fortunes. Kihika
+Kimani’s dramatic downfall exemplifies this. On April 21, 1979, his
+long reign as director of Ngwataniro LBC ended when he refrained
+from contesting the directorship under pressure from his opponents.70
+In addition, after Moi had nullified KANU Nakuru Branch elections
+in 1979, Kimani declined to contest his long-held seat, thus allowing
+Moi’s favored candidate, Kariuki Chotora, to run unopposed.71 That
+same year, Kimani lost his Nakuru North parliamentary seat to Koigi
+wa Wamwere, who received thrice as many votes as he had.72 Finally,
+in 1985, Kimani was convicted of mismanaging Ngwataniro funds and
+imprisoned.73
+    It is important to note that state-issued land title deeds did not
+escape the disrepute into which land documents had fallen. The coun-
+try’s High Court nullified hundreds of title deeds issued after an adju-
+dication exercise in Mosiro, Kajiado District, in 1991 because Ministry
+
+
+67 Interview with an official of a land control board in Nyeri District, (Ken 26), March
+   9, 2005; “Action for Gatarakwa,” Weekly Review (Nairobi), June 13, 1986; and
+   “Progress,” Weekly Review (Nairobi), April 22, 1983.
+68 “Progress: Ngwataniro Members Finally Get Share Certificates,” Weekly Review
+
+   (Nairobi), April 22, 1983.
+69 “No Hanging On, Moi Tells Land Companies,” Weekly Review (Nairobi), April 4,
+
+   1986.
+70 “Kihika Kimani To Face Uphill Battle,” Weekly Review (Nairobi), April 27, 1979.
+71 “Kihika Steps Down,” Weekly Review (Nairobi), June 8, 1979.
+72 “Dixon Kihika Kimani Bids for Come-back,” Weekly Review (Nairobi), November
+
+   19, 1982.
+73 “Kihika Appeals,” Weekly Review (Nairobi), January 31, 1985.
+
+[p. 86] [PDF page 104]
+
+of Lands officials had handed out titles to relatives and friends with no
+right to land in the area.74 The cancellations prompted the reputable
+Weekly Review magazine to ponder the validity of the popular expec-
+tation that “a title deed gives the holder irrevocable ownership of a
+piece of land.”75
+   This parasitic exploitation brought land documentation in Kenya
+under tremendous stress by 1992, following redemocratization. Wide-
+spread belief in the efficacy of land documents had played a significant
+role in facilitating this subversion.
+
+Arriving at the Heart of the Mainstream
+The exogenous shock of redemocratization in 1991 did not suddenly
+cause the subversion of land documentation in Kenya, as some have
+argued (Klopp 2000, 8–9).76 It contributed to an ongoing process by
+giving even more senior KANU leaders an incentive to embrace, as they
+struggled to shore up their political dominance, practices similar to
+those of LBC executives (Klopp 2000, 8). This similarity supports the
+significance that some scholars give to imitation as an explanation for
+how peripheral institutional forms and logics move to the mainstream.
+   The 1992 and 1997 elections pitted KANU politicians against oppo-
+nents from new parties like the Democratic Party (DP) and the Forum
+for the Restoration of Democracy (FORD). KANU officials at the high-
+est levels of government resorted to issuing worthless or encumbered
+land titles and letters of allotment in exchange for money and political
+support, threatening and evicting title-bearing opponents, and using
+land documents to influence voting patterns in various constituen-
+cies (Kenya 2004, 37–40, 75).77 They filled their campaign chests and
+
+74 “Land Questions,” Weekly Review (Nairobi), May 24, 1991.
+75 “What Value a Title Deed?” Weekly Review (Nairobi), May 31, 1991.
+76 Internal Displacement Monitoring Center (IDMC), “‘I Am a Refugee in My Own
+
+   Country’: Conflict-induced Internal Displacement in Kenya” (Geneva Switzerland,
+   December 19, 2006), http://www.internal-displacement.org/8025708F004BE3B1/
+   (httpInfoFiles)/AF919E45D789BD0BC125724900350687/$file/Kenya%20Special%
+   20Report%20Dec06.pdf (accessed June 4, 2007), pp. 13–20. There is also a popular
+   discourse ascribing the subversion of land documents and other forms of corruption
+   in the land market to redemocratization in the 1990s. Various interviewees held this
+   view. These included a staff member of an NGO involved in advocacy on land issues
+   (Kenya 2), February 15, 2005; and an official of the Department of Lands (Kenya
+   1), February 14, 2005.
+77 IDMC, “‘I Am a Refugee in My Own Country,’” pp. 13–20.
+
+[p. 87] [PDF page 105]
+
+sought political support by issuing more than one title or allocation
+note for the same piece of land (Kenya 2004, 9–14, 80).78 To facilitate
+this fraud, the Ministry of Lands included a disclaimer in letters of
+allotment in 1993 absolving itself of its responsibility to give people
+alternative plots of land when the parcels indicated in the allotment
+letters were already occupied.79 Officials also took to changing entries
+in title registers to benefit their supporters (Kenya 2004, 37–40, 75).
+    To better tie people to KANU, leading party officials let it be known
+that the efficacy of a holder’s land documents depended on his or her
+political leanings. In this vein, the minister of local government and
+influential KANU Narok MP William ole Ntimama threatened many
+of the title-bearing Gikuyu residents of Narok who were seen as anti-
+KANU with eviction when he told them to “lie low like an envelop
+or face grave consequences.”80 Lying low meant “proper” political
+behavior. As Ntimama pointed out, “These people are doing lucrative
+business in all sectors, but recently they have being wanting to control
+the politics of the area.”81 To those who harbored the vain hope
+that a title would protect them from victimization if they supported
+opposition candidates or parties, Ntimama boldly proclaimed that land
+titles were “mere pieces of paper” in 1993.82 This public belittling of
+supposedly indefeasible titles provoked panic and led the opposition
+Masai politician John Keen to comment that devaluing land title deeds
+was “like opening a Pandora’s box and ultimately means that no one
+has a right to own anything in Kenya.”83 Ntimama, however, was
+not trying to deny the existence of property in Kenya. In line with
+methods first invented by LBC executives like Kihika Kimani, he was
+attempting to influence title bearers by sapping their documents of
+the guarantee of security and making such guarantees dependent on
+“proper” (pro-KANU) political behavior.
+
+78 Interestingly, the state simultaneously bought lands at highly inflated prices from
+   allies of leading politicians who had acquired these parcels from the state at very low
+   prices.
+79 Interview with an official of the Department of Lands (Ken 1), February, 14, 2005.
+80 “The Narok Saga and Its Implications for Land Policy,” Weekly Review (Nairobi),
+
+   March 1, 1991.
+81 “Narok: Background to Ethnic Conflict,” Weekly Review (Nairobi), March 1, 1991.
+82 “The Indigenous and the Natives,” Weekly Review (Nairobi), July 9, 1993, and “The
+
+   End of Tribal Talks,” Weekly Review (Nairobi), July 9, 1993.
+83 “The Indigenous and the Natives,” Weekly Review (Nairobi), July 9, 1993.
+
+[p. 88] [PDF page 106]
+
+Title-bearing Gikuyu who refused to heed Ntimama’s calls for com-
+pliance were violently evicted from Enoosupukia in Narok District.84
+Similar evictions and clashes preceded the 1992 and 1997 elections and
+spread across the country, driving home the point that only titles held
+by those involved in pro-KANU political activities would be respected
+(Ajulu 2002, 264–265; Klopp 2002, 274–275).85 By 1993 clashes in
+areas such as Nakuru, Turkana, Nandi, Kericho, Uasin Gishu, and
+Taita Taveta are thought to have led to fifteen hundred deaths and
+three hundred thousand displacements.86 The deliberate depreciation
+of the worth of land titles was further revealed when KANU elites,
+including Ntimama and Kipkalya Kones, vowed not to allow title-
+bearing Gikuyu clash victims to return to their farms until political
+questions between the communities were settled.87
+   The land clashes that punctuated the elections of 1992 and 1997 led
+to massive displacement and violence but did not mark the beginning
+of the subversion of land titles and other land documents. They merely
+continued a process that had been long underway, one that had pro-
+ceeded hand in hand with, and had been facilitated by, the promotion
+and development of land documentation in Kenya.
+
+
+Conclusion
+
+This chapter builds on an understanding of the contradictory potential
+of institutions to demonstrate how the success of land documentation
+in Kenya contributed to its own gradual demise. I argue that the institu-
+tion of land documentation in Kenya produced and sustained dominant
+agricultural, real estate, and tourism interests that were dedicated to
+the “sanctity of land titles” in Kenya. But the success of land documen-
+tation created a belief in the efficacy of land documents that was easily
+exploited by fraudsters and politicians intent on exchanging worthless
+or encumbered land documents for economic and political gain. The
+abuse of land documentation by these groups was only exacerbated by
+the reintroduction of democratization.
+
+84 “Resettlement for Victims,” Weekly Review (Nairobi), November 19, 1993.
+85 IDMC, “‘I Am a Refugee in My Own Country,’” pp. 13–20.
+86 IDMC, “‘I Am a Refugee in My Own Country,’” p. 13.
+87 “End of Tribal Talks,” Weekly Review (Nairobi), September 15, 1995, and “New
+
+   Fears and Suspicions,” Weekly Review (Nairobi), September 1, 1995.
+
+[p. 89] [PDF page 107]
+
+This reflection on the contradictory potential of institutional struc-
+tures gives us a good way to reflect on the endogenous contributions
+to change in institutions with positive-feedback effects. It allows us to
+understand how institutions demonstrating strong positive-feedback
+effects also contribute to their own downfall. This does not totally
+rule out the impact of exogenous factors, but shows that, sometimes,
+these exogenous factors speed along or exacerbate processes that are
+underway because of endogenous causes.
+    Recognition of the contradictory potential of institutions has both a
+theoretical and a methodological implication. On the theoretical front,
+it forces us to reexamine the conceptualization of critical junctures.
+Critical junctures are defined as moments of great historical signifi-
+cance during which change occurs and actors chose between various
+alternatives, unlike normal periods that are marked by the structural
+reproduction of paths (Mahoney 2000, 513; Thelen 2004, 30). The
+contradictory potential of institutions reduces the historical signifi-
+cance of “critical” junctures. It infuses the periods of supposed sta-
+bility with greater significance by showing that agency often operates
+outside of critical junctures in instances where the process of change
+unfolds gradually (see also Thelen 2004, 32; Streeck and Thelen 2005,
+4; Mahoney and Thelen, this volume). On the methodological front,
+the story told here about the contradictory potential of institutions
+forces us to rethink the historical periods in which we concentrate
+research on institutional change. If change is an ever-present possibil-
+ity because of the very nature of institutions, and can occur gradually
+over time, then concentrating research on critical junctures marked
+by big exogenous shocks and obvious drastic changes might produce
+misleading conclusions about the sources of change.
+    Focusing on periods outside of those thought of as critical junctures
+is important because institutions that display contradictory potential
+inherently contain the germs of conflict that generates change. By
+simultaneously fostering parasitic agents and those dedicated to the
+proper functioning of institutions, institutions create the constant pos-
+sibility of conflict and contestation. This view of institutions opens
+up opportunities for conflict and change in even more ways than do
+accounts that portray institutions as unambiguous structures and that
+influence behavior in uniform ways. Here the contradictory forces nur-
+tured by institutions do constant battle, and the stable persistence of
+
+[p. 90] [PDF page 108]
+
+institutions even at the height of their acceptance by societal actors is
+not a foregone conclusion. As shown with Kenya’s LBC executives,
+where such “friends” of institutions happen to be subversive parasites,
+their warm embrace and exploitation of prevailing institutions may
+well contribute to drift and gradual institutional decline.
+   At the heart of the examination in this chapter of the abuse of prop-
+erty rights institutions by con men and LBC executives is recognition
+of some of the ends to which actors may put the subversion of titles
+and other forms of land documents. The literature on property rights
+is replete with works emphasizing the beneficial effects of property
+institutions like titles. They portray titles as instruments that facilitate
+productive activities and allow the transformation of real property into
+capital through its use as collateral (de Soto 2000; World Bank 2002;
+Joireman 2007). Little attention has been paid to the question of how
+these same institutions can be manipulated to serve ends that system-
+atically disempower and rob people, undermine markets, and create
+social disorder. A key dividend of recognizing the contradictory poten-
+tial of institutions is that we can understand how these institutional
+structures may be used for different purposes with diverse practical
+effects and dissimilar ethical valences.
+
+
+References
+Ajulu, Rok. 2002. “Politicised Ethnicity, Competitive Politics and Conflict
+  in Kenya: A Historical Perspective.” African Studies 61 (December): 251–
+  268.
+Arnold, Guy. 1974. Kenyatta and the Politics of Kenya. London: Dent.
+Arthur, Brian. 1994. Increasing Returns and Path Dependence in the Econ-
+  omy. Ann Arbor: University of Michigan Press.
+Atieno-Odhiambo, Elisha. 2002. “Hegemonic Enterprises and Instrumental-
+  ities of Survival: Ethnicity and Democracy in Kenya.” African Studies 61
+  (November): 223–249.
+Barley, Stephen, and Gideon Kunda. 1992. “Design and Devotion: Surges of
+  Rational and Normative Ideologies of Control in Managerial Discourse.”
+  Administrative Science Quarterly 37 (September): 363–399.
+Berman, Bruce, and John Lonsdale. 1992. Unhappy Valley: Conflict in Kenya
+  and Africa. Eastern African Studies. London: J. Currey.
+Branch, Daniel. 2006. “Loyalists, Mau Mau, and Elections in Kenya: The
+  First Triumph of the System, 1957–1958.” Africa Today 53 (Winter):
+  27–50.
+
+[p. 91] [PDF page 109]
+
+Clemens, Elisabeth. 1993. “Organizational Repertoires and Institutional
+  Change: Women’s Groups and the Transformation of U.S. Politics, 1890–
+  1920.” American Journal of Sociology 98 (January): 755–798.
+Comaroff, John.1980. “Class and Culture in a Peasant Economy: The Trans-
+  formation of Land Tenure in Barolong.” Journal of African Law 1 (Spring):
+  85–113.
+de Soto, Hernando. 2000. The Mystery of Capital: Why Capitalism Triumphs
+  in the West and Fails Everywhere Else. London: Bantam.
+DiMaggio, Paul. 1988. “Interest and Agency in Institutional Theory.” In Insti-
+  tutional Patterns and Organizations: Culture and Environment, ed. Lynne
+  Zucker, 3–21. Cambridge, MA: Ballinger Publishing Company.
+Greif, Avner, and David Laitin. 2004. “A Theory of Endogenous Institu-
+  tional Change.” American Political Science Review 98 (November): 633–
+  652.
+Hacker, Jacob. 2005. “Policy Drift: The Hidden Politics of US Welfare State
+  Retrenchment.” In Beyond Continuity: Institutional Change in Advanced
+  Political Economies, ed. Wolfgang Streeck and Kathleen Thelen, 40–82.
+  Oxford: Oxford University Press.
+Hayanga, C. A. 1975. “Loans to Agriculture in Kenya.” Journal of African
+  Law 19 (Spring-Autumn): 105–111.
+Hazlewood, Arthur. 1979. The Economy of Kenya: The Kenyatta Era. Oxford:
+  Oxford University Press.
+Jackson, Gregory. 2005. “Contested Boundaries: Ambiguity and Creativity in
+  the Evolution of German Codetermination,” in Beyond Continuity: Institu-
+  tional Change in Advanced Political Economies, ed. Wolfgang Streeck and
+  Kathleen Thelen, 226–254. Oxford: Oxford University Press.
+Joireman, Sandra. 2007. “Enforcing New Property Rights in Sub-Saharan
+  Africa: The Ugandan Constitution and the 1998 Land Act.” Comparative
+  Politics 39 (July): 463–480.
+Katznelson, Ira. 2003. “Periodization and Preferences: Reflections on Pur-
+  posive Action in Comparative Historical Social Science.” In Comparative
+  Historical Analysis in the Social Sciences, ed. James Mahoney and Dietrich
+  Rueschemeyer, 270–301. Cambridge: Cambridge University Press.
+Kenya. 1941. Land Tenure Committee Report. Nairobi: Government Printer.
+Kenya. 1966. Report of the Mission on Land Consolidation in Kenya, 1965–
+  1966. Nairobi: Printing and Packaging Corporation.
+Kenya. 2002. Report of the Commission of Inquiry into the Land Law Sys-
+  tem of Kenya on Principles of a National Land Policy Framework, Con-
+  stitutional Position on Land and New Institutional Framework for Land
+  Administration. Nairobi: Government Printer.
+Kenya. 2004. Report of the Commission of Inquiry into the Illegal/Irregular
+  Allocation of Public Land. Nairobi: Government Printer.
+Klopp, Jacqueline. 2000. “Pilfering the Public: The Problem of Land Grabbing
+  in Contemporary Kenya.” Africa Today 47 (Winter): 7–26.
+
+[p. 92] [PDF page 110]
+
+Klopp, Jacqueline. 2002. “Can Moral Ethnicity Trump Political Tribalism?
+  The Struggle for Land and Nation in Kenya.” African Studies 61 (Decem-
+  ber): 269–294.
+Leblebici, Huseyin, et al. 1991. “Institutional Change and the Transformation
+  of Interorganizational Fields: An Organizational History of the US Radio
+  Broadcasting Industry.” Administrative Science Quarterly 36 (September):
+  333–363.
+Leys, Norman. 1931. A Last Chance in Kenya. London: L. and Virginia Woolf
+  at the Hogarth Press.
+Mahoney, James. 2000. “Path Dependence in Historical Sociology.” Theory
+  and Society 29 (August): 507–548.
+Maybury-Lewis, David. 1989. “The Quest for Harmony.” In The Attraction of
+  Opposites: Thought and Society in the Dualistic Mode, ed. David Maybury-
+  Lewis and Uri Almagor, 1–17. Ann Arbor: University of Michigan Press.
+Meek, Charles. 1949. Land, Law and Custom in the Colonies. London:
+  Oxford University Press, 1949.
+Ngugi, Joel. 2004. “Reexamining the Role of Private Property in Market
+  Democracies: Problematic Ideological Issues Raised by Land Registration.”
+  Michigan Journal of International Law 25 (Winter): 467–527.
+North, Douglass C. 1990. Institutions, Institutional Change, and Economic
+  Performance: The Political Economy of Institutions and Decisions. Cam-
+  bridge: Cambridge University Press.
+Pierson, Paul. 2000. “Not Just What, but When: Timing and Sequence in
+  Political Processes.” Studies in American Political Development 14 (Spring):
+  72–92.
+Pierson, Paul. 2004. Politics in Time: History, Institutions, and Political Anal-
+  ysis. Princeton: Princeton University Press.
+Schneiberg, Marc. 2005. “Combining New Institutionalisms: Explaining Insti-
+  tutional Change in American Property Insurance.” Sociological Forum 20
+  (March): 93–137.
+Schneiberg, Marc, and Elisabeth Clemens. 2006. “The Typical Tools for the
+  Job: Research Strategies in Institutional Analysis.” Sociological Theory 24
+  (September): 195–227.
+Scott, James. 1998. Seeing Like a State: How Certain Schemes to Improve the
+  Human Condition Have Failed. New Haven: Yale University Press.
+Streeck, Wolfgang, and Kathleen Thelen. 2005. “Introduction: Institutional
+  Change in Advanced Political Economies.” In Beyond Continuity: Institu-
+  tional Change in Advanced Political Economies, ed. Wolfgang Streeck and
+  Kathleen Thelen, 1–39. Oxford: Oxford University Press.
+Thelen, Kathleen. 1999. “Historical Institutionalism in Comparative Politics.”
+  Annual Review of Political Science 2 (June): 369–404.
+Thelen, Kathleen. 2000. “Timing and Temporality in the Analysis of Institu-
+  tional Evolution and Change.” Studies in American Political Development
+  14 (Spring): 101–108.
+
+[p. 93] [PDF page 111]
+
+Thelen, Kathleen. 2004. How Institutions Evolve: The Political Economy
+  of Skills in Germany, Britain, the United States, and Japan. New York:
+  Cambridge University Press.
+Wanjohi, Nick Gatheru. 1985. The Politics of Land, Elections, and Demo-
+  cratic Performance in Kenya: A Case Study of Nakuru District. Vol. 412,
+  Working Paper. Nairobi: Institute for Development Studies, University of
+  Nairobi.
+World Bank. 2002. Building Institutions for Markets: World Development
+  Report, 2002. New York: Oxford University Press.
+Yandle, Bruce. 1983. “Bootleggers and Baptists – the Education of a Regula-
+  tory Economist.” Regulation (May/June): 12–20.

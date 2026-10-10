@@ -1,0 +1,1435 @@
+Explaining Institutional Change: Ambiguity, Agency, and Power
+Edited by James Mahoney and Kathleen Thelen
+First published in print: 2009 | Copyright: 2010 | Cambridge University Press
+
+Chapter 6: Rethinking Rules: Creativity and Constraint in the U.S. House of Representatives
+Adam Sheingate
+Original print pages 168–203; PDF pages 186–221
+
+[English original. Chapter footnotes and references are retained in their original page positions. Print page markers and one-based PDF page numbers are provided. Original line breaks and fixed-width table layout are retained; verify diagrams and exact typography against the PDF.]
+
+
+========================================================================
+Chapter text, footnotes, and references
+========================================================================
+
+[p. 168] [PDF page 186]
+
+6
+
+Rethinking Rules
+
+Creativity and Constraint in the U.S. House
+of Representatives
+
+      Adam Sheingate
+
+
+
+
+Rules are a characteristic feature of political institutions. They govern
+the order and conduct of business within institutions and the dis-
+tribution of power and authority among them. Rules also structure
+the behavior of goal-oriented actors, for example, by establishing the
+parameters for strategic interaction. Rules, in other words, define the
+scope of permissible actions. As a source of constraint, rules are a part
+of the regulative, normative, and cognitive structures that shape the
+alternatives actors confront (Clemens and Cook 1999).
+   But rules have a double-edged quality; they do more than limit
+alternatives or set the parameters for strategic interaction. Rules also
+provide actors with creative leeway. In this way, rules are at once con-
+straining and empowering. Consider, for example, how rules operate
+as a component of a game. According to the game designers Frank
+Lantz and Eric Zimmerman (1999), the rules of a game engender play.
+Whereas the rules, “the laws that determine what can and cannot hap-
+pen,” may be fixed and rigid, play, the human experience of a game “set
+into motion by the players’ choices and actions,” is creative and impro-
+visational (Lantz and Zimmerman 1999). As they describe the process:
+
+Within the strictly demarcated confines of the rules, play emerges and ripples
+outwards, bubbling up through the fixed and rigid rule-structure in unexpected
+
+
+For comments on earlier versions, the author would like to thank Jim Mahoney
+and Kathleen Thelen, the participants at the Northwestern Workshop on Institutional
+Change, Joseph Cooper, and Randall Strahan.
+
+[p. 169] [PDF page 187]
+
+patterns. During play, relationships between parts becomes [sic] a complex
+system, capable of producing intricate patterns. . . . Uncertainty, produced by
+randomness or by a rich palette of strategic choice is a necessary ingredient
+of successful gameplay. Just try to imagine a game without the pleasurable
+suspense of an uncertain ending. (Lantz and Zimmerman 1999)
+
+    Lantz and Zimmerman highlight the creative component of human
+action that occurs within the context of a tightly specified rule struc-
+ture. One of the best examples of this creativity is in the game of
+chess, where a fixed and clearly delineated set of rules gives rise to an
+ever-evolving array of opening moves, attacks, defenses, gambits, and
+endgames. It is the multiplication of rules governing the movement of
+different pieces that gives chess its dynamic character when compared
+with a simple game like checkers. In other words, the complexity of the
+rule structure itself provides the scope for individual skill or creativity
+as the game unfolds.
+    The example of chess is suggestive for theories of political institu-
+tions, and for our understanding of how actors operate within them.
+Just as the rules of chess can give rise to dynamic play, the complex
+array of rules within political institutions and the manifold connections
+among them can provide actors with creative leeway. However, there
+is an important distinction to be drawn between politics and chess:
+the formal rules of political “games” are far more ambiguous. In
+chess, the rules are clearly defined and known to the players. But
+in politics, the rules are often vague and subject to multiple interpre-
+tations. Employing insights drawn from Wittgenstein, J. David Green-
+stone (1986, 48) writes, “Because the rules are never complete and
+definitive, there is also an indispensable role for the individual. Verbal
+formulas can never state the rules unambiguously.”
+    It is precisely this ambiguity that provides a critical opening for the
+creative interpretation of rules – and the potential for fresh insights
+into how actors animate the process of institutional development. As
+Mahoney and Thelen point out in the introduction to this volume,
+ambiguity invites conflict and contestation as actors struggle over the
+meaning, application, and enforcement of formal institutional rules. It
+is through these conflicts over rules and their meaning that actors can
+transform the way institutions allocate power and authority. Political
+institutions, in this view, “are the object of ongoing skirmishes as actors
+try to achieve advantage by interpreting or redirecting institutions in
+
+[p. 170] [PDF page 188]
+
+pursuit of their goals, or by subverting or circumventing rules that
+clash with their interests” (Streeck and Thelen 2005, 19). When suc-
+cessful, these skirmishes establish precedents that become codified in
+new rules, changing the complexion of an institution in the process. In
+other words, the characteristics of institutions themselves, especially
+the ambiguity of their rule structure and the attendant struggles over
+the meaning of rules, help explain how institutions evolve (Thelen
+2004; Tsai 2006).
+   At the same time, this focus on the creative element in politics car-
+ries certain dangers if it leads to an overly muscular account of agency.
+By conceiving some actors as heroic change agents operating outside
+of institutional constraints, we risk losing sight of institutions them-
+selves. As Powell and Colyvas (2008, 277) caution, “[I]nstitutional the-
+ory gains little by making unleashed actors the drivers of institutional
+change.” The goal, then, is to understand how rule ambiguity provides
+opportunities for creative leeway at the same time that actors remain
+tethered to the institutions they inhabit. The solution, therefore, is to
+begin with the characteristics of institutions and then consider how
+actors work to transform them, or, as the editors of this volume put it,
+to “link particular modes of incremental change to those properties of
+institutions that permit or invite specific kinds of change strategies.”
+Following Mahoney and Thelen, institutional variations create oppor-
+tunities for various kinds of actors to interpret, elaborate, bend, or
+break the rules in the pursuit of individual and collective goals.
+   Central to any understanding of institutions is understanding the
+way that they confer power and authority on individuals and groups
+to make or break the rules. Whereas some actors operate from struc-
+tural positions of authority that confer power over the creation and
+interpretation of rules, others may lack such power, seeking instead to
+challenge the rules or subvert them. However, as noted earlier, rules
+are often ambiguous in their meaning and effect; power and authority
+are frequently contested and far from secure. This is particularly the
+case in complex institutions where the multiplication of rules gener-
+ates manifold contradictions and conflicts. Although one rule might
+authorize a majority to change the character of an institution, another
+rule may empower minorities to effectively block such a change. Simi-
+larly, although a majority may secure formal changes in the rules that
+establish new instruments of institutional authority, minorities may
+
+[p. 171] [PDF page 189]
+
+still subvert the effects of rules in practice. Confronted by such obsta-
+cles, individuals or groups must pursue new avenues to change and
+promote novel interpretations of rules that help them control insti-
+tutions. As these maneuvers within and around the rules establish
+precedents for action, they open new paths while foreclosing others,
+adding further to the complexity of the institution and opening new
+fronts in the struggle for institutional control. In this way, institutional
+politics is animated by both the creativity and the constraint inherent
+in rules and rule making.
+    In this chapter, I attempt to capture this creativity and constraint by
+discussing three well-known vignettes in the history of the U.S. House
+of Representatives: (1) the emergence of the Rules Committee as an
+instrument of majority party agenda control under Thomas Brackett
+Reed in the early 1880s; (2) the elimination of the “disappearing quo-
+rum,” another innovation by Reed, and the consolidation of a pow-
+erful partisan Speaker through “Reed’s Rules” in 1890; and (3) the
+introduction by George Norris of a resolution stripping the Speaker’s
+power over the Rules Committee during the “Cannon Revolt” in 1910.
+These events contributed to the development of the House, and each
+one illustrates how creativity and constraint operate in the process of
+institutional change. In each case, efforts to transform the rules of the
+House, even when ostensibly favored by a majority of members, con-
+fronted a formidable obstacle because the rules themselves conferred
+extraordinary power on those most opposed to change. To overcome
+these obstacles, Reed and Norris exploited the ambiguity of the rules
+and the complex institutional features of the House either to create
+new rules or to put forward creative interpretations of existing rules
+that would allow them to pursue their goals of institutional change.
+    Because these are extraordinary moments in the history of the U.S.
+House, some may question how much can be learned from them. Yet
+their choice is intended to underscore the important role that creativity
+and constraint play in the evolution of institutions. For many congres-
+sional scholars the years between 1880 and 1910 mark a critical period
+in the institutional development of the House. The era begins with the
+increasing centralization of party control in the hands of the Speaker
+in the 1880s, continues through the consolidation and growth of the
+Speaker’s power under “Reed’s Rules” in the 1890s, and ends with
+the 1910 revolt against the partisan Speaker that ushered in a new
+
+[p. 172] [PDF page 190]
+
+period of decentralized party control that would hold sway for the
+next fifty years. In some ways, the events described here were (perhaps
+the) defining moments in the rise and fall of the nineteenth-century
+partisan House.
+   The goal in using these vignettes is to illustrate how actors working
+within a complex institution such as the U.S. House of Representatives
+pursue their goals, individually and collectively, through an almost
+never-ending process of rule creation, elaboration, and interpretation.
+Indeed, it would be a mistake to conclude that instances of rule cre-
+ativity are rare or exceptional. In fact, they happen quite regularly.
+As I describe in the next section, the U.S. House steadily accumulates
+precedents in its procedures that bear witness to this ongoing creativity.
+At the same time, the House is an evolving rule complex that is itself
+embedded within a larger context of American politics and partisan
+competition. This context is important, for it shapes the preferences
+of members and the goals that members pursue within the chamber.
+But individual members of Congress are not completely subordinate to
+contextual factors, nor are they free-floating agents operating outside
+of institutional constraints. By understanding how actors navigate a
+complex rule structure amidst a changing external environment, it is
+possible to grasp both creativity and constraint in the operation of
+institutions. As in the other cases examined in this volume, the U.S.
+House of Representatives illustrates how the strategies that actors pur-
+sue to achieve their goals reflect (and exploit) the particular features
+of the institutions in which they operate.
+
+
+The U.S. House of Representatives as an Evolving Rule Complex
+
+The U.S. House of Representatives provides an interesting case for a
+study of this kind because of its complicated mixture of rules, prece-
+dents, and practices that have accumulated over time. On the one hand,
+these rules guide the strategic interactions of individual members. The
+pursuit of electoral, partisan, or policy goals occurs within a set of
+rules that govern the structure and process of legislation. According to
+rationalist approaches to the study of institutions, these rules reflect the
+broad distribution of member preferences within the chamber; changes
+in the underlying distribution of preferences will generate pressures
+for changes in the rules. On the other hand, scholars have shown that
+
+[p. 173] [PDF page 191]
+
+the complex array of rules and procedures of the U.S. House defy easy
+categorization according to a single set of member goals or motives
+(Schickler 2001). This is because House rules distribute power and
+authority among multiple and overlapping groups within the chamber:
+majority and minority parties, party leaders and the rank and file,
+junior and senior members, and all manner of policy coalitions.
+The manifold character of member motives and the distributional
+consequences of congressional decisions invite various kinds of cre-
+ative rule making by different alignments of goal-directed members.
+The structural features of complex institutions like the House of
+Representatives are more than simply rules of the game; they are very
+often the game itself.
+    This becomes evident when we trace the evolution of rules, prece-
+dents, and conventions that govern the conduct of business and guide
+the behavior of members in the House of Representatives. Unlike many
+other institutions, the House maintains detailed records that provide
+a great deal of information about its rules and the practices associ-
+ated with them, making it possible to trace the development of the
+House as an evolving rule complex. This section offers an overview
+of this development before turning to a discussion of how struggles
+over House rules illustrate creativity and constraint in the process of
+institutional change.
+    Article I, Section 5 of the U.S. Constitution states that “each house
+may determine the rules of its proceedings.” Consequently, when the
+first session of the 1st Congress opened in New York in 1789, the
+House appointed a select committee “to prepare and report such stand-
+ing rules and orders of proceedings as may be proper to be observed in
+the House.”1 Five days later, the House adopted a set of four rules gov-
+erning the duty of the Speaker, decorum and debate in the House, the
+introduction and consideration of bills, and the role of the Committee
+of the Whole House (United States Congress 1983, 36–37).2
+    As the size and workload of the U.S. House grew over the next
+several decades, the chamber’s rules expanded in piecemeal fashion. In
+
+
+1 Journal of the United States House of Representatives (hereafter House Journal),
+  April 2, 1789, p. 6. Available at http://lcweb2.loc.gov/ammem/amlaw/lwhj.html.
+2 The Committee of the Whole House of Representatives is a parliamentary device for
+
+  debating and deciding legislation.
+
+[p. 174] [PDF page 192]
+
+some years, the House made only minor revisions; in others, the cham-
+ber simply adopted the rules of the previous Congress. Periodically,
+however, the House formalized certain elements of procedure, regu-
+lated the behavior of members during debate, and developed instru-
+ments to better control the order of business (United States Congress
+1983, 38–39). An important revision of the rules in 1822, for example,
+established that a two-thirds majority would be required to suspend
+the rules, as when the House was considering legislation outside the
+normal order of business. Rules changes in the 25th Congress (1837–
+1839) streamlined the procedure for bill introduction, making it easier
+for individual members to participate in the legislative process (Cooper
+and Young 1989). A major revision in 1860 (36th Congress) included
+thirty-six amendments to the rules that “corrected contradictory pro-
+visions, combined several rules into one, and made others conform to
+established practice” (Alexander 1970 [1916], 192). However, such
+efforts to streamline and update House rules soon became outdated
+themselves. As the size and workload of the chamber further increased
+after the Civil War, the conduct of business had again become diffi-
+cult. In an attempt to address the problems of an increasingly chaotic
+House, a general revision of the rules in 1880 condensed and reorga-
+nized the 166 rules into forty-four general categories, subdivided into
+clauses, and arranged logically according to subject. Of particular note,
+the 1880 revision created a standing Committee on Rules with juris-
+diction over “all proposed action touching on the rules” (Alexander
+1970 [1916], 194–196). Until then, Rules had been a select committee –
+one that had to be called into existence at the start of each Congress.
+Its status as a standing committee suggests that rules about rules had
+grown in importance as the business of the House increased.
+   Table 6.1 attempts to capture these developments by comparing the
+size, workload, and rules of the House during the 1st Congress with
+those during subsequent Congresses following rule revisions in 1794,
+1811, 1822, 1836, 1860, and 1880. Not surprisingly, House rules –
+measured here as the number of House Journal pages and length in
+words – grew along with increases in the number of members, the
+emergence of a standing committee system to handle legislation, and
+the growing workload of bills under consideration (Cooper 1988
+[1960]). In this way, the development of an elaborate rule struc-
+ture was part of the broader institutionalization of the House of
+
+[p. 175] [PDF page 193]
+
+table 6.1. Size, Workload, and Rules in the U.S. House of
+Representatives, 1st–46th Congresses
+
+                      House   Standing   Bills      Rules   Rules
+Congress (years)      Members Committees Introduced (pages) (words)
+1st (1789–1791)        65             0            245          3        1,869
+3rd (1793–1795)       105             2            244          4        2,782
+12th (1811–1813)      141             9            277          5        3,843
+17th (1821–1823)      187            25            317         11        5,619
+25th (1837–1839)      242            33          1,176         13        7,333
+36th (1859–1861)      237            34          1,020         20       10,183
+46th (1879–1881)      293            45          7,257         17       10,500∗
+∗ Estimated for the 46th Congress.
+
+Source: House Journal, various years.
+
+
+Representatives during the nineteenth century (Polsby 1968). But it
+is also true that as the House grew in size, developed its internal struc-
+ture, and absorbed increasing work demands, the institution became
+more complex. Despite efforts to periodically streamline the process,
+House rules contributed to this complexity by establishing a compli-
+cated web of procedures that in some instances were simply outdated
+or internally inconsistent. Prior to the 1880 revisions, for example,
+House rules were enumerated 1 through 166 with newer rules simply
+added on by succeeding Congresses. Even with the 1880 revisions, the
+rules contained nearly 150 separate clauses, and these would steadily
+increase in number. In the 110th Congress (2007–2008), for example,
+the rules contained 484 distinct clauses.3
+    However, attention to the formal rules of the House captures only
+part of this development. Rules, by necessity, must have a partial,
+open-ended quality. “There will always be some cases that the rules
+have not anticipated; on other matters, the rules are simply silent”
+(Greenstone 1986, 48). It is amidst these silences that precedent and
+convention normally govern, and it is here that interpretation and elab-
+oration take place in myriad ways. For example, House rules estab-
+lished during the 1st Congress gave the Speaker the power to decide
+who would address the chamber if several members sought the floor
+
+3   United States Congress, House Rules and Manual, 109th Congress, 2nd Session
+    (House Document No. 109–157), pp. 335–984. Available at http://www.gpoaccess.
+    gov/hrm/browse_110.html.
+
+[p. 176] [PDF page 194]
+
+at once. Originally understood as simply a way to order parliamentary
+procedure, the Speaker’s power of recognition would take on greater
+significance as the House grew larger. In 1874, the Republican Speaker
+James Blaine established the principle that recognition would be based
+on the Speaker’s judgment of the relative importance of the motions
+being offered. This power of recognition became a critical instrument
+for Speakers, who could use it to reward or punish individual mem-
+bers, or to advance or block the movement of legislation for partisan
+or personal reasons (Alexander 1970 [1916], 58–61; Strahan 2007,
+84–85).
+   This power of recognition points to another key element of rule
+ambiguity: conflicts that arise over the authoritative interpretation and
+elaboration of rules. The original rules from 1789 also granted the
+Speaker authority to “decide all questions of order” (Hinds 1907, II
+872). Again, as the size of the House has grown, and the complexity
+of its rules has increased, the Speaker’s rulings on points of order
+have become more important. Whereas members can appeal most of
+these rulings, in matters of recognition the Speaker’s word is final. This
+precedent dates to 1874, when the Democratic Speaker Samuel Randall
+ruled that “the right of recognition is just as absolute in the chair [of
+the Speaker] as the judgment of the Supreme Court is absolute in the
+interpretation of the law.” Randall’s edict actually overturned earlier
+practices of the House in which members could appeal a decision
+from the Speaker on a question of recognition (Hinds 1907, II 918,
+920). Today, the Speaker’s power of recognition is still guided by this
+precedent, rather than by the formal rules of the House.4
+   So much House business is governed by past practice and conven-
+tion, in fact, that the compilation of precedents has long been critical
+to the operation of the chamber. Beginning in the 1840s, the House
+regarded precedent as a guiding principle in the rulings of Speakers. As
+Virginia Representative George Hopkins put it during debate in 1842,
+“A chairman does not sit here to expound rules according to his own
+arbitrary views. A just deference for the opinions of his fellows should
+constrain him to give precedent its proper influence” (Hinds 1907, II
+873). As precedent took on greater significance, the clerk residing at
+
+4   United States Congress, House Rules and Manual, 109th Congress, 2nd Session,
+    p. 736.
+
+[p. 177] [PDF page 195]
+
+the Speaker’s table became an increasingly valuable resource in matters
+of parliamentary procedure. Asher Hinds, who served as a clerk from
+1895 until 1910, compiled the first comprehensive collection of prece-
+dents on all matters of House practice. First published in 1907, Hinds’
+Precedents of the House of Representatives eventually ran more than
+five thousand pages. Hinds’s successor, Clarence Cannon, followed
+the practice of comprehensively updating and publishing House prece-
+dents, issuing five additional volumes in 1936. In 1927, the House
+established the position of House parliamentarian. The office operates
+as a kind of institutional guardian; parliamentarian Lewis Deschler
+served from 1928 to 1974 during which time he published nine more
+volumes of precedent (seven more have been published by Deschler’s
+successor, William Holmes Brown).5 In fact, because of their reputa-
+tion as neutral arbiters, the parliamentarians themselves carry a size-
+able degree of authority in the interpretation of rules. Consequently,
+their decisions on allowable practice are critical to the operation of the
+House even as they add to the institutional complexity in which rule
+creation and elaboration takes place. David King (1997), for exam-
+ple, shows how members use the parliamentarian’s decisions on bill
+referrals to expand the boundaries of their committee jurisdiction in
+ways that transform the distribution of policy authority within the
+chamber.
+   The history of the U.S. House is filled with the accumulation of
+precedents that have added to the complexity of the institution and
+the strategic environment in which members operate. Figure 6.1 illus-
+trates this complexity by reproducing a page from the rules of the 110th
+Congress (2007–2008). Rule I, clause 5 governs the Speaker’s power
+to decide questions of order. The discussion that follows describes the
+origin and evolution of the rule, as well as its various uses or the excep-
+tions made during previous Congresses (the complete note extends for
+several more pages). This illustrates how House precedents attempt
+to establish the conditions under which a particular rule holds. Yet
+in doing so, precedents also give sanction to multiple interpretations,
+thereby expanding rather than constraining the possible range of action
+under a given rule. And although precedents operate with the force of
+
+5   “Rules and Precedents that Govern the U.S. House of Representatives.” Available at
+    http://www.gpoaccess.gov/precedents/index.html.
+
+[p. 178] [PDF page 196]
+
+figure 6.1. Rules and Precedents in the U.S. House of Representatives.
+
+[p. 179] [PDF page 197]
+
+figure 6.1 (cont.)
+
+[p. 180] [PDF page 198]
+
+a rule, they may in fact place fewer constraints on actors seeking to
+institute new practices. In the House, a precedent can be established
+by a ruling from the Speaker. Such a ruling can be appealed on the
+floor, but setting a precedent does not require an affirmative vote of the
+chamber as in the case of amending the standing rules of the House. In
+other words, precedents change practices while leaving the underlying
+rule structure unchanged. However, the very practices authorized by
+a precedent are themselves vulnerable to new interpretations in the
+future. As Thomas Brackett Reed (quoted in King 1997, 94) put it,
+“If we have broken the precedents of a hundred years, we have set the
+precedents of another hundred years nobler than the last.”
+   This quotation raises the key question: how are we to understand
+the behavior of actors within a rule complex such as the House of
+Representatives? Are actors constrained by rules and past practice, as
+George Hopkins insisted; or are rules (and precedents) meant to be
+broken, as Reed presumed? The answer, as we will see, is that both are
+true. However, approaches to the study of Congress, and institutional
+analysis more generally, differ precisely on this question.
+
+
+Rethinking Rules: Creativity and Constraint
+
+Rationalist approaches to the study of Congress examine rules as
+instruments for the collective pursuit of individual member goals.
+Rules, in this view, reflect the underlying distribution of member pref-
+erences. The conditional party government model, for example, argues
+that when member preferences are homogeneous within parties and
+divergent across parties, rules will centralize power within the major-
+ity leadership. Conversely, when member preferences are heteroge-
+neous within parties and similar across parties, rules will decentralize
+power in the House (Cooper and Brady 1981; Aldrich and Rohde
+2000). Orthodox variants of this approach adopt a highly determinis-
+tic view in which House leaders are agents of their party whose scope
+of action depends solely on whether rank-and-file members of the
+majority are like-minded enough to delegate authority to the Speaker
+(Sinclair 1999). In other words, there is very little leeway in the behav-
+ior of House leaders; their actions are largely dictated by the broader
+partisan context and institutional character of the rules preferred by a
+procedural majority in the House.
+
+[p. 181] [PDF page 199]
+
+In contrast to this contextual view, other scholars have emphasized
+how individual leaders have shaped the development of the House. In
+this view, entrepreneurial leaders can promote rule changes that appeal
+to an array of member preferences, creatively assembling coalitions of
+members whose support reflects a mixture of electoral, partisan, or
+policy goals (Schickler 2001). As Robert Dahl (1961, 6) noted in a
+different context, such a leader is “not so much the agent of others
+as others are his agents.” Notable Speakers of the House, such as
+Henry Clay, Thomas Brackett Reed, or Newt Gingrich can have an
+independent and influential effect on the institutions of the House.
+Their leadership capacities do not emerge fully formed from a unified
+rank and file; rather, their leadership skills reside in their capacity to
+articulate inchoate preferences and unify them into a powerful force
+within the House (Strahan 2007).
+    Neither of these approaches offers a wholly satisfying account of
+actors or institutions. In the contextual view, for example, rules emerge
+from a micropolitics of structural choice that views party leaders as lit-
+tle more than institutional “dopes” acting out the preferences of rank-
+and-file members. The alternative, however, may go too far the other
+way by conceiving of some actors as heroic change agents who oper-
+ate outside of institutional constraints. This overly muscular account
+of agency begs the question why some individuals are constrained by
+rules and institutions while others are able to act upon them (Powell
+and Colyvas 2008).
+    How, then, are we to square creativity with constraint? The problem
+arises from the dual character of rules noted earlier. On the one hand,
+rules are ambiguous in their meaning and effect. This presents actors
+with a degree of leeway owing to the fact that “applying a general
+rule to a specific situation is a creative act that must take into account,
+not just the rule itself, but also the unique circumstances to which it
+is to be applied” (Streeck and Thelen 2005, 14). In other words, rules
+provide the medium for creative action. Or, as the editors put it in the
+introduction to this volume, actors animate a process of incremental
+change by exploiting the “gaps” and “soft spots” between the rule and
+its interpretation.
+    Yet even where they are ambiguous, rules still set parameters on
+the permissible range of action; they establish what can and cannot
+happen. Indeed, without rules, action becomes impossible, especially
+
+[p. 182] [PDF page 200]
+
+within a complex institution like the U.S. House. Consequently, in
+many instances, actors will seek to preserve the legitimacy of an
+institution, comply with broadly accepted norms, and generally work
+“within the rules” even as they promote novel interpretations of those
+rules. Moreover, where the legitimacy of rules hinges on a mech-
+anism of third-party enforcement (e.g., the House parliamentarian)
+actors may face further limitations on what they can accomplish in the
+(re)interpretation of rules. Finally, power asymmetries and time lags
+may confer authority over rules upon some actors despite the fact that
+the structural basis of their power has changed or no longer exists.
+    Thus actors face a quandary: even as they engage in a steady probing
+for creative ways to turn the rules to their advantage, actors are con-
+strained to a greater or lesser extent by the very same rules they wish
+to change. Therefore, contra many rationalist approaches to the study
+of legislatures, a change in the preference of a procedural majority,
+even when precipitated by a broader shift in political context or par-
+tisan competition, does not necessarily produce a change in the rules.
+Following Strahan (2007, 110), partisan context is better understood
+as a necessary but not a sufficient condition for change. At the same
+time, actors, even creative ones, are never wholly unleashed from the
+institutions they inhabit.
+    Consequently, we can better grasp the nature of institutional change
+by focusing on how actors negotiate the dual nature of rules, both their
+constraining and their creative features. In the vignettes that follow, I
+identify several strategies actors employ as they work within a complex
+rule structure like the U.S. House. These strategies are broadly consis-
+tent with the modes of institutional change (conversion, displacement,
+layering, and drift), and some of the corresponding types of actors
+(opportunists, insurrectionaries, subversives, and symbionts), identi-
+fied by Mahoney and Thelen (this volume). However, I do not offer a
+one-to-one correspondence between particular strategies and specific
+modes of change or kinds of change agents. Rather, my goal in this
+chapter is to suggest how institutions create opportunities for actors
+to pursue their goals while working within a complex set of rules. It is
+far from an exhaustive list.
+    First, actors may take a rule established for one purpose and employ
+it for another. For example, nineteenth-century House minorities took
+the rules of procedure designed to facilitate the business of the chamber
+
+[p. 183] [PDF page 201]
+
+and transformed them into instruments of obstruction. Through an
+endless stream of procedural motions, members of the minority party
+could slow down legislative business to a crawl. Such behavior resem-
+bles what Mahoney and Thelen describe as rule conversion, and it
+illustrates the point made by Ato Onoma in this volume about how
+actors can violate the spirit of a rule even as they follow it to the
+letter.
+    Second, actors can engage in forms of rule breaking, minor but unen-
+forceable violations of procedure. Over time, such practices can them-
+selves become “rules,” durable features of an institution that actors
+are reluctant to flout.6 The disappearing quorum, a practice whereby
+members could halt the business of the House by withholding their
+vote, was in fact a violation of House rules. As such, it illustrates
+another point made in the editors’ introduction: that actors can take
+advantage of the gap between rules and their enforcement.
+    Third, actors can exploit points of conflict and contradiction among
+overlapping or nested sets of rules. In such instances of rule conflict,
+actors may try to overturn rules or circumvent them by appealing to a
+higher authority in which an institution is embedded. For instance, the
+U.S. House of Representatives operates within a larger constitutional
+arrangement; the power of the chamber to make rules is itself a mat-
+ter of constitutional authority. Consequently, we see various efforts
+to justify new rules or challenge existing ones through constitutional
+appeals. This strategy illustrates an important feature of complex insti-
+tutions. The multiple connections among system components mean
+that changes in one set of rules can affect other parts of the system.
+Actors may innovate through “robust action,” a strategy Padgett and
+Ansell (1993, 1263) describe as one in which “single actions can be
+moves in many games at once.”
+    Finally, actors may combine rules by exploiting the linkages within
+a rule complex to establish new procedures that help them achieve their
+goals. Rules in the House, for example, establish a sequence of moves
+that govern the passage of legislation. Although governed by rules,
+these sequences might take various forms, and the creative combination
+of rules can establish a novel sequence that eases the passage of a bill.
+For example, Thomas Reed combined several existing rules to create
+
+6   On the importance of rule breaking more generally, see Herrigel (2007).
+
+[p. 184] [PDF page 202]
+
+a new element of legislative procedure, the “special rule,” that greatly
+enhanced the majority party’s control over the legislative agenda.
+   These strategies illustrate how actors often work through rules
+and not just on rules. Rules are constraining insofar as they estab-
+lish parameters for action, but they also allow for creativity in their
+application and interpretation. This rule creativity leads to novel prac-
+tices and precedents that transform institutions. In sum, we can better
+understand institutional change by examining actors “at work” as they
+interpret, elaborate, bend, or even break the rules of the U.S. House in
+the pursuit of individual and collective goals.
+
+
+Rules About Rules: Thomas Brackett Reed
+and the Rules Committee
+
+Although the U.S. House of Representatives today is a majoritarian
+institution, for most of the nineteenth century the rules of the House
+empowered minorities and frustrated majorities. In part, this reflected
+a belief that rules of procedure were one of the few protections for
+minority parties against majority tyranny. As Thomas Jefferson noted
+in his Manual of Parliamentary Practice, “As it is always in the power
+of the majority, by their numbers, to stop any improper measures pro-
+posed on the part of their opponents, the only weapons by which the
+minority can defend themselves against similar attempts from those in
+power are the forms and rules of proceeding.”7 In theory, parliamen-
+tary rules protected minority rights.
+   In practice, however, the rules of the House empowered even small
+groups of members who wished to block the passage of legislation.
+For example, the rules that governed the order and privilege of parlia-
+mentary motions allowed members to introduce motions to adjourn,
+request a call of the yeas and nays, or engage in other time-consuming
+practices that could slow House business to a crawl. And because
+the consideration of legislation outside the normal order of business
+required a two-thirds majority to suspend the rules, these dilatory
+motions could make passage of the majority party’s legislative agenda
+exceptionally difficult (Binder 1997).
+
+
+7   United States Congress, House Rules and Manual, p. 125.
+
+[p. 185] [PDF page 203]
+
+These features of the nineteenth-century House were much more
+than quaint parliamentary curiosities. Minority obstruction was a par-
+ticularly important feature of American politics during the nineteenth
+century, especially in struggles over slavery and during post–Civil War
+efforts to secure civil rights for African Americans. Dilatory motions
+were a key weapon used by Southern Democrats during the House
+debates on the organization of the Kansas and Nebraska territories
+in 1854, over a resolution endorsing the Lecompton Constitution of
+Kansas in 1858, on Reconstruction legislation in 1866, on passage of
+the 1875 civil rights bill, during debate on the Force Bill that same
+year, and in contested election cases throughout the 1870s and 1880s
+(Hinds 1907, IV 70, 72, V 354).
+   The development of these tactics illustrates how actors can convert
+the effects of a rule, even subverting its purpose, while still following it
+to the letter. Dilatory motions employed the rules of adjournment and
+other parliamentary procedures designed to facilitate the conduct of
+business in the House and used them to frustrate the conduct of busi-
+ness through inaction and delay. Such instances of rule conversion were
+not easily suppressed. As even Thomas Brackett Reed, who succeeded
+in eliminating many of these practices, acknowledged, “There are no
+words which can be framed which will limit Members to the proper use
+of proper motions. Any motion the most conducive to progress in the
+public business . . . may be used for purposes of unjust and oppressive
+delay.” Reed’s frustration with “simple motions proper in themselves,
+but which are improperly used,” illustrates the many opportunities
+available for the creative manipulation of rules, and the challenge for
+those who sought to diminish their effects (quoted in Hinds 1907,
+V 352).
+   Nevertheless, ending such abuse of the rules is precisely what Reed
+accomplished as a member of the House Rules Committee during
+the 47th Congress (1881–1883). As mentioned previously, the 1880
+reforms granted the Rules Committee status as a standing commit-
+tee with sole jurisdiction over the consideration of rule changes. In
+addition, House precedent granted the Rules Committee the privi-
+lege of reporting to the chamber at any time, freeing the committee
+from the constraints of the normal order of business (Hinds 1907,
+V 967). When the Republicans took control of the House in 1881,
+Reed became a member of Rules and employed the augmented powers
+
+[p. 186] [PDF page 204]
+
+of the committee to challenge the use of dilatory motions as a tool
+for minority-party obstruction in the House. In 1882, as Democrats
+filibustered a contested election case by making endless motions to
+adjourn, Reed secured recognition from the Speaker to submit a priv-
+ileged report from the Rules Committee. In it, Reed proposed an
+amendment to the rules that would allow no more than one motion
+to adjourn during consideration of a contested election, thereby elim-
+inating obstructive tactics in such cases (Robinson 1930, 86). Pre-
+dictably, the Democrats responded to Reed’s proposal with more dila-
+tory motions. In turn, Reed raised the point of order that “upon a
+proposition that the House change its rules dilatory motions cannot
+be entertained by the Chair.”8
+    Reed argued that dilatory motions could not be used to prevent
+the consideration of contested elections because such matters touch on
+the constitutional privilege that “each House shall be the judge of the
+election, returns, and qualifications of its own members.”9 This was
+the justification behind Reed’s proposed rule change. If this is the case,
+Reed continued, then it also holds that dilatory motions should not
+prevent changes in the rules because this too touches on constitutional
+privilege, in this instance, the one that “each House may determine the
+rules of its proceedings.” To allow otherwise would prevent the House
+from fulfilling its constitutional duties. Consequently, Reed argued, it
+is necessary to “brush away all unlawful combinations to misuse the
+rules.”10 Dilatory motions, Reed added, are also self-defeating. “The
+House has a right to change its rules at anytime; no member or set
+of members have any rights to use the rules which are to be changed
+to prevent the change which the House desires to make.” The institu-
+tion’s rules, in other words, cannot be used to defeat the rules. “The
+very power which the House is exercising cannot be used to destroy
+that power. There is no such thing as suicide in any provision of
+the Constitution of the United States.”11 Reed’s logic was a creative
+stroke that cut at the heart of dilatory motions as a device of minority
+
+
+8  Congressional Record, 47th Congress, 1st Session, p. 4305.
+9  U.S. Constitution, Article I, Section 5.
+10 Congressional Record, 47th Congress, 1st Session, p. 4306.
+11 Congressional Record, 47th Congress, 1st Session, p. 4307.
+
+[p. 187] [PDF page 205]
+
+obstruction. Indeed, “precedent did not fully cover the conditions
+under which Reed’s proposal was made” (Robinson 1930, 88). After
+several hours of debate on the floor, Republican Speaker J. Warren
+Kiefer ruled in favor of Reed’s point of order, and the Republican
+majority sustained the Speaker’s ruling.
+   Reed’s gambit nicely illustrates the dilemma faced by actors seeking
+a reinterpretation of rules. Facing minority obstruction of a contested
+election case, Reed proposed an amendment to the rules that would
+limit dilatory motions. Yet Reed’s proposal, itself, nearly foundered
+on endless delay. As one Reed biographer put it, Reed “proposed to
+remedy the situation by changing the rules. Now these same rules,
+which the House admittedly had the right to change, were being used
+to prevent the change” (Robinson 1930, 87). Reed’s proposal to limit
+motions on election cases and his argument that dilatory tactics were
+out of order during consideration of a rule change demonstrate how
+conflicts and contradictions among nested sets of rules allow actors
+to appeal to a higher authority as a strategy to circumvent or strike
+down an obstacle. In essence, Reed argued that a practice of the House,
+dilatory motions, conflicted with the U.S. Constitution and the Article
+I powers of Congress to certify elections and to determine its own
+rules.
+   The ramifications of Reed’s victory for majority-party control in the
+House were far-reaching. Not only did his success mean that dilatory
+motions would no longer be admitted in election cases, but the deci-
+sion also affirmed the power of the Rules Committee in procedural
+matters and provided a mechanism to have the committee’s reports
+promptly adopted by the majority (Alexander 1970 [1916], 202). This
+outcome proved critical the following year when Reed again sought
+House recognition for a privileged report from the Rules Committee.
+With the House deadlocked over a tariff bill whose passage was a
+major legislative goal of the Republican Party, Reed proposed a res-
+olution that would allow the House to suspend the rules at any time
+and vote to send a bill to a conference committee with the Senate. The
+resolution was a “special order,” a species of parliamentary proce-
+dure that suspends the regular order of business for a defined purpose,
+usually for the consideration of a bill. As a suspension of the rules, spe-
+cial orders required approval by two-thirds of the House. Crucially,
+
+[p. 188] [PDF page 206]
+
+however, Reed’s proposal stipulated that the motion to suspend would
+take effect if approved by a simple majority. Again, the implications for
+the minority party were clear, and again the Democrats protested. As
+in the debate over dilatory motions, the argument turned on rules
+about rules – or, more precisely, on what constituted a rule. The
+Democrats claimed that the resolution did not propose to change the
+rules, but merely to suspend them. Reed and the Republicans argued
+that this was a distinction without a difference; if the House could
+change every standing rule by majority vote, then it could approve
+by a majority a limited “rule” that applied only to a specific legisla-
+tive item for the duration of a session (Hinds 1907, IV 195). Reed’s
+innovation expanded the meaning of a rule and, in doing so, gave the
+majority party in the House a powerful tool for agenda control by
+allowing it to call up a bill at will in a form the majority preferred
+and under circumstances conducive to its passage (Roberts and Smith
+2007).12
+   As a member of the Rules Committee, Reed augmented the power
+of the committee in the legislative process and enhanced the majority
+party’s control over the legislative agenda. The creation of a special
+rule for bringing a bill to the House floor for consideration illustrates
+how the creative combination of complex elements can yield impor-
+tant innovations. In essence, Reed combined the privilege of the Rules
+Committee to issue reports at any time (augmented by the elimination
+of dilatory motions on rule changes) with the rules governing the order
+of business, fashioning a new instrument of legislative procedure, the
+special rule, that could suspend the regular order of business by a sim-
+ple majority vote. In this way, Reed consolidated recent developments
+in Rules Committee power and turned the committee into an instru-
+ment of majority-party government. Reed was adept at elaborating
+rules about rules: he prevented dilatory motions during consideration
+of Rules Committee resolutions and made the suspension of the rules
+possible with a simple majority vote. In sum, Reed showed how rules
+are ambiguous in their meaning and coverage. Indeed, what constituted
+a rule became a matter for debate.
+
+
+12   Today, most of these special orders are called special rules. They stipulate precise
+     conditions for the consideration of bills and amendments and are key instruments of
+     the majority party’s control of the agenda in the House.
+
+[p. 189] [PDF page 207]
+
+Rule Breaking as Rule Making: Reed’s Rules
+and the Disappearing Quorum
+
+Although Reed had successfully neutralized the effects of dilatory
+motions, House minorities retained another formidable method of
+delay, the disappearing quorum. The Constitution requires that a
+majority of members shall constitute a quorum to do business. How-
+ever, the interpretation of this rule has varied over time, partly over
+the question of which denominator was appropriate (seats, elected
+members, living members, etc.), as well as the question of the appro-
+priate numerator to use when calculating a quorum. In Reed’s time,
+House practice held that a quorum was a majority of members voting,
+rather than a majority of members actually present. Because a simple
+refusal to vote could halt the business of the House, the “disappearing
+quorum” became a powerful instrument of minority obstruction.
+    The origin of the disappearing quorum illustrates how rule breaking
+can be a form of rule making, that is, how rules and their associated
+practices shape the operation and evolution of institutions. In 1832,
+former president John Quincy Adams, then a member of the House,
+refused to vote on a motion of censure of a fellow member. This vio-
+lated House rule 28, which required that “every member who shall
+be in the House when the question is put shall give his vote, unless
+the House, for special reasons shall excuse him.”13 As debate ensued,
+the implications of Adams’s not voting became immediately clear. One
+member worried that if “the present example find imitations, the leg-
+islative action of the House might be defeated.”14 Another member
+offered a resolution to discipline Adams and force him to vote, but
+others questioned the practicality of such a move. As a defender of
+Adams noted, there were “innumerable breaches of the rules” during
+the conduct of daily business in the House that went unnoticed or
+unpunished, for example, minor infractions of parliamentary proce-
+dure. More important, it was obvious that the rule requiring a mem-
+ber to vote was unenforceable (Hinds 1907, V 497–499).15 With the
+
+
+13 House Journal, 22nd Congress, 1st Session, p. 594.
+14 United States Congress, Register of Debates, 22nd Congress, 1st Session, p. 3906.
+15 United States Congress, Register of Debates, 22nd Congress, 1st Session, pp. 3906–
+
+   3912.
+
+[p. 190] [PDF page 208]
+
+House powerless in the face of Adams’s reticence, “a new weapon of
+obstruction had been created” (Robinson 1930, 205–206).
+    Over time, the disappearing quorum became such a well-established
+practice in the House that members viewed it as a durable feature of
+the institution – even though refusing to vote remained a violation of
+the written rules.16 In 1850, when a member asked that nonvoting
+members be counted as present, the Speaker declined, stating that only
+a vote could be used for counting a quorum. When asked to compel
+members to vote in accordance with House rules, the Speaker replied
+that “the enforcement of that rule has been considered in previous
+Congresses entirely impracticable. There is no mode provided by which
+that rule can be enforced.”17 The disappearing quorum had become
+such a regular feature of the House that the very idea of permitting
+a Speaker to count nonvoting members as present was revolutionary.
+As Speaker James Blaine put it in 1875, during House consideration
+of the Force Bill (an effort to protect African American voting rights),
+“The moment you clothe your Speaker with power to go behind your
+roll call and assume there is a quorum in the Hall, why, gentlemen, you
+stand on the very brink of a volcano” (quoted in Hinds 1907, IV 70). In
+1889, a Democratic House member praised the disappearing quorum
+as the last bastion of minority rights in the House. Describing how the
+recently elected Republican majority would try to pad its margins in the
+House with contested election cases, Roger Mills (1889, 660) predicted
+that “the great difficulty in the way is the quorum the Constitution
+requires to do business. . . . This rule cannot be changed.”18 However,
+the disappearing quorum was not a rule, but a practice that rested on
+a precedent, and one that would prove vulnerable to reinterpretation.
+    As the 51st Congress opened in 1889, the new Republican majority
+elected Thomas Reed as Speaker. Just as Mills and the Democrats
+expected, Reed and the Republican leadership brought up the
+first of several contested election cases. The Democrats immediately
+
+16 The 1880 revisions combined rules 28 and 31 into rule VIII, which required every
+   member who was present to vote unless excused by a motion (Hinds 1907, V 497).
+   Even this provision, however, became a source of obstruction as this sequence illus-
+   trates: “Mr. Garnett moves to be excused from voting on the motion of Mr. Letcher,
+   to be excused from voting on the motion of Mr. Cobb, to be excused from voting
+   on the motion of Mr. Seward to lay on the table the appeal of Mr. Stanton from the
+   decision of the Chair” (Hinds 1907, IV 72).
+17 United States Congress, Congressional Globe, 31st Congress, 1st Session, p. 380.
+18 Emphasis added.
+
+[p. 191] [PDF page 209]
+
+demanded a roll call, which was in order. Predictably, all but one
+Democrat refused to vote, leaving the House short of a quorum. Rather
+than calling for another vote, as was the normal practice, Reed began
+calling the names of the Democrats who had not voted and instructed
+the House clerk to record them as present. Bedlam ensued as Reed
+continued to call out the names. In an oft-quoted exchange, Ken-
+tucky Democrat James McCreary insisted that Speaker Reed was vio-
+lating parliamentary law, stating, “I deny your right, Mr. Speaker to
+count me as present.” Reed’s response was greeted with laughter and
+applause: “The Chair is making a statement of fact that the gentleman
+from Kentucky is present. Does he deny it?” (quoted in Strahan 2007,
+106).
+   As debate continued over the next several days, Reed pointed to
+other parliamentary bodies, including legislatures in several U.S. states
+and the British House of Commons, where the presiding officer deter-
+mined a quorum by a count of present members. Reed argued further
+that the practice sustaining the disappearing quorum, the count of
+voting members, did not withstand constitutional scrutiny. “There is
+a provision in the Constitution which declares that the House may
+establish rules for compelling the attendance of its Members,” Reed
+pointed out. This provision of the Constitution would be meaning-
+less, Reed argued, if the House could compel members to be present,
+yet not count them as present for the purposes of a quorum if they
+withheld their vote. “Inasmuch as the Constitution provides for their
+attendance only, that attendance is enough. If more was needed the
+Constitution would have provided more” (quoted in Hinds 1907,
+V 2895). Although supporters of the disappearing quorum invoked
+the Constitution in defense of their practice, Reed turned this argu-
+ment on its head. As in the case of dilatory motions, Reed used conflict
+and contradiction between the practices of the House and provisions in
+the U.S. Constitution in his attacks against minority obstruction. Sup-
+ported by the Republican majority, Reed ultimately prevailed. Three
+months later, he secured an expanded revision of House rules that
+codified his procedural achievements: the elimination of the disap-
+pearing quorum and the broad authority to rule dilatory motions out
+of order.19 With the adoption of “Reed’s Rules” in 1890, the House
+
+19   The 1890 revision also removed the clause from rule VIII that allowed a member to
+     introduce a motion to be excused from voting (Hinds 1907, V 497).
+
+[p. 192] [PDF page 210]
+
+embraced a strong form of party government under the leadership of
+a powerful partisan Speaker.
+    The broader political and partisan context was clearly important for
+Reed’s innovations both as a member of the Rules Committee and as
+Speaker of the House. Reed’s novel interpretations of the rules lacked
+force without the backing of a Republican majority in the chamber.
+Similarly, the close partisan balance between the two parties in the
+1880s gave the struggle over the disappearing quorum its significance –
+the effects of nonvoting were diluted by lopsided majorities (Binder
+1997).
+    But Reed did more than simply carry out the will of a unified major-
+ity. One of Reed’s talents was his opportunistic timing; for example,
+he promoted novel rule interpretations during contested election cases
+when partisan unity was at its highest. This was critical, as scholars
+have shown, because the Republicans were divided on many issues in
+the 1880s – Reed’s creativity arguably was more the cause of party
+unity than it was its consequence (Schickler 2001, 38–43). Another
+of Reed’s talents was recognizing that his position as Speaker allowed
+him to orchestrate events in a way that increased his chances of success.
+Reed did not have the authority to change the rules so much as he had
+the authority to decide how such a change would be presented to the
+House.20 Rather than seek majority support for a rule change on its
+merits, a proposition that likely would have failed, Reed first secured
+the backing of his Republican colleagues on a ruling from the Speaker’s
+chair in the midst of a contested election case. In doing so, Reed was
+able to assemble his supporting coalition before he proposed a formal
+change that would codify the new rules. Even then, Reed’s success was
+far from certain; prior to the 1890 quorum battle, Reed made plans to
+resign from the House if his gambit failed (Strahan 2007, 110). A less
+risk-accepting Speaker might have paused where Reed forged ahead.
+    Yet, to focus solely on Reed’s political skills may overlook the role
+of institutional context in rule creativity and innovation. As mentioned
+earlier, the disappearing quorum was sustained by precedent; but, in
+fact, it was a practice that violated the formal rules of the House.
+Although it had become convention for Speakers to recognize its valid-
+ity, the disappearing quorum was never codified in the rules. This left
+it a matter of interpretation. Reed’s position as Speaker afforded him
+
+20   I owe this point to Randall Strahan.
+
+[p. 193] [PDF page 211]
+
+the structural authority to overturn convention and count members
+who were present. The chaos in the House that followed Reed’s move
+possibly reflects the desperation among Democrats, who realized that
+there was little to be done about it. Like the disappearing quorum
+itself, Reed’s action was a form of rule breaking, albeit one that car-
+ried the weight of the Speaker’s ruling and was ultimately codified in
+the written rules.
+    In sum, Reed’s various achievements show how the structural posi-
+tion of actors within institutions influences their opportunities for rule
+creativity. For example, Reed was able to accomplish certain things as
+a member of the Rules Committee by exploiting the structural oppor-
+tunities of the committee to issue privileged reports on proposed rule
+changes and, in the case of special orders, to generate new kinds of
+rules. As Speaker, Reed enjoyed a different set of structural opportu-
+nities, namely, the power to rule on points of order that could break
+with precedent and create new warrants for action. Indeed, one of
+Reed’s skills was his capacity to match the vulnerabilities of particular
+rules with his changing structural position within the House. Like a
+chess master whose “superior play is due to a ‘sense of position,’ an
+intuitive form of knowledge gained from experiencing a great vari-
+ety of chess situations,” Reed demonstrated an impressive talent for
+pattern recognition (Linhares 2005, 134). He perceived correctly how
+various contextual factors opened possibilities or foreclosed others for
+pursuing his innovations.
+    For those who lack a privileged structural position within institu-
+tions, however, opportunities for challenging rules are more limited.
+Even so, rules often remain ambiguous in their meaning and effect. As
+described in the next section, this ambiguity may permit even rank-and-
+file members to creatively interpret rules in a manner that challenges
+authority within the House.
+
+
+Rule Ambiguity as a Challenge to Authority: George Norris
+and the Cannon Revolt
+
+Reed’s Rules were the capstone to a series of developments that gave
+the majority party, through the power of the Speaker, near-absolute
+control over the conduct of business in the House of Representa-
+tives. At the turn of the twentieth century, Speakers “could appoint
+committees – including the chairmen, determine the schedule of
+
+[p. 194] [PDF page 212]
+
+business, recognize members on the floor, appoint members to confer-
+ence committees, [and] dispense favors of various kinds” (Jones 1968,
+619). Speakers also served as chairmen of the Rules Committee, giving
+them control over the form and manner in which all bills reached the
+floor, as well as control over the rules of the House. These and other
+prerogatives gave Speakers a great deal of power over outcomes in the
+chamber (Cooper and Brady 1981, 411–412). The turn-of-the-century
+House “placed the widest array of institutional resources in the hands
+of the speaker of any period in congressional history before or since,
+with the fewest institutional checks or controls” (Strahan 2007, 87). As
+a result, Speakers during this time enjoyed considerable leverage over
+the rank-and-file members of their party; the Speaker’s acquiescence
+or assent was essential if a member wanted to get anything done.
+    Yet it was precisely at the height of this system, under Illinois Repub-
+lican Joseph Cannon, that a revolt by rank-and-file members stripped
+the Speaker of a major source of power, his control over the Rules
+Committee. Beginning in 1907, Cannon’s exercise of his prerogatives
+as Speaker provoked mounting criticism, not only from the minor-
+ity Democrats, but also among western and progressive members of
+his own party, whose views diverged from his on a number of policy
+issues (Hechler 1940, 32–33). These “insurgent” Republicans became
+increasingly frustrated as Cannon denied them meaningful committee
+assignments, removed them from committees, or prevented their leg-
+islative proposals from reaching the floor (Jones 1968, 621–622). The
+insurgents knew that only a change in the rules of the House could
+limit the Speaker’s power. But since proposals to change the rules
+had to be referred to the Rules Committee, which Cannon controlled,
+any attempt to curb the Speaker’s power with a formal rule change
+would be easily quashed (Norris 1945, 111). It is a vivid example of
+the reform dilemma – of how rules can be used to defeat attempts to
+change them. That Cannon eventually lost control of the Rules Com-
+mittee illustrates that even as they erect obstacles and confer power,
+rules can also be used to challenge authority.
+    By the beginning of the 61st Congress, in March 1909, dissatisfac-
+tion with Cannon had reached the point of open rebellion as a coalition
+of Democrats and insurgent Republicans prepared to challenge Can-
+non’s position as Speaker. When the Republican leadership proposed
+a set of rules at the opening of the new Congress, this cross-party
+
+[p. 195] [PDF page 213]
+
+coalition defeated the measure.21 Following the victory, the Demo-
+cratic minority leader offered an alternative package of rules that, if
+passed, would strip Cannon of his control over the Rules Committee.
+Cannon had anticipated such a challenge, and he had negotiated a deal
+with a group of dissident Democrats that would preserve his power
+in exchange for concessions that strengthened protections for commit-
+tees to report bills (Calendar Wednesday) and made it easier to secure
+floor consideration for noncontroversial bills without the Speaker’s
+approval. Led by New York Democrat John Fitzgerald, twenty-two
+members of the minority party joined the regular Republicans to pass
+the compromise and sustain Cannon’s power. Shortly thereafter, Can-
+non appointed Fitzgerald to the Rules Committee (Hechler 1940, 54–
+58). Despite Cannon’s precarious control over a procedural majority in
+the House, the insurgents still lacked a way to overcome the formidable
+powers of the Speaker, especially his control over the Rules Committee.
+   However, a year later, in March 1910, Cannon unwittingly pro-
+vided an opening for his opponents that proved to be his undoing. On
+the morning of March 16, a Cannon ally called up a resolution to con-
+sider a census bill outside the normal order of business. This violated
+the terms of the compromise Cannon had negotiated with Fitzgerald
+the previous year: the time should have been reserved for committee
+business under the new Calendar Wednesday. Democrats protested,
+arguing that the census bill was out of order. Cannon replied that the
+census bill was privileged by its status as a constitutional power of the
+House. “A certain class of business, like election cases . . . or the taking
+of the census as to the population, have invariably been admitted as
+involving constitutional privilege, presenting a privilege higher than
+any rule of the House would give. Therefore the Chair overrules the
+point of order.”22
+   On appeal, forty-two Republicans joined the Democrats and
+together they voted to reverse the Speaker’s decision (Jones 1968, 627).
+Although it was a significant rebuke, Cannon and the regular Repub-
+licans remained steadfast. The following day, the Republicans again
+called up the census bill as a matter of constitutional privilege. The
+
+
+21 Unlike the Senate, the House of Representatives is not a continuing body. At the
+   beginning of each Congress, the House must adopt a measure establishing its rules.
+22 House Journal, 61st Congress, 2nd Session, p. 437.
+
+[p. 196] [PDF page 214]
+
+Democrats again raised a point of order, only this time Cannon put
+the question to the House for a vote rather than issue a ruling from the
+chair: “Is the bill called up . . . in order as a question of constitutional
+privilege?” he asked. 23 Perhaps fearful that an affirmative vote would
+establish a precedent for further incursions on Calendar Wednesday,
+the House voted negatively on Cannon’s question. Then, in a puz-
+zling turn, the House passed a Democratic substitute that read, simply,
+“Is the joint resolution [on the census] . . . in order now?”24 The House
+then proceeded to consider the census resolution.
+   When debate on the census bill concluded, the insurgent Republi-
+can George Norris (Nebraska) rose from his chair. Gaining recognition
+from the Speaker, Norris announced, “Mr. Speaker, I present a reso-
+lution made privileged by the Constitution.” Cannon replied, “If it is
+a resolution made privileged by the Constitution, the gentleman will
+present it.”25 The clerk then read Norris’s resolution, which proposed
+to expand the size of the Rules Committee from five to fifteen mem-
+bers, distribute Rules Committee seats geographically, and, critically,
+exclude the Speaker from Rules Committee membership. The New
+York Times reported that “the moment the reading clerk saw it he
+smiled, for he recognized the fact that the great fight on the rules of
+the House was on.”26 Using the same claim of constitutional privilege
+Cannon had just argued on behalf of the census bill, Norris found a
+way to circumvent the House Committee on Rules and Speaker Can-
+non’s control over the floor in a single stroke. As Norris explained,
+
+We have just decided by a vote of the House [that] a census bill . . . is a priv-
+ileged question, and it is entitled to consideration, notwithstanding that it
+conflicts with the rules of the House. Now . . . the Constitution reads as fol-
+lows: “Each House may determine the rules of its proceedings.” I submit,
+Mr. Speaker, if the action of the House . . . makes a census bill privileged
+because of the Constitution, than any proposition to amend the rules must be
+privileged by virtue of that same instrument.27
+
+   Three days later, the House passed an amended version of the Nor-
+ris resolution that increased the size of the Rules Committee to ten
+
+23 House Journal, 61st Congress, 2nd Session, p. 445.
+24 House Journal, 61st Congress, 2nd Session, p. 445; emphasis added.
+25 Congressional Record, 61st Congress, 2nd Session, p. 3292.
+26 “All-Night Fight to Oust Cannon,” New York Times, March 18, 1910, p. 1.
+27 Congressional Record, 61st Congress, 2nd Session, p. 3292.
+
+[p. 197] [PDF page 215]
+
+members without considering geographic representation. Although
+Cannon retained his position as Speaker, crucially, the Speaker lost
+his seat on the Rules Committee. The 1910 revolt against Cannon
+began a period of decentralization and decline in the power of the
+House leadership that would last for fifty years.
+    The challenge facing the insurgents in 1910 was a straightforward
+but vexing one: how could a proposal to limit the Speaker’s power
+ever come up for a vote if the Speaker controlled the Rules Commit-
+tee, which in turn controlled access to the floor for all proposed rule
+changes? As in the case of Reed’s Rules, the fact that a procedural
+majority preferred a change in the rules was a necessary but not suf-
+ficient condition for the change to occur. Norris, perhaps like Reed,
+displayed an exquisite sense of timing and the patience to wait for
+the right moment. As Norris later recalled, “I had in my pocket a
+resolution to change the rules of the House. Unknown to anyone . . . I
+had carried it for a long time, certain that in the flush of its power
+the Cannon machine would overreach itself. The paper upon which
+I had written my resolution had become so tattered it scarcely hung
+together” (Norris 1945, 113).
+    Beyond this opportunistic timing, Norris exploited the complex fea-
+tures of House rules, especially the ambiguity surrounding their mean-
+ing and their position within a broader constitutional framework. Can-
+non had claimed that the census bill was a privileged matter; he used the
+apparent conflict between the Constitution and the rules of the House
+to circumvent the latter and control the chamber’s agenda. Norris
+demonstrated that such a strategy was not limited to those in a position
+of authority. Instead, he showed how rulings could be put to multiple
+purposes. If the rules of the House could not prevent consideration of
+the census, then the rules of the House could not prevent consideration
+of the rules. This allowed Norris and his allies to move authority over
+the rules out of the hands of Speaker Cannon and the Rules Com-
+mittee and onto the House floor, where the power of a procedural
+majority held sway. The example illustrates how the interpretation of
+rules can have multiple, and in Cannon’s case, unforeseeable effects.28
+
+
+28   Further illustrating the ambiguity and uncertainty of rules and their meaning is the
+     fact that the House actually rejected the proposition that the census bill was privileged
+     by the Constitution. The Democratic resolution passed by the House did not contain
+     any reference to constitutional privilege (it simply stated the census resolution was
+
+[p. 198] [PDF page 216]
+
+It also illustrates how actors can exploit the conflicts among multi-
+ple institutional orders – in this instance, between the evolving rules
+of the House and the overarching framework of the Constitution –
+to promote novel interpretations that challenge authority. The same
+conflict that strengthened Cannon’s control over the agenda provided
+Norris with an opportunity to weaken it.
+
+
+Rethinking Rules: Implications for Understanding Institutions
+
+The vignettes of congressional history described here illustrate how
+rules, in their various forms, can provide considerable scope for actors
+to create, interpret, and elaborate – in short, to act in ways that
+have transformative effects on politics. A central theme of this volume
+is that such creativity is made possible by the complex elements of rules
+themselves. As the rules of an institution multiply, the opportunities
+increase to convert the force and meaning of the rules, to creatively
+combine the rules, to exploit the conflicts and contradictions of the
+rules, or to even break the rules in ways that produce novel practices
+and establish new precedents for action. By rethinking rules, the struc-
+tural features of complex institutions appear to be more than rules
+of the game – they become the game itself. This has implications for
+understanding broad transformations of the American polity – the
+study of American political development – as well as for the study of
+institutions more generally.
+    Through the creative interpretation of rules, actors animate the
+struggles that form the arc of American political development. Rule
+creativity is central to this process. Partly, this is because the overlap-
+ping nature of political authority in the United States creates numerous
+points of contact between institutions, and multiple conflicts among
+the rules governing their operation. Note, for example, the consistent
+appeals to constitutional authority and the conflicts this engendered
+with congressional rules in the preceding vignettes. Reed and Norris
+used the tensions between the Constitution and the rules of the House
+to promote a particular distribution of power within the chamber. In
+other words, overlapping structures of authority generate ambiguities
+
+
+  in order now), yet Norris and the rest of the House operated as if it had. See Jones
+  (1968, 627).
+
+[p. 199] [PDF page 217]
+
+in the scope and meaning of rules, ambiguities that actors can exploit
+in creative and very different ways.
+   Attention to the struggle over rules also provides a way to link
+particular institutional histories with the broader contextual features
+of American politics. Recent critiques have noted the tendency to
+study Congress in isolation from larger political struggles, such as
+those over race and citizenship, or, conversely, to study American
+political development without paying due attention to Congress (King
+and Smith 2005; Katznelson and Lapinski 2006). Paying attention to
+both the creative and constraining elements of rules may help address
+these concerns. For instance, one cannot fully understand the tactics
+of minority obstruction or the efforts to overcome them apart from
+the nineteenth-century conflicts over slavery and civil rights. At the
+same time, the coherence of partisan majorities under Reed in the late
+nineteenth century or their fragmentation under Cannon in the twen-
+tieth reflect broader changes taking place in American politics (Brady
+and Epstein 1997). But these contextual factors are not sufficient to
+produce institutional change. They also require a steady probing for
+political advantage by actors working through the rules in order to
+overcome the formidable constraints the rules themselves impose on
+change.
+   More generally, the creativity evident in the nineteenth-century
+House of Representatives has implications for the study of institu-
+tions and politics beyond the United States. The U.S. House provides
+a particularly useful window because of the rich historical detail avail-
+able about its rules and their use, but as the other essays in this volume
+document, these patterns can be observed in many different institu-
+tional contexts. Consequently, we can see how rules are a dynamic
+rather than a static feature of institutions. Rules enable individuals
+to develop innovations in practice and establish precedents for action
+that guide future behavior through convention or, when codified, as
+new rules of procedure. “Snapshot” approaches to the study of insti-
+tutions will miss this feature of rules (Pierson 2004). Such approaches
+will conclude, mistakenly, that rules faithfully reflect a set of collective
+interests, or that the rules as written are faithful guides for institutional
+practice.29 As the example of dilatory motions shows, rules designed
+
+29   For an exploration of this phenomenon in the Senate, see Binder (2007).
+
+[p. 200] [PDF page 218]
+
+for one purpose can be converted to quite another. Similarly in the case
+of the disappearing quorum, conventions may emerge from the break-
+ing of rules that over time become durable features of the institution
+to the detriment of its functioning and performance.
+    Rules, as these examples illustrate, are about power and author-
+ity. More precisely, they are about the power and authority to make
+or break the rules. During the nineteenth century, the position of the
+Speaker became a source of authoritative decisions about the rules of
+the House. Similarly, the power of the Rules Committee grew as a
+source of rule creation, especially through special orders or rules that
+governed the consideration of bills. Yet, as the Cannon revolt attests,
+complex rules also create opportunities to challenge authority. It may
+seem contradictory that increasingly complex rules generate and accen-
+tuate hierarchies within institutions at the same time that they open
+possibilities for challenging them. It also may seem counterintuitive
+that increasing rule complexity gives rise to more opportunities for
+creativity. The multiplication of rules would seem to provide less free-
+dom of action, not more. One answer to this puzzle has to do with the
+nature of complexity itself. As already noted, complexity multiplies
+the opportunities to combine rules in myriad ways, exploit their con-
+flicts and contradictions, convert rules to new purposes, or even break
+rules without undermining the entire institutional edifice built upon
+them.
+    However, there is another answer to this puzzle to consider if we
+are to broaden the implications of this study beyond Congress. Rules
+generate inequalities, not only because rules govern the distribution of
+resources but also because the capacity to negotiate complex rules is
+itself a valuable resource. In other words, rule complexity does provide
+greater freedom of action – for some. Those who possess authority over
+rules, have particular skills in using rules, or have the resources to hire
+someone who has those skills and employ rules advantageously. Cor-
+porations, for example, can monitor all of the various rules potentially
+touching on their interests, and they can hire individuals whose expe-
+rience and contacts enable them to negotiate the variety of legislative,
+administrative, and judicial procedures that make the rules. For many
+others, rules impose constraints. This certainly describes the United
+States, where gaping inequalities are so pronounced and the rules are
+so complex. It is considerably easier for the affluent to “work” the
+
+[p. 201] [PDF page 219]
+
+rules, for example, when navigating the minutia of their health plan,
+hiring an accountant to do their taxes, or finding a well-trained lawyer
+to get them out of jail. It is not surprising that those lacking resources,
+especially the poor, are at a considerable disadvantage when dealing
+with the health care or criminal justice systems. For these Americans,
+rules provide very little freedom.
+
+
+References
+Aldrich, John H., and David W. Rohde. 2000. “The Consequences of Party
+  Organization in the House: The Roles of the Majority and Minority Parties
+  in Conditional Party Government.” In Polarized Politics: Congress and the
+  President in a Partisan Era, ed. John R. Bond and Richard Fleisher, ch. 3.
+  Washington, DC: CQ Press.
+Alexander, De Alva Stanwood. 1970 [1916]. History and Procedure of the
+  House of Representatives. New York: Burt Franklin.
+Binder, Sarah. 1997. Minority Rights, Majority Rule: Partisanship and the
+  Development of Congress. Cambridge: Cambridge University Press.
+Binder, Sarah. 2007. “Where Do Institutions Come From? Exploring the Ori-
+  gins of the Senate Blue Slip.” Studies in American Political Development 21
+  (March): 1–15.
+Brady, David, and David Epstein. 1997. “Intraparty Preferences, Heterogene-
+  ity, and the Origins of the Modern Congress: Progressive Reformers in the
+  House and Senate, 1890–1920.” Journal of Law, Economics, and Organi-
+  zation 13 (April): 26–49.
+Clemens, Elisabeth S., and James M. Cook. 1999. “Politics and Institution-
+  alism: Explaining Durability and Change.” Annual Review of Sociology
+  25:441–466.
+Cooper, Joseph. 1988 [1960]. Congress and Its Committees. New York:
+  Garland.
+Cooper, Joseph, and David Brady. 1981. “Institutional Context and Leader-
+  ship Style: The House from Cannon to Rayburn.” American Political Science
+  Review 75 (June): 411–425.
+Cooper, Joseph, and Cheryl D. Young. 1989. “Bill Introduction in the Nine-
+  teenth Century: A Study of Institutional Change.” Legislative Studies Quar-
+  terly 14 (February): 67–105.
+Dahl, Robert. 1961. Who Governs? Democracy and Power in an American
+  City. New Haven: Yale University Press.
+Greenstone, J. David. 1986. “Political Culture and American Political Devel-
+  opment: Liberty, Union, and the Liberal Bipolarity.” Studies in American
+  Political Development 1:1–49.
+Hechler, Kenneth W. 1940. Insurgency: Personalities and Politics of the Taft
+  Era. New York: Columbia University Press.
+
+[p. 202] [PDF page 220]
+
+Herrigel, Gary. 2007. “Roles and Rules: Ambiguity, Experimentation and
+  New Forms of Stakeholderism in Germany.” Paper presented at the 2007
+  Annual Meeting of the American Political Science Association, Chicago.
+Hinds, Asher C. 1907. Hinds’ Precedents of the House of Representatives
+  of the United States. Vols. 1–5. Washington, DC: Government Printing
+  Office.
+Jones, Charles O. 1968. “Joseph G. Cannon and Howard W. Smith: An Essay
+  on the Limits of Leadership in the House of Representatives.” Journal of
+  Politics 30 (August): 617–646.
+Katznelson, Ira, and John S. Lapinksi. 2006. “At the Crossroads: Congress
+  and American Political Development.” Perspectives on Politics 4 (June):
+  243–260.
+King, David C. 1997. Turf Wars: How Congressional Committees Claim Juris-
+  diction. Chicago: University of Chicago Press.
+King, Desmond S., and Rogers M. Smith. 2005. “Racial Orders in American
+  Political Development.” American Political Science Review 99 (February):
+  75–92.
+Lantz, Frank, and Eric Zimmerman. 1999. “Rules, Play and Culture: Towards
+  an Aesthetic of Games. ”Available at http://www.ericzimmerman.com/texts/
+  RulesPlayCulture.htm.
+Linhares, Alexandre. 2005. “An Active Symbols Theory of Chess Intuition.”
+  Minds and Machines 15 (May): 131–181.
+Mills, Roger Q. 1889. “Republican Tactics in the House.” North American
+  Review 149 (December): 665–672.
+Norris, George W. 1945. Fighting Liberal: The Autobiography of George W.
+  Norris. New York: MacMillan Company.
+Padgett, John F., and Christopher K. Ansell. 1993. “Robust Action and the
+  Rise of the Medici, 1400–1434.” American Journal of Sociology 98 (May):
+  1259–1319.
+Pierson, Paul. 2004. Politics in Time: History, Institutions, and Social Analysis.
+  Princeton: Princeton University Press.
+Polsby, Nelson W. 1968. “The Institutionalization of the U.S. House of Rep-
+  resentatives.” American Political Science Review 63 (March): 787–807.
+Powell, Walter W., and Jeannette A. Colyvas. 2008. “Microfoundations of
+  Institutional Theory.” In The Sage Handbook of Organizational Institution-
+  alism, ed. Kerstin Sahlin-Andersson, Roysten Greenwood, Christine Oliver,
+  and Roy Suddaby, ch. 10. London: Sage Publications.
+Roberts, Jason M., and Steven S. Smith. 2007. “The Evolution of Agenda-
+  Setting Institutions in Congress: Path Dependency in House and Senate
+  Institutional Development.” In Process, Party, and Policy Making: Further
+  New Perspectives on the History of Congress, ed. David Brady and Matthew
+  McCubbins, ch. 13. Palo Alto, CA: Sanford University Press.
+Robinson, William A. 1930. Thomas B. Reed, Parliamentarian. New York:
+  Dodd, Mead & Company.
+
+[p. 203] [PDF page 221]
+
+Schickler, Eric. 2001. Disjointed Pluralism: Institutional Innovation and the
+  Development of the U.S. Congress. Princeton: Princeton University Press.
+Sinclair, Barbara. 1999. “Transformational Leader or Faithful Agent?
+  Principal-Agent Theory and House Majority Party Leadership.” Legislative
+  Studies Quarterly 24 (August): 421–449.
+Strahan, Randall. 2007. Leading Representatives: The Agency of Leaders in
+  the Politics of the U.S. House. Baltimore: Johns Hopkins University Press.
+Streeck, Wolfgang, and Kathleen Thelen. 2005. “Introduction: Institutional
+  Change in Advanced Political Economies.” In Beyond Continuity: Institu-
+  tional Change in Advanced Political Economies, ed. Wolfgang Streeck and
+  Kathleen Thelen, ch. 1. Oxford: Oxford University Press.
+Thelen, Kathleen. 2004. How Institutions Evolve: The Political Economy
+  of Skills in Germany, Britain, the United States, and Japan. New York:
+  Cambridge University Press.
+Tsai, Kellee S. 2006. “Adaptive Informal Institutions and Endogenous Institu-
+  tional Change in China.” World Politics. 59 (October): 116–141.
+United States Congress, House Committee on Rules. 1983. A History of the
+  Committee on Rules: 1st to 97th Congress, 1789–1981. Washington, DC:
+  Government Printing Office.

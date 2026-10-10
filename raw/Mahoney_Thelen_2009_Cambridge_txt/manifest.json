@@ -1,0 +1,904 @@
+{
+  "source": "raw/Explaining institutional change _ ambiguity, agency, and -- James Mahoney, Kathleen Thelen, Kathleen Ann Thelen -- 1, 2009 -- Cambridge University -- isbn13 9780511655739 -- 56cc9aed390b1e997a18dbf812235933 -- Anna’s Archive.pdf",
+  "source_sha256": "85cabe1efe2b45544a089dcc85a358699d19ee12f2944a5cdfd1362178991ad9",
+  "book_title": "Explaining Institutional Change: Ambiguity, Agency, and Power",
+  "editors": [
+    "James Mahoney",
+    "Kathleen Thelen"
+  ],
+  "year": 2009,
+  "copyright_year": 2010,
+  "publication_note": "Copyright page states First published in print format 2009 and © Cambridge University Press 2010. The vault year follows the explicit first-print publication statement.",
+  "publisher": "Cambridge University Press",
+  "publication_place": "Cambridge",
+  "isbn": "9780511658440",
+  "filename_isbn": "9780511655739",
+  "isbn_note": "ISBN in the source copyright page is 978-0-511-65844-0 (eBook NetLibrary); filename ISBN is recorded separately.",
+  "encoding": "UTF-8",
+  "source_pdf_pages": 254,
+  "extraction": "Poppler pdftotext -layout from the original digital text layer; common ligatures expanded, recognized running headers and footer page numbers removed; no semantic rewriting.",
+  "page_mapping": "Arabic print page N corresponds to one-based PDF page N+18.",
+  "excluded_materials": [
+    "Cover and duplicate half-title/title pages",
+    "Blank pages",
+    "Contents and separate list of illustrations",
+    "Index (print pp. 225–236)"
+  ],
+  "entries": [
+    {
+      "chapter": 1,
+      "title": "A Theory of Gradual Institutional Change",
+      "authors": [
+        "James Mahoney",
+        "Kathleen Thelen"
+      ],
+      "chinese_navigation_label": "渐进制度变迁理论",
+      "print_pages": [
+        1,
+        37
+      ],
+      "pdf_pages": [
+        19,
+        55
+      ],
+      "references_print_pages": [
+        32,
+        37
+      ],
+      "txt": "Ch01_Mahoney_Thelen_Gradual_Institutional_Change.txt",
+      "book_supplements": [
+        {
+          "material": "Preface",
+          "print_pages": [
+            "xi",
+            "xiii"
+          ],
+          "pdf_pages": [
+            13,
+            15
+          ]
+        },
+        {
+          "material": "Contributors",
+          "print_pages": [
+            "vii",
+            "ix"
+          ],
+          "pdf_pages": [
+            9,
+            11
+          ]
+        }
+      ],
+      "removed_running_headers": {
+        "1": [
+          "                                                                                       1"
+        ],
+        "2": [
+          "2                                  James Mahoney and Kathleen Thelen"
+        ],
+        "3": [
+          "A Theory of Gradual Institutional Change                               3"
+        ],
+        "4": [
+          "4                                 James Mahoney and Kathleen Thelen"
+        ],
+        "5": [
+          "A Theory of Gradual Institutional Change                               5"
+        ],
+        "6": [
+          "6                                  James Mahoney and Kathleen Thelen"
+        ],
+        "7": [
+          "A Theory of Gradual Institutional Change                                    7"
+        ],
+        "8": [
+          "8                                James Mahoney and Kathleen Thelen"
+        ],
+        "9": [
+          "A Theory of Gradual Institutional Change                                   9"
+        ],
+        "10": [
+          "10                                         James Mahoney and Kathleen Thelen"
+        ],
+        "11": [
+          "A Theory of Gradual Institutional Change                                            11"
+        ],
+        "12": [
+          "12                                James Mahoney and Kathleen Thelen"
+        ],
+        "13": [
+          "A Theory of Gradual Institutional Change                              13"
+        ],
+        "14": [
+          "14                                James Mahoney and Kathleen Thelen"
+        ],
+        "15": [
+          "A Theory of Gradual Institutional Change                                    15"
+        ],
+        "16": [
+          "16                                 James Mahoney and Kathleen Thelen"
+        ],
+        "17": [
+          "A Theory of Gradual Institutional Change                                17"
+        ],
+        "18": [
+          "18                                James Mahoney and Kathleen Thelen"
+        ],
+        "19": [
+          "A Theory of Gradual Institutional Change                                         19"
+        ],
+        "20": [
+          "20                                        James Mahoney and Kathleen Thelen"
+        ],
+        "21": [
+          "A Theory of Gradual Institutional Change                                          21"
+        ],
+        "22": [
+          "22                                      James Mahoney and Kathleen Thelen"
+        ],
+        "23": [
+          "A Theory of Gradual Institutional Change                                              23"
+        ],
+        "24": [
+          "24                                       James Mahoney and Kathleen Thelen"
+        ],
+        "25": [
+          "A Theory of Gradual Institutional Change                                                25"
+        ],
+        "26": [
+          "26                               James Mahoney and Kathleen Thelen"
+        ],
+        "27": [
+          "A Theory of Gradual Institutional Change                                                 27"
+        ],
+        "28": [
+          "28                                   James Mahoney and Kathleen Thelen"
+        ],
+        "29": [
+          "A Theory of Gradual Institutional Change                               29"
+        ],
+        "30": [
+          "30                               James Mahoney and Kathleen Thelen"
+        ],
+        "31": [
+          "A Theory of Gradual Institutional Change                                 31"
+        ],
+        "32": [
+          "32                                 James Mahoney and Kathleen Thelen"
+        ],
+        "33": [
+          "A Theory of Gradual Institutional Change                                    33"
+        ],
+        "34": [
+          "34                                   James Mahoney and Kathleen Thelen"
+        ],
+        "35": [
+          "A Theory of Gradual Institutional Change                                    35"
+        ],
+        "36": [
+          "36                                    James Mahoney and Kathleen Thelen"
+        ],
+        "37": [
+          "A Theory of Gradual Institutional Change                                   37"
+        ]
+      },
+      "characters": 105009,
+      "sha256": "3d8ada9e84201e2d4be8b4de1e6520d4736a439dbf1b1ec7737dad6db3a16615"
+    },
+    {
+      "chapter": 2,
+      "title": "Infiltrating the State: The Evolution of Health Care Reforms in Brazil, 1964–1988",
+      "authors": [
+        "Tulia G. Falleti"
+      ],
+      "chinese_navigation_label": "渗入国家，巴西卫生保健改革的演变",
+      "print_pages": [
+        38,
+        62
+      ],
+      "pdf_pages": [
+        56,
+        80
+      ],
+      "references_print_pages": [
+        59,
+        62
+      ],
+      "txt": "Ch02_Falleti_Health_Care_Reforms_in_Brazil.txt",
+      "book_supplements": [],
+      "removed_running_headers": {
+        "38": [
+          "38"
+        ],
+        "39": [
+          "The Evolution of Health Care Reforms in Brazil, 1964–1988              39"
+        ],
+        "40": [
+          "40                                                      Tulia G. Falleti"
+        ],
+        "41": [
+          "The Evolution of Health Care Reforms in Brazil, 1964–1988                             41"
+        ],
+        "42": [
+          "42                                                                     Tulia G. Falleti"
+        ],
+        "43": [
+          "The Evolution of Health Care Reforms in Brazil, 1964–1988             43"
+        ],
+        "44": [
+          "44                                                                    Tulia G. Falleti"
+        ],
+        "45": [
+          "The Evolution of Health Care Reforms in Brazil, 1964–1988                          45"
+        ],
+        "46": [
+          "46                                                      Tulia G. Falleti"
+        ],
+        "47": [
+          "The Evolution of Health Care Reforms in Brazil, 1964–1988                                47"
+        ],
+        "48": [
+          "48                                                                    Tulia G. Falleti"
+        ],
+        "49": [
+          "The Evolution of Health Care Reforms in Brazil, 1964–1988                        49"
+        ],
+        "50": [
+          "50                                                                    Tulia G. Falleti"
+        ],
+        "51": [
+          "The Evolution of Health Care Reforms in Brazil, 1964–1988                           51"
+        ],
+        "52": [
+          "52                                                               Tulia G. Falleti"
+        ],
+        "53": [
+          "The Evolution of Health Care Reforms in Brazil, 1964–1988             53"
+        ],
+        "54": [
+          "54                                                                Tulia G. Falleti"
+        ],
+        "55": [
+          "The Evolution of Health Care Reforms in Brazil, 1964–1988                             55"
+        ],
+        "56": [
+          "56                                                      Tulia G. Falleti"
+        ],
+        "57": [
+          "The Evolution of Health Care Reforms in Brazil, 1964–1988                 57"
+        ],
+        "58": [
+          "58                                                                  Tulia G. Falleti"
+        ],
+        "59": [
+          "The Evolution of Health Care Reforms in Brazil, 1964–1988                      59"
+        ],
+        "60": [
+          "60                                                             Tulia G. Falleti"
+        ],
+        "61": [
+          "The Evolution of Health Care Reforms in Brazil, 1964–1988                     61"
+        ],
+        "62": [
+          "62                                                             Tulia G. Falleti"
+        ]
+      },
+      "characters": 66294,
+      "sha256": "709031dc6c51b3f6d750bb255e8a0538151201e1f5ef9b0985cd641c9213df8b"
+    },
+    {
+      "chapter": 3,
+      "title": "The Contradictory Potential of Institutions: The Rise and Decline of Land Documentation in Kenya",
+      "authors": [
+        "Ato Kwamena Onoma"
+      ],
+      "chinese_navigation_label": "制度的矛盾潜能，肯尼亚土地文书制度的兴衰",
+      "print_pages": [
+        63,
+        93
+      ],
+      "pdf_pages": [
+        81,
+        111
+      ],
+      "references_print_pages": [
+        90,
+        93
+      ],
+      "txt": "Ch03_Onoma_Land_Documentation_in_Kenya.txt",
+      "book_supplements": [],
+      "removed_running_headers": {
+        "63": [
+          "                                                                                   63"
+        ],
+        "64": [
+          "64                                                           Ato Kwamena Onoma"
+        ],
+        "65": [
+          "The Rise and Decline of Land Documentation in Kenya                     65"
+        ],
+        "66": [
+          "66                                                         Ato Kwamena Onoma"
+        ],
+        "67": [
+          "The Rise and Decline of Land Documentation in Kenya                     67"
+        ],
+        "68": [
+          "68                                                        Ato Kwamena Onoma"
+        ],
+        "69": [
+          "The Rise and Decline of Land Documentation in Kenya                                  69"
+        ],
+        "70": [
+          "70                                               Ato Kwamena Onoma"
+        ],
+        "71": [
+          "The Rise and Decline of Land Documentation in Kenya                                  71"
+        ],
+        "72": [
+          "72                                                        Ato Kwamena Onoma"
+        ],
+        "73": [
+          "The Rise and Decline of Land Documentation in Kenya                                   73"
+        ],
+        "74": [
+          "74                                                         Ato Kwamena Onoma"
+        ],
+        "75": [
+          "The Rise and Decline of Land Documentation in Kenya                                   75"
+        ],
+        "76": [
+          "76                                                         Ato Kwamena Onoma"
+        ],
+        "77": [
+          "The Rise and Decline of Land Documentation in Kenya                              77"
+        ],
+        "78": [
+          "78                                              Ato Kwamena Onoma"
+        ],
+        "79": [
+          "The Rise and Decline of Land Documentation in Kenya                            79"
+        ],
+        "80": [
+          "80                                                      Ato Kwamena Onoma"
+        ],
+        "81": [
+          "The Rise and Decline of Land Documentation in Kenya                            81"
+        ],
+        "82": [
+          "82                                                     Ato Kwamena Onoma"
+        ],
+        "83": [
+          "The Rise and Decline of Land Documentation in Kenya                             83"
+        ],
+        "84": [
+          "84                                                     Ato Kwamena Onoma"
+        ],
+        "85": [
+          "The Rise and Decline of Land Documentation in Kenya                                 85"
+        ],
+        "86": [
+          "86                                                        Ato Kwamena Onoma"
+        ],
+        "87": [
+          "The Rise and Decline of Land Documentation in Kenya                                   87"
+        ],
+        "88": [
+          "88                                                   Ato Kwamena Onoma"
+        ],
+        "89": [
+          "The Rise and Decline of Land Documentation in Kenya                    89"
+        ],
+        "90": [
+          "90                                                 Ato Kwamena Onoma"
+        ],
+        "91": [
+          "The Rise and Decline of Land Documentation in Kenya                        91"
+        ],
+        "92": [
+          "92                                                    Ato Kwamena Onoma"
+        ],
+        "93": [
+          "The Rise and Decline of Land Documentation in Kenya                     93"
+        ]
+      },
+      "characters": 78240,
+      "sha256": "0fdf4f28ffbdffc676c27d52cb2eb29007ee6bf1bb803fcb7a7fe855cb4427c9"
+    },
+    {
+      "chapter": 4,
+      "title": "Policymaking as Political Constraint: Institutional Development in the U.S. Social Security Program",
+      "authors": [
+        "Alan M. Jacobs"
+      ],
+      "chinese_navigation_label": "政策制定作为政治约束，美国社会保障制度的发展",
+      "print_pages": [
+        94,
+        131
+      ],
+      "pdf_pages": [
+        112,
+        149
+      ],
+      "references_print_pages": [
+        128,
+        131
+      ],
+      "txt": "Ch04_Jacobs_US_Social_Security.txt",
+      "book_supplements": [],
+      "removed_running_headers": {
+        "94": [
+          "94"
+        ],
+        "95": [
+          "Institutional Development in the U.S. Social Security Program          95"
+        ],
+        "96": [
+          "96                                                        Alan M. Jacobs"
+        ],
+        "97": [
+          "Institutional Development in the U.S. Social Security Program          97"
+        ],
+        "98": [
+          "98                                                      Alan M. Jacobs"
+        ],
+        "99": [
+          "Institutional Development in the U.S. Social Security Program            99"
+        ],
+        "100": [
+          "100                                                        Alan M. Jacobs"
+        ],
+        "101": [
+          "Institutional Development in the U.S. Social Security Program                     101"
+        ],
+        "102": [
+          "102                                                        Alan M. Jacobs"
+        ],
+        "103": [
+          "Institutional Development in the U.S. Social Security Program          103"
+        ],
+        "104": [
+          "104                                                      Alan M. Jacobs"
+        ],
+        "105": [
+          "Institutional Development in the U.S. Social Security Program                           105"
+        ],
+        "106": [
+          "106                                                      Alan M. Jacobs"
+        ],
+        "107": [
+          "    Institutional Development in the U.S. Social Security Program           107"
+        ],
+        "108": [
+          "108                                                                Alan M. Jacobs"
+        ],
+        "109": [
+          "Institutional Development in the U.S. Social Security Program                          109"
+        ],
+        "110": [
+          "110                                                                Alan M. Jacobs"
+        ],
+        "111": [
+          "Institutional Development in the U.S. Social Security Program                        111"
+        ],
+        "112": [
+          "112                                                               Alan M. Jacobs"
+        ],
+        "113": [
+          "Institutional Development in the U.S. Social Security Program        113"
+        ],
+        "114": [
+          "114                                                        Alan M. Jacobs"
+        ],
+        "115": [
+          "Institutional Development in the U.S. Social Security Program        115"
+        ],
+        "116": [
+          "116                                                        Alan M. Jacobs"
+        ],
+        "117": [
+          "Institutional Development in the U.S. Social Security Program                           117"
+        ],
+        "118": [
+          "118                                                                Alan M. Jacobs"
+        ],
+        "119": [
+          "Institutional Development in the U.S. Social Security Program                        119"
+        ],
+        "120": [
+          "120                                                               Alan M. Jacobs"
+        ],
+        "121": [
+          "Institutional Development in the U.S. Social Security Program        121"
+        ],
+        "122": [
+          "122                                                        Alan M. Jacobs"
+        ],
+        "123": [
+          "Institutional Development in the U.S. Social Security Program                    123"
+        ],
+        "124": [
+          "124                                                       Alan M. Jacobs"
+        ],
+        "125": [
+          "Institutional Development in the U.S. Social Security Program        125"
+        ],
+        "126": [
+          "126                                                       Alan M. Jacobs"
+        ],
+        "127": [
+          "Institutional Development in the U.S. Social Security Program        127"
+        ],
+        "128": [
+          "128                                                       Alan M. Jacobs"
+        ],
+        "129": [
+          "Institutional Development in the U.S. Social Security Program           129"
+        ],
+        "130": [
+          "130                                                            Alan M. Jacobs"
+        ],
+        "131": [
+          "Institutional Development in the U.S. Social Security Program           131"
+        ]
+      },
+      "characters": 99251,
+      "sha256": "8fa7c3421b55673e78d3cabde694052ac2aca93d81ea06c21ba5f82d916e8264"
+    },
+    {
+      "chapter": 5,
+      "title": "Altering Authoritarianism: Institutional Complexity and Autocratic Agency in Indonesia",
+      "authors": [
+        "Dan Slater"
+      ],
+      "chinese_navigation_label": "改变威权主义，印度尼西亚的制度复杂性与专制行动者",
+      "print_pages": [
+        132,
+        167
+      ],
+      "pdf_pages": [
+        150,
+        185
+      ],
+      "references_print_pages": [
+        165,
+        167
+      ],
+      "txt": "Ch05_Slater_Authoritarianism_in_Indonesia.txt",
+      "book_supplements": [],
+      "removed_running_headers": {
+        "132": [
+          "132"
+        ],
+        "133": [
+          "Institutional Complexity and Autocratic Agency in Indonesia                        133"
+        ],
+        "134": [
+          "134                                                                          Dan Slater"
+        ],
+        "135": [
+          "Institutional Complexity and Autocratic Agency in Indonesia                          135"
+        ],
+        "136": [
+          "136                                                                        Dan Slater"
+        ],
+        "137": [
+          "Institutional Complexity and Autocratic Agency in Indonesia                           137"
+        ],
+        "138": [
+          "138                                                          Dan Slater"
+        ],
+        "139": [
+          "Institutional Complexity and Autocratic Agency in Indonesia                           139"
+        ],
+        "140": [
+          "140                                                                         Dan Slater"
+        ],
+        "141": [
+          "Institutional Complexity and Autocratic Agency in Indonesia          141"
+        ],
+        "142": [
+          "142                                                                      Dan Slater"
+        ],
+        "143": [
+          "Institutional Complexity and Autocratic Agency in Indonesia          143"
+        ],
+        "144": [
+          "144                                                                        Dan Slater"
+        ],
+        "145": [
+          "Institutional Complexity and Autocratic Agency in Indonesia           145"
+        ],
+        "146": [
+          "146                                                                         Dan Slater"
+        ],
+        "147": [
+          "Institutional Complexity and Autocratic Agency in Indonesia           147"
+        ],
+        "148": [
+          "148                                                                    Dan Slater"
+        ],
+        "149": [
+          "Institutional Complexity and Autocratic Agency in Indonesia              149"
+        ],
+        "150": [
+          "150                                                                      Dan Slater"
+        ],
+        "151": [
+          "Institutional Complexity and Autocratic Agency in Indonesia               151"
+        ],
+        "152": [
+          "152                                                         Dan Slater"
+        ],
+        "153": [
+          "Institutional Complexity and Autocratic Agency in Indonesia                    153"
+        ],
+        "154": [
+          "154                                                                Dan Slater"
+        ],
+        "155": [
+          "Institutional Complexity and Autocratic Agency in Indonesia         155"
+        ],
+        "156": [
+          "156                                                         Dan Slater"
+        ],
+        "157": [
+          "Institutional Complexity and Autocratic Agency in Indonesia          157"
+        ],
+        "158": [
+          "158                                                                    Dan Slater"
+        ],
+        "159": [
+          "Institutional Complexity and Autocratic Agency in Indonesia               159"
+        ],
+        "160": [
+          "160                                                              Dan Slater"
+        ],
+        "161": [
+          "Institutional Complexity and Autocratic Agency in Indonesia                           161"
+        ],
+        "162": [
+          "162                                                                        Dan Slater"
+        ],
+        "163": [
+          "Institutional Complexity and Autocratic Agency in Indonesia                     163"
+        ],
+        "164": [
+          "164                                                                    Dan Slater"
+        ],
+        "165": [
+          "Institutional Complexity and Autocratic Agency in Indonesia            165"
+        ],
+        "166": [
+          "166                                                               Dan Slater"
+        ],
+        "167": [
+          "Institutional Complexity and Autocratic Agency in Indonesia              167"
+        ]
+      },
+      "characters": 90087,
+      "sha256": "14c744fc05204b6b44636df9e7e0179118bf5dd9ef88e1fdafa169df1884ba6e"
+    },
+    {
+      "chapter": 6,
+      "title": "Rethinking Rules: Creativity and Constraint in the U.S. House of Representatives",
+      "authors": [
+        "Adam Sheingate"
+      ],
+      "chinese_navigation_label": "重新思考规则，美国众议院中的创造性与约束",
+      "print_pages": [
+        168,
+        203
+      ],
+      "pdf_pages": [
+        186,
+        221
+      ],
+      "references_print_pages": [
+        201,
+        203
+      ],
+      "txt": "Ch06_Sheingate_Rules_in_US_House.txt",
+      "book_supplements": [],
+      "removed_running_headers": {
+        "168": [
+          "168"
+        ],
+        "169": [
+          "Creativity and Constraint in the U.S. House of Representatives            169"
+        ],
+        "170": [
+          "170                                                    Adam Sheingate"
+        ],
+        "171": [
+          "Creativity and Constraint in the U.S. House of Representatives         171"
+        ],
+        "172": [
+          "172                                                       Adam Sheingate"
+        ],
+        "173": [
+          "Creativity and Constraint in the U.S. House of Representatives                173"
+        ],
+        "174": [
+          "174                                                    Adam Sheingate"
+        ],
+        "175": [
+          "Creativity and Constraint in the U.S. House of Representatives              175"
+        ],
+        "176": [
+          "176                                                          Adam Sheingate"
+        ],
+        "177": [
+          "Creativity and Constraint in the U.S. House of Representatives                   177"
+        ],
+        "178": [
+          "178                                                      Adam Sheingate"
+        ],
+        "179": [
+          "Creativity and Constraint in the U.S. House of Representatives   179"
+        ],
+        "180": [
+          "180                                                     Adam Sheingate"
+        ],
+        "181": [
+          "Creativity and Constraint in the U.S. House of Representatives        181"
+        ],
+        "182": [
+          "182                                                    Adam Sheingate"
+        ],
+        "183": [
+          "Creativity and Constraint in the U.S. House of Representatives                183"
+        ],
+        "184": [
+          "184                                                           Adam Sheingate"
+        ],
+        "185": [
+          "Creativity and Constraint in the U.S. House of Representatives         185"
+        ],
+        "186": [
+          "186                                                             Adam Sheingate"
+        ],
+        "187": [
+          "Creativity and Constraint in the U.S. House of Representatives        187"
+        ],
+        "188": [
+          "188                                                                 Adam Sheingate"
+        ],
+        "189": [
+          "Creativity and Constraint in the U.S. House of Representatives                  189"
+        ],
+        "190": [
+          "190                                                               Adam Sheingate"
+        ],
+        "191": [
+          "Creativity and Constraint in the U.S. House of Representatives                   191"
+        ],
+        "192": [
+          "192                                                    Adam Sheingate"
+        ],
+        "193": [
+          "Creativity and Constraint in the U.S. House of Representatives       193"
+        ],
+        "194": [
+          "194                                                       Adam Sheingate"
+        ],
+        "195": [
+          "Creativity and Constraint in the U.S. House of Representatives                  195"
+        ],
+        "196": [
+          "196                                                           Adam Sheingate"
+        ],
+        "197": [
+          "Creativity and Constraint in the U.S. House of Representatives                          197"
+        ],
+        "198": [
+          "198                                                              Adam Sheingate"
+        ],
+        "199": [
+          "Creativity and Constraint in the U.S. House of Representatives                 199"
+        ],
+        "200": [
+          "200                                                      Adam Sheingate"
+        ],
+        "201": [
+          "Creativity and Constraint in the U.S. House of Representatives          201"
+        ],
+        "202": [
+          "202                                                           Adam Sheingate"
+        ],
+        "203": [
+          "Creativity and Constraint in the U.S. House of Representatives          203"
+        ]
+      },
+      "characters": 85152,
+      "sha256": "8fb4caecd18f80981ef6a422ecdbcaa86898f6ecf176551de34f134ece98730b"
+    },
+    {
+      "chapter": 7,
+      "title": "Historical Institutionalism in Rationalist and Sociological Perspective",
+      "authors": [
+        "Peter A. Hall"
+      ],
+      "chinese_navigation_label": "理性主义与社会学视角下的历史制度主义",
+      "print_pages": [
+        204,
+        223
+      ],
+      "pdf_pages": [
+        222,
+        241
+      ],
+      "references_print_pages": [
+        220,
+        223
+      ],
+      "txt": "Ch07_Hall_Historical_Institutionalism.txt",
+      "book_supplements": [],
+      "removed_running_headers": {
+        "204": [
+          "204"
+        ],
+        "205": [
+          "Historical Institutionalism                                                          205"
+        ],
+        "206": [
+          "206                                                           Peter A. Hall"
+        ],
+        "207": [
+          "Historical Institutionalism                                                        207"
+        ],
+        "208": [
+          "208                                                         Peter A. Hall"
+        ],
+        "209": [
+          "Historical Institutionalism                                          209"
+        ],
+        "210": [
+          "210                                                         Peter A. Hall"
+        ],
+        "211": [
+          "Historical Institutionalism                                          211"
+        ],
+        "212": [
+          "212                                                         Peter A. Hall"
+        ],
+        "213": [
+          "Historical Institutionalism                                          213"
+        ],
+        "214": [
+          "214                                                        Peter A. Hall"
+        ],
+        "215": [
+          "Historical Institutionalism                                          215"
+        ],
+        "216": [
+          "216                                                                    Peter A. Hall"
+        ],
+        "217": [
+          "Historical Institutionalism                                          217"
+        ],
+        "218": [
+          "218                                                        Peter A. Hall"
+        ],
+        "219": [
+          "Historical Institutionalism                                          219"
+        ],
+        "220": [
+          "220                                                          Peter A. Hall"
+        ],
+        "221": [
+          "Historical Institutionalism                                               221"
+        ],
+        "222": [
+          "222                                                                Peter A. Hall"
+        ],
+        "223": [
+          "Historical Institutionalism                                              223"
+        ]
+      },
+      "characters": 49202,
+      "sha256": "25d3e753df11cd53bb9833f0eace21845bad7562a8428994621a544a5db96166"
+    }
+  ]
+}

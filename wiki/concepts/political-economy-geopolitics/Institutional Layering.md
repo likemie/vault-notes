@@ -8,10 +8,10 @@ aliases:
 summary: "历史制度主义与政策变迁分析中的渐进制度变迁核心机制；指在不废除或替换既有制度结构的前提下，通过向既有制度框架中附加新规则、新行动者、新政策工具或新管理程序，随时间推移逐步改变原有制度地位、行为结构与治理后果的演进过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 5
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 concept_field: "political-economy-geopolitics"
 tags:
   - theme/institutional-change
@@ -97,14 +97,14 @@ updated: 2026-10-11
 
 > [!logic-map]- 制度分层的演进与作用机制
 > ```mermaid
-> flowchart TD
->     A["既有制度框架<br>（保持稳定运作）"]
->     B["制度意图与结果产生缝隙<br>（存在利益博弈与否决点）"]
->     C["行动者增厚<br>（增加管理层级与机构）"]
->     D["规制棘轮<br>（叠加新规章与合规工具）"]
->     E["制度分层过程<br>（增新不废旧）"]
->     F["原有规则规约行为的方式改变"]
->     G["累积产生制度质变或功能偏移"]
+> flowchart LR
+>     A["既有稳定制度框架"]
+>     B["制度意图与现实结果出现缝隙"]
+>     C["行动者增厚：增设机构与主体"]
+>     D["规制棘轮：叠加细则与工具"]
+>     E["分层过程：增新而不废旧"]
+>     F["重构原有规则对行为的规约方式"]
+>     G["长期累积引发制度质变或功能偏移"]
 >
 >     A --> B
 >     B --> C

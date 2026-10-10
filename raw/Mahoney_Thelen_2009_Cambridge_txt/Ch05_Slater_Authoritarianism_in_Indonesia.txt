@@ -1,0 +1,1524 @@
+Explaining Institutional Change: Ambiguity, Agency, and Power
+Edited by James Mahoney and Kathleen Thelen
+First published in print: 2009 | Copyright: 2010 | Cambridge University Press
+
+Chapter 5: Altering Authoritarianism: Institutional Complexity and Autocratic Agency in Indonesia
+Dan Slater
+Original print pages 132–167; PDF pages 150–185
+
+[English original. Chapter footnotes and references are retained in their original page positions. Print page markers and one-based PDF page numbers are provided. Original line breaks and fixed-width table layout are retained; verify diagrams and exact typography against the PDF.]
+
+
+========================================================================
+Chapter text, footnotes, and references
+========================================================================
+
+[p. 132] [PDF page 150]
+
+5
+
+Altering Authoritarianism
+
+Institutional Complexity and Autocratic
+Agency in Indonesia
+
+        Dan Slater
+
+
+
+
+How Authoritarian Institutions Change
+
+Authoritarianism is rapidly moving from political science’s margins
+to its mainstream. Lisa Wedeen’s (1999, 26) observation that there
+were, “oddly, few recent writings on authoritarianism in compara-
+tive politics” rang true a decade ago – but no longer.1 A growing
+literature has established that dictatorships are as diverse as democra-
+cies, and that this diversity largely rests in these regimes’ institutional
+differences. Contrary to popular images of dictatorships as regimes in
+which political arrangements and practices constantly shift at the whim
+of arbitrary autocrats, authoritarian regimes organize politics in ways
+that can prove surprisingly enduring. No less than in democracies, the
+orderliness of politics in authoritarian settings is best explained by the
+robustness of political institutions.
+
+
+1   There was significant coverage of authoritarianism within the “political development”
+    literature of the 1960s and 1970s, but the 1980s and 1990s witnessed a precipitous
+    decline.
+My thanks to Theda Skocpol, Sven Steinmo, and Kurt Jacobsen for their insightful
+feedback as workshop discussants for earlier versions of this manuscript; to James
+Mahoney and Kathleen Thelen for their ongoing guidance on the paper’s broad outlines
+and specific arguments; and to Jacques Bertrand, Tulia Falleti, Anna Grzymala-Busse,
+Peter Hall, Alan Jacobs, John Kelly, Desmond King, Ato Kwamena Onoma, Paul Pierson,
+Danilyn Rutherford, Steven Scott, Adam Sheingate, and participants in the author’s
+graduate seminars on Comparative Historical Analysis and Authoritarian Regimes for
+their helpful comments.
+
+[p. 133] [PDF page 151]
+
+Yet we still know very little about how institutions evolve within
+durable authoritarian regimes over time.2 Through a theoretically
+motivated analysis of Indonesia’s authoritarian New Order (1966–
+1998), this chapter develops a framework for apprehending and
+explaining incremental institutional shifts under dictatorship. Osten-
+sibly a model of long-term stability, the Suharto regime in fact experi-
+enced a gradual but significant transformation of its core institutional
+features. What started as a system of oligarchic military rule evolved
+into a highly personalized regime, backed in nearly equal measure by
+military and civilian organizations.
+   Explaining why Indonesian authoritarianism underwent such a con-
+siderable transformation, while so many authoritarian regimes do not,
+demands attention to the causal role of institutional complexity in
+foiling path dependence and expanding opportunities for agentive
+action. A product of historical inheritance as much as of strategic
+choice, Indonesia’s complex institutional constellation gave Suharto
+raw material not only for suppressing insurrectionary outsiders but
+also for dividing and conquering ambitious opportunists and prospec-
+tive subversives within the regime itself.3 Yet institutional complexity
+ultimately fostered Suharto’s vulnerability as well as his ingenuity. The
+growing civilianization and personalization of political power sapped
+the military’s will to rule and multiplied the channels through which
+opportunistic allies and subversive rivals could challenge and loosen
+Suharto’s remarkable grip on power.
+   Gradual change in authoritarian institutions must be apprehended
+before it can be explained. This demands a workable institutional
+typology of authoritarian regimes. The agenda-setting work in this
+regard has been that of Barbara Geddes (1999a, 1999b), who builds
+on insights dating back to Samuel Huntington (1968, 1991) to divide
+authoritarian regimes into three subtypes: military, single party, and
+personalist. Since it is a tool for explaining regime breakdown and
+
+
+2 An important and informative recent exception is Tsai (2006), but she tackles a very
+  different type of institutional change than the kind covered here, as I will discuss.
+3 To review Mahoney and Thelen’s definitions of these change agents from the intro-
+
+  duction (this volume): insurrectionaries openly mobilize against existing institutions
+  from the outside; subversives work within the system to effect institutional change;
+  and opportunists operate more ambivalently within existing institutions, supporting
+  change when it advances their interests.
+
+[p. 134] [PDF page 152]
+
+persistence, Geddes’ typology is not explicitly geared for apprehending
+institutional evolution within enduring authoritarian regimes.
+    A typology that I developed in earlier work may prove useful for this
+analytical purpose (Slater, 2003). My guiding logic was that author-
+itarian institutions serve to organize two distinct types of power: the
+power to make decisions, and the power to enforce them. This mir-
+rors Michael Mann’s (1988) distinction between the despotic power
+and infrastructural power of the modern state. Echoing Mann, I define
+an authoritarian regime’s decision-making procedures as its “despotic
+institutions,” while its organizational apparatus for executing those
+decisions represents its “infrastructural institutions.” Since the gap
+between formulation and enforcement is a major source of gradual
+institutional change, as James Mahoney and Kathleen Thelen argue in
+the introduction to this volume, distinguishing despotic from infras-
+tructural institutions provides a promising start to theorizing incre-
+mental shifts in authoritarian settings.
+    This distinction yields a four-part typology in which despotic insti-
+tutions range from autocratic (personalistic) to oligarchic (collectivis-
+tic), and either a party or military serves as a regime’s primary source
+of infrastructural power. The four resultant ideal-typical regimes are
+listed in the corners of Figure 5.1: Strongman, Junta, Bossism, and
+Machine. Note that not all authoritarian regimes are autocracies,
+although the terms have regrettably become synonyms in much recent
+literature.4 Autocracy implies personalization, which is a variable, not
+a constant in authoritarian settings. Note also that personal rule is
+not a distinct regime type in this typology, but a trait that ranges
+in importance from regime to regime (see also Hadenius and Teorell
+2007).
+    Why does this distinction between despotic and infrastructural insti-
+tutions enhance our understanding of authoritarianism, and not merely
+complexify it? In terms of descriptive realism, it is vital to maintain
+a focus on the enforcement infrastructure of authoritarian regimes.
+Whereas democratic institutions ostensibly exist to facilitate the shar-
+ing of policy influence, authoritarian institutions’ primary task is to
+
+
+4   This terminological conflation is especially regrettable in Magaloni (2006). Her expla-
+    nation for the durability of Mexico’s “autocracy” largely rests on the ruling party’s
+    consistent rotation of the presidency, i.e., its avoidance of autocracy.
+
+[p. 135] [PDF page 153]
+
+Party
+        Machine                                                           Bossism
+
+                                              Infrastructural
+                                                Dimension
+                                             (Who Executes?)
+
+
+                        Despotic
+Oligarchic             Dimension                                              Autocratic
+                     (Who Decides?)
+
+
+
+
+          Junta                                                         Strongman
+                                        Military
+figure 5.1. A Dynamic Typology of Authoritarian Institutions.
+
+
+ensure not societal access, but acquiescence (Kasza 1995).5 Dicta-
+tors use institutions first and foremost to craft collective compliance,
+and only secondarily to solicit policy advice or to offer influence in
+exchange for support. Hence we must remain attentive to how author-
+itarian institutions wield power, not simply how they allocate it. Civil-
+ian institutions such as parties, elections, and legislatures may present
+an image of decision-making inclusion in authoritarian settings, while
+denying tangible policy authority and squelching independent political
+activity in practice (Migdal 2001).6
+   Enforcement is more obviously vital when considering the political
+role of military institutions. To define a military regime strictly by its
+decision-making procedures – that is, as a regime in which “a group of
+officers decides who will rule and exercises some influence on policy”
+(Geddes 1999b, 121) – is to imply that militaries derive their political
+importance from how they wield authority instead of violence. The
+
+5 Acquiescence may or may not be generated with policy concessions. It can also be
+  gained through a mix of rents and raw intimidation, or simply through the absence of
+  viable political alternatives. Authoritarian regimes rest on coalitions, not necessarily
+  coalition partners.
+6 Kasza (1995, 59) uses the term “pseudopolitics” to describe authoritarian practices
+
+  that “do not affect policymaking or the composition of the ruling elite.”
+
+[p. 136] [PDF page 154]
+
+need to disentangle the despotic and infrastructural roles of military
+institutions will become evident in Indonesia, where the military lost
+active policymaking authority but remained an essential weapon for
+social control during the political crises of the mid to late 1990s. As
+the reformasi protest movement gained strength, its fate rested on
+two analytically distinct yet equally momentous questions: whether
+Suharto would decide to crack down, and whether soldiers would
+collectively enact any such command.7
+   My typology also facilitates the systematic analysis of institutional
+change by calling attention to two discrete dimensions along which
+change can take place. Change along the horizontal, despotic dimen-
+sion can often transpire incrementally and imperceptibly, as aspiring
+autocrats use techniques of personalization such as “packing, rigging,
+and circumventing” to subtly siphon decision-making power from pre-
+existing oligarchies (Slater 2003). Shifts along the vertical, infrastruc-
+tural dimension, by contrast, tend to be more overt and conflictual –
+and therefore rarer. Whether a regime’s social control rests on military
+or party institutions is typically path dependent, since neither type of
+organization is keen to relinquish its dominant position to the other.
+Military displacement of a ruling party typically requires a coup d’etat.
+A party’s effort to out-organize a territorially entrenched military often
+inspires one.
+   Recent quantitative research suggests that authoritarian institu-
+tional change is far from an everyday occurrence, yet commonplace
+enough to warrant a general explanation.8 An authoritarian regime’s
+defining institutions are “sticky,” not entirely stuck. Like institution-
+alist literature more generally, new research on authoritarian institu-
+tions handles their rigidity more successfully than their malleability.
+
+
+7 Studying authoritarian institutions thus requires that we maintain a sensitivity to the
+  organizational aspects of political power – contrary to the growing consensus that
+  institutions should strictly refer to “the rules of the game” (e.g., North, 1990), and
+  not to the organizations that persistently dominate the playing field.
+8 In Geddes’ (1999a) dataset of twentieth-century authoritarian regimes, 61 of 92 coun-
+
+  tries (or 66.3%) experienced no intra-authoritarian regime shift, 28 (or 30.4%) expe-
+  rienced one, and only 3 (or 3.3%) experienced more than one. Hadenius and Teorell
+  find more flux among their five institutional types, which subtract personalism but
+  add monarchies, no-party, and limited multiparty regimes to Geddes’ typology. “In
+  fact, from 1972 to 2003, 77 percent of transitions from authoritarian government
+  resulted in another authoritarian regime” (Hadenius and Teorell 2007, 152).
+
+[p. 137] [PDF page 155]
+
+Historical institutionalists have recently shown how regimes’ long-
+term strength can derive in a highly path-dependent way from the cir-
+cumstances of their origins (e.g., Brownlee 2007; Smith 2007),9 while
+new rationalist accounts have borne analytical fruit by conceiving of
+durable authoritarian regimes as those in which institutions provide a
+kind of stabilizing political equilibrium (e.g., Magaloni, 2006; Gandhi
+and Przeworksi, 2007).
+   Authoritarian institutions are too historically sticky and politi-
+cally stabilizing for such path-dependent and equilibrium effects to
+be doubted. Yet a fundamental shortcoming of both types of analysis
+is that path dependence and equilibrium are features characterizing
+a particular institution. Under conditions of institutional complex-
+ity, one institution’s persistence might undermine another’s, and one
+institution’s equilibrium logic might contradict another’s. Under such
+complex institutional conditions, authoritarian regimes can exhibit a
+more dynamic sort of stability, which neither comparative statics nor
+path-dependent approaches are well-suited to apprehend or explain.
+   Indonesia’s New Order was very much this type of regime. President
+Suharto had less freedom to maneuver during his regime’s founding
+period than analyses of path dependence and authoritarian institu-
+tional choice typically emphasize.10 The institutional weight of history
+and the coalitional contingencies of his violent rise to power denied
+
+ 9 As Brownlee argues in his comparative-historical study of party dominance and debil-
+   ity: “The institutional legacy of the regime formation period subsequently ensures
+   further stability for those leaders with ruling parties or unmediated elite factionalism
+   for those with weak parties” (2007, 37; emphasis added). Similarly, Smith’s expert
+   comparison of state building and party formation in authoritarian Indonesia and
+   Iran “draw[s] heavily on historical institutionalist conceptions of path-dependent
+   change.” Political agents build institutions, but “[o]nce decisions take institutional
+   form, the role of agency changes.” Agency dissipates over the life of a regime as “the
+   very institutions that state leaders have much freedom to construct during initial
+   periods powerfully shape their later options for dealing with economic and political
+   crises” (Smith 2007, 9–10).
+10 Gandhi and Przeworski (2007) admirably acknowledge that institutional inheritance
+
+   can shape authoritarian architecture. Yet they do not seem to fully appreciate the
+   significance of this historicist point for their (or any) choice-theoretic account. They
+   treat the number of parties preceding authoritarianism as a proxy for opposition
+   strength and convert the number of parties accompanying authoritarian rule into a
+   proxy for policy concessions. What appears to be empirical confirmation of their
+   argument that strong opposition breeds generous concessions may in fact amount to
+   a confirmation of a more straightforward, historicist finding: the number of parties
+   before dictatorship influences the number of parties during dictatorship.
+
+[p. 138] [PDF page 156]
+
+Suharto anything resembling a blank slate on which to design regime
+institutions. The preexistence of a powerful and politicized military
+put clear initial limits on any party-building initiatives. The military
+would stand at the center of the new regime whether Suharto liked it
+or not. Yet the active support for military intervention among Islamic
+groups, intellectuals, and civil servants presented Suharto with a large
+pool of civilian allies expecting political inclusion. The advent of a
+regime with considerable institutional complexity was structured by
+the multiplicity of highly organized social forces in Indonesian politics
+and by their common connivance in Suharto’s ascent.
+   Contrary to the assumptions of path dependence, this institutional
+complexity allowed Suharto’s range of options to expand rather than
+decline over time. With territorially encompassing military and quasi-
+party apparatuses as well as a parliament of supine supplicants at
+his disposal, Suharto could strategically favor one institution over
+another as political circumstances shifted. Emergent subversives could
+be sidelined while more acquiescent opportunists could be privileged,
+and then marginalized anew if they began to exhibit any subver-
+sive tendencies. The upshot was the gradual transformation of a col-
+lectivistic military-dominated regime (or “junta”) into a highly per-
+sonalized regime (Figure 5.2), perched atop a mixed party-military
+infrastructure (or a “strongman” regime with pronounced elements of
+“bossism”).
+   Existing conceptual frameworks struggle to apprehend such grad-
+ual institutional change. Geddes (1999a) classifies Indonesia under
+Suharto as a hybrid “personal/military/single-party” regime from cra-
+dle to grave. Axel Hadenius and Jan Teorell (2007) commence their
+coding only in 1971, but they portray Indonesia as a “military multi-
+party” regime throughout. These static classifications obviously neglect
+the New Order’s significant evolution. Yet they usefully convey its
+complexity. Hadenius and Teorell’s categorization captures the exis-
+tence of multiple political parties under the New Order, while Geddes’
+classification captures the regime’s party-military infrastructural com-
+bination.
+   We must turn to the literature on institutional complexity and
+change, however, to understand why complex regimes might allow
+more room for autocratic agency over time than regimes in which a
+
+[p. 139] [PDF page 157]
+
+Party
+       Machine                                                            Bossism
+
+                                               Infrastructural
+                                                 Dimension
+                                              (Who Executes?)
+
+
+                        Despotic
+                       Dimension
+Oligarchic                                                                      Autocratic
+                     (Who Decides?)                                      1998
+
+
+
+
+             1966
+         Junta                                                          Strongman
+                                        Military
+
+
+                 Rough institutional trajectory of Indonesia’s New Order, 1966–1998
+figure 5.2. Dynamics of Authoritarian Institutions in Indonesia.
+
+
+party or military is more solidly hegemonic. As Adam Sheingate (2003,
+191, 192) puts it, “institutional complexity creates the conditions that
+make entrepreneurship possible,” since it “provides the raw mate-
+rial for innovative combinations.” This nicely captures how institu-
+tional complexity facilitated Suharto’s perseverance in power through
+presidential “robust action” and “flexible opportunism” (Padgett and
+Ansell 1993). Rather than taking the near-suicidal risk of openly
+displacing the powerful military from his foundling regime’s politi-
+cal center, Suharto gradually and increasingly layered civilian insti-
+tutions atop military ones, crafting a complex institutional balance
+in which presidential favor could shift between civilian and military
+allies without advance notice. Far from a dominant-party equilibrium
+in which a single institutional hierarchy stabilizes politics by mak-
+ing the rules of access to power highly predictable, Suharto pitted
+civilian hierarchy against military hierarchy, strategically deploying
+unpredictability and ambiguity as weapons for cementing his per-
+sonal dominion. It was thus through institutional layering that Suharto
+accomplished his desired institutional conversion – incrementally
+
+[p. 140] [PDF page 158]
+
+shifting a collectivist military regime into a system of unbridled auto-
+cratic rule.11
+   Yet complexity can empower challengers as well as incumbents.
+The political skills necessary to manipulate institutional complexity
+inhere not just in agentive autocrats pursuing dynamic strategies of
+divide-and-conquer from above. They are shared by the insurrectionar-
+ies who can exploit institutional schisms from below as well as by
+the opportunists and subversives who can manipulate institutional
+complexity from within. This is why “institutional multiplicity should
+undermine reliable reproduction” by denying hegemony to any par-
+ticular institution (Clemens and Cook 1999, 461). Mounting a polit-
+ical challenge to a dictatorship is a different matter than subverting
+institutions in a democratic setting, however. Authoritarianism sys-
+tematically denies most actors the agency and access necessary to alter
+political institutions.12 So while the specific arrangements that define a
+given authoritarian regime may evolve gradually over time, challenges
+to authoritarianism tend to be punctuated, and to erupt suddenly if
+they are to arise at all.
+   This helps explain why the Suharto regime’s collapse was as sudden
+as its evolution had been gradual. Impervious to collective tinker-
+ing, the Suharto regime could only be altered through its collective
+overthrow. Having balanced among multiple institutions for so long,
+Suharto had denied any single political grouping an unambiguously
+privileged stake in his continued personal rule. Having used those
+multiple institutions to incorporate the ambitious as well as the acqui-
+escent, Suharto had invited opportunists and subversives into the inner
+
+
+11 To review Mahoney and Thelen’s types of institutional transformation: displacement
+   entails full-blown institutional change, layering involves introducing new institutions
+   alongside existing ones, and conversion is the redeployment of existing institutions
+   to new political purposes. To be clear, my argument is that Suharto’s civilianization
+   of power can be conceived as a process of institutional layering, while his personal-
+   ization of power amounted to institutional conversion.
+12 Marginal and oppositional actors can sometimes undermine and transform authori-
+
+   tarian institutions with creative acts of noncompliance and innovation, as Kerkvliet
+   (2005) and Tsai (2006) have shown; but such acts cannot explain changes of the
+   magnitude that I discuss here. While uncovering fascinating political dynamics in the
+   ostensibly “stable” Vietnamese and Chinese regimes, these shifts within persistent
+   party-dominant regimes fall short of the kind of infrastructural institutional shift
+   from military domination witnessed in Indonesia.
+
+[p. 141] [PDF page 159]
+
+sanctum of his regime, permitting them to gain resources and find
+routes through which to bring his reign crashing to an end.
+
+
+Authoritarian Institutions in Indonesia: Inheritance,
+Complexity, and Evolution
+
+Thanks in part to its rock-solid moniker, Indonesia’s New Order is
+commonly perceived as a stable governing apparatus under which “not
+much happened” between its violent inception in 1966 and its dramatic
+collapse in 1998. In fact, the regime experienced significant institu-
+tional evolution along both its despotic and infrastructural dimen-
+sions. In terms of despotic power, Suharto deployed the tactics of
+“packing, rigging, and circumvention” (Slater 2003) to transform a
+collectivist military leadership during its first decade into a more per-
+sonalized, “sultanistic” regime by its final decade (Chehabi and Linz
+1998; Aspinall 2005). In infrastructural terms, Suharto’s gradual and
+partial civilianization of power lessened but could not eliminate his
+dependence on the military as his primary weapon for social control.
+Long before the Asian financial crisis seemingly “destabilized” the
+Suharto regime, its core institutions had come to look quite different
+than they had at its inception.
+
+Lineages of the New Order: Institutional Complexity in Sukarno’s
+“Old Order,” 1949–1965
+Diverse social structures tend to spawn complex institutional constel-
+lations (Lipset and Rokkan 1990 [1967]), and Indonesia is among the
+most socially diverse countries on earth. Unlike India, a comparably
+diverse country that emerged from its decolonization struggle with a
+highly organized national ruling party, Indonesia’s contentious path
+to independence in 1949 produced no peak institution binding the
+nation’s politics together. Instead, there were five major political and
+social organizations emerging from Dutch rule that will prove essen-
+tial in the analysis of authoritarian institutions to follow. The prewar
+period witnessed the birth of two important mass political parties –
+the Indonesian Nationalist Party (PNI) and the Indonesian Communist
+Party (PKI) – and two Islamic organizations with memberships in the
+millions: the Nahdlatul Ulama (NU) and the Muhammadiyah. Japan’s
+wartime occupation and the subsequent war for independence against
+
+[p. 142] [PDF page 160]
+
+the Dutch brought a fifth critical player onto the scene: the Indonesian
+national military, or ABRI.13
+   At the center of this constellation was Sukarno, a founding member
+of the PNI and the leading charismatic figure in the national revolution.
+To provide some sort of glue to bind Indonesia’s diverse political orga-
+nizations together, Sukarno introduced the ideology of Pancasila in
+1945 as an alternative to an outright Islamic state. A vague statement of
+five principles encompassing religiosity, nationalism, humanism, con-
+sensus, and social justice, Pancasila was ambiguous enough to paper
+over ideological disagreements during the anti-Dutch conflict. When its
+position as a peak national ideology became increasingly institution-
+alized under Suharto’s New Order, Pancasila’s manifest ambiguities
+would make it a double-edged ideological weapon, justifying both the
+repression and resistance of political subversives.
+   Since Sukarno’s PNI could not ultimately reign supreme over
+Indonesia’s diverse and highly mobilized social forces, independence
+gave rise to a parliamentary democracy with four main parties: the
+PNI, the PKI, the NU, and Masyumi, an Islamic party largely draw-
+ing on the mass membership of Muhammadiyah. Postindependence
+parties thus mirrored preindependence organizations. Elections dur-
+ing the parliamentary era (1949–1957) saw these four parties gain
+relatively equal support, yielding a string of shaky coalition govern-
+ments. Hovering impatiently above this rather unstable arrangement
+was figurehead president Sukarno and Indonesia’s fifth main political
+institution, ABRI.
+   Yet ABRI was still too fragmented to enter politics as a coher-
+ent actor. Factionalism erupted into violence in 1957 with a series of
+territorial rebellions led by regional military commanders. This gave
+Sukarno a pretext for dispensing with the deliberative niceties of par-
+liamentary politics and declaring martial law. ABRI leaders thus gained
+a golden opportunity to purge rebellious rivals and assert their polit-
+ical interests. With the elimination of electoral politics, the parties’
+grassroots positions began to be usurped by a strengthened territorial
+military command and a new set of corporatist, government-linked
+“functional groups” (golongan karya), or golkar. In 1959, Sukarno
+
+13   Nahdlatul Ulama can be translated as the Council of Islamic Scholars. ABRI stands
+     for Angkatan Bersenjata Republik Indonesia, or Indonesian Armed Forces.
+
+[p. 143] [PDF page 161]
+
+seized stronger executive power by returning Indonesia to its presiden-
+tialist 1945 constitution, declaring the birth of “Guided Democracy.”
+    At its inception, Guided Democracy was a straightforward example
+of personal rule backed by military force: a “strongman” regime. But
+Sukarno did not remain wholly reliant on ABRI’s infrastructural power
+for long. In 1960, Sukarno invited the PKI back into government as
+a counterweight to the military, commencing a precarious period of
+political balancing. While Sukarno’s appropriation of despotic power
+did not cause evident strain, his effort to shift the locus of infrastruc-
+tural power created ominous sociopolitical tensions. ABRI resented
+and resisted the PKI’s revitalized efforts to mobilize supporters in the
+cities and countryside, as well as Sukarno’s efforts to promote PKI
+sympathizers within the military itself. Since the PKI’s bid for support
+involved creating and capturing corporatist golkar of social forces such
+as workers, peasants, and women, ABRI responded by mobilizing func-
+tional groups of its own. In 1964, ABRI Commander A. H. Nasution
+brokered the formation of a new Golkar secretariat, an alliance of
+promilitary, anti-PKI corporatist groups, as an infrastructural coun-
+terweight to the PKI.
+    By the end of Sukarno’s “Old Order,” then, the military’s infras-
+tructural power over Indonesian society was substantial. ABRI had
+“developed a network of territorial units concerned with internal
+security and watching over civilian activities generally” and “sought
+to ‘integrate itself with the people’ through its territorial organiza-
+tion,” which “act[ed] as guardians of security at the local level”
+(Crouch 1978, 222). This infrastructural power would be put to
+genocidal ends in the wake of a failed leftist coup on the night of
+September 30, 1965. The PKI was blamed for the putsch, which com-
+menced with the massacre of seven top generals. One of the postwar
+world’s worst bloodbaths ensued. Under the leadership of Suharto –
+the highest-ranking general in Jakarta neither killed nor wounded
+in the coup – ABRI joined forces with NU militias to unleash a
+pogrom that claimed the lives of hundreds of thousands of commu-
+nists and suspected PKI sympathizers. By the time Suharto pressured
+Sukarno to hand over emergency executive powers, in March 1966,
+his ascent to power represented his scaling of “a mountain of skele-
+tons” (Anderson 1999, 7). As Suharto tried to consolidate the New
+Order with authoritarian institutions, the momentum of the past would
+
+[p. 144] [PDF page 162]
+
+prevent him from simply inventing advantageous arrangements from
+scratch.
+
+Societal Acquiescence and Institutional Inheritance: Military
+Dominance and Institutional Complexity, 1966–1973
+The origins of the Suharto regime did not take place in anything resem-
+bling a coalitional or institutional vacuum. Rather than needing to seek
+out new coalition partners to help consolidate his rule, Suharto was
+immediately tasked with managing an eclectic collection of political
+allies. As Benjamin Smith (2007, 84) depicts the initial New Order
+coalition: “In addition to the bureaucracy and the army, which served
+as the primary institutional bases of the regime, the major student orga-
+nizations, religious parties and organizations, and rural elites on Java
+all coalesced around the exigencies of order and development.” These
+willing allies strengthened Suharto’s hand as he confronted Sukarno
+supporters within the military, the bureaucracy, and society at large.
+But they also came with expectations of institutional access that were
+not easily compatible, thus tying Suharto’s hands as well.
+    In short, the initial New Order coalition was bound together by
+a “common enemy” in the PKI, not a common agenda.14 Military
+and bureaucratic elites were generally eager for Suharto to replace
+Sukarno’s Guided Democracy with something entirely guided and not
+remotely democratic. Yet students, Islamic groups, and anticommunist
+party politicians often backed the New Order in the “hopeful expec-
+tation” that it would prove less authoritarian than its immediate pre-
+decessor. Suharto reportedly disliked needing “to depend upon” such
+a broad and unwieldy coalition of opportunists. His personal posi-
+tion atop the military was initially quite precarious, however, making
+his wide-ranging support among anticommunist and anti-Sukarnoist
+civilians too valuable a political resource to be squandered lightly.
+    Helping Suharto manage this diverse coalition was the complex
+array of political institutions that he had inherited. With the excep-
+tion of the insurrectionary PKI and Masyumi (which had been banned
+since the regional rebellions of the 1950s), civilian parties continued to
+
+
+14   All quotes in this paragraph are from an interview with Burhan Magenda, an editor of
+     the influential student paper Harian KAMI from 1966 to 1974, as well as a Cornell-
+     trained political scientist and current member of Indonesia’s parliament (July 16,
+     2004).
+
+[p. 145] [PDF page 163]
+
+exist and retained their seats in the appointive parliament, which con-
+tinued to convene. These inherited civilian institutions would quickly
+be bled dry of whatever limited decision-making power they had still
+enjoyed under Guided Democracy. “Having gained control of the gov-
+ernment for themselves, the army leaders had no intention of handing
+power over to the political parties in the name of ‘democracy,’” writes
+Harold Crouch. Suharto and his inner circle did not even feel pressed to
+share policy influence with civilians in exchange for acquiescence, since
+“[t]he emergence of the army to a position of unchallenged domina-
+tion of the government had been welcomed enthusiastically by a small
+section of civilian political opinion and accepted as an unavoidable
+reality by most of the rest” (Crouch 1978, 245).
+    In Migdal’s terms (2001), the image of an ongoing civilian role
+in political decision making was thus not reflected in actual politi-
+cal practice. Civilian institutions were present, but military institu-
+tions were predominant. ABRI’s newfound despotic domination was
+backstopped by the revamping of its already impressive infrastructural
+reach. It strengthened its primacy in social control with the forma-
+tion of the Operational Command for the Restoration of Security
+and Control (Kopkamtib), under Suharto’s direct command, in the
+aftermath of the coup. “With this ‘military within the military’ as
+the core of ABRI’s repressive apparatus, everyday politico-ideological
+surveillance was institutionalized in the social life of Indonesia,” writes
+Jun Honna. “Kopkamtib’s activities were backed by the military area
+commands which controlled political life in each geographic territory”
+(Honna 2003, 9). Meanwhile, the “greening” (penghijauan) of the
+bureaucracy witnessed the placement of military men in administra-
+tive positions throughout the archipelago. The editor in chief of the
+influential Islamic student paper Harian KAMI noted that by the late
+1960s, ABRI had effectively seized “most of the positions which con-
+trol people” (Suryadinata 1989, 34).
+    In the New Order’s first decade, then, the military “massively pen-
+etrated all hierarchies of the state apparatus and most aspects of soci-
+ety’s life” (Anderson 1983, 490). ABRI also retained a collective grip
+on despotic power, as “the New Order regime had been established
+by the military as an institution in which Suharto was initially merely
+first among equals” (Aspinall 2005, 242). Specifically, Suharto sur-
+rounded himself with a personal staff (staf pribadi, or SPRI) com-
+prising twelve military advisers, each of whom gained authority over a
+
+[p. 146] [PDF page 164]
+
+distinct decision-making domain such as economic development, social
+welfare, and domestic intelligence. Nine of these twelve advisers held
+the rank of brigadier general, underscoring the fact that Suharto was
+constructing a military junta, not merely a personal clique. Even after
+Suharto disbanded the SPRI in the face of growing criticism in June
+1968, these generals still “exercised great influence over the patronage
+system. They played a major role in determining appointments in both
+the military hierarchy and the government administration” (Crouch
+1978, 308). Despotic institutions were thus more oligarchic than auto-
+cratic at the New Order’s onset, with a consortium of generals making
+all the political decisions that counted.
+    Where would civilians fit in this political arrangement? While so-
+called New Order militants urged a thoroughgoing militarization of
+the polity, Suharto’s many bureaucratic and societal allies sought an
+active stake in the regime they had helped to forge. To marginalize the
+militants and incorporate civilian supporters, Suharto and his closest
+allies revived and revised Indonesia’s system of elections, parties, and
+parliaments in a way that would consolidate rather than complicate
+military domination. “Soeharto was not of a mind – and probably
+unable – to ban all civilian political activity,” Adam Schwarz (1994,
+30) argues. “The forms of government would stay, but those outside
+the executive branch would be steadily drained of influence.”
+    In other words, Suharto’s inner circle saw civilianization as a way
+to develop stronger infrastructural institutions. They had no intention
+of sharing decision-making authority with civilians, with the exception
+of a few select technocrats as helmsmen of the macroeconomy. They
+had every intention of enlisting the help of civilian allies in establishing
+centralized political and social control. What emerged was a complex
+structure in which elites would compete both within and across civilian
+and military institutions for political advancement.
+    The most important institutional innovation involved the “conver-
+sion” of Golkar from a loose confederation of corporatist groupings
+into the New Order’s electoral vehicle.15 Working closely with fel-
+low generals Ali Murtopo and Amir Machmud, Suharto compelled
+
+
+15   The organization was called Sekber Golkar, or the Golkar secretariat, until after the
+     1971 elections, but I use the term Golkar throughout to avoid confusion. See the
+     volume introduction on the concept of institutional conversion.
+
+[p. 147] [PDF page 165]
+
+the consolidation of more than two hundred Golkar affiliates into just
+seven, in preparation to contest the 1971 elections. Rather than build-
+ing an autonomous ruling party or working through an existing party
+that might rival the military and mobilize politically unreliable social
+forces, the Suharto-led junta deployed an organization long dominated
+by the military itself. Although clearly a creature of state more than
+society, Golkar provided a useful political outlet for the New Order’s
+many nonmilitary supporters, especially in the bureaucracy. Civil ser-
+vants were forbidden from maintaining party memberships and forced
+to declare “monoloyalty” to Golkar.
+    Such moves allowed the Suharto regime to bleed existing parties of
+support and influence, without taking the potentially explosive step of
+banning well-established institutions outright. To invoke Mahoney
+and Thelen’s terms, parties were not displaced entirely, but were
+stripped of subversive and insurrectionary elements. In a maneuver
+that foreshadowed manipulations to come, authorities merged several
+small Muslim groups into a new party called Parmusi in 1968. A pliant
+party chairman was appointed, and Parmusi was granted eighteen seats
+in the national parliament. While this created an illusion of sharing pol-
+icymaking authority, it would soon be evident that parliament would
+only be entrusted to serve a rubber-stamp role. Parliament’s lack of
+independent authority was signaled in the elections law of 1969, which
+set aside about 20 percent of all seats for appointed members, usually
+military men (Suryadinata 1989, 74). Indonesians would deride their
+parliamentarians’ lack of policymaking authority, sarcastically sum-
+marizing their daily routine as the “four Ds”: datang, duduk, diam,
+duit (show up, sit down, stay silent, get paid).
+    In sum, civilian institutions may have appeared to be handcuffs
+constraining the regime’s despotic power; but they were more like
+brass knuckles enhancing its infrastructural power. This was made
+obvious in the 1971 national elections, when ABRI’s territorial appa-
+ratus helped deliver a landslide victory for Golkar. Civilian-style poli-
+tics proved perfectly compatible with continued military domination.
+Suharto and his military allies then tightened their grip over the New
+Order’s civilian institutions even further. Given the regime’s earlier suc-
+cess at infiltrating Parmusi and streamlining Golkar, it confidently com-
+pelled all remaining parties to coalesce into two sanctioned semioppo-
+sition groupings in 1973: the Islam-oriented United Development Party
+
+[p. 148] [PDF page 166]
+
+(PPP) and the more secular nationalist-leaning Indonesian Democratic
+Party (PDI).
+   It thus appeared by 1973 that Suharto’s inner circle had consoli-
+dated military hegemony, thanks in part to their deployment of sub-
+servient civilian institutions, especially Golkar. It is critical to recog-
+nize, however, that such institutions were often inherited, not invented.
+And while parties and a parliament remained present, ABRI was
+predominant. Yet the mere presence of nonmilitary institutions, dis-
+empowered though they were, would have significant consequences
+for the New Order’s evolution. Institutional complexity would give
+Suharto tools for wrong-footing rivals and concentrating despotic
+power in an ever-strengthening presidency.
+
+A Turn to Autocracy: Military Factionalism, Protest,
+and the Junta’s Demise, 1974–1977
+It is not unusual for collectivist authoritarian regimes to become more
+personalistic over time.16 As I have argued elsewhere (Slater 2003,
+87–91), there are at least three techniques through which an aspir-
+ing autocrat can incrementally siphon decision-making power from
+fellow elites: (1) “packing,” or the appointment of loyalists and purg-
+ing of rivals atop political institutions; (2) “rigging,” or the modifi-
+cation of rules to forestall competition for leadership posts; and (3)
+“circumvention,” or the diversion of influence and resources from
+rivals in “unpacked” institutions to loyalists in packed ones. After
+1974, these techniques became increasingly important drivers of insti-
+tutional change in Indonesian politics. Once the New Order’s com-
+bined military-party infrastructure had been established, this multi-
+plicity could be manipulated by Suharto in his bid to monopolize
+despotic power.
+    This is not to say that personalizing power requires institutional
+complexity. Autocracy can displace oligarchy in regimes where either
+a ruling party or the military is utterly dominant.17 Why then did
+
+16 Echoing Chehabi and Linz (1998), Aspinall (2005, 204) notes that “‘sultanization’
+   is especially likely toward the end of a ruler’s term in office.”
+17 Examples of party “machines” giving way to “bossism” include Malaysia under
+
+   Mahathir Mohamad (Slater, 2003) and Zimbabwe under Robert Mugabe. Military
+   “juntas” that increasingly resembled “strongman” regimes include Burma under Ne
+   Win and Chile under Augusto Pinochet.
+
+[p. 149] [PDF page 167]
+
+Suharto choose to personalize power by pursuing an infrastructural
+balance between ABRI and Golkar, rather than trying to dominate
+politics through the infrastructural hegemony of ABRI alone? As we
+have seen, ABRI enjoyed such a commanding position in Indonesian
+politics at the onset of the New Order that such a strategy appeared
+quite plausible. In fact, Suharto’s initial consolidation of control bore
+clearer marks of power balancing within ABRI than across the ABRI-
+Golkar divide. As one leading scholar of military politics observed:
+
+Although the members of [Suharto’s personal staff] enjoyed a warmer rela-
+tionship with the president than did their rivals, he was careful not to favor
+them to the point where the military professionals felt alienated. A careful
+balance was maintained, in which both groups were rewarded in the present
+and had grounds for optimism about the future. Presiding over a system of bal-
+ancing vested interests, Suharto seemed in the early 1970s to be in a position
+to maintain his regime indefinitely. (Crouch 1978, 309–310)
+
+   In other words, one could envision the consolidation of a straight-
+forward “strongman” regime in which Suharto personally dominated
+a hegemonic ruling military. Yet the violent confluence of military fac-
+tionalism, Islamic protest, and student-led unrest in late 1973 and early
+1974 would alter Suharto’s coalitional and institutional calculations.
+Troubles began with “rising protests by PPP (the then newly formed
+Islamic party) and other leading Muslim organizations and individuals
+against the government’s promotion of a new marriage law” (Sidel
+2006, 107). The fact that NU and Islamic student groups stormed par-
+liament spoke volumes about their lack of influence in that “decision-
+making” chamber. Anger over proposed family reforms reflected grow-
+ing sentiments that the New Order was becoming less attentive to the
+array of Islamic allies who had helped usher the regime to power.
+   The major lightning rod was General Ali Murtopo. “Suharto’s right-
+hand man” served both as interior minister and as commander of
+Opsus (short for Operasi Khusus, Special Operations), a secretive mil-
+itary unit founded by Suharto in 1968 as a counterweight to ABRI’s
+powerful Kopkamtib group. Not only did Murtopo have stronger ties
+to Christian than to Muslim constituencies. He had also shown signs of
+“want[ing] to use Golkar as his own power base,” proposing to trans-
+form it into a full-fledged cadre party independent of military control
+(Suryadinata 1989, 145). This raised the ire of General Soemitro, who
+
+[p. 150] [PDF page 168]
+
+commanded Kopkamtib and had strong ties to Islamic groups dat-
+ing back to their collaboration in the annihilation of the PKI. When
+Soemitro intervened to broker a compromise between the regime and
+Islamic protesters over the proposed family law, Suharto seemingly
+chafed at his rival’s continued political relevance. In Suharto’s view,
+Kopkamtib existed to enforce policy, not to negotiate and formu-
+late it.
+   Factional tensions erupted into student protests and urban riots in
+January 1974. The so-called Malari disaster deeply shook Suharto’s
+confidence in his support among student and Islamic groups,18 as well
+as their perceived military patrons. “Implicated in the student protests
+and, by association, the Malari riots, Soemitro was forced to resign
+his post” (Sidel 2006, 109). Suharto also cracked down hard on the
+student media, especially those of an Islamic bent, further sacrificing
+his coalitional support in Islamic circles. As John Sidel has argued, the
+Malari disaster was very much a violent expression of worsening coali-
+tional and institutional friction. “This series of events reflected – and in
+considerable measure exacerbated – a set of growing tensions between
+rival factions, and between conflicting institutional, social, and reli-
+gious elements, within the New Order regime” (Sidel 2006, 108).
+   These coalitional tensions wrought institutional change along both
+the despotic and infrastructural dimensions. The purging of an inde-
+pendently powerful “junta” member, Soemitro, was accompanied by
+the packing of his Kopkamtib post with a Suharto loyalist lack-
+ing either revolutionary credentials or an autonomous political base:
+Benny Moerdani, a Christian general. This represented a deepening of
+earlier, subtler practices of personalization within ABRI, rather than
+a completely novel approach. Suharto had commenced his consol-
+idation of military power in 1966 by shuffling the only remaining
+general surpassing his own stature, A.H. Nasution, “into a prominent
+but relatively powerless civilian position” as chairman of the national
+parliament (Crouch 1978, 228). Similar packing maneuvers were com-
+plemented in 1967 by practices of circumvention, with the placement
+of a general who was “personally and professionally close to Suharto”
+(Robison 1986, 229) and another who was effectively “the president’s
+political financier” (Winters 1996, 84) in charge of Indonesia’s two
+
+18   “Malari” is short for Malapetaka Lima Belas Januari, or the January 15th Disaster.
+
+[p. 151] [PDF page 169]
+
+greatest sources of discretionary revenue: the state logistics board
+(Bulog) and national oil company (Pertamina), respectively. And in
+a foreshadowing of the kind of communal divide-and-conquer poli-
+tics to come, Suharto had by 1969 “steepened and streamlined mili-
+tary hierarchies under Deputy Minister of Defense General Maradaen
+Panggabean. General Panggabean was not only personally loyal to
+Suharto. As a Protestant and member of the Batak ethnic minority, he
+could not become an independent center of power” (Anderson 1978,
+6). The Soemitro-Moerdani shuffle in 1974 thus represented the cul-
+mination of a series of personalizing blows leveled against collective
+military leadership.
+   Suharto’s falling out with Soemitro also helped Golkar make mod-
+est gains vis-à-vis ABRI in infrastructural terms – if mostly through
+the growing clout and following of a single loyalist, Ali Murtopo.
+Golkar’s total number of field secretaries, who served as “the links
+between Golkar and the grassroots,” expanded from five to eleven
+after 1973. Seven of those eleven “were Ali Murtopo’s men” (Suryad-
+inata 1989, 59, n. 30). Murtopo tried to leverage his enhanced power
+over Golkar with calls in 1974 for a “dynamic balance between the
+civilians and ABRI” (Suryadinata 1989, 39) rather than the kind of
+military hegemony that had characterized the New Order to date.
+   Golkar nevertheless remained a weak infrastructural rival to ABRI,
+largely because ABRI elites utterly dominated Golkar’s upper reaches.
+“The military was the dominant political force within Golkar” between
+the 1971 and 1977 elections, argues Leo Suryadinata (1989, 84).
+Although approximately half of the delegates at Golkar’s 1973
+congress were nonmilitary men, only two of the twenty-nine invited
+speakers could say the same (Suryadinata 1989, 53). Such patterns
+reflected Golkar’s lack of despotic power as well as infrastructural
+power vis-à-vis ABRI. Even Golkar’s top representative in parliament,
+Sarwono Kusumaatmadja, admitted that:
+
+Golkar had not played a major role in the decision-making process. . . .
+Although he [Sarwono] did not mention directly that it was ABRI which was
+the real decision maker, he did indicate that the relationship between Golkar
+and ABRI was similar to that of an uncle and a nephew. In other words, it was
+an unequal partnership. After all, he said, Golkar was still young and it still
+was unrealistic to expect it to be independent from ABRI. (Suryadinata 1989,
+84–85)
+
+[p. 152] [PDF page 170]
+
+As a window on institutional power and change, Sarwono’s com-
+mentary is intriguing in several respects. First, Sarwono does not
+claim that ABRI’s dominance over Golkar was expressed in terms
+of decision-making power. Authoritative decisions were increasingly
+emanating from Suharto’s narrowing clique rather than the military
+as an institution. Yet ABRI’s infrastructural advantage over Golkar
+nevertheless made it the “uncle” rather than the “nephew” in the
+relationship. Sarwono’s familial metaphor is also illuminating in its
+implications for endogenous institutional change. A nephew may be
+subservient to an uncle as a child, but the power balance tends to
+equalize as the nephew grows up.
+    In the Indonesian case, the nephew (Golkar) had more than time on
+its side. It also gained increasing personal backing from the metaphor-
+ical father (Suharto), who saw it as a weaker and more malleable
+ally than the uncle (ABRI). Organized support from an increas-
+ingly strengthened and civilianized Golkar could help protect Suharto
+against the kind of military factionalism that had erupted with Malari.
+Not unlike his ideological archenemy Sukarno, then, Suharto calcu-
+lated that a balanced regime infrastructure would be more conducive
+to the consolidation of autocracy than dependence on ABRI alone.
+Given the initial predominance of military over civilian forces in the
+New Order, however, a true ABRI-Golkar power balance had to be
+creatively crafted. If institutional complexity was inherited, institu-
+tional balance would need to be invented.
+    This would prove to be an agential enterprise akin to what John
+Padgett and Christopher Ansell (1993) call “robust action” and “flex-
+ible opportunism,” and what Adam Sheingate (2003) calls “political
+entrepreneurship.” It involved creative and shifting combinations of
+presidential packing, rigging, and circumvention in response to the
+changing contours of acquiescence and dissent within Suharto’s ruling
+coalition. The discussion to follow cannot possibly do justice to the
+many maneuvers Suharto deployed to sustain his regime as he cast
+aside “junta”-style politics and constructed more of a “strongman”
+regime with pronounced elements of “bossism.” But it should serve to
+illustrate processes of infrastructural balancing and despotic person-
+alization, and to show how these dynamics were at once analytically
+distinct yet strategically intertwined.
+
+[p. 153] [PDF page 171]
+
+Expanding Agency in Institutional Reproduction: Despotic
+Personalization and Infrastructural Balancing, 1977–1995
+Suharto’s decision to seek a third presidential term in the 1977 elec-
+tions would usher in a new era in regime personalization. Public crit-
+icism of Suharto’s leadership began to increase from within ABRI,
+even as voices in Golkar and the wider society increasingly denounced
+ABRI’s domination of the state apparatus. Prominent Suharto critic Ali
+Sadikin, the popular governor of Jakarta, was replaced with Suharto’s
+“own military secretary” (Smith 2007, 152). While Golkar romped to
+its usual landslide victory in the 1977 vote, growing social discontent
+at Suharto’s narrowing base produced rising support for the Islamic
+PPP, which scored outright victories in the province of Aceh and in
+Jakarta itself. Electoral opposition was followed by contentious oppo-
+sition, as the early months of 1978 preceding Suharto’s reinauguration
+witnessed a more organized upsurge of urban protest than the rather
+riotous unrest of the Malari period.
+    As his coalition constricted, Suharto tightened his personal grip on
+key authoritarian institutions. Initially this took the form of a strength-
+ened alliance with Ali Murtopo and other key associates within ABRI,
+as Benedict Anderson (1978, 16) relates:
+
+Shortly after his re-election, Suharto announced a new Cabinet. Far from
+representing an attempt to widen his shrunken political base, it bore all the
+characteristics of a regime under siege. It contained far more generals than
+its predecessor, and these generals were all members of the old palace clique.
+What new faces emerged were mainly creatures of General Ali Murtopo’s
+intelligence apparatus. . . . For the first time in Indonesia’s history the ministry
+of religion (an old Muslim bailiwick) was given to a general.
+
+   Yet Suharto was not trying to restabilize his regime through pure
+military hegemony. Even as he favored ABRI with prime political
+appointments, Suharto simultaneously started shaping Golkar into a
+sharper infrastructural instrument for rule and reducing its dependence
+on the military. At its 1978 congress following Suharto’s reelection:
+
+The Golkar leadership introduced a policy which stated that the military offi-
+cers on active duty would not be permitted to hold office in Golkar. . . . It was
+also stated by the Golkar leadership that in the future, the chairmanship of
+Golkar supervisors’ councils at the provincial and district levels would not
+
+[p. 154] [PDF page 172]
+
+be held automatically by local military commanders. Some Golkar leaders
+interpreted this as a sign of the “civilianization” process. Interestingly, this
+civilianization process was accompanied by the greater role played by Presi-
+dent Suharto in Golkar. (Suryadinata 1989, 99–100)
+
+    Civilianization was not merely “accompanied,” but driven by
+Suharto’s autocratic turn. Golkar was not gaining decision-making
+influence, but gaining positions through which it could complement
+ABRI as a (well-compensated) weapon for social and political con-
+trol. The quasi-party was trading subservience to the military for sub-
+servience to Suharto.
+    To that end, the 1978 Golkar congress saw Suharto “rig” inter-
+nal procedures to his personal advantage. Within Golkar’s supervi-
+sors’ council, or “actual decision-making body,” Suharto pushed for
+the abolition of the post of deputy supervisor, which had previously
+been held by Indonesia’s vice presidents. When the forty-five-member
+supervisory council was introduced in late 1978, “most of these people
+were loyal supporters of President Suharto. The Murtopo group was
+still rather heavily represented.” In Golkar’s other main body, its exec-
+utive board, Suharto “was also given the right to appoint members of
+the central executive board as well as to suspend the board.” In sum,
+as the daily Kompas editorialized, these strategic rule changes “made
+it very explicit that Suharto was now the actual leader of Golkar”
+(Suryadinata 1989, 58, 100, 101).
+    The political shocks of 1977 and 1978 were also followed by
+Suharto’s invigorated efforts to steer the national economic product
+toward his own hands and those of his very closest allies, in a com-
+bination of packing and circumvention maneuvers. We have already
+seen how in the late 1960s Suharto placed loyalists atop the national
+oil company (Pertamina) and agricultural logistics board (Bulog), per-
+haps Indonesia’s two most lucrative cash cows. Pertamina in particular
+had grown more flush in discretionary revenues with the first OPEC
+oil boom. Now Suharto aimed to consolidate his personal control
+over centralized patronage networks even further. All state banks were
+mandated in 1978 to give 8 percent of their profits to new presidential
+foundations (yayasan) that would provide Suharto with bounteous
+additional sources of discretionary finance in the decades to come
+(Robison and Hadiz 2004, 55). By 1980, Suharto had diverted
+all procurement decisions from mainline economic ministries to the
+
+[p. 155] [PDF page 173]
+
+new “Team 10” within the executive offices of the State Secretariat
+(Sekneg), in a spectacularly lucrative circumvention maneuver. “Over
+the next five years the team’s power would be extended vertically
+through the state apparatus and horizontally across the archipelago,”
+writes Jeffrey Winters. “The resources that passed through Team 10’s
+approval process are mind boggling” (Winters 1996, 130, 134).
+    The institutional rise of Sekneg and Team 10 in the early to mid
+1980s crystallized Suharto’s personal domination of Indonesian pol-
+itics. “Far from being a creature of the military high command, the
+Presidency in Indonesia became a center of power with its own momen-
+tum,” note Richard Robison and Vedi Hadiz. “In administrative terms,
+the rise of the State Secretariat (Sekneg) provided the President with a
+discrete capacity to prepare and plan legislation and to deal with [the]
+Cabinet, the Ministries and with parliament” (Robison and Hadiz
+2004, 48). In this context, “deal with” suggests “handle” rather than
+“negotiate.” Suharto’s despotic gains were ABRI’s loss, as the presi-
+dential office grew into “a formidable institution of state power . . .
+vis-à-vis those competing power centers in the military that had pre-
+viously gravitated around Ali Murtopo and the Ministry of Defense
+under General Benny Moerdani” (Robison and Hadiz 2004, 59).
+    It would be from the presidential office that Suharto’s new right-
+hand man would arise. If Murtopo was Suharto’s main sidekick of the
+1970s, he would be displaced by Sudharmono in the 1980s. Crucially,
+Sudharmono lacked Murtopo’s autonomous base in ABRI, having
+risen to power under Suharto’s thumb as head of Sekneg. “Although
+Sudharmono was a retired general, he had not been accepted by the
+military establishment as a full member,” Leo Suryadinata (1989, 138)
+explains. “Unlike most of the military leaders who were field gener-
+als, Sudharmono was a staff general without battle experience. His
+power base had been in the bureaucracy rather than in the military
+per se.” This made him a more pliable figure than Murtopo, as well
+as a useful balance against Moerdani, the Christian general who had
+accrued something approximating “complete control of the country’s
+fire power” (Sidel 1998, 163). The old Soemitro-Murtopo rivalry was
+being replaced with a Moerdani-Sudharmono power struggle, with
+Suharto standing once again as the prime beneficiary.
+    Indonesian politics after 1978 would be characterized by increasing
+ambiguity as to whether Golkar or ABRI enjoyed the upper hand
+
+[p. 156] [PDF page 174]
+
+as Suharto’s primary political vehicle, alongside decreasing uncer-
+tainty regarding the fact that Suharto was indeed the driver of pol-
+itics. Suharto attempted to deploy ideological ambiguity in his own
+favor as well. In the wake of the PPP’s electoral gains and subsequent
+mass protests, Suharto began to accuse any and all critical groups
+of defying Pancasila, the vague, consensual national ideology intro-
+duced by Sukarno to bridle ideological conflict. During a speech to
+military commanders in May 1980, Suharto condemned the PPP as
+“anti-Pancasila” and declared that “because of the presence of anti-
+Pancasila forces, ABRI would be forced to choose a partner and a
+friend who fully supported Pancasila. It was clear that he was referring
+to Golkar” (Suryadinata 1989, 109). A dissident group led by retired
+generals called the Petition of Fifty emerged in response to Suharto’s
+misuse of Pancasila and apparent intention to convert ABRI into more
+of a bodyguard for Golkar and himself. While the petitioners failed
+to gain political traction, their public dissent exemplified the growing
+alienation between the professional military and the Suharto clique.
+It also illustrated how Suharto’s strategic stress on the importance of
+Pancasila could unintentionally provide his opponents with a discourse
+for dissent that would be difficult to keep in check.
+    Rather than yielding to military concerns about Golkar’s growing
+independence – as he had in 1979 by rejecting Murtopo’s effort to con-
+vert it into a more autonomous cadre party (Suryadinata 1989, 63) –
+Suharto now moved the New Order ever closer to an infrastructural
+party-military balance. After Suharto’s ally Sudharmono captured the
+chairmanship of Golkar unopposed, the 1983 Golkar congress saw
+even more vigorous efforts at packing and rigging the party in Suharto’s
+favor than had been witnessed in 1978. During Sudharmono’s tenure
+as Golkar’s general chairman from 1983 to 1988, “the Suharto gov-
+ernment . . . succeeded in reorganizing Golkar and transforming it into
+a kind of ‘cadre party.’ This was aimed at making the organization a
+more effective political movement under Suharto’s personal control.”
+Suharto and his wife fittingly became Golkar’s first individual cadres
+in 1984. By 1987, after a nationwide recruitment campaign spanning
+urban and rural areas, “Sudharmono was quoted as saying that Golkar
+had twenty-eight million members, of whom approximately nine mil-
+lion were cadres” (Suryadinata 1989, 123, 128).
+
+[p. 157] [PDF page 175]
+
+Golkar’s growing territorial strength and social base worsened ten-
+sions with ABRI in the run-up to the 1987 elections. Suharto added
+fuel to the fire, not only by picking a Golkar figure rather than an ABRI
+man as vice president for the first time, but by selecting Sudharmono,
+his own point man in Golkar’s infrastructural expansion. Meanwhile,
+Moerdani’s star as ABRI commander was on the decline. For his sins
+of opposing Suharto’s appointment of Sudharmono as vice president
+and “complaining about the unrestrained greed of [Suharto’s] chil-
+dren,” Moerdani “was shunted upstairs to the less powerful post of
+defense minister” and eventually “removed from the cabinet entirely”
+(Schwarz 1994, 146). His main institutional power base, Kopkamtib,
+was disbanded. William Liddle (1999, 105) has called Suharto’s sack-
+ing of Moerdani “a defining moment, because from that time on he
+never delegated a significant amount of power to any senior armed
+forces officer.”
+   Yet Moerdani’s fall within ABRI would not be Sudharmono’s gain
+in Golkar – just as Soemitro’s fall within ABRI had not allowed Mur-
+topo to use Golkar as a vehicle for enhancing his personal power
+vis-à-vis Suharto. Infrastructural balance and despotic personalization
+remained of the essence. Hence Sudharmono would crash to earth,
+Icarus-like, when he came too close to the political pinnacle. Soon
+after choosing him as vice president over military objections, Suharto
+derailed Sudharmono’s reelection campaign as Golkar chairman when
+the president “showed his preference for Wahono, an obscure figure
+who was the ex-governor of East Java,” writes Suryadinata. “Many
+observers argued that Wahono was elected because of his close links
+with Suharto and his reputation as a man without political ambitions.
+Once proposed, the sixty-three year old retired general was accepted
+by the delegates of the congress unanimously, indicating the president’s
+power over Golkar” (Suryadinata 1989, 139). Sudharmono’s fall indi-
+cated that even longtime Suharto loyalists would not be entrusted with
+too much concentrated authority near the highest heights of Indone-
+sian politics.
+   Endemic ABRI-Golkar friction in the 1990s gave Suharto leeway to
+channel support and resources to a rapidly shrinking circle of allies.
+What was once a vast coalition degenerated into a narrow clique.
+Suharto famously circumvented Indonesia’s economic institutions to
+
+[p. 158] [PDF page 176]
+
+help his children amass untold personal fortunes. By the mid-1990s,
+the Suharto family comprised “by far the most powerful economic
+dynasty in the country” (Schwarz 1994, 141). In terms of political
+institutions, Suharto’s main shift came with the founding in 1990 of a
+new organization of Islamic elites, ICMI,19 as a counterweight to the
+increasingly unreliable military. As with Golkar under Murtopo and
+Sudharmono, Suharto only favored ICMI through the leadership of
+one of his closest allies, lifetime family friend B. J. Habibie. Yet again,
+the image of civilianization was personalization in practice. Suharto
+was manipulating nonmilitary institutions in an attempt to engineer a
+balanced regime infrastructure under his personal command, not build
+a broad coalition of collective decision makers.
+   ICMI was not designed to gain the despotic power that ABRI had
+lost. Its purpose was to provide Suharto with institutional balance and
+control, not advice and consent. Ascendant ICMI elites hoped to score
+big in the new cabinet introduced in 1993 – even the self-styled “real
+ICMI” members who had been relatively critical of the New Order
+before their incorporation into Suharto’s fold. “But there was no mis-
+taking the disappointment the ICMI modernists felt that the ICMI
+members elevated to cabinet rank were all bureaucrats close to Habi-
+bie. The group that calls itself the ‘real ICMI’ was shut out” (Schwarz
+1994, 183). When wags joked that the “CM” in ICMI stood not for
+Cendekiawan Muslim (Muslim Intellectuals) but Calon Menteri (Min-
+isterial Candidates), they likely realized that ICMI members mostly
+remained candidates and rarely became ministers (Aspinall 2005, 59).
+   Rather than creating ICMI as a partylike device to expand civilian
+access to political influence, Suharto was “bringing the most criti-
+cal ICMI members into the establishment fold with the promise of
+more influence in government decision-making” (Schwarz 1994, 176,
+emphasis added). ICMI member Umar Juoro recognized just how hol-
+low that promise was in a March 1993 interview: “The ‘real ICMI’
+members understand that they can’t become real decision-makers
+in this country until Suharto goes.” In sum, neither Suharto nor
+even Habibie were “at all interested in seeing ICMI evolve into an
+
+19   Ikatan Cendekiawan Muslim Indonesia, or Indonesian Association of Muslim Intel-
+     lectuals.
+
+[p. 159] [PDF page 177]
+
+independent political power.” Adam Schwarz situated ICMI’s political
+role in historical perspective: “Much like Sukarno once looked to the
+communists to counteract unhappy army officers, Soeharto now looks
+to Muslims to play the same balancing role” (1994, 184, 183, 176).
+   At a deeper level, this had always been Golkar’s political plight as
+well. Even in the 1990s, when the old “nephew” of Indonesian political
+institutions had fully grown, Golkar’s station was more to balance the
+ABRI “uncle” than to enjoy influence over the “father,” Suharto. The
+political potentialities of institutional balance were displayed when
+ABRI impudently nominated General Try Sutrisno to replace Golkar’s
+Sudharmono as vice president for Suharto’s sixth term, from 1993 to
+1998. Suharto shrewdly accepted the suggestion, even though most
+analysts believed he preferred his main loyalist, Habibie. But he made
+ABRI pay in other ways. “When Suharto announced his cabinet in
+March 1993, only a few ministers had senior military backgrounds,”
+as it “included more Suharto loyalists and associates of Habibie”
+(Aspinall 2005, 44). The most important ABRI figure left in the cabi-
+net was Edi Sudradjat as minister for defense and security. Yet he too
+would subsequently be sacrificed on Golkar’s institutional altar:
+
+In the approach to the Golkar congress in October 1993, Edi Sudradjat openly
+stated that the organization’s next leader should come from the “big ABRI
+family.” Presumably partly as a result, Suharto sacked Edi as ABRI comman-
+der, after only three months in the position. His replacement, Feisal Tanjung,
+dutifully insisted that the military had no candidate for the Golkar leader-
+ship. . . . Other Golkar leaders seen as sympathetic to military interests were
+also sidelined. The new board contained two of Suharto’s own children and
+several individuals linked to Habibie and ICMI. (Aspinall 2005, 44–45)
+
+   By the mid-1990s, Suharto finally seemed to succeed in packing
+ABRI as thoroughly as he had packed Golkar. The replacement of Edi
+Sudradjat with Feisal Tanjung as ABRI commander effectively purged
+an old Moerdani ally and promoted a Habibie favorite. “Edi’s sud-
+den replacement was only the most dramatic incident in a broad and
+accelerating change in the ABRI leadership that through 1993–94 saw
+many important ‘discontented’ ABRI officers being moved from senior
+posts.” When Suharto’s own son-in-law Prabowo Subianto secured
+a major strategic posting in 1995 immediately after “becoming the
+
+[p. 160] [PDF page 178]
+
+youngest officer to attain the rank of major general” (Aspinall 2005,
+46), Suharto’s personalization of power was essentially complete. As
+one Indonesian brigadier general summed up ABRI’s complete loss of
+despotic power by late 1995:
+
+ABRI is no longer dominant; it is no longer even involved in decision making.
+It is only Suharto who makes the decisions. ABRI is simply the implementer
+of what the government decides. . . . ABRI should be able to correct the gov-
+ernment. Now it can do nothing, and ABRI recognizes it is no more than the
+fire brigade.20
+
+
+Complex Institutions and Contentious Politics: Crisis, Subversion,
+and Opportunism in Regime Collapse, 1996–1998
+Against this backdrop of ABRI and Golkar irrelevance in political
+decision making, one of Indonesia’s most seasoned political observers
+concluded that, after thirty long years of rule, the New Order regime
+“faces no serious inside or outside threat, so long as Suharto remains
+in power” (Liddle 1996, 59). This was at once an astute character-
+ization of the regime’s stability and a foreshadowing of its impend-
+ing instability. Through his very success at sidelining any and all
+potential rivals, Suharto had squandered the New Order’s image as
+a collectivist expression of either ABRI or Golkar interests. Autocracy
+had conquered oligarchy, and everybody recognized it. This made it
+increasingly unclear whether ABRI or Golkar leaders would continue
+to perceive Suharto’s regime as worth defending with coercion and
+violence.
+   The big question thus became whether any organized challenge to
+Suharto could emerge and put his increasingly factionalized and politi-
+cized ruling apparatus to the repressive test. Throughout the 1990s,
+Indonesia’s complex institutions gradually began to serve as avenues
+for political contention from below, and not just as building blocks
+for regime balance from above. In response to Suharto’s founding of
+ICMI and decision to seek a fifth term as elected president, Nahdlatul
+Ulama (NU) leader Abdurrahman Wahid organized “the largest non-
+governmental mass rally held for twenty-five years” in March 1992 –
+a gathering of at least one hundred fifty thousand NU members and
+
+
+20   Roekmini Koesomo Astoeti, quoted in Aspinall (2005, 54).
+
+[p. 161] [PDF page 179]
+
+supporters at Jakarta’s largest sports stadium.21 The rally was held
+ostensibly “to celebrate the organization’s anniversary by publicly reit-
+erating NU loyalty to Pancasila,” as first pronounced in its acceptance
+of Pancasila over Islam as its ideological basis in 1983. Coming less
+than a year after his formation of the elite-level Forum for Democ-
+racy, Wahid clearly meant the rally as a direct challenge to Suharto.
+Making the rally a massive endorsement of Suharto’s own favored
+Pancasila ideology was a masterstroke in multiple respects. Not only
+did it give Wahid breathing space to avoid having NU endorse Suharto
+in the 1992 elections; it also curried favor with anti-Islamist ABRI offi-
+cers, while implying that Suharto’s cultivation of ICMI was itself an
+embrace of Islamist and a betrayal of Pancasila principles.
+   Further uses of New Order institutions against the New Order’s
+founding father were soon to follow. Sukarno’s daughter, Megawati
+Sukarnoputri, captured control of the state-created PDI in 1993 and
+gradually converted the party from Suharto’s major weapon for demo-
+bilizing Sukarno-style populism into Indonesia’s most credible vehi-
+cle for oppositional mass politics. Much as Wahid’s Pancasila gam-
+bit marked the political comeback of NU, Megawati’s rise signaled a
+revival of the social forces that underpinned her father’s old PNI. A
+third creative marriage of pre-Suharto and New Order institutions for
+oppositional purposes emerged with Amien Rais’s meteoric rise within
+both Muhammadiyah and ICMI. As the first leading figure to raise the
+issue of a presidential succession publicly, in 1993, Amien was an espe-
+cially sharp thorn in Suharto’s side. Before being pressured to resign
+from ICMI in 1997, Amien used his protected position in Suharto’s pet
+Islamic institution to give modernist Muslims an independent politi-
+cal voice they had largely lacked since the banning of Masyumi four
+decades before.22
+   These three institutionally ensconced figures would serve as power-
+ful elite focal points for growing mass opposition to Suharto after the
+Asian financial crisis rocked Indonesia in late 1997 and early 1998.
+While analysts typically portray the economic crisis as the major cause
+of the political crisis, it is only by understanding the severity of the
+
+
+21   All quotes and insights in this paragraph are drawn from Ramage (1995, 58).
+22   The predominantly rural constituency of NU is typically described as “traditionalist,”
+     while Muhammadiyah’s more urban base has long been depicted as “modernist.”
+
+[p. 162] [PDF page 180]
+
+Suharto regime’s “political involution” that one can comprehend the
+scale of the economic collapse itself (Sidel 1998, 178). The complete
+absence of any veto players able to check and calibrate the day-to-day
+recalculations of “an unconstrained presidency” produced “severe pol-
+icy volatility” and snowballing investor panic (MacIntyre 2001, 116).
+Far from responding to the crisis with political magnanimity, Suharto
+revealed more brazenly than ever that when it came to sharing despotic
+power, his sultanistic regime had no clothes. After securing another
+manipulated electoral victory in late 1997, Suharto selected Habibie
+as his vice president, despite Habibie’s long-standing unpopularity in
+ABRI and in much of Golkar. In March 1998, Suharto unveiled a
+cabinet that “had the narrowest representation of elite opinion yet
+under the New Order” (Aspinall 2005, 221), with even his widely
+despised eldest daughter attaining ministerial rank. Each tightening
+of the despotic screws worsened the market panic. As his coalition
+withered, Suharto reassigned his son-in-law Prabowo to the main mil-
+itary command in Jakarta, banking on family loyalty to keep the most
+important working part in his regime infrastructure operational.
+    Having divided ABRI to conquer it, Suharto possessed only a
+divided coercive apparatus to conquer his opponents. Despotic manip-
+ulations finally produced devastating infrastructural decay. When units
+loyal to Prabowo rather than ABRI commander Wiranto opened fire
+on demonstrating university students in Jakarta, peaceful protests and
+violent riots mushroomed in scale and scope. The regime’s institu-
+tional complexity had long incubated and now suddenly revealed mul-
+tiple sites of internal opportunism and subversion, as even Golkar’s
+chairman publicly called on Suharto to resign to restore social peace.
+And in a final institutional irony, tens of thousands of university stu-
+dents occupied parliament to demand Suharto’s resignation. Unlike the
+handpicked New Order inhabitants of that “decision-making” insti-
+tution, the students had not come to parliament to sit down, stay
+silent, and get paid. They had come to return decision-making power
+to the Indonesian people and their freely elected representatives. By
+occupying a legitimate institutional site for New Order politics, the
+students signaled to ABRI that they were subversives, not insurrec-
+tionaries, seeking to play by the rules to change them.23 Having lost
+
+23   One might reasonably argue – in line with Mahoney and Thelen’s Table 1.4 – that
+     Suharto’s overthrow by opportunists and subversives rather than by insurrectionaries
+
+[p. 163] [PDF page 181]
+
+all of its despotic power to Suharto, the military would have little to
+gain by using its infrastructural power against the students to prevent
+his sultanistic regime’s collapse.
+
+Conclusion
+
+Historical legacies and agentive strategies both loomed large in the
+institutional evolution of Indonesia’s New Order. Yet from the per-
+spective of our leading theories of institutional origins and change,
+these factors did not play their starring roles entirely at the expected
+times. Purely deductive theories of authoritarian institutions resting on
+comparative statics fail to capture the extent to which such institutions
+are inherited as well as chosen; the path-dependent model of institu-
+tional development often fails to capture how little choice and agency
+may matter during the critical juncture of a regime’s founding moment;
+and neither of these types of institutionalist analysis is especially effec-
+tive at apprehending situations in which multiple institutions coexist
+and exhibit considerable ongoing friction.
+   Agency ironically appears to have become more important as the
+New Order’s institutions ostensibly solidified. At moments of rising
+coalitional strain, Suharto faced the choice of ruling through collective
+military hegemony, or through the balancing of military and civilian
+institutions in pursuit of autocratic political domination. He chose
+the latter approach. Instead of displacing parties entirely or privileging
+them in a manner that would have converted military into civilian rule,
+Suharto attempted to strip existing parties of all subversive elements
+while bringing military and civilian institutions into an ambiguous
+balance over which he was the solitary master. It is impossible to
+say with confidence whether this made the New Order endure longer
+than it would have lasted had Suharto chosen to continue prioritizing
+the military over Golkar. What is clear is that institutional complex-
+ity facilitated gradual institutional change, even as the regime as a
+whole remained remarkably stable for over three decades. In the final
+analysis, however, the same complexity that Suharto had exploited to
+outmaneuver would-be challengers had also empowered subversives
+
+  meant that democratic transition would amount to a partial conversion or the adding
+  of a new layer to New Order institutions, and not to their complete displacement.
+  See Robison and Hadiz (2004) and Slater (2004) for more on authoritarian legacies
+  in post-Suharto Indonesia.
+
+[p. 164] [PDF page 182]
+
+and opportunists whose actions – or inaction – amid rising protests
+contributed decisively to Suharto’s downfall.
+   At a conceptual level, the dynamics of authoritarian institutions
+have, I hope, been illuminated by this chapter’s distinction between
+despotic and infrastructural institutions. Personalization deprives
+party and military institutions of despotic power by definition.
+Whether it affects a regime’s infrastructural power – a more press-
+ing matter for regime stability – remains a distinct empirical question.
+The contrast between an institutionally complex authoritarian regime
+such as Indonesia and regimes in which either party hegemony (as in
+Malaysia) or military hegemony (as in Burma) is unambiguous sug-
+gests that personalization will not induce regime brittleness unless it
+compromises the cohesion of party and military institutions or exac-
+erbates tensions between them.24 Unless we include infrastructural
+arrangements in our institutional typology of authoritarian regimes,
+such important research questions will be hidden from view.
+   Perhaps above all else, the analysis here has provided an explana-
+tion for institutional change that continues to take institutional sta-
+bility seriously. It has consistently treated “institutional stability as a
+political problem and a dynamic political outcome.”25 Like democratic
+institutions, authoritarian institutions are stable enough to matter, but
+not so stable that path dependence can carry the entire explanatory
+load. Whether studying democratic or authoritarian politics, politi-
+cal scientists should take note of the importance of historical legacies
+in structuring institutional choice;26 of infrastructural institutions in
+shaping political performance and stability;27 and of institutional com-
+plexity in facilitating creative institutional change, both from above
+and from below. Especially when institutions are multiple and exhibit
+considerable friction, agency can escape history’s “bookends” and
+help write the ongoing saga of institutional evolution itself (Thelen
+2004, 37).
+
+
+24 Slater (2003, 2005). See also Snyder (1992).
+25 Mahoney and Thelen (this volume).
+26 Slater and Simmons (Forthcoming).
+27 One landmark study of democratic institutions distinguishes formulation and imple-
+
+   mentation in much the same terms as this essay does: “Institutions are devices for
+   achieving purposes, not just for achieving agreement. We want government to do
+   things, not just decide things” (Putnam 1993, 8; emphasis in original).
+
+[p. 165] [PDF page 183]
+
+References
+Anderson, Benedict. 1978. “Last Days of Indonesia’s Suharto?” Southeast
+  Asia Chronicle 63 (July-August): 2–17.
+Anderson, Benedict R. O’G. 1983. “Old State, New Society: Indonesia’s New
+  Order in Comparative Historical Perspective.” Journal of Asian Studies 42
+  (3) (May): 477–496.
+Anderson, Benedict R. O’G. 1999. “Indonesian Nationalism Today and in the
+  Future.” Indonesia 67 (April), pp. 1–11.
+Aspinall, Edward. 2005. Opposing Suharto: Compromise, Resistance, and
+  Regime Change in Indonesia. Stanford, CA: Stanford University Press.
+Brownlee, Jason. 2007. Authoritarianism in an Age of Democratization. New
+  York: Cambridge University Press.
+Chehabi, H. E., and Juan J. Linz, eds. 1998. Sultanistic Regimes. Baltimore:
+  Johns Hopkins University Press.
+Clemens, Elisabeth S., and James M. Cook. 1999. “Politics and Institution-
+  alism: Explaining Durability and Change.” Annual Review of Sociology
+  25:441–466.
+Crouch, Harold. 1978. The Army and Politics in Indonesia. Ithaca, NY:
+  Cornell University Press.
+Gandhi, Jennifer, and Adam Przeworski. 2007. “Authoritarian Institutions
+  and the Survival of Autocrats.” Comparative Political Studies 40 (11)
+  (November): 1279–1301.
+Geddes, Barbara. 1999a. “Authoritarian Breakdown: Empirical Test of a
+  Game Theoretic Argument.” Paper presented at the annual meetings of
+  the American Political Science Association, Atlanta.
+Geddes, Barbara. 1999b. “What Do We Know About Democratization After
+  Twenty Years?” Annual Review of Political Science 2:115–144.
+Hadenius, Axel, and Jan Teorell. 2007. “Pathways from Authoritarianism.”
+  Journal of Democracy 18 (1) (January): 143–156.
+Honna, Jun. 2003. Military Politics and Democratization in Indonesia. New
+  York: Routledge Curzon.
+Huntington, Samuel P. 1968. Political Order in Changing Societies. New
+  Haven: Yale University Press.
+Huntington, Samuel P. 1991. The Third Wave: Democratization in the Late
+  Twentieth Century. Norman: University of Oklahoma Press.
+Kasza, Gregory J. 1995. The Conscription Society: Administered Mass Orga-
+  nizations. New Haven: Yale University Press.
+Kerkvliet, Benedict J. Tria. 2005. The Power of Everyday Politics: How Viet-
+  namese Peasants Transformed National Policy. Ithaca, NY: Cornell Univer-
+  sity Press.
+Liddle, R. William. 1996. “Indonesia: Suharto’s Tightening Grip.” Journal of
+  Democracy 7 (4) (October): 58–72.
+Liddle, R. William. 1999. “Indonesia’s Democratic Opening.” Government
+  and Opposition 34 (1) (January): 94–116.
+
+[p. 166] [PDF page 184]
+
+Lipset, Seymour Martin, and Stein Rokkan. 1990 [1967]. “Cleavage Struc-
+  tures, Party Systems, and Voter Alignments.” In The West European Party
+  System, ed. Peter Mair, 91–138. Oxford: Oxford University Press.
+MacIntyre, Andrew. 2001. “Institutions and Investors: The Politics of the Eco-
+  nomic Crisis in Southeast Asia.” International Organization 55 (1) (Winter):
+  81–122.
+Magaloni. Beatriz. 2006. Voting for Autocracy: Hegemonic Party Survival and
+  its Demise in Mexico. New York: Cambridge University Press.
+Mann, Michael. 1988. States, War and Capitalism: Studies in Political Sociol-
+  ogy. Cambridge: Basil Blackwell.
+Migdal, Joel S. 2001. State in Society: Studying How States and Societies
+  Transform and Constitute One Another. New York: Cambridge University
+  Press.
+North, Douglass C. 1990. Institutions, Institutional Change, and Economic
+  Performance. Cambridge: Cambridge University Press.
+Padgett, John F., and Christopher K. Ansell. 1993. “Robust Action and the
+  Rise of the Medici, 1400–1434.” American Journal of Sociology 98 (6)
+  (May): 1259–1319.
+Putnam, Robert. 1993. Making Democracy Work: Civic Traditions in Modern
+  Italy. Princeton: Princeton University Press.
+Ramage, Douglas E. 1995. Politics in Indonesia: Democracy, Islam and the
+  Ideology of Tolerance. New York: Routledge.
+Robison, Richard. 1986. Indonesia: The Rise of Capital. Sydney: Allen &
+  Unwin.
+Robison, Richard, and Vedi R.Hadiz. 2004. Reorganizing Power in Indonesia:
+  The Politics of Oligarchy in an Age of Markets. London: Routledge Curzon.
+Schwarz, Adam. 1994. A Nation in Waiting: Indonesia in the 1990s. Boulder,
+  CO: Westview.
+Sheingate, Adam D. 2003. “Political Entrepreneurship, Institutional Change,
+  and American Political Development.” Studies in American Political Devel-
+  opment 17 (Fall): 185–203.
+Sidel, John T. 1998. “Macet Total: Logics of Circulation and Accumulation in
+  the Demise of Indonesia’s New Order.” Indonesia 66 (October): 159–194.
+Sidel, John T. 2006. Riots, Pogroms, and Jihad: Religious Violence in
+  Indonesia. Ithaca, NY: Cornell University Press.
+Slater, Dan. 2003. “Iron Cage in an Iron Fist: Authoritarian Institutions and
+  the Personalization of Power in Malaysia.” Comparative Politics 36 (1)
+  (October): 81–101.
+Slater, Dan. 2004. “Indonesia’s Accountability Trap: Party Cartels and Presi-
+  dential Power after Democratic Transition.” Indonesia 78 (October): 61–92.
+Slater, Dan. 2005. “Ordering Power: Contentious Politics, State-Building, and
+  Authoritarian Durability in Southeast Asia.” PhD diss., Emory University.
+Slater, Dan, and Erica Simmons. Forthcoming. “Informative Regress: Critical
+  Antecedents in Comparative Politics.” Comparative Political Studies.
+
+[p. 167] [PDF page 185]
+
+Smith, Benjamin. 2007. Hard Times in the Lands of Plenty: Oil Politics in
+  Iran and Indonesia. Ithaca, NY: Cornell University Press.
+Snyder, Richard. 1992. “Explaining Transitions from Neopatrimonial Dicta-
+  torships.” Comparative Politics 24 (4) (July): 379–399.
+Suryadinata, Leo. 1989. Military Ascendancy and Political Culture: A Study of
+  Indonesia’s Golkar. Southeast Asia Series, No. 85. Athens: Ohio University
+  Monographs in International Studies.
+Thelen, Kathleen. 2004. How Institutions Evolve: The Political Economy
+  of Skills in Germany, Britain, the United States, and Japan. New York:
+  Cambridge University Press.
+Tsai, Kellee S. 2006. “Adaptive Informal Institutions and Institutional Change
+  in China.” World Politics 59 (October): 116–141.
+Wedeen, Lisa. 1999. Ambiguities of Domination: Politics, Rhetoric, and Sym-
+  bols in Contemporary Syria. Chicago: University of Chicago Press.
+Winters, Jeffrey A. 1996. Power in Motion: Capital Mobility and the Indone-
+  sian State. Ithaca, NY: Cornell University Press.

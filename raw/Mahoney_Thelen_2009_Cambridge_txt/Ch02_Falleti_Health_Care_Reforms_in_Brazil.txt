@@ -1,0 +1,1090 @@
+Explaining Institutional Change: Ambiguity, Agency, and Power
+Edited by James Mahoney and Kathleen Thelen
+First published in print: 2009 | Copyright: 2010 | Cambridge University Press
+
+Chapter 2: Infiltrating the State: The Evolution of Health Care Reforms in Brazil, 1964–1988
+Tulia G. Falleti
+Original print pages 38–62; PDF pages 56–80
+
+[English original. Chapter footnotes and references are retained in their original page positions. Print page markers and one-based PDF page numbers are provided. Original line breaks and fixed-width table layout are retained; verify diagrams and exact typography against the PDF.]
+
+
+========================================================================
+Chapter text, footnotes, and references
+========================================================================
+
+[p. 38] [PDF page 56]
+
+2
+
+Infiltrating the State
+
+The Evolution of Health Care Reforms
+in Brazil, 1964–1988
+
+       Tulia G. Falleti
+
+
+
+
+       Policy in Brazil changes by accretion rather than by substitution.
+                                                          Schmitter 1971, 256
+
+
+In the last two decades, Brazil’s health care system has undergone two
+major transformations: universalization and municipalization. Prior
+to 1988, the administration of the health care system was centralized
+in the federal government. The member states and the municipalities
+had a minimal role in the management and delivery of health care.
+National funding was channeled, via contracts, to the private sector,
+and inequalities in the provision of services were pervasive. A large
+portion of the population did not have access to health care, either
+because they were uninsured or because there were no health facilities
+in the areas where they lived.
+   Two decades later the system has been radically reconfigured. In
+the new health care system, coverage is universal, access is free, public
+
+
+I am indebted to Jennifer Amyx, Marta Arretche, Marie Gottschalk, Desmond King, Ian
+Lustick, Julia Lynch, James Mahoney, Quinton Mayne, Paul Pierson, Jonas Pontusson,
+Celina Souza, Kathleen Thelen, Luis Enrique Urtubey De Césaris, Kurt Weyland, and
+the participants at the conference “Explaining Institutional Change: Ambiguity, Agency,
+and Power in Historical Institutionalism” (Northwestern University, October 26–27,
+2007), at the University of Pennsylvania Comparative Politics Workshop (January 31,
+2008), and at the Princeton’s Comparative Politics Research Seminar (April 29, 2008)
+for their helpful comments. I am also thankful to the University of Pennsylvania Research
+Fund and the Christopher Browne Center for International Politics at the University of
+Pennsylvania for generous financial support that funded this research.
+
+[p. 39] [PDF page 57]
+
+services are integrated, and the delivery of health care is decentralized.
+The private sector continues to exist alongside the public sector, but
+its importance as a contractor for the public system has diminished
+significantly. The Brazilian states and some of the large municipali-
+ties are responsible for high-complexity health services, and all of the
+municipalities – more than fifty-five hundred in total – deliver basic
+health care services.
+    This development is puzzling in light of existing theories that all
+point to insurmountable political barriers to universalization in a con-
+text such as Brazil. Several features of the previous system should
+have dampened efforts in this direction. In particular, the fact that a
+sizeable portion of the public enjoyed private-sector coverage should
+have narrowed the political coalition for reform. In addition, the ini-
+tial national public insurance programs were focused on “residual”
+populations, who lacked the political clout to push for the extension
+of such programs. Moreover, since 1964, the military government had
+made great strides in building a private medical industry. From a com-
+parative standpoint, the political barriers to universalization of health
+seemed insurmountable (see Hacker 1998, 127–128).
+    Why and how did Brazil achieve universalization of health care
+despite the prior institutional evolution of its health care system?
+Most scholars invoke a critical-juncture explanation, identifying polit-
+ical “break points” or economic crisis as having provided the sol-
+vent that unhinged the old system and opened the door for some-
+thing new. The most prominent such account points to the constitu-
+tional reform of 1988, in the midst of Brazil’s democratic transition
+after a two-decade-long military regime (1964–1985) (Kaufman and
+Nelson 2004, 44). According to this approach, the health care reforms
+were possible when the political opportunity structure changed; this
+occurred during an exceptional period of political opening that led to
+the relaxation of the institutional and political constraints set in place
+by the prior development of the health care system. In this interpre-
+tation, the constitutional convention of 1987–1988 was one of these
+rare and short-lived episodes when the opportunities for fundamen-
+tal change of so-called locked-in institutional arrangements occurred.
+Another group of scholars locates the origins of the reforms in the eco-
+nomic crisis of the early 1980s, which created incentives to restructure
+the economically troubled social security system that provided health
+
+[p. 40] [PDF page 58]
+
+services (Draibe 1994, 276, 285; Lewis and Medici 1998, 270). Similar
+to the prior account, this explanation considers the economic crisis to
+be the critical juncture that produced the institutional changes.
+   These explanations are shortsighted, however. In this chapter, I
+show that the health reforms introduced in Brazil’s 1988 constitution
+and implemented throughout the 1990s were not the result of a critical
+juncture (either political or economic). Instead, they were the result of
+gradual changes – beginning long before the transition to democracy –
+through which actors on the periphery of the existing system were able
+to introduce incremental changes through processes of what the editors
+of this volume call “layering.” The crucial opening for the strategies
+of these “subversives” was provided by the military, which in the
+1970s introduced heath care reforms that were designed to solidify
+authoritarian rule by extending the state’s presence to the countryside.
+The military was interested in the state’s territorial expansion to the
+peripheral areas of the North and Northeast, where it had practically
+had no presence. The regime was also interested in taming the social
+and political demands of an increasingly active rural movement. In
+an effort to legitimate its domination and co-opt rural activists, the
+military government extended health care to those employed in the in-
+formal economy (the majority of the rural population) and to the
+unemployed.
+   These efforts provided an opening for leftist health care organiza-
+tions, those of the movimento sanitário (henceforth, the sanitarista
+movement), to put in practice on a broader scale models of preventive
+and public social medicine that they had been promoting in isolated
+pockets, mostly southern municipalities ruled by the opposition. In
+short, the penetration of society by the authoritarian state facilitated
+the infiltration of the state by reformist elements in society. Moreover,
+strengthened by a gradual process of political opening and democrati-
+zation, the sanitarista movement increasingly imprinted its ideological
+orientation in the health reforms that unfolded after 1976. The reforms
+of 1985 merely revealed – but also codified and institutionalized – the
+principles of universalism and decentralization that had already been
+promoted to dominance by the actions of these “subversives” who
+were able to operate on the periphery and within the logic of the
+existing system, although in ways that gradually altered its trajectory.
+
+[p. 41] [PDF page 59]
+
+Penetrating Society: The Military Integration of Health Services
+and the Extension of Coverage
+
+Prior to 1988, health care services were organized in three subsystems:
+the private sector, the public sector, and the social security sector.
+The private sector covered 20 percent to 30 percent of the popula-
+tion through medicine groups, cooperatives, self-management plans,
+or private health insurance. Most important, however, the social secu-
+rity subsystem contracted the private health sector to provide services
+(expensive hospitalizations, in particular) to their members. In the
+public sector, health had evolved as a responsibility of the central
+government, focused on vaccination campaigns and the control of epi-
+demic outbreaks. The National Ministry of Health, created in 1953,
+was poorly funded and was only responsible for preventive and some
+chronic care (Lobato and Burlandy 2000).
+   The social security sector was the largest of the three subsystems. It
+had originated in the 1920s, when the first social insurance funds were
+formed by industry and provided invalidity, retirement, and survivors’
+pensions, as well as medical assistance and funeral aid for industry
+workers. In 1953, Brazil’s populist president Getulio Vargas envisioned
+the social security system as one of the three main pillars (together with
+the unions and the labor courts) of the state-corporatist arrangement.
+To this end, he merged the proliferating industry funds into seven social
+security institutes organized by sector of the economy. These institutes
+were funded through compulsory contributions from employers and
+employees, and although the state was supposed to contribute funds
+as well, state contributions over time did not amount to much more
+than the administrative costs of the institutes (Malloy 1979, 70, 127,
+135–136).1
+
+
+1   The social security institutes were autarchic public entities under the supervision of
+    the Ministry of Labor, Industry, and Commerce. They were managed by a president
+    appointed by the President of the Republic and a council, of four to eight members,
+    where employers and employees were equally represented. After 1953, the resulting
+    Institutes of Retirement and Pensions (Institutos de Aposentadorias e Pensões, IAPs)
+    were the institute of workers in railway and public services (IAPFESP), of banking
+    workers (IAPB), of commerce (IAPC), of industry (IAPI), of maritime (IAPM), of
+    transport and hauling (IAPETC), and of civil servants (IPASE) (Malloy 1979, 97–98).
+
+[p. 42] [PDF page 60]
+
+Despite prior corporatist inducements, the social security sector cov-
+ered only 7.4 percent of Brazil’s population in 1960, and 9 percent in
+1970 (Malloy 1979, 68, 95; Weyland 1996, 89). The rural sector, the
+urban self-employed, and the intermittently employed remained unin-
+sured (Malloy 1979, 68; McGuire forthcoming, ch. 6). High inequali-
+ties in the provision of health services plagued the system, both in the
+type and the quality of services provided by the different institutes, as
+well as in the services available to the populations of different regions
+of the country.2
+   There had been prior attempts to extend social security coverage
+and reduce inequalities. In the 1940s, inspired by Britain’s Beveridge
+Report, technocrats of the industrial workers’ institute (IAPI) had
+called for equal and universal social protection (Oliveira and Teixeira
+1986, 172–180; Weyland 1996, 90). The politicians’ incentives to
+modify the system, however, were quite low, since literacy restrictions
+on the vote (in place until 1985) rendered much of the rural population
+and the urban poor irrelevant for electoral purposes.3 In 1945, Vargas
+tried to unify the entire social security system, but the health insti-
+tutes’ bureaucracies and the unions opposed the measure, which was
+never implemented (Oliveira and Teixeira 1986, 157; Luna and Klein
+2006, 203).4 The social insurance institutes had become important
+
+2 The system was set up such that the institutes would provide their members with
+  medical services only after other obligations had been met. Hence, the funds with
+  higher per capita income members and fewer claims for sickness and invalidity could
+  support better medical schemes. Large numbers of those workers often employed in
+  unhealthy and dangerous jobs received the worst system of health care. Thus, the IAPB
+  (banking sector), with about 153,000 affiliates in 1960, provided the best medical
+  care, whereas the IAPI (industrial workers), with over 2.1 million affiliates, had the
+  worst (Malloy 1979, 102, 110–111). These inequalities were compounded by the
+  regional distribution of all the health services and facilities (public, social insurance,
+  and private), which favored the urban areas of the Southeast, where physicians and
+  hospital beds were concentrated at considerably higher per capita rates than in the rest
+  of the country. In 1970, for example, there were 7.4 doctors per 1,000 inhabitants
+  in the Southeast, compared to 2.3 and 2.4 doctors in the states of the North and
+  Northeast, respectively. Similarly, there were 5.4 hospital beds per 1,000 inhabitants
+  in the Southeast, compared to ratios of 2.8 in the North and 1.9 in the Northeast
+  (Malloy 1979, 111).
+3 The political support of traditional rural bosses, or coroneis, was sufficient for the
+
+  delivery of rural votes (on coronelismo, see Nunes Leal 1997, 275–287).
+4 It was decree-law No. 7526 (Lei Orgânica dos Serviços Sociais do Brasil) that tried to
+
+  unify all the social security health institutes (IAPs) and replace them with the Institute
+  of Social Services (Instituto de Serviços Sociais do Brasil, ISSB).
+
+[p. 43] [PDF page 61]
+
+sources of power both for politicians linked to organized labor and for
+union leaders, who wanted to preserve the institutes’ current structure
+(Malloy 1977, 198–199; 1979, 73). Also opposed to the integration
+of the social security system were the managers and technocrats of the
+other social security institutes, who had historically been committed
+to a contributory system of financing (i.e., services provided only to
+those who contribute) and were concerned that it would be financially
+unviable to cover the large mass of the poor (Weyland 1996, 90).
+    The health system remained little changed until the military regime
+came to power in 1964. Under the military, the social security subsys-
+tem was integrated and coverage was extended, privileging contracts
+with the private sector whenever possible. As a means of reducing
+the power of organized urban labor, General Humberto de Alencar
+Castelo Branco (1964–1967) unified all the social security institutes in
+a single institute, the National Institute of Social Insurance (Instituto
+Nacional de Previdência Social, INPS), and replaced their “political”
+presidents and councils with “apolitical” technocrats. In doing so, the
+military regime cut one of the labor movement’s most vital institutional
+pillars of power. This reform, which had been tried in democratic peri-
+ods but had failed because of the unions’ opposition, was, from the
+standpoint of services, an equalizing reform. All workers in the private
+urban economy would have the same social security and health ben-
+efits. However, inequalities persisted: the public servants and military
+personnel remained in separate funds with higher levels of privileges,
+and the poor in the informal sector of the economy remained excluded
+(Malloy 1979, 134; Weyland 1996, 90).
+    In 1971, during its most repressive phase (the presidency of Emı́lio
+Médici, 1969–1974), the military government granted social security
+and health coverage to the rural population, the unemployed, and
+the self-employed through the Assistance Fund for Rural Workers
+(Fundo de Assistência ao Trabalhador Rural, FUNRURAL). Respond-
+ing to pressure from a radicalized rural movement (Erickson 1977), a
+program with the same name had been created under President João
+Goulart (1961–1964), but, lacking significant funds, that program was
+never implemented (Malloy 1979, 120, 200–201). The military now
+financed FUNRURAL with sound taxes on agricultural wholesalers
+and on urban firms’ payrolls. Almost overnight, the proportion of the
+population legally covered by social insurance increased from 9 percent
+
+[p. 44] [PDF page 62]
+
+to 90 percent (McGuire forthcoming, ch. 6). To be sure, the quality
+of the services and pensions for the rural population was significantly
+lower than that of the urban population. And the total resources of
+FUNRURAL were still only one-tenth of the resources of the preexist-
+ing system of social insurance for organized urban labor (INPS), even
+though they served populations of roughly equal size (Malloy 1979,
+134). Nonetheless, FUNRURAL was “the most important redistribu-
+tive change ever made in Brazilian social security” (Weyland 1996, 91).
+Furthermore, as McGuire explains, “FUNRURAL was the first Brazil-
+ian social insurance program to break with the [contributory] principle
+that benefits depended on contributions” (forthcoming, ch. 6).
+   Why did the most repressive government of the military period
+advance such an important redistributive reform? Two reasons are
+apparent. On the one hand, the military regime implemented this
+reform as a means of taming and co-opting rural activism. In the early
+1960s, political turbulence and organization proliferated in the rural
+areas, particularly in the Northeast.5 This mobilization was perceived
+as a populist challenge on behalf of former President Goulart. FUN-
+RURAL was meant to stem social discontent among the rural popula-
+tion and to slow down the worrying trend of rural-urban migration.6
+In the classic state-corporatist tradition, the military regime co-opted
+the moderate National Confederation of Workers in Agriculture (Con-
+federação Nacional dos Trabalhadores na Agricultura, CONTAG)
+and entrusted the administration of FUNRURAL to this organization,
+while quashing the radical elements of the rural movement.7
+   On the other hand, the military sought to use FUNRURAL to
+extend the presence of the nation-state in the remote rural areas of the
+North and Northeast, deemed necessary for national security reasons.
+The military was informed by a comprehensive doctrine of national
+security, which linked the full realization of the nation’s human and
+
+5 Independent rural organizations, the so-called peasant Leagues, had formed in the
+  1950s and 1960s, aided by either the Catholic Church or the Communist Party (Flynn
+  1978, 261). Some of the Leagues radicalized to the point of becoming involved in
+  guerrilla warfare.
+6 In 1960, 55% of Brazil’s population lived in rural areas, but by 1980 this percentage
+
+  had decreased to 32% (Houtzager and Kurtz 2000, 402–403).
+7 Of all the northeastern organizations, the radical peasant Leagues suffered the greatest
+
+  number of prisoners and political murders after the coup of 1964 (Moraes 1970, 496;
+  Malloy 1979, 131).
+
+[p. 45] [PDF page 63]
+
+economic potential to the primordial quest for military security and
+national grandeur (Stepan 1971, 131; Malloy 1979). By creating a
+system of social insurance coverage for the agricultural population,
+and conferring its administration on an organization (CONTAG) that
+it could control, the military aimed to extend the reach of the nation-
+state in the North and Northeast and at the same time penetrate and
+co-opt the rural workers’ organizations.
+    However, in its move to integrate and expand the health care system,
+the military regime privileged the private health sector. The extension
+of health coverage largely took place through the expansion of pri-
+vate health services (Lewis and Medici 1998, 281). Whereas in 1960,
+14 percent of all hospital beds were in the private sector, by 1976 this
+percentage had increased to 73 percent (Lobato and Burlandy 2000;
+McGuire forthcoming, ch. 6). Moreover, when emergency treatment
+was extended to the uninsured in 1974, the number of “emergencies”
+treated by private hospitals grew beyond all expectations (Weyland
+1996, 96–97).8
+    The promotion of the private health sector was further facilitated
+by a social security reform introduced in 1977, in which the mili-
+tary separated the pension and the health care components of social
+security. The National Institute for Medical Assistance in Social Secu-
+rity (Instituto Nacional de Assistência Médica da Previdência Social,
+INAMPS) was created to coordinate the health care services of the
+social security system, and this organization instantly became one of
+the main channels for the transfer of public resources to the private
+sector.9 Above all else, INAMPS institutionalized a high-cost, spe-
+cialized, curative, hospital-based health care system concentrated in
+the profitable regions of the country (Arretche 2004, 161; McGuire
+
+
+8 In 1978, the president of INPS recognized that there had been six hundred thousand
+  unnecessary hospitalizations in the four years since emergencies had become covered
+  by the Ministry of Social Insurance and Welfare (Escorel 1999, 55).
+9 The INAMPS reimbursed doctors on a fee-for-service basis. Because office visits were
+
+  reimbursed at a lower rate relative to cost than were diagnostic tests and hospital
+  stays, there was an upsurge in hospital stays and unnecessary medical procedures.
+  The INAMPS practice of paying higher fees for cesarean births, for example, led to an
+  estimated 186,000 unnecessary cesarean deliveries in 1979. In 1986, 32% of all births
+  in Brazil, and 64% among high-income groups in São Paulo, were by cesarean section –
+  compared to the 10 to 15% rate recommended by the World Health Organization
+  (McGuire forthcoming, ch. 6).
+
+[p. 46] [PDF page 64]
+
+forthcoming, ch. 6). Since the creation of this new overarching institu-
+tion superseded and absorbed FUNRURAL, President Ernesto Geisel
+(1974–1979) passed the reform over the opposition of the organi-
+zation of agricultural workers (CONTAG) that the government had
+previously co-opted to administer the rural program.
+    By the late 1970s, then, despite the integration of the social secu-
+rity institutes and the extension of coverage to a large portion of the
+population, the institutional conditions were inauspicious for univer-
+salization and municipalization. First, as in the United States, a system
+of national health insurance had not been enacted but a sizeable por-
+tion of the population was serviced by the private sector. Second, the
+first nationalized insurance program, FUNRURAL, reached a substan-
+tial portion of the population but it represented less than one-tenth of
+the social security subsystem – existing as it did alongside the previous
+industry-based programs for the urban working population. In this
+sense, it was a “residual” portion of the health care system. Finally, as
+they expanded coverage to the informal workers and the unemployed
+and universalized emergency treatment, the military governments
+made great strides forward in building a private medical industry.
+    However, as we shall now see, these moves by the military toward
+integration of the health system and the extension of free coverage to
+previously peripheral constituencies were consequential to later reform
+proposals. Moreover, the military regime’s efforts at penetrating soci-
+ety in order to control it paradoxically rendered the authoritarian state
+more permeable and easier to infiltrate by a reformist movement.
+
+
+Infiltrating the Authoritarian State: The Sanitarista Movement’s
+Reorientation of Health Care Reforms
+
+During the military regime, a well-organized and leftist reformist health
+care movement was able to penetrate the state bureaucracy, build on
+the reforms introduced by the military, and redirect those reforms
+toward new objectives. Like the military, the reformist movement
+promoted integration of the health system and extension of cover-
+age. However, unlike the military, the movement sought to strengthen
+the public sector and decentralize the delivery of health services to
+the municipalities. Aided by the federal structure of Brazil’s govern-
+ment, members of this leftist sanitarista movement were able to occupy
+
+[p. 47] [PDF page 65]
+
+key positions in the health sector: in municipal opposition govern-
+ments, in some national health offices, and in the Panamerican Health
+Organization (Neto 1997, 63). From those positions, they either built
+on existing programs or promoted new ones, guided by the movement’s
+ideology, this is to say, by the movement’s definitions of public health
+goals, by their conceptions of bureaucratic and political means, and
+by their policy agendas. In a sense, the sanitarista movement acted as
+an “ideological guerrilla,” as part of a “subversive elite,” “one whose
+members share[d] beliefs about the nature of politics and economics
+which differ[ed] from those usually defined as belonging to the [power]
+elite” (Adler 1986, 704–705).
+    The sanitarista movement originated in the developmental period
+of the early 1960s, during the left-leaning government of President
+Goulart. The movement stressed preventive over curative care and
+understood health to be a universal human right tied to citizens’ socioe-
+conomic living conditions. Health, the sanitaristas claimed, could not
+be disentangled from access to decent housing, education, and employ-
+ment (CEBES 1980; Ministério da Saúde 1986a). Unlike the sani-
+tarismo campanhista (the rural sanitarista tradition) of the pre-1930
+“Old Republic” (Paiva 2006), the developmentalist sanitarista move-
+ment opposed centralization of resources and decision making, and
+advocated for municipalization of health. Municipalization, the sani-
+taristas argued, would bring basic health care to remote rural areas,
+where not even the state-level offices reached at the time (Ministério
+da Saúde 1992 [1963], 187–205; CONASS 2007, 28).10
+
+
+10   In the 3rd National Health Conference of 1963, the representatives of the devel-
+     opmentalist sanitarista movement demanded that health care be devolved to the
+     municipal level and recommended the creation in all the municipalities of a basic
+     sanitary structure that would include water and sewage infrastructure, supervision
+     of food establishments, vaccination against contagious diseases, provision of basic
+     health care, protection of pregnant women and children, sanitary education, and
+     collection of vital statistics (Ministério da Saúde 1992 [1963], 183, 239–240). The
+     municipalization of health demand notwithstanding, the proliferation of munici-
+     palities was a concern at that time. The creation of new municipalities responded –
+     apparently – to the electoral incentives of local leaders and to the economic incentives
+     created by Law 395 (July 18, 1948), which distributed the imposto de rendas (income
+     tax) in equal parts among all municipalities (Ministério da Saúde 1992 [1963], 179).
+     Thus, according to the Brazilian censuses, the number of municipalities increased
+     from 1,889 municipalities in 1950; to 2,766 in 1960; 3,952 in 1970; 3,991 in 1980;
+     4,491 in 1991; and 5,507 in 2000.
+
+[p. 48] [PDF page 66]
+
+The military coup against President Goulart in 1964 was clearly
+a setback for the developmentalist sanitarista movement, which had
+been close to Goulart’s administration. However, even if the institu-
+tional and political configuration at the national level doomed any
+efforts at seeking outright national reform, the sanitaristas continued
+to pursue their goals at other levels and through alternative channels.
+For example, a 1968 reform mandating the creation of preventive
+medicine departments in Brazilian universities opened a door for the
+institutionalization of the reformist movement (CONASS 2007, 33).
+Sanitarista doctors taught in these departments and gained organi-
+zational strength (Escorel et al. 2005, 63). In 1976, the sanitarista
+association the Brazilian Center of Health Studies (Centro Brasileiro
+de Estudos de Saúde, CEBES) was created. In the pages of its influential
+journal Saúde em Debate, CEBES opposed the health policies of the
+dictatorship (Escorel et al. 2005, 67).11 Similar to the role of the scien-
+tific and technological elite that at about the same time was developing
+a domestic computer industry in Brazil, CEBES “became the home for
+an ideologically assertive group – a ‘guerrilla headquarters’ of sorts –
+that set itself up to sell ideas, raise consciousness, and use political
+power to achieve its goals” (Adler 1986, 691).12 In fact, many of the
+members of the sanitarista movement were militants belonging to the
+banned Brazilian Communist Party (Neto 1997).
+    The International Conference on Basic Health Care, organized in
+1978 by the World Health Organization in Alma-Ata under the slo-
+gan “health for everyone in the year 2000,” gave additional strength
+to the progressive demands of the sanitarista movement (CONASS
+2007, 35–38; Weyland 2007). The following year, another influential
+sanitarista organization, the Brazilian Graduate Association in Public
+
+11 The importance of CEBES has not declined over the years. In a study of the diffusion
+   of the local Family Health Program (Programa Saúde da Familia) in more than 200
+   Brazilian municipalities, Sugiyama (2008) finds that affiliation with CEBES led to an
+   increase in the probability of adopting the program.
+12 An important difference between the groups is that whereas the scientific group
+
+   developing the domestic computer industry was working inside the state, in the
+   Commission for the Coordination of Electronic Processing Activities (CAPRE) in
+   the Ministry of Planning, CEBES was part of civil society. Nonetheless, like the
+   scientists in CAPRE, the health reformists would also penetrate the state and promote
+   progressive health programs. For more information on the fascinating development of
+   the domestic computer industry in Brazil during the years of the military dictatorship,
+   see Adler (1986).
+
+[p. 49] [PDF page 67]
+
+Health (Associação Brasileira de Pós-Graduação em Saúde Coletiva,
+ABRASCO), was formed.
+    In the late 1970s, the sanitarista movement had a three-pronged
+strategy: (1) to produce and disseminate its progressive reform pro-
+posals, (2) to occupy positions of power whenever possible, that is,
+to infiltrate the state, and (3) to lobby Congress (Rodriguez Neto
+et al. 2003, 34–35). In 1979, as a result of the pressure exerted by the
+sanitarista movement, the Lower Chamber of Congress held Brazil’s
+first symposium on national health policy (Escorel et al. 2005, 71). In
+a position paper presented at the symposium, the sanitarista associa-
+tion of health studies called for the creation of a decentralized unified
+health care system (CEBES 1980). The process of political opening at
+the local and later state levels (Samuels and Abrucio 2000; Falleti 2007)
+afforded the members of the movement the opportunity to occupy local
+government positions.13 They slowly infiltrated the public bureaucracy
+from the bottom up.
+
+The Gradual Institutional Evolution of Brazil’s Health Care System
+Unlike other contemporaneous Marxist or national-populist move-
+ments in Latin America, the reformist doctors in Brazil did not con-
+ceive the state as a monolithic apparatus that represented solely the
+interests of the dominant class and that had to be overthrown from
+the outside. Instead, since the early 1970s, the sanitarista doctors affil-
+iated with the preventive care and communitarian health movement
+aimed to occupy positions of power in the public health bureaucracy
+(Escorel 1999, 24). In effect, these doctors sought to exploit the room
+for maneuver that existed as a result of their ability to exercise dis-
+cretion from within a bureaucracy not of their own making. From
+the perspective of the military, the sanitarista movement’s proposals
+of communitarian medicine were inexpensive solutions to the increas-
+ing demand for health and sanitation services that the years of the
+“economic miracle” had generated (Escorel 1999, 23, 29, 49). The
+bureaucratic-authoritarian regime thus created research and sectoral
+institutions that emphasized technical knowledge and administrative
+modernization. Those institutions were soon occupied by members
+
+13   Interviews with Luiz Carlos Pelizari Romero (Rio de Janeiro, August 4, 2005) and
+     Gilberto Hochman (Rio de Janeiro, August 15, 2005).
+
+[p. 50] [PDF page 68]
+
+of the sanitarista movement and became the main generators of the
+health reform proposals to be analyzed here (Escorel 1999, 43–44). In
+addition, and beginning with the presidency of Geisel, which initiated
+a process of political liberalization (abertura, or “opening”), the Min-
+istry of Health became even more “permeable” to new ideas and actors.
+    Federalism also facilitated the infiltration of the bureaucracy by
+health reformist leaders, particularly at the local level. To main-
+tain the appearance of a vertical and horizontal division of power,
+the military allowed the continuation of some elections. All legisla-
+tive posts (at the national, state, and municipal levels), for example,
+were elected. With few exceptions, mayors were also elected, as were
+state governors, beginning somewhat later, in 1982. Thus, thanks to
+the vertical division of powers characteristic of the federal arrange-
+ment, the opposition won elected posts at the local level first. Elected
+local officials in turn opened the doors of their municipal secretaries
+of health to the members of the reformist sanitarista movement. The
+municipalities of Campinas (São Paulo), Londrina (Paraná), Vale do
+Jequitinhonha, Montes Claros (both in Minas Gerais), and Niteroi (Rio
+de Janeiro) experimented with progressive local programs during the
+1970s (Cordeiro 2001, 324; Rodriguez Neto et al. 2003, 36, 45).14
+The Montes Claros project, which integrated health services in the
+north of Minas Gerais, became an important institutional model for a
+more extensive and ambitious program (for a detailed analysis of the
+Montes Claros program, see Escorel 1999, 143–154).
+    In 1976, a group of sanitarista doctors from a prestigious govern-
+ment think tank (Instituto de Planejamento Econômico e Social, IPEA)
+and the Ministry of Health designed a health program called Pro-
+gram of Internalization of Health and Sanitary Actions (Programa de
+Interiorização das Ações de Saúde e Saneamento, PIASS), which con-
+sisted of a network of mini health sanitary stations in localities of low-
+density population (Tanaka et al. 1992). The network was designed to
+provide preventive care and sanitation to the population of poor and
+small towns in the nine states of the Northeast and in Minas Gerais.
+The program called for the integration of health services at the local
+
+14   In the case of Niteroi, local officials copied the family health doctor model adopted
+     in Cuba (Weyland 2007). At the time, in fact, it was quite common for sanitarista
+     doctors to travel to Cuba or Italy to study the local community health programs in
+     those nations.
+
+[p. 51] [PDF page 69]
+
+level, under the coordination of the state secretaries of health. Private
+health providers did not operate in these poor and remote areas, so
+the private health sector did not oppose the reform. However, because
+the program would tap into social security resources, the technocrats
+in the social security national bureaucracy (INAMPS) did oppose it.
+But Northeast politicians (most of them from the ruling military party)
+exerted enough pressure on the national government that the program
+was implemented.
+   With the governors’ support, the new regional program had by 1980
+established small health outposts operating in 700 municipalities (56%
+of the total of the Northeast and Minas Gerais). These clinics served
+a population of seven to eight million people, about 20 percent of the
+northeast region’s population at the time. In the states of Minas Gerais,
+Bahia, Pernambuco, Rio Grande do Norte, and Alagoas, the program
+was operating well. In Ceará and Paraı́ba, despite its implementation,
+this basic health and sanitation program had not reached all the nec-
+essary localities. Finally, in Maranhão, Piauı́, and Sergipe the program
+was still in an initial phase (Hermógenes de Souza 1980, 84). By 1980
+a total of 1,250 health posts (each about 40 square meters in size) had
+been built in villages with populations of less than 2,000. In towns
+of up to 6,000 inhabitants, 650 health centers had been built (40 to
+150 square meters in size). The health posts and centers were directly
+connected to higher-complexity medical facilities in the larger nearby
+state cities or state capitals. The program had a sanitary component,
+through which 172 systems for provision of water and 22,000 latrines
+were built. Moreover, PIASS recruited and trained health agents from
+the targeted regions, most of them young people without formal medi-
+cal training who would not be prone to professional biases. In the first
+three years of its operation this program trained 3,700 health agents,
+eighty percent of whom had only an elementary education.15
+   This health and sanitation program (PIASS) had important pol-
+icy effects for the universalization and municipalization of health
+care. First, it fostered interministerial coordination. The Ministries of
+Health, Social Insurance and Welfare, and Interior were all represented
+in the interministerial executive group, along with a secretary of the
+
+15   Subsequent successful health programs in the Northeast would have similar practices
+     of personnel recruitment and training (see Tendler 1997, 21–45).
+
+[p. 52] [PDF page 70]
+
+presidency. PIASS was one of the first programs (if not the first) to
+bring together all these national ministries in a single health program.
+Second, the program promoted intergovernmental coordination, as the
+aforementioned national ministries and the state secretaries of health
+and sanitation were all part of the coordination and supervision group.
+The financing of the program also connected the national, state-, and
+local-level governments. PIASS thus constituted the first systematic
+attempt at vertically coordinating the actions of municipalities, states,
+and the national government for the staffing, financing, delivery, and
+supervision of public health services. Third, PIASS strengthened the
+position of state health secretaries vis-à-vis the once all-mighty rep-
+resentatives of the national social security health bureaucracy. This
+proved important a few years later, when another decentralization
+program appealed to the state secretaries of health. Finally, PIASS led
+to the creation of the National Council of State Secretaries of Health
+(Conselho Nacional de Secretários de Saúde, CONASS) in February of
+1982 (Escorel et al. 2005, 71), just a few months before the first direct
+gubernatorial elections were scheduled to take place.
+   The PIASS health and sanitation program and the subsequent pro-
+posals to extend public coverage to other regions (such as the program
+Prev-Saúde) were not embraced by all the relevant actors. As it devel-
+oped, the program encountered increasing opposition in the private
+sector and in parts of the national bureaucracy (Tanaka et al. 1992,
+4; Rodriguez Neto et al. 2003, 37–38), to the point that it could
+not longer be sustained (Escorel 1999, Escorel et al. 2005, 70–71).
+Nonetheless, as the financial situation of the social security system
+worsened, the president commissioned a study for the comprehensive
+reform of the health care system. In 1982, a national advisory board
+proposed a plan that combined streamlining and efficiency measures.16
+The program, known as the CONASP Plan after the name of the advi-
+sory board, sought greater articulation among the federal, state, and
+municipal health sectors, along the lines pioneered under the PIASS
+program (Rodriguez Neto et al. 2003, 44).
+   A year later, a leader of the sanitarista movement, Eleutério
+Rodriguez Neto, was appointed director of the Planning Department
+
+
+16   The national advisory board was named the Consultant Council of Administra-
+     tion of Social Security Health (Conselho Consultivo de Adminstração de Saúde
+     Previdênciária, CONASP).
+
+[p. 53] [PDF page 71]
+
+of the national bureaucracy. It was one of the first appointments of a
+high-level sanitarista doctor to a strategic position in the social secu-
+rity health administration (Rodriguez Neto et al. 2003, 47). Rodrı́guez
+Neto used the CONASP Plan as a vehicle to deepen health care reform.
+Based on that proposal, he advanced a wholesale reorganization of the
+public and social security health sectors that had a strong decentral-
+izing component. The reform program was called Integrated Health
+Actions (Ações Integradas de Saúde, AIS).
+   To neutralize internal opposition at the national level, Rodrı́guez
+Neto engaged the state secretaries of health. In his own words, he
+sought to promote “bottom-up” pressures (Rodriguez Neto et al. 2003,
+47) – albeit paradoxically, from the top. Thanks to the prior political
+opening that had started at the municipal and state levels, Rodrı́guez
+Neto strategy’s worked: “The greater legitimacy and autonomy of
+the governments elected in 1982 and in power since May of 1983,
+especially in the states where the opposition won, gave the [reform]
+pressures such a strength that it was possible to sign AIS [Integrated
+Health Actions] agreements ‘in chain.’ Starting with São Paulo, Rio de
+Janeiro, and Minas Gerais, by May of 1984 all the states had signed,
+and it was officially recognized that the AIS constituted the federal
+strategy to restructure the national health policy” (Rodriguez Neto
+et al. 2003, 47).
+   The AIS program proved quite effective. It integrated the health
+services of the Ministry of Health and the Ministry of Education and
+Culture, and it coordinated the different levels of government in a
+decentralized administration (Paim 1986, 172; Tanaka et al. 1992,
+5). As recalled by José da Silva Guedes, former secretary of health of
+the city of São Paulo, “The AIS represented an increase of 30% of
+the secretary budget. It was not earmarked to pay salaries, debt, or
+new construction. Instead, it was intended to improve and expand the
+[health care] system. In the city of São Paulo, for example, it allowed
+for the creation of a third work shift in all the sanitary units and to
+have general-practice doctors in them” (quoted in CONASS 2007, 53,
+author’s translation). Rodriguez Neto was removed from his post in
+1984, but his removal did not affect the process of decentralization that
+was already underway. As he said, by 1984 “the AIS were irreversible”
+(Rodriguez Neto et al. 2003, 48, author’s translation).
+   After 1985, during the civilian government of José Sarney (1985–
+1990), the reformist movement occupied more posts in the national
+
+[p. 54] [PDF page 72]
+
+bureaucracy and sought to implement equity-enhancing reforms
+(Weyland 1996, 159–164). The main opposition to health care reform
+came from the private sector. Meanwhile, the sanitaristas proposed an
+even more encompassing health reform: the Unified and Decentralized
+Health System, which was guided by the principles of universal cover-
+age, equity, decentralization, regionalization, articulation of levels of
+government, and communal participation. This program would trans-
+fer authority, resources, and personnel from the social security health
+bureaucracy to the state and municipal secretaries of health. State and
+municipal actors would be the main managers of health care. Although
+the program was never implemented, it was an important antecedent
+for the implementation of the Single Health System (Sistema Unico de
+Saúde, SUS) that fully integrated Brazil’s public health sector (Cordeiro
+2001, 324).
+   The proposal to create the Single Health System had been drafted
+at the 8th National Health Conference that met in Brası́lia in March
+1986. The conference was described by President José Sarney as the
+preconstituent assembly of the health sector (Ministério da Saúde
+1986b, 31). More than four thousand people attended, among them
+one thousand delegates who were equally divided between government
+and civil society representatives.17 Among the government delegates,
+50% were from the federal level, 22% from the state level, 18% from
+the municipal level, and 10% from Congress. Of the five hundred
+civil society delegates, 15% represented the private health sector, 20%
+belonged to professional health entities, 30% represented unions and
+urban and rural workers, 10% belonged to dwellers’ associations, 20%
+represented community groups, and 5% were from political parties
+(Escorel and Bloch 2005, 118). Among the nondelegate participants,
+there were federal, state, and municipal authorities; health practition-
+ers; health care consumers; and academics. Medical professionals, local
+health authorities, and left-wing health experts represented the sani-
+tarista movement. The conference was organized into 135 working
+teams, 37 of which were formed by delegates and the rest by partic-
+ipants (Ministerio da Saúde 1986b, 1). The working teams discussed
+
+
+17   For comparison purposes, it is worth noting that the 5th National Health Confer-
+     ence of 1975 counted 217 delegates and 77 nondelegate participants and the 6th
+     Conference had 405 delegates and 29 observers (Ministério da Saúde 1975, 15).
+
+[p. 55] [PDF page 73]
+
+three issues: (1) health as a right, (2) the reformulation of the national
+health system, and (3) the funding of the health care sector.
+   By the time this conference was convened, the sanitarista movement
+had used its position within the existing system both to forge networks
+across localities and to position itself as a highly credible voice in health
+care reform. It is thus not surprising that the final conference report
+expressed the views of the reformist sanitarista movement in every
+issue. Health was conceived as a right to be guaranteed by the nation-
+state. The health system had to be public, free, integrated, and decen-
+tralized. Popularly elected municipal and state health councils had to
+be created to facilitate citizens’ participation and the implementation
+and control of health programs. The fiscal strengthening of states and
+municipalities was demanded, and the decentralization of health care
+had to target the municipalities (Ministerio da Saúde 1986a; 1986b).18
+This was the template that health reform followed in Brazil from 1988
+onwards.
+   The same networks and expertise also meant that the sanitarista
+movement emerged as a strong voice with a well-shaped reform pro-
+posal in the constitutional convention of 1988 – possibly the best-
+organized sector (Rodriguez Neto et al. 2003, 48–52). The movement’s
+demand for universal coverage was adopted in the reformed Constitu-
+tion with the creation of the Single Health System. The demand for a
+fully public health care system did not succeed owing to the lobbying
+of the private health sector, thus both public coverage and private cov-
+erage were included in the Constitution. Soon after the constitutional
+reform, the National Council of Municipal Secretaries of Health (Con-
+selho Nacional de Secretarias Municipais de Saúde, CONASEMS) was
+created. Coordinating the action of subnational authorities, this new
+council of municipal health authorities worked with the preexisting
+council of state authorities; together they played an important role in
+the negotiations over the regulation and implementation of the nation’s
+health system from 1990 onwards. Also stemming from this reform, a
+process of decentralization of health care was set in motion, such that
+
+
+18   According to the annals of the conference, only one mayor, Ubaldo Dantas, of
+     Itabuna, Bahia, expressed any caveats regarding the municipalization proposal. He
+     considered municipalization a possible threat to the integration of the health system
+     (Ministério da Saúde 1986a, 161).
+
+[p. 56] [PDF page 74]
+
+by 2000, 99 percent of the municipalities delivered basic health care
+services in Brazil.
+
+
+Conclusion
+
+This chapter explains the remarkable transformation of the Brazil-
+ian health care system – from centralized but narrow to decentral-
+ized and universalistic. This change did not occur, as was commonly
+assumed, abruptly, at the moment of democratic transition in Brazil,
+but unfolded gradually and under the noses of (indeed, within the
+very infrastructure set up by) the military regime of the 1970s and
+1980s. The analysis here calls into question accounts of institutional
+change that focus too squarely on critical junctures (see also Capoccia
+and Keleman 2007; Falleti and Lynch 2009), as well as analyses of
+institutional stasis that place unwarranted emphasis on lock-in effects
+(see also Thelen 2003; Streeck and Thelen 2005). The study of health
+care reform in Brazil shows that three main components were neces-
+sary to ensure institutional change: subversive actors, infiltration, and
+expansion.
+   A well-organized subversive group of health practitioners was essen-
+tial to bringing about this institutional change. Facing a national con-
+text that featured a particularly strong veto player in the authoritarian
+governments of the day, leftist reformers were nonetheless able to infil-
+trate a bureaucratic apparatus that had been set up by the military for
+its own reasons, and use this structure as a platform for introduc-
+ing more subtle changes on the margins, which pushed the system in
+directions more consistent with their own ideology and goals. Even if
+they characterized the state as a capitalist, bourgeois, or authoritarian
+apparatus, the sanitaristas pursued a strategy of change from within
+the public health institutions, rather than advocating for change from
+outside the system, as other leftist movements did (Weyland 1995,
+1700; Neto 1997, 63). For the sanitarista movement, infiltration was
+an effective means by which to take advantage of small openings.
+Those small openings arose first at the local level, where the political
+opposition was winning mayoral posts, and then at both the territorial
+periphery of the country and the functional periphery of the health
+care system, where the power holders were not invested and where
+local actors could operate beyond the scrutiny of the military.
+
+[p. 57] [PDF page 75]
+
+In fact, it is difficult to determine the extent to which the power hold-
+ers noticed the ongoing process of infiltration and either tried or cared
+to reverse it. It appears that the military allowed the process of infiltra-
+tion by reformists in the health care sector, just as they had in Brazil’s
+technology sector (see Adler 1986). In the Northeast, the reformists’
+preventive health care plans constituted an inexpensive solution for
+national health problems. Moreover, by placing the administration of
+a part of the health system (FUNRURAL) in the hands of the oppo-
+sition (CONTAG), the military also tried to co-opt mobilized groups
+and appease social discontent.
+    Of particular interest in the process of state-society transformation
+that took place during Brazil’s authoritarian period is that the mil-
+itary’s intention to penetrate society and extend the nation-state to
+the territorial periphery made the state bureaucracy more permeable
+and easier to infiltrate. Like other authoritarian regimes of the right
+(Bismarck in Germany, for example), the Brazilian military advanced
+“progressive” social reforms as a means of co-opting and control-
+ling the population and avoiding radicalization. The sanitarista move-
+ment seized those opportunities and reoriented the reforms toward
+new goals.
+    Brazil’s federal institutions aided the sanitarista movement’s infil-
+tration in several interrelated ways. First, federalism made local- and
+state-level public health positions available to the members of the
+reformist movement, facilitating the reform of the state from the bot-
+tom up. Second, and similar to the Canadian case discussed in Hacker
+(1998, 101), federalism created opportunities for political parties sym-
+pathetic to health care reform to gain power at the local and state lev-
+els. Governors and mayors thus became potential political allies of the
+health care reformist movement in the negotiations with the national-
+level bureaucracy, the national deputies and senators, and the military.
+Third, federalism allowed for the implementation of innovative pro-
+grams in politically distinctive and territorially bounded regions and
+municipalities. Changes in the periphery did not pose a serious threat in
+the eyes of military rulers and private health providers, whose interests
+were focused on the hospitals of the Southern region, which constituted
+the economic core of the health care system. Finally, during both the
+military and democratic periods in Brazil, federal transfers to states and
+municipalities were oriented (at least partially) by a criterion of fiscal
+
+[p. 58] [PDF page 76]
+
+equalization among the subnational units.19 As in Hacker’s (1998,
+73) analysis of Canada, this feature of Brazilian federalism permitted
+the poorer subnational units to play a leadership role in health care
+reforms, a role that their limited fiscal resources would have otherwise
+precluded.
+   Expansion was the last crucial element needed to achieve univer-
+salization and municipalization. Changes institutionalized in one area
+of the health care sector prompted changes in other areas, both terri-
+torially and functionally. Territorially, health reform programs scaled
+up from the local to the regional and national levels. Public health
+reforms first adopted in a few municipalities (Niteroi, Montes Claros,
+Londrina, etc.) were later implemented in the states of the Northeast
+and in Minas Gerais. Such programs, in turn, led to other national
+health reform programs, such as the Integrated Health Actions (AIS).
+Functionally, changes in one area of the health system prompted
+changes in other related areas, such as in the case of the expansion from
+AIS, which coordinated only the Ministries of Health and Education,
+to the Single Health System, which integrated the whole health system.
+   In this interpretation of the evolution of the health care sector in
+Brazil, “choice points,” “branching moments,” or “critical junctures”
+have little (if any) relevance in the causal narrative. Although radical
+changes in the health sector were codified in the Constitution of 1988,
+they only brought to light changes that had been percolating beneath
+the surface and been nurtured at the local level for more than a decade.
+By the time the constitutional conventionalists ruled on health care,
+the sanitaristas had already established both the networks and the
+expertise that put them in a position to exercise strong influence, so
+that the codification and institutionalization of the practices they had
+perfected over the years of military rule were politically feasible.
+   A final word is in order regarding the substantive policy outcomes
+of the institutional reforms analyzed here. The life expectancy of
+Brazilians increased from 67 to 72 years between 1991 and 2005;
+infant mortality decreased from 32 to 22 deaths per thousand infants
+
+
+19   During the military period, this strategy was pursued for national security reasons
+     (Stepan 1971) and also to build political support for the official ARENA Party
+     in the North and Northeastern regions, which were historic bastions of political
+     conservatism.
+
+[p. 59] [PDF page 77]
+
+between 1997 and 2004; and the number of health care professionals
+increased from 1.1 to 1.4 per thousand people between 1990 and 2005
+(Ministerio da Saúde 2006). Public opinion polls conducted in large
+cities such as São Paulo and Salvador show that people in the bottom
+40 percent of the population – those who rely the most on the public
+sector for health services – have positive opinions about the current
+public health system.20 Although Brazil’s continental size and immense
+regional and social inequalities leave statistics based on national aver-
+ages largely wanting, as McGuire argues in a cross-national study
+of policy reforms and their impact on health indicators, thanks to
+health care reforms that “revolutionized social policy in favor of the
+poor . . . [b]y 2005, Brazil had some of the most well-designed, encom-
+passing, innovative, and pro-poor social policies in Latin America”
+(forthcoming, ch. 6). It is indeed very likely that universal health cover-
+age and a decentralized structure that is funded with guaranteed federal
+transfers and that promotes users’ participation in health councils are
+largely responsible for the improvement of Brazil’s health outcomes.
+The evolution of health care reforms in Brazil shows that it is possible
+to break away, in a gradual and incremental manner, from the histori-
+cal institutional preconditions that preclude universalization of health.
+They also appear to indicate that such institutional evolution leads to
+significantly better public health outcomes.
+
+
+References
+Adler, Emanuel. 1986. “Ideological ‘Guerrillas’ and the Quest for Technolog-
+  ical Autonomy: Brazil’s Domestic Computer Industry.” International Orga-
+  nization 40 (3): 673–705.
+Arretche, Marta. 2004. “Toward a Unified and More Equitable System: Health
+  Reform in Brazil.” In Crucial Needs, Weak Incentives. Social Sector Reform,
+  Democratization, and Globalization in Latin America, ed. R. R. Kaufman
+  and J. M. Nelson, 155–188, Washington, DC, Baltimore, and London:
+  Woodrow Wilson Center Press and Johns Hopkins University Press.
+Capoccia, Giovanni, and Daniel Keleman. 2007. “The Study of Critical Junc-
+  tures: Theory, Narrative and Counterfactuals in Historical Institutional-
+  ism.” World Politics 59 (3): 341–369.
+CEBES. 1980. “A Questão Democrática na Área da Saúde.” Saúde em debate
+  9:11–13.
+
+20   See the public opinion data in Figueiredo et al. (2005, 135; 2007, 72).
+
+[p. 60] [PDF page 78]
+
+CONASS. 2007. CONASS 25 anos. Brası́lia: Conselho Nacional de Secretários
+  de Saúde.
+Cordeiro, Hésio. 2001. “Descentralização, Universal Access, and Equity in
+  Health Reforms.” Ciência & Saúde Coletiva 6 (2): 319–328.
+Draibe, Sônia M. 1994. “As polı́ticas sociais do regime militar brasileiro:
+  1964–84.” In 21 anos de regime militar: Balanços e perspectivas, ed. G. A.
+  D. Soares and M. C. d’Araujo, 271–309. Rio de Janeiro, RJ: Editora da
+  Fundação Getúlio Vargas.
+Erickson, Kenneth Paul. 1977. The Brazilian Corporative State and Working-
+  Class Politics. Berkeley: University of California Press.
+Escorel, Sarah. 1999. Reviravolta na Saúde: Origem e articulação do movi-
+  mento sanitário. Rio de Janeiro: Editoria FIOCRUZ.
+Escorel, Sarah, and Renata Arruda de Bloch. 2005. “As Conferências
+  Nacionais de Saúde na Construção do SUS.” In Saúde e democracia.
+  História e perspectivas do SUS, ed. N. T. Lima, S. Gerschman, F. C. Edler,
+  and J. M. Suárez, 83–119, Rio de Janeiro: Editora FIOCRUZ and OPS/
+  OMS.
+Escorel, Sarah, Dilene Raimundo Nascimento, and Flavio Coelho Edler. 2005.
+  “As Origens da Refomra Sanitária e do SUS.” In Saúde e democracia:
+  História e perspectivas do SUS, ed. N. T. Lima, S. Gerschman, F. C. Edler,
+  and J. M. Suárez, 59–81, Rio de Janeiro: Editora FIOCRUZ and OPS/
+  OMS.
+Falleti, Tulia G. 2007. “S’emparer du pouvoir ou créer du pouvoir? Les
+  héritages des régimes militaires dans la décentralisation en Argentine et
+  au Brésil” [To Seize or to Create? The Legacies of Militarism on Decentral-
+  ization in Argentina and Brazil], Critique internationale (Presses de Sciences
+  Po, Paris, France), No. 35, April-June: 101–117.
+Falleti, Tulia G., and Julia Lynch. 2009. “Context and Causal Mechanisms
+  in Political Analysis,” Comparative Political Studies, 42 (9), prepublished
+  April 21, 2009 as doi:10.1177/0010414009331724.
+Figueiredo, Argelina Maria Cheibub, Haroldo da Gama Torres, Celina Maria
+  deSouza Motta, Renata Mirandola Bichir, Edgard Fusaro, and Maria Paula
+  Ferreira. 2007. “Projeto Radar das Condições de Vida e das Polı́ticas Sociais.
+  Fase II.” São Paulo: Centro Brasileiro de Análise e Planejamento-CEBRAP.
+Figueiredo, Argelina Maria Cheibub, Haroldo da Gama Torres, Fernando
+  Limongi, Marta Arretche, Renata Bichir, Maria Paula Ferreira, and Edgard
+  Rodrigues Fusaro. 2005. Projeto BRA/04?052. Rede de Pesquisa e Desen-
+  volvimento de Polı́ticas Públicas REDE-IPEA II. São Paulo: Centro
+  Brasileiro de Análise e Planejamento-CEBRAP.
+Flynn, Peter. 1978. Brazil: A Political Analysis. London and Boulder, CO:
+  Ernest Benn and Westview Press.
+Hacker, Jacob. 1998. “The Historical Logic of National Health Insurance:
+  Structure and Sequence in the Development of British, Canadian, and U.S.
+  Medical Policy.” Studies in American Political Development 12 (Spring):
+  57–130.
+
+[p. 61] [PDF page 79]
+
+Hermógenes de Souza, José Alberto. 1980. O Modelo PIASS, Sua Programação
+  e Sua Evolução para o Programa Nacional de Sérvicios Básicos de Saúde.
+  Paper read at 7 Conferência Nacional de Saúde. Anais, at Brası́lia, DF.
+Houtzager, Peter P., and Marcus J. Kurtz. 2000. “The Institutional Roots
+  of Popular Mobilization: State Transformation and Rural Politics in Brazil
+  and Chile, 1960–1995.” Comparative Studies in Society and History 42 (2):
+  394–424.
+Kaufman, Robert R., and Joan M. Nelson, eds. 2004. Crucial Needs, Weak
+  Incentives: Social Sector Reform, Democratization, and Globalization in
+  Latin America. Washington, DC, Baltimore, and London: Woodrow Wilson
+  Center Press and Johns Hopkins University Press.
+Lewis, Maureen, and André Medici. 1998. “Health Care Reform in Brazil:
+  Phasing Change.” In Do Options Exist? The Reform of Pension and Health
+  Care Systems in Latin America, ed. M. A. Cruz-Saco and C. Mesa-Lago,
+  267–289. Pittsburgh: University of Pittsburgh Press.
+Lobato, Lenaura, and Luciene Burlandy. 2000. “Chapter 4. The Context and
+  Process of Health Care Reform in Brazil.” In Reshaping Health Care in Latin
+  America. A Comparative Analysis of Health Care Reform in Argentina,
+  Brazil, and Mexico, ed. S. Fleury, S. Belmartino, and E. Baris, 79–102.
+  Ottawa, Ontario: International Development Research Center.
+Luna, Francisco Vidal, and Herbert S. Klein. 2006. Brazil since 1980. New
+  York: Cambridge University Press.
+Malloy, James M. 1977. “Authoritarianism and the Extension of Social Secu-
+  rity Protection to the Rural Sector in Brazil.” Luso-Brazilian Review 14 (2):
+  195–210.
+Malloy, James M. 1979. The Politics of Social Security in Brazil. Pittsburgh:
+  University of Pittsburgh Press.
+McGuire, James W. Forthcoming. Wealth, Health, and Democracy in East
+  Asia and Latin America. New York: Cambridge University Press.
+Ministério da Saúde. 1975. V Conferência nacional de Saúde, 5 to 8 of August,
+  at Brası́lia.
+Ministério da Saúde. 1986a. “8a Conferencia Nacinal de Saúde. Anais.”
+  Brası́lia.
+Ministério da Saúde. 1986b. “8a Conferencia Nacional de Saúde. 17 a 21 de
+  março de 1986. Relatório final.” Brası́lia.
+Ministério da Saúde. 1992 [1963]. Anais. 3a. Conferência Nacional de Saúde,
+  Fundação Municipal de Saúde, Niteroi.
+Ministério da Saúde. 2006. “IDB 2006 Brasil – Indicadores e Dados Básicos
+  para a Saúde.” In anual: MS, RIPSA.
+Moraes, Clodomir. 1970. “Peasant Leagues in Brazil.” In Agrarian Problems
+  and Peasant Movements in Latin America, ed. R. Stavenhagen., 453–501.
+  Garden City, NY: Anchor Books.
+Neto, Eleutério Rodrigues. 1997. “A Vio do Parlamento.” In Saúde e democ-
+  racia: A luta do CEBES, ed. S. Fleury. São Paulo, S. P: Lemos Editorial &
+  Gráficos Ltda.
+
+[p. 62] [PDF page 80]
+
+Nunes Leal, Victor. 1997. Coronelismo, enxada e voto: O municı́pio e o regime
+  representativo no Brasil. 3rd ed. Rio de Janeiro: Editora Nova Fronteira.
+Oliveira, Jaime A. de Araújo, and Sonia M. Fleury Teixeira. 1986. (Im)previ-
+  dência social. 60 anos de história da Previdência no Brasil. Petrópolis (Rio
+  de Janeiro): Vozes and ABRASCO.
+Paiva, Carlos Henrique Assunção. 2006. “Samuel Pessoa: Uma trajetória
+  cientı́fica no contexto do sanitarismo campanhista e desenvolvimentista no
+  Brasil.” História, Ciência, Saúde – Manguinhos 13 (4): 795–831.
+Rodriguez Neto, Eleutério, José Gomes Temporão, and Sarah Escorel. 2003.
+  Saúde: Promessa e limites da constituição. Rio de Janeiro, RJ: Editora
+  Fiocruz.
+Samuels, David, and Fernando Luiz Abrucio. 2000. “Federalism and Demo-
+  cratic Transitions: The ‘New’ Politics of the Governors in Brazil.” Publius:
+  The Journal of Federalism 30 (2): 43–61.
+Schmitter, Philippe C. 1971. Interest Conflict and Political Change in Brazil.
+  Stanford, CA: Stanford University Press.
+Stepan, Alfred. 1971. The Military in Politics: Changing Patterns in Brazil.
+  Princeton: Princeton University Press.
+Streeck, Wolfgang, and Kathleen Thelen, eds. 2005. Beyond Continuity: Insti-
+  tutional Change in Advanced Political Economies. Oxford: Oxford Univer-
+  sity Press.
+Sugiyama, Natasha Borges. 2008. “Theories of Policy Diffusion: Social Sector
+  Reform in Brazil.” Comparative Political Studies 41 (2): 193–216.
+Tanaka, Oswaldo Yoshimi, Eulália Maria A. Escobar, Aparecida Silvia M.
+  Gimenez, Katia G. Camargo, Carmen L. S. Lelli, and Tania M. Yoshida.
+  1992. “Gerenciamento do setor saúde na década de 80, no Estado de São
+  Paulo, Brasil.” Revista Saúde Pública 26 (3): 185–194.
+Tendler, Judith. 1997. Good Government in the Tropics. Baltimore: Johns
+  Hopkins University Press.
+Thelen, Kathleen. 2003. “How Institutions Evolve: Insights from Compara-
+  tive Historical Analysis.” In Comparative Historical Analysis in the Social
+  Sciences, ed. James Mahoney and Dietrich Rueschemeyer, 305–336. Cam-
+  bridge: Cambridge University Press.
+Weyland, Kurt. 1995. “Social Movements and the State: The Politics of Health
+  Reform in Brazil.” World Development 23 (10): 1699–1712.
+Weyland, Kurt. 1996. Democracy Without Equity: Failures of Reform in
+  Brazil. Pittsburgh: University of Pittsburgh Press.
+Weyland, Kurt. 2007. Bounded Rationality and Policy Diffusion: Social Sector
+  Reform in Latin America. Princeton: Princeton University Press.

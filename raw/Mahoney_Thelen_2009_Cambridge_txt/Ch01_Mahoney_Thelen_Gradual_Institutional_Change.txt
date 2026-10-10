@@ -1,0 +1,1794 @@
+Explaining Institutional Change: Ambiguity, Agency, and Power
+Edited by James Mahoney and Kathleen Thelen
+First published in print: 2009 | Copyright: 2010 | Cambridge University Press
+
+Chapter 1: A Theory of Gradual Institutional Change
+James Mahoney; Kathleen Thelen
+Original print pages 1–37; PDF pages 19–55
+
+[English original. Chapter footnotes and references are retained in their original page positions. Print page markers and one-based PDF page numbers are provided. Original line breaks and fixed-width table layout are retained; verify diagrams and exact typography against the PDF.]
+
+
+========================================================================
+Book-level supplement: Preface and acknowledgments
+========================================================================
+
+[p. xi] [PDF page 13]
+
+Preface
+
+
+
+
+Until recently, gradual institutional change has not been a central focus
+of explanation in the social sciences. Instead, most institutional ana-
+lysts have considered change during moments of abrupt, wholesale
+transformation. Yet it is not clear that such episodes of institutional
+upheaval capture the most common ways through which political insti-
+tutions change over time. A growing body of work suggests that impor-
+tant changes often take place incrementally and through seemingly
+small adjustments that can, however, cumulate into significant insti-
+tutional transformation. These forms of gradual institutional change
+call for more attention than they have received so far.
+   The present volume seeks to respond to this call. In the introduc-
+tion, we propose a theory of gradual institutional change grounded
+in a power-distributional view of institutions that emphasizes ongoing
+struggles within but also over prevailing institutional arrangements.
+On this view, analyses of stability and change are intimately linked.
+Institutional stability is a function not simply of positive feedback but
+of active, ongoing political mobilization, and institutions are vulnera-
+ble to change not just in moments of crisis but on a more ongoing basis.
+Features of the overarching context and the properties of the institu-
+tions themselves hold the key to understanding the processes through
+which such change can be accomplished. We emphasize in particular
+that institutional rules are subject to varying interpretations and levels
+of enforcement and therefore exhibit ambiguities that provide space
+for interested agents to exploit in their effort to alter them. We use
+
+[p. xii] [PDF page 14]
+
+these orientations to develop causal propositions about the connec-
+tions among particular types of institutions, strategies for change, and
+modes of gradual institutional transformation.
+   The five empirical essays that follow the introduction bring these
+propositions to life in the context of sustained analyses of specific
+instances of incremental change. These chapters span a wide spec-
+trum of substantive topics and political contexts. The authors examine
+instances of institutional change in Africa, Southeast Asia, and Latin
+America as well as in the United States, and they consider changes in
+diverse institutions, from the rules governing the conduct of business
+within the U.S. Congress to the system of property rights in postcolo-
+nial Kenya. Even as they develop their own insights about the specific
+cases under study, the authors also apply and elaborate the general
+theoretical framework presented in the introduction.
+   Our point of departure for thinking about institutional change
+builds on insights coming out of a body of work broadly associated,
+as we are, with historical institutionalism. However, the theory we
+develop in this book, and the specific propositions we lay out, can
+be fruitfully taken up by scholars associated with any of the various
+“isms” in institutional analysis. In this spirit, the book concludes with
+an essay by Peter A. Hall reflecting on the possibilities for productive
+exchange in the analysis of change between historical-institutionalist
+scholars and scholars associated with rational-choice and sociological
+approaches to institutions.
+
+It is our great pleasure to be able now to acknowledge formally those
+individuals and organizations that made this book possible. This vol-
+ume grew out of a conference at Northwestern University in October
+2007. Our largest debt is to the participants in that conference, for
+many of the insights contained in the pages to follow came out of the
+stimulating discussions we had over two days together. In conceiving
+the project, we sought to gather together some of the best recent work
+on institutional change undertaken by a new generation of institutional
+analysts. We are grateful to these authors, who brought fresh insights
+and original empirical material from their respective fields of study to
+provide a rich foundation for the discussion. We were also extremely
+fortunate to have secured the participation of a distinguished group
+of more senior scholars to serve as discussants at the conference.
+
+[p. xiii] [PDF page 15]
+
+Anna Grzymala-Busse, Peter A. Hall, Desmond S. King, Paul Pier-
+son, Theda Skocpol, and Sven Steinmo provided detailed comments
+on the individual papers but also shaped this volume (and our own
+thinking) through their broad commentary on the project as a whole.
+We thank Peter A. Hall especially for going a step further to deliver a
+characteristically insightful and synthetic concluding chapter to round
+out the volume.
+    We are enormously grateful to the Roberta Buffett Center for Inter-
+national and Comparative Studies of Northwestern University for
+funding this conference. The Buffett Center is home to Northwestern’s
+Program in Comparative Historical Social Science, a tight-knit group
+of faculty and graduate students from sociology and political science
+that provides the core intellectual community out of which this project
+grew. The center’s past and current directors – Andrew Wachtel and
+Hendrik Spruyt – and its associate director – Brian Hanson – offered
+their encouragement and provided support of all varieties from the
+inception of the project to its completion. The center’s staff, and in
+particular Diana Snyder, made the conference logistics easy for us.
+    It is always a real pleasure to work with Lewis Bateman at Cam-
+bridge University Press, who was immediately enthusiastic about this
+project and who oversaw the book’s production with his characteristic
+efficiency and good humor. Finally, working together on this project
+has been a wonderful intellectual and personal experience for us. It
+gave the two of us a reason for bringing together different generations
+of institutional analysts and an opportunity to think together about
+problems of institutional change.
+
+                                                      James Mahoney
+                                                      Kathleen Thelen
+
+
+========================================================================
+Book-level supplement: Contributors
+========================================================================
+
+[p. vii] [PDF page 9]
+
+Contributors
+
+
+
+
+Tulia G. Falleti is an assistant professor of political science at the
+University of Pennsylvania. She is the author of Decentralization and
+Subnational Politics in Latin America (New York: Cambridge Uni-
+versity Press, 2010), as well as several articles and book chapters on
+federalism and decentralization. Her article “A Sequential Theory of
+Decentralization: Latin American Cases in Comparative Perspective”
+(American Political Science Review, vol. 99, no. 3, August 2005) won
+the 2006 Gregory Luebbert Award from the Comparative Politics sec-
+tion of the American Political Science Association for the best article
+in comparative politics.
+
+Peter A. Hall is Krupp Foundation Professor of European Studies
+at Harvard University and codirector of the Program on Successful
+Societies for the Canadian Institute for Advanced Research. He is the
+author of Governing the Economy: The Politics of State Intervention in
+Britain and France (Oxford: Oxford University Press, 1986) and more
+than seventy articles on European politics and policymaking. His edited
+books include The Political Power of Economic Ideas: Keynesianism
+across Nations (Princeton: Princeton University Press, 1989), Varieties
+of Capitalism: The Institutional Foundations of Comparative Advan-
+tage (with David Soskice; Oxford: Oxford University Press, 2001), and
+Successful Societies: How Institutions and Culture Affect Health (with
+Michèle Lamont; Cambridge: Cambridge University Press, 2009).
+
+[p. viii] [PDF page 10]
+
+Alan M. Jacobs is an assistant professor of political science at the
+University of British Columbia. He is the author of several articles
+and chapters on comparative public policy, including “The Politics of
+When: Redistribution, Investment, and Policymaking for the Long
+Term” (British Journal of Political Science, 38:2, 2008), which won
+the 2009 Mary Parker Follett Award from the Politics and History
+Section of the American Political Science Association. Jacobs is cur-
+rently completing a book, under contract with Cambridge University
+Press, about how elected governments make policy trade-offs between
+short-term and long-term social consequences.
+
+James Mahoney is the Fitzgerald Professor of Economic History and a
+professor of political science and sociology at Northwestern University.
+He is the author of The Legacies of Liberalism: Path Dependence
+and Political Regimes in Central America (Baltimore: Johns Hopkins
+University Press, 2001) and coeditor with Dietrich Rueschemeyer of
+Comparative Historical Analysis in the Social Sciences (New York:
+Cambridge University Press, 2003). His work also includes articles on
+small-N and comparative-historical methods. Mahoney’s most recent
+book is Colonialism and Postcolonial Development: Spanish America
+in Comparative Perspective (New York: Cambridge University Press,
+2010).
+
+Ato Kwamena Onoma is an assistant professor of political science at
+Yale University. He received his BA in philosophy from the University
+of Ghana, Legon, and his PhD in political science from Northwestern
+University in 2006. He is the author of a book from Cambridge Uni-
+versity Press, The Politics of Property Rights Institutions in Africa
+(2010). He is currently studying relations between refugees and host
+populations in postcolonial Africa.
+
+Adam Sheingate is an associate professor of political science at Johns
+Hopkins University. He is the author of The Rise of the Agricultural
+Welfare State: Institutions and Interest Group Power in the United
+States, France, and Japan (Princeton: Princeton University Press, 2001),
+as well as several articles and book chapters on American politics and
+comparative public policy. He is a former Robert Wood Johnson Foun-
+dation Scholar in Health Policy at the University of California-Berkeley
+and was a Prize Research Fellow in Politics at Nuffield College, Oxford.
+
+[p. ix] [PDF page 11]
+
+Dan Slater is an assistant professor of political science at the University
+of Chicago. He is a coeditor of Southeast Asia in Political Science: The-
+ory, Region, and Qualitative Analysis (Stanford: Stanford University
+Press, 2008) and is currently completing a book manuscript examining
+how divergent historical patterns of contentious politics have shaped
+variation in state power and authoritarian durability in seven South-
+east Asian countries. His articles have appeared in such journals as the
+American Journal of Political Science, American Journal of Sociology,
+Comparative Politics, International Organization, and Studies in Com-
+parative International Development.
+
+Kathleen Thelen is a Ford Professor of Political Science at the Mas-
+sachusetts Institute of Technology; Permanent External Member of the
+Max Planck Institute for the Study of Societies in Cologne, Germany;
+and Senior Research Fellow at Nuffield College, Oxford University.
+Her two most recent books are How Institutions Evolve: The Polit-
+ical Economy of Skills in Germany, Britain, the United States, and
+Japan (New York: Cambridge University Press, 2004) and Beyond
+Continuity: Institutional Change in Advanced Political Economies
+(coedited with Wolfgang Streeck; Oxford: Oxford University Press,
+2005).
+
+
+========================================================================
+Chapter text, footnotes, and references
+========================================================================
+
+[p. 1] [PDF page 19]
+
+1
+
+A Theory of Gradual Institutional Change
+
+       James Mahoney and Kathleen Thelen
+
+
+
+
+Once created, institutions often change in subtle and gradual ways over
+time. Although less dramatic than abrupt and wholesale transforma-
+tions, these slow and piecemeal changes can be equally consequential
+for patterning human behavior and for shaping substantive political
+outcomes. Consider, for example, the British House of Lords. This is
+an institution that began to take shape in the thirteenth century out of
+informal consultations between the Crown and powerful landowners.
+By the early nineteenth century, membership was hereditary and the
+chamber was fully institutionalized at the center of British politics.
+Who would have thought that this deeply undemocratic assembly of
+aristocrats would survive the transition to democracy? Not the early
+Labour Party, which was founded in 1900 and understandably com-
+mitted to the elimination of a chamber from which its constituents
+were, more or less by definition, excluded.
+
+
+We are grateful to the participants in the Workshop on “Explaining Institutional Change:
+Ambiguity, Agency, and Power in Historical Institutionalism” at Northwestern Univer-
+sity in October 2007. The empirical chapters presented at that event, and the stimulating
+discussions they provoked, provided the inspiration for many of the ideas laid out in
+this chapter. For subsequent written comments on this essay, we thank Tulia Falleti,
+Peter Hall, Alan Jacobs, Adam Sheingate, Theda Skocpol, and Dan Slater. We benefited
+as well from valuable input from Suzanne Berger, Nancy Bermeo, Giovanni Capoccia,
+Bruce Carruthers, Edward Gibson, Desmond King, Richard Locke, Ann Orloff, Paul
+Pierson, Dick Samuels, Ben Schneider, and the participants in the Comparative His-
+torical Social Science workshop at Northwestern University and in seminars at Oxford
+University and M.I.T.
+
+[p. 2] [PDF page 20]
+
+Yet Labour did not dismantle the House of Lords – despite recurring
+opportunities to do so during the twentieth century. Instead, the insti-
+tution was reformed over time in a series of more measured moves that,
+successively: circumscribed its powers (especially in 1911 by a Liberal
+Party government), altered its composition (especially in 1958 under a
+Conservative government, with the addition of life peerages), and ren-
+dered it less unwieldy and – in the eyes of some – more legitimate (in
+2000 under a Labour government, by reducing dramatically the num-
+ber of hereditary peers). The cumulative effects of these changes have
+allowed the chamber not just to survive but to position itself as a sig-
+nificant player in, of all things, the defense of civil liberties in Britain
+(The Economist, February 11, 2006, 51). This is quite a change –
+from undemocratic bastion of traditional interests to champion of
+individual rights – and it illustrates that incremental shifts often add
+up to fundamental transformations.
+    While institutional analysis has earned a prominent place in contem-
+porary social science, the vast literature that has accumulated provides
+us with precious little guidance in making sense of processes of insti-
+tutional change such as occurred in Britain’s House of Lords. We have
+good theories of why various kinds of basic institutional configura-
+tions – constitutions, welfare systems, and property right arrange-
+ments – come into being in certain cases and at certain times. And we
+have theories to explain those crucial moments when these institutional
+configurations are upended and replaced with fundamentally new
+ones. But still lacking are equally useful tools for explaining the more
+gradual evolution of institutions once they have been established. Con-
+stitutions, systems of social provision, and property right arrangements
+not only emerge and break down; they also evolve and shift in more
+subtle ways across time. These kinds of gradual transformations, all
+too often left out of institutionalist work, are the focus of this volume.
+    In the literature on institutional change, most scholars point to
+exogenous shocks that bring about radical institutional reconfigu-
+rations, overlooking shifts based on endogenous developments that
+often unfold incrementally. Indeed, these sorts of gradual or piecemeal
+changes often only “show up” or “register” as change if we consider a
+somewhat longer time frame than is characteristic in much of the liter-
+ature. Moreover, when institutions are treated as causes, scholars are
+too apt to assume that big and abrupt shifts in institutional forms are
+
+[p. 3] [PDF page 21]
+
+more important or consequential than slow and incrementally occur-
+ring changes. As the chapters in this book show, these conclusions are
+in need of fundamental rethinking. Gradual changes can be of great
+significance in their own right; and gradually unfolding changes may
+be hugely consequential as causes of other outcomes.
+    An emerging body of work provides ideas on which we can build
+to understand gradual institutional change. New insights have grown
+out of the literature on path dependence and the ensuing debate over
+this framework (e.g., North 1990; Collier and Collier 1991; Arthur
+1994; Clemens and Cook 1999; Mahoney 2000; Pierson 2004; Thelen
+1999, 2004). Among other things, this work has led analysts to
+theorize the circumstances under which institutions are – and are
+not – subject to self-reinforcing “lock-in.” Important strands of this
+literature suggest that path-dependent lock-in is a rare phenomenon,
+opening up the possibility that institutions normally evolve in more
+incremental ways. Likewise, works such as Pierson’s Politics in Time
+(2004) discuss various slow-moving causal processes (e.g., cumula-
+tive causes, threshold effects, and causal chains) that do not evoke the
+punctuated equilibrium model of change that is frequently embedded
+in conceptualizations of path dependence (see also Aminzade 1992;
+Abbott 2001). Inspired by these works, Streeck and Thelen (2005)
+have offered an inventory of commonly observed patterns of gradual
+institutional change that allows us to classify and compare cases across
+diverse empirical settings.
+    If theorizing is going to reach its potential, however, institutional
+analysts must go beyond classification to develop causal propositions
+that locate the sources of institutional change – sources that are
+not simply exogenous shocks or environmental shifts. Certain basic
+questions must be addressed. Exactly what properties of institutions
+permit change? How and why do the change-permitting properties
+of institutions allow (or drive) actors to carry out behaviors that
+foster the changes (and what are these behaviors)? How should we
+conceptualize these actors? What types of strategies flourish in which
+kinds of institutional environments? What features of the institutions
+themselves make them more or less vulnerable to particular kinds of
+strategies for change? Answering these basic questions is a critical next
+step if scholars are to theorize the sources and varieties of endogenous
+institutional change.
+
+[p. 4] [PDF page 22]
+
+In this chapter, we advance answers to these questions. We begin
+by noting that all leading approaches to institutional analysis – socio-
+logical institutionalism, rational-choice institutionalism, and historical
+institutionalism (Hall and Taylor 1996) – face problems in explaining
+institutional change. We then consider how a power-distributional
+approach to institutions, common in historical institutionalism and
+present as well in some strands of sociological and rational-choice
+institutionalism, provides a basic motor for change. To account for
+actual change, however, this power-distributional approach needs to
+be supplemented with attention to issues of compliance going well
+beyond the usual concern for level or extent of compliance. We argue
+that institutional change often occurs precisely when problems of rule
+interpretation and enforcement open up space for actors to implement
+existing rules in new ways. Expanding our focus to include these con-
+cerns allows us to observe and theorize forms of incremental change
+that are routinely overlooked in most institutional analysis.
+   Our discussion culminates in the presentation of a new model of
+institutional change. The model elaborates a set of propositions that
+link particular modes of incremental change to features of the institu-
+tional context and properties of institutions themselves that permit or
+invite specific kinds of change strategies and change agents. The model
+sees variations in institutional properties as encouraging different types
+of change strategies, which are in turn associated with distinctive
+change agents who work to foster specific kinds of incremental change.
+
+
+The Challenge of Explaining Change
+
+Despite many other differences, nearly all definitions of institutions
+treat them as relatively enduring features of political and social life
+(rules, norms, procedures) that structure behavior and that cannot be
+changed easily or instantaneously. The idea of persistence of some
+kind is virtually built into the very definition of an institution. This
+is true for sociological, rational-choice, and historical-institutional
+approaches alike. The connection between institutions and persistence
+makes it natural for all of these approaches to focus on explaining con-
+tinuity rather than change. Nevertheless, the three major institutional
+approaches do vary in subtle ways in how they conceive of institutions
+and this turns out to have important implications for their ability to
+theorize institutional change.
+
+[p. 5] [PDF page 23]
+
+The Common Problem: A Focus on Stability and Exogenous Shocks
+Sociological institutionalism considers a broad range of institutions,
+focusing attention on noncodified, informal conventions and collec-
+tive scripts that regulate human behavior. Definitions of institutions
+in this tradition routinely spotlight their self-reproductive properties.
+For example, according to Powell (1991, 197), “Things that are insti-
+tutionalized tend to be relatively inert, that is, they resist efforts at
+change”; for Jepperson (1991, 145), “Institutions are those social
+patterns that, when chronically reproduced, owe their survival to rel-
+atively self-activating processes.” For some scholars in this broad tra-
+dition, institutions are tied to codes of appropriateness, and reproduc-
+tion occurs as actors are socialized or otherwise learn to follow them
+(March and Olsen 1984). For others, the self-reproducing properties of
+institutions are cognitive in nature; institutions may be so routine and
+“taken for granted” that they are beyond conscious scrutiny (Berger
+and Luckmann 1967; Zucker 1983, 2). In addition, sociological insti-
+tutionalists argue that actors often reproduce the same institutional
+logic across various domains. With organizations, for instance, new
+organizational forms are “isomorphic” with (i.e., similar to or compat-
+ible with) existing organizations (DiMaggio and Powell 1983; Dobbin
+1994; Scott 1995). Actors carry their existing scripts forward when
+building new institutions even when doing so is not “efficient.”
+   While quite powerful as tools for explaining continuity, the mech-
+anisms of perpetuation used in sociological institutionalism provide
+few clues about possible sources of endogenous change. If a conven-
+tion is reified, how might it change? If isomorphism encourages new
+institutions to take the same form as old ones, where is the locus of
+dynamism and innovation? To explain transformation, therefore, soci-
+ological institutionalists often point to an exogenous entity or force –
+for example, new interpretive frames imported or imposed from the
+outside (e.g., DiMaggio and Powell 1983; Hannan and Freeman
+1989) or the evolution of broader political, legal, and market “fields”
+(Fligstein 1996). Studies of change in this genre often provide very
+compelling accounts in which new actors manage to unsettle domi-
+nant practices or scripts and impose their preferred alternatives (e.g.,
+Zorn et al. 2008). But what such accounts typically omit is a set of gen-
+eral propositions about what properties of institutional scripts make
+some of them, at some times, more vulnerable than others to this type
+of displacement.
+
+[p. 6] [PDF page 24]
+
+Rational-choice institutionalists also face quandaries when con-
+fronted with institutional change. As Levi (2008) points out, “Ratio-
+nalists have long recognized the importance of understanding equilib-
+rium change, but their analyses have generally involved comparative
+statics rather than a more dynamic approach” (see also Weingast 2002,
+692). The basic difficulty here is related to a view of institutions as coor-
+dinating mechanisms that sustain particular equilibria (Shepsle 1989,
+145; Calvert 1995, 218; Levi 1997, 27). As Greif and Laitin put it,
+“A self-enforcing institution is one in which each player’s behavior
+is a best response. The inescapable conclusion is that changes in self-
+enforcing institutions must have an exogenous origin” (2004, 633; see
+also Bates et al. 1998, 8). This perspective has an obvious affinity to
+punctuated equilibrium models of institutional change. But such mod-
+els tend to draw a sharp line between the logic (and analysis) of insti-
+tutional reproduction and that of change, and thus make it difficult to
+conceptualize and theorize gradual processes of endogenous change.
+   Greif and Laitin’s (2004) work represents one of the most explicit
+efforts to deal with the problem from a rational-choice perspective.
+The analysis they offer stresses indirect institutional effects – or “feed-
+back effects” – that either expand or reduce the set of situations in
+which an institution is self-enforcing; thus, their solution to think-
+ing about endogenous change is to redefine (some) of the exogenous
+parameters as endogenous variables (i.e., “quasi-parameters”). Greif
+and Laitin can in this way account for the stability (or breakdown) of
+different institutional equilibria (their cases address the decline versus
+the resiliency of social order in Venice and Genoa and the decline ver-
+sus persistence of ethnic cleavages in Estonia and Nigeria). But their
+framework does not make clear how scholars would be able, ex ante,
+to distinguish quasi-parameters from parameters, or to identify which
+quasi-parameters are more likely to be affected by the operation of the
+institution.
+   Historical institutionalists have also grappled with the problem of
+institutional change. And they have also traditionally stressed conti-
+nuity over change. Much of the empirical work on path dependence,
+for example, has been organized around explaining the persistence
+of particular institutional patterns or outcomes, often over very long
+stretches of time (for literature reviews, see Mahoney 2000; Pierson
+2004; Thelen 2004). While historical institutionalists acknowledge the
+
+[p. 7] [PDF page 25]
+
+cultural components of institutions, as well as the coordinating func-
+tions that institutions may perform, these scholars view institutions
+first and foremost as the political legacies of concrete historical strug-
+gles. Thus, most historical institutionalists embrace a power-political
+view of institutions that emphasizes their distributional effects, and
+many of them explain institutional persistence in terms of increasing
+returns to power.
+    When it comes to explaining change, historical institutionalists fre-
+quently call attention to “critical junctures,” often understood as peri-
+ods of contingency during which the usual constraints on action are
+lifted or eased (Capoccia and Kelemen 2007). Explanations of change
+focusing on such episodes are sometimes also linked to arguments
+about the relative weight of agency versus structure in various phases.
+Ira Katznelson, for example, sees institutions as mostly constraining in
+periods of “stable” politics, but argues that critical junctures open up
+opportunities for historic agents to alter the trajectory of development
+(Katznelson 2003).
+    In other words, in the historical-institutionalist literature, too, schol-
+ars have tended to fall back on a discontinuous model of change in
+which enduring historical pathways are periodically punctuated by
+moments of agency and choice. These arguments thus often have the
+same drawbacks as discussed earlier for other punctuated equilibrium
+models, obscuring endogenous sources of change and encouraging us
+to conceive of change as involving the “breakdown” of one set of
+institutions and its replacement with another.
+    All three varieties of institutionalism, in short, provide answers to
+what sustains institutions over time as well as compelling accounts of
+cases in which exogenous shocks or shifts prompt institutional change.
+What they do not provide is a general model of change, particularly
+one that can comprehend both exogenous and endogenous sources of
+change.
+
+Institutional Stability as a Political Problem and a Dynamic
+Political Outcome
+If institutions are changed not just in response to exogenous shocks or
+shifts, then their basic properties must be defined in ways that provide
+some dynamic element that permits such change. The foundation on
+which we build here is one that conceives institutions above all else as
+
+[p. 8] [PDF page 26]
+
+distributional instruments laden with power implications (Hall 1986;
+Skocpol 1995; Mahoney 2010; see also Hall [this volume]). As noted,
+this view of institutions is commonplace in historical institutional-
+ism but it is also consistent with some rational-choice perspectives
+that emphasize power over cooperation (e.g., Knight 1992; Acemoglu,
+Johnson, and Robinson 2005; Moe 2005), as well as some socio-
+logical accounts that focus on the political-distributional underpin-
+nings of specific cultural or normative practices (e.g., Stinchcombe
+1987, Fligstein forthcoming). In our approach, institutions are fraught
+with tensions because they inevitably raise resource considerations and
+invariably have distributional consequences. Any given set of rules or
+expectations – formal or informal – that patterns action will have
+unequal implications for resource allocation, and clearly many formal
+institutions are specifically intended to distribute resources to partic-
+ular kinds of actors and not to others. This is true for precisely those
+institutions that mobilize significant and highly valued resources (e.g.,
+most political and political-economic institutions).
+   Existing work has drawn out many implications of this conceptu-
+alization for understanding institutional genesis and continuity. Con-
+cerning genesis, actors with different endowments of resources are
+normally motivated to pursue the creation of different kinds of insti-
+tutions. And the institutions that are actually created often reflect
+the relative contributions of – and often conflict among – these dif-
+ferentially motivated actors. In some cases, the power of one group
+(or coalition) relative to another may be so great that dominant
+actors are able to design institutions that closely correspond to their
+well-defined institutional preferences. But institutional outcomes need
+not reflect the goals of any particular group; they may be the unin-
+tended outcome of conflict among groups or the result of “ambigu-
+ous compromises” among actors who can coordinate on institutional
+means even if they differ on substantive goals (Schickler 2001; Palier
+2005).
+   For these reasons, there is nothing automatic, self-perpetuating, or
+self-reinforcing about institutional arrangements. Rather, a dynamic
+component is built in; where institutions represent compromises or
+relatively durable though still contested settlements based on specific
+coalitional dynamics, they are always vulnerable to shifts. On this view,
+
+[p. 9] [PDF page 27]
+
+change and stability are in fact inextricably linked. Those who ben-
+efit from existing arrangements may have an objective preference for
+continuity but ensuring such continuity requires the ongoing mobiliza-
+tion of political support as well as, often, active efforts to resolve insti-
+tutional ambiguities in their favor (Thelen 2004). Dan Slater’s analysis
+(this volume) of the stability of authoritarianism in Indonesia under
+Suharto is an excellent case in point. The phenomenal durability of
+this regime was not a matter of self-enforcement or even of increasing
+returns to power; rather, this outcome depended on the active creation
+and nurturing of (over time, different) coalitions and institutional sup-
+ports for the regime. Ironically, as Slater shows, the political balancing
+that allowed Suharto to concentrate autocratic power paved the way
+for later regime collapse by compromising the independent coercive
+capacities of the co-opted institutions and organizations.
+    Given a view of institutional stability that rests not just on the
+accumulation but also on the ongoing mobilization of resources, one
+important source of change will be shifts in the balance of power (e.g.,
+Knight 1992, 145, 184; Thelen 1999). This can happen in straightfor-
+ward ways as, for instance, through changes in environmental condi-
+tions that reshuffle power relations. Beyond this, however, a number
+of scholars have drawn attention to less obvious aspects of such shifts,
+emphasizing for example that actors are embedded in a multiplicity
+of institutions, and interactions among them may allow unforeseen
+changes in the ongoing distribution of resources. Resource alloca-
+tions from one set of institutions may shape the outcomes of distri-
+butional conflicts over resource allocations connected to a different
+set of institutions. Pierson and Skocpol (2002, 696) note the impor-
+tance of hypothesizing “about the combined effects of institutions and
+processes rather than examining just one institution or process at a
+time.” Actors disadvantaged by one institution may be able to use
+their advantaged status vis-à-vis other institutions to enact change.
+    Other strands of scholarship in this broad tradition examine how the
+expected operation of institutions itself sometimes generates pressures
+for change. This can occur if the over-time distributional effects of
+institutions trigger divisions among institutional power holders. Or
+change can occur if institutions disadvantage subordinate groups to the
+point that they organize and come to identity with one another, thereby
+
+[p. 10] [PDF page 28]
+
+increasing their power and capacity to break prevailing institutional
+arrangements. Between them, these two possibilities correspond to the
+themes of “divided elites” and “united subordinate groups” that are
+sometimes emphasized in explanations of change (e.g., Yashar 1997).
+
+Compliance as a Variable in the Analysis of Institutional Change
+Beyond balance-of-power shifts (either exogenous or endogenously
+generated through feedback effects), we especially call attention to
+forms of change that are linked to issues of compliance. On this point
+there is a rather important difference between the power-distributional
+perspective of institutions we are advancing here and some prominent
+alternatives discussed earlier. In some versions of sociological insti-
+tutionalism, for example, compliance and enforcement appear to be
+nonissues. If institutions involve cognitive templates that individuals
+unconsciously enact, then actors presumably do not think about not
+complying.1 In fact, it is their very taken-for-grantedness that makes
+these institutions self-enforcing. In rationalist accounts, sanctions and
+monitoring do play a role as mechanisms to prevent free riding and
+promote collective action (Ostrom 1990). However, in much of this
+work, compliance is built into the definition of the institution under
+consideration. In other words, what institutions do is stabilize expecta-
+tions (among other ways, by providing information about the probable
+behavior of others), and thus enforcement is endogenous in the sense
+that the expected costs and extent of noncompliance are factored into
+the strategic behavior of the actors in a particular institutional equi-
+librium (North 1990, 1993).
+   If, instead, we break with a view of institutions as self-reinforcing
+(through whatever mechanism) and put distributional issues front and
+center, compliance emerges as a variable, and a variable that is cru-
+cially important to the analysis of both stability and change. The need
+to enforce institutions carries its own dynamic of potential change,
+emanating not just from the politically contested nature of institutional
+rules but also, importantly, from a degree of openness in the interpre-
+tation and implementation of these rules. Even when institutions are
+
+
+1   We owe this insight regarding compliance and its different valence in different varieties
+    of institutionalism to Wolfgang Streeck, who made these points at a workshop on
+    institutions held in Italy in 2006.
+
+[p. 11] [PDF page 29]
+
+formally codified, their guiding expectations often remain ambiguous
+and always are subject to interpretation, debate, and contestation.2
+It is not just that unambiguous rules are enforced to greater and
+lesser degrees. Rather, struggles over the meaning, application, and
+enforcement of institutional rules are inextricably intertwined with the
+resource allocations they entail.
+    In many cases, there is simply a great deal of “play” in the inter-
+preted meaning of particular rules or in the way the rules are instanti-
+ated in practice. This view parts ways with power-oriented rationalist
+accounts like that of Knight, who acknowledges the ambiguity of rules
+as a site of conflict but who assumes that such ambiguity will decline
+over time (1992, 76, 186) or be resolved through the formalization of
+the rules (1992, 176) or both. We see ambiguity as a more permanent
+feature, even where rules are formalized. Actors with divergent inter-
+ests will contest the openings this ambiguity provides because matters
+of interpretation and implementation can have profound consequences
+for resource allocations and substantive outcomes. As abortion politics
+in the United States (associated with the defense of “individual rights”
+and attached to different beliefs on when “life” is taken to begin) amply
+demonstrates, competing interpretations of one and the same rule can
+mobilize quite different coalitions (see also Weir 1992). Coalitions
+form not only as representatives of alternative institutions but also
+as movements seeking particular interpretations of the ambiguous or
+contested rules of a given institution.
+    Existing historical-institutional work and especially the contribu-
+tions in this volume suggest several implications that follow from treat-
+ing compliance as a variable in this expanded sense. First, compliance
+is inherently complicated by the fact that rules can never be precise
+enough to cover the complexities of all possible real-world situations.
+When new developments confound rules, existing institutions may be
+changed to accommodate the new reality. These changes can involve
+rule creation, or they may simply entail creative extensions of existing
+rules to the new reality. This insight and its implications for institu-
+tional change are underscored by Adam Sheingate’s contribution to
+
+
+2   The ambiguity of institutional rules is also a theme in a recent edited volume by
+    Skowronek and Glassman (2007). Beyond the introduction by the editors, see espe-
+    cially the essays by Sheingate (2007) and Carpenter and Moore (2007) in that volume.
+
+[p. 12] [PDF page 30]
+
+this volume. Sheingate’s analysis focuses on key changes in the rules
+governing the U.S. Congress. He challenges a large body of work that
+sees congressional rules as mechanisms that allow actors to coordinate
+among themselves – above all, to credibly commit to one another to
+achieve joint gains (Weingast and Marshall1988). Such accounts pre-
+suppose unambiguous rules; differences in the content of rules produce
+different equilibrium outcomes.
+   By contrast, Sheingate sees rules as ambiguous and therefore them-
+selves the objects of political skirmishing. While these rules certainly
+establish important constraints on action, Sheingate emphasizes that
+they are not unequivocal. The ambiguities they embody provide critical
+openings for creativity and agency; individuals exploit their inherent
+openness to establish new precedents for action that can “transform
+the way institutions allocate power and authority” (Sheingate, this
+volume). Through three episodes of institutional change, Sheingate
+shows how actors devised new applications and interpretations of old
+rules in order to bend outcomes in their preferred direction. In each
+instance, the new interpretation had massively important implications
+for congressional decision-making structures, in particular for the rel-
+ative power of the Speaker of the House and minorities within the
+legislature.
+   A second, closely related point concerns the cognitive limits of
+actors themselves. Even when institutional rules have been created to
+accommodate relatively complex situations, actors face information-
+processing limitations and certainly cannot anticipate all of the possible
+future situations in which rules written now will be implemented later.
+The account in this volume by Alan Jacobs of the development of U.S.
+Social Security provides a case in point. He shows that FDR initially
+devised the idea of contributory financing on which the system was
+based as a way of fending off the challenges that elites at that time
+faced from populists. Contributory financing made it impossible for
+politicians to expand the program recklessly in response to populist
+urges. Years later, long after the populist threat had waned, these same
+provisions provided an unanticipated safeguard against conservative
+retrenchment. As Jacobs emphasizes, the contributory principle con-
+tained within it multiple moral and political logics, not all of which
+were anticipated by its designers but which later proved crucial to
+
+[p. 13] [PDF page 31]
+
+the (changing) coalitions that both sustained and reshaped this set of
+institutions over the longer run.
+   Third, institutions are always embedded in assumptions that are
+often only implicit. Emile Durkheim’s notion of “the non-contractual
+basis of contracts” points to these implicit understandings held by the
+relevant community that are necessary for rules to have efficacy. Such
+shared understandings may exist to differing degrees and may them-
+selves shift over time, which can often trigger a de facto institutional
+change even though formal rules remain intact. This is a major mes-
+sage of Ato Onoma (this volume), who notes that in the absence of
+such shared understandings, institutional “predators” can systemati-
+cally undermine rules by exploiting their letter while violating their
+spirit. Here we need to recognize that institutional stability ultimately
+depends not only on continuity in the rules themselves but also on the
+ways in which those rules are instantiated in practice (Hacker 2005;
+Streeck and Thelen 2005).
+   Fourth, the fact that rules are not just designed but also have to
+be applied and enforced, often by actors other than the designers,
+opens up space (as both an analytic and a practical matter) for change
+to occur in a rule’s implementation or enactment. Robert Lieberman
+(2006) has provided an excellent example of this in his analysis of
+equal opportunity/affirmative action legislation in the United States.
+Lieberman documents that the provision in the 1964 Civil Rights Act
+that created the Equal Employment Opportunity Commission (EEOC)
+was deeply contested and nearly failed. A political compromise, the
+version that Congress did pass was weak in the extreme, more or
+less by design. Once enacted, however, bureaucrats charged with the
+implementation and enforcement of the legislation worked with civil
+rights groups to bring cases to courts, which then, through expansive
+interpretations of the law, stretched the parameters and scope of the
+legislation. The result was to transform a weak legislative rule into
+one of the strongest affirmative action regimes in the world. The gen-
+eral point is that enforcers must decide how and when rules are to
+be implemented, and this implies possibilities for change – in both
+directions as it were, either through “slippage” or through expan-
+sive interpretations and applications. Actors such as the bureaucracy
+and the judiciary, charged with implementation, interpretation, and
+
+[p. 14] [PDF page 32]
+
+enforcement, have large roles to play in shaping institutional evolution
+(see also Carpenter 2001).
+   In short, we propose that the basic properties of institutions contain
+within them possibilities for change. What animates change is the
+power-distributional implications of institutions. However, where we
+expect incremental change to emerge is precisely in the “gaps” or
+“soft spots” between the rule and its interpretation or the rule and
+its enforcement. This is an analytic space that other conceptions of
+institutions (as behaviors in equilibrium, or as scripts) essentially rule
+out by definition, but as a practical matter this is exactly the space in
+which contests over – and at the same time within – institutions take
+place (Thelen 2009).
+   The emphasis on compliance also opens new avenues for theorizing
+the actors and the coalitions that drive institutional change. Clearly,
+institutional “winners” and “losers” have different interests when it
+comes to interpreting rules or dedicating resources to their enforce-
+ment. But more important for the analysis of institutional change,
+compliance problems can blur the lines between winners and losers.
+When the enforcement of an institution is contested and uncertain, or
+when the meaning of an institution is undecided, an actor’s interest in
+institutional continuity may be equivocal and mutable. As the meaning
+and enactment of an institution change, so too may actor preferences.
+Putting issues of compliance at center stage, then, forces us to think
+about the distributional effects of institutions in more complicated
+ways than simply “winners” and “losers.” New categories that go
+beyond this simple dichotomy must be created to depict and analyze
+the actors, coalitional patterns, and political conflicts that drive the
+politics of institutional change. Carrying out this conceptual work is
+among the tasks we pursue in the next section.
+
+
+Explaining Patterns of Institutional Change
+
+A distributional approach suggests that dynamic tensions and pressures
+for change are built into institutions. However, the approach does
+not itself specify the different modes of change that such dynamism
+permits or unleashes. Nor does it embody an explanation for why
+one kind of change occurs rather than another. The purpose of this
+section is accordingly to build on the discussion so far by offering a
+
+[p. 15] [PDF page 33]
+
+Characteristics
+               of
+        Political Context
+                             III                          II
+                                   Type of Dominant               Type of
+                                    Change-Agent                  Institutional
+                                                                  Change
+
+        Characteristics
+               of
+          Institution
+
+
+                                   I
+
+figure 1.1. Framework for Explaining Modes of Institutional Change.
+
+
+new framework for identifying and explaining types of institutional
+change.
+    Our basic model is sketched in Figure 1.1. Here the characteristics
+of both the political context and the institution in question together
+drive the type of institutional change we can expect. Political context
+and institutional form have these effects because they shape the type of
+dominant change agent that is likely to emerge and flourish in any spe-
+cific institutional context, and the kinds of strategies this agent is likely
+to pursue to effect change. In the following discussion, we elaborate
+this argument, focusing our remarks on the three key causal connec-
+tions identified in Figure 1.1 (indicated by I, II, and III in the figure). We
+begin, though, by considering different modes of institutional change.
+
+
+Modes of Institutional Change
+Following Streeck and Thelen (2005), we delineate four modal types
+of institutional change: displacement, layering, drift, and conversion.
+As Table 1.1 suggests, each type is defined by asking about the locus
+of institutional transformation. The dimensions in the table generate
+the four types:
+
+   1. Displacement: the removal of existing rules and the introduction
+      of new ones
+   2. Layering: the introduction of new rules on top of or alongside
+      existing ones
+
+[p. 16] [PDF page 34]
+
+table 1.1. Types of Gradual Change
+
+                             Displacement    Layering   Drift   Conversion
+Removal of old rules         Yes             No         No      No
+Neglect of old rules         –               No         Yes     No
+Changed impact/enactment     –               No         Yes     Yes
+  of old rules
+Introduction of new rules    Yes             Yes        No      No
+
+
+
+     3. Drift: the changed impact of existing rules due to shifts in the
+        environment
+     4. Conversion: the changed enactment of existing rules due to their
+        strategic redeployment
+
+Understanding these different types of institutional change – including
+the roles that institutional supporters and challengers typically play
+within each – sets the stage for explaining why and how one type
+rather than another typically occurs.
+    Displacement is present when existing rules are replaced by new
+ones. This kind of change may well be abrupt, and it may entail the
+radical shift that is often featured in leading institutional theories. The
+rapid, sudden breakdown of institutions and their replacement with
+new ones that accompanies revolutions obviously involves displace-
+ment. Yet displacement can also be a slow-moving process. This may
+occur when new institutions are introduced and directly compete with
+(rather than supplement) an older set of institutions. New institutions
+are often introduced by actors who were “losers” under the old system.
+If institutional supporters of the old system prove unable to prevent
+defection to the new rules, then gradual displacement may take place.
+For instance, the advance of market-oriented institutions in China and
+Cuba pits a new institutional system against an older one. As more
+and more actors defect to the market institutions, they may erode and
+slowly overtake the previous state-controlled arrangements.
+    Layering occurs when new rules are attached to existing ones,
+thereby changing the ways in which the original rules structure behav-
+ior (Schickler 2001; Thelen 2003). Different from displacement, lay-
+ering does not introduce wholly new institutions or rules, but rather
+involves amendments, revisions, or additions to existing ones. Such
+
+[p. 17] [PDF page 35]
+
+layering can, however, bring substantial change if amendments alter
+the logic of the institution or compromise the stable reproduction of
+the original “core.” For example, adding a voucher option to an exist-
+ing school system while maintaining other features intact is likely to set
+in motion changes that over time interfere with the stable reproduc-
+tion of neighborhood-based schools and associated local financing.
+Processes of layering often take place when institutional challengers
+lack the capacity to actually change the original rules (or, as in dis-
+placement, to set up an explicit alternative institution or system). They
+instead work within the existing system by adding new rules on top of
+or alongside old ones. While defenders of the status quo may be able to
+preserve the original rules, they are unable to prevent the introduction
+of amendments and modifications. Each new element may be a small
+change in itself, yet these small changes can accumulate, leading to a
+big change over the long run.
+   Drift occurs when rules remain formally the same but their impact
+changes as a result of shifts in external conditions (Hacker 2005).
+When actors choose not to respond to such environmental changes,
+their very inaction can cause change in the impact of the institution.
+For instance, shifts in population across established electoral districts
+in many democracies can lead to problems of malapportionment, dis-
+torting election outcomes by magnifying the representation of some
+constituencies over others. In Japan, the Liberal Democratic Party
+consolidated and maintained its dominance in electoral politics in
+part by actively neglecting to reapportion Diet seats toward cities in
+response to urbanization. Politicians who resist efforts to revise district
+boundaries in the face of population movements are promoting change
+through drift, since their inaction has the effect of altering substantive
+outcomes.3
+   Conversion occurs when rules remain formally the same but are
+interpreted and enacted in new ways (Thelen 2003). This gap between
+the rules and their instantiation is not driven by neglect in the face of
+a changed setting (as is true with drift); instead, the gap is produced
+by actors who actively exploit the inherent ambiguities of the insti-
+tutions. Through redeployment, they convert the institution to new
+
+
+3   We thank Alan Renwick and Giovanni Capoccia for this example.
+
+[p. 18] [PDF page 36]
+
+goals, functions, or purposes. The “old institutionalism” in sociol-
+ogy is replete with examples of institutional innovators working with
+existing materials to craft solutions to new problems. In some cases,
+conversion results from the incorporation of new supporters or the
+assumption of power by a new political coalition that, rather than
+dismantle old institutions, uses them in new ways (Selznick 1949).
+Think of the way the YMCA was redirected over a long period of time
+and in response to secularization from a primarily religious mission to
+a broader-based community-oriented organization (Zald and Denton
+1963; Zald 1970). In this case, new elites came to power and orches-
+trated the shift from within. However, in some cases even those who
+are disadvantaged by an institution can get traction out of conversion
+strategies. Lacking the capacity to destroy an institution, institutional
+challengers may be able to exploit its inherent ambiguities in ways
+that allow them to redirect it toward more favorable functions and
+effects.
+
+Link I: Political Context, Institutional Characteristics,
+and Modes of Change
+Differences in the character of existing institutional rules as well as in
+the prevailing political context affect the likelihood of specific types
+of change. The key issue is how to conceptualize the dimensions of
+institutions and of political context that matter the most for explaining
+variations in modes of institutional change. We can ask two broad
+questions:
+
+     1. Does the political context afford defenders of the status quo
+        strong or weak veto possibilities?
+     2. Does the targeted institution afford actors opportunities for
+        exercising discretion in interpretation or enforcement?
+
+The answers to these two questions produce the analytic space depicted
+in Table 1.2, which we adopt (with modifications) from Hacker (2005).
+As the table suggests, differences in veto possibilities and the extent of
+discretion in institutional enforcement and interpretation are associ-
+ated with different modes of institutional change.
+   Taking each dimension separately, let us first discuss the issue
+of veto possibilities, which can derive either from especially pow-
+erful veto players or from numerous institutional veto points (e.g.,
+
+[p. 19] [PDF page 37]
+
+table 1.2. Contextual and Institutional Sources of Institutional Change
+
+                                        Characteristics of the Targeted Institution
+                                             Low Level of          High Level of
+                                             Discretion in         Discretion in
+                                            Interpretation/       Interpretation/
+                                             Enforcement           Enforcement
+                             Strong
+                               Veto            Layering                Drift
+                        Possibilities
+Characteristics of
+the Political Context
+                              Weak
+                               Veto          Displacement           Conversion
+                        Possibilities
+
+
+
+Tsebelis 2002). Either way, veto possibilities are high where there exist
+actors who have access to institutional or extrainstitutional means of
+blocking change. These actors may have access to veto capabilities
+regarding both changes in the (formal or informal) rules themselves
+and changes in the rules’ enactment in practice. Actors with strong
+veto capabilities vis-à-vis a given institution, however, may not enjoy
+this strength vis-à-vis other institutions. For example, an independent
+central bank may be a powerful veto player with respect to changes in
+financial institutions but not welfare institutions.
+   Where would-be agents of change face political contexts with myr-
+iad veto possibilities, it will be difficult for them to mobilize the
+resources and assemble a coalition that can displace the existing insti-
+tutional rules. Hence, displacement is unlikely in the context of strong
+veto possibilities. Likewise, efforts at active conversion will be difficult
+in such a context, since veto powers also apply to the realm of rule
+enactment. Instead of displacement or conversion, drift and layering
+are more promising as strategies of change in political environments
+with strong veto players. This is true because drift and layering do not
+require making any direct changes to the old institutions and do not
+rely on altering the rules themselves or actively shifting their enactment.
+   With drift, institutional change grows out of the neglect of an insti-
+tution, or more precisely, the failure to adapt and update an institution
+so as to maintain its traditional impact in a changed environment. Pow-
+erful veto players may be able to defend existing institutions against
+
+[p. 20] [PDF page 38]
+
+outright displacement, but their veto powers are often insufficient to
+prevent drift since doing so typically requires supporters to take active
+steps to shore up support for an institution as the social, economic, or
+political context shifts. Monarchical political institutions, for instance,
+were gradually rendered into mere institutional vestiges as royal pow-
+ers time and time again proved unable to successfully defend the old
+ways in a changing environment marked by rising parliamentary forms
+and their supporters.
+   With layering, institutional change grows out of the attachment
+of new institutions or rules onto or alongside existing ones. While
+powerful veto players can protect the old institutions, they cannot
+necessarily prevent the addition of new elements. Thus, for example,
+Social Democrats across Europe have successfully prevented conser-
+vatives from dismantling public pension schemes, but they have not
+been able to stop the addition of voluntary supplemental pensions
+alongside the public system, which conservatives hope will tilt the bal-
+ance toward the latter over the longer run (Clark and Whiteside 2003;
+Hacker 2005).
+   The other explanatory dimension concerns differences in the extent
+to which institutions are open to contending interpretations and vari-
+ations in their enforcement. As we have argued, adopting a distribu-
+tional approach to institutions means treating compliance with insti-
+tutional rules as a variable that can change over time. In practice,
+nevertheless, the degree to which actors have discretion in implement-
+ing rules will vary from one institution to the next.4 For example,
+enforcing and implementing unemployment benefits typically involve
+some discretion on the part of those who administer such benefits. If
+benefits are attached to a requirement that recipients be “actively seek-
+ing work,” what exactly does that mean (King 1995)? If workers can
+receive benefits only so long as they cannot find “appropriate alter-
+native employment,” what types of jobs might a person be expected
+to take? The sources of variation in the scope of discretion that rules
+allow are of course themselves quite varied: the complexity of the rules,
+the kinds of behaviors regulated by the rules, the extent of resources
+
+
+4   The degree of discretion embedded in different institutional configurations also “maps
+    onto” broad differences between common law and civil law traditions. The importance
+    of this difference for a variety of substantive outcomes has been explored by a number
+    of scholars (e.g., La Porta et al. 1998 for finance and development).
+
+[p. 21] [PDF page 39]
+
+mobilized by the rules, and so on, all matter. In the present context,
+however, we are concerned simply with the variation in the extent of
+discretion that actors have at the interpretation and enforcement levels
+and not with identifying the sources of such variation.
+   Differences in levels of discretion in the interpretation or enforce-
+ment of rules help explain modes of institutional change. If would-be
+agents of change face an institution in which there is very little room for
+discretion in enforcement, then the outcomes of conversion and drift
+are less likely. Conversion normally occurs when rules are ambiguous
+enough to permit different (often starkly contrasting) interpretations.
+As scholars of American political development have noted, contending
+interpretations of the Constitution’s commerce clause (a simple one-
+liner that gives Congress power “to regulate commerce with foreign
+nations and among the several states”) have been harnessed in support
+of rather massive changes in economic and social policy in the United
+States, including the consolidation of labor rights during the New Deal
+as well as important advances in civil rights in the 1960s (Orren 1991;
+Mettler 1998; Skrentny 2002).5
+   Drift can occur when a gap opens up between rules and enforce-
+ment (in this case, often a gap due to neglect). For example, and as
+observers of labor relations in the United States have noted, different
+presidential administrations have been associated with wildly different
+outcomes with respect to workplace safety, depending on how vig-
+orously the Occupational Safety and Health Administration (OSHA)
+enforces existing laws. The same observation has been made about
+union organizing under different presidents, depending on whom they
+appoint to lead the National Labor Relations Board (NLRB) that is
+charged with interpreting and enforcing labor laws in this country
+(see, especially, Freeman 1985; Klein and Wagner 1985, esp. 79–83;
+Moe 1987). In those cases and many others like them, there is tremen-
+dous space for diverse outcomes even under stable rules, given differ-
+ent interpretations (narrow/broad) and enforcement (vigorous/lax) of
+those rules.
+   In short, administrative capacities may be especially important for
+conversion and drift, because weakness on these fronts can create
+
+5   And since the 1990s, interpretations of the commerce clause have taken another,
+    conservative, turn – being used by the Rehnquist Court to limit the areas in which
+    Congress can legislate. We thank Dan Galvin for this observation.
+
+[p. 22] [PDF page 40]
+
+strategic openings for those who oppose the rules on the books. By
+contrast, the other two modes of change, layering and displacement,
+do not rely on exploiting ambiguities in the rules themselves. These
+outcomes are likely strategies for change agents who realize that trans-
+formation cannot occur by taking advantage of a disjuncture between
+rules and enforcement. With layering, the old institution remains in
+place but is amended through the introduction of new rules. With
+displacement, the old institution is simply replaced – outright and
+abruptly or gradually over time. Either way, change occurs in a man-
+ner that does not entail shifting the interpretation or enforcement of
+rules that remain intact.
+
+Link II: Change Agents and Institutional Change
+Addressing questions of institutional change and contemplating the
+kinds of strategies that are most likely to drive such change in diverse
+institutional settings also raises the question: exactly who are the agents
+behind such change? And why do they carry out behavior that leads
+to transformation? From a distributional perspective on institutions,
+as we have seen, a starting answer is that institutional losers drive
+change precisely because they benefit from such change. Yet we have
+also seen how the notion of winners and losers is often too sim-
+ple for real situations. The ambiguities inherent in institutions and
+the uncertainties concerning institutional enactment complicate assess-
+ments about which actors are advantaged and disadvantaged. And the
+fact that actors are simultaneously embedded in multiple institutions
+often leaves them winners in some arenas but losers in others. We need
+a framework for thinking about change agents that goes beyond the
+crude dichotomy between winners and losers.
+   We also need to disentangle actors’ short-run behaviors from their
+long-run strategies.6 We should not, for example, confuse immediate
+rule-conforming behavior with the overall goal of institutional main-
+tenance. Actors may, instead, pursue a strategy of short-run confor-
+mity in the service of long-run insurrectionary goals. We further need
+to be mindful that institutional change need not emerge from actors
+with transformational motives. Rather, institutional change can be an
+
+
+6   We thank Alan Jacobs for emphasizing the importance of this to us.
+
+[p. 23] [PDF page 41]
+
+table 1.3. Types of Change Agents
+
+                                    Seeks to Preserve                 Follows Rules of
+                                    Institution                       Institution
+Insurrectionaries                   No                                No
+Symbionts                           Yes                               No
+Subversives                         No                                Yes
+Opportunists                        Yes/No                            Yes/No
+
+
+unintended by-product that grows out of distributional struggles in
+which no party explicitly sought the changes that eventually occurred.
+   We find it useful to posit four basic change agents: insurrection-
+aries, symbionts (either parasitic or mutualistic), subversives, and
+opportunists.7 We define these actors formally by asking two basic
+questions:
+
+     1. Does the actor seek to preserve the existing institutional rules?
+     2. Does the actor abide by the institutional rules?
+
+The answers to these questions link up to the strategies just discussed
+and are specified in Table 1.3.
+   Identifying change agents is useful for explanatory purposes: each
+agent type is associated with a particular mode of institutional change,
+as well as a particular preferred strategy for effecting such change.
+These associations exist because the contrasting interests or behaviors
+of the change agents vis-à-vis institutional continuity foster different
+patterns of change. In other words, different types of change agents
+emerge in different institutional contexts, and where they are successful
+specific modes of institutional change are likely to follow.
+   Insurrectionaries consciously seek to eliminate existing institutions
+or rules, and they do so by actively and visibly mobilizing against
+them. They reject the institutional status quo and do not always abide
+by its regulations. Insurrectionaries may be especially likely to emerge
+when groups of individuals are disadvantaged by multiple institutions
+that reinforce one another, linking their identities to overall positions
+
+7   Clearly, any given actor may occupy different roles in the context of different insti-
+    tutional politics – for example, adopting an opportunist stance in one arena but
+    assuming the role of insurrectionary in another context or at another time. Thus, the
+    change agents we identify refer to roles rather than fixed identities.
+
+[p. 24] [PDF page 42]
+
+within complexes of institutions. These objective similarities can pro-
+vide a basis for subjective identification and thus coordinated collective
+action.
+   The insurrectionary variety of institutional innovator is widely the-
+orized and represents the way that many institutionalists think about
+change agents when explaining abrupt patterns of change. Indeed,
+when insurrectionaries prevail in conflicts, they may lead critical-
+juncture periods that see the rapid overturning of the institutional
+status quo in favor of radically new rules. Insurrectionaries, therefore,
+may be especially linked to patterns of outright displacement. More-
+over, the rapid displacement of institutions is precisely their goal. If
+displacement occurs gradually, it is likely because insurrectionaries are
+unable to make things change as quickly as they would like.
+   Symbionts come in two varieties – parasitic and mutualistic – and
+in both instances rely (and thrive) on institutions not of their own
+making. In the parasitic variety, these actors exploit an institution for
+private gain even as they depend on the existence and broad efficacy
+of the institution to achieve this gain. While they rely on the preser-
+vation of the institution, parasites themselves carry out actions that
+contradict the “spirit” or purpose of the institution, thus undermin-
+ing it over the longer run. Parasites can flourish in settings where
+expectations about institutional conformity are high, but the actual
+capacity to enforce those expectations is limited. Indeed, parasites will
+not persist if institutional supporters are able to maintain and shore
+up institutions to address these gaps in compliance. As a result, para-
+sites are especially associated with drift, or the neglect of institutional
+maintenance in the face of slippage between rule and practices on the
+ground.
+   In their mutualistic incarnations, symbionts also thrive on and
+derive benefit from rules they did not write or design, using these
+rules in novel ways to advance their interests. In this case, however,
+symbionic activity does not compromise the efficiency of the rules or
+the survival of the institution. Rather, mutualists violate the letter of
+the rule to support and sustain its spirit – in contrast to parasites, who
+exploit the letter of the rule while violating its spirit.8 Mutualists are
+not associated with institutional change through drift; in fact, they
+
+8   We thank Bruce Carruthers for underscoring the alternative possibility.
+
+[p. 25] [PDF page 43]
+
+ordinarily contribute to the robustness of institutions, expanding the
+support coalition on which the institution rests.9
+   The chapter in this volume by Ato Onoma provides a vivid illus-
+tration of the logic of the parasitic variety of symbiont agency and
+its implications for institutional stability and change. Onoma con-
+tests prevailing accounts of property rights institutions as rationally
+designed to secure efficient economic outcomes. In line with the view
+of institutions advanced in this volume, he instead depicts property
+rights regimes as laden with conflict. He shows that in Kenya “con
+men” and “tricksters” systematically exploited a newly institutional-
+ized system of land documentation, playing on people’s beliefs in the
+validity of documents to defraud them by exchanging fake documents
+for money. Kenya’s property rights regime thus underwent drift, as
+politicians systematically neglected slippage in the enactment of the
+regime. Indeed, far from bringing the full powers of the state to bear
+to suppress such parasitic behavior, politicians themselves embraced
+the logic and the strategies of these con men, exchanging protection of
+property for political support. In cases like this, parasitic behavior (as
+in the natural world) can compromise the stability of the system itself.
+For while stable property rights might survive isolated infractions of
+this sort, the multiplication of fraudulent claims compromises the very
+beliefs on which the fraudulent practices rely. The result for Kenya, as
+Dan Slater colorfully noted at the workshop out of which this volume
+grew, was “the tragedy of the con men.”
+   Subversives are actors who seek to displace an institution, but in
+pursuing this goal they do not themselves break the rules of the insti-
+tution. They instead effectively disguise the extent of their preference
+for institutional change by following institutional expectations and
+working within the system. From the outside, they may even appear
+
+9   Mutualists are sometimes therefore associated (like opportunists, discussed later) with
+    conversion. In some cases, the emergence of symbionts is a function of feedback
+    effects, as actors who were not involved in an institution’s design become invested
+    in the institution and develop an interest in its survival. Thelen’s (2004) study of
+    vocational training in Germany provides an example. The country’s union movement
+    opposed the creation of a firm-based training system in the late nineteenth century,
+    but as the ranks of unions swelled with workers who had earned their credentials
+    in that system, the unions developed an interest in maintaining and controlling this
+    institution rather than dismantling it. The overall result was to render the system more
+    robust by expanding its support coalition.
+
+[p. 26] [PDF page 44]
+
+to be supporters of the institutions. But they bide their time, wait-
+ing for the moment when they can actively move toward a stance of
+opposition. As they wait, they may encourage institutional changes
+by promoting new rules on the edges of old ones, thus siphoning off
+support for the previous arrangements. In this sense, subversives may
+be especially associated with patterns of layering, in which new insti-
+tutional elements are grafted onto old ones. Yet depending on the
+features of the political-institutional context, they may also encourage
+institutional conversion and the kinds of neglect that promote institu-
+tional drift. Either way, subversion brings change as developments on
+the periphery make their way to the center.
+   Chapter 2 (this volume) by Tulia Falleti provides an illustration of
+change via subversion. As she demonstrates, the shift in Brazil from
+a fragmented (but centralized) health care system to a universal (but
+decentralized) regime did not take place abruptly with the nation’s
+transition from authoritarianism to democracy. Instead, she identifies
+long-percolating developments at the local level during the authoritar-
+ian period, in which advocates of a municipality-based system infil-
+trated the existing institutions and laid the foundation for a wholly
+different kind of regime. While operating within the broad parame-
+ters of the existing system, these activists exploited crucial gaps and
+openings for action at the local level to put in place a more decen-
+tralized system alongside and within the existing system, but whose
+logic was completely different from the prevailing one. The actions
+of subversives were crucial to later outcomes, and yet it is impor-
+tant to underscore that these changes were not the result of heroic
+agents operating “against all odds.” Rather, as Falleti makes clear,
+there were significant features of the previous authoritarian institu-
+tions (above all, the attempt to penetrate the countryside) that proved
+crucial to the ability of subversives to work against the system from
+within it.
+   Finally, opportunists are actors who have ambiguous preferences
+about institutional continuity. They do not actively seek to preserve
+institutions. However, because opposing the institutional status quo is
+costly, they also do not try to change the rules. Opportunists instead
+exploit whatever possibilities exist within the prevailing system to
+achieve their ends. Indeed, the weight of opportunists within an institu-
+tion can be a major source of institutional inertia. Their preference for
+
+[p. 27] [PDF page 45]
+
+making use of existing possibilities over the riskier strategy of mobiliz-
+ing for change makes opportunists – through their inaction – “natural”
+(de facto) allies of an institution’s supporters. Thus, beyond the power
+asymmetries noted earlier, opportunists help explain why changing an
+institutional status quo is often far more difficult than defending it.10
+   When they do emerge as agents of change, opportunists often engage
+in strategies of conversion: ambiguities in the interpretation or imple-
+mentation of existing rules provide the space for them to redeploy
+these rules in ways unanticipated by their designers. The ultimate fate
+of the Auroux Reforms, a package of laws passed by a Socialist gov-
+ernment in France in 1981, provides an example of this (Howell 1992).
+These laws were designed to shore up the country’s historically weak
+trade unions and strengthen collective bargaining by bolstering the
+voice and power of labor at the plant level. However, as Chris Howell
+(1992) shows, the paradoxical outcome was something like the oppo-
+site: in a context of economic crisis and deep antipathy on the part
+of French employers toward organized labor, firms seized upon and
+exploited ambiguities in the law to promote the development of firm-
+specific forms of labor representation that competed with unions –
+thus in fact further marginalizing unions and weakening collective bar-
+gaining.11
+   In sum, we can generalize about the affinity between particular kinds
+of actors and modes of change as follows: Insurrectionaries seek rapid
+displacement but will settle for gradual displacement. Symbionts seek
+to preserve the formal institutional status quo, but their parasitic vari-
+ety carries out actions that cause institutional drift. Subversives seek
+displacement but often work in the short run on behalf of layering.
+Opportunists adopt a wait-and-see approach while pursuing conver-
+sion when it suits their interests.
+
+10   We are grateful to Giovanni Capoccia for this insight.
+11   Moreover, and consistent with the arguments laid out earlier, Howell (1992) traces
+     this result to ambiguities that were built into the law as a result of the complex
+     coalition that presided over its passage, which in this case fatefully included a minor-
+     ity of actors representing an older tradition within the French left committed to
+     worker self-management. Howell notes that “the final [legislative] package was . . . a
+     compromise and a hodge-podge of elements” (p. 183), and he attributes its paradox-
+     ical effects to “a certain plasticity of law” in which key provisions became “Trojan
+     horses” for strategies that were antithetical to the law’s express purposes (pp. 182,
+     185).
+
+[p. 28] [PDF page 46]
+
+table 1.4. Contextual and Institutional Sources of Change Agents
+
+                                   Characteristics of the Targeted Institution
+                                        Low Level of           High Level of
+                                        Discretion in          Discretion in
+                                       Interpretation/        Interpretation/
+                                        Enforcement            Enforcement
+
+                        Strong
+                                        Subversives        Parasitic Symbionts
+                          Veto
+                                         (layering)                (drift)
+                   Possibilities
+Characteristics
+of the Political
+Context                  Weak         Insurrectionaries        Opportunists
+                          Veto         (Displacement)          (Conversion)
+                   Possibilities
+
+
+Link III: How Context and Institutions Shape Change Agents
+Pulling together aspects of context and types of actors, we can also gen-
+erate some general propositions concerning the kinds of environments
+in which different agents are likely to emerge and thrive. As Table 1.4
+suggests, the character of existing institutional rules and the prevail-
+ing political context are again the key explanatory factors. Change
+agents become the intervening step through which the character of
+institutional rules and political context do their causal work.
+   First, insurrectionaries can emerge in any setting, but they are more
+likely to flourish in environments characterized by low discretion and
+weak veto possibilities. Low discretion is quite compatible with strate-
+gies of outright displacement (as opposed to conversion or drift), while
+fewer veto possibilities means that defenders of the status quo who
+can be expected to resist change will not be well positioned to counter
+insurgent efforts aimed at displacement.
+   Second, symbionts of the parasitic variety are the mirror image of
+this, thriving in environments characterized by strong veto possibilities
+and high enforcement discretion. Since parasitic symbionts wish to
+retain the formal institutional status quo, strong veto players (many
+veto points) help to secure this outcome. At the same time, however,
+parasitic symbionts need high discretion in enforcement, because this
+allows them room to alter the valence and meaning of institutionalized
+rules.
+
+[p. 29] [PDF page 47]
+
+Third, subversives can be expected to emerge and thrive in contexts
+in which the existence of strong veto possibilities and few rule inter-
+pretation and enactment opportunities makes it difficult for opposition
+actors to openly break or even bend the rules of an institution. In this
+environment, change agents must work within the system to achieve
+their goals.
+   Finally, opportunists tend to thrive in settings where there is a great
+deal of discretion in how institutions are enacted and there are few
+veto players or points to prevent actual institutional change. In this
+setting, institutional supporters may turn a blind eye to those who
+willfully convert institutions for their own purposes so long as they
+do not oppose outright the institutional rules. Moreover, institutional
+challengers do not need to pursue insurrectionary strategies since gaps
+between rules and enactment are available for them to exploit. Rather
+than oppose institutions outright, then, institutional challengers cap-
+ture resources by acting as opportunists who redeploy the prevailing
+rules for their own purposes.
+
+Coalitional Dynamics and the Politics of Institutional Change
+The foregoing discussion has developed broad propositions about the
+conditions under which particular types of change agents are likely to
+emerge as dominant, and it has also identified the kind of change that
+is associated with each agent. In reality, of course, change agents often
+do not work alone. Rather, they must act in concert with other institu-
+tional actors – other defenders and opponents of existing institutions.
+Because of the status quo bias of institutions – rooted in Shepsle’s
+(1986) “wedge of uncertainty” as well as in increasing returns to insti-
+tutionalized power – the success of various kinds of agents in effecting
+change typically depends crucially on the coalitions they are able to
+deliberately forge or that emerge unexpectedly in the course of distri-
+butional struggle. As Peter Hall (this volume) notes, the relative power
+of various actors is enormously important in affecting their ability to
+assemble the coalition they need to change (or defend) existing arrange-
+ments. While these coalitions are inevitably shaped by the particular
+setting in question, it is possible to make generalizations about how dif-
+ferent transformative actors can and cannot forge alliances with those
+who benefit and do not benefit from the prevailing rules. Table 1.5
+presents the logic of these alignments by asking, broadly, whether a
+
+[p. 30] [PDF page 48]
+
+table 1.5. Coalitional Alignments
+
+                     Allies with Institutional    Allies with Institutional
+                     Supporters                   Challengers
+Insurrectionaries    No                           Yes
+Symbionts            Yes                          No
+Subversives          No                           No
+Opportunists         Yes/No                       Yes/No
+
+
+
+given actor will seek alliances with an institution’s supporters or its
+challengers, bearing in mind that part of the task is often to mobilize
+latent defenders or opponents into action.
+   Some of the connections here are straightforward. For example, the
+interests of insurrectionaries are by definition at odds with those of
+the defenders of the status quo. Insurrectionaries must seek alliances
+with other institutional challengers who have their own reasons (pos-
+sibly substantively quite different) for opposing existing arrangements.
+Opportunists, by contrast, are available for all kinds of alliances,
+including alliances with insurrectionaries, depending on the political
+winds. In fact, the success of insurgencies often depends crucially on
+their forging an alliance with opportunists who are in principle not
+committed to existing institutions. Opportunists can be brought into
+such a coalition, however, only if insurrectionaries can convince them
+that change is likely or even inevitable – at which point opportunists
+will take up the insurgent cause. This is in fact one of the lessons
+that emerged from the literature on the transition from communism in
+Eastern Europe. Kuran (1991), for example, showed that the success
+of prodemocracy forces hinged crucially on signs that a critical mass
+of support for change had been assembled by the insurrectionaries;
+as change began to appear more likely, citizens’ revealed preferences
+shifted dramatically. Beissinger (2002) documents a similar “cascade”
+effect in which a successful revolution in one region emboldened insur-
+gents in neighboring countries and (we would add) in the process
+brought opportunists into the alliance for change.
+   Other aspects of the coalitional politics implied by the framework
+in this chapter are even more intriguing. For example, subversives
+(such as those in Tulia Falleti’s chapter) need to work to the extent
+possible under the radar of the dominant actors. This means that,
+despite their preference for change, they may not align themselves
+
+[p. 31] [PDF page 49]
+
+(certainly not openly) with insurrectionaries. Instead, they work on
+their own, behind the scenes or in the shadows. As Pierson pointed
+out during our workshop, the effects are like those of “termites in the
+basement” – the changes these actors have wrought may appear only
+with a delay, and then come to light suddenly (in Falleti’s example,
+with the transition to democracy), even though the process of change
+itself was gradual.
+   Finally, symbionts are in some ways the most interesting of the
+change agents we have explored here. In both varieties (mutualistic and
+parasitic), the interests of symbionts are broadly consistent with (and
+in many ways rely on) the preservation of status quo institutions. This
+makes them ready allies of defenders of the status quo and opponents
+of insurrectionaries. But because the substantive goals of symbionts
+are frequently at odds with those of current institutional supporters,
+strange coalitions can emerge. Alan Jacobs’s chapter provides a good
+example of this type of “Baptist-bootlegger” coalition. In his account,
+a key feature of the U.S. Social Security system – contributory financ-
+ing – was jointly shored up in a period of instability (the 1950s) by
+an unlikely alliance of social progressives and fiscal conservatives. For
+progressives, contribution-based funding provided a compelling polit-
+ical and moral logic for maintaining and incrementally expanding the
+program, while conservatives embraced this same feature for the way it
+prevented that expansion from going too far. These kinds of alliances
+are not uncommon for symbionts, who “come around” to supporting
+institutions created by others and with different purposes in mind.
+
+
+Conclusion
+
+Building on previous conceptual work and harnessing the lessons
+we can draw from the analysis of concrete instances of institutional
+change, this chapter has presented a theory of gradual institutional
+change. The argument emphasizes the interaction between features
+of the political context and properties of the institutions themselves
+as crucially important for explaining institutional change. It also calls
+attention to the different types of change agents – and associated strate-
+gies – that are likely to flourish in particular institutional environments.
+   The theory suggests a potentially broad agenda and invites fur-
+ther research on gradual institutional change. It offers new concepts
+and causal propositions for scholars to draw on and put to use in their
+
+[p. 32] [PDF page 50]
+
+own investigations. Indeed, rather than promote abstract debate about
+metatheory or definitions, this framework is intended to stimulate and
+aid in the substantive analysis of institutional change – whether in
+individual cases or across sets of cases. Ultimately, the arguments we
+have put forward can be evaluated only through the analysis of con-
+crete cases and actual episodes of institutional change. Conversely,
+it is through their application that the concepts and propositions we
+advance can be further refined and elaborated.
+    Empirically assessing the theory in these substantive ways is some-
+thing that can and should be carried out by institutionalists of all stripes
+in the social sciences. Although we have built on ideas developed in the
+field of historical institutionalism (and the chapters that follow origi-
+nate mostly in that tradition as well), our propositions can be explored
+with equal profit by sociological and rational-choice institutionalists.
+Whatever the current disputes among scholars associated with alter-
+native strands of institutionalism, their views are not so different as to
+prohibit a common research agenda focused on gradual institutional
+change. As Peter Hall’s concluding chapter suggests, institutional ana-
+lysts from different schools all stand to benefit by combining their best
+insights in the shared pursuit of valid explanation. Whatever exten-
+sions and revisions emerge from the use of the framework we have
+laid out here, this volume will have served its purpose if it stimulates
+more scholars to explore broad-ranging questions about gradual insti-
+tutional change across diverse times and places.
+
+References
+Abbott, Andrew. 2001. Time Matters: On Theory and Method. Chicago:
+  University of Chicago Press.
+Acemoglu, Daron, Simon Johnson, and James A. Robinson. 2005. “Institu-
+  tions as the Fundamental Cause of Long-Run Growth.” In Handbook of
+  Economic Growth, vol. 1A, ed. Philippe Aghion and Steve Durlauf, 85–472.
+  Amsterdam: Elsevier.
+Aminzade, Ronald. 1992. “Historical Sociology and Time.” Sociological
+  Methods and Research 20:456–480.
+Arthur, W. Brian. 1994. Increasing Returns and Path Dependence in the Econ-
+  omy. Ann Arbor: University of Michigan Press.
+Bates, Robert H., Avner Greif, Margaret Levi, Jean-Laurent Rosenthal, and
+  Barry R. Weingast. 1998. Analytic Narratives. Princeton: Princeton Univer-
+  sity Press.
+
+[p. 33] [PDF page 51]
+
+Beissinger, Mark R. 2002. Nationalist Mobilization and the Collapse of the
+   Soviet State. Cambridge: Cambridge University Press.
+Berger, Peter L., and Thomas Luckmann. 1967. The Social Construction of
+   Reality. New York: Doubleday.
+Boas, Taylor. 2007. “Conceptualizing Continuity and Change: The
+   Composite-Standard Model of Path Dependence.” Journal of Theoretical
+   Politics 19:33–54.
+Calvert, Randall L. 1995. “The Rational Choice Theory of Social Institu-
+   tions: Cooperation, Coordination, and Communication.” In Modern Polit-
+   ical Economy: Old Topics, New Directions, ed. Jeffrey S. Banks and Eric A.
+   Hanushek, 216–268. Cambridge: Cambridge University Press.
+Capoccia, Giovanni, and R. Daniel Kelemen. 2007. “The Study of Critical
+   Junctures: Theory, Narrative, and Counterfactuals in Historical Institution-
+   alism.” World Politics 59 (April): 341–369.
+Carpenter, Daniel P. 2001. The Forging of Bureaucratic Autonomy. Princeton:
+   Princeton University Press.
+Carpenter, Daniel P., and Colin D. Moore. 2007. “Robust Action and
+   the Strategic Use of Ambiguity in a Bureaucratic Cohort: FDA Officers
+   and the Evolution of New Drug Regulations, 1950–1970.” In Forma-
+   tive Acts: American Politics in the Making, ed. Stephen Skowronek and
+   Matthew Glassman, 340–362. Philadelphia: University of Pennsylvania
+   Press.
+Clark, Gordon L., and Noel Whiteside, eds. 2003. Pension Security in the 21st
+   Century: Redrawing the Public-Private Debate. Oxford: Oxford University
+   Press.
+Clemens, Elisabeth S., and James M. Cook. 1999. “Politics and Institution-
+   alism: Explaining Durability and Change.” Annual Review of Sociology
+   25:441–466.
+Collier, Ruth Berins, and David Collier. 1991. Shaping the Political Arena:
+   Critical Junctures, the Labor Movement, and Regime Dynamics in Latin
+   America. Princeton: Princeton University Press.
+DiMaggio, Paul J., and Walter W. Powell. 1983. “The Iron Cage Revis-
+   ited: Institutional Isomorphism and Collective Rationality in Organizational
+   Fields.” American Sociological Review 48:147–160.
+Dobbin, Frank. 1994. Forging Industrial Policy: The United States, Britain,
+   and France in the Railway Age. New York: Cambridge University Press.
+Downing, Brian M. 1992. The Military Revolution and Political Change:
+   Origins of Democracy and Autocracy in Early Modern Europe. Princeton:
+   Princeton University Press.
+Ertman, Thomas. 1997. Birth of the Leviathan: Building States and Regimes
+   in Medieval and Early Modern Europe. Cambridge: Cambridge University
+   Press.
+Fligstein, Neil. 1996. “Markets as Politics: A Political-Cultural Approach to
+   Market Institutions.” American Sociological Review 61:656–673.
+
+[p. 34] [PDF page 52]
+
+Fligstein, Neil D. 2008. Fields, Power, and Social Skill: A Critical Analysis
+   of the New Institutionalisms.” International Public Management Review 9
+   (1):227–253.
+Freeman, Richard B. 1985. “Why Are Unions Faring Poorly in NLRB Repre-
+   sentation Elections?” In Challenges and Choices Facing American Labor, ed.
+   Thomas A. Kochan, 45–88. Cambridge, MA: MIT Press.
+Greif, Avner, and David D. Laitin. 2004. “A Theory of Endogenous Insti-
+   tutional Change.” American Political Science Review 98 (4) (November):
+   633–652.
+Hacker, Jacob S. 2005. “Policy Drift: The Hidden Politics of US Welfare State
+   Retrenchment.” In Beyond Continuity: Institutional Change in Advanced
+   Political Economies, ed. Wolfgang Streeck and Kathleen Thelen, 40–82.
+   Oxford: Oxford University Press.
+Hall, Peter A. 1986. Governing the Economy: The Politics of State Intervention
+   in Britain and France. New York: Oxford University Press.
+Hall, Peter A., and Rosemary C. R. Taylor. 1996. “Political Science and the
+   Three ‘New Institutionalisms.’” Political Studies 44 (December): 936–957.
+Hannan, Michael T., and John H. Freeman. 1989. Organizational Ecology.
+   Cambridge, MA: Harvard University Press.
+Howell, Chris. 1992. “The Contradictions of French Industrial Relations
+   Reform.” Comparative Politics 24 (2) (January): 181–197.
+Jepperson, Ronald L. 1991. “Institutions, Institutional Effects, and Institution-
+   alism.” In The New Institutionalism in Organizational Analysis, ed. Walter
+   W. Powell and Paul J. DiMaggio, 143–163. Chicago: University of Chicago
+   Press.
+Katznelson, Ira. 2003. “Periodization and Preferences: Reflections on Pur-
+   posive Action in Comparative Historical Social Science.” In Comparative
+   Historical Analysis in the Social Sciences, ed. James Mahoney and Dietrich
+   Rueschemeyer, 270–301. Cambridge: Cambridge University Press.
+King, Desmond. 1995. Actively Seeking Work: The Politics of Unemploy-
+   ment and Welfare Policy in the United States and Great Britain. Chicago:
+   University of Chicago Press.
+Klein, Janice A., and E. David Wagner. 1985. “The Legal Setting for the
+   Emergence of the Union Avoidance Strategy.” In Challenges and Choices
+   Facing American Labor, ed. Thomas A. Kochan, 75–88. Cambridge, MA:
+   MIT Press.
+Knight, Jack. 1992. Institutions and Social Conflict. Cambridge: Cambridge
+   University Press.
+Kohli, Atul. 2004. State-Directed Development: Political Power and Indus-
+   trialization in the Global Periphery. Cambridge: Cambridge University
+   Press.
+Kuran, Timor. 1991. “Now Out of Never: The Element of Surprise in the East
+   European Revolution of 1989.” World Politics 44 (1) (October): 7–48.
+
+[p. 35] [PDF page 53]
+
+La Porta, Rafael, Florencio Lopez-de-Silanes, Andrei Shleifer, and Robert
+  Vishney. 1998. “Law and Finance.” Journal of Political Economy 106 (6)
+  (December): 1113–1155.
+Levi, Margaret. 1997. “A Model, a Method and a Map: Rational Choice in
+  Comparative and Historical Analysis.” In Comparative Politics: Rationality,
+  Culture, and Structure, ed. Mark Irving Lichbach and Alan S. Zuckerman,
+  19–41. New York: Cambridge University Press.
+Levi, Margaret. 2008. “Reconsiderations of Rational Choice in Comparative
+  and Historical Analysis.” In Comparative Politics: Rationality, Culture, and
+  Structure, ed., Mark Irving Lichbach and Alan S. Zuckerman, 2nd ed., 117–
+  133. New York: Cambridge University Press.
+Lieberman, Robert. 2006. “Private Power and American Bureaucracy: The
+  EEOC, Civil Rights Enforcement, and the Rise of Affirmative Action.”
+  Paper presented at the Annual Meeting of the American Political Science
+  Association, Philadelphia, August 31.
+Mahoney, James. 2000. “Path Dependence in Historical Sociology.” Theory
+  and Society 29:507–548.
+Mahoney, James. 2010. Colonialism and Postcolonial Development: Span-
+  ish America in Comparative Perspective. New York: Cambridge University
+  Press.
+March, James G., and Johan P. Olsen. 1984. “The New Institutionalism:
+  Organizational Factors in Political Life.” American Political Science Review
+  78:734–749.
+Mettler, Suzanne. 1998. Dividing Citizens: Gender and Federalism in New
+  Deal Public Policy. Ithaca, NY: Cornell University Press.
+Moe, Terry. 1987. “Interests, Institutions and Positive Theory: The Politics of
+  the NLRB.” Studies in American Political Development 2:236–299.
+Moe, Terry M. 2005. “Power and Political Institutions.” Perspectives on Pol-
+  itics 3:215–233.
+North, Douglass C. 1990. Institutions, Institutional Change, and Economic
+  Performance. Cambridge: Cambridge University Press.
+North, Douglass C. 1993. “Toward a Theory of Institutional Change.” In
+  Political Economy: Institutions, Competition, and Representation, eds.
+  William A. Barnett, Norman Schofield, and Melvin Hinich, 61–69. Cam-
+  bridge: Cambridge University Press.
+Orren, Karen. 1991. Belated Feudalism. New York: Cambridge University
+  Press.
+Ostrom, Elinor. 1990. Governing the Commons: The Evolution of Institutions
+  for Collective Action. New York: Cambridge University Press.
+Palier, Bruno. 2005. “Ambiguous Agreement, Cumulative Change: French
+  Social Policy in the 1990s.” In Beyond Continuity: Institutional Change in
+  Advanced Political Economies, ed. Wolfgang Streeck and Kathleen Thelen,
+  127–144. Oxford: Oxford University Press.
+
+[p. 36] [PDF page 54]
+
+Pierson, Paul. 1994. Dismantling the Welfare State? Reagan, Thatcher, and
+   the Politics of Retrenchment. Cambridge: Cambridge University Press.
+Pierson, Paul. 2004. Politics in Time: History, Institutions, and Social Analysis.
+   Princeton: Princeton University Press.
+Pierson, Paul, and Theda Skocpol. 2002. “Historical Institutionalism in Con-
+   temporary Political Science.” In Political Science: State of the Discipline, ed.
+   Ira Katznelson and Helen V. Milner, 693–721. New York: W.W. Norton.
+Powell, Walter W. 1991. “Expanding the Scope of Institutional Analysis.” In
+   The New Institutionalism in Organizational Analysis, ed. Walter W. Powell
+   and Paul J. DiMaggio, 183–203. Chicago: University of Chicago Press.
+Schickler, Eric. 2001. Disjointed Pluralism: Institutional Innovation and the
+   Development of the U.S. Congress. Princeton: Princeton University Press.
+Scott, W. Richard. 1995. Institutions and Organizations. Thousand Oaks,
+   CA: Sage.
+Selznick, Philip. 1949. TVA and the Grass Roots. Berkeley: University of
+   California Press.
+Sheingate, Adam. 2007. “The Terrain of the Political Entrepreneur.” In For-
+   mative Acts: American Politics in the Making, ed. Stephen Skowronek and
+   Matthew Glassman, 13–31. Philadelphia: University of Pennsylvania Press.
+Shepsle, Kenneth. 1986. “Institutional Equilibrium and Equilibrium Institu-
+   tions.” In Political Science: The Science of Politics, ed. Herbert Weisberg,
+   51–81. New York: Agathon.
+Shepsle, Kenneth A. 1989. “Studying Institutions: Some Lessons from the
+   Rational Choice Approach.” Journal of Theoretical Politics 1:131–147.
+Shonfield, Andrew. 1965. Modern Capitalism: The Changing Balance of Public
+   and Private Power. London: Oxford University Press.
+Skocpol, Theda. 1995. “Why I Am an Historical Institutionalist.” Polity
+   28:103–106.
+Skowronek, Stephen, and Matthew Glassman, eds. 2007. Formative Acts:
+   American Politics in the Making. Philadelphia: University of Pennsylvania
+   Press.
+Skrentny, John D. 2002. Minority Rights Revolution. Cambridge, MA:
+   Harvard University Press.
+Stinchcombe, Arthur L. 1987. Constructing Social Theories. Chicago: Univer-
+   sity of Chicago Press.
+Streeck, Wolfgang, and Kathleen Thelen. 2005. “Introduction: Institutional
+   Change in Advanced Political Economies.” In Beyond Continuity: Institu-
+   tional Change in Advanced Political Economies, ed. Wolfgang Streeck and
+   Kathleen Thelen, 1–39. Oxford: Oxford University Press.
+Thelen, Kathleen. 1999. “Historical Institutionalism in Comparative Politics.”
+   Annual Review of Political Science 2:369–404.
+Thelen, Kathleen. 2003. “How Institutions Evolve: Insights from Compara-
+   tive Historical Analysis.” In Comparative Historical Analysis in the Social
+
+[p. 37] [PDF page 55]
+
+Sciences, ed. James Mahoney and Dietrich Rueschemeyer, 305–336. Cam-
+  bridge: Cambridge University Press.
+Thelen, Kathleen. 2004. How Institutions Evolve: The Political Economy
+  of Skills in Germany, Britain, the United States, and Japan. New York:
+  Cambridge University Press.
+Thelen, Kathleen. 2009. “Institutional Change in Advanced Political Eco-
+  nomies.” British Journal of Industrial Relations 47 (September): 471–498.
+Thelen, Kathleen, and Sven Steinmo. 1992. “Historical Institutionalism in
+  Comparative Politics.” In Structuring Politics: Historical Institutionalism
+  in Comparative Analysis, ed. Sven Steinmo, Kathleen Thelen, and Frank
+  Longstreth, 1–32. New York: Cambridge University Press.
+Tsebelis, George. 2002. Veto Players: How Political Institutions Work. Prince-
+  ton: Princeton University Press.
+Weingast, Barry R. 2002. “Rational-Choice Institutionalism.” In Political Sci-
+  ence: State of the Discipline, ed. Ira Katznelson and Helen V. Milner, 660–
+  692. New York: W.W. Norton.
+Weingast, Barry R., and William J. Marshall.1988. “The Industrial Organiza-
+  tion of Congress; or, Why Legislatures, Like Firms, Are Not Organized as
+  Markets.” Journal of Political Economy 96 (February): 132–163.
+Weir, Margaret. 1992. Politics and Jobs: The Boundaries of Employment
+  Policy in the United States. Princeton: Princeton University Press.
+Yashar, Deborah J. 1997. Demanding Democracy: Reform and Reaction in
+  Costa Rica and Guatemala, 1870s–1950s. Princeton: Princeton University
+  Press.
+Zald, Mayer N. 1970. Organizational Change: The Political Economy of the
+  YMCA. Chicago: University of Chicago Press.
+Zald, Mayer N., and Patricia Denton. 1963. “From Evangelism to General Ser-
+  vice: The Transformation of the YMCA.” Administrative Science Quarterly
+  8 (2) (September): 214–234.
+Zorn, Dirk, Frank Dobbin, Julian Dierkes, and Man-Shan Kwok. 2006. “The
+  New Firm: Power and Sense-making in the Construction of Shareholder
+  Value.” Nordic Organization Studies 3:41–68.
+Zucker, Lynne G. 1983. “Organizations as Institutions.” In Research in the
+  Sociology of Organizations, ed. S. B. Bacharach, 1–42. Greenwich, CT: JAI
+  Press.

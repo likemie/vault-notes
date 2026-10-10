@@ -1,0 +1,1633 @@
+Explaining Institutional Change: Ambiguity, Agency, and Power
+Edited by James Mahoney and Kathleen Thelen
+First published in print: 2009 | Copyright: 2010 | Cambridge University Press
+
+Chapter 4: Policymaking as Political Constraint: Institutional Development in the U.S. Social Security Program
+Alan M. Jacobs
+Original print pages 94–131; PDF pages 112–149
+
+[English original. Chapter footnotes and references are retained in their original page positions. Print page markers and one-based PDF page numbers are provided. Original line breaks and fixed-width table layout are retained; verify diagrams and exact typography against the PDF.]
+
+
+========================================================================
+Chapter text, footnotes, and references
+========================================================================
+
+[p. 94] [PDF page 112]
+
+4
+
+Policymaking as Political Constraint
+
+Institutional Development in the U.S.
+Social Security Program
+
+        Alan M. Jacobs
+
+
+
+
+Today, few features of the American policy landscape are as promi-
+nent and popular, or have proven as resilient over time, as the Social
+Security program. The largest single item of federal expenditure, Social
+Security routinely ranks among the state activities most valued by ordi-
+nary citizens (United States Office of Management and Budget 2008).1
+Over the last thirty years, the retirement program has survived largely
+intact against assault by a highly mobilized and politically ascendant
+conservative movement, most recently withstanding President George
+W. Bush’s 2005 push for partial privatization.
+   Such political success, however, could hardly have been predicted
+at the moment of Social Security’s establishment. Two features of
+the scheme’s original financial architecture suggested a particularly
+troubled political future. First, the program was to be financed solely
+via payroll contributions from insured workers and their employers.
+
+1   Data from the General Social Survey (GSS) show that between 2000 and 2006, about
+    95% of the U.S. public thought that spending on Social Security should either increase
+    or stay the same. Support for Social Security spending was therefore comparable to
+    support for education and health, two valence issues, and much higher than support
+    for other government programs. Data from Davis et al. (2007).
+The author would like to thank Nico Dragojlovic and Steven Klein for able research
+assistance and is grateful to James Mahoney, Kathleen Thelen, Peter Hall and the other
+members of the Workshop on Institutional Change at Northwestern University for
+helpful comments on earlier drafts. This research received generous financial support
+from the Center for American Political Studies at Harvard University and the Social
+Sciences and Humanities Research Council of Canada (Grant #410-2006-1174).
+
+[p. 95] [PDF page 113]
+
+Among its consequences, reliance on payroll taxes made the program’s
+financing highly regressive, concentrating the visible tax burden on
+those constituents who could least afford to pay (Leuchtenburg 1963;
+Leff 1983). Second, the program was established on a “funded” actu-
+arial basis, much like a private insurance plan. As a funded scheme,
+Social Security would not use current payroll contributions to finance
+current social expenditures but save them to cover the cost of future
+outlays. While “funding” would result in lower long-term contribu-
+tion rates, it required imposing a far higher payroll tax and paying far
+lower benefits for the scheme’s first decades. With such high net costs
+in the near term, actuarial funding would be a remarkable choice for
+any elected government to make; it was, however, an especially strik-
+ing decision amidst the economic crisis and soaring rates of old-age
+poverty of the 1930s.
+   Why did the creators of the Social Security program choose a design
+that would impose such heavy short-run costs and generate so few
+short-run social benefits for the most vulnerable social groups? As
+I will contend, the choices of Social Security’s architects make sense
+only if we take into account their institutional aims – the ways in which
+they sought to employ policy rules and structures as constraints on the
+long-run politics of public pensions. In particular, Franklin Roosevelt
+and his closest advisers wanted to expand public social protection but
+worried about how their successors might exploit the programs that
+they were now creating. If future incumbents sought to use pension
+payouts to court constituents and win votes, Social Security might
+generate a politics of endless expansion that would threaten the fiscal
+capacities of the state. Roosevelt and his advisers chose pure contrib-
+utory and funded financing, in large measure, to restrain this future
+political dynamic: that is, to make it more difficult for their successors
+to raise benefits and to insulate the Treasury against future claims on
+federal resources.
+   These programmatic institutional choices left Social Security highly
+vulnerable to challenge, however. Designed to manage long-term polit-
+ical risks, these rules had real costs in the near term and did little to
+generate a constituency for the program’s maintenance in the short run.
+In fact, in the years following the program’s enactment, Social Security
+faced assault from actors across the political spectrum, as forces on the
+left and the right condemned the scheme’s high contribution rates, the
+
+[p. 96] [PDF page 114]
+
+regressivity of its taxes, the long delay in its payment of benefits, and
+its accumulation of a massive fund. Yet the program not only survived
+but flourished, maintaining to the present its institutional character
+as a purely contributory financial arrangement, weathering along the
+way repeated demands for radical change by both liberals and con-
+servatives. How can we explain the persistence of a program saddled
+with such costly and unpopular rules?
+    Historical institutionalists have commonly explained institutional
+stability by pointing to path-dependent processes, especially positive-
+feedback mechanisms through which rules generate consequences that,
+over time, enhance the power resources of their advocates and broaden
+supporting coalitions. The literature on comparative welfare-state pol-
+itics would strongly suggest a path-dependent account of Social Secu-
+rity’s apparent stability over time, and indeed, welfare-state scholars
+have pointed to contributory pension programs – and Social Security,
+in particular – as quintessential sites of institutional self-reinforcement
+(Pierson 1994; Myles and Pierson 2001).
+    By contrast, and consistent with arguments advanced throughout
+this volume, this essay will contend that there was nothing automatic
+or mechanical about the survival and flourishing of contributory old-
+age insurance in the United States. Institutional change has commonly
+been theorized as a rare and dramatic reconfiguration, arising from
+a large-scale shift in exogenous conditions. As Mahoney and Thelen
+(introduction) emphasize, however, processes endogenous to institu-
+tions may generate incremental change on a more frequent basis, as
+agents disadvantaged by current practices routinely seek to revise, sup-
+plement, or reinterpret the rules, sometimes by exploiting resources
+and ambiguities embedded in the institutions themselves. In the face
+of both exogenous dislocations and internal challenge, institutional
+defenders must in turn engage in ongoing efforts to mobilize and
+maintain political support, at times by strategically modifying the very
+structures they seek to preserve. Rather than extended stasis punctu-
+ated by abrupt transformation, the resulting pattern may be a series of
+subtle institutional shifts that cumulate into major change over time.
+Underscoring and illustrating these dynamics, this chapter’s explana-
+tion of Social Security’s developmental trajectory rests on two principal
+arguments, each of which departs in important ways from a standard
+path-dependent logic of institutional entrenchment.
+
+[p. 97] [PDF page 115]
+
+First, the apparent continuity of Social Security’s broad outlines
+masks considerable, recurring instability in its underlying rules. Over
+the last seven decades, central elements of the original scheme have
+witnessed substantial revision: contributory insurance was overtaken
+and nearly displaced by noncontributory welfare spending, actuarial
+funding was abandoned and then partially restored, and the meaning
+of the contributory principle has been thoroughly reworked. While
+Social Security has not seen abrupt and sweeping transformation, the
+cumulative effect of seventy years of institutional contestation is a
+program that departs in fiscally and socially consequential ways from
+Roosevelt’s original blueprint.
+   The chapter’s second major claim, again echoing a major theme of
+this volume, is that the most important changes in Social Security’s
+financing institutions have resulted not from exogenous shocks but
+from endogenous sources – as consequences of the rules themselves and
+of the conflict that they generated. Far from reaping steeply increas-
+ing returns, the New Dealers’ institutional arrangements yielded three
+kinds of negative-feedback effects. First, as rules with major distribu-
+tive consequences, Social Security’s underlying institutions generated
+their own opposition, provoking immediate challenges from groups
+who were disadvantaged by them. Second, the program’s structure
+provided its opponents with crucial strategic opportunities. Designed
+to limit the options of future majorities, Social Security’s institutional
+logic ultimately proved contingent and malleable, open to redeploy-
+ment by actors with competing goals. The program’s rules created
+latent resources – material, procedural, and moral – that rivals were
+able to convert into tools of institutional challenge. Third, under condi-
+tions of intense institutional contestation, change did not emerge solely
+from the choices and strategies of institutional opponents. Indeed,
+defenders of the New Deal vision were among the most important
+change agents in the program’s historical development. As Social Secu-
+rity faced assault from both left and right, fiscally conservative cham-
+pions of the social-insurance principle chose to revise and reinterpret
+programmatic rules in order to shore up the scheme’s political founda-
+tions and to close off future opportunities for challenge. Institutional
+survival, in short, has been predicated on gradual institutional change.
+   In examining the strategies of both opponents and guardians of
+programmatic rules, the chapter demonstrates the ways in which
+
+[p. 98] [PDF page 116]
+
+continuity and change in institutional arrangements may be intimately
+linked: how rules intended to generate stability may provoke and
+enable processes of transformation, and how institutional persistence
+may depend critically on timely strategic innovation. The account here
+also illustrates why the analysis of institutional development cannot be
+separated from the study of institutional origins, as the initial choices
+and compromises made by designers will generate many of the most
+important pressures and opportunities for downstream change.
+   From here the chapter proceeds in four steps. The next section elab-
+orates the concept of a programmatic institution and unpacks its logic
+of political constraint. The chapter then considers why such institu-
+tions may not be subject to some of the stabilizing mechanisms most
+commonly thought to hold institutions in place – why, that is, program-
+matic institutions may be relatively susceptible to change. Returning
+to the empirical case, the essay turns next to the historical analysis
+of the development of key programmatic institutions governing Social
+Security’s finances, from the mid-1930s to the mid-1980s. The chapter
+concludes by identifying the broad developmental patterns at work in
+this account and drawing out the larger implications of the argument
+for institutional analysis.
+
+
+The Logic of Programmatic Institutions
+
+Policies as Programmatic Institutions
+Public policies frequently do more than generate distributions of re-
+sources and collective social consequences in the near term. By attach-
+ing rewards and penalties to specific activities and establishing binding
+rules, elements of public policy can also exert durable structuring and
+constraining effects on social interaction – effects that are best con-
+sidered institutional (Streeck and Thelen 2005). As Pierson points out
+(2004), “For the individuals and social organizations that make up civil
+society, public policies are clearly very central rules governing their
+interactions” (165).
+   Beyond these structuring effects on social actors outside the state,
+two prominent lines of analysis suggest that public policies can also
+serve as institutions in a second, more political sense – structuring and
+constraining future decision making by political actors themselves. On
+the one hand, arguments about policy feedback have outlined how
+
+[p. 99] [PDF page 117]
+
+specific features of program design can shape the menu of feasible
+options available to the future officeholders who inherit them, and can
+affect the political costs and benefits associated with future policy alter-
+natives (Skocpol 1992; Pierson 1993; Hacker 2002). Yet, at the same
+time, scholars analyzing problems of political uncertainty and delega-
+tion have illuminated actors’ intentional and strategic use of program
+design to constrain their rivals and successors over time (e.g., Moe
+1990; McNollgast 1999; Patashnik 2000; Huber and Shipan 2002).
+Public programs can be deliberately crafted, for instance, in ways that
+will make them more difficult for future legislators to dismantle, will
+inhibit their future expansion, or will tie the hands of the bureaucratic
+agents charged with implementing them.
+    The concept of a programmatic institution refers to the constrain-
+ing effect of existing policies on the future politics of policy choice.
+More specifically, I define a programmatic institution as a structural
+feature of an existing public program that influences the menu of policy
+options from which officeholders choose or the political costs and ben-
+efits associated with those options. Consistent with our understanding
+of institutions more broadly, programmatic institutions need not be
+an object of intentional choice: their constraining effects may be an
+unforeseen consequence of policy choices made for other reasons. In
+the analysis that follows, however, I focus specifically on dynamics
+that involve intentional efforts of programmatic institutional design.
+
+The Constraining Effects of Programmatic Institutions
+Why might actors seek to use public policy as a tool of institutional
+constraint? In well-institutionalized democracies, macro-level political
+institutions, such as constitutional provisions, are usually designed to
+reduce uncertainty about processes of allocating political authority
+and to provide decision rules for policymaking. Political actors devise
+programmatic institutions, in contrast, with a much more finely tuned
+objective in mind: reducing uncertainty about specific policy outcomes.
+When voters and organized groups value a policy objective (low taxes,
+light regulation, a clean environment), they often care not just about
+winning a near-term gain but about creating an enduring stream of
+policy benefits. Politicians, too, have reasons to seek to entrench policy
+victories over time and to avoid future policy defeats: not only might
+they have their own long-term preferences over policy outcomes, but
+
+[p. 100] [PDF page 118]
+
+they also have incentives to act to protect the long-term welfare of
+organized interests and other attentive constituencies (Moe 1990).
+    Actors in democratic contexts turn to programmatic institutions
+because macro-level institutional structures seldom resolve political
+uncertainty about today’s policy achievements. To the contrary, the
+rules of political competition are usually designed to raise the likeli-
+hood that today’s policymaking coalition will see its power wane at
+some future point in time. Actors in power today thus search for alter-
+native tools for binding the hands of those who will wield influence
+tomorrow. While constitutions themselves are exceedingly difficult to
+change, policy structures can usually be manipulated by a much nar-
+rower coalition, and they can often be designed in ways that will shape
+the options, barriers, and incentives confronting the future officehold-
+ers who will inherit them. In this sense, programmatic constraints are a
+logical institutional countermaneuver for actors prevented by higher-
+order rules from remaining in power forever.
+    Programmatic institutions typically operate by bequeathing to to-
+morrow’s incumbents a policy structure that makes certain courses of
+action more politically appealing than others. Designers of program-
+matic institutions can choose from a wide range of constraining strate-
+gies, but for the purposes of illustration I will briefly identify three
+common strategies of constraint here:
+    Manipulating information. As students of policy feedback have
+argued, the ease with which voters can attribute credit or blame often
+depends on the structure of the public programs with which gov-
+ernments are tinkering (Arnold 1990; Pierson 1994; Pal and Weaver
+2003). To invert this insight, those governing today can often design
+policy in ways that will shape the visibility to future voters of particular
+kinds of policy moves by those governing tomorrow.
+    One informational strategy seeks to limit future changes in the dis-
+tribution of resources by compartmentalizing resource flows, creating
+a separate accounting of the funds raised for and spent on a specific
+policy goal. A common form of compartmentalization is the financing
+of a program out of a trust fund that is fed only by its own dedicated
+sources of revenue, often a hypothecated tax levied on program bene-
+ficiaries (Patashnik 2000). By restricting a program to a single source
+of revenue, compartmentalization can be used to raise the visibility
+of attempts to expand a program. Rather than having to frame an
+
+[p. 101] [PDF page 119]
+
+argument against the program’s benefits, opponents of expansion can
+point to the financial constraints of the trust fund or to the specific tax
+hike that any spending increase would require. At the same time, com-
+partmentalization can also make it easier to detect when resources are
+being diverted from the original policy goal since this would require
+their removal from a dedicated account.
+   Another informational strategy institutes routine reporting mech-
+anisms structured to highlight particular consequences. Legislators
+can require administrative agencies to measure and describe at reg-
+ular intervals their activities and the consequences or projected conse-
+quences of those activities. By carefully selecting the quantities to be
+measured and the time horizon of forecasting, today’s policymakers
+can clarify and dramatize for voters the implications of any future
+policy changes.
+   Shaping capacities. Governments can also shape their successors’
+decisions by augmenting or exhausting state fiscal or administrative
+capacities. By designing policy to expand state capacities – for instance,
+by arranging secure long-term financing for programmatic goals –
+today’s incumbents can enhance the sustainability of current programs
+by making it less politically costly or more administratively feasible for
+future governments to maintain them. Conversely, by eliminating fis-
+cal slack or dismantling bureaucratic structures, today’s policymakers
+can narrow the options of future governments by forcing them to take
+painful measures if they wish to pursue new spending or new regula-
+tory or enforcement activities.2
+   Inducing investment. Tomorrow’s incumbents may have little incen-
+tive to keep commitments made by their predecessors. The current gov-
+ernment can, however, make it harder for future coalitions to change
+course by, in effect, making its own promises costly to constituents,
+that is, by requiring or encouraging constituents to pay specific costs
+now in return for benefits later. Probably the most commonly cited
+example of this strategy derives from the field of pensions: those
+designing state retirement schemes can choose to finance them via
+contributions from workers, who thereby earn entitlements to future
+payouts. Tomorrow’s incumbents, whatever their own pension policy
+goals, will find it politically perilous to revoke benefits for which their
+
+2   Eliminating capacities resembles what Pierson (1994) terms “systemic retrenchment.”
+
+[p. 102] [PDF page 120]
+
+constituents have paid in advance (Pierson 1994; Myles and Pierson
+2001; Weaver 2003).
+
+
+Susceptibility to Change
+
+The designers of programmatic institutions seek to lend their policy
+achievements enhanced stability over time. We might well ask, how-
+ever, what holds policy rules themselves in place. In fact, programmatic
+institutions may be more susceptible to change than other types of
+political structure. Three mechanisms commonly theorized to hold
+institutions in place – mutual gains, restrictive amendment rules, and
+positive feedback – will tend to operate in diminished form in the case
+of programmatic rules.
+    First, programmatic institutions are likely to be objects of intense
+political contention rather than broad consensus. Arguments derived
+from the new institutional economics typically emphasize the collective
+benefits of institutions in reducing transaction costs and facilitating cer-
+tain kinds of cooperation and exchange (Weingast and Marshall 1988;
+North 1990). In most cases, however, programmatic institutions will
+have large distributive implications (Knight 1992). They are intended
+by their designers to tilt the playing field for future policy conflict,
+shaping the relative capacities of contending coalitions to achieve their
+goals. We should thus expect programmatic institutions to be a fre-
+quent focus of political conflict among rival interests and officeholders,
+rather than the object of broadly based agreement.
+    Second, the exceptionally restrictive amendment rules attached to
+most constitutional provisions will rarely be available to those design-
+ing programmatic constraints. Like most elements of public policy,
+programmatic institutions will be the product of ordinary acts of leg-
+islation, and in most democratic contexts, today’s legislative majority
+is unable to use common statute to formally bind tomorrow’s. Thus, a
+programmatic institution can usually be changed by ordinary legisla-
+tive coalitions. While there may still be significant hurdles to legislative
+change – especially in polities that disperse veto power widely – such
+obstacles are unlikely to compare to the amendment procedures that
+hold most constitutional provisions in place.
+    Third, we should not routinely expect to see processes of positive
+feedback reinforcing programmatic institutions over time. According
+
+[p. 103] [PDF page 121]
+
+to one common understanding of the path dependence of institutions,
+institutions reap increasing returns to the extent that they establish
+expectations that then encourage actors to invest in specific assets,
+the value of which depends on the continuation of current arrange-
+ments. In this dynamic, institutions generate their own expanding
+support coalitions the longer they remain in place (Pierson 2004).
+For instance, policies that subsidize employer-provided health cover-
+age encourage firms, workers, and insurance companies to invest in
+long-term arrangements that presuppose the maintenance of the sub-
+sidies (Hacker 1998). Similarly, the politics of contributory pensions
+itself offers an elegant illustration of positive feedback at work. Every
+year that a contributory pension program is in place, members of the
+workforce amass longer contribution records and larger earned enti-
+tlements to benefits; each successive cohort of workers may also save
+less in expectation of higher levels of state support. With the passage of
+time, contributory programs thus become more politically and fiscally
+costly for governments to dismantle (Pierson 1994; Myles and Pierson
+2001). In these increasing-returns dynamics, stability derives from the
+fact that rules lead private actors to pay substantial costs to establish
+arrangements that will continue to have value only if the rules are
+maintained.
+   Many programmatic institutional structures, however, will exert
+only a modest influence on long-term choices made by social actors
+outside the state. Where program structures do not significantly set
+expectations or incentives for individuals or organizations, they are
+unlikely to induce investments or to generate strong social interde-
+pendencies that would make change costly. Consider, for instance,
+program rules that require administrators to report on specific pro-
+gram outputs and outcomes. Reporting rules may exert a constraining
+effect on future officeholders, who might wish to transfer resources
+out of the program by making the consequences of such changes more
+visible. But the existence of the reporting rule is in itself unlikely to be
+the basis of costly specific investments by individuals or organizations.
+   Even contributory pension programs will be path dependent in only
+a limited sense. By creating a sense of earned entitlement among ben-
+eficiaries, contributory financing may make it risky for future office-
+holders to cut benefits. However, the feedback mechanism that pro-
+tects benefit levels does not similarly constrain attempts to change the
+
+[p. 104] [PDF page 122]
+
+programmatic institution – the financing method – itself. Few con-
+stituents will have made choices or investments, based on the expec-
+tation of pure contributory financing, that would lose value if the
+program started to receive additional resources from general revenues.
+To frame this point more generally, we should not confuse the feed-
+back effects of a policy structure with self-reinforcement: to observe
+that policy structure A makes it hard to change policy structure B tells
+us nothing about what holds structure A itself in place.
+    The aim of the preceding discussion is not to suggest that legisla-
+tive change is routine or easy. Indeed, many statutory arrangements
+display substantial longevity, especially in macroinstitutional contexts
+that diffuse policymaking authority. Rather, my claim is that, in study-
+ing programmatic institutions, we cannot assume the operation of the
+same stabilizing mechanisms that help hold many other institutions in
+place. Nor can we assume that the primary sources of change will be
+rare and dramatic exogenous shocks that momentarily disturb deeply
+settled arrangements, as in models of punctuated equilibrium (Krasner
+1984). Instead, we should normally expect the evolution of program-
+matic institutions to exhibit the kind of frequent, incremental, and
+endogenously driven change that are the focus of this volume. As
+emphasized in the introductory chapter, our efforts to explain these
+institutions’ developmental trajectories should pay careful attention to
+coalitional dynamics – that is, to the conditions that shape the capac-
+ities of contending actors to forge and maintain coalitions capable of
+challenging or defending prior structural choices.
+
+
+The Historical Development of Programmatic Institutions
+in Social Security
+
+How can we explain Social Security’s original fiscal rules, especially its
+strict reliance on contributions and on actuarial funding? And given
+the stark political liabilities of these provisions, how can we account
+for the survival of the program on a purely contributory basis?
+   Returning now to these empirical puzzles, I will argue that the
+flourishing of contributory social insurance in the United States derived
+as much from processes of institutional change as from mechanisms
+of positive feedback. In tracing the program’s institutional trajectory,
+the account that follows focuses on the strategic interactions among
+
+[p. 105] [PDF page 123]
+
+three sets of actors with rival motives: activist fiscal conservatives, who
+supported a state role in providing social protection but sought to
+protect the Treasury from rising expenditure demands; expansionists
+on the left, who sought far more rapid and more generous spending
+on the aged; and orthodox conservatives on the right, who sought to
+maximally limit the possibilities for state intervention. Each group of
+actors favored those policy rules that it thought most likely to shape
+the scheme’s future politics to its own advantage.
+    Together with other contributions in this volume, this analysis
+will illustrate ways in which institutional change and stability are
+tightly linked. Social Security’s rules were initially crafted to anchor
+the scheme’s finances and to constrain its expansion, yet those same
+rules later served as important endogenous drivers of change. Social
+Security’s initial institutional structure provoked challenge through its
+distributive effects – by diminishing the program’s short-term benefits,
+raising its costs, and disadvantaging specific political interests. At the
+same time, the New Dealers’ institutional design also enabled future
+challenge: while constraining opponents in certain respects, the Social
+Security Act also harbored latent strategic resources – material, proce-
+dural, and moral – that rivals could mobilize and redeploy for their own
+institutional purposes. Meanwhile, activist fiscal conservatives sought
+to preserve Roosevelt’s institutional arrangements, especially strict
+contributory financing, as they came under assault. Yet the ability of
+fiscal guardians to secure the contributory model hinged on their will-
+ingness to change it – to reinterpret its principles, to abandon its most
+vulnerable components, and to layer new fiscal defenses atop old.3
+    To be clear, the analysis that follows focuses on programmatic insti-
+tutions related to the financing of the Social Security scheme, leaving
+
+
+3   Readers with a particular interest in Social Security politics will note that Derthick
+    (1979), in her magisterial study of the program, also understands its politics as shaped
+    by strategic attempts to limit future options. Derthick describes a dynamic dominated
+    by the institutionalizing efforts of one group – liberal advocates – who sought aggres-
+    sively to maintain and expand the program. Her liberal advocates, however, seem to
+    have possessed a nearly unilateral capacity to manipulate the terms of political con-
+    flict, blessed by conservative opponents who were “uncertain of their stakes, internally
+    divided, reluctant to appear self-interested or to risk a high level of political involve-
+    ment” (156). In contrast, I argue that the program’s history is better described as a
+    product of dueling efforts to employ program design to both constrain and to elude
+    constraint on program growth.
+
+[p. 106] [PDF page 124]
+
+aside rules governing the payout of benefits except insofar as bene-
+fit provisions derived from financing principles. Readers can find an
+overview of the historical account in Table 4.1, which summarizes
+the key programmatic institutional developments in Social Security
+financing from 1935 to 1983. For each development, the table identi-
+fies the outcome; the set of agents that engineered the design, change,
+or preservation of the relevant rule; and the programmatic institutional
+logic behind the rule or rule change.
+
+Designing Compromised Constraints
+In June 1934, President Franklin Roosevelt appointed the cabinet-
+level Committee on Economic Security (CES), headed by Secretary
+of Labor Frances Perkins, to design a public system of “cradle-to-
+grave” insurance against risks such as unemployment and old age.
+Among the few directives that Roosevelt issued to the committee was
+an insistence that the old-age annuity scheme be a “self-supporting”
+program, financed out of contributions from the insured rather than
+general tax revenues. Roosevelt and his fiscally orthodox Treasury
+secretary, Henry Morgenthau, favored contributory financing partly to
+avoid further strain on the federal budget at a time of mounting deficits.
+Roosevelt also saw contributory insurance as morally preferable to
+“the dole,” which he considered to be “a narcotic, a subtle destroyer
+of the human spirit.”4
+    Aside from these immediate fiscal and moral concerns, however,
+Roosevelt and his advisers were also worried about the long-run
+political dynamic that their project might unleash. Roosevelt, central
+figures in his administration, and staffers on the CES had emerged from
+a Progressive political tradition that viewed government intervention
+as both a powerful instrument of social progress and a potential threat
+to sound fiscal management and democratic accountability. As activist
+fiscal conservatives, they sought to mobilize state capacities to pro-
+tect individuals against market and life-cycle risks, but were concerned
+about how their successors might deploy any new policy tools that
+they inherited. The early politics of American social policy suggested
+reason for caution, as party politicians had exploited prior benefit
+schemes such as Civil War pensions as easy sources of patronage and
+
+4   Quoted in Berkowitz (1991).
+
+[p. 107] [PDF page 125]
+
+table 4.1. Key Institutional Developments in Social Security Financing,
+1935–1983
+
+                                      Key Agent of         Agent’s Programmatic
+            Programmatic              Institutional Change Institutional Strategy
+Period      Institutional Development or Maintenance       or Aim
+1935        Establishment of strict      Activist fiscal     Compartmentalization
+            contributory financing       conservatives
+            Establishment of full                            Expand state
+            funding                                          capacities
+
+1939–1949 Gradual dismantling of         Orthodox            Constrain state
+          funding                        conservatives, in   capacities
+                                         coalition with
+                                         expansionists
+
+Late 1930s Near displacement of     Expansionists            Circumvent fiscal
+and 1940s contributory insurance by                          compartmentalization
+           noncontributory,
+           means-tested OAA
+
+1950        Contributory financing       Activist fiscal     Reinstate
+            expanded, displacement       conservatives       compartmentalization
+            by OAA reversed
+            Funding rules explicitly                         Expand coalition for
+            replaced by PAYGO rules                          compartmentalized
+                                                             insurance
+            Contributory principle                           Expand coalition for
+            reinterpreted                                    compartmentalized
+                                                             insurance
+            75-year forecasting rule                         Reinforce
+            added to contributory rule                       compartmentalization,
+                                                             close off paths to
+                                                             circumvention
+
+1950–early Contributory logic            Expansionsists      Circumvent
+1970s      converted to tool of                              compartmentalization
+           expansion
+
+1977 and    Contributory rule            Activist fiscal     Maintain
+1983        preserved; PAYGO rule        conservatives       compartmentalization
+            displaced by partial                             against pressures for
+            funding                                          change
+
+[p. 108] [PDF page 126]
+
+constituency handouts (Ikenberry and Skocpol 1987; Skocpol 1992;
+Orloff 1993). The New Dealers worried that future incumbents would
+also seek to manipulate new spending programs for electoral bene-
+fit, generating an unrestrained expansionary dynamic (Ikenberry and
+Skocpol 1987; Orloff 1988). In the 1930s, growing populist move-
+ments peddling radically redistributive proposals suggested further
+cause for concern. Under pressure from the Townsendites5 and other
+expansionist forces, nineteen states had already adopted means-tested
+old-age assistance laws between 1929 and 1933 (Schlesinger 1958;
+Leuchtenburg 1963; Graebner 1980; Orloff 1993). With the Republi-
+can Party reduced nearly to a rump faction in Congress, administration
+officials saw it as entirely possible that their successors might emerge
+from their left rather than their right. As FDR fretted to an adviser
+in 1934, “You know, [Louisiana senator and populist radical] Huey
+Long may be the next President of the United States.”6
+    Roosevelt and his aides believed that the design of a public pro-
+gram – particularly its method of financing – could have an important
+effect on the program’s future politics. Earlier social programs, in their
+view, had been left vulnerable by the fact that they were paid for out of
+the government’s general budget (Ikenberry and Skocpol 1987). With
+the costs of program expansion spread thinly across all taxpayers but
+benefits targeted at key constituencies, the electoral calculus always
+favored increasing largesse. Administration officials saw contributory
+financing, in contrast, as promising far preferable political feedback
+effects. By tying expenditures to a dedicated tax, contributory social
+insurance would force future officeholders to impose visible costs on
+constituents every time they made benefits more generous. One of Roo-
+sevelt’s business allies later framed this logic of compartmentalization
+crisply:
+
+Of course one thing that we had in mind all along with the contributory system
+was that the [House of Representatives] Ways and Means Committee and the
+Senate Finance Committee would keep a very careful watch on it to keep it
+
+
+5 Comprising more than one million members by 1935, the Townsend movement called
+  for noncontributory pensions of $200 per month for every person over age sixty
+  (Amenta and Poulson 1996).
+6 Thomas H. Eliot, New York Times Oral History Program, Columbia University Oral
+
+  History Collection, Part III, No. 154, Social Security Administration Project, p. 11.
+
+[p. 109] [PDF page 127]
+
+from getting out of line because they know if they raise benefits, they’ve got to
+raise taxes. They know there’s a certain limit to what the taxes are going to be.7
+
+Moreover, by linking the receipt and level of benefits tightly to an indi-
+vidual’s record of premium payments, contributory financing would
+limit politicians’ discretion in allocating benefits across individuals,
+foreclosing opportunities to convert the program to patronage pur-
+poses (Ikenberry and Skocpol 1987; Orloff 1988; Berkowitz 1991;
+Orloff 1993; Rodgers 1998; Kennedy 1999).8
+   In thinking about the long-term political effects of their policy
+choices, Roosevelt and Morgenthau sought not only to limit future
+expansion but also to shape the conditions under which future politi-
+cians would meet benefit expenses. Specifically, they wanted to ensure
+that Congress would never face financial pressure to dip into general
+revenues or to raise ordinary taxes to pay promised pensions. Their
+institutional strategy was to align the program’s financing rules with
+the principle of long-term financial responsibility that governed private
+insurance plans: actuarial funding. To understand actuarial funding,
+
+7 Marion Folsom, New York Times Oral History Program, Columbia University Oral
+  History Collection, Part III, No. 158, Social Security Administration Project, p. 77.
+8 Some analysts have proposed an alternative institutional objective of contributory
+
+  financing: that Roosevelt sought to prevent future officeholders from reducing bene-
+  fits (e.g. Derthick 1979; Schlesinger 1958). This interpretation relies on a remark that
+  the president reportedly made in 1941 to a Treasury aide who had questioned the eco-
+  nomic wisdom of payroll taxation: “I guess you’re right on the economics. They are
+  politics all the way through. We put those pay roll contributions there so as to give the
+  contributors a legal, moral, and political right to collect their pensions and their unem-
+  ployment benefits. With those taxes in there, no damn politician can ever scrap my
+  social security program. Those taxes aren’t a matter of economics, they’re straight
+  politics” (Luther Gulick, “Memorandum on Conference with FDR Concerning
+  Social Security Taxation, Summer, 1941,” http://www.ssa.gov/history/Gulick.html,
+  last accessed September 25, 2007. Original document in Franklin D. Roosevelt Presi-
+  dential Library, Hyde Park, NY).
+       While such an interpretation is logically plausible, it is useful to note that the
+  documentary record provides no indication that Roosevelt or his advisers worried
+  about the threat of future cutbacks as they were designing the program in 1934 and
+  1935. This silence compares to a wealth of evidence that the program’s founders were
+  concerned about the fiscal implications of their choices and the political threat from
+  the left. One possible explanation is that the antiretrenchment benefits of contribu-
+  tory financing only became salient to Roosevelt over time. As conservative forces in
+  Congress gathered strength in the wake of the 1938 and 1940 elections, the political
+  conditions for progressive reform evaporated and the administration engaged in a
+  more defensive politics of program maintenance.
+
+[p. 110] [PDF page 128]
+
+it is helpful to consider its opposite: pay-as-you-go (PAYGO) financ-
+ing. A PAYGO scheme essentially operates hand-to-mouth, each year
+collecting in tax revenues little more than what it needs to pay that
+year’s benefits. Establishing the scheme on a funded basis, in contrast,
+would mean that the Social Security program would collect today the
+contributions that it needed to discharge tomorrow’s benefit promises.
+In doing so, the scheme would amass enormous capital reserves, pro-
+jected to reach $280 billion by 1980.9 Because a funded plan would
+always have sufficient assets on hand to cover all of its outstanding
+liabilities, future incumbents would never be forced to look elsewhere
+for revenues to cover pension payouts (Perkins 1946).
+    Funding the plan had adverse material implications in the short
+term, however, including far higher payroll tax rates than a PAYGO
+scheme would require. The president’s bill would start out with a
+2 percent tax in 1937 that would rise to 6 percent over the next twelve
+years. Funding would also require maintaining a close relation between
+benefit payouts and contribution records: rather than grandfathering
+in existing seniors, only those who contributed would receive benefits;
+no pensions would be paid until 1942; and payouts would start out
+low, reflecting the limited contribution records of the first beneficiaries.
+While imposing a high regressive tax on workers and employers in a
+stagnant economy, the program would do nothing for elderly citizens
+presently in need.
+    When the administration’s proposal reached Congress, these short-
+term effects drew widespread criticism, and the insurance plan was of
+little interest to most legislators. Roosevelt thus realized that he faced
+substantial obstacles to forging a winning coalition for his preferred
+institutional design. His strategy of coalition building relied on careful
+manipulation of the legislative agenda – tying old-age insurance to ini-
+tiatives that would deliver far greater short-run benefits to constituents,
+especially the aged poor (Witte 1962; Quadagno 1988). In addition to a
+popular unemployment insurance scheme, the CES included in the bill
+
+
+9   Figure in 1980 dollars. “Statement of the Secretary of the Treasury on the Eco-
+    nomic Security Bill,” File 011.01, “Legislative History and Analysis.” Chairman’s
+    File, 1935–1942, Records of the Social Security Board/Records of the Office of the
+    Commissioner, RG 47, NACP. Calculation of 1980 value employs GDP deflator from
+    Louis D. Johnston and Samuel H. Williamson, “The Annual Real and Nominal GDP
+    for the United States, 1790–Present,” http://www.measuringworth.com (last accessed
+    February 27, 2008).
+
+[p. 111] [PDF page 129]
+
+a separate, quick-acting program, Old Age Assistance (OAA). Financed
+out of general revenues rather than contributions, OAA would provide
+immediate federal grants to the states covering half the cost of their
+own needs-based pension programs. The administration thus hoped
+to achieve its long-term institutional goals by directing near-term side
+payments to key constituencies.
+    Opponents of public old-age insurance sought to counter this leg-
+islative strategy directly. Members of both the House and the Senate
+proposed amendments that would have stripped the old-age insurance
+provision from the bill, allowing Congress to enact only the more pop-
+ular measures for immediate aid without Roosevelt’s insurance scheme
+(Hacker 2002). The president was nonetheless able to muster enact-
+ing majorities for his preferred rules thanks to the unusual electoral
+conditions of the mid-1930s. Not only did Roosevelt enjoy a mas-
+sive Democratic majority in Congress, but he also commanded a rare
+degree of loyalty from legislators of his own party, many of whom
+owed their seats to his coattails. Roosevelt was thus able to persuade
+the congressional leadership and the chairmen of the tax-writing com-
+mittees to keep old-age insurance attached to the larger bill. In doing
+so, the president and his allies effectively forced members of Congress
+to choose between just two options: his omnibus bill, with old-age
+insurance included, or the status quo. If legislators wanted pensions
+for the poor and benefits for the unemployed, then they had to accept
+the administration’s costly and regressive Social Security taxes as well
+(Schlesinger 1958; Witte 1962; Berkowitz 1991).
+
+Converting and Displacing Constraint
+As political conditions shifted, however, the structures chosen in
+1935 – together with the macroinstitutional context – would lend crit-
+ical resources and opportunites to actors both to Roosevelt’s right and
+to his left who sought to challenge his programmatic aims. Against a
+backdrop of renewed economic misery, the 1938 midterm elections
+brought major gains for Republicans and anti-Roosevelt Southern
+Democrats, substantially enlarging and emboldening the conservative
+coalition in Congress.10 If Roosevelt represented an activist form of
+fiscal conservatism – one that paired a belief in collective solutions with
+
+10   Roosevelt’s much-derided 1937 Court-packing scheme had also emboldened conser-
+     vative Democrats who had, until then, hesitated to rebel against a popular president.
+
+[p. 112] [PDF page 130]
+
+a preference for “sound financing” – business and Southern conserva-
+tives subscribed to a more orthodox conservatism, deeply suspicious of
+federal public authority (Vogel 1981; Quadagno 1988). Viewing the
+Social Security program as insufficiently constrained, orthodox con-
+servatives in Congress sought ways of further tying the hands of future
+majorities. At the same time, on Roosevelt’s left, the Townsendites
+and other populist, expansionist actors continued to gather support
+well after Social Security’s enactment, sustaining their push for more
+generous and immediate help for the aged.
+   Even before the law’s enactment, what had most concerned business
+groups and conservatives about the program was the large fund that
+actuarial financing methods would generate. Rather than shielding the
+Treasury against future demands, in their view, actuarial funding might
+encourage fiscal profligacy. As the Commerce Department’s Business
+Advisory Council had argued in 1935, massive surpluses would simply
+provide a painless opportunity for vote-seeking politicians to enrich
+pension benefits:
+
+It is very doubtful whether under our form of government we could actually
+accumulate this large reserve fund. . . . There would be a strong tendency either
+to increase the benefits or to reduce the tax rate, with the former being the
+probable course. If this were done a tremendous burden would be placed upon
+future generations.11
+
+Capitalists also worried that Congress would raid the pension fund
+for unrelated purposes, generating “practically unlimited possibilities
+of reckless public financing” and “uncontrolled Government spend-
+ing.”12
+   Orthodox conservatives thus sought to dismantle Roosevelt’s pro-
+grammatic institution of funding and replace it with a different kind
+of constraint: PAYGO financing. Conservatives’ institutional strategy
+was to exhaust state capacities: if the program collected in payroll
+taxes each year only what it needed to pay benefits, then significant
+
+11 Business Advisory Council, “Report of the Committee on Social Legislation regarding
+   Old Age Security Sections of the Bill H.R. 7260,” April 30, 1935, CES – Reports,
+   Drawer #2: CES Materials, Lateral File #3, SSAHA, p. 3.
+12 See testimony to Senate Finance (1935), Economic Security Act. See also Henry
+
+   Harriman’s (Chamber of Commerce) argument before the committee about the dan-
+   gers of government investment of such a large fund (719).
+
+[p. 113] [PDF page 131]
+
+asset accumulation would be avoided, and future Congresses would
+have no easy path to raising benefits or financing other government
+activities.
+    Of course, amending Roosevelt’s financing rules would require
+crafting a new coalition for legislative change. Yet the tools for con-
+structing that coalition lay, in an important sense, within the existing
+institutions. By definition, a shift to PAYGO financing would require
+liquidating the existing and projected reserves dictated by actuarial
+funding. The process of draining those funds in turn would free up
+resources that could be used for other purposes. Thus, a switch to
+PAYGO financing had the rare quality of a fiscal “free lunch,” allow-
+ing – indeed, requiring – the dissemination of large short-term benefits
+at no short-run cost. Crucially, orthodox conservatives’ goal of dis-
+mantling funding thus dovetailed perfectly with demands by groups at
+the other end of the political spectrum – especially, calls by expansion-
+ists and left-wing opponents of regressive financing to speed up the
+payment of Social Security benefits, broaden the program’s reach, and
+ease the payroll-tax burden.
+    By 1938 broad legislative majorities had coalesced around a pack-
+age of measures that would partly reverse actuarial funding via the
+distribution of widespread gains to beneficiaries and payroll-tax pay-
+ers. As the program faced assault from both right and left, even the
+administration saw institutional adjustment as necessary to preserve
+the core concept of contributory social insurance. In the wake of con-
+servative gains in the 1938 elections, the president no longer enjoyed
+the kind of agenda-setting influence within Congress that might have
+allowed him to preempt the formation of a coalition for defunding.
+Moreover, he and top Social Security administrators came to believe
+that the payment of quicker benefits would be necessary to build pub-
+lic support for the besieged program (Schlabach 1969; Derthick 1979;
+Achenbaum 1986; Brinkley 1995; Tynes 1996; Kennedy 1999).
+    In 1939, Congress passed and Roosevelt signed amendments to the
+Social Security Act that added survivors’ and dependents’ benefits,
+moved the payout of the first pensions up to 1940, and postponed
+scheduled increases in the contribution rate. What made funding such a
+vulnerable structure was – precisely as conservatives had pointed out –
+that the new fiscal capacities that it created were, ultimately, highly
+convertible: opponents of funding had, in effect, turned Roosevelt’s
+
+[p. 114] [PDF page 132]
+
+tool of “sound” actuarial financing into an instrument of coalition
+building for the dismantling of the institution itself. In fact, seven times
+in the course of the 1940s, Congress acted to postpone scheduled
+increases in the payroll tax, effectively emptying the trust fund of
+assets. Each time, defunding enjoyed a broad coalition of support as it
+allowed elected officials to take action that would avoid the imposition
+of broadly based costs on constituents.
+   Meanwhile, expansionists advocating vastly increased pension
+spending found additional, latent institutional opportunities in the
+1935 act’s provision for Old Age Assistance (OAA). Intended as a
+short-term measure while the contributory insurance program ma-
+tured, this initially small program furnished vital tools for the elab-
+oration and expansion of an alternative model that would ultimately
+come close to displacing Social Security. Under the auspices of OAA,
+individual states were free to set pension benefits at any level and to
+recover half the cost, up to thirty dollars per month per recipient,
+from Washington. States were also permitted wide latitude in writing
+eligibility rules, as long as recipients were sixty-five or older.
+   In ways surely unintended by administration officials, these struc-
+tures furnished three kinds of strategic opportunities for the expansion
+of general-revenue-financed social provision. First, by leaving the size
+and scope of benefits in the hands of state legislatures, the act greatly
+enhanced the policy relevance of an alternative set of decision-making
+venues. The empowerment of subnational policymaking arenas mat-
+tered because the largest pro-welfare political forces – including the
+Townsendites, labor movements, and left-wing third parties – were far
+better organized in some parts of the country than in others. With their
+presence unevenly distributed across the states, advocates for the poor,
+aged, and needy saw their influence diluted at the national level and
+their initiatives blocked by conservative (especially, Southern) forces
+in Congress. However, in states in the West and North, where pro-
+welfare parties and movements enjoyed concentrated strength, they
+were well positioned to press state legislatures for generous social
+provision (Amenta and Zylan 1991; Amenta and Poulsen 1996). Sec-
+ond, even outside these centers of left-party and populist-movement
+strength, the OAA program’s financing formula created clear incentives
+for state politicians to design their own programs on liberal terms: for
+every dollar spent locally, an additional dollar would flow in from
+
+[p. 115] [PDF page 133]
+
+Washington (Quadagno 1988; Amenta 1998). Third, by opening a
+channel for spending on the aged out of general Treasury funds, OAA
+enhanced the prospect of an expansionary dynamic at the federal level,
+offering members of Congress a relatively painless method of enhanc-
+ing social provision for the elderly.
+   Throughout the late 1930s and the 1940s, expansionist forces thus
+opportunistically exploited openings at the state level in order to cir-
+cumvent the more tightly constrained national old-age insurance pro-
+gram. While OAA’s flexible terms allowed Southern states to keep aver-
+age benefits low (Quadagno 1988), the program’s overall expenditures
+grew dramatically over its first fifteen years. As insurance entitlements
+mounted slowly and failed to keep pace with inflation, average OAA
+benefits across the country rose 57 percent in real terms, to forty dol-
+lars per month, during the 1940s. In the middle of the decade, even
+Congress took expansionary action, raising the federal matching grant
+from 50 to 80 percent on the first twenty-five dollars of an individual’s
+monthly benefits. By the end of the 1940s, the mean OAA payout was
+60 percent higher than the average contributory pension and reached
+a greater number of beneficiaries (Gratton 1988; Quadagno 1988).
+   Carefully binding his insurance scheme within a complex of con-
+straining rules, Roosevelt had intended OAA to be a mere stopgap and
+legislative sweetener. Over the next fifteen years, however, this welfare
+plan was gradually converted to a starkly different purpose, coming
+to be regarded in some states as a virtually universal entitlement for
+the aged (on conversion, see Mahoney and Thelen this volume). With
+federal OAA expenditures three times as great as those for old-age
+insurance, this programmatic alternative seriously threatened to dis-
+place the contributory scheme as the primary form of public retirement
+provision (Zelizer 1998).
+
+
+Defensive Adjustment and Dynamic Stability
+
+By the end of the 1940s, fiscal conservatives within Congress had
+become alarmed at the long-term implications of these developments.
+As the wartime economy boomed and tax revenues exceeded expecta-
+tions, the House Ways and Means and the Senate Finance committees
+had collaborated in the defunding of the insurance program, approving
+successive Social Security tax freezes. Now, Congress’s fiscal guardians
+
+[p. 116] [PDF page 134]
+
+perceived an impending danger that general-revenue-financed welfare
+would supplant social insurance as the central pillar of public social
+protection for the aged. Moreover, with payroll tax rates frozen at
+an impossibly low long-term rate, Social Security’s own contributory
+structure might buckle as its outlays grew. If payroll collections proved
+insufficient to cover expenditures, Congress might have to turn to the
+Treasury for a general-revenue bailout of the program.
+    By 1950, Congress’s tax-writing committees were dominated by
+activist fiscal conservatives – cautious budget makers who were
+nonetheless reconciled to the continued existence of a large federal
+state. Powerful chairmen such as Robert Doughton, Wilbur Mills,
+and Russell Long largely sought to sustain the New Deal institutional
+project. Attentive to the political and social importance of welfare
+spending on the aged, they also – like Roosevelt – aimed to curb finan-
+cial burdens on the public sector. To the tax committees, pure con-
+tributory financing was a doubly useful rule. Like the New Dealers,
+the committee chairmen hoped that compartmentalization of pension
+financing would help to contain any expansionary dynamic by tying
+benefits to visible costs. At the same time, they also perceived in con-
+tributory social insurance a second logic that, in some sense, was the
+mirror image of the first. If the insurance principle tied benefits to costs,
+it also implied the inverse relation, linking the burden of payroll taxes
+to a highly popular benefit. If they had to boost future revenues to
+finance rising spending on the elderly, the tax writers much preferred
+to raise dedicated insurance contributions than general income taxes
+(Zelizer 1998).
+    To protect contributory social insurance from displacement, how-
+ever, Congress’s fiscal guardians realized that they had to change it. In
+a set of landmark amendments to the Social Security Act in 1950, they
+undertook four key institutional countermaneuvers. First, if insurance
+outlays were not to be outpaced by means-tested assistance, then Social
+Security benefits would have to be quickly and substantially increased
+and extended in scope. The amendments brought insurance coverage
+to an additional ten million workers in previously uncovered sectors
+and roughly doubled benefit levels. Most strikingly, the tax committees
+offered substantial benefits to newly eligible retirees with no contribu-
+tory record. While this move did not affect the compartmentalization
+of the program’s finances – benefits were still to be paid strictly out
+of payroll contributions – it bent the contributory rule as a principle
+
+[p. 117] [PDF page 135]
+
+for allocating benefits, weakening the link between an individual’s
+contribution record and his or her pension entitlement. In the race
+against old-age assistance, activist fiscal conservatives saw that they
+had to reinterpret the contributory principle in order to preserve it.13
+   Second, ensuring the program’s solvency on purely contributory
+terms would require a new schedule of increasing payroll-tax rates,
+beginning with an immediate percentage point increase in the com-
+bined employer-employee rate. Third, Ways and Means leaders added
+an additional constraining structure atop the contributory principle:
+a long-term planning horizon. As the tax writers observed, the prin-
+ciple by itself was an incomplete limit on heedless spending because
+benefit increases could always be scheduled to take effect at a future
+date. Thus, Congress could too easily grant today’s workers generous
+pension increases without making provision for their future financing.
+Under the new law, the program’s actuaries would now have to fore-
+cast the program’s financial condition over a seventy-five-year period,
+and Congress would be required to adjust the tax schedule as needed
+to maintain the system’s solvency over that extended time horizon
+(Derthick 1979; Zelizer 1998).
+   Fourth, financing this package of changes required the fiscal
+guardians of the 1950s to abandon a central element of Roosevelt’s
+institutional blueprint. Rather than returning the system to actuarial
+fund accumulation, the 1950 amendments explicitly placed the pro-
+gram on a PAYGO basis. Whatever its merits as a financing structure,
+a return to funding would have been wholly incompatible with the
+committees’ efforts to expand the support coalition for contributory
+insurance. This is because the political opportunities for transform-
+ing actuarial rules were asymmetrical: while funding expanded state
+capacities, generating resources that its opponents could later con-
+vert to their own purposes, the drained reserve fund of 1950 severely
+limited politicians’ fiscal room for maneuver. Those seeking to move
+from funding to PAYGO during the 1930s and 1940s could distribute
+short-term rewards as they dissipated the fund, but anyone seeking to
+revert to funding in 1950 would have had to impose large short-term
+
+13   Activist fiscal conservatives in the 1950s thus approximated mutualist symbionts in
+     Mahoney and Thelen’s typology (this volume). Although they had not been involved
+     in the institution’s design, they developed an interest in its survival. And in order to
+     preserve the spirit of contributory insurance, they found it necessary to both amend
+     and reinterpret the letter of the original rules.
+
+[p. 118] [PDF page 136]
+
+costs in order to get there. The only way to accumulate a new fund
+while maintaining the program’s compartmentalized character would
+have been to enact an even steeper and politically insupportable hike
+in payroll taxes or to scale back benefits. Instead, the tax committees
+chose to formally break with the principle of funding and to adopt
+a PAYGO rule that would allow the program to continue operating
+with minimal reserves.
+   Like the initial establishment of Roosevelt’s programmatic insti-
+tutions, this shoring-up operation depended on the unusual leverage
+of a small group of actors wielding powerful gatekeeping preroga-
+tives in the legislative process. To build a coalition for enactment of
+their revised rules, it was necessary that the tax-writing committees
+be able to weld the immediate and future increases in the payroll tax
+to popular increases in benefits – while ensuring that the latter could
+not be adopted without the former. What allowed them to craft a
+favorable menu of options was a set of higher-order institutions that
+structured the legislative process, the most important being the consti-
+tutional requirement that all tax measures originate in the House, and
+the power of the Rules Committee to grant the Ways and Means bill a
+closed rule, forbidding any amendments on the floor (Cohen 1951).14
+   In 1935, Roosevelt had chosen to sacrifice the program’s short-
+run popularity in order to entrench his long-run fiscal preferences.
+Although the tax writers of 1950 shared many of Roosevelt’s pol-
+icy goals, they were confronted by an altered calculus of institutional
+conflict as Social Security now faced the prospect of imminent dis-
+placement by an alternative arrangement. The survival of contributory
+insurance now depended more on how quickly it won broad political
+backing than on how strictly it adhered to actuarial principles. Thus,
+in order to expand the program’s support base among the mass public
+and in Congress, the finance committees chose to amend or abandon
+central elements of the original insurance model.
+
+Institutional Friction and the Return to Funding
+The compartmentalization of Social Security’s finances remained a
+contested institutional feature of the program. While forces on the
+
+
+14   The Senate Finance Committee did not receive a closed rule but enjoyed sufficient
+     prestige within the chamber that only one amendment not approved by the panel
+     was adopted on the floor (Cohen 1951).
+
+[p. 119] [PDF page 137]
+
+political left had accepted regressive payroll-tax financing for strate-
+gic reasons in the program’s early years, organized labor began to
+push for a general-revenue supplement in the late 1960s (Derthick
+1979). Yet activist fiscal conservatives on Congress’s tax committees,
+especially Ways and Means, continued to exercise their formidable
+agenda-setting authority to hold contributory financing and its seventy-
+five-year solvency rule in place (Zelizer 1998). At multiple points
+throughout the 1960s (1961, 1965, and 1967), these rules forced
+Congress to increase payroll taxes in the near term and to adopt a
+higher long-term schedule of rates than it otherwise would have. As
+a result, the payroll-tax rate more than doubled, from 4.5 percent in
+1958 to 9.9 percent in 1977 (Board of Trustees 2007).15
+   At the same time, expansionists discovered an important set of
+informational and moral resources in the program’s contributory and
+forecasting institutions. While the explicit linkage of payroll taxes to
+visible and popular benefits made it relatively easy for elected officials
+to increase program revenues, the compartmentalization of the pro-
+gram’s finances and the imprimatur of long-term “actuarial solvency”
+also made benefit increases far less vulnerable to conservative attack.
+It was precisely because program spending was so credibly constrained
+that it could be safely, if incrementally, expanded. When unprojected
+surpluses emerged – which, in the context of rapid economic growth,
+they often did – the actuarial rule licensed, rather than limited, grad-
+ual benefit growth (Derthick 1979; Zelizer 1998).16 Between 1952 and
+1972, Congress enacted eight benefit increases, all certified by the actu-
+aries as fiscally sustainable, that cumulatively amounted to a 150 per-
+cent rise in nominal pension values (Social Security Administration
+2005).
+   Layered atop one another over time, however, Social Security’s
+core fiscal institutions – payroll-tax financing, the seventy-five-year
+solvency rule, and PAYGO – enjoyed a tenuous coexistence. Their
+smooth joint operation depended on the particular configuration of
+exogenous conditions prevalent in the 1950s and 1960s, particularly a
+steadily growing economy and high fertility rates. Purely contributory
+
+15   Rates refer only to Old Age, Survivors, and Disability Insurance.
+16   Aside from real economic growth, these surpluses were also partly a consequence of
+     the conservative “level earnings” assumption made by Social Security’s chief actuary.
+     Since the forecasting models assumed that wages would remain constant, any rise in
+     average earnings generated surpluses.
+
+[p. 120] [PDF page 138]
+
+PAYGO financing worked well when revenues and outlays grew grad-
+ually, predictably, and in step with one another. But a program with
+minimal reserves and no access to general revenues had little capac-
+ity to weather an abrupt and unexpected economic downturn. More-
+over, under the seventy-five-year forecasting rule, a drop in fertility
+rates or an increase in life expectancy would upset the program’s
+long-range financial balance and generate projections of future insol-
+vency. By the mid-1970s, economic and demographic conditions had
+shifted in ways that brought these program structures into sharp ten-
+sion with one another. Amidst historically high unemployment and
+a drop in birth rates, the actuaries’ reports began forecasting both
+short- and long-run deficits within the program (Board of Trustees
+1976).17
+   For liberals, crisis offered a potential opportunity to revise the pro-
+gram’s fiscal rules in their favor. In 1977, President Jimmy Carter and
+the majority Democratic leadership in Congress proposed solutions to
+Social Security’s financial troubles that included a hefty and recurring
+infusion of general revenues into the system (Cowan 1977). Such a
+solution had important political virtues for Democratic politicians: it
+would have diffused the costs of the bailout across the general budget,
+increased the financing burden on more affluent income taxpayers,
+and achieved an institutional change long sought by organized labor.
+Among voters, an infusion of general revenues was also the most pop-
+ular solution to Social Security’s financial woes.18
+   Again, however, fiscal guardians on Congress’s tax-writing commit-
+tees – who would have to initiate any rescue legislation – flatly rejected
+a break with the institution of compartmentalized financing. Business
+groups lobbied aggressively against the general-revenue proposal as a
+threat to future fiscal constraint – as, in the words of one executive,
+“a precedent that would be too easy for future Administrations to
+follow” (Jensen 1977). Fiscally conservative Democrats and Republi-
+cans on the finance committees echoed employers’ concerns. As Ways
+
+17 An easily fixed error in the formula for automatic inflation-indexation, adopted in
+   1972, also contributed to the program’s financial troubles.
+18 A CBS News/New York Times poll, for instance, found 42% in favor and only 23%
+
+   against such a switch: April 11, 1978 (conducted 4/3–4/7/78), Accession Number:
+   0015988, Question ID USCBSNYT.041178, R19B, Roper Center for Public Opinion
+   Research, LexisNexisTM Academic, http://www.lexis-nexis.com.
+
+[p. 121] [PDF page 139]
+
+and Means chairman Al Ullman contended, the notion of drawing on
+Treasury resources “violates the general principle of having a contrib-
+utory system and makes it easy to move into a broad welfare concept”
+(Russell and Chapman 1977).
+    With their strong agenda-setting capacities, the tax writers were able
+to shepherd legislation through Congress that preserved the program’s
+contributory structure. Yet in saving the contributory principle, they
+were forced to dismantle another, now long-established programmatic
+institution: PAYGO financing. In the absence of a Treasury bailout,
+payroll taxes would have to be increased immediately to cover outlays
+during the current period of economic hardship; this was in fact the
+largest single peacetime tax increase in the country’s history. Once the
+economy rebounded, however, the new contribution schedule would
+then generate more revenues than the system required, leading once
+again to the accumulation of a fund. Indeed, in the absence of help
+from the general Treasury, the program would need this fund to keep
+its benefit promises and maintain long-term actuarial solvency. With
+the ranks of beneficiaries projected to grow faster than the workforce,
+the fund and its earnings would plug a substantial gap between contri-
+bution revenues and benefit commitments for the first decades of the
+twenty-first century (Board of Trustees 1978; Congressional Quarterly
+1978).
+    When back-to-back recessions and renewed high inflation again
+pushed the program to the brink of bankruptcy in the early 1980s,
+a parallel dynamic played out. Yet orthodox conservatives, a minor
+force in Social Security politics since the 1950s, now had a champion
+in the White House intent on rolling back the state. In response to
+soaring budget deficits and the program’s actuarial imbalance, Presi-
+dent Ronald Reagan proposed reductions in benefits. In this new con-
+text of conservative ascendancy, however, the contributory principle
+now offered liberals yet another distinct moral resource. Specifically,
+it allowed them to argue that any reduction in payouts to today’s
+seniors – contributors throughout their working lives – would be tan-
+tamount to breaking a promise, the withdrawal of an earned entitle-
+ment (Pierson 1994). Originally imposed to constrain expansion, con-
+tributory financing was now mobilized to entrench benefit promises.
+It is in this specific but important sense that the program became
+subject to a path-dependent dynamic: the longer the contributory
+
+[p. 122] [PDF page 140]
+
+principle remained in place, the more difficult it was to scale back
+benefits.
+    At the same time, liberals called once again for a break with pure
+contributory financing, proposing an infusion of general revenues. Fis-
+cal conservatives were still institutionally well positioned to resist such
+demands, but the reform package they crafted would reinforce the
+contributory rule at further cost to the PAYGO principle. To get the
+program through the 1980s without Treasury assistance, program ben-
+efits would have to be trimmed and payroll taxes raised once more. As
+in 1977, these measures not only resolved the immediate cash crunch
+but – together with a gradual increase in the retirement age – would
+also eliminate the system’s long-term deficit by accumulating addi-
+tional enormous surpluses in the trust fund (Board of Trustees 1984;
+Light 1995).
+    Combined, the reforms of 1977 and 1983 would return the Social
+Security program to a partially funded basis for the next several
+decades, with trust fund assets currently projected to exceed $4 tril-
+lion by 2016 (Board of Trustees 2007). As discussed earlier, PAYGO
+financing was a relatively robust programmatic institution because
+departure from it carried high start-up costs. Abrupt economic decline,
+however, confronted fiscal gatekeepers in Congress with an institu-
+tional dilemma: either impose large short-term costs on constituents
+today or abandon the long-run constraint of contributory financing.
+Because they cared as much about long-run political consequences as
+about short-term material effects, they were willing to impose visible,
+near-term losses on voters in order to preserve the compartmentalized
+structure of the program. At the same time, the logic of contributory
+financing provided a crucial informational resource allowing them to
+justify this painful solution. It was, after all, the insulated structure of
+the program that made it possible for the scheme to become “insol-
+vent” in the first place and, thus, for elected officials to claim that the
+tax hikes were fiscally necessary. The program’s compartmentaliza-
+tion, moreover, allowed legislators to credibly link short-term pain to
+a highly popular public program. With the trust fund separated from
+the rest of the federal budget, officials could persuasively argue that
+every penny in new taxes extracted in the present would remain within
+the program, helping to pay future benefits (Pierson 1994; Patashnik
+2000).
+
+[p. 123] [PDF page 141]
+
+As is clear in hindsight, however, these most recent rounds of insti-
+tutional adjustment were themselves structurally vulnerable. In par-
+ticular, policymakers in 1977 and 1983 paid little attention to the
+mechanics of future fund accumulation and did little to ensure that
+future reserves would remain safe from political manipulation.19 While
+nominally separated from the unified federal budget in 1983, trust fund
+assets would continue to be lent to the Treasury, and future official
+statements of the federal budget would continue to report a bottom-
+line figure that included the program’s activities.20 As critics would
+note only years later, Social Security surpluses were potentially facil-
+itating higher spending or lower taxes elsewhere in the budget. Over
+the last fifteen years, this vulnerability in the trust fund’s commitment
+mechanisms has lent weight to arguments that the program’s reserves
+are an accounting fiction, fueling diverse calls for further structural
+transformation, ranging from the privatization of the system to a return
+to PAYGO financing (Schieber and Shoven 1999; Patashnik 2000).
+
+
+Conclusion
+
+Social Security has ultimately proved a remarkably successful politi-
+cal arrangement, but the path from its New Deal origins to current
+outcomes has been far from linear or continuous. A principal source
+of structural instability in the Social Security program has been the
+repeated contestation of policy rules. While broad consensus ultimately
+crystallized around important features of the program, much of the
+scheme’s history has been marked by intense conflict. As a powerful
+engine of resource allocation, the scheme has naturally provoked bat-
+tles over the size and incidence of its costs and the apportionment and
+generosity of its benefits. Beyond these immediate distributive con-
+cerns, however, stakeholders in the sphere of old-age pensions have
+
+19 For the 1977 episode, this claim relies on author interviews with Lawrence Thompson
+   (staff economist at the Department of Health, Education and Welfare when the 1977
+   reform was developing), Washington, DC, October 16, 2001; David Koitz (at the
+   Planning and Evaluation Office at the Department of Health, Education and Welfare
+   during development of the 1977 reform), Washington, DC, May 1, 2002; and Bert
+   Seidman (Social Security specialist at the AFL-CIO), Washington, DC, May 2, 2002.
+   On the 1983 reform, see Ball (1990); Patashnik (2000); and Koitz (2001).
+20 The Gramm-Rudman-Hollings deficit reduction package of 1985, for instance,
+
+   included Social Security in the size of the deficit.
+
+[p. 124] [PDF page 142]
+
+also been keenly sensitive to the ways in which the program’s fiscal
+structure might bias its future politics. Since the earliest days of CES
+planning, competing coalitions have repeatedly sought to use Social
+Security’s financing rules to limit their rivals’ future political opportu-
+nities and to expand their own.
+    Conflict has generated institutional change via two distinct, though
+interrelated, causal pathways. Most directly, institutional challengers
+on the left and right managed at times to forge winning legislative
+coalitions that dismantled, evaded, reinterpreted, or (nearly) displaced
+important programmatic constraints. Central to their ability to craft
+such coalitions were fungible resources – financial, procedural, and
+moral – latent in the very institutions that they sought to revise. Actuar-
+ial funding involved the accumulation of capital to cover the scheme’s
+long-term obligations and protect the Treasury from future demands;
+those same monies, however, were easily redeployed by entrepreneurial
+actors as a source of inducements to dismantle funding itself. A strict
+contributory rule forced the Social Security program to live within its
+means. In limiting the payment of benefits in the early years, however,
+the contributory principle combined with funding to help mobilize
+support for alternative modes of provision for the aged. And in tightly
+linking contributions to outlays, the rule made it far easier for program
+advocates to justify both increases in the payroll tax and enhancements
+in benefits. Old Age Assistance was intended as a small and tempo-
+rary measure to ease the passage of contributory insurance, yet the
+scheme was quickly converted by opportunistic expansionists into a
+means of escape from contributory constraints. The tools of chal-
+lenge were, again, written into the Social Security Act itself: OAA’s
+cost-sharing provisions shifted decision making over federal pension
+spending to state-level venues more favorable to populist movements
+while general-revenue financing of the scheme set weak limits on its
+growth.
+    A second mechanism of institutional change, however, sprang from
+the calculations of institutional defenders – of those who sought to pre-
+serve Roosevelt’s contributory model. In the face of powerful political
+and financial challenges, fiscal conservatives realized that they could
+save contributory insurance only by amending it. Repeatedly, leaders
+of Congress’s finance committees pushed through major rule changes
+intended to expand the program’s base of support or to obstruct
+
+[p. 125] [PDF page 143]
+
+further expansionist tactics. These acts of creative entrepreneurship
+were made possible by the macroinstitutional context in which they
+unfolded. In particular, congressional rules granted the tax committees
+formidable agenda-setting authority, allowing them to link popular
+benefit increases to new programmatic constraints.
+   Among its broader implications, this developmental process sug-
+gests that claims about the path dependence of institutional structures
+need to be carefully bounded. In Social Security’s history, positive-
+feedback mechanisms played a specific but limited role in stabiliz-
+ing the program. In particular, beginning in the early 1980s, when
+a newly aggressive and empowered conservative movement sought
+to scale back public social programs, the contributory nature of the
+Social Security scheme posed a formidable obstacle to retrenchment by
+allowing beneficiary groups to portray cutbacks as the withdrawal of a
+moral entitlement (Pierson 1994). In this self-reinforcing dynamic, the
+program’s financing method helped to entrench the program’s benefit
+promises.
+   The logic of positive feedback, however, is less useful in explain-
+ing the fate of the program’s financial structure itself. Fiscal institu-
+tions such as funding and pure contributory financing had few self-
+entrenching consequences – consequences that would progressively
+raise the economic or political costs of revision over time. Generally
+speaking, these rules did not encourage actors, either inside or outside
+the state, to make specific investments pegged to the maintenance of
+those rules. Those disadvantaged by Social Security’s programmatic
+institutions, then, did not simply disappear or adapt to these arrange-
+ments over time. Strict payroll-tax financing of benefits, for instance,
+encountered largely the same kinds of opposition in 1983 as it had in
+1937. If contributory financing anchored benefits via a path-dependent
+logic, contributory financing itself generated strong negative-feedback
+effects, and its survival required ongoing coalition building and strate-
+gic adjustment by its defenders.
+   This case thus highlights the central role of endogenous processes in
+generating institutional change – processes that derive from the logic of
+the rules themselves. Indeed, one of the most striking features of Social
+Security’s institutional politics is how imperfectly its rules constrained
+and how readily they could be redeployed as instruments of change. It
+is worth pausing for a moment to reflect on why this was so – why,
+
+[p. 126] [PDF page 144]
+
+that is, program architects and guardians were not more effective at
+binding the hands of their successors. The program’s rules were not vul-
+nerable and convertible because their authors were particularly poorly
+informed or myopic. Rather, U.S. pension policymakers faced chal-
+lenges that are likely to bedevil efforts of institutional constraint in
+general and to generate important openings for change once rules are
+in place. Two such challenges in particular are worth noting.
+   First, designers may be forward-looking and strategic, but they are
+boundedly rational and confront vast causal complexity. As Mahoney
+and Thelen point out in the introduction to this volume, rules usu-
+ally have multiple consequences, and their effects often depend on
+complex interactions with changing political and social conditions.
+With limited cognitive resources and imperfect information, institu-
+tional designers will rarely be able to predict and optimize across the
+full range of strategic possibilities latent in their structural blueprints
+(Pierson 2004). Instead, they will need to simplify the choice problem
+and attend selectively to relevant considerations (Simon 1971; Arthur
+1992; Jones 2001). In crafting his old-age insurance program, Roo-
+sevelt made strategic choices in light of potential consequences decades
+into the future. In assessing those consequences, however, he would
+have been unable to forecast or take into account the full range of uses
+to which his rivals and successors might put contributory financing or
+funding.
+   Second, even where designers can envision the optimal institutional
+design, the need to forge an enacting coalition for these rules will often
+force compromise. Compromise in the writing of rules, in turn, will
+often generate structures that depart from an optimally constraining
+logic and will, inadvertently but unavoidably, provide opponents with
+future opportunities for challenge (Mahoney and Thelen, this volume).
+If Roosevelt foresaw the vulnerability of OAA to rapid expansion, he
+had little choice but to accept this calculated risk if he wanted to
+win enactment of his insurance scheme. To frame these two points
+more generally: many of the most important sources of institutional
+change will lie in the conditions of their emergence. Thinking about
+endogenous sources of change thus provides an analytic opportunity
+to integrate explanations of institutional development with theories of
+institutional design.
+
+[p. 127] [PDF page 145]
+
+Finally, the developmental account here points to the utility of a
+genuinely historical approach to institutional development. As histori-
+cally minded scholars have argued, there are many reasons – from the
+multiplicity of institutional effects to the limited foresight of design-
+ers – why we cannot reliably infer the causes of institutional emergence
+from an institution’s current functions (Schickler 2001; Pierson 2004).
+From the vantage point of the present, contributory financing seems
+to bear the imprint of a mutually constraining pact between liberals
+and conservatives – with rights pegged to obligations – and is cur-
+rently an object of broad consensus. As a developmental perspective
+reveals, however, institutions in Social Security politics largely emerged
+as attempts by one coalition to constrain another, not as a bargain
+between rival interests. The mutually limiting character of contribu-
+tory financing only developed over time, as liberals learned to exploit
+an alternative moral logic latent in an institution that had originally
+been designed to constrain them. Rather than equating functions with
+causes, we need to go back and analyze moments of institutional emer-
+gence or choice.
+    Equally important, however, is careful analysis of the developmen-
+tal processes that lie between origins and outcomes. As the present
+case suggests, the degree of fit between current arrangements and
+original design does not itself tell us much about the causal mecha-
+nisms connecting the two. Where outcomes strongly echo origins, it
+is reasonable to suspect that powerful processes of institutional iner-
+tia – whether grounded in consensus, positive feedback, or restrictive
+amendment rules – may be at work. In the case of Social Security’s
+financing rules, however, elements of institutional continuity emerged
+from processes that were far less linear and far more contingent on
+actors’ downstream opportunities and choices. The survival of con-
+tributory pension insurance in the United States was not built into its
+origins. To the contrary, the program’s initial structure had powerful
+negative-feedback effects and, after fifteen years in operation, nearly
+lost out to a far more popular competitor. Even decades after its adop-
+tion, the maintenance of the contributory principle hinged critically
+on the willingness of its defenders to engage in strategies of institu-
+tional redesign and reinterpretation. The stability of Social Security’s
+contributory structure was, in this sense, highly dynamic; it had to
+
+[p. 128] [PDF page 146]
+
+be repeatedly and actively reinforced and was dependent on processes
+of institutional change. Only through historical analysis can we dis-
+tinguish among alternative causal routes from origins to outcomes
+and trace out the complex – often mutually reinforcing – relationship
+between continuity and change.
+
+
+References
+Achenbaum, W. Andrew. 1986. Social Security: Visions and Revisions. New
+  York: Cambridge University Press.
+Amenta, Edwin. 1998. Bold Relief: Institutional Politics and the Origins of
+  Modern American Social Policy. Princeton Studies in American Politics.
+  Princeton: Princeton University Press.
+Amenta, Edwin, and Jane D. Poulsen. 1996. “Social Politics in Context: The
+  Institutional Politics Theory and Social Spending at the End of the New
+  Deal.” Social Forces 75 (1): 33–60.
+Amenta, Edwin, and Yvonne Zylan. 1991. “It Happened Here: Political
+  Opportunity, the New Institutionalism, and the Townsend Movement.”
+  American Sociological Review 56 (2): 250–265.
+Arnold, R. Douglas. 1990. The Logic of Congressional Action. New Haven:
+  Yale University Press.
+Arthur, W. Brian. 1992. On Learning and Adaptation in the Economy. Santa
+  Fe: Santa Fe Institute.
+Ball, Robert M. 1990. “Panel on Formulating a Deficit Reduction Package:
+  What Is the Role of Social Security?” In Social Security and the Budget,
+  ed. H. J. Aaron, 123–128. Washington, DC: National Academy of Social
+  Insurance.
+Berkowitz, Edward. 1991. America’s Welfare State: From Roosevelt to Rea-
+  gan. Baltimore: Johns Hopkins University Press.
+Board of Trustees. 1976. Annual Report of the Board of Trustees of the
+  Federal Old-age and Survivors Insurance and Disability Insurance Trust
+  Funds. Washington, DC: U.S. Government Printing Office.
+Board of Trustees. 1978. Annual Report of the Board of Trustees of the
+  Federal Old-age and Survivors Insurance and Disability Insurance Trust
+  Funds. Washington, DC: U.S. Government Printing Office.
+Board of Trustees. 1984. Annual Report of the Board of Trustees of the
+  Federal Old-age and Survivors Insurance and Disability Insurance Trust
+  Funds. Washington, DC: U.S. Government Printing Office.
+Board of Trustees. 2007. Annual Report of the Board of Trustees of the
+  Federal Old-age and Survivors Insurance and Disability Insurance Trust
+  Funds. Washington, DC: U.S. Government Printing Office.
+Brinkley, Alan. 1995. The End of Reform: New Deal Liberalism in Recession
+  and War. New York: Knopf.
+
+[p. 129] [PDF page 147]
+
+Cohen, Wilbur J. 1951. “Aspects of Legislative History of the Social Security
+  Act Amendments of 1950.” Industrial and Labor Relations Review 4 (2):
+  187–199.
+Congressional Quarterly. 1978. Congressional Quarterly Almanac, 95th
+  Congress, 1st Session, 1977. Vol. 33. Washington, DC: Congressional Quar-
+  terly.
+Cowan, Edward. 1977. “Carter Asks Tax Rises, Funding Shift to Ease Social
+  Security Drain.” New York Times, May 10, 1, 55.
+Davis, James A., Tom W. Smith, and Peter V. Marsden. 2007. GENERAL
+  SOCIAL SURVEYS, 1972–2006: [CUMULATIVE FILE] [Computer file].
+  Chicago, IL: National Opinion Research Center [producer], 2007. Storrs,
+  CT: Roper Center for Public Opinion Research, University of Connecticut /
+  Ann Arbor, MI: Inter-university Consortium for Political and Social
+  Research / Berkeley, CA: Computer-assisted Survey Methods Program
+  (http://sda.berkeley.edu), University of California [distributors].
+Derthick, Martha. 1979. Policymaking for Social Security. Washington, DC:
+  The Brookings Institution.
+Graebner, William. 1980. A History of Retirement: The Meaning and Function
+  of an American Institution, 1885–1978. New Haven: Yale University Press.
+Gratton, Brian. 1988. “The New Welfare State: Social Security and Retirement
+  in 1950.” Social Science History 12 (2): 171–196.
+Hacker, Jacob S. 1998. “The Historical Logic of National Health Insurance:
+  Structure and Sequence in the Development of British, Canadian, and U.S.
+  Medical Policy.” Studies in American Political Development 12 (1): 57–130.
+Hacker, Jacob S. 2002. The Divided Welfare State: The Battle over Public
+  and Private Social Benefits in the United States. New York: Cambridge
+  University Press.
+Huber, John D., and Charles R. Shipan. 2002. Deliberate Discretion? The
+  Institutional Foundations of Bureaucratic Autonomy. Cambridge Studies in
+  Comparative Politics. New York: Cambridge University Press.
+Ikenberry, G. J., and T. Skocpol. 1987. “Expanding Social Benefits: The Role
+  of Social Security.” Political Science Quarterly 102 (3): 389–416.
+Jensen, Michael C. 1977. “Carter Payroll Tax Plan Is Opposed by Business.”
+  New York Times, May 11, D1 and D7.
+Jones, Bryan D. 2001. Politics and the Architecture of Choice: Bounded Ratio-
+  nality and Governance. Chicago: University of Chicago Press.
+Kennedy, David M. 1999. Freedom from Fear: The American People in
+  Depression and War, 1929–1945. New York: Oxford University Press.
+Knight, Jack. 1992. Institutions and Social Conflict: Political Economy of
+  Institutions and Decisions. Cambridge: Cambridge University Press.
+Koitz, David. 2001. Seeking Middle Ground on Social Security Reform. Stan-
+  ford, CA: Hoover Institution Press.
+Krasner, Stephen D. 1984. “Approaches to the State: Alternative Conceptions
+  and Historical Dynamics.” Comparative Politics 16 (2): 223–246.
+
+[p. 130] [PDF page 148]
+
+Leff, Mark H. 1983. “Taxing the ‘Forgotten Man’: The Politics of Social
+  Security Finance in the New Deal.” Journal of American History 7 (2):
+  359–381.
+Leuchtenburg, William Edward. 1963. Franklin D. Roosevelt and the New
+  Deal, 1932–1940. New York: Harper & Row.
+Light, Paul. 1995. Still Artful Work: The Continuing Politics of Social Security
+  Reform. New York: McGraw-Hill.
+McNollgast. 1999. “The Political Origins of the Administrative Procedure
+  Act.” Journal of Law, Economics, and Organization 15 (1): 180–217.
+Moe, Terry. 1990. “The Politics of Structural Choice: Toward a Theory of
+  Public Bureaucracy.” In Organization Theory: From Chester Barnard to
+  the Present and Beyond, ed. O. Williamson, 116–153. New York: Oxford
+  University Press.
+Myles, John, and Paul Pierson. 2001. “The Comparative Political Economy of
+  Pension Reform.” In The New Politics of the Welfare State, ed. P. Pierson,
+  305–333. New York: Oxford University Press.
+North, Douglass C. 1990. Institutions, Institutional Change, and Economic
+  Performance: The Political Economy of Institutions and Decisions. Cam-
+  bridge: Cambridge University Press.
+OECD. 2007. Pensions at a Glance: Public Policies across OECD Countries.
+  Paris: OECD.
+Orloff, Ann Shola. 1988. “The Political Origins of America’s Belated Welfare
+  State.” In The Politics of Social Policy in the United States, ed. M. Weir,
+  A. S. Orloff, and T. Skocpol, 37–80. Princeton: Princeton University Press.
+Orloff, Ann Shola. 1993. The Politics of Pensions: A Comparative Analysis of
+  Britain, Canada, and the United States, 1880–1940. Madison: University of
+  Wisconsin Press.
+Pal, Leslie A., and R. Kent Weaver. 2003. “The Politics of Pain.” In The
+  Government Taketh Away: The Politics of Pain in the United States and
+  Canada, ed. L. A. Pal and R. K. Weaver, 1–40. Washington, DC: George-
+  town University Press.
+Patashnik, Eric. 2000. Putting Trust in the U.S. Budget: Federal Trust Funds
+  and the Politics of Commitment. New York: Cambridge University Press.
+Perkins, Frances. 1946. The Roosevelt I Knew. New York: Viking Press.
+Pierson, Paul. 1993. “When Effect Becomes Cause: Policy Feedback and Polit-
+  ical Change.” World Politics 45 (4): 595–628.
+Pierson, Paul. 1994. Dismantling the Welfare State? Reagan, Thatcher, and
+  the Politics of Retrenchment. Cambridge: Cambridge University Press.
+Pierson, Paul. 2004. Politics in Time: History, Institutions, and Social Analysis.
+  Princeton: Princeton University Press.
+Quadagno, Jill S. 1988. The Transformation of Old Age Security: Class and
+  Politics in the American Welfare State. Chicago: University of Chicago Press.
+Rodgers, Daniel T. 1998. Atlantic Crossings: Social Politics in a Progressive
+  Age. Cambridge, MA: Belknap Press of Harvard University Press.
+
+[p. 131] [PDF page 149]
+
+Russell, Mary, and William Chapman. 1977. “Carter’s Bailout Plan for Social
+  Security Is Opposed on Hill.” Washington Post, May 10, A2.
+Schickler, Eric. 2001. Disjointed Pluralism: Institutional Innovation and the
+  Development of the U.S. Congress. Princeton: Princeton University Press.
+Schieber, Sylvester J., and John B. Shoven. 1999. The Real Deal: The History
+  and Future of Social Security. New Haven: Yale University Press.
+Schlabach, Theron F. 1969. Edwin E. Witte: Cautious Reformer. Madison:
+  State Historical Society of Wisconsin.
+Schlesinger, Arthur M., Jr. 1958. The Coming of the New Deal. Boston:
+  Houghton Mifflin Company.
+Simon, Herbert A. 1971. “Designing Organizations for an Information-rich
+  World.” In Computers, Communication, and the Public Interest, ed. M.
+  Greenberger, 37–72. Baltimore: Johns Hopkins University Press.
+Skocpol, Theda. 1992. Protecting Soldiers and Mothers: The Political Origins
+  of Social Policy in the United States. Cambridge, MA: Belknap Press of
+  Harvard University Press.
+Social Security Administration. 2005. Social Security: A Brief History. Wash-
+  ington, DC: Social Security Administration.
+Streeck, Wolfgang, and Kathleen Ann Thelen. 2005. “Introduction: Institu-
+  tional Change in Advanced Political Economies.” In Beyond Continuity:
+  Institutional Change in Advanced Political Economies, ed. Wolfgang Streeck
+  and Kathleen Thelen, 1–39. Oxford: Oxford University Press.
+Tynes, Sheryl. 1996. Turning Points in Social Security: From “Cruel Hoax”
+  to “Sacred Entitlement”. Stanford, CA: Stanford University Press.
+United States Office of Management and Budget. 2008. Budget of the United
+  States Government, Fiscal Year 2009. Washington, DC: U.S. Government
+  Printing Office.
+Vogel, David. 1981. “Why Businessmen Distrust Their State: The Political
+  Consciousness of American Corporate Executives.” British Journal of Polit-
+  ical Science 8 (1): 45–78.
+Weaver, R. Kent. 2003. “Cutting Old-Age Pensions.” In The Government
+  Taketh Away: The Politics of Pain in the United States and Canada, ed.
+  L. A. Pal and R. K. Weaver. Washington, DC: Georgetown University Press.
+Weingast, Barry R., and William J. Marshall. 1988. “The Industrial Organi-
+  zation of Congress; or, Why Legislatures, Like Firms, Are Not Organized
+  as Markets.” Journal of Political Economy 96 (1): 132–163.
+Witte, Edwin E. 1962. The Development of the Social Security Act: A Memo-
+  randum on the History of the Committee on Economic Security and Drafting
+  and Legislative History of the Social Security Act. Madison: University of
+  Wisconsin Press.
+Zelizer, Julian E. 1998. Taxing America: Wilbur D. Mills, Congress, and the
+  State, 1945–1975. New York: Cambridge University Press.
