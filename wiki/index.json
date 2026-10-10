@@ -1149,6 +1149,16 @@
     ]
   },
   {
+    "title": "Nomadic Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Nomadic Education.md",
+    "aliases": [
+      "游牧教育",
+      "游牧民教育",
+      "pastoral nomadic education"
+    ]
+  },
+  {
     "title": "Nordic Model of Education",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Nordic Model of Education.md",
@@ -1611,6 +1621,17 @@
       "转译",
       "政策迁移",
       "转移-转译-转化"
+    ]
+  },
+  {
+    "title": "Traveller Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Traveller Education.md",
+    "aliases": [
+      "旅行者教育",
+      "大篷车儿童教育",
+      "吉普赛与罗姆教育",
+      "gypsy and traveller education"
     ]
   },
   {
@@ -16769,6 +16790,16 @@
     "aliases": [
       "社会资本理论",
       "social capital"
+    ]
+  },
+  {
+    "title": "Spatial Governmentality",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Spatial Governmentality.md",
+    "aliases": [
+      "空间治理术",
+      "空间化治理",
+      "spatialization of government"
     ]
   },
   {

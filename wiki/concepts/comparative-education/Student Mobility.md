@@ -8,7 +8,7 @@ aliases:
 summary: "比较教育与教育政策中指向学生跨校、跨区或跨国空间位移的核心构念；在欧美政策话语中呈现两极对立的治理逻辑，既被欧洲一体化塑造成培育公民认同与灵活就业能力的积极制度资产，又在美国绩效问责制下被问题化为表征贫困、学业阻滞与学校失范的流动漂泊（transiency）。"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Attrition]]"
 related_theories:
+  - "[[Spatial Governmentality]]"
   - "[[Governmentality]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
@@ -60,7 +61,7 @@ updated: 2026-10-10
 ## 定义
 
 > [!def] 核心定义
-> **学生流动性（Student Mobility）**指学生在教育体系内部跨越学校、学区、地域乃至国家地理边界的空间位移与机构转换过程。在比较教育与政策社会学中，该概念不仅描述物理迁移现象，更是现代国家[[Governmentality|治理术]]（Governmentality）与空间实践建构出的核心政策议题；其在跨国政策[[Discourse|话语]]中呈现截然对立的价值[[Coding in Qualitative Research|编码]]：在欧洲一体化语境中被建构为促进超国家公民认同与灵活[[Employability|就业能力]]的高级制度资本，而在美国基础教育问责语境下则被问题化为伴随贫困与病态家庭环境、危及学校绩效达标的流动漂泊（Transiency）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–364)]]
+> **学生流动性（Student Mobility）**指学生在教育体系内部跨越学校、学区、地域乃至国家地理边界的空间位移与机构转换过程。在比较教育与政策社会学中，该概念不仅描述物理迁移现象，更是现代国家[[Spatial Governmentality|空间治理术]]（Spatial [[Governmentality]]）与空间实践建构出的核心政策议题；其在跨国政策[[Discourse|话语]]中呈现截然对立的价值[[Coding in Qualitative Research|编码]]：在欧洲一体化语境中被建构为促进超国家公民认同与灵活[[Employability|就业能力]]的高级制度资本，而在美国基础教育问责语境下则被问题化为伴随贫困与病态家庭环境、危及学校绩效达标的流动漂泊（Transiency）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–364)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 学生在不同教育机构与地理空间之间的移动行为，以及权力网络对该移动施加的制度性分类与合法性编码。

@@ -9,9 +9,9 @@ summary: "罗兰·保尔斯顿（Rolland Paulston）开创的比较教育质性�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 10
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 35
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Student Mobility]]"
 related_theories:
   - "[[Governmentality]]"
+  - "[[Spatial Governmentality]]"
   - "[[Postmodernism]]"
   - "[[Lefebvre's Spatial Triad]]"
   - "[[Structural Functionalism]]"
@@ -78,7 +79,7 @@ updated: 2026-10-10
 > - **研究对象** 相互竞争的教育学术理论、研究[[Paradigm|范式]]、政策话语流派、跨国[[Policy Borrowing|教育借用]]网络，以及将学生划分为不同空间容器的[[Disciplina and Doctrina|规训]]技术。
 > - **问题类型** 适合回答话语场域的知识谱系分布、理论范式竞争、跨国政策流动定位、流动人口与边缘群体的空间区隔问题。
 > - **[[Unit of Analysis|分析单位]]** 思想范式、学术流派、政策话语网络、教育制度空间容器或[[Knowledge Production|知识生产]]集群。
-> - **输出形式** 二维或多维拓扑隐喻地图、范式空间矩阵、话语重叠与盲区图谱、空间治理术批判叙事。
+> - **输出形式** 二维或多维拓扑隐喻地图、范式空间矩阵、话语重叠与盲区图谱、[[Spatial Governmentality|空间治理术]]批判叙事。
 
 > [!citation-card] 空间转向与保尔斯顿的差异社会制图学
 > 这种将空间视为社会与文化范畴而非单纯自然或领土地理的思潮，在比较与[[International Education|国际教育]]学界日益具有影响力，尤其体现在已故学者罗兰·保尔斯顿（Rolland Paulston）的社会制图学著作以及诸多后继学者的应用中。然而，学者们对空间性的关注绝非一时的学术时髦，而是为了对抗启蒙运动以来将空间还原为线性时间与文明进化阶梯的[[Epistemology|认识论]]偏见，重新审视空间性作为一种现代人口治理术的深层运作。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361)]]

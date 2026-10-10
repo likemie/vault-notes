@@ -35,6 +35,7 @@ related_concepts:
 related_theories:
   - "[[Cultural Political Economy]]"
   - "[[Governmentality]]"
+  - "[[Spatial Governmentality]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Discourse Analysis]]"
@@ -74,7 +75,7 @@ updated: 2026-10-10
 >
 > *In section two, we compare the industrial policy plans adopted by the United States and the EU along five dimensions identified as crucial in the industrial policy literature: protagonists (the main actors carrying out the industrial policy effort), goals, size/financial commitment, type of policy instruments used [...], and the forms of [[Policy Conditionalities|Conditionalities]] attached to public support.*
 
-> [!citation-card] 跨大西洋政策话语与空间治理术比较
+> [!citation-card] 跨大西洋政策话语与[[Spatial Governmentality|空间治理术]]比较
 > 比较政策分析通过对质跨大西洋教育政策话语，揭示了流动性意义建构的深层分野：在欧洲联盟政策语境中，[[Student Mobility|学生流动性]]被赞颂为培育超国家欧洲公民认同与[[Knowledge-Based Economy|知识经济]][[Competitiveness|竞争力]]的理想资本（如伊拉斯谟计划）；而在美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》框架下，学生跨校流动却被规训为表征贫困、家庭破裂与学业失败的“漂泊”（transiency），沦为解释学校未能达标的病态指标。政策对比不仅展现了工具差异，更暴露了空间围堵与人口治理理性的根本分歧。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
 >
 > *Mobility can be valued and promoted as an essential attribute of the flexible, cosmopolitan citizen... or it can be pathologized as a sign of disorder, social dislocation, and academic failure requiring spatial containment.*

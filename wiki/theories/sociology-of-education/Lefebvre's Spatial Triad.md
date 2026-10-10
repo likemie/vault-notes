@@ -37,6 +37,7 @@ related_concepts:
   - "[[Operationalization]]"
 related_theories:
   - "[[Governmentality]]"
+  - "[[Spatial Governmentality]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Social Cartography]]"
@@ -93,7 +94,7 @@ updated: 2026-10-10
 > [!dev-timeline] 理论版本与跨领域扩展
 > - **1991 — 空间转向的跨学科确立** 列斐伏尔著作英译出版，爱德华·索亚（Edward Soja, 1996）将其引申为“[[Third Space Discourse|第三空间]]（Thirdspace）”理论，大卫·哈维（David Harvey）将其引入地理唯物主义批判，确立人文社会科学“空间转向（Spatial Turn）”的核心地位。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 359)]]
 > - **1997–2002 — 比较教育学的空间拓扑转向** [[Rolland Paulston|罗兰·保尔斯顿]]（Rolland Paulston, 1997, 2000）将空间隐喻转化为[[Social Cartography|社会制图学]]方法，用拓扑图谱展示多元理论[[Paradigm|范式]]；安东尼奥·诺瓦与马丁·劳恩（Nóvoa & Lawn, 2002）系统剖析[[European Education Space|欧洲教育空间]]的[[Discourse|话语]]制造过程。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
-> - **2009 — 比较教育学空间[[Governmentality|治理术]]与双重问题式统合** 诺亚·W·索贝与马修·G·费舍尔（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）将列斐伏尔理论与尼古拉斯·罗斯（Nikolas Rose）的空间治理术及[[Thomas S. Popkewitz|托马斯·S·波普科维茨]]（Popkewitz, 2000）的知识分类问题式相结合，阐明现代学校如何作为空间封闭容器（Enclosures）[[Disciplina and Doctrina|规训]]流动儿童，确立空间实践作为连结物质准入与文化分类的枢纽。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–368)]]
+> - **2009 — 比较教育学空间[[Governmentality|治理术]]与双重问题式统合** 诺亚·W·索贝与马修·G·费舍尔（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）将列斐伏尔理论与尼古拉斯·罗斯（Nikolas Rose）的[[Spatial Governmentality|空间治理术]]及[[Thomas S. Popkewitz|托马斯·S·波普科维茨]]（Popkewitz, 2000）的知识分类问题式相结合，阐明现代学校如何作为空间封闭容器（Enclosures）[[Disciplina and Doctrina|规训]]流动儿童，确立空间实践作为连结物质准入与文化分类的枢纽。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–368)]]
 > - **2025 — 区域高等教育空间与[[Structural Holes|结构洞]]理论整合** 蔡永生等（Cai, Gao & Liu, 2025）将列斐伏尔空间三元辩证法与罗纳德·伯特（Ronald Burt, 2000）的[[Structural Holes|结构洞]]理论相融合，应用于[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]（GBA）高等教育研究，揭示关键节点高校教师如何在感知、构想与活生生空间中弥合网络断连，催生[[Innovation Ecosystem|区域创新生态]]。[[Argument_Cai_Gao_Liu_2025_HE|(Cai et al., 2025)]]
 
 ---
