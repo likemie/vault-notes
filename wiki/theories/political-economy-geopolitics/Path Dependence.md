@@ -9,7 +9,7 @@ aliases:
 summary: "由 David 与 Arthur 奠基、经 Pierson 扩展至制度分析的演化经济学与制度主义核心理论；阐明历史偶然事件在规模报酬递增、自我强化机制、网络外部性与高转换成本驱动下，如何将技术轨道、产业标准或组织制度锁定于特定均衡；在半导体与高教领域，揭示高校通过“教育即标准”将开源架构内生化为全球产业生态路径依赖的微观机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 28
+theory_related_count: 30
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Document]]"
 related_theories:
+  - "[[Historical Institutionalism]]"
   - "[[Technological Trajectories]]"
   - "[[Evolutionary Economics]]"
   - "[[Techno-economic Paradigm]]"
@@ -48,6 +49,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Kathleen Thelen]]"
+  - "[[James Mahoney]]"
 related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[DARPA]]"
@@ -70,7 +72,7 @@ updated: 2026-10-11
 > - **解释对象** 解释技术创新、制度变迁与产业演化过程中，早期的偶然选择或初始优势如何通过自我强化机制演化为长期主导格局，以及系统为何在面对更优替代方案时仍陷入次优技术或制度锁定（Lock-in）。
 > - **理论问题** 回应新古典经济学关于“市场力量总能自发选择最优技术方案”与“无摩擦资源配置”的完备理性假说，解释历史时间性、非遍历性（Non-ergodicity）与正反馈效应在塑造[[Technological Trajectories|技术轨道]]路线中的决定性作用。
 > - **理论类型** 解释理论（Explanatory Theory）与[[Evolutionary Economics|演化经济学]]/历史制度主义[[Analytic Framework|分析框架]]。
-> - **知识位置** 处于演化经济学（Evolutionary Economics）、创新经济学与历史制度主义（Historical Institutionalism）的交汇点，与技术轨迹理论、[[Techno-economic Paradigm|技术-经济范式]]理论及制度演化理论紧密互补。
+> - **知识位置** 处于演化经济学（Evolutionary Economics）、创新经济学与[[Historical Institutionalism|历史制度主义]]（Historical Institutionalism）的交汇点，与技术轨迹理论、[[Techno-economic Paradigm|技术-经济范式]]理论及制度演化理论紧密互补。
 
 > [!claim] 核心判断
 > 系统的演化轨迹受其自身历史进程的强约束：微小的初始事件在规模报酬递增、学习效应、协调效应与适应性预期的驱动下产生非线性放大，最终将技术或制度导向具有高度刚性且难以逆转的特定稳态；在现代半导体与开源软硬件竞争中，大学的科教融合与[[Engineering Education|工程教育]]体系充当了关键的“标准发生器”与路径锁定放大器。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 20)]]

@@ -8,10 +8,10 @@ aliases:
 summary: "历史制度主义核心理论，由马奥尼与希伦系统建构；主张制度本质上是具有分配性权力后果的安排，将遵从与执行视为核心解释变量；通过政治环境否决可能性与制度解释裁量权两个维度，系统解释置换、层叠、漂移与转换四类内生渐进演进模式及四类微观变革行动者策略。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 21
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 25
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
   - theory/institutionalism
   - theme/institutional-change
@@ -30,7 +30,11 @@ related_concepts:
   - "[[Avatar]]"
   - "[[Enforcement Discretion]]"
   - "[[Baptist-Bootlegger Coalition]]"
+  - "[[Rule Ambiguity]]"
+  - "[[Strategic Compliance]]"
+  - "[[Veto Possibilities]]"
 related_theories:
+  - "[[Historical Institutionalism]]"
   - "[[Disjointed Pluralism]]"
 related_methods:
   - "[[Typological Analysis]]"
@@ -59,7 +63,7 @@ updated: 2026-10-11
 > - **解释对象** 现代政治经济体制中正式制度在长期运行过程中所经历的细微、累积且缓慢的内生质性转变过程，及其对人类行为模式与实质性资源分配格局的重塑。
 > - **理论问题** 传统制度主义（理性选择、社会学与早期历史制度主义）将制度预设为自我强化的静态稳态，将变迁解释片面诉诸外生危机冲击或间断均衡突变；缺乏解释常规历史时期制度如何通过微观内生博弈实现深层演化的理论体系。
 > - **理论类型** 中观因果解释理论与比较类型学分析框架。
-> - **知识位置** 植根于历史制度主义（Historical Institutionalism），融合政治经济学对权力分配偏向、成文规则模糊性与遵从裁量权的微观博弈分析，与路径依赖理论和间断均衡理论形成批判性理论对话。
+> - **知识位置** 植根于[[Historical Institutionalism|历史制度主义]]（Historical Institutionalism），融合政治经济学对权力分配偏向、成文规则模糊性与遵从裁量权的微观博弈分析，与路径依赖理论和间断均衡理论形成批判性理论对话。
 
 > [!claim] 核心判断
 > 制度本质上是具有资源分配后果的权力工具，其稳定性并非自发产生，而是依赖持续的政治动员与平衡维系；成文规则不可避免地带有内生模糊性，使得日常执行与遵从成为充满裁量空间的博弈过程；政治环境中的否决阻力强弱与制度本身的裁量空间高低，共同决定了制度置换、制度层叠、制度漂移与制度转换四种变迁形态，并催生出起义者、颠覆者、共生者与机会主义者四类微观变革行动者。（pp. 2–4, 14–15, 28）
@@ -77,7 +81,7 @@ updated: 2026-10-11
 ### 后续修订与扩展
 
 > [!dev-timeline] 理论演进与学术扩展
-> - **2005年 — 经验形态学奠基** 施特雷克与希伦在《制度变迁的超越》（*Beyond Continuity*）中首次系统提出置换、层叠、漂移与转换四类渐进变迁形态，开启历史制度主义内生演化转向。
+> - **2005年 — 经验形态学奠基** 施特雷克与希伦在《制度变迁的超越》（*Beyond Continuity*）中首次系统提出置换、层叠、漂移与转换四类渐进变迁形态，开启[[Historical Institutionalism|历史制度主义]]内生演化转向。
 > - **2009年 — 因果建模与行动者整合** 马奥尼与希伦合著《解释制度变迁》，首次建构“否决可能性 × 执行裁量权”二维因果矩阵，并将四类变革行动者与联盟动力学引入模型，确立完整的中观解释理论。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
 > - **2010年代及以后 — 跨领域政策与比较政治应用** 范德海登（Van der Heijden, 2011）等学者将该理论框架系统引入规制治理、公共政策分析与环境治理研究，检验微观裁量权与宏观制度演进的桥接效度。
 
@@ -93,7 +97,7 @@ updated: 2026-10-11
 > | **[[Institutional Layering\|制度层叠]]** | 变迁形态 | 刻画在不触动旧核心框架前提下，通过向顶端附加新规则边际改变制度规约方式的机制。 |
 > | **[[Institutional Drift\|制度漂移]]** | 变迁形态 | 刻画规则文本形式冻结，但面对外部环境变迁因行动者策略性不作为导致保护效能衰退的机制。 |
 > | **[[Institutional Conversion\|制度转换]]** | 变迁形态 | 刻画规则形式保持不变，行动者策略性利用模糊性将其转用于全新政策目标的机制。 |
-> | **[[George Tsebelis|否决可能性]]（Veto Possibilities）** | 解释变量 | 衡量政治环境中维持现状阵营阻挠正式修法与政策更新的制度化权力阻力（源自茨贝利斯否决者模型）。 |
+> | **[[Veto Possibilities|否决可能性]]（Veto Possibilities）** | 解释变量 | 衡量政治环境中维持现状阵营阻挠正式修法与政策更新的制度化权力阻力（源自[[George Tsebelis|茨贝利斯]]否决者模型）。 |
 > | **[[Enforcement Discretion|解释与执行裁量权]]（Discretion）** | 解释变量 | 衡量成文规约在日常司法判决与行政执法过程中留给执行主体的操作空间。 |
 > | **变革行动者四分类（Change Agents）** | 微观机制 | 提炼[[Insurrectionaries|起义者]]、[[Subversives|颠覆者]]、[[Symbionts|共生者]]与[[Opportunists|机会主义者]]四类微观策略角色，桥接结构与能动性。 |
 
@@ -106,8 +110,8 @@ updated: 2026-10-11
 >
 > **应用实例** 印度尼西亚苏哈托威权统治维持三十年并非制度自然的报酬递增锁定，而是依赖其不断积极调适执政联盟；当亚洲金融危机抽干动员资源时，缺乏独立治理能力的体制迅速发生内生脆断。（示例：苏哈托政权维系分析，pp. 9–10）
 
-> [!theory-proposition] 命题二｜规则内生模糊性将规则遵从转化为渐进变迁的微观温床
-> **解释** 成文规则受制于认知局限、妥协起草与现实复杂性，永远无法穷尽未来情境；立法与日常执法的组织分离使得规则条文与实际落实之间存在永久缝隙；遵从不是既定常数而是策略博弈变量，微观行动者正是在司法解释与行政裁量的软肋中撬动渐进演进。该命题确立了渐进演化的微观发生场域。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 10–14)]]
+> [!theory-proposition] 命题二｜[[Rule Ambiguity|规则内生模糊性]]将[[Strategic Compliance|规则遵从]]转化为渐进变迁的微观温床
+> **解释** 成文规则受制于认知局限、妥协起草与现实复杂性，永远无法穷尽未来情境；立法与日常执法的组织分离使得规则条文与实际落实之间存在永久缝隙；遵从不是既定常数而是[[Strategic Compliance|策略博弈变量]]，微观行动者正是在司法解释与行政裁量的软肋中撬动渐进演进。该命题确立了渐进演化的微观发生场域。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 10–14)]]
 >
 > **应用实例** 美国 1964 年《民权法》平等就业机会委员会（EEOC）条款在国会被保守派严重妥协削弱，但执法官僚敏锐抓住条文缝隙，策略性将诉讼推向法院并借助司法扩张解释，将羸弱机构反向塑造为全球最强规制体系之一。（示例：Lieberman 民权法案例，pp. 13–14）
 

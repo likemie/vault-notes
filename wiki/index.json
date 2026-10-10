@@ -9676,6 +9676,18 @@
     ]
   },
   {
+    "title": "Rule Ambiguity",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Rule Ambiguity.md",
+    "aliases": [
+      "规则模糊性",
+      "制度内生模糊性",
+      "规则内生模糊性",
+      "制度模糊性",
+      "institutional ambiguity"
+    ]
+  },
+  {
     "title": "Scapegoat Mechanism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Scapegoat Mechanism.md",
@@ -9836,6 +9848,18 @@
       "开放战略自主",
       "Open Strategic Autonomy",
       "欧洲战略自主"
+    ]
+  },
+  {
+    "title": "Strategic Compliance",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Strategic Compliance.md",
+    "aliases": [
+      "策略性遵从",
+      "规则遵从博弈",
+      "策略性合规",
+      "依从博弈",
+      "compliance"
     ]
   },
   {
@@ -10000,6 +10024,17 @@
       "产业纵向分工碎片化",
       "纵向碎片化高科技产业",
       "纵向碎片化"
+    ]
+  },
+  {
+    "title": "Veto Possibilities",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Veto Possibilities.md",
+    "aliases": [
+      "否决可能性",
+      "否决结构",
+      "政治否决阻力",
+      "否决机会"
     ]
   },
   {
@@ -16439,6 +16474,16 @@
       "Gramsci hegemony",
       "文化霸权",
       "cultural hegemony"
+    ]
+  },
+  {
+    "title": "Historical Institutionalism",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Historical Institutionalism.md",
+    "aliases": [
+      "历史制度主义",
+      "历史制度主义理论",
+      "历史制度学派"
     ]
   },
   {

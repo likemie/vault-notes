@@ -7,7 +7,7 @@ title: "Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change"
 argument_key: "Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change"
 argument_display_title: "A theory of gradual institutional change"
 argument_kind: "book-chapter"
-argument_related_count: 32
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -43,6 +43,9 @@ related_concepts:
   - "[[Symbionts]]"
   - "[[Enforcement Discretion]]"
   - "[[Baptist-Bootlegger Coalition]]"
+  - "[[Rule Ambiguity]]"
+  - "[[Strategic Compliance]]"
+  - "[[Veto Possibilities]]"
   - "[[Hypothesis]]"
   - "[[Document]]"
   - "[[Variable]]"
@@ -53,6 +56,7 @@ related_concepts:
   - "[[Avatar]]"
 related_theories:
   - "[[Theory of Gradual Institutional Change]]"
+  - "[[Historical Institutionalism]]"
   - "[[Path Dependence]]"
   - "[[Punctuated Equilibrium Theory]]"
   - "[[Disjointed Pluralism]]"
@@ -86,8 +90,8 @@ updated: 2026-10-11
 
 > [!concept-lens] 阅读透镜
 > - **对象** 现代政治经济体制中的正式规约与组织安排，涵盖宪法条款、国会规则、社会保障、劳资关系与土地产权制度。
-> - **张力** 制度持久稳态假定与现实渐进质变之间的冲突；外生危机解释范式与微观内生演变现实之间的脱节；机械的赢家输家对立与复杂的日常策略遵从之间的张力。
-> - **贡献** 创立[[Theory of Gradual Institutional Change|渐进制度变迁理论]]；确立以权力分配、制度模糊性与[[Enforcement Discretion|依从裁量权]]为核心的[[Analytic Framework|分析框架]]；提出变迁模式与行动者类型的双维解释矩阵。
+> - **张力** 制度持久稳态假定与现实渐进质变之间的冲突；外生危机解释范式与微观内生演变现实之间的脱节；机械的赢家输家对立与复杂的日常[[Strategic Compliance|策略遵从]]之间的张力。
+> - **贡献** 创立[[Theory of Gradual Institutional Change|渐进制度变迁理论]]；确立以权力分配、[[Rule Ambiguity|制度模糊性]]与[[Enforcement Discretion|依从裁量权]]为核心的[[Analytic Framework|分析框架]]；提出变迁模式与行动者类型的双维解释矩阵。
 
 ---
 
@@ -97,12 +101,13 @@ updated: 2026-10-11
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **[[Theory of Gradual Institutional Change\|渐进制度变迁理论]]**<br>[[Theory of Gradual Institutional Change]] | 核心解释框架。揭示制度内在的资源分配张力，阐明行动者如何利用规则与执行之间的缝隙，在不同否决与裁量环境下推动渐进演进。 |
+> | **[[Historical Institutionalism\|历史制度主义]]**<br>[[Historical Institutionalism]] | 母体理论范式。超越早期静态稳态偏误，开辟内生演进动力学，将制度确立为承载权力偏向的分配工具。 |
 > | **[[Path Dependence\|路径依赖理论]]**<br>[[Path Dependence]] | 理论对话参照。修正其早期将自我强化锁定视为普遍常态的偏误，指出绝对死锁在现实中非常罕见，常规政治更多表现为持续的边际调整。 |
 > | **[[Punctuated Equilibrium Theory\|间断均衡理论]]**<br>[[Punctuated Equilibrium Theory]] | 理论批判靶标。批判其将长时段历史简化为惰性停滞期并过度依赖外生突变的设定，证明稳态内部始终发生着深刻的累积变迁。 |
 > | **[[Disjointed Pluralism\|脱节多元主义]]**<br>[[Disjointed Pluralism]] | 理论启发来源。揭示制度并非单一集团纯粹设计的理性产物，而是历史中多元妥协碎片拼合的复合体，内部充满模糊性与操作缝隙。 |
 
 > [!warrant]- 理论如何支撑论证
-> 理论工具箱首先将制度从中立的技术协调工具还原为承载资源偏向的权力分配安排，确立了变迁动力的内生性；随后将规则模糊性与[[Enforcement Discretion|依从裁量权]]引入分析，解释了行动者为何能在不打破现有体制的情况下展开策略博弈；最终通过否决结构与裁量空间双重维度，将宏观政治约束与微观策略选择紧密连接，推导出系统的因果解释。（pp. 8–15）
+> 理论工具箱首先将制度从中立的技术协调工具还原为承载资源偏向的权力分配安排，确立了变迁动力的内生性；随后将[[Rule Ambiguity|规则模糊性]]与[[Enforcement Discretion|依从裁量权]]引入分析，解释了行动者为何能在不打破现有体制的情况下展开策略博弈；最终通过否决结构与裁量空间双重维度，将宏观政治约束与微观策略选择紧密连接，推导出系统的因果解释。（pp. 8–15）
 
 ---
 
@@ -111,14 +116,14 @@ updated: 2026-10-11
 > [!method-panel] 研究设计
 > | 模块 | 材料与分析路径 |
 > |---|---|
-> | **制度主义学术史批判**<br>Comparative Institutionalist Critique | 梳理社会学、理性选择与历史制度主义在变迁解释上的共同局限，反思外生危机[[Hypothesis\|假设]]，提炼制度稳定性的政治动员前提。（pp. 4–7） |
+> | **制度主义学术史批判**<br>Comparative Institutionalist Critique | 梳理社会学、理性选择与[[Historical Institutionalism|历史制度主义]]在变迁解释上的共同局限，反思外生危机[[Hypothesis\|假设]]，提炼制度稳定性的政治动员前提。（pp. 4–7） |
 > | **长时段比较历史案例考证**<br>Comparative-Historical Case Analysis | 考证英国上议院演进、美国社会保障立法、法国劳资关系、日本议会选区与肯尼亚土地产权等案例，作为因果机制的经验检验。（pp. 1–3, 11–28） |
-> | **类型学因果建模**<br>Typological Modeling | 提炼政治否决可能性（强/弱）与[[Enforcement Discretion|解释执行裁量权]]（高/低）双维属性空间，逻辑推导四类演进模式与四类行动者角色的匹配亲和性。（pp. 15, 28） |
+> | **类型学因果建模**<br>Typological Modeling | 提炼政治[[Veto Possibilities|否决可能性]]（强/弱）与[[Enforcement Discretion|解释执行裁量权]]（高/低）双维属性空间，逻辑推导四类演进模式与四类行动者角色的匹配亲和性。（pp. 15, 28） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **理论[[Document\|文献]]样本** | 涵盖[[Rational Action Theory\|理性选择理论]]与否决者文献（North, Ostrom, [[George Tsebelis|Tsebelis]]）、历史制度主义文献（[[Peter A. Hall|Hall]], Skocpol, Pierson, Hacker, Streeck, Thelen）与组织社会学研究（Selznick, Stinchcombe）。 |
+> | **理论[[Document\|文献]]样本** | 涵盖[[Rational Action Theory\|理性选择理论]]与否决者文献（North, Ostrom, [[George Tsebelis|Tsebelis]]）、[[Historical Institutionalism|历史制度主义]]文献（[[Peter A. Hall|Hall]], Skocpol, Pierson, Hacker, Streeck, Thelen）与组织社会学研究（Selznick, Stinchcombe）。 |
 > | **经验案例覆盖** | 涉及英国议会改革、美国国会议事与福利立法、巴西地方医疗、肯尼亚土地产权、印度尼西亚威权政体以及中国和古巴的市场双轨发展。 |
 > | **材料功能** | 案例不用于大样本统计检验，而是作为因果机制的经验具象检验，展示理论模型的现实解释力。 |
 
@@ -196,10 +201,10 @@ updated: 2026-10-11
 
 ---
 
-### 论证步骤二　成文规则具有不可消除的内在模糊性，使得日常执行与遵从成为渐进变迁的微观发源地
+### 论证步骤二　成文规则具有不可消除的内在[[Rule Ambiguity|规则模糊性]]，使得日常执行与[[Strategic Compliance|策略性遵从]]成为渐进变迁的微观发源地
 
 > [!claim] 步骤二核心主张
-> 正式规则受制于认知局限与社会复杂性，具有不可消除的内生模糊性；规则制定与日常执行之间的组织分离，使规则遵从（Compliance）从理论假定转化为充满政治博弈的经验[[Variable|变量]]，规则与执行的缝隙成为渐进变迁的根本温床。（pp. 10–14）
+> 正式规则受制于认知局限与社会复杂性，具有不可消除的[[Rule Ambiguity|内生模糊性]]；规则制定与日常执行之间的组织分离，使[[Strategic Compliance|规则遵从]]（Compliance）从理论假定转化为充满政治博弈的经验[[Variable|变量]]，规则与执行的缝隙成为渐进变迁的根本温床。（pp. 10–14）
 
 #### 1. 规则设计与现实落实存在永久缝隙，规则遵从在实践中是充满裁量空间的政治博弈变量
 
@@ -271,7 +276,7 @@ updated: 2026-10-11
 决定特定制度走向何种变迁路径的关键，取决于两个核心结构变量的[[Interaction Effect|交互作用]]：
 
 > [!dimension] 驱动制度变迁形态的双维解释变量
-> - **政治语境的否决可能性（Veto Possibilities）**
+> - **政治语境的[[Veto Possibilities|否决可能性]]（Veto Possibilities）**
 >   衡量现状支持者阻挠制度变革的结构化能力，该维度直接吸收并扩展了[[George Tsebelis|乔治·茨贝利斯（George Tsebelis, 2002）]]关于“否决玩家”（Veto Players）的形式化理论界定，取决于体制内否决玩家的权势多寡与否决点的数量分布；在强否决环境下，废除旧法的置换与重立新规的转换极易被否决点封杀。（pp. 18–20）
 > - **制度解释与执行的自由裁量权（Discretion in Interpretation and Enforcement）**
 >   衡量规则文本在日常落实中赋予执法官僚与司法裁判者的弹性操作空间；高裁量权允许行动者避开立法端的政治阻击，直接在执行端通过重新部署撬动实质演进。（pp. 20–22）
