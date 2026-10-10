@@ -7,7 +7,7 @@ aliases:
 summary: "Ronald Burt（1992, 2000）提出的社会网络理论核心概念，指网络中互不相连群体之间的拓扑断裂位置，占据该位置的经纪人可获取非冗余信息与控制优势。Fuchs（2010）将其扩展至国家创新系统治理，揭示嵌入型公共代理人超越消极中介套利、主动重组网络架构并闭合结构洞的机制；Cai 等（2025）则将其拓展至空间生产的三元辩证维度。"
 type: concept
 domain: "sociology-of-education"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Opportunist Mode]]"
 related_theories:
+  - "[[Lefebvre's Spatial Triad]]"
   - "[[Systems of Innovation]]"
   - "[[Technological Trajectories]]"
 related_methods:
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-11
-updated: 2026-10-04
+updated: 2026-10-10
 ---
 
 # Structural Holes
@@ -129,7 +130,7 @@ updated: 2026-10-04
 > 探讨高等教育机构学者如何将结构洞理论从人际网络扩展至物理、制度与认知空间的三元辩证关系中。
 
 > [!claim] Cai, Y., Gao, X., & Liu, Q.
-> **空间三元辩证法视角下的多重结构洞填补** 在跨法域区域协同发展中，结构性空洞广泛表现为三类阻隔：不同法域与学术治理机制脱节构成的“制度空洞”、大学探索逻辑与产业利润逻辑冲突构成的“认知空洞”、以及基础设施与政策规划脱离日常学术实践构成的“空间空洞”。关键节点教师通过跨界科研、联合实验室与新型体制探索等微观实践，发挥了弥合与缝合多维结构洞的核心枢纽作用。[[Argument_Cai_Gao_Liu_2025_HE|(Cai et al., 2025, pp. 4–8)]]
+> **[[Lefebvre's Spatial Triad|空间三元辩证法]]视角下的多重结构洞填补** 在跨法域区域协同发展中，结构性空洞广泛表现为三类阻隔：不同法域与学术治理机制脱节构成的“制度空洞”、大学探索逻辑与产业利润逻辑冲突构成的“认知空洞”、以及基础设施与政策规划脱离日常学术实践构成的“空间空洞”。关键节点教师通过跨界科研、联合实验室与新型体制探索等微观实践，发挥了弥合与缝合多维结构洞的核心枢纽作用。[[Argument_Cai_Gao_Liu_2025_HE|(Cai et al., 2025, pp. 4–8)]]
 
 ---
 
@@ -191,4 +192,4 @@ updated: 2026-10-04
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - Burt (2004) — 经典实证检验结构洞位置如何显著提高组织个体的创新构想质量与晋升机会。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 以美国 [[DARPA]] 在半导体光刻与硅锗技术中的干预为例，揭示公共代理人如何超越结构洞消极套利、能动闭合网络断裂并重塑产业[[Technological Trajectories|技术轨道]]。
-> - [[Argument_Cai_Gao_Liu_2025_HE|Cai, Gao, & Liu (2025)]] — 结合空间三元辩证法，实证分析[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]高校骨干教师填补跨法域制度、认知与空间结构洞的实践机制。
+> - [[Argument_Cai_Gao_Liu_2025_HE|Cai, Gao, & Liu (2025)]] — 结合[[Lefebvre's Spatial Triad|空间三元辩证法]]，实证分析[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]高校骨干教师填补跨法域制度、认知与空间结构洞的实践机制。

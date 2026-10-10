@@ -7,7 +7,7 @@ aliases:
 summary: "将空间理解为社会网络、制度安排与耐用材料构成的动态拓扑构型而非静态领土容器；在教育政策研究中用于解构全球与国家二元对立，透视政策网络中的策略性外在化以及耐用客体构建的异层支配秩序。"
 type: concept
 domain: "comparative-education"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Venture Philanthropy]]"
 related_theories:
   - "[[Actor-Network Theory]]"
+  - "[[Lefebvre's Spatial Triad]]"
 related_methods:
   - "[[Network Analysis]]"
   - "[[Effect Size]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-07
-updated: 2026-10-07
+updated: 2026-10-10
 ---
 
 # Relational Space
@@ -198,7 +199,7 @@ updated: 2026-10-07
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2005–2006 — 人文地理学与社会学空间转向** Massey 提出将空间视作多元共存之维；Murdoch 阐述网络对空间的生产机制，为超越绝对空间奠定理论基石。
+> - **2005–2006 — 人文地理学与社会学空间转向** Massey 提出将空间视作多元共存之维；Murdoch 阐述网络对[[Lefebvre's Spatial Triad|空间的生产]]机制，为超越绝对空间奠定理论基石。
 > - **2014–2015 — 比较教育学科的空间论引入** Larsen & Beech 以及 [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]] 正式将关系性空间概念引入比较教育，主张超越[[Methodological Nationalism\|方法论民族主义]]，从网络生成与知识沟通过程理解教育转移。
 > - **2020–2023 — 跨国[[Policy Network\|政策网络]]与[[Transfer Space\|转移空间]]概念化** Diane Stone 提倡跨国政策研究的[[Methodological Transnationalism\|方法论跨国主义]]；Porto de Oliveira & Osorio Gonnet (2023) 提出“转移空间”（Transfer Space），使关系性空间在政策分析中具备可操作的中介载体。
 > - **2022–2023 — 批判政策网络与社会-物质[[Assemblage\|装配]]实证应用** 埃玛·罗威（Emma Rowe）结合社会-物质理论（Law, 1992; Murdoch, 2006），将关系性空间拓展至[[Philanthrocapitalism\|慈善资本主义]]与国家科研机构治理分析，揭示立法修正案、法人实体与证据阶梯等耐用客体如何在关系性网络拓扑中形塑“防野狗围栏”式的排他秩序与超流动异层权力。[[Argument_Rowe_2022_IJER\|Rowe (2022)]]; [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]

@@ -7,9 +7,9 @@ title: "Argument_Sobe_Fischer_2009_MobilityMigration"
 argument_key: "Argument_Sobe_Fischer_2009_MobilityMigration"
 argument_display_title: "Mobility, Migration and Minorities in Education"
 argument_kind: "book-chapter"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 34
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
 authors:
   - "[[Sobe, N. W.]]"
