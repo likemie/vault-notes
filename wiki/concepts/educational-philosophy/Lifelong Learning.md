@@ -7,10 +7,10 @@ aliases:
 summary: "指贯穿个体全生命周期的自愿性、适应性与累积性学习过程，既包含服务知识经济与劳动力重构的人力资本技能更新，更涵盖支撑公民健康、理性决策、民主协商与社会文化基础设施构建的全人发展与非正式参与生态。"
 type: concept
 domain: "educational-philosophy"
-related_count: 46
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 52
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/curriculum
   - theme/educational-reform
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Externalization]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Learner Autonomy]]"
+  - "[[Student Mobility]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Construct]]"
   - "[[Data Literacy]]"
@@ -40,6 +41,7 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Informal Science Learning]]"
   - "[[Science Capital]]"
+  - "[[European Education Space]]"
   - "[[Praxis]]"
   - "[[Document]]"
   - "[[Paradigm]]"
@@ -48,7 +50,10 @@ related_concepts:
 related_theories:
   - "[[Knowledge Building Theory]]"
   - "[[Human Capital Theory]]"
+  - "[[Spatial Governmentality]]"
+  - "[[Governmentality]]"
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Cohort Study]]"
   - "[[Questionnaire]]"
   - "[[Correlational Research]]"
@@ -68,12 +73,13 @@ related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
+  - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-10-07
+updated: 2026-10-10
 ---
 
 # Lifelong Learning
@@ -103,6 +109,7 @@ updated: 2026-10-07
 > - **1996 年 德洛尔报告确立四大支柱与应对全球化挑战** 联合国教科文组织发布《教育：财富蕴藏其中》（Learning: The Treasure Within，Delors 报告），将终身学习凝练为四大支柱：学会认知（Learning to know）、学会做事（Learning to do）、学会共处（Learning to live together）以及学会生存（Learning to be），并警惕经济全球化与纯粹功利主义可能侵蚀社会连带；但国际多边治理主导权已开始向国际金融机构倾斜。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 > - **1990 年代末至 2000 年代初 [[Knowledge-Based Economy|知识经济]]主导与[[Policy Borrowing|政策借用]]转向** 伴随全球化进程，终身学习被[[World Bank|世界银行]]（[[World Bank]]）与 [[OECD]] 深度重塑为服务[[Knowledge-Based Economy|知识经济]]与劳动力市场[[Employability|就业能力]]的工具；各国政府亦频繁借用终身学习[[Discourse|话语]]作为[[Externalization|外部化]]国内矛盾的政策工具。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, p. 487)]]
 > - **2006 年与 2018 年 欧盟[[21st Century Skills and Competencies Discourse|关键能力]]框架** 欧洲联盟（European Union, EU）发布并更新《终身学习核心素养建议书》（[[EU Key Competences for Lifelong Learning]]），确立了包括科学、数学、数字素养、公民素养及[[Learner Autonomy|自主学习]]在内的八大终身学习关键能力。
+> - **2007 年 欧盟“终身学习计划”（Lifelong Learning Programme, LLP）确立跨国流动支柱** 欧盟正式启动 2007–2013 统摄性“终身学习计划”（LLP），将伊拉斯谟计划（ERASMUS）、夸美纽斯计划（COMENIUS）、达芬奇计划（LEONARDO DA VINCI）及格伦特维计划（GRUNDTVIG）全面整合；将学生跨国流动（[[Student Mobility|学生流动性]]）确立为获取终身学习素养与提升个体就业胜任力的核心制度载体。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 > - **2020 年代中 数字化、绿色化转型与社会文化基础设施跃迁** 面对[[Generative Artificial Intelligence|生成式人工智能]]（Artificial Intelligence, AI）颠覆与气候变化危机，英国皇家学会（Royal Society, 2026）重塑终身学习[[Construct|构念]]，提出涵盖[[Data Literacy|数据素养]]、批判性 AI 素养与可持续发展素养的交叉素养框架，并将科技馆、探索中心及[[Citizen Science|公民科学]]确立为保障全民终身学习的社会与文化基础设施。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 31–32)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 48)]]
 
 ---
@@ -160,6 +167,16 @@ updated: 2026-10-07
 
 ---
 
+### 命题三　超国家空间治理将终身学习重构为跨国流动胜任力并将宏观劳动力风险个体化
+
+> [!concept-lens] [[Spatial Governmentality|空间治理术]]与流动的个体化责任
+> 超国家教育治理（如[[European Education Space|欧洲教育空间]]）将终身学习构型与[[Student Mobility|学生流动性]]深度嵌套，使跨国流动从早期的文化交融与欧洲公民认同培育，转变为个体终身维持人力资本与就业[[Competitiveness|竞争力]]的战略工具。
+
+> [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] & Papatsiba (2005)
+> **终身学习对流动性的工具化吸纳与新自由主义就业规训** 索贝与菲舍尔（Noah W. Sobe & Trevor Fischer, 2009, pp. 362–363）援引瓦西莉基·帕帕齐巴（Vassiliki Papatsiba, 2005）的批判考证指出，欧盟通过“终身学习计划 2007–2013”（LLP）将伊拉斯谟（ERASMUS）等跨国流动项目全面整合进终身学习政策伞下，标志着流动性质的根本转型。流动不再仅仅关乎文化探索或政治一体化，而是被重新[[Coding in Qualitative Research|编码]]为个体必须具备的终身学习核心技能与就业胜任力（Employability）。在这种超国家空间[[Governmentality|治理术]]下，宏观经济与劳动力市场的结构性动荡风险被系统性地个体化：个体被要求通过终身跨国流动展现持续的适应性与灵活性，流动的缺席则被归咎为个人的技能缺陷与自我投资不足。
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -168,6 +185,7 @@ updated: 2026-10-07
 > | **政策借用与修辞合法化** | 终身学习被用作外部化国内矛盾与推动争议改革的话语工具，人本主义内核在多边金融机构主导下遭遇工具主义异化 | 批判性审视国家政策借用与国际多边治理[[Paradigm\|范式]]转型 | [[Argument_Yan_2025_JCS\|Yan & Morris (2025)]]; Elfert (2015); [[Robert Arnove\|Arnove (2009)]] |
 > | **社会文化基础设施定位** | 终身科学参与构成与绿地、图书馆并列的核心公共品 | 建立政府采购 10% 社会价值与财税激励平权机制 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026, p. 43)]] |
 > | **全周期累积与技能重塑** | 宽基础课程支撑跨生命周期的交叉素养与职业转型 | 破除过早狭隘分科，启动国家长期队列[[Cohort Study\|追踪研究]] | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026, p. 30)]] |
+> | **跨国流动与就业风险个体化** | 超国家空间治理将跨国流动工具化吸纳为终身学习核心能力，将劳动力市场结构性动荡个体化为终身流动责任 | 警惕流动话语抽离文化内核并异化为新自由主义就业规训 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009, pp. 362–363)]]; Papatsiba (2005) |
 
 ---
 
@@ -211,6 +229,7 @@ updated: 2026-10-07
 > - [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] — 深度剖析终身学习[[Discourse|话语]]在香港课程改革中的政策[[Externalization|外部化]]与修辞借用机制。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 倡导面向全体公民的全生命周期[[Scientific Literacy|科学素养]]建设，以[[Data Literacy|数据素养]]与批判性 AI 素养重构跨人生阶段的基础素养底座，并将[[Informal Science Learning|非正式科学学习]]场馆与社区参与网络确立为国家终身学习不可或缺的公共社会文化基础设施。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, p. 110)]] — 揭示终身学习在战后[[International Education|国际教育]]多边主义转型中的权力位移，分析[[UNESCO|联合国教科文组织]]人本主义终身教育构想如何在[[World Bank|世界银行]]等金融机构崛起中被新自由主义[[Disciplina and Doctrina|规训]]与[[Human Capital Theory|人力资本]]导向所取代。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009, pp. 362–363)]] — 批判性揭示欧洲终身学习计划（LLP）如何将跨国流动性（[[Student Mobility|学生流动性]]）工具化整合为个体生存技能，将劳动力市场结构性动荡风险个体化为维持终身流动的个人问责，展现超国家空间[[Governmentality|治理术]]对个体主体性的塑造。
 
 ---
 

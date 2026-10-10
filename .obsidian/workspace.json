@@ -67,7 +67,8 @@
               "title": "Argument_Sobe_Fischer_2009_MobilityMigration"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -269,22 +270,27 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dbd03913e540f7fd",
+  "active": "9fa9dc0454e1193e",
   "lastOpenFiles": [
-    "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md",
+    "wiki/concepts/comparative-education/Nomadic Education.md",
     "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Sobe_Fischer_2009_MobilityMigration.md",
+    "wiki/concepts/comparative-education/Traveller Education.md",
+    "wiki/facts/us/Plyler v. Doe 1982.md",
+    "wiki/persons/us/Robert J. Gordon.md",
+    "wiki/concepts/comparative-education/European Education Space.md",
+    "wiki/theories/political-economy-geopolitics/Governmentality.md",
+    "wiki/theories/sociology-of-education/Spatial Governmentality.md",
+    "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md",
+    "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md",
     "wiki/facts/eu/TEMPUS.md",
     "wiki/theories/sociology-of-education/Two Problematics of Educational Inclusion and Exclusion.md",
     "wiki/concepts/comparative-education/Migrant Education.md",
-    "wiki/theories/sociology-of-education/Spatial Governmentality.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md",
     "wiki/facts/china/Hukou System.md",
     "wiki/concepts/educational-philosophy/Enlightenment.md",
     "wiki/concepts/teacher-education/Teacher Mobility.md",
     "wiki/concepts/comparative-education/Temporalization of Space.md",
     "wiki/concepts/comparative-education/Sedentarism.md",
-    "wiki/concepts/comparative-education/Traveller Education.md",
-    "wiki/concepts/comparative-education/Nomadic Education.md",
     "wiki/facts/us/No Child Left Behind Act 2001.md",
     "wiki/methods/qualitative/Comparative Policy Analysis.md",
     "wiki/theories/sociology-of-education/Lefebvre's Spatial Triad.md",
@@ -302,11 +308,6 @@
     "raw/BrunoJofre_Schriewer_2012_Routledge_txt/Ch05_Schulte_The_Chinese_Dewey.txt",
     "raw/BrunoJofre_Schriewer_2012_Routledge_txt/Ch01_Schriewer_Deweyan_Thought_Refracted.txt",
     "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rust_2009_Reflections.md",
-    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Olmos_Torres_2009_StateTheories.md",
-    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mitter_2009_Europe.md",
-    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md",
-    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_HistoricalReflections.md",
-    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md",
     "sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig_NISE_Network.jpg",
     "sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig_Computing_Power_3DHI.png",
     "sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig_ENIAC.jpg",

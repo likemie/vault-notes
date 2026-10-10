@@ -1,20 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Sobe_Fischer_2009_MobilityMigration",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Sobe_Fischer_2009_MobilityMigration.md"
+    },
+    {
+      "basename": "Nomadic Education",
+      "path": "wiki/concepts/comparative-education/Nomadic Education.md"
+    },
+    {
+      "basename": "Traveller Education",
+      "path": "wiki/concepts/comparative-education/Traveller Education.md"
+    },
+    {
+      "basename": "Plyler v. Doe 1982",
+      "path": "wiki/facts/us/Plyler v. Doe 1982.md"
+    },
+    {
+      "basename": "Robert J. Gordon",
+      "path": "wiki/persons/us/Robert J. Gordon.md"
+    },
+    {
+      "basename": "European Education Space",
+      "path": "wiki/concepts/comparative-education/European Education Space.md"
+    },
+    {
+      "basename": "Governmentality",
+      "path": "wiki/theories/political-economy-geopolitics/Governmentality.md"
+    },
+    {
+      "basename": "Spatial Governmentality",
+      "path": "wiki/theories/sociology-of-education/Spatial Governmentality.md"
+    },
+    {
       "basename": "Argument_Kratsios_2026_OSTP",
       "path": "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md"
     },
     {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic",
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md"
-    },
-    {
-      "basename": "Argument_Sobe_Fischer_2009_MobilityMigration",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Sobe_Fischer_2009_MobilityMigration.md"
-    },
-    {
-      "basename": "Spatial Governmentality",
-      "path": "wiki/theories/sociology-of-education/Spatial Governmentality.md"
     },
     {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31",
@@ -175,30 +199,6 @@
     {
       "basename": "NSF Regional Innovation Engines",
       "path": "wiki/facts/us/NSF Regional Innovation Engines.md"
-    },
-    {
-      "basename": "Research Translation",
-      "path": "wiki/concepts/university-industry-collaboration/Research Translation.md"
-    },
-    {
-      "basename": "Workforce Development",
-      "path": "wiki/concepts/educational-policy-reform/Workforce Development.md"
-    },
-    {
-      "basename": "Innovation Hub",
-      "path": "wiki/concepts/university-industry-collaboration/Innovation Hub.md"
-    },
-    {
-      "basename": "Engineering Education",
-      "path": "wiki/concepts/higher-education/Engineering Education.md"
-    },
-    {
-      "basename": "Engineering Research Centers",
-      "path": "wiki/facts/us/Engineering Research Centers.md"
-    },
-    {
-      "basename": "National Science Foundation",
-      "path": "wiki/facts/us/National Science Foundation.md"
     }
   ],
   "omittedPaths": [],

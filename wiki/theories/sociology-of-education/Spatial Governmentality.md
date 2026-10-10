@@ -4,38 +4,45 @@ aliases:
   - 空间治理术
   - 空间化治理
   - spatialization of government
+  - spatial governmentality
 summary: "空间治理术是尼古拉斯·罗斯对福柯治理术理论的空间化拓展，指出治理不仅是对身体与时间的规训，更本质地依赖于空间的构想、划界与操控；该理论通过领地化划界、空间化统治之眸与空间质地建模三大轴线，揭示了现代学校如何作为封闭性空间容器与资格筛选装置，规制不同人口群体的物理与社会流动。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 20
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/sociology-of-education
   - theme/spatial-turn
   - theme/educational-governance
   - theme/student-mobility
+  - theme/migrant-education
 related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Space Production]]"
   - "[[Industrial District]]"
+  - "[[Knowledge Questions]]"
+  - "[[Sedentarism]]"
+  - "[[Student Mobility]]"
   - "[[Research Question]]"
   - "[[Discourse]]"
   - "[[School Choice]]"
   - "[[Bureaucracy]]"
   - "[[Determinism]]"
-  - "[[Knowledge Questions]]"
-  - "[[Student Mobility]]"
 related_theories:
   - "[[Governmentality]]"
   - "[[Educational Governance Framework]]"
+  - "[[Two Problematics of Educational Inclusion and Exclusion]]"
 related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Thomas S. Popkewitz]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
+  - "[[TEMPUS]]"
+  - "[[Hukou System]]"
 related_arguments:
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
 confidence: high
@@ -53,33 +60,53 @@ updated: 2026-10-10
 > [!theory-position] 理论定位
 > - **解释对象** 权力如何通过界定地理边界、绘制统计图表、规划建筑环境以及构建空间质地，对人类群体的流动、聚集和交往实施远距离协调与微观[[Disciplina and Doctrina|规训]]。
 > - **理论问题** 传统政治学与早期[[Governmentality|治理术]]研究过度偏重历时性时间维度与机构权力的单向压制，忽视了“空间”本身即是治理思想与行政权力的生产性构件；学校教育研究长期将校园视为中立的物理背景，无法解释空间区隔对流动人口的差异化排斥。
-> - **理论类型** 批判社会学与教育政治学理论框架。
+> - **理论类型** 批判社会学、教育政治学与空间社会学理论框架。
 > - **知识位置** 承袭米歇尔·福柯（Michel Foucault）的微观权力与治理术学说，由尼古拉斯·罗斯（Nikolas Rose）在政治社会学领域系统化，并由诺亚·索比（Noah W. Sobe）与梅丽莎·菲舍尔（Melissa G. Fischer）等学者引入比较教育学与空间转向研究。
 
 > [!claim] 核心判断
 > 现代社会的权力运作本质上是空间化的；国家与专业机构并非仅在预先存在的地理空间中发号施令，而是通过“领地化划界”、“空间化统治之眸”以及“空间质地建模”三大技术，持续生产出可计算、可干预的治理单元。学校在这一体制中承担着双重空间职能：既是把人群固定于特定物理网格内的规训容器，又是评判个体是否具备进入其他社会空间资格的筛选关卡。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361)]]
+
+> [!citation-card]
+> **[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] 论空间作为现代治理的舞台与工具**
+> 将空间理解为现代治理的舞台与工具，使我们能够看清学校承担的双重职能：（1）作为用于管理人口的封闭空间容器（Enclosure）；（2）作为评判个体（及特定群体）是否具备参与或不参与其他社会空间资格的筛选场所（Site for Qualification/Disqualification）。各种流动形式与移民实践同学校教育日常运作发生碰撞，并在教育政策与研究中被问题化，这对少数群体和边缘人群具有极为深远的影响。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 361)]]
 
 ---
 
 ## 理论来源与形成
 
 > [!theory-origin] 空间化[[Educational Governance Framework|治理分析框架]]的提出
-> - **提出者与原始文本** 尼古拉斯·罗斯（Nikolas Rose）于1999年在著作《自由的力量：重构政治思想》（*Powers of Freedom: Reframing Political Thought*）中正式系统阐发了政[[Governmentality|治理性]]与治理思想的空间化维度。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
+> - **提出者与原始文本** 尼古拉斯·罗斯（Nikolas Rose）于 1999 年在著作《自由的力量：重构政治思想》（*Powers of Freedom: Reframing Political Thought*）中正式系统阐发了政[[Governmentality|治理性]]与治理思想的空间化维度。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
 > - **原初问题** 现代自由主义国家如何在不诉诸普遍暴力的前提下，维持庞大人口的社会秩序并引导个体实现“自我治理”；空间如何从单纯的物理距离转变为权力和自由相互博弈的技术载体。
-> - **理论资源与材料** 吸收了福柯关于空间区隔（如全景敞视建筑、临床医学空间）的洞见，结合19世纪以来公共卫生普查、城市贫民窟空间调查（如 James Kay-Shuttleworth 1832年关于曼彻斯特劳工阶层的调查）以及现代人口统计学的历史材料。
-> - **形成路径** Rose 从权力运行对“可见性（Visibility）”与“可计算性（Calculability）”的依赖出发，提炼出领地化、空间凝视与空间质地三大分析轴线，指出自由主义治理的实质就是构建适宜特定人类品性生存与自我调节的微观空间。
+> - **理论资源与材料** 吸收了福柯关于空间区隔（如全景敞视建筑、临床医学空间）的洞见，结合 19 世纪以来公共卫生普查、城市贫民窟空间调查（如 James Kay-Shuttleworth 1832 年关于曼彻斯特劳工阶层的调查）以及现代人口统计学的历史材料。
+> - **形成路径** Rose 从权力运行对“可见性（Visibility）”与“可计算性（Calculability）”的依赖出发，提炼出领地化划界、空间化统治之眸与空间质地建模三大分析轴线，指出自由主义治理的实质就是构建适宜特定人类品性生存与自我调节的微观空间。
 
 ### 后续修订与扩展
 
 > [!dev-timeline] 理论演变与教育学移植
-> - **1999年 — 政治社会学系统化** Rose 在《自由的力量》中提出治理思想空间化的三条轴线，奠定了从[[Space Production|空间生产]]透视现代自由主义治理技术的基础。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
-> - **2009年 — 比较教育学空间转向** Sobe 与 Fischer 将空间治理术框架全面引入流动性、移民与少数群体教育研究，明确指出学校是空间化治理的枢纽节点，既作为围栏[[Disciplina and Doctrina|规训]]人群，又作为关卡分配社会空间准入资格。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361)]]
+> - **1999 年 — 政治社会学系统化** Rose 在《自由的力量》中提出治理思想空间化的三条轴线，奠定了从[[Space Production|空间生产]]透视现代自由主义治理技术的基础。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
+> - **2000 年 — [[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]框架的提出** [[Thomas S. Popkewitz|托马斯·S·波普科维茨]]与斯韦克·林德布拉德（Popkewitz & Lindblad, 2000）提出教育治理中宏观“公平-参与”与微观“知识系统”的双重排斥问题式，为空间权力的文化分析奠定基础。
+> - **2009 年 — 比较教育学空间转向与双重问题式统合** Sobe 与 Fischer 将空间治理术框架全面引入流动性、移民与少数群体教育研究，明确指出学校是空间化治理的枢纽节点，并将“空间实践”（流动与阻隔）作为弥合制度准入与知识分类双重问题式的关键纽带。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361, 367–368)]]
 
 ---
 
 ## 关键概念与理论构件
 
-> [!entry-map]
+```mermaid
+graph TD
+    SG["空间治理术 (Spatial Governmentality)<br>Rose (1999) / Sobe & Fischer (2009)"]
+    SG --> AX1["轴线一：领地化划界<br>(Territorialization)"]
+    SG --> AX2["轴线二：空间化统治之眸<br>(Spatializing the Gaze)"]
+    SG --> AX3["轴线三：空间质地建模<br>(Spatial Texture Modeling)"]
+    
+    AX1 --> SCH["学校双重空间职能"]
+    AX2 --> SCH
+    AX3 --> SCH
+    
+    SCH --> FN1["职能一：空间容器 (Enclosure)<br>人口圈禁、作息规训、阻止无序流动"]
+    SCH --> FN2["职能二：资格筛选关卡 (Qualification)<br>学籍门槛、测试认证、跨界资格裁决"]
+```
+
+> [!entry-map] 理论构件与功能映射
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -88,6 +115,7 @@ updated: 2026-10-10
 > | 空间质地建模（Spatial Texture Modeling） | 分类框架 | 区分均质平滑的“等方空间”与具有厚度深度的“纵深空间”，为不同空间区域配置相异的统治策略。 |
 > | 空间容器（Enclosure） | 制度隐喻 | 学校作为物理与制度边界，用于固定特定人口、阻止无序流动并强制实施时间作息与道德灌输。 |
 > | 资格筛选装置（Apparatus of Qualification） | 权力功能 | 学校通过考试凭证与品行考核，决定哪些个体有资格跨越门槛参与更广阔的社会与经济空间。 |
+> | 流动与阻隔机制（Flows and Stoppages） | 动力学机制 | 空间实践通过加速合规流动（如学术精英跨国）与阻断违规流动（如流动儿童越界），维系社会秩序。 |
 
 ---
 
@@ -96,10 +124,10 @@ updated: 2026-10-10
 > [!theory-proposition] 命题一｜离散空间划界与视觉化表征是现代人口治理的先决条件
 > **解释** 治理的前提是将纷繁复杂的人类活动转化为可以被官僚系统计量、追踪与干预的稳定对象。国家与专业管理机构通过领地化划界，人为构想并界定了“国民经济”、“学区”、“社区”乃至“班级教室”等离散单元；随后，借助普查数据、空间制图、统计报表和评估量表，统治者的目光得以空间化，使得贫困、疾病、辍学或学业不良等现象呈现为可空间干预的行政问题。没有这种空间化界定与视觉呈现，现代行政系统便无法对流动的社会群体实施远距离支配。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
 >
-> **应用实例** 在19世纪曼彻斯特[[Industrial District|工业区]]，改革家 James Kay-Shuttleworth 运用卫生与道德空间统计调查，将贫民窟划定为特定高危区域，使工人的起居卫生和受教育状况在统计表格上一览无余，进而为后来的贫民学校建设与强制初等教育立法提供了正当性依据。
+> **应用实例** 在 19 世纪曼彻斯特[[Industrial District|工业区]]，改革家 James Kay-Shuttleworth 运用卫生与道德空间统计调查，将贫民窟划定为特定高危区域，使工人的起居卫生和受教育状况在统计表格上一览无余，进而为后来的贫民学校建设与强制初等教育立法提供了正当性依据。
 
 > [!theory-proposition] 命题二｜平滑与纵深的空间质地建构催生了双重分异的[[Disciplina and Doctrina|规训]]策略
-> **解释** 治理思想对空间物理与社会质地的想象直接决定了权力的干预方式。当空间被构想为均质、等方且处处相同的“平滑平面（Smooth Plane）”时，权力便推行统一的标准化规程、重复性操作与通用问责指标；而当空间被构想为具有厚度、层级和质地不均的“纵深空间（Thick Space）”时，差异化治理原则便随之确立。现代国家往往双管齐下：在核心社会阶层所处的主流空间推崇自由选择、民主协商与赋权参与；在边缘、流动或少数族裔集聚的次级空间，则调动官僚审查、行政限制、强制同化与身体隔离等威权规训技术。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361)]]
+> **解释** 治理思想对空间物理与社会质地的想象直接决定了权力的干预方式。当空间被构想为均质、等方且处处相同的“平滑平面（Smooth Plane / Isotropic Space）”时，权力便推行统一的标准化规程、重复性操作与通用问责指标；而当空间被构想为具有厚度、层级和质地不均的“纵深空间（Thick Space / Nonregular Depth）”时，差异化治理原则便随之确立。现代国家往往双管齐下：在核心社会阶层所处的主流空间推崇自由选择、民主协商与赋权参与；在边缘、流动或少数族裔集聚的次级空间，则调动官僚审查、行政限制、强制同化与身体隔离等威权规训技术。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361)]]
 >
 > **应用实例** 在现代教育问责制中，中央教育部门假定全州学校处于同一个等方考核平面上，要求所有学校达标统考；但对于游牧民儿童、无证移民儿童或贫民区流动儿童所在的边缘空间，政策系统又将其定义为带有文明欠缺或社会病态的特殊纵深区域，实施强制定居化安排或附加严格的学籍准入审查。
 
@@ -107,6 +135,11 @@ updated: 2026-10-10
 > **解释** 学校既非孤立于社会的象牙塔，亦非中立的知识传授场所，而是现代空间[[Governmentality|治理术]]的枢纽装置。一方面，学校扮演着严密的空间容器角色，依靠围墙、教室门禁、考勤钟声与固定座位，将儿童固定在可严密监控的物理微观空间中，切断流浪与无序流动；另一方面，学校扮演着社会分层的空间筛选关卡角色，通过标准化测验、文凭认证与行为定性，赋予一部分人向更高阶级空间跨越的通行证，同时以学业失败或行为不端为由，取消边缘群体进入主流劳动力市场或公民权力空间的合法资格。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 361)]]
 >
 > **应用实例** 在美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》实施背景下，公立学校既通过考勤与安全门禁将底层流动儿童约束在校舍内，又在学校报告卡中将频繁中途转学的学生标记为拉低学业达标率的负面指标，使其在事实上面临隐性劝退与分流排斥。
+
+> [!theory-proposition] 命题四｜空间实践是统合教育制度准入与深层文化分类的核心纽带
+> **解释** 传统教育研究长久割裂了关注宏观资源分配与法律代表性的“公平-参与问题式”（Equity-Participation Problematic）和关注微观思维理性与身份评判的“[[Knowledge Questions|知识问题]]式”（Problematic of Knowledge）。空间治理术表明，学校的日常运作本质上是一系列具体的“空间实践”（Spatial Practices）：通过对物理边界的构筑、对人口流动的催化或阻滞（Flows and Stoppages），学校既在物质层面硬性决定谁能进入校园空间，又在文化层面根据[[Sedentarism|定居主义]]规范裁定何种流动是合法的时代美德、何种流动是需要矫正的病态偏常。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 367–368)]]
+>
+> **应用实例** 在对待[[Student Mobility|学生流动性]]时，欧盟将精英大学生通过伊拉斯谟计划或[[TEMPUS|天普计划]]的跨国求学赞许为培育欧洲认同的文明资产（平滑流动），而美国学校报告卡与中国[[Hukou System|户籍制度]]则将底层家庭因生计搬迁造成的中途转校界定为破坏教学秩序的异类并设置行政阻隔（空间阻断）。
 
 ---
 
@@ -127,6 +160,7 @@ updated: 2026-10-10
 > | 命题二（Rose, 1999; Foucault, 1971） | **空间质地分化（Spatial Texture）** 主流与边缘群体所处空间被赋予了何种不同质地与治理逻辑？ | 普通公办学校与打工子弟学校/定居点学校的资源对比、对流动学生转学的定性语态。 | 若对主流中产推行自由[[School Choice\|择校]]与个性化发展，而对流动底层推行封闭隔离或强制定居同化，支持空间质地双重分化假说。 |
 > | 命题三（空间容器构件） | **空间容器与身体约束（School Enclosure）** 学校如何通过物理微观空间约束学生的身体自由？ | 校园围墙与出入道闸、课桌椅排列方式、作息时刻表、走廊纪律规范。 | 检查高度刚性的空间与时间安排是否旨在消除学生的街头流动性与社区自主习惯。 |
 > | 命题三（Popkewitz & Lindblad, 2000） | **关卡筛选与资格赋予（Spatial Qualification）** 学校机制如何决定谁有权进入下一阶社会空间？ | 毕业文凭、升学考试门槛、品行评语、分流机制与户籍学籍联动机制。 | 揭示学校考核如何将空间区隔转化为个人的学业禀赋差异，进而合法化社会分层。 |
+> | 命题四（[[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer, 2009]]） | **流动性与阻隔调控（Flows and Stoppages）** 体制如何加速或阻滞不同阶层群体的空间位移？ | 跨境学生签证、学分互认协议、公立学位准入户籍门槛、流动儿童专项资助方案。 | 若政策对精英流动提供绿色通道与补贴，同时对底层家庭设置身份核验与驱逐，支持流动分层调控假说。 |
 
 ---
 
@@ -159,3 +193,6 @@ updated: 2026-10-10
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 运用空间[[Governmentality|治理术]]的三大轴线系统剖析全球教育中的[[Student Mobility|学生流动性]][[Discourse|话语]]差异，以及中国、美国、西班牙、英国和印度的流动儿童边缘化机制。
+
+---
+

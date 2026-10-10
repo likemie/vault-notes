@@ -7,7 +7,7 @@ summary: "德裔英国教育家，以共同服务、挑战性活动与跨文化�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 7
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -26,7 +26,6 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Robert J. Gordon]]"
   - "[[Alec Peterson]]"
 related_facts:
   - "[[United World Colleges]]"
@@ -36,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-08
+updated: 2026-10-10
 ---
 
 # Kurt Hahn
@@ -64,7 +63,7 @@ updated: 2026-10-08
 > [!timeline] 生平与职涯
 > - **1920** 出任萨勒姆学校校长，学校让德国和英国这两个昔日敌国的儿童共同学习。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, p. 2)]]
 > - **1932** 要求萨勒姆校友在希特勒与学校价值之间作出选择，随后被捕，并在英国首相拉姆齐·麦克唐纳干预后流亡英国。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, p. 2)]]
-> - **英国时期** 参与创办[[Robert J. Gordon|戈登]]斯敦学校、外展训练运动、爱丁堡公爵奖和[[United World Colleges\|联合世界书院]]，把教育愿景连续转化为机构行动。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, p. 2)]]
+> - **英国时期** 参与创办戈登斯敦学校、外展训练运动、爱丁堡公爵奖和[[United World Colleges\|联合世界书院]]，把教育愿景连续转化为机构行动。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, p. 2)]]
 > - **1950 年代后期** 与劳伦斯·达瓦尔及英国工商、政治和教育界人士筹建跨国学校，推动[[Founding of Atlantic College\|大西洋学院创办]]。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 3–4)]]
 
 ## 核心思想
@@ -81,7 +80,7 @@ updated: 2026-10-08
 
 > [!influence-path] 影响路径
 > - **教育路径** 把共同服务、风险、技能训练、团队领导和个人热情组合为完整的青年教育经验。
-> - **机构路径** 通过[[Robert J. Gordon|戈登]]斯敦学校、外展训练、爱丁堡公爵奖和[[United World Colleges\|联合世界书院]]，使理念进入可持续的组织形式。
+> - **机构路径** 通过戈登斯敦学校、外展训练、爱丁堡公爵奖和[[United World Colleges\|联合世界书院]]，使理念进入可持续的组织形式。
 > - **课程路径** 大西洋学院以海上与悬崖救援等共同任务替代容易形成国家分组的团队运动，并把服务纳入学校课程。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 8–9)]]
 > - **跨国传播** 前敌国青年共同解决问题的设想，经大西洋学院转化为跨国招生与共同生活模式。
 

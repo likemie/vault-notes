@@ -140,7 +140,7 @@ updated: 2026-10-10
 > [!figure]- 图 1　NCLB 法案中关于科学本位研究的法定定义（Title IX, Sec. 9101(37)）
 > ![](https://img.mylikemie.icu/sources/Eisenhart_Towne_2003_ER/figures/Eisenhart_Towne_2003_ER_Fig3_NCLB_Definition_SBR.jpg)
 
-> [!citation-card] 关键条文：科学本位研究法定定义
+> [!citation-card] 科学本位研究法定定义
 > “采用严格、系统和客观程序以获得有效知识的研究”，包括“使用实验或准实验设计进行评估”的研究，最好使用[[Random Assignment\|随机分配]]。(U.S. Congress, 2001, cited in [[Argument_Slavin_2002_ER\|Slavin, 2002, p. 16]]; [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, p. 34]])
 >
 > *"The term 'scientifically based research' means research that involves the application of rigorous, systematic, and objective procedures to obtain reliable and valid knowledge relevant to education activities and programs... includes experimental or quasi-experimental designs... with a preference for random-assignment experiments."*

@@ -11,9 +11,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 18
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 32
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
 period: "2002–2015"
 issuing_organization: "美国联邦教育部（U.S. Department of Education & U.S. Congress）"
@@ -28,12 +28,24 @@ related_concepts:
   - "[[Test-Based Accountability]]"
   - "[[Performance Indicators]]"
   - "[[College and Career Readiness]]"
+  - "[[Student Mobility]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Hypothesis]]"
+  - "[[Evaluation Research]]"
+  - "[[Variable]]"
+  - "[[Falsification]]"
+  - "[[Discourse]]"
   - "[[Sampling Error]]"
+  - "[[Scapegoat Mechanism]]"
   - "[[Document]]"
   - "[[Policy Entrepreneur]]"
   - "[[Policy Window]]"
-related_theories: []
-related_methods: []
+related_theories:
+  - "[[Spatial Governmentality]]"
+related_methods:
+  - "[[Coding in Qualitative Research]]"
+  - "[[Multiple Regression]]"
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons:
   - "[[Yong Zhao]]"
@@ -49,10 +61,12 @@ related_arguments:
   - "[[Argument_Slavin_2019_EP]]"
   - "[[Argument_McDonnell_2013_AJE]]"
   - "[[Argument_Zhao_2017_JEC]]"
+  - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
+  - "[[Argument_Hattie_2005_ACER]]"
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-10-10
 ---
 
 # Adequate Yearly Progress
@@ -119,6 +133,7 @@ updated: 2026-09-26
 > - **各州及格线的自利性调降** 由于 [[No Child Left Behind Act 2001|NCLB]] 允许各州自行决定何为“熟练”，各州面临巨大的政治恐慌：标准定得越高，未达标被制裁的学校越多；州政府因此普遍采取下调难度与切分点的防御策略，造成全美 50 州标准严重割裂。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
 > - **“临界生”（Bubble Kids）应试战术** 学校管理层发现资源平均分配无法改善达标率，因而将最优质教学资源集中倾斜给成绩处于及格线边缘的学生（即努力一把即可过关的临界生），同时放弃离及格线过于遥远的深度后进生与高分拔尖生。
 > - **挤压弱势群体的排异策略** [[Yong Zhao|赵勇]]（[[Argument_Zhao_2017_JEC|Zhao, 2017]]）指出，部分学区为确保亚群达标率，系统性地将成绩低下的特殊需求学生推向免考通道、促使其退学转校或施加严苛惩戒，引发坎贝尔定律（Campbell's Law）视角下的严重道德危机。[[Argument_Zhao_2017_JEC|(Zhao, 2017, pp. 13–15)]]
+> - **[[Student Mobility|学生流动]]的病态化[[Coding in Qualitative Research|编码]]与未达标免责推诿** 在严苛的 AYP 达标考核高压下，学校管理者将学年中途转入或转出的流动学生（[[Student Mobility|学生流动性]]）在学校报告卡中标记为破坏教学秩序的“漂泊”（Transiency）。迈克尔·奥芬伯格（Michael Offenberg, 2004）针对费城公立学校的实证研究确证，学校管理层普遍将学生高流动率作为未能达成 AYP 的核心免责辩解借口（Mitigating Factor），进而诱发学校对频繁转校的贫困学生与流动学童产生制度性防御与冷漠排斥。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
 
 ---
 
@@ -127,7 +142,19 @@ updated: 2026-09-26
 > [!finding-cards] 历史影响与制度评价
 > - **揭开弱势亚群教育差距的制度面纱** AYP 最具历史进步意义的贡献在于破除了“以全校平均分掩盖少数群体失败”的伪善机制，强制学校正视非裔、西裔、低收入家庭及残障学生的学习困境，确立了教育公平的数据基准。
 > - **诱发“竞相向下沉沦”并反向催化国家标准** 各州自设标准的虚假高通过率与国家统一的 [[National Assessment of Educational Progress|NAEP]] 真实测试拉开巨大鸿沟，彻底暴露了分权标准体制的破产，成为推动[[Common Core State Standards|共同核心州立标准]]（CCSS）运动的最重要政策火种。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–11)]]
+> - **空间排斥效应：将结构性不平等归咎于流动家庭与次生排异** 高利害 AYP 问责强化了学校对固定空间定居的[[Disciplina and Doctrina|规训]][[Hypothesis|假设]]，使流动性本身被赤字化[[Coding in Qualitative Research|编码]]。尽管实证表明 60% 的转学源于家庭搬迁等经济住房约束（Rumberger, 2003），且低收入家庭频繁转校往往是主动逃离暴力和劣质学校的自救策略（Kerbow et al., 2003），但 AYP 的绝对达标红线诱发学校将流动学生视作拉低达标率的制度包袱，加剧了对弱势流动学童的隐性劝退与空间排斥。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–363)]]
 > - **课程生态的毁灭性收缩** 面对阅读与数学统考的生存压力，学校普遍陷入“为考而教”（Teaching to the test），科学、社会研究、艺术、音乐及体育等非统考学科课时被大幅缩减甚至取缔，导致中小学育人功能的严重单向窄化。[[Argument_Zhao_2017_JEC|(Zhao, 2017, p. 15)]]
+
+> [!effect-table]- 政策评估与实证数据
+> <span class="fact-policy-eval-table-marker" aria-hidden="true"></span>
+>
+> | [[Evaluation Research\|评估研究]] / 实证考证 | 样本规模与情境 | 研究设计与评估方法 | 核心评估[[Variable\|变量]] / 统计指标 | 主要统计结果与发现 | 证据等级与解释边界 |
+> |---|---|---|---|---|---|
+> | NCES (2007)，引自 [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013, pp. 8–9)]] | 全美各州 2005 年统考与 NAEP 对照数据 | 宏观政策映射与心理测量等值化分析 | 各州自定熟练线在 NAEP 尺度上的达标率断层 | 多州公布的高达 **80%–90%** 的 AYP 达标率在 NAEP 真实标准下仅对应 **25%–35%** 熟练度 | 实证证实 AYP 刚性问责诱发各州普遍下调标准（竞相向下沉沦） |
+> | Linn (2003)，引自 [[Argument_Hattie_2005_ACER\|Hattie (2005, p. 12)]] | 全美 NAEP 统考历史增长率模型 | 统计外推与增长率线性建模 | 达成 100% 熟练水平所需时间 | 按历史实际速率，四年级数学需 **150 年**、八年级数学需 **160 年** 方能实现 100% 达标 | 强力证实 AYP 设定的 2014 年全员达标指标违背统计规律与教育现实 |
+> | Offenberg (2004)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009, p. 362)]] | 费城学区城市公立中小学校 | [[Multiple Regression\|多元回归]]与问责指标归因分析 | 学校报告卡中转校率（Transiency）对学校 AYP 达标的影响 | 高流动率被学校管理者普遍用作未能达成 AYP 的核心辩护借口；流动性显著负向预测统考达标率 | 揭示了问责制将人口结构性流动转化为学校推卸责任与病态化学生的治理异化 |
+> | Rumberger (2003); Kerbow et al. (2003)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009, p. 363)]] | 加州及芝加哥公立学校弱势学童 | 纵向追踪与家庭流动动因调查 | 居住搬迁在学生转学中的占比；低收入家庭转校的避险动机 | **60%** 的转学由居住搬迁直接诱发；贫困家庭高频转校往往属于主动逃避校园暴力与劣质教学的策略性避险 | [[Falsification\|证伪]]了政策假定中将[[Student Mobility\|学生流动]]等同于“家庭失范”与“学业冷漠”的赤字[[Discourse\|话语]] |
+> | Nichols & Berliner (2007)，引自 [[Argument_Zhao_2017_JEC\|Zhao (2017)]] | 全美多州公立中小学师生与管理者 | 全国性[[Questionnaire\|问卷调查]]与高风险问责行为分析 | 考场作弊、免考排斥与科目课时变化 | 约 **10%** 教师与管理者存在修改答案等作弊行为；非统考科目（音体美社会）课时被系统性削减 | 实证确证了坎贝尔定律下 AYP 刚性指标对一线教学行为与学校生态的严重扭曲 |
 
 ---
 
@@ -140,6 +167,12 @@ updated: 2026-09-26
 > >
 > > - **批评派学者（Linn, 2003; Kane & Staiger, 2002）** 指出 AYP 忽视了基线水平与年度[[Sampling Error|抽样误差]]（Sampling Error），亚群分类越多的大型多元化学校被判失败的统计概率呈指数级上升，实质上惩罚了生源最多元包容的优秀公立学校。
 > > - **联邦政策辩护者（ED, 2002）** 主张唯有设定不妥协的绝对零缺陷目标，才能打破公立教育系统对弱势学生的低期望软约束。
+>
+> > [!axis] 空间流动性赤字假定与弱势学童的制度[[Scapegoat Mechanism|替罪羊机制]]
+> > AYP 预设学生固定定居为常态，将跨校流动定性为破坏达标的“失范”，引发空间正义与弱势家庭生存策略的深层冲突。
+> >
+> > - **实证与空间批判学者（Offenberg, 2004; [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）** 指出 AYP 绩效压力导致学校管理层将高流动率作为免责工具，把宏观经济与住房动荡造成的学生迁移归咎于家庭道德缺陷，诱发了针对弱势流动儿童的次生空间排斥。
+> > - **制度问责辩护者** 坚持统一考核指标不应因学生转学而妥协，唯有将流动学生纳入亚群考核才能防范学校忽视转校生学业。
 
 ---
 
@@ -154,6 +187,9 @@ updated: 2026-09-26
 > | [[Common Core State Standards]] | 政策事实 | 借助 AYP 诱发的各州及格线下沉危机而兴起并取而代之的国家学术标准。 |
 > | [[Every Student Succeeds Act]] | 替代法案 | 2015 年终结并正式废除 AYP 联邦统一公式的替代性法规。 |
 > | [[Test-Based Accountability]] | 核心概念 | AYP 属于全球基于考试的问责制中最极端刚性的典型制度案例。 |
+> | [[Student Mobility\|学生流动性]] | 核心概念 | 在 AYP 问责体系下被学校管理者[[Coding in Qualitative Research\|编码]]为“漂泊”失范与未达标的核心免责借口。 |
+> | [[Spatial Governmentality]] | 上位理论 | 阐释 AYP 如何通过空间圈禁与指标达标将流动学童排斥为边缘异类的治理技术。 |
 > | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证[[Document\|文献]] | 详细记录[[Policy Entrepreneur\|政策企业家]]如何动员 AYP 与 [[National Assessment of Educational Progress\|NAEP]] 差距数据撬开[[Policy Window\|政策之窗]]的经典研究。 |
+> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 批判论证 | 揭示 AYP 问责制如何将学生流动病态化为学校免责替罪羊与次生空间排斥的论证。 |
 
 ---

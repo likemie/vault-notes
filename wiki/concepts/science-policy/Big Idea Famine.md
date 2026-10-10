@@ -51,10 +51,10 @@ related_persons:
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
   - "[[David Graeber]]"
-  - "[[Robert J. Gordon]]"
   - "[[Peter Thiel]]"
   - "[[Talcott Parsons]]"
   - "[[Peter Turchin]]"
+  - "[[Robert J. Gordon]]"
   - "[[Alan Greenspan]]"
 related_facts:
   - "[[Dot-Com Bubble]]"
@@ -87,7 +87,7 @@ updated: 2026-10-08
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示资本市场短期避险偏好、反文化国家疏离感与择优精英地位焦虑共同对科技界宏大抱负的结构性侵蚀。
-> - **用途** 解释为什么信息通信与移动应用高度繁荣却伴随宏观生产率增速断崖（[[Robert J. Gordon|戈登]]命题），以及硅谷科技界为何在国防安全、公共卫生与深层物理基础设施领域出现长期供给缺位。
+> - **用途** 解释为什么信息通信与移动应用高度繁荣却伴随宏观生产率增速断崖（戈登命题），以及硅谷科技界为何在国防安全、公共卫生与深层物理基础设施领域出现长期供给缺位。
 > - **边界** 区别于否定日常微观消费工具的合理性；该概念批判的是将消除日常琐事不便异化为人类科技最高追求、进而对国家战略硬核工程构成严重资源挤出的病理失衡。
 
 > [!citation-card] 尼葛洛庞帝论创业孵化对硬核发明的琐碎化
@@ -258,7 +258,7 @@ updated: 2026-10-08
 > - **2010s — [[Lifestyle Technology|生活方式科技]]爆发与特权幻象代偿** 智能手机普及与移动互联网爆发，过剩的年轻工程师阶层将才智倾注于打车、订餐与短租等微观便利，构建随身仆役体系。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 107–108)]]
 > - **2011 — [[Peter Thiel|蒂尔]]提出阿波罗标尺与“140字符”批判** 彼得·蒂尔尖锐批评硅谷沉迷于消费小工具，呼吁回归阿波罗登月式的重大物理突破。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Thiel, 2011; Karp & Zamiska, 2025, p. 49)]]
 > - **2012 — [[David Graeber|格雷伯]]发表《飞行汽车的终结》** 格雷伯提出“[[Technological Pastiche|技术拼贴]]”概念，批判晚期资本主义将全社会科技野心锁死在数字通信与屏幕注意力竞争之中。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Graeber, 2012; Karp & Zamiska, 2025, p. 110)]]
-> - **2016 — [[Robert J. Gordon|戈登]]出版《美国增长的起伏》** 戈登通过百年经济史数据系统论证 1970 年后[[Total Factor Productivity|全要素生产率]]的系统性放缓与创新领域狭窄化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Gordon, 2016; Karp & Zamiska, 2025, pp. 48–49)]]
+> - **2016 — 戈登出版《美国增长的起伏》** 戈登通过百年经济史数据系统论证 1970 年后[[Total Factor Productivity|全要素生产率]]的系统性放缓与创新领域狭窄化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Gordon, 2016; Karp & Zamiska, 2025, pp. 48–49)]]
 > - **2018 — [[Nicholas Negroponte|尼葛洛庞帝]]正式命名“大构想饥荒”** 尼葛洛庞帝在《设计与科学学报》撰文，系统剖析硅谷风险投资生态对硬核科学发明的反向侵蚀与琐碎化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Negroponte, 2018; Karp & Zamiska, 2025, pp. 48–49)]]
 > - **2023 — [[Peter Turchin|图尔钦]]提出[[Elite Overproduction|精英生产过剩]]理论** 图尔钦在《末日时代》中揭示名校扩招制造过剩文凭阶层与政治动荡的微观机制，为生活方式科技的阶层动因提供社会学基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Turchin, 2023; Karp & Zamiska, 2025, pp. 107–108)]]
 > - **2025 — 卡普与扎米斯卡提出[[Technological Republic|技术共和国]]总成方案** 在《技术共和国》中倡导组建技术和平队，将[[Engineering Mindset|工程思维]]转化为重构公共治理与捍卫国家战略[[Hard Power|硬实力]]的根本制度财富。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 50–51)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 111)]]

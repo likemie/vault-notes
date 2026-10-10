@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -32,7 +32,6 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
-  - "[[Robert J. Gordon]]"
   - "[[Lee Felsenstein]]"
   - "[[Steve Jobs]]"
 related_facts:
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-10
 ---
 
 # Homebrew Computer Club
@@ -66,7 +65,7 @@ updated: 2026-10-08
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **1975 — 车库初聚与创设奠基** 1975 年 3 月 5 日，[[Robert J. Gordon|戈登]]·弗伦奇（Gordon French）与[[Lee Felsenstein|李·费尔森斯坦]]（[[Lee Felsenstein]]）等人在弗伦奇的车库举行首次聚会，32 名极客出席，开启了微机硬件图纸与自制软件的公开交换。
+> - **1975 — 车库初聚与创设奠基** 1975 年 3 月 5 日，戈登·弗伦奇（Gordon French）与[[Lee Felsenstein|李·费尔森斯坦]]（[[Lee Felsenstein]]）等人在弗伦奇的车库举行首次聚会，32 名极客出席，开启了微机硬件图纸与自制软件的公开交换。
 > - **1975–1977 — 极盛期与产业孵化** 规模迅速扩张至数百人，活动场地迁至 SLAC 礼堂；斯蒂芬·沃兹尼亚克在此向会员展示 Apple I 主板，[[Steve Jobs|史蒂夫·乔布斯]]（[[Steve Jobs]]）在此寻找商业合作伙伴，催生了包括苹果电脑、Processor Technology、Cromemco 等数十家早期微机企业。
 > - **1980s — 使命完成与自然解散** 随着个人微机走向成熟商业化量产与大型消费电子市场建立，极客自制硬件的需求减弱，俱乐部于 1986 年正式停止常规聚会。
 

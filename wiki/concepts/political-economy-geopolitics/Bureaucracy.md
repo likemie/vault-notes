@@ -9,7 +9,7 @@ aliases:
 summary: "指基于明确的职能分工、自顶向下的层级节制、非人格化的成文规则与专业化职业考核建立的理性化组织与治理形态；在古典社会学中被视作现代性理性化效率的基石，而在公共选择学派与当代实战工程治理论证（卡普与扎米斯卡，2025）中，科层制被批判为容易滋生自利性层级设卡、微观地位固化、会议工业复合体、制度性顺从偏好、公共采办定制垄断及避险自保机制，严重阻碍一线自适应创新与快速交付。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -47,7 +47,6 @@ related_persons:
   - "[[Hannah Arendt]]"
   - "[[John Glenn]]"
   - "[[Franklin D. Roosevelt]]"
-  - "[[Robert J. Gordon]]"
 related_facts:
   - "[[Eck Swarm Experiment]]"
   - "[[Federal Acquisition Streamlining Act of 1994]]"
@@ -61,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-10
 ---
 
 # Bureaucracy
@@ -202,7 +201,7 @@ updated: 2026-10-08
 > [!dev-timeline] 概念演变
 > - **1905 — 基普委员会调查与[[Red Tape|繁文缛节]]起源** 西奥多·[[Franklin D. Roosevelt|罗斯福总统]]设立基普委员会，发现政府各部门采购了 278 种笔和 28 种墨水，吉福德·平肖批评繁文缛节（red tape）严重侵蚀行政效能。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 148–149)]]
 > - **1920s — 韦伯理想型科层制确立** 韦伯在《经济与社会》中将科层制界定为人类历史上最理性的行政组织形态。
-> - **1960s — 公共选择学派的官僚寻租批判** [[Robert J. Gordon|戈登]]·图洛克等学者提出[[Tullock's Bureaucracy Theory|官僚制理论]]，揭示官僚追求预算最大化、信息垄断与规避风险的自利行为。
+> - **1960s — 公共选择学派的官僚寻租批判** 戈登·图洛克等学者提出[[Tullock's Bureaucracy Theory|官僚制理论]]，揭示官僚追求预算最大化、信息垄断与规避风险的自利行为。
 > - **1980–1990s — 天价配件争议与采购改革** 1980 年代五角大楼 435 美元普通锤子与 700 页军用饼干标准引发全美公愤；参议员[[John Glenn|约翰·格伦]]推动出台《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]》（[[Federal Acquisition Streamlining Act of 1994|FASA]]），确立[[Commercial Off-The-Shelf|商用现货]]优先原则以冲破采办科层避险防线。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 148–152)]]
 > - **2025 — [[Technological Republic|技术共和国]]工程治理对防卫型科层制的系统解构** 卡普与扎米斯卡在《技术共和国》中尖锐剖析科层制副总裁层级、资历地位固化、[[Meeting-Industrial Complex|会议工业复合体]]、唯命是从顺从偏好以及公共采办定制垄断，揭示礼貌合规与避险机制阻断一线实效的机理，确立以[[Swarm Intelligence|群智能]]、去中介化、[[Constructive Disobedience|建设性不服从]]与[[Commercial Off-The-Shelf|商用现货]]准入为核心的[[Engineering Mindset|工程思维]]作为重构公共治理的替代[[Paradigm|范式]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 121)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 124–128)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132–136)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 141–154)]]
 
