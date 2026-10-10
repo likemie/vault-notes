@@ -7,9 +7,9 @@ summary: "法国心理学家、教育学家与智力测验先驱，索邦大学�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 0
+person_related_count: 5
 person_related_level: 0
-person_related_stars: "☆"
+person_related_stars: ""
 person_related_color: "#e5e7eb"
 born: 1857
 died: 1911
@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-10
 ---
 
 # Alfred Binet

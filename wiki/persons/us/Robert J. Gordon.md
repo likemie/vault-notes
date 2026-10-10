@@ -9,7 +9,7 @@ summary: "美国著名宏观经济学家、西北大学讲席教授，以《美�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-10
 ---
 
 # Robert J. Gordon

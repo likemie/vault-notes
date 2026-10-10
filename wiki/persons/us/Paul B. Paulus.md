@@ -8,7 +8,7 @@ summary: "美国得克萨斯大学阿灵顿分校杰出心理学教授，当代�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-09-22
+updated: 2026-10-10
 ---
 
 # Paul B. Paulus

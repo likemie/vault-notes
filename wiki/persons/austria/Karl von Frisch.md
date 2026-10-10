@@ -8,10 +8,10 @@ summary: "奥地利动物行为学家与感官生理学家，1973年诺贝尔生
 type: person
 nationality: austria
 person_region: "austria"
-person_related_count: 0
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: 1886
 died: 1982
 lifespan: "1886–1982"
@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-10
 ---
 
 # Karl von Frisch

@@ -8,7 +8,7 @@ summary: "新加坡建国总理（1959–1990年在任）。以千年期战略�
 type: person
 nationality: singapore
 person_region: "singapore"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -56,7 +56,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 
 # Lee Kuan Yew

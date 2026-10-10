@@ -8,7 +8,7 @@ summary: "法国哲学家、人类学家与文化理论家，法兰西学术院�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-10
 ---
 
 # René Girard

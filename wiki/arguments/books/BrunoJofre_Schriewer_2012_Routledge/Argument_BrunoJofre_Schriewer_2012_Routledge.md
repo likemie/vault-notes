@@ -7,7 +7,7 @@ title: "Argument_BrunoJofre_Schriewer_2012_Routledge"
 argument_key: "Argument_BrunoJofre_Schriewer_2012_Routledge"
 argument_display_title: "The global reception of John Dewey's thought: Multiple refractions through time and space"
 argument_kind: "edited-volume"
-argument_related_count: 0
+argument_related_count: 5
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#e5e7eb"

@@ -8,7 +8,7 @@ aliases:
 summary: "指由奥地利生物学家卡尔·冯·弗里施与德国学者马丁·林道尔破译的蜜蜂复杂符号交流与群体决策机制；侦察蜂通过在蜂群面前摇摆身体的步长与太阳相对夹角，精确编码目标地理坐标与距离，并以此作为公开提案展开群体投票，构成了群智能自组织协调的生物学通信原型。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 0
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-10
 ---
 
 # Dance Language of Bees

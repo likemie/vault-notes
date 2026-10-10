@@ -10,7 +10,7 @@ aliases:
 summary: "大学学者与相关行动者识别外部机遇、调配组织资源并赋予新实践以合法性，进而创建新型科研实体、跨界合作网络与制度规则的动态过程；涵盖商业化衍生创业（如生物技术初创）与重构大学组织边界的学术制度创业（如微电子产学研究中心与联合体网络）。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-07
+updated: 2026-10-10
 ---
 
 # Academic Entrepreneurship

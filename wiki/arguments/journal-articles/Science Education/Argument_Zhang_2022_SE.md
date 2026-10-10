@@ -71,7 +71,7 @@ title: "Argument_Zhang_2022_SE"
 argument_key: "Argument_Zhang_2022_SE"
 argument_display_title: "Epistemic agency for costructuring expansive knowledge‐building practices"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"

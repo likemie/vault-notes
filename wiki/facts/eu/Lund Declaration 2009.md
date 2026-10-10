@@ -5,7 +5,7 @@ subtype: document
 region: eu
 fact_region: "eu"
 fact_kind: "document"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#e5e7eb"
@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-10
 title: Lund Declaration 2009
 aliases:
   - 隆德宣言

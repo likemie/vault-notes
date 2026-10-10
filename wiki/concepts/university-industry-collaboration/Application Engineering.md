@@ -8,7 +8,7 @@ aliases:
 summary: "高科技元器件厂商与下游整机用户之间的知识转移与协同设计接口机制，通过招募具备系统架构经验的工程师、免费输出开源应用说明书、研制示范系统原型并联合定制专用器件，在技术革命早期实质性扮演客户的外部研发与工程教育机构，消除通用技术扩散的知识与应用壁垒。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-10
 ---
 
 # Application Engineering

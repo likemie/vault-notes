@@ -10,7 +10,7 @@ summary: "奥地利著名动物行为学家、鸟类学家，经典习性学（E
 type: person
 nationality: "austria"
 person_region: "austria"
-person_related_count: 9
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-10
 ---
 
 # Konrad Lorenz

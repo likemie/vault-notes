@@ -9,7 +9,7 @@ aliases:
 summary: "知识动员中划分证据供给侧主动单向推送与实践需求端主动吸收牵引的双机制分析模型；揭示传统线性供给之局限并倡导向学校吸收能力与使能条件重构。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -64,7 +64,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 
 # Push and Pull Models of Knowledge Mobilisation

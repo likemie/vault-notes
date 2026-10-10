@@ -8,7 +8,7 @@ summary: "匹兹堡大学比较教育学教授，1976年比较与国际教育学
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 24
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-10
 ---
 
 # Rolland Paulston

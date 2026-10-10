@@ -7,7 +7,7 @@ aliases:
 summary: "塞缪尔·亨廷顿提出的地缘政治理论，主张冷战后人类冲突的核心根源不再是意识形态或经济，而是文化与文明的断层线；将世界划分为七至八个主要文明板块，并预言伊斯兰与儒家文明对西方霸权的挑战；卡普与扎米斯卡进一步指出，学术界对该简化模型的全盘抵制产生了严重的副作用，导致关于文化在国际关系、经济产出与国家能力中实质作用的严肃探讨在高校中沦为学术禁区。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-10
 ---
 
 # Clash of Civilizations

@@ -7,7 +7,7 @@ aliases:
 summary: "兼具军事国防与民用商业应用潜力的前沿技术范式；在产业生命周期早期表现为国防研发与采购对民用创新的单向衍生溢出，随着民用市场规模反超与技术规范分化，逐渐演进为民用前沿向国防系统回哺的逆向溢出。"
 type: concept
 domain: "science-policy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-10
 ---
 
 # Dual-Use Technology

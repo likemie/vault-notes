@@ -7,7 +7,7 @@ title: "Argument_Torres_2022_BarriersMechanisms"
 argument_key: "Argument_Torres_2022_BarriersMechanisms"
 argument_display_title: "Facilitating research use: Scary barriers (and super mechanisms)"
 argument_kind: "book-chapter"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"

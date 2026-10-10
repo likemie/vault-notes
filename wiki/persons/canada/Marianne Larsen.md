@@ -7,7 +7,7 @@ summary: "加拿大比较教育与教育史学家，西安大略大学荣休教�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-07
+updated: 2026-10-10
 ---
 
 # Marianne Larsen

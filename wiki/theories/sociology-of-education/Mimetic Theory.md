@@ -10,7 +10,7 @@ aliases:
 summary: "由法国哲学家勒内·吉拉尔创立的文化人类学理论；提出人类欲望具有非自主的三角模仿结构（主体、榜样/中介者与客体），揭示了同侪群体间由模仿引发的从众竞争、同质化恶性内耗与替罪羊机制，对批判商业投机跟风、揭示模仿对颠覆性创新的致命毒性具有重要解释力。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 13
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-10
 ---
 
 # Mimetic Theory

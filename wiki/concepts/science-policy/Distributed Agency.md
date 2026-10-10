@@ -2,7 +2,7 @@
 summary: "源自科学技术论与演化制度主义的核心概念，指重大技术创新与社会系统转型的能动性并非集中于单一英雄式企业家或全能中央政府，而是分散分布于多元异质的行动者网络之中；在第三代使命导向政策中构成了多元主体协同共创与分布式探索的理论基石。"
 type: concept
 domain: "science-policy"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-10
 title: Distributed Agency
 aliases:
   - 分布式主体
