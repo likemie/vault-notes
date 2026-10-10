@@ -7,7 +7,7 @@ title: "Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change"
 argument_key: "Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change"
 argument_display_title: "A theory of gradual institutional change"
 argument_kind: "book-chapter"
-argument_related_count: 36
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -37,21 +37,21 @@ related_concepts:
   - "[[Institutional Layering]]"
   - "[[Institutional Drift]]"
   - "[[Institutional Conversion]]"
-  - "[[Opportunists]]"
   - "[[Insurrectionaries]]"
   - "[[Subversives]]"
   - "[[Symbionts]]"
-  - "[[Enforcement Discretion]]"
-  - "[[Baptist-Bootlegger Coalition]]"
-  - "[[Rule Ambiguity]]"
+  - "[[Opportunists]]"
   - "[[Strategic Compliance]]"
-  - "[[Veto Possibilities]]"
+  - "[[Rule Ambiguity]]"
+  - "[[Enforcement Discretion]]"
   - "[[Hypothesis]]"
+  - "[[Veto Possibilities]]"
   - "[[Document]]"
   - "[[Variable]]"
   - "[[Creativity]]"
   - "[[Champ]]"
   - "[[Interaction Effect]]"
+  - "[[Baptist-Bootlegger Coalition]]"
   - "[[Emergence]]"
   - "[[Avatar]]"
 related_theories:
@@ -65,11 +65,15 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Typological Analysis]]"
 related_persons:
+  - "[[George Tsebelis]]"
+  - "[[Peter A. Hall]]"
+  - "[[Theda Skocpol]]"
+  - "[[Paul Pierson]]"
+  - "[[Jacob S. Hacker]]"
+  - "[[Wolfgang Streeck]]"
   - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"
   - "[[Franklin D. Roosevelt]]"
-  - "[[George Tsebelis]]"
-  - "[[Peter A. Hall]]"
 sources:
   - "[[books/Mahoney_Thelen_2009_Cambridge/Ch01_Mahoney_Thelen_2009|Ch01_Mahoney_Thelen_2009]]"
 status: draft
@@ -123,7 +127,7 @@ updated: 2026-10-11
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **理论[[Document\|文献]]样本** | 涵盖[[Rational Action Theory\|理性选择理论]]与否决者文献（North, Ostrom, [[George Tsebelis|Tsebelis]]）、[[Historical Institutionalism|历史制度主义]]文献（[[Peter A. Hall|Hall]], Skocpol, Pierson, Hacker, Streeck, Thelen）与组织社会学研究（Selznick, Stinchcombe）。 |
+> | **理论[[Document\|文献]]样本** | 涵盖[[Rational Action Theory\|理性选择理论]]与否决者文献（North, Ostrom, [[George Tsebelis|Tsebelis]]）、[[Historical Institutionalism|历史制度主义]]文献（[[Peter A. Hall|Hall]], [[Theda Skocpol|Skocpol]], [[Paul Pierson|Pierson]], [[Jacob S. Hacker|Hacker]], [[Wolfgang Streeck|Streeck]], Thelen）与组织社会学研究（Selznick, Stinchcombe）。 |
 > | **经验案例覆盖** | 涉及英国议会改革、美国国会议事与福利立法、巴西地方医疗、肯尼亚土地产权、印度尼西亚威权政体以及中国和古巴的市场双轨发展。 |
 > | **材料功能** | 案例不用于大样本统计检验，而是作为因果机制的经验具象检验，展示理论模型的现实解释力。 |
 
@@ -160,7 +164,7 @@ updated: 2026-10-11
 > [!critique] 传统制度主义三大流派的静态稳态偏误
 > - **社会学制度主义的认知[[Determinism|决定论]]** 将制度界定为不假思索遵循的文化认知模板，假定行动者完全无意识地照章行事，导致既无法解释行动者在缺乏外部冲击时的内生异议，也无法解释日常遵从中的策略性偏离。（pp. 4–5）
 > - **理性选择制度主义的均衡自足论** 将制度预设为博弈均衡与可信承诺结构，假定违规惩罚与遵从激励已经内生于行动者的收益预期，从而将规则遵从预设为静态既定事实，将变迁退化为外生偶发事态。（pp. 5–6）
-> - **早期历史制度主义的断裂[[Path Dependence|路径依赖]]** 过度依赖报酬递增与沉没成本机制，倾向于认为制度一旦跨过关键节点就会陷入刚性自我强化锁定，最终将历史机械割裂为漫长无变化的惰性期与剧烈的外生危机断裂。（pp. 6–7）
+> - **早期历史制度主义的断裂[[Path Dependence|路径依赖]]** 过度依赖报酬递增与沉没成本机制（如[[Paul Pierson|保罗·皮尔逊（Paul Pierson）]]关于时间性与自强化的论述），倾向于认为制度一旦跨过关键节点就会陷入刚性自我强化锁定，最终将历史机械割裂为漫长无变化的惰性期与剧烈的外生危机断裂。（pp. 6–7）
 
 三大流派因而在解释逻辑上共同陷入了平时绝对静止、危机剧烈突变的间断均衡[[Hypothesis|假设]]，无法透视常规历史时期正在悄然发生的深层蜕变。
 
@@ -186,7 +190,7 @@ updated: 2026-10-11
 为了克服外生解释[[Paradigm|范式]]的缺陷，[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）重构了制度的本体论基石：
 
 > [!def] 制度的权力分配本质（Distributional Instruments）
-> 制度本质上是**具有资源分配后果的权力工具**，绝非技术中立的协调机制或自发静态均衡。任何规约行动的规则都会对社会资源与政治权力产生不对称分配；设立一套规则，实质上就是向特定优势群体输送资源并剥夺另一群体的权益。因此，制度在建立伊始就内生蕴含着获益者（制度赢家）与受损者（制度输家）之间的持续利益张力。（pp. 7–8）
+> 制度本质上是正如[[Theda Skocpol|西达·斯考切波（Theda Skocpol, 1992）]]与[[Peter A. Hall|彼得·A·霍尔（Peter A. Hall, 1986）]]所强调的**具有资源分配后果的权力工具**，绝非技术中立的协调机制或自发静态均衡。任何规约行动的规则都会对社会资源与政治权力产生不对称分配；设立一套规则，实质上就是向特定优势群体输送资源并剥夺另一群体的权益。因此，制度在建立伊始就内生蕴含着获益者（制度赢家）与受损者（制度输家）之间的持续利益张力。（pp. 7–8）
 
 > [!feature] 权力分配视角下的制度动态属性
 > - **非自动维系性** 制度延续既非自然惯性，也不是技术稳态；维持规则运转必须依赖既得利益者在日常政治中持续动员支持、投入资源并压制反对力量。
@@ -255,12 +259,12 @@ updated: 2026-10-11
 
 #### 1. 渐进变迁围绕规则存废、补充条款、环境脱节与功能重定向划分为四类形态
 
-根据制度发生转变的核心场域，制度渐进变迁可划分为四类互斥形态。每一形态在规则存废、执行偏离度与新规引入方式上呈现出独特的动力机制：
+在继承并发展[[Wolfgang Streeck|沃尔夫冈·施特雷克（Wolfgang Streeck）]]与特伦（Streeck & Thelen, 2005）制度渐变类型学的基础上，根据制度发生转变的核心场域，制度渐进变迁聚焦为四类互斥形态。每一形态在规则存废、执行偏离度与新规引入方式上呈现出独特的动力机制：
 
 > [!quad-grid] 制度渐进变迁的四类核心形态
 > - **[[Institutional Displacement\|制度置换]]（Displacement）** 废除或边缘化旧规则，引入全新竞争性规则。在渐进置换中，新制度并非通过突发革命强行取代旧制，而是在旧制边缘缓慢萌芽壮大，逐步侵蚀并最终淘汰旧规则。（pp. 15–16）
 > - **[[Institutional Layering\|制度层叠]]（Layering）** 保留旧制度核心条文，在其顶端或边缘增添补充性新规则或修正条款。新规则不直接废旧，但长期积累会重塑旧制度的整体功能偏向。（pp. 16–17）
-> - **[[Institutional Drift\|制度漂移]]（Drift）** 规则条文保持不变，但面对外部环境深刻变迁（如通胀、人口流动），行动者策略性忽视维护，导致制度实际规制与保护效能发生实质性衰竭。（p. 17）
+> - **[[Institutional Drift\|制度漂移]]（Drift）** 吸收[[Jacob S. Hacker|雅各布·S·哈克（Jacob S. Hacker, 2004, 2005）]]对制度漂移的奠基性界定，指涉规则条文保持不变，但面对外部环境深刻变迁（如通胀、人口流动与风险结构转型），行动者策略性忽视维护与更新，导致制度实际规制与保护效能发生实质性衰竭。（p. 17）
 > - **[[Institutional Conversion\|制度转换]]（Conversion）** 规则条文一字未改，行动者敏锐利用规则固有的裁量空间与解释模糊性，将既有制度工具重新定向服务于全新的政治目标。（pp. 17–18）
 
 > [!contrast-table] 四类渐进变迁形态的规则特征对比（Table 1.1）
@@ -346,7 +350,7 @@ updated: 2026-10-11
 > |---|---|---|---|
 > | **[[Insurrectionaries\|起义者]]** | 否 | 是 | 必须在制度反对派中广泛联合；胜败关键在于能否向中立的机会主义者证明变革不可逆，从而触发倒戈级联。（pp. 30–31） |
 > | **[[Symbionts\|共生者]]** | 是 | 否 | 充当现状保卫者的天然盟友；但因其实质利益与主流保卫者冲突，常结成奇特的利益同盟（如[[Baptist-Bootlegger Coalition\|浸礼会与私酒贩同盟]]）。（p. 31） |
-> | **[[Subversives\|颠覆者]]** | 否（公开层面） | 否（公开层面） | 隐蔽政治意图，如地下室白蚁般潜伏运作；极力避免过早与激进起义者公开串联以防遭清洗。 |
+> | **[[Subversives\|颠覆者]]** | 否（公开层面） | 否（公开层面） | 隐蔽政治意图，采取皮尔逊（Pierson）所形容的“地下室白蚁”（Termites in the basement）策略潜伏运作；极力避免过早与激进起义者公开串联以防遭清洗。 |
 > | **[[Opportunists\|机会主义者]]** | 是／否（相机抉择） | 是／否（相机抉择） | 构成政治博弈的关键摇摆票；当起义者打破势均力敌僵局时，机会主义者的集体倒戈将形成不可逆的变革浪潮。（p. 30） |
 
 微观行动者的联盟与博弈策略在多国政治实践中得到了生动的经验印证：

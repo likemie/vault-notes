@@ -7,7 +7,7 @@ aliases:
 summary: "当代政治学与社会学核心制度分析范式；主张制度是承载权力分配后果的持久组织安排，强调历史时间性、路径依赖与关键节点；早期侧重外生危机冲击下的间断均衡，后经施特雷克、马奥尼与希伦发展转向常规时期的内生渐进演变分析。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 23
+theory_related_count: 19
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -17,35 +17,31 @@ tags:
   - theme/comparative-politics
   - theme/political-economy
 related_concepts:
-  - "[[Paradigm]]"
-  - "[[Determinism]]"
-  - "[[Institutional Displacement]]"
-  - "[[Institutional Layering]]"
-  - "[[Institutional Drift]]"
-  - "[[Institutional Conversion]]"
   - "[[Rule Ambiguity]]"
   - "[[Strategic Compliance]]"
   - "[[Veto Possibilities]]"
   - "[[Enforcement Discretion]]"
+  - "[[Institutional Displacement]]"
+  - "[[Institutional Layering]]"
+  - "[[Institutional Drift]]"
+  - "[[Institutional Conversion]]"
 related_theories:
-  - "[[Theory of Gradual Institutional Change]]"
   - "[[Path Dependence]]"
-  - "[[Rational Action Theory]]"
-  - "[[Punctuated Equilibrium Theory]]"
-  - "[[Disjointed Pluralism]]"
-related_methods:
-  - "[[Typological Analysis]]"
-  - "[[Qualitative Research]]"
-  - "[[Historical-Comparative Method]]"
+  - "[[Theory of Gradual Institutional Change]]"
+related_methods: []
 related_instruments: []
 related_persons:
-  - "[[James Mahoney]]"
-  - "[[Kathleen Thelen]]"
+  - "[[Theda Skocpol]]"
   - "[[Peter A. Hall]]"
-  - "[[George Tsebelis]]"
+  - "[[Kathleen Thelen]]"
+  - "[[Paul Pierson]]"
+  - "[[James Mahoney]]"
+  - "[[Wolfgang Streeck]]"
+  - "[[Jacob S. Hacker]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
+  - "[[Argument_VanDerHeijden_2011_Politics]]"
 confidence: high
 status: draft
 created: 2026-10-11
@@ -72,7 +68,7 @@ updated: 2026-10-11
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 20 世纪 80 年代由西达·斯考切波（Theda Skocpol）、[[Peter A. Hall|彼得·A·霍尔（Peter A. Hall）]]（1986《治理经济》）等学者在“找回国家”运动中奠基；[[Peter A. Hall|霍尔]]与罗斯玛丽·泰勒（Rosemary C. R. Taylor）于 1996 年发表《政治学与新制度主义三大学派》（*Political Science and the Three New Institutionalisms*），正式在学术界确立其作为独立理论流派的核心坐标。
+> - **提出者与原始文本** 20 世纪 80 年代由[[Theda Skocpol|西达·斯考切波（Theda Skocpol）]]、[[Peter A. Hall|彼得·A·霍尔（Peter A. Hall）]]（1986《治理经济》）等学者在“找回国家”运动中奠基；[[Peter A. Hall|霍尔]]与罗斯玛丽·泰勒（Rosemary C. R. Taylor）于 1996 年发表《政治学与新制度主义三大学派》（*Political Science and the Three New Institutionalisms*），正式在学术界确立其作为独立理论流派的核心坐标。
 > - **原初问题** 为何具备相似经济发展水平的工业化民主国家（如英、法、德、美），在面对相似的外部危机（如大萧条、两次世界大战、石油危机）时，会选择截然不同的经济干预与福利政策轨道。
 > - **理论资源与材料** 吸收马克斯·韦伯的国家官僚理论、卡尔·波兰尼的嵌入式经济思想以及欧洲比较历史社会学传统；经验材料以欧美发达工业化国家长时段国家建设、福利资本主义与宏观经济治理档案为主。
 > - **形成路径** 将中观制度（国家机关、法律规约、政党体制、劳资工会）设定为连接宏观历史结构与微观政治行动的因果中介，确立“制度结构塑造权力分配与行动者偏好”的核心因果假定。
@@ -81,8 +77,8 @@ updated: 2026-10-11
 
 > [!dev-timeline] 理论演进与学术扩展
 > - **1990年代初 — 学派自觉与体系确立** 斯温·施泰因莫（Sven Steinmo）、[[Kathleen Thelen|凯瑟琳·希伦（Kathleen Thelen）]]等出版《建构政治》（*Structuring Politics*, 1992），霍尔与泰勒（1996）系统梳理三大制度主义分野，奠定历史制度主义的学科规范。
-> - **2000年代初 — 路径依赖的形式化因果建模** 保罗·皮尔逊（Paul Pierson, 2000, 2004）与[[James Mahoney|詹姆斯·马奥尼（James Mahoney）]]（2000）系统引入经济学报酬递增概念，建构[[Path Dependence|路径依赖]]、关键节点与反应序列的形式化因果分析模型。
-> - **2005–2009年 — 内生渐进演变范式转向** 沃尔夫冈·施特雷克与希伦（Streeck & Thelen, 2005）提出置换、层叠、漂移与转换四分形态学；马奥尼与希伦（Mahoney & Thelen, 2009）出版《解释制度变迁》，构建“否决可能性 × 执行裁量权”双维矩阵与四类行动者微观模型，彻底打破外生危机决定论，确立[[Theory of Gradual Institutional Change|渐进制度变迁理论]]。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
+> - **2000年代初 — 路径依赖的形式化因果建模** [[Paul Pierson|保罗·皮尔逊（Paul Pierson, 2000, 2004）]]与[[James Mahoney|詹姆斯·马奥尼（James Mahoney）]]（2000）系统引入经济学报酬递增概念，建构[[Path Dependence|路径依赖]]、关键节点与反应序列的形式化因果分析模型。
+> - **2005–2009年 — 内生渐进演变范式转向** [[Wolfgang Streeck|沃尔夫冈·施特雷克（Wolfgang Streeck）]]与希伦（Streeck & Thelen, 2005）提出置换、层叠、漂移与转换四分形态学；[[Jacob S. Hacker|雅各布·S·哈克（Jacob S. Hacker）]]提出制度漂移分析；马奥尼与希伦（Mahoney & Thelen, 2009）出版《解释制度变迁》，构建“否决可能性 × 执行裁量权”双维矩阵与四类行动者微观模型，彻底打破外生危机决定论，确立[[Theory of Gradual Institutional Change|渐进制度变迁理论]]。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
 
 ---
 

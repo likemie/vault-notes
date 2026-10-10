@@ -32,15 +32,14 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Determinism]]"
   - "[[Market Failure]]"
-  - "[[Institutional Conversion]]"
   - "[[National Innovation System]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[University-Industry Collaboration]]"
   - "[[Document]]"
 related_theories:
-  - "[[Historical Institutionalism]]"
   - "[[Technological Trajectories]]"
   - "[[Evolutionary Economics]]"
+  - "[[Historical Institutionalism]]"
   - "[[Techno-economic Paradigm]]"
   - "[[Human Capital Theory]]"
 related_methods:
@@ -48,14 +47,15 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Paul Pierson]]"
   - "[[Kathleen Thelen]]"
-  - "[[James Mahoney]]"
 related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[DARPA]]"
 related_arguments:
   - "[[Argument_Zhuo_2026_ICE]]"
   - "[[Argument_VanDerHeijden_2011_Politics]]"
+  - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
 confidence: medium
 status: draft
 created: 2026-10-09
@@ -91,7 +91,7 @@ updated: 2026-10-11
 
 > [!dev-timeline] 理论版本与贡献
 > - **1985–1989 — 经典技术路径依赖模型** Paul A. David 与 W. Brian Arthur 确立了技术演化中的正反馈报酬递增机制与锁定效应数学模型。
-> - **2000 — 政治学与制度主义扩展** 保罗·皮尔逊（Paul Pierson, 2000）将路径依赖模型系统迁移至政治学与公共政策分析，指出政治制度具有比经济市场更高的转换成本与更强的权力自我强化机制。
+> - **2000 — 政治学与制度主义扩展** [[Paul Pierson|保罗·皮尔逊（Paul Pierson, 2000）]]将路径依赖模型系统迁移至政治学与公共政策分析，指出政治制度具有比经济市场更高的转换成本与更强的权力自我强化机制。
 > - **2014–2026 — 开源生态与“教育即标准”机制拓展** Krste Asanović 与 David Patterson（2014）推动 RISC-V 架构发展，卓泽林进一步揭示大学如何通过课程教学体系、教材编写与跨层级工程人才培养，将开源指令集架构直接内生化为新一代软硬件开发者的认知事实标准，在全球范围内形成反向锁定与技术生态主导权。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 20)]]
 
 ---

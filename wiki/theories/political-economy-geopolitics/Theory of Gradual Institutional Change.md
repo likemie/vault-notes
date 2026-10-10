@@ -8,7 +8,7 @@ aliases:
 summary: "历史制度主义核心理论，由马奥尼与希伦系统建构；主张制度本质上是具有分配性权力后果的安排，将遵从与执行视为核心解释变量；通过政治环境否决可能性与制度解释裁量权两个维度，系统解释置换、层叠、漂移与转换四类内生渐进演进模式及四类微观变革行动者策略。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 25
+theory_related_count: 24
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -18,35 +18,34 @@ tags:
   - theme/political-economy
   - theme/comparative-politics
 related_concepts:
+  - "[[Institutional Displacement]]"
+  - "[[Institutional Layering]]"
   - "[[Institutional Drift]]"
-  - "[[Variable]]"
-  - "[[Opportunists]]"
+  - "[[Institutional Conversion]]"
+  - "[[Veto Possibilities]]"
+  - "[[Enforcement Discretion]]"
   - "[[Insurrectionaries]]"
   - "[[Subversives]]"
   - "[[Symbionts]]"
-  - "[[Institutional Displacement]]"
-  - "[[Institutional Layering]]"
-  - "[[Institutional Conversion]]"
-  - "[[Avatar]]"
-  - "[[Enforcement Discretion]]"
-  - "[[Baptist-Bootlegger Coalition]]"
+  - "[[Opportunists]]"
   - "[[Rule Ambiguity]]"
   - "[[Strategic Compliance]]"
-  - "[[Veto Possibilities]]"
+  - "[[Baptist-Bootlegger Coalition]]"
 related_theories:
   - "[[Historical Institutionalism]]"
-  - "[[Disjointed Pluralism]]"
-related_methods:
-  - "[[Typological Analysis]]"
-  - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"
-  - "[[George Tsebelis]]"
+  - "[[Wolfgang Streeck]]"
+  - "[[Jacob S. Hacker]]"
+  - "[[Theda Skocpol]]"
   - "[[Peter A. Hall]]"
+  - "[[Paul Pierson]]"
+  - "[[George Tsebelis]]"
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
+  - "[[Argument_VanDerHeijden_2011_Politics]]"
 confidence: high
 status: draft
 created: 2026-10-11
@@ -75,7 +74,7 @@ updated: 2026-10-11
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）于 2009 年合编出版的专著《解释制度变迁：模糊性、能动性与权力》（*Explaining Institutional Change: Ambiguity, Agency, and Power*）第一章《渐进制度变迁理论》（*A Theory of Gradual Institutional Change*）。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
 > - **原初问题** 为何许多长期维系的核心体制（如英国上议院、美国社会保障法案、德国职业培训体系）在没有经历外部战争、革命或宏观经济危机冲击的情况下，其治理职能与权力分配后果发生了颠覆性质变。
-> - **理论资源与材料** 吸收了沃尔夫冈·施特雷克与希伦（Streeck & Thelen, 2005）的渐进变迁形态学、雅各布·哈克（Hacker, 2005）的政策漂移说、埃里克·希克勒（Schickler, 2001）的脱节多元主义与层叠分析、[[George Tsebelis|乔治·茨贝利斯]]（George Tsebelis, 2002）的否决玩家理论、[[Peter A. Hall|彼得·A·霍尔]]（Peter A. Hall, 1986）关于制度作为权力分配工具的界定，以及书中收录的巴西医疗改革、肯尼亚土地产权、印尼威权政体等比较历史个案。
+> - **理论资源与材料** 吸收了[[Wolfgang Streeck|沃尔夫冈·施特雷克（Wolfgang Streeck）]]与希伦（Streeck & Thelen, 2005）的渐进变迁形态学、[[Jacob S. Hacker|雅各布·S·哈克（Jacob S. Hacker, 2005）]]的政策漂移说、[[Theda Skocpol|西达·斯考切波（Theda Skocpol, 1992）]]与[[Peter A. Hall|彼得·A·霍尔]]（Peter A. Hall, 1986）关于制度作为权力分配工具的界定、[[Paul Pierson|保罗·皮尔逊（Paul Pierson）]]关于路径依赖与颠覆者白蚁机制的论述、埃里克·希克勒（Schickler, 2001）的脱节多元主义与层叠分析、[[George Tsebelis|乔治·茨贝利斯]]（George Tsebelis, 2002）的否决玩家理论，以及书中收录的巴西医疗改革、肯尼亚土地产权、印尼威权政体等比较历史个案。
 > - **形成路径** 从将制度界定为具有权力分配意涵的工具出发，引入规则遵从作为博弈变量的分析视界，提炼政治否决阻力与裁量空间双维度空间，将宏观约束、微观行动者角色与宏观演化形态建立因果咬合。
 
 ### 后续修订与扩展
