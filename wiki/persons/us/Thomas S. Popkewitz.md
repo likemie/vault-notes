@@ -105,9 +105,9 @@ updated: 2026-10-09
 >   - **关键概念／理论** 社会规训（Social Regulation）、跨国教师教育治理、专业化话语。
 >   - **阶段转向** 突破传统国家中心论视角，实证证明[[OECD|经合组织]]（[[OECD]]）与欧盟等跨国多边组织正通过推行统一的教师胜任力模型与专业标准，自上而下重塑民族国家教师的职业认同与社会调控机制。
 > - **2000s–至今 — 社会[[Epistemology|认识论]]与[[Cosmopolitanism|世界主义]]排斥逻辑** 此阶段建构起深邃的历史认识论与世界主义批判。
->   - **代表著作** *Cosmopolitanism and the Age of School Reform* (2008)。
->   - **关键概念／理论** 社会认识论、理性系统（Systems of Reason）、双重姿态（Double Gesture of Inclusion/Exclusion）。
->   - **阶段转向** 揭露现代学校教育口头上倡导普惠全纳与“世界主义[[Lifelong Learning|终身学习]]者”，但在实际认识论分类系统中，却通过将达不到标准的孩子定义为“有风险的”、“落后的”，制造了精巧的二次排斥与边缘化。
+>   - **代表著作** *Educational Governance and Social Inclusion and Exclusion* (2000, with S. Lindblad); *Cosmopolitanism and the Age of School Reform* (2008)。
+>   - **关键概念／理论** 社会认识论、理性系统（Systems of Reason）、双重姿态（Double Gesture of Inclusion/Exclusion）、教育治理双重问题式（知识问题式与公平-参与问题式）。
+>   - **阶段转向** 揭露现代学校教育口头上倡导普惠全纳与“世界主义[[Lifelong Learning|终身学习]]者”，但在实际认识论分类系统中，却通过将达不到标准的孩子定义为“有风险的”、“落后的”，制造了精巧的二次排斥与边缘化。该框架关于知识资格系统与结构性参与的区分，被后续学者深度整合进学校空间治理与流动人口排斥分析中。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 367–368)]]
 
 ---
 
@@ -164,3 +164,4 @@ updated: 2026-10-09
 > | [[World Society Theory]] | 理论 | 从微观[[Post-structuralism\|后结构主义]]视角反思新制度主义“世界文化趋同”[[Hypothesis\|假设]]背后的排斥性分类炼金术。 |
 > | [[Conditioned State Theory]] | 理论 | 为揭示跨国组织如何通过“软法”规训侵蚀民族国家主权提供认识论维度的呼应。 |
 > | [[Michael W. Apple]] | 人物 | [[James Madison\|麦迪逊]]学派核心同事，共同推进美国批判教育社会学与意识形态制度分析。 |
+> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 论证 | 借鉴波普科维茨的教育治理双重问题式（知识与参与），剖析学校空间实践对流动人口的规训与排斥。 |

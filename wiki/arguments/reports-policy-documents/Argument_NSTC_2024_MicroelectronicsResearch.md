@@ -97,7 +97,7 @@ title: "Argument_NSTC_2024_MicroelectronicsResearch"
 argument_key: "Argument_NSTC_2024_MicroelectronicsResearch"
 argument_display_title: "National strategy on microelectronics research (as amended April 2025)"
 argument_kind: "report"
-argument_related_count: 57
+argument_related_count: 59
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dcfce7"

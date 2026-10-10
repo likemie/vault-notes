@@ -1,0 +1,300 @@
+{
+  "source": "raw/The global reception of John Dewey's thought _ multiple -- Bruno-Jofre_, Rosa del Carmen, 1946-; Schriewer, Jurgen -- Taylor & Francis (Unlimited), -- isbn13 9780203333624 -- 77a6fb8a6762cdae3629be5098bccdfe -- Anna’s Archive.pdf",
+  "source_sha256": "c41726c782f0c7c5702fc4be7a6bd7ca94399eaeaa64f700a03ed86c9c73865a",
+  "book_title": "The Global Reception of John Dewey's Thought: Multiple Refractions Through Time and Space",
+  "editors": [
+    "Rosa Bruno-Jofré",
+    "Jürgen Schriewer"
+  ],
+  "year": 2012,
+  "publisher": "Routledge",
+  "publication_place": "New York and London",
+  "isbn": "9780203333624",
+  "source_pdf_pages": 294,
+  "encoding": "UTF-8",
+  "extraction": "Poppler pdftotext -layout, existing scanned-PDF OCR layer; no semantic rewriting or translation",
+  "page_mapping": "Arabic print page N is one-based PDF page N+18. Foreword xi is PDF page 15; acknowledgments xiii–xiv are PDF pages 17–18.",
+  "limitations": [
+    "OCR spelling, diacritics and note numbers may contain source errors.",
+    "Original paragraph line breaks retained; images and precise table layouts require PDF verification."
+  ],
+  "excluded_materials": [
+    "Cover and series advertisements",
+    "Blank pages, including false OCR text on scanned blank pages",
+    "Duplicated contents and part divider pages",
+    "Index"
+  ],
+  "entries": [
+    {
+      "chapter": 1,
+      "kind": "chapter",
+      "title": "Deweyan Thought Refracted Through Time and Space: Studies on the Trans-Continental Dissemination and Culture-Specific Re-Contextualization of Educational Knowledge",
+      "authors": [
+        "Jürgen Schriewer"
+      ],
+      "part": "Introduction",
+      "print_pages": [
+        1,
+        19
+      ],
+      "pdf_pages": [
+        19,
+        37
+      ],
+      "txt": "Ch01_Schriewer_Deweyan_Thought_Refracted.txt",
+      "book_supplements": [
+        {
+          "material": "Foreword",
+          "pdf_pages": [
+            15,
+            15
+          ]
+        },
+        {
+          "material": "Acknowledgments",
+          "pdf_pages": [
+            17,
+            18
+          ]
+        }
+      ],
+      "characters": 68735,
+      "sha256": "b2a1aaa4e09bade92a039164be02d40a3e1351da032918f4926a1f0514b8e1aa",
+      "original_text_characters": 62210,
+      "chinese_navigation_label": "杜威思想在时间与空间中的折射"
+    },
+    {
+      "chapter": 2,
+      "kind": "chapter",
+      "title": "The Readings of John Dewey’s Work and the Intersection of Catholicism: The Cases of the Institución Libre de Enseñanza and the Thesis of Father Alberto Hurtado, S.J. on Dewey",
+      "authors": [
+        "Rosa Bruno-Jofré",
+        "Gonzalo Jover"
+      ],
+      "part": "Part I",
+      "print_pages": [
+        23,
+        42
+      ],
+      "pdf_pages": [
+        41,
+        60
+      ],
+      "txt": "Ch02_BrunoJofre_Jover_Dewey_and_Catholicism.txt",
+      "book_supplements": [],
+      "characters": 63487,
+      "sha256": "967ca2fce8ca613198c62d2bc521ecace416ebf82a4fa0f72ce5efc870d3b1ab",
+      "original_text_characters": 62616,
+      "chinese_navigation_label": "杜威思想的阅读与天主教的交汇"
+    },
+    {
+      "chapter": 3,
+      "kind": "chapter",
+      "title": "Dewey in Argentina (1916–1946): Tradition, Intention, and Situation in the Production of a Selective Reading",
+      "authors": [
+        "Marcelo Caruso",
+        "Inés Dussel"
+      ],
+      "part": "Part I",
+      "print_pages": [
+        43,
+        58
+      ],
+      "pdf_pages": [
+        61,
+        76
+      ],
+      "txt": "Ch03_Caruso_Dussel_Dewey_in_Argentina.txt",
+      "book_supplements": [],
+      "characters": 52656,
+      "sha256": "8c5f93cd7034c7776a1c78d1c5940d769498e2c5d961790b7e1d025a031a0329",
+      "original_text_characters": 51855,
+      "chinese_navigation_label": "阿根廷对杜威思想的选择性阅读"
+    },
+    {
+      "chapter": 4,
+      "kind": "chapter",
+      "title": "Ruralizing Dewey: The American Friend, Internal Colonization, and the Action School in Post-Revolutionary Mexico (1921–1940)",
+      "authors": [
+        "Rosa Bruno-Jofré",
+        "Carlos Martínez Valle"
+      ],
+      "part": "Part I",
+      "print_pages": [
+        59,
+        80
+      ],
+      "pdf_pages": [
+        77,
+        98
+      ],
+      "txt": "Ch04_BrunoJofre_MartinezValle_Ruralizing_Dewey.txt",
+      "book_supplements": [],
+      "characters": 70279,
+      "sha256": "8bfd603cb5880e54f6f8921254b5fcb58fd68fb42ff62ceb9d1959e9065aec2e",
+      "original_text_characters": 69450,
+      "chinese_navigation_label": "革命后墨西哥对杜威思想的乡村化"
+    },
+    {
+      "chapter": 5,
+      "kind": "chapter",
+      "title": "The Chinese Dewey: Friend, Fiend, and Flagship",
+      "authors": [
+        "Barbara Schulte"
+      ],
+      "part": "Part II",
+      "print_pages": [
+        83,
+        115
+      ],
+      "pdf_pages": [
+        101,
+        133
+      ],
+      "txt": "Ch05_Schulte_The_Chinese_Dewey.txt",
+      "book_supplements": [],
+      "characters": 104480,
+      "sha256": "54336a45ce4fb7df8fbbb0237fe75a37926e0ccc928262de50c3eab62e08a390",
+      "original_text_characters": 103749,
+      "chinese_navigation_label": "中国的杜威"
+    },
+    {
+      "chapter": 6,
+      "kind": "chapter",
+      "title": "Re-Contextualizing Foreign Influence in Japan’s Educational History: The (Re)Reception of John Dewey",
+      "authors": [
+        "Jeremy Rappleye"
+      ],
+      "part": "Part II",
+      "print_pages": [
+        116,
+        145
+      ],
+      "pdf_pages": [
+        134,
+        163
+      ],
+      "txt": "Ch06_Rappleye_Dewey_in_Japan.txt",
+      "book_supplements": [],
+      "characters": 92895,
+      "sha256": "ae192e1f1576ea46604b8f7a24088b3ce1f832d42f19d9f07b3243e67b02b355",
+      "original_text_characters": 92109,
+      "chinese_navigation_label": "日本教育史中杜威思想的再接受"
+    },
+    {
+      "chapter": 7,
+      "kind": "chapter",
+      "title": "Diffusion-Reception Networks of Pedagogical Knowledge: The Circulation of John Dewey’s Educational Discourse in the Luso-Afro-Brazilian Space",
+      "authors": [
+        "Ana Isabel Madeira"
+      ],
+      "part": "Part III",
+      "print_pages": [
+        149,
+        169
+      ],
+      "pdf_pages": [
+        167,
+        187
+      ],
+      "txt": "Ch07_Madeira_Diffusion_Reception_Networks.txt",
+      "book_supplements": [],
+      "characters": 66895,
+      "sha256": "bb3dedc9ad475c33774a9f63988418f7b559b0a2b65a35db13ed2341d95673d8",
+      "original_text_characters": 66064,
+      "chinese_navigation_label": "葡语非洲与巴西空间中的教育知识传播与接受网络"
+    },
+    {
+      "chapter": 8,
+      "kind": "chapter",
+      "title": "John Dewey and the Development of Education in Russia Before 1930: Report on a Forgotten Reception",
+      "authors": [
+        "Irina Mchitarjan"
+      ],
+      "part": "Part IV",
+      "print_pages": [
+        173,
+        195
+      ],
+      "pdf_pages": [
+        191,
+        213
+      ],
+      "txt": "Ch08_Mchitarjan_Dewey_in_Russia.txt",
+      "book_supplements": [],
+      "characters": 74769,
+      "sha256": "25bf19817beab685447bc30c1d9079c3797e664064e31d1b9ac30c66ccdec9bd",
+      "original_text_characters": 73984,
+      "chinese_navigation_label": "1930 年前俄国对杜威思想的接受"
+    },
+    {
+      "chapter": 9,
+      "kind": "chapter",
+      "title": "A “New Republic”? The Debate between John Dewey and Walter Lippmann and Its Reception in Pre- and Postwar Germany",
+      "authors": [
+        "Norbert Grube"
+      ],
+      "part": "Part IV",
+      "print_pages": [
+        196,
+        214
+      ],
+      "pdf_pages": [
+        214,
+        232
+      ],
+      "txt": "Ch09_Grube_Dewey_Lippmann_and_Germany.txt",
+      "book_supplements": [],
+      "characters": 59113,
+      "sha256": "7538efd6d4e4488d34c1028965b7b7af3d36cf9cb560189bb7a049f6d21cad26",
+      "original_text_characters": 58316,
+      "chinese_navigation_label": "杜威与李普曼之争及其在德国的接受"
+    },
+    {
+      "chapter": null,
+      "kind": "afterword",
+      "title": "Afterword: Intersections, Oppositions, and Configurations in the Transnational Readings of Dewey",
+      "authors": [
+        "James Scott Johnston"
+      ],
+      "part": "Afterword",
+      "print_pages": [
+        215,
+        228
+      ],
+      "pdf_pages": [
+        233,
+        246
+      ],
+      "txt": "Afterword_Johnston_Transnational_Readings_of_Dewey.txt",
+      "book_supplements": [
+        {
+          "material": "Contributors",
+          "print_pages": [
+            229,
+            233
+          ],
+          "pdf_pages": [
+            247,
+            251
+          ]
+        },
+        {
+          "material": "Bibliography",
+          "print_pages": [
+            235,
+            261
+          ],
+          "pdf_pages": [
+            253,
+            279
+          ]
+        }
+      ],
+      "characters": 150704,
+      "sha256": "df5f35aed1105748a924d02a124510b1e936679a5ff1471e72354e4732edccb0",
+      "original_text_characters": 42125,
+      "chinese_navigation_label": "后记，跨国阅读杜威思想中的交汇、对立与构型"
+    }
+  ]
+}

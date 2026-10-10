@@ -1,0 +1,1039 @@
+The Global Reception of John Dewey's Thought: Multiple Refractions Through Time and Space
+Edited by Rosa Bruno-Jofré and Jürgen Schriewer | 2012 | Routledge
+
+Introduction
+Chapter 1: Deweyan Thought Refracted Through Time and Space: Studies on the Trans-Continental Dissemination and Culture-Specific Re-Contextualization of Educational Knowledge
+Jürgen Schriewer
+Original print pages 1–19; PDF pages 19–37
+
+[Extracted from the supplied scanned PDF OCR layer. Print page markers are mapped against the contents and chapter opening pages. Original line breaks are retained. OCR spelling and note-number errors may remain; verify exact quotations against the PDF.]
+
+
+========================================================================
+Book-level supplement: Foreword
+========================================================================
+
+[p. xi] [PDF page 15]
+
+Foreword
+
+
+
+
+This edition is published to celebrate the fortieth anniversary of the Fac-
+ulty of Education at Queen’s University. A Faculty of Education at Queen’s
+University was founded in 1907 and closed in 1920, but re-opened in 1966
+with classes starting in 1968. Forty years later, we celebrate the position it
+has attained in Canada and the world. On behalf of the Alumni Commit-
+tee, friends of the Faculty and members of the education community, we are
+proud to present this anniversary volume to you.
+    Dr. Rosa Bruno-Jofré, former dean of the Faculty worked to cultivate
+and maintain an international community of educators as part of the mis-
+sion of the Faculty. The planning for this commemorative edition began
+in 2007 with an invitation to a number of leading researchers to attend a
+symposium about the relevance of the thought of John Dewey to education.
+Queen’s University welcomed these investigators in sessions and round
+tables on the subject at the beginning of 2008. The articles that are included
+in this volume are based on the reflections developed at these meetings. The
+contributions portray a broad geographic and cultural scope, and offer a
+detailed analysis of the international circulation of the educative ideas, con-
+necting well with the international dimension of the academic work.
+
+                                     Yours in Education,
+                                     Joan Jardin and John Olson
+                                     Alumni Committee, Queen’s University
+
+
+========================================================================
+Book-level supplement: Acknowledgments and original-publication information
+========================================================================
+
+[p. xiii] [PDF page 17]
+
+Acknowledgments
+Rosa Bruno-]ofré
+
+
+
+
+This volume honors the fortieth anniversary of the second founding of the
+Faculty of Education at Queen’s University, which started classes in 1968
+as a College of Education. It had a short life as a Faculty between 1907
+and 1920, a time when the reading of Dewey was listed in the program.! In
+1920, the “training” of teachers was centralized in the Ontario College of
+Education affiliated with the University of Toronto. After a forty-eight-year
+hiatus, the College of Education received the first cohorts of future teach-
+ers in 1968. In 1971, the College became the Queen’s Faculty of Education
+under the leadership of Vernon Ready. The same year, the new building for
+the Faculty was named after Duncan McArthur, a historian, lawyer, and
+Queen’s graduate. He chose to serve as a public intellectual who contrib-
+uted in a variety of ways, from his editorship of the Queen’s Quarterly, to
+his scholarly involvement with the teaching of history, to his role as Deputy
+Minister of Education (1934-1940), and then Minister of Education until
+his death in 1943.* As Deputy Minister of Education, and later on as Min-
+ister of Education, Duncan McArthur was seen as a radical innovator who
+had an understanding of the various currents in progressive education and
+embraced progressive pedagogical ideas.’ Under his leadership as Deputy
+Minister, the curriculum in Ontario experienced profound changes, char-
+acterized by Patrice Milewski as a rupture with previous educational dis-
+courses. It is then suitable to celebrate the second founding of the Faculty
+evoking the work of John Dewey.
+   As part of the festivities, on 27 March    2008, the Education    Alumni
+Committee and the Office of the Dean organized an international panel dis-
+cussion entitled “International Diffusion of Educational Ideas.” It explored
+the reception of John Dewey’s ideas in various settings in Latin America,
+Asia, Africa, Europe, and North America. The panelists were Rosa Bruno-
+Jofré, Dean of the Faculty of Education at Queen’s University; Ana Isabel
+da Camera Dias Madeira, University of Lisbon; Jeremy Rappleye, Univer-
+sity of Oxford; and Jiirgen Schriewer, Humboldt University, Berlin. James
+Scott Johnston, Queen’s University, served as moderator. The editors of this
+volume decided to devote it to a celebration of the fortieth anniversary of
+the second founding of the Faculty of Education at Queen’s University.
+
+[p. xiv] [PDF page 18]
+
+xiv     Acknowledgments
+The Foreword, Chapters 2-7, and Chapter 9 were originally published in
+Spanish in Encounters on Education/Encuentros sobre Educacion/Ren-
+contres sur l’Education, 10 (Fall 2009).
+
+Chapter 8 was originally published in Studies in Philosophy and Educa-
+tion 19, 2000: 109-31. Reprinted with kind permission from Springer
+Science+Business Media B.V.
+
+
+NOTES
+
+      1. See Faculty of Education, Courses of Instruction, 1907. For a history of
+         Queen’s University, see Hilda Neatby, Queen’s University, vol. 1, (Kingston
+         and Montreal: McGill-Queen’s University Press, 1978, reprinted 1986). For
+         the history of the first founding see ibid., 278-80.
+      2. Reginald G. Trotter, “Duncan McArthur, 1885-1943,” Proceedings of the
+         Royal Society of Canada, 1944, pp. 107-09; James Kenney, “Duncan McAr-
+         thur (1885-1943),” The Canadian Historical Review, 24 (1943), 449-50.
+      3. See Theodore Michael Christou, “Parallel Progressivist Orientations: Explor-
+         ing the Meanings of Progressive Education in Two Ontario Journals, The
+         School and the Canadian School Journal, 1919-1942 (PhD diss., Queen’s
+         University, Faculty of Education, 2009), Ch. viii.
+
+
+========================================================================
+Chapter text, including original notes
+========================================================================
+
+[p. 1] [PDF page 19]
+
+Through Time and Space
+        Studies on the Trans-Continental
+        Dissemination and Culture-Specific
+        Re-Contextualization of Educational
+        Knowledge
+       Jurgen Schriewer
+
+
+
+
+The international circulation of knowledge has become a prominent topic
+of research over the last few decades. This prominence is certainly more
+than just the outcome of disinterested research concerns. Rather, interest
+ in this topic has been considerably fostered by present-day conditions of
+world-societal interconnection and the concomitant motivation for investi-
+gating the underlying forces, social as well as cultural, that fuel processes
+of globalization.! One of the most productive strands of research in this
+respect is neo-institutionalist sociology. Insistently it has emphasized the
+particular role that the global diffusion of knowledge—knowledge under-
+stood in a broad sense, including philosophical ideas on education, prog-
+ress, and democracy as elaborated by scholars like John Dewey—has played
+as a basic mechanism contributing to the construction of what authors such
+as John W. Meyer have called the modern “world culture” or “world soci-
+ety.”” Corresponding research, carried out in the form of cross-national and
+cross-temporal analyses alike, has focused as much on the trans-national
+diffusion of rules and principles making claims to universal validity—such
+as ideas of progress and development, the principles of human rights and
+scientific rationality, or conceptions of childhood and the individual’—as
+on the cross-border   circulation   of experts,   professionals, and scholars.‘
+Likewise, there are growing bodies of research devoted to investigating the
+impact, by way of imitation, competition, or normative pressure, of the
+models and policies, as well as the standards, rankings, and league tables
+that are developed and effectively disseminated at the world level by interna-
+tional organizations, be these governmental or non-governmental.’ More-
+over, many of these studies—and specifically those produced by historians
+and philosophers—also focus on the supporters, contents, and vehicles of
+past trans-national knowledge circulation in order to elucidate the multiple
+
+[p. 2] [PDF page 20]
+
+interconnections between intellectual currents, national societies, or whole
+civilizations that researchers have come to grasp by terms such as “nested
+configurations,”® “entangled histories,”’ or “histoire croisée.”*
+   From the vantage point of these bodies of research, the trans-continental
+circulation of John Dewey’s philosophical-cum-educational ideas should
+make for a particularly rewarding subject of study.’ In the light of neo-insti-
+tutionalist assumptions,'” John Dewey does indeed represent the perfect
+personification of a “traveling expert” (in view of his legendary voyages
+to Japan, China, Turkey, Mexico, Russia, and South Africa) who provided
+knowledge in the form of “theorized models” (regarding, in particular, the
+connections between education and development and between education
+and democracy). In so doing, he fully complied with essential prerequisites
+for the worldwide dissemination of his ideas. Not without reason, there-
+fore, have his major works been translated into numerous languages, while
+he attracted students and followers from many countries to his courses at
+Columbia University. Unsurprisingly, then, cross-cultural studies designed
+to examine the degree and dimensions of the internationalization of edu-
+cational knowledge—both academic and policy-related—have shown on
+the basis of statistical analyses that John Dewey has figured, from the
+1920s onwards and with renewed weight in the post-World War II era,
+among the educationalist authors most frequently quoted not only in the
+education journals which had the largest impact in the societies analyzed
+in depth—i.e. Spain, Russia (or the Soviet Union), and China—but also
+in quite definitely international reference works such as The International
+Encyclopedia of Education. This is a finding which is largely borne out by
+more focused analyses of the international orientation of educational stud-
+ies in Western Europe and the United States."'
+    Yet, by the same token, these and related studies have also shown that
+trans-national flows of knowledge do not per se lead to a world-level har-
+monization either of epistemic structures and conceptions of science or of |
+world-views, ideologies, and attendant reform policies. In other words,
+the international circulation of knowledge would be misunderstood if it
+were seen as spontaneously contributing to the “semantic construction”
+of world society. On the contrary, even when spanning long historical
+time periods and broad regional distances, studies tracing the circulation
+of bodies of theorized knowledge and corresponding models of educa-
+tional organization have stimulated insights into the very interlocking of
+“the dynamics of global diffusion and the mechanisms of context-specific
+appropriation.”'* Insights of this kind have been facilitated by analytical
+approaches that did not draw mainly—let alone exclusively—on diffusion-
+ist concepts and models. Rather, the aforementioned investigations were
+informed by more sophisticated sociology-of-knowledge models which
+allow the comparative-historical researcher to highlight the adoptive mech-
+anisms supposed to be operative in different national or cultural spaces
+of discourse.   In particular,   the “externalization”   concept—which     will
+
+[p. 3] [PDF page 21]
+
+be taken up in some detail below—is designed to shed light on the selec-
+tive reception, interpretive transformation, and subsequent appropriation,
+within the educational discourses of each of the societies under study, of
+those bodies of knowledge, educational models, and policy ideas that have
+taken shape and have circulated at the international level. Significantly,
+then, these investigations have revealed considerable fluctuations, within
+each nation-specific discursive trajectory, between periods of international
+openness towards, and periods of socio-centric seclusion from, interna-
+tional knowledge flows. And they have also revealed—with regard to the
+major reference societies, “world-views” or “world classics” constructed
+by educationalists in the recipient countries—no less remarkable differ-
+ences between these trajectories. Taken together, these intra-societal fluc-
+tuations and cross-societal differences are revealed to be far greater than
+would be compatible with neo-institutionalist assumptions of world-level
+convergence or “isomorphism.” Not even the explicit inclusion of histori-
+cal time-series in the aforementioned investigations showed unambiguous
+trends towards trans-national convergence. What the findings did empha-
+size, instead, is the fact that developmental trends, models of educational
+organization, reform options and bodies of knowledge that have taken
+shape at an inter- or trans-national level are refracted through frameworks
+of selection and needs for interpretation that are themselves the product of,
+and have been determined by, cultural, religious, political, and ideologi-
+cal forces and traditions intrinsic to each of the societies—Spain, Russia
+(or the Soviet Union), and China—included in the aforementioned studies.
+In contrast to the potentialities offered by a merely diffusionist approach,
+the sociology-of-knowledge concept of “externalization” is able not only
+to reconstruct the meanings processed in educational reflection but also
+to account for the linkages—mediated by changing needs for legitimiza-
+tion, forward-looking orientation, and collective self-assurance—between
+educational reflection theories (including the references to the international
+level or classical authors embedded in these theories) and distinctive his-
+torical and political settings."
+    Such analyses, and the insight they generate, are echoed to some extent
+by vivid debates opposing the proponents of “indigenous sociologies” to
+the harbingers of a “universal social science” or, in post-colonial terms,
+the supporters of the concept of “indigenous knowledge” to those accused
+of “Eurocentrism”.'* Put in more general terms, analyses that, on the one
+hand, emphasize the “internationalisation of social science knowledge”
+quite rightly point out that all national or regional societies increasingly
+experience processes of social change fuelled by scientific progress, technol-
+ogy, and market-driven economic activity; that they face largely compara-
+ble social, political, and ecological problems attendant on these processes;
+and that, consequently, they share a similar demand for utilizable knowl-
+edge and “rational” explanation.'’ On the other hand, however, historical-
+comparative research on modernisation processes has convincingly shown
+
+[p. 4] [PDF page 22]
+
+that comparable challenges have been taken up and responded to, in differ-
+ent societies, in idiosyncratic ways as a consequence of differing contextual
+conditions. Likewise, one has to systematically take into account the fact
+that processes of the discursive self-reflection of societal settings in general,
+as well as of specific fields of social action or sub-systems of society in par-
+ticular, always proceed from specific initial conditions, idiosyncratic inter-
+pretations of the problems encountered, and from intellectual resources that
+have developed their own self-evolutive momentum. Accordingly, while the
+global diffusion of social science knowledge is increasingly fostered, to be
+sure, by international science associations and institutionalized possibili-
+ties of co-operation, it is at the same time a well-confirmed fact that, due
+to idiosyncratic problem interpretations and semantic resources, the pro-
+cesses of the reception and adoption of such knowledge are tantamount to
+its transformation, appropriation, and re-contextualisation within specific
+socio-cultural settings. This is all the more the case as social science knowl-
+edge, unlike the knowledge generated by mathematics or the natural sci-
+ences, is closely linked with vernacular or national language and the layers
+of meaning embedded in, and the world views conveyed by, this language.
+    It is against the foil of such findings and insights that the real scope of
+this volume’s significance manifests itself. First of all, in terms of the /is-
+tory of education, it carries on a line of study that has emerged in recent
+years and sought to investigate the circulation of Dewey’s ideas not only
+across a variety of countries with different historical, philosophical, and
+political backgrounds but also in intersection with currents of thought and
+related institutions such as Catholicism, Protestantism, and Confucianism.
+Research has thus focused on how Dewey’s ideas were taken up and recon-
+figured idiosyncratically in the building of new notions of polity and educa-
+tion.'° Moreover, metaphors such as “traveling libraries,” and the phrase
+“indigenous foreigner” developed by Tom Popkewitz to examine modernity
+and how Dewey’s ideas have traveled trans-nationally have inspired works
+by educational historians and comparativists including authors of this vol-
+ume." Finally, Bruno-Jofré, Johnston, Jover, and Tréhler have advanced
+the notion of “configuration” as a heuristic rather than an explanatory
+tool, that “allows us to articulate spaces within which there are multiple
+connections between discourses and... many of which are contradictory
+but form other configurations within a larger heuristic. New configura-
+tions arise out of older ones; within a configuration, new configurations
+form.”'* As a concept intended to designate the result of the intersection
+of multiple historical forces specific to particular spaces, the term “con-
+figuration” has also been used by some of the authors of this volume to
+distinguish, relate and understand various historical reception processes
+and their consequences.
+   In systematic terms, the aim of this volume nevertheless is not an inter-
+pretation of Dewey’s multifaceted—philosophical, psychological, and edu-
+cational—thought per se. Rather, by taking the international circulation,
+
+[p. 5] [PDF page 23]
+
+adoption, and re-contextualization of Deweyan thought as a particularly
+ fruitful case, the volume deliberately concentrates on the comparative-cum-
+ historical study of the highly diverse cultural traditions, socio-political
+conditions, and involved intellectuals that have channeled the adoption,
+ interpretation, and appropriation of Dewey’s ideas in largely different
+ national and socio-economic settings. Taken together, these settings—His-
+ panic America, East Asia, Lusophone Africa, as well as Western and East-
+ ern Europe—provide a unique range of areas of observation and analysis.
+The following chapters thus make it possible to pursue further the afore-
+ mentioned comparative investigations of the degree and dimensions of the
+ internationalization of educational knowledge and, in so doing, to take
+ up and explore at the micro-level of one particular case a problematique
+ which has emerged from broader strands of comparative and international
+ research. As discussed elsewhere, this problematique follows from the very
+ “interweaving of contrary currents” characteristic of contemporary world
+conditions.” This means both the reiterated “local encounters with global
+ forces” even at the level of everyday social life 2° and also, in more abstract
+terms, the interactive simultaneity of the increasing world-level intercon-
+ nection of all kinds of communication and exchange relations, on the one
+ hand, and, on the other, the ongoing persistence of culture-specific adop-
+tions, interpretations, and re-contextualizations of world-level forces and
+challenges. Comparative-historical investigations into the extremely var-
+ied reading and comprehension, in diverse socio-political and ideological
+settings, of an educationalist-philosopher legitimately considered a “world
+classic” are well suited to lay bare the mechanisms that again and again
+give rise to this simultaneity of contrary currents.
+    In methodological terms, finally, the volume links up with far-reaching
+re-orientations of comparative and international research in the social and
+human sciences. These imply, on the one hand, the relativization and histo-
+ricization of the social scientific mainstream of comparative inquiry.*! On
+the other, they imply a broadening of comparative inquiry by deliberately
+taking into consideration the increasing focus, in history and the social sci-
+ences alike, on the analysis of ubiquitous processes of cross-cultural trans-
+fer as well as research approaches that emphasize definitely trans-societal
+structures such as mega-regions, world cities, trans-national networks,
+cosmopolitan elites or, in Wallersteinian terms, globally interconnected
+“historical systems.”?? In all of these trans-societal movements and con-
+stellations—abundant bodies of research inform us—processes of context-
+bound selection and adoption have exerted a far-reaching impact. It ts
+therefore a salient feature of the more comprehensive research approaches
+that combine comparative inquiry proper with the perspectives of trans-
+cultural relations and transfer analysis that they pay particular attention
+to these processes. In so doing, numerous studies have shown that, and in
+what forms, the trans-cultural transfer both of knowledge, ideas and intel-
+lectual currents, and of particular organization models and problem-solving
+
+[p. 6] [PDF page 24]
+
+patterns is met, by the recipient cultural or national groups, with specific
+reinterpretation and adaptation procedures. As a consequence, models
+offered trans-culturally are, in the new environment, selected according to
+prevailing interests, adapted to specific situations and needs, reinterpreted
+along cultural lines, and—to historically varying degrees—transmuted into
+structural re-formations.
+   The world-wide dissemination of European-style institutions, the his-
+tory of philosophy and the social sciences, or the spread of Western prin-
+ciples of political order and state organization all provide a multitude
+of examples of these adaptive procedures. Even a summary overview of
+corresponding research—from the spread of nineteenth-century German
+philosophy and philology throughout western Europe;* via the adoption
+of Weberian sociology in different academic communities such as those
+of Italy, France, the United States, Japan, or Southeast Asia;** to the gen-
+esis of modern pedagogy in Japan (introduced by a Herbartian theorist
+since forgotten in Germany)*>~shows that the reception of philosophical
+and social theories and innovations forms an endless series of interpreta-
+tions and re-interpretations, filtered by prevailing interests and channeled
+into pre-existing discourse configurations. Quite the same holds true for
+the selective reception, appropriation and transmutation into political-
+cum-ideological arguments of Greek and Roman antiquity performed in
+close connection with the divergent state- and nation-building processes of
+European and North American societies. Recent research has traced these
+“Multiple Antiquities—Multiple Modernities” links—as a recent book title
+nicely coins it—from the eighteenth century up to the revitalization of
+ancient Greek imagery in Nazi Germany.*° Likewise, the dissemination of
+Western political principles and institutions throughout non-Western coun-
+tries is subject to analogous processes of re-appropriation.*’ The merely for-
+mally adopted institutions are interwoven with previous layers of political
+behavior, social meanings, and culture-specific patterns of the exercise of°
+authority and, in resultant processes of re-contextualization, change their
+significance and functioning. As these and many other examples illustrate,
+the researcher interested in the mechanisms of trans-cultural transfer and
+reception processes has to systematically take into consideration a multi-
+tude of “adaptation logics” as well as an underlying multitude of cultural
+deep structures, differing styles of meaning processing, historical semantics
+couched in different languages, and collective experiences sedimented in
+the course of history.** Taken together, these varying adaptation logics and
+culture-specific pre-conditions will inevitably result in an intricate inter-
+weaving of hybridized theorizing, deviation-generating refractions, and
+multiform structural re-contextualizations.
+   Do theories exist that would be suited to explain such processes and
+thereby provide the conceptual tools that would enable unravelment and
+systematic analysis of their complexities? This question is not easy to
+answer since the authoritative theory of reception does not exist. But some
+
+[p. 7] [PDF page 25]
+
+promising approaches certainly do which have been formulated in the con-
+text of various theoretical frameworks and on the basis of diverse strands
+of research. At least some of these approaches are outlined below.
+    (1) One of the most prominent of these approaches is the “reception
+theory” which was developed from the 1970s onwards in the field of liter-
+ary studies, particularly in German-speaking Europe.” A group of leading
+literary critics and literary historians—who later came to be known as the
+“Constance School”—maintained that a specifically “literary history” can-
+not be developed but in terms of “a history based on the aesthetics of recep-
+tion.” Accordingly, from this vantage point it is the reader who is seen as
+the “creator” of textual meaning in accordance with his or her individual
+dispositions and who therefore occupies a central position in literary stud-
+ies. This stance is based in turn on a “pragmatic” text theory as opposed
+to a “substantialist” one. As Martyn P. Thomson explains, “pragmatic
+theory focuses on a text as read by various readers. [ . . . ]The meaning
+of a text is literally created in the act of its being read. Different readers at
+the same time, the same reader at different times, and different readers at
+different times will understand apparently the ‘same’ text differently. The
+text has simply a potentiality for meaning. Specific meanings arise through
+the text being read. And these specific meanings (Konkretisationen) will
+vary according to who does the reading, at what time, where, with what
+expectations, and for what purposes. The theory is pragmatic in that it
+posits that the meaning of any given text varies according to the practical
+circumstances in which it is read.”*° A literary “work” is therefore more
+than just a written “text”; rather, it is virtually realized by a reader and the
+complex interactions which the reader engenders between the text and his
+individual dispositions, horizons of expectations, and these expectations’
+dependency on changing historical circumstances. Accordingly, “literary
+history” is conceived as the history of the successive receptions—i.e. inter-
+pretive realizations of literary “works”—that take place over time.
+    (ii) Another conceptual framework for a theory of reception is incorpo-
+rated, albeit more implicitly, in the theory of self-referential social systems
+postulated in general terms by Niklas Luhmann and developed, in his suc-
+cessive works, with a view to analyzing each of the clusters of functionally
+specialized communication that crystallize into specific subsystems of soct-
+ety.2! Itis a basic feature of these systems that they can only continue to exist
+in the form of “self-contacts.” “Self-reference” therefore implies circularity.
+This also holds true for higher forms of self-reference such as intra-systemic
+self-descriptions and self-interpretations which ultimately develop into
+reflection theories, which are formulated within a specialized subsystem’s
+communicational universe and are intended to foster its self-understanding
+and self-steering. Like any form of self-reference, therefore, reflection theo-
+ries developed in the context of particular sub-systems are in need of inter-
+ruptions of the relations of interdependence caused by the circular nature of
+the self-referential discursive process. Such interruptions typically take the
+
+[p. 8] [PDF page 26]
+
+form of the reflective and communicational process opening up in relation
+to its external environment; for it is through the incorporation of “supple-
+mentary meaning” as extractable from external points of reference that
+circular self-reference becomes amenable to specification. As explicated
+elsewhere with regard to the status of comparative and historical study in
+the systemic self-reflection of fields such as law, politics, and education,”
+typical patterns of “externalization” are the recourse to “model states”
+and “world class countries,” to “world situations” or a supposed level of
+“internationality” as well as, complementary to this, the recourse to “his-
+torical traditions,” the “classics” of philosophical, political, or educational
+thinking, and the “unfulfilled promises” purportedly embodied by the lat-
+ter. Such “externalizations” and “traditionalizations,” respectively, are not
+devised to produce social-scientific knowledge by means of comparative
+inquiry into, or the detached historicization of, distinct cultural configura-
+tions. They rather involve the evaluative interpretation of either interna-
+tional or historical data, structures, figures, and issues—interpretations, in
+other words, that are thought to yield arguments considered as “relevant”
+in order to cope with social necessities or legitimize particular policies and
+policy decisions. It is therefore not the mental attitudes of “detachment”
+and “perspectivism”—which are characteristic of comparative inquiry and
+historical research proper—that determine the references to tradition or to
+world situations. Rather, both forms of externalization remain, in spite of
+their making reference to and opening systemic self-reflection towards an
+external environment,—as Luhmann once put it—“system-internal inter-
+pretative acts which fail to provide reliable information on what historical
+processes were really like or what is actually going on in the world. [Exter-
+nalizations instead function] as floodgates which a system is induced to
+open or shut according to internal necessities.”
+    (iii) Valuable information on the forms and phenomena of reception is
+also offered by the analyses of processes of trans-cultural transfer which ”
+have increasingly emerged over the past two decades in the field of his-
+tory in particular,** but also in other disciplines such as political science,
+management and organization theory®’ as well as in educational studies.*°
+While the considerations associated with such inquiries do not yet, as a rule,
+take on the form of elaborate theories, they nevertheless include models of
+processes of trans-cultural transfer which arrange and systematize them in
+terms of phases and aspects: according to initial and contextual conditions
+as well as mediators, media and forms of acquisition and appropriation and
+ultimately also according to their historico-political effects.
+   (iv) Highly instructive, finally, is the systematization of the presuppo-
+sitions, social conditions, and mechanisms for the “international circula-
+tion of ideas” which Pierre Bourdieu developed and elaborated in much
+more specific arguments on the occasion of giving an outline of a theory of
+international cultural relations.*” This model’s greater specificity lies in its
+consistent pointing up of both the selectivity and the self-referential nature
+
+[p. 9] [PDF page 27]
+
+of the operations successively enacted in processes of reception. This holds
+true, first of all, for the so-called “operations of selection.” In other words,
+not every author of country “x” attracts interest in country “y”; not every
+novel, book, or scholarly treatise will be translated into other languages;
+and not every philosophical strand or fashion heavily acclaimed in one set-
+ting will meet with much attention in another. Rather, particular texts,
+authors, or philosophical strands are noted, adopted, translated, and trans-
+formed into carriers of argumentative strategies suitable for legitimation of
+their recipients or to strengthen their position vis-a-vis internal Opponents
+and conflicting groups only to the degree that they correspond—or seem
+to correspond—with intellectual-cum-political affinities and coincide—or
+appear to coincide—with particular interests, prevailing paradigms, cur-
+rent fashions, or ideological groups and parties in power. Likewise, the
+“operations of reading and interpreting” do not, as a rule, consist in just
+faithfully duplicating the original meaning of the text, book, or intellectual
+group being adopted. These operations rather proceed from the potential
+“multivalency” of a text;** and they actively re-create an understanding of
+a text, author, or philosophy which is shaped by the recipient’s categories of
+perception and appreciation, frames of thinking and criteria of evaluation,
+all of which are in turn the outcome of culturally specific educational and
+academic institutions, historical semantics couched in national language,
+the recipient’s prior experiences and changing horizons of expectation, and
+his spatio-temporal conditions, institutional constraints, and specific char-
+acteristics. Between both series of operations, finally, Bourdieu posits a
+third category which he terms the “operations of marking.” As indicated
+by this term (marquage in French), it is operations that contribute to the
+original text’s or author’s material trans-formation. In other words, they
+point up the activities of social networks and institutions, mediators and
+disciples, publishers and sponsors as well as the effects of the concrete pre-
+sentation of translated texts or authors (in terms of formats, prices, dis-
+tribution outlets, and so on). They highlight material aspects that play a
+significant role in channelling the reception process and thus predetermine
+the degree of its success or failure.
+   Their differing disciplinary foundations and analytic scope notwith-
+standing, the four approaches which seek to conceptualize the complex
+process of reception have in common a series of key ideas. First of all, in
+contrast to older studies assuming a purported “influence” or “impact”
+upon other societies, institutional settings, or socio-cultural configura-
+tions of specific organization patterns, intellectual currents or outstanding
+authors, reception and adoption analyses deliberately take as their start-
+ing point not the context in which the patterns or currents in question
+originated, but rather the recipient’s context and this context’s willingness
+or even overt need to adopt novel models and ideas.*’ Second, in parallel
+with this general shift away from conventional notions of “influence” to the
+more discriminating concepts of “reception” and “adoption”, a similar shift
+
+[p. 10] [PDF page 28]
+
+has been accomplished in the more specific field of cross-border or cross-
+temporal intellectual relations. This shift has its roots in an altered under-
+standing of the “text”—whether Deweyan, Weberian, or that of any other
+author—and refers to a move from “substantialist” text theories to more
+“pragmatic” conceptions of the text. This altered understanding implies in
+turn a transition from concerns with authorial intended meanings to those
+relating to the meanings created, as it were, by the reader, the adopter or
+the recipient. Thirdly, at the level of social theory the emergence of the
+paradigm of “self-organization” has facilitated elaboration of the theory
+of self-referential social systems and has thus opened up a deeper under-
+standing of the intrinsically self-referential nature of the workings of intel-
+lectual networks, academic cultures, or intra-systemic reflection processes,
+as well as of the deviation-generating intricacies characteristic of exchange
+relations between those networks, communities, or system reflections.
+Finally, one should not fail to mention the graphic metaphors that have
+been coined in the framework of different models, and by different authors,
+in order to highlight both the selectivity—in terms of “floodgates” (Luh-
+mann) or “filters” (Schriewer and Martinez)—and the deviation-generating
+power—in terms of “prism” (Bourdieu) or “refraction” (Schriewer)—of the
+closely intertwined processes of reception, adoption, appropriation, and
+re-contextualization.
+     It is not without reason, therefore, that the comparative-historical studies
+assembled in this volume are arranged under the title of “Deweyan thought
+refracted through time and space.” As far as possible, these chapters seek
+to make     use of the considerations of, and accumulated       insight into, the
+trans-cultural transfer and reception processes summarized above. They
+are definitely intended to go beyond a merely diffusionist stance and to
+examine the culture-specific reception and appropriation processes in rela-
+tion to an author considered a “world classic.” This means moving beyond
+the macro-perspective of cross-national or cross-civilizational inquiry
+and adopting the micro-perspective of investigating the workings of the
+meaning-processing schemata involved in each specific reception process.
+Historians and philosophers of education informed by developments in
+comparative inquiry join comparative scholars proper in analysing the pro-
+cess and characteristic forms by and in which Dewey’s ideas have gained
+acceptance in different political, cultural, and social contexts. Some of the
+authors also focus their interpretative tools on Dewey’s text and histori-
+cally contextualize inter-textual inquiry while exploring readings of his
+work through various lenses. Accordingly, the following research questions
+arise and inform our studies: Why were Dewey’s works so appealing to
+such different historical regions as Argentina in the inter-war period and
+Russia between 1900 and 1930, among many others? How and why did
+Dewey’s ideas travel the world? How did the uptake of Dewey’s ideas and
+their subsequent reconfiguration relate to Dewey’s projects and ideas on
+philosophy and educational theory? What was the relationship between
+
+[p. 11] [PDF page 29]
+
+the needs created by the expansion of capitalism across the world and what
+progressive education (and Dewey’s version of it in particular) had to offer?
+What was the role played by Protestant schools in the dissemination of
+Dewey’s ideas? Why did oppressive regimes embrace Dewey’s pedagogical
+ideas even as they were wrenched from their philosophical bearings? Why
+were certain issues—such as the treatment of gender and diversity, which
+might have led to a critical discussion of Dewey and of progressive edu-
+cation, as well as the limits to the democratic process’s self-correction as
+envisioned by Dewey—neglected in almost all recipient contexts? How and
+why was Dewey’s thought “mutilated” from its foundations in pragmatism
+or interpreted in various ways? What were the intellectual and ideological
+configurations that mediated these readings?
+    Part I of this collection is entitled “Reading Dewey in The Hispanic
+American World: Legitimizing Modernization.” It opens with “The Read-
+ings of John Dewey’s Work and the Intersection of Catholicism: The Cases
+of the Instituci6n Libre de Ensefanza and the Thesis of Father Alberto Hur-
+tado, S.J. on Dewey,” authored by Rosa Bruno-Jofré and Gonzalo Jover.
+The authors analyzed the international flows and the intersections and
+mediations in the formation of locally rooted configurations of ideas. The
+intersection of Catholicism was relevant in the two scenarios, although the
+mediations were substantially different. Father Hurtado, a Chilean Jesuit
+priest and graduate from Louvain University in 1935, who had an impor-
+tant educational presence in Chile, did a Catholic reading to articulate
+Dewey’s pedagogical thinking with transcendence. Hurtado’s reading of
+Dewey, whose work was rejected by the hierarchy of the Catholic Church,
+provided a way for Catholics to incorporate progressive ideas in education
+in a country where those ideas were part of the secular political imagery (p.
+36). The members of the Spanish Institucién Libre de Ensenanza performed
+an Anti-Catholic reading of Dewey and wanted to liberate education from
+religious dogmatism, but still kept a transcendental vision of the humane.
+The debate on religion and the power of the Catholic Church over educa-
+tion was in the background. Bruno-Jofré and Jover, who take care to create
+a “dialogue” among the texts while delving into the specific political and
+cultural backgrounds, argue that the pedagogical and political readings
+led to “mutilated” but living readings of Dewey’s work that generated new
+variants of progressive education.
+   The second chapter in this part, entitled “Dewey in Argentina (1916—
+1946): Tradition, Intention, and Situation in the Production of a Selec-
+tive Reading,” is authored by Marcelo Caruso from Humboldt University,
+Berlin, and Inés Dussel from the Facultad Latinoamericana de Ciencias
+Sociales, Argentina. The chapter engages in a rich analysis of the political
+and cultural context and its internal conflicts and tensions. The intellectual!
+and political journey of the supporters of the New Education Movement,
+which led to what the authors refer to as a depoliticized version of Dewey
+as an educational reformer, resulted in the relationship between democracy
+
+[p. 12] [PDF page 30]
+
+and education being reduced to a form of “didactics.” The chapter brings
+to the readers sources of the time and the teachers’ press, and also a careful
+examination of the role played by the liberal and Catholic traditions in the
+reading of foreign models and works. Caruso and Dussel concluded that
+“tradition, intention, and situation were key determinants in configuring
+a pattern of reading that marginalized Dewey’s work and, when it was
+considered in educational discussions, reduced its complexity to technical
+aspects of renewed pedagogies and active schools” (p. 54).
+   The third chapter in Part I, entitled “Ruralizing Dewey: The American
+Friend, Internal Colonization and the Action School in Post-Revolutionary
+Mexico (1921-1940),” is authored by Rosa Bruno-Jofré and Carlos Mar-
+tinez Valle. The chapter focuses on how and to what extent Dewey’s ideas
+were adopted by, and adapted to, the political and educational elite of post-
+revolutionary Mexico. It provides a careful political, cultural, and socio-
+economic context of reception and an examination of the various points of
+entry of Dewey’s ideas, and leads the reader to a discussion of the political
+and educational debates of the time that mediated the reception of inter-
+national ideas. An important starting point is the notion taken from Luh-
+mann that the school system is not a closed one, and that the inter-relation
+among education, politics, and society transforms the meaning of the edu-
+cational projects and proposals in contexts which are different from those
+in which the ideas were conceived. The authors strongly relate the building
+of Mexicanidad (nation building) to the incorporation, or integration, of
+the rural and indigenous population within a contradictory and eclectic
+modernizing project. Although the analysis of the pattern of educational
+discourse moves the discussion to the various tendencies inside the Mexi-
+can Secretaria de Educacion Publica, the last part of the chapter centers on
+the analysis of the work of Rafael Ramirez. He was a progressive educator
+within the contextual understanding of progressive education, a long-time
+officer at the Ministry of Education who devoted his life to rural education’
+as a Civilizing mission to develop a rural civilization.
+   Part II, entitled “Reception and Appropriation Of Dewey’s Ideas In East
+Asia,” includes two chapters. The first is “The Chinese Dewey: Friend,
+Fiend, and Flagship” by Barbara Schulte from Lund University, Sweden.
+This is a sophisticated analysis of the way Dewey was adopted, interpreted,
+and transformed throughout four time periods in China: during the Repub-
+lican era (1912-1949), after the Communist take-over in 1949, after Deng
+Xiao-ping’s launch of the “Four Modernizations” in the 1980s, and in
+present-day China. This chapter pays attention not only to the dissemina-
+tion of Dewey’s ideas through his presence, his students, and his transla-
+tors, but also to his public persona and his networks. As in other spaces
+of reception, his ideas, the author writes, were received through a prism of
+collective experiences (old and new) and through Dewey’s alliances with
+Chinese friends involved in the processes of change. Schulte also points
+out that Dewey was convinced that his ideas were transferrable to other
+
+[p. 13] [PDF page 31]
+
+cultures. This belief was in line with the desire on the part of some Chinese
+to embrace something different from their own tradition, mainly democ-
+racy and science. Schulte makes clear that it was not only the case of the
+American philosopher loved or detested, but that the writings on Dewey
+had in mind the Chinese Duwei in the ways in which his thinking had been
+appropriated or critiqued. As expected, Dewey was not well accepted dur-
+ing the Marxist era, on political and epistemological grounds. Of course,
+Dewey’s “aimless education” was not only a wrong theory, but it was con-
+strued as one that aimed at keeping workers ignorant. In the last part of the
+chapter, Schulte explores the comeback of Dewey’s ideas in the 1980s and
+in recent debates focusing on individuality, creativity, and talent as well as
+on the slippery discourse of “quality education.”
+    The second chapter is “Re-Contextualizing Foreign Influence in Japan’s
+Educational History: The (Re)Reception of John Dewey,” by Jeremy Rap-
+pleye of Tokyo University. The author makes a significant contribution to
+the understanding of the reception in the early twentieth century and the
+enthusiastic re-reception of Dewey’s ideas in the period from the end of
+World War II until the early 1960s. Dewey’s visit to Japan in the spring
+of 1919 at the time of the Taisho democracy movement did not then have
+a major impact. The educational and intellectual scene was dominated by
+traditional neo-Confucian, nativist, and German ideas. Rappleye carefully
+analyzes how Dewey’s ideas were interpreted and transformed by his Japa-
+nese audience and how they interacted with pre-existing knowledge tradi-
+tions. Again, as happened in other recipient contexts, Dewey’s pedagogy
+was separated from its pragmatic roots, not, Rappleye argues, for the sake
+of the individual but rather for the sake of the nation. The chapter walks
+the reader through the ideological context of World War II and moves on
+to unravel what the author calls the post-war Dewey “boom” through the
+examination of the intellectual, political, and ideological changes that led
+to a re-definition of educational knowledge. It was a time when the liberals
+emerged strong and able to promote liberal ideas, while the pre-eminence
+of American ideas, including educational ones, in the post-war era is a topic
+to consider. One of the fascinating arguments Rappleye follows throughout
+the chapter is that Japan’s traditions regrouped and reasserted themselves
+after a cultural opening. In fact, the author writes that Japan is displaying
+today one of the most aggressive reassertions of traditional forces at any
+time since the end of World War II.
+   Part III, entitled “Dewey in the Luso-Afro-Brazilian Space,” contains one
+chapter, “Diffusion-Reception Networks of Pedagogical Knowledge: The
+Circulation of John Dewey’s Educational Discourse in the Luso-A fro-Brazil-
+ian Space,” authored by Ana Isabel Madeira from the University of Lisbon.
+The originality of this chapter resides in its attempt to clarify John Dewey’s
+contribution while setting an axis for a historical-comparative approach in
+the lusophone space by identifying some of the distinctive components of
+the educational transfers between Portugal, Africa, and Brasil. The author
+
+[p. 14] [PDF page 32]
+
+acknowledges Antonio Novoa’s vision of the lusophone space as a theoreti-
+cal field with its own specificity. The overall interpretation is influenced by
+Thomas Popkewitz’s theoretical stand on pragmatism, particularly by his
+notion of pragmatism as a cultural thesis with a rationality and articulated
+conditions of possibilities that could be applied to the invention of the mod-
+ern self as well as to social change. The chapter uses Popkewitz’s metaphor of
+“traveling libraries” to signify, in the author’s words, “the combination and
+adjustment of different pedagogical and ideological standpointss, and the
+resulting intelligibility conferred onthe changing processes” (p. 152).
+    Part IV, “Political and Social Contours Framing the Uptaking Of Dew-
+ey’s Ideas in Western and Eastern Europe,” includes two chapters. The
+first, “John Dewey and the Development of Education in Russia before
+1930: Report on a Forgotten Reception” is authored by Irina Mchitarjan
+from Ernst-Moritz-Arndt University, Greisfswald, Germany. The chap-
+ter was originally published in Studies in Philosophy of Education and
+is reprinted with permission. It examines the reception of Dewey’s work
+in Russia between 1900 and 1930 and the place of his work in the peda-
+gogical discussion in Russia and in the processes of educational reform.
+The author provides a rich understanding of the historical and social con-
+text framing of the period she analyses, including a helpful understand-
+ing of the positions of A.V. Lunacharskii and N.K. Krupskaia, two Soviet
+pedagogues who had great influence in various parts of the world and,
+in particular, among Latin American progressive educators of the 1920s
+and 1930s. Mchitarjan discusses the specificity of the reception of Dew-
+ey’s ideas before 1917, at a time when his pedagogical ideas attracted the
+attention of different tendencies within pedagogical reformism. In fact, the
+reception of his pedagogy started in 1907. The author makes the case that
+Dewey had a role as important as Kerschensteiner in the development of
+the Russian educational system, by analyzing both the reception of Dewey
+by the advocates of “free education” and those of a “realistic education”
+and the plans of Minister of Education Pavel Ignatiev. The author explains
+on philosophical and political grounds how and why after 1917 the official
+pedagogues of Soviet Russia incorporated Dewey’s ideas in the construc-
+tion of integrated, polytechnic work schools. Finally, the chapter provides
+a crafted discussion of the political and ideological environment after 1928
+that led to a rejection of Dewey’s pedagogical ideas. The alleged political
+intentionality of Dewey’s writings became the lens filtering the reading
+of his work. The imposition of freedom by authoritarian means was far
+beyond Dewey’s understanding of education.
+    The second chapter in this part is “A ‘New Republic’? The Debate
+between John Dewey and Walter Lippman and its Reception in Pre-and
+Postwar Germany,” authored by Norbert Grube from Zurich University
+of Teacher Education. The author diligently examines through a histori-
+cal lens the German reception of two different concepts of education,
+people’s instruction developed by Walter Lippmann, and public education,
+
+[p. 15] [PDF page 33]
+
+advocated by John Dewey. The chapter leads the reader by an examination
+of Lippmann’s books such as Public Opinion (1922) and The Phantom
+Public (1925) and Dewey’s The Public and Its Problems (1927) and Free-
+dom and Culture (1939) to explore two different concepts of democracy
+that share a similar perception of modernity. The New Republic was the
+stage where the Dewey-Lippmann debate was displayed. German national-
+ism and Nazism, fascism in other parts of Europe, and the perceived power
+of mass media and rapid social change framed the debate and influenced
+the reception of their ideas before and after 1945. Both authors were con-
+cerned with decreasing engagements in the ability of people to participate
+in political affairs. The author discusses the proclivity to devaluate pragma-
+tism in the 1920s and 1930s and the fear of American supremacy as well as
+the relevance of German notions of national communities and their inter-
+section with the ideas of Dewey and Lippmann. Grube then engages the
+reader in a vigorous analysis of the intellectual and ideological interactions
+with Dewey’s and Lippman’s views, and carefully examines the historical
+context to explain how their concepts of democracy and education were
+transformed and intermingled after 1945 in Germany.
+   The volume closes with an Afterword entitled “Intersections, Opposi-
+tions, and Configurations in the Transnational Readings of Dewey” written
+by philosopher of education James Scott Johnston from Queen’s University.
+Johnston makes the connection between Dewey’s texts and the texts pro-
+duced by the authors. As a philosopher he responds to the questions: “What
+happened to Dewey’s texts when they were read by transnationals whose
+experiences were of a different place and in some cases, time; in a different
+language; ina different set of political-socio-economic realities? What hap-
+pened to Dewey’s texts when these readings were put into practice against
+these realities?” This is a hermeneutical undertaking using three ideal types
+to understand the connections: intersection (the convergence of Dewey’s
+and readers’ interpretative statements posed as a hermeneutical problem),
+oppositions (divergence of Dewey’s statements from subsequent readings),
+and configurations (a novel understanding that Dewey’s text(s) takes). Each
+of the contributing authors to this volume delineates one or other aspects of
+these ideal types. In so doing, they help us to see the connections between
+Dewey’s texts and subsequent uptakes.
+
+
+NOTES
+
+   1. Cf. Philip Altbach, The Knowledge Context. Comparative Perspectives on
+      the Distribution of Knowledge (Albany: State University of New York Press,
+     1987), or, with a special focus on education, Gita Steiner-Khamsi, ed., The
+     Global Politics of Educational Borrowing and Lending (New York: Teach-
+     ers College Press, Columbia University, 2004).
+  2. Georg Kriicken and Gili $. Drori, eds., World Society. The Writings of John
+     W. Meyer (Oxford: Oxford University Press, 2009).
+
+[p. 16] [PDF page 34]
+
+3) Cf., among others, George M. Thomas, John W. Meyer, Francisco O.
+  Ramirez, and John Boli, Institutional Structure—Constituting state, soct-
+  ety, and the individual (Newbury Park, CA: Sage Publications, 1987); Rob-
+  ert Fiala and Audri Gordon Lanford, “Educational Ideology and the World
+  Educational Revolution, 1950-1970,” Comparative Education Review 31,
+  no. 3 (1987): 315-32; Colette Chabbott, Instructing Education for Devel-
+  opment (New York and London: RoutledgeFalmer, 2003); Gili S.Drori,
+  John W. Meyer, Francisco O. Ramirez, and Evan Schofer, Science in the
+  Modern World Polity. Institutionalization and Globalization (Stanford,
+  CA: Stanford University Press, 2003); and Pauli Davila and Luis Maria
+  Naya, eds., Infancia, Derechos y Educacion en América Latina (Donostia:
+  Erein, 2010).
+ . See e.g., Kerstin Sahlin-Andersson and Lars Engwall, The Expansion of
+   Management Knowledge. Carriers, Flows, and Sources (Stanford, CA: Stan-
+   ford University Press, 2002); $. Diaz-Briquets and C. C. Cheney, Biomedical
+   Globalization: The International Migration of Scientists (New Brunswick,
+  NJ: Transaction, 2002); and Christophe Charle, Jiirgen Schriewer, and Peter
+    Wagner, eds, Transnational Intellectual Networks. Forms of Academic
+    Knowledge and the Search for Cultural Identities (Frankfurt am Main and
+    New York: Campus, 2004).
+Os John Boli and George M. Thomas, eds, Constructing World Culture. Inter-
+    national Nongovernmental Organizations since 1875 (Stanford, CA: Stan-
+    ford University Press, 1999).
+  . See Rosa Bruno-Jofré, James Scott Johnston, Gonzalo Jover, and Daniel
+    Trohler, Democracy and the Intersection of Philosophy and Traditions: The
+    Readings of John Dewey’s Understanding of Democracy and Education
+  (Kingston and Montreal: McGill-Queen’s University Press, 2010), 3-15; and
+  James Scott Johnston, Afterword in this volume.
+I See, e.g., Eugenia Roldan Vera, The British Book Trade and Spanish Ameri-
+  can Independence—Education and Knowledge Transmission in Transconti-
+  nental Perspective (Aldershot: Ashgate, 2003), and Jana Tschureney, Imperial
+  Experiments in Education: Monitorial Schooling in India, 1789-1835 (PhD
+  diss., Humboldt University, Berlin, 2009).
+ . Cf. in particular Bénédicte Zimmermann, Claude Didry and Peter Wagner,
+   eds, Le travail et la nation. Histoire croisée de la France et de l’'Allemagne.
+  (Paris: Editionsde la Maison des Sciences de ’Homme, 1999), as well as
+  Michael Werner and Bénédicte Zimmermann, eds, De la comparaison a
+  Vhistoire croisée (Paris: Seuil, 2004).
+ . As demonstrated, among others, by Thomas S. Popkewitz, ed., Inventing the
+  Modern Self and John Dewey: Modernities and the Traveling of Pragmatism
+  in Education (New York: Palgrave Macmillan, 2005)
+ . We refer here to the model of “diffusion” processes outlined by David Strang
+   and John W. Meyer, “Institutional conditions for diffusion,” Theory and
+  Society 22 (1993), 487-511.                                             :
+ . Cf. Jiirgen Schriewer and Carlos Martinez, “Constructions of Interna-
+   tionality in Education,” in The Global Politics of Educational Borrowing
+   and Lending, ed. Gita Steiner-Khamsi (New York: Teachers College Press,
+   Columbia University, 2004), 29-53, and Edwin Keiner and Jiirgen Schriewer,
+   “Erneuerung aus dem Geist der eigenen Tradition? Uber Kontinuitat und
+   Wandel nationaler Denkstile in der Erziehungswissenschaft,” in Weltkultur
+   und kulturelle Bedeutungswelten. Zur Globalisierung von Bildungsdts-
+   kursen, ed. Jiirgen Schriewer (Frankfurt am Main and New York, Campus,
+  2007), 321-348.
+
+[p. 17] [PDF page 35]
+
+12: Jurgen Schriewer and Marcelo Caruso, eds, Nationalerziehung und Univer-
+    salmethode—friihe Formen schulorganisatorischer Globalisierung (Leipzig:
+    Leipziger Universitatsverlag, 2005), in particular 7-30.
+133 Cf. the analyses by Jiirgen Schriewer, “Multiple Internationalities: The Emer-
+    gence of a World-Level Ideology and the Persistence of Idiosyncratic World-
+    Views,” in Transnational Intellectual Networks, ed. Charle et. al., 473-533;
+    as well as “Wie global ist institutionalisierte Weltbildungsprogrammatik?
+    Neo-institutionalistische Thesen im Licht kulturvergleichender Analysen,”
+    in Weltgesellschaft—Theoretische Zugdnge und empirische Problemlagen,
+    eds. Bettina Heintz, Richard Miinch, and Hartmann Tyrell (Stuttgart: Lucius
+    and Lucius, 2005), 415-41.
+14. Cf., among others, Martin Albrow and Elizabeth King, eds, Globaliza-
+     tion, Knowledge and Society. Readings from International Sociology
+     (London etc., Sage Publications, 1990); Nikolai Genov, ed., National
+     Traditions in Soctology (London etc., Sage Publications, 1989), as well
+     as Michael Kuhn and Doris Weidemann, eds., Internationalization of
+     the Social Sciences. Asia-Latin America—Middle East-Africa—Eurasia
+     (Bielefeld: transcript, 2010).
+ily. See in this sense Neil J. Smelser, “Internationalization of Social Science
+     Knowledge,” American Behavioral Scientist 35, no. 1 (1991), 65-91.
+16. See, e.g., Jiirgen Oelkers and Heinz Rhyn, eds., Dewey and European
+     Education—General Problems and Case Studies, special issue of Studies
+    in Philosophy and Education 19, nos. 1-2 (2000), as well as Rosa Bruno-
+    Jofré, James Scott Johnston, Gonzalo Jover and Daniel Trohler, Democracy
+    and the Intersection of Philosophy and Traditions: The Readings of John
+     Dewey’s Understanding of Democracy and Education (Kingston and Mon-
+    treal: McGill-Queen’s University Press, 2010). For the Asian context, see in
+    particular Sor-hoon Tan and John Whalen-Bridge, eds, Democracy as Cul-
+    ture: Deweyan Pragmatism in a Globalizing World (Albany, NY: State Uni-
+    versity of New York Press, 2008); Sor-hoon Tan, Confucian Democracy: A
+    Deweyan Reconstruction (Albany, NY: State University of New York Press,
+    2004); Sor-hoon Tan, ed., Challenging Citizenship: group membership and
+    cultural identity in a global age (Hampshire, UK: Ashgate Publishing, 2005)
+    as well as Ching-Sze (Jessica) Wang, John Dewey in China: to Teach and to
+    Learn (Albany, NY: State University of New York Press, 2007).
+ We Tom Popkewitz, ed., “Inventing the Modern Self and John Dewey: Moder-
+    nities and the traveling of pragmatism in education—an introduction,” in
+    Inventing the Modern Self and John Dewey: Modernities and the Traveling
+    of Pragmatism in Education, ed. Thomas S. Popkewitz (New York: Palgrave
+    Macmillan, 2005), 3-35, quote p. 9.
+18. Bruno-Jofré, Johnston, Jover, and Trohler, Democracy and the Intersection
+    of Religion and Traditions, 4.
+19: Jiirgen Schriewer, “World System and Interrelationship Networks,” in Edu-
+    cational Knowledge: Changing Relationships between the State, Civil Soct-
+    ety, and the Educational Community, ed. Thomas S. Popkewitz (Albany:
+    State University of New York Press, 2000), 305-43.
+20. As couched by Gita Steiner-Khamsi and Ines Stolpe, Educational Import:
+    Local Encounters with Global Forces in Mongolia (New York: Palgrave
+    Macmillan, 2006).
+2 See, e.g., Comparative Methodologies in the Social Sctences—Cross-Dis-
+    ciplinary Inspirations, ed. Jiirgen Schriewer, special issue (32) of Compara-
+    tiveEducation 42, no. 3 (2006), especially the articles by Schriewer, Mjoset,
+    Siegrist and Sachsenmaier.
+
+[p. 18] [PDF page 36]
+
+2m Cf. the pioneering works by Michel Espagne, Les transferts culturels franco-
+       allemands (Paris: Pressses Universitaires de France, 1999) as well as, among
+       others, Immanuel Wallerstein, World Systems Analysis (Durham and Lon-
+       don: Duke University Press, 2004); Rudolf Stichweh, Dre Weltgesellschaft.
+     Soziologische Analysen (Frankfurt am Main: Suhrkamp, 2000), and Frank J.
+     Lechner and John Boli, World Culture. Origins and Consequences (Oxford:
+     Blackwell, 2005).
+U3). See for example Michel Espagne and Michael Werner, eds, Philologiques I.
+     Contribution a Uhistoire des disciplines littéraires en France et en Allemagne
+       au XIXe    siécle (Paris: Editions   de la Maison    des Sciences   de Homme,
+       EEX).
+    24. Gabriele Cappai, Modernisierung, Wissenschaft, Demokratie: Untersu-
+        chungen zur italienischen Rezeption des Werkes von Max Weber (Baden-
+        Baden: Nomos, 1994); Michael Pollak, “Die Rezeption Max Webers in
+        Frankreich. Fallstudie eines Theorietransfers in den Sozialwissenschaften,”
+        K6élner Zeitschrift fiir Soziologie und Sozialpsychologte 38, no. 4 (1986),
+        670-84; Wolfgang Schwentker, Max Weber in Japan—Eine Untersuchung
+       zur Wirkungsgeschichte 1905-1995 (Tubingen: Mohr Siebeck, 1998), and
+       Detlef Kantowsky, “Die Rezeption der Hinduismus/ Buddhismus-Studie
+       Max Webers in Siidasien. Ein Missverstandnis,” Archives Européennes de
+       Soctologie 23, no. 2 (1982), 317-55.
+    PSS Masao Terasaki and others, Oyatoi Kyoshi Emil Hausknecht no Keukyu
+        (Tokyo: University of Tokyo Press, 1989). Equally informative are, e.g.,
+        the essays addressing the theoretical and political adoption of Jean Piaget
+        during different periods of time in France, Argentina, and Brazil, which
+        are assembled in Barbara Freitag, ed., Piaget: 100 anos (Sao Paulo: Cortez
+        Editoran 1997)
+    26. Gabor Klaniczay, Michael Werner and Otto Gécser, eds, Multiple Antiq-
+        uities—Multiple Modernities. Ancient History in Nineteenth-Century
+        European Cultures (Frankfurt am Main and New York: Campus, 2011);
+        Margaret Malamud, Ancient Rome and Modern America (Malden, Mass.:
+        Wiley-Blackwell, 2009), and Johann Chapoutot, Le National-Socialisme et
+        l’Antiquité (Paris: Presses Universitaires de France, 2008).
+    Pa. See, e.g., Bertrand Badie, L’Etat importé. Essai sur l’occidentalisation de
+        l’ordre politique (Paris : Fayard, 1992), as well as Klaus Schlichte, Der Staat .
+        in der Weltgesellschaft. Politische Herrschaft in Asien, Afrika und Latein-
+        amerika (Frankfurt am Main and New York: Campus, 2005).
+    28. Cf. Bertrand Badie, “Analyse comparative et sociologie historique,” Revue
+        internationale des sciences sociales, no. 133 (August 1992), 363-72.
+    BD: Cf., among others, Hans-Robert Jauss, Die Theorie der Rezeption—Riick-
+        schau auf thre unerkannte Vorgeschichte. Konstanzer Universitatsreden, no.
+        166 (Konstanz: Universitatsverlag Konstanz, 1987); Wolfgang Iser, Der Akt
+        des Lesens: Theorie aesthetischer Wirkung (Miinchen, Fink, 4th ed. 1994),
+        and Robert C. Holub, Crossing Borders—Reception Theory, Poststructur-
+        alism, Deconstruction   (Madison,     Wisconsin:   The University of Wisconsin
+        IP,    U2).
+       - Martyn P. Thompson, “Reception Theory and the Interpretation of Histori-
+         cal Meaning“, History and Theory 32 (1993), 248-272, quote p. 251.
+    obi Niklas Luhmann, The Differentiation of Society, translated by Stephen Hol-
+         mes and Charles Larmore (New York: Columbia University Press, 1982).
+    32h Jiirgen Schriewer, “The Method of Comparison and the Need for External-
+         ization,” in Theories and Methods in Comparative Education, ed. Jurgen
+         Schriewer (Frankfurt am Main, Berlin: Peter Lang, 3“ edition 1992), 25-83
+         as well as Jiirgen Schriewer, “Reference Societies and Model Constructions,”
+
+[p. 19] [PDF page 37]
+
+in The Public Sector in Transition. East Asia and the European Union Com-
+   pared, eds, Joachim Jens Hesse, Jan-Erik Lane and Yoichi Nishikawa (Baden-
+    Baden: Nomos, 2007), 85-102.
+33. Niklas Luhmann, Politische Theorie im Wohlfabrtsstaat (Munich and
+     Vienna: Olzog, 1981), quotes on p. 40 and 68.
+   . Cf., among others, Michel Espagne, Les transferts culturels franco-alle-
+    mands   (Paris: Presses Universitaires   de France,   1999); Matthias Middell,
+    ed., Kulturtransfer und Vergleich (Leipzig: Leipziger Universitatsverlag,
+    2000); Hartmut Kaelble and Jiirgen Schriewer, eds, Vergletch und Transfer
+    (Frankfurt am Main and New York: Campus, 2003), and Barbara Schulte,
+    ed., Transfer Lokalisiert: Konzepte, Akteure, Kontexte (Leipzig: Leipziger
+    Universitatsverlag, 2006).
+3). Katharina Holzinger, Helge Jorgens and Christoph Knill, eds, Transfer, Dif-
+    fusion und Konvergenz von Politiken (Wiesbaden: Verlag fiir Sozialwissen-
+    schaften, 2007).
+BG; Gita Steiner-Khamsi, ed., The Global Politics of Educational Borrowing
+    and Lending (New York and London: Teachers College Press, 2004); Linda
+    Chisholm and Gita Steiner-Khamsi, eds, South-South Cooperation in Edu-
+    cation and Development (New York and London: Teachers College Press;
+     Cape Town: HSRC Press, 2009), and Jeremy Rappleye, Educational Policy
+     Transfer in an Era of Globalization: Theory—History-Comparison (Frank-
+     furt am Main, Berlin: Peter Lang, forthcoming 2011).
+Bike Pierre Bourdieu, “Les conditions sociales de la circulation internationale
+     des idées,” Romanistische Zeitschrift fuer Literaturgeschichte/ Cahiers
+    d’Histoire des Littératures romanes 14, nos. 1-2 (1990), 1-10.
+38. See for this term Martyn P. Thompson, “Reception Theory and the Interpre-
+    tation of Historical Meaning,” History and Theory 32 (1993), 252.
+32) This general shift has well been traced by an examination of the relevant
+    research literature by Matthias Middell, “Kulturtransfer und Historische
+    Komparatistik-Thesen zu ihrem Verhaltnis,” Comparativ-Letpziger Beitrage
+    zur Universalgeschichte und vergleichenden Gesellschaftsforschung 10, no.
+    1 (2000), 7-41.

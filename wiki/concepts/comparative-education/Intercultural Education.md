@@ -178,3 +178,4 @@ updated: 2026-10-09
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] 追踪比较教育与跨文化教育从建制分离到重新合流的过程，并将文化配置视为比较研究的重要分析对象。
 > - [[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 188–191)]] 通过法国双文化资格、德国承认争议和跨五国学习的学生案例，显示文化交往受招生、资格与国内公平制度制约。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] 考察西班牙面对移民结构剧变推行的跨文化取向（intercultural approach），揭示学校空间容纳与多元文化教育的治理张力。

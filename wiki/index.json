@@ -1518,6 +1518,18 @@
     ]
   },
   {
+    "title": "Student Mobility",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Student Mobility.md",
+    "aliases": [
+      "学生流动性",
+      "学生流动",
+      "跨国学生流动",
+      "student mobility",
+      "pupil mobility"
+    ]
+  },
+  {
     "title": "Technologies of Exclusion",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Technologies of Exclusion.md",
@@ -18326,6 +18338,15 @@
     ]
   },
   {
+    "title": "Social Cartography",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Social Cartography.md",
+    "aliases": [
+      "社会制图学",
+      "社会地图学"
+    ]
+  },
+  {
     "title": "Stories as Research Data",
     "type": "method",
     "path": "wiki/methods/qualitative/Stories as Research Data.md",
@@ -32946,6 +32967,16 @@
     ]
   },
   {
+    "title": "Plyler v. Doe 1982",
+    "type": "fact",
+    "path": "wiki/facts/us/Plyler v. Doe 1982.md",
+    "aliases": [
+      "普莱勒诉多伊案",
+      "Plyler v. Doe",
+      "457 U.S. 202"
+    ]
+  },
+  {
     "title": "Public Impact-Focused Research",
     "type": "fact",
     "path": "wiki/facts/us/Public Impact-Focused Research.md",
@@ -34135,6 +34166,11 @@
     "path": "wiki/arguments/books/Argument_Li_2012_Cambridge.md"
   },
   {
+    "title": "Argument_BrunoJofre_Schriewer_2012_Routledge",
+    "type": "argument",
+    "path": "wiki/arguments/books/BrunoJofre_Schriewer_2012_Routledge/Argument_BrunoJofre_Schriewer_2012_Routledge.md"
+  },
+  {
     "title": "Argument_Cheng_2026_KeJiChuangXin",
     "type": "argument",
     "path": "wiki/arguments/books/Cheng_2026_KeJiChuangXin/Argument_Cheng_2026_KeJiChuangXin.md"
@@ -34348,6 +34384,11 @@
     "title": "Argument_Rust_2009_Reflections",
     "type": "argument",
     "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rust_2009_Reflections.md"
+  },
+  {
+    "title": "Argument_Sobe_Fischer_2009_MobilityMigration",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Sobe_Fischer_2009_MobilityMigration.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

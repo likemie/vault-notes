@@ -162,6 +162,7 @@ updated: 2026-09-27
 > - **中央标准与地方测试落实** 各州依据联邦框架制定阅读与数学学术标准，并在 3–8 年级及高中阶段推行年度全员统考；学校与学区被强制要求公开发布按种族、家庭收入、特殊教育需求及英语学习者（EL）分层的学生学业细分报告。
 > - **非学校情境缺失引发的治理危机** [[Argument_Downey_2016_SoE\|Downey & Condron (2016, pp. 10–11)]] 指出，NCLB 最初实施时完全依赖单一时间点的绝对通过率来评估学校，未对校际之间显著的非学校环境（如家庭社会经济地位差距）进行任何统计调整。由于校际成就差距在儿童进入幼儿园时便已广泛成型，这种不考虑情境的静态考评在方法学与教育学上毫无道理。
 > - **向增值评估（Value-Added Assessments）的制度转变** 面对治理危机，多州在执行后期逐步摒弃静态通过率，转向运用统计模型分离学校净增贡献的增值评估模型。Downey & Condron 将这一转变定性为“情境方的一次值得关注的胜利”（a noteworthy acknowledgment by policymakers that context matters），表明政策制定者被迫承认了学校外部社会环境的基础性作用。([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p. 11]])
+> - **学校报告卡与学生流动的病态化编码** 法案强制推行的“学校报告卡”（School Report Card）要求公开追踪中小学生的学年中途转校率（[[Student Mobility|学生流动性]]）。在问责指标体系中，学生流动被问题化为表征贫困、家庭破裂与学业失败的“流动漂泊”（Transiency），并被学校管理层视作解释未能达成 AYP 绩效目标的潜在推卸借口或失范指标，折射出空间治理术将不服从空间圈禁的学生界定为越轨群体的规训逻辑。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
 
 > - **各州标准碎片化与“竞相向下沉沦”（Race to the Bottom）** NCLB 授权各州自主界定“熟练”（proficient）标准并选择统考测验，导致全美形成 50 套互不可比的割裂标准。为规避未达 AYP 带来的严厉联邦制裁与重组处罚，大量州政府纷纷采取下调考试及格线、简化试题难度的“战略性妥协”。美国国家教育统计中心（National Center for Education Statistics, NCES, 2007）的实证映射研究确证，部分州报告的高达 80%–90% 的熟练率在国家教育进展评估（[[National Assessment of Educational Progress|NAEP]]）标准下仅对应 30% 左右的真实熟练水平。各州间的巨大差距与竞相向下沉沦的逆向激励，直接暴露了 NCLB 分权标准的制度失灵，为后续推动全美统一的[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）提供了最直接的危机动员依据。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
 
@@ -243,4 +244,6 @@ updated: 2026-09-27
 > | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] | 论证条目 | 深入论证了 NCLB 法定授权与经常性预算对[[Educational Brokerage Agency\|证据中介机构]]跨越政党选举周期的关键制度护城河作用。 |
 > | [[Randomised Controlled Trials]] | 研究方法 | NCLB 法定界定中明确偏好的“黄金标准”[[Paradigm\|研究范式]]。 |
 > | [[Quasi-Experimental Designs]] | 研究方法 | NCLB 认可的实证[[Causality\|因果推断]]方法之一。 |
+> | [[Student Mobility\|学生流动性]] | 概念 | NCLB 将学年中途转校率作为学校报告卡的核心指标，将其问题化为学业危机与学校失范的表征。 |
+> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 论证条目 | 揭示 NCLB 学校报告卡将学生流动性建构为失范指标与人口治理规训工具的机制。 |
 
