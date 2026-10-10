@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Spatial Governmentality",
+      "path": "wiki/theories/sociology-of-education/Spatial Governmentality.md"
+    },
+    {
       "basename": "Argument_Sobe_Fischer_2009_MobilityMigration",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Sobe_Fischer_2009_MobilityMigration.md"
     },
     {
       "basename": "Hukou System",
       "path": "wiki/facts/china/Hukou System.md"
+    },
+    {
+      "basename": "Enlightenment",
+      "path": "wiki/concepts/educational-philosophy/Enlightenment.md"
     },
     {
       "basename": "No Child Left Behind Act 2001",
@@ -191,14 +199,6 @@
     {
       "basename": "National Innovation System",
       "path": "wiki/concepts/university-industry-collaboration/National Innovation System.md"
-    },
-    {
-      "basename": "Directionality of Innovation",
-      "path": "wiki/concepts/science-policy/Directionality of Innovation.md"
-    },
-    {
-      "basename": "Triple Helix",
-      "path": "wiki/theories/university-industry-collaboration/Triple Helix.md"
     }
   ],
   "omittedPaths": [],
