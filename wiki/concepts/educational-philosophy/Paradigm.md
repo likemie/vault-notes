@@ -3,8 +3,6 @@ title: Paradigm
 aliases:
   - 范式
   - paradigms
-  - paradigm shift
-  - 范式转换
   - Kuhn's paradigm
   - 研究范式
 summary: "研究共同体共享的世界观、信念体系与原则集合，涵盖本体论、认识论与方法论承诺，决定何为合法的科学知识；在比较教育百年脉络中历经历史文化全景、实证主义论战与当代多元自创生范式重构。"
@@ -80,7 +78,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-29
+updated: 2026-10-12
 ---
 
 # Paradigm

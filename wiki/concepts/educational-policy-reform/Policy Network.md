@@ -115,6 +115,11 @@ updated: 2026-10-12
 > - **理论用途** 一方面用于解构中立循证[[Discourse|话语]]背后的公私利益共生、跨界[[Co-affiliation\|共同从属]]与财政逆向再分配，另一方面用于诊断国家[[Evidence Ecosystem\|教育证据生态系统]]中信息流通的密度、频率与结构性梗阻。
 > - **制度边界** 既不同于严格遵循科层命令与公开问责的传统[[Bureaucracy|官僚制]]政府（Bureaucracy），也不同于松散自由的纯学术研讨圈，网络中的节点保持着制度化的常规互动、资金纽带、法律特许规程或人事渗透。
 
+> [!citation-card] 基克特论去中心化政策网络中科层命令的破产
+> 依照韦伯理想型，公共官僚机构是一个层级化、集中化与形式化的组织，由顶层实施理性协调。然而在现实中，政府并非服务于单一公共利益的铁板一块，而是由追求冲突利益的多元子系统构成。在由半自治专业人员构成的政策网络中，没有绝对的权力顶层，单方面强加指令性命令不仅无法达成预定目标，反而必然招致消极抵抗与治理失败。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 149–150)]]
+>
+> *In reality, government and bureaucracy are not monoliths serving one common public interest... The point of departure is that a network does not allow much (coercive) steering. Instead of choosing "more of the same" when steering fails, it should be acknowledged that certain systems are virtually uncontrollable and unorthodox methods should be applied.*
+
 > [!citation-card] 部委政务网络中的非线性解耦
 > 部委定期征询政策输入的组织类别规模与日常互动的实际频率之间并未展现出简单的线性对应关系。广泛的征询名单并不等于深度的循证决策，警惕大网络陷阱要求我们将分析焦点从形式化的网络规模转向高频、实质性的人际与制度互动（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, p. 85]]）。
 >

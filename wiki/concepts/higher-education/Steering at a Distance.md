@@ -11,7 +11,7 @@ aliases:
 summary: "20世纪80年代荷兰高等教育改革中确立的公共治理新范式，指政府放弃传统基于法规禁令与详尽事前控制的层级规制，转向扩大学校自治权、以事后产出质量评估为反馈调节机制、在部门层级实施激励性与对话式间接调控的系统治理模式。"
 type: concept
 domain: "higher-education"
-related_count: 0
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,6 +22,18 @@ tags:
   - theme/public-administration
   - region/europe
   - theme/school-autonomy
+related_concepts:
+  - "[[Policy Network]]"
+related_theories:
+  - "[[Governing at a Distance]]"
+  - "[[Governmentality]]"
+  - "[[Actor-Network Theory]]"
+related_persons:
+  - "[[Walter J. M. Kickert]]"
+related_facts:
+  - "[[Higher Education Autonomy and Quality]]"
+related_arguments:
+  - "[[Argument_Kickert_1995_Governance]]"
 confidence: high
 status: completed
 created: 2026-10-12
@@ -48,13 +60,18 @@ updated: 2026-10-12
 > *It is a departure from classical government steering by means of legislation, prohibitions and regulations and a move towards the autonomy and the delegation of responsibilities to institutions of higher education. Under the new system, intervention is restricted to ex-post facto adjustments based on quality assessments of results—in other words, feedback control output.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Governing at a Distance]]（远处治理批判理论） — 远处治理源自福柯治理术与拉图尔科学知识社会学谱系，侧重揭示新自由主义如何通过专业知识、标准化评估量规与数据基础设施在微观实践中对主体进行隐性规训与拓扑塑形；远距离操纵则是欧陆公共行政学、控制论与网络治理传统下的实证制度设计，旨在恢复国家与高校网络系统的宏观互动效能。
+> - 与 [[Governing at a Distance|远处治理（Governing at a Distance）]] 的范式分工 — 尽管两者在当代政策与社会学文献中常被作为间接规制的同义词互换使用，但在思想渊源与研究取向上存在严格分工：远距离操纵是欧陆公共行政学、控制论与政策网络传统下的实证制度设计（聚焦院校自主、统包拨款与事后反馈机制）；远处治理则是源自福柯治理术与拉图尔科学知识社会学的批判政治社会学理论（侧重揭示新自由主义如何通过专业知识、标准化评估量规与数据基础设施在微观实践中对主体进行隐性规训与拓扑塑形）。
 > - 不等于 放任型去管制化（Deregulation）与国家消极弃管 — 去管制化通常主张削减国家职能、削弱公共监管与自由放任；远距离操纵旨在重组国家调控工具、规划议程与信息反馈机制，以提升国家治理的实质有效性，属于国家能力的战略性重构。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 136, 154)]]
 > - 不等于 英美新公共管理（New Public Management, NPM）执行机构化改革（Next Steps Agencies） — 英国执行机构化改革侧重政策制定与执行的机械分拆，将公共服务交付转交由商业合同与绩效指标天梯榜约束的执行机构；远距离操纵则针对大学等学术专业网络，保留宏观双向理性对话与统包资助，不推行纯粹市场买卖契约。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 154–155)]]
 
 ---
 
 ## 概念辨析
+
+> [!genealogy] 学术谱系考证与文献同义混用辨析
+> - **双轨并行而非前后演变** 1985 年荷兰《高等教育：自主与质量》（HOAK）白皮书创设荷兰语词汇 *sturen op afstand*，后由欧陆公共行政学者 Frans van Vught (1989) 与 [[Walter J. M. Kickert|瓦尔特·基克特（Walter J. M. Kickert）]] (1995) 系统英译为 *Steering at a Distance*，旨在解决大学半自治专业网络中科层直接管制的失灵；几乎在同一时期，英国社会学家彼得·米勒与尼古拉斯·罗斯（Miller & Rose, 1990, 1992）结合福柯治理术（[[Governmentality]]）与拉图尔科学技术学（[[Actor-Network Theory]]），独立铸造了批判空间理论 *[[Governing at a Distance|远处治理]]*（Governing at a Distance）。两者在 20 世纪 80 年代末至 90 年代初双轨并行生成，并非先后承继替代。
+> - **当代文献中的功能性同义混用** 在当代政策科学、教育社会学与公共治理研究中，由于两者均指涉现代国家从直接科层指挥（“划桨”）后撤为设定框架与问责评估（“掌舵”）的整体治理转向，许多文献常将两者作为功能性近义词（Functional Synonyms）互换使用。
+> - **批判理论对实证制度的权力透析** 批判教育学者（如 Stephen Ball、Sigrid Hartong 等）频繁借用 Rose & Miller 的 [[Governing at a Distance|远处治理]] 理论，来透析现实中以 Kickert 所倡导的远距离操纵模式为代表的高校放权与质量问责改革，揭示隐藏在“自主与放权”背后的数字指标规训与主体性重塑机制。
 
 > [!contrast-table] 治理调控范式多维对比
 > | 比较维度 | 古典科层直接控制（Direct Top-down Control） | 远距离操纵（Steering at a Distance） | 市场化新公共管理（Market-based NPM） |
