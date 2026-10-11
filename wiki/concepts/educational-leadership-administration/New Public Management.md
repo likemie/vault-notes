@@ -7,7 +7,7 @@ aliases:
 summary: "以企业管理与市场竞争逻辑重塑公共部门的治理范式，强调绩效指标、产出控制、性价比核算、供给竞争、管理问责与服务外包，在带来微观成本控制的同时导致公共部门去技能化与创新治理的青蛙视角"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 54
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Public Dynamic Capabilities]]"
   - "[[Bureaucracy]]"
   - "[[Lead-and-Learn Paradigm]]"
+  - "[[Steering at a Distance]]"
   - "[[Public Value]]"
   - "[[Reflexivity]]"
   - "[[Market Failure]]"
@@ -63,6 +64,7 @@ related_instruments: []
 related_persons:
   - "[[Rainer Kattel]]"
   - "[[Mariana Mazzucato]]"
+  - "[[Walter J. M. Kickert]]"
 related_facts:
   - "[[Ofsted]]"
   - "[[Research Excellence Framework]]"
@@ -74,6 +76,7 @@ related_arguments:
   - "[[Argument_Helgetun_2022_JEP]]"
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Amos_2022_Springer]]"
+  - "[[Argument_Kickert_1995_Governance]]"
   - "[[Argument_Rizvi_2022_Springer]]"
   - "[[Argument_Eacott_2011_JEAH]]"
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
@@ -81,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-09
+updated: 2026-10-12
 ---
 
 # New Public Management
@@ -108,10 +111,16 @@ updated: 2026-10-09
 >
 > *NPM reforms brought an emphasis on cost-efficiency, outsourcing, and short-term performance metrics, imposing a 'frog view' that evaluates only micro-level visible indicators... de-skilling public agencies and hindering the dynamic capabilities needed for complex societal missions.*
 
+> [!citation-card] 盎格鲁-撒克逊 NPM 与欧陆“间接操纵”的制度分野
+> 尽管荷兰“间接远距离操纵”在扩大自主权、追求效率与强化绩效上看似与英国新公共管理“下一步行动”（Next Steps）执行机构改革存在平行性，但两者存在根本差异：Next Steps 针对的是中央政府内部的行政执行机构，而大学是历史上高度自主、独立于中央政府的学术与社会组织。且荷兰模式并非源于削弱政府的意识形态，而是为了提升多理性网络中的治理有效性并重塑政府合法性。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 154–155)]]
+>
+> *Despite apparent parallels with Dutch 'steering at a distance', Next Steps is concerned with executive agencies within central government. Universities and polytechnics are definitely not part of central government. Administrative relationships are therefore different.*
+
 > [!boundary]- 概念边界
 > - 不等于 内生私有化 — NPM 是内生私有化的核心操作机制（将商业逻辑引入公共部门内部），但内生私有化范畴更宽，涵盖商业思维进入公共系统的全部形式。
 > - 不等于 传统[[Bureaucracy|科层制]]管理 — 传统科层制强调行政规则遵从与程序规范，而 NPM 强调产出指标达标与结果问责。
 > - 不等于 [[Lead-and-Learn Paradigm|引领与学习范式]] — NPM 属于被动的“支持与衡量”框架（单点补贴与短期考核），而引领与学习范式强调国家主动塑造市场并以敏捷实验展开系统反思。
+> - 不等于 欧洲大陆“[[Steering at a Distance|间接远距离操纵]]” — 英美 NPM 建立在削弱国家、抨击官僚（Bureaucrat Bashing）、准市场化与中央行政内部代理化（如英国 Next Steps 执行机构）之上；而欧洲大陆（如荷兰高教改革）的间接操纵建立在法团协商与政策网络多重理性之上，拒绝大学彻底市场化（如否决将大学变为完全自选生源、自定律费的企业家型大学方案），目标并非国家撤出公共责任，而是通过一揽子总额拨款与事后质量监控增强公共系统在去中心化网络中的实际效能。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 154–155)]]
 
 ---
 
@@ -140,7 +149,7 @@ updated: 2026-10-09
 
 > [!logic-map]- 要素关系
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["成本效益与性价比核算 (VfM)"] --> B["量化绩效与基准测试 (KPIs)"]
 >     B --> C["准市场竞争与多元供给外包"]
 >     C --> D["管理问责与远程控制"]
@@ -206,6 +215,19 @@ updated: 2026-10-09
 
 ---
 
+### 命题五　盎格鲁-撒克逊市场化新公共管理与欧洲大陆政策网络间接操纵呈现制度分化，且面临评估国家的事后集权悖论
+
+> [!concept-lens] 比较公共行政视野下的范式变异与评估国家反思
+> 探讨 NPM 在英美自由市场体制与欧洲大陆法团政策网络中的制度变异，揭示将内部行政代理（Next Steps）套用于外部学术自治网络的制度局限，并剖析事后质量评估潜在的事后隐性集权风险。
+
+> [!claim] [[Argument_Kickert_1995_Governance|Kickert (1995)]]
+> **行政代理与政策网络的制度边界及事后质量评估的潜在集权反扑** 瓦尔特·[[Walter J. M. Kickert|基克特]]（Kickert）在比较公共行政视野下对新公共管理与荷兰高等教育改革进行了深度辨析：
+> 1. **机构属性与行政关系的本质差异** 英国新公共管理推行的“下一步行动”（Next Steps）改革旨在将中央政府内部承担公共服务交付的行政分支剥离为自主运营的执行代理机构（Executive Agencies），其实质是中央政府行政机关内部的纵向分权；然而，研究型大学与高等专业学院在历史上即属于独立于政府层级的自主学术与社会组织，绝非中央政府的内部下属分支。将适用于政府内部行政交付的代理人管理模型机械套用于具有高度专业自组织的大学网络，混淆了公共行政内部代理与多主体政策网络的制度边界。
+> 2. **改革动因的意识形态分歧** 英美 NPM 改革深度捆绑新自由主义意识形态，伴随着激进的“官僚抨击”（Bureaucrat Bashing）、政府撤出公共任务与极端市场化假设；而在荷兰高教改革中，政府与社会各界明确否决了将大学重构为完全面向资本市场、自主遴选生源与收取差别学费的“企业家型大学”自由市场方案，其实行“[[Steering at a Distance|间接远距离操纵]]”并非为了削弱国家或推卸公共责任，而是为了在层级指令失效的多理性网络中恢复治理的有效性与合法性。
+> 3. **评估国家的事后集权悖论** 1990 年经合组织（OECD）对荷兰改革的审查与学者研究指出，通过粗线条化规章赋予高校办学自主权的同时，建立在独立外部同行评审基础上的“事后质量评估体系”潜藏着反向集权风险。如果国家凭借法定惩处权对负面评估结果施加刚性制裁，事后质量评估的规制效力可能完全抵消甚至压倒学校获得的自主权，导致政府实际调控力度不降反升，从而将新公共管理引向由审计官僚与指标达标主导的“评估国家”（Evaluative State）。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 154–155)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -215,6 +237,7 @@ updated: 2026-10-09
 > | **高等教育市场化与分层** | 财政紧缩倒逼大学企业化运营与国际生源商品化，强化资源马太效应 | 高等教育治理、科研评价与跨国教育市场 | Rizvi; Schulze-Cleven et al.; Amos |
 > | **[[Output-Oriented Governance\|循证治理]]与证据异化** | 借循证实践与性价比核算推行分权表象下的集中规训与逆向证据生产 | 教师教育准入资质、核心框架与宏观政策合法化 | Helgetun & Menter |
 > | **公共动态能力剥离与青蛙视角** | 咨询外包导致组织去技能化，微观成本考核扼杀长期高风险探索与系统学习 | 国家科技创新战略、公共部门组织能力与[[Grand Challenges\|重大挑战]]治理 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018)]]; [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
+> | **制度分化与评估国家悖论** | 揭示英美市场代理化（Next Steps）与大陆网络间接操纵的制度边界，剖析事后质量评估潜在的事后隐性集权风险 | 比较公共行政、欧洲高等教育治理范式转型与审计文化反思 | [[Argument_Kickert_1995_Governance\|Kickert (1995)]] |
 
 ---
 
@@ -222,7 +245,7 @@ updated: 2026-10-09
 
 > [!dev-timeline] 概念演变
 > - **1950s–1970s — 理论萌芽期** [[Human Capital Theory\|人力资本理论]]与公共选择学派将知识定义为经济生产要素，确立了[[Knowledge-Based Economization\|知识经济化]]与行政自利性[[Hypothesis\|假设]]。[[Argument_Amos_2022_Springer\|(Amos, 2022, p. 56)]]
-> - **1980s–1990s — 全球扩散与教育渗透** 英美等国率先开启去管制化与外包改革；英格兰 1984 年成立[[Committee for the Accreditation of Teacher Education\|教师教育认证委员会]]（CATE），开创依据督导证据进行资质核准的显性[[Output-Oriented Governance\|循证治理]]先河。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 90)]]
+> - **1980s–1990s — 全球扩散、英美 Next Steps 与欧陆间接操纵的分野** 英美等国率先开启去管制化与外包改革；英国 1988 年启动“下一步行动”（Next Steps）将中央部门职能剥离为数十个执行代理机构；英格兰 1984 年成立[[Committee for the Accreditation of Teacher Education|教师教育认证委员会]]（CATE），开创依据督导证据进行资质核准的显性[[Output-Oriented Governance|循证治理]]先河。与此同时，欧洲大陆（如荷兰 1985 年 HOAK 白皮书）探索依托法团网络协商与一揽子总额拨款的“[[Steering at a Distance|间接远距离操纵]]”，与英美激进的官僚抨击与准市场化形成制度对照。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 90)]]; [[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 154–155)]]
 > - **2000s–2010s — 审计文化与[[Governing by Numbers\|数字治理]]高潮** 大规模测验（如 [[PISA]]）与大学[[Research Excellence Framework\|研究卓越框架]]（REF）确立，绩效评估与经费拨款紧密挂钩，形成制度化马太效应。[[Argument_Schulze-Cleven_2017_HighEduc\|(Schulze-Cleven et al., 2017, pp. 801–802)]]
 > - **2010s 至今 — 证据异化与后 NPM 反思** 治理修辞演化为以科学证据与[[Randomised Controlled Trials\|随机对照试验]]（RCT）为包装的[[Rationalized Myth\|合理化神话]]；同时，创新政策与公共管理学界深刻反思 NPM 导致的组织[[Cognitive Deskilling|去技能化]]与“青蛙视角”，提出重塑[[Public Dynamic Capabilities|公共部门动态能力]]与[[Lead-and-Learn Paradigm|引领与学习范式]]以替代被动的 NPM 治理模式。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, pp. 90–93)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 791–798)]]
 
@@ -244,6 +267,12 @@ updated: 2026-10-09
 > > - **新自由主义分权论** 认为办学自主与供给多元化激活了基层创新与家长选择权。
 > > - **[[Governing at a Distance\|远程治理]]批判论** 揭示国家通过绩效基准、督导评价与证据框架实施了更为严密的远程集权控制。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 90–93)]]
 >
+> > [!axis] 内部市场代理化（Next Steps） vs 外部多主体网络间接操纵（Steering at a Distance）
+> > 争论公共部门自主化究竟应遵循企业化管理代理与准市场合同模型，还是遵循法团政策网络中的事后目标协调模型。
+> >
+> > - **新公共管理市场代理论** 倡导将行政部门拆分为受商业合同与关键绩效指标（KPIs）约束的执行代理机构，通过引入市场外包与准市场竞争提高投入产出比。
+> > - **政策网络间接操纵论** 批评盲目将社会组织套用内部行政代理模型，主张研究型大学与专业机构属于多元多理性网络，国家调控应限于宏观部门尺度的一揽子总额拨款与同行质量评估，而非商业化拆解。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 154–155)]]
+>
 > > [!axis] 成本紧缩效率与国家动态能力构建
 > > 争论外包与成本控制是否削弱了公共部门解决长远[[Grand Challenges|重大挑战]]的核心能力。
 > >
@@ -255,6 +284,7 @@ updated: 2026-10-09
 > - **准市场下的制度化马太效应** 竞争性拨款指标偏向已有优势的顶尖精英机构，系统性加剧了资源配置的不平等。[[Argument_Schulze-Cleven_2017_HighEduc\|(Schulze-Cleven et al., 2017, p. 802)]]
 > - **基于政策的证据异化** 在[[Evidence Era\|证据时代]]，NPM 对性价比与政治适宜性的追求倒逼学术研究沦为迎合政客预期的修辞工具，损害了学术探索的独立性。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 93–94)]]
 > - **公共部门去技能化与治理空心化** 过度依赖外部管理咨询公司剥离了公共部门内生解决问题的经验积累，使国家在面对危机时缺乏战略研判与技术鉴别能力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 791–792)]]
+> - **“评估国家”的事后集权悖论（Evaluative State Paradox）** 1990 年经合组织（OECD）荷兰高教审查指出，NPM 式的“去细化规章与扩大自治”潜藏着反向集权风险：一旦国家将事后质量评估与严厉财政制裁挂钩，繁密的质量审计指标便会取代事前审批，导致国家控制力不降反升，令公共机构深陷审计官僚主义泥潭。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 154)]]
 
 > [!warning] 适用局限
 > 新公共管理作为宏观治理[[Paradigm\|范式]]与[[Analytic Framework\|分析框架]]，其在不同国家福利体制（如北欧社会民主体制 vs 英美自由市场体制）与部门领域（如基础教育、高等教育与科技创新治理）中的落地形态存在显著的制度变异，不宜简单视作均质同构的单一实体。
@@ -266,6 +296,7 @@ updated: 2026-10-09
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 批判 NPM 改革导致的公共部门[[Cognitive Deskilling|去技能化]]、青蛙视角与对失败的零容忍，提出以[[Public Dynamic Capabilities|公共动态能力]]和[[Lead-and-Learn Paradigm|引领与学习范式]]重塑国家治理。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 批判 NPM 将政府局限于被动市场修补与外包监管的弊端，论证企业型国家的主动[[Market Shaping and Creating|市场塑造]]与共创能力。
+> - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 从比较公共行政视角深入辨析英美新公共管理（Next Steps 执行代理机构与市场化意识形态）与欧洲大陆“[[Steering at a Distance|间接远距离操纵]]”的制度边界，揭示多理性政策网络的自组织特性，并指出事后质量评估可能反向加剧国家隐性集权的评估国家悖论。
 > - [[Argument_Møller_2017_EERJ|Møller (2017)]] — 分析挪威等北欧国家基础教育中 NPM 问责制与督导评级对教师专业自主与教育公平的侵蚀。
 > - [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] — 揭示英格兰 35 年教师教育改革中 NPM 如何将循证实践异化为性价比核算与[[Policy-Based Evidence-Making|逆向证据生产]]。
 > - [[Argument_Amos_2022_Springer|Amos (2022)]] — 阐明 NPM 治理[[Discourse|话语]]在教育结构中的自然化嵌入与[[Knowledge-Based Economization|知识经济化]]机制。

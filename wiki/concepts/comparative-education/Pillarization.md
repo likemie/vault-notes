@@ -81,7 +81,7 @@ updated: 2026-10-12
 
 > [!logic-map]- 柱状化教育治理生态系统
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     subgraph ConstitutionalPact ["历史宪制协议（1917年妥协）"]
 >         A["宪法第23条：办学·组织·信仰三大自由"] --- B["公私立学校100%财政完全均等保障"]
 >     end
