@@ -9,7 +9,7 @@ summary: "扎根理论质性数据分析的基础切片与概念化阶段，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 37
+method_related_count: 36
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-10-08
+updated: 2026-10-12
 ---
 
 # Open Coding

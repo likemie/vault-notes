@@ -7,7 +7,7 @@ aliases:
 summary: "治理与评估社会学中的核心经验定律：当一个量化指标被选定作为决策和控制的目标时，该指标就会立即失去其作为有效衡量尺度的价值；在科研治理与教育评价中表现为学者或机构针对论文篇数、影响因子、升学率与排名等量化指标展开策略性博弈、指标刷量与功利化合规，导致指标数值虚高而实质学术卓越与教育质量倒退。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-12
 ---
 
 # Goodhart's Law

@@ -7,9 +7,9 @@ title: "Argument_Popkewitz_2005_Palgrave"
 argument_key: "Argument_Popkewitz_2005_Palgrave"
 argument_display_title: "Inventing the modern self and John Dewey: Modernities and the traveling of pragmatism in education"
 argument_kind: "edited-volume"
-argument_related_count: 0
+argument_related_count: 10
 argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_stars: ""
 argument_related_color: "#e5e7eb"
 authors: []
 editors:

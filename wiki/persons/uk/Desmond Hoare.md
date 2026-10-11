@@ -7,7 +7,7 @@ summary: "英国海军工程少将、大西洋学院创校校长，以共同任�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-07
+updated: 2026-10-12
 ---
 
 # Desmond Hoare

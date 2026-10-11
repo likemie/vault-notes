@@ -9,7 +9,7 @@ aliases:
 summary: "高等教育学与科学社会学概念，指大学倾向于聘用本校毕业的博士或内部教师担任教职的聘任现象。该现象常伴随外部竞争机制缺失与地方行政保护主义，导致学术网络封闭、学术创新动力衰减与裙带关系固化。"
 type: concept
 domain: "higher-education"
-related_count: 11
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

@@ -8,7 +8,7 @@ aliases:
 summary: "历史制度主义解释渐进变迁形态的宏观政治语境变量；拓展茨贝利斯的否决玩家理论，衡量政治体制中行动者阻挠变革的制度化能力与维持现状的偏好强度，与解释执行裁量权共同决定置换、层叠、漂移与转换四类变迁形态。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-12
 ---
 
 # Veto Possibilities

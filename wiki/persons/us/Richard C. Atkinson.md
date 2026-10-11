@@ -9,7 +9,7 @@ summary: "美国认知心理学家、科学政策制定者与高等教育领袖�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-02
-updated: 2026-10-05
+updated: 2026-10-12
 ---
 
 # Richard C. Atkinson

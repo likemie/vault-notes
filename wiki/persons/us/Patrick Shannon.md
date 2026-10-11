@@ -7,10 +7,10 @@ summary: "美国著名批判教育学者、宾夕法尼亚州立大学读写教�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1951"
 lifespan: "1951–至今"
 tags:
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-01
+updated: 2026-10-12
 ---
 
 # Patrick Shannon

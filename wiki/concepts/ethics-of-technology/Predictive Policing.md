@@ -6,7 +6,7 @@ aliases:
 summary: "运用大数据融合、态势感知软件与人工智能算法整合多源异构线索、识别暴力犯罪网络与优化警力调配的现代治安治理范式；在反恐与打击涉枪暴力中展现出显著效能，但同时在民权保护、程序正义与算法偏见审查方面引发持续的宪政与伦理争辩。"
 type: concept
 domain: "ethics-of-technology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-12
 ---
 
 # Predictive Policing

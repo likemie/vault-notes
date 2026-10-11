@@ -12,9 +12,9 @@ summary: "检验类别变量间关联性或单变量观测分布与理论分布�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 39
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 40
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/statistical
@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-07
+updated: 2026-10-12
 ---
 
 # Chi-Squared Test

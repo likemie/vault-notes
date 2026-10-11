@@ -12,7 +12,7 @@ aliases:
 summary: "本意为促进发展的教育或心理干预在实施后反而对受试者产生系统性负面损害或越轨行为加剧的现象，在循证清算体系中被设立为不可豁免的一票否决红线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-09-11
+updated: 2026-10-12
 ---
 
 # Iatrogenic Effects in Education

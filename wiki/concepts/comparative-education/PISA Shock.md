@@ -10,7 +10,7 @@ aliases:
 summary: "2001 年德语区（德国与奥地利）首次 PISA 结果公布后引发的全国性教育政策危机反应，被视为德语区教育政策制定的决定性分水岭，打破传统投入规制惯性并开启全面的产出导向、国家监测总体战略与拓扑数据基础设施重组"
 type: concept
 domain: "comparative-education"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-07-05
-updated: 2026-10-09
+updated: 2026-10-12
 ---
 
 # PISA Shock

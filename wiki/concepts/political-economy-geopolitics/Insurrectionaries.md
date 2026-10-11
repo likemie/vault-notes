@@ -8,10 +8,10 @@ aliases:
 summary: "历史制度主义渐进变迁理论中的四类变革行动者之一，长期谋求彻底推翻旧制度，短期采取公开违规与正面对抗策略；在弱否决可能性与低解释执行裁量权下驱动制度置换，在联盟博弈中必须拉拢摇摆的机会主义者跨过临界阈值以实现突破"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 22
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - insurrectionaries
   - institutional-change
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-12
 ---
 
 # Insurrectionaries

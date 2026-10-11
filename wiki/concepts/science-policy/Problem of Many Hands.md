@@ -8,7 +8,7 @@ aliases:
 summary: "指在多元行动者共同参与的复杂决策网络与层叠制度中，由于行动者增厚与权责边界重叠，导致无法将系统后果归咎于任何单一主体的责任困境与治理病理。"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -43,7 +43,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-11
+updated: 2026-10-12
 ---
 
 # Problem of Many Hands

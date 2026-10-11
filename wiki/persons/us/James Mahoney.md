@@ -9,10 +9,10 @@ summary: "美国政治学家与历史社会学家，西北大学政治学与社�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 18
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 36
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: 1968
 lifespan: "1968–至今"
 tags:
@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-12
 ---
 
 # James Mahoney

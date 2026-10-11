@@ -7,7 +7,7 @@ aliases:
 summary: "解释大学生毕业出路分化的 2×2 四分类模型，以目的手段行动力和价值信念驱动力为两轴，划分自主驱动者、机会主义者、迷失无从者和价值归顺者"
 type: concept
 domain: "sociology-of-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-09
-updated: 2026-10-08
+updated: 2026-10-12
 ---
 
 ## 定义

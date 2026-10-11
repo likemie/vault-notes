@@ -93,7 +93,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-17
-updated: 2026-10-09
+updated: 2026-10-12
 ---
 
 # Policy Network
@@ -105,9 +105,10 @@ updated: 2026-10-09
 > [!def] 核心定义
 > 政策网络（Policy Network）指由政府行政机构、[[Knowledge Mediation\|知识中介]]组织、智库、科研院所、慈善基金会以及企业科技资本等多元公私行动者构成的网状治理结构。
 >
-> 在教育研究与治理[[Document\|文献]]中，该概念展现出两大互补的研究视角：
+> 在教育研究与治理[[Document\|文献]]中，该概念展现出三大互补的研究视角：
 > 1. **批判政策社会学视角** 特指打破传统国家科层层级、通过非正式人事重叠、引文网络交织与资金纽带协同运作的**全球政策网络（Global Policy Networks）**，揭示资本与公权力联合开展理念编排（idea orchestration）与耐用客体[[Assemblage\|装配]]的异质治理（heterarchy）机制；实证研究进一步表明，国家并未在此类网络中空心化退场，而是主动充当市场缔造者与资助催化平台，通过立法特许和定向配资重构国家再分配职能（Ball, 2012; [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023]]）。
 > 2. **实证公共治理与证据生态视角** 聚焦最高教育行政机构（如教育部委）在政策制定过程中定期征询外部多元主体的组织联结网络，重点测度网络规模（network size）、联结强度（tie strength）以及政策促成相关性，揭示网络规模与互动深度非线性解耦的体制机理（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 76, 84–87]]）。
+> 3. **公共行政与网络协调理论视角** 将政策网络界定为由多重相对自主行动者相互依赖交织而成的非层级系统。专业化与分工使各子系统具有异质自主理性，缺乏单一统摄性的公共利益；科层自上而下的命令在此类多理性网络中结构性失效（“网络中不存在绝对顶层”），促使政府调控从单向强制转向非强制激励、规则博弈与基于理性论证的对话（[[Argument_Kickert_1995_Governance\|Kickert, 1995, pp. 148–150]]）。
 
 > [!concept-lens] 概念透镜
 > - **核心内涵** 描述教育决策权与证据动员权向网络状分布结构的分散化与再集中，兼具非正式权力结盟、公私资本嵌套、国家异层催化与科层政务咨询的多重面向。
@@ -152,6 +153,7 @@ updated: 2026-10-09
 > - **非正式中介与口口相传网络（Informal Intermediaries & Word-of-Mouth Ties）** 面对官僚高频轮岗，决策者极度依赖社交媒体意见领袖、博客博主与口口相传的人际中介网络获取去语境化的研究结论，替代了正式的[[Document\|文献]]审查机制（[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022, pp. 94–96]]）。
 > - **网络规模与联结强度（Network Size & Tie Strength）** 测度部委定期征询的组织类型广度（0–16 类）与日常互动的频度深度（1–6 点量表），揭示网络广覆盖与弱互动之间的结构性脱离（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 84–85]]）。
 > - **生产依附偏误（Production Dependency Bias）** 决策网络习惯性依附于传统学术生产者（大学、公共研究机构），而在体制上系统性排斥专注于[[Transfer Translation Transformation\|转译]]与传播的纯中介机构（智库、专业协会）（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, p. 86]]）。
+> - **多重理性与去中心结构（Multi-rationality & Decentralised Topology）** 政策网络内的高度专业化使不同行动者拥有源于学科或职业共同体的异质规范与理性，无法被单一的层级总体理性统摄；由于网络缺乏绝对的层级中心，传统自上而下的行政协调失效，必须代之以非强制性行为激励与协商对话（[[Argument_Kickert_1995_Governance\|Kickert, 1995, pp. 149–150]]）。
 
 ## 围绕概念形成的命题
 

@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 19
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -47,7 +47,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-07
+updated: 2026-10-12
 ---
 
 # United World Colleges

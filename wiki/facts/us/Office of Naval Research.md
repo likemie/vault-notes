@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 美国军种直属基础与应用科研资助机构
 headquarters: 美国弗吉尼亚州阿灵顿（Arlington, Virginia, USA）
@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-09
+updated: 2026-10-12
 ---
 
 # Office of Naval Research

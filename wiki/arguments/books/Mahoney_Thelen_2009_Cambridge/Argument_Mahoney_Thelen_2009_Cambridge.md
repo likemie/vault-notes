@@ -7,9 +7,9 @@ title: "Argument_Mahoney_Thelen_2009_Cambridge"
 argument_key: "Argument_Mahoney_Thelen_2009_Cambridge"
 argument_display_title: "Explaining institutional change: Ambiguity, agency, and power"
 argument_kind: "edited-volume"
-argument_related_count: 7
+argument_related_count: 10
 argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_stars: ""
 argument_related_color: "#e5e7eb"
 authors: []
 editors:

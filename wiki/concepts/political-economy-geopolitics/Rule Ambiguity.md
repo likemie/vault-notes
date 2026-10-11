@@ -9,7 +9,7 @@ aliases:
 summary: "历史制度主义核心概念，由马奥尼与希伦系统阐发；指正式规约在起草妥协、语言局限、认知边界与组织分离下内生且不可消除的语义与解释缝隙，构成将规则遵从转化为微观策略博弈并撬动渐进制度变迁的核心微观温床。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-12
 ---
 
 # Rule Ambiguity

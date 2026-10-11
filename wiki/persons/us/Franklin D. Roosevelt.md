@@ -9,10 +9,10 @@ summary: "美国第32任总统，二战同盟国领袖；推行“新政”重�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1882"
 died: "1945"
 lifespan: "1882–1945"
@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-11
+updated: 2026-10-12
 ---
 
 # Franklin D. Roosevelt

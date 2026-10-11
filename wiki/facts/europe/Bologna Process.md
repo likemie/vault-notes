@@ -12,7 +12,7 @@ subtype: policy
 region: europe
 fact_region: "europe"
 fact_kind: "policy"
-fact_related_count: 19
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -53,7 +53,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-29
-updated: 2026-10-11
+updated: 2026-10-12
 ---
 
 # Bologna Process

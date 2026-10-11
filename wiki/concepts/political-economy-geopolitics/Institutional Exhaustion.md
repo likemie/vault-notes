@@ -8,10 +8,10 @@ aliases:
 summary: "历史制度主义与比较政治经济学中的渐进制度变迁核心机制；指制度在未经历外生重大危机冲击的情境下，由于日常正常运转持续耗竭其赖以维系的外部前提条件、产生递减收益或超越增长极限，最终累积导致规制效能逐步枯竭瓦解与自我消亡的内生演变过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 5
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/institutional-change
   - theme/political-economy
@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-12
 ---
 
 # Institutional Exhaustion

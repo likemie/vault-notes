@@ -5,7 +5,7 @@ subtype: institution
 region: germany
 fact_region: "germany"
 fact_kind: "institution"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#e5e7eb"
@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-08
+updated: 2026-10-12
 title: System Althoff
 aliases:
   - 阿尔托夫体制

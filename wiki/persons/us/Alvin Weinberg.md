@@ -3,7 +3,7 @@ summary: "美国著名核物理学家与大科学时代科技政策思想奠基�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -39,7 +39,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-12
 title: Alvin Weinberg
 aliases:
   - Weinberg, A.

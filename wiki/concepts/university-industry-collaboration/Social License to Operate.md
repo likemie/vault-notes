@@ -10,7 +10,7 @@ aliases:
 summary: "指大学及科研机构在法律法定办学资质之外，由周边社区、纳税人、政策制定者及广大公众基于对学术机构公共价值、透明伦理及社会贡献的认可而自发赋予的非正式、动态演变的社会信任与合法性契约"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-03
+updated: 2026-10-12
 ---
 
 # Social License to Operate

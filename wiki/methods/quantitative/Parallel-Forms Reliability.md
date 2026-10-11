@@ -10,7 +10,7 @@ summary: "使用相似测量工具评估同一构念时所得结果的一致性�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 10
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-09-11
+updated: 2026-10-12
 ---
 
 # Parallel-Forms Reliability

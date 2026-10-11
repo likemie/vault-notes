@@ -7,10 +7,10 @@ aliases:
 summary: "高校毕业生求职出路分化中的一种典型类型，以目标掌控模式与弱价值信念结合为特征；行动者深谙高校与劳动力市场选拔规则，擅长策略性资源配置与简历变现，但将深层人生意义与价值认同置于悬置状态"
 type: concept
 domain: "sociology-of-education"
-related_count: 13
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 22
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - opportunist-mode
   - higher-education
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-09'
-updated: 2026-10-11
+updated: 2026-10-12
 ---
 
 # Opportunist Mode

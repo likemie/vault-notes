@@ -7,7 +7,7 @@ aliases:
 summary: "Ronald Burt（1992, 2000）提出的社会网络理论核心概念，指网络中互不相连群体之间的拓扑断裂位置，占据该位置的经纪人可获取非冗余信息与控制优势。Fuchs（2010）将其扩展至国家创新系统治理，揭示嵌入型公共代理人超越消极中介套利、主动重组网络架构并闭合结构洞的机制；Cai 等（2025）则将其拓展至空间生产的三元辩证维度。"
 type: concept
 domain: "sociology-of-education"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-11
-updated: 2026-10-10
+updated: 2026-10-12
 ---
 
 # Structural Holes

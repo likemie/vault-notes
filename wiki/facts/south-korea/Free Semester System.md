@@ -11,7 +11,7 @@ subtype: policy
 region: south-korea
 fact_region: "south-korea"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-12
 ---
 
 # Free Semester System

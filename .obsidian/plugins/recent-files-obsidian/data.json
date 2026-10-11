@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md"
     },
     {
+      "basename": "European Education Space",
+      "path": "wiki/concepts/comparative-education/European Education Space.md"
+    },
+    {
       "basename": "Academic Inbreeding",
       "path": "wiki/concepts/higher-education/Academic Inbreeding.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "Scientific Literacy",
       "path": "wiki/concepts/competency-and-assessment/Scientific Literacy.md"
-    },
-    {
-      "basename": "European Education Space",
-      "path": "wiki/concepts/comparative-education/European Education Space.md"
     },
     {
       "basename": "Argument_Mitter_2009_Europe",

@@ -9,7 +9,7 @@ summary: "西班牙比较教育学家，曾任欧洲比较教育学会主席与�
 type: person
 nationality: spain
 person_region: "spain"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-12
 ---
 
 # José Luis García Garrido

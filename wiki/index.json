@@ -1273,6 +1273,18 @@
     ]
   },
   {
+    "title": "Pillarization",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Pillarization.md",
+    "aliases": [
+      "柱状化",
+      "柱状社会",
+      "分立主义",
+      "verzuiling",
+      "compartmentalization"
+    ]
+  },
+  {
     "title": "PISA Literacy",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/PISA Literacy.md",
@@ -7498,6 +7510,20 @@
       "soft-money positions",
       "soft money faculty",
       "软经费教职"
+    ]
+  },
+  {
+    "title": "Steering at a Distance",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Steering at a Distance.md",
+    "aliases": [
+      "远距离操纵",
+      "远程掌舵",
+      "间接调控",
+      "远程调控",
+      "远距离调控",
+      "sturen op afstand",
+      "remote government steering"
     ]
   },
   {
@@ -23148,6 +23174,19 @@
     ]
   },
   {
+    "title": "Walter J. M. Kickert",
+    "type": "person",
+    "path": "wiki/persons/netherlands/Walter J. M. Kickert.md",
+    "aliases": [
+      "瓦尔特·基克特",
+      "Walter Kickert",
+      "Walter J.M. Kickert",
+      "W. J. M. Kickert",
+      "Kickert, W. J. M.",
+      "Kickert, W."
+    ]
+  },
+  {
     "title": "John Hattie",
     "type": "person",
     "path": "wiki/persons/new-zealand/John Hattie.md",
@@ -30067,6 +30106,20 @@
     ]
   },
   {
+    "title": "Higher Education Autonomy and Quality",
+    "type": "fact",
+    "path": "wiki/facts/netherlands/Higher Education Autonomy and Quality.md",
+    "aliases": [
+      "Higher Education: Autonomy and Quality",
+      "高等教育自主与质量",
+      "高等教育：自主与质量",
+      "HOAK",
+      "HOAK White Paper",
+      "Hoger Onderwijs: Autonomie en Kwaliteit",
+      "1985年荷兰高等教育自主与质量白皮书"
+    ]
+  },
+  {
     "title": "Netherlands Top-sector Policy",
     "type": "fact",
     "path": "wiki/facts/netherlands/Netherlands Top-sector Policy.md",
@@ -35981,6 +36034,11 @@
     "title": "Argument_Hartong_2018_GSE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Hartong_2018_GSE.md"
+  },
+  {
+    "title": "Argument_Kickert_1995_Governance",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Governance/Argument_Kickert_1995_Governance.md"
   },
   {
     "title": "Argument_Cai_Gao_Liu_2025_HE",

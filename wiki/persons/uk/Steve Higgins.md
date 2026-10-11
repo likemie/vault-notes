@@ -8,7 +8,7 @@ summary: "英国杜伦大学教育学教授，循证教育与元分析方法学�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 36
+person_related_count: 37
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-18
+updated: 2026-10-12
 ---
 
 # Steve Higgins

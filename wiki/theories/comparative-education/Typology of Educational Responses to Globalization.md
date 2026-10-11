@@ -9,7 +9,7 @@ aliases:
 summary: "拉斯特等人提出的全球化教育响应四分批判分析框架，整合主动采纳的接受、草根抗衡的抵制、本土赋权的恢复以及霸权强加的强制再生产四重动力机制，打破自愿对等借用假定并确立解放实践导向。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 40
+theory_related_count: 41
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-07
+updated: 2026-10-12
 ---
 
 # Typology of Educational Responses to Globalization

@@ -10,7 +10,7 @@ aliases:
 summary: "由科学家学术好奇心与纯粹求知欲所驱动的科学探索范式，不预设即时实用目标与交付成果，依赖充分学术自治、同行评议与容忍失败的长周期投入；既是二战后无止境前沿契约的核心基石与重大底层颠覆性发现的源头，也在当代技术安全化与使命型国家创新战略中面临与应用启发研究（FuSe）及中试转化的深层协同与张力。"
 type: concept
 domain: "science-policy"
-related_count: 30
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -61,7 +61,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-10
+updated: 2026-10-12
 ---
 
 # Curiosity-Driven Research

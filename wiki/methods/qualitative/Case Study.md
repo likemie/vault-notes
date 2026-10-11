@@ -109,7 +109,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-09
+updated: 2026-10-12
 ---
 # Case Study
 
@@ -296,3 +296,4 @@ Yin告诫在单案例设计中要谨慎：通常会忽视多案例的可能好�
 > - [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] — 采用纵向嵌入式单机构多技术个案研究设计，以[[DARPA|美国国防高级研究计划局]]（DARPA）微系统技术办公室（MTO）在 1992–2008 年间资助的 4 项半导体关键材料（SiGe、应变硅、3D封装、硅基光子学）为分析单元，结合 50 场半结构化[[In-depth Interview|深度访谈]]、专利计量与现场[[Participant Observation|参与观察]]，深入解构项目经理在冷战后与 9/11 后两任领导期内重塑研发社会网络以引导国家[[Technological Trajectories|技术轨道]]的[[Embedded Network Governance|嵌入型网络治理]]机制。
 > - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 采用单机构案例研究设计，结合参与描述性统计与开放式[[Questionnaire|问卷]]主题分析，深度追踪美国一所大型[[Research Universities|研究型大学]]面向《[[CHIPS and Science Act|芯片与科学法案]]》战略需求开展的系列学者发展工作坊演进过程与行动者参与体验。
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 采用单机构嵌入式定性案例研究（Case Study）设计，结合[[Semi-structured Interview|半结构化访谈]]与机构历史档案分析，深入解构美国[[Semiconductor Research Corporation|半导体研究公司]]（SRC）作为会员制[[Precompetitive Research|前竞争研发]]联合体在连接产业需求、高校基础科研与联邦资助中的治理机制、人才管道建设与跨领域经验迁移边界。
+> - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 采用反思性实践者国别行政案例研究设计，深度追踪荷兰高教治理从层级指令向“远距离操纵”演进的制度历程。

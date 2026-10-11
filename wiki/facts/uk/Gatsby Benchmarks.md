@@ -10,9 +10,9 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: Gatsby Charitable Foundation, Department for Education
 tags:
@@ -31,7 +31,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-09-22
+updated: 2026-10-12
 ---
 
 # Gatsby Benchmarks

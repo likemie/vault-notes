@@ -9,7 +9,7 @@ aliases:
 summary: "公共规制与历史制度主义中解释奇特跨阵营政治同盟的经典机制；指出于崇高道德信念的规范性支持者与出于自私利益进行违规套利的投机者不可思议地联合捍卫同一项规约，共同抵御系统性制度改革"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 12
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-12
 ---
 
 # Baptist-Bootlegger Coalition

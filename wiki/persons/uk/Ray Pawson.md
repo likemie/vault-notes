@@ -7,7 +7,7 @@ summary: "英国利兹大学社会研究方法论名誉教授，科学实在论�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 38
+person_related_count: 39
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-11
+updated: 2026-10-12
 ---
 
 # Ray Pawson

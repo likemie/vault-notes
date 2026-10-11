@@ -8,10 +8,10 @@ aliases:
 summary: "指公共机构与大型组织中那些脱离实质目标、将繁琐程序合规、形式审查与道德虔敬绝对化，进而诱发规避问责博弈、扼杀敏捷创新、阻断顶尖人才流入并导致严重行政效率损失的官僚规章制度体系。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/political-economy-geopolitics
   - concept/public-administration
@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-12
 ---
 
 # Red Tape

@@ -10,9 +10,9 @@ summary: "通过交叉分类多个理论维度或显性属性，将复杂经验�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 21
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 40
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -69,7 +69,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-10-11
+updated: 2026-10-12
 ---
 
 # Typological Analysis

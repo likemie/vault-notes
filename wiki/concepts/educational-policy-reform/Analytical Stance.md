@@ -7,7 +7,7 @@ aliases:
 summary: "教育实践者在面对各类教学改革倡议、商业教育产品与研究证据宣称时，所秉持的主动探询研究质量、审验因果逻辑与评估情境适切性的专业认知立场，是教师抵御说服性修辞诱惑、行使审慎专业判断的核心素养。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -61,7 +61,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-10-08
+updated: 2026-10-12
 ---
 
 # Analytical Stance

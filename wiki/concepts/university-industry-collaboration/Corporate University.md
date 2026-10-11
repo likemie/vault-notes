@@ -8,7 +8,7 @@ aliases:
 summary: "企业集中组织教育培训、知识管理和领导力发展的制度形式，常用于把员工学习、组织战略和内部认证体系整合起来"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-18'
-updated: '2026-05-18'
+updated: 2026-10-12
 ---
 
 # Corporate University

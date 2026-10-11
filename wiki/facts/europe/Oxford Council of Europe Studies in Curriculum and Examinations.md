@@ -9,7 +9,7 @@ subtype: program
 region: europe
 fact_region: "europe"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-08-22
-updated: 2026-08-22
+updated: 2026-10-12
 ---
 
 # Oxford Council of Europe Studies in Curriculum and Examinations

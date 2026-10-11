@@ -8,10 +8,10 @@ summary: "国际文凭北美公司长期执行主任，以教育规划和筹资�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1922"
 died: "2007"
 lifespan: "1922–2007"
@@ -35,7 +35,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-09-11
+updated: 2026-10-12
 ---
 
 # Gilbert Nicol

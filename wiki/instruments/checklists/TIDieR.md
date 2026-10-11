@@ -9,7 +9,7 @@ aliases:
 summary: "国际公认的干预方案详细描述与可复现性12项标准化核查清单，由Hoffmann等（2014）研制，用于详尽解构并规范记录复杂干预的变革理论、材料、程序、递送模式、实施剂量与保真度，被EEF强制采纳为破解教育试验黑箱的标准工具。"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 15
+instrument_related_count: 16
 instrument_related_level: 3
 instrument_related_stars: "⭐⭐⭐"
 instrument_related_color: "#e5e7eb"
@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-15
+updated: 2026-10-12
 ---
 
 # TIDieR

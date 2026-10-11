@@ -7,7 +7,7 @@ aliases:
 summary: "指组织成员在深刻理解并内化领导层宏观战略愿景的前提下，主动质疑、调整甚至拒绝执行不切实际的自上而下具体指令，依据实战物理反馈实施能动修正与系统重构的微观行动哲学。在卡普与扎米斯卡（2025）的科技治理体系中，建设性不服从是打破科层盲从与管理自恋、维系复杂自适应软件演化与重塑技术共和国工程思维的微观制度基石。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-12
 ---
 
 # Constructive Disobedience

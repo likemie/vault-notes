@@ -6,7 +6,7 @@ aliases:
 summary: "纳拉亚纳穆尔提等人提出的创新过程理论，以发现与发明两类互动循环替代基础/应用研究二分法，强调多时间尺度、非线性的创新网络。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 26
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-02
-updated: 2026-10-08
+updated: 2026-10-12
 ---
 
 # Discovery-Invention Cycle

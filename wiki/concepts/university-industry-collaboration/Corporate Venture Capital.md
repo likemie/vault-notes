@@ -8,7 +8,7 @@ aliases:
 summary: "企业通过设立独立风险投资基金对初创企业进行股权投资的协同创新机制。决策时同时应用战略对齐与财务回报双重标准，既充当企业防范外部颠覆性创新与获取前沿技术洞察的战略雷达，又因其偏好后期阶段、成熟团队与高技术就绪度（TRL），与大学早期衍生企业存在系统性错配。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -48,7 +48,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-10-09
+updated: 2026-10-12
 ---
 
 # Corporate Venture Capital

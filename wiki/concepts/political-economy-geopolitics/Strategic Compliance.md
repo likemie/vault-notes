@@ -9,7 +9,7 @@ aliases:
 summary: "历史制度主义微观博弈核心概念；打破传统制度分析将规则遵从视为外生常数的假定，将行动者的短期遵从行为与长期制度诉求解耦，揭示行动者如何利用解释与执行裁量缝隙进行蛰伏合规、违规套利或相机倒戈的策略机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-12
 ---
 
 # Strategic Compliance
