@@ -24,6 +24,7 @@ tags:
   - region/uk
 related_concepts:
   - "[[Self-Improving School System]]"
+  - "[[Strategic Compliance]]"
   - "[[Research Utilization]]"
   - "[[Evidence-Informed Practice]]"
   - "[[School Autonomy]]"
@@ -72,7 +73,7 @@ updated: 2026-09-16
 > [!citation-card] 关键判断
 > 白皮书认为，设法确保对中央举措的自动服从，会削弱[[Self-Improving School System\|学校系统自我改进]]的能力;学院化正是把改进责任与决策空间下移到学校层面的制度回应。
 >
-> *“The attempt to secure automatic compliance with central government initiatives reduces the capacity of the school system to improve itself.”*（DfE 2010, p.13，引于 p.120）
+> *“The attempt to secure automatic [[Strategic Compliance|compliance]] with central government initiatives reduces the capacity of the school system to improve itself.”*（DfE 2010, p.13，引于 p.120）
 
 ---
 

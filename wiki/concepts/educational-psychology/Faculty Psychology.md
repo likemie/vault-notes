@@ -47,6 +47,7 @@ related_persons:
   - "[[Marc-Antoine Jullien]]"
   - "[[Victor Cousin]]"
   - "[[Johann Heinrich Pestalozzi]]"
+  - "[[Peter A. Hall]]"
   - "[[John Locke]]"
 related_facts: []
 related_arguments:
@@ -158,7 +159,7 @@ updated: 2026-09-29
 > **[[Culture Générale\|普通文化]]文理融通命题** 维克多·库森在考察普鲁士文理中学后论证：古典语文学与古代经典是对探究人类本性最高阶心智维度的本体磨砺，而现代自然科学与数学则是对逻辑推理与经验分析官能的最佳锻炼。因此，中等学校课程必须将古典人文学科与现代科学有机整合，以文理融通的“普通文化（*culture générale*）”全面陶冶国家官僚精英阶层的心智肌肉。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 30)]]；引自 Brewer (1971:91–92)
 
 > [!claim] Halls, W. D.
-> **心智训练奠定法兰西精英教育传统** 霍尔斯指出，库森基于官能心理学对中等教育课程的构想，深刻摆脱了单纯[[Pragmatic Paradigm\|实用主义]]功利诉求，将“心智训练”升华为衡量受教育者的终极文化尺度，塑造了主导法国乃至欧陆中等教育长达一个多世纪的精英主义课程[[Paradigm\|范式]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 30)]]；引自 Halls (1965:2)
+> **心智训练奠定法兰西精英教育传统** [[Peter A. Hall|霍尔]]斯指出，库森基于官能心理学对中等教育课程的构想，深刻摆脱了单纯[[Pragmatic Paradigm\|实用主义]]功利诉求，将“心智训练”升华为衡量受教育者的终极文化尺度，塑造了主导法国乃至欧陆中等教育长达一个多世纪的精英主义课程[[Paradigm\|范式]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 30)]]；引自 Halls (1965:2)
 
 ---
 

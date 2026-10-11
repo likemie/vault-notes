@@ -64,6 +64,7 @@ related_persons:
   - "[[William Foote Whyte]]"
   - "[[Kurt Hahn]]"
   - "[[Gerard Renaud]]"
+  - "[[Peter A. Hall]]"
 related_facts:
   - "[[United World Colleges]]"
   - "[[Educational Testing Service]]"
@@ -395,7 +396,7 @@ EE 的早期调整在学生选择、长期投入和整体课程负担之间重�
 ### 全人教育目标的课程检验（约1970–1985）
 
 > [!claim] 课程运行后重新检验最初目标
-> IB 的总体课程与考试结构由 Peterson、Renaud、威廉·霍尔斯（W. D. Halls）、Dreyfus、各学科国际小组及试验学校共同形成。运行约十五年后，Peterson 依照最初的[[Whole Person Education\|全人教育]]目标检查六学科、EE、CASS、TOK 和评价制度能否支持个人理解、改变和享受内外环境，范围覆盖物质、社会、道德、审美和精神层面。理解环境获得了最完整的课程结构，改变环境只得到有限保障，享受环境主要依靠间接条件，而且最难验证（Ch. 2, pp. 22–31；Ch. 3, pp. 33–34, 57–59）。
+> IB 的总体课程与考试结构由 Peterson、Renaud、威廉·[[Peter A. Hall|霍尔]]斯（W. D. Halls）、Dreyfus、各学科国际小组及试验学校共同形成。运行约十五年后，Peterson 依照最初的[[Whole Person Education\|全人教育]]目标检查六学科、EE、CASS、TOK 和评价制度能否支持个人理解、改变和享受内外环境，范围覆盖物质、社会、道德、审美和精神层面。理解环境获得了最完整的课程结构，改变环境只得到有限保障，享受环境主要依靠间接条件，而且最难验证（Ch. 2, pp. 22–31；Ch. 3, pp. 33–34, 57–59）。
 
 > [!framework-table] 三项目标及 Peterson 的总体判断
 > | 原始目标 | 课程提供的主要机制 | Peterson 的判断 |

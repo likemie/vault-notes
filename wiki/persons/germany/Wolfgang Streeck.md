@@ -131,7 +131,7 @@ updated: 2026-10-11
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 施特雷克与希伦（2005）的合著开创了[[Historical Institutionalism|历史制度主义]]内生变迁研究的新纪元；[[James Mahoney|马奥尼]]与希伦（Mahoney & Thelen, 2009）在此形态学基础上进一步引入因果解释矩阵与行动者模型，确立了[[Theory of Gradual Institutional Change|渐进制度变迁理论]]。
+> - **理论路径** 施特雷克与希伦（2005）的合著开创了[[Historical Institutionalism|历史制度主义]]内生变迁研究的新纪元；[[James Mahoney|马奥尼]]与希伦（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009]]）在此形态学基础上进一步引入因果解释矩阵与行动者模型，确立了[[Theory of Gradual Institutional Change|渐进制度变迁理论]]。
 > - **方法路径** 倡导深度比较历史[[Process Tracing|过程追踪]]，要求学者穿透法律文本的表层条文，深入到劳资谈判、日常执法与规避策略的微观经验细节中检验制度实质功能。
 > - **跨学科辐射** 其资本主义危机与去组织化理论在社会学、批判法学与国际政治经济学（[[Implementation and Process Evaluation|IPE]]）中引发跨学科论战。
 

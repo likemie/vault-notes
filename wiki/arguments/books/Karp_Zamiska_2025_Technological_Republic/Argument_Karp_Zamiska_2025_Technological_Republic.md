@@ -114,6 +114,7 @@ related_concepts:
   - "[[Screening Off]]"
   - "[[Epistemology]]"
   - "[[Betrayal in Research]]"
+  - "[[Strategic Compliance]]"
 related_persons:
   - "[[Martin Lindauer]]"
   - "[[Giorgio Parisi]]"
@@ -382,7 +383,7 @@ updated: '2026-10-09'
 > [!citation-card]- 卡普与扎米斯卡论审美品味、长程托管与重塑全民族奋斗意志
 > 无论是构建复杂的国防软件系统，还是引领国家走出地缘与文化危机，最终依赖的都不是没有灵魂的合规清单，而是兼具深厚审美品味、奥德修斯式长程资产托管哲学与[[Junzi|君子]]美德的卓越实干家。唯有在保护自由市场个人[[Creativity|创造力]]的同时恢复凝聚国民的崇高[[Civic Rituals|公民仪式]]，技术共和国才能历经风暴而长青。（p. 218）
 >
-> *Whether in building complex defense software systems or guiding a nation through geopolitical and cultural crises, what ultimately matters is not a soulless compliance checklist, but exceptional builders equipped with profound aesthetic taste, an Odyssean philosophy of long-term stewardship, and authentic virtue. Only by reconciling individual creative freedom with noble civic rituals can the technological republic endure across generations.*
+> *Whether in building complex defense software systems or guiding a nation through geopolitical and cultural crises, what ultimately matters is not a soulless [[Strategic Compliance|compliance]] checklist, but exceptional builders equipped with profound aesthetic taste, an Odyssean philosophy of long-term stewardship, and authentic virtue. Only by reconciling individual creative freedom with noble civic rituals can the technological republic endure across generations.*
 
 ---
 

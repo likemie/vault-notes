@@ -95,8 +95,8 @@ updated: 2026-10-11
 > [!dev-timeline] 理论演进与学术扩展
 > - **1990 年代初 — 学派自觉与体系确立** 斯温·施泰因莫（Sven Steinmo）、[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）等出版《建构政治》（*Structuring Politics*, 1992），霍尔与泰勒（1996）系统梳理三大制度主义分野，奠定历史制度主义的学科规范。
 > - **2000 年代初 — [[Path Dependence|路径依赖]]的形式化[[Causal Modeling|因果建模]]** [[Paul Pierson|保罗·皮尔逊]]（Paul Pierson, 2000, 2004）与[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）（2000）系统引入经济学报酬递增概念，建构[[Path Dependence|路径依赖]]、关键节点与反应序列的形式化因果分析模型。
-> - **2005 年 — 内生渐进演进形态学奠基** [[Wolfgang Streeck|沃尔夫冈·施特雷克]]（Wolfgang Streeck）与希伦（Streeck & Thelen, 2005）反思历史制度主义早期过度沉迷路径锁定的保守偏误，将制度重构为包含第三方强制力与执行缝隙的社会规制，系统提出置换、分层、漂移、转换与耗竭五大变迁形态，彻底扭转了将重大变迁等同于外生危机突变的二元论。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 1–39)]]
-> - **2009 年至今 — 行动者博弈模型确立与跨领域拓展** 马奥尼与希伦（Mahoney & Thelen, 2009）出版《解释制度变迁》，建构“[[Veto Possibilities|否决可能性]] × [[Enforcement Discretion|执行裁量权]]”双维矩阵与四类行动者微观博弈模型，确立[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，并被广泛应用于比较政治学与公共政策分析。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
+> - **2005 年 — 内生渐进演进形态学奠基** [[Wolfgang Streeck|沃尔夫冈·施特雷克]]（Wolfgang Streeck）与希伦（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005]]）反思历史制度主义早期过度沉迷路径锁定的保守偏误，将制度重构为包含第三方强制力与执行缝隙的社会规制，系统提出置换、分层、漂移、转换与耗竭五大变迁形态，彻底扭转了将重大变迁等同于外生危机突变的二元论。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 1–39)]]
+> - **2009 年至今 — 行动者博弈模型确立与跨领域拓展** 马奥尼与希伦（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009]]）出版《解释制度变迁》，建构“[[Veto Possibilities|否决可能性]] × [[Enforcement Discretion|执行裁量权]]”双维矩阵与四类行动者微观博弈模型，确立[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，并被广泛应用于比较政治学与公共政策分析。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
 
 ---
 
@@ -106,13 +106,13 @@ updated: 2026-10-11
 > | 构件 | 类型 | 在理论中的功能 |
 > |:---|:---|:---|
 > | **[[Historical Institutionalism\|历史制度主义]]** | 核心[[Paradigm\|范式]] | 统摄时间性、权力分配属性与组织中介维度的总体历史政治分析学派。 |
-> | **社会规制体系**<br>Social Regimes | 核心本体 | 将制度理解为由规则制定者、执行者与遵守者共同构成的第三方强制权力架构。（Streeck & Thelen, 2005, pp. 11–14） |
+> | **社会规制体系**<br>Social Regimes | 核心本体 | 将制度理解为由规则制定者、执行者与遵守者共同构成的第三方强制权力架构。（[[Argument_Streeck_Thelen_2005_OUP\|Streeck & Thelen, 2005, pp. 11–14]]） |
 > | **[[Path Dependence\|路径依赖]]** | 核心机制 | 刻画历史决策通过报酬递增与适应性预期对后续演进轨迹产生的自我强化约束与锁定效应。（Pierson, 2000） |
-> | **成文规则与执行缝隙**<br>Rule-Enactment Gaps | 微观机制 | 揭示认知局限、政治妥协、策略遵从与时间推移制造的操作缝隙，使内生渐进演变成为可能。（Streeck & Thelen, 2005, pp. 13–16） |
-> | **[[Strategic Compliance\|策略性遵从]]** | 行动机制 | 将行动者的遵从行为解构为充满利弊权衡、规避、共生与微观套利的动态博弈变量。（Mahoney & Thelen, 2009） |
-> | **五类渐进变迁形态** | 形态分类 | 涵盖[[Institutional Displacement\|制度置换]]、[[Institutional Layering\|制度分层]]、[[Institutional Drift\|制度漂移]]、[[Institutional Conversion\|制度转换]]与[[Institutional Exhaustion\|制度耗竭]]。（Streeck & Thelen, 2005, pp. 18–31） |
-> | **[[Veto Possibilities\|否决可能性]]** | 结构[[Variable\|变量]] | 衡量政治体制中维持现状阵营阻挠正式修法与政策更新的制度化权力门槛。（Mahoney & Thelen, 2009） |
-> | **[[Enforcement Discretion\|解释与执行裁量权]]** | 制度变量 | 衡量成文规则在日常司法审判与官僚执法中赋予执行者的自由操作空间。（Mahoney & Thelen, 2009） |
+> | **成文规则与执行缝隙**<br>Rule-Enactment Gaps | 微观机制 | 揭示认知局限、政治妥协、策略遵从与时间推移制造的操作缝隙，使内生渐进演变成为可能。（[[Argument_Streeck_Thelen_2005_OUP\|Streeck & Thelen, 2005, pp. 13–16]]） |
+> | **[[Strategic Compliance\|策略性遵从]]** | 行动机制 | 将行动者的遵从行为解构为充满利弊权衡、规避、共生与微观套利的动态博弈变量。（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change\|Mahoney & Thelen, 2009]]） |
+> | **五类渐进变迁形态** | 形态分类 | 涵盖[[Institutional Displacement\|制度置换]]、[[Institutional Layering\|制度分层]]、[[Institutional Drift\|制度漂移]]、[[Institutional Conversion\|制度转换]]与[[Institutional Exhaustion\|制度耗竭]]。（[[Argument_Streeck_Thelen_2005_OUP\|Streeck & Thelen, 2005, pp. 18–31]]） |
+> | **[[Veto Possibilities\|否决可能性]]** | 结构[[Variable\|变量]] | 衡量政治体制中维持现状阵营阻挠正式修法与政策更新的制度化权力门槛。（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change\|Mahoney & Thelen, 2009]]） |
+> | **[[Enforcement Discretion\|解释与执行裁量权]]** | 制度变量 | 衡量成文规则在日常司法审判与官僚执法中赋予执行者的自由操作空间。（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change\|Mahoney & Thelen, 2009]]） |
 
 ---
 
@@ -121,7 +121,7 @@ updated: 2026-10-11
 > [!theory-proposition] 命题一｜制度是承载权力偏向的分配工具，稳定性依赖持续动员
 > **解释** 历史制度主义坚决拒绝将制度视为技术中立的协调均衡或自发共享认知；制度在建立之初就是政治权力冲突妥协的产物，制度性地赋予特定群体资源特权而剥夺另一群体的权益；制度获益者必须在日常政治中持续动员支持并压制异议，制度稳定本质上是处于动态紧张中的平衡。该命题由[[Peter A. Hall|霍尔]]（Hall, 1986）与[[Theda Skocpol|斯考切波]]奠定，并被[[Wolfgang Streeck|施特雷克]]、希伦与[[James Mahoney|马奥尼]]继承为内生变迁动力学的基石。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 9–11)]]; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 7–10)]]
 >
-> **应用实例** 印度尼西亚苏哈托威权统治的维系依赖于对军队与官僚网络的持续利益输送与动态平衡；当 1997 年金融危机削弱其收买动员能力时，被剥夺独立治理能力的制度体系迅速发生内生崩塌。（Mahoney & Thelen, 2009, pp. 9–10）
+> **应用实例** 印度尼西亚苏哈托威权统治的维系依赖于对军队与官僚网络的持续利益输送与动态平衡；当 1997 年金融危机削弱其收买动员能力时，被剥夺独立治理能力的制度体系迅速发生内生崩塌。（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 9–10]]）
 
 > [!theory-proposition] 命题二｜历史具有不可逆的时间性与[[Path Dependence|路径依赖]]，初始差异通过报酬递增产生锁定
 > **解释** 历史过程具有序列敏感性，事件发生的先后次序对最终结果具有决定性影响；一旦某一政策路径在关键节点被选定，学习效应、协调效应与适应性预期会产生巨大的报酬递增，使得逆转成本极高，将后续演化锁定在特定历史轨道之中。该命题确立了历史制度主义长时段比较历史分析的核心方法论原则。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Pierson, 2000, 2004; Mahoney, 2000)]]
@@ -131,7 +131,7 @@ updated: 2026-10-11
 > [!theory-proposition] 命题三｜制度作为社会规制具有成文规则与执行缝隙，常态内生微调累积能够实现深层质变
 > **解释** 历史制度主义在 2000 年代后克服了早期将变迁局限于外生危机（间断均衡）的理论偏误。施特雷克与希伦证明，制度本质上是依赖国家等第三方强制保障的社会规制，成文规则与基层实际执行之间始终存在四重结构性缝隙（预见局限、多义妥协、遵从策略与时代流变）；行动者无须推翻法律文本，通过置换、分层、漂移、转换与耗竭五大机制在基层微调实践，就能在长历史周期中累积出足以颠覆既有体制的结构性演进后果。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 8–19, 31)]]; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
 >
-> **应用实例** 德国劳资共决制（Mitbestimmung）在魏玛时期初创时部分旨在分化激进工会；二战后被温和工会掌控并转用为争取体面劳动的堡垒；1990 年代面对全球资本市场竞争，劳资双方再次将其转用为在车间协商企业重组方案、提升国际[[Competitiveness|竞争力]]的合作中枢，在制度结构未曾中断的情况下经历了实质性的三阶段功能翻转。（Streeck & Thelen, 2005, pp. 18, 27, 32）
+> **应用实例** 德国劳资共决制（Mitbestimmung）在魏玛时期初创时部分旨在分化激进工会；二战后被温和工会掌控并转用为争取体面劳动的堡垒；1990 年代面对全球资本市场竞争，劳资双方再次将其转用为在车间协商企业重组方案、提升国际[[Competitiveness|竞争力]]的合作中枢，在制度结构未曾中断的情况下经历了实质性的三阶段功能翻转。（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, pp. 18]], 27, 32）
 
 ---
 
@@ -146,10 +146,10 @@ updated: 2026-10-11
 > [!theory-framework] 命题如何转化为分析维度
 > | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
 > |:---|:---|:---|:---|
-> | **权力分配命题**<br>（Hall, 1986; Mahoney & Thelen, 2009） | **利益偏向与动员平衡**<br>制度赋予谁特权？维持现状需要既得利益者投入哪些动员成本？ | 预算利益分配、税收优惠流向、受损群体公开或隐蔽的抗争记录。 | 出现受损者动员外围制度资源反制时，支持内生利益失衡假说。 |
+> | **权力分配命题**<br>（Hall, 1986; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change\|Mahoney & Thelen, 2009]]） | **利益偏向与动员平衡**<br>制度赋予谁特权？维持现状需要既得利益者投入哪些动员成本？ | 预算利益分配、税收优惠流向、受损群体公开或隐蔽的抗争记录。 | 出现受损者动员外围制度资源反制时，支持内生利益失衡假说。 |
 > | **时间性与路径命题**<br>（Pierson, 2004; Mahoney, 2000） | **关键节点与报酬递增**<br>该制度是在何种历史窗口下确立的？是否存在高昂的转换退出成本？ | 制度创立初期的危机决策档案、专用性[[Human Capital Theory\|人力资本]]投资、配套网络互补性。 | 出现替代方案成本极高且组织自发适应旧规则时，支持[[Path Dependence\|路径依赖]]锁定。 |
-> | **内生演进形态命题**<br>（Streeck & Thelen, 2005, pp. 18–31） | **规则存废与实践偏离**<br>规则本身是存续、新增还是被弃用？基层实践偏离是由于疏于维护、目标重定向还是资源自毁？ | 法律修订文本、行政执法指导规章、私人替代方案增长率、财政赤字指标。 | 判定变迁属于置换（外来或休眠规则竞争）、分层（边缘新规增殖）、漂移（策略性不作为）、转换（功能借壳）还是耗竭（财政人口自噬）。 |
-> | **行动者与同盟命题**<br>（Mahoney & Thelen, 2009, pp. 18–22） | **裁量缝隙与变革角色**<br>成文规则是否存在模糊空间？主导行动者是起义者、颠覆者、共生者还是机会主义者？ | 司法裁量判例、行政执法松紧度、跨党派策略协议文本。 | 强否决+低裁量判定为分层（[[Subversives\|颠覆者]]）；强否决+高裁量判定为漂移（[[Symbionts\|共生者]]）；弱否决+低裁量判定为置换（[[Insurrectionaries\|起义者]]）；弱否决+高裁量判定为转换（[[Opportunists\|机会主义者]]）。 |
+> | **内生演进形态命题**<br>（[[Argument_Streeck_Thelen_2005_OUP\|Streeck & Thelen, 2005, pp. 18–31]]） | **规则存废与实践偏离**<br>规则本身是存续、新增还是被弃用？基层实践偏离是由于疏于维护、目标重定向还是资源自毁？ | 法律修订文本、行政执法指导规章、私人替代方案增长率、财政赤字指标。 | 判定变迁属于置换（外来或休眠规则竞争）、分层（边缘新规增殖）、漂移（策略性不作为）、转换（功能借壳）还是耗竭（财政人口自噬）。 |
+> | **行动者与同盟命题**<br>（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change\|Mahoney & Thelen, 2009, pp. 18–22]]） | **裁量缝隙与变革角色**<br>成文规则是否存在模糊空间？主导行动者是起义者、颠覆者、共生者还是机会主义者？ | 司法裁量判例、行政执法松紧度、跨党派策略协议文本。 | 强否决+低裁量判定为分层（[[Subversives\|颠覆者]]）；强否决+高裁量判定为漂移（[[Symbionts\|共生者]]）；弱否决+低裁量判定为置换（[[Insurrectionaries\|起义者]]）；弱否决+高裁量判定为转换（[[Opportunists\|机会主义者]]）。 |
 
 ---
 
@@ -177,7 +177,7 @@ updated: 2026-10-11
 > > 争论聚焦于历史制度主义自身能否摆脱连续性偏误并成功解释变迁动力。
 > > 
 > > - **传统[[Path Dependence|路径依赖]]论与[[Varieties of Capitalism|资本主义多样性]]学派（Pierson, 2000; Hall & Soskice, 2001）** 强调报酬递增与[[Institutional Complementarity|制度互补性]]导致体制刚性锁定，将重大变迁推向关键节点的外生大冲击，倾向于将观察到的所有微调解释为系统再生产。
-> > - **演进转向学者（Streeck & Thelen, 2005; Mahoney & Thelen, 2009）** 批评这种连续性偏误将变迁动力机械外生化，证明规则条文与基层执行之间的缝隙使得微观内生微调在常规历史时期完全足以累积引发颠覆性体制质变。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–9)]]
+> > - **演进转向学者（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005]]; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009]]）** 批评这种连续性偏误将变迁动力机械外生化，证明规则条文与基层执行之间的缝隙使得微观内生微调在常规历史时期完全足以累积引发颠覆性体制质变。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–9)]]
 
 ---
 

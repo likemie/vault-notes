@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Theoretical Perspective]]"
-  - "[[Opportunist Mode]]"
   - "[[Areas of Knowledge]]"
   - "[[Research Utilization]]"
   - "[[Technology Transfer]]"
@@ -56,7 +55,7 @@ updated: 2026-06-10
 ### 阶段一：胚胎期（Embryonic Phase，正式合作前）
 
 > [!info] 胚胎期：高风险感知下的初步接触
-> 此阶段的核心特征是**高风险感知**和**强不信任**——潜在合作伙伴尚未建立正式关系，恐惧知识泄露和[[Opportunist Mode\|机会主义]]行为是主导障碍。具体的障碍和促进因素在三组行动者之间各有侧重（pp.907-910）：
+> 此阶段的核心特征是**高风险感知**和**强不信任**——潜在合作伙伴尚未建立正式关系，恐惧知识泄露和机会主义行为是主导障碍。具体的障碍和促进因素在三组行动者之间各有侧重（pp.907-910）：
 
 > [!line-a] 产业-产业界面
 > **障碍** 强不信任、强知识泄露恐惧（核心能力）、不愿与竞争对手合作。

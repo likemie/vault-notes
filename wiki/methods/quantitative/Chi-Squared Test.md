@@ -61,7 +61,8 @@ related_methods:
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Correlational Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Paul Pierson]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
@@ -134,7 +135,7 @@ updated: 2026-10-07
 > - **变量要求** 类别变量（Categorical/Nominal）；若数据为等级/顺序量表且样本极小，强行使用卡方检验会丢失顺序信息且极易违背期望频数前提。
 > - **诊断与检验** 期望频数矩阵完整性、单元格稀疏性诊断、连续性修正判定。
 
-> [!formula-step] 公式步骤一　皮尔逊卡方检验统计量（Pearson's Chi-Squared Statistic）
+> [!formula-step] 公式步骤一　[[Paul Pierson|皮尔逊]]卡方检验统计量（Pearson's Chi-Squared Statistic）
 > $$\chi^2 = \sum_{i=1}^{r} \sum_{j=1}^{c} \frac{(O_{ij} - E_{ij})^2}{E_{ij}}$$
 >
 > **这个公式在做什么** 计算所有单元格中观测频数与期望频数相对偏差平方的加权总和，衡量实际数据与理论模型之间的整体偏离程度。

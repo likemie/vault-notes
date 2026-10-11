@@ -23,6 +23,7 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Paradigm]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Strategic Compliance]]"
   - "[[School Autonomy]]"
   - "[[Test-Based Accountability]]"
   - "[[School Choice]]"
@@ -80,7 +81,7 @@ updated: 2026-10-07
 > [!citation-card] 自我改进系统的政策前提
 > 试图通过自上而下的行政手段强行确保对中央政府指令的机械服从，不仅无法带来真正的卓越，反而会削弱学校系统实现自我改进的内生能力。
 >
-> *“The attempt to secure automatic compliance with central government initiatives reduces the capacity of the school system to improve itself.”*（DfE, 2010, p. 13，引于 [[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 120]]）
+> *“The attempt to secure automatic [[Strategic Compliance|compliance]] with central government initiatives reduces the capacity of the school system to improve itself.”*（DfE, 2010, p. 13，引于 [[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 120]]）
 
 > [!boundary]- 概念边界
 > - 区别于 学校自治（[[School Autonomy]]）：学校自治关注单一学校法人在人事、财务与课程上的自主裁量权；自我改进学校系统则关注由多所自治学校构成的横向协作生态、专业发展网络与全系统的内生改进动力。

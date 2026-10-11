@@ -47,6 +47,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Patient Capital]]"
 related_theories:
+  - "[[Historical Institutionalism]]"
   - "[[ROAR Framework]]"
 related_persons:
   - "[[Jürgen Habermas]]"
@@ -300,7 +301,7 @@ updated: 2026-10-07
 > | [[Argument_Reynolds_2024_JICT\|Reynolds (2024)]] | 美国《芯片与科学法》（390 亿美元直接制造补贴）与《[[Inflation Reduction Act\|通胀削减法]]》（超 3700 亿美元气候激励） | 政策[[Process Tracing\|过程追踪]]与契约治理分析 | 托儿服务门槛、税收抵免倍数、社区利益计划（CBP）权重、环境正义目标 | 资助额 **>1.5 亿美元** 必须提供托儿方案；满足现行工资与[[Apprenticeship\|学徒制]]可获 **5 倍** 清洁能源税收抵免；[[Department of Energy\|DOE]] 竞争性资助中 CBP 占 **20% 评分权重**；Justice40 规定 **40% 气候收益** 流向弱势社区 | 联邦法案法定条款与实施细则（原文报告） | 证实[[Policy Conditionalities\|制度化附加条件]]将宏观产业补贴有效锚定于劳工福祉与包容性增长等公共价值目标 |
 > | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | 欧盟“[[Horizon Europe\|地平线欧洲]]”（Horizon Europe，约 1000 亿欧元）使命型研发框架 | 政策框架构建与国际案例比较 | 使使命导向设计、跨部门研发联动、公共价值评估 | 围绕气候、癌症、海洋等确立 **5 大重大社会使命**；推动全欧盟科研资金从点状补贴转向跨部门公共价值共创网络 | 欧盟委员会官方政策采纳文本（原文报告） | 确立了超越[[Market Failure\|市场失灵]]修补、以公共价值为导向的顶层使命设计逻辑 |
 > | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024)]] | 欧盟《[[European Chips Act\|欧洲芯片法案]]》与 IPCEI ME/CT 跨国协同机制 | 比较政治经济学与多层级治理分析 | 欧盟直接预算份额、成员国国家援助规模、跨国技术协作项目数、超额利润回缴规则 | 欧盟自有预算仅 **33 亿欧元**（号称撬动 430 亿）；14 国提供 **81 亿欧元** 国家援助并撬动 **137 亿欧元** 私人资本；覆盖 **56 家企业与 68 个项目**；建立 **180 项跨国研发合作** | 官方立项数据与法案条文核查（原文报告） | 揭示多层级政体下超国家财政工具缺失对全域公共价值创造的制度约束与区域分化风险 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01\|Karp & Zamiska (2025)]] | 冷战防务科技合作 vs. 现代硅谷商业偏向（1940s–2020s） | 历史制度主义与批判政治哲学 | 联邦研发早期占比、消费广告营收集中度、公共部门采购周期 | 1960 年代联邦政府承担全美近三分之二研发支出并采购早期全部硅微芯片；当代顶尖科技企业广告营收达 80% 以上，公共防务采购流程长达数年并形成“[[Innovation Desert\|创新荒漠]]” | 历史[[Document\|文献]]与产业演进分析 | 证实当技术完全被消费主义捕获而公共交付停滞时，政体将面临深层合法性危机 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01\|Karp & Zamiska (2025)]] | 冷战防务科技合作 vs. 现代硅谷商业偏向（1940s–2020s） | [[Historical Institutionalism\|历史制度主义]]与批判政治哲学 | 联邦研发早期占比、消费广告营收集中度、公共部门采购周期 | 1960 年代联邦政府承担全美近三分之二研发支出并采购早期全部硅微芯片；当代顶尖科技企业广告营收达 80% 以上，公共防务采购流程长达数年并形成“[[Innovation Desert\|创新荒漠]]” | 历史[[Document\|文献]]与产业演进分析 | 证实当技术完全被消费主义捕获而公共交付停滞时，政体将面临深层合法性危机 |
 
 ---
 

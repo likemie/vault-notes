@@ -41,6 +41,7 @@ related_persons:
   - "[[Vannevar Bush]]"
   - "[[Donald Stokes]]"
   - "[[Alfred Nobel]]"
+  - "[[Peter A. Hall]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Bell Labs]]"
@@ -113,7 +114,7 @@ updated: 2026-10-08
 > [!theory-proposition] 命题二｜颠覆性创新的知识价值唯有在 30 至 50 年的宏观历史长周期中方能显现
 > **解释** 依据立项时研究者的个人即时动机（纯求知还是纯实用）对科研进行定性，是一种严重的[[Epistemology|认识论]]狭隘。颠覆性创新的内在潜能往往在短期内被严重低估，其真正的知识溢出效应需要经历跨越半个世纪的反复迭代、交叉迁移与网络重组才能完全释放；任何局限于三至五年的短期考评机制都会扭曲创新的自然节律。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 32–35)]]
 >
-> **应用实例** 1947 年晶体管的发明与晶体管效应的发现，在此后五十年间持续激发了激光、集成电路、量子霍尔效应、超纯光纤材料与电荷耦合器件（Charge-Coupled Device, CCD）的诞生，其长远价值无法在早期通过短期效益指标予以预见。
+> **应用实例** 1947 年晶体管的发明与晶体管效应的发现，在此后五十年间持续激发了激光、集成电路、量子[[Peter A. Hall|霍尔]]效应、超纯光纤材料与电荷耦合器件（Charge-Coupled Device, CCD）的诞生，其长远价值无法在早期通过短期效益指标予以预见。
 
 > [!theory-proposition] 命题三｜国家科技政策的核心使命是消除循环瓶颈，公共研发资助应以[[Long-Term Public Utility|长期公共效用]]为准绳
 > **解释** 创新体系的生命力在于知识流转的通畅度。当基础科学探索者与工程工艺专家在体制上被分置于互不往来的孤岛时，创新循环就会陷入停滞。因此，政府研发资助的正当性不在于项目是否属于私人资本不愿涉足的“[[Curiosity-Driven Research|纯基础研究]]”，而在于该项目是否聚焦关乎国家长远福祉的战略方向，以及能否有效疏通[[Innovation Ecosystem|创新生态]]中的结构性堵点。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 35–36)]]

@@ -23,6 +23,7 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Evaluative Judgement]]"
   - "[[Teaching Assistant]]"
+  - "[[Strategic Compliance]]"
   - "[[Construct]]"
   - "[[AI Literacy]]"
   - "[[Homework]]"
@@ -81,7 +82,7 @@ updated: 2026-10-07
 > [!boundary]- 概念边界
 > - 不等于 [[Feedback\|教学反馈]] — 教学反馈是环境或评价者提供的外部信息输入本身；反馈素养则是学习者解构、甄别、内化与转化这些输入的主体综合素养。
 > - 不等于 [[Evaluative Judgement\|评价性判断]] — 评价性判断专指对“何为优秀质量与学科标准”的内在认知衡量与鉴赏力，是反馈素养的核心认知基石；但反馈素养还额外囊括了面对负向批评的情感调控（Managing Affect）与推进方案落地的实践行动力（Taking Action）。
-> - 不等于修改顺从度（Compliance / Passive Uptake） — 高反馈素养明确包含对不合理评议或算法幻觉的理性辩驳、质疑与扬弃，一味全盘照搬反馈意见恰恰是缺乏反馈素养的典型表现。
+> - 不等于修改顺从度（[[Strategic Compliance|compliance]] / Passive Uptake） — 高反馈素养明确包含对不合理评议或算法幻觉的理性辩驳、质疑与扬弃，一味全盘照搬反馈意见恰恰是缺乏反馈素养的典型表现。
 
 ---
 

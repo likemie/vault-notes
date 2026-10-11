@@ -42,6 +42,7 @@ related_methods:
   - "[[Case Study]]"
 related_instruments: []
 related_persons:
+  - "[[Peter A. Hall]]"
   - "[[Alfred Nobel]]"
   - "[[Vannevar Bush]]"
   - "[[Donald Stokes]]"
@@ -97,7 +98,7 @@ updated: 2026-10-08
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1970s–1980s — [[Bell Labs|贝尔实验室]]微观物理与工程工艺实践期** 亲历半导体激光器、分子束外延晶体生长与分数量子霍尔效应的交叉研发，积累了对科学探索与工程制造相互促进的第一手组织经验。
+> - **1970s–1980s — [[Bell Labs|贝尔实验室]]微观物理与工程工艺实践期** 亲历半导体激光器、分子束外延晶体生长与分数量子[[Peter A. Hall|霍尔]]效应的交叉研发，积累了对科学探索与工程制造相互促进的第一手组织经验。
 >   - **代表工作** 声子传输机制与半导体界面物理[[Experimental Research|实验研究]]。
 >   - **阶段经验** 认识到没有顶尖工程制造工艺与高纯硬件装备，微观理论物理学的新现象发现便无从谈起。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 33–35)]]
 > - **1990s–2000s — 大学工学院治理与能源技术创新反思期** 将跨学科组织管理经验引入高校与国家实验室，针对清洁能源[[Research Translation|技术转化]]瓶颈反思联邦科研资助政策。

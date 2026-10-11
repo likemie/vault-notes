@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Scientific Method]]"
   - "[[Positivism]]"
+  - "[[Subversives]]"
   - "[[Falsification]]"
   - "[[Critical Dualism]]"
   - "[[Postpositivism]]"
@@ -71,7 +72,7 @@ updated: 2026-10-02
 
 > [!person-profile] 人物档案
 > - **身份位置** 奥地利裔英国哲学家、科学哲学家与社会哲学家，伦敦政治经济学院（LSE）逻辑与[[Scientific Method\|科学方法]]正教授，20 世纪最具影响力的科学哲学家之一。
-> - **核心角色** 逻辑[[Positivism\|实证主义]]经验证实原则与归纳主义的颠覆者，批判理性主义（Critical Rationalism）奠基人；以[[Falsification\|可证伪性]]确立科学划界标准，提出[[Critical Dualism\|批判二元论]]与情境分析逻辑，重塑了[[Postpositivism\|后实证主义]]与教育政策分析的[[Epistemology\|认识论]]基石。
+> - **核心角色** 逻辑[[Positivism\|实证主义]]经验证实原则与归纳主义的[[Subversives|颠覆者]]，批判理性主义（Critical Rationalism）奠基人；以[[Falsification\|可证伪性]]确立科学划界标准，提出[[Critical Dualism\|批判二元论]]与情境分析逻辑，重塑了[[Postpositivism\|后实证主义]]与教育政策分析的[[Epistemology\|认识论]]基石。
 > - **代表贡献** 提出[[Falsification\|证伪主义]]（Falsificationism）与严格检验判准；出版《开放社会及其敌人》（1945）奠定批判二元论与零星社会工程；建立猜想与反驳的知识增长模型，直接催生了[[Brian Holmes\|布赖恩·霍姆斯]]的比较教育[[Problem Approach\|问题法]]。
 
 > [!citation-card] 科恩等论推测性知识与科学推理的理性对话

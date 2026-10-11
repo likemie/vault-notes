@@ -24,6 +24,7 @@ related_concepts:
   - "[[Self-Regulated Learning]]"
   - "[[Homework]]"
   - "[[Critical Thinking]]"
+  - "[[Strategic Compliance]]"
   - "[[Theoretical Perspective]]"
   - "[[Lifelong Learning]]"
   - "[[Communities of Practice]]"
@@ -86,7 +87,7 @@ updated: 2026-10-07
 ## 概念辨析
 
 > [!contrast-table] 评价性判断与相关[[Construct\|构念]]对比
-> | 比较维度 | **评价性判断（Evaluative Judgement）** | **自我评估（Self-assessment）** | **量规对照（Rubric Compliance）** | **算法自动化评级（Automated Scoring）** |
+> | 比较维度 | **评价性判断（Evaluative Judgement）** | **自我评估（Self-assessment）** | **量规对照（Rubric [[Strategic Compliance\|compliance]]）** | **算法自动化评级（Automated Scoring）** |
 > |---|---|---|---|---|
 > | **认知层级** | 高阶元能力，融合学科标准与反思决策 | 中阶认知行为，指向具体任务的自查 | 低阶依从行为，对照既定指标逐条核对 | 外部机器计算，基于统计或模式匹配输出 |
 > | **标准来源** | 内部内化并动态校准的质量表征 | 外部给定的量规或教师提供的范例 | 显性化的文字评分规则细则 | 深度学习算法的隐性权重与概率分布 |

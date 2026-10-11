@@ -38,6 +38,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
+  - "[[Peter A. Hall]]"
   - "[[Alfred Nobel]]"
   - "[[Donald Stokes]]"
 related_facts:
@@ -114,7 +115,7 @@ updated: 2026-10-08
 > **基础研究的逻辑在先性** 基础科学研究是不考虑实用目的的自由探索，是技术进步与产业新发明的源头起搏器；若失去[[Curiosity-Driven Research|纯基础研究]]的知识储备，工业开发必将枯竭。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
 
 > [!claim] Narayanamurti, V. et al.
-> **工程实践的科学使能机制** 科学技术史事实证明，技术发明往往大幅领先于理论科学；瓦特蒸汽机工程直接催生了热力学定律，半导体异质结与先进晶体生长等关键发明直接充当了分数量子霍尔流体等物理新发现的极端实验载体。二分法将发明矮化为科学的从属副产品，在认识论上完全倒置了历史事实。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–35)]]
+> **工程实践的科学使能机制** 科学技术史事实证明，技术发明往往大幅领先于理论科学；瓦特蒸汽机工程直接催生了热力学定律，半导体异质结与先进晶体生长等关键发明直接充当了分数量子[[Peter A. Hall|霍尔]]流体等物理新发现的极端实验载体。二分法将发明矮化为科学的从属副产品，在认识论上完全倒置了历史事实。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–35)]]
 
 ---
 

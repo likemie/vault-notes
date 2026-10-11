@@ -42,6 +42,7 @@ related_concepts:
   - "[[Academic Start-up Packages]]"
 related_theories:
   - "[[Triple Helix]]"
+  - "[[Historical Institutionalism]]"
   - "[[Pool of Knowledge]]"
   - "[[Systems of Innovation]]"
   - "[[Path Dependence]]"
@@ -137,7 +138,7 @@ issuing_organization: ""
 > | **[[Academic Risk Aversion\|学术避险机制]]**<br>[[Academic Risk Aversion]] | 阐明微观层面科研资助竞争白热化、同行评议过度看重确定性与青年长聘考评压力如何形塑学者的选题自我审查。 |
 
 > [!warrant]- 理论如何支撑论证
-> 历史制度主义框架将现代[[Research Universities|研究型大学]]置于长时段的组织演变脉络中，揭示制度变革并非凭空产生，而是特定历史危机（如二战、人造卫星危机、越战与经济滞胀）驱动政策选择的结果。战后科学契约理论阐明了联邦财政与大学自主性之间的制度妥协；三螺旋理论剖析了大学与工业界从疏离到重新链接的动力；而学术避险理论则将宏观层面的资助分配机制（资助率走低、学科倾斜、同行评议）与微观学者的职业生存策略相连通，完整搭建了从宏观国家科技政策到微观科研行为异化的解释桥梁。
+> [[Historical Institutionalism|历史制度主义]]框架将现代[[Research Universities|研究型大学]]置于长时段的组织演变脉络中，揭示制度变革并非凭空产生，而是特定历史危机（如二战、人造卫星危机、越战与经济滞胀）驱动政策选择的结果。战后科学契约理论阐明了联邦财政与大学自主性之间的制度妥协；三螺旋理论剖析了大学与工业界从疏离到重新链接的动力；而学术避险理论则将宏观层面的资助分配机制（资助率走低、学科倾斜、同行评议）与微观学者的职业生存策略相连通，完整搭建了从宏观国家科技政策到微观科研行为异化的解释桥梁。
 
 ---
 

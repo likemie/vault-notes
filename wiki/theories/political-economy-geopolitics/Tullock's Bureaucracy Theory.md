@@ -35,6 +35,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[Bounded Rationality]]"
+  - "[[Historical Institutionalism]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Systematic Review]]"
@@ -154,7 +155,7 @@ updated: 2026-10-08
 >
 > **各方立场**
 > - **Cowen 的自我限定** Cowen 明确表示仅提供"尝试性假说"而非确定解释。他指向两个可能的外部因素——英国 1988 年以来的中央化教育改革（创造了需要"远程控制"学校的主权者）和行为经济学的兴起（提供了 RCT 方法论的技术合法性）。
-> - **可能的扩展方向** 将 Tullock 模型与[[Policy Borrowing\|政策借用]]框架（Steiner-Khamsi, 2012）或历史制度主义结合——前者解释时机（为什么是现在），后者解释功能（解决了什么问题）。
+> - **可能的扩展方向** 将 Tullock 模型与[[Policy Borrowing\|政策借用]]框架（Steiner-Khamsi, 2012）或[[Historical Institutionalism|历史制度主义]]结合——前者解释时机（为什么是现在），后者解释功能（解决了什么问题）。
 >
 > **目前状态** 此局限尚未被后续研究系统填补。Cowen 的框架更多被用作分析 EBE 制度功能的工具，而非预测政策变迁时机的理论。
 

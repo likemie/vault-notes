@@ -32,6 +32,7 @@ related_concepts:
   - "[[Zone of Proximal Development]]"
   - "[[Peer-Supported Learning]]"
   - "[[Presence]]"
+  - "[[Institutional Drift]]"
   - "[[Evidence Standards]]"
   - "[[Response to Proven Instruction]]"
   - "[[Man-Computer Symbiosis]]"
@@ -118,7 +119,7 @@ updated: 2026-10-07
 > [!finding-cards] 核心实证结论
 > - **强劲稳健的因果学业增益** 在三项针对小学一至三年级阅读困难学生的独立[[Randomised Controlled Trials\|随机对照试验]]中，Lightning Squad 取得了平均 $+0.34$ 的显著学业[[Effect Size\|效应量]]，斩获 [[Every Student Succeeds Act\|ESSA]] 强证据（Strong）最高评级。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 > - **大幅摊薄师资边际成本** 传统 1:1 辅导单名教师或[[Teaching Assistant\|助教]]每天最多覆盖 5–6 名学生；而 Lightning Squad 模式下单名助教每节课即可覆盖 4–6 名学生，全天可服务 20 余名高危儿童，在维持极高因果效应量的同时将人均师资成本降至传统辅导的四分之一。
-> - **技术彻底锁定高保真度** 针对非专业师资易在教学中偏离规程的难题，核心知识讲解与自适应阶梯由软件硬性锁定，完全杜绝了实施失真（Fidelity Drift），实现了卓越的跨校复现性。
+> - **技术彻底锁定高保真度** 针对非专业师资易在教学中偏离规程的难题，核心知识讲解与自适应阶梯由软件硬性锁定，完全杜绝了实施失真（Fidelity [[Institutional Drift|drift]]），实现了卓越的跨校复现性。
 
 > [!stat-cards]- 关键实证数据
 > - **+0.34** 三项严格随机对照试验测得的阅读综合平均效应量（$ES$），获 ESSA 强证据（Strong）最高等级认证。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]

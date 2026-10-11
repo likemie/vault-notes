@@ -25,6 +25,7 @@ related_concepts:
   - "[[Cultural Barrier]]"
   - "[[Lost Mode]]"
   - "[[Value Conformist Mode]]"
+  - "[[Opportunists]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Culture as Toolkit]]"
@@ -90,7 +91,7 @@ updated: 2026-10-08
 
 （[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
 
-如果以薪酬测量出路高低，大致次序是自主驱动者/机会主义者最高，迷失无从者最低；如果将权力和声望也纳入测量，价值归顺者也被视为获得了相当精英的职业([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+如果以薪酬测量出路高低，大致次序是自主驱动者/[[Opportunists|机会主义者]]最高，迷失无从者最低；如果将权力和声望也纳入测量，价值归顺者也被视为获得了相当精英的职业([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
 ---
 

@@ -31,6 +31,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Dialogue in Education]]"
   - "[[Moral Sidestep]]"
+  - "[[Institutional Drift]]"
   - "[[Teacher Professional Agency]]"
   - "[[Evidence-Based Education]]"
   - "[[International Large-Scale Assessments]]"
@@ -147,7 +148,7 @@ updated: 2026-10-09
 > - **输入-过程-产出全链条多维评估（Input-Process-Output Tripartite Continuum）** 与单纯截取认知学业产出的纸笔测验不同，现代学校督导系统（如德国 Schulinspektion）将评估触角延伸至校舍设施与生源构成（输入）、课堂教学互动与[[School Leadership\|学校领导]]效能（过程）以及学业达标与学生发展（产出），通过多维全景数据穿透学校运转生态，为解释办学绩效短板提供因果链条支撑。
 > - **校准式单体验收与定向行政干预（Calibrated Single-School Diagnosis & Targeted Intervention）** 督导采取全样本普查式覆盖（All-school Coverage），直接面向具体单所学校出具细粒度诊断反馈，使教育行政官员能够依据真实校情精准调配专项促进资金、指派指导专家或启动跟进视导，实现区别于宏观抽样评估的微观定向治理。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 494–495)]]
 > - **单一等级裁决与污名化机制（Single-Word Categorisation & Stigmatisation）** 将复杂多元的学校生态极度简化为四级或三级定性标签（如 [[Ofsted]] 的“杰出/良好/需要改进/不合格”）；低评级不仅引发公众舆论谴责，更直接触发对学校的强制重组与托管兼并（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 119]]）。
-> - **道德滑移与伪科学证据化（[[Moral Sidestep]] & Evidentiary Drift）** 行政督导评级并非经同行评议的实证科学研究，但在政策论辩中，政客常将其偷换为科学证据，并将“获得高评级学校”等同于“好学校”，以此构筑道德制高点强推争议性政策（[[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, pp. 27–28]]）。
+> - **道德滑移与伪科学证据化（[[Moral Sidestep]] & Evidentiary [[Institutional Drift|drift]]）** 行政督导评级并非经同行评议的实证科学研究，但在政策论辩中，政客常将其偷换为科学证据，并将“获得高评级学校”等同于“好学校”，以此构筑道德制高点强推争议性政策（[[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, pp. 27–28]]）。
 
 ---
 

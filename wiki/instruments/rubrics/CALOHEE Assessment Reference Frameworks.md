@@ -56,6 +56,7 @@ related_persons: []
 related_facts:
   - "[[CALOHEE Project]]"
   - "[[European Qualifications Framework]]"
+  - "[[Bologna Process]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high
@@ -118,7 +119,7 @@ updated: 2026-09-23
 ## 使用情况
 
 > [!usage-cases] 使用情境
-> - **欧洲高等教育区专业质量认证** 广泛应用于 EHEA 成员国高校的专业培养方案编制、ECTS 学分成果对齐与机构评估。
+> - **欧洲高等教育区专业质量认证** 广泛应用于 [[Bologna Process|EHEA]] 成员国高校的专业培养方案编制、ECTS 学分成果对齐与机构评估。
 > - **教师评价素养培训** 为解决高校教师“缺乏评价量规设计能力”的制度瓶颈提供了现成操作[[Scaffolding\|脚手架]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 28)]]
 
 ---

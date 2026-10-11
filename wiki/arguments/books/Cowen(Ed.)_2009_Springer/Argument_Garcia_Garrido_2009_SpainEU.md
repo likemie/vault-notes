@@ -36,6 +36,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 related_concepts:
   - "[[European Education Space]]"
+  - "[[Academic Inbreeding]]"
   - "[[Plaintive Comparison]]"
   - "[[Educational Decentralization]]"
   - "[[Discourse]]"
@@ -46,7 +47,6 @@ related_concepts:
   - "[[Critique of PISA]]"
   - "[[Academic Achievement]]"
   - "[[Class Size]]"
-  - "[[Grandes Ecoles]]"
   - "[[Global Universities Rankings]]"
   - "[[Research Scope]]"
 related_methods:
@@ -54,12 +54,14 @@ related_methods:
   - "[[Historical-Comparative Method]]"
   - "[[Secondary Analysis]]"
 related_facts:
+  - "[[Moyano Law of 1857]]"
   - "[[General Act of Education of 1970]]"
   - "[[Organic Law on the General Organization of the Education System 1990]]"
   - "[[Organic Law on Education 2006]]"
   - "[[PISA]]"
   - "[[Erasmus Programme]]"
   - "[[PISA Response in Spain]]"
+  - "[[Centros Concertados]]"
   - "[[Bologna Process]]"
   - "[[Academic Ranking of World Universities]]"
 status: completed
@@ -73,7 +75,7 @@ updated: 2026-10-11
 ## 研究问题
 
 > [!question]
-> 在欧洲一体化进程中，宣称融入[[European Education Space|欧洲教育空间]]的西班牙教育体系，在多大程度上真正与欧洲联盟（European Union, EU）主要成员国实现了实质性的资格互认与制度趋同（homologation）？为何西班牙教育在摆脱威权集权并全面对标欧洲的数十年改革中，反而深陷官僚行政极度臃肿、国家教育空间割据分裂、中学阶段大面积学业失败与大学学术近亲繁殖的重重困境？（pp. 321–322）
+> 在欧洲一体化进程中，宣称融入[[European Education Space|欧洲教育空间]]的西班牙教育体系，在多大程度上真正与欧洲联盟（European Union, EU）主要成员国实现了实质性的资格互认与制度趋同（homologation）？为何西班牙教育在摆脱威权集权并全面对标欧洲的数十年改革中，反而深陷官僚行政极度臃肿、国家教育空间割据分裂、中学阶段大面积学业失败与大学[[Academic Inbreeding|学术近亲繁殖]]的重重困境？（pp. 321–322）
 
 > [!claim] 核心主张
 > 欧洲联盟在教育事务上本质上是各主权成员国的总和，并未形成统摄性的超国家教育实体；西班牙教育的真正参照系是欧洲各国的制度演进经验。西班牙教育危机的根源不在于资金匮乏，而在于深层政治行政机制的扭曲：历史上亲欧主义与孤立主义的百年拉锯，导致政策废立无常与[[Plaintive Comparison|诉苦式比较]]；短时间内从极度集权滑向狂热的[[Educational Decentralization|教育分权]]，造成官僚行政过度膨胀与国家教育空间面临解体的危险；而在中等与高等教育阶段对综合化与自治权的教条延展，则在对标欧洲的[[Discourse|话语]]掩盖下固化了普遍平庸与结构性质量赤字。（pp. 321–333）
@@ -105,15 +107,15 @@ updated: 2026-10-11
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **历史制度主义与政策文献分析**<br>[[Historical-Comparative Method]] | 纵向梳理西班牙自 18 世纪启蒙运动、1813 年金塔纳报告、1857 年莫亚诺法案，直至 1970 年《[[General Act of Education of 1970\|普通教育法]]》（General Act of Education, LGE）、1990 年《[[Organic Law on the General Organization of the Education System 1990\|教育体制总组织法]]》（Organic Law on the General Organization of the Education System, LOGSE）与 2006 年《[[Organic Law on Education 2006\|教育组织法]]》（Organic Law on Education, LOE）的法定文本演进与政治争论。（pp. 322–325） |
+> | **历史制度主义与政策文献分析**<br>[[Historical-Comparative Method]] | 纵向梳理西班牙自 18 世纪启蒙运动、1813 年金塔纳报告、1857 年《[[Moyano Law of 1857\|莫亚诺法案]]》（Moyano Law of 1857），直至 1970 年《[[General Act of Education of 1970\|普通教育法]]》（General Act of Education, LGE）、1990 年《[[Organic Law on the General Organization of the Education System 1990\|教育体制总组织法]]》（Organic Law on the General Organization of the Education System, LOGSE）与 2006 年《[[Organic Law on Education 2006\|教育组织法]]》（Organic Law on Education, LOE）的法定文本演进与政治争论。（pp. 322–325） |
 > | **跨国比较政策分析**<br>[[Comparative Policy Analysis]] | 横向比对英国（地方教育当局与中央教育部）、美国（州自主与联邦教育部）、德国（各州文化部长联席会议与联邦介入）、法国与意大利（行政职能外派）、比利时（语言社区分裂）以及北欧国家（市镇地方化）的行政分权与综合学制实践。（pp. 326–328） |
 > | **宏观评估数据与指标批判**<br>[[Secondary Analysis\|二次分析]] | 整合西班牙国家教育质量与评估研究所（National Institute for Quality and Evaluation, INCE）历年数据、经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）国际学生评估项目（Programme for International Student Assessment, [[PISA]]，2000 与 2003 年）学业表现、留级率、教师身心健康调查以及欧盟伊拉斯谟计划（[[Erasmus Programme]]）流动数据，展开对超国家量化评估局限与国别应对困境的实证对质（参见 [[Critique of PISA\|对 PISA 的批判]] 与 [[PISA Response in Spain\|西班牙对 PISA 的政策应对]]）。（pp. 331–333） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **立法与政策样本** | 西班牙 1857 年至 2006 年间历次核心教育法案、议会辩论记录与教育部白皮书；法国、意大利、德国与英国历次行政权力与学制调整法案。（pp. 322–326） |
-> | **行政主体与层级** | 西班牙中央教育部与 17 个自治区教育行政部门；公立学校与占学生总数 30% 以上的非公立协约学校（centros concertados）。（pp. 325, 330） |
+> | **立法与政策样本** | 西班牙 1857 年至 2006 年间历次核心教育法案（包括《[[Moyano Law of 1857\|莫亚诺法案]]》）、议会辩论记录与教育部白皮书；法国、意大利、德国与英国历次行政权力与学制调整法案。（pp. 322–326） |
+> | **行政主体与层级** | 西班牙中央教育部与 17 个自治区教育行政部门；公立学校与占学生总数 30% 以上的非公立[[Centros Concertados\|协约学校]]（centros concertados）。（pp. 325, 330） |
 > | **实证与评估数据** | 14 岁与 16 岁学业失败率统计（分别为 25% 与 33%）；初中结业达到卓越等级的顶尖学生比例（不足 4%）；公私立学校师生比与教师病假早退率。（pp. 331–332） |
 
 ---
@@ -144,7 +146,7 @@ updated: 2026-10-11
 西班牙自启蒙时代以来的教育演进表明，国家教育从未真正跟上西欧先进国家的步伐，社会心理始终对外部世界抱持冷漠、迟缓与猜忌的态度。
 
 > [!evidence-grid] 支撑历史封闭定式的关键史实（pp. 322–324）
-> - **迟缓被动的国民体系** 18 世纪前期的体系被定性为受挫的国民体系（frustrated national system）。1813 年金塔纳报告与 1857 年莫亚诺法案均属于迟缓胆怯的被动立法，后者竟原封不动维系了一个世纪，未能及时回应工业化与大众教育的需求。
+> - **迟缓被动的国民体系** 18 世纪前期的体系被定性为受挫的国民体系（frustrated national system）。1813 年金塔纳报告与 1857 年《[[Moyano Law of 1857|莫亚诺法案]]》均属于迟缓胆怯的被动立法，后者竟原封不动维系了一个世纪，未能及时回应工业化与大众教育的需求。
 > - **封闭自足的文化定式** 历史文化研究揭示，抗拒倾听外部经验是一种深层的社会心理定式。社会长期流传两种孤立主义偏见：一是盲目自信本国文明完满自足而无须向外人学习，二是认为吸收外国经验必然破坏本土传统纯粹性。尽管费霍神父（Feijoo）等启蒙思想家早在 18 世纪就系统批驳了这些观念，封闭心态依然长期主导教育实践。
 > - **借鉴外部经验时的歉意与顾虑** 19 世纪跨国考察者在引介外国教育时往往背负沉重的心理顾虑。例如加西亚·纳瓦罗（García Navarro, 1874）引介福禄贝尔幼儿园制度时甚至公开向读者致歉；丰塔纳尔斯·德尔·卡斯蒂略（Joaquín Fontanals del Castillo, 1865）则告诫西班牙并非法、英、德，盲目照搬断不可行，主张必须立足本土现实展开审慎比较。
 > - **面向欧洲的零星突围** 20 世纪初，思想界开始尝试打破封闭。罗马诺内斯（Romanones）伯爵在 1901 年法令序言中指出，西班牙教育的每一次实质进步都源于与欧洲学术思想的交流；1907 年设立的扩大研究与科学调查委员会（Board for Advanced Studies and Scientific Research, JAE）主动资助学者赴法德留学，第二共和国时期也广泛汲取了西欧与苏联经验。
@@ -205,7 +207,7 @@ updated: 2026-10-11
 行政效能的低下与意识形态教条，直接阻碍了对庞大社会办学力量的理性统筹与公私协同。
 
 > [!info] 社会办学规模与公私协同的体制现实（p. 330）
-> 西班牙超过 30% 的在校学生在非公立协约学校就读，庞大的社会办学传统本可成为现代多元治理的基石；然而部分政治派系固守 19 世纪末单一、公立、世俗的排他教条，引发长期制度撕裂。
+> 西班牙超过 30% 的在校学生在非公立[[Centros Concertados|协约学校]]（Centros concertados）就读，庞大的社会办学传统本可成为现代多元治理的基石；然而部分政治派系固守 19 世纪末单一、公立、世俗的排他教条，引发长期制度撕裂。
 
 > [!debates] 公私立教育定位的跨国反差（p. 330）
 >
@@ -213,7 +215,7 @@ updated: 2026-10-11
 > > 即使在私立学校规模较小的意大利，左翼教育行政部门亦积极通过立法确立公私部门完全平等的法定地位（parità），主张吸纳社会创制力量协同办学。
 >
 > > [!axis] 西班牙争拗：排他性意识形态内耗
-> > 在非公立学校承担超过三成生源培养的西班牙，左翼力量依然抱残守缺，反复强调单一公立的排他性陈旧观念，坚决反对国家向社会办学中心提供资助，导致两大办学阵营长期对立撕裂。
+> > 在非公立[[Centros Concertados|协约学校]]承担超过三成生源培养的西班牙，左翼力量依然抱残守缺，反复强调单一公立的排他性陈旧观念，坚决反对国家向社会办学中心提供资助，导致两大办学阵营长期对立撕裂。
 
 ---
 
@@ -249,7 +251,7 @@ updated: 2026-10-11
 在高等教育领域，迎合欧洲标准的修辞与深层的封闭实践形成了鲜明讽刺。
 
 > [!critique-logic] 大学体制对标的两重假象（pp. 332–333）
-> - **学术近亲繁殖（academic inbreeding）的合法化** 历次高等教育立法打着扩[[Grandes Ecoles|大学校]]自主权的旗号，实则将大学交由自治区操控；加泰罗尼亚或安达卢西亚等大区的高校排斥跨省学者，教师多由本校嫡系内部消化，学术近亲繁殖变本加厉。
+> - **[[Academic Inbreeding|学术近亲繁殖]]（academic inbreeding）的合法化** 历次高等教育立法打着扩大大学自主权的旗号，实则将大学交由自治区操控；加泰罗尼亚或安达卢西亚等大区的高校排斥跨省学者，教师多由本校嫡系内部消化，学术近亲繁殖变本加厉。
 > - **伊拉斯谟生源吸引力的虚假繁荣** 西班牙大学在国际学术排名中位次低迷，无论是软科[[Academic Ranking of World Universities|世界大学学术排名]]（Academic Ranking of World Universities, ARWU）还是泰晤士高等教育世界大学排名（Times Higher Education World [[Global Universities Rankings|university rankings]], THE）均表现不彰，却成为欧盟[[Erasmus Programme|伊拉斯谟计划]]吸引流动学生最多的国家；然而驱动学生前来的并非学术质量与师资声誉，而是语言、气候、低生活成本与休闲资源，将其视作教育质量的证明纯属自我麻痹。
 
 ---
@@ -265,7 +267,10 @@ updated: 2026-10-11
 > - **25%** 14 岁初中学生处于显性或隐性学业失败的比例（1/4）。（p. 331）
 > - **33%** 16 岁义务教育结业时学业失败学生比例（1/3）。
 > - **< 4%** 义务教育结业时达到卓越等级的顶尖学生比例。
-> - **> 30%** 西班牙在非公立协约学校就读的学生比例，展现社会办学力量的客观重要性。（p. 330）
+> - **25%** 14 岁初中学生处于显性或隐性学业失败的比例（1/4）。（p. 331）
+> - **33%** 16 岁义务教育结业时学业失败学生比例（1/3）。
+> - **< 4%** 义务教育结业时达到卓越等级的顶尖学生比例。
+> - **> 30%** 西班牙在非公立[[Centros Concertados|协约学校]]就读的学生比例，展现社会办学力量的客观重要性。（p. 330）
 
 ---
 

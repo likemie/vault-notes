@@ -24,6 +24,7 @@ related_concepts:
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Path Dependence]]"
+  - "[[Historical Institutionalism]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Correlational Research]]"
@@ -127,7 +128,7 @@ updated: 2026-10-11
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **厚度商锁定命题** | 外围图层生态越繁荣，底层核心规则的转换壁垒越高，引致绝对路径锁定 | 计算机网络协议、手机操作系统、半导体指令集架构、高校通用专业核心课 | Boas (2007) |
-> | **再生产边界命题** | 复合标准的外围累加属于制度再生产而非制度层叠，二者不可混淆 | 历史制度主义理论检验、区域一体化规制空间、大型平台经济治理 | [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]] |
+> | **再生产边界命题** | 复合标准的外围累加属于制度再生产而非制度层叠，二者不可混淆 | [[Historical Institutionalism\|历史制度主义理论]]检验、区域一体化规制空间、大型平台经济治理 | [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]] |
 
 ---
 
@@ -160,4 +161,4 @@ updated: 2026-10-11
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 深度解构博阿斯复合标准模型，辨析外围叠加保护核心的[[Path Dependence|路径依赖]]机制与改变行为结构的[[Institutional Layering|制度层叠]]机制的本质区别。
 > - [[Path Dependence]] — 路径依赖理论基础词条，复合标准模型构成了其解释复杂生态系统技术锁定的重要微观机制。
-> - [[Institutional Layering]] — 历史制度主义核心渐进变迁机制，通过与复合标准模型对质确立变迁与再生产的分析边界。
+> - [[Institutional Layering]] — [[Historical Institutionalism|历史制度主义]]核心渐进变迁机制，通过与复合标准模型对质确立变迁与再生产的分析边界。

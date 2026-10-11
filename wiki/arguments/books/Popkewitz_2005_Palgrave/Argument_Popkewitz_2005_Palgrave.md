@@ -12,7 +12,8 @@ argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#e5e7eb"
 authors: []
-editors: ["Popkewitz, T. S."]
+editors:
+  - "[[Thomas S. Popkewitz|Popkewitz, T. S.]]"
 source_language: "en"
 book_title: "Inventing the Modern Self and John Dewey: Modernities and the Traveling of Pragmatism in Education"
 publication_place: "New York"
@@ -22,6 +23,22 @@ doi: ""
 isbn: "1403968624"
 citation: "Popkewitz, T. S. (Ed.). (2005). Inventing the modern self and John Dewey: Modernities and the traveling of pragmatism in education. New York: Palgrave Macmillan."
 tags: ["theme/comparative-education", "theme/history-of-education", "theme/book-reading"]
+related_concepts:
+  - "[[Pragmatic Paradigm]]"
+  - "[[Document]]"
+  - "[[Discourse]]"
+  - "[[Epistemology]]"
+  - "[[Presence]]"
+related_theories:
+  - "[[Theory of Mind]]"
+related_persons:
+  - "[[John Dewey]]"
+  - "[[Thomas S. Popkewitz]]"
+  - "[[Daniel Tröhler]]"
+related_facts:
+  - "[[New Education Movement]]"
+sources:
+  - "[[books/Popkewitz_2005_Palgrave/Popkewitz_2005_Palgrave|Popkewitz_2005_Palgrave]]"
 status: "draft"
 created: "2026-10-11"
 updated: "2026-10-11"
@@ -32,8 +49,8 @@ updated: "2026-10-11"
 ## 编著定位
 
 > [!volume-profile] 阅读档案
-> - **书名** 《现代自我的发明与约翰·杜威，现代性与实用主义在教育中的旅行》（Inventing the Modern Self and John Dewey: Modernities and the Traveling of Pragmatism in Education，中文题名为暂译）。
-> - **编者** 托马斯·S·波普科维茨（Thomas S. Popkewitz）。
+> - **书名** 《现代自我的发明与[[John Dewey|约翰·杜威]]，现代性与[[Pragmatic Paradigm|实用主义]]在教育中的旅行》（Inventing the Modern Self and John Dewey: Modernities and the Traveling of Pragmatism in Education，中文题名为暂译）。
+> - **编者** [[Thomas S. Popkewitz|托马斯·S·波普科维茨]]（Thomas S. Popkewitz）。
 > - **材料边界** 当前依据版权页、目录、前言与章节起止页建立阅读入口，尚未进行各章论证解读。
 > - **章节关系** 十二章分为导论与四个地域部分；各章由不同作者承担独立论述。
 > - **使用方式** 按章建立独立章节 Argument；本页维护全书结构、原文入口和阅读进度。
@@ -50,7 +67,7 @@ updated: "2026-10-11"
 ## 章节处理路线
 
 > [!chapter-roadmap] 阅读进度
-> - **准备完成** 十二章已转换为十二个 TXT，注释与其中的文献引用随所属章节保留。
+> - **准备完成** 十二章已转换为十二个 TXT，注释与其中的[[Document|文献]]引用随所属章节保留。
 > - **阅读顺序** 从第 1 章开始，再按原书各地域部分推进。
 > - **当前进度** 尚未建立章节论证页；具体主张、证据评价及跨章比较留待分章解读。
 
@@ -59,15 +76,15 @@ updated: "2026-10-11"
 ### 第一部分，导论
 
 > [!chapter-index] 原文入口
-> - **第 1 章，导论，现代自我的发明与杜威** Inventing the Modern Self and John Dewey: Modernities and the Traveling of Pragmatism in Education—An Introduction。Thomas S. Popkewitz，原书 pp. 3–36。[TXT](../../../../raw/Popkewitz_2005_Palgrave_txt/Ch01_Popkewitz_Introduction.txt)。待解读。
+> - **第 1 章，导论，现代自我的发明与[[John Dewey|杜威]]** Inventing the Modern Self and John Dewey: Modernities and the Traveling of Pragmatism in Education—An Introduction。[[Thomas S. Popkewitz]]，原书 pp. 3–36。[TXT](../../../../raw/Popkewitz_2005_Palgrave_txt/Ch01_Popkewitz_Introduction.txt)。待解读。
 
 ### 第二部分，欧洲空间的北部与南部联系
 
 > [!chapter-index] 原文入口
-> - **第 2 章，瑞典自我治理话语中作为认识论人物的杜威** Dewey as an Epistemic Figure in the Swedish Discourse on Governing the Self。Ulf Olsson; Kenneth Petersson，原书 pp. 39–60。[TXT](../../../../raw/Popkewitz_2005_Palgrave_txt/Ch02_Olsson_Petersson_Dewey_in_Sweden.txt)。待解读。
-> - **第 3 章，语言作为家园，日内瓦对实用主义的接受** Langue as Homeland: The Genevan Reception of Pragmatism。Daniel Tröhler，原书 pp. 61–83。[TXT](../../../../raw/Popkewitz_2005_Palgrave_txt/Ch03_Trohler_Langue_as_Homeland.txt)。待解读。
-> - **第 4 章，比利时的杜威，现代性的奠酒** Dewey in Belgium: A Libation for Modernity? Coping with His Presence and Possible Influence。Tom De Coster; Marc Depaepe; Frank Simon; Angelo Van Gorp，原书 pp. 85–109。[TXT](../../../../raw/Popkewitz_2005_Palgrave_txt/Ch04_DeCoster_et_al_Dewey_in_Belgium.txt)。待解读。
-> - **第 5 章，葡萄牙新教育话语建构中的杜威与社会义肢** Dewey on Lima or the Social Prosthesis in the Construction of the New Education Discourse in Portugal (1925–1936)。Jorge Ramos do Ó，原书 pp. 111–132。[TXT](../../../../raw/Popkewitz_2005_Palgrave_txt/Ch05_RamosDoO_New_Education_in_Portugal.txt)。待解读。
+> - **第 2 章，瑞典自我治理[[Discourse|话语]]中作为[[Epistemology|认识论]]人物的杜威** Dewey as an Epistemic Figure in the Swedish Discourse on Governing the Self。Ulf Olsson; Kenneth Petersson，原书 pp. 39–60。[TXT](../../../../raw/Popkewitz_2005_Palgrave_txt/Ch02_Olsson_Petersson_Dewey_in_Sweden.txt)。待解读。
+> - **第 3 章，语言作为家园，日内瓦对[[Pragmatic Paradigm|实用主义]]的接受** Langue as Homeland: The Genevan Reception of Pragmatism。[[Daniel Tröhler]]，原书 pp. 61–83。[TXT](../../../../raw/Popkewitz_2005_Palgrave_txt/Ch03_Trohler_Langue_as_Homeland.txt)。待解读。
+> - **第 4 章，比利时的杜威，现代性的奠酒** Dewey in Belgium: A Libation for Modernity? Coping with His [[Presence]] and Possible Influence。[[Theory of Mind|ToM]] De Coster; Marc Depaepe; Frank Simon; Angelo Van Gorp，原书 pp. 85–109。[TXT](../../../../raw/Popkewitz_2005_Palgrave_txt/Ch04_DeCoster_et_al_Dewey_in_Belgium.txt)。待解读。
+> - **第 5 章，葡萄牙新教育话语建构中的杜威与社会义肢** Dewey on Lima or the Social Prosthesis in the Construction of [[New Education Movement|The New Education]] Discourse in Portugal (1925–1936)。Jorge Ramos do Ó，原书 pp. 111–132。[TXT](../../../../raw/Popkewitz_2005_Palgrave_txt/Ch05_RamosDoO_New_Education_in_Portugal.txt)。待解读。
 
 ### 第三部分，欧洲东南部空间
 
@@ -92,7 +109,7 @@ updated: "2026-10-11"
 
 > [!volume-limits] 文本整理与引用边界
 > - **前置材料** 前言、致谢和作者简介并入第 1 章，并明确标为全书补充材料。
-> - **注释归属** 章末注释与参考文献保留在原有章节及页码位置，不另建零散 TXT。
+> - **注释归属** 章末注释与参考[[Document|文献]]保留在原有章节及页码位置，不另建零散 TXT。
 > - **页码定位** `[p. N]` 为原书页码，`[PDF page M]` 为文件内的一基页序；正文 PDF 页序为原书页码加 19。
 > - **目录处理** 分部名称保留在各章文件中；重复目录、分部扉页、空白页与索引未另导出。
 > - **原文核对** TXT 保留原有换行；图像、表格精确布局与引文排版请回到 PDF 核对。

@@ -37,6 +37,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Homework]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Strategic Compliance]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Scaffolding]]"
   - "[[Positivism]]"
@@ -144,7 +145,7 @@ updated: 2026-09-22
 > | 互补维度 | 实验黄金标准（[[Randomised Controlled Trials\|RCT]] / [[Meta-analysis]]） | 实践本位证据（Practice-Based Evidence） | [[Evidence-Informed Practice\|EIP]] 四源整合下的协同产出 |
 > |---|---|---|---|
 > | **因果机制定位** | 验证干预在统计平均意义上的净效应（Net Effect）。 | 揭示机制在具体班级生态中被激活的情境条件。 | 明确在何种微观条件下干预能够真正起效。 |
-> | **教师主体角色** | 规范干预动作的执行者（Compliance）。 | 审议适切性并主动改编的探究者（Inquiry）。 | 激活具有反思能力的专业实践者。 |
+> | **教师主体角色** | 规范干预动作的执行者（[[Strategic Compliance\|compliance]]）。 | 审议适切性并主动改编的探究者（Inquiry）。 | 激活具有反思能力的专业实践者。 |
 > | **证据流动通道** | 依托智库报告与出版物自上而下分发。 | 依托同行网络与[[Snowball Sampling\|网络化]]改进共同体横向流转。 | 建立多层级、双向循环的[[Knowledge Mobilisation\|知识动员]]网络。 |
 
 > [!exegesis]- 实践理解与应用示例

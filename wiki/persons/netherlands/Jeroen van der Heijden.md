@@ -32,6 +32,7 @@ related_concepts:
   - "[[Composite-Standard Model]]"
   - "[[Interpretive Validity]]"
 related_theories:
+  - "[[Historical Institutionalism]]"
   - "[[Realist Evaluation]]"
   - "[[Theory of Gradual Institutional Change]]"
   - "[[Punctuated Equilibrium Theory]]"
@@ -44,6 +45,7 @@ related_methods:
   - "[[Critical Review]]"
 related_persons:
   - "[[Ray Pawson]]"
+  - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"
 related_facts: []
 related_arguments:
@@ -65,7 +67,7 @@ updated: 2026-10-11
 > - **出生年份** 1977 年
 > - **国籍与学术脉系** 荷兰（Netherlands）；现任新西兰惠灵顿维多利亚大学政府学院规制实践讲席教授（Chair in Regulatory Practice, Victoria University of Wellington），代尔夫特理工大学技术、政策与管理学院客座研究员，澳大利亚国家大学规制与全球治理学院兼聘学者。
 > - **研究领域** 规制治理（Regulatory Governance）、环境与城市气候政策、比较历史制度分析、科学实在论政策评估。
-> - **学术贡献概述** 范德海登是国际规制治理与比较制度分析领域的领军学者。他系统考证了历史制度主义中[[Institutional Layering|制度层叠]]概念的六十年跨学科[[Document|文献]]前史，提炼出机构增厚、[[Regulatory Ratchet|规制棘轮]]与双重叠加三类演化脉络；通过解构荷兰《住房法》建筑规制执行史，他将[[Ray Pawson|雷·波森]]的[[Realist Evaluation|实在论评估]]原理拓展至制度分析领域，提出“变迁定性取决于主体的制度位置与时间尺度”这一化解突变论与渐变论对立的经典[[Epistemology|认识论]]命题；同时，他撰写了《城市气候治理创新》（剑桥大学出版社, 2017）等多部专著，开创性地将比较制度机制应用于全球可持续发展与韧性城市治理研究。
+> - **学术贡献概述** 范德海登是国际规制治理与比较制度分析领域的领军学者。他系统考证了[[Historical Institutionalism|历史制度主义]]中[[Institutional Layering|制度层叠]]概念的六十年跨学科[[Document|文献]]前史，提炼出机构增厚、[[Regulatory Ratchet|规制棘轮]]与双重叠加三类演化脉络；通过解构荷兰《住房法》建筑规制执行史，他将[[Ray Pawson|雷·波森]]的[[Realist Evaluation|实在论评估]]原理拓展至制度分析领域，提出“变迁定性取决于主体的制度位置与时间尺度”这一化解突变论与渐变论对立的经典[[Epistemology|认识论]]命题；同时，他撰写了《城市气候治理创新》（剑桥大学出版社, 2017）等多部专著，开创性地将比较制度机制应用于全球可持续发展与韧性城市治理研究。
 
 ---
 
@@ -73,7 +75,7 @@ updated: 2026-10-11
 
 > [!academic-timeline] 生平与学术节点
 > - **2007 年 — 建筑规制执行追踪与[[Realist Evaluation|实在论评估]]发轫** 在代尔夫特理工大学完成博士论文并发表关于荷兰建筑规制执行困境的研究，提出运用实在论视角解构不同层级主体对规制变革性质的时空感知差异。(Van der Heijden et al., 2007)
-> - **2010 年 — [[Theory of Gradual Institutional Change|渐进制度变迁]]研究批判** 在国际权威期刊 *Regulation & Governance* 发表综述论文，系统反思马奥尼与希伦等人关于渐进制度变迁理论的解释力边界与实证检验限度。
+> - **2010 年 — [[Theory of Gradual Institutional Change|渐进制度变迁]]研究批判** 在国际权威期刊 *Regulation & Governance* 发表综述论文，系统反思[[James Mahoney|马奥尼]]与希伦等人关于渐进制度变迁理论的解释力边界与实证检验限度。
 > - **2011 年 — [[Institutional Layering|制度层叠]]理论史经典定音** 在 *Politics* 发表里程碑综述 *Institutional Layering: A Review of the Use of the Concept*，系统梳理跨学科六十年 166 篇核心[[Document|文献]]，确立行动者与工具[[Variable|变量]]的因果桥梁价值，批判当代文献混淆制度再生产的概念漂移。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011)]]
 > - **2014–2017 年 — 城市气候治理与规制实验拓展** 出版专著 *Innovations in Urban Climate Governance*（Cambridge University Press, 2017），将比较制度分析延伸至悉尼等全球典型城市的低碳规制[[Experimental Research|实验研究]]。
 > - **2016 年至今 — 领衔国家规制实践教席** 出任新西兰惠灵顿维多利亚大学首位初级产业部规制实践讲席教授，担任国际公共政策学会（IPPA）资深学者，主导亚太规制质量提升项目。
@@ -103,7 +105,7 @@ updated: 2026-10-11
 
 > [!network] 思想继承与跨学科对话
 > - **思想承接：[[Kathleen Thelen]]（凯瑟琳·希伦）** 范德海登全面继承了希伦关于内生[[Theory of Gradual Institutional Change|渐进制度变迁]]的核心洞见，但同时通过系统史料考证指出希伦并非层叠概念的孤立起点，发掘出希克勒、贝利斯尔与克雷普斯等重要前史，并指出当代学者对希伦理论的不当稀释与泛化。
-> - **方法论汲取：[[Ray Pawson]]（雷·波森）** 范德海登将波森在社会评估领域开创的科学实在论框架跨学科迁移至公共政策与制度变迁分析，为化解历史制度主义内部关于变迁规模的假性二元对立提供了方法论透镜。
+> - **方法论汲取：[[Ray Pawson]]（雷·波森）** 范德海登将波森在社会评估领域开创的科学实在论框架跨学科迁移至公共政策与制度变迁分析，为化解[[Historical Institutionalism|历史制度主义]]内部关于变迁规模的假性二元对立提供了方法论透镜。
 > - **批判对话：Taylor Boas（泰勒·博阿斯）** 范德海登直接对质博阿斯的互联网[[Composite-Standard Model|复合标准模型]]，指出其虽借用层叠概念，机制实质却是外围厚度商加固底层核心的[[Path Dependence|路径依赖]]与制度再生产，由此厘清了[[Evolutionary Economics|演化经济学]]与历史制度主义的分析边界。
 
 ---
@@ -114,7 +116,7 @@ updated: 2026-10-11
 > - **[[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]]** — *[[Institutional Layering]]: A Review of the Use of the Concept*, *Politics*, 31(1), 9–18. 梳理制度层叠 60 年学术史，提出行动者与工具解释[[Variable|变量]]。
 > - **Van der Heijden (2017)** — *Innovations in Urban Climate Governance: Voluntary Programs for Low-Carbon Buildings and Cities*, Cambridge University Press. 剖析城市规制实验与绿色制度创新。
 > - **Van der Heijden, Visscher & Meijer (2007)** — *Problems in Enforcing Dutch Building Regulations*, *Structural Survey*, 24(3/4), 319–329. 奠定多维时空[[Realist Evaluation|实在论评估]]框架的经典经验案例。
-> - **Van der Heijden (2010)** — *A Short History of Studying Incremental Institutional Change*, *Regulation & Governance*, 4(2), 230–243. 深入评估历史制度主义渐进变迁模型的[[Interpretive Validity|解释效度]]。
+> - **Van der Heijden (2010)** — *A Short History of Studying Incremental Institutional Change*, *Regulation & Governance*, 4(2), 230–243. 深入评估[[Historical Institutionalism|历史制度主义]]渐进变迁模型的[[Interpretive Validity|解释效度]]。
 
 ---
 

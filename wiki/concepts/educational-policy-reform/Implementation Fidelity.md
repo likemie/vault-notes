@@ -24,6 +24,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Technical Rationality]]"
   - "[[Normal School]]"
+  - "[[Strategic Compliance]]"
   - "[[Construct]]"
   - "[[Internal Validity]]"
   - "[[Independent Variable]]"
@@ -109,7 +110,7 @@ updated: 2026-10-02
 > *"Without clear information on implementation fidelity, training requirements, dosage, and real-world costs, school consumers cannot determine whether a statistically significant finding in an [[Efficacy Trial]] can be replicated under [[Normal School]] conditions."*
 
 > [!boundary] 概念边界
-> - 不等于依从性（Compliance） 依从性通常仅测量参与者是否按规定出勤或使用软件；实施保真度是涵盖方案理解、互动质量、核心成分传递与环境支持的多维系统[[Construct\|构念]]。
+> - 不等于依从性（[[Strategic Compliance|compliance]]） 依从性通常仅测量参与者是否按规定出勤或使用软件；实施保真度是涵盖方案理解、互动质量、核心成分传递与环境支持的多维系统[[Construct\|构念]]。
 > - 不等于[[Internal Validity\|内部效度]]（Internal Validity） 内部效度关注组间因果推断在统计与设计上是否免于混淆偏倚；实施保真度关注[[Independent Variable\|自变量]]本身在现场是否被充分、真实地施加。
 > - 不等于[[External Validity\|外部效度]]（External Validity） 外部效度关注证据向不同人群和情境的外推潜力；实施保真度是决定效力研究能否成功外推至常态生态的底层机制支柱。
 > - 不等于[[Formative Program Evaluation\|形成性项目评价]]（[[Formative Assessment\|Formative Evaluation]]） 形成性评价是一种旨在改进项目的评估模式与方法；实施保真度是形成性评价与[[Implementation and Process Evaluation\|过程评估]]重点核查的核心构念与指标对象。
@@ -133,7 +134,7 @@ updated: 2026-10-02
 > [!feature] 实施保真度的六维核查架构
 > - **干预核心活性成分界定（Active Ingredients）** 对照[[TIDieR\|干预描述与复制模板]]（Template for Intervention Description and Replication，TIDieR）准则，清晰解构干预的理论变革模型（[[Theory of Change\|Theory of Change]]）、核心必须执行的刚性规程以及允许校本调整的弹性边界。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]
 > - **教师准备与落地执行质量（Teacher Preparation & Quality）** 评估教师接受培训的出勤率、对干预教育学理念的掌握深度，以及在真实课堂人际交互中传授核心教学规程的忠实度。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 112, 120)]]
-> - **干预使用剂量与参与依从性（Dosage & Compliance）** 系统记录学生实际接触干预的频次、单次时长、累计课时达标率，以及数字平台上的后台日志，精准测度从名义分配到实际受领的衰减比例。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 110–112)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
+> - **干预使用剂量与参与依从性（Dosage & [[Strategic Compliance|compliance]]）** 系统记录学生实际接触干预的频次、单次时长、累计课时达标率，以及数字平台上的后台日志，精准测度从名义分配到实际受领的衰减比例。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 110–112)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 > - **对照组[[Business as Usual\|常态教学]]追踪（Business-as-Usual [[Tracking]]）** 详尽调查对照组学校在实验期间开展的日常教学活动，严密排查对照组是否自发采购竞品或间接接触干预要素，防范因[[Counterfactual\|反事实]]污染导致处理效应被低估。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 > - **因果中介与变化机制验证（Mediating Mechanisms）** 检验理论预设的中介[[Variable\|变量]]（如师生互动模式、[[Metacognition\|元认知]]策略、学习动机）是否在现场被成功激活，验证干预如何经由特定路径传导至最终学业产出。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]
 > - **情境支持系统与真实实施成本（Contextual Support & Cost）** 评估学校[[Organizational Culture\|组织文化]]、领导力支持、课表调度排他性以及技术支持；核算时间消耗、师资置换与材料采购等综合成本。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 120–122)]]

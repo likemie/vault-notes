@@ -23,6 +23,7 @@ related_concepts:
   - "[[Metascience]]"
   - "[[Knowledge Production]]"
   - "[[Academic Risk Aversion]]"
+  - "[[Institutional Displacement]]"
   - "[[Variable]]"
   - "[[Critical Thinking]]"
   - "[[Publication Bias]]"
@@ -90,7 +91,7 @@ updated: 2026-10-07
 ## 核心要素与异化机制
 
 > [!feature] 古德哈特定律在科研与教育治理中的四大异化机制
-> - **代理指标置换实质目标（Surrogate Displacement）** 将便于测量的量化代理[[Variable|变量]]（如论文数量、引用频次）偷换为难以测量的终极价值（如学术卓越、科学真理与[[Critical Thinking|批判性思维]]），造成系统性目标置换。
+> - **代理指标置换实质目标（Surrogate [[Institutional Displacement|displacement]]）** 将便于测量的量化代理[[Variable|变量]]（如论文数量、引用频次）偷换为难以测量的终极价值（如学术卓越、科学真理与[[Critical Thinking|批判性思维]]），造成系统性目标置换。
 > - **萨拉米香肠式切片发表（Salami Slicing & Metric Inflation）** 学者为最大化篇数指标，将原本完整的重大突破拆分为多篇微小增量的碎片化论文，导致[[Document|文献]]总量激增而单篇认知密度急剧稀释。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 18)]]
 > - **阴性与负面结果的系统性隐瞒（[[Publication Bias]] & Omission）** 期刊追求高影响因子倾向于发表“完美阳性故事”，导致充满科学认知价值的失败实验与[[Falsification|证伪]]数据被制度性隐瞒，加剧全球[[Reproducibility Crisis|可重复性危机]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 18, 67)]]
 > - **公共产品与开源基础设施投入挤出（Public Goods Crowding-Out）** 由于开源算法维护、高质量数据集清洗与精密仪器搭建难以快速转化为个人第一作者论文篇数，高利害量化考核直接抑制了科研人员对学术公共品的建设投入。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 18–19)]]

@@ -33,6 +33,7 @@ related_concepts:
   - "[[Humility]]"
   - "[[Creativity]]"
   - "[[Paradigm]]"
+  - "[[Academic Inbreeding]]"
   - "[[Dialogue in Education]]"
   - "[[Causality]]"
   - "[[Metacognition]]"
@@ -169,7 +170,7 @@ updated: 2026-10-08
 > 探讨受训者如何从导师指导走向自主创新。
 
 > [!claim] Sandrone, S.; Ma, Y., et al.; Liénard, J. F., et al.
-> **师承传承与知识脱耦的辩证统一** 大规模科学计量数据表明，优质导师通过传授科研[[Paradigm\|范式]]启动新手的“累积优势”（Cumulative Advantage）；但受训者取得重大原始创新的关键，在于博士后阶段整合跨领域导师的新范式，并在成熟期实现知识独立（脱离导师的原有[[Research Topic\|研究主题]]），从而避免学术近亲繁殖。[[Argument_Sandrone_2025_MEO\|(Sandrone, 2025, pp. 2–4)]]
+> **师承传承与知识脱耦的辩证统一** 大规模科学计量数据表明，优质导师通过传授科研[[Paradigm\|范式]]启动新手的“累积优势”（Cumulative Advantage）；但受训者取得重大原始创新的关键，在于博士后阶段整合跨领域导师的新范式，并在成熟期实现知识独立（脱离导师的原有[[Research Topic\|研究主题]]），从而避免[[Academic Inbreeding|学术近亲繁殖]]。[[Argument_Sandrone_2025_MEO\|(Sandrone, 2025, pp. 2–4)]]
 
 ### 命题三　产学双向导师制在保障学术自由的同时实现科研知识的情境化与工程人才直聘
 
@@ -208,7 +209,7 @@ updated: 2026-10-08
 
 > [!critique-method] 制度性挑战与异化风险
 > - **[[Alfred Nobel|诺贝尔]]演讲中的[[Mentorship Recognition\|导师致谢]]缺失** 科学界普遍存在对导师隐形劳动的忽视。[[Argument_Sandrone_2025_MEO\|Sandrone (2025)]] 发现[[Nobel Prize in Physiology or Medicine\|诺贝尔生理学或医学奖]]演讲中仅 9.6% 提及导师，反映了科学奖励体系过度聚焦于“个人天才神话”而弱化培育性劳动的结构性偏见。
-> - **依附陷阱与学术近亲繁殖** 不良的导师制可能沦为导师获取廉价劳动力的工具，压制受训者的学术创新自主权，导致学术[[Paradigm\|范式]]僵化。
+> - **依附陷阱与[[Academic Inbreeding|学术近亲繁殖]]** 不良的导师制可能沦为导师获取廉价劳动力的工具，压制受训者的学术创新自主权，导致学术[[Paradigm\|范式]]僵化。
 
 ---
 

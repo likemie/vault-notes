@@ -54,6 +54,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Adrian Simpson]]"
+  - "[[Paul Pierson]]"
 related_facts:
   - "[[Sutton Trust]]"
   - "[[Education Endowment Foundation]]"
@@ -106,7 +107,7 @@ updated: 2026-09-18
 
 > [!work-line] 主要著作
 > - **2013 — *[[Sutton Trust\|The Sutton Trust]]-[[EEF Teaching and Learning Toolkit]]*** 领衔编制覆盖 30 余类通用教学策略的[[Meta-meta-analysis\|二阶元分析]]决策工具，首创结合学习进展月数、实施成本与证据安全性星级的三维呈现框架。[[Argument_Simpson_2017_JEP\|(Simpson, 2017, p. 450)]]
-> - **2016 — *Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits*** 追溯从皮尔逊 1904 年到现代元综合的演进，系统论证跨[[Meta-analysis\|元分析]]比较虽然面临“苹果与橙子”不可比的技术风险，但在控制[[Heterogeneity\|异质性]]前提下仍是回答教育干预相对成效的最佳可用手段。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, pp. 31–53)]]
+> - **2016 — *Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits*** 追溯从[[Paul Pierson|皮尔逊]] 1904 年到现代元综合的演进，系统论证跨[[Meta-analysis\|元分析]]比较虽然面临“苹果与橙子”不可比的技术风险，但在控制[[Heterogeneity\|异质性]]前提下仍是回答教育干预相对成效的最佳可用手段。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, pp. 31–53)]]
 > - **2016 — *A re-analysis of 17 [[Education Endowment Foundation]] evaluations*** 对 17 项教育[[Randomised Controlled Trials\|随机对照试验]]微观数据应用 4 种主流统计模型进行并行复算，证实 12 项试验存在严重的[[Model Dependency\|模型依赖性]]漂移，为国际循证试验规范提供了关键实证预警。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 52)]]
 
 ---

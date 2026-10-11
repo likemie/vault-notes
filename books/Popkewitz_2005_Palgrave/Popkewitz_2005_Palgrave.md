@@ -1,6 +1,7 @@
 ---
 citation: "Popkewitz, T. S. (Ed.). (2005). Inventing the modern self and John Dewey: Modernities and the traveling of pragmatism in education. New York: Palgrave Macmillan."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Popkewitz_2005_Palgrave]]"
 processed_date: 2026-10-11
 ---
 

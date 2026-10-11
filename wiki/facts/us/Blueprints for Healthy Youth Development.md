@@ -29,6 +29,7 @@ related_concepts:
   - "[[Intelligent Tutoring Systems]]"
   - "[[Access and Acceptance in Research]]"
   - "[[Initial Teacher Training]]"
+  - "[[Strategic Compliance]]"
   - "[[Attrition]]"
   - "[[Fade-out Effect]]"
   - "[[Evaluator Independence]]"
@@ -100,7 +101,7 @@ updated: 2026-10-06
 > Blueprints 因果设计描述程度[[Coding in Qualitative Research\|编码]]为 **[[Randomised Controlled Trials\|RCT]]=2, [[Quasi-Experimental Designs\|QED]]=1, [[Regression Discontinuity Design\|RDD]]=0, [[Intelligent Tutoring Systems\|ITS]]=0**([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 10]])。
 >
 > 1. **单项[[Access and Acceptance in Research\|研究准入]]认证** 实施严格的“Certified / Not Certified”初筛，仅有通过方法学质量审核的研究才能进入项目综合评级池([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 13]])。
-> 2. **强制[[Intent-to-Treat Analysis\|意向治疗分析]]（[[Initial Teacher Training\|ITT]]）** 强制要求采用 ITT 分析模型，避免因参与者依从性脱落（Compliance Bias）导致处理效应高估([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 9]])。
+> 2. **强制[[Intent-to-Treat Analysis\|意向治疗分析]]（[[Initial Teacher Training\|ITT]]）** 强制要求采用 ITT 分析模型，避免因参与者依从性脱落（[[Strategic Compliance|compliance]] Bias）导致处理效应高估([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 9]])。
 > 3. **[[Attrition\|样本流失]]双重检验** 要求对实验组与对照组脱落者实施卡方与 t 检验，全面排除差异流失造成的基线失衡。
 
 ---

@@ -58,6 +58,7 @@ related_theories:
   - "[[Critical Realism]]"
   - "[[Realist Evaluation]]"
   - "[[Bounded Rationality]]"
+  - "[[Historical Institutionalism]]"
 related_methods:
   - "[[Triangulation]]"
   - "[[Effect Size]]"
@@ -351,7 +352,7 @@ updated: 2026-10-07
 > | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 130)]] 转述 Cooper et al. | 小学教师群体，课堂评估实践信息搜寻 | 大规模调查与[[In-depth Interview\|深度访谈]] | 教师获取信息的最首要渠道 | 教师主要从其他一线教师（同行专业网络）获取评估信息 | — | 证实专业人际网络主导着微观证据流向 |
 > | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp. 122–123]] | 美国巴尔的摩县 [[Students and Teachers Accessing Tomorrow\|STAT]] 技术改革 | 形成性项目评估[[Case Study\|案例研究]] | 不同决策主体对同一份评估报告的解读与态度 | 校董、校长与教师基于各自专业判断给出了截然不同的政策解读 | — | 证明专业判断在复杂数据解释中的持续主导性 |
 > | [[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 12]] | 英国中小学面临预算缩减情境 | 实证案例与政策文本分析 | [[Education Endowment Foundation\|EEF]] 工具包效应量排行的决策应用 | 部分学校盲信工具包低效应量排行误裁[[Teaching Assistant\|教学助理]]（TA） | — | 证实抹杀专业判断的技术官僚决策会产生破坏性后果 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022, pp. 65–66)]] | [[International Education\|国际教育]]中介演进与循证医学危机交叉考察 | 历史制度主义与理论批判综合 | 商业化证据洗白与技术官僚对专业判断的侵蚀 | 揭示将指南与算法绝对化会导致临床专业判断退化，教学作为知识型专业需抵御[[Cognitive Deskilling\|去技能化]] | — | 提示防范教育证据中介滑向算法技术官僚主义 |
+> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022, pp. 65–66)]] | [[International Education\|国际教育]]中介演进与循证医学危机交叉考察 | [[Historical Institutionalism\|历史制度主义]]与理论批判综合 | 商业化证据洗白与技术官僚对专业判断的侵蚀 | 揭示将指南与算法绝对化会导致临床专业判断退化，教学作为知识型专业需抵御[[Cognitive Deskilling\|去技能化]] | — | 提示防范教育证据中介滑向算法技术官僚主义 |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023, pp. 527–528)]] | 澳大利亚公立学校向风险慈善中介（[[Social Ventures Australia\|SVA]]）申请项目资助生态 | [[Network Ethnography\|网络民族志]]与制度档案分析 | 竞争性商业赠款对基层办学自主权与专业判断的[[Disciplina and Doctrina\|规训]]效应 | 弱势学校为获取微额资助被迫全面屈从企业量规，教育专业判断服从于商业绩效考核 | — | 揭示异层治理与[[Philanthrocapitalism\|慈善资本主义]]对公立教育专业判断的隐蔽侵蚀机制 |
 > | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 涵盖 28 个国家的 109 项学校[[Research Utilization\|研究使用]]实证文献 | [[Systematic Review\|系统综述]]＋[[Framework Synthesis\|框架综合]] | 教师研究使用中的能动性与整合形态 | 象征性与[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]居多，[[Reflexivity\|反思性]]深度整合相对罕见 | — | 提示需在组织层级为专业判断提供可持续支持结构 |
 

@@ -20,6 +20,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Teacher Professional Agency]]"
   - "[[Global Education Industry]]"
+  - "[[Comprehensive Education]]"
   - "[[Global Education Reform Movement]]"
   - "[[Discourse]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -74,7 +75,7 @@ updated: 2026-10-07
 ## 核心要素
 
 > [!feature] 核心要素
-> - **民主与平等主义** 通过均等化的全纳教育（Comprehensive schooling）机制，防止学生被过早分流，致力于赋予每一个体以同等的市民道德和自治能力（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 8]]）。
+> - **民主与平等主义** 通过均等化的全纳教育（[[Comprehensive Education|comprehensive schooling]]）机制，防止学生被过早分流，致力于赋予每一个体以同等的市民道德和自治能力（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 8]]）。
 > - **团结与社会包容** 视学校为促进社会成员相互理解、建立集体责任感和情感共鸣的合作共同体，强调协作解决问题而非个体间竞争（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 8, 10]]）。
 > - **教师专业信任** 历史上面临较少的外部监督。北欧（特别是芬兰）体制传统上赋予教师高度的教学法决策权，依赖教师的社会责任感而非外部问责数据（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 8]]）。
 > - **与 [[PISA]] 公平框架的天然契合** 北欧模式强调的[[Education for All\|全民教育]]（Education for All）和包容原则与 [[PISA]] 的公平框架高度一致。挪威案例中，这一文化背景因素使得该国无需对 PISA 结果做出激烈的政策调整——北欧模式本身已涵盖了 PISA 倡导的公平与包容目标（Baird et al., 2016，引自 [[Argument_Li_2025_HSSC\|Li et al., 2025]]）。

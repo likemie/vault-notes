@@ -28,6 +28,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
+  - "[[Strategic Compliance]]"
   - "[[Scientific Explanation]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Paradigm]]"
@@ -156,7 +157,7 @@ updated: 2026-09-22
 >
 > **结果怎么读** $\beta_{\text{ITT}} > 0$ 且[[Confidence Interval\|置信区间]]不穿过 0，表明向学校提供该干预方案显著提升了学生的学业产出；若数值接近 0，则表明在真实学校生态下提供该方案未带来系统性总体收益。
 >
-> **注意事项** 当存在严重非依从（Non-compliance）时，模型“不再估计实际处理效应，因为它们并不模拟每个个体实际接受的处理”（[[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016, p. 233]]）。若教师中存在表面依从但实质未落实现象，甚至可能掩盖真实推广困境（[[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016, pp. 233–234]]）。
+> **注意事项** 当存在严重非依从（Non-[[Strategic Compliance|compliance]]）时，模型“不再估计实际处理效应，因为它们并不模拟每个个体实际接受的处理”（[[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016, p. 233]]）。若教师中存在表面依从但实质未落实现象，甚至可能掩盖真实推广困境（[[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016, pp. 233–234]]）。
 
 > [!formula-step] 公式步骤　工具变量与 CACE 关联调整
 > $$\beta_{\text{CACE}} = \frac{\beta_{\text{ITT}}}{\Pr(D = 1 \mid Z = 1) - \Pr(D = 1 \mid Z = 0)}$$

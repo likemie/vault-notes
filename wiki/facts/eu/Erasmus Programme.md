@@ -39,6 +39,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Transiency]]"
   - "[[Competitiveness]]"
+  - "[[Academic Inbreeding]]"
   - "[[Paradigm]]"
   - "[[Document]]"
 related_theories:
@@ -162,7 +163,7 @@ updated: 2026-10-11
 > > [!axis] 争议四：流动性虚假繁荣与学术质量赤字（“伊拉斯谟悖论”）
 > > 跨国留学生数量的激增能否等同于大学教育质量与学术声誉的提升？
 > > - **官方政绩修辞** 大学行政当局与政客习惯将庞大的伊拉斯谟学生流入量作为本国高等教育具备国际[[Competitiveness|竞争力]]和成功对标[[European Education Space|欧洲教育空间]]的实证依据。
-> > - **批判学者解构** [[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（[[José Luis García Garrido|José Luis García Garrido]]）尖锐指出，这种流动性繁荣在西班牙等南欧国家制造了虚假的质量安慰剂。吸引欧洲学生的是宜人气候、低廉物价和休闲生活，而非严谨学术；与此同时，大学内部充斥着高达 95% 的学术近亲繁殖与地方保护主义。将伊拉斯谟生源吸引力混同于学术声誉，掩盖了高校深层的制度性质量赤字。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 333)]]
+> > - **批判学者解构** [[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（[[José Luis García Garrido|José Luis García Garrido]]）尖锐指出，这种流动性繁荣在西班牙等南欧国家制造了虚假的质量安慰剂。吸引欧洲学生的是宜人气候、低廉物价和休闲生活，而非严谨学术；与此同时，大学内部充斥着高达 95% 的[[Academic Inbreeding|学术近亲繁殖]]与地方保护主义。将伊拉斯谟生源吸引力混同于学术声誉，掩盖了高校深层的制度性质量赤字。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 333)]]
 
 > [!citation-card] 论伊拉斯谟流动性话语的政治与个人理性异化
 > 索贝与菲舍尔援引帕帕齐巴的批判分析指出，欧盟伊拉斯谟计划所倡导的流动性话语，深刻反映了新自由主义[[Spatial Governmentality|空间治理术]]将宏观失业风险转嫁为个人适应责任的演变逻辑。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]

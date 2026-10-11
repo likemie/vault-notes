@@ -36,6 +36,7 @@ related_concepts:
 related_theories:
   - "[[End of History Thesis]]"
   - "[[Postmodernism]]"
+  - "[[Historical Institutionalism]]"
 related_methods:
   - "[[Analytic Framework]]"
 related_persons:
@@ -84,7 +85,7 @@ updated: 2026-10-08
 > - **1979–1989** 加入兰德公司（RAND Corporation）担任政治分析家，并曾进入美国国务院政策规划司任职。
 > - **1989** 在《国家利益》（*The National Interest*）杂志发表《[[End of History Thesis|历史的终结]]？》（"The End of History?"），引发全球学术与政策界空前震撼。
 > - **1992** 出版扩充专著《历史的终结与最后的人》（*The End of History and the Last Man*）。
-> - **2011–2014** 出版巨著《政治秩序的起源》与《政治秩序与政治衰败》，转向比较历史制度主义与国家能力（State Capacity）研究。
+> - **2011–2014** 出版巨著《政治秩序的起源》与《政治秩序与政治衰败》，转向比较[[Historical Institutionalism|历史制度主义]]与国家能力（State Capacity）研究。
 > - **2015** 发表《与施特劳斯共舞》（*Dancing with Strauss*），深入剖析后现代相对主义对理性与道德判断的解构危机。
 > - **2018–2022** 相继出版《身份政治》（*Identity*）与《自由主义及其不满》（*Liberalism and Its Discontents*），反思当代西方社会的政治极化、国家能力[[Attrition|流失]]与体制困境。
 

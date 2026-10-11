@@ -23,6 +23,7 @@ related_concepts:
   - "[[University Motto]]"
   - "[[Junzi]]"
   - "[[Discourse]]"
+  - "[[Strategic Compliance]]"
   - "[[Humility]]"
   - "[[Ritual Propriety]]"
   - "[[Chinese Learner]]"
@@ -86,7 +87,7 @@ updated: 2026-10-07
 
 **1. 巧言（glib tongue / 佞人）**。用心智拼凑的、与心灵分离的欺骗性[[Discourse|话语]]，以操纵和伪装为目的。"巧言令色，鲜矣仁"（Analects 1.3），"巧言乱德"（Analects 15.27）。孔子认为巧言者"滥用语言的力量"，使心智脱离关怀的心灵运行——"巧言之人是危险的"，"我憎恶巧言令色者倾覆邦家"([[Argument_Li_2012_Cambridge|Li, 2012, pp.97-98]])。
 
-**2. 谄媚之言（flattering speech）**。逢迎他人——通常指向有权势或掌控资源的人——以获取个人好处。它使说话者远离**真诚**这一仁的核心品质，同时使听者陷入虚荣。孔子告诫远离"便辟"（ingratiating）和"善柔"（feigning compliance）的朋友([[Argument_Li_2012_Cambridge|Li, 2012, p.98]])。
+**2. 谄媚之言（flattering speech）**。逢迎他人——通常指向有权势或掌控资源的人——以获取个人好处。它使说话者远离**真诚**这一仁的核心品质，同时使听者陷入虚荣。孔子告诫远离"便辟"（ingratiating）和"善柔"（feigning [[Strategic Compliance|compliance]]）的朋友([[Argument_Li_2012_Cambridge|Li, 2012, p.98]])。
 
 **3. 自夸之言（boastful speech）**。通过空洞且常带有攻击性的语言人为膨胀自我，暴露说话者自身缺乏**[[Humility|谦逊]]**。子路在孔子面前"率尔而对"——"给我一个千乘之国……三年之内，我就能使百姓有勇且知方向"——孔子"哂之"。子路的言辞"在中文中相当有文采"，但孔子不以为然，因为"在他所说的东西里没有丝毫的敬让"([[Argument_Li_2012_Cambridge|Li, 2012, pp.98-99]])。
 

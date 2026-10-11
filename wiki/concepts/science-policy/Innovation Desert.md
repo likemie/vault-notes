@@ -28,6 +28,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Founder Culture]]"
   - "[[Market Triumphalism]]"
+  - "[[Strategic Compliance]]"
   - "[[Red Tape]]"
   - "[[Scapegoat Mechanism]]"
   - "[[Technological Republic]]"
@@ -122,7 +123,7 @@ updated: 2026-10-08
 > - **科技产业的消费主义逃避（[[Technological Escapism|consumer escapism]]）** 硅谷在[[Market Triumphalism|市场必胜论]]诱导下将顶尖人才与资本集中于外卖、打车与在线游戏等日常琐事；服务消费者远比涉足防务、治安等高政治争议领域更安全、更暴利。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 172–173)]]
 > - **政客推责与政治冷漠（Political Responsibility Abdication）** 面对恶性暴力犯罪等复杂难题，建制派政客推卸责任、回避政治风险，向科技界发出切勿涉足公共领域的消极劝退信号。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 176–177)]]
 > - **特权阶层的[[Luxury Belief|炫耀性信念]]与公关避险（Luxury Beliefs & Corporate Retreat）** 科技巨头为维护自身声誉而全面关停人脸识别等前沿工具，以谴责无人主张的抽象罪恶来掩盖治理责任的放弃，将治安恶果完全转嫁给底层平民。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 175–177)]]
-> - **官僚体制的程序合规与风险排斥（Compliance Lock-in & [[Red Tape]]）** 采购决策受制于厚重的[[Red Tape|繁文缛节]]与自保哲学，严厉惩罚尝试新软件带来的局部波动，却宽容维持落后流程造成的长期系统性低效。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 10–11)]]
+> - **官僚体制的程序合规与风险排斥（[[Strategic Compliance|compliance]] Lock-in & [[Red Tape]]）** 采购决策受制于厚重的[[Red Tape|繁文缛节]]与自保哲学，严厉惩罚尝试新软件带来的局部波动，却宽容维持落后流程造成的长期系统性低效。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 10–11)]]
 > - **公共部门薪酬倒挂与人才壁垒（Compensation Deprivation & Class Wall）** 公共部门（政府、教育、医疗）刻意压制薪酬并预设公职人员为无私修道者，剥夺了合理激励，将公共领域变成富豪特权阶层的领地或离职变现跳板，阻断了顶尖工程技术与管理人才进入公共机构。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 180–183)]]
 > - **[[Procedural Piety|程序虔敬]]与实干家替罪羊清算（Procedural Piety & [[Scapegoat Mechanism|Scapegoating]]）** 当体制面临实质治理危机时，退守微观程序合规与道德审查（如对功勋工程师[[Hyman Rickover|里科弗]]的调查），对打破常规的实干领袖启动替罪羊清算（[[Scapegoat Mechanism|替罪羊机制]]），吓退创新者并固化荒漠。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 185–188)]]
 

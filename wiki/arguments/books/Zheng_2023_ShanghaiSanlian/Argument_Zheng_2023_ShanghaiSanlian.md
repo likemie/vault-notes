@@ -42,7 +42,7 @@ related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Self-Driven Mode]]"
-  - "[[Opportunist Mode]]"
+  - "[[Opportunists]]"
   - "[[Lost Mode]]"
   - "[[Value Conformist Mode]]"
   - "[[Cultural Barrier]]"
@@ -89,6 +89,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Work Meaning Schemas]]"
   - "[[Graduation Pathway Typology]]"
+  - "[[Opportunist Mode]]"
   - "[[Determinism]]"
   - "[[Sense of Shame]]"
   - "[[Avatar]]"
@@ -199,7 +200,7 @@ citation_aliases:
 2. **第二章 视角** 建立三层嵌套[[Analytic Framework|分析框架]]并交代研究设计——三条理论脉络分别对应资本化、投入、价值选择三个过程
 3. **第三章 家境** 呈现资本化过程的经验机制——揭示 [[Goal-Controlled Mode|目标掌控模式]] 与 [[Intuition-Dependent Mode|直觉依赖模式]] 如何在中学教育和家庭决策中被系统性地阶层化塑造
 4. **第四章 努力** 追踪投入过程——对比两类模式在[[Academic Engagement|学业投入]]和[[Social Engagement|社会性投入]]上的系统差异，以及约半数直觉依赖者向目标掌控模式转变的路径
-5. **第五章 方向** 揭示价值选择过程——三种工作意义文化图式与一个整合工具理性和价值理性的 2×2 四分类模型（[[Self-Driven Mode|自主驱动者]]／[[Opportunist Mode|机会主义者]]／[[Lost Mode|迷失无从者]]／[[Value Conformist Mode|价值归顺者]]）
+5. **第五章 方向** 揭示价值选择过程——三种工作意义文化图式与一个整合工具理性和价值理性的 2×2 四分类模型（[[Self-Driven Mode|自主驱动者]]／[[Opportunists|机会主义者]]／[[Lost Mode|迷失无从者]]／[[Value Conformist Mode|价值归顺者]]）
 6. **第六章 余论** 总结[[Cultural Barrier|文化障碍]]的二重性（[[Cultural Disembedding|文化脱嵌]] + [[Cultural Disorientation|文化迷失]]），为寒门学子提出突破障碍的方向性建议
 
 全书论证从结构约束走向能动性发挥，再走向价值信念的凝结——既呈现再生产的逻辑，也展现转变的可能。
@@ -1086,7 +1087,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 
 > 经纬："你不去经历，你就永远不知道自己想要的是什么"；思同（创业）："当你去追的时候，你觉得你就跟这个事情都已经是融为一体了"；友斌（学术）："教育更重要的是让人意识到其实我们的收获不是只有人民币"
 
-**[[Opportunist Mode|机会主义者]]（目标掌控 + 弱价值信念）** 同样来自优势家庭，有很强的目标意识和策略能力，但未深入内化一种价值信念，目标往往是短期的和工具性的。其选择逻辑是"做什么可以让我最成功"。将工作视为纯粹的交易关系——多位被访者以"狗"比喻自己与劳动力市场的关系。对意义问题的回答是"现在暂时搁置"或者"意义感是很虚的东西，自己过得爽才是最重要的"。
+**[[Opportunists|机会主义者]]（目标掌控 + 弱价值信念）** 同样来自优势家庭，有很强的目标意识和策略能力，但未深入内化一种价值信念，目标往往是短期的和工具性的。其选择逻辑是"做什么可以让我最成功"。将工作视为纯粹的交易关系——多位被访者以"狗"比喻自己与劳动力市场的关系。对意义问题的回答是"现在暂时搁置"或者"意义感是很虚的东西，自己过得爽才是最重要的"。
 
 > 泽斌："目前支撑我的就是这两个（财富和地位）"；国凡："我其实就是一条狗，谁给我的骨头肉多我就给谁干活"；皓然："我从来不在自己做的事情上建立意义感"
 

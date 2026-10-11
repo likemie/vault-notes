@@ -35,6 +35,7 @@ related_theories:
   - "[[Path Dependence]]"
 related_persons:
   - "[[Peter Woods]]"
+  - "[[Peter A. Hall]]"
   - "[[Alfred Nobel]]"
 related_facts:
   - "[[National Science Foundation]]"
@@ -67,7 +68,7 @@ updated: 2026-10-09
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1946 年 8 月 1 日由美国国会立法正式设立；二战刚结束，[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（OSRD）面临解散，海军高层深刻认识到先进海权对前沿基础科学（海洋声学、电磁波与电子学等）的深度依赖，率先立法建立常态资助渠道以防止顶尖学术人才[[Attrition|流失]]。
-> - **总部地点 / 业务辐射** 总部设于美国弗吉尼亚州阿灵顿，业务辐射全美主要综合性大学理学院与工学院，以及深海海洋学研究所（如[[Peter Woods|伍兹]]霍尔海洋研究所）。
+> - **总部地点 / 业务辐射** 总部设于美国弗吉尼亚州阿灵顿，业务辐射全美主要综合性大学理学院与工学院，以及深海海洋学研究所（如[[Peter Woods|伍兹]][[Peter A. Hall|霍尔]]海洋研究所）。
 > - **法人属性与经费基础** 隶属于美国海军部的联邦军事实体；直接列支国防研发预算，享有高度自主灵活的项目立项与经费拨付裁量权。
 > - **核心宗旨与法定职责** 规划、促进并协调全美与海军长远战略潜力紧密相关的基础研究；在学术界建立前瞻性理论储备，确保美国在颠覆性技术浪潮中免遭战略突袭。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 37)]]
 

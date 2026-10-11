@@ -64,6 +64,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
 related_persons:
+  - "[[Peter A. Hall]]"
   - "[[Plato]]"
 related_facts:
   - "[[SPECTRUM]]"
@@ -206,7 +207,7 @@ updated: 2026-10-06
 > 批判将教育知识转移等同于临床医学转化的线性思维，确立教育情境对机械转移的技术阻抗。
 
 > [!claim] [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]]
-> **教育知识转移的非线性本质与反机械临床转化** 维罗妮卡·马尼蒂乌斯与诺伯特·范霍尔特（Veronika Manitius & Norbert van Holt, 2019）指出，伴随[[Evidence-Based Education|循证教育]]治理的兴起，知识转移常被预设为如同循证医学临床转化一般的线性应用过程，误以为只要将科学研究与测评数据打包推送至学校，便能自动实现教学改进。然而，实证研究证实，外部督导与全域统考的数据回传在单体学校普遍面临成效缺失（mangelnde Effekte）。教育实践并非均质化、机械闭合的临床实验室，而是高度依赖微观教学情境、教师专业判断与学校[[Organizational Culture|组织文化]]的复杂生态。机械套用医学转化逻辑的单向知识转移，忽视了经典的理论-实践问题（Theorie-[[Praxis]]-Problem），无法逾越从研究证据到微观行动的深层[[Epistemology|认识论]]鸿沟。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 9, 11)]]
+> **教育知识转移的非线性本质与反机械临床转化** 维罗妮卡·马尼蒂乌斯与诺伯特·范[[Peter A. Hall|霍尔]]特（Veronika Manitius & Norbert van Holt, 2019）指出，伴随[[Evidence-Based Education|循证教育]]治理的兴起，知识转移常被预设为如同循证医学临床转化一般的线性应用过程，误以为只要将科学研究与测评数据打包推送至学校，便能自动实现教学改进。然而，实证研究证实，外部督导与全域统考的数据回传在单体学校普遍面临成效缺失（mangelnde Effekte）。教育实践并非均质化、机械闭合的临床实验室，而是高度依赖微观教学情境、教师专业判断与学校[[Organizational Culture|组织文化]]的复杂生态。机械套用医学转化逻辑的单向知识转移，忽视了经典的理论-实践问题（Theorie-[[Praxis]]-Problem），无法逾越从研究证据到微观行动的深层[[Epistemology|认识论]]鸿沟。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 9, 11)]]
 
 ---
 
@@ -242,7 +243,7 @@ updated: 2026-10-06
 > - **1980s — 大学[[Bayh-Dole Act of 1980|拜杜法案]]与产学知识转移兴起** 伴随[[Knowledge-Based Economy|知识经济]]崛起，欧美大学成立知识转移办公室（KTO），知识转移在管理学中确立为技术商业化与校企隐性知识流动的核心概念。
 > - **2003 — 循证卫生决策中的 Lavis 战略框架** Lavis et al. (2003) 提出“五问”受众战略模型，标志着循证政策领域第一代知识转移分析工具的成熟。
 > - **2010–2022 — [[Knowledge Mobilisation|知识动员]]三代演进与再定位** Best & Holmes (2010) 与 [[Argument_Torres_2022_KMModels|Torres (2022b)]] 确立知识转移作为知识动员第一代线性模型的历史地位，阐明其向关系协同与自适应复杂系统模型的代际跨越。
-> - **2019 — 德语区学校改进反思教育知识转移的临床医学转化类比** 马尼蒂乌斯与范霍尔特（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019]]）反思德语区教育治理中的知识转移与[[Transfer Science|转移科学]]（Transferwissenschaft），指出全域监测数据回传在单体学校的成效缺失，强调教育知识流动具有高度情境依存性，不能照搬循证医学的机械转化假定。
+> - **2019 — 德语区学校改进反思教育知识转移的临床医学转化类比** 马尼蒂乌斯与范[[Peter A. Hall|霍尔]]特（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019]]）反思德语区教育治理中的知识转移与[[Transfer Science|转移科学]]（Transferwissenschaft），指出全域监测数据回传在单体学校的成效缺失，强调教育知识流动具有高度情境依存性，不能照搬循证医学的机械转化假定。
 > - **2022 — [[Geopolitics of Knowledge|知识地缘政治]]（GPK）分析[[Paradigm|范式转换]]** [[Argument_Partaken_2022_Springer|Partaken (2022)]] 系统提出将[[Critical Geopolitics|批判地缘政治]]的核心从“[[Knowledge Production|知识生产]]”转向“知识转移”，界定知识在运动中的六大控制模态。
 
 ---

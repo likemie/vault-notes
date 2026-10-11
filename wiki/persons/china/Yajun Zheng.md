@@ -31,7 +31,7 @@ related_concepts:
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
   - "[[Self-Driven Mode]]"
-  - "[[Opportunist Mode]]"
+  - "[[Opportunists]]"
   - "[[Lost Mode]]"
   - "[[Value Conformist Mode]]"
   - "[[Cultural Disembedding]]"
@@ -107,7 +107,7 @@ updated: 2026-10-02
 
 **双模式类型学** 大学生在组织大学生活的方式上存在系统性的阶层差异——优势家庭学生更常采用[[Goal-Controlled Mode|目标掌控模式]]（有策略地规划大学生活以实现职业目标），而弱势家庭学生更常采用[[Intuition-Dependent Mode|直觉依赖模式]]（凭直觉应对大学选择，缺乏对场域规则的了解）。在 Vaisey 双过程框架下，这两种模式分别对应着在深层价值观驱动和浅层工具箱能力两个维度上的系统性阶层差异([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
-**四分类模型** 在双模式基础上纳入价值信念驱动力维度，形成 2×2 四分类：[[Self-Driven Mode|自主驱动者]]（目标掌控+强价值信念）、[[Opportunist Mode|机会主义者]]（目标掌控+弱价值信念）、[[Lost Mode|迷失无从者]]（直觉依赖+弱价值信念）、[[Value Conformist Mode|价值归顺者]]（直觉依赖+强价值信念）([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+**四分类模型** 在双模式基础上纳入价值信念驱动力维度，形成 2×2 四分类：[[Self-Driven Mode|自主驱动者]]（目标掌控+强价值信念）、[[Opportunists|机会主义者]]（目标掌控+弱价值信念）、[[Lost Mode|迷失无从者]]（直觉依赖+弱价值信念）、[[Value Conformist Mode|价值归顺者]]（直觉依赖+强价值信念）([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
 **[[Cultural Barrier|文化障碍]]的二重性** 郑雅君进一步将[[Cultural Barrier|文化障碍]]厘清为两重维度——[[Cultural Disembedding|文化脱嵌]]（对物理环境和社会文化环境的全面疏离感）和[[Cultural Disorientation|文化迷失]]（场域转换造成的内在自我冲突和目标策略迷失）([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 

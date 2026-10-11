@@ -35,6 +35,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Champ]]"
 related_theories:
+  - "[[Historical Institutionalism]]"
   - "[[World-Systems Theory]]"
   - "[[Autopoiesis]]"
 related_methods:
@@ -96,7 +97,7 @@ updated: 2026-10-08
 > | **核心机制** | 内部系统主动将矛盾投射到外部参照点进行意义过滤 | 跨国政策文本、规制模式与实践方案的跨界引流与再情境化 | 跨国力量或全球规范驱动各国制度走向均质一致 |
 > | **动因导向** | 内生性驱动：为了打破本土改革僵局或抵制变革 | 混合驱动：兼顾解决本土现实问题与追赶国际标准 | 外生性驱动：服从世界社会规范或依附性受压 |
 > | **参考对象属性** | “仿佛有效”的拟似外部投射（甚至包括本国历史传统） | 真实的外国特定政策模型（如德国[[German Dual Education System\|双元制]]、芬兰综合学校） | 全球性量化基准、公约目标与通用治理指标 |
-> | **理论依托传统** | [[Niklas Luhmann\|卢曼]]社会学系统论与批判[[Discourse Analysis\|话语分析]] | 比较教育转移研究与历史制度主义 | 新制度主义社会学与[[World-Systems Theory\|世界体系理论]] |
+> | **理论依托传统** | [[Niklas Luhmann\|卢曼]]社会学系统论与批判[[Discourse Analysis\|话语分析]] | 比较教育转移研究与[[Historical Institutionalism\|历史制度主义]] | 新制度主义社会学与[[World-Systems Theory\|世界体系理论]] |
 
 ---
 

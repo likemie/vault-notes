@@ -52,6 +52,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[David C. Mowery]]"
+  - "[[Peter A. Hall]]"
 related_facts:
   - "[[German State Educational Institutes and Quality Agencies]]"
   - "[[EPPI-Centre]]"
@@ -210,7 +211,7 @@ updated: 2026-10-09
 > - **2004–2013 — Levin 模型确立中介的功能系统地位** Ben Levin 发表系列论文，正式构建包含生产、中介、使用三元重叠的教育[[Research Knowledge Mobilisation Model|研究知识动员模型]]（RKM），将中介确立为连接象牙塔与现实学校的核心中枢。
 > - **2005 — 科技政策视野下的大学跨界知识中介机制确立** 法布里奇奥与莫厄里系统揭示大学如何依托联邦科研基础设施投建与人才流动，在国防公共投资与商业信息技术产业之间充当深层知识中介。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29–36)]]
 > - **2011–2019 — Gough 证据生态演进中的中介枢纽化** Gough 等人（[[EPPI-Centre]]）从最初构建生产-中介-使用三元系统（2011），到逆转图式凸显实践需求与中介拉力（2018），最终在双层嵌套模型中确立中介在沟通连接与全系统元研究中的核心地位（2019）。
-> - **2019 — 德语区反思中层中介机构的实证成效与双重脱节** 马尼蒂乌斯与范霍尔特（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019]]）系统审视德语区各州研训研究所与[[School Inspection|学校督导]]的知识中介功能，指出制度化中介机构在承担枢纽角色的同时面临严重的实证研究赤字，呼吁建立兼顾科学严谨与实践适切的中介研究体系。
+> - **2019 — 德语区反思中层中介机构的实证成效与双重脱节** 马尼蒂乌斯与范[[Peter A. Hall|霍尔]]特（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019]]）系统审视德语区各州研训研究所与[[School Inspection|学校督导]]的知识中介功能，指出制度化中介机构在承担枢纽角色的同时面临严重的实证研究赤字，呼吁建立兼顾科学严谨与实践适切的中介研究体系。
 > - **2022 — [[OECD]] 整合比较中的反思与超越** [[Argument_Torres_2022_KMModels|Torres (2022b)]] 横向对比主流模型，指出未来知识中介必须突破单纯的学术证据推销，转向促进证据与教育创新的深度共生（Révai, 2020），并以学生与教师的深度专业学习为崇高目标。
 
 ---

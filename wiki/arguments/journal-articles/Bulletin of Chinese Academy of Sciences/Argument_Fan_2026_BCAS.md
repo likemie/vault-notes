@@ -41,6 +41,7 @@ related_concepts:
   - "[[Mission-Oriented Research]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Gold Standard Science]]"
+  - "[[Strategic Compliance]]"
 related_theories:
   - "[[Social Contract of Science]]"
   - "[[Pasteur's Quadrant]]"
@@ -385,7 +386,7 @@ journal: "中国科学院院刊"
 > [!citation-card] 边疆隐喻从制度前提退化为待证命题
 > 支撑这一伟大隐喻的三大制度基石正在发生根本动摇……无止境的边疆正式从一项免检的制度性前提，退化为一个必须不断在政治与经济法庭上自证合规与效用的待正当化命题。（pp. 1063–1064）
 >
-> *The three institutional bedrocks underpinning this great metaphor are experiencing fundamental shaking... The endless frontier has officially devolved from an exempt institutional premise into a proposition that must continually prove its compliance and utility in the courts of politics and economy.*
+> *The three institutional bedrocks underpinning this great metaphor are experiencing fundamental shaking... The endless frontier has officially devolved from an exempt institutional premise into a proposition that must continually prove its [[Strategic Compliance|compliance]] and utility in the courts of politics and economy.*
 
 ---
 

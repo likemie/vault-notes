@@ -39,7 +39,6 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Technical Rationality]]"
   - "[[Transfer Science]]"
-  - "[[Opportunist Mode]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Soft Power]]"
@@ -199,7 +198,7 @@ updated: 2026-10-09
 > > - **[[Positivism\|实证主义]]政策[[Transfer Science|转移学]]者** 坚信 [[PISA]] 等标准化大数据提供了跨越国界的客观基准，高位参考社会承载了最前沿的教育生产力。
 > > - **批判后殖民学者（[[Argument_Klerides_2023_CE\|Klerides, 2023]]; [[Argument_Li_2025_HSSC\|Li et al., 2025]]）** 揭示西方国家对非西方参考社会的系统性降格，指出模范社会的加冕往往充当了新自由主义绩效问责与去语境化政策推销的特洛伊木马。
 >
-> > [!axis] 实质性制度改进 vs 国内政治相持下的[[Opportunist Mode\|机会主义]][[Externalization\|外化]]
+> > [!axis] 实质性制度改进 vs 国内政治相持下的机会主义[[Externalization\|外化]]
 > > 政策制定者宣称效仿外部经验旨在改善教学；系统论与政治学透镜揭示其仅为逃避国内政治责任与压制劳工工会的修辞掩护。
 > >
 > > - **Schriewer（1990）与 Steiner-Khamsi（2024）** 证明借用他国经验绝大多数属于“仪式性外化”（Ritual Externalisation），政客只选取符合本国特定派系利益的碎片化话语，对参考社会深层的结构性社会投入弃之不顾。

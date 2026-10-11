@@ -54,6 +54,7 @@ related_theories:
   - "[[Institutional Isomorphism]]"
   - "[[Van Leeuwen's Legitimation Theory]]"
   - "[[Actor-Network Theory]]"
+  - "[[Historical Institutionalism]]"
   - "[[Post-structuralism]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
@@ -253,7 +254,7 @@ updated: 2026-10-07
 > > 探讨政策分析应以去中心化的跨界流动网络为核心，还是依然将主权民族国家的法律科层视作决定性基石。
 > >
 > > - **政策流动批判学者（Ball, 2016；Peck & Theodore, 2015）** 认为当代全球治理早已被跨国异质网络渗透，传统的民族国家[[Analytic Framework\|分析框架]]已沦为阻碍洞察跨国资本与咨询寡头隐秘权力的“[[Methodological Nationalism\|方法论民族主义]]”盲区。
-> > - **历史制度主义与比较政治学者（Skocpol, 1985；Lingard, 2010）** 强调虽然政策流动日益频繁，但主权国家依然垄断着税收、法定办学资质与立法特权；流动中的政策一旦进入具体主权国家，必须接受官僚科层与地方法律制度的严格再规制，国家绝非无足轻重的“虚影节点”。
+> > - **[[Historical Institutionalism|历史制度主义]]与比较政治学者（Skocpol, 1985；Lingard, 2010）** 强调虽然政策流动日益频繁，但主权国家依然垄断着税收、法定办学资质与立法特权；流动中的政策一旦进入具体主权国家，必须接受官僚科层与地方法律制度的严格再规制，国家绝非无足轻重的“虚影节点”。
 >
 > > [!axis] 批判性网络[[Rich and Thick Description\|深描]] vs 经验证据的可测量性与因果检验
 > > 探讨[[Network Ethnography\|网络民族志]]追踪的个案流动机制是否具备实证[[External Validity\|可推广性]]。

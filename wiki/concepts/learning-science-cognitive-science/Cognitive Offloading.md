@@ -34,6 +34,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Critical Thinking]]"
   - "[[Divergent Thinking]]"
+  - "[[Strategic Compliance]]"
   - "[[Epistemic Agency]]"
   - "[[Absolutist]]"
   - "[[Multiplist]]"
@@ -106,7 +107,7 @@ updated: 2026-10-07
 > *In higher education, students tend to rely on Gen-AI primarily for text generation and information retrieval, often engaging in superficial interactions or delegating intellectual tasks to the technology—a phenomenon referred to as “knowledge outsourcing”... encouraging “shortcut learning,” limiting originality and [[Divergent Thinking]].*
 
 > [!citation-card]- 关键表述：表面顺从与认识立场分化
-> 生成式 AI 提供高度整合与连贯的完整解答数据包，极易诱发学习者的表面顺从（Superficial Compliance），绕过批判性证据过滤与深入逻辑推理，导致[[Epistemic Agency\|认识主体性]]的不当卸载。学习者的认识立场（Epistemic Stances）起到了关键分流作用：[[Absolutist\|绝对主义立场]]导致对 AI 输出的全盘盲从；[[Multiplist\|相对主义立场]]导致无标准的随意拼贴；评价主义立场则能借助提示工程与交叉核验，将认知卸载限制在表层负荷削减上，把持核心评价权。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–361)]]
+> 生成式 AI 提供高度整合与连贯的完整解答数据包，极易诱发学习者的表面顺从（Superficial [[Strategic Compliance|compliance]]），绕过批判性证据过滤与深入逻辑推理，导致[[Epistemic Agency\|认识主体性]]的不当卸载。学习者的认识立场（Epistemic Stances）起到了关键分流作用：[[Absolutist\|绝对主义立场]]导致对 AI 输出的全盘盲从；[[Multiplist\|相对主义立场]]导致无标准的随意拼贴；评价主义立场则能借助提示工程与交叉核验，将认知卸载限制在表层负荷削减上，把持核心评价权。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–361)]]
 >
 > *Generative AI easily tempts learners into superficial compliance and epistemic offloading, bypassing critical evidence filtering... Only an [[Evaluativist]] epistemic stance enables constructive offloading while preserving epistemic agency.*
 
@@ -131,7 +132,7 @@ updated: 2026-10-07
 > - **[[Task Structure\|任务结构]]与教学情境（Task Structuring）** 任务是否设置了显性探究阶段、反思提示与评估量规，决定认知卸载是转化为有效的高阶学习还是浅层的应付性复制。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 9–10)]]
 > - **[[Self-Regulated Learning\|自主调节学习]]能力（SRL As Cognitive Neutralizer）** 学习者的目标追踪与策略调控构成抵御有害外包的最强内生防线，直接决定智能工具是被用作“思维磨刀石”还是“心智委托箱”。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 15–16)]]
 > - **[[Epistemic Stances\|认识立场]]的认知分流（Epistemic Stances as Cognitive Offloading Regulators）** 学习者对知识本质与[[Justificatory Standards\|确证标准]]的信念直接决定认知卸载的性质：绝对主义与相对主义倾向于破坏性外包与表面顺从，而评价主义能够借助[[Chain-of-Thought Prompting\|思维链]]等提示策略实现建设性卸载。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 359–361)]]
-> - **表面顺从与证据过滤剥离（Superficial Compliance & Evidence Bypassing）** 生成式模型直接输出结构完整答案包的特性，易诱使学习者跳过信息辨析、证据取舍与反思论证等关键中间认识步骤。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 361)]]
+> - **表面顺从与证据过滤剥离（Superficial [[Strategic Compliance|compliance]] & Evidence Bypassing）** 生成式模型直接输出结构完整答案包的特性，易诱使学习者跳过信息辨析、证据取舍与反思论证等关键中间认识步骤。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 361)]]
 > - **干预持续时长与消退机制（Duration & [[Scaffolding]] Fading）** 认知卸载在时间维度上呈现倒 U 型适应规律，缺乏动态消退机制的超长周期干预极易促发心理倦怠与卸载固化。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 14–15)]]
 > - **[[Metacognition\|元认知]]监控与[[Epistemological Vigilance\|认识论警觉]]（Metacognitive Monitoring & Vigilance）** 学习者对工具输出真实性、逻辑缺陷与自身认知盲区的持续审视，是防范盲目卸载的关键闸门。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 6–7)]]; [[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, p. 16)]]
 
@@ -207,7 +208,7 @@ updated: 2026-10-07
 > 阐明学习者的认识信念如何在中介技术交互中充当认知负荷分流的调节阈门，确立[[Evaluativist\|评价主义认识立场]]对维系高阶审思与[[Epistemic Agency\|认识主体性]]的决定性作用。
 
 > [!claim] Wu, J.-Y., Lee, Y.-H., Chai, C. S., & [[Chin-Chung Tsai\|Tsai, C.-C.]]
-> **认识立场对认知卸载的决定性分流机制** 生成式 AI 直接输出完整答案包的特性极易诱发表面顺从（Superficial Compliance），诱导学习者跳过批判性证据过滤与推理排错，导致认识主体性的不当卸载。学习者的[[Epistemic Stances\|认识立场]]决定了卸载的具体形态：① **[[Absolutist\|绝对主义立场]]** 将 AI 输出奉为绝对事实，全盘卸载批判性审视与证据检验责任，极易滑向算法幻觉盲从与思维惰性；② **[[Multiplist\|相对主义立场]]** 视 AI 产出为随意的主观观点，进行无标准的随意拼贴；③ **评价主义立场** 能够将生成式 AI 视为共生思维伙伴，借助[[Chain-of-Thought Prompting\|思维链]]（CoT）与[[Role-playing\|角色扮演]]提示策略将繁复的信息整理与程序化排错等表层外在负荷卸载给技术，同时主动把持核心的评价性判断、多源证据协调与论证辩护权，从而使认知卸载真正服务于高阶心智发展。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–365)]]
+> **认识立场对认知卸载的决定性分流机制** 生成式 AI 直接输出完整答案包的特性极易诱发表面顺从（Superficial [[Strategic Compliance|compliance]]），诱导学习者跳过批判性证据过滤与推理排错，导致认识主体性的不当卸载。学习者的[[Epistemic Stances\|认识立场]]决定了卸载的具体形态：① **[[Absolutist\|绝对主义立场]]** 将 AI 输出奉为绝对事实，全盘卸载批判性审视与证据检验责任，极易滑向算法幻觉盲从与思维惰性；② **[[Multiplist\|相对主义立场]]** 视 AI 产出为随意的主观观点，进行无标准的随意拼贴；③ **评价主义立场** 能够将生成式 AI 视为共生思维伙伴，借助[[Chain-of-Thought Prompting\|思维链]]（CoT）与[[Role-playing\|角色扮演]]提示策略将繁复的信息整理与程序化排错等表层外在负荷卸载给技术，同时主动把持核心的评价性判断、多源证据协调与论证辩护权，从而使认知卸载真正服务于高阶心智发展。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–365)]]
 
 ---
 
@@ -230,7 +231,7 @@ updated: 2026-10-07
 > - **2010 年代初 — 具身与物理动作卸载** Risko & Gilbert 等认知心理学家系统界定认知卸载，聚焦于使用旋转头部/身体、纸笔备忘与数码提醒等外部动作降低内部记忆负荷。
 > - **2010 年代末 — 互联网互联与数字外包** 随着智能手机与搜索引擎普及，研究拓展至数字记忆外包（Google 效应 / 数字健忘症）对长时记忆[[Coding in Qualitative Research\|编码]]与信息检索策略的影响。
 > - **2024–2025 年 — 生成式 AI 介入下的认知分化与时间边界确立** 大语言模型赋予机器复杂的语义生成与代码调试能力，认知卸载突破低阶存储边界，进入论证建构与[[Creativity\|创造性]]综合等高阶领域。[[Argument_Li_2026_CEAI\|Li et al. (2026)]] 揭示了非结构化环境下的批判性侵蚀与[[Metacognition\|元认知]]外包路径；[[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] 进一步通过一阶[[Meta-analysis\|元分析]]实证确立了“8–16 周中期黄金平衡 vs 长期过度依赖衰落”的倒 U 型时间曲线，并证实[[Self-Regulated Learning\|自主调节学习]]能力（SRL）是中和认知外包风险的决定性个体防线。
-> - **2025 年 — [[Epistemic Stances\|认识立场]]分化与[[Man-Computer Symbiosis|人机共生]][[Epistemic Agency\|认识主体性]]框架确立** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 提出人机共生学习伙伴关系模型，系统揭示表面顺从（Superficial Compliance）与证据过滤剥离机制，阐明绝对主义、相对主义与[[Evaluativist\|评价主义认识立场]]对认知卸载形态的决定性分流作用。
+> - **2025 年 — [[Epistemic Stances\|认识立场]]分化与[[Man-Computer Symbiosis|人机共生]][[Epistemic Agency\|认识主体性]]框架确立** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 提出人机共生学习伙伴关系模型，系统揭示表面顺从（Superficial [[Strategic Compliance|compliance]]）与证据过滤剥离机制，阐明绝对主义、相对主义与[[Evaluativist\|评价主义认识立场]]对认知卸载形态的决定性分流作用。
 > - **2026 年 — 延展心智规范判准重塑与中间认识动作剥落诊断** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 从社会[[Epistemology\|认识论]]与延展[[Theory of Mind\|心智理论]]出发重新界定认知卸载，提出卸载能否扩展主体性取决于学习者能否控制耦合、审计系统输入并独立恢复推理，并系统剖析了无摩擦委派如何压缩检索与综合等中间认识动作并剥夺[[Evaluative Judgement\|评价性判断]]。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 4–6)]]
 
 ---

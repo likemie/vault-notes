@@ -31,7 +31,8 @@ related_methods:
   - "[[Inter-Rater Reliability]]"
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Questionnaire]]"
-related_persons: []
+related_persons:
+  - "[[Paul Pierson]]"
 related_facts: []
 related_arguments:
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
@@ -70,7 +71,7 @@ updated: 2026-09-11
 > [!proc] 重测[[Reliability\|信度]]评估四步骤
 > 1. **首次施测** 在时间点 1 对一组受试者施测目标量表
 > 2. **间隔后重测** 在适当的时间间隔后对同一组受试者再次施测同一量表。常用适当间隔为两星期到一个月之间（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.5；Creswell & Creswell, 2022, Ch8）
-> 3. **计算相关系数** 一般使用皮尔逊积矩相关系数（[[Pearson Product-Moment Correlation]]）计算两次测量之间的相关。高相关（如 r > .70）表明量表具有良好的重测信度
+> 3. **计算相关系数** 一般使用[[Paul Pierson|皮尔逊]]积矩相关系数（[[Pearson Product-Moment Correlation]]）计算两次测量之间的相关。高相关（如 r > .70）表明量表具有良好的重测信度
 > 4. **报告均值差异** 评估是否存在系统性变化（如[[Order Effects\|练习效应]]或疲劳效应）
 
 ### 计算公式与解读

@@ -68,6 +68,7 @@ related_persons:
   - "[[Peter Thiel]]"
   - "[[Alfred Nobel]]"
   - "[[Venkatesh Narayanamurti]]"
+  - "[[Peter A. Hall]]"
   - "[[Jerome E. Schnee]]"
   - "[[Michael Kratsios]]"
   - "[[Donald Stokes]]"
@@ -144,7 +145,7 @@ updated: 2026-10-10
 > - **信息论与数理通信模型** 克劳德·香农在优化电报电话传输效率中开创现代信息论（Information Theory），将熵与信道容量进行严谨数理建模，成为数字时代的理论基石。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 7)]]
 > - **光学与微波通信体系** 1958 年阿瑟·肖洛（Arthur Schawlow）与查尔斯·汤斯（Charles Townes）合作提出光学脉泽（激光器）原理；研制长途光纤通信低损耗激光源与中继放大器。
 > - **计算科学与基础软件架构** 发明 UNIX 操作系统、C 语言与 C++ 语言；提出信息论与射电天文学宇宙微波背景辐射测量（阿诺·彭齐亚斯与罗伯特·威尔逊，1965）。
-> - **前沿材料与量子现象突破** 研制超纯半导体异质结构，直接支撑崔琦与霍斯特·斯特默于 1982 年在此测得分数量子霍尔效应与全新形态量子流体。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 35)]]
+> - **前沿材料与量子现象突破** 研制超纯半导体异质结构，直接支撑崔琦与霍斯特·斯特默于 1982 年在此测得分数量子[[Peter A. Hall|霍尔]]效应与全新形态量子流体。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 35)]]
 
 > [!citation-card] [[Jerome E. Schnee|施尼]]论贝尔实验室衍生企业与高流动性[[Human Capital Theory|人力资本]]苗圃
 > 杰罗姆·E·施尼（Jerome E. Schnee, 1978）实证指出，贝尔实验室构成了战后美国半导体产业最重要的技术辐射源与创业苗圃。在反垄断监管威慑与母公司宽松许可政策下，AT&T 对核心技术骨干离职创办竞争性企业采取了高度包容的态度：从 1952 年巴卡拉尔创立 Transitron，到 1955 年肖克利创办肖克利半导体并衍生出仙童与英特尔，1952 至 1967 年间至少有 15 家独立半导体公司由贝尔实验室离职人员创立。这种跨企业人才高频流动构成了美国半导体产业技术扩散超越欧洲与传统巨头垄断的最关键制度机制。

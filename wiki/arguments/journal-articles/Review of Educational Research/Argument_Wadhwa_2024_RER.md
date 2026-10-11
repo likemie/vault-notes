@@ -58,6 +58,7 @@ related_concepts:
   - "[[Initial Teacher Training]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Unit of Analysis]]"
+  - "[[Strategic Compliance]]"
   - "[[Variable]]"
   - "[[Evidence Standards]]"
   - "[[Abstract]]"
@@ -273,7 +274,7 @@ updated: 2026-09-18
 >    - **[[Cluster Randomized Trials\|集群随机对照试验]]（Cluster Randomized Controlled Trial, Cluster RCT）的致命处理** 在教育现场，[[Random Assignment\|随机化]]往往发生在学校或班级层面，而测量发生在学生个体层面。若不进行[[Hierarchical Linear Model\|多层线性模型]]（Hierarchical Linear Model, HLM）或群[[Intraclass Correlation Coefficient\|组内相关系数]]（Intraclass Correlation Coefficient, ICC）校正，[[Standard Error\|标准误]]将被严重低估，导致虚假显著性。全库仅 WWC 制定了详尽的集群偏倚防范与自由度调整规程；多数机构（如 NDPC、CASEL）甚至无法识别集群与[[Unit of Analysis\|分析单位]]错位问题。
 >    - **样本流失（[[Attrition]]）与选择偏差** WWC 建立了著名的“整体流失 vs 差异流失”边界模型（允许最大潜在偏倚在 0.05 个标准差 [Standard Deviation, SD] 以内）；SPTW 与 CMFR 仅设定了粗糙的 20% 流失率上限；Blueprints 则要求对脱落者与保留者实施双重卡方/[[t-test\|t检验]]。这意味着同一篇因流失被 WWC 降级的 RCT，在其他清算中心可能轻松获评最高质量。
 > 2. **意向治疗分析（ITT） vs 顺从者平均因果效应（CACE）之争**
->    - Blueprints、SPTW 等坚持公共卫生传统的机构强制要求 ITT（即不论学生实际上了几节课，只要被分入实验组均计入分析），以避免依从性偏倚（compliance bias）；
+>    - Blueprints、SPTW 等坚持公共卫生传统的机构强制要求 ITT（即不论学生实际上了几节课，只要被分入实验组均计入分析），以避免依从性偏倚（[[Strategic Compliance|compliance]] bias）；
 >    - WWC 则在严格满足工具[[Variable\|变量]]排除性约束（exclusion restriction）的前提下，允许报告针对实际参与者的 CACE 估计。这反映出各中心在“评估政策推广效果（ITT）”还是“评估干预纯生理/心理效能（CACE）”上的根本哲学分歧。
 > 3. **准实验（QED）与自然实验的系统性边缘化**
 >    - 在现实教育中，由于伦理与行政限制，海量优秀干预仅能采用准实验或政策断点。然而除 WWC 和 HomVEE 对 RDD（断点回归）制定了完备的强迫变量[[Manipulation Check\|操纵检验]]与带宽拟合标准外，绝大多数清算中心直接无视 RDD 和 ITS（中断时间序列）。

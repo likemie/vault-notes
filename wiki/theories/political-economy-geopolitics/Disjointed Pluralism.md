@@ -28,8 +28,10 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Document]]"
   - "[[Institutional Displacement]]"
+  - "[[Rule Ambiguity]]"
   - "[[Paradigm]]"
 related_theories:
+  - "[[Historical Institutionalism]]"
   - "[[Pluralism]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -39,10 +41,12 @@ related_persons:
   - "[[Kathleen Thelen]]"
   - "[[Jeroen van der Heijden]]"
   - "[[Rainer Kattel]]"
+  - "[[James Mahoney]]"
 related_facts:
   - "[[Education Resources Information Center]]"
 related_arguments:
   - "[[Argument_VanDerHeijden_2011_Politics]]"
+  - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
 confidence: high
 status: draft
 created: 2026-10-11
@@ -58,7 +62,7 @@ updated: 2026-10-11
 > [!theory-position] 理论定位
 > - **解释对象** 复杂立法机构、政权组织及公共治理架构在长期历史演进中的非一致性创新、结构杂合性与多目标张力。
 > - **理论问题** 批判理性选择制度主义将制度预设为单一意志下的协调一致理性蓝图，以及社会学制度主义先验假定制度系统具有高度内部连贯性；解释制度内部为何总是充满相互冲突的议事规则、重叠职能与彼此脱节的管理流程。
-> - **理论类型** 中层解释理论、历史制度主义理论与美国政治发展（American Political Development, APD）[[Analytic Framework|分析框架]]。
+> - **理论类型** 中层解释理论、[[Historical Institutionalism|历史制度主义理论]]与美国政治发展（American Political Development, APD）[[Analytic Framework|分析框架]]。
 > - **知识位置** 处于历史制度主义与国会政治研究交汇处；哲学渊源汲取了卡伦·奥伦与斯蒂芬·斯科夫罗内克（Karen Orren & Stephen Skowronek, 1994）关于制度时间性与非连贯多重秩序的理论洞见；是[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）提炼[[Institutional Layering|制度层叠]]概念最直接的思想母体。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 12)]]
 
 > [!claim] 核心判断
@@ -84,7 +88,7 @@ updated: 2026-10-11
 > [!dev-timeline] 理论演进脉络
 > - **1994 年 — 制度时间性与非连贯性思想发轫** 奥伦与斯科夫罗内克（Orren & Skowronek, 1994）发表重要论文，呼吁制度分析必须正视时间性，明确指出制度不是协调一致的单一有机体，早期历史时期的残存规则始终作为构件制约着当下制度运行。
 > - **2001 年 — 希克勒出版《脱节多元主义》** 希克勒正式提出脱节多元主义理论，首次提炼出在既有结构顶端层叠新安排（[[Institutional Layering|layering]] of new arrangements）的分析视角。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 12)]]
-> - **2003–2004 年 — 希伦提炼制度层叠机制** [[Kathleen Thelen|凯瑟琳·希伦]]（Thelen, 2003, 2004）吸收希克勒关于多元妥协累积的核心洞见，将层叠正式升格为历史制度主义渐进变迁的四大机制支柱之一。
+> - **2003–2004 年 — 希伦提炼制度层叠机制** [[Kathleen Thelen|凯瑟琳·希伦]]（Thelen, 2003, 2004）吸收希克勒关于多元妥协累积的核心洞见，将层叠正式升格为[[Historical Institutionalism|历史制度主义]]渐进变迁的四大机制支柱之一。
 > - **2011 年 — [[Jeroen van der Heijden|范德海登]]学术史考证** 范德海登通过学术史追踪明确指出，学界应重新认识希克勒作为制度层叠理论灵感源头的基石地位，避免将层叠扁平化为纯粹的机械累加。
 
 ---
@@ -152,13 +156,13 @@ updated: 2026-10-11
 
 ## 典型案例
 
-> [!case] 美国国会立法委员会与议事规则的百年层叠演进（Schickler, 2001b; Mahoney & Thelen, 2009）
+> [!case] 美国国会立法委员会与议事规则的百年层叠演进（Schickler, 2001b; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009]]）
 > - **理论困境与经验谜题** 传统国会研究学者长期争论国会究竟是由两党领袖牢固控制的党派集权[[Rainer Kattel|卡特尔]]，还是由资深议员把持的委员会独立分权领地。国会法案在实际运作中经常在议长强推与委员会阻挠之间反复拉锯。
 > - **脱节[[Pluralism|多元主义]]历史解构** 希克勒系统调阅两百年立法档案证实：
 >   1. 19 世纪末，为提高立法通过效率，国会设立了强大的议事规则委员会并强化议长集权；
 >   2. 1910 年，进步主义议员联盟掀起反抗议长独裁运动，并未废除规则委员会，而是剥夺议长在该委员会的席位并确立委员会主席资历制；
 >   3. 20 世纪 70 年代，水门事件后年轻民主党议员掀起民主化改革，在既有资历制顶端增设由全院党团直选小组委员会主席的多重层级。
-> - **分析结论** 最终形成的美国国会制度既非纯粹党派工具亦非纯粹分权松散联盟，而是三次重大历史博弈妥协共同堆叠塑造出的脱节多元杂合体；马奥尼与希伦进一步指出，这一案例生动展示了制度模糊性与层叠如何使多元利益在同一体制内妥协共生。（pp. 11–12）
+> - **分析结论** 最终形成的美国国会制度既非纯粹党派工具亦非纯粹分权松散联盟，而是三次重大历史博弈妥协共同堆叠塑造出的脱节多元杂合体；[[James Mahoney|马奥尼]]与希伦进一步指出，这一案例生动展示了[[Rule Ambiguity|制度模糊性]]与层叠如何使多元利益在同一体制内妥协共生。（pp. 11–12）
 
 ---
 
@@ -186,7 +190,7 @@ updated: 2026-10-11
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 考证脱节[[Pluralism|多元主义]]作为希伦[[Institutional Layering|制度层叠]]概念关键前史的理论谱系，确立其在历史制度主义因果解释中的核心枢纽地位。
+> - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 考证脱节[[Pluralism|多元主义]]作为希伦[[Institutional Layering|制度层叠]]概念关键前史的理论谱系，确立其在[[Historical Institutionalism|历史制度主义]]因果解释中的核心枢纽地位。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 借鉴脱节多元主义的妥协拼接模型，将制度内生张力与模糊性升格为解释渐进演化的微观动力基石。
 > - [[Institutional Layering]] — 历史制度主义核心渐进变迁机制，直接汲取脱节多元主义关于新安排在既有结构之上张力层叠的核心洞见。
 > - [[Kathleen Thelen]] — 当代历史制度主义领军学者，系统改造并推广了希克勒的层叠分析[[Paradigm|范式]]。

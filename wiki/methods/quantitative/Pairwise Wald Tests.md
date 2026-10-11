@@ -48,8 +48,7 @@ related_methods:
   - "[[Cochran's Q Test]]"
   - "[[Correlational Research]]"
 related_instruments: []
-related_persons:
-  - "[[Franklin D. Roosevelt]]"
+related_persons: []
 related_facts:
   - "[[Parliamentary Office of Science and Technology]]"
 related_arguments:
@@ -168,7 +167,7 @@ updated: 2026-10-08
 > - **偏误来源** 多重比较累积 I 型错误风险；小样本亚组方差估计不足导致 Wald 检验功效偏低。
 > - **适用边界** 依赖于大样本渐近正态性[[Hypothesis\|假设]]；当各组[[Effect Size\|效应量]]高度相关但协方差未被建模时，可能产生有偏推断。
 > - **误用风险** 在总 $Q_{between}$ 检验不显著的情况下盲目开展大量未经校正的事后成对检验，导致假阳性发现。
-> - **补救方式** 结合 Bonferroni 或 [[Franklin D. Roosevelt|FDR]] 校正；配合[[Confidence Interval\|置信区间]]重叠度检验；在多水平框架下建模研究内相关性。
+> - **补救方式** 结合 Bonferroni 或 FDR 校正；配合[[Confidence Interval\|置信区间]]重叠度检验；在多水平框架下建模研究内相关性。
 
 ---
 

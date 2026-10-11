@@ -20,6 +20,7 @@ related_concepts:
   - "[[Man-Computer Symbiosis]]"
   - "[[Cognitive Offloading]]"
   - "[[Epistemic Agency]]"
+  - "[[Strategic Compliance]]"
   - "[[Epistemic Stances]]"
   - "[[Multiplist]]"
   - "[[Evaluativist]]"
@@ -65,7 +66,7 @@ updated: 2026-10-07
 > [!citation-card] 绝对主义立场在人机交互中的认知表征
 > 持绝对主义立场的学习者倾向于将生成式人工智能生成的回答直接视同事实定论，既不质疑模型的潜在幻觉与方法局限，也不与外部经验数据进行交叉核验，从而在表面顺从中丧失了深层认知参与。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 362)]]
 >
-> *Absolutist learners tend to accept GenAI outputs as direct, unquestionable facts, showing superficial compliance without verifying evidence or engaging in critical reflection.*
+> *Absolutist learners tend to accept GenAI outputs as direct, unquestionable facts, showing superficial [[Strategic Compliance|compliance]] without verifying evidence or engaging in critical reflection.*
 
 ---
 
@@ -111,7 +112,7 @@ updated: 2026-10-07
 > 揭示在智能技术介入解决复杂问题时，绝对主义立场如何阻碍深度学习并导致[[Epistemic Agency\|认识主体性]]丧失。
 
 > [!claim] Wu et al.
-> **绝对主义[[Cognitive Offloading\|认知卸载]]病理与干预路径** 在面对统计推论或跨学科探究等任务时，持绝对主义立场的学习者倾向于直接采用大模型推荐的单一方法（例如直接套用[[Chi-Squared Test\|卡方检验]]而忽略数据尺度与配对约束），并迅速将模型输出与讲义对齐作为终结标准。这种绝对主义立场使认知卸载演变为完全放弃[[Metacognition\|元认知监控]]的“表面顺从（Superficial Compliance）”。唯有通过提示词工程（强制模型呈现冲突观点与推导过程）与同行评审双轨支架，才能迫使其打破对单一权威答案的迷信。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 362–366)]]
+> **绝对主义[[Cognitive Offloading\|认知卸载]]病理与干预路径** 在面对统计推论或跨学科探究等任务时，持绝对主义立场的学习者倾向于直接采用大模型推荐的单一方法（例如直接套用[[Chi-Squared Test\|卡方检验]]而忽略数据尺度与配对约束），并迅速将模型输出与讲义对齐作为终结标准。这种绝对主义立场使认知卸载演变为完全放弃[[Metacognition\|元认知监控]]的“表面顺从（Superficial [[Strategic Compliance|compliance]]）”。唯有通过提示词工程（强制模型呈现冲突观点与推导过程）与同行评审双轨支架，才能迫使其打破对单一权威答案的迷信。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 362–366)]]
 
 ---
 

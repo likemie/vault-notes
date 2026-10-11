@@ -72,6 +72,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
+  - "[[Paul Pierson]]"
   - "[[Karl Pearson]]"
   - "[[Gene Glass]]"
   - "[[John Hattie]]"
@@ -220,7 +221,7 @@ updated: 2026-10-07
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1904 — 起源阶段** 皮尔逊（[[Karl Pearson]]）在跨研究数据合并中首次提出：不仅要检验数据合并的平均结论，更须关注不同研究间效果变异（异质性）的动因。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 33)]]
+> - **1904 — 起源阶段** [[Paul Pierson|皮尔逊]]（[[Karl Pearson]]）在跨研究数据合并中首次提出：不仅要检验数据合并的平均结论，更须关注不同研究间效果变异（异质性）的动因。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 33)]]
 > - **1970s–1980s — [[Meta-analysis\|元分析]]确立与初衷警示** 格拉斯（[[Gene Glass]]）开创元分析方法，但明确警告其最终呈现“绝不应只是一个冰冷的平均数，而应是一张展示效果异质性与变异模式的分布图”。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, p. 9)]]
 > - **1990s — [[Grand Theory\|宏大理论]]批判与医学统计反思** 莱德（Layder, 1994）与默顿（Merton）等批判宏大叙事无视世界的流动与异质性；流行病学家 Feinstein（1995）指斥脱离临床异质性的元分析为“21 世纪统计炼金术”。
 > - **2000s — 测量学批评与[[Realist Evaluation\|实在论综合]]** Coe（2002）指出将不同测量工具的[[Effect Size\|效应量]]强行平均在数学上缺乏意义；Pawson（2006）确立“背景-机制-结果”的[[Realist Evaluation\|实在论评估]][[Paradigm\|范式]]，主张将异质性作为理论生成源泉。

@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Paradigm]]"
+  - "[[Strategic Compliance]]"
   - "[[Mission-Oriented Research]]"
   - "[[Hardware Security]]"
   - "[[Use-Inspired Basic Research]]"
@@ -47,6 +48,7 @@ related_facts:
   - "[[Department of Energy]]"
   - "[[Restoring Gold Standard Science Executive Order]]"
 related_persons:
+  - "[[Peter A. Hall]]"
   - "[[Vannevar Bush]]"
 related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
@@ -73,13 +75,13 @@ updated: 2026-10-10
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种“由内而外”展开的认知活动，以拓展人类对宇宙、生命与物质基本法则的认识边界为唯一宗旨，拒绝将科研异化为线性指标交付。
-> - **用途** 帮助科学社会学者与科技政策分析师揭示科研体系中“不可预测性（Unpredictability）”与偶发性发现（Serendipity）的制度价值，阐明基础物质科学探索（如二维材料、量子霍尔效应、自旋拓扑态）如何充当后续整个技术创新链条的源头活水。
+> - **用途** 帮助科学社会学者与科技政策分析师揭示科研体系中“不可预测性（Unpredictability）”与偶发性发现（Serendipity）的制度价值，阐明基础物质科学探索（如二维材料、量子[[Peter A. Hall|霍尔]]效应、自旋拓扑态）如何充当后续整个技术创新链条的源头活水。
 > - **边界** 自由探索并不等同于脱离学术共同体规范的漫无边际的空想，其依然受到同行评议与严格经验证据检验的自洽性约束；与追求特定产品原型的应用研究及工程制造具有清晰分界。
 
 > [!citation-card] 边疆隐喻下自由探索的制度退守
 > 科学上的“边疆”并未消失，但其制度承载方式正在发生转变……更为自由的探索性研究，则可能在制度支持减弱的情况下呈现出更加分散化的发展形态……无止境的边疆正式从一项免检的制度性前提，退化为一个必须不断在政治与经济法庭上自证合规与效用的待正当化命题。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1063–1064)]]
 >
-> *The "frontier" in science has not disappeared, but its institutional vehicles are undergoing transformation... more open curiosity-driven research may take on a more decentralized form amid diminishing institutional support... The endless frontier has officially devolved from an exempt institutional premise into a proposition that must continually prove its compliance and utility in the courts of politics and economy.*
+> *The "frontier" in science has not disappeared, but its institutional vehicles are undergoing transformation... more open curiosity-driven research may take on a more decentralized form amid diminishing institutional support... The endless frontier has officially devolved from an exempt institutional premise into a proposition that must continually prove its [[Strategic Compliance|compliance]] and utility in the courts of politics and economy.*
 
 > [!boundary]- 概念边界
 > - **不等于 [[Mission-Oriented Research|任务导向型研究]]** — 后者由国家行政中枢预设明确技术目标、交付节点与安全指标（如[[Manhattan Project|曼哈顿工程]]或国防部[[Hardware Security|硬件安全]]计划）；自由探索型研究由学者自发推进，拒绝接受指标性行政工期约束。
@@ -96,7 +98,7 @@ updated: 2026-10-10
 > | **典型象限** | 玻尔象限（纯基础机理探索） | [[Pasteur's Quadrant\|巴斯德象限]]（应用启发基础探索） | 爱迪生象限 / 曼哈顿范式（纯应用开发与工程集成） |
 > | **核心驱动力** | 科学家学术敏感度与同行共同体探索欲 | 产业共性技术难题倒逼与基础机理穿透 | 国家战略意志、地缘竞争动员与行政采购合同 |
 > | **评价机制** | 学术共同体同行评议（Peer Review）与学术首创权 | 科学认知突破与应用转化潜力双重评估 | 目标里程碑达成率、技术就绪度（[[Technology Readiness Level\|TRL]]）爬升与实体交付 |
-> | **微电子映射** | 二维量子霍尔效应、自旋拓扑绝缘体物理探索 | 未来半导体计划（FuSe）、多维[[Co-Design\|协同设计]]基础理论 | 300mm 先进制程中试、微系统[[Hardware Security\|硬件安全]]根攻坚 |
+> | **微电子映射** | 二维量子[[Peter A. Hall\|霍尔]]效应、自旋拓扑绝缘体物理探索 | 未来半导体计划（FuSe）、多维[[Co-Design\|协同设计]]基础理论 | 300mm 先进制程中试、微系统[[Hardware Security\|硬件安全]]根攻坚 |
 
 ---
 

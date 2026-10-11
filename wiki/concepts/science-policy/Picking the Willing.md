@@ -28,7 +28,6 @@ related_concepts:
   - "[[Technology Readiness Level]]"
   - "[[Agile Governance]]"
   - "[[Document]]"
-  - "[[Opportunist Mode]]"
   - "[[Cognitive Deskilling]]"
   - "[[Market Shaping and Creating]]"
   - "[[Public Value]]"
@@ -194,7 +193,7 @@ updated: 2026-10-09
 > [!debates] 核心学术争议与张力
 >
 > > [!axis] 企业“漂绿”投机意愿 vs 真实转型能力
-> > 争论如何识别企业的真实转型动机，防范[[Opportunist Mode|机会主义]]套利。
+> > 争论如何识别企业的真实转型动机，防范机会主义套利。
 > >
 > > - **批评视角** 指出大型跨国污染企业可能利用雄厚的公关资源进行“漂绿（Greenwashing）”，虚假申报参与使命以套取公共补贴，却在内部维系原有的不可持续生产模式。
 > > - **制度防范** 强调意愿者机制必须配备穿透式技术审计、第三方全生命周期碳排监测与具有法律效力的惩罚性资金追回条款。

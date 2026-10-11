@@ -32,6 +32,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Discourse]]"
   - "[[Document]]"
+  - "[[Comprehensive Education]]"
   - "[[Total War]]"
   - "[[Topological Spatialisation]]"
   - "[[Social Regime]]"
@@ -108,7 +109,7 @@ updated: 2026-10-09
 > [!citation-card] 尼曼等论 PISA 震荡作为德国教育决策的决定性分水岭
 > PISA 构成了德国教育政策制定过程中决定性的分水岭。2001 年底 PISA 结果公布后，一套全方位的教育改革议程几乎在德国即刻出台，彻底改变了持续数十年的体制僵局。（[[Argument_Li_2025_HSSC\|Li et al., 2025]]；Niemann et al., 2017, p. 175）
 >
-> *PISA was a decisive watershed in German education policymaking. Almost instantly after the PISA results were publicized in late 2001, a comprehensive education reform agenda was put forward in Germany.*
+> *PISA was a decisive watershed in German education policymaking. Almost instantly after the PISA results were publicized in late 2001, a [[Comprehensive Education]] reform agenda was put forward in Germany.*
 
 > [!citation-card] [[Sigrid Hartong\|西格丽德·哈通]]论 PISA 震荡打破测试禁忌与催生拓扑数据治理
 > PISA 2000 震荡彻底击碎了德国此前对标准化学生测试的长期禁忌，推动常设各州教育与文化部长会议（KMK）通过了国家教育监测[[Total War|总体战]]略。然而，德国并未简单复制英美的高利害排名问责，而是在禁止学校排名的宪制共识下，通过创设柏林教育质量发展研究所（IQB）等国家计算中心与全德校际测试（[[Vergleichsarbeiten\|VERA]]），以跨尺度数据基础设施实现了国家标准向微观课堂的拓扑折叠与远距离治理。（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 135, 138–144]]）

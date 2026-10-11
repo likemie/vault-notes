@@ -26,6 +26,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Strategic Compliance]]"
   - "[[Democratic Education]]"
   - "[[Whole Language]]"
   - "[[Positivism]]"
@@ -101,7 +102,7 @@ updated: 2026-10-01
 > [!citation-card] 抵制商业去专业化与维护教师能动性（Patrick Shannon, 1989）
 > 当教师被降格为只准机械念诵商业练习册脚本的流水线工人时，不仅教师的专业尊严荡然无存，学生也永久丧失了通过阅读理解真实世界、发展批判性思考的民主权利。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 14)]]
 >
-> *Commercial programs strip teachers of their judgment and reduce literacy to mindless compliance, compromising the very foundations of [[Democratic Education]].*
+> *Commercial programs strip teachers of their judgment and reduce literacy to mindless [[Strategic Compliance|compliance]], compromising the very foundations of [[Democratic Education]].*
 
 ---
 

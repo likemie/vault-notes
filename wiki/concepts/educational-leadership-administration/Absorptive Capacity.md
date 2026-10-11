@@ -73,6 +73,7 @@ related_persons:
   - "[[Mark Rickinson]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Mariana Mazzucato]]"
+  - "[[Peter A. Hall]]"
 related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"
   - "[[Monash Q Project]]"
@@ -211,7 +212,7 @@ updated: 2026-10-09
 > - **1990 — 工业研发创新领域的奠基** 韦斯利·科恩（Wesley Cohen）与丹尼尔·莱文萨尔（Daniel Levinthal）发表《吸收能力：学习与创新的新视角》，奠定组织识别、吸收与应用外部知识的三维[[Analytic Framework\|分析框架]]。
 > - **2002 — 潜在与实现吸收能力的分化** 沙哈拉与乔治（Zahra & George, 2002）将吸收能力重新构架为“潜在吸收能力”（获取与消化）与“实现吸收能力”（转化与利用），深化了组织知识转化的过程论模型。
 > - **2018 — 宏观国家治理与[[Public Dynamic Capabilities|公共部门动态能力]]扩展** 玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018, p. 808]]）将吸收能力与机构学习（Institutional Learning）引入国家创新治理与公共部门能力分析，论证政府与高校管理机构唯有在持续投资与实验探索中积累内生吸收能力，才能摆脱对外部咨询机构的[[Cognitive Deskilling|去技能化]]依赖并有效引领使命导向转型。
-> - **2019 — 德语区教育[[Transfer Science|转移科学]]与微观[[Organizational Culture|组织文化]]土壤** 曼尼蒂乌斯与范霍尔特（[[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt, 2019]]）在确立教育科学作为[[Transfer Science\|转移科学]]（Transferwissenschaft）的学科对话中，系统反思了各类清算机构（[[Educational Evidence Clearinghouses|Clearinghouse]]）被动供给的局限，强调转移成效从根本上受制于单体学校现场的微观组织文化土壤与异质吸收能力（Absorptionskapazität），主张依托全周期教师教育与中层研训机构重塑吸收转化生态。
+> - **2019 — 德语区教育[[Transfer Science|转移科学]]与微观[[Organizational Culture|组织文化]]土壤** 曼尼蒂乌斯与范[[Peter A. Hall|霍尔]]特（[[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt, 2019]]）在确立教育科学作为[[Transfer Science\|转移科学]]（Transferwissenschaft）的学科对话中，系统反思了各类清算机构（[[Educational Evidence Clearinghouses|Clearinghouse]]）被动供给的局限，强调转移成效从根本上受制于单体学校现场的微观组织文化土壤与异质吸收能力（Absorptionskapazität），主张依托全周期教师教育与中层研训机构重塑吸收转化生态。
 > - **2020 — 宏观经济与[[Technological Catch-up|技术追赶]]中的经验确证** 格利茨与迈尔森（[[Argument_Glitz_2020_AER\|Glitz & Meyersson, 2020]]）基于冷战时期东德工业间谍数据，证实只有接近西德技术前沿的行业才能有效消化科技情报，实证确立了认知距离对吸收能力的决定作用。[[Argument_Glitz_2020_AER\|(Glitz & Meyersson, 2020, p. 1096)]]
 > - **2021 — K-12 教育学区改革评价吸纳** 罗斯与[[Keith Morrison\|莫里森]]结合巴尔的摩 [[Students and Teachers Accessing Tomorrow\|STAT]] 项目，将吸收能力引入教育行政与评价利用，揭示项目理解与开放沟通对评价证据转化的支撑。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 122–124)]]
 > - **2022 — [[Push and Pull Models of Knowledge Mobilisation\|知识动员推拉模型]]与学校使能生态** [[Monash Q Project\|莫纳什 Q 项目]]与 [[OECD]] [[Knowledge Mobilisation\|知识动员]]模型将吸收能力确立为克服单向供给推送偏误的核心支柱，量化揭示时间赤字与领导示范对学校吸收能力的决定性影响。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 43–45)]]；[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 183–187)]]

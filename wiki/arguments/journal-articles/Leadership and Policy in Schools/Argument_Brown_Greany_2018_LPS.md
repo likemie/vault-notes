@@ -61,6 +61,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Reflexivity]]"
+  - "[[Strategic Compliance]]"
   - "[[Placement, Formative, Diagnostic, and Summative Testing]]"
   - "[[Literature Review]]"
   - "[[Causality]]"
@@ -260,7 +261,7 @@ updated: 2026-09-21
 
 > [!tension] 自主改进诉求与高压问责机制的制度张力
 > - **自我改进系统的前提[[Hypothesis\|假设]]** 国际组织与学者强调，高自主权必须与高问责及高能力建设协同配套方能奏效（OECD, 2011, 2015; Ehren et al., 2014），学校唯有拥有充裕的时间、容错空间与信任机制，才能开展深层[[Reflective Thinking\|反思性探究]]。
-> - **高压问责现实的负面效应** 严苛的绩效评价体系极大压缩了学校的创新与试错空间，诱发应试教学、课程窄化与抢夺生源等策略性合规行为（Cappon, 2015; Lubienski, 2009）；终结性测评数据压倒了一切形成性研究证据，阻碍了教学实践的实质改进（Karr et al., 2006; Supovitz, 2015）。
+> - **高压问责现实的负面效应** 严苛的绩效评价体系极大压缩了学校的创新与试错空间，诱发应试教学、课程窄化与抢夺生源等[[Strategic Compliance|策略性合规]]行为（Cappon, 2015; Lubienski, 2009）；终结性测评数据压倒了一切形成性研究证据，阻碍了教学实践的实质改进（Karr et al., 2006; Supovitz, 2015）。
 
 > [!warrant]- 步骤一的推理桥梁
 > 严密的高压问责体制构成了塑造学校行为的决定性激励力量：除了与问责考核指标直接相关的应试举措外，现行制度环境并不利于真正意义上的证据知情实践（Earley et al., 2012; Waldegrave & Simons, 2014）。政策文本所宣称的“研究引领”与学校实际承受的“分数问责”之间存在巨大的结构性断裂，这使得对学校真实准备状态的实证检验成为迫切的学术与政策课题。
@@ -463,7 +464,7 @@ updated: 2026-09-21
 > [!citation-card]- [[Self-Improving School System\|自我改进学校系统]]的核心[[Hypothesis\|假设]]前提
 > [[The Importance of Teaching\|《教学的重要性》]]白皮书明确指出：试图通过自上而下的行政手段强行确保对中央政府指令的机械服从，不仅无法带来真正的卓越，反而会削弱学校系统实现自我改进的内生能力。这一判断构成了将研究使用确立为系统自我改进根本驱动力的政策基石。
 >
-> *“The attempt to secure automatic compliance with central government initiatives reduces the capacity of the school system to improve itself.”*（DfE, 2010, p.13，引于 p.120）
+> *“The attempt to secure automatic [[Strategic Compliance|compliance]] with central government initiatives reduces the capacity of the school system to improve itself.”*（DfE, 2010, p.13，引于 p.120）
 
 ---
 

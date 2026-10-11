@@ -20,16 +20,30 @@ related_concepts:
   - "[[Institutional Layering]]"
   - "[[Institutional Drift]]"
   - "[[Opportunists]]"
+  - "[[Veto Possibilities]]"
+  - "[[Enforcement Discretion]]"
   - "[[Institutional Displacement]]"
+  - "[[Creativity]]"
+  - "[[Rule Ambiguity]]"
+  - "[[Competitiveness]]"
+  - "[[Apprenticeship]]"
+  - "[[Value Neutrality]]"
+  - "[[Positivism]]"
 related_theories:
+  - "[[Historical Institutionalism]]"
   - "[[Theory of Gradual Institutional Change]]"
-related_methods: []
+  - "[[Varieties of Capitalism]]"
+related_methods:
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
 related_persons:
-  - "[[Wolfgang Streeck]]"
+  - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"
+  - "[[Wolfgang Streeck]]"
+related_facts:
+  - "[[German Dual Education System]]"
 confidence: high
 status: draft
 created: 2026-10-11
@@ -43,7 +57,7 @@ updated: 2026-10-11
 ## 定义
 
 > [!def] 核心定义
-> 历史制度主义中解释[[Theory of Gradual Institutional Change|渐进制度变迁]]的核心机制之一；指正式制度规则本身保持不变，但行动者通过主动利用规则内在的模糊性与裁量空间，对规则进行策略性重新部署（Strategic Redeployment），从而改变其实际执行方式，使既有制度服务于全新的目标、职能或政治群体。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 17–18)]]
+> [[Historical Institutionalism|历史制度主义]]中解释[[Theory of Gradual Institutional Change|渐进制度变迁]]的核心机制之一；指正式制度规则本身保持不变，但行动者通过主动利用规则内在的模糊性与裁量空间，对规则进行策略性重新部署（Strategic Redeployment），从而改变其实际执行方式，使既有制度服务于全新的目标、职能或政治群体。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 17–18)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 表现为“旧瓶装新酒”式的制度重定向；规则文本未被修改或废止，但在司法解释、官僚执行或基层实践中被赋予实质性质变。
@@ -65,9 +79,9 @@ updated: 2026-10-11
 ## 概念辨析
 
 > [!contrast-table] 制度转换与相关渐进变迁机制辨析
-> | 机制类型 | 规则形式状态 | 核心驱动力量 | 制度裁量权与否决结构 | 典型案例表征 |
+> | 机制类型 | 规则形式状态 | 核心驱动力量 | 制度裁量权与[[Veto Possibilities\|否决结构]] | 典型案例表征 |
 > |---|---|---|---|---|
-> | **[[Institutional Conversion\|制度转换]]**<br>（Conversion） | 形式文本完全不变 | 行动者主动利用模糊性重新部署规则 | 弱否决可能性 + 高执行裁量权 | 宪法贸易条款被重新解释为民权保障支架 |
+> | **[[Institutional Conversion\|制度转换]]**<br>（Conversion） | 形式文本完全不变 | 行动者主动利用模糊性重新部署规则 | 弱否决可能性 + 高[[Enforcement Discretion\|执行裁量权]] | 宪法贸易条款被重新解释为民权保障支架 |
 > | **[[Institutional Drift\|制度漂移]]**<br>（Drift） | 形式文本完全不变 | 外部环境变迁叠加行动者策略性忽视 | 强否决可能性 + 高执行裁量权 | 城市化进程中选区长期不重划导致代表性失衡 |
 > | **[[Institutional Layering\|制度层叠]]**<br>（Layering） | 保留旧规则，叠加新规则 | 改革者在阻力下妥协性增加修正条款 | 强否决可能性 + 低执行裁量权 | 公共养老金之上叠加自愿性商业补充养老支柱 |
 > | **[[Institutional Displacement\|制度置换]]**<br>（Displacement） | 旧规则被废除或边缘化 | 改革者直接挑战并引入全新替代体系 | 弱否决可能性 + 低执行裁量权 | 计划经济统购统销被双轨制与市场价格彻底替代 |
@@ -82,8 +96,8 @@ updated: 2026-10-11
 > - **司法解释与官僚执行重构（Judicial and Bureaucratic Reinterpretation）** 转换的主要推进杠杆是日常司法判例的扩张与监管官僚对自由裁量权的积极行使，以执行端质变替代立法端修法。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 13–14, 21)]]
 
 > [!factors] 制度转换的生成条件与因果要素
-> - **弱政治否决可能性（Weak Veto Possibilities）** 守旧阵营缺乏强有力的否决机制阻止新联盟对法律规则的创新性解释，或者司法与行政裁量链条脱离了立法否决控制。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 18–20)]]
-> - **高解释与执行裁量权（High Discretion in Interpretation/Enforcement）** 既有法条表述具有原则性、抽象性或历史妥协形成的内生模糊性，为创造性判例与官僚行政重塑提供了广阔的操作缝隙。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 20–22)]]
+> - **弱政治[[Veto Possibilities|否决可能性]]（Weak Veto Possibilities）** 守旧阵营缺乏强有力的否决机制阻止新联盟对法律规则的创新性解释，或者司法与行政裁量链条脱离了立法否决控制。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 18–20)]]
+> - **高[[Enforcement Discretion|解释与执行裁量权]]（High Discretion in Interpretation/Enforcement）** 既有法条表述具有原则性、抽象性或历史妥协形成的内生模糊性，为[[Creativity|创造性]]判例与官僚行政重塑提供了广阔的操作缝隙。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 20–22)]]
 > - **主导行动者：[[Opportunists|机会主义者]]（Opportunists）** 对旧体制无固定忠诚，不愿承担激进违规或高昂立法修法的政治成本，擅长顺应外部政治大势，以低风险方式借用既有规则资产推进新议程。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 26–27)]]
 
 > [!logic-map]- 制度转换的演进逻辑
@@ -107,14 +121,14 @@ updated: 2026-10-11
 > [!concept-lens] 制度转换的宏观与微观咬合机制
 > 探讨为何在特定权力结构下，变革力量优先选择“旧瓶装新酒”的功能转用，而非推动正式立法的更新。
 
-> [!claim] Mahoney, J. & Thelen, K.
+> [!claim] [[James Mahoney|Mahoney, J.]] & [[Kathleen Thelen|Thelen, K.]]
 > **低成本功能重定向机制** 当守旧势力缺乏强力否决点阻止新阐释、同时成文规则留有广阔的司法与行政裁量权时，改革者无需承担废法重立的漫长政治谈判成本；他们能够直接夺取司法或行政解释主导权，将既有规则直接转用于新目标，实现高效的低成本质变。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 18–21)]]
 
 ---
 
 ### 命题二　规则模糊性是制度内生转换的永久动力源泉
 
-> [!concept-lens] 规则模糊性与行动者能动性的交互机制
+> [!concept-lens] [[Rule Ambiguity|规则模糊性]]与行动者能动性的交互机制
 > 批判将制度文本视为明晰无歧义中立契约的传统假定，揭示多方妥协立法如何为后续制度转换留下后门。
 
 > [!claim] Mahoney, J. & Thelen, K.
@@ -125,10 +139,10 @@ updated: 2026-10-11
 ### 命题三　规制机构在宏观竞争压力下向微观竞争力工具内生转换
 
 > [!concept-lens] 制度转换在比较政治经济学中的市场重构维度
-> 探讨劳工保护与社会规制实体在经济全球化冲击下，如何通过功能重定向演变为协助企业提升竞争力的平台。
+> 探讨劳工保护与社会规制实体在经济全球化冲击下，如何通过功能重定向演变为协助企业提升[[Competitiveness|竞争力]]的平台。
 
 > [!claim] [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]]
-> **防御性机构向竞争力伙伴的重新部署** 制度转换不仅发生在司法审判中，更是生产体制适应外部压力的关键机制。在市场竞争压力加剧时，原本旨在限制资本特权、捍卫工人法定权益的阶级规制实体（如德国企业理事会，Betriebsräte），在未修改成文法的前提下被劳资双方重新部署，转变为推动工厂内部特许让步（Concession bargaining）、商定弹性工时与共谋削减成本的微观竞争力联盟平台。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 26–28)]]
+> **防御性机构向竞争力伙伴的重新部署** 制度转换不仅发生在司法审判中，更是[[Varieties of Capitalism|生产体制]]适应外部压力的关键机制。在市场竞争压力加剧时，原本旨在限制资本特权、捍卫工人法定权益的阶级规制实体（如德国企业理事会，Betriebsräte），在未修改成文法的前提下被劳资双方重新部署，转变为推动工厂内部特许让步（Concession bargaining）、商定弹性工时与共谋削减成本的微观竞争力联盟平台。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 26–28)]]
 
 ---
 
@@ -137,27 +151,27 @@ updated: 2026-10-11
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **结构生发命题** | 阐明弱否决与高裁量权如何驱动机会主义者选择低成本转换策略 | 司法审查权强大、不成文普通法传统、抽象原则立法的宪制体系 | James Mahoney; Kathleen Thelen |
+> | **结构生发命题** | 阐明弱否决与高裁量权如何驱动[[Opportunists\|机会主义者]]选择低成本转换策略 | 司法审查权强大、不成文普通法传统、抽象原则立法的宪制体系 | James Mahoney; Kathleen Thelen |
 > | **能动重定向命题** | 揭示行动者利用立法妥协模糊性反向重构制度功能的微观博弈逻辑 | 宪法权利条款、民权规制、反歧视法、劳资谈判制度 | James Mahoney; Kathleen Thelen; Robert Lieberman |
-> | **竞争力重塑命题** | 阐明劳资规制机构在市场压力下向微观企业竞争力工具的功能转换 | 协调型市场经济体、企业共同决定制、工厂本土保障协议 | Wolfgang Streeck; Kathleen Thelen |
+> | **竞争力重塑命题** | 阐明劳资规制机构在市场压力下向微观企业竞争力工具的功能转换 | 协调型市场经济体、企业共同决定制、工厂本土保障协议 | [[Wolfgang Streeck]]; Kathleen Thelen |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2004年–2005年 — 施特雷克与希伦界定转换机制** [[Wolfgang Streeck|沃尔夫冈·施特雷克（Wolfgang Streeck）]]与[[Kathleen Thelen|凯瑟琳·希伦（Kathleen Thelen）]]在《超越延续性》（*Beyond Continuity*）导论中系统界定“转换”（Conversion）概念，阐明既有制度如何在成文规则未大改的前提下，因规则模糊性、行动者利益重定向或环境情境迁移而被转用于全新目标。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 26–28)]]
-> - **2009年 — 马奥尼与希伦建构类型学与机会主义者角色** 马奥尼与希伦在《解释制度变迁》中系统将转换与弱否决、高裁量权锚定，提炼出[[Opportunists|机会主义者]]（Opportunists）顺应风向的策略模式，确立了司法官僚转用的完整逻辑链条。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 17–18, 26–27)]]
+> - **2004年–2005年 — [[Wolfgang Streeck|施特雷克]]与希伦界定转换机制** 沃尔夫冈·施特雷克（Wolfgang Streeck）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）在《超越延续性》（*Beyond Continuity*）导论中系统界定“转换”（Conversion）概念，阐明既有制度如何在成文规则未大改的前提下，因[[Rule Ambiguity|规则模糊性]]、行动者利益重定向或环境情境迁移而被转用于全新目标。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 26–28)]]
+> - **2009年 — [[James Mahoney|马奥尼]]与希伦建构类型学与[[Opportunists|机会主义者]]角色** 马奥尼与希伦在《解释制度变迁》中系统将转换与弱否决、高裁量权锚定，提炼出[[Opportunists|机会主义者]]（Opportunists）顺应风向的策略模式，确立了司法官僚转用的完整逻辑链条。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 17–18, 26–27)]]
 
 ---
 
 ## 经验证据与典型案例
 
 > [!evidence-grid] 制度转换的代表性经验案例
-> - **德国企业理事会由工人抗争机构向工厂本土竞争力伙伴的转换（企业治理转换典范）** 战后德国《企业宪政法》赋予企业理事会的共同决定权原本用于制衡雇主专权；但在全球化竞争压力下，企业理事会与管理层结成跨阶级同盟，共同签署“工厂本土保障协议”（Standortsicherungsvereinbarungen），通过自愿延长工时或削减浮动工资换取资方不裁员与继续投资承诺，使得这一传统劳工保护机构成功转换为协助企业推行微观成本重组的竞争力工具。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 27–28)]]
+> - **德国企业理事会由工人抗争机构向工厂本土[[Competitiveness|竞争力]]伙伴的转换（企业治理转换典范）** 战后德国《企业宪政法》赋予企业理事会的共同决定权原本用于制衡雇主专权；但在全球化竞争压力下，企业理事会与管理层结成跨阶级同盟，共同签署“工厂本土保障协议”（Standortsicherungsvereinbarungen），通过自愿延长工时或削减浮动工资换取资方不裁员与继续投资承诺，使得这一传统劳工保护机构成功转换为协助企业推行微观成本重组的竞争力工具。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 27–28)]]
 > - **美国宪法州际贸易条款的跨时代司法重塑（宪法功能转换典范）** 美国宪法第 1 条第 8 款跨州贸易条款（Commerce Clause）文本两百年未改，但在新政时期被联邦最高法院重新部署为保障劳工集体谈判与建立最低工资的法理支柱；在 1960 年代民权运动中，进一步被转用为禁止私人旅馆和餐馆实行种族隔离的宪法利器。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 21)]]
 > - **美国 1964 年《民权法》第七章平等就业机会委员会扩权（弱法转用典范）** 罗伯特·利伯曼（Lieberman）考证表明，设立平等就业机会委员会（EEOC）的法定权力最初在国会被保守派妥协阉割，但民权官僚与法官策略性通过个案判例层层拓展法条解释，将原本缺乏强制力的协调机构转用为实施肯定性行动计划的最强规制机器。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 13–14)]]
-> - **19 世纪末德国手工业公会学徒培训制度的工业化转用（技能体系转换典范）** 凯瑟琳·希伦（Thelen, 2004）考证表明，传统封建手工业同业公会培训制度在工业革命中未被废除，而是被新兴机械与高端制造业资本家策略性转用，改造为现代德国双元制职业教育培训体系的基石。
+> - **19 世纪末德国手工业公会[[Apprenticeship|学徒培训]]制度的工业化转用（技能体系转换典范）** [[Kathleen Thelen|凯瑟琳·希伦]]（Thelen, 2004）考证表明，传统封建手工业同业公会培训制度在工业革命中未被废除，而是被新兴机械与高端制造业资本家策略性转用，改造为现代[[German Dual Education System|德国双元制职业教育]]培训体系的基石。
 > - **法国 1981 年《奥鲁改革法》的资方反向转用（劳资博弈转换典范）** 密特朗左翼政府为强化工会车间地位颁布法律，但资方利用法律对员工表达权规定的模糊缝隙，成立直接向管理层汇报的内部车间委员会，反向架空了激进工会的垄断谈判权。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 27)]]
 
 ---
@@ -166,20 +180,20 @@ updated: 2026-10-11
 
 > [!debates] 学术争议与边界辨析
 > 
-> > [!axis] 制度转换的政治价值中立性与可逆性
+> > [!axis] 制度转换的政治[[Value Neutrality|价值中立]]性与可逆性
 > > 争论聚焦于制度转换是否总能推动平权或进步性变革。
 > > 
-> > - **工具中性与反向转换视角** 马奥尼与希伦明确强调转换是政治中立的权力工具；保守派法官（如伦奎斯特与罗伯茨法院）同样能够利用文本弹性收紧联邦规制权，将先前进步派转换的法律工具反向转用于保护商业自由。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 21–22)]]
-> > - **民主合法性赤字批判** 法律实证主义学者批评指出，过度依赖司法与官僚对规则进行扩张性转换，绕过了民主代议立法机构的公开辩论，容易引发司法专断与民主正当性赤字。
+> > - **工具中性与反向转换视角** [[James Mahoney|马奥尼]]与希伦明确强调转换是政治中立的权力工具；保守派法官（如伦奎斯特与罗伯茨法院）同样能够利用文本弹性收紧联邦规制权，将先前进步派转换的法律工具反向转用于保护商业自由。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 21–22)]]
+> > - **民主合法性赤字批判** 法律[[Positivism|实证主义]]学者批评指出，过度依赖司法与官僚对规则进行扩张性转换，绕过了民主代议立法机构的公开辩论，容易引发司法专断与民主正当性赤字。
 
 > [!warning] 适用局限
-> 制度转换的核心在于“规则文本不变 + 解释与执行重定向”；若行动者在既有规则之外新增了补充法条或行政机构，属于制度层叠；若新解释突破了基本法理共识并引发体制分裂，可能转化为公开的制度置换冲突。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 17–18)]]
+> 制度转换的核心在于“规则文本不变 + 解释与执行重定向”；若行动者在既有规则之外新增了补充法条或行政机构，属于[[Institutional Layering|制度层叠]]；若新解释突破了基本法理共识并引发体制分裂，可能转化为公开的[[Institutional Displacement|制度置换]]冲突。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 17–18)]]
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 首次系统界定转换机制，阐明行动者如何利用规则模糊性与情境变迁将既有制度转用于全新目标。（pp. 26–28）
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 提出渐进制度变迁理论，界定制度转换在弱否决与高裁量权语境下的生成机制与机会主义者策略逻辑。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 首次系统界定转换机制，阐明行动者如何利用[[Rule Ambiguity|规则模糊性]]与情境变迁将既有制度转用于全新目标。（pp. 26–28）
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，界定制度转换在弱否决与高裁量权语境下的生成机制与[[Opportunists|机会主义者]]策略逻辑。
 

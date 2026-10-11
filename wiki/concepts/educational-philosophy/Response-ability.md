@@ -16,6 +16,7 @@ tags:
 - relational-ontology
 related_concepts:
   - "[[Sympoiesis]]"
+  - "[[Strategic Compliance]]"
   - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Epoché]]"
@@ -41,7 +42,7 @@ updated: 2026-09-22
 > [!info] 定义
 > Response-ability 是 [[Donna Haraway]] 创造的双关概念——同时意味着 **responsibility**（责任）和 **ability to respond**（回应的能力）。它不是被动承担的"义务"，而是主动发展的"对他者需求保持敏感并以行动回应的能力"。
 >
-> [[Argument_Amos_2022_Springer\|Amos (2022, p.62)]] 将 response-ability 定位为 [[Sympoiesis]]（共同制造）的伦理内核：如果世界是通过多物种的共同交互被持续制造的（sympoiesis），那么伦理问题就不再是"我应该遵守什么规则"（responsibility as compliance），而是"我如何发展出对他者——包括非人类的他者——需求的敏感性和回应能力"（response-ability as capacity）。
+> [[Argument_Amos_2022_Springer\|Amos (2022, p.62)]] 将 response-ability 定位为 [[Sympoiesis]]（共同制造）的伦理内核：如果世界是通过多物种的共同交互被持续制造的（sympoiesis），那么伦理问题就不再是"我应该遵守什么规则"（responsibility as [[Strategic Compliance|compliance]]），而是"我如何发展出对他者——包括非人类的他者——需求的敏感性和回应能力"（response-ability as capacity）。
 >
 > > 例：传统伦理教育：教学生"你应该诚实""你应该尊重他人"——这是 responsibility，即遵守既定的道德规则。Response-ability 的教育：让学生在社区服务中直接面对老人的孤独、在生态项目中直接感知河流的污染——不是为了"做正确的事"，而是为了发展出对他者处境的敏感性。前者[[Hypothesis\|假设]]伦理规则已经知道了，后者认为伦理感知需要被培育。
 >

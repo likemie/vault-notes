@@ -31,7 +31,8 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Regulatory Ratchet]]"
   - "[[Argument Mapping]]"
-related_theories: []
+related_theories:
+  - "[[Historical Institutionalism]]"
 related_arguments:
   - "[[Argument_Wanzenbock_2020_SPP]]"
   - "[[Argument_VanDerHeijden_2011_Politics]]"
@@ -52,7 +53,7 @@ updated: 2026-10-11
 ## 定义
 
 > [!def] 核心定义
-> **多手难题（Problem of Many Hands）** 最初由政治哲学家丹尼斯·F·汤普森（Dennis F. Thompson）于 1980 年提出，后被布赖恩·W·黑德（Brian W. Head）及伊博·范德波尔（Ibo van de Poel）等学者引入公共治理与科技政策领域。在伊里斯·万岑伯克（Iris Wanzenböck）等人的研究中，该概念用于刻画应对重大社会挑战时的制度性协调阻碍：在涉及多部委、多行政层级与多类社会行动者的复杂治理网络中，由于行动贡献相互交织且决策链条过长，当政策推进受阻、出现重大延误或产生次生负面后果时，无法将行政与道德责任清晰归因于任何单一组织或个人，导致责任归咎不能与治理僵局（[[Argument_Wanzenbock_2020_SPP|Wanzenböck et al., 2020, pp. 476–477]]）。在历史制度主义与规制治理研究中，该概念进一步被确立为[[Institutional Layering|制度层叠]]中行动者增厚（Thickening）的典型制度病理：当政府在纵向行政层级或横向规制体制中持续叠加新机构、私营部门与非营利主体时，多重图层重叠导致管辖权模糊与责任虚化，形成系统性归责真空与协调失灵（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, p. 14]]；Light, 1995）。
+> **多手难题（Problem of Many Hands）** 最初由政治哲学家丹尼斯·F·汤普森（Dennis F. Thompson）于 1980 年提出，后被布赖恩·W·黑德（Brian W. Head）及伊博·范德波尔（Ibo van de Poel）等学者引入公共治理与科技政策领域。在伊里斯·万岑伯克（Iris Wanzenböck）等人的研究中，该概念用于刻画应对重大社会挑战时的制度性协调阻碍：在涉及多部委、多行政层级与多类社会行动者的复杂治理网络中，由于行动贡献相互交织且决策链条过长，当政策推进受阻、出现重大延误或产生次生负面后果时，无法将行政与道德责任清晰归因于任何单一组织或个人，导致责任归咎不能与治理僵局（[[Argument_Wanzenbock_2020_SPP|Wanzenböck et al., 2020, pp. 476–477]]）。在[[Historical Institutionalism|历史制度主义]]与规制治理研究中，该概念进一步被确立为[[Institutional Layering|制度层叠]]中行动者增厚（Thickening）的典型制度病理：当政府在纵向行政层级或横向规制体制中持续叠加新机构、私营部门与非营利主体时，多重图层重叠导致管辖权模糊与责任虚化，形成系统性归责真空与协调失灵（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, p. 14]]；Light, 1995）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 刻画大型组织、跨部门网络与层叠制度中“人人参与决策、各负局部职能，但在系统层面上却无人对最终结果负责”的结构性困境。
@@ -80,7 +81,7 @@ updated: 2026-10-11
 > [!contrast-table] 责任与集体行动困境辨析
 > | 维度 | 多手难题（Problem of Many Hands） | 搭便车难题（Free-Rider Problem） | 旁观者效应（Bystander Effect） |
 > |---|---|---|---|
-> | **学科根源** | 政治哲学、公共行政学与历史制度主义 | 制度经济学与公共选择理论 | 社会心理学 |
+> | **学科根源** | 政治哲学、公共行政学与[[Historical Institutionalism\|历史制度主义]] | 制度经济学与公共选择理论 | 社会心理学 |
 > | **核心机制** | 因果贡献碎片化与制度图层重叠导致事后归责不能 | 排他性弱诱发理性个体不贡献资源 | 责任扩散导致紧急情境下无人施救 |
 > | **解决路径** | 明确前瞻性责任、精简重叠图层与构建跨部门共治协议 | 产权界定、强制税收与排他性制度 | 明确单一指令、显性指定个体责任人 |
 > | **代表[[Document\|文献]]** | Thompson (1980); [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]]; Van de Poel et al. (2012) | Olson (1965) | Darley & Latané (1968) |
@@ -210,4 +211,4 @@ updated: 2026-10-11
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 将多手难题作为解构重大社会挑战系统复杂性的核心概念，解释跨部门、跨层级政策协调失灵的微观机制。
-> - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 将多手难题与历史制度主义中的[[Institutional Layering|制度层叠]]（行动者增厚）传统相连接，揭示纵向与横向图层重叠导致责任模糊与管辖权冲突的演化逻辑。
+> - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 将多手难题与[[Historical Institutionalism|历史制度主义]]中的[[Institutional Layering|制度层叠]]（行动者增厚）传统相连接，揭示纵向与横向图层重叠导致责任模糊与管辖权冲突的演化逻辑。

@@ -77,7 +77,8 @@ related_methods:
   - "[[Intervention Research]]"
   - "[[Random Assignment]]"
   - "[[Content Analysis]]"
-related_persons: []
+related_persons:
+  - "[[Paul Pierson]]"
 related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Ginsberg_2024_EP]]"
@@ -157,7 +158,7 @@ updated: 2026-09-26
 >   - **控制变量（Control Covariates）** 基线前测表现、性别、族裔、贫困状态（如免费午餐资格）等潜在干扰变量。
 > - **模型与诊断** 检验正态性、方差齐性、残差独立性与方差膨胀因子（Variance Inflation Factor, VIF）。
 
-> [!formula-step] 公式步骤一　皮尔逊[[Pearson Product-Moment Correlation\|积差相关]]系数（Pearson Correlation Coefficient）
+> [!formula-step] 公式步骤一　[[Paul Pierson|皮尔逊]][[Pearson Product-Moment Correlation\|积差相关]]系数（Pearson Correlation Coefficient）
 > $$r_{xy} = \frac{\sum_{i=1}^{n} (X_i - \bar{X})(Y_i - \bar{Y})}{\sqrt{\sum_{i=1}^{n} (X_i - \bar{X})^2 \sum_{i=1}^{n} (Y_i - \bar{Y})^2}} = \frac{Cov(X, Y)}{S_X S_Y}$$
 >
 > **这个公式在做什么** 计算两个连续变量之间的线性协变强度与方向，输出无量纲的标准化关联系数。

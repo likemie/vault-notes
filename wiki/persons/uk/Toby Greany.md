@@ -25,6 +25,7 @@ related_concepts:
   - "[[Self-Improving School System]]"
   - "[[Bureaucracy]]"
   - "[[Network Governance]]"
+  - "[[Strategic Compliance]]"
   - "[[Joint Practice Development]]"
   - "[[Factorial Interpretive Framework]]"
   - "[[Activity Traps]]"
@@ -73,7 +74,7 @@ updated: 2026-10-08
 > [!citation-card] 自我改进学校系统的内在制度张力
 > 英国政府宣称要建设一个由学校主导、以横向伙伴关系与自愿协作为特征的自我改进系统；然而这一系统同时嵌在世界上最为严厉的高利害外部问责框架之中。当保底指标与督导淘汰的悬剑高悬时，学校领导者往往被迫将精力从实质性教学探究转向应试防御，使横向互助与循证创新的根基面临系统性动摇。（Greany, 2014, pp. 6–8）
 >
-> *The rhetoric of a self-improving, school-led system driven by lateral partnerships sits in sharp tension with one of the most centralized and punitive accountability regimes in the world. When the threat of inspection failure looms, school leaders are pushed toward defensive compliance, destabilizing the collaborative foundations required for authentic evidence-informed innovation.*
+> *The rhetoric of a self-improving, school-led system driven by lateral partnerships sits in sharp tension with one of the most centralized and punitive accountability regimes in the world. When the threat of inspection failure looms, school leaders are pushed toward defensive [[Strategic Compliance|compliance]], destabilizing the collaborative foundations required for authentic evidence-informed innovation.*
 
 ---
 

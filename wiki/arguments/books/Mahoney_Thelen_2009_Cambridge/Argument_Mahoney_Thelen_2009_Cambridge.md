@@ -26,12 +26,15 @@ citation: "Mahoney, J., & Thelen, K. (Eds.). (2009). Explaining institutional ch
 tags: ["theme/institutional-change", "theme/historical-institutionalism", "theme/book-reading"]
 related_concepts:
   - "[[Document]]"
+  - "[[Rule Ambiguity]]"
   - "[[Creativity]]"
 related_theories:
   - "[[Theory of Gradual Institutional Change]]"
+  - "[[Historical Institutionalism]]"
 related_persons:
   - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"
+  - "[[Peter A. Hall]]"
 related_facts:
   - "[[Research in Schools Evaluation]]"
 related_arguments:
@@ -64,7 +67,7 @@ updated: "2026-10-11"
 > [!volume-structure] 章节组织
 > - **第 1 章，理论导论** [[Theory of Gradual Institutional Change|渐进制度变迁理论]]。
 > - **第 2–6 章，经验研究** 巴西卫生保健改革、肯尼亚土地文书、美国社会保障、印度尼西亚威权制度和美国众议院规则。
-> - **第 7 章，制度主义比较** 理性主义与社会学视角下的历史制度主义。
+> - **第 7 章，制度主义比较** 理性主义与社会学视角下的[[Historical Institutionalism|历史制度主义]]。
 
 ## 章节处理路线
 
@@ -76,13 +79,13 @@ updated: "2026-10-11"
 ## 各章概览
 
 > [!chapter-index] 原文入口
-> - **第 1 章，[[Theory of Gradual Institutional Change|渐进制度变迁理论]]** A Theory of Gradual Institutional Change。[[James Mahoney|James Mahoney]]; [[Kathleen Thelen]]，原书 pp. 1–37。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|章节论证页]]。[TXT](../../../../raw/Mahoney_Thelen_2009_Cambridge_txt/Ch01_Mahoney_Thelen_Gradual_Institutional_Change.txt)。系统建构权力分配、规则模糊性与依从裁量权支柱，提出置换、层叠、漂移与转换四类演进模式及行动者矩阵。
+> - **第 1 章，[[Theory of Gradual Institutional Change|渐进制度变迁理论]]** A Theory of Gradual Institutional Change。[[James Mahoney|James Mahoney]]; [[Kathleen Thelen]]，原书 pp. 1–37。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|章节论证页]]。[TXT](../../../../raw/Mahoney_Thelen_2009_Cambridge_txt/Ch01_Mahoney_Thelen_Gradual_Institutional_Change.txt)。系统建构权力分配、[[Rule Ambiguity|规则模糊性]]与依从裁量权支柱，提出置换、层叠、漂移与转换四类演进模式及行动者矩阵。
 > - **第 2 章，渗入国家，巴西卫生保健改革的演变** Infiltrating the State: The Evolution of Health Care Reforms in Brazil, 1964–1988。Tulia G. Falleti，原书 pp. 38–62。[TXT](../../../../raw/Mahoney_Thelen_2009_Cambridge_txt/Ch02_Falleti_Health_Care_Reforms_in_Brazil.txt)。待解读。
 > - **第 3 章，制度的矛盾潜能，肯尼亚土地文书制度的兴衰** The Contradictory Potential of Institutions: The [[Research in Schools Evaluation|RISE]] and Decline of Land Documentation in Kenya。Ato Kwamena Onoma，原书 pp. 63–93。[TXT](../../../../raw/Mahoney_Thelen_2009_Cambridge_txt/Ch03_Onoma_Land_Documentation_in_Kenya.txt)。待解读。
 > - **第 4 章，政策制定作为政治约束，美国社会保障制度的发展** Policymaking as Political Constraint: Institutional Development in the U.S. Social Security Program。Alan M. Jacobs，原书 pp. 94–131。[TXT](../../../../raw/Mahoney_Thelen_2009_Cambridge_txt/Ch04_Jacobs_US_Social_Security.txt)。待解读。
 > - **第 5 章，改变威权主义，印度尼西亚的制度复杂性与专制行动者** Altering Authoritarianism: Institutional Complexity and Autocratic Agency in Indonesia。Dan Slater，原书 pp. 132–167。[TXT](../../../../raw/Mahoney_Thelen_2009_Cambridge_txt/Ch05_Slater_Authoritarianism_in_Indonesia.txt)。待解读。
 > - **第 6 章，重新思考规则，美国众议院中的[[Creativity|创造性]]与约束** Rethinking Rules: Creativity and Constraint in the U.S. House of Representatives。Adam Sheingate，原书 pp. 168–203。[TXT](../../../../raw/Mahoney_Thelen_2009_Cambridge_txt/Ch06_Sheingate_Rules_in_US_House.txt)。待解读。
-> - **第 7 章，理性主义与社会学视角下的历史制度主义** Historical Institutionalism in Rationalist and Sociological Perspective。Peter A. Hall，原书 pp. 204–223。[TXT](../../../../raw/Mahoney_Thelen_2009_Cambridge_txt/Ch07_Hall_Historical_Institutionalism.txt)。待解读。
+> - **第 7 章，理性主义与社会学视角下的[[Historical Institutionalism|历史制度主义]]** Historical Institutionalism in Rationalist and Sociological Perspective。[[Peter A. Hall]]，原书 pp. 204–223。[TXT](../../../../raw/Mahoney_Thelen_2009_Cambridge_txt/Ch07_Hall_Historical_Institutionalism.txt)。待解读。
 
 ## 整体贡献与使用边界
 

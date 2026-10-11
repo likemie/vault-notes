@@ -31,7 +31,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Bureaucracy]]"
   - "[[Knowledge Questions]]"
-  - "[[Opportunist Mode]]"
   - "[[External Validity]]"
   - "[[Document]]"
   - "[[Study Population and Sample]]"
@@ -42,6 +41,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[Tullock's Bureaucracy Theory]]"
+  - "[[Historical Institutionalism]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Systematic Review]]"
@@ -81,7 +81,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> - **Tullock 的[[Tullock's Bureaucracy Theory\|官僚制理论]](Tullock, 2005)** — [[Bureaucracy|官僚制]]是信息处理金字塔，主权者面临的核心难题是[[Knowledge Questions\|知识问题]]和委托困境，而非简单的自利/[[Opportunist Mode\|机会主义]]
+> - **Tullock 的[[Tullock's Bureaucracy Theory\|官僚制理论]](Tullock, 2005)** — [[Bureaucracy|官僚制]]是信息处理金字塔，主权者面临的核心难题是[[Knowledge Questions\|知识问题]]和委托困境，而非简单的自利/机会主义
 > - **公共选择理论（Public Choice）** — 方法个体主义分析集体决策；强调有限知识与有界理性下的协调问题
 > - **Cartwright 的因果推论哲学** — [[Randomised Controlled Trials\|RCT]] 提供不偏估计但不解决[[External Validity\|外部效度]]问题；[[Meta-analysis\|元分析]]不解决归纳推理的谬误
 >
@@ -186,7 +186,7 @@ citation_aliases:
 > [!warning] 局限性与批评
 > ### 行为主体的动机[[Hypothesis\|假设]]未充分展开
 >
-> **批评内容** Cowen 明确搁置了自利/[[Opportunist Mode\|机会主义]]问题（区别于 Niskanen 的预算最大化模型），聚焦于纯粹认知挑战——"即使所有官僚真诚追求共同善，[[Knowledge Questions\|知识问题]]依然存在"。但批评者指出，真实官僚系统中认知约束与激励冲突并存且交互——官僚的信息过滤行为不仅出于认知限制，更出于职业晋升考量（选择性呈现有利数据）。
+> **批评内容** Cowen 明确搁置了自利/机会主义问题（区别于 Niskanen 的预算最大化模型），聚焦于纯粹认知挑战——"即使所有官僚真诚追求共同善，[[Knowledge Questions\|知识问题]]依然存在"。但批评者指出，真实官僚系统中认知约束与激励冲突并存且交互——官僚的信息过滤行为不仅出于认知限制，更出于职业晋升考量（选择性呈现有利数据）。
 >
 > **影响** 此简化使得 Cowen 的分析可以分离出"知识问题"的独立解释力（分析优势），但同时也可能高估了 [[Evidence-Based Education\|EBE]] 的"认知解决方案"角色——如果官僚选择 [[Randomised Controlled Trials\|RCT]]/[[Systematic Review\|系统综述]]也有自利动机（规避决策风险、转移问责），那么仅切断问责捆绑可能不足以改变行为。
 >
@@ -212,7 +212,7 @@ citation_aliases:
 >
 > **批评内容** Cowen (p. 10) 坦承其模型只能对"为什么 EBE 在此刻（21 世纪初）而非其他时期占据主导"提供尝试性假说——指向英国 1988 年以来的中央化教育改革（创造了需要"远程控制"学校的决策者）和行为经济学的兴起（为 RCT 提供了方法论合法性）。但 Tullock 模型本身是**结构性/功能性**的——它擅长解释 EBE 解决什么问题（制度功能），不擅长解释时机（为什么是现在）。
 >
-> **可能的扩展方向** 将 Tullock 模型与[[Policy Borrowing\|政策借用]]框架(Steiner-Khamsi, 2012)或历史制度主义(Thelen, 2004)结合——前者解释时机选择和全球扩散，后者解释制度功能的持续性。
+> **可能的扩展方向** 将 Tullock 模型与[[Policy Borrowing\|政策借用]]框架(Steiner-Khamsi, 2012)或[[Historical Institutionalism|历史制度主义]](Thelen, 2004)结合——前者解释时机选择和全球扩散，后者解释制度功能的持续性。
 >
 > **目前状态** 此局限尚未被后续研究系统填补。Cowen 的框架更多被用作分析 EBE 制度功能的诊断工具，而非预测政策变迁时机的因果理论。
 

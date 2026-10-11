@@ -22,6 +22,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Technology Readiness Level]]"
   - "[[University Spin-Out]]"
+  - "[[Subversives]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Non-dilutive Funding]]"
   - "[[Paradigm]]"
@@ -67,7 +68,7 @@ updated: 2026-10-09
 > [!citation-card] 双重标准与外部颠覆防御的核心论断
 > CVC 与传统风险投资的关键区别在于：CVC 同时应用战略标准和财务标准来做出投资决策——它既要问“这个投资对母公司有什么战略价值？”，也要问“这个投资能赚钱吗？”。在财务层面要求投资回报的同时，通常还附加“初创企业的成功必须对母公司产生正向溢出效应”的隐含条件。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 145)]]
 >
-> 成熟企业面临的技术转化路径分为内部研发、外部初创投资与战略并购以及开源联盟生态。当企业内部研发受制于成熟业务损益而忽视新兴颠覆性技术时，企业风投（CVC）成为识别外部潜在颠覆者的关键雷达；当年现有搜索引擎巨头拒绝斯坦福大学的 PageRank 许可与早期投资，最终催生了谷歌对整个行业的颠覆性重构，已成为工业界反思外部转化路径的经典警示。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 232–233)]]
+> 成熟企业面临的技术转化路径分为内部研发、外部初创投资与战略并购以及开源联盟生态。当企业内部研发受制于成熟业务损益而忽视新兴颠覆性技术时，企业风投（CVC）成为识别外部潜在[[Subversives|颠覆者]]的关键雷达；当年现有搜索引擎巨头拒绝斯坦福大学的 PageRank 许可与早期投资，最终催生了谷歌对整个行业的颠覆性重构，已成为工业界反思外部转化路径的经典警示。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 232–233)]]
 
 > [!boundary]- 概念边界
 > - 不等于 传统风险投资（Institutional VC） — 传统 VC 追求单一财务收益最大化与基金清算周期内的退出回报；CVC 需服从母公司长远战略协同，其投资标的范围因“双重门槛”而更为狭窄。

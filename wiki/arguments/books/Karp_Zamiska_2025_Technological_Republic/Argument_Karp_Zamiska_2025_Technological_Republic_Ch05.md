@@ -43,6 +43,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Feeding Frenzy]]"
+  - "[[Institutional Displacement]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Faust]]"
   - "[[Technological Republic]]"
@@ -166,7 +167,7 @@ updated: 2026-10-08
 >   政治学家萨巴托（Larry Sabato, 1991/1993）指出，新闻媒体的[[Feeding Frenzy|捕食狂欢]]（Feeding Frenzy）与攻击性报道（乃至关注其是否在快速通道购买超过十件商品），导致大量本可为国家做出卓越贡献的优秀人才因不愿家人受到骚扰而拒绝参选（pp. 61–62）。
 > - **公职过度道德化与选民心理投射错位（Hyper-Moralization of Public Office）**
 >   《时代》（*Time*, 1969）杂志早在半个世纪前就警示，美国公众过度将公职道德化，试图在未曾谋面的领导人身上寻找心理慰藉与自我认同，使政治参与脱离了对治理实效的严肃考察。
-> - **以讨喜度表演彻底置换实质治理结果（Displacement of Governance by Likability）**
+> - **以讨喜度表演彻底置换实质治理结果（[[Institutional Displacement|displacement]] of Governance by Likability）**
 >   现代政治过度关注领导人是否可爱讨喜，将政治降格为迎合大众的情感演出，严重削弱了国家应对复杂地缘政治危机与技术变革的实质解决能力（p. 62）。
 
 ---

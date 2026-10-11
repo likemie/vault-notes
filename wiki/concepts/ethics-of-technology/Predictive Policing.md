@@ -18,6 +18,7 @@ tags:
   - theme/criminal-justice
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Strategic Compliance]]"
   - "[[Meaningful Human Control]]"
   - "[[Document]]"
 related_theories: []
@@ -80,7 +81,7 @@ updated: 2026-10-08
 > [!feature] 核心要素
 > - **多源异构数据融合（Multi-Source Data Integration）** 将原本孤立分布于各部门的涉枪记录、车辆轨迹、通话关联与现场勘验数据整合至统一底层本体。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 174–175)]]
 > - **暴力网络链路发现（Criminal Network Linkage）** 识别复杂犯罪集团内部层级、枪支流转路径与潜在报复性冲突节点。
-> - **合规与[[Audit Trail|审计跟踪]]（Compliance and Auditability）** 设立细粒度访问权限控制，确保每一次线索调阅均有据可查并符合法定授权程序。
+> - **合规与[[Audit Trail|审计跟踪]]（[[Strategic Compliance|compliance]] and Auditability）** 设立细粒度访问权限控制，确保每一次线索调阅均有据可查并符合法定授权程序。
 > - **算法与警力协同（[[Meaningful Human Control|Human-in-the-Loop]] Deployment）** 坚持人机协作原则，由具有一线经验的刑侦警官对算法线索进行审慎核实与专业裁决。
 
 ---

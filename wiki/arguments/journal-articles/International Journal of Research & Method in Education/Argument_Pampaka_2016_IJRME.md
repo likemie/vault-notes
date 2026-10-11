@@ -26,6 +26,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Initial Teacher Training]]"
   - "[[Knowledge Transfer]]"
+  - "[[Strategic Compliance]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -83,7 +84,7 @@ citation_aliases:
 > - CRT 设计精度在过去十年间有所提高（Spybrook et al.），但 RCT 领域弥漫"萎靡感（malaise）"(p.233)
 > - [[Implementation and Process Evaluation\|过程评估]]与 RCT 的整合可产生"更整体和丰富解释力的研究"（Hanley et al.，p.234）
 > - 教师需要时间犯错和学习，第一年实施新实践效果可能"更差"，仅测量"硬学习结果"可能误导(p.234)
-> - 非合规（non-compliance）是教育 RCT 中实际重要问题：[[Initial Teacher Training\|ITT]] 估计仅反映干预可获得性而非实际接受效果（Schweig & Pane，p.233）
+> - 非合规（non-[[Strategic Compliance|compliance]]）是教育 RCT 中实际重要问题：[[Initial Teacher Training\|ITT]] 估计仅反映干预可获得性而非实际接受效果（Schweig & Pane，p.233）
 
 ## 关键引用
 

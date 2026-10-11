@@ -67,7 +67,8 @@ related_theories:
   - "[[Values Alignment Model]]"
 related_methods:
   - "[[In-depth Interview]]"
-related_persons: []
+related_persons:
+  - "[[Peter A. Hall]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Engineering Research Centers]]"
@@ -126,7 +127,7 @@ updated: 2026-10-09
 > - **边界** 不等于单向的[[Technology Transfer|技术转移]]（后者仅聚焦专利许可交易）；不等于松散的校企社交人际关系；也不等同于企业对大学的无偿慈善捐赠。
 
 > [!citation-card] 产学协同的实质性内涵
-> 博坎富索与霍尔阐明了现代产学合作的根本属性：
+> 博坎富索与[[Peter A. Hall|霍尔]]阐明了现代产学合作的根本属性：
 > 
 > 本书的基石观念在于，产学合作的力量和影响力绝非仅仅源于大学与企业之间的一般性人脉关系，而必须体现为深度参与——即在研究与学术、教育与学习以及公共效益三大核心领域的全面对齐与实质协作。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 4)]]
 
@@ -297,7 +298,7 @@ updated: 2026-10-09
 > > [!axis] 组织整合愿景 vs 微观治理现实
 > > 宏观三螺旋理论所描绘的顺畅协同与高校内部高度碎片化的科层现实存在巨大落差。
 > >
-> > - **博坎富索与霍尔（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b]]）** 实证指出大学中心产学机构平均仅覆盖 3.5 项业务职能，各院系自发孤立运作，外部期望的“一站式窗口”往往流于形式。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 60–65)]]
+> > - **博坎富索与[[Peter A. Hall|霍尔]]（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b]]）** 实证指出大学中心产学机构平均仅覆盖 3.5 项业务职能，各院系自发孤立运作，外部期望的“一站式窗口”往往流于形式。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 60–65)]]
 >
 > > [!axis] [[Securitization of Technology|技术安全化]]管控 vs 全球开放产学[[Innovation Ecosystem|创新生态]]
 > > 地缘政治博弈下国家安全审查与出口管制对高校跨国产学合作构成的结构性约束。

@@ -24,6 +24,7 @@ related_concepts:
   - "[[Research Literacy]]"
   - "[[Causality]]"
   - "[[Evidence Standards]]"
+  - "[[Strategic Compliance]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Heterogeneity]]"
   - "[[Empiricism]]"
@@ -92,7 +93,7 @@ updated: 2026-10-08
 ## 概念辨析
 
 > [!contrast-table] 批判性分析立场 vs. 盲目权威遵从 vs. 经验虚无主义 vs. 纯技术研究技能
-> | 维度 | 批判性分析立场（Analytical Stance） | 盲目权威遵从（Blind Compliance） | 经验虚无主义（Empirical Nihilism） | 纯技术研究技能（Technical Literacy） |
+> | 维度 | 批判性分析立场（Analytical Stance） | 盲目权威遵从（Blind [[Strategic Compliance\|compliance]]） | 经验虚无主义（Empirical Nihilism） | 纯技术研究技能（Technical Literacy） |
 > |---|---|---|---|---|
 > | **核心态度** | 审慎探询、审验质量、情境评估 | 迷信权威名流与政策行政指令 | 迷信个人直觉，拒斥一切外部研究 | 机械套用[[Document\|文献]]指标，缺乏批判审议 |
 > | **面对教育时尚** | 穿透[[Persuasive Communication in Education\|说服性修辞]]，追问因果链条 | 迅速跟风并盲目在课堂推广 | 嘲讽一切改革倡议，坚决墨守成规 | 能解读图表但无法识别商业包装漏洞 |

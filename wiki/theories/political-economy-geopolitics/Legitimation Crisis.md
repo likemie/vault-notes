@@ -21,6 +21,7 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Innovation Desert]]"
   - "[[Technological Republic]]"
+  - "[[Institutional Displacement]]"
   - "[[Intellectual Capital]]"
   - "[[Red Tape]]"
   - "[[Research Question]]"
@@ -90,7 +91,7 @@ updated: 2026-10-08
 > | **合法化系统（Legitimation System）** | 概念 | 国家通过制度承诺、意识形态与公共品供给维系社会大众普遍忠诚与政治服从的体制机制。 |
 > | **可普遍化利益（Generalizable Interests）** | 概念 | 区别于个别集团或私人资本私利的、全体公民共同享有的根本性公共利益（如国家安全、公共健康、公平教育）。 |
 > | **大众忠诚[[Attrition\|流失]]（Loyalty Attrition）** | 机制 | 当公众感知到制度承诺落空、公共治理失效时，对政体的主动认同降至冷漠、质疑甚至公开反抗的过程。 |
-> | **危机置换（Crisis Displacement）** | 机制 | 国家通过财政补贴与技术干预暂时压制经济危机，却导致矛盾向行政理性危机与政治合法化危机转移。 |
+> | **危机置换（Crisis [[Institutional Displacement\|displacement]]）** | 机制 | 国家通过财政补贴与技术干预暂时压制经济危机，却导致矛盾向行政理性危机与政治合法化危机转移。 |
 > | **[[Innovation Desert\|创新荒漠]]** | 衍生构件 | 因公共部门防卫型官僚主义与私人资本避险而导致的公共服务技术停滞形态，直接加剧合法化赤字。 |
 
 ---

@@ -28,7 +28,8 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Bologna Process]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high
@@ -44,7 +45,7 @@ updated: 2026-08-27
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2005 年由欧洲高等教育区（EHEA）卑尔根部长级会议初次通过，2015 年由埃里温部长级会议全面修订。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 7)]]
+> - **发布时间 / 发布主体** 2005 年由欧洲高等教育区（[[Bologna Process|EHEA]]）卑尔根部长级会议初次通过，2015 年由埃里温部长级会议全面修订。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 7)]]
 > - **适用地区 / 对象** 欧洲高等教育区 49 个成员国、全境高校及其外部质量保障中介机构（如 ENQA、EQAR 注册机构）。
 > - **问题背景** 传统高校考核往往封闭主观、缺乏明确标准且以终结性打分为主，阻碍了跨国学分互认与深层能力发展。
 > - **制度位置** 整个欧洲高等教育区（EHEA）各国立法与大学质量保障体系的最高元标准（Meta-Standard）。

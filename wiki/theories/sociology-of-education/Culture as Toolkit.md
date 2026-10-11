@@ -27,7 +27,7 @@ related_concepts:
   - "[[Self-Authorship]]"
   - "[[Champ]]"
   - "[[Self-Driven Mode]]"
-  - "[[Opportunist Mode]]"
+  - "[[Opportunists]]"
   - "[[Lost Mode]]"
   - "[[Value Conformist Mode]]"
   - "[[Work Meaning Schemas]]"
@@ -129,7 +129,7 @@ updated: 2026-06-02
 ## 应用领域
 
 > [!success]
-> - [[Goal-Controlled Mode]] — 该概念以工具箱理论为核心[[Analytic Framework\|分析框架]]：目标掌控模式被理解为一组由优势家庭提供的文化工具，使学生能够在大学[[Champ\|场域]]中策略性地组织行动路线。其亚类型[[Self-Driven Mode\|自主驱动者]]和[[Opportunist Mode\|机会主义者]]的区分，进一步体现了工具箱[[Paradigm\|范式]]中价值目的和策略手段两个维度的独立运作（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）。
+> - [[Goal-Controlled Mode]] — 该概念以工具箱理论为核心[[Analytic Framework\|分析框架]]：目标掌控模式被理解为一组由优势家庭提供的文化工具，使学生能够在大学[[Champ\|场域]]中策略性地组织行动路线。其亚类型[[Self-Driven Mode\|自主驱动者]]和[[Opportunists|机会主义者]]的区分，进一步体现了工具箱[[Paradigm\|范式]]中价值目的和策略手段两个维度的独立运作（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）。
 > - [[Intuition-Dependent Mode]] — 直觉依赖模式说明低阶层学生可及的文化工具集中缺少对精英大学场域具有高度适用性的工具。其亚类型[[Lost Mode\|迷失无从者]]和[[Value Conformist Mode\|价值归顺者]]的区分，体现了工具匮乏与价值馈赠可能同时发生的复杂关系。
 > - **两种生活状态与两种模式**[[Yajun Zheng\|郑雅君]]直接借用了 Swidler 对稳定/不稳定生活状态的区分——优势阶层学生入学前已处于稳定生活状态（文化工具箱已配备），弱势阶层学生则从应试场域进入大学后处于不稳定生活状态（文化目标被抛弃，需学习新方式）。直觉依赖者缺乏策略性，不是因为没有文化工具箱，而是因为其工具箱中缺少对精英大学这一特定场域具有高度适用性的工具（如[[Recommendation-Based Graduate Admission System\|推免]]规则、实习重要性、教授期望等）。这些**暗藏阶级壁垒的文化性知识**在优势阶层的工具箱中随手可及。
 > - **文化工具箱的动态重组**郑雅君第 4 章通过转变者案例展示了工具箱在大学经历中的充实过程——文化移入（接触新价值图式）和行动策略充实化（习得具体操作技能）是两条核心路径。高等教育不仅生产文凭，更是一个文化再社会化的过程。

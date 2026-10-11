@@ -56,6 +56,7 @@ related_concepts:
   - "[[Policy-Based Evidence-Making]]"
   - "[[Gatekeepers]]"
   - "[[School Leadership]]"
+  - "[[Strategic Compliance]]"
   - "[[Contributory Expertise]]"
   - "[[Literature Search]]"
   - "[[International Education]]"
@@ -318,7 +319,7 @@ updated: 2026-10-09
 > **四类机制的跨层协同治理** 基于对 109 项实证研究的[[Framework Synthesis\|框架综合]]，学校研究使用并非主要受教师个人能力单一因素制约，而是受信任、技能发展、可持续结构与关系四类横切机制共同治理；这些机制贯通个体、组织与系统层级，彼此关联，表明学校层面的研究使用依赖跨层支持生态的建设。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, pp. 8, 17–18)]]
 
 > [!claim] [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]]
-> **治理体制分化与象征性防御模式** 比较英格兰、苏格兰与德国汉堡基础教育体系的研究使用表明，研究利用并非由个体[[Research Literacy\|研究素养]]单向决定，而是深受宏观政治语境与治理体制的塑造：在英格兰高度市场化竞争与严苛督导（[[Ofsted]]）问责下，校长将权威机构（如 [[Education Endowment Foundation\|EEF]]）证据作为向督导证明专业胜任力、防范降级乃至为削减编制提供合理解释的表演性防御工具（Performative Compliance）；而在苏格兰与德国汉堡等低利害问责或行政缓冲生态中，学校领导者对外部研究保持审慎态度，依凭实践中的[[Contributory Expertise\|贡献型专长]]校准通用证据，将研究作为同侪对话与校本探究的起点。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 11–15, 19–23)]]
+> **治理体制分化与象征性防御模式** 比较英格兰、苏格兰与德国汉堡基础教育体系的研究使用表明，研究利用并非由个体[[Research Literacy\|研究素养]]单向决定，而是深受宏观政治语境与治理体制的塑造：在英格兰高度市场化竞争与严苛督导（[[Ofsted]]）问责下，校长将权威机构（如 [[Education Endowment Foundation\|EEF]]）证据作为向督导证明专业胜任力、防范降级乃至为削减编制提供合理解释的表演性防御工具（Performative [[Strategic Compliance|compliance]]）；而在苏格兰与德国汉堡等低利害问责或行政缓冲生态中，学校领导者对外部研究保持审慎态度，依凭实践中的[[Contributory Expertise\|贡献型专长]]校准通用证据，将研究作为同侪对话与校本探究的起点。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 11–15, 19–23)]]
 
 ---
 

@@ -21,22 +21,31 @@ tags:
   - theme/comparative-politics
   - theme/political-economy
 related_concepts:
+  - "[[Veto Possibilities]]"
+  - "[[Variable]]"
+  - "[[Paradigm]]"
+  - "[[Independent Variable]]"
   - "[[Enforcement Discretion]]"
-  - "[[Institutional Drift]]"
   - "[[Institutional Layering]]"
-  - "[[Institutional Displacement]]"
-  - "[[Institutional Conversion]]"
+  - "[[Institutional Drift]]"
+  - "[[Hypothesis]]"
+  - "[[Rule Ambiguity]]"
 related_theories:
   - "[[Theory of Gradual Institutional Change]]"
+  - "[[Historical Institutionalism]]"
+  - "[[Governmentality]]"
+  - "[[Structural Functionalism]]"
   - "[[Rational Action Theory]]"
 related_methods:
-  - "[[Typological Analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"
   - "[[Peter A. Hall]]"
-related_facts: []
+related_facts:
+  - "[[Chinese Academy of Sciences]]"
+  - "[[American Association for the Advancement of Science]]"
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
 confidence: high
@@ -52,8 +61,8 @@ updated: 2026-10-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美籍希腊裔比较政治学家，密歇根大学（University of Michigan）阿纳托尔·拉波波特政治学讲席教授（Anatol Rapoport Collegiate Professor of Political Science），美国文理科学院（AAAS）院士，当代理性选择制度主义与比较宪政分析代表人物。
-> - **核心角色** 在比较制度分析与形式政治理论网络中担任理论奠基节点；开创享誉学界的“否决玩家理论”（Veto Players Theory），将多国繁复宪政体制简化为统一的博弈分析模型，为比较政治学提供了解释政策稳定性与制度刚性的通用测量标尺；在[[Theory of Gradual Institutional Change|渐进制度变迁理论]]中被[[James Mahoney|马奥尼]]与[[Kathleen Thelen|希伦]]采纳为界定宏观环境“否决可能性”的直接理论基石。
+> - **身份位置** 美籍希腊裔比较政治学家，密歇根大学（University of Michigan）阿纳托尔·拉波波特政治学讲席教授（Anatol Rapoport Collegiate Professor of Political Science），美国文理[[Chinese Academy of Sciences|科学院]]（[[American Association for the Advancement of Science|AAAS]]）院士，当代理性选择制度主义与比较宪政分析代表人物。
+> - **核心角色** 在比较制度分析与形式政治理论网络中担任理论奠基节点；开创享誉学界的“否决玩家理论”（Veto Players Theory），将多国繁复宪政体制简化为统一的博弈分析模型，为比较政治学提供了解释政策稳定性与制度刚性的通用测量标尺；在[[Theory of Gradual Institutional Change|渐进制度变迁理论]]中被[[James Mahoney|马奥尼]]与希伦采纳为界定宏观环境“[[Veto Possibilities|否决可能性]]”的直接理论基石。
 > - **代表贡献** 出版里程碑专著《否决玩家：政治制度如何运作》（*Veto Players: How Political Institutions Work*，2002），形式化界定制度性与党派性否决者、核心区（winset）与政策稳定性的因果链条；出版《嵌套博弈》（*Nested Games*，1990），解释看似非理性的政治行为在多重竞技场博弈下的理性逻辑。
 
 > [!citation-card] 否决玩家对政策现状变迁的制约
@@ -72,23 +81,23 @@ updated: 2026-10-11
 > - **1986–2007** 长期任教于加州大学洛杉矶分校（UCLA），晋升为政治学特聘教授；期间出版《嵌套博弈》（1990）与《两院制》（1997），获多项学科大奖。
 > - **2002** 出版代表作《否决玩家：政治制度如何运作》（*Veto Players*，普林斯顿大学出版社），构建跨越总统制与议会制、联邦制与单一制的制度分析大一统理论，引发全球政治学界广泛引用与检验。
 > - **2007** 加盟密歇根大学（University of Michigan）政治学系，出任阿纳托尔·拉波波特政治学讲席教授。
-> - **2009** 其否决者理论被马奥尼与希伦系统整合进历史制度主义分析，确立为[[Theory of Gradual Institutional Change|渐进制度变迁理论]]二维矩阵的解释变量之一。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 19)]]
-> - **2016** 当选美国文理科学院（American Academy of Arts and Sciences）院士。
+> - **2009** 其否决者理论被[[James Mahoney|马奥尼]]与希伦系统整合进[[Historical Institutionalism|历史制度主义]]分析，确立为[[Theory of Gradual Institutional Change|渐进制度变迁理论]]二维矩阵的解释[[Variable|变量]]之一。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 19)]]
+> - **2016** 当选美国文理[[Chinese Academy of Sciences|科学院]]（American Academy of Arts and Sciences）院士。
 
 ---
 
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1980年代末–1990年代初 — 嵌套博弈与比较政治理性选择转向** 致力于破除行为主义与结构功能主义将政治行为简化为文化或社会学决定的倾向，建立形式博弈微观基础。
+> - **1980年代末–1990年代初 — 嵌套博弈与比较政[[Governmentality|治理性]]选择转向** 致力于破除行为主义与[[Structural Functionalism|结构功能主义]]将政治行为简化为文化或社会学决定的倾向，建立形式博弈微观基础。
 >   - **代表著作** *Nested Games: Rational Choice in Comparative Politics* (1990)。
 >   - **关键概念／方法** 嵌套博弈（Nested Games）、多重竞技场、[[Rational Action Theory|理性行动理论]]。
 >   - **阶段转向** 证明政治行动者在单一博弈场景中看似偏离最优收益的“次优或非理性举动”，实质是在更高层级制度博弈或多元交织竞技场（如选举竞争与党内派系博弈）中的完全理性选择。
 > - **1990年代中–2000年代初 — 两院制分析与否决玩家一般理论建构** 从立法机构技术性制衡研究出发，提炼跨越宏观宪政体制的通用因果机制。
 >   - **代表著作** *Bicameralism* (1997, with J. Money); *Veto Players: How Political Institutions Work* (2002)。
 >   - **关键概念／方法** 否决玩家（Veto Players）、制度性否决者、党派性否决者、无差别曲线、胜集（Winset）。
->   - **阶段转向** 摆脱了传统比较政治学沉溺于“总统制 vs 议会制”宏观二元对立的分类泥潭，提炼出具有连续变量特征的“否决玩家数量”与“意识形态距离”，实现体制分析维度的形式化统一。
-> - **2000年代末至今 — 跨范式对话与欧盟宪政改革博弈** 回应历史制度主义与实证宪政学批评，深化对规则变更难度与司法裁量博弈的形式化建模。
+>   - **阶段转向** 摆脱了传统比较政治学沉溺于“总统制 vs 议会制”宏观二元对立的分类泥潭，提炼出具有连续[[Variable|变量]]特征的“否决玩家数量”与“意识形态距离”，实现体制分析维度的形式化统一。
+> - **2000年代末至今 — 跨[[Paradigm|范式]]对话与欧盟宪政改革博弈** 回应[[Historical Institutionalism|历史制度主义]]与实证宪政学批评，深化对规则变更难度与司法裁量博弈的形式化建模。
 >   - **代表著作** 参与历史制度主义前沿对话，研究欧盟立法程序中的议程设置权与欧洲法院的司法裁量权。
 >   - **关键概念／方法** 议程设置者优势、修宪门槛、司法否决。
 >   - **阶段转向** 从静态政策核心区模型扩展到包含时间维度与议程掌控的动态博弈，为分析规则内生修改难度与司法解释提供理论工具。
@@ -110,19 +119,19 @@ updated: 2026-10-11
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 否决玩家理论重构了现代比较政治学与实证政治经济学的制度分析范式；被马奥尼与希伦（Mahoney & Thelen, 2009）改造为历史制度主义中解释四类渐进变迁形态的宏观政治语境自变量。
+> - **理论路径** 否决玩家理论重构了现代比较政治学与实证政治经济学的制度分析[[Paradigm|范式]]；被[[James Mahoney|马奥尼]]与希伦（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009]]）改造为[[Historical Institutionalism|历史制度主义]]中解释四类渐进变迁形态的宏观政治语境[[Independent Variable|自变量]]。
 > - **方法路径** 推动了空间投票模型与无差别曲线分析法在小样本比较政治与比较宪法学中的普及，使制度刚性测量走向形式化与量化。
 > - **政策路径** 广泛应用于跨国公共政策改革难易度评估、福利国家紧缩政策评估以及欧盟机构条约改革谈判的战略预测。
 
-> [!evidence-grid-a]- 相关研究索引
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 直接援引茨贝利斯否决者理论界定渐进制度变迁理论中的“否决可能性”维度（p. 19）。
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 直接援引茨贝利斯否决者理论界定[[Theory of Gradual Institutional Change|渐进制度变迁理论]]中的“[[Veto Possibilities|否决可能性]]”维度（p. 19）。
 
 ---
 
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **理论对话与吸收者** [[James Mahoney]] — 将否决者理论引入历史制度主义，发展出“否决可能性 × 裁量权”双维矩阵。
+> - **理论对话与吸收者** [[James Mahoney]] — 将否决者理论引入[[Historical Institutionalism|历史制度主义]]，发展出“[[Veto Possibilities|否决可能性]] × 裁量权”双维矩阵。
 > - **理论对话与吸收者** [[Kathleen Thelen]] — 借鉴否决者模型分析强否决阻力下行动者转向层叠与漂移的策略机制。
 > - **学术论敌与同行** [[Peter A. Hall]] — 理性选择制度主义与历史制度主义两大学派领军代表，就偏好内生性与历史时间性开展深层理论对话。
 
@@ -133,13 +142,13 @@ updated: 2026-10-11
 > [!debates] 学术争议
 >
 > > [!axis] 否决刚性与内生渐进变迁的理论张力
-> > 理性选择学派将高否决玩家直接等同于“政策锁定与无法变迁”（Policy Stability），遭到历史制度主义学者的有力批评与修正。
+> > 理性选择学派将高否决玩家直接等同于“政策锁定与无法变迁”（Policy Stability），遭到[[Historical Institutionalism|历史制度主义]]学者的有力批评与修正。
 > >
 > > - **George Tsebelis（2002）** 强否决玩家意味着能够打破现状的立法院胜集极度萎缩，政治体系表现出高刚性与高稳定性。
 > > - **James Mahoney & Kathleen Thelen（2009）** 茨贝利斯混淆了“正式法律文本维持不变”与“制度实质功能未发生改变”；在强否决阻力封杀正式修法时，行动者并不会坐以待毙，而是会利用[[Enforcement Discretion|执行裁量权]]转向[[Institutional Layering|制度层叠]]或放任[[Institutional Drift|制度漂移]]，以隐蔽渐进方式摧毁旧制度的实质功能。（p. 19）
 
 > [!warning] 未解问题与边界
-> 茨贝利斯经典模型假定行动者的偏好是外生给定的固定空间点，且假定制度规则一旦确立即能被完美且无摩擦地执行；该假设忽视了规则内生模糊性与执行层面的自由裁量空间，因而无法直接推导缺乏正式修法情形下的深层制度侵蚀。
+> 茨贝利斯经典模型假定行动者的偏好是外生给定的固定空间点，且假定制度规则一旦确立即能被完美且无摩擦地执行；该[[Hypothesis|假设]]忽视了[[Rule Ambiguity|规则内生模糊性]]与执行层面的自由裁量空间，因而无法直接推导缺乏正式修法情形下的深层制度侵蚀。
 
 ---
 
@@ -149,9 +158,9 @@ updated: 2026-10-11
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | **[[Theory of Gradual Institutional Change]]** | 理论 | 为渐进变迁双维因果矩阵提供“否决可能性”宏观维度的理论渊源与概念支柱。 |
-> | **[[Rational Action Theory]]** | 理论 | 丰富理性行动者在博弈约束下的决策模型，推动比较政治理性选择制度主义范式。 |
-> | **[[Enforcement Discretion]]** | 概念 | 与执行裁量权共同构成判定四类制度演进路径（置换/层叠/漂移/转换）的核心解释变量。 |
+> | **[[Theory of Gradual Institutional Change]]** | 理论 | 为渐进变迁双维因果矩阵提供“[[Veto Possibilities\|否决可能性]]”宏观维度的理论渊源与概念支柱。 |
+> | **[[Rational Action Theory]]** | 理论 | 丰富理性行动者在博弈约束下的决策模型，推动比较政[[Governmentality\|治理性]]选择制度主义[[Paradigm\|范式]]。 |
+> | **[[Enforcement Discretion]]** | 概念 | 与执行裁量权共同构成判定四类制度演进路径（置换/层叠/漂移/转换）的核心解释[[Variable\|变量]]。 |
 > | **[[Institutional Layering]]** | 概念 | 解释强否决阻力下行动者放弃公开修法转而采取规则层叠策略的结构诱因。 |
 > | **[[Institutional Drift]]** | 概念 | 解释强否决阻力保护旧规则免于废除、但行动者放任实质漂移的博弈逻辑。 |
 
@@ -159,7 +168,7 @@ updated: 2026-10-11
 
 ## 参考文献
 
-- Mahoney, J., & Thelen, K. (2009). A theory of gradual institutional change. In J. Mahoney & K. Thelen (Eds.), *Explaining institutional change: Ambiguity, agency, and power* (pp. 1–37). Cambridge: Cambridge University Press.
+- [[James Mahoney|Mahoney, J.]], & Thelen, K. (2009). A [[Theory of Gradual Institutional Change]]. In J. Mahoney & K. Thelen (Eds.), *Explaining institutional change: Ambiguity, agency, and power* (pp. 1–37). Cambridge: Cambridge University Press.
 - Tsebelis, G. (1990). *Nested games: Rational choice in comparative politics*. Berkeley: University of California Press.
 - Tsebelis, G. (2002). *Veto players: How political institutions work*. Princeton: Princeton University Press.
 - Tsebelis, G., & Money, J. (1997). *Bicameralism*. Cambridge: Cambridge University Press.

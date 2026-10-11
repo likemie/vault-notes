@@ -34,6 +34,7 @@ related_persons:
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[PISA]]"
+  - "[[Centros Concertados]]"
 related_arguments:
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
 confidence: high
@@ -169,7 +170,7 @@ updated: 2026-10-11
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] | 西班牙及欧洲主要国家（英、法、德、意、比、北欧）教育治理体制 | 跨国历史比较与政策[[Documentary Analysis\|文献分析]] | 权力分割单位、行政官僚化程度与系统协调性 | 西班牙建立 **17 个**事实上的独立教育系统；官僚行政过度膨胀；跨区域与中央协调严重缺失；私立协约学校承载约 **1/3** 基础教育生源且未发生公私倾轧 | — | 定性与制度性实证指标，揭示了后发转型国家激进分权相较于成熟经济体审慎调适的独特病理。 |
+> | [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] | 西班牙及欧洲主要国家（英、法、德、意、比、北欧）教育治理体制 | 跨国历史比较与政策[[Documentary Analysis\|文献分析]] | 权力分割单位、行政官僚化程度与系统协调性 | 西班牙建立 **17 个**事实上的独立教育系统；官僚行政过度膨胀；跨区域与中央协调严重缺失；私立[[Centros Concertados\|协约学校]]承载约 **1/3** 基础教育生源且未发生公私倾轧 | — | 定性与制度性实证指标，揭示了后发转型国家激进分权相较于成熟经济体审慎调适的独特病理。 |
 
 ---
 

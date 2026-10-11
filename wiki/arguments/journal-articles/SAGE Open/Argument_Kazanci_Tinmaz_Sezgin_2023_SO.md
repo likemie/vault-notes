@@ -78,6 +78,8 @@ related_facts:
 related_theories:
   - "[[Theory of Planned Behavior]]"
   - "[[Research Utilization Models]]"
+related_persons:
+  - "[[Paul Pierson]]"
 status: draft
 created: 2026-08-26
 updated: 2026-09-18
@@ -287,7 +289,7 @@ journal: "SAGE Open"
 > | **4. 研究意识** | .55 | .37 | .55 | 1 | **.56** | **.83** | .83 | .83 |
 > | **总量表 RLS** | — | — | — | — | — | — | **.94** | **.95** |
 >
-> *注：矩阵右上角为皮尔逊[[Pearson Product-Moment Correlation\|积差相关]]系数（$r$），左下角为决定系数（$r^2$）；** $p < .01$。*
+> *注：矩阵右上角为[[Paul Pierson|皮尔逊]][[Pearson Product-Moment Correlation\|积差相关]]系数（$r$），左下角为决定系数（$r^2$）；** $p < .01$。*
 >
 > **图表解读** 概括分量表相关与心理测量指标表现：各维度间呈显著中高度正相关（$r = .56 \sim .77$），且 AVE 普遍大于共享方差 $r^2$（仅技能与使用稍高但依然收敛），确立了优良的收敛与区分效度；$\omega$ 与 $\alpha$ 高度吻合，证实指标载荷具备高同质性。（p. 11）
 

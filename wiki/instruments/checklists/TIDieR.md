@@ -37,6 +37,7 @@ tags:
 related_concepts:
   - "[[Implementation Fidelity]]"
   - "[[Literature Review]]"
+  - "[[Strategic Compliance]]"
   - "[[Teaching Assistant]]"
   - "[[Causality]]"
   - "[[Preregistration]]"
@@ -77,7 +78,7 @@ updated: 2026-09-15
 > [!citation-card] 破解干预黑箱与实施保真度报告规程
 > 早期教育试验往往由于缺乏高质量的[[Implementation and Process Evaluation\|实施与过程评估]]（IPE），导致无法解释结果背后的因果机制或描述现场实施情况。为此，英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）委托曼彻斯特大学开展系统[[Literature Review\|文献综述]]（Humphrey et al., 2016），并制定指导方针，明确将 TIDieR 核查指南（Hoffmann et al., 2014）引入教育试验，强调详尽记录干预各组分、对照组常规活动、因果机制与遵从度的极端重要性。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 53)]]
 >
-> *"For this reason, in 2014, the EEF commissioned a literature review by Manchester University of IPE for education interventions (Humphrey et al., 2016) which informed guidance highlighting the importance of a detailed intervention description (Hoffman et al., 2014) and high-quality data on implementation, compliance, control group activity, causal mechanisms, and cost."*
+> *"For this reason, in 2014, the EEF commissioned a literature review by Manchester University of IPE for education interventions (Humphrey et al., 2016) which informed guidance highlighting the importance of a detailed intervention description (Hoffman et al., 2014) and high-quality data on implementation, [[Strategic Compliance|compliance]], control group activity, causal mechanisms, and cost."*
 
 ---
 

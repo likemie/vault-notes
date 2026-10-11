@@ -36,6 +36,7 @@ related_concepts:
   - "[[Academic Risk Aversion]]"
 related_theories:
   - "[[Systems of Innovation]]"
+  - "[[Historical Institutionalism]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
 related_instruments: []
@@ -150,5 +151,5 @@ updated: 2026-10-05
 > | [[Bayh-Dole Act of 1980]] | Fact (Policy) | 推动大学科研成果向工业界转化与[[University-Industry Collaboration\|产学合作]]立法落地。 |
 > | [[Academic Start-up Packages]] | Concept | 揭示高校为青年学者提供科研启动资金与严酷项目考核的微观生态。 |
 > | [[Academic Risk Aversion]] | Concept | 深入批判由于外部竞争白热化而导致的学术选题避险与成果平庸化。 |
-> | [[Historical-Comparative Method]] | Method | 运用历史制度主义与跨国比较方法剖析大学体制演进规律。 |
+> | [[Historical-Comparative Method]] | Method | 运用[[Historical Institutionalism\|历史制度主义]]与跨国比较方法剖析大学体制演进规律。 |
 > | [[Argument_Atkinson_2008_TIS\|Atkinson & Blanpied, 2008]] | Argument | 2008 年发表于《社会中的技术》的核心学术论证专论。 |

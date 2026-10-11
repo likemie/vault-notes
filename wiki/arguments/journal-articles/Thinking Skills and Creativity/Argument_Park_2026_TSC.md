@@ -89,6 +89,7 @@ related_instruments:
   - "[[PRISMA]]"
   - "[[Consensual Assessment Technique]]"
 related_persons:
+  - "[[Paul Pierson]]"
   - "[[Socrates]]"
 related_facts:
   - "[[National Education Association]]"
@@ -216,7 +217,7 @@ issuing_organization: ""
 > | **调节分析**<br>[[Meta-regression\|Meta-regression]] | 以三水平元回归逐一检验年龄、学段、地理区域、发表年份、创造力测量类型与批判性思维测量类型的调节作用，并检验两类测量类型的交互项；以 omnibus 检验（$Q_M$）判断调节变量解释的异质性是否显著，调节变量既单独进入也在一项额外调节变量控制下进入模型。（pp. 4–5） |
 
 > [!synthesis-model] 效应量与统计模型
-> - **效应量指标** 皮尔逊 $r$，经 Fisher's $z$ 变换稳定方差并正态化（p. 4）。
+> - **效应量指标** [[Paul Pierson|皮尔逊]] $r$，经 Fisher's $z$ 变换稳定方差并正态化（p. 4）。
 > - **权重** 抽样方差倒数（大样本贡献更精确的估计）（p. 4）。
 > - **模型** 三水平随机效应[[Meta-analysis\|元分析]]：Level 1 [[Sampling Error\|抽样误差]]、Level 2 研究内方差、Level 3 [[Between-Study Variance\|研究间方差]]（p. 4）。
 > - **异质性** $I^2$ 与 $Q$ 检验（p. 4）。

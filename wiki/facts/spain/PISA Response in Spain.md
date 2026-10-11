@@ -41,6 +41,7 @@ related_facts:
   - "[[Organic Law on the General Organization of the Education System 1990]]"
   - "[[OECD]]"
   - "[[Organic Law on Education 2006]]"
+  - "[[Centros Concertados]]"
 related_arguments:
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
   - "[[Argument_Li_2025_HSSC]]"
@@ -97,7 +98,7 @@ updated: 2026-10-11
 >
 > | 维度 | 综合均质与激进分权阵营（PSOE 及自治区） | 学术卓越与中央统考阵营（PP 及传统学派） |
 > |:---|:---|:---|
-> | 核心行动者 | 社会党、加泰罗尼亚及巴斯克教育当局、进步教师工会 | 人民党、保守派学者、协约学校教师协会 |
+> | 核心行动者 | 社会党、加泰罗尼亚及巴斯克教育当局、进步教师工会 | 人民党、保守派学者、[[Centros Concertados\|协约学校]]教师协会 |
 > | 阶级／社会基础 | 地方自治选民、主张不分流平等的工薪阶层群体 | 城市中产专业阶层、重视学术竞争与精英选拔家庭 |
 > | 核心价值[[Discourse\|话语]] | 全面公平、反选拔歧视、尊重地方文化与自治权。 | 追求学业卓越、恢复学术严谨性、维护国家统一标准。 |
 > | 斗争策略 | 废除 LOCE 分流法案、制定 [[Organic Law on Education 2006\|LOE]] 法案、推诿数据责任。 | 起草 LOCE 法案、动员 PISA 危机舆论、推动全国会考。 |

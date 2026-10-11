@@ -27,21 +27,26 @@ tags:
   - theme/teacher-education
 related_concepts:
   - "[[European Education Space]]"
-  - "[[Student Mobility]]"
+  - "[[Paradigm]]"
   - "[[Discourse]]"
-  - "[[Teacher Mobility]]"
+  - "[[Student Mobility]]"
+  - "[[Knowledge Production]]"
+  - "[[Enlightenment]]"
+  - "[[Rich and Thick Description]]"
 related_theories:
-  - "[[Spatial Governmentality]]"
   - "[[Governmentality]]"
 related_methods:
-  - "[[Historical-Comparative Method]]"
+  - "[[Social Cartography]]"
 related_instruments: []
 related_persons:
-  - "[[Cowen, R.]]"
-  - "[[Kazamias, A. M.]]"
+  - "[[Jean Piaget]]"
 related_facts:
-  - "[[Erasmus Programme]]"
-  - "[[TEMPUS]]"
+  - "[[Chinese Academy of Sciences]]"
+  - "[[UNESCO]]"
+  - "[[Comparative Education Society in Europe]]"
+  - "[[Comparative and International Education Society]]"
+  - "[[Bologna Process]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
 confidence: high

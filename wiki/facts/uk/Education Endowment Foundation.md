@@ -55,6 +55,7 @@ related_concepts:
   - "[[Evaluator Independence]]"
   - "[[Knowledge Production]]"
   - "[[School Leadership]]"
+  - "[[Strategic Compliance]]"
   - "[[Contributory Expertise]]"
   - "[[Ontology]]"
   - "[[Reflexivity]]"
@@ -367,7 +368,7 @@ updated: 2026-10-09
 > > 探讨在英格兰高度市场化竞争与外部督导（[[Ofsted]]）问责体制下，EEF 证据与指南在[[School Leadership\|学校领导]]层日常运作中究竟是促进了实践改进，还是异化为防御性合规工具。
 > >
 > > - **官方与工具主义设想（EEF 五步实施指南）** 预设学校遵循“探索-准备-交付-维持-扩展”的理性系统规程，即可将工具包与指南报告转化为教学改进。
-> > - **跨国比较实证批判（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025]]）** [[In-depth Interview\|深度访谈]]英格兰学校领导者发现，在高利害督导与升学市场化竞争压力下，EEF 工具包被校长普遍异化为应对督导审查、证明专业胜任力的“表演性合规护身符”（Badge of Compliance）；同时，商业机构过度二次包装 EEF 成果进行侵略性营销加剧了校长的信息过载与防御倦怠；更为严重的是，学校管理层利用 EEF 关于[[Teaching Assistant\|助教]]（TA）低成本效益的论调，为在财政紧缩下裁撤助教岗位提供去责任化的合法化辩护，严重挤压了一线基于[[Contributory Expertise\|贡献型专长]]的真实反思空间。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 11–13, 21–23)]]
+> > - **跨国比较实证批判（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025]]）** [[In-depth Interview\|深度访谈]]英格兰学校领导者发现，在高利害督导与升学市场化竞争压力下，EEF 工具包被校长普遍异化为应对督导审查、证明专业胜任力的“表演性合规护身符”（Badge of [[Strategic Compliance|compliance]]）；同时，商业机构过度二次包装 EEF 成果进行侵略性营销加剧了校长的信息过载与防御倦怠；更为严重的是，学校管理层利用 EEF 关于[[Teaching Assistant\|助教]]（TA）低成本效益的论调，为在财政紧缩下裁撤助教岗位提供去责任化的合法化辩护，严重挤压了一线基于[[Contributory Expertise\|贡献型专长]]的真实反思空间。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 11–13, 21–23)]]
 
 > [!citation-card] 政策网络学者论 EEF 创设资金的财政溯源与伦理悖论
 > 罗威揭露，英国教育部为 EEF 提供的 1.25 亿英镑创办资金，源于政府决定不扩大贫困儿童免费学校午餐计划的预算节余；机构虽标榜为弱势群体促进公平，其实质却依托削减贫困学童温饱福利的资金设立，并由汇聚跨国投行与私募资本的萨顿信托与 Impetus 共同资助。[[Argument_Rowe_2022_IJER\|(Rowe, 2022, p. 6)]]

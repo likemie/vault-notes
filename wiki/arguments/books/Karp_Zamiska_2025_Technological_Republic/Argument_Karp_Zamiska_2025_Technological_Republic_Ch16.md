@@ -55,6 +55,7 @@ related_persons:
   - "[[Kenneth Burke]]"
   - "[[James Madison]]"
   - "[[Saint Benedict]]"
+  - "[[Peter A. Hall]]"
   - "[[Plato]]"
 related_facts:
   - "[[USS Nautilus Submarine Development]]"
@@ -135,7 +136,7 @@ updated: 2026-10-09
 > ```
 
 > [!warrant]- 逆向淘汰机制：低薪如何将公职异化为富豪慈善或离职变现跳板
-> 根据美国西北大学研究团队 2023 年针对《福布斯》全球两千名亿万富豪的实证调查（Krcmaric et al., 2023），约有 11% 的亿万富豪曾竞选或出任过公职（p. 180）。政治学者安德鲁·霍尔（Andrew B. Hall, 2019）在其著作《谁想参选？》（*Who Wants to Run?*）中同样实证指出，立法者薪酬的贬值必然导致唯有富豪阶层才负担得起参选成本。与此相对，根据美国国会研究处（Congressional Research Service, CRS）的报告（Brudnick, 2024），美国参众两院议员平均年薪仅为 17.4 万美元，但其决策却影响着数百万国民的生计，这种体制在制度上驱使无资产背景的议员走向国会演剧化并谋求离职后寻租（pp. 180–181）。
+> 根据美国西北大学研究团队 2023 年针对《福布斯》全球两千名亿万富豪的实证调查（Krcmaric et al., 2023），约有 11% 的亿万富豪曾竞选或出任过公职（p. 180）。政治学者安德鲁·[[Peter A. Hall|霍尔]]（Andrew B. Hall, 2019）在其著作《谁想参选？》（*Who Wants to Run?*）中同样实证指出，立法者薪酬的贬值必然导致唯有富豪阶层才负担得起参选成本。与此相对，根据美国国会研究处（Congressional Research Service, CRS）的报告（Brudnick, 2024），美国参众两院议员平均年薪仅为 17.4 万美元，但其决策却影响着数百万国民的生计，这种体制在制度上驱使无资产背景的议员走向国会演剧化并谋求离职后寻租（pp. 180–181）。
 
 ---
 

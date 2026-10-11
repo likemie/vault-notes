@@ -36,7 +36,8 @@ related_methods:
   - "[[Questionnaire]]"
 related_instruments:
   - "[[Schommer's Modified Epistemological Questionnaire]]"
-related_persons: []
+related_persons:
+  - "[[Paul Pierson]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"
@@ -74,7 +75,7 @@ updated: 2026-09-17
 > **这个公式在做什么** 对比所有[[Variable\|变量]]对之间的**简单相关系数平方和（$\sum r_{ij}^2$）**与**简单相关平方和加上偏相关系数平方和（$\sum a_{ij}^2$）**的比值。
 >
 > **符号说明**
-> - $r_{ij}$：变量 $i$ 与变量 $j$ 之间的零阶皮尔逊[[Pearson Product-Moment Correlation\|积差相关]]系数。
+> - $r_{ij}$：变量 $i$ 与变量 $j$ 之间的零阶[[Paul Pierson|皮尔逊]][[Pearson Product-Moment Correlation\|积差相关]]系数。
 > - $a_{ij}$：在控制了数据集中所有其余所有变量后，变量 $i$ 与变量 $j$ 之间的偏相关系数（Partial Correlation / Anti-image Correlation）。
 >
 > **数学直觉** 如果变量之间由少数强有力的公共因子驱动，则在剔除公因子影响后，变量间的偏相关 $a_{ij}$ 应当接近 0，此时分母接近分子，$\text{KMO} \to 1.0$；反之，若变量间充斥着独特的非共享变异，偏相关很大，$\text{KMO} \to 0$。

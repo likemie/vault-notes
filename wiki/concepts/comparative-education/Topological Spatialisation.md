@@ -44,6 +44,7 @@ related_theories:
   - "[[Actor-Network Theory]]"
   - "[[Governing at a Distance]]"
   - "[[Post-structuralism]]"
+  - "[[Historical Institutionalism]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
@@ -180,7 +181,7 @@ updated: 2026-10-08
 > > 争论拓扑网络是否真正瓦解了传统国家[[Bureaucracy|科层制]]，还是传统制度依然牢固统摄一切。
 > >
 > > - **拓扑[[Post-structuralism\|后结构主义]]视角** 强调新兴数字平台与数据中介已然重构了权力运行逻辑，传统地理与行政边界正被算法连通性所穿透（Allen, 2011; Ruppert, 2012）。
-> > - **历史制度主义与国家中心视角** 指出在法律、人事与财政预算等硬性主权支柱上，传统的民族国家与地方行政层级依然牢牢把控核心资源，拓扑网络仅构成科层制的辅助技术手段（Pierson, 2000）。
+> > - **[[Historical Institutionalism|历史制度主义]]与国家中心视角** 指出在法律、人事与财政预算等硬性主权支柱上，传统的民族国家与地方行政层级依然牢牢把控核心资源，拓扑网络仅构成科层制的辅助技术手段（Pierson, 2000）。
 > > - **[[Assemblage\|装配]]理论折中视角** [[Argument_Hartong_2018_GSE\|Hartong (2018)]] 强调拓扑网络并非完全替代传统领土层级，而是与之发生摩擦、妥协并形成新型复合装配体（re-assemblage），传统各州依然保有测试实施权与禁止排名的法条底线。
 
 > [!warning] 适用局限

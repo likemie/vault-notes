@@ -26,7 +26,6 @@ related_concepts:
   - "[[Scientific Paradigm]]"
   - "[[Theory of Knowledge]]"
   - "[[Paradigm]]"
-  - "[[Opportunist Mode]]"
   - "[[Historical Amnesia]]"
   - "[[Enlightenment]]"
   - "[[Comparative Educations]]"
@@ -99,7 +98,7 @@ updated: 2026-10-09
 > [!concept-lens] 概念透镜
 > - **含义** 指涉比较教育学[[Knowledge Production|知识生产]]与方法论形态因应时代智识与政治语境而高度变异的认识论特质。
 > - **用途** 帮助研究者透视学科历史演化中的“代际转换”（Generations）与“论述类型”（Types of [[Discourse]]），破除单一线性进化论或独断实证[[Scientific Paradigm|科学范式]]的神话。
-> - **边界** 描述的是学科[[Theory of Knowledge|知识论]]形态与[[Paradigm|范式]]流变的历史现实，绝非等同于缺乏原则的方法论[[Opportunist Mode|机会主义]]或相对主义解构；提出该概念的旨归恰恰在于警示学科在变动不居的风尚中抵御“[[Historical Amnesia|历史健忘症]]”，坚守历史与人文精神底色。
+> - **边界** 描述的是学科[[Theory of Knowledge|知识论]]形态与[[Paradigm|范式]]流变的历史现实，绝非等同于缺乏原则的方法论机会主义或相对主义解构；提出该概念的旨归恰恰在于警示学科在变动不居的风尚中抵御“[[Historical Amnesia|历史健忘症]]”，坚守历史与人文精神底色。
 
 > [!citation-card] 卡扎米亚斯论比较教育学的普罗透斯式认识体系
 > 比较教育学这一术语并非一个单一面向或单音调的概念或智识体系。它是一门跨学科与多学科的“人文科学”，是[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）意义上的教育科学（Vergleichende Erziehungswissenschaft）。从历史上看，比较教育学的谱系渊源可以追溯到十八世纪末和十九世纪初欧洲[[Enlightenment|启蒙运动]]的“现代主义”时期。自那时起，人们便从各种各样的视角、通过各种各样的方法论棱镜、并运用各种各样的研究方法和技术，来对教育系统、问题、现象或过程展开比较研究并进行概念化构建。如同希腊神话中的半神普罗透斯一样，比较教育学在不同的历史时期穿戴着由不同颜色的认识论、方法论和意识形态丝线所编织的不同装束。因此，它以各种各样的伪装形态出现，在很大程度上折射出时代的智识、方法论和文化潮流与风尚。这就是为何将比较教育学称为一种普罗透斯式认识体系。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140)]]

@@ -26,6 +26,7 @@ related_concepts:
   - "[[Research Universities]]"
 related_theories:
   - "[[Three Generations of Mission-Oriented Policy]]"
+  - "[[Historical Institutionalism]]"
 related_persons:
   - "[[Isaiah Berlin]]"
   - "[[Alfred Nobel]]"
@@ -97,7 +98,7 @@ aliases:
 > | [[Three Generations of Mission-Oriented Policy]] | 理论 | 阿尔托夫体制是第一代骆驼形态使命政策中后发国家科研追赶的原型案例。 |
 > | [[Public Dynamic Capabilities]] | 概念 | 展现了韦伯式官僚系统在国家层级与政策层级主动重塑科研生态的动态能力。 |
 > | [[Max Planck Society]] | 事实 | 阿尔托夫创立的产学联合科研所模式直接催生了威廉皇家学会及其后身马普学会。 |
-> | [[Mission-Oriented Innovation Policy]] | 概念 | 为后发追赶型使命政策的历史制度主义研究提供了关键历史证据。 |
+> | [[Mission-Oriented Innovation Policy]] | 概念 | 为后发追赶型使命政策的[[Historical Institutionalism\|历史制度主义]]研究提供了关键历史证据。 |
 > | [[Research Universities]] | 概念 | 阿尔托夫体制深刻重构了现代研究型大学的讲席聘任与实验室科研[[Paradigm\|范式]]。 |
 
 ---

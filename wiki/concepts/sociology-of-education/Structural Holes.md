@@ -28,7 +28,6 @@ related_concepts:
   - "[[Vertical Disintegration]]"
   - "[[Paradigm]]"
   - "[[Public Value]]"
-  - "[[Opportunist Mode]]"
 related_theories:
   - "[[Lefebvre's Spatial Triad]]"
   - "[[Systems of Innovation]]"
@@ -183,7 +182,7 @@ updated: 2026-10-10
 
 > [!warning] 适用局限与潜在风险
 > - **单点故障风险** 当网络过度依赖占据结构洞的特定关键节点时，该个体的离职或策略性隐瞒可能导致整个跨界合作网络瞬间瓦解。
-> - **信任赤字与[[Opportunist Mode|机会主义]]** 长期依靠结构洞获利的经纪人容易被网络两端的成员视为“机会主义掮客”，引发深层信任危机。
+> - **信任赤字与机会主义** 长期依靠结构洞获利的经纪人容易被网络两端的成员视为“机会主义掮客”，引发深层信任危机。
 
 ---
 

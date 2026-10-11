@@ -61,6 +61,7 @@ related_concepts:
   - "[[Hardware Security]]"
   - "[[Process Design Kit]]"
 related_theories:
+  - "[[Varieties of Capitalism]]"
   - "[[Social Contract of Science]]"
 related_facts:
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
@@ -210,7 +211,7 @@ updated: 2026-10-10
 >
 > | 维度 | 产业重振与国家安全联盟 | 自由市场与成本担忧联盟 |
 > |:---|:---|:---|
-> | 核心行动者 | 拜登政府、两党国会领袖、半导体制造巨头、军工复合体 | 自由市场经济学者、智库保守派、部分小型无晶圆设计商 |
+> | 核心行动者 | 拜登政府、两党国会领袖、半导体制造巨头、军工复合体 | [[Varieties of Capitalism\|自由市场经济]]学者、智库保守派、部分小型无晶圆设计商 |
 > | 利益框架 | 将芯片视为国家生存资产，强调供应链韧性与地缘安全第一 | 强调自由贸易与比较优势，担忧补贴内耗与政府失灵 |
 > | 主要策略 | 巨额直接资助、护栏条款排他性脱钩、友岸外包网络 | 批评生产成本过高、揭露补贴附加社会政策的扭曲 |
 >

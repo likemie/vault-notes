@@ -15,6 +15,7 @@ related_concepts:
   - "[[Bureaucracy]]"
   - "[[Engineering Mindset]]"
   - "[[Creativity]]"
+  - "[[Strategic Compliance]]"
   - "[[Shadow Hierarchy]]"
   - "[[Swarm Intelligence]]"
   - "[[Emergence]]"
@@ -73,7 +74,7 @@ updated: 2026-10-08
 
 > [!boundary]- 概念边界
 > - 不等于 消极怠工或玩忽职守（Dereliction of Duty）：玩忽职守回避解决问题并瓦解组织执行力，而建设性不服从旨在通过对抗不合理指令达成更高质量的工程实效与系统交付。
-> - 不等于 盲从合规（Blind Compliance）：顺从虽然迎合了管理层控制欲望，但会迅速将组织推向平庸化与集体盲区。
+> - 不等于 盲从合规（Blind [[Strategic Compliance|compliance]]）：顺从虽然迎合了管理层控制欲望，但会迅速将组织推向平庸化与集体盲区。
 > - 不等于 恶意抗命或宗派内耗（Malicious Insubordination）：恶意违抗旨在破坏组织凝聚力或谋取小团体私利，建设性不服从则始终围绕共同战略目标的达成。
 
 ---
@@ -81,7 +82,7 @@ updated: 2026-10-08
 ## 概念辨析
 
 > [!contrast-table] 组织行为模式与行动哲学多维辨析
-> | 比较维度 | 建设性不服从（Constructive Disobedience） | 盲目合规从众（Blind Compliance） | 怠工与玩忽职守（Dereliction of Duty） | 恶意违抗与内耗（Malicious Resistance） |
+> | 比较维度 | 建设性不服从（Constructive Disobedience） | 盲目合规从众（Blind [[Strategic Compliance\|compliance]]） | 怠工与玩忽职守（Dereliction of Duty） | 恶意违抗与内耗（Malicious Resistance） |
 > |---|---|---|---|---|
 > | **战略愿景内化度** | 深刻内化组织核心使命与最高战略意图 | 仅关注字面规章与表面指示，不关心实际业务成败 | 漠视战略意图，抵触组织公共目标 | 蓄意解构组织愿景，谋取局部私利 |
 > | **对待上级错误指令** | 主动依据前线实战反馈进行对抗、纠偏与方案重塑 | 明知有错仍照单全收，将全部责任转嫁给上级权威 | 借故拖延或消极搁置，放弃任何纠错努力 | 恶意放大错误以制造混乱或削弱管理层威信 |

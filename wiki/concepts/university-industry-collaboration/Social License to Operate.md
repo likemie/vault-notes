@@ -23,6 +23,7 @@ tags:
   - theme/social-contract
 related_concepts:
   - "[[Public Value]]"
+  - "[[Strategic Compliance]]"
   - "[[Dialogue in Education]]"
   - "[[Attrition]]"
   - "[[Grandes Ecoles]]"
@@ -60,7 +61,7 @@ updated: 2026-10-03
 > [!concept-lens] 概念透镜
 > - **含义** 强调大学的存在与发展并非脱离社会的孤立象牙塔特权，其教学与科研占用的大量公共财政与社会资源，时刻依赖外部社会的道德许可与价值认可。
 > - **用途** 帮助大学领导者看见在财政紧缩、学费争议与反建制思潮冲击下高校面临的深层合法性赤字；解释为何高校必须将公众参与、社区服务与科学传播列为战略性生命线投资。
-> - **边界** 不等于官方的学位授予权或行政法规合规（Legal Compliance）；亦不等于单向的企业公关（[[Participatory Research\|PR]]），它由公众依据大学的真实行为持续评估，极具动态性与脆弱性。
+> - **边界** 不等于官方的学位授予权或行政法规合规（Legal [[Strategic Compliance|compliance]]）；亦不等于单向的企业公关（[[Participatory Research\|PR]]），它由公众依据大学的真实行为持续评估，极具动态性与脆弱性。
 
 > [!boundary]- 概念边界
 > - 不等于法定办学执照（Legal Charter / Accreditation） — 法定资质由国家教育行政机构依据成文法一次性或周期性授予；社会运营许可由社会多元公众自发赋予，无法通过行政命令强制索取。

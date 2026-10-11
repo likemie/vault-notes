@@ -40,8 +40,10 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Creativity]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Strategic Compliance]]"
   - "[[Soft Power]]"
 related_theories:
+  - "[[Historical Institutionalism]]"
   - "[[Hegemony]]"
   - "[[Sociology of Measurement]]"
   - "[[Human Capital Theory]]"
@@ -82,7 +84,7 @@ updated: 2026-10-05
 
 > [!person-profile] 人物档案
 > - **身份位置** 丹麦历史学与比较教育学者，奥尔堡大学（Aalborg University）教育社会学与全球教育治理教授、牛津大学全球史研究中心高级研究学者。
-> - **核心角色** 当代国际组织历史制度主义、跨国教育评估史与量化治理研究的领军学者之一；开创性提出“[[Global Education Governing Complex\|全球教育治理复合体]]”理论框架，系统重构二战后多边跨国组织相互交织的权力演变史。
+> - **核心角色** 当代国际组织[[Historical Institutionalism|历史制度主义]]、跨国教育评估史与量化治理研究的领军学者之一；开创性提出“[[Global Education Governing Complex\|全球教育治理复合体]]”理论框架，系统重构二战后多边跨国组织相互交织的权力演变史。
 > - **代表贡献** 奠定[[Global Education Governing Complex\|全球教育治理复合体]][[Construct\|构念]]；深入研究[[OECD\|经合组织]]（[[OECD]]）与[[World Bank\|世界银行]]跨国指标帝国的崛起历程；在 [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] 中系统构建冷战地缘对抗向当代[[Policy Brokerage\|政策中介]]演化的历史脉络。
 
 > [!citation-card]- 人物定位的关键来源
@@ -109,7 +111,7 @@ updated: 2026-10-05
 > [!thought-timeline] 思想发展
 > - **2011–2018 — 测验技术、心理测量与教育分流史** 关注心理测量与能力测试技术如何在 20 世纪上半叶作为行政分类与社会控制工具跨国流动。
 >   - **代表著作** *The [[Research in Schools Evaluation\|RISE]] of [[High-Stakes Testing]] in Denmark, 1920–1970* (Peter Lang, 2011)。
->   - **关键概念／方法** Standardised Testing、Historical Institutionalism。
+>   - **关键概念／方法** Standardised Testing、[[Historical Institutionalism]]。
 >   - **阶段转向** 从单个国家的心理测验史转向对超国家多边组织评估架构的宏观历史社会学考察。
 > - **2019–2022 — [[Global Education Governing Complex\|全球教育治理复合体]]的历史制度化** 聚焦战后[[OECD\|经合组织]]（OECD）如何从冷战经济协调机构逐步转变为拥有无上规制权力的跨国[[Performance Indicators\|教育指标]]帝国。
 >   - **代表著作** *The OECD's Historical Rise In Education: The Formation of a Global Governing Complex* (Palgrave Macmillan, 2019)。
@@ -127,7 +129,7 @@ updated: 2026-10-05
 > [!claim] 核心主张
 > 全球教育治理并非追求普遍人类福祉的自发技术演进，而是由冷战地缘博弈、西方资本重组与国际组织自我赋权共同形塑的历史制度复合体。[[OECD\|经合组织]]与[[World Bank\|世界银行]]通过与欧美核心国家政商精英结盟，利用危机叙事与量化测试工具，系统蚕食了[[UNESCO\|联合国教科文组织]]的人文主义教育领导权；在当代[[Governing by Numbers\|数字治理]]阶段，国际组织通过充当[[Policy Brokerage\|政策中介]]，将[[Façade of Rationality\|数字作为理性表象的脚手架]]，以不可抗拒的“硬事实”构筑起深度侵蚀民族国家教育自主权的软性规制霸权。
 
-> [!citation-card] [[Global Education Governing Complex\|全球教育治理复合体]]的历史制度主义定性
+> [!citation-card] [[Global Education Governing Complex\|全球教育治理复合体]]的[[Historical Institutionalism|历史制度主义]]定性
 > 全球教育治理复合体是由理念、制度惯性、统计技术网络与资本流动共同构筑的权力拓扑结构；它跨越了传统的主权边界与国际组织法定管辖权，将教育彻底重构为全球经济竞争与资本积累的从属机能。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540–542)]]
 >
 > *The global education governing complex is a topological configuration of power constituted by ideas, institutional inertia, statistical networks, and capital flows; transcending traditional sovereign borders and formal jurisdictional mandates, it has fundamentally reconstructed education as a subsidiary function of global economic competition and capital accumulation.*
@@ -137,7 +139,7 @@ updated: 2026-10-05
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 推进了国际组织社会学与比较教育历史制度主义的融合，确立了“治理复合体”与“[[Soft Power by Hard Facts\|以硬事实施展软权力]]”在当代跨国政策分析中的核心分析地位。
+> - **理论路径** 推进了国际组织社会学与比较教育[[Historical Institutionalism|历史制度主义]]的融合，确立了“治理复合体”与“[[Soft Power by Hard Facts\|以硬事实施展软权力]]”在当代跨国政策分析中的核心分析地位。
 > - **方法路径** 倡导结合跨国多边机构内部未公开机密档案、口述历史访谈以及统计分类目录演化的跨国历史社会学方法。
 > - **政策路径** 成果被[[UNESCO\|联合国教科文组织]][[Global Education Monitoring Report\|全球教育监测报告]]（GEM Report）以及发展中[[State Educational Sovereignty\|国家教育主权]]维护联盟多次引述，为反思全球南方国家过度依赖西方外援指标提供了批判性镜鉴。
 > - **跨国／跨领域传播** 成果在北欧比较教育学派、英国关键社会政策圈以及北美全球治理研究网络中获得广泛反响。
@@ -165,7 +167,7 @@ updated: 2026-10-05
 > [!debates] 学术争议
 >
 > > [!axis] 历史[[Determinism\|决定论]] vs 偶然性[[Network Governance\|网络治理]]
-> > 批评者质疑历史制度主义框架是否过度强化了国际组织蓄意谋求权力的连续性逻辑。
+> > 批评者质疑[[Historical Institutionalism|历史制度主义]]框架是否过度强化了国际组织蓄意谋求权力的连续性逻辑。
 > >
 > > - **网络治理派学者** 认为跨国指标扩散更多是高度分权、去中心化的跨国专家网络自发协作的产物，而非少数多边机构处心积虑的帝国扩张。
 > > - **Ydesen & Grek（2019）** 依托详实解密档案证实，冷战对抗与财政自保需求始终是 [[OECD]] 领导层主动制定战略转型议程的根本驱动力。
@@ -173,7 +175,7 @@ updated: 2026-10-05
 > > [!axis] 全球南方的主体能动性：完全[[Disciplina and Doctrina\|规训]] vs [[Creativity\|创造性]]抵制
 > > 争论全球治理复合体是否低估了广大发展中国家对西方指标体系的本土[[Transfer Translation Transformation\|转译]]与抵抗能力。
 > >
-> > - **后殖民批判学者** 指出许多受援国官员在实践中对[[World Bank\|世行]]与 OECD 指标采取了象征性合规（Mock Compliance）策略。
+> > - **后殖民批判学者** 指出许多受援国官员在实践中对[[World Bank\|世行]]与 OECD 指标采取了象征性合规（Mock [[Strategic Compliance|compliance]]）策略。
 > > - **Elfert & Ydesen（2023）** 承认本土抵抗的存在，但强调债务结构调整与援助解付挂钩使得制度性依附在结构上难以撼动。
 
 > [!warning] 未解问题与边界

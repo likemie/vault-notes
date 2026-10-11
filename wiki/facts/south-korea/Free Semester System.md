@@ -24,20 +24,25 @@ tags:
   - theme/assessment-reform
   - theme/pisa
 related_concepts:
-  - "[[PISA Literacy]]"
   - "[[Reference Society]]"
-  - "[[Policy Borrowing]]"
-  - "[[Active Learning]]"
-  - "[[Academic Stress]]"
-  - "[[Problem Solving]]"
+  - "[[Rote Learning]]"
+  - "[[Learner Autonomy]]"
   - "[[Creativity]]"
-related_theories: []
+  - "[[Problem Solving]]"
+  - "[[Formative Assessment]]"
+  - "[[Progressive Education]]"
+  - "[[Paradigm]]"
+  - "[[Active Learning]]"
+  - "[[PISA Literacy]]"
+related_theories:
+  - "[[Creative Problem Solving]]"
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[PISA]]"
-  - "[[PISA Shock in Japan]]"
+  - "[[OECD]]"
+  - "[[Cram Schools]]"
 related_arguments:
   - "[[Argument_Li_2025_HSSC]]"
 confidence: high

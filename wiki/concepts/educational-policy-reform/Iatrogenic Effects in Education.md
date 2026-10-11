@@ -26,6 +26,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Learned Helplessness]]"
+  - "[[Institutional Displacement]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Internal Validity]]"
   - "[[Falsification]]"
@@ -81,7 +82,7 @@ updated: 2026-09-11
 >    - 当干预方案将具有行为问题、攻击性倾向或辍学风险的“高危青少年”集中组织到同伴小组或课后营地时，小组成员之间往往自发产生对违纪、吸烟或逃学行为的笑声反馈与相互效仿（越轨训练），导致小组干预后的犯罪和不良行为发生率显著高于未受干预的常态对照组。
 > 2. **标签化效应与[[Learned Helplessness\|习得性无助]]（Stigmatization & Self-Fulfilling Prophecy）**
 >    - 将学困生强制抽离出常规班级进行低阶补救教学（Pull-out Remediation），容易使学生被同伴和教师贴上“差生”标签，破坏其学业自尊心与归属感，诱发破罐子破摔的消极应对。
-> 3. **教学时间挤压与学科偏食（Instructional Displacement）**
+> 3. **教学时间挤压与学科偏食（Instructional [[Institutional Displacement|displacement]]）**
 >    - 过度拉长某一单项高强度干预的时间（如每日 2.5 小时机械式阅读集训），系统性挤占了科学、艺术、体育及自主探索的时间，造成认知广度受损与学习动机倦怠。
 
 ---

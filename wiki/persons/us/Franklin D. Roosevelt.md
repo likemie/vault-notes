@@ -28,22 +28,23 @@ related_concepts:
   - "[[Refined Mastery]]"
   - "[[Hard Power]]"
   - "[[Institutional Drift]]"
-  - "[[Institutional Conversion]]"
 related_theories:
+  - "[[Historical Institutionalism]]"
   - "[[Theory of Gradual Institutional Change]]"
-  - "[[Path Dependence]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Leo Szilard]]"
   - "[[Vannevar Bush]]"
+  - "[[James Mahoney]]"
 related_facts:
   - "[[Einstein-Szilard Letter]]"
   - "[[Office of Scientific Research and Development]]"
   - "[[Manhattan Project]]"
 related_arguments:
-  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
 confidence: high
 status: draft
 created: 2026-10-08
@@ -94,8 +95,8 @@ updated: 2026-10-11
 >   - **代表举措** 签署新政系列法案，创设田纳西河流域管理局（TVA）、全国劳资关系委员会（NLRB）与1935年《社会保障法案》。
 >   - **关键概念／方法** 缴费型融资、制度锁定、联邦规制国家。
 >   - **阶段转向** 巧妙利用缴费型融资抵御激进民粹开支诉求，并通过将社会权利与工资缴费深度绑定，为福利体制注入了跨历史周期的政治抵御韧性。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 12–13)]]
-> - **1939–1945 — 国家战略科技动员与全球技术共和国塑造** 面对法西斯势力的全面军事威胁，将前沿基础科研提升为国家安全战略枢纽，创立政府资助、契约外包与高校自主并存的现代科技动员体制。
->   - **代表举措** 设立 [[Office of Scientific Research and Development|OSRD]]、推进[[Manhattan Project|曼哈顿工程]]、委任万尼瓦尔·布什撰写《科学：无止境的前沿》。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 35–36)]]
+> - **1939–1945 — 国家战略科技动员与全球[[Technological Republic|技术共和国]]塑造** 面对法西斯势力的全面军事威胁，将前沿基础科研提升为国家安全战略枢纽，创立政府资助、契约外包与高校自主并存的现代科技动员体制。
+>   - **代表举措** 设立 [[Office of Scientific Research and Development|OSRD]]、推进[[Manhattan Project|曼哈顿工程]]、委任[[Vannevar Bush|万尼瓦尔·布什]]撰写《科学：无止境的前沿》。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 35–36)]]
 >   - **关键概念／方法** [[Hard Power]]、[[Technological Republic]]。
 >   - **阶段转向** 彻底终结美国孤立主义传统，将联邦政府塑造为全球科技突破与工业创新的超级投资者与协调者。
 
@@ -114,7 +115,7 @@ updated: 2026-10-11
 > - **科学建言者** 阿尔伯特·爱因斯坦 — 1939年佩科尼克信函签署者，推动总统关注核裂变军事应用。
 > - **科学建言者** [[Leo Szilard|利奥·西拉德]] — 1939年信函核心起草人与核物理学家。
 > - **科技操盘官** [[Vannevar Bush|万尼瓦尔·布什]] — 执掌 [[Office of Scientific Research and Development|OSRD]]，直接向罗斯福汇报战时科研大局。
-> - **制度研究分析** 艾伦·雅各布斯（Alan Jacobs）与[[James Mahoney|马奥尼]]、[[Kathleen Thelen|希伦]] — 历史制度主义学者，系统剖析罗斯福社会保障缴费机制超越设计意图的演化政治逻辑。
+> - **制度研究分析** 艾伦·雅各布斯（Alan Jacobs）与[[James Mahoney|马奥尼]]、希伦 — [[Historical Institutionalism|历史制度主义]]学者，系统剖析罗斯福社会保障缴费机制超越设计意图的演化政治逻辑。
 > - **重大工程与制度** [[Manhattan Project|曼哈顿工程]]、美国社会保障制度 — 批准建立的国家安全与社会安全基石工程。
 
 ---
@@ -124,9 +125,9 @@ updated: 2026-10-11
 > [!debates] 学术争议与历史审视
 >
 > > [!axis] 缴费型融资的权利刚性 vs 福利覆盖的结构排他性
-> > 历史制度主义与社会福利史学者就罗斯福社会保障制度的初始妥协展开持续讨论。
+> > [[Historical Institutionalism|历史制度主义]]与社会福利史学者就罗斯福社会保障制度的初始妥协展开持续讨论。
 > >
-> > - **制度韧性肯定论** 雅各布斯（Jacobs, 2009）与[[James Mahoney|马奥尼]]、[[Kathleen Thelen|希伦]]（2009）指出，正是因为罗斯福坚持缴费原则，才赋予了普通劳动者牢固的道德与法律权利意识，使社会保障项目在后世数十年历经经济萧条与保守反弹仍毫发无损。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 12–13)]]
+> > - **制度韧性肯定论** 雅各布斯（Jacobs, 2009）与[[James Mahoney|马奥尼]]、希伦（2009）指出，正是因为罗斯福坚持缴费原则，才赋予了普通劳动者牢固的道德与法律权利意识，使社会保障项目在后世数十年历经经济萧条与保守反弹仍毫发无损。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 12–13)]]
 > > - **社会排他性批判论** 批判学者指出，新政妥协为了换取南方保守派议员支持，在初始法案中将农业工人与家政服务人员（绝大多数为黑人与少数族裔）排除在缴费保障之外，埋下了美国福利体制结构性种族与阶级分割的历史遗留问题。
 
 ---
@@ -141,13 +142,13 @@ updated: 2026-10-11
 > | [[Manhattan Project]] | 事实 | 决断批准并强力推动曼哈顿工程立项的国家统帅。 |
 > | [[Technological Republic]] | 概念 | 实践缔造者，开启了国家行政权力与顶尖科研界深度协同的制度传统。 |
 > | [[Hard Power]] | 概念 | 战略运用者，将基础科学前沿转化为赢得世界大战与塑造战后秩序的战略硬实力。 |
-> | [[Theory of Gradual Institutional Change]] | 理论 | 其社会保障缴费型融资设计被历史制度主义奉为制度超越设计意图演进的经典实证案例。 |
+> | [[Theory of Gradual Institutional Change]] | 理论 | 其社会保障缴费型融资设计被[[Historical Institutionalism\|历史制度主义]]奉为制度超越设计意图演进的经典实证案例。 |
 > | [[Institutional Drift]] | 概念 | 制度设计案例原型：通过权利锚定机制成功防止后续保守政治力量操弄[[Institutional Drift\|制度漂移]]或开支紧缩。 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska (2025, Ch. 3)]] — 考证罗斯福如何决断响应佩科尼克信函并建立白宫直连科研协作机制，奠定战后技术共和国基石。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska (2025, Ch. 3)]] — 考证罗斯福如何决断响应佩科尼克信函并建立白宫直连科研协作机制，奠定战后[[Technological Republic|技术共和国]]基石。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 引用 Jacobs 案例剖析罗斯福社会保障缴费型融资设计如何衍生出超越初衷的反紧缩制度韧性。

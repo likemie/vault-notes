@@ -44,6 +44,7 @@ related_theories:
   - "[[Realist Evaluation]]"
   - "[[Critical Realism]]"
   - "[[Complexity Theory]]"
+  - "[[Historical Institutionalism]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Systematic Review]]"
@@ -151,7 +152,7 @@ updated: 2026-10-11
 > - **理论路径** 将[[Roy Bhaskar|罗伊·巴斯卡]]（Roy Bhaskar）的[[Critical Realism|批判实在论]]哲学深度[[Operationalization|操作化]]为社会科学经验研究框架，确立了生成性因果观对[[Positivism|实证主义]]经验相继因果观的方法论替代。
 > - **方法路径** 创立的 CMO 模型与[[Realist Evaluation|实在论综合]]被英国医学研究理事会（[[Meta-Representational Competence|MRC]]）、英国国家卫生研究院（NIHR）以及国际评估联合会广泛采纳，成为复杂干预评估的标准工具。
 > - **政策与教育路径** 深刻启发了[[Critical Pedagogy|批判教育学]]者（如 [[Terry Wrigley]]）对英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）教学工具包去情境化[[Effect Size|效应量]]排行的解构，纠正了因简单平均数导致的[[Teaching Assistant|教学助理]]岗位错误裁剪。
-> - **跨学科制度分析扩展** [[Jeroen van der Heijden|范德海登]]（Van der Heijden et al., 2007; 2011）等学者将波森的实在论视角引入比较政治经济学与历史制度主义，成功破解了间断均衡突变论与历史渐进演进论在变迁定性上的[[Epistemology|认识论]]循环。
+> - **跨学科制度分析扩展** [[Jeroen van der Heijden|范德海登]]（Van der Heijden et al., 2007; 2011）等学者将波森的实在论视角引入比较政治经济学与[[Historical Institutionalism|历史制度主义]]，成功破解了间断均衡突变论与历史渐进演进论在变迁定性上的[[Epistemology|认识论]]循环。
 
 ---
 

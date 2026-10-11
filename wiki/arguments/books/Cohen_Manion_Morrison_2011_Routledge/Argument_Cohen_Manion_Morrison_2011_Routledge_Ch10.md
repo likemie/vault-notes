@@ -95,6 +95,7 @@ related_concepts:
   - "[[Insider-Outsider Perspective in Comparative Education]]"
   - "[[Metainferences]]"
   - "[[Order Effects]]"
+  - "[[Institutional Conversion]]"
   - "[[Axiology]]"
   - "[[Commensuration]]"
   - "[[Incommensurability]]"
@@ -900,7 +901,7 @@ Onwuegbuzie & Johnson (2006) 主张在混合方法研究中用**"合法化"（le
 >   一种方法的**弱点**在多大程度上被另一种方法的**优势**所补偿——并适当加权这些优势和弱势
 > - **顺序（Sequential）**
 >   在多大程度上能最小化数据收集和分析产生的"**[[Metainferences\|元推断]]**"（meta-inferences）的**[[Order Effects\|顺序效应]]（量化-质性还是质性-量化）**，使得对调量化与质性数据的顺序和推断顺序不会削弱"元推断"的解释力
-> - **转换（Conversion）**
+> - **转换（[[Institutional Conversion|conversion]]）**
 >   将数值数据**质化（[[Data Transformation\|qualitizing]]）**或将质性数据**量化（quantitizing）**在多大程度上有助于产出稳健的"元推断"
 > - **范式混合（Paradigmatic mixing）**
 >   综合本体论、[[Epistemology\|认识论]]、[[Axiology\|价值论]]、方法论和修辞学信念与实践来产出有用结果的成功程度——特别是当范式之间存在张力时

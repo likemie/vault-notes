@@ -23,7 +23,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Process Knowledge]]"
   - "[[Big Science]]"
-  - "[[Opportunist Mode]]"
   - "[[National Innovation System]]"
   - "[[Heterogeneity]]"
   - "[[Lean Production]]"
@@ -93,7 +92,7 @@ updated: 2026-10-09
 
 > [!feature] 用户—生产者互动的核心机制
 > - **双向信息回路与需求规格共同界定** 下游用户在生产实践中遭遇的工况瓶颈直接反馈给设备制造企业，双方技术团队共同参与技术参数定义与设备迭代。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 10–11)]]
-> - **信任累积与隐性知识跨界流动** 长期合作降低了[[Opportunist Mode|机会主义]]道德风险，使得未成文的操作经验、工艺技巧与未公开实验数据能够在企业边界间顺畅交换。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11, 17)]]
+> - **信任累积与隐性知识跨界流动** 长期合作降低了机会主义道德风险，使得未成文的操作经验、工艺技巧与未公开实验数据能够在企业边界间顺畅交换。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11, 17)]]
 > - **地理与文化邻近性支撑** 面对技术不确定性与高频变更，面对面的人际沟通与共享的制度文化语境是消除认知距离的关键。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 17, 21)]]
 
 > [!logic-map]- 用户—生产者互动循环机制

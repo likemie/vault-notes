@@ -25,6 +25,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
   - "[[Epistemic Drift]]"
+  - "[[Institutional Drift]]"
   - "[[Academic Freedom]]"
   - "[[Variable]]"
   - "[[Seed Funding]]"
@@ -157,7 +158,7 @@ updated: 2026-10-07
 > > [!axis] 十年硬性日落与基础前沿科学长周期探索的张力
 > > 部分基础科学家指出，工程技术容易在十年内展示应用成果，但对于许多需要数十年沉淀的纯理论或高风险前沿科学（如部分 [[Science and Technology Centers|STC]] 项目），十年硬性日落可能导致过早失去公共资金支持，迫使学者过早转向容易变现的短平快课题。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 369, 374)]]
 >
-> > [!axis] 财务自筹压力诱发的学术方向[[Epistemic Drift|认识漂移]]（Epistemic Drift）
+> > [!axis] 财务自筹压力诱发的学术方向[[Epistemic Drift|认识漂移]]（Epistemic [[Institutional Drift|drift]]）
 > > 外部批评认为，强烈的自筹资金压力可能促使大学研发中心过分屈从于出资企业的短期商业利益，从而损害了大学基础探索的独立性与[[Academic Freedom|学术自由]]。
 
 > [!warning] 适用局限

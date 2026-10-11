@@ -61,6 +61,7 @@ related_concepts:
   - "[[Preregistration]]"
   - "[[Statistical Analysis Plan]]"
   - "[[Document]]"
+  - "[[Strategic Compliance]]"
   - "[[School Choice]]"
   - "[[Homework]]"
   - "[[Implementation Fidelity]]"
@@ -300,7 +301,7 @@ updated: 2026-10-07
 > CRT 已成为教育 RCT 的标准实践，因为干预通常在班级或学校层面实施。Spybrook, Shi & Kelcey (2016) 比较了美国国家教育研究中心（National Center for Education Research，NCER）资助的早期 CRT 与近期 CRT，发现精度有所提高的证据（[[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016, p. 233]]）。精度通过最小可检测[[Effect Size\|效应量]]（Minimum Detectable Effect Size，MDES）衡量——指在给定统计功效下可检测的最小效应量。论文同时提供了两级和三级 CRT 的 MDES 计算公式，填补了方法论[[Document\|文献]]的空白。
 
 > [!method-stack] 部分嵌套 RCT 与[[Intent-to-Treat Analysis\|意向治疗分析]]（ITT）
-> Schweig & Pane (2016) 关注部分嵌套 RCT——一个实验臂为集群、另一实验臂为非集群的设计。核心问题是**非合规（non-compliance）** 当存在非合规时，传统[[Hierarchical Linear Model\|多水平模型]]不再估计处理效应，而是提供 ITT 估计——反映干预可获得性而非实际接受的效果。这对政策有重要意义，因为政策制定者通常只控制干预的可获得性而非其接受（[[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016, p. 233]]）。
+> Schweig & Pane (2016) 关注部分嵌套 RCT——一个实验臂为集群、另一实验臂为非集群的设计。核心问题是**非合规（non-[[Strategic Compliance|compliance]]）** 当存在非合规时，传统[[Hierarchical Linear Model\|多水平模型]]不再估计处理效应，而是提供 ITT 估计——反映干预可获得性而非实际接受的效果。这对政策有重要意义，因为政策制定者通常只控制干预的可获得性而非其接受（[[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016, p. 233]]）。
 
 > [!method-stack] [[School Choice\|学校选择]]与[[Teacher Choices\|教师选择]]：突破传统 RCT 适用瓶颈的新设计
 > 大规模学校水平[[Random Assignment\|随机化]]并非总能回答一线迫切关心的实践问题（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 54–56]]）：

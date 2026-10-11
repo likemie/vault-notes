@@ -23,6 +23,7 @@ related_concepts:
   - "[[Success Criteria]]"
   - "[[Effective Teaching]]"
   - "[[Visible Learning]]"
+  - "[[Strategic Compliance]]"
   - "[[Professional Judgment]]"
 related_theories: []
 related_methods: []
@@ -68,7 +69,7 @@ updated: 2026-09-16
 ## 实施情况
 
 > [!example] 实施情况
-> 政策在 *[[Tomorrow's Schools Reforms\|Tomorrow's Schools]]* 框架内实施——各校在如何执行政策方面保有相当程度的自主裁量权。[[Argument_Hattie_2010_NZJES\|Hattie (2010, p.92)]] 指出"Under Tomorrow's Schools there is much discretion given to schools as to how to implement, and this seems to be ignored in the recent pronouncements about compliance to the policy"。
+> 政策在 *[[Tomorrow's Schools Reforms\|Tomorrow's Schools]]* 框架内实施——各校在如何执行政策方面保有相当程度的自主裁量权。[[Argument_Hattie_2010_NZJES\|Hattie (2010, p.92)]] 指出"Under Tomorrow's Schools there is much discretion given to schools as to how to implement, and this seems to be ignored in the recent pronouncements about [[Strategic Compliance|compliance]] to the policy"。
 >
 > Hattie 的核心关切始终是实施而非政策本身："my constant message is that any implementation must gain the confidence of, and share the ownership with, those who have to deliver the policy. It seems a truism that a policy has a higher success when it wins the hearts and minds of those delivering the policy"（p.92）。
 >

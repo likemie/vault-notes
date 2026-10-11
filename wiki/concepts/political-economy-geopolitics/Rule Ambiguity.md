@@ -20,19 +20,21 @@ tags:
   - theme/political-economy
   - theme/comparative-politics
 related_concepts:
+  - "[[Champ]]"
+  - "[[Emergence]]"
   - "[[Enforcement Discretion]]"
-  - "[[Strategic Compliance]]"
-  - "[[Veto Possibilities]]"
   - "[[Institutional Conversion]]"
   - "[[Institutional Drift]]"
-  - "[[Institutional Layering]]"
-  - "[[Institutional Displacement]]"
+  - "[[Strategic Compliance]]"
+  - "[[Ontology]]"
+  - "[[Positivism]]"
+  - "[[Veto Possibilities]]"
 related_theories:
-  - "[[Theory of Gradual Institutional Change]]"
   - "[[Historical Institutionalism]]"
   - "[[Disjointed Pluralism]]"
-related_methods:
-  - "[[Typological Analysis]]"
+  - "[[Bounded Rationality]]"
+  - "[[Theory of Gradual Institutional Change]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[James Mahoney]]"
@@ -53,7 +55,7 @@ updated: 2026-10-11
 ## 定义
 
 > [!def] 核心定义
-> **规则内生模糊性（Rule Ambiguity）** 指成文法律、法规与正式组织章程在词义表述、适用范围及现实执行中内生具有且不可消除的抽象性、原则性与解释缝隙。历史制度主义认为，模糊性并非立法技术不成熟所导致的暂时瑕疵，而是人类认知局限、政治妥协起草以及立法与日常执法组织分离的必然物理属性；这一属性从根本上打破了规则遵从的确定性，为微观行动者在日常政治中展开策略性重新解释与重定向提供了持续的微观场域。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 10–14)]]
+> **规则内生模糊性（Rule Ambiguity）** 指成文法律、法规与正式组织章程在词义表述、适用范围及现实执行中内生具有且不可消除的抽象性、原则性与解释缝隙。[[Historical Institutionalism|历史制度主义]]认为，模糊性并非立法技术不成熟所导致的暂时瑕疵，而是人类认知局限、政治妥协起草以及立法与日常执法组织分离的必然物理属性；这一属性从根本上打破了规则遵从的确定性，为微观行动者在日常政治中展开策略性重新解释与重定向提供了持续的微观[[Champ|场域]]。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 10–14)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向成文制度文本条文与真实社会生活复杂情境之间必然存在的语义与操作缝隙。
@@ -61,7 +63,7 @@ updated: 2026-10-11
 > - **边界** 不等于由于执法腐败或国家崩溃导致的“无法无天”（Lawlessness）；规则模糊性是在秩序相对稳定、成文规则受到普遍尊重的政治共同体内部运作的内生机制。
 
 > [!citation-card] 规则模糊性作为制度变迁的微观场域
-> 制度的基本属性自身就蕴含着变迁的可能性。激活变迁的是制度的权力分配意涵；然而，渐进变迁涌现的场域，恰恰在于规则与其解释之间、或规则与其执行之间的那些缝隙与软肋。这一分析空间被其他制度概念在定义上直接抹杀，但在现实实践中，这恰恰是围绕制度——且同时发生在制度内部——政治争夺的真实场域。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 14)]]
+> 制度的基本属性自身就蕴含着变迁的可能性。激活变迁的是制度的权力分配意涵；然而，渐进变迁[[Emergence|涌现]]的场域，恰恰在于规则与其解释之间、或规则与其执行之间的那些缝隙与软肋。这一分析空间被其他制度概念在定义上直接抹杀，但在现实实践中，这恰恰是围绕制度——且同时发生在制度内部——政治争夺的真实场域。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 14)]]
 >
 > *Where we expect incremental change to emerge is precisely in the "gaps" or "soft spots" between the rule and its interpretation or the rule and its enforcement ... This is an analytic space that other conceptions of institutions essentially rule out by definition, but as a practical matter this is exactly the space in which contests over – and at the same time within – institutions take place.*
 
@@ -78,7 +80,7 @@ updated: 2026-10-11
 > |:---|:---|:---|:---|
 > | **本体属性** | 法律与规约文本的语义、原则与情境不完备性 | 司法裁判官与执法官僚在落实中的自由操作权能 | 宏观制度由历史不同时期多元妥协碎片拼合的结构特征 |
 > | **核心机制** | 认知边界、语言局限、立法妥协与背景共识漂移 | 基层执法松紧度、选择性起诉、司法扩张解释 | 相互冲突的制度逻辑并存、外围补充规则累叠 |
-> | **变迁功能** | 为微观博弈提供不可消除的“软肋与缝隙” | 充当决定转换（Conversion）与漂移（Drift）的结构杠杆 | 解释制度为何天然缺乏有机自洽性与统一设计 |
+> | **变迁功能** | 为微观博弈提供不可消除的“软肋与缝隙” | 充当决定转换（[[Institutional Conversion\|conversion]]）与漂移（[[Institutional Drift\|drift]]）的结构杠杆 | 解释制度为何天然缺乏有机自洽性与统一设计 |
 
 ---
 
@@ -86,7 +88,7 @@ updated: 2026-10-11
 
 > [!feature] 规则内生模糊性的四大产生机制
 > - **无限复杂性与有限完备性** 人类制定规则所依赖的抽象语言永远无法穷尽真实世界未来发生的所有极端边界情境；任何新经济技术现象或社会冲突出现时，制度文本必然面临未列举漏洞，必须依赖解释性填补（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 11–12]]）。
-> - **设计者认知局限与政治妥协折衷** 制度起草者受制于有限理性与时间压力，往往无法预料数十年后的宏观连锁反应；在高度对抗的国会立法中，各派势力常故意采用含糊妥协词句以促成法案通过，将实质争议推迟至执行阶段。
+> - **设计者认知局限与政治妥协折衷** 制度起草者受制于[[Bounded Rationality|有限理性]]与时间压力，往往无法预料数十年后的宏观连锁反应；在高度对抗的国会立法中，各派势力常故意采用含糊妥协词句以促成法案通过，将实质争议推迟至执行阶段。
 > - **非合同性背景共识的隐性转移** 规则的有效施行高度依附于共同体未明言的背景共识（涂尔干命题）；当宏观文化观念或经济结构改变时，即使规则文本一字不改，原有条文在全新社会背景下也会获得完全相反的实践意涵。
 > - **制定者与执行者的组织分离** 抽象立法者往往不直接承担具体行政执法；日常监管官僚与基层执法人员在将宏观规范转化为微观判定时，具有结构性脱节与独立的偏好考量。
 
@@ -110,10 +112,10 @@ updated: 2026-10-11
 
 ### 命题一　成文规则具有内生不可消除的模糊性，成文法典化无法终结解释冲突
 
-> [!concept-lens] 规则本体论与完备性神话
-> 梳理理性选择制度主义与法律实证主义将规则模糊性视为暂时缺陷的假定，论证成文规则内在的模糊物理属性。
+> [!concept-lens] 规则[[Ontology|本体论]]与完备性神话
+> 梳理理性选择制度主义与法律[[Positivism|实证主义]]将规则模糊性视为暂时缺陷的假定，论证成文规则内在的模糊物理属性。
 
-> [!claim] Mahoney, J. & Thelen, K.
+> [!claim] [[James Mahoney|Mahoney, J.]] & [[Kathleen Thelen|Thelen, K.]]
 > **模糊性的内生必然性** 传统制度分析假定模糊性会随着重复博弈、判例积累与法律正规化而逐渐消弭；然而，现实政治表明，成文法条越详尽，其界定边缘所暴露出的解释缝隙与管辖冲突反而越多；模糊性是成文规约在面对动态现实世界时不可剥夺的内生特征，试图通过精密设计消除模糊性只是虚妄的技术神话。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 10–12)]]
 
 ---
@@ -121,7 +123,7 @@ updated: 2026-10-11
 ### 命题二　规则模糊性为弱势行动者提供了制度内部撬动渐进变迁的微观温床
 
 > [!concept-lens] 权力博弈与微观变迁机制
-> 阐明行动者如何利用规则条文与实际落实之间的缝隙，规避政治否决阻力以推进实质改革。
+> 阐明行动者如何利用规则条文与实际落实之间的缝隙，规避[[Veto Possibilities|政治否决阻力]]以推进实质改革。
 
 > [!claim] Mahoney, J. & Thelen, K.
 > **缝隙作为变迁温床** 缺乏政治权力直接推翻旧法律的制度挑战者，正是敏锐地捕捉到规则模糊性所留下的“软肋”，在司法判例与行政裁量中赋予规则全新的政策目标；因此规则模糊性不仅维系着妥协现状，更构成了内生累积质变的孵化器。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 13–14)]]
@@ -146,7 +148,7 @@ updated: 2026-10-11
 >
 > > [!axis] 模糊性是治理缺陷还是制度韧性源泉
 > > - **新古典制度经济学视角** 规则模糊性增加交易成本，诱发寻租与合同不完备风险，属于亟待通过立法明晰化克服的负面外部性。
-> > - **历史制度主义与演化治理视角** 适度的规则模糊性赋予制度在面对不确定未来冲击时的弹性适度调适空间，避免系统因刚性锁定而脆断，是制度长时段韧性（Robustness）的根本基础。
+> > - **[[Historical Institutionalism|历史制度主义]]与演化治理视角** 适度的规则模糊性赋予制度在面对不确定未来冲击时的弹性适度调适空间，避免系统因刚性锁定而脆断，是制度长时段韧性（Robustness）的根本基础。
 
 ---
 
@@ -155,7 +157,7 @@ updated: 2026-10-11
 > [!entry-map]
 > | 条目 | 类型 | 贡献 |
 > |:---|:---|:---|
-> | **[[Theory of Gradual Institutional Change]]** | 理论 | 构成全书三大支柱之一（Ambiguity），为规则遵从博弈提供微观机制温床。 |
+> | **[[Theory of Gradual Institutional Change]]** | 理论 | 构成全书三大支柱之一（Ambiguity），为[[Strategic Compliance\|规则遵从博弈]]提供微观机制温床。 |
 > | **[[Historical Institutionalism]]** | 理论 | 克服学派早期静态稳态偏误，开辟内生微观演进转向。 |
 > | **[[Enforcement Discretion]]** | 概念 | 与规则模糊性互为表里，分别界定文本缝隙与执行权能。 |
 > | **[[Strategic Compliance]]** | 概念 | 解释行动者如何借助规则模糊缝隙实施表面合规或违规套利。 |
@@ -165,4 +167,4 @@ updated: 2026-10-11
 
 ## 参考文献
 
-- Mahoney, J., & Thelen, K. (2009). A theory of gradual institutional change. In J. Mahoney & K. Thelen (Eds.), *Explaining institutional change: Ambiguity, agency, and power* (pp. 1–37). Cambridge: Cambridge University Press.
+- [[James Mahoney|Mahoney, J.]], & Thelen, K. (2009). A [[Theory of Gradual Institutional Change]]. In J. Mahoney & K. Thelen (Eds.), *Explaining institutional change: Ambiguity, agency, and power* (pp. 1–37). Cambridge: Cambridge University Press.

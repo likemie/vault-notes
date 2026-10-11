@@ -63,7 +63,6 @@ related_concepts:
   - "[[Research-Practice Partnership]]"
   - "[[Professional Judgment]]"
   - "[[Knowledge Transfer]]"
-  - "[[Opportunist Mode]]"
   - "[[Side Effects]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
@@ -335,7 +334,7 @@ updated: 2026-09-15
 > *Integration here can be understood in two complementary senses. Epistemologically, it refers to the active reconciliation of research knowledge with professional wisdom, contextual judgment and the experiential knowledge of teachers and school leaders - research as a third voice in professional dialogue rather than a directive.*
 
 > [!citation-card]- 深思熟虑参与的含义
-> 教师与所提供研究文章的深度讨论中，"支持既非全盘拒绝，也非不加批判地接受基于研究的建议，而是涉及[[Opportunist Mode\|机会主义]]的决策"；当研究被整合进其它[[Source of Knowledge\|知识来源]]，并在长时间、聚焦的讨论中参与时，即使没有总是伴随实施，也已经构成深思熟虑参与。（pp.11–12）
+> 教师与所提供研究文章的深度讨论中，"支持既非全盘拒绝，也非不加批判地接受基于研究的建议，而是涉及机会主义的决策"；当研究被整合进其它[[Source of Knowledge\|知识来源]]，并在长时间、聚焦的讨论中参与时，即使没有总是伴随实施，也已经构成深思熟虑参与。（pp.11–12）
 >
 > *It involves opportunistic decision-making. When research is integrated with other sources of knowledge, and is engaged with in "long, focused discussions", it seems to serve as "thoughtful engagement" even though it is not always followed by "implementation".*
 

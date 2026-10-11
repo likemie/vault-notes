@@ -23,6 +23,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Open-Mindedness]]"
+  - "[[Institutional Layering]]"
   - "[[Knowledge Production]]"
   - "[[Nomothetic]]"
   - "[[Epistemology]]"
@@ -42,7 +43,6 @@ related_theories:
   - "[[Critical Realism]]"
 related_persons:
   - "[[Jürgen Habermas]]"
-  - "[[Morris Berman]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
@@ -105,7 +105,7 @@ updated: 2026-10-08
 > - **反[[Structural Functionalism|结构功能主义]]与能动性优先（Prominence of Individual Agency）** 坚决拒绝将社会和个体行为视为机械契合的封闭系统部件，批判将行为完全归结为阶级、地位和既定社会角色的结构[[Determinism\|决定论]]。
 > - **内在矛盾与多元张力主体（Contradictions and Tensions within Subjects）** 强调个体决非系统的提线木偶，而是异质且差异化的主体，在阶级、族裔、性别、职业和家庭等多重身份维度自身承载着深刻的矛盾与张力。
 > - **数据即表演性[[Discourse|话语]]与文本（Data and Artefacts as Performed Discourses）** 课堂对话、[[Qualitative Interview\|质性访谈]]、行为观察乃至物理[[Artefact\|人工制品]]均非中立事实，而是通过话语建构并被话语不断表演的文本，具有阐释的[[Open-Mindedness|开放性]]。
-> - **解构与意义特权化揭示（Deconstruction and Layering of Meanings）** 教育探究的核心使命是解构现象中内嵌的多层意义，曝光特定官方或权威意义被特权化、排他化的隐秘意识形态过程。
+> - **解构与意义特权化揭示（Deconstruction and [[Institutional Layering|layering]] of Meanings）** 教育探究的核心使命是解构现象中内嵌的多层意义，曝光特定官方或权威意义被特权化、排他化的隐秘意识形态过程。
 > - **四重视角阐释网络（Multiple Perspectives Network）** 探究必须协同捕捉参与者、研究者、研究受众与研究读者的多重视角，并将研究发现锚定在参与者对自我的主观认知之中。
 > - **[[Knowledge Production\|知识生产]]与合法化反思（Production and Legitimation of Knowledge）** 审视教育研究中的知识是如何被特定权力网络生产、赋予合法性并加以运用的，破除客观中立神话。
 
@@ -177,7 +177,7 @@ updated: 2026-10-08
 > [!dev-timeline] 概念演变
 > - **1960s–1970s — 哲学发轫与解构主义确立** 雅克·德里达（Jacques Derrida）发表《论文字学》与米歇尔·福柯（Michel Foucault）确立[[Discourse|话语]]实践谱系学，标志着对传统结构主义固定符号中心论的解构，主体被重塑为处于话语交错网中的动态存在。
 > - **1987 — 现代性与[[Critical Theory\|批判理论]]的哲学交锋** 于尔根·[[Jürgen Habermas\|哈贝马斯]]（[[Jürgen Habermas]]）在《现代性的哲学话语》中激烈批评后结构主义与[[Postmodernism\|后现代主义]]，认为其总体化理性解构陷入了“表演性自相矛盾”，反对批判理论与后结构主义的简单媾和。
-> - **1990s — [[Discourse Analysis\|话语分析]]与教育质性转向** [[Morris Berman|伯曼]]与帕克（Burman & Parker, 1993）出版《话语分析研究》，将[[Artefact\|人工制品]]与日常言语系统确立为话语文本；教育社会学开始全面采纳后结构视角解构课堂不平等、性别表演与政策文本。
+> - **1990s — [[Discourse Analysis\|话语分析]]与教育质性转向** 伯曼与帕克（Burman & Parker, 1993）出版《话语分析研究》，将[[Artefact\|人工制品]]与日常言语系统确立为话语文本；教育社会学开始全面采纳后结构视角解构课堂不平等、性别表演与政策文本。
 > - **2010s 至今 — [[Reflective Thinking\|反思性探究]]与[[Paradigm\|范式]]共生前沿** 贝姬·弗朗西斯（Francis, 2010）与 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] 系统将后结构主义确立为联结[[Interpretive Paradigm\|诠释范式]]、[[Complexity Theory\|复杂性理论]]与批判理论的关键纽带，强调四重视角网络与放弃[[Determinism\|决定论]]因果律。
 
 ---

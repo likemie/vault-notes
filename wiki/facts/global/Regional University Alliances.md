@@ -30,6 +30,7 @@ related_persons:
 related_facts:
   - "[[League of European Research Universities]]"
   - "[[Horizon Europe Missions]]"
+  - "[[Erasmus Programme]]"
   - "[[Bologna Process]]"
 related_arguments:
   - "[[Argument_Amos_2022_Springer]]"
@@ -62,7 +63,7 @@ updated: 2026-10-02
 > [[Argument_Amos_2022_Springer\|Amos (2022, p.57)]] 指出这些联盟的共同运作领域：
 >
 > - **科研合作** 跨国研究项目协调、共享研究基础设施、联合申请欧盟资助
-> - **学生与教职流动** 超越 Erasmus 个体交换层面的制度化流动，包括联合学位和双学位项目
+> - **学生与教职流动** 超越 [[Erasmus Programme|ERASMUS]] 个体交换层面的制度化流动，包括联合学位和双学位项目
 > - **联合学位项目** 多所大学共同设计和授予学位——这涉及课程协调、质量保证和学位互认的制度挑战
 > - **政治议程** 联盟作为集体游说力量在国家和超国家层面影响教育政策
 > - **多层级运作** 大学同时参与多个联盟，在不同联盟中扮演不同角色

@@ -25,6 +25,7 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Scapegoat Mechanism]]"
   - "[[Bureaucracy]]"
+  - "[[Strategic Compliance]]"
   - "[[Responsible Innovation]]"
   - "[[Engineering Mindset]]"
   - "[[Edge Autonomy]]"
@@ -96,7 +97,7 @@ updated: 2026-10-08
 
 > [!boundary]- 概念边界
 > - 不等于 [[Bureaucracy|科层制]] — 科层制是依据层级授权、分工专业化与理性规则构建的现代组织架构；繁文缛节则是科层制在缺乏实战结果检验与外部竞争压力时滋生的退化性病理。
-> - 不等于 合理合规管理（Compliance Management） — 合规管理旨在维护法律底线与公共信托；繁文缛节则表现为合规细则的无限膨胀与手段对实质目标的颠倒替代。
+> - 不等于 合理合规管理（[[Strategic Compliance|compliance]] Management） — 合规管理旨在维护法律底线与公共信托；繁文缛节则表现为合规细则的无限膨胀与手段对实质目标的颠倒替代。
 > - 不等于 技术安全规范 — 在涉及核安全等极端高危领域，严格的工程与安全标准是不可或缺的物理边界；繁文缛节特指脱离物理现实的行政性、文书性阻滞。
 
 ---
@@ -104,7 +105,7 @@ updated: 2026-10-08
 ## 概念辨析
 
 > [!contrast-table] 繁文缛节与相近治理机制的辨析
-> | 维度 | 繁文缛节（Red Tape） | [[Bureaucracy\|科层制]]（Bureaucracy） | 审慎合规（Compliance） |
+> | 维度 | 繁文缛节（Red Tape） | [[Bureaucracy\|科层制]]（Bureaucracy） | 审慎合规（[[Strategic Compliance\|compliance]]） |
 > |:---|:---|:---|:---|
 > | **基本属性** | 形式主义异化、[[Procedural Piety\|程序虔敬]]与效率阻碍 | 现代大型组织的理性制度架构 | 组织运营的法律与安全风险防控 |
 > | **核心诉求** | 过程免责、形式无瑕疵与道德审查 | 层级指挥、分工明确与可预测性 | 维护公共信托、廉洁底线与契约履约 |

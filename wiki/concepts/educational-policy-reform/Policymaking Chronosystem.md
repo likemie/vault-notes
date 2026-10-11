@@ -31,7 +31,6 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Heterogeneity]]"
   - "[[Technical Rationality]]"
-  - "[[Opportunist Mode]]"
 related_theories:
   - "[[Ecological Systems Theory]]"
   - "[[Navigational Framework for Educational Researchers]]"
@@ -198,7 +197,7 @@ updated: 2026-09-26
 > > - **政治时间系统与政治符号派（[[Argument_Serpell_2020_EP\|Serpell, 2020]]; Weiss, 1977）** 论证政治本质上关乎价值选择，实证研究主要作为维系政治信仰与政见口号的合法化燃料。
 
 > [!critique] 外部批评
-> - **可能助长政策[[Opportunist Mode\|机会主义]]与学术轻率** 过度迁就政策时间系统的极速要求，可能诱发学术机构在缺乏充分实证积累的情况下草率出具政策声明，损害科学界长远的公信力。
+> - **可能助长政策机会主义与学术轻率** 过度迁就政策时间系统的极速要求，可能诱发学术机构在缺乏充分实证积累的情况下草率出具政策声明，损害科学界长远的公信力。
 > - **对常规行政与技术性官僚时间的覆盖不足** 时间系统高度关注国会与高层政治家的危机反应，但对常态化官僚机构（如教育部各司局）缓慢严密的常规行政审批时间考虑偏弱。
 
 > [!warning] 适用局限

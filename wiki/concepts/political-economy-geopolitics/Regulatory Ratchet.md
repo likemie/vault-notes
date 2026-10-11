@@ -23,10 +23,12 @@ related_concepts:
   - "[[Institutional Drift]]"
   - "[[Red Tape]]"
   - "[[Attrition]]"
+  - "[[Strategic Compliance]]"
   - "[[Institutional Displacement]]"
   - "[[Competitiveness]]"
   - "[[Professional Judgment]]"
-related_theories: []
+related_theories:
+  - "[[Historical Institutionalism]]"
 related_methods:
   - "[[External Auditor]]"
   - "[[Analytic Framework]]"
@@ -50,7 +52,7 @@ updated: 2026-10-11
 ## 定义
 
 > [!def] 核心定义
-> 规制治理（Regulatory Governance）与历史制度主义分析中用以刻画规制工具与合规标准单向累积演化的核心概念；指在既有规制体系面对偶发危机、安全事故、公众问责压力或[[Market Failure|市场失灵]]时，政策制定者通过持续向体制顶端叠加更详尽的审查标准、自愿认证与合规审查细则，而极少废除或清理旧有规则，导致规制体系如单向棘轮般只紧不松、只增不减，最终演化出结构冗余、组织适应性丧失与规制不合理性的制度病理。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 14–15)]]
+> 规制治理（Regulatory Governance）与[[Historical Institutionalism|历史制度主义]]分析中用以刻画规制工具与合规标准单向累积演化的核心概念；指在既有规制体系面对偶发危机、安全事故、公众问责压力或[[Market Failure|市场失灵]]时，政策制定者通过持续向体制顶端叠加更详尽的审查标准、自愿认证与合规审查细则，而极少废除或清理旧有规则，导致规制体系如单向棘轮般只紧不松、只增不减，最终演化出结构冗余、组织适应性丧失与规制不合理性的制度病理。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 14–15)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 聚焦规则与政策工具的边际累加过程，揭示规制体系内生的单向加码与阻碍回调机制。
@@ -85,7 +87,7 @@ updated: 2026-10-11
 > [!feature] 规制棘轮的核心结构要素
 > - **危机响应式规则繁衍（Crisis-Driven Rule Proliferation）** 偶发性灾难、事故或公众舆论发酵迫使立法与行政机构迅速出台应对条例，将针对极端个案的防御要求普遍化为全行业法定标准。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 15)]]
 > - **清退机制的不对称匮乏（Asymmetric [[Attrition]] of Rules）** 增设新规具有极高的政治收益与道德正当性，而废除冗余或过时规则则面临严重的政治问责风险，导致规制系统缺乏自我修剪功能。
-> - **合规负担非线性递增（Escalation of Compliance Costs）** 伴随规章图层的层层加码，各类报表填报、资质审查与第三方认证程序呈现指数级累加，耗竭一线执行机构的专业精力。
+> - **合规负担非线性递增（Escalation of [[Strategic Compliance|compliance]] Costs）** 伴随规章图层的层层加码，各类报表填报、资质审查与第三方认证程序呈现指数级累加，耗竭一线执行机构的专业精力。
 > - **防卫性遵从与目标置换（Defensive Compliance & Goal [[Institutional Displacement|displacement]]）** 被规制者将精力从追求实质治理绩效转向机械完成合规留痕，演化出巴达克所批判的规制不合理性困境。
 
 > [!logic-map]- 规制棘轮的形成机制与治理困境

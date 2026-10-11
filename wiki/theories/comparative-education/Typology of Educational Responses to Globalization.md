@@ -39,6 +39,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
   - "[[Academic Attrition]]"
+  - "[[Strategic Compliance]]"
   - "[[Performance Indicators]]"
   - "[[Competitiveness]]"
 related_theories:
@@ -230,7 +231,7 @@ updated: 2026-10-07
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 跨国教育发展援助、后殖民国家课程重构、原住民双语教育运动、全球化新自由主义[[Policy Borrowing|政策借用]]与本土抵制。
 > - **成立条件** 需要研究者具备获取深层政策协议文本与扎根草根社群[[Fieldwork|田野调查]]的双重视野，能够辨别官方修辞与深层利益支配。
-> - **解释不足** 理论对四种类型之间的动态转化阈值缺乏精细的形式化建模；对于处于中间状态的妥协、策略性依从（lip-service compliance）与混杂杂糅（hybridity）机制未作充分展开。
+> - **解释不足** 理论对四种类型之间的动态转化阈值缺乏精细的形式化建模；对于处于中间状态的妥协、策略性依从（lip-service [[Strategic Compliance|compliance]]）与混杂杂糅（hybridity）机制未作充分展开。
 > - **转化困难** 在政治高度敏感的高压语境中，隐蔽的抵制行动与非正式的恢复实践往往缺乏公开发表的书面证据，较难通过标准化定量指标捕捉。
 > - **不能直接推出** 理论指出了强制再生产的危害，但不能据此认为所有外部教育交流与国际借用都是帝国主义强加，亦不可将所有地方性文化实践无条件浪漫化。
 

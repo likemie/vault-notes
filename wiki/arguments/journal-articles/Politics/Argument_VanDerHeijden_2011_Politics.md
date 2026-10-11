@@ -39,6 +39,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Literature Search]]"
 related_theories:
+  - "[[Historical Institutionalism]]"
   - "[[Theory of Gradual Institutional Change]]"
   - "[[Punctuated Equilibrium Theory]]"
   - "[[Path Dependence]]"
@@ -52,9 +53,13 @@ related_instruments: []
 related_persons:
   - "[[Jeroen van der Heijden]]"
   - "[[Kathleen Thelen]]"
+  - "[[Paul Pierson]]"
   - "[[Ray Pawson]]"
+  - "[[Wolfgang Streeck]]"
+  - "[[James Mahoney]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Streeck_Thelen_2005_OUP]]"
 sources:
   - "[[sources/VanDerHeijden_2011_Politics|VanDerHeijden_2011_Politics]]"
 part_of:
@@ -83,7 +88,7 @@ issuing_organization: ""
 
 > [!author-profile] 作者学术定位与[[Research Contribution|研究贡献]]
 > - **著者** [[Jeroen van der Heijden|耶伦·范德海登]]（Jeroen van der Heijden），荷兰公共管理与规制治理学者，任教于代尔夫特理工大学与牛津大学政治与国际关系学系。
-> - **研究传统** 比较历史制度主义、规制治理（Regulatory Governance）与公共政策分析。
+> - **研究传统** 比较[[Historical Institutionalism|历史制度主义]]、规制治理（Regulatory Governance）与公共政策分析。
 > - **核心贡献** 解构[[Kathleen Thelen|凯瑟琳·希伦]]（Thelen）[[Institutional Layering|制度层叠]]概念的思想前史，归纳制度层叠的三大历史传统，划定制度变迁与制度再生产的分析边界，并提出以行动者和政策工具为中观解释[[Variable|变量]]弥合间断均衡与渐变理论鸿沟。
 
 ---
@@ -113,7 +118,7 @@ issuing_organization: ""
 > | **[[Path Dependence\|路径依赖理论]]**<br>Path Dependence | 指历史初始选择在收益递增与转换成本锁定下自我强化的动力学；层叠研究揭示行动者如何在路径依赖约束下通过边际附加开辟渐进演化空间。 |
 
 > [!warrant]- 理论如何支撑论证
-> 制度分析长期受困于突变论与渐进论的抽象对立；通过引入历史制度主义关于制度意图与实际后果之间存在缝隙的核心洞见，将层叠作为微观策略机制放置于行动者意图、权力阻力与既有规则约束的三维空间中，能够把宏观外生冲击与微观渐进演进转化为可观察的行动者增设与规则叠加过程。（pp. 10–12）
+> 制度分析长期受困于突变论与渐进论的抽象对立；通过引入[[Historical Institutionalism|历史制度主义]]关于制度意图与实际后果之间存在缝隙的核心洞见，将层叠作为微观策略机制放置于行动者意图、权力阻力与既有规则约束的三维空间中，能够把宏观外生冲击与微观渐进演进转化为可观察的行动者增设与规则叠加过程。（pp. 10–12）
 
 ---
 
@@ -131,7 +136,7 @@ issuing_organization: ""
 > |---|---|
 > | **文本样本** | 涵盖经济学、法学、社会学、政治学、公共政策与公共行政学等学科的 166 篇期刊论文与代表性理论专著。（p. 16） |
 > | **经验案例** | 荷兰住房法案执行演化（Van der Heijden et al., 2007）、欧盟预算体系（Ackrill & Kay, 2006）、欧盟规制网络（Thatcher & Coen, 2008）、互联网[[Composite-Standard Model\|复合标准模型]]（Boas, 2007）等典型个案。（pp. 10, 13） |
-> | **材料情境** | 跨越战后公共行政扩张期、1980 年代规制国家兴起期及 2000 年代历史制度主义深化期。（pp. 14–16） |
+> | **材料情境** | 跨越战后公共行政扩张期、1980 年代规制国家兴起期及 2000 年代[[Historical Institutionalism\|历史制度主义]]深化期。（pp. 14–16） |
 
 ---
 
@@ -163,7 +168,7 @@ issuing_organization: ""
 
 > [!tension] 突变论与渐变论的范式对立
 > - **外生突变立场（间断均衡论）** 弗兰克·鲍姆加特纳与布莱恩·琼斯（Baumgartner & Jones, 1993）主张，政治与行政制度长期处于惰性稳态，唯有在遭遇战争或经济危机等重大外生冲击时，才会出现短暂而剧烈的体制断裂。
-> - **内生渐变立场（历史渐进论）** 保罗·皮尔逊（Pierson, 2004）与约翰·坎贝尔（Campbell, 2009）主张，制度从未停止微调，多元利益主体在日常博弈中持续推动规则拉锯，制度变迁是一个连续累积的内生演化过程。（p. 10）
+> - **内生渐变立场（历史渐进论）** [[Paul Pierson|保罗·皮尔逊]]（Pierson, 2004）与约翰·坎贝尔（Campbell, 2009）主张，制度从未停止微调，多元利益主体在日常博弈中持续推动规则拉锯，制度变迁是一个连续累积的内生演化过程。（p. 10）
 
 两派看似水火不容，但在学术推演中却暴露出相同的[[Epistemology|认识论]]盲区——缺乏可操作化的变迁标尺。（p. 10）
 
@@ -200,7 +205,7 @@ issuing_organization: ""
 
 #### 1. 希伦吸收国会妥协与时间性研究并将层叠界定为改变行为结构的边际累加
 
-在制度意图与现实结果产生偏离且全面替代面临高阻力时，历史制度主义发展出一套内生变迁机制体系。（p. 11）
+在制度意图与现实结果产生偏离且全面替代面临高阻力时，[[Historical Institutionalism|历史制度主义]]发展出一套内生变迁机制体系。（p. 11）
 
 > [!feature] 历史制度主义的五种内生变迁机制
 > - **[[Institutional Layering|制度层叠]]（Layering）** 在保留旧框架前提下附加新规则或新工具，随时间推移逐步改变行为结构。（Campbell, 2009; p. 11）
@@ -229,13 +234,13 @@ issuing_organization: ""
 >
 >   在专著《制度如何演化》中明确提出，层叠就是在原本保持大体稳定的制度框架顶端，像搭建[[Scaffolding|脚手架]]一样构筑新要素的过程。
 >
-> - **主动赞助修正案阶段（Streeck & Thelen, 2005）**
+> - **主动赞助修正案阶段（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005]]）**
 >
->   与施特雷克合著时强调行动者的政治主动性：层叠绝非被动适应，而是改革者在政治舞台上积极赞助修正案、附加条款或补充细则的政治行动。
+>   与[[Wolfgang Streeck|施特雷克]]合著时强调行动者的政治主动性：层叠绝非被动适应，而是改革者在政治舞台上积极赞助修正案、附加条款或补充细则的政治行动。
 >
 > - **规则行为重构阶段（Mahoney & Thelen, 2010）**
 >
->   在与马奥尼合著时完成关键理论定型：层叠的精髓在于将新规则附着于旧规则顶端，通过新规则的牵引作用，从根本上改变了原有旧规则约束和规范行动者行为的具体方式。
+>   在与[[James Mahoney|马奥尼]]合著时完成关键理论定型：层叠的精髓在于将新规则附着于旧规则顶端，通过新规则的牵引作用，从根本上改变了原有旧规则约束和规范行动者行为的具体方式。
 
 #### 2. 战后文献史呈现出机构增厚、规制棘轮与双重叠加三条演化脉络
 

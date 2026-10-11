@@ -5,8 +5,32 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md"
     },
     {
+      "basename": "Academic Inbreeding",
+      "path": "wiki/concepts/higher-education/Academic Inbreeding.md"
+    },
+    {
+      "basename": "Centros Concertados",
+      "path": "wiki/facts/spain/Centros Concertados.md"
+    },
+    {
+      "basename": "Plaintive Comparison",
+      "path": "wiki/concepts/comparative-education/Plaintive Comparison.md"
+    },
+    {
       "basename": "PISA",
       "path": "wiki/facts/global/PISA.md"
+    },
+    {
+      "basename": "PISA Literacy",
+      "path": "wiki/concepts/comparative-education/PISA Literacy.md"
+    },
+    {
+      "basename": "PISA Response in Spain",
+      "path": "wiki/facts/spain/PISA Response in Spain.md"
+    },
+    {
+      "basename": "Argument_Kazamias_2009_HistoricalReflections",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_HistoricalReflections.md"
     },
     {
       "basename": "Free Semester System",
@@ -19,10 +43,6 @@
     {
       "basename": "PISA Shock",
       "path": "wiki/concepts/comparative-education/PISA Shock.md"
-    },
-    {
-      "basename": "PISA Response in Spain",
-      "path": "wiki/facts/spain/PISA Response in Spain.md"
     },
     {
       "basename": "State Educational Sovereignty",
@@ -39,10 +59,6 @@
     {
       "basename": "European Education Space",
       "path": "wiki/concepts/comparative-education/European Education Space.md"
-    },
-    {
-      "basename": "Argument_Kazamias_2009_HistoricalReflections",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_HistoricalReflections.md"
     },
     {
       "basename": "Argument_Mitter_2009_Europe",
@@ -183,22 +199,6 @@
     {
       "basename": "Governmentality",
       "path": "wiki/theories/political-economy-geopolitics/Governmentality.md"
-    },
-    {
-      "basename": "Argument_Kratsios_2026_OSTP",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md"
-    },
-    {
-      "basename": "Hukou System",
-      "path": "wiki/facts/china/Hukou System.md"
-    },
-    {
-      "basename": "Enlightenment",
-      "path": "wiki/concepts/educational-philosophy/Enlightenment.md"
     }
   ],
   "omittedPaths": [],

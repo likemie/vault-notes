@@ -70,7 +70,8 @@ related_methods:
   - "[[Effect Size]]"
 related_instruments:
   - "[[VALUE Rubrics]]"
-related_persons: []
+related_persons:
+  - "[[Peter A. Hall]]"
 related_facts:
   - "[[Science Media Centre]]"
   - "[[Public Attitudes to Science]]"
@@ -395,7 +396,7 @@ updated: 2026-09-16
 >   - 弗兰克·凯利教授（Professor Frank Kelly）：大英帝国司令勋章获得者（Commander of the Order of the British Empire, CBE）、英国皇家学会院士（Fellow of the Royal Society, FRS）、剑桥大学系统数学教授；
 >   - 阿比盖尔·莫布斯（Abigail Mobbs）：BBC 新闻部（BBC News）社交媒体主管；
 >   - 亨利·斯科夫罗夫特（Henry Scowcroft）：资深自由科学作家兼传播战略专家；
->   - 戴维·施皮格尔霍尔特爵士（Sir David Spiegelhalter）：大英帝国官佐勋章获得者（Officer of the Order of the British Empire, [[Outcomes-based Education\|OBE]]）、英国皇家学会院士（Fellow of the Royal Society, FRS）、剑桥大学统计学荣休教授，全球风险与不确定性量化沟通领域顶级权威。（p. 110）
+>   - 戴维·施皮格尔[[Peter A. Hall|霍尔]]特爵士（Sir David Spiegelhalter）：大英帝国官佐勋章获得者（Officer of the Order of the British Empire, [[Outcomes-based Education\|OBE]]）、英国皇家学会院士（Fellow of the Royal Society, FRS）、剑桥大学统计学荣休教授，全球风险与不确定性量化沟通领域顶级权威。（p. 110）
 
 
 ---

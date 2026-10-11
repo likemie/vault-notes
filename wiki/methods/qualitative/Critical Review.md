@@ -34,6 +34,7 @@ related_concepts:
   - "[[Epistemic Agency]]"
   - "[[Direct Instruction]]"
   - "[[Inquiry-Based Learning]]"
+  - "[[Institutional Layering]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Fieldwork]]"
@@ -45,6 +46,7 @@ related_arguments:
   - "[[Argument_Mausethagen_2025_ERR]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_DeJong_2023_ERR]]"
+  - "[[Argument_VanDerHeijden_2011_Politics]]"
 related_instruments:
   - "[[PRISMA]]"
 related_facts:

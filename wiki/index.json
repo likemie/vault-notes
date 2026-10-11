@@ -6882,6 +6882,18 @@
     ]
   },
   {
+    "title": "Academic Inbreeding",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Academic Inbreeding.md",
+    "aliases": [
+      "学术近亲繁殖",
+      "学术近亲繁衍",
+      "大学教职近亲繁殖",
+      "Endogamia académica",
+      "Academic inbreeding"
+    ]
+  },
+  {
     "title": "Academic Oligarchy",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Academic Oligarchy.md",
@@ -30485,6 +30497,20 @@
     ]
   },
   {
+    "title": "Centros Concertados",
+    "type": "fact",
+    "path": "wiki/facts/spain/Centros Concertados.md",
+    "aliases": [
+      "协约学校",
+      "协约私立学校",
+      "资助私立学校",
+      "公共资助民办学校",
+      "协约中心",
+      "Escuelas concertadas",
+      "Centros concertados"
+    ]
+  },
+  {
     "title": "General Act of Education of 1970",
     "type": "fact",
     "path": "wiki/facts/spain/General Act of Education of 1970.md",
@@ -30494,6 +30520,18 @@
       "LGE",
       "Ley General de Educación",
       "General Education Act of 1970"
+    ]
+  },
+  {
+    "title": "Moyano Law of 1857",
+    "type": "fact",
+    "path": "wiki/facts/spain/Moyano Law of 1857.md",
+    "aliases": [
+      "1857年莫亚诺法案",
+      "莫亚诺法",
+      "莫亚诺法案",
+      "Ley Moyano",
+      "Public Instruction Act of 1857"
     ]
   },
   {

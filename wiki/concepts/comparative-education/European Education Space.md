@@ -36,6 +36,7 @@ related_concepts:
   - "[[Student Mobility]]"
   - "[[Teacher Mobility]]"
   - "[[Plaintive Comparison]]"
+  - "[[Academic Inbreeding]]"
   - "[[Competitiveness]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
@@ -166,7 +167,7 @@ graph TD
 > 探讨欧洲联盟教育权能的法律宪制边界，以及后发成员国如何利用欧洲教育空间作为修辞工具掩盖本土制度惰性与保护主义。
 
 > [!claim] [[José Luis García Garrido|García Garrido]], J. L.
-> **主权防线与亲欧修辞借用** García Garrido 论证指出，在法理与现实运行中，欧洲联盟在教育领域绝非凌驾于各国的超国家中央集权实体，其教育维度本质上不过是所有成员国教育体系的总和（none other than the sum of all its parts）。《马斯特里赫特条约》明确将教育主权完整保留在成员国手中，布鲁塞尔缺乏干涉成员国核心学制与课程的宪制权能。然而，在以西班牙为代表的后发转型国家中，欧洲教育空间与欧洲标准被执政精英高度符号化，成为国内立法前言中频密征引的亲欧修辞（Europeanist rhetoric）。这种修辞往往沦为[[Plaintive Comparison|诉苦式比较]]与掩盖体制改革迟滞的虔诚托辞（pious excuse）。在实践层面，所谓的高等教育趋同被降格为形式主义对齐：高校表面上全面采纳[[Bologna Process|博洛尼亚进程]]（Bologna Process）三级学位架构与欧洲学分互认体系（European Credit Transfer and Accumulation System，ECTS），但内部却长期受困于高达 95% 教师留校任教的学术近亲繁殖（inbreeding）以及地方保护壁垒；而西班牙在[[Erasmus Programme|伊拉斯谟计划]]中看似繁荣的留学生吸引力，实质上高度依赖温和气候与廉价生活成本等非学术禀赋，掩盖了高校教学科研国际[[Competitiveness|竞争力]]的真实落后。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–325, 332–333)]]
+> **主权防线与亲欧修辞借用** García Garrido 论证指出，在法理与现实运行中，欧洲联盟在教育领域绝非凌驾于各国的超国家中央集权实体，其教育维度本质上不过是所有成员国教育体系的总和（none other than the sum of all its parts）。《马斯特里赫特条约》明确将教育主权完整保留在成员国手中，布鲁塞尔缺乏干涉成员国核心学制与课程的宪制权能。然而，在以西班牙为代表的后发转型国家中，欧洲教育空间与欧洲标准被执政精英高度符号化，成为国内立法前言中频密征引的亲欧修辞（Europeanist rhetoric）。这种修辞往往沦为[[Plaintive Comparison|诉苦式比较]]与掩盖体制改革迟滞的虔诚托辞（pious excuse）。在实践层面，所谓的高等教育趋同被降格为形式主义对齐：高校表面上全面采纳[[Bologna Process|博洛尼亚进程]]（Bologna Process）三级学位架构与欧洲学分互认体系（European Credit Transfer and Accumulation System，ECTS），但内部却长期受困于高达 95% 教师留校任教的[[Academic Inbreeding|学术近亲繁殖]]（inbreeding）以及地方保护壁垒；而西班牙在[[Erasmus Programme|伊拉斯谟计划]]中看似繁荣的留学生吸引力，实质上高度依赖温和气候与廉价生活成本等非学术禀赋，掩盖了高校教学科研国际[[Competitiveness|竞争力]]的真实落后。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–325, 332–333)]]
 
 ---
 
@@ -187,7 +188,7 @@ graph TD
 > - **1990 年代初 — 政策萌芽与条约确立** 1992 年《马斯特里赫特条约》（第 126 条）明确欧盟在尊重成员国文化和语言多样性的前提下促进教育合作，[[Erasmus Programme|伊拉斯谟计划]]与 [[TEMPUS|天普计划]]相继铺开。
 > - **2000 年 — [[Lisbon Strategy|里斯本战略]]与开放协调机制** 欧盟提出建立全球最具[[Competitiveness|竞争力]]的[[Knowledge-Based Economy|知识经济]]体，正式确立以基准比对、量化指标和同伴学习为核心的开放协调机制（OMC），欧洲教育空间开始获得实操抓手。
 > - **2002 年 — 比较教育学批判解构** [[António Nóvoa]] 与 Martin Lawn 出版《制造欧洲教育空间》（*Fabricating Europe: The Formation of an Education Space*），将该空间定性为通过数据与流动性进行主体塑造的[[Post-structuralism|后结构主义]]治理技术。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
-> - **2009 年 — 空间转向与现实主义制度反思** Sobe & Fischer 将其置于[[Spatial Governmentality|空间治理术]]视域下，揭示欧洲教育空间的双重包容与排斥机制；[[José Luis García Garrido|García Garrido]] 则从成员国宪制视角指出欧盟教育维度不过是成员国总和，揭示西班牙高校在博洛尼亚对标下的学术近亲繁殖与修辞借用假象。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–363)]]; [[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–325, 332–333)]]
+> - **2009 年 — 空间转向与现实主义制度反思** Sobe & Fischer 将其置于[[Spatial Governmentality|空间治理术]]视域下，揭示欧洲教育空间的双重包容与排斥机制；[[José Luis García Garrido|García Garrido]] 则从成员国宪制视角指出欧盟教育维度不过是成员国总和，揭示西班牙高校在博洛尼亚对标下的[[Academic Inbreeding|学术近亲繁殖]]与修辞借用假象。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–363)]]; [[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–325, 332–333)]]
 > - **2025 年 — 大规模评估实证反思** Li et al. 从全球实证综述视角证实欧洲教育空间对国际学术研究与政策评估的结构性吸附效应。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 
 ---
@@ -206,7 +207,7 @@ graph TD
 >
 > > [!axis] 超国家共同政策实体 vs 成员国主权总和与修辞借用
 > > - **功能主义与超国家主义视角** 认为欧洲教育空间正通过[[Bologna Process|博洛尼亚进程]]和开放协调机制逐步形成具有实质约束力的欧洲共同政策实体，推动各国教育体制自发趋同。
-> > - **现实主义与制度批判学者（[[José Luis García Garrido|García Garrido]]）** 强调欧洲教育维度的实质不过是成员国各自主权的总和。布鲁塞尔在核心权能上面临严格宪制边界；而后发成员国往往将欧洲教育空间当作立法前言中的修辞工具，在形式上对齐学制框架，实质上却利用主权壁垒保护地方主义与学术近亲繁殖。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–325, 332–333)]]
+> > - **现实主义与制度批判学者（[[José Luis García Garrido|García Garrido]]）** 强调欧洲教育维度的实质不过是成员国各自主权的总和。布鲁塞尔在核心权能上面临严格宪制边界；而后发成员国往往将欧洲教育空间当作立法前言中的修辞工具，在形式上对齐学制框架，实质上却利用主权壁垒保护地方主义与[[Academic Inbreeding|学术近亲繁殖]]。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–325, 332–333)]]
 
 ---
 

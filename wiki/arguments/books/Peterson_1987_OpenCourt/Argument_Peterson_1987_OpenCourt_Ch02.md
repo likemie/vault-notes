@@ -61,6 +61,7 @@ related_persons:
   - "[[Bob Leach]]"
   - "[[John Goormaghtigh]]"
   - "[[Alec Peterson]]"
+  - "[[Peter A. Hall]]"
   - "[[Max Planck]]"
   - "[[Gerard Renaud]]"
   - "[[Isaiah Berlin]]"
@@ -265,7 +266,7 @@ updated: 2026-09-29
 > [!event-context] 牛津大学进入项目以前已经积累课程改革与比较研究能力
 > - **英国高中课程改革提供共同问题** [[Alec Peterson\|亚历克·皮特森]]（Alec Peterson）除参与大西洋学院外，还领导牛津大学教育系研究英国高中最后阶段。1960 年报告 *Arts and Science Sides in the Sixth Form* 批评英国课程过度专门化和文理分裂，销量超过 3,000 册。
 > - **国内讨论规模大却长期无果** 1960 年 10 月至 1961 年 4 月，牛津举行三次会议，汇集 300 多名中学与大学教师讨论改革。原书回顾，这些会议开启了此后约二十五年仍未取得成果的全国讨论。国际项目因规模较小，反而可能提供实际试验空间。
-> - **欧洲比较研究提供课程与考试资料** 牛津与欧洲委员会合作开展[[Oxford Council of Europe Studies in Curriculum and Examinations\|牛津—欧洲委员会课程与考试研究]]（Oxford Council of Europe Studies in Curriculum and Examinations，OCESCE），由威廉·霍尔斯（W. D. Halls）负责比较成员国高中课程和考试。Halls 随后成为 ISES／IBO 的主要顾问。
+> - **欧洲比较研究提供课程与考试资料** 牛津与欧洲委员会合作开展[[Oxford Council of Europe Studies in Curriculum and Examinations\|牛津—欧洲委员会课程与考试研究]]（Oxford Council of Europe Studies in Curriculum and Examinations，OCESCE），由威廉·[[Peter A. Hall|霍尔]]斯（W. D. Halls）负责比较成员国高中课程和考试。Halls 随后成为 ISES／IBO 的主要顾问。
 > - **1964 年访问确认了共同资格的现实需求** 二十世纪基金资助落实后，Alec Peterson 在秋季首次到日内瓦参与更系统的可行性调查。他看到 Ecolint 没有统一教学语言，高中生即使学习物理也被分成四套国家课程。牛津的课程改革与比较教育研究由此获得明确的国际应用场景（pp. 21–22）。
 
 > [!case] 福特基金对联合国国际学校的投入打开了跨大西洋联盟

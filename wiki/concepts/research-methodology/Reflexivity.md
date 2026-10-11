@@ -97,6 +97,7 @@ related_methods:
 related_persons:
   - "[[Alfred Schutz]]"
   - "[[Harold Garfinkel]]"
+  - "[[Peter A. Hall]]"
   - "[[Klaus Nielsen]]"
 related_facts: []
 related_arguments:
@@ -238,7 +239,7 @@ updated: 2026-10-08
 > 本命题探讨在实践者即研究者的情境中，反身性如何超越方法自省上升为民主[[Knowledge Production\|知识生产]]与打破教研形式主义空转的认识论支柱。
 
 > [!claim] Hall
-> **[[Emancipatory Action Research\|解放性行动研究]]的认识论基石** 霍尔（Budd L. Hall, 1996）指出反身性是[[Emancipatory Action Research\|解放性行动研究]]的构成要素和认识论基础。它确立了民主平等的[[Knowledge Production\|知识生产]]关系，认定数据反映全体参与者的真实经验，研究者理论负载的观点绝不优先于一线实践者的主观体验。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, pp. 294–295)]]
+> **[[Emancipatory Action Research\|解放性行动研究]]的认识论基石** [[Peter A. Hall|霍尔]]（Budd L. Hall, 1996）指出反身性是[[Emancipatory Action Research\|解放性行动研究]]的构成要素和认识论基础。它确立了民主平等的[[Knowledge Production\|知识生产]]关系，认定数据反映全体参与者的真实经验，研究者理论负载的观点绝不优先于一线实践者的主观体验。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, pp. 294–295)]]
 
 > [!claim] Newby & Quantz
 > **反移情监控与政治行动主义** 纽比（Peter Newby, 2010）指出实践者同时作为研究者往往并非无私中立，可能出于取悦管理层或争取资源的动机而系统性歪曲研究结果；反身性要求研究者像心理辅导处理反移情一样，严厉审视自身隐秘的利益议程，使反身性从单纯的自我省察升级为促进权力解构的积极行动主义（Quantz, 1992）。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, pp. 295, 447–448)]]
@@ -296,7 +297,7 @@ updated: 2026-10-08
 > [!dev-timeline] 概念演变
 > - **1960s–1970s — [[Phenomenology|现象学]]与[[Ethnomethodology|俗民方法学]]奠基** 舒茨（[[Alfred Schutz]]）提出回顾性赋予意义的时间性反思理论（Schutz, 1967）；加芬克尔（[[Harold Garfinkel]]）确立社会说明与情境相互依存的构成性反身性（Garfinkel, 1967）。
 > - **1980s — [[Ethnography|民族志]]反思浪潮与工具确立** 哈默斯利与阿特金森（Hammersley & Atkinson, 1983）确立“研究者即卓越工具”的方法论命题；阿什莫尔（Ashmore, 1989）提出[[Discourse Analysis|话语分析]]的双重反身性，反身性进入[[Qualitative Research|质性研究]]核心。
-> - **1990s — 批判转向与[[Emancipatory Action Research|解放性行动研究]]** 霍尔（Hall, 1996）与匡茨（Quantz, 1992）等学者将反身性融入解放性[[Action Research|行动研究]]与[[Critical Ethnography|批判民族志]]，反身性被提升为打破支配结构、揭示利益偏倚的[[Epistemology|认识论]]基石。
+> - **1990s — 批判转向与[[Emancipatory Action Research|解放性行动研究]]** [[Peter A. Hall|霍尔]]（Hall, 1996）与匡茨（Quantz, 1992）等学者将反身性融入解放性[[Action Research|行动研究]]与[[Critical Ethnography|批判民族志]]，反身性被提升为打破支配结构、揭示利益偏倚的[[Epistemology|认识论]]基石。
 > - **2000s–2010s — 质性写作规范与[[Operationalization|操作化]]** 克雷斯威尔（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）与沃尔福德（Walford, 2001）推动反身性操作化，确立研究者位置性陈述、第一人称作者叙事规范，并划定克制个人自传性暴露的理论边界。
 > - **2018 — 教育[[Practitioner Enquiry|实践者探究]]中的反身性与[[Activity Traps|活动陷阱]]实证诊断** [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] 将[[Reflective Thinking|反思性探究]]（Reflective Professional Inquiry）确立为有效学习环境的判定特征；实证揭示了教师高频表层尝试（82%）与深层[[Hypothesis|假设]]反身性审视严重脱节（55%）的现实落差，论证了反身性缺失诱发[[Activity Traps|活动陷阱]]的组织病理机制。
 > - **2020s — 计算质性分析与[[Meaningful Human Control|人在回路]]主体责任** 面对计算机辅助软件（[[Qualitative Computer Software|CAQDAS]]）与[[Generative Artificial Intelligence|生成式人工智能]]辅助[[Coding in Qualitative Research|编码]]的普及，学界确立人在回路（HITL）反身性准则，反身性成为抵御算法黑箱与去情境化的核心防线（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 560–561]]）。

@@ -29,6 +29,7 @@ related_concepts:
   - "[[Boarding Schools]]"
 related_persons:
   - "[[Louis Mountbatten]]"
+  - "[[Paul Pierson]]"
 related_facts:
   - "[[United World Colleges]]"
 related_arguments:
@@ -48,7 +49,7 @@ updated: 2026-10-02
 > 阿曼德·哈默美国西部[[United World Colleges|联合世界书院]]（Armand Hammer United World College of the American West）是[[United World Colleges|联合世界书院]]（United World Colleges，UWC）在美国建立的寄宿制成员校。学校 1982 年在新墨西哥州蒙特祖马开学，以跨国招生、[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）课程、寄宿共同生活与山地服务实施 UWC 使命。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 175–178)]]
 
 > [!org-context] 机构背景
-> - **筹建起点** [[Louis Mountbatten|路易斯·蒙巴顿]]（Louis Mountbatten）把阿曼德·哈默（Armand Hammer）介绍给威尔士亲王，哈默访问皮尔逊书院后承诺推动美国项目。
+> - **筹建起点** [[Louis Mountbatten|路易斯·蒙巴顿]]（Louis Mountbatten）把阿曼德·哈默（Armand Hammer）介绍给威尔士亲王，哈默访问[[Paul Pierson|皮尔逊]]书院后承诺推动美国项目。
 > - **资本结构** 哈默承诺购买校址、在生前弥补学校赤字，并在身后提供捐赠基金。
 > - **选址** 吉姆·普加什（Jim Pugash）在数月内考察一百多个地点，最终选中距拉斯维加斯六英里的蒙特祖马旧铁路酒店；哈默以 100 万美元购入。
 > - **地方条件** 新墨西哥州长和教育主管支持项目，附近具有原住民保留地、荒野训练、自然保护、医院与高地大学等教育资源。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 175–177)]]
@@ -84,7 +85,7 @@ updated: 2026-10-02
 > - **阿曼德·哈默及其基金会** 提供资本、赤字担保、个人国际联系和执行资源。
 > - **[[United World Colleges|UWC]] 选址工作组／校董会** 将国际运动的成员决策转为学校治理。
 > - **新墨西哥州政府** 承诺减少行政障碍，提供地方政治支持。
-> - **皮尔逊与大西洋书院人员** 支持课程设计、校园修复和景观建设。
+> - **[[Paul Pierson|皮尔逊]]与大西洋书院人员** 支持课程设计、校园修复和景观建设。
 
 > [!warrant] 资金集中压缩了筹建时间，但学校仍需建立常规管理能力
 > 哈默同时吸收校址、赤字与长期捐赠三项不确定性，州政府又降低许可阻力，因而使学校迅速进入招聘和招生。开学后的教师工作量、住房、语言支持和课程准备仍必须由校长、校董会与教师团队日常解决。

@@ -32,6 +32,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Cooperative Research and Development Agreement]]"
   - "[[Research Security]]"
+  - "[[Strategic Compliance]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Technology-Oriented Social Contract]]"
 related_theories:
@@ -160,7 +161,7 @@ updated: 2026-10-09
 > [!citation-card] 代表性评论
 > 绩效问责刚性化、重大社会挑战导向以及[[Research Security|科研安全]]合规审查，全面瓦解了基础科学无条件获得资助的制度共识；国家在关键技术攻关上越来越多地绕开传统大学，使传统契约深陷合法性与自治双重危机。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1060–1062)]]
 >
-> *Rigid performance accountability, [[Grand Challenges]], and research security compliance dismantled the post-war consensus on unconditional funding for basic science, throwing the traditional contract into dual crises of legitimacy and autonomy.*
+> *Rigid performance accountability, [[Grand Challenges]], and research security [[Strategic Compliance|compliance]] dismantled the post-war consensus on unconditional funding for basic science, throwing the traditional contract into dual crises of legitimacy and autonomy.*
 
 ---
 

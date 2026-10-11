@@ -32,6 +32,7 @@ related_concepts:
   - "[[Technological Republic]]"
   - "[[School Leadership]]"
   - "[[School Autonomy]]"
+  - "[[Strategic Compliance]]"
   - "[[New Public Management]]"
   - "[[Founder Culture]]"
   - "[[Transfer Translation Transformation]]"
@@ -111,7 +112,7 @@ updated: 2026-10-08
 > [!boundary]- 概念边界
 > - **不等于 [[School Autonomy|学校自主权]] / 机构无约束自由** 自主权侧重赋予组织在资源和路径上的裁量空间；产出导向治理则是将路径自主与国家统一目标、严格成果考核相结合的宏观系统协调框架。
 > - **不等于 单纯高利害惩戒问责** 产出导向治理不仅包含事后考核，更强调数据诊断反馈与专业能力赋能，避免陷入单纯考核引发的作弊与防御。
-> - **不等于 防卫型合规管理（Defensive Compliance）** 合规管理以“不违反规章”为成功；产出导向治理以“是否实质解决物理问题并交付成果”为成功。
+> - **不等于 防卫型合规管理（Defensive [[Strategic Compliance|compliance]]）** 合规管理以“不违反规章”为成功；产出导向治理以“是否实质解决物理问题并交付成果”为成功。
 
 ---
 

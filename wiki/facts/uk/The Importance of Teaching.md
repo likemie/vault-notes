@@ -31,6 +31,7 @@ related_concepts:
   - "[[Evidence Era]]"
   - "[[Initial Teacher Training]]"
   - "[[Policy Borrowing]]"
+  - "[[Strategic Compliance]]"
   - "[[Activity Traps]]"
   - "[[Policy-Based Evidence-Making]]"
   - "[[Paradigm]]"
@@ -98,7 +99,7 @@ updated: 2026-10-07
 > [!citation-card] 关键条文
 > 设法确保对中央政府举措的自动服从，会削弱学校系统自我改进的能力。
 >
-> *“The attempt to secure automatic compliance with central government initiatives reduces the capacity of the school system to improve itself.”*（DfE, 2010, p. 13; cited in Brown & Greany, 2018, p. 120）
+> *“The attempt to secure automatic [[Strategic Compliance|compliance]] with central government initiatives reduces the capacity of the school system to improve itself.”*（DfE, 2010, p. 13; cited in Brown & Greany, 2018, p. 120）
 
 ---
 

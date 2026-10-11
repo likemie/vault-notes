@@ -91,6 +91,7 @@ related_persons:
   - "[[Donald A. Schön]]"
   - "[[Aristotle]]"
   - "[[John Hattie]]"
+  - "[[Peter A. Hall]]"
   - "[[Jürgen Habermas]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
@@ -237,7 +238,7 @@ updated: 2026-10-07
 > **宏观政策生命周期中技术理性线性工程假说的破产与三元共生重构** 麦克唐奈与韦瑟福德通过对全美[[Common Core State Standards|共同核心州立标准]]（CCSS）运动的历时追踪，系统[[Falsification|证伪]]了公共政策领域中“科学知识直接驱动决策”的技术理性线性工程假说。技术理性预设决策者会依据高质量科研成果按图索骥制定政策，但全美课程标准的演进确证：证据的形态与政治功能随决策阶段发生权变演变（议程设置期作为破局的象征动员符号，方案制定阶段化为技术防卫护盾，法定采纳期收敛为微观工具对比）。面对高阶标准因果实证[[Document|文献]]的严重空白，政策研制并未陷入瘫痪，而是依靠学科公理推演与一线教师专业审慎经验（[[American Federation of Teachers|AFT]] 物理剪裁、[[National Education Association|NEA]] 骨干审读）进行补位。这表明科学证据绝非去情境化的技术指令，而是与专业经验、政治价值紧密交织的三元共生网络的一部分。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 1–3, 18–19)]]
 
 > [!claim] [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]]
-> **德语区新治理调控工具的技术理性成效缺失与理论-实践困境重现** 维罗妮卡·马尼蒂乌斯与诺伯特·范霍尔特（Veronika Manitius & Norbert van Holt, 2019）剖析了德语区新治理调控工具背后的技术理性假定。政策系统设想通过标准化统考（如全域比较联考（[[Vergleichsarbeiten]], VERA））与学校外部督导（Schulinspektion, SI）生成监测数据，并以此向单体学校回传以倒逼教学质量改进。然而，实证研究证实这种手段-目的式的直接技术回传在单体学校普遍面临成效缺失（mangelnde Effekte），并未自发转化为微观教学行为的改善。这一实践失败表明，将宏观监测数据直接等同于微观改进处方的技术理性闭环不仅严重脱离学校复杂生态，更让经典的理论-实践问题（Theorie-[[Praxis]]-Problem）在新治理技术包装下再次重现。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 9)]]
+> **德语区新治理调控工具的技术理性成效缺失与理论-实践困境重现** 维罗妮卡·马尼蒂乌斯与诺伯特·范[[Peter A. Hall|霍尔]]特（Veronika Manitius & Norbert van Holt, 2019）剖析了德语区新治理调控工具背后的技术理性假定。政策系统设想通过标准化统考（如全域比较联考（[[Vergleichsarbeiten]], VERA））与学校外部督导（Schulinspektion, SI）生成监测数据，并以此向单体学校回传以倒逼教学质量改进。然而，实证研究证实这种手段-目的式的直接技术回传在单体学校普遍面临成效缺失（mangelnde Effekte），并未自发转化为微观教学行为的改善。这一实践失败表明，将宏观监测数据直接等同于微观改进处方的技术理性闭环不仅严重脱离学校复杂生态，更让经典的理论-实践问题（Theorie-[[Praxis]]-Problem）在新治理技术包装下再次重现。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 9)]]
 
 ---
 
@@ -278,7 +279,7 @@ updated: 2026-10-07
 > - **2009 — 卡扎米亚斯批判技术官僚理性并重申全人[[Bildung\|教化]]** 卡扎米亚斯系统批判技术官僚理性对比较教育人文传统的剥离，重申古典全人教化（*[[Paideia]]*）的人本底线。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
 > - **2017 — 证据知情视阈下对技术理性线性供给的反思** [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] 批判自上而下的技术-理性灌输模型，倡导以[[Professional Judgment\|专业判断]]为核心的全系统[[Knowledge Mobilisation\|知识动员]]。
 > - **2019 — 数字化学校监测中技术理性修辞的批判性解构** [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]] 展开美德跨国[[Comparative Case Study|比较案例研究]]，揭示全域监测系统中自动化即时闭环的技术理性修辞如何被即兴试错烹饪、算法选择性与五维做数据张力深刻击碎。
-> - **2019 — 德语区学校改进反思新治理调控工具的技术理性成效缺失** 马尼蒂乌斯与范霍尔特（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019]]）系统审视德语区二十年新治理改革，指出基于全域测评回传与外部督导的技术理性假定在单体学校遭遇成效缺失，重申教育改进不能依赖机械数据灌输。
+> - **2019 — 德语区学校改进反思新治理调控工具的技术理性成效缺失** 马尼蒂乌斯与范[[Peter A. Hall|霍尔]]特（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019]]）系统审视德语区二十年新治理改革，指出基于全域测评回传与外部督导的技术理性假定在单体学校遭遇成效缺失，重申教育改进不能依赖机械数据灌输。
 > - **2020 — [[Navigational Framework for Educational Researchers|政策导航框架]]对单一黄金标准的技术理性批判** 塞佩尔（[[Argument_Serpell_2020_EP|Serpell, 2020]]）基于国会立法实务，全面反思规制型进路与单一实验金标准在宏观治理中的方法论脱节，呼吁转向考量地方情境的发展型政策进路（Developmental Approach）。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–42)]]
 > - **2022 — 教师教育[[Evidence Era|证据时代]]的[[Epistemological Break|认识论断裂]]与[[Rationalized Myth|合理化神话]]** [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] 揭示技术理性在当代政策中演进为主导性合理化神话，通过自上而下的[[Policy-Based Evidence-Making|逆向证据生产]]（PBEM）维系国家对教师教育准入的集权控制。
 > - **2022 — [[Quality Use of Research Evidence Framework|QURE]] 框架对“证据自身发声”技术理性迷误的跨领域诊断** [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] 基于跨卫生、教育、社会关照与公共政策的[[Systematic Review|系统综述]]，诊断循证运动中技术理性的核心致命伤在于[[Hypothesis|假设]]“证据会自行发声”，提出以适切证据与深思熟虑参与构成的 QURE 框架，系统瓦解单向供给迷思。
