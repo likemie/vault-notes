@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "PISA",
+      "path": "wiki/facts/global/PISA.md"
+    },
+    {
+      "basename": "Scientific Literacy",
+      "path": "wiki/concepts/competency-and-assessment/Scientific Literacy.md"
+    },
+    {
       "basename": "Argument_Garcia_Garrido_2009_SpainEU",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Argument_Kazamias_2009_ForgottenThemes",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md"
-    },
-    {
-      "basename": "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md"
-    },
-    {
-      "basename": "Argument_Cowen(Ed.)_2009_Springer",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Cowen(Ed.)_2009_Springer.md"
     }
   ],
   "omittedPaths": [],

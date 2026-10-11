@@ -27858,16 +27858,6 @@
     ]
   },
   {
-    "title": "Bologna Process",
-    "type": "fact",
-    "path": "wiki/facts/europe/Bologna Process.md",
-    "aliases": [
-      "博洛尼亚进程",
-      "博洛尼亚宣言",
-      "Bologna Declaration"
-    ]
-  },
-  {
     "title": "Community Innovation Survey",
     "type": "fact",
     "path": "wiki/facts/europe/Community Innovation Survey.md",
@@ -27922,6 +27912,18 @@
     "aliases": [
       "SSPC",
       "爱尔兰合成与固态制药中心"
+    ]
+  },
+  {
+    "title": "Bologna Process",
+    "type": "fact",
+    "path": "wiki/facts/europe/Bologna Process.md",
+    "aliases": [
+      "博洛尼亚进程",
+      "博洛尼亚宣言",
+      "Bologna Declaration",
+      "European Higher Education Area",
+      "EHEA"
     ]
   },
   {

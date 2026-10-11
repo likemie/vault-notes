@@ -34,9 +34,9 @@ Total entries: **773**
 | Type | Entries |
 |---|---:|
 | Organization | 211 |
-| Policy | 207 |
+| Policy | 208 |
 | Program | 205 |
-| Event | 146 |
+| Event | 145 |
 | Institution | 3 |
 | Document | 1 |
 
@@ -322,8 +322,7 @@ Total entries: **773**
 
 ## Europe
 
-> [!index-list]- Event (4)
-> - [[Bologna Process]] — 1999年由29个欧洲国家发起的高等教育改革进程，旨在建立可比较的学位体系、学分转换制度和统一质量保障框架，是欧洲区域高等教育治理的标志性事件。
+> [!index-list]- Event (3)
 > - [[Community Innovation Survey]] — Eurostat 与欧盟成员国国家统计机构合作开展的统一创新调查，基于 Oslo Manual 方法论，是欧洲创新研究最核心的企业层面数据来源，覆盖产品创新、流程创新、研发支出、创新合作等多个维度
 > - [[League of European Research Universities]] — 欧洲研究型大学的联合组织，就研究与创新政策发布立场文件，包括关于博士和博士后研究者校内外职业发展的研究报告，主张重新审视博士培养模式以承认大多数博士将进入非学术劳动力市场
 > - [[Sectoral Innovation Database]] — 意大利 Urbino 大学开发的跨国家产业层面创新数据库，整合三轮社区创新调查（CIS 2、3、4）数据并匹配 STAN 经济表现指标，覆盖 8 个欧洲国家 38 个行业
@@ -333,7 +332,8 @@ Total entries: **773**
 > - [[Mediterranean Society of Comparative Education]] — 成立于2004年的跨国区域比较教育专业学术组织，由意大利学者乔瓦尼·庞帕尼尼与马耳他学者罗纳德·苏尔塔纳等发起创立；以地中海盆地为共同地缘文化单元，致力于联结南欧、北非与中东三大洲沿岸各国的比较教育学者，突破单一民族国家框架与西方中心主义叙事，促进跨地中海文明的教育对话与社会正义研究。
 > - [[Synthesis and Solid State Pharmaceutical Centre]] — 爱尔兰政府资助的制药产学合作网络，由一位学术关键行动者发起，从 5 所大学和产业伙伴扩展至 8 所学术机构和 10 家跨国企业，经历胚胎期、启动期、参与期和确立期四个演化阶段，已成为全球制药研发卓越中心
 
-> [!index-list]- Policy (2)
+> [!index-list]- Policy (3)
+> - [[Bologna Process]] — 1999 年由 29 个欧洲国家签署宣言启动的跨国高等教育趋同改革进程；通过确立学士-硕士-博士三级学位体系、欧洲学分转换与累积系统（ECTS）及统一质量保障框架，构建欧洲高等教育区（EHEA），深刻重组了国家教育主权、超国家区域治理与高校地缘政治能动性。
 > - [[Dublin Descriptors]] — 欧洲联合质量倡议（JQI）于2004年研制并在博洛尼亚进程中采纳的高等教育学位资格元描述符，确立了短期、学士、硕士与博士四级学位在知识应用、判断形成、沟通与自主学习上的通用核心标准。
 > - [[European Convention on the Equivalence of Diplomas Leading to Admission to Universities 1953]] — 欧洲委员会成员国1953年建立的大学入学文凭等值安排，保障外国文凭可被提交为大学申请资格，但不保证录取，也不取消院系先修科目、名额和申请时序限制。
 

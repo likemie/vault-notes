@@ -10,7 +10,7 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（Official Academic Achievement, OAA）、预估总评成绩（Estimated Overall Academic Achievement, EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 137
+related_count: 139
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Achievement and Aptitude Tests]]"
   - "[[External Validity]]"
   - "[[Learning Progression]]"
+  - "[[Grade Retention]]"
   - "[[Rote Learning]]"
   - "[[Interaction Effect]]"
   - "[[Scaffolding]]"
@@ -71,11 +72,13 @@ related_concepts:
   - "[[Teaching Assistant]]"
   - "[[Effective Teaching]]"
   - "[[Cooperative Learning]]"
+  - "[[Heterogeneity]]"
   - "[[Growth]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Response to Intervention]]"
   - "[[Constructivist Paradigm]]"
   - "[[Self-Regulated Learning]]"
+  - "[[Deficit Model of Science Communication]]"
   - "[[Champ]]"
   - "[[Output-Oriented Governance]]"
   - "[[Self-control]]"
@@ -87,7 +90,6 @@ related_concepts:
   - "[[Social-Emotional Learning]]"
   - "[[Professional Learning Community]]"
   - "[[Deficit Framing]]"
-  - "[[Heterogeneity]]"
   - "[[Critical Thinking]]"
   - "[[Procedural Skill]]"
   - "[[Variable]]"
@@ -95,7 +97,6 @@ related_concepts:
   - "[[Affective Outcomes]]"
   - "[[Document]]"
   - "[[Ontology]]"
-  - "[[Inquiry-Based Learning]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Reflective Judgment Model]]"
@@ -118,9 +119,11 @@ related_methods:
   - "[[Multivariate Analysis of Variance]]"
   - "[[Questionnaire]]"
   - "[[Multinomial Logistic Regression]]"
+  - "[[Comparative Policy Analysis]]"
   - "[[Correlational Research]]"
   - "[[Matching]]"
   - "[[Pre-test and Post-test]]"
+  - "[[Secondary Analysis]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
@@ -129,6 +132,7 @@ related_persons:
   - "[[Stephen Gorard]]"
   - "[[Herbert Altrichter]]"
   - "[[Helmut Fend]]"
+  - "[[José Luis García Garrido]]"
 related_facts:
   - "[[National Pupil Database]]"
   - "[[What Works Clearinghouse]]"
@@ -142,10 +146,13 @@ related_facts:
   - "[[Vergleichsarbeiten]]"
   - "[[National Assessment of Educational Progress]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
+  - "[[Organic Law on the General Organization of the Education System 1990]]"
+  - "[[Organic Law on Education 2006]]"
 related_arguments:
   - "[[Argument_Greene_2018_JEP]]"
   - "[[Argument_Lodewyk_2007_EP]]"
   - "[[Argument_Hattie_2005_ACER]]"
+  - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
   - "[[Argument_Greene_2010_JEP]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Slavin_2019_EP]]"
@@ -165,7 +172,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-15
-updated: 2026-10-08
+updated: 2026-10-11
 ---
 
 # Academic Achievement
@@ -220,6 +227,10 @@ updated: 2026-10-08
 > 5. **课程标准等级与[[Learning Progression\|学业进阶]]层级（[[Learning Progression]] and Curriculum Levels）**
 >    - **国家课程等级锚定（national curriculum levels）** 将学业成就分解为连续跨等级的发展阶段（如 [[Assessment Tools for Teaching and Learning\|asTTle]] 等级 2 至 6），超越孤立原始分数的单一横截面排名，呈现具体认知能力与进阶目标（[[Argument_Hattie_2005_ACER\|Hattie, 2005]]）。
 >    - **形成性诊断与能力雷达（formative diagnostic profiles）** 区分学生在表层事实提取与深层概念理解上的具体强弱项，为个性化干预提供精准靶标。
+> 
+> 6. **宏观学制结构与成就分布形态（Systemic Distribution and School Failure Indices）**
+>    - **显性与隐性学业失败率（obvious and hidden school failure rates）** 学生在关键学段因跟不上统一教学步调而未能达标、重修[[Grade Retention|留级]]或事实辍学的比例；例如西班牙初中 14 岁失败率达 25%、16 岁义务教育结业达 33%，表征学制整体设计的结构性功能失调（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, p. 331]]）。
+>    - **卓越生比例与平庸化截断（excellence ceiling and systemic mediocrity）** 在国家统一课程大纲下达到最高优秀等级（excellent）的顶尖学生比例（西班牙仅不足 4%）；当极低卓越率与高失败率并存时，证实均质学制不仅未能拯救后进生，反而压制了禀赋优异学生的学术潜能，致使国家整体学业表现滑向平庸。
 
 ---
 
@@ -385,6 +396,16 @@ updated: 2026-10-08
 
 ---
 
+### 命题十二　延期分流的均质综合制在缺乏差异化支持时会诱发高学业失败与系统性平庸的双重赤字
+
+> [!concept-lens] 均质综合学制的成就分布悖论
+> 探讨追求形式平等的十年制单一综合初中学制若漠视学生的客观禀赋[[Heterogeneity|异质性]]，为何会导致高失败率与极低卓越率并存的系统性平庸。
+
+> [!claim] [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009, pp. 330–332)]]
+> **单一综合学制对学业成就分布的双向破坏机制** 分析西班牙 1990 年与 2006 年中等教育改革（[[Organic Law on the General Organization of the Education System 1990|LOGSE]] 与 [[Organic Law on Education 2006|LOE]]）的实证后果指出，追求形式平等的均质综合学制在延长至 16 岁（十年制义务教育）的过程中若缺乏弹性课程分流与学业多样化分支，将对国家学业成就分布产生双向破坏：一方面，强行在初中实施完全统一、不设分流的综合课程大纲，漠视学生客观学术禀赋的[[Heterogeneity|异质性]]，导致大量后进生彻底丧失学业动机沦为学业抗拒者（student objectors），将 14 岁学业失败率推高至 25%（1/4），并在 16 岁义务教育结业时攀升至 33%（1/3）；另一方面，均质化政策为了迁就后进生而系统性降低学业考核标准，不仅未能实质提升弱势群体的达标水平，反而严重压制了优异学生的深层学术潜能，致使义务教育结业时达到卓越（excellent）等级的学生比例不足 4%。这种高失败率与极低卓越率的双重赤字坐实了国家学制设计的整体平庸化。
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳与理论边界
@@ -401,6 +422,7 @@ updated: 2026-10-08
 > | **多层方差分解与教师核心杠杆** | 学业成就 50% 变异来自学生背景，30% 来自教师效能，学校与家庭各占 5–10%；教师是教育系统内部最大的可控因果震源。 | 教育政策设计、[[School Effectiveness\|学校效能]]研究、资源分配优先级排序 | Hattie |
 > | **宏观资源与学业脱节悖论** | 宏观财政注资、生师比与教师学历提升若未进入课堂教学微观互动，无法转化为主观学业成就增长；低效常规支出挤占解释了 Title I 六十年脱节困境。 | 教育经济学、公共财政评估、纵向学业追踪、补偿性教育研究 | Hanushek; Hattie; Dynarski & Kainz; Ginsberg et al. |
 > | **循证分层干预与学业差距消除** | 全班教学升级与助教分层辅导结合，以及学科针对性资源配置（班级规模促阅读、专业发展促数学），能以可承受成本系统性消除薄弱学校学业差距。 | CSI 薄弱学校改进、Title I 补偿资助、[[Response to Intervention\|干预反应模型（Response to Intervention, RTI）]]分层预防 | Slavin; Kainz; Cook et al. |
+> | **综合学制均质化与成就双重赤字** | 延期分流的均质综合制若漠视禀赋差异，会同时推高义务教育结业学业失败率（33%）并压制卓越潜能（<4%），导致学业成就分布整体滑向系统性平庸。 | 宏观学制设计、比较教育政策、初中分流体制评估、教育公平与卓越张力 | [[José Luis García Garrido\|García Garrido]] |
 
 ---
 
@@ -412,6 +434,7 @@ updated: 2026-10-08
 > - **当代深化：微观[[Task Structure\|任务结构]]与情境动力学整合** 近年研究进一步将学业成就置于微观教学情境中，强调任务结构（良构 vs 劣构）对学业表现的边界调节作用，并将[[Reflexivity\|反思性]]判断、认识动机与[[Self-Regulated Learning\|自我调节学习]]纳入统一解释框架。[[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007)]]
 > - **2005 年：多层方差分解、资源脱节悖论与[[Learning Progression\|学业进阶]]评价** [[Argument_Hattie_2005_ACER\|Hattie (2005)]] 确立了学业成就的六大方差源分解（教师占 30% 可控核心），援引 Hanushek (2005) 40 年数据揭示资源注资与 [[National Assessment of Educational Progress|NAEP]] 成绩的脱节悖论，并依托 [[Assessment Tools for Teaching and Learning\|asTTle]] 系统推动学业成就从横截面统考向多层级[[Learning Progression\|学业进阶]]与形成性反馈的评价转向。
 > - **2009 年：新自由主义国家审计与学业成就标准的经济归约** [[Robert Arnove|阿诺夫]]（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 107, 113]]）从[[World-Systems Theory|世界体系分析]]与批判政治经济学视角，揭示自上而下的新自由主义改革如何将统一学业成就标准与标准化测验作为国家审计化治理工具，促成国家角色向远程评估者退缩并将学业指标窄化为经济竞争工具。
+> - **2009 年：学制均质化对宏观成就分布的扭曲与双重[[Deficit Model of Science Communication|赤字模型]]** [[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009]]）结合西班牙宏观评估数据，揭示不分流均质综合学制若脱离差异化支持，会同时推高义务教育结业阶段的学业失败率（33%）并极度压低卓越生比例（<4%），确立了学业成就分布受制于中等学制分流架构的宏观比较分析框架。
 > - **2018 年：全球数据治理与学业成就的政治化再造** [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] 突破微观心理测量视角，揭示在以 [[PISA]] 为代表的跨国评估中，宏观学业成就指标因指标交错与去脉络化而具备极高可塑性，客观平稳的成绩在国家政治[[Champ\|场域]]中易被剪裁为“停滞衰退”的危机修辞以推行新自由主义政策。
 > - **2019 年：独立测验质控刚性化与分层循证消除学业差距** [[Argument_Slavin_2019_EP\|Slavin (2019)]] 在《教育心理学家》发表里程碑论文，确立独立标准化测验为衡量真实学业成就的法定质控标尺（坚决剔除自编测验），并系统阐述以经过验证的教学方案与[[Teaching Assistant\|助教]]分层辅导消除薄弱学校学业差距的因果机制。
 > - **2019 年：多级治理因果链条与远端学业解耦机理** [[Argument_Altrichter_2019_ZfB|Altrichter et al. (2019)]] 结合欧陆[[Output-Oriented Governance|产出导向治理]]理论，揭示从宏观治理工具到微观学业成就需跨越五级多层因果链条；基层校长的认知把关过滤（七成以上校长未采纳循证发展取向）导致政策因果动力在第二级发生严重衰减，从多层治理与微观阻滞视角解释了大规模监控与督导改革对终端学生学业成就难以产生直接净效应的结构性规律。
@@ -437,6 +460,7 @@ updated: 2026-10-08
 > - **生成式 AI 背景下终稿学业成绩的效度危机与猫鼠博弈困局** 生成式 AI 生成文本的表面语义流畅性使传统终稿型学业评价体系效度严重受损。单纯依赖 AI 查重软件进行惩罚性封堵只会陷入猫鼠博弈的死循环；唯有重组教学活动系统规则，把评价重心从静态终稿转向提示词迭代链、查错反思日志与口头辩护的过程性投入，才能真实测度高阶学业成就。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 11–13)]]
 > - **自编测验紧密性虚高与[[Trim and Fill Method\|剪补法]]收敛反思** 生成式 AI [[Intervention Research\|干预研究]]中普遍存在使用[[Developer-Made Measures\|研究者自编测验]]的倾向，其效应量（$g^+ = 1.022$）显著高于标准化量表（$g^+ = 0.614$）。更为重要的是，经剪补法校正[[Publication Bias\|发表偏倚]]后，学业成绩效应从 $0.633$ 大幅缩水至 $0.354$，这有力证明脱离标准化效标的自编测验极易把 AI 的“即时工具助答效果”误读为学生的“真实学术能力沉淀”。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 12, 14)]]
 > - **大规模因果试验中首要测量指标的敏感度陷阱与非学业素养拓展** 在大规模教育因果干预评估中，单纯追求客观标准测验可能落入测量敏感度陷阱：部分商业化学科测验因题型区分度缺陷引发[[Floor and Ceiling Effects\|地板效应]]或天花板效应，遮蔽了干预在学业上的真实微观进展（Allen et al., 2018; Hodgen et al., 2019; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）。与此同时，将学业成就作为唯一首要产出指标易导致评价窄化，忽视了[[Self-control\|自我控制]]、情绪调节与[[Social-Emotional Learning\|社会情感学习]]等对长期学业成功至关重要但测度难度更高的非学业素养。
+> - **均质综合制的形式平等修辞与学业成就平庸化陷阱** 政策制定者常宣称推迟普职分流、统一步调的十年制义务教育大纲能够保障教育公平与全员学业达标；然而比较教育实证反思表明，忽视禀赋差异的机械均质化极易诱发均值下移与两极恶化：既无法阻止三分之一的学生陷入学业失败与学业抗拒，又以牺牲卓越生培养为代价，导致学业成就分布整体滑向系统性平庸。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–332)]]
 
 ---
 
@@ -508,6 +532,7 @@ updated: 2026-10-08
 > | Kainz (2019)（引自 Ginsberg et al., 2024, p. 165） | 低收入非裔与西裔学生高集聚度班级样本 | 细粒度班级层面因果评估 | Title I 资金分配路径（[[Class Size\|班级规模]]缩减 vs 教师专业发展）对阅读与数学成绩的影响 | 资金用于缩减班级规模时，弱势学童阅读成绩增益显著更大；资金用于教师专业发展时，数学成绩增益显著更大 | 统计学显著 | 证实特定资源配置路径与特定学科（阅读 vs 数学）学业成就之间存在精准靶向因果对应 |
 > | Cook et al. (2015)（引自 Ginsberg et al., 2024, p. 165） | 九至十年级处境不利学业困境高危学生 | 高强度密集个性化辅导干预 | 标准化数学学业成就 | 实施高强度、密集个体化一对一或小组辅导后，高危学困生的数学学业成绩获得显著且实质性提升 | 统计学显著正向效应 | 证实高强度个性化辅导能够有效扭转中学阶段后进生的学业失败轨迹 |
 > | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | 德语区基础教育多州学校监测与改革实践 | 学术史梳理、政策文本批判与话语观察 | 外部学校督导与跨校学业统考（[[Vergleichsarbeiten\|VERA]]）数据回传 vs 学生终端学业成就与教学改进 | 实证文献确证外部督导报告与统考数据回传在单体学校层面普遍遭遇成效缺失（mangelnde Effekte auf Einzelschulebene），未能转化为学生学业成绩的稳步提升 | 实证成效普遍缺失 | 确立测评数据回传与微观教学和终端学业成就之间的非线性阻隔，印证宏观监控无法机械撬动微观学业产出 |
+> | [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] | 西班牙 14 岁与 16 岁义务教育阶段学生（[[Organic Law on the General Organization of the Education System 1990\|LOGSE]] 与 [[Organic Law on Education 2006\|LOE]] 实施期，INCE 与 [[PISA]] 跨国评估数据） | 二手宏观评估数据分析与学制[[Comparative Policy Analysis\|比较政策分析]] | 义务教育学业失败率、卓越生（excellent）达标率、PISA 跨国对标位次 | 14 岁学生显性或隐性学业失败率达 25%（1/4）；16 岁义务教育结业阶段学业失败率攀升至 33%（1/3）；卓越生比例不足 4%；PISA 2000 与 2003 年评估位居欧盟末位梯队 | 官方全国与国际多期评估重复验证 | 证实缺乏差异化路径的十年制均质综合学制不仅未能消除学业失败，反而造成严重平庸化 |
 
 ---
 
@@ -528,7 +553,7 @@ updated: 2026-10-08
 > - [[Argument_Hattie_2005_ACER\|Hattie (2005)]] — 确立了学业成就的六大方差源分解（教师占 30% 系统内最大可控核心），揭示 40 年宏观资源投入与 [[National Assessment of Educational Progress|NAEP]] 成绩脱节悖论，并依托 [[Assessment Tools for Teaching and Learning\|asTTle]] 系统推动基于[[Learning Progression\|学业进阶]]与形成性反馈的评价模式。
 > - [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] — 通过大样本调查与组内平衡任务实验，揭示了中学生长期总体学业成就（EOAA）的[[Epistemology\|认识论]]预测源，实证确立了[[Task Structure\|任务结构]]（良构 vs 劣构）对学业表现认识论制约效应的调节作用，并提供了[[Gender Differences in Academic Achievement\|学业成就性别差异]]与效标锚定（$r = .91$）的关键证据。
 > - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] — 通过大规模[[Meta-analysis\|元分析]]系统考察了[[Epistemic Cognition\|认识论认知]]对不同类型学业成就的预测力，确立了认知加工深度[[Matching\|匹配法]]则（概念性/论证 vs 程序性）以及测试客观性[[Measurement Alignment\|对齐法则]]。
-> - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 针对 26 项实验与准实验[[Intervention Research\|干预研究]]开展[[Meta-analysis\|元分析]]，证实认识论认知教学干预对学业成就具有中等因果提升作用（Cohen's $d = 0.509$），并确立了成就类型的认知加工层级敏感性（论证 $d = 1.047$、概念 $d = 0.557$）与[[Inquiry-Based Learning\|指导式探究]]的优势。
+> - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 针对 26 项实验与准实验[[Intervention Research\|干预研究]]开展[[Meta-analysis\|元分析]]，证实认识论教学干预对学业成就有中等促进作用（$d = 0.509$），并确立了高阶论证与概念理解的层级敏感性。
 > - [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] — 将学业成就作为潜类别[[Multinomial Logistic Regression\|多项逻辑回归]]的协[[Variable\|变量]]，证明特定学科成绩能够有效预测学生的[[Epistemic and Ontological Cognition\|认识论与本体论认知]]阶段。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项实证研究，批判了将[[Higher-Order Thinking Skills\|高阶思维]]混同为泛化学业表现（Academic Achievement）的传统取向，揭示了表面文本流畅性掩盖深层[[Cognitive Offloading\|认知卸载]]的危机，确立了从“终稿产出”向“反思过程与自适应专业特长”转型的评价规制。
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] — [[Meta-analysis\|元分析]]在严格控制[[Pre-test and Post-test\|前测]]基线等效（$d < 0.25$）前提下，评估生成式 AI 对大学生学业成绩的促进效应（$g^+ = 0.633$），并经[[Trim and Fill Method\|剪补法]]校正[[Publication Bias\|发表偏倚]]至稳健水平（$g^+_{\text{adj}} = 0.354$）。
@@ -536,7 +561,8 @@ updated: 2026-10-08
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 深度总结[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）近十年来在英格兰主导的大规模因果评估实践，系统建构了学业成就在因果研究中的测验准入标准、[[Reliability\|信度]]效度审查框架、商业测验地板与[[Floor and Ceiling Effects\|天花板效应]]诊断，以及依托[[National Pupil Database\|国家学生数据库]]（NPD）微观考分进行长期学业追踪的方法论[[Paradigm\|范式]]。
 > - [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] — 大规模[[Systematic Review\|系统综述]]确立学业成就是检验循证干预的终极试金石，实证揭示了教师中阶实践行为改变与学生终端学业成绩之间的系统性因果解耦，确立了以[[Engineered Evidence\|工程化证据]]为核心跨越中介断裂的因果实现路径。
 > - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 系统阐述循证改革如何以独立标准化测验为刚性质量标尺（坚决剔除自编测验），通过经验证的 Tier 1 全班教学方案与[[Teaching Assistant\|助教]]主导的 Tier 2/Tier 3 分层靶向辅导，以可负担的财政成本系统性消除 [[Title I of the Elementary and Secondary Education Act\|Title I]] CSI 薄弱学校的学业成就差距。
-> - [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] — 穿透式审计 2.88 亿美元 Title I 支出流水，实证检验资源投入与学业成就脱节假说，揭示单项法定门槛与全量证据评价下学业有效支持率显著分化（95% $\to$ 49%–58%）的制度裂痕与学段替代赤字（pp. 162–165, 174–178）。
+> - [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] — 穿透式审计 2.88 亿美元 Title I 支出流水，实证检验资源投入与学业成就脱节假说，揭示法定门槛与全量证据下有效支持率分化（95% $\to$ 49%–58%）的治理裂痕。
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 阐明教育治理现代化中连接宏观工具与终端学业成就的五级多层因果链条，实证揭示基层校长的认知过滤与工时重构是导致宏观政策与学生微观学业成就远端脱节的关键制度中介。
 > - [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] — 检视德语区[[School Inspection|外部学校督导]]与全域学业统考等新治理工具在单体学校层面的成效缺失（mangelnde Effekte），从理论-实践关系视角论证外部测评数据回传与终端学业成就之间的非线性断裂。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 107, 113)]] — 从世界体系与批判政治经济学视角剖析标准化测验问责制，阐明自上而下的新自由主义改革如何将学业成就标准异化为国家审计与绩效规约工具，并将多维教育价值窄化为资本积累的劳动力指标。
+> - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 结合西班牙国家评估与 PISA 数据展开[[Secondary Analysis|二手分析]]，实证揭示十年制均质综合中等学制对学业成就分布的双向破坏（16 岁 33% 学业失败率与不足 4% 卓越率），确立了宏观学制设计导致学业成就系统性平庸化的经典案例。
