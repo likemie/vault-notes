@@ -7,7 +7,7 @@ aliases:
   - W. J. M. Kickert
   - Kickert, W. J. M.
   - Kickert, W.
-summary: "荷兰伊拉斯谟大学公共管理学荣休教授，欧洲网络治理与公共管理理论领军学者，曾深度参与荷兰教育与科学部改革实践，系统提炼并阐释了高等教育“远距离操纵”范式与公共政策网络协调理论。"
+summary: "荷兰伊拉斯谟大学公共管理学荣休教授，欧洲网络治理与公共管理理论领军学者，曾深度参与荷兰教育与科学部改革实践，系统提炼并阐释了高等教育远距离操纵范式与公共政策网络协调理论。"
 type: person
 nationality: "netherlands"
 person_region: "netherlands"
@@ -51,9 +51,9 @@ updated: 2026-10-12
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1980 年代初至中叶** 在荷兰教育与科学部担任高级政策顾问与规划决策核心参与者长达六年，亲历并直接参与了 1985 年《高等教育：自主与质量》白皮书草拟、高等专业教育大兼并与 1988 年立法改革方案的制定。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 135)]]
-> - **1990 年代起** 任教于鹿特丹伊拉斯谟大学公共管理系，创立并领导欧洲网络治理研究学派，与克莱因（Erik-Hans Klijn）、科彭扬（Joop Koppenjan）等学者共同出版多部奠基性公共管理专著，系统奠定了“复杂网络管理”（Managing Complex Networks）的理论范式。
-> - **1995** 于国际权威公共管理期刊 *Governance* 发表里程碑式国别研究长文，将荷兰高等教育“远距离操纵”经验确立为比较公共行政学界引用最广泛的治理范式经典文本。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 135–157)]]
+> - **1980 年代初至中叶** 在荷兰教育与科学部担任高级政策顾问与规划决策核心参与者长达六年，亲历并直接参与了 1985 年《[[Higher Education Autonomy and Quality|高等教育自主与质量]]》白皮书草拟、高等专业教育大兼并与 1988 年立法改革方案的制定。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 135)]]
+> - **1990 年代起** 任教于鹿特丹伊拉斯谟大学公共管理系，创立并领导欧洲网络治理研究学派，与克莱因（Erik-Hans Klijn）、科彭扬（Joop Koppenjan）等学者共同出版多部奠基性公共管理专著，系统奠定了复杂网络管理（Managing Complex Networks）的理论范式。
+> - **1995** 于国际权威公共管理期刊 *Governance* 发表里程碑式国别研究长文，将荷兰高等教育远距离操纵经验确立为比较公共行政学界引用最广泛的治理范式经典文本。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 135–157)]]
 
 ---
 
