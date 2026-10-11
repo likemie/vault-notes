@@ -6,11 +6,11 @@ aliases:
   - 哈克
   - Hacker, J. S.
   - Jacob Hacker
-summary: "美国政治学家，耶鲁大学政治学讲席教授；当代福利国家政治、公共政策与制度变迁理论领军学者；首创制度漂移理论，揭示强否决阻力下政策不更新所导致的实质社会保障侵蚀，其双维解释模型为渐进制度变迁矩阵提供了直接原型基石。"
+summary: "美国政治学家，耶鲁大学政治学讲席教授，美国文理科学院院士；当代福利国家政治、公共政策与制度变迁理论领军学者；在施特雷克与希伦主编的《制度变迁的超越》（2005）中首创制度漂移与政策漂移理论，揭示高否决门槛下战略性不作为诱发的实质保障侵蚀与风险私有化，其分析框架为渐进变迁双维矩阵提供原型基石。"
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 8
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -34,9 +34,11 @@ related_persons:
   - "[[Paul Pierson]]"
   - "[[Kathleen Thelen]]"
   - "[[James Mahoney]]"
+  - "[[Wolfgang Streeck]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
+  - "[[Argument_Streeck_Thelen_2005_OUP]]"
 confidence: high
 status: draft
 created: 2026-10-11

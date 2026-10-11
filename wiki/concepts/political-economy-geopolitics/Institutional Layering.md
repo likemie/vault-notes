@@ -22,12 +22,11 @@ related_concepts:
   - "[[Institutional Displacement]]"
   - "[[Institutional Drift]]"
   - "[[Institutional Conversion]]"
-  - "[[Institutional Exhaustion]]"
-  - "[[Subversives]]"
   - "[[Venue Shopping]]"
   - "[[Problem of Many Hands]]"
   - "[[Regulatory Ratchet]]"
   - "[[Variable]]"
+  - "[[Subversives]]"
   - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Composite-Standard Model]]"
@@ -43,13 +42,14 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Kathleen Thelen]]"
+  - "[[James Mahoney]]"
   - "[[Jeroen van der Heijden]]"
   - "[[Ray Pawson]]"
 related_facts: []
 related_arguments:
   - "[[Argument_VanDerHeijden_2011_Politics]]"
-  - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
+  - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
 confidence: high
 status: draft
 created: 2026-10-11
@@ -98,6 +98,7 @@ updated: 2026-10-11
 ## 核心要素
 
 > [!feature] 制度层叠的历史演进传统与构成维度
+> - **差异化增长（Differential Growth）** 改革者在既有制度核心的外围增设补充性新规则或新机制；新层最初看似微不足道，但由于外部市场红利或政策倾斜，其增长速度显著超越旧制度核心，随时间推移逐渐吸纳全社会增量资源并完成结构性重塑。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 22–24)]]
 > - **官僚与行动者增厚（Thickening: adding actors）** 在既有行政层级中不断增设新机构、职能部门、私营或非营利主体，导致权力层级重叠并引发责任稀释的多手问题（[[Problem of Many Hands]]）。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
 > - **[[Regulatory Ratchet|规制棘轮]]与工具叠加（Regulatory ratchet: adding instruments）** 在既有法律法规体系之上持续叠加密集的新细则、审查要求与合规规程，使制度体系如同单向棘轮般日益繁复庞杂。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 14–15)]]
 > - **行动者与工具双重叠加（Adding actors and instruments）** 面对公共治理困境，改革者同时引入新型组织载体与新型管理工具，在双重层叠中逐步推动整体制度生态的质性重构。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 15)]]
@@ -192,6 +193,8 @@ updated: 2026-10-11
 ## 经验证据与典型案例
 
 > [!evidence-grid] 制度层叠的代表性经验案例（增新不废旧并驱动制度演化）
+> - **德国劳动力市场微型工作与非正规用工分层（双轨化自由化分层典范）** 德国政府在保留传统全职制造业劳工严格解雇保护（Kündigungsschutz）核心的前提下，通过劳动力市场改革在劳动规制外围分层增设微型工种（Minijobs）与临时派遣工规章；免税与低社保费用的微型工种以数十倍于传统岗位的速度野蛮生长，吸纳了数百万低薪服务业劳工，使得德国在表面完整维系战后劳工保护制度的同时，实质完成了劳动力市场深刻的二元分层（Dualization）与自由化转型。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 23–24)]]
+> - **美国养老金 401(k) 计划与自愿性补充账户层叠（公共福利边际分层典范）** 保守派政府并未直接削减富兰克林·罗斯福建立的现收现付制公共社会保障（Social Security），而是在联邦税法第 401(k) 条款中层叠设立雇主赞助的私人投资账户；由于免税红利与资本市场牛市，401(k) 积累的资产规模迅速超越了公共信托基金，实质改写了美国国民的退休风险预期。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 22–23)]]
 > - **战后公共行政扩张（行动者增厚与[[Problem of Many Hands|多手难题]]）** 尤金·贝利斯尔（Belisle, 1944）、劳伦斯·赫森（Herson, 1961）、尼尔·张伯伦（Chamberlain, 1969）与保罗·莱特（Light, 1995）系统考证了在联邦、州与地方多级层级中持续增设新局署，以及在既有体制中引入私营与非营利主体；组织层叠造成权力重叠与责任稀释，印证了行动者增厚的制度成本与多手难题（[[Problem of Many Hands]]）。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
 > - **战后金融与劳工规制演进（[[Regulatory Ratchet|规制棘轮]]与工具叠加）** 克利夫顿·克雷普斯（Kreps, 1966）揭示大萧条后银行业监管层层加盖；尤金·巴达克与罗伯特·卡根（Bardach & Kagan, 1982）以及理查德·佛罗里达与马丁·肯尼（Florida & Kenney, 1992）揭示规则只增不减形成[[Regulatory Ratchet|规制棘轮]]（Regulatory Ratchet），使合规体系日益繁复庞杂。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 14–15)]]
 > - **公共服务供给体制转型（组织与工具双重叠加）** 布鲁斯·史密斯（Smith, 1983）与[[Kathleen Thelen|凯瑟琳·希伦]]（Thelen, 2004）系统剖析美国公共服务在公营实体、非营利组织与表外融资契约上的层叠演化，证实新旧组织与新型管理工具的叠床架屋能够深刻重构公共行政的运行生态。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 15)]]

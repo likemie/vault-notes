@@ -8,29 +8,24 @@ aliases:
 summary: "历史制度主义与比较政治经济学中的渐进制度变迁核心机制；指制度在未经历外生重大危机冲击的情境下，由于日常正常运转持续耗竭其赖以维系的外部前提条件、产生递减收益或超越增长极限，最终累积导致规制效能逐步枯竭瓦解与自我消亡的内生演变过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/institutional-change
   - theme/political-economy
   - theory/institutionalism
   - theme/governance
 related_concepts:
-  - "[[Institutional Displacement]]"
-  - "[[Institutional Layering]]"
   - "[[Institutional Drift]]"
+  - "[[Institutional Displacement]]"
   - "[[Institutional Conversion]]"
-related_theories:
-  - "[[Theory of Gradual Institutional Change]]"
-  - "[[Historical Institutionalism]]"
-related_methods:
-  - "[[Historical-Comparative Method]]"
+  - "[[Institutional Layering]]"
+related_theories: []
+related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Wolfgang Streeck]]"
-  - "[[Kathleen Thelen]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
@@ -88,7 +83,7 @@ updated: 2026-10-11
 
 > [!logic-map]- 制度耗竭内生演变机理
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["制度建立并忠实履行"] --> B["常规运转消耗外部前提资源"]
 >     A --> C["规制普适化引发收益递减"]
 >     B --> D["财政/社会资源枯竭（自我消耗）"]
@@ -109,7 +104,7 @@ updated: 2026-10-11
 > [!concept-lens] 制度生命周期的内生自毁维度
 > 探讨制度在未遭遇外部革命或战争冲击的常态治理中，如何因其成功运转所衍生的资源消耗而走向消亡。
 
-> [!claim] Streeck & Thelen (2005)
+> [!claim] [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]]
 > **内生自我消耗机制** 制度并不总能通过正反馈或报酬递增实现自我强化；制度的稳定维系需要消耗政治与经济资源，当制度的正常运转导致支持其存在的外部前提被逐步侵蚀时，制度将出现递减回报并走向衰竭。以战后欧洲提前退休制度为例，这一政策原本旨在降低青年失业率并维护劳动力市场和平，但该制度越是被广泛使用，缴纳社会保障税的在职人员规模便越小，而领取养老金的人口规模则呈刚性膨胀，最终制度运转自身摧毁了维持其财政平衡的经济前提。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 29–30)]]
 
 ---
@@ -119,7 +114,7 @@ updated: 2026-10-11
 > [!concept-lens] 制度老化的结构性复杂化维度
 > 探讨规制安排随时间推移因不断应对边缘情境而增加特殊豁免，最终导致制度公信力与执行力解体。
 
-> [!claim] Streeck & Thelen (2005)
+> [!claim] [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]]
 > **增长极限与范式衰变机制** 年轻的制度尚需在实践决策中逐步丰富其规则内涵，而老化的制度则常遭遇增长极限；随着情境变迁，决策者为维系既有制度外壳不得不不断追加特例、豁免条件与特殊裁决，正如库恩科学范式衰落期辅助假说的病态累积，导致规制系统变得臃肿不堪，最终在失去社会合法性与行政可操作性的双重重压下走向事实上的枯竭与废弛。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, p. 30)]]
 
 ---
@@ -129,8 +124,8 @@ updated: 2026-10-11
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **自我消耗命题** | 制度成功履行直接耗费外部财政与人口生态支撑 | 福利国家再分配政策与刚性支出体系 | Streeck & Thelen (2005) |
-> | **增长极限命题** | 例外修补泛滥导致规制连贯性与实践可操作性丧失 | 复杂行业监管、劳工保护法规与税收体制 | 施特雷克与希伦 |
+> | **自我消耗命题** | 制度成功履行直接耗费外部财政与人口生态支撑 | 福利国家再分配政策与刚性支出体系 | Wolfgang Streeck; Kathleen Thelen |
+> | **增长极限命题** | 例外修补泛滥导致规制连贯性与实践可操作性丧失 | 复杂行业监管、劳工保护法规与税收体制 | Wolfgang Streeck; Kathleen Thelen |
 
 ---
 
@@ -142,6 +137,15 @@ updated: 2026-10-11
 
 ---
 
+## 经验证据与典型案例
+
+> [!evidence-grid] 制度耗竭的代表性经验案例
+> - **德国提前退休政策与福利国家财政耗竭（自我消耗典范）** 战后德国政府与工会达成默契，通过法定提前退休制度（Vorruhestand 与 Altersteilzeit）促使老龄工人提前退出劳动力市场，以缓解结构性失业并平息劳工抗争；然而随着企业将该制度普遍化为常规减员工具，退休年龄大幅提前，在职纳税人急剧萎缩而养老金刚性支出暴增，推高工资附加税并反向扼杀制造企业国际竞争力，最终迫使施罗德政府启动改革彻底废止该机制。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 29–30)]]
+> - **欧陆战后福利共识的边际收益递减（收益递减典范）** 战后福利国家社会保险机制在覆盖工业蓝领工人的核心群体阶段展现出显著的正向稳定效能；但随着规制扩展至非正规就业与服务业，其维系成本呈现指数级上升，财政转移支付的边际效用不断递减，最终在 1990 年代引发全欧洲范围内的福利开支削减与结构调整。
+> - **集中化行业工资协议向弱势部门的过度延伸（增长极限典范）** 德国金属等支柱产业工会制定的集中集体谈判协议原本依托高端制造业超额利润维系；当工会将同等严苛的工时与工资标准强制延伸至欠发达的前东德地区及边缘服务业时，中小企业无力承受刚性成本，导致集体协议出现雪崩式违约与雇主退会，规制系统因过度扩张而陷入制度耗竭。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, p. 30)]]
+
+---
+
 ## 争议与批评
 
 > [!debates] 学术争议
@@ -149,7 +153,7 @@ updated: 2026-10-11
 > > [!axis] 内生耗竭与外生危机的界限争议
 > > 学界关于制度瓦解究竟属于系统内部资源的自毁过程，抑或本质上仍由外生人口老龄化与宏观经济波动引发存在分歧。
 > >
-> > - **Streeck & Thelen (2005)** 坚持耗竭是由制度正规运作产生的内生后果，制度本身设计逻辑的不自洽构成了自我侵蚀的核心驱动力。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 29–30)]]
+> > - **[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]]** 坚持耗竭是由制度正规运作产生的内生后果，制度本身设计逻辑的不自洽构成了自我侵蚀的核心驱动力。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 29–30)]]
 > > - **Pierson (2004)** 强调时间与长滞后效应在制度收益分配中的调节作用，指出耗竭往往体现为沉没成本与路径依赖难以维系时的被动调整。
 
 > [!warning] 适用局限

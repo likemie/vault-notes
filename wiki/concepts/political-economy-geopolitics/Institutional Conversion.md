@@ -19,16 +19,17 @@ tags:
 related_concepts:
   - "[[Institutional Layering]]"
   - "[[Institutional Drift]]"
-  - "[[Institutional Displacement]]"
-  - "[[Institutional Exhaustion]]"
   - "[[Opportunists]]"
+  - "[[Institutional Displacement]]"
 related_theories:
   - "[[Theory of Gradual Institutional Change]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
+related_persons:
+  - "[[Wolfgang Streeck]]"
+  - "[[Kathleen Thelen]]"
 confidence: high
 status: draft
 created: 2026-10-11
@@ -121,6 +122,16 @@ updated: 2026-10-11
 
 ---
 
+### 命题三　规制机构在宏观竞争压力下向微观竞争力工具内生转换
+
+> [!concept-lens] 制度转换在比较政治经济学中的市场重构维度
+> 探讨劳工保护与社会规制实体在经济全球化冲击下，如何通过功能重定向演变为协助企业提升竞争力的平台。
+
+> [!claim] [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]]
+> **防御性机构向竞争力伙伴的重新部署** 制度转换不仅发生在司法审判中，更是生产体制适应外部压力的关键机制。在市场竞争压力加剧时，原本旨在限制资本特权、捍卫工人法定权益的阶级规制实体（如德国企业理事会，Betriebsräte），在未修改成文法的前提下被劳资双方重新部署，转变为推动工厂内部特许让步（Concession bargaining）、商定弹性工时与共谋削减成本的微观竞争力联盟平台。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 26–28)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -128,6 +139,7 @@ updated: 2026-10-11
 > |---|---|---|---|
 > | **结构生发命题** | 阐明弱否决与高裁量权如何驱动机会主义者选择低成本转换策略 | 司法审查权强大、不成文普通法传统、抽象原则立法的宪制体系 | James Mahoney; Kathleen Thelen |
 > | **能动重定向命题** | 揭示行动者利用立法妥协模糊性反向重构制度功能的微观博弈逻辑 | 宪法权利条款、民权规制、反歧视法、劳资谈判制度 | James Mahoney; Kathleen Thelen; Robert Lieberman |
+> | **竞争力重塑命题** | 阐明劳资规制机构在市场压力下向微观企业竞争力工具的功能转换 | 协调型市场经济体、企业共同决定制、工厂本土保障协议 | Wolfgang Streeck; Kathleen Thelen |
 
 ---
 
@@ -142,6 +154,7 @@ updated: 2026-10-11
 ## 经验证据与典型案例
 
 > [!evidence-grid] 制度转换的代表性经验案例
+> - **德国企业理事会由工人抗争机构向工厂本土竞争力伙伴的转换（企业治理转换典范）** 战后德国《企业宪政法》赋予企业理事会的共同决定权原本用于制衡雇主专权；但在全球化竞争压力下，企业理事会与管理层结成跨阶级同盟，共同签署“工厂本土保障协议”（Standortsicherungsvereinbarungen），通过自愿延长工时或削减浮动工资换取资方不裁员与继续投资承诺，使得这一传统劳工保护机构成功转换为协助企业推行微观成本重组的竞争力工具。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 27–28)]]
 > - **美国宪法州际贸易条款的跨时代司法重塑（宪法功能转换典范）** 美国宪法第 1 条第 8 款跨州贸易条款（Commerce Clause）文本两百年未改，但在新政时期被联邦最高法院重新部署为保障劳工集体谈判与建立最低工资的法理支柱；在 1960 年代民权运动中，进一步被转用为禁止私人旅馆和餐馆实行种族隔离的宪法利器。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 21)]]
 > - **美国 1964 年《民权法》第七章平等就业机会委员会扩权（弱法转用典范）** 罗伯特·利伯曼（Lieberman）考证表明，设立平等就业机会委员会（EEOC）的法定权力最初在国会被保守派妥协阉割，但民权官僚与法官策略性通过个案判例层层拓展法条解释，将原本缺乏强制力的协调机构转用为实施肯定性行动计划的最强规制机器。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 13–14)]]
 > - **19 世纪末德国手工业公会学徒培训制度的工业化转用（技能体系转换典范）** 凯瑟琳·希伦（Thelen, 2004）考证表明，传统封建手工业同业公会培训制度在工业革命中未被废除，而是被新兴机械与高端制造业资本家策略性转用，改造为现代德国双元制职业教育培训体系的基石。

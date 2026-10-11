@@ -7,10 +7,10 @@ aliases:
 summary: "历史制度主义与公共政策分析中的渐进制度变迁核心机制；指正式制度规则在文本层面保持不变，但在外部社会、经济或人口环境发生显著变迁时，由于关键行动者或否决玩家主动疏于维护、更新与修正规约参数，导致制度实际规制效力、保护覆盖面或利益分配后果发生实质性衰变与侵蚀的演进过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/institutional-change
   - theme/governance
@@ -20,15 +20,17 @@ related_concepts:
   - "[[Institutional Layering]]"
   - "[[Institutional Conversion]]"
   - "[[Institutional Displacement]]"
-  - "[[Institutional Exhaustion]]"
   - "[[Symbionts]]"
+  - "[[Institutional Exhaustion]]"
 related_theories:
   - "[[Theory of Gradual Institutional Change]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
+related_persons:
+  - "[[Wolfgang Streeck]]"
+  - "[[Kathleen Thelen]]"
 confidence: high
 status: draft
 created: 2026-10-11
@@ -122,6 +124,16 @@ updated: 2026-10-11
 
 ---
 
+### 命题三　资本主义经济中制度漂移具有内生偏向市场化的结构非对称性
+
+> [!concept-lens] 制度漂移对市场逻辑的单向倾斜维度
+> 探讨为何在市场经济环境下，制度形式上的“无所作为”必然导致非市场的社会规制向私营市场退让。
+
+> [!claim] [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]]
+> **规制不作为对市场力量的单向赋权** 资本主义市场本身是一台处于持续扩张、技术重构与自我演进中的动态机器；任何非市场规制安排要维系既有效能，都必须投入积极的政治资源进行适应性微调。一旦关键行动者行使否决权选择消极不作为，成文法条的冻结绝不会冻结市场进程；相反，未被更新的制度盲区将自动被私营市场力量所占领。因此，资本主义经济中的制度漂移天生具有推动自由化与去规制的结构性非对称偏向。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 24–26, 31–34)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -129,6 +141,7 @@ updated: 2026-10-11
 > |---|---|---|---|
 > | **结构生发命题** | 阐明强否决权与高执行裁量权如何使漂移成为阻力最小的保守策略 | 立法否决点密集、行政执法弹性空间巨大的政治体制 | James Mahoney; Kathleen Thelen |
 > | **权力分配命题** | 揭示不更新与策略性忽视作为隐性削弱制度保护的政治动员工具 | 劳动保障规制、社会福利政策、税收起征点、选举区重划 | Jacob S. Hacker; Kathleen Thelen |
+> | **市场偏向命题** | 阐明市场动态性使得制度不作为自动转化为推进自由化的非对称杠杆 | 先进资本主义经济体、行业工资谈判、金融创新监管 | Wolfgang Streeck; Kathleen Thelen |
 
 ---
 
@@ -144,10 +157,11 @@ updated: 2026-10-11
 ## 经验证据与典型案例
 
 > [!evidence-grid] 制度漂移的代表性经验案例
+> - **德国行业集中集体工资谈判在服务业中的制度漂移（劳资协议漂移典范）** 战后德国《集体协议法》文本长达数十年一字未改，但随着经济结构向现代服务业、信息技术与外包行业转移，雇主协会与保守派利用法律未强制要求新行业签订集体协议的漏洞，故意不予将制造业集体协议覆盖范围延伸至服务业，导致德国集体谈判覆盖率从高峰期的 85% 断崖式跌落至不足 55%，在法律形式完全不变的前提下完成了深刻的劳资自由化漂移。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 25–26)]]
+> - **美国联邦最低工资标准的通胀侵蚀（福利保障漂移典范）** 联邦最低工资法由于缺乏自动与生活成本指数挂钩的法定机制，国会保守派利用参议院议事阻碍机制（Filibuster）长达数年封杀调薪法案，任由持续通胀侵蚀低收入劳动者的实际购买力，完成隐性的财富逆向再分配。（Hacker, 2004; Mahoney & Thelen, 2009, pp. 17–18）
 > - **日本自民党阻挠选举区重划（代议民主漂移典范）** 战后日本经历急剧的城市化与人口大规模向都市圈迁移，自民党为维持其传统农村基本盘，故意阻挠议会根据人口普查重新划分众议院选区；结果造成一人一票价值出现极度失衡（农村选票权重实质扩大数倍），在选举法文本未改的情形下实现对政权的超额掌控。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 17)]]
 > - **美国职业安全与劳工法律执行弹性（行政规制漂移典范）** 联邦《职业安全与健康法》（OSHA）与劳工关系法文本在长周期内保持不变，但保守派总统通过拒绝为监管机构追加预算、迟滞关键委员会空缺任命、发布内部裁量指引放松检查频次，任由通胀与新产业危险侵蚀既有标准，使劳工保护效力发生实质衰变。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 21)]]
 > - **肯尼亚土地凭证文书登记与骗徒悲剧（产权信用漂移典范）** 肯尼亚独立后建立现代土地登记凭证制度，但投机者与政客利用公众对官方盖章文件的盲信伪造地契；政治精英不仅不修补法律防伪漏洞，反而将提供司法保护作为政治寻租筹码，导致土地制度信用体系整体坍塌，演变为骗徒的悲剧。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 13, 25)]]
-> - **美国联邦最低工资标准的通胀侵蚀（福利保障漂移典范）** 联邦最低工资法由于缺乏自动与生活成本指数挂钩的法定机制，国会保守派利用参议院议事阻碍机制（Filibuster）长达数年封杀调薪法案，任由持续通胀侵蚀低收入劳动者的实际购买力，完成隐性的财富逆向再分配。
 
 ---
 

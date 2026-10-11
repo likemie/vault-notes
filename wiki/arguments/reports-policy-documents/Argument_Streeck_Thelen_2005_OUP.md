@@ -25,22 +25,16 @@ related_concepts:
   - "[[Institutional Conversion]]"
   - "[[Institutional Exhaustion]]"
 related_theories:
-  - "[[Theory of Gradual Institutional Change]]"
   - "[[Historical Institutionalism]]"
+  - "[[Theory of Gradual Institutional Change]]"
   - "[[Punctuated Equilibrium Theory]]"
   - "[[Varieties of Capitalism]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
 related_instruments: []
-related_persons:
-  - "[[Wolfgang Streeck]]"
-  - "[[Kathleen Thelen]]"
-  - "[[Paul Pierson]]"
-  - "[[Jacob S. Hacker]]"
-  - "[[Peter A. Hall]]"
+related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
+related_arguments: []
 sources:
   - "[[sources/Streeck_Thelen_2005_OUP/Streeck_Thelen_2005_OUP|Streeck_Thelen_2005_OUP]]"
 part_of:
@@ -53,9 +47,9 @@ title: "Argument_Streeck_Thelen_2005_OUP"
 argument_key: "Argument_Streeck_Thelen_2005_OUP"
 argument_display_title: "Introduction: Institutional change in advanced political economies"
 argument_kind: "book-chapter"
-argument_related_count: 16
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 10
+argument_related_level: 0
+argument_related_stars: ""
 argument_related_color: "#fef3c7"
 journal: ""
 book_title: "Beyond Continuity: Institutional Change in Advanced Political Economies"
@@ -119,7 +113,7 @@ issuing_organization: ""
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["传统理论假定体制高度稳定：<br>将变迁推给外部冲击与间断均衡"] --> B["重新理解制度为社会规制：<br>由制定者、遵守者与第三方强制力共同构成"]
 >     B --> C["发现条文与实际执行之间存在缝隙：<br>认知有限、政治妥协与时间推移拉大差距"]
 >     C --> D["系统提炼五大渐进变迁形态：<br>置换、分层、漂移、转换、耗竭"]

@@ -7,10 +7,10 @@ aliases:
 summary: "历史制度主义与比较政治经济学中的制度变迁核心机制；指通过废除、取消或边缘化既有规则并引入全新规则体系的过程；既包含关键节点上的突发性体制颠覆，也涵盖边缘竞争性新体制通过持续吸引背叛与资源转移、最终累积挤出并彻底取代旧体制的渐进替代过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/institutional-change
   - theme/governance
@@ -19,16 +19,19 @@ tags:
 related_concepts:
   - "[[Institutional Layering]]"
   - "[[Institutional Conversion]]"
-  - "[[Institutional Drift]]"
-  - "[[Institutional Exhaustion]]"
   - "[[Insurrectionaries]]"
-related_theories:
-  - "[[Theory of Gradual Institutional Change]]"
-related_methods:
-  - "[[Correlational Research]]"
+  - "[[Subversives]]"
+  - "[[Institutional Drift]]"
+  - "[[Symbionts]]"
+  - "[[Opportunists]]"
+related_theories: []
+related_methods: []
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
+related_persons:
+  - "[[Wolfgang Streeck]]"
+  - "[[Kathleen Thelen]]"
 confidence: high
 status: draft
 created: 2026-10-11
@@ -121,6 +124,16 @@ updated: 2026-10-11
 
 ---
 
+### 命题三　市场化自由化改革借助个体退出机制享有低阻力置换优势
+
+> [!concept-lens] 自由化置换的集体行动非对称性维度
+> 探讨当代资本主义制度演进中，为何解除规制与私有化置换往往比建立新型集体规制具有更低的政治推进门槛。
+
+> [!claim] [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]]
+> **退出逻辑对比呼吁逻辑的非对称优势** 建立或维系非市场化的集体规制制度，必须克服严重的搭便车困境，动员全社会各阶层承担协调成本并遵循统一的呼吁逻辑（Voice）；而推进新自由主义市场化置换，改革者只需向微观个体提供一个私有替代选项，个体追求利益最大化的退出冲动（Exit）便会自动触发集体制度的瓦解。这种行动门槛的非对称性，使置换成为当代西方国家深入推进市场化改革的特权通道。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 31–34)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -128,6 +141,7 @@ updated: 2026-10-11
 > |---|---|---|---|
 > | **结构匹配命题** | 阐明弱否决可能性与低解释裁量权如何锁定置换路径 | 缺乏强力否决点、法律规则形式刚性明晰的政治经济体制 | James Mahoney; Kathleen Thelen |
 > | **双轨演化命题** | 揭示边际设立新规通过抢夺资源与行动者背叛实现累积替代 | 经济转型转轨、宪制议会改革、双轨制改革体系 | James Mahoney; Kathleen Thelen |
+> | **自由化非对称命题** | 揭示个体退出逻辑赋予私有化与市场化置换极低的政治动员阻力 | 福利国家私有化转型、公共养老金改革、劳动去规制 | Wolfgang Streeck; Kathleen Thelen |
 
 ---
 
@@ -135,7 +149,7 @@ updated: 2026-10-11
 
 > [!dev-timeline] 概念演变
 > - **1980年代–1990年代 — 间断均衡与外生更替范式** 早期新制度主义文献普遍将制度更替界定为外生重大冲击（战争、经济大萧条）摧毁既有制度垄断后的激进外生替代（Punctuated Equilibrium）。
-> - **2005年 — 施特雷克与希伦开启内生类型学探讨** [[Wolfgang Streeck|沃尔夫冈·施特雷克（Wolfgang Streeck）]]与[[Kathleen Thelen|凯瑟琳·希伦（Kathleen Thelen）]]在《超越延续性》（*Beyond Continuity*）导论中首次系统界定置换（Displacement）机制，指出边缘新规则如何通过背叛与入侵逐步挤出旧规则并实现质变。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 19–24)]]
+> - **2005年 — 施特雷克与希伦开启内生类型学探讨** [[Wolfgang Streeck|沃尔夫冈·施特雷克（Wolfgang Streeck）]]与[[Kathleen Thelen|凯瑟琳·希伦（Kathleen Thelen）]]在《超越延续性》（*Beyond Continuity*）导论中首次系统界定置换（Displacement）机制，指出边缘新规则如何通过背叛（Defection）与入侵（Invasion）逐步挤出旧规则并实现质变。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 19–24)]]
 > - **2009年 — 马奥尼与希伦建构因果矩阵与行动者模型** 马奥尼与希伦在《解释制度变迁》中系统界定置换在弱否决、低裁量语境下的因果机制，将起义者确立为主导变革主体，确立双轨竞争置换模型。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 15–16, 23–24)]]
 
 ---
@@ -143,6 +157,8 @@ updated: 2026-10-11
 ## 经验证据与典型案例
 
 > [!evidence-grid] 制度置换的代表性经验案例
+> - **资本积累型私人养老金对现收现付制公共社保的置换（福利私有化置换典范）** 美国与智利保守派并未通过激进立法直接废除公共社会保障，而是通过引入 401(k) 计划与个人退休账户（IRA）；私人投资的高回报吸引了大量中产阶级主动退出公共互助池，将资金转入资本市场，随着私人资产规模膨胀，公共社保体系的政治支持基础被逐步抽干并实现渐进置换。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 22–23)]]
+> - **非工会子公司与外包业务对行业集中集体谈判的挤出（劳资规制置换典范）** 欧洲制造企业在面临全球成本压力时，并未正面废止战后全行业集体工资协议，而是选择在体制外成立不加入雇主协会的无协议子公司，或将零部件制造大规模外包给非工会私营承包商；随着非工会生产网络扩张，传统集中集体谈判的覆盖率被逐步挤压，完成了劳资关系的去中心化置换。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 20–21)]]
 > - **转轨经济中的渐进市场双轨制（边际挤出置换典范）** 中国与古巴在经济转轨初期没有采取休克疗法立即废除国营统购统销，而是在体制外放开非公经济与市场交易轨道；随着越来越多农户与乡镇企业转向市场轨道，市场机制通过更高的配置效率逐步吸纳全社会生产要素，最终彻底废除并置换了传统计划体制。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 16)]]
 > - **英国上议院政治权能的百年渐进剥夺（立宪功能置换典范）** 英国上议院原本作为世袭贵族统治堡垒，在 20 世纪通过 1911 年《议会法》剥夺财政否决权、1958 年设立终身贵族打破血统垄断、2000 年布莱尔政府大幅废除绝大多数世袭席位，使现代民主代表原则在长达一个世纪的连续立法微调中彻底置换了封建特权内核。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–2)]]
 > - **土耳其凯末尔世俗法典替代伊斯兰沙里亚法（激进外生置换典范）** 凯末尔革命后，外生政治精英凭借强大的军事与行政垄断，直接废除奥斯曼帝国的宗教沙里亚法（Sharia），全盘移植瑞士民法典与意大利刑法典，展现了强力起义者主导下的激进直接置换。
