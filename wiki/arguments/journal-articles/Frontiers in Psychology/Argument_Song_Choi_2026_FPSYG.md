@@ -92,6 +92,7 @@ related_facts:
   - "[[Cram Schools]]"
   - "[[Education Resources Information Center]]"
   - "[[Gaokao]]"
+  - "[[Free Semester System]]"
 related_arguments:
   - "[[Argument_Greene_2018_JEP]]"
   - "[[Argument_Chinn_2011_EP]]"
@@ -109,7 +110,7 @@ title: "Argument_Song_Choi_2026_FPSYG"
 argument_key: "Argument_Song_Choi_2026_FPSYG"
 argument_display_title: "A three-level meta-analysis of the association between students’ epistemic cognition and learning outcomes in South Korea"
 argument_kind: "journal-article"
-argument_related_count: 71
+argument_related_count: 72
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -369,7 +370,7 @@ issuing_organization: ""
 >     - **科学探究案例** Kim et al. (2025) 针对 309 名小学 4–6 年级学生的研究证实，具备多维认识论认知的学生表现出强烈的科学探究动机，在实验设计与证据解释中频繁运用深层元认知调节策略。
 >     - **[[Learner Autonomy\|自主学习]]案例** So (2013) 针对 476 名小学四/六年级学生的研究指出，对学习速度和能力的成熟信念直接拉动了学生的自主提问频率（Frequency of Asking Questions）与深层概念建构。
 >   - **转化机制** 宽松的课堂生态与探究导向的教学活动为学生的成熟认知信念提供了直接的应用[[Champ\|场域]]，学生在探究中体验到认知冲突与反思的价值，使认识论认知转化为显著的学业与动机红利。
-> - **二、 初中阶段（Middle School, 7–9 年级，$r = 0.142$）：自由学期制与早期分流的剧烈阵痛**
+> - **二、 初中阶段（Middle School, 7–9 年级，$r = 0.142$）：[[Free Semester System|自由学期制]]与早期分流的剧烈阵痛**
 >   - **课程与制度生态** 尽管韩国在初中推行了“自由学期制（Free Semester System）”以试图缓解应试压力，但初中面临特殊目的高中（Science/Foreign Language High Schools）和自律型私立高中的早期选拔分流，学生过早进入学业分化轨道。
 >   - **影子教育陡增** Park & Kim (2021) 实证数据显示，初中生月均校外学科补习费用从小学阶段的 114.93 美元翻倍暴增至 199.24 美元，大量时间被课外[[Cram Schools\|补习班]]占领。
 >   - **实证案例深入**

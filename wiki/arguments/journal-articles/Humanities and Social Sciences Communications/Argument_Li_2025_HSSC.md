@@ -55,6 +55,7 @@ related_concepts:
   - "[[Policy Window]]"
   - "[[Emergence]]"
   - "[[Global Education Reform Movement]]"
+  - "[[Comprehensive Education]]"
   - "[[Reliability]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -75,25 +76,30 @@ related_persons: []
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
+  - "[[PISA Shock in Germany]]"
+  - "[[PISA Shock in Japan]]"
   - "[[HarmoS]]"
+  - "[[Canadian Education Indicators Program]]"
   - "[[National Assessment of Education Quality China 2007]]"
+  - "[[Loi Fillon 2005]]"
   - "[[Lisbon Strategy]]"
   - "[[Education for All]]"
   - "[[Sputnik Shock 1957]]"
+  - "[[Free Semester System]]"
 related_arguments: []
 sources:
   - "[[sources/Li_2025_HSSC/Li_2025_HSSC|Li_2025_HSSC]]"
 part_of:
 status: draft
 created: 2026-07-05
-updated: 2026-09-12
+updated: 2026-10-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Li_2025_HSSC"
 argument_key: "Argument_Li_2025_HSSC"
 argument_display_title: "The effects of PISA on global basic education reform: A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 57
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -232,15 +238,15 @@ issuing_organization: ""
 >   日本、德国和约旦在 PISA 影响下建立了循证政策制定的新治理模式：教育政策制定不再仅关注原则实现，而是融入了数据驱动的决策[[Paradigm\|范式]]（Yore et al., 2010）。
 
 > [!case] 案例 1：德国 PISA 冲击
-> 德国是 PISA 直接政策影响最突出的案例。Niemann et al.（2017）详细分析了 2000 年 PISA 结果公布后德国的政策回应和辩论：第一次 PISA 显示德国教育体系在有效性和效率上未达到要求的标准，暴露了与高表现国家之间的巨大差距，同时也暴露了教育改革停滞的状态。PISA 结果直接推动了三项产出导向（output-based）改革规范：
+> 德国是 PISA 直接政策影响最突出的案例（详见专门事实条目：[[PISA Shock in Germany]]）。Niemann et al.（2017）详细分析了 2000 年 PISA 结果公布后德国的政策回应和辩论：第一次 PISA 显示德国教育体系在有效性和效率上未达到要求的标准，暴露了与高表现国家之间的巨大差距，同时也暴露了教育改革停滞的状态。PISA 结果直接推动了三项产出导向（output-based）改革规范：
 > - **建立教育标准与集中监测**，引入全国性教育标准并以比较文化范式融入政策制定。
 > - **去顶层化治理**，缩减自上而下的行政层级。
 > - **提高教育标准**，强化[[School Autonomy\|学校自主权]]和扩大实证教育研究。Yore et al.（2010）指出德国的改革反映了从投入导向到产出导向的**范式转换** 教育政策制定不再仅关注原则实现，而是融入了循证政策制定的新治理模式。
 >
 > 德国的改革动力之所以高度令人惊讶，是因为该国传统教育体系和政治以深厚历史遗产、多层利益相关者和改革阻碍制度为特征。自 1970 年代以来，德国一直存在宏大教育改革积压（backlog of grand education reforms），而 PISA 的外部压力**彻底改变了这一局面**。
 
-> [!case] 案例 2：日本
-> 与德国不同，日本在 2003 年第二次 PISA 后意识到问题在于**教育内容**而非制度或组织（Ninomiya, 2019）。1980–1990 年代推行的宽松教育（ゆとり教育, yutori education）导致 20 世纪末日本学生学业水平和学习能力下降，引起教育学家、经济学家和行政官员的广泛关注。2003 年 PISA 结果公布后，众多新闻媒体广泛报道并比较 2003 年与 2000 年的结果：日本学生在多个重点领域的排名下滑（MEXT, 2004），证实了自 1980 年代以来学生学业水平下降和教育危机论的蔓延。
+> [!case] 案例 2：日本 PISA 震荡
+> 与德国不同，日本在 2003 年第二次 PISA 后意识到问题在于**教育内容**而非制度或组织（详见专门事实条目：[[PISA Shock in Japan]] 与 [[PISA Literacy]]；Ninomiya, 2019）。1980–1990 年代推行的宽松教育（ゆとり教育, yutori education）导致 20 世纪末日本学生学业水平和学习能力下降，引起教育学家、经济学家和行政官员的广泛关注。2003 年 PISA 结果公布后，众多新闻媒体广泛报道并比较 2003 年与 2000 年的结果：日本学生在多个重点领域的排名下滑（MEXT, 2004），证实了自 1980 年代以来学生学业水平下降和教育危机论的蔓延。
 >
 > 在 PISA 2003 结果的推动下，**PISA素养（PISA literacy）**概念于 2004 年被正式纳入国家教育政策目标，指阅读和更广泛的课程知识，聚焦问题解决、知识应用、创造性工作和知识回忆等高阶能力（National Institute for Education Policy, 2019）。PISA素养引入了与以往理解不同的新学力概念，即扎实的学力（robust academic proficiency），涉及高阶知识和技能的应用（Ninomiya, 2019）。
 
@@ -248,8 +254,8 @@ issuing_organization: ""
 > - **改善教师教育**
 >   约旦和法国通过建立大学内的教师教育学院来加强教师职前教育和持续专业发展。加拿大延长了教师培训时长（2012 年），同时削减了许多文科和人文学科教师的培训（Baird et al., 2016）。
 > - **对接 PISA 的全国性评估与教学标准审查**
->   - **瑞士 [[HarmoS]]（Interkantonale Vereinbarung über die Harmonisierung der obligatorischen Schule，州际义务教育协调协议，2006 年）** 引入国家教育标准，标志着从投入导向基本原则向以效率和产出控制为目标的底层逻辑的转变（Bieber & Martens, 2011）。
->   - **加拿大[[Performance Indicators\|教育指标]]计划（Canadian Education Indicators Program, CEIP）** 引入与 OECD 报告相同的区域统一指标，包括基于 PISA 的学生成就卓越度（Student Achievement Excellence）指标，PISA 结果成为判断加拿大教育水平是否卓越、政策是否成功的依据（Baird et al., 2016）。
+>   - **瑞士 [[HarmoS]]（Interkantonale Vereinbarung über die Harmonisierung der obligatorischen Schule，州际义务教育协调协议，2006 年）** 引入国家教育标准，标志着从投入导向基本原则向以效率和产出控制为目标的治理范式转变（Bieber & Martens, 2011）。
+>   - **[[Canadian Education Indicators Program|加拿大教育指标计划]]（Canadian [[Performance Indicators|education indicators]] Program, CEIP）** 引入与 OECD 报告相同的区域统一指标，包括基于 PISA 的学生成就卓越度（Student Achievement Excellence）指标，PISA 结果成为判断加拿大教育水平是否卓越、政策是否成功的依据（Baird et al., 2016）。
 >   - **中国 义务教育质量监测中心（[[National Assessment of Education Quality China 2007\|NAEQ]]）**（2007 年）参照 PISA 标准并进行批判性改编，描述了数学、语文、科学、道德、体育和艺术六项学科指标（Xie et al., 2022）。
 > - **强化学校管理监测与持续改进**
 >   PISA 影响了日本学校教育管理体系中**证据—改进循环（evidence-improvement cycle）**的构建：学校管理者关注校内[[Academic Achievement\|学业成就]]，根据设定目标检查教育过程和结果信息，并以这些信息作为证据推动教育管理改进（Ninomiya, 2019）。
@@ -271,7 +277,7 @@ issuing_organization: ""
 > - **协调入学政策或放宽入学标准**
 >   瑞士 HarmoS 纳入了 OECD 促进社会包容和机会均等的建议，要求将义务教育从 9 年延长至 11 年，儿童必须在四岁时入读幼儿园和基础学校（Bieber & Martens, 2011）。
 > - **促进弱势群体在科技领域的平等机会**
->   法国 **Fillon 法案（Loi Fillon，全称 Loi d'orientation et de programme pour l'avenir de l'école，学校未来方向与规划法）**引入了推动机会均等和学校民主化的密集改革措施，包括将低收入家庭本科学位毕业生人数提高 20%、将科技领域女性人数提高 15%（Dobbins & Martens, 2012）。
+>   法国 **Fillon 法案（[[Loi Fillon 2005|Loi Fillon]]，全称 Loi d'orientation et de programme pour l'avenir de l'école，学校未来方向与规划法）**引入了推动机会均等和学校民主化的密集改革措施，包括将低收入家庭本科学位毕业生人数提高 20%、将科技领域女性人数提高 15%（Dobbins & Martens, 2012）。
 > - **增加全日制学校数量和规模**
 >   PISA 对德国教育公平和包容政策的影响包括：推动学生早期进步（特别是社会经济处境不利学生）、改善学生基础技能、加强学前机构与小学合作、质量保证措施、高级教师培训以及扩建全日制学校（Niemann et al., 2017）。
 
@@ -368,7 +374,7 @@ issuing_organization: ""
 > Dobbins & Martens（2012）分析了法国与 OECD 的复杂关系。早期法国公众和政策制定者对 PISA 持**怀疑态度** 认为比较评估存在文化偏见、统计方法不充分、指标过度简化。然而 PISA 最终为法国教育政策带来了新动力。国际比较统计和评估不仅激发了关于法国体系缺陷的广泛公共辩论，还通过提供外国最佳实践的范例为具体教育改革提供了正当性。这一转变适用于旨在使法国教育体系与竞争性知识经济需求接轨的新近改革。在此背景下，对**芬兰模式**的暗示也为左右翼政治力量之间政策雄心的趋同提供了**机会之窗（[[Policy Window|window of opportunity]]）（Dobbins & Martens, 2012）**。法国和英国在 2001 年 PISA 中获得了相似结果，但此后采取了不同策略——法国的改革最终与 OECD 建议趋同，而英国进入了不同的改革路径（Baird et al., 2016）。
 
 > [!case] 案例 4：韩国
-> Kim & Choi（2023）指出韩国政策回应的独特之处：PISA 之前韩国长期默然借用日本教育政策；PISA 2009 推动韩国将注意力转向芬兰，反映了参考社会从东亚邻国向西方高表现国家的**动态转换**。韩国的政治结构特征塑造了其回应方式：政府有非常强势的存在，新兴行动者（教育总督）正在分权化教育政策，教师和家长通过强大工会和频繁选举制衡政府权力，私营企业参与教育是禁忌。这些制度特征使韩国的政策回应融合了与许多西方国家不同的特点。
+> Kim & Choi（2023）指出韩国政策回应的独特之处：PISA 之前韩国长期默然借用日本教育政策；PISA 2009 推动韩国将注意力转向芬兰，反映了参考社会从东亚邻国向西方高表现国家的**动态转换**。韩国的政治结构特征塑造了其回应方式：政府有非常强势的存在，新兴行动者（教育监）正在分权化教育政策，教师和家长通过强大工会和频繁选举制衡政府权力，私营企业参与教育是禁忌。在这一反思高压应试与补习异化的治理背景下，韩国于 2013 年启动并在初中全面推行旨在减轻统考负担、强调体验探究的[[Free Semester System|自由学期制]]（Kim & Choi, 2023）。这些制度特征使韩国的政策回应融合了与许多西方国家不同的特点。
 
 > [!case] 案例 5：美国
 > Bieber & Martens（2011）比较了美国和瑞士的反应，揭示了一个看似矛盾的发现：PISA 对排名不佳的美国影响甚微，却对排名良好的瑞士产生了立即的政策趋同。美国的早期 PISA 发现只是确认了该国早已达成的共识，即美国教育体系低于国际标准，因此国内压力并未因实证发现而加剧。但在 2009 年，PISA 结果成为美国教育讨论的中心。问题的感知变化源自上海（中国）在同一次 PISA 测试中表现优异。作为美国在全球经济市场中最直接的竞争对手，这一表现被解读为中国未来经济产出将超过美国的信号，**直接触发了新一轮美国教育改革（Martens & Niemann, 2013）**。
@@ -397,7 +403,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card]- [[PISA]] 作为决定性分水岭
-> 德国案例："PISA was a decisive watershed in German education policymaking. Almost instantly after the PISA results were publicized in late 2001, a comprehensive education reform agenda was put forward in Germany. The experienced reform dynamic was highly surprising because the traditional German education system and politics were characterized by deep-rooted historical legacies, many involved stakeholders at different levels, and reform-hampering institutions. Hence, a backlog of grand education reforms has prevailed in Germany since the 1970s. The external pressure exerted by PISA completely changed that situation."（Niemann et al., 2017, pp.175–183）
+> 德国案例："PISA was a decisive watershed in German education policymaking. Almost instantly after the PISA results were publicized in late 2001, a [[Comprehensive Education]] reform agenda was put forward in Germany. The experienced reform dynamic was highly surprising because the traditional German education system and politics were characterized by deep-rooted historical legacies, many involved stakeholders at different levels, and reform-hampering institutions. Hence, a backlog of grand education reforms has prevailed in Germany since the 1970s. The external pressure exerted by PISA completely changed that situation."（Niemann et al., 2017, pp.175–183）
 
 > [!citation-card]- 三层机制的核心逻辑
 > "The specific mechanism of the impact of PISA-related education policies is driven by the international political background established by the supranational [[OECD]], the [[Policy Borrowing]] behavior from model societies at the nation-state level, and the effective information translation of internal actor networks."

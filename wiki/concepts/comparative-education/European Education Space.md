@@ -8,7 +8,7 @@ aliases:
 summary: "欧洲教育空间是指在欧洲一体化与超国家治理进程中，由欧盟委员会与OECD通过数据基础设施、资格框架、开放协调机制以及学术流动项目共同建构的功能性与象征性治理空间；该概念打破了将欧洲教育视为单一主权国家集合的地理假定，揭示了数据互认与跨国流动如何既建构出共同的欧洲公民身份想象，又在后发成员国亲欧修辞对标下掩盖主权防御与学术近亲繁殖。"
 type: concept
 domain: "comparative-education"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Student Mobility]]"
   - "[[Teacher Mobility]]"
+  - "[[Plaintive Comparison]]"
   - "[[Competitiveness]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
@@ -165,7 +166,7 @@ graph TD
 > 探讨欧洲联盟教育权能的法律宪制边界，以及后发成员国如何利用欧洲教育空间作为修辞工具掩盖本土制度惰性与保护主义。
 
 > [!claim] [[José Luis García Garrido|García Garrido]], J. L.
-> **主权防线与亲欧修辞借用** García Garrido 论证指出，在法理与现实运行中，欧洲联盟在教育领域绝非凌驾于各国的超国家中央集权实体，其教育维度本质上不过是所有成员国教育体系的总和（none other than the sum of all its parts）。《马斯特里赫特条约》明确将教育主权完整保留在成员国手中，布鲁塞尔缺乏干涉成员国核心学制与课程的宪制权能。然而，在以西班牙为代表的后发转型国家中，欧洲教育空间与欧洲标准被执政精英高度符号化，成为国内立法前言中频密征引的亲欧修辞（Europeanist rhetoric）。这种修辞往往沦为诉苦式比较与掩盖体制改革迟滞的虔诚托辞（pious excuse）。在实践层面，所谓的高等教育趋同被降格为形式主义对齐：高校表面上全面采纳[[Bologna Process|博洛尼亚进程]]（Bologna Process）三级学位架构与欧洲学分互认体系（European Credit Transfer and Accumulation System，ECTS），但内部却长期受困于高达 95% 教师留校任教的学术近亲繁殖（inbreeding）以及地方保护壁垒；而西班牙在[[Erasmus Programme|伊拉斯谟计划]]中看似繁荣的留学生吸引力，实质上高度依赖温和气候与廉价生活成本等非学术禀赋，掩盖了高校教学科研国际[[Competitiveness|竞争力]]的真实落后。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–325, 332–333)]]
+> **主权防线与亲欧修辞借用** García Garrido 论证指出，在法理与现实运行中，欧洲联盟在教育领域绝非凌驾于各国的超国家中央集权实体，其教育维度本质上不过是所有成员国教育体系的总和（none other than the sum of all its parts）。《马斯特里赫特条约》明确将教育主权完整保留在成员国手中，布鲁塞尔缺乏干涉成员国核心学制与课程的宪制权能。然而，在以西班牙为代表的后发转型国家中，欧洲教育空间与欧洲标准被执政精英高度符号化，成为国内立法前言中频密征引的亲欧修辞（Europeanist rhetoric）。这种修辞往往沦为[[Plaintive Comparison|诉苦式比较]]与掩盖体制改革迟滞的虔诚托辞（pious excuse）。在实践层面，所谓的高等教育趋同被降格为形式主义对齐：高校表面上全面采纳[[Bologna Process|博洛尼亚进程]]（Bologna Process）三级学位架构与欧洲学分互认体系（European Credit Transfer and Accumulation System，ECTS），但内部却长期受困于高达 95% 教师留校任教的学术近亲繁殖（inbreeding）以及地方保护壁垒；而西班牙在[[Erasmus Programme|伊拉斯谟计划]]中看似繁荣的留学生吸引力，实质上高度依赖温和气候与廉价生活成本等非学术禀赋，掩盖了高校教学科研国际[[Competitiveness|竞争力]]的真实落后。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–325, 332–333)]]
 
 ---
 

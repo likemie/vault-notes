@@ -9,7 +9,7 @@ summary: "西班牙比较教育学家，曾任欧洲比较教育学会主席与�
 type: person
 nationality: spain
 person_region: "spain"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Evaluation Research]]"
   - "[[Comprehensive Education]]"
+  - "[[Plaintive Comparison]]"
   - "[[Educational Decentralization]]"
   - "[[Discourse]]"
 related_facts:
@@ -84,7 +85,7 @@ updated: 2026-10-11
 > [!claim] 核心主张
 > 西班牙教育现代化的关键瓶颈在于内部政治行政制度的解耦与政策反复推倒重来，而非单纯的财政投入匮乏；面对欧洲趋同诉求，盲目复制地方分权与延长均质综合中学的做法不仅未能实现教育质量提升，反而导致行政机构极度臃肿、学业失败率居高不下以及高校学术近亲繁殖。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–333)]]
 
-> [!citation-card] 诉苦式比较与政治发展滞后论
+> [!citation-card] [[Plaintive Comparison|诉苦式比较]]与政治发展滞后论
 > 西班牙存在将教育不发达单纯归咎于政治不发达的古老思维定式。立法文本与社会批评极度沉溺于诉苦式比较，对标欧洲往往沦为承认自身在规范与实施上落后于邻国的谦卑借口，却掩盖了频繁政党更迭所导致的政策废立无常与深层行政痼疾。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 324–325)]]
 >
 > *In Spain educational comparisons are of a highly plaintive nature... underdevelopment in education was and is seen as the result of an underdeveloped politics.*

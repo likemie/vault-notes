@@ -6,7 +6,7 @@ aliases:
 summary: "描述全球教育改革向标准化、问责、市场化和私有化集中的批判性术语，常用于分析新自由主义政策如何重塑学校制度"
 type: concept
 domain: "educational-policy-reform"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -49,6 +49,7 @@ related_facts:
   - "[[National Assessment of Education Quality China 2007]]"
   - "[[OECD]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Canadian Education Indicators Program]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[Rose Report]]"
 related_arguments:
@@ -56,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-09-29
+updated: 2026-10-11
 ---
 
 # Global Education Reform Movement
@@ -159,7 +160,7 @@ updated: 2026-09-29
 > 日本 1980–1990 年代的宽松教育（yutori education）在 PISA 2003 结果公布后受到质疑，PISA 素养概念于 2004 年被纳入国家课程目标（Ninomiya, 2019）。PISA 进一步影响了日本学校教育管理体系中证据—改进循环（evidence-improvement cycle）的构建——学校管理者以[[Academic Achievement\|学业成就]]数据为证据推动管理改进，体现了 GERM 的标准化课程和测试问责在日本教育体系中的制度化（[[Argument_Li_2025_HSSC\|Li et al., 2025]]）。
 
 > [!case] 瑞士、挪威与加拿大：评估基础设施的 GERM 化
-> 瑞士通过 [[HarmoS]]（Interkantonale Vereinbarung über die Harmonisierung der obligatorischen Schule）引入全国统一教育标准和延长义务教育（9→11 年），标志着从投入导向到产出控制的范式转变（Bieber & Martens, 2011）。加拿大 CEIP 引入基于 PISA 的学生成就卓越度指标（Baird et al., 2016）。挪威同样在 PISA 影响下建立了国家教育质量监测体系。展示了 GERM 的标准化评估和问责逻辑如何通过 PISA 在全球范围内获得制度基础设施（[[Argument_Li_2025_HSSC\|Li et al., 2025]]）。
+> 瑞士通过 [[HarmoS]]（Interkantonale Vereinbarung über die Harmonisierung der obligatorischen Schule）引入全国统一教育标准和延长义务教育（9→11 年），标志着从投入导向到产出控制的范式转变（Bieber & Martens, 2011）。加拿大 [[Canadian Education Indicators Program|CEIP]] 引入基于 PISA 的学生成就卓越度指标（Baird et al., 2016）。挪威同样在 PISA 影响下建立了国家教育质量监测体系。展示了 GERM 的标准化评估和问责逻辑如何通过 PISA 在全球范围内获得制度基础设施（[[Argument_Li_2025_HSSC\|Li et al., 2025]]）。
 
 > [!case] "饥饿-危机-私有化"循环的落地
 > GERM 通过对公立学校公共拨款的"饥饿疗法"，导致弱势学区在标准化测试中表现不佳，随后利用哈蒂的效应量等排名数据将原因归结为"教师没有采用科学的、高效的教学方法"，施加强大的问责与整顿，最终为公立体系引入私有化运作和企业管理让路。

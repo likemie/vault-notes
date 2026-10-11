@@ -1296,6 +1296,16 @@
     ]
   },
   {
+    "title": "Plaintive Comparison",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Plaintive Comparison.md",
+    "aliases": [
+      "诉苦式比较",
+      "怨叹式比较",
+      "Comparación quejumbrosa"
+    ]
+  },
+  {
     "title": "Policy Borrowing",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Policy Borrowing.md",
@@ -27119,6 +27129,16 @@
     ]
   },
   {
+    "title": "Canadian Education Indicators Program",
+    "type": "fact",
+    "path": "wiki/facts/canada/Canadian Education Indicators Program.md",
+    "aliases": [
+      "加拿大教育指标计划",
+      "CEIP",
+      "Programme d'indicateurs de l'éducation au Canada"
+    ]
+  },
+  {
     "title": "Chilean Educational Reform of 1981",
     "type": "fact",
     "path": "wiki/facts/chile/Chilean Educational Reform of 1981.md",
@@ -28104,6 +28124,18 @@
     ]
   },
   {
+    "title": "Loi Fillon 2005",
+    "type": "fact",
+    "path": "wiki/facts/france/Loi Fillon 2005.md",
+    "aliases": [
+      "2005年学校未来方向与规划法",
+      "菲永法案",
+      "Fillon Law",
+      "Loi Fillon",
+      "Loi n° 2005-380 du 23 avril 2005"
+    ]
+  },
+  {
     "title": "Report on the State of Public Instruction in Prussia",
     "type": "fact",
     "path": "wiki/facts/france/Report on the State of Public Instruction in Prussia.md",
@@ -28147,6 +28179,17 @@
       "埃克蜂群观测",
       "埃克蜂群",
       "Eck Swarm"
+    ]
+  },
+  {
+    "title": "PISA Shock in Germany",
+    "type": "fact",
+    "path": "wiki/facts/germany/PISA Shock in Germany.md",
+    "aliases": [
+      "德国国际学生评估项目震荡",
+      "德国国际学生评估项目冲击",
+      "PISA-Schock in Deutschland",
+      "German PISA Shock"
     ]
   },
   {
@@ -29684,6 +29727,17 @@
     ]
   },
   {
+    "title": "PISA Shock in Japan",
+    "type": "fact",
+    "path": "wiki/facts/japan/PISA Shock in Japan.md",
+    "aliases": [
+      "日本国际学生评估项目震荡",
+      "日本国际学生评估项目冲击",
+      "PISAショック",
+      "Japanese PISA Shock"
+    ]
+  },
+  {
     "title": "Imperial Universities",
     "type": "fact",
     "path": "wiki/facts/japan/Imperial Universities.md",
@@ -30406,6 +30460,28 @@
     "aliases": [
       "讲华语运动",
       "Singapore Speak Mandarin Campaign"
+    ]
+  },
+  {
+    "title": "Free Semester System",
+    "type": "fact",
+    "path": "wiki/facts/south-korea/Free Semester System.md",
+    "aliases": [
+      "自由学期制",
+      "韩国初中自由学期制",
+      "자유학기制",
+      "자유학기제"
+    ]
+  },
+  {
+    "title": "PISA Response in Spain",
+    "type": "fact",
+    "path": "wiki/facts/spain/PISA Response in Spain.md",
+    "aliases": [
+      "西班牙对国际学生评估项目的政策反应",
+      "西班牙国际学生评估项目应对",
+      "PISA in Spain",
+      "Spanish PISA Response"
     ]
   },
   {

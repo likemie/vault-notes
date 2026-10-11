@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "PISA",
+      "path": "wiki/facts/global/PISA.md"
+    },
+    {
+      "basename": "PISA Shock",
+      "path": "wiki/concepts/comparative-education/PISA Shock.md"
+    },
+    {
+      "basename": "PISA Response in Spain",
+      "path": "wiki/facts/spain/PISA Response in Spain.md"
+    },
+    {
       "basename": "Argument_Garcia_Garrido_2009_SpainEU",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md"
     },
     {
-      "basename": "PISA",
-      "path": "wiki/facts/global/PISA.md"
+      "basename": "State Educational Sovereignty",
+      "path": "wiki/concepts/comparative-education/State Educational Sovereignty.md"
     },
     {
       "basename": "Argument_Li_2025_HSSC",
@@ -187,18 +199,6 @@
     {
       "basename": "Comparative Policy Analysis",
       "path": "wiki/methods/qualitative/Comparative Policy Analysis.md"
-    },
-    {
-      "basename": "Lefebvre's Spatial Triad",
-      "path": "wiki/theories/sociology-of-education/Lefebvre's Spatial Triad.md"
-    },
-    {
-      "basename": "Student Mobility",
-      "path": "wiki/concepts/comparative-education/Student Mobility.md"
-    },
-    {
-      "basename": "Argument_Mattheou_2009_ScientificParadigm",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md"
     }
   ],
   "omittedPaths": [],
