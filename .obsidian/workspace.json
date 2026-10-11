@@ -272,6 +272,8 @@
   },
   "active": "9fa9dc0454e1193e",
   "lastOpenFiles": [
+    "sources/Streeck_Thelen_2005_OUP/figures/Streeck_Thelen_2005_OUP_Fig1_2_Institutions_as_Regimes.png",
+    "sources/Streeck_Thelen_2005_OUP/figures/Streeck_Thelen_2005_OUP_Fig1_1_Types_of_Institutional_Change.png",
     "sources/Streeck_Thelen_2005_OUP/figures",
     "sources/Streeck_Thelen_2005_OUP/Streeck_Thelen_2005_OUP.pdf",
     "sources/Streeck_Thelen_2005_OUP/Streeck_Thelen_2005_OUP.md",
@@ -308,7 +310,6 @@
     "books/Popkewitz_2005_Palgrave/Popkewitz_2005_Palgrave.pdf",
     "books/Popkewitz_2005_Palgrave",
     "raw/Popkewitz_2005_Palgrave_txt/manifest.json",
-    "raw/Popkewitz_2005_Palgrave_txt/Ch12_Ohkura_Dewey_and_Modern_Japan.txt",
     "sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig_NISE_Network.jpg",
     "sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig_Computing_Power_3DHI.png",
     "sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig_ENIAC.jpg",
@@ -316,7 +317,6 @@
     "sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig2_Integrated_Design_Stack.jpg",
     "sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig1_Technology_Development_Pathway.png",
     "tmp_figures/page_45_Im0.jpg",
-    "tmp_figures/page_20_Im0.jpg",
-    "tmp_figures/page_19_Im0.png"
+    "tmp_figures/page_20_Im0.jpg"
   ]
 }

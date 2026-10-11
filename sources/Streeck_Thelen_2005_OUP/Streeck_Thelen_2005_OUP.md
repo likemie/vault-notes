@@ -1,6 +1,7 @@
 ---
 citation: "Streeck, W., & Thelen, K. (2005). Introduction: Institutional change in advanced political economies. In W. Streeck & K. Thelen (Eds.), Beyond continuity: Institutional change in advanced political economies (pp. 1–39). Oxford: Oxford University Press."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Streeck_Thelen_2005_OUP]]"
 processed_date: 2026-10-11
 ---
 
