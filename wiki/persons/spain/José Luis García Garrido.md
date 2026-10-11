@@ -9,7 +9,7 @@ summary: "西班牙比较教育学家，曾任欧洲比较教育学会主席与�
 type: person
 nationality: spain
 person_region: "spain"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -31,7 +31,6 @@ related_facts:
   - "[[General Act of Education of 1970]]"
   - "[[IEA]]"
   - "[[PISA]]"
-  - "[[Organic Law on the General Organization of the Education System 1990]]"
 related_arguments:
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
 confidence: high
@@ -65,7 +64,7 @@ updated: 2026-10-11
 > - **1970–1980s** 亲历 1970 年《[[General Act of Education of 1970|普通教育法]]》出台与民主转型，在西班牙国家远程教育大学开创比较教育学教席。
 > - **1988–1992** 当选并担任[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）主席，推动南欧比较教育学人融入欧洲学术对话网络。
 > - **1990s** 出任西班牙国家教育质量与[[Evaluation Research|评估研究]]所（INCE）首任主任，领导西班牙早期参与国际大规模学生学业评价（[[IEA|国际教育成就评价协会]]［International Association for the Evaluation of Educational Achievement, IEA］与早期[[PISA|国际学生评估项目]]［PISA］）。
-> - **2006** 出版代表作《教育机器》（*La máquina de la educación*），系统批判 1990 年《[[Organic Law on the General Organization of the Education System 1990|教育体制总组织法]]》以来的行政分权膨胀与质量平庸。
+> - **2006** 出版代表作《教育机器》（*La máquina de la educación*），系统批判 1990 年《教育体制总组织法》以来的行政分权膨胀与质量平庸。
 > - **2009** 在《比较教育学国际手册》发表《欧洲联盟与西班牙教育》，总结西班牙教育融入欧洲进程中的结构性困境。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–334)]]
 
 ---

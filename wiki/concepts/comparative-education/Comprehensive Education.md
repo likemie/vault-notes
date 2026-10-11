@@ -10,7 +10,7 @@ aliases:
 summary: "打破按能力或社会阶层过早分流、在统一学校内向所有适龄学生提供相同或共通基础课程的教育组织原则；欧洲战后普遍通过综合化改革促进教育民主化与社会融合，但其实施过程中在追求形式平等与应对学生资质异质性之间持续面临张力。"
 type: concept
 domain: "comparative-education"
-related_count: 13
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -151,7 +151,7 @@ updated: 2026-10-11
 > [!dev-timeline] 概念演变
 > - **1950–1960 年代 — 战后欧洲综合中学运动萌发** 英国工党政府推行综合中学政策（Comprehensive Schools），瑞典率先完成 9 年一贯制综合基础学校改革，旨在打破 11 岁考试（[[Eleven-plus Exam|Eleven-plus]]）等早熟分流体制对工薪阶层的制度性淘汰。
 > - **1970 年代 — 南欧转型国家确立综合原则** 西班牙 1970 年《[[General Act of Education of 1970|普通教育法]]》（[[General Act of Education of 1970|LGE]]）在初等学段确立综合教育原则，将基础教育统一整合为 8 年。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 323)]]
-> - **1980–1990 年代 — 义务教育延长与均质化硬性推行** 西班牙 1990 年《教育体制总体组织法》（[[Organic Law on the General Organization of the Education System 1990|LOGSE]]）将义务教育延长至 16 岁，并强制实施单一且相同的综合课程，取消 14 岁实质分流。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
+> - **1980–1990 年代 — 义务教育延长与均质化硬性推行** 西班牙 1990 年《[[Organic Law on the General Organization of the Education System 1990|教育体制总体组织法]]》（[[Organic Law on the General Organization of the Education System 1990|LOGSE]]）将义务教育延长至 16 岁，并强制实施单一且相同的综合课程，取消 14 岁实质分流。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
 > - **2000 年代至今 — 均质化反思与多样化修正** 英法等国通过高中模块化深度研习或初中后期选修强化拔尖与因材施教；比较教育学者（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009]]）批判均质综合制导致的学业抗拒者泛滥与学术平庸化。
 
 ---

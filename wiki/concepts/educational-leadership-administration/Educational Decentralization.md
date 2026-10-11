@@ -9,10 +9,10 @@ aliases:
 summary: "国家教育行政权力从中央政府向地方区域、市镇或基层学校转移的制度化治理重构；旨在提升行政响应效率与公民民主参与，但在实践中常面临治理碎片化、官僚体系膨胀以及国家教育空间解体的结构性风险。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept
   - educational-governance
