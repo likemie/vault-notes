@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Garcia_Garrido_2009_SpainEU",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md"
+    },
+    {
+      "basename": "European Education Space",
+      "path": "wiki/concepts/comparative-education/European Education Space.md"
+    },
+    {
+      "basename": "Argument_Kazamias_2009_HistoricalReflections",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_HistoricalReflections.md"
+    },
+    {
+      "basename": "Argument_Mitter_2009_Europe",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mitter_2009_Europe.md"
+    },
+    {
+      "basename": "Argument_Olmos_Torres_2009_StateTheories",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Olmos_Torres_2009_StateTheories.md"
+    },
+    {
+      "basename": "Argument_Rust_2009_Reflections",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rust_2009_Reflections.md"
+    },
+    {
+      "basename": "Argument_Sobe_Fischer_2009_MobilityMigration",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Sobe_Fischer_2009_MobilityMigration.md"
+    },
+    {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic",
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md"
     },
@@ -89,10 +117,6 @@
       "path": "wiki/theories/educational-policy-reform/Punctuated Equilibrium Theory.md"
     },
     {
-      "basename": "Argument_Sobe_Fischer_2009_MobilityMigration",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Sobe_Fischer_2009_MobilityMigration.md"
-    },
-    {
       "basename": "Fieldwork",
       "path": "wiki/methods/qualitative/Fieldwork.md"
     },
@@ -123,10 +147,6 @@
     {
       "basename": "Robert J. Gordon",
       "path": "wiki/persons/us/Robert J. Gordon.md"
-    },
-    {
-      "basename": "European Education Space",
-      "path": "wiki/concepts/comparative-education/European Education Space.md"
     },
     {
       "basename": "Governmentality",
@@ -165,24 +185,8 @@
       "path": "wiki/concepts/comparative-education/Student Mobility.md"
     },
     {
-      "basename": "Argument_Rust_2009_Reflections",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rust_2009_Reflections.md"
-    },
-    {
-      "basename": "Argument_Olmos_Torres_2009_StateTheories",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Olmos_Torres_2009_StateTheories.md"
-    },
-    {
-      "basename": "Argument_Mitter_2009_Europe",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mitter_2009_Europe.md"
-    },
-    {
       "basename": "Argument_Mattheou_2009_ScientificParadigm",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md"
-    },
-    {
-      "basename": "Argument_Kazamias_2009_HistoricalReflections",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_HistoricalReflections.md"
     },
     {
       "basename": "Argument_Kazamias_2009_ForgottenThemes",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Cowen(Ed.)_2009_Springer",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Cowen(Ed.)_2009_Springer.md"
-    },
-    {
-      "basename": "Argument_Cowen_2009_HistoryCreation",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Cowen_2009_HistoryCreation.md"
     }
   ],
   "omittedPaths": [],
