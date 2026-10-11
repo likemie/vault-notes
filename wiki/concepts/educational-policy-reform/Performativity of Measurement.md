@@ -38,6 +38,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Ways of Knowing]]"
   - "[[Learning Intentions]]"
+  - "[[Comprehensive Education]]"
   - "[[Neo-Taylorism]]"
 related_theories:
   - "[[Sociology of Measurement]]"
@@ -195,7 +196,7 @@ updated: 2026-10-08
 > [[Argument_Møller_2017_EERJ\|Møller (2017, p.382)]]识别了绩效测量在教育中引发的根本张力：
 >
 > - **一方** 竞争与私有化[[Discourse|话语]]（支撑[[New Public Management\|新公共管理]]），绩效测量作为市场选择和资源分配的技术手段
-> - **另一方** 根植于社会民主意识形态的话语（公平、参与、综合教育），关注教育作为公共产品
+> - **另一方** 根植于社会民主意识形态的话语（公平、参与、[[Comprehensive Education|综合教育]]），关注教育作为公共产品
 >
 > Møller 论证必须理解维持教育作为公共产品的条件和过程，并质疑当前的绩效问责体系是否正在以牺牲公平为代价来追求可测量的成绩提升([[Argument_Møller_2017_EERJ\|Møller, 2017, p.382-383]])。
 >

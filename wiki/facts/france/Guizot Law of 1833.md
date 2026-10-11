@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Normal School]]"
   - "[[Document]]"
+  - "[[Comprehensive Education]]"
   - "[[Bildung]]"
   - "[[Policy Borrowing]]"
   - "[[Educational Meliorism]]"
@@ -96,7 +97,7 @@ updated: 2026-09-17
 
 > [!timeline] 政策时间线
 > - **1806** 普鲁士耶拿战败濒临亡国，统治精英确立以国民教育重振民族精神的国家理性，拉开现代公共教育机器重构序幕。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 24–26)]]
-> - **1819** 普鲁士枢密顾问官[[Johann Wilhelm Süvern\|聚芬]]起草划时代的综合教育法案草案（Süvern Law），奠定义务公立学校、市镇维持责任与师范建制的制度原型。
+> - **1819** 普鲁士枢密顾问官[[Johann Wilhelm Süvern\|聚芬]]起草划时代的[[Comprehensive Education|综合教育]]法案草案（Süvern Law），奠定义务公立学校、市镇维持责任与师范建制的制度原型。
 > - **1830** 法国爆发七月革命，路易-菲利普建立自由主义立宪君主政体，基佐与[[Victor Cousin\|库森]]进入政府决策中枢。
 > - **1831** 库森受命作为官方正式外交使节赴德意志考察，发表《普鲁士公共教育现状报告》，建议将[[Prussian Draft Education Law of 1819\|聚芬法案]]作为法国立法蓝本。（Brewer, 1971:44; pp. 26–28）
 > - **1833** 基佐与库森合作完成法案起草，国民议会审议通过《初等教育法》（基佐法案），正式确立国民教育法定建制。

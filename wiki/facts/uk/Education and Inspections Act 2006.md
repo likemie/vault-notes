@@ -21,6 +21,7 @@ tags:
 - region/uk
 - level/k12
 related_concepts:
+  - "[[Comprehensive Education]]"
   - "[[Selective Education]]"
 related_theories: []
 related_methods: []
@@ -63,7 +64,7 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - 该法案体现了工党政府对综合教育的支持立场，与保守党对选择性教育的偏好形成政党政治分界
+> - 该法案体现了工党政府对[[Comprehensive Education|综合教育]]的支持立场，与保守党对选择性教育的偏好形成政党政治分界
 > - 保守党 2017 年宣言承诺取消禁令，但截至 Bainbridge et al.（2022）研究完成，法律修改尚未实现
 > - SSEF 的创设被批评为在法律灰色地带运作——技术上未违反禁令，但实质效果上实现[[Grammar School\|文法学校]]扩展
 

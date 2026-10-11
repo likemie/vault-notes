@@ -24,6 +24,7 @@ related_concepts:
   - "[[Teaching Assistant]]"
   - "[[Hypothesis]]"
   - "[[Implementation Fidelity]]"
+  - "[[Comprehensive Education]]"
   - "[[Heterogeneity]]"
   - "[[Determinism]]"
   - "[[Evidence-Based Reform]]"
@@ -174,7 +175,7 @@ updated: 2026-09-17
 > - **2004 年 — 联邦法案法定确立** 美国国会修订《个体残疾人教育法》（IDEA 2004），正式将 RTI 确立为各州判定特定学习障碍（Specific Learning Disabilities, SLD）的法定替代途径。
 > - **2006–2014 年 — 全国推广与评估争议** 全美绝大多数学区相继出台 RTI 指南；然而 2015 年 [[National Center for Education Evaluation and Regional Assistance\|NCEE]] 全国评估报告指出，早期实施由于缺乏保真度与具体方案，干预效果微弱甚至产生负向效应。
 > - **2015 年 — [[Every Student Succeeds Act\|ESSA]] [[Evidence Standards\|证据标准]]注入** 《每一个学生成功法》（ESSA）通过，正式建议学校在实施 RTI 时，各层级所采用的教学方案必须符合国家四级证据标准。
-> - **2019 年 — [[Response to Proven Instruction\|RTPI]] 循证升级方案成型** [[Robert Slavin\|罗伯特·斯莱文]]正式提出 RTPI（Response to Proven Instruction），系统整合近百项符合 ESSA 强/中标准的阅读与数学干预项目，将 RTI 改造为以循证产品为底座的综合教育改革方案。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 27–28)]]
+> - **2019 年 — [[Response to Proven Instruction\|RTPI]] 循证升级方案成型** [[Robert Slavin\|罗伯特·斯莱文]]正式提出 RTPI（Response to Proven Instruction），系统整合近百项符合 ESSA 强/中标准的阅读与数学干预项目，将 RTI 改造为以循证产品为底座的[[Comprehensive Education|综合教育]]改革方案。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 27–28)]]
 
 ---
 

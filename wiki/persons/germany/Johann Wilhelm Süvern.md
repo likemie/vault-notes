@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Bildung]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Comprehensive Education]]"
   - "[[Dual School System]]"
   - "[[Normal School]]"
   - "[[State Educational Sovereignty]]"
@@ -65,7 +66,7 @@ updated: 2026-10-08
 > [!person-profile] 人物档案
 > - **身份位置** 普鲁士枢密顾问官（Geheimer Oberregierungsrat）、宗教与教育事务部学校司司长，德国新人文主义教育改革家与法制规划者。
 > - **核心角色** 普鲁士后耶拿时期（1806 年战败后）国家现代化重组与国民教育体系的制度总建筑师；将威廉·冯·洪堡（Wilhelm von Humboldt）的新人文主义全人[[Bildung\|教化]]理念[[Transfer Translation Transformation\|转译]]为国家法律规程与行政制度架构。
-> - **代表贡献** 主持起草著名的《1819 年普鲁士综合教育法草案》（*Entwurf eines allgemeinen Gesetzes über die Verfassung des Schulwesens im preußischen Staate*），确立世俗国家对教育的最高监督主权、市镇法定办学义务、初等小学与市民学校[[Dual School System\|双轨学制]]架构，以及各省公立[[Normal School\|师范学校]]网络，成为[[Victor Cousin\|维克多·库森]]（Victor Cousin）赴德考察并推行法国国家教育改革的核心技术母本。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 26–29)]]
+> - **代表贡献** 主持起草著名的《1819 年普鲁士[[Comprehensive Education|综合教育]]法草案》（*Entwurf eines allgemeinen Gesetzes über die Verfassung des Schulwesens im preußischen Staate*），确立世俗国家对教育的最高监督主权、市镇法定办学义务、初等小学与市民学校[[Dual School System\|双轨学制]]架构，以及各省公立[[Normal School\|师范学校]]网络，成为[[Victor Cousin\|维克多·库森]]（Victor Cousin）赴德考察并推行法国国家教育改革的核心技术母本。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 26–29)]]
 
 > [!citation-card] 人物定位的关键来源：库森对聚芬 1819 年草案的极高推崇
 > 维克多·库森在其 1831 年普鲁士考察报告中，盛赞聚芬草案不仅条理严谨、包罗万象，更是欧陆所有关于初等国民教育法案中无出其右的典范：该法案未遗漏任何关键公共利益，是其所见最详尽、最完备的初等国民教育法律文件，其深邃智慧令人叹服。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 28–29)]]；引自 Cousin (1930:205–206)
@@ -79,7 +80,7 @@ updated: 2026-10-08
 > [!timeline] 生平与职涯
 > - **1775** 出生于东普鲁士；早年在柯尼斯堡大学学习，深受[[Immanuel Kant\|康德]]先验哲学与古希腊人文主义学术熏陶。
 > - **1809–1810** 普鲁士因耶拿之战遭遇军事惨败后启动施泰因-哈登贝格现代化改革；聚芬加入普鲁士内政部宗教与公教司，与威廉·冯·洪堡紧密共事，负责起草中等学校与国民学校改革规程。
-> - **1817–1819** 普鲁士新设独立的宗教、教育与医疗事务部（由阿尔滕施泰因男爵领导）；聚芬升任枢密顾问官兼学校司司长，历时两年全面起草《1819 年普鲁士综合教育法草案》，构建统摄全境的大一统公共教育法典。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 26–27)]]
+> - **1817–1819** 普鲁士新设独立的宗教、教育与医疗事务部（由阿尔滕施泰因男爵领导）；聚芬升任枢密顾问官兼学校司司长，历时两年全面起草《1819 年普鲁士[[Comprehensive Education|综合教育]]法草案》，构建统摄全境的大一统公共教育法典。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 26–27)]]
 > - **1820–1829** 随着《卡尔斯巴德决议》出台与神圣同盟保守倒退风潮兴起，聚芬草案因主张世俗国家主权、限制教会特权而遭到保守封建贵族与教会强力阻挠，最终未能在全境正式颁行成法；但其草案条款被各省行政指令逐项采纳落实。1829 年逝世于[[Isaiah Berlin|柏林]]。
 
 ---
@@ -90,7 +91,7 @@ updated: 2026-10-08
 > - **1809–1818 — 新人文主义[[Bildung\|教化]]哲学的制度化奠基** 致力于将新人文主义全人教化（*Bildung*）理念从少数精英阶层向大众普及教育扩展，思考如何通过国家制度化力量对抗专制腐败，以公民心智与道德觉醒重构战败后的普鲁士民族国家生命力。
 >   - **代表成果** 普鲁士中等学校毕业资格会考规程（*Abitur* 制度改革草案）。
 >   - **关键概念** 全人教化、公民理性、国家公权力。
-> - **1818–1819 — 综合教育法典的系统创制** 聚芬将国家立法、市镇自治分担与现代学校层级建制融会贯通，起草综合教育法案，将国民教育确立为现代主权国家的法定公共责任。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 26–28)]]
+> - **1818–1819 — [[Comprehensive Education|综合教育]]法典的系统创制** 聚芬将国家立法、市镇自治分担与现代学校层级建制融会贯通，起草综合教育法案，将国民教育确立为现代主权国家的法定公共责任。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 26–28)]]
 >   - **代表著作** *Entwurf eines allgemeinen Gesetzes über die Verfassung des Schulwesens im preußischen Staate*（《1819 年普鲁士综合教育法草案》）。
 >   - **关键概念** [[State Educational Sovereignty\|国家教育权]]、[[Dual School System\|双轨学制]]、[[Normal School\|师范学校]]。
 >   - **阶段转向** 从哲学理念探讨转向国家实定法与行政督导操作规程的精密设计。
@@ -124,7 +125,7 @@ updated: 2026-10-08
 ## 历史评价
 
 > [!citation-card] 布鲁尔论聚芬 1819 年草案的时代奠基性
-> 聚芬 1819 年草案是普鲁士教育从零散教区私塾彻底转向国家现代综合教育体制的历史分水岭，其技术条款构成了[[Victor Cousin\|库森]]考察报告的核心精髓，并为欧美大西洋各国的公共教育立法提供了原型。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 26–27)]]；引自 Brewer (1971:44)
+> 聚芬 1819 年草案是普鲁士教育从零散教区私塾彻底转向国家现代[[Comprehensive Education|综合教育]]体制的历史分水岭，其技术条款构成了[[Victor Cousin\|库森]]考察报告的核心精髓，并为欧美大西洋各国的公共教育立法提供了原型。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 26–27)]]；引自 Brewer (1971:44)
 >
 > *The Suvern Draft Law of 1819 embodied the legal and institutional framework of a national state system, serving as the [[Primary and Secondary Documents\|primary source]] from which Cousin extracted the machinery and governance of public instruction for transfer to France.*
 
@@ -147,7 +148,7 @@ updated: 2026-10-08
 > - **跨国思想借鉴者** [[Victor Cousin\|维克多·库森]] — 1831 年考察普鲁士时全面发掘聚芬草案，将其提炼为国家公共资源法哲学并推荐给法国政府。
 > - **跨国实定法实现者** [[François Guizot\|弗朗索瓦·基佐]] — 将聚芬草案核心制度条款转化为法国《1833 年[[Guizot Law of 1833\|基佐法案]]》，实现跨国法制移植。
 > - **跨大西洋政策引用者** [[Calvin Stowe\|卡尔文·斯托]]、[[Horace Mann\|霍勒斯·曼]]与[[Henry Barnard\|亨利·巴纳德]] — 考察普鲁士公学成就，援引聚芬所奠定的教师培训与国家监督规程以推动北美公学立法。
-> - **核心制度依托** 普鲁士 1819 年综合教育法草案 — 聚芬毕生最重要的法制规划遗产。
+> - **核心制度依托** 普鲁士 1819 年[[Comprehensive Education|综合教育]]法草案 — 聚芬毕生最重要的法制规划遗产。
 
 ---
 

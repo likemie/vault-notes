@@ -29,6 +29,7 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[Cognitive Decoupling]]"
   - "[[International Education]]"
+  - "[[Educational Decentralization]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Discourse]]"
   - "[[Document]]"
@@ -110,7 +111,7 @@ updated: 2026-10-10
 ## 核心思想
 
 > [!claim] 核心主张
-> 全球学校课程的演进是世界文化理性化神话扩散的核心晴雨表；然而，宏观官方课程大纲在形式上的高度同构，绝不意味着教室内教学实践的均质化。在教育权力下放与学校自主的全球政策潮流下，课程大纲的落实呈现出尖锐的“阶层化社会建构”——优势阶层学校利用自主权强化高阶数理与精英知识，而劣势学校则在补救教学中牺牲了[[21st Century Skills and Competencies Discourse|核心素养]]，导致宏观上的[[Institutional Isomorphism|制度同形]]在微观上转化为维系既有阶层不平等的合法化外衣。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 108)]]
+> 全球学校课程的演进是世界文化理性化神话扩散的核心晴雨表；然而，宏观官方课程大纲在形式上的高度同构，绝不意味着教室内教学实践的均质化。在[[Educational Decentralization|教育权力下放]]与学校自主的全球政策潮流下，课程大纲的落实呈现出尖锐的“阶层化社会建构”——优势阶层学校利用自主权强化高阶数理与精英知识，而劣势学校则在补救教学中牺牲了[[21st Century Skills and Competencies Discourse|核心素养]]，导致宏观上的[[Institutional Isomorphism|制度同形]]在微观上转化为维系既有阶层不平等的合法化外衣。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 108)]]
 
 > [!citation-card] 贝纳沃特论课程趋同与本土学校分化
 > 尽管跨国扩散促成了课程门类的全球通用化，但在国家权力向地方学校下放的政策冲击下，实际执行呈现出高度的分歧。学校的社会阶层背景、结构性地位与资源动员能力，深度制约了国家法定科目的实际落实形态，使得趋同的[[Discourse|话语]]遮蔽了微观教育资源与知识分配的不平等。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 108)]]

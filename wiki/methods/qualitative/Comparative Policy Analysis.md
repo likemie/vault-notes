@@ -37,6 +37,7 @@ related_theories:
   - "[[Cultural Political Economy]]"
   - "[[Governmentality]]"
   - "[[Spatial Governmentality]]"
+  - "[[Historical Institutionalism]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Discourse Analysis]]"
@@ -51,10 +52,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
+  - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
 confidence: high
 status: draft
 created: 2026-10-06
-updated: 2026-10-10
+updated: 2026-10-11
 ---
 
 # Comparative Policy Analysis
@@ -64,7 +66,7 @@ updated: 2026-10-10
 ## 定义
 
 > [!def] 方法定义
-> **比较政策分析（Comparative Policy Analysis）**是公共政策学、比较政治经济学（Comparative Political Economy, [[Cultural Political Economy|CPE]]）与比较教育学中用于系统对比不同国家、地区或跨国政治实体公共政策设计、[[Discourse|话语]]建构与[[Disciplina and Doctrina|规训]]机制的研究方法。该方法一方面通过解构不同管辖区在应对相似外部危机（如地缘冲突、产业重组或人口流动）时的制度选择，构建涵盖治理主体、战略目标、资源承诺、政策工具箱与约束条件的多维分析矩阵，阐明国家制度能力与财政宪制结构如何塑造相异的政策路径（[[Argument_Bulfone_2024_IAI|Bulfone et al., 2024, pp. 3, 16–17]]）；另一方面通过跨国政策话语与空间[[Governmentality|治理术]]的系统对质，解构不同政体如何对特定群体与社会现象（如学生跨区流动）进行道德[[Coding in Qualitative Research|编码]]与政策“问题化”（Problematization），揭示制度文本深层的规训逻辑与空间政治理性（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009, pp. 361–362]]）。
+> **比较政策分析（Comparative Policy Analysis）**是公共政策学、比较政治经济学（Comparative Political Economy, [[Cultural Political Economy|CPE]]）与比较教育学中用于系统对比不同国家、地区或跨国政治实体公共政策设计、[[Discourse|话语]]建构与[[Disciplina and Doctrina|规训]]机制的研究方法。该方法一方面通过解构不同管辖区在应对相似外部危机（如地缘冲突、产业重组或人口流动）时的制度选择，构建涵盖治理主体、战略目标、资源承诺、政策工具箱与约束条件的多维分析矩阵，阐明国家制度能力与财政宪制结构如何塑造相异的政策路径（[[Argument_Bulfone_2024_IAI|Bulfone et al., 2024, pp. 3, 16–17]]）；另一方面通过跨国政策话语与空间[[Governmentality|治理术]]的系统对质，解构不同政体如何对特定群体与社会现象（如学生跨区流动）进行道德[[Coding in Qualitative Research|编码]]与政策问题化（problematization），揭示制度文本深层的规训逻辑与空间政治理性（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009, pp. 361–362]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 法律法规文本、中长期战略规划、直接与间接财政预算、监管审查准则、国家报告卡指标及公私契约条款。
@@ -78,7 +80,7 @@ updated: 2026-10-10
 > *In section two, we compare the industrial policy plans adopted by the United States and the EU along five dimensions identified as crucial in the industrial policy literature: protagonists (the main actors carrying out the industrial policy effort), goals, size/financial commitment, type of policy instruments used [...], and the forms of [[Policy Conditionalities|Conditionalities]] attached to public support.*
 
 > [!citation-card] 跨大西洋政策话语与[[Spatial Governmentality|空间治理术]]比较
-> 比较政策分析通过对质跨大西洋教育政策话语，揭示了流动性意义建构的深层分野：在欧洲联盟政策语境中，[[Student Mobility|学生流动性]]被赞颂为培育超国家欧洲公民认同与[[Knowledge-Based Economy|知识经济]][[Competitiveness|竞争力]]的理想资本（如[[Erasmus Programme|伊拉斯谟计划]]）；而在美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》框架下，学生跨校流动却被规训为表征贫困、家庭破裂与学业失败的“漂泊”（[[Transiency]]），沦为解释学校未能达标的病态指标。政策对比不仅展现了工具差异，更暴露了空间围堵与人口治理理性的根本分歧。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
+> 比较政策分析通过对质跨大西洋教育政策话语，揭示了流动性意义建构的深层分野：在欧洲联盟政策语境中，[[Student Mobility|学生流动性]]被赞颂为培育超国家欧洲公民认同与[[Knowledge-Based Economy|知识经济]][[Competitiveness|竞争力]]的理想资本（如[[Erasmus Programme|伊拉斯谟计划]]）；而在美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》框架下，学生跨校流动却被规训为表征贫困、家庭破裂与学业失败的漂泊（[[Transiency]]），沦为解释学校未能达标的病态指标。政策对比不仅展现了工具差异，更暴露了空间围堵与人口治理理性的根本分歧。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
 >
 > *Mobility can be valued and promoted as an essential attribute of the flexible, cosmopolitan citizen... or it can be pathologized as a sign of disorder, social dislocation, and academic failure requiring spatial containment.*
 
@@ -87,7 +89,7 @@ updated: 2026-10-10
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 历史制度主义与批判[[Discourse Analysis|话语分析]]取向；强调政策文本并非[[Value Neutrality|价值中立]]的技术方案，而是特定权力分配、政党联盟妥协、财政宪制结构与空间治理理性的制度产物。
+> - **知识观** [[Historical Institutionalism|历史制度主义]]与批判[[Discourse Analysis|话语分析]]取向；强调政策文本并非[[Value Neutrality|价值中立]]的技术方案，而是特定权力分配、政党联盟妥协、财政宪制结构与空间治理理性的制度产物。
 > - **研究者角色** 结构性制度侦测者与政策文本解构者；通过跨案例多维对照与跨国[[Discourse|话语]]平行比对提炼一般性机制，克服单一国家[[Case Study|案例研究]]的局部盲视。
 > - **有效性标准** 维度界定的概念清晰度、跨案例数据与法律条款的可比性、话语解构的文本扎根度，以及推论逻辑对制度[[Heterogeneity|异质性]]的解释力。
 > - **不声称回答的问题** 单纯的跨案例维度对比本身无法直接测算不同政策对经济或学业产出的精确因果[[Effect Size|效应量]]（Treatment Effect），需结合微观计量模型或[[Counterfactual|反事实]]推断展开深度检验。
@@ -115,7 +117,7 @@ updated: 2026-10-10
 > | 维度 | 信息 |
 > |---|---|
 > | 材料来源 | 官方立法法案、行政命令、政策白皮书、跨国条约协议、国会辩论记录与学校评估指标手册。 |
-> | 抽样或选案 | 最大相异系统设计（MDSD）或最相似系统设计（MSSD）；涵盖超国家实体（欧盟）、联邦制国家（美、德）与单一制国家。 |
+> | 抽样或选案 | 最大相异系统设计（Most Different Systems Design, MDSD）或最相似系统设计（Most Similar Systems Design, MSSD）；涵盖超国家实体（欧盟）、联邦制国家（美、德）与单一制国家。 |
 > | 研究者位置 | 批判性政策话语与制度解构者；审视政策文本表面中立性背后的权力运作、空间规训与资本偏好。 |
 > | 资料边界 | 政策制定与重新授权周期、法规执行细则、官方问责指标系统及其在特定历史时空下的实践反馈。 |
 
@@ -143,5 +145,6 @@ updated: 2026-10-10
 ## 使用此方法的研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - [[Argument_Bulfone_2024_IAI|Bulfone et al., 2024]] — 针对美欧半导体产业政策构建涵盖治理主体、政策目标、资金规模、政策工具与[[Policy Conditionalities|制度化附加条件]]的五维比较[[Analytic Framework|分析框架]]，揭示美国集中式补贴模式与欧盟去中心化“协调者”模式的制度差异与效能分化。
-> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]] — 采用跨大西洋与跨国比较政策分析，对比欧盟[[Erasmus Programme|伊拉斯谟计划]]将[[Student Mobility|学生流动性]]建构为世界公民积极资本与美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》将学生流动性[[Coding in Qualitative Research|编码]]为病态化“漂泊”问责借口的[[Discourse|话语]]机制，并系统比较中、美、西、英、印等国对流动学童的空间教育治理政策。
+> - [[Argument_Bulfone_2024_IAI|Bulfone et al., 2024]] — 针对美欧半导体产业政策构建涵盖治理主体、政策目标、资金规模、政策工具与[[Policy Conditionalities|制度化附加条件]]的五维比较[[Analytic Framework|分析框架]]，揭示美国集中式补贴模式与欧盟去中心化协调者模式的制度差异与效能分化。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]] — 采用跨大西洋与跨国比较政策分析，对比欧盟[[Erasmus Programme|伊拉斯谟计划]]将[[Student Mobility|学生流动性]]建构为世界公民积极资本与美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》将学生流动性[[Coding in Qualitative Research|编码]]为病态化漂泊问责借口的[[Discourse|话语]]机制，并系统比较中、美、西、英、印等国对流动学童的空间教育治理政策。
+> - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009]] — 采用跨国比较政策分析视角，将西班牙教育置于欧盟多国治理坐标系下，系统对比英、美、德、法、意与北欧的分权模式演变，解构西班牙教育激进分权导致的行政膨胀与中等学制平庸化困境。

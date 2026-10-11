@@ -31,6 +31,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge Transfer]]"
+  - "[[Comprehensive Education]]"
   - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
   - "[[Champ]]"
@@ -149,7 +150,7 @@ updated: 2026-10-08
 > - **实证教育研究框架规划与转移实施专项** 2017 年发布国家规划（Rahmenprogramm empirische Bildungsforschung, BMBF, 2017），专门确立“创新研究、实施研究与转移研究”（Innovations-, Implementations- und Transferforschung）专项资金，系统探索教育科研成果向学校实践与师训系统有效渗透的机制。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 10)]]
 > - **重大教育质量工程** 主导实施“[[Qualitätsoffensive Lehrerbildung\|教师教育质量攻坚计划]]”（QLB，依据联邦-州行政协议注资 5 亿欧元，资助超 70 所高校、近百个改革项目），全面重塑师资培养全周期与实证证据融合。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, pp. 12–13)]]
 > - **国家科研证据清算中介孵化** 2017 年专项资助设立慕尼黑工业大学教学研究清算中心（[[Clearing House Unterricht\|CHU]]），打破德语区长期缺乏本土清算平台的困局。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
-> - **国家测评与报告联合资助** 联合 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 出资设立 [[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]] 统筹 [[PISA]] 测评，联合资助 [[Leibniz Institute for Educational Research and Educational Information\|DIPF]] 编撰国家综合教育报告（*[[Bildung]] in Deutschland*）。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–145)]]
+> - **国家测评与报告联合资助** 联合 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 出资设立 [[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]] 统筹 [[PISA]] 测评，联合资助 [[Leibniz Institute for Educational Research and Educational Information\|DIPF]] 编撰国家[[Comprehensive Education|综合教育]]报告（*[[Bildung]] in Deutschland*）。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–145)]]
 > - **教育数字化与基础设施战略** 出资数百亿欧元推进“学校数字化公约”（DigitalPakt Schule），支持全德中小学与职业学校宽带网络、数字化教学工具与终端配置。
 > - **前沿科学教育与卓越资助** 统筹国家卓越大学战略（Exzellenzstrategie）、[[Max Planck Society|马克斯·普朗克学会]]与莱布尼茨学会等国家骨干科研联合会的长期财政资助。
 
@@ -196,7 +197,7 @@ updated: 2026-10-08
 > | [[Zentrum für internationale Bildungsvergleichsstudien]] | Fact (Organization) | BMBF 与 KMK 联合出资设立的国家[[International Education\|国际教育]]比较研究中枢（设于 TUM）。 |
 > | [[Clearing House Unterricht]] | Fact (Organization) | BMBF 通过 [[Qualitätsoffensive Lehrerbildung\|QLB]] 专项立项资助并孵化创设的德语区首个教育证据清算中介实体。 |
 > | [[Qualitätsoffensive Lehrerbildung]] | Fact (Program) | BMBF 发起设立并主导注资 5 亿欧元的全国性教师教育重大攻坚工程。 |
-> | [[Leibniz Institute for Educational Research and Educational Information]] | Fact (Organization) | 莱布尼茨学会成员，BMBF 与各州共同资助并委托编撰国家综合教育报告。 |
+> | [[Leibniz Institute for Educational Research and Educational Information]] | Fact (Organization) | 莱布尼茨学会成员，BMBF 与各州共同资助并委托编撰国家[[Comprehensive Education\|综合教育]]报告。 |
 > | [[Institute for Educational Quality Improvement]] | Fact (Organization) | 兄弟国家计算中枢，IQB 统筹国家标准与 [[Vergleichsarbeiten\|VERA]]，与 BMBF 项目形成数据互补。 |
 > | [[Tina Seidel]] | Person | 慕尼黑工业大学讲席教授，主持 BMBF 资助的清算中心中介项目研发。 |
 > | [[Educational Evidence Clearinghouses]] | Concept | BMBF 资助代表着欧洲大陆高校依托型清算所的重要公共治理模式。 |

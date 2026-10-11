@@ -20,6 +20,7 @@ tags:
   - theme/environmental-education
 related_concepts:
   - "[[Development Education]]"
+  - "[[Comprehensive Education]]"
   - "[[Paradigm]]"
   - "[[Big Ideas]]"
 related_arguments:
@@ -39,7 +40,7 @@ updated: 2026-10-01
 ## 定义
 
 > [!def] 核心定义
-> 可持续[[Development Education|发展教育]]是指面向 21 世纪全球气候变化、生物多样性丧失与资源环境承载力危机，培养个体掌握生态科学与复杂系统运行规律、具备跨学科批判性审思与绿色技能（Green Skills），并在日常生活、公民参与及职业实践中能够采取负责任行动的综合教育[[Paradigm\|范式]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]
+> 可持续[[Development Education|发展教育]]是指面向 21 世纪全球气候变化、生物多样性丧失与资源环境承载力危机，培养个体掌握生态科学与复杂系统运行规律、具备跨学科批判性审思与绿色技能（Green Skills），并在日常生活、公民参与及职业实践中能够采取负责任行动的[[Comprehensive Education|综合教育]][[Paradigm\|范式]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于单一学科内的片段化环保知识点灌输，强调将生态环境议题置于自然科学、经济社会、地缘政治与伦理价值的多维交汇点上。

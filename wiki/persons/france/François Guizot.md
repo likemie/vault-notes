@@ -28,6 +28,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Dual School System]]"
   - "[[Policy Borrowing]]"
+  - "[[Comprehensive Education]]"
   - "[[Paradigm]]"
   - "[[Going Native]]"
   - "[[Educational Meliorism]]"
@@ -40,6 +41,7 @@ related_persons:
   - "[[Victor Cousin]]"
   - "[[Isaiah Berlin]]"
   - "[[Johann Wilhelm Süvern]]"
+  - "[[Peter A. Hall]]"
   - "[[Horace Mann]]"
   - "[[Henry Barnard]]"
 related_facts:
@@ -113,7 +115,7 @@ updated: 2026-10-08
 
 > [!influence-path] 影响路径
 > - **法国本土制度路径** [[Guizot Law of 1833\|基佐法案]]在全法掀起了史无前例的建校浪潮：数年内法国公立初等小学由两万余所激增至三万余所，公立[[Normal School\|师范学校]]覆盖绝大多数省份，首创全境专职皇家督学网（Inspecteurs primaires），彻底确立了法国国家初等教育的制度化根基。
-> - **欧陆比较[[Policy Borrowing\|政策借用]]典范** 基佐借用[[Victor Cousin\|库森]]的研究网络，将普鲁士枢密顾问官[[Johann Wilhelm Süvern\|聚芬]]的《1819 年普鲁士综合教育法草案》技术条款巧妙嫁接至法国七月王朝立宪政制之中，开创了 19 世纪欧陆自上而下将域外先进经验转置为本土实定法的制度移植经典[[Paradigm\|范式]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 27–29)]]
+> - **欧陆比较[[Policy Borrowing\|政策借用]]典范** 基佐借用[[Victor Cousin\|库森]]的研究网络，将普鲁士枢密顾问官[[Johann Wilhelm Süvern\|聚芬]]的《1819 年普鲁士[[Comprehensive Education|综合教育]]法草案》技术条款巧妙嫁接至法国七月王朝立宪政制之中，开创了 19 世纪欧陆自上而下将域外先进经验转置为本土实定法的制度移植经典[[Paradigm\|范式]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 27–29)]]
 > - **跨大西洋公学合法化示范** 基佐通过国家实定法建立初等公学与公立师范的巨大实绩，被英国《外国季刊评论》（*Foreign Quarterly Review*）与美国教育史学家评价为“无可辩驳的成功证明：普及国民初等教育绝非空想家的大脑幻象，而是如同维持陆军与海军一般必须由国家建立并维持的制度常态”，有力支撑了北美[[Common School Movement\|公学运动]]的立法游说。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(pp. 27–28)]]；引自 Knight (1930:116–119)
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
@@ -123,7 +125,7 @@ updated: 2026-10-08
 
 ## 历史评价
 
-> [!citation-card] 霍尔斯论 1833 年[[Guizot Law of 1833\|基佐法案]]奠定法国现代国民教育体制
+> [!citation-card] [[Peter A. Hall|霍尔]]斯论 1833 年[[Guizot Law of 1833\|基佐法案]]奠定法国现代国民教育体制
 > 基佐法案彻底结束了法国初等教育无序与教区垄断的旧时代，将国家最高主权视导与市镇义务结合，标志着现代法国国民教育体系的正式确立。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 28)]]；引自 Halls (1965:20)
 >
 > *The Guizot Law of 1833 laid the real foundations of French primary education, effectively creating a national state system through the synthesis of central supervision and local municipal responsibility.*

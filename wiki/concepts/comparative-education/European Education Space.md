@@ -63,10 +63,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
+  - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
 confidence: high
 status: completed
 created: 2026-07-09
-updated: 2026-10-10
+updated: 2026-10-11
 ---
 
 # European Education Space
@@ -131,7 +132,7 @@ graph TD
 > 探讨为何[[International Large-Scale Assessments|国际大规模评估]]（ILSA）的政策溢出效应呈现出极端不均衡的地理分布，以及数据互认网络如何反向塑造学术研究重心。
 
 > [!claim] [[Argument_Li_2025_HSSC|Li et al. (2025)]]
-> **[[Data Infrastructure|数据基础设施]]对政策研究的结构性锁定** 在对全球 [[PISA]] 政策影响的[[Systematic Review|系统综述]]中发现，高达 62.4% 的实证研究以欧盟及欧洲经济区（EEA）国家为分析对象。这一不成比例的区域集中性并非单纯出于学者的主观偏好，而是因为欧洲教育空间内部深度嵌构的数据基础设施、常态化的跨国比较机制以及政策协调平台，使得 PISA 评估在欧洲内部被高度制度化为核心治理杠杆，从而源源不断地激发出海量的政策转化与学术评估需求。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
+> **[[Data Infrastructure|数据基础设施]]对政策研究的结构性锁定** 在对全球 [[PISA]] 政策影响的[[Systematic Review|系统综述]]中发现，高达 62.4% 的实证研究以欧盟及欧洲经济区（EEA）国家为分析对象。这一不成比例的区域集中性并非单纯出于学者的主观偏好，而是因为欧洲教育空间内部深度嵌构的数据基础设施、常态化的跨国比较机制以及政策协调平台，使得 PISA 评估在欧洲内部被高度制度化为核心治理杠杆，从而源源不断地激发出海量的政策转化与学术评估需求。
 
 ---
 
@@ -196,6 +197,7 @@ graph TD
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]]揭示全球 [[PISA]] 政策影响实证研究中有 62.4% 集中在欧洲，运用欧洲教育空间概念解释数据治理基建的吸附效应。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 援引 Nóvoa & Lawn（2002）剖析欧洲教育空间的制造过程，批判性揭示 [[Erasmus Programme|ERASMUS]] 与 [[TEMPUS]] 如何将[[Student Mobility|学生流动]]道德化为欧洲公民资本。
+> - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 从成员国主权视角审视欧洲教育空间，指出欧盟教育事务本质是成员国总和，揭示西班牙在[[Bologna Process|博洛尼亚进程]]对标与伊拉斯谟生源吸引表象下的高等教育近亲繁殖与制度性脱节。
 
 ---
 

@@ -19,6 +19,7 @@ tags:
 - region/new-zealand
 - level/k12
 related_concepts:
+  - "[[Educational Decentralization]]"
   - "[[Educational Management Organisation]]"
   - "[[Network Governance]]"
   - "[[School Autonomy]]"
@@ -42,7 +43,7 @@ updated: '2026-05-22'
 ## 背景
 
 > [!info] 背景
-> Tomorrow's Schools（明日学校）是 1989 年新西兰推出的重大教育行政改革，将学校管理权从中央教育部大幅下放至各校董事会，引入学校自我管理（self-management）模式。这一改革在全球教育分权化浪潮中具有标志性地位([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, p.66]])。
+> Tomorrow's Schools（明日学校）是 1989 年新西兰推出的重大教育行政改革，将学校管理权从中央教育部大幅下放至各校董事会，引入学校自我管理（self-management）模式。这一改革在全球[[Educational Decentralization|教育分权]]化浪潮中具有标志性地位([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, p.66]])。
 >
 > 改革前，教育被视为经济增长和社会发展的关键因素（Hawke, cited in Sarbiewska, 2019, p.120）。然而这一阶段的改革主要聚焦于行政管理调整，尚未进入基于研究的教学改革阶段。
 >

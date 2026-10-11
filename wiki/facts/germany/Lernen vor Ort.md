@@ -27,6 +27,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Data Infrastructure]]"
   - "[[Rescaling]]"
+  - "[[Comprehensive Education]]"
   - "[[Topological Spatialisation]]"
 related_theories: []
 related_methods: []
@@ -116,7 +117,7 @@ updated: 2026-10-08
 ## 成效评估与实证发现
 
 > [!finding-cards] 核心学术与政策影响
-> - **基层数据透明化与孤岛破除** 推动地方建立了首批涵盖人口变迁、贫困分布、语言测试及升学率的综合教育数据库。
+> - **基层数据透明化与孤岛破除** 推动地方建立了首批涵盖人口变迁、贫困分布、语言测试及升学率的[[Comprehensive Education|综合教育]]数据库。
 > - **联邦穿透州级边界的[[Rescaling\|尺度重组]]典型案例** 德国宪法将学校事务完全划归各州，联邦不得直接干预学校；[[Federal Ministry of Education and Research\|BMBF]] 借助“地方学习”这一以市镇社会管理为名的专项资助，成功将联邦影响力和循证监测逻辑直接植入基层学区，形成了典型的[[Rescaling\|尺度重组]]与[[Topological Spatialisation\|拓扑空间化]]治理（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 142–143]]）。
 
 ---

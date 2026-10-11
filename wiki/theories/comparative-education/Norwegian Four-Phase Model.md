@@ -25,11 +25,13 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Cross-National Attraction]]"
   - "[[Going Native]]"
+  - "[[Comprehensive Education]]"
   - "[[Structural Coupling]]"
   - "[[Research Question]]"
   - "[[Policy Mobility]]"
   - "[[Knowledge-Based Economy]]"
 related_theories:
+  - "[[Historical Institutionalism]]"
   - "[[Path Dependence]]"
 related_methods:
   - "[[Comparative Policy Analysis]]"
@@ -57,7 +59,7 @@ updated: 2026-10-09
 > [!theory-position] 理论定位
 > - **解释对象** 主权国家如何在长时段历史进程中，以制度化机制主动吸收外部世界教育经验，并将其有机转化为本国民主福利教育体系的政策形成与借用机制。
 > - **理论问题** 传统[[Policy Borrowing|政策借用]]理论常将制度借用简化为政策精英突发奇想的权宜之计，或是将后发国家的改革视为面对西方霸权的被动适应，遮蔽了主权国家在跨国政策吸收中的制度化审慎机制与民主协商能力。
-> - **理论类型** 基于历史制度主义与[[Comparative Policy Analysis|比较政策分析]]的中观过程解释框架。
+> - **理论类型** 基于[[Historical Institutionalism|历史制度主义]]与[[Comparative Policy Analysis|比较政策分析]]的中观过程解释框架。
 > - **知识位置** 隶属于比较教育学中的[[Policy Borrowing|教育借用]]与[[Influences Across Cultures|跨文化影响]]理论谱系，与牛津大学戴维·菲利普斯（[[David Phillips]]）的四阶段政策借用模型构成东西方学术对话互鉴。
 
 > [!claim] 核心判断
@@ -121,7 +123,7 @@ updated: 2026-10-09
 > [!theory-proposition] 命题二｜白皮书协商机制实现从跨国备选方案向全民民主共识的[[Going Native|本土化]]转化
 > **解释** 外来教育模型绝不可能在毫无阻力的情况下直接套用。第二阶段的精髓在于将委员会提出的多国经验选项，编制成详尽透明的政府白皮书（White Papers），向议会各党派、地方自治体、教师协会乃至全社会公开，引发广泛而深度的民主论辩。通过公开协商，全社会能够共同识别外来模式中的潜在隐患（如社会分流加剧、文化同质化），使[[Policy Borrowing|政策借用]]过程转变为增强国家内部社会凝聚力与民主认同的契机。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124, 126)]]
 >
-> **应用实例** 在战后是否引入美国综合高中（Comprehensive High School）的争论中，挪威通过多轮白皮书大辩论，既吸纳了美国面向大众开放的民主理念，又坚决抵制了其过早分轨与市场化倾向，最终走出独特的北欧全贯通综合教育模式。
+> **应用实例** 在战后是否引入美国综合高中（Comprehensive High School）的争论中，挪威通过多轮白皮书大辩论，既吸纳了美国面向大众开放的民主理念，又坚决抵制了其过早分轨与市场化倾向，最终走出独特的北欧全贯通[[Comprehensive Education|综合教育]]模式。
 
 ---
 

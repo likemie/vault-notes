@@ -16,6 +16,7 @@ tags:
 - region/uk
 - level/k12
 related_concepts:
+  - "[[Comprehensive Education]]"
   - "[[Academic Achievement]]"
   - "[[Abstract]]"
   - "[[Research Utilization]]"
@@ -58,7 +59,7 @@ updated: 2026-10-07
 
 > [!example] 概念辨析
 > - vs [[Grammar School]] — Grammar school 是选择性教育制度中的一类具体学校类型（选拔性学术中学）；selective education 是涵盖整个分流制度的概念，还包括现代中学、11-plus 考试等制度要素
-> - vs Comprehensive Education — 综合教育是非选择性制度，所有学生不论学术能力进入同一类中学
+> - vs [[Comprehensive Education]] — 综合教育是非选择性制度，所有学生不论学术能力进入同一类中学
 >
 
 ## 实证发现

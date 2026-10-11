@@ -46,6 +46,7 @@ related_concepts:
   - "[[Nature of Science]]"
   - "[[Rote Learning]]"
   - "[[Competitiveness]]"
+  - "[[Educational Decentralization]]"
   - "[[Technology Infusion]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Data Literacy]]"
@@ -155,7 +156,7 @@ updated: 2026-10-04
 > - **本土课程映射与实证检验** 在英格兰，这一素养导向直接促成了覆盖约 60% 中学的《21世纪科学》（Twenty First Century Science）课程体系，将科学如何运作（How Science Works）作为与学科核心知识并重的基础维度；实证追踪表明该课程不仅深化了学生对[[Nature of Science\|科学本质]]的理解，且并未削弱后续 A-level 的选课与深造表现。
 > - **国际镜鉴与政策启示** PISA 测评的长期国际比较证实，超越传统[[Rote Learning\|死记硬背]]、强调证据评估的科学教育范式不仅具有高度可行性，更是国家教育系统培育具备全球[[Competitiveness|竞争力]]与理性反思能力未来公民的必由之路；为英格兰 2025 年《课程与评估审查》纠偏近年大纲事实回忆过载提供了关键的国际经验支撑。
 
-> [!contrast-table] 表1-1：英国四地（英格兰、苏格兰、威尔士、北爱尔兰）科学教育分权体系特征对比
+> [!contrast-table] 表1-1：英国四地（英格兰、苏格兰、威尔士、北爱尔兰）科学[[Educational Decentralization|教育分权]]体系特征对比
 > | 区域 / 司法管辖区 | 课程与评估治理特征 | 核心资格证书体系 | 科学素养与课程宽度改革动态 |
 > |---|---|---|---|
 > | **英格兰（England）** | 教育部集中管理，注重知识基础大纲 | 普通中等教育证书（General Certificate of Secondary Education, GCSE，16岁）+ 普通教育高级水平证书（General Certificate of Education Advanced Level, A-level，18岁，通常限 3 门） | 2025 年课程与评估审查建议强化多源证据评估；后 16 岁面临过早专门化分科限制（p. 30） |

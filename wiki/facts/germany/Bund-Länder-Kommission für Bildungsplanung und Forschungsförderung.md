@@ -27,6 +27,7 @@ tags:
   - transfer-science
   - blk
 related_concepts:
+  - "[[Comprehensive Education]]"
   - "[[Grandes Ecoles]]"
   - "[[Paradigm]]"
   - "[[Transfer Science]]"
@@ -35,7 +36,8 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Peter A. Hall]]"
 related_facts:
   - "[[Max Planck Society]]"
   - "[[Fraunhofer Society Model]]"
@@ -58,7 +60,7 @@ updated: 2026-10-02
 ## 机构定位与宗旨
 
 > [!claim] 机构定位
-> 联邦与各州教育规划与科研促进委员会（德语全称：*Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung*，简称 BLK）是西德联邦政府与各联邦州于 1970 年依据行政协议设立的常设最高跨政府协调机构。在战后德国“教育文化主权在州”（Kulturhoheit der Länder）与联邦协调诉求的宪政张力下，BLK 构成了德国“协同联邦主义”（Kooperativer Föderalismus）在教育与科技政策领域的核心支柱。该委员会通过统筹全国综合教育规划纲领与发起国家级创新试点工程，充当了联邦财政资助向各州基础教育和高等教育领域合宪渗透的关键制度管道。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 9)]]
+> 联邦与各州教育规划与科研促进委员会（德语全称：*Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung*，简称 BLK）是西德联邦政府与各联邦州于 1970 年依据行政协议设立的常设最高跨政府协调机构。在战后德国“教育文化主权在州”（Kulturhoheit der Länder）与联邦协调诉求的宪政张力下，BLK 构成了德国“协同联邦主义”（Kooperativer Föderalismus）在教育与科技政策领域的核心支柱。该委员会通过统筹全国[[Comprehensive Education|综合教育]]规划纲领与发起国家级创新试点工程，充当了联邦财政资助向各州基础教育和高等教育领域合宪渗透的关键制度管道。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 9)]]
 
 > [!institution-profile] 机构档案
 > - **创设背景** 1969 年西德通过宪法修正案（基本法第 91b 条），允许联邦与各州在双方同意的前提下就跨区域重大教育规划与超区域科研资助开展制度化合作；1970 年双方正式签署建立 BLK 的行政协议。
@@ -99,7 +101,7 @@ updated: 2026-10-02
 
 > [!finding-cards] BLK 模式在[[Knowledge Transfer|知识转移]]维度的经验与教训
 > - **为德国[[Transfer Science|转移科学]]提供了首批系统经验标本**
->   正如韦罗妮卡·玛尼修斯与尼尔斯·范霍尔特（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 9]]）指出，早在大规模引入“新治理”外部督导与全域统考之前的 15 至 20 年间，德语区关于知识转移的政策推进主要就是依托 BLK 的模型试验方案完成的。学界对 [[SINUS]] 和 [[Chemie im Kontext|CHiK]] 等 BLK 项目的全程追踪，为解剖“转移对象特征”（Transfergegenstand）与微观教研网络运作提供了不可替代的历史基石（Nickolaus & Gräsel, 2006）。
+>   正如韦罗妮卡·玛尼修斯与尼尔斯·范[[Peter A. Hall|霍尔]]特（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 9]]）指出，早在大规模引入“新治理”外部督导与全域统考之前的 15 至 20 年间，德语区关于知识转移的政策推进主要就是依托 BLK 的模型试验方案完成的。学界对 [[SINUS]] 和 [[Chemie im Kontext|CHiK]] 等 BLK 项目的全程追踪，为解剖“转移对象特征”（Transfergegenstand）与微观教研网络运作提供了不可替代的历史基石（Nickolaus & Gräsel, 2006）。
 > - **“试验孤岛”与“规模化扩散陷阱”的制度反思**
 >   实证研究亦揭示出 BLK 模式的结构性困境：多数模型试验在享受专项资助、高校专家密集进驻与优秀骨干教师聚集时成效显著；但一旦资助周期结束或尝试向普通非试点学校推广时，往往因缺乏中层研训机构的制度化承接而陷入“试验田繁荣、全域贫瘠”的扩散断裂，这一教训直接倒逼德国学界在 2010 年代后确立了以中层制度化研训为枢纽的转移科学纲领。
 

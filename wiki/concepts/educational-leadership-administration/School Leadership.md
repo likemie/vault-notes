@@ -27,8 +27,10 @@ related_concepts:
   - "[[Habitus]]"
   - "[[School Autonomy]]"
   - "[[Champ]]"
+  - "[[Institutional Displacement]]"
   - "[[Research Utilization]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Educational Decentralization]]"
   - "[[Instructional Leadership]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
@@ -158,7 +160,7 @@ updated: 2026-10-07
 > 揭示市场化[[School Autonomy\|学校自主权]]改革如何将校长重构为国家外包政策的交付者，剖析企业家压力对教育伦理的结构性侵蚀。
 
 > [!claim] Eacott; Keddie et al.
-> **管理主义双重绑定** 市场驱动的学校自主权与新公共管理（NPM）改革，将学校校长推入了不可调和的制度性撕裂之中。埃科特与阿曼达·凯迪（Amanda Keddie）等学者基于[[Pierre Bourdieu\|皮埃尔·布迪厄]]（Pierre Bourdieu）[[Champ\|场域]]理论及对澳大利亚校长的实证研究表明，校长被赋予了看似庞大的预算与用人自主权，但实质上沦为国家竞争性问责项目的交付者（Deliverers）。校长不得不把大量精力转向争夺生源、包装学校形象、追逐标准化统考名次与应付繁琐审计；这种企业家角色的膨胀诱发了严重的目标置换（Goal Displacement），不仅削弱了对处境不利学生的公平扶助，更导致校长群体普遍陷入身心健康危机与严重职业倦怠。[[Argument_Eacott_2011_JEAH\|(Eacott, 2011, pp. 49–54)]]；(Keddie et al., 2020, pp. 438–442)
+> **管理主义双重绑定** 市场驱动的学校自主权与新公共管理（NPM）改革，将学校校长推入了不可调和的制度性撕裂之中。埃科特与阿曼达·凯迪（Amanda Keddie）等学者基于[[Pierre Bourdieu\|皮埃尔·布迪厄]]（Pierre Bourdieu）[[Champ\|场域]]理论及对澳大利亚校长的实证研究表明，校长被赋予了看似庞大的预算与用人自主权，但实质上沦为国家竞争性问责项目的交付者（Deliverers）。校长不得不把大量精力转向争夺生源、包装学校形象、追逐标准化统考名次与应付繁琐审计；这种企业家角色的膨胀诱发了严重的目标置换（Goal [[Institutional Displacement|displacement]]），不仅削弱了对处境不利学生的公平扶助，更导致校长群体普遍陷入身心健康危机与严重职业倦怠。[[Argument_Eacott_2011_JEAH\|(Eacott, 2011, pp. 49–54)]]；(Keddie et al., 2020, pp. 438–442)
 
 ---
 
@@ -188,7 +190,7 @@ updated: 2026-10-07
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **情境与权力嵌入** | 领导实践深嵌于具体社会学情与宏观权力结构，反对去情境普适论 | 多元文化、薄弱校与社会公平变革 | [[Argument_Møller_2017_EERJ\|Møller (2017)]]; [[Argument_Eacott_2011_JEAH\|Eacott (2011)]] |
-> | **管理主义双重绑定** | 市场化自主权将校长异化为绩效交付者，引发伦理妥协与目标置换 | 基础教育分权改革与标准化问责体制 | Eacott; Keddie et al. (2020) |
+> | **管理主义双重绑定** | 市场化自主权将校长异化为绩效交付者，引发伦理妥协与目标置换 | 基础[[Educational Decentralization\|教育分权]]改革与标准化问责体制 | Eacott; Keddie et al. (2020) |
 > | **循证使能与榜样示范** | 领导亲身示范与制度化排程是破除教师防卫、促进证据使用的中枢 | 学校循证教学改进与专业学习共同体建设 | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022)]] |
 > | **工时重置与角色转型** | 治理理念促使校长削减直接授课并增加听课研讨，向教育企业管理者转型 | 学校管理专业化、领导力工时配置与组织再造 | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] |
 

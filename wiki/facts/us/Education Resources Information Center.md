@@ -28,6 +28,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[International Education]]"
   - "[[Publication Bias]]"
+  - "[[Comprehensive Education]]"
   - "[[Literature Search]]"
   - "[[Internal Validity]]"
 related_theories: []
@@ -105,7 +106,7 @@ updated: 2026-09-28
 > - **全球最大教育[[Document\|文献]]索引库** 汇集超过 170 万条教育学领域文献书目记录，覆盖 1,000 余种主流教育同行评议学术期刊。
 > - **灰色文献与政府委托评估档案库** 系统保存美国各级政府、州教育厅、学区及第三方科研智库公开发布的非正式出版研究报告（ERIC Documents, ED），有效平抑学术[[Publication Bias\|发表偏倚]]。
 > - **《ERIC 叙词表》（Thesaurus of ERIC Descriptors）** 研制包含上万条教育学受控词汇的权威叙词系统，为全球教育信息分类、精准检索与知识图谱构建提供标准化语义基准。
-> - **公共证据检索基石** 作为美国唯一完全由联邦全额补贴、零商业门槛开放的综合教育数据库，成为地方教育机构（LEA）在面对循证采购法定义务时最易获取的文献源。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, p. 171)]]
+> - **公共证据检索基石** 作为美国唯一完全由联邦全额补贴、零商业门槛开放的[[Comprehensive Education|综合教育]]数据库，成为地方教育机构（LEA）在面对循证采购法定义务时最易获取的文献源。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, p. 171)]]
 
 ---
 

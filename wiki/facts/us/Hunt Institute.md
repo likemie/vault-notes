@@ -31,6 +31,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Research Translation]]"
   - "[[Policy Borrowing]]"
+  - "[[Educational Decentralization]]"
   - "[[Document]]"
 related_theories: []
 related_methods:
@@ -115,7 +116,7 @@ updated: 2026-10-02
 ## 影响与体系成效
 
 > [!finding-cards] 关键成效与辐射影响
-> - **激活州长群体的集体政治领导力** 成功将传统上分散孤立的各州州长办公室转变为一个协同作战的全国性改革先锋队，打破了联邦制下的教育分权僵局。
+> - **激活州长群体的集体政治领导力** 成功将传统上分散孤立的各州州长办公室转变为一个协同作战的全国性改革先锋队，打破了联邦制下的[[Educational Decentralization|教育分权]]僵局。
 > - **搭建跨党派信任的制度化避震器** 在意识形态激化的大环境下，亨特研究所凭借超党派公信力，成功让保守派智库、民主党州长与教师工会常年坐在同一张协调桌前，为改革提供稳定中枢。
 > - **为实证政策研究提供学术支撑** 深度参与并资助了包括麦克唐纳与韦瑟福德（2013）在内的重大政策[[Process Tracing|过程追踪研究]]，为揭示政策生命周期证据利用机理提供了第一手现场档案。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 20)]]
 

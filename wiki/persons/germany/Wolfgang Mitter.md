@@ -27,6 +27,7 @@ related_concepts:
   - "[[Document]]"
   - "[[International Education]]"
   - "[[Paradigm]]"
+  - "[[Comprehensive Education]]"
   - "[[Intercultural Education]]"
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
@@ -106,7 +107,7 @@ updated: 2026-10-08
 
 > [!thought-timeline] 思想发展阶段
 > - **1970年代–1980年代 — 中等教育综合化改革与东西欧比较研究** 聚焦西欧综合中学改革阻力与苏联东欧社会主义教育体制的制度运行机制。
->   - **代表著作** *Secondary School in the Light of Comprehensive Education* (1979); 与安维勒等学者的跨国课题。
+>   - **代表著作** *Secondary School in the Light of [[Comprehensive Education]]* (1979); 与安维勒等学者的跨国课题。
 >   - **关键概念／方法** 东西欧学制比较、社会主义教育体制、历史发生学分析。
 >   - **阶段转向** 突破冷战意识形态对立宣传，坚持以严谨的[[Document|文献]]考证与第一手数据剖析社会主义教育的实际机能。
 > - **1990年代 — 后社会主义转型、民主重构与[[Intercultural Education|跨文化教育]]融合** 直面两德统一与东欧剧变，探索国家教育体系在民主化与市场化转型中的阵痛。

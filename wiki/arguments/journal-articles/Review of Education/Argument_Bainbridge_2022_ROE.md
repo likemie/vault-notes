@@ -29,6 +29,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Deficit Framing]]"
   - "[[Discourse]]"
+  - "[[Comprehensive Education]]"
   - "[[Literature Review]]"
   - "[[Document]]"
   - "[[Open-Mindedness]]"
@@ -104,7 +105,7 @@ citation_aliases:
 - 借鉴 Stevens（2019, citing Thompson, 1990）的论证分析方法
 - 重构政治家的论证，识别其行动理由以及阻断或忽略证据的方式
 
-> 作者声明自身是 Comprehensive Future（主张综合教育的运动组织）指导委员会成员，存在 campaigner 立场偏倚风险。作者称研究的价值取决于其"管理竞选立场影响"和"保持被惊讶的可能性"的能力(p.6)
+> 作者声明自身是 Comprehensive Future（主张[[Comprehensive Education|综合教育]]的运动组织）指导委员会成员，存在 campaigner 立场偏倚风险。作者称研究的价值取决于其"管理竞选立场影响"和"保持被惊讶的可能性"的能力(p.6)
 
 ## 论证结构
 
@@ -229,7 +230,7 @@ citation_aliases:
 
 ## 局限性与批评
 
-**作者立场偏倚** 作者声明自身是 Comprehensive Future（主张综合教育的运动组织）指导委员会成员。作者称研究的价值取决于其"管理竞选立场影响"和"保持被惊讶的可能性"的能力(p.6)。论文中识别"建构型侧步"（而非预期的"回避型侧步"）表明了某种程度上的确保持了被惊讶的[[Open-Mindedness|开放性]]。
+**作者立场偏倚** 作者声明自身是 Comprehensive Future（主张[[Comprehensive Education|综合教育]]的运动组织）指导委员会成员。作者称研究的价值取决于其"管理竞选立场影响"和"保持被惊讶的可能性"的能力(p.6)。论文中识别"建构型侧步"（而非预期的"回避型侧步"）表明了某种程度上的确保持了被惊讶的[[Open-Mindedness|开放性]]。
 
 **[[Research Scope|研究范围]]极小** 聚焦于一项仅影响少数地方当局的短暂政策（SSEF）和一个国家（英国）的议会辩论，[[Internal and External Generalizability|外部推广性]]有限。但作者论证小案例为分析更大现象提供了"肥沃土壤"(p.2–3)。
 

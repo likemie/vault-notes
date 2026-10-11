@@ -26,6 +26,7 @@ related_concepts:
   - "[[Policy Conditionalities]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Total Factor Productivity]]"
+  - "[[Comprehensive Education]]"
   - "[[Independent Variable]]"
   - "[[Learning by Doing]]"
   - "[[Cold War University]]"
@@ -144,7 +145,7 @@ updated: 2026-10-09
 > [!proposition-chain] 核心命题二｜社会潜在人才库的发掘依赖国家系统性的人力需求预测与科学规划
 > - **前提一** 现代工业与技术社会的复杂化对高技术与专业管理劳动力产生了刚性的结构性需求（Harbison & Myers, 1964）。
 > - **前提二** 传统精英制或双轨制学校教育结构锁闭了大量工农子弟的智力潜能，导致“潜在人才库”（latent pool of talents）严重闲置，形成人力资本供给瓶颈（Halsey, Floud & Anderson, 1961）。
-> - **推导** ① 国家必须介入教育规划，依托跨国统计与投入产出模型测算中长期人力需求（Parnes, 1962）；② 实施综合教育体制重组，消除阶层壁垒以充分吸纳社会潜藏智力；③ 将教育制度与国家经济发展目标直接挂钩。
+> - **推导** ① 国家必须介入教育规划，依托跨国统计与投入产出模型测算中长期人力需求（Parnes, 1962）；② 实施[[Comprehensive Education|综合教育]]体制重组，消除阶层壁垒以充分吸纳社会潜藏智力；③ 将教育制度与国家经济发展目标直接挂钩。
 
 > [!proposition-chain] 核心命题三｜人力资本量化预测为政治正统与国际技术援助提供了免受问责的[[Social Science as Legitimation Alibi|科学借口]]
 > - **前提一** 战后西方各国政客与国际援助机构需要为急剧膨胀的公共财政支出和激进的制度重组寻求正当性，同时试图转嫁政策失败的政治与道德风险（[[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009, pp. 64, 67–68]]；[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a, pp. 147–148]]）。

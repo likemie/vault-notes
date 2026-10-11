@@ -21,6 +21,7 @@ tags:
 - examination
 - region/uk
 related_concepts:
+  - "[[Comprehensive Education]]"
   - "[[Academic Achievement]]"
   - "[[Discourse]]"
   - "[[Selective Education]]"
@@ -45,7 +46,7 @@ updated: 2026-10-07
 
 11-plus（11+）考试是英国中等教育选拔制度的核心机制——学生在 11 岁小学毕业时参加的学术能力测验，成绩决定其进入[[Grammar School|文法学校]]（grammar school）还是非选拔性综合学校（secondary modern / comprehensive school）。
 
-该考试是选择性教育制度的实际操作工具。尽管大多数英国地区已废除 11+ 并转为综合教育体系，英格兰仍有 163 所文法学校保留此考试作为入学选拔手段([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.3]])。
+该考试是选择性教育制度的实际操作工具。尽管大多数英国地区已废除 11+ 并转为[[Comprehensive Education|综合教育]]体系，英格兰仍有 163 所文法学校保留此考试作为入学选拔手段([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.3]])。
 
 "Ending the eleven-plus exam" 是综合教育运动的核心诉求之一([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.2]])。
 
@@ -54,7 +55,7 @@ updated: 2026-10-07
 ## 时间线
 
 - **1944** 年 Education Act（Butler Act）确立免费中等教育三轨制——[[Grammar School|文法学校]]、技术学校、现代中学——11+ 考试成为分配机制
-- **1960s–1970s** 大规模综合教育改革（comprehensivisation），多数地方政府废除 11+ 和文法学校
+- **1960s–1970s** 大规模[[Comprehensive Education|综合教育]]改革（comprehensivisation），多数地方政府废除 11+ 和文法学校
 - **1998** 年 School Standards and Framework Act：禁止建立新的文法学校
 - **2006** 年 [[Education and Inspections Act 2006]]：重申禁止新建文法学校，但允许现有 163 所继续运作和扩张
 - **2015–2019** 保守党政府推动 SSEF，允许现有文法学校申请 £50M 额外资金扩展招生——11+ 考试因此获得新政策动力([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.3]])

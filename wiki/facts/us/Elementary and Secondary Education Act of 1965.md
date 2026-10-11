@@ -33,6 +33,7 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Technical Rationality]]"
   - "[[Logic Model]]"
+  - "[[Educational Decentralization]]"
   - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
   - "[[Positivism]]"
@@ -121,7 +122,7 @@ updated: 2026-09-26
 ## 评价与影响
 
 > [!summary] 历史地位与政策启示
-> 1. **重塑美国联邦教育分权格局** ESEA 成功打破了宪法第十修正案下联邦对地方教育“无从插手”的法权僵局，开创了通过财政杠杆引导国家教育方针的根本[[Paradigm\|范式]]，是联邦干预公立教育最核心的制度机制。
+> 1. **重塑美国联邦[[Educational Decentralization|教育分权]]格局** ESEA 成功打破了宪法第十修正案下联邦对地方教育“无从插手”的法权僵局，开创了通过财政杠杆引导国家教育方针的根本[[Paradigm\|范式]]，是联邦干预公立教育最核心的制度机制。
 > 2. **[[Evidence-Based Education\|循证教育]]运动的制度孵化器** 从 1965 年简单的项目评估要求，到 2001 年 [[No Child Left Behind Act 2001\|NCLB]] 强制写入[[Scientifically Based Research\|基于科学的研究]]，再到 2015 年 [[Every Student Succeeds Act\|ESSA]] 精细化的四级证据体系，ESEA 的历次演进完整映射了国际循证教育运动从朴素[[Positivism\|实证主义]]走向多元证据治理的历史脉络。
 > 3. **政策时间系统（Chronosystem）的典型样本** 依据 [[Argument_Serpell_2020_EP\|Serpell (2020)]] 的洞察，ESEA 的法定重新授权构成了国家宏观政策生态中最核心的可预测时间节点。研究人员唯有深刻理解其数年一遇的立法周期律，提前布局针对性的实证研究储备，方能在国会审议窗口期精准输出专家证据。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 45–46)]]
 

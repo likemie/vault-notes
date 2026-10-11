@@ -70,7 +70,6 @@ related_concepts:
   - "[[Abstract]]"
   - "[[Document]]"
   - "[[Academic Achievement]]"
-  - "[[Opportunist Mode]]"
   - "[[Boundary Spanner]]"
   - "[[Effective Teaching]]"
   - "[[Cognitive Deskilling]]"
@@ -386,7 +385,7 @@ updated: 2026-09-24
 随着“证据知情”理念的广泛传播，这一概念在现实中也面临着被公关化、商业化与政治自利操纵的风险（pp. 59–60）：
 
 > [!critique] 循证教育话语的营销化与利益捕获（pp. 59–60）
-> - **挑樱桃式指标拼凑（Cherry-picking）** 当海量数据与指标触手可及时，决策者与机构管理层极易出于自身利益采取[[Opportunist Mode\|机会主义]]行为：只挑选最有利于粉饰政绩或突显自身成效的指标，正所谓“不能单因人们行使理性选择就苛责他们”（Blanchenay et al., 2014; pp. 59–60）。
+> - **挑樱桃式指标拼凑（Cherry-picking）** 当海量数据与指标触手可及时，决策者与机构管理层极易出于自身利益采取机会主义行为：只挑选最有利于粉饰政绩或突显自身成效的指标，正所谓“不能单因人们行使理性选择就苛责他们”（Blanchenay et al., 2014; pp. 59–60）。
 > - **[[Boundary Spanner\|边界跨越者]]蜕化为自利操纵者（Spinners）** 随着商业利益与教育科技资本的深度介入，原本保持中立的“边界跨越者”（Boundary Spanners）正面临被“自利操纵者”（Spinners）挤占的风险。这些利益主体打着“证据驱动”的旗号，实质上将学术研究异化为推销特定商业软件、教材或教学方案的营销包装手段（Lubienski, 2019; Burns, 2022; p. 60）。
 
 #### 3. 循证医学五大意外后果警示：技术化规则与决策算法存在系统性剥离教师临床专业判断的致命风险

@@ -23,6 +23,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Academic Achievement]]"
   - "[[Grade Retention]]"
+  - "[[Comprehensive Education]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Academic Engagement]]"
   - "[[Causality]]"
@@ -103,7 +104,7 @@ updated: 2026-10-07
 >   - *Streaming* 指整个班级按综合能力排序成型，所有主干学科均在同一水平的固定班级内授课；
 >   - *Setting* 指仅针对特定学科（如数学、外语）按学力进行分层走班，学生在不同学科可分属不同层次组别；
 >   - *校际物理分轨（Between-School Tracking）* 表现为中等教育阶段的独立选拔性学校体系，如德国的三轨制（Gymnasium / Realschule / Hauptschule）与英国的[[Grammar School\|文法学校]]选拔制度。
-> - **分轨制 vs 综合中学制（Comprehensive Schooling）**
+> - **分轨制 vs [[Comprehensive Education|综合中学制]]（Comprehensive Schooling）**
 >   - 综合中学主张彻底破除早期选拔与物理分轨，全纳所有背景与能力水平的学生，在同一学校实体内共享高质量公共核心课程（如芬兰与波兰的改革经验）。
 
 ---
@@ -111,7 +112,7 @@ updated: 2026-10-07
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | Tracking（课程分轨） | Streaming（全科分流） | Setting（单科分组） | Comprehensive Schooling（综合中学制） |
+> | 维度 | Tracking（课程分轨） | Streaming（全科分流） | Setting（单科分组） | [[Comprehensive Education\|comprehensive schooling]]（综合中学制） |
 > |:---|:---|:---|:---|:---|
 > | **组织形式** | 按培养方向划分长周期成套课程轨 | 以班级为单位全科按综合均分固化 | 仅针对特定学科开展走班分层教学 | 取消早期分流，全员共享单一体制 |
 > | **流动弹性** | 极低（低轨极难跨越选修高阶大学先修课） | 低（班级整体绑定，升降流转阻力大） | 中等（随单科学业进展保持学期动态调整） | 高（统一公共基础，自主弹性拓展选修） |
@@ -140,7 +141,7 @@ updated: 2026-10-07
 > 探讨国家中等教育体系的分层分轨程度如何系统性放大社会背景差距，并对青少年的内在学习动机产生负向挫伤。
 
 > [!claim] [[OECD]]; Grey & Morris
-> **宏观层化对公平与动机的双重抑制** 基于 [[PISA]] 全球数据库的跨国回归与实证分析证实，中等教育体制的分轨与[[Grade Retention\|留级]]等层化手段，对教育系统的公平性构成直接破坏；过早进行学力选拔与分轨的国家，其家庭社会经济背景对学生[[Academic Achievement\|学业成就]]的解释力显著更高，且处于高度分层系统中的学生，其普遍的学习效能感与[[Academic Engagement\|学业投入]]动机均显著弱于全纳性综合教育系统中的同龄人。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, p. 114)]]
+> **宏观层化对公平与动机的双重抑制** 基于 [[PISA]] 全球数据库的跨国回归与实证分析证实，中等教育体制的分轨与[[Grade Retention\|留级]]等层化手段，对教育系统的公平性构成直接破坏；过早进行学力选拔与分轨的国家，其家庭社会经济背景对学生[[Academic Achievement\|学业成就]]的解释力显著更高，且处于高度分层系统中的学生，其普遍的学习效能感与[[Academic Engagement\|学业投入]]动机均显著弱于全纳性[[Comprehensive Education|综合教育]]系统中的同龄人。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, p. 114)]]
 
 ---
 

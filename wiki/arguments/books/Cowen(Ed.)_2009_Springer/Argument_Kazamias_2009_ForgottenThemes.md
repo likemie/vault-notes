@@ -70,6 +70,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Cultural Nationalism vs. Political Nationalism]]"
   - "[[Factorial Interpretive Framework]]"
+  - "[[Educational Decentralization]]"
   - "[[Incommensurability]]"
   - "[[Commensuration]]"
   - "[[Analytical Stance]]"
@@ -358,7 +359,7 @@ updated: 2026-10-08
 
 > [!factors] 汉斯的阶梯式三维因素解释体系（Factorial Interpretive Framework）
 > 1. **自然因素的物质与生态制约（Natural Factors: Race, Language, Environment）**
->    涵盖种族（Race）、语言（Language）与地理环境（Environment）三大天然物理先决条件。汉斯强调国民教育体系是国民性格的外在表达。在自然因素中，种族构成人类族群身体与历史分化的物质先决条件，但汉斯严厉抵制生物种族决定论，并在 1950 年代公开抨击美国利用智力测验推导“北欧日耳曼族裔优于斯拉夫或意大利族裔”的伪科学偏见（Hans, 1959: 447）；语言作为思维形式与文化认同的核心纽带，在多语言与多民族国家（如瑞士、比利时、加拿大）直接决定教育分权与国家整合同盟的稳定性；地理环境（海陆区位、气候、自然资源与地缘空间）则对各国的产业结构、人口聚集与教育行政集权或分权体制施加不可逆转的天然物质生态塑造。（Hans, 1949: 9–11）
+>    涵盖种族（Race）、语言（Language）与地理环境（Environment）三大天然物理先决条件。汉斯强调国民教育体系是国民性格的外在表达。在自然因素中，种族构成人类族群身体与历史分化的物质先决条件，但汉斯严厉抵制生物种族决定论，并在 1950 年代公开抨击美国利用智力测验推导“北欧日耳曼族裔优于斯拉夫或意大利族裔”的伪科学偏见（Hans, 1959: 447）；语言作为思维形式与文化认同的核心纽带，在多语言与多民族国家（如瑞士、比利时、加拿大）直接决定[[Educational Decentralization|教育分权]]与国家整合同盟的稳定性；地理环境（海陆区位、气候、自然资源与地缘空间）则对各国的产业结构、人口聚集与教育行政集权或分权体制施加不可逆转的天然物质生态塑造。（Hans, 1949: 9–11）
 > 2. **宗教因素的超验权威与制度博弈（Religious Factors: Catholicism, Anglicanism, Puritanism）**
 >    深入考察宗教通论与三大西方基督宗教传统对学校制度的历史奠基作用（Hans, 1949: 16）。天主教（Catholicism）依托普世神权权威、严密教阶秩序与修会办学传统（如耶稣会），强调集中化教义传承，往往与近代民族国家的世俗化集权爆发激烈的学校控制权冲突；英国圣公会（Anglicanism）作为国家教会（Established Church），体现王权与建制妥协特征，塑造了英国公立学校与教会自愿学校双轨并存的折衷传统；清教与加尔文派（Puritanism & Calvinism）打破中介教阶，倡导信徒直面圣经与天职观念，从教义上强力催生了平民普及识字、基层会众自治与民选校董会机制，深刻奠定了苏格兰、荷兰以及北美早期地方分权公立教育的民主根基。（Hans, 1949: 16）
 > 3. **世俗因素的启蒙理性与意识形态重构（Secular Factors: Humanism, Socialism, Nationalism）**

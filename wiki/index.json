@@ -564,6 +564,19 @@
     ]
   },
   {
+    "title": "Comprehensive Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Comprehensive Education.md",
+    "aliases": [
+      "综合教育",
+      "综合中学制",
+      "综合教育原则",
+      "comprehensive schooling",
+      "comprehensive principle",
+      "comprehensive school system"
+    ]
+  },
+  {
     "title": "Confucian Heritage Cultures",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Confucian Heritage Cultures.md",
@@ -2961,6 +2974,18 @@
     "path": "wiki/concepts/educational-leadership-administration/Cult of the Guru.md",
     "aliases": [
       "大师崇拜"
+    ]
+  },
+  {
+    "title": "Educational Decentralization",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Educational Decentralization.md",
+    "aliases": [
+      "教育分权",
+      "教育权力下放",
+      "地方教育分权",
+      "educational devolution",
+      "educational decentralisation"
     ]
   },
   {
@@ -23269,6 +23294,17 @@
     ]
   },
   {
+    "title": "José Luis García Garrido",
+    "type": "person",
+    "path": "wiki/persons/spain/José Luis García Garrido.md",
+    "aliases": [
+      "加西亚·加里多",
+      "何塞·路易斯·加西亚·加里多",
+      "García Garrido",
+      "Garcia Garrido, J. L."
+    ]
+  },
+  {
     "title": "Manuel Castells",
     "type": "person",
     "path": "wiki/persons/spain/Manuel Castells.md",
@@ -30351,6 +30387,42 @@
     ]
   },
   {
+    "title": "General Act of Education of 1970",
+    "type": "fact",
+    "path": "wiki/facts/spain/General Act of Education of 1970.md",
+    "aliases": [
+      "1970年普通教育法",
+      "普通教育法",
+      "LGE",
+      "Ley General de Educación",
+      "General Education Act of 1970"
+    ]
+  },
+  {
+    "title": "Organic Law on Education 2006",
+    "type": "fact",
+    "path": "wiki/facts/spain/Organic Law on Education 2006.md",
+    "aliases": [
+      "2006年西班牙教育组织法",
+      "教育组织法",
+      "LOE",
+      "Ley Orgánica de Educación",
+      "Organic Law 2/2006"
+    ]
+  },
+  {
+    "title": "Organic Law on the General Organization of the Education System 1990",
+    "type": "fact",
+    "path": "wiki/facts/spain/Organic Law on the General Organization of the Education System 1990.md",
+    "aliases": [
+      "1990年西班牙教育体制总组织法",
+      "教育体制总组织法",
+      "LOGSE",
+      "Ley Orgánica de Ordenación General del Sistema Educativo",
+      "Organic Law 1/1990"
+    ]
+  },
+  {
     "title": "Visible Learning in Sweden",
     "type": "fact",
     "path": "wiki/facts/sweden/Visible Learning in Sweden.md",
@@ -34893,6 +34965,11 @@
     "title": "Argument_Cowen_2009_HistoryCreation",
     "type": "argument",
     "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Cowen_2009_HistoryCreation.md"
+  },
+  {
+    "title": "Argument_Garcia_Garrido_2009_SpainEU",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md"
   },
   {
     "title": "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings",

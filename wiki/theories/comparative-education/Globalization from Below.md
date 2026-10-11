@@ -38,6 +38,7 @@ related_concepts:
   - "[[Popular Education]]"
   - "[[Research Question]]"
   - "[[Return on Investment]]"
+  - "[[Educational Decentralization]]"
   - "[[Costs Benefits Ratio in Research Ethics]]"
   - "[[Creativity]]"
   - "[[Epistemology]]"
@@ -169,7 +170,7 @@ updated: 2026-10-09
 >   - **D1.1｜自上而下的超国家与国家主导模式（Top-Down Hegemonic Model）**
 >     由国际金融多边机构、中央政府部委与跨国资本同盟单向推行的规训模式。
 >     - **D1.1.1｜外生性政策强加与条件绑定指标**
->       - **含义** 国际金融机构将教育分权、结构调整与公立预算削减作为贷款的前提硬性约束。
+>       - **含义** 国际金融机构将[[Educational Decentralization|教育分权]]、结构调整与公立预算削减作为贷款的前提硬性约束。
 >       - **观察线索** [[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]贷款协定备忘录、中央教育部强制下达法令。
 >       - **判读规则** 缺乏基层民主协商且带有财政惩戒与强制合规条款，判定为自上而下主导。
 >       - **归属与出处** 依据 [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106, 112–114)]]。

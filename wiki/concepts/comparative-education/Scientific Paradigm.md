@@ -45,6 +45,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Dissimilar Units]]"
   - "[[Social Science as Legitimation Alibi]]"
+  - "[[Comprehensive Education]]"
   - "[[Grand Theory]]"
   - "[[Comparative Educations]]"
   - "[[Commensuration]]"
@@ -210,7 +211,7 @@ updated: 2026-10-09
 > 战后科学化运动中的不同流派在官方政策市场遭遇了剧烈分化，实证量化学派的全面胜出反映了学术[[Paradigm\|范式]]与国家机器意识形态的深度结盟。
 
 > [!claim] Mattheou, D.
-> **实证硬数据充当推卸政治责任的[[Social Science as Legitimation Alibi\|科学借口]]** 美国实证功能主义与量化学派之所以压倒霍姆斯折衷复杂的[[Problem Approach\|问题法]]，其根源不在于认识论上的高明，而在于现代国家规划体制（如中央五年计划、综合中学制度重构、第三世界技术援助）急需无可置辩的客观科学依据为既定预算与意识形态方针背书；实证[[Quantitative Research\|量化研究]]产出的直观回归系数与硬数据，完美契合了技术官僚规避政治责任与逃避道德反思的工具性需求，使社会科学在实践中蜕变为现存政治正统的便利借口与合法化手段（alibi）。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 67–68)]]
+> **实证硬数据充当推卸政治责任的[[Social Science as Legitimation Alibi\|科学借口]]** 美国实证功能主义与量化学派之所以压倒霍姆斯折衷复杂的[[Problem Approach\|问题法]]，其根源不在于认识论上的高明，而在于现代国家规划体制（如中央五年计划、[[Comprehensive Education|综合中学制]]度重构、第三世界技术援助）急需无可置辩的客观科学依据为既定预算与意识形态方针背书；实证[[Quantitative Research\|量化研究]]产出的直观回归系数与硬数据，完美契合了技术官僚规避政治责任与逃避道德反思的工具性需求，使社会科学在实践中蜕变为现存政治正统的便利借口与合法化手段（alibi）。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 67–68)]]
 
 ---
 

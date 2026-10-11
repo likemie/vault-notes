@@ -26,6 +26,7 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Champ]]"
   - "[[Shadow State]]"
+  - "[[Comprehensive Education]]"
   - "[[Paradigm]]"
   - "[[Unit of Analysis]]"
   - "[[Disciplina and Doctrina]]"
@@ -157,7 +158,7 @@ updated: 2026-10-09
 > **公共资源论为跨国法律移植消除正当性赤字** 维克多·库森在推动法国初等教育改革时清醒认识到，直接照搬普鲁士君主制法案条款必将引发国内教会势力与保守势力的剧烈抵抗；通过提出“教育权是国家神圣公共资源”的法哲学命题，库森在法理上赋予了中央世俗国家强制征税、开办学校与行使最高视察权的本体正当性，从而构建了将普鲁士 1819 年[[Johann Wilhelm Süvern|聚芬]]草案系统转置为法国 1833 年[[Guizot Law of 1833|基佐法案]]的核心推论桥梁。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 26–29)]]；引自 Brewer (1971:16, 44)
 
 > [!claim] Suvern, J. W.
-> **世俗国家最高监督权是确立现代国民教育法典的制度总纲** 普鲁士枢密顾问官聚芬在起草《1819 年普鲁士综合教育法草案》时，将世俗国家的最高监督确立为国民教育体制的总纲；通过法律条文强制地方市镇自筹办学经费并由省立[[Normal School|师范学校]]统一师资，确立了国家主权意志统摄全境公学的经典[[Paradigm|范式]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 26–28)]]
+> **世俗国家最高监督权是确立现代国民教育法典的制度总纲** 普鲁士枢密顾问官聚芬在起草《1819 年普鲁士[[Comprehensive Education|综合教育]]法草案》时，将世俗国家的最高监督确立为国民教育体制的总纲；通过法律条文强制地方市镇自筹办学经费并由省立[[Normal School|师范学校]]统一师资，确立了国家主权意志统摄全境公学的经典[[Paradigm|范式]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 26–28)]]
 
 ---
 
