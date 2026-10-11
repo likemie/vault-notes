@@ -11,7 +11,7 @@ aliases:
 summary: "将技能习得深嵌于工作场所实践操作与长期师徒传承中的制度化技能形成机制。既是19世纪普鲁士工业赶超与芯片法案劳动力附加条件的核心抓手，也是微电子与先进制造中维系洁净室工艺知识、培育全谱系技师的关键支柱。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Cognitive Apprenticeship]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Institutional Complementarity]]"
   - "[[Paradigm]]"
   - "[[Absorptive Capacity]]"
   - "[[Document]]"
@@ -82,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-10
+updated: 2026-10-11
 ---
 
 # Apprenticeship
@@ -249,10 +250,10 @@ updated: 2026-10-10
 > [!debates] 学术争议
 >
 > > [!axis] 制度可移植性之争：本土嵌入 vs 跨国复制
-> > 围绕高绩效学徒制（如德制双元体系）能否成功跨国移植至自由市场经济体（LME）的分歧。
+> > 围绕高绩效学徒制（如德制双元体系）能否成功跨国移植至[[Varieties of Capitalism|自由市场经济体]]（LME）的分歧。
 > >
 > > - **普遍推广论** 主张后发与转型国家应直接复制双元学徒制标准，以迅速弥合青年失业与制造业技工荒。
-> > - **制度互补论** 强调学徒制必须嵌入在行业协会强制准入、工会工资协商机制与高福利保障等非市场制度网络中；脱离这一母体单独移植学徒制注定面临雇主搭便车与青年不愿入读的制度排异。
+> > - **[[Institutional Complementarity|制度互补]]论** 强调学徒制必须嵌入在行业协会强制准入、工会工资协商机制与高福利保障等非市场制度网络中；脱离这一母体单独移植学徒制注定面临雇主搭便车与青年不愿入读的制度排异。
 >
 > > [!axis] [[Policy Conditionalities|政策附加条件]]：提升劳工标准 vs 增加合规行政负担
 > > 围绕现代产业法案中强制要求注册学徒制与托儿支持等附加条件是否会阻碍投资进度的争论。

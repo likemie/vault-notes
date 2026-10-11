@@ -7,7 +7,7 @@ title: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_key: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_display_title: "Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019"
 argument_kind: "report"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dcfce7"
@@ -55,6 +55,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Responsible Innovation]]"
   - "[[Competitiveness]]"
+  - "[[Liberalization]]"
   - "[[Research and Technology Organisation]]"
   - "[[Problem Solving]]"
   - "[[Research Universities]]"
@@ -400,7 +401,7 @@ updated: 2026-10-08
 > > [!timeline] 荷兰产业政策演变
 > > - **1945–1970** 积极产业政策（active industrial policy）
 > > - **1970s** 转向防御性政策（defensive policy）
-> > - **1990s** 主要关注市场自由化（market liberalisation）
+> > - **1990s** 主要关注市场[[Liberalization|自由化]]（market liberalisation）
 > > - **2000s** "强商业-强政府"方法（strong-business-strong-government）
 > > - **2010+** 转向[[Netherlands Top-sector Policy]]（顶级行业）和使命驱动政策，包含三要素：通用创新轨道、顶级行业政策、风险与种子资本（pp.31–32）
 >

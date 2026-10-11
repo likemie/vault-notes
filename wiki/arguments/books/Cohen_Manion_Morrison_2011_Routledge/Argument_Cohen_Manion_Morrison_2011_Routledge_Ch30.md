@@ -47,6 +47,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Central Phenomenon]]"
   - "[[Saturation]]"
+  - "[[Social Regime]]"
   - "[[Homework]]"
   - "[[Rich and Thick Description]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
@@ -98,7 +99,6 @@ related_methods:
   - "[[Audit Trail]]"
 related_instruments: []
 related_persons:
-  - "[[Morris Berman]]"
   - "[[Miranda Fricker]]"
 related_facts: []
 related_arguments:
@@ -184,7 +184,7 @@ updated: 2026-09-08
 
 #### 编码的工作机制与认知容量控制
 
-编码是一项高度往复迭代的循环过程，而非一次性任务。迈尔斯与休[[Morris Berman|伯曼]]指出，编码应当尽早启动，晚期编码往往削弱分析的深度；但早期编码也存在先入为主、过度规约后续阅读的风险（Miles & Huberman, 1994, pp. 108, 111；p. 560）：
+编码是一项高度往复迭代的循环过程，而非一次性任务。迈尔斯与休伯曼指出，编码应当尽早启动，晚期编码往往削弱分析的深度；但早期编码也存在先入为主、过度规约后续阅读的风险（Miles & Huberman, 1994, pp. 108, 111；p. 560）：
 
 > [!factors] 决定编码成效与认知负荷的三大关键因素（Miles & Huberman, 1994）
 > - **编码介入的时间节点** 早期赋码能够及时引导后续数据收集并加深对文本的理解；延后编码则容易造成材料堆积并丧失分析敏锐度。
@@ -233,7 +233,7 @@ updated: 2026-09-08
 > > [!col-l] 前置脉络与诱发条件
 > > - **因果条件（Causal Conditions）** 诱发[[Central Phenomenon\|核心现象]]产生的一系列结构性事件、前提条件与前置诱因。
 > > - **情境脉络（Context）** 现象发生时所处的特定外部环境条件与行动场域。
-> > - **中介条件（Intervening Conditions）** 促进或阻碍行动策略实施的广泛宏观与微观结构条件（如时间限制、文化规范、制度规约）。
+> > - **中介条件（Intervening Conditions）** 促进或阻碍行动策略实施的广泛宏观与微观结构条件（如时间限制、文化规范、[[Social Regime|制度规约]]）。
 >
 > > [!col-r] 核心行动与衍生结果
 > > - **核心现象（Phenomenon）** 被研究者识别为处于分析中心位置的核心事件、观念、行动模式或经验困境。

@@ -8,7 +8,7 @@ aliases:
 summary: "指源自高科技创业生态与国家战略工程实践的组织治理范式；其核心特征在于确立权责对称与切身利益担当（Skin in the Game），破除公职禁欲主义与程序合规迷思，倡导以物理世界实质战略产出（如建造潜艇、降低疾病、消除犯罪）为最高判准，被卡普与扎米斯卡视为重塑公共治理、打破创新荒漠与重建技术共和国的核心制度杠杆。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 33
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -30,12 +30,14 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Engineering Mindset]]"
   - "[[Competitiveness]]"
+  - "[[Social Regime]]"
   - "[[Hard Power]]"
   - "[[Consumer Internet]]"
   - "[[Sage]]"
   - "[[Epistemology]]"
   - "[[Scapegoat Mechanism]]"
   - "[[Civic Rituals]]"
+  - "[[Institutional Complementarity]]"
   - "[[Effective Altruism]]"
   - "[[Cultural Relativism]]"
 related_theories:
@@ -61,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-11
 ---
 
 # Founder Culture
@@ -112,7 +114,7 @@ updated: 2026-10-09
 > - **权责对称的激励对标（Market-Benchmarked Compensation）** 破除将公职预设为苦行僧的圣徒迷思，以具有市场[[Competitiveness|竞争力]]的待遇激励和保留具备创始人素质的顶尖治理人才。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 181–183)]]
 > - **奥德修斯式自愿自我约束（Odyssean Self-Constraint）** 创始人主动确立制度与法律约束机制，将自身“捆绑于桅杆之上”，抵御资本市场的季度财报短期压力与利益诱惑，守护长期战略愿景。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 209–210)]]
 > - **长程资产托管哲学（Three-Century Stewardship）** 摒弃季度短期主义（Quarter-to-Quarter Short-Termism），践行如耶鲁捐赠基金大卫·斯文森（David Swensen）倡导的“跨越三个世纪”的长程资产配置与治理哲学，视组织资产为代际传承的文明基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, p. 209)]]
-> - **全员股权与所有权社会体制（All-Employee Equity & Ownership Society）** 破除传统工业合伙人与纯薪酬雇佣制的劳资异化，通过全员广泛股权激励使每位建设者成为共同所有者，实现集体使命与切身利益的高度统一。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 210–212)]]
+> - **全员股权与所有权[[Social Regime|社会体制]]（All-Employee Equity & Ownership Society）** 破除传统工业合伙人与纯薪酬雇佣制的劳资异化，通过全员广泛股权激励使每位建设者成为共同所有者，实现集体使命与切身利益的高度统一。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 210–212)]]
 
 > [!logic-map]- 创始人文化重构公共部门的因果传导机制
 > ```mermaid
@@ -190,7 +192,7 @@ updated: 2026-10-09
 
 ### 命题五　硅谷全员股权体制构建了超越雇佣异化的所有权社会微观范式
 
-> [!concept-lens] 全员股权与所有权社会体制探讨
+> [!concept-lens] 全员股权与所有权[[Social Regime|社会体制]]探讨
 > 探讨科技生态如何通过全员股权分配打破传统劳资雇佣对立，将每个成员转化为切身利益攸关的共同所有者。
 
 > [!claim] Amar, A. R.; Karp, A. & Zamiska, N.
@@ -293,7 +295,7 @@ updated: 2026-10-09
 > | [[Technological Republic]] | 制度支柱 | 创始人文化是技术共和国在微观公共组织层面的核心制度特征 |
 > | [[Innovation Desert]] | 对立破解 | 创始人文化通过确立权责对称，直接打破官僚机构的避险荒漠化 |
 > | [[Engineering Mindset]] | [[Epistemology\|认识论]]基础 | 工程师对物理世界结果的执着构成了创始人文化的思维内核 |
-> | [[Civic Rituals]] | 制度互补 | 创始人文化与公民仪式共同构成了对抗相对主义虚无与程序异化的微观与宏观制度支柱 |
+> | [[Civic Rituals]] | [[Institutional Complementarity\|制度互补]] | 创始人文化与公民仪式共同构成了对抗相对主义虚无与程序异化的微观与宏观制度支柱 |
 > | [[Effective Altruism]] | [[Paradigm\|范式]]批判 | 创始人文化主张切身利益担当与物理世界工程成果，批判有效利他主义的抽象脱嵌算计 |
 > | [[Cultural Relativism]] | 价值对照 | 创始人文化坚守文明自信与工程真理客观性，破除解构战略信心的文化相对主义迷思 |
 > | [[Lee Kuan Yew]] | 历史典范 | 李光耀将创始人治理逻辑引入国家建构，确立市场化对标激励 |

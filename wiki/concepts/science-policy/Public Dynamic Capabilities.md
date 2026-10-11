@@ -9,7 +9,7 @@ aliases:
 summary: "指公共机构在面对高度不确定性与重大社会挑战时，识别前沿方向、协调跨部门资源、进行实验试错并实现制度化反思学习的组织能力；强调建立内部专业研判能力以抵御外部咨询机构带来的去能力化风险。"
 type: concept
 domain: "science-policy"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Grand Challenges]]"
   - "[[Absorptive Capacity]]"
   - "[[Lead-and-Learn Paradigm]]"
+  - "[[Institutional Complementarity]]"
   - "[[Operationalization]]"
   - "[[Paradigm]]"
   - "[[Mission-Oriented Innovation Policy]]"
@@ -61,7 +62,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-11
 ---
 
 # Public Dynamic Capabilities
@@ -137,7 +138,7 @@ updated: 2026-10-07
 > > 争论传统基于法律程序与终身雇佣的文官体制能否真正兼容高容错的创新实验。
 > >
 > > - **传统科层学派质疑** 担忧过度强调敏捷与自由裁量权可能破坏行政中立与法治程序，诱发权力寻租。
-> > - **动态能力学派辩护** 强调动态能力并非盲目打破规则，而是设立专门的“特区式”探索机构（如 [[DARPA]]、英国 ARIA）并配备透明的里程碑问责机制，实现稳定性与灵活性的制度互补。
+> > - **动态能力学派辩护** 强调动态能力并非盲目打破规则，而是设立专门的“特区式”探索机构（如 [[DARPA]]、英国 ARIA）并配备透明的里程碑问责机制，实现稳定性与灵活性的[[Institutional Complementarity|制度互补]]。
 > >
 > > - **公私薪酬倒挂困境** 批评公共部门受制于体制内薪酬上限，难以在人工智能等前沿领域长期留住顶尖技术专才。
 > > - **使命激励主张** 强调除物质激励外，重大公共使命赋予的社会价值感与科研自主权具有不可替代的人才吸聚效应。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 806)]]

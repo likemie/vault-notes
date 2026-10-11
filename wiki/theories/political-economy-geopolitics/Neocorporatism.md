@@ -10,7 +10,7 @@ aliases:
 summary: "国家将少数垄断性社会伙伴（如雇主协会、全国性工会或大型专业协会）正式纳入政策制定与执行的制度化协商网络，在教育治理中表现为职业培训三方共治机制或行业协会闭门立法妥协"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 18
+theory_related_count: 19
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -23,6 +23,7 @@ tags:
   - policy/educational-policy
   - paradigm/political-economy
 related_concepts:
+  - "[[Social Regime]]"
   - "[[Lifelong Learning]]"
   - "[[Variable]]"
   - "[[Technical Rationality]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-14
-updated: 2026-10-05
+updated: 2026-10-11
 ---
 
 # Neocorporatism
@@ -60,7 +61,7 @@ updated: 2026-10-05
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 国家将特定具有行业代表垄断地位的社会伙伴（如雇主协会、全国性工会或大型专业学术协会）纳入决策与执行系统，通过制度化协商网络进行政策妥协、社会规约与利益分配的治理模式。
+> - **解释对象** 国家将特定具有行业代表垄断地位的社会伙伴（如雇主协会、全国性工会或大型专业学术协会）纳入决策与执行系统，通过制度化协商网络进行政策妥协、[[Social Regime|社会规约]]与利益分配的治理模式。
 > - **理论问题** [[Pluralism|传统多元主义]]预设无数利益群体平等分散竞争；新法团主义指出国家倾向于赋予少数代表性组织垄断性对话特权，以换取社会稳定与政策顺利落地，但往往造成非民主的闭门妥协与基层代表性危机。
 > - **理论类型** 中观政治经济学制度理论与治理[[Network Analysis|网络分析]]框架。
 > - **知识位置** 源自菲利普·施密特（Philippe Schmitter, 1979）对法团主义的现代重构，以及罗伯特·达尔（Robert Dahl, 1985）对法团主义民主合法性赤字的批判；在教育研究中广泛用于解释欧洲职业培训三方共治（[[Argument_Rambla_2022_Springer|Rambla, 2022]]）及美英专业协会与国家的闭门立法博弈（[[Argument_Edmondson_2005_EPAA|Edmondson, 2005]]）。

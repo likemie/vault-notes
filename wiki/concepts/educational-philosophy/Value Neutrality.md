@@ -10,7 +10,7 @@ aliases:
 summary: "主张科学研究应排除研究者主观价值偏见并保持程序中立的认识论规范；在启蒙发轫期曾被道德改良统摄，在韦伯与20世纪实证学派中被法典化为科学基石，在批判理论中被解构为维护统治的意识形态，并在当代公共与科技竞争中凸显为区分描述性经验事实与规范性道德评价的“认知脱钩”求真能力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 93
+related_count: 94
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Variable]]"
   - "[[Reliability]]"
+  - "[[Social Regime]]"
   - "[[Educational Meliorism]]"
   - "[[Critical Pedagogy]]"
   - "[[Bildung]]"
@@ -123,7 +124,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-17
-updated: 2026-10-09
+updated: 2026-10-11
 ---
 
 # Value Neutrality
@@ -174,7 +175,7 @@ updated: 2026-10-09
 
 > [!boundary]- 概念边界
 > - **不等于客观性（Objectivity）** 客观性指向研究结论与外部实在经验事实的符合程度，而价值中立指的是研究者在推论过程中是否刻意清除了主观偏好的干预。
-> - **不等于意识形态真空（Ideological Vacuum）** 批判社会科学指出，声称中立的尝试往往预设了现有社会体制的合理性，在客观实效上容易走向维护既得利益现状的意识形态立场。
+> - **不等于意识形态真空（Ideological Vacuum）** 批判社会科学指出，声称中立的尝试往往预设了现有[[Social Regime|社会体制]]的合理性，在客观实效上容易走向维护既得利益现状的意识形态立场。
 > - **不适用于教育终极目的（Educational Ends）** 价值中立只能说明“特定手段能否达成既定技术目标”，根本无法回答教育“为了什么目的”（To what ends）、“为了谁的福祉”等核心规范伦理问题。
 
 ---

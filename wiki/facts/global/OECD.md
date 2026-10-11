@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 93
+fact_related_count: 94
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -66,6 +66,7 @@ related_concepts:
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Learning by Doing]]"
   - "[[Total Quality Management]]"
+  - "[[Institutional Complementarity]]"
   - "[[Academic Achievement]]"
   - "[[Soft Power]]"
   - "[[PISA Shock]]"
@@ -128,7 +129,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-09
+updated: 2026-10-11
 ---
 
 # OECD
@@ -273,7 +274,7 @@ updated: 2026-10-09
 > > [!axis] 单一研发投入排行 vs [[National Innovation System|国家创新系统]]多维评估：科技创新治理的范式跃迁
 > > 经合组织早期确立的《[[Frascati Manual|弗拉斯卡蒂手册]]》研发投入联赛榜，是否能够有效衡量国家的真实创新活力与长期产业竞争力？
 > >
-> > - **线性投入指标的体制诱偏（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）** [[Chris Freeman|克里斯·弗里曼]]指出，OECD 早期依据《弗拉斯卡蒂手册》编制的跨国研发支出占国民生产总值比重（GERD/GNP）联赛榜，在战后诱发了政策盲区：它将创新狭隘等同于研发实验室的资金投入，不仅无法解释研发强度极高但民用产业停滞的苏联，也无法解释研发强度较低却凭借车间工艺学习（[[Learning by Doing]]）与[[Total Quality Management|全面质量管理]]实现高速跨越的日本；单一研发投入排行遮蔽了制度互补与组织学习的决定性作用。
+> > - **线性投入指标的体制诱偏（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）** [[Chris Freeman|克里斯·弗里曼]]指出，OECD 早期依据《弗拉斯卡蒂手册》编制的跨国研发支出占国民生产总值比重（GERD/GNP）联赛榜，在战后诱发了政策盲区：它将创新狭隘等同于研发实验室的资金投入，不仅无法解释研发强度极高但民用产业停滞的苏联，也无法解释研发强度较低却凭借车间工艺学习（[[Learning by Doing]]）与[[Total Quality Management|全面质量管理]]实现高速跨越的日本；单一研发投入排行遮蔽了[[Institutional Complementarity|制度互补]]与组织学习的决定性作用。
 > > - **国家[[Systems of Innovation|创新系统]]（NIS）的系统性反思与重构** 面对[[Evolutionary Economics|演化经济学]]的理论推进与后发追赶的历史事实，OECD 于 1990 年代主动修正了单一线性投入的指标偏向，由科学、技术与创新司（DSTI）全面采纳[[National Innovation System|国家创新系统]]理论，将政策关注点从孤立的研发经费规模转向企业、高校、公共科研院所与政府网络之间的“互动学习”与知识流动效率，推动了战后国际科技政策指标的深层范式升级。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–11, 19–20)]]
 
 > [!citation-card] 《[[PISA]] 2000：测量学生知识与技能》前言（2000年）

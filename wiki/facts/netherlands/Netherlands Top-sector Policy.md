@@ -7,7 +7,7 @@ subtype: policy
 region: netherlands
 fact_region: "netherlands"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -19,6 +19,7 @@ tags:
   - theme/public-private-partnership
   - level/higher-education
 related_concepts:
+  - "[[Liberalization]]"
   - "[[Competitiveness]]"
 related_theories:
   - "[[Triple Helix]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-07
+updated: 2026-10-11
 ---
 
 # Netherlands Top-sector Policy
@@ -41,7 +42,7 @@ updated: 2026-10-07
 ## 背景
 
 > [!info]
-> 荷兰的产业政策经历了长期演变：1945–1970 年积极产业政策 → 1970 年代转向防御性政策 → 1990 年代主要关注市场自由化 → 2000 年代转向"强商业-强政府"（strong-business-strong-government）方法 → 2010 年后转向"顶级行业"（top-sector）和使命驱动政策。[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp. 31-32)]]
+> 荷兰的产业政策经历了长期演变：1945–1970 年积极产业政策 → 1970 年代转向防御性政策 → 1990 年代主要关注市场[[Liberalization|自由化]] → 2000 年代转向"强商业-强政府"（strong-business-strong-government）方法 → 2010 年后转向"顶级行业"（top-sector）和使命驱动政策。[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp. 31-32)]]
 
 ---
 ## 政策文本摘要

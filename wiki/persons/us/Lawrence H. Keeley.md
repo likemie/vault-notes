@@ -9,7 +9,7 @@ summary: "劳伦斯·H·基利（Lawrence H. Keeley，1948–2016），美国史
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Moral Dualism]]"
   - "[[Paradigm]]"
+  - "[[Social Regime]]"
   - "[[Falsification]]"
   - "[[Determinism]]"
   - "[[Cultural Relativism]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-11
 ---
 
 # Lawrence H. Keeley
@@ -117,7 +118,7 @@ updated: 2026-10-09
 ## 历史评价
 
 > [!citation-card] 人类学和平神话的实证终结者
-> 劳伦斯·基利以严谨冷峻的考古数据剥下了人类学长期笼罩在原始社会之上的[[Jean-Jacques Rousseau|卢梭]]主义面纱，证明了有组织残暴并非现代文明的专利，而是深植于人类未受制度规约前的原始本能之中。([[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska, 2025, pp. 53–54]])
+> 劳伦斯·基利以严谨冷峻的考古数据剥下了人类学长期笼罩在原始社会之上的[[Jean-Jacques Rousseau|卢梭]]主义面纱，证明了有组织残暴并非现代文明的专利，而是深植于人类未受[[Social Regime|制度规约]]前的原始本能之中。([[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska, 2025, pp. 53–54]])
 >
 > *Keeley stripped away the romantic Rousseauian veil that anthropology had draped over tribal existence, showing that organized brutality was not an invention of modernity but a persistent feature of unconstrained human groups.*
 

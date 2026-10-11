@@ -9217,6 +9217,18 @@
     ]
   },
   {
+    "title": "Institutional Complementarity",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Institutional Complementarity.md",
+    "aliases": [
+      "制度互补性",
+      "互补性制度",
+      "制度互补",
+      "制度互补假说",
+      "Institutional Complementarities"
+    ]
+  },
+  {
     "title": "Institutional Conversion",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Institutional Conversion.md",
@@ -9342,6 +9354,18 @@
       "知识经济",
       "知识型经济",
       "KBE"
+    ]
+  },
+  {
+    "title": "Liberalization",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Liberalization.md",
+    "aliases": [
+      "自由化",
+      "经济自由化",
+      "制度自由化",
+      "去组织化资本主义",
+      "Disorganization"
     ]
   },
   {
@@ -9699,6 +9723,18 @@
     ]
   },
   {
+    "title": "Rule Enactment",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Rule Enactment.md",
+    "aliases": [
+      "规则践行",
+      "制度践行",
+      "规则执行与实施",
+      "规则践行脱节",
+      "Rule and Implementation"
+    ]
+  },
+  {
     "title": "Scapegoat Mechanism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Scapegoat Mechanism.md",
@@ -9784,6 +9820,17 @@
       "汉化",
       "中国化",
       "sinicization"
+    ]
+  },
+  {
+    "title": "Social Regime",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Social Regime.md",
+    "aliases": [
+      "社会规约",
+      "社会体制",
+      "制度规约",
+      "Social Regimes"
     ]
   },
   {

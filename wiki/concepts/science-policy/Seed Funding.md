@@ -10,10 +10,10 @@ aliases:
 summary: "科技政策与高等教育科研资助中的敏捷启动与制度培育机制。在微观上指公共机构在探索早期基于初步概念验证给予的小额启动资金；在宏观上指以国家重大产学中心（如 ERC）为载体、依托杠杆配比与十年日落条款倒逼机构自建多元造血功能的制度型种子引导工具。"
 type: concept
 domain: "science-policy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept
   - science-policy
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Chain of Evidence]]"
   - "[[Funding Exit Mechanism]]"
+  - "[[Institutional Complementarity]]"
   - "[[Star Scientists]]"
   - "[[Disciplina and Doctrina]]"
   - "[[University-Based Research Center]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-07
+updated: 2026-10-11
 ---
 
 # Seed Funding
@@ -110,7 +111,7 @@ updated: 2026-10-07
 ### 命题一　种子资助通过非正式快速响应克服同行评议对颠覆性学术探索的保守倾向
 
 > [!concept-lens] 资助评审机制与创新激进度
-> 探讨匿名同行评议在评估前所未有的非共识构想时的保守失灵，以及种子资助如何提供制度互补。
+> 探讨匿名同行评议在评估前所未有的非共识构想时的保守失灵，以及种子资助如何提供[[Institutional Complementarity|制度互补]]。
 
 > [!claim] [[Argument_Fuchs_2010_RP|Fuchs (2010)]]
 > **敏捷种子资助对非共识构想的拯救功能** 传统大学科研高度依赖的同行评议体制天然青睐具备稳健前期数据与主流理论支持的渐进式课题；面对颠覆性技术早期“仅有两三个异常数据点”的弱信号，唯有具备高度裁量权的项目经理通过小额种子资助快速介入，才能保护处于胚胎期的激进构想免遭同行评议的扼杀。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1140, 1142)]]

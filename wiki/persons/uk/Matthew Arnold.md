@@ -7,7 +7,7 @@ summary: "维多利亚时代英国皇家学校督学、诗人与文化批评家�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Popular Education]]"
   - "[[Avatar]]"
+  - "[[Social Regime]]"
   - "[[Intangible Spiritual Forces]]"
   - "[[Auslandspadagogik]]"
   - "[[Document]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-10-09
+updated: 2026-10-11
 ---
 
 # Matthew Arnold
@@ -118,7 +119,7 @@ updated: 2026-10-09
 > *Against the rampant Philistinism of the middle class and the threat of anarchy, Arnold argued that culture—the pursuit of our total perfection through sweetness and light—must be preserved and disseminated by the State through a truly national system of secondary schools.*
 
 > [!citation-card] 卡扎米亚斯论阿诺德对英国自由放任教条的跨国批判与反思
-> 英国皇家学校视察员马修·阿诺德在考察欧洲大陆教育时明确指出，单纯把英国自由放任的传统当成不可更改的教条是错误的。他运用英法两国的对比，批评英国社会由于缺乏国家统筹而导致阶层隔阂，力主国家必须介入并主办公共教育。这一跨国比较有力突破了单纯描述外国体系的局限，开启了运用跨国比较反思本国政治与社会体制的先河。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 142–143)]]
+> 英国皇家学校视察员马修·阿诺德在考察欧洲大陆教育时明确指出，单纯把英国自由放任的传统当成不可更改的教条是错误的。他运用英法两国的对比，批评英国社会由于缺乏国家统筹而导致阶层隔阂，力主国家必须介入并主办公共教育。这一跨国比较有力突破了单纯描述外国体系的局限，开启了运用跨国比较反思本国政治与[[Social Regime|社会体制]]的先河。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 142–143)]]
 >
 > *In his comparative reflections, Matthew Arnold pointed out that it was a mistake to treat England's tradition of laissez-faire as an immutable dogma. Through the comparison between England and France, Arnold attacked England's social fragmentation resulting from the absence of state organization, arguing that the state must intervene to organize public education.*
 

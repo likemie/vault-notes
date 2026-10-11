@@ -7,7 +7,7 @@ summary: "美国电机工程师、科技管理者与战后科技政策奠基人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 59
+person_related_count: 60
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Total Factor Productivity]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Research Universities]]"
+  - "[[Institutional Complementarity]]"
   - "[[National Innovation System]]"
   - "[[Hard Power]]"
   - "[[Technological Agnosticism]]"
@@ -90,7 +91,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-08
+updated: 2026-10-11
 ---
 
 # Vannevar Bush
@@ -191,7 +192,7 @@ updated: 2026-10-08
 > - **战后制度继承与反思者** [[Donald Stokes|唐纳德·斯托克斯]]（Donald Stokes） — 1997 年提出[[Pasteur's Quadrant|巴斯德象限]]以打破布什报告的一维滑动轴。
 > - **当代科技创新批判者** [[Venkatesh Narayanamurti|文卡泰什·纳拉亚纳穆尔提]]（Venkatesh Narayanamurti） — 2013 年撰文宣告布什二分法终结，提出[[Discovery-Invention Cycle|发现-发明循环]]理论以取代布什的单向流水线假说。
 > - **高校科研契约反思者** [[Paula Stephan|保拉·斯蒂芬]]（Paula Stephan） — 2013 年系统考察战后大学对布什契约的能动改造与异化，揭示布什关于高风险容错、独立学生奖学金与学科均衡设想的迷失。
-> - **演化[[Systems of Innovation|创新系统]]批判者** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman） — 1995 年从历史与演化视角剖析布什线性模型的盲区，提出包含组织变革、工艺学习与制度互补的[[National Innovation System|国家创新系统]]理论。
+> - **演化[[Systems of Innovation|创新系统]]批判者** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman） — 1995 年从历史与演化视角剖析布什线性模型的盲区，提出包含组织变革、工艺学习与[[Institutional Complementarity|制度互补]]的[[National Innovation System|国家创新系统]]理论。
 
 ---
 

@@ -7,7 +7,7 @@ title: "Argument_Arnove_2009_WorldSystems"
 argument_key: "Argument_Arnove_2009_WorldSystems"
 argument_display_title: "World-systems Analysis and Comparative Education in the Age of Globalization"
 argument_kind: "book-chapter"
-argument_related_count: 56
+argument_related_count: 57
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Paradigm]]"
   - "[[Attrition]]"
+  - "[[Liberalization]]"
   - "[[School Choice]]"
   - "[[Academic Achievement]]"
   - "[[New Managerialism]]"
@@ -227,7 +228,7 @@ updated: 2026-09-29
 信息技术革命使信息和资本可以瞬间跨国流动，生产方式从以单一国家内流水线生产为特征的福特制（Fordism），转向跨国分布的即时柔性积累（Toyotism），带来了显著的[[Time-Space Compression|时空压缩]]（Harvey, 1989）。
 
 > [!policy-context] 新自由主义教育改革的核心内容与政策组合
-> - **经济学理论渊源** 植根于古典自由主义经济学教条，主张充分发挥自由市场竞争、供求规律与比较优势的作用，大幅削减政府社会开支，取消行政管制并推行贸易自由化。
+> - **经济学理论渊源** 植根于古典自由主义经济学教条，主张充分发挥自由市场竞争、供求规律与比较优势的作用，大幅削减政府社会开支，取消行政管制并推行贸易[[Liberalization|自由化]]。
 > - **基础教育政策组合** 在中小学推行管理权力下放、学校私有化、教育券与[[School Choice\|择校]]计划，并设立统一的[[Academic Achievement\|学业成就]]标准与基于标准化测验的严格绩效问责制度，使国家退缩为制定指标与评估结果的审计者。
 > - **高等教育管理转型** 引入[[New Managerialism|新管理主义]]（New Managerialism），将市场的语言与运行逻辑直接套用于大学管理，将院系科研与教学改造成追求经济效益与市场排名的经营单位，并催生出依托跨国特许经营协议的[[Virtual University|虚拟大学]]。（pp.107, 112）
 

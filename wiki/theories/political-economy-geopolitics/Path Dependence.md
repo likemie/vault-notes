@@ -9,10 +9,10 @@ aliases:
 summary: "由 David 与 Arthur 奠基、经 Pierson 扩展至制度分析的演化经济学与制度主义核心理论；阐明历史偶然事件在规模报酬递增、自我强化机制、网络外部性与高转换成本驱动下，如何将技术轨道、产业标准或组织制度锁定于特定均衡；在半导体与高教领域，揭示高校通过“教育即标准”将开源架构内生化为全球产业生态路径依赖的微观机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 30
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 32
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/evolutionary-economics
   - theory/institutionalism
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Determinism]]"
   - "[[Market Failure]]"
+  - "[[Rule Ambiguity]]"
   - "[[National Innovation System]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[University-Industry Collaboration]]"
@@ -48,6 +49,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Paul Pierson]]"
+  - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"
 related_facts:
   - "[[CHIPS and Science Act]]"
@@ -71,7 +73,7 @@ updated: 2026-10-11
 > [!theory-position] 理论定位
 > - **解释对象** 解释技术创新、制度变迁与产业演化过程中，早期的偶然选择或初始优势如何通过自我强化机制演化为长期主导格局，以及系统为何在面对更优替代方案时仍陷入次优技术或制度锁定（Lock-in）。
 > - **理论问题** 回应新古典经济学关于“市场力量总能自发选择最优技术方案”与“无摩擦资源配置”的完备理性假说，解释历史时间性、非遍历性（Non-ergodicity）与正反馈效应在塑造[[Technological Trajectories|技术轨道]]路线中的决定性作用。
-> - **理论类型** 解释理论（Explanatory Theory）与[[Evolutionary Economics|演化经济学]]/历史制度主义[[Analytic Framework|分析框架]]。
+> - **理论类型** 解释理论（Explanatory Theory）与[[Evolutionary Economics|演化经济学]]/[[Historical Institutionalism|历史制度主义]][[Analytic Framework|分析框架]]。
 > - **知识位置** 处于演化经济学（Evolutionary Economics）、创新经济学与[[Historical Institutionalism|历史制度主义]]（Historical Institutionalism）的交汇点，与技术轨迹理论、[[Techno-economic Paradigm|技术-经济范式]]理论及制度演化理论紧密互补。
 
 > [!claim] 核心判断
@@ -91,7 +93,7 @@ updated: 2026-10-11
 
 > [!dev-timeline] 理论版本与贡献
 > - **1985–1989 — 经典技术路径依赖模型** Paul A. David 与 W. Brian Arthur 确立了技术演化中的正反馈报酬递增机制与锁定效应数学模型。
-> - **2000 — 政治学与制度主义扩展** [[Paul Pierson|保罗·皮尔逊（Paul Pierson, 2000）]]将路径依赖模型系统迁移至政治学与公共政策分析，指出政治制度具有比经济市场更高的转换成本与更强的权力自我强化机制。
+> - **2000 — 政治学与制度主义扩展** [[Paul Pierson|保罗·皮尔逊]]（Paul Pierson, 2000）将路径依赖模型系统迁移至政治学与公共政策分析，指出政治制度具有比经济市场更高的转换成本与更强的权力自我强化机制。
 > - **2014–2026 — 开源生态与“教育即标准”机制拓展** Krste Asanović 与 David Patterson（2014）推动 RISC-V 架构发展，卓泽林进一步揭示大学如何通过课程教学体系、教材编写与跨层级工程人才培养，将开源指令集架构直接内生化为新一代软硬件开发者的认知事实标准，在全球范围内形成反向锁定与技术生态主导权。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 20)]]
 
 ---
@@ -189,10 +191,10 @@ updated: 2026-10-11
 > > - **Paul A. David（1997）** 回应指出，路径依赖的核心是历史过程的不可逆性与动态正反馈，而非简单的“[[Market Failure|市场失灵]]”；在分布式决策与不完全信息环境中，局部理性行为的叠加完全可能导致全局次优的技术固化。
 >
 > > [!axis] 制度变迁中的[[Determinism|决定论]] vs 制度演化能动性
-> > 历史制度主义内部就路径依赖理论是否过度强调制度刚性、无法解释渐进式制度演进与制度突破进行反思。
+> > [[Historical Institutionalism|历史制度主义]]内部就路径依赖理论是否过度强调制度刚性、无法解释渐进式制度演进与制度突破进行反思。
 > >
-> > - **Kathleen Thelen（2004）与 James Mahoney & Kathleen Thelen（2009）** 批评早期路径依赖理论过度依赖报酬递增与锁定假定，倾向于将历史机械割裂为刚性惰性期与外生危机断裂，陷入间断均衡窠臼；马奥尼与希伦指出，现实中绝对刚性的制度死锁极罕见，常规政治更多表现为行动者在权力分配张力与规则模糊性中推动置换、层叠、漂移与转换等内生渐变。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 4–7)]]
-> > - **Jeroen van der Heijden（2011）** 进一步澄清路径依赖与分层变迁的理论分界：外围新要素的叠加若只是强化核心并筑高转换壁垒（如互联网高厚度商），本质属于路径依赖的自我强化与制度再生产；真正的制度层叠必须随时间推移改变原有规则规约行为的方式，二者不可混淆。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–14)]]
+> > - **Kathleen Thelen（2004）与 James Mahoney & Kathleen Thelen（2009）** 批评早期路径依赖理论过度依赖报酬递增与锁定假定，倾向于将历史机械割裂为刚性惰性期与外生危机断裂，陷入间断均衡窠臼；[[James Mahoney|马奥尼]]与希伦指出，现实中绝对刚性的制度死锁极罕见，常规政治更多表现为行动者在权力分配张力与[[Rule Ambiguity|规则模糊性]]中推动置换、层叠、漂移与转换等内生渐变。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 4–7)]]
+> > - **Jeroen van der Heijden（2011）** 进一步澄清路径依赖与分层变迁的理论分界：外围新要素的叠加若只是强化核心并筑高转换壁垒（如互联网高厚度商），本质属于路径依赖的自我强化与制度再生产；真正的[[Institutional Layering|制度层叠]]必须随时间推移改变原有规则规约行为的方式，二者不可混淆。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–14)]]
 
 ---
 
@@ -200,7 +202,7 @@ updated: 2026-10-11
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 运用路径依赖理论与开源标准锁定机制，阐释美国[[Research Universities|研究型大学]]如何通过科教融合将 RISC-V 指令集嵌入工程人才梯队，形成全球半导体产业生态的主导权。
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 批判路径依赖理论的刚性死锁假定，阐发以权力分配与规则模糊性为基石的渐进内生演化模型。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 批判路径依赖理论的刚性死锁假定，阐发以权力分配与[[Rule Ambiguity|规则模糊性]]为基石的渐进内生演化模型。
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 评析复合技术标准中外围叠加与厚度商对核心标准的路径依赖加固机制，辨析制度再生产与[[Institutional Layering|制度层叠]]的分析边界。
 
 ---
@@ -214,7 +216,7 @@ updated: 2026-10-11
 > | [[National Innovation System]] | Concept | 路径依赖发生的宏观制度载体与国家科技体制架构。 |
 > | [[Technological Trajectories]] | Theory | 与路径依赖同属[[Evolutionary Economics\|演化经济学]]核心支柱，阐释技术沿特定[[Paradigm\|范式]]方向的累积演进。 |
 > | [[Techno-economic Paradigm]] | Theory | 解释宏观技术革命与长周期经济范式锁定的上位理论。 |
-> | [[Institutional Layering]] | Concept | 历史制度主义提出的渐进演化机制，与路径依赖的锁定与制度再生产机制形成鲜明边界对比。 |
+> | [[Institutional Layering]] | Concept | [[Historical Institutionalism\|历史制度主义]]提出的渐进演化机制，与路径依赖的锁定与制度再生产机制形成鲜明边界对比。 |
 > | [[Kathleen Thelen]] | Person | 历史制度主义代表学者，提出分层与转换机制反思路径依赖的刚性[[Determinism\|决定论]]。 |
 > | [[Mission-Oriented Innovation Policy]] | Concept | 国家用于打破市场既有低效锁定、引导战略技术方向的政策工具。 |
 > | [[University-Industry Collaboration]] | Concept | 大学开源标准转化为产业生态路径依赖的协同平台。 |

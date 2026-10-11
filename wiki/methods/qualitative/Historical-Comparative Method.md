@@ -10,7 +10,7 @@ summary: "运用历史因果考证与跨国情境对照解释教育制度、国�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 84
+method_related_count: 91
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -39,6 +39,9 @@ related_concepts:
   - "[[Technological Catch-up]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Policy Borrowing]]"
+  - "[[Institutional Drift]]"
+  - "[[Institutional Conversion]]"
+  - "[[Institutional Layering]]"
   - "[[State Educational Sovereignty]]"
   - "[[Paradigm]]"
   - "[[National Character]]"
@@ -49,9 +52,11 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Variable]]"
   - "[[International Education]]"
+  - "[[Institutional Complementarity]]"
   - "[[Postpositivism]]"
   - "[[Independent Variable]]"
   - "[[Educational Meliorism]]"
+  - "[[Liberalization]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Allgemeine Pädagogik]]"
   - "[[Absorptive Capacity]]"
@@ -64,15 +69,17 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
 related_theories:
   - "[[Path Dependence]]"
-  - "[[Varieties of Capitalism]]"
   - "[[Theory of Gradual Institutional Change]]"
+  - "[[Varieties of Capitalism]]"
   - "[[Three Generations of Mission-Oriented Policy]]"
+  - "[[Historical Institutionalism]]"
   - "[[Systems of Innovation]]"
   - "[[Evolutionary Economics]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Analytic Framework]]"
   - "[[Theoretical Sampling]]"
+  - "[[Process Tracing]]"
   - "[[Mixed Methods Research]]"
   - "[[Triangulation]]"
   - "[[Content Analysis]]"
@@ -207,7 +214,7 @@ updated: 2026-10-11
 >   - 剖析重大教育法令（如 1862 年《赠地法案》、1950 年《NSF 法案》、1980 年《拜杜法案》）与现代学校形态的历史发生学渊源；
 >   - 追踪超国家组织（IOs）在长周期历史演变中如何确立其教育法定职责，以及从二战后经济重建转向全球[[Policy Brokerage|政策中介]]与[[Soft Power by Hard Facts|硬事实软权力]]治理的历史轨迹（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）；
 >   - 揭示跨国制度移植与[[Policy Borrowing|政策借用]]中的[[Path Dependence|路径依赖]]与结构阻碍（如欧亚四国模仿美式大学体制时遭遇的讲席制、行政集权与科学院分立壁垒，[[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008, pp. 45–48]]）；
->   - 穿透宏观静态量化指标与表面法律条文，通过档案考据与长周期过程追踪识别制度漂移（Drift）、规则转换（Conversion）与分层（Layering）等深层渐进制度变迁形态（如揭示德国劳资集体谈判在法律条文未变背景下的渐进侵蚀与自由化演化，[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005]]）；
+>   - 穿透宏观静态量化指标与表面法律条文，通过档案考据与长周期[[Process Tracing|过程追踪]]识别[[Institutional Drift|制度漂移]]（Drift）、规则转换（[[Institutional Conversion|conversion]]）与分层（[[Institutional Layering|layering]]）等深层[[Theory of Gradual Institutional Change|渐进制度变迁]]形态（如揭示德国劳资集体谈判在法律条文未变背景下的渐进侵蚀与自由化演化，[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005]]）；
 >   - 建立跨国教育与科技制度类型学并阐明各民族或国际组织的独特文化精神底色与组织利基。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 38–42)]]
 >   - 剖析冷战或地缘政治分裂背景下，同一民族不同意识形态阵营的教育制度分化与重聚过程（如西德与东德教育体制历史比较，[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 91–92)]]）；
 >   - 解构学科制度史的演进逻辑，透视大学教席分布、学会建制与[[State Educational Sovereignty|国家教育主权]]博弈对比较教育学科[[Paradigm|范式]]的长周期塑造。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88–94)]]
@@ -248,7 +255,7 @@ updated: 2026-10-11
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Varieties of Capitalism\|资本主义多样性]] | 理论 | 历史比较法在比较政治经济学中建构国家生产体制与制度互补性类型学的经典理论。 |
+> | [[Varieties of Capitalism\|资本主义多样性]] | 理论 | 历史比较法在比较政治经济学中建构国家生产体制与[[Institutional Complementarity\|制度互补性]]类型学的经典理论。 |
 > | [[Theory of Gradual Institutional Change\|渐进制度变迁理论]] | 理论 | 依托比较历史分析打破外生间断平衡范式、建构五类内生演化形态学的中程理论。 |
 > | [[Three Generations of Mission-Oriented Policy]] | 理论 | 运用历史比较法梳理使命政策 150 年代际演进所提炼的核心[[Theory of Gradual Institutional Change\|制度变迁理论]]。 |
 > | [[Public Dynamic Capabilities]] | 概念 | 历史比较法在科技与公共行政领域剖析美欧亚各国制度成败所揭示的核心解释[[Variable\|变量]]。 |
@@ -260,8 +267,8 @@ updated: 2026-10-11
 > | [[Case Study\|个案研究]] | 方法 | 支撑方法；历史比较法的多国横向对比往往建立在深入扎实的国别案例追踪之上。 |
 > | [[Primary and Secondary Documents\|一手文献]] | 概念 | 核心材料依据；一手档案考据与二手学术史[[Document\|文献]]是历史比较法展开的经验底座。 |
 > | [[Educational Meliorism\|教育改良主义]] | 概念 | 价值旨归；历史比较探究秉持古典改良主义精神，旨在通过历史镜鉴促进现实制度的审慎革新。 |
-> | [[Wolfgang Streeck\|沃尔夫冈·施特雷克]] | 人物 | 经济社会学家；运用历史比较分析揭示先进资本主义体制内生演化与自由化轨迹的代表人物。 |
-> | [[Kathleen Thelen\|凯瑟琳·希伦]] | 人物 | 比较历史分析与历史制度主义代表学者；运用历史比较法系统建构渐进制度变迁形态学。 |
+> | [[Wolfgang Streeck\|沃尔夫冈·施特雷克]] | 人物 | 经济社会学家；运用历史比较分析揭示先进资本主义体制内生演化与[[Liberalization\|自由化]]轨迹的代表人物。 |
+> | [[Kathleen Thelen\|凯瑟琳·希伦]] | 人物 | 比较历史分析与[[Historical Institutionalism\|历史制度主义]]代表学者；运用历史比较法系统建构渐进制度变迁形态学。 |
 > | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 拓展学科史与制度比较；以“多样性与统一性”宏观历史透镜与两德教育制度比较，典范性应用并深化历史比较法。 |
 > | [[Oskar Anweiler\|奥斯卡·安维勒]] | 人物 | 跨意识形态制度比较开拓者；主持西德与东德教育体制大型历史比较项目，为二战后历史比较法提供里程碑案例。 |
 > | [[Comparative Education as a Cross-Sectional Area\|比较教育作为交叉领域]] | 概念 | 学科属性基础；历史比较法依托横断学科属性，跨越历史学、哲学与社会学展开综合考察。 |
@@ -287,5 +294,5 @@ updated: 2026-10-11
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 运用历史制度分析与跨部门比较，剖析战后美国半导体与计算机产业中联邦资助、采购合同与[[Disciplinary Institutionalization|学科建制]]协同机制，评判[[Innovation Policy Paradigms|创新政策范式]]边界。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]] — 运用历史制度与跨国比较方法，梳理战后美国国防研发投资与采购对半导体及计算机产业的催化作用及其向商业市场的逆向溢出规律。
 > - [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] — 运用历史比较法对照 1980 年代美日贸易摩擦与当代中美科技竞争，揭示[[Vertical Disintegration|纵向离散]]如何重塑[[Modern Industrial Policy|现代产业政策]]工具与地缘安全边界。
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 运用历史比较分析与跨国经验案例考据，打破间断均衡范式，系统建构现代资本主义政治经济体制中渐进制度变迁的五类形态学。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 运用历史比较分析与跨国经验案例考据，打破间断均衡范式，系统建构现代资本主义政治经济体制中[[Theory of Gradual Institutional Change|渐进制度变迁]]的五类形态学。
 

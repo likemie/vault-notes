@@ -13,33 +13,52 @@ aliases:
 summary: "彼得·A·霍尔与戴维·索斯基斯于2001年提出的比较政治经济学奠基框架；以企业为核心协调主体，将发达资本主义划分为自由市场经济体（LMEs）与协调型市场经济体（CMEs），强调金融、劳资、职业培训与公司治理间的跨领域制度互补性；施特雷克与希伦等学者后续批判其功能主义与超稳定假定，揭示出两类体制在制度互补性遮蔽下共同走向渐进自由化的演化轨迹。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 34
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/comparative-political-economy
   - theme/governance
   - theme/skill-formation
   - theme/institutional-complementarity
 related_concepts:
+  - "[[Paradigm]]"
+  - "[[Institutional Complementarity]]"
+  - "[[Liberalization]]"
   - "[[Corporate Education]]"
-  - "[[Corporate University]]"
   - "[[Apprenticeship]]"
+  - "[[Corporate University]]"
+  - "[[Patient Capital]]"
+  - "[[Feedback]]"
+  - "[[Social Regime]]"
+  - "[[Institutional Layering]]"
+  - "[[Institutional Drift]]"
   - "[[Research Question]]"
+  - "[[University-Industry Collaboration]]"
+  - "[[Hypothesis]]"
   - "[[Causal Over-determination]]"
+  - "[[Knowledge Production]]"
+  - "[[Document]]"
 related_theories:
-  - "[[Theory of Gradual Institutional Change]]"
   - "[[Historical Institutionalism]]"
+  - "[[Theory of Gradual Institutional Change]]"
   - "[[Academic Capitalism]]"
   - "[[Path Dependence]]"
+  - "[[Human Capital Theory]]"
 related_methods:
+  - "[[Analytic Framework]]"
+  - "[[In-depth Interview]]"
+  - "[[Correlational Research]]"
   - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons:
+  - "[[Peter A. Hall]]"
   - "[[Wolfgang Streeck]]"
   - "[[Kathleen Thelen]]"
-related_facts: []
+related_facts:
+  - "[[German Dual Education System]]"
+  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
@@ -58,19 +77,19 @@ updated: 2026-10-11
 
 > [!theory-position] 理论定位
 > - **解释对象** 发达资本主义国家在企业治理、劳资关系、金融体系、职业技能形成与产业竞争优势方面的持久制度差异。
-> - **理论问题** 回应 20 世纪末全球化收敛论（Convergence Thesis）的预言：新古典经济学假定跨国贸易竞争与资本自由流动必将抹平制度多样性，迫使所有国家向低成本、去管制的英美自由市场范式收敛；该理论解释了为何欧洲大陆与东亚的非市场协调机制能够维持长周期制度韧性。
-> - **理论类型** 比较政治经济学制度分析框架与生产体制解释理论。
-> - **知识位置** 比较政治经济学（Comparative Political Economy）核心范式，融合了历史制度主义对正式机构演进的考察与理性选择制度主义的微观博弈视角；在制度变迁脉络中，其静态互补性假定构成了[[Theory of Gradual Institutional Change|渐进制度变迁理论]]反思与批判的核心学术靶标。
+> - **理论问题** 回应 20 世纪末全球化收敛论（Convergence Thesis）的预言：新古典经济学假定跨国贸易竞争与资本自由流动必将抹平制度多样性，迫使所有国家向低成本、去管制的英美自由市场[[Paradigm|范式]]收敛；该理论解释了为何欧洲大陆与东亚的非市场协调机制能够维持长周期制度韧性。
+> - **理论类型** 比较政治经济学制度[[Analytic Framework|分析框架]]与生产体制解释理论。
+> - **知识位置** 比较政治经济学（Comparative Political Economy）核心范式，融合了[[Historical Institutionalism|历史制度主义]]对正式机构演进的考察与理性选择制度主义的微观博弈视角；在制度变迁脉络中，其静态互补性假定构成了[[Theory of Gradual Institutional Change|渐进制度变迁理论]]反思与批判的核心学术靶标。
 
 > [!claim] 核心判断
-> 发达经济体的根本差异不在于经济体量或技术先进程度，而在于企业协调其关键经济关系的制度方式：以市场竞争与正式合约为主导的自由市场经济体（Liberal Market Economies, LMEs），与依靠非市场网络及战略协商为主导的协调型市场经济体（Coordinated Market Economies, CMEs），分别依托跨领域制度互补性构建出截然不同的比较制度优势；但静态的互补性均衡假定遮蔽了两类体制内部持续发生、向自由化渐进漂移的深刻结构转型。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, pp. 184–185)]]；[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–7)]]
+> 发达经济体的根本差异不在于经济体量或技术先进程度，而在于企业协调其关键经济关系的制度方式：以市场竞争与正式合约为主导的自由市场经济体（Liberal Market Economies, LMEs），与依靠非市场网络及战略协商为主导的协调型市场经济体（Coordinated Market Economies, CMEs），分别依托跨领域[[Institutional Complementarity|制度互补性]]构建出截然不同的比较制度优势；但静态的互补性均衡假定遮蔽了两类体制内部持续发生、向[[Liberalization|自由化]]渐进漂移的深刻结构转型。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, pp. 184–185)]]；[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–7)]]
 
 ---
 
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 政治学者彼得·A·霍尔（Peter A. Hall）与戴维·索斯基斯（David Soskice）于 2001 年主编出版开创性著作《资本主义多样性：比较优势的制度基础》（*Varieties of Capitalism: The Institutional Foundations of Comparative Advantage*），系统奠定了资本主义多样性（Varieties of Capitalism, VoC）分析框架。
+> - **提出者与原始文本** 政治学者[[Peter A. Hall|彼得·A·霍尔]]（Peter A. Hall）与戴维·索斯基斯（David Soskice）于 2001 年主编出版开创性著作《资本主义多样性：比较优势的制度基础》（*Varieties of Capitalism: The Institutional Foundations of Comparative Advantage*），系统奠定了资本主义多样性（Varieties of Capitalism, VoC）[[Analytic Framework|分析框架]]。
 > - **原初问题** 针对战后长期繁荣结束后，德国、日本与北欧等经济体面对全球金融一体化与工业竞争冲击时，为何并未瓦解其高福利、强规制与高协调的社会市场体制，反而形成了独特的出口制造优势。
 > - **理论资源与材料** 吸收了新制度经济学关于企业本质与交易成本的理论假定，结合[[Historical Institutionalism|历史制度主义]]对工会、雇主协会及国家官僚建制的历史考证，将分析焦点从传统的“国家中心主义”或“阶级冲突论”转向“以企业为核心”（Firm-centered approach）的理性协调分析。
 > - **形成路径** 将企业运营面临的外部关系解构为五大核心领域（劳资关系、技能培训、公司治理、企业间关系、员工协调），通过跨国制度对比，归纳出战略协调与市场协调两大自洽且相互强化的理想类型。
@@ -78,10 +97,10 @@ updated: 2026-10-11
 ### 后续修订与扩展
 
 > [!dev-timeline] 理论版本与贡献
-> - **2001 年 — 原初奠基** 霍尔与索斯基斯确立 LME 与 CME 二元类型学，提出制度互补性（Institutional Complementarities）与比较制度优势（Comparative Institutional Advantage）概念。
-> - **2005 年 — 动态变迁批判与内生自由化转向（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005]]）** [[Wolfgang Streeck|沃尔夫冈·施特雷克]]与[[Kathleen Thelen|凯瑟琳·希伦]]系统批判 VoC 将制度互补性等同于自我强化的超稳定功能主义均衡，指出两类体制在制度表面延续的假象下，实际均经历了通过分层、漂移与转换推动的深刻自由化，将制度研究由静态类型学引向[[Theory of Gradual Institutional Change|渐进变迁动态学]]。
-> - **2017 年 — 高等教育与学术资本主义跨国多样性扩展（[[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017]]）** 舒尔策-克莱文等学者将 VoC 框架引入高等教育领域，揭示[[Academic Capitalism|学术资本主义]]如何映射国家生产体制类型：美国（LME）呈现激进的市场化与学生贷款金融化，德国（保守协调）在学费政策上遭遇社会自组织反弹并撤销改革，挪威（社会民主协调）则依托强国家供给维系公共教育韧性，论证制度互补性与合法性框架塑造的强路径依赖。
-> - **2022 年 — 企业教育跨国化与组织架构映射（[[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022]]）** 哈特曼将 VoC 与跨国公司（Multinational Corporations, MNCs）产业组织学结合，证实德国等 CME 企业的初始职业教育与培训（Initial Vocational Education and Training, IVET）双元学徒制深嵌于母国制度网络，在跨国移植中屡遭失败；而美英 LME 企业依托商品化市场逻辑在[[Corporate Education|企业教育]]全球化中占据主导地位。
+> - **2001 年 — 原初奠基** 霍尔与索斯基斯确立 LME 与 CME 二元类型学，提出[[Institutional Complementarity|制度互补性]]（Institutional Complementarities）与比较制度优势（Comparative Institutional Advantage）概念。
+> - **2005 年 — 动态变迁批判与内生[[Liberalization|自由化]]转向（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005]]）** [[Wolfgang Streeck|沃尔夫冈·施特雷克]]与[[Kathleen Thelen|凯瑟琳·希伦]]系统批判 VoC 将制度互补性等同于自我强化的超稳定功能主义均衡，指出两类体制在制度表面延续的假象下，实际均经历了通过分层、漂移与转换推动的深刻自由化，将制度研究由静态类型学引向渐进变迁动态学。
+> - **2017 年 — 高等教育与[[Academic Capitalism|学术资本主义]]跨国多样性扩展（[[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017]]）** 舒尔策-克莱文等学者将 VoC 框架引入高等教育领域，揭示[[Academic Capitalism|学术资本主义]]如何映射国家生产体制类型：美国（LME）呈现激进的市场化与学生贷款金融化，德国（保守协调）在学费政策上遭遇社会自组织反弹并撤销改革，挪威（社会民主协调）则依托强国家供给维系公共教育韧性，论证制度互补性与合法性框架塑造的强[[Path Dependence|路径依赖]]。
+> - **2022 年 — [[Corporate Education|企业教育]]跨国化与组织架构映射（[[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022]]）** 哈特曼将 VoC 与跨国公司（Multinational Corporations, MNCs）产业组织学结合，证实德国等 CME 企业的初始职业教育与培训（Initial Vocational Education and Training, IVET）双元[[Apprenticeship|学徒制]]深嵌于母国制度网络，在跨国移植中屡遭失败；而美英 LME 企业依托商品化市场逻辑在[[Corporate Education|企业教育]]全球化中占据主导地位。
 
 ---
 
@@ -96,7 +115,7 @@ updated: 2026-10-11
 > | **制度互补性**<br>Institutional Complementarities | 核心机制 | 一项制度安排的存在或功能发挥，能够提高另一领域特定制度安排运作效能的协同强化机制。 |
 > | **企业中心协调**<br>Firm-Centered Approach | 分析视角 | 将企业视为解决跨领域交易难题的核心理性行动主体，而非单纯被动接受国家规制的客体。 |
 > | **通用技能 vs 专用技能**<br>General vs. Specific Skills | 技能构件 | LMEs 倾向培养个体可在流动市场变现的通用技能；CMEs 依托强就业保护激励员工投资深度专用技能。 |
-> | **政策反馈效应**<br>Policy Feedback | 动力机制 | 制度沉淀催生庞大获益选民与既得利益集团，大幅抬高制度变轨的政治成本，形成持续路径依赖。 |
+> | **政策反馈效应**<br>Policy Feedback | 动力机制 | 制度沉淀催生庞大获益选民与既得利益集团，大幅抬高制度变轨的政治成本，形成持续[[Path Dependence\|路径依赖]]。 |
 > | **制度合法性框架**<br>Institutional Legitimacy Frames | 文化规范 | 社会对“市场分配”或“国家公共供给”的默认正当性认知，规定了政治行动者推行改革的可行边界。 |
 
 ---
@@ -108,18 +127,18 @@ updated: 2026-10-11
 >
 > **应用实例** 在跨国企业治理与[[Corporate University|企业大学]]建设中，美资跨国企业习惯于将员工技能培训视为可在竞争市场上自由外包采购的标准商品，从而在全球教育培训市场中形成先发垄断；欧陆德系跨国企业则倾向在海外分支复制内部治理与伙伴网络，赋予当地管理层极高自主权。
 
-> [!theory-proposition] 命题二｜跨领域制度互补性构筑国家比较优势与技能体系跨国移植壁垒
-> **解释** 生产体制中不同子领域的制度并非孤立存在，而是构成高度相互依存的互补网络（Institutional Complementarities）。金融市场安排（如注重短期流动性的股票市场对比耐心资本的银行信贷）、劳资协调机制（分散谈判对比行业集中谈判）以及福利制度（就业保护对比灵活解雇）共同决定了技能形成模式。在 CMEs 中，深度的专用技能积累（如德国双元制[[Apprenticeship|学徒制]]）必须依托强就业保障、行业标准锁定与工会参与才能成立；一旦将单一组件剥离其互补性生态，移植将注定失效。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, pp. 184–185)]]
+> [!theory-proposition] 命题二｜跨领域[[Institutional Complementarity|制度互补性]]构筑国家比较优势与技能体系跨国移植壁垒
+> **解释** 生产体制中不同子领域的制度并非孤立存在，而是构成高度相互依存的互补网络（Institutional Complementarities）。金融市场安排（如注重短期流动性的股票市场对比[[Patient Capital|耐心资本]]的银行信贷）、劳资协调机制（分散谈判对比行业集中谈判）以及福利制度（就业保护对比灵活解雇）共同决定了技能形成模式。在 CMEs 中，深度的专用技能积累（如德国[[German Dual Education System|双元制]][[Apprenticeship|学徒制]]）必须依托强就业保障、行业标准锁定与工会参与才能成立；一旦将单一组件剥离其互补性生态，移植将注定失效。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, pp. 184–185)]]
 >
 > **应用实例** 德国跨国制造企业尝试在巴西、美国等分支机构复制本土享誉世界的初始职业教育与培训（IVET）双元学徒制，然而由于东道国缺乏法定的行业雇主协会协商网络、缺乏匹配的公立职业学校系统、亦缺乏工会监督与防止恶性挖角（Poaching）的规制机制，所有在海外孤立移植学徒制的尝试均以失败告终。
 
-> [!theory-proposition] 命题三｜制度遗产与政策反馈驱动公共部门市场化改革的强路径依赖
-> **解释** 宏观生产体制的组织逻辑不仅约束私营企业，而且深度形塑公共与准公共部门（如高等教育、科研机构）的演化轨迹。一旦特定制度安排确立，它将通过政策反馈机制（Policy Feedback）催生庞大的既得利益选民群体与文化正当性预设。当面临共同的新自由主义市场化压力时，不同生产体制对外部冲击的吸纳方式展现出深度的路径依赖：自由主义体制下顺理成章的激进商品化，在保守协调体制下会触发剧烈的社会自我防御与政治回弹。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, pp. 803–804)]]
+> [!theory-proposition] 命题三｜制度遗产与政策反馈驱动公共部门市场化改革的强[[Path Dependence|路径依赖]]
+> **解释** 宏观生产体制的组织逻辑不仅约束私营企业，而且深度形塑公共与准公共部门（如高等教育、科研机构）的演化轨迹。一旦特定制度安排确立，它将通过政策反馈机制（Policy [[Feedback]]）催生庞大的既得利益选民群体与文化正当性预设。当面临共同的新自由主义市场化压力时，不同生产体制对外部冲击的吸纳方式展现出深度的路径依赖：自由主义体制下顺理成章的激进商品化，在保守协调体制下会触发剧烈的社会自我防御与政治回弹。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, pp. 803–804)]]
 >
-> **应用实例** 在高等教育学术资本主义推进中，美国（LME）依托亲市场合法性传统，大学学费在十年内翻倍并催生万亿美元学生贷款金融衍生品；而在德国（保守协调 CME），七个联邦州在 2000 年代初尝试引入每学期仅 500 欧元的大学学费，却在全德学生运动抗议与公投压力下被迫全面废止。在德国，免费公立教育被视为战后社会契约不可剥夺的基石，而美国则视教育成本为个体在资本市场上自负盈亏的人力资本投资。
+> **应用实例** 在高等教育[[Academic Capitalism|学术资本主义]]推进中，美国（LME）依托亲市场合法性传统，大学学费在十年内翻倍并催生万亿美元学生贷款金融衍生品；而在德国（保守协调 CME），七个联邦州在 2000 年代初尝试引入每学期仅 500 欧元的大学学费，却在全德学生运动抗议与公投压力下被迫全面废止。在德国，免费公立教育被视为战后社会契约不可剥夺的基石，而美国则视教育成本为个体在资本市场上自负盈亏的[[Human Capital Theory|人力资本]]投资。
 
-> [!theory-proposition] 命题四｜静态互补性假定掩盖了两类体制在内生演进中向自由化漂移的共同轨迹
-> **解释** 原初资本主义多样性框架假定制度互补性赋予体制强大的自我修复与稳态适应能力，推导出“外生冲击将强化既有国家模式差异”的收敛防御论（即 LME 越发自由化，CME 越发巩固协调）。然而这一功能主义逻辑将制度简化为企业解决交易费用的工具，忽视了制度作为充满分配斗争的社会规制秩序（Social Regimes）。在现实历史演进中，协调型经济体内部同样经历了系统性的解体与重塑：通过制度分层引入去规制的非标准劳工、集体谈判由于服务业扩展而发生制度漂移、企业理事会转化为协助削减成本的工具，呈现出跨越生产体制边界、向自由化普遍趋同的内生演化浪潮。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–7, 30–31)]]
+> [!theory-proposition] 命题四｜静态互补性假定掩盖了两类体制在内生演进中向[[Liberalization|自由化]]漂移的共同轨迹
+> **解释** 原初资本主义多样性框架假定制度互补性赋予体制强大的自我修复与稳态适应能力，推导出“外生冲击将强化既有国家模式差异”的收敛防御论（即 LME 越发自由化，CME 越发巩固协调）。然而这一功能主义逻辑将制度简化为企业解决交易费用的工具，忽视了制度作为充满分配斗争的社会规制秩序（[[Social Regime|Social Regimes]]）。在现实历史演进中，协调型经济体内部同样经历了系统性的解体与重塑：通过[[Institutional Layering|制度分层]]引入去规制的非标准劳工、集体谈判由于服务业扩展而发生[[Institutional Drift|制度漂移]]、企业理事会转化为协助削减成本的工具，呈现出跨越生产体制边界、向自由化普遍趋同的内生演化浪潮。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–7, 30–31)]]
 >
 > **应用实例** 战后德国引以为傲的“莱茵资本主义”（Rhineland Model）在 1990 年代后并未机械自我复制。面对全球化，传统全行业工资谈判覆盖率在服务业迅速萎缩发生制度漂移，雇主通过成立逃避谈判责任的无协议分会（OT-Verbände）实现变相置换；同时，劳动力市场引入临时工与微型工种（Minijobs）进行制度分层，使得德国在表面维持双元制核心的同时，外围形成了庞大的低薪不稳定劳工阶层。
 
@@ -129,9 +148,9 @@ updated: 2026-10-11
 
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 解释某一国家在特定产业、职业教育或高等教育改革中为何采纳特定政策路径；比较不同发达经济体在应对外部技术转型或全球化挑战时的制度差异与分化轨迹。
-> - **分析对象与单位** 国家生产体制、跨国企业治理架构、产学合作体系、技能形成与学徒制度网络、高等教育财政与拨款模式。
-> - **需要的材料** 劳工法案与集体谈判文本、行业协会与工会协商档案、职业培训法案与招生数据、高等教育学费与科研资助结构、跨国公司管理层深度访谈。
-> - **解释目标** 识别企业所依赖的核心协调模式，判定跨领域制度互补性对改革方案的促成或阻碍作用，评估宏观政策在实践中是否存在偏离表面法案的内生渐进漂移。
+> - **分析对象与单位** 国家生产体制、跨国企业治理架构、[[University-Industry Collaboration|产学合作]]体系、技能形成与[[Apprenticeship|学徒制]]度网络、高等教育财政与拨款模式。
+> - **需要的材料** 劳工法案与集体谈判文本、行业协会与工会协商档案、职业培训法案与招生数据、高等教育学费与科研资助结构、跨国公司管理层[[In-depth Interview|深度访谈]]。
+> - **解释目标** 识别企业所依赖的核心协调模式，判定跨领域[[Institutional Complementarity|制度互补性]]对改革方案的促成或阻碍作用，评估宏观政策在实践中是否存在偏离表面法案的内生渐进漂移。
 
 > [!theory-framework] 命题如何转化为分析维度
 >
@@ -140,19 +159,19 @@ updated: 2026-10-11
 > | **命题一**<br>生产体制与企业协调方式 | **核心协调机制归属**<br>企业解决融资、劳动力与供应链难题主要依赖市场价格契约还是跨组织非市场协商？ | 股票流动性指标、银企交叉持股率、行业集体谈判覆盖率、劳资联合决策席位。 | 市场合约与分散谈判主导判定为 LME 倾向；行业协会监督与集中协商主导判定为 CME 倾向。 |
 > | **命题二**<br>制度互补性与技能形成 | **互补性生态与技能资产特异性**<br>技能形成体系偏向通用技能还是专用技能？教育制度与就业保护、福利保障是否形成协同锁定？ | 学徒制注册率、职业认证标准统一程度、就业解雇保护指数（EPL）、技能跨企业通用程度。 | 若高专用技能匹配高解雇保护与行业协商，表明存在深度互补；孤立移植单项教育政策极易遭排异。 |
 > | **命题三**<br>政策反馈与制度合法性 | **既得利益网络与合法性边界**<br>公共政策市场化改革面临何种选民反弹与规制阻力？主流社会对公共品分配秉持何种正当性预设？ | 学生与工会抗议频次、公投结果、学生贷款违约率、政客辩护修辞中的正义价值阐述。 | 若市场化举措引发跨党派普遍反弹并迫使法案废止，表明受制于 CME 福利国家契约约束。 |
-> | **命题四**<br>内生侵蚀与渐进自由化 | **规则执行缝隙与非标准演化**<br>在维持表面制度稳态的同时，底层是否存在非标准用工分层、集体协商逃逸与事实上的市场化侵蚀？ | 劳动力双轨制用工比例、集体谈判脱离率、工会密度下降曲线、核心福利覆盖外包率。 | 若表面法律不变但覆盖范围急剧缩小且外围市场化泛滥，证实发生了向自由化的渐进漂移。 |
+> | **命题四**<br>内生侵蚀与渐进自由化 | **规则执行缝隙与非标准演化**<br>在维持表面制度稳态的同时，底层是否存在非标准用工分层、集体协商逃逸与事实上的市场化侵蚀？ | 劳动力双轨制用工比例、集体谈判脱离率、工会密度下降曲线、核心福利覆盖外包率。 | 若表面法律不变但覆盖范围急剧缩小且外围市场化泛滥，证实发生了向[[Liberalization\|自由化]]的渐进漂移。 |
 
 ---
 
 ## 局限性与适用边界
 
 > [!theory-boundary] 局限性与适用边界
-> - **适合分析** 发达民主工业化国家（OECD 核心成员国）在宏观经济治理、技能形成体系与高等教育政策中的结构性差异；解释国家比较优势的历史根源。
+> - **适合分析** 发达民主工业化国家（[[OECD]] 核心成员国）在宏观经济治理、技能形成体系与高等教育政策中的结构性差异；解释国家比较优势的历史根源。
 > - **成立条件** 研究对象需具备相对成熟的市场经济建制、法治保障体系与清晰的政企关系边界。
 > - **解释不足** 
 >   - **二元类型学分类危机** LME 对比 CME 的二分框架无法有效容纳东亚发展型国家（如韩国、新加坡）、新兴经济体（如中国、印度、巴西）以及具有依附性市场经济特征的中东欧国家；
 >   - **超稳定功能主义偏误** 理论倾向于将制度视为功能上完美协调的静态均衡，对国家内部由于权力不对称与阶级博弈引发的内生制度瓦解缺乏前瞻解释力；
->   - **忽视非对称自由化大势** 过于强调国家模式的互补防卫，轻视了全球资本主义在过去四十年间整体向金融化、劳动力弹性化与市场化漂移的普遍趋同压力。
+>   - **忽视非对称[[Liberalization|自由化]]大势** 过于强调国家模式的互补防卫，轻视了全球资本主义在过去四十年间整体向金融化、劳动力弹性化与市场化漂移的普遍趋同压力。
 > - **不能直接推出** 拥有某种生产体制类型并不代表其在所有技术领域均具有绝对优势；CME 的高专用技能在颠覆性技术创新（Radical Innovation）中可能转化为转型沉没成本，而 LME 的通用技能在需要精密累积工艺的渐进创新（Incremental Innovation）中则可能造成技术断代。
 
 ---
@@ -161,11 +180,11 @@ updated: 2026-10-11
 
 > [!debates] 理论争议交锋
 >
-> > [!axis] 静态制度互补性 vs 内生渐进自由化演进
+> > [!axis] 静态[[Institutional Complementarity|制度互补性]] vs 内生渐进[[Liberalization|自由化]]演进
 > > 争论聚焦于资本主义多样性究竟是坚不可摧的自我强化均衡，还是正在经历深刻的结构性瓦解。
 > >
-> > - **霍尔与索斯基斯（Hall & Soskice, 2001）** 坚持制度互补性假说，认为全球化压力下企业为了捍卫既有比较制度优势，会促使国家主动强化其本土独特的协调机制，国家模式差异将被放大而非消除。
-> > - **施特雷克与希伦（Streeck & Thelen, 2005）** 尖锐批判 VoC 的功能主义超稳定假设，指出制度并非企业利益的温顺仆从，而是充满分配冲突的政治妥协；以德国为首的 CMEs 在制度表面存续的表象下，实际上发生了深刻的去规制、集体协商漂移与劳动市场双轨分层，两类体制共同走向了不可逆转的新自由主义自由化。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–7, 30–31)]]
+> > - **[[Peter A. Hall|霍尔]]与索斯基斯（Hall & Soskice, 2001）** 坚持制度互补性假说，认为全球化压力下企业为了捍卫既有比较制度优势，会促使国家主动强化其本土独特的协调机制，国家模式差异将被放大而非消除。
+> > - **[[Wolfgang Streeck|施特雷克]]与希伦（Streeck & Thelen, 2005）** 尖锐批判 VoC 的功能主义超稳定[[Hypothesis|假设]]，指出制度并非企业利益的温顺仆从，而是充满分配冲突的政治妥协；以德国为首的 CMEs 在制度表面存续的表象下，实际上发生了深刻的去规制、集体协商漂移与劳动市场双轨分层，两类体制共同走向了不可逆转的新自由主义自由化。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–7, 30–31)]]
 >
 > > [!axis] 二分理想类型 vs 资本主义多元形态的拓展困境
 > > 批评者质疑 CME 与 LME 两分法过于简单化，无法解释广阔非欧美国家的制度现实。
@@ -183,10 +202,10 @@ updated: 2026-10-11
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Historical-Comparative Method|相关研究]]索引
-> - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] — 运用 VoC 框架系统分析跨国公司在[[Corporate Education|企业教育]]全球化中的组织分化，解释为何德国双元制学徒制在海外跨国移植中遭遇排异失败。
-> - [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]] — 将 VoC 理论拓展至高等教育部门，揭示美、德、挪三国在[[Academic Capitalism|学术资本主义]]与大学学费改革中因制度互补性与合法性框架产生的路径依赖分化。
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 批判资本主义多样性框架中制度互补性的功能主义静态假设与连续性偏误，揭示先进资本主义体制向自由化渐进漂移的微观变迁机制。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] — 运用 VoC 框架系统分析跨国公司在[[Corporate Education|企业教育]]全球化中的组织分化，解释为何德国[[German Dual Education System|双元制]][[Apprenticeship|学徒制]]在海外跨国移植中遭遇排异失败。
+> - [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]] — 将 VoC 理论拓展至高等教育部门，揭示美、德、挪三国在[[Academic Capitalism|学术资本主义]]与大学学费改革中因[[Institutional Complementarity|制度互补性]]与合法性框架产生的[[Path Dependence|路径依赖]]分化。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 批判资本主义多样性框架中制度互补性的功能主义静态[[Hypothesis|假设]]与连续性偏误，揭示先进资本主义体制向[[Liberalization|自由化]]渐进漂移的微观变迁机制。
 
 ---
 
@@ -201,11 +220,11 @@ updated: 2026-10-11
 > | [[Academic Capitalism]] | Theory | 高等教育政治经济学理论，其在各国的具体实践形态受到资本主义多样性生产体制的深度塑造。 |
 > | [[Path Dependence]] | Theory | 解释资本主义多样性跨国持久性与各部门改革因制度锁定而难以逆转的核心动力学机制。 |
 > | [[Historical-Comparative Method]] | Method | 资本主义多样性理论在建构跨国制度类型学与剖析长周期演化脉络时所依赖的核心研究方法。 |
-> | [[Corporate Education]] | Concept | 资本主义多样性在微观企业技能投资与知识生产中的重要应用领域，展现美德跨国企业的策略分歧。 |
-> | [[Apprenticeship]] | Concept | 协调型市场经济体专用技能形成体系的核心基石，高度依赖母国制度互补性网络而极难跨国移植。 |
+> | [[Corporate Education]] | Concept | 资本主义多样性在微观企业技能投资与[[Knowledge Production\|知识生产]]中的重要应用领域，展现美德跨国企业的策略分歧。 |
+> | [[Apprenticeship]] | Concept | 协调型市场经济体专用技能形成体系的核心基石，高度依赖母国[[Institutional Complementarity\|制度互补性]]网络而极难跨国移植。 |
 > | [[Corporate University]] | Concept | 企业教育的重要组织实体，其治理架构（集权标准化对比分权自主）深刻映射母国的生产体制特征。 |
-> | [[Wolfgang Streeck]] | Person | 经济社会学家与制度学者，批判 VoC 静态功能主义互补性假设、阐明资本主义渐进自由化大势的领军学者。 |
+> | [[Wolfgang Streeck]] | Person | 经济社会学家与制度学者，批判 VoC 静态功能主义互补性[[Hypothesis\|假设]]、阐明资本主义渐进[[Liberalization\|自由化]]大势的领军学者。 |
 > | [[Kathleen Thelen]] | Person | 比较政治学家与历史制度主义领军学者，系统揭示劳资与技能形成制度在互补性表象下的渐进转型机制。 |
-> | [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] | Argument | 运用 VoC 透镜解释 IVET 难以国际化及美国 MNCs 垄断全球企业教育市场的核心实证文献。 |
+> | [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] | Argument | 运用 VoC 透镜解释 IVET 难以国际化及美国 MNCs 垄断全球企业教育市场的核心实证[[Document\|文献]]。 |
 > | [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017)]] | Argument | 将 VoC 框架引入高等教育领域并揭示学术资本主义跨国多样性机制的奠基文献。 |
 > | [[Argument_Streeck_Thelen_2005_OUP\|Streeck & Thelen (2005)]] | Argument | 提出过程与结果二元矩阵、批判 VoC 超稳定偏误并建构渐进制度变迁形态学的里程碑著作。 |

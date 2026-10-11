@@ -10,7 +10,7 @@ aliases:
 summary: "现代产业政策中政府向受补贴或受资助企业施加的契约性与法定约束机制；通过将公共财政支持与公共价值目标（包括高标准劳动力发展、托儿支持、禁止股票回购、超额利润分享、国家安全护栏及本土采购含量要求等）硬性绑定，旨在克服传统产业补贴的私营资本寻租与无条件分红弊端，实现兼具经济效率、供应链安全与社会包容的双重目标。"
 type: concept
 domain: "science-policy"
-related_count: 33
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Apprenticeship]]"
   - "[[Paradigm]]"
   - "[[Workforce Development]]"
+  - "[[Strategic Compliance]]"
   - "[[Modern Industrial Policy]]"
   - "[[Assemblage]]"
   - "[[Precompetitive Research]]"
@@ -33,6 +34,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Strategic Autonomy]]"
   - "[[Pilot Scale Platform]]"
+  - "[[Liberalization]]"
   - "[[Operationalization]]"
   - "[[Competitiveness]]"
   - "[[Embedded Autonomy]]"
@@ -64,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-10
+updated: 2026-10-11
 ---
 
 # Policy Conditionalities
@@ -92,7 +94,7 @@ updated: 2026-10-10
 > *CHIPS guardrails prohibit recipients of direct funding from engaging in stock buybacks using grant money and restrict expansion of leading-edge semiconductor manufacturing capacity in foreign countries of concern.*
 
 > [!boundary]- 概念边界
-> - **不等于 传统事后环境与劳工行政监管（Ex-post Regulatory Compliance）** 传统监管对全行业一视同仁且主要采取违法事后处罚；附加条件是针对享受特定公共产业扶持的企业设立的契约性增额前置要求。
+> - **不等于 传统事后环境与劳工行政监管（Ex-post Regulatory [[Strategic Compliance|compliance]]）** 传统监管对全行业一视同仁且主要采取违法事后处罚；附加条件是针对享受特定公共产业扶持的企业设立的契约性增额前置要求。
 > - **不等于 普惠中立性税收减免（Blanket Unconditional Tax Deductions）** 普惠减免不考核企业的再投资方向与劳工标准；附加条件实行“达标增额”（如满足学徒工时可获 5 倍税收抵免）的定向激励。
 > - **不等于 指令性计划经济行政摊派（Command Directives）** 附加条件依托市场化自愿申请与公私商业谈判（Term Sheets），企业基于收益评估自主权衡是否接受条件约束。
 
@@ -226,7 +228,7 @@ updated: 2026-10-10
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **20 世纪下半叶 — 传统宏观结构调整贷款附加条件** [[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]（IMF）在向发展中国家提供贷款时施加财政紧缩与自由化条件，带有强烈的华盛顿共识新自由主义色彩。
+> - **20 世纪下半叶 — 传统宏观结构调整贷款附加条件** [[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]（IMF）在向发展中国家提供贷款时施加财政紧缩与[[Liberalization|自由化]]条件，带有强烈的华盛顿共识新自由主义色彩。
 > - **2010 年代 — 使命导向创新与[[Public Value|公共价值]]重塑** [[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mazzucato, 2022）与丹尼·罗德里克（Rodrik, 2023）系统构建[[Modern Industrial Policy|现代产业政策]]附加条件分类学，主张通过条件设定将创新转化为包容、绿色与公共利益。
 > - **2021–2024 年 — 美国现代产业战略的法典化与[[Operationalization|操作化]]** 拜登政府在 [[Infrastructure Investment and Jobs Act|IIJA]]（[[Build America, Buy America Act|BABA]] 条款）、CHIPS（劳工/托儿/利润分享/地缘护栏）及 [[International Reading Association|IRA]]（[[Apprenticeship|学徒制]]与现行工资抵免）中全面落地附加条件机制，并将其延伸至 [[National Science and Technology Council|NSTC]] 研发联合体开放准入与非排他 IP 规约，使其成为 21 世纪国家产业战略治理的标准配置。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–6, 8–14)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 10–11)]]
 

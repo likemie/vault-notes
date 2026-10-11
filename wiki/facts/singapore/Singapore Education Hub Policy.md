@@ -12,7 +12,7 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Cultural Diplomacy]]"
   - "[[Soft Power]]"
+  - "[[Liberalization]]"
   - "[[International Education Hubs]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Flow]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-19
-updated: 2026-10-10
+updated: 2026-10-11
 ---
 
 # Singapore Education Hub Policy
@@ -123,7 +124,7 @@ updated: 2026-10-10
 ## 争议与评论
 
 > [!warning]
-- **绕开制度建设的代价**[[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 指出，新加坡的教育枢纽路径以市场自由化和基础设施扩张替代（而非补充）社会和政治制度建设。新加坡是一党制国家，其"不追求更具包容性的社会政治制度"的选择与教育枢纽路径之间存在内在关联——高等教育被用作维持威权合法性的工具，而非促进民主化的力量（pp.200, 211–212）
+- **绕开制度建设的代价**[[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 指出，新加坡的教育枢纽路径以市场[[Liberalization|自由化]]和基础设施扩张替代（而非补充）社会和政治制度建设。新加坡是一党制国家，其"不追求更具包容性的社会政治制度"的选择与教育枢纽路径之间存在内在关联——高等教育被用作维持威权合法性的工具，而非促进民主化的力量（pp.200, 211–212）
 - **"大学去社会化"风险** 在教育枢纽逻辑下，新加坡的大学被剥离更广泛的社会功能（社会批判、民主促进），主要被视为经济工具。这可能是大多数分校只开设自然科学而非社会科学课程的原因之一（p.212）
 - **区域竞争而非合作** 新加坡的教育枢纽战略建立在区域竞争逻辑之上——"将亚洲邻国视为竞争对手而非朋友"——可能加剧而非缓解东南亚高等教育发展的不平衡（p.207）
 

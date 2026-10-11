@@ -34,6 +34,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Total War]]"
   - "[[Topological Spatialisation]]"
+  - "[[Social Regime]]"
   - "[[School Inspection]]"
   - "[[International Education]]"
   - "[[Performance Pay]]"
@@ -51,7 +52,6 @@ related_concepts:
   - "[[Nordic Model of Education]]"
   - "[[Pride in Learning]]"
   - "[[Teacher Professional Agency]]"
-  - "[[Opportunist Mode]]"
   - "[[Methodological Statism]]"
   - "[[Critical Thinking]]"
   - "[[Theories of Policy Change]]"
@@ -116,7 +116,7 @@ updated: 2026-10-09
 > *The PISA 2000 shock fundamentally broke the long-standing taboo on standardised student assessments in Germany... leading to the establishment of the IQB as a national center of calculation and a [[Topological Spatialisation\|Topological Re-Assemblage]] of policy spaces.*
 
 > [!boundary] 概念边界
-> - 不等于 常态化国际测评排名下滑 — 常态化下滑往往被视为技术性波动，而 PISA 震荡是深层信念破灭驱动的跨党派全社会体制危机。
+> - 不等于 常态化国际测评排名下滑 — 常态化下滑往往被视为技术性波动，而 PISA 震荡是深层信念破灭驱动的跨党派全[[Social Regime|社会体制]]危机。
 > - 不等于 媒介化人为建构的虚假危机 — 真实 PISA 震荡源于出人意料的客观实证断裂（如德国 2001 年、瑞典 2012 年），而非政治精英在成绩平稳时为强推私有化而操纵媒体剪裁出的“人工危机”（如英格兰 2012 年）（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 113]]）。
 > - 不等于 孤立的课程纲要修补 — 传统课程修补仍停留在投入端的大纲修改，PISA 震荡则直接驱动了涵盖国家标准、国家计算中心、全域普查测试与独立[[School Inspection\|外部学校督导]]的系统性治理生态重建。
 > - 不适用于 缺乏实证合法化协商的威权体制 — 在无需向选民与利益相关者证明决策科学性的集权命令语境下，国际评估数据无法形成倒逼改革的政治震荡。
@@ -328,7 +328,7 @@ PISA 震荡作为制度分水岭，从根本上重塑了国家与地方、投入
 
 > [!debates] 学术争议
 >
-> > [!axis] 实质质量提升 vs 政治[[Opportunist Mode\|机会主义]]工具化
+> > [!axis] 实质质量提升 vs 政治机会主义工具化
 > > 争论焦点在于 PISA 震荡究竟是推动了德国教育的实质性质量跃升，还是沦为政治精英推销预设议程的修辞借口。
 > >
 > > - **实质改进论** 强调震荡促成了全日制学校普及、学前语言干预以及国家标准的建立，确实改善了弱势群体的受教育条件。

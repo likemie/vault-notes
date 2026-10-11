@@ -8,7 +8,7 @@ summary: "美国哲学家、社会心理学家与社会学家，实用主义哲�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 32
+person_related_count: 33
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Rich and Thick Description]]"
+  - "[[Social Regime]]"
   - "[[Mind and Its Wonders]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Phenomenon-Based Learning]]"
@@ -63,7 +64,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-08
+updated: 2026-10-11
 ---
 
 # George Herbert Mead
@@ -131,7 +132,7 @@ updated: 2026-10-08
 > 米德从社会行为主义进路阐明了个体自我是如何逐步发育并运转的：
 > - **手势对话与重要符号（Gestures & Significant Symbols）** 动物之间的手势（如狗咬架）仅为本能刺激-反应；而人类发展出的“重要符号”（如语言）能在发出者与接收者内心唤起完全相同的意义理解，使有意识的象征互动成为可能。
 > - **嬉戏与竞赛阶段（Play & Game Stages）** 在儿童发展的嬉戏阶段，儿童只能模仿单一具体的他人角色（如假扮老师或医生）；进入竞赛阶段后，儿童必须同时把握所有参与者的规则与角色协作（如棒球比赛），由此内化了代表整个社会群体规范期望的“概化他人”（Generalized Other）。
-> - **“主我”（I）与“客我”（Me）的辩证对话** 自我是动态平衡过程：“客我”是内化了的社会规约与他人态度总和，代表社会秩序与约束；“主我”是个体对客我态度的即时、能动与[[Creativity\|创造性]]反应；人类的心灵思考在本质上正是“主我”与“客我”之间在内心展开的社会化对话。
+> - **“主我”（I）与“客我”（Me）的辩证对话** 自我是动态平衡过程：“客我”是内化了的[[Social Regime|社会规约]]与他人态度总和，代表社会秩序与约束；“主我”是个体对客我态度的即时、能动与[[Creativity\|创造性]]反应；人类的心灵思考在本质上正是“主我”与“客我”之间在内心展开的社会化对话。
 
 > [!citation-card] Woods 论符号互动论的三大公设与意义建构
 > 首先，人类基于事物对其所具有的意义而对事物采取行动。人类居住在两个不同的世界中：一个是‘自然’世界，在其中他们是充满驱力和本能的有机体，外部世界独立于他们而存在；另一个是‘社会’世界，在其中象征符号（如语言）的存在使他们能够赋予客体以意义。这种意义的赋予与解释，正是使他们鲜明地区别为人类与社会性存在的根本原因。因此，互动论者聚焦于主观意义的世界以及产生和表征这些意义的符号。（Woods, 1979；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]）

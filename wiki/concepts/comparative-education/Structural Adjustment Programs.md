@@ -8,10 +8,10 @@ aliases:
 summary: "世界银行与国际货币基金组织在华盛顿共识下向债务危机国推行的宏观紧缩与市场化贷款附加方案；在教育领域通过推行使用者付费、私有化与分权化削减公共开支，是导致全球南方国家教育主权沦丧与阶级分化的核心外生制度杠杆"
 type: concept
 domain: "comparative-education"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - concept/policy
   - comparative-education
@@ -21,6 +21,7 @@ tags:
   - political-economy
   - latin-america
 related_concepts:
+  - "[[Liberalization]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Teaching Assistant]]"
   - "[[Discourse]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-10-09
+updated: 2026-10-11
 ---
 
 # Structural Adjustment Programs
@@ -78,7 +79,7 @@ updated: 2026-10-09
 ## 定义
 
 > [!def] 核心定义
-> **结构调整方案（Structural Adjustment Programs, SAPs）**是指[[World Bank|世界银行]]（World Bank）与[[International Monetary Fund|国际货币基金组织]]（International Monetary Fund, IMF）自 20 世纪 70 年代末及 80 年代债务危机以来，在华盛顿共识（Washington Consensus）指引下，向面临严重国际收支失衡与主权债务危机的全球南方国家提供贷款时，所强制捆绑的一整套以紧缩财政、市场自由化、去监管化和国家资产私有化为核心的宏观经济政策处方。在教育领域，结构调整方案将教育从普遍公民权利降格为私人消费品，通过强制要求受援国缩减教育公共预算、推行使用者付费（学杂费）、鼓励营利性私立学校竞争以及实施地方分权化甩脱国家包袱，深刻重构了外围国家的公共教育供给格局。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80)]]
+> **结构调整方案（Structural Adjustment Programs, SAPs）**是指[[World Bank|世界银行]]（World Bank）与[[International Monetary Fund|国际货币基金组织]]（International Monetary Fund, IMF）自 20 世纪 70 年代末及 80 年代债务危机以来，在华盛顿共识（Washington Consensus）指引下，向面临严重国际收支失衡与主权债务危机的全球南方国家提供贷款时，所强制捆绑的一整套以紧缩财政、市场[[Liberalization|自由化]]、去监管化和国家资产私有化为核心的宏观经济政策处方。在教育领域，结构调整方案将教育从普遍公民权利降格为私人消费品，通过强制要求受援国缩减教育公共预算、推行使用者付费（学杂费）、鼓励营利性私立学校竞争以及实施地方分权化甩脱国家包袱，深刻重构了外围国家的公共教育供给格局。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向跨国金融资本利用债务杠杆，对民族国家公共服务供给结构实施的外生性政策强制与制度再[[Disciplina and Doctrina|规训]]机制。

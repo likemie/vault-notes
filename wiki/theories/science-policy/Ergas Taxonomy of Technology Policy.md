@@ -2,7 +2,7 @@
 summary: "由亨利·埃尔加斯于1987年提出的经典国家技术政策二分理论，将主要工业国科技战略划分为以大科学攻坚与激进技术突破为核心的使命导向型（如美、英、法）以及以技术广泛渗透、职业技能培训与增量工艺优化为核心的扩散导向型（如德、瑞、日）两大范式；为使命导向政策的制度演进与国家能力比较奠定了基础。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 25
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Absorptive Capacity]]"
   - "[[Total Factor Productivity]]"
   - "[[Technology Transfer]]"
+  - "[[Institutional Complementarity]]"
   - "[[Directionality of Innovation]]"
   - "[[Agile Governance]]"
   - "[[Research Question]]"
@@ -42,10 +43,12 @@ related_facts:
   - "[[DARPA]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
+related_methods:
+  - "[[Typological Analysis]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-11
 title: Ergas Taxonomy of Technology Policy
 aliases:
   - 埃尔加斯技术政策分类
@@ -64,7 +67,7 @@ aliases:
 > [!theory-position] 理论定位
 > - **解释对象** 阐明不同工业化国家在科技研发投资、组织构架、产业政策工具与技能培训体系上的长期制度性差异及其对国家技术[[Competitiveness|竞争力]]的影响。
 > - **理论问题** 克服以往将国家科技政策视为同质化研发投入工具的简化倾向，揭示不同国家[[Systems of Innovation|创新系统]]在“追求激进技术突破”与“促进广泛技术扩散”之间的结构性分工。
-> - **理论类型** 比较制度分析与国家科技政策类型学理论。
+> - **理论类型** 比较制度分析与国家科技政策[[Typological Analysis|类型学理论]]。
 > - **知识位置** 植根于比较政治经济学、[[Evolutionary Economics|演化经济学]]与[[National Innovation System|国家创新系统]]（National Systems of Innovation）理论。
 
 > [!claim] 核心判断
@@ -100,7 +103,7 @@ aliases:
 ## 核心命题
 
 > [!theory-proposition] 命题一｜使命导向与扩散导向代表了不同[[Systems of Innovation|创新系统]]的能力分工
-> **解释** 使命导向政策依靠国家集中国家级资源开展前沿[[Big Science|大科学]]攻关，旨在开辟全新的[[Technological Trajectories|技术轨道]]；扩散导向政策则通过强大的中等职业技能培训和[[Technology Transfer|技术转移]]中介网络，确保先进技术迅速在中小企业中扩散普及。两者各具比较优势，反映了不同[[Varieties of Capitalism|资本主义多样性]]（Varieties of Capitalism）体制下的制度互补性。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790, 794)]]
+> **解释** 使命导向政策依靠国家集中国家级资源开展前沿[[Big Science|大科学]]攻关，旨在开辟全新的[[Technological Trajectories|技术轨道]]；扩散导向政策则通过强大的中等职业技能培训和[[Technology Transfer|技术转移]]中介网络，确保先进技术迅速在中小企业中扩散普及。两者各具比较优势，反映了不同[[Varieties of Capitalism|资本主义多样性]]（Varieties of Capitalism）体制下的[[Institutional Complementarity|制度互补性]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790, 794)]]
 
 > [!theory-proposition] 命题二｜[[New Public Management|新公共管理]]改革在削弱大科学使命的同时破坏了扩散能力底座
 > **解释** 1980 年代兴起的新公共管理改革对英美等国的使命导向政策推行短期成本效益紧缩与外包，迫使大型国家实验室削减前瞻研究；同时，这种只重微观合规的短视逻辑也破坏了扩散型体制所依赖的长期稳定公共资助机制，导致多数西方国家在 20 世纪末陷入协调能力不足的制度空心化。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 794–796)]]

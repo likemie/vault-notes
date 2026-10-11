@@ -11,7 +11,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Student Mobility]]"
   - "[[State Educational Sovereignty]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Liberalization]]"
   - "[[Presence]]"
   - "[[International Education]]"
   - "[[Research Universities]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-10-10
+updated: 2026-10-11
 ---
 
 # GATS and Trade in Education Services
@@ -82,7 +83,7 @@ updated: 2026-10-10
 > GATS 是当代国际经贸治理中首个将教育服务纳入多边法律约束的协定；它将教育重新定义为受商业供求规律驱动的跨境服务产品，通过四大供给模式推进跨国市场准入与国民待遇，为新自由主义教育改革确立了全球合法性框架，并对发展中国家的[[State Educational Sovereignty|国家教育主权]]形成了深层的多标度[[Disciplina and Doctrina|规训]]。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]; [[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
 
 > [!policy-design]- 政策设计
-> - **政策目标** 消除各国在跨境教育服务准入与运营方面的制度壁垒，推动文凭学历互认，促进教育资本跨国流动与国际服务贸易逐步自由化。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
+> - **政策目标** 消除各国在跨境教育服务准入与运营方面的制度壁垒，推动文凭学历互认，促进教育资本跨国流动与国际服务贸易逐步[[Liberalization|自由化]]。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 > - **教育服务四种供给模式（Modes of Supply）**
 >   - **模式一：跨境交付（Cross-Border Supply）** 从一成员境内向另一成员境内提供服务（如远程网络学位课程、跨国在线数字教学资源）。
 >   - **模式二：境外消费（Consumption Abroad）** 一成员的服务消费者到另一成员境内接受服务（如自费出国攻读学位的国际留学生）。
@@ -119,7 +120,7 @@ updated: 2026-10-10
 > - **政策适用客体** 跨国接受教育服务的学生、跨境派遣的教师、从事联合学位合作的本土院校。
 
 > [!pathways]- 实施路径
-> - **自愿承诺与逐步自由化** 成员国通过双边或多边“出价—要价（Request-Offer）”磋商，确定在教育五个子类别中是否给予外国办学机构国民待遇与市场准入。
+> - **自愿承诺与逐步[[Liberalization|自由化]]** 成员国通过双边或多边“出价—要价（Request-Offer）”磋商，确定在教育五个子类别中是否给予外国办学机构国民待遇与市场准入。
 > - **跨国办学与学位互认对接** 协定推动各国教育主管部门破除边境资质障碍，建立对等评估与联合办学备案制，促成国际分校在亚洲与中东大量设立。
 > - **多标度[[Disciplina and Doctrina|规训]]与国内法调适** 成员国若在承诺部门对外国教育机构设立歧视性补贴或不合理的办学资本门槛，可能面临 WTO 机制下的贸易反制威胁。
 

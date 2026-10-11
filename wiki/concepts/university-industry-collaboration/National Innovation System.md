@@ -10,7 +10,7 @@ aliases:
 summary: "指由国家公共教育与培训体系、企业专职研发实验室、产业网络、前竞争技术联合体、实体制造公地、政府协调规制以及承接战略使命并贯通中试研发的研究型大学所构成的制度网络，是解释跨国技术赶超、无形知识积累与经济长期分化的核心分析单位。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 82
+related_count: 83
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Measurement Alignment]]"
   - "[[Securitization of Technology]]"
   - "[[Technology Readiness Level]]"
+  - "[[Liberalization]]"
   - "[[User-Producer Interaction]]"
   - "[[Document]]"
   - "[[Transformative Change]]"
@@ -110,7 +111,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-09
+updated: 2026-10-11
 ---
 
 # National Innovation System
@@ -245,7 +246,7 @@ updated: 2026-10-09
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **知识资本与赶超命题** | 跨国技术赶超取决于教育培训与国家无形知识资本积累，而非单纯实物资产与自由贸易自由化。 | 后发国家工业化启动与技术差距缩减过程。 | List, F.; Freeman, C. |
+> | **知识资本与赶超命题** | 跨国技术赶超取决于教育培训与国家无形知识资本积累，而非单纯实物资产与自由贸易[[Liberalization\|自由化]]。 | 后发国家工业化启动与技术差距缩减过程。 | List, F.; Freeman, C. |
 > | **组织建制与网络协同命题** | 企业内部专职研发与研产供销紧密回路决定转化效能，单一研发经费指标存在严重盲区。 | 工业国研发体制评价与产研分割体制诊断。 | Freeman, C.; Bush, V. (对话方) |
 > | **母国环境锚固命题** | 跨国公司核心研发依然扎根母国，全球化并未削弱国家创新系统的分析核心地位。 | 跨国投资评估、全球价值链分析与国家产业主权规划。 | Freeman, C.; Porter, M.; Patel, P. & Pavitt, K. |
 > | **创新公地与共性协同命题** | 实体制造公地、前竞争技术联合体与分布式监管沙盒是现代国家创新体系的韧性支柱。 | 逆全球化背景下的前沿深科技攻坚、技术主权与产业公地重塑。 | [[Michael Kratsios\|Kratsios, M.]]; Pisano, G. P. & Shih, W. C. |

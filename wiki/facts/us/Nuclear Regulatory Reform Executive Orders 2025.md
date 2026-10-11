@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - theme/nuclear
   - theme/infrastructure
 related_concepts:
+  - "[[Liberalization]]"
   - "[[Paradigm]]"
   - "[[Permissionless Innovation]]"
   - "[[Hypothesis]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-11
 ---
 
 # Nuclear Regulatory Reform Executive Orders 2025
@@ -56,7 +57,7 @@ updated: 2026-10-08
 ## 背景与立项动因
 
 > [!policy-context] 政策背景与历史动因
-> - **发布时间 / 发布主体** 2025 年 5 月由美国总统签署发布四项核能监管改革行政令（Four Nuclear Energy Executive Orders），被科技政策界称为“一代人以来最全面的联邦核能监管自由化改革”。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 37)]]
+> - **发布时间 / 发布主体** 2025 年 5 月由美国总统签署发布四项核能监管改革行政令（Four Nuclear Energy Executive Orders），被科技政策界称为“一代人以来最全面的联邦核能监管[[Liberalization|自由化]]改革”。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 37)]]
 > - **适用范围与主管机构** 美国核管理委员会（Nuclear Regulatory Commission）、[[Department of Energy|美国能源部]]（Department of Energy, DOE）、美国国防部（Department of Defense, DoD）以及全美先进裂变与微堆研发企业。
 > - **历史困境与规制瘫痪** 美国曾是民用核反应堆技术的全球发源地与领导者，但随后陷入长达数十年的规制瘫痪（Regulatory Paralysis）。先进反应堆研发公司在浇筑第一罐水泥前，需耗费 5 至 6 年进行“预申请讨论”，设计认证还需再耗费 4 年以上；某商业公司为单一堆型提交了 1.2 万页申请和逾 200 万页技术支撑文件，能源部为辅助该审批耗资超 6 亿美元；其后还面临联合建造与运行执照（Combined License, COL）审议、强制公开听证与无休止的建造检查，导致私营资本彻底失去新建先进反应堆的意愿。
 > - **战略驱动力** 驱动此次改革的核心动力并非仅源于核能产业自身诉求，而是源于人工智能（AI）数据中心超大规模基荷电力需求、制造业回流以及清洁能源供应链自主可控的国家战略紧迫感。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 36)]]

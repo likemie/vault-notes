@@ -18,6 +18,7 @@ tags:
   - paradigm/evolutionary-economics
   - method/comparative-historical
 related_concepts:
+  - "[[Liberalization]]"
   - "[[National Innovation System]]"
   - "[[Regional Innovation System]]"
   - "[[Technological Catch-up]]"
@@ -74,7 +75,7 @@ title: "Argument_Freeman_1995_CJE"
 argument_key: "Argument_Freeman_1995_CJE"
 argument_display_title: "The 'National System of Innovation' in historical perspective"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -91,7 +92,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 伴随跨国公司的全球扩张、电信网络普及与国际贸易自由化，部分学者宣称民族国家与国别经济已丧失实质分析意义。这一论调是否成立？在历史经验与当代世界经济中，为何不同国家的技术进步速度与经济增长水平不仅未能自然趋同，反而在制度演进中持续拉大差距？
+> 伴随跨国公司的全球扩张、电信网络普及与国际贸易[[Liberalization|自由化]]，部分学者宣称民族国家与国别经济已丧失实质分析意义。这一论调是否成立？在历史经验与当代世界经济中，为何不同国家的技术进步速度与经济增长水平不仅未能自然趋同，反而在制度演进中持续拉大差距？
 
 > [!claim] 核心主张
 > [[National Innovation System|国家创新系统]]与[[Regional Innovation System|区域创新系统]]依然是经济与政治分析不可替代的核心领域；技术创新的能力并不由跨国贸易和实物资本自发带来，而是深植于由国家公共教育、产业组织、企业内部研究与开发实验室、技术基础设施以及政府长期产业政策构成的制度网络之中。（pp. 5, 20–21）

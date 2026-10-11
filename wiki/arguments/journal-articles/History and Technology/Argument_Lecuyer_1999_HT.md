@@ -31,6 +31,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Paradigm]]"
   - "[[Technological Convergence]]"
+  - "[[Institutional Complementarity]]"
   - "[[Reliability]]"
   - "[[Transfer Translation Transformation]]"
 related_theories: []
@@ -58,7 +59,7 @@ title: "Argument_Lecuyer_1999_HT"
 argument_key: "Argument_Lecuyer_1999_HT"
 argument_display_title: "Silicon for industry: Component design, mass production, and the move to commercial markets at Fairchild Semiconductor, 1960–1967"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -96,7 +97,7 @@ issuing_organization: ""
 > | **用户-供应商协同演进与技术收敛<br>User-Supplier Relations & [[Technological Convergence]]** | 继承 Rosenberg (1963) 关于机床工业[[Technological Convergence\|技术收敛]]的思想，强调上游元器件供给商与下游整机使用部门之间的知识双向流动、工程协同设计及系统接口匹配，是打破技术扩散阻力的核心机制。（pp. 180–181） |
 
 > [!warrant]- 理论如何支撑论证
-> 通用目的技术理论揭示了基础技术扩散所面临的跨部门协调壁垒与互补性创新时滞，而用户-供应商关系理论为解释[[Fairchild Semiconductor|仙童半导体]]的主动干预行为提供了[[Analytic Framework|分析框架]]。通过将两者结合，本文阐明了仙童半导体如何不仅生产物理芯片，更通过[[Application Engineering|应用工程]]部输出系统级知识、通过[[Dual In-Line Package|双列直插封装]]（DIP）消除下游印刷电路板（PCB）[[Assemblage|装配]]瓶颈，从而在微观层面完成了通用目的技术扩散所需的全部互补性制度与技术重组。（pp. 180–181, 207–209）
+> 通用目的技术理论揭示了基础技术扩散所面临的跨部门协调壁垒与互补性创新时滞，而用户-供应商关系理论为解释[[Fairchild Semiconductor|仙童半导体]]的主动干预行为提供了[[Analytic Framework|分析框架]]。通过将两者结合，本文阐明了仙童半导体如何不仅生产物理芯片，更通过[[Application Engineering|应用工程]]部输出系统级知识、通过[[Dual In-Line Package|双列直插封装]]（DIP）消除下游印刷电路板（PCB）[[Assemblage|装配]]瓶颈，从而在微观层面完成了通用目的技术扩散所需的全部[[Institutional Complementarity|互补性制度]]与技术重组。（pp. 180–181, 207–209）
 
 ---
 

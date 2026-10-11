@@ -8,10 +8,10 @@ aliases:
 summary: "历史制度主义与政策变迁分析中的渐进制度变迁核心机制；指在不废除或替换既有制度结构的前提下，通过向既有制度框架中附加新规则、新行动者、新政策工具或新管理程序，随时间推移逐步改变原有制度地位、行为结构与治理后果的演进过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 25
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 concept_field: "political-economy-geopolitics"
 tags:
   - theme/institutional-change
@@ -23,15 +23,20 @@ related_concepts:
   - "[[Institutional Drift]]"
   - "[[Institutional Conversion]]"
   - "[[Venue Shopping]]"
+  - "[[Growth]]"
   - "[[Problem of Many Hands]]"
   - "[[Regulatory Ratchet]]"
   - "[[Variable]]"
   - "[[Subversives]]"
   - "[[Document]]"
   - "[[Paradigm]]"
+  - "[[Liberalization]]"
   - "[[Composite-Standard Model]]"
   - "[[Operationalization]]"
+  - "[[Veto Possibilities]]"
+  - "[[Enforcement Discretion]]"
 related_theories:
+  - "[[Historical Institutionalism]]"
   - "[[Theory of Gradual Institutional Change]]"
   - "[[Punctuated Equilibrium Theory]]"
   - "[[Path Dependence]]"
@@ -63,7 +68,7 @@ updated: 2026-10-11
 ## 定义
 
 > [!def] 核心定义
-> 历史制度主义与公共政策分析中用以解释[[Theory of Gradual Institutional Change|渐进制度变迁]]（Incremental Institutional Change）的核心概念；指在维持既有制度总体稳定或保留核心制度框架的前提下，行动者通过向既有结构附加新规则、新政策工具、新组织机构或新行政程序，使其与旧制度并存共生，进而随着历史时间推移逐步重塑原有规则的行为导向、治理功能与制度地位。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 9, 11)]]
+> [[Historical Institutionalism|历史制度主义]]与公共政策分析中用以解释[[Theory of Gradual Institutional Change|渐进制度变迁]]（Incremental Institutional Change）的核心概念；指在维持既有制度总体稳定或保留核心制度框架的前提下，行动者通过向既有结构附加新规则、新政策工具、新组织机构或新行政程序，使其与旧制度并存共生，进而随着历史时间推移逐步重塑原有规则的行为导向、治理功能与制度地位。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 9, 11)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向制度变迁过程中的边际累加与层叠机制；其核心特征是增新而不废旧，新机制在旧机制顶端累积共生。
@@ -98,7 +103,7 @@ updated: 2026-10-11
 ## 核心要素
 
 > [!feature] 制度层叠的历史演进传统与构成维度
-> - **差异化增长（Differential Growth）** 改革者在既有制度核心的外围增设补充性新规则或新机制；新层最初看似微不足道，但由于外部市场红利或政策倾斜，其增长速度显著超越旧制度核心，随时间推移逐渐吸纳全社会增量资源并完成结构性重塑。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 22–24)]]
+> - **差异化增长（Differential [[Growth]]）** 改革者在既有制度核心的外围增设补充性新规则或新机制；新层最初看似微不足道，但由于外部市场红利或政策倾斜，其增长速度显著超越旧制度核心，随时间推移逐渐吸纳全社会增量资源并完成结构性重塑。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 22–24)]]
 > - **官僚与行动者增厚（Thickening: adding actors）** 在既有行政层级中不断增设新机构、职能部门、私营或非营利主体，导致权力层级重叠并引发责任稀释的多手问题（[[Problem of Many Hands]]）。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
 > - **[[Regulatory Ratchet|规制棘轮]]与工具叠加（Regulatory ratchet: adding instruments）** 在既有法律法规体系之上持续叠加密集的新细则、审查要求与合规规程，使制度体系如同单向棘轮般日益繁复庞杂。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 14–15)]]
 > - **行动者与工具双重叠加（Adding actors and instruments）** 面对公共治理困境，改革者同时引入新型组织载体与新型管理工具，在双重层叠中逐步推动整体制度生态的质性重构。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 15)]]
@@ -142,7 +147,7 @@ updated: 2026-10-11
 > **边际附加的累积质变效应** 在政治权力分散或存在强大机构阻力导致全面[[Institutional Displacement|制度替代]]不可行时，行动者通过积极赞助修正案或在旧体制边缘设立新机制，使得新规则逐步侵蚀、改写或边缘化原有规则对行为的规约方式，在长时段内累积出等同于剧烈变革的制度转型后果。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 11–12)]]
 
 > [!claim] [[James Mahoney|Mahoney, J.]] & [[Kathleen Thelen|Thelen, K.]]
-> **强否决阻力与颠覆者潜伏层叠** 当既有制度由强力否决玩家捍卫且规则缺乏解释裁量权时，改革者无法公开废法；其主导变革者为[[Subversives|颠覆者]]（Subversives），他们表面遵从规则、潜伏运作，策略性在既有核心顶端或外围增添补充条款，如地下室白蚁般随时间推移逐渐掏空并取代旧核心。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 16–17, 25–26)]]
+> **强否决阻力与[[Subversives|颠覆者]]潜伏层叠** 当既有制度由强力否决玩家捍卫且规则缺乏解释裁量权时，改革者无法公开废法；其主导变革者为[[Subversives|颠覆者]]（Subversives），他们表面遵从规则、潜伏运作，策略性在既有核心顶端或外围增添补充条款，如地下室白蚁般随时间推移逐渐掏空并取代旧核心。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 16–17, 25–26)]]
 
 > [!claim] Schickler, E.
 > **多元利益妥协的层叠张力** 制度并非源于单一理性主体的顶层宏观规划，而是在不同历史时期相互竞争的多元利益主体博弈妥协的产物；各方妥协推动了新安排在既有结构之上的层叠，形成充满张力且非统一设计的杂合制度形态。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 12)]]
@@ -185,7 +190,7 @@ updated: 2026-10-11
 > [!dev-timeline] 概念演变
 > - **1940年代–1970年代 — 官僚层级增厚研究** 早期行政学[[Document|文献]]使用层叠描述多级政府机构层级扩张与职权叠加，重点揭示多层管辖权冲突与责任模糊问题。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
 > - **1980年代–1990年代 — [[Regulatory Ratchet|规制累积]]与工具增多** 规制研究引入层叠描述法律与劳动规制条款的层层加码，凝练出[[Regulatory Ratchet|规制棘轮]]（Regulatory Ratchet）隐喻，揭示合规体系的过度复杂化负担。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 14–15)]]
-> - **2000年代初 — 希伦奠定历史制度主义核心机制** [[Kathleen Thelen|凯瑟琳·希伦]]（[[Kathleen Thelen]]）等学者将层叠提升为历史制度主义四大渐进变迁支柱之一，系统界定其通过增设规则改变原有规则行为结构的机制内涵。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 11–12)]]
+> - **2000年代初 — 希伦奠定[[Historical Institutionalism|历史制度主义]]核心机制** [[Kathleen Thelen|凯瑟琳·希伦]]（[[Kathleen Thelen]]）等学者将层叠提升为历史制度主义四大渐进变迁支柱之一，系统界定其通过增设规则改变原有规则行为结构的机制内涵。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 11–12)]]
 > - **2010年代及以后 — 概念漂移检视与理论桥梁重构** 学界出现宽泛套用层叠的概念漂移现象；[[Jeroen van der Heijden|范德海登]]（Van der Heijden）等学者开展系统学术史考证，厘清层叠边界并倡导将其作为弥合间断均衡与渐进演化理论的因果分析工具。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–16)]]
 
 ---
@@ -193,13 +198,13 @@ updated: 2026-10-11
 ## 经验证据与典型案例
 
 > [!evidence-grid] 制度层叠的代表性经验案例（增新不废旧并驱动制度演化）
-> - **德国劳动力市场微型工作与非正规用工分层（双轨化自由化分层典范）** 德国政府在保留传统全职制造业劳工严格解雇保护（Kündigungsschutz）核心的前提下，通过劳动力市场改革在劳动规制外围分层增设微型工种（Minijobs）与临时派遣工规章；免税与低社保费用的微型工种以数十倍于传统岗位的速度野蛮生长，吸纳了数百万低薪服务业劳工，使得德国在表面完整维系战后劳工保护制度的同时，实质完成了劳动力市场深刻的二元分层（Dualization）与自由化转型。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 23–24)]]
+> - **德国劳动力市场微型工作与非正规用工分层（双轨化[[Liberalization|自由化]]分层典范）** 德国政府在保留传统全职制造业劳工严格解雇保护（Kündigungsschutz）核心的前提下，通过劳动力市场改革在劳动规制外围分层增设微型工种（Minijobs）与临时派遣工规章；免税与低社保费用的微型工种以数十倍于传统岗位的速度野蛮生长，吸纳了数百万低薪服务业劳工，使得德国在表面完整维系战后劳工保护制度的同时，实质完成了劳动力市场深刻的二元分层（Dualization）与自由化转型。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 23–24)]]
 > - **美国养老金 401(k) 计划与自愿性补充账户层叠（公共福利边际分层典范）** 保守派政府并未直接削减富兰克林·罗斯福建立的现收现付制公共社会保障（Social Security），而是在联邦税法第 401(k) 条款中层叠设立雇主赞助的私人投资账户；由于免税红利与资本市场牛市，401(k) 积累的资产规模迅速超越了公共信托基金，实质改写了美国国民的退休风险预期。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 22–23)]]
 > - **战后公共行政扩张（行动者增厚与[[Problem of Many Hands|多手难题]]）** 尤金·贝利斯尔（Belisle, 1944）、劳伦斯·赫森（Herson, 1961）、尼尔·张伯伦（Chamberlain, 1969）与保罗·莱特（Light, 1995）系统考证了在联邦、州与地方多级层级中持续增设新局署，以及在既有体制中引入私营与非营利主体；组织层叠造成权力重叠与责任稀释，印证了行动者增厚的制度成本与多手难题（[[Problem of Many Hands]]）。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
 > - **战后金融与劳工规制演进（[[Regulatory Ratchet|规制棘轮]]与工具叠加）** 克利夫顿·克雷普斯（Kreps, 1966）揭示大萧条后银行业监管层层加盖；尤金·巴达克与罗伯特·卡根（Bardach & Kagan, 1982）以及理查德·佛罗里达与马丁·肯尼（Florida & Kenney, 1992）揭示规则只增不减形成[[Regulatory Ratchet|规制棘轮]]（Regulatory Ratchet），使合规体系日益繁复庞杂。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 14–15)]]
 > - **公共服务供给体制转型（组织与工具双重叠加）** 布鲁斯·史密斯（Smith, 1983）与[[Kathleen Thelen|凯瑟琳·希伦]]（Thelen, 2004）系统剖析美国公共服务在公营实体、非营利组织与表外融资契约上的层叠演化，证实新旧组织与新型管理工具的叠床架屋能够深刻重构公共行政的运行生态。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 15)]]
 > - **美国教育券计划与公立学区改革（边际分流层叠典范）** 保守派改革者无法击败强大的公立教师工会直接废除公立学区体系，转而在公立学区体制边缘增设教育券（School Vouchers）选择权，随着越来越多的家庭使用教育券，公立学校的财政资源与生源被渐进分流。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 16–17)]]
-> - **巴西军政府时期的基层卫生运动（颠覆者潜伏层叠典范）** 图利亚·法莱蒂（Falleti）考证表明，激进卫生改革者在威权军政府时期表面顺从国家卫生政策，敏锐利用体制向内地扩张诊所的契机在基层试点自治管理模式，如白蚁般将新规则层叠于旧体制内部，直至民主化到来时一举跃升为主导制度。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 26, 30–31)]]
+> - **巴西军政府时期的基层卫生运动（[[Subversives|颠覆者]]潜伏层叠典范）** 图利亚·法莱蒂（Falleti）考证表明，激进卫生改革者在威权军政府时期表面顺从国家卫生政策，敏锐利用体制向内地扩张诊所的契机在基层试点自治管理模式，如白蚁般将新规则层叠于旧体制内部，直至民主化到来时一举跃升为主导制度。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 26, 30–31)]]
 > - **荷兰住房法建筑规制执行史（多维时空感知）** 展现微观建筑承包商感知到的剧烈突变、中观部门长达二十年的渐进谈判与宏观百年法理框架的边际微调，证明变迁定性取决于主体的制度位置与时间跨度。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10–11)]]
 
 > [!critique]- 反面概念辨析案例：被当代学者误读为“制度层叠”的制度再生产与[[Path Dependence|技术锁定]]
@@ -234,5 +239,5 @@ updated: 2026-10-11
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 首次系统界定分层（Layering）机制，分析在旧核心边缘附加新规则如何通过差异化增长逐步实现体制转型。（pp. 22–24）
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 跨学科审视 60 年间 166 篇期刊[[Document|文献]]中层叠概念的演变传统，提炼行动者增厚、[[Regulatory Ratchet|规制棘轮]]与双重叠加三类演化支脉，并反思当代应用混淆变迁与再生产的边界偏误。
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 将制度层叠定位于强否决可能性与低执行裁量权制度语境，揭示颠覆者在不触动旧规则前提下通过附加新规累积重塑体制逻辑。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 将制度层叠定位于强[[Veto Possibilities|否决可能性]]与低[[Enforcement Discretion|执行裁量权]]制度语境，揭示[[Subversives|颠覆者]]在不触动旧规则前提下通过附加新规累积重塑体制逻辑。
 

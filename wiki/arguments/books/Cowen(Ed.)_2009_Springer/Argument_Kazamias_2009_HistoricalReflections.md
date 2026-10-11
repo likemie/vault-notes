@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_HistoricalReflections"
 argument_key: "Argument_Kazamias_2009_HistoricalReflections"
 argument_display_title: "Comparative Education: Historical Reflections"
 argument_kind: "book-chapter"
-argument_related_count: 82
+argument_related_count: 83
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -59,6 +59,7 @@ related_concepts:
   - "[[Attrition]]"
   - "[[International Education]]"
   - "[[Scientific Method]]"
+  - "[[Social Regime]]"
   - "[[Teaching Assistant]]"
   - "[[Causality]]"
   - "[[Liberal Education]]"
@@ -236,7 +237,7 @@ updated: 2026-10-01
 
 #### 2. 萨德勒确立从孤立考察学校转向研究深层社会文化的分析框架
 
-在 19 世纪下半叶，跨国教育比较开始突破单纯描述外国体系的局限，转而用于反思本国政治与社会体制。
+在 19 世纪下半叶，跨国教育比较开始突破单纯描述外国体系的局限，转而用于反思本国政治与[[Social Regime|社会体制]]。
 
 > [!policy-context] [[Matthew Arnold|马修·阿诺德]]对自由放任体制的跨国反思
 > 英国皇家学校视察员马修·阿诺德（Matthew Arnold）在考察欧洲大陆教育时明确指出，单纯把英国自由放任的传统当成不可更改的教条是错误的。他运用英法两国的对比，批评英国社会由于缺乏国家统筹而导致阶层隔阂，力主国家必须介入并主办公共教育。（pp.142–143）

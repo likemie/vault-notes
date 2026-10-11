@@ -9,7 +9,7 @@ aliases:
 summary: "指由三个及以上主权国家基于普遍行为原则建立的制度化教育协调与援助机制，其历史演进经历了从战后教科文组织主导的有限再分配模式，到后殖民抗争，再到新自由主义防御性与规训性模式的重大范式转型。"
 type: concept
 domain: "comparative-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge Transfer]]"
+  - "[[Liberalization]]"
   - "[[Going Native]]"
 related_theories:
   - "[[Pluri-Scalar Governance]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-10-05
+updated: 2026-10-11
 ---
 
 # Educational Multilateralism
@@ -158,7 +159,7 @@ updated: 2026-10-05
 > - **1945–1965 — 有限再分配阶段** [[UNESCO|联合国教科文组织]]（UNESCO）主导教育多边主义，确立教育作为基本人权的国际法地位，多边合作侧重战后重建与[[Knowledge Transfer|知识转移]]援助。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 > - **1960 年代末–1970 年代末 — 抗争性多边主义** 亚非拉后殖民独立国家通过联合国大会提出建立国际经济新秩序（NIEO），要求多边教育机制支持第三世界国家的社会福利发展模式。
 > - **1980 年代–1990 年代 — 防御性与[[Disciplina and Doctrina|规训]]性阶段** [[World Bank|世界银行]]凭借巨额贷款规模超越教科文组织，以新自由主义结构调整、教育投资收益率计量为核心工具，将多边合作转变为对受援国公共支出的规训机制。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
-> - **1995 年至今 — 贸易规制与[[Pluri-Scalar Governance|多标度治理]]** [[World Trade Organization|世界贸易组织]]（WTO）成立并推出《[[GATS and Trade in Education Services|服务贸易总协定]]》（GATS），教育多边主义拓展至跨国教育服务贸易自由化与知识产权监管领域。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
+> - **1995 年至今 — 贸易规制与[[Pluri-Scalar Governance|多标度治理]]** [[World Trade Organization|世界贸易组织]]（WTO）成立并推出《[[GATS and Trade in Education Services|服务贸易总协定]]》（GATS），教育多边主义拓展至跨国教育服务贸易[[Liberalization|自由化]]与知识产权监管领域。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
 
 ---
 

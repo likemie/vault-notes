@@ -8,41 +8,58 @@ aliases:
 summary: "历史制度主义的核心中观理论，由沃尔夫冈·施特雷克、凯瑟琳·希伦与詹姆斯·马奥尼先后奠定；突破传统间断均衡模型将制度视为静态稳态的偏误，将制度界定为具有权力分配后果的社会规制；基于成文规则与基层执行之间的内生缝隙，系统建构置换、分层、漂移、转换与耗竭五大变迁形态，并通过否决门槛、执行裁量权与微观行动者联盟动力学，解释常态历史时期的颠覆性质变。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 23
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 40
+theory_related_level: 5
+theory_related_stars: "⭐⭐⭐⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theory/institutionalism
   - theme/institutional-change
   - theme/political-economy
   - theme/comparative-politics
 related_concepts:
-  - "[[Institutional Exhaustion]]"
+  - "[[Rule Ambiguity]]"
+  - "[[Apprenticeship]]"
+  - "[[Institutional Drift]]"
   - "[[Institutional Displacement]]"
   - "[[Institutional Layering]]"
-  - "[[Institutional Drift]]"
   - "[[Institutional Conversion]]"
+  - "[[Institutional Exhaustion]]"
+  - "[[Liberalization]]"
   - "[[Veto Possibilities]]"
   - "[[Enforcement Discretion]]"
   - "[[Insurrectionaries]]"
   - "[[Subversives]]"
   - "[[Symbionts]]"
   - "[[Opportunists]]"
+  - "[[Policy Science in Comparative Education]]"
+  - "[[Document]]"
+  - "[[Variable]]"
+  - "[[Strategic Compliance]]"
+  - "[[Research Question]]"
+  - "[[Unit of Analysis]]"
 related_theories:
   - "[[Historical Institutionalism]]"
-related_methods: []
+  - "[[Path Dependence]]"
+  - "[[Punctuated Equilibrium Theory]]"
+related_methods:
+  - "[[Typological Analysis]]"
+  - "[[Causal Modeling]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Wolfgang Streeck]]"
   - "[[Kathleen Thelen]]"
   - "[[James Mahoney]]"
+  - "[[Max Weber]]"
   - "[[Theda Skocpol]]"
   - "[[Peter A. Hall]]"
   - "[[Paul Pierson]]"
   - "[[Jacob S. Hacker]]"
   - "[[George Tsebelis]]"
-related_facts: []
+  - "[[Jeroen van der Heijden]]"
+related_facts:
+  - "[[International Reading Association]]"
 related_arguments:
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
@@ -61,9 +78,9 @@ updated: 2026-10-11
 
 > [!theory-position] 理论定位
 > - **解释对象** 现代政治经济体制中正式制度在长期运行过程中所经历的细微、累积且缓慢的内生质变过程，及其对权力格局与实质性资源分配的重塑。
-> - **理论问题** 传统制度主义（理性选择、社会学与早期历史制度主义）将制度预设为自我强化的静态均衡，将制度变迁片面归结为外部危机冲击或间断均衡突变；缺乏解释常规历史时期制度如何通过微观内生博弈实现深层重塑的理论体系。
-> - **理论类型** 中观因果解释理论与比较类型学分析框架。
-> - **知识位置** 植根于[[Historical Institutionalism|历史制度主义]]（Historical Institutionalism），融合政治经济学对权力分配偏向、成文规则模糊性与执法裁量权的微观博弈分析，与路径依赖理论和间断均衡理论形成深刻的批判性理论对话。
+> - **理论问题** 传统制度主义（理性选择、社会学与早期[[Historical Institutionalism|历史制度主义]]）将制度预设为自我强化的静态均衡，将制度变迁片面归结为外部危机冲击或间断均衡突变；缺乏解释常规历史时期制度如何通过微观内生博弈实现深层重塑的理论体系。
+> - **理论类型** 中观因果解释理论与比较[[Typological Analysis|类型学分析]]框架。
+> - **知识位置** 植根于[[Historical Institutionalism|历史制度主义]]（Historical Institutionalism），融合政治经济学对权力分配偏向、成文[[Rule Ambiguity|规则模糊性]]与执法裁量权的微观博弈分析，与[[Path Dependence|路径依赖理论]]和[[Punctuated Equilibrium Theory|间断均衡理论]]形成深刻的批判性理论对话。
 
 > [!claim] 核心判断
 > 制度是由社会第三方强制力维系的权力分配规制体系，其稳定性依赖持续的政治动员；成文规则与基层实际执行之间存在不可消除的认知、妥协与时间缝隙；行动者在常规历史时期利用这些缝隙展开策略博弈，推动置换、分层、漂移、转换与耗竭五大渐进演进形态，使微小边际调整在长历史周期中累积出颠覆性的体制质变后果。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 8–16)]]; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 7–14)]]
@@ -73,17 +90,17 @@ updated: 2026-10-11
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 该理论由两个里程碑阶段共同奠定：第一阶段由[[Wolfgang Streeck|沃尔夫冈·施特雷克（Wolfgang Streeck）]]与[[Kathleen Thelen|凯瑟琳·希伦（Kathleen Thelen）]]于 2005 年合编专著《超越延续性：发达政治经济体制中的制度变迁》（*Beyond Continuity: Institutional Change in Advanced Political Economies*）导论确立形态学基础；第二阶段由[[James Mahoney|詹姆斯·马奥尼（James Mahoney）]]与希伦于 2009 年合编专著《解释制度变迁：模糊性、能动性与权力》（*Explaining Institutional Change: Ambiguity, Agency, and Power*）导论完成行动者因果建模。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 1–39)]]; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
-> - **原初问题** 为何西方发达国家的核心体制（如德国劳资共决与双元制学徒培训、法国国家干预与社会保障、美国养老与医疗体系）在没有经历外部战争、革命崩溃或宏观灾难的情况下，其治理职能与权力分配后果发生了实质性的根本逆转。
-> - **理论资源与材料** 吸收了马克斯·韦伯的支配组织学说、卡尔·波兰尼的双向运动理论、阿尔伯特·赫希曼的呼吁与退出模型、[[Theda Skocpol|赛达·斯考切波（Theda Skocpol）]]与[[Peter A. Hall|彼得·A·霍尔（Peter A. Hall）]]关于制度承载权力偏向的界定、[[Paul Pierson|保罗·皮尔逊（Paul Pierson）]]的时间性与非预期后果理论、[[Jacob S. Hacker|雅各布·S·哈克（Jacob S. Hacker）]]的政策漂移说，以及[[George Tsebelis|乔治·茨贝利斯（George Tsebelis）]]的否决者理论。
+> - **提出者与原始文本** 该理论由两个里程碑阶段共同奠定：第一阶段由[[Wolfgang Streeck|沃尔夫冈·施特雷克]]（Wolfgang Streeck）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）于 2005 年合编专著《超越延续性：发达政治经济体制中的制度变迁》（*Beyond Continuity: Institutional Change in Advanced Political Economies*）导论确立形态学基础；第二阶段由[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）与希伦于 2009 年合编专著《解释制度变迁：模糊性、能动性与权力》（*Explaining Institutional Change: Ambiguity, Agency, and Power*）导论完成行动者[[Causal Modeling|因果建模]]。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 1–39)]]; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
+> - **原初问题** 为何西方发达国家的核心体制（如德国劳资共决与[[Apprenticeship|双元制学徒培训]]、法国国家干预与社会保障、美国养老与医疗体系）在没有经历外部战争、革命崩溃或宏观灾难的情况下，其治理职能与权力分配后果发生了实质性的根本逆转。
+> - **理论资源与材料** 吸收了[[Max Weber|马克斯·韦伯]]的支配组织学说、卡尔·波兰尼的双向运动理论、阿尔伯特·赫希曼的呼吁与退出模型、赛达·[[Theda Skocpol|斯考切波]]（Theda Skocpol）与[[Peter A. Hall|彼得·A·霍尔]]（Peter A. Hall）关于制度承载权力偏向的界定、[[Paul Pierson|保罗·皮尔逊]]（Paul Pierson）的时间性与非预期后果理论、[[Jacob S. Hacker|雅各布·S·哈克]]（Jacob S. Hacker）的[[Institutional Drift|政策漂移]]说，以及[[George Tsebelis|乔治·茨贝利斯]]（George Tsebelis）的否决者理论。
 > - **形成路径** 首先将制度界定为依赖第三方强制力的社会规制体系，揭示规则设计与基层落实之间的结构性张力，建构过程（渐进/突发）与结果（延续/断裂）的二维属性矩阵，提炼五大渐进演进形态；随后引入微观行动者遵从博弈与否决点环境，形成完整的中观解释理论。
 
 ### 后续修订与扩展
 
 > [!dev-timeline] 理论演进与学术扩展
-> - **2005 年 — 经验形态学奠基** 施特雷克与希伦打破间断均衡二元对立，正式提出渐进制度变迁形态学，系统界定置换（Displacement）、分层（Layering）、漂移（Drift）、转换（Conversion）与[[Institutional Exhaustion|耗竭]]（Exhaustion）五大机制，揭示资本主义自由化如何以渐进演变为特权推进路径。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 18–34)]]
-> - **2009 年 — 因果建模与行动者整合** 马奥尼与希伦建构“否决可能性 × 执行裁量权”二维因果矩阵，将起义者、颠覆者、共生者与机会主义者四类变革行动者及同盟动力学引入模型，确立中观因果解释规范。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
-> - **2011 年 — 政策科学对话与指标审视** 耶龙·范德海登（Jeroen van der Heijden）系统梳理六十年期刊文献，指出经验研究常将制度适应性再生产误判为渐进变迁，提出通过被添加的行动者与规制工具变量精确测量制度层叠，搭建起渐变模型与突变模型的微观桥梁。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 9–16)]]
+> - **2005 年 — 经验形态学奠基** 施特雷克与希伦打破间断均衡二元对立，正式提出渐进制度变迁形态学，系统界定置换（[[Institutional Displacement|displacement]]）、分层（[[Institutional Layering|layering]]）、漂移（Drift）、转换（[[Institutional Conversion|conversion]]）与耗竭（[[Institutional Exhaustion|exhaustion]]）五大机制，揭示资本主义[[Liberalization|自由化]]如何以渐进演变为特权推进路径。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 18–34)]]
+> - **2009 年 — 因果建模与行动者整合** 马奥尼与希伦建构“[[Veto Possibilities|否决可能性]] × [[Enforcement Discretion|执行裁量权]]”二维因果矩阵，将[[Insurrectionaries|起义者]]、[[Subversives|颠覆者]]、[[Symbionts|共生者]]与[[Opportunists|机会主义者]]四类变革行动者及同盟动力学引入模型，确立中观因果解释规范。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
+> - **2011 年 — [[Policy Science in Comparative Education|政策科学]]对话与指标审视** 耶龙·[[Jeroen van der Heijden|范德海登]]（Jeroen van der Heijden）系统梳理六十年期刊[[Document|文献]]，指出经验研究常将制度适应性再生产误判为渐进变迁，提出通过被添加的行动者与规制工具[[Variable|变量]]精确测量制度层叠，搭建起渐变模型与突变模型的微观桥梁。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 9–16)]]
 
 ---
 
@@ -99,9 +116,9 @@ updated: 2026-10-11
 > | **[[Institutional Drift\|制度漂移]]** | 演进形态 | 外部社会经济环境发生变迁，政治决策者策略性不作为阻挠规则更新，导致制度保护效力实质缩水。（pp. 24–26） |
 > | **[[Institutional Conversion\|制度转换]]** | 演进形态 | 成文规则保持完好，新行动者介入掌握操作权，利用法条的多义性将旧结构整体引向全新目标。（pp. 26–28） |
 > | **[[Institutional Exhaustion\|制度耗竭]]** | 演进形态 | 制度常规、成功的日常履行本身逐步吃光支撑其存续的外部财政或人口生态，遭遇增长极限而消亡。（pp. 29–31） |
-> | **[[Veto Possibilities\|否决可能性]]** | 结构变量 | 衡量政治体制中维持现状阵营阻挠正式修法与政策更新的制度化权力门槛。（Mahoney & Thelen, 2009, pp. 18–20） |
+> | **[[Veto Possibilities\|否决可能性]]** | 结构[[Variable\|变量]] | 衡量政治体制中维持现状阵营阻挠正式修法与政策更新的制度化权力门槛。（Mahoney & Thelen, 2009, pp. 18–20） |
 > | **[[Enforcement Discretion\|解释与执行裁量权]]** | 制度变量 | 衡量成文规则在日常司法审判与行政执法过程中留给执行主体的自由操作空间。（pp. 20–22） |
-> | **变革行动者四分类**<br>Change Agents | 能动机制 | 提炼[[Insurrectionaries|起义者]]、[[Subversives|颠覆者]]、[[Symbionts|共生者]]与[[Opportunists|机会主义者]]四类策略角色，桥接结构与能动性。（pp. 22–31） |
+> | **变革行动者四分类**<br>Change Agents | 能动机制 | 提炼[[Insurrectionaries\|起义者]]、[[Subversives\|颠覆者]]、[[Symbionts\|共生者]]与[[Opportunists\|机会主义者]]四类策略角色，桥接结构与能动性。（pp. 22–31） |
 
 ---
 
@@ -113,24 +130,24 @@ updated: 2026-10-11
 > **应用实例** 印度尼西亚苏哈托威权统治的维系依赖于对军队与官僚网络的持续利益输送与动态平衡；当 1997 年金融危机削弱其收买动员能力时，被剥夺独立治理能力的制度体系迅速发生内生崩塌。（示例：苏哈托政权维系分析，Mahoney & Thelen, 2009, pp. 9–10）
 
 > [!theory-proposition] 命题二｜成文规则与基层执行的结构性缝隙将日常遵从转化为渐变温床
-> **解释** 法规条文永远无法穷尽复杂的未来情境。这一缝隙源于四重客观张力：立法者的认知预见局限、多党妥协导致的条文模糊性（公共承载体效应）、基层行动者的策略性遵从权衡，以及外部时代环境的持续流变。由于成文规则必须依赖能动主体的具体执行，行动者无须推翻法律文本，只需利用自由裁量权重新解释条文或消极执行，就能在法律外壳完好的情况下引发体制实质质变。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 13–16)]]; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 10–14)]]
+> **解释** 法规条文永远无法穷尽复杂的未来情境。这一缝隙源于四重客观张力：立法者的认知预见局限、多党妥协导致的条文模糊性（公共承载体效应）、基层行动者的[[Strategic Compliance|策略性遵从]]权衡，以及外部时代环境的持续流变。由于成文规则必须依赖能动主体的具体执行，行动者无须推翻法律文本，只需利用自由裁量权重新解释条文或消极执行，就能在法律外壳完好的情况下引发体制实质质变。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 13–16)]]; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 10–14)]]
 >
-> **应用实例** 德国双元制学徒培训制度在 1897 年由德皇威廉二世政府创制时，初衷是扶植保守的手工业作坊主以阻击工人运动；但数十年间，工会利用培训委员会的条文解释缝隙与基层谈判权，反向将其改造为维护工人高技能与高工资的劳资协商支柱。（Streeck & Thelen, 2005, pp. 28–29）
+> **应用实例** 德国[[Apprenticeship|双元制学徒培训]]制度在 1897 年由德皇威廉二世政府创制时，初衷是扶植保守的手工业作坊主以阻击工人运动；但数十年间，工会利用培训委员会的条文解释缝隙与基层谈判权，反向将其改造为维护工人高技能与高工资的劳资协商支柱。（Streeck & Thelen, 2005, pp. 28–29）
 
 > [!theory-proposition] 命题三｜五类渐进变迁形态在规则存废、实施偏离与因果机制上呈现系统分野
 > **解释** 排除外生大危机的强制打碎，制度变迁在经验上聚焦为五种互斥形态：置换依托背叛与外来规则竞争；分层依托边际新规的差异化高速增长蚕食旧核心；漂移依托外部风险演变下的策略性不作为；转换依托新行动者利用规则多义性实现功能借壳重定向；耗竭依托制度常规成功运转对外部财政与人口生态的内生自噬。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 18–31)]]
 >
-> **应用实例** 德国提前退休政策（Vorruhestand）原本为化解煤钢产业危机而设，但当其被泛化为全社会解决失业的万灵丹后，退休人员急剧膨胀，缴费人员严重缩水，常规运作自身彻底吃光了财政支撑根基，展现了典型的制度耗竭机制。（Streeck & Thelen, 2005, pp. 29–30）
+> **应用实例** 德国提前退休政策（Vorruhestand）原本为化解煤钢产业危机而设，但当其被泛化为全社会解决失业的万灵丹后，退休人员急剧膨胀，缴费人员严重缩水，常规运作自身彻底吃光了财政支撑根基，展现了典型的[[Institutional Exhaustion|制度耗竭]]机制。（Streeck & Thelen, 2005, pp. 29–30）
 
-> [!theory-proposition] 命题四｜政治否决阻力与制度裁量空间共同筛选主导行动者并限定演进路径
-> **解释** 政治环境中维持现状支持者的否决门槛（强/弱）与制度在落实中的解释执行裁量空间（高/低）构成双维空间，限定了四类演进模式并筛选出优势行动者：强否决+低裁量驱动制度分层，由表面守法但暗中增补新规的颠覆者主导；强否决+高裁量驱动制度漂移，由利用漏洞寄生套利的共生者主导；弱否决+低裁量驱动制度置换，由公开违规挑战现状的起义者主导；弱否决+高裁量驱动制度转换，由相机抉择利用模糊性的机会主义者主导。成功的制度演进往往依赖于跨阵营策略性政治联盟的构建。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 18–31)]]
+> [!theory-proposition] 命题四｜[[Veto Possibilities|政治否决阻力]]与[[Enforcement Discretion|制度裁量空间]]共同筛选主导行动者并限定演进路径
+> **解释** 政治环境中维持现状支持者的否决门槛（强/弱）与制度在落实中的解释执行裁量空间（高/低）构成双维空间，限定了四类演进模式并筛选出优势行动者：强否决+低裁量驱动[[Institutional Layering|制度分层]]，由表面守法但暗中增补新规的[[Subversives|颠覆者]]主导；强否决+高裁量驱动[[Institutional Drift|制度漂移]]，由利用漏洞寄生套利的[[Symbionts|共生者]]主导；弱否决+低裁量驱动[[Institutional Displacement|制度置换]]，由公开违规挑战现状的[[Insurrectionaries|起义者]]主导；弱否决+高裁量驱动[[Institutional Conversion|制度转换]]，由相机抉择利用模糊性的[[Opportunists|机会主义者]]主导。成功的制度演进往往依赖于跨阵营策略性政治联盟的构建。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 18–31)]]
 >
 > **应用实例** 巴西军政府时期的激进卫生改革者作为颠覆者，表面服从威权行政体系，利用基层偏远地区的治理真空分层建立自治诊所网络，直至民主化转型时期顺势重塑了全国公立医疗体制。（示例：Falleti 巴西卫生改革案例，Mahoney & Thelen, 2009, pp. 26, 30–31）
 
-> [!theory-proposition] 命题五｜市场化自由化改革以渐进演进为低阻力推进的特权路径
+> [!theory-proposition] 命题五｜市场化[[Liberalization|自由化]]改革以渐进演进为低阻力推进的特权路径
 > **解释** 建立非市场化的集体规制制度，需要克服严重的搭便车困境，动员全社会克服阻力服从统一的呼吁逻辑（Voice）；而推进自由化改革只需向微观个体提供一个私有市场替代选项，行动者自利最大化的退出逻辑（Exit）便会自动瓦解既有集体制度。这种集体行动门槛的非对称性，使置换、分层、漂移、转换与耗竭五大机制成为当代西方资本主义国家深入推进新自由主义市场重塑的默认优势路径。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 31–34)]]
 >
-> **应用实例** 美国反对公共养老金的保守派政客并未正面发起废除社会保障的立法决战，而是分层增设 401(k) 计划与个人退休账户（IRA）；私人账户的爆炸性增长迅速吸引了中产阶级，通过市场退出机制顺水推舟地削弱了对公共社保的政治拥护。（Streeck & Thelen, 2005, pp. 22–23, 33）
+> **应用实例** 美国反对公共养老金的保守派政客并未正面发起废除社会保障的立法决战，而是分层增设 401(k) 计划与个人退休账户（[[International Reading Association|IRA]]）；私人账户的爆炸性增长迅速吸引了中产阶级，通过市场退出机制顺水推舟地削弱了对公共社保的政治拥护。（Streeck & Thelen, 2005, pp. 22–23, 33）
 
 > [!logic-map]- 渐进制度变迁理论的因果传导全景
 > ```mermaid
@@ -149,8 +166,8 @@ updated: 2026-10-11
 ## 转化为分析框架
 
 > [!theory-use] 框架入口
-> - **研究问题** 解释某项正式制度为何在没有经历重大政权崩溃、战争或突发大危机的常态时期，其治理职能、执行效力与权力资源分配格局发生了根本性质变。
-> - **分析对象与单位** 国家成文法律、宪制规约、监管体系、社会福利与技能培训制度；分析单位为中观制度安排及其嵌入的政治利益行动者网络。
+> - **[[Research Question|研究问题]]** 解释某项正式制度为何在没有经历重大政权崩溃、战争或突发大危机的常态时期，其治理职能、执行效力与权力资源分配格局发生了根本性质变。
+> - **分析对象与单位** 国家成文法律、宪制规约、监管体系、社会福利与技能培训制度；[[Unit of Analysis|分析单位]]为中观制度安排及其嵌入的政治利益行动者网络。
 > - **需要的材料** 立法与议会辩论档案、司法判决文书演进记录、行政自由裁量指导细则、利益集团游说备忘录、长时段预算拨款与社会统计指标。
 > - **解释目标** 准确判定变迁属于置换、分层、漂移、转换还是耗竭；识别人权博弈中的主导行动者策略及其联盟形态；评估否决点与裁量缝隙对变迁路径的塑造作用。
 
@@ -160,8 +177,8 @@ updated: 2026-10-11
 > | **权力分配命题**<br>（Streeck & Thelen, 2005; Mahoney & Thelen, 2009） | **制度利益偏向与动员平衡**<br>该制度赋予谁特权、削弱了谁的利益？维持现状需要既得利益者投入哪些动员成本？ | 预算拨款流向、立法游说开支、受损群体公开或隐蔽的抗争记录。 | 出现受损群体动员外围制度资源反制时，支持内生利益失衡假说。 |
 > | **执行缝隙命题**<br>（Streeck & Thelen, 2005, pp. 13–16） | **规则条文与落实裁量缝隙**<br>成文规则是否存在多义性妥协？日常执法是否脱离了立法者的原初控制？ | 司法裁量判例文书、监管执法松紧度指南、行政例外豁免清单。 | 出现判例偏离立法初衷或官僚选择性执法时，支持规则裁量缝隙存在。 |
 > | **双维矩阵命题**<br>（Mahoney & Thelen, 2009, pp. 18–22） | **否决阻力与裁量空间测算**<br>政治体制中存在多少否决点？规则本身的刚性程度如何？ | 宪制否决权设置、议会多党联合门槛、法律法条技术明晰度。 | 强否决+低裁量判定为分层；强否决+高裁量判定为漂移；弱否决+低裁量判定为置换；弱否决+高裁量判定为转换。 |
-> | **行动者与同盟命题**<br>（Mahoney & Thelen, 2009, pp. 22–31） | **变革者角色与联盟策略**<br>主导变革者是公开抗争、蛰伏合规还是相机抉择？如何拉拢中立派？ | 政治行动者的公开声明、私下策略备忘录、跨党派妥协协议文本。 | 表面合规但推新规判定为颠覆者；公开违规判定为起义者；利用漏洞套利判定为共生者；摇摆倒戈判定为机会主义者。 |
-> | **自由化特权命题**<br>（Streeck & Thelen, 2005, pp. 31–34） | **呼吁与退出逻辑不对称性**<br>变革是依赖集体政治动员推进，还是顺应个体的市场自利退出？ | 私人替代品市场占有率、公共项目参保退保数据、去规制化行政条例。 | 出现由私人替代方案引发的级联背叛与公共支持抽离时，支持自由化顺水推舟演进假说。 |
+> | **行动者与同盟命题**<br>（Mahoney & Thelen, 2009, pp. 22–31） | **变革者角色与联盟策略**<br>主导变革者是公开抗争、蛰伏合规还是相机抉择？如何拉拢中立派？ | 政治行动者的公开声明、私下策略备忘录、跨党派妥协协议文本。 | 表面合规但推新规判定为[[Subversives\|颠覆者]]；公开违规判定为[[Insurrectionaries\|起义者]]；利用漏洞套利判定为[[Symbionts\|共生者]]；摇摆倒戈判定为[[Opportunists\|机会主义者]]。 |
+> | **自由化特权命题**<br>（Streeck & Thelen, 2005, pp. 31–34） | **呼吁与退出逻辑不对称性**<br>变革是依赖集体政治动员推进，还是顺应个体的市场自利退出？ | 私人替代品市场占有率、公共项目参保退保数据、去规制化行政条例。 | 出现由私人替代方案引发的级联背叛与公共支持抽离时，支持[[Liberalization\|自由化]]顺水推舟演进假说。 |
 
 ---
 
@@ -171,8 +188,8 @@ updated: 2026-10-11
 > - **适合分析** 政治体制处于相对常态化运转的民主政体、混合政体与威权政体内部的成文制度演进，尤其适合长时段制度史、福利国家转型与经济规制改革。
 > - **成立条件** 必须存在一定的规则成文化基础与相对连续的政治秩序；要求研究者掌握跨时间维度的丰富档案材料，以追踪规则解释与执行的微观演化。
 > - **解释不足** 对完全缺乏正式规则的非正式部族习俗解释力较弱；在面对毁灭性外来军事征服或极端物理灾难时，中观博弈模型可能暂时被宏观物理破坏所中断。
-> - **转化困难** 行动者的真实动机在历史追溯中极难精确测定；区分模范守法者是真诚拥护现状还是颠覆者的战略伪装，面临较高的经验证据识别门槛。
-> - **不能直接推出** 不能仅凭观察到外围规则增加就断言发生了制度分层（若外围仅充当加固护城河，实质属于制度再生产）；不能仅凭外部环境变动就断言发生了制度漂移（必须证明存在分配后果改变）。
+> - **转化困难** 行动者的真实动机在历史追溯中极难精确测定；区分模范守法者是真诚拥护现状还是[[Subversives|颠覆者]]的战略伪装，面临较高的经验证据识别门槛。
+> - **不能直接推出** 不能仅凭观察到外围规则增加就断言发生了[[Institutional Layering|制度分层]]（若外围仅充当加固护城河，实质属于制度再生产）；不能仅凭外部环境变动就断言发生了[[Institutional Drift|制度漂移]]（必须证明存在分配后果改变）。
 
 ---
 
@@ -183,20 +200,20 @@ updated: 2026-10-11
 > > [!axis] 行动者角色的情境依附性还是固定身份
 > > 争论聚焦于四类变革行动者是固定的人格阶级特质还是依情境转换的博弈角色。
 > > 
-> > - **情境角色视角** 马奥尼与希伦澄清，行动者分类指涉的是行动者在具体制度博弈中所承担的策略性行为角色，绝非固定身份；同一主体在不同制度中可能分别表现为机会主义者或起义者。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 23 注7)]]
+> > - **情境角色视角** [[James Mahoney|马奥尼]]与希伦澄清，行动者分类指涉的是行动者在具体制度博弈中所承担的策略性行为角色，绝非固定身份；同一主体在不同制度中可能分别表现为[[Opportunists|机会主义者]]或[[Insurrectionaries|起义者]]。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 23 注7)]]
 > > - **动机识别挑战** 批评者指出，政治博弈中行动者的言行高度策略化，在实证层面准确剔除虚饰动机并给具体群体贴上角色标签面临极高难度。
 > 
 > > [!axis] 渐进变迁与制度再生产的经验判读边界
 > > 争论聚焦于经验研究中如何区分微小的渐进演变与体制的自我复制修复。
 > > 
-> > - **范德海登（2011）的批评** 指出许多实证文献机械套用渐进变迁标签，将旨在修补旧制的防御性增补误读为制度分层，呼吁引入严格的时间跨度与行动者变量标尺。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10–14)]]
+> > - **范德海登（2011）的批评** 指出许多实证[[Document|文献]]机械套用渐进变迁标签，将旨在修补旧制的防御性增补误读为[[Institutional Layering|制度分层]]，呼吁引入严格的时间跨度与行动者[[Variable|变量]]标尺。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10–14)]]
 > > - **施特雷克与希伦（2005）的判定准则** 强调必须检验长期结果是否产生结构性断裂（Discontinuity），只有当行动逻辑发生实质性置换或旧核心被彻底从属化时，才构成真正的渐进质变。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 8–9, 31)]]
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 渐进制度变迁理论奠基之作，系统建构置换、分层、漂移、转换与耗竭五大变迁形态学，揭示资本主义自由化演进机制。（pp. 18–34）
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 渐进制度变迁理论因果建模里程碑，建构双维情境矩阵与四类变革行动者微观博弈模型。（pp. 1–37）
-> - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 检验制度分层概念在六十年期刊文献中的应用，反思渐进变迁与制度再生产的边界划分。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 渐进制度变迁理论奠基之作，系统建构置换、分层、漂移、转换与耗竭五大变迁形态学，揭示资本主义[[Liberalization|自由化]]演进机制。（pp. 18–34）
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 渐进制度变迁理论[[Causal Modeling|因果建模]]里程碑，建构双维情境矩阵与四类变革行动者微观博弈模型。（pp. 1–37）
+> - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 检验[[Institutional Layering|制度分层]]概念在六十年期刊[[Document|文献]]中的应用，反思渐进变迁与制度再生产的边界划分。

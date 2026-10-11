@@ -8,7 +8,7 @@ summary: "英国著名政治学家、全球化理论与民主转型奠基学者�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Time-Space Compression]]"
   - "[[Global Citizenship]]"
+  - "[[Liberalization]]"
   - "[[Policy Borrowing]]"
   - "[[Structural Adjustment Programs]]"
 related_theories:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-09
+updated: 2026-10-11
 ---
 
 # David Held
@@ -108,7 +109,7 @@ updated: 2026-10-09
 ## 核心思想
 
 > [!claim] 核心主张
-> 全球化决不能简化为纯粹的经济贸易自由化，而是一场由跨国经济流动、通信技术爆炸、准超国家治理机构（如[[World Bank|世界银行]]、[[OECD|经合组织]]）扩张共同驱动的深度社会结构变革；这一进程使得原本附着于民族国家疆域内的主权、公民身份与决策机制呈现高度的多孔性与穿透性，任何本土公共政策（包括公共教育在内）都已不可逆转地受到千里之外跨国制度规则与资本权力的直接[[Disciplina and Doctrina|规训]]。
+> 全球化决不能简化为纯粹的经济贸易[[Liberalization|自由化]]，而是一场由跨国经济流动、通信技术爆炸、准超国家治理机构（如[[World Bank|世界银行]]、[[OECD|经合组织]]）扩张共同驱动的深度社会结构变革；这一进程使得原本附着于民族国家疆域内的主权、公民身份与决策机制呈现高度的多孔性与穿透性，任何本土公共政策（包括公共教育在内）都已不可逆转地受到千里之外跨国制度规则与资本权力的直接[[Disciplina and Doctrina|规训]]。
 
 > [!citation-card] 全球化作为重塑地方时空关联的集约化机制
 > 全球化是世界范围内社会关系的强化，这种强化以一种使得地方性事件受到千里之外发生的事件所形塑、反之亦然的方式，将遥远的地方紧密联系在一起。

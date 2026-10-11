@@ -7,10 +7,10 @@ aliases:
 summary: "Knight 提出的概念，指国家战略性地把自身定位为教育、培训、知识生产和创新活动中心的地缘政治项目。"
 type: concept
 domain: "higher-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
 - international-education-hubs
 - higher-education
@@ -31,6 +31,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Cultural Diplomacy]]"
   - "[[Soft Power]]"
+  - "[[Liberalization]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Flow]]"
   - "[[Geopolitics of Knowledge]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-07
+updated: 2026-10-11
 ---
 
 # International Education Hubs
@@ -110,7 +111,7 @@ Rizvi 进一步揭示了 IEHs 兴起背后的**话语理性转移** 其正当性
 [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 通过对新加坡和阿联酋的[[Comparative Case Study|比较案例研究]]，在 Rizvi 的宏观地缘政治判断之外提供了中观的运作机制分析。其核心贡献是指出 IEHs 同时运作于两个功能不同的维度([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.205–211]])：
 
 - **[[Cultural Diplomacy|文化外交]]维度** 国家利用高等教育投射进步、现代的国际形象，通过引入知名外国大学和高端文化机构提升[[Soft Power|软实力]]
-- **政治经济维度** 国家将高等教育视为可直接产生经济回报的产业，通过市场自由化创造高等教育产业环境
+- **政治经济维度** 国家将高等教育视为可直接产生经济回报的产业，通过市场[[Liberalization|自由化]]创造高等教育产业环境
 
 这两个维度的区分揭示了一个深层逻辑：高等教育被同时用作**经济工具**和**外交资源**——但两者的操作逻辑和治理需求可能产生摩擦。具体案例机制分析详见 [[Argument_Erfurth_2022_education-hubs#论证结构]]([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.205–211]])。
 
@@ -192,7 +193,7 @@ Knight & Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, cite
 > [!warning]
 - 将高等教育治理的理性从社会教育范畴转向经济范畴，引发对高等教育公共性和公平性的担忧([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.45]])
 - IEHs 在参与国家间的分布高度不均——集中在经济实力较强的国家和地区——可能加剧而非缩小全球高等教育的不平等格局
-- **绕开制度建设的悖论** 教育枢纽路径以市场自由化和基础设施扩张替代社会与政治制度建设，本质上有悖于国际发展界推广的民主制度建设路径——然而这一路径仍被 British Council、[[OECD]] 等机构背书，因为这些机构将"教育扩张"本身视为发展参数而不区分方式和目的([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.200, 211]])
+- **绕开制度建设的悖论** 教育枢纽路径以市场[[Liberalization|自由化]]和基础设施扩张替代社会与政治制度建设，本质上有悖于国际发展界推广的民主制度建设路径——然而这一路径仍被 British Council、[[OECD]] 等机构背书，因为这些机构将"教育扩张"本身视为发展参数而不区分方式和目的([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.200, 211]])
 - **大学的工具化风险** 在教育枢纽环境中，大学被剥离更广泛的社会功能（如促进民主、社会批判），主要被视为经济工具。这可能是分校大多开设自然科学而非社会科学课程的原因之一([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.212]])
 - **区域赢家与输家** 教育枢纽在有"空隙"的环境中繁荣，有发达高教体系的国家在缺乏类似条件的区域获得不对等优势，可能加剧区域不平等并制造冲突([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.211]])
 - **Erfurth 研究的局限性** 仅比较新加坡与阿联酋、依赖政策文件作为主要来源，限制了结论的推广范围([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.212–213]])。详见 对 Erfurth 的批评

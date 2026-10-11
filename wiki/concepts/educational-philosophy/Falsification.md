@@ -10,7 +10,7 @@ aliases:
 summary: "波普尔提出的科学划界与检验标准，主张科学理论的标志在于其承担被经验反驳的风险；在比较教育学中驱动了从古典历史向假说检验与问题解决法（L + I = P）的转型，并引发关于历史工作假设检验性的深刻反思。"
 type: concept
 domain: "educational-philosophy"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Metascience]]"
   - "[[Reproducibility Crisis]]"
+  - "[[Social Regime]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-09
+updated: 2026-10-11
 ---
 
 # Falsification
@@ -93,7 +94,7 @@ updated: 2026-10-09
 > [!def] 核心定义
 > 证伪主义（Falsificationism），又称可证伪性（Falsifiability），是[[Karl Popper|卡尔·波普尔]]（Karl Popper, 1934/1959, 1968）提出的科学与非科学划界标准及知识增长理论。该理论主张，科学理论的本质特征不在于能够通过经验事实予以归纳证实，而在于其命题结构明确界定了何种经验观察结果将构成对理论的反驳，即理论必须承担被经验证伪的潜在风险。
 > 
-> 科学理论的标志是**可证伪性而非可证实性**。一个在逻辑上无法被任何潜在可观察事实所反驳的理论，不属于[[Scientific Method|经验科学]]范畴。科学进步通过大胆的推测（Conjectures）与严格的反驳（Refutations）循环来实现；因此，科学知识本质上是推测性的（Conjectural）、可检验的（Falsifiable）、随时可受质疑的（Challengeable）以及持续修正演化中的（Changing）。在现代[[Metascience|元科学]]治理与 AI 时代，证伪原则进一步演化为防范[[Reproducibility Crisis|可重复性危机]]的强制性制度规约与自动化机器核验基础设施。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 65–67)]]
+> 科学理论的标志是**可证伪性而非可证实性**。一个在逻辑上无法被任何潜在可观察事实所反驳的理论，不属于[[Scientific Method|经验科学]]范畴。科学进步通过大胆的推测（Conjectures）与严格的反驳（Refutations）循环来实现；因此，科学知识本质上是推测性的（Conjectural）、可检验的（Falsifiable）、随时可受质疑的（Challengeable）以及持续修正演化中的（Changing）。在现代[[Metascience|元科学]]治理与 AI 时代，证伪原则进一步演化为防范[[Reproducibility Crisis|可重复性危机]]的强制性[[Social Regime|制度规约]]与自动化机器核验基础设施。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 65–67)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 确立以不对称逻辑（单次否定可证伪全称命题，而有限次证实无法确证全称命题）为基石的科学[[Epistemology|认识论]]，强调理论的经验可反驳性与严格检验风险。

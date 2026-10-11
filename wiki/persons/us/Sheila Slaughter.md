@@ -7,7 +7,7 @@ summary: "美国当代著名高等教育学学者，佐治亚大学麦克比高�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Academic Freedom]]"
   - "[[Paradigm]]"
+  - "[[Social Regime]]"
   - "[[Technology Transfer]]"
   - "[[Innovation Ecosystem]]"
   - "[[Research Universities]]"
@@ -45,7 +46,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-08
+updated: 2026-10-11
 ---
 
 # Sheila Slaughter
@@ -90,7 +91,7 @@ updated: 2026-10-08
 ## 核心思想
 
 > [!claim] 核心主张
-> 斯劳特主张从政治经济学与批判制度主义视角审视[[Social Contract of Science|科学社会契约]]的演进。她反对将 1990 年代《[[Science in the National Interest 1994|科学与国家利益]]》以来的政策转型简化为“从旧契约走向单一新契约”的线性格局；实证指出，冷战后美国大学深陷多重互相冲突的制度规约之中，形成了国防军事残留契约（五角大楼高额订单）、经济与产业[[Competitiveness|竞争力]]契约（[[Bayh-Dole Act of 1980|拜杜法案]]与专利[[Technology Transfer|技术转移]]）以及全民健康契约（[[National Institutes of Health|NIH]] 巨额经费）长期并存、犬牙交错的多重契约结构。这种交叠使得大学科研不可逆地深涉全球市场化竞争，学术自治被深植于资本增殖逻辑与国家地缘竞争的复合框架中。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
+> 斯劳特主张从政治经济学与批判制度主义视角审视[[Social Contract of Science|科学社会契约]]的演进。她反对将 1990 年代《[[Science in the National Interest 1994|科学与国家利益]]》以来的政策转型简化为“从旧契约走向单一新契约”的线性格局；实证指出，冷战后美国大学深陷多重互相冲突的[[Social Regime|制度规约]]之中，形成了国防军事残留契约（五角大楼高额订单）、经济与产业[[Competitiveness|竞争力]]契约（[[Bayh-Dole Act of 1980|拜杜法案]]与专利[[Technology Transfer|技术转移]]）以及全民健康契约（[[National Institutes of Health|NIH]] 巨额经费）长期并存、犬牙交错的多重契约结构。这种交叠使得大学科研不可逆地深涉全球市场化竞争，学术自治被深植于资本增殖逻辑与国家地缘竞争的复合框架中。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 
 > [!citation-card] 契约演进的非线性与多元交叠
 > 后冷战时期的科学政策转型从来不是一次性完成的[[Paradigm|范式]]革命，而是各方利益在既有制度遗产上的妥协与叠置；多重契约的存在不仅赋予大学灵活调度资源的生存空间，也瓦解了传统科学共同体统一的学术价值标准。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]

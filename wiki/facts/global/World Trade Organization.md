@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ tags:
   - region/global
 related_concepts:
   - "[[State Educational Sovereignty]]"
+  - "[[Liberalization]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Strategic Autonomy]]"
   - "[[Commensuration]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-07
+updated: 2026-10-11
 ---
 
 # World Trade Organization
@@ -78,7 +79,7 @@ updated: 2026-10-07
 > - **成立时间 / 创设背景** 1995 年 1 月 1 日正式运行；其前身为 1947 年设立的关税与贸易总协定（GATT）。随着战后全球经济由传统初级货物贸易向高附加值信息、金融与服务经济转型，乌拉圭回合谈判（1986–1994）促成了世界贸易组织及其服务贸易规制的建立。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 > - **总部地点 / 业务辐射** 总部位于瑞士日内瓦，拥有 164 个主权国家与关税区成员（覆盖全球 98% 以上的贸易额），规约管辖覆盖全球绝大部分跨境商业投资与服务流通。
 > - **法人属性与经费基础** 具有完全独立国际法人资格的政府间多边经济实体；经费源自成员国依据其在全球贸易中所占份额缴纳的法定会费分摊。
-> - **核心宗旨与法定职责** 消除关税与非关税壁垒、推动国际商品与服务贸易自由化、确保贸易政策透明度，监督多边经贸协定履行，并依托具有强制力的争端解决机制（Dispute Settlement Mechanism, DSM）裁决跨国经贸争端。
+> - **核心宗旨与法定职责** 消除关税与非关税壁垒、推动国际商品与服务贸易[[Liberalization|自由化]]、确保贸易政策透明度，监督多边经贸协定履行，并依托具有强制力的争端解决机制（Dispute Settlement Mechanism, DSM）裁决跨国经贸争端。
 
 ---
 
@@ -118,7 +119,7 @@ updated: 2026-10-07
 > - **全球贸易监测旗舰报告** 定期发布《世界贸易报告》（*World Trade Report*），追踪知识产权、跨境数字教育及服务产业流通趋势。
 
 > [!citation-card] 代表性章程／使命宣言
-> 各成员确认，服务贸易在世界经济增长和发展中的重要性日益增强……期望建立一个关于服务贸易原则与规则的多边框架，以期在透明度和逐步自由化的条件下扩大这种贸易，并作为促进所有贸易伙伴经济增长手段。
+> 各成员确认，服务贸易在世界经济增长和发展中的重要性日益增强……期望建立一个关于服务贸易原则与规则的多边框架，以期在透明度和逐步[[Liberalization|自由化]]的条件下扩大这种贸易，并作为促进所有贸易伙伴经济增长手段。
 >
 > *Recognizing the growing importance of trade in services for the [[Growth]] and development of the world economy... Desiring to establish a multilateral framework of principles and rules for trade in services with a view to the expansion of such trade under conditions of transparency and progressive liberalization... (GATS Preamble, 1995)*
 
@@ -145,7 +146,7 @@ updated: 2026-10-07
 
 > [!debates] 核心争议交锋
 >
-> > [!axis] 公民基本人权与公益性质 vs 商业消费品与服务贸易自由化
+> > [!axis] 公民基本人权与公益性质 vs 商业消费品与服务贸易[[Liberalization|自由化]]
 > > 争论教育究竟是国家必须财政保障的公共产品与公民基本人权，还是应当消除边境壁垒、交由市场竞争配置的商业服务。
 > >
 > > - **批判学者与教师工会（Collins, 2007; Education International）** 强烈抨击 WTO 推动的新自由主义议程，指出将教育降格为商业商品严重侵蚀了教育促进社会公平的民主本质，使富裕阶层垄断优质资源而底层沦为教育买卖的受害者。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, p. 97)]]

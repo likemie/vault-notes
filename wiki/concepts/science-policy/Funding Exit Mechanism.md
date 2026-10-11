@@ -13,7 +13,7 @@ aliases:
 summary: "科技政策与前沿研发治理中的适时退出规则。指公共资助机构在受资助的前沿技术于高校实验室完成概念验证并在产业界或常规科研基金会确立可信度后，主动终止专项政府补贴并撤出资助的制度安排；旨在防止受资助主体对国家财政产生路径依赖与利益套牢，促使成果走向自主造血，并腾出公共资源投入下一轮颠覆性探索。"
 type: concept
 domain: "science-policy"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Paradigm]]"
   - "[[Seed Funding]]"
+  - "[[Institutional Complementarity]]"
   - "[[Innovation Ecosystem]]"
 related_theories:
   - "[[Technological Trajectories]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-11
 ---
 
 # Funding Exit Mechanism
@@ -119,7 +120,7 @@ updated: 2026-10-04
 ### 命题二　断乳退出的顺利实施依赖于多层次国家科研资助生态的无缝承接
 
 > [!concept-lens] 国家[[Systems of Innovation|创新系统]]的多波次协同
-> 探讨断乳机制在微观上能够成功推行，需要宏观创新系统中具备哪些互补性制度承接通道。
+> 探讨断乳机制在微观上能够成功推行，需要宏观创新系统中具备哪些[[Institutional Complementarity|互补性制度]]承接通道。
 
 > [!claim] Fuchs, E. R. H.
 > **断乳机制与多元资助生态的共生** 项目经理敢于对高校实验室断乳，前提是国家[[Innovation Ecosystem|创新生态]]中存在能够承接“第二波”成熟基础研究的常规基金会（如 [[National Science Foundation|NSF]]），以及具备消化原型能力的工业生态；正是这种上游敏捷断乳与下游稳健承接的分工，构成了美国颠覆性技术生生不息的制度根基。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1142–1143, 1146)]]

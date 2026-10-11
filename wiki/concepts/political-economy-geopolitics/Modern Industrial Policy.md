@@ -9,7 +9,7 @@ aliases:
 summary: "现代产业政策区别于20世纪以纠正市场失灵与追求经济效率为单一导向的传统产业政策；它深度交织了国家安全、地缘政治对抗、供应链韧性与去风险目标，综合运用巨额直接补贴、前置研发资助、投资审查、单边及多边出口管制、友岸外包、制度化附加条件与战略矿产反制等全方位政策工具包。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Innovation Ecosystem]]"
   - "[[Document]]"
+  - "[[Liberalization]]"
   - "[[Apprenticeship]]"
   - "[[Translational Research]]"
   - "[[Research Universities]]"
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-10
+updated: 2026-10-11
 ---
 
 # Modern Industrial Policy
@@ -264,7 +265,7 @@ updated: 2026-10-10
 
 > [!dev-timeline] 概念演变
 > - **1970–1980年代 — 传统赶超与管理贸易** 日本[[Ministry of International Trade and Industry|通产省]]主导 [[VLSI Project|VLSI]] 项目 推动 DRAM 赶超；美日爆发激烈贸易摩擦，美国通过 [[1986 U.S.-Japan Semiconductor Trade Agreement|美日半导体贸易协定]] 实行配额管制，并组建 [[Sematech]] 研发联盟。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 83–86)]]
-> - **1990–2000年代 — 自由化与产业政策退潮** 华盛顿共识与[[World Trade Organization|世贸组织]]（WTO）规则盛行，产业政策被主流经济学界边缘化；半导体产业全面向全球 [[Vertical Disintegration|纵向离散]] 与东亚制造集聚演进。(pp. 86–92)
+> - **1990–2000年代 — [[Liberalization|自由化]]与产业政策退潮** 华盛顿共识与[[World Trade Organization|世贸组织]]（WTO）规则盛行，产业政策被主流经济学界边缘化；半导体产业全面向全球 [[Vertical Disintegration|纵向离散]] 与东亚制造集聚演进。(pp. 86–92)
 > - **2014–2018年代 — 国家战略资本赶超与贸易争端升级** 中国成立 [[China Integrated Circuit Industry Investment Fund|国家集成电路产业投资基金]]（大基金）并发布《[[Made in China 2025|中国制造2025]]》；特朗普政府发起 [[Sino-American Trade War|中美贸易战]] 并将华为列入实体清单，暴露关税工具在中间品长链条中的局限性。(pp. 93–95)
 > - **2020年代 — 现代产业政策[[Paradigm|范式]]全面成型** 拜登政府出台 [[CHIPS and Science Act|芯片与科学法案]] 与 2022年10月出口管制新规；欧盟通过 [[European Chips Act|欧洲芯片法案]]；日本大幅补贴熊本晶圆厂与 Rapidus，标志着以巨额资本补贴、技术管辖与多边同盟为特征的现代产业政策全面主导全球高科技格局。(pp. 97–101)
 > - **2024 — 国家战略研发统筹与自维持生态构建** [[National Science and Technology Council|白宫国家科学技术委员会]]（NSTC）发布《微电子研究国家战略》，将现代产业政策深化为涵盖底层物理探索、跨部门中试漏斗（NSTC/[[National Advanced Packaging Manufacturing Program|NAPMP]]/Commons/[[National Nanotechnology Coordinated Infrastructure|NNCI]]）、早期风险资本引导与劳动力培育的跨部门全链条体系。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 1–4, 21–29)]]

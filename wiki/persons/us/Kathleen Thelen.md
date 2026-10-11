@@ -10,10 +10,10 @@ summary: "麻省理工学院政治学讲席教授、美国文理科学院院士�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 30
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 38
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: "1956"
 lifespan: "1956–至今"
 tags:
@@ -26,34 +26,42 @@ related_concepts:
   - "[[Institutional Drift]]"
   - "[[Institutional Conversion]]"
   - "[[Institutional Displacement]]"
-  - "[[Institutional Exhaustion]]"
-  - "[[Opportunists]]"
+  - "[[Champ]]"
+  - "[[Liberalization]]"
+  - "[[Paradigm]]"
+  - "[[Variable]]"
   - "[[Insurrectionaries]]"
   - "[[Subversives]]"
   - "[[Symbionts]]"
-  - "[[Champ]]"
-  - "[[Paradigm]]"
-  - "[[Variable]]"
+  - "[[Opportunists]]"
+  - "[[Rule Ambiguity]]"
+  - "[[Strategic Compliance]]"
   - "[[Scaffolding]]"
   - "[[Operationalization]]"
   - "[[Determinism]]"
+  - "[[Institutional Exhaustion]]"
   - "[[Document]]"
 related_theories:
+  - "[[Historical Institutionalism]]"
   - "[[Theory of Gradual Institutional Change]]"
   - "[[Varieties of Capitalism]]"
   - "[[Disjointed Pluralism]]"
   - "[[Path Dependence]]"
   - "[[Punctuated Equilibrium Theory]]"
+  - "[[Pluralism]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Critical Review]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Wolfgang Streeck]]"
   - "[[James Mahoney]]"
-  - "[[Jeroen van der Heijden]]"
   - "[[Peter A. Hall]]"
-related_facts: []
+  - "[[Jeroen van der Heijden]]"
+related_facts:
+  - "[[Chinese Academy of Sciences]]"
+  - "[[Education Resources Information Center]]"
 related_arguments:
   - "[[Argument_VanDerHeijden_2011_Politics]]"
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
@@ -71,14 +79,14 @@ updated: 2026-10-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国政治学家，麻省理工学院（Massachusetts Institute of Technology, MIT）福特政治学讲席教授，美国文理科学院（American Academy of Arts and Sciences）院士，前美国政治学会（American Political Science Association, APSA）主席（2017–2018），当代历史制度主义与比较政治经济学领军学者。
+> - **身份位置** 美国政治学家，麻省理工学院（Massachusetts Institute of Technology, MIT）福特政治学讲席教授，美国文理[[Chinese Academy of Sciences|科学院]]（American Academy of Arts and Sciences）院士，前美国政治学会（American Political Science Association, APSA）主席（2017–2018），当代[[Historical Institutionalism|历史制度主义]]与比较政治经济学领军学者。
 > - **核心角色** 历史制度主义渐进变迁理论的核心建构者；针对传统制度分析将制度视为惰性刚性稳态、将变迁完全归因于外生危机与重大断裂的理论困境，系统建构内生渐进变迁框架，将[[Institutional Layering|制度层叠]]、[[Institutional Drift|制度漂移]]、[[Institutional Conversion|制度转换]]与[[Institutional Displacement|制度替代]]确立为解释长期制度演进的通用分析透镜。
 > - **代表贡献** 奠定[[Theory of Gradual Institutional Change|渐进制度变迁理论]]大厦；系统界定[[Institutional Layering|制度层叠]]（Institutional Layering）的核心机制；跨国比较德国、英国、美国与日本的职业技能形成体系与[[Varieties of Capitalism|资本主义多样性]]演进。
 
 > [!citation-card] 希伦在制度变迁研究中的理论定位
 > 凯瑟琳·希伦（Kathleen Thelen）是这一领域的领军学者，她引入、界定并发展了一系列渐进制度变迁机制。制度层叠正是其中之一，她用该概念解释通过向既有制度附加新元素从而逐步改变制度地位与结构的渐进转型过程。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 9)]]
 >
-> *A leading scholar in this field is Kathleen Thelen, who has introduced, defined and developed a number of such mechanisms ... One of these mechanisms is 'layering'. Thelen uses the concept to explain gradual institutional transformation through a process in which new elements are attached to existing institutions and so gradually change their status and structure.*
+> *A leading scholar in this [[Champ|field]] is Kathleen Thelen, who has introduced, defined and developed a number of such mechanisms ... One of these mechanisms is 'layering'. Thelen uses the concept to explain gradual institutional transformation through a process in which new elements are attached to existing institutions and so gradually change their status and structure.*
 
 ---
 
@@ -87,13 +95,13 @@ updated: 2026-10-11
 > [!timeline] 生平与职涯
 > - **1956** 出生于美国堪萨斯州。
 > - **1979–1987** 获得堪萨斯大学政治学学士学位，随后于加州大学伯克利分校（University of California, Berkeley）获得政治学硕士与博士学位，深受比较政治经济学与欧洲劳工政治研究训练。
-> - **1992** 与斯温·施泰因莫（Sven Steinmo）等合编出版《构建政治：比较分析中的历史制度主义》（*Structuring Politics*），确立历史制度主义作为独立学术流派的理论地位。
+> - **1992** 与斯温·施泰因莫（Sven Steinmo）等合编出版《构建政治：比较分析中的[[Historical Institutionalism|历史制度主义]]》（*Structuring Politics*），确立历史制度主义作为独立学术流派的理论地位。
 > - **1990s–2000s** 先后执教于普林斯顿大学与西北大学，系统考察发达工业化国家的技能形成、雇主组织与劳资关系协调机制。
 > - **2004** 出版专著《制度如何演化》（*How Institutions Evolve*），荣获美国政治学会伍德罗·威尔逊基金会奖（Woodrow Wilson Foundation Award）与马泰·多根奖（Mattei Dogan Award）。
-> - **2005** 与沃尔夫冈·施特雷克（Wolfgang Streeck）合编出版《超越延续性：发达政治经济中的制度变迁》（*Beyond Continuity*），全面奠定[[Theory of Gradual Institutional Change|渐进制度变迁]]分类学。
+> - **2005** 与[[Wolfgang Streeck|沃尔夫冈·施特雷克]]（Wolfgang Streeck）合编出版《超越延续性：发达政治经济中的制度变迁》（*Beyond Continuity*），全面奠定[[Theory of Gradual Institutional Change|渐进制度变迁]]分类学。
 > - **2007** 与[[James Mahoney|詹姆斯·马奥尼]]在西北大学博菲特国际与比较研究所发起“解释制度变迁”研讨会。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. xii)]]
 > - **2009** 加盟麻省理工学院（MIT）政治学系，出任福特讲席教授；同年与马奥尼合编出版《解释制度变迁：模糊性、能动性与权力》（*Explaining Institutional Change: Ambiguity, Agency, and Power*），确立制度变迁的微观行动者权力博弈理论。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
-> - **2014** 出版专著《自由化的多样性与社会团结的新政治》（*Varieties of Liberalization and the New Politics of Social Solidarity*）。
+> - **2014** 出版专著《[[Liberalization|自由化]]的多样性与社会团结的新政治》（*Varieties of Liberalization and the New Politics of Social Solidarity*）。
 > - **2017–2018** 当选并出任美国政治学会（APSA）主席。
 
 ---
@@ -101,7 +109,7 @@ updated: 2026-10-11
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1990年代 — 历史制度主义流派奠基与劳工政治** 聚焦战后德国等西欧国家的劳工体系与协调资本主义，反思行为主义与理性选择[[Paradigm|范式]]的去情境化偏误，确立制度中介[[Variable|变量]]地位。
+> - **1990年代 — [[Historical Institutionalism|历史制度主义]]流派奠基与劳工政治** 聚焦战后德国等西欧国家的劳工体系与协调资本主义，反思行为主义与理性选择[[Paradigm|范式]]的去情境化偏误，确立制度中介[[Variable|变量]]地位。
 >   - **代表著作** *Structuring Politics: Historical Institutionalism in Comparative Analysis* (1992); *Union of Parts: Labor Politics in Postwar Germany* (1991)。
 >   - **关键概念／方法** 历史制度主义、制度结构性、比较历史分析。
 >   - **阶段转向** 从具体的劳资协调制度考察，上升为对制度主义一般方法论与历史时间性的系统建构。
@@ -109,7 +117,7 @@ updated: 2026-10-11
 >   - **代表著作** *How Institutions Evolve: The Political Economy of Skills in Germany, Britain, the United States, and Japan* (2004); *Beyond Continuity* (2005, with W. Streeck)。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 11–12)]]
 >   - **关键概念／方法** [[Institutional Layering|制度层叠]]（Layering）、[[Institutional Conversion|制度转换]]（Conversion）、修正案赞助。
 >   - **阶段转向** 吸纳埃里克·希克勒（Eric Schickler, 2001）对美国国会委员会制度演化的研究（[[Disjointed Pluralism|脱节多元主义]]），将制度理解为多元妥协与碎片并存的历史复合物。
-> - **2010年代及以后 — 制度变迁类型学定型与自由化多样性** 融合行动者偏好、依从类型与制度权力属性，形成完整的渐进演化因果解释模型，并运用于当代欧美福利体制与数字经济变迁分析。
+> - **2010年代及以后 — 制度变迁类型学定型与[[Liberalization|自由化]]多样性** 融合行动者偏好、依从类型与制度权力属性，形成完整的渐进演化因果解释模型，并运用于当代欧美福利体制与数字经济变迁分析。
 >   - **代表著作** *Explaining Institutional Change* (2009, with J. Mahoney); *Varieties of Liberalization and the New Politics of Social Solidarity* (2014)。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
 >   - **关键概念／方法** 四类变迁形态（置换/层叠/漂移/转换）、四类变革行动者（[[Insurrectionaries|起义者]]/[[Subversives|颠覆者]]/[[Symbionts|共生者]]/[[Opportunists|机会主义者]]）、自由化轨迹。
 >   - **阶段转向** 明确提出分层的精髓在于将新规则附着于旧规则顶端并重构行动者行为，为跨学科制度研究提供通用分析语法。
@@ -119,17 +127,17 @@ updated: 2026-10-11
 ## 核心思想
 
 > [!claim] 核心主张
-> 制度绝非一经建立便处于刚性静止的均衡实体，其政策意图与现实运行之间必然存在持续的缝隙；制度是具有资源分配后果的权力工具，必须将遵从与规则解释确立为动态博弈变量；在面临强大否决点使得推倒重建不可行时，行动者通过在既有规则顶端积极叠加新规程、新工具与新载体（[[Institutional Layering|制度层叠]]），或利用裁量权改变规则实施目标（[[Institutional Conversion|制度转换]]），随历史时间推移逐步重塑原有规则地位与行为结构，从而在规避正面政治冲突的同时实现深刻的制度转型（Thelen, 2004; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 4–15]]；[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, pp. 11–12]]）。
+> 制度绝非一经建立便处于刚性静止的均衡实体，其政策意图与现实运行之间必然存在持续的缝隙；制度是具有资源分配后果的权力工具，必须将遵从与规则解释确立为动态博弈[[Variable|变量]]；在面临强大否决点使得推倒重建不可行时，行动者通过在既有规则顶端积极叠加新规程、新工具与新载体（[[Institutional Layering|制度层叠]]），或利用裁量权改变规则实施目标（[[Institutional Conversion|制度转换]]），随历史时间推移逐步重塑原有规则地位与行为结构，从而在规避正面政治冲突的同时实现深刻的制度转型（Thelen, 2004; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 4–15]]；[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, pp. 11–12]]）。
 
 > [!citation-card] 制度作为权力分配工具与内生变迁动力
 > 制度首先是蕴含权力意涵的资源分配工具。制度充满内在张力，因为制度不可避免地牵涉资源考量，且始终伴随分配性后果。任何规约行动的规则或预期，都会对资源配置产生不平等影响。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 8)]]
 >
 > *Institutions [are] above all else as distributional instruments laden with power implications ... In our approach, institutions are fraught with tensions because they inevitably raise resource considerations and invariably have distributional consequences.*
 
-> [!citation-card] 遵从裁量权与规则模糊性
+> [!citation-card] 遵从裁量权与[[Rule Ambiguity|规则模糊性]]
 > 规则存在不可消除的模糊性，成文规则与现实落实之间存在永久缝隙；遵从不是常数而是动态博弈。行动者正是在解释和执行的软肋中利用自由裁量权撬动渐进演化。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 10–14)]]
 >
-> *Rules are inherently ambiguous, creating an inevitable gap between the formal text of a rule and its actual enactment ... compliance is a dynamic variable rather than a constant.*
+> *Rules are inherently ambiguous, creating an inevitable gap between the formal text of a rule and its actual enactment ... [[Strategic Compliance|compliance]] is a dynamic variable rather than a constant.*
 
 > [!citation-card] 渐进制度演化与边际构筑逻辑
 > 制度演化是一个在既有安排顶端搭建[[Scaffolding|脚手架]]、不断追加新结构的过程；这一过程绝非脱离历史的理性蓝图重构，而是处于既有秩序约束之下的持续妥协与边际创生。（Thelen, 2004, p. 35）
@@ -146,7 +154,7 @@ updated: 2026-10-11
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 打破了政治学与社会学长期受困于间断均衡突变模型与静态[[Path Dependence|路径依赖]]模型的二元僵局，开拓了[[Theory of Gradual Institutional Change|渐进制度变迁]]（Incremental Institutional Change）研究领域，成为历史制度主义二十一世纪最重要的理论飞跃。
+> - **理论路径** 打破了政治学与社会学长期受困于间断均衡突变模型与静态[[Path Dependence|路径依赖]]模型的二元僵局，开拓了[[Theory of Gradual Institutional Change|渐进制度变迁]]（Incremental Institutional Change）研究领域，成为[[Historical Institutionalism|历史制度主义]]二十一世纪最重要的理论飞跃。
 > - **方法路径** 倡导结合长时段比较历史分析（Comparative-Historical Analysis, CHA）与微观因果机制追踪，为识别规则文本、执行偏差与行动者博弈提供了[[Operationalization|操作化]]标准。
 > - **政策路径** 被广泛运用于欧洲一体化政策、公共行政改革、养老金与社会福利转型、数字劳工平台监管等实际政策评估，指导改革者通过边际修正案策略规避体制否决点。
 > - **跨国／跨领域传播** 其[[Institutional Layering|制度层叠]]与转换[[Analytic Framework|分析框架]]被法学、教育政策研究、公共卫生管理与技术标准治理等多个学科广泛引申借用，成为分析制度韧性与演化的通用概念工具。
@@ -156,8 +164,8 @@ updated: 2026-10-11
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **师承／合作者** 斯温·施泰因莫（Sven Steinmo）与[[Peter A. Hall|彼得·A·霍尔]]（Peter A. Hall）— 1990年代早期合作奠基历史制度主义；沃尔夫冈·施特雷克（Wolfgang Streeck）— 2005年合著合编系统提出渐进变迁分类学；[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）— 2009年合作完成行动者类型与变迁模式整合框架。
-> - **学术启发源** 埃里克·希克勒（Eric Schickler）— 其国会委员会演进研究为希伦提供了[[Disjointed Pluralism|脱节多元主义]]与边际妥协机制的思想源泉；凯伦·奥伦与斯蒂芬·斯科夫罗内克（Karen Orren & Stephen Skowronek）— 其历史时间性命题深化了希伦关于制度是多重历史碎片共存体的认识。
+> - **师承／合作者** 斯温·施泰因莫（Sven Steinmo）与[[Peter A. Hall|彼得·A·霍尔]]（Peter A. Hall）— 1990年代早期合作奠基[[Historical Institutionalism|历史制度主义]]；[[Wolfgang Streeck|沃尔夫冈·施特雷克]]（Wolfgang Streeck）— 2005年合著合编系统提出渐进变迁分类学；[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）— 2009年合作完成行动者类型与变迁模式整合框架。
+> - **学术启发源** 埃里克·希克勒（[[Education Resources Information Center|ERIC]] Schickler）— 其国会委员会演进研究为希伦提供了[[Disjointed Pluralism|脱节多元主义]]与边际妥协机制的思想源泉；凯伦·奥伦与斯蒂芬·斯科夫罗内克（Karen Orren & Stephen Skowronek）— 其历史时间性命题深化了希伦关于制度是多重历史碎片共存体的认识。
 > - **反思与批评者** [[Jeroen van der Heijden]] — 开展跨学科[[Critical Review|批判性文献综述]]，指出当代学者在引用希伦时出现概念漂移，将保护既有核心的制度再生产误读为层叠变迁，倡导聚焦行动者与工具[[Variable|变量]]。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 12–16)]]
 > - **理论对话者** 弗兰克·鲍姆加特纳与布莱恩·琼斯（Frank Baumgartner & Bryan Jones）— 其[[Punctuated Equilibrium Theory|间断均衡理论]]强调外生重大危机驱动的断裂，与希伦强调的内生渐变构成当代制度分析的两大核心对话阵营。
 
@@ -177,7 +185,7 @@ updated: 2026-10-11
 > > 批评者质疑希伦的渐进变迁分类是否过度赋予改革者策略性赞助修正案的主动能动性，低估了宏观权力非对称性与阶级权力结构的绝对锁定。
 > >
 > > - **结构权力批判视角** 传统政治经济学者认为，在高度固化的垄断权力体制中，边缘行动者的边际附加往往被既得利益集团迅速吸纳或工具化，难以自发累积出质性[[Institutional Displacement|制度替代]]。
-> > - **历史制度主义回应** 希伦通过技能体系长时段比较证明，行动者是在体制缝隙中利用否决点间的矛盾展开渐进突围，制度变迁从来不是非此即彼的结构[[Determinism|决定论]]。
+> > - **[[Historical Institutionalism|历史制度主义]]回应** 希伦通过技能体系长时段比较证明，行动者是在体制缝隙中利用否决点间的矛盾展开渐进突围，制度变迁从来不是非此即彼的结构[[Determinism|决定论]]。
 
 ---
 
@@ -190,7 +198,7 @@ updated: 2026-10-11
 > | [[Theory of Gradual Institutional Change]] | 理论 | 核心奠基人，系统建构四分渐进演化模型与微观行动者权力博弈理论体系。 |
 > | [[Institutional Layering]] | 概念 | 首创并系统阐释制度层叠概念、修正案赞助机制与重塑行为规约模式的微观机理。 |
 > | [[Institutional Conversion]] | 概念 | 阐明在制度缝隙中重定向既有规则与资源的功能转换机制。 |
-> | [[Institutional Drift]] | 概念 | 揭示外部环境变迁下由于不作为导致的功能漂移与共生者合规套利机制。 |
+> | [[Institutional Drift]] | 概念 | 揭示外部环境变迁下由于不作为导致的功能漂移与[[Symbionts\|共生者]]合规套利机制。 |
 > | [[Institutional Displacement]] | 概念 | 界定新制度引入并逐步边缘化旧制度的双轨替代演进逻辑。 |
 > | [[Institutional Exhaustion]] | 概念 | 共同阐述制度因正常运转耗竭外部前提条件而走向消亡的枯竭机制。 |
 > | [[Insurrectionaries]] | 概念 | 界定起义者在弱否决与低裁量权下驱动制度置换的反体制排他性博弈逻辑。 |
@@ -199,14 +207,14 @@ updated: 2026-10-11
 > | [[Opportunists]] | 概念 | 共同界定机会主义者在制度转换与惰性维系中的双重角色与级联动态。 |
 > | [[Varieties of Capitalism]] | 理论 | 深入拓展德国、英国、美国与日本职业技能形成体制与协调市场经济的多样性。 |
 > | [[Path Dependence]] | 理论 | 反思传统路径依赖刚性闭锁假定，开拓在制度缝隙中累积质变的内生演化理论。 |
-> | [[Punctuated Equilibrium Theory]] | 理论 | 批判间断均衡理论将变迁外生化为危机断裂的机械二元论，树立内生渐变范式。 |
-> | [[Disjointed Pluralism]] | 理论 | 吸纳脱节多元主义，将制度理解为多元妥协与碎片并存的历史复合物。 |
+> | [[Punctuated Equilibrium Theory]] | 理论 | 批判间断均衡理论将变迁外生化为危机断裂的机械二元论，树立内生渐变[[Paradigm\|范式]]。 |
+> | [[Disjointed Pluralism]] | 理论 | 吸纳脱节[[Pluralism\|多元主义]]，将制度理解为多元妥协与碎片并存的历史复合物。 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 提出渐进制度变迁形态学，系统界定置换、层叠、漂移、转换与耗竭五大制度变迁机制。（pp. 18–31）
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁]]形态学，系统界定置换、层叠、漂移、转换与耗竭五大制度变迁机制。（pp. 18–31）
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 系统考证[[Institutional Layering|制度层叠]]六十年学术史，解构当代[[Document|文献]]对希伦分层概念的改编走样，确立分层作为聚焦行动者与规制工具解释[[Variable|变量]]的理论潜能。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，系统建构置换、层叠、漂移与转换四类演化模式及四类微观变革行动者类型学。

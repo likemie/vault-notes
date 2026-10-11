@@ -7,10 +7,10 @@ aliases:
 summary: "历史制度主义与比较政治经济学中的制度变迁核心机制；指通过废除、取消或边缘化既有规则并引入全新规则体系的过程；既包含关键节点上的突发性体制颠覆，也涵盖边缘竞争性新体制通过持续吸引背叛与资源转移、最终累积挤出并彻底取代旧体制的渐进替代过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/institutional-change
   - theme/governance
@@ -19,19 +19,30 @@ tags:
 related_concepts:
   - "[[Institutional Layering]]"
   - "[[Institutional Conversion]]"
+  - "[[Veto Possibilities]]"
+  - "[[Enforcement Discretion]]"
   - "[[Insurrectionaries]]"
   - "[[Subversives]]"
   - "[[Institutional Drift]]"
   - "[[Symbionts]]"
   - "[[Opportunists]]"
-related_theories: []
-related_methods: []
+  - "[[Liberalization]]"
+  - "[[Paradigm]]"
+  - "[[Document]]"
+related_theories:
+  - "[[Historical Institutionalism]]"
+  - "[[Theory of Gradual Institutional Change]]"
+related_methods:
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
 related_persons:
-  - "[[Wolfgang Streeck]]"
+  - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"
+  - "[[Wolfgang Streeck]]"
+related_facts:
+  - "[[International Reading Association]]"
 confidence: high
 status: draft
 created: 2026-10-11
@@ -45,7 +56,7 @@ updated: 2026-10-11
 ## 定义
 
 > [!def] 核心定义
-> 历史制度主义中解释制度变迁的核心机制之一；指既有制度规则被彻底废除或边缘化，并由一套全新的规则体系取而代之的过程。它既表现为激进革命或外部危机冲击下的突发性直接替代，也可表现为一个长期、平缓的演进过程——即新制度在旧制度旁设立并展开竞争，随着越来越多行动者背叛旧规则转向新规则，新体制最终累积吞噬并完全取代旧体制。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 15–16)]]
+> [[Historical Institutionalism|历史制度主义]]中解释制度变迁的核心机制之一；指既有制度规则被彻底废除或边缘化，并由一套全新的规则体系取而代之的过程。它既表现为激进革命或外部危机冲击下的突发性直接替代，也可表现为一个长期、平缓的演进过程——即新制度在旧制度旁设立并展开竞争，随着越来越多行动者背叛旧规则转向新规则，新体制最终累积吞噬并完全取代旧体制。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 15–16)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于保留旧规则主体的层叠、漂移与转换，置换的核心特征是“旧规则的实质废除与新规则的全面引入”。
@@ -69,10 +80,10 @@ updated: 2026-10-11
 > [!contrast-table] 制度置换与相关渐进变迁机制辨析
 > | 机制类型 | 旧规则处理方式 | 是否引入新规则 | 政治否决与裁量环境 | 主导行动者类型 |
 > |---|---|---|---|---|
-> | **[[Institutional Displacement\|制度置换]]**<br>（Displacement） | 彻底废除或竞争淘汰 | 是（全新排他性规则） | 弱否决可能性 + 低执行裁量权 | **[[Insurrectionaries\|起义者]]**<br>（Insurrectionaries） |
+> | **[[Institutional Displacement\|制度置换]]**<br>（Displacement） | 彻底废除或竞争淘汰 | 是（全新排他性规则） | 弱[[Veto Possibilities\|否决可能性]] + 低[[Enforcement Discretion\|执行裁量权]] | **[[Insurrectionaries\|起义者]]**<br>（Insurrectionaries） |
 > | **[[Institutional Layering\|制度层叠]]**<br>（Layering） | 保留核心，增设补充 | 是（边际附加条款） | 强否决可能性 + 低执行裁量权 | **[[Subversives\|颠覆者]]**<br>（Subversives） |
 > | **[[Institutional Drift\|制度漂移]]**<br>（Drift） | 文本维持不变，效能侵蚀 | 否（无新规则） | 强否决可能性 + 高执行裁量权 | **[[Symbionts\|寄生型共生者]]**<br>（Parasitic Symbionts） |
-> | **[[Institutional Conversion\|制度转换]]**<br>（Conversion） | 文本维持不变，功能重定向 | 否（重释旧规则） | 弱否决可能性 + 高执行裁量权 | **[[Opportunists|机会主义者]]**<br>（Opportunists） |
+> | **[[Institutional Conversion\|制度转换]]**<br>（Conversion） | 文本维持不变，功能重定向 | 否（重释旧规则） | 弱否决可能性 + 高执行裁量权 | **[[Opportunists\|机会主义者]]**<br>（Opportunists） |
 
 ---
 
@@ -84,8 +95,8 @@ updated: 2026-10-11
 > - **微观背叛与滚雪球转移（Defection and Cumulative Shift）** 随着新规则优势显现或旧规则成本上升，行动者自主选择“背叛”旧规则并依附新机制，形成不可逆的级联扩散，最终实现制度彻底更替。
 
 > [!factors] 制度置换的生成条件与因果要素
-> - **弱政治否决可能性（Weak Veto Possibilities）** 维护既有制度的保守阵营缺乏足够的否决点或政治盟友，无法构筑阻止新制度合法化或扩散的有效壁垒。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 18–20)]]
-> - **低解释与执行裁量权（Low Enforcement Discretion）** 既有规则的规约边界相对清晰刚性，行动者难以通过变通解释来满足新利益诉求，迫使变革力量走向制度替换。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 20–22)]]
+> - **弱政治[[Veto Possibilities|否决可能性]]（Weak Veto Possibilities）** 维护既有制度的保守阵营缺乏足够的否决点或政治盟友，无法构筑阻止新制度合法化或扩散的有效壁垒。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 18–20)]]
+> - **低[[Enforcement Discretion|解释与执行裁量权]]（Low Enforcement Discretion）** 既有规则的规约边界相对清晰刚性，行动者难以通过变通解释来满足新利益诉求，迫使变革力量走向制度替换。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 20–22)]]
 > - **主导行动者：[[Insurrectionaries|起义者]]（Insurrectionaries）** 明确否定旧制度合法性、拒绝遵循旧制度规则，积极通过公开动员、开辟外部竞争轨道打破维持现状的政治僵局。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 23–24)]]
 
 > [!logic-map]- 制度置换的演进逻辑
@@ -109,7 +120,7 @@ updated: 2026-10-11
 > [!concept-lens] 宏观制度环境与演进路径的匹配机制
 > 探讨宏观政治语境与制度微观属性如何共同约束行动者的策略选择，解释为何置换机制在特定制度构型下成为唯一可行或优势路径。
 
-> [!claim] Mahoney, J. & Thelen, K.
+> [!claim] [[James Mahoney|Mahoney, J.]] & [[Kathleen Thelen|Thelen, K.]]
 > **因果空间匹配路径** 当政治语境中的否决阻力较低且既有规则缺乏解释裁量权时，改革者既无需顾忌强力否决玩家的封杀，也无法在既有规则内部通过重新解释获得回旋余地；这使得直接替换成为阻力最小且最为彻底的理性策略。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 18–20)]]
 
 ---
@@ -126,7 +137,7 @@ updated: 2026-10-11
 
 ### 命题三　市场化自由化改革借助个体退出机制享有低阻力置换优势
 
-> [!concept-lens] 自由化置换的集体行动非对称性维度
+> [!concept-lens] [[Liberalization|自由化]]置换的集体行动非对称性维度
 > 探讨当代资本主义制度演进中，为何解除规制与私有化置换往往比建立新型集体规制具有更低的政治推进门槛。
 
 > [!claim] [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]]
@@ -139,29 +150,29 @@ updated: 2026-10-11
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **结构匹配命题** | 阐明弱否决可能性与低解释裁量权如何锁定置换路径 | 缺乏强力否决点、法律规则形式刚性明晰的政治经济体制 | James Mahoney; Kathleen Thelen |
+> | **结构匹配命题** | 阐明弱[[Veto Possibilities\|否决可能性]]与低解释裁量权如何锁定置换路径 | 缺乏强力否决点、法律规则形式刚性明晰的政治经济体制 | James Mahoney; Kathleen Thelen |
 > | **双轨演化命题** | 揭示边际设立新规通过抢夺资源与行动者背叛实现累积替代 | 经济转型转轨、宪制议会改革、双轨制改革体系 | James Mahoney; Kathleen Thelen |
-> | **自由化非对称命题** | 揭示个体退出逻辑赋予私有化与市场化置换极低的政治动员阻力 | 福利国家私有化转型、公共养老金改革、劳动去规制 | Wolfgang Streeck; Kathleen Thelen |
+> | **自由化非对称命题** | 揭示个体退出逻辑赋予私有化与市场化置换极低的政治动员阻力 | 福利国家私有化转型、公共养老金改革、劳动去规制 | [[Wolfgang Streeck]]; Kathleen Thelen |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1980年代–1990年代 — 间断均衡与外生更替范式** 早期新制度主义文献普遍将制度更替界定为外生重大冲击（战争、经济大萧条）摧毁既有制度垄断后的激进外生替代（Punctuated Equilibrium）。
-> - **2005年 — 施特雷克与希伦开启内生类型学探讨** [[Wolfgang Streeck|沃尔夫冈·施特雷克（Wolfgang Streeck）]]与[[Kathleen Thelen|凯瑟琳·希伦（Kathleen Thelen）]]在《超越延续性》（*Beyond Continuity*）导论中首次系统界定置换（Displacement）机制，指出边缘新规则如何通过背叛（Defection）与入侵（Invasion）逐步挤出旧规则并实现质变。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 19–24)]]
-> - **2009年 — 马奥尼与希伦建构因果矩阵与行动者模型** 马奥尼与希伦在《解释制度变迁》中系统界定置换在弱否决、低裁量语境下的因果机制，将起义者确立为主导变革主体，确立双轨竞争置换模型。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 15–16, 23–24)]]
+> - **1980年代–1990年代 — 间断均衡与外生更替[[Paradigm|范式]]** 早期新制度主义[[Document|文献]]普遍将制度更替界定为外生重大冲击（战争、经济大萧条）摧毁既有制度垄断后的激进外生替代（Punctuated Equilibrium）。
+> - **2005年 — [[Wolfgang Streeck|施特雷克]]与希伦开启内生类型学探讨** 沃尔夫冈·施特雷克（Wolfgang Streeck）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）在《超越延续性》（*Beyond Continuity*）导论中首次系统界定置换（Displacement）机制，指出边缘新规则如何通过背叛（Defection）与入侵（Invasion）逐步挤出旧规则并实现质变。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 19–24)]]
+> - **2009年 — [[James Mahoney|马奥尼]]与希伦建构因果矩阵与行动者模型** 马奥尼与希伦在《解释制度变迁》中系统界定置换在弱否决、低裁量语境下的因果机制，将[[Insurrectionaries|起义者]]确立为主导变革主体，确立双轨竞争置换模型。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 15–16, 23–24)]]
 
 ---
 
 ## 经验证据与典型案例
 
 > [!evidence-grid] 制度置换的代表性经验案例
-> - **资本积累型私人养老金对现收现付制公共社保的置换（福利私有化置换典范）** 美国与智利保守派并未通过激进立法直接废除公共社会保障，而是通过引入 401(k) 计划与个人退休账户（IRA）；私人投资的高回报吸引了大量中产阶级主动退出公共互助池，将资金转入资本市场，随着私人资产规模膨胀，公共社保体系的政治支持基础被逐步抽干并实现渐进置换。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 22–23)]]
+> - **资本积累型私人养老金对现收现付制公共社保的置换（福利私有化置换典范）** 美国与智利保守派并未通过激进立法直接废除公共社会保障，而是通过引入 401(k) 计划与个人退休账户（[[International Reading Association|IRA]]）；私人投资的高回报吸引了大量中产阶级主动退出公共互助池，将资金转入资本市场，随着私人资产规模膨胀，公共社保体系的政治支持基础被逐步抽干并实现渐进置换。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 22–23)]]
 > - **非工会子公司与外包业务对行业集中集体谈判的挤出（劳资规制置换典范）** 欧洲制造企业在面临全球成本压力时，并未正面废止战后全行业集体工资协议，而是选择在体制外成立不加入雇主协会的无协议子公司，或将零部件制造大规模外包给非工会私营承包商；随着非工会生产网络扩张，传统集中集体谈判的覆盖率被逐步挤压，完成了劳资关系的去中心化置换。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 20–21)]]
 > - **转轨经济中的渐进市场双轨制（边际挤出置换典范）** 中国与古巴在经济转轨初期没有采取休克疗法立即废除国营统购统销，而是在体制外放开非公经济与市场交易轨道；随着越来越多农户与乡镇企业转向市场轨道，市场机制通过更高的配置效率逐步吸纳全社会生产要素，最终彻底废除并置换了传统计划体制。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 16)]]
 > - **英国上议院政治权能的百年渐进剥夺（立宪功能置换典范）** 英国上议院原本作为世袭贵族统治堡垒，在 20 世纪通过 1911 年《议会法》剥夺财政否决权、1958 年设立终身贵族打破血统垄断、2000 年布莱尔政府大幅废除绝大多数世袭席位，使现代民主代表原则在长达一个世纪的连续立法微调中彻底置换了封建特权内核。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–2)]]
-> - **土耳其凯末尔世俗法典替代伊斯兰沙里亚法（激进外生置换典范）** 凯末尔革命后，外生政治精英凭借强大的军事与行政垄断，直接废除奥斯曼帝国的宗教沙里亚法（Sharia），全盘移植瑞士民法典与意大利刑法典，展现了强力起义者主导下的激进直接置换。
+> - **土耳其凯末尔世俗法典替代伊斯兰沙里亚法（激进外生置换典范）** 凯末尔革命后，外生政治精英凭借强大的军事与行政垄断，直接废除奥斯曼帝国的宗教沙里亚法（Sharia），全盘移植瑞士民法典与意大利刑法典，展现了强力[[Insurrectionaries|起义者]]主导下的激进直接置换。
 > - **现代土地产权登记对传统习惯法的挤出（法理产权置换）** 传统习惯法公有产权在后殖民国家现代化进程中，逐步被成文法土地契约凭证登记体系所替代，但在特定缺乏有效行政能力的地区，这一置换过程遭遇了扭曲。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 25)]]
 
 ---
@@ -173,10 +184,10 @@ updated: 2026-10-11
 > > [!axis] 双轨并存到底是层叠还是渐进置换
 > > 争论聚焦于两套制度长期并行共存时应如何定性。
 > > 
-> > - **排他竞争终局视角** 马奥尼与希伦指出，关键在于新旧体系是互补协同还是排他竞争；若新制度的设计初衷与实际演进逻辑在于抢夺旧制度的参与者与资源、以彻底消亡旧制度为导向，则属于渐进置换而非单纯层叠。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 16)]]
-> > - **妥协共存与路径锁定视角** 部分历史制度学者指出，许多旨在置换的双轨改革在实践中可能长期陷于势均力敌的政治僵局，演变为长期共存的杂合体制，在经验操作上极难与制度层叠严格区隔。
+> > - **排他竞争终局视角** [[James Mahoney|马奥尼]]与希伦指出，关键在于新旧体系是互补协同还是排他竞争；若新制度的设计初衷与实际演进逻辑在于抢夺旧制度的参与者与资源、以彻底消亡旧制度为导向，则属于渐进置换而非单纯层叠。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 16)]]
+> > - **妥协共存与路径锁定视角** 部分历史制度学者指出，许多旨在置换的双轨改革在实践中可能长期陷于势均力敌的政治僵局，演变为长期共存的杂合体制，在经验操作上极难与[[Institutional Layering|制度层叠]]严格区隔。
 > 
-> > [!axis] 起义者的暴力倾向与和平策略偏好
+> > [!axis] [[Insurrectionaries|起义者]]的暴力倾向与和平策略偏好
 > > 争论聚焦于起义者（Insurrectionaries）是否必然诉诸极端违规行动。
 > > 
 > > - **策略性渐进妥协** 马奥尼与希伦澄清，起义者虽然在意识形态上全盘否定旧制度，但在面临现实力量对比制约时，往往理性选择和平参与双轨制度建设，通过推动渐进置换达成最终目标。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 23–24)]]
@@ -188,7 +199,7 @@ updated: 2026-10-11
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 首次系统界定置换机制，分析边缘新规则如何通过背叛与入侵累积挤出旧规则并实现质变。（pp. 19–24）
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 提出渐进制度变迁理论，界定制度置换在弱否决与低裁量权语境下的突发与双轨竞争替代机制。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，界定制度置换在弱否决与低裁量权语境下的突发与双轨竞争替代机制。
 
