@@ -7,7 +7,7 @@ aliases:
 summary: "当代政治学与社会学核心制度分析范式；主张制度是承载权力分配后果的持久组织安排，强调历史时间性、路径依赖与关键节点；早期侧重外生危机冲击下的间断均衡，后经施特雷克、马奥尼与希伦发展转向常规时期的内生渐进演变分析。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 19
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Institutional Layering]]"
   - "[[Institutional Drift]]"
   - "[[Institutional Conversion]]"
+  - "[[Institutional Exhaustion]]"
 related_theories:
   - "[[Path Dependence]]"
   - "[[Theory of Gradual Institutional Change]]"
@@ -41,6 +42,7 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
+  - "[[Argument_Streeck_Thelen_2005_OUP]]"
   - "[[Argument_VanDerHeijden_2011_Politics]]"
 confidence: high
 status: draft
@@ -78,7 +80,7 @@ updated: 2026-10-11
 > [!dev-timeline] 理论演进与学术扩展
 > - **1990年代初 — 学派自觉与体系确立** 斯温·施泰因莫（Sven Steinmo）、[[Kathleen Thelen|凯瑟琳·希伦（Kathleen Thelen）]]等出版《建构政治》（*Structuring Politics*, 1992），霍尔与泰勒（1996）系统梳理三大制度主义分野，奠定历史制度主义的学科规范。
 > - **2000年代初 — 路径依赖的形式化因果建模** [[Paul Pierson|保罗·皮尔逊（Paul Pierson, 2000, 2004）]]与[[James Mahoney|詹姆斯·马奥尼（James Mahoney）]]（2000）系统引入经济学报酬递增概念，建构[[Path Dependence|路径依赖]]、关键节点与反应序列的形式化因果分析模型。
-> - **2005–2009年 — 内生渐进演变范式转向** [[Wolfgang Streeck|沃尔夫冈·施特雷克（Wolfgang Streeck）]]与希伦（Streeck & Thelen, 2005）提出置换、层叠、漂移与转换四分形态学；[[Jacob S. Hacker|雅各布·S·哈克（Jacob S. Hacker）]]提出制度漂移分析；马奥尼与希伦（Mahoney & Thelen, 2009）出版《解释制度变迁》，构建“否决可能性 × 执行裁量权”双维矩阵与四类行动者微观模型，彻底打破外生危机决定论，确立[[Theory of Gradual Institutional Change|渐进制度变迁理论]]。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
+> - **2005–2009年 — 内生渐进演变范式转向** [[Wolfgang Streeck|沃尔夫冈·施特雷克（Wolfgang Streeck）]]与希伦（Streeck & Thelen, 2005）提出置换、层叠、漂移、转换与[[Institutional Exhaustion|耗竭]]五大形态学；[[Jacob S. Hacker|雅各布·S·哈克（Jacob S. Hacker）]]提出制度漂移分析；马奥尼与希伦（Mahoney & Thelen, 2009）出版《解释制度变迁》，构建“否决可能性 × 执行裁量权”双维矩阵与四类行动者微观模型，彻底打破外生危机决定论，确立[[Theory of Gradual Institutional Change|渐进制度变迁理论]]。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 18–31)]]; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
 
 ---
 
@@ -93,7 +95,7 @@ updated: 2026-10-11
 > | **[[Strategic Compliance\|策略性遵从]]** | 行动机制 | 将行动者的遵从行为从理论假定解构为充满欺骗、共生与套利的动态博弈变量。 |
 > | **[[Veto Possibilities\|否决可能性]]** | 结构变量 | 衡量政治环境中阻挠正式变革的制度与党派力量分布，限定演进的策略可行域。 |
 > | **[[Enforcement Discretion\|解释与执行裁量权]]** | 结构变量 | 衡量成文规则在日常司法裁判与官僚执法中赋予执行者的自由操作空间。 |
-> | **四类渐进变迁形态** | 形态分类 | 涵盖[[Institutional Displacement|制度置换]]、[[Institutional Layering|制度层叠]]、[[Institutional Drift|制度漂移]]与[[Institutional Conversion|制度转换]]。 |
+> | **五类渐进变迁形态** | 形态分类 | 涵盖[[Institutional Displacement|制度置换]]、[[Institutional Layering|制度层叠]]、[[Institutional Drift|制度漂移]]、[[Institutional Conversion|制度转换]]与[[Institutional Exhaustion|制度耗竭]]。 |
 
 ---
 
@@ -164,8 +166,9 @@ updated: 2026-10-11
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] 历史制度主义内生演变转向里程碑著作，系统建构渐进制度变迁理论。
-> - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] 评述历史制度主义制度层叠概念在当代公共政策中的经验演化与理论反思。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 历史制度主义内生演化转向奠基文献，系统建构五大渐进变迁形态学。（pp. 18–31）
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 历史制度主义内生演变转向里程碑著作，系统建构渐进制度变迁理论。
+> - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 评述历史制度主义制度层叠概念在当代公共政策中的经验演化与理论反思。
 
 ---
 

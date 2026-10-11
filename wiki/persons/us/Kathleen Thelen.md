@@ -10,7 +10,7 @@ summary: "麻省理工学院政治学讲席教授、美国文理科学院院士�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 28
+person_related_count: 30
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Institutional Drift]]"
   - "[[Institutional Conversion]]"
   - "[[Institutional Displacement]]"
+  - "[[Institutional Exhaustion]]"
   - "[[Opportunists]]"
   - "[[Insurrectionaries]]"
   - "[[Subversives]]"
@@ -56,6 +57,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_VanDerHeijden_2011_Politics]]"
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
+  - "[[Argument_Streeck_Thelen_2005_OUP]]"
 confidence: high
 status: draft
 created: 2026-10-11
@@ -190,6 +192,7 @@ updated: 2026-10-11
 > | [[Institutional Conversion]] | 概念 | 阐明在制度缝隙中重定向既有规则与资源的功能转换机制。 |
 > | [[Institutional Drift]] | 概念 | 揭示外部环境变迁下由于不作为导致的功能漂移与共生者合规套利机制。 |
 > | [[Institutional Displacement]] | 概念 | 界定新制度引入并逐步边缘化旧制度的双轨替代演进逻辑。 |
+> | [[Institutional Exhaustion]] | 概念 | 共同阐述制度因正常运转耗竭外部前提条件而走向消亡的枯竭机制。 |
 > | [[Insurrectionaries]] | 概念 | 界定起义者在弱否决与低裁量权下驱动制度置换的反体制排他性博弈逻辑。 |
 > | [[Subversives]] | 概念 | 界定颠覆者在强否决与低裁量权下运用地下室白蚁机制推进边缘层叠的潜伏逻辑。 |
 > | [[Symbionts]] | 概念 | 界定共生者依附制度存续的利益羁绊，区分寄生型漂移与互利型稳健双重演化分支。 |
@@ -204,5 +207,6 @@ updated: 2026-10-11
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 提出渐进制度变迁形态学，系统界定置换、层叠、漂移、转换与耗竭五大制度变迁机制。（pp. 18–31）
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 系统考证[[Institutional Layering|制度层叠]]六十年学术史，解构当代[[Document|文献]]对希伦分层概念的改编走样，确立分层作为聚焦行动者与规制工具解释[[Variable|变量]]的理论潜能。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，系统建构置换、层叠、漂移与转换四类演化模式及四类微观变革行动者类型学。

@@ -4,11 +4,11 @@ aliases:
   - 沃尔夫冈·施特雷克
   - 施特雷克
   - Streeck, W.
-summary: "德国经济社会学家，马克斯·普朗克社会研究所荣休所长，当代比较政治经济学与制度变迁理论大师；与希伦开创渐进制度变迁形态学，系统提出置换、层叠、漂移与转换四分法；晚近以对当代资本主义危机、民主失灵与欧洲一体化危机的深刻制度批判享誉学界。"
+summary: "德国经济社会学家，马克斯·普朗克社会研究所荣休所长，当代比较政治经济学与制度变迁理论大师；与希伦开创渐进制度变迁形态学，系统提出置换、层叠、漂移、转换与耗竭形态学；晚近以对当代资本主义危机、民主失灵与欧洲一体化危机的深刻制度批判享誉学界。"
 type: person
 nationality: "germany"
 person_region: "germany"
-person_related_count: 10
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Institutional Layering]]"
   - "[[Institutional Drift]]"
   - "[[Institutional Conversion]]"
+  - "[[Institutional Exhaustion]]"
 related_theories:
   - "[[Theory of Gradual Institutional Change]]"
   - "[[Historical Institutionalism]]"
@@ -37,6 +38,7 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
+  - "[[Argument_Streeck_Thelen_2005_OUP]]"
 confidence: high
 status: draft
 created: 2026-10-11
@@ -150,6 +152,7 @@ updated: 2026-10-11
 > | **[[Institutional Layering]]** | 概念 | 共同提出并界定在旧核心顶端累叠新规则的演进模式。 |
 > | **[[Institutional Drift]]** | 概念 | 共同提炼面对环境变迁时因不作为导致规则效能衰退的漂移机制。 |
 > | **[[Institutional Conversion]]** | 概念 | 共同阐述行动者利用模糊性将规则重定向转用于新目标的转换机制。 |
+> | **[[Institutional Exhaustion]]** | 概念 | 共同阐述制度因正常运转耗竭外部前提条件而走向消亡的枯竭机制。 |
 
 ---
 

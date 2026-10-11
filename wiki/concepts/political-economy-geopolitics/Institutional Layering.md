@@ -8,7 +8,7 @@ aliases:
 summary: "历史制度主义与政策变迁分析中的渐进制度变迁核心机制；指在不废除或替换既有制度结构的前提下，通过向既有制度框架中附加新规则、新行动者、新政策工具或新管理程序，随时间推移逐步改变原有制度地位、行为结构与治理后果的演进过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 23
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Institutional Displacement]]"
   - "[[Institutional Drift]]"
   - "[[Institutional Conversion]]"
+  - "[[Institutional Exhaustion]]"
   - "[[Subversives]]"
   - "[[Venue Shopping]]"
   - "[[Problem of Many Hands]]"
@@ -48,6 +49,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_VanDerHeijden_2011_Politics]]"
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
+  - "[[Argument_Streeck_Thelen_2005_OUP]]"
 confidence: high
 status: draft
 created: 2026-10-11
@@ -227,6 +229,7 @@ updated: 2026-10-11
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] 跨学科审视 60 年间 166 篇期刊[[Document|文献]]中层叠概念的演变传统，提炼行动者增厚、[[Regulatory Ratchet|规制棘轮]]与双重叠加三类演化支脉，并反思当代应用混淆变迁与再生产的边界偏误。
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] 将制度层叠定位于强否决可能性与低执行裁量权制度语境，揭示颠覆者在不触动旧规则前提下通过附加新规累积重塑体制逻辑。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 首次系统界定分层（Layering）机制，分析在旧核心边缘附加新规则如何通过差异化增长逐步实现体制转型。（pp. 22–24）
+> - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 跨学科审视 60 年间 166 篇期刊[[Document|文献]]中层叠概念的演变传统，提炼行动者增厚、[[Regulatory Ratchet|规制棘轮]]与双重叠加三类演化支脉，并反思当代应用混淆变迁与再生产的边界偏误。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 将制度层叠定位于强否决可能性与低执行裁量权制度语境，揭示颠覆者在不触动旧规则前提下通过附加新规累积重塑体制逻辑。
 

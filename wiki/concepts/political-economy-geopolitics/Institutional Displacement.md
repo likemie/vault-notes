@@ -7,7 +7,7 @@ aliases:
 summary: "历史制度主义与比较政治经济学中的制度变迁核心机制；指通过废除、取消或边缘化既有规则并引入全新规则体系的过程；既包含关键节点上的突发性体制颠覆，也涵盖边缘竞争性新体制通过持续吸引背叛与资源转移、最终累积挤出并彻底取代旧体制的渐进替代过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Institutional Layering]]"
   - "[[Institutional Conversion]]"
   - "[[Institutional Drift]]"
+  - "[[Institutional Exhaustion]]"
   - "[[Insurrectionaries]]"
 related_theories:
   - "[[Theory of Gradual Institutional Change]]"
@@ -27,6 +28,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
+  - "[[Argument_Streeck_Thelen_2005_OUP]]"
 confidence: high
 status: draft
 created: 2026-10-11
@@ -133,7 +135,7 @@ updated: 2026-10-11
 
 > [!dev-timeline] 概念演变
 > - **1980年代–1990年代 — 间断均衡与外生更替范式** 早期新制度主义文献普遍将制度更替界定为外生重大冲击（战争、经济大萧条）摧毁既有制度垄断后的激进外生替代（Punctuated Equilibrium）。
-> - **2005年 — 施特雷克与希伦开启内生类型学探讨** 沃尔夫冈·施特雷克（Wolfgang Streeck）与凯瑟琳·希伦在《制度变迁的超越》（*Beyond Continuity*）中首次提出置换是渐进内生制度变迁的四大形态之一，提出边缘新规则竞争替代的假设。
+> - **2005年 — 施特雷克与希伦开启内生类型学探讨** [[Wolfgang Streeck|沃尔夫冈·施特雷克（Wolfgang Streeck）]]与[[Kathleen Thelen|凯瑟琳·希伦（Kathleen Thelen）]]在《超越延续性》（*Beyond Continuity*）导论中首次系统界定置换（Displacement）机制，指出边缘新规则如何通过背叛与入侵逐步挤出旧规则并实现质变。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 19–24)]]
 > - **2009年 — 马奥尼与希伦建构因果矩阵与行动者模型** 马奥尼与希伦在《解释制度变迁》中系统界定置换在弱否决、低裁量语境下的因果机制，将起义者确立为主导变革主体，确立双轨竞争置换模型。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 15–16, 23–24)]]
 
 ---
@@ -171,5 +173,6 @@ updated: 2026-10-11
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] 提出渐进制度变迁理论，界定制度置换在弱否决与低裁量权语境下的突发与双轨竞争替代机制。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 首次系统界定置换机制，分析边缘新规则如何通过背叛与入侵累积挤出旧规则并实现质变。（pp. 19–24）
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 提出渐进制度变迁理论，界定制度置换在弱否决与低裁量权语境下的突发与双轨竞争替代机制。
 

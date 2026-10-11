@@ -7,7 +7,7 @@ aliases:
 summary: "历史制度主义与公共政策分析中的渐进制度变迁核心机制；指正式制度规则在文本层面保持不变，但行动者策略性利用规则固有的模糊性与解释缝隙，对其进行重新部署、转用与创新性解释，使其服务于制度设计者未曾预见或甚至相反的全新目标、职能与政治联盟的演进过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,14 +19,16 @@ tags:
 related_concepts:
   - "[[Institutional Layering]]"
   - "[[Institutional Drift]]"
-  - "[[Opportunists]]"
   - "[[Institutional Displacement]]"
+  - "[[Institutional Exhaustion]]"
+  - "[[Opportunists]]"
 related_theories:
   - "[[Theory of Gradual Institutional Change]]"
 related_methods:
   - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
+  - "[[Argument_Streeck_Thelen_2005_OUP]]"
 confidence: high
 status: draft
 created: 2026-10-11
@@ -132,7 +134,7 @@ updated: 2026-10-11
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2004年–2005年 — 施特雷克与希伦界定转换机制** 沃尔夫冈·施特雷克与凯瑟琳·希伦在比较政治经济学中提炼“转换”（Conversion）概念，用以解释德国与欧洲福利资本主义如何在法条未大改的情况下发生实质新自由主义重组。
+> - **2004年–2005年 — 施特雷克与希伦界定转换机制** [[Wolfgang Streeck|沃尔夫冈·施特雷克（Wolfgang Streeck）]]与[[Kathleen Thelen|凯瑟琳·希伦（Kathleen Thelen）]]在《超越延续性》（*Beyond Continuity*）导论中系统界定“转换”（Conversion）概念，阐明既有制度如何在成文规则未大改的前提下，因规则模糊性、行动者利益重定向或环境情境迁移而被转用于全新目标。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 26–28)]]
 > - **2009年 — 马奥尼与希伦建构类型学与机会主义者角色** 马奥尼与希伦在《解释制度变迁》中系统将转换与弱否决、高裁量权锚定，提炼出[[Opportunists|机会主义者]]（Opportunists）顺应风向的策略模式，确立了司法官僚转用的完整逻辑链条。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 17–18, 26–27)]]
 
 ---
@@ -165,5 +167,6 @@ updated: 2026-10-11
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] 提出渐进制度变迁理论，界定制度转换在弱否决与高裁量权语境下的生成机制与机会主义者策略逻辑。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 首次系统界定转换机制，阐明行动者如何利用规则模糊性与情境变迁将既有制度转用于全新目标。（pp. 26–28）
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 提出渐进制度变迁理论，界定制度转换在弱否决与高裁量权语境下的生成机制与机会主义者策略逻辑。
 

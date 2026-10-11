@@ -7,7 +7,7 @@ aliases:
 summary: "历史制度主义与公共政策分析中的渐进制度变迁核心机制；指正式制度规则在文本层面保持不变，但在外部社会、经济或人口环境发生显著变迁时，由于关键行动者或否决玩家主动疏于维护、更新与修正规约参数，导致制度实际规制效力、保护覆盖面或利益分配后果发生实质性衰变与侵蚀的演进过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Institutional Layering]]"
   - "[[Institutional Conversion]]"
   - "[[Institutional Displacement]]"
+  - "[[Institutional Exhaustion]]"
   - "[[Symbionts]]"
 related_theories:
   - "[[Theory of Gradual Institutional Change]]"
@@ -27,6 +28,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
+  - "[[Argument_Streeck_Thelen_2005_OUP]]"
 confidence: high
 status: draft
 created: 2026-10-11
@@ -134,7 +136,7 @@ updated: 2026-10-11
 
 > [!dev-timeline] 概念演变
 > - **2004年–2005年 — 哈克奠定制度漂移理论雏形** 雅各布·哈克（Jacob S. Hacker）在分析美国福利国家私有化时首次系统提出“政策漂移”（Policy Drift），批判传统观点将福利收缩仅归因于直接削减立法的偏误，指出不更新规则是更隐蔽且强大的侵蚀机制。
-> - **2005年 — 纳入历史制度主义四分变迁体系** 施特雷克与希伦在《制度变迁的超越》中将漂移与置换、层叠、转换并列，确立其作为历史制度主义核心机制的理论地位。
+> - **2005年 — 纳入历史制度主义形态学** [[Wolfgang Streeck|沃尔夫冈·施特雷克（Wolfgang Streeck）]]与[[Kathleen Thelen|凯瑟琳·希伦（Kathleen Thelen）]]在《超越延续性》（*Beyond Continuity*）导论中将漂移与置换、层叠、转换、[[Institutional Exhaustion|耗竭]]并列，明确指认制度需要积极维护，刻意疏于维护将导致规则与社会现实发生结构性脱节。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 24–26)]]
 > - **2009年 — 马奥尼与希伦完成因果建模与行动者界定** 马奥尼与希伦在《解释制度变迁》中明确漂移与强否决、高裁量的因果对应关系，提炼寄生型共生者（Parasitic Symbionts）在阻挠规则更新中的关键作用。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 17, 24–25)]]
 
 ---
@@ -172,5 +174,6 @@ updated: 2026-10-11
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] 提出渐进制度变迁理论，界定制度漂移在强否决与高裁量权语境下的生成机制与共生者行动逻辑。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 首次系统界定漂移机制，分析刻意疏于维护如何导致正式规则与现实世界发生脱节并引发实质侵蚀。（pp. 24–26）
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 提出渐进制度变迁理论，界定制度漂移在强否决与高裁量权语境下的生成机制与共生者行动逻辑。
 

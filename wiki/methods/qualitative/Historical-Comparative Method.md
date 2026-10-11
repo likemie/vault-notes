@@ -278,4 +278,5 @@ updated: 2026-10-11
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 运用历史制度分析与跨部门比较，剖析战后美国半导体与计算机产业中联邦资助、采购合同与[[Disciplinary Institutionalization|学科建制]]协同机制，评判[[Innovation Policy Paradigms|创新政策范式]]边界。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]] — 运用历史制度与跨国比较方法，梳理战后美国国防研发投资与采购对半导体及计算机产业的催化作用及其向商业市场的逆向溢出规律。
 > - [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] — 运用历史比较法对照 1980 年代美日贸易摩擦与当代中美科技竞争，揭示[[Vertical Disintegration|纵向离散]]如何重塑[[Modern Industrial Policy|现代产业政策]]工具与地缘安全边界。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 运用历史比较分析与跨国经验案例考据，打破间断均衡范式，系统建构现代资本主义政治经济体制中渐进制度变迁的五类形态学。
 

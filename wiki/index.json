@@ -9247,6 +9247,17 @@
     ]
   },
   {
+    "title": "Institutional Exhaustion",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Institutional Exhaustion.md",
+    "aliases": [
+      "制度耗竭",
+      "制度枯竭",
+      "制度衰竭",
+      "exhaustion"
+    ]
+  },
+  {
     "title": "Institutional Layering",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Institutional Layering.md",
@@ -36364,6 +36375,11 @@
     "title": "Argument_UIDP_2012_PartnershipContinuum",
     "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/Argument_UIDP_2012_PartnershipContinuum.md"
+  },
+  {
+    "title": "Argument_Streeck_Thelen_2005_OUP",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/Argument_Streeck_Thelen_2005_OUP.md"
   },
   {
     "title": "研究地图",

@@ -8,7 +8,7 @@ aliases:
 summary: "历史制度主义核心理论，由马奥尼与希伦系统建构；主张制度本质上是具有分配性权力后果的安排，将遵从与执行视为核心解释变量；通过政治环境否决可能性与制度解释裁量权两个维度，系统解释置换、层叠、漂移与转换四类内生渐进演进模式及四类微观变革行动者策略。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 24
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Rule Ambiguity]]"
   - "[[Strategic Compliance]]"
   - "[[Baptist-Bootlegger Coalition]]"
+  - "[[Institutional Exhaustion]]"
 related_theories:
   - "[[Historical Institutionalism]]"
 related_methods: []
@@ -45,6 +46,7 @@ related_persons:
   - "[[George Tsebelis]]"
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
+  - "[[Argument_Streeck_Thelen_2005_OUP]]"
   - "[[Argument_VanDerHeijden_2011_Politics]]"
 confidence: high
 status: draft
@@ -80,7 +82,7 @@ updated: 2026-10-11
 ### 后续修订与扩展
 
 > [!dev-timeline] 理论演进与学术扩展
-> - **2005年 — 经验形态学奠基** 施特雷克与希伦在《制度变迁的超越》（*Beyond Continuity*）中首次系统提出置换、层叠、漂移与转换四类渐进变迁形态，开启[[Historical Institutionalism|历史制度主义]]内生演化转向。
+> - **2005年 — 经验形态学奠基** [[Wolfgang Streeck|沃尔夫冈·施特雷克（Wolfgang Streeck）]]与[[Kathleen Thelen|凯瑟琳·希伦（Kathleen Thelen）]]在《超越延续性》（*Beyond Continuity*）导论中打破间断均衡二元对立，系统建构置换、层叠、漂移、转换与[[Institutional Exhaustion|耗竭]]五类渐进制度变迁形态学，奠定历史制度主义内生演化转向。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 18–31)]]
 > - **2009年 — 因果建模与行动者整合** 马奥尼与希伦合著《解释制度变迁》，首次建构“否决可能性 × 执行裁量权”二维因果矩阵，并将四类变革行动者与联盟动力学引入模型，确立完整的中观解释理论。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
 > - **2010年代及以后 — 跨领域政策与比较政治应用** 范德海登（Van der Heijden, 2011）等学者将该理论框架系统引入规制治理、公共政策分析与环境治理研究，检验微观裁量权与宏观制度演进的桥接效度。
 
@@ -96,6 +98,7 @@ updated: 2026-10-11
 > | **[[Institutional Layering\|制度层叠]]** | 变迁形态 | 刻画在不触动旧核心框架前提下，通过向顶端附加新规则边际改变制度规约方式的机制。 |
 > | **[[Institutional Drift\|制度漂移]]** | 变迁形态 | 刻画规则文本形式冻结，但面对外部环境变迁因行动者策略性不作为导致保护效能衰退的机制。 |
 > | **[[Institutional Conversion\|制度转换]]** | 变迁形态 | 刻画规则形式保持不变，行动者策略性利用模糊性将其转用于全新政策目标的机制。 |
+> | **[[Institutional Exhaustion\|制度耗竭]]** | 变迁形态 | 刻画制度正常运作持续耗竭外部支撑资源、遭遇增长极限导致逐步萎缩消亡的内生机制。 |
 > | **[[Veto Possibilities|否决可能性]]（Veto Possibilities）** | 解释变量 | 衡量政治环境中维持现状阵营阻挠正式修法与政策更新的制度化权力阻力（源自[[George Tsebelis|茨贝利斯]]否决者模型）。 |
 > | **[[Enforcement Discretion|解释与执行裁量权]]（Discretion）** | 解释变量 | 衡量成文规约在日常司法判决与行政执法过程中留给执行主体的操作空间。 |
 > | **变革行动者四分类（Change Agents）** | 微观机制 | 提炼[[Insurrectionaries|起义者]]、[[Subversives|颠覆者]]、[[Symbionts|共生者]]与[[Opportunists|机会主义者]]四类微观策略角色，桥接结构与能动性。 |
@@ -187,6 +190,7 @@ updated: 2026-10-11
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] 提出渐进制度变迁理论，系统建构置换、层叠、漂移与转换四类演化模式及行动者微观博弈矩阵。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 突破间断均衡范式，系统建构置换、层叠、漂移、转换与耗竭五类渐进制度变迁形态学。（pp. 18–31）
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 提出渐进制度变迁理论，系统建构置换、层叠、漂移与转换四类演化模式及行动者微观博弈矩阵。
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] 系统检验制度层叠在 60 年期刊文献中的演变脉络，反思当代经验研究混淆渐进变迁与制度再生产的概念边界。
 
