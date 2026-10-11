@@ -42,10 +42,12 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[State Educational Sovereignty]]"
   - "[[Teaching Assistant]]"
+  - "[[Critique of PISA]]"
   - "[[Academic Achievement]]"
   - "[[Class Size]]"
   - "[[Grandes Ecoles]]"
   - "[[Global Universities Rankings]]"
+  - "[[Research Scope]]"
 related_methods:
   - "[[Comparative Policy Analysis]]"
   - "[[Historical-Comparative Method]]"
@@ -103,7 +105,7 @@ updated: 2026-10-11
 > |---|---|
 > | **历史制度主义与政策文献分析**<br>[[Historical-Comparative Method]] | 纵向梳理西班牙自 18 世纪启蒙运动、1813 年金塔纳报告、1857 年莫亚诺法案，直至 1970 年《[[General Act of Education of 1970\|普通教育法]]》（General Act of Education, LGE）、1990 年《[[Organic Law on the General Organization of the Education System 1990\|教育体制总组织法]]》（Organic Law on the General Organization of the Education System, LOGSE）与 2006 年《[[Organic Law on Education 2006\|教育组织法]]》（Organic Law on Education, LOE）的法定文本演进与政治争论。（pp. 322–325） |
 > | **跨国比较政策分析**<br>[[Comparative Policy Analysis]] | 横向比对英国（地方教育当局与中央教育部）、美国（州自主与联邦教育部）、德国（各州文化部长联席会议与联邦介入）、法国与意大利（行政职能外派）、比利时（语言社区分裂）以及北欧国家（市镇地方化）的行政分权与综合学制实践。（pp. 326–328） |
-> | **宏观评估数据与指标批判**<br>[[Secondary Analysis\|二次分析]] | 整合西班牙国家教育质量与评估研究所（National Institute for Quality and Evaluation, INCE）历年数据、经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）国际学生评估项目（Programme for International Student Assessment, [[PISA]]，2000 与 2003 年）学业表现、留级率、教师身心健康调查以及欧盟伊拉斯谟计划（[[Erasmus Programme]]）流动数据。（pp. 331–333） |
+> | **宏观评估数据与指标批判**<br>[[Secondary Analysis\|二次分析]] | 整合西班牙国家教育质量与评估研究所（National Institute for Quality and Evaluation, INCE）历年数据、经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）国际学生评估项目（Programme for International Student Assessment, [[PISA]]，2000 与 2003 年）学业表现、留级率、教师身心健康调查以及欧盟伊拉斯谟计划（[[Erasmus Programme]]）流动数据，展开对超国家量化评估局限的实证对质（参见 [[Critique of PISA\|对 PISA 的批判]]）。（pp. 331–333） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -291,7 +293,7 @@ updated: 2026-10-11
 
 ## 自述局限
 
-> [!warning] 原文自述局限与研究边界（p. 321）
+> [!warning] 原文自述局限与[[Research Scope|研究边界]]（p. 321）
 > - **批判视角的自省定位** 分析重点聚焦于西班牙教育体系的结构性缺陷与深层困境，带有强烈的批判与反省色彩；相关分析主要取材自专著《教育机器》（*La máquina de la educación*），在完整论述中这些批评曾与体系的正面成就相对照。
 > - **篇幅限制带来的议题取舍** 篇幅限制导致论述无法涵盖西班牙教育的全部领域，而是重点剖析历史演进、宏观政治行政与突出质量缺陷三个核心维度。
 > - **超国家共同教育政策性质的学理争议** 欧洲联盟在教育领域究竟只是成员国主权的松散集合，还是正在形成实质性的超国家共同政策，学界尚存理论争议；立论主要遵循现实主义国家主权视角。

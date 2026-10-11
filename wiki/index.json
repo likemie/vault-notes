@@ -613,6 +613,16 @@
     ]
   },
   {
+    "title": "Critique of PISA",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Critique of PISA.md",
+    "aliases": [
+      "国际学生评估项目学术反思",
+      "经合组织测评争议",
+      "国际大规模评估批判"
+    ]
+  },
+  {
     "title": "Cross-National Attraction",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Cross-National Attraction.md",
@@ -2148,6 +2158,16 @@
       "norm-referenced assessment",
       "Norm-Referenced",
       "NRT"
+    ]
+  },
+  {
+    "title": "PISA Scientific Literacy",
+    "type": "concept",
+    "path": "wiki/concepts/competency-and-assessment/PISA Scientific Literacy.md",
+    "aliases": [
+      "国际学生评估项目科学素养测评",
+      "PISA science literacy",
+      "经合组织科学素养测评框架"
     ]
   },
   {
