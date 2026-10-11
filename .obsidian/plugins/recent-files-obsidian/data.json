@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Garcia_Garrido_2009_SpainEU",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md"
+    },
+    {
       "basename": "PISA",
       "path": "wiki/facts/global/PISA.md"
     },
     {
-      "basename": "Argument_Garcia_Garrido_2009_SpainEU",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md"
+      "basename": "Argument_Li_2025_HSSC",
+      "path": "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md"
     },
     {
       "basename": "Scientific Literacy",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Mattheou_2009_ScientificParadigm",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md"
-    },
-    {
-      "basename": "Argument_Kazamias_2009_ForgottenThemes",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md"
     }
   ],
   "omittedPaths": [],

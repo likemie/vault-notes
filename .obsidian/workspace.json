@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/facts/global/PISA.md",
+                "file": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "PISA"
+              "title": "Argument_Garcia_Garrido_2009_SpainEU"
             }
           }
         ],
@@ -272,29 +272,30 @@
   },
   "active": "9fa9dc0454e1193e",
   "lastOpenFiles": [
+    "output/市级课题 重写理论:重新引用:重新排版.docx",
+    "output/市级课题 整理优化.docx",
+    "output/市级课题 优化.docx",
+    "output/~$课题5.13(补图).docx",
+    "wiki/facts/global/PISA.md",
+    "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md",
+    "tmp/render_check/s513-113.png",
+    "tmp/render_check/s513-040.png",
+    "tmp/render_check/v513.pdf",
+    "tmp/render_check/lu4458fig.tmp",
+    "tmp/render_check/v513.docx",
+    "output/市级课题5.13(补图).docx",
+    "tmp/render_check/img/s_fig311.png",
+    "tmp/render_check/img/s_248d6900.png",
+    "tmp/render_check/img/fig311.png",
+    "tmp/render_check/img/ed7e1b7d.png",
+    "tmp/render_check/img/5dd10b0d.png",
+    "tmp/render_check/img/248d6900.png",
+    "tmp/render_check/img",
     "output/~$课题5.12(摘要润色).docx",
     "output/市级课题5.12(摘要润色).docx",
-    "output/市级课题5.11(摘要).docx",
-    "output/~$课题5.9(排版).docx",
-    "output/~$课题5.10(摘要精炼).docx",
-    "output/市级课题5.10(摘要精炼).docx",
-    "output/~$课题5.8(标题调整).docx",
     "tmp/render_check/r59-017.png",
     "tmp/render_check/r59-003.png",
-    "tmp/render_check/lu454ote1.tmp",
-    "tmp/render_check/q59-182.png",
-    "tmp/render_check/q59-169.png",
-    "tmp/render_check/q59-099.png",
-    "tmp/render_check/q59-049.png",
-    "tmp/render_check/q59-003.png",
-    "tmp/render_check/v59.pdf",
-    "tmp/render_check/lu454muk9.tmp",
-    "tmp/render_check/v59.docx",
     "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md",
-    "wiki/facts/global/PISA.md",
-    "tmp/render_check/p58-097.png",
-    "tmp/render_check/p57-031.png",
-    "tmp/render_check/p57-030.png",
     "wiki/concepts/comparative-education/Critique of PISA.md",
     "wiki/concepts/competency-and-assessment/PISA Scientific Literacy.md",
     "wiki/concepts/competency-and-assessment/Scientific Literacy.md",
@@ -316,7 +317,6 @@
     "wiki/concepts/political-economy-geopolitics/Liberalization.md",
     "wiki/concepts/political-economy-geopolitics/Institutional Complementarity.md",
     "wiki/concepts/political-economy-geopolitics/Rule Enactment.md",
-    "wiki/concepts/political-economy-geopolitics/Social Regime.md",
-    "wiki/persons/us/Jacob S. Hacker.md"
+    "wiki/concepts/political-economy-geopolitics/Social Regime.md"
   ]
 }
