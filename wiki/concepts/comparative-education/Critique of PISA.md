@@ -7,10 +7,10 @@ aliases:
 summary: "对经合组织国际学生评估项目（PISA）的系统性学术反思与理论批判，涵盖构念有效性质疑、新自由主义数字治理批判、比较教育学科认识论侵蚀、高分低趣悖论及跨文化测量偏差。"
 type: concept
 domain: "comparative-education"
-related_count: 32
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 42
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - pisa
   - critique/pisa

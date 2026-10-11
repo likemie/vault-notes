@@ -7,10 +7,10 @@ aliases:
 summary: "OECD 国际学生评估项目（PISA）确立的面向全体未来公民的科学胜任力评价框架，强调在真实个人、社会与全球情境中解释科学现象、评估探究设计与审视数据证据。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 22
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 37
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - pisa
   - scientific-literacy

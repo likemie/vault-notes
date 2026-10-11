@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 94
+fact_related_count: 87
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -25,26 +25,27 @@ related_concepts:
   - "[[Construct]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Scientific Literacy]]"
+  - "[[PISA Scientific Literacy]]"
   - "[[Creativity]]"
   - "[[Discourse]]"
   - "[[Transfer Translation Transformation]]"
   - "[[PISA Literacy]]"
   - "[[Governing by Numbers]]"
   - "[[Epistemology]]"
+  - "[[Critique of PISA]]"
   - "[[PISA Shock]]"
-  - "[[International Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Paradigm]]"
   - "[[Reference Society]]"
-  - "[[Scientific Explanation]]"
-  - "[[Nature of Science]]"
-  - "[[Big Science]]"
-  - "[[PISA Scientific Literacy]]"
+  - "[[Going Native]]"
+  - "[[Problem Solving]]"
   - "[[Variable]]"
   - "[[Rashomon Effect]]"
+  - "[[International Education]]"
   - "[[Employability]]"
   - "[[Lifelong Learning]]"
   - "[[Policy Borrowing]]"
+  - "[[Nature of Science]]"
   - "[[Socioscientific Issues]]"
   - "[[Policy Entrepreneur]]"
   - "[[Evidence-Based Education]]"
@@ -60,11 +61,9 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Competitiveness]]"
-  - "[[Critique of PISA]]"
   - "[[Mediatised Governance]]"
   - "[[Falling Standards Template]]"
   - "[[Inquiry-Based Learning]]"
-  - "[[Going Native]]"
   - "[[Global Education Reform Movement]]"
   - "[[Science Capital]]"
   - "[[State Educational Sovereignty]]"
@@ -87,7 +86,6 @@ related_facts:
   - "[[OECD]]"
   - "[[IEA]]"
   - "[[Comparative Education Society in Europe]]"
-  - "[[Beyond 2000 Report]]"
   - "[[TIMSS]]"
   - "[[PIRLS]]"
   - "[[Common Core State Standards]]"
@@ -101,12 +99,13 @@ related_facts:
   - "[[Organic Law on Education 2006]]"
   - "[[Ofsted]]"
   - "[[Race to the Top]]"
+  - "[[Beyond 2000 Report]]"
 related_arguments:
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
   - "[[Argument_Zhao_2020_JEC]]"
   - "[[Argument_Mitter_2009_Europe]]"
-  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_Grey_2018_CE]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_McDonnell_2013_AJE]]"
   - "[[Argument_Dedering_2009_EERJ]]"
@@ -125,45 +124,46 @@ updated: 2026-10-11
 
 > [!guide] PISA 知识网络与子条目维护指引
 > 本条目定位为 PISA 评估体系的宏观治理枢纽与跨国反应索引。当需扩充特定细分领域的知识时，请优先丰富对应的专门子条目，保持本条目的宏观架构导览与跨国政策比较视野：
-> - **学科领域测评[[Construct|构念]]** 各学科[[21st Century Skills and Competencies Discourse|核心素养]]框架独立立项。[[Scientific Literacy|科学素养]]测评框架、认知模型与实证争议详见 PISA 科学素养；阅读素养、数学素养与创新模块（如财经素养、[[Creativity|创造性思维]]）在积累充实时建立独立子条目；国家层面的素养[[Discourse|话语]][[Transfer Translation Transformation|转译]]见 [[PISA Literacy]]。
-> - **方法论争议与批判性反思** 关于构念有效性、新自由主义[[Governing by Numbers|数字治理]]、比较教育学科[[Epistemology|认识论]]侵蚀、测量偏差及本土政治曲解等系统反思，详见专条 对 PISA 的批判；著名学界抗议事件见 [[2014 Open Letter on PISA]]。
+> - **学科领域测评[[Construct|构念]]** 各学科[[21st Century Skills and Competencies Discourse|核心素养]]框架独立立项。[[Scientific Literacy|科学素养]]测评框架、认知模型与实证争议详见专门条目 [[PISA Scientific Literacy]]；阅读素养、数学素养与创新模块（如财经素养、[[Creativity|创造性思维]]）在积累充实时建立独立子条目；国家层面的素养[[Discourse|话语]][[Transfer Translation Transformation|转译]]见 [[PISA Literacy]]。
+> - **方法论争议与批判性反思** 关于构念有效性、新自由主义[[Governing by Numbers|数字治理]]、比较教育学科[[Epistemology|认识论]]侵蚀、测量偏差及本土政治曲解等系统反思，详见专门条目 [[Critique of PISA]]；著名学界抗议事件见 [[2014 Open Letter on PISA]]。
 > - **政策冲击与衍生工具体系** 各国内部危机动员机制详见 [[PISA Shock]]；评估对教育政策的系统重构机制见 [[Three-Level Mechanism Model of PISA's Impact on Education Policy]]；产品线衍生项目详见早期儿童测评 [[Baby PISA]]、中低收入国家测评 [[PISA for Development|PISA-D]] 以及成人劳动力测评 [[Programme for the International Assessment of Adult Competencies|PIAAC]]。
 
 ---
 
-## 背景
+## 项目背景与立项契机
 
-> [!event-context] 事件背景
-> - **时间 / 地点** 1995 年由[[OECD|经济合作与发展组织]]（[[OECD]]）提出，1997 年正式启动开发，2000 年首轮实施；每三年一轮，已扩展至全球 90 多个国家和经济体。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 6–8)]]
-> - **关键主体** [[OECD]]（发起与运营主体）、参与国教育部与考试评估机构、[[International Education|国际教育]]研究网络、跨国政策智库。
-> - **制度背景** 1990 年代[[Knowledge-Based Economy|知识经济]]崛起，OECD 致力于为成员国提供衡量[[Human Capital Theory|人力资本]]质量、评估教育投入产出效能的共同语言与跨国可比标准；PISA 摆脱了传统课程记忆测验的局限，专注于测量 15 岁学生在现实生活与未来社会中应用知识的关键素养。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]] 值得注意的是，PISA 以及早期的 [[IEA]] 等跨国大规模测试体系，在其制度演进上整体脱胎并扩展于欧洲传统大学比较教育学社网络（如[[Comparative Education Society in Europe|欧洲比较教育学会]]，CESE）之外，仅有少数桥梁学者参与，主要由心理测量学家与超国家技术官僚主导推进。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 94)]]
-> - **理论奠基与触发** 科学教育领域 1998 年《[[Beyond 2000 Report|Beyond 2000]] 报告》（Millar & Osborne）提出的“面向全体公民的[[Scientific Literacy|科学素养]]”理念，直接奠定了 PISA 科学素养测评框架的理论底座。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
+> [!claim] 项目定位
+> 国际学生评估项目（PISA）是由[[OECD|经济合作与发展组织]]（OECD）发起并常设运营的全球最大规模跨国学生能力评估工程，通过周期性评估 15 岁学生在真实生活情境中应用阅读、数学与科学知识的关键素养，确立跨国教育质量与[[Human Capital Theory|人力资本]]监控的国际基准。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 6–8)]]
+
+> [!program-context] 宏观制度背景与核心诉求
+> - **时间跨度与周期** 1995 年由 [[OECD]] 提出构想，1997 年正式启动开发，2000 年首轮实施；每三年为一个评估周期，已扩展至全球 90 多个国家和经济体。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 6–8)]]
+> - **发起方与治理中枢** [[OECD]] 教育与技能司（Directorate for Education and Skills）统筹监管，联合成员国教育部、考试测量机构与跨国学术研究财团协同执行。
+> - **制度背景与时代契机** 1990 年代[[Knowledge-Based Economy|知识经济]]崛起，OECD 致力于为成员国提供衡量人力资本质量、评估公共教育投入产出效能的共同指标语言；PISA 摆脱了传统学科课程记忆测验的局限，专注于测量 15 岁学生在完成义务教育阶段时面向未来社会生活应用知识的关键素养。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
+> - **学术网络演进特征** PISA 以及早期的 [[IEA]] 等跨国大规模测试体系，在其制度演进上整体脱胎并扩展于欧洲传统大学比较教育学社网络（如[[Comparative Education Society in Europe|欧洲比较教育学会]]，CESE）之外，主要由心理测量学家、计量学者与超国家技术官僚主导推进。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 94)]]
 
 ---
 
-## 经过与发展演进
+## 推进历程与阶段演进
 
-> [!dev-timeline] 发展历程与科学测评框架迭代（1995–2025+）
+> [!dev-timeline] 全球推进历程与测评轮次演进（1995–2025+）
 > - **1995–2000 — 构想奠基与公民素养[[Paradigm|范式]]确立**
->   - 1995 年 [[OECD]] 构想超越 [[IEA]] 传统课程测验的评估方案，吸纳《[[Beyond 2000 Report|Beyond 2000]]》原则；2000 年首轮测评（32 个经济体），阅读为主测，正式确立应用导向的素养评价范式。
-> - **2000–2009 — PISA 冲击、科学首轮主测与全球扩散**
->   - PISA 2000 结果发布触发德国著名的“PISA 冲击”，芬兰成为全球[[Reference Society|参考社会]]；
->   - **PISA 2006（首个科学主测年）** 正式确立[[Scientific Literacy|科学素养]]三大核心能力（识别科学议题、[[Scientific Explanation|科学解释]]现象、使用科学证据），强调在真实个人、社会与全球情境中考查[[Nature of Science|科学本质]]。
-> - **2009–2018 — 上海崛起、计算机化交互探究与产品线扩张**
->   - PISA 2009 上海（中国）拔得头筹，引发欧美“新卫星冲击”讨论；参与系统增至 70+ 个；
->   - **PISA 2015（第二个科学主测年）** 全面推行计算机化测评（[[Cost-Benefit Analysis|CBA]]），引入交互式模拟实验（Simulations），将能力框架升级为“解释现象、评估与设计探究、解释数据与证据”三[[Big Science|大科学]]胜任力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
-> - **2018–2025+ — 不确定世界中的科学探究与全球治理深化**
->   - 扩展至 90+ 经济体；**PISA 2025（最新科学框架）** 进一步聚焦“在不确定世界中的科学探究（Science in an uncertain world）”，新增环境决策、气候模型审视、数字信息生态验证与 AI 算法不确定性评估。
+>   - 1995 年 [[OECD]] 构想超越 [[IEA]] 传统课程测验的评估方案，确立面向未来现实生活的应用导向素养范式；2000 年首轮测评（32 个经济体），阅读为主测领域。
+> - **2001–2009 — PISA 冲击、三大基础领域轮换与全球扩散**
+>   - PISA 2000 结果发布触发德国著名的“PISA 冲击”，芬兰成为全球[[Reference Society|参考社会]]；2003 年数学为主测，2006 年科学为主测，正式确立阅读、数学、科学三年轮换主测的经典机制。
+> - **2009–2018 — 东亚体系崛起、计算机化交互评估与产品线扩张**
+>   - PISA 2009 上海（中国）拔得头筹，引发欧美“新卫星冲击”讨论；2012 年数学为主测并首度引入财经素养；2015 年科学为主测，全面转向计算机化测评（[[Cost-Benefit Analysis|CBA]]）并引入模拟实验探究；2018 年阅读为主测并新增全球胜任力模块，参测系统增至 79 个。
+> - **2018–2025+ — 后疫情时代治理深化与不确定性应对**
+>   - 参测范围覆盖 90+ 经济体；2022 年（延期一年）数学为主测并新增[[Creativity|创造性思维]]评估；2025 年最新轮次聚焦不确定世界中的探究决策、数字信息生态与算法不确定性审视。
 
 ---
 
-## 科学素养测评构念与理论溯源
+## 测评领域与核心素养构念体系
 
-> [!tip] 专门子条目导览
-> PISA [[Scientific Literacy|科学素养]]的完整认知框架、三维知识模型（内容、程序性、[[Epistemology|认识论]]）、历次框架演化矩阵（PISA 2006、2015、2025）、核心命题、教学黄金点解构与前沿争鸣，详见专条：**[[PISA Scientific Literacy]]**。
-
-> [!concept-lens] 科学素养的认识论[[Paradigm|范式]]转向
-> PISA 科学素养[[Construct|构念]]打破了“科学教育仅为大学培养少数未来科研人员”的精英模式，确立了“科学教育必须面向所有未来公民的明智决策与证据评估”的普惠范式（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society, 2026, pp. 30–31]]）。其测评体系经历了从 PISA 2006（初版三能力与生活情境应用）、PISA 2015（计算机化模拟实验与探究设计）到 PISA 2025（应对气候危机、虚假信息与算法不确定性评估）的三代迭代演进。
+> [!dimension] 核心学科领域与创新测评[[Construct|构念]]
+> - **阅读素养（Reading Literacy）** PISA 2000 年首轮以及 2009 年、2018 年的主测领域。测评聚焦学生理解、使用、评估、反思多源文本并参与阅读以实现个人目标、拓展潜能和融入社会的能力；国家政策层面的[[Going Native|本土化]]学力重构详见专门条目：[[PISA Literacy]]。
+> - **数学素养（Mathematical Literacy）** 2003 年、2012 年、2022 年的主测领域。考查个体在各种现实生活情境中将问题转化为数学表征、运用数学概念推理并解释数学解的能力，强调数学在现代社会决策中的实际效用。
+> - **[[Scientific Literacy|科学素养]]（Scientific Literacy）** 2006 年、2015 年、2025 年的主测领域。确立面向全体未来公民的普惠科学胜任力基准（解释科学现象、评估与设计探究、解释数据与证据）。**完整三维知识模型、认知框架演化矩阵与教学论论辩详见专门条目：[[PISA Scientific Literacy]]**。
+> - **交叉与前沿创新模块（Innovative Domains）** 随轮次迭代动态增设的跨学科素养：涵盖 2003 与 2012 年的[[Problem Solving|问题解决]]、2015 年的协作问题解决、2012 年起选测的金融与财经素养、2018 年的全球胜任力、2022 年的[[Creativity|创造性思维]]以及 2025 年的数字世界学习，展现出 PISA 持续拓展国际测评边界的[[Discourse|话语]]机制。
 
 ---
 
@@ -232,10 +232,10 @@ updated: 2026-10-11
 
 ---
 
-## 实证悖论与批判性学术反思
+## 争议、局限与学理反思
 
 > [!tip] 专门子条目导览
-> 关于学术界对 PISA [[Construct|构念]]虚构、新自由主义[[Governing by Numbers|数字治理]]、比较教育学科[[Epistemology|认识论]]侵蚀、高分低趣悖论、测量学 DIF 偏差及本土政治[[Rashomon Effect|罗生门效应]]的系统性理论批判与命题展开，详见专条：**对 PISA 的批判**。学界公开抗议行动详见：**[[2014 Open Letter on PISA]]**。
+> 关于学术界对 PISA [[Construct|构念]]虚构、新自由主义[[Governing by Numbers|数字治理]]、比较教育学科[[Epistemology|认识论]]侵蚀、高分低趣悖论、测量学 DIF 偏差及本土政治[[Rashomon Effect|罗生门效应]]的系统性理论批判与命题展开，详见专门条目：**[[Critique of PISA]]**。学界公开抗议行动详见：**[[2014 Open Letter on PISA]]**。
 
 > [!actor-grid] 多元评论视角
 > - **[[OECD]] 官方倡导视角** 将 PISA 定位为客观中立的跨国诊断镜鉴，强调数据驱动决策、促进教育质量与社会流动。
@@ -252,7 +252,7 @@ updated: 2026-10-11
 
 ---
 
-## 相关条目
+## 相关条目网络
 
 > [!entry-map]
 >

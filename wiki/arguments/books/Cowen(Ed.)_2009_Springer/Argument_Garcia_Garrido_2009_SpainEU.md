@@ -7,7 +7,7 @@ title: "Argument_Garcia_Garrido_2009_SpainEU"
 argument_key: "Argument_Garcia_Garrido_2009_SpainEU"
 argument_display_title: "The European Union and Education in Spain"
 argument_kind: "book-chapter"
-argument_related_count: 21
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
