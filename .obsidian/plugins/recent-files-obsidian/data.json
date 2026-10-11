@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Governance/Argument_Kickert_1995_Governance.md"
     },
     {
+      "basename": "Red Tape",
+      "path": "wiki/concepts/political-economy-geopolitics/Red Tape.md"
+    },
+    {
       "basename": "A Nation at Risk 1983",
       "path": "wiki/facts/us/A Nation at Risk 1983.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Nomadic Education",
       "path": "wiki/concepts/comparative-education/Nomadic Education.md"
-    },
-    {
-      "basename": "Traveller Education",
-      "path": "wiki/concepts/comparative-education/Traveller Education.md"
     }
   ],
   "omittedPaths": [],

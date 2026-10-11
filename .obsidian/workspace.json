@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " distance",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -273,9 +273,10 @@
   },
   "active": "9fa9dc0454e1193e",
   "lastOpenFiles": [
+    "wiki/concepts/political-economy-geopolitics/Red Tape.md",
+    "wiki/arguments/journal-articles/Governance/Argument_Kickert_1995_Governance.md",
     "wiki/facts/us/A Nation at Risk 1983.md",
     "wiki/theories/political-economy-geopolitics/Governing at a Distance.md",
-    "wiki/arguments/journal-articles/Governance/Argument_Kickert_1995_Governance.md",
     "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md",
     "wiki/facts/netherlands/Higher Education Autonomy and Quality.md",
     "sources/Kickert_1995_Governance/figures/Kickert_1995_Governance_Fig1_Development_of_Steering.jpg",
@@ -309,7 +310,6 @@
     "wiki/concepts/comparative-education/PISA Shock.md",
     "wiki/concepts/comparative-education/State Educational Sovereignty.md",
     "wiki/facts/france/Loi Fillon 2005.md",
-    "wiki/facts/japan/PISA Shock in Japan.md",
     "tmp/render_check/s513-113.png",
     "tmp/render_check/s513-040.png",
     "tmp/render_check/img/s_fig311.png",

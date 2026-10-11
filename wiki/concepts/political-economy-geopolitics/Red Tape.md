@@ -8,7 +8,7 @@ aliases:
 summary: "指公共机构与大型组织中那些脱离实质目标、将繁琐程序合规、形式审查与道德虔敬绝对化，进而诱发规避问责博弈、扼杀敏捷创新、阻断顶尖人才流入并导致严重行政效率损失的官僚规章制度体系。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 30
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -29,7 +29,9 @@ related_concepts:
   - "[[Responsible Innovation]]"
   - "[[Engineering Mindset]]"
   - "[[Edge Autonomy]]"
+  - "[[Pillarization]]"
   - "[[Attrition]]"
+  - "[[Steering at a Distance]]"
   - "[[Technological Republic]]"
   - "[[Paradigm]]"
   - "[[Constructive Disobedience]]"
@@ -42,11 +44,13 @@ related_instruments: []
 related_persons:
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
+  - "[[Walter J. M. Kickert]]"
   - "[[Kenneth Burke]]"
   - "[[John Glenn]]"
   - "[[Hyman Rickover]]"
   - "[[Lee Kuan Yew]]"
 related_facts:
+  - "[[Higher Education Autonomy and Quality]]"
   - "[[Federal Acquisition Streamlining Act of 1994]]"
   - "[[Palantir Technologies]]"
   - "[[USS Nautilus Submarine Development]]"
@@ -54,6 +58,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16]]"
+  - "[[Argument_Kickert_1995_Governance]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
 status: active
