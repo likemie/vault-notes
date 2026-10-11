@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Garcia_Garrido_2009_SpainEU",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md"
+    },
+    {
       "basename": "PISA",
       "path": "wiki/facts/global/PISA.md"
+    },
+    {
+      "basename": "Free Semester System",
+      "path": "wiki/facts/south-korea/Free Semester System.md"
+    },
+    {
+      "basename": "Canadian Education Indicators Program",
+      "path": "wiki/facts/canada/Canadian Education Indicators Program.md"
     },
     {
       "basename": "PISA Shock",
@@ -11,10 +23,6 @@
     {
       "basename": "PISA Response in Spain",
       "path": "wiki/facts/spain/PISA Response in Spain.md"
-    },
-    {
-      "basename": "Argument_Garcia_Garrido_2009_SpainEU",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md"
     },
     {
       "basename": "State Educational Sovereignty",
@@ -191,14 +199,6 @@
     {
       "basename": "Enlightenment",
       "path": "wiki/concepts/educational-philosophy/Enlightenment.md"
-    },
-    {
-      "basename": "No Child Left Behind Act 2001",
-      "path": "wiki/facts/us/No Child Left Behind Act 2001.md"
-    },
-    {
-      "basename": "Comparative Policy Analysis",
-      "path": "wiki/methods/qualitative/Comparative Policy Analysis.md"
     }
   ],
   "omittedPaths": [],
