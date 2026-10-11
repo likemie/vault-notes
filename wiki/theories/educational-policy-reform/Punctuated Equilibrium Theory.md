@@ -12,7 +12,7 @@ aliases:
 summary: "弗兰克·R·鲍姆加特纳与布莱恩·D·琼斯于1993年提出的公共政策变迁经典理论；指出大多数公共政策在绝大多数时期处于由专属制度场所与正面政策形象构筑的政策垄断稳态之中，但当政策企业家通过重构政策形象并开展制度场所转换时，长期惰性稳态将在短时间内发生断裂式剧变。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 42
+theory_related_count: 47
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Policy Image]]"
   - "[[Venue Shopping]]"
-  - "[[Industry Affiliate Program]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Market Failure]]"
@@ -47,7 +46,9 @@ related_concepts:
 related_theories:
   - "[[Bounded Rationality]]"
   - "[[Complexity Theory]]"
+  - "[[Theory of Gradual Institutional Change]]"
   - "[[Path Dependence]]"
+  - "[[Historical Institutionalism]]"
   - "[[Multiple Streams Framework]]"
   - "[[Six-Stage Model of Policymaking]]"
 related_methods:
@@ -58,6 +59,8 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Herbert A. Simon]]"
+  - "[[Wolfgang Streeck]]"
+  - "[[Kathleen Thelen]]"
   - "[[Jeroen van der Heijden]]"
 related_facts:
   - "[[Common Core State Standards]]"
@@ -69,8 +72,10 @@ related_facts:
   - "[[American Federation of Teachers]]"
 related_arguments:
   - "[[Argument_McDonnell_2013_AJE]]"
+  - "[[Argument_Streeck_Thelen_2005_OUP]]"
   - "[[Argument_VanDerHeijden_2011_Politics]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
+  - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
 confidence: high
 status: active
 created: 2026-09-26
@@ -87,7 +92,7 @@ updated: 2026-10-11
 > - **解释对象** 公共政策制定系统中长期制度惯性、渐进微调与短期剧烈变革（间断突变）并存的双重动力学机制。
 > - **理论问题** 传统公共选择与渐进主义模型（Incrementalism）假定政策演化始终呈现边际性小步慢跑，无法合理解释为何政策体系会在经历数十年停滞后突然爆发系统性重构。
 > - **理论类型** 政策议程设置与宏观制度变迁解释框架。
-> - **知识位置** 政治学政策过程理论（Policy Process Theories）三大经典支柱之一（与多流模型、倡导联盟框架并列），融合了[[Bounded Rationality|有限理性]]、注意力分配与[[Complexity Theory|复杂适应系统]]视角。
+> - **知识位置** 政治学政策过程理论（Policy Process Theories）三大经典支柱之一（与多流模型、倡导联盟框架并列），融合了[[Bounded Rationality|有限理性]]、注意力分配与[[Complexity Theory|复杂适应系统]]视角；在比较政治经济学与制度变迁理论脉络中，间断均衡模型构成了理解制度连续性与断裂性关系的基准靶子，与[[Theory of Gradual Institutional Change|渐进制度变迁理论]]形成直接学术对话。
 
 > [!claim] 核心判断
 > 政治体制的制度设计天然偏向维持现状，形成了由特定利益集团把守的政策垄断（Policy Monopoly）；但当外部环境变化诱发宏观注意力聚焦时，[[Policy Entrepreneur|政策企业家]]通过重塑[[Policy Image|政策形象]]（Policy Image）瓦解垄断合法性，并积极开辟新的制度场所（[[Venue Shopping|场所转换]]），原本封闭的子系统将被迅速击穿，推动政策系统由渐进稳态进入间断剧变期。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5)]]
@@ -106,7 +111,8 @@ updated: 2026-10-11
 
 > [!dev-timeline] 理论版本与贡献
 > - **1993 年 — 原初奠基** 鲍姆加特纳与琼斯系统确立政策垄断、[[Policy Image|政策形象]]与制度场所三大核心构件，解释美国国内政策子系统的稳态与破裂。
-> - **2005 年 — 跨国比较议程项目（[[Industry Affiliate Program|CAP]]）扩展** 琼斯与鲍姆加特纳等人将研究推向比较议程项目（Comparative Agendas Project, CAP），在西欧多国检验间断均衡的普遍性，证实信息处理摩擦是导致所有民主体制预算与立法呈现厚尾分布（Kurtosis）与间断跳跃的根本成因。
+> - **2005 年 — 跨国比较议程项目（CAP）扩展** 琼斯与鲍姆加特纳等人将研究推向比较议程项目（Comparative Agendas Project, CAP），在西欧多国检验间断均衡的普遍性，证实信息处理摩擦是导致所有民主体制预算与立法呈现厚尾分布（Kurtosis）与间断跳跃的根本成因。
+> - **2005 年 — 比较政治经济学的二元批判（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005]]）** [[Wolfgang Streeck|施特雷克]]与[[Kathleen Thelen|希伦]]系统审视了间断均衡模型将制度演进二元划分为静态适应与外生突变的偏误，提出过程维度（渐进与突变）与结果维度（连续与非连续）交叉的变迁矩阵，论证渐进内生演化同样能够带来根本性的系统转型，突破了间断均衡论对制度稳态的机械设定。
 > - **2011 年 — [[Epistemology|认识论]]审视与微观机制桥接** [[Jeroen van der Heijden|范德海登]]（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]]）系统反思间断均衡论缺乏客观变迁幅度与时间尺度标尺的局限，论证宏观外生危机要落地为持久制度现实必须依赖微观新行动者与新规制工具的层叠，确立分层作为弥合突变论与渐进论鸿沟的关键桥梁。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10, 16)]]
 > - **2013 年 — 教育政策生命周期应用** 洛兰·M·麦克唐奈（Lorraine M. McDonnell）与 M·斯蒂芬·韦瑟福德（M. Stephen Weatherford）将理论引入全美[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）运动研究，阐明[[Policy Entrepreneur|政策企业家]]如何在政策生命周期中将实证差距指标与两党规范价值相结合，摧毁各州分散割裂的百年政策垄断。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–10)]]
 > - **2018 年至今 — 科技与产业创新[[Paradigm|范式]]拓展** 间断均衡逻辑被广泛引入科技创新政策研究，解释二战后主流“[[Market Failure|市场失灵]]修补/研发税收减免”政策垄断如何在气候危机与地缘竞争冲击下被打破，进而间断式跃升为[[Mission-Oriented Innovation Policy|使命导向创新政策]]（Frame 3 范式）。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
@@ -187,7 +193,7 @@ updated: 2026-10-11
 > > [!axis] 突变解释与渐进演进的理论对立与机制弥合
 > > 批评者质疑间断突变是否只是表面立法现象，深层实践变革本质上依然是渐进的。
 > >
-> > - **历史制度主义批评视角** 强调制度演进具有强烈的[[Path Dependence|路径依赖]]与[[Institutional Layering|制度层叠]]特征，宏观法案突变往往伴随着底层执行机制中新旧规则的长期层叠共生；马奥尼与希伦（Mahoney & Thelen, 2009）明确批判间断均衡理论将常规历史时期矮化为无变迁的静态惰性期、过度迷信外生危机的偏误，证明渐进微调在长周期内完全足以累积引发颠覆性体制转型；[[Jeroen van der Heijden|范德海登]]（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]]）进一步指出间断均衡论缺乏变迁幅度与时间跨度的[[Operationalization|操作化]]阈值，极易陷入证实偏差，而聚焦被添加的行动者与规制工具[[Variable|变量]]能够有效沟通突变模型与渐进模型。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 4–7)]]；[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10, 16)]]
+> > - **历史制度主义与比较政治经济学批评视角** 强调制度演进具有强烈的[[Path Dependence|路径依赖]]与[[Institutional Layering|制度层叠]]特征。[[Wolfgang Streeck|施特雷克]]与[[Kathleen Thelen|希伦]]（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005]]）明确指出，间断均衡模型将制度演化简化为“平稳期适应性微调（连续性）”与“外生冲击引发崩溃替代（非连续性）”的机械二元对立，完全忽略了“过程渐进却导致非连续实质转变”的渐进转型象限；将稳态视为无政治冲突的惰性时期，遮蔽了行动者在制度执行与解释缝隙中持续进行的微观博弈。马奥尼与希伦（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009]]）进一步批判间断均衡论过度迷信外生危机的偏误，证明渐进微调在长周期内完全足以累积引发颠覆性体制转型；[[Jeroen van der Heijden|范德海登]]（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]]）则指出间断均衡论缺乏变迁幅度与时间跨度的[[Operationalization|操作化]]阈值，极易陷入证实偏差，而聚焦被添加的行动者与规制工具[[Variable|变量]]能够有效沟通突变模型与渐进模型。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 6–9)]]；[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 4–7)]]；[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10, 16)]]
 > > - **间断均衡理论辩护** 强调[[Bounded Rationality|有限理性]]导致注意力瓶颈必然呈现断裂跳跃，宏观法案与管辖权的断裂式重组重构了后续演化的游戏规则。（Baumgartner & Jones, 1993）
 >
 > > [!axis] 结构性外生危机 vs [[Policy Entrepreneur|政策企业家]]行动能动的动因之争
@@ -202,6 +208,7 @@ updated: 2026-10-11
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013)]] — 明确将间断均衡理论与政策垄断框架应用于全美[[Common Core State Standards|共同核心州立标准]]（CCSS）推进的全[[Process Tracing|过程追踪]]。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 批判间断均衡理论将制度变迁窄化为外生突变模型的比较政治经济学经典文献，提出区分变迁过程与结果维度的四象限分析框架。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 探讨[[Mission-Oriented Innovation Policy|使命导向创新政策]]如何打破传统新古典[[Market Failure|市场失灵]]垄断并重塑国家能力的代表性[[Document|文献]]。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 批判间断均衡理论将常规历史简化为静态稳态的教条，建构解释长周期累积质变的渐进演化模型。
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 评述[[Institutional Layering|制度层叠]]概念并论证其在行动者与工具[[Variable|变量]]层面弥合间断均衡与渐进演变理论分歧的分析文献。
@@ -214,6 +221,8 @@ updated: 2026-10-11
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
+> | [[Theory of Gradual Institutional Change]] | Theory | 与间断均衡理论形成直接学术对话与张力，批判其外生突变偏误并揭示内生渐进质变机制。 |
+> | [[Historical Institutionalism]] | Theory | 政治制度主义同源范式，既为间断均衡提供理论资源，又共同受到渐进制度变迁理论的检省与反思。 |
 > | [[Multiple Streams Framework]] | Theory | 另一经典政策过程理论，与间断均衡理论在[[Policy Window\|政策窗口]]、问题流与政治流动态上形成深度互补。 |
 > | [[Six-Stage Model of Policymaking]] | Theory | 提供政策生命周期的阶段分析标尺，间断均衡理论侧重解释议程设置与政策采纳阶段的突变动力学。 |
 > | [[Innovation Policy Paradigms]] | Theory | 创新政策从[[Market Failure\|市场失灵]]修补（Frame 1/2）向使命导向塑造（Frame 3）跃迁是间断均衡理论在科技政策中的生动展现。 |
@@ -225,5 +234,7 @@ updated: 2026-10-11
 > | [[Race to the Top]] | Fact (Program) | 政策倡导者开展场所转换与动员外生财政杠杆、将采纳进程急剧压缩为间断突变的核心国家工程。 |
 > | [[American Federation of Teachers]] | Fact (Organization) | 方案制定阶段行使把关权、影响政策垄断重塑的重要专业利益共同体。 |
 > | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | Argument | 明确将断裂平衡理论与政策垄断框架应用于全美 CCSS 推进全[[Process Tracing\|过程追踪]]的核心[[Document\|文献]]。 |
+> | [[Argument_Streeck_Thelen_2005_OUP\|Streeck & Thelen (2005)]] | Argument | 提出过程与结果二元变迁类型学并深刻反思断裂平衡论局限的经典导论文献。 |
 > | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | Argument | 探讨使命导向创新政策如何打破传统新古典垄断并重塑国家能力的代表性文献。 |
 > | [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]] | Argument | 评述制度层叠概念并论证其在行动者与工具变量层面弥合间断均衡与渐进演变理论分歧的分析文献。 |
+

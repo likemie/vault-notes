@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Peter A. Hall",
+      "path": "wiki/persons/us/Peter A. Hall.md"
+    },
+    {
+      "basename": "Argument_Streeck_Thelen_2005_OUP",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Streeck_Thelen_2005_OUP.md"
+    },
+    {
+      "basename": "Historical Institutionalism",
+      "path": "wiki/theories/political-economy-geopolitics/Historical Institutionalism.md"
+    },
+    {
       "basename": "Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change",
       "path": "wiki/arguments/books/Mahoney_Thelen_2009_Cambridge/Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Process Design Kit",
       "path": "wiki/concepts/university-industry-collaboration/Process Design Kit.md"
-    },
-    {
-      "basename": "Argument_NIST_2023_NSTC",
-      "path": "wiki/arguments/reports-policy-documents/Argument_NIST_2023_NSTC.md"
-    },
-    {
-      "basename": "Heterogeneous Integration",
-      "path": "wiki/concepts/science-policy/Heterogeneous Integration.md"
-    },
-    {
-      "basename": "Subcommittee on Microelectronics Leadership",
-      "path": "wiki/facts/us/Subcommittee on Microelectronics Leadership.md"
     }
   ],
   "omittedPaths": [],
