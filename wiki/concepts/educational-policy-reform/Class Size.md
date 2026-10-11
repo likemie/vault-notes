@@ -6,7 +6,7 @@ aliases:
 summary: "班级学生人数这一教育组织变量，其影响不仅取决于人数变化本身，还取决于教师质量、课堂资源和教学方式是否随之调整。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 43
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -32,7 +32,9 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Visible Learning]]"
   - "[[Material Fallacies]]"
+  - "[[School Leadership]]"
   - "[[Paradigm]]"
+  - "[[Evaluation Research]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
@@ -45,6 +47,7 @@ related_methods:
   - "[[Cost-Benefit Analysis]]"
 related_persons:
   - "[[Kathryn Anderson-Levitt]]"
+  - "[[José Luis García Garrido]]"
 related_facts:
   - "[[French Class Size Reduction]]"
   - "[[Campbell Collaboration]]"
@@ -60,13 +63,14 @@ related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
+  - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
   - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Johnson_2023_CE]]"
   - "[[Argument_Cowen_2015_CHESS]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-10-03
+updated: 2026-10-11
 ---
 
 ## 定义
@@ -211,6 +215,8 @@ updated: 2026-10-03
 
 > [!claim] Anderson-Levitt (2003, 2004; 引自 [[Argument_Arnove_2009_WorldSystems\|Arnove, 2009, pp. 108–109]])
 > 比较教育学者的跨国课堂[[Ethnography|民族志研究]]表明，班级规模效应与教学方式改变的交互作用在发展中国家面临更为极端的物质屏障。在几内亚小学阅读教学中，面对极大的班级规模（大班额）与教材严重匮乏，教师根本无法推行西方倡导的“以儿童为中心”个别化辅导或小组探究，而是被迫采取全班齐读与严厉纪律管理。这表明班额对教学方式的制约并非抽象的边际增量问题，而是受制于国家整体的经济依附与物质资源供给。
+> [!claim] [[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 331–332]]）
+> 宏观政策评估表明，小班额与低生师比等优厚投入指标无法独立挽救教育质量。西班牙公立学校在班级规模（每班学生数）、生师比、工作时间与薪酬方面均优于欧洲联盟平均水平，然而其 16 岁义务教育阶段的学业失败率却高达 33%，卓越等级学生不足 4%，教师群体更深陷空前的心理倦怠与早退潮。这表明，当体制固守均一不分流的综合课程大纲并导致学生大面积厌学与课堂纪律失范时，单纯维持较小的班级规模无法对冲结构性课程缺陷与教学组织机能的失效（pp. 331–332）。
 
 ---
 
@@ -244,6 +250,10 @@ updated: 2026-10-03
 
 > [!critique-method] 忽视发展中国家极端班额与资源匮乏
 > 现存主流班级规模实证研究与元分析大多基于欧美发达国家（如 STAR 项目将 22–25 人视为大班），但在全球南方及外围国家，班额常达 50–80 人甚至更多，且伴随教材严重短缺（Anderson-Levitt, 2003, 2004; [[Argument_Arnove_2009_WorldSystems\|Arnove, 2009, p. 109]]）。将发达国家的[[Cost-Benefit Analysis|成本效益分析]]（如 $d=0.20$ 边际效应论）简单套用于极端拥挤的大班环境，忽视了班额在发展中国家不仅是微观组织参数，更是攸关学生基础生存与基本识字可能性的刚性物质底线。
+### 投入指标优势对制度性病理的遮蔽
+
+> [!critique-logic] 数量投入指标难掩学制与权威的系统性危机
+> 政策制定者经常将较小的班级规模与优越的生师比视作教育体系健康的直接凭证。[[José Luis García Garrido|加西亚·加里多]]（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 331–332]]）对西班牙的实证分析颠覆了这一假定：西班牙公立学校在班级规模和生师比指标上显著优于欧洲联盟平均水平，却长期深陷学业失败率偏高与整体平庸的困局。这表明，当学校面临强制均一课程大纲带来的学生厌学情绪、校园纪律失范以及[[School Leadership|学校领导]]层去专业化等体制性危机时，班级规模这一投入[[Variable|变量]]极易沦为掩盖深层学制缺陷与教师心理危机的修辞遮羞布（pp. 331–332）。
 
 ---
 
@@ -280,3 +290,8 @@ updated: 2026-10-03
 
 > [!evidence-grid-a] 几内亚案例
 > - **几内亚阅读教学跨国比较案例** 安德森-莱维特（Anderson-Levitt, 2003, 2004; 引自 [[Argument_Arnove_2009_WorldSystems\|Arnove, 2009, pp. 108–109]]）对几内亚、法国与美国阅读教学的对比研究显示，几内亚小学面对极大的班额和教材匮乏，使[[UNESCO|联合国教科文组织]]等倡导的现代教学[[Paradigm|范式]]无法直接照搬，教师必须在巨大的班级规模压力下维持严格的全班纪律与机械朗读。这展示了大班额作为外围国家教育体系的结构性物质约束，深刻塑造了微观课堂的实践形态。
+
+### 西班牙
+
+> [!evidence-grid-a] 西班牙案例
+> - **投入指标优越与制度性平庸的脱节** [[José Luis García Garrido|加西亚·加里多]]（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 331–332]]）基于西班牙国家教育[[Evaluation Research|评估研究]]所与跨国数据指出，西班牙公立学校在班级规模、生师比、教师课时和薪酬指标上均显著优于欧洲联盟平均水平。然而，优渥的微观资源投入并未阻遏 16 岁义务教育阶段高达 33% 的学业失败率与教师群体广泛的心理倦怠与早退危机。这一反差证明，班级规模这一投入[[Variable|变量]]必须依托健全的课程分流与学校专业治理架构；在均质不分流学制引发学生厌学和纪律溃散的情境下，单纯缩小班额无法逆转教育产出的系统性平庸。
