@@ -9,7 +9,7 @@ summary: "美国政治学家，加州大学伯克利分校讲席教授，美国�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,8 +22,8 @@ tags:
   - theme/political-economy
   - theme/comparative-politics
 related_concepts:
-  - "[[Subversives]]"
   - "[[Institutional Drift]]"
+  - "[[Subversives]]"
   - "[[Institutional Layering]]"
 related_theories:
   - "[[Path Dependence]]"

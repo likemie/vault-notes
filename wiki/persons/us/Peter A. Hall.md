@@ -10,7 +10,7 @@ summary: "加拿大与美国政治学家，哈佛大学欧洲研究讲席教授�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 14
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,18 +24,12 @@ tags:
   - theme/political-economy
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Enforcement Discretion]]"
-  - "[[Institutional Displacement]]"
-  - "[[Institutional Layering]]"
-  - "[[Institutional Drift]]"
-  - "[[Institutional Conversion]]"
 related_theories:
-  - "[[Theory of Gradual Institutional Change]]"
   - "[[Varieties of Capitalism]]"
+  - "[[Theory of Gradual Institutional Change]]"
   - "[[Path Dependence]]"
   - "[[Rational Action Theory]]"
-related_methods:
-  - "[[Typological Analysis]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[James Mahoney]]"
