@@ -7,7 +7,7 @@ aliases:
 summary: "起源于美国《个体残疾人教育法》（IDEA 2004）的三层教学支持与特殊教育筛查模型，通过核心通用教学（Tier 1）、小组针对性辅导（Tier 2）和高强度个别辅导（Tier 3）提供梯度干预，后经斯莱文发展为以强证据项目系统填充各层的循证干预反应（RTPI）改革方案"
 type: concept
 domain: "educational-policy-reform"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-10-11
 ---
 
 # Response to Intervention

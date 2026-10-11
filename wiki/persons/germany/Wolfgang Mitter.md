@@ -7,7 +7,7 @@ summary: "德国比较教育学家，曾任法兰克福德国国际教育研究�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 40
+person_related_count: 41
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-08
+updated: 2026-10-11
 ---
 
 # Wolfgang Mitter

@@ -8,7 +8,7 @@ aliases:
 summary: "20 世纪 50 至 70 年代支配英美比较教育学的知识体系与研究纲领，摒弃古典历史学派主观印象与思辨归因，通过变量控制、量化共变检验与假说-演绎问题法探寻跨国规律与政策预测，并在实践中与战后国家理性规划形成合法化共谋"
 type: concept
 domain: "comparative-education"
-related_count: 69
+related_count: 70
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -97,7 +97,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-09
+updated: 2026-10-11
 ---
 
 # Scientific Paradigm

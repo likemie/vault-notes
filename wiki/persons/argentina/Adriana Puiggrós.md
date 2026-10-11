@@ -8,10 +8,10 @@ summary: "阿根廷著名教育史学家与批判比较教育学家，曾任阿�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1941"
 died: ""
 lifespan: "1941–至今"
@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-05
+updated: 2026-10-11
 ---
 
 # Adriana Puiggrós

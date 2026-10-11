@@ -8,7 +8,7 @@ summary: "法国七月王朝公共教育部部长、首相与自由派历史学�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 20
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-08
+updated: 2026-10-11
 ---
 
 # François Guizot

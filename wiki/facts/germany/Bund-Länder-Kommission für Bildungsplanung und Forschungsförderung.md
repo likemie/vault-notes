@@ -12,7 +12,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-10-02
+updated: 2026-10-11
 ---
 
 # Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung

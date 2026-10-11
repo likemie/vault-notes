@@ -9,7 +9,7 @@ aliases:
 summary: "由瓦尔·拉斯特基于挪威自1840年代以来的教育改革委员会制度实践提炼的跨国政策借用分析框架，涵盖发起调研、凝聚共识、确立法律框架与推进实施四个阶段，阐明主权国家如何通过常设专门委员会与民主协商白皮书，实现高度自主且具制度韧性的外部经验筛选与本土化重塑。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 17
+theory_related_count: 19
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-09
+updated: 2026-10-11
 ---
 
 # Norwegian Four-Phase Model

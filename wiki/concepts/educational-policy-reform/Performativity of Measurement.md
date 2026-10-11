@@ -6,7 +6,7 @@ aliases:
 summary: "指测量不仅描述现实，也会通过分类、比较和激励机制主动塑造对象、行为和优先事项的生产性作用。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-08
+updated: 2026-10-11
 ---
 
 ## 定义

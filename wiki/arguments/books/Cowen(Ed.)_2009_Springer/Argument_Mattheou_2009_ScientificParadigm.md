@@ -7,7 +7,7 @@ title: "Argument_Mattheou_2009_ScientificParadigm"
 argument_key: "Argument_Mattheou_2009_ScientificParadigm"
 argument_display_title: "The Scientific Paradigm in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 75
+argument_related_count: 76
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"

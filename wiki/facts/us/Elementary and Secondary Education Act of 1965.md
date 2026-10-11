@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -54,7 +54,7 @@ related_persons: []
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-09-26
+updated: 2026-10-11
 ---
 
 # Elementary and Secondary Education Act of 1965

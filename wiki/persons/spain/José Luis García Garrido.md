@@ -9,10 +9,10 @@ summary: "西班牙比较教育学家，曾任欧洲比较教育学会主席与�
 type: person
 nationality: spain
 person_region: "spain"
-person_related_count: 0
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 11
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1937"
 lifespan: "1937–至今"
 tags:

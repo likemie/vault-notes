@@ -9,7 +9,7 @@ subtype: policy
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-05-22'
+updated: 2026-10-11
 ---
 ## 背景
 

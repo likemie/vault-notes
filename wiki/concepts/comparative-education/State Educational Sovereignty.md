@@ -10,7 +10,7 @@ aliases:
 summary: "近代世俗民族国家在打破宗教神权与宗族私权中确立的最高教育管辖权与视察责任，主张教育属神圣国家公共资源。20世纪末以来，国家教育主权面临超国家测评治理、WTO/GATS跨国经贸规约与非政府组织“影子国家”外包的多标度侵蚀与重构。"
 type: concept
 domain: "comparative-education"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-06
-updated: 2026-10-09
+updated: 2026-10-11
 ---
 
 # State Educational Sovereignty

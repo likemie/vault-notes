@@ -6,7 +6,7 @@ aliases:
 summary: "围绕学校方向设定、人员发展、组织改进与信任建立展开的教育实践，在证据知情视域下依托榜样示范与制度化排程促成高质量研究使用与学校变革。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 42
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -68,7 +68,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-10-07
+updated: 2026-10-11
 ---
 
 # School Leadership
