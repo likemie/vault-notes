@@ -44,6 +44,7 @@ related_concepts:
   - "[[Development Education]]"
   - "[[Causality]]"
   - "[[Paradigm]]"
+  - "[[Market Fundamentalism]]"
   - "[[Selective Affinity]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Structural Adjustment Programs]]"
@@ -178,7 +179,7 @@ updated: 2026-10-11
 > > - **批判比较学者（Seitzer et al., 2023; [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）** 依托[[World Education Reform Database|世界教育改革数据库]]（WERD）的跨国实证指出，[[OECD|经合组织]]倾向于横向援引各成员国的本土改革经验，而世界银行的国别政策报告呈现出显著的“自指性政策借鉴（Self-referential lesson-drawing）”，反复循环引用世行自身的 [[Systems Approach for Better Education Results|SABER]] 工具、既往贷款报告与集中式最佳实践仓库，将外部主权国家的丰富实践消减为华盛顿制定的统一定制处方。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
 > > - **世行政策团队** 辩解称集中化最佳实践库是确保跨国借贷项目科学严谨、控制道德风险并提升公共资金使用效率的唯一可行标准化通道。
 >
-> > [!axis] 结构调整与市场原教旨主义的后殖民破坏
+> > [!axis] 结构调整与[[Market Fundamentalism|市场原教旨主义]]的后殖民破坏
 > > 发展社会学家与全球南方批评家指控世行贷款长期推行新自由主义紧缩政策。
 > >
 > > - **批判政治经济学派与[[Evolutionary Economics|演化经济学]]批判（Bonal, 2002; Heyneman, 2003; [[Argument_Freeman_1995_CJE|Freeman, 1995]]）** 批评 1980–1990 年代世行推行的结构调整计划强迫借贷国冻结教师编制、引入公立学校用户收费并加速民办私立化，给撒哈拉以南非洲和拉美公共教育系统造成严重冲击；世行前资深教育专员[[Stephen P. Heyneman|海尼曼]]（Stephen Heyneman, 2003）亦坦承，世行长期主导的[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数框架存在根本性缺陷，给更具公平性与效能的教育政策带来了严重的消极后果；[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman, 1995）进一步指出，世行对拉美强加的财政紧缩迫使国家压缩高等技术教育与工程研发支持，导致巴西等国的高等教育毛入学率与工程师供给停滞不前，摧毁了应对第三次技术革命（信息通信技术）所需的[[National Innovation System|国家创新系统]]能力，形成了深刻的依附性发展锁定。[[Argument_Arnove_2009_WorldSystems|(Heyneman, 2003, cited in Arnove, 2009, p. 110)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]

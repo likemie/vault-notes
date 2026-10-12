@@ -174,7 +174,7 @@ issuing_organization: ""
 
 #### 1. 投入导向向产出导向转型的制度演进与路径自主原则
 
-理解当前[[School Leadership|学校领导]]实践，必须首先考察教育治理模式的宏观转型。[[Herbert Altrichter|赫伯特·阿尔特里希特]]（Herbert Altrichter）等学者指出，德语区基础教育在过去数十年经历了从传统投入规制向产出导向[[Output-Oriented Governance|循证治理]]的深层[[Paradigm|范式转换]]：
+理解当前[[School Leadership|学校领导]]实践，必须首先考察教育治理模式的宏观转型。[[Herbert Altrichter|赫伯特·阿尔特里希特]]（Herbert Altrichter）等学者指出，德语区基础教育在过去数十年经历了从传统投入规制向产出导向[[Output-Oriented Governance|循证治理]]的深层[[Paradigm|范式]]转换：
 
 > [!contrast-table] 投入导向治理与产出导向治理的制度逻辑对比
 > | 制度维度 | 传统投入导向治理（Input-Steuerung） | 新型产出导向治理（Output-Steuerung） |

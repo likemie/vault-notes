@@ -24,7 +24,11 @@ tags:
   - theme/educational-planning
   - theme/governance
   - region/europe
-related_concepts: []
+related_concepts:
+  - "[[Research Universities]]"
+  - "[[Paradigm]]"
+  - "[[Network Governance]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -48,9 +52,9 @@ updated: 2026-10-12
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1987 年由荷兰教育与科学部首次正式发布，每两年更新一期。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 136)]]
-> - **适用地区 / 对象** 覆盖荷兰全境所有研究型大学与应用科技大学（HBO）。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 146)]]
+> - **适用地区 / 对象** 覆盖荷兰全境所有[[Research Universities|研究型大学]]与应用科技大学（HBO）。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 146)]]
 > - **问题背景** 传统的中央集权规划属于自上而下的指令性“蓝图规划（Blueprint Planning）”；教育部制定详尽的各专业招生配额、建筑基建分配与人员编制指标，极度僵化且在面对经济技术波动时频繁失效。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 140)]]
-> - **制度位置** 作为 1985 年《[[Higher Education Autonomy and Quality|高等教育自主与质量]]》（HOAK）白皮书在规划工具维度的核心制度产物，并在 1992 年《[[Higher Education and Research Act 1992|高等教育与科研法]]》（WHW）中被确立为国家法定规划工具。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 136, 146)]]
+> - **制度位置** 作为 1985 年《[[Higher Education Autonomy and Quality|高等教育自主与质量]]》（HOAK）白皮书在规划工具维度的核心制度产物，并在 1992 年《高等教育与科研法》（[[Higher Education and Research Act 1992|WHW]]）中被确立为国家法定规划工具。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 136, 146)]]
 
 ---
 
@@ -75,10 +79,10 @@ updated: 2026-10-12
 ## 时间线
 
 > [!timeline] 政策时间线
-> - **1985** HOAK 白皮书首次提出以两年一期的部门发展规划替代中央指令性蓝图规划。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 135)]]
+> - **1985** [[Higher Education Autonomy and Quality|HOAK]] 白皮书首次提出以两年一期的部门发展规划替代中央指令性蓝图规划。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 135)]]
 > - **1987** 荷兰教育部正式发布首部《高等教育与科研规划》（HOOP 1988–1992）。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 136)]]
 > - **1989** 第二版 HOOP 发布，首次邀请劳动力市场雇主代表与工会参与规划咨询对话。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 151)]]
-> - **1992** 《[[Higher Education and Research Act 1992|高等教育与科研法]]》（WHW）正式将 HOOP 规划程序写入法典。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 146)]]
+> - **1992** 《高等教育与科研法》（[[Higher Education and Research Act 1992|WHW]]）正式将 HOOP 规划程序写入法典。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 146)]]
 
 ---
 
@@ -101,7 +105,7 @@ updated: 2026-10-12
 > [!finding-cards] 关键政策成效
 > - **破除科层僵化预期** 将规划从“死板执行指标”解放为“战略性学习过程”，极大增强了高教系统应对外部技术与就业波动的韧性。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 140, 151)]]
 > - **打破封闭教育省藩篱** HOOP 规划程序正式邀请外部雇主组织与社会团体入席协商，打破了传统宗派代表与教师工会垄断的封闭铁环，促进了人才培养与劳动力市场的对接。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 151)]]
-> - **奠定现代对话治理范式** 启发了欧洲其他公共部门在卫生、环保领域的规划改革，成为公共管理学界“战略管理与网络治理”结合的典范文本。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 148)]]
+> - **奠定现代对话治理[[Paradigm|范式]]** 启发了欧洲其他公共部门在卫生、环保领域的规划改革，成为公共管理学界“战略管理与[[Network Governance|网络治理]]”结合的典范文本。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 148)]]
 
 ---
 
@@ -111,11 +115,11 @@ updated: 2026-10-12
 >
 > > [!axis] 对话式协商是否会异化为隐性行政强制
 > > - **批评学者** 质疑在教育部掌握总额财政大权的前提下，所谓的“双向对话”在实质上并不对等；教育部依然可能通过在 HOOP 中设置强烈的政策偏好，隐性迫使大学修改自身的机构规划。
-> > - **基克特与规划团队（Kickert, 1995）** 强调 HOOP 在法律上不具备强制指令效力，其实质是提供透明的信息共享与预期对齐平台；在实践中大学成功多次抵制了部委的单向设想，证明了对话协商的真实有效性。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 146, 154)]]
+> > - **基克特与规划团队（[[Argument_Kickert_1995_Governance|Kickert, 1995]]）** 强调 HOOP 在法律上不具备强制指令效力，其实质是提供透明的信息共享与预期对齐平台；在实践中大学成功多次抵制了部委的单向设想，证明了对话协商的真实有效性。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 146, 154)]]
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid] 相关文献索引
+> [!evidence-grid] 相关[[Document|文献]]索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 实证剖析荷兰 HOOP 规划程序的演进机制，系统论证对话式规划替代中央蓝图指令的控制论依据与治理价值。

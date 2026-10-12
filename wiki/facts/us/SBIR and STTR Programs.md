@@ -40,10 +40,12 @@ related_concepts:
   - "[[Seed Funding]]"
   - "[[Innovation Ecosystem]]"
   - "[[Document]]"
-related_theories: []
+related_theories:
+  - "[[Developmental Network State]]"
 related_methods:
   - "[[Correlational Research]]"
-related_persons: []
+related_persons:
+  - "[[Fred Block]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
@@ -66,6 +68,7 @@ related_arguments:
   - "[[Argument_Bozeman_2004_JTT]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
+  - "[[Argument_Block_2008_PS]]"
 confidence: high
 status: active
 created: 2026-05-29
@@ -202,4 +205,4 @@ updated: 2026-10-12
 > - [[Argument_Cheng_2026_KeJiChuangXin|程楠等 (2026)]] — 剖析 SBIR（3.2%）与 STTR（0.45%）法定预算提取比例与全美三位一体管理体制。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 评估联邦小企业创新资助在[[Innovation Ecosystem|区域创新生态]]培育与私人资本吸引中的催化杠杆效应。
 > - [[Argument_Bozeman_2004_JTT|Bozeman & Boardman (2004)]] — 论述 1980 年代国家科技政策演化脉络与 [[National Science Foundation|NSF]] 工程学部 SBIR 资助格局。
-> - [[Argument_Block_2008_PS|Block (2008, pp. 189–191)]] — 阐述 SBIR 作为发展型网络国家“开辟多维窗口”的核心制度工具，揭示其资助高度向加州与马萨诸塞州倾斜的区域失衡风险。
+> - [[Argument_Block_2008_PS|Block (2008, pp. 189–191)]] — 阐述 SBIR 作为[[Developmental Network State|发展型网络国家]]“开辟多维窗口”的核心制度工具，揭示其资助高度向加州与马萨诸塞州倾斜的区域失衡风险。

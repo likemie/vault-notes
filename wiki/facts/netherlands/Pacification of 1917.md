@@ -24,14 +24,15 @@ tags:
   - region/europe
 related_concepts:
   - "[[Pillarization]]"
+  - "[[Policy Network]]"
   - "[[Steering at a Distance]]"
 related_theories:
   - "[[Neocorporatism]]"
 related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Walter J. M. Kickert]]"
-related_facts: []
+related_persons: []
+related_facts:
+  - "[[Centros Concertados]]"
 related_arguments:
   - "[[Argument_Kickert_1995_Governance]]"
 confidence: high
@@ -47,7 +48,7 @@ updated: 2026-10-12
 ## 背景与历史成因
 
 > [!claim] 核心定性
-> 1917 年大妥协（The Pacification of 1917，荷文：*De Pacificatie van 1917*）是荷兰宪政与现代教育史上的分水岭事件。它通过精巧的跨阵营政治交换，彻底终结了 19 世纪中叶以来围绕国家教育控制权撕裂社会的“学校论争（Schoolstrijd）”；在宪法第 23 条中将“教育自由（Freedom of Education）”升格为根本公民权利，确立了私立宗教学校享有与公立学校 100% 财政全额平等资助的宪法原则，系统奠定了荷兰[[Pillarization|柱状化]]（Pillarization）制度与现代高教政策网络的历史底色。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 142–143)]]
+> 1917 年大妥协（The Pacification of 1917，荷文：*De Pacificatie van 1917*）是荷兰宪政与现代教育史上的分水岭事件。它通过精巧的跨阵营政治交换，彻底终结了 19 世纪中叶以来围绕国家教育控制权撕裂社会的“学校论争（Schoolstrijd）”；在宪法第 23 条中将“教育自由（Freedom of Education）”升格为根本公民权利，确立了私立宗教学校享有与公立学校 100% 财政全额平等资助的宪法原则，系统奠定了荷兰[[Pillarization|柱状化]]（Pillarization）制度与现代高教[[Policy Network|政策网络]]的历史底色。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 142–143)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1913–1917 年，荷兰海牙（国会与政府所在地）。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 142)]]
@@ -60,7 +61,7 @@ updated: 2026-10-12
 ## 发展经过与演变阶段
 
 > [!dev-timeline] 事件推进历程
-> - **1857–1889 — 学校论争白热化与宗教政党崛起** 自由派主导议会确立公立学校中立原则并拒绝资助私立学校；库珀（Abraham Kuyper）创立新教反革命党，天主教与新教结成政治联盟，发起全国性请愿与抗争。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 142)]]
+> - **1857–1889 — 学校论争白热化与宗教政党崛起** 自由派主导议会确立公立学校中立原则并拒绝[[Centros Concertados|资助私立学校]]；库珀（Abraham Kuyper）创立新教反革命党，天主教与新教结成政治联盟，发起全国性请愿与抗争。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 142)]]
 > - **1913–1917 — 战时大妥协谈判与利益互换** 中立自由派首相范德林登设立特设宪法委员会，精心设计“包揽式双向交换协议”：世俗政党接受宗教学校获得全额同等国家资助，换取宗教政党支持取消财产限制、实施男性全面普选权及引入比例代表制。
 > - **1917 年 11 月 — 宪法修正案通过与制度定型** 国会通过新宪法，第 23 条第 6 款明确规定公私立学校在校舍、师资薪酬与教学运营上享有完全等额的国家财政资助，学校论争正式宣告终结。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 143)]]
 
@@ -98,7 +99,7 @@ updated: 2026-10-12
 > [!finding-cards] 关键历史后果
 > - **[[Pillarization|柱状化]]社会的制度固化** 1917 年大妥协不仅没有削弱宗派对立，反而通过制度化财政资助将天主教、新教与世俗派完全固化为从幼儿园、大学直至医院和工会的平行社会堡垒。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 143)]]
 > - **催生繁密补偿性规制泥潭** 为防止不同宗派互相指责政府偏心，中央教育部被迫制定出极端详尽的生均成本核算公式与逐项审批规程以证明“绝对公平”；围绕部委聚拢的宗派代表与教师工会筑成紧密的[[Neocorporatism|法团主义]]铁环，将教育系统锁死为封闭的“教育省”。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 143–144, 151)]]
-> - **成为 1980 年代远距离操纵改革的制度跳板** 正是因为宪法平等资助规制泥潭管得过死，荷兰在 1980 年代财政紧缩时无法通过行政强权简单裁撤宗派学校，倒逼政府绕开宗派敏感性，转向以中立行政效率为导向的[[Steering at a Distance|远距离操纵]]与自组织大兼并。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 144–146)]]
+> - **成为 1980 年代[[Steering at a Distance|远距离操纵]]改革的制度跳板** 正是因为宪法平等资助规制泥潭管得过死，荷兰在 1980 年代财政紧缩时无法通过行政强权简单裁撤宗派学校，倒逼政府绕开宗派敏感性，转向以中立行政效率为导向的[[Steering at a Distance|远距离操纵]]与自组织大兼并。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 144–146)]]
 
 ---
 
@@ -110,4 +111,4 @@ updated: 2026-10-12
 > > 围绕 1917 年大妥协究竟是化解社会撕裂的制度奇迹，还是导致财政浪费与体制僵化的历史包袱。
 > >
 > > - **政治学经典定性（利普哈特 Lijphart, 1968）** 赞誉 1917 年大妥协为荷兰“协合民主”的皇冠明珠，证明在深度撕裂的多族群社会中，精英妥协能够创造非凡的政治稳定与民主韧性。
-> > - **当代公共行政反思（[[Walter J. M. Kickert|Kickert]], 1995）** 指出随着社会世俗化推进，宗派区隔已蜕变为低效浪费的时代遗存；但由于任何政治家都不敢轻易触碰宪法第 23 条敏感神经，导致改革只能在维持宗派平衡的夹缝中艰难探索间接治理。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 143–144)]]
+> > - **当代公共行政反思（[[Argument_Kickert_1995_Governance|Kickert, 1995]]）** 指出随着社会世俗化推进，宗派区隔已蜕变为低效浪费的时代遗存；但由于任何政治家都不敢轻易触碰宪法第 23 条敏感神经，导致改革只能在维持宗派平衡的夹缝中艰难探索间接治理。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 143–144)]]

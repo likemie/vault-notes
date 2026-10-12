@@ -29,6 +29,7 @@ related_concepts:
   - "[[Socioscientific Issues]]"
   - "[[Technology-Oriented Social Contract]]"
   - "[[Research Topic]]"
+  - "[[Scale Enlargement]]"
   - "[[Indirect Costs of Research]]"
   - "[[Big Science]]"
   - "[[Paradigm]]"
@@ -122,7 +123,7 @@ updated: 2026-10-08
 
 > [!finding-cards] 代表性政策报告与重大战略建言
 > - **1958 年《太空概论》（Introduction to Outer Space）** 由 Killian 领衔起草，系统阐释太空探索的科学、国防与威望价值，力主将航天事务置于文官管理之下，直接奠定了 1958 年成立[[National Aeronautics and Space Administration|国家航空航天局]]（NASA）的制度方案。
-> - **1960 年[[Seaborg Report 1960|西博格报告]]（Seaborg Report）** 发布《科学进步、大学与联邦政府》（*Scientific Progress, the Universities, and the Federal Government*），系统主张联邦大规模扩充大学基础研究预算、在全国打造 30–40 所世界级卓越中心，并确立[[Indirect Costs of Research|科研间接成本]]报销机制。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
+> - **1960 年[[Seaborg Report 1960|西博格报告]]（Seaborg Report）** 发布《科学进步、大学与联邦政府》（*Scientific Progress, the Universities, and the Federal Government*），系统主张联邦大[[Scale Enlargement|规模扩充]]大学基础研究预算、在全国打造 30–40 所世界级卓越中心，并确立[[Indirect Costs of Research|科研间接成本]]报销机制。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
 > - **核军控与战略反导独立评估** 为白宫独立评估洲际弹道导弹推进技术与军用侦察卫星，推动《部分禁止核试验条约》（PTBT）技术论证；在反弹道导弹（[[Agent-based Modelling|ABM]]）系统技术审查中独立测算出拦截系统易被突防且造价不可持续，形成对五角大楼方案的关键制衡。
 > - **[[Federally Funded Research and Development Centers|联邦资助研究开发中心]]（FFRDC）治理规范** 就国家实验室（如费米实验室、劳伦斯伯克利实验室等）的运行机制、[[Big Science|大科学]]设施开放共享提供战略规范。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
 

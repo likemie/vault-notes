@@ -25,6 +25,7 @@ related_concepts:
   - "[[International Schools]]"
   - "[[Advanced Placement Program]]"
 related_persons:
+  - "[[Fred Block]]"
   - "[[Gilbert Nicol]]"
   - "[[Paul Pierson]]"
 related_facts:
@@ -47,7 +48,7 @@ updated: 2026-10-12
 
 > [!event-context] 制度背景
 > - **时间／地点** [[International Baccalaureate|国际文凭]]北美公司（International Baccalaureate North America，IBNA）1975 年在美国纽约注册，主要服务美国和加拿大。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 140–142)]]
-> - **关键主体** [[International Baccalaureate\|国际文凭]]办公室（International Baccalaureate Office，IBO）、北美学校与学区、大学招生主管、教育基金会、布洛克·卡鲁斯（Blouke Carus）、汤姆·哈戈特和[[Gilbert Nicol\|吉尔伯特·尼科尔]]（Gilbert Nicol）。
+> - **关键主体** [[International Baccalaureate\|国际文凭]]办公室（International Baccalaureate Office，IBO）、北美学校与学区、大学招生主管、教育基金会、[[Fred Block|布洛克]]·卡鲁斯（Blouke Carus）、汤姆·哈戈特和[[Gilbert Nicol\|吉尔伯特·尼科尔]]（Gilbert Nicol）。
 > - **制度背景** 日内瓦总部缺少推广资金，北美基金会又不愿把资金交给无法保证用于本地区的外国组织；地方课程自主权同时为公立学校采用 IB 提供了可能。
 > - **触发条件** 若要让学校董事会和公立高中了解 IB，需要独立办公室、专职人员和持续推广经费。区域法人化使北美资金可留在本地区使用，同时保留国际课程与考试控制（pp. 140–143）。
 

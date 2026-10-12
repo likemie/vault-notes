@@ -44,6 +44,9 @@ related_concepts:
   - "[[Teacher Professional Agency]]"
   - "[[Strategic Compliance]]"
   - "[[Steering at a Distance]]"
+  - "[[Paradigm]]"
+  - "[[Document]]"
+  - "[[Grandes Ecoles]]"
   - "[[Output-Oriented Governance]]"
   - "[[Assemblage]]"
   - "[[Educational Brokerage Agency]]"
@@ -64,6 +67,7 @@ related_persons:
   - "[[Eleftherios Klerides]]"
   - "[[Isaiah Berlin]]"
   - "[[Walter J. M. Kickert]]"
+  - "[[Stephen Ball]]"
 related_facts:
   - "[[Institute for Educational Quality Improvement]]"
   - "[[Vergleichsarbeiten]]"
@@ -71,6 +75,7 @@ related_facts:
   - "[[PISA]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
+  - "[[Higher Education Autonomy and Quality]]"
 related_arguments:
   - "[[Argument_Hartong_2018_GSE]]"
   - "[[Argument_Klerides_2023_CE]]"
@@ -201,9 +206,9 @@ updated: 2026-10-12
 > - **转化困难** 主体性生产的深层心理内化程度难以精确测量，研究者容易将表面的制度依从直接推断为深度的主体性重塑。
 > - **不能直接推出** 理论无法单凭治理技术的存在证明其政策干预的实际学业成效，亦不能将所有量化评估工具先验定性为恶意统治阴谋。
 
-> [!boundary]- 理论边界与谱系辨析：远处治理 vs 远距离操纵（Steering at a Distance）
-> - **学术谱系分流** 远处治理（Governing at a Distance）植根于福柯治理术与拉图尔科学知识社会学，是由 Rose & Miller (1992) 开创的批判政治社会学理论；而在欧陆公共行政学界同期兴起的 [[Steering at a Distance|远距离操纵（Steering at a Distance）]]（源自荷兰 1985 年 HOAK 白皮书，由 Frans van Vught 与 [[Walter J. M. Kickert|瓦尔特·基克特（Walter J. M. Kickert）]] 等人理论化），则是一套旨在解决高校专业网络直接行政命令失灵的实证制度设计与管理范式。两者在 20 世纪 80 年代末至 90 年代初双轨并行生成，并非先后承继演变。
-> - **文献中的同义互用与理论解构** 在当代比较教育与教育社会学研究中，学者们常将二者作为指代“国家退居幕后、由划桨转向掌舵”的功能性同义词互用。批判政策学者（如 Stephen Ball、Sigrid Hartong 等）频繁借用本理论的“计算中心”、“转译”与“自我规训”视角，对现实中声称扩大学校自主权的各类[[Steering at a Distance|远距离操纵]]制度实践进行深层权力批判与解构。
+> [!boundary]- 理论边界与谱系辨析：远处治理 vs [[Steering at a Distance|远距离操纵]]（Steering at a Distance）
+> - **学术谱系分流** 远处治理（Governing at a Distance）植根于福柯[[Governmentality|治理术]]与拉图尔科学知识社会学，是由 Rose & Miller (1992) 开创的批判政治社会学理论；而在欧陆公共行政学界同期兴起的 远距离操纵（Steering at a Distance）（源自荷兰 1985 年 [[Higher Education Autonomy and Quality|HOAK]] 白皮书，由 Frans van Vught 与 [[Walter J. M. Kickert|瓦尔特·基克特]]（Walter J. M. Kickert） 等人理论化），则是一套旨在解决高校专业网络直接行政命令失灵的实证制度设计与管理[[Paradigm|范式]]。两者在 20 世纪 80 年代末至 90 年代初双轨并行生成，并非先后承继演变。
+> - **[[Document|文献]]中的同义互用与理论解构** 在当代比较教育与教育社会学研究中，学者们常将二者作为指代“国家退居幕后、由划桨转向掌舵”的功能性同义词互用。批判政策学者（如 [[Stephen Ball]]、[[Sigrid Hartong]] 等）频繁借用本理论的“[[Center of Calculation|计算中心]]”、“[[Transfer Translation Transformation|转译]]”与“自我[[Disciplina and Doctrina|规训]]”视角，对现实中声称扩[[Grandes Ecoles|大学校]]自主权的各类[[Steering at a Distance|远距离操纵]]制度实践进行深层权力批判与解构。
 
 ---
 

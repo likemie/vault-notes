@@ -56,6 +56,7 @@ related_facts:
   - "[[1986 U.S.-Japan Semiconductor Trade Agreement]]"
   - "[[Sematech]]"
   - "[[DARPA]]"
+  - "[[Advanced Technology Program]]"
   - "[[China Integrated Circuit Industry Investment Fund]]"
   - "[[Sino-American Trade War]]"
   - "[[October 2022 US Semiconductor Export Controls]]"
@@ -228,7 +229,7 @@ issuing_organization: ""
 > - **半导体制造设备（SME）** 荷兰阿斯麦（ASML）独家垄断极紫外（Extreme Ultraviolet, EUV）光刻机；日本东京电子（Tokyo Electron）垄断涂胶显影设备；美国应用材料（Applied Materials）、泛林半导体（Lam Research）与科磊（KLA）主导薄膜沉积、刻蚀与光学检测设备。（pp. 88, 90）
 > - **无晶圆厂芯片设计（Fabless）** 美国英伟达（Nvidia，主导人工智能图形处理器与加速计算）、高通（Qualcomm，主导 5G 基带与系统级芯片）、博通（Broadcom）、苹果（Apple）与台湾联发科（MediaTek）专注于算法与芯片微架构开发，将制造环节全数外包。（pp. 88, 90）
 > - **晶圆代工与制造（Foundries & IDMs）** 台湾台积电（占据全球晶圆代工一半以上收入，控制 5nm 及以下尖端制程九成以上产能）、联华电子（United Microelectronics Corporation, UMC，联电）、中国中芯国际集成电路制造有限公司（Semiconductor Manufacturing International Corporation, SMIC，中芯国际）、美国格芯（GlobalFoundries）负责代工制造；英特尔、三星、美光、德州仪器等企业保留部分自有制造产线。（pp. 88, 90）
-> - **组装测试与封装（ATP / OSAT）** 台湾日月光（ASE）、美国安靠（Amkor）、中国长电科技（JCET）等外包半导体封装测试企业负责晶圆划片、引脚封装与出厂测试。（pp. 88, 90）
+> - **组装测试与封装（[[Advanced Technology Program|ATP]] / OSAT）** 台湾日月光（ASE）、美国安靠（Amkor）、中国长电科技（JCET）等外包半导体封装测试企业负责晶圆划片、引脚封装与出厂测试。（pp. 88, 90）
 
 #### 2. 全球电子组装制造西移亚洲推动芯片需求重心向中国倾斜，使中国成为全球最大芯片采购市场
 

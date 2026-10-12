@@ -42,6 +42,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
   - "[[National Science and Technology Council]]"
+  - "[[Advanced Technology Program]]"
   - "[[National Nanotechnology Initiative]]"
   - "[[Science, The Endless Frontier 1945]]"
 related_arguments:
@@ -78,7 +79,7 @@ updated: 2026-10-10
 > [!policy-design]- 政策设计
 > - **政策目标** 保持前沿领跑、强化基础探索与国家目标结合、构筑政产学研发战略伙伴关系、培育世界一流科技人才及提高全民[[Scientific Literacy|科学素养]]。
 > - **适用对象** 联邦资助机构、[[Research Universities|研究型大学]]学术共同体、国家实验室科研人员与私营企业研发部门。
-> - **政策工具** 设立[[National Science and Technology Council|国家科学技术委员会]]（NSTC）跨部门统筹机制、推进先进技术计划（ATP）与产学研联合技术计划。
+> - **政策工具** 设立[[National Science and Technology Council|国家科学技术委员会]]（NSTC）跨部门统筹机制、推进[[Advanced Technology Program|先进技术计划]]（ATP）与产学研联合技术计划。
 > - **约束机制** 强化研发预算竞争性项目制审核、引入纳税人绩效问责，促使科研申请明确论证社会经济贡献。
 
 > [!citation-card] 关键条文

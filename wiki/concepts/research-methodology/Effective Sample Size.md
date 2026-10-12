@@ -28,6 +28,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[What Works Movement]]"
   - "[[Unit of Analysis]]"
+  - "[[Scale Enlargement]]"
   - "[[Evidence-Based Education]]"
   - "[[Business as Usual]]"
   - "[[Clinical Trial]]"
@@ -144,7 +145,7 @@ updated: 2026-09-17
 > 探讨试验机构如何通过大规模招募网络扩增学校总数，以有效样本量的实质增长回应学术界关于教育试验“缺乏信息量”的方法学指责。
 
 > [!claim] Sanders, M.
-> **有效样本量翻番与试验信息量演进** 早期教育试验常受限于招募能力，平均每项试验仅涵盖 20 至 30 所学校，导致有效样本量过小，其 95% [[Confidence Interval\|置信区间]]宽度达 0.30 个标准差，无法与现实中 0.05 至 0.10 的细微教育干预进展相匹配；自 2014 年起，[[Education Endowment Foundation\|EEF]] 通过国家级招募动员将单项试验规模扩充至 80 至 100 所学校以上（受试学生常超 8,000 人），推动实际有效样本量翻番，使置信区间显著收窄，从而能够以高确定性将微弱成效与零效应精准剥离。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 56–57)]]
+> **有效样本量翻番与试验信息量演进** 早期教育试验常受限于招募能力，平均每项试验仅涵盖 20 至 30 所学校，导致有效样本量过小，其 95% [[Confidence Interval\|置信区间]]宽度达 0.30 个标准差，无法与现实中 0.05 至 0.10 的细微教育干预进展相匹配；自 2014 年起，[[Education Endowment Foundation\|EEF]] 通过国家级招募动员将单项试验[[Scale Enlargement|规模扩充]]至 80 至 100 所学校以上（受试学生常超 8,000 人），推动实际有效样本量翻番，使置信区间显著收窄，从而能够以高确定性将微弱成效与零效应精准剥离。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 56–57)]]
 
 > [!claim] Edovald, T. & Nevill, C.
 > **有效样本量扩张对“无信息量论”的有力反驳** 孤立地将早期试验平均置信区间较宽定性为“试验缺乏信息量”是静态且片面的。在[[Evidence-Based Education\|循证教育]]实践中，机构的方法学生产能力随时间显著进化；有效样本量的持续增长证明大规模田野试验正稳步具备分辨微弱效应的高阶推断精度，能够向政策制定者清晰判定哪些广受欢迎的教学方案并不优于[[Business as Usual\|常态教学]]，为优化公共教育资源配置提供刚性决策依据。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 57)]]

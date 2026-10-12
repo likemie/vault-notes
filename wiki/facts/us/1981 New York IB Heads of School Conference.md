@@ -28,6 +28,7 @@ related_instruments: []
 related_persons:
   - "[[Gerard Renaud]]"
   - "[[Gilbert Nicol]]"
+  - "[[Fred Block]]"
 related_facts:
   - "[[International Baccalaureate North America]]"
   - "[[IB Expansion in North American Public High Schools 1977-1984]]"
@@ -47,7 +48,7 @@ updated: 2026-09-03
 
 > [!event-context] 事件背景
 > - **时间／地点** 1981 年 2 月，美国纽约，由联合国[[International Schools\|国际学校]]主办，是[[International Baccalaureate\|国际文凭]]校长年会首次在美洲举行。
-> - **关键主体** 国际文凭办公室、[[International Baccalaureate North America\|国际文凭北美公司]]、[[Gerard Renaud\|杰拉德·雷诺]]（Gerard Renaud）、[[Gilbert Nicol\|吉尔伯特·尼科尔]]（Gilbert Nicol）、汤姆·哈戈特（[[Theory of Mind\|ToM]] Hagoort）、布洛克·卡鲁斯（Blouke Carus）及来自各地区的学校校长。
+> - **关键主体** 国际文凭办公室、[[International Baccalaureate North America\|国际文凭北美公司]]、[[Gerard Renaud\|杰拉德·雷诺]]（Gerard Renaud）、[[Gilbert Nicol\|吉尔伯特·尼科尔]]（Gilbert Nicol）、汤姆·哈戈特（[[Theory of Mind\|ToM]] Hagoort）、[[Fred Block|布洛克]]·卡鲁斯（Blouke Carus）及来自各地区的学校校长。
 > - **制度背景** 国际文凭理事会重组后，三分之一成员由学校选举产生并代表学校；校长年会在日内瓦与其他国际城市间轮流举行，用于讨论共同问题和建立学校共同体。
 > - **触发条件** 北美学校增长、纽约办公室成本和区域法人独立，引发部分校长对课程美国化、资金失衡和 IBNA 分离主义的担忧。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 146–147)]]
 

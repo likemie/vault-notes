@@ -53,6 +53,7 @@ related_instruments: []
 related_persons:
   - "[[Erica Fuchs]]"
   - "[[Chalmers Johnson]]"
+  - "[[Fred Block]]"
   - "[[Mariana Mazzucato]]"
   - "[[Tony Tether]]"
 related_facts:
@@ -202,7 +203,7 @@ updated: 2026-10-04
 
 > [!dev-timeline] 概念演变
 > - **1980s–1990s — 发展型国家理论与[[Embedded Autonomy|嵌入式自主性]]奠基** [[Chalmers Johnson|查默斯·约翰逊]]（Chalmers Johnson, 1982）奠定东亚发展型国家理论；彼得·埃文斯（Peter Evans, 1995）提出“嵌入式自主性”（Embedded Autonomy），强调政府官员既要内嵌于社会网络以获取信息，又要保持自主权以防止被个别利益俘获。
-> - **2000s — [[Developmental Network State|发展型网络国家理论]]兴起** 克里斯托弗·安塞尔（Christopher Ansell, 2000）与弗雷德·布洛克（Fred Block, 2007）系统阐发“发展型网络国家”（Developmental Network State, DNS），指出战后美国科技体制演化为一种高度去中心化的公共资助网络，国家主要充当促进合作与信任的中立联络人。
+> - **2000s — [[Developmental Network State|发展型网络国家理论]]兴起** 克里斯托弗·安塞尔（Christopher Ansell, 2000）与[[Fred Block|弗雷德·布洛克]]（Fred Block, 2007）系统阐发“发展型网络国家”（Developmental Network State, DNS），指出战后美国科技体制演化为一种高度去中心化的公共资助网络，国家主要充当促进合作与信任的中立联络人。
 > - **2009 — [[Network Plasticity|网络可塑性]]理论突破** 戴维斯（Gerald F. Davis, 2009）在管理学中提出“网络可塑性”（Network plasticity），证实优秀的管理者具有打破与重塑网络连接的能动性，为超越网络结构[[Determinism|决定论]]提供了微观行动者理论工具。
 > - **2010 — 嵌入型[[Network Governance|网络治理]]正式提出** [[Erica Fuchs|埃丽卡·福克斯]]（Erica Fuchs, 2010）在《研究政策》发表奠基作，通过对 [[DARPA]] MTO 的长程追踪，正式界定“嵌入型网络治理”，揭示公共代理人主动重塑研发社会网络以引导国家技术方向的制度规律。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1147)]]
 > - **2018–至今 — [[Mission-Oriented Innovation Policy|使命导向型创新政策]]与国家关键技术评估深化** [[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）进一步将该机制升华为“去中心化探索型公共网络”的核心动态能力；福克斯等学者随后将该[[Paradigm|范式]]运用于后摩尔时代半导体供应链韧性与国家关键技术评估战略。

@@ -28,6 +28,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Market Failure]]"
   - "[[National Innovation System]]"
+  - "[[Market Fundamentalism]]"
   - "[[Theoretical Standpoint]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
@@ -163,7 +164,7 @@ updated: 2026-10-12
 > > - **斯托克斯阵营（Stokes, 1997）** 象限模型在政策实践中直观明了，通过赋予用启发性基础研究正统地位，已足以解决纯基础与纯应用的冲突，无需彻底推翻通用术语。
 > > - **纳拉亚纳穆尔提阵营（[[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]]）** 只要继续使用基础与应用这两个带有严重等级偏见的词汇，决策者就会本能地依据研究者的立项动机去裁剪资助边界，必须用发现与发明对称双通道予以彻底革新。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
 >
-> > [!axis] 创新网络论 vs. 市场原教旨主义：公共资金的边界争议
+> > [!axis] 创新网络论 vs. [[Market Fundamentalism|市场原教旨主义]]：公共资金的边界争议
 > > 传统新古典经济学主张政府资助仅限于纯粹[[Market Failure|市场失灵]]的公共品领域（即无法专有化的基础科学）；循环理论则要求政府深入支持具有长远效用的关键发明与工程工艺。
 > >
 > > - **新古典经济学立场** 政府资助工程开发必然面临挑选赢家（picking winners）的寻租风险与挤出效应，应用开发应由市场竞争检验。

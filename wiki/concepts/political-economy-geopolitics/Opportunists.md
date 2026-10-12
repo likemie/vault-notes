@@ -173,7 +173,7 @@ updated: 2026-10-12
 > > [!axis] 行动者角色的情境依附性 vs 静态标签化倾向
 > > 批评者质疑类型学是否将行动者本能地固化为某种永久的人格标签。
 > >
-> > - **Mahoney & Thelen（2009）** 强调行动者类型指涉的是博弈角色而非固定身份；同一行动者在某一制度中可能充当顺应形势的机会主义者，在另一制度中则完全可能[[Avatar|化身]]为激进的[[Insurrectionaries|起义者]]，经验追踪时严禁静态标签化套用。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 23 注7)]]
+> > - **[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]]** 强调行动者类型指涉的是博弈角色而非固定身份；同一行动者在某一制度中可能充当顺应形势的机会主义者，在另一制度中则完全可能[[Avatar|化身]]为激进的[[Insurrectionaries|起义者]]，经验追踪时严禁静态标签化套用。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 23 注7)]]
 >
 > > [!axis] 机会主义者在后变革期的规范性赤字
 > > 制度变迁完成后，缺乏价值忠诚的机会主义者能否有效守卫新制度的规范基础？

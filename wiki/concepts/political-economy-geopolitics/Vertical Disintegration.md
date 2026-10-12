@@ -51,6 +51,7 @@ related_persons:
 related_facts:
   - "[[Bell Labs]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
+  - "[[Advanced Technology Program]]"
   - "[[DARPA]]"
 related_arguments:
   - "[[Argument_Macher_1998_CMR]]"
@@ -109,7 +110,7 @@ updated: 2026-10-10
 > - **半导体精密制造设备（Manufacturing Equipment）** 极紫外光刻机（EUV）、刻蚀机与薄膜沉积设备分别由荷兰阿斯麦（ASML）、美国应用材料与日本东京电子等极少数企业垄断。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 89)]]
 > - **无晶圆厂设计商（Fabless Design）** 专注于特定架构、算法与微电路创新，彻底剥离重资产制造负担。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 118–120)]]
 > - **纯晶圆代工制造（Foundry Fabrication）** 依托庞大产能、精细良率控制与数百亿美元投资实现极限规模经济，以[[Taiwan Semiconductor Manufacturing Corporation|台积电]]（TSMC）和三星为代表。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 91)]]
-> - **外包封装、[[Assemblage|组装]]与测试（OSAT / ATP）** 劳动与资本混合密集型后端工序，高度集中于中国大陆、中国台湾及东南亚地区。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 92)]]
+> - **外包封装、[[Assemblage|组装]]与测试（OSAT / [[Advanced Technology Program|ATP]]）** 劳动与资本混合密集型后端工序，高度集中于中国大陆、中国台湾及东南亚地区。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 92)]]
 
 > [!logic-map]- 纵向离散供应链六大环节与多边治理网络
 > ```mermaid

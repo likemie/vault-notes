@@ -75,7 +75,7 @@ updated: 2026-10-02
 > - **1919** 创办并主编《新教育》杂志（*[[New Education Movement\|The New Education]]*），使之成为民国新教育运动的核心理论阵地。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.614]]）
 > - **1919–1921** 与[[Hu Shi\|胡适]]、[[Tao Xingzhi\|陶行知]]等哥大校友共同筹划并全程接待[[John Dewey\|杜威]]在华巡回讲演，构成了杜威思想在华[[Recontextualization\|再脉络化]]的人际基础设施。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.73]]）
 > - **1919–1925** 主编《新教育》，以“养成健全人格、创造进步社会”为宗旨，大力推动激进的[[Democratic Education\|民主教育]]改革。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.614–615]]）
-> - **1925** 《新教育》停刊并由[[Tao Xingzhi\|陶行知]]主编的《新教育评论》取代，标志着新教育运动从“民主”原则向“[[Scientific Attitude\|科学态度]]”原则的[[Paradigm\|范式转换]]。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.619–620]]）
+> - **1925** 《新教育》停刊并由[[Tao Xingzhi\|陶行知]]主编的《新教育评论》取代，标志着新教育运动从“民主”原则向“[[Scientific Attitude\|科学态度]]”原则的[[Paradigm|范式]]转换。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.619–620]]）
 > - **1930–1945** 出任北京[[Grandes Ecoles|大学校]]长、行政院秘书长等职，主导战时高教迁移与国家教育行政。
 > - **1964** 逝世于台北。
 

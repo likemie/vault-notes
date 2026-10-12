@@ -244,7 +244,7 @@ updated: 2026-10-12
 > - **2003 — 循证卫生决策中的 Lavis 战略框架** Lavis et al. (2003) 提出“五问”受众战略模型，标志着循证政策领域第一代知识转移分析工具的成熟。
 > - **2010–2022 — [[Knowledge Mobilisation|知识动员]]三代演进与再定位** Best & Holmes (2010) 与 [[Argument_Torres_2022_KMModels|Torres (2022b)]] 确立知识转移作为知识动员第一代线性模型的历史地位，阐明其向关系协同与自适应复杂系统模型的代际跨越。
 > - **2019 — 德语区学校改进反思教育知识转移的临床医学转化类比** 马尼蒂乌斯与范[[Peter A. Hall|霍尔]]特（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019]]）反思德语区教育治理中的知识转移与[[Transfer Science|转移科学]]（Transferwissenschaft），指出全域监测数据回传在单体学校的成效缺失，强调教育知识流动具有高度情境依存性，不能照搬循证医学的机械转化假定。
-> - **2022 — [[Geopolitics of Knowledge|知识地缘政治]]（GPK）分析[[Paradigm|范式转换]]** [[Argument_Partaken_2022_Springer|Partaken (2022)]] 系统提出将[[Critical Geopolitics|批判地缘政治]]的核心从“[[Knowledge Production|知识生产]]”转向“知识转移”，界定知识在运动中的六大控制模态。
+> - **2022 — [[Geopolitics of Knowledge|知识地缘政治]]（GPK）分析范式转换** [[Argument_Partaken_2022_Springer|Partaken (2022)]] 系统提出将[[Critical Geopolitics|批判地缘政治]]的核心从“[[Knowledge Production|知识生产]]”转向“知识转移”，界定知识在运动中的六大控制模态。
 
 ---
 

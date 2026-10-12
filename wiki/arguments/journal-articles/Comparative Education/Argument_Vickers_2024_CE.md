@@ -81,7 +81,7 @@ citation_aliases:
 > 2020年香港特别行政区维护国家安全法（[[National Security Law]]）实施后，国民教育的推行力度和紧迫性空前提高。2022年，[[Citizenship and Social Development\|公民与社会发展科]]（Citizenship and Social Development）正式取代[[General Education\|通识教育]]科（[[Liberal Studies\|Liberal Studies]]）。这一课程替代仅是对官方身份认同[[Discourse|话语]]的强化，还是标志着教育目标从培养具备批判思考的公民转向灌输单一中国国族身份的质的变化（qualitative change）？（p.138）
 
 > [!claim] 核心主张
-> 通识教育科向公民与社会发展科的转变并非课程微调，而是一场深刻的[[Paradigm\|范式转换]]（paradigm shift）。学校教育的使命已从培养能在多元社会中行使判断力的自主公民，彻底转变为灌输与中央意志高度统一、抹除能动性的爱国臣民（p.154）。这一灌输体系与制度层面的压制以及课外的[[Psychologisation\|心理化]]（psychologisation）治理机制协同运作，共同消解了集体政治能动性（pp.153–154）。
+> 通识教育科向公民与社会发展科的转变并非课程微调，而是一场深刻的[[Paradigm|范式]]转换（paradigm shift）。学校教育的使命已从培养能在多元社会中行使判断力的自主公民，彻底转变为灌输与中央意志高度统一、抹除能动性的爱国臣民（p.154）。这一灌输体系与制度层面的压制以及课外的[[Psychologisation\|心理化]]（psychologisation）治理机制协同运作，共同消解了集体政治能动性（pp.153–154）。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 2020年版通识教育科教科书与2022年版公民与社会发展科教科书的对比分析，重点对比香港今日与[[One Country, Two Systems\|一国两制]]下的香港及改革开放以来的国家分册，并配合官方课程框架与青年发展政策文件（pp.144–148）。
@@ -230,7 +230,7 @@ citation_aliases:
 ### 步骤四 从公民到臣民的范式翻转与学术反思
 
 > [!claim] 步骤四主张
-> 课程转型标志着香港学校教育完成了从培养参与式公民到强加总体化臣民认同的[[Paradigm\|范式转换]]。在此过程中，西方学术界因沉迷于本质主义的去殖民话语，对香港本土能动性的受挫普遍陷入失语状态与认知盲区（pp.154–155）。
+> 课程转型标志着香港学校教育完成了从培养参与式公民到强加总体化臣民认同的[[Paradigm|范式]]转换。在此过程中，西方学术界因沉迷于本质主义的去殖民话语，对香港本土能动性的受挫普遍陷入失语状态与认知盲区（pp.154–155）。
 
 > [!chain-link] 臣民范式与[[Decolonial Paradox\|去殖民悖论]]
 > - **政治生活作为忠诚表演的舞台** 转型后的政治生活不再是公民能动性（civic agency）实践的竞技场，而是退化为表演爱国忠诚的单向舞台（p.155）。
@@ -244,7 +244,7 @@ citation_aliases:
 ---## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **[[Paradigm\|范式转换]]（Paradigm Shift）** [[Citizenship and Social Development\|公民与社会发展科]]替代通识教育科标志着学校教育的转型，从培养具备批判思考和理解多元性的参与式公民，转向灌输同质和总体化认同的爱国臣民（p.154）。
+> 1. **范式转换（Paradigm Shift）** [[Citizenship and Social Development\|公民与社会发展科]]替代通识教育科标志着学校教育的转型，从培养具备批判思考和理解多元性的参与式公民，转向灌输同质和总体化认同的爱国臣民（p.154）。
 > 2. **四维文本重构（Four-dimensional Textual Transformation）** 教科书在历史身份、[[One Country, Two Systems\|一国两制]]宪制解释、文化角色定位、权利与安全位阶四个维度发生质变（pp.148–153）。
 > 3. **国安概念拉伸（Elastic Expansion of National Security）** 总体国家安全观被延伸至经济、文化、科技等十六个总体领域，使任何教育决策与社会事务均可被纳入国家安全红线管理（p.153）。
 > 4. **[[Psychologisation\|心理化]]去政治化[[Disciplina and Doctrina\|规训]]（Psychologisation of Dissatisfaction）** 课外推行[[Youth Development Blueprint\|青年发展蓝图]]和[[My Pledge to Act\|我的行动承诺]]等活动，将结构性矛盾和青年不满转化为个人情绪适应问题，强加感恩与快乐规训（pp.153–154）。

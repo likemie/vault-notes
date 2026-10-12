@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Bureaucracy]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Pillarization]]"
   - "[[Technological Republic]]"
   - "[[Bildung]]"
   - "[[Constructive Disobedience]]"
@@ -99,7 +100,7 @@ updated: 2026-10-08
 > - **无思状态（Thoughtlessness）** 行动者放弃运用批判性反思审视自身行为后果的能力，完全依赖陈词滥调、官僚术语与既定规章指导行动。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 135)]]
 > - **责任让渡与代理态转换（Agentic Shift）** 个体在层级权威命令下，将自我视为执行他人意志的纯粹工具（代理态），将行为后果的道德终极责任完全转移给上级或组织架构。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 133–135)]]
 > - **语言规避与合规礼貌（Linguistic Camouflage）** 组织通过中性、官僚化甚至优雅的“茶会式语言”（如将屠杀称为“最终解决方案”、将致命电击称为“实验程序继续”）掩盖残酷伤害，阻断行动者的道德直觉警觉。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 134–135)]]
-> - **专业分工对整体愿景的割裂（Compartmentalization）** 现代高度细化的科层链条使每个参与者仅接触局部流程，个体因无法直接目睹终端受害者的苦难而产生无辜感与冷漠感。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 135–136)]]
+> - **专业分工对整体愿景的割裂（[[Pillarization|compartmentalization]]）** 现代高度细化的科层链条使每个参与者仅接触局部流程，个体因无法直接目睹终端受害者的苦难而产生无辜感与冷漠感。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 135–136)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid

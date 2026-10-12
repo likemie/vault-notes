@@ -31,6 +31,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
 related_persons:
+  - "[[Fred Block]]"
   - "[[Paul Pierson]]"
 confidence: high
 status: draft
@@ -95,7 +96,7 @@ updated: 2026-10-12
 > [!person-network] 关系网络
 > - **机构** [[International Baccalaureate North America]] — 长期担任执行主任，负责推广、筹资、学校关系和教师支持。
 > - **课程组织** [[International Baccalaureate]] — 把国际课程转化为北美学校可理解、申请和实施的项目。
-> - **组织发起者** 布洛克·卡鲁斯（Blouke Carus） — 推动 IBNA 法人化并担任主席，尼科尔负责把治理设计转化为日常执行。
+> - **组织发起者** [[Fred Block|布洛克]]·卡鲁斯（Blouke Carus） — 推动 IBNA 法人化并担任主席，尼科尔负责把治理设计转化为日常执行。
 > - **先行学校教师** 联合国[[International Schools\|国际学校]]、弗朗西斯·刘易斯高中和[[Paul Pierson|皮尔逊]]书院教师承担早期工作坊教学，形成校际实施网络。
 
 ## 条目关联

@@ -63,6 +63,7 @@ related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16]]"
+  - "[[Argument_Kickert_1995_Governance]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 related_persons:

@@ -36,9 +36,13 @@ related_concepts:
   - "[[Vertical Disintegration]]"
   - "[[Valley of Death]]"
   - "[[Brainstorming]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Emergence]]"
+  - "[[Seed Funding]]"
   - "[[Bureaucracy]]"
   - "[[Research Question]]"
   - "[[Broad Agency Announcement]]"
+  - "[[Market Fundamentalism]]"
   - "[[Research Universities]]"
 related_theories:
   - "[[Systems of Innovation]]"
@@ -49,6 +53,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Fred Block]]"
   - "[[Erica Fuchs]]"
   - "[[Tony Tether]]"
 related_facts:
@@ -57,10 +62,14 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
   - "[[SBIR and STTR Programs]]"
+  - "[[Advanced Technology Program]]"
   - "[[ARPA-E]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
+  - "[[Sematech]]"
+  - "[[Engineering Research Centers]]"
 related_arguments:
   - "[[Argument_Fuchs_2010_RP]]"
+  - "[[Argument_Block_2008_PS]]"
 confidence: high
 status: active
 created: 2026-10-04
@@ -87,7 +96,7 @@ updated: 2026-10-12
 ## 理论来源与形成
 
 > [!theory-origin] 理论渊源与演进动力
-> - **提出者与原始文本** 查尔斯·萨贝尔（Charles Sabel）、克里斯托弗·安塞尔（Christopher Ansell, 2000）与[[Fred Block|弗雷德·布洛克（Fred Block）]]在《逆流而上：美国隐藏的发展型国家的崛起》中系统确立该理论。[[Argument_Block_2008_PS|(Block, 2008, pp. 169–175)]]
+> - **提出者与原始文本** 查尔斯·萨贝尔（Charles Sabel）、克里斯托弗·安塞尔（Christopher Ansell, 2000）与[[Fred Block|弗雷德·布洛克]]（Fred Block）在《逆流而上：美国隐藏的发展型国家的崛起》中系统确立该理论。[[Argument_Block_2008_PS|(Block, 2008, pp. 169–175)]]
 > - **原初问题** 为何奉行自由市场意识形态的美国，能够在计算机、半导体、互联网、生物医药等高风险前沿领域长期保持压倒性领先，且这些颠覆性突破几乎全由联邦资金孕育？
 > - **理论资源** 吸收了彼得·埃文斯（Peter Evans, 1995）的“[[Embedded Autonomy|嵌入式自主性]]”（Embedded Autonomy）、[[Network Governance|网络治理]]理论与[[Evolutionary Economics|演化经济学]]国家[[Systems of Innovation|创新系统]]观。
 > - **形成路径** 从剖析美国“隐藏的发展型国家”（Hidden Developmental State）制度结构出发，归纳出由多元联邦资助机构组成的分布式横向创新网络。
@@ -136,10 +145,10 @@ updated: 2026-10-12
 >
 > **应用实例** 2001 年[[Tony Tether|托尼·瑟瑟]]出任 DARPA 局长推行保密化与军用化改革期间，尽管学界抗议不断，但项目经理在微系统技术办公室（MTO）内部依然延续了非正式[[Network Governance|网络治理]]机制，成功完成了硅基光子学的战略布局。
 
-> [!theory-proposition] 命题四｜后工业知识经济中发展型网络国家取代集权科层发展型国家成为前沿创新主导形态
-> **解释** 在后工业知识经济与高度纵向离散的产业生态中，技术创新大多属于未有先例的“从 0 到 1”突破（如新型生物制剂、颠覆性算法与微系统器件），东亚战后基于单一计划部委（如日本[[Ministry of International Trade and Industry|通产省]] MITI）由上至下模仿追赶与“挑选赢家”的科层发展型国家（Developmental Bureaucratic State, DBS）模式不再适用。DNS 通过在大学、国家实验室、初创企业与龙头企业之间编织去中心化的横向协同网络，实现了自下而上涌现的创新试验与敏捷资源撮合。[[Argument_Block_2008_PS|(Block, 2008, pp. 171–175)]]
+> [!theory-proposition] 命题四｜后工业[[Knowledge-Based Economy|知识经济]]中发展型网络国家取代集权科层发展型国家成为前沿创新主导形态
+> **解释** 在后工业知识经济与高度纵向离散的产业生态中，技术创新大多属于未有先例的“从 0 到 1”突破（如新型生物制剂、颠覆性算法与微系统器件），东亚战后基于单一计划部委（如日本[[Ministry of International Trade and Industry|通产省]] MITI）由上至下模仿追赶与“挑选赢家”的科层发展型国家（Developmental Bureaucratic State, DBS）模式不再适用。DNS 通过在大学、国家实验室、初创企业与龙头企业之间编织去中心化的横向协同网络，实现了自下而上[[Emergence|涌现]]的创新试验与敏捷资源撮合。[[Argument_Block_2008_PS|(Block, 2008, pp. 171–175)]]
 >
-> **应用实例** 面对 1980 年代日本半导体与高端制造的竞争冲击，美国并未设立中央集权的经济企划部委，而是依托 DARPA 战略计算倡议、[[Sematech]] 前竞争共性技术研发联盟、[[National Science Foundation|NSF]] 工程研究中心与 [[SBIR and STTR Programs|SBIR]] 种子资助网络，成功夺回微处理器与信息技术产业主导权。
+> **应用实例** 面对 1980 年代日本半导体与高端制造的竞争冲击，美国并未设立中央集权的经济企划部委，而是依托 DARPA 战略计算倡议、[[Sematech]] 前竞争共性技术研发联盟、[[National Science Foundation|NSF]] [[Engineering Research Centers|工程研究中心]]与 [[SBIR and STTR Programs|SBIR]] [[Seed Funding|种子资助]]网络，成功夺回微处理器与信息技术产业主导权。
 
 ---
 
@@ -183,7 +192,7 @@ updated: 2026-10-12
 > > - **民主问责批判派** 批评发展型网络国家高度依赖“隐藏的”非正式网络与少数精英项目经理的自由裁量权，缺乏阳光国会听证与公众民主监督，存在被军工复合体游说的灰色风险。
 > > - **创新治理自治派** 强调前沿高科技突破具有高度专业性与不可预测性，过度繁琐的政治官僚审查必然导致决策平庸化，适度的专业自治与非正式弹性是防范战略突袭的制度前提。
 >
-> > [!axis] 隐藏发展型国家的结构性弊端（布洛克五重局限假说）
+> > [!axis] 隐藏发展型国家的结构性弊端（[[Fred Block|布洛克]]五重局限假说）
 > > [[Fred Block|弗雷德·布洛克]]指出，由于在[[Market Fundamentalism|市场原教旨主义]]阴影下以“隐形”形态野蛮生长，美国 DNS 存在五大内在体制缺陷：
 > >
 > > - **民主合法性赤字与大尺度协调瘫痪** 缺乏公开民主审议与公众发声渠道，导致大范围系统级基础设施（如全国高速宽带网络）无法获得战略性公共注资。[[Argument_Block_2008_PS|(Block, 2008, pp. 193–195)]]

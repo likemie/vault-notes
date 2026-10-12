@@ -45,6 +45,7 @@ related_concepts:
   - "[[Network Plasticity]]"
   - "[[Vertical Disintegration]]"
   - "[[New Public Management]]"
+  - "[[Champ]]"
   - "[[Steering at a Distance]]"
   - "[[Critical Pedagogy]]"
   - "[[Philanthrocapitalism]]"
@@ -55,6 +56,7 @@ related_concepts:
   - "[[Screening Off]]"
   - "[[Variable]]"
   - "[[Lifelong Learning]]"
+  - "[[Research Universities]]"
 related_theories:
   - "[[Governing at a Distance]]"
   - "[[Technological Trajectories]]"
@@ -89,12 +91,14 @@ related_facts:
   - "[[Australian Education Research Organisation]]"
   - "[[Social Ventures Australia]]"
   - "[[ARPA-E]]"
+  - "[[HBO-Raad]]"
   - "[[OECD]]"
   - "[[Manaiakalani Education Trust]]"
   - "[[Cognition Education]]"
   - "[[Teach First New Zealand]]"
   - "[[Partnership Schools Kura Hourua]]"
   - "[[YOUNG_ADULLLT]]"
+  - "[[Higher Education and Research Plan]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Rambla_2022_Springer]]"
@@ -248,7 +252,7 @@ updated: 2026-10-12
 > 探讨面对高度异质化且具备自主利益的专业组织系统时，国家如何通过规则重塑、部门总额拨款与事后反馈回路，激活网络的自组织协调潜能。
 
 > [!claim] [[Argument_Kickert_1995_Governance|Kickert (1995)]]
-> **多重理性网络自组织对单向科层控制的替代与间接操纵** 瓦尔特·[[Walter J. M. Kickert|基克特]]指出，传统公共行政视国家为凌驾于社会之上的单一最高指挥中心，假定自上而下的行政指令能够自发贯通；然而在现代公共部门，政策执行场域本质上是由具有独立行动逻辑与异质利益的半自主组织构成的“多重理性（Multiple Rationalities）”网络。在荷兰高等教育改革中，当教育部试图通过单向硬性指标削减大学预算并强行合并系所时遭遇全面瘫痪；随后国家改变策略，仅设定宏观财政与部门边界，赋予大学学术委员会（TVC）自组织协商权，大学系统自主完成了 2.57 亿荷盾的学科重组方案；同时，教育部在高等专业教育领域委托院校联合理事会（HBO-Raad）自主编制兼并方案，成功将 348 所分散学院重组为 51 所大型综合学院。这一实践证实，在复杂网络中，国家绝非无所不能的微观操纵者，唯有退守宏观规则设计并实行“[[Steering at a Distance|间接远距离操纵]]”，才能有效激活多元行动者的自组织协调机能。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 145–150)]]
+> **多重理性网络自组织对单向科层控制的替代与间接操纵** [[Walter J. M. Kickert|瓦尔特·基克特]]指出，传统公共行政视国家为凌驾于社会之上的单一最高指挥中心，假定自上而下的行政指令能够自发贯通；然而在现代公共部门，政策执行[[Champ|场域]]本质上是由具有独立行动逻辑与异质利益的半自主组织构成的“多重理性（Multiple Rationalities）”网络。在荷兰高等教育改革中，当教育部试图通过单向硬性指标削减大学预算并强行合并系所时遭遇全面瘫痪；随后国家改变策略，仅设定宏观财政与部门边界，赋予大学学术委员会（TVC）自组织协商权，大学系统自主完成了 2.57 亿荷盾的学科重组方案；同时，教育部在高等专业教育领域委托院校联合理事会（[[HBO-Raad]]）自主编制兼并方案，成功将 348 所分散学院重组为 51 所大型综合学院。这一实践证实，在复杂网络中，国家绝非无所不能的微观操纵者，唯有退守宏观规则设计并实行“间接[[Steering at a Distance|远距离操纵]]”，才能有效激活多元行动者的自组织协调机能。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 145–150)]]
 
 ---
 
@@ -359,7 +363,7 @@ updated: 2026-10-12
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 澳大利亚公立教育[[Policy Network\|政策网络]]与[[Venture Philanthropy\|风险慈善]]中介（SVA 辐射 20 年网络，2002–2021） | 监管档案调档、税法修正案追踪与 Gephi 拓扑分析 | 咨询外包公共支出；组织四层控股架构；法定特许审批 | 联邦管理咨询公共支出居全球首位（人均）；揭示 4 层控股网络；通过《1997年所得税评估法》修正特许 [[Deductible Gift Recipient\|DGR1]] 免税资质；撬动 5000 万澳元政府联合注资 | — | 确证国家在网络治理中演进为异层市场缔造者与制度担保人，推翻国家单纯空心化假说 |
 > | [[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987)]] | [[United World Colleges\|联合世界书院]]（UWC）跨国分层治理体系（1962–1987 历史档案） | 历史制度主义[[Case Study\|案例研究]]与长程[[Process Tracing\|过程追踪]] | 治理节点协同度；跨国奖学金与资金分担比重 | 跨国网络涵盖数十个国家选拔委员会与多所独立自治书院，通过分层协议实现无中心科层的跨国持续协调 | — | 展现网络治理在跨国教育自治共同体中兼顾文化多样性与核心使命统一性的制度有效性 |
 > | [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] | [[DARPA]] 微系统技术办公室 1992–2008 年资助的 4 项半导体关键材料技术（50 场深度访谈、专利履历比对与田野观察） | 纵向[[Grounded Theory\|扎根理论]]案例研究与[[Triangulation\|三角互证]]法 | 资助模式；主承包商结构；项目经理 5 项微观治理机制 | 证实 2001 年后采办主承包商由大学转向老牌企业，引入硬性里程碑；但 PM 识别方向、播撒主题、工作坊强制知识流动、第三方背书与断乳等 5 项治理机制跨越两任领导期稳定延续 | — | 揭示[[Embedded Network Governance\|嵌入型网络治理]]在应对纵向碎片化高科技产业中的制度连续性与网络重塑功能 |
-> | [[Argument_Kickert_1995_Governance\|Kickert (1995)]] | 荷兰高等教育系统（13 所公立研究型大学与 348 所高等专业教育学院）；1980 年代财政紧缩与治理重构 | 政策网络过程追踪与历史制度分析 | ① 大学 TVC 自律重组削减预算额度；② HBO 机构兼并自组织方案落实率；③ 规划机制演变（四年期指令 vs 双年度 HOOP 对话） | ① 13 所大学通过 TVC 委员会自主达成 2.57 亿荷盾学科重组与预算削减；② 348 所职业学校通过院校联合理事会（HBO-Raad）自主协商兼并为 51 所大型综合学院；③ 确立基于实据与平等协商的双年度 HOOP 对话规划机制 | — | 确证由多元异质组织构成的复杂系统具备强大的自组织协商协调能力，推翻单向科层指令的有效性假定 |
+> | [[Argument_Kickert_1995_Governance\|Kickert (1995)]] | 荷兰高等教育系统（13 所公立[[Research Universities\|研究型大学]]与 348 所高等专业教育学院）；1980 年代财政紧缩与治理重构 | 政策网络过程追踪与历史制度分析 | ① 大学 TVC 自律重组削减预算额度；② HBO 机构兼并自组织方案落实率；③ 规划机制演变（四年期指令 vs 双年度 [[Higher Education and Research Plan\|HOOP]] 对话） | ① 13 所大学通过 TVC 委员会自主达成 2.57 亿荷盾学科重组与预算削减；② 348 所职业学校通过院校联合理事会（[[HBO-Raad]]）自主协商兼并为 51 所大型综合学院；③ 确立基于实据与平等协商的双年度 HOOP 对话规划机制 | — | 确证由多元异质组织构成的复杂系统具备强大的自组织协商协调能力，推翻单向科层指令的有效性假定 |
 
 ---
 
@@ -368,7 +372,7 @@ updated: 2026-10-12
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 论述如何通过“去中心化探索型公共网络”（如 [[DARPA]]、[[ARPA-E]]）实现使命导向攻坚，并尖锐批判将核心智识外包给商业咨询公司所导致的国家去能力化风险。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 基于对 DARPA MTO 在 1992 至 2008 年间 4 项半导体关键技术资助的长程扎根[[Case Study|案例研究]]，首次提出[[Embedded Network Governance|嵌入型网络治理]][[Paradigm|范式]]，阐明公共代理人如何主动重塑研发社会网络以引导国家战略[[Technological Trajectories|技术轨道]]。
-> - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 结合荷兰高等教育从中央微观规制向间接远距离操纵的转型经验，深入阐述多重理性政策网络的自组织协调机制与制度边界。
+> - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 结合荷兰高等教育从中央微观规制向间接[[Steering at a Distance|远距离操纵]]的转型经验，深入阐述多重理性[[Policy Network|政策网络]]的自组织协调机制与制度边界。
 > - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 结合 Gephi 网络拓扑与税法追踪，深入剖析澳大利亚[[Venture Philanthropy|风险慈善]]网络如何依托异层国家实践改写公共教育再分配。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统检视新西兰基础教育向网络治理转型过程中，[[Discourse|话语]]变迁与 9 大公私化改革实例。
 > - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 基于欧盟 [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]实证解析欧洲大陆官僚科层与网络治理的复杂杂合形态与指标远程[[Disciplina and Doctrina|规训]]。

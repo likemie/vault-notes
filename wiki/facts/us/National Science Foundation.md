@@ -48,6 +48,7 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[Diversity, Equity, and Inclusion]]"
   - "[[Scientific Literacy]]"
+  - "[[Scale Enlargement]]"
   - "[[Paradigm]]"
   - "[[Scientific Method]]"
   - "[[Portfolio-Based Research Funding]]"
@@ -225,7 +226,7 @@ updated: 2026-10-10
 > > 探讨研究生资助究竟应以充当 PI 实验室用工为导向，还是以赋权青年学者独立探索为导向。
 > >
 > > - **课题助研用工化批评（[[Argument_Stephan_2013_NBER|Stephan, 2013]]）** 资助过度绑定在 PI 项目上的助研津贴（GRAs），导致学生被异化为廉价劳动力并延长修读年限。
-> > - **可携带奖学金改革论** 主张大规模扩充 NSF GRFP 奖学金名额，直接向博士生本人发放可携带资金，赋予青年学者挑选顶尖导师与跨学科探索的充分自主权。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
+> > - **可携带奖学金改革论** 主张大[[Scale Enlargement|规模扩充]] NSF GRFP 奖学金名额，直接向博士生本人发放可携带资金，赋予青年学者挑选顶尖导师与跨学科探索的充分自主权。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
 
 ---
 

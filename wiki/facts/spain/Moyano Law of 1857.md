@@ -135,7 +135,7 @@ updated: 2026-10-12
 >
 > > [!axis] 制度稳定性 vs 阻碍现代化的历史惰性
 > > - **传统保守势力** 将莫亚诺法案长期不加改动视作国家社会秩序稳定、兼顾天主教信仰与世俗权力的典范。
-> > - **García Garrido (2009)** 认为其超长存续反映了西班牙面向外部世界的迟缓、冷漠与深层孤立主义，造成了极难弥合的历史欠账。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 322–323)]]
+> > - **[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]]** 认为其超长存续反映了西班牙面向外部世界的迟缓、冷漠与深层孤立主义，造成了极难弥合的历史欠账。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 322–323)]]
 
 > [!citation-card] 代表性评论
 > 莫亚诺法案在当时是一部迟缓胆怯的立法，它所建立的体系远远落后于西欧邻国，然而西班牙社会却在此后长达一个世纪里任由其维系，直至 1970 年才被迫向现代世界开放。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 322–323)]]

@@ -58,6 +58,7 @@ related_facts:
   - "[[Organisation for European Economic Co-operation]]"
   - "[[OECD]]"
   - "[[Mediterranean Regional Project]]"
+  - "[[Advanced Technology Program]]"
   - "[[Educational Services Australia]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
@@ -108,7 +109,7 @@ updated: 2026-10-07
 > - **全球国家规划师校友网络** 数十年间培训的数千名[[Development Education|发展中国家教育]]部高级规划官员，构成支撑跨国政策知识流通的紧密行政网络。
 
 > [!pathways]- 业务运行机制
-> - **高阶专业培训体系** 设立一年制教育规划高级培训课程（Advanced Training Programme，ATP）、区域密集模块及在线认证项目，系统培养发展中国家骨干技术官僚。
+> - **高阶专业培训体系** 设立一年制教育规划高级培训课程（Advanced Training Programme，[[Advanced Technology Program|ATP]]）、区域密集模块及在线认证项目，系统培养发展中国家骨干技术官僚。
 > - **国家实地技术援助与诊断** 应成员国政府邀请组建跨国专家团，深入开展国家教育部门全景诊断（Education Sector Analysis，[[Educational Services Australia\|ESA]]），协助编制符合国际多边受援标准的国家中期教育发展规划（Education Sector Development Plan，ESDP）。
 > - **前沿应用政策工具研发** 研制微观学校选址模型、教育财政模拟投影工具及教育管理信息系统（Education Management Information System，EMIS）诊断标准，赋能基层自主治理。
 

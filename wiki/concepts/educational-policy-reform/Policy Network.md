@@ -27,6 +27,7 @@ related_concepts:
   - "[[Knowledge Mediation]]"
   - "[[Document]]"
   - "[[Assemblage]]"
+  - "[[Theoretical Perspective]]"
   - "[[Discourse]]"
   - "[[Co-affiliation]]"
   - "[[Evidence Ecosystem]]"
@@ -47,10 +48,16 @@ related_concepts:
   - "[[Epistemological Coherence]]"
   - "[[Relational Space]]"
   - "[[Knowledge Production]]"
+  - "[[Incommensurability]]"
+  - "[[Network Governance]]"
+  - "[[Paradigm]]"
   - "[[Philanthrocapitalism]]"
+  - "[[Steering at a Distance]]"
   - "[[Initial Teacher Training]]"
   - "[[Deductible Gift Recipient]]"
   - "[[Going Native]]"
+  - "[[Research Universities]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Professional Judgment]]"
   - "[[Epistemic Coloniality]]"
   - "[[Analytical Stance]]"
@@ -58,11 +65,13 @@ related_concepts:
 related_theories:
   - "[[Cognitive Load Theory]]"
   - "[[Path Dependence]]"
+  - "[[Pluralism]]"
+  - "[[Neocorporatism]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Network Analysis]]"
   - "[[Network Ethnography]]"
   - "[[Ethnography]]"
-  - "[[Network Analysis]]"
   - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_persons:
@@ -110,7 +119,7 @@ updated: 2026-10-12
 > 在教育研究与治理[[Document\|文献]]中，该概念展现出三大互补的研究视角：
 > 1. **批判政策社会学视角** 特指打破传统国家科层层级、通过非正式人事重叠、引文网络交织与资金纽带协同运作的**全球政策网络（Global Policy Networks）**，揭示资本与公权力联合开展理念编排（idea orchestration）与耐用客体[[Assemblage\|装配]]的异质治理（heterarchy）机制；实证研究进一步表明，国家并未在此类网络中空心化退场，而是主动充当市场缔造者与资助催化平台，通过立法特许和定向配资重构国家再分配职能（Ball, 2012; [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023]]）。
 > 2. **实证公共治理与证据生态视角** 聚焦最高教育行政机构（如教育部委）在政策制定过程中定期征询外部多元主体的组织联结网络，重点测度网络规模（network size）、联结强度（tie strength）以及政策促成相关性，揭示网络规模与互动深度非线性解耦的体制机理（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 76, 84–87]]）。
-> 3. **公共行政与网络协调理论视角** 将政策网络界定为由多重相对自主行动者相互依赖交织而成的非层级系统。专业化与分工使各子系统具有异质自主理性，缺乏单一统摄性的公共利益；科层自上而下的命令在此类多理性网络中结构性失效（“网络中不存在绝对顶层”），促使政府调控从单向强制转向非强制激励、规则博弈与基于理性论证的对话（[[Argument_Kickert_1995_Governance\|Kickert, 1995, pp. 148–150]]）。
+> 3. **公共行政与网络协调[[Theoretical Perspective|理论视角]]** 将政策网络界定为由多重相对自主行动者相互依赖交织而成的非层级系统。专业化与分工使各子系统具有异质自主理性，缺乏单一统摄性的公共利益；科层自上而下的命令在此类多理性网络中结构性失效（“网络中不存在绝对顶层”），促使政府调控从单向强制转向非强制激励、规则博弈与基于理性论证的对话（[[Argument_Kickert_1995_Governance\|Kickert, 1995, pp. 148–150]]）。
 
 > [!concept-lens] 概念透镜
 > - **核心内涵** 描述教育决策权与证据动员权向网络状分布结构的分散化与再集中，兼具非正式权力结盟、公私资本嵌套、国家异层催化与科层政务咨询的多重面向。
@@ -260,9 +269,9 @@ updated: 2026-10-12
 
 > [!claim] [[Walter J. M. Kickert|Kickert, W. J. M.]]
 > **科层命令在多理性政策网络中的逻辑破产断言** 瓦尔特·基克特（[[Walter J. M. Kickert]]）指出，现代公共治理系统（尤其是高等教育与科研领域）本质上是由高度分工的专业人员相互依赖交织而成的政策网络，传统的韦伯科层命令假定在此面临根本性的逻辑破产：
-> 1. **异质专业理性的不可通约性** 组织专业化导致不同行动者各自遵循其特定学科共同体或职业部门的异质理性与价值标准（如医学院、经济学院与工程学院），不存在能够通摄全局的单一最高工具理性；
+> 1. **异质专业理性的[[Incommensurability|不可通约性]]** 组织专业化导致不同行动者各自遵循其特定学科共同体或职业部门的异质理性与价值标准（如医学院、经济学院与工程学院），不存在能够通摄全局的单一最高工具理性；
 > 2. **绝对顶层权威的客观缺失** 政策网络内不存在拥有绝对控制力的单一权力中心（“网络中没有绝对顶层”）；在此拓扑结构下，自上而下的单边强制命令不仅无法实现预期协调目标，反而会诱发普遍的消极抵触与系统瘫痪；
-> 3. **网络治理向激励与协商对话的范式转移** 当强制命令失效时，国家必须调整调控工具，放弃微观事前干预，转向利用非强制性激励、事后质量信息反馈以及基于客观论据的理性协商对话。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 148–150)]]
+> 3. **[[Network Governance|网络治理]]向激励与协商对话的[[Paradigm|范式]]转移** 当强制命令失效时，国家必须调整调控工具，放弃微观事前干预，转向利用非强制性激励、事后质量信息反馈以及基于客观论据的理性协商对话。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 148–150)]]
 
 ---
 
@@ -285,8 +294,8 @@ updated: 2026-10-12
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1960s–1970s 多元主义与执行网络奠基** 罗伯特·达尔（Robert Dahl, 1961）从多元主义视角将政府视作多元冲突利益行动者的谈判网络；普雷斯曼与瓦尔达夫斯基（Pressman & Wildavsky, 1975）及汉夫与夏普夫（Hanf & Scharpf, 1979）开创政策执行中的组织间网络分析。
-> - **1980s–1990s 欧陆公共行政与网络治理理论成型** 莱姆布鲁赫与施密特（Lehmbruch & Schmitter, 1982）奠定新法团主义网络协调；[[Walter J. M. Kickert|瓦尔特·基克特]]（Kickert, 1991, 1995）与罗兹（Rhodes, 1996）系统论证政策网络的去中心化、多理性与相互依赖特征，确立“网络中无绝对顶层”与间接调控治理范式。
+> - **1960s–1970s [[Pluralism|多元主义]]与执行网络奠基** 罗伯特·达尔（Robert Dahl, 1961）从多元主义视角将政府视作多元冲突利益行动者的谈判网络；普雷斯曼与瓦尔达夫斯基（Pressman & Wildavsky, 1975）及汉夫与夏普夫（Hanf & Scharpf, 1979）开创政策执行中的组织间[[Network Analysis|网络分析]]。
+> - **1980s–1990s 欧陆公共行政与[[Network Governance|网络治理]]理论成型** 莱姆布鲁赫与施密特（Lehmbruch & Schmitter, 1982）奠定[[Neocorporatism|新法团主义]]网络协调；[[Walter J. M. Kickert|瓦尔特·基克特]]（Kickert, 1991, 1995）与罗兹（Rhodes, 1996）系统论证政策网络的去中心化、多理性与相互依赖特征，确立“网络中无绝对顶层”与[[Steering at a Distance|间接调控]]治理[[Paradigm|范式]]。
 > - **2012 跨国政策网络转向** [[Stephen Ball\|斯蒂芬·鲍尔]]（[[Stephen Ball]]）提出全球政策网络与异质治理概念，指涉跨国中介公司、[[Venture Philanthropy\|风险慈善]]基金会以及新自由主义智库对主权国家公共政策的网状操纵。
 > - **2018 证据生态网络的合流** 以英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）实施全球[[Evidence Ecosystem\|证据生态系统]]计划为代表，政策网络披上“中立科学”外衣，在多国平移复制镜像证据组织（如[[Australian Education Research Organisation\|澳大利亚教育研究组织]]，Australian Education Research Organisation, AERO）。
 > - **2022 [[OECD]] 跨国政务网络实证测度** 经合组织（[[OECD]]）[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022]]）首次在 29 国 37 个教育系统全面测度部委政务网络，揭示了网络规模与联结强度的解耦、大网络陷阱与生产依附偏误。
@@ -340,7 +349,7 @@ updated: 2026-10-12
 > | 政策实验阶段 | 互动行动者与网络结构 | 调控工具与机制 | 治理实效与网络反应 |
 > |---|---|---|---|
 > | **第一阶段：教育部自上而下强推计划** | 教育部单向针对医学院与工程学院下达削减指令 | 传统韦伯科层命令、详尽事前指标与行政审批 | 遭到大学教授群体与院系联合抵制并引发议会诉讼，强行计划全面流产 |
-> | **第二阶段：大学政策网络自组织协调（TVC）** | 全国研究型大学自组联合协商委员会 | 统包预算目标下的院校网络同行评议与自愿妥协 | 自主完成 2.57 亿荷盾预算削减与 6000 万荷盾内部储蓄，确证网络自组织调控潜能 |
+> | **第二阶段：大学政策网络自组织协调（TVC）** | 全国[[Research Universities\|研究型大学]]自组联合协商委员会 | 统包预算目标下的院校网络同行评议与自愿妥协 | 自主完成 2.57 亿荷盾预算削减与 6000 万荷盾内部储蓄，确证网络自组织调控潜能 |
 
 ---
 
@@ -352,7 +361,7 @@ updated: 2026-10-12
 > > 争论公共部门在面对复杂专业事务时，应依赖韦伯式的垂直层级统摄，还是承认去中心化网络并采取间接激励调控。
 > >
 > > - **韦伯科层指令立场** 假定顶层具备统管全局的公共利益工具理性，主张通过严密法条与事前审批强化行政整合。
-> > - **网络协调理论立场** 强调专业分工必然孕育多重异质理性，网络中不存在绝对顶层，自上而下的单边命令必然招致失败，国家必须转向激励、事后反馈与理性协商对话。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 149–150)]]
+> > - **网络协调[[Theoretical Standpoint|理论立场]]** 强调专业分工必然孕育多重异质理性，网络中不存在绝对顶层，自上而下的单边命令必然招致失败，国家必须转向激励、事后反馈与理性协商对话。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 149–150)]]
 >
 > > [!axis] 国家角色之争：国家空心化 vs 异层市场缔造者
 > > 争议政策网络是在掏空削弱民族国家的主权统治，还是促使国家重构为更主动的异层市场缔造者。

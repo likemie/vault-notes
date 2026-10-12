@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Apprenticeship]]"
   - "[[Competitiveness]]"
+  - "[[Block Grants]]"
   - "[[Attrition]]"
   - "[[Goodhart's Law]]"
 related_theories: []
@@ -60,7 +61,7 @@ updated: 2026-10-07
 
 > [!boundary]- 概念边界
 > - 不等于 [[Workforce Pell Grants 2025|劳动力佩尔助学金]] — 佩尔助学金解决学员个体的学费负担与准入门槛，而结果导向拨款解决培训机构与雇主的后端产出激励。
-> - 不等于传统的总额预算制或按人头直接拨付模式。
+> - 不等于传统的[[Block Grants|总额预算]]制或按人头直接拨付模式。
 
 ---
 

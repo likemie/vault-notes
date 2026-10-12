@@ -22,6 +22,7 @@ tags:
   - economics-of-science
 related_concepts:
   - "[[Shopping Mall Model of Research Universities]]"
+  - "[[Block Grants]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Grandes Ecoles]]"
   - "[[Variable]]"
@@ -78,7 +79,7 @@ updated: 2026-10-07
 ## 概念辨析
 
 > [!contrast-table] 间接成本与直接成本及基础事业拨款辨析
-> | 维度 | 科研间接成本（F&A / Indirect Costs） | 科研直接成本（Direct Costs） | 基础事业财政拨款（Block Grant） |
+> | 维度 | 科研间接成本（F&A / Indirect Costs） | 科研直接成本（Direct Costs） | 基础事业财政拨款（[[Block Grants\|block grant]]） |
 > |---|---|---|---|
 > | **资金支配主体** | 大学中央行政与院系管理当局统筹 | 获批课题项目负责人（PI）专款专用 | 大学管理层与评议会按年度预算分配 |
 > | **核算基准** | 按直接成本特定基数（MTDC）乘以协议费率 | 按课题实验方案中的预算科目实报实销 | 按学生规模、[[Disciplinary Institutionalization\|学科建制]]或历史基数划拨 |

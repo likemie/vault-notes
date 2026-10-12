@@ -37,6 +37,7 @@ related_concepts:
   - "[[Rationalized Myth]]"
   - "[[Research Utilization]]"
   - "[[Research Universities]]"
+  - "[[Technology Transfer]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Case Study]]"
@@ -56,13 +57,16 @@ related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_Reynolds_2024_JICT]]"
   - "[[Argument_Zhuo_2026_ICE]]"
+  - "[[Argument_Block_2008_PS]]"
 related_facts:
   - "[[OECD]]"
   - "[[What Works Network]]"
   - "[[Reading Excellence Act]]"
   - "[[Infrastructure Investment and Jobs Act]]"
   - "[[CHIPS and Science Act]]"
-  - "[[Inflation Reduction Act]]"
+  - "[[International Reading Association]]"
+related_theories:
+  - "[[Developmental Network State]]"
 confidence: medium
 status: draft
 created: 2026-06-24
@@ -183,6 +187,6 @@ Jupp & Norris (1993) 将文献分析的理论传统归纳为三类：
 > - [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022, pp. 91–93)]] 运用 MAXQDA 对 1983 至 2019 年间英格兰 46 份教师教育政策开展文献分析，追踪引文演化与国际参照系变迁，揭示“证据”如何被制度化为[[Rationalized Myth|合理化神话]]。
 > - [[Argument_Kelly_2025_ROE|Kelly et al. (2025, pp. 9–10)]] 对英格兰、德国（汉堡）与苏格兰三地的 49 份政府政策文本、国际非政府组织报告及中介机构公开文献进行跨国文献分析（Documentary Analysis），系统梳理了不同治理体制下[[Research Utilization|研究使用]]指引的目标受众、证据呈现与支持方式。
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005, pp. 4–10)]] 运用文献分析（Documentary Analysis）系统对比了美国《[[Reading Excellence Act|卓越阅读法案]]》在众议院与参议院审议中的立法文本草案、听证会证词及专业协会政策声明，解析了阅读定义与科学证据门槛演变背后的政策博弈。
-> - [[Argument_Reynolds_2024_JICT|Reynolds (2024, pp. 6–13)]] 运用文献分析对美国《[[Infrastructure Investment and Jobs Act|IIJA]]》、《[[CHIPS and Science Act|芯片法案]]》与《[[Inflation Reduction Act|IRA]]》法定条文、联邦规章及资助公告展开系统梳理，解析护栏条款与社会附加条件的运行机制。
+> - [[Argument_Reynolds_2024_JICT|Reynolds (2024, pp. 6–13)]] 运用文献分析对美国《[[Infrastructure Investment and Jobs Act|IIJA]]》、《[[CHIPS and Science Act|芯片法案]]》与《[[International Reading Association|IRA]]》法定条文、联邦规章及资助公告展开系统梳理，解析护栏条款与社会附加条件的运行机制。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026, pp. 17–28)]] 运用政策文献分析（Documentary Analysis）与制度演化分析，系统梳理了《[[CHIPS and Science Act|芯片与科学法案]]》及相关联邦白皮书与产业报告，深入剖析了美国[[Research Universities|研究型大学]]在国家半导体体系中从基础研究引领、人才梯队培养到创新网络建构的角色重构及其制度张力。
-> - [[Argument_Block_2008_PS|Block (2008, pp. 176–188)]] 运用政策文献分析（Documentary Analysis）系统梳理了 1980 至 1988 年间美国国会立法的六项关键科技法案及相关联邦行政规程，结合联邦实验室技术转移与商业化数据，论证了去中心化发展型网络国家制度架构的历史成因。
+> - [[Argument_Block_2008_PS|Block (2008, pp. 176–188)]] 运用政策文献分析（Documentary Analysis）系统梳理了 1980 至 1988 年间美国国会立法的六项关键科技法案及相关联邦行政规程，结合联邦实验室[[Technology Transfer|技术转移]]与商业化数据，论证了去中心化[[Developmental Network State|发展型网络国家]]制度架构的历史成因。

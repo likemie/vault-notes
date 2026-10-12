@@ -52,6 +52,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Advanced Technological Education]]"
+  - "[[Higher Education and Research Plan]]"
   - "[[Common Core State Standards]]"
 related_arguments:
   - "[[Argument_McDonnell_2013_AJE]]"
@@ -94,7 +95,7 @@ updated: 2026-10-10
 > [!method-stack] 过程追踪中的四大经典因果证据检验
 > 根据质性方法学家范·埃弗拉（Stephen Van Evera）与戴维·科利尔（David Collier）的分类，过程追踪运用[[Necessary and Sufficient Conditions|充分条件]]与必要条件逻辑，对理论假说进行四种严苛度不同的经验证据检验：
 > - **风中麦草测试（Straw-in-the-wind test）** 既非充分条件亦非必要条件。能为假说提供初步支持或怀疑，但无法确立或彻底排除假说。
-> - **环形测试（Hoop test）** 是假说成立的必要条件，但非充分条件。假说若未通过此检验则直接被[[Falsification|证伪]]排除，但通过检验尚不足以完全确证。
+> - **环形测试（[[Higher Education and Research Plan|HOOP]] test）** 是假说成立的必要条件，但非充分条件。假说若未通过此检验则直接被[[Falsification|证伪]]排除，但通过检验尚不足以完全确证。
 > - **吸烟枪测试（Smoking gun test）** 是假说成立的充分条件，但非必要条件。一旦发现该类铁证（如决策者在私密日记中明确承认因某一报告而改变立场），即可强力确证假说，但未找到此类证据并不直接证伪假说。
 > - **双重决定性测试（Doubly decisive test）** 兼具充分条件与必要条件。单一测试同时确证某一核心假说并彻底排除所有替代性竞争假说。
 
