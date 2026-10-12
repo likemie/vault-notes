@@ -129,4 +129,4 @@ updated: 2026-10-12
 ## 应用案例
 
 > [!evidence-grid-a]- 应用案例索引
-> - [[Argument_Block_2008_PS]] — 运用市场原教旨主义概念剖析美国两党政治如何扼杀先进技术计划（[[Advanced Technology Program|ATP]]）等显性产业政策，迫使国家发展型职能向隐秘网络退避。
+> - [[Argument_Block_2008_PS|Block (2008)]] — 运用市场原教旨主义概念剖析美国两党政治如何扼杀先进技术计划（[[Advanced Technology Program|ATP]]）等显性产业政策，迫使国家发展型职能向隐秘网络退避。

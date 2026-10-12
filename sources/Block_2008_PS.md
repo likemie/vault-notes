@@ -1,6 +1,7 @@
 ---
 citation: "Block, F. (2008). Swimming against the current: The rise of a hidden developmental state in the United States. Politics & Society, 36(2), 169–206. https://doi.org/10.1177/0032329208318731"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Block_2008_PS]]"
 processed_date: 2026-10-12
 ---
 
