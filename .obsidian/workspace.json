@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Governance/Argument_Kickert_1995_Governance.md",
+                "file": "wiki/arguments/journal-articles/Politics & Society/Argument_Block_2008_PS.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Kickert_1995_Governance"
+              "title": "Argument_Block_2008_PS"
             }
           }
         ],
@@ -118,7 +118,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "书签"
             }
@@ -133,8 +136,7 @@
               "title": "Recent files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -273,13 +275,14 @@
   },
   "active": "9fa9dc0454e1193e",
   "lastOpenFiles": [
+    "wiki/concepts/political-economy-geopolitics/Market Fundamentalism.md",
+    "wiki/arguments/journal-articles/Politics & Society/Argument_Block_2008_PS.md",
+    "wiki/arguments/journal-articles/Governance/Argument_Kickert_1995_Governance.md",
     "scratch_paper_text.txt",
     "sources/Block_2008_PS.md",
     "sources/Block_2008_PS.pdf",
-    "wiki/arguments/journal-articles/Politics & Society/Argument_Block_2008_PS.md",
     "wiki/arguments/journal-articles/Politics & Society",
     "wiki/facts/us/Advanced Technology Program.md",
-    "wiki/concepts/political-economy-geopolitics/Market Fundamentalism.md",
     "wiki/persons/us/Fred Block.md",
     "wiki/facts/netherlands/HBO-Raad.md",
     "wiki/facts/netherlands/VSNU.md",
@@ -291,7 +294,6 @@
     "wiki/theories/educational-philosophy/Law of Requisite Variety.md",
     "wiki/concepts/higher-education/Block Grants.md",
     "wiki/concepts/political-economy-geopolitics/Red Tape.md",
-    "wiki/arguments/journal-articles/Governance/Argument_Kickert_1995_Governance.md",
     "wiki/facts/us/A Nation at Risk 1983.md",
     "wiki/theories/political-economy-geopolitics/Governing at a Distance.md",
     "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md",
@@ -309,7 +311,6 @@
     "wiki/concepts/comparative-education/Pillarization.md",
     "raw/Teach-Observer-Manual-First-Edition.pdf",
     "raw/kickert1995.pdf",
-    "raw/block2008.pdf",
     "tmp/render_check/s513-113.png",
     "tmp/render_check/s513-040.png",
     "tmp/render_check/img/s_fig311.png",
