@@ -9,7 +9,7 @@ aliases:
 summary: "大学研究成果与前沿工业创新转化为商业应用与产业扩散的过程。除以 Bayh-Dole Act 为核心的专利排他许可与 TTO 商业化路径外，战后信息技术体系亦证实了公共领域开源披露、强制第二供应商工艺诀窍转移与科研人才跨界流动的决定性作用；当代科技政策进一步依托合作研发协议（CRADA）与其它交易授权（OTA）推动敏捷化与统一许可框架，将技术转移锚定于国家技术主权与本土制造能力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 58
+related_count: 62
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Von Neumann Architecture]]"
   - "[[Assemblage]]"
+  - "[[Market Fundamentalism]]"
   - "[[Research Universities]]"
   - "[[Responsible Innovation]]"
   - "[[Return on Investment]]"
@@ -56,6 +57,7 @@ related_concepts:
   - "[[Document]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Developmental Network State]]"
   - "[[Academic Capitalism]]"
   - "[[Systems of Innovation]]"
 related_methods:
@@ -65,6 +67,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[David C. Mowery]]"
+  - "[[Fred Block]]"
   - "[[Michael Kratsios]]"
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"
@@ -80,13 +83,14 @@ related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
   - "[[Argument_Mody_2017_MOH]]"
+  - "[[Argument_Block_2008_PS]]"
   - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
   - "[[Argument_Glitz_2020_AER]]"
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-09
+updated: 2026-10-12
 ---
 
 # Technology Transfer
@@ -150,7 +154,7 @@ updated: 2026-10-09
 
 > [!logic-map]- 技术转移多元渠道系统模型
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     subgraph Upstream["科研源头（大学与国家实验室）"]
 >         K1["基础理论与前沿原型"]
 >         K2["高素质科研人才与研究生"]
@@ -167,7 +171,7 @@ updated: 2026-10-09
 >     subgraph Downstream["产业与社会系统"]
 >         I1["商业市场产品化与颠覆性产业集群"]
 >         I2["国家关键基础设施与通用目的技术普及"]
->         I3["本土先进制造闭环与全要素生产率（TFP）增长"]
+>         I3["本土先进制造生态构建与全要素生产率（TFP）增长"]
 >     end
 > 
 >     Upstream ==> Channels ==> Downstream
@@ -187,6 +191,7 @@ updated: 2026-10-09
 > | **广义[[Knowledge Exchange\|知识交流]]命题** | 关系型人员流动与隐性[[Knowledge Exchange\|知识交流]]正在重塑传统交易型技术转移 | [[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen (2025)]] | 英国BTG垄断解除、Alvey计划与高等教育创新基金改革 |
 > | **重资产平台复用命题** | 重资产通用技术领域的转移依托多边联合体、国家开放设施与多学科跨界再造 | [[Argument_Mody_2017_MOH\|Mody (2017)]] | 1970–1990年代美国加州理工 [[Silicon Structures Project\|SSP]]、康奈尔 [[National Research and Resource Facility for Submicron Structures\|NRRFSS]] 与基因枪转化 |
 > | **敏捷统一许可命题** | 技术转移必须打破跨校条款碎片化，依托 [[Cooperative Research and Development Agreement\|CRADA]] 与 OTA 敏捷协议将成果锚定于本土制造 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | 白宫 [[Office of Science and Technology Policy\|OSTP]] 2026 国家技术许可改革、国家实验室[[Big Science\|大科学]]设施开放与 OTA 商业授权 |
+> | **知识虚构商品化阻碍命题** | 激进的排他性专利占有将知识异化为虚构商品，导致跨组织研发因防范侵权与独占恐惧而产生严重的协同阻力 | [[Argument_Block_2008_PS\|Block (2008)]] | 美国《[[Bayh-Dole Act of 1980\|拜杜法案]]》与《联邦技术转移法》确立后医药及微电子跨企业协作壁垒 |
 
 ---
 
@@ -225,13 +230,22 @@ updated: 2026-10-09
 
 ---
 
+### 命题六　知识作为虚构商品的激进私有化会反向扼杀跨机构技术转移与研发协作
+
+> [!claim] [[Argument_Block_2008_PS|Block (2008)]]
+> **虚构商品异化与跨界合作阻碍论** [[Fred Block|弗雷德·布洛克]]（Fred Block）拓展卡尔·波兰尼（Karl Polanyi）的虚构商品理论指出，知识在本质上不是商品，科学共同体的繁荣依赖于开放辩论与无私共享。然而，受[[Market Fundamentalism|市场原教旨主义]]主导的现代技术转移体制将知识等同于普通排他性私人财产，极度推崇激进的产权占有主张。这种排他性产权逻辑构筑了严重的制度壁垒：合作各方因极度担忧潜在合作者会独占产出的任何共有新知识，从而在立项谈判时陷入漫长僵局，直接阻碍了跨企业、跨机构联合科研攻关的启动；此外，公共出资研发的专利（如抗癌药紫杉醇）被私营企业独占后制定垄断高价，导致纳税人遭遇双重支付，违背了公共技术转移造福社会的初衷。[[Argument_Block_2008_PS|(Block, 2008, pp. 195–198)]]
+
+---
+
 ## 概念演变
 
 > [!dev-timeline] 技术转移制度发展历程
 > - **1940 年代–1970 年代 — 冷战军工驱动与公共领域开放阶段** 联邦政府深度资助[[Research Universities|研究型大学]]，科研成果多按军方规程置于公共领域，技术转移主要通过开源披露、强制第二供应商工艺共享与工程技术人才流动自发完成。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29–31)]]
 > - **1970 年代末–1980 年代 — 多边实体平台与国家用户设施破冰** 面对微电子工艺设备成本激增，大学创设加州理工 [[Silicon Structures Project|SSP]]、康奈尔 [[National Research and Resource Facility for Submicron Structures|NRRFSS]]、斯坦福 CIS 等多边物理平台，通过企业驻场轮转与国家共享机台实现了重资产制造技术的高效转移。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 289–295)]]
 > - **1980 年 — [[Bayh-Dole Act of 1980|拜杜法案]]颁布与法定专利许可模式确立** 美国国会通过《拜杜法案》，允许大学对联邦资助的发明保留专利所有权；全美高校竞相建立[[Technology Transfer Office|技术转移办公室]]（TTO），以生物医药为代表的专利授权模式成为全球科技政策推崇的显学。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, p. 273)]]
+> - **1986 年 — 《联邦技术转移法》（FTTA）与国家实验室开放** 国会立法授权联邦国家实验室直接与私营企业签订[[Cooperative Research and Development Agreement|合作研发协议]]（CRADA），允许政府科学家分享商业许可版税，开启了国家实验室大规模技术转移的法制化时代。[[Argument_Block_2008_PS|(Block, 2008, p. 177)]]
 > - **1980 年代–1990 年代 — 国际立法借鉴与多元化探索** 英国于 1983 年打破 BTG 垄断赋予大学自主商业化权利，并推出 Alvey 计划与[[Knowledge Exchange|知识交流]]专项拨款；中国于 1993 年颁布《科学技术进步法》、1996 年颁布《促进科技成果转化法》，逐步构建起以企业为主体、产学研深度融合的法定转化体系。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 41–44)]]
+> - **2008 年 — 虚构商品反思与网络国家技术经纪重构** [[Fred Block|弗雷德·布洛克]]（Fred Block）系统剖析过度排他性专利对技术转移造成的反向阻碍，揭示美国[[Developmental Network State|发展型网络国家]]依赖 [[DARPA]]、[[National Science Foundation|NSF]]、[[Department of Energy|DOE]] 等机构的技术经纪与对等资助跨越[[Valley of Death|死亡之谷]]，确立了技术转移中公私协同的新视角。[[Argument_Block_2008_PS|(Block, 2008, pp. 176–188, 196–198)]]
 > - **2000 年代–2010 年代 — 从狭义技术转移向广义知识交流跃迁** 科技政策学界反思排他专利许可的高昂交易成本与学科局限，推动技术转移[[Paradigm|范式]]向全生命周期产学协同、人员深度互访、开源生态构建以及[[Responsible Innovation|负责任创新]]的现代知识交流全面升华。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 44–46)]]
 > - **2026 年 — 统一许可框架、[[Other Transaction Authority|OTA]] 敏捷授权与国家制造锚定** 白宫 [[Office of Science and Technology Policy|OSTP]] 发布《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]），正式确立推行跨校统一知识产权许可框架、加速国家实验室 [[Cooperative Research and Development Agreement|CRADA]] 与深化 OTA 商业授权，将技术转移全面锚定于本土先进制造与产业链自主可控。
 
@@ -246,6 +260,12 @@ updated: 2026-10-09
 > >
 > > - **[[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone (2025)]]** 主张强专利保护是吸引高风险商业化风险投资、保护大学技术开发[[Return on Investment|投资回报]]的必要制度支柱。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, pp. 273–275)]]
 > > - **[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]]** 强调在[[General Purpose Technology|通用目的技术]]萌芽期，开源与公共领域披露才是催生全行业繁荣的最优转移模式，过度专利化反而制造反公地悲剧。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29–31)]]
+>
+> > [!axis] 知识作为虚构商品 vs 激进排他产权垄断
+> > 争论将科学技术视为普通排他性商品是否会阻碍跨机构科研合作。
+> >
+> > - **排他产权派** 坚信产权越明确、排他范围越宽，技术商业化与市场交易的效率就越高。
+> > - **波兰尼虚构商品批判派（[[Argument_Block_2008_PS|Block, 2008]]）** 论证知识在本质上不是普通商品；过于激进的排他所有权引发对合作者独占成果的深层恐惧，成为阻碍跨企业联合技术攻关的强大阻力。[[Argument_Block_2008_PS|(Block, 2008, pp. 196–197)]]
 >
 > > [!axis] 商业化路径抉择：初创衍生企业（Startup） vs 成熟行业巨头（Corporation）
 > > 争论大学科研成果应优先向教师创业衍生企业授权还是许可给成熟产业龙头。
