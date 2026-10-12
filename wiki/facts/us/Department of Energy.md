@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-10
+updated: 2026-10-12
 ---
 
 # Department of Energy
@@ -110,7 +110,7 @@ updated: 2026-10-10
 
 > [!dev-timeline] 组织发展历程
 > - **1942–1977 — 战时军工起源与机构整合期** 源于[[Manhattan Project|曼哈顿工程]]建立的洛斯阿拉莫斯、橡树岭等绝密实验室，历经原子能委员会（AEC）与能源研发署（ERDA），逐步从单一核武器研制拓展至核动力堆、受控核聚变与辐射生物学研究（包括后来成为[[Human Genome Project|人类基因组计划]]发端的基础工作）。
-> - **1977–2000 — 内阁设部与[[Big Science|大科学]]基础设施确立** 1977 年正式成立能源部，将分散的国家实验室群整合为统一的国家科研基础设施基地；在 1990 年代末，能源部劳伦斯利弗莫尔、劳伦斯伯克利与桑迪亚三大国家实验室组建“虚拟国家实验室”（Virtual National Laboratory, VNL），深度协同英特尔等工业巨头组建 [[EUV LLC]] 产学研财团，历时四年攻克极紫外光刻核心技术原型。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 44)]]
+> - **1977–2000 — 内阁设部、法定技术转移与[[Big Science|大科学]]工业联合体确立** 1977 年正式成立能源部，将分散的国家实验室群整合为统一的国家科研基础设施基地；1986 年《联邦技术转移法》（FTTA）授权国家实验室设立研究与技术应用办公室（ORTA）并广泛签署合作研发协议（CRADA），推动 DOE 实验室全面转向支撑民用商业化；1992 年启动**先进涡轮机系统计划（Advanced Turbine Systems Program）**，由 DOE 实验室联合通用电气（GE）与西门子等重型装备巨头攻坚耐高温陶瓷涂层，公共财政承担 75% 早期试制风险，成功推动下一代高效清洁发电燃气轮机实现商业化量产；在 1990 年代末，劳伦斯利弗莫尔、劳伦斯伯克利与桑迪亚三大国家实验室组建“虚拟国家实验室”（Virtual National Laboratory, VNL），深度协同英特尔等工业巨头组建 [[EUV LLC]] 产学研财团，历时四年攻克极紫外光刻核心技术原型。[[Argument_Block_2008_PS|(Block, 2008, pp. 176–180)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 44)]]
 > - **2009 — 危机应对与颠覆性绿色创新机制爆发** 在《美国复苏与再投资法案》（ARRA）支持下，正式启动高级能源研究计划署（[[ARPA-E|Advanced Research Projects Agency-Energy]], [[DARPA|ARPA]]-E，借鉴 [[DARPA]] 模式），设立能源前沿研究中心（EFRCs），并通过第 1705 条款清洁能源贷款担保计划向特斯拉等企业注入数十亿美元风险贷款。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 > - **2022–2024 — [[CHIPS and Science Act|芯片法案]]授权与国家微电子战略统筹**
 >   - 依据《[[CHIPS and Science Act|芯片与科学法案]]》，科学办公室获授权在五年内新增 305 亿美元预算，重点通过竞争性课题流向高水平[[Research Universities|研究型大学]]实验室，与国家实验室协同攻坚清洁能源、量子计算与先进材料；[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
@@ -139,6 +139,7 @@ updated: 2026-10-10
 
 > [!finding-cards] 核心业务与科研矩阵
 > - **[[Megascience Installations|大科学装置]]与物理基石** 运营先进光子源（APS）、国家同步辐射光源二期（NSLS-II）与散裂中子源（SNS）在内的全球顶尖科研设施。
+> - **先进动力与清洁装备协同联合体（先进涡轮机 ATS 项目）** 针对重型燃气轮机耐高温涂层与气动力学瓶颈，DOE 依托橡树岭等国家实验室联合通用电气与西门子，通过对等研发资助与共享测试台分担关键试制风险，促成现代高效联合循环发电机组的全球技术领先。[[Argument_Block_2008_PS|(Block, 2008, pp. 178–180)]]
 > - **纳米科学研究中心（NSRCs）与微纳中试基础设施** 依托 5 大国家纳米科学研究中心（如伯克利分子铸造厂 Molecular Foundry、阿贡纳米材料中心 CNM、布鲁克海文功能纳米材料中心 CFN），为全美学术界与初创企业提供开放式纳米材料合成、纳米光刻与高精度结构表征平台。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 19–21)]]
 > - **微电子[[Co-Design|协同设计]]（Co-Design）与能效极限攻坚** 设立微电子科学研究中心与极低能耗计算专项，跨越材料、器件、物理紧凑模型到系统架构，攻克二维半导体（TMDs）、拓扑量子材料与自旋电子学器件，解决人工智能与数据中心指数级电力瓶颈。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12)]]
 > - **超级计算与数值模拟平台** 研制 Frontier、Aurora、Summit 等百亿亿次级（Exascale）超级计算机，构筑全美微电子多尺度材料模拟与科学 AI 模型训练的核心算力基座。
@@ -233,6 +234,8 @@ updated: 2026-10-10
 > | [[Michael Kratsios]] | Person | 2026 年白宫科技政策报告主笔，系统规划了能源部在创世纪计划中的领航角色。 |
 > | [[Venkatesh Narayanamurti]] | Person | 曾任能源部下属桑迪亚国家实验室副总裁，长期建言重塑能源部科研组织设计。 |
 > | [[Paula Stephan]] | Person | 经济学评估学者，实证量化了能源部资助在大学系统中的高集中度特征。 |
+> | [[Fred Block]] | Person | 经济社会学家，以先进涡轮机计划为例阐明能源部国家实验室作为技术经纪人的角色。 |
+> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 剖析能源部国家实验室在民用燃气轮机中试中承担 75% 风险并实现公私协同的案例。 |
 > | [[Bell Labs]] | Fact (Organization) | 能源部[[Big Science\|大科学]]实验室与工业巨头研发中心在底层硬件攻坚上长期合作互补。 |
 
 ---
@@ -240,6 +243,7 @@ updated: 2026-10-10
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Block_2008_PS|Block (2008)]] — 以先进燃气轮机联合体（ATS）为例，系统论证能源部国家实验室依托 CRADA 协议承担早期高风险中试、跨越死亡之谷的网络经纪功能。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统阐述能源部在 2025 年[[Genesis Mission|创世纪计划]]中的领导地位，论证 17 所国家实验室在科学 AI 基座模型训练、闭环自主实验室部署、[[EUV LLC]]/[[Human Genome Project|HGP]] 传统继承以及 2025 年核能监管改革中的战略支柱功能。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 阐释《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》下能源部作为 [[Subcommittee on Microelectronics Leadership|SML]] 联合主席，统领 5 大纳米科学研究中心（NSRCs）、[[Megascience Installations|大科学装置]]与微电子[[Co-Design|协同设计]]（Co-Design）专项，在二维材料与能效极限攻坚中的战略机制。
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 系统评析《[[CHIPS and Science Act|芯片与科学法案]]》对联邦科技资助格局的重塑，指出能源部科学办公室获得五年内 305 亿美元的经费法定授权，重点向高校实验室定向配置前沿基础与应用[[Comparative Education as a Cross-Sectional Area|交叉领域]]竞争性科研经费。
