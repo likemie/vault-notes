@@ -66,9 +66,24 @@
               "icon": "lucide-file",
               "title": "Argument_Block_2008_PS"
             }
+          },
+          {
+            "id": "234d452edd1bdd48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/concepts/political-economy-geopolitics/Institutional Layering.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Institutional Layering"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -273,12 +288,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9fa9dc0454e1193e",
+  "active": "234d452edd1bdd48",
   "lastOpenFiles": [
-    "wiki/facts/japan/Ministry of International Trade and Industry.md",
-    "wiki/arguments/journal-articles/Politics & Society/Argument_Block_2008_PS.md",
-    "wiki/concepts/political-economy-geopolitics/Market Fundamentalism.md",
+    "wiki/arguments/books/Mahoney_Thelen_2009_Cambridge/Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change.md",
+    "wiki/arguments/books/Mahoney_Thelen_2009_Cambridge/Argument_Mahoney_Thelen_2009_Cambridge.md",
+    "wiki/theories/political-economy-geopolitics/Governing at a Distance.md",
+    "wiki/concepts/higher-education/Steering at a Distance.md",
     "wiki/arguments/journal-articles/Governance/Argument_Kickert_1995_Governance.md",
+    "wiki/arguments/journal-articles/Politics & Society/Argument_Block_2008_PS.md",
+    "wiki/facts/japan/Ministry of International Trade and Industry.md",
+    "wiki/concepts/political-economy-geopolitics/Market Fundamentalism.md",
     "scratch_paper_text.txt",
     "sources/Block_2008_PS.md",
     "sources/Block_2008_PS.pdf",
@@ -296,7 +315,6 @@
     "wiki/concepts/higher-education/Block Grants.md",
     "wiki/concepts/political-economy-geopolitics/Red Tape.md",
     "wiki/facts/us/A Nation at Risk 1983.md",
-    "wiki/theories/political-economy-geopolitics/Governing at a Distance.md",
     "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md",
     "wiki/facts/netherlands/Higher Education Autonomy and Quality.md",
     "sources/Kickert_1995_Governance/figures/Kickert_1995_Governance_Fig1_Development_of_Steering.jpg",
@@ -307,9 +325,6 @@
     "sources/Kickert_1995_Governance.md",
     "sources/Kickert_1995_Governance.pdf",
     "wiki/arguments/journal-articles/Governance",
-    "wiki/facts/netherlands/Higher Education: Autonomy and Quality.md",
-    "wiki/persons/netherlands/Walter J. M. Kickert.md",
-    "wiki/concepts/comparative-education/Pillarization.md",
     "raw/Teach-Observer-Manual-First-Edition.pdf",
     "raw/kickert1995.pdf",
     "tmp/render_check/s513-113.png",

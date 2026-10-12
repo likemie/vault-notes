@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Institutional Layering",
+      "path": "wiki/concepts/political-economy-geopolitics/Institutional Layering.md"
+    },
+    {
+      "basename": "Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change",
+      "path": "wiki/arguments/books/Mahoney_Thelen_2009_Cambridge/Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change.md"
+    },
+    {
+      "basename": "Argument_Mahoney_Thelen_2009_Cambridge",
+      "path": "wiki/arguments/books/Mahoney_Thelen_2009_Cambridge/Argument_Mahoney_Thelen_2009_Cambridge.md"
+    },
+    {
+      "basename": "Governing at a Distance",
+      "path": "wiki/theories/political-economy-geopolitics/Governing at a Distance.md"
+    },
+    {
+      "basename": "Steering at a Distance",
+      "path": "wiki/concepts/higher-education/Steering at a Distance.md"
+    },
+    {
+      "basename": "Argument_Kickert_1995_Governance",
+      "path": "wiki/arguments/journal-articles/Governance/Argument_Kickert_1995_Governance.md"
+    },
+    {
       "basename": "Argument_Block_2008_PS",
       "path": "wiki/arguments/journal-articles/Politics & Society/Argument_Block_2008_PS.md"
     },
@@ -13,20 +37,12 @@
       "path": "wiki/concepts/political-economy-geopolitics/Market Fundamentalism.md"
     },
     {
-      "basename": "Argument_Kickert_1995_Governance",
-      "path": "wiki/arguments/journal-articles/Governance/Argument_Kickert_1995_Governance.md"
-    },
-    {
       "basename": "Red Tape",
       "path": "wiki/concepts/political-economy-geopolitics/Red Tape.md"
     },
     {
       "basename": "A Nation at Risk 1983",
       "path": "wiki/facts/us/A Nation at Risk 1983.md"
-    },
-    {
-      "basename": "Governing at a Distance",
-      "path": "wiki/theories/political-economy-geopolitics/Governing at a Distance.md"
     },
     {
       "basename": "Argument_Garcia_Garrido_2009_SpainEU",
@@ -117,10 +133,6 @@
       "path": "wiki/arguments/reports-policy-documents/Argument_Streeck_Thelen_2005_OUP.md"
     },
     {
-      "basename": "Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change",
-      "path": "wiki/arguments/books/Mahoney_Thelen_2009_Cambridge/Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change.md"
-    },
-    {
       "basename": "Paul Pierson",
       "path": "wiki/persons/us/Paul Pierson.md"
     },
@@ -161,14 +173,6 @@
       "path": "wiki/concepts/political-economy-geopolitics/Institutional Displacement.md"
     },
     {
-      "basename": "Institutional Layering",
-      "path": "wiki/concepts/political-economy-geopolitics/Institutional Layering.md"
-    },
-    {
-      "basename": "Argument_Mahoney_Thelen_2009_Cambridge",
-      "path": "wiki/arguments/books/Mahoney_Thelen_2009_Cambridge/Argument_Mahoney_Thelen_2009_Cambridge.md"
-    },
-    {
       "basename": "Argument_VanDerHeijden_2011_Politics",
       "path": "wiki/arguments/journal-articles/Politics/Argument_VanDerHeijden_2011_Politics.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Fieldwork",
       "path": "wiki/methods/qualitative/Fieldwork.md"
-    },
-    {
-      "basename": "Ethnography",
-      "path": "wiki/methods/qualitative/Ethnography.md"
     }
   ],
   "omittedPaths": [],

@@ -31,6 +31,8 @@ related_concepts:
   - "[[Curiosity-Driven Research]]"
   - "[[Competitiveness]]"
   - "[[Paradigm]]"
+  - "[[Valley of Death]]"
+  - "[[Market Fundamentalism]]"
   - "[[University-Industry Collaboration]]"
   - "[[Research Universities]]"
   - "[[Technology Transfer]]"
@@ -38,22 +40,20 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Discourse]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Developmental Network State]]"
-  - "[[Valley of Death]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
+  - "[[Developmental Network State]]"
   - "[[Discovery-Invention Cycle]]"
   - "[[Social Contract of Science]]"
 related_methods:
   - "[[Survey Research]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Michael Kratsios]]"
   - "[[Alfred Nobel]]"
   - "[[Vannevar Bush]]"
-  - "[[Venkatesh Narayanamurti]]"
   - "[[Fred Block]]"
+  - "[[Venkatesh Narayanamurti]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Science A New Golden Age 2026]]"
@@ -147,6 +147,7 @@ created: 2026-10-02
 
 > [!influence-path] 影响路径
 > - **政策[[Paradigm|范式]]重构与多重契约交叠** 终结了战后“基础研究必须远离实用”的狭隘教条，为 1990 年代冷战遗产型契约、经济[[Competitiveness|竞争力]]型契约与健康研究特定契约的复合共存提供了[[Epistemology|认识论]]基石；为[[National Science Foundation|美国国家科学基金会]]（NSF）、能源部（[[Department of Energy|DOE]]）及国立卫生研究院（[[National Institutes of Health|NIH]]）设立重大战略使命导向的跨学科研究计划提供了理论正当性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
+> - **[[Developmental Network State|发展型网络国家]]跨越[[Valley of Death|死亡之谷]]的认识论支柱** 斯托克斯的[[Pasteur's Quadrant|巴斯德象限]]被政治社会学家[[Fred Block|弗雷德·布洛克]]（Fred Block）系统吸收，用于破除战后线性模型与[[Market Fundamentalism|市场原教旨主义]]神话，论证美国[[Developmental Network State|发展型网络国家]]（DNS）主动介入早期技术概念验证与应用研发的理论合法性。[[Argument_Block_2008_PS|(Block, 2008, pp. 173–174)]]
 > - **2026 联邦科技体制改革的理论基石** 在白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）2026 年战略报告中，斯托克斯理论被直接运用于诊断联邦资助机构对 1950 年代学科与单 PI 课题组的僵化固守，推动政策转向组合式资助、[[Focused Research Organization|聚焦研究组织]]（FRO）与开放国家实验室基础设施。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 7–8, 21–26)]]
 > - **高等教育与[[University-Industry Collaboration|产学合作]]路径** 促使全球[[Research Universities|研究型大学]]重新审视学术评价体系，使兼顾工业转化与前沿论文发表的应用基础研究摆脱“二等学术”的偏见，直接推动了现代高校[[Technology Transfer|技术转移]]与企业联合实验室的蓬勃发展。
 > - **理论演进路径** 启发了后续学者对[[Linear Model of Innovation|线性创新模型]]的系统解构，成为纳拉亚纳穆尔提等人提出[[Discovery-Invention Cycle|发现-发明循环]]理论的重要思想前阶与对话靶标。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 32–33)]]
@@ -157,6 +158,7 @@ created: 2026-10-02
 
 > [!person-network] 关系网络
 > - **学术对话与反思对象** [[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush） — 批判并打破其《科学——[[Science, The Endless Frontier 1945|无尽的前沿]]》中确立的一维线性动机轴，将其重构为二维分类矩阵。
+> - **国家理论吸收者** [[Fred Block|弗雷德·布洛克]]（Fred Block） — 在《游泳逆流：[[Developmental Network State|发展型网络国家]]在美国的崛起》中将[[Pasteur's Quadrant|巴斯德象限]]确立为发展型网络国家（DNS）主动撮合跨部门早期转化、填补[[Valley of Death|死亡之谷]]的核心[[Epistemology|认识论]]支撑。
 > - **当代政策[[Operationalization|操作化]]者** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios） — 在 2026 年白宫科技报告中将斯托克斯[[Pasteur's Quadrant|巴斯德象限]]确立为重构联邦科研体制的核心理论支柱，推动制度化落地。
 > - **后续理论发展与批判者** [[Venkatesh Narayanamurti|文卡泰什·纳拉亚纳穆尔提]]（Venkatesh Narayanamurti） — 指出斯托克斯未能彻底摆脱基础/应用[[Discourse|话语]]体系，提出对称流转的[[Discovery-Invention Cycle|发现-发明循环]]网络。
 > - **当代制度主义评估者** [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演进脉络，将斯托克斯界定为 1990 年代“重新签约”大辩论与多重契约交叠期的核心认知重构者。
@@ -184,7 +186,8 @@ created: 2026-10-02
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关[[Document|文献]]索引
+> - [[Argument_Block_2008_PS|Block (2008)]] — 在《游泳逆流：[[Developmental Network State|发展型网络国家]]在美国的崛起》中吸收斯托克斯[[Stokes' Quadrant Model of Scientific Research|巴斯德象限模型]]，从后工业政治经济学视角论证现代重大突破均发生在[[Use-Inspired Basic Research|应用启发的基础研究]]象限，为联邦跨部门公共研发网络主动介入[[Valley of Death|死亡之谷]]、开展概念验证与网络撮合确立了技术[[Epistemology|认识论]]基石。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 将斯托克斯[[Pasteur's Quadrant|巴斯德象限]]确立为白宫 2026 年科技体制重构报告的核心理论支柱，论证晶体管、信息论、AlphaFold 及量子器件的双重驱动特征，并以此为依据提出重组联邦资助机构、设立中等规模工程科学组织与闭环自主实验室的系统方案。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，论述斯托克斯[[Pasteur's Quadrant|巴斯德象限]]如何成为 1990 年代美国应对冷战终结与赤字攀升、推动科学与社会“重新签约”并构建复合型契约的核心[[Epistemology|认识论]]支柱。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 评述斯托克斯[[Pasteur's Quadrant|帕斯德象限]]在打破一维线性模型上的里程碑贡献，同时指明其由于继续沿用二分法旧词汇且局限于静态主观动机，未能充分揭示科学发现与工程发明跨越数十年的动态网络互动机制。

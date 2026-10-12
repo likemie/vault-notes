@@ -3,17 +3,18 @@ title: Vannevar Bush
 aliases:
   - 万尼瓦尔·布什
   - V. Bush
-summary: "美国电机工程师、科技管理者与战后科技政策奠基人，二战期间主导美国科学研究与开发署（OSRD）统筹曼哈顿工程与雷达研发，战后起草《科学——无尽的前沿》（1945），确立联邦财政资助大学基础科学研究的合法性与国家科学基金会（NSF）体制构想；作为技术共和国的制度原型奠基人，其开创的国家战略与科学共同体深度结盟模式，在当代面对大构想饥荒、全要素生产率停滞与智能化大国竞争背景下被深刻重构与反思。"
+summary: "美国电机工程师、科技管理者与战后科技政策奠基人，二战期间主导美国科学研究与开发署（OSRD）统筹曼哈顿工程与雷达研发，战后起草《科学——无尽的前沿》（1945），确立联邦财政资助大学基础科学研究的合法性与国家科学基金会（NSF）体制构想；其预设的“政府资助基础研究、企业自发商业转化”二分法在后工业时期因大企业实验室衰落与死亡之谷凸显而瓦解，倒逼美国演进出发展型网络国家（DNS）；在当代面对大构想饥荒与智能化大国竞争背景下被深刻重构与反思。"
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 60
+person_related_count: 63
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
 born: "1890"
 died: "1974"
 lifespan: "1890–1974"
+updated: 2026-10-12
 tags:
   - person/engineer
   - person/policy-architect
@@ -32,12 +33,14 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Hypothesis]]"
   - "[[Learning by Doing]]"
+  - "[[Valley of Death]]"
   - "[[Big Idea Famine]]"
   - "[[Total Factor Productivity]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Research Universities]]"
   - "[[Institutional Complementarity]]"
   - "[[National Innovation System]]"
+  - "[[Market Fundamentalism]]"
   - "[[Hard Power]]"
   - "[[Technological Agnosticism]]"
   - "[[Soft-Money Faculty Model]]"
@@ -46,18 +49,19 @@ related_concepts:
   - "[[Document]]"
   - "[[Innovation Desert]]"
 related_theories:
+  - "[[Developmental Network State]]"
   - "[[Social Contract of Science]]"
   - "[[Pasteur's Quadrant]]"
   - "[[Discovery-Invention Cycle]]"
   - "[[Systems of Innovation]]"
   - "[[Evolutionary Economics]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Franklin D. Roosevelt]]"
   - "[[J. Robert Oppenheimer]]"
   - "[[Chris Freeman]]"
+  - "[[Fred Block]]"
   - "[[Michael Kratsios]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
@@ -72,18 +76,23 @@ related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
   - "[[Manhattan Project]]"
+  - "[[Bayh-Dole Act of 1980]]"
+  - "[[SBIR and STTR Programs]]"
+  - "[[Sematech]]"
   - "[[Science A New Golden Age 2026]]"
   - "[[National Institutes of Health]]"
   - "[[Department of Energy]]"
   - "[[DARPA]]"
   - "[[OECD]]"
   - "[[Frascati Manual]]"
+  - "[[Advanced Technology Program]]"
 related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08]]"
   - "[[Argument_Freeman_1995_CJE]]"
+  - "[[Argument_Block_2008_PS]]"
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04]]"
@@ -91,7 +100,6 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-11
 ---
 
 # Vannevar Bush
@@ -148,6 +156,7 @@ updated: 2026-10-11
 >   - **关键概念** 基础研究（[[Blue Skies Research|Basic Research]]）、应用研究（Applied Research）、科技蓄水池假说、国家科学基金会。
 >   - **历史局限** 在政治游说中策略性地将纯求知的基础研究与商业化应用开发做严格切割，奠定了基础/应用二分法与单向线性模型的制度教条。[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）指出，这种单向线性[[Hypothesis|假设]]系统性忽视了生产现场的“[[Learning by Doing|干中学]]”（Learning by Doing）与产业对科学的反向驱动。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–11)]]
 > - **1970s — 反文化个人计算对布什国家使命[[Paradigm|范式]]的颠覆** 越战与民权运动引发美国社会与文化大撕裂，硅谷新一代黑客与工程师将技术发明定位为个体从国家与企业机器中获得解放的工具，彻底背离了布什与[[J. Robert Oppenheimer|奥本海默]]将科技定位于赋能与拓展国家战略使命（American project）的传统，开启了长达数十年的反体制个人主义与[[Consumer Internet|消费互联网]]演进轨道。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–99)]]
+> - **1980s–2000s — 布什二分法在大企业实验室解体中的失效与[[Developmental Network State|发展型网络国家]]崛起** [[Fred Block|弗雷德·布洛克]]指出，布什战后体制的有效运转依赖一个关键历史前提：通用电气、杜邦和[[Bell Labs|贝尔实验室]]等巨型垂直整合企业愿意出资将大学基础发现转化为商业产品；随着国际竞争加剧与大企业实验室收缩，布什关于“政府仅资助基础研究、企业自发商业转化”的教条催生了严重的[[Valley of Death|死亡之谷]]，迫使美国在《[[Bayh-Dole Act of 1980|拜杜法案]]》、[[SBIR and STTR Programs|SBIR]] 与 [[Sematech]] 等制度实践中打破布什禁条，演进出高度去中心化但实质深度的[[Developmental Network State|发展型网络国家]]（DNS）。[[Argument_Block_2008_PS|(Block, 2008, pp. 170–178)]]
 > - **2025–2026 — 战后契约的退出与历史性重构** 
 >   - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] 揭示美国科技政策启动对布什战后[[Social Contract of Science|科学社会契约]]的实践退出；2026 年 7 月[[Michael Kratsios|迈克尔·克拉齐奥斯]]呈交《[[Science A New Golden Age 2026|科学：新的黄金时代]]》，在全面对照布什报告的基础上，正式宣告单向管道终结，转向以[[Pasteur's Quadrant|巴斯德象限]]、组合资助与本土制造为核心的新[[Paradigm|范式]]。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1063–1064)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–7)]]
 >   - 《[[Technological Republic|技术共和国]]》（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）指出：当代硅谷科技界陷入了将资本与人才过度消耗于送餐、广告推荐与快消软件的[[Big Idea Famine|大构想饥荒]]，背离了布什战时攻坚深层物理与实体关键技术的传统。必须重新汲取布什的 OSRD 动员传统，以国家重大战略使命牵引前沿人工智能与深层实体创新，激活[[Total Factor Productivity|全要素生产率]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5, 15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 48–54)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–102)]]
@@ -200,6 +209,12 @@ updated: 2026-10-11
 
 > [!debates] 学术争议
 >
+> > [!axis] 布什二分法与大企业实验室假定 vs 后工业[[Developmental Network State|发展型网络国家]]的跨界介入（Bush Dichotomy vs DNS Brokerage）
+> > 围绕布什严格划分的“政府资助基础研究、企业自发商业转化”二分法是否适用于后工业时代展开的政治经济学争论。
+> >
+> > - **布什二分法及其历史假定** 万尼瓦尔·布什在 1945 年报告中假定，联邦政府的唯一合法职责是出资支持大学无功利的基础研究；后续向工业商业化成果的转化可以完全交由私营市场自发完成。这一假定在战后初期得以成立，完全是因为当时存在[[Bell Labs|贝尔实验室]]、通用电气、杜邦等巨型垂直整合的[[Corporate R&D Labs|企业中央实验室]]，它们拥有充沛的垄断利润与长期资本来耐受研发风险。
+> > - **网络型国家介入与[[Valley of Death|死亡之谷]]填补（[[Argument_Block_2008_PS|Block, 2008]]）** 随着全球制造业竞争加剧和大企业实验室于 1980 年代大幅收缩，布什模式留下了巨大的早期概念验证真空（[[Valley of Death|死亡之谷]]）。私人风险投资（VC）仅出资 2%–8% 且倾向于后期变现，无法填补该断裂。美国被迫通过《[[Bayh-Dole Act of 1980|拜杜法案]]》、[[SBIR and STTR Programs|SBIR]]、[[Advanced Technology Program|ATP]] 与 [[Sematech]] 等制度安排突破布什教条，建立国家深度参与撮合与注资的[[Developmental Network State|发展型网络国家]]；但受制于[[Market Fundamentalism|市场原教旨主义]]意识形态，这一干预机制不得不隐蔽运作。[[Argument_Block_2008_PS|(Block, 2008, pp. 170–178, 186–188)]]
+>
 > > [!axis] 布什-[[J. Robert Oppenheimer|奥本海默]]国家使命[[Paradigm|范式]] vs 费尔森斯坦-布兰德-乔布斯反文化个人解放范式：技术目的论的历史裂变
 > > 围绕科技发展的终极目的究竟应当服务于国家战略与重大文明工程，还是应当赋权个体以抵抗国家机器与官僚机构展开的深层哲学争论。
 > >
@@ -247,12 +262,14 @@ updated: 2026-10-11
 > | [[Franklin D. Roosevelt]] | Person | 委托布什成立 NDRC/OSRD 并起草战后科学发展报告的美国总统。 |
 > | [[Alexander Karp]] | Person | 《技术共和国》作者，高度评价布什开创的科学家与国家战略使命结盟模式。 |
 > | [[Nicholas Zamiska]] | Person | 《技术共和国》合著者，主张重振布什动员传统以消解公共部门[[Innovation Desert\|创新荒漠]]。 |
+> | [[Fred Block]] | Person | 政治社会学家，系统剖析布什二分法的后工业失效与美国[[Developmental Network State\|发展型网络国家]]的崛起。 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] 相关[[Document|文献]]索引
+> - [[Argument_Block_2008_PS|Block (2008)]] — 在《游泳逆流：[[Developmental Network State|发展型网络国家]]在美国的崛起》中深度解构布什 1945 年报告的战后体制假定，揭示其依赖大企业封闭实验室吸收基础发现的历史局限；论证随着大企业实验室收缩与[[Valley of Death|死亡之谷]]凸显，美国被迫通过 1980 年代科技立法转向由发展型网络国家暗中主导的早期研发撮合机制。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》系统探讨二战 [[Office of Scientific Research and Development|OSRD]] 与国家安全深度结盟的动员体制（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]]）、对比布什深层物理突破与当代[[Big Idea Famine|大构想饥荒]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Ch. 4]]），以及剖析 1970 年代反文化运动与[[Consumer Internet|消费互联网]]对布什国家大战略使命的偏离（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 2026 年白宫战略报告，全面对照 1945 年[[Science, The Endless Frontier 1945|布什报告]]，肯定其公共资助核心，同时宣告单向管道终结，提出四大支柱与 2028 财年研发预算优先序。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 系统剖析布什《科学——无止境的边疆》所确立的三大制度性承诺，揭示 2025 年起美国科技政策实践启动对布什契约的退出、以及向技术能力导向型契约的深刻转型。
