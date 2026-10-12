@@ -11,10 +11,10 @@ aliases:
 summary: "中央或上级资助主体向学校、地方学区或下级自治实体划拨的未指定微观细项用途的整笔总额预算，由受资助机构在宏观法定框架内自主统筹分配于教学、人事与基建等支出，构成现代高等教育去规制化与远距离操纵治理的核心财政工具。"
 type: concept
 domain: "higher-education"
-related_count: 7
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 18
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/higher-education-governance
   - theme/educational-finance

@@ -10,10 +10,10 @@ aliases:
 summary: "英国控制论学者罗斯·阿什比提出的控制论奠基性法则，指出控制系统的内部多样性必须至少等于或大于被控制系统的扰动多样性方能维持有效调控；在公共治理与教育组织中，该法则揭示了单一中心自上而下的科层规制因无法穷举专业网络的内在复杂性而陷入多样性赤字与必然失灵，为远距离操纵与去中心化自组织调节提供了控制论认识论基础。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 7
-theory_related_level: 0
-theory_related_stars: ""
-theory_related_color: "#e5e7eb"
+theory_related_count: 22
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory
   - theme/governance

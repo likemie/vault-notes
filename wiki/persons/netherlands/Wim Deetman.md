@@ -10,10 +10,10 @@ summary: "荷兰著名政治家，基督教民主党（CDA）领袖，荷兰二�
 type: person
 nationality: "netherlands"
 person_region: "netherlands"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1945"
 died: ""
 lifespan: "1945–至今"

@@ -13,7 +13,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 33
+fact_related_count: 34
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-10-07
+updated: 2026-10-12
 ---
 
 # International Institute for Educational Planning

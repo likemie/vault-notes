@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 79
+fact_related_count: 80
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -118,7 +118,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-10
+updated: 2026-10-12
 ---
 
 # National Science Foundation

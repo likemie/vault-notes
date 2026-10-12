@@ -9,7 +9,7 @@ summary: "美国当代著名混合方法与质性研究方法论学者，系统�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 48
+person_related_count: 49
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-10-08
+updated: 2026-10-12
 ---
 
 # John W. Creswell

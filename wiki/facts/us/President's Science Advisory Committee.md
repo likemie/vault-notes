@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -59,7 +59,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-08
+updated: 2026-10-12
 ---
 
 # President's Science Advisory Committee

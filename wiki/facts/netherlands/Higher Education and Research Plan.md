@@ -13,9 +13,9 @@ subtype: policy
 region: "netherlands"
 fact_region: "netherlands"
 fact_kind: "policy"
-fact_related_count: 3
+fact_related_count: 7
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: "Dutch Ministry of Education and Sciences"
 tags:

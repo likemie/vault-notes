@@ -11,10 +11,10 @@ summary: "荷兰伊拉斯谟大学公共管理学荣休教授，欧洲网络治�
 type: person
 nationality: "netherlands"
 person_region: "netherlands"
-person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 23
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1950"
 died: ""
 lifespan: "1950–至今"

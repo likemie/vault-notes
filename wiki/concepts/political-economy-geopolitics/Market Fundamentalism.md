@@ -7,10 +7,10 @@ aliases:
 summary: "指对市场自发调节与资源配置能力抱有极度夸大信念、主张国家全面撤出经济与社会干预的意识形态教条。在科技政策中，该思潮否认国家资助商业化与前沿产业的合法性，迫使公共发展型干预转向隐形运作，并强化了知识产权垄断与公私收益脱节。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 15
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/political-economy
   - theme/science-policy

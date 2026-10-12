@@ -10,10 +10,10 @@ aliases:
 summary: "国家将少数垄断性社会伙伴（如雇主协会、全国性工会或大型专业协会）正式纳入政策制定与执行的制度化协商网络，在教育治理中表现为职业培训三方共治机制或行业协会闭门立法妥协"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 21
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 30
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 domain: "political-economy-geopolitics"
 tags:
   - theory

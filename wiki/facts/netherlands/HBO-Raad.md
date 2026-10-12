@@ -13,9 +13,9 @@ subtype: organization
 region: "netherlands"
 fact_region: "netherlands"
 fact_kind: "organization"
-fact_related_count: 3
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: "university-association"
 headquarters: "The Hague, Netherlands"

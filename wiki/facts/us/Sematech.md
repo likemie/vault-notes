@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 49
-fact_related_level: 5
-fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_count: 50
+fact_related_level: 6
+fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
 org_type: 产业前竞争共性技术研发战略联盟（公私协同）
 headquarters: "Austin, Texas, USA"

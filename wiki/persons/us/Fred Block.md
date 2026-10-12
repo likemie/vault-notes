@@ -9,10 +9,10 @@ summary: "美国加利福尼亚大学戴维斯分校经济社会学研究教授�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 0
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 25
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1947"
 died: ""
 lifespan: "1947–至今"

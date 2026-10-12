@@ -10,7 +10,7 @@ summary: "政治学与比较政治学中用于案例内质性因果推断的核�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 28
+method_related_count: 29
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-10
+updated: 2026-10-12
 ---
 
 # Process Tracing

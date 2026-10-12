@@ -12,7 +12,7 @@ aliases:
 summary: "指以最终实质成效与产出为核心裁判尺度的现代治理范式。在教育领域，表现为以国家质量标准、系统成效监测与数据反馈为核心，强调路径自主而非目标自主的调控模式；在国家战略与公共治理领域，表现为以物理世界实质成果（如建造战略重器、攻克疾病、消除犯罪）为最高衡量基准，反对以程序合规和道德表演替代实质战功的防卫型官僚主义。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"

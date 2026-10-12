@@ -8,7 +8,7 @@ aliases:
 summary: "汉娜·阿伦特提出的政治哲学与伦理学核心概念，指代在现代科层制与极权体制下，极端罪恶往往并非源于个体的极端仇恨或病态恶毒，而是源于放弃独立思考、丧失道德判断力以及对规章与权威程序的盲目顺从（无思状态）；后在心理学实证、组织行为学与教育哲学中得到广泛发展与印证。"
 type: concept
 domain: "educational-philosophy"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-12
 ---
 
 # Banality of Evil

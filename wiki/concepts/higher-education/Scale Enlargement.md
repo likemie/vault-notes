@@ -9,10 +9,10 @@ aliases:
 summary: "在高等教育治理与公共部门分权改革中，通过跨机构自组织兼并与横向整合，将分散的小型、单科性院校重组为具备多学科综合架构与临界规模的办学实体，旨在建立能够承接整笔总额预算与战略自主治理能力的制度载体。"
 type: concept
 domain: "higher-education"
-related_count: 4
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/higher-education-governance
   - theme/institutional-reform

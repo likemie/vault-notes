@@ -11,7 +11,7 @@ aliases:
 summary: "指将传统的联邦学徒制前置输入型经费补助改造为与学徒实际录用、薪酬增长与长期留任率等真实产出严格绑定的按绩效付费资助机制。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-12
 ---
 
 # Outcome-Based Apprenticeship Funding

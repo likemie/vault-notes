@@ -11,10 +11,10 @@ aliases:
 summary: "20世纪80年代荷兰高等教育改革中确立的公共治理新范式，指政府放弃传统基于法规禁令与详尽事前控制的层级规制，转向扩大学校自治权、以事后产出质量评估为反馈调节机制、在部门层级实施激励性与对话式间接调控的系统治理模式。"
 type: concept
 domain: "higher-education"
-related_count: 7
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 31
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/governance
   - level/higher-education
