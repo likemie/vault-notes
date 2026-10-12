@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Sematech",
+      "path": "wiki/facts/us/Sematech.md"
+    },
+    {
+      "basename": "1986 U.S.-Japan Semiconductor Trade Agreement",
+      "path": "wiki/facts/us/1986 U.S.-Japan Semiconductor Trade Agreement.md"
+    },
+    {
+      "basename": "Vertical Disintegration",
+      "path": "wiki/concepts/political-economy-geopolitics/Vertical Disintegration.md"
+    },
+    {
+      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic",
+      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md"
+    },
+    {
       "basename": "Argument_Block_2008_PS",
       "path": "wiki/arguments/journal-articles/Politics & Society/Argument_Block_2008_PS.md"
     },
@@ -121,10 +137,6 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Sobe_Fischer_2009_MobilityMigration.md"
     },
     {
-      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic",
-      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md"
-    },
-    {
       "basename": "Jacob S. Hacker",
       "path": "wiki/persons/us/Jacob S. Hacker.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Critical Review",
       "path": "wiki/methods/qualitative/Critical Review.md"
-    },
-    {
-      "basename": "Analytic Framework",
-      "path": "wiki/methods/qualitative/Analytic Framework.md"
-    },
-    {
-      "basename": "Punctuated Equilibrium Theory",
-      "path": "wiki/theories/educational-policy-reform/Punctuated Equilibrium Theory.md"
-    },
-    {
-      "basename": "Fieldwork",
-      "path": "wiki/methods/qualitative/Fieldwork.md"
     }
   ],
   "omittedPaths": [],
