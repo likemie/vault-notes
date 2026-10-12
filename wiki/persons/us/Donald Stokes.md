@@ -9,10 +9,10 @@ summary: "美国政治学家、公共政策学者，普林斯顿大学伍德罗�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 41
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 43
+person_related_level: 5
+person_related_stars: "⭐⭐⭐⭐⭐"
+person_related_color: "#ffedd5"
 born: "1927"
 died: "1997"
 lifespan: "1927–1997"
