@@ -45,6 +45,7 @@ related_theories:
   - "[[Techno-economic Paradigm]]"
   - "[[Technological Trajectories]]"
   - "[[Systems of Innovation]]"
+  - "[[Developmental Network State]]"
   - "[[Evolutionary Economics]]"
   - "[[Human Capital Theory]]"
 related_methods:
@@ -56,6 +57,7 @@ related_instruments: []
 related_persons:
   - "[[David C. Mowery]]"
   - "[[Chris Freeman]]"
+  - "[[Fred Block]]"
   - "[[Carlota Perez]]"
 related_facts:
   - "[[Fairchild Semiconductor]]"
@@ -63,6 +65,7 @@ related_facts:
   - "[[Semiconductor Research Corporation]]"
   - "[[National Science and Technology Council]]"
   - "[[National Strategy on Microelectronics Research]]"
+  - "[[Advanced Technology Program]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[CHIPS and Science Act]]"
   - "[[National Semiconductor Technology Center]]"
@@ -73,10 +76,11 @@ related_arguments:
   - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Logar_2014_Minerva]]"
   - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
+  - "[[Argument_Block_2008_PS]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-10
+updated: 2026-10-12
 ---
 
 # General Purpose Technology
@@ -211,6 +215,16 @@ updated: 2026-10-10
 
 ---
 
+### 命题八　通用目的技术的跨部门扩散深陷协调失灵，依赖发展型网络国家通过对等资助、共性基础设施与时序协调实现破局
+
+> [!concept-lens] [[Developmental Network State|发展型网络国家]]与跨部门协调机制
+> 探讨为何自由市场机制在促进通用目的技术向传统工业与关联产业扩散时频繁遭遇时序脱节与投资迟滞，以及发展型网络国家（DNS）如何通过资助共性基础设施与跨供应链联合体破解协调失灵。
+
+> [!claim] [[Fred Block|Block, F.]]
+> **整条供应链对等协调与公共基础设施托底** 弗雷德·布洛克（Fred Block）指出，自由市场理论[[Hypothesis|假设]]通用目的技术（GPT）会自动无缝扩散至各个经济部门，但历史实践（从早期的运河、铁路、电力到现代的宽带互联网、燃气轮机与纳米技术）证明，重大通用技术的采纳充满严重的跨部门“协调失灵”（coordination problems）。下游行业在缺乏互补性公共基础设施、通用标准和供应链协同的情况下，往往因沉没成本和转型风险而拒绝或延缓采纳。美国商务部国家标准与技术研究院（NIST）下属的[[Advanced Technology Program|先进技术计划]]（Advanced Technology Program, ATP）正是针对这一系统性痛点而设：ATP 重点资助通用目的技术与共性工艺瓶颈，要求企业联合体提供 50% 对等配套资金；其最著名的突破是资助底特律三大汽车巨头（通用、福特、克莱斯勒）及其上游模具与装配供应商组成的“2毫米工程”（2mm Project）联合体，成功将汽车车身冲压件误差控制在 2 毫米以内，扭转了美国汽车业相对于日本的竞争劣势。这表明，通用目的技术的高效扩散无法仅凭市场价格信号完成，必须依靠[[Developmental Network State|发展型网络国家]]在关键时点协调行业投资时序并提供公共技术基础设施托底。[[Argument_Block_2008_PS|(Block, 2008, pp. 172–174, 188–189, 195)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -223,6 +237,7 @@ updated: 2026-10-10
 > | **社会制度调适与范式试错** | 通用技术范式要求多技能组织变革、劳资与技能结构调整，依托国家制度多样性规避过早锁定风险 | 颠覆性通用技术引发全局产业与宏观经济重构阶段 | Freeman; Perez |
 > | **前竞争合作边界与迁移分野** | GPT 的跨行业渗透性与差异化下游拓宽了前竞争合作空间，而基础设施锁定与同质产出限制了研发联合体经验的跨界迁移 | 通用目的技术与专用技术对比、产业研发联合体适用边界、能源与半导体创新模式比较 | [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] |
 > | **国际标准与生态架构锁定** | 依托国际标准制定组织抢先建立开放互联与安全标准，固化本国底层架构并规避技术生态分裂 | 现代通用目的技术全球竞争、标准制定组织治理与地缘科技战略 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] |
+> | **网络国家协调与供应链共性托底** | 市场机制无法自动解决 GPT 扩散中的跨部门协调失灵，需依托发展型网络国家对等资助、供应链联合体与公共基础设施打破僵局 | 通用目的技术跨供应链与跨行业协同扩散、共性工艺突破、产业联合体协调 | [[Fred Block\|Block (2008)]] |
 
 ---
 
@@ -234,6 +249,7 @@ updated: 2026-10-10
 > - **1995 — 通用目的技术形式化模型确立** 布雷斯纳汉与特拉伊滕贝格正式提出通用目的技术（GPT）模型，将其形式化为兼具普遍渗透性、内在动态性与互补性创新的宏观增长引擎。
 > - **1999 — 硅微电子产业史经验确证** 莱屈耶通过[[Fairchild Semiconductor|仙童半导体]]从军用到民用市场的历史[[Case Study|个案研究]]，确证了硅技术确立为通用目的技术的微观企业与制造机理。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 179–209)]]
 > - **2005 — 公共先导采购与军民共演规律确立** 法布里奇奥与莫厄里系统揭示国防研发与先导采购在半导体、计算机硬件、系统软件及互联网四大通用技术部门萌芽期的催化机制，阐明由萌芽期单向外溢向成熟期“民用向军工逆向溢出”的生命周期规律。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 27–44)]]
+> - **2008 — [[Developmental Network State|发展型网络国家]]微观协调与 GPT 扩散机制拓展** [[Fred Block|弗雷德·布洛克]]（Fred Block）突破传统自由市场自发扩散假说，从[[Developmental Network State|发展型网络国家]]视角系统揭示通用目的技术在铁路、宽带、纳米技术及先进制造工艺中面临的跨部门协调失灵，实证阐明[[Advanced Technology Program|先进技术计划]]（ATP）如何通过对等资助与全供应链联合体（如汽车 2mm 工程）打破技术扩散僵局。[[Argument_Block_2008_PS|(Block, 2008, pp. 172–174, 188–189)]]
 > - **2011 — 制度生态与宏观政策演进拓展** 莫厄里系统论证了政府采购、反垄断同意令、大学[[Disciplinary Institutionalization|学科建制]]与用户[[Co-invention|共同发明]]对微电子、硬件与软件融合为通用目的技术的制度塑造作用，并界定了其向能源气候领域移植的边界。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 159–188)]]
 > - **2024 — 国家战略视阈下的 GPT 国际标准与架构锁定** 美国[[National Science and Technology Council|国家科学技术委员会]]（NSTC）在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》中进一步将微电子作为[[Competitiveness|国家竞争力]]的核心通用目的技术，强调通过跨机构协调与 NIST 主导的国际标准制定组织（SDOs）深度参与，将小芯片互联与[[Hardware Security|硬件安全]]等底层架构锁定为全球标准，以维持 GPT 生态的全球领导权。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 47–48)]]
 
@@ -270,7 +286,8 @@ updated: 2026-10-10
 > | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio & Mowery (2005, p. 29)]] | 2001财年全美联邦科研经费学科分布 | 联邦预算决算数据分析 | 计算机与工程学科中军资占比 | 国防部资助占全联邦高校计算机科学研发预算的 35%、工程科学预算的 30% 以上 | 官方决算数据 | 表明即使在冷战后，国防资金仍是高校通用信息学科基础设施的关键来源 |
 > | [[Argument_Freeman_1995_CJE\|Freeman (1995, p. 14)]] | 1980年代巴西与韩国制造业自动化装备与电信基础设施 | 跨国科技与工业统计比较分析 | 机器人、CAD、数控机床与电信指标 | 韩国每百万雇员工业机器人拥有量为 106.0 台（巴西仅 5.2 台）；CAD 为 143.7 台（巴西 42.2 台）；数控机床为 517.6 台（巴西 229.8 台）；微电子产业增速为 21%（巴西 8%）；人均电信设备销售额达 \$77（巴西 \$10） | 官方与工业统计事实 | 实证展现新兴工业化国家采纳与吸收通用微电子技术的悬殊差距对国家工业[[Competitiveness\|竞争力]]的深层影响 |
 > | [[Argument_Logar_2014_Minerva\|Logar et al. (2014, pp. 256–257)]] | 半导体产业联合体（[[Semiconductor Research Corporation\|SRC]]）与能源电力基础设施对比研究 | 嵌入式案例考察、质性访谈（$N=19$）与技术经济特征对比 | 前竞争合作边界广度、终端产品差异化程度、基础设施锁定年限 | 半导体作为 GPT 具有极广前竞争空间与差异化终端；能源电网资产沉淀长达 40 年且电能完全同质，前竞争与商用高度重叠 | 跨部门技术经济特征比较考据 | 实证确立通用目的技术（GPT）与非 GPT 技术在[[University-Industry Collaboration\|产学合作]]边界与研发联合体治理上的结构性分野 |
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 47–48)]] | 2024年[[National Strategy on Microelectronics Research\|美国国家微电子研究战略]]之国际标准与生态构建规划 | 战略政策分析与跨机构行动框架考据 | GPT国际标准制定组织参与度与研发生态跨度 | 覆盖全美 16 个联邦部门与机构、4 大战略目标与 20 项子目标，重点推进 NIST 芯片研发标准峰会（CHIPS R&D Standards Summit）、小芯片（[[Heterogeneous Integration\|Chiplet]]）互联开放标准与安全测试规范 | 联邦官方战略规划与政策行动事实 | 确立当代国家在通用目的技术竞争中依托国际技术标准锁定全球底层架构的战略路径 |
+| [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 47–48)]] | 2024年[[National Strategy on Microelectronics Research\|美国国家微电子研究战略]]之国际标准与生态构建规划 | 战略政策分析与跨机构行动框架考据 | GPT国际标准制定组织参与度与研发生态跨度 | 覆盖全美 16 个联邦部门与机构、4 大战略目标与 20 项子目标，重点推进 NIST 芯片研发标准峰会（CHIPS R&D Standards Summit）、小芯片（[[Heterogeneous Integration\|Chiplet]]）互联开放标准与安全测试规范 | 联邦官方战略规划与政策行动事实 | 确立当代国家在通用目的技术竞争中依托国际技术标准锁定全球底层架构的战略路径 |
+| [[Argument_Block_2008_PS\|Block (2008, pp. 188–189)]] | 1990年代美国商务部[[Advanced Technology Program\|先进技术计划]]（ATP）资助底特律汽车车身精度联合体（2mm Project） | 案例考证与政策效应分析 | 跨供应链对等资助比例与冲压公差改善 | ATP 要求企业提供 50% 对等配套资金，成功协调底特律三大车企（通用、福特、克莱斯勒）与数十家模具冲压供应商协同研发，将车身冲压件公差控制在 2 毫米以内（追平日本丰田标准） | 产业案例与政策记录 | 实证表明[[Developmental Network State\|发展型网络国家]]通过对等资助与供应链协调能有效克服通用制造工艺在传统产业中扩散的协调失灵 |
 
 ---
 
@@ -292,12 +309,17 @@ updated: 2026-10-10
 > | [[National Science and Technology Council]] | Fact (Org) | 负责统筹全美 16 个联邦机构制定微电子等核心 GPT 研发战略的最高跨部门科技协调机构。 |
 > | [[CHIPS and Science Act]] | Fact (Program) | 美国当代重振微电子通用目的技术本土制造与全链条研发创新的旗舰立法。 |
 > | [[National Semiconductor Technology Center]] | Fact (Org) | 依据《芯片法案》设立的公私伙伴关系枢纽，统筹全美微电子 GPT 前沿研发与中试验证。 |
+> | [[Developmental Network State]] | Theory | 解释国家如何通过共性技术资助与时序协调破解 GPT 跨部门扩散中协调失灵的核心理论。 |
+> | [[Advanced Technology Program]] | Fact (Program) | 商务部资助具有跨行业溢出效应的通用目的技术与共性工艺突破（如 2mm 工程）的旗舰计划。 |
+> | [[Fred Block]] | Person | 论证通用目的技术在自由市场中面临系统性协调失灵、需由网络国家主动破局的经济社会学家。 |
+> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 从隐蔽发展型网络国家协调机制视角论证 GPT 跨行业扩散与公共托底必要性的理论[[Document\|文献]]。 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> - [[Argument_Block_2008_PS|Block (2008)]] — 从隐蔽[[Developmental Network State|发展型网络国家]]的理论视阈，论证通用目的技术（GPT）与共性工艺在跨部门扩散中面临严重的市场协调失灵，系统考察[[Advanced Technology Program|先进技术计划]]（ATP）如何通过 50% 对等资助和汽车车身冲压“2毫米工程”等供应链联合体成功推动通用工艺在传统制造业的落地普及。
 > - [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]] — 详尽考察[[Fairchild Semiconductor|仙童半导体]]在1960–1967年间如何通过[[Application Engineering|应用工程]]、大规模混合制造、离岸[[Assemblage|组装]]与[[Dual In-Line Package|双列直插封装]]创新，将硅微电子技术成功塑造为辐射全美计算机与消费电子等工业部门的通用目的技术。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]] — 论证电子计算机、计算机软件与半导体组件三大基础部门如何经由国防研发投入、先导采购与第二货源机制在产业萌芽期获得催化，并在成熟期演进为由民用向军用逆向溢出的全局通用目的技术——互联网。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 系统考察战后半导体、计算机硬件与软件三大产业演化，揭示国防采购、反垄断同意令（1956年AT&T同意令、1956年IBM同意令）、大学[[Disciplinary Institutionalization|学科建制]]与用户[[Co-invention|共同发明]]如何推动信息[[Technological Convergence|技术汇聚]]为互联网这一通用目的技术，并探讨其对气候变化能源创新的镜鉴意义。
