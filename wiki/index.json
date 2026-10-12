@@ -6951,6 +6951,20 @@
     ]
   },
   {
+    "title": "Block Grants",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Block Grants.md",
+    "aliases": [
+      "整笔拨款",
+      "总额预算",
+      "一揽子拨款",
+      "统包拨款",
+      "统包总额拨款",
+      "lump-sum funding",
+      "block grant"
+    ]
+  },
+  {
     "title": "Canon Wars",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Canon Wars.md",
@@ -7426,6 +7440,18 @@
       "研究型大学体制",
       "Research University",
       "US Research Universities"
+    ]
+  },
+  {
+    "title": "Scale Enlargement",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Scale Enlargement.md",
+    "aliases": [
+      "规模扩充",
+      "院校规模扩充",
+      "高校规模化合并",
+      "荷兰高校大兼并",
+      "Schaalvergroting"
     ]
   },
   {
@@ -15481,6 +15507,19 @@
     ]
   },
   {
+    "title": "Law of Requisite Variety",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Law of Requisite Variety.md",
+    "aliases": [
+      "必要多样性法则",
+      "必要多样性定律",
+      "必要多样性定理",
+      "阿什比法则",
+      "Ashby's Law",
+      "Requisite Variety"
+    ]
+  },
+  {
     "title": "Luhmann's Systems Theory",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Luhmann's Systems Theory.md",
@@ -23185,6 +23224,18 @@
     ]
   },
   {
+    "title": "Wim Deetman",
+    "type": "person",
+    "path": "wiki/persons/netherlands/Wim Deetman.md",
+    "aliases": [
+      "维姆·德特曼",
+      "Willem Deetman",
+      "W. J. Deetman",
+      "Deetman, W. J.",
+      "Deetman, W."
+    ]
+  },
+  {
     "title": "John Hattie",
     "type": "person",
     "path": "wiki/persons/new-zealand/John Hattie.md",
@@ -30065,6 +30116,32 @@
     ]
   },
   {
+    "title": "Pacification of 1917",
+    "type": "fact",
+    "path": "wiki/facts/netherlands/Pacification of 1917.md",
+    "aliases": [
+      "1917年大妥协",
+      "1917年和平妥协",
+      "荷兰1917年大妥协",
+      "学校论争的终结",
+      "The Pacification of 1917",
+      "Schoolstrijd Pacification"
+    ]
+  },
+  {
+    "title": "HBO-Raad",
+    "type": "fact",
+    "path": "wiki/facts/netherlands/HBO-Raad.md",
+    "aliases": [
+      "荷兰高等职业教育委员会",
+      "高等专业教育委员会",
+      "Council for Higher Vocational Education",
+      "Vereniging Hogescholen",
+      "HBO Council",
+      "荷兰应用科技大学协会"
+    ]
+  },
+  {
     "title": "Kenniskamer",
     "type": "fact",
     "path": "wiki/facts/netherlands/Kenniskamer.md",
@@ -30101,6 +30178,44 @@
     "path": "wiki/facts/netherlands/Top Institute for Evidence-Based Education Research.md",
     "aliases": [
       "荷兰证据本位教育研究顶尖研究所"
+    ]
+  },
+  {
+    "title": "VSNU",
+    "type": "fact",
+    "path": "wiki/facts/netherlands/VSNU.md",
+    "aliases": [
+      "荷兰大学联合会",
+      "Association of Universities in the Netherlands",
+      "Universiteiten van Nederland",
+      "UNL",
+      "Vereniging van Samenwerkende Nederlandse Universiteiten"
+    ]
+  },
+  {
+    "title": "Higher Education and Research Act 1992",
+    "type": "fact",
+    "path": "wiki/facts/netherlands/Higher Education and Research Act 1992.md",
+    "aliases": [
+      "1992年高等教育与科研法",
+      "荷兰高等教育与科研法",
+      "WHW",
+      "WHW Act",
+      "Wet op het hoger onderwijs en wetenschappelijk onderzoek",
+      "1992年高等教育与科学研究法"
+    ]
+  },
+  {
+    "title": "Higher Education and Research Plan",
+    "type": "fact",
+    "path": "wiki/facts/netherlands/Higher Education and Research Plan.md",
+    "aliases": [
+      "高等教育与科研规划",
+      "荷兰高等教育与科研规划",
+      "HOOP",
+      "HOOP Plan",
+      "Hoger Onderwijs en Onderzoek Plan",
+      "对话式规划"
     ]
   },
   {
