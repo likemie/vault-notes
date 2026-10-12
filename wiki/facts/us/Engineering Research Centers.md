@@ -12,9 +12,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 34
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 36
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1984–至今"
 initiator_organization: "美国国家科学基金会（National Science Foundation, NSF）"
@@ -37,14 +37,16 @@ related_concepts:
   - "[[Engineering Mindset]]"
   - "[[Pilot Scale Platform]]"
   - "[[Paradigm]]"
+  - "[[Congressional Earmarks]]"
   - "[[Research Translation]]"
   - "[[Heterogeneous Integration]]"
-  - "[[Congressional Earmarks]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[University-Based Research Center]]"
+  - "[[Document]]"
 related_persons:
+  - "[[Fred Block]]"
   - "[[Erich Bloch]]"
   - "[[Nam Pyo Suh]]"
-  - "[[Fred Block]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[National Academy of Sciences]]"
@@ -61,8 +63,8 @@ related_arguments:
   - "[[Argument_Block_2008_PS]]"
   - "[[Argument_Fan_2026_BCAS]]"
 related_theories:
-  - "[[Social Contract of Science]]"
   - "[[Developmental Network State]]"
+  - "[[Social Contract of Science]]"
 related_methods:
   - "[[Correlational Research]]"
 confidence: high

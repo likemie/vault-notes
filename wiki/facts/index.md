@@ -10,7 +10,7 @@ Total entries: **788**
 |---|---:|
 | Fact entries | 788 |
 | Regions / contexts | 43 |
-| Fact types | 6 |
+| Fact types | 7 |
 
 ## Region Hotspots
 
@@ -33,12 +33,13 @@ Total entries: **788**
 
 | Type | Entries |
 |---|---:|
-| Policy | 215 |
+| Policy | 214 |
 | Organization | 213 |
 | Program | 207 |
 | Event | 149 |
 | Institution | 3 |
 | Document | 1 |
+| System | 1 |
 
 ## Topic Signals
 
@@ -406,8 +407,7 @@ Total entries: **788**
 > - [[Standing Conference of the Ministers of Education and Cultural Affairs]] — 德国16个联邦州负责教育、高校与文化事务主管部长的宪制性常设协调机构，主导制定国家教育监测总体战略与跨州统一教育标准，并通过元治理协调IQB等国家计算中心与全德数据基础设施
 > - [[Zentrum für internationale Bildungsvergleichsstudien]] — 2010年由德国联邦教育与研究部（BMBF）与各州文教部长联席会议（KMK）联合创设的国家级学术联合体，设于慕尼黑工业大学，由TUM、DIPF与IPN三方联合运营，负责统筹执行PISA等国际大型教育测评并产出宏观系统知识。
 
-> [!index-list]- Policy (4)
-> - [[German Dual Education System]] — 德国以企业实践培训与职业学校理论学习交替进行为核心的职业教育体系，1969年《联邦职业教育法》将其纳入国家公法体系，约80%的学员完成培训后留在签约企业工作。
+> [!index-list]- Policy (3)
 > - [[German Innovation Policy System]] — 德国联邦政府构建的系统性创新政策体系，涵盖顶层战略规划、集群发展、税收优惠、融资支持、职业教育立法和技术转移等多个维度，通过产学研协同机制推动科技与产业深度融合。
 > - [[Gesamtstrategie zum Bildungsmonitoring]] — 德国常设各州教育与文化部长会议（KMK）于2006年正式通过并于2015年升级修订的全国教育质量监测纲领，制度化确立了国际测评、国家标准检验、全域校际比较测试与统一教育报告四大支柱
 > - [[Prussian Draft Education Law of 1819]] — 1819 年由普鲁士枢密顾问官[[Johann Wilhelm Süvern|约翰·威廉·聚芬]]主持起草的综合国民教育法草案，确立了国家世俗最高监督、市镇自筹办学义务、初等小学与市民学校垂直双轨分流以及省立师范学校建制，成为维克多·库森《普鲁士公共教育现状报告》与法国 1833 年基佐法案的制度原型与技术蓝本
@@ -424,6 +424,9 @@ Total entries: **788**
 > - [[Schulen im Team]] — 德国墨卡托基金会、北莱茵-威斯特法伦州学校与继续教育部及多特蒙德工业大学学校发展研究所于 2007 年至 2015 年在鲁尔区联合推行的区域性跨校网络协同发展与教学改进重大示范工程，开创了“自组织干预”与校际同侪结对模式，系统揭示了转移对象的具象化程度与单体学校组织吸收能力对复杂教育创新本土重构的深层制约。
 > - [[SINUS]] — 由德国联邦与各州教育规划与科研促进委员会（BLK）设立的全国性重大数理教学改革与网络化转移示范工程（1998–2007），旨在应对 TIMSS 危机，通过跨校教师协作网络与 11 个教学发展模块提升课堂质量，奠定了德语区转移科学与网络化学校发展的经验基石。
 > - [[Vergleichsarbeiten]] — 德国常设各州教育与文化部长会议（KMK）国家教育监测战略下的全域普查性学业比较测试，覆盖全德小学3年级与初中8年级，由IQB研制心理测量学标定题库并依托数字化平台实现国家标准向微观课堂的拓扑折叠与低利害诊断干预
+
+> [!index-list]- System (1)
+> - [[German Dual Education System]] — 德国以企业现场学徒实践与职业学校理论教学交替进行为核心的法定职业技能形成体系；依托政府、工会与行业协会三方协同治理，克服雇主搭便车与技能沉没成本难题，为德国制造业全球竞争力与先进工艺传承奠定制度基石。
 
 ## Global
 

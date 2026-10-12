@@ -9,10 +9,10 @@ aliases:
 summary: "一种具有跨部门广泛渗透性、内在持续技术动态性以及能诱发下游互补性创新与系统性生产率提升的基础技术范式。"
 type: concept
 domain: "economics"
-related_count: 48
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 54
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/innovation-economics
   - theme/technological-change
@@ -35,12 +35,14 @@ related_concepts:
   - "[[Heterogeneous Integration]]"
   - "[[Co-Design]]"
   - "[[Hardware Security]]"
+  - "[[Hypothesis]]"
   - "[[Technological Convergence]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Competitiveness]]"
   - "[[Determinism]]"
   - "[[Variable]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Document]]"
 related_theories:
   - "[[Techno-economic Paradigm]]"
   - "[[Technological Trajectories]]"

@@ -8,10 +8,10 @@ aliases:
   - 双元制学徒培训
   - 注册学徒制
   - Registered Apprenticeship
-summary: "将技能习得深嵌于工作场所实践操作与长期师徒传承中的制度化技能形成机制。既是19世纪普鲁士工业赶超与芯片法案劳动力附加条件的核心抓手，也是微电子与先进制造中维系洁净室工艺知识、培育全谱系技师的关键支柱。"
+summary: "将技能习得深嵌于工作场所实践操作与长期师徒传承中的制度化技能形成机制。既是19世纪普鲁士工业赶超与芯片法案劳动力附加条件的制度纽带，也是微电子与先进制造中维系洁净室工艺知识、培育全谱系技师的关键支柱。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 52
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -54,12 +54,14 @@ related_concepts:
 related_theories:
   - "[[Varieties of Capitalism]]"
   - "[[Systems of Innovation]]"
+  - "[[Developmental Network State]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_persons:
   - "[[Chris Freeman]]"
   - "[[Friedrich List]]"
+  - "[[Fred Block]]"
   - "[[Michael Kratsios]]"
 related_facts:
   - "[[Gewerbe-Institut]]"
@@ -80,10 +82,11 @@ related_arguments:
   - "[[Argument_Reynolds_2024_JICT]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
+  - "[[Argument_Block_2008_PS]]"
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-11
+updated: 2026-10-12
 ---
 
 # Apprenticeship
@@ -220,6 +223,16 @@ updated: 2026-10-11
 
 ---
 
+### 命题五　创新国家对学徒制与制造劳工技能的系统性漠视内生出技工供给断层与制造业外流危机
+
+> [!concept-lens] [[Developmental Network State|发展型网络国家]]与劳工技能形成（低工资道路 vs 高技能道路）
+> 探讨后工业国家在构建前沿科研网络时为何系统性忽视一线生产技工的学徒培训，以及该制度盲区如何倒逼先进制造离岸外包。
+
+> [!claim] [[Fred Block|Block, F.]]
+> **“低工资道路”陷阱与高技术技工短缺危机** 弗雷德·布洛克（Fred Block）批判指出，美国在[[Market Fundamentalism|市场原教旨主义]]意识形态主导下构建的发展型网络国家存在严重的劳工技能治理盲区。联邦科技政策高度聚焦于博士级科学家与顶尖工程师的培养及海外技术移民引进，却完全漠视一线高科技制造工人的技能形成（“谁来制造计算机芯片与其他高科技产品？”）。政策制定者错误地预设削弱工会、雇用临时工及压低生产工人工资福利的“低工资道路”（low road）对所有雇主都是有利的；然而高技术制造高度依赖高阶工艺工人的精湛技能以及劳资深度合作的“高工资道路”（high road）。相比德日欧亚主要竞争对手依托政府、工会与产业界“三方协同机制”（tripartite system）向学徒培训注入巨额公共资本，美国对学徒制等生产技能政策的系统性忽视导致精密仪器与芯片制造在本土扩大规模时面临严重的熟练技工短缺；制造业推广伙伴计划（MEP）每年仅获约 1 亿美元资助（折合每位制造工人仅 6 美元，而培养一名成熟工人需数万美元），这种技能供给断层成为迫使企业将平板显示等先进制造迁往海外的深层制度根源。[[Argument_Block_2008_PS|(Block, 2008, pp. 196–198)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 学徒制相关理论命题归纳
@@ -230,6 +243,7 @@ updated: 2026-10-11
 > | **政策附加条件与技能形成** | 注册学徒制是现代产业政策克服企业培训短视、绑定[[Public Value\|公共价值]]的契约杠杆 | 现代半导体制造、绿色基础设施建设与产业补贴规制 | [[Argument_Reynolds_2024_JICT\|Reynolds, E. B. (2024)]] |
 > | **工艺知识与硬件创新底座** | 注册学徒制与工匠学者是维系现场工艺知识、打破设计制造割裂的战略基石 | 先进制造回流、高需求技术证书改革与国家科技领导力 | [[Argument_Kratsios_2026_OSTP\|Kratsios, M. (2026)]] |
 > | **微电子洁净室技师通道** | 注册学徒制与社区学院微凭证联动，化解晶圆制造技师荒并构筑技能跃升阶梯 | 国家芯片战略、全谱系劳动力培育与产线设备维护 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] |
+> | **高技术制造技能断层与外包危机** | 忽视学徒制与生产劳工技能投资导致高技术技工断层，迫使先进制造离岸外流；需由低工资道路转向三方协同技能体系 | 隐性发展型国家弊端、先进制造离岸外包、平板显示与芯片制造技能短缺 | [[Fred Block\|Block (2008)]] |
 
 ---
 
@@ -239,6 +253,7 @@ updated: 2026-10-11
 > - **中世纪至 18 世纪 — 传统行会学徒制** 依赖手工业行会自主规制，手艺师傅与学徒建立依附性人身契约，具有较强的排他性与地方性壁垒。
 > - **19 世纪 — 现代国家协调下的技术学徒制** 普鲁士创设工艺学校（[[Gewerbe-Institut]]），将正规工程教学与工坊学徒训练打通，为工业革命提供规模化熟练工匠网络。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7)]]
 > - **20 世纪下半叶 — [[German Dual Education System|双元制]]与[[Cognitive Apprenticeship|认知学徒制]]分化拓展** 在比较资本主义（[[Varieties of Capitalism]]）中，德国双元制学徒培训成为协调型市场经济（CME）的标志；在教育科学中，Collins 等学者将其抽象为“[[Cognitive Apprenticeship|认知学徒制]]”，用于指导[[Higher-Order Thinking Skills|高阶思维]]教学。
+> - **2008 年 — 发展型国家劳工技能盲区与“低工资道路”反思** [[Fred Block|弗雷德·布洛克]]（Fred Block）系统揭示美国隐形发展型国家虽善于培育前沿科学概念，但因信奉[[Market Fundamentalism|市场原教旨主义]]而严重漠视一线生产工人的学徒制职业教育，对比德亚竞争对手的三方协同技能投资，实证论证了技工短缺如何直接诱发尖端制造外流。[[Argument_Block_2008_PS|(Block, 2008, pp. 196–198)]]
 > - **2020 年代初 — 现代产业战略下的注册学徒制契约化** 美国等经济体在《[[CHIPS and Science Act|芯片与科学法案]]》与《[[Inflation Reduction Act|通胀削减法案]]》中，将注册学徒制确立为公共补贴分配的核心附加条件与劳工标准。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 9–10, 13)]]
 > - **2024 年 — 微电子全谱系劳动力与洁净室学徒网络** 美国[[National Science and Technology Council|国家科学技术委员会]]（[[National Science and Technology Council|NSTC]]）在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》中将注册学徒制与 [[National Science Foundation|NSF]] [[Advanced Technological Education|ATE]]、[[Natcast]] WCoE 深度绑定，打造覆盖晶圆产线操作与设备排障的半导体全谱系技能通道。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 29–35)]]
 > - **2026 年 — 工艺知识保全与百万学徒国家战略** 白宫科技政策报告直面“设计与制造二分法”引发的工艺知识断代危机，将注册学徒制上升为重塑国家物理工程创新与硬件制造韧性的核心战略，确立年增 100 万注册学徒目标，推出[[Workforce Pell Grants 2025|劳动力佩尔助学金]]与工匠学者计划。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 53–54)]]
@@ -266,6 +281,12 @@ updated: 2026-10-11
 > >
 > > - **传统公立职教诉求** 主张继续通过常态化生均拨款维持公立社区学院和职校的基础运营，保障通识技能普及。
 > > - **绩效与市场导向改革论** 强调大量传统职教项目存在低完成率和低就业率问题；必须通过[[Workforce Pell Grants 2025|劳动力佩尔助学金]]直接赋予学员选择权，并依据就业率和薪资增长对培训机构实施“按绩效付费”，淘汰劣质培训项目。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 54)]]
+>
+> > [!axis] 低工资灵活雇佣道路 vs 高技能学徒制合作道路
+> > 围绕高技术制造应当采取削减培训开支的“低成本劳动力”模式，还是依托学徒制建设高技能劳工队伍的争论。
+> >
+> > - **新自由主义灵活用工派** 认为高技术企业应专注于研发与无形资产，制造现场可通过临时工、压缩福利与外包来控制成本。
+> > - **高技能产业韧性派（[[Argument_Block_2008_PS|Block, 2008]]）** 指出高科技生产高度依赖工人现场默会技能与紧密劳资合作，推行低工资模式只会导致本土技能断层，并在产能爬坡时因缺乏训练有素的技工而被动将高价值产业拱手让给注重三方协同技能培育的海外对手。
 
 > [!warning] 适用局限
 > 学徒制高度依赖长周期的稳定雇佣预期与相对连贯的物理制造工艺路径；在面对急剧变迁的纯软件算法或颠覆性[[Paradigm|范式]]突变时，传统师傅可能受限于既有工作习惯与工艺偏见，需与跨工种技能轮岗及大学前沿研究交叉融合。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 18–19)]]
@@ -284,6 +305,7 @@ updated: 2026-10-11
 > | 2020年代美国《[[Inflation Reduction Act\|通胀削减法案]]》清洁能源税收抵免 | 现行工资（Prevailing Wage）与学徒工时比例要求 | 将清洁能源项目 5 倍税收抵免与法定注册学徒工时配额硬性绑定 | 推动私人清洁能源开发商规模化吸纳注册学徒工，创造高薪绿色制造岗位 | [[Argument_Reynolds_2024_JICT\|(Reynolds, 2024, pp. 9, 13)]] |
 > | 2024年[[National Strategy on Microelectronics Research\|美国国家微电子研究战略]] | 注册学徒制与 [[National Science Foundation\|NSF]] ATE、[[Natcast]] WCoE 协同 | 针对晶圆制造与封装产线设备排障开展现场实训，打通微凭证与技术工程师阶梯 | 缓解微电子产线技师荒，构建跨越基础到工程的全谱系劳动力梯队 | [[Argument_NSTC_2024_MicroelectronicsResearch\|(NSTC, 2024, pp. 29–35)]] |
 > | 2026年联邦科技战略与百万学徒计划 | 每年 100 万注册学徒目标 + [[Workforce Pell Grants 2025\|劳动力佩尔助学金]] | 资助 8–15 周高需求技术证书，劳工部资助全面转向“按绩效付费”，设立国家工匠学者 | 逆转制造外包导致的[[Process Knowledge\|工艺知识]]断代，筑牢先进制造物理原型研发底座 | [[Argument_Kratsios_2026_OSTP\|(Kratsios, 2026, pp. 53–54)]] |
+> | [[Argument_Block_2008_PS\|Block (2008, pp. 196–198)]] | 1980–2000年代美国联邦制造业劳工培训投资与平板显示等高技术制造离岸外包 | 政策预算考据与跨国技能制度对比 | 制造业推广伙伴计划（MEP）生均预算、熟练技工短缺与制造外包动因 | 联邦 MEP 年资助仅约 1 亿美元（折合每位制造业生产工人仅约 6 美元，而有效技能培训人均需数万美元）；美国研发之平板显示制造因缺乏熟练技工储备全面[[Attrition\|流失]]至重视政府协同培训的日韩台地区 | 联邦决算数据与产业案例考证 | 确证单纯依靠科研突破而漠视学徒制与生产劳工技能投资将导致制造产能外流与创新链条断裂 |
 
 ---
 
@@ -305,27 +327,21 @@ updated: 2026-10-11
 > | [[National Science and Technology Council]] | Fact (Organization) | 白宫科技委员会，制定[[National Strategy on Microelectronics Research\|国家微电子研究战略]]并全面部署全谱系学徒制劳动力体系。 |
 > | [[German Dual Education System]] | Fact | 现代双元制学徒培训的经典制度实体，展现工坊实践与职业学校的深度融合。 |
 > | [[Systems of Innovation]] | Theory | 将技能形成体系与工匠网络视作[[National Innovation System\|国家创新系统]]不可分割的制度构件。 |
+> | [[Developmental Network State]] | Theory | 剖析美国创新体系因漠视学徒制与制造工人技能而导致先进产能外流的核心理论。 |
+> | [[Fred Block]] | Person | 揭示美国发展型网络国家深陷“低工资道路”并呼吁三方协同投资学徒培训的经济社会学家。 |
 > | [[Michael Kratsios]] | Person | 2026 年白宫科技政策报告主笔，系统提出百万注册学徒目标与工匠学者计划。 |
 > | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC, 2024]] | Argument | 战略报告，确立通过注册学徒制与非学位技能认证化解微电子洁净室技师短缺的方案。 |
 > | [[Argument_Reynolds_2024_JICT\|Reynolds, 2024]] | Argument | 剖析美国现代产业战略中注册学徒制作为[[Policy Conditionalities\|制度化附加条件]]的关键机制。 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios, 2026]] | Argument | 白宫战略报告，提出百万注册学徒目标与重构前沿制造工艺知识底座。 |
 > | [[Argument_Freeman_1995_CJE\|Freeman, 1995]] | Argument | 考证 19 世纪普鲁士国家协调工匠带徒传艺并奠定内生制造能力的经典[[Document\|文献]]。 |
+> | [[Argument_Block_2008_PS\|Block, 2008]] | Argument | 系统阐述高技术制造技能断层、MEP 人均 6 美元预算与生产外包制度弊端的经典文献。 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 白宫国家科技委员会[[National Strategy on Microelectronics Research|国家微电子研究战略]]，系统规划全谱系人才开发（Goal 3），将注册学徒制与 [[National Science Foundation|NSF]] [[Advanced Technological Education|ATE]]、[[Natcast]] 劳动力卓越中心深度绑定，培育芯片制造产线高技能操作与排障技师。
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统批判“设计与制造二分法”对美国工程创新底座的损害，提出每年培育 100 万名注册学徒的战略目标，论述工艺知识保全、[[Workforce Pell Grants 2025|劳动力佩尔助学金]]、按绩效付费以及“国家工匠学者”制度在重构前沿制造韧性中的关键支撑。
-> - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 剖析美国现代产业战略（CHIPS、[[International Reading Association|IRA]]、[[Infrastructure Investment and Jobs Act|IIJA]]）中如何将注册学徒制与[[Workforce Development|劳动力发展计划]]作为[[Policy Conditionalities|制度化附加条件]]，揭示技能形成与高质量就业在先进制造复兴中的关键支撑机制。
-> - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 考证 19 世纪普鲁士国家协调英国工匠带徒传艺并与工艺学校紧密协作的史实，论证隐性知识传递与学徒培训网络在后发国家内生技术积累中的基石作用。
-
----
-
-## 相关研究
-
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> - [[Argument_Block_2008_PS|Block (2008)]] — 批判美国隐形[[Developmental Network State|发展型网络国家]]在[[Market Fundamentalism|市场原教旨主义]]支配下奉行削弱工会与压低工资的“低工资道路”，实证揭示联邦制造技能资助匮乏（MEP 年均仅 1 亿美元、人均 6 美元）导致的熟练技工断层与高科技制造（如平板显示）外流危机，论证三方协同技能形成的战略意义。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 白宫国家科技委员会[[National Strategy on Microelectronics Research|国家微电子研究战略]]，系统规划全谱系人才开发（Goal 3），将注册学徒制与 [[National Science Foundation|NSF]] [[Advanced Technological Education|ATE]]、[[Natcast]] 劳动力卓越中心深度绑定，培育芯片制造产线高技能操作与排障技师。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统批判“设计与制造二分法”对美国工程创新底座的损害，提出每年培育 100 万名注册学徒的战略目标，论述工艺知识保全、[[Workforce Pell Grants 2025|劳动力佩尔助学金]]、按绩效付费以及“国家工匠学者”制度在重构前沿制造韧性中的关键支撑。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 剖析美国现代产业战略（CHIPS、[[International Reading Association|IRA]]、[[Infrastructure Investment and Jobs Act|IIJA]]）中如何将注册学徒制与[[Workforce Development|劳动力发展计划]]作为[[Policy Conditionalities|制度化附加条件]]，揭示技能形成与高质量就业在先进制造复兴中的关键支撑机制。

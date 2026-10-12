@@ -11,7 +11,7 @@ aliases:
 summary: "通过在单片物理晶圆上拼版整合多个独立设计团队的掩模图案，以分摊昂贵光罩与代工制造成本的集成电路先导中试与样片制造共享机制；作为发展型网络国家打破重资产制造壁垒的核心基础设施，使去中心化的学术界与初创企业得以低成本流片验证激进芯片架构。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 26
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

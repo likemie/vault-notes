@@ -11,9 +11,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 24
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 29
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1978–至今"
 initiator_organization: 美国国家科学基金会（National Science Foundation, NSF）
@@ -28,21 +28,25 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Industry Advisory Board]]"
   - "[[Academic Freedom]]"
+  - "[[University-Industry Collaboration]]"
+  - "[[University-Based Research Center]]"
+  - "[[Seed Funding]]"
   - "[[Paradigm]]"
   - "[[Research Topic]]"
   - "[[Big Science]]"
   - "[[Technology Transfer]]"
   - "[[Technology Transfer Office]]"
   - "[[Congressional Earmarks]]"
-  - "[[University-Industry Collaboration]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Construct]]"
+  - "[[Document]]"
 related_theories:
   - "[[Developmental Network State]]"
 related_persons:
+  - "[[Fred Block]]"
   - "[[Erich Bloch]]"
   - "[[Nam Pyo Suh]]"
   - "[[Richard C. Atkinson]]"
-  - "[[Fred Block]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Engineering Research Centers]]"
