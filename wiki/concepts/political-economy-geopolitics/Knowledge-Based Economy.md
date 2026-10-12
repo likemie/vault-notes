@@ -7,7 +7,7 @@ aliases:
 summary: "以知识、创新、高等教育、研发与高阶思维技能作为价值创造与全球竞争核心要素的经济形态；在技术自动化与AI浪潮下，其战略重心从静态专业知识转向高阶认知能力，但面临宏观政策宣示与微观学业评价滞后的深层制度悖论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 50
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -42,7 +42,7 @@ related_concepts:
   - "[[Self-Entrepreneur]]"
   - "[[Learning Gain]]"
   - "[[Constructive Alignment]]"
-  - "[[Document]]"
+  - "[[Market Fundamentalism]]"
   - "[[Intellectual Capital]]"
   - "[[National Innovation System]]"
   - "[[STEM Education]]"
@@ -51,6 +51,8 @@ related_concepts:
   - "[[Public Value]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Stokes' Quadrant Model of Scientific Research]]"
+  - "[[Developmental Network State]]"
   - "[[Systems of Innovation]]"
   - "[[Cultural Political Economy]]"
 related_methods:
@@ -60,6 +62,7 @@ related_methods:
 related_instruments:
   - "[[Collegiate Learning Assessment]]"
 related_persons:
+  - "[[Fred Block]]"
   - "[[Friedrich List]]"
 related_facts:
   - "[[OECD]]"
@@ -73,12 +76,13 @@ related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
   - "[[Argument_Rizvi_2022_Springer]]"
   - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
+  - "[[Argument_Block_2008_PS]]"
   - "[[Argument_Amos_2022_Springer]]"
   - "[[Argument_Erfurth_2022_education-hubs]]"
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-10-07
+updated: 2026-10-12
 ---
 
 # Knowledge-Based Economy
@@ -129,7 +133,7 @@ updated: 2026-10-07
 
 > [!logic-map]- 知识经济与高等教育治理的运作机制
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["全球知识经济竞争与自动化浪潮<br/>(AI/技术变革淘汰常规劳动)"] --> B["高阶认知素养需求爆发<br/>(批判性思维 + 创造力)"]
 >     B --> C["国家宏观政策与资格框架重构<br/>(白皮书/EQF/NQF能力导向宣示)"]
 >     C --> D["大学职能转型：国家创新基础设施<br/>(高教扩张/科研投资/国际化枢纽)"]
@@ -183,6 +187,16 @@ updated: 2026-10-07
 
 ---
 
+### 命题五　后工业知识经济的技术不确定性促使国家从科层指令向网络治理转型，但知识的“虚构商品”商品化反向制约了创新协同
+
+> [!concept-lens] 治理网络化与虚构商品悖论
+> 知识经济的创新[[Epistemology|认识论]]特征打破了科层指令和自由放任的神话，要求国家充当网络经纪人；然而[[Market Fundamentalism|市场原教旨主义]]对知识产权的极端私有化反向构筑了合作壁垒。
+
+> [!claim] [[Argument_Block_2008_PS|Block (2008)]]
+> **[[Network Governance|网络治理]]转型与虚构商品反协同效应** [[Fred Block|弗雷德·布洛克]]指出，在后工业知识经济中，技术突破不再发生于线性的流水线或孤立的大企业实验室，而是深植于基础探索与应用目标高度互嵌的[[Pasteur's Quadrant|巴斯德象限]]。这种极度不可预测性否定了由中央政府自上而下挑选赢家的东亚科层指令模式，也否定了假定企业依靠自发市场即可完成高风险研发的新自由主义教条，内生驱动国家向去中心化专业机构协同的[[Developmental Network State|发展型网络国家]]转型。然而，在[[Market Fundamentalism|市场原教旨主义]]意识形态裹挟下，知识经济体制将知识这一波兰尼意义上的“虚构商品”极端商品化，推行激进的排他性知识产权占有。这种激进产权逻辑构筑了严重的制度壁垒：合作各方因极度担忧研发成果被潜在合作者独占，而在立项谈判中陷入漫长防范与僵局，直接阻碍了跨组织联合科研攻关的启动，反向反噬了知识经济赖以繁荣的开放协同生态。[[Argument_Block_2008_PS|(Block, 2008, pp. 171–176, 195–198)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -192,6 +206,7 @@ updated: 2026-10-07
 > | **能力[[Paradigm\|范式]]跃迁** | 自动化压力迫使价值来源从事实记忆转向批判与创造技能 | 劳动力技能转型、课程改革、人才需求测绘 | [[Argument_Bouckaert_2023_OECD\|Bouckaert / OECD (2023)]] |
 > | **主体性规训** | 通过技能话语将劳动力市场风险转化为个体终身投资义务 | [[Lifelong Learning\|终身学习]]、继续教育、自我企业家精神 | [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022)]]; [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] |
 > | **评价断裂悖论** | 宏观政策高阶能力宣示与微观学业考核事实导向严重脱节 | 高教质量保障、学习增益测量、考试制度改革 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] |
+> | **网络治理与虚构商品** | 后工业巴斯德象限创新驱动国家向网络经纪转型，但知识商品化阻滞了跨组织协同 | [[National Innovation System\|国家创新体系]]转型、产学研联合攻关与知识产权制度反思 | [[Argument_Block_2008_PS\|Block (2008)]] |
 
 ---
 
@@ -201,6 +216,7 @@ updated: 2026-10-07
 > - **十九世纪先驱 — [[Friedrich List]] 国家[[Systems of Innovation\|创新系统]]萌芽** List《政治经济学的国家系统》（1841）主张国家必须通过有组织的技术教育、科研与长期产业政策拓展知识优势，奠定[[National Innovation System|国家创新系统]]的知性根源。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, p. 22)]]
 > - **二战后奠基（1950s–1970s） — 知识工作者与后工业理论** Drucker（1959/1969）提出“知识工作者”；Bell（1973）阐述[[Theoretical Knowledge\|理论知识]]在后工业主义中的核心地位；人造卫星危机（1957）促使 [[OECD]] 将 [[STEM Education\|STEM]] 教育与国家地缘经济[[Competitiveness|竞争力]]深度绑定。[[Argument_Amos_2022_Springer\|(Amos, 2022, p. 56)]]
 > - **经济学理论化（1980s–1990s） — 内生增长与新自由主义全球化** Romer（1986）内生增长理论将知识与[[Human Capital Theory\|人力资本]]确立为不受边际收益递减限制的内生动力；世界银行（1991）与 OECD（1996）正式将 KBE [[Discourse|话语]]确立为全球教育与经济政策主导典范。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, p. 23)]]
+> - **发展型[[Network Governance|网络治理]]与虚构商品批判（2000s–2008） — 跨组织协同与产权反思** [[Fred Block|弗雷德·布洛克]]基于美国《R&D 100》大奖纵向追踪证实，后工业知识经济的突破性创新已从单一企业封闭研发转向由大学、联邦实验室与企业构成的跨组织网络，确立了去中心化[[Developmental Network State|发展型网络国家]]在[[Pasteur's Quadrant|巴斯德象限]]中的中介功能；同时从卡尔·波兰尼（Karl Polanyi）虚构商品视角批判了激进知识产权占有对开放科学与跨界研发协作的制度性反噬。[[Argument_Block_2008_PS|(Block, 2008, pp. 171–176, 195–198)]]
 > - **全球扩散与空间运作（2000s–2010s） — 教育出口与枢纽建设** 亚洲国家与澳大利亚将 KBE 转化为教育出口战略；新加坡与迪拜通过“教育枢纽”政策将大学完全产业化为经济增长极。[[Argument_Rizvi_2022_Springer\|(Rizvi, 2022)]]; [[Argument_Erfurth_2022_education-hubs\|(Erfurth, 2022)]]
 > - **智能时代评价重构（2020s至今） — 聚焦高阶认知素养与评价治理** 面对生成式 AI 与劳动力深度重组，OECD 等国际组织反思“教育扩张”数量指标，转向推动以[[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]]与真实表现任务为核心的高教评价与治理变革。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023)]]
 
@@ -209,6 +225,12 @@ updated: 2026-10-07
 ## 争议与批评
 
 > [!debates] 学术争议焦点
+>
+> > [!axis] 知识本体属性与产权边界：排他性商业资产 vs 波兰尼虚构商品
+> > 知识经济中将知识完全视作私人排他性财产，究竟是激励创新的制度基石，还是阻碍跨界协作与制造分配不公的制度扭曲。
+> >
+> > - **新自由主义与新古典知识经济学派** 坚信知识产权的严格界定与排他保护是[[Intellectual Capital|知识资本]]化、[[Technology Transfer|技术转移]]与激励私营研发投资的根本前提，主张全面推行专利商业化。
+> > - **经济社会学批判学派（[[Argument_Block_2008_PS|Block, 2008]]）** 指出知识本质上不是为了买卖而生产的普通商品；激进的排他性产权占有不仅导致“公共财政托底研发风险、私营寡头垄断暴利”的公私收益脱节，更因对技术被窃取的恐惧构筑了严重制度壁垒，反向扼杀知识经济所必需的跨企业联合研发攻关。[[Argument_Block_2008_PS|(Block, 2008, pp. 195–198)]]
 >
 > > [!axis] 知识经济[[Discourse|话语]]的批判轴线
 > > - **[[Spatial Sortings\|空间分化]]与不平等极化（Spatial Polarization）** [[Progressive Neoliberalism\|进步新自由主义]]的 KBE 极度偏向少数跨国大都市[[Innovation Hub\|创新枢纽]]，导致非枢纽中小城镇与农村地区经历不可逆的经济衰退与人才失血。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, pp. 30–32)]]
@@ -220,6 +242,7 @@ updated: 2026-10-07
 ## 实证数据
 
 > [!finding-cards] 关键实证发现
+> - **大奖创新主体从单一企业向跨组织协同转型** [[Fred Block|弗雷德·布洛克]]对美国《R&D 100》大奖追踪实证显示：1970 年代大企业独立研发包揽了全美大多数突破性创新；而到 2006 年全美 88 项本土获奖创新中，仅 11 项由私营企业独立完成，多达 77 项（87.5%）均由联邦机构全额资助或涉及大学与政府的跨组织协同，证实知识经济前沿创新已彻底转型为跨机构网络化结构。[[Argument_Block_2008_PS|(Block, 2008, pp. 175–177)]]
 > - **无形财富资产拐点** 1980 年代后期起，发达市场经济体中知识、技术与信息等无形资产对 GDP 的贡献率全面超越自然资源与实体厂房设备。（Dunning, 2000; [[Argument_Moisio_2022_Springer\|Moisio, 2022, p. 23]]）
 > - **大学生[[Higher-Order Thinking Skills\|高阶思维]]增益微弱** 全美 [[Collegiate Learning Assessment\|CLA]] 增值[[Cohort Study\|追踪研究]]（Arum & Roksa, 2011）与全球四国高教[[Longitudinal Study\|纵向研究]]（Loyalka et al., 2021）实证显示，超过 45% 的本科生在大学前两年[[Critical Thinking\|批判性思维]]与高阶推理无显著增长，暴露出 KBE 政策愿景与大学教学评价实践之间的巨大落差。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 4–5, 17)]]
 > - **[[Further Education\|继续教育]]参与率激增** 2016 年欧盟 25–64 岁劳动人口中逾 40% 每年参与正式或非正式继续教育，KBE 永久创新压力成为[[Lifelong Learning\|终身学习]]参与率持续攀升的直接动因。[[Argument_Hartmann_2022_CorporateEducation\|(Hartmann, 2022, p. 185)]]
@@ -229,8 +252,9 @@ updated: 2026-10-07
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关[[Document\|文献]]索引
+> [!evidence-grid-a] 相关[[Document|文献]]索引
 > - [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] — [[OECD]] 国际报告，系统论证知识经济与技术自动化背景下，高等教育如何通过五大政策杠杆重构[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]的评价生态。
+> - [[Argument_Block_2008_PS|Block (2008)]] — 从经济社会学与国家[[Theoretical Perspective|理论视角]]解构后工业知识经济的非线性创新特征，论证[[Developmental Network State|发展型网络国家]]与去中心化协同的必然性，并以波兰尼虚构商品理论反思知识极端商品化对跨组织科研协作的制度反噬。
 > - [[Argument_Moisio_2022_Springer\|Moisio (2022)]] — 系统阐述知识经济与[[Knowledge-Based Economization\|知识经济化]]的理论演进、[[Cultural Political Economy\|文化政治经济学]]框架及[[Spatial Sortings\|空间分化]]效应。
 > - [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] — 剖析知识经济[[Discourse|话语]]如何重塑亚洲高等教育扩张与澳大利亚国家教育出口战略。
 > - [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] — 揭示后福特永久创新经济如何驱动[[Further Education\|继续教育]]与企业培训的结构性膨胀。

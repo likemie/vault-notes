@@ -5,17 +5,18 @@ aliases:
   - Donald E. Stokes
   - D. E. Stokes
   - D. Stokes
-summary: "美国政治学家、公共政策学者，普林斯顿大学伍德罗·威尔逊学院前院长。针对冷战后国家安全合法性消退与财政赤字危机，于 1997 年出版《帕斯德象限》，提出二维研究动机模型，确立“由应用启发的基础研究”合法性，打破战后线性模型；在 2026 年白宫科技报告中被确立为解释晶体管、信息论、AlphaFold 及现代量子器件等前沿科技突破的根本理论基石。"
+summary: "美国政治学家、公共政策学者，普林斯顿大学伍德罗·威尔逊学院前院长。针对冷战后国家安全合法性消退与财政赤字危机，于 1997 年出版《帕斯德象限》，提出二维研究动机模型，确立“由应用启发的基础研究”合法性，打破战后线性模型；不仅被弗雷德·布洛克（Fred Block）吸收为论证美国发展型网络国家（DNS）主动跨越技术转化死亡之谷的认识论基础，亦在 2026 年白宫科技报告中被确立为解释现代前沿科技突破的理论基石。"
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 39
+person_related_count: 41
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
 born: "1927"
 died: "1997"
 lifespan: "1927–1997"
+updated: 2026-10-12
 tags:
   - person/political-scientist
   - person/policy-scholar
@@ -37,6 +38,8 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Discourse]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Developmental Network State]]"
+  - "[[Valley of Death]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
   - "[[Discovery-Invention Cycle]]"
@@ -50,6 +53,7 @@ related_persons:
   - "[[Alfred Nobel]]"
   - "[[Vannevar Bush]]"
   - "[[Venkatesh Narayanamurti]]"
+  - "[[Fred Block]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Science A New Golden Age 2026]]"
@@ -67,10 +71,10 @@ related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Narayanamurti_2013_IST]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
+  - "[[Argument_Block_2008_PS]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-08
 ---
 
 # Donald Stokes
