@@ -8,7 +8,7 @@ aliases:
 summary: "19世纪下半叶在美国以洪堡模式为母本并融合赠地实用传统而崛起的现代高等教育核心组织范式；二战后经布什报告奠定联邦常规资助基础，成为国家科学技术与创新系统的战略中枢；1980年代以来在发展型网络国家（DNS）中演进为跨界创新协作与早期技术孵化的法定网络枢纽，但亦面临虚构商品化产权壁垒；在当代地缘科技竞争与智能科研时代，既面临战略产业与芯片法案的有组织动员，亦承受行政膨胀、避险主义、间接成本摩擦与技术型契约对学术自治的深刻重构。"
 type: concept
 domain: "higher-education"
-related_count: 80
+related_count: 86
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Seniority Barrier in Academia]]"
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer Office]]"
+  - "[[Corporate R&D Labs]]"
   - "[[Block Grants]]"
   - "[[Congressional Earmarks]]"
   - "[[Research Security]]"
@@ -44,7 +45,9 @@ related_concepts:
   - "[[Securitization of Technology]]"
   - "[[Network Governance]]"
   - "[[Grandes Ecoles]]"
+  - "[[Valley of Death]]"
   - "[[Market Fundamentalism]]"
+  - "[[Technology Transfer]]"
   - "[[STEM Education]]"
   - "[[Pull Mechanisms for Innovation]]"
   - "[[Gatekeepers]]"
@@ -56,6 +59,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Process Knowledge]]"
   - "[[Big Science]]"
+  - "[[Document]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Morrill Land-Grant Act of 1862]]"

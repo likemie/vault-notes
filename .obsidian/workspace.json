@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -288,8 +288,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "234d452edd1bdd48",
+  "active": "9fa9dc0454e1193e",
   "lastOpenFiles": [
+    "wiki/concepts/political-economy-geopolitics/Institutional Layering.md",
     "wiki/arguments/books/Mahoney_Thelen_2009_Cambridge/Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change.md",
     "wiki/arguments/books/Mahoney_Thelen_2009_Cambridge/Argument_Mahoney_Thelen_2009_Cambridge.md",
     "wiki/theories/political-economy-geopolitics/Governing at a Distance.md",
@@ -322,7 +323,6 @@
     "sources/Kickert_1995_Governance/Kickert_1995_Governance.md",
     "sources/Kickert_1995_Governance/figures",
     "sources/Kickert_1995_Governance",
-    "sources/Kickert_1995_Governance.md",
     "sources/Kickert_1995_Governance.pdf",
     "wiki/arguments/journal-articles/Governance",
     "raw/Teach-Observer-Manual-First-Edition.pdf",
