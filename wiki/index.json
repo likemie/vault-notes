@@ -9506,6 +9506,16 @@
     ]
   },
   {
+    "title": "Market Fundamentalism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Market Fundamentalism.md",
+    "aliases": [
+      "市场原教旨主义",
+      "自由市场原教旨主义",
+      "Free-Market Fundamentalism"
+    ]
+  },
+  {
     "title": "Market Triumphalism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Market Triumphalism.md",
@@ -16557,7 +16567,9 @@
       "发展型网络国家",
       "DNS",
       "网络化发展型国家",
-      "发展型网络国家理论"
+      "发展型网络国家理论",
+      "隐藏的发展型国家",
+      "Hidden Developmental State"
     ]
   },
   {
@@ -25104,6 +25116,17 @@
       "富兰克林·德拉诺·罗斯福",
       "罗斯福总统",
       "Franklin Delano Roosevelt"
+    ]
+  },
+  {
+    "title": "Fred Block",
+    "type": "person",
+    "path": "wiki/persons/us/Fred Block.md",
+    "aliases": [
+      "弗雷德·布洛克",
+      "布洛克",
+      "Fred L. Block",
+      "Block, F."
     ]
   },
   {
@@ -34095,6 +34118,17 @@
     ]
   },
   {
+    "title": "Advanced Technology Program",
+    "type": "fact",
+    "path": "wiki/facts/us/Advanced Technology Program.md",
+    "aliases": [
+      "ATP",
+      "先进技术计划",
+      "美国先进技术计划",
+      "Advanced Technology Program (NIST)"
+    ]
+  },
+  {
     "title": "Advancement Via Individual Determination",
     "type": "fact",
     "path": "wiki/facts/us/Advancement Via Individual Determination.md",
@@ -36497,6 +36531,11 @@
     "title": "Argument_VanDerHeijden_2011_Politics",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Politics/Argument_VanDerHeijden_2011_Politics.md"
+  },
+  {
+    "title": "Argument_Block_2008_PS",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Politics & Society/Argument_Block_2008_PS.md"
   },
   {
     "title": "Argument_Fan_Song_Zhai_2024_RSEE",

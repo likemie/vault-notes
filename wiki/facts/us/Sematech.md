@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-10
+updated: 2026-10-12
 ---
 
 # Sematech
@@ -244,3 +244,4 @@ updated: 2026-10-10
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 在评述美国半导体创新治理演变时，将 Sematech 作为 1980 年代产业危机时期国家动员与机制化退出的经典范例。
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 深入考察冷战后美国半导体与通信工业从大[[Corporate R&D Labs|企业中央实验室]]向敏捷初创、Sematech 行业联盟及全球化外包转型的制度与战略轨迹。
 > - [[Argument_Mody_2017_MOH|Mody (2017)]] — 剖析 Sematech 创设背景、选址制度竞标与大学技术经纪人嵌合的核心史学[[Document|文献]]。
+> - [[Argument_Block_2008_PS|Block (2008, pp. 181–182)]] — 将 Sematech 视为解决芯片制造设备瓶颈与建立大学芯片设计共同体的标杆，论证其作为后续 20 年美国产业研发联盟的制度原型。

@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-10-10
+updated: 2026-10-12
 ---
 
 # SBIR and STTR Programs
@@ -161,6 +161,9 @@ updated: 2026-10-10
 >
 > > [!axis] 繁琐行政合规负担 vs 早期初创的敏捷生存诉求
 > > 联邦严格的财务审计与采购合规程序（如 DCAA 审计）常常对缺乏成熟管理经验的微型大学初创团队构成巨大的行政摩擦成本，促使 [[National Science Foundation|NSF]] 等机构通过精简格式与加速评审流程进行适应性改良。
+>
+> > [!axis] 创新资本集聚效应 vs 区域公平分配张力
+> > 尽管计划由小企业管理局向全国统筹发包，但全美逾 40% 的 SBIR 资助资金长期高度集中于加利福尼亚州与马萨诸塞州两大科技策源地，形成了显著的“创新极化”现象，引发了中西部与传统工业州关于联邦创新红利分配不均的政策反思。[[Argument_Block_2008_PS|(Block, 2008, p. 191)]]
 
 ---
 
@@ -170,6 +173,8 @@ updated: 2026-10-10
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
+> | [[Developmental Network State]] | Theory | SBIR/STTR 是发展型网络国家中履行“开辟多维窗口”职能的旗舰级公共计划。 |
+> | [[Fred Block]] | Person | 深入剖析 SBIR 政治经济学机制及其对美国两党科技预算保护作用的核心学者。 |
 > | [[University Spin-Out]] | Concept | SBIR/STTR 在种子期提供[[Non-dilutive Funding\|非稀释性资助]]的核心扶持对象。 |
 > | [[Non-dilutive Funding]] | Concept | SBIR/STTR 资助区别于风险投资的最显著资本属性。 |
 > | [[NSF I-Corps]] | Fact (Program) | 与 SBIR/STTR 深度打通、前置提供客户发现与市场验证培训的国家孵化计划。 |
@@ -185,6 +190,7 @@ updated: 2026-10-10
 > | [[Argument_Cheng_2026_KeJiChuangXin\|程楠等, 2026]] | Argument | 剖析 SBIR/STTR 法定预算提取比例与三位一体管理体制的核心文献。 |
 > | [[Argument_Bozeman_2004_JTT\|Bozeman & Boardman, 2004]] | Argument | 论述 1980 年代国家科技政策演化脉络与 NSF 工程学部资助格局的核心文献。 |
 > | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 提出统筹 SBIR/STTR 与空军 [[AFVentures]] 私人资本匹配及实验室创业计划以加速硬科技转化的白宫战略文献。 |
+> | [[Argument_Block_2008_PS\|Block, 2008]] | Argument | 剖析 SBIR 开辟创新窗口与在政治博弈中庇护联邦研发预算制度功能的核心文献。 |
 
 ---
 
@@ -196,3 +202,4 @@ updated: 2026-10-10
 > - [[Argument_Cheng_2026_KeJiChuangXin|程楠等 (2026)]] — 剖析 SBIR（3.2%）与 STTR（0.45%）法定预算提取比例与全美三位一体管理体制。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 评估联邦小企业创新资助在[[Innovation Ecosystem|区域创新生态]]培育与私人资本吸引中的催化杠杆效应。
 > - [[Argument_Bozeman_2004_JTT|Bozeman & Boardman (2004)]] — 论述 1980 年代国家科技政策演化脉络与 [[National Science Foundation|NSF]] 工程学部 SBIR 资助格局。
+> - [[Argument_Block_2008_PS|Block (2008, pp. 189–191)]] — 阐述 SBIR 作为发展型网络国家“开辟多维窗口”的核心制度工具，揭示其资助高度向加州与马萨诸塞州倾斜的区域失衡风险。
