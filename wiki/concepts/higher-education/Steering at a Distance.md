@@ -8,7 +8,7 @@ aliases:
   - 远距离调控
   - sturen op afstand
   - remote government steering
-summary: "20世纪80年代荷兰高等教育改革中确立的公共治理新范式，指政府放弃传统基于法规禁令与详尽事前控制的层级规制，转向扩大学校自治权、以事后产出质量评估为反馈调节机制、在部门层级实施激励性与对话式间接调控的系统治理模式。"
+summary: "20世纪80年代荷兰高教改革确立的公共治理新范式，指政府放弃传统事前命令控制，转向扩大学校自治、以事后质量评估为反馈调节的间接调控模式（Kickert, 1995）。在当代超国家教育治理中，经合组织借新公共管理将“远处掌舵”转化为以跨国比较绩效、国际基准与问责体制为核心的治理技术，引导国家政策服务于知识经济的效率需求（Rizvi & Lingard, 2009）。"
 type: concept
 domain: "higher-education"
 related_count: 31
@@ -50,6 +50,8 @@ related_persons:
   - "[[Walter J. M. Kickert]]"
   - "[[Stephen Ball]]"
   - "[[Sigrid Hartong]]"
+  - "[[Fazal Rizvi]]"
+  - "[[Bob Lingard]]"
 related_facts:
   - "[[Higher Education and Research Plan]]"
   - "[[Early Steps]]"
@@ -57,12 +59,13 @@ related_facts:
   - "[[Higher Education and Research Act 1992]]"
 related_arguments:
   - "[[Argument_Kickert_1995_Governance]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
 related_methods:
   - "[[Correlational Research]]"
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 
 # Steering at a Distance
@@ -83,6 +86,11 @@ updated: 2026-10-12
 > 远距离操纵意味着背离借助立法、禁令与详尽规章进行直接统治的古典政府调控，转向扩大高等教育机构的自治权并下放管理责任。在这一新体系中，公共干预被严格限定为基于成果质量评估的事后调节，即基于产出信息的反馈控制。这一转变并非旨在削弱政府职能的消极撤退，而是为了提升国家公共调控的实质效能。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 135)]]
 >
 > *It is a departure from classical government steering by means of legislation, prohibitions and regulations and a move towards the autonomy and the delegation of responsibilities to institutions of higher education. Under the new system, intervention is restricted to ex-post facto adjustments based on quality assessments of results—in other words, [[Feedback]] control output.*
+
+> [!citation-card] 里兹维与林加德论经合组织新公共管理下的远处掌舵转向
+> 植根于新公共管理（OECD, 1995）关于通过比较绩效指标实现“远处掌舵”（steering at a distance）的核心主张，经合组织有效地将教育治理的重心从关于教育本质与目的的哲学讨论，全面置换为决策透明度、权力下放形式、绩效测量技术、国际基准对标、质量保证机制以及适度问责规制等技术事务。这表明教育的有效性已被窄化为对全球劳动力市场需求的经济适应能力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+>
+> *Located within the ideas of the new public management (OECD, 1995), which attaches a great deal of important to the mechanisms of 'steering at a distance' through comparative performance measures, the OECD has effectively shifted the focus of the educational governance from questions of purpose to such issues concerning transparency of decision-making processes, forms of devolution, technologies of measuring educational performance, international benchmarking, mechanisms of quality assurance, appropriate accountability regimes, sources of educational funding, effective uses of public resources, and so on.*
 
 > [!boundary]- 概念边界
 > - 与 [[Governing at a Distance|远处治理]]（Governing at a Distance） 的范式分工 — 尽管两者在当代政策与社会学[[Document|文献]]中常被作为间接规制的同义词互换使用，但在思想渊源与研究取向上存在严格分工：远距离操纵是欧陆公共行政学、控制论与[[Policy Network|政策网络]]传统下的实证制度设计（聚焦院校自主、[[Block Grants|统包拨款]]与事后反馈机制）；远处治理则是源自福柯[[Governmentality|治理术]]与拉图尔科学知识社会学的批判政治社会学理论（侧重揭示新自由主义如何通过专业知识、标准化评估量规与[[Data Infrastructure|数据基础设施]]在微观实践中对主体进行隐性[[Disciplina and Doctrina|规训]]与拓扑塑形）。

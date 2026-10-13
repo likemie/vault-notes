@@ -7,7 +7,7 @@ aliases:
 summary: "经过目的性选择和加工的派生统计量，具备“技术理性”与“权力规制”双重属性（Le Galès, 2016）。通过将异质、复杂的教育系统还原为跨国可比的数值与排名，绩效指标在提供决策信息的同时重塑行动者行为与治理关系。在数字治理 2.0 时代，绩效指标成为构筑“理性表象”的政治脚手架（Steiner-Khamsi et al., 2024）；并在经合组织“数字政策进路”与投入产出系统中以等价空间信度悬置教育目的哲学辩论（Rizvi & Lingard, 2009）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 51
+related_count: 65
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -25,6 +25,8 @@ related_concepts:
   - "[[Façade of Rationality]]"
   - "[[Scaffolding]]"
   - "[[Hypothesis]]"
+  - "[[Social Imaginary]]"
+  - "[[Epoché]]"
   - "[[Policy Brokerage]]"
   - "[[Reflexivity]]"
   - "[[Variable]]"
@@ -33,8 +35,12 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[Selectivity]]"
   - "[[Commensuration]]"
+  - "[[Reliability]]"
+  - "[[Construct Validity]]"
+  - "[[Ontology]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Performativity]]"
+  - "[[Epistemology]]"
   - "[[International Education]]"
   - "[[Heterogeneity]]"
   - "[[Discourse]]"
@@ -45,6 +51,8 @@ related_concepts:
   - "[[Grade Retention]]"
   - "[[Positivism]]"
   - "[[New Public Management]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Technological Convergence]]"
   - "[[Critical Thinking]]"
   - "[[Soft Power]]"
   - "[[Paradigm]]"
@@ -52,7 +60,9 @@ related_concepts:
   - "[[Performativity of Measurement]]"
 related_theories:
   - "[[Governing at a Distance]]"
+  - "[[Educational Governance Framework]]"
   - "[[Path Dependence]]"
+  - "[[Human Capital Theory]]"
 related_methods:
   - "[[Exploratory Factor Analysis]]"
   - "[[Correlational Research]]"
@@ -67,18 +77,19 @@ related_facts:
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
   - "[[PISA]]"
+  - "[[Centre for Educational Research and Innovation]]"
   - "[[A Nation at Risk 1983]]"
   - "[[World Bank]]"
+  - "[[UNESCO]]"
   - "[[Systems Approach for Better Education Results]]"
   - "[[YOUNG_ADULLLT]]"
   - "[[Education for All]]"
-  - "[[UNESCO]]"
 related_arguments:
   - "[[Argument_Gorur_2014_Discourse]]"
   - "[[Argument_Rambla_2022_Springer]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
-  - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_Rust_2009_Reflections]]"
 confidence: high
 status: active
 created: 2026-05-01
@@ -114,7 +125,12 @@ updated: 2026-10-13
 >
 > *Numbers rather than narratives are better positioned to scaffold evidence-informed policymaking with the 'façade of rationality, precision, and universality'. Numbers 'evoke narratives', enabling politicians to tell stories about what indicators mean from their own political perspective.*
 
-> [!boundary] 概念边界
+> [!citation-card] 里兹维与林加德论绩效指标对教育目的的置换与技术化
+> [[OECD|经合组织]]对政策研究的技术化路径，不仅成功将教育目标转向[[Social Imaginary|知识经济的社会想象]]，更借“良治”修辞将教育治理焦点从目的问题彻底置换为决策透明度、绩效测度技术、国际基准与问责体制。这种专注于投入/产出系统的“数字政策进路”[[Epoché|悬置]]了关于教育目的的深层哲学辩论，将治理收敛于服务全球劳动力市场需求的经济效率。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 447–448)]]
+>
+> *This expertise privileges what might be referred to as 'a number approach' to policy work, which sidelines the broader philosophical discussions of educational purpose, focussing instead on an input/output system; attempting to offer policy insights about the efficiency and effectiveness of national educational systems... effectively shifting the focus of [[Educational Governance Framework|Educational Governance]] from questions of purpose to technologies of measuring performance and accountability regimes.*
+
+> [!boundary]- 概念边界
 > - **不等于原始统计（Statistics）** 统计是对事实的搜集记录（如某校男女生人数）；指标是基于特定政策假设与模型加工出的分析量（如生师比与学业达标率合成指数）。
 > - **不等于全面系统评估（Comprehensive Evaluation）** [[OECD\|经合组织]]早期教育指标专家博塔尼（[[Norberto Bottani]]）强调：指标的功能仅是“提醒与报警”（Alert），评估的功能才是“全面定性与裁决”（Judge）。然而在现代治理实践中，指标发布往往被粗暴篡改为对教育质量的最终裁决。
 
@@ -146,8 +162,11 @@ updated: 2026-10-13
 >   - **传播内嵌的[[Theories of Policy Change\|政策变革理论]]（Theories of Policy Change）** 指标体系内部预设了不可言明的因果假说（如“提高教育财政投入$\to$提升 [[STEM Education\|STEM]] 技能$\to$拉动区域 GDP 增长”）。
 >   - **重塑政治关系并执行结构性选择（[[Selectivity]]）** 遵循杰索普（[[Bob Jessop]]）的国家理论，指标通过“决定度量什么和忽视什么”，特权化某些群体的利益诉求，同时使无法量化的教育价值边缘化。
 > - **[[Governing by Numbers\|数字治理]] 2.0 时代的[[Façade of Rationality\|理性表象]]与叙事空间**
->   - **数字作为“理性表象”数字作为理性表象的[[Scaffolding\|脚手架]]（Numbers as Scaffolding for Façade of Rationality）** 当代公共教育充满深刻的政治争议与不可知风险，指标作为“硬事实”为政府决策构筑了客观、科学与普适的防护外壳，对内平息争端，对外抵御问责。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+>   - **数字作为理性表象的[[Scaffolding\|脚手架]]（Numbers as Scaffolding for Façade of Rationality）** 当代公共教育充满深刻的政治争议与不可知风险，指标作为“硬事实”为政府决策构筑了客观、科学与普适的防护外壳，对内平息争端，对外抵御问责。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 >   - **数字激发意识形态叙事（Numbers Evoking Narratives）** 援引埃斯佩兰德（Espeland, 2015）指标社会学理论，指标并未消灭政治，相反，其高度[[Commensuration\|通约化]]（Commensuration）与去语境化赋予了政客极大的“自由阐释空间”，决策者可以依据自身选战策略编织指标涨跌背后的政治故事。
+> - **跨国治理层面的技术化与等价空间机制（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard, 2009]]）**
+>   - **投入产出系统对教育目的的技术化置换（Input/Output System Sidelining Purpose）** [[OECD|经合组织]]将绩效指标锚定于投入产出系统，将教育治理的重心从关于教育本质与目的的哲学辩论，全面置换为跨国基准对标、质量保证与资源利用效率等技术程序，使教育的有效性被窄化为对全球劳动力市场需求的适应能力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 447–448)]]
+>   - **等价空间中[[Reliability|信度]]优先于[[Construct Validity|构念效度]]与[[Ontology|本体论]]（Equivalence Space Privileging Reliability over Ontology）** 跨国绩效指标的建构极度依赖跨国[[Commensuration\|通约化]]所创造的“等价空间”（Desrosières, 1998），在这一空间中，跨国横向比较的信度（Reliability）被置于高于本土情境效度与本体论（Ontology）的首要地位。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, p. 448)]]
 
 > [!logic-map]- 绩效指标的双重属性与治理运作机制流程图
 > ```mermaid
@@ -169,14 +188,57 @@ updated: 2026-10-13
 
 ## 围绕概念形成的命题
 
-> [!claim] 命题一：指标的派生性决定了其必然承载技术—权力双重属性（Le Galès, 2016）
-> 绩效指标绝非客观冷酷的物理测量，而是将多元数据折算为单一尺度的社会建构工程。任何指标的选择、赋权与发布，本质上都是行动者网络中权力博弈的结果，并反向[[Disciplina and Doctrina\|规训]]着系统内部的资源流动。[[Argument_Rambla_2022_Springer\|(Rambla, 2022, p. 165)]]
+---
 
-> [!claim] 命题二：指标具有强烈的反身履行性与测量的表演性异化（[[Performativity]]）
-> 当指标被确立为评价和资源配置的标准时，行动者的行为逻辑将从“提高教育质量”不可逆转地转向“提高指标得分”。指标不仅测量现实，更在反向重构现实并引发全系统的应试表演与防御性作弊。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 16–18)]]
+### 命题一　指标的派生性决定其必然承载技术理性与权力规制双重属性
 
-> [!claim] 命题三：信息过载时代指标成为构筑[[Façade of Rationality\|理性表象]]与掩护政治叙事的[[Scaffolding\|脚手架]]（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]]）
-> 海量证据供给并没有带来理性的政策秩序，反而加剧了[[Policy Ambiguity\|决策歧义性]]。中介机构与政客之所以热衷于生产和引用绩效指标，是因为数字既提供了坚不可摧的“科学客观”盾牌，又为依循自身意识形态讲述“指标故事”保留了最大弹性。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+> [!concept-lens] 政策工具社会学与制度权力维度
+> 探讨派生指标如何在数理客观合法性掩护下运转权力规制，重塑组织竞争秩序与资源分配。
+
+> [!claim] [[Argument_Rambla_2022_Springer|Rambla (2022)]]
+> **技术—权力双重属性与结构性选择** 绩效指标绝非客观冷酷的物理测量，而是将多元异质数据折算为单一尺度的社会建构工程。借鉴勒加莱斯（Patrick Le Galès, 2016）与杰索普（[[Bob Jessop]]）的国家理论，兰布拉指出任何指标的选择、赋权与发布，本质上都是行动者网络中权力博弈的结果；指标通过决定“度量什么和忽视什么”执行结构性选择（[[Selectivity]]），在提供技术参考的同时反向[[Disciplina and Doctrina|规训]]着系统内部的资源流动与竞争格局。[[Argument_Rambla_2022_Springer|(Rambla, 2022, p. 165)]]
+
+---
+
+### 命题二　指标具有强烈的反身履行性诱发系统性表演与应试异化
+
+> [!concept-lens] 组织社会学与测量的履行性维度
+> 剖析指标从“反映现实的工具”异化为“被追求的目标”后，如何倒逼行动者采取表演性应对与合规策略。
+
+> [!claim] [[Argument_Gorur_2014_Discourse|Gorur (2014)]]
+> **测量的反身履行性与行为异化** 当指标被确立为评价和资源配置的标准时，行动者的行为逻辑将从“提高教育质量”不可逆转地转向“提高指标得分”（[[Performativity]]）。指标不仅测量现实，更在反向重构现实并引发全系统的应试表演、防御性合规与统计游戏，使实质育人过程屈从于指标数字的符号再生产。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 16–18)]]
+
+---
+
+### 命题三　信息歧义生态下指标成为构筑理性表象与掩护政治叙事的脚手架
+
+> [!concept-lens] [[Policy Brokerage|政策中介]]与数字符号政治维度
+> 揭示在海量知识过剩与[[Policy Ambiguity|政策歧义性]]环境下，指标如何成为政客抵御问责与编织意识形态叙事的保护外壳。
+
+> [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
+> **[[Façade of Rationality|理性表象脚手架]]与叙事激发器** 海量证据供给并没有带来理性的政策秩序，反而加剧了政策决策的歧义性（[[Policy Ambiguity]]）。施泰纳-哈姆西等指出，政策中介机构与政客之所以热衷于生产和引用绩效指标，是因为数字既提供了坚不可摧的“科学客观与普适”表象（[[Façade of Rationality]]），又因其高度[[Commensuration|通约化]]与去情境化，赋予了决策者极大的自由阐释空间，使之得以在数字[[Scaffolding|脚手架]]保护下依循自身政治利益讲述指标涨跌背后的故事。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+
+---
+
+### 命题四　跨国绩效指标将教育治理收束于投入产出效率并以信度可比性悬置教育目的哲学辩论
+
+> [!concept-lens] 比较教育政治社会学与跨国治理维度
+> 探讨超国家机构如何通过指标投入产出系统与“等价空间”技术置换国家教育公共目的。
+
+> [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]]
+> **投入产出效率对教育目的的置换与[[Reliability|信度]]优先** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，[[OECD|经合组织]]等超国家机构将绩效指标嵌入“数字政策进路”（number approach to policy work），建立专注于投入产出的评估系统。这种技术进路[[Epoché|悬置]]了关于教育目的的深层哲学辩论，将治理焦点转向决策透明度、绩效测度技术、国际基准与问责体制，使教育的有效性收敛于服务全球劳动力市场需求的经济效率（pp. 447–448）。在方法论上，跨国指标优先建构德罗西耶（Alain Desrosières, 1998）所称的“等价空间”（space of equivalence），即宁可牺牲本土情境下的[[Construct Validity|构念效度]]与[[Ontology|本体论]]深度，也要保障跨国排名的可比性与信度（p. 448）。进一步地，这一技术指标逻辑导致教育公平被狭隘化为进入教育机构的“形式机会均等”（formal access），剥离了关于实质教育正义与多元文化关系的政治辩论（Berliner, 2007; pp. 448–449）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–449)]]
+
+---
+
+### 命题总览
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **命题一：技术—权力双重性** | 指标承载权力博弈并执行结构性选择，反向规训资源流动与组织竞争 | 政策工具社会学、制度分析 | [[Argument_Rambla_2022_Springer\|Rambla (2022)]]；Le Galès (2016) |
+> | **命题二：测量的反身履行性** | 指标从评估工具异化为追求目标，引发系统性应试表演与防御性合规 | 组织行为学、教育问责制批判 | [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] |
+> | **命题三：理性表象与叙事激发** | 面对政策歧义性，数字构筑客观外表并为政治意识形态叙事提供弹性 | 政策中介研究、循证决策批判 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] |
+> | **命题四：投入产出置换与信度优先** | 指标系统将治理收束于经济效率，以等价空间信度悬置教育目的哲学辩论 | 跨国比较教育治理、指标[[Epistemology\|认识论]]批判 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]]；Desrosières (1998) |
 
 ---
 
@@ -184,11 +246,13 @@ updated: 2026-10-13
 
 > [!dev-timeline] 绩效指标的历史演化历程
 > - **1850s–1960s — 描述性统计的初生与技术困境** 教育统计仅限于学校数、入学人数和教师规模等基础盘点。索瓦若（Sauvageot）指出早期统计由于口径不一、缺乏深度分析，对政策决策几乎毫无实质助益。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 7)]]
+> - **1970s–1980s — [[OECD|经合组织]]早期教育指标探索与福利共识** OECD [[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI）赞助了一系列教育与绩效指标分析项目；这一时期的指标项目主要服务于成员国国内福利议程，体现了成员国拥有高度自主权的协商式共识决策风格（Papadopoulos, 1994; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard, 2009, p. 441]]）。
 > - **1980年代 — 冷战危机动员与“比较转向”** 1983 年美国《国家处在危险之中》（*[[A Nation at Risk 1983\|A Nation at Risk]]*）发布，直接促使联邦政府要求[[OECD\|经合组织]]（OECD）开发跨国可比教育指标，推动教育统计从国内行政记录转向国际横向对抗与排名。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 > - **1988 — [[International Indicators of Education Systems\|INES]] 项目启动与指标工业化奠基** OECD 正式设立“[[International Education\|国际教育]]指标开发项目”（INES），系统研制涵盖产出、投入与过程的三维指标体系，博塔尼（Bottani）推动确立了“不完美的数据好过没有数据”的务实政策工具主义原则。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 8)]]
+> - **1990s — 世界教育指标（WEI）项目与多边技术同盟** OECD 联手[[World Bank|世界银行]]与[[UNESCO|联合国教科文组织]]发起“世界教育指标”（World Education Indicators, WEI）项目，向转型期经济体输出比较教育数据与绩效指标技术经验；鲁特科夫斯基（Rutkowski, 2007）指出该技术援助背后深嵌着服务全球经济的新自由主义规范预设（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard, 2009, pp. 443–444]]）。
 > - **1992 — 《[[Education at a Glance\|教育概览]]》（EAG）首版与指标制度化** OECD 正式出版首部《教育概览》，标志着教育绩效指标实现年度常规化出版，确立了全球通用的比较指标标准体系。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 11)]]
 > - **2000年代 — [[PISA]] 与心理测量跨国排名的绝对统治** 博塔尼称之为“绩效指标痴迷与心理测量比较的全面胜利”，指标体系不再仅仅提供系统概况，而是演变为以标准分数排序决定国家教育优劣的全球问责机制。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 13)]]
-> - **2010年代 — 区域记分牌与多边排他性同盟分化** 欧盟通过 EUROSTAT 推广区域创新记分牌（[[Regional Innovation System|RIS]]）；[[World Bank\|世界银行]]则在华盛顿总部开发“[[Systems Approach for Better Education Results\|改善教育成果系统分析法]]”（SABER），各多边巨头发展出自成体系的指标数据库并借此结成排他性政策同盟。[[Argument_Rambla_2022_Springer\|(Rambla, 2022, pp. 169–170)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
+> - **2010年代 — 区域记分牌与多边排他性同盟分化** 欧盟通过 EUROSTAT 推广区域创新记分牌（[[Regional Innovation System\|RIS]]）；[[World Bank\|世界银行]]则在华盛顿总部开发“[[Systems Approach for Better Education Results\|改善教育成果系统分析法]]”（SABER），各多边巨头发展出自成体系的指标数据库并借此结成排他性政策同盟。[[Argument_Rambla_2022_Springer\|(Rambla, 2022, pp. 169–170)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
 
 ### 实证运作中的组织行为学与宏观绩效反思（[[Argument_Gorur_2014_Discourse|Gorur, 2014]]; [[Argument_Rambla_2022_Springer|Rambla, 2022]]; [[Argument_Rust_2009_Reflections|Rust et al., 2009]]）
 
@@ -216,6 +280,12 @@ updated: 2026-10-13
 > >
 > > - **技术官僚与[[New Public Management\|新公共管理]]倡导者** 坚称指标剥离了情感煽动，使公共问责建立在公开透明的绩效事实之上。
 > > - **指标社会学与批判学者（Espeland, 2015; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]]）** 揭示指标抽离了具体因果情境，成功制造出“[[Façade of Rationality\|理性表象]]”，反为政策中介机构推介私利方案开辟了不受审议的叙事后门。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 539–540)]]
+>
+> > [!axis] 均一化等价空间与[[Reliability|信度]]优先 vs 本土情境效度与教育目的多元性
+> > 跨国可比性与本土教育实际之间不可调和的方法论与政治哲学冲突。
+> >
+> > - **超国家评价设计者与计量专家（OECD, 1999; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard, 2009, p. 448]]）** 主张必须构建跨国均一的“等价空间”，优先保障跨文化测量的信度与可比性，为[[Knowledge-Based Economy|知识经济]]配置[[Human Capital Theory|人力资本]]提供基准。
+> > - **批判教育社会学家（Desrosières, 1998; Berliner, 2007; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard, 2009, pp. 448–449]]）** 指出这种[[Technological Convergence|技术收敛]][[Epoché|悬置]]了对教育目的与实质正义的[[Ontology|本体论]]追问，将教育简化为狭隘的投入产出数字游戏。
 
 > [!warning] 适用局限与窄化危机
 > 指标暴政与教育价值异化：绩效指标体系天然偏爱易于测量的标准化认知技能（如阅读与数学考试成绩）或经济投入产出比，系统性边缘化了公民道德、[[Critical Thinking\|批判性思维]]、艺术审美与社会情感等无法数字化的核心育人维度，导致全球教育实践陷入严重的狭隘技术官僚主义病态。
@@ -229,6 +299,7 @@ updated: 2026-10-13
 > - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 整合勒加莱斯与杰索普理论，提出绩效指标四维政策工具分析模型，以欧盟区域创新记分牌和[[Lifelong Learning|终身学习]]政策为实证检验。
 > - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 比较[[Education for All|全民教育]]（[[Exploratory Factor Analysis|EFA]]）核心绩效指标在拉美与非洲的落实情况，以古巴达成全部指标而结构调整受援国指标落后为证据，揭示外来市场化[[Disciplina and Doctrina|规训]]在提升教育绩效上的实质困境。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 运用[[Façade of Rationality|理性表象]]与数字叙事理论，剖析国际组织如何将绩效指标工具化为[[Policy Brokerage|政策中介]]武器以施展[[Soft Power|软权力]]。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 447–448)]] — 剖析经合组织如何通过绩效指标建立投入产出系统，[[Epoché|悬置]]教育目的哲学辩论并将公平窄化为经济效率。
 
 ---
 
