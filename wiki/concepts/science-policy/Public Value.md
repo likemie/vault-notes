@@ -54,6 +54,8 @@ related_persons:
   - "[[Mariana Mazzucato]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
+  - "[[Bob Lingard]]"
+  - "[[Fazal Rizvi]]"
 related_facts:
   - "[[CREATES Project]]"
   - "[[CHIPS and Science Act]]"
@@ -73,6 +75,7 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Bulfone_2024_IAI]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
 related_methods:
   - "[[Cost-Benefit Analysis]]"
   - "[[Effect Size]]"
@@ -82,7 +85,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 
 # Public Value
