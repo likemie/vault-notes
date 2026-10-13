@@ -6,64 +6,84 @@ aliases:
   - substantive content theory
   - 学科本位理论
   - 学科基础理论
-summary: "源自母学科（社会科学、人文学科或教育学）的实质性理论框架。在混合方法研究中指从学科文献中提取、用以识别构念变量并统一整合质性与量化研究的理论透镜；在欧洲比较教育学中特指大学讲座教授基于普通教育学、历史学与社会哲学传统的学科本体理论，代表着抵制纯技术主义测量调查与捍卫学术自律的核心壁垒。"
+summary: "源自母学科（社会科学、人文学科或自然科学）的实质性理论框架。在混合方法研究中指从学科文献中提取、用以界定构念变量并统一整合质性与量化研究的理论透镜；在欧洲比较教育学中特指大学讲座教授基于普通教育学、历史学与社会哲学传统的学科本体理论，代表着抵制纯技术主义测量调查与捍卫学术自律的核心壁垒；在全球教育治理与知识经济中指以客观事实与理论命题为核心的“knowing that”，在追求程序性与商业化技能（knowing how）的新自由主义转向下面临工具化边缘。"
 type: concept
 domain: "research-methodology"
-related_count: 36
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 47
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - subject/research-methodology
   - paradigm/pragmatic
   - comparative-education/epistemology
+  - theme/knowledge-economy
+  - policy/neoliberalism
 related_concepts:
+  - "[[Theoretical Knowledge]]"
+  - "[[Epistemology]]"
   - "[[Document]]"
   - "[[Variable]]"
   - "[[Construct]]"
   - "[[Allgemeine Pädagogik]]"
-  - "[[Bildung]]"
   - "[[Empiricism]]"
-  - "[[Hypothesis]]"
-  - "[[Epistemology]]"
-  - "[[Ontology]]"
-  - "[[Research Purpose]]"
-  - "[[Paradigm]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Procedural Knowledge]]"
+  - "[[Discourse]]"
+  - "[[Social Imaginary]]"
   - "[[Postpositivism]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Pragmatic Paradigm]]"
-  - "[[Scale of Measurement]]"
-  - "[[Discourse]]"
+  - "[[Reflexivity]]"
+  - "[[Problem Solving]]"
+  - "[[Research Purpose]]"
+  - "[[Commensuration]]"
+  - "[[Champ]]"
   - "[[Self-control]]"
+  - "[[Hypothesis]]"
   - "[[Disciplinary Institutionalization]]"
+  - "[[National Competitive Advantage]]"
+  - "[[Learning Economy]]"
+  - "[[Procedural Skill]]"
   - "[[Scientific Method]]"
   - "[[Theoretical Perspective]]"
+  - "[[Paradigm]]"
+  - "[[Pragmatic Paradigm]]"
+  - "[[Ontology]]"
+  - "[[Research Question]]"
+  - "[[Competitiveness]]"
 related_theories:
   - "[[Social Justice Theory]]"
   - "[[Critical Theory]]"
   - "[[Attribution Theory]]"
   - "[[Self-Determination Theory]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Quantitative Research]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Interview]]"
   - "[[Interview Protocol]]"
-  - "[[Coding in Qualitative Research]]"
+  - "[[Discourse Analysis]]"
 related_instruments: []
 related_persons:
   - "[[John W. Creswell]]"
   - "[[J. David Creswell]]"
   - "[[Wolfgang Mitter]]"
+  - "[[Fazal Rizvi]]"
+  - "[[Bob Lingard]]"
+  - "[[Bengt-Åke Lundvall]]"
 related_facts:
+  - "[[OECD]]"
   - "[[IEA]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Mitter_2009_Europe]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
 confidence: high
-status: draft
+status: active
 created: 2026-05-31
-updated: 2026-10-07
+updated: 2026-10-13
 ---
 
 # Discipline-Based Theory
@@ -73,26 +93,40 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> **学科理论（Discipline-Based Theory）**，亦称学科本位理论或实质内容理论，具有双重方法论意涵：
-> 1. 在[[Mixed Methods Research|混合方法研究]]中，指从社会科学、行为科学或健康科学[[Document|文献]]中提取的实质性理论框架，用于识别[[Variable|变量]]或[[Construct|构念]]并解释其因果或关联机制，为量化测量与质性探究提供整合性的概念透镜。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 69)]]
-> 2. 在比较教育学学术史中，特指大学讲座教授制下植根于母学科（如[[Allgemeine Pädagogik|普通教育学]]、[[Bildung|教化]]哲学、历史学与社会学）的学科本体理论，构成了大学建制内学术探究的指挥高地，与外部无理论依托的技术官僚测验和[[Empiricism|经验主义]]调查形成鲜明对照。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94)]]
+> 学科理论（Discipline-Based Theory），亦称学科本位理论或实质内容理论，是指源自成熟母学科（社会科学、人文学科或自然科学）的系统性[[Theoretical Knowledge|理论知识]]体系，涵盖事实认知、因果命题与概念结构。该概念在当代教育研究与治理中呈现三重方法论与[[Epistemology|认识论]]意涵：
+> 1. 在[[Mixed Methods Research|混合方法研究]]中，指从成熟学科[[Document|文献]]中提取的实质性理论框架，用以界定[[Variable|变量]]与[[Construct|构念]]并统摄质性与[[Quantitative Research|量化研究]]设计（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 69]]）；
+> 2. 在比较教育学学术史中，特指大学讲座教授制下植根于母学科（如[[Allgemeine Pädagogik|普通教育学]]、历史学与社会哲学）的学科本体理论，充当抵御缺乏理论依托的技术官僚测验与[[Empiricism|经验主义]]调查的学术壁垒（[[Argument_Mitter_2009_Europe|Mitter, 2009, pp. 93–94]]）；
+> 3. 在全球教育治理与[[Knowledge-Based Economy|知识经济]]批判中，特指以正规、[[Coding in Qualitative Research|编码]]化、结构化的理论命题与客观事实为核心的“关于事实的知识”（knowing that），在[[OECD|经合组织]]等超国家机构推崇“[[Procedural Knowledge|程序性知识]]”（knowing how）与网络商业化协作技能的政策转向中，面临被边缘化、去情境化与工具性降格的认识论危机（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 445–446]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 从成熟学科知识体系中提炼出的系统性解释框架，既非抽象先验的哲学世界观，亦非去情境化的孤立技术测验。
-> - **用途** 在混合方法中用于组织量化与质性数据、指导访谈问题与测量[[Hypothesis|假设]]预测；在比较教育学中充当跨国教育体制历史演变与文化形态的深度解释透镜。
-> - **边界** 学科理论不等同于宽泛的研究世界观（Worldview），后者往往潜隐且高度抽象；学科理论亦不同于外生于学术学科的技术主义指标体系。
+> - **含义** 指向源自母学科、具备严密概念框架与历史传承的系统性理论体系，区别于去学科化的通用操作技能与无理论的技术测量。
+> - **用途** 在实证研究中为混合方法提供统一设计与解释机制；在学术史与全球治理中充当审视学科自主性、抵御知识经济功利主义与技术官僚侵蚀的认识论反思工具。
+> - **边界** 学科理论不等同于宽泛的研究世界观（Worldview），亦不同于外生于学术建制的量化治理指标与纯粹的程序性操作技能。
+
+> [!citation-card] 学科理论的制度壁垒与知识经济认识论转向
+> 欧洲各大学的比较教育讲座长期由历史学、哲学与普通教育学学者执掌，学科本位理论牢牢占据学术[[Discourse|话语]]的指挥高地，抵制缺乏理论依托的心理测量调查。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94)]]
+>
+> 在知识经济中，了解事实与理论（knowing about facts and theories）的重要性，被置于理解社会关系网络以及将知识转化为创新与商业可行产品的能力之下。正规、编码化、结构化和显性的学科知识受到贬抑，学习重心从“关于事实的知识”（knowing that）转向“操作性能力”（knowing how），形成了由市场逻辑定义与利用学习的全新[[Social Imaginary|社会想象]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
+>
+> *In the knowledge economy, knowing about facts and theories is less important than an understanding of the world of social relations and the networks through which knowledge is converted into innovation... shifting the focus of learning from 'knowing that' to 'knowing how'.*
+
+> [!boundary]- 概念边界
+> - 不等于 研究世界观（Worldview） — 研究世界观（如[[Postpositivism|后实证主义]]、[[Constructivist Paradigm|建构主义]]）提供关于现实与知识本质的高度先验认识论假定；学科理论则提供具体学科领域的实体性因果机制与构念体系。
+> - 不等于 [[Procedural Knowledge|程序性知识]]（Procedural Knowledge） — 学科理论侧重于命题性、[[Reflexivity|反思性]]与结构化的“knowing that”；程序性知识侧重于[[Problem Solving|问题解决]]、网络协作与跨界操作的“knowing how”。
+> - 不等于 纯技术主义测量指标（Technocratic Metrics） — 测量指标仅反映可量化的外显绩效；学科理论提供深层文化脉络、历史演进与制度生成的理论阐释。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 学科理论（学科本位理论）与相关范畴辨析
-> | 维度 | 学科理论（Discipline-Based Theory） | 社会正义理论（[[Social Justice Theory]]） | 研究世界观（Worldview） | 纯技术主义测量指标 |
+> [!contrast-table] 学科理论与相关范畴多维辨析
+> | 维度 | 学科理论（Discipline-Based Theory） | 社会正义理论（[[Social Justice Theory]]） | 程序性操作知识（[[Procedural Knowledge]]） | 纯技术主义测量指标 |
 > |---|---|---|---|---|
-> | **理论来源** | 成熟社会科学、人文学科或教育学母学科[[Document\|文献]] | [[Critical Theory\|批判理论]]、边缘群体赋权与解放运动文献 | 哲学[[Epistemology\|认识论]]与[[Ontology\|本体论]]信念系统 | 外部资助机构与国际官僚测试工具箱 |
-> | **核心指向** | 解释[[Construct\|构念]]与[[Variable\|变量]]间关系，理解制度与文化机制 | 揭示权力、压迫与社会不平等结构 | 提供关于现实本质与知识性质的根本[[Hypothesis\|假设]] | 收集跨国跨校标准化绩效数据 |
-> | **实证功能** | 为质性与[[Quantitative Research\|量化研究]]提供统一设计和解释框架 | 指导[[Research Purpose\|研究目的]]与变革倡导，推动社会行动 | 在潜意识或底层决定[[Paradigm\|研究范式]]选择 | 产出排列表格与基准比对分数 |
-> | **典型代表** | [[Attribution Theory\|归因理论]]、[[Self-Determination Theory\|自我决定理论]]、[[Allgemeine Pädagogik\|普通教育学]]理论 | 女性主义、批判种族理论、残障研究理论 | [[Postpositivism\|后实证主义]]、[[Constructivist Paradigm\|建构主义]]、[[Pragmatic Paradigm\|实用主义]] | 早期无理论依托的心理[[Scale of Measurement\|测量量表]] |
+> | **理论来源** | 成熟社会科学、人文学科或教育学母学科[[Document\|文献]] | [[Critical Theory\|批判理论]]、边缘群体赋权与解放运动文献 | 生产网络实践、人际协作与跨界商业化技能 | 外部资助机构与国际官僚测试工具箱 |
+> | **核心指向** | 解释[[Construct\|构念]]与[[Variable\|变量]]间关系，理解制度与文化机制 | 揭示权力、压迫与社会不平等结构 | 掌握在复杂网络中运作的操作能力（knowing how） | 收集跨国跨校标准化绩效数据 |
+> | **[[Epistemology\|认识论]]形态** | 正规、[[Coding in Qualitative Research\|编码]]化与命题性知识（knowing that） | 规范性、批判反思与价值介入性理念 | 隐性经验、情境应对与人际沟通技能 | 外显操作性分数、排名表与基准比对指标 |
+> | **实证与治理功能** | 为质性与[[Quantitative Research\|量化研究]]提供统一设计和解释框架 | 指导[[Research Purpose\|研究目的]]与变革倡导，推动社会行动 | 提升劳动弹性以适应当代经济竞争需求 | 产出跨国可[[Commensuration\|通约]]数据并实施远处调控 |
+> | **典型代表** | [[Attribution Theory\|归因理论]]、[[Self-Determination Theory\|自我决定理论]]、[[Allgemeine Pädagogik\|普通教育学]] | 女性主义、批判种族理论、残障研究理论 | 团队协调、商业谈判、危机应对与数字操作 | [[IEA]] 测验量表、[[PISA]] 素养排名指标 |
 
 ---
 
@@ -102,7 +136,7 @@ updated: 2026-10-07
 > 根据 Creswell & Creswell（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp. 69–70]]）与 Evans 等人（2011）的论述，学科理论在混合方法研究中发挥六项核心整合功能：
 > - **组织与报告框架** 为组织和整合量化数据与质性资料提供统一的概念框架。
 > - **多阶段研究统摄** 将相互分离的阶段性调查或独立研究整合在一起，报告共通的概念与思想。
-> - **团队共识建立** 在研究团队成员、利益相关者与资助者之间建立对研究底层构架的共同理解。
+> - **团队共识建立** 在研究团队成员、利益相关者与资助者之间建立对研究基础架构的共同理解。
 > - **实证预测导向** 为研究者预期希望发现的内容与发展趋势提供理论预测。
 > - **概念时序连接** 将核心[[Construct|构念]]与机制相互连接，通常以逻辑链条或时间序列呈现。
 > - **全局视觉模型** 提供清晰的理论因果或关联图解，指导研究整体推进方向。
@@ -111,6 +145,37 @@ updated: 2026-10-07
 > 米特（[[Argument_Mitter_2009_Europe|Mitter, 2009, pp. 93–94]]）指出，欧洲比较教育学的发展牢固依托于大学讲座教授制（University Chairs）：
 > - **母学科理论壁垒** 欧洲各大学的比较教育讲座长期由历史学、哲学与[[Allgemeine Pädagogik|普通教育学]]（[[Allgemeine Pädagogik]]）学者执掌，学科本位理论牢牢占据学术[[Discourse|话语]]的“指挥高地”。
 > - **抵御[[Empiricism|经验主义]]测验** 与北美行为主义与纯实证调查导向不同，欧洲学科本位学者长期将大型跨国心理测量调查（如早期 [[IEA]] 调查）视为缺乏学科理论根基的边缘技术，坚决捍卫以文化解释、历史演变与教育哲学为核心的学科理论正统。
+
+> [!feature] [[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]对学科理论的[[Epistemology|认识论]]降解
+> 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 445–446]]）基于新增长理论与 Lundvall（1992）的学习型经济模型，剖析了超国家政策话语中对学科理论的系统性重构：
+> - **从“关于事实的知识”转向“操作性能力”（Knowing That to [[Procedural Knowledge|knowing how]]）** 在[[Knowledge-Based Economy|知识经济]]中，正规、[[Coding in Qualitative Research|编码]]化、结构化的学科本位理论被视为静态且迟滞的知识形态，其重要性被降格为从属于在社会网络中转化商业创新的程序性操作能力。
+> - **去学科化与跨学科素养崇拜** [[OECD|经合组织]]推动的政策议程将教学重心从深厚的学科内容理论剥离，转向适应劳动力市场流动性的柔性心理特质（如跨文化适应力、抗压力、团队协作与商业敏锐度）。
+> - **批判性反思与人文价值的消解** 知识经济话语将自身建构为不可争议的硬核真理，排除了学科理论对价值前提、社会公平与历史脉络的批判性审视。
+
+> [!logic-map]- 学科理论在三大[[Champ|场域]]中的方法与治理功能图
+> ```mermaid
+> flowchart TD
+>     subgraph MixedMethods["混合方法研究场域 (Creswell & Creswell)"]
+>         MM1["母学科实质性文献"] --> MM2["学科理论透镜 (Discipline-Based Theory)"]
+>         MM2 --> MM3["统摄变量识别与质性访谈设计"]
+>         MM2 --> MM4["贯通质性叙事与量化实证假设"]
+>     end
+> 
+>     subgraph CompEd["欧洲比较教育学建制 (Mitter)"]
+>         CE1["大学讲座教授传统"] --> CE2["母学科本体理论 (哲学/历史/普通教育学)"]
+>         CE2 --> CE3["文化脉络与制度演化深度阐释"]
+>         CE2 -.->|"抵御学术殖民"| CE4["无理论外生经验测验 (早期 IEA)"]
+>     end
+> 
+>     subgraph GlobalGov["全球治理与知识经济场域 (Rizvi & Lingard)"]
+>         GG1["新自由主义全球知识经济"] --> GG2["学习重心位移: Knowing that 转向 Knowing how"]
+>         GG2 --> GG3["程序性知识与网络商业化协作技能优先"]
+>         GG3 --> GG4["学科本位理论面临工具化降格与批判性消解"]
+>     end
+> 
+>     MM2 -.->|"方法论概念支撑"| CE2
+>     CE2 -.->|"认识论反思批判"| GG4
+> ```
 
 ---
 
@@ -151,13 +216,27 @@ updated: 2026-10-07
 
 ---
 
+### 命题三　知识经济社会想象推动学习重心从学科理论转向程序性操作技能
+
+> [!concept-lens] 全球治理与[[Knowledge-Based Economy|知识经济]]认识论解构维度
+> 本命题揭示超国家教育治理如何将正规[[Coding in Qualitative Research|编码]]化的学科理论降解为静态知识，以服务于市场创新的网络操作技能置换理论思辨。
+
+> [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]]
+> **从“事实知识”向“操作能力”的位移与批判性消解** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，在[[OECD|经合组织]]大力推行的[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]中，了解事实与理论（knowing about facts and theories）被判定为不如理解社会关系网络以及将知识转化为商业创新产品的能力重要。正规、编码化、结构化和显性的学科本位[[Theoretical Knowledge|理论知识]]遭到系统性贬抑，学习重心从“关于事实的知识”（knowing that）全面倒向“如何在网络中运作的操作能力”（[[Procedural Knowledge|knowing how]]）。这一认识论位移将教育界定在狭隘的市场框架内，消解了母学科理论所承载的人文精神、历史脉络与批判反思功能，剥夺了提出替代性价值方案的可能性。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
+>
+> [!claim] Foray, D. & [[Bengt-Åke Lundvall|Lundvall, B.-Å.]]
+> **学习型经济中的知识流通重于理论静态存量** 多米尼克·福雷（Dominique Foray）与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）指出，在现代创新体系中，[[National Competitive Advantage|国家的竞争优势]]不再取决于传统的学科理论存量，而取决于将经济体迅速转变为“学习型经济”（[[Learning Economy]]）的能力。知识的价值完全体现在其跨网络沟通、技术应用与提升生产率的动态流动中，推动教育系统必须超越正规学校教育与固定分科知识，建立贯穿终身的[[Procedural Skill|程序性技能]]更新机制。
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
-> | **命题一：方法论统合维度** | 学科理论为混合方法研究提供贯通质性与量化的统一解释框架 | 混合方法研究设计、变量构念整合 | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] |
-> | **命题二：学科自主性维度** | 学科本位理论依托大学讲座捍卫文化历史解释的认识论制高点 | 比较教育学术史、母学科理论与技术调查之辨 | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] |
+> | **方法论统合命题** | 学科理论为混合方法研究提供贯通质性与量化的统一解释框架 | 混合方法研究设计、变量构念整合与实证假设预测 | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] |
+> | **学科自主性命题** | 学科本位理论依托大学讲座捍卫文化历史解释的认识论制高点 | 比较教育学术史、母学科理论传统与外生技术测验之辨 | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] |
+> | **知识经济解构命题** | 全球治理[[Discourse\|话语]]推动学习重心从学科理论（knowing that）转向操作技能（knowing how） | 全球知识经济政策、跨国测评治理与认识论批判 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]]; Foray & Lundvall (1996) |
 
 ---
 
@@ -165,10 +244,45 @@ updated: 2026-10-07
 
 > [!dev-timeline] 学科理论的学术演变脉络
 > - **20世纪中叶 — 大学讲座与学科理论垄断** 欧洲比较教育学依托大学讲座教授制，将比较研究牢固锚定在哲学、历史学与[[Allgemeine Pädagogik|普通教育学]]的学科本位理论之上，排斥去理论化的纯技术调查。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94)]]
-> - **1960s–1980s — 行为主义冲击与调查分流** 北美行为主义与 [[IEA]] 等大规模量化测验兴起，学科本位理论与无理论[[Empiricism|经验主义]]测验之间产生方法论张力与制度分流。
+> - **1960s–1980s — 行为主义冲击与经验调查分流** 北美行为主义与 [[IEA]] 等大规模量化测验兴起，学科本位理论与无理论[[Empiricism|经验主义]]测验之间产生方法论张力与制度分流。
 > - **1990s — [[Mixed Methods Research|混合方法]]中的规范化界定** 社会[[Scientific Method|科学方法]]论学者系统提炼理论在实证研究中的角色，Crotty（1998）等界定了[[Epistemology|认识论]]、[[Theoretical Perspective|理论视角]]与具体方法的级联关系。
+> - **1996–2000s — [[Knowledge-Based Economy|知识经济]]转型与学科理论向[[Procedural Skill|程序性技能]]退位** Foray & Lundvall（1996）提出学习型经济概念，[[OECD|经合组织]]将学习重心从正规学科理论（knowing that）转向跨界网络协作与商业化技能（[[Procedural Knowledge|knowing how]]），形成了以市场效用统摄教育的全新[[Social Imaginary|社会想象]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
 > - **2000s–2010s — 混合方法研究中的首要理论类型** Creswell 等将学科理论规范化为混合方法研究的第一核心理论形态，系统归纳其组织数据、预测[[Hypothesis|假设]]与统领[[Coding in Qualitative Research|质性编码]]的操作[[Paradigm|范式]]。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 69–72)]]
-> - **2020s — 全球治理时代的理论复归** 面对 [[PISA]] 等超国家绩效排名的技术主义侵蚀，学界重新呼唤回归学科本位理论与深厚文化历史阐释，重构比较研究的理论想象力。
+> - **2020s — 超国家素养测评侵蚀下的理论自主性反思** 面对 [[PISA]] 等去学科化、去情境化的跨国通用素养排名的技术主义侵蚀，学界重新呼唤回归学科本位理论与深厚文化历史阐释，重构教育探究的批判反思力与学术自主性。
+
+---
+
+## 争议与批评
+
+> [!debates] 学术争议与反思
+>
+> > [!axis] 命题性学科理论（Knowing That） vs 市场化[[Procedural Skill|程序性技能]]（[[Procedural Knowledge|knowing how]]）
+> > 争论基础教育与学术研究应以系统深入的学科本体知识为根基，还是以灵活适应当代商业网络的操作能力为重心。
+> >
+> > - **[[Knowledge-Based Economy|知识经济]]与超国家治理拥护者（[[OECD|经合组织]]；Foray & Lundvall, 1996）** 认为全球竞争依赖于劳动者快速跨界吸纳新技术、在复杂关系网络中协作并将知识转化为商业创新的程序性操作能力；静态的学科理论存量已无法应对快速变化的生产方式。
+> > - **批判教育社会学与文化哲学立场（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]；[[Argument_Mitter_2009_Europe|Mitter, 2009]]）** 指责去学科化的技能至上主义剥离了知识的历史文化脉络与批判反思维度，将学生降格为纯粹服务于资本积累的单向度劳动力，消解了教育启迪公民民主反思的崇高使命。
+>
+> > [!axis] 学科理论纯粹性 vs [[Mixed Methods Research|混合方法]][[Pragmatic Paradigm|实用主义]]整合
+> > 探讨在实证研究中坚持传统母学科的理论边界，还是为解决复杂现实问题跨越学科壁垒进行折衷整合。
+> >
+> > - **学科本位正统派** 强调学科理论具有独特的[[Ontology|本体论]]与[[Epistemology|认识论]]规范，跨学科杂糅极易导致概念滑移与理论严密性丧失。
+> > - **实用主义混合方法派（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）** 主张理论应服务于实证[[Research Question|研究问题]]的解决，倡导将多源学科理论作为灵活的解释性透镜，贯通质性与量化证据。
+
+> [!warning] 适用局限
+> 学科理论的解释效力依赖于母学科概念体系的成熟度与边界清晰度；在面对快速变迁的新兴交叉议题时可能产生学科壁垒与[[Path Dependence|路径依赖]]，但盲目抛弃学科理论将导致实证研究陷入缺乏因果机制的无理论[[Empiricism|经验主义]]。
+
+---
+
+## 实证与政策研究对照
+
+> [!ref-table]- 跨领域学科理论实证与政策研究对照
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或理论指标 | 核心发现与论断 | 显著性或论证依据 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] | 综合社会科学、行为科学与健康护理领域的[[Mixed Methods Research\|混合方法]]实证[[Document\|文献]] | 方法论元反思与文献系统归纳 | 学科理论整合功能（6 大功能模型） | 学科理论为多阶段混合方法研究提供贯通变量[[Hypothesis\|假设]]与质性主题的统一概念透镜 | 权威方法论专著归纳 | 适用于指导混合方法实证设计与变量识别 |
+> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 欧洲（德、英、法及中东欧）比较教育学学术建制史与大学讲座记录 | 学术思想史与制度演变历史分析 | 大学讲座教授制、母学科本体理论、[[IEA]] 心理测验 | 学科本位理论牢牢占据大学学术[[Discourse\|话语]]指挥高地，成为抵制外部无理论[[Empiricism\|经验主义]]测验的制度堡垒 | 历史档案与学术制度演变归纳 | 适用于欧洲大学建制内的比较教育学史分析 |
+> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] | [[OECD\|经合组织]]历时教育政策文本、工作方案与[[Knowledge-Based Economy\|知识经济]]战略档案（1960s–2000s） | 批判政策社会学[[Discourse Analysis\|话语分析]] | 知识形态演进（knowing that vs knowing how）、学习型经济、[[PISA]] | 知识经济[[Social Imaginary\|社会想象]]贬抑正规学科理论，将重心转移至网络操作与商业化能力，造成批判性消解与[[Epistemology\|认识论]]危机 | 历时官方文本与认识论批判 | 适用于分析超国家组织教育政策与知识经济认识论变迁 |
 
 ---
 
@@ -177,3 +291,28 @@ updated: 2026-10-07
 > [!evidence-grid-a] 相关论证索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, pp. 69–72)]] — 详尽论述学科理论在[[Mixed Methods Research|混合方法研究]]中的概念界定、六大功能模型与经典研究案例。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009, pp. 93–94)]] — 阐析欧洲比较教育学依托大学讲座教授制建立的学科本位理论传统，及其对早期无理论依托量化测验的警惕与抵制。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 445–446)]] — 揭示[[OECD|经合组织]][[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]如何将学习重心从客观学科理论（knowing that）转移至程序性操作技能（[[Procedural Knowledge|knowing how]]），解构了学科理论的[[Epistemology|认识论]]边缘化。
+
+---
+
+## 相关条目网络
+
+> [!entry-map] 学科[[Theoretical Knowledge|理论知识]]网络与多维分流矩阵
+>
+> | 关联维度 | 条目 | 类型 | 核心关联说明 |
+> |:---|:---|:---|:---|
+> | **[[Epistemology\|认识论]]与方法论体系** | [[Mixed Methods Research]] | 方法 | 混合方法研究通过引入学科理论克服质性与[[Quantitative Research\|量化研究]]的碎片化割裂。 |
+> | **认识论与方法论体系** | [[Procedural Knowledge]] | 概念 | 程序性知识（knowing how）在[[Knowledge-Based Economy\|知识经济]]中与学科理论（knowing that）形成认识论对峙。 |
+> | **认识论与方法论体系** | [[Theoretical Perspective]] | 概念 | 理论视角为学科理论提供底层的哲学与[[Paradigm\|范式]]定位支撑。 |
+> | **认识论与方法论体系** | [[Allgemeine Pädagogik]] | 概念 | 普通教育学作为欧洲大陆比较教育学的核心母学科本位理论传统。 |
+> | **全球治理与政治经济** | [[Knowledge-Based Economy]] | 概念 | 知识经济[[Social Imaginary\|社会想象]]推动了将学科理论降解为市场化[[Procedural Skill\|程序性技能]]的政策转型。 |
+> | **全球治理与政治经济** | [[Social Imaginary]] | 概念 | [[OECD\|经合组织]]建构的全球社会想象将去学科化的网络协作技能确立为主流意识形态。 |
+> | **全球治理与政治经济** | [[Competitiveness]] | 概念 | 国家经济竞争力诉求驱动教育体系优先考核劳动力即时变现能力而非理论素养。 |
+> | **代表机构与国际组织** | [[OECD]] | 事实 | 经合组织系统推动学习重心从学科理论转向程序性技能与跨国绩效问责。 |
+> | **代表机构与国际组织** | [[PISA]] | 事实 | 国际学生评估项目依托脱离学科课程的跨学科素养测试推行全球可[[Commensuration\|通约]]治理。 |
+> | **代表机构与国际组织** | [[IEA]] | 事实 | 国际教育成就评价协会推行的大规模测量曾引发欧洲学科本位学者的制度抵制。 |
+> | **代表学者** | [[John W. Creswell]] | 人物 | 混合方法研究权威学者，系统规范了学科理论在实证研究设计中的核心功能。 |
+> | **代表学者** | [[Wolfgang Mitter]] | 人物 | 欧洲比较教育学者，深入剖析大学讲座制度下学科本位理论的自主性传统。 |
+> | **代表学者** | [[Fazal Rizvi]] | 人物 | 批判政策社会学学者，深度揭示经合组织知识经济[[Discourse\|话语]]对学科理论的认识论侵蚀。 |
+> | **代表学者** | [[Bob Lingard]] | 人物 | 政策社会学学者，系统分析全球化时代学科知识向通用绩效素养位移的治理机制。 |
+> | **代表学者** | [[Bengt-Åke Lundvall]] | 人物 | 创新经济学学者，提出学习型经济概念并强调网络沟通与知识动态流动。 |

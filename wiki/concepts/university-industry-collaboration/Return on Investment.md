@@ -50,17 +50,18 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Heterogeneity]]"
   - "[[Zero-Sum Competition]]"
+  - "[[Epistemology]]"
+  - "[[Paradigm]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Social Imaginary]]"
+  - "[[Variable]]"
   - "[[Document]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Educational Level]]"
-  - "[[Knowledge-Based Economy]]"
-  - "[[Social Imaginary]]"
-  - "[[Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[New Public Management]]"
   - "[[Public Value]]"
-  - "[[Variable]]"
   - "[[Research Universities]]"
   - "[[Applied Medical Innovation]]"
   - "[[Steering at a Distance]]"
@@ -231,23 +232,23 @@ updated: 2026-10-13
 
 ### 命题四　经合组织将教育系统效率重构为生产率投资回报并消解民主公共性
 
-> [!concept-lens] 全球治理认识论转型：生产率经济主义对民主公共善的置换
-> 探讨经合组织如何将教育系统效率的评判准则从二战后保障机会均等与社会流动，重构为追求可衡量的投资回报率与生产率增长，揭示教育公私混合商品化过程中的民主赤字。
+> [!concept-lens] 全球治理[[Epistemology|认识论]]转型：生产率经济主义对民主公共善的置换
+> 探讨[[OECD|经合组织]]如何将教育系统效率的评判准则从二战后保障机会均等与社会流动，重构为追求可衡量的投资回报率与生产率增长，揭示教育公私混合商品化过程中的民主赤字。
 
 > [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]]
-> **系统效率向投资回报率的范式位移与民主公共性剥离** 里兹维与林加德指出，冷战后经合组织教育政策发生了根本性的规范转型：在战后凯恩斯主义时期，教育被界定为民主意义上的公共物品（public good in the democratic sense），教育系统的效率标准取决于其能否保障受教育机会平等并促进社会流动与凝聚力；而在20世纪90年代中期知识经济社会想象确立后，教育系统效率被彻底重构为“能否产生充分的投资回报率（adequate return on investment, ROI），且严格依凭其对生产率增长的贡献予以评估”（Table 28.1）。在此框架下，教育不再是公民基本权利，而被重塑为兼具公共投资与个人人力资本积累属性的公私混合商品；公共与私人经费的分担被机械校准于各自的预期收益率，公民审议、批判反思与社会平等追求被降格为从属于经济产出的工具变量。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 442, 449–451)]]
+> **系统效率向投资回报率的[[Paradigm|范式]]位移与民主公共性剥离** 里兹维与林加德指出，冷战后经合组织教育政策发生了根本性的规范转型：在战后凯恩斯主义时期，教育被界定为民主意义上的公共物品（public good in the democratic sense），教育系统的效率标准取决于其能否保障受教育机会平等并促进社会流动与凝聚力；而在20世纪90年代中期[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]确立后，教育系统效率被彻底重构为“能否产生充分的投资回报率（adequate return on investment, ROI），且严格依凭其对生产率增长的贡献予以评估”（Table 28.1）。在此框架下，教育不再是公民基本权利，而被重塑为兼具公共投资与个人[[Human Capital Theory|人力资本]]积累属性的公私混合商品；公共与私人经费的分担被机械校准于各自的预期收益率，公民审议、批判反思与社会平等追求被降格为从属于经济产出的工具[[Variable|变量]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 442, 449–451)]]
 
 ---
 
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document|文献]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
-> | **宏观金融规制命题** | 教育投资回报率被异化为跨国结构调整贷款的前置门槛与免责借口 | 国际金融组织对全球南方的教育援助与财政紧缩[[Disciplina and Doctrina|规训]] | Psacharopoulos (1981); [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024, pp. 541–542)]] |
-> | **中观异层再分配命题** | 社会投资回报修辞将公共供给转为准市场竞标，掩护公共财富流向中介 | 风险慈善兴起、税法特许修正案与公立教育准市场化 | [[Argument_Rowe_2023_ECNUROE|Rowe (2023, pp. 520–528)]]; [[Argument_Rowe_2022_IJER|Rowe (2022)]]; [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] |
-> | **微观组织协同命题** | 异质性组织对回报定义的结构性分歧是驱动跨界合作的动力，且需通过两级指标与配比资金化解企业内部度量赤字 | 高校、跨国企业与学术医疗系统的产学研发联合体 | [[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones (2025, pp. 191–192)]]; [[Argument_Ramming_2025_CorporateSupport|Ramming (2025, pp. 228–231)]]; [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP (2019)]] |
-> | **经合组织效率转向命题** | 教育系统效率标准从民主平等与社会凝聚力转向生产率投资回报率 | 全球知识经济政策范式转型与超国家教育治理 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 442, 449–451)]] |
+> | **宏观金融规制命题** | 教育投资回报率被异化为跨国结构调整贷款的前置门槛与免责借口 | 国际金融组织对全球南方的教育援助与财政紧缩[[Disciplina and Doctrina\|规训]] | Psacharopoulos (1981); [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, pp. 541–542)]] |
+> | **中观异层再分配命题** | 社会投资回报修辞将公共供给转为准市场竞标，掩护公共财富流向中介 | 风险慈善兴起、税法特许修正案与公立教育准市场化 | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023, pp. 520–528)]]; [[Argument_Rowe_2022_IJER\|Rowe (2022)]]; [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] |
+> | **微观组织协同命题** | 异质性组织对回报定义的结构性分歧是驱动跨界合作的动力，且需通过两级指标与配比资金化解企业内部度量赤字 | 高校、跨国企业与学术医疗系统的产学研发联合体 | [[Argument_Swick_Jones_2025_AcademicHealthSystems\|Swick & Jones (2025, pp. 191–192)]]; [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025, pp. 228–231)]]; [[Argument_OxfordUIDP_2019_UIPartnerships\|Oxford & UIDP (2019)]] |
+> | **经合组织效率转向命题** | 教育系统效率标准从民主平等与社会凝聚力转向生产率投资回报率 | 全球知识经济政策范式转型与超国家教育治理 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009, pp. 442, 449–451)]] |
 
 ---
 
@@ -310,7 +311,7 @@ updated: 2026-10-13
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 世界银行 1989–2018 年数据库与政策档案 | 历时文献计量与机构档案分析 | 教育投资回报率数据库规模与指标体系演变 | 涵盖 139 国 1,120 项回报率估算；1980 年首份政策文件起世行完全自立实证研究门户 | — | 证实世行将教育收益率转化为自指性放贷门槛与跨国治理帝国的历史轨迹 |
-| [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] | 经合组织历时政策文本、统计年报与工作方案分析（1960s–2000s） | 批判政策社会学与历时政策文本比较分析 | 教育系统效率衡量准则、教育性质定义、公私成本分担模式（Table 28.1） | 战后范式以机会均等和社会凝聚力为效率标准；90年代后以充分投资回报率（ROI）及生产率增长为核心标准，教育被重塑为追求投资回报的公私混合商品 | 质性历时政策文本对比 | 揭示超国家组织将教育系统全面锚定于人力资本投资回报与生产率增长的规范转型轨迹 |
+| [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] | [[OECD\|经合组织]]历时政策文本、统计年报与工作方案分析（1960s–2000s） | 批判政策社会学与历时政策文本比较分析 | 教育系统效率衡量准则、教育性质定义、公私成本分担模式（Table 28.1） | 战后[[Paradigm\|范式]]以机会均等和社会凝聚力为效率标准；90年代后以充分投资回报率（ROI）及生产率增长为核心标准，教育被重塑为追求投资回报的公私混合商品 | 质性历时政策文本对比 | 揭示超国家组织将教育系统全面锚定于[[Human Capital Theory\|人力资本]]投资回报与生产率增长的规范转型轨迹 |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 澳大利亚社会创投（SVA）2002–2021 年财务审计与公司监管档案 | 监管档案调档、税法追踪与[[In-depth Interview\|深度访谈]] | 政府财政补贴总额 vs 对外资助总额；咨询营业额；控股层级 | 2021 年获政府补贴 121.6 万澳元，对外赠款仅 62.5 万澳元（51%）；旗下咨询部门年入近 1000 万澳元；设立 4 家全资子公司 | — | 揭示以 SROI 与商业效率为修辞的中介网络实质构筑了公共财政逆流与避税庇护 |
 > | [[Argument_OxfordUIDP_2019_UIPartnerships\|Oxford & UIDP (2019)]] | 34 家顶尖[[Research Universities\|研究型大学]]与跨国企业高管访谈与案例研讨 | 质性[[Focus Group\|焦点小组]]与专家共识分析 | [[University-Industry Collaboration\|产学合作]]价值评估模式、[[Counterfactual\|反事实]]与额外性指标 | 仅统计产出（专利/论文）无法反映真实价值；各方回报分歧是合作的结构性前提 | 质性专家经验归纳 | 适用于高风险、高技术门槛的生物医药与工程产学研发联合体 |
 > | [[Argument_Swick_Jones_2025_AcademicHealthSystems\|Swick & Jones (2025)]] | 休斯敦卫理公会[[Academic Health System\|学术健康系统]]与 TAVR 创新案例 | 单案例深入分析与概念建模 | [[Values Alignment Model\|价值对齐模型]]、[[Applied Medical Innovation\|医用创新]]阶段、终端用户受益 ROI | 提出创新若无法保证患者安全并改善体验则 ROI 归零；异质组织回报分歧为合作催化剂 | 质性单案例归纳 | 适用于学术健康系统与高壁垒医用创新联合体 |
