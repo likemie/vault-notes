@@ -124,13 +124,13 @@ updated: 2026-10-13
 ## 理论框架
 
 > [!framework-table] 理论工具箱
-> | 理论工具 | 理论渊源与核心内涵 | 解释功能与理论贡献 |
-> |---|---|---|
-> | **[[Social Imaginary\|社会想象理论]]**<br>Social Imaginary | 源自哲学家查尔斯·泰勒（Charles Taylor）与人类学家阿尔君·阿帕杜莱（Arjun Appadurai）。指行动者理解自身社会存在、人际纽带与规范期待的共享图景，是经验事实与情感体验交织而成的日常常识。（pp. 444–445） | 阐明[[OECD\|经合组织]]如何在缺乏主权强制力的情况下，通过政策报告与媒体传播扩散[[Knowledge-Based Economy\|知识经济]]社会想象，使成员国与非成员国自发将市场化改革视为理所当然的真理。 |
-> | **内生新增长理论**<br>New Growth Theory | 源自经济学家保罗·罗默（Paul Romer）与彼得·豪伊特（Peter Howitt）。认为知识和技术创新不是经济系统的外生[[Variable\|变量]]，而是经济持续增长的内生源泉。（p. 445） | 为经合组织将教育直接定性为生产力要素提供经济学学理支撑，论证研发与[[Human Capital Theory\|人力资本]]投资何以成为[[Competitiveness\|国家竞争力]]的核心支柱。 |
-> | **[[Learning Economy\|学习型经济与技能转向]]**<br>Learning Economy | 源自多米尼克·福雷（Dominique Foray）与本特-奥克·[[Bengt-Åke Lundvall\|伦德瓦尔]]（Bengt-Åke Lundvall）。强调现代经济的竞争关键在于快速学习与应用知识的能力，主张由关注事实知识转向操作方法与人际网络。（pp. 445–446） | 解释经合组织为何推动学校教育从传统的学科理论体系（knowing that）转向面向职场的应用性操作技能（knowing how），并大力倡导全生命周期的[[Lifelong Learning\|终身学习]]。 |
-> | **[[Governing by Numbers\|数字治理与等值空间]]**<br>Governing by Numbers & Space of Equivalence | 整合法国统计社会学家阿兰·德罗西埃（Alain Desrosières）的等值空间与英国社会学家尼古拉斯·罗斯（Nikolas Rose）的数字即政策理论。（pp. 447–448） | 揭示跨国量化测评如何自行生产数据并强行建立可比性尺度，利用数字的客观表象掩盖主观政治决断，通过排名与同侪压力达成超越边境的远程[[Disciplina and Doctrina\|规训]]。 |
-> | **[[New Public Management\|新公共管理与远处掌舵]]**<br>New Public Management (NPM) & Steering at a Distance | 源自20世纪80年代以来的政府改革浪潮与经合组织1995年治理报告。主张政府放弃繁琐的过程控制，转向确立绩效目标、放权运营与基于结果的质量审计。（pp. 441, 447） | 解释经合组织如何将行政管理模式迁移至全球教育体系，通过国际基准对标与[[Performance Indicators\|绩效指标]]实现不直接介入日常管理却能引导政策走向的远处掌舵。 |
+> | 理论工具 | 解释功能 |
+> |----------|----------|
+> | **[[Social Imaginary\|社会想象理论]]**<br>Social Imaginary | 引入哲学家查尔斯·泰勒（Charles Taylor）与人类学家阿尔君·阿帕杜莱（Arjun Appadurai）的构念，指行动者理解自身社会存在、人际纽带与规范期待的共享图景。用于阐明[[OECD\|经合组织]]如何在缺乏主权强制力的情况下，通过政策报告与媒体传播扩散[[Knowledge-Based Economy\|知识经济]]社会想象，使各成员国自发将市场化与国际竞争视为理所当然的真理。（pp. 444–445） |
+> | **内生新增长理论**<br>New Growth Theory | 借鉴经济学家保罗·罗默（Paul Romer）与彼得·豪伊特（Peter Howitt）的内生增长模型，认为知识、创意与技术创新并非外生[[Variable\|变量]]，而是经济持续增长的内生源泉。为经合组织将教育直接定性为生产力要素提供经济学学理支撑，论证研发投入与[[Human Capital Theory\|人力资本]]升级何以成为决定[[Competitiveness\|国家竞争力]]的核心支柱。（p. 445） |
+> | **[[Learning Economy\|学习型经济与技能转向]]**<br>Learning Economy | 采纳多米尼克·福雷（Dominique Foray）与本特-奥克·[[Bengt-Åke Lundvall\|伦德瓦尔]]（Bengt-Åke Lundvall）的分析框架，强调现代经济竞争的关键在于快速学习与应用知识的能力，主张由关注事实知识（knowing that）转向操作方法与人际网络（knowing how）。用于解释经合组织为何推动学校教育脱离传统学科体系而倒向面向职场的实用操作技能，并大力倡导全生命周期的[[Lifelong Learning\|终身学习]]。（pp. 445–446） |
+> | **[[Governing by Numbers\|数字治理与等值空间]]**<br>Governing by Numbers & Space of Equivalence | 整合法国统计社会学家阿兰·德罗西埃（Alain Desrosières）的等值空间与英国社会学家尼古拉斯·罗斯（Nikolas Rose）的数字即政策学说。用于揭示跨国量化测评如何自行生产数据并强行构筑全球可比的等值空间，利用数字的客观表象掩盖主观政治决断，通过联赛排名与同侪压力达成超越边境的远程[[Disciplina and Doctrina\|规训]]。（pp. 447–448） |
+> | **[[New Public Management\|新公共管理与远处掌舵]]**<br>New Public Management (NPM) & Steering at a Distance | 汲取20世纪80年代以来的政府改革浪潮与经合组织1995年治理报告，主张政府放弃繁琐的过程控制，转向确立绩效目标、放权运营与基于结果的质量审计。用于解释经合组织如何将行政管理模式迁移至全球教育体系，通过国际基准对标与[[Performance Indicators\|绩效指标]]实现不直接介入日常管理却能引导政策走向的远处掌舵。（pp. 441, 447） |
 
 > [!warrant]- 理论如何支撑论证
 > 这一理论工具箱形成了一条层层递进的批判分析链条：作者首先运用社会想象与内生增长理论，揭示出新自由主义如何占据政策[[Discourse|话语]]的制高点，将原本多元的教育目的单向度地收拢为知识经济的附庸；进而借助德罗西埃的等值空间与罗斯的数字治理学说，具体拆解经合组织如何运用[[PISA]]测评这一技术工具，把抽象的经济主义逻辑转化为各国可感知、可攀比的排行榜；最后，通过新公共管理（New Public Management, NPM）的远处掌舵（[[Steering at a Distance]]）机制，说明国际组织如何在没有强制立法权的前提下，依靠柔性的数字监督深度介入各国内部政策，实现了意识形态倡导与技术统治手段的高度整合。（pp. 440–448）
@@ -140,11 +140,11 @@ updated: 2026-10-13
 ## 研究方法
 
 > [!method-panel] 研究设计
-> | 分析模块 | 材料来源与分析方法 | 探究目的与解析重点 |
-> |---|---|---|
-> | **制度史与文献考证**<br>Institutional Historiography | 系统梳理[[OECD\|经合组织]]前副司长乔治·帕帕多普洛斯（George Papadopoulos）1994年权威官方史，对比1960–1990年与1990年代中期之后的官方文件、公约章程与年度报告。（pp. 437–443） | 追溯教育在经合组织内部组织地位的历史变迁，辨析早期自愿协商机制与冷战后技术集权模式的制度差异。 |
-> | **批判政策话语分析**<br>Critical [[Discourse Analysis]] | 深度解构经合组织1995年《转型中的治理》、1996年《[[Knowledge-Based Economy\|知识经济]]》、1999年[[PISA]]评估框架以及2006年性别政策报告等纲领性文本的修辞与概念隐喻。（pp. 440–450） | 识别官方[[Discourse\|话语]]如何对全球化进行客观化与本体化包装，揭示其如何重新定义教育、学习、公平与社会凝聚力。 |
-> | **跨国量化测评技术剖析**<br>Assessment Technology Critique | 剖析PISA的抽样设计、试题编制逻辑、背景[[Questionnaire\|问卷]]设置及其向非成员经济体（Non-member Economies, NME）扩散的制度网络（如与[[World Bank\|世界银行]]、联合国教育、科学及文化组织（[[UNESCO\|United Nations Educational, Scientific and Cultural Organization]], UNESCO）合作开发的世界[[Performance Indicators\|教育指标]]（World Education Indicators, WEI））。（pp. 446–448） | 解构标准化测试建立跨国[[Commensuration\|通约]]性的统计学假定，阐明技术指标如何将复杂的政治与教育哲理争议去政治化。 |
+> | 模块 | 材料与处理方式 |
+> |------|----------------|
+> | **制度史与文献考证**<br>Institutional Historiography | 系统梳理[[OECD\|经合组织]]前副司长乔治·帕帕多普洛斯（George Papadopoulos）1994年权威官方史，对比1960–1990年与1990年代中期之后的官方文件、公约章程与年度报告，追溯教育在经合组织内部地位的历史变迁，辨析早期自愿协商机制与冷战后技术集权模式的制度差异。（pp. 437–443） |
+> | **批判政策话语分析**<br>Critical [[Discourse Analysis]] | 深度解构经合组织1995年《转型中的治理》、1996年《[[Knowledge-Based Economy\|知识经济]]》、1999年[[PISA]]评估框架以及2006年性别政策报告等纲领性文本的修辞与概念隐喻，识别官方[[Discourse\|话语]]如何对全球化进行客观化与本体化包装，揭示其重新定义教育、学习、公平与社会凝聚力的话语技术。（pp. 440–450） |
+> | **跨国量化测评技术剖析**<br>Assessment Technology Critique | 剖析PISA的抽样设计、试题编制逻辑、背景[[Questionnaire\|问卷]]设置及其向非成员经济体（NME）扩散的制度网络（如与[[World Bank\|世界银行]]、[[UNESCO\|联合国教科文组织]]合作开发的世界[[Performance Indicators\|教育指标]]WEI），解构标准化测试建立跨国[[Commensuration\|通约]]性的统计学假定，阐明技术指标如何将复杂的政治与教育哲理争议去政治化。（pp. 446–448） |
 
 > [!sample-panel]- 样本与材料快照
 > | 考察维度 | 核心文本与材料对象 | 历史时期与现实语境 |
