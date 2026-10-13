@@ -8,10 +8,10 @@ summary: "法国社会学家，场域-习性-资本理论创立者与区分作�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 48
-person_related_level: 5
-person_related_stars: "⭐⭐⭐⭐⭐"
-person_related_color: "#ffedd5"
+person_related_count: 50
+person_related_level: 6
+person_related_stars: "⭐⭐⭐⭐⭐⭐"
+person_related_color: "#fef3c7"
 born: "1930"
 died: "2002"
 lifespan: "1930–2002"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Epistemological Break]]"
   - "[[Doxa]]"
+  - "[[Liberalization]]"
   - "[[Interaction Effect]]"
   - "[[Epistemological Vigilance]]"
   - "[[Non-monetary Competition]]"
@@ -48,34 +49,40 @@ related_concepts:
   - "[[Cultural Disorientation]]"
   - "[[School Choice]]"
   - "[[Peidu]]"
+  - "[[Performativity]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[Paradigm]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Determinism]]"
   - "[[Document]]"
   - "[[Positivism]]"
   - "[[Praxis]]"
-  - "[[Liberalization]]"
 related_theories:
   - "[[Neo-feudalism in Higher Education]]"
+  - "[[Critical Theory]]"
   - "[[Post-structuralism]]"
   - "[[Phenomenology]]"
 related_methods:
   - "[[Ethnography]]"
   - "[[In-depth Interview]]"
+  - "[[Descriptive Analysis]]"
   - "[[Correlational Research]]"
 related_persons:
   - "[[Claude Lévi-Strauss]]"
+  - "[[Fazal Rizvi]]"
+  - "[[Bob Lingard]]"
   - "[[Bruno Latour]]"
   - "[[Yajun Zheng]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Eacott_2015_EPT]]"
   - "[[Argument_Eacott_2011_JEAH]]"
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
   - "[[Argument_Teng_2025_CE]]"
-  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
 related_facts:
   - "[[CNRS]]"
+  - "[[OECD]]"
 confidence: high
 status: draft
 created: 2026-05-02
@@ -148,7 +155,7 @@ updated: 2026-10-13
 >     - 《关于电视》（*Sur la télévision*, Liber-Raisons d'agir, 1996）：批判电视媒体对智识生产场域的穿透与扭曲。
 >     - 《帕斯卡尔式的沉思》（*Méditations pascaliennes*, Seuil, 1997）：重审[[Epistemology\|认识论]]，对身体化支配与社会空间进行深度哲学合拢。
 >     - 《男性支配》（*La Domination masculine*, Seuil, 1998）：揭示性别秩序如何被身体化与制度化自然化。
->     - 《反扑：对抗市场暴政》（*Contre-feux 2: Pour un mouvement social européen*, Raisons d'agir, 2001 / *Firing Back against the Tyranny of the Market*, Verso, 2003）：系统批判新自由主义全球化的意识形态神话，揭示“别无选择”的经济自由化工程对欧洲公共服务与社会连带的瓦解。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Bourdieu, 2003; Rizvi & Lingard, 2009, p. 441)]]
+>     - 《反扑：对抗市场暴政》（*Contre-feux 2: Pour un mouvement social européen*, Raisons d'agir, 2001 / *Firing Back against the Tyranny of the Market*, Verso, 2003）：系统批判新自由主义全球化的意识形态神话，揭示“别无选择”的[[Liberalization|经济自由化]]工程对欧洲公共服务与社会连带的瓦解。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Bourdieu, 2003; Rizvi & Lingard, 2009, p. 441)]]
 >     - 《自我分析大纲》（*Esquisse pour une auto-analyse*, Raisons d'agir, 2004）：将反思性方法施之于自身成长轨迹的终结之作。
 >   - **关键概念／方法** 符号支配、公共知识分子、身体化支配、[[Liberalization\|经济自由化]]
 >   - **阶段转向** 突破了纯学术场域的独立性边界，将社会学确立为防御新自由主义侵害的防御武器，最终以自身轨迹的自剖完成理论合拢。
@@ -189,7 +196,7 @@ updated: 2026-10-13
 > - **中国县域城镇化进程中的资本分层筛选**
 >   基础教育[[School Choice\|择校]]研究通过资本理论解释户籍限制放开后的阶层筛选。[[Argument_Teng_2025_CE\|Teng & Wang (2025, p. 310)]] 在县域研究中表明，择校迁移折叠为家庭资本比拼：经济资本是[[Peidu\|陪读]]门槛，社会资本是截留学位（动员熟人关系）的关键，而文化资本在熟人关系中被边缘化并发生妥协，制度隔离被隐性阶级筛选置换。
 > - **全球化话语与跨国教育政策的批判性解构**
->   当代比较教育与全球治理学者运用布迪厄晚期批判理论解构超国家组织的政策修辞。法扎尔·里兹维与鲍勃·林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard, 2009, p. 441]]）引述布迪厄（Bourdieu, 2003）论断指出，[[OECD\|经合组织]]等国际组织将全球化本体化与物化（Reification）为不可抗拒的客观外部实体，实质上掩盖了其作为蓄意推进[[Liberalization\|经济自由化]]意识形态工程的政治属性；这种修辞实现了从描述性分析向规范性、操演性概念的滑移，以“知识经济”等貌似中立的常识遮蔽了围绕教育目的的深层意义政治争论。
+>   当代比较教育与全球治理学者运用布迪厄晚期[[Critical Theory|批判理论]]解构超国家组织的政策修辞。[[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard, 2009, p. 441]]）引述布迪厄（Bourdieu, 2003）论断指出，[[OECD\|经合组织]]等国际组织将全球化本体化与物化（Reification）为不可抗拒的客观外部实体，实质上掩盖了其作为蓄意推进[[Liberalization\|经济自由化]]意识形态工程的政治属性；这种修辞实现了从[[Descriptive Analysis|描述性分析]]向规范性、[[Performativity|操演性]]概念的滑移，以“[[Knowledge-Based Economy|知识经济]]”等貌似中立的常识遮蔽了围绕教育目的的深层意义政治争论。
 
 ---
 
@@ -198,11 +205,11 @@ updated: 2026-10-13
 > [!influence-path] 影响路径
 > - **理论路径** 彻底改写了战[[Post-structuralism\|后结构主义]]与功利主义的对抗格局，其[[Habitus\|习性]]与[[Champ\|场域]]框架成为教育社会学、批判社会学、文化社会学的基础[[Paradigm\|范式]]语言。
 > - **方法路径** 主张超越量化实证与质性[[Phenomenology\|现象学]]的对立，将多维对应分析（MCA）与深度[[Ethnography\|民族志]]结合，为社会空间的关系性建模提供了实证模版。
-> - **政策路径** 其教育再生产学说强力拆穿了 meritocracy（贤能主义）的客观神话，推动了西方对弱势阶层教育补偿、平权法案以及多元评价的政策讨论；晚期对新自由主义全球化的政治介入进一步启发了对超国家组织物化全球化、强推经济自由化的政策话语解构。
+> - **政策路径** 其教育再生产学说强力拆穿了 meritocracy（贤能主义）的客观神话，推动了西方对弱势阶层教育补偿、平权法案以及多元评价的政策讨论；晚期对新自由主义全球化的政治介入进一步启发了对超国家组织物化全球化、强推[[Liberalization|经济自由化]]的政策[[Discourse|话语]]解构。
 > - **跨国与跨领域传播** 在进入中国高等教育与基础教育研究中，其资本转换模型被相继改造，用以解析转型期大学生的求职分化以及农村随迁家庭的[[School Choice\|择校]]博弈。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] — 援引布迪厄（Bourdieu, 2003）政治介入理论，解构经合组织将全球化本体化以掩护经济自由化的政策修辞（p. 441）。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] — 援引布迪厄（Bourdieu, 2003）政治介入理论，解构[[OECD|经合组织]]将全球化本体化以掩护经济自由化的政策修辞（p. 441）。
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 将习性与[[Cultural Capital\|文化资本]]运用于中国精英大学毕业去向分析，开发了目标掌控与直觉依赖两种资本化习性模式，解释了阶层出身如何在校园内部完成隐性变现。
 > - [[Argument_Teng_2025_CE\|Teng & Wang (2025)]] — 证明了在中国县域择校迁移中，由于选拔机制简化，家庭资本展现出垂直阶梯分层筛选，户籍行政限制被置换为隐性阶级筛选，文化资本不得不退让并折算为社会资本关系。
 > - [[Argument_Eacott_2011_JEAH\|Eacott (2011)]] — 将场域和 [[Doxa]] 运用于澳大利亚[[School Leadership\|学校领导力]]培养体系研究，剖析了管理主义绩效体制如何掏空学校管理者的自主实践空间。

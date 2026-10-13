@@ -9,10 +9,10 @@ aliases:
 summary: "指基于明确的职能分工、自顶向下的层级节制、非人格化的成文规则与专业化职业考核建立的理性化组织与治理形态；在古典社会学中被视作现代性理性化效率的基石，而在公共选择学派与当代实战工程治理论证（卡普与扎米斯卡，2025）中，科层制被批判为容易滋生自利性层级设卡、微观地位固化、会议工业复合体、制度性顺从偏好、公共采办定制垄断及避险自保机制，严重阻碍一线自适应创新与快速交付。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 36
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - concept/organizational-governance
   - theme/bureaucracy
@@ -23,22 +23,25 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Meeting-Industrial Complex]]"
-  - "[[Constructive Disobedience]]"
   - "[[Creativity]]"
+  - "[[Banality of Evil]]"
+  - "[[New Public Management]]"
   - "[[Engineering Mindset]]"
   - "[[Swarm Intelligence]]"
   - "[[Edge Autonomy]]"
   - "[[Red Tape]]"
   - "[[Status Transactions]]"
-  - "[[Banality of Evil]]"
+  - "[[Performance Indicators]]"
   - "[[Reliability]]"
   - "[[Commercial Off-The-Shelf]]"
   - "[[Policy Network]]"
   - "[[Steering at a Distance]]"
   - "[[Block Grants]]"
   - "[[Attrition]]"
+  - "[[Constructive Disobedience]]"
   - "[[Technological Republic]]"
   - "[[Network Governance]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Tullock's Bureaucracy Theory]]"
 related_methods:
@@ -50,23 +53,28 @@ related_persons:
   - "[[Nicholas Zamiska]]"
   - "[[Hannah Arendt]]"
   - "[[John Glenn]]"
+  - "[[Fazal Rizvi]]"
+  - "[[Bob Lingard]]"
   - "[[Franklin D. Roosevelt]]"
 related_facts:
+  - "[[OECD]]"
   - "[[Eck Swarm Experiment]]"
+  - "[[PISA]]"
   - "[[Higher Education Autonomy and Quality]]"
   - "[[Federal Acquisition Streamlining Act of 1994]]"
 related_arguments:
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12]]"
-  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13]]"
   - "[[Argument_Kickert_1995_Governance]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 
 # Bureaucracy
@@ -76,17 +84,22 @@ updated: 2026-10-12
 ## 定义
 
 > [!def] 核心定义
-> **科层制（Bureaucracy）**，亦称官僚制，是指一种依据高度专业化的劳动分工、自顶向下的金字塔式权力等级、非人格化的成文规章制度以及依凭专门资格任用人员的理性化组织治理[[Paradigm|范式]]。在古典社会学（如[[Max Weber|马克斯·韦伯]]）理论中，科层制被阐释为工业文明消除人身依附、实现可计算性与法律理性统治的最有效机器；然而，在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的工程文化体系中，科层制在应对高度动态复杂与极端技术对抗时显露出严重的病理特征：其层层设卡的中层管理架构、微观地位等级固化（如办公室家具规格限制）以及[[Meeting-Industrial Complex|会议工业复合体]]，将稀缺智力资源耗费于争夺功劳、摆布地位与推卸责任的政治博弈；同时其对唯命是从顺从者的体制性偏好压制了一线工程师的[[Constructive Disobedience|建设性不服从]]，造成严重的前沿信息扭曲与致命的系统性失明。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 121)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 123–128)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132–136)]]
+> **科层制（Bureaucracy）**，亦称官僚制，是指一种依据高度专业化的劳动分工、自顶向下的金字塔式权力等级、非人格化的成文规章制度以及依凭专门资格任用人员的理性化组织治理[[Paradigm|范式]]。在古典社会学（如[[Max Weber|马克斯·韦伯]]）理论中，科层制被阐释为工业文明消除人身依附、实现可计算性与法律理性统治的最有效机器；然而，在当代组织批判与实战工程治理（卡普与扎米斯卡，2025）中，科层制展现出严重的病理特征：层层设卡的中层管理架构、微观地位固化与[[Meeting-Industrial Complex|会议工业复合体]]扼杀一线[[Creativity|创造力]]，唯命是从的顺从偏好诱发[[Banality of Evil|平庸之恶]]，采办定制垄断割裂了开发者与前线用户的连接；在跨国与公共治理层面，[[OECD|经合组织]]（OECD, 1995; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）一方面将战后集权福利国家科层制指控为僵化迟钝（Sclerotic）并以[[New Public Management|新公共管理]]（NPM）重塑绩效审计网络，另一方面其常任秘书处作为“国际官僚机构”（International Bureaucracy）凭借数据垄断崛起为拥有独立议程的自主政策行动者。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 121)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–444)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种以稳定程序、层级管辖与规章合规为核心运行逻辑的集权式组织形态。
-> - **用途** 诊断大型政府机构、军工采购体系与跨国企业在面对颠覆性技术变革时决策迟滞、创新瘫痪的制度根源。
+> - **用途** 既用于诊断大型政府机构与军工采购体系创新瘫痪的制度根源，也用于解构跨国常任秘书处凭借技术指标垄断演变为自主政策行动者的治理机制。
 > - **边界** 区别于缺乏规则的个人专断或传统家族统治；科层制遵循严格的成文法度与文书档案流转，但其防卫型程序合规往往异化为组织的目标替代。
 
 > [!citation-card] 卡普与扎米斯卡论科层制对个体[[Creativity|创造力]]与组织活力的内耗扼杀
 > 在绝大多数人类组织中，从政府官僚机构到大型企业，个体的大量精力与才华都被消耗在争抢排位、抢夺功劳以及极力推卸失败责任上。参与一项事业的人们所拥有的宝贵而稀缺的创造性产出，被极其频繁地误导用于构建自私的层级体系与巡查谁向谁汇报。……蜂群与椋鸟群并不由一层又一层的副总裁与副助理副总裁构成，由他们去指挥个体子群体并管理上级对自己的看法。那里只有鸟群或蜂群。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 121)]]
 >
 > *At most human organizations, from government bureaucracies to large corporations, an enormous amount of the energy and talent of individuals is directed at jockeying for position, claiming credit for success, and often desperately avoiding blame for failure. The vital and scarce creative output of those involved in an endeavor is far too often misdirected to crafting self-serving hierarchies and patrolling who reports to whom. … The bee swarms and flocks of starlings do not consist of layers upon layers of vice presidents and deputy vice presidents, directing the work of subgroups of individuals and managing the perceptions of their superiors. There is only the flock or the swarm.*
+
+> [!citation-card] 里兹维与林加德论国际官僚机构的自主议程与政策行动者确立
+> 20 世纪 70 至 80 年代，经合组织的教育工作主要由成员国通过教育委员会表达的优先事项所驱动；而到了 90 年代末，常任秘书处开始在设定优先事项中发挥主导作用。通过这种方式，作为一个国际官僚机构，秘书处越来越表现为一个具有自身制度利益与议程的自主政策行动者。从政策辩论论坛转向依靠统计与分析工作直接干预政策，经合组织确立了以指标测度为技术杠杆的跨国政策权威。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–443)]]（引自 Henry et al., 2001）
+>
+> *While in the 1970s and 1980s, the educational work of the OECD was driven largely by members’ priorities expressed through the Education Committee, by the late 1990s the Secretariat had begun to assume a greater role in setting the priorities. In this way, as an international bureaucracy, the Secretariat has increasingly acted as an autonomous policy actor, with its own institutional interests and agenda.*
 
 > [!boundary]- 概念边界
 > - 不等于 正常的业务分工 — 专业化分工是复杂系统协作的基础，而科层制的异化在于分工演变为部门壁垒与信息垄断。
@@ -116,6 +129,8 @@ updated: 2026-10-12
 > - **[[Meeting-Industrial Complex|会议工业复合体]]** 频繁召开数十人巨型例会与预备会，异化为政治精英展示公关与争夺预算的表演场。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 126–128)]]
 > - **制度性顺从偏好与礼貌压制** 偏好言听计从的顺从型员工，将敢于提出反直觉事实的工程师排挤为破坏者，诱发[[Banality of Evil|平庸之恶]]与灾难性盲目。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132–136)]]
 > - **公共采办定制垄断与避险自保** 拥有 20 多万采办人员的庞大体制习惯于要求一切物资必须按官方标准“从零定制开发”，采办官员奉行“不引起争议、不影响仕途、不做可能带来麻烦之事”的避险哲学，割裂了技术开发者与前线实际使用者的亲密联系。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 141–152)]]
+> - **新自由主义对福利科层制的“僵化硬化”指控与 [[New Public Management|NPM]] 审计重构（The Sclerotic Bureaucracy Accusation & NPM Audit Reconfiguration）** [[OECD|经合组织]]（OECD, 1995）指控战后集权福利国家科层制臃肿迟钝、同跨国资本节律脱节；通过推行新公共管理（NPM），表面上将权力下放至分散机构，实质上借助[[Performance Indicators|绩效指标]]、目标设定与基准审计实施更严苛的“远处掌舵”。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–441)]]
+> - **国际官僚机构的技术自主性与议程扩张（International Bureaucratic Autonomy & Agenda Expansion）** 跨国组织常任秘书处并非中立的服务工具，而是凭借统计测量、跨国指标开发与分析报告垄断，超越成员国政治博弈，演化为拥有独立制度利益与政策偏好的自主行动者。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Henry et al., 2001; Rizvi & Lingard, 2009, pp. 441–444)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -195,7 +210,17 @@ updated: 2026-10-12
 > 探讨韦伯式单中心科层指令在面对异质化、高度自治的专业组织网络时如何必然遭遇认知盲区与执行阻滞，倒逼国家治理[[Paradigm|范式]]从自上而下微观管制转向间接[[Steering at a Distance|远距离操纵]]。
 
 > [!claim] [[Argument_Kickert_1995_Governance|Kickert (1995)]]
-> **多重理性网络对单中心科层指令的瓦解与间接操纵转向** 传统韦伯式科层制预设了单一的金字塔权力中心、明确连贯的自上而下政策目标以及顺畅执行的行政指令链；然而在现代高等教育与专业社会领域，现实权力高度分散于异质化的半自主组织之中，构成了充满多重理性（Multiple Rationalities）的复杂政策网络。当国家行政机构试图运用传统的单向科层指令、细颗粒度事前审批与统一编制限制强推学科裁撤和预算压缩时，不仅无法实现预期调控目标，反而引发全行业的集体抵制与严重行政瘫痪。荷兰高等教育改革经验证实，唯有打破自上而下的微观科层干预，转向以一揽子总额拨款（[[Block Grants]]）和事后质量评估为核心的“间接远距离操纵”，才能在多理性政策网络中重塑公共治理的效能与合法性。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 140–141, 148–150)]]
+> **多重理性网络对单中心科层指令的瓦解与间接操纵转向** 传统韦伯式科层制预设了单一的金字塔权力中心、明确连贯的自上而下政策目标以及顺畅执行的行政指令链；然而在现代高等教育与专业社会领域，现实权力高度分散于异质化的半自主组织之中，构成了充满多重理性（Multiple Rationalities）的复杂政策网络。当国家行政机构试图运用传统的单向科层指令、繁复细密的事前审批与统一编制限制强推学科裁撤和预算压缩时，不仅无法实现预期调控目标，反而引发全行业的集体抵制与严重行政瘫痪。荷兰高等教育改革经验证实，唯有打破自上而下的微观科层干预，转向以一揽子总额拨款（[[Block Grants]]）和事后质量评估为核心的“间接远距离操纵”，才能在多理性政策网络中重塑公共治理的效能与合法性。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 140–141, 148–150)]]
+
+---
+
+### 命题七　国际官僚机构凭借统计测评垄断演进为具有独立议程的自主政策行动者
+
+> [!concept-lens] 跨国治理与国际公共行政视阈
+> 探讨超国家常任行政官僚如何通过量化测评工具开发与技术权威建构，摆脱成员国政治羁绊并建立自主政策议程。
+
+> [!claim] [[Fazal Rizvi|Rizvi, F.]], & [[Bob Lingard|Lingard, B.]] / Henry et al. (2001)
+> **国际官僚机构的自主政策行动者演进论断** 法扎尔·里兹维与鲍勃·林加德援引亨利等人（Henry et al., 2001）的制度考察指出，[[OECD|经合组织]]常任秘书处的历史演进彻底打破了国际官僚机构仅为成员国中立行政仆从的传统假说。20 世纪 70 至 80 年代，该组织的教育议程由成员国教育委员会协商设定；而进入 90 年代后，常任秘书处凭借开发跨国[[Performance Indicators|教育指标]]、主持 [[PISA]] 测评以及统筹国别政策审查，建立了无可替代的技术知识垄断。作为典型的“国际官僚机构”（International Bureaucracy），秘书处借由“政策即数字”的专业权威反客为主，不仅主导了跨国教育政策优先事项的设立，更演变为拥有自身制度利益、能够独立推行新自由主义议程的自主政策行动者。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–444)]]
 
 ---
 
@@ -210,6 +235,7 @@ updated: 2026-10-12
 > | **顺从文化与平庸之恶批判命题** | 制度性偏好唯命是从与礼貌合规，压制[[Constructive Disobedience\|建设性不服从]]并诱发平庸之恶与灾难性失明 | 航天安全审查、危机应对指挥、前沿技术攻坚 | [[Alexander Karp\|Karp, A. C.]] & [[Nicholas Zamiska\|Zamiska, N. W.]] |
 > | **公共采办定制垄断批判命题** | [[Red Tape\|繁文缛节]]与避险自保割裂开发者—用户连接，造成天量浪费与战备脱节 | 国防采办改革、政府采购现代化、[[Commercial Off-The-Shelf\|商用现货]]准入 | Glenn, J.; [[Alexander Karp\|Karp, A. C.]] & [[Nicholas Zamiska\|Zamiska, N. W.]] |
 > | **多理性网络科层失灵命题** | 揭示单中心科层指令在多重理性网络中的失能，论证向间接操纵治理范式转型的必然性 | 比较公共行政、高等教育体制改革、复杂政策网络协调 | [[Argument_Kickert_1995_Governance\|Kickert (1995)]] |
+> | **国际官僚自主性命题** | 揭示常任秘书处凭借统计测评技术垄断从协商论坛演进为自主政策行动者 | 超国家组织治理、跨国教育指标开发、经合组织常任秘书处职能扩张 | Henry et al.; [[Fazal Rizvi\|Rizvi, F.]]; [[Bob Lingard\|Lingard, B.]] |
 
 ---
 
@@ -219,8 +245,10 @@ updated: 2026-10-12
 > - **1905 — 基普委员会调查与[[Red Tape|繁文缛节]]起源** 西奥多·[[Franklin D. Roosevelt|罗斯福总统]]设立基普委员会，发现政府各部门采购了 278 种笔和 28 种墨水，吉福德·平肖批评繁文缛节（red tape）严重侵蚀行政效能。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 148–149)]]
 > - **1920s — 韦伯理想型科层制确立** 韦伯在《经济与社会》中将科层制界定为人类历史上最理性的行政组织形态。
 > - **1960s — 公共选择学派的官僚寻租批判** 戈登·图洛克等学者提出[[Tullock's Bureaucracy Theory|官僚制理论]]，揭示官僚追求预算最大化、信息垄断与规避风险的自利行为。
-> - **1980s — 欧陆[[Policy Network|政策网络]]转向与科层微观规制破产** 荷兰等西欧国家打破自上而下韦伯式科层指令迷信；面对福利国家财政危机与高校规模暴增，中央政府放弃细颗粒度事前审批，在 1985 年 [[Higher Education Autonomy and Quality|HOAK]] 白皮书中确立“间接[[Steering at a Distance|远距离操纵]]”，实现国家治理从垂直科层向多理性政策网络的[[Paradigm|范式]]突围。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 135–138, 148–150)]]
+> - **1980s — 欧陆[[Policy Network|政策网络]]转向与科层微观规制破产** 荷兰等西欧国家打破自上而下韦伯式科层指令迷信；面对福利国家财政危机与高校规模暴增，中央政府放弃繁复细密的事前审批，在 1985 年 [[Higher Education Autonomy and Quality|HOAK]] 白皮书中确立“间接[[Steering at a Distance|远距离操纵]]”，实现国家治理从垂直科层向多理性政策网络的[[Paradigm|范式]]突围。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 135–138, 148–150)]]
 > - **1980–1990s — 天价配件争议与采购改革** 1980 年代五角大楼 435 美元普通锤子与 700 页军用饼干标准引发全美公愤；参议员[[John Glenn|约翰·格伦]]推动出台《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]》（[[Federal Acquisition Streamlining Act of 1994|FASA]]），确立[[Commercial Off-The-Shelf|商用现货]]优先原则以冲破采办科层避险防线。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 148–152)]]
+> - **1995 — [[OECD|经合组织]]《转型中的治理》指责福利国家集权科层制僵化** 经合组织发布《转型中的治理》（*Governance in Transition*），指责战后中央集权科层制过于昂贵、迟钝且与跨国资本流动脱节（sclerotic），全面推动以放权、外包与绩效审计为核心的[[New Public Management|新公共管理]]（NPM）重组。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–441)]]
+> - **2009 — 里兹维与林加德揭示国际官僚机构演变为自主政策行动者** 里兹维与林加德系统考察经合组织教育司演化史，揭示常任秘书处技术官僚如何从政策协商论坛演进为具有独立议程与制度利益的自主政策行动者。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–444)]]
 > - **2025 — [[Technological Republic|技术共和国]]工程治理对防卫型科层制的系统解构** 卡普与扎米斯卡在《技术共和国》中尖锐剖析科层制副总裁层级、资历地位固化、[[Meeting-Industrial Complex|会议工业复合体]]、唯命是从顺从偏好以及公共采办定制垄断，揭示礼貌合规与避险机制阻断一线实效的机理，确立以[[Swarm Intelligence|群智能]]、去中介化、[[Constructive Disobedience|建设性不服从]]与[[Commercial Off-The-Shelf|商用现货]]准入为核心的[[Engineering Mindset|工程思维]]作为重构公共治理的替代[[Paradigm|范式]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 121)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 124–128)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132–136)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 141–154)]]
 
 ---
@@ -240,6 +268,12 @@ updated: 2026-10-12
 > >
 > > - **科层国家干预论** 主张公共机构作为纳税人资金的受托方，必须服从中央部委在专业设置、预算科目与人事编制上的严格审批，以确保国家意志的集中贯彻与行政统一。
 > > - **政策[[Network Governance|网络治理]]派** 指出专业公共机构本质上属于具有多重理性的去中心化网络，微观科层指令只会滋生严重的[[Red Tape|繁文缛节]]并扼杀自适应活力；国家应通过[[Block Grants|总额预算]]和事后质量评估实行“间接[[Steering at a Distance|远距离操纵]]”。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 148–150)]]
+>
+> > [!axis] 中立行政执行工具 vs 自主利益扩张的跨国官僚行动者
+> > 国际组织常任秘书处究竟是忠实服务于主权国家民主协商的中立行政后勤机关，还是凭借技术垄断推进自身议程的自主政策行动者。
+> >
+> > - **传统国际公法与政府间主义学派** 坚信国际官僚机构的权力合法性完全来源于主权国家授权，其功能严格限定于信息汇总、会议召集与被动执行决议。
+> > - **批判治理与国际政策社会学派（Henry et al., 2001; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）** 论证常任秘书处凭借对跨国比较数据、测评指标与分析[[Discourse|话语]]的技术垄断，已反客为主演变为拥有独立制度利益的国际官僚机构，具有重塑主权国家教育议程的自主行动能力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–444)]]
 
 > [!warning] 适用局限
 > 科层制高度适用于外部环境稳定、业务高度标准化且对错误容忍度极低的领域（如税收征管、身份登记）；在需要跨界突破、高度对抗与极速试错的不确定领域，科层制往往成为阻碍创新的主要阻力。
@@ -248,6 +282,7 @@ updated: 2026-10-12
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 历史考证[[OECD|经合组织]]常任秘书处从协商论坛演进为具有独立议程的国际官僚机构（pp. 440–444）。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 从实战工程治理视角对防卫型科层制展开系统批判，剖析中介阻滞、[[Meeting-Industrial Complex|会议工业复合体]]、[[Banality of Evil|平庸之恶]]及采办定制垄断对技术创新的阻碍。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Ch. 10)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Ch. 11)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Ch. 12)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Ch. 13)]]
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 深入剖析自上而下韦伯式科层指令在多重理性[[Policy Network|政策网络]]中的系统性失灵，系统阐述荷兰高等教育打破微观行政审批、转向“间接[[Steering at a Distance|远距离操纵]]”的治理[[Paradigm|范式]]重塑。

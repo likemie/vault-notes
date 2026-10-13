@@ -9,9 +9,9 @@ aliases:
 summary: "比较政治经济学与批判政策社会学核心概念，既指发达资本主义社会中有组织集体规制向竞争性自由市场逻辑开放的去组织化与风险个体化进程（施特雷克与希伦，2005），也是超国家组织蓄意推进的意识形态工程，通过将全球化本体化与物化以掩蔽意义政治，强行驱动公共部门与教育系统服从全球市场规律（里兹维与林加德，2009；布迪厄，2003）。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
-related_level: 2
-related_stars: "⭐⭐"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
 related_color: "#bfdbfe"
 tags:
   - concept/political-economy
@@ -19,10 +19,12 @@ tags:
   - theme/liberalization
   - theory/historical-institutionalism
 related_concepts:
+  - "[[Discourse]]"
+  - "[[Determinism]]"
+  - "[[Performativity]]"
   - "[[Hypothesis]]"
   - "[[Institutional Drift]]"
-  - "[[Discourse]]"
-  - "[[Epistemology]]"
+  - "[[Knowledge-Based Economy]]"
 related_theories:
   - "[[Neocorporatism]]"
   - "[[Varieties of Capitalism]]"
@@ -38,9 +40,9 @@ related_persons:
   - "[[Bob Lingard]]"
   - "[[Pierre Bourdieu]]"
 related_facts:
-  - "[[International Monetary Fund]]"
   - "[[OECD]]"
-  - "[[PISA]]"
+  - "[[International Monetary Fund]]"
+  - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
@@ -57,11 +59,11 @@ updated: 2026-10-13
 ## 定义
 
 > [!def] 核心定义
-> **自由化（Liberalization）**指在现代资本主义与跨国治理中，原本受国家、[[Neocorporatism|法团主义]]工会或行业公约保护的集体社会安排，向“自由、自律、竞争性市场逻辑”系统性开放的长期制度与意识形态重构过程。在比较政治经济学视阈中，它表现为“有组织资本主义”的**去组织化（Disorganization）**——即集体约束的削弱、再分配连带责任的瓦解，以及社会与经济风险向个体家庭和劳动者身上的系统性转嫁（Streeck & Thelen, 2005, pp. 3–5, 31–33）；在批判政策社会学视阈中，它表现为跨国组织蓄意推进的**意识形态工程（Ideological Project）**——通过将全球化本体化与物化为不可抗拒的外部自然实体，掩盖概念背后的“意义政治”（Politics of Meaning），将公共教育与社会福利强行重塑为服从于跨国资本增值与全球市场竞争的技术工具（Bourdieu, 2003; Rizvi & Lingard, 2009, p. 441）。
+> **自由化（Liberalization）**指在现代资本主义与跨国治理中，原本受国家、[[Neocorporatism|法团主义]]工会或行业公约保护的集体社会安排，向“自由、自律、竞争性市场逻辑”系统性开放的长期制度与意识形态重构过程。在比较政治经济学视阈中，它表现为“有组织资本主义”的**去组织化（Disorganization）**——即集体约束的削弱、再分配连带责任的瓦解，以及社会与经济风险向个体家庭和劳动者身上的系统性转嫁（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, pp. 3–5]], 31–33）；在批判政策社会学视阈中，它表现为跨国组织蓄意推进的**意识形态工程（Ideological Project）**——通过将全球化本体化与物化为不可抗拒的外部自然实体，掩盖概念背后的“意义政治”（Politics of Meaning），将公共教育与社会福利强行重塑为服从于跨国资本增值与全球市场竞争的技术工具（Bourdieu, 2003; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, p. 441]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 既刻画西方资本主义体制从“有组织混合经济”迈向“市场化治理”的去组织化变迁，也揭示超国家治理将市场原则普适化的意识形态建构。
-> - **用途** 既用于诊断英美、德日等国内劳资与福利制度的渐进重塑，也用于解构经合组织等超国家机构将教育降格为经济附庸的话语策略。
+> - **用途** 既用于诊断英美、德日等国内劳资与福利制度的渐进重塑，也用于解构[[OECD|经合组织]]等超国家机构将教育降格为经济附庸的[[Discourse|话语]]策略。
 > - **边界** 不等于国家机器的消亡或管治真空；自由化往往伴随着国家以新自由主义规制重建市场秩序（Freer Markets, More Rules），以及跨国组织运用“数字即政策”展开的远处掌舵。
 
 > [!citation-card] 自由化作为默认推进的制度演进进程
@@ -98,7 +100,7 @@ updated: 2026-10-13
 > - **经济与社会风险的个体化转移（Privatization of Risk）** 福利保障责任由国家与雇主转移至个体雇员与家庭，集体风险分担机制走向萎缩。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 16–17)]]
 > - **波兰尼双重运动的非对称性（Asymmetric Double Movement）** 批判功能主义乐观派认为市场扩张必然自发迎来社会保护再平衡的幻想，指出当代自由化对社会肌体的侵蚀远快于反向保护制度的发明。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–5)]]
 > - **默认推进与底层自利规避（Achievement by Default）** 自由化无需克服复杂的集体行动困境，其微观机制恰恰顺应了追求短期利益最大化个体的逃逸冲动。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 32–33)]]
-> - **全球化本体化修辞与意义政治遮蔽（Ontological Reification & Elision of the Politics of Meaning）** 超国家治理机构将全球化塑造为不以人的意志为转移的客观实体，以技术决定论掩盖经济自由化的蓄意建构性与阶级偏好，实现从描述性术语向规范性、操演性市场统治的平滑过渡。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Bourdieu, 2003; Rizvi & Lingard, 2009, p. 441)]]
+> - **全球化本体化修辞与意义政治遮蔽（Ontological Reification & Elision of the Politics of Meaning）** 超国家治理机构将全球化塑造为不以人的意志为转移的客观实体，以技术[[Determinism|决定论]]掩盖经济自由化的蓄意建构性与阶级偏好，实现从描述性术语向规范性、[[Performativity|操演性]]市场统治的平滑过渡。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Bourdieu, 2003; Rizvi & Lingard, 2009, p. 441)]]
 
 > [!logic-map]- 自由化的非对称推进与跨国意识形态逻辑
 > ```mermaid
@@ -148,7 +150,7 @@ updated: 2026-10-13
 > 探讨超国家政策机构如何通过将全球化自然化与去政治化，为激进的经济自由化工程建立无可争议的正统合法性。
 
 > [!claim] [[Fazal Rizvi|Rizvi, F.]], & [[Bob Lingard|Lingard, B.]] / [[Pierre Bourdieu|Bourdieu, P.]]
-> **全球化本体化与经济自由化意识形态工程论断** 法扎尔·里兹维与鲍勃·林加德援引皮埃尔·布迪厄（Pierre Bourdieu, 2003）的论断指出，[[OECD|经合组织]]等国际组织对全球化的界定呈现出极强的物化（Reification）与本体化倾向，将其视为个体与国家只能被动适应的客观外部力量。这种话语完全拒绝将全球化视为社会行动者用以解释互联条件的分析范畴，更抹杀了一个根本事实：经合组织所推行的全球化愿景，本质上反映了一项蓄意推进经济自由化的意识形态工程。通过将特定的政治经济哲学特权化，并借助从描述性概念向规范性、操演性概念的滑移（如将“知识经济”包装为不容置疑的追求），跨国政策机构成功遮蔽了概念背后的“意义政治”（Politics of Meaning），迫使各成员国将公共教育降格为直接服务于全球市场竞争与资本增值的工具。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 441)]]
+> **全球化本体化与经济自由化意识形态工程论断** 法扎尔·里兹维与鲍勃·林加德援引皮埃尔·布迪厄（Pierre Bourdieu, 2003）的论断指出，[[OECD|经合组织]]等国际组织对全球化的界定呈现出极强的物化（Reification）与本体化倾向，将其视为个体与国家只能被动适应的客观外部力量。这种[[Discourse|话语]]完全拒绝将全球化视为社会行动者用以解释互联条件的分析范畴，更抹杀了一个根本事实：经合组织所推行的全球化愿景，本质上反映了一项蓄意推进经济自由化的意识形态工程。通过将特定的政治经济哲学特权化，并借助从描述性概念向规范性、[[Performativity|操演性]]概念的滑移（如将“[[Knowledge-Based Economy|知识经济]]”包装为不容置疑的追求），跨国政策机构成功遮蔽了概念背后的“意义政治”（Politics of Meaning），迫使各成员国将公共教育降格为直接服务于全球市场竞争与资本增值的工具。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 441)]]
 
 ---
 
@@ -168,9 +170,9 @@ updated: 2026-10-13
 > [!dev-timeline] 概念演变
 > - **1980年代中 — 去组织化资本主义的先声** 克劳斯·奥菲（Claus Offe）以及斯科特·拉什与约翰·厄里（Lash & Urry）提出“去组织化资本主义”命题，揭示战后[[Neocorporatism|新法团主义]]在弹性生产与全球资本冲击下的解体。
 > - **1990年代 — 华盛顿共识与新自由主义全球化** [[International Monetary Fund|国际货币基金组织]]与[[OECD|经合组织]]推动以去规制、私有化和紧缩为标志的宏观自由化浪潮。
-> - **2003 — 布迪厄批判经济自由化工程与市场暴政** [[Pierre Bourdieu|布迪厄]]出版《反扑：对抗市场暴政》（*Firing Back against the Tyranny of the Market*），揭示全球化并非自然技术过程，而是新自由主义蓄意推进的经济自由化工程。
+> - **2003 — [[Pierre Bourdieu|布迪厄]]批判经济自由化工程与市场暴政** [[Pierre Bourdieu|布迪厄]]出版《反扑：对抗市场暴政》（*Firing Back against the Tyranny of the Market*），揭示全球化并非自然技术过程，而是新自由主义蓄意推进的经济自由化工程。
 > - **2005 — 渐进演化视域下自由化非对称机制的形式化** [[Wolfgang Streeck|施特雷克]]与希伦将自由化确立为穿透协调与自由市场体制的普遍内生主线，首创提出其“默认达成”与底层规避的渐进动力学。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 3–5, 31–33)]]
-> - **2009 — 里兹维与林加德解构经合组织教育自由化的话语霸权** [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]剖析经合组织教育政策史，揭示全球化物化叙事如何掩蔽经济自由化的阶级利益偏好，实现跨国教育治理的去政治化。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 441)]]
+> - **2009 — 里兹维与林加德解构经合组织教育自由化的[[Discourse|话语]]霸权** [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]剖析经合组织教育政策史，揭示全球化物化叙事如何掩蔽经济自由化的阶级利益偏好，实现跨国教育治理的去政治化。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 441)]]
 
 ---
 
@@ -187,7 +189,7 @@ updated: 2026-10-13
 > > [!axis] 客观技术必然性 vs 蓄意建构的自由化政治工程
 > > 全球化究竟是一套不以人的意志为转移的客观技术实体，还是一项蓄意推进市场暴政的意识形态建构。
 > >
-> > - **新自由主义治理学派（经合组织／世界银行）** 将全球化视作由通信与交通技术进步驱动的客观中立事实，主张各国唯有通过放松规制与经济自由化全面适应全球市场规律。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 441)]]
+> > - **新自由主义治理学派（[[OECD|经合组织]]／[[World Bank|世界银行]]）** 将全球化视作由通信与交通技术进步驱动的客观中立事实，主张各国唯有通过放松规制与经济自由化全面适应全球市场规律。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 441)]]
 > > - **批判社会学与政策社会学派（Bourdieu, Rizvi & Lingard）** 论证全球化叙事是对经济自由化工程的意识形态遮掩，其本质是通过意义政治迫使公众屈从于激烈的市场支配并削夺替代性选择。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Bourdieu, 2003; Rizvi & Lingard, 2009, p. 441)]]
 
 > [!warning] 适用局限
@@ -198,5 +200,5 @@ updated: 2026-10-13
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 历史解构经合组织全球化叙事，揭示物化话语对经济自由化意识形态工程与意义政治的掩护机制（p. 441）。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 历史解构[[OECD|经合组织]]全球化叙事，揭示物化[[Discourse|话语]]对经济自由化意识形态工程与意义政治的掩护机制（p. 441）。
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 提出自由化作为去组织化资本主义与默认达成演进机制的核心理论洞见（pp. 3–5, 31–33）。
