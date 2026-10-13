@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 100
+fact_related_count: 108
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -33,14 +33,17 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[New Managerialism]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[Social Imaginary]]"
   - "[[Performance Indicators]]"
   - "[[Innovation Policy Paradigms]]"
-  - "[[Knowledge-Based Economy]]"
+  - "[[New Public Management]]"
   - "[[Epistemic Governance]]"
   - "[[Governing by Numbers]]"
   - "[[Evidence Ecosystem]]"
-  - "[[Research Topic]]"
+  - "[[Commensuration]]"
+  - "[[Reliability]]"
+  - "[[Steering at a Distance]]"
   - "[[Going Native]]"
   - "[[Variable]]"
   - "[[Lifelong Learning]]"
@@ -69,8 +72,13 @@ related_concepts:
   - "[[Learning by Doing]]"
   - "[[Total Quality Management]]"
   - "[[Institutional Complementarity]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Construct Validity]]"
+  - "[[Democratic Education]]"
   - "[[Academic Achievement]]"
   - "[[Soft Power]]"
+  - "[[Public Value]]"
+  - "[[Return on Investment]]"
   - "[[PISA Shock]]"
   - "[[Mediatised Governance]]"
   - "[[Media Logic]]"
@@ -83,9 +91,9 @@ related_theories:
   - "[[Systems of Innovation]]"
   - "[[Governmentality]]"
   - "[[Wight's Three Traditions of International Theory]]"
-  - "[[Social Capital Theory]]"
 related_methods:
   - "[[Peer Debriefing]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Item Response Theory]]"
   - "[[Questionnaire]]"
   - "[[Analytic Framework]]"
@@ -167,11 +175,11 @@ updated: 2026-10-13
 >   - 1962 启动著名的地中海地区项目（[[Mediterranean Regional Project]]，MRP），将[[Human Capital Theory\|人力资本理论]]系统转化为南欧各国的国家教育发展规划。在[[Economics of Education Movement\|教育经济学运动]]影响下，OECD 系统确立将教育视为经济增长“生产性投资”的新范式，与[[International Institute for Educational Planning\|联合国教科文组织国际教育规划研究所]]（International Institute for Educational Planning，IIEP）形成双翼，推动了比较教育的[[Development Turn in Comparative Education\|发展转向]]。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 420–423)]]
 >   - 1963 在意大利弗拉斯卡蒂召开国家专家会议，正式制定并发布《[[Frascati Manual|弗拉斯卡蒂手册]]》（*Frascati Manual*），首次在全球层面统一了研发（R&D）的统计定义与核算口径（基础研究、应用研究与试验发展），开启了以研发支出占国民生产总值比重（GERD/GNP）为核心的跨国科技排名。[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）与艾莉森·扬（Alison Young）于 1965 年受 OECD 委托撰写里程碑报告《北美与西欧研发投入努力之比较》，直接奠定了经合组织作为战后国际科技政策与研发测量中枢的威权。[[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 8–9)]]
 >   - 1968–1970s 早期 OECD 内部并未为教育设立独立司局，教育职能僅从属于科学和工程技术人员办公室（Office for Scientific and Technical Personnel）以应对美欧冷战技术差距；1968 年[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（Centre for Educational Research and Innovation, CERI）成立后，OECD 形成了教育委员会、CERI 理事会、教育建筑项目（Programme on Educational Building, PEB）与高等教育机构管理项目（Institutional Management in Higher Education, IMHE）四大板块。在副司长乔治·帕帕多普洛斯（George Papadopoulos）所总结的 1960–1990 年阶段，欧洲成员国的社会民主主义议程缓冲了美国的自由市场取向，形成恩斯特·哈斯（Ernst Haas）所谓的“美国与欧洲成员国之间不连贯的妥协”（Haas, 1990, p. 159），教育被视为培育批判性民主公民与维护社会凝聚力的公共物品，工作模式以自愿性的国别审查（*sui generis*）与宽容的“广泛意识形态教会”为特征。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 437–439, 442, 451)]]
-> - **1980s–1990s — 指标体系建构、[[New Managerialism|管理主义转向]]、[[Social Imaginary|知识经济社会想象]]与[[National Innovation System|国家创新系统]]（NIS）范式演进** 
+> - **1980s–1990s — 指标体系建构、[[New Managerialism|管理主义转向]]、[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]与[[National Innovation System|国家创新系统]]（NIS）范式演进** 
 >   - 1983 年美国《国家处在危险之中》（*[[A Nation at Risk 1983\|A Nation at Risk]]*）报告发布后引发教育危机恐慌，时任美国教育部助理部长切斯特·芬恩（Chester Finn Jr.）转向经合组织下设的[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI），委托并资助 CERI 主管 [[Jarl Bengtsson]] 团队研发跨国[[Performance Indicators\|教育指标]]体系。这一关键转向促成了 1988 年[[International Indicators of Education Systems\|国际教育系统指标]]（International Indicators of Education Systems，INES）项目网络的正式启动，随后于 1992 年推出旗舰年度报告《[[Education at a Glance\|教育概览]]》（Education at a Glance，EAG），标志着 OECD 彻底从传统的投入端与粗放人力核算转向关注教育系统的产出效能与质量问责。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540–542)]]
 >   - 1990 年代初，伴随日本与东亚后发追赶的成功，单纯依赖弗拉斯卡蒂研发投入指标的局限性暴露，OECD 科技政策委员会（CSTP）在克里斯·弗里曼、本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）等[[Evolutionary Economics|演化经济学]]家影响下，于 1994 年启动国家[[Systems of Innovation|创新系统]]大型国际研究项目，并于 1997 年正式发布纲领性报告《[[National Innovation System|国家创新系统]]》（*National Innovation Systems*），标志着 OECD 官方科技政策范式彻底从布什单向线性模型跨越至多主体互动学习的[[Innovation Policy Paradigms|创新系统范式]]。[[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 10–11, 19–20)]]
->   - 1990 年代中期起，伴随苏联解体与冷战终结，OECD 内部经济效率与社会目的之间的张力消退，先后发布《转型中的治理》（*Governance in Transition*, 1995）与《[[Knowledge-Based Economy|知识经济]]》（*The Knowledge Based Economy*, 1996），结合内生新增长理论建构起全球共享的“[[Social Imaginary|知识经济社会想象]]”。OECD 将全球化本体化为不可抗拒的客观经济规律，推动国家治理向新公共管理、分权问责与市场竞争转型，并从成员国协商的开放论坛演变为“自身独立的政策行动者”（policy actor in its own right），将教育公平、性别平权与社会凝聚力全面工具化为经济政策的附庸。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 438, 440–446, 448–452)]]
-> - **2000–至今 — 独立教育司设立、大数据[[Governing at a Distance\|远处治理]]、非成员经济体外展与[[Epistemic Governance\|知识治理]]体系深化** 2000 年推出首轮 [[PISA]] 测评，2002 年正式设立独立的教育司（Directorate for Education），以秘书处主导的优先项设定、跨国比较绩效指标与强制性同侪压力（peer pressure）取代了早期的哲理辩论；同时通过非成员经济体合作处（Unit for Cooperation with Non-member Economies, NME）与“全球关系项目”（Global Relations Programme）将影响力扩展至中国、印度等转型与发展中大国，并联合[[World Bank|世界银行]]与[[UNESCO|联合国教科文组织]]推出“世界教育指标”（World Education Indicators, WEI）项目。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 441–444, 446–448)]] 随后测评版图进一步扩展至[[Teaching and Learning International Survey\|教师教学国际调查]]（Teaching and Learning International Survey，TALIS）、[[Programme for the International Assessment of Adult Competencies\|国际成人能力评估项目]]（Programme for the International Assessment of Adult Competencies，PIAAC）及面向全球南方的发展型 PISA（[[PISA for Development]]，PISA-D）。经合组织不仅开创了跨国量化排名的[[Governing by Numbers\|数字治理]]（Governing by Numbers）模式，更通过深度工具打包与外向型国别横向借鉴演进为全球教育政策规范制定者。与此同时，OECD 下属[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI）自 2000 年起开启了长达二十余年的教育知识管理与知识治理体系探索（2000/2003 部门知识治理调查、2007 年《Evidence in Education》旗舰专著、2010 年《The Nature of Learning》学习科学工程、教师知识调查 TKS 及 2021 年启动的[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]），推动成员国从被动接受指标排名转向主动建构国家级[[Evidence Ecosystem\|证据生态系统]]。这一由 OECD 驱动的经济导向教育政策与大规模量化测试，深刻改变了比较教育的政策咨询生态，瓦解了战后劳威斯倡导的超然航海咨询模式，使比较研究深度卷入主权国家人力资本问责与技术官僚治理之中。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 424–425)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 543–545)]]; [[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 16–27)]]; [[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 95–96)]]
+>   - 1990 年代中期起，伴随苏联解体与冷战终结，OECD 内部经济效率与社会目的之间的张力消退，先后发布《转型中的治理》（*Governance in Transition*, 1995）与《[[Knowledge-Based Economy|知识经济]]》（*The Knowledge Based Economy*, 1996），结合内生新增长理论建构起全球共享的“知识经济社会想象”。OECD 将全球化本体化为不可抗拒的客观经济规律，推动国家治理向[[New Public Management|新公共管理]]、分权问责与市场竞争转型，并从成员国协商的开放论坛演变为“自身独立的政策行动者”（policy actor in its own right），将教育公平、性别平权与社会凝聚力全面工具化为经济政策的附庸。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 438, 440–446, 448–452)]]
+> - **2000–至今 — 独立教育司设立、大数据[[Governing at a Distance\|远处治理]]、非成员经济体外展与[[Epistemic Governance\|知识治理]]体系深化** 2000 年推出首轮 [[PISA]] 测评，2002 年正式设立独立的教育司（Directorate for Education），以秘书处主导的优先项设定、跨国比较绩效指标与强制性同侪压力（peer pressure）取代了早期的哲理辩论；同时通过非成员经济体合作处（Unit for Cooperation with Non-member Economies, NME）与“全球关系项目”（Global Relations Programme）将影响力扩展至中国、印度等转型与发展中大国，并联合[[World Bank|世界银行]]与[[UNESCO|联合国教科文组织]]推出“世界教育指标”（World Education Indicators, WEI）项目。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 441–444, 446–448)]] 随[[Pre-test and Post-test|后测]]评版图进一步扩展至[[Teaching and Learning International Survey\|教师教学国际调查]]（Teaching and Learning International Survey，TALIS）、[[Programme for the International Assessment of Adult Competencies\|国际成人能力评估项目]]（Programme for the International Assessment of Adult Competencies，PIAAC）及面向全球南方的发展型 PISA（[[PISA for Development]]，PISA-D）。经合组织不仅开创了跨国量化排名的[[Governing by Numbers\|数字治理]]（Governing by Numbers）模式，更通过深度工具打包与外向型国别横向借鉴演进为全球教育政策规范制定者。与此同时，OECD 下属[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI）自 2000 年起开启了长达二十余年的教育知识管理与知识治理体系探索（2000/2003 部门知识治理调查、2007 年《Evidence in Education》旗舰专著、2010 年《The Nature of Learning》学习科学工程、教师知识调查 TKS 及 2021 年启动的[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]），推动成员国从被动接受指标排名转向主动建构国家级[[Evidence Ecosystem\|证据生态系统]]。这一由 OECD 驱动的经济导向教育政策与大规模量化测试，深刻改变了比较教育的政策咨询生态，瓦解了战后劳威斯倡导的超然航海咨询模式，使比较研究深度卷入主权国家人力资本问责与技术官僚治理之中。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 424–425)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 543–545)]]; [[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 16–27)]]; [[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 95–96)]]
 
 ---
 
@@ -181,17 +189,19 @@ updated: 2026-10-13
 
 > [!actor-grid] 组织治理架构
 > - **最高决策中枢（理事会 Council）** 由全体成员国常驻大使代表及欧盟代表组成的高级别权力机构，负责审议工作规划、战略重点与财政预算，采取全体协商一致（Consensus）决策原则。
-> - **专业领导机构（教育政策委员会，Education Policy Committee，EDPC）** 由各成员国教育部高级官员与政策代表组成的常设专门委员会，统筹制定教育领域的跨国战略优先项与大型项目启动决议。
-> - **常设执行部门（教育与技能司）** 位于巴黎总部的常设专业研究与行政管理团队，由司长统筹各处室开展跨国测评组织、数据清洗、多语言报告编制与国别政策咨询。
-> - **外部方法论与统计顾问网络** 汇聚全球顶尖心理测量学家、统计学家与比较教育学者的独立专家委员会，负责量化测评框架研发、[[Item Response Theory\|项目反应理论]]建模与跨国等值性质控。
+> - **专业领导机构（教育政策委员会，EDPC 与 [[Centre for Educational Research and Innovation|CERI]] 理事会）** 由各成员国教育部高级官员与政策代表组成的常设专门委员会，统筹制定教育领域的跨国战略优先项与大型项目启动决议；早期教育委员会（1970 年设立）与[[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI，1968 年由福特基金会与壳牌资助创立）长期分工并立，包容成员国不同政策取向。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–442)]]
+> - **常设执行部门（教育与技能司，Directorate for Education and Skills）** 位于巴黎总部的常设专业研究与行政管理团队。2002 年前从属于教育、就业、劳工与社会事务司（DEELSA），2002 年正式分立为独立教育司，确立了秘书处强大的自主议程设置权与跨国统筹能力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 442–444)]]
+> - **全球外联中枢（非成员经济体合作处，Unit for Cooperation with Non-member Economies, NME）** 设立专门的全球外联机构，依托“全球关系项目”（Global Relations Programme）将非成员国（如中国、印度、巴西、俄罗斯）纳入 OECD 指标网络与跨国政策对话，并与[[UNESCO|联合国教科文组织]]、[[World Bank|世界银行]]联合推行“世界[[Performance Indicators|教育指标]]”（WEI）项目，使 OECD 跨越成员国地理边界成为全球性政策行动者。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 442–443)]]
+> - **外部方法论与统计顾问网络** 汇聚全球顶尖心理测量学家、统计学家与比较教育学者的独立专家委员会，负责量化测评框架研发、[[Item Response Theory|项目反应理论]]建模与跨国等值性质控。
 
 在日常业务层面，OECD 通过精密的技术程序将复杂的各国内部教育实践转化为标准化的国际指标。
 
 > [!pathways]- 业务运行机制
-> - **议程设置** 研判全球宏观经济转型与劳动力技能演进趋势，在教育政策委员会引导下确定跨国比较[[Research Topic\|研究选题]]与新型素养维度（如创新思维、全球素养）。
-> - **研究开发与跨国标准化施测** 研制标准化测评框架与背景[[Questionnaire\|问卷]]，指导各参与国设立的国家项目中心（National Project Centers）进行严密的[[Going Native\|本土化]]双向翻译、抽样与计算机化施测。
-> - **质量控制与同行审查** 采用项目反应理论（Item Response Theory，IRT）与潜[[Variable\|变量]]模型消除跨文化题项偏差，通过发布国别政策[[Peer Debriefing\|同行审议]]报告（Peer Review）形成具有广泛舆论反响的国际比较结论。
-> - **双轨发布与媒介定制策略** 数据发布采取技术中立的国别简报（Country Notes）与高度倡导性的[[Whole Earth Catalog|全球概览]]（[[PISA]] in Focus 及演示幻灯片）双轨分流：前者呈现统计指标，声明数据不直接推导具体政策处方；后者面向大众媒体定制口号化警句与图表分类，为国内行动者选择性剪裁留出缝隙。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 114–116)]]
+> - **议程设置与跨国等值空间虚构** 研判全球宏观经济转型与劳动力技能演进趋势，运用法国统计学家阿兰·德罗西埃（Alain Desrosières）所称的“制造等值空间”（fabricating spaces of equivalence），直接生产可跨国[[Commensuration|通约]]的测试情境，以统计[[Reliability|信度]]（reliability）压倒本土效度（validity），使数字本身成为免于实质辩论的客观政策依据。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> - **远处掌舵与多层网络调控** 借鉴尼古拉斯·罗斯（Nikolas Rose）的“远处掌舵”（[[Steering at a Distance]]）与“数字即政策”（policy as numbers）治理技术：通过公开排行榜在各受测国内部引发“[[PISA]] 冲击”与改革恐慌，促使主权国家官僚机构自觉将课程与问责体系对齐 OECD 指标，在不具备直接立法强制力的情况下有效重塑民族国家教育治理。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–447)]]
+> - **研究开发与跨国标准化施测** 研制标准化测评框架与背景[[Questionnaire|问卷]]，指导各参与国设立的国家项目中心（National Project Centers）进行严密的[[Going Native|本土化]]双向翻译、抽样与计算机化施测。
+> - **质量控制与同行审查** 采用项目反应理论（Item Response Theory，IRT）与潜[[Variable|变量]]模型消除跨文化题项偏差，通过发布国别政策[[Peer Debriefing|同行审议]]报告（Peer Review）形成具有广泛舆论反响的国际比较结论。
+> - **双轨发布与媒介定制策略** 数据发布采取技术中立的国别简报（Country Notes）与高度倡导性的[[Whole Earth Catalog|全球概览]]（[[PISA]] in Focus 及演示幻灯片）双轨分流：前者呈现统计指标，声明数据不直接推导具体政策处方；后者面向大众媒体定制口号化警句与图表分类，为国内行动者选择性剪裁留出缝隙。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 114–116)]]
 
 ---
 
@@ -288,8 +298,14 @@ updated: 2026-10-13
 > > [!axis] 社会民主主义妥协与新自由主义“经济基要主义”的范式断裂（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）
 > > 围绕 OECD 在 1990 年代中期后如何重塑教育目的以及如何处理公平、性别与社会凝聚力等社会价值的学理争鸣。
 > >
-> > - **社会民主主义与“新新人文主义”时期（1960–1990）** 帕帕多普洛斯（Papadopoulos, 1994）认为 OECD 早期虽源于人力资本考量，但在欧洲社会民主主义成员国影响下包容了多元社会与文化目的，将教育定性为培育批判性民主公民与促进社会凝聚力的公共物品。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 437–439, 451)]]
-> > - **新自由主义[[Social Imaginary|社会想象]]与社会价值工具化（1990 年代中期后）** [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]指出，1990 年代中期后 OECD 陷入乔治·索罗斯（George Soros）所称的“经济基要主义”（economic fundamentalism），将教育重构为兼具公共与私人投资回报属性的经济手婢（handmaiden）；机会均等、性别平权与[[Social Capital Theory|社会资本]]并未被抛弃，而是被抽离了实质正义内涵，彻底重构为服务于[[Knowledge-Based Economy|知识经济]]参与、贫困消减与生产率最大化的剩余性治理工具，其与世界银行、教科文组织联合向转型经济体输出的“世界教育指标”（WEI）亦将新自由主义规范预设隐蔽地包裹在技术援助之中（Rutkowski, 2007）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443, 448–452)]]
+> > - **社会民主主义与“新新人文主义”时期（1960–1990）** 帕帕多普洛斯（Papadopoulos, 1994）指出，OECD 早期虽源于人力资本考量，但在欧洲社会民主主义成员国影响下包容了多元社会与文化目的，形成恩斯特·哈斯所谓的“不连贯妥协”，将教育定性为培育批判性民主公民与维护社会凝聚力的纯粹公共物品，国别审查严格坚持自愿与因国制宜（*sui generis*）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 437–439, 450–451)]]
+> > - **新自由主义[[Social Imaginary|社会想象]]与社会正义残余化（1990 年代中期后）** [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]指出，1990 年代中期后 OECD 陷入乔治·索罗斯（George Soros）所称的“经济基要主义”（economic fundamentalism），将教育从民主公共物品降格为追求国家全球竞争力与个人市场溢价的公私混合商品；教育公平、性别平权与社会资本并未被公然废除，而是遭遇系统性“残余化”（residualization）收编——实质正义被抽空，退化为服务于[[Knowledge-Based Economy|知识经济]]劳动力储备、风险自担与经济效率最大化的附庸治理工具；与此同时，其与世界银行、教科文组织联合向转型经济体推行的“世界[[Performance Indicators|教育指标]]”（WEI）亦将新自由主义规范预设隐蔽地包裹在技术援助之中。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443, 448–452)]]
+>
+> > [!axis] 跨国等值空间的统计制造与“数字即政策”的去政治化[[Disciplina and Doctrina|规训]]
+> > 围绕经合组织 PISA 测验是否凭借统计技术虚构了脱离文化脉络的跨国等值空间，以“数字即政策”掩盖政治价值权衡。
+> >
+> > - **跨国[[Commensuration|通约]]客观论（机构立场）** 经合组织坚称，全球化时代需要超越狭隘本土课程大纲的统一素养标准；通过先进的心理计量学建模与[[Item Response Theory|项目反应理论]]，能够消除文化题项偏差，为各国客观诊断面向 21 世纪经济挑战的关键技能提供科学镜像。
+> > - **等值空间建构与效度消解批判（统计社会学视角）** 法国统计社会学家阿兰·德罗西埃（Alain Desrosières）与政策学者指出，跨国测量并非反映先验存在的客观实体，而是在凭空“制造等值空间”（fabricating spaces of equivalence）；PISA 将跨国可比性与统计[[Reliability|信度]]置于教育本体与[[Construct Validity|构念效度]]之上。数字的统治力量在于将背后极具争议的主观政治判断与价值预设彻底隐形化，诱发“数字即政策”（policy as numbers）的技术官僚迷信，使复杂的[[Democratic Education|民主教育]]价值辩论在客观数字的伪装下被强行终结。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 
 > [!citation-card] 《[[PISA]] 2000：测量学生知识与技能》前言（2000年）
 > 随着经济全球化和技术变革对劳动者技能提出更高要求，PISA 测验旨在评估学生在义务教育结束时是否具备了完全参与社会和经济生活所需的关键知识和技能。经合组织通过提供跨国可比的实证基础，支持各国政府优化其教育政策。
@@ -311,6 +327,9 @@ updated: 2026-10-13
 > | [[International Institute for Educational Planning]] | Fact (Organization) | 联合国教科文组织下属机构，冷战期与 OECD 共同作为教育规划[[Development Turn in Comparative Education\|发展转向]]的关键载体。 |
 > | [[Governing at a Distance]] | Theory | OECD 运用量化基准与同行[[Soft Power\|软实力]]压力调控主权国家教育政策的核心治理机制。 |
 > | [[Governing by Numbers]] | Concept | OECD 治理实践的本质机制，通过指标建构、跨国排行与统计技术实现行政合法性。 |
+> | [[Commensuration]] | Concept | OECD 通过 PISA 等测试制造跨国等值空间、使不同教育系统获得可比性的核心统计技术。 |
+> | [[Steering at a Distance]] | Concept | OECD 凭借跨国比较指标与排行榜恐慌在不具备强制主权的情况下远程调控各国内部政策的机制。 |
+> | [[Public Value]] | Concept | OECD 新自由主义转向将教育从战后民主平等的纯粹公共物品降格为追求[[Return on Investment\|投资回报]]的公私混合商品。 |
 > | [[Policy Brokerage]] | Concept | OECD 开展全球治理的核心机制，通过打包 PISA、同行评议与国别政策审查实现外向型政策中介。 |
 > | [[Global Education Governing Complex]] | Concept | OECD 作为五大核心支柱之一所嵌入的全球多边与私营资本混合治理网络。 |
 > | [[Development Turn in Comparative Education]] | Concept | OECD 早期推动的将比较教育研究重心从西方传统转向发展中国家人力规划的[[Paradigm\|范式]]演进。 |

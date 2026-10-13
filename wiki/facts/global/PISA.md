@@ -35,6 +35,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Governing by Numbers]]"
   - "[[Steering at a Distance]]"
+  - "[[Public Value]]"
   - "[[Variable]]"
   - "[[Rashomon Effect]]"
   - "[[Discourse]]"
@@ -184,7 +185,7 @@ updated: 2026-10-13
 
 > [!feature] 核心运行机制
 > - **周期性主测轮换** 每三年为一个周期，阅读、数学、科学依次作为主测领域，辅以财经素养、[[Creativity|创造性]]思维等创新模块。
-> - **跨国共同量表与全球等值空间** 依托[[Item Response Theory|项目反应理论]]（IRT）与 Rasch 测量建立跨国均值（500 分）与标准差（100 分）量表，实现历时与跨国横向可比。[[Fazal Rizvi|法扎尔·里兹维（Fazal Rizvi）]]与[[Bob Lingard|鲍勃·林加德（Bob Lingard）]]借用阿兰·德罗西埃（Alain Desrosières, 1998）的统计社会学概念指出，PISA 通过[[Commensuration|通约化]]凭空创造出一个全球可通约的“等值空间”（space of equivalence），在方法论上优先保障跨国测量的信度（reliability）与可比性，而将构念效度（construct validity）与本体论异质性置于次要地位，并通过尼古拉斯·罗斯（Nikolas Rose, 1999）所称的“数字即政策”（[[Governing by Numbers|policy as numbers]]）与[[Steering at a Distance|远处掌舵]]将复杂的价值判断隐形化。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+> - **跨国共同量表与全球等值空间虚构** 依托[[Item Response Theory|项目反应理论]]（IRT）与 Rasch 测量建立跨国均值（500 分）与标准差（100 分）量表，实现历时与跨国横向可比。[[Fazal Rizvi|法扎尔·里兹维（Fazal Rizvi）]]与[[Bob Lingard|鲍勃·林加德（Bob Lingard）]]借用阿兰·德罗西埃（Alain Desrosières, 1998）的统计社会学概念指出，PISA 刻意脱离各国的具体课程大纲与文化情境设计测试情景，通过[[Commensuration|通约化]]凭空制造出一个跨国“等值空间”（space of equivalence）。在这一统计技术操作中，跨国比较的信度（reliability）被置于教育本土效度（validity）与本体论多样性之上；数字的威力恰恰在于将指标背后大量主观政治判断与价值预设彻底隐形化，通过尼古拉斯·罗斯（Nikolas Rose, 1999）所称的“[[Governing by Numbers|数字即政策]]”（policy as numbers）确立了免于辩论的客观科学威权。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 > - **背景[[Questionnaire|问卷]]与社会学透视** 采集学生家庭社会经济文化地位（ESCS）、学校资源、教师教学法等丰富[[Variable|变量]]，为教育公平与效能分析提供海量微观数据。
 > - **数据可塑性与[[Rashomon Effect|罗生门效应]]（Data Plasticity & Rashomon Effect）** PISA 成果发布体系由长篇技术主报告、简明国别简报（Country Notes）与精要简讯（PISA in Focus）构成；庞大的指标网络赋予评估数据极高的[[Discourse|话语]]可塑性，使同一批数据能被不同立场的国内政治精英、游说团体与大众媒体各取所需，剪裁为相互冲突的政策依据与“多重真相”。[[Argument_Grey_2018_CE|(Grey & Morris, 2018)]]
 
@@ -202,7 +203,8 @@ updated: 2026-10-13
 ## 政策影响与治理机制
 
 > [!finding-cards] 核心政策影响
-> - **确立全球教育软治理** PISA 通过量化排名、平均分与差距叙事，实现了超国家层面的“数据治理”，使高表现国家成为跨国[[Policy Borrowing|政策借用]]的模板。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 8–9)]]
+> - **确立全球教育软治理与远处掌舵** PISA 通过量化排名、平均分与差距叙事，实现了超国家层面的“数据治理”，使高表现国家成为跨国[[Policy Borrowing|政策借用]]的模板；通过排行榜引发的国内政策恐慌，实现了无须直接行政指令的“[[Steering at a Distance|远处掌舵]]”。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 8–9)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–447)]]
+> - **多层网络治理与国家教育主权重构** 里兹维与林加德指出，PISA 并未消灭民族国家教育主权，而是催生了跨国与次国家主体共同参与的“多层网络治理”；主权国家官僚机构自觉采纳 PISA 指标以重塑国内行政改革合法性，借国际危机动员推行受阻的绩效问责改革，但其内部自主探索教育目的的战略空间也遭到显著挤压。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–447)]]
 > - **重塑基础科学课程哲学** 推动英、德、日、法等数十个国家修订国家科学课程大纲，显著增加[[Nature of Science|科学本质]]、社会科学争议（[[Socioscientific Issues|SSI]]）与证据评估内容。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
 > - **双向多层驱动** [[Argument_Li_2025_HSSC|Li et al. (2025)]][[Systematic Review|系统综述]]指出，PISA 影响在质量与公平双重路径上展开，通过超国家软治理、国家[[Transfer Translation Transformation|转译]]与国内行动者博弈三层机制深刻重塑全球教育格局。
 > - **动员国内危机叙事与驱动国家课程对标（美国 [[Common Core State Standards|CCSS]] 运动）** 跨国评估数据常被国内[[Policy Entrepreneur|政策企业家]]作为打破地方分权阻力与构建国家标准的政治弹药。例如在美国，政策企业家（国家州长协会 [[National Governors Association|NGA]]、[[Council of Chief State School Officers|州首席教育官理事会]] CCSSO）将 PISA 和 [[TIMSS]] 展现的跨国差距转化为核心实证指标，论证美国学生在应对全球[[Knowledge-Based Economy|知识经济]]竞争中存在严峻素养赤字，各州现行课程标准浅薄碎片，以此为自愿性统一国家标准（[[Common Core State Standards|CCSS]]）的制定确立了不可动摇的合法性。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]

@@ -7,7 +7,7 @@ aliases:
 summary: "指超越新古典狭隘“公共品”修补的整体性治理与创新范式；强调国家、市场与社会在应对重大战略挑战与社会技术转型的全价值链中共同创造、塑造市场，并通过制度化附加条件与护栏条款确保公共投资创造普惠的集体经济、社会与生态福祉；同时强调技术发展必须实质交付于满足公众普遍利益与国家核心职能（如国防安全、医疗突破与高效公共服务），防范因技术被狭隘私人消费主义俘获而导致公共能力空心化与民主政体合法性危机。"
 type: concept
 domain: "science-policy"
-related_count: 55
+related_count: 68
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -35,18 +35,27 @@ related_concepts:
   - "[[Citizen Science]]"
   - "[[Modern Industrial Policy]]"
   - "[[Apprenticeship]]"
+  - "[[Discourse]]"
+  - "[[Doxa]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Social Imaginary]]"
+  - "[[Return on Investment]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Competitiveness]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Intellectual Capital]]"
   - "[[Attrition]]"
   - "[[Man-Computer Symbiosis]]"
-  - "[[Return on Investment]]"
-  - "[[Competitiveness]]"
   - "[[Strategic Autonomy]]"
+  - "[[Lifelong Learning]]"
   - "[[Variable]]"
   - "[[Document]]"
   - "[[Research Translation]]"
   - "[[Patient Capital]]"
+  - "[[Governing by Numbers]]"
+  - "[[Policy Network]]"
 related_theories:
+  - "[[Human Capital Theory]]"
   - "[[Historical Institutionalism]]"
   - "[[ROAR Framework]]"
 related_persons:
@@ -54,8 +63,8 @@ related_persons:
   - "[[Mariana Mazzucato]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
-  - "[[Bob Lingard]]"
   - "[[Fazal Rizvi]]"
+  - "[[Bob Lingard]]"
 related_facts:
   - "[[CREATES Project]]"
   - "[[CHIPS and Science Act]]"
@@ -63,6 +72,7 @@ related_facts:
   - "[[International Reading Association]]"
   - "[[Department of Energy]]"
   - "[[Important Projects of Common European Interest]]"
+  - "[[OECD]]"
   - "[[Office of Scientific Research and Development]]"
   - "[[DARPA]]"
   - "[[ARPANET]]"
@@ -226,6 +236,16 @@ updated: 2026-10-13
 
 ---
 
+### 命题八　新自由主义经济基要主义侵蚀了教育作为民主公物的本真公共价值并将其异化为投资工具
+
+> [!concept-lens] 教育本质的规范位移：从民主公民权的公共物品到[[Human Capital Theory|人力资本]]投资的混合商品
+> 探讨超国家政策[[Discourse|话语]]如何将教育从保障平等与民主参与的纯粹公共物品降格为追求竞争优势与私人溢价的公私混合商品。
+
+> [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]]
+> **经济基要主义对教育公共价值的异化与残余化** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）在解构[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）全球教育政策转向时指出，在战后社会民主主义妥协时期，教育被视为促进人人平等、保障公民民主参与和建设包容社会的典型“纯粹公共物品”（Pure Public Good），具有不可剥夺的民主公物本真公共价值。然而自 1990 年代中期起，经合组织等超国家机构推行“经济基要主义”（Economic Fundamentalism），将新自由主义全球化本体化为[[Doxa|不言自明]]的客观铁律，建构起一套狭隘排他的“[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]”。在这一话语转型中，教育的公共价值被系统性空心化与工具化：教育被降格为追求国家全球竞争优势与个体劳动力市场超额溢价的“公私混合投资商品”（Mixed Good）。教育公平、性别平权与公民素养等实质正义维度并未被彻底废除，而是被“残余化”（Residualized）与工具化收编——公平被窄化为形式上的准入平等以确保人力资本储备最大化，社会资本被降格为防范社会排斥干扰经济增长的维稳工具。这一转型标志着国家教育治理从创造普惠平等的民主公共价值，彻底倒向了服务于私人市场[[Return on Investment|投资回报率]]的技术官僚[[Disciplina and Doctrina|规训]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 448–452)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -238,6 +258,7 @@ updated: 2026-10-13
 > | **命题五｜附加条件契约** | 运用法定附加条件与护栏条款将公共投资转化为普惠社会价值 | 现代产业政策落地、制造补贴与清洁能源激励 | [[Argument_Reynolds_2024_JICT\|Reynolds (2024)]] |
 > | **命题六｜跨区域财政支撑** | 超国家公共价值实现依赖中央集中资金池以平抑区域补贴分化 | 多层级跨国政体工业战略、欧洲统一大市场一体化建设 | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024, pp. 13–17)]] |
 > | **命题七｜核心职能交付** | 国家必须将前沿技术实质交付于普遍公共利益以维系政体合法性 | 国家安全、公共部门数字化转型、防务技术创新 | [[Alexander Karp\|Karp, A.]]; [[Nicholas Zamiska\|Zamiska, N.]] |
+> | **命题八｜教育公共品异化** | 经济基要主义将教育从民主公物降格为追求投资回报的公私混合商品 | 超国家教育治理、知识经济转型与公共教育新自由主义改革 | [[Bob Lingard\|Lingard, B.]]; [[Fazal Rizvi\|Rizvi, F.]] |
 
 ---
 
@@ -248,9 +269,10 @@ updated: 2026-10-13
 > - **第一阶段（1940s–1960s）：战时与冷战使命型公共价值奠基** 科学研究与开发局（[[Office of Scientific Research and Development|OSRD]]）与 [[DARPA]] 确立国家作为首要买家，将前沿物理与计算科学直接转化为雷达、青霉素、微芯片与 [[ARPANET]]，奠定现代计算与国家安全公共价值基座。
 > - **第二阶段（1995 年）：公共管理中的公共价值提出** 马克·摩尔（Mark Moore）在其经典著作《创造公共价值》（*Creating Public Value*）中首次提出该概念，构建“战略三角模型”（授权环境、运营能力、公共价值），推动公共管理者从被动服从规则转向主动创造社会价值。
 > - **第三阶段（2000 年代）：公共价值失灵标准建构** 巴里·博兹曼（Barry Bozeman）提出“公共价值失灵”（Public Value Failure）理论，批判新古典仅关注[[Market Failure|市场失灵]]的偏狭，主张将社会公平、代际利益与核心价值缺位作为国家干预的独立正当性来源。
-> - **第四阶段（2018 年）：[[Mission-Oriented Innovation Policy|使命导向创新政策]]中的[[Market Shaping and Creating|市场共创]][[Paradigm|范式]]** 玛丽安娜·[[Mariana Mazzucato|马祖卡托]]将公共价值深度融入创新经济学与科技政策，构建超越市场修复的 ROAR 框架，使公共价值成为指导[[Horizon Europe|地平线欧洲]]（Horizon Europe）与多国使命型战略的核心指南。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–810)]]
-> - **第五阶段（2022 年至今）：现代产业战略中的[[Policy Conditionalities|制度化附加条件]]与护栏机制** 埃利萨贝思·雷诺兹等学者将公共价值落地为具有法律约束力的政策执行工具，通过美国《芯片与科学法》（[[CHIPS and Science Act|CHIPS Act]]）与《[[Inflation Reduction Act|通胀削减法]]》（[[International Reading Association|IRA]]）中的托儿服务、现行工资、[[Apprenticeship|学徒制]]、超额利润分成与社区利益计划，构建新型公私社会契约。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–13)]]
-> - **第六阶段（2025 年）：[[Technological Republic|技术共和国]]模式与公共职能交付重构** 亚历克斯·卡普（[[Alexander Karp]]）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]警示公共部门[[Innovation Desert|创新荒漠]]与消费主义对工程[[Intellectual Capital|智力资本]]的侵蚀，主张以“国家使命+前沿技术”重塑政府核心职能的技术公共价值交付能力，防范现代民主制度的合法性危机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–13)]]
+> - **第四阶段（2009 年）：教育公共价值的经济基要主义侵蚀与残余化批判** [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]揭示[[OECD|经合组织]]如何将教育从民主平等的纯粹公共物品异化为服务于[[Competitiveness|国家竞争力]]的公私混合商品，阐明[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]对实质教育正义公共价值的消解。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 450–452)]]
+> - **第五阶段（2018 年）：[[Mission-Oriented Innovation Policy|使命导向创新政策]]中的[[Market Shaping and Creating|市场共创]][[Paradigm|范式]]** 玛丽安娜·[[Mariana Mazzucato|马祖卡托]]将公共价值深度融入创新经济学与科技政策，构建超越市场修复的 ROAR 框架，使公共价值成为指导[[Horizon Europe|地平线欧洲]]（Horizon Europe）与多国使命型战略的核心指南。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–810)]]
+> - **第六阶段（2022 年至今）：现代产业战略中的[[Policy Conditionalities|制度化附加条件]]与护栏机制** 埃利萨贝思·雷诺兹等学者将公共价值落地为具有法律约束力的政策执行工具，通过美国《芯片与科学法》（[[CHIPS and Science Act|CHIPS Act]]）与《[[Inflation Reduction Act|通胀削减法]]》（[[International Reading Association|IRA]]）中的托儿服务、现行工资、[[Apprenticeship|学徒制]]、超额利润分成与社区利益计划，构建新型公私社会契约。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–13)]]
+> - **第七阶段（2025 年）：[[Technological Republic|技术共和国]]模式与公共职能交付重构** 亚历克斯·卡普（[[Alexander Karp]]）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]警示公共部门[[Innovation Desert|创新荒漠]]与消费主义对工程[[Intellectual Capital|智力资本]]的侵蚀，主张以“国家使命+前沿技术”重塑政府核心职能的技术公共价值交付能力，防范现代民主制度的合法性危机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–13)]]
 
 ---
 
@@ -291,6 +313,12 @@ updated: 2026-10-13
 > >
 > > - **[[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]]** 警示指出，依赖成员国国家援助推进产业自主，将导致财力雄厚的核心国家独占工业溢出，损害单一市场公平竞争底线，产生“以割裂大市场为代价换取局部自主”的公共价值逆转。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 16–17)]]
 > > - **欧洲一体化辩护** 认为 [[Important Projects of Common European Interest|IPCEI]] 强制性跨境产学研网络（180 项跨国合作）与知识溢出机制能够在一定程度上平衡技术差距，并为后续建立泛欧共同工业投资基金提供制度试验。
+>
+> > [!axis] 教育作为民主公物的本真公共价值 vs [[Human Capital Theory|人力资本]]与国家竞争力工具
+> > 争论教育的首要公共价值是培养平等批判的民主公民，还是提升劳动力市场的生产率与全球竞争力。
+> >
+> > - **[[OECD|经合组织]]（OECD）与人力资本视角** 强调在[[Knowledge-Based Economy|知识经济]]时代，教育的首要使命是开发劳动力技能、促进[[Lifelong Learning|终身学习]]并为经济增长提供持续动力，国家必须通过可测量的绩效数据确保教育投资的经济回报。
+> > - **批判教育社会学立场** 强调教育是人人共享的民主权利与文化公物；将教育公共价值完全依附于人力资本产出，不仅侵蚀了教育培养自由批判人格与社会平等的崇高使命，更将社会正义降格为服务于资本积累的残余物。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–452)]]
 
 ---
 
@@ -315,6 +343,7 @@ updated: 2026-10-13
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 实证剖析美国现代产业战略中通过托儿配套、利润分成、现行工资与社区利益计划等[[Policy Conditionalities|制度化附加条件]]与护栏条款实现公共价值创造的具体机制。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 比较跨大西洋半导体产业政策治理架构对全域公共价值创造与单一市场协调影响的实证[[Document|文献]]。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025)]] — 阐发[[Technological Republic|技术共和国]]中前沿技术交付与普遍公众利益的关系，揭示公共部门[[Innovation Desert|创新荒漠]]与合法性危机的内在关联。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 揭示[[OECD|经合组织]]新自由主义政策转向如何将教育从民主公共物品异化为公私混合商品，阐明[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]对教育公共价值的残余化收编。
 
 ---
 
@@ -335,8 +364,11 @@ updated: 2026-10-13
 > | [[Mariana Mazzucato]] | Person | 将公共价值理论深度融入当代创新经济学与国家治理体系的领军学者。 |
 > | [[Alexander Karp]] | Person | 批判现代科技脱离公共价值并主张技术服务于民主国家核心能力的理论家与实践者。 |
 > | [[Nicholas Zamiska]] | Person | 共同提出技术共和国命题并阐释公共技术交付与政体合法性关系的学者。 |
+> | [[Bob Lingard]] | Person | 批判[[OECD\|经合组织]][[Governing by Numbers\|数字治理]]与教育公共价值异化的政策社会学家。 |
+> | [[Fazal Rizvi]] | Person | 揭示[[Policy Network\|全球政策网络]]与[[Knowledge-Based Economy\|知识经济]][[Social Imaginary\|社会想象]]侵蚀教育公共价值的学者。 |
 > | [[Jürgen Habermas]] | Person | 提出晚期资本主义合法性危机理论的哲学家与社会学家。 |
 > | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | Argument | 系统阐发超越市场失灵修补的公共价值共创理论与动态评估工具的经典[[Document\|文献]]。 |
 > | [[Argument_Reynolds_2024_JICT\|Reynolds (2024)]] | Argument | 详述现代产业战略如何通过附加条件与护栏条款将公共投资转化为公共价值的实证文献。 |
 > | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024)]] | Argument | 比较跨大西洋半导体产业政策治理架构对全域公共价值创造与单一市场协调影响的实证文献。 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01\|Karp & Zamiska (2025)]] | Argument | 阐发冷战科技合作演进、公共技术交付断裂与技术共和国重塑的专著第一章。 |
+> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] | Argument | 解构经合组织教育政策转向与公共教育商品化机制的经典文献。 |
