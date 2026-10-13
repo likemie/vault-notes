@@ -54,6 +54,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Positivism]]"
   - "[[Praxis]]"
+  - "[[Liberalization]]"
 related_theories:
   - "[[Neo-feudalism in Higher Education]]"
   - "[[Post-structuralism]]"
@@ -72,12 +73,13 @@ related_arguments:
   - "[[Argument_Eacott_2011_JEAH]]"
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
   - "[[Argument_Teng_2025_CE]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
 related_facts:
   - "[[CNRS]]"
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-10-08
+updated: 2026-10-13
 ---
 
 # Pierre Bourdieu
@@ -91,7 +93,7 @@ updated: 2026-10-08
 > - **核心角色** 创立了以[[Habitus\|习性]]、[[Champ\|场域]]和资本为支点的关系性实践社会学，将教育系统去神圣化，深刻揭示了学校在阶级再生产、符号暴力和阶层分化中的核心中介作用。
 > - **代表贡献** 创立了习性（Habitus）、场域（Field）以及[[Cultural Capital\|文化资本]]（Cultural Capital）等概念工具。
 
-> [!citation-card]- 学校教育的阶级专断性表述
+> [!citation-card] 学校教育对主导阶级文化资本的隐性要求与专断再生产
 > 学校教育系统秘而不宣地要求每个学生拥有学校并不曾给予的东西，这包括[[Language Skills\|语言能力]]、文化感知力和对主导文化的熟稔，而这种东西只有统治阶级在家庭教育中传授主导文化时才能获得。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]（引自 Bourdieu & Passeron, 1979）
 
 ---
@@ -146,8 +148,9 @@ updated: 2026-10-08
 >     - 《关于电视》（*Sur la télévision*, Liber-Raisons d'agir, 1996）：批判电视媒体对智识生产场域的穿透与扭曲。
 >     - 《帕斯卡尔式的沉思》（*Méditations pascaliennes*, Seuil, 1997）：重审[[Epistemology\|认识论]]，对身体化支配与社会空间进行深度哲学合拢。
 >     - 《男性支配》（*La Domination masculine*, Seuil, 1998）：揭示性别秩序如何被身体化与制度化自然化。
+>     - 《反扑：对抗市场暴政》（*Contre-feux 2: Pour un mouvement social européen*, Raisons d'agir, 2001 / *Firing Back against the Tyranny of the Market*, Verso, 2003）：系统批判新自由主义全球化的意识形态神话，揭示“别无选择”的经济自由化工程对欧洲公共服务与社会连带的瓦解。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Bourdieu, 2003; Rizvi & Lingard, 2009, p. 441)]]
 >     - 《自我分析大纲》（*Esquisse pour une auto-analyse*, Raisons d'agir, 2004）：将反思性方法施之于自身成长轨迹的终结之作。
->   - **关键概念／方法** 符号支配、公共知识分子、身体化支配
+>   - **关键概念／方法** 符号支配、公共知识分子、身体化支配、[[Liberalization\|经济自由化]]
 >   - **阶段转向** 突破了纯学术场域的独立性边界，将社会学确立为防御新自由主义侵害的防御武器，最终以自身轨迹的自剖完成理论合拢。
 
 ---
@@ -157,7 +160,7 @@ updated: 2026-10-08
 > [!claim] 核心主张
 > 社会实践并非来自有意识的理性计算，也不是社会结构的机械投影，而是[[Habitus\|习性]]、资本与[[Champ\|场域]]三者咬合的产物。实践是在特定场域中，由行动者所占有的资本结构与具身化的习性惯性[[Interaction Effect\|交互作用]]，借助实践感所生成的策略行为。教育系统通过将特权阶层的文化特征伪装为普适的学术天分，建立了无可辩驳的合法性正统信念（[[Doxa]]），从而以符号暴力的隐蔽方式迫使被支配者认同自身的被支配地位，完成了阶级分层的合法再生产。
 
-> [!citation-card]- 关于场域与实践的表述
+> [!citation-card] 场域逻辑与内化习性交互作用中的实践生成
 > 实践不仅是资本占有状况的函数，也是场域逻辑与历史内化的习性相互遭遇的结果。如果忽视了社会科学研究者的[[Epistemology\|认识论]]断警觉，我们就会在不知不觉中复制日常概念，从而使反思沦为装饰。[[Argument_Eacott_2015_EPT\|Eacott (2015, pp. 322–323)]]（引自 Bourdieu, 1992）
 
 > [!theory-components] 实践理论的核心构件
@@ -185,8 +188,29 @@ updated: 2026-10-08
 >   在高等教育全球政治经济学分析中，[[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017, pp. 797–799)]] 借助布迪厄工具分析了学术劳动的重构，包括排名与引用的**[[Non-monetary Competition\|非货币竞争]]**，学术资本与行政权力的学者分数分化，以及为了在不稳定劳动力市场中获取资源而产生的个人化依附，形成了学术界内部的[[Neo-feudalism in Higher Education\|高等教育新封建主义]]。
 > - **中国县域城镇化进程中的资本分层筛选**
 >   基础教育[[School Choice\|择校]]研究通过资本理论解释户籍限制放开后的阶层筛选。[[Argument_Teng_2025_CE\|Teng & Wang (2025, p. 310)]] 在县域研究中表明，择校迁移折叠为家庭资本比拼：经济资本是[[Peidu\|陪读]]门槛，社会资本是截留学位（动员熟人关系）的关键，而文化资本在熟人关系中被边缘化并发生妥协，制度隔离被隐性阶级筛选置换。
+> - **全球化话语与跨国教育政策的批判性解构**
+>   当代比较教育与全球治理学者运用布迪厄晚期批判理论解构超国家组织的政策修辞。法扎尔·里兹维与鲍勃·林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard, 2009, p. 441]]）引述布迪厄（Bourdieu, 2003）论断指出，[[OECD\|经合组织]]等国际组织将全球化本体化与物化（Reification）为不可抗拒的客观外部实体，实质上掩盖了其作为蓄意推进[[Liberalization\|经济自由化]]意识形态工程的政治属性；这种修辞实现了从描述性分析向规范性、操演性概念的滑移，以“知识经济”等貌似中立的常识遮蔽了围绕教育目的的深层意义政治争论。
 
 ---
+
+## 影响路径
+
+> [!influence-path] 影响路径
+> - **理论路径** 彻底改写了战[[Post-structuralism\|后结构主义]]与功利主义的对抗格局，其[[Habitus\|习性]]与[[Champ\|场域]]框架成为教育社会学、批判社会学、文化社会学的基础[[Paradigm\|范式]]语言。
+> - **方法路径** 主张超越量化实证与质性[[Phenomenology\|现象学]]的对立，将多维对应分析（MCA）与深度[[Ethnography\|民族志]]结合，为社会空间的关系性建模提供了实证模版。
+> - **政策路径** 其教育再生产学说强力拆穿了 meritocracy（贤能主义）的客观神话，推动了西方对弱势阶层教育补偿、平权法案以及多元评价的政策讨论；晚期对新自由主义全球化的政治介入进一步启发了对超国家组织物化全球化、强推经济自由化的政策话语解构。
+> - **跨国与跨领域传播** 在进入中国高等教育与基础教育研究中，其资本转换模型被相继改造，用以解析转型期大学生的求职分化以及农村随迁家庭的[[School Choice\|择校]]博弈。
+
+> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] — 援引布迪厄（Bourdieu, 2003）政治介入理论，解构经合组织将全球化本体化以掩护经济自由化的政策修辞（p. 441）。
+> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 将习性与[[Cultural Capital\|文化资本]]运用于中国精英大学毕业去向分析，开发了目标掌控与直觉依赖两种资本化习性模式，解释了阶层出身如何在校园内部完成隐性变现。
+> - [[Argument_Teng_2025_CE\|Teng & Wang (2025)]] — 证明了在中国县域择校迁移中，由于选拔机制简化，家庭资本展现出垂直阶梯分层筛选，户籍行政限制被置换为隐性阶级筛选，文化资本不得不退让并折算为社会资本关系。
+> - [[Argument_Eacott_2011_JEAH\|Eacott (2011)]] — 将场域和 [[Doxa]] 运用于澳大利亚[[School Leadership\|学校领导力]]培养体系研究，剖析了管理主义绩效体制如何掏空学校管理者的自主实践空间。
+> - [[Argument_Eacott_2015_EPT\|Eacott (2015)]] — 聚焦[[Epistemological Break\|认识论断裂]]和警觉，反思了教育行政研究中对 Bourdieu 理论工具的生硬套用，强调研究者必须对自身的行业凝视保持警惕。
+> - [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017)]] — 运其符号商品与学术阶级分数分析当代高等教育，指出绩效问责的无休止竞争正在学术界内部催生出新封建主义依附秩序。
+
+---
+
 ## 关系网络
 
 > [!person-network] 关系网络
@@ -197,28 +221,13 @@ updated: 2026-10-08
 > - **批评者／论敌** Jacques Rancière — 哲学家，批判再生产学说在逻辑上无限确认了支配的不可避免，消解了底层自我解放的能动空间。
 
 ---
-## 影响路径
 
-> [!influence-path] 影响路径
-> - **理论路径** 彻底改写了战[[Post-structuralism\|后结构主义]]与功利主义的对抗格局，其[[Habitus\|习性]]与[[Champ\|场域]]框架成为教育社会学、批判社会学、文化社会学的底层[[Paradigm\|范式]]语言。
-> - **方法路径** 主张超越量化实证与质性[[Phenomenology\|现象学]]的对立，将多维对应分析（MCA）与深度[[Ethnography\|民族志]]结合，为社会空间的关系性建模提供了实证模版。
-> - **政策路径** 其教育再生产学说强力拆穿了 meritocracy（贤能主义）的客观神话，推动了西方对弱势阶层教育补偿、平权法案以及多元评价的政策讨论。
-> - **跨国与跨领域传播** 在进入中国高等教育与基础教育研究中，其资本转换模型被相继改造，用以解析转型期大学生的求职分化以及农村随迁家庭的[[School Choice\|择校]]博弈。
-
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 将习性与[[Cultural Capital\|文化资本]]运用于中国精英大学毕业去向分析，开发了目标掌控与直觉依赖两种资本化习性模式，解释了阶层出身如何在校园内部完成隐性变现。
-> - [[Argument_Teng_2025_CE\|Teng & Wang (2025)]] — 证明了在中国县域择校迁移中，由于选拔机制简化，家庭资本展现出垂直阶梯分层筛选，户籍行政限制被置换为隐性阶级筛选，文化资本不得不退让并折算为社会资本关系。
-> - [[Argument_Eacott_2011_JEAH\|Eacott (2011)]] — 将场域和 [[Doxa]] 运用于澳大利亚[[School Leadership\|学校领导力]]培养体系研究，剖析了管理主义绩效体制如何掏空学校管理者的自主实践空间。
-> - [[Argument_Eacott_2015_EPT\|Eacott (2015)]] — 聚焦[[Epistemological Break\|认识论断裂]]和警觉，反思了教育行政研究中对 Bourdieu 理论工具的生硬套用，强调研究者必须对自身的行业凝视保持警惕。
-> - [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017)]] — 运其符号商品与学术阶级分数分析当代高等教育，指出绩效问责的无休止竞争正在学术界内部催生出新封建主义依附秩序。
-
----
 ## 争议与批评
 
 > [!debates] 学术争议
 >
 > > [!axis] 再生产的结构[[Determinism\|决定论]]与宿命论
-> > 许多教育学者与行动者指责 Bourdieu 的理论构建过于悲观和闭塞，如果学校只是阶级结构的复制机器，那么微观的课程改革、教师赋能和能动性反抗将失去意义。这在西方和中国教育界都引发了广泛的质疑，认为其压低了微观主体能动性的发展空间。
+> > 许多教育学者与行动者指责 Bourdieu 的理论构建过于悲观和闭塞，如果学校只是阶级结构的复制机器，那么微观的课程改革、教师专业权能与能动性反抗将失去意义。这在西方和中国教育界都引发了广泛的质疑，认为其压低了微观主体能动性的发展空间。
 > >
 > > - **行动派教育学家** 批评其削弱了民主化学校教育改善社会公平的能动信念。
 > > - **Bourdieu 的辩护者** 认为其指明支配结构正是为了给理性变革提供科学依据，并非宣扬宿命论。
@@ -251,3 +260,4 @@ updated: 2026-10-08
 > | [[Habitus]] | 概念 | 创立了习性概念，用以跨越主客观对立，解释行动者的持久行为倾向与[[Praxis\|实践]]感。 |
 > | [[Champ]] | 概念 | 创立了场域概念，将社会次空间概念化为由相对自主规则和资本结构支配的关系性竞争空间。 |
 > | [[Cultural Capital]] | 概念 | 创立了文化资本概念，区分为三种存在形态，揭示了学业选拔中的隐性不平等前提。 |
+> | [[Liberalization]] | 概念 | 晚期介入著作批判新自由主义经济自由化为蓄意重组公共领域的意识形态工程。 |
