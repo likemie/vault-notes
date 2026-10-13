@@ -11,7 +11,7 @@ aliases:
 summary: "驱动国家科技战略、大学治理变革与劳动力技能重塑的核心逻辑与地缘政治装置。在新自由主义社会想象下，国家经济竞争力被假定为直接取决于由国际标准衡量的教育质量；在宏观上体现为长程战略计算、先进制造、跨国多边监测与地缘威慑；在中观上体现为产学中心破除学科壁垒与排名审计重塑大学；在微观上体现为产线组织学习与学习分析；创始人长期主义与全员股权模式构成了抵御短期金融化的深层底座。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 73
+related_count: 81
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -64,6 +64,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Falsification]]"
   - "[[National Innovation System]]"
+  - "[[International Education]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Path Dependence]]"
@@ -426,5 +427,5 @@ updated: 2026-10-13
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 实证揭示以人为本的产线组织数据学习与快速工程排障对产业微观工程竞争力的决定性超越。
 > - [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]] — 运用[[Governmentality|治理术]]与[[Societies of Control|控制社会]]理论，剖析竞争力作为地缘政治装置如何依托排名与[[Learning Analytics|学习分析]]重塑高等教育。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 援引 Papatsiba（2005）剖析超国家教育一体化政策，揭示官方[[Discourse|话语]]如何将劳动力市场竞争力与就业风险转化为青年需自负盈亏打造的跨国流动性美德。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 援引布朗等人（Brown et al., 1997）论述，深入解构新自由主义[[Social Imaginary|社会想象]]如何将国家经济竞争力绑定于以国际标准衡量的教育质量，剖析[[OECD|经合组织]]多边监测与 [[PISA]] 如何将全球竞争压力内化为主权国家的国内政策议程（pp. 444–445, 447）。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 援引布朗等人（1997）论述，解构新自由主义[[Social Imaginary|社会想象]]如何将国家经济竞争力绑定于[[International Education|国际教育]]质量，揭示[[OECD|经合组织]]多边监测与 [[PISA]] 将全球竞争内化为国内政策议程的机制（pp. 444–445, 447）。
 
