@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 90
+fact_related_count: 96
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -32,6 +32,9 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[PISA Scientific Literacy]]"
   - "[[Problem Solving]]"
+  - "[[Commensuration]]"
+  - "[[Governing by Numbers]]"
+  - "[[Steering at a Distance]]"
   - "[[Variable]]"
   - "[[Rashomon Effect]]"
   - "[[Discourse]]"
@@ -50,7 +53,6 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Active Learning]]"
-  - "[[Governing by Numbers]]"
   - "[[Epistemology]]"
   - "[[Critique of PISA]]"
   - "[[Navigation Metaphor in Comparative Education]]"
@@ -58,6 +60,7 @@ related_concepts:
   - "[[Mediatised Governance]]"
   - "[[Falling Standards Template]]"
   - "[[Inquiry-Based Learning]]"
+  - "[[Social Imaginary]]"
   - "[[Center of Calculation]]"
   - "[[PISA Shock]]"
   - "[[Plaintive Comparison]]"
@@ -72,6 +75,8 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Systematic Review]]"
 related_persons:
+  - "[[Fazal Rizvi]]"
+  - "[[Bob Lingard]]"
   - "[[Wolfgang Mitter]]"
   - "[[Torsten Husén]]"
   - "[[José Luis García Garrido]]"
@@ -108,6 +113,7 @@ related_arguments:
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
   - "[[Argument_Zhao_2020_JEC]]"
   - "[[Argument_Mitter_2009_Europe]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_Li_2025_HSSC]]"
@@ -120,7 +126,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-05-17
-updated: 2026-10-11
+updated: 2026-10-13
 ---
 
 # PISA
@@ -178,7 +184,7 @@ updated: 2026-10-11
 
 > [!feature] 核心运行机制
 > - **周期性主测轮换** 每三年为一个周期，阅读、数学、科学依次作为主测领域，辅以财经素养、[[Creativity|创造性]]思维等创新模块。
-> - **跨国共同量表** 依托[[Item Response Theory|项目反应理论]]（IRT）与 Rasch 测量建立跨国均值（500 分）与标准差（100 分）量表，实现历时与跨国横向可比。
+> - **跨国共同量表与全球等值空间** 依托[[Item Response Theory|项目反应理论]]（IRT）与 Rasch 测量建立跨国均值（500 分）与标准差（100 分）量表，实现历时与跨国横向可比。[[Fazal Rizvi|法扎尔·里兹维（Fazal Rizvi）]]与[[Bob Lingard|鲍勃·林加德（Bob Lingard）]]借用阿兰·德罗西埃（Alain Desrosières, 1998）的统计社会学概念指出，PISA 通过[[Commensuration|通约化]]凭空创造出一个全球可通约的“等值空间”（space of equivalence），在方法论上优先保障跨国测量的信度（reliability）与可比性，而将构念效度（construct validity）与本体论异质性置于次要地位，并通过尼古拉斯·罗斯（Nikolas Rose, 1999）所称的“数字即政策”（[[Governing by Numbers|policy as numbers]]）与[[Steering at a Distance|远处掌舵]]将复杂的价值判断隐形化。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 > - **背景[[Questionnaire|问卷]]与社会学透视** 采集学生家庭社会经济文化地位（ESCS）、学校资源、教师教学法等丰富[[Variable|变量]]，为教育公平与效能分析提供海量微观数据。
 > - **数据可塑性与[[Rashomon Effect|罗生门效应]]（Data Plasticity & Rashomon Effect）** PISA 成果发布体系由长篇技术主报告、简明国别简报（Country Notes）与精要简讯（PISA in Focus）构成；庞大的指标网络赋予评估数据极高的[[Discourse|话语]]可塑性，使同一批数据能被不同立场的国内政治精英、游说团体与大众媒体各取所需，剪裁为相互冲突的政策依据与“多重真相”。[[Argument_Grey_2018_CE|(Grey & Morris, 2018)]]
 
@@ -256,6 +262,7 @@ updated: 2026-10-11
 > - **学科认识论矮化与航海隐喻瓦解** 刚性指标收编了比较教育咨询生态，消解了历史文化纵深诠释传统（详见 [[Critique of PISA]] 命题二）。
 > - **数据可塑性与[[Mediatised Governance|媒介化治理]]推诿** PISA 庞大数据网络赋予其极高[[Discourse|话语]]可塑性，国内政客常勾连大众媒体的“[[Falling Standards Template|标准下滑模板]]”虚构危机推销私有化改革，并在分权体制中互卸败绩责任（详见 [[Critique of PISA]] 命题三与 [[Mediatised Governance]]）。
 > - **教学因果误读与高分低趣悖论** 问卷缺陷引发“探究负相关”假象，事实上教师[[Inquiry-Based Learning|指导式探究]]具有显著正效应；同时东亚等高分体系普遍伴生高焦虑与低幸福感（详见 [[Critique of PISA]] 命题四与 [[PISA Scientific Literacy]]）。
+> - **形式入学机会对实质教育正义的窄化** 尽管 PISA 背景问卷揭示了学生社会经济地位（SES）与学业成就之间的显著相关性（以及男生在阅读素养上的普遍劣势），大卫·伯利纳（David Berliner, 2007）以及[[Fazal Rizvi|里兹维]]与[[Bob Lingard|林加德]]指出，PISA 将教育公平狭隘地界定为形式上的入学机会（formal access），回避了更深层的教育正义（educational justice）与结构性不平等问题，使公平议题沦为支撑[[Social Imaginary|知识经济社会想象]]与人力资本最大化的附属指标。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–449)]]
 
 ---
 

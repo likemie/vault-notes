@@ -8,9 +8,9 @@ summary: "公共政策与比较政治经济学中系统比较不同国家、地�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 39
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 42
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -57,14 +57,17 @@ related_methods:
 related_facts:
   - "[[Erasmus Programme]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[OECD]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
 confidence: high
 status: completed
 created: 2026-10-06
-updated: 2026-10-11
+updated: 2026-10-13
 ---
 
 # Comparative Policy Analysis
@@ -191,5 +194,6 @@ updated: 2026-10-11
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 针对美欧半导体产业政策构建涵盖治理主体、政策目标、资金规模、政策工具与[[Policy Conditionalities|制度化附加条件]]的五维比较[[Analytic Framework|分析框架]]，揭示美国集中式补贴模式与欧盟去中心化协调者模式的制度差异与效能分化。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 采用跨大西洋与跨国比较政策分析，对比欧盟[[Erasmus Programme|伊拉斯谟计划]]将[[Student Mobility|学生流动性]]建构为世界公民积极资本与美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》将学生流动性[[Coding in Qualitative Research|编码]]为病态化漂泊问责借口的[[Discourse|话语]]机制，并系统比较中、美、西、英、印等国对流动学童的空间教育治理政策。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 采用跨国比较政策分析视角，将西班牙教育置于欧盟多国治理坐标系下，系统对比英、美、德、法、意与北欧的分权模式演变，解构西班牙教育激进分权导致的行政膨胀与中等学制平庸化困境。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 运用历史与跨国比较政策分析方法，对比[[OECD]]在1960–1990年社会民主主义妥协期与1990年代中期后新自由主义期的治理架构、工作模式及[[PISA]]指标体系，揭示国际组织从政府间论坛向独立跨国政策行动者的制度转型。
 
 ---

@@ -7,7 +7,7 @@ aliases:
 summary: "以知识、创新、高等教育、研发与高阶思维技能作为价值创造与全球竞争核心要素的经济形态；在技术自动化与AI浪潮下，其战略重心从静态专业知识转向高阶认知能力，但面临宏观政策宣示与微观学业评价滞后的深层制度悖论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 54
+related_count: 65
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -42,17 +42,25 @@ related_concepts:
   - "[[Self-Entrepreneur]]"
   - "[[Learning Gain]]"
   - "[[Constructive Alignment]]"
+  - "[[Epistemology]]"
   - "[[Market Fundamentalism]]"
+  - "[[Network Governance]]"
+  - "[[Social Imaginary]]"
+  - "[[Learning Economy]]"
+  - "[[Document]]"
   - "[[Intellectual Capital]]"
   - "[[National Innovation System]]"
   - "[[STEM Education]]"
+  - "[[Technology Transfer]]"
   - "[[Progressive Neoliberalism]]"
   - "[[Innovation Hub]]"
   - "[[Public Value]]"
+  - "[[Theoretical Perspective]]"
 related_theories:
   - "[[Human Capital Theory]]"
-  - "[[Stokes' Quadrant Model of Scientific Research]]"
+  - "[[Pasteur's Quadrant]]"
   - "[[Developmental Network State]]"
+  - "[[Social Capital Theory]]"
   - "[[Systems of Innovation]]"
   - "[[Cultural Political Economy]]"
 related_methods:
@@ -63,6 +71,8 @@ related_instruments:
   - "[[Collegiate Learning Assessment]]"
 related_persons:
   - "[[Fred Block]]"
+  - "[[Fazal Rizvi]]"
+  - "[[Bob Lingard]]"
   - "[[Friedrich List]]"
 related_facts:
   - "[[OECD]]"
@@ -77,12 +87,13 @@ related_arguments:
   - "[[Argument_Rizvi_2022_Springer]]"
   - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
   - "[[Argument_Block_2008_PS]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Amos_2022_Springer]]"
   - "[[Argument_Erfurth_2022_education-hubs]]"
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 
 # Knowledge-Based Economy
@@ -197,16 +208,27 @@ updated: 2026-10-12
 
 ---
 
+### 命题六　国际组织通过建构知识经济的社会想象将社会公平、性别平权与社会凝聚力重构为经济效率的附属工具
+
+> [!concept-lens] 知识经济社会想象与社会价值的经济基要主义重构
+> 探讨跨国组织如何依托内生新增长理论将知识经济塑造为排他性的全球政策常识，并在“经济基要主义”逻辑下收编传统的社会民主主义目标。
+
+> [!claim] Rizvi, F., & Lingard, B.
+> **从“知其然”向“知其所以操作”转型及社会议题的工具化** [[Fazal Rizvi|法扎尔·里兹维（Fazal Rizvi）]]与[[Bob Lingard|鲍勃·林加德（Bob Lingard）]]指出，[[OECD]] 于 1996 年发布的《知识经济》（*The Knowledge Based Economy*）报告整合保罗·罗默（Paul Romer, 1986）与彼得·豪伊特（Peter Howitt, 2000）的内生新增长理论，将知识与技术进步界定为经济活动的内生核心，确立了一套席卷世界银行、联合国教科文组织与欧盟的全球[[Social Imaginary|社会想象]]。这一想象要求学习重心从正规、编码化的“知其然”（knowing that）转向网络化、商业化的“知其所以操作”（knowing how），推动民族国家转型为以持续[[Lifelong Learning|终身学习]]为特征的“[[Learning Economy|学习型经济]]”（Foray & Lundvall, 1996），同时压抑并排斥了“替代性经济的幽灵”（Kenway et al., 2006）。在乔治·索罗斯（George Soros, 1998）所称的“经济基要主义”支配下，知识经济社会想象并未在字面上抛弃机会均等、女性平权与[[Social Capital Theory|社会资本]]，而是将女性受教育简化为减贫与提高生产率的工具（忽视全球服务业弹性用工对女性的结构性压迫，Scholte, 2000），并将社会凝聚力缩减为修复市场排斥、维持知识经济运转的剩余性手段（Thomson, 1999）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446, 448–452)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **地缘战略定位** | 大学被重构为国家[[Intellectual Capital\|知识资本]]与全球博弈核心基础设施 | 高教财政扩张、教育出口、国际化枢纽政策 | [[Argument_Moisio_2022_Springer\|Moisio (2022)]]; [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] |
-> | **能力[[Paradigm\|范式]]跃迁** | 自动化压力迫使价值来源从事实记忆转向批判与创造技能 | 劳动力技能转型、课程改革、人才需求测绘 | [[Argument_Bouckaert_2023_OECD\|Bouckaert / OECD (2023)]] |
+> | **能力[[Paradigm\|范式]]演进** | 自动化压力迫使价值来源从事实记忆转向批判与创造技能 | 劳动力技能转型、课程改革、人才需求测绘 | [[Argument_Bouckaert_2023_OECD\|Bouckaert / OECD (2023)]] |
 > | **主体性规训** | 通过技能话语将劳动力市场风险转化为个体终身投资义务 | [[Lifelong Learning\|终身学习]]、继续教育、自我企业家精神 | [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022)]]; [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] |
 > | **评价断裂悖论** | 宏观政策高阶能力宣示与微观学业考核事实导向严重脱节 | 高教质量保障、学习增益测量、考试制度改革 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] |
 > | **网络治理与虚构商品** | 后工业巴斯德象限创新驱动国家向网络经纪转型，但知识商品化阻滞了跨组织协同 | [[National Innovation System\|国家创新体系]]转型、产学研联合攻关与知识产权制度反思 | [[Argument_Block_2008_PS\|Block (2008)]] |
+> | **社会想象与社会价值重构** | 国际组织建构知识经济社会想象，推动“知其所以操作”转型并将公平与社会凝聚力工具化 | 跨国教育政策话语分析、OECD 指标治理、性别与社会资本政策批判 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] |
 
 ---
 
@@ -260,3 +282,4 @@ updated: 2026-10-12
 > - [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] — 揭示后福特永久创新经济如何驱动[[Further Education\|继续教育]]与企业培训的结构性膨胀。
 > - [[Argument_Erfurth_2022_education-hubs\|Erfurth (2022)]] — 比较新加坡与[[UAE Education Hub Projects\|阿联酋教育枢纽]]，批判 KBE 话语掩盖制度建设不足的深层缺陷。
 > - [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022)]] — 揭示 21 世纪技能话语作为 KBE 在个体主体性层面的微观[[Operationalization\|操作化]]与[[Self-Entrepreneur\|自我企业家]][[Disciplina and Doctrina\|规训]]。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] — 剖析OECD如何依托新增长理论建构知识经济的全球[[Social Imaginary\|社会想象]]，推动学习向操作性技能与[[Learning Economy\|学习型经济]]转型，并将性别平权与社会凝聚力重构为经济效率工具。

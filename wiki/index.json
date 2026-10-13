@@ -9950,6 +9950,20 @@
     ]
   },
   {
+    "title": "Social Imaginary",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Social Imaginary.md",
+    "aliases": [
+      "社会想象",
+      "现代社会想象",
+      "知识经济的社会想象",
+      "全球社会想象",
+      "Social Imaginaries",
+      "Modern Social Imaginaries",
+      "Social Imaginary of the Knowledge Economy"
+    ]
+  },
+  {
     "title": "Social Regime",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Social Regime.md",
@@ -35339,6 +35353,11 @@
     "title": "Argument_Olmos_Torres_2009_StateTheories",
     "type": "argument",
     "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Olmos_Torres_2009_StateTheories.md"
+  },
+  {
+    "title": "Argument_Rizvi_Lingard_2009_OECDEducationPolicy",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rizvi_Lingard_2009_OECDEducationPolicy.md"
   },
   {
     "title": "Argument_Rust_2009_Reflections",

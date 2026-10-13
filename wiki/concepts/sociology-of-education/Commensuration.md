@@ -9,10 +9,10 @@ aliases:
 summary: "将不同性质的异质事物转化为基于同一通用尺度或公分母的标准化可比量化指标的社会过程，为跨情境绩效评价与资源配置确立形式公平，但伴随着质性情境剥离、统计公平与地域公平冲突及策略性博弈操纵等治理代价"
 type: concept
 domain: "sociology-of-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/sociology-of-education
   - theme/datafication
@@ -31,10 +31,17 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_arguments:
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+related_persons:
+  - "[[Fazal Rizvi]]"
+  - "[[Bob Lingard]]"
+related_facts:
+  - "[[OECD]]"
+  - "[[PISA]]"
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-13
 ---
 
 # Commensuration
@@ -82,13 +89,15 @@ updated: 2026-09-18
 >   利用全域集中数据库与算法模型，跨越地理邻近性，将学校与全州范围内统计特征最相似的“统计双胞胎”进行对标比较（如汉堡社会指数分级匹配、马萨诸塞州 RADAR/DART 统计同伴组），重构学校的参照群体认知[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 6–7)]]。
 > - **微小决策放大为宏观治理后果**
 >   在构建通约指标时，算法过滤规则、指标纳入与权重分配等表面上的技术微调（如决定是否纳入学校氛围调查、如何设定年度改善期望值），实质上是权威性裁定哪些学校合格、哪些学校需要国家行政接管的政治决策[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 3, 9)]]。
+> - **跨国“等值空间”（Space of Equivalence）与信度优先逻辑**
+>   阿兰·德罗西埃（Alain Desrosières, 1998）与[[Fazal Rizvi|法扎尔·里兹维（Fazal Rizvi）]]、[[Bob Lingard|鲍勃·林加德（Bob Lingard）]]指出，在[[OECD]]主导的[[PISA]]等跨国大规模测评中，通约机制凭空创造出一个全球可比较的“等值空间”；为此，测量专家在方法论上将跨国信度（reliability）与可比性置于构念效度（construct validity）与本体论异质性之上，使复杂的价值决断隐形化[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 447–448)]]。
 
 ---
 
 ## 围绕概念形成的命题
 
-> [!claim] 通约是兼具能力赋权与控制延伸的社会-技术[[Assemblage\|装配]]
-> 通约机制赋予了中央行政机关全景透视教育系统的能力，但这种治理能力依赖于对教育质态的高度剪裁与还原；一旦度量标准固化，将不可避免地导致现实与度量之间的脱节，引发学校主体的系统性博弈行为[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 7, 9–10)]]。
+> [!claim] 通约是兼具能力延伸与控制规训的社会-技术[[Assemblage\|装配]]
+> 通约机制赋予了中央行政机关与超国家组织全景透视教育系统的能力，但这种治理能力依赖于对教育质态的高度剪裁与还原；一旦度量标准固化，将不可避免地导致现实与度量之间的脱节，引发学校主体的系统性博弈行为[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 7, 9–10)]]。
 
 ---
 
@@ -100,3 +109,11 @@ updated: 2026-09-18
 > | **比较基准选择** | 统计相似性（跨地域同质组对比） | 地理邻近性（本地社区直观参照） | 学校实践者倾向于将周边邻校视作竞争与合作参照，抵制由算法生成的“遥远但统计相似”学校，迫使行政部门转向多维动态定制选项[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 7)]]。 |
 > | **指标更新时效** | 长期稳定基准（维持历时可比性） | 动态敏捷修正（反映生源变迁） | 汉堡社会指数等通约工具数年未更新会导致学校遭遇制度性失真再现，若频繁调整则破坏时间序列纵向可比性并削弱政策效力[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 6)]]。 |
 > | **问责挂钩后果** | 强化奖惩绑定（驱动系统改进） | 诱发策略博弈（扭曲原始数据） | 一旦通约得分与资源划拨（如补偿性师资经费）或高利害后果（如学校托管）绑定，即诱发学校虚报低社会经济生源或修改测评记录等博弈行为[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 9–10)]]。 |
+
+---
+
+## 相关研究
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019)]] — 比较德国与美国州级学校数据监测系统，揭示通约机制如何通过统计同伴组制造公平比较表象并诱发微观指标博弈。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] — 结合Desrosières的“等值空间”理论，剖析[[OECD]]如何通过[[PISA]]制造全球可通约测量空间并在方法论上以信度压倒构念效度。

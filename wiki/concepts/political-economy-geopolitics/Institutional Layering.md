@@ -12,7 +12,7 @@ related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
-concept_field: "political-economy-geopolitics"
+concept_field: political-economy-geopolitics
 tags:
   - theme/institutional-change
   - theme/governance
@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-13
 ---
 
 # Institutional Layering
