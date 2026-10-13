@@ -7,10 +7,10 @@ aliases:
   - 学习曲线效应
   - 经验曲线
   - experience curve
-summary: "涵盖微观制造经验积累与宏观创新系统演进的双重经济分析范式。微观上指累计产量翻番带来单位生产成本下降20%–30%的动态学习效应；宏观上指在全球化与技术快速变迁中，竞争力取决于动态学习与知识吸收能力而非静态要素存量的经济形态。"
+summary: "涵盖微观制造经验积累与宏观创新系统演进的双重经济分析范式。微观上指累计产量翻番带来单位生产成本下降20%–30%的动态学习效应；宏观上指在全球化与技术快速变迁中，竞争力取决于动态学习与知识吸收能力而非静态要素存量；在新增长理论与经合组织政策框架中，更指财富创造取决于沟通性互动学习与全生命周期技能更新，驱动经济体向终身学习形态转型。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 24
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,33 +28,43 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Intellectual Capital]]"
   - "[[Absorptive Capacity]]"
+  - "[[Lifelong Learning]]"
   - "[[Variable]]"
   - "[[Document]]"
   - "[[Creativity]]"
   - "[[Experiential Learning]]"
   - "[[Linear Model of Innovation]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Theoretical Knowledge]]"
+  - "[[Procedural Knowledge]]"
   - "[[Paradigm]]"
   - "[[Multi-channel Interactive Learning Model]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[Knowledge-that and Know-how-to]]"
   - "[[Knowledge Production]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Technological Trajectories]]"
   - "[[Path Dependence]]"
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Schnee_1978_RP]]"
   - "[[Argument_Caraca_2009_TFSC]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
 related_persons:
   - "[[Bengt-Åke Lundvall]]"
   - "[[Jerome E. Schnee]]"
+  - "[[Fazal Rizvi]]"
+  - "[[Bob Lingard]]"
 related_facts:
   - "[[National Aeronautics and Space Administration]]"
+  - "[[OECD]]"
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-09
+updated: 2026-10-13
 ---
 # Learning Economy
 
@@ -78,7 +88,12 @@ updated: 2026-10-09
 > [!citation-card] [[Bengt-Åke Lundvall|伦德瓦尔]]等论学习经济与创新能力
 > 在全球化与技术加速变迁的环境中，个人、企业和经济体的竞争力越来越取决于其学习能力，而非静态的知识存量或传统的生产要素禀赋。学习经济不是对知识经济的替代，而是对其的深化——它强调的不是拥有多少知识，而是能够多快地学习、遗忘旧知识和吸收新知识。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 864)]]
 >
-> *In the learning economy, the competitive advantage of individuals, firms, regions and countries depends on their capability to learn, and not on their static knowledge stock or factor endowments... ([[Argument_Caraca_2009_TFSC|Caraça et al., 2009, p. 864]])*
+> *In the learning economy, the competitive advantage of individuals, firms, regions and countries depends on their capability to learn, and not on their static knowledge stock or factor endowments...*
+
+> [!citation-card] 福雷与伦德瓦尔论向学习型经济转型与互动学习
+> 伴随新增长理论的兴起，多米尼克·福雷与本特-奥克·伦德瓦尔（Foray & Lundvall, 1996）指出，一个国家利用知识经济红利的能力，根本取决于其能以多快的速度转型为“学习型经济”。学习绝不仅指利用新技术获取全球既有知识的能力，更意味着利用技术与他人展开沟通互动以提升生产力。这意味着个体、企业与国家创造财富的能力，与其学习和分享创新的能力成正比；若要保持这种能力，学习就必须突破正规学校教育的时空限制，成为贯穿全生命周期的常态化实践。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 446)]]
+>
+> *...a nation's capacity to take advantage of the knowledge economy depends on how quickly it can become a 'learning economy'. Learning, Foray and Lundvall argue, should not only involve the ability to use new technologies to access global knowledge, but should also mean using technology to communicate with other people about how to improve productivity. This implies that individuals, corporations, and nations create wealth in proportion to their capacity to learn and share innovation. If this is so then learning must be continuous and not restricted to formal schooling – that is, it must be [[Lifelong Learning]].*
 
 > [!boundary]- 概念边界
 > - **不等于 静态规模经济（Economies of Scale）** 静态规模经济取决于企业在特定时间节点建立的工厂产能与瞬时生产规模，表现为单批次固定资产折旧分摊；而学习经济取决于自开工以来的**历史累计总产量**，体现为技术人员试错经验累积、生产良率提升与工艺改进。
@@ -160,6 +175,16 @@ updated: 2026-10-09
 
 ---
 
+### 命题四　向学习型经济转型的制度敏捷度决定知识快速折旧下国家与个体的财富创造能力
+
+> [!concept-lens] 新增长理论与[[Lifelong Learning|终身学习]]转型机制
+> 探讨在新增长理论视阈下，为什么静态知识占有退居次席，而跨组织互动沟通与全生命周期技能迭代成为财富创造的决定性机制。
+
+> [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]] (2009)
+> **向学习型经济演进与终身学习命令的确立** 法扎尔·里兹维与鲍勃·林加德指出，新增长理论（如 Romer, 1986; Howitt, 2000）将知识视为内生于经济活动的核心[[Variable|变量]]；多米尼克·福雷与本特-奥克·伦德瓦尔（Foray & Lundvall, 1996）进一步阐明，在现代经济中，静态的事实性与[[Theoretical Knowledge|理论性知识]]（knowing that）快速折旧，对社会关系网络与实践转化诀窍（[[Procedural Knowledge|knowing how]]）的理解变得至关重要。一个国家能否从[[Knowledge-Based Economy|知识经济]]中获益，根本取决于其转型为“学习型经济”的速度。在学习型经济中，学习不仅是运用新技术检索全球知识，更是通过人际沟通与协同互动提升生产力；个体、企业和国家的财富创造能力，与其学习和分享创新的能力直接成正比。这种逻辑促使[[OECD|经合组织]]将政策重心从传统的学校正规学制，彻底推向贯穿全生命周期的[[Lifelong Learning|终身学习]]体系，重塑了全球教育治理的制度议程。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 学习经济相关命题归纳
@@ -168,6 +193,7 @@ updated: 2026-10-09
 > | **微观制造学习曲线** | 累计经验积累使单位产品成本每翻一番下降 20%–30%，公共采购托底是跨越早期高成本门槛的关键 | 资本与技术密集型新兴制造工业（如半导体、光伏、电池） | [[Argument_Schnee_1978_RP\|Schnee (1978)]]; Arrow (1962) |
 > | **宏观动态学习能力** | 竞争优势源于知识获取、吸收与遗忘的敏捷学习流速而非静态存量 | 全球化竞争与技术快速变迁的现代[[Knowledge-Based Economy\|知识经济]]体 | [[Argument_Caraca_2009_TFSC\|Caraça et al. (2009)]]; Lundvall & Johnson (1994) |
 > | **多通道互动学习协同** | 经验互动学习（DUI）与研发探索（STI）具有同等重要性，突破了线性科学观 | 企业复杂系统创新与国家[[Systems of Innovation\|创新系统]]治理 | [[Argument_Caraca_2009_TFSC\|Caraça et al. (2009)]]; Jensen et al. (2007) |
+> | **新增长与学习型经济转型** | 静态知识快速折旧，财富创造取决于人际沟通学习与分享创新的敏捷度，迫使教育治理转向终身学习 | 国家宏观创新战略与全生命周期技能政策演进 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009, pp. 445–446)]]; Foray & Lundvall (1996) |
 
 ---
 
@@ -177,7 +203,8 @@ updated: 2026-10-09
 > - **1962 — [[Learning by Doing|干中学]]（Learning by Doing）微观模型奠基** 肯尼斯·阿罗（Kenneth Arrow）发表经典论文，正式建立通过生产实践积累经验从而提高劳动生产率的内生增长机制。
 > - **1968–1978 — 经验曲线与高技术产业微观实证** 波士顿咨询集团（Boston Consulting Group, BCG）推广经验曲线模型；施奈（[[Argument_Schnee_1978_RP|Schnee, 1978]]）结合美国微电子与计算机工业数据，确立了累计产量每翻一番成本下降 20%–30% 的半导体学习经济定律，并论证了政府采购托底在启动学习曲线中的制度功能。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–8)]]
 > - **1994 — 宏观学习经济（Learning Economy）[[Paradigm|范式]]提出** 本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）与比约恩·约翰逊（Björn Johnson）将学习概念从车间制造扩展至宏观经济学与制度创新理论，提出以互动学习为核心特征的现代“学习型经济”分析视角。
-> - **2007–2009 — [[Multi-channel Interactive Learning Model|多通道互动学习模型]]与创新模式整合** 延森等（Jensen et al. 2007）区分 STI 与 DUI 创新模式；卡拉萨等（Caraça et al. 2009）提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，将学习经济确立为理解企业三类知识池互动与界面转换的宏观分析基石。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 864–866)]]
+> - **1996 — [[OECD|经合组织]]《[[Knowledge-Based Economy|知识经济]]中的教育与增长》确立向学习型经济转型** 多米尼克·福雷与本特-奥克·伦德瓦尔（Foray & Lundvall, 1996）在经合组织政策框架中提出，学习型经济的核心在于利用技术与他人沟通以提高生产力，财富创造取决于学习与分享创新的能力，奠定了将[[Lifelong Learning|终身学习]]作为新经济核心支柱的政策基础。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
+> - **2007–2009 — [[Multi-channel Interactive Learning Model|多通道互动学习模型]]与创新模式整合** 延森等（Jensen et al. 2007）区分 STI 与 DUI 创新模式；若昂·卡拉萨等学者提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，将学习经济确立为理解企业三类知识池互动与界面转换的宏观分析基石。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 864–866)]]
 
 ---
 
@@ -185,11 +212,17 @@ updated: 2026-10-09
 
 > [!debates] 学术争议
 >
-> > [!axis] 经验曲线的学习锁定 vs. 激进[[Technological Trajectories|技术轨道]]的[[Paradigm|范式]]跃迁
+> > [!axis] 经验曲线的学习锁定 vs. 激进[[Technological Trajectories|技术轨道]]的[[Paradigm|范式]]突破
 > > 围绕过度依赖生产线上的渐进式学习经济是否会导致企业陷入次优[[Path Dependence|技术锁定]]的争议。
 > >
 > > - **经验效率学派（[[Argument_Schnee_1978_RP|Schnee, 1978]]; BCG, 1968）** 强调在既定技术轨道上通过规模制造迅速压低成本是构筑产业竞争壁垒和实现商业普及的最有效手段。
 > > - **技术锁定与能力陷阱批评（Arthur, 1989; Levinthal & March, 1993）** 指出过分专注于既有工艺的学习曲线优化会产生“利用性惯性”，使企业对新一代革命性技术架构（如从分立器件到集成电路、从双极型到 MOS 器件）产生认知盲区，沦为“能力陷阱”。
+>
+> > [!axis] [[Coding in Qualitative Research|编码]]技术获取 vs 沟通性互动学习与全域适应力
+> > 学习型经济的核心机制是将新工具作为检索既有信息的手段，还是重塑人际沟通与组织[[Innovation Ecosystem|创新生态]]？
+> >
+> > - **技术工具论** 将学习窄化为劳动力熟练操作信息通信技术的技能培训，侧重编码知识的被动输入。
+> > - **新增长与互动学习理论（Foray & Lundvall, 1996; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）** 强调学习型经济的本质是通过人际交往与协同网络改善生产力，将学习重心从“[[Knowledge-that and Know-how-to|知其然]]（knowing that）”转向“知其所以然与操作诀窍（[[Procedural Knowledge|knowing how]]）”，并在整个社会建构面向终身创新的适应性制度。
 >
 > > [!axis] 学习型经济中的知识不对称与区域分化
 > > 围绕全球学习型经济是否会加剧不发达地区在[[Knowledge Production|知识生产]]网络中的边缘化展开争论。
@@ -204,3 +237,4 @@ updated: 2026-10-09
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统剖析战后美国半导体与计算机产业，实证确立了累计生产经验翻番带动器件成本剧降 20%–30% 的微观学习经济机制，揭示了公共采购在释放学习效应中的催化功能。
 > - [[Argument_Caraca_2009_TFSC|Caraça et al. (2009)]] — 构建[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，将学习经济确立为超越传统线性研发模型的宏观创新分析[[Paradigm|范式]]，系统阐释了 DUI/STI 模式与三类互补知识池的吸收机制。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 445–446)]] — 结合新增长理论剖析[[OECD|经合组织]]如何将[[Knowledge-Based Economy|知识经济]]推进为学习经济，论证学习与财富创造正相关并驱动教育治理转向[[Lifelong Learning|终身学习]]。
