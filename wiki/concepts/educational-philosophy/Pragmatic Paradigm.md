@@ -8,10 +8,10 @@ aliases:
 summary: "先完整论述古典哲学层面（杜威等的经验、探究与行动后果），再阐述延伸出的研究方法论层次（混合方法研究的问题驱动、适合目的与方法自由）。"
 type: concept
 domain: "educational-philosophy"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 54
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - research-philosophy
   - mixed-methods
@@ -48,12 +48,10 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Research Ethics]]"
   - "[[Technological Republic]]"
-  - "[[Knowledge-Based Economy]]"
-  - "[[Steering at a Distance]]"
-  - "[[Governing by Numbers]]"
 related_theories:
   - "[[Pluralism]]"
   - "[[Structural Functionalism]]"
+  - "[[Human Capital Theory]]"
   - "[[Social Justice Theory]]"
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -64,13 +62,13 @@ related_persons:
   - "[[Brian Holmes]]"
   - "[[Karl Popper]]"
   - "[[George Bereday]]"
-  - "[[Herbert Hoover]]"
-  - "[[Alexander Karp]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
+  - "[[Herbert Hoover]]"
+  - "[[Alexander Karp]]"
 related_facts:
-  - "[[Operation Paperclip]]"
   - "[[OECD]]"
+  - "[[Operation Paperclip]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
@@ -78,8 +76,8 @@ related_arguments:
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14]]"
-  - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
 status: active
 created: 2026-06-14
@@ -242,6 +240,16 @@ updated: 2026-10-13
 
 ---
 
+### 命题六（全球治理与去政治化层）　超国家组织借助实用主义范式将教育目的伦理辩论降格为劳动力精算与技术官僚规约
+
+> [!concept-lens] 全球政策治理与去政治化话语维度
+> 探讨实用主义在当代跨国治理实践中被工具化挪用为“解题理性（Problem-Solving Rationality）”的机制：将新自由主义意识形态伪装为中立务实的实效工具，以技术官僚管理取代教育本质价值的民主协商。
+
+> [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]]
+> **实用主义转向与宏观治理去政治化** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD，简称经合组织）在冷战后发生根本性政策转向，放弃了关于教育本质目的、社会学条件与民主伦理的广泛哲学辩论，将全部治理能量聚焦于劳动力技能精算与绩效管理的“实用主义范式（Pragmatic Paradigm）”。这种以解决问题为幌子的实用主义操作，不仅没有消除意识形态，反而将新自由主义对经济效率与[[Human Capital Theory|人力资本]]增值的偏好包装为不可置疑的技术常识，实现了全球教育治理深层的去政治化。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 451–452)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -252,6 +260,7 @@ updated: 2026-10-13
 > | **跨国解耦与功能性拆解** | 层次三：实践与跨国层 | 探讨危机语境下哲学理想与方法手段的解耦 | 比较教育与跨国知识转移 | [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]]; [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] |
 > | **假设-演绎与实用互动论** | 层次四：比较教育学层 | 依托杜威问题法构建假设-演绎比较范式，突破功能主义垄断 | 比较教育方法论与范式争鸣 | [[Brian Holmes\|Holmes (1965)]]; [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] |
 > | **工程求真与反教条认识论** | 层次五：工程治理层 | 走下神坛投身具体系统运作，以物理代码实测检验理论 | 现代软件工程哲学与国家技术治理 | Dewey (1922); [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14\|Karp & Zamiska (2025, Ch. 14)]] |
+> | **劳动力精算与治理去政治化** | 层次六：全球治理层 | 借助实用主义解题理性将教育伦理辩论降格为绩效精算 | 超国家治理与全球教育政策转型 | [[Fazal Rizvi\|Rizvi]] & [[Bob Lingard\|Lingard]] (2009) |
 
 ---
 
@@ -261,6 +270,7 @@ updated: 2026-10-13
 > - **19世纪末–20世纪初 — 哲学起源（哲学层面）** Peirce, James, Mead 与 [[John Dewey|杜威]] 建立实用主义哲学体系，重构经验、探究、民主与行动后果；1922年杜威发表《实用主义美国》，阐发深入具体事物运作机理的实验精神。
 > - **1960s–1970s — 比较教育方法论论争与实用互动论（比较教育学层）** [[Brian Holmes|布莱恩·霍姆斯]]（Holmes, 1965）借鉴[[John Dewey|杜威]]问题求解逻辑提出“[[Hypothesis|假设]]-演绎[[Problem Approach|问题法]]”，掀起与归纳法的[[Paradigm|范式]]论争；“实用互动论”被确认为 1970 年代打破[[Structural Functionalism|结构功能主义]]实证霸权的核心批判范式之一。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 128–129, 136)]]
 > - **1990s–2000s — 方法论[[Paradigm|范式]]奠基（方法论层次）** Cherryholmes (1992), Patton (1990), Tashakkori & Teddlie (2010), Johnson & Onwuegbuzie (2004), Denscombe (2008), Morgan (2007) 将实用主义确立为[[Mixed Methods Research|混合方法研究]]的官方哲学基础。
+> - **2000 年代 — 超国家治理的技术主义规约与实用主义去政治化** 里兹维与林加德揭示[[OECD|经合组织]]如何放弃教育本质目的与民主伦理的广泛辩论，将治理能量聚焦于劳动力技能精算与绩效管理的“实用主义范式”，将新自由主义意识形态包装为中立务实的解题工具。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 451–452)]]
 > - **2010s至今 — 教育研究应用、跨国解构与现代工程[[Epistemology|认识论]]复兴** 深入[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]]与[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]教材体系；在比较教育中被用来分析实用主义哲学在非西方社会的跨国转移与结构性拆解（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024]]）；并在现代科技哲学中被卡普与扎米斯卡（2025）升华为[[Engineering Mindset|工程思维]]与反官僚推诿的核心认识论。
 
 ---
@@ -279,6 +289,12 @@ updated: 2026-10-13
 > > 批评者担心过度强调实用后果与“有效”（What works）可能流于无批判的技术主义，忽略对社会权力结构的反思。
 > >
 > > - **Cherryholmes (1992)** 提出批判实用主义（Critical Pragmatism），主张包含后现代转折与[[Social Justice Theory|社会正义理论]]透镜。
+>
+> > [!axis] 实用主义解题理性 vs 批判性规范价值审视
+> > 围绕全球政策治理中以实用主义工具理性为导向的指标管理，究竟是务实解决教育效能问题，还是在技术中立外衣下消解了教育的民主与伦理本质。
+> >
+> > - **技术官僚治理取向** 强调依托量化指标与实用技能干预，以“行之有效（What works）”解决劳动力市场匹配与公共治理问责问题。
+> > - **批判政策社会学取向（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）** 指责这种实用主义范式遮蔽了关于教育公共善与社会平等的深层政治决断，将教育降格为服务资本竞争的技术工具。
 
 > [!warning] 适用局限
 > 实用主义不是无原则的“怎么都行”（Anything Goes）；它不能替代研究者对价值立场、[[Research Ethics|研究伦理]]与权力关系的审视，亦无法消除方法实施本身的质量缺陷。（Denscombe, 2008；[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p. 622]]）
@@ -293,6 +309,7 @@ updated: 2026-10-13
 > - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 梳理比较教育学术史中的[[Paradigm|范式]]演化，阐述霍姆斯基于[[John Dewey|杜威]]实用主义建立的[[Hypothesis|假设]]-演绎[[Problem Approach|问题法]]，并确认实用互动论在挑战功能主义单一霸权中的范式地位。
 > - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 揭示实用主义[[Paradigm|范式]]（民主目标与渐进方法）在民国中国跨国转移中的拆解与[[Recontextualization|本土重构]]。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 追踪实用主义范式在建国后中国教育政治[[Discourse|话语]]中的三重变形。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 451–452)]] — 揭示[[OECD|经合组织]]如何将教育治理窄化为劳动力技能核算的实用主义范式，遮蔽教育的民主与伦理目的。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 探讨实用主义哲学（杜威《实用主义美国》）对现代[[Engineering Mindset|工程思维]]与反教条经验[[Epistemology|认识论]]的奠基（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
 
 ---
@@ -311,4 +328,7 @@ updated: 2026-10-13
 > | [[Operation Paperclip]] | 事实 | 历史案例：国家安全危机中以行动后果与实际技术收益为首要考量的[[Engineering Pragmatism\|工程实用主义]]典范。 |
 > | [[Herbert Hoover]] | 人物 | 历史人物：阐述工程实践直接面对客观物理结果、拒绝语言辩解的实用主义责任观。 |
 > | [[Alexander Karp]] | 人物 | 现代学者：《[[Technological Republic\|技术共和国]]》作者，将实用主义重新激活为高科技组织与防务工程的治理认识论。 |
+> | [[OECD]] | 事实 | 治理机构：将实用主义范式作为跨国教育政策去政治化与技能绩效管理的技术装置。 |
+> | [[Fazal Rizvi]] | 人物 | 政策学者：与林加德共同揭示经合组织教育政策从民主论坛向实用主义技能精算的范式转型。 |
+> | [[Bob Lingard]] | 人物 | 政策学者：分析超国家组织如何借助实用主义解题理性掩蔽新自由主义经济基要主义。 |
 

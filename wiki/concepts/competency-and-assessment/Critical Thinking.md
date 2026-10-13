@@ -6,7 +6,7 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 109
+related_count: 116
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -374,7 +374,7 @@ updated: 2026-10-13
 > > 争论聚焦于批判性思维究竟应作为提升[[Human Capital Theory|人力资本]]生产率与职场[[Competitiveness|竞争力]]的去政治化工具，还是应承载审视不平等结构与公共权力的民主公民反思使命。
 > >
 > > - **[[Knowledge-Based Economy|知识经济]]与新人力资本视角（[[OECD|经合组织]]）** 将批判性思维界定为适应全球灵活经济的劳动力高阶解题技能与创新竞争力资源。
-> > - **批判教育社会学与[[Public Value|公共价值]]捍卫者（Rizvi & Lingard, 2009; Kenway et al., 2006）** 抨击知识经济[[Social Imaginary|社会想象]]对批判思维的功利性剥离，呼吁恢复其对市场前提、意识形态霸权与社会正义的民主反思力量。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 446)]]
+> > - **批判教育社会学与[[Public Value|公共价值]]捍卫者（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]; Kenway et al., 2006）** 抨击知识经济[[Social Imaginary|社会想象]]对批判思维的功利性剥离，呼吁恢复其对市场前提、意识形态霸权与社会正义的民主反思力量。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 446)]]
 
 > [!critique-method] 分类与测量风险
 > - **清单化还原** 将程序性且细腻的思维过程压缩为行动词，容易忽略倾向、视角、领域标准和任务语境。同一命令词的出现不能单独证明批判性思维已经发生。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 34–35)]]
