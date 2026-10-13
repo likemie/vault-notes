@@ -9,10 +9,10 @@ aliases:
 summary: "源自母学科（社会科学、人文学科或自然科学）的实质性理论框架。在混合方法研究中指从学科文献中提取、用以界定构念变量并统一整合质性与量化研究的理论透镜；在欧洲比较教育学中特指大学讲座教授基于普通教育学、历史学与社会哲学传统的学科本体理论，代表着抵制纯技术主义测量调查与捍卫学术自律的核心壁垒；在全球教育治理与知识经济中指以客观事实与理论命题为核心的“knowing that”，在追求程序性与商业化技能（knowing how）的新自由主义转向下面临工具化边缘。"
 type: concept
 domain: "research-methodology"
-related_count: 47
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 54
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - subject/research-methodology
   - paradigm/pragmatic

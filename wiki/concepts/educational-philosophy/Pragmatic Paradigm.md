@@ -48,6 +48,9 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Research Ethics]]"
   - "[[Technological Republic]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Steering at a Distance]]"
+  - "[[Governing by Numbers]]"
 related_theories:
   - "[[Pluralism]]"
   - "[[Structural Functionalism]]"
@@ -63,8 +66,11 @@ related_persons:
   - "[[George Bereday]]"
   - "[[Herbert Hoover]]"
   - "[[Alexander Karp]]"
+  - "[[Fazal Rizvi]]"
+  - "[[Bob Lingard]]"
 related_facts:
   - "[[Operation Paperclip]]"
+  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
@@ -73,10 +79,11 @@ related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-08
+updated: 2026-10-13
 ---
 
 # Pragmatic Paradigm

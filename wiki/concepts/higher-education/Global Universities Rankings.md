@@ -9,7 +9,7 @@ aliases:
 summary: "对高等教育机构进行比较性评估和排序的量化工具系统，已成为驱动大学竞争、政策调整和全球高教分层的重要基础设施。"
 type: concept
 domain: "higher-education"
-related_count: 52
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -60,6 +60,8 @@ related_methods:
   - "[[Analytic Framework]]"
 related_persons:
   - "[[José Luis García Garrido]]"
+  - "[[Fazal Rizvi]]"
+  - "[[Bob Lingard]]"
 related_facts:
   - "[[Academic Ranking of World Universities]]"
   - "[[National Research Council]]"
@@ -72,15 +74,16 @@ related_facts:
 related_arguments:
   - "[[Argument_Boyadjieva_2022_Springer]]"
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
   - "[[Argument_Zapp_2022_Springer]]"
   - "[[Argument_Thompson_2022_Promising_Student]]"
   - "[[Argument_Marginson_2025_ECNUROE]]"
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
-status: draft
+status: stable
 created: '2026-05-11'
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 
 # Global Universities Rankings
@@ -129,6 +132,8 @@ updated: 2026-10-12
 >   - 上海交通大学高等教育研究所于 2003 年发布首个多国综合性的[[Academic Ranking of World Universities|世界大学学术排名]]（ARWU）；英国《泰晤士高等教育》（Times Higher Education, THE）于 2004 年联合 QS 公司推出世界大学排名，将跨国竞争机制正式推向全球舞台（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p. 131]]）。
 > - **2005–2010 年 — 排名体系的多元扩散与指标离散**
 >   - 荷兰莱顿大学[[Science and Technology Studies|科学技术研究]]中心（CWTS Leiden Ranking）、西班牙[[National Research Council|国家研究委员会]] SCImago 机构排名与独立后的 QS 世界大学排名相继[[Emergence|涌现]]。不同体系的指标分歧导致同一高校排位剧烈震荡（例如香港大学在 2007 年不同榜单中排位从第 8 名到 300 名开外），印证了排名作为价值建构而非客观镜子的社会学属性（[[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp. 10–11]]）。
+> - **2000 年代 — 跨国排行榜治理与排名焦虑的政治学批判**
+>   - 里兹维与林加德等政策社会学家揭示，跨国绩效排行榜（league tables）已成为超国家教育治理的远程操控机制，引发主权国家与大学普遍的排名焦虑，将关于教育根本目的的公共讨论异化为追求榜单排位的技术合规算计。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 > - **2010 年代至今 — 全球扩散与南欧等外围国家的制度性脱节**
 >   - 全球 84% 以上的[[Research Universities|研究型大学]]建立专门机构跟踪排名并指导战略资源分配（Hazelkorn, 2015）。[[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（[[José Luis García Garrido]]）揭示，在南欧西班牙，即便高校全面对标[[Bologna Process|博洛尼亚进程]]的学制改革修辞，在 ARWU 和 THE 榜单前列依然彻底缺席；同时西班牙作为欧盟[[Erasmus Programme|伊拉斯谟计划]]最大留学生输入国，其[[Student Mobility|学生流动]]吸引力主要依赖气候、语言与生活成本，与全球排名的科研声誉呈现彻底的动机与指标脱节（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 332–333]]）。
 > - **2019 年至今 — [[UN Sustainable Development Goals|联合国可持续发展目标]]影响力排名的衍生**
@@ -192,7 +197,7 @@ updated: 2026-10-12
 > **[[Competitiveness|竞争性地缘政治装置]]的基础设施** 排名与指标化的运作不仅衡量竞争，更在根本上创造竞争。在排名诞生之前，全球高校之间并不天然处于可排序、同质化的零和博弈之中；排名通过裁定指标（论文引用、师生比、国际化率）并赋予权重的操作，将异质机构转化为同质可比单位。这一过程体现出排名的生产性：它在声称描述大学的同时规定了何为优质大学，进而驱使大学开发出以在线自评（[[Online Self-Assessment|OSA]]）为代表的[[Preemptive Governance|预判性治理]]工具，争夺[[Promising Student|有前景的学生]]以维系位次（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp. 219–226]]）。
 
 > [!claim] [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]]
-> **[[Space-Making|高等教育空间制造]]与[[International Education|国际教育]]循环效应** 全球排名的创设是典型的[[Space-Making|高等教育空间制造]]。它将既有研究数据与可竞争的全球大学市场空间想象相结合，将特定版本的世界一流大学模式固化为全球制度现实。在澳大利亚等典型国家，排名与国际学生市场形成了自我强化的闭环：高校利用国际学生高额学费资助约四分之一的科研产出以推高排名，排名的跃升反过来巩固了在全球生源市场中的吸纳能力，以此维持财政收入与排位优势（[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 4–5, 19]]）。
+> **[[Space-Making|高等教育空间制造]]与[[International Education|国际教育]]循环效应** 全球排名的创设是典型的[[Space-Making|高等教育空间制造]]。它将既有研究数据与可竞争的全球大学市场空间想象相结合，将特定版本的世界一流大学模式固化为全球制度现实。在澳大利亚等典型国家，排名与国际学生市场形成了自我强化的正反馈循环体系：高校利用国际学生高额学费资助约四分之一的科研产出以推高排名，排名的跃升反过来巩固了在全球生源市场中的吸纳能力，以此维持财政收入与排位优势（[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 4–5, 19]]）。
 
 ---
 
@@ -219,6 +224,16 @@ updated: 2026-10-12
 
 > [!claim] [[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（José Luis García Garrido, 2009, pp. 332–333）
 > **南欧流动繁荣与科研赤字的西班牙悖论** 加西亚·加里多在对西班牙高等教育的跨国考察中指出，西班牙大学在 [[Academic Ranking of World Universities|ARWU]] 和泰晤士高等教育等权威榜单中几乎全军覆没，暴露出其高达 95% 的[[Academic Inbreeding|学术近亲繁殖]]（endogamy）与自治区封闭壁垒造成的严重科研赤字。然而在欧盟[[Erasmus Programme|伊拉斯谟计划]]中，西班牙却长期高居全欧洲最主要的留学生输入国榜首。加里多揭示，驱动学生流向西班牙的核心[[Variable|变量]]并非大学的科研声望或教学质量，而是西班牙语的语言吸引力、宜人气候、丰富旅游资源与低廉生活成本。这种流动繁荣与排名的鲜明脱节证明，全球排名指标无法衡量高等教育在区域一体化与文化交往中的多元吸引力；同时加里多严正警示大学决策者切不可将气候与文化红利误读为学术繁荣，必须正视大学深层的科研生产力瓶颈与制度危机（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 332–333]]）。
+
+---
+
+### 命题四　跨国排行榜制造排名焦虑并支撑新公共管理远程操控
+
+> [!concept-lens] 超国家治理与政策话语异化维度
+> 探讨跨国绩效排行榜（league tables）如何将公共讨论从教育目的审议窄化为排名焦虑，并作为治理技术落实[[New Public Management|新公共管理]]远程操控。
+
+> [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]]
+> **排行榜的政治效应：从目的辨析滑向排名焦虑与远程操控** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，跨国绩效排行榜（league tables）已演化为当代教育治理的核心操控机制。排行榜不仅测量教育系统，更深刻重塑了教育的政治话语：它在主权国家与院校层面制造了强烈的“排名焦虑”（rank anxiety），使公众与政策讨论从关于教育实质性目的与[[Public Value|公共价值]]的辨析，彻底滑向追求榜单名次的功利算计与技术合规。通过将异质复杂的办学实践压缩为可排名的单一数字序列，排行榜为[[New Public Management|新公共管理]]（NPM）的“远程操控”提供了最高效的施压杠杆，使国家与高校在自主决策的外衣下主动迎合超国家量化标尺。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
 ---
 
@@ -263,3 +278,4 @@ updated: 2026-10-12
 > - **西班牙** [[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 332–333]]）剖析西班牙在 [[Academic Ranking of World Universities|ARWU]] 等榜单全军覆没与在欧盟[[Erasmus Programme|伊拉斯谟计划]]中高居第一输入国的结构性背离，确立跨国流动动机脱离学术排名的实证反例。
 > - **美国肯塔基大学** [[University of Kentucky Top-20 Plan]] 展现了地方公立大学为强行对标全国与全球前 20 强指标，激进扭曲院系资源配置的典型政策案例。
 > - **跨国组织倡议** [[OECD|经济合作与发展组织]]（OECD）曾尝试通过[[OECD AHELO Project|高等教育学习成果评估]]（AHELO）开发直接测试学生[[Critical Thinking|批判性思维]]的工具，以突破排名的科研偏见，但因[[Cross-cultural Validity|跨文化效度]]争议与高昂成本陷入停滞。
+> - **超国家排行榜治理** [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 447–448)]] 揭示跨国绩效排行榜如何制造排名焦虑，将教育政策辩论从目的辨析异化为名次算计并落实远程操控。

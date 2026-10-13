@@ -10,7 +10,7 @@ aliases:
 summary: "2001 年德语区（德国与奥地利）首次 PISA 结果公布后引发的全国性教育政策危机反应，被视为德语区教育政策制定的决定性分水岭，打破传统投入规制惯性并开启全面的产出导向、国家监测总体战略与拓扑数据基础设施重组"
 type: concept
 domain: "comparative-education"
-related_count: 52
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -41,16 +41,20 @@ related_concepts:
   - "[[Performance Pay]]"
   - "[[Output-Oriented Governance]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Hypothesis]]"
   - "[[Technical Rationality]]"
   - "[[Working Knowledge]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Global Universities Rankings]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Policy Borrowing]]"
   - "[[Operationalization]]"
   - "[[Reference Society]]"
   - "[[Nordic Model of Education]]"
+  - "[[Social Imaginary]]"
+  - "[[Humboldtian Model of Higher Education]]"
+  - "[[Bildung]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[Pride in Learning]]"
   - "[[Teacher Professional Agency]]"
   - "[[Methodological Statism]]"
@@ -66,6 +70,8 @@ related_instruments: []
 related_persons:
   - "[[Sigrid Hartong]]"
   - "[[Isaiah Berlin]]"
+  - "[[Fazal Rizvi]]"
+  - "[[Bob Lingard]]"
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
@@ -82,10 +88,11 @@ related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Grey_2018_CE]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
 confidence: high
 status: stable
 created: 2026-07-05
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 
 # PISA Shock
@@ -174,7 +181,7 @@ updated: 2026-10-12
 >     end
 > 
 >     D ==>|驱动制度翻转| E
->     H -.->|常态化实证反馈闭环| B
+>     H -.->|常态化实证反馈回路| B
 > ```
 
 ---
@@ -184,9 +191,9 @@ updated: 2026-10-12
 PISA 震荡的爆发首先源于国家精英与公众深层认知图式的坍塌，从而在政治上创造出不可逆的改革势能。
 
 > [!feature] 震荡爆发的认知与政治构件
-> - **洪堡神话破灭与国际落差** 德语区社会长期坚信自身分流学校体制（Gymnasium / Realschule / Hauptschule）的优越性；PISA 2000 揭示不仅阅读、数学素养垫底，且学生[[Academic Achievement\|学业成绩]]与家庭背景的关联度为 OECD 国家中最高，使传统“分流即因材施教”的神话彻底破灭。
+> - **洪堡神话破灭与超国家[[Disciplina and Doctrina|规训]]** 德语区社会长期坚信自身分流学校体制（Gymnasium / Realschule / Hauptschule）的优越性；PISA 2000 揭示不仅阅读、数学素养垫底，且学生[[Academic Achievement|学业成绩]]与家庭背景的关联度为 OECD 国家中最高。这一冲击迫使德国政治家迅速放弃了对洪堡教育哲学传统的实质辩护，全盘转向经合组织推行的标准化测验与产出问责规约（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, p. 447]]）。
 > - **多方政治行动者的合法化重组** 政界各派迅速将 PISA 数据转化为推进自身议程的合法化武器：执政联盟借此突破保守派对全日制学校（Ganztagsschulen）的阻挠，保守派则借此强化对国家核心课程标准的控制。
-> - **从防御性表态转向前置[[Hypothesis\|假设]]思维** 各州教育部官员最初本能地对数据提出质疑，但随着危机深化，科层体系被迫建立起以实证数据检验政策假设的专业化思维（[[Argument_Dedering_2009_EERJ\|Dedering, 2009, pp. 490–492]]）。
+> - **从防御性表态转向前置[[Hypothesis|假设]]思维** 各州教育部官员最初本能地对数据提出质疑，但随着危机深化，科层体系被迫建立起以实证数据检验政策假设的专业化思维（[[Argument_Dedering_2009_EERJ|Dedering, 2009, pp. 490–492]]）。
 
 ---
 
@@ -276,24 +283,34 @@ PISA 震荡作为制度分水岭，从根本上重塑了国家与地方、投入
 > [!dimension] 治理范式翻转与数据[[Assemblage\|装配]]维度
 > 阐明 PISA 震荡如何催生出涵盖国家标准、国家[[Center of Calculation\|计算中心]]与跨尺度[[Data Infrastructure\|数据基础设施]]的现代治理形态。
 
-> [!claim] [[Argument_Altrichter_2019_ZfB\|Altrichter, H. et al. (2019, pp. 1–4)]]
-> **[[Output-Oriented Governance\|产出导向治理]]体系的系统性成型** 德语区在 PISA 震荡后系统性重构了教育治理架构，彻底抛弃了单纯依靠教学大纲和行政规章的投入规制模式，转而构建了以国家教育标准、全域校际诊断测试（如 [[Vergleichsarbeiten\|VERA]]）以及新型[[School Inspection\|外部学校督导]]为三大支柱的产出导向循证治理体系，实现了宏观标准与微观校本改进的制度性闭环。
+> [!claim] [[Argument_Altrichter_2019_ZfB|Altrichter, H. et al. (2019, pp. 1–4)]]
+> **[[Output-Oriented Governance|产出导向治理]]体系的系统性成型** 德语区在 PISA 震荡后系统性重构了教育治理架构，彻底抛弃了单纯依靠教学大纲和行政规章的投入规制模式，转而构建了以国家教育标准、全域校际诊断测试（如 [[Vergleichsarbeiten|VERA]]）以及新型[[School Inspection|外部学校督导]]为三大支柱的产出导向循证治理体系，实现了宏观标准与微观校本改进的制度性联结回路。
 
-> [!claim] [[Sigrid Hartong\|Hartong, S.]]
-> **禁止排名约束下的国家计算中心与拓扑装配** 德国在 PISA 震荡后并未走向英美高利害竞争与公开排名（[[Global Universities Rankings\|league tables]]）的惩罚性问责道路，而是在各州宪法保障文化主权与社会禁止排名的强共识下，由 KMK 创设 [[Institute for Educational Quality Improvement\|IQB]] 作为国家计算中心，借助跨尺度数据基础设施将国际基准与国家标准通过数字化题库和练习平台直接折叠进微观教学实践，在维持去中心化法治表象的同时完成了实质性的拓扑远距离[[Disciplina and Doctrina\|规训]]。（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 135–138, 144–146]]）
+> [!claim] [[Sigrid Hartong|Hartong, S.]]
+> **禁止排名约束下的国家计算中心与拓扑装配** 德国在 PISA 震荡后并未走向英美高利害竞争与公开排名（[[Global Universities Rankings|league tables]]）的惩罚性问责道路，而是在各州宪法保障文化主权与社会禁止排名的强共识下，由 KMK 创设 [[Institute for Educational Quality Improvement|IQB]] 作为国家计算中心，借助跨尺度数据基础设施将国际基准与国家标准通过数字化题库和练习平台直接折叠进微观教学实践，在维持去中心化法治表象的同时完成了实质性的拓扑远距离[[Disciplina and Doctrina|规训]]。（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 135–138, 144–146]]）
 
 ---
 
 ### 命题四　PISA 结果的政策效应存在真实危机响应与媒介化人为建构的制度分流
 
-> [!dimension] 国际对比与媒介化[[Policy Borrowing\|政策借用]]分流维度
-> 比较不同政治体制与媒介生态中国家对 PISA 结果的不同解读与[[Operationalization\|操作化]]策略。
+> [!dimension] 国际对比与媒介化[[Policy Borrowing|政策借用]]分流维度
+> 比较不同政治体制与媒介生态中国家对 PISA 结果的不同解读与[[Operationalization|操作化]]策略。
 
-> [!claim] [[Argument_Grey_2018_CE\|Grey, S. & Morris, P. (2018, pp. 113–122)]]
-> **真实危机响应 vs 媒介化人为危机建构** PISA 对政策的催化效应在跨国比较中存在根本性分流：德国（2001）与瑞典（2012）属于典型的“真实危机响应型”，其政策震荡源于无可争辩的客观学业暴跌，促使政府成立独立专家委员会系统诊断根源；而在英格兰（2012），客观数据保持平稳并未出现任何滑坡，但政治精英却勾结大众媒介，通过“遗漏话语”与人为制造“标准暴跌”的虚假恐慌，将 PISA 操纵为推行教师[[Performance Pay\|绩效工资]]等激进市场化政策的政治借用武器。
+> [!claim] [[Argument_Grey_2018_CE|Grey, S. & Morris, P. (2018, pp. 113–122)]]
+> **真实危机响应 vs 媒介化人为危机建构** PISA 对政策的催化效应在跨国比较中存在根本性分流：德国（2001）与瑞典（2012）属于典型的“真实危机响应型”，其政策震荡源于无可争辩的客观学业暴跌，促使政府成立独立专家委员会系统诊断根源；而在英格兰（2012），客观数据保持平稳并未出现任何滑坡，但政治精英却勾结大众媒介，通过“遗漏话语”与人为制造“标准暴跌”的虚假恐慌，将 PISA 操纵为推行教师[[Performance Pay|绩效工资]]等激进市场化政策的政治借用武器。
 
-> [!claim] [[Argument_Li_2025_HSSC\|Li, J. et al. (2025)]]
-> **[[Reference Society\|参考社会]]（Reference Society）的动态转向** PISA 震荡不仅重组了国内治理，而且深刻重塑了国家的对外借用航标：德国在 2000 年震荡后将目光从传统欧陆邻国转向以芬兰为代表的[[Nordic Model of Education\|北欧模式]]；韩国等亚洲体系则在经历持续量化检验后，逐步摆脱单一借用日本模式转向多边借鉴，形成了 PISA 驱动下的全球参考社会重组。
+> [!claim] [[Argument_Li_2025_HSSC|Li, J. et al. (2025)]]
+> **[[Reference Society|参考社会]]（Reference Society）的动态转向** PISA 震荡不仅重组了国内治理，而且深刻重塑了国家的对外借用航标：德国在 2000 年震荡后将目光从传统欧陆邻国转向以芬兰为代表的[[Nordic Model of Education|北欧模式]]；韩国等亚洲体系则在经历持续量化检验后，逐步摆脱单一借用日本模式转向多边借鉴，形成了 PISA 驱动下的全球参考社会重组。
+
+---
+
+### 命题五　PISA 震荡迫使民族国家放弃教育哲学传统防线并屈从于超国家技术官僚规约
+
+> [!dimension] 全球化[[Social Imaginary|社会想象]]与教育哲学传统瓦解维度
+> 探讨外部量化恐慌如何迫使深植于洪堡哲学与双轨传统的民族国家瓦解学理防线，全盘臣服于经合组织的技术官僚治理模板。
+
+> [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]]
+> **洪堡传统哲学防线的溃败与 OECD 技术官僚模板的收编** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，德国 2000 年 PISA 震荡不仅是一场政策与行政危机，更标志着深植于[[Humboldtian Model of Higher Education|洪堡理念]]与三轨分流传统的国家教育哲学防线的全面溃败。面对跨国测试引发的“名次恐慌”（policy panic），德国政治家迅速放弃了从文化传统、全人[[Bildung|教化]]（Bildung）与社会分流哲学对既有体制的学理辩护，全盘转向经合组织倡导的标准化测试、绩效问责与能力模板。与此同时，排名高居榜首的芬兰被迅速神圣化为全球政策模板，即便其成功经验与经合组织推行的新自由主义处方毫无实质关联。PISA 震荡因而生动展示了超国家[[Knowledge-Based Economy|知识经济]]社会想象如何借助量化危机，强行重塑民族国家的教育治理合法性基础，迫使其向[[Technical Rationality|技术官僚理性]]彻底臣服。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 447)]]
 
 ---
 
@@ -306,6 +323,7 @@ PISA 震荡作为制度分水岭，从根本上重塑了国家与地方、投入
 > | **制度破障与改革积压消解** | 外部量化丑闻能够强力击碎内部既得利益阻力与体制僵局 | 存在严重改革积压与多层宪制壁垒的联邦国家 | Niemann et al.; Dedering |
 > | **治理范式翻转与数据装配** | 驱动治理体系从传统投入规制转向产出监测与拓扑数据基础设施 | 数字化数据治理普及与禁止公开排名的法治环境 | Altrichter et al.; [[Argument_Hartong_2018_GSE\|Hartong (2018)]] |
 > | **真实响应与媒介建构分流** | 区分真实客观绩效暴跌触发的体制重构与政治操纵的虚假危机 | 跨国比较教育与媒介化政策借用分析 | [[Argument_Grey_2018_CE\|Grey & Morris (2018)]]; Li et al. |
+> | **哲学防线瓦解与超国家规训** | 量化恐慌迫使国家放弃洪堡教化哲学与传统辩护，臣服于经合组织技术官僚问责模板 | 具有深厚人文哲学传统与分流体制遭遇量化冲击的国家 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009, p. 447)]] |
 
 ---
 
@@ -314,12 +332,13 @@ PISA 震荡作为制度分水岭，从根本上重塑了国家与地方、投入
 [[PISA]] 震荡从 2000 年代初的偶发性舆论海啸，演变为比较教育学中解析全球化测评与国家治理重构的核心理论[[Paradigm|范式]]。
 
 > [!dev-timeline] PISA 震荡概念与德国治理响应历程
-> - **2000–2001 — PISA 2000 数据发布与德语区震荡爆发** [[OECD]] 正式公布首届 PISA 测评结果，德国学业总分垫底且社会不平等惊人，全国主流媒体集体以“PISA 灾难”为头条，跨党派政治信任陷入危机。（[[Argument_Dedering_2009_EERJ\|Dedering, 2009, p. 484]]）
-> - **2002 — [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 七大优先行动领域迅速出台** KMK 在危机爆发后数月内达成历史性妥协，统一发布七大优先行动领域决议，全面启动学前语言筛查与全日制学校国家补贴工程。（[[Argument_Dedering_2009_EERJ\|Dedering, 2009, p. 488]]）
-> - **2004 — 国家[[Center of Calculation\|计算中心]]（[[Institute for Educational Quality Improvement\|IQB]]）创立** 16 个联邦州联合创立柏林教育质量发展研究所（IQB），委托其研发国家教育标准题库，德国测评技术基础设施实现专业化实体奠基。（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 140–144]]）
-> - **2006 — 《[[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]》正式确立** KMK 正式颁布具有里程碑意义的监测战略，整合国际测评、国家抽测、全域校际诊断（[[Vergleichsarbeiten\|VERA]]）与国家教育报告四大支柱，产出导向[[Output-Oriented Governance\|循证治理]]框架全面法典化。（[[Argument_Dedering_2009_EERJ\|Dedering, 2009, pp. 488–490]]）
-> - **2012–2018 — 跨尺度[[Data Infrastructure\|数据基础设施]]与[[Topological Spatialisation\|拓扑重组]]深化** VERA 题库向全域普及并上线数字化自适应练习平台，国际与国家标准直接穿透行政层级渗透至微观课堂教学。（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 144–146]]）
-> - **2019–至今 — 产出治理的反思与新型数据生态探索** 学界与教育界开始反思过度密集测评引发的行政过载与数据孤岛效应，探索兼顾形成性诊断与[[Teacher Professional Agency\|教师专业自主权]]的新型生态。（[[Argument_Altrichter_2019_ZfB\|Altrichter et al., 2019]]）
+> - **2000–2001 — PISA 2000 数据发布与德语区震荡爆发** [[OECD]] 正式公布首届 PISA 测评结果，德国学业总分垫底且社会不平等惊人，全国主流媒体集体以“PISA 灾难”为头条，跨党派政治信任陷入危机。（[[Argument_Dedering_2009_EERJ|Dedering, 2009, p. 484]]）
+> - **2002 — [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 七大优先行动领域迅速出台** KMK 在危机爆发后数月内达成历史性妥协，统一发布七大优先行动领域决议，全面启动学前语言筛查与全日制学校国家补贴工程。（[[Argument_Dedering_2009_EERJ|Dedering, 2009, p. 488]]）
+> - **2004 — 国家[[Center of Calculation|计算中心]]（[[Institute for Educational Quality Improvement|IQB]]）创立** 16 个联邦州联合创立柏林教育质量发展研究所（IQB），委托其研发国家教育标准题库，德国测评技术基础设施实现专业化实体奠基。（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 140–144]]）
+> - **2006 — 《[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]》正式确立** KMK 正式颁布具有里程碑意义的监测战略，整合国际测评、国家抽测、全域校际诊断（[[Vergleichsarbeiten|VERA]]）与国家教育报告四大支柱，产出导向[[Output-Oriented Governance|循证治理]]框架全面法典化。（[[Argument_Dedering_2009_EERJ|Dedering, 2009, pp. 488–490]]）
+> - **2009 — 比较教育政策学解构：哲学防线崩溃与超国家[[Disciplina and Doctrina|规训]]** 里兹维与林加德在比较教育手册中从[[Social Imaginary|全球社会想象]]视角解构 PISA 震荡，指出德国面对震荡迅速放弃洪堡传统辩护而臣服于经合组织测评问责模板，揭示出跨国指标治理对主权国家教育哲学深层传统的瓦解效应。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 447)]]
+> - **2012–2018 — 跨尺度[[Data Infrastructure|数据基础设施]]与[[Topological Spatialisation|拓扑重组]]深化** VERA 题库向全域普及并上线数字化自适应练习平台，国际与国家标准直接穿透行政层级渗透至微观课堂教学。（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 144–146]]）
+> - **2019–至今 — 产出治理的反思与新型数据生态探索** 学界与教育界开始反思过度密集测评引发的行政过载与数据孤岛效应，探索兼顾形成性诊断与[[Teacher Professional Agency|教师专业自主权]]的新型生态。（[[Argument_Altrichter_2019_ZfB|Altrichter et al., 2019]]）
 
 ---
 
@@ -333,18 +352,18 @@ PISA 震荡作为制度分水岭，从根本上重塑了国家与地方、投入
 > > 争论焦点在于 PISA 震荡究竟是推动了德国教育的实质性质量跃升，还是沦为政治精英推销预设议程的修辞借口。
 > >
 > > - **实质改进论** 强调震荡促成了全日制学校普及、学前语言干预以及国家标准的建立，确实改善了弱势群体的受教育条件。
-> > - **修辞工具论** 指出政策制定者早在危机前已有既定方案，PISA 震荡只是被工具化地用作击溃反对意见的合法化杠杆（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）。
+> > - **修辞工具论** 指出政策制定者早在危机前已有既定方案，PISA 震荡只是被工具化地用作击溃反对意见的合法化杠杆（[[Argument_Grey_2018_CE|Grey & Morris, 2018]]）。
 >
 > > [!axis] 标准化监测 vs 地方文化主权与教师专业自主
 > > 探讨全国统一数据监测是否侵害了联邦宪法赋予各州的文化主权（Kulturhoheit）及一线教师的教学自由。
 > >
 > > - **国家统约立场** 认为唯有依托统一题库与常模才能保障跨州文凭的等价性与全国教育质量底线。
-> > - **地方自主立场** 担忧过度依赖国家标准化纸笔测试会削弱地方课程特色，导致教学窄化与教师非教学行政负担加重（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）。
+> > - **地方自主立场** 担忧过度依赖国家标准化纸笔测试会削弱地方课程特色，导致教学窄化与教师非教学行政负担加重（[[Argument_Hartong_2018_GSE|Hartong, 2018]]）。
 
 > [!critique] 学术学理与方法论批判
 > - **认知与课程脱嵌风险** 批评 PISA 倡导的跨情境“素养”（Literacy）脱离了各国具体的历史文化脉络与学科体系，容易导致各国教育窄化为应试技巧训练。
-> - **[[Methodological Statism\|方法论国家主义]]偏见** 将主权国家作为单一容器进行横向排队比较，遮蔽了各国内部复杂的区域、种族与阶层差异，放大了不必要的政治焦虑。
-> - **过度强调量化产出的简化主义** 忽视了教育中无法被心理测量学量表测得的品格养成、民主参与及[[Critical Thinking\|批判性思维]]等深层价值。
+> - **[[Methodological Statism|方法论国家主义]]偏见** 将主权国家作为单一容器进行横向排队比较，遮蔽了各国内部复杂的区域、种族与阶层差异，放大了不必要的政治焦虑。
+> - **过度强调量化产出的简化主义** 忽视了教育中无法被心理测量学量表测得的品格养成、民主参与及[[Critical Thinking|批判性思维]]等深层价值。
 
 > [!warning] 适用局限与边界条件
 > - **依赖国家教育[[Discourse|话语]]权重** 若一国公众与政策精英并不重视 [[OECD]] 标准，PISA 表现不佳无法转化为政治危机。
@@ -354,10 +373,11 @@ PISA 震荡作为制度分水岭，从根本上重塑了国家与地方、投入
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 详细阐述德国 [[PISA]] 2000 震荡如何打破测试禁忌，并依托国家[[Center of Calculation\|计算中心]]（[[Institute for Educational Quality Improvement\|IQB]]）与跨尺度[[Data Infrastructure\|数据基础设施]]实现政策[[Topological Spatialisation\|拓扑重组]]。
-> - [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] — 实证分析德国各州教育部在 PISA 震荡后的七大优先行动领域推进过程及微观接收机制。
-> - [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] — 对比德国、瑞典的真实 PISA 震荡与英格兰媒介化“人为 PISA 危机”的运作机制。
-> - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 综述德语区遭遇 PISA 震荡后向产出导向[[Output-Oriented Governance\|循证治理]]转型的整体制度演进。
-> - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — 系统梳理 PISA 冲击在德国引发的[[Theories of Policy Change\|政策变革]]及全球[[Reference Society\|参考社会]]转移机制。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 详细阐述德国 [[PISA]] 2000 震荡如何打破测试禁忌，并依托国家[[Center of Calculation|计算中心]]（[[Institute for Educational Quality Improvement|IQB]]）与跨尺度[[Data Infrastructure|数据基础设施]]实现政策[[Topological Spatialisation|拓扑重组]]。
+> - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 实证分析德国各州教育部在 PISA 震荡后的七大优先行动领域推进过程及微观接收机制。
+> - [[Argument_Grey_2018_CE|Grey & Morris (2018)]] — 对比德国、瑞典的真实 PISA 震荡与英格兰媒介化“人为 PISA 危机”的运作机制。
+> - [[Argument_Altrichter_2019_ZfB|Altrichter et al. (2019)]] — 综述德语区遭遇 PISA 震荡后向产出导向[[Output-Oriented Governance|循证治理]]转型的整体制度演进。
+> - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 系统梳理 PISA 冲击在德国引发的[[Theories of Policy Change|政策变革]]及全球[[Reference Society|参考社会]]转移机制。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, p. 447)]] — 从全球教育政策视角解构德国 PISA 震荡，揭示量化恐慌如何迫使传统洪堡教育哲学防线溃败并屈从于[[OECD|经合组织]]治理模板。
 
