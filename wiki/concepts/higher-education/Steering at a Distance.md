@@ -11,10 +11,10 @@ aliases:
 summary: "20世纪80年代荷兰高教改革确立的公共治理新范式，指政府放弃传统事前命令控制，转向扩大学校自治、以事后质量评估为反馈调节的间接调控模式（Kickert, 1995）。在当代超国家教育治理中，经合组织借新公共管理将“远处掌舵”转化为以跨国比较绩效、国际基准与问责体制为核心的治理技术，引导国家政策服务于知识经济的效率需求（Rizvi & Lingard, 2009）。"
 type: concept
 domain: "higher-education"
-related_count: 31
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/governance
   - level/higher-education
@@ -27,20 +27,23 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Research Universities]]"
   - "[[Feedback]]"
+  - "[[New Public Management]]"
+  - "[[Performance Indicators]]"
   - "[[Document]]"
   - "[[Policy Network]]"
   - "[[Block Grants]]"
   - "[[Data Infrastructure]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[New Public Management]]"
-  - "[[Performance Indicators]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Critical Pedagogy]]"
   - "[[Return on Investment]]"
+  - "[[Governing by Numbers]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[Pillarization]]"
   - "[[Open-Mindedness]]"
   - "[[Reflexivity]]"
 related_theories:
+  - "[[Educational Governance Framework]]"
   - "[[Governing at a Distance]]"
   - "[[Governmentality]]"
   - "[[Actor-Network Theory]]"
@@ -54,8 +57,11 @@ related_persons:
   - "[[Bob Lingard]]"
 related_facts:
   - "[[Higher Education and Research Plan]]"
+  - "[[OECD]]"
   - "[[Early Steps]]"
   - "[[Higher Education Autonomy and Quality]]"
+  - "[[PISA]]"
+  - "[[Higher Education Act of 1965]]"
   - "[[Higher Education and Research Act 1992]]"
 related_arguments:
   - "[[Argument_Kickert_1995_Governance]]"
@@ -87,10 +93,10 @@ updated: 2026-10-13
 >
 > *It is a departure from classical government steering by means of legislation, prohibitions and regulations and a move towards the autonomy and the delegation of responsibilities to institutions of higher education. Under the new system, intervention is restricted to ex-post facto adjustments based on quality assessments of results—in other words, [[Feedback]] control output.*
 
-> [!citation-card] 里兹维与林加德论经合组织新公共管理下的远处掌舵转向
-> 植根于新公共管理（OECD, 1995）关于通过比较绩效指标实现“远处掌舵”（steering at a distance）的核心主张，经合组织有效地将教育治理的重心从关于教育本质与目的的哲学讨论，全面置换为决策透明度、权力下放形式、绩效测量技术、国际基准对标、质量保证机制以及适度问责规制等技术事务。这表明教育的有效性已被窄化为对全球劳动力市场需求的经济适应能力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+> [!citation-card] 里兹维与林加德论[[OECD|经合组织]][[New Public Management|新公共管理]]下的远处掌舵转向
+> 植根于新公共管理（OECD, 1995）关于通过比较[[Performance Indicators|绩效指标]]实现“远处掌舵”（steering at a distance）的核心主张，经合组织有效地将教育治理的重心从关于教育本质与目的的哲学讨论，全面置换为决策透明度、权力下放形式、绩效测量技术、国际基准对标、质量保证机制以及适度问责规制等技术事务。这表明教育的有效性已被窄化为对全球劳动力市场需求的经济适应能力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 >
-> *Located within the ideas of the new public management (OECD, 1995), which attaches a great deal of important to the mechanisms of 'steering at a distance' through comparative performance measures, the OECD has effectively shifted the focus of the educational governance from questions of purpose to such issues concerning transparency of decision-making processes, forms of devolution, technologies of measuring educational performance, international benchmarking, mechanisms of quality assurance, appropriate accountability regimes, sources of educational funding, effective uses of public resources, and so on.*
+> *Located within the ideas of the new public management (OECD, 1995), which attaches a great deal of important to the mechanisms of 'steering at a distance' through comparative performance measures, the OECD has effectively shifted the focus of the [[Educational Governance Framework|Educational Governance]] from questions of purpose to such issues concerning transparency of decision-making processes, forms of devolution, technologies of measuring educational performance, international benchmarking, mechanisms of quality assurance, appropriate accountability regimes, sources of educational funding, effective uses of public resources, and so on.*
 
 > [!boundary]- 概念边界
 > - 与 [[Governing at a Distance|远处治理]]（Governing at a Distance） 的范式分工 — 尽管两者在当代政策与社会学[[Document|文献]]中常被作为间接规制的同义词互换使用，但在思想渊源与研究取向上存在严格分工：远距离操纵是欧陆公共行政学、控制论与[[Policy Network|政策网络]]传统下的实证制度设计（聚焦院校自主、[[Block Grants|统包拨款]]与事后反馈机制）；远处治理则是源自福柯[[Governmentality|治理术]]与拉图尔科学知识社会学的批判政治社会学理论（侧重揭示新自由主义如何通过专业知识、标准化评估量规与[[Data Infrastructure|数据基础设施]]在微观实践中对主体进行隐性[[Disciplina and Doctrina|规训]]与拓扑塑形）。
@@ -128,6 +134,7 @@ updated: 2026-10-13
 > - **双年度[[Higher Education and Research Plan|对话式规划]]机制（Dialogue-based Planning）** 政府定期发布的战略规划（如高等教育与科研计划，Higher Education and Research Plan, HOOP）不充当单向政策指令，而是作为基于问题诊断的协商议程，由政府、高校与社会伙伴平等开展理性对话。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 138)]]
 > - **统包式经费划拨（[[Block Grants|block grant]] Funding）** 采用简洁透明的模型核算整体办学经费，以单一总额拨款形式直拨高校，不预设具体开支科目，赋予学校财务运筹自由度。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 146)]]
 > - **有限事后纠偏原则（Ex-Post Defect Correction）** 政府常规性退出高校日常办学管理；仅当机构自治导致严重危害公共利益的不可接受后果时，方可启动法定的事后有限干预。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 139)]]
+> - **跨国比较绩效与远处掌舵技术（Comparative Performance Measures as Steering Technology）** [[OECD|经合组织]]将“远距离操纵/远程掌舵”从主权国家内部行政分权拓展为超国家[[Governing by Numbers|数字治理]]机制，依托国际基准对标（benchmarking）、质量保证体系、[[PISA]] 联赛排位与透明问责规制，在不享有法定主权管辖权的前提下，实现了对各成员国及非成员经济体教育政策优先事项的远程调控。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
 > [!logic-map]- 远距离操纵运行架构
 > ```mermaid
@@ -158,6 +165,40 @@ updated: 2026-10-13
 
 ---
 
+## 围绕概念形成的命题
+
+---
+
+### 命题一　基于事后产出评估与统包拨款的间接调控能有效克服微观过度规制并激发专业自组织活力
+
+> [!concept-lens] 组织控制论与[[Policy Network|政策网络]]治理维度
+> 探讨国家如何在承认专业多重理性的前提下，通过权力后移与负反馈机制重塑治理有效性。
+
+> [!claim] [[Argument_Kickert_1995_Governance|Kickert (1995)]]
+> **负反馈与自组织调节的治理有效性** [[Walter J. M. Kickert|瓦尔特·基克特]]（Walter J. M. Kickert）论证指出，在专业高度分工且权力分散的高等教育系统中，传统的细密法律禁令与事前行政审批会导致系统僵化并引发严重政策抵触。国家必须背离古典层级命令控制，将调控重心转向扩[[Grandes Ecoles|大学校]]办学自治权、下放财务管理责任并推行统包经费拨款；通过将公共干预严格限定于宏观部门规划与基于产出质量的事后反馈调节，国家不仅没有放弃调控，反而克服了过度规制的失灵，从实质上增强了应对外部环境波动的系统自适应能力。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 135, 148–151)]]
+
+---
+
+### 命题二　超国家机构借新公共管理远处掌舵机制推行比较绩效测度并将教育治理置换为经济效率
+
+> [!concept-lens] 跨国政策社会学与[[Governing by Numbers|数字治理]]维度
+> 探讨超国家组织如何在缺乏主权强制力的情境下，运用[[Performance Indicators|绩效指标]]与问责框架实现远程政策对齐。
+
+> [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]]
+> **比较绩效指标作为远处掌舵的治理技术** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）揭示，[[OECD|经合组织]]等超国家机构将远距离操纵（steering at a distance）吸纳为新自由主义[[New Public Management|新公共管理]]（OECD, 1995）的核心操作装置。由于缺乏对主权国家立法的直接强制管辖权，经合组织借由比较绩效测度、国际基准对标（benchmarking）、质量保证规制与透明问责技术，构建起超越国界的远处掌舵机制；这一机制有效地将全球教育治理从关于教育目的、社会公平与文化传承的哲学辩论，全面置换为服务全球[[Knowledge-Based Economy|知识经济]]劳动力市场需求的经济效率核算。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+
+---
+
+### 命题总览
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **命题一：院校自治与负反馈调控** | 废止事前审批并依托[[Block Grants\|统包拨款]]与事后质评，激发专业系统自适应活力 | 欧陆公共行政改革、[[Higher Education Act of 1965\|高等教育法]]制化 | [[Argument_Kickert_1995_Governance\|Kickert (1995)]] |
+> | **命题二：跨国绩效测度与远程掌舵** | 依托国际基准与指标问责远处掌舵，将治理重心收敛至经济效率 | 超国家教育治理、新公共管理政策社会学 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] |
+
+---
+
 ## 理论机制与科学合理性
 
 > [!theory-components] 远距离操纵的理论支撑支柱
@@ -172,23 +213,35 @@ updated: 2026-10-13
 
 ## 改革试验与实证案例
 
-> [!dev-timeline] 荷兰高等教育间接治理演进里程碑
+> [!dev-timeline] 远距离操纵治理演进历程
 > - **1982 — 大学任务分工与专业集聚（Division of Tasks and Concentration, TVC）** 面对财政危机，荷兰[[Research Universities|研究型大学]]通过联合自组协调委员会，自主达成跨校专业合并与学科集中方案，完成 2.57 亿荷盾预算削减与 6000 万荷盾内部储蓄，证明高校具备自我调控潜能。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 146)]]
 > - **1985 — 《[[Higher Education Autonomy and Quality|高等教育自主与质量]]》白皮书（Higher Education: Autonomy and Quality, HOAK）** 教育部正式确立远距离操纵哲学，标志着宏观部门调控、事后质量评估与双年度对话规划机制的顶层设计确立。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 137–138)]]
 > - **1986 — 高等专业教育（Higher Professional Education, HBO）大兼并与统包经费试验** 依据新法案，全国 350 所小型专业学校跨宗派自主合并为约 50 所大型综合性学院；同步推行统包经费划拨，并由院校管理层自主承担 9700 万荷盾的紧缩削减任务，成为远距离操纵最成功的实证试验。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 145–146)]]
 > - **1987 — 首期《高等教育与科研计划》（[[Higher Education and Research Plan|HOOP]]）发布** 开启政府与大学之间基于数据分析与理性论证的双年度协商对话，彻底取代传统单向行政下达。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 138)]]
 > - **1988 — 综合立法预备法案** 将有限事后干预与办学自主原则法制化。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 139)]]
 > - **1993 — 《高等教育与科研法》（Higher Education and Research Act, [[Higher Education and Research Act 1992|WHW]]）正式颁布** 统一整合研究型大学与专业学院治理架构，正式确立远距离操纵为荷兰国家法定体制。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 139, 156)]]
+> - **1995–2009 — 超国家[[Governing by Numbers|数字治理]]演进：[[OECD|经合组织]]论比较绩效远处掌舵** 经合组织（OECD, 1995）在《转型中的治理》中将远处掌舵确立为[[New Public Management|新公共管理]]的核心支柱；里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 447–448]]）系统揭示超国家机构如何利用 [[PISA]] 国际基准与质量问责等比较绩效技术，实现对主权国家教育体系的远程调控。
 
 ---
 
-## 制度张力与实践局限
+## 争议与批评
+
+> [!debates] 学术争议与批判反思
+>
+> > [!axis] 专业自治自组织活力 vs 财政责任转嫁与微观[[Disciplina and Doctrina|规训]]风险
+> > 远距离操纵究竟是在赋权专业机构，还是在转嫁财政危机与加剧微观问责。
+> >
+> > - **实证公共管理学者（[[Argument_Kickert_1995_Governance|Kickert, 1995]]）** 强调[[Block Grants|统包拨款]]与事后评估打破了传统科层繁琐管制的桎梏，提升了院校面对复杂环境的敏捷适应力。
+> > - **批判政治社会学者（Rose & Miller, 1992; Ball, 1997; [[Argument_Kickert_1995_Governance|Kickert, 1995, p. 154]]）** 指出下放管理责任常伴随着国家削减财政投入，政府借“自主”之名将缩减开支与裁减学科的合法性代价转嫁给院校管理层，并借助评估量规实施更深层的无形规训。
+>
+> > [!axis] 技术中立的跨国协调 vs 经济效率对教育公共目的的置换
+> > 超国家远处掌舵是在促进良治，还是在推行新自由主义意识形态收敛。
+> >
+> > - **[[OECD|经合组织]]技术官僚（OECD, 1995）** 宣称比较绩效基准对标与问责规制属于中立的“良治”程序，有助于提升公共资源的利用效能。
+> > - **比较政策社会学学者（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 447–448]]）** 批判远处掌舵机制抽空了教育治理中关于文化、公平与民主目的的实质讨论，将主权国家政策逻辑强制锚定于全球劳动力市场需求。
 
 > [!critique-author] 行政文化转型迟滞与官僚身份危机
 > 当直接审批法规被废止后，教育部官员普遍遭遇深层的身份认同危机。习惯了制定规则、核查合规与惩处违规的传统官僚难以迅速适应作为协助者与对话伙伴的新定位；在面临外部舆论问责或高校办学出现个别争议时，极易产生重新诉诸微观行政规制的本能冲动。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 153–154)]]
-
-> [!critique-author] 财政紧缩下的责任转嫁政治疑虑
-> 赋予高校财务支配自治权，在客观上与国家削减公共教育投资的操作高度重叠。政府将裁减专业与紧缩支出的痛苦抉择下放给院校管理层，使大学成为对其自身动手术的执行者，引发学术界对国家以自治为名转嫁财政危机与合法性成本的强烈质疑。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 144, 154)]]
 
 > [!critique-author] 历史[[Pillarization|柱状化]]体制对系统[[Open-Mindedness|开放性]]的锁定
 > 荷兰教育体系深嵌于由宗教宗派、工会与咨询团体组成的[[Neocorporatism|法团主义]]铁环之中；教育系统长久以来宛如自我封闭的教育省，对外来工商业界与劳动力市场的诉求反应迟缓，使远距离操纵旨在构建的敏捷开放系统面临长期的制度文化阻力。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 151)]]
@@ -199,3 +252,4 @@ updated: 2026-10-13
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 结合[[Reflexivity|反思性]]实践者视角与公共管理理论，系统论证荷兰高教远距离操纵治理[[Paradigm|范式]]的提出背景、核心支柱与制度悖论。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 447–448)]] — 揭示[[OECD|经合组织]]如何将[[New Public Management|新公共管理]]远处掌舵转化为跨国比较绩效技术，重构主权国家教育治理优先次序。

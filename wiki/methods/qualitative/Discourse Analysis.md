@@ -1,31 +1,36 @@
 ---
 title: Discourse Analysis
 aliases: [话语分析]
-summary: "以日常谈话和文本中的语言使用为研究对象的方法，关注语言如何执行社会行动、建构意义和再生产权力关系，植根于诠释范式和批判理论。"
+summary: "以日常谈话和文本中的语言使用为研究对象的方法，关注语言如何执行社会行动、建构意义、再生产权力关系以及在宏观政策文本中建构全球社会想象，植根于诠释范式与批判理论。"
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 34
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 43
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags: [method/qualitative, data-analysis, theme/language, paradigm/interpretive, paradigm/critical]
 related_concepts:
   - "[[Discourse]]"
   - "[[Unit of Analysis]]"
   - "[[Variable]]"
+  - "[[Social Imaginary]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
   - "[[Analytical Stance]]"
   - "[[Research Question]]"
+  - "[[Lifelong Learning]]"
   - "[[Causality]]"
   - "[[Double Hermeneutic]]"
   - "[[Reliability]]"
   - "[[Ideal Speech Situation]]"
-  - "[[Knowledge-Based Economy]]"
-  - "[[Social Imaginary]]"
+  - "[[Scientific Explanation]]"
+  - "[[Epistemological Vigilance]]"
+  - "[[Epistemic Practices]]"
 related_theories:
   - "[[Critical Theory]]"
+  - "[[Human Capital Theory]]"
   - "[[Knowledge Building Theory]]"
   - "[[Ethnomethodology]]"
 related_methods:
@@ -38,16 +43,20 @@ related_methods:
   - "[[Accounts]]"
   - "[[Ethogenic Approach]]"
   - "[[Correlational Research]]"
+  - "[[Structured Observation]]"
+  - "[[Multimodal Discourse Analysis]]"
 related_persons:
+  - "[[Fazal Rizvi]]"
+  - "[[Bob Lingard]]"
   - "[[Jürgen Habermas]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31]]"
   - "[[Argument_Duncan_2025_CI]]"
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Han_Gutierez_2026_IJSE]]"
   - "[[Argument_Kelly_Licona_2018_EpistemicPractices]]"
-  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
 related_facts:
   - "[[OECD]]"
 confidence: medium
@@ -72,6 +81,11 @@ updated: 2026-10-13
 > 话语分析研究者不将儿童的语言视为一个需要通过控制大量干扰[[Variable\|变量]]来实验探索的内部认知世界的代表，而是将语言视为行动——视为情境化的话语实践（situated discursive practice）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22\|(Edwards, 1991, 引自 Cohen et al., 2011, p. 455)]]
 >
 > *Rather than treating children's language as representative of an inner cognitive world to be explored experimentally by controlling for a host of intruding variables, discourse analysts treat that language as action, as "situated discursive practice". (Edwards, 1991)*
+
+> [!citation-card] 里兹维与林加德论批判政策话语分析与[[Social Imaginary|社会想象]]建构
+> [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，对超国家政策文本的批判性话语分析不仅揭示官方修辞的演变，更解构了支撑教育政策转型的概念架构。[[OECD|经合组织]]通过编织围绕“[[Knowledge-Based Economy|知识经济]]”的复合话语，将描述性的全球化现实滑移为规范性的政策指令，从而在跨国空间中锻造并自然化了一种服务于资本积累的特定全球社会想象。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–445)]]
+>
+> *We analyse the changing nature of the OECD’s education policy work since the mid-1990s through examining its core policy documents... The conceptual architecture underpinning this shift has been framed within the broader set of discourses surrounding the idea of the ‘knowledge economy’... that has forged a particular global social imaginary.*
 
 ## 方法定位
 
@@ -120,10 +134,21 @@ updated: 2026-10-13
 > 5. 关注话语中的权力不对称和意识形态维度（[[Critical Theory\|批判理论]]传统）
 > 6. 在解释中保持反身性——意识到话语分析本身也是一个可被分析的话语（Ashmore, 1989）
 
+### 批判政策话语分析进路
+
+针对超国家组织与国家教育部门的政策文本、战略白皮书及治理纲领，里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）示范了批判政策话语分析的操作进路，旨在揭示技术化修辞背后的意识形态重塑与[[Social Imaginary|社会想象]]建构。
+
+> [!proc] 批判政策话语分析步骤
+> 1. **跨期文本谱系搜集** 系统搜集特定治理中枢（如[[OECD|经合组织]]）在关键转型期的核心官方政策白皮书、部长级会议公报与战略框架，追溯话语演进的历史谱系。
+> 2. **核心概念架构与隐喻识别** 提炼支撑政策转型的核心话语节点（如“[[Knowledge-Based Economy|知识经济]]”、“[[Lifelong Learning|终身学习]]”），分析其如何界定教育属性与社会现实。
+> 3. **话语滑移机制剖析** 借鉴布尔迪厄（Bourdieu, 2003）的社会学洞见，解构文本如何将对全球化经济变迁的描述性判断（“世界现实是什么”），不加论证地滑移（discursive slide）为不容置疑的规范性与施事性政策指令（“教育必须做什么”）。
+> 4. **价值再阐明与重构检验** 考察传统民主、性别平权与社会凝聚力等广泛社会价值，如何在文本中被重新阐明（rearticulation）并吸纳为从属于经济增长与[[Human Capital Theory|人力资本]]投资的工具性杠杆（Kenway et al., 2006）。
+> 5. **全球社会想象的去自然化** 揭示主导话语如何编织并自然化一种排他性的[[Social Imaginary|社会想象]]，使新自由主义经济理性成为唯一合法的思考方式，从而打破政策必然性神话。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440, 444–445)]]
+
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 研究课堂互动中的语言使用和权力关系；分析政策文本和教育[[Discourse|话语]]的建构方式；理解儿童如何通过语言参与[[Knowledge Building Theory|知识建构]]（Edwards & Mercer, 1987）；揭示话语中系统性扭曲沟通的压制性力量（Habermas）。
+> - **适合使用** 研究课堂互动中的语言使用和权力关系；分析宏观政策文本和超国家教育[[Discourse|话语]]的建构方式（如解构[[OECD|经合组织]]报告中的话语滑移与社会想象；Rizvi & Lingard, 2009）；理解儿童如何通过语言参与[[Knowledge Building Theory|知识建构]]（Edwards & Mercer, 1987）；揭示话语中系统性扭曲沟通的压制性力量（Habermas）。
 > - **谨慎使用** 当需要大样本统计概括时；当[[Research Question\|研究问题]]更适合通过实验或调查回答时；当研究者的话语立场可能过度影响解释时。
 > - **不适合使用** 需要标准化测量和[[Causality\|因果推断]]的研究；将语言仅视为信息传递工具的研究。
 
@@ -157,9 +182,9 @@ updated: 2026-10-13
 
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|Cohen et al. (2011, Ch. 22–23)]] — 系统介绍话语分析定义、与批判理论的关联、课堂问答序列与结构化观察数据分析方法。
-> - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 运用话语分析解析七年级科学课堂围绕生物种群观察证据的论辩对话，揭示学生如何反思观察可靠性条件。
-> - [[Argument_Grey_2018_CE|Grey & Morris (2018)]] — 运用话语分析与叙事分析对比 OECD 文本、议会声明与媒体报道，揭示政客如何利用危机修辞扭曲评估事实以服务本土议程。
-> - [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez (2026)]] — 运用多模态话语分析剖析初中生利用生成式AI协同建构科学解释时的言语对话与提示词迭代，揭示三维认识论警觉机制。
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 结合社会语言学与科学实践研究，运用话语分析考察理科课堂互动言语行为，解析知识主张合法化的认识论实践机制。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|Cohen et al. (2011, Ch. 22–23)]] — 系统介绍[[Discourse|话语]]分析定义、与[[Critical Theory|批判理论]]的关联、课堂问答序列与[[Structured Observation|结构化观察]]数据分析方法。
+> - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 运用话语分析解析七年级科学课堂围绕生物种群观察证据的论辩对话，揭示学生如何反思观察[[Reliability|可靠性]]条件。
+> - [[Argument_Grey_2018_CE|Grey & Morris (2018)]] — 运用话语分析与[[Narrative Analysis|叙事分析]]对比 [[OECD]] 文本、议会声明与媒体报道，揭示政客如何利用危机修辞扭曲评估事实以服务本土议程。
+> - [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez (2026)]] — 运用[[Multimodal Discourse Analysis|多模态话语分析]]剖析初中生利用生成式AI协同建构[[Scientific Explanation|科学解释]]时的言语对话与提示词迭代，揭示三维[[Epistemological Vigilance|认识论警觉]]机制。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 结合社会语言学与科学实践研究，运用话语分析考察理科课堂互动言语行为，解析知识主张合法化的[[Epistemic Practices|认识论实践]]机制。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] — 运用批判政策话语分析解构[[OECD]]自1990年代中期以来的核心政策文本，揭示其如何通过描述性与规范性话语的滑移建构“[[Knowledge-Based Economy\|知识经济]]的[[Social Imaginary\|社会想象]]”，并将性别平权与社会凝聚力重构为经济效率工具。

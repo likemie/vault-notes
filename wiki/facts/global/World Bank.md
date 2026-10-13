@@ -5,13 +5,13 @@ aliases:
   - World Bank Group
   - 世行
   - 国际复兴开发银行
-summary: "全球最大的多边开发性金融与知识援助机构，二战后布雷顿森林体系的核心支柱。在教育治理中，经历从与教科文组织合作、1980年自立门户，到1990年代转向“知识银行”的演进；主导防卫性与规训性多边主义，依托放贷权力、结构调整、教育生产函数话语、SABER量规与影子国家外包机制，构建了高度自指性的全球教育硬事实规制体系。"
+summary: "全球最大的多边开发性金融与知识援助机构，二战后布雷顿森林体系的核心支柱。在教育治理中，经历从与教科文组织合作、1980年自立门户，到1990年代联合经合组织与教科文组织推行世界教育指标（WEI）并转向“知识银行”的演进；主导防卫性与规训性多边主义，依托放贷权力、结构调整、知识经济话语、SABER量规与影子国家外包机制，构建了高度自指性的全球教育硬事实规制体系。"
 type: fact
 subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 56
+fact_related_count: 62
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Educational Decentralization]]"
   - "[[Engineering Education]]"
   - "[[Performance Indicators]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[Knowledge Bank]]"
   - "[[Knowledge Production]]"
   - "[[Document]]"
@@ -46,6 +47,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Market Fundamentalism]]"
   - "[[Selective Affinity]]"
+  - "[[Social Imaginary]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Endogenous and Exogenous Privatisation]]"
@@ -62,12 +64,15 @@ related_methods:
   - "[[Difference-in-Differences]]"
   - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
+  - "[[Discourse Analysis]]"
 related_instruments: []
 related_persons:
   - "[[George Psacharopoulos]]"
   - "[[Robert Arnove]]"
   - "[[Chris Freeman]]"
   - "[[Stephen P. Heyneman]]"
+  - "[[Fazal Rizvi]]"
+  - "[[Bob Lingard]]"
   - "[[Rainer Kattel]]"
 related_facts:
   - "[[UNESCO]]"
@@ -89,10 +94,11 @@ related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
   - "[[Argument_Freeman_1995_CJE]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 
 # World Bank
@@ -117,7 +123,7 @@ updated: 2026-10-12
 > [!dev-timeline]- 组织发展历程
 > - **1944–1968 — 砖瓦基建与[[UNESCO|教科文组织]]早期依附期** 初期严守硬性物理基础设施借贷，不涉足教育社会事业；1962 年向突尼斯发放首笔中等技术教育贷款；1964 年与教科文组织（UNESCO）签署《合作协定》（Co-operative Agreement），依靠 UNESCO 的专业团队物色与评估借贷国教育项目，初步敲开全球南方的教育大门。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **1968–1981 — 麦克纳马拉改革与教育研究帝国奠基期** 罗伯特·麦克纳马拉（Robert McNamara）执掌世行，将教育确立为反贫困的核心生产性支柱；聘请著名教育经济学家[[George Psacharopoulos|乔治·萨卡罗普洛斯]]（George Psacharopoulos）等组建中央研究团队，开创覆盖全球的[[Return on Investment|教育投资回报率]]（RORE）实证计量传统；1980 年 4 月正式发表里程碑式《教育部门政策文件》，单方面终结对教科文组织的依赖，确立完全独立的教育政策研究与借贷体系。[[Argument_Steiner-Khamsi_2024_CE|(Psacharopoulos, 1981; Steiner-Khamsi et al., 2024, pp. 541–542)]]
-> - **1981–1999 — 结构调整贷款、[[Disciplina and Doctrina|规训]]性多边主义与[[National Innovation System|国家创新系统]]滞后** [[International Education|国际教育]]多边主义经历重大转向，战后教科文组织倡导的“有限再分配多边主义”衰落，世界银行主导的“防卫性与规训性多边主义”确立（Mundy, 1998; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 110]]）。世行推行华盛顿共识，将削减公共开支、用户付费与基础[[Educational Decentralization|教育分权]]作为贷款附加条件；通过[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数等技术[[Discourse|话语]]将新自由主义制度化（Carnoy & Rhoten, 2002; Heyneman, 2003）；[[Robert Arnove|阿诺夫]]（Arnove, 1980, 2009）深刻指出，世行推行的教育革新实质上固化了既有的中心-边缘与国内阶层分层体系（pp. 105–106）。[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman, 1995）进一步从[[Evolutionary Economics|演化经济学]]考察指出，1980 年代世界银行与[[International Monetary Fund|国际货币基金组织]]强推的紧缩与外债偿付方案重创了拉美（如巴西）的[[National Innovation System|国家创新系统]]，迫使政府削减高校科研与[[Engineering Education|工程教育]]投资，导致其与东亚新兴工业化经济体（如韩国）依靠自主研发与教育扩张的高速赶超拉开了致命差距。1999 年世行联合引入《[[Poverty Reduction Strategy Papers|减贫战略文件]]》（PRSPs），将[[Performance Indicators|教育指标]]纳为国家宏观多边信用评级的刚性杠杆。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, p. 542)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–107, 110)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]
+> - **1981–1999 — 结构调整贷款、[[Disciplina and Doctrina|规训]]性多边主义与[[National Innovation System|国家创新系统]]滞后** [[International Education|国际教育]]多边主义经历重大转向，战后教科文组织倡导的“有限再分配多边主义”衰落，世界银行主导的“防卫性与规训性多边主义”确立（Mundy, 1998; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 110]]）。世行推行华盛顿共识，将削减公共开支、用户付费与基础[[Educational Decentralization|教育分权]]作为贷款附加条件；通过[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数等技术[[Discourse|话语]]将新自由主义制度化（Carnoy & Rhoten, 2002; Heyneman, 2003）；[[Robert Arnove|阿诺夫]]（Arnove, 1980, 2009）深刻指出，世行推行的教育革新实质上固化了既有的中心-边缘与国内阶层分层体系（pp. 105–106）。[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman, 1995）进一步从[[Evolutionary Economics|演化经济学]]考察指出，1980 年代世界银行与[[International Monetary Fund|国际货币基金组织]]强推的紧缩与外债偿付方案重创了拉美（如巴西）的[[National Innovation System|国家创新系统]]，迫使政府削减高校科研与[[Engineering Education|工程教育]]投资，导致其与东亚新兴工业化经济体（如韩国）依靠自主研发与教育扩张的高速赶超拉开了致命差距。1997 年联合 [[OECD|经合组织]]与 [[UNESCO|联合国教科文组织]] 发起“世界[[Performance Indicators|教育指标]]”（World Education Indicators, WEI）项目，将量化指标方法学推广至非成员转型经济体；在 OECD 1996 年发布《以知识为基础的经济》后迅速跟进拥抱[[Knowledge-Based Economy|知识经济]]概念并发布系列专题报告。1999 年世行联合引入《[[Poverty Reduction Strategy Papers|减贫战略文件]]》（PRSPs），将[[Performance Indicators|教育指标]]纳为国家宏观多边信用评级的刚性杠杆。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, p. 542)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–107, 110)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–445)]]
 > - **1999–至今 — [[Knowledge Bank|知识银行]]转型与[[Shadow State|影子国家]]外包机制** 沃尔芬森（James Wolfensohn）主导世行转型为“知识银行”（Knowledge Bank）；虽于 1999 年创设[[Global Development Network|全球发展网络]]（GDN）探索本土去中心化[[Knowledge Production|知识生产]]，但迅速被华盛顿总部集权的工具所取代；2011 年推出[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER），联合英美双边援助机构组建[[Building Evidence in Education|构建教育证据联盟]]（BE2），确立自指性政策仓库；与此同时，在公共服务提供上日益绕过受援国政府直接委托非政府组织提供教育，架空了国家公共权威，使 NGO 蜕变为去政治化的“[[Shadow State|影子国家]]”（Sutton & Arnove, 2004; Kamat, 2004; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 111–112]]）。[[Argument_Steiner-Khamsi_2024_CE|(Stone, 2000; Steiner-Khamsi et al., 2024, pp. 543, 545, 548)]]
 
 ---
@@ -142,7 +148,7 @@ updated: 2026-10-12
 > [!finding-cards] 核心产品与业务矩阵
 > - **指南、规程与标准体系** [[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER）涵盖 13 个领域的政策基准量规；环境与社会保障框架（[[English Schools Foundation Hong Kong|ESF]]）；学校建设与采购标准化技术手册。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 543)]]
 > - **数据库、证据库与监测平台** [[World Development Indicators|世界发展指标]]（WDI）数据库（指标规模达 1,600 项）；涵盖 139 国 1,120 项估算的全球[[Return on Investment|教育投资回报率]]数据库；学习贫困测算平台。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 542, 548)]]
-> - **旗舰项目、调查与测评** 国际开发协会基础教育普及援助项目；结果导向型教育贷款（PforR）；全球学习评估支持倡议；与 [[UNESCO]]/[[UNICEF]] 联合发起的[[Learning Data Compact|学习数据契约]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
+> - **旗舰项目、调查与测评** 国际开发协会基础教育普及援助项目；结果导向型教育贷款（PforR）；全球学习评估支持倡议；与 [[OECD|经合组织]]、[[UNESCO|教科文组织]] 联合发起的“世界[[Performance Indicators|教育指标]]”（World Education Indicators, WEI）项目；与 [[UNESCO]]/[[UNICEF]] 联合发起的[[Learning Data Compact|学习数据契约]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
 > - **旗舰出版物与咨询成果** 1980 年《教育部门政策文件》；2018 年《世界发展报告：学习以实现教育的承诺》（WDR 2018）；各借贷国公共支出审查报告（PER）与国别教育战略备忘录。[[Argument_Steiner-Khamsi_2024_CE|(World Bank, 1980; Steiner-Khamsi et al., 2024, p. 542)]]
 
 > [!citation-card] 世界银行教育自主政策研究的独立宣言
@@ -160,7 +166,7 @@ updated: 2026-10-12
 > - **政策与制度渗透** 深度主导了全球南方 100 多个国家的国家教育部门计划（ESP）编制；将量化问责指标直接写入主权借贷契约，重塑了借贷国财政部与教育部之间的权力支配关系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
 > [!finding-cards] 关键成效与辐射影响
-> - **学术引领** 确立了[[Human Capital Theory|人力资本理论]]在[[Development Education|发展中国家教育]]政策中的绝对统治地位，推动以[[Causality|因果推断]]（RCTs、[[Difference-in-Differences|双重差分法]]）为主导的微观循证经济学[[Paradigm|范式]]成为全球教育政策研究的黄金标准。
+> - **学术引领** 确立了[[Human Capital Theory|人力资本理论]]在[[Development Education|发展中国家教育]]政策中的绝对统治地位，并在 1996 年后跟进[[OECD|经合组织]]全面吸纳[[Knowledge-Based Economy|知识经济]][[Discourse|话语]]，推动以[[Causality|因果推断]]（RCTs、[[Difference-in-Differences|双重差分法]]）为主导的微观循证经济学[[Paradigm|范式]]成为全球教育政策研究的黄金标准。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–445)]]
 > - **政策塑造** 迫使全球南方借贷国建立正规教育统计与公共支出追踪系统（PETS），推动初等教育免试入学与生均公用经费拨付机制建立。
 > - **学校与实践改变** 在成千上万所发展中国家乡村学校推行标准化教材配备、以考代评的绩效管理以及基于现金转移支付（[[Chartered College of Teaching|CCT]]）的入学出勤激励。
 
@@ -196,11 +202,22 @@ updated: 2026-10-12
 > >
 > > - **[[Robert Arnove|阿诺夫]]（Arnove, 1980, 2009）** 运用世界体系现实主义视角指出，世行推广的教育革新实质上固化了既有的中心-边缘与国内阶层分层；同时，世行等援助方绕过受援国政府直接出资委托非政府组织提供教育，导致国家丧失了统筹教育的核心权威，使 NGO 异化为去政治化的“影子国家”，严重侵蚀了公共教育主权。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–106, 111–112)]]
 > > - **世行援助官方立场** 辩称外部援助与民间组织合作能够绕开腐败低效的官僚机构，将资源更直接有效地送达基层贫困人口。
+>
+> > [!axis] 技术援助与指标合作的客观性 vs 新自由主义规范预设输出
+> > 争论世界银行参与跨国[[Performance Indicators|教育指标]]开发（如 WEI）是纯粹的中立技术赋能，还是潜移默化输出新自由主义政策预设。
+> >
+> > - **批判比较政策学者（Rutkowski, 2007; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）** 指出世行与经合组织、[[UNESCO|教科文组织]]联合推进的“世界教育指标”（WEI）等合作表面上依托严密的量化技术，实质上深植于新自由主义信条之中，根本无法将其技术专业知识与其关于教育经济功能的规范性政策预设割裂开来（p. 444）。
+> > - **多边机构技术官僚** 辩称跨国指标开发为发展中国家提供了客观对标全球基准的比较工具，有助于提升国家教育统计能力与治理透明度。
 
 > [!citation-card] 阿诺夫论跨国金融机构教育援助固化国际分层
 > 世界银行、[[International Monetary Fund|国际货币基金组织]]以及大型跨国基金会在受援国推广的教育革新，实质上并没有打破既有的依附格局，反而体系化地固化了国际分工与借贷国内部既有的阶层分化结构。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–106)]]
 >
 > *Educational innovations promoted by the World Bank, the IMF, and major foundations systematically function to stabilize internal and international stratification systems rather than democratizing society.*
+
+> [!citation-card] 里兹维与林加德论多边教育指标合作中的新自由主义技术化预设
+> [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）援引 Rutkowski 的研究指出，经合组织与世界银行、联合国教科文组织在“世界教育指标”（WEI）项目中的合作，表面上提供跨国比较的计量技术支持，实质上深植于新自由主义信条之中，根本无法将其所谓中立的技术专业知识与其关于教育服务于经济增长的规范性政策预设割裂开来。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
+>
+> *The OECD’s involvement in the WEI project is deeply grounded in neoliberal precepts that make it impossible to separate its technical expertise from its normative policy assumptions about the economic role of education. (Rutkowski, 2007, cited in [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, p. 444]])*
 
 ---
 
@@ -217,6 +234,9 @@ updated: 2026-10-12
 > | [[Learning Data Compact]] | 事实 (项目) | 世界银行与 [[UNESCO]]、[[UNICEF]] 联合发起的全球学习数据契约。 |
 > | [[George Psacharopoulos]] | 人物 | 主持建立世行 60 年教育回报率数据库的资深经济顾问。 |
 > | [[Robert Arnove]] | 人物 | 率先批判世界银行等援助机构固化国际分层并揭示影子国家外包机制的学者。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, pp. 105–106, 111–112)]] |
+> | [[Fazal Rizvi]] | 人物 | 与林加德合作解构世界银行参与的多边指标合作与新自由主义知识经济话语。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 443–445)]] |
+> | [[Bob Lingard]] | 人物 | 批判政策社会学家；实证剖析多边组织[[Social Imaginary\|全球社会想象]]建构与量化规制转向的代表学者。 |
+> | [[Knowledge-Based Economy]] | 概念 | 经合组织率先倡导、随后被世界银行全面采纳并重申的全球教育政策主导话语。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 444–445)]] |
 > | [[Shadow State]] | 概念 | 刻画世行等援助方绕过政府直接资助 NGO 导致国家公共主权流失的异化状态。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, pp. 111–112)]] |
 > | [[OECD]] | 事实 (机构) | 与世界银行并称数据驱动全球治理两大先行者的北方智库型中枢。 |
 > | [[Human Capital Theory]] | 理论 | 为世界银行将教育借贷合法化为生产性投资的底层经济学[[Paradigm\|范式]]。 |
@@ -237,3 +257,4 @@ updated: 2026-10-12
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 建立[[Conditioned State Theory|受限国家理论]][[Analytic Framework|分析框架]]，解构世界银行[[Financial-Intellectual Complex|金融-智识复合体]]通过结构调整与指标杠杆对第三世界[[State Educational Sovereignty|国家教育主权]]的深度规训（pp. 80–85）。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 运用[[World Education Reform Database|世界教育改革数据库]]实证检验世界银行的自指性[[Policy Brokerage|政策中介]]机制，详述其从 [[UNESCO]] 依附期到回报率帝国与[[Knowledge Bank|知识银行]]演变的全过程（pp. 540–550）。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 运用历史比较与统计分析，揭示 1980 年代受世界银行与外债危机约束的拉美经济体（如巴西）在教育投入与产业研发上的体制停滞，对照东亚自主型[[National Innovation System|国家创新系统]]的高速赶超，从[[Evolutionary Economics|演化经济学]]维度实证反思[[Structural Adjustment Programs|结构调整方案]]的负面制度锁定（pp. 13–15）。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 运用批判政策[[Discourse Analysis|话语分析]]透视世界银行与[[OECD|经合组织]]、教科文组织的“世界[[Performance Indicators|教育指标]]”（WEI）合作，揭示其如何以技术化指标包装新自由主义经济预设，并跟进[[Knowledge-Based Economy|知识经济]]政策[[Discourse|话语]]（pp. 443–445）。
