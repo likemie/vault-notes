@@ -8,10 +8,10 @@ aliases:
   - 竞争性地缘政治装置
   - National Competitiveness
   - competitive university
-summary: "驱动国家科技战略、大学治理变革与劳动力技能重塑的核心逻辑与地缘政治装置。在宏观上体现为长程战略计算、先进制造与地缘威慑；在中观上体现为产学中心破除学科壁垒与排名审计重塑大学；在微观上体现为产线组织学习与学习分析；卡普与扎米斯卡进一步论证，国家千年期战略决断、创始人长期主义与全员股权所有权模式，构成了抵御短期金融化与维系持久科技竞争力的决定性底座。"
+summary: "驱动国家科技战略、大学治理变革与劳动力技能重塑的核心逻辑与地缘政治装置。在新自由主义社会想象下，国家经济竞争力被假定为直接取决于由国际标准衡量的教育质量；在宏观上体现为长程战略计算、先进制造、跨国多边监测与地缘威慑；在中观上体现为产学中心破除学科壁垒与排名审计重塑大学；在微观上体现为产线组织学习与学习分析；创始人长期主义与全员股权模式构成了抵御短期金融化的深层底座。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 72
+related_count: 73
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Student Mobility]]"
   - "[[Teacher Mobility]]"
   - "[[Employability]]"
+  - "[[Social Imaginary]]"
   - "[[Founder Culture]]"
   - "[[Return on Investment]]"
   - "[[Global Universities Rankings]]"
@@ -56,8 +57,10 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Engineering Education]]"
   - "[[Electronic Design Automation]]"
+  - "[[Public Value]]"
   - "[[Big Science]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[Variable]]"
   - "[[Falsification]]"
   - "[[National Innovation System]]"
@@ -76,7 +79,11 @@ related_persons:
   - "[[Henry Kissinger]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
+  - "[[Fazal Rizvi]]"
+  - "[[Bob Lingard]]"
 related_facts:
+  - "[[OECD]]"
+  - "[[PISA]]"
   - "[[Office of Science and Technology Policy]]"
   - "[[Engineering Research Centers]]"
   - "[[CHIPS and Science Act]]"
@@ -85,6 +92,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[Erasmus Programme]]"
   - "[[TEMPUS]]"
+  - "[[Education at a Glance]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Competitive Semiconductor Manufacturing Program]]"
   - "[[Sematech]]"
@@ -97,6 +105,7 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Bozeman_2004_JTT]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18]]"
   - "[[Argument_Thompson_2022_Promising_Student]]"
   - "[[Argument_Macher_1998_CMR]]"
@@ -106,7 +115,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-19
-updated: 2026-10-10
+updated: 2026-10-13
 ---
 
 # Competitiveness
@@ -118,12 +127,13 @@ updated: 2026-10-10
 > [!def] 核心定义
 > **竞争力（Competitiveness，包含国家竞争力 National Competitiveness、产业技术竞争力、高等教育竞争力与劳动力竞争力）**指驱动国家科技创新战略、大学治理变革与劳动力技能重塑的核心逻辑与地缘政治装置（Geopolitical Apparatus）。
 >
-> 该[[Construct|构念]]在当代跨学科科技政策、高等教育学与政治经济学中包含五个紧密嵌套的层级构型：
+> 该[[Construct|构念]]在当代跨学科科技政策、高等教育学与政治经济学中包含六个紧密嵌套的层级构型：
 > 1. **宏观国家战略与实体制造竞争力（Macro National & Manufacturing Competitiveness）** 指国家在全球经贸与地缘博弈中确立并维系工业技术主权、制造能力与战略威慑的综合实力。在时间跨度上依托数代人乃至“千年期”（Thousand-Year Horizon）的长程战略决断；在空间与制度上破除规制行政阻滞、开放共享试验场与[[Megascience Installations|大科学装置]]、组建前竞争技术联合体，将基础科学发现深度锚定于本土先进制造与产业链闭环。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 33–46)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–197, 204)]]; [[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 367)]]
 > 2. **超国家一体化与跨国[[Human Capital Theory|人力资本]]流动竞争力（Supranational & Mobile Human Capital Competitiveness）** 指在区域一体化（如[[European Education Space|欧洲教育空间]]）中，通过将跨国人员流动（[[Student Mobility|学生流动]]与[[Teacher Mobility|教师流动]]）建构为时代美德与公民资本，将劳动力市场不确定性与全球竞争风险转化为个体需自负盈亏打造的灵活[[Employability|就业能力]]（Employability-related Competencies）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
-> 3. **组织治理与长期创始人溢价竞争力（Institutional Governance & Founder Stewardship）** 指科技企业与研究机构抵御短期资本市场季度财报压力、维系长周期突破性创新的治理机制。卡普与扎米斯卡指出，创始人掌舵（Founder Premium）与全员股权所有权模式（[[Founder Culture|ownership society]]）相比委员会合规治理展现出显著的超额[[Return on Investment|投资回报]]与高价值专利产出优势。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 209–212)]]
-> 4. **中观大学机构治理与地缘声誉竞争力（Meso Institutional & Higher Education Competitiveness）** 指一种重新组织大学及学者行为的治理装置：在科研端通过多用途跨学科研究中心（MMURC）对接国家战略需求；在评价端通过[[Global Universities Rankings|全球大学排名]]、卓越计划与指标审计将大学转化为竞争性市场主体。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 219–220)]]
-> 5. **微观劳动力技能与个体学业竞争力（Micro Student & Workforce Competitiveness）** 指在数字化治理与[[Human Capital Theory|人力资本]]框架下，通过[[Learning Analytics|学习分析]]、在线自评与产线组织学习，将学业与生产不确定性转化为可干预的数据，培养具备自我优化能力的工程技术劳动力。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 220–221)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 117–118)]]
+> 3. **跨国教育绩效对标与多边监测竞争力（Transnational Educational Benchmarking Competitiveness）** 指在新自由主义[[Social Imaginary|社会想象]]下，将国家经济繁荣假定为直接取决于由国际标准衡量的教育与培训系统质量（Brown et al., 1997）。[[OECD|经合组织]]通过 [[PISA]] 与数据指标实施多边监测，将原本属于主权国家内部民主审议的教育议程，彻底改造为在全球排行榜中争夺相对位次与人力资本比较优势的经济竞争工具。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–445, 447)]]
+> 4. **组织治理与长期创始人溢价竞争力（Institutional Governance & Founder Stewardship）** 指科技企业与研究机构抵御短期资本市场季度财报压力、维系长周期突破性创新的治理机制。卡普与扎米斯卡指出，创始人掌舵（Founder Premium）与全员股权所有权模式（[[Founder Culture|ownership society]]）相比委员会合规治理展现出显著的超额[[Return on Investment|投资回报]]与高价值专利产出优势。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 209–212)]]
+> 5. **中观大学机构治理与地缘声誉竞争力（Meso Institutional & Higher Education Competitiveness）** 指一种重新组织大学及学者行为的治理装置：在科研端通过多用途跨学科研究中心（MMURC）对接国家战略需求；在评价端通过[[Global Universities Rankings|全球大学排名]]、卓越计划与指标审计将大学转化为竞争性市场主体。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 219–220)]]
+> 6. **微观劳动力技能与个体学业竞争力（Micro Student & Workforce Competitiveness）** 指在数字化治理与[[Human Capital Theory|人力资本]]框架下，通过[[Learning Analytics|学习分析]]、在线自评与产线组织学习，将学业与生产不确定性转化为可干预的数据，培养具备自我优化能力的工程技术劳动力。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 220–221)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 117–118)]]
 
 > [!concept-lens] 概念透镜
 > - **核心功能** 竞争力不仅是对现实经济与学术实力差异的事[[Pre-test and Post-test|后测]]量，更是一种前置重构国家科技投资结构、大学学术制度与个体行动意愿的[[Disciplina and Doctrina|规训]]与动员装置。
@@ -179,6 +189,7 @@ updated: 2026-10-10
 > - **跨学科中心化组织与前竞争联合体（Interdisciplinary Consortia & Centers）** 突破传统院系系所割裂，以大学研究中心与公私联合体统筹跨行业共性重资产风险。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004)]]
 > - **排名与指标化作为竞争基础设施（Metric Infrastructure & Rankings）** 排名量化指标主动生产差异，将全球竞争想象下沉至大学与学者日常行为。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, p. 220)]]
 > - **以人为本的产线工程组织学习（Human-Centered Engineering Learning）** 强调微观制造竞争力源于一线技术人员的[[Process Knowledge|过程知识]]与快速排障，而非单纯依赖硬件机械自动化。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 117–118)]]
+> - **全球跨国对标与多边监测机制（Multilateral Surveillance & International Benchmarking）** 在新自由主义[[Social Imaginary|社会想象]]下，国家竞争力被假定为直接取决于由国际标准衡量的教育与培训系统质量（Brown et al., 1997）；[[OECD]] 等国际组织通过 [[PISA]] 与量化指标实施多边监测，促使各国依据国际排位调整本国教育投资与课程结构，将教育全面工具化为服务于国家经济竞争力的关键杠杆。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–445, 447)]]
 
 > [!logic-map]- 竞争力多层治理与传导逻辑图
 > ```mermaid
@@ -318,6 +329,16 @@ updated: 2026-10-10
 
 ---
 
+### 命题十　新自由主义社会想象将国家经济竞争力锚定于跨国教育绩效对标，重塑主权政策议程
+
+> [!concept-lens] 跨国对标、多边监测与国家竞争力工具化
+> 探讨全球化与新自由主义[[Social Imaginary|社会想象]]如何将国家经济竞争力直接绑定于由跨国标准衡量的教育系统质量，从而重塑主权国家的元政策目标。
+
+> [!claim] Brown et al. (1997); [[Fazal Rizvi|Rizvi, F.]] and [[Bob Lingard|Lingard, B.]] (2009)
+> **教育系统质量被建构为决定国家全球经济竞争力的本体前提** 布朗等人（Brown, Halsey, Lauder, & Stuart Wells, 1997）指出，在新自由主义全球化范式下，国家间经济竞争的基础发生了根本性转移：一个国家的经济繁荣与财富创造，被普遍假定为直接取决于其国家教育与培训系统的质量，且这种质量必须依据国际通行的客观标准加以衡量。法扎尔·里兹维（Fazal Rizvi）与鲍勃·灵格德（Bob Lingard）进一步论证，[[OECD|经合组织]]（OECD）正是这一社会想象的核心构建者与推动者；通过推行 [[PISA]] 国际联赛排位与“[[Education at a Glance|教育概览]]”指标体系，OECD 实施了高度精密的多边监测（multilateral surveillance）。这种机制迫使主权国家将自身教育成效置于全球横向对标之中，导致国家教育政策被全面重构为服务于全球经济竞争力的工具，深层挤压了教育在培养批判公民、促进社会公平与维系民主凝聚力方面的传统[[Public Value|公共价值]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–445, 447)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 竞争力核心命题归纳
@@ -332,6 +353,7 @@ updated: 2026-10-10
 > | **创始人溢价与所有权社会** | 创始人长期主义与全员股权所有权模式打破短期金融化，奠定深科技长周期竞争优势 | 科技企业治理、深科技研发投资、员工激励与反短期主义 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025, Ch. 18); Fahlenbrach (2009); Lee et al. (2016) |
 > | **教育标准与开源生态锁定** | 高校工程课程将开源指令集与 EDA 工具链植入教学，通过工程师技术偏好锁定全球产业事实标准与生态优势 | 大国深科技博弈、开源软硬件生态与技术事实标准争夺 | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026, p. 20)]]; [[Argument_Fan_2026_BCAS\|樊春良 (2026, pp. 24–27)]] |
 > | **超国家流动与就业责任个体化** | 超国家政策将跨国流动性美德化为公民资产，将劳动力市场竞争不确定性转嫁为个体需自我负责的就业胜任力 | [[European Education Space\|欧洲教育空间]]、ERASMUS、[[Internationalization of Higher Education\|高等教育国际化]]与劳动力政策 | Papatsiba (2005, 2006); Nóvoa (2002); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] |
+> | **跨国教育对标与政策重构** | 国家经济竞争力被建构为直接系于由国际标准衡量的教育质量；多边监测将全球竞争内化为国内教育改革元目标 | 跨国数据治理、经合组织 PISA 国际排名、新自由主义教育改革 | Brown et al. (1997); [[Fazal Rizvi\|Rizvi]] & [[Bob Lingard\|Lingard]] (2009) |
 
 ---
 
@@ -341,12 +363,14 @@ updated: 2026-10-10
 > - **1945–1970s — 战后边疆契约与后发国家突围奠基** 范内瓦·布什确立线性科学模型；[[Lee Kuan Yew|李光耀]]在新加坡独立初期确立“面向千年期”的长程国家规划，通过重塑语言与[[Human Capital Theory|人力资本]]奠定突围基础。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–197)]]
 > - **1980s — 制造危机震荡与产学协同中心制度化** 日本先进制造崛起引发美国产业竞争力恐慌；1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》与 1984 年 [[Engineering Research Centers|NSF ERC]] 计划相继出台，国家竞争力被法定确立为大学工程科研与产学协同的核心支柱。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 367)]]
 > - **1990s — 产线组织学习与全员股权所有权创新** [[Competitive Semiconductor Manufacturing Program|CSM]] 项目实证确立一线组织学习对工程竞争力的核心作用（[[Argument_Macher_1998_CMR|Macher et al., 1998]]）；硅谷开创向全员授予股权的现代所有权模式；[[Sematech]] 与 [[EUV LLC]] 联合体探索前竞争共担机制。
-> - **1990s–2000s — [[Global Universities Rankings|全球大学排名]]基础设施化与欧洲流动性竞争** 英国开展 [[Research Excellence Framework|RAE]]/REF，德国推行卓越计划；欧洲联盟启动[[Lisbon Strategy|里斯本战略]]，将提升欧洲整体竞争力与大学生的跨国流动能力绑定，将就业竞争压力个体化（Papatsiba, 2005; [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）。
+> - **1990s–2000s — [[Global Universities Rankings|全球大学排名]]基础设施化、跨国教育对标与欧洲流动性竞争** 英国开展 [[Research Excellence Framework|RAE]]/REF，德国推行卓越计划；欧洲联盟启动[[Lisbon Strategy|里斯本战略]]，将提升欧洲整体竞争力与大学生的跨国流动能力绑定（Papatsiba, 2005; [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）；[[OECD|经合组织]]启动[[PISA]]，确立国家经济竞争力直接系于教育绩效跨国对标的新自由主义政策[[Paradigm|范式]]（Brown et al., 1997; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）。
 > - **2020s — 国家长程战略、开源标准与深科技竞争力重塑** 《[[CHIPS and Science Act|芯片与科学法案]]》推动建立前竞争中试枢纽（[[Albany NanoTech Complex|Albany NanoTech]] / MIT.nano）与“教育即标准”开源生态锁定机制；卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中系统总结国家千年期战略意志、创始人溢价与所有权公社对抵御短期金融化的决定性意义；白宫 [[Office of Science and Technology Policy|OSTP]] 发布战略报告重塑硬科技试验场与本土制造竞争力。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 17–26)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, Ch. 17)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Ch. 18)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026)]]
 
 ---
 
 ## 争议与批评
+
+围绕竞争力逻辑的深层学术争议集中于国家与市场的角色、治理结构以及[[Public Value|公共价值]]的平衡：
 
 > [!debates] 围绕竞争力逻辑的深层学术争议
 >
@@ -367,6 +391,12 @@ updated: 2026-10-10
 > >
 > > - **纯学术发表至上派** 认为基础科学突破是全人类财富，只要维持论文引用领先即可自然保有全球科技[[Discourse|话语]]权。
 > > - **实体制造锚定派（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）** 指出仅有论文而无本土制造会导致纳税人买单的成果被对手产业垄断；下一代设计能力深植于制造环节。
+>
+> > [!axis] 国家经济竞争力导向 vs 民主公民权与批判公共价值
+> > 探讨教育体制的核心天职究竟是服务于国家在全球市场中的人力资本与经贸竞争力，还是保障批判性公民权与社会正义。
+> >
+> > - **国家经济竞争力优先派（Brown et al., 1997 述及之政策主流）** 强调在[[Knowledge-Based Economy|知识经济]]时代，国家繁荣与国民福祉直接系于劳动力技能质量，教育必须全面对接国际经济竞争指标与人力资本最大化。
+> > - **批判公共价值派（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）** 批评过度以国际竞争力指标审判教育，将公学系统异化为经济工具，消解了培育民主公民、批判反思与促进社会平等的深层公共价值。
 
 ---
 
@@ -396,4 +426,5 @@ updated: 2026-10-10
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 实证揭示以人为本的产线组织数据学习与快速工程排障对产业微观工程竞争力的决定性超越。
 > - [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]] — 运用[[Governmentality|治理术]]与[[Societies of Control|控制社会]]理论，剖析竞争力作为地缘政治装置如何依托排名与[[Learning Analytics|学习分析]]重塑高等教育。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 援引 Papatsiba（2005）剖析超国家教育一体化政策，揭示官方[[Discourse|话语]]如何将劳动力市场竞争力与就业风险转化为青年需自负盈亏打造的跨国流动性美德。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 援引布朗等人（Brown et al., 1997）论述，深入解构新自由主义[[Social Imaginary|社会想象]]如何将国家经济竞争力绑定于以国际标准衡量的教育质量，剖析[[OECD|经合组织]]多边监测与 [[PISA]] 如何将全球竞争压力内化为主权国家的国内政策议程（pp. 444–445, 447）。
 
