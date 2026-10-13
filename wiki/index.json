@@ -28890,16 +28890,6 @@
     ]
   },
   {
-    "title": "Organisation for European Economic Co-operation",
-    "type": "fact",
-    "path": "wiki/facts/global/Organisation for European Economic Co-operation.md",
-    "aliases": [
-      "OEEC",
-      "欧洲经济合作组织",
-      "European Economic Co-operation"
-    ]
-  },
-  {
     "title": "Pause Giant AI Experiments Open Letter",
     "type": "fact",
     "path": "wiki/facts/global/Pause Giant AI Experiments Open Letter.md",
@@ -29116,6 +29106,16 @@
       "经济合作与发展组织",
       "Organisation for Economic Co-operation and Development",
       "经合组织"
+    ]
+  },
+  {
+    "title": "Organisation for European Economic Co-operation",
+    "type": "fact",
+    "path": "wiki/facts/global/Organisation for European Economic Co-operation.md",
+    "aliases": [
+      "OEEC",
+      "欧洲经济合作组织",
+      "European Economic Co-operation"
     ]
   },
   {

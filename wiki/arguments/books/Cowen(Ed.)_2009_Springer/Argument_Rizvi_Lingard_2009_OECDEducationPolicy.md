@@ -7,7 +7,7 @@ title: "Argument_Rizvi_Lingard_2009_OECDEducationPolicy"
 argument_key: "Argument_Rizvi_Lingard_2009_OECDEducationPolicy"
 argument_display_title: "The OECD and Global Shifts in Education Policy"
 argument_kind: "book-chapter"
-argument_related_count: 57
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -52,7 +52,6 @@ related_concepts:
   - "[[Steering at a Distance]]"
   - "[[Creativity]]"
   - "[[Epistemology]]"
-  - "[[Innovation Hub]]"
   - "[[Research Scope]]"
   - "[[Technical Rationality]]"
   - "[[Liberalization]]"
@@ -188,7 +187,7 @@ updated: 2026-10-13
 >
 > - **[[Centre for Educational Research and Innovation|CERI]]设立与定性维度破局（1968年）**
 >
->   1968年经合组织正式设立教育研究与[[Innovation Hub|创新中心]]（Centre for Educational Research and Innovation, CERI）。这一转变源于组织内部逐渐认识到经济增长不仅有数量规模，更有定性维度，应当将教育作为改善生活条件的重要工具。（p. 439）
+>   1968年经合组织正式设立[[Centre for Educational Research and Innovation|教育研究与创新中心]]（Centre for Educational Research and Innovation, CERI）。这一转变源于组织内部逐渐认识到经济增长不仅有数量规模，更有定性维度，应当将教育作为改善生活条件的重要工具。（p. 439）
 >
 > - **教育人文使命与民主化合法化（1970年）**
 >
