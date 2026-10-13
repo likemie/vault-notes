@@ -7,7 +7,7 @@ aliases:
   - 教育国家化
   - 教育为国家公共资源
   - education as a public resource
-summary: "近代世俗民族国家在打破宗教神权与宗族私权中确立的最高教育管辖权与视察责任，主张教育属神圣国家公共资源。20世纪末以来，国家教育主权面临超国家测评治理、WTO/GATS跨国经贸规约与非政府组织影子国家外包的多标度侵蚀，以及欧洲多层级治理下成员国排他性防守与次国家民族主义争夺的双重挤压。"
+summary: "近代世俗民族国家在打破宗教神权与宗族私权中确立的最高教育管辖权与视察责任，主张教育属神圣国家公共资源。20世纪末以来，国家教育主权面临超国家测评治理、WTO/GATS跨国经贸规约与非政府组织影子国家外包的多标度侵蚀，并在多层网络治理中转型为由跨国软法测评与国内政治合法化共同维系的“权力共享行使”机制。"
 type: concept
 domain: "comparative-education"
 related_count: 40
@@ -55,6 +55,8 @@ related_persons:
   - "[[Robert Arnove]]"
   - "[[José Luis García Garrido]]"
   - "[[Michael Sadler]]"
+  - "[[Fazal Rizvi]]"
+  - "[[Bob Lingard]]"
 related_facts:
   - "[[World Trade Organization]]"
   - "[[GATS and Trade in Education Services]]"
@@ -68,10 +70,11 @@ related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-11
+updated: 2026-10-13
 ---
 
 # State Educational Sovereignty
@@ -128,7 +131,8 @@ updated: 2026-10-11
 > - **超国家经贸规制对主权排他性的穿透（Transnational Trade Penetration）** 世纪之交[[World Trade Organization|世贸组织]]《[[GATS and Trade in Education Services|服务贸易总协定]]》（GATS）将高等教育界定为商业服务，要求成员国开放市场准入并给予国民待遇，直接穿透了传统国家对学校准入与文凭颁发的主权壁垒。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 > - **[[Pluri-Scalar Governance|多标度治理]]对主权职能的空间重组（Pluri-Scalar Sovereign Redistribution）** 戴尔与罗伯逊等人（Robertson, Bonal, & Dale, 2002）指出，教育治理活动（筹资、所有权、供给与规约）被重新分布在超国家、国家与次国家空间网络之中，国家主权从单一层级垄断转变为多标度协调。
 > - **非政府组织外包与“[[Shadow State|影子国家]]”对主权责任的架空（The Shadow State and Public Sovereignty Hollowing）** 国际援助方绕过政府直接资助非政府组织提供基础教育，使国家丧失了统筹公共教育的核心权威，民间机构沦为缺乏公共问责的合同承包商并架空了国家主权。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 111–112)]]
-
+> - **跨国多层网络治理与主权权力共享（Multilevel Network Governance and Shared Exercise of Power）** 戴维·赫尔德（David Held）与安东尼·麦克格鲁（Anthony McGrew）指出，全球化并未直接消解国家教育主权，而是重塑了主权权力的运作条件；主权在跨国政策网络中转型为超国家、国家与次国家行动者的“权力共享行使”（a shared exercise of power）。主权国家通过制度化参与[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）等多边监测平台，主动将跨国量化指标借用为推进国内具争议性教育改革的外部合法化杠杆。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444, 447)]]
+>
 > [!logic-map]- 国家教育权运行机制与当代多标度变迁架构
 > ```mermaid
 > flowchart TD
@@ -143,7 +147,8 @@ updated: 2026-10-11
 >     
 >     G -.超国家经贸穿透 (WTO/GATS).-> H["多标度治理空间重组与商品化冲击"]
 >     G -.援助绕过国家直接委托 NGO.-> I["影子国家异化与公共教育主权流失"]
->     H & I -.国家安全与地缘危机反弹.-> J["主权强力再介入与政治再领土化"]
+>     G -.多边测评与软法治理 (OECD).-> K["跨国多层网络治理与主权权力共享转型"]
+>     H & I & K -.国家战略调控与外部改革合法化.-> J["主权职能重构与政策借用"]
 > ```
 
 ---
