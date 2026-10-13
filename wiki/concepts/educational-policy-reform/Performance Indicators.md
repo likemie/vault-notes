@@ -4,7 +4,7 @@ aliases:
   - 绩效指标
   - education indicators
   - 教育指标
-summary: "经过目的性选择和加工的派生统计量，具备“技术理性”与“权力规制”双重属性（Le Galès, 2016）。通过将异质、复杂的教育系统还原为跨国可比的数值与排名，绩效指标在提供决策信息的同时重塑行动者行为与治理关系。在数字治理 2.0 时代，绩效指标成为中介机构为充满歧义性的政策决策构筑“理性表象”的核心脚手架（Steiner-Khamsi et al., 2024）。"
+summary: "经过目的性选择和加工的派生统计量，具备“技术理性”与“权力规制”双重属性（Le Galès, 2016）。通过将异质、复杂的教育系统还原为跨国可比的数值与排名，绩效指标在提供决策信息的同时重塑行动者行为与治理关系。在数字治理 2.0 时代，绩效指标成为构筑“理性表象”的政治脚手架（Steiner-Khamsi et al., 2024）；并在经合组织“数字政策进路”与投入产出系统中以等价空间信度悬置教育目的哲学辩论（Rizvi & Lingard, 2009）。"
 type: concept
 domain: "educational-policy-reform"
 related_count: 51
@@ -60,6 +60,8 @@ related_instruments: []
 related_persons:
   - "[[Norberto Bottani]]"
   - "[[Bob Jessop]]"
+  - "[[Fazal Rizvi]]"
+  - "[[Bob Lingard]]"
 related_facts:
   - "[[OECD]]"
   - "[[International Indicators of Education Systems]]"
@@ -76,10 +78,11 @@ related_arguments:
   - "[[Argument_Rambla_2022_Springer]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Rust_2009_Reflections]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-09
+updated: 2026-10-13
 ---
 
 # Performance Indicators

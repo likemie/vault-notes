@@ -7,10 +7,10 @@ aliases:
 summary: "指通过量化指标、跨国测评与数据比较实现全球教育治理的软性机制。Grek (2009) 奠基该概念，Rizvi 与 Lingard (2009) 揭示经合组织依托 PISA 自建跨国等价空间并推行“数字即政策”，以技术排位压制价值判断并维系知识经济社会想象；Steiner-Khamsi 等（2024）进一步拓展为数字治理 2.0，聚焦信息过载下政策中介的证据包装与组织利基争夺。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 43
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - governance-by-numbers
   - pisa
@@ -204,7 +204,7 @@ updated: 2026-10-13
 
 > [!dev-timeline] 概念演变
 > - **1999 — “数字即政策”（Policy as Numbers）政治社会学奠基** 尼古拉斯·罗斯（Nikolas Rose, 1999）阐明数字在现代治理中使复杂判断隐形化与不可置疑化的权力机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 447)]]
-> - **2009 — 数字治理 1.0 与全球等值空间确立** Grek (2009) 提出以数字治理概念，Rizvi and Lingard (2009) 结合阿兰·德罗西埃（Alain Desrosières, 1998）的“等值空间”理论，系统剖析[[OECD|经合组织]]如何依托 [[PISA]] 产生的数据流将全球教育空间纳入去政治化的软治理网络。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> - **2009 — 数字治理 1.0 与全球等值空间确立** Grek (2009) 提出以数字治理概念；[[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]结合阿兰·德罗西埃（Desrosières, 1998）的“等值空间”理论，系统剖析[[OECD|经合组织]]如何依托 [[PISA]] 产生的数据流将全球教育空间纳入去政治化的软治理网络。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 > - **2018 — [[Soft Power by Hard Facts|硬事实软权力]]机制提炼** Niemann & Martens 提出 Soft governance by hard facts 命题，揭示量化事实作为非强制治理工具的有效性。
 > - **2024 — 数字治理 2.0 理论演进** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 提出数字治理 2.0 议程，将研究视域拓展至多学科、跨国[[Relational Space|关系性空间]]，聚焦[[Policy Brokerage|政策中介]]在信息过载时代的多阶段证据包装与组织竞合。
 

@@ -10,10 +10,10 @@ aliases:
 summary: "涵盖微观制造经验积累与宏观创新系统演进的双重经济分析范式。微观上指累计产量翻番带来单位生产成本下降20%–30%的动态学习效应；宏观上指在全球化与技术快速变迁中，竞争力取决于动态学习与知识吸收能力而非静态要素存量；在新增长理论与经合组织政策框架中，更指财富创造取决于沟通性互动学习与全生命周期技能更新，驱动经济体向终身学习形态转型。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 34
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/innovation-studies
   - theme/learning-economy
@@ -191,8 +191,8 @@ updated: 2026-10-13
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **微观制造学习曲线** | 累计经验积累使单位产品成本每翻一番下降 20%–30%，公共采购托底是跨越早期高成本门槛的关键 | 资本与技术密集型新兴制造工业（如半导体、光伏、电池） | [[Argument_Schnee_1978_RP\|Schnee (1978)]]; Arrow (1962) |
-> | **宏观动态学习能力** | 竞争优势源于知识获取、吸收与遗忘的敏捷学习流速而非静态存量 | 全球化竞争与技术快速变迁的现代[[Knowledge-Based Economy\|知识经济]]体 | [[Argument_Caraca_2009_TFSC\|Caraça et al. (2009)]]; Lundvall & Johnson (1994) |
-> | **多通道互动学习协同** | 经验互动学习（DUI）与研发探索（STI）具有同等重要性，突破了线性科学观 | 企业复杂系统创新与国家[[Systems of Innovation\|创新系统]]治理 | [[Argument_Caraca_2009_TFSC\|Caraça et al. (2009)]]; Jensen et al. (2007) |
+> | **宏观动态学习能力** | 竞争优势源于知识获取、吸收与遗忘的敏捷学习流速而非静态存量 | 全球化竞争与技术快速变迁的现代[[Knowledge-Based Economy\|知识经济]]体 | [[Argument_Caraca_2009_TFSC\|Caraça et al. (2009, pp. 864–866)]]; Lundvall & Johnson (1994) |
+> | **多通道互动学习协同** | 经验互动学习（DUI）与研发探索（STI）具有同等重要性，突破了线性科学观 | 企业复杂系统创新与国家[[Systems of Innovation\|创新系统]]治理 | [[Argument_Caraca_2009_TFSC\|Caraça et al. (2009, p. 862)]]; Jensen et al. (2007) |
 > | **新增长与学习型经济转型** | 静态知识快速折旧，财富创造取决于人际沟通学习与分享创新的敏捷度，迫使教育治理转向终身学习 | 国家宏观创新战略与全生命周期技能政策演进 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009, pp. 445–446)]]; Foray & Lundvall (1996) |
 
 ---

@@ -4,7 +4,7 @@ aliases:
   - 新公共管理
   - NPM
   - 新公共管理主义
-summary: "以企业管理与市场竞争逻辑重塑公共部门的治理范式，强调绩效指标、产出控制、性价比核算、供给竞争、管理问责与服务外包，在带来微观成本控制的同时导致公共部门去技能化与创新治理的青蛙视角"
+summary: "以企业管理与市场竞争逻辑重塑公共部门的治理范式，强调绩效指标、产出控制、性价比核算、供给竞争与服务外包；经合组织等借“良治”话语将教育治理从目的辩论置换为投入产出效率与比较绩效远处掌舵，在带来微观成本控制的同时导致公共部门去技能化与创新治理的青蛙视角。"
 type: concept
 domain: "educational-leadership-administration"
 related_count: 61
@@ -67,6 +67,8 @@ related_persons:
   - "[[Rainer Kattel]]"
   - "[[Mariana Mazzucato]]"
   - "[[Walter J. M. Kickert]]"
+  - "[[Fazal Rizvi]]"
+  - "[[Bob Lingard]]"
 related_facts:
   - "[[Early Steps]]"
   - "[[Ofsted]]"
@@ -85,10 +87,11 @@ related_arguments:
   - "[[Argument_Eacott_2011_JEAH]]"
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 
 # New Public Management
@@ -120,6 +123,11 @@ updated: 2026-10-12
 >
 > *Despite apparent parallels with Dutch 'steering at a distance', Next Steps is concerned with executive agencies within central government. Universities and polytechnics are definitely not part of central government. Administrative relationships are therefore different.*
 
+> [!citation-card] 里兹维与林加德论新公共管理与“良治”话语下的教育治理转向
+> 在推进教育政策的技术化过程中，经合组织不仅成功将教育目标收拢至知识经济的社会想象，还大力推销一种特定内涵的教育“良治”（good governance）——这一修辞遮蔽了其深层的教育意识形态转移。植根于新公共管理（OECD, 1995）关于通过比较绩效指标实现“远处掌舵”（steering at a distance）的核心主张，经合组织有效地将教育治理的重心从关于教育本质与目的的讨论，全面置换为决策透明度、权力下放形式、绩效测量技术、国际基准对标、质量保证机制、适度问责规制以及公共资源利用效率等技术事务。这表明教育的有效性已被窄化为对全球劳动力市场需求的经济适应能力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+>
+> *Located within the ideas of the new public management (OECD, 1995), which attaches a great deal of important to the mechanisms of 'steering at a distance' through comparative performance measures, the OECD has effectively shifted the focus of the educational governance from questions of purpose to such issues concerning transparency of decision-making processes, forms of devolution, technologies of measuring educational performance, international benchmarking, mechanisms of quality assurance, appropriate accountability regimes, sources of educational funding, effective uses of public resources, and so on.*
+
 > [!boundary]- 概念边界
 > - 不等于 内生私有化 — NPM 是内生私有化的核心操作机制（将商业逻辑引入公共部门内部），但内生私有化范畴更宽，涵盖商业思维进入公共系统的全部形式。
 > - 不等于 传统[[Bureaucracy|科层制]]管理 — 传统科层制强调行政规则遵从与程序规范，而 NPM 强调产出指标达标与结果问责。
@@ -145,6 +153,7 @@ updated: 2026-10-12
 
 > [!feature] 核心要素
 > - **绩效标准与量化测量** 将标准化测试成绩、基准测试与质量保证框架作为核心管理工具，形成贯穿全系统的[[Governing by Numbers|数字治理]]机制。[[Argument_Møller_2017_EERJ|(Møller, 2017, pp. 381–382)]]
+> - **“良治”（Good Governance）修辞与治理目的的技术化置换** 依托经合组织 1995 年《转型中的治理》纲领，新公共管理以中立的“良治”修辞遮蔽其新自由主义意识形态转型，将教育治理的焦点从“教育目的与社会公平的政治哲学辩论”彻底置换为问责机制、质量保证、投入产出效率与国际基准对标等技术程序。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 > - **产出控制与性价比核算** 以可量化的产出指标评价机构，将投入产出比（Value for Money, VfM）作为资源配置的核心前提。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 90)]]
 > - **准市场竞争与供给多元化** 推动学校、大学与研究机构为生源与科研经费展开竞争，引入多元民营与社会供给主体。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 96–97)]]
 > - **管理主义问责替代专业自主** 要求机构领导者对运行效率承担直接责任，使专业人员身份演变为国家改革政令的执行交付者。[[Argument_Eacott_2011_JEAH|(Eacott, 2011, p. 52)]]
@@ -232,6 +241,16 @@ updated: 2026-10-12
 
 ---
 
+### 命题六　新公共管理将教育治理从目的辩论置换为投入产出效率，并借“良治”修辞推行比较绩效远处掌舵
+
+> [!concept-lens] 治理意识形态隐蔽化与比较绩效掌舵机制
+> 探讨国际组织如何将新公共管理原则转化为全球教育治理规范，借技术理性遮蔽价值取向，并依托跨国指标实现远处掌舵。
+
+> [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]] (2009)
+> **“良治”修辞下教育治理向新公共管理远处掌舵的范式转移** 法扎尔·里兹维与鲍勃·林加德结合经合组织 1995 年公共管理改革报告《转型中的治理》（OECD, 1995）指出，经合组织在全球推行技术性政策研究的过程中，极具策略性地推广了“良治”（good governance）概念。这一看似中立的术语实际上掩盖了教育意识形态的深刻转向。植根于新公共管理关于通过比较绩效指标实现[[Steering at a Distance|远处掌舵]]（steering at a distance）的核心构想，经合组织成功将教育治理的关注点从关于教育本质与社会目的的政治哲学探讨，转移到决策透明度、权力下放形式、绩效测量技术、国际基准对标、质量保证机制以及公共资源使用效率等一系列流程问题。这套技术化框架将教育系统的有效性完全锚定在对全球劳动力市场需求的响应程度上，在国际尺度上固化了新公共管理的支配地位。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -242,6 +261,7 @@ updated: 2026-10-12
 > | **[[Output-Oriented Governance\|循证治理]]与证据异化** | 借循证实践与性价比核算推行分权表象下的集中规训与逆向证据生产 | 教师教育准入资质、核心框架与宏观政策合法化 | Helgetun & Menter |
 > | **公共动态能力剥离与青蛙视角** | 咨询外包导致组织去技能化，微观成本考核扼杀长期高风险探索与系统学习 | 国家科技创新战略、公共部门组织能力与[[Grand Challenges\|重大挑战]]治理 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018)]]; [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
 > | **制度分化与评估国家悖论** | 揭示英美市场代理化（Next Steps）与大陆网络间接操纵的制度边界，剖析事后质量评估潜在的事后隐性集权风险 | 比较公共行政、欧洲高等教育治理范式转型与审计文化反思 | [[Argument_Kickert_1995_Governance\|Kickert (1995)]] |
+> | **良治修辞与比较绩效远处掌舵** | 借“良治”中立修辞遮蔽意识形态转向，将教育治理从目的探讨置换为投入产出效率与跨国指标远处掌舵 | 超国家组织教育政策协调、全球基准对标与问责重构 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009, pp. 447–448)]]; OECD (1995) |
 
 ---
 
@@ -250,6 +270,7 @@ updated: 2026-10-12
 > [!dev-timeline] 概念演变
 > - **1950s–1970s — 理论萌芽期** [[Human Capital Theory\|人力资本理论]]与公共选择学派将知识定义为经济生产要素，确立了[[Knowledge-Based Economization\|知识经济化]]与行政自利性[[Hypothesis\|假设]]。[[Argument_Amos_2022_Springer\|(Amos, 2022, p. 56)]]
 > - **1980s–1990s — 全球扩散、英美 [[Early Steps|Next Steps]] 与欧陆间接操纵的分野** 英美等国率先开启去管制化与外包改革；英国 1988 年启动“下一步行动”（Next Steps）将中央部门职能剥离为数十个执行代理机构；英格兰 1984 年成立[[Committee for the Accreditation of Teacher Education|教师教育认证委员会]]（CATE），开创依据督导证据进行资质核准的显性[[Output-Oriented Governance|循证治理]]先河。与此同时，欧洲大陆（如荷兰 1985 年 HOAK 白皮书）探索依托法团网络协商与一揽子总额拨款的“间接[[Steering at a Distance|远距离操纵]]”，与英美激进的官僚抨击与准市场化形成制度对照。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 90)]]; [[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 154–155)]]
+> - **1995 — [[OECD|经合组织]]《转型中的治理》确立“良治”与比较绩效远处掌舵** 经合组织发布《转型中的治理：经合组织国家的公共管理改革》（OECD, 1995），正式将新公共管理机制包装为普遍适用的“良治”框架，确立以跨国比较绩效测量替代传统投入管控的远处掌舵模式。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 > - **2000s–2010s — 审计文化与[[Governing by Numbers\|数字治理]]高潮** 大规模测验（如 [[PISA]]）与大学[[Research Excellence Framework\|研究卓越框架]]（REF）确立，绩效评估与经费拨款紧密挂钩，形成制度化马太效应。[[Argument_Schulze-Cleven_2017_HighEduc\|(Schulze-Cleven et al., 2017, pp. 801–802)]]
 > - **2010s 至今 — 证据异化与后 NPM 反思** 治理修辞演化为以科学证据与[[Randomised Controlled Trials\|随机对照试验]]（RCT）为包装的[[Rationalized Myth\|合理化神话]]；同时，创新政策与公共管理学界深刻反思 NPM 导致的组织[[Cognitive Deskilling|去技能化]]与“青蛙视角”，提出重塑[[Public Dynamic Capabilities|公共部门动态能力]]与[[Lead-and-Learn Paradigm|引领与学习范式]]以替代被动的 NPM 治理模式。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, pp. 90–93)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 791–798)]]
 
@@ -276,6 +297,12 @@ updated: 2026-10-12
 > >
 > > - **新公共管理市场代理论** 倡导将行政部门拆分为受商业合同与关键[[Performance Indicators|绩效指标]]（KPIs）约束的执行代理机构，通过引入市场外包与准市场竞争提高投入产出比。
 > > - **政策网络间接操纵论** 批评盲目将社会组织套用内部行政代理模型，主张[[Research Universities|研究型大学]]与专业机构属于多元多理性网络，国家调控应限于宏观部门尺度的一揽子总额拨款与同行质量评估，而非商业化拆解。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 154–155)]]
+>
+> > [!axis] 技术理性与“良治”指标 vs 政治哲学辩论与教育公共目的
+> > 争论教育治理的核心任务是追求投入产出效率与基准对标，还是开展关于育人本质与社会正义的民主审议。
+> >
+> > - **新公共管理与“良治”倡导者（OECD, 1995）** 主张通过决策透明度、权力下放、质量保证与比较绩效指标建立高效的投入产出系统，确保教育对劳动力市场需求的敏捷响应。
+> > - **批判政策学者（Rizvi & Lingard, 2009; Møller, 2017）** 揭示“良治”修辞将政治与价值问题去政治化为技术问题，将教育从属于经济效率，剥夺了公众就教育公共目的开展民主哲学辩论的制度空间。
 >
 > > [!axis] 成本紧缩效率与国家动态能力构建
 > > 争论外包与成本控制是否削弱了公共部门解决长远[[Grand Challenges|重大挑战]]的核心能力。
@@ -307,4 +334,5 @@ updated: 2026-10-12
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 探讨[[Internationalization of Higher Education|高等教育国际化]]中 NPM 驱动的留学生市场化依赖与企业化转型。
 > - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 批判领导力培训项目中管理主义能力框架对校长专业身份的[[Disciplina and Doctrina|规训]]。
 > - [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]] — 比较英德高等教育中 NPM 绩效评估与[[Research Excellence Framework|研究卓越框架]]对资源分层的强化。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 447–448)]] — 结合经合组织1995年报告剖析新公共管理如何借“良治”修辞将教育治理从目的辩论置换为比较绩效指标与远处掌舵。
 
