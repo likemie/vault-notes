@@ -35,11 +35,17 @@ related_concepts:
   - "[[Multilateral Development Bank]]"
   - "[[Policy Conditionalities]]"
   - "[[Educational Multilateralism]]"
-related_theories: []
+  - "[[Pact of Domination]]"
+related_theories:
+  - "[[Conditioned State Theory]]"
+  - "[[Strategic Bargaining Theory]]"
+  - "[[World-Systems Theory]]"
+  - "[[Dependency Theory]]"
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Robert Arnove]]"
+  - "[[Carlos Alberto Torres]]"
 related_facts:
   - "[[World Bank]]"
   - "[[Inter-American Development Bank]]"
