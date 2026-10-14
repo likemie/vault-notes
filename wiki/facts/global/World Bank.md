@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 63
+fact_related_count: 64
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -97,6 +97,7 @@ related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
   - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_Castro_2009_MultilateralBanks]]"
 confidence: high
 status: active
 created: 2026-09-12

@@ -7,9 +7,9 @@ title: "Argument_Castro_2009_MultilateralBanks"
 argument_key: "Argument_Castro_2009_MultilateralBanks"
 argument_display_title: "Can Multilateral Banks Educate the World?"
 argument_kind: "book-chapter"
-argument_related_count: 9
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "International Handbook of Comparative Education"
 publication_place: "Dordrecht"

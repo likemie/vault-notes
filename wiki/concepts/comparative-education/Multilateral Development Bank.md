@@ -8,10 +8,10 @@ aliases:
 summary: "由多个主权国家共同创立持股的超国家开发性金融机构；其金融本质是依托发达出资国的最高信用评级在国际债券市场极低息筹集资金、以保本微利原则向发展中借款国发放长期优惠贷款的主权信用合作社；在教育治理中，其通过信贷资金注入、对等资金绑定、政策附加条件与技术建议施加深层影响，但深陷繁琐官僚报销与评估重投入轻产出的执行困境。"
 type: concept
 domain: "comparative-education"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/comparative-education
   - educational-finance
@@ -19,13 +19,25 @@ tags:
   - multilateral-development-banks
   - development-economics
   - policy-borrowing
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Knowledge Bank]]"
+  - "[[Policy Conditionalities]]"
+  - "[[Washington Consensus]]"
+  - "[[Structural Adjustment Programs]]"
+related_theories:
+  - "[[Human Capital Theory]]"
+related_methods:
+  - "[[Comparative Case Study]]"
+  - "[[Cohort Study]]"
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[World Bank]]"
+  - "[[Inter-American Development Bank]]"
+  - "[[International Monetary Fund]]"
+  - "[[UNESCO]]"
+related_arguments:
+  - "[[Argument_Castro_2009_MultilateralBanks]]"
 confidence: high
 status: active
 created: 2026-10-14

@@ -7,10 +7,10 @@ aliases:
 summary: "戴安娜·斯通（Diane Stone）于 2000 年提出的概念，指世界银行在 1990 年代詹姆斯·沃尔芬森任内从传统基建项目放贷机构向以知识生产、研究分发与政策咨询为核心业务的全球智识中枢转型的制度性演变。该模式将教育研究、指标评估与政策处方深度绑定，构成了其推行自指性政策中介的制度基础；然而圈内实务分析表明，纯粹依靠政策咨询收费的设想在现实中难以成立，知识建议的实质穿透力根本上依赖于巨额主权信贷的财务杠杆，且其倡导的政策信条呈现出长达数十年的孵化滞后与周期性摇摆。"
 type: concept
 domain: "comparative-education"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 23
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/comparative-education
   - theme/world-bank
