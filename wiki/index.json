@@ -21299,6 +21299,16 @@
     ]
   },
   {
+    "title": "Teach Classroom Observation Tool",
+    "type": "instrument",
+    "path": "wiki/instruments/observation-tools/Teach Classroom Observation Tool.md",
+    "aliases": [
+      "Teach",
+      "World Bank Teach",
+      "世界银行课堂观察工具"
+    ]
+  },
+  {
     "title": "ToK Classroom Observation Protocol",
     "type": "instrument",
     "path": "wiki/instruments/observation-tools/ToK Classroom Observation Protocol.md",
@@ -37138,6 +37148,11 @@
     "title": "Argument_Streeck_Thelen_2005_OUP",
     "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/Argument_Streeck_Thelen_2005_OUP.md"
+  },
+  {
+    "title": "Argument_WorldBank_2019_Teach",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/Argument_WorldBank_2019_Teach.md"
   },
   {
     "title": "研究地图",

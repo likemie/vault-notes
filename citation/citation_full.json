@@ -9425,6 +9425,40 @@
       "title": "Argument_Wong_2022_HERD",
       "year": "2022"
     },
+    "World Bank Group (2019)": {
+      "aliases": [
+        "World Bank Group, 2019",
+        "World Bank Group (2019)"
+      ],
+      "argument": "Argument_WorldBank_2019_Teach",
+      "authors": [
+        "World Bank Group"
+      ],
+      "citation": "World Bank Group. (2019). Teach: Observer manual (1st ed.). World Bank, Washington, DC.",
+      "doi": "",
+      "isbn": "",
+      "path": "wiki/arguments/reports-policy-documents/Argument_WorldBank_2019_Teach.md",
+      "source_language": "en",
+      "title": "Argument_WorldBank_2019_Teach",
+      "year": "2019"
+    },
+    "World Bank Group, 2019": {
+      "aliases": [
+        "World Bank Group, 2019",
+        "World Bank Group (2019)"
+      ],
+      "argument": "Argument_WorldBank_2019_Teach",
+      "authors": [
+        "World Bank Group"
+      ],
+      "citation": "World Bank Group. (2019). Teach: Observer manual (1st ed.). World Bank, Washington, DC.",
+      "doi": "",
+      "isbn": "",
+      "path": "wiki/arguments/reports-policy-documents/Argument_WorldBank_2019_Teach.md",
+      "source_language": "en",
+      "title": "Argument_WorldBank_2019_Teach",
+      "year": "2019"
+    },
     "Wrigley & McCusker (2019)": {
       "aliases": [
         "Wrigley & McCusker, 2019",
