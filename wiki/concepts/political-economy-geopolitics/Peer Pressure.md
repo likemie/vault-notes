@@ -7,10 +7,10 @@ aliases:
 summary: "指主权国家或公共治理主体在面对同侪组织、多边共同体或国际基准的横向对标、集体审议与声誉评价时所感受到的规范性合规压力与心理紧迫感；在跨国教育政策中，它依托绩效指标、联赛排名与公开问责，将技术比较转化为国内政治焦虑与改革倒逼动力，充当远处掌舵的核心动力机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 17
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - governance
   - peer-pressure

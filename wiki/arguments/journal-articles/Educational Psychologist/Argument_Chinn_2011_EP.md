@@ -60,14 +60,14 @@ sources:
   - "[[sources/Chinn_2011_EP|Chinn_2011_EP]]"
 status: draft
 created: 2026-08-17
-updated: 2026-09-07
+updated: 2026-10-14
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Chinn_2011_EP"
 argument_key: "Argument_Chinn_2011_EP"
 argument_display_title: "Expanding the Dimensions of Epistemic Cognition: Arguments From Philosophy and Psychology"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"

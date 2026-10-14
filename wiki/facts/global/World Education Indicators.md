@@ -12,9 +12,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 33
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1997–2000s"
 initiator_organization: "经合组织（OECD）、联合国教科文组织统计研究所（UIS）、世界银行（World Bank）"
@@ -84,7 +84,7 @@ updated: 2026-10-14
 > [!program-context] 项目背景
 > - **立项时间与周期** 1997 年正式联合启动，历经多轮跨国统计数据采集与小学专项调查，持续运行至 2000 年代中后期，其指标方法论随后深度融入联合国教科文组织统计研究所的常态化全球统计监测网络，并为非成员国直接参与经合组织的[[PISA|国际学生评估项目]]（PISA）铺平了道路。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
 > - **发起方与资助机制** 由经合组织、联合国教科文组织统计研究所与世界银行三方共同治理。世界银行提供核心项目启动资金与政策借贷支持，联合国教科文组织统计研究所提供多边协调网络与全球数据平台，经合组织则输出其依托[[International Indicators of Education Systems|国际教育指标体系]]（INES）积累的专业统计技术与[[Analytic Framework|分析框架]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444, 447)]]
-> - **覆盖范围与对象** 聚焦处于快速社会经济转型与工业化阶段的非成员经济体（Non-Member Economies, NME），主要涵盖中国、印度、巴西、阿根廷、智利、埃及、印度尼西亚、约旦、马来西亚、巴拉圭、秘鲁、菲律宾、俄罗斯、斯里兰卡、泰国、突尼斯、乌拉圭和津巴布韦等十余个代表性发展中国家和转型国家，其学龄人口总规模占据全球发展中国家的极大比重。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
+> - **覆盖范围与对象** 聚焦处于快速社会经济转型与工业化阶段的非成员经济体（Non-Member Economies, NME），主要涵盖中国、印度、巴西、阿根廷、智利、埃及、印度尼西亚、约旦、马来西亚、巴拉圭、秘鲁、菲律宾、俄罗斯、斯里兰卡、泰国、突尼斯、乌拉圭和津巴布韦等十余个代表性发展中国家和转型国家，其学龄人口总规模占据全球发展中国家的极大比重。
 > - **核心问题导向** 伴随冷战结束与经济全球化加速，经合组织认识到仅在发达成员国内部协调政策已不足以维系整体经济[[Competitiveness|竞争力]]，必须建立对快速崛起的转型大国教育[[Human Capital Theory|人力资本]]储备与系统绩效的跨国量化监控基准；同时，转型国家在面临融入全球市场经济的压力时，亦存在获取国际公认指标技术以开展自身政策审视与吸引外部投资的制度性需求。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 442–443)]]
 
 ---
@@ -98,12 +98,12 @@ updated: 2026-10-14
 > - **项目目标** 协助参与国建立与国际接轨的教育统计与指标体系；采集关于学校教育规模、财政投入、教师资历与资源分配的跨国可比数据；为各参与国政府在人力资本投资与教育体制改革方面提供基于实证证据的决策参考。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
 > - **统计采集框架** 直接借鉴经合组织 [[International Indicators of Education Systems|INES]] 项目的架构，围绕教育投入（公共与私人经费支出、生均成本）、教育过程（师生比、教学工时、学校设施）、教育参与（各学段毛入学率、完成率与学龄人口保留率）以及教育产出（毕业率、劳动力市场收益）设立标准化[[Definition of Terms|操作性定义]]与测量指标。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443, 447)]]
 > - **小学专项调查（WEI-SPS）** 针对发展中国家小学教育质量不均的问题，开展世界教育指标小学专项调查（WEI Survey of Primary Schools, WEI-SPS），通过[[Questionnaire|问卷调查]]与学校走访，系统收集有关学校资源短缺、教师工作条件、教学实践与学生家庭背景的第一手实证资料。
-> - **国家统计能力建构** 由经合组织与[[UNESCO|联合国教科文组织]]专家组定期组织跨国培训与方法论研讨班，指导参与国教育部规划司与国家统计局官员掌握现代抽样调查、数据清洗与指标汇总技术，推动各国内部统计制度与国际[[Commensuration|通约]]规范接轨。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
+> - **国家统计能力建构** 由经合组织与[[UNESCO|联合国教科文组织]]专家组定期组织跨国培训与方法论研讨班，指导参与国教育部规划司与国家统计局官员掌握现代抽样调查、数据清洗与指标汇总技术，推动各国内部统计制度与国际[[Commensuration|通约]]规范接轨。
 
 > [!citation-card] 经合组织在世界教育指标项目中的双重角色与规范输出
 > 经合组织关于全球化的视角也促使它与诸多其他国际组织建立正式联系，其明确目的在于协助将经合组织的制度经验、政策专长与技术诀窍输出给非成员经济体。因此，例如它与[[World Bank|世界银行]]和联合国教科文组织合作开发了世界教育指标（WEI）项目。该项目是由上述组织联合发起的一项倡议，旨在提供关于转型经济体的一整套比较教育数据。经合组织在该项目中的角色是基于其在绩效指标方面长期的工作经验提供技术咨询。但正如鲁特考夫斯基（Rutkowski, 2007）所指出的，这一角色深植于经合组织的新自由主义规范预设之中，并且很难将经合组织的技术专长与其关于教育在全球经济发展中所必须扮演之角色的规范性[[Hypothesis|假设]]割裂开来。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
 >
-> *The OECD’s perspective on globalization has also led it to develop formal links with a number of other international organizations, with the expressed purpose of helping bring the OECD’s institutional and policy expertise and technical know how to NMEs. It has therefore worked, for example, with the World Bank and UNESCO on the development of a World Education Indicators (WEI) project. WEI is a joint initiative of these organizations designed to provide a set of comparative educational data about transitional economies. The OECD’s role in the project has been to provide technical advice based on its long history of work with performance indicators. But as Rutkowski (2007) points out, this role is grounded in the OECD’s neoliberal precepts, and it is difficult to separate the OECD’s technical expertise from its normative assumptions about the role education must play in the development of the global economy.* ([[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 443–444]])
+> *The OECD’s perspective on globalization has also led it to develop formal links with a number of other international organizations, with the expressed purpose of helping bring the OECD’s institutional and policy expertise and technical know how to NMEs. It has therefore worked, for example, with the World Bank and UNESCO on the development of a World Education Indicators (WEI) project. WEI is a joint initiative of these organizations designed to provide a set of comparative educational data about transitional economies. The OECD’s role in the project has been to provide technical advice based on its long history of work with performance indicators. But as Rutkowski (2007) points out, this role is grounded in the OECD’s neoliberal precepts, and it is difficult to separate the OECD’s technical expertise from its normative assumptions about the role education must play in the development of the global economy.* (Rutkowski, 2007)
 
 ---
 
@@ -120,8 +120,8 @@ updated: 2026-10-14
 
 > [!actor-grid] 实施协同矩阵
 > - **多边技术领航与标准输出方（[[OECD|经合组织]]）** 负责输出 [[International Indicators of Education Systems|INES]] 指标设计理念、数据收集工具与量化分析模型，派遣技术专家对参与国进行培训，主导指标报告的理论框架搭建。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
-> - **多边平台与全球数据统筹方（[[UNESCO Institute for Statistics|联合国教科文组织统计研究所]]）** 负责项目的日常行政协调、全球[[Questionnaire|问卷]]发放与多边数据汇聚清洗，依托其国际合法性化解主权国家对技术干涉的敏感抵触。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
-> - **多边金融与发展政策协同方（[[World Bank|世界银行]]）** 提供稳定的财政资助，并将 WEI 产出的指标数据与教育发展战略直接挂钩，作为其在转型国家推进教育贷款与[[Structural Adjustment Programs|结构调整政策]]的重要依据。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
+> - **多边平台与全球数据统筹方（[[UNESCO Institute for Statistics|联合国教科文组织统计研究所]]）** 负责项目的日常行政协调、全球[[Questionnaire|问卷]]发放与多边数据汇聚清洗，依托其国际合法性化解主权国家对技术干涉的敏感抵触。
+> - **多边金融与发展政策协同方（[[World Bank|世界银行]]）** 提供稳定的财政资助，并将 WEI 产出的指标数据与教育发展战略直接挂钩，作为其在转型国家推进教育贷款与[[Structural Adjustment Programs|结构调整政策]]的重要依据。
 > - **国别执行机构与统计对口部门（各参与国教育部与统计局）** 负责落实本国内部各层级学校数据的统一采集、汇总与校验，组建国家协调团队，参与跨国工作研讨。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 443)]]
 
 > [!pathways]- 实施路径与管理

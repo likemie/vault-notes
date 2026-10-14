@@ -7,10 +7,10 @@ aliases:
 summary: "指主权国家之间或在国际组织框架下，通过制度化、常态化的信息披露、跨国数据收集、相互审议与横向监控机制，对各成员国的政策制定与执行进行全方位监督与评估的软法治理机制；它不依赖硬性法律制裁，而是通过建构透明度预期与政策解释义务，形成超越传统主权管辖的跨国政策协调与合规网络。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 22
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - multilateralism
   - surveillance

@@ -10,7 +10,7 @@ aliases:
 summary: "起源于日本丰田汽车公司、由沃马克（Womack）等人在《改变世界的机器》中系统总结的现代化制造与管理组织范式；核心主张通过准时制库存控制（Just-in-Time, JIT）、看板管理、全面质量管理（TQM）、全员参与持续改进（Kaizen）与多技能轮岗，彻底消除生产流程中的一切过量库存与资源浪费；克里斯·弗里曼（Chris Freeman）将其列为微电子时代技术-经济范式转型中最重要的组织管理创新，论证后发国家吸收现代通用技术必须伴随精益生产等车间微观组织重组。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-08
+updated: 2026-10-14
 ---
 
 # Lean Production
