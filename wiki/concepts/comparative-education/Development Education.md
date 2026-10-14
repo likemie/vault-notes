@@ -9,10 +9,10 @@ aliases:
 summary: "聚焦全球南方国家教育现代化、体制重塑与国际援助合作的专门学术研究与政策实务领域。二战后因去殖民化与冷战地缘博弈而兴起，长期与侧重理论建构的主流比较教育学保持建制分流；后伴随多边开发银行的主权借贷与结构调整，从学术系所分立转向以项目评估、信贷杠杆与政策咨询为主轴的实务运作，但面临设计端理念前沿与执行端官僚失能、资金拨付考核与实质学习成效严重脱节的深层制度张力。"
 type: concept
 domain: "comparative-education"
-related_count: 24
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 55
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - subject/comparative-education
   - subject/international-education
@@ -22,38 +22,61 @@ tags:
   - theory/dependency
 related_concepts:
   - "[[International Education]]"
-  - "[[Knowledge Bank]]"
-  - "[[Policy Conditionalities]]"
   - "[[Multilateral Development Bank]]"
+  - "[[International Baccalaureate]]"
+  - "[[International Schools]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Champ]]"
+  - "[[Policy Conditionalities]]"
+  - "[[Epistemology]]"
+  - "[[Knowledge Production]]"
+  - "[[Paradigm]]"
+  - "[[Causality]]"
+  - "[[Global Citizenship]]"
+  - "[[Tracking]]"
+  - "[[Disciplinary Institutionalization]]"
+  - "[[Discourse]]"
+  - "[[Formative Assessment]]"
+  - "[[Document]]"
+  - "[[Washington Consensus]]"
+  - "[[Heterogeneity]]"
+  - "[[Operationalization]]"
+  - "[[School Autonomy]]"
+  - "[[Knowledge Bank]]"
+  - "[[Warehousing of Good Practices]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Educational Multilateralism]]"
-  - "[[Warehousing of Good Practices]]"
-  - "[[Dual School System]]"
-  - "[[Shadow State]]"
-  - "[[Compensatory Legitimation]]"
+  - "[[Performance Indicators]]"
 related_theories:
+  - "[[Phenomenology]]"
+  - "[[Structural Functionalism]]"
+  - "[[Critical Theory]]"
+  - "[[Path Dependence]]"
   - "[[Human Capital Theory]]"
   - "[[Dependency Theory]]"
-  - "[[Path Dependence]]"
   - "[[Conditioned State Theory]]"
-  - "[[Organizational Culture]]"
   - "[[Strategic Bargaining Theory]]"
+  - "[[World-Systems Theory]]"
 related_methods:
-  - "[[Comparative Policy Analysis]]"
-  - "[[Participant Observation]]"
+  - "[[Historical-Comparative Method]]"
+  - "[[Cost-Benefit Analysis]]"
+  - "[[Exploratory Factor Analysis]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_facts:
-  - "[[UNESCO]]"
   - "[[World Bank]]"
   - "[[Inter-American Development Bank]]"
-  - "[[UN Sustainable Development Goals]]"
-  - "[[Education for All]]"
+  - "[[UNESCO]]"
   - "[[Comparative and International Education Society]]"
+  - "[[British Association for International and Comparative Education]]"
+  - "[[Education for All]]"
+  - "[[UN Sustainable Development Goals]]"
+  - "[[PISA for Development]]"
+  - "[[Systems Approach for Better Education Results]]"
 related_persons:
   - "[[Philip Altbach]]"
   - "[[Val D. Rust]]"
-  - "[[Philip H. Coombs]]"
-  - "[[Carlos Alberto Torres]]"
 related_arguments:
   - "[[Argument_Castro_2009_MultilateralBanks]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -72,7 +95,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **发展教育（Development Education）**，在比较与国际教育研究中常与“发展中国家教育研究”（Education in Developing Countries）或“国际发展教育”（International Development Education）互称，指聚焦亚洲、非洲、拉丁美洲等全球南方国家的教育体制建设、社会经济现代化、教育扩张、不平等治理以及双多边国际发展援助合作的专门学术研究与政策实务领域。二战后受去殖民化与冷战地缘博弈推动，该领域长期与偏向欧美历史哲学的传统理论比较教育学保持平行分流；后在多边开发银行（以[[World Bank|世界银行]]与[[Inter-American Development Bank|泛美开发银行]]为代表）的深度介入下，发展为依托数千名技术官僚与数以百亿美元计主权信贷的实务治理体系。然而圈内制度分析表明，发展教育的实务运作面临着项目设计端敏捷吸收先进理念与执行端陷入繁琐审计泥潭、资金拨付考核与学生实质学业成效严重脱节的双重制度困境。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 455–457, 470–472)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
+> **发展教育（Development Education）**，在比较与[[International Education|国际教育]]研究中常与“发展中国家教育研究”（Education in Developing Countries）或“国际发展教育”（International Development Education）互称，指聚焦亚洲、非洲、拉丁美洲等全球南方国家的教育体制建设、社会经济现代化、教育扩张、不平等治理以及双多边国际发展援助合作的专门学术研究与政策实务领域。二战后受去殖民化与冷战地缘博弈推动，该领域长期与偏向欧美历史哲学的传统理论比较教育学保持平行分流；后在[[Multilateral Development Bank|多边开发银行]]（以[[World Bank|世界银行]]与[[Inter-American Development Bank|泛美开发银行]]为代表）的深度介入下，发展为依托数千名技术官僚与数以百亿美元计主权信贷的实务治理体系。然而圈内制度分析表明，发展教育的实务运作面临着项目设计端敏捷吸收先进理念与执行端陷入繁琐审计泥潭、资金拨付考核与学生实质学业成效严重脱节的双重制度困境。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 455–457, 470–472)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种以全球南方后发国家为研究对象，兼具高校学术建制（应用研究分支）与超国家金融治理工具（贷款项目实务）双重属性的知识与行动体系。
@@ -80,21 +103,21 @@ updated: 2026-10-15
 > - **边界** 严格区别于纯思辨的理论比较教育学（后者侧重欧美成熟体制的哲学历史诠释与抽象模型），亦区别于一国内部常规教育行政规划（发展教育深度卷入外部主权债务、多边附加条件与跨国政策转移）。
 
 > [!boundary]- 概念边界
-> - **不等于 [[International Education|国际教育（International Education）]]** 国际教育侧重跨国人员流动、国际文凭（IB）课程、国际学校、跨文化理解与全球胜任力培养；发展教育则严格聚焦于发展中国家国民教育体系的制度建设、脱贫发展与外部援助规训。
+> - **不等于 国际教育（International Education）** 国际教育侧重跨国人员流动、[[International Baccalaureate|国际文凭]]（IB）课程、[[International Schools|国际学校]]、跨文化理解与全球胜任力培养；发展教育则严格聚焦于发展中国家国民教育体系的制度建设、脱贫发展与外部援助[[Disciplina and Doctrina|规训]]。
 > - **不等于 抽象理论比较教育学** 传统比较教育学聚焦欧美工业化国家的体制比较与普适社会科学规律建构，长期对第三世界发展实务抱有学术轻视；发展教育则高度应用导向、工程导向与政策评估导向。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 发展教育与理论比较教育学及国际教育的比较
+> [!contrast-table] 发展教育与理论比较教育学及[[International Education|国际教育]]的比较
 > | 比较维度 | 发展教育（Development Education） | 理论比较教育学（Comparative Education） | 国际教育（International Education） |
 > |:---|:---|:---|:---|
-> | **核心地理场域** | **全球南方国家（亚非拉发展中与极度贫困国）** | 欧美发达工业化国家及跨国区域体系 | 跨国流动网络、国际学校与全球学术空间 |
-> | **核心驱动机制** | **去殖民化建设、主权信贷杠杆与[[Policy Conditionalities\|政策附加条件]]** | 学术认识论建构、历史哲学诠释与实证归纳 | 跨文化交流、市场化留学与全球精英培育 |
-> | **主导行动主体** | **[[Multilateral Development Bank\|多边开发银行]]（世行/泛美行）、[[UNESCO]]、受援国教育部** | 大学教授、学术学会（CIES、BAICE）、智库研究员 | 国际文凭组织（IBO）、非政府组织、跨国办学实体 |
-> | **知识生产范式** | **应用政策评估、项目周期监测、成本效益与因果推断** | 历史比较法、现象学阐释、结构功能主义或批判理论 | 跨文化心理学、国际化课程开发与学生适应研究 |
-> | **典型实践成果** | **初等普及教育贷款、职业培训基金、校舍基建与评价系统** | 经典国别研究专著、学科方法论体系、比较理论框架 | 国际课程标准、海外游学项目、全球公民教育大纲 |
+> | **核心地理[[Champ\|场域]]** | **全球南方国家（亚非拉发展中与极度贫困国）** | 欧美发达工业化国家及跨国区域体系 | 跨国流动网络、[[International Schools\|国际学校]]与全球学术空间 |
+> | **核心驱动机制** | **去殖民化建设、主权信贷杠杆与[[Policy Conditionalities\|政策附加条件]]** | 学术[[Epistemology\|认识论]]建构、历史哲学诠释与实证归纳 | 跨文化交流、市场化留学与全球精英培育 |
+> | **主导行动主体** | **[[Multilateral Development Bank\|多边开发银行]]（世行/泛美行）、[[UNESCO]]、受援国教育部** | 大学教授、学术学会（[[Comparative and International Education Society\|CIES]]、[[British Association for International and Comparative Education\|BAICE]]）、智库研究员 | [[International Baccalaureate\|国际文凭组织]]（IBO）、非政府组织、跨国办学实体 |
+> | **[[Knowledge Production\|知识生产]][[Paradigm\|范式]]** | **应用政策评估、项目周期监测、成本效益与[[Causality\|因果推断]]** | [[Historical-Comparative Method\|历史比较法]]、[[Phenomenology\|现象学]]阐释、[[Structural Functionalism\|结构功能主义]]或[[Critical Theory\|批判理论]] | 跨文化心理学、国际化课程开发与学生适应研究 |
+> | **典型实践成果** | **初等普及教育贷款、职业培训基金、校舍基建与评价系统** | 经典国别研究专著、学科方法论体系、比较理论框架 | 国际课程标准、海外游学项目、[[Global Citizenship\|全球公民教育]]大纲 |
 
 ---
 
@@ -102,11 +125,11 @@ updated: 2026-10-15
 
 > [!feature] 发展教育实务体系的核心制度支柱
 > - **主权借贷契约与对等配套资金（Contractual Inertia & Counterpart Funding）** 多边银行要求借款国提供 30% 至 50% 的本土配套资金，并签署具有国际法效力的主权贷款契约，为发展中国家脆弱动荡的教育政策提供了抵御政客走马灯式更迭的“政策减震器”。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 458)]]
-> - **信贷驱动的政策附加条件（Policy Conditionalities as Reform Levers）** 资金注入是迫使借款国教育部正视改革建议的根本杠杆；附加条件作为政策落地的履约手段，将外部政策方案转化为借款国内部推动痛苦改革的制度筹码。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 472)]]
-> - **资金拨付考核与硬件采购异化（Disbursement-Driven & Input-Heavy Tracking）** 银行官僚考核严重绑定于贷款资金的拨付速率（Disbursement），导致机构形成偏好校舍建设、设备采购等易于核算报销的硬件投入路径依赖，将发展成效异化为投入指标而非实质学习产出。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 470–472)]]
+> - **信贷驱动的[[Policy Conditionalities|政策附加条件]]（Policy Conditionalities as Reform Levers）** 资金注入是迫使借款国教育部正视改革建议的根本杠杆；附加条件作为政策落地的履约手段，将外部政策方案转化为借款国内部推动痛苦改革的制度筹码。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 472)]]
+> - **资金拨付考核与硬件采购异化（Disbursement-Driven & Input-Heavy [[Tracking]]）** 银行官僚考核严重绑定于贷款资金的拨付速率（Disbursement），导致机构形成偏好校舍建设、设备采购等易于核算报销的硬件投入[[Path Dependence|路径依赖]]，将发展成效异化为投入指标而非实质学习产出。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 470–472)]]
 > - **敏捷设计与执行瘫痪的双重断裂（Design Agility vs. Implementation Paralysis）** 发展教育项目在华盛顿总部的方案设计中能够极其敏捷地吸纳全球前沿理念，但在借款国具体落地时，却被繁琐死板的报销凭证、反腐恐慌与基层行政虚弱推入漫长泥潭。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 468–471)]]
 
-> [!logic-map]- 发展教育从学术建制分流到多边主权信贷规训的运作机制
+> [!logic-map]- 发展教育从学术建制分流到多边主权信贷[[Disciplina and Doctrina|规训]]的运作机制
 > ```mermaid
 > flowchart LR
 >     A["二战后去殖民化与冷战竞争<br>催生面向全球南方的发展教育"] --> B["早期学术建制分流<br>理论比较 vs 发展实务独立设系"]
@@ -123,14 +146,14 @@ updated: 2026-10-15
 
 ### 命题一　发展教育的建制分流反映了比较教育学理论建构与政策干预之间的长期认识论张力
 
-> [!concept-lens] 学科建制割裂与南北知识生产不平等
+> [!concept-lens] [[Disciplinary Institutionalization|学科建制]]割裂与南北[[Knowledge Production|知识生产]]不平等
 > 探讨比较教育学科史中传统理论学派对第三世界发展研究的建制隔离，以及后冷战时代发展教育如何重构比较教育主流议程。
 
 > [!claim] [[Argument_Rust_2009_Reflections|Rust et al. (2009)]]
-> **学科建制分立与共同体整合** 菲利普·阿尔特巴赫（[[Philip Altbach|Philip G. Altbach]]）与瓦尔·拉斯特（[[Val D. Rust]]）指出，比较教育学在战后长达数十年的时间里深陷“理论比较”与“发展应用研究”的建制分流：理论学者指责发展教育偏向缺乏学理深度的事实报告与援助实务，而发展学者则批评理论学派沉溺于欧美中心主义的自娱自乐。典型的建制象征如伦敦大学教育学院（IOE）长期平行设立比较教育学系与面向第三世界的发展中教育系。然而，随着冷战结束与全球南方在国际多边治理中权重的提升，发展教育不仅未被边缘化，反而在比较与国际教育学会（CIES）等组织中反客为主，成为比较教育学体量最大、资金与政策穿透力最广的研究支柱。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 125–127)]]
+> **学科建制分立与共同体整合** 菲利普·阿尔特巴赫（[[Philip Altbach|Philip G. Altbach]]）与[[Val D. Rust|瓦尔·拉斯特]]（[[Val D. Rust]]）指出，比较教育学在战后长达数十年的时间里深陷“理论比较”与“发展应用研究”的建制分流：理论学者指责发展教育偏向缺乏学理深度的事实报告与援助实务，而发展学者则批评理论学派沉溺于欧美中心主义的自娱自乐。典型的建制象征如伦敦大学教育学院（IOE）长期平行设立比较教育学系与面向第三世界的发展中教育系。然而，随着冷战结束与全球南方在国际多边治理中权重的提升，发展教育不仅未被边缘化，反而在[[Comparative and International Education Society|比较与国际教育学会]]（CIES）等组织中反客为主，成为比较教育学体量最大、资金与政策穿透力最广的研究支柱。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 125–127)]]
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
-> **多边主义主导权转移对发展知识的重塑** 斯泰纳-哈姆西等学者从跨国机构史考证指出，发展教育早期依托联合国教科文组织（[[UNESCO]]）的人文主义与普遍受教育权话语；但随着 1980 年世界银行发布独立教育政策文件、单方面终结与教科文组织的合作协定，发展教育的知识生产被彻底重构为以人力资本回报率测算、成本效益分析和循证基准量规为主导的金融分析技术，标志着发展教育从联合国道德倡议向多边银行资本规训的根本范式转变。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
+> **多边主义主导权转移对发展知识的重塑** 斯泰纳-哈姆西等学者从跨国机构史考证指出，发展教育早期依托[[UNESCO|联合国教科文组织]]（[[UNESCO]]）的人文主义与普遍受教育权[[Discourse|话语]]；但随着 1980 年[[World Bank|世界银行]]发布独立教育政策文件、单方面终结与教科文组织的合作协定，发展教育的知识生产被彻底重构为以[[Human Capital Theory|人力资本]]回报率测算、[[Cost-Benefit Analysis|成本效益分析]]和循证基准量规为主导的金融分析技术，标志着发展教育从联合国道德倡议向多边银行资本[[Disciplina and Doctrina|规训]]的根本[[Paradigm|范式]]转变。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
 
 ---
 
@@ -140,7 +163,7 @@ updated: 2026-10-15
 > 探讨发展中国家采纳外部教育改革建议的真实驱动力，解构纯粹政策构想与巨额贷款资金之间的共生机制。
 
 > [!claim] [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]]
-> **信贷资金作为迫使借款国打破国内惰性的物质杠杆** 克劳迪奥·德·莫拉·卡斯特罗明确指出，后发国家的教育改革往往充满政治痛苦（涉及触动教师工会既得利益、调整师生比或削减大学公费补贴），国内政客绝无自发动力推行自绝于选民的痛苦政策。联合国教科文组织等传统国际机构常年免费向成员国提供大量优质的发展政策倡议，但各国教育部几乎将其全盘束之高阁，证明脱离资金的理念在现实中往往毫无实质影响力。将多边开发银行与其他发展机构彻底区分开来的核心，恰恰在于随贷款而来的数以亿美元计的主权信贷资金（Funds）迫使受援国部长们坐上谈判桌；贷款附加条件正是多边银行用来确保政策建议落地的配套抓手，构成了发展教育最强有力的外部推动机制。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 464, 472–473)]]
+> **信贷资金作为迫使借款国打破国内惰性的物质杠杆** 克劳迪奥·德·莫拉·卡斯特罗明确指出，后发国家的教育改革往往充满政治痛苦（涉及触动教师工会既得利益、调整师生比或削减大学公费补贴），国内政客绝无自发动力推行自绝于选民的痛苦政策。联合国教科文组织等传统国际机构常年免费向成员国提供大量优质的发展政策倡议，但各国教育部几乎将其全盘束之高阁，证明脱离资金的理念在现实中往往毫无实质影响力。将[[Multilateral Development Bank|多边开发银行]]与其他发展机构彻底区分开来的核心，恰恰在于随贷款而来的数以亿美元计的主权信贷资金（Funds）迫使受援国部长们坐上谈判桌；[[Policy Conditionalities|贷款附加条件]]正是多边银行用来确保政策建议落地的配套抓手，构成了发展教育最强有力的外部推动机制。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 464, 472–473)]]
 
 ---
 
@@ -150,14 +173,14 @@ updated: 2026-10-15
 > 探讨多边机构在推行发展教育贷款时，内部官僚激励与微观执行工具如何导致项目偏离实质教学质量改进。
 
 > [!claim] [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]]
-> **组织学习的双重断裂与投入导向异化** 卡斯特罗通过对世界银行与泛美开发银行全量教育贷款项目的追踪分析指出，发展教育实务存在根本性的制度病理：在项目设计端，银行技术团队具有世界一流的学习能力，能够迅速将前沿研究（如形成性评价、早期阅读、标准化教材）转化为极其漂亮的立项文件；然而在执行端，银行从未认真发展出改善微观教学与组织管理的实务工具，反而被繁琐死板的会计报销、跨国采购审查与反腐恐慌全面窒息。更为严重的是，银行内部的官僚考核以资金拨付率（Disbursement）为单一衡量标准，只要资金顺利划拨、规定数量的校舍和课本采购到位，项目即被盖戳认定为成功，而学生究竟是否掌握了基础读写算能力却完全无人问津，造成了巨额发展贷款转化为缺乏教学实效的“白象工程”。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 468–472)]]
+> **组织学习的双重断裂与投入导向异化** 卡斯特罗通过对世界银行与[[Inter-American Development Bank|泛美开发银行]]全量教育贷款项目的追踪分析指出，发展教育实务存在根本性的制度病理：在项目设计端，银行技术团队具有世界一流的学习能力，能够迅速将前沿研究（如[[Formative Assessment|形成性评价]]、早期阅读、标准化教材）转化为极其漂亮的立项文件；然而在执行端，银行从未认真发展出改善微观教学与组织管理的实务工具，反而被繁琐死板的会计报销、跨国采购审查与反腐恐慌全面窒息。更为严重的是，银行内部的官僚考核以资金拨付率（Disbursement）为单一衡量标准，只要资金顺利划拨、规定数量的校舍和课本采购到位，项目即被盖戳认定为成功，而学生究竟是否掌握了基础读写算能力却完全无人问津，造成了巨额发展贷款转化为缺乏教学实效的“白象工程”。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 468–472)]]
 
 ---
 
 ### 命题总览
 
 > [!contrast-table] 围绕发展教育形成的核心命题归纳
-> | 命题类型 | 核心理论判定 | 适用情境与解释对象 | 代表学者与文献 |
+> | 命题类型 | 核心理论判定 | 适用情境与解释对象 | 代表学者与[[Document\|文献]] |
 > |:---|:---|:---|:---|
 > | **学科建制分流命题** | 发展教育经历了从理论比较边缘向实务治理中枢的反转，南北不平等深刻影响了知识分类与系所建制。 | 比较教育学科史、高等教育系所演变与知识社会学分析。 | [[Philip Altbach\|Altbach]]; [[Val D. Rust\|Rust et al. (2009)]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] |
 > | **信贷物质杠杆命题** | 发展中国家采纳外部政策建议的动力源于巨额主权信贷的财政支持，纯粹免费建议因缺乏杠杆而面临廉价性悖论。 | 国际发展援助谈判、政策附加条件履约与南北博弈。 | [[Argument_Castro_2009_MultilateralBanks\|Castro (2009, p. 472)]] |
@@ -167,11 +190,11 @@ updated: 2026-10-15
 
 ## 概念演变
 
-> [!dev-timeline] 发展教育的范式与建制演进
-> - **1950s–1960s — 现代化范式与冷战外援发轫** 二战后伴随殖民体系瓦解，新独立国家迫切需要建立现代学校体系；在冷战遏制与现代化理论驱动下，西方国家与联合国教科文组织开启大规模对外教育技术援助；奠定以学校基础设施建设、识字率普及与工业技术工人培养为核心的发展教育早期范式。
-> - **1970s–1980s — 依附论批判与建制深度隔离** 依附理论学者揭示对外教育援助对全球边缘国家的结构性剥削与文化依附；在大学建制中，伦敦大学教育学院（IOE）设立独立的发展中教育系，与传统比较教育学系长期分立；与此同时，世界银行单方面终止与教科文组织的合作协定，以人力资本回报率测算全面主导发展教育的实务定义权。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
-> - **1990s — 华盛顿共识、结构调整与《全民教育》** 1990 年泰国宗迪恩《世界全民教育大会》（EFA）确立全球基础教育普及底线，但大会由世界银行强势主导；伴随结构调整计划推行，发展教育实务深度卷入财政紧缩、教育用户自费收费（User Fees）与私有化争议。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 466)]]
-> - **2000s–至今 — 买方市场转型、指标规训与学习危机反思** 面对拉美等中等收入国转向私人资本市场融资的买方市场挤压，多边银行开始推行基于成果的贷款（PforR）等新型金融工具；同时，国际学界深刻反思发展教育“重资金拨付与校舍投入、轻实质认知学习成果”的痼疾，推动全球议程从单纯入学率向联合国可持续发展目标（SDG 4）下的学习危机治理转型。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 470–476)]]
+> [!dev-timeline] 发展教育的[[Paradigm|范式]]与建制演进
+> - **1950s–1960s — 现代化范式与冷战外援发轫** 二战后伴随殖民体系瓦解，新独立国家迫切需要建立现代学校体系；在冷战遏制与现代化理论驱动下，西方国家与[[UNESCO|联合国教科文组织]]开启大规模对外教育技术援助；奠定以学校基础设施建设、识字率普及与工业技术工人培养为核心的发展教育早期范式。
+> - **1970s–1980s — [[Dependency Theory|依附论]]批判与建制深度隔离** 依附理论学者揭示对外教育援助对全球边缘国家的结构性剥削与文化依附；在大学建制中，伦敦大学教育学院（IOE）设立独立的发展中教育系，与传统比较教育学系长期分立；与此同时，[[World Bank|世界银行]]单方面终止与教科文组织的合作协定，以[[Human Capital Theory|人力资本]]回报率测算全面主导发展教育的实务定义权。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
+> - **1990s — [[Washington Consensus|华盛顿共识]]、结构调整与《[[Education for All|全民教育]]》** 1990 年泰国宗迪恩《世界全民教育大会》（[[Exploratory Factor Analysis|EFA]]）确立全球基础教育普及底线，但大会由世界银行强势主导；伴随结构调整计划推行，发展教育实务深度卷入财政紧缩、教育用户自费收费（User Fees）与私有化争议。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 466)]]
+> - **2000s–至今 — 买方市场转型、指标[[Disciplina and Doctrina|规训]]与学习危机反思** 面对拉美等中等收入国转向私人资本市场融资的买方市场挤压，多边银行开始推行基于成果的贷款（PforR）等新型金融工具；同时，国际学界深刻反思发展教育“重资金拨付与校舍投入、轻实质认知学习成果”的痼疾，推动全球议程从单纯入学率向[[UN Sustainable Development Goals|联合国可持续发展目标]]（SDG 4）下的学习危机治理转型。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 470–476)]]
 
 ---
 
@@ -186,9 +209,9 @@ updated: 2026-10-15
 > > - **发展教育学者（Altbach, Rust）** 辩称发展教育直面数亿南方贫困人口的生存性教育危机，正是发展研究的大规模引入挽救了传统比较教育学脱离现实、陷入欧洲中心主义经院哲学的危机。
 >
 > > [!axis] 普适最佳实践输出 vs. 本土情境的政治可行性约束
-> > 争论多边发展机构推行的标准化一刀切教育方案是否能够直接移植至异质性本土国情。
+> > 争论多边发展机构推行的标准化一刀切教育方案是否能够直接移植至[[Heterogeneity|异质性]]本土国情。
 > >
-> > - **技术官僚普适论（世界银行正统派）** 笃信经过华盛顿总部清洗后的最佳实践（如生均成本控制、微观量化测验与私有化竞争）是通往现代化的普适灵丹妙药。
+> > - **技术官僚普适论（[[World Bank|世界银行]]正统派）** 笃信经过华盛顿总部清洗后的最佳实践（如生均成本控制、微观量化测验与私有化竞争）是通往现代化的普适灵丹妙药。
 > > - **本土政治实证派（Castro, 2009; Hunter & Browne, 2000）** 强调发展中国家教育政策本质上是借款国内阁基于政治生存展开的博弈，国内利益集团（如教师工会）拥有实质一票否决权，脱离本土政治吸纳能力的强推方案必然引发社会动荡并归于失败。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 464–467)]]
 >
 > > [!axis] 资金拨付考核与硬件采购 vs. 实质教育质量与认知获得
@@ -206,10 +229,10 @@ updated: 2026-10-15
 
 ## 测量方法与经验操作化
 
-> [!method-summary] 发展教育实务与研究的典型操作化路径
+> [!method-summary] 发展教育实务与研究的典型[[Operationalization|操作化]]路径
 > - **投入与过程指标追踪** 衡量官方发展援助（ODA）教育支出规模、多边贷款拨付进度（Disbursement Ratio）、政府对等配套资金到位率、校舍建筑合格率与生均教材配给比。
-> - **产出与学业成效测评** 运用跨国标准化测验（如 LLECE、SACMEQ、PASEC 及 PISA-D）量化衡量学生基础读写算能力达标率，检验贷款投入与认知收获之间的真实转化效率。
-> - **制度合规与政策量规诊断** 采用世界银行 SABER 量规体系等政策基准工具，对发展中国家的教师管理体制、学校自主权与财政拨款公式开展定性编码与跨国对齐。
+> - **产出与学业成效测评** 运用跨国标准化测验（如 LLECE、SACMEQ、PASEC 及 [[PISA for Development|PISA-D]]）量化衡量学生基础读写算能力达标率，检验贷款投入与认知收获之间的真实转化效率。
+> - **制度合规与政策量规诊断** 采用[[World Bank|世界银行]] [[Systems Approach for Better Education Results|SABER]] 量规体系等政策基准工具，对发展中国家的教师管理体制、[[School Autonomy|学校自主权]]与财政拨款公式开展定性[[Coding in Qualitative Research|编码]]与跨国对齐。
 
 ---
 
@@ -238,8 +261,8 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员视角系统反思多边银行发展教育实务，揭示贷款资金的杠杆本质、组织学习在设计与执行端的双重断裂，以及拨付考核导致的投入导向异化（pp. 455–476）。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理从教科文组织人文主义合作到世界银行以知识银行和资本技术统领发展教育的历史进程（pp. 541–545）。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 考察比较与国际教育学会（CIES）中发展教育研究范式的演变，并实证检验全球化结构调整对第三世界基础教育指标的消极影响（pp. 125–127, 134）。
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用世界体系分析透视多边发展援助政策，揭示防卫性多边主义对全球南方教育体制的深层规训与阶层固化（pp. 105–112）。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理从[[UNESCO|教科文组织]]人文主义合作到[[World Bank|世界银行]]以[[Knowledge Bank|知识银行]]和资本技术统领发展教育的历史进程（pp. 541–545）。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 考察[[Comparative and International Education Society|比较与国际教育学会]]（CIES）中发展教育[[Paradigm|研究范式]]的演变，并实证检验全球化结构调整对第三世界基础[[Performance Indicators|教育指标]]的消极影响（pp. 125–127, 134）。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用[[World-Systems Theory|世界体系分析]]透视多边发展援助政策，揭示防卫性多边主义对全球南方教育体制的深层[[Disciplina and Doctrina|规训]]与阶层固化（pp. 105–112）。
