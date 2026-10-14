@@ -9,7 +9,7 @@ title: "Argument_Moisio_2022_Springer"
 argument_key: "Argument_Moisio_2022_Springer"
 argument_display_title: "In what sense a geopolitical knowledge-based economy? In M"
 argument_kind: "book"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -55,6 +55,7 @@ related_theories:
   - "[[Cultural Political Economy]]"
   - "[[Hegemony]]"
   - "[[Systems of Innovation]]"
+  - "[[New Growth Theory]]"
   - "[[Fixity-Motion Tension]]"
 related_methods:
   - "[[Typological Analysis]]"
@@ -71,7 +72,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-07'
-updated: 2026-09-28
+updated: 2026-10-14
 year: 2022
 doi: ""
 citation_aliases:
@@ -123,7 +124,7 @@ Moisio 首先论证 [[Knowledge-Based Economy|KBE]] 并非天然、必然的经�
 
 2. **二战后学术多元探索** 不同学科学者从各自视角理解资本主义的结构转型——Drucker（1959/1969）的"知识工作者"概念和知识管理学术领域的确立；Bell(1973)的后工业社会理论强调[[Theoretical Knowledge|理论知识]]的相对重要性；二者共同揭示"经济-社会界面正在发生结构性转变"(p.22)。
 
-3. **内生增长理论的经济学授权**Romer(1986)等新增长理论家"提出创新、学习、[[Human Capital Theory|人力资本]]、创业和技术是'内生增长'的根本"，知识和人力资本投资被视为不受有限限制的增长资产，为 KBE 提供了经济学合法性基础(p.23)。
+3. **[[New Growth Theory|内生增长理论]]的经济学授权**Romer(1986)等新增长理论家"提出创新、学习、[[Human Capital Theory|人力资本]]、创业和技术是'内生增长'的根本"，知识和人力资本投资被视为不受有限限制的增长资产，为 KBE 提供了经济学合法性基础(p.23)。
 
 4. **政策[[Discourse|话语]]化** 1990 年代以来，原本用于学术解释的概念成为 [[OECD]] 世界政策制定者的核心术语。世界银行（1991, pp.33–35）论断"无形投资于知识积累——而非物理资本投资——是决定性的"(p.23)。
 

@@ -10,7 +10,7 @@ aliases:
 summary: "将专业实践与教育治理窄化为手段-目的因果计算与去情境化技术控制的实证主义模型；在微观教学中剥夺教师专业判断，在宏观政策与比较教育中将教育退化为劳动力技能规训并侵蚀全人教化"
 type: concept
 domain: "educational-philosophy"
-related_count: 102
+related_count: 103
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Geisteswissenschaften]]"
   - "[[Doxa]]"
   - "[[Governing by Numbers]]"
+  - "[[Space of Equivalence]]"
   - "[[Scientifically Based Research]]"
   - "[[Feedback]]"
   - "[[Praxis]]"
@@ -132,7 +133,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-10-13
+updated: 2026-10-14
 ---
 
 # Technical Rationality
@@ -193,7 +194,7 @@ updated: 2026-10-13
 > - **去情境化可量化迷执（Decontextualised Quantificationalism）** 倾向于将所有教育现象转化为可测量的[[Variable\|变量]]与标准量化指标，排斥质性、情境性与主观意义维度的证据。
 > - **自动化回路修辞与算法中立迷思（Automated Loop Rhetoric & Neutrality Fallacy）** 预设学校监测系统能够实现从数据抽取、模型拟合到即时反馈的自动化回路，以技术中立修辞掩盖代码脚本的选择性、指标加权的政治裁决与做数据微观调配中的即兴妥协。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 4–5)]]
 > - **去政治化技术官僚[[Disciplina and Doctrina\|规训]]（Technocratic Schooling De-politicisation）** 将教育矮化为去情境化、可测量的工具性“学校教育”（Schooling），用量化生产力与[[Human Capital Theory\|人力资本]]测算取代对社会正义与人类文明危机的哲学追问。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
-> - **跨国[[Governing by Numbers|数字治理]]的去政治化霸权（Transnational Technocratic Depoliticisation & Policy-as-Numbers）** 借助跨国指标与标准化统考（如 [[PISA]]）建立等值空间，将深层的政治决断与教育目的哲学争论降维为投入产出效率模型；数字的客观表象掩盖了指标加权背后的新自由主义规范性预设，达成“技术压倒政治”的远处掌舵。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+> - **跨国[[Governing by Numbers|数字治理]]的去政治化霸权（Transnational Technocratic Depoliticisation & Policy-as-Numbers）** 借助跨国指标与标准化统考（如 [[PISA]]）建立[[Space of Equivalence|等值空间]]，将深层的政治决断与教育目的哲学争论降维为投入产出效率模型；数字的客观表象掩盖了指标加权背后的新自由主义规范性预设，达成“技术压倒政治”的远处掌舵。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 > - **规制型法定指标与高利害问责（Regulatory Statutory Metrics & High-Stakes Accountability）** 将技术理性以联邦立法形式刚性固化，如《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）将“[[Scientifically Based Research\|基于科学的研究]]”与学生统考成绩强行绑定在人事惩戒上，误以为通过手段-目的工具控制即可直线提高学业产出，实质上诱发教学窄化与集体舞弊等系统性异化。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 41)]]
 > - **“证据自身发声”的去主体迷误（The "Evidence Speaks for Itself" Fallacy）** 假定研究证据具有先验的确定性与自足性，忽视实践者在特定组织与社会文化脉络下的深思熟虑参与（Thoughtful Engagement）与专业重构，误以为证据产出的方法学优度可直接替代专业主体的认知转化与情境判断。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 139–141)]]
 > - **全域监测与数据回传的技术理性闭合回路幻觉（The Closed-Loop [[Feedback]] Fallacy of Large-Scale Assessment & Inspection）** 治理系统预设通过统考（如全域比较联考（[[Vergleichsarbeiten]], VERA））和学校外部督导（Schulinspektion, SI）收集量化数据并向学校回传反馈报告，学校便能据此在因果逻辑下自动完成微观教学改进；实证研究证实这种手段-目的自动反馈机制在现实中普遍遭遇成效缺失（mangelnde Effekte），重现了经典的理论-实践困境（Theorie-[[Praxis]]-Problem）（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 9]]）。

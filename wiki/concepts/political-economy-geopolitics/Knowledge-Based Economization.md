@@ -5,7 +5,7 @@ aliases:
 summary: "指知识密集型资本主义的物质过程如何通过想象、指标和社会实践被话语建构并制度化的过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -52,6 +52,7 @@ related_theories:
   - "[[Fixity-Motion Tension]]"
   - "[[Knowledge Building Theory]]"
   - "[[Theory of Change]]"
+  - "[[New Growth Theory]]"
   - "[[Systems of Innovation]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-07
+updated: 2026-10-14
 ---
 
 ## 定义
@@ -207,7 +208,7 @@ Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分�
 - Kuznets (1971) 论证知识正成为与物质资本和[[Human Capital Theory|人力资本]]并列的生产要素。
 - Solow (1957) 的技术[[Theory of Change|变革理论]]将技术进步内化于增长模型。
 - Arrow (1962) 论证政府须资助基础[[Knowledge Production|知识生产]]——因知识具有公共品属性，私人市场会对其投资不足。
-- Romer (1986) 的内生增长理论将创新、学习和人力资本确立为增长的根本驱动力。
+- Romer (1986) 的[[New Growth Theory|内生增长理论]]将创新、学习和人力资本确立为增长的根本驱动力。
 
 > 这些理论不只是描述知识的经济价值——它们更在制造知识的经济性：为政府大规模投资研发和教育提供经济学正当性，将资助知识从文化支出重新定义为经济增长战略。
 

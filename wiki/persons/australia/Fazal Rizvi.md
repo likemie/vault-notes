@@ -7,10 +7,10 @@ summary: "澳大利亚与美国著名教育政策与跨国治理学者，墨尔�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 49
-person_related_level: 5
-person_related_stars: "⭐⭐⭐⭐⭐"
-person_related_color: "#ffedd5"
+person_related_count: 52
+person_related_level: 6
+person_related_stars: "⭐⭐⭐⭐⭐⭐"
+person_related_color: "#fef3c7"
 born: "1950"
 died: ""
 lifespan: "1950–至今"
@@ -32,6 +32,8 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Rich and Thick Description]]"
   - "[[Student Mobility]]"
+  - "[[Space of Equivalence]]"
+  - "[[Economic Fundamentalism]]"
   - "[[Network Governance]]"
   - "[[Recontextualization]]"
   - "[[Geopolitics of Knowledge]]"
@@ -56,6 +58,7 @@ related_concepts:
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Human Capital Theory]]"
+  - "[[New Growth Theory]]"
   - "[[Social Capital Theory]]"
   - "[[Critical Theory]]"
   - "[[Orientalism]]"
@@ -80,7 +83,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-11'
-updated: 2026-10-13
+updated: 2026-10-14
 ---
 
 # Fazal Rizvi
@@ -117,7 +120,7 @@ updated: 2026-10-13
 
 > [!work-line] 主要著作
 > - **2001 — *The [[OECD]], Globalisation and Education Policy*（与 Henry, Lingard, Taylor 合著）** 首次系统解构经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）从战后协商平台演变为具有自主意识形态议程的跨国政策行动者的制度轨迹，奠定全球教育治理批判研究基石。
-> - **2009 — "The OECD and Global Shifts in Education Policy"（与 [[Bob Lingard]] 合著）** 系统对比经合组织 1960–1990 年社会民主妥协与 1990 年代中期后新自由主义转向；提出[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]概念，揭示[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）构筑等值空间与教育正义被经济基要主义残余化的理论机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 437–453)]]
+> - **2009 — "The OECD and Global Shifts in Education Policy"（与 [[Bob Lingard]] 合著）** 系统对比经合组织 1960–1990 年社会民主妥协与 1990 年代中期后新自由主义转向；提出[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]概念，揭示[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）构筑[[Space of Equivalence|等值空间]]与教育正义被[[Economic Fundamentalism|经济基要主义]]残余化的理论机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 437–453)]]
 > - **2010 — *Globalizing Education Policy*（与 [[Bob Lingard]] 合著）** 构建全球化教育政策分析的完整理论与方法论框架，系统梳理从民族国家科层统辖向跨国[[Network Governance|网络治理]]的演进逻辑，解析新自由主义想象在学校、教师与课程层面的[[Recontextualization|再脉络化]]。
 > - **2022 — "[[Research in Schools Evaluation|RISE]] of Asia, Geopolitical Shifts and Higher Education"** 将[[Critical Geopolitics|批判地缘政治学]]系统性应用于[[Internationalization of Higher Education|高等教育国际化]]分析，论证亚洲崛起作为重塑全球高等教育格局的独立因果力量，辨析国际化从发展主义理性向市场理性的位移。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 89–103)]]
 
@@ -126,10 +129,10 @@ updated: 2026-10-13
 ## 核心思想
 
 > [!claim] 核心主张
-> 里兹维的核心主张在于：当代教育政策转型与全球高等教育重构不能仅在民族国家封闭疆域内或孤立的技术效率层面被理解，而必须置于跨国[[Social Imaginary|社会想象]]、国际组织[[Discourse|话语]]霸权以及全球地缘政治权力转移的多维透镜下审视。一方面，以[[OECD|经合组织]]为代表的跨国行动者依托内生新增长理论建构了排他性的“[[Knowledge-Based Economy|知识经济]]社会想象”，借由标准化测评数据制造跨国等值空间，将公平与民主诉求降格为劳动力生产率的附庸；另一方面，亚洲的经济与政治崛起构成了重塑全球高等教育系统与[[Geopolitics of Knowledge|知识地缘政治]]格局的“独立因果力量”，驱动国际化理性从传统的现代化援助向全额付费的出口创收市场理性深刻转变。
+> 里兹维的核心主张在于：当代教育政策转型与全球高等教育重构不能仅在民族国家封闭疆域内或孤立的技术效率层面被理解，而必须置于跨国[[Social Imaginary|社会想象]]、国际组织[[Discourse|话语]]霸权以及全球地缘政治权力转移的多维透镜下审视。一方面，以[[OECD|经合组织]]为代表的跨国行动者依托[[New Growth Theory|内生新增长理论]]建构了排他性的“[[Knowledge-Based Economy|知识经济]]社会想象”，借由标准化测评数据制造跨国[[Space of Equivalence|等值空间]]，将公平与民主诉求降格为劳动力生产率的附庸；另一方面，亚洲的经济与政治崛起构成了重塑全球高等教育系统与[[Geopolitics of Knowledge|知识地缘政治]]格局的“独立因果力量”，驱动国际化理性从传统的现代化援助向全额付费的出口创收市场理性深刻转变。
 
 > [!citation-card] 经合组织与知识经济的全球社会想象
-> 结合查尔斯·泰勒（Charles Taylor, 2004）与阿尔君·阿帕杜莱（Arjun Appadurai, 1996）的理论，经合组织在 1990 年代中期后演变为自身独立的政策行动者。该组织将经济全球化本体化为不可抗拒的客观规律，融合内生新增长理论建构起一套兼具描述性与规范性的知识经济社会想象，推动学习从正规[[Coding in Qualitative Research|编码]]化的“[[Knowledge-that and Know-how-to|知其然]]”（knowing that）转向网络化、商业化的“知其操作”（[[Procedural Knowledge|knowing how]]）与[[Lifelong Learning|终身学习]]。在经济基要主义框架下，性别平权、教育公平与社会资本并未被公然否定，而是被抽离了实质正义内涵，彻底重构为服务于[[Human Capital Theory|人力资本]]开发与生产率最大化的附属工具。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 444–452)]]
+> 结合查尔斯·泰勒（Charles Taylor, 2004）与阿尔君·阿帕杜莱（Arjun Appadurai, 1996）的理论，经合组织在 1990 年代中期后演变为自身独立的政策行动者。该组织将经济全球化本体化为不可抗拒的客观规律，融合内生新增长理论建构起一套兼具描述性与规范性的知识经济社会想象，推动学习从正规[[Coding in Qualitative Research|编码]]化的“[[Knowledge-that and Know-how-to|知其然]]”（knowing that）转向网络化、商业化的“知其操作”（[[Procedural Knowledge|knowing how]]）与[[Lifelong Learning|终身学习]]。在[[Economic Fundamentalism|经济基要主义]]框架下，性别平权、教育公平与社会资本并未被公然否定，而是被抽离了实质正义内涵，彻底重构为服务于[[Human Capital Theory|人力资本]]开发与生产率最大化的附属工具。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 444–452)]]
 >
 > *The OECD has now become a policy actor in its own right, promoting a particular social imaginary of the knowledge economy where social justice and [[Social Capital Theory|social capital]] are residualized to economic imperatives.*
 
@@ -174,7 +177,7 @@ updated: 2026-10-13
 
 > [!person-network] 关系网络
 > - **师承／合作者** [[Bob Lingard]] — 长期核心学术合作者，共同创立全球教育政策批判社会学[[Paradigm|范式]]；Miriam Henry、Sandra Taylor — 早期 [[OECD]] 专著合著者。
-> - **理论思想资源** 查尔斯·泰勒（Charles Taylor）、阿尔君·阿帕杜莱（Arjun Appadurai） — [[Social Imaginary|现代社会想象]]理论；克劳斯·多兹（Klaus Dodds） — [[Critical Geopolitics|批判地缘政治学]]理论；[[Edward Said|爱德华·萨义德]]（Edward Said） — 后殖民主义与[[Orientalism|东方主义]]批判；阿兰·德罗西埃（Alain Desrosières）、尼古拉斯·罗斯（Nikolas Rose） — 统计等值空间与[[Governing at a Distance|远处治理]]。
+> - **理论思想资源** 查尔斯·泰勒（Charles Taylor）、阿尔君·阿帕杜莱（Arjun Appadurai） — [[Social Imaginary|现代社会想象]]理论；克劳斯·多兹（Klaus Dodds） — [[Critical Geopolitics|批判地缘政治学]]理论；[[Edward Said|爱德华·萨义德]]（Edward Said） — 后殖民主义与[[Orientalism|东方主义]]批判；阿兰·德罗西埃（Alain Desrosières）、尼古拉斯·罗斯（Nikolas Rose） — [[Space of Equivalence|统计等值空间]]与[[Governing at a Distance|远处治理]]。
 > - **对话学者／前沿争鸣** 迈克尔·彼得斯（Michael Peters） — [[Knowledge Capitalism|知识资本主义]]理论；菲利普·布朗（Phillip Brown）、休·劳德（Hugh Lauder） — 全球技能竞赛与工作性质转型研究。
 > - **分析机构／对象** [[OECD]]、[[PISA]]、[[International Education Hubs|国际教育枢纽]]、亚太跨国高校。
 

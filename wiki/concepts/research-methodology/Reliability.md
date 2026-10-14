@@ -8,10 +8,10 @@ aliases:
 summary: "研究工具、数据和发现在跨时间、跨工具和跨受访者群体上的一致性、可依赖性和可复制性，是效度的必要非充分条件，在量化研究中分为稳定性、等值性和内部一致性三种形式，在质性研究中转化为可依赖性、可信赖性和可确认性"
 type: concept
 domain: "research-methodology"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - method/research-methods
   - theme/reliability
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Definition of Terms]]"
   - "[[Qualitative Validity]]"
   - "[[Variable]]"
+  - "[[Space of Equivalence]]"
   - "[[Ontology]]"
   - "[[Scale of Measurement]]"
   - "[[Heterogeneity]]"
@@ -71,7 +72,7 @@ related_facts:
   - "[[PISA]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-13
+updated: 2026-10-14
 ---
 # Reliability
 
@@ -193,7 +194,7 @@ Denzin & Lincoln (1994) 认为质性研究中信度作为可复制性可通过�
 
 ## 理论命题与治理机制
 
-> [!thesis] 跨国等值空间建构中“信度优先”对“[[Construct Validity|构念效度]]与[[Ontology|本体论]]”的政治学消解
+> [!thesis] 跨国[[Space of Equivalence|等值空间]]建构中“信度优先”对“[[Construct Validity|构念效度]]与[[Ontology|本体论]]”的政治学消解
 > - **核心命题** 在大规模跨国教育测评与国家统考框架中，技术官僚对工具“信度（reliability）与跨国可比性”的追求往往系统性压倒了对“[[Construct Validity|构念效度]]（[[Construct]] validity）与教育[[Ontology|本体论]]多样性”的坚守。
 > - **理论机制** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）在开发[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）时，首要目标是依据阿兰·德罗西埃（Alain Desrosières, 1998）所谓的“等值空间”（space of equivalence）构建跨国统一[[Scale of Measurement|测量尺度]]。为确保数以百万计跨越不同母语、文化传统与课程制度的学生在同一量表上产生统计一致性，心理测量学家优先筛选具有高统计信度的脱域化试题；凡是深深植根于本土历史文化脉络、富含高阶批判思辨或具有本体论[[Heterogeneity|异质性]]的教学内容，因无法满足[[Item Response Theory|项目反应理论]]的跨国等值拟合而被系统剔除。这种操作以牺牲教育测量的实质效度为代价换取了虚构的统计信度，使跨国排名的科学中立表象彻底掩盖了指标建构背后的政治决断。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 
@@ -206,7 +207,7 @@ Denzin & Lincoln (1994) 认为质性研究中信度作为可复制性可通过�
 > > [!axis] 跨国统计信度优先 vs [[Construct Validity|构念效度]]与本土文化[[Ontology|本体论]]
 > > 围绕跨国标准化评估为了达成统计信度与机械可比性，是否不可避免地牺牲了教育测量的真实效度与文化多样性展开交锋。
 > >
-> > - **跨国心理测量学与指标治理立场** 坚持大样本测验必须以严格的[[Measurement Invariance|测量等值性]]与跨国信度为基石，唯有消除情境干扰建立跨国等值空间，方能为国家教育系统提供客观横向诊断与循证决策基准。
+> > - **跨国心理测量学与指标治理立场** 坚持大样本测验必须以严格的[[Measurement Invariance|测量等值性]]与跨国信度为基石，唯有消除情境干扰建立跨国[[Space of Equivalence|等值空间]]，方能为国家教育系统提供客观横向诊断与循证决策基准。
 > > - **批判教育社会学与本体论多元立场** 批评跨国统考将信度置于效度之上（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]），指出标准化题项消解了教育本体论的丰富性，将鲜活的文化育人过程降格为均质化的脱域数字，制造了虚假的科学客观性。
 >
 > > [!axis] 量化可复制性 vs 质性生态真实性与目的适切性
@@ -222,7 +223,7 @@ Denzin & Lincoln (1994) 认为质性研究中信度作为可复制性可通过�
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011, Ch. 10)]] — 系统阐述教育研究中量化信度的三种形式（稳定性、等值性、[[Internal Consistency|内部一致性]]）与[[Qualitative Reliability|质性信度]]（可依赖性、[[Trustworthiness|可信赖性]]）的核心内涵与争议。
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch. 5)]] — 梳理教育调查[[Questionnaire|问卷]]中的[[Test-Retest Reliability|重测信度]]、[[Parallel-Forms Reliability|复本信度]]、[[Split-Half Reliability|折半信度]]与[[Inter-Rater Reliability|评分者信度]]，确立信度系数评价阈值与[[Kitwood's Paradox|信度效度权衡]]法则。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 结合 Desrosières 等值空间理论，揭示[[OECD|经合组织]] [[PISA]] 测评在方法论上如何以信度与跨国可比性压倒[[Construct Validity|构念效度]]与教育[[Ontology|本体论]]。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 结合 Desrosières [[Space of Equivalence|等值空间]]理论，揭示[[OECD|经合组织]] [[PISA]] 测评在方法论上如何以信度与跨国可比性压倒[[Construct Validity|构念效度]]与教育[[Ontology|本体论]]。
 
 ---
 
@@ -243,4 +244,4 @@ Denzin & Lincoln (1994) 认为质性研究中信度作为可复制性可通过�
 > | **跨国治理与统计通约** | [[Governing by Numbers]] | 概念 | 依托高信度跨国数据指标行使超国家教育软治理与远处掌舵。 |
 > | **跨国治理与统计通约** | [[PISA]] | 事实 | [[OECD\|经合组织]]建立跨国等值空间、推行标准化素养评估的全球旗舰项目。 |
 > | **理论代表学者** | [[Fazal Rizvi]] | 人物 | 批判跨国评估以信度压制效度并塑造新自由主义[[Social Imaginary\|社会想象]]的核心学者。 |
-> | **理论代表学者** | [[Bob Lingard]] | 人物 | 剖析教育数字治理、等值空间虚构与远处掌舵机制的核心学者。 |
+> | **理论代表学者** | [[Bob Lingard]] | 人物 | 剖析教育数字治理、[[Space of Equivalence\|等值空间]]虚构与远处掌舵机制的核心学者。 |

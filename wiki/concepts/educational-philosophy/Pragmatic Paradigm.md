@@ -8,7 +8,7 @@ aliases:
 summary: "先完整论述古典哲学层面（杜威等的经验、探究与行动后果），再阐述延伸出的研究方法论层次（混合方法研究的问题驱动、适合目的与方法自由）。"
 type: concept
 domain: "educational-philosophy"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Research Ethics]]"
   - "[[Technological Republic]]"
+  - "[[Economic Fundamentalism]]"
 related_theories:
   - "[[Pluralism]]"
   - "[[Structural Functionalism]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-13
+updated: 2026-10-14
 ---
 
 # Pragmatic Paradigm
@@ -330,5 +331,5 @@ updated: 2026-10-13
 > | [[Alexander Karp]] | 人物 | 现代学者：《[[Technological Republic\|技术共和国]]》作者，将实用主义重新激活为高科技组织与防务工程的治理认识论。 |
 > | [[OECD]] | 事实 | 治理机构：将实用主义范式作为跨国教育政策去政治化与技能绩效管理的技术装置。 |
 > | [[Fazal Rizvi]] | 人物 | 政策学者：与林加德共同揭示经合组织教育政策从民主论坛向实用主义技能精算的范式转型。 |
-> | [[Bob Lingard]] | 人物 | 政策学者：分析超国家组织如何借助实用主义解题理性掩蔽新自由主义经济基要主义。 |
+> | [[Bob Lingard]] | 人物 | 政策学者：分析超国家组织如何借助实用主义解题理性掩蔽新自由主义[[Economic Fundamentalism\|经济基要主义]]。 |
 

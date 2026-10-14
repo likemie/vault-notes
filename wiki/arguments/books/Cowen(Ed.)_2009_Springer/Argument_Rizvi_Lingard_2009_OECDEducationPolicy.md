@@ -7,9 +7,9 @@ title: "Argument_Rizvi_Lingard_2009_OECDEducationPolicy"
 argument_key: "Argument_Rizvi_Lingard_2009_OECDEducationPolicy"
 argument_display_title: "The OECD and Global Shifts in Education Policy"
 argument_kind: "book-chapter"
-argument_related_count: 57
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 61
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
 authors:
   - "[[Fazal Rizvi|Rizvi, F.]]"
@@ -37,6 +37,8 @@ related_concepts:
   - "[[Social Imaginary]]"
   - "[[Reliability]]"
   - "[[Commensuration]]"
+  - "[[Space of Equivalence]]"
+  - "[[Economic Fundamentalism]]"
   - "[[Return on Investment]]"
   - "[[Paradigm]]"
   - "[[State Educational Sovereignty]]"
@@ -74,6 +76,7 @@ related_concepts:
   - "[[Problem Solving]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[New Growth Theory]]"
   - "[[Hegemony]]"
   - "[[Social Capital Theory]]"
 related_methods:
@@ -84,6 +87,7 @@ related_persons:
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
   - "[[Bengt-Åke Lundvall]]"
+  - "[[George Papadopoulos]]"
   - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[OECD]]"
@@ -100,7 +104,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: completed
 created: 2026-04-13
-updated: 2026-10-13
+updated: 2026-10-14
 ---
 # Argument_Rizvi_Lingard_2009_OECDEducationPolicy
 
@@ -112,7 +116,7 @@ updated: 2026-10-13
 > 战后国际组织在推动全球教育发展中扮演了怎样的角色？自20世纪90年代以来，冷战结束与经济全球化浪潮如何深刻重塑了国际组织的教育治理逻辑？[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD，简称经合组织）作为原本仅具协商性质的发达国家智库，何以逐步发展为具有全球议程塑造能力的独立政策行动者？在此过程中，教育公平、民主参与、性别平等以及社会凝聚力等传统[[Public Value|公共价值]]，是如何被逐步吸纳并改造成服务于市场竞争与经济效率的工具性指标的？（pp. 437–438）
 
 > [!claim] 核心主张
-> [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，20世纪90年代中期是经合组织教育政策史上的根本分水岭：在此之前，经合组织是一个包容欧洲社会民主主义与美国自由市场路线妥协的协商论坛，教育被视为培育民主公民与促进平等的公共物品；而在90年代中期之后，经合组织将新自由主义全球化本体化为不可抗拒的历史必然，围绕[[Knowledge-Based Economy|知识经济]]建构起一套具有排他性的全球[[Social Imaginary|社会想象]]，并依托以[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）为核心的跨国量化测评推行数字即政策，创造出[[Reliability|信度]]压倒效度的全球可[[Commensuration|通约]]等值空间。在经济基要主义支配下，经合组织并未抛弃教育公平、性别平权与社会资本等概念，而是将其彻底重构为增进[[Human Capital Theory|人力资本]]积累与管理经济边缘化的技术工具，使教育从民主社会的公共支柱演变为追求[[Return on Investment|投资回报]]的公私混合商品。（pp. 437–452）
+> [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，20世纪90年代中期是经合组织教育政策史上的根本分水岭：在此之前，经合组织是一个包容欧洲社会民主主义与美国自由市场路线妥协的协商论坛，教育被视为培育民主公民与促进平等的公共物品；而在90年代中期之后，经合组织将新自由主义全球化本体化为不可抗拒的历史必然，围绕[[Knowledge-Based Economy|知识经济]]建构起一套具有排他性的全球[[Social Imaginary|社会想象]]，并依托以[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）为核心的跨国量化测评推行数字即政策，创造出[[Reliability|信度]]压倒效度的全球可[[Commensuration|通约]][[Space of Equivalence|等值空间]]。在[[Economic Fundamentalism|经济基要主义]]支配下，经合组织并未抛弃教育公平、性别平权与社会资本等概念，而是将其彻底重构为增进[[Human Capital Theory|人力资本]]积累与管理经济边缘化的技术工具，使教育从民主社会的公共支柱演变为追求[[Return on Investment|投资回报]]的公私混合商品。（pp. 437–452）
 
 > [!concept-lens] 阅读透镜
 > - **考察对象** 经合组织自1961年成立至21世纪初的教育政策演进脉络，重点对比1960–1990年与1990年代中期后两个历史阶段的官方报告、治理架构、工作机制及其实施的全球测评项目。
@@ -127,13 +131,13 @@ updated: 2026-10-13
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Social Imaginary\|社会想象理论]]**<br>Social Imaginary | 引入哲学家查尔斯·泰勒（Charles Taylor）与人类学家阿尔君·阿帕杜莱（Arjun Appadurai）的构念，指行动者理解自身社会存在、人际纽带与规范期待的共享图景。用于阐明[[OECD\|经合组织]]如何在缺乏主权强制力的情况下，通过政策报告与媒体传播扩散[[Knowledge-Based Economy\|知识经济]]社会想象，使各成员国自发将市场化与国际竞争视为理所当然的真理。（pp. 444–445） |
-> | **内生新增长理论**<br>New Growth Theory | 借鉴经济学家保罗·罗默（Paul Romer）与彼得·豪伊特（Peter Howitt）的内生增长模型，认为知识、创意与技术创新并非外生[[Variable\|变量]]，而是经济持续增长的内生源泉。为经合组织将教育直接定性为生产力要素提供经济学学理支撑，论证研发投入与[[Human Capital Theory\|人力资本]]升级何以成为决定[[Competitiveness\|国家竞争力]]的核心支柱。（p. 445） |
+> | **[[New Growth Theory\|内生新增长理论]]**<br>New Growth Theory | 借鉴经济学家保罗·罗默（Paul Romer）与彼得·豪伊特（Peter Howitt）的内生增长模型，认为知识、创意与技术创新并非外生[[Variable\|变量]]，而是经济持续增长的内生源泉。为经合组织将教育直接定性为生产力要素提供经济学学理支撑，论证研发投入与[[Human Capital Theory\|人力资本]]升级何以成为决定[[Competitiveness\|国家竞争力]]的核心支柱。（p. 445） |
 > | **[[Learning Economy\|学习型经济与技能转向]]**<br>Learning Economy | 采纳多米尼克·福雷（Dominique Foray）与本特-奥克·[[Bengt-Åke Lundvall\|伦德瓦尔]]（Bengt-Åke Lundvall）的分析框架，强调现代经济竞争的关键在于快速学习与应用知识的能力，主张由关注事实知识（knowing that）转向操作方法与人际网络（knowing how）。用于解释经合组织为何推动学校教育脱离传统学科体系而倒向面向职场的实用操作技能，并大力倡导全生命周期的[[Lifelong Learning\|终身学习]]。（pp. 445–446） |
-> | **[[Governing by Numbers\|数字治理与等值空间]]**<br>Governing by Numbers & Space of Equivalence | 整合法国统计社会学家阿兰·德罗西埃（Alain Desrosières）的等值空间与英国社会学家尼古拉斯·罗斯（Nikolas Rose）的数字即政策学说。用于揭示跨国量化测评如何自行生产数据并强行构筑全球可比的等值空间，利用数字的客观表象掩盖主观政治决断，通过联赛排名与同侪压力达成超越边境的远程[[Disciplina and Doctrina\|规训]]。（pp. 447–448） |
+> | **[[Governing by Numbers\|数字治理]]与[[Space of Equivalence\|等值空间]]**<br>Governing by Numbers & Space of Equivalence | 整合法国统计社会学家阿兰·德罗西埃（Alain Desrosières）的[[Space of Equivalence\|等值空间]]与英国社会学家尼古拉斯·罗斯（Nikolas Rose）的数字即政策学说。用于揭示跨国量化测评如何自行生产数据并强行构筑全球可比的[[Space of Equivalence\|等值空间]]，利用数字的客观表象掩盖主观政治决断，通过联赛排名与同侪压力达成超越边境的远程[[Disciplina and Doctrina\|规训]]。（pp. 447–448） |
 > | **[[New Public Management\|新公共管理与远处掌舵]]**<br>New Public Management (NPM) & Steering at a Distance | 汲取20世纪80年代以来的政府改革浪潮与经合组织1995年治理报告，主张政府放弃繁琐的过程控制，转向确立绩效目标、放权运营与基于结果的质量审计。用于解释经合组织如何将行政管理模式迁移至全球教育体系，通过国际基准对标与[[Performance Indicators\|绩效指标]]实现不直接介入日常管理却能引导政策走向的远处掌舵。（pp. 441, 447） |
 
 > [!warrant]- 理论如何支撑论证
-> 这一理论工具箱形成了一条层层递进的批判分析链条：作者首先运用社会想象与内生增长理论，揭示出新自由主义如何占据政策[[Discourse|话语]]的制高点，将原本多元的教育目的单向度地收拢为知识经济的附庸；进而借助德罗西埃的等值空间与罗斯的数字治理学说，具体拆解经合组织如何运用[[PISA]]测评这一技术工具，把抽象的经济主义逻辑转化为各国可感知、可攀比的排行榜；最后，通过新公共管理（New Public Management, NPM）的远处掌舵（[[Steering at a Distance]]）机制，说明国际组织如何在没有强制立法权的前提下，依靠柔性的数字监督深度介入各国内部政策，实现了意识形态倡导与技术统治手段的高度整合。（pp. 440–448）
+> 这一理论工具箱形成了一条层层递进的批判分析链条：作者首先运用社会想象与[[New Growth Theory|内生增长理论]]，揭示出新自由主义如何占据政策[[Discourse|话语]]的制高点，将原本多元的教育目的单向度地收拢为知识经济的附庸；进而借助德罗西埃的[[Space of Equivalence|等值空间]]与罗斯的数字治理学说，具体拆解经合组织如何运用[[PISA]]测评这一技术工具，把抽象的经济主义逻辑转化为各国可感知、可攀比的排行榜；最后，通过新公共管理（New Public Management, NPM）的远处掌舵（[[Steering at a Distance]]）机制，说明国际组织如何在没有强制立法权的前提下，依靠柔性的数字监督深度介入各国内部政策，实现了意识形态倡导与技术统治手段的高度整合。（pp. 440–448）
 
 ---
 
@@ -149,7 +153,7 @@ updated: 2026-10-13
 > [!sample-panel]- 样本与材料快照
 > | 考察维度 | 核心文本与材料对象 | 历史时期与现实语境 |
 > |---|---|---|
-> | **官方史料与制度规范** | 《1960–1990年的教育：经合组织视角》（Papadopoulos, 1994）、《经合组织公约》（1961）、《年度报告》（1997, 1998）。 | 1960–1990年冷战时期及组织初创阶段的欧洲重建背景。 |
+> | **官方史料与制度规范** | 《1960–1990年的教育：经合组织视角》（[[George Papadopoulos\|Papadopoulos]], 1994）、《经合组织公约》（1961）、《年度报告》（1997, 1998）。 | 1960–1990年冷战时期及组织初创阶段的欧洲重建背景。 |
 > | **治理转型与经济纲领** | 《转型中的治理：经合组织国家的公共管理改革》（OECD, 1995）、《知识经济》（OECD, 1996c）、《2030年全球化与联动》（OECD, 1996a）。 | 苏联解体后新自由主义全球化霸权确立与政府职能重塑阶段。 |
 > | **跨国教育监测与评估** | 《教育概览》（OECD, 1997）、《测量学生知识与技能：评估新框架》（OECD, 1999）、《经合组织教育工作2005–2006》（OECD, 2005）。 | PISA测评体系建立、首轮2000年结果发布及独立教育司成立时期。 |
 > | **社会政策与外部网络** | 《经合组织全球关系计划2007–2008》（OECD, 2007）、《性别与经济发展：黛安·埃尔森的研究》（OECD, 2006）、世界教育指标项目档案。 | 经合组织面向中国、印度等非成员经济体扩张及社会政策工具化时期。 |
@@ -186,7 +190,7 @@ updated: 2026-10-13
 >
 >   20世纪60年代初的教育事务从属于科技人力办公室，其核心任务是通过比较欧洲与北美之间的科学技术水平差距，强化学校的科学与数学教学，以服务于西方阵营在冷战中的地缘技术竞争。（p. 438）
 >
-> - **[[Centre for Educational Research and Innovation|CERI]]设立与定性维度破局（1968年）**
+> - **[[Centre for Educational Research and Innovation|CERI]]设立与定性维度的确立（1968年）**
 >
 >   1968年经合组织正式设立[[Centre for Educational Research and Innovation|教育研究与创新中心]]（Centre for Educational Research and Innovation, CERI）。这一转变源于组织内部逐渐认识到经济增长不仅有数量规模，更有定性维度，应当将教育作为改善生活条件的重要工具。（p. 439）
 >
@@ -314,7 +318,7 @@ updated: 2026-10-13
 ### 论证步骤四　知识经济的社会想象依托新增长理论，将教育核心目标重塑为实用技能与终身学习
 
 > [!claim] 步骤四核心主张
-> 经合组织将内生新增长理论转化为具有通俗说服力的[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]，将知识界定为生产的核心内生要素，并在此基础上重构学习概念，推动教育全面转向面向就业市场的操作性技能与持续终身学习。（pp. 444–446）
+> 经合组织将[[New Growth Theory|内生新增长理论]]转化为具有通俗说服力的[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]，将知识界定为生产的核心内生要素，并在此基础上重构学习概念，推动教育全面转向面向就业市场的操作性技能与持续终身学习。（pp. 444–446）
 
 #### 1. 跨国流通的社会想象将经验趋势与情感焦虑交织为不言自明的政策常识
 
@@ -328,11 +332,11 @@ updated: 2026-10-13
 > - **替代性经济方案的系统性排斥**
 >   简·肯韦等学者（Kenway et al., 2006, p. 4）指出，知识经济的话语霸权已经达到被视作唯一真理的地步。它垄断了政策词汇体系，系统性排斥并遮蔽了其他追求公平、生态可持续与社会人文价值的替代性经济愿景。（p. 445）
 
-#### 2. 内生增长理论与学习型经济重塑了学习定义，推动从理论知识向操作技能的转向
+#### 2. [[New Growth Theory|内生增长理论]]与学习型经济重塑了学习定义，推动从理论知识向操作技能的转向
 
 1996年，经合组织发布标志性报告《知识经济》（*The Knowledge Based Economy*, OECD, 1996c），确立了这一社会想象的核心经济学内核。（p. 445）
 
-> [!chain-link] 内生新增长理论重构教育逻辑的演进链条
+> [!chain-link] [[New Growth Theory|内生新增长理论]]重构教育逻辑的演进链条
 > - **前提：新增长理论确立知识的内生核心地位**
 >   保罗·罗默（Paul Romer, 1986）与彼得·豪伊特（Peter Howitt, 2000）的内生增长模型表明，经济增长主要受技术进步驱动，取决于将现有知识与人力资本转化为新产品的能力；知识是经济系统内生的决定因素。
 > - **机制：人力资本升级转变为国家竞争的生死关键**
@@ -347,12 +351,12 @@ updated: 2026-10-13
 
 ---
 
-### 论证步骤五　PISA测评通过制造全球可通约的等值空间，以数字治理技术实现超越国家主权的远处掌舵
+### 论证步骤五　PISA测评通过制造全球可通约的[[Space of Equivalence|等值空间]]，以数字治理技术实现超越国家主权的远处掌舵
 
 > [!claim] 步骤五核心主张
-> [[PISA]]的成功并不源于对具体学校课程的准确反映，而是通过自主构建数据创造出全球可比的等值空间；这种数字即政策的量化治理技术掩盖了其主观的价值选择，通过跨国排名引发的危机感实现了对各国内部教育系统的有效调控。（pp. 446–448）
+> [[PISA]]的成功并不源于对具体学校课程的准确反映，而是通过自主构建数据创造出全球可比的[[Space of Equivalence|等值空间]]；这种数字即政策的量化治理技术掩盖了其主观的价值选择，通过跨国排名引发的危机感实现了对各国内部教育系统的有效调控。（pp. 446–448）
 
-#### 1. 脱离特定课程的标准化测评建构起信度优先于构念效度的跨国等值空间
+#### 1. 脱离特定课程的标准化测评建构起信度优先于构念效度的跨国[[Space of Equivalence|等值空间]]
 
 菲利普·布朗等学者指出，当代国家竞争力的基本[[Hypothesis|假设]]是按国际统一标准来评估各国的教育与培训质量（Brown et al., 1997, pp. 7–8）。经合组织敏锐地抓住了这一需求，于1999年发布《测量学生知识与技能：评估新框架》，并在2000年正式启动PISA测评。（pp. 446–447）
 
@@ -360,7 +364,7 @@ updated: 2026-10-13
 > - **三年一周期的15岁义务教育终期监测** 针对即将完成义务教育的15岁学童，每三年施测一次，主要考查阅读、数学、科学（2003年首次增加问题解决能力），评估其应用知识应对现实挑战的实际技能。（p. 447）
 > - **独立于国家课程的独立试题研发** 测试内容完全不以任何参与国的具体教学大纲或课程标准为依据，而是委托跨国商业与专业学术机构组成的专家财团直接针对现实情境进行专门开发。（p. 448）
 > - **跨文化无偏见与翻译标准化的技术追求** 投入大量成本进行文化公平性测试与严格的双向翻译，以确保测试跨越不同语言与国别的绝对统计可比性。
-> - **自行生产数据以构筑等值空间（Space of Equivalence）** 引入阿兰·德罗西埃（Alain Desrosières, 1998）的概念，PISA并不是被动收集各国的既有成绩，而是凭空打造了一个标准化的度量尺度，强行建立起可[[Commensuration|通约]]的比较空间。
+> - **自行生产数据以构筑等值空间（[[Space of Equivalence]]）** 引入阿兰·德罗西埃（Alain Desrosières, 1998）的概念，PISA并不是被动收集各国的既有成绩，而是凭空打造了一个标准化的度量尺度，强行建立起可[[Commensuration|通约]]的比较空间。
 
 > [!critique-method] 统计[[Reliability|信度]]压倒[[Construct Validity|构念效度]]的方法论代价
 > - **跨国可比性对教育本质的剥离** PISA不遗余力地追求测试工具在所有国家稳定复现的跨国统计信度（reliability），却牺牲了对真实教育情境与多元教学目标的构念效度（[[Construct]] validity）。（p. 448）
@@ -383,10 +387,10 @@ updated: 2026-10-13
 
 ---
 
-### 论证步骤六　经济基要主义将教育公平、性别平权与社会资本抽离实质正义并重构为经济效率的工具
+### 论证步骤六　[[Economic Fundamentalism|经济基要主义]]将教育公平、性别平权与社会资本抽离实质正义并重构为经济效率的工具
 
 > [!claim] 步骤六核心主张
-> 经合组织并未公然否定社会公平与人本关怀，而是在乔治·索罗斯所称的经济基要主义框架下，将教育公平窄化为形式上的入学机会，将女性解放简化为人力资源盘活，将社会资本残余化为社会维稳工具，从而抽空了其追求社会正义的批判性内核。（pp. 448–450）
+> 经合组织并未公然否定社会公平与人本关怀，而是在乔治·索罗斯所称的[[Economic Fundamentalism|经济基要主义]]框架下，将教育公平窄化为形式上的入学机会，将女性解放简化为人力资源盘活，将社会资本残余化为社会维稳工具，从而抽空了其追求社会正义的批判性内核。（pp. 448–450）
 
 #### 1. 教育公平被窄化为形式上的入学机会，回避了深层的制度与社会正义议题
 
@@ -396,7 +400,7 @@ PISA除了测试核心认知能力外，还通过庞大的[[Questionnaire|问卷
 > - **形式入学机会对教育正义的替换** 大卫·伯利纳（David Berliner, 2007）指出，经合组织对教育公平的理解极其狭隘，仅仅局限于个体在法律和形式上是否拥有进入学校的门槛准入（formal access）。（p. 448）
 > - **逃避宏观结构性正义** 这种技术性研究回避了国家内部与国际之间更深刻的阶级压迫、资源掠夺与[[Hegemony|文化霸权]]等根本性的教育正义（educational justice）问题，把追求社会平等降格为只要人人都去上学就万事大吉的表面公平。（p. 449）
 
-> [!def] 经济基要主义（Economic Fundamentalism）
+> [!def] [[Economic Fundamentalism|经济基要主义]]（Economic Fundamentalism）
 > 乔治·索罗斯（George Soros, 1998）批判的意识形态倾向，即把一切社会道德与伦理价值均置于市场效率的单向度棱镜下审视。在教育政策中，平等不再被视作具有本真价值的民主追求，而仅仅被降格为防止人力资本闲置、实现宏观利润最大化的技术性中间手段。（p. 449）
 
 #### 2. 性别平权被简化为劳动力开发与减贫手段，遮蔽了全球服务经济对女性的弹性剥削
@@ -440,20 +444,20 @@ PISA除了测试核心认知能力外，还通过庞大的[[Questionnaire|问卷
 在总结全文论点时，作者指出经合组织的演变反映出教育基础属性定义的一场历史性剧变。（pp. 450–451）
 
 > [!contrast-table] 经合组织教育范式演进的历史总决算（据 Rizvi & Lingard, 2009, pp. 450–452）
-> | 核心维度 | 帕帕多普洛斯战后时期（1960–1990） | 知识经济全球化时期（1990年代中期后） |
+> | 核心维度 | [[George Papadopoulos\|帕帕多普洛斯]]战后时期（1960–1990） | 知识经济全球化时期（1990年代中期后） |
 > |---|---|---|
 > | **教育的根本性质** | **纯粹公共物品（Public Good）**<br>认为唯有社区每个成员都享有充分平等的教育，社会才能获得最大福祉。 | **公私混合商品（Public and Private Good）**<br>对国家而言是经济增长的公共投资，对个人而言是劳动力市场争夺收益的私人筹码。 |
 > | **培育的核心主体** | **具有批判能力的民主公民**<br>（Critically Informed Productive Citizens）能够以知情方式参与公共民主事务。 | **具有弹性的知识劳动力**<br>具备读写算基础、掌握信息技术、富有创业创新精神且能在多元文化中承压运作。 |
 > | **系统效率衡量标准** | 教育能否保障平等机会并促进社会内部的阶层流动与凝聚力 | 教育能否带来足够的投资回报率（Return on Investment, ROI）与生产率增长 |
-> | **国际组织扮演角色** | **包容多元立场的协商平台**<br>（A Unique Forum）各主权国自愿平等参与政策研讨。 | **主导全球治理的跨国行动者**<br>（A Policy Actor in Its Own Right）依靠数据指标与话语霸权远程掌舵。 |
+> | **国际组织扮演角色** | **包容多元立场的协商平台**<br>（A Unique Forum）各主权国自愿平等参与政策研讨。 | **主导全球治理的跨国行动者**<br>（A Policy Actor in Its Own Right）依靠数据指标与话语霸权远程掌舵。
 
 #### 2. 经合组织完成了从政府间协调论坛向推行市场化准则的跨国政策行动者的转变
 
-经合组织的演变确立了一套闭环式的全球治理架构，将意识形态想象与统计量化工具紧密锁合。（pp. 451–452）
+经合组织的演变确立了一套自我强化的全球治理架构，将意识形态想象与统计量化工具紧密锁合。（pp. 451–452）
 
 > [!interdependence] 意识形态霸权与量化监控技术的互锁支撑
 > - **知识经济社会想象（规范性愿景端）** 确立不可逆的全球化本体论与新人力资本价值排序，为政策转型提供话语正当性与心理紧迫感。
-> - **PISA数字治理网络（经验性操作端）** 构建跨国通约的等值空间，以客观技术外观屏蔽价值争论，通过排行榜对民族国家实施远处掌舵。
+> - **PISA数字治理网络（经验性操作端）** 构建跨国通约的[[Space of Equivalence|等值空间]]，以客观技术外观屏蔽价值争论，通过排行榜对民族国家实施远处掌舵。
 
 > [!conclusion] 经合组织全球教育治理的历史总定性
 > 经合组织最终完成了从成员国协商平台向自主跨国政策行动者的关键转变。它不再探究教育在伦理学与社会学意义上的多重本真目的，而是将全部治理能量聚焦于劳动力技能精算与绩效管理的[[Pragmatic Paradigm|实用主义]]技术业务，深度重塑了全球各国的教育政策[[Champ|场域]]。（pp. 451–452）
@@ -464,8 +468,8 @@ PISA除了测试核心认知能力外，还通过庞大的[[Questionnaire|问卷
 
 > [!finding-cards] 核心发现
 > 1. **意识形态与[[Discourse|话语]]维度的深层转向** [[OECD|经合组织]]在冷战结束后将经济全球化单向度地本体化为不可逆转的客观自然规律，通过调动对国家竞争失败的普遍焦虑与对[[Lifelong Learning|终身学习]]的繁荣许诺，建构起具有排他性的[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]，将新自由主义市场教条包装为全球[[Doxa|不言自明]]的政策常识。（pp. 440–441, 444–446）
-> 2. **[[Governing by Numbers|数字治理]]技术打造全球可比等值空间** [[PISA]]测评并不依赖各国的具体教学大纲，而是直接研发脱离特定文化背景的试题，凭空制造出自成一体的跨国量化数据。这种数字即政策的技术操作以统计[[Reliability|信度]]压倒了[[Construct Validity|构念效度]]，通过隐蔽复杂的政治决断与公布联赛排名，形成了强大的远处掌舵治理效果。（pp. 446–448）
-> 3. **社会民主主义核心价值的工具化收编** 经合组织并未直接否定教育公平、性别平等与社会资本，而是将其置于经济基要主义的棱镜下彻底重构：公平被缩减为形式上的入学准入，性别平权被简化为挖掘女性劳动力潜能的减贫手段，社会资本则被降格为管理边缘人口、防范社会动荡的维稳工具。（pp. 448–450）
+> 2. **[[Governing by Numbers|数字治理]]技术打造全球可比[[Space of Equivalence|等值空间]]** [[PISA]]测评并不依赖各国的具体教学大纲，而是直接研发脱离特定文化背景的试题，凭空制造出自成一体的跨国量化数据。这种数字即政策的技术操作以统计[[Reliability|信度]]压倒了[[Construct Validity|构念效度]]，通过隐蔽复杂的政治决断与公布联赛排名，形成了强大的远处掌舵治理效果。（pp. 446–448）
+> 3. **社会民主主义核心价值的工具化收编** 经合组织并未直接否定教育公平、性别平等与社会资本，而是将其置于[[Economic Fundamentalism|经济基要主义]]的棱镜下彻底重构：公平被缩减为形式上的入学准入，性别平权被简化为挖掘女性劳动力潜能的减贫手段，社会资本则被降格为管理边缘人口、防范社会动荡的维稳工具。（pp. 448–450）
 > 4. **国际组织自身角色的制度性跃升** 伴随2002年独立教育司的设立、秘书处技术官僚主导权的巩固，以及向中印等非成员经济体推行全球关系计划和世界[[Performance Indicators|教育指标]]（WEI），经合组织彻底告别了1960–1990年自愿协调论坛的旧属性，一跃成为拥有自主政治议程的跨国政策行动者。（pp. 441–444, 451–452）
 
 > [!stat-cards]- 核心数据
@@ -484,12 +488,12 @@ PISA除了测试核心认知能力外，还通过庞大的[[Questionnaire|问卷
 >
 > *The OECD reifies globalization, that is, it treats the concept in an ontologized manner, as if it refers to an objective and self-evident entity. However, this understanding of globalization masks the fact that it presupposes a particular set of normative assumptions about how the world economic order should be organized and governed. It ignores the role that subjective agency – both individual and collective – plays in how historical changes might be shaped and steered, and the fact that the vision of globalization promoted by the OECD reflects a deliberate ideological project of economic liberalization (Bourdieu, 2003), which privileges a particular politico-economic philosophy, replacing national economic development perspectives with a singular global view of the economy.*
 
-> [!citation-card] [[PISA]]测评制造全球等值空间与跨国[[Reliability|信度]]优先原则
-> 国际学生评估项目（PISA）由此创造了一个可[[Commensuration|通约]]的测量空间，或者用阿兰·德罗西埃（Desrosières, 1998）的术语来说，创造了一个全球性的等值空间。在统计技术的层面上，信度与跨国比较被赋予了绝对优先于效度与[[Ontology|本体论]]的崇高地位——也就是不再要求对被测量的事物保持概念上的深刻敏锐性。……数字所具有的力量恰恰在于，它们将构成一次测量、一个刻度、一个数字背后所涉及的大量复杂判断与决策完全变得不可见，因而也变得无可辩驳（Rose, 1999: 208）。可以说，如果没有[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]对其核心论断的有力呼应，PISA的迅速崛起是根本不可能实现的。（pp. 447–448）
+> [!citation-card] [[PISA]]测评制造全球[[Space of Equivalence|等值空间]]与跨国[[Reliability|信度]]优先原则
+> 国际学生评估项目（PISA）由此创造了一个可[[Commensuration|通约]]的测量空间，或者用阿兰·德罗西埃（Desrosières, 1998）的术语来说，创造了一个全球性的[[Space of Equivalence|等值空间]]。在统计技术的层面上，信度与跨国比较被赋予了绝对优先于效度与[[Ontology|本体论]]的崇高地位——也就是不再要求对被测量的事物保持概念上的深刻敏锐性。……数字所具有的力量恰恰在于，它们将构成一次测量、一个刻度、一个数字背后所涉及的大量复杂判断与决策完全变得不可见，因而也变得无可辩驳（Rose, 1999: 208）。可以说，如果没有[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]对其核心论断的有力呼应，PISA的迅速崛起是根本不可能实现的。（pp. 447–448）
 >
 > *PISA thus creates a commensurable space of measurement or in Alain Desrosières’ (1998) terms, a global “space of equivalence.” In terms of statistical technologies, reliability and comparison take priority over validity and ontology – being conceptually acute about what is being measured. ... As Rose (1999) has argued, policy as numbers tends to do this – the power of numbers is such that they “render invisible and hence incontestable – the complex array of judgements and decisions that go into a measurement, a scale, a number” (Rose, 1999: 208). Arguably then PISA’s [[Research in Schools Evaluation|RISE]] and rise would not have been possible without the social imaginary of knowledge economy complementing its central claims.*
 
-> [!citation-card] 性别平等政策在经济基要主义下的工具化矮化
+> [!citation-card] 性别平等政策在[[Economic Fundamentalism|经济基要主义]]下的工具化矮化
 > 经合组织为促进性别平等所提出的论据，清晰暴露了其对基于经济效率与知识经济要求的社会想象的偏爱。经合组织（2006）声称：“对妇女进行投资（无论是在教育、卫生、计划生育还是获得土地等方面），不仅可以直接减少贫困，而且能带来更高的生产力和对资源的更有效利用。”这种论证方式将关于性别平等的关切矮化为一种纯粹的经济逻辑，这可以说带有某种内在的性别歧视色彩，因为它将女性仅仅视作达成特定经济目的的工具，而不是作为拥有丰富多样的经济、社会与文化诉求而参与教育的完整人。（p. 449）
 >
 > *However, the arguments presented for gender equity by the OECD reveal its preference for a social imaginary that is cast largely in terms of economic efficiency, and the requirements of the knowledge economy. According to the OECD (2006), “Investing in women (with respect to education, health, family planning, access to land, etc.) not only directly reduces poverty, but also leads to higher productivity and a more efficient use of resources.” Such an argument reduces concerns of gender equity to a purely economic logic, which is arguably sexist, since it views women as a means to certain economic ends, rather than as people who participate in education for a huge variety of reasons, some economic, others social and cultural.*
@@ -504,7 +508,7 @@ PISA除了测试核心认知能力外，还通过庞大的[[Questionnaire|问卷
 ## 自述局限
 
 > [!warning]
-> 1. **经验材料对欧洲与西方发达成员国历史[[Discourse|话语]]的依赖性** 本章关于1960–1990年历史妥协的分析深度依赖于乔治·帕帕多普洛斯1994年的内部回顾档案，主要呈现了英美及西欧核心工业国之间的互动经验，对于较晚加入[[OECD|经合组织]]的亚太及拉美边缘成员国的历史参与细节刻画相对有限。（pp. 437–440）
+> 1. **经验材料对欧洲与西方发达成员国历史[[Discourse|话语]]的依赖性** 本章关于1960–1990年历史妥协的分析深度依赖于[[George Papadopoulos|乔治·帕帕多普洛斯]]（[[George Papadopoulos]]）1994年的内部回顾档案，主要呈现了英美及西欧核心工业国之间的互动经验，对于较晚加入[[OECD|经合组织]]的亚太及拉美边缘成员国的历史参与细节刻画相对有限。（pp. 437–440）
 > 2. **侧重话语解构而较少展现各国内部的抵制性实践** 本章的核心理论任务在于揭示经合组织官方话语与[[PISA]]量化技术在宏观层面的霸权建构，主要分析经合组织的官方文件与全球反响（如德国与芬兰），较少深入展现发展中国家与一线学校教育工作者如何在微观实践中对这套新自由主义指标进行抵制、变通或反向挪用。（pp. 446–448）
 > 3. **早期PISA项目学科范围的局限性** 论及PISA测评时，经验材料主要基于2000年与2003年最初两轮测试（涵盖阅读、数学、科学及2003年初步尝试的解决问题能力），尚未涉及随后周期中新加入的财经素养、协作[[Problem Solving|问题解决]]及全球胜任力等新型维度的测试实效。（pp. 447–448）
 

@@ -9,10 +9,10 @@ aliases:
 summary: "衡量产出增长中扣除资本与劳动等要素投入贡献后的剩余部分，反映技术进步、组织效率与知识积累的综合生产率指标；在增长核算中作为索洛残差度量技术差距，在现代产业与演化经济学中，先进制造业被视为全社会全要素生产率增长与技术外溢的核心引擎，现代产业战略旨在通过重振先进制造扭转长期生产率增长放缓。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/economics
   - productivity
@@ -40,6 +40,7 @@ related_concepts:
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Evolutionary Economics]]"
+  - "[[New Growth Theory]]"
   - "[[Technological Trajectories]]"
 related_methods:
   - "[[Perpetual Inventory Method]]"
@@ -60,7 +61,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-26
-updated: 2026-10-08
+updated: 2026-10-14
 ---
 
 # Total Factor Productivity
@@ -192,7 +193,7 @@ updated: 2026-10-08
 
 > [!dev-timeline] 概念演变
 > - **1950年代 — 新古典增长核算奠基** 罗伯特·索洛（Robert Solow, 1957）与摩西·阿布拉莫维茨（Moses Abramovitz, 1956）建立总量生产函数与索洛残差[[Analytic Framework|分析框架]]，确立全要素生产率在经济增长理论中的核心地位。
-> - **1980–1990年代 — 内生增长理论与研发模型** 保罗·罗默（Paul Romer, 1986, 1990）与阿吉翁-霍伊特（Aghion & Howitt, 1992）将 TFP 内生化为企业研发投资、知识积累与[[Creative Destruction|创造性破坏]]的结果。
+> - **1980–1990年代 — [[New Growth Theory|内生增长理论]]与研发模型** 保罗·罗默（Paul Romer, 1986, 1990）与阿吉翁-霍伊特（Aghion & Howitt, 1992）将 TFP 内生化为企业研发投资、知识积累与[[Creative Destruction|创造性破坏]]的结果。
 > - **2010年代 — 企业微观[[Heterogeneity|异质性]]与演化分析** [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]] 利用跨国微观数据证实行业内持久存在 2–9 倍的 TFP 差距，打破代表性企业[[Hypothesis|假设]]，揭示创新模式与[[Technological Trajectories|技术轨迹]]对 TFP 演化的决定作用。
 > - **2020年代 — 现代产业战略与供给侧 TFP 重建** 伊丽莎白·雷诺兹（[[Argument_Reynolds_2024_JICT|Reynolds, 2024]]）等学者将全要素生产率置于大国产业转型核心，强调通过国家[[Modern Industrial Policy|现代产业政策]]重塑先进制造产能、攻克核心供应链瓶颈，从供给侧恢复长期 TFP 增长动能。
 

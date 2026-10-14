@@ -5,7 +5,7 @@ aliases:
 summary: "把知识生产、流通和应用置于资本积累核心位置的全球经济秩序概念，用于解释大学、创新体系和地缘竞争的深度重组"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Matthew Effect in Academia]]"
 related_theories:
+  - "[[New Growth Theory]]"
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-10-07
+updated: 2026-10-14
 ---
 
 ## 定义
@@ -50,7 +51,7 @@ updated: 2026-10-07
 > [!info] 定义
 > [[Intellectual Capital|知识资本]]主义（Knowledge Capitalism）指一种以知识作为首要资本积累形式的全球经济秩序。在这一秩序中，知识的生产、商品化和流通——而非传统的物质资本（土地、工厂、机器）——成为价值创造和经济增长的核心驱动力。高等教育在这一转型中被根本性地重新定位：从[[Knowledge Production\|知识生产]]和传播的公共机构转变为[[Knowledge-Based Economy\|知识经济]]中产生价值和比较优势的关键基础设施（Peters, 2013, cited in [[Argument_Rizvi_2022_Springer\|Rizvi, 2022, p.90]]）。
 >
-> 在 Rizvi (2022) 对高等教育全球转型的分析中，知识资本主义的兴起被列为解释过去三十年间高等教育深刻转型的四大因素之一（其余三项为：工作性质的转变、全球化、技术创新）。
+> 在 [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 对高等教育全球转型的分析中，知识资本主义的兴起被列为解释过去三十年间高等教育深刻转型的四大因素之一（其余三项为：工作性质的转变、全球化、技术创新）。
 >
 > > 知识资本主义与 知识经济（KBE） 紧密相关但侧重不同：KBE 描述知识密集型经济的形态和特征，知识资本主义则更强调这一经济秩序中资本积累的逻辑转变——知识本身成为被投资、商品化和交换的首要资本形式。
 >
@@ -90,7 +91,7 @@ updated: 2026-10-07
 > [[Intellectual Capital|知识资本]]主义作为系统性的[[Analytic Framework\|分析框架]]由 Peters (2013) 阐述，但其知性根源可追溯至更早的学术脉络：
 >
 > - **1950s–1960s**Drucker (1959) 提出"知识工作者"概念，Bell (1973) 在 *The Coming of POST-Industrial Society* 中强调[[Theoretical Knowledge\|理论知识]]在后工业社会中的相对重要性——这些为知识资本主义提供了概念先驱([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.22]])。详见 [[Knowledge-Based Economy\|知识经济]] > 学术脉络
-> - **1986** Romer 的内生增长理论为知识作为资本提供了经济学基础——知识和[[Human Capital Theory\|人力资本]]投资被视为不受有限限制的增长关键资产([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.23]])
+> - **1986** Romer 的[[New Growth Theory|内生增长理论]]为知识作为资本提供了经济学基础——知识和[[Human Capital Theory\|人力资本]]投资被视为不受有限限制的增长关键资产([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.23]])
 > - **1990s–2000s**[[OECD]]、[[World Bank\|世界银行]]等国际组织将 KBE [[Discourse|话语]]系统性地嵌入全球政策框架，知识资本主义从学术概念转化为政策实践
 > - **2013** Peters 系统阐述知识资本主义作为理解高等教育全球转型的分析框架
 >

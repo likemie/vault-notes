@@ -7,7 +7,7 @@ aliases:
 summary: "将教育与培训视为提升劳动生产率与驱动内生经济增长的核心生产性投资之经济学理论。二战后在冷战地缘博弈中成为经合组织（OECD）推行技术官僚式人力规划与世界银行构建跨国放贷指标帝国的核心理论支柱；在创新经济学中阐明了重大工程实战历练与冷战大学研究生流动构筑高科技产业实体技术转移与人才生态的微观机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 71
+theory_related_count: 72
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -59,6 +59,7 @@ related_concepts:
   - "[[Scientific Paradigm]]"
   - "[[Discourse]]"
 related_theories:
+  - "[[New Growth Theory]]"
   - "[[Governing at a Distance]]"
 related_methods:
   - "[[Manpower Requirements Approach]]"
@@ -98,7 +99,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-10-13
+updated: 2026-10-14
 ---
 
 # Human Capital Theory
@@ -162,7 +163,7 @@ updated: 2026-10-13
 > [!proposition-chain] 核心命题四｜冷战竞争促成国际组织将人力资本构造成技术官僚控制论规划与跨国放贷指标帝国
 > - **前提一** 1957 年[[Sputnik Shock 1957|斯普特尼克冲击]]（[[Sputnik Shock 1957|Sputnik Shock]]）使西方阵营深陷落后恐慌，[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（改组后的[[OECD|经合组织]] OECD）被重新构想为“经济北约”，必须寻找抗衡苏联计划经济的技术化治理工具（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, pp. 540–541]]）。
 > - **前提二** [[World Bank|世界银行]]在后殖民时期急于争夺不结盟国家影响力，脱离了[[UNESCO|联合国教科文组织]]的人文主义路线，转向以管理科学效率与放贷权力为核心的自营[[Paradigm|研究范式]]（Elfert & Ydesen, 2023; Psacharopoulos, 1981）。
-> - **推导** ① 经合组织将人力资本理论与控制论规划深度缝合，推行专注于预测劳动力市场需求的技术官僚人力规划（Popkewitz, 2022）；1990 年代中期后进一步转向以保罗·罗默（Paul Romer）内生新增长理论为基础的“[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]”，将人力资本内涵由 1960 年代关注的狭隘科技专才拓展为全方位的行为柔韧性与[[Lifelong Learning|终身学习]]能力（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 438–439, 444–446]]）；② 世界银行依托高级顾问 [[George Psacharopoulos]] 建立起覆盖 139 国、1,120 项估算的回报率数据库，将人力资本收益率测算固化为结构性调整与政策放贷的前置门槛；③ 人力资本逻辑由此从纯粹的学术假说演进为跨国组织规制民族国家教育政策、行使“[[Governing at a Distance|远处治理]]”的自指性指标帝国。
+> - **推导** ① 经合组织将人力资本理论与控制论规划深度缝合，推行专注于预测劳动力市场需求的技术官僚人力规划（Popkewitz, 2022）；1990 年代中期后进一步转向以保罗·罗默（Paul Romer）[[New Growth Theory|内生新增长理论]]为基础的“[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]”，将人力资本内涵由 1960 年代关注的狭隘科技专才拓展为全方位的行为柔韧性与[[Lifelong Learning|终身学习]]能力（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 438–439, 444–446]]）；② 世界银行依托高级顾问 [[George Psacharopoulos]] 建立起覆盖 139 国、1,120 项估算的回报率数据库，将人力资本收益率测算固化为结构性调整与政策放贷的前置门槛；③ 人力资本逻辑由此从纯粹的学术假说演进为跨国组织规制民族国家教育政策、行使“[[Governing at a Distance|远处治理]]”的自指性指标帝国。
 
 > [!proposition-chain] 核心命题五｜高技术产业专门工程人力资本的生成依托重大战略工程历练与多维流动网络
 > - **前提一** 高技术产业（半导体与计算机）的核心能力不仅取决于一般性正规学校教育，更依赖于在大规模复杂系统工程（如载人航天、空防雷达网、实时计算综合体）中通过[[Learning by Doing|干中学]]积累的高级系统架构与项目管理专门工程人力资本（[[Argument_Schnee_1978_RP|Schnee, 1978, pp. 17–20]]）。
@@ -256,7 +257,7 @@ updated: 2026-10-13
 > - **1962–1970 — 教育规划与比较教育应用** 赫伯特·帕恩斯（Herbert Parnes, 1962）主持 OECD 地中海地区项目（[[Mediterranean Regional Project|MRP]]），弗雷德里克·哈比森（Frederick Harbison）与查尔斯·迈尔斯（Charles Myers, 1964）建立跨国人力指数。伴随战后实证[[Scientism|科学主义]]运动，人力资本理论成为比较教育“第三代”的核心支柱；在“教育是开启现代化大门的钥匙”的发展主义信条下，理论与方法论[[Empiricism|经验主义]]合流，构筑了“教育-发展-现代化”工具性发展[[Paradigm|范式]]，获得政府、基金会与跨国机构的全面制度背书。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 64, 67–68)]]；[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–148)]]
 > - **1970 年代中叶 — [[Paradigm|范式]]危机与反思** 经济滞胀爆发，[[Credential Inflation|文凭通胀]]与青年失业打破了教育投资必然带动经济繁荣的神话，[[Torsten Husén|托斯滕·胡森]]（Torsten Husén, 1982）指出实证规划承诺全面破灭。
 > - **1978 — 高技术工程人力资本与多维流动机制** 杰罗姆·E·施奈（[[Jerome E. Schnee]]）将人力资本分析拓展至前沿高技术产业，实证揭示了空间与国防重大工程如何充当工程架构与项目管理人才的孵化池，并通过半导体企业间衍生网络与计算机企业内部跨部门迁移双重机制驱动国家高技术产业优势确立。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 17–20)]]
-> - **1980–1990 年代 — [[World Bank|世界银行]]放贷帝国、内生新增长理论与[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]** 1980 年世界银行发布首份《教育部门政策文件》（World Bank, 1980），[[George Psacharopoulos]] 建立起涵盖 139 国、1,120 项估算的回报率数据库，使人力资本收益率成为跨国政策放贷与治理干预的硬性规制指标；罗伯特·卢卡斯（Robert Lucas, 1988）、保罗·罗默（Paul Romer, 1986）与彼得·豪伊特（Peter Howitt, 2000）发展内生新增长理论，将知识与人力资本确立为技术进步和创新商业化的内生核心。[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，1990 年代中期后[[OECD]]借此建构起“[[Knowledge-Based Economy|知识经济]]的[[Social Imaginary|社会想象]]”，使人力资本内涵从 1960 年代科学和工程技术人员办公室（Office for Scientific and Technical Personnel）关注的狭隘科技专才，扩展为涵盖适应力、组织忠诚度、跨文化高压独立工作、团队沟通与知识商业化等全方位行为特质与“知其所以操作”（[[Procedural Knowledge|knowing how]]）的[[Lifelong Learning|终身学习]]能力，并将教育从社会民主主义时期的公共物品重塑为兼具公共与私人[[Return on Investment|投资回报]]属性的混合商品。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439, 445–446, 451)]]
+> - **1980–1990 年代 — [[World Bank|世界银行]]放贷帝国、[[New Growth Theory|内生新增长理论]]与[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]** 1980 年世界银行发布首份《教育部门政策文件》（World Bank, 1980），[[George Psacharopoulos]] 建立起涵盖 139 国、1,120 项估算的回报率数据库，使人力资本收益率成为跨国政策放贷与治理干预的硬性规制指标；罗伯特·卢卡斯（Robert Lucas, 1988）、保罗·罗默（Paul Romer, 1986）与彼得·豪伊特（Peter Howitt, 2000）发展内生新增长理论，将知识与人力资本确立为技术进步和创新商业化的内生核心。[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，1990 年代中期后[[OECD]]借此建构起“[[Knowledge-Based Economy|知识经济]]的[[Social Imaginary|社会想象]]”，使人力资本内涵从 1960 年代科学和工程技术人员办公室（Office for Scientific and Technical Personnel）关注的狭隘科技专才，扩展为涵盖适应力、组织忠诚度、跨文化高压独立工作、团队沟通与知识商业化等全方位行为特质与“知其所以操作”（[[Procedural Knowledge|knowing how]]）的[[Lifelong Learning|终身学习]]能力，并将教育从社会民主主义时期的公共物品重塑为兼具公共与私人[[Return on Investment|投资回报]]属性的混合商品。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439, 445–446, 451)]]
 > - **2000 年代至今 — 全球指标治理与测评帝国再融合** 进入 21 世纪，人力资本逻辑在经合组织[[International Indicators of Education Systems|国际教育系统指标]]（International Indicators of Education Systems，INES）网络、《[[Education at a Glance|教育概览]]》（Education at a Glance，EAG）与[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）跨国技能测试中被深度重构为“全球[[Knowledge-Based Economy|知识经济]][[Competitiveness|竞争力]]”治理框架，从粗放投入预测转向基于测评数据的产出绩效规制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
 
 ---
@@ -318,7 +319,7 @@ updated: 2026-10-13
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 深度剖析人力资本理论如何作为实证[[Scientific Paradigm|科学范式]]的理论支柱，为战后西方国家教育预算大扩张与第三世界技术援助提供合法化免责借口。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 考据战后第三代实证[[Scientism|科学主义]]运动中人力资本理论（Schultz, Harbison & Myers, Psacharopoulos）如何与方法论[[Empiricism|经验主义]]缝合，确立“教育-发展-现代化”工具性发展[[Paradigm|范式]]并受跨国权力机构支持的历史机制。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，揭示跨国大规模评估（[[OECD]]/[[PISA]]）崛起后，以人力资本和经济[[Competitiveness|竞争力]]为导向的技术官僚治理如何对比较教育的研究课题、经费分配与政策咨询施加直接的量化[[Disciplina and Doctrina|规训]]压力。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 梳理OECD从1960年代狭隘科技人力规划向1990年代中期后基于内生新增长理论的[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]转型，揭示人力资本理论如何将教育重塑为兼具公私属性的投资工具。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 梳理OECD从1960年代狭隘科技人力规划向1990年代中期后基于[[New Growth Theory|内生新增长理论]]的[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]转型，揭示人力资本理论如何将教育重塑为兼具公私属性的投资工具。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 揭示当代全球治理中人力资本[[Discourse|话语]]如何与 [[PISA]] 测评机制紧密咬合，驱动教育系统按照资本回报逻辑重组。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理[[OECD|经合组织]]与[[World Bank|世界银行]]七十五年历时制度演变，揭示冷战[[Sputnik Shock 1957|斯普特尼克冲击]]后国际组织如何将人力资本理论、控制论规划与教育收益率数据库工具化，打造出跨国放贷与指标治理帝国的历史轨迹。
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统剖析美国半导体与计算机产业发展史，揭示重大公共战略工程如何培育高技术专门工程人力资本，并通过企业间衍生创业网络与企业内部跨部门平移双重机制驱动民用产业升级。

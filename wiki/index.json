@@ -9043,6 +9043,14 @@
     ]
   },
   {
+    "title": "Economic Fundamentalism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Economic Fundamentalism.md",
+    "aliases": [
+      "经济基要主义"
+    ]
+  },
+  {
     "title": "Economic Patriotism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Economic Patriotism.md",
@@ -11718,6 +11726,16 @@
       "同时性程序",
       "同步数据收集与分析",
       "simultaneous data collection and analysis"
+    ]
+  },
+  {
+    "title": "Space of Equivalence",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Space of Equivalence.md",
+    "aliases": [
+      "等值空间",
+      "统计等值空间",
+      "space of equivalence in statistics"
     ]
   },
   {
@@ -16761,6 +16779,16 @@
       "Corporatism",
       "neocorporatist governance",
       "社团主义治理"
+    ]
+  },
+  {
+    "title": "New Growth Theory",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/New Growth Theory.md",
+    "aliases": [
+      "内生新增长理论",
+      "内生增长理论",
+      "endogenous growth theory"
     ]
   },
   {
@@ -23051,6 +23079,17 @@
       "厄文·戈夫曼",
       "欧文·戈夫曼",
       "Goffman, E."
+    ]
+  },
+  {
+    "title": "George Papadopoulos",
+    "type": "person",
+    "path": "wiki/persons/global/George Papadopoulos.md",
+    "aliases": [
+      "乔治·帕帕多普洛斯",
+      "乔治·S·帕帕多普洛斯",
+      "George S. Papadopoulos",
+      "Papadopoulos, G. S."
     ]
   },
   {

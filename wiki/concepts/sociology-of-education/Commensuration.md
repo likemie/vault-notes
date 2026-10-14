@@ -9,10 +9,10 @@ aliases:
 summary: "将不同性质的异质事物转化为基于同一通用尺度或公分母的标准化可比量化指标的社会过程，为跨情境绩效评价与资源配置确立形式公平，但伴随着质性情境剥离、统计公平与地域公平冲突及策略性博弈操纵等治理代价"
 type: concept
 domain: "sociology-of-education"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - concept/sociology-of-education
   - theme/datafication
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Sociology of Valuation and Evaluation]]"
   - "[[Reflexivity]]"
   - "[[Variable]]"
+  - "[[Space of Equivalence]]"
   - "[[Reliability]]"
   - "[[Construct Validity]]"
   - "[[Construct]]"
@@ -67,7 +68,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-13
+updated: 2026-10-14
 ---
 
 # Commensuration
@@ -115,14 +116,14 @@ updated: 2026-10-13
 >   利用全域集中数据库与算法模型，跨越地理邻近性，将学校与全州范围内统计特征最相似的“统计双胞胎”进行对标比较（如汉堡社会指数分级匹配、马萨诸塞州 RADAR/DART 统计同伴组），重构学校的参照群体认知[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 6–7)]]。
 > - **微小决策放大为宏观治理后果**
 >   在构建通约指标时，算法过滤规则、指标纳入与权重分配等表面上的技术微调（如决定是否纳入学校氛围调查、如何设定年度改善期望值），实质上是权威性裁定哪些学校合格、哪些学校需要国家行政接管的政治决策[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 3, 9)]]。
-> - **跨国“等值空间”（Space of Equivalence）与[[Reliability|信度]]优先逻辑**
+> - **跨国“[[Space of Equivalence|等值空间]]”（Space of Equivalence）与[[Reliability|信度]]优先逻辑**
 >   阿兰·德罗西埃（Alain Desrosières, 1998）与[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）、[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，在[[OECD]]主导的[[PISA]]等跨国大规模测评中，通约机制凭空创造出一个全球可比较的“等值空间”；为此，测量专家在方法论上将跨国信度（reliability）与可比性置于[[Construct Validity|构念效度]]（[[Construct]] validity）与[[Ontology|本体论]][[Heterogeneity|异质性]]之上，使复杂的价值决断隐形化[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 447–448)]]。
 
 ---
 
 ## 围绕概念形成的理论命题
 
-> [!thesis] 命题一｜跨国“等值空间”（Space of Equivalence）虚构与[[Reliability|信度]]优先的通约治理
+> [!thesis] 命题一｜跨国“[[Space of Equivalence|等值空间]]”（Space of Equivalence）虚构与[[Reliability|信度]]优先的通约治理
 > - **核心命题** 在跨国教育治理中，通约机制通过脱离各国的具体课程纲要与本土历史情境，凭空虚构出一个看似客观中立的全球“等值空间”（space of equivalence），并将跨国统计信度与横向可比性置于教育本土[[Construct Validity|构念效度]]之上。
 > - **理论机制** 阿兰·德罗西埃（Alain Desrosières, 1998）指出，大规模统计的核心在于制造等值；[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）进一步论证，[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）通过[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）将全球数十个国家的学生能力折算为均值 500、标准差 100 的统一量表。为维系这一跨国通约空间的统计自洽，测量专家系统性剔除了深植于特定语言与文化的[[Higher-Order Thinking Skills|高阶思维]]试题，使技术信度（reliability）压倒了教育[[Ontology|本体论]]（ontology）的多样性，完成了跨国新自由主义治理的[[Discourse|话语]]确立。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 
@@ -184,7 +185,7 @@ updated: 2026-10-13
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]] — 比较德国与美国州级学校数据监测系统，揭示通约机制如何通过统计同伴组制造公平比较表象并诱发微观指标博弈。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 结合 Desrosières 的“等值空间”理论，剖析[[OECD|经合组织]]如何通过 [[PISA]] 制造全球可通约测量空间并在方法论上以[[Reliability|信度]]压倒[[Construct Validity|构念效度]]。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 结合 Desrosières 的“[[Space of Equivalence|等值空间]]”理论，剖析[[OECD|经合组织]]如何通过 [[PISA]] 制造全球可通约测量空间并在方法论上以[[Reliability|信度]]压倒[[Construct Validity|构念效度]]。
 
 ---
 

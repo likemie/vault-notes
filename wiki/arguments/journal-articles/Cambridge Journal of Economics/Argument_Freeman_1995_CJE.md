@@ -39,6 +39,7 @@ related_concepts:
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Evolutionary Economics]]"
+  - "[[New Growth Theory]]"
   - "[[Bounded Rationality]]"
   - "[[Techno-economic Paradigm]]"
 related_methods:
@@ -68,14 +69,14 @@ sources:
 part_of:
 status: completed
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-14
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Freeman_1995_CJE"
 argument_key: "Argument_Freeman_1995_CJE"
 argument_display_title: "The 'National System of Innovation' in historical perspective"
 argument_kind: "journal-article"
-argument_related_count: 39
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -162,7 +163,7 @@ issuing_organization: ""
 
 > [!policy-context] 李斯特论[[Intellectual Capital|知识资本]]与现代增长理论的先声
 > - **对古典资本定义的批判** 李斯特指出，亚当·斯密仅从食利者和商人记账的角度理解资本，遗忘了生产者的脑力与体力技能；国家的长期财富并不取决于现有实物资本的多寡，而取决于全社会吸纳、继承并发展前人知识成果的生产力能力，即[[Intellectual Capital|智力资本]]的世代累积。（p. 6）
-> - **无形投资与有形投资的互依性** 现代内生增长理论（Romer, 1986; Grossman & Helpman, 1991）将知识积累置于关键位置，实际上是重新证实了李斯特早在 150 年前做出的判断：机器与厂房等有形投资的效率，完全取决于社会在教育、科学与技能等无形知识资本上的积累程度。（pp. 5–6）
+> - **无形投资与有形投资的互依性** 现代[[New Growth Theory|内生增长理论]]（Romer, 1986; Grossman & Helpman, 1991）将知识积累置于关键位置，实际上是重新证实了李斯特早在 150 年前做出的判断：机器与厂房等有形投资的效率，完全取决于社会在教育、科学与技能等无形知识资本上的积累程度。（pp. 5–6）
 
 #### 2. 普鲁士通过工艺技校培训、引进关键设备与吸纳外国工匠建立内生工业能力
 

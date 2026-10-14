@@ -10,7 +10,7 @@ aliases:
 summary: "评价抽象构念的界定、操作化与所得证据是否共同支持预期解释；涵盖测量工具、实验操纵、质性范畴、课程评估以及宏观政策认证体系（MTMM收敛与判别效度），防范构念不足呈现与无关方差污染。"
 type: concept
 domain: "research-methodology"
-related_count: 66
+related_count: 67
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Knowledge Questions]]"
   - "[[Critical Thinking]]"
   - "[[Commensuration]]"
+  - "[[Space of Equivalence]]"
   - "[[Governing by Numbers]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Document]]"
@@ -98,7 +99,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-13
+updated: 2026-10-14
 ---
 
 # Construct Validity
@@ -223,7 +224,7 @@ updated: 2026-10-13
 ### 命题五（跨国治理与宏观测评政治学层）　跨国量化测评为追求统计信度与等值通约系统性牺牲构念效度
 
 > [!concept-lens] 跨国治理与宏观测评政治学维度
-> 揭示跨国教育治理中大规模量化测评（如 [[PISA]]）的方法论代价：为建构跨国可[[Commensuration|通约]]的“等值空间”而优先追求统计[[Reliability|信度]]，系统性牺牲了对本土教育实质与多元文化脉络的构念效度，实施了激进的[[Ontology|本体论]][[Epoché|悬置]]。
+> 揭示跨国教育治理中大规模量化测评（如 [[PISA]]）的方法论代价：为建构跨国可[[Commensuration|通约]]的“[[Space of Equivalence|等值空间]]”而优先追求统计[[Reliability|信度]]，系统性牺牲了对本土教育实质与多元文化脉络的构念效度，实施了激进的[[Ontology|本体论]][[Epoché|悬置]]。
 
 > [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]]
 > **跨国等值空间中的信度优先与构念效度悬置** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）揭示，以[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD，简称经合组织）的[[PISA|国际学生评估项目]]（PISA）为代表的跨国大规模量化测评，并不是被动反映各国的课程实际，而是凭空构建了一个跨国可[[Commensuration|通约]]的“等值空间（Space of Equivalence）”。在统计技术操作中，组织者将跨国统计[[Reliability|信度]]与标准化排位置于绝对优先地位，因而系统性牺牲了对真实教育情境、多元育人目标与复杂地方性脉络的构念效度（Construct Validity）。这种测评工具在方法论上激进地[[Epoché|悬置]]了教育的[[Ontology|本体论]]多样性，通过[[Governing by Numbers|数字治理]]的技术中立表象掩蔽了深层的政治决断。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
@@ -284,7 +285,7 @@ updated: 2026-10-13
 > > 围绕跨国大规模测评究竟应优先保证跨国可[[Commensuration|通约]]的统计信度与度量等值，还是坚守扎根具体文化与课程情境的构念效度。
 > >
 > > - **标准化计量学派** 强调脱离具体国家课程的标准化工具设计与严格跨国双向翻译，确保量表在所有参与国具备跨文化可比性与统计复现信度。
-> > - **批判比较教育学派（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）** 指责盲目追求跨国等值空间是以牺牲构念效度与教育[[Ontology|本体论]]为代价，构成了严重的构念不足呈现与文化无关方差污染。
+> > - **批判比较教育学派（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）** 指责盲目追求跨国[[Space of Equivalence|等值空间]]是以牺牲构念效度与教育[[Ontology|本体论]]为代价，构成了严重的构念不足呈现与文化无关方差污染。
 
 > [!critique] 常见方法学误用
 > - **把效度视为工具固有的“永久标签”** 误以为量表曾获验证便可在任何文化、语言及新群体中永久有效。

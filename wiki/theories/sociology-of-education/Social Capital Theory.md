@@ -6,7 +6,7 @@ aliases:
 summary: "以 Bourdieu、Coleman and Putnam 为代表的跨学科理论，将社会关系网络、信任、规范和互惠性视为一种可产生经济和社会回报的资本形式。ODwyer 等（2023）将其应用于产学合作网络演化，揭示声誉基础的信任和诚信基础的信任在合作不同阶段的差异化作用"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 12
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -17,12 +17,14 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Research Utilization]]"
-  - "[[Social Imaginary]]"
+  - "[[Economic Fundamentalism]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Social Imaginary]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
@@ -35,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-13
+updated: 2026-10-14
 ---
 
 # Social Capital Theory
@@ -78,12 +80,12 @@ updated: 2026-10-13
 ---
 ## 在全球教育政策与国际组织治理中的工具化收编
 
-> [!claim] 国际组织对社会资本的经济基要主义重构
-> [[Fazal Rizvi|法扎尔·里兹维（Fazal Rizvi）]]与[[Bob Lingard|鲍勃·林加德（Bob Lingard）]]结合帕特·汤姆森（Pat Thomson, 1999）的分析指出，20世纪90年代末[[OECD|经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）]]等国际组织大力吸纳罗伯特·帕特南（Robert Putnam, 2000）的社会资本概念，源于三重政策冲动：其一，试图回应并修补[[Human Capital Theory|人力资本理论]]中极端个人主义所引发的社会撕裂；其二，认识到市场经济的持续成功客观上需要一定程度的社会凝聚力、稳定性与社会信任作为制度底座；其三，意识到公众日益将单纯的经济指标增长与实质性的个人福祉（well-being）相剥离。然而，在[[Social Imaginary|知识经济社会想象]]与“经济基要主义”的支配下，[[OECD]]并未借此恢复社会民主主义传统中的实质正义与民主共同体理想，而是将社会资本与社会凝聚力“剩余化”（residualize）为一种治理工具，仅用于管理经济边缘化、社会排斥与文化差异带来的摩擦，并把社会排斥狭隘地界定为未能融入[[Knowledge-Based Economy|知识经济]]的个体适应失败[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 450)]]。
+> [!claim] 国际组织对社会资本的[[Economic Fundamentalism|经济基要主义]]重构
+> [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）结合帕特·汤姆森（Pat Thomson, 1999）的分析指出，20世纪90年代末[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）等国际组织大力吸纳罗伯特·帕特南（Robert Putnam, 2000）的社会资本概念，源于三重政策冲动：其一，试图回应并修补[[Human Capital Theory|人力资本理论]]中极端个人主义所引发的社会撕裂；其二，认识到市场经济的持续成功客观上需要一定程度的社会凝聚力、稳定性与社会信任作为制度底座；其三，意识到公众日益将单纯的经济指标增长与实质性的个人福祉（well-being）相剥离。然而，在[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]与“经济基要主义”的支配下，[[OECD]]并未借此恢复社会民主主义传统中的实质正义与民主共同体理想，而是将社会资本与社会凝聚力“剩余化”（residualize）为一种治理工具，仅用于管理经济边缘化、社会排斥与文化差异带来的摩擦，并把社会排斥狭隘地界定为未能融入[[Knowledge-Based Economy|知识经济]]的个体适应失败[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 450)]]。
 
 ---
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_ODwyer_Filieri_OMalley_2023_JTT|O'Dwyer et al. (2023)]] — 将社会资本理论应用于[[University-Industry Collaboration|产学合作]]网络演化，揭示声誉信任与诚信信任在合作不同阶段的差异化功能。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 剖析[[OECD]]如何吸纳Putnam的社会资本概念并将其重构为管理经济边缘化、维系[[Knowledge-Based Economy|知识经济]]生产率的剩余性政策工具。

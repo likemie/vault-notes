@@ -7,7 +7,7 @@ aliases:
 summary: "以知识、创新、高等教育、研发与高阶思维技能作为价值创造与全球竞争核心要素的经济形态；在技术自动化与AI浪潮下，其战略重心从静态专业知识转向高阶认知能力，但面临宏观政策宣示与微观学业评价滞后的深层制度悖论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 65
+related_count: 80
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -46,25 +46,38 @@ related_concepts:
   - "[[Market Fundamentalism]]"
   - "[[Network Governance]]"
   - "[[Social Imaginary]]"
-  - "[[Learning Economy]]"
+  - "[[Economic Fundamentalism]]"
+  - "[[Knowledge-that and Know-how-to]]"
+  - "[[Procedural Knowledge]]"
   - "[[Document]]"
   - "[[Intellectual Capital]]"
   - "[[National Innovation System]]"
+  - "[[Constructed Knowledge]]"
   - "[[STEM Education]]"
   - "[[Technology Transfer]]"
+  - "[[National Competitive Advantage]]"
+  - "[[Public Value]]"
   - "[[Progressive Neoliberalism]]"
   - "[[Innovation Hub]]"
-  - "[[Public Value]]"
   - "[[Theoretical Perspective]]"
+  - "[[Doxa]]"
+  - "[[Governing by Numbers]]"
+  - "[[Learning Economy]]"
+  - "[[Return on Investment]]"
+  - "[[Geopolitics of Higher Education]]"
+  - "[[Space of Equivalence]]"
+  - "[[Problem Solving]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Pasteur's Quadrant]]"
   - "[[Developmental Network State]]"
-  - "[[Social Capital Theory]]"
+  - "[[New Growth Theory]]"
   - "[[Systems of Innovation]]"
   - "[[Cultural Political Economy]]"
 related_methods:
   - "[[Single-Case Design]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Discourse Analysis]]"
   - "[[Cohort Study]]"
   - "[[Longitudinal Study]]"
 related_instruments:
@@ -79,7 +92,9 @@ related_facts:
   - "[[World Bank]]"
   - "[[European Qualifications Framework]]"
   - "[[Melbourne Declaration]]"
+  - "[[UNESCO]]"
   - "[[UAE Education Hub Projects]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Moisio_2022_Springer]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
@@ -93,7 +108,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-10-13
+updated: 2026-10-14
 ---
 
 # Knowledge-Based Economy
@@ -210,11 +225,11 @@ updated: 2026-10-13
 
 ### 命题六　国际组织通过建构知识经济的社会想象将社会公平、性别平权与社会凝聚力重构为经济效率的附属工具
 
-> [!concept-lens] 知识经济社会想象与社会价值的经济基要主义重构
-> 探讨跨国组织如何依托内生新增长理论将知识经济塑造为排他性的全球政策常识，并在“经济基要主义”逻辑下收编传统的社会民主主义目标。
+> [!concept-lens] 知识经济[[Social Imaginary|社会想象]]与社会价值的[[Economic Fundamentalism|经济基要主义]]重构
+> 探讨跨国组织如何依托[[New Growth Theory|内生新增长理论]]将知识经济塑造为排他性的全球政策常识，并在“经济基要主义”逻辑下收编传统的社会民主主义目标。
 
-> [!claim] Rizvi, F., & Lingard, B.
-> **从“知其然”向“知其所以操作”转型及社会议题的工具化** [[Fazal Rizvi|法扎尔·里兹维（Fazal Rizvi）]]与[[Bob Lingard|鲍勃·林加德（Bob Lingard）]]指出，[[OECD]] 于 1996 年发布的《知识经济》（*The Knowledge Based Economy*）报告整合保罗·罗默（Paul Romer, 1986）与彼得·豪伊特（Peter Howitt, 2000）的内生新增长理论，将知识与技术进步界定为经济活动的内生核心，确立了一套席卷世界银行、联合国教科文组织与欧盟的全球[[Social Imaginary|社会想象]]。这一想象要求学习重心从正规、编码化的“知其然”（knowing that）转向网络化、商业化的“知其所以操作”（knowing how），推动民族国家转型为以持续[[Lifelong Learning|终身学习]]为特征的“[[Learning Economy|学习型经济]]”（Foray & Lundvall, 1996），同时压抑并排斥了“替代性经济的幽灵”（Kenway et al., 2006）。在乔治·索罗斯（George Soros, 1998）所称的“经济基要主义”支配下，知识经济社会想象并未在字面上抛弃机会均等、女性平权与[[Social Capital Theory|社会资本]]，而是将女性受教育简化为减贫与提高生产率的工具（忽视全球服务业弹性用工对女性的结构性压迫，Scholte, 2000），并将社会凝聚力缩减为修复市场排斥、维持知识经济运转的剩余性手段（Thomson, 1999）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446, 448–452)]]
+> [!claim] [[Fazal Rizvi|Rizvi, F.]], & [[Bob Lingard|Lingard, B.]]
+> **从“[[Knowledge-that and Know-how-to|知其然]]”向“知其所以操作”转型及社会议题的工具化** 法扎尔·里兹维（Fazal Rizvi）与鲍勃·林加德（Bob Lingard）指出，[[OECD]] 于 1996 年发布的《知识经济》（*The Knowledge Based Economy*）报告整合保罗·罗默（Paul Romer, 1986）与彼得·豪伊特（Peter Howitt, 2000）的内生新增长理论，将知识与技术进步界定为经济活动的内生核心，确立了一套席卷[[World Bank|世界银行]]、[[UNESCO|联合国教科文组织]]与欧盟的全球[[Social Imaginary|社会想象]]。这一想象要求学习重心从正规、[[Coding in Qualitative Research|编码]]化的“知其然”（knowing that）转向网络化、商业化的“知其所以操作”（[[Procedural Knowledge|knowing how]]），推动民族国家转型为以持续[[Lifelong Learning|终身学习]]为特征的“学习型经济”（Foray & Lundvall, 1996），同时压抑并排斥了“替代性经济的幽灵”（Kenway et al., 2006）。在乔治·索罗斯（George Soros, 1998）所称的“经济基要主义”支配下，知识经济社会想象并未在字面上抛弃机会均等、女性平权与社会资本，而是将女性受教育简化为减贫与提高生产率的工具（忽视全球服务业弹性用工对女性的结构性压迫，Scholte, 2000），并将社会凝聚力缩减为修复市场排斥、维持知识经济运转的剩余性手段（Thomson, 1999）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446, 448–452)]]
 
 ---
 
@@ -228,7 +243,7 @@ updated: 2026-10-13
 > | **主体性规训** | 通过技能话语将劳动力市场风险转化为个体终身投资义务 | [[Lifelong Learning\|终身学习]]、继续教育、自我企业家精神 | [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022)]]; [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] |
 > | **评价断裂悖论** | 宏观政策高阶能力宣示与微观学业考核事实导向严重脱节 | 高教质量保障、学习增益测量、考试制度改革 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] |
 > | **网络治理与虚构商品** | 后工业巴斯德象限创新驱动国家向网络经纪转型，但知识商品化阻滞了跨组织协同 | [[National Innovation System\|国家创新体系]]转型、产学研联合攻关与知识产权制度反思 | [[Argument_Block_2008_PS\|Block (2008)]] |
-> | **社会想象与社会价值重构** | 国际组织建构知识经济社会想象，推动“知其所以操作”转型并将公平与社会凝聚力工具化 | 跨国教育政策话语分析、OECD 指标治理、性别与社会资本政策批判 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] |
+> | **社会想象与社会价值重构** | 国际组织[[Constructed Knowledge\|建构知识]]经济社会想象，推动“知其所以操作”转型并将公平与社会凝聚力工具化 | 跨国教育政策[[Discourse Analysis\|话语分析]]、OECD 指标治理、性别与社会资本政策批判 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] |
 
 ---
 
@@ -237,7 +252,7 @@ updated: 2026-10-13
 > [!dev-timeline] 知识经济概念演进脉络
 > - **十九世纪先驱 — [[Friedrich List]] 国家[[Systems of Innovation\|创新系统]]萌芽** List《政治经济学的国家系统》（1841）主张国家必须通过有组织的技术教育、科研与长期产业政策拓展知识优势，奠定[[National Innovation System|国家创新系统]]的知性根源。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, p. 22)]]
 > - **二战后奠基（1950s–1970s） — 知识工作者与后工业理论** Drucker（1959/1969）提出“知识工作者”；Bell（1973）阐述[[Theoretical Knowledge\|理论知识]]在后工业主义中的核心地位；人造卫星危机（1957）促使 [[OECD]] 将 [[STEM Education\|STEM]] 教育与国家地缘经济[[Competitiveness|竞争力]]深度绑定。[[Argument_Amos_2022_Springer\|(Amos, 2022, p. 56)]]
-> - **经济学理论化（1980s–1990s） — 内生增长与新自由主义全球化** Romer（1986）内生增长理论将知识与[[Human Capital Theory\|人力资本]]确立为不受边际收益递减限制的内生动力；世界银行（1991）与 OECD（1996）正式将 KBE [[Discourse|话语]]确立为全球教育与经济政策主导典范。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, p. 23)]]
+> - **经济学理论化（1980s–1990s） — 内生增长与新自由主义全球化** Romer（1986）[[New Growth Theory|内生增长理论]]将知识与[[Human Capital Theory\|人力资本]]确立为不受边际收益递减限制的内生动力；世界银行（1991）与 OECD（1996）正式将 KBE [[Discourse|话语]]确立为全球教育与经济政策主导典范。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, p. 23)]]
 > - **发展型[[Network Governance|网络治理]]与虚构商品批判（2000s–2008） — 跨组织协同与产权反思** [[Fred Block|弗雷德·布洛克]]基于美国《R&D 100》大奖纵向追踪证实，后工业知识经济的突破性创新已从单一企业封闭研发转向由大学、联邦实验室与企业构成的跨组织网络，确立了去中心化[[Developmental Network State|发展型网络国家]]在[[Pasteur's Quadrant|巴斯德象限]]中的中介功能；同时从卡尔·波兰尼（Karl Polanyi）虚构商品视角批判了激进知识产权占有对开放科学与跨界研发协作的制度性反噬。[[Argument_Block_2008_PS|(Block, 2008, pp. 171–176, 195–198)]]
 > - **全球扩散与空间运作（2000s–2010s） — 教育出口与枢纽建设** 亚洲国家与澳大利亚将 KBE 转化为教育出口战略；新加坡与迪拜通过“教育枢纽”政策将大学完全产业化为经济增长极。[[Argument_Rizvi_2022_Springer\|(Rizvi, 2022)]]; [[Argument_Erfurth_2022_education-hubs\|(Erfurth, 2022)]]
 > - **智能时代评价重构（2020s至今） — 聚焦高阶认知素养与评价治理** 面对生成式 AI 与劳动力深度重组，OECD 等国际组织反思“教育扩张”数量指标，转向推动以[[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]]与真实表现任务为核心的高教评价与治理变革。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023)]]
@@ -254,11 +269,11 @@ updated: 2026-10-13
 > > - **新自由主义与新古典知识经济学派** 坚信知识产权的严格界定与排他保护是[[Intellectual Capital|知识资本]]化、[[Technology Transfer|技术转移]]与激励私营研发投资的根本前提，主张全面推行专利商业化。
 > > - **经济社会学批判学派（[[Argument_Block_2008_PS|Block, 2008]]）** 指出知识本质上不是为了买卖而生产的普通商品；激进的排他性产权占有不仅导致“公共财政托底研发风险、私营寡头垄断暴利”的公私收益脱节，更因对技术被窃取的恐惧构筑了严重制度壁垒，反向扼杀知识经济所必需的跨企业联合研发攻关。[[Argument_Block_2008_PS|(Block, 2008, pp. 195–198)]]
 >
-> > [!axis] 教育本质与目的的范式冲突：培育批判公民的民主公物 vs 知识经济人力资本投资工具
-> > 探讨在知识经济崛起背景下，教育应当作为人人平等的民主公物与文化权利，还是作为追求国家竞争优势与个人劳动溢价的公私混合商品。
+> > [!axis] 教育本质与目的的[[Paradigm|范式]]冲突：培育批判公民的民主公物 vs 知识经济[[Human Capital Theory|人力资本]]投资工具
+> > 探讨在知识经济崛起背景下，教育应当作为人人平等的民主公物与文化权利，还是作为追求[[National Competitive Advantage|国家竞争优势]]与个人劳动溢价的公私混合商品。
 > >
-> > - **经济合作与发展组织（OECD）与知识经济政策话语** 坚称知识与技能是后工业经济增长的内生核心动力；必须推动学习从正规编码化的“知其然”转向灵活实用的“知其操作”与终身学习，教育投资的首要合法性在于培育适应全球竞争的人力资本。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446)]]
-> > - **批判教育政策社会学立场（Rizvi & Lingard, 2009）** 指出知识经济社会想象遮蔽了替代性社会经济方案；经济基要主义将教育降格为经济附庸，不仅抽空了机会均等与社会资本的实质正义内涵，更侵蚀了战后教育作为民主公物的根本公共价值。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–452)]]
+> > - **[[OECD|经济合作与发展组织]]（OECD）与知识经济政策[[Discourse|话语]]** 坚称知识与技能是后工业经济增长的内生核心动力；必须推动学习从正规[[Coding in Qualitative Research|编码]]化的“[[Knowledge-that and Know-how-to|知其然]]”转向灵活实用的“知其操作”与[[Lifelong Learning|终身学习]]，教育投资的首要合法性在于培育适应全球竞争的人力资本。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446)]]
+> > - **批判教育政策社会学立场（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）** 指出知识经济[[Social Imaginary|社会想象]]遮蔽了替代性社会经济方案；[[Economic Fundamentalism|经济基要主义]]将教育降格为经济附庸，不仅抽空了机会均等与社会资本的实质正义内涵，更侵蚀了战后教育作为民主公物的根本[[Public Value|公共价值]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–452)]]
 >
 > > [!axis] 知识经济[[Discourse|话语]]的批判轴线
 > > - **[[Spatial Sortings\|空间分化]]与不平等极化（Spatial Polarization）** [[Progressive Neoliberalism\|进步新自由主义]]的 KBE 极度偏向少数跨国大都市[[Innovation Hub\|创新枢纽]]，导致非枢纽中小城镇与农村地区经历不可逆的经济衰退与人才失血。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, pp. 30–32)]]
@@ -288,7 +303,7 @@ updated: 2026-10-13
 > - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] — 揭示后福特永久创新经济如何驱动[[Further Education|继续教育]]与企业培训的结构性膨胀。
 > - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] — 比较新加坡与[[UAE Education Hub Projects|阿联酋教育枢纽]]，批判 KBE 话语掩盖制度建设不足的深层缺陷。
 > - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] — 揭示 21 世纪技能话语作为 KBE 在个体主体性层面的微观[[Operationalization|操作化]]与[[Self-Entrepreneur|自我企业家]][[Disciplina and Doctrina|规训]]。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 剖析 OECD 如何依托新增长理论建构知识经济的全球[[Social Imaginary|社会想象]]，推动学习向操作性技能与[[Learning Economy|学习型经济]]转型，并将性别平权与社会凝聚力重构为经济效率工具。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 剖析 OECD 如何依托新增长理论[[Constructed Knowledge|建构知识]]经济的全球[[Social Imaginary|社会想象]]，推动学习向操作性技能与学习型经济转型，并将性别平权与社会凝聚力重构为经济效率工具。
 
 ---
 
@@ -298,20 +313,20 @@ updated: 2026-10-13
 >
 > | 条目 | 类型 | 理论与实践关联说明 |
 > |:---|:---|:---|
-> | [[Social Imaginary]] | Concept | 知识经济通过全球社会想象被跨国组织自然化为不言自明的政策常识。 |
+> | [[Social Imaginary]] | Concept | 知识经济通过全球社会想象被跨国组织自然化为[[Doxa\|不言自明]]的政策常识。 |
 > | [[Governing by Numbers]] | Concept | 知识经济的产出效能问责依赖数字治理与跨国量化测评体系予以监控。 |
-> | [[Learning Economy]] | Concept | 知识经济驱动全社会向永久创新与终身学习转型的制度化形态。 |
+> | [[Learning Economy]] | Concept | 知识经济驱动全社会向永久创新与[[Lifelong Learning\|终身学习]]转型的制度化形态。 |
 > | [[Lifelong Learning]] | Concept | 知识经济应对技术迭代与劳动力技能折旧的核心政策杠杆。 |
 > | [[Higher-Order Thinking Skills]] | Concept | 技术自动化浪潮下知识经济不可替代的核心认知资产。 |
 > | [[Human Capital Theory]] | Theory | 知识经济将教育重构为生产性资本投资与经济增长内生源泉的核心理论支柱。 |
-> | [[Developmental Network State]] | Theory | 应对后工业知识经济巴斯德象限创新的去中心化国家网络治理范式。 |
-> | [[National Innovation System]] | Concept | 战后经合组织官方采纳的以互动学习与知识流动为核心的系统性创新范式。 |
-> | [[Public Value]] | Concept | 批判知识经济将教育从民主公物降格为追求投资回报的公私混合商品。 |
-> | [[Fazal Rizvi]] | Person | 揭示知识经济全球社会想象建构机制与高等教育地缘政治位移的领军学者。 |
-> | [[Bob Lingard]] | Person | 解构经合组织知识经济社会想象与数字治理跨国等值空间的代表学者。 |
+> | [[Developmental Network State]] | Theory | 应对后工业知识经济[[Pasteur's Quadrant\|巴斯德象限]]创新的去中心化国家[[Network Governance\|网络治理]][[Paradigm\|范式]]。 |
+> | [[National Innovation System]] | Concept | 战后[[OECD\|经合组织]]官方采纳的以互动学习与知识流动为核心的系统性创新范式。 |
+> | [[Public Value]] | Concept | 批判知识经济将教育从民主公物降格为追求[[Return on Investment\|投资回报]]的公私混合商品。 |
+> | [[Fazal Rizvi]] | Person | 揭示知识经济全球社会想象建构机制与[[Geopolitics of Higher Education\|高等教育地缘政治]]位移的领军学者。 |
+> | [[Bob Lingard]] | Person | 解构经合组织知识经济社会想象与数字治理跨国[[Space of Equivalence\|等值空间]]的代表学者。 |
 > | [[Fred Block]] | Person | 提出发展型网络国家理论并从波兰尼虚构商品视角批判知识商品化的经济社会学家。 |
-> | [[OECD]] | Fact | 全球推动知识经济政策话语、制定创新与教育量化标准的跨国家组织中枢。 |
-> | [[PISA]] | Fact | 评估知识经济所需年轻一代问题解决与关键素养的全球基准测试。 |
-> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] | Argument | 解构经合组织知识经济社会想象建构与社会价值工具化收编的经典文献。 |
-> | [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] | Argument | 论证自动化与知识经济背景下高等教育高阶思维素养评价生态转型的国际报告。 |
-> | [[Argument_Block_2008_PS|Block (2008)]] | Argument | 剖析后工业知识经济非线性创新特征与发展型网络国家治理的经典研究。 |
+> | [[OECD]] | Fact | 全球推动知识经济政策[[Discourse\|话语]]、制定创新与教育量化标准的跨国家组织中枢。 |
+> | [[PISA]] | Fact | 评估知识经济所需年轻一代[[Problem Solving\|问题解决]]与关键素养的全球基准测试。 |
+> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] | Argument | 解构经合组织知识经济社会想象建构与社会价值工具化收编的经典[[Document\|文献]]。 |
+> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | Argument | 论证自动化与知识经济背景下高等教育高阶思维素养评价生态转型的国际报告。 |
+> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 剖析后工业知识经济非线性创新特征与发展型网络国家治理的经典研究。 |
