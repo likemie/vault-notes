@@ -32,6 +32,7 @@ related_concepts:
   - "[[Warehousing of Good Practices]]"
   - "[[Policy Conditionalities]]"
   - "[[Multilateral Development Bank]]"
+  - "[[Development Education]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Knowledge Bank
@@ -97,14 +98,13 @@ updated: 2026-10-14
 
 > [!logic-map]- 知识银行的政策生产、信贷捆绑与认识论规训循环
 > ```mermaid
-> flowchart TD
->     A["华盛顿总部集中开展微观计量与实证研究<br>（教育回报率 + RCT 实验 + SABER 量规）"] --> B["构建全球最佳实践仓储（自指性闭环）"]
->     B --> C["借贷谈判：将政策处方嵌入主权贷款附加条件"]
->     C --> D{"借款国反应分流"}
->     D -->|"渴求贷款资金的小国/贫困国"| E["被迫形式合规（文书表述完全迎合）<br>但深层改革在执行端被悄然规避"]
->     D -->|"具备自主资金与信用的大国"| F["依托国内政治时机自主筛选<br>国内时机不成熟则断然否决建议"]
->     E --> G["资金拨付完成，审计验收硬件投入<br>实质认知产出与改革效能无人问津"]
->     F --> G
+> flowchart LR
+>     A["华盛顿总部开展微观计量研究<br>（教育回报率 + RCT 实验 + SABER 量规）"] --> B["构建全球最佳实践仓储<br>（自指性闭环体系）"]
+>     B --> C["借贷谈判：将政策处方<br>嵌入主权贷款附加条件"]
+>     C --> D1["渴求资金的小国与贫困国：<br>文书迎合但执行端悄然规避"]
+>     C --> D2["具备自主资金与信用的大国：<br>国内政治不成熟则坚决否决"]
+>     D1 --> E["资金拨付完成，审计验收硬件投入<br>实质认知产出与改革效能无人问津"]
+>     D2 --> E
 > ```
 
 ---
@@ -186,6 +186,11 @@ updated: 2026-10-14
 >
 > *Experience seems to suggest that one big and real motivation to engage in reforms is the large sums of money that come with the loans. Therefore, what sets banks apart from other international agencies is exactly the fact that the funds provided by the loans, somehow, force the Ministries to pay attention to the policy suggestions. In fact, the conditionalities – mentioned before – are just the mechanism to obtain the implementation of the policies proposed.*
 
+> [!citation-card] 卡斯特罗论教科文组织理念领导权的终结与世界银行的实质主导
+> 联合国教科文组织在引领教育新理念方面扮演带头角色的时代早已一去不复返，世界银行已严肃而全面地接管了这一角色。一个极具启发性的例证是，宗迪恩全民教育大会完全是在世界银行的强力领导下召开的，教科文组织别无选择只能参与，却在会议理念与组织中缺乏有力的发言权。仅在教育领域，各家多边银行就系统性推销了学生学业评价、精心编制的标准化教材、项目问责制、教师绩效工资、职业学校新办学模式、学生贷款与教育券等全套政策。克劳迪奥·德·莫拉·卡斯特罗（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, p. 466]]）
+>
+> *Long gone are the days when UNESCO had a leading role in spearheading new ideas in education. The WB has taken up this role in earnest. It is instructive to remember that the Jomtiem meeting of Education for All had the strong leadership of the WB. UNESCO had no choice but to participate, without having a strong voice in the ideas and organization. In education alone, the banks have championed the use of student's evaluations, carefully prepared textbooks, accountability of programs and agencies, merit pay for teachers...*
+
 > [!citation-card] 斯泰纳-哈姆西等论全球发展网络去中心化承诺的失落
 > 全球发展网络（GDN）最初旨在打破世界银行总部主导的知识垄断，将知识生产权力下放至各国研究者；但 GDN 的去中心化承诺最终被“众多集中管理的倡议所遮蔽”——包括教育领域的 SABER 评估体系。这一历史结果揭示，知识银行转型在话语上宣称知识共享，在实践上仍以总部集中控制为主轴。吉塔·斯泰纳-哈姆西等（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, p. 543]]）
 >
@@ -204,6 +209,7 @@ updated: 2026-10-14
 > |:---|:---|:---|
 > | [[Multilateral Development Bank]] | 概念 | 知识银行所依托的开发金融母体制度形态。 |
 > | [[World Bank]] | 事实 (机构) | 知识银行是世界银行 1990 年代战略转型的核心概念与机构身份重构载体。 |
+> | [[Development Education]] | 概念 | 知识银行转型所重构的全球南方教育政策实务与项目借贷领域。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 455–457)]] |
 > | [[Global Development Network]] | 事实 (项目) | 知识银行早期探索本土去中心化知识生产、后被总部集权工具边缘化的代表项目。 |
 > | [[Systems Approach for Better Education Results]] | 事实 (项目) | 知识银行建立的涵盖 13 个领域的政策基准量规与自指性诊断工具。 |
 > | [[Warehousing of Good Practices]] | 概念 | 知识银行将国别经验清洗为普适最佳实践并集中仓储传播的核心机制。 |
@@ -218,4 +224,4 @@ updated: 2026-10-14
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 运用世界教育改革数据库实证检验世界银行作为知识银行的自指性政策中介机制，详述其从教科文组织依附期到回报率帝国与知识银行演变的全过程（pp. 540–550）。
-> - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员视角反思知识银行的“构想 vs 资金”辩论，指出政策建议之所以被采纳全赖巨额贷款资金的杠杆威慑，纯粹知识咨询无法单独发挥改革实效，并揭示了政策理念孵化的长周期与时装流行摇摆（pp. 472–474）。
+> - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员视角反思知识银行的“构想 vs 资金”辩论，指出政策建议之所以被采纳全赖巨额贷款资金的杠杆威慑，纯粹知识咨询无法单独发挥改革实效，并揭示了政策理念孵化的长周期与时装流行摇摆（pp. 466, 472–474）。

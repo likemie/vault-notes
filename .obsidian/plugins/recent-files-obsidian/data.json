@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Castro_2009_MultilateralBanks.md"
     },
     {
+      "basename": "Washington Consensus",
+      "path": "wiki/concepts/political-economy-geopolitics/Washington Consensus.md"
+    },
+    {
       "basename": "Argument_Garcia_Garrido_2009_SpainEU",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Li_2025_HSSC",
       "path": "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md"
-    },
-    {
-      "basename": "Scientific Literacy",
-      "path": "wiki/concepts/competency-and-assessment/Scientific Literacy.md"
     }
   ],
   "omittedPaths": [],
