@@ -9,7 +9,7 @@ summary: "美国加利福尼亚大学戴维斯分校经济社会学研究教授�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 24
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Fred Block

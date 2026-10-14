@@ -11,11 +11,11 @@ aliases:
 summary: "研究型大学内部负责知识产权法律保护、专利许可谈判、商业化路径评估与衍生企业孵化支持的专业职能部门；作为《拜杜法案》赋权与大学第三使命制度化的核心组织载体，既充当学术研究与产业市场的交易中介，又面临职能局限于正式交易端、院系微观碎片化，以及知识虚构商品化对跨组织科研协作构成梗阻的制度张力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 36
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
-updated: 2026-10-12
+updated: 2026-10-15
 tags:
   - theme/technology-transfer
   - level/higher-education

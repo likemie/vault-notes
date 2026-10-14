@@ -105,7 +105,7 @@ title: "Argument_Cartiff_2021_JEP"
 argument_key: "Argument_Cartiff_2021_JEP"
 argument_display_title: "The effect of epistemic cognition interventions on academic achievement: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 66
+argument_related_count: 67
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"

@@ -5,10 +5,10 @@ subtype: organization
 region: japan
 fact_region: "japan"
 fact_kind: "organization"
-fact_related_count: 37
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
-fact_related_color: "#dcfce7"
+fact_related_count: 42
+fact_related_level: 5
+fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_color: "#fecdd3"
 org_type: 国家内阁核心经济与产业科技管理部委
 headquarters: 日本东京（Tokyo, Japan）
 established: "1949"
@@ -68,7 +68,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-12
+updated: 2026-10-15
 title: Ministry of International Trade and Industry
 aliases:
   - MITI

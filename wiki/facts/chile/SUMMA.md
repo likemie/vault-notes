@@ -12,7 +12,7 @@ subtype: organization
 region: chile
 fact_region: "chile"
 fact_kind: "organization"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # SUMMA

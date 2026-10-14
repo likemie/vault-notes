@@ -7,7 +7,7 @@ aliases:
 summary: "学习者在知识建构、标准评估与探究决策中作为认知主体深度参与的能动权能，强调超越机械遵循预设程序，共同协商并塑造共同体的认识论准则，是指导式探究区别于直接讲授的核心标志"
 type: concept
 domain: "educational-psychology"
-related_count: 74
+related_count: 75
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -101,7 +101,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Epistemic Agency

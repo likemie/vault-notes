@@ -12,7 +12,7 @@ aliases:
 summary: "教育政策借用与跨文化影响理论中的经典认识论与政治哲学命题，由斯托、霍勒斯·曼与巴纳德在借用普鲁士教育经验时提出，主张人类心智认知机能具有跨文化普遍性，基础教学法的高效性在认识论上独立于专制政体意志，借用国能够剥离被动顺从的意识形态灌输，将教学模式本土化重塑为培育民主公民的工具。"
 type: concept
 domain: "policy-borrowing"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Severability of Politics and Pedagogy

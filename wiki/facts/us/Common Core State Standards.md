@@ -12,7 +12,7 @@ subtype: policy
 region: "us"
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Common Core State Standards

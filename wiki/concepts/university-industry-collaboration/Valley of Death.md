@@ -11,7 +11,7 @@ aliases:
 summary: "技术创新与商业化过程中从实验室基础研究原型（TRL 3）向规模化产业应用（TRL 7）过渡时面临的资金断裂与开发鸿沟；需依赖研究与技术组织（RTOs）、耐心资本与使命导向公共采购等系统性机制进行桥接。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 50
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -85,7 +85,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-06-10
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Valley of Death

@@ -9,7 +9,7 @@ summary: "美国电气工程师与科技政策管理者，DARPA 史上任期最�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Tony Tether

@@ -9,7 +9,7 @@ aliases:
 summary: "比较政治经济学与批判政策社会学核心概念，既指发达资本主义社会中有组织集体规制向竞争性自由市场逻辑开放的去组织化与风险个体化进程（施特雷克与希伦，2005），也是超国家组织蓄意推进的意识形态工程，通过将全球化本体化与物化以掩蔽意义政治，强行驱动公共部门与教育系统服从全球市场规律（里兹维与林加德，2009；布迪厄，2003）。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-13
+updated: 2026-10-15
 ---
 
 # Liberalization

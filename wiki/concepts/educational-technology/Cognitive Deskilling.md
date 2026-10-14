@@ -9,7 +9,7 @@ aliases:
 summary: "指认识主体因过度依赖外部自动化认知工具或生成式人工智能系统，导致自身内生认知能力与程序性智力技能发生退化、萎缩或无法正常形成的现象。"
 type: concept
 domain: "educational-technology"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # Cognitive Deskilling

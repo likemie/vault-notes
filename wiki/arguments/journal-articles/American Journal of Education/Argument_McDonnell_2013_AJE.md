@@ -102,7 +102,7 @@ title: "Argument_McDonnell_2013_AJE"
 argument_key: "Argument_McDonnell_2013_AJE"
 argument_display_title: "Evidence use and the Common Core State Standards movement: From problem definition to policy adoption"
 argument_kind: "journal-article"
-argument_related_count: 63
+argument_related_count: 64
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"

@@ -10,7 +10,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -52,7 +52,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Strong Beginnings Report

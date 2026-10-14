@@ -9,7 +9,7 @@ subtype: policy
 region: denmark
 fact_region: "denmark"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -46,7 +46,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 ## 背景
 

@@ -8,7 +8,7 @@ summary: "英国著名政治学家、全球化理论与民主转型奠基学者�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # David Held

@@ -8,10 +8,10 @@ aliases:
 summary: "美国《联邦技术转移法》（1986）确立的公私研发合作机制；允许联邦政府直属国家实验室与私营企业、大学在不适用联邦政府采购法规（FAR）的前提下，共享人员、设备设施、实验装置与知识产权，通过联合攻关将国家级前沿科研能力与大科学装置向民间创新生态深度开放；但因缺乏利润分享与定价规制，亦面临公共研发成果私人垄断与财政可持续性张力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 32
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/university-industry-collaboration
   - theme/technology-transfer
@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Cooperative Research and Development Agreement

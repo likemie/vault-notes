@@ -10,10 +10,10 @@ aliases:
 summary: "二十世纪大型工业企业设立的内部中央研发机构，涵盖从前沿基础研究到终端产品开发的全链条创新；1980年代起因市场竞争与股东短期回报压力而衰落，引发国家创新系统中基础研究与系统集成能力的结构性空白。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 38
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - concept/organization
   - theme/innovation
@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Corporate R&D Labs

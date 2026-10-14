@@ -9,10 +9,10 @@ aliases:
 summary: "斯托克斯（Stokes, 1997）提出的二维科研动机分类框架，以追求基础机理理解与考虑现实实际应用两个独立维度正交构建四象限，打破了线性科技发展观与基础/应用二分法，为产学研协作、国家发展型网络国家干预与国际科研合作提供了认识论基石。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 26
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 43
+theory_related_level: 5
+theory_related_stars: "⭐⭐⭐⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theory/innovation-policy
   - theme/research-policy
@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-02
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Stokes' Quadrant Model of Scientific Research

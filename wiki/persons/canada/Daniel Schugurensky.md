@@ -8,7 +8,7 @@ summary: "当代著名比较教育学家与参与式民主学者，长期任教�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-15
 ---
 
 # Daniel Schugurensky

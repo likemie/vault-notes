@@ -9,7 +9,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -42,7 +42,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Australian Institute for Teaching and School Leadership
