@@ -40,6 +40,7 @@ related_facts:
   - "[[UN Sustainable Development Goals]]"
   - "[[Multiple Indicator Cluster Surveys]]"
   - "[[Building Evidence in Education]]"
+  - "[[International Development Association]]"
   - "[[PISA]]"
   - "[[OECD]]"
 related_arguments:
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Learning Data Compact
@@ -97,7 +98,7 @@ updated: 2026-09-18
 > [!actor-grid] 实施协同矩阵
 > - **标准与指标协调方** [[UNESCO\|联合国教科文组织]]统计研究所（UNESCO-[[UNESCO Institute for Statistics\|UIS]]）— 负责 [[UN Sustainable Development Goals\|SDG 4]].1.1 全球指标托管与测验等值方法论核准。
 > - **[[Fieldwork\|实地调查]]与弱势群体覆盖** [[UNICEF\|联合国儿童基金会]]（UNICEF）— 依托 [[Multiple Indicator Cluster Surveys\|MICS]]  household 调查深入边远贫困社区，采集失学与残障儿童数据。
-> - **贷款杠杆与资金池** [[World Bank\|世界银行]]（World Bank）— 通过 IDA 赠款与系统性教育贷款为各国开展学业评估提供长期财政支持。
+> - **贷款杠杆与资金池** [[World Bank\|世界银行]]（World Bank）— 通过 [[International Development Association|IDA]] 赠款与系统性教育贷款为各国开展学业评估提供长期财政支持。
 > - **国家技术执行机构** 各国教育部考试中心与国家统计局 — 负责命题、施测、阅卷与国家数据库维护。
 
 > [!pathways]- 实施路径与管理

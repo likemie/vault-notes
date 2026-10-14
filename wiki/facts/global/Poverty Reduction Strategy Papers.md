@@ -11,9 +11,9 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 17
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "World Bank; International Monetary Fund"
 tags:
@@ -22,10 +22,12 @@ tags:
   - theme/global-south
   - theme/educational-governance
 related_concepts:
+  - "[[Washington Consensus]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Development Education]]"
   - "[[Performance Indicators]]"
+  - "[[Policy Conditionalities]]"
   - "[[Document]]"
   - "[[Soft Power by Hard Facts]]"
 related_theories: []
@@ -37,6 +39,7 @@ related_persons: []
 related_facts:
   - "[[World Bank]]"
   - "[[International Monetary Fund]]"
+  - "[[International Development Association]]"
   - "[[Global Partnership for Education]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[Systems Approach for Better Education Results]]"
@@ -46,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-01
+updated: 2026-10-15
 ---
 
 # Poverty Reduction Strategy Papers
@@ -57,8 +60,8 @@ updated: 2026-10-01
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1999 年 9 月由[[World Bank\|世界银行]]（World Bank）与[[International Monetary Fund|国际货币基金组织]]（IMF）发展委员会暨执委会联合正式确立并发布。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
-> - **适用地区 / 对象** 全球南方重债穷国（Heavily Indebted Poor Countries，HIPC）及所有申请国际开发协会（IDA）优惠无息贷款与减贫增长信贷（PRGF）的发展中国家。
-> - **问题背景** 20 世纪 80–90 年代“华盛顿共识”推行的激进结构调整计划（[[Structural Adjustment Programs|SAPs]]）严重削减了发展中国家的公共教育与医疗开支，引发广泛的人道主义危机与合法性声讨；布雷顿森林机构急需重构一套兼顾减贫修辞与财政紧缩监督的替代治理工具。
+> - **适用地区 / 对象** 全球南方重债穷国（Heavily Indebted Poor Countries，HIPC）及所有申请[[International Development Association|国际开发协会]]（IDA）优惠无息贷款与减贫增长信贷（PRGF）的发展中国家。
+> - **问题背景** 20 世纪 80–90 年代“[[Washington Consensus|华盛顿共识]]”推行的激进结构调整计划（[[Structural Adjustment Programs|SAPs]]）严重削减了发展中国家的公共教育与医疗开支，引发广泛的人道主义危机与合法性声讨；布雷顿森林机构急需重构一套兼顾减贫修辞与财政紧缩监督的替代治理工具。
 > - **制度位置** 构成了借贷国获取国际多边债务减免、受援国公共财政预算重组及教育部门五年规划的前置性刚性规制框架。
 
 ---
@@ -121,7 +124,7 @@ updated: 2026-10-01
 > | 核心行动者 | 世界银行（World Bank）、IMF、国家财政部 | 教师工会全国联合会、家长组织、人权 NGO |
 > | 资源基础 | 数百亿美元借贷资本、技术官僚审计工具箱 | 选民选票、罢工罢教动员、宪法受教育权条款 |
 > | 利益框架 | 财政可持续性 / 产出绩效透明度 / 资本回报率 | 劳动权益保障 / 教育公共性 / 消除结构性不公 |
-> | 主要策略 | 贷款附加条件挂钩 / 指标排名羞辱 / 预算控制 | 街头抗议 / 揭露民主赤字 / 法律诉讼防御 |
+> | 主要策略 | [[Policy Conditionalities\|贷款附加条件]]挂钩 / 指标排名羞辱 / 预算控制 | 街头抗议 / 揭露民主赤字 / 法律诉讼防御 |
 >
 > **关键分歧** 是将教育优先视作受制于国际债务清偿的财政成本控制对象，还是不可让渡的基本公民人权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 

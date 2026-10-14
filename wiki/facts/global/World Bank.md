@@ -89,6 +89,7 @@ related_persons:
 related_facts:
   - "[[UNESCO]]"
   - "[[OECD]]"
+  - "[[International Development Association]]"
   - "[[International Monetary Fund]]"
   - "[[World Education Indicators]]"
   - "[[Poverty Reduction Strategy Papers]]"
@@ -128,7 +129,7 @@ updated: 2026-10-15
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1944 年 7 月布雷顿森林会议倡议成立国际复兴开发银行（IBRD），1945 年正式运作，最初旨在资助战后欧洲重建，冷战时期转入对亚非拉新独立发展中国家的经济与社会基础设施开发贷款。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **总部地点 / 业务辐射** 总部设于美国华盛顿特区，在全球设立 130 余个国别代表处，业务覆盖 189 个成员国，是主导全球南方国家宏观经济与公共部门改革的最高多边信贷实体。
-> - **法人属性与经费基础** 由 189 个成员国政府持股的特许多边金融机构，经费来自国际金融市场发债筹资、成员国认缴股本以及国际开发协会（IDA）由发达捐助国定期补充的软贷款赠款；其金融运作依赖美、英、德、日等发达出资国的 AAA 级信用担保获得最低融资利率，在借款利率基础上加收约 1 个百分点以支付员工薪酬并维持保本，依托[[International Monetary Fund|国际货币基金组织]]（IMF）违约黑名单机制确保零坏账，并要求借款国财政部强制按比例匹配[[Counterpart Funds|对等配套资金]]（Counterpart Funds）。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–458)]]
+> - **法人属性与经费基础** 由 189 个成员国政府持股的特许多边金融机构，经费来自国际金融市场发债筹资、成员国认缴股本以及[[International Development Association|国际开发协会]]（IDA）由发达捐助国定期补充的软贷款赠款；其金融运作依赖美、英、德、日等发达出资国的 AAA 级信用担保获得最低融资利率，在借款利率基础上加收约 1 个百分点以支付员工薪酬并维持保本，依托[[International Monetary Fund|国际货币基金组织]]（IMF）违约黑名单机制确保零坏账，并要求借款国财政部强制按比例匹配[[Counterpart Funds|对等配套资金]]（Counterpart Funds）。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–458)]]
 > - **核心宗旨与法定职责** 消除绝对贫困、促进共享繁荣；在教育领域主张通过[[Human Capital Theory|人力资本]]投资促进经济生产率与个人收入增长，将教育规划与借贷国宏观财政平衡紧密捆绑。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
 ---
@@ -185,7 +186,7 @@ updated: 2026-10-15
 > [!finding-cards] 核心产品与业务矩阵
 > - **指南、规程与标准体系** [[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER）涵盖 13 个领域的政策基准量规；环境与社会保障框架（[[English Schools Foundation Hong Kong|ESF]]）；学校建设与采购标准化技术手册。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 543)]]
 > - **数据库、证据库与监测平台** [[World Development Indicators|世界发展指标]]（WDI）数据库（指标规模达 1,600 项）；涵盖 139 国 1,120 项估算的全球[[Return on Investment|教育投资回报率]]数据库；学习贫困测算平台。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 542, 548)]]
-> - **旗舰项目、调查与测评** 国际开发协会基础教育普及援助项目；结果导向型教育贷款（PforR）；全球学习评估支持倡议；与 [[OECD|经合组织]]、[[UNESCO|教科文组织]] 联合发起的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目；与 [[UNESCO]]/[[UNICEF]] 联合发起的[[Learning Data Compact|学习数据契约]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
+> - **旗舰项目、调查与测评** [[International Development Association|国际开发协会]]基础教育普及援助项目；结果导向型教育贷款（PforR）；全球学习评估支持倡议；与 [[OECD|经合组织]]、[[UNESCO|教科文组织]] 联合发起的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目；与 [[UNESCO]]/[[UNICEF]] 联合发起的[[Learning Data Compact|学习数据契约]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
 > - **旗舰出版物与咨询成果** 1980 年《教育部门政策文件》；2018 年《世界发展报告：学习以实现教育的承诺》（WDR 2018）；各借贷国公共支出审查报告（PER）与国别教育战略备忘录。[[Argument_Steiner-Khamsi_2024_CE|(World Bank, 1980; Steiner-Khamsi et al., 2024, p. 542)]]
 
 > [!citation-card] 世界银行教育自主政策研究的独立宣言

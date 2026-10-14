@@ -40,6 +40,7 @@ related_persons:
 related_facts:
   - "[[UNESCO]]"
   - "[[World Bank]]"
+  - "[[International Development Association]]"
   - "[[Poverty Reduction Strategy Papers]]"
   - "[[Education for All]]"
 related_arguments:
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-05
+updated: 2026-10-15
 ---
 
 # 1964 UNESCO-World Bank Cooperative Agreement
@@ -71,7 +72,7 @@ updated: 2026-10-05
 
 > [!policy-design]- 政策设计
 > - **政策目标** 协调战后联合国体系内的专业技术力量与金融资本，促进向[[Development Education|发展中国家教育]]基础设施与职业技术培训投放优先贷款。
-> - **适用对象** 申请世界银行（IBRD）及国际开发协会（IDA）教育项目优惠贷款的所有第三世界主权国家。
+> - **适用对象** 申请世界银行（IBRD）及[[International Development Association|国际开发协会]]（IDA）教育项目优惠贷款的所有第三世界主权国家。
 > - **政策工具** 设立联合工作组、派驻专家考察团（Reconnaissance Missions）、编制国别教育部门诊断报告（Country Education Sector Memoranda）。
 > - **约束机制** 世行不直接聘用庞大内部教育专员，所有教育放贷提案必须经过 UNESCO 专家团出具技术审查意见，世行承担 UNESCO 相关业务支出的 75% 经费。
 
@@ -83,7 +84,7 @@ updated: 2026-10-05
 ## 时间线
 
 > [!dev-timeline]- 协定演变与脱钩时间线
-> - **1962–1964 — 接触与协定签署** 国际开发协会（IDA）于 1962 年向突尼斯发放首笔教育贷款；鉴于[[World Bank\|世行]]内部缺乏教育专家，双方于 1964 年签署正式合作协定，成立 [[UNESCO]]-World Bank 合作项目组。
+> - **1962–1964 — 接触与协定签署** [[International Development Association|国际开发协会]]（IDA）于 1962 年向突尼斯发放首笔教育贷款；鉴于[[World Bank\|世行]]内部缺乏教育专家，双方于 1964 年签署正式合作协定，成立 [[UNESCO]]-World Bank 合作项目组。
 > - **1968–1975 — 麦克纳马拉时代与理念摩擦** 罗伯特·麦克纳马拉（Robert McNamara）入主世行，大力扩充内部专业研究力量，双方在基础教育人权 vs 劳动力市场回报率上的理念分歧急剧恶化。
 > - **1980 — 世行首份政策文件与全面决裂** 世界银行发布第一部《教育行业政策文件》（Education Sector Policy Paper 1980），以[[George Psacharopoulos\|萨卡罗普洛斯]]领导的[[Human Capital Theory\|人力资本]]计量数据库为底气，单方面宣布开展独立研究，彻底架空并废止了 1964 年合作协定。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542, 548)]]
 

@@ -5,16 +5,20 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Castro_2009_MultilateralBanks.md"
     },
     {
+      "basename": "World Bank",
+      "path": "wiki/facts/global/World Bank.md"
+    },
+    {
+      "basename": "World Education Indicators",
+      "path": "wiki/facts/global/World Education Indicators.md"
+    },
+    {
       "basename": "Washington Consensus",
       "path": "wiki/concepts/political-economy-geopolitics/Washington Consensus.md"
     },
     {
       "basename": "Argument_Garcia_Garrido_2009_SpainEU",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md"
-    },
-    {
-      "basename": "World Bank",
-      "path": "wiki/facts/global/World Bank.md"
     },
     {
       "basename": "Argument_Arnove_2009_WorldSystems",
@@ -195,10 +199,6 @@
     {
       "basename": "State Educational Sovereignty",
       "path": "wiki/concepts/comparative-education/State Educational Sovereignty.md"
-    },
-    {
-      "basename": "Argument_Li_2025_HSSC",
-      "path": "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md"
     }
   ],
   "omittedPaths": [],
