@@ -7,7 +7,7 @@ summary: "澳大利亚与美国著名教育政策与跨国治理学者，墨尔�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 52
+person_related_count: 54
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"

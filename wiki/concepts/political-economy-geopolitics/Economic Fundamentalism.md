@@ -5,7 +5,7 @@ aliases:
 summary: "指将自由市场机制与经济效率上升为解释并裁决人类一切社会生活、制度安排与道德伦理的最高自明法则；在跨国教育政策中，将教育公平窄化为形式上的学校准入，将性别平权简化为盘活女性劳动力的减贫工具，将社会资本残余化为社会维稳手段，抽空了实质社会正义的批判内核。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

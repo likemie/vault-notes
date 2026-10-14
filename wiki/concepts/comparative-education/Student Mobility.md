@@ -8,7 +8,7 @@ aliases:
 summary: "比较教育与教育政策中指向学生跨校、跨区或跨国空间位移的核心构念；在欧美政策话语中呈现两极对立的治理逻辑，既被欧洲一体化塑造成培育公民认同与灵活就业能力的积极制度资产，又在美国绩效问责制下被问题化为表征贫困、学业阻滞与学校失范的流动漂泊（transiency）。"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -59,7 +59,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-14
 ---
 
 # Student Mobility

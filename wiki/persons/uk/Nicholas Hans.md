@@ -10,7 +10,7 @@ summary: "俄裔英国比较教育学家，伦敦大学国王学院读者，20 �
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 44
+person_related_count: 45
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -75,7 +75,7 @@ related_theories:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-11
+updated: 2026-10-14
 ---
 
 # Nicholas Hans

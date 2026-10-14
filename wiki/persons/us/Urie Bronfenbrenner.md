@@ -7,7 +7,7 @@ summary: "美籍著名发展心理学家，康奈尔大学终身教授，生态�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-02
+updated: 2026-10-14
 ---
 
 # Urie Bronfenbrenner

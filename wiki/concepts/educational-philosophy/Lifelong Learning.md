@@ -7,7 +7,7 @@ aliases:
 summary: "指贯穿个体全生命周期的持续性、适应性与累积性学习过程。在人本主义视阈下涵盖支撑健康、理性协商与社会文化基础设施的全人发展生态；在经合组织等主导的知识经济与学习型经济中，则被重塑为应对知识快速折旧、以掌握实践诀窍（knowing how）为核心的生产力生存命令与可测倾向。"
 type: concept
 domain: "educational-philosophy"
-related_count: 66
+related_count: 67
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -94,7 +94,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-10-13
+updated: 2026-10-14
 ---
 
 # Lifelong Learning

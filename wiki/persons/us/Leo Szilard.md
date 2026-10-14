@@ -8,7 +8,7 @@ summary: "美籍匈牙利裔物理学家与发明家，核链式反应概念的�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-14
 ---
 
 # Leo Szilard

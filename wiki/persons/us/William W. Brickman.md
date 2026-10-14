@@ -9,7 +9,7 @@ summary: "美国比较教育史学家与教育史学者，比较教育学会（C
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-14
 ---
 
 # William W. Brickman

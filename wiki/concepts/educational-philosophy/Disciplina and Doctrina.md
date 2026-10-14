@@ -9,7 +9,7 @@ aliases:
 summary: "西方教育思想史上关于知识组织和传授的一对经典二元范式：disciplina 侧重既有知识的灌训与规训，doctrina 侧重知识的动态生产与开放更新。在当代超国家治理中，跨国测评与绩效排位赛作为强有力的远处规训机制（disciplina），将主权国家课程收拢至标准化常模，压制了本土关于教育目的的民主审议（Rizvi & Lingard, 2009）。"
 type: concept
 domain: "educational-philosophy"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-22
-updated: 2026-10-13
+updated: 2026-10-14
 ---
 
 # Disciplina and Doctrina

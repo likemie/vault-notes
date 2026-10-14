@@ -76,7 +76,7 @@ title: "Argument_Smith_2026_SPE"
 argument_key: "Argument_Smith_2026_SPE"
 argument_display_title: "Generative artificial intelligence, formative epistemic injustice, and educators’ solutions"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"

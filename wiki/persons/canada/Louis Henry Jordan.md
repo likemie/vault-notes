@@ -9,7 +9,7 @@ summary: "加拿大宗教学家、近代比较宗教学的先驱。在 1905 年�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-14
 ---
 
 # Louis Henry Jordan

@@ -5,7 +5,7 @@ status: stable
 created: 2026-10-01
 nationality: uk
 person_region: "uk"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -37,7 +37,7 @@ related_facts:
   - "[[Sputnik Shock 1957]]"
 related_persons:
   - "[[Nikolas Rose]]"
-updated: 2026-10-03
+updated: 2026-10-14
 ---
 
 # W. H. G. Armytage

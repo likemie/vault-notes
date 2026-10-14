@@ -8,7 +8,7 @@ aliases:
 summary: "以纽约市为核心的世界级金融与创新湾区，经历制造业中心到金融中心再到全球科技创新高地的多次转型，依托雄厚的金融资本、精准的市政产业税费激励、顶尖高等教育应用科学计划与高校孵化器网络，形成金融科技驱动与产学研深度协同的复合型创新生态系统。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-11
-updated: 2026-10-07
+updated: 2026-10-14
 ---
 
 # New York Bay Area

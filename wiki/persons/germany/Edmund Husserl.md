@@ -8,7 +8,7 @@ summary: "奥地利-德国哲学家与数学家，现象学奠基人，提出悬
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -57,7 +57,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-08
+updated: 2026-10-14
 ---
 
 # Edmund Husserl

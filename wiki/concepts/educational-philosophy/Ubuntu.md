@@ -5,7 +5,7 @@ aliases:
 summary: "强调个体在关系中成其为人的非洲关系性伦理哲学，并在现代技术哲学与教育学中用于重构算法治理、促进共情与化解认识不正义。"
 type: concept
 domain: "educational-philosophy"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -54,7 +54,7 @@ related_arguments:
 confidence: medium
 status: active
 created: '2026-05-08'
-updated: 2026-10-07
+updated: 2026-10-14
 ---
 
 # Ubuntu

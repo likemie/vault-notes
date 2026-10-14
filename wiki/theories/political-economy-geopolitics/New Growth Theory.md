@@ -7,7 +7,7 @@ aliases:
 summary: "将知识积累、技术创新与人力资本投资从传统外生假定转变为经济系统内生核心引擎的经济学理论。论证创意与知识具有非竞争性与收益递增特征，打破资本边际报酬递减规律；驱动全球教育治理向学习型经济、实用操作技能与终身学习全面转向。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 35
+theory_related_count: 36
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"

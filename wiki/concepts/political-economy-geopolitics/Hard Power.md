@@ -7,7 +7,7 @@ aliases:
 summary: "国际关系与地缘政治的核心范畴，指行为体通过军事武力、强制威慑与经济制裁迫使他者服从的指挥性权力。在智能化时代，硬实力的底座转向软件算法、自主系统与实体制造；卡普与扎米斯卡进一步论证，硬实力无法脱离实质信念而孤立维系，国家千年期战略决断、克服软信念、共享文化认同与防卫意志构成了可信硬实力威慑的终极支柱。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-09
+updated: 2026-10-14
 ---
 
 # Hard Power

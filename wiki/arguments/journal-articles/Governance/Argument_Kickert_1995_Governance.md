@@ -7,7 +7,7 @@ title: "Argument_Kickert_1995_Governance"
 argument_key: "Argument_Kickert_1995_Governance"
 argument_display_title: "Steering at a distance: A new paradigm of public governance in Dutch higher education"
 argument_kind: "journal-article"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"

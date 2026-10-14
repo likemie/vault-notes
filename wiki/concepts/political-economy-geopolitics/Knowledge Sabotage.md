@@ -7,7 +7,7 @@ aliases:
 summary: "通过破坏、削弱或扰乱敌对方知识资产和知识基础设施来削减其能力的知识转移形态。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: '2026-05-18'
+updated: 2026-10-14
 ---
 
 # Knowledge Sabotage

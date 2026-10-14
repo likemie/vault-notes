@@ -1164,6 +1164,17 @@
     ]
   },
   {
+    "title": "Multilateral Development Bank",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Multilateral Development Bank.md",
+    "aliases": [
+      "多边开发银行",
+      "多边发展银行",
+      "MDBs",
+      "Multilateral Development Banks"
+    ]
+  },
+  {
     "title": "National Character",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/National Character.md",
@@ -10287,6 +10298,16 @@
       "否决结构",
       "政治否决阻力",
       "否决机会"
+    ]
+  },
+  {
+    "title": "Washington Consensus",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Washington Consensus.md",
+    "aliases": [
+      "华盛顿共识",
+      "Williamson's Washington Consensus",
+      "华盛顿共识原则"
     ]
   },
   {
@@ -22617,7 +22638,7 @@
   {
     "title": "Alain Desrosières",
     "type": "person",
-    "path": "wiki/persons/france/Alain Desrosières.md",
+    "path": "wiki/persons/france/Alain Desrosières.md",
     "aliases": [
       "阿兰·德罗西埃",
       "德罗西埃",
@@ -30155,6 +30176,17 @@
     ]
   },
   {
+    "title": "Inter-American Development Bank",
+    "type": "fact",
+    "path": "wiki/facts/latin-america/Inter-American Development Bank.md",
+    "aliases": [
+      "泛美开发银行",
+      "IDB",
+      "BID",
+      "Banco Interamericano de Desarrollo"
+    ]
+  },
+  {
     "title": "Mexican Educational Modernization of 1992",
     "type": "fact",
     "path": "wiki/facts/mexico/Mexican Educational Modernization of 1992.md",
@@ -35484,6 +35516,11 @@
     "title": "Argument_Arnove_2009_WorldSystems",
     "type": "argument",
     "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md"
+  },
+  {
+    "title": "Argument_Castro_2009_MultilateralBanks",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Castro_2009_MultilateralBanks.md"
   },
   {
     "title": "Argument_Cowen(Ed.)_2009_Springer",

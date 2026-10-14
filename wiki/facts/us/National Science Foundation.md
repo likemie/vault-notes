@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 80
+fact_related_count: 90
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -123,11 +123,12 @@ related_arguments:
   - "[[Argument_NIST_2023_NSTC]]"
   - "[[Argument_Fuchs_2010_RP]]"
   - "[[Argument_Cheng_2026_KeJiChuangXin]]"
+  - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Stephan_2013_NBER]]"
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-12
+updated: 2026-10-14
 ---
 
 # National Science Foundation
@@ -219,7 +220,7 @@ updated: 2026-10-12
 > > 新自由主义教条与国家资助科学正当性的根本理念冲突。
 > >
 > > - **市场原教旨主义攻讦（Friedman & Friedman, 1980）** 米尔顿·弗里德曼与[[Nikolas Rose|罗斯]]·弗里德曼在《自由选择》中宣称，政府通过国家科学基金会资助科学研究在经济上毫无正当理由，主张科学研发应完全由私人市场与慈善捐赠主导。[[Argument_Block_2008_PS|(Block, 2008, pp. 170–171)]]
-> > - **科技政治经济学辩护（Block, 2008; Mazzucato, 2018）** [[Fred Block|弗雷德·布洛克]]指出，这种极端市场原教旨主义完全脱离了战后科技演进的客观现实；若连资助基础科学都被视为非法，国家就无法在概念验证[[Valley of Death|死亡之谷]]培育颠覆性创新，迫使客观存在的产业干预机制转入隐形运作。[[Argument_Block_2008_PS|(Block, 2008, pp. 170–172)]]
+> > - **科技政治经济学辩护（[[Argument_Block_2008_PS|Block, 2008]]; [[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）** [[Fred Block|弗雷德·布洛克]]指出，这种极端市场原教旨主义完全脱离了战后科技演进的客观现实；若连资助基础科学都被视为非法，国家就无法在概念验证[[Valley of Death|死亡之谷]]培育颠覆性创新，迫使客观存在的产业干预机制转入隐形运作。[[Argument_Block_2008_PS|(Block, 2008, pp. 170–172)]]
 >
 > > [!axis] 纯基础科研 vs 应用商业化与产业竞争导向
 > > 探讨国家基金会是否应坚守纯粹好奇心驱动的学术探索，还是向产业应用与国家竞争倾斜。

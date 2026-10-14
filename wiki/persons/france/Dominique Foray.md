@@ -9,10 +9,10 @@ summary: "法国著名经济学家、创新与知识经济学权威，瑞士洛�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 0
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 34
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: "1955"
 died: ""
 lifespan: "1955–至今"

@@ -121,7 +121,7 @@ updated: 2026-10-14
 
 ## 历史沿革与组织演变
 
-> [!dev-timeline]- 组织发展历程
+> [!dev-timeline] 组织发展历程
 > - **1944–1968 — 砖瓦基建与[[UNESCO|教科文组织]]早期依附期** 初期严守硬性物理基础设施借贷，不涉足教育社会事业；1962 年向突尼斯发放首笔中等技术教育贷款；1964 年与教科文组织（UNESCO）签署《合作协定》（Co-operative Agreement），依靠 UNESCO 的专业团队物色与评估借贷国教育项目，初步敲开全球南方的教育大门。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **1968–1981 — 麦克纳马拉改革与教育研究帝国奠基期** 罗伯特·麦克纳马拉（Robert McNamara）执掌世行，将教育确立为反贫困的核心生产性支柱；聘请著名教育经济学家[[George Psacharopoulos|乔治·萨卡罗普洛斯]]（George Psacharopoulos）等组建中央研究团队，开创覆盖全球的[[Return on Investment|教育投资回报率]]（RORE）实证计量传统；1980 年 4 月正式发表里程碑式《教育部门政策文件》，单方面终结对教科文组织的依赖，确立完全独立的教育政策研究与借贷体系。[[Argument_Steiner-Khamsi_2024_CE|(Psacharopoulos, 1981; Steiner-Khamsi et al., 2024, pp. 541–542)]]
 > - **1981–1999 — 结构调整贷款、[[Disciplina and Doctrina|规训]]性多边主义与[[National Innovation System|国家创新系统]]滞后** [[International Education|国际教育]]多边主义经历重大转向，战后教科文组织倡导的“有限再分配多边主义”衰落，世界银行主导的“防卫性与规训性多边主义”确立（Mundy, 1998; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 110]]）。世行推行华盛顿共识，将削减公共开支、用户付费与基础[[Educational Decentralization|教育分权]]作为贷款附加条件；通过[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数等技术[[Discourse|话语]]将新自由主义制度化（Carnoy & Rhoten, 2002; Heyneman, 2003）；[[Robert Arnove|阿诺夫]]（Arnove, 1980, 2009）深刻指出，世行推行的教育革新实质上固化了既有的中心-边缘与国内阶层分层体系（pp. 105–106）。[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman, 1995）进一步从[[Evolutionary Economics|演化经济学]]考察指出，1980 年代世界银行与[[International Monetary Fund|国际货币基金组织]]强推的紧缩与外债偿付方案重创了拉美（如巴西）的[[National Innovation System|国家创新系统]]，迫使政府削减高校科研与[[Engineering Education|工程教育]]投资，导致其与东亚新兴工业化经济体（如韩国）依靠自主研发与教育扩张的高速赶超拉开了致命差距。1997 年联合 [[OECD|经合组织]]与 [[UNESCO|联合国教科文组织]] 发起“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目，将量化指标方法学推广至非成员转型经济体；在 OECD 1996 年发布《以知识为基础的经济》后迅速跟进拥抱[[Knowledge-Based Economy|知识经济]]概念并发布系列专题报告。1999 年世行联合引入《[[Poverty Reduction Strategy Papers|减贫战略文件]]》（PRSPs），将[[Performance Indicators|教育指标]]纳为国家宏观多边信用评级的刚性杠杆。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, p. 542)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–107, 110)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–445)]]
@@ -209,6 +209,12 @@ updated: 2026-10-14
 > >
 > > - **批判比较政策学者（Rutkowski, 2007; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）** 指出世行与经合组织、[[UNESCO|教科文组织]]联合推进的“世界教育指标”（WEI）等合作表面上依托严密的量化技术，实质上深植于新自由主义信条之中，根本无法将其技术专业知识与其关于教育经济功能的规范性政策预设割裂开来（p. 444）。
 > > - **多边机构技术官僚** 辩称跨国指标开发为发展中国家提供了客观对标全球基准的比较工具，有助于提升国家教育统计能力与治理透明度。
+>
+> > [!axis] 全能意识形态阴谋 vs 繁琐执行与成果失焦的官僚困境
+> > 争论世界银行教育借贷的根本弊端究竟是其蓄意强推新自由主义规训，还是其制度设计在执行端的严重失能。
+> >
+> > - **外界激进批判视角（Frigotto, 1995; Torres, 1996）** 指责世界银行是跨国资本统治世界的超国家幕后黑手，依托放贷附加条件蓄意拆毁发展中国家教育部并强推私有化与紧缩。
+> > - **圈内高阶官员制度反思（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）** 指出世行内部由顶尖学者构成，充满理论论战与个人裁量，绝非铁板一块的教条信徒；放贷真正的致命缺陷不在于意识形态，而在于执行阶段严重受困于繁复僵化的反腐报销程序、对等资金拖延以及重投入轻产出（只问学校是否建成，不问学生是否学到知识）的官僚激励异化（pp. 459–460, 470–472）。
 
 > [!citation-card] 阿诺夫论跨国金融机构教育援助固化国际分层
 > 世界银行、[[International Monetary Fund|国际货币基金组织]]以及大型跨国基金会在受援国推广的教育革新，实质上并没有打破既有的依附格局，反而体系化地固化了国际分工与借贷国内部既有的阶层分化结构。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–106)]]
@@ -228,6 +234,9 @@ updated: 2026-10-14
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
+> | [[Multilateral Development Bank]] | 概念 | 世界银行所属的超国家开发金融组织原型。 |
+> | [[Inter-American Development Bank]] | 事实 (机构) | 与世界银行在拉美教育借贷中并立并展现出务实协商特征的区域多边开发银行。 |
+> | [[Washington Consensus]] | 概念 | 深刻影响世界银行教育放贷标准审查的九大市场化与效率信条。 |
 > | [[Systems Approach for Better Education Results]] | 事实 (项目) | 世界银行建立的 13 领域政策基准诊断体系与自指性中介工具。 |
 > | [[Poverty Reduction Strategy Papers]] | 事实 (政策) | 世界银行将量化[[Performance Indicators\|教育指标]]与借贷挂钩的宏观规制框架。 |
 > | [[Global Development Network]] | 事实 (项目) | 世界银行 1999 年发起、后被总部集权工具边缘化的去中心化知识网络。 |
@@ -259,3 +268,4 @@ updated: 2026-10-14
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 运用[[World Education Reform Database|世界教育改革数据库]]实证检验世界银行的自指性[[Policy Brokerage|政策中介]]机制，详述其从 [[UNESCO]] 依附期到回报率帝国与[[Knowledge Bank|知识银行]]演变的全过程（pp. 540–550）。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 运用历史比较与统计分析，揭示 1980 年代受世界银行与外债危机约束的拉美经济体（如巴西）在教育投入与产业研发上的体制停滞，对照东亚自主型[[National Innovation System|国家创新系统]]的高速赶超，从[[Evolutionary Economics|演化经济学]]维度实证反思[[Structural Adjustment Programs|结构调整方案]]的负面制度锁定（pp. 13–15）。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 运用批判政策[[Discourse Analysis|话语分析]]透视世界银行与[[OECD|经合组织]]、教科文组织的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators|WEI]]）合作，揭示其如何以技术化指标包装新自由主义经济预设，并跟进[[Knowledge-Based Economy|知识经济]]政策[[Discourse|话语]]（pp. 443–445）。
+> - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员视角，系统剖析世界银行教育贷款机制，指出其核心缺陷在于繁杂审计、执行拖延与评估重投入轻产出，而非外界夸大的意识形态阴谋（pp. 455–477）。

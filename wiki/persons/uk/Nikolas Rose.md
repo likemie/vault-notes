@@ -9,10 +9,10 @@ summary: "英国著名社会学家、政治理论家，伦敦国王学院荣休�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 0
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 25
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1947"
 died: ""
 lifespan: "1947–至今"

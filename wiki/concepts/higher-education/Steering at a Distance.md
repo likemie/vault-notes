@@ -11,7 +11,7 @@ aliases:
 summary: "20世纪80年代荷兰高教改革确立的公共治理新范式，指政府放弃传统事前命令控制，转向扩大学校自治、以事后质量评估为反馈调节的间接调控模式（Kickert, 1995）。在当代超国家教育治理中，经合组织借新公共管理将“远处掌舵”转化为以跨国比较绩效、国际基准与问责体制为核心的治理技术，引导国家政策服务于知识经济的效率需求（Rizvi & Lingard, 2009）。"
 type: concept
 domain: "higher-education"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -72,7 +72,7 @@ related_methods:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-13
+updated: 2026-10-14
 ---
 
 # Steering at a Distance

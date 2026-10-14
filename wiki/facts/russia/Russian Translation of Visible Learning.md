@@ -9,7 +9,7 @@ subtype: event
 region: russia
 fact_region: "russia"
 fact_kind: "event"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-07-13
+updated: 2026-10-14
 ---
 ## 背景
 

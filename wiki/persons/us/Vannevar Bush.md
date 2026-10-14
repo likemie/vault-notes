@@ -7,14 +7,14 @@ summary: "美国电机工程师、科技管理者与战后科技政策奠基人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 70
+person_related_count: 71
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
 born: "1890"
 died: "1974"
 lifespan: "1890–1974"
-updated: 2026-10-12
+updated: 2026-10-14
 tags:
   - person/engineer
   - person/policy-architect

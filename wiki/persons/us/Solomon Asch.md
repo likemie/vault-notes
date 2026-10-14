@@ -9,10 +9,10 @@ summary: "波兰裔美籍著名社会心理学与格式塔心理学先驱，因�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: 1907
 died: 1996
 lifespan: "1907–1996"
@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-14
 ---
 
 # Solomon Asch

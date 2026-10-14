@@ -70,7 +70,7 @@ title: "Argument_Streeck_Thelen_2005_OUP"
 argument_key: "Argument_Streeck_Thelen_2005_OUP"
 argument_display_title: "Introduction: Institutional change in advanced political economies"
 argument_kind: "book-chapter"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"

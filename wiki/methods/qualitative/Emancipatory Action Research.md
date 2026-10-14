@@ -8,9 +8,9 @@ summary: "行动研究中最激进的一支，以哈贝马斯批判理论为认�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 31
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 32
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/action-research
@@ -57,7 +57,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
 created: 2026-07-19
-updated: 2026-10-07
+updated: 2026-10-14
 ---
 # Emancipatory Action Research
 

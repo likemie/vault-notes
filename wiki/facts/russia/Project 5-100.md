@@ -12,9 +12,9 @@ subtype: program
 region: russia
 fact_region: "russia"
 fact_kind: "program"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 issuing_organization: "Ministry of Education and Science of the Russian Federation"
 tags:
@@ -36,7 +36,7 @@ related_persons:
 confidence: medium
 status: draft
 created: '2026-06-26'
-updated: 2026-10-07
+updated: 2026-10-14
 ---
 
 # Project 5-100

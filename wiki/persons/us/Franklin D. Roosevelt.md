@@ -9,7 +9,7 @@ summary: "美国第32任总统，二战同盟国领袖；推行“新政”重�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-12
+updated: 2026-10-14
 ---
 
 # Franklin D. Roosevelt

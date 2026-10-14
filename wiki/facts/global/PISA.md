@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 107
+fact_related_count: 119
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -32,9 +32,11 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[PISA Scientific Literacy]]"
   - "[[Problem Solving]]"
+  - "[[Epistemic Community]]"
   - "[[Space of Equivalence]]"
   - "[[Commensuration]]"
   - "[[Reliability]]"
+  - "[[Construct Validity]]"
   - "[[Ontology]]"
   - "[[Variable]]"
   - "[[Rashomon Effect]]"
@@ -42,9 +44,14 @@ related_concepts:
   - "[[International Education]]"
   - "[[Employability]]"
   - "[[Lifelong Learning]]"
+  - "[[Multilateral Surveillance]]"
   - "[[Policy Borrowing]]"
+  - "[[Peer Pressure]]"
+  - "[[Steering at a Distance]]"
   - "[[Network Governance]]"
   - "[[State Educational Sovereignty]]"
+  - "[[Positional Good]]"
+  - "[[School Choice]]"
   - "[[Nature of Science]]"
   - "[[Socioscientific Issues]]"
   - "[[Transfer Translation Transformation]]"
@@ -56,7 +63,6 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Active Learning]]"
-  - "[[Epistemic Community]]"
   - "[[Governing by Numbers]]"
   - "[[Epistemology]]"
   - "[[Critique of PISA]]"
@@ -72,7 +78,6 @@ related_concepts:
   - "[[Center of Calculation]]"
   - "[[PISA Shock]]"
   - "[[Plaintive Comparison]]"
-  - "[[Steering at a Distance]]"
   - "[[Heterogeneity]]"
   - "[[Public Value]]"
   - "[[Global Education Reform Movement]]"
@@ -89,6 +94,8 @@ related_persons:
   - "[[Bob Lingard]]"
   - "[[Alain Desrosières]]"
   - "[[Nikolas Rose]]"
+  - "[[Dominique Foray]]"
+  - "[[Bengt-Åke Lundvall]]"
   - "[[Wolfgang Mitter]]"
   - "[[Torsten Husén]]"
   - "[[José Luis García Garrido]]"
@@ -96,6 +103,8 @@ related_facts:
   - "[[OECD]]"
   - "[[IEA]]"
   - "[[Comparative Education Society in Europe]]"
+  - "[[Australian Council for Educational Research]]"
+  - "[[Educational Testing Service]]"
   - "[[TIMSS]]"
   - "[[PIRLS]]"
   - "[[PISA for Development]]"
@@ -134,6 +143,7 @@ related_arguments:
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Creative Problem Solving]]"
+  - "[[New Growth Theory]]"
   - "[[Three-Level Mechanism Model of PISA's Impact on Education Policy]]"
   - "[[Governing at a Distance]]"
 confidence: high
@@ -197,13 +207,13 @@ updated: 2026-10-14
 
 > [!feature] 核心运行机制
 > - **周期性主测轮换** 每三年为一个周期，阅读、数学、科学依次作为主测领域，辅以财经素养、[[Creativity|创造性]]思维等创新模块。
-> - **跨国[[Epistemic Community|认知共同体]]与专业学术联合体** PISA 并不是 OECD 内部封闭官僚行政的产物，而是委托澳大利亚教育研究委员会（ACER）、荷兰国家教育测量研究所（CITO）、美国教育考试服务中心（ETS）等跨国机构与顶尖心理测量学家、计量经济学家组成的国际专家财团协同研发。这一跨国认知共同体为 OECD 的软法治理提供了高度专业化的科学客观威权。（Henry et al., 2001; Rizvi & Lingard, 2009, p. 444）
+> - **跨国[[Epistemic Community|认知共同体]]与专业学术联合体** PISA 并不是 [[OECD]] 内部封闭官僚行政的产物，而是委托[[Australian Council for Educational Research|澳大利亚教育研究委员会]]（ACER）、荷兰国家教育测量研究所（CITO）、[[Educational Testing Service|美国教育考试服务中心]]（ETS）等跨国机构与顶尖心理测量学家、计量经济学家组成的国际专家财团协同研发。这一跨国认知共同体为 OECD 的软法治理提供了高度专业化的科学客观威权。（Henry et al., 2001; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, p. 444]]）
 > - **跨国共同量表与全球[[Space of Equivalence|等值空间]]虚构** 依托[[Item Response Theory|项目反应理论]]（IRT）与 Rasch 测量建立跨国均值（500 分）与标准差（100 分）量表，实现历时与跨国横向可比。[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）借用[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）的统计社会学概念指出，PISA 刻意脱离各国的具体课程大纲与文化情境设计测试情景，通过[[Commensuration|通约化]]凭空制造出一个跨国“等值空间”（space of equivalence）。在这一统计技术操作中，跨国比较的[[Reliability|信度]]（reliability）被置于教育本土[[Construct Validity|构念效度]]（validity）与[[Ontology|本体论]]多样性之上；数字的威力恰恰在于将指标背后大量主观政治判断与价值预设彻底隐形化，通过[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose, 1999）所称的“数字即政策”（policy as numbers）确立了免于辩论的客观科学威权。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 > - **背景[[Questionnaire|问卷]]与社会学透视** 采集学生家庭社会经济文化地位（ESCS）、学校资源、教师教学法等丰富[[Variable|变量]]，为教育公平与效能分析提供海量微观数据。
 > - **数据可塑性与[[Rashomon Effect|罗生门效应]]（Data Plasticity & Rashomon Effect）** PISA 成果发布体系由长篇技术主报告、简明国别简报（Country Notes）与精要简讯（PISA in Focus）构成；庞大的指标网络赋予评估数据极高的[[Discourse|话语]]可塑性，使同一批数据能被不同立场的国内政治精英、游说团体与大众媒体各取所需，剪裁为相互冲突的政策依据与“多重真相”。[[Argument_Grey_2018_CE|(Grey & Morris, 2018)]]
 
-> [!info] 差异化定位与营销策略（[[Argument_Zhao_2020_JEC|Zhao, 2020]]）
-> PISA 的全球成功是一场精准的市场化定位案例。在 PISA 之前，[[IEA]]（[[International Education|国际教育]]成就评价协会）已深耕 [[TIMSS]] 和 [[PIRLS]] 评估数十年。PISA 结合内生新增长理论与[[Dominique Foray|多米尼克·福雷]]（Dominique Foray）及[[Bengt-Åke Lundvall|伦德瓦尔]]（Foray & Lundvall, 1996）提出的[[Learning Economy|学习型经济]]与[[Tacit Knowledge|默会技能]]导向，直击各国政府对未来全球竞争与青年[[Employability|就业能力]]的普遍焦虑，提出了三大核心问询：“年轻人是否准备好迎接未来挑战？他们能否有效分析、推理与沟通？他们是否具备[[Lifelong Learning|终身学习]]的能力？”（OECD 1999, p. 7）。PISA 借此宣称其测量的是“未来生活所需的基本技能”，从而击败传统课程导向评估，确立了全球主导地位。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
+> [!info] 差异化定位与[[Knowledge-Based Economy|知识经济]]营销策略
+> PISA 的全球成功是一场精准的市场化定位案例。在 PISA 之前，[[IEA]]（[[International Education|国际教育]]成就评价协会）已深耕 [[TIMSS]] 和 [[PIRLS]] 评估数十年。PISA 结合[[New Growth Theory|内生新增长理论]]与[[Dominique Foray|多米尼克·福雷]]（Dominique Foray）及[[Bengt-Åke Lundvall|伦德瓦尔]]（Foray & Lundvall, 1996）提出的学习型经济与默会技能导向，直击各国政府对未来全球竞争与青年[[Employability|就业能力]]的普遍焦虑，提出了三大核心问询：“年轻人是否准备好迎接未来挑战？他们能否有效分析、推理与沟通？他们是否具备[[Lifelong Learning|终身学习]]的能力？”（OECD 1999, p. 7）。PISA 借此宣称其测量的是“未来生活所需的基本技能”，从而击败传统课程导向评估，确立了全球主导地位。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 
 > [!policy-design]- 全球产品线全景扩张
 > - **PISA for Schools** — 将跨国评估指标下沉至单一学校层面，为学校改进提供国际对标诊断。
@@ -216,8 +226,9 @@ updated: 2026-10-14
 ## 政策影响与治理机制
 
 > [!finding-cards] 核心政策影响
-> - **确立全球教育软治理与远处掌舵** PISA 通过量化排名、平均分与差距叙事，实现了超国家层面的“数据治理”，使高表现国家成为跨国[[Policy Borrowing|政策借用]]的模板；通过排行榜引发的国内政策恐慌，实现了无须直接行政指令的“远处掌舵”。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 8–9)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 447)]]
+> - **确立全球教育软治理、[[Multilateral Surveillance|多边监督]]与远处掌舵** PISA 通过量化排名、平均分与差距叙事，实现了超国家层面的“数据治理”，使高表现国家成为跨国[[Policy Borrowing|政策借用]]的模板；通过联赛排行榜引发的国内政策恐慌，形成强大的国家间[[Peer Pressure|同行压力]]与[[Multilateral Surveillance|多边监督]]，实现了无须直接行政指令的“远处掌舵”（[[Steering at a Distance]]）。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 8–9)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 > - **多层[[Network Governance|网络治理]]与[[State Educational Sovereignty|国家教育主权]]重构** 里兹维与林加德指出，PISA 并未消灭民族国家教育主权，而是催生了跨国与次国家主体共同参与的“多层网络治理”；主权国家官僚机构自觉采纳 PISA 指标以重塑国内行政改革合法性，借国际危机动员推行受阻的绩效问责改革，但其内部自主探索教育目的的战略空间也遭到显著挤压。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 448)]]
+> - **加剧教育作为[[Positional Good|位置性商品]]的全球排位竞争** 跨国联赛排名的持续炒作强化了劳动力市场的文凭筛选预期，将教育从培育民主公民的公共福祉降解为争夺相对优势的[[Positional Good|位置性商品]]，不仅驱动了中产阶级家长对私立[[School Choice|择校]]与课外补习的军备竞赛，也诱发各国陷入追求相对位次提升的宏观内耗博弈。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446, 451–452)]]
 > - **重塑基础科学课程哲学** 推动英、德、日、法等数十个国家修订国家科学课程大纲，显著增加[[Nature of Science|科学本质]]、社会科学争议（[[Socioscientific Issues|SSI]]）与证据评估内容。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
 > - **双向多层驱动** [[Argument_Li_2025_HSSC|Li et al. (2025)]][[Systematic Review|系统综述]]指出，PISA 影响在质量与公平双重路径上展开，通过超国家软治理、国家[[Transfer Translation Transformation|转译]]与国内行动者博弈三层机制深刻重塑全球教育格局。
 > - **动员国内危机叙事与驱动国家课程对标（美国 [[Common Core State Standards|CCSS]] 运动）** 跨国评估数据常被国内[[Policy Entrepreneur|政策企业家]]作为打破地方分权阻力与构建国家标准的政治弹药。例如在美国，政策企业家（国家州长协会 [[National Governors Association|NGA]]、[[Council of Chief State School Officers|州首席教育官理事会]] CCSSO）将 PISA 和 [[TIMSS]] 展现的跨国差距转化为核心实证指标，论证美国学生在应对全球[[Knowledge-Based Economy|知识经济]]竞争中存在严峻素养赤字，各州现行课程标准浅薄碎片，以此为自愿性统一国家标准（[[Common Core State Standards|CCSS]]）的制定确立了不可动摇的合法性。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
@@ -273,12 +284,12 @@ updated: 2026-10-14
 > - **心理测量学视角** 质疑跨语言与跨文化情境下 Rasch 模型的测量等价性（DIF）及[[Questionnaire|问卷]]信效度（[[Argument_DeJong_2023_ERR|De Jong et al., 2023]]）。
 
 > [!tension] PISA 全球治理的核心悖论概要
-> - **未来技能的构念拟制与经济功利化** PISA 标榜测量未来技能，但缺乏长程追踪实证，且将国家经济[[Competitiveness|竞争力]]确立为教育主旨，边缘化了人文与公民价值（详见 [[Critique of PISA]] 命题一）。
+> - **未来技能的构念拟制与[[Positional Good|位置性商品]]异化** PISA 标榜测量未来技能，但缺乏长程追踪实证，且将国家经济[[Competitiveness|竞争力]]确立为教育主旨，使教育异化为劳动力市场排位竞争的[[Positional Good|位置性商品]]，边缘化了人文与公民民主价值（详见 [[Critique of PISA]] 命题一与命题六）。
 > - **学科认识论矮化与航海隐喻瓦解** 刚性指标收编了比较教育咨询生态，消解了历史文化纵深诠释传统（详见 [[Critique of PISA]] 命题二）。
 > - **数据可塑性与[[Mediatised Governance|媒介化治理]]推诿** PISA 庞大数据网络赋予其极高[[Discourse|话语]]可塑性，国内政客常勾连大众媒体的“[[Falling Standards Template|标准下滑模板]]”虚构危机推销私有化改革，并在分权体制中互卸败绩责任（详见 [[Critique of PISA]] 命题三与 [[Mediatised Governance]]）。
 > - **教学因果误读与高分低趣悖论** 问卷缺陷引发“探究负相关”假象，事实上教师[[Inquiry-Based Learning|指导式探究]]具有显著正效应；同时东亚等高分体系普遍伴生高焦虑与低幸福感（详见 [[Critique of PISA]] 命题四与 [[PISA Scientific Literacy]]）。
 > - **形式入学机会对实质教育正义的窄化** 尽管 PISA 背景问卷揭示了学生社会经济地位（SES）与[[Academic Achievement|学业成就]]之间的显著相关性（以及男生在阅读素养上的普遍劣势），大卫·伯利纳（David Berliner, 2007）以及里兹维与林加德指出，PISA 将教育公平狭隘地界定为形式上的入学机会（formal access），回避了更深层的教育正义（educational justice）与结构性不平等问题，使公平议题沦为支撑[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]与[[Human Capital Theory|人力资本]]最大化的附属指标。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–449)]]
-> - **[[Space of Equivalence|等值空间]]虚构与[[Reliability|信度]]优先导致的效度消解** 为实现全球范围内的机械可比性，PISA 依赖复杂的心理测量学标准化程序强行虚构跨国“等值空间”（space of equivalence），但其代价是牺牲[[Cultural Validity|文化效度]]。大量深植于本土语言与历史文化语境的[[Higher-Order Thinking Skills|高阶思维]]题目因无法在跨国样本中保持统计一致性而被系统剔除，使评估在追求测量信度（reliability）的同时消解了教育测量的实质效度（validity）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> - **[[Space of Equivalence|等值空间]]虚构与[[Reliability|信度]]优先导致的[[Construct Validity|构念效度]]消解** 为实现全球范围内的机械可比性，PISA 依赖复杂的心理测量学标准化程序强行虚构跨国“等值空间”（space of equivalence），但其代价是牺牲[[Cultural Validity|文化效度]]。大量深植于本土语言与历史文化语境的[[Higher-Order Thinking Skills|高阶思维]]题目因无法在跨国样本中保持统计一致性而被系统剔除，使评估在追求测量信度（reliability）的同时消解了教育测量的实质[[Construct Validity|构念效度]]（validity）（详见 [[Critique of PISA]] 命题五）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 
 ---
 
@@ -309,6 +320,12 @@ updated: 2026-10-14
 > | **跨国治理与政策理论** | [[Plaintive Comparison]] | 概念 | 将教育落后归咎于历史政治困境以推卸专业问责的合法化防御修辞（如西班牙）。 |
 > | **跨国治理与政策理论** | [[Governing by Numbers]] | 概念 | PISA 作为跨国量化技术官僚软治理与可比绩效监控的理论本质。 |
 > | **跨国治理与政策理论** | [[Steering at a Distance]] | 概念 | 揭示 [[OECD]] 与国家中央借助 PISA 跨国指标与数据监控实现无须直接行政指令的[[Governing at a Distance\|远程治理]]机制。 |
+> | **跨国治理与政策理论** | [[Space of Equivalence]] | 概念 | 等值空间；揭示 PISA 依赖公约制造可[[Commensuration\|通约]]度量空间以消除地方情境特异性的技术本质。 |
+> | **跨国治理与政策理论** | [[Construct Validity]] | 概念 | 构念效度；批判 PISA 追求跨国统计[[Reliability\|信度]]对本土教育真实构念效度与本体多样性的系统性消解。 |
+> | **跨国治理与政策理论** | [[Positional Good]] | 概念 | 位置性商品；批判 PISA 联赛排名刺激教育军备竞赛、将教育异化为劳动力排位争夺筹码。 |
+> | **跨国治理与政策理论** | [[Multilateral Surveillance]] | 概念 | 多边监督；揭示 PISA 作为经合组织实施无强制力跨国同行监控的核心量化技术载体。 |
+> | **跨国治理与政策理论** | [[Peer Pressure]] | 概念 | 同行压力；刻画 PISA 联赛排行榜通过制造落后恐慌诱导主权国家主动对标的心理动力。 |
+> | **跨国治理与政策理论** | [[Epistemic Community]] | 概念 | 认知共同体；揭示 PISA 背后由心理测量学家与统计技术官僚构成的跨国专家权威网络。 |
 > | **跨国治理与政策理论** | [[Commensuration]] | 概念 | 将具有[[Heterogeneity\|异质性]]历史文化传统的本土教育体系通约化为同质量化量表的技术过程与理论基石。 |
 > | **跨国治理与政策理论** | [[Social Imaginary]] | 概念 | PISA 指标建构背后所承载的新自由主义全球化与[[Knowledge-Based Economy\|知识经济]]深层社会想象。 |
 > | **跨国治理与政策理论** | [[Public Value]] | 概念 | PISA 所支撑的知识经济话语对教育固有民主与公共价值（社会凝聚、批判公民权）的工具化收编。 |
@@ -322,6 +339,9 @@ updated: 2026-10-14
 > | **方法学争议与学界批评** | [[2014 Open Letter on PISA]] | 事实 | 全球逾百名学者联名公开信，系统抨击 PISA 对全球基础教育的负外部性。 |
 > | **方法学争议与学界批评** | [[Navigation Metaphor in Comparative Education]] | 概念 | 战后比较教育所倡导的超然咨询范式，后遭 PISA 标杆治理与技术官僚问责颠覆。 |
 > | **学科史与代表人物** | [[Comparative Education Society in Europe]] | 事实 | 战后欧洲大学比较教育学术共同体，其学术网络与 PISA 大规模测验演进长期分道扬镳。 |
+> | **学科史与代表人物** | [[Alain Desrosières]] | 人物 | 提出等值空间与通约理论，为解构 PISA 跨国度量虚构提供统计社会学分析工具。 |
+> | **学科史与代表人物** | [[Nikolas Rose]] | 人物 | 提出“数字即政策”与远处治理理论，揭示 PISA 数字统治威权如何将政治决断去政治化。 |
+> | **学科史与代表人物** | [[Dominique Foray]] | 人物 | 提出学习型经济与默会技能稀缺性，奠定 PISA 聚焦真实情境实用技能测量的知识经济学基石。 |
 > | **学科史与代表人物** | [[Wolfgang Mitter]] | 人物 | 深刻剖析 PISA 兴起对欧洲比较教育学科自主性与认识论侵蚀的学科史学者。 |
 > | **学科史与代表人物** | [[Torsten Husén]] | 人物 | 早期跨国大规模测评少数横跨欧洲比较教育学社与实证测评的桥梁学者。 |
 > | **学科史与代表人物** | [[José Luis García Garrido]] | 人物 | 深入剖析 PISA 在南欧[[Educational Decentralization\|教育分权]]与综合学制改革中暴露的平庸与推诿的比较教育学者。 |

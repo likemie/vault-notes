@@ -10,7 +10,7 @@ summary: "阿尔弗雷德·伯恩哈德·诺贝尔（Alfred Bernhard Nobel, 1833
 type: person
 nationality: sweden
 person_region: "sweden"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-14
 ---
 
 # Alfred Nobel

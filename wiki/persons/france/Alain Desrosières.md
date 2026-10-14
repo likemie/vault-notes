@@ -9,10 +9,10 @@ summary: "法国著名统计学家、科学史家与量化社会学先驱，长�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 0
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 29
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1940"
 died: "2013"
 lifespan: "1940–2013"

@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch04"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch04"
 argument_display_title: "End of the atomic age"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"

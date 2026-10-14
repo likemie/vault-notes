@@ -10,7 +10,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 53
+fact_related_count: 54
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -89,7 +89,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-07
+updated: 2026-10-14
 ---
 
 # Visible Learning Branding and Global Influences

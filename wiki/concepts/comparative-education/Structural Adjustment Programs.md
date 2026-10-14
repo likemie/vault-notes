@@ -205,6 +205,10 @@ updated: 2026-10-11
 > - **国际金融机构与新古典经济学立场（红方）** 坚信结构调整能够纠正发展中国家过去因国家过度补贴导致的财政赤字与低效垄断；声称通过使用者付费能够促使家长行使“消费者主权”，刺激学校提高办学效益。[[Argument_Olmos_Torres_2009_StateTheories|(Samoff, 1990; Olmos & Torres, 2009, p. 80)]]
 > - **批判教育社会学与依附学派立场（蓝方）** 批判结构调整完全漠视外围国家的历史情境与阶级不平等现实，其本质是将教育推向商业化和营利化，使公立教育系统萎缩蜕变为服务底层的劣质收容所，摧毁了公民社会的民主公共基石。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 84–85)]]
 
+> [!tension] 全能强加神话 vs 借贷国政治共谋与附加条件失灵
+> - **外部全能强加叙事** 批判学者普遍将结构调整方案描绘为国际金融资本单向强加给发展中国家的霸权枷锁。
+> - **圈内政治博弈反思（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）** 指出外部批判往往高估了多边银行强推政策的能力（银行根本无法单方面强加改革，1980 年代三分之一项目陷入“赶猫式”停摆，激进强推甚至引发玻利维亚全国戒严等社会动荡）；在实践中，借款国部长常常主动借用多边银行的附加条件作为冲破国内既得利益阻力的杠杆，或是将银行当作替罪羊来推行本国早已有之的痛苦重组（pp. 463–467）。
+
 > [!warning] 适用局限
 > 结构调整方案主要发生在遭受重度外债危机且极度依赖国际多边信贷的第三世界外围政权；对于拥有强自主财政税收体系与外汇储备的主权核心大国，外部国际金融机构无法直接推行刚性结构调整附加条件。
 
@@ -230,6 +234,9 @@ updated: 2026-10-11
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
+> | [[Multilateral Development Bank]] | 概念 | 推行结构调整与行业贷款附加条件的核心超国家开发金融载体。 |
+> | [[Washington Consensus]] | 概念 | 指导结构调整方案各项宏观经济紧缩与市场化信条的智识共识基础。 |
+> | [[Inter-American Development Bank]] | 事实 (机构) | 在结构调整期更偏重务实基建借贷、与世行激进体制改革形成对照的区域开发银行。 |
 > | [[Financial-Intellectual Complex]] | 概念 | 揭示[[World Bank\|世界银行]]推行结构调整方案时垄断研究生产与专家智库的话语权力中介。 |
 > | [[Import Substitution Industrialisation]] | 概念 | 说明结构调整方案如何取代早期内向型工业化，迫使国家从发展主义走向新自由主义紧缩。 |
 > | [[Endogenous and Exogenous Privatisation]] | 概念 | 分析结构调整方案在教育系统内外部推行私有化与市场运作的具体[[Operationalization\|操作化]]路径。 |
@@ -248,3 +255,4 @@ updated: 2026-10-11
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 从[[Conditioned State Theory|受限国家理论]]与阶级策略视角，系统阐述[[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 的结构调整方案如何通过贷款附加条件剥夺拉美国家的教育公共主权并加剧阶级分化。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 104–106, 110–112)]] — 运用[[World-Systems Theory|世界体系分析]]透视结构调整方案的技术官僚成本效益[[Discourse|话语]]，揭示公共开支削减如何导致基础教育向非政府组织外包并异化为“[[Shadow State|影子国家]]”，进而固化外围国家的依附地位。
 > - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 实证对照结构调整市场化改革对受援国[[Education for All|全民教育]]（[[Exploratory Factor Analysis|EFA]]）进程的阻碍与古巴自主公共教育动员的成功，揭示外部强制紧缩与市场化对全球南方教育发展造成的结构性破坏。
+> - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员视角反思多边贷款附加条件的执行限度与政治博弈，揭示强推改革的不可行性与借款国内部官僚利用银行作为挡箭牌的策略（pp. 465–467）。

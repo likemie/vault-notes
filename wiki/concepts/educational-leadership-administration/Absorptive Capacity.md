@@ -7,7 +7,7 @@ aliases:
 summary: "组织识别、吸收并情境化应用外部知识的能力；在教育与治理中取决于实践者认知基础、内部沟通网络与支持性领导，调节科研证据向微观行动的转化成效。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -83,7 +83,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-10-12
+updated: 2026-10-14
 ---
 
 # Absorptive Capacity

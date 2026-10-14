@@ -10,7 +10,7 @@ aliases:
 summary: "由 Andy Clark 与 David Chalmers 于 1998 年创立、后经 Clark（2025）面向生成式 AI 深化的认知哲学理论，提出宇称原则与耦合系统观，主张认知过程可跨越颅骨与身体边界延展至外部环境人造物，为认知卸载与人机协同学习提供了本体论与功能主义合法性基石。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 34
+theory_related_count: 35
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -57,7 +57,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-07
+updated: 2026-10-14
 ---
 
 # Extended Mind Theory

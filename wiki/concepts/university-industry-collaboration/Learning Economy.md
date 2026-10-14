@@ -10,7 +10,7 @@ aliases:
 summary: "涵盖微观制造经验积累与宏观创新系统演进的双重经济分析范式。微观上指累计产量翻番带来单位生产成本下降20%–30%的动态学习效应；宏观上指在全球化与技术快速变迁中，竞争力取决于动态学习与知识吸收能力而非静态要素存量；在新增长理论与经合组织政策框架中，更指财富创造取决于沟通性互动学习与全生命周期技能更新，驱动经济体向终身学习形态转型。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -65,7 +65,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-13
+updated: 2026-10-14
 ---
 # Learning Economy
 

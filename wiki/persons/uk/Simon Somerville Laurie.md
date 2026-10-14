@@ -9,7 +9,7 @@ summary: "苏格兰哲学家与教育学家，1876 年受任爱丁堡大学首�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-14
 ---
 
 # Simon Somerville Laurie

@@ -9,7 +9,7 @@ summary: "丹麦著名演化经济学家、创新系统理论奠基人之一，�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"

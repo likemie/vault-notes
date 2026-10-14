@@ -7,7 +7,7 @@ summary: "德国动物行为学家与社会生物学家，慕尼黑大学动物�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 9
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-10
+updated: 2026-10-14
 ---
 
 # Martin Lindauer

@@ -12,7 +12,7 @@ subtype: policy
 region: russia
 fact_region: "russia"
 fact_kind: "policy"
-fact_related_count: 3
+fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -32,7 +32,7 @@ related_persons:
 confidence: medium
 status: draft
 created: '2026-06-26'
-updated: 2026-09-29
+updated: 2026-10-14
 ---
 
 # Federal Law No. 85-FZ on Enlightenment Activities

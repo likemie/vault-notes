@@ -10,7 +10,7 @@ summary: "加拿大与美国政治学家，哈佛大学欧洲研究讲席教授�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-14
 ---
 
 # Peter A. Hall

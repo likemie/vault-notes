@@ -12,7 +12,7 @@ aliases:
 summary: "胡塞尔先验现象学的核心方法，主张中止对外部客观实在的自然态度并将世界放入括号，直面纯粹意识流与现象本身；在质性研究中延伸为排除偏见的反思态度，在现代工程认识论中延伸为悬置主观评判以直面复杂系统因果链条，在超国家量化治理中进一步体现为将各国历史与制度脉络放入括号以构建全球等值通约空间的权力运作。"
 type: concept
 domain: "educational-philosophy"
-related_count: 45
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"

@@ -10,10 +10,10 @@ summary: "美国海军四星上将，被誉为核海军之父；领导开发了�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1900"
 died: "1986"
 lifespan: "1900–1986"
@@ -39,7 +39,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-14
 ---
 
 # Hyman Rickover

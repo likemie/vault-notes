@@ -8,7 +8,7 @@ summary: "美国著名宗教社会学家、加州大学伯克利分校社会学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-14
 ---
 
 # Robert Bellah

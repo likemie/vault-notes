@@ -8,7 +8,7 @@ summary: "英国比较教育学家、雷丁大学比较教育学教授，战后�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-09-11
+updated: 2026-10-14
 ---
 
 # Vernon Mallinson

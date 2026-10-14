@@ -12,7 +12,7 @@ subtype: policy
 region: russia
 fact_region: "russia"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -33,7 +33,7 @@ related_persons:
 confidence: medium
 status: draft
 created: '2026-06-26'
-updated: 2026-10-02
+updated: 2026-10-14
 ---
 
 # Consolidation of Russian State Science Funds

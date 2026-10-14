@@ -7,7 +7,7 @@ summary: "澳大利亚与英国著名教育政策社会学家，澳大利亚社�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 51
+person_related_count: 53
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"

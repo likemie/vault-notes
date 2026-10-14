@@ -5,7 +5,7 @@ aliases:
 summary: "国家战略力量、公共福利与民主合法性同前沿科技与软件工程深度绑定的政治经济体制形态。强调国家战略与技术共同体结盟，以软件硬实力与人工智能威慑替代原子时代工业化防御；破除胜者谬误、大构想饥荒与创新荒漠，依托审美品味、创始人长期主义、全员所有权社会与实质伦理美德，在微观工程思维与宏观国家使命中重构自由民主政体的地缘优势与社会治理效能。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 118
+related_count: 119
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -147,7 +147,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-09
+updated: 2026-10-14
 ---
 
 # Technological Republic

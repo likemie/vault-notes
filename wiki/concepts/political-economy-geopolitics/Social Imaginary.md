@@ -11,7 +11,7 @@ aliases:
 summary: "指人们想象自身社会存在、与他人关系及规范性期待的共享话语与实践图景。在教育治理中，跨国组织通过融合内生增长理论与经验现实建构知识经济社会想象，依托统计指标与等值空间制造政策常识，并将实质社会正义工具化为经济效率的附属品。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 62
+related_count: 64
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
