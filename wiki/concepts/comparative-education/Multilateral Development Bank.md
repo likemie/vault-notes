@@ -8,7 +8,7 @@ aliases:
 summary: "由多个主权国家共同创立持股的超国家开发性金融机构；其金融本质是依托发达出资国的最高信用评级在国际债券市场极低息筹集资金、以保本微利原则向发展中借款国发放长期优惠贷款的主权信用合作社；在教育治理中，其通过信贷资金注入、对等资金绑定、政策附加条件与技术建议施加深层影响，但深陷繁琐官僚报销与评估重投入轻产出的执行困境。"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

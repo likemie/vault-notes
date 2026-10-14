@@ -7,7 +7,7 @@ title: "Argument_Castro_2009_MultilateralBanks"
 argument_key: "Argument_Castro_2009_MultilateralBanks"
 argument_display_title: "Can Multilateral Banks Educate the World?"
 argument_kind: "book-chapter"
-argument_related_count: 39
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -74,6 +74,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Claudio de Moura Castro]]"
+  - "[[Stephen P. Heyneman]]"
 related_facts:
   - "[[World Bank]]"
   - "[[Inter-American Development Bank]]"
@@ -210,7 +211,7 @@ updated: 2026-10-15
 > [!contrast-table] 华盛顿放贷决策的三方行动者权力矩阵（pp. 460–461）
 > | 行动者阵营 | 构成主体与权力基石 | 核心诉求与行为模式 | 典型博弈表现 |
 > |:---|:---|:---|:---|
-> | **管理层与专业职员** | 英美主流名校经济学博士，具备深厚的学术训练与实务经验。 | 追求政策设计的理论严谨性与主流经济学逻辑；充满专业优越感。 | 内部热衷于学术争鸣；斯蒂芬·海尼曼（Stephen Heyneman, 2003）见证了 1990 年代初专业官员与管理层之间关于教育政策教条的激烈学术交锋。 |
+> | **管理层与专业职员** | 英美主流名校经济学博士，具备深厚的学术训练与实务经验。 | 追求政策设计的理论严谨性与主流经济学逻辑；充满专业优越感。 | 内部热衷于学术争鸣；[[Stephen P. Heyneman\|斯蒂芬·海尼曼]]（Stephen Heyneman, 2003）见证了 1990 年代初专业官员与管理层之间关于教育政策教条的激烈学术交锋。 |
 > | **执行董事会** | 各成员国派驻代表；美国拥有最大表决权；北欧国家掌握特定伦理议题[[Discourse\|话语]]权。 | 美国捍卫地缘战略利益；北欧国家严控环境保护、少数族裔与赤贫保护标准。 | 美国成功阻止古巴入行，但在保罗·沃尔福威茨（Paul Wolfowitz）因裙带关系辞职时无法保全；北欧标准常被借款国抱怨脱离贫困现实。 |
 > | **外部非政府组织与借款国** | 华盛顿外围激进非政府组织（Non-Governmental Organizations, NGOs）与借款国政府代表。 | 非政府组织充当激进哨兵，发起“五十年已经足够”（Fifty Years is Enough）抗议运动；借款国要求自主所有权。 | 非政府组织压力常演变为主观盲动（如审查拉美十国学生测验是否破坏自然）；借款国则逐步打破白人的负担传统论调争取发言权。 |
 
