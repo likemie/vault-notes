@@ -7,7 +7,7 @@ aliases:
 summary: "以学术研究成果为依据组织课堂教学决策的专业取向，强调外部实证文献对教学与领导力的启发与应对能力提升，是证据知情实践（EIP）的关键拼图之一；在现实中常与基于数据的决策（DBDM）割裂，亟需依托教师研究素养与学校探究循环实现双轮整合。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-07
+updated: 2026-10-14
 ---
 
 # Research-Informed Teaching Practice

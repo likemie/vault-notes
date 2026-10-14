@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 61
+fact_related_count: 62
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -95,7 +95,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-28
+updated: 2026-10-14
 ---
 
 # Institute of Education Sciences

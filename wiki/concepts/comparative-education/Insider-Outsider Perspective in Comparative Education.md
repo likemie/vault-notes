@@ -11,7 +11,7 @@ aliases:
 summary: "比较教育学中考察本土研究者（局内人）与外来研究者（局外人）在认识论与方法论上互补与辩证张力的分析视角。强调局内人拥有深厚的本土语境洞察、语言熟练度与默会知识，但易受理所当然的前理解遮蔽；局外人则秉持审慎的陌生化疏离姿态与客观批判距离，但面临概念对称性不足与文化误读风险；二者的辩证结合是跨国比较研究克服认知盲区的关键。"
 type: concept
 domain: "comparative-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-14
 ---
 
 # Insider-Outsider Perspective in Comparative Education

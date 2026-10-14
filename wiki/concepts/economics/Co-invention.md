@@ -9,7 +9,7 @@ aliases:
 summary: "指通用技术或信息技术在下游各行业扩散与应用时，用户端为适应新技术所必须开展的组织重构、流程调整、技能重塑与互补性二次发明过程；是通用目的技术释放全要素生产率收益的必要中介。"
 type: concept
 domain: "economics"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-14
 ---
 
 # Co-invention

@@ -8,7 +8,7 @@ aliases:
 summary: "指以自觉的战略性与发展性取向，在全校教职工中系统培育证据知情实践与文化的组织形态；其判定标准不仅在于具体决策是否参考研究，更在于学校在组织层面是否具备使用证据的意图、意愿与能力，并建立起支撑反思性探究的制度化生态。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-07
+updated: 2026-10-14
 ---
 
 # Research-Engaged School

@@ -9,7 +9,7 @@ aliases:
 summary: "冷战时期美国国防部在半导体与集成电路采购中强制推行的制度性采购规程，要求中标主承包商必须向竞争对手交叉许可全部专利与制造工艺诀窍以保障供应链安全；该需求侧政策在客观上打破了技术垄断壁垒，加速了默会工艺知识的跨企业流动，奠定了战后硅谷去中心化、高竞争性的微电子产业生态"
 type: concept
 domain: "science-policy"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-05
+updated: 2026-10-14
 ---
 
 # Second-Sourcing

@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 29
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-08
+updated: 2026-10-14
 ---
 
 # American Association for the Advancement of Science

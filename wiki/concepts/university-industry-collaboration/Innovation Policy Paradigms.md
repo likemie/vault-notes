@@ -11,7 +11,7 @@ aliases:
 summary: "Schot & Steinmueller（2018）与 Mazzucato（2018）等学者识别的创新政策三大范式——科学促增长（Frame 1）、国家创新系统（Frame 2）与变革转型（Frame 3），揭示了公共干预从弥补市场失灵到管理系统失灵再到主动进行市场塑造与方向性引导的递进演化逻辑"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-27
-updated: 2026-10-09
+updated: 2026-10-14
 ---
 
 # Innovation Policy Paradigms

@@ -11,7 +11,7 @@ aliases:
 summary: "将技能习得深嵌于工作场所实践操作与长期师徒传承中的制度化技能形成机制。既是19世纪普鲁士工业赶超与芯片法案劳动力附加条件的制度纽带，也是微电子与先进制造中维系洁净室工艺知识、培育全谱系技师的关键支柱。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 55
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -88,7 +88,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-12
+updated: 2026-10-14
 ---
 
 # Apprenticeship

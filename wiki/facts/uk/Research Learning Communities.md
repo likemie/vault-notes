@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-09
+updated: 2026-10-14
 ---
 
 # Research Learning Communities

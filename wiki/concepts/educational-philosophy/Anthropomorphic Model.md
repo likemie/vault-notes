@@ -10,10 +10,10 @@ aliases:
 summary: "哈雷与塞科德在“人的科学”运动中提出的方法论模型，主张“为了科学的目的把人当作真正的人类对待”，赋予行动者能动性、意向性监控与生活叙事能力，以事件分析法取代行为主义机械模型。"
 type: concept
 domain: "educational-philosophy"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/methodology
   - paradigm/interpretive
@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-08
+updated: 2026-10-14
 ---
 
 # Anthropomorphic Model

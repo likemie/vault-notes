@@ -8,7 +8,7 @@ aliases:
 summary: "两社区理论由 Nathan Caplan（1979）提出，指涉科学研究社群与政治决策社群在文化价值、认识论取向、奖酬结构与时间跨度上的结构性分野，是政策中介、边界跨越者与研究利用理论的奠基性元模型。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 44
+theory_related_count: 45
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-07
+updated: 2026-10-14
 ---
 
 # Two-Communities Theory

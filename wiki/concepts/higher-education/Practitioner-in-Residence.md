@@ -12,7 +12,7 @@ aliases:
 summary: "指选拔顶尖机械师与高级技师进驻研究型大学与国家实验室，赋予其正式教职、联合指导权与成果署名权，以弥合工程理论与动手排障断层的师资与培养制度。"
 type: concept
 domain: "higher-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -45,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-14
 ---
 
 # Practitioner-in-Residence

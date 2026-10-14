@@ -8,7 +8,7 @@ aliases:
 summary: "研究者与实践组织之间长期、互惠的协作机制，通过共同确定问题、协同生产与情境化运用知识，被视为弥合研究-实践鸿沟并打破线性知识转移瓶颈的重要制度安排。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 61
+related_count: 62
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -91,7 +91,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-26
-updated: 2026-10-09
+updated: 2026-10-14
 ---
 
 # Research-Practice Partnership

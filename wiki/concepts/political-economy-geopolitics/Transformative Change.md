@@ -10,7 +10,7 @@ aliases:
 summary: "Schot and Steinmueller（2018）提出的第三个创新政策范式，认为创新系统范式在面对气候变化等棘手问题时过于被动，政策应从修复系统失灵升级为主动推动方向性变革"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-10-03
+updated: 2026-10-14
 ---
 
 # Transformative Change

@@ -9,10 +9,10 @@ aliases:
 summary: "在研究型大学内部依托公共研发资金建立的大型实验仪器平台、跨学科实验室、科研数据中心与学术网络体系；它是战后美国国家创新系统中前沿科学发现、高层次创新人才供给与民用颠覆性技术衍生的最核心策源底座。"
 type: concept
 domain: "higher-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/higher-education
   - theme/science-policy
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-07
+updated: 2026-10-14
 ---
 
 # University-Based Research Infrastructure

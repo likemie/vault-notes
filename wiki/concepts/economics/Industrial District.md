@@ -10,7 +10,7 @@ aliases:
 summary: "最早由阿尔弗雷德·马歇尔（Alfred Marshall）于 1890 年提出、后被新产业社会学与经济地理学重新阐发的核心概念；指在特定地理空间高度集聚、由大量专业化分工协作的中小企业所构成的产业生态网络；以“行业秘密飘在空气中”的隐性知识外溢、面对面信任资本以及共享的熟练劳动力市场为特征，揭示了次国家集聚作为国家创新系统底层微观基石的共生机理。"
 type: concept
 domain: "economics"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-14
 ---
 
 # Industrial District

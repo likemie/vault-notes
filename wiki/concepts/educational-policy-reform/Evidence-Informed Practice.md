@@ -6,7 +6,7 @@ aliases:
 summary: "一种将研究证据定位为多元决策资源之一的实践取向，主张以专业判断为核心枢纽，情境化整合研究证据、系统数据与课堂数据，并依托榜样领导、专有排程与全系统知识动员推进高质量证据使用与教育改进"
 type: concept
 domain: "educational-policy-reform"
-related_count: 95
+related_count: 96
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -123,7 +123,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-01"
-updated: 2026-10-09
+updated: 2026-10-14
 ---
 
 # Evidence-Informed Practice

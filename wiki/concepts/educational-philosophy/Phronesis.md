@@ -9,7 +9,7 @@ aliases:
 summary: "源自亚里士多德实践哲学的核心认识论概念；指在特定道德、教育与工程情境中，个体超越机械规则与算法推演，权衡复杂变量并做出适切行动决断的实践智慧，涵盖课程审议、教师临床判断与产线实验排障手感。"
 type: concept
 domain: "educational-philosophy"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-10-08
+updated: 2026-10-14
 ---
 
 # Phronesis（实践明智 / 实践智慧）

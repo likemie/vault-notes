@@ -5,7 +5,7 @@ aliases:
 summary: "Pierre Bourdieu 的核心概念，指个体在长期社会经验中形成并具身化的稳定行为倾向系统，用于解释实践选择、判断方式和阶层再生产。"
 type: concept
 domain: "sociology-of-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-09-22
+updated: 2026-10-14
 ---
 
 # Habitus

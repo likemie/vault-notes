@@ -9,7 +9,7 @@ aliases:
 summary: "大学研究成果与前沿工业创新转化为商业应用与产业扩散的过程。除以 Bayh-Dole Act 为核心的专利排他许可与 TTO 商业化路径外，战后信息技术体系亦证实了公共领域开源披露、强制第二供应商工艺诀窍转移与科研人才跨界流动的决定性作用；当代科技政策进一步依托合作研发协议（CRADA）与其它交易授权（OTA）推动敏捷化与统一许可框架，将技术转移锚定于国家技术主权与本土制造能力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 62
+related_count: 67
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -95,7 +95,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-12
+updated: 2026-10-14
 ---
 
 # Technology Transfer

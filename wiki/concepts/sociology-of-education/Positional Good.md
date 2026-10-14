@@ -10,10 +10,10 @@ aliases:
 summary: "由弗雷德·赫希（Fred Hirsch）提出、教育社会学广泛应用的核心概念。指其价值主要取决于个体相对于其他社会成员的排他性占有程度，而非其绝对效用或物质属性的商品；在教育领域中，高阶文凭与名校排位作为位置性商品，其社会供应总量受到客观结构的严格限制，个体竞相投资教育的理性行为在宏观上导致文凭通胀、中产焦虑与社会零和博弈。"
 type: concept
 domain: "sociology-of-education"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept
   - sociology-of-education

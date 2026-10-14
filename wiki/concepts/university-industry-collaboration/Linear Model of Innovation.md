@@ -6,7 +6,7 @@ aliases:
 summary: "一种预设从基础科学到技术开发再到经济增长单向因果链的概念模型；战后主导科技政策资源配置，后因忽视反馈机制、轻视工程发明的前提使能地位以及导致本土制造脱节而遭受系统性批判。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-08
+updated: 2026-10-14
 ---
 
 # Linear Model of Innovation

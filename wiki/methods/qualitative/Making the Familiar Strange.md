@@ -8,9 +8,9 @@ summary: "Delamont (1981) 提出的民族志研究策略，通过研究非典型
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
   - paradigm/qualitative
@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-07
+updated: 2026-10-14
 ---
 
 # Making the Familiar Strange

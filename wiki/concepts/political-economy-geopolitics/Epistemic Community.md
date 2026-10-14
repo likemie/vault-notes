@@ -9,10 +9,10 @@ aliases:
 summary: "由彼得·哈斯（Peter Haas）界定、国际关系与公共政策学广泛使用的治理概念。指享有共同核心原则、因果信念、效度检验标准及政策关切的跨国专业专家网络；在缺乏超国家法律强制力与金融借贷制裁手段的情境下，跨国组织通过凝聚认知共同体确立知识霸权与议程设置权，成为远处掌舵的专业话语支柱。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 27
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept
   - international-relations

@@ -9,7 +9,7 @@ aliases:
 summary: "由一群围绕共同关注的问题、事业或追求，通过持续而规律的社会交往与共享实践，共同深化专业知识并逐步建构专业身份认同的社会化协作群体。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-07
+updated: 2026-10-14
 ---
 
 # Communities of Practice

@@ -10,7 +10,7 @@ aliases:
 summary: "指由地理邻近的企业、大学、科研机构与地方政府在特定次国家区域内构成的互动学习网络，依赖面对面交流、隐性知识扩散与地方制度厚度培育差异化区域竞争优势。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-09
+updated: 2026-10-14
 ---
 
 # Regional Innovation System

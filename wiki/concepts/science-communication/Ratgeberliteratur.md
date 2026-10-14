@@ -11,7 +11,7 @@ aliases:
 summary: "面向基础教育一线教师发行的商业化教学实务指南、备课手册与行业期刊，具备极高的实践使用率与即时操作性，但普遍缺乏实证审查并成为教育神经神话与非科学经验的关键传播载体"
 type: concept
 domain: "science-communication"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-10-14
 ---
 
 # Ratgeberliteratur

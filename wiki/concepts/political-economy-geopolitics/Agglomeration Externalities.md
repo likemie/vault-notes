@@ -8,7 +8,7 @@ aliases:
 summary: "地理空间上高密度集聚的产业与研发集群所内生的正向经济溢出效应，由共享专业劳动力池、投入品供应商网络及隐性技术知识外溢三大马歇尔微观机制驱动；在现代产业政策与高科技竞争视角下，集聚外部性构成半导体产业极端地理集中的经济学动因，而追求地缘安全与供应链分散化的政策干预将显著稀释集聚红利并推高长期制造成本。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-09
+updated: 2026-10-14
 ---
 
 # Agglomeration Externalities

@@ -9,7 +9,7 @@ aliases:
 summary: "由大学、企业、政府、供应链供应商、中介机构与资本市场通过多维网络互动共同催化、转化与扩散创新的复合自组织系统；具有基于地点与全球网络两种形态，其演进依赖于基础科研锚点、需求侧采购拉动、纵向供应链协同与开放知识产权环境。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 102
+related_count: 103
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -131,7 +131,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-12
+updated: 2026-10-14
 ---
 
 # Innovation Ecosystem

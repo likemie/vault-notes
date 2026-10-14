@@ -6,14 +6,14 @@ aliases:
 summary: "Lamont 的概念，指通过赋予行为、品味和价值观以道德含义来划分我们与他们的区隔机制，被郑雅君用于高等教育微观习性分析，被 Yu & Zhao 用于国家课程宏观官方知识分析"
 type: concept
 domain: "sociology-of-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
 confidence: high
 status: active
 created: '2026-05-08'
-updated: 2026-10-07
+updated: 2026-10-14
 tags:
   - symbolic-boundary
   - cultural-sociology

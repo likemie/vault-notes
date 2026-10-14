@@ -12,10 +12,10 @@ aliases:
 summary: "多家企业作为会员共同出资支持大学或多机构前竞争研究、成果由会员共享或保留优先许可权的制度安排；通过汇聚分散科研预算、建立出资用户导向的问责机制与产学导师互动，平衡高校学术自由与产业长周期技术需求，并防范单一企业垄断或 IP 毒丸困境。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/university-industry-collaboration
   - theme/innovation
@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-10-07
+updated: 2026-10-14
 ---
 
 # Membership-based Research Consortium

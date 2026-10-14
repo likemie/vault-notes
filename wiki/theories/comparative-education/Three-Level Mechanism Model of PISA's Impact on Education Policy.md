@@ -6,7 +6,7 @@ aliases:
 summary: "Li, Xue & Guo (2025) 提出的理论模型，将 PISA 对各国教育政策的影响机制分为超国家、国家层面和内部行动者网络三个层级，强调全球教育场域中的双向互动"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 26
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -53,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-05
-updated: 2026-10-07
+updated: 2026-10-14
 ---
 
 # Three-Level Mechanism Model of PISA's Impact on Education Policy

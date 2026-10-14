@@ -9,7 +9,7 @@ title: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_key: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_display_title: "Evolution of University-Industry Relationships for Driving Innovation"
 argument_kind: "book"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"

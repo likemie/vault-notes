@@ -10,7 +10,7 @@ summary: "源自人类学与社会学的质性研究设计，要求研究者在�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 63
+method_related_count: 64
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -91,7 +91,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-30
-updated: 2026-10-09
+updated: 2026-10-14
 ---
 
 # Ethnography

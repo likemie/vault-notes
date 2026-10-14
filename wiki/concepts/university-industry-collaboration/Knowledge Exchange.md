@@ -6,7 +6,7 @@ aliases:
 summary: "大学与产业、政府及广泛社会之间通过多元双向机制进行知识流动的交互过程。涵盖合同研究、人员流动、联合研发、设施共享及隐性知识外溢，超越了传统单向线性的技术转移范式；在产业政策与创新地理视角下，知识交流高度依赖高密度专业劳动力池与实体集聚外部性。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-10-05
+updated: 2026-10-14
 ---
 
 # Knowledge Exchange

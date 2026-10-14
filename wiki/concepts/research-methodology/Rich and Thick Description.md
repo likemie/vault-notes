@@ -11,7 +11,7 @@ aliases:
 summary: "Geertz 提出的质性研究核心范畴，要求超越行为表面物理记录，将行动嵌入完整社会文化脉络，囊括意义、主观诠释与不可观察的情境要素，使读者获得现场共鸣并支持自然主义概括。"
 type: concept
 domain: "research-methodology"
-related_count: 58
+related_count: 59
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -89,7 +89,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-10-09
+updated: 2026-10-14
 ---
 
 # Rich and Thick Description

@@ -9,7 +9,7 @@ aliases:
 summary: "指个体在正式获得合格教师资格（QTS）并独立执教前所接受的系统性专业职前准备阶段，涵盖大学本位培养、校本学徒制及混合临床实践模式"
 type: concept
 domain: "educational-policy-reform"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-07
+updated: 2026-10-14
 ---
 
 # Initial Teacher Training

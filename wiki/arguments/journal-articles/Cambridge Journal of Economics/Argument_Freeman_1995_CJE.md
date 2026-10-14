@@ -77,7 +77,7 @@ title: "Argument_Freeman_1995_CJE"
 argument_key: "Argument_Freeman_1995_CJE"
 argument_display_title: "The 'National System of Innovation' in historical perspective"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"

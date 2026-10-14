@@ -7,7 +7,7 @@ aliases:
 summary: "质性研究的核心公理之一：研究者自身是数据收集和解释的首要工具，其适应性、反应性和默会知识使其优于标准化工具，但这也要求高度反身性来管理研究者效应。"
 type: concept
 domain: "research-methodology"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-08
+updated: 2026-10-14
 ---
 
 # Researcher as Key Instrument

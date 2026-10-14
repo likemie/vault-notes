@@ -10,7 +10,7 @@ aliases:
 summary: "以改善学生学业与福祉为共享愿景、依托合作探究与反思性对话深化教学实践并制度化研读转化外部证据的学校协同组织形态。"
 type: concept
 domain: "teacher-education"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -80,7 +80,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-14
-updated: 2026-10-09
+updated: 2026-10-14
 ---
 
 # Professional Learning Community

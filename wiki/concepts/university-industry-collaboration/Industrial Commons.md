@@ -7,7 +7,7 @@ aliases:
 summary: "区域与国家创新体系中由密集的供应商网络、熟练技师劳动力、共享研发与测试设施以及代际沉淀的默会过程知识共同构成的集体产业生态基础设施；强调研发无法脱离实体制造而长期孤立繁荣，制造业公地的萎缩将导致底层工程设计能力退化与前沿技术外溢。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-10
+updated: 2026-10-14
 ---
 
 # Industrial Commons

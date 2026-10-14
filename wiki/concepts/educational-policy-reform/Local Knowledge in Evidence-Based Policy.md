@@ -6,7 +6,7 @@ aliases:
 summary: "从业者对本地情境、关系网络和实际约束的深入了解，用于说明证据本位政策实施为何离不开地方知识和专业判断。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -52,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-09-22
+updated: 2026-10-14
 ---
 
 ## 定义

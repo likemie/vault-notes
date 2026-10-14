@@ -13,7 +13,7 @@ summary: "Harré & Secord 提出的社会行为质性研究方法论，秉持“
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 35
+method_related_count: 36
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-22
-updated: 2026-10-08
+updated: 2026-10-14
 ---
 
 # Ethogenic Approach

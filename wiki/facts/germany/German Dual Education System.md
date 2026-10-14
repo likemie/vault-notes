@@ -13,9 +13,9 @@ subtype: system
 region: germany
 fact_region: "germany"
 fact_kind: "system"
-fact_related_count: 14
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 28
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#e5e7eb"
 period: "1969–至今"
 initiator_organization: 联邦职业教育研究所（Bundesinstitut für Berufsbildung, BIBB）与联邦经济及劳动部门
@@ -63,7 +63,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-06-05
-updated: 2026-10-12
+updated: 2026-10-14
 ---
 
 # German Dual Education System

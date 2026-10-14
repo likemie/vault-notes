@@ -7,7 +7,7 @@ aliases:
 summary: "由Stenhouse开创并经复杂性理论深化的教育研究范式，主张教师从知识消费者转向自身实践的知识生产者，在复杂自组织教育生态中与外部研究者形成共生探究网络。"
 type: concept
 domain: "teacher-education"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -64,7 +64,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-07-19
-updated: 2026-10-08
+updated: 2026-10-14
 ---
 
 # Teacher-as-Researcher
