@@ -9599,6 +9599,16 @@
     ]
   },
   {
+    "title": "Multilateral Surveillance",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Multilateral Surveillance.md",
+    "aliases": [
+      "多边监督",
+      "多边监控",
+      "multilateral surveillance in governance"
+    ]
+  },
+  {
     "title": "National Competitive Advantage",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/National Competitive Advantage.md",
@@ -9700,6 +9710,16 @@
       "寒鸦啄序",
       "Dominance Hierarchy",
       "啄食顺序"
+    ]
+  },
+  {
+    "title": "Peer Pressure",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Peer Pressure.md",
+    "aliases": [
+      "同行压力",
+      "同侪压力",
+      "peer pressure in policy governance"
     ]
   },
   {
@@ -29698,6 +29718,18 @@
       "世界发展指标",
       "世界发展指标库",
       "World Development Indicators database"
+    ]
+  },
+  {
+    "title": "World Education Indicators",
+    "type": "fact",
+    "path": "wiki/facts/global/World Education Indicators.md",
+    "aliases": [
+      "世界教育指标",
+      "世界教育指标项目",
+      "WEI",
+      "World Education Indicators Programme",
+      "World Education Indicators Project"
     ]
   },
   {

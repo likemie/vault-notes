@@ -26,6 +26,7 @@ tags:
   - theme/global-governance
 related_concepts:
   - "[[Policy Brokerage]]"
+  - "[[Peer Pressure]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Constructivist Paradigm]]"
   - "[[Governing by Numbers]]"
@@ -76,7 +77,7 @@ updated: 2026-09-24
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> GEMR 的核心假说认为：全球教育目标的实现依赖于基于硬事实的“公开透明问责机制”；通过中立、严谨的跨国多学科实证综合，每年选定一个影响全局的战略议题进行深度解剖，能够穿透主权政府的官僚修辞掩饰，以跨国同侪压力与公民社会监督促成实质性的国家政策法律修订与财政预算重组。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541, 544)]]
+> GEMR 的核心假说认为：全球教育目标的实现依赖于基于硬事实的“公开透明问责机制”；通过中立、严谨的跨国多学科实证综合，每年选定一个影响全局的战略议题进行深度解剖，能够穿透主权政府的官僚修辞掩饰，以跨国[[Peer Pressure|同侪压力]]与公民社会监督促成实质性的国家政策法律修订与财政预算重组。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541, 544)]]
 
 > [!policy-design]- 方案设计
 > - **项目目标** 定期系统追踪全球落实 [[UN Sustainable Development Goals\|SDG 4]] 的基准差距与融资赤字，剖析制约教育公平与质量的深层结构性体制障碍。

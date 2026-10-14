@@ -30,6 +30,7 @@ tags:
 related_concepts:
   - "[[Performance Indicators]]"
   - "[[Governing by Numbers]]"
+  - "[[Peer Pressure]]"
   - "[[Definition of Terms]]"
   - "[[Variable]]"
   - "[[Academic Achievement]]"
@@ -90,7 +91,7 @@ updated: 2026-09-22
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> INES 的核心运行假说认为：跨国教育治理无法依赖抽象的人道宣言或强制性的主权法令，而必须通过“[[Governing by Numbers\|数字治理]]”将各国教育现实翻译为跨国通用的标准化数值；跨国横向比较能够构成促进国内教育变革的最强引擎，促使成员国在“警示指标”与同侪压力下自愿重组国家教育体制。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 6–8)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
+> INES 的核心运行假说认为：跨国教育治理无法依赖抽象的人道宣言或强制性的主权法令，而必须通过“[[Governing by Numbers\|数字治理]]”将各国教育现实翻译为跨国通用的标准化数值；跨国横向比较能够构成促进国内教育变革的最强引擎，促使成员国在“警示指标”与[[Peer Pressure|同侪压力]]下自愿重组国家教育体制。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 6–8)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 
 > [!policy-design]- 方案设计
 > - **项目目标** 收集、加工、改进与发布教育及相关领域的国际统计指标（Bottani, 1996, p. 279），为成员国决策者提供如同汽车仪表盘般直观的宏观预警信号。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 8)]]

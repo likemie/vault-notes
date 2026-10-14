@@ -40,6 +40,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Performativity]]"
+  - "[[Space of Equivalence]]"
   - "[[Epistemology]]"
   - "[[International Education]]"
   - "[[Heterogeneity]]"
@@ -79,6 +80,7 @@ related_facts:
   - "[[PISA]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[A Nation at Risk 1983]]"
+  - "[[World Education Indicators]]"
   - "[[World Bank]]"
   - "[[UNESCO]]"
   - "[[Systems Approach for Better Education Results]]"
@@ -226,7 +228,7 @@ updated: 2026-10-13
 > 探讨超国家机构如何通过指标投入产出系统与“等价空间”技术置换国家教育公共目的。
 
 > [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]]
-> **投入产出效率对教育目的的置换与[[Reliability|信度]]优先** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，[[OECD|经合组织]]等超国家机构将绩效指标嵌入“数字政策进路”（number approach to policy work），建立专注于投入产出的评估系统。这种技术进路[[Epoché|悬置]]了关于教育目的的深层哲学辩论，将治理焦点转向决策透明度、绩效测度技术、国际基准与问责体制，使教育的有效性收敛于服务全球劳动力市场需求的经济效率（pp. 447–448）。在方法论上，跨国指标优先建构德罗西耶（Alain Desrosières, 1998）所称的“等价空间”（space of equivalence），即宁可牺牲本土情境下的[[Construct Validity|构念效度]]与[[Ontology|本体论]]深度，也要保障跨国排名的可比性与信度（p. 448）。进一步地，这一技术指标逻辑导致教育公平被狭隘化为进入教育机构的“形式机会均等”（formal access），剥离了关于实质教育正义与多元文化关系的政治辩论（Berliner, 2007; pp. 448–449）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–449)]]
+> **投入产出效率对教育目的的置换与[[Reliability|信度]]优先** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，[[OECD|经合组织]]等超国家机构将绩效指标嵌入“数字政策进路”（number approach to policy work），建立专注于投入产出的评估系统。这种技术进路[[Epoché|悬置]]了关于教育目的的深层哲学辩论，将治理焦点转向决策透明度、绩效测度技术、国际基准与问责体制，使教育的有效性收敛于服务全球劳动力市场需求的经济效率（pp. 447–448）。在方法论上，跨国指标优先建构德罗西耶（Alain Desrosières, 1998）所称的“等价空间”（[[Space of Equivalence]]），即宁可牺牲本土情境下的[[Construct Validity|构念效度]]与[[Ontology|本体论]]深度，也要保障跨国排名的可比性与信度（p. 448）。进一步地，这一技术指标逻辑导致教育公平被狭隘化为进入教育机构的“形式机会均等”（formal access），剥离了关于实质教育正义与多元文化关系的政治辩论（Berliner, 2007; pp. 448–449）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–449)]]
 
 ---
 
@@ -249,7 +251,7 @@ updated: 2026-10-13
 > - **1970s–1980s — [[OECD|经合组织]]早期教育指标探索与福利共识** OECD [[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI）赞助了一系列教育与绩效指标分析项目；这一时期的指标项目主要服务于成员国国内福利议程，体现了成员国拥有高度自主权的协商式共识决策风格（Papadopoulos, 1994; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard, 2009, p. 441]]）。
 > - **1980年代 — 冷战危机动员与“比较转向”** 1983 年美国《国家处在危险之中》（*[[A Nation at Risk 1983\|A Nation at Risk]]*）发布，直接促使联邦政府要求[[OECD\|经合组织]]（OECD）开发跨国可比教育指标，推动教育统计从国内行政记录转向国际横向对抗与排名。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 > - **1988 — [[International Indicators of Education Systems\|INES]] 项目启动与指标工业化奠基** OECD 正式设立“[[International Education\|国际教育]]指标开发项目”（INES），系统研制涵盖产出、投入与过程的三维指标体系，博塔尼（Bottani）推动确立了“不完美的数据好过没有数据”的务实政策工具主义原则。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 8)]]
-> - **1990s — 世界教育指标（WEI）项目与多边技术同盟** OECD 联手[[World Bank|世界银行]]与[[UNESCO|联合国教科文组织]]发起“世界教育指标”（World Education Indicators, WEI）项目，向转型期经济体输出比较教育数据与绩效指标技术经验；鲁特科夫斯基（Rutkowski, 2007）指出该技术援助背后深嵌着服务全球经济的新自由主义规范预设（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard, 2009, pp. 443–444]]）。
+> - **1990s — [[World Education Indicators|世界教育指标]]（WEI）项目与多边技术同盟** OECD 联手[[World Bank|世界银行]]与[[UNESCO|联合国教科文组织]]发起“世界教育指标”（World Education Indicators, WEI）项目，向转型期经济体输出比较教育数据与绩效指标技术经验；鲁特科夫斯基（Rutkowski, 2007）指出该技术援助背后深嵌着服务全球经济的新自由主义规范预设（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard, 2009, pp. 443–444]]）。
 > - **1992 — 《[[Education at a Glance\|教育概览]]》（EAG）首版与指标制度化** OECD 正式出版首部《教育概览》，标志着教育绩效指标实现年度常规化出版，确立了全球通用的比较指标标准体系。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 11)]]
 > - **2000年代 — [[PISA]] 与心理测量跨国排名的绝对统治** 博塔尼称之为“绩效指标痴迷与心理测量比较的全面胜利”，指标体系不再仅仅提供系统概况，而是演变为以标准分数排序决定国家教育优劣的全球问责机制。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 13)]]
 > - **2010年代 — 区域记分牌与多边排他性同盟分化** 欧盟通过 EUROSTAT 推广区域创新记分牌（[[Regional Innovation System\|RIS]]）；[[World Bank\|世界银行]]则在华盛顿总部开发“[[Systems Approach for Better Education Results\|改善教育成果系统分析法]]”（SABER），各多边巨头发展出自成体系的指标数据库并借此结成排他性政策同盟。[[Argument_Rambla_2022_Springer\|(Rambla, 2022, pp. 169–170)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]

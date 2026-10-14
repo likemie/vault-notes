@@ -25,6 +25,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Homework]]"
   - "[[Intellectual Capital]]"
+  - "[[Peer Pressure]]"
 related_theories:
   - "[[Techno-economic Paradigm]]"
   - "[[Evolutionary Economics]]"
@@ -144,7 +145,7 @@ updated: 2026-10-08
 > > 围绕精益生产究竟提升了工人自主性还是加剧了劳动强度的争论。
 > >
 > > - **赋权学派（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）** 认为精益生产打破了福特制将工人视为单纯工具的异化，鼓励工人自主参与技术改进、提供合理化建议并掌握复合工种技能，极大地提升了基层[[Intellectual Capital|智力资本]]。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 18)]]
-> > - **批判社会学派** 指出准时制消除了车间一切库存缓冲，导致生产节拍极度紧张，工人在“持续改进”的同侪压力下承受更高的心理压力与劳动消耗。
+> > - **批判社会学派** 指出准时制消除了车间一切库存缓冲，导致生产节拍极度紧张，工人在“持续改进”的[[Peer Pressure|同侪压力]]下承受更高的心理压力与劳动消耗。
 
 > [!warning] 适用局限
 > 精益生产高度依赖准时稳定的外部物流交通网络与稳定的劳资信任契约；在面对重大不可抗力供应链断裂、地缘政治封锁或极端剧烈波动的非标定制需求时，极低库存可能降低整个产业系统的抗风险韧性。

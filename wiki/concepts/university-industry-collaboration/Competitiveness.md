@@ -48,6 +48,7 @@ related_concepts:
   - "[[Pilot Scale Platform]]"
   - "[[Permissionless Innovation]]"
   - "[[Process Knowledge]]"
+  - "[[Multilateral Surveillance]]"
   - "[[Technological Republic]]"
   - "[[Research Universities]]"
   - "[[Paradigm]]"
@@ -190,7 +191,7 @@ updated: 2026-10-13
 > - **跨学科中心化组织与前竞争联合体（Interdisciplinary Consortia & Centers）** 突破传统院系系所割裂，以大学研究中心与公私联合体统筹跨行业共性重资产风险。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004)]]
 > - **排名与指标化作为竞争基础设施（Metric Infrastructure & Rankings）** 排名量化指标主动生产差异，将全球竞争想象下沉至大学与学者日常行为。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, p. 220)]]
 > - **以人为本的产线工程组织学习（Human-Centered Engineering Learning）** 强调微观制造竞争力源于一线技术人员的[[Process Knowledge|过程知识]]与快速排障，而非单纯依赖硬件机械自动化。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 117–118)]]
-> - **全球跨国对标与多边监测机制（Multilateral Surveillance & International Benchmarking）** 在新自由主义[[Social Imaginary|社会想象]]下，国家竞争力被假定为直接取决于由国际标准衡量的教育与培训系统质量（Brown et al., 1997）；[[OECD]] 等国际组织通过 [[PISA]] 与量化指标实施多边监测，促使各国依据国际排位调整本国教育投资与课程结构，将教育全面工具化为服务于国家经济竞争力的关键杠杆。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–445, 447)]]
+> - **全球跨国对标与多边监测机制（[[Multilateral Surveillance]] & International Benchmarking）** 在新自由主义[[Social Imaginary|社会想象]]下，国家竞争力被假定为直接取决于由国际标准衡量的教育与培训系统质量（Brown et al., 1997）；[[OECD]] 等国际组织通过 [[PISA]] 与量化指标实施多边监测，促使各国依据国际排位调整本国教育投资与课程结构，将教育全面工具化为服务于国家经济竞争力的关键杠杆。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–445, 447)]]
 
 > [!logic-map]- 竞争力多层治理与传导逻辑图
 > ```mermaid
@@ -336,7 +337,7 @@ updated: 2026-10-13
 > 探讨全球化与新自由主义[[Social Imaginary|社会想象]]如何将国家经济竞争力直接绑定于由跨国标准衡量的教育系统质量，从而重塑主权国家的元政策目标。
 
 > [!claim] Brown et al. (1997); [[Fazal Rizvi|Rizvi, F.]] and [[Bob Lingard|Lingard, B.]] (2009)
-> **教育系统质量被建构为决定国家全球经济竞争力的本体前提** 布朗等人（Brown, Halsey, Lauder, & Stuart Wells, 1997）指出，在新自由主义全球化范式下，国家间经济竞争的基础发生了根本性转移：一个国家的经济繁荣与财富创造，被普遍假定为直接取决于其国家教育与培训系统的质量，且这种质量必须依据国际通行的客观标准加以衡量。法扎尔·里兹维（Fazal Rizvi）与鲍勃·灵格德（Bob Lingard）进一步论证，[[OECD|经合组织]]（OECD）正是这一社会想象的核心构建者与推动者；通过推行 [[PISA]] 国际联赛排位与“[[Education at a Glance|教育概览]]”指标体系，OECD 实施了高度精密的多边监测（multilateral surveillance）。这种机制迫使主权国家将自身教育成效置于全球横向对标之中，导致国家教育政策被全面重构为服务于全球经济竞争力的工具，深层挤压了教育在培养批判公民、促进社会公平与维系民主凝聚力方面的传统[[Public Value|公共价值]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–445, 447)]]
+> **教育系统质量被建构为决定国家全球经济竞争力的本体前提** 布朗等人（Brown, Halsey, Lauder, & Stuart Wells, 1997）指出，在新自由主义全球化范式下，国家间经济竞争的基础发生了根本性转移：一个国家的经济繁荣与财富创造，被普遍假定为直接取决于其国家教育与培训系统的质量，且这种质量必须依据国际通行的客观标准加以衡量。法扎尔·里兹维（Fazal Rizvi）与鲍勃·灵格德（Bob Lingard）进一步论证，[[OECD|经合组织]]（OECD）正是这一社会想象的核心构建者与推动者；通过推行 [[PISA]] 国际联赛排位与“[[Education at a Glance|教育概览]]”指标体系，OECD 实施了高度精密的多边监测（[[Multilateral Surveillance]]）。这种机制迫使主权国家将自身教育成效置于全球横向对标之中，导致国家教育政策被全面重构为服务于全球经济竞争力的工具，深层挤压了教育在培养批判公民、促进社会公平与维系民主凝聚力方面的传统[[Public Value|公共价值]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–445, 447)]]
 
 ---
 

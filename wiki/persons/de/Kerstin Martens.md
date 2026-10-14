@@ -28,6 +28,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Governing by Numbers]]"
   - "[[Policy Brokerage]]"
+  - "[[Peer Pressure]]"
   - "[[Façade of Rationality]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Scaffolding]]"
@@ -101,7 +102,7 @@ updated: 2026-10-08
 >   - **阶段转向** 从民间社会的自下而上游说转向政府间国际组织（尤其是 [[OECD]]）自上而下的政策渗透与软治理机制。
 > - **2010–2018 — 经合组织的软治理与“硬[[Soft Power by Hard Facts\|事实软实力]]”框架** 创立“以硬事实施展[[Soft Power\|软权力]]”理论体系，系统解构经合组织如何凭借 [[PISA]] 与比较指标改变成员国内部改革议程。
 >   - **代表著作** *Mechanisms of OECD Governance* (Oxford, 2010); *Soft Power by Hard Facts* (CER, 2013)。
->   - **关键概念／方法** [[Soft Power by Hard Facts]]、Peer Pressure、[[PISA]]。
+>   - **关键概念／方法** [[Soft Power by Hard Facts]]、[[Peer Pressure]]、[[PISA]]。
 >   - **阶段转向** 从单一聚焦 OECD 转向对全球所有涉足教育事务的 30 余个政府间组织的系统量化实证普查。
 > - **2019年至今 — 全球社会政策动态与[[Education-for-Mandates\|使命性教育嵌入]]** 构建 IO-ED 数据库，揭示大量经济、安全与政治组织如何将教育作为服务其核心使命的工具性载体跨界介入。
 >   - **代表著作** *Education in IO Mandates* (2024); *[[Governing by Numbers\|governance by numbers]] 2.0* (Comparative Education, 2024)。
