@@ -456,7 +456,7 @@ PISA除了测试核心认知能力外，还通过庞大的[[Questionnaire|问卷
 > [!contrast-table] 经合组织教育范式演进的历史总决算（据 Rizvi & Lingard, 2009, pp. 450–452）
 > | 核心维度 | [[George Papadopoulos\|帕帕多普洛斯]]战后时期（1960–1990） | 知识经济全球化时期（1990年代中期后） |
 > |---|---|---|
-> | **教育的根本性质** | **纯粹[[Public Good\|公共物品]]（Public Good）**<br>认为唯有社区每个成员都享有充分平等的教育，社会才能获得最大福祉。 | **公私混合与[[Positional Good\|位置性商品]]（Public and Private / Positional Good）**<br>对国家而言是经济增长的公共投资，对个人而言是在劳动力市场争夺相对排位的[[Positional Good\|位置性商品]]与竞争筹码。 |
+> | **教育的根本性质** | **纯粹公共物品（Public Good）**<br>认为唯有社区每个成员都享有充分平等的教育，社会才能获得最大福祉。 | **公私混合与[[Positional Good\|位置性商品]]（Public and Private / Positional Good）**<br>对国家而言是经济增长的公共投资，对个人而言是在劳动力市场争夺相对排位的[[Positional Good\|位置性商品]]与竞争筹码。 |
 > | **培育的核心主体** | **具有批判能力的民主公民**<br>（Critically Informed Productive Citizens）能够以知情方式参与公共民主事务。 | **具有弹性的知识劳动力**<br>具备读写算基础、掌握信息技术、富有创业创新精神且能在多元文化中承压运作。 |
 > | **系统效率衡量标准** | 教育能否保障平等机会并促进社会内部的阶层流动与凝聚力 | 教育能否带来足够的投资回报率（Return on Investment, ROI）与生产率增长 |
 > | **国际组织扮演角色** | **包容多元立场的协商平台**<br>（A Unique Forum）各主权国自愿平等参与政策研讨。 | **主导全球治理的跨国行动者**<br>（A Policy Actor in Its Own Right）依靠数据指标与话语霸权远程掌舵。

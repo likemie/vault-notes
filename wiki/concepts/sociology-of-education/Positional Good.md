@@ -83,7 +83,7 @@ updated: 2026-10-14
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 本概念（Positional Good） | [[Public Good\|公共物品]] | [[Credential Inflation\|文凭通货膨胀]] | [[Zero-Sum Competition\|零和竞争]] |
+> | 维度 | 本概念（Positional Good） | 公共物品（Public Good） | [[Credential Inflation\|文凭通货膨胀]] | [[Zero-Sum Competition\|零和竞争]] |
 > |---|---|---|---|---|
 > | **分析对象** | 依赖相对稀缺性与等级排位的社会与文化资源 | 具有非竞争性与非排他性的公共福祉与制度环境 | 学历过度供给导致文凭交换价值在市场中的缩水现象 | 一方所得必然导致他方所失的互动信念或结构博弈 |
 > | **核心机制** | 相对排位决定效用；绝对扩张引发价值被稀释 | 普遍惠及全体社会成员；边际消费成本为零 | 文凭门槛水涨船高，强制个体追加防守性教育投资 | 资源总额客观固化，博弈参与者陷入对抗性内耗 |
@@ -94,8 +94,8 @@ updated: 2026-10-14
 ## 核心要素
 
 > [!feature] 核心要素
-> - **结构性稀缺（Structural Scarcity）** 位置性商品的顶层配额受到客观社会结构的绝对约束，无论技术和生产力如何发达，社会中“顶尖 1%”的精英席位与决策岗位永远无法无限量复制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 451)]]
-> - **相对位次依赖（Relational Valuation & Queuing）** 个体从文凭中获得的经济收益与社会声望，并不取决于其掌握的具体知识技能绝对值，而取决于其在劳动力市场筛选队列中是否领先于其他求职者。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 451)]]
+> - **结构性稀缺（Structural Scarcity）** 位置性商品的顶层配额受到客观社会结构的绝对约束，无论技术和生产力如何发达，社会中“顶尖 1%”的精英席位与决策岗位永远无法无限量复制。
+> - **相对位次依赖（Relational Valuation & Queuing）** 个体从文凭中获得的经济收益与社会声望，并不取决于其掌握的具体知识技能绝对值，而取决于其在劳动力市场筛选队列中是否领先于其他求职者。
 > - **合成谬误与内耗博弈（Fallacy of Composition）** 当所有个体都采取“增加教育投资以提升相对优势”的理性行动时，宏观结果并非所有人都实现阶层跃升，而是整个文凭基准线被整体抬高，个人重回原点。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 446)]]
 > - **防御性教育支出（Defensive Investment）** 家长与学生追求高阶教育的主要动机，往往不再是出于知识本身的纯粹热爱，而是为了防止在位置性队列中向下坠落所被迫进行的自保型投资。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 451)]]
 
