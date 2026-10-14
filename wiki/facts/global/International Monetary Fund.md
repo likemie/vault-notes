@@ -10,10 +10,10 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 22
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
-fact_related_color: "#99f6e4"
+fact_related_count: 14
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dcfce7"
 org_type: multilateral-financial-institution
 headquarters: "华盛顿特区（美国）"
 established: "1944"
@@ -26,21 +26,16 @@ tags:
   - theme/multilateral-development-banks
   - region/global
 related_concepts:
-  - "[[Disciplina and Doctrina]]"
-  - "[[Liberalization]]"
+  - "[[Washington Consensus]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Class Size]]"
   - "[[Attrition]]"
   - "[[Shadow State]]"
   - "[[State Educational Sovereignty]]"
-  - "[[Structural Adjustment Programs]]"
-  - "[[Educational Multilateralism]]"
   - "[[Multilateral Development Bank]]"
-  - "[[Washington Consensus]]"
   - "[[Policy Conditionalities]]"
-related_theories:
-  - "[[World-Systems Theory]]"
-  - "[[Human Capital Theory]]"
-  - "[[Conditioned State Theory]]"
+  - "[[Educational Multilateralism]]"
+related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:

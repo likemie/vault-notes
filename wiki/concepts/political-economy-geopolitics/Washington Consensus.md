@@ -7,7 +7,7 @@ aliases:
 summary: "约翰·威廉姆森于1989年提出的宏观经济改革准则，最初由华盛顿多边金融机构与美国政策圈达成，聚焦财政赤字控制、公共开支重构、税制改革与贸易自由化；后渗透至多边开发银行教育借贷，衍生出涵盖循证政策、成本核算、量化指标、效率优先、精英择优、市场竞争、取消补贴与私有化的审查信条，但在官僚放贷实践中常陷入形式主义合规。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,24 +19,13 @@ tags:
   - educational-governance
   - world-bank
 related_concepts:
-  - "[[Multilateral Development Bank]]"
-  - "[[Knowledge Bank]]"
-  - "[[Policy Conditionalities]]"
   - "[[Structural Adjustment Programs]]"
-  - "[[Operationalization]]"
-  - "[[Strategic Compliance]]"
-  - "[[Development Education]]"
-related_theories:
-  - "[[Human Capital Theory]]"
-  - "[[World-Systems Theory]]"
-  - "[[Conditioned State Theory]]"
-  - "[[Organizational Culture]]"
-related_methods:
-  - "[[Comparative Case Study]]"
-  - "[[Documentary Analysis]]"
+  - "[[Multilateral Development Bank]]"
+  - "[[Policy Conditionalities]]"
+related_theories: []
+related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Robert Arnove]]"
+related_persons: []
 related_facts:
   - "[[World Bank]]"
   - "[[International Monetary Fund]]"
