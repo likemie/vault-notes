@@ -39,6 +39,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Paradigm]]"
   - "[[Curriculum as Product]]"
+  - "[[Tacit Knowledge]]"
   - "[[Problem Solving]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -213,7 +214,7 @@ updated: 2026-10-08
 > | [[Praxis]] | Concept | 实践明智所指导的具有道德伦理反思与变革意义的人类行动。 |
 > | [[Curriculum as Product]] | Concept | 以制作技术（Techne）和行为目标控制为导向的对立课程范式。 |
 > | [[Theory of Knowledge]] | Concept | 依托师生实践明智开展辩证审议与价值权衡的代表性跨学科课程。 |
-> | [[Process Knowledge]] | Concept | 实践智慧在工程制造与科学实验领域中的具体默会知识形态。 |
+> | [[Process Knowledge]] | Concept | 实践智慧在工程制造与科学实验领域中的具体[[Tacit Knowledge\|默会知识]]形态。 |
 > | [[Engineering Education]] | Concept | 致力于培养具备工程科学基础与现场动手排障实践智慧的专门教育范式。 |
 > | [[Problem Solving]] | Concept | 实践智慧在面对现实劣构阻碍时开展非算法即兴决策的具体心智表征。 |
 > | [[Aristotle]] | Person | 古希腊哲学集大成者，首次提出并系统界定实践明智的哲学宗师。 |

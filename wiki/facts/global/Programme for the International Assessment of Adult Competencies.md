@@ -32,6 +32,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Further Education]]"
   - "[[Educational Level]]"
+  - "[[Tacit Knowledge]]"
   - "[[Ecological Validity]]"
   - "[[Paradigm]]"
   - "[[Policy Brokerage]]"
@@ -147,7 +148,7 @@ updated: 2026-09-18
 > > [!axis] 测验情境脱嵌与文化阶层偏差
 > > 心理测量学与社会语言学者质疑标准化测题对边缘阶层的测量效度。
 > >
-> > - **[[Qualitative Research\|质性研究]]批评** 指出平板电脑自适应测验在本质上带有极强的城市中产阶级生活习惯印记，蓝领工人和移民劳工在非正规劳动中磨练的复杂实践默会知识被标准化考题完全抹杀。
+> > - **[[Qualitative Research\|质性研究]]批评** 指出平板电脑自适应测验在本质上带有极强的城市中产阶级生活习惯印记，蓝领工人和移民劳工在非正规劳动中磨练的复杂实践[[Tacit Knowledge|默会知识]]被标准化考题完全抹杀。
 > > - **测量专家反驳** 说明题目均取材于报纸招聘、药物说明书等全社会无差别接触的日常工具文本，具有高度[[Ecological Validity\|生态效度]]。
 
 > [!lessons] 经验教训与启示

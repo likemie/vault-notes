@@ -41,6 +41,7 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Reliability]]"
   - "[[Indexicality]]"
+  - "[[Tacit Knowledge]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Ecological Validity]]"
   - "[[Construct Validity]]"
@@ -148,7 +149,7 @@ FIAC 生成的互动数据可通过 10×10 矩阵计算核心教学指标：
 
 > [!critique] 质性诠释学与常人方法学的批判要点
 > - **行为与行动的范畴混淆** FIAC 仅能记录外在、机械的肢体与发音物理“行为（behavior）”，彻底丧失了理解承载行动者主观意图、情感体验与价值建构的“行动（action）”的能力。
-> - **脱域处理摧毁情境[[Indexicality\|索引性]]** 语言的意义必须依赖于互动历史与默会知识；FIAC 强行将连续的话语切碎为脱离情境的 3 秒数字代号，导致研究者面对代码串产生“认知盲目”。
+> - **脱域处理摧毁情境[[Indexicality\|索引性]]** 语言的意义必须依赖于互动历史与[[Tacit Knowledge|默会知识]]；FIAC 强行将连续的话语切碎为脱离情境的 3 秒数字代号，导致研究者面对代码串产生“认知盲目”。
 > - **非言语沟通的完全盲视** FIAC 仅记录有声语言，对于眼神交流、微表情、手势姿态、肢体距离等在课堂互动中往往承担超过一半信息载荷的非言语系统缺乏任何捕捉能力。
 
 ### 适用场景与边界

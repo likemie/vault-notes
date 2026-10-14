@@ -38,6 +38,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Research Translation]]"
   - "[[Policy Window]]"
+  - "[[Tacit Knowledge]]"
   - "[[Research Topic]]"
   - "[[Causality]]"
   - "[[Internal Validity]]"
@@ -332,7 +333,7 @@ Nutley et al. (2002) 进一步提出了[[Nutley's Four-Dimension Framework for R
 要从根本上化解教育研究者的政策参与壁垒，绝不能仅仅依靠个别学者的偶然热情，而必须依赖系统化的制度化培育通道（pp.46–47）：
 
 > [!proc] 促进学者深度介入宏观立法的制度通道
-> 1. **全职浸润式的科学研究员机制** [[American Association for the Advancement of Science\|美国科学促进会]]（AAAS）与[[American Educational Research Association\|美国教育研究学会]]（AERA）联合资助的[[AERA Congressional Fellowship Program\|国会政策研究员计划]]，选拔学者深入国会山开展为期一年的全职幕僚工作。实践表明，这种在实践中学习的全职沉浸机制具有深远效能：它有效消除学者对政治运作的刻板印象，使学者掌握了政策世界的隐性知识与语言密码。入选学者在结束任期后展现出多元的制度辐射力：部分学者选择留在联邦行政机构（如 IES 或国家科学基金会 [[National Science Foundation\|NSF]]）执掌科研资助指南与优先领域设定；部分成为国会委员会常设专业主任；部分加入智库与倡导团体；而返回高校的学者则深刻重构了自身的[[Research Topic\|研究选题]]视野，并在博士生培养中系统强化了科学传播与政策敏锐度训练。（pp.46–47）
+> 1. **全职浸润式的科学研究员机制** [[American Association for the Advancement of Science\|美国科学促进会]]（AAAS）与[[American Educational Research Association\|美国教育研究学会]]（AERA）联合资助的[[AERA Congressional Fellowship Program\|国会政策研究员计划]]，选拔学者深入国会山开展为期一年的全职幕僚工作。实践表明，这种在实践中学习的全职沉浸机制具有深远效能：它有效消除学者对政治运作的刻板印象，使学者掌握了政策世界的[[Tacit Knowledge|隐性知识]]与语言密码。入选学者在结束任期后展现出多元的制度辐射力：部分学者选择留在联邦行政机构（如 IES 或国家科学基金会 [[National Science Foundation\|NSF]]）执掌科研资助指南与优先领域设定；部分成为国会委员会常设专业主任；部分加入智库与倡导团体；而返回高校的学者则深刻重构了自身的[[Research Topic\|研究选题]]视野，并在博士生培养中系统强化了科学传播与政策敏锐度训练。（pp.46–47）
 > 2. **专业学会的快速响应战略机制** 传统学术同行评议动辄数月，无法对接国会山“立刻就是立刻”的极速要求。[[Society for Research in Child Development\|儿童发展研究学会]]（Society for Research in Child Development, SRCD）创新性地设立了[[Rapid Assessment and Response Strategy\|快速评估与响应战略]]（Rapid Assessment and Response Strategy, RARS）专家团队，针对公共突发事件（如边境移民儿童分离危机或枪击事件），在数日乃至数小时内召集学科权威专家，快速聚合实证证据并出具专业政策反应声明，实现了学术研究与突发政策窗口的敏捷咬合。
 > 3. **专业学会代表团的国会山实战走访与微培训** 各大学术协会定期组织学者与高校管理层代表团造访国会山。学会行前为学者量身定制微型实战培训，教授学者如何克服学术唠叨、如何提炼三分钟核心口径、如何编制符合国会幕僚阅读习惯的一页纸诉求单，为普通大学教师推开议员办公室大门提供了初级实战跳板。（p.47）
 

@@ -49,6 +49,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Discourse]]"
   - "[[Research Purpose]]"
+  - "[[Tacit Knowledge]]"
   - "[[Scale in Higher Education]]"
   - "[[Conatus]]"
   - "[[Halo Effect]]"
@@ -560,7 +561,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 >
 > **核心发现** 产生的构念被详细考察后与评分准确性数据相关联，某些试题特征（构念）系统地预测了更高的评分误差（p. 14）。
 >
-> **方法论意义** 这项研究展示了 repertory grid 在评估专业实践研究中的应用，考官的隐性知识通过构念引发被外显化，并与客观评分数据关联。
+> **方法论意义** 这项研究展示了 repertory grid 在评估专业实践研究中的应用，考官的[[Tacit Knowledge|隐性知识]]通过构念引发被外显化，并与客观评分数据关联。
 
 ---
 

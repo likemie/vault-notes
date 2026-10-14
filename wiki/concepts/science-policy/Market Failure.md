@@ -33,6 +33,7 @@ related_concepts:
   - "[[Market Shaping and Creating]]"
   - "[[Tilting the Playing Field]]"
   - "[[Patient Capital]]"
+  - "[[Tacit Knowledge]]"
   - "[[Hardware Security]]"
   - "[[Policy Conditionalities]]"
   - "[[Public Value]]"
@@ -130,7 +131,7 @@ updated: 2026-10-10
 > [!feature] 产业与科技政策视野中的核心市场失灵维度
 > - **公共品属性与知识正外部性（Public Goods & Knowledge Spillovers）** 前沿基础科学具有非排他性与非竞争性，私人企业无法完全独占研发收益，导致全社会基础研发投资自发低于社会最优水平（Nelson, 1959; Arrow, 1962）。
 > - **[[Learning by Doing|干中学]]效应与良率爬坡门槛（[[Learning by Doing]] & Yield Learning Curve）** 先进制程半导体制造的单片成本随累积产量大幅下降；新进入者面临陡峭的学习曲线壁垒与巨额前期试错成本，需要政策扶持渡过早期无利润阶段。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 83)]]
-> - **[[Agglomeration Externalities|集聚外部性]]与产业生态协同（Agglomeration Externalities）** 晶圆代工与高端制造依赖本地化的高素质工程师池、上游专用设备供应商与紧密的隐性知识网络；单家企业的建厂投资会产生溢出红利，但私人投资往往忽视该宏观集聚效益。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 102)]]
+> - **[[Agglomeration Externalities|集聚外部性]]与产业生态协同（Agglomeration Externalities）** 晶圆代工与高端制造依赖本地化的高素质工程师池、上游专用设备供应商与紧密的[[Tacit Knowledge|隐性知识]]网络；单家企业的建厂投资会产生溢出红利，但私人投资往往忽视该宏观集聚效益。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 102)]]
 > - **信息不对称与资本市场短视（Information Asymmetry & Capital Myopia）** 先进制程晶圆厂单厂投资超过 200 亿美元，商业金融资本面对极端高额的不确定性与长投资周期，难以提供[[Patient Capital|耐心资本]]。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 81)]]
 > - **[[Hardware Security|硬件安全]]非对称信息与公共品供给不足（Hardware Security & Asymmetric Information Failure）** 硬件层面的木马、后门、供应链篡改与侧信道漏洞无法在商业市场中被买方直接检验或定价，导致私营商业市场对硬件根信任（Root of Trust）与零信任架构研发产生系统性投资不足；需要国家制定开源评测基准并提供硬件安全共性公共品。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 37–44)]]
 > - **环境与生态负外部性（Negative Environmental Externalities）** 传统高碳排放与资源消耗型产业未承担全部环境损害成本，造成不可持续的[[Technological Trajectories|技术轨道]]锁定。

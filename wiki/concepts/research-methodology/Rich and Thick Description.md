@@ -31,6 +31,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Indexicality]]"
   - "[[Creativity]]"
+  - "[[Tacit Knowledge]]"
   - "[[Discourse]]"
   - "[[Hypothesis]]"
   - "[[Ontology]]"
@@ -142,7 +143,7 @@ updated: 2026-10-09
 > - **支撑[[Qualitative Validity\|质性效度]]与迁移性评估** 丰富厚密的描述是质性效度中最基础且最核心的验证策略之一。它为读者提供充分的背景脉络，使外部读者能够依据自身情境判定研究发现的可迁移性（transferability）。
 > - **奠定[[Naturalistic Generalization\|自然主义概括]]的实证基石** 在[[Ethnography\|民族志]]与[[Case Study\|案例研究]]中尤为关键。Stake（1995）与 Larsson（2009, p. 32）论证，研究者的首要责任并非推演抽象统计法则，而是提供充分的深描，让受众基于本土生活经验展开有根据的[[Naturalistic Generalization\|自然主义概括]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, Ch. 11, pp. 444–445)]]
 > - **平衡微观独特性与结构规律性** Dobbert & Kurth-Schai（1992, p. 150）指出，民族志学者必须兼顾双重使命：通过深描捕捉微观互动的多样性、变异性、[[Creativity\|创造性]]与独特性，同时在纷繁现象中提炼社会秩序与文化模式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, Ch. 11, p. 406)]]
-> - **使隐性文化知识显性化** Spindler & Spindler（1992, pp. 72–74）指出，大量支配人类日常行动的社会文化规则是默会的，甚至行动者自身亦日用而不知。深描的关键任务正是将这种潜沉的默会知识对读者予以系统阐明。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, Ch. 11, p. 407)]]
+> - **使隐性文化知识显性化** Spindler & Spindler（1992, pp. 72–74）指出，大量支配人类日常行动的社会文化规则是默会的，甚至行动者自身亦日用而不知。深描的关键任务正是将这种潜沉的[[Tacit Knowledge|默会知识]]对读者予以系统阐明。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, Ch. 11, p. 407)]]
 
 > [!feature] Carspecken（1996）深描操作六构件
 > - **言语行为（Speech acts）** 记录参与者说了什么、如何说以及[[Discourse|话语]]互动的微观时序结构。

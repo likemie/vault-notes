@@ -5,6 +5,14 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rizvi_Lingard_2009_OECDEducationPolicy.md"
     },
     {
+      "basename": "PISA",
+      "path": "wiki/facts/global/PISA.md"
+    },
+    {
+      "basename": "Critique of PISA",
+      "path": "wiki/concepts/comparative-education/Critique of PISA.md"
+    },
+    {
       "basename": "Technical Rationality",
       "path": "wiki/concepts/educational-philosophy/Technical Rationality.md"
     },
@@ -125,10 +133,6 @@
       "path": "wiki/concepts/comparative-education/Plaintive Comparison.md"
     },
     {
-      "basename": "PISA",
-      "path": "wiki/facts/global/PISA.md"
-    },
-    {
       "basename": "PISA Literacy",
       "path": "wiki/concepts/comparative-education/PISA Literacy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Wolfgang Streeck",
       "path": "wiki/persons/germany/Wolfgang Streeck.md"
-    },
-    {
-      "basename": "Peter A. Hall",
-      "path": "wiki/persons/us/Peter A. Hall.md"
     }
   ],
   "omittedPaths": [],

@@ -25,6 +25,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[The Shock of the Elite]]"
   - "[[Goal-Controlled Mode]]"
+  - "[[Tacit Knowledge]]"
   - "[[Self-Authorship]]"
   - "[[Determinism]]"
   - "[[Operationalization]]"
@@ -136,7 +137,7 @@ updated: 2026-09-22
 [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以习性概念为核心，揭示了中国精英大学中两种大学生活组织模式的社会根源：
 
 - 优势阶层习性 → [[Goal-Controlled Mode]]：自幼通过家庭社会化内化了长线规划、资源识别与策略性行动的倾向，进入大学后"自然地"知道如何为目标做准备
-- 弱势阶层习性 → [[Intuition-Dependent Mode]]：成长环境中缺乏对高等教育的隐性知识，内化了"听老师话、好好学习"的被动倾向，在大学场域中沿袭这一模式而不自知
+- 弱势阶层习性 → [[Intuition-Dependent Mode]]：成长环境中缺乏对高等教育的[[Tacit Knowledge|隐性知识]]，内化了"听老师话、好好学习"的被动倾向，在大学场域中沿袭这一模式而不自知
 
 ### 习性转换：大学作为再社会化场域
 

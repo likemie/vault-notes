@@ -23,6 +23,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Policy Network]]"
   - "[[Variable]]"
+  - "[[Epistemic Community]]"
   - "[[Discourse]]"
   - "[[Champ]]"
   - "[[Epistemology]]"
@@ -91,7 +92,7 @@ updated: 2026-10-07
 
 ## 核心命题与机制
 
-> [!proposition-chain] 核心命题一｜[[PISA]] 通过超国家层级设立软治理框架，使各国教育政策制定被纳入全球认知共同体
+> [!proposition-chain] 核心命题一｜[[PISA]] 通过超国家层级设立软治理框架，使各国教育政策制定被纳入全球[[Epistemic Community|认知共同体]]
 > - **前提一** [[OECD]] 通过 PISA 将参与国纳入一个国际认知共同体（international cognitive community），在这一共同体中，教育政策及其目标和方法使用相同的概念和分数进行讨论（Rautalin & Alasuutari, 2009）。
 > - **前提二** OECD 采用软治理模式——通过量化 PISA 分数与国家经济发展的联系，推动各国采纳"最佳模式"，而非以法律或制裁强制趋同（Baird et al., 2016）。
 > - **推导** 超国家组织通过建立共同的认知框架和比较语言 → 将教育的比较从国内事务转化为全球治理议题 → 各国在"最佳实践"的[[Discourse|话语]]压力下调整政策方向。

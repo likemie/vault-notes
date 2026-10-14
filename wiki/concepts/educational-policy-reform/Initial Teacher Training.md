@@ -23,6 +23,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Reflexivity]]"
   - "[[Apprenticeship]]"
+  - "[[Tacit Knowledge]]"
   - "[[Discipline-Based Theory]]"
   - "[[Paradigm Wars]]"
   - "[[Research Literacy]]"
@@ -85,7 +86,7 @@ updated: 2026-10-07
 > |---|---|---|---|
 > | **主导逻辑** | 实用技能训练与法定标准达标 | 学术理论滋养与批判反思探究 | [[Lifelong Learning\|终身学习]]、专业深化与晋升进阶 |
 > | **培养阵地** | 突出学校现场、校本联合体与[[Apprenticeship\|学徒制]] | 大学教育学院与跨学科研究中心 | 中小学教研组、专业学会、研修培训网络 |
-> | **知识形态** | 标准化操作清单与显性教学法规则 | 广义教育哲学、社会学与批判反思 | 实践性默会知识与学科前沿拓展 |
+> | **知识形态** | 标准化操作清单与显性教学法规则 | 广义教育哲学、社会学与批判反思 | 实践性[[Tacit Knowledge\|默会知识]]与学科前沿拓展 |
 > | **治理工具** | [[Initial Teacher Training Core Content Framework\|核心内容框架（CCF）]]、QTS 资质认证 | 学位论文评审、PGCE 学术文凭授予 | 专业资格证书（NPQ）、同行研修学分 |
 
 ---

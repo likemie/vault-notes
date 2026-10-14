@@ -48,6 +48,7 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Active Learning]]"
   - "[[Interaction Effect]]"
+  - "[[Epistemic Community]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Nordic Model of Education]]"
   - "[[Champ]]"
@@ -307,7 +308,7 @@ issuing_organization: ""
 
 > [!factors] 第一层：超国家层级
 > - **OECD 的软治理模式**
->   OECD 和其他国际组织采用软治理模式，通过量化 PISA 分数与国家经济发展的联系来评估各国国内教育政策表现，致力于推广最佳模式（Baird et al., 2016）。OECD 将 PISA 参与国纳入一个**国际认知共同体（international cognitive community）**，在其中教育政策及其目标和路径使用相同的概念和分数进行讨论（Rautalin & Alasuutari, 2009）。
+>   OECD 和其他国际组织采用软治理模式，通过量化 PISA 分数与国家经济发展的联系来评估各国国内教育政策表现，致力于推广最佳模式（Baird et al., 2016）。OECD 将 PISA 参与国纳入一个**国际[[Epistemic Community|认知共同体]]（international cognitive community）**，在其中教育政策及其目标和路径使用相同的概念和分数进行讨论（Rautalin & Alasuutari, 2009）。
 > - **模范社会的设立**
 >   PISA 及其国际排名为各国建立了政策借用的模范社会，即政策从一国转移到另一国的制度模板。芬兰的教育体系是通过 PISA 受到广泛关注的**参考社会（reference society）**；日本、上海和香港等 PISA 排名靠前的国家和地区也被视为新的模范社会（Kim & Choi, 2023; Sellar & Lingard, 2018）。
 > - **国际组织科学性的前提条件**
@@ -389,7 +390,7 @@ issuing_organization: ""
 > [!finding-cards] 核心发现
 > - **研究区域集中与盲区并存** 现有 [[PISA]] 政策影响研究高度集中于欧洲（62.4%），全球仅 17 个国家有相关实证研究。德国以 20 篇研究一骑绝尘，与 PISA 90+ 个参与经济体的规模严重不匹配。中东、非洲、南亚和东南亚构成经验研究的主要盲区。
 > - **质量—公平双维路径的跨国运作** PISA 通过质量维度（宏观/中观/微观三层决策，从新自由主义价值接受到课程学制改革）和公平维度（机会/过程/结果三个环节，从入学标准协调到质性学力重构）两条路径影响各国基础教育改革。PISA 推动了新自由主义教育价值、能力素养概念和循证政策[[Paradigm\|范式]]的全球扩散。
-> - **三层机制模型揭示了非线性、双向互动的政策影响机制** PISA 的政策影响不是 [[OECD]] 到国家的线性因果传递，而是在超国家软治理（国际认知共同体+[[Reference Society\|模范社会]]）、国家层级（自我认知落差+文化-制度[[Transfer Translation Transformation\|转译]]）和内部行动者网络（信息转译+政治博弈）三层交互下的**[[Emergence\|涌现]]结果**。同一 PISA 排名在不同国家的三层组合方式决定了完全不同的政策结果。
+> - **三层机制模型揭示了非线性、双向互动的政策影响机制** PISA 的政策影响不是 [[OECD]] 到国家的线性因果传递，而是在超国家软治理（国际[[Epistemic Community|认知共同体]]+[[Reference Society\|模范社会]]）、国家层级（自我认知落差+文化-制度[[Transfer Translation Transformation\|转译]]）和内部行动者网络（信息转译+政治博弈）三层交互下的**[[Emergence\|涌现]]结果**。同一 PISA 排名在不同国家的三层组合方式决定了完全不同的政策结果。
 > - **PISA 已从一个测量工具演变为全球教育治理的核心制度载体** PISA 通过软治理深刻重塑全球教育治理格局，它既是 OECD 参与全球治理的政策工具，也是各国用来合法化国内改革议程的外部资源。PISA 的影响远超最初功能，是 [[Global Education Reform Movement\|GERM]]（全球教育改革运动）标准化和问责逻辑的跨国制度载体。
 
 > [!implication]- 三层机制模型的推论

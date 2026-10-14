@@ -17,6 +17,7 @@ tags:
   - method/ethnography
 related_concepts:
   - "[[Cognitive Shifting]]"
+  - "[[Tacit Knowledge]]"
   - "[[Hypothesis]]"
   - "[[Reflexivity]]"
   - "[[Total Institution]]"
@@ -43,7 +44,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 一种刻意的[[Cognitive Shifting\|认知转换]]策略：将对研究者而言"自然"和"理所当然"的日常情境重新审视，使其呈现出陌生和新颖的面貌，从而揭示此前被忽视的社会文化结构和互动模式。
-> - **用途** 帮助民族志研究者识别隐性知识、默会规则和想当然的[[Hypothesis\|假设]]——这些往往是最具分析价值但最容易被遗漏的数据。
+> - **用途** 帮助民族志研究者识别[[Tacit Knowledge|隐性知识]]、默会规则和想当然的[[Hypothesis\|假设]]——这些往往是最具分析价值但最容易被遗漏的数据。
 > - **边界** 不等于刻意寻找异常或怪异现象——目标不是制造奇观，而是揭示日常中隐藏的结构性特征。也不等于[[Reflexivity\|反身性]]——反身性是研究者对自身的审视，使熟悉变陌生是对研究情境的重新审视。
 
 ---

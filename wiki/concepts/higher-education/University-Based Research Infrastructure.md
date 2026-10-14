@@ -30,6 +30,7 @@ related_concepts:
   - "[[Center of Calculation]]"
   - "[[Heterogeneity]]"
   - "[[Corporate R&D Labs]]"
+  - "[[Tacit Knowledge]]"
   - "[[Innovation Ecosystem]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[National Innovation System]]"
@@ -80,7 +81,7 @@ updated: 2026-10-07
 
 > [!feature] 核心要素
 > - **公共财政战略托底（Long-Term Public Financing）** 依赖联邦国防研发与基础科研基金的长周期、高强度支持，确保基础设施建设能够超越短期商业周期波动。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 28–29)]]
-> - **科教融合与青年人才培养（Synergy of Research and Education）** 先进科研设施直接嵌入研究生与本科生培养链条，年轻学者在操作尖端实验平台中积累默会知识，成为未来技术外溢的载体。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 31, 38, 42)]]
+> - **科教融合与青年人才培养（Synergy of Research and Education）** 先进科研设施直接嵌入研究生与本科生培养链条，年轻学者在操作尖端实验平台中积累[[Tacit Knowledge|默会知识]]，成为未来技术外溢的载体。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 31, 38, 42)]]
 > - **开放知识共享与网络协同（Open Sharing & Peer Collaboration）** 设施面向学术共同体开放，采用开放技术协议与同行评议分配规程，避免前沿科研工具被少数既得利益机构垄断。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 39–40)]]
 
 > [!logic-map]- 大学科研基础设施的双向溢出模型

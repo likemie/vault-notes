@@ -38,6 +38,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Boundary Spanner]]"
   - "[[Heterogeneity]]"
+  - "[[Tacit Knowledge]]"
   - "[[Formative Assessment]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Discourse]]"
@@ -180,7 +181,7 @@ updated: 2026-10-09
 ## 核心要素
 
 > [!theory-components] 激活证据生态系统的复杂系统核心构件
-> - **证据与知识多元统筹（Evidence and Knowledge）** 承认研究证据仅是公共决策知识的一部分，必须与一线教师的实践默会知识、本土情境经验及公共政策价值展开有机融合。
+> - **证据与知识多元统筹（Evidence and Knowledge）** 承认研究证据仅是公共决策知识的一部分，必须与一线教师的实践[[Tacit Knowledge|默会知识]]、本土情境经验及公共政策价值展开有机融合。
 > - **协同型系统领导力（Collaborative Leadership）** 放弃自上而下的刚性行政控制命令，转向激发基层自组织活力、参与式行动反思与持续[[Formative Assessment\|形成性评估]]。
 > - **跨组织协同网络（Effective Networks）** 打破大学象牙塔与中小学的组织制度壁垒，将学校集群、高校研究团队与地方决策层编织进具有共同变革目标的协作网络中。
 > - **战略性价值沟通（Strategic Communications）** 超越简单的信息[[Transfer Translation Transformation\|转译]]与文本摘要分发，深入探寻不同群体的利益关切与深层相互依赖，在多方对话中达成价值共识。[[Argument_Revai_2022_ChangingLandscape\|(Best & Holmes, 2010; Révai, 2022, p. 19)]]

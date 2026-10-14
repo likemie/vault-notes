@@ -31,6 +31,7 @@ related_concepts:
   - "[[Research Literacy]]"
   - "[[Hypothesis]]"
   - "[[Analytical Stance]]"
+  - "[[Tacit Knowledge]]"
   - "[[Peer-Supported Learning]]"
   - "[[Reliability]]"
   - "[[Document]]"
@@ -101,7 +102,7 @@ updated: 2026-10-09
 > - **实施控制** 采用[[Network Analysis\|社会网络分析]]（SNA）与[[Longitudinal Study\|纵向调查]]量表追踪信息流动态势，监测研究证据在教师人际网络中的扩散深度。
 
 > [!proc] RLC 三步“学习对话”与四阶段跨校研修流程
-> 工作坊围绕三步“学习对话”（Learning Conversations）[[Inquiry Cycle\|探究循环]]展开，促使外部显性证据与教师默会知识深度碰撞：[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 126)]]
+> 工作坊围绕三步“学习对话”（Learning Conversations）[[Inquiry Cycle\|探究循环]]展开，促使外部显性证据与教师[[Tacit Knowledge|默会知识]]深度碰撞：[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 126)]]
 > 1. **审视与重构（Review & Reframe）** 交互研读学术转译简报，挑战并反思既有实践惯性与认知假设；
 > 2. **设计与试验（Design & Trial）** 结对合作，将研究通则转化为适配本校真实学情的微型课堂教学干预并开展试验；
 > 3. **评估与反思（Evaluate & Reflect）** 多视角搜集学生证据与课堂反馈，评估教学干预成效并迭代优化。

@@ -19,6 +19,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Habitus]]"
+  - "[[Tacit Knowledge]]"
   - "[[School Leadership]]"
   - "[[Knowledge Production]]"
   - "[[Credential Inflation]]"
@@ -85,7 +86,7 @@ updated: 2026-07-08
 
 - **斗争性** 场域是"持续斗争的场所"——行动者利用自身持有的资本争夺场域中被视为最有价值的资源和位置。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]将精英大学描述为一个"迷宫"，各路"探索者"在各条小路上穿行收集筹码（成绩、经历、奖项），并在到达出口时用筹码兑换下一段旅程的入场券。
 
-- **游戏规则的内隐性** 场域中的"游戏规则"往往不被明文书写，而是以隐性知识（tacit knowledge）的形式存在。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]指出，精英大学的规则——如毕业出路的选择策略、教授推荐信的获取方式、实习人脉的积累路径——对优势阶层学生是自幼获知的常识，而对弱势阶层学生则是一无所知的密文。
+- **游戏规则的内隐性** 场域中的"游戏规则"往往不被明文书写，而是以[[Tacit Knowledge|隐性知识]]（tacit knowledge）的形式存在。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]指出，精英大学的规则——如毕业出路的选择策略、教授推荐信的获取方式、实习人脉的积累路径——对优势阶层学生是自幼获知的常识，而对弱势阶层学生则是一无所知的密文。
 
 ---
 

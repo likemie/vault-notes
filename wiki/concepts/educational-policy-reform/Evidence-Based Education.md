@@ -45,6 +45,7 @@ related_concepts:
   - "[[Teacher Professional Agency]]"
   - "[[Epistemology]]"
   - "[[Tracking]]"
+  - "[[Tacit Knowledge]]"
   - "[[Discourse]]"
   - "[[Teaching Assistant]]"
   - "[[New Public Management]]"
@@ -294,7 +295,7 @@ updated: 2026-10-07
 >
 > **创造改进，引导更有效的学习** EBE 的目标不仅是淘汰无效方案，更是通过证据积累不断改进教学实践的质量。
 
-Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定者在制定政策时经常回避证据，实践者在日常忙碌中依赖默会知识而非来自 RCT 的知识。她进一步主张证据应检验[[Effect Size|效应量]]而非[[Statistical Significance|统计显著性]]——这一主张直接推动了效应量在[[Meta-analysis|元分析]]中的核心地位，也构成了 EBE 方法论讨论的关键转折（pp.339–340）。
+Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定者在制定政策时经常回避证据，实践者在日常忙碌中依赖[[Tacit Knowledge|默会知识]]而非来自 RCT 的知识。她进一步主张证据应检验[[Effect Size|效应量]]而非[[Statistical Significance|统计显著性]]——这一主张直接推动了效应量在[[Meta-analysis|元分析]]中的核心地位，也构成了 EBE 方法论讨论的关键转折（pp.339–340）。
 
 ---
 #### 强版本 vs. 弱版本

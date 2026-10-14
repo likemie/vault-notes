@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Intercultural Education]]"
   - "[[Epistemology]]"
+  - "[[Tacit Knowledge]]"
   - "[[Avatar]]"
   - "[[Contextual Knowing]]"
   - "[[Doxa]]"
@@ -60,7 +61,7 @@ updated: 2026-09-29
 ## 定义
 
 > [!def] 核心定义
-> **比较教育中的内外视角（Insider-Outsider Perspective in Comparative Education）** 是指在跨国与[[Intercultural Education|跨文化教育]]比较研究中，将本土研究者（局内人，Insider）的内在文化浸润与外来学者（局外人，Outsider）的审慎疏离视界进行辩证整合的[[Epistemology|认识论]]与方法论视角。该视角强调，局内人具备深厚的本土语境洞察、多语种理解与默会知识，但易对本土制度与文化假定习以为常；局外人则秉持陌生化疏离姿态（*Verfremdung*）与客观批判距离，能敏锐辨识本土研究者视而不见的深层结构，但面临概念不对称与文化误读风险。[[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter）指出，跨大洲与跨区域比较研究的推进，必须建立在局内人与局外人视角的有效辩证张力之上。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 96–97)]]
+> **比较教育中的内外视角（Insider-Outsider Perspective in Comparative Education）** 是指在跨国与[[Intercultural Education|跨文化教育]]比较研究中，将本土研究者（局内人，Insider）的内在文化浸润与外来学者（局外人，Outsider）的审慎疏离视界进行辩证整合的[[Epistemology|认识论]]与方法论视角。该视角强调，局内人具备深厚的本土语境洞察、多语种理解与[[Tacit Knowledge|默会知识]]，但易对本土制度与文化假定习以为常；局外人则秉持陌生化疏离姿态（*Verfremdung*）与客观批判距离，能敏锐辨识本土研究者视而不见的深层结构，但面临概念不对称与文化误读风险。[[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter）指出，跨大洲与跨区域比较研究的推进，必须建立在局内人与局外人视角的有效辩证张力之上。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 96–97)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 确立认识论主体定位与文化距离的互补框架，反对单一由外向内的霸权式投射或单一由内向外的本土排他主义。

@@ -52,6 +52,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Evidence Era]]"
   - "[[Paradigm]]"
+  - "[[Tacit Knowledge]]"
 related_theories:
   - "[[Bacchi's WPR Approach]]"
   - "[[Cognitive Load Theory]]"
@@ -341,7 +342,7 @@ citation_aliases:
 >   - 在“[[Evidence Era\|证据时代]]”下，必须对“证据是如何被建构的”保持高度的警惕和批判性审视（[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022]]; 引自 p. 10）。
 > - **跨国政策外推与[[Paradigm\|范式]]破坏警告**
 >   - 作者提醒，这一政策范式在英格兰等地的临床化、学校主导化实践已经对传统的基于大学的教师教育在[[Ontology\|本体论]]（ontology）、[[Axiology\|价值论]]（axiology）和实践论上造成了“积极的破坏和推翻”，应当引起全球教育界的警惕。
->   - 过度依赖“什么有效”的确定性将直接导致教师日常教学实践中其他形式“非科学、经验性”证据与默会知识的边缘化，加重教师的“举证负担”（Wescott, 2022; 引自 p. 10）。
+>   - 过度依赖“什么有效”的确定性将直接导致教师日常教学实践中其他形式“非科学、经验性”证据与[[Tacit Knowledge|默会知识]]的边缘化，加重教师的“举证负担”（Wescott, 2022; 引自 p. 10）。
 
 ---
 

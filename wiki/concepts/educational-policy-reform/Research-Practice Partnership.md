@@ -43,6 +43,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Reliability]]"
+  - "[[Tacit Knowledge]]"
   - "[[Democratising Evidence]]"
   - "[[Research-Engaged School]]"
   - "[[Academic Achievement]]"
@@ -191,7 +192,7 @@ updated: 2026-10-09
 > **实践者时间与外部支持匮乏限制深化共创** 一线教师在应对繁重日常教学任务的同时参与研究，面临严重的时间贫乏与方法学支撑不足。若缺乏学区和工会的制度化松绑与资源补偿，教师往往倾向于依赖同伴口耳相传的感性经验，难以维持严谨、深度的共同探究过程。（Cooper et al., 2017；引于 [[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p. 130]]；[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 22]]）
 
 > [!claim] Enthoven & de Bruijn (2010)
-> **本地共创知识的严谨性与情境泛化瓶颈** [[Knowledge Co-production\|协同生产]]产出的知识高度扎根于特定学校与社区环境，天然具备情境敏感性；然而，要使这种本地隐性知识成为显性、稳健且可向其他学校扩散的公共知识，必须经过持续的情境迭代与跨校复现。但在真实的教育治理中，这类迭代与严格检验极少发生，导致许多 RPP 成果被局限于局部经验，面临学术界关于方法严谨性不足的批评。（Enthoven & de Bruijn, 2010；引于 [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 22]]）
+> **本地共创知识的严谨性与情境泛化瓶颈** [[Knowledge Co-production\|协同生产]]产出的知识高度扎根于特定学校与社区环境，天然具备情境敏感性；然而，要使这种本地[[Tacit Knowledge|隐性知识]]成为显性、稳健且可向其他学校扩散的公共知识，必须经过持续的情境迭代与跨校复现。但在真实的教育治理中，这类迭代与严格检验极少发生，导致许多 RPP 成果被局限于局部经验，面临学术界关于方法严谨性不足的批评。（Enthoven & de Bruijn, 2010；引于 [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 22]]）
 
 ---
 

@@ -23,6 +23,7 @@ related_concepts:
   - "[[Learning by Doing]]"
   - "[[Technological Catch-up]]"
   - "[[Unit of Analysis]]"
+  - "[[Tacit Knowledge]]"
   - "[[Innovation Park]]"
   - "[[Competitiveness]]"
   - "[[Knowledge Exchange]]"
@@ -87,7 +88,7 @@ updated: 2026-10-09
 > | 维度 | 集聚外部性（Agglomeration Externalities） | 企业内部规模经济（Internal Scale Economies） | 比较优势（Comparative Advantage） | 地缘安全保险（Geopolitical Insurance） |
 > |---|---|---|---|---|
 > | **[[Unit of Analysis\|分析单位]]** | 地理区域与产业集群生态 | 单一厂商与特定生产工厂 | 国家/地区整体生产要素禀赋 | 主权国家战略供应链安全 |
-> | **核心驱动** | 人才池流动、配套网络、隐性知识外溢 | 巨额固定资本投入与单位产出分摊 | 劳动力、土地或资本相对要素价格差异 | 国家主权意志、地缘竞争与防务韧性 |
+> | **核心驱动** | 人才池流动、配套网络、[[Tacit Knowledge\|隐性知识]]外溢 | 巨额固定资本投入与单位产出分摊 | 劳动力、土地或资本相对要素价格差异 | 国家主权意志、地缘竞争与防务韧性 |
 > | **空间表现** | 高度集中于少数特定城市群或[[Innovation Park\|科技园区]] | 聚焦于少数单一超大型晶圆制造厂 | 跨国梯度分工（如制造向低成本地区迁移） | 强制跨区域分散布局、多地备份设厂 |
 > | **政策取向** | 顺应市场集聚，打造世界级创新高地 | 鼓励产业并购，培育具备全球[[Competitiveness\|竞争力]]的龙头 | 推动自由贸易与基于效率的全球专业分工 | 牺牲部分经济效率，提供巨额补贴实施友岸外包 |
 
@@ -98,7 +99,7 @@ updated: 2026-10-09
 > [!feature] 核心要素
 > - **高度稠密的专业劳动力池（Thick Labor Markets）** 集群内部聚集着大量具备精深制造经验与工艺排障直觉的工程师、技工与管理人员，使企业招募与人才重组的摩擦成本降至极低。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 82–83)]]
 > - **深度嵌套的本地供应商与配套网络（Specialized Input Sharing）** 洁净室耗材、特种气体、高纯化学品、精密机加工维修与零部件配送网络形成小时级即时响应圈，极大压降了供应链库存与停机维护成本。
-> - **高频面对面的隐性知识外溢（Tacit Knowledge Spillovers）** 最前沿的先进制程调试参数与制造良率改进方案无法完全[[Coding in Qualitative Research|编码]]，高度依存于工程师跨企业非正式交流、学术研讨与同行流动中的[[Knowledge Exchange|知识交流]]。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 82, 102–103)]]
+> - **高频面对面的[[Tacit Knowledge|隐性知识]]外溢（Tacit Knowledge Spillovers）** 最前沿的先进制程调试参数与制造良率改进方案无法完全[[Coding in Qualitative Research|编码]]，高度依存于工程师跨企业非正式交流、学术研讨与同行流动中的[[Knowledge Exchange|知识交流]]。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 82, 102–103)]]
 > - **空间多地分散带来的效率稀释（Dispersion Friction）** 当政策力量强制将高技术制造工厂分散至缺乏本地配套与熟练劳动力的多个国家与地区时，集聚红利被严重稀释，产生高昂的结构性运营溢价。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 103)]]
 
 > [!logic-map]- 集聚红利与安全保险的权衡机理
@@ -144,7 +145,7 @@ updated: 2026-10-09
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **空间集聚优势命题** | 专业人才池、配套网络与隐性知识外溢自我强化，驱动制造产能极端集中并形成动态竞争壁垒 | 先进半导体制造、硅谷[[Innovation Ecosystem\|创新生态]]、东亚半导体产业崛起 | [[Argument_Bown_2024_JEP\|Bown & Wang (2024)]] |
+> | **空间集聚优势命题** | 专业人才池、配套网络与[[Tacit Knowledge\|隐性知识]]外溢自我强化，驱动制造产能极端集中并形成动态竞争壁垒 | 先进半导体制造、硅谷[[Innovation Ecosystem\|创新生态]]、东亚半导体产业崛起 | [[Argument_Bown_2024_JEP\|Bown & Wang (2024)]] |
 > | **安全保险溢价命题** | [[Modern Industrial Policy\|现代产业政策]]追求供应链空间去风险强制多地分散，人为稀释集聚外部性并推高长期平均生产成本 | 2020 年代美欧美日芯片补贴法案、友岸外包与跨国建厂评估 | 同上 |
 
 ---
@@ -154,7 +155,7 @@ updated: 2026-10-09
 > [!dev-timeline] 概念演变
 > - **1890 年代 — 新古典马歇尔外部性奠基** 阿尔弗雷德·马歇尔（Alfred Marshall）在《经济学原理》中系统提炼出[[Industrial District|产业区]]（Industrial Districts）的三大外部经济来源：劳动力池共享、中间投入品共享与知识外溢。
 > - **1990 年代 — 新经济地理学（NEG）形式化建模** 保罗·克鲁格曼（Paul Krugman）等将收益递增与运输成本引入一般均衡模型，从理论上严密证明了初始微小偶发优势如何通过集聚外部性滚雪球式演化为空间极化与制造中心。
-> - **2000–2010 年代 — 硅谷与高技术集群实证爆发** 创新学者深入考察高科技产业中跨企业人员高频流动与非正式网络，证实隐性[[Knowledge Exchange|知识交流]]（Tacit Knowledge Exchange）对先进制程工艺与架构创新的决定性支撑。
+> - **2000–2010 年代 — 硅谷与高技术集群实证爆发** 创新学者深入考察高科技产业中跨企业人员高频流动与非正式网络，证实隐性[[Knowledge Exchange|知识交流]]（[[Tacit Knowledge]] Exchange）对先进制程工艺与架构创新的决定性支撑。
 > - **2020 年代至今 — [[Modern Industrial Policy|现代产业政策]]与地缘政治审视** Bown 与 Wang（2024）等学者将集聚外部性纳入国家安全与大国博弈框架，揭示出于供应链韧性与地缘防务动机强制推行空间分散政策对集聚红利的不可逆稀释效应。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 102–103)]]
 
 ---
@@ -203,7 +204,7 @@ updated: 2026-10-09
 > | [[Modern Industrial Policy]] | Concept | 现代产业政策以国家安全为导向的空间分散干预直接稀释了集聚外部性。 |
 > | [[Market Failure]] | Concept | 集聚正外部性未被市场定价构成传统产业补贴支持产业集群的理论辩护基石。 |
 > | [[Vertical Disintegration]] | Concept | 产业链纵向离散使不同环节分别向具备最强集聚外部性的特定区域极化集中。 |
-> | [[Knowledge Exchange]] | Concept | 本地高频面对面的隐性知识交流是维系集聚外部性与工艺创新的微观纽带。 |
+> | [[Knowledge Exchange]] | Concept | 本地高频面对面的[[Tacit Knowledge\|隐性知识]]交流是维系集聚外部性与工艺创新的微观纽带。 |
 > | [[Learning by Doing]] | Concept | 制造良率的动态学习曲线与集聚外部性共同强化了领先集群的先发优势。 |
 > | [[Taiwan Semiconductor Manufacturing Corporation]] | Fact (Organization) | 深度嵌入台湾高密度产业集群、最大化释放集聚外部性的全球晶圆代工垄断巨头。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 美国试图通过 390 亿美元补贴打破东亚集聚垄断、重建本土先进制造集群的标志性法案。 |

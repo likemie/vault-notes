@@ -25,6 +25,7 @@ related_concepts:
   - "[[Creative Destruction]]"
   - "[[General Purpose Technology]]"
   - "[[Paradigm]]"
+  - "[[Tacit Knowledge]]"
   - "[[Theoretical Perspective]]"
   - "[[Apprenticeship]]"
   - "[[Document]]"
@@ -114,7 +115,7 @@ issuing_organization: ""
 > | **[[Evolutionary Economics\|演化经济学与技术差距理论]]**<br>[[Evolutionary Economics]] | 强调历史路径依赖、技术差距（Technology Gaps）、模仿滞后（Imitation Lags）以及[[Creative Destruction\|创造性破坏]]；用于解释后发国家在面对全新[[General Purpose Technology\|通用技术]][[Paradigm\|范式]]时的结构性调整与制度多样性优势。（pp. 17–19） |
 
 > [!warrant]- 理论如何支撑论证
-> 演化经济学与国家创新系统框架将技术从抽象可自由买卖的信息，还原为高度依赖实践经验、富含隐性知识（Tacit Knowledge）且需长期组织积累的系统能力。借助这一[[Theoretical Perspective|理论视角]]，弗里曼得以论证：后发国家要想跨越技术差距，不能仅靠引进现成设备，而必须由国家系统性构建技术教育、[[Apprenticeship|学徒培训]]与工业研发组织，从而证明民族国家依然是维系这一能力积累的核心边界。
+> 演化经济学与国家创新系统框架将技术从抽象可自由买卖的信息，还原为高度依赖实践经验、富含[[Tacit Knowledge|隐性知识]]（Tacit Knowledge）且需长期组织积累的系统能力。借助这一[[Theoretical Perspective|理论视角]]，弗里曼得以论证：后发国家要想跨越技术差距，不能仅靠引进现成设备，而必须由国家系统性构建技术教育、[[Apprenticeship|学徒培训]]与工业研发组织，从而证明民族国家依然是维系这一能力积累的核心边界。
 
 ---
 
@@ -172,7 +173,7 @@ issuing_organization: ""
 > [!proc] 普鲁士国家协调工业赶超的具体步骤
 > 1. **设立专门技术培训机构** 普鲁士政府设立工艺学校（[[Gewerbe-Institut]]），为缺乏技术积累的德意志地区系统培养掌握机械制图与应用化学的专业人才。
 > 2. **突破技术封锁引进工业母机** 面对英国政府禁止出口机床并施加重罚的限制，普鲁士政府设法引进英国先进机床，交由工艺学校组织工程人员开展逆向工程（Reverse Engineering），拆解测绘核心结构。
-> 3. **吸纳外国熟练工匠传授隐性知识** 先进机械制造高度依赖车间里难以文字化的隐性操作经验，普鲁士政府以优厚待遇招募曾在英国机械发明家莫兹利（Henry Maudslay）车间工作的熟练工匠，直接进驻工坊开展[[Apprenticeship|学徒培训]]并带徒传艺。
+> 3. **吸纳外国熟练工匠传授[[Tacit Knowledge|隐性知识]]** 先进机械制造高度依赖车间里难以文字化的隐性操作经验，普鲁士政府以优厚待遇招募曾在英国机械发明家莫兹利（Henry Maudslay）车间工作的熟练工匠，直接进驻工坊开展[[Apprenticeship|学徒培训]]并带徒传艺。
 > 4. **推动技术向本土制造业全面扩散** 依托技校毕业生网络与工匠流动，机床技术在 1840 至 1850 年代迅速扩散至全德制造业，使德国企业能够自主设计和制造蒸汽机车，奠定了超越英国工业优势的技术基础。（pp. 6–7）
 
 > [!factors] 普鲁士与美国技术赶超的关键推动因素

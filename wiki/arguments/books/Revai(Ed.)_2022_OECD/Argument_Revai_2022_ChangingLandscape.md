@@ -67,6 +67,7 @@ related_concepts:
   - "[[Professional Learning Community]]"
   - "[[Innovation Hub]]"
   - "[[Going Native]]"
+  - "[[Tacit Knowledge]]"
   - "[[Formative Assessment]]"
   - "[[Research Impact]]"
   - "[[Publication Bias]]"
@@ -267,7 +268,7 @@ updated: 2026-09-24
 
 > [!theory-components] 激活证据生态系统的复杂系统核心构件（Best & Holmes, 2010）
 > - **证据与知识多元统筹（Evidence and Knowledge）**
->   承认研究证据仅是公共决策知识的一部分，必须与默会知识、本土经验及政策价值展开有机融合。
+>   承认研究证据仅是公共决策知识的一部分，必须与[[Tacit Knowledge|默会知识]]、本土经验及政策价值展开有机融合。
 > - **赋权型系统领导力（Collaborative Leadership）**
 >   放弃自上而下的行政控制命令，转向赋权自组织结构、参与式行动与持续[[Formative Assessment\|形成性评估]]。
 > - **跨组织协同网络（Effective Networks）**

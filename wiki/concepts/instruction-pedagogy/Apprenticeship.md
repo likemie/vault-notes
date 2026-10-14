@@ -23,6 +23,7 @@ tags:
   - theme/industrial-policy
   - theme/manufacturing-resilience
 related_concepts:
+  - "[[Tacit Knowledge]]"
   - "[[Competitiveness]]"
   - "[[Assemblage]]"
   - "[[Phronesis]]"
@@ -44,6 +45,7 @@ related_concepts:
   - "[[Intellectual Capital]]"
   - "[[Outcome-Based Apprenticeship Funding]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Market Fundamentalism]]"
   - "[[Public Value]]"
   - "[[Cognitive Apprenticeship]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -52,9 +54,9 @@ related_concepts:
   - "[[Absorptive Capacity]]"
   - "[[Document]]"
 related_theories:
+  - "[[Developmental Network State]]"
   - "[[Varieties of Capitalism]]"
   - "[[Systems of Innovation]]"
-  - "[[Developmental Network State]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
@@ -96,7 +98,7 @@ updated: 2026-10-12
 ## 定义
 
 > [!def] 核心定义
-> **学徒制（Apprenticeship）**是一种将技能习得深嵌于真实工作场所生产操作、具身示范与长期师徒人际纽带中的制度化技能形成机制。其核心特征在于，通过熟练工匠（师傅）向新手（学徒）的面对面指导、带徒传艺与现场纠错，实现高度依赖具体物理情境且难以完全[[Coding in Qualitative Research|编码]]化或文本化的工艺知识与隐性知识（Tacit Knowledge）的有效传承。在创新政策与经济学中，学徒制既是后发国家消化前沿装备制造工艺、突破技术封锁不可替代的微观制度基石，也是现代产业战略中政府配置公共资助的契约附加条件。在 2026 年美国国家科技战略中，学徒制更被重新界定为打破“设计与制造二分法”教条、维系尖端先进制造与硬件创新韧性的国家核心[[Competitiveness|竞争力]]支柱。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 9–10, 13)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 53–54)]]
+> **学徒制（Apprenticeship）**是一种将技能习得深嵌于真实工作场所生产操作、具身示范与长期师徒人际纽带中的制度化技能形成机制。其核心特征在于，通过熟练工匠（师傅）向新手（学徒）的面对面指导、带徒传艺与现场纠错，实现高度依赖具体物理情境且难以完全[[Coding in Qualitative Research|编码]]化或文本化的工艺知识与[[Tacit Knowledge|隐性知识]]（Tacit Knowledge）的有效传承。在创新政策与经济学中，学徒制既是后发国家消化前沿装备制造工艺、突破技术封锁不可替代的微观制度基石，也是现代产业战略中政府配置公共资助的契约附加条件。在 2026 年美国国家科技战略中，学徒制更被重新界定为打破“设计与制造二分法”教条、维系尖端先进制造与硬件创新韧性的国家核心[[Competitiveness|竞争力]]支柱。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 9–10, 13)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 53–54)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 技能的本质不是脱离生产现场的抽象书本代码，而是长年累月在机床切削、[[Assemblage|装配]]调试、材料公差验证与现场排障中沉淀的[[Phronesis|实践智慧]]与身体感知。
@@ -182,7 +184,7 @@ updated: 2026-10-12
 
 ### 命题一　基于学徒制的隐性技能积累是后发国家实现技术吸收与赶超的微观基础
 
-> [!concept-lens] 隐性知识与[[Technological Catch-up|技术赶超]]机制
+> [!concept-lens] [[Tacit Knowledge|隐性知识]]与[[Technological Catch-up|技术赶超]]机制
 > 探讨后发国家在面对先发国技术封锁时，如何突破物化设备引进的表层局限，通过组织学徒制带徒实现内生工艺掌握。
 
 > [!claim] [[Chris Freeman|Freeman, C.]]
@@ -345,5 +347,5 @@ updated: 2026-10-12
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 白宫国家科技委员会[[National Strategy on Microelectronics Research|国家微电子研究战略]]，系统规划全谱系人才开发（Goal 3），将注册学徒制与 [[National Science Foundation|NSF]] [[Advanced Technological Education|ATE]]、[[Natcast]] 劳动力卓越中心深度绑定，培育芯片制造产线高技能操作与排障技师。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统批判“设计与制造二分法”对美国工程创新底座的损害，提出每年培育 100 万名注册学徒的战略目标，论述工艺知识保全、[[Workforce Pell Grants 2025|劳动力佩尔助学金]]、按绩效付费以及“国家工匠学者”制度在重构前沿制造韧性中的关键支撑。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 剖析美国现代产业战略（CHIPS、[[International Reading Association|IRA]]、[[Infrastructure Investment and Jobs Act|IIJA]]）中如何将注册学徒制与[[Workforce Development|劳动力发展计划]]作为[[Policy Conditionalities|制度化附加条件]]，揭示技能形成与高质量就业在先进制造复兴中的关键支撑机制。
-> - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 考证 19 世纪普鲁士国家协调英国工匠带徒传艺并与工艺学校紧密协作的史实，论证隐性知识传递与学徒培训网络在后发国家内生技术积累中的基石作用。
+> - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 考证 19 世纪普鲁士国家协调英国工匠带徒传艺并与工艺学校紧密协作的史实，论证[[Tacit Knowledge|隐性知识]]传递与学徒培训网络在后发国家内生技术积累中的基石作用。
 

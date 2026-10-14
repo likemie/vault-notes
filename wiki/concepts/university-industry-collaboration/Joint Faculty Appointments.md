@@ -24,6 +24,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[University-Industry Collaboration]]"
   - "[[Sponsored Research Agreement]]"
+  - "[[Tacit Knowledge]]"
   - "[[Knowledge Exchange]]"
   - "[[Academic Engagement Team]]"
   - "[[Technology Transfer Office]]"
@@ -61,7 +62,7 @@ updated: 2026-10-06
 
 > [!concept-lens] 概念透镜
 > - **双重人格与时间尺度协同** 研究者不试图拉平企业（季度交付）与大学（3–5 年课题）的时间差异，而是以“双重人格”（Dual Persona）在两条时间线上并行工作。
-> - **草根驱动与高密度知识流** 联合教职通常由企业一线工程团队在实际研发攻关中自发驱动产生，带来远超传统年度报告的高带宽隐性知识交互。
+> - **草根驱动与高密度知识流** 联合教职通常由企业一线工程团队在实际研发攻关中自发驱动产生，带来远超传统年度报告的高带宽[[Tacit Knowledge|隐性知识]]交互。
 > - **治理摩擦与利益冲突平衡** 涉及终身教职评审轨道、知识产权归属划分、商业保密与学术公开发表自由之间的法律与制度边界协调。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 230)]]
 
 > [!citation-card] 双重人格与时间尺度协调论断
@@ -142,7 +143,7 @@ updated: 2026-10-06
 ### 命题二　联合教职的高带宽知识溢出伴随着双重考核冲突与高昂的组织治理成本
 
 > [!concept-lens] 组织社会学与制度摩擦维度
-> 揭示联合教职在释放高密度隐性知识交互的同时，所引发的组织忠诚、知识产权确权与利益冲突治理困境。
+> 揭示联合教职在释放高密度[[Tacit Knowledge|隐性知识]]交互的同时，所引发的组织忠诚、知识产权确权与利益冲突治理困境。
 
 > [!claim] [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]]
 > **高带宽知识流动与高治理成本的权衡命题** 联合教职所创造的信息流动密度与信任基础远超任何定期进展报告；但这种高带宽安排伴随着高昂的组织协商成本。企业季度交付指标与大学终身教职发表评价的评价标准[[Heterogeneity|异质性]]、企业专有数据保密与大学学术成果公开共享的张力，极易导致学者陷入角色超载与职业倦怠。若缺乏中央化 [[Academic Engagement Team|AET]] 与校方[[Technology Transfer|技术转移]]部门在协议顶层的周密设计，联合聘任极易因知识产权纠纷或学术精力被企业完全吞噬而走向破裂。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 230)]]

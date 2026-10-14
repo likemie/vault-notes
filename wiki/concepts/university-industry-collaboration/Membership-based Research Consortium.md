@@ -31,6 +31,7 @@ related_concepts:
   - "[[Precompetitive Research]]"
   - "[[University Spin-Out]]"
   - "[[Technology Transfer Office]]"
+  - "[[Tacit Knowledge]]"
   - "[[Knowledge Transfer]]"
   - "[[Document]]"
   - "[[Academic Entrepreneurship]]"
@@ -163,7 +164,7 @@ updated: 2026-10-07
 > [!concept-lens] [[Human Capital Theory|人力资本]]蓄水池与联合体利益纽带
 > 分析在长周期前沿探索中，人际网络与高端毕业生供给如何超越专利成为维系同业联盟三十年持续注资的关键动因。
 
-> [!claim] 隐性知识传递与人才蓄水池命题
+> [!claim] [[Tacit Knowledge|隐性知识]]传递与人才蓄水池命题
 > **人才蓄水池与直聘通道** 在高度复杂的高技术领域，前沿探索的[[Knowledge Transfer|知识转移]]主要依赖“载于人脑”的隐性诀窍。相较于具体的单项专利或许可协议，会员企业持续出资的最主要动力在于获得高素质博士毕业生的优先招聘机会；联合体年均资助近 1,500 名博士生，并通过年度技术大会（TECHCON）搭建现场对接面试平台，将科研资助直接转化为企业关键研发人力资源的供给保障。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 245–246, 251)]]
 
 ---

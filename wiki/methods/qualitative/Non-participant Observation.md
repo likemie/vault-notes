@@ -22,6 +22,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Reliability]]"
   - "[[Content Validity]]"
+  - "[[Tacit Knowledge]]"
   - "[[Operationalization]]"
   - "[[Covert Research]]"
   - "[[Halo Effect]]"
@@ -63,7 +64,7 @@ updated: 2026-10-08
 > - **知识观** 以可观察的外显行为为证据基础；研究者通过系统记录和分类来获取知识，而非通过沉浸和共情
 > - **研究者角色** 研究者是外部观察者，不介入、不参与、不干扰。King（1979）在幼儿课堂中站立保持社会距离、故意避免眼神接触以确立非参与地位。Gold（1958）的完全观察者即为典型非参与角色——只观察、脱离群体，如通过单向镜或视频录像（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.1, 23.9 节]]）
 > - **有效性标准** 观察表的[[Reliability\|信度]]（观察者间一致性）、[[Coding in Qualitative Research\|编码]]系统的[[Content Validity\|内容效度]]、记录的完整性和系统覆盖
-> - **不声称回答的问题** 不能直接获取参与者的内在意义、主观体验或内部人视角的理解；不适合探究隐性文化规则或默会知识
+> - **不声称回答的问题** 不能直接获取参与者的内在意义、主观体验或内部人视角的理解；不适合探究隐性文化规则或[[Tacit Knowledge|默会知识]]
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Case Study\|个案研究]]、结构化[[Observation Method\|观察研究]]、纵向观察追踪、调查补充

@@ -30,6 +30,7 @@ related_concepts:
   - "[[Confucian Heritage Cultures]]"
   - "[[Cultural Disembedding]]"
   - "[[Reflexivity]]"
+  - "[[Tacit Knowledge]]"
   - "[[Champ]]"
   - "[[Pragmatic Paradigm]]"
 related_theories: []
@@ -140,7 +141,7 @@ related_arguments:
 > 探讨观念上的道德对立与排斥如何阻碍社会资本与[[Cultural Capital\|文化资本]]的流动，最终硬化为客观的社会阶层与族群屏障。
 
 > [!claim] Lamont & Molnár (2002) / [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]
-> **象征边界硬化为社会边界的机制** Lamont & Molnár (2002) 论证，象征边界并非停留在心理活动层面，当道德拒斥导致群体间拒绝互动、否定对方实践的合法性时，象征边界就会“硬化”（harden）为社会边界[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 168)]]。在郑雅君 (2023) 的案例中，直觉依赖者对策略行为的道德贬低阻止了他们向目标掌控者获取隐性知识，从而巩固了阶层文化资本的不平等传递[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 171)]]。
+> **象征边界硬化为社会边界的机制** Lamont & Molnár (2002) 论证，象征边界并非停留在心理活动层面，当道德拒斥导致群体间拒绝互动、否定对方实践的合法性时，象征边界就会“硬化”（harden）为社会边界[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 168)]]。在郑雅君 (2023) 的案例中，直觉依赖者对策略行为的道德贬低阻止了他们向目标掌控者获取[[Tacit Knowledge|隐性知识]]，从而巩固了阶层文化资本的不平等传递[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 171)]]。
 
 ---
 

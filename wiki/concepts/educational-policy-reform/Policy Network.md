@@ -33,6 +33,7 @@ related_concepts:
   - "[[Evidence Ecosystem]]"
   - "[[Bureaucracy]]"
   - "[[Cognitive Decoupling]]"
+  - "[[Epistemic Community]]"
   - "[[Competitiveness]]"
   - "[[Falsification]]"
   - "[[Boundary Spanner]]"
@@ -146,7 +147,7 @@ updated: 2026-10-12
 ## 概念辨析
 
 > [!contrast-table] 政策网络与相邻治理机制对比
-> | 维度 | 政策网络（Policy Network） | [[Bureaucracy\|官僚科层制]]（Bureaucracy） | 纯学术共同体（Epistemic Community） | 市场化咨询外包（Commercial Contracting） |
+> | 维度 | 政策网络（Policy Network） | [[Bureaucracy\|官僚科层制]]（Bureaucracy） | 纯学术共同体（[[Epistemic Community]]） | 市场化咨询外包（Commercial Contracting） |
 > |---|---|---|---|---|
 > | **治理结构与纽带** | 公私节点交叉缠绕的异质治理网状结构 | 垂直自上而下的层级法定指令与规章制度 | 基于同行评议与学术规范的学术网络 | 基于商业合同与买卖契约的交易关系 |
 > | **权力与控制来源** | 理念编排、多重人事任职与资金渗透 | 法定行政权威与国家强制力监督 | 学术声誉、方法学严谨性与知识发现 | 市场[[Competitiveness\|竞争力]]、交付效率与客户满意度 |

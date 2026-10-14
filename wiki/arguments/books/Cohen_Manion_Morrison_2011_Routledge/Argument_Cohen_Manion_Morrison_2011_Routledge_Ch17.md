@@ -46,6 +46,7 @@ related_concepts:
   - "[[Critique of Evidence-Based Education]]"
   - "[[Variable]]"
   - "[[Document]]"
+  - "[[Tacit Knowledge]]"
   - "[[Fitness for Purpose]]"
   - "[[External Validity]]"
   - "[[Sampling Error]]"
@@ -173,7 +174,7 @@ updated: 2026-10-08
 
 #### Fitz-Gibbon 的三个必要性论证与效应量转向
 
-Anderson & Biddle（1991）和 Fitz-Gibbon 指出：政策制定者在制定政策时回避证据，实践者在日常忙碌中依赖默会知识而非来自随机对照试验（Randomised Controlled Trial，RCT）的知识（pp. 338–339）。
+Anderson & Biddle（1991）和 Fitz-Gibbon 指出：政策制定者在制定政策时回避证据，实践者在日常忙碌中依赖[[Tacit Knowledge|默会知识]]而非来自随机对照试验（Randomised Controlled Trial，RCT）的知识（pp. 338–339）。
 
 > [!claim] Fitz-Gibbon, C. (1997)
 > Fitz-Gibbon（1997, pp. 35–36）提出了循证方法的三个必要性论证（pp. 338–339）：

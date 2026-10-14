@@ -4364,6 +4364,18 @@
     ]
   },
   {
+    "title": "Tacit Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Tacit Knowledge.md",
+    "aliases": [
+      "默会知识",
+      "隐性知识",
+      "意会知识",
+      "默会之知",
+      "tacit dimension"
+    ]
+  },
+  {
     "title": "Technical Rationality",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Technical Rationality.md",
@@ -9130,6 +9142,18 @@
     ]
   },
   {
+    "title": "Epistemic Community",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Epistemic Community.md",
+    "aliases": [
+      "认知共同体",
+      "认识共同体",
+      "政策认知共同体",
+      "跨国认知共同体",
+      "epistemic communities"
+    ]
+  },
+  {
     "title": "EST Integrated Development",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/EST Integrated Development.md",
@@ -13413,6 +13437,19 @@
     "aliases": [
       "政治算术",
       "political arithmetic tradition"
+    ]
+  },
+  {
+    "title": "Positional Good",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Positional Good.md",
+    "aliases": [
+      "位置性商品",
+      "位置性物品",
+      "位置性利益",
+      "positional goods",
+      "positional competition",
+      "位置性竞争"
     ]
   },
   {

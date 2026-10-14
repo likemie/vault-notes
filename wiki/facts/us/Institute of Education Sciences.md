@@ -44,6 +44,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Output-Oriented Governance]]"
   - "[[Educational Brokerage Agency]]"
+  - "[[Tacit Knowledge]]"
   - "[[Variable]]"
   - "[[Conatus]]"
   - "[[Ecological Validity]]"
@@ -206,7 +207,7 @@ updated: 2026-09-28
 > - **学术引领与[[Scientific Paradigm\|科学范式]]重塑** 通过联邦资助杠杆终结了低质散漫的随意评价，促使全美教育因果研究全面向实验设计、预注册与透明数据[[Paradigm\|范式]]转型。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 206–207)]]
 > - **引领全球[[Output-Oriented Governance\|循证治理]]趋势** 其制定的证据层级与清算机制成为[[OECD\|经合组织]]（OECD）多国（如英国[[Education Endowment Foundation\|教育捐赠基金会]]等）设立本土[[Educational Brokerage Agency\|证据中介机构]]的重要参照蓝本。
 > - **法定财政杠杆的制度化示范** 通过将 WWC 因果证据层级与联邦教育补助金深度绑定，开创了通过法律硬约束驱动学校采纳优质实证干预的宏观治理典范。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 598–600)]]
-> - **政策沉浸与国家科研领军人才转化中枢** [[Argument_Serpell_2020_EP\|Serpell (2020, pp. 46–47)]] 考证指出，全职浸润式的国会科学研究员（Congressional Fellows）机制为 IES 等联邦核心机构输送了深谙立法与行政运作的关键管理人才。部分学者在结束国会山任期后进入 IES 执掌科研资助指南（RFPs）制定与优先资助领域设定，将真实的宏观政策需求反向注入国家教育科研资助顶层设计，打通了学术界与联邦行政中枢的隐性知识循环。
+> - **政策沉浸与国家科研领军人才转化中枢** [[Argument_Serpell_2020_EP\|Serpell (2020, pp. 46–47)]] 考证指出，全职浸润式的国会科学研究员（Congressional Fellows）机制为 IES 等联邦核心机构输送了深谙立法与行政运作的关键管理人才。部分学者在结束国会山任期后进入 IES 执掌科研资助指南（RFPs）制定与优先资助领域设定，将真实的宏观政策需求反向注入国家教育科研资助顶层设计，打通了学术界与联邦行政中枢的[[Tacit Knowledge|隐性知识]]循环。
 
 > [!stat-cards]- 核心规模数据
 > - **≈ $150 million** 年科研投资额（约 1.5 亿美元）。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 206)]]
@@ -221,7 +222,7 @@ updated: 2026-09-28
 > | 维度 | IES 传统因果实证取向 | 批判与实践主义视角 |
 > |---|---|---|
 > | **方法层级** | 视[[Randomised Controlled Trials\|随机对照试验]]为黄金标准，强调严格控制下的[[Internal Validity\|内部效度]] | 批评[[Experimental Research\|实验法]]剥离复杂的学校情境与[[Variable\|变量]]互动，难以解释发[[Conatus\|生机]]制 |
-> | **知识属性** | 追求普适性因果规律与标准化干预工具包 | 强调地方性、情境敏感性与实践者专业默会知识的价值 |
+> | **知识属性** | 追求普适性因果规律与标准化干预工具包 | 强调地方性、情境敏感性与实践者专业[[Tacit Knowledge\|默会知识]]的价值 |
 > | **议程主导** | 由联邦科学官员与量化经济学家、统计学家主导评审指南 | 呼吁吸纳一线教师、弱势社区与边缘群体共同确定研究议程 |
 
 > [!debates] 核心争议交锋

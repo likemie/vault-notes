@@ -27,6 +27,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Knowledge Exchange]]"
   - "[[Technology Transfer]]"
+  - "[[Tacit Knowledge]]"
   - "[[Screening Off]]"
   - "[[Cooperative Education]]"
   - "[[Academic Engagement]]"
@@ -114,7 +115,7 @@ updated: 2026-10-12
 > *Instead of such a static state of knowledge, the inquiry into geopolitics should pay more attention to the phenomena of 'knowledge in motion' such as transfer, dissemination, pedagogy, indoctrination, theft, espionage, surveillance and censorship.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Technology Transfer|技术转移]] — 技术转移特指通过专利、许可、衍生企业等知识产权法权进行的商业化流动；知识转移外延更广，涵盖学术论文、师生交流、咨询建议等非商业与隐性知识通道（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp. 53–55]]）。
+> - 不等于 [[Technology Transfer|技术转移]] — 技术转移特指通过专利、许可、衍生企业等知识产权法权进行的商业化流动；知识转移外延更广，涵盖学术论文、师生交流、咨询建议等非商业与[[Tacit Knowledge|隐性知识]]通道（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp. 53–55]]）。
 > - 不等于 知识交换 — 知识交换暗示对等主体间的双向互惠互动；知识转移涵盖自上而下的强制、非对等转移及战略单向输送。
 > - 不等于 [[Knowledge Mobilisation|知识动员]] — 知识动员是涵盖生产、中介、使用与系统环境的多方共创复杂生态；知识转移是知识动员演化谱系中的第一代线性传递技术与物理底座（[[Argument_Torres_2022_KMModels|Torres, 2022b, pp. 35–37]]）。
 
@@ -187,7 +188,7 @@ updated: 2026-10-12
 > 纠正将产学知识流动窄化为专利许可的商业偏误，确立隐性交往与组织边界跨越的基础价值。
 
 > [!claim] [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall (2025b)]]
-> **全谱系多通道流动与中介双重功能** 大学与产业界的知识转移绝不仅限于专利许可和衍生公司等商业化[[Technology Transfer\|技术转移]]（[[Technology Transfer]]）。[[Document\|文献]]发表、校友交往、师生面对面咨询等非正式渠道，以及学生实习、[[Cooperative Education\|合作教育]]等半正式渠道，构成了工业界吸收大学隐性知识最广泛且最频繁的通路。知识转移办公室（KTO）必须同时兼顾“信息链接”与“法务交易专家”功能，才能有效维系这一跨界连续体。[[Argument_Boccanfuso_Hall_2025_OrgStrategy\|(Boccanfuso & Hall, 2025b, pp. 53–55)]]
+> **全谱系多通道流动与中介双重功能** 大学与产业界的知识转移绝不仅限于专利许可和衍生公司等商业化[[Technology Transfer\|技术转移]]（[[Technology Transfer]]）。[[Document\|文献]]发表、校友交往、师生面对面咨询等非正式渠道，以及学生实习、[[Cooperative Education\|合作教育]]等半正式渠道，构成了工业界吸收大学[[Tacit Knowledge|隐性知识]]最广泛且最频繁的通路。知识转移办公室（KTO）必须同时兼顾“信息链接”与“法务交易专家”功能，才能有效维系这一跨界连续体。[[Argument_Boccanfuso_Hall_2025_OrgStrategy\|(Boccanfuso & Hall, 2025b, pp. 53–55)]]
 
 ---
 
@@ -240,7 +241,7 @@ updated: 2026-10-12
 > - **古典与经院哲学根基** 希腊哲学善的理论经伪狄奥尼修斯与托马斯·阿奎那提炼为拉丁箴言 *omne bonum diffusum sui est*（一切善倾向于自我扩散），确立知识天然具有在人群中扩散的本体倾向；但古典等级制（[[Plato|柏拉图]]智者、儒家[[Junzi|君子]]）始终制约着转移的平权性（[[Argument_Partaken_2022_Springer|Partaken, 2022, p. 75]]）。
 > - **17–19世纪 — 从神学权力到地缘教义** 培根“知识即权力”（1597）在 19 世纪德国统一后被改造为扩张主义地缘政治教义——“地理知识即世界权力”，知识转移成为服务于国家霸权领土扩张的工具（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp. 67–68]]）。
 > - **1970–1980s — 产学隐性经验（Lore）与驻留机制确立** 加州理工 [[Silicon Structures Project|SSP]]、康奈尔 [[National Research and Resource Facility for Submicron Structures|NRRFSS]] 与斯坦福 CIS 探索轮转科学家、驻留工程师与 FMA 联合[[Mentorship|导师制]]，确立高技术重资产环境下以人员流动为载体的隐性经验转移[[Paradigm|范式]]。[[Argument_Mody_2017_MOH\|(Mody, 2017, pp. 290–292, 297)]]
-> - **1980s — 大学[[Bayh-Dole Act of 1980|拜杜法案]]与产学知识转移兴起** 伴随[[Knowledge-Based Economy|知识经济]]崛起，欧美大学成立知识转移办公室（KTO），知识转移在管理学中确立为技术商业化与校企隐性知识流动的核心概念。
+> - **1980s — 大学[[Bayh-Dole Act of 1980|拜杜法案]]与产学知识转移兴起** 伴随[[Knowledge-Based Economy|知识经济]]崛起，欧美大学成立知识转移办公室（KTO），知识转移在管理学中确立为技术商业化与校企[[Tacit Knowledge|隐性知识]]流动的核心概念。
 > - **2003 — 循证卫生决策中的 Lavis 战略框架** Lavis et al. (2003) 提出“五问”受众战略模型，标志着循证政策领域第一代知识转移分析工具的成熟。
 > - **2010–2022 — [[Knowledge Mobilisation|知识动员]]三代演进与再定位** Best & Holmes (2010) 与 [[Argument_Torres_2022_KMModels|Torres (2022b)]] 确立知识转移作为知识动员第一代线性模型的历史地位，阐明其向关系协同与自适应复杂系统模型的代际跨越。
 > - **2019 — 德语区学校改进反思教育知识转移的临床医学转化类比** 马尼蒂乌斯与范[[Peter A. Hall|霍尔]]特（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019]]）反思德语区教育治理中的知识转移与[[Transfer Science|转移科学]]（Transferwissenschaft），指出全域监测数据回传在单体学校的成效缺失，强调教育知识流动具有高度情境依存性，不能照搬循证医学的机械转化假定。

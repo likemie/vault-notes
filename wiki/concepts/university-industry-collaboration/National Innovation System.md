@@ -27,6 +27,7 @@ related_concepts:
   - "[[Process Knowledge]]"
   - "[[Attrition]]"
   - "[[Problem Solving]]"
+  - "[[Tacit Knowledge]]"
   - "[[Linear Model of Innovation]]"
   - "[[Industrial District]]"
   - "[[Apprenticeship]]"
@@ -45,14 +46,17 @@ related_concepts:
   - "[[Measurement Alignment]]"
   - "[[Securitization of Technology]]"
   - "[[Technology Readiness Level]]"
+  - "[[Vertical Disintegration]]"
+  - "[[Market Fundamentalism]]"
+  - "[[Paradigm]]"
   - "[[Liberalization]]"
   - "[[User-Producer Interaction]]"
   - "[[Document]]"
   - "[[Transformative Change]]"
   - "[[Market Shaping and Creating]]"
-  - "[[Paradigm]]"
   - "[[Nature of Innovation]]"
   - "[[Academic Freedom]]"
+  - "[[Discourse]]"
   - "[[Total Factor Productivity]]"
   - "[[Variable]]"
   - "[[Knowledge-Based Economization]]"
@@ -62,6 +66,7 @@ related_concepts:
   - "[[Directionality of Innovation]]"
 related_theories:
   - "[[Systems of Innovation]]"
+  - "[[Developmental Network State]]"
   - "[[Evolutionary Economics]]"
   - "[[Cultural Political Economy]]"
   - "[[Social Contract of Science]]"
@@ -77,11 +82,11 @@ related_persons:
   - "[[Vannevar Bush]]"
   - "[[Kenichi Ohmae]]"
   - "[[Michael Porter]]"
+  - "[[Fred Block]]"
   - "[[Michael Kratsios]]"
   - "[[Bengt-Åke Lundvall]]"
   - "[[Richard Nelson]]"
   - "[[Mariana Mazzucato]]"
-  - "[[Fred Block]]"
 related_facts:
   - "[[German Dual Education System]]"
   - "[[EUV LLC]]"
@@ -93,19 +98,22 @@ related_facts:
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
   - "[[Joint University Microelectronics Program 2.0]]"
+  - "[[Bell Labs]]"
+  - "[[DARPA]]"
+  - "[[National Institutes of Health]]"
+  - "[[National Science Foundation]]"
+  - "[[Department of Energy]]"
   - "[[Ministry of International Trade and Industry]]"
   - "[[OECD]]"
   - "[[CHIPS and Science Act]]"
   - "[[Human Genome Project]]"
-  - "[[DARPA]]"
   - "[[Semiconductor Research Corporation]]"
-  - "[[Department of Energy]]"
 related_arguments:
   - "[[Argument_Freeman_1995_CJE]]"
-  - "[[Argument_Block_2008_PS]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Zhuo_2026_ICE]]"
   - "[[Argument_Fan_2026_BCAS]]"
+  - "[[Argument_Block_2008_PS]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
@@ -144,7 +152,7 @@ updated: 2026-10-12
 > 在大国科技博弈与逆全球化冲击下，研究型大学已从传统上游中立的知识供给者，全面演进为连接教育、科技、人才与产业体系的核心制度节点，通过技术策源、制造支撑、生态整合与制度赋能深度嵌入国家战略创新系统。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–20)]]
 
 > [!boundary]- 概念边界
-> - 不等于 [[Regional Innovation System]] — 后者聚焦于次国家级的地理邻近性、产业集群内部面对面交流与地方隐性知识外溢；国家创新系统则提供宏观制度环境、主权法律规范、国家教育制度、国家级战略联合体与通用基础设施支撑。
+> - 不等于 [[Regional Innovation System]] — 后者聚焦于次国家级的地理邻近性、产业集群内部面对面交流与地方[[Tacit Knowledge|隐性知识]]外溢；国家创新系统则提供宏观制度环境、主权法律规范、国家教育制度、国家级战略联合体与通用基础设施支撑。
 > - 不等于 部门创新系统（Sectoral Innovation System, SIS） — 后者以特定产业部门（如生物制药或半导体）的技术体制、知识边界和专有性机制为分析基准，常具有跨国流动属性；国家创新系统则强调同一国家制度母体对多部门的共同规约与战略协调。
 > - 不等于 单向[[Linear Model of Innovation|线性创新模型]] — 线性模型假定科研经费自然转化为商业产品；国家创新系统强调多主体反馈回路、生产现场工艺改良、前竞争联合攻关与各机构互动质量。
 
@@ -156,7 +164,7 @@ updated: 2026-10-12
 > | 维度 | 国家[[Systems of Innovation\|创新系统]]（NIS） | [[Regional Innovation System\|区域创新系统（RIS）]] | 部门创新系统（SIS） |
 > |------|-------------------|-------------------|-------------------|
 > | **分析对象** | 民族国家尺度上的科技、教育、实体制造与产业制度整体网络。 | 次国家地理单元（城市群、高科技走廊、工业园区）。 | 特定产业门类（如航空航天、微电子、化学工程）。 |
-> | **核心机制** | 国家教育供给、宏观科技政策协调、前竞争联合体召集、制造公地维护与分布式制度试验。 | 地理邻近性、隐性知识面对面溢出、地方社会信任与劳动力池。 | 部门专有知识基础、技术机会窗口、行业进入壁垒与市场结构。 |
+> | **核心机制** | 国家教育供给、宏观科技政策协调、前竞争联合体召集、制造公地维护与分布式制度试验。 | 地理邻近性、[[Tacit Knowledge\|隐性知识]]面对面溢出、地方社会信任与劳动力池。 | 部门专有知识基础、技术机会窗口、行业进入壁垒与市场结构。 |
 > | **空间与制度边界** | 严格以主权国家边界、宪制法律、国家实验室体系与主权规制为制度载体。 | 以微观区域地理半径为边界，具有强烈的在地化特征。 | 跨越国家地理空间，由全球特定产业链与技术标准界定边界。 |
 > | **典型代表** | 美国国家创新体系、德国[[German Dual Education System\|双元制]]与弗劳恩霍夫体系、日本战后追赶体系。 | 美国硅谷、北卡三角研究园、意大利中北部[[Industrial District\|工业区]]。 | 全球半导体设备产业生态、跨国生物制药研发管网。 |
 
@@ -245,11 +253,11 @@ updated: 2026-10-12
 
 ### 命题六　国家创新系统向去中心化公私协同网络转型并受制于隐形运作病理
 
-> [!concept-lens] 创新体制纵向解构、分布式协同网络与制度病理
-> 探讨后工业时代国家创新系统如何由垄断寡头独立研发转向跨部门公私协同网络，以及市场原教旨主义意识形态对其施加的结构性扭曲。
+> [!concept-lens] 创新体制[[Vertical Disintegration|纵向解构]]、分布式协同网络与制度病理
+> 探讨后工业时代国家创新系统如何由垄断寡头独立研发转向跨部门公私协同网络，以及[[Market Fundamentalism|市场原教旨主义]]意识形态对其施加的结构性扭曲。
 
 > [!claim] [[Fred Block|Block, F.]]
-> **发展型网络国家与体制转型论** [[Fred Block|弗雷德·布洛克]]（Fred Block, 2008）基于美国创新史纵向实证揭示，美国国家创新系统自 1980 年代起经历了根本性的范式转移：二战后由少数财富 500 强巨头（如贝尔实验室、通用电气、RCA）内部垂直整合独立实验室垄断技术研发的旧模式走向解体，取而代之的是高度依赖公共资金与跨界协作的[[Developmental Network State|发展型网络国家]]（DNS）。前沿创新不再是孤立企业的私人冒险，而是高度依赖跨部门联邦机构（[[DARPA]]、[[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]]、[[Department of Energy|DOE]]、NIST）、公立大学与中小企业的网络协同；然而，受两党[[Market Fundamentalism|市场原教旨主义]]（Market Fundamentalism）政治霸权制约，该系统被迫以隐形方式运作，从而诱发了五重深层体制病理：创新链条与本土实体制造业断裂、严重忽视制造业蓝领劳工技能升级、激进知识产权造成知识虚构商品化壁垒、显性民用计划极易遭受政治清算毁损，以及技术决策严重缺乏公开民主问责。[[Argument_Block_2008_PS|(Block, 2008, pp. 170–178, 186–188, 194–202)]]
+> **[[Developmental Network State|发展型网络国家]]与体制转型论** [[Fred Block|弗雷德·布洛克]]（Fred Block, 2008）基于美国创新史纵向实证揭示，美国国家创新系统自 1980 年代起经历了根本性的[[Paradigm|范式]]转移：二战后由少数财富 500 强巨头（如[[Bell Labs|贝尔实验室]]、通用电气、RCA）内部垂直整合独立实验室垄断技术研发的旧模式走向解体，取而代之的是高度依赖公共资金与跨界协作的[[Developmental Network State|发展型网络国家]]（DNS）。前沿创新不再是孤立企业的私人冒险，而是高度依赖跨部门联邦机构（[[DARPA]]、[[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]]、[[Department of Energy|DOE]]、NIST）、公立大学与中小企业的网络协同；然而，受两党[[Market Fundamentalism|市场原教旨主义]]（Market Fundamentalism）政治霸权制约，该系统被迫以隐形方式运作，从而诱发了五重深层体制病理：创新链条与本土实体制造业断裂、严重忽视制造业蓝领劳工技能升级、激进知识产权造成知识虚构商品化壁垒、显性民用计划极易遭受政治清算毁损，以及技术决策严重缺乏公开民主问责。[[Argument_Block_2008_PS|(Block, 2008, pp. 170–178, 186–188, 194–202)]]
 
 ---
 
@@ -272,11 +280,11 @@ updated: 2026-10-12
 > [!dev-timeline] 概念演变
 > - **1841 — 思想史奠基** [[Friedrich List|弗里德里希·李斯特]]发表《政治经济学的国家系统》，批判古典经济学仅关注物质资本，提出国家通过公共教育、技术传习与产业保护培育生产力的国家系统思想。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–7)]]
 > - **1982/1987 — 概念正式确立** [[Chris Freeman|克里斯·弗里曼]]在关于日本经济赶超的研究报告中首次正式提出“国家[[Systems of Innovation|创新系统]]”术语，系统提炼日本[[Ministry of International Trade and Industry|通产省]]、终身雇佣制、企业研发网络与技术集成的独特制度架构。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 5)]]
-> - **1992 — [[Bengt-Åke Lundvall|伦德瓦尔]]互动学习模型** 本特-奥克·伦德瓦尔（Bengt-Åke Lundvall）主编《国家创新系统：迈向创新与互动学习的理论》，从微观[[User-Producer Interaction|用户—生产者互动]]与隐性知识流动深化了概念内涵。
+> - **1992 — [[Bengt-Åke Lundvall|伦德瓦尔]]互动学习模型** 本特-奥克·伦德瓦尔（Bengt-Åke Lundvall）主编《国家创新系统：迈向创新与互动学习的理论》，从微观[[User-Producer Interaction|用户—生产者互动]]与[[Tacit Knowledge|隐性知识]]流动深化了概念内涵。
 > - **1993 — 跨国制度比较实证大典** [[Richard Nelson|理查德·纳尔逊]]（Richard R. Nelson）主编《国家创新系统：比较分析》，系统考察 15 个发达与发展中国家的科研体制、大学角色与企业结构。
 > - **1995 — 弗里曼长周期历史辩护** 弗里曼在《剑桥经济学杂志》发表奠基[[Document|文献]]，结合李斯特考证与日苏、韩巴长周期比较，有力回击全球化导致民族国家过时的神话，确立跨学科权威地位。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–24)]]
 > - **1997 — 政策建制化与 [[OECD]] 采纳** 经济合作与发展组织（OECD）正式发布《国家创新系统》报告，推动该概念成为全球主要工业化国家制定科技政策的标准分析工具。
-> - **2008 — 网络转型与隐藏国家形态解析** [[Fred Block|弗雷德·布洛克]]（Fred Block）在《政治与社会》发表里程碑论文，证实美国国家创新系统已从大企业封闭垄断转向以联邦机构为枢纽的去中心化协作网络，并首次系统揭示市场原教旨主义对国家创新系统造成的制造脱节与劳工技能赤字等隐形病理。[[Argument_Block_2008_PS|(Block, 2008, pp. 169–188)]]
+> - **2008 — 网络转型与隐藏国家形态解析** [[Fred Block|弗雷德·布洛克]]（Fred Block）在《政治与社会》发表里程碑论文，证实美国国家创新系统已从大企业封闭垄断转向以联邦机构为枢纽的去中心化协作网络，并首次系统揭示[[Market Fundamentalism|市场原教旨主义]]对国家创新系统造成的制造脱节与劳工技能赤字等隐形病理。[[Argument_Block_2008_PS|(Block, 2008, pp. 169–188)]]
 > - **2018 至今 — 使命导向与[[Transformative Change|变革转型]]拓展** [[Mariana Mazzucato|马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）与肖特等（Schot & Steinmueller, 2018）反思传统 NIS 局限于修补系统失灵的缺陷，推动国家创新系统转向具有明确绿色与社会方向性的主动[[Market Shaping and Creating|市场塑造]]。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–806)]]; [[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 32–34)]]
 > - **2026 — 制造公地重振与前竞争联合体深化** 白宫 [[Office of Science and Technology Policy|OSTP]] 2026 报告将国家创新系统深化为“实体制造公地维护、前竞争联合攻坚（[[EUV LLC]]/[[Transformational AI Models Consortium|TAMC]]）、分布式制度试验与国家 AI 算力核验基础设施”多维协同的全新[[Paradigm|范式]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–46, 54–56, 62–66)]]
 > - **2026 — [[Securitization of Technology|技术安全化]]与[[Research Universities|研究型大学]]角色重构演进** 随着美国《[[CHIPS and Science Act|芯片与科学法案]]》落地，国家创新系统进一步演进为以技术安全化与国家主权为核心导向的战略科技力量网络，研究型大学依托开源标准界定、三级人才蓄水池与中试物理共置，成为统筹产教融合与前沿突破的组织中枢。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–24)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 2–5)]]
@@ -305,11 +313,11 @@ updated: 2026-10-12
 > > - **自由探索与开放科学支持者** 强调基础研究的繁荣依赖全球学者的无国界交流与去中心化自由探索，过度的排他性国家安全审查可能导致科研生态内卷封闭。
 > > - **国家战略主权与安全动员学者（[[Argument_Zhuo_2026_ICE|卓泽林, 2026]]；[[Argument_Fan_2026_BCAS|樊春良, 2026]]）** 指出在全球地缘竞争升温与产业链断链风险下，国家必须引导战略科技力量对齐主权安全需求，大学有责任融入国家战略任务，通过制度赋能捍卫国家技术底座。
 >
-> > [!axis] 市场原教旨主义隐形运作 vs. 显性公共产业战略建制
-> > 争论国家创新系统应继续在自由放任话语掩护下低调运行，还是应当打破意识形态禁忌公开走向显性国家统筹。
+> > [!axis] [[Market Fundamentalism|市场原教旨主义]]隐形运作 vs. 显性公共产业战略建制
+> > 争论国家创新系统应继续在自由放任[[Discourse|话语]]掩护下低调运行，还是应当打破意识形态禁忌公开走向显性国家统筹。
 > >
 > > - **保守主义与市场原教旨主义立场** 坚持国家不能也不应挑选赢家，任何显性产业政策必然导致政治寻租与效率损失，研发干预至多只能以国防安全或基础科学为名隐蔽展开。
-> > - **发展型网络国家分析（[[Argument_Block_2008_PS|Block, 2008]]）** 实证表明隐形运作无法阻挡国家深度介入的事实，反而造成研发与制造割裂、工薪阶层技能忽视与民主问责赤字；必须打破市场原教旨主义教条，将国家创新网络置于公开透明的民主监督与显性战略协调之下。[[Argument_Block_2008_PS|(Block, 2008, pp. 194–202)]]
+> > - **[[Developmental Network State|发展型网络国家]]分析（[[Argument_Block_2008_PS|Block, 2008]]）** 实证表明隐形运作无法阻挡国家深度介入的事实，反而造成研发与制造割裂、工薪阶层技能忽视与民主问责赤字；必须打破市场原教旨主义教条，将国家创新网络置于公开透明的民主监督与显性战略协调之下。[[Argument_Block_2008_PS|(Block, 2008, pp. 194–202)]]
 
 > [!critique] 外部批评
 > - **系统边界模糊性** 批评者指出随着数字通信技术发展与全球学术人员高频流动，界定纯粹国家边界的知识网络难度加大，存在将复杂社会经济现象泛化为系统的一揽子解释风险。
@@ -341,7 +349,7 @@ updated: 2026-10-12
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 从经济思想史与[[Evolutionary Economics|演化经济学]]视角深入考证国家[[Systems of Innovation|创新系统]]的[[Friedrich List|李斯特]]渊源，通过多国长周期实证论证教育、企业研发与网络协调的决定性作用。
-> - [[Argument_Block_2008_PS|Block (2008)]] — 系统提出发展型网络国家理论，运用 R&D 100 成果实证解构美国国家创新系统从寡头独立实验室走向去中心化公私协同网络的组织转型，并剖析市场原教旨主义造成的隐形体制病理。
+> - [[Argument_Block_2008_PS|Block (2008)]] — 系统提出[[Developmental Network State|发展型网络国家理论]]，运用 R&D 100 成果实证解构美国国家创新系统从寡头独立实验室走向去中心化公私协同网络的组织转型，并剖析[[Market Fundamentalism|市场原教旨主义]]造成的隐形体制病理。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 梳理五十年来国家创新系统政策[[Paradigm|范式]]演进，界定制度、网络、锁定与能力失灵，阐释大学在国家创新系统中的全谱系职能。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 批判传统国家创新系统仅弥补系统失灵的被动修补思维，提出以解决重大社会挑战为导向的主动[[Market Shaping and Creating|市场塑造]]与创造框架。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，提出重振实体制造公地、前竞争联合体与国家 AI 基础设施核验网络，为现代国家创新体系注入韧性内核。
@@ -370,7 +378,7 @@ updated: 2026-10-12
 > | [[Systems of Innovation]] | Theory | 国家创新系统所属的系统[[Evolutionary Economics\|演化经济学]]元理论家族。 |
 > | [[Evolutionary Economics]] | Theory | 解释国家创新系统内部非线性和制度路径依赖的核心理论[[Paradigm\|范式]]。 |
 > | [[Chris Freeman]] | Person | 首次正式界定国家创新系统概念并奠定其经验研究传统的演化经济学大师。 |
-> | [[Fred Block]] | Person | 揭示美国国家创新系统走向发展型网络国家及市场原教旨主义制度病理的政治社会学家。 |
+> | [[Fred Block]] | Person | 揭示美国国家创新系统走向[[Developmental Network State\|发展型网络国家]]及[[Market Fundamentalism\|市场原教旨主义]]制度病理的政治社会学家。 |
 > | [[Friedrich List]] | Person | 19 世纪提出国家生产力系统与教育立国思想的经济学先驱。 |
 > | [[Michael Kratsios]] | Person | 主持发布 2026 科技报告、主张重振国家制造公地与前竞争联合体的科技政策学者。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 美国通过立法将半导体产业提升至国家安全主权层面并重塑国家创新体系的代表性法案。 |

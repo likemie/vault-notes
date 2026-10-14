@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Praxis]]"
   - "[[Champ]]"
+  - "[[Tacit Knowledge]]"
   - "[[Phronesis]]"
   - "[[Interactional Expertise]]"
   - "[[School Leadership]]"
@@ -68,7 +69,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> **贡献型专长（Contributory Expertise，亦称贡献专门知识、贡献专长）** 是专长社会学与[[Praxis|实践哲学]]中的基石概念，源于柯林斯（Harry Collins）与埃文斯（Robert Evans）的专长理论，后经埃亚尔（Gil Eyal）深化并引入公共政策与教育治理分析。该概念指行动者在具体实践[[Champ\|场域]]中，通过长期的经验浸润与受训反思所获得的默会知识、具身手艺（craft knowledge）与[[Phronesis\|实践智慧]]（实践智慧，phronesis）。具有贡献型专长的行动者能够直接克服现场的偶发性挑战与不确定性，“把事情做成”（get things done），其专业合法性直接根植于实践效能与情境化解决力。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 7–8)]]
+> **贡献型专长（Contributory Expertise，亦称贡献专门知识、贡献专长）** 是专长社会学与[[Praxis|实践哲学]]中的基石概念，源于柯林斯（Harry Collins）与埃文斯（Robert Evans）的专长理论，后经埃亚尔（Gil Eyal）深化并引入公共政策与教育治理分析。该概念指行动者在具体实践[[Champ\|场域]]中，通过长期的经验浸润与受训反思所获得的[[Tacit Knowledge|默会知识]]、具身手艺（craft knowledge）与[[Phronesis\|实践智慧]]（实践智慧，phronesis）。具有贡献型专长的行动者能够直接克服现场的偶发性挑战与不确定性，“把事情做成”（get things done），其专业合法性直接根植于实践效能与情境化解决力。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 7–8)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向行动者身体与现场历史中沉淀的默会、情境依附性实践能力，与脱离现场的纯语言性[[Interactional Expertise\|交互型专长]]相对立。
@@ -158,7 +159,7 @@ updated: 2026-10-07
 
 > [!dev-timeline] 概念演变
 > - **2002 — 专长第三次浪潮奠基** Collins & Evans (2002) 提出专长与经验研究（SEE）纲领，突破传统[[Positivism\|实证主义]]与相对主义二元论，首次确立贡献型专长（能够实际参与专业实践）与[[Interactional Expertise\|交互型专长]]（能够无障碍转述专业[[Discourse|话语]]）的理论分界。
-> - **2007 — 周期专长理论化与《重思专长》** Collins & Evans (2007) 出版《重思专长》（*Rethinking Expertise*），将贡献型专长系统化[[Operationalization\|操作化]]为依赖默会知识传递、扎根[[Communities of Practice|实践社群]]的具身化能力，确立其作为实践知识合法性源头的地位。
+> - **2007 — 周期专长理论化与《重思专长》** Collins & Evans (2007) 出版《重思专长》（*Rethinking Expertise*），将贡献型专长系统化[[Operationalization\|操作化]]为依赖[[Tacit Knowledge|默会知识]]传递、扎根[[Communities of Practice|实践社群]]的具身化能力，确立其作为实践知识合法性源头的地位。
 > - **2019 — 专长危机与公共领域制度博弈** Eyal (2019) 在《专长危机》（*The Crisis of Expertise*）中将专长二元论引入政治社会学分析，揭示技术客观性专家与一线实践专家在监管、问责与公共危机中的权力冲突与合法性竞争。
 > - **2025 — 教育治理与学校循证实践的跨国比较** [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] 首次将专长社会学框架引入英格兰、苏格兰与德国三地[[School Leadership\|学校领导]]者[[Research Utilization\|证据使用]]的跨国比较，揭示高利害市场化治理如何压制贡献型专长并诱发表演性依从，而低利害与专业自主环境如何为贡献型专长提供生长空间。
 
@@ -175,7 +176,7 @@ updated: 2026-10-07
 > > - **Hemsley-Brown & Oplatka (2005)** 认为教学实践具有高度不确定性与多义性，要求研究者提炼硬科学原理难度极大，社会性专业中的[[Research Utilization\|知识利用]]天然高度依附于贡献型专长的情境裁量。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, p. 7)]]
 
 > [!warning] 适用局限
-> - **默会知识的[[Coding in Qualitative Research\|编码]]与跨情境迁移壁垒** 贡献型专长高度依附于特定学校与师生情境，难以直接脱水提炼为全国通用的标准化教案或政策清单。
+> - **[[Tacit Knowledge|默会知识]]的[[Coding in Qualitative Research\|编码]]与跨情境迁移壁垒** 贡献型专长高度依附于特定学校与师生情境，难以直接脱水提炼为全国通用的标准化教案或政策清单。
 > - **过度防御可能演变为经验主义停滞** 当一线专业人员将贡献型专长作为拒绝一切外部实证检验的挡箭牌时，易导致学校丧失吸收前沿循证教学法的反思动力。
 
 ---

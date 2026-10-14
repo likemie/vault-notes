@@ -27,6 +27,7 @@ related_concepts:
   - "[[Process Knowledge]]"
   - "[[Research Proposal]]"
   - "[[Co-invention]]"
+  - "[[Tacit Knowledge]]"
   - "[[Big Science]]"
   - "[[Engineering Education]]"
   - "[[Industrial Commons]]"
@@ -88,7 +89,7 @@ updated: 2026-10-08
 > [!feature] 核心要素
 > - **实践者法定教职地位** 破除唯论文、唯博士学位的单一师资评价标准，赋予非学术出身的技能大师正式指导与治理身份。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 52)]]
 > - **成果共同署名与产权分享** 在学术论文、专有专利与仪器设计中确立技师与机械师的[[Co-invention|共同发明]]人与作者权益。
-> - **实验仪器即兴建造技艺传递** 将依赖身体感知与车间反复调优的默会经验（Tacit Knowledge）深度融入研究生实验教学。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–51)]]
+> - **实验仪器即兴建造技艺传递** 将依赖身体感知与车间反复调优的默会经验（[[Tacit Knowledge]]）深度融入研究生实验教学。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–51)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -127,7 +128,7 @@ updated: 2026-10-08
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1970s — 默会知识与实验复现研究** 哈里·科林斯（Harry Collins）揭示激光器复现必须依赖技师身体力行的现场协同，奠定实践技艺认知基础。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–48)]]
+> - **1970s — [[Tacit Knowledge|默会知识]]与实验复现研究** 哈里·科林斯（Harry Collins）揭示激光器复现必须依赖技师身体力行的现场协同，奠定实践技艺认知基础。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–48)]]
 > - **2017 — 实验技艺与引力波探测** 赖纳·魏斯（Rainer Weiss）因早年机械与焊接学徒训练亲手打造 LIGO 探测器原型而获[[Alfred Nobel|诺贝尔]]物理学奖。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 51)]]
 > - **2026 — 驻校实践者与国家工匠学者政策化** 美国白宫科技政策办公室在《科学：新黄金时代》中正式将其确立为打破单一学术阶梯、重振[[Industrial Commons|产业公地]]的高等教育制度创新。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 52)]]
 

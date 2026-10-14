@@ -35,6 +35,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Research Translation]]"
   - "[[Pilot Scale Platform]]"
+  - "[[Tacit Knowledge]]"
   - "[[Attrition]]"
   - "[[Industrial Commons]]"
   - "[[Paradigm]]"
@@ -155,7 +156,7 @@ updated: 2026-10-08
 > 剖析线性分工模型在开放市场与全球地缘竞争环境下引发的国家级战略失灵。
 
 > [!claim] Kratsios, M. J.
-> **公共科学成果的非对称外溢与去工业化陷阱** 线性模型预设基础研究成果发表后，本国市场能自然吸纳并实现产业领先。然而在面对推行产业政策与举国动员的竞争对手时，若本土缺乏测试试验场、[[Pilot Scale Platform|中试平台]]与制造供应链，公开论文和专利将被外国制造商快速获取并建立规模垄断（如平板显示、先进锂电池）；本土去制造化更导致资深技师的排障手感与默会知识永久[[Attrition|流失]]，切断了产业前沿对基础物理与材料科学的反馈通路。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 34–35, 48–54)]]
+> **公共科学成果的非对称外溢与去工业化陷阱** 线性模型预设基础研究成果发表后，本国市场能自然吸纳并实现产业领先。然而在面对推行产业政策与举国动员的竞争对手时，若本土缺乏测试试验场、[[Pilot Scale Platform|中试平台]]与制造供应链，公开论文和专利将被外国制造商快速获取并建立规模垄断（如平板显示、先进锂电池）；本土去制造化更导致资深技师的排障手感与[[Tacit Knowledge|默会知识]]永久[[Attrition|流失]]，切断了产业前沿对基础物理与材料科学的反馈通路。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 34–35, 48–54)]]
 
 ---
 

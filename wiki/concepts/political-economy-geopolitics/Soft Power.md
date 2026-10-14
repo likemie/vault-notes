@@ -30,6 +30,7 @@ related_concepts:
   - "[[Knowledge Diplomacy]]"
   - "[[Façade of Rationality]]"
   - "[[Geopolitics of Higher Education]]"
+  - "[[Epistemic Community]]"
   - "[[Open-Mindedness]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Winner's Fallacy]]"
@@ -114,7 +115,7 @@ updated: 2026-10-10
 > - **非强制性吸引力机制（Attraction Mechanism）** 软实力的核心是不诉诸武力威胁或经济利诱，而是通过展示具有吸引力的文化生活方式、崇高的制度理念或被普遍认可的发展成就，促使他国自主产生羡慕、认同并主动调整自身政策偏好。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 10–11)]]
 > - **国际议程设置与规范合法性（Agenda-Setting & Normative Legitimacy）** 奈强调，在全球化与高度媒介化的信息时代，使自身的治理准则被公认为普遍真理、将自身的战略关切上升为跨国制度议程的能力，构成了当代大国软实力的最高表现形式。
 > - **高等教育跨国流动的三重传导路径** 在全球[[Geopolitics of Higher Education\|高等教育地缘政治]]中，国家通过三种机制投射软实力：一是通过特色课程体系与学术标准引导国际留学生形成对本国发展道路的认同；二是通过科研合作与[[Discourse|话语]]输出建立国际社会对本国制度价值的信任；三是将教育伙伴关系无缝融入对外战略与经济合作走廊。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, p. 11)]]
-> - **超国家组织“[[Soft Power by Hard Facts\|以硬事实施展软权力]]”机制** 国际组织（如 [[OECD]] 与[[World Bank\|世界银行]]）虽然没有立法管辖权和主权执法权，但通过常态化发布跨国比较数据（如 [[PISA]]、[[International Indicators of Education Systems\|INES]]）将各国教育系统纳入统一认知共同体。量化数据提供了客观中立的科学表象，诱发各国内部围绕国际排名产生深层政治焦虑，从而以“软治理”方式撬动国家层面的法定教育变革。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 537–538)]]
+> - **超国家组织“[[Soft Power by Hard Facts\|以硬事实施展软权力]]”机制** 国际组织（如 [[OECD]] 与[[World Bank\|世界银行]]）虽然没有立法管辖权和主权执法权，但通过常态化发布跨国比较数据（如 [[PISA]]、[[International Indicators of Education Systems\|INES]]）将各国教育系统纳入统一[[Epistemic Community|认知共同体]]。量化数据提供了客观中立的科学表象，诱发各国内部围绕国际排名产生深层政治焦虑，从而以“软治理”方式撬动国家层面的法定教育变革。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 537–538)]]
 
 > [!logic-map]- 软权力 in 教育治理中的运作机制流程图
 > ```mermaid

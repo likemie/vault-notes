@@ -23,6 +23,7 @@ related_concepts:
   - "[[Apprenticeship]]"
   - "[[Shape-Shifting]]"
   - "[[Document]]"
+  - "[[Tacit Knowledge]]"
   - "[[Attrition]]"
   - "[[Competitiveness]]"
   - "[[Research Universities]]"
@@ -100,7 +101,7 @@ updated: 2026-10-10
 
 ### 命题一　研发与实体制造的地理割裂将导致默会过程知识断流，诱发底层工程设计能力的系统性退化
 
-> [!concept-lens] 默会知识与设计制造共生
+> [!concept-lens] [[Tacit Knowledge|默会知识]]与设计制造共生
 > 剖析为何技术无法仅凭发表[[Document|文献]]传递，以及离岸制造如何切断创新源头。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]

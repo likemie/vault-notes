@@ -19,6 +19,7 @@ tags:
   - theme/industrial-organization
 related_concepts:
   - "[[Hypothesis]]"
+  - "[[Tacit Knowledge]]"
   - "[[Technology Transfer]]"
   - "[[Paradigm]]"
   - "[[Process Knowledge]]"
@@ -66,7 +67,7 @@ updated: 2026-10-12
 > - **边界** 不等于面向一般大众消费者的单纯[[Questionnaire|问卷]]市场调研；特指涉及精密工程、工业母机、材料改良与数字集成等专业产业网络中的高频技术互动。
 
 > [!citation-card] [[Bengt-Åke Lundvall|伦德瓦尔]]论先进用户邻近性与互动网络的比较优势
-> 即使在开放经济体中发生持续的渐进式创新，走向标准化的驱动力也是有限的。与先进用户在地理与文化上的邻近性，以及制度化的（即便往往是非正式的）用户—生产者关系网络，构成了多样性与比较优势的重要源泉，当地管理和技术技能的供给以及长期累积的隐性知识同样如此。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 17)]]
+> 即使在开放经济体中发生持续的渐进式创新，走向标准化的驱动力也是有限的。与先进用户在地理与文化上的邻近性，以及制度化的（即便往往是非正式的）用户—生产者关系网络，构成了多样性与比较优势的重要源泉，当地管理和技术技能的供给以及长期累积的[[Tacit Knowledge|隐性知识]]同样如此。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 17)]]
 >
 > *Geographical and cultural proximity to advanced users and a network of institutionalised (even if often informal) user-producer relationships are an important source of diversity and of comparative advantage, as is the local supply of managerial and technical skills and accumulated tacit knowledge.*
 
@@ -92,7 +93,7 @@ updated: 2026-10-12
 
 > [!feature] 用户—生产者互动的核心机制
 > - **双向信息回路与需求规格共同界定** 下游用户在生产实践中遭遇的工况瓶颈直接反馈给设备制造企业，双方技术团队共同参与技术参数定义与设备迭代。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 10–11)]]
-> - **信任累积与隐性知识跨界流动** 长期合作降低了机会主义道德风险，使得未成文的操作经验、工艺技巧与未公开实验数据能够在企业边界间顺畅交换。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11, 17)]]
+> - **信任累积与[[Tacit Knowledge|隐性知识]]跨界流动** 长期合作降低了机会主义道德风险，使得未成文的操作经验、工艺技巧与未公开实验数据能够在企业边界间顺畅交换。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11, 17)]]
 > - **地理与文化邻近性支撑** 面对技术不确定性与高频变更，面对面的人际沟通与共享的制度文化语境是消除认知距离的关键。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 17, 21)]]
 
 > [!logic-map]- 用户—生产者互动循环机制

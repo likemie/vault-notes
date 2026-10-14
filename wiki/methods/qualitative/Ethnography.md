@@ -23,6 +23,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Unit of Analysis]]"
   - "[[Communities of Practice]]"
+  - "[[Tacit Knowledge]]"
   - "[[Research Question]]"
   - "[[Interviewer Effects]]"
   - "[[Epistemology]]"
@@ -116,7 +117,7 @@ updated: 2026-10-09
 > | 比较维度 | 自然主义 / 民族志方法 | 常规质性方法（如访谈/[[Focus Group\|焦点小组]]） |
 > |:---------|:---------------------|:------------------------------|
 > | **驻留时间** | 必须在自然情境中长期驻留（Long-term Residence）与深度沉浸。 | 可以是短期、横截面或单次接触（如单次访谈）。 |
-> | **核心关切** | 关注文化群体的整体共享模式、默会知识与历史脉络。 | 关注特定[[Research Question\|研究问题]]的数据性质与参与者的离散表述。 |
+> | **核心关切** | 关注文化群体的整体共享模式、[[Tacit Knowledge\|默会知识]]与历史脉络。 | 关注特定[[Research Question\|研究问题]]的数据性质与参与者的离散表述。 |
 > | **生态真实度** | 极高；以非侵入式或参与式观察记录最自然的日常互动。 | 较低；访谈互动受制于人造提问情境与[[Interviewer Effects\|访谈者效应]]。 |
 
 ---
@@ -156,7 +157,7 @@ updated: 2026-10-09
 > 2. [[Hypothesis|假设]]在田野中动态[[Emergence|涌现]]；
 > 3. 事件经过长期且重复观察以确保可靠；
 > 4. 推断始终服务于主位视角；
-> 5. 以阐明社会文化隐性知识为核心任务；
+> 5. 以阐明社会文化[[Tacit Knowledge|隐性知识]]为核心任务；
 > 6. 工具与[[Coding in Qualitative Research|编码]]现场生成；
 > 7. 蕴含跨文化比较视角；
 > 8. 将[[Doxa|不言自明]]的默会实践显性化；

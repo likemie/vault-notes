@@ -28,6 +28,7 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[STEM Education]]"
   - "[[APA Style]]"
+  - "[[Tacit Knowledge]]"
   - "[[Learning by Doing]]"
   - "[[Grandes Ecoles]]"
   - "[[Research Topic]]"
@@ -138,7 +139,7 @@ updated: 2026-10-08
 > - **跨学科教育标准渗透** Project 2061 编制的[[Scientific Literacy|科学素养]]基准直接融入了美国《国家科学教育标准》（NSES）与《下一代科学标准》（NGSS）的顶层设计。
 
 > [!finding-cards] 关键成效与辐射影响
-> - **破除政治认知壁垒并内化立法隐性知识** 在 [[Argument_Serpell_2020_EP|Serpell (2020)]] 的实证反思中，AAAS 开创的研究员沉浸机制具有不可替代的“在[[Learning by Doing|干中学]]”效能；一年的全职幕僚经历彻底消除了学者对国会政治的傲慢与偏见，使研究者掌握了如何将复杂数据压缩为三分钟听证口径的实战艺术。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 46–47)]]
+> - **破除政治认知壁垒并内化立法[[Tacit Knowledge|隐性知识]]** 在 [[Argument_Serpell_2020_EP|Serpell (2020)]] 的实证反思中，AAAS 开创的研究员沉浸机制具有不可替代的“在[[Learning by Doing|干中学]]”效能；一年的全职幕僚经历彻底消除了学者对国会政治的傲慢与偏见，使研究者掌握了如何将复杂数据压缩为三分钟听证口径的实战艺术。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 46–47)]]
 > - **构建终身政策影响力辐射网络** 结项后的学者展现出极强的制度穿透力：部分学者选择留在联邦行政机构（如 [[Institute of Education Sciences|IES]] 或 [[National Science Foundation|NSF]]）主导国家科研指南设定；部分出任国会委员会常设专业主任；返回[[Grandes Ecoles|大学校]]园的高校教师则彻底重构了自己的[[Research Topic|研究选题]]视野，将科学传播实战深度注入研究生培养之中。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 47)]]
 > - **搭建科学界与白宫/国会的制度性对话桥梁** 作为全美非官方科学共同体的联合代言人，AAAS 在历次冷战危机、科研伦理辩论与联邦预算紧缩关头，为捍卫大学基础研究独立性与反击政治干预提供了坚实的制度屏障。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 48)]]
 
@@ -181,7 +182,7 @@ updated: 2026-10-08
 > | [[STEM Education]] | Concept | AAAS 教育学部（Section Q）重点推进的科学教育改革领域。 |
 > | [[Boundary Spanner]] | Concept | AAAS 科技政策研究员在国会山跨越学术与政治边界所扮演的角色。 |
 > | [[Research-Policy Gap]] | Concept | AAAS 设立政策研究员计划旨在攻克的核心两社区断裂难题。 |
-> | [[Two-Communities Theory]] | Theory | 解释 AAAS 政策研究员为何必须通过深度沉浸才能内化政治隐性知识的理论基石。 |
+> | [[Two-Communities Theory]] | Theory | 解释 AAAS 政策研究员为何必须通过深度沉浸才能内化政治[[Tacit Knowledge\|隐性知识]]的理论基石。 |
 > | [[Navigational Framework for Educational Researchers]] | Theory | 基于 AAAS/[[American Educational Research Association\|AERA]] 国会政策研究员立法实务沉浸提炼的政策介入框架。 |
 > | [[Science, The Endless Frontier 1945]] | Fact ([[Document]]) | 二战后 AAAS 深度参与倡导并推动落实的国家科技体制顶层蓝图。 |
 > | [[National Science Foundation]] | Fact (Organization) | AAAS 长期紧密协同合作的联邦基础科研出资机构；二者领导层与政策学者高度重合。 |

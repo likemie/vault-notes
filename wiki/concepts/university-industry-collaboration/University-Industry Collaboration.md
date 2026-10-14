@@ -50,6 +50,7 @@ related_concepts:
   - "[[Partnership Continuum]]"
   - "[[Clinical Trial]]"
   - "[[University-Industry Co-location]]"
+  - "[[Tacit Knowledge]]"
   - "[[Research Translation]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Market Fundamentalism]]"
@@ -68,6 +69,7 @@ related_theories:
   - "[[Academic Capitalism]]"
   - "[[Values Alignment Model]]"
 related_methods:
+  - "[[Matching]]"
   - "[[In-depth Interview]]"
 related_persons:
   - "[[Peter A. Hall]]"
@@ -78,7 +80,9 @@ related_facts:
   - "[[Science and Technology Centers]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Semiconductor Research Corporation]]"
+  - "[[Industry-University Cooperative Research Centers]]"
   - "[[Advanced Technology Program]]"
+  - "[[DARPA]]"
   - "[[Sematech]]"
   - "[[CHIPS and Science Act]]"
   - "[[Joint University Microelectronics Program 2.0]]"
@@ -277,7 +281,7 @@ updated: 2026-10-12
 > - **前沿生成 vs 前沿内扩散** 产学合作涵盖前沿颠覆性大企业共同攻关（前沿生成）与广大中小企业技术消化吸收（前沿内扩散）的双轨逻辑。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 18–19)]]
 > - **[[Partnership Continuum|伙伴关系连续体]]（Partnership Continuum）** 合作沿“交易型（单次外包）→ 协作型（互惠分享）→ 战略联盟（长期愿景与资源绑定）”非线性演进。[[Argument_UIDP_2012_PartnershipContinuum|(Southerton et al., 2012, p. 7)]]
 > - **机构协议矩阵（11 类协议工具）** 包括[[Sponsored Research Agreement|赞助研究协议]]（SRA）、保密协议（NDA）、数据使用协议（DUA）、材料转移协议（MTA）、[[Clinical Trial|临床试验]]协议、会员制协议及长期[[Master Agreement|主协议]]（Master Agreement）。[[Argument_Hall_2025_EthicalLegalFrameworks|(Hall, 2025, pp. 261–262)]]
-> - **校企共同选址（[[University-Industry Co-location|co-location]]）** 企业团队入驻大学园区（如 Mars 在 UC Davis、联合利华在瓦赫宁根），以物理临近性消除文化阻隔与隐性知识流转摩擦。[[Argument_Wolf_2025_InternationalResearchCollab|(Wolf et al., 2025, pp. 317–318)]]
+> - **校企共同选址（[[University-Industry Co-location|co-location]]）** 企业团队入驻大学园区（如 Mars 在 UC Davis、联合利华在瓦赫宁根），以物理临近性消除文化阻隔与[[Tacit Knowledge|隐性知识]]流转摩擦。[[Argument_Wolf_2025_InternationalResearchCollab|(Wolf et al., 2025, pp. 317–318)]]
 
 ### 企业内部运作逻辑与时间尺度协调
 

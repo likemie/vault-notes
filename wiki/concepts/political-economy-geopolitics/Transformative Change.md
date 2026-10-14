@@ -25,6 +25,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Wicked Problem]]"
   - "[[Market Failure]]"
+  - "[[Tacit Knowledge]]"
   - "[[Absorptive Capacity]]"
   - "[[Directionality of Innovation]]"
   - "[[Reflexivity]]"
@@ -64,7 +65,7 @@ updated: 2026-10-03
 > [!note]-
 > 变革转型[[Paradigm\|范式]]的出现是对前两个[[Innovation Policy Paradigms\|创新政策范式]]递进式批判的结果([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, pp.28–35]])：
 
-1. **范式一：科学促增长（1940s–1980s）**——以"科学→技术→增长"的线性模型为基础，政府角色是资助基础研究以弥补[[Market Failure|市场失灵]]。其盲区：忽略了创新涉及多行动者的双向互动，隐性知识、[[Absorptive Capacity|吸收能力]]和制度环境同样关键
+1. **范式一：科学促增长（1940s–1980s）**——以"科学→技术→增长"的线性模型为基础，政府角色是资助基础研究以弥补[[Market Failure|市场失灵]]。其盲区：忽略了创新涉及多行动者的双向互动，[[Tacit Knowledge|隐性知识]]、[[Absorptive Capacity|吸收能力]]和制度环境同样关键
 2. **范式二：[[Systems of Innovation|创新系统]]（1980s–1990s）**——将创新重新定义为多行动者在制度环境下的集体学习活动，政策关注从"市场失灵"扩展为"系统失灵"（制度失灵、网络失灵、锁定失灵、能力失灵等）。其盲区：擅长诊断系统卡在哪里，但不能告诉你该往哪个方向走
 3. **范式三：变革转型（2010s 至今）**——批评系统范式"过于被动和反应性"，主张政策应主动推动方向性变革以应对[[Wicked Problem|棘手问题]]。引入四个新的失灵类型（见[[#核心要素]]），要求政府从"系统修复者"升级为"方向引导者"
 

@@ -38,6 +38,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Hypothesis]]"
+  - "[[Tacit Knowledge]]"
 related_theories: []
 related_methods:
   - "[[Literature Map]]"
@@ -479,7 +480,7 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > > [!axis] 手工精读与结构化布尔检索 vs AI 代理自动化文献挖掘与算法黑箱
 > > 争论研究者应当坚守人工逐篇阅读与关键词精确布尔筛选，还是依托大模型代理进行全自动文献综合。
 > >
-> > - **传统方法规范派** 强调人工亲身精读文献是培养学术品味、洞察隐性方法[[Hypothesis|假设]]与体会作者论证手感的不可替代过程；AI 检索容易产生幻觉假引用并忽略非结构化默会知识。
+> > - **传统方法规范派** 强调人工亲身精读文献是培养学术品味、洞察隐性方法[[Hypothesis|假设]]与体会作者论证手感的不可替代过程；AI 检索容易产生幻觉假引用并忽略非结构化[[Tacit Knowledge|默会知识]]。
 > > - **AI 增强与[[Man-Computer Symbiosis|人机协同]]派（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）** 论证面对全球每年数百万篇海量论文爆发，传统人工检索已达认知极限；唯有利用智能代理执行全景式文献挖掘与机器验证，人类学者才能在高阶理论层面维系跨学科视野。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 70–72)]]
 
 > [!feature] 质量评估标准

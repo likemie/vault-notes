@@ -54,6 +54,7 @@ related_concepts:
   - "[[Contributory Expertise]]"
   - "[[Unit of Analysis]]"
   - "[[Research-Engaged School]]"
+  - "[[Tacit Knowledge]]"
   - "[[Problem Solving]]"
   - "[[Activity Traps]]"
   - "[[Educational Evidence Clearinghouses]]"
@@ -311,7 +312,7 @@ updated: 2026-10-09
 > **四类条件的互补性** 学校要把自身建成[[Research-Engaged School\|研究参与学校]]，须同时具备参与研究并运用证据的能力、使研究使用成为常规的文化、以[[Professional Learning Community\|专业学习共同体]]为载体的有效学习环境，以及支撑研究使用的结构、系统与资源。四者并非可相互替代的并列选项：能力不足会使证据无法被正确解读，文化缺位会使个别教师的使用难以持续，学习环境薄弱会使研究使用退化为技巧采纳，结构缺位则使前两者失去时间与空间保障。任一环节缺位，证据知情实践都难以在学校层面稳定下来。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 122–126)]]
 
 > [!claim] Stoll, L. 等
-> **[[Reflexivity\|反思性]]专业探究是学习环境的判定特征** 在把研究使用嵌入学习环境的诸种安排中，专业学习共同体之所以被视为最佳载体，是因为其核心特征恰是反思性专业探究：反思性对话、围绕严肃教育议题的交谈、主动寻求新知识，以及通过互动把默会知识转化为可用于[[Problem Solving\|问题解决]]的共享知识。缺少这一特征，共同体虽然仍在运转，却不再构成证据使用所需的学习环境。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 124–125)]]
+> **[[Reflexivity\|反思性]]专业探究是学习环境的判定特征** 在把研究使用嵌入学习环境的诸种安排中，专业学习共同体之所以被视为最佳载体，是因为其核心特征恰是反思性专业探究：反思性对话、围绕严肃教育议题的交谈、主动寻求新知识，以及通过互动把[[Tacit Knowledge|默会知识]]转化为可用于[[Problem Solving\|问题解决]]的共享知识。缺少这一特征，共同体虽然仍在运转，却不再构成证据使用所需的学习环境。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 124–125)]]
 
 > [!claim] Katz, S. & Dack, L. A.
 > **缺少正式探究协议会使协作活动落入[[Activity Traps\|活动陷阱]]** 若学校只提供协作的形式而缺少正式的探究协议与工具，教师会跳过成因分析而径直寻求解决方案，即落入[[Activity Traps\|活动陷阱]]。其后果是实践与情境的根本问题未被确立、全部成因与方案未被考虑，并因做法“已知”而重复无效实践;因此合作结构本身并不足以支撑 EIP，还必须配套探究协议与评价流程。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 130–131)]]

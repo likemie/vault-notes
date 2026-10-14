@@ -36,6 +36,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Policy Borrowing]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Tacit Knowledge]]"
   - "[[Legislative Policy Brief]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
@@ -131,7 +132,7 @@ updated: 2026-10-07
 > - **推论二（源自核心命题三）** 当[[Boundary Spanner\|边界跨越者]]制度化为庞大的超国家中介机构时，它不再仅仅消极调适两界鸿沟，而是通过设定跨国测评指标反向[[Disciplina and Doctrina\|规训]]国家政策议程，迫使主权国家按照中介机构的话语框架重组其国内教育系统。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
 > - **应用命题** 延伸至全球教育[[Policy Borrowing\|政策借用]]与转译研究中，该理论精准预测了在国家课程改革中，国际组织（如经合组织、世界银行）打包推介的“即插即用”式[[21st Century Skills and Competencies Discourse\|核心素养]]框架，比本土大学研究者基于复杂情境的审慎实证更容易在法定行政法令层面获得政策采纳。
 > - **推论三（两社区引证行为的对称性反思）** 学者常批评决策者断章取义、策略性挑选证据；然而塞佩尔（[[Argument_Serpell_2020_EP\|Serpell, 2020]]）反思指出，学者在学术研讨会上呈现论文时，同样习惯于重点强调支持自身理论的文献，而轻描淡写不相符的研究。两社区并非“纯洁客观 vs 卑劣算计”的绝对对立，而是各自深嵌在自身的正当性维系体系之中；研究者若要让证据进入政策视野，必须主动识别立法者的价值系统并寻找契合点。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 42–43)]]
-> - **推论四（沉浸式跨界与法条化技术）** 突破两社区壁垒不能停留在单向的信息简报或外包中介，而需通过两项高阶跨界机制：其一为全职沉浸的国会政策研究员机制（[[American Association for the Advancement of Science\|AAAS]]/[[American Educational Research Association\|AERA]] Congressional Fellowships），使学者掌握立法隐性知识与语言密码；其二为[[Legislative Policy Brief\|立法政策简报]]，将实证结论转化为由专业律师起草的法定示范条文（Model Statutory Language），直接为法案起草提供可用文本。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 46–47)]]
+> - **推论四（沉浸式跨界与法条化技术）** 突破两社区壁垒不能停留在单向的信息简报或外包中介，而需通过两项高阶跨界机制：其一为全职沉浸的国会政策研究员机制（[[American Association for the Advancement of Science\|AAAS]]/[[American Educational Research Association\|AERA]] Congressional Fellowships），使学者掌握立法[[Tacit Knowledge|隐性知识]]与语言密码；其二为[[Legislative Policy Brief\|立法政策简报]]，将实证结论转化为由专业律师起草的法定示范条文（Model Statutory Language），直接为法案起草提供可用文本。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 46–47)]]
 > - **应用命题二（四维跨界证据吸纳审视）** 结合纳特利等（Nutley et al., 2002）框架，跨越两社区的边界跨越者必须从决策者个人维度、研究契合度维度、制度情境维度与政策执行可逆性维度进行综合研判。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
 
 > [!mechanism-map]- 机制图

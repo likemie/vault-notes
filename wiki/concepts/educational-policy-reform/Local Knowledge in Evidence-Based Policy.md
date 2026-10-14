@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Professional Judgment]]"
   - "[[Document]]"
+  - "[[Tacit Knowledge]]"
   - "[[Research Utilization]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Evidence-Based Education]]"
@@ -68,7 +69,7 @@ updated: 2026-09-22
 ## 历史沿革
 
 > [!note-] 历史沿革
-> 本地知识的概念在证据本位政策[[Document\|文献]]中经历了从被贬低到被重新评价的过程。早期 EBP 推动者倾向于将本地知识和[[Professional Judgment\|专业判断]]视为需要被科学证据取代的"轶事"或"直觉"([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.14]])。然而，随着实施研究的积累，越来越多的证据表明缺乏本地知识的纯证据驱动方案往往在实践中失败。Oliver et al. (2014) 对 145 项研究的[[Systematic Review\|系统综述]]发现"非正式证据"——包括本地数据和默会知识——在超过三分之一的研究中被认为是成功实施的关键因素([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.12]])。
+> 本地知识的概念在证据本位政策[[Document\|文献]]中经历了从被贬低到被重新评价的过程。早期 EBP 推动者倾向于将本地知识和[[Professional Judgment\|专业判断]]视为需要被科学证据取代的"轶事"或"直觉"([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.14]])。然而，随着实施研究的积累，越来越多的证据表明缺乏本地知识的纯证据驱动方案往往在实践中失败。Oliver et al. (2014) 对 145 项研究的[[Systematic Review\|系统综述]]发现"非正式证据"——包括本地数据和[[Tacit Knowledge|默会知识]]——在超过三分之一的研究中被认为是成功实施的关键因素([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.12]])。
 
 ## 核心要素
 
@@ -116,7 +117,7 @@ updated: 2026-09-22
 ## 实证发现
 
 > [!success] 实证发现
-> - Oliver et al. (2014) 对 145 项研究的综述发现："非正式证据"（本地数据、默会知识）在超过三分之一的研究中被列为成功实施的关键([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.12]])
+> - Oliver et al. (2014) 对 145 项研究的综述发现："非正式证据"（本地数据、[[Tacit Knowledge|默会知识]]）在超过三分之一的研究中被列为成功实施的关键([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.12]])
 > - Honig & Coburn (2007) 对 50+ 项研究的综述发现：学区中央办公室管理者严重依赖从业者知识和本地知识([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.14]])
 > - 教师访谈中几乎所有受访者都强调了本地情境因素([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.27-28]])
 > - Tennessee STAR 案例：参与学校系统性不同于全州平均——规模更大、非裔学生比例高出 40%（Hanushek, 1999）——忽视这一本地特征导致加州对"STAR 成功可复制"的错误[[Hypothesis\|假设]]([[Argument_Wiliam_2019_ERE\|Wiliam, 2019, p.6]])

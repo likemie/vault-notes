@@ -26,6 +26,7 @@ related_concepts:
   - "[[Decodification]]"
   - "[[Visible Learning]]"
   - "[[Reference Society]]"
+  - "[[Epistemic Community]]"
   - "[[Policy Borrowing]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Champ]]"
@@ -122,7 +123,7 @@ updated: 2026-10-11
 > PISA 驱动 GERM 的三层运作机制（[[Argument_Li_2025_HSSC\|Li et al., 2025]]）：在**宏观决策层面**，PISA 推动各国接受新自由主义教育价值（德国、法国增加支出，日本纳入 PISA 素养，韩国改变[[Reference Society\|参考社会]]选择），呼应 GERM 的标准化和市场化支柱；在**中观决策层面**，PISA 推动了各国建立与 PISA 对接的全国性教育评估和监测体系（瑞士 [[HarmoS]]、中国 [[National Assessment of Education Quality China 2007\|NAEQ]]、加拿大 CEIP），直接服务于 GERM 的测试问责和偏狭关注支柱；在**微观决策层面**，PISA 推动课程改革和学制调整（德国 NES 课程、瑞士义务教育延长），呼应 GERM 的低风险路径和标准化教学支柱。
 
 > [!chain-link] PISA 的软治理 → GERM 的跨国制度化
-> [[OECD]] 通过 PISA 建立国际认知共同体——以相同概念和分数讨论教育政策（Rautalin & Alasuutari, 2009）→ PISA 排名设立模范社会（芬兰、上海），为各国提供[[Policy Borrowing\|政策借用]]制度模板 → 各国在排名压力下参照模范社会进行教育改革，接受 GERM 的标准化和问责逻辑 → PISA 的三层影响机制（超国家软治理、国家自我认知落差、内部行动者[[Transfer Translation Transformation\|转译]]）使 GERM 在不施加法律强制的情况下实现全球扩散（[[Argument_Li_2025_HSSC\|Li et al., 2025]]）。
+> [[OECD]] 通过 PISA 建立国际[[Epistemic Community|认知共同体]]——以相同概念和分数讨论教育政策（Rautalin & Alasuutari, 2009）→ PISA 排名设立模范社会（芬兰、上海），为各国提供[[Policy Borrowing\|政策借用]]制度模板 → 各国在排名压力下参照模范社会进行教育改革，接受 GERM 的标准化和问责逻辑 → PISA 的三层影响机制（超国家软治理、国家自我认知落差、内部行动者[[Transfer Translation Transformation\|转译]]）使 GERM 在不施加法律强制的情况下实现全球扩散（[[Argument_Li_2025_HSSC\|Li et al., 2025]]）。
 
 ---
 

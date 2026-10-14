@@ -26,6 +26,7 @@ tags:
   - theme/semiconductor
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Tacit Knowledge]]"
   - "[[Technology Transfer]]"
   - "[[Electronic Design Automation]]"
   - "[[University-Based Research Center]]"
@@ -84,7 +85,7 @@ updated: 2026-10-12
 
 > [!pathways]- 业务运行机制与制度特征
 > - **微型联合体出资结构** 采用类似于后来研发联合体的集资方式，由多家竞争企业按年缴纳等额会费，分摊长周期高风险探索成本。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 290–291)]]
-> - **双向隐性知识扩散** 派驻科学家不仅将工业界严谨的工程管理带入大学象牙塔，更在轮换期满后将大学环境中的天马行空探索诀窍（Lore of academic environment）带回母公司，形成高价值的[[Technology Transfer|技术转移]]闭环。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 291)]]
+> - **双向[[Tacit Knowledge|隐性知识]]扩散** 派驻科学家不仅将工业界严谨的工程管理带入大学象牙塔，更在轮换期满后将大学环境中的天马行空探索诀窍（Lore of academic environment）带回母公司，形成高价值的[[Technology Transfer|技术转移]]闭环。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 291)]]
 
 ---
 

@@ -37,6 +37,7 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[Paradigm]]"
   - "[[Scaffolding]]"
+  - "[[Tacit Knowledge]]"
   - "[[Reflective Thinking]]"
   - "[[Knowledge Mediation]]"
   - "[[Operationalization]]"
@@ -172,7 +173,7 @@ updated: 2026-10-07
 > **从技巧清单转向探究性学习文化** 研究参与学校的核心价值在于打破将研究视为实用“锦囊妙计”（hints and [[TRIZ\|TIPS]]）的工具主义狭隘取向，推动全校形成探究性学习文化。在学习文化中，研究证据被用作重新审视教学痛点、暴露认知盲区与检验底层[[Hypothesis\|假设]]的[[Scaffolding\|脚手架]]，从而使教师专业学习与学校改进形成良性演进循环。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 118)]]
 
 > [!claim] Handscomb, G. & MacBeath, J.; Stoll, L. 等
-> **制度化日常嵌入是文化转型的物质基石** 学校能否实现向学习文化的转型，取决于组织是否将[[Research Utilization\|研究使用]]制度化嵌入教师日常专业生活，而非视作额外的外加负担。这需要[[School Leadership\|学校领导]]层在课表排程、教研空间与评价激励上提供刚性支持，依托[[Reflexivity\|反思性]]专业探究将教师默会知识转化为全校共享资源。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 118, 124–125)]]
+> **制度化日常嵌入是文化转型的物质基石** 学校能否实现向学习文化的转型，取决于组织是否将[[Research Utilization\|研究使用]]制度化嵌入教师日常专业生活，而非视作额外的外加负担。这需要[[School Leadership\|学校领导]]层在课表排程、教研空间与评价激励上提供刚性支持，依托[[Reflexivity\|反思性]]专业探究将教师[[Tacit Knowledge|默会知识]]转化为全校共享资源。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 118, 124–125)]]
 
 ---
 

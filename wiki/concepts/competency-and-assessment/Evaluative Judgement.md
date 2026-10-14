@@ -28,6 +28,7 @@ related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Lifelong Learning]]"
   - "[[Communities of Practice]]"
+  - "[[Tacit Knowledge]]"
   - "[[Epistemic Dependence]]"
   - "[[Epistemic Agency]]"
   - "[[Formative Assessment]]"
@@ -135,7 +136,7 @@ updated: 2026-10-12
 ### 命题二　评价性判断在多源范例对比与同伴互评的社会性交互中生成而非单纯依靠显性量规
 
 > [!concept-lens] [[Communities of Practice|实践社群]]与内隐知识社会化
-> 卓越工作的质量判准往往包含大量无法被语言完全穷尽的隐性知识（Tacit Knowledge）。
+> 卓越工作的质量判准往往包含大量无法被语言完全穷尽的[[Tacit Knowledge|隐性知识]]（Tacit Knowledge）。
 
 > [!claim] Boud & Soler (2016)
 > **多源范例对比与校准机制** 单纯提供详尽的量规文字无法自动生成高水平的评价性判断。量规往往是抽象和死板的；唯有让学生接触不同质量水平的真实范例，并组织同伴之间相互评阅、对比辩论，学生才能在观察他人优缺点与自我对比的碰撞中，体会什么是高水平论证，进而将外在规则内化为敏锐的专业品味。
@@ -177,7 +178,7 @@ updated: 2026-10-12
 
 > [!debates] 理论与实践争议
 >
-> > [!axis] 量规标准化（Explicit Rubrics） vs 默会知识判断力（Tacit Evaluative Taste）
+> > [!axis] 量规标准化（Explicit Rubrics） vs [[Tacit Knowledge|默会知识]]判断力（Tacit Evaluative Taste）
 > > 争论教学中是否应当将评价标准尽可能细化为穷尽的评分量规。
 > >
 > > - **量规细化论** 强调越详尽的量规越能保证评分公平性与透明度，降低学生的认知焦虑。

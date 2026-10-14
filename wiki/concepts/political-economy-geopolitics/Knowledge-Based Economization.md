@@ -33,6 +33,7 @@ related_concepts:
   - "[[Hub and Flow Imaginaries]]"
   - "[[Innovation Policy Paradigms]]"
   - "[[Paradigm]]"
+  - "[[Tacit Knowledge]]"
   - "[[Absorptive Capacity]]"
   - "[[Transformative Change]]"
   - "[[Wicked Problem]]"
@@ -218,7 +219,7 @@ Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分�
 
 1. **科学促增长 (1940s–1980s)** 以科学→技术→增长的线性模型为框架，大规模投资大学基础研究，同时通过强化知识产权（如 1980 年美国 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]）、研发税收抵免和风险投资促进等手段，将知识从公共产品转化为可私有化和商业化的资产。核心经济化机制：**将科学发现与国家安全和经济增长绑定**。
 
-2. **[[Systems of Innovation|创新系统]] (1980s–1990s)** 当线性范式被认为未产生预期回报时，政策转向关注系统效率。核心经济化机制从生产知识升级为管理整个知识流动系统——隐性知识的跨组织转移、[[Absorptive Capacity|吸收能力]] (absorptive capacity)、网络质量和创业精神均被纳入政策视野。大学被要求与产业形成更紧密、更互动的伙伴关系。
+2. **[[Systems of Innovation|创新系统]] (1980s–1990s)** 当线性范式被认为未产生预期回报时，政策转向关注系统效率。核心经济化机制从生产知识升级为管理整个知识流动系统——[[Tacit Knowledge|隐性知识]]的跨组织转移、[[Absorptive Capacity|吸收能力]] (absorptive capacity)、网络质量和创业精神均被纳入政策视野。大学被要求与产业形成更紧密、更互动的伙伴关系。
 
 3. **[[Transformative Change|变革转型]] (近年来)** 将知识经济化推向新高度——不仅要求知识驱动增长，还要求知识系统性地解决气候变化、生物多样性丧失等[[Wicked Problem|棘手问题]]。国家[[Epistemic Governance|知识治理]]从支持升级为主动方向性引导（Weber & Rohracher, 2012）。
 

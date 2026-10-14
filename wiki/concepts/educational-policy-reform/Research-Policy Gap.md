@@ -31,6 +31,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Policymaking Chronosystem]]"
   - "[[Informationalization]]"
+  - "[[Tacit Knowledge]]"
   - "[[Legislative Policy Brief]]"
   - "[[Enlightenment]]"
   - "[[Technical Rationality]]"
@@ -186,7 +187,7 @@ updated: 2026-10-09
 > **治理[[Paradigm\|范式]]的关系性转向** 跨国实证数据表明，政策制定者虽然广泛使用报告、简报等信息型机制（73%），但这些单向输入极易沦为书架摆设或被选择性剪裁以迎合预设立场。真正能推动政策深度循证的，是如荷兰 [[Netherlands Initiative for Education Research\|NRO]] 与威尔士 [[National Strategy for Educational Research and Enquiry\|NSERE]] 等系统建立的中介组织网络与前置需求梳理机制。只有通过建立研究者与决策者的常态化互动机制与联合生产模式，将证据生产直接嵌入政策形成过程，方能有效化解研究-政策鸿沟。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 111–114, 117–119)]]
 
 > [!claim] [[Argument_Serpell_2020_EP\|Serpell (2020)]]
-> **法条化简报重塑与国会政策研究员的沉浸式弥合** 塞佩尔（[[Argument_Serpell_2020_EP\|Serpell, 2020]]）指出，单向学术传播之所以失败，是因为学者忽视了立法世界的文类规范与隐性知识。弥合鸿沟需要双重机制突破：在文本形态上，研究者必须摒弃学术免责与迟疑，遵循“少即是多”原则，依托整合专业律师起草法定示范条文（Model Statutory Language）的[[Legislative Policy Brief\|立法政策简报]]直击法案起草；在制度通道上，依托 [[American Association for the Advancement of Science\|AAAS]] 与 [[American Educational Research Association\|AERA]] [[AERA Congressional Fellowship Program\|国会政策研究员计划]]，选拔学者深入国会山全职工作一年，通过在实践中掌握政策语言与运作逻辑，形成长效跨界辐射。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 45–47)]]
+> **法条化简报重塑与国会政策研究员的沉浸式弥合** 塞佩尔（[[Argument_Serpell_2020_EP\|Serpell, 2020]]）指出，单向学术传播之所以失败，是因为学者忽视了立法世界的文类规范与[[Tacit Knowledge|隐性知识]]。弥合鸿沟需要双重机制突破：在文本形态上，研究者必须摒弃学术免责与迟疑，遵循“少即是多”原则，依托整合专业律师起草法定示范条文（Model Statutory Language）的[[Legislative Policy Brief\|立法政策简报]]直击法案起草；在制度通道上，依托 [[American Association for the Advancement of Science\|AAAS]] 与 [[American Educational Research Association\|AERA]] [[AERA Congressional Fellowship Program\|国会政策研究员计划]]，选拔学者深入国会山全职工作一年，通过在实践中掌握政策语言与运作逻辑，形成长效跨界辐射。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 45–47)]]
 
 ---
 

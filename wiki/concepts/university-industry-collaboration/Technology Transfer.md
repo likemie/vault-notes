@@ -36,6 +36,7 @@ related_concepts:
   - "[[Process Knowledge]]"
   - "[[Background IP]]"
   - "[[Foreground IP]]"
+  - "[[Tacit Knowledge]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Freedom to Operate]]"
   - "[[Heterogeneity]]"
@@ -45,6 +46,7 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Market Fundamentalism]]"
   - "[[Research Universities]]"
+  - "[[Valley of Death]]"
   - "[[Responsible Innovation]]"
   - "[[Return on Investment]]"
   - "[[Research Security]]"
@@ -76,6 +78,9 @@ related_facts:
   - "[[Activate Fellowship]]"
   - "[[Silicon Structures Project]]"
   - "[[National Research and Resource Facility for Submicron Structures]]"
+  - "[[DARPA]]"
+  - "[[National Science Foundation]]"
+  - "[[Department of Energy]]"
   - "[[Science A New Golden Age 2026]]"
 related_arguments:
   - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
@@ -149,7 +154,7 @@ updated: 2026-10-12
 > [!feature] 核心要素
 > - **转移载体与产权构型（Transfer Media & IP Architecture）** 涵盖显性法定知识产权（发明专利、版权代码、商业秘密）与隐性工艺诀窍（[[Process Knowledge|过程知识]]）；在合同设计中区分为合作前既有的[[Background IP|背景知识产权]]（[[Background IP]]）与履行合作产生的创新成果[[Foreground IP|前景知识产权]]（[[Foreground IP]]）。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, pp. 277–280)]]
 > - **制度性中介组织与敏捷授权工具（Intermediaries & Agile Authorities）** 包括大学内部的[[Technology Transfer Office|技术转移办公室]]（TTO）、工业联络处，以及国家实验室采用的[[Cooperative Research and Development Agreement|合作研发协议]]（CRADA）和[[Other Transaction Authority|其它交易授权]]（OTA），能够大幅绕过传统联邦采购壁垒。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 41)]]; [[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 41–44)]]
-> - **实体[[Human Capital Theory|人力资本]]跨界载体（Human Capital Mobility）** 掌握前沿技术诀窍的青年研究生、博士后与教授通过进入企业、创办衍生企业或以创业科学家身份进驻国家实验室（如 [[Activate Fellowship|Activate]] 计划），实现默会知识的具身化物理转移。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 43)]]; [[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 31)]]
+> - **实体[[Human Capital Theory|人力资本]]跨界载体（Human Capital Mobility）** 掌握前沿技术诀窍的青年研究生、博士后与教授通过进入企业、创办衍生企业或以创业科学家身份进驻国家实验室（如 [[Activate Fellowship|Activate]] 计划），实现[[Tacit Knowledge|默会知识]]的具身化物理转移。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 43)]]; [[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 31)]]
 > - **合同利益协调规程与统一框架（Contractual Safeguards & Harmonization）** 在[[Sponsored Research Agreement|赞助研究协议]]（SRA）中针对[[Freedom to Operate|自由实施权]]（[[Freedom to Operate]]）、非排他免版税许可（NERF）、专利定价模式与学术发表延迟期限构筑精细平衡，并推动全美大学跨校许可条款标准化。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, pp. 281–285)]]
 
 > [!logic-map]- 技术转移多元渠道系统模型
@@ -212,7 +217,7 @@ updated: 2026-10-12
 ### 命题三　关系型人员流动与隐性知识交流正在重塑传统交易型技术转移范式
 
 > [!claim] [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]]
-> **从狭义技术转移迈向广义知识交流** 托马斯·乌尔里克森（Tomas Ulrichsen）系统回顾英国与国际实践指出，单纯围绕专利转让和特许权使用费的交易型技术转移正被广义的关系型[[Knowledge Exchange|知识交流]]所取代。由于产业竞争中最前沿的核心工艺往往表现为高度情境化且不可[[Coding in Qualitative Research|编码]]的默会知识，人员双向穿梭、联合研发平台共建与网络协同活动展现出远超单一专利授权的创新杠杆价值。政府资助模式亦由此从短期项目制竞争拨款转向长周期公式驱动的稳定能力建设拨款。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 41–46)]]
+> **从狭义技术转移迈向广义知识交流** 托马斯·乌尔里克森（Tomas Ulrichsen）系统回顾英国与国际实践指出，单纯围绕专利转让和特许权使用费的交易型技术转移正被广义的关系型[[Knowledge Exchange|知识交流]]所取代。由于产业竞争中最前沿的核心工艺往往表现为高度情境化且不可[[Coding in Qualitative Research|编码]]的[[Tacit Knowledge|默会知识]]，人员双向穿梭、联合研发平台共建与网络协同活动展现出远超单一专利授权的创新杠杆价值。政府资助模式亦由此从短期项目制竞争拨款转向长周期公式驱动的稳定能力建设拨款。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 41–46)]]
 
 ---
 

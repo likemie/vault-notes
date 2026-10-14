@@ -25,6 +25,7 @@ related_concepts:
   - "[[Pilot Scale Platform]]"
   - "[[Learning by Doing]]"
   - "[[Attrition]]"
+  - "[[Tacit Knowledge]]"
   - "[[Theoretical Knowledge]]"
   - "[[Variable]]"
   - "[[Research Translation]]"
@@ -78,7 +79,7 @@ updated: 2026-10-08
 > - **边界** 过程知识并非神秘不可知的文化禀赋，而是依托物理邻近、师徒接触与“[[Learning by Doing|干中学]]”（Learning by Doing）在产线和实验室现场累积的专业技能；脱离实体制造环境将迅速发生不可逆的经验[[Attrition|流失]]。
 
 > [!boundary]- 概念边界
-> - 不等于专利与公开论文 — 专利和论文属于可编码的显性知识（Explicit Knowledge）；过程知识是使图纸转化为高良率实体产品的排障手感与默会知识（Tacit Knowledge）。
+> - 不等于专利与公开论文 — 专利和论文属于可编码的显性知识（Explicit Knowledge）；过程知识是使图纸转化为高良率实体产品的排障手感与[[Tacit Knowledge|默会知识]]（Tacit Knowledge）。
 > - 不等于一般的[[Theoretical Knowledge|理论知识]] — 理论知识解答“为什么”（Know-Why），过程知识解决在充满噪声与多[[Variable|变量]]干扰的真实物理世界中“如何做成”（Know-How）。
 > - 不等于 [[Research Translation|技术转化]]的全部 — 转化还涉及风险资本、法律许可与商业模式；过程知识是技术转化得以在本土持续演化与自我造血的底层工艺基座。
 

@@ -32,6 +32,8 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Research Universities]]"
   - "[[Grand Challenges]]"
+  - "[[Technology Transfer]]"
+  - "[[Cooperative Research and Development Agreement]]"
   - "[[Co-Design]]"
   - "[[Megascience Installations]]"
   - "[[Innovation Ecosystem]]"
@@ -43,6 +45,7 @@ related_concepts:
   - "[[Long-Term Public Utility]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Process Knowledge]]"
+  - "[[Tacit Knowledge]]"
   - "[[Basic-Applied Research Dichotomy]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
 related_theories:
@@ -58,6 +61,7 @@ related_persons:
   - "[[Venkatesh Narayanamurti]]"
   - "[[Michael Kratsios]]"
   - "[[Paula Stephan]]"
+  - "[[Fred Block]]"
 related_facts:
   - "[[Subcommittee on Microelectronics Leadership]]"
   - "[[Genesis Mission]]"
@@ -81,6 +85,7 @@ related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
+  - "[[Argument_Block_2008_PS]]"
   - "[[Argument_Brint_2023_IHE]]"
   - "[[Argument_Stephan_2013_NBER]]"
 confidence: high
@@ -110,7 +115,7 @@ updated: 2026-10-12
 
 > [!dev-timeline] 组织发展历程
 > - **1942–1977 — 战时军工起源与机构整合期** 源于[[Manhattan Project|曼哈顿工程]]建立的洛斯阿拉莫斯、橡树岭等绝密实验室，历经原子能委员会（AEC）与能源研发署（ERDA），逐步从单一核武器研制拓展至核动力堆、受控核聚变与辐射生物学研究（包括后来成为[[Human Genome Project|人类基因组计划]]发端的基础工作）。
-> - **1977–2000 — 内阁设部、法定技术转移与[[Big Science|大科学]]工业联合体确立** 1977 年正式成立能源部，将分散的国家实验室群整合为统一的国家科研基础设施基地；1986 年《联邦技术转移法》（FTTA）授权国家实验室设立研究与技术应用办公室（ORTA）并广泛签署合作研发协议（CRADA），推动 DOE 实验室全面转向支撑民用商业化；1992 年启动**先进涡轮机系统计划（Advanced Turbine Systems Program）**，由 DOE 实验室联合通用电气（GE）与西门子等重型装备巨头攻坚耐高温陶瓷涂层，公共财政承担 75% 早期试制风险，成功推动下一代高效清洁发电燃气轮机实现商业化量产；在 1990 年代末，劳伦斯利弗莫尔、劳伦斯伯克利与桑迪亚三大国家实验室组建“虚拟国家实验室”（Virtual National Laboratory, VNL），深度协同英特尔等工业巨头组建 [[EUV LLC]] 产学研财团，历时四年攻克极紫外光刻核心技术原型。[[Argument_Block_2008_PS|(Block, 2008, pp. 176–180)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 44)]]
+> - **1977–2000 — 内阁设部、法定[[Technology Transfer|技术转移]]与[[Big Science|大科学]]工业联合体确立** 1977 年正式成立能源部，将分散的国家实验室群整合为统一的国家科研基础设施基地；1986 年《联邦技术转移法》（FTTA）授权国家实验室设立研究与技术应用办公室（ORTA）并广泛签署[[Cooperative Research and Development Agreement|合作研发协议]]（CRADA），推动 DOE 实验室全面转向支撑民用商业化；1992 年启动**先进涡轮机系统计划（Advanced Turbine Systems Program）**，由 DOE 实验室联合通用电气（GE）与西门子等重型装备巨头攻坚耐高温陶瓷涂层，公共财政承担 75% 早期试制风险，成功推动下一代高效清洁发电燃气轮机实现商业化量产；在 1990 年代末，劳伦斯利弗莫尔、劳伦斯伯克利与桑迪亚三大国家实验室组建“虚拟国家实验室”（Virtual National Laboratory, VNL），深度协同英特尔等工业巨头组建 [[EUV LLC]] 产学研财团，历时四年攻克极紫外光刻核心技术原型。[[Argument_Block_2008_PS|(Block, 2008, pp. 176–180)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 44)]]
 > - **2009 — 危机应对与颠覆性绿色创新机制爆发** 在《美国复苏与再投资法案》（ARRA）支持下，正式启动高级能源研究计划署（[[ARPA-E|Advanced Research Projects Agency-Energy]], [[DARPA|ARPA]]-E，借鉴 [[DARPA]] 模式），设立能源前沿研究中心（EFRCs），并通过第 1705 条款清洁能源贷款担保计划向特斯拉等企业注入数十亿美元风险贷款。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 > - **2022–2024 — [[CHIPS and Science Act|芯片法案]]授权与国家微电子战略统筹**
 >   - 依据《[[CHIPS and Science Act|芯片与科学法案]]》，科学办公室获授权在五年内新增 305 亿美元预算，重点通过竞争性课题流向高水平[[Research Universities|研究型大学]]实验室，与国家实验室协同攻坚清洁能源、量子计算与先进材料；[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
@@ -226,7 +231,7 @@ updated: 2026-10-12
 > | [[Mission-Oriented Innovation Policy]] | Concept | 能源部推行清洁能源转型与创世纪计划的核心政策[[Paradigm\|范式]]。 |
 > | [[Market Shaping and Creating]] | Concept | 能源部通过贷款担保与[[Megascience Installations\|大科学装置]]主动塑造技术市场的理论透镜。 |
 > | [[ROAR Framework]] | Theory | 指导能源部实现战略方向设定、探索型组织能力与风险收益对称分配的治理框架。 |
-> | [[Process Knowledge]] | Concept | 能源部国家实验室与工艺平台致力于维护与传承的战略性工程制造隐性知识。 |
+> | [[Process Knowledge]] | Concept | 能源部国家实验室与工艺平台致力于维护与传承的战略性工程制造[[Tacit Knowledge\|隐性知识]]。 |
 > | [[Grand Challenges]] | Concept | 创世纪计划为能源部设定的 20 项国家关键科学技术攻关清单。 |
 > | [[Long-Term Public Utility]] | Concept | 能源部等任务导向机构重构科研资助的核心评价标准。 |
 > | [[Basic-Applied Research Dichotomy]] | Concept | 能源部科研体制改革亟需打破的战后动机二分法教条。 |
@@ -243,7 +248,7 @@ updated: 2026-10-12
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Block_2008_PS|Block (2008)]] — 以先进燃气轮机联合体（ATS）为例，系统论证能源部国家实验室依托 CRADA 协议承担早期高风险中试、跨越死亡之谷的网络经纪功能。
+> - [[Argument_Block_2008_PS|Block (2008)]] — 以先进燃气轮机联合体（ATS）为例，系统论证能源部国家实验室依托 [[Cooperative Research and Development Agreement|CRADA]] 协议承担早期高风险中试、跨越[[Valley of Death|死亡之谷]]的网络经纪功能。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统阐述能源部在 2025 年[[Genesis Mission|创世纪计划]]中的领导地位，论证 17 所国家实验室在科学 AI 基座模型训练、闭环自主实验室部署、[[EUV LLC]]/[[Human Genome Project|HGP]] 传统继承以及 2025 年核能监管改革中的战略支柱功能。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 阐释《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》下能源部作为 [[Subcommittee on Microelectronics Leadership|SML]] 联合主席，统领 5 大纳米科学研究中心（NSRCs）、[[Megascience Installations|大科学装置]]与微电子[[Co-Design|协同设计]]（Co-Design）专项，在二维材料与能效极限攻坚中的战略机制。
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 系统评析《[[CHIPS and Science Act|芯片与科学法案]]》对联邦科技资助格局的重塑，指出能源部科学办公室获得五年内 305 亿美元的经费法定授权，重点向高校实验室定向配置前沿基础与应用[[Comparative Education as a Cross-Sectional Area|交叉领域]]竞争性科研经费。

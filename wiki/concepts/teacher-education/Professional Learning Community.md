@@ -31,6 +31,7 @@ related_concepts:
   - "[[Learning Gain]]"
   - "[[Teaching Assistant]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Tacit Knowledge]]"
   - "[[Problem Solving]]"
   - "[[Activity Traps]]"
   - "[[Heterogeneity]]"
@@ -194,7 +195,7 @@ updated: 2026-10-09
 > **共同审议与多层使能交汇中枢** [[Mark Rickinson\|马克·里金森]]等学者在构建[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]（[[Quality Use of Research Evidence Framework\|QURE]]）时指出，[[Evidence-Informed Practice\|证据知情实践]]在本质上是一项发生在专业团队与学习共同体内部的社会化审议过程（Social, Deliberative Process）。研究证据绝非直接移植的技术处方，其有效转化依赖于教育者在共同体中开展“审慎参与与实施”（Thoughtful Engagement and Implementation），通过深度对话共同质询、审议研究结论并结合具体学情进行情境化[[Transfer Translation Transformation\|转译]]。更重要的是，专业学习共同体构成了 QURE 框架中个体使能因素（基于信任的人际关系、探究心智模式）与组织使能因素（领导示范、反思文化、专有时空保障）相互交织碰撞的微观组织中枢，缺乏该载体，证据动员将失去实践着力点。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 141–144)]]
 
 > [!claim] Stoll, L. 等
-> **反思性专业探究是 PLC 的判定特征** 斯托尔（Louise Stoll）等学者在跨国综述中指出，PLC 之所以能够承担证据转化功能，是因为其关键特征恰是反思性专业探究：反思性对话、围绕严肃教育议题的交谈、主动寻求新知识，以及通过互动把默会知识转化为可用于[[Problem Solving\|问题解决]]的共享知识。此外，PLC 还须具备以改善学生成果为旨归的共享愿景、对学生学习的集体责任、超出表层互助的协作，以及同时促进群体与个体学习；缺少这些特征，共同体虽仍按期活动，却不再构成[[Research Utilization\|研究使用]]所需的学习环境。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 124–125)]]
+> **反思性专业探究是 PLC 的判定特征** 斯托尔（Louise Stoll）等学者在跨国综述中指出，PLC 之所以能够承担证据转化功能，是因为其关键特征恰是反思性专业探究：反思性对话、围绕严肃教育议题的交谈、主动寻求新知识，以及通过互动把[[Tacit Knowledge|默会知识]]转化为可用于[[Problem Solving\|问题解决]]的共享知识。此外，PLC 还须具备以改善学生成果为旨归的共享愿景、对学生学习的集体责任、超出表层互助的协作，以及同时促进群体与个体学习；缺少这些特征，共同体虽仍按期活动，却不再构成[[Research Utilization\|研究使用]]所需的学习环境。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 124–125)]]
 
 > [!claim] Katz, S. & Dack, L. A.
 > **探究环节缺位时 PLC 会落入[[Activity Traps\|活动陷阱]]** 卡茨（Steven Katz）与达克（Lisa Ain Dack）指出，若 PLC 只保留了协作的形式而缺少正式的探究协议与工具，教师会跳过对成因的分析而径直寻求解决方案，即落入[[Activity Traps\|活动陷阱]]。此时 PLC 仍按时召开，但实践与情境的根本问题未被确立、全部成因与方案未被考虑，并因做法“已知”而重复无效实践；因此 PLC 作为学习环境的有效性，取决于它是否真正承载了探究过程，而非取决于活动的频次与形式。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 130–131)]]

@@ -45,6 +45,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Construct]]"
   - "[[Epoché]]"
+  - "[[Tacit Knowledge]]"
   - "[[Paradigm Wars]]"
   - "[[Champ]]"
   - "[[Going Native]]"
@@ -175,7 +176,7 @@ updated: 2026-10-08
 
 > [!feature] 自然主义探究的核心操作特征（Lincoln & Guba, 1985; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 11）
 > - **自然情境作为真实源泉** 探究必须在未受控制操纵的真实日常场景中展开，因为情境与行为互为因果。
-> - **人作为核心研究工具（Eisner, 1991）** 唯有人类心智与感官才能敏锐捕捉情境中微妙的情感流动、默会知识（Tacit Knowledge）与非言语线索。
+> - **人作为核心研究工具（Eisner, 1991）** 唯有人类心智与感官才能敏锐捕捉情境中微妙的情感流动、[[Tacit Knowledge|默会知识]]（Tacit Knowledge）与非言语线索。
 > - **深描（Thick Description）而非肤浅罗列** 继承吉尔兹（Clifford Geertz, 1973），不仅记录动作，更要呈现动作发生时的意义背景、权力关系与行动者的主观诠释。
 > - **归纳式[[Grounded Theory\|扎根理论]]生成** 理论不是从先验公理演绎而来的闭合体系，而是追随研究行动、在持续比较分析中从经验材料中[[Emergence\|涌现]]并扎根的实质理论（Glaser & Strauss, 1967）。
 > - **概括性的创新重释** 勒孔特与普莱斯尔（LeCompte & Preissle, 1993, p. 47）指出，民族志拒绝抽象的统计普适外推，代之以**可比较性（Comparability）**（群体特征清晰描述以供横向参照）与**可翻译性（Translatability）**（理论范畴跨学科可转换性）。

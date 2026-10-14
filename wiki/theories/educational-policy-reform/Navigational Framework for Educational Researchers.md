@@ -28,6 +28,7 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[Value Neutrality]]"
   - "[[Policy Window]]"
+  - "[[Tacit Knowledge]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -136,7 +137,7 @@ updated: 2026-10-02
 
 > [!proposition-chain]- 延伸命题
 > - **推论一（双速时间系统适应）** 从核心命题一推导出：面对[[Policymaking Chronosystem\|政策制定时间系统]]的急性突发事件，学术组织必须打破传统同行评议数月的惰性，设立如[[Society for Research in Child Development\|儿童发展研究学会]]（SRCD）“[[Rapid Assessment and Response Strategy\|快速评估与响应战略]]”（RARS）专家团队，在数日乃至数小时内快速聚合实证证据并出具政策声明，实现与突发[[Policy Window|政策窗口]]的敏捷咬合。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 47)]]
-> - **推论二（沉浸式制度培育通道）** 从核心命题一与命题二推导出：要克服学术界对政治运作的神秘感与偏见，必须建立全职浸润式的国会政策研究员机制（Congressional Fellowships）。学者通过一年全职幕僚实践掌握政策隐性知识（Tacit Knowledge），在离任后持续辐射行政资助、委员会运作与高校跨界培养。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 46–47)]]
+> - **推论二（沉浸式制度培育通道）** 从核心命题一与命题二推导出：要克服学术界对政治运作的神秘感与偏见，必须建立全职浸润式的国会政策研究员机制（Congressional Fellowships）。学者通过一年全职幕僚实践掌握政策[[Tacit Knowledge|隐性知识]]（Tacit Knowledge），在离任后持续辐射行政资助、委员会运作与高校跨界培养。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 46–47)]]
 > - **应用命题（四维证据吸纳审视）** 结合纳特利等（Nutley et al., 2002）框架，研究者在推动证据转化前，必须系统评估目标决策者的个人信念（Personal）、研究与意识形态契合度（Research Fit）、制度情境时机（Contextual）以及政策落地执行的可逆性（Implementation）。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
 
 > [!mechanism-map]- 机制图

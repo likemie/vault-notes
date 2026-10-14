@@ -36,10 +36,12 @@ related_concepts:
   - "[[Pilot Scale Platform]]"
   - "[[Competitiveness]]"
   - "[[General Purpose Technology]]"
+  - "[[Tacit Knowledge]]"
   - "[[Process Knowledge]]"
   - "[[Valley of Death]]"
   - "[[Reliability]]"
   - "[[Emergence]]"
+  - "[[Paradigm]]"
   - "[[Membership-based Research Consortium]]"
   - "[[Variable]]"
   - "[[Research Universities]]"
@@ -69,6 +71,7 @@ related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
+  - "[[Advanced Technology Program]]"
   - "[[Natcast]]"
   - "[[Science A New Golden Age 2026]]"
   - "[[VLSI Project]]"
@@ -130,7 +133,7 @@ updated: 2026-10-12
 > [!actor-grid] 组织治理架构
 > - **董事会与产业指导委员会** 由出资成员企业最高技术负责人及高级主管组成决策机构，确保研发议程完全由产业一线技术需求主导，而非脱离实际的行政指令。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730–733)]]
 > - **[[DARPA]] 联邦监管与项目对接办公室** 监督公共资金严格用于共性[[General Purpose Technology|通用技术]]开发而非单一企业的产品改良，推动军民双用途（Dual-use）技术溢出。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
-> - **骨干工程师借调轮换机制（Assignee System）** 成员企业必须选派资深骨干工程师全职进驻奥斯汀总部工作 2 至 3 年；借调期满后工程师携带共有前沿工艺与最佳实践诀窍返回原企业，充当了隐性知识与[[Process Knowledge|过程知识]]在产业内部高效扩散的跨组织桥梁。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 751)]]
+> - **骨干工程师借调轮换机制（Assignee System）** 成员企业必须选派资深骨干工程师全职进驻奥斯汀总部工作 2 至 3 年；借调期满后工程师携带共有前沿工艺与最佳实践诀窍返回原企业，充当了[[Tacit Knowledge|隐性知识]]与[[Process Knowledge|过程知识]]在产业内部高效扩散的跨组织桥梁。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 751)]]
 > - **共享[[Pilot Scale Platform|中试验证平台]]（Shared Testbeds）与标准化工具箱** 建设中立的共性试验晶圆线，允许设备厂商在真实产线环境下免费测试最新原型机，并统一设备测试与认证规程，化解中小设备商无力自建测试线的[[Valley of Death|死亡之谷]]困境。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 733–736)]]
 
 > [!pathways]- 业务运行机制

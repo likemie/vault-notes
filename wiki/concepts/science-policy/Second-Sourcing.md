@@ -23,6 +23,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Source Evaluation]]"
   - "[[General Purpose Technology]]"
+  - "[[Tacit Knowledge]]"
   - "[[Document]]"
   - "[[Technological Catch-up]]"
   - "[[Innovation Ecosystem]]"
@@ -126,7 +127,7 @@ updated: 2026-10-05
 > 探讨该机制如何超越传统的专利公开原则，通过强制移交隐性工艺经验打破技术独占。
 
 > [!claim] [[David C. Mowery|Mowery, D. C.]]
-> **默会知识的制度化强制外溢** 莫厄里论证指出，二战后微电子技术的关键瓶颈不在于公开[[Document|文献]]中的科学原理，而在于高度专有、难以成文表达的晶圆掺杂、扩散与光刻良率控制诀窍。美国军方推行的第二货源采购要求，从制度上剥夺了先发创新企业将突破性半导体器件锁定为排他性专有资产的可能。为了获得利润丰厚的民兵导弹和[[Apollo Program|阿波罗计划]]军品合同，先发厂商被迫向竞争对手开放整套制造工艺；这种非自愿的[[Technology Transfer|技术转移]]极大地缩短了全行业的[[Technological Catch-up|技术追赶]]周期，使整个美国半导体产业在极短时间内掌握了集成电路制造能力。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 164–165)]]
+> **[[Tacit Knowledge|默会知识]]的制度化强制外溢** 莫厄里论证指出，二战后微电子技术的关键瓶颈不在于公开[[Document|文献]]中的科学原理，而在于高度专有、难以成文表达的晶圆掺杂、扩散与光刻良率控制诀窍。美国军方推行的第二货源采购要求，从制度上剥夺了先发创新企业将突破性半导体器件锁定为排他性专有资产的可能。为了获得利润丰厚的民兵导弹和[[Apollo Program|阿波罗计划]]军品合同，先发厂商被迫向竞争对手开放整套制造工艺；这种非自愿的[[Technology Transfer|技术转移]]极大地缩短了全行业的[[Technological Catch-up|技术追赶]]周期，使整个美国半导体产业在极短时间内掌握了集成电路制造能力。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 164–165)]]
 
 ---
 

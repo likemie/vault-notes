@@ -23,6 +23,7 @@ related_concepts:
   - "[[National Innovation System]]"
   - "[[Assemblage]]"
   - "[[Regional Innovation System]]"
+  - "[[Tacit Knowledge]]"
   - "[[Technology Transfer]]"
   - "[[Unit of Analysis]]"
   - "[[National Competitive Advantage]]"
@@ -75,7 +76,7 @@ updated: 2026-10-05
 > | 维度 | 本概念（马歇尔产业区） | [[Regional Innovation System\|区域创新系统（RIS）]] | 大型跨国公司全球网络 |
 > |---|---|---|---|
 > | **核心组织特征** | 中小企业集群、弹性专精（Flexible Specialization） | 涵盖区域大学、研发院所、地方政府与企业的制度网络 | 母子公司垂直科层治理与全球价值链调度 |
-> | **知识流动形态** | 邻里社交网络中的隐性知识外溢、师徒相传 | 产学研正式契约合作、[[Technology Transfer\|技术转移]]中心、联合实验室 | 内部专利授权与跨国企业内网[[Coding in Qualitative Research\|编码]]化文件共享 |
+> | **知识流动形态** | 邻里社交网络中的[[Tacit Knowledge\|隐性知识]]外溢、师徒相传 | 产学研正式契约合作、[[Technology Transfer\|技术转移]]中心、联合实验室 | 内部专利授权与跨国企业内网[[Coding in Qualitative Research\|编码]]化文件共享 |
 > | **协同纽带** | 本土文化认同、同行评价声誉与面对面信任 | 区域政策法规框架、公共基金引导与创新规制 | 资本所有权控制、劳动雇佣合同与绩效考核 |
 > | **经典代表范例** | 19 世纪英国兰开夏棉纺区、当代意大利中北部工坊 | 德国巴登-符腾堡州产学研体系、北欧创新圈 | 福特汽车全球工厂、苹果跨国离岸代工链条 |
 
@@ -122,7 +123,7 @@ updated: 2026-10-05
 > [!contrast-table] 产业区核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **微观外溢机制论** | 隐性知识与信任资本依托地理邻近性形成不可替代的集聚经济 | 地方专业化制造集聚、高技术孵化生态 | [[Alfred Marshall\|Marshall, A.]]; Piore, M. & Sabel, C. |
+> | **微观外溢机制论** | [[Tacit Knowledge\|隐性知识]]与信任资本依托地理邻近性形成不可替代的集聚经济 | 地方专业化制造集聚、高技术孵化生态 | [[Alfred Marshall\|Marshall, A.]]; Piore, M. & Sabel, C. |
 > | **国家多层共生论** | 下层区域集聚与宏观国家创新系统互为表里，不可偏废 | 全球化与区域化重构分析、[[National Competitive Advantage\|国家竞争优势]]论 | [[Chris Freeman\|Freeman, C.]]; [[Michael Porter\|Porter, M.]] |
 
 ---

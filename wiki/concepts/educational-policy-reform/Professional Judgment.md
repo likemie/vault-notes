@@ -46,6 +46,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Teacher Professional Agency]]"
   - "[[Return on Investment]]"
+  - "[[Tacit Knowledge]]"
   - "[[Research Literacy]]"
   - "[[Variable]]"
   - "[[Ontology]]"
@@ -334,7 +335,7 @@ updated: 2026-10-12
 > - **专业价值审议（What Matters）** 坚持教育情境的特殊性与育人伦理，主张由教师在现场行使最高审议权。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 128)]]
 
 > [!warning] 适用局限
-> - **情境化能力的测量困境** 专业判断高度依赖微观情境与隐性知识，难以通过标准化量表直接量化，成效评估必须结合多维量化指标与丰富质性描述。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 133)]]
+> - **情境化能力的测量困境** 专业判断高度依赖微观情境与[[Tacit Knowledge|隐性知识]]，难以通过标准化量表直接量化，成效评估必须结合多维量化指标与丰富质性描述。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 133)]]
 > - **组织与文化支持的强依赖性** 专业判断并非个体天赋，若学校缺乏信任文化、探究时间与[[Research Literacy|研究素养]]培训，孤立的教师判断极易偏离科学轨道。
 
 ---

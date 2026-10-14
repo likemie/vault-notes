@@ -30,6 +30,7 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Research Literacy]]"
   - "[[Data Literacy]]"
+  - "[[Tacit Knowledge]]"
   - "[[Analytical Stance]]"
   - "[[Persuasive Communication in Education]]"
   - "[[Practice-Based Evidence]]"
@@ -127,7 +128,7 @@ updated: 2026-10-07
 
 > [!feature] 核心要素构成
 > - **研究证据的拼图定位（Piece of Evidence-Informed [[Jigsaw]]）** 确立学术研究是教学决策的重要输入但非唯一源泉，明确其必须与其他证据形态协同发力。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 129)]]
-> - **双轨行动理论与默会知识融合（Dual-Track Theory of Action）** RITP 包含指向教师教学与指向[[School Leadership\|学校领导]]的双轨机制：教师借助研究提升应对力以改善教学质量与学生成果；领导者借助研究改善组织运作与全校效能；两轨均需在正式研究与实践者默会知识之间建立融合转化的子行动理论。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 160–161)]]
+> - **双轨行动理论与[[Tacit Knowledge|默会知识]]融合（Dual-Track Theory of Action）** RITP 包含指向教师教学与指向[[School Leadership\|学校领导]]的双轨机制：教师借助研究提升应对力以改善教学质量与学生成果；领导者借助研究改善组织运作与全校效能；两轨均需在正式研究与实践者默会知识之间建立融合转化的子行动理论。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 160–161)]]
 > - **[[Research Learning Communities\|研究学习共同体]]支架（Research Learning Communities, RLC）** 由 [[Chris Brown]] 开发，结对学校各选派骨干教师与校领导组队，在外部协调员引领下完成全学年四次跨校工作坊，借助结构化协议将学术成果[[Transfer Translation Transformation\|转译]]为校本干预并全校扩散。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 161)]]
 > - **批判性[[Research Literacy\|研究素养]]与[[Analytical Stance\|分析立场]]（Research Literacy & Analytical Stance）** 教师具备辨识研究质量、识破商业化[[Persuasive Communication in Education\|说服性修辞]]包装并评估实证效能的专业素养。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 130–131)]]
 > - **同行实践证据中介网络（Peer-Mediated Practice Evidence）** 依托教师工会、学区教研员与学校领导等中介者，将原始学术成果转译为易吸收的[[Practice-Based Evidence\|实践本位证据]]。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 130)]]
@@ -244,7 +245,7 @@ updated: 2026-10-07
 
 > [!tension] 核心张力
 > - **外部验证策略的科学严谨性** 依靠同行评议论文与综合工具包提供因果机制与概率性有效保障。
-> - **教师默会知识与教学信念的主观性** 根植于一线日常摸爬滚打的教学直觉与本土文化惯习。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 160)]]
+> - **教师[[Tacit Knowledge|默会知识]]与教学信念的主观性** 根植于一线日常摸爬滚打的教学直觉与本土文化惯习。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 160)]]
 
 > [!warning] 适用局限与实践阻碍
 > - **追逐学术热点而脱离校本真实需要** RITP 极易因学术流行风向或外部政策偏好选择改进主题，而非立足学校自身的真实学情痛点。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 165)]]

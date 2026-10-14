@@ -37,6 +37,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Unit of Analysis]]"
   - "[[Growth]]"
+  - "[[Tacit Knowledge]]"
   - "[[University-Based Research Infrastructure]]"
   - "[[Second-Sourcing]]"
   - "[[Multi-channel Interactive Learning Model]]"
@@ -152,7 +153,7 @@ updated: 2026-10-09
 > - **1995 — 全球化辨析与母国锚固论** 弗里曼（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）在《剑桥经济学杂志》系统反驳[[Kenichi Ohmae|大前研一]]等学者宣称跨国公司让民族国家过时的神话，证实美日跨国企业核心研发逾九成扎根母国，阐明上层跨国贸易区域与下层产业集聚区域均依赖国家创新系统作为制度核心。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 15–21)]]
 > - **1990s–2000s — 多层级与部门维度拓展** 
 >   - **部门创新系统（Sectoral Innovation Systems, SIS）** 马莱尔巴（Franco Malerba, 2002）基于帕维特产业分类（[[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta, 2016]]），指出不同产业部门在知识基础、技术机会与专有性机制上存在根本差异，创新系统呈现部门异质性。
->   - **[[Regional Innovation System|区域创新系统]]（Regional Innovation Systems, RIS）** 库克（Cooke, 1992）与阿斯海姆等（Asheim & Gertler, 2004）强调地理邻近性、隐性知识面对面传播与地方制度厚度对区域创新集群的塑造。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 865)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]
+>   - **[[Regional Innovation System|区域创新系统]]（Regional Innovation Systems, RIS）** 库克（Cooke, 1992）与阿斯海姆等（Asheim & Gertler, 2004）强调地理邻近性、[[Tacit Knowledge|隐性知识]]面对面传播与地方制度厚度对区域创新集群的塑造。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 865)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]
 > - **2005 — 本地创新系统与大学转型匹配模型** 麻省理工学院莱斯特（Richard K. Lester）团队通过 6 国 22 个地区（714 次[[In-depth Interview|深度访谈]]）的[[Local Innovation Systems Project|本地创新系统项目]]（LIS），打破大学必须追逐硅谷式“重磅专利许可”的一刀切迷思，提出大学支撑本地系统四大产业转型（新产业形成、产业移植、产业多元化、既有产业升级）的差异化匹配模型。[[Argument_Lester_2005_MIT|(Lester, 2005, pp. 11–24)]]
 > - **2005 — 军民协同创新系统与采购生命周期规律** 法布里奇奥与莫厄里（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]]）从国家创新系统历史演进切入，揭示美国战后以国防部（DoD）为核心的非集中式联邦研发资助与先导采购如何通过[[University-Based Research Infrastructure|大学科研基础设施]]、早期技术衍生与第二货源（[[Second-Sourcing]]）三大渠道孵化出全美 IT 产业集群，并系统确立了从萌芽期军品外溢到成熟期由民向军“逆向技术溢出”（Reverse Spillovers）的创新系统生命周期规律。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 27–44)]]
 > - **2009 — 多通道互动学习与知识池重塑** 卡拉卡等（Caraça et al.）提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，指出创新涉及科技、组织与营销三类知识池，创新系统的关键在于构筑企业与微观/宏观制度环境双向共演的组织界面。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 864–866)]]
@@ -187,7 +188,7 @@ updated: 2026-10-09
 >
 > **应用实例** 在高端制造与工程机械领域，创新极少直接来自大学理论物理学家的纯理论推导，而是企业工程师与供应商、最终用户以及大学工程系研究人员在反复试错与调试中共同攻关的结果；这印证了多主体双向反馈才是技术演进的核心机制。
 
-> [!theory-proposition] 命题二｜显性知识只是冰山一角，隐性知识在网络界面的转移与[[Absorptive Capacity|吸收能力]]共同决定系统绩效
+> [!theory-proposition] 命题二｜显性知识只是冰山一角，[[Tacit Knowledge|隐性知识]]在网络界面的转移与[[Absorptive Capacity|吸收能力]]共同决定系统绩效
 > **解释** 专利[[Document|文献]]、学术论文与技术标准等[[Coding in Qualitative Research|编码]]化显性知识（Codified Knowledge）虽易于远距离跨国扩散，但真正决定[[Research Translation|技术转化]]胜败的是深植于个体经验、团队协作惯例和[[Organizational Culture|组织文化]]中的隐性知识（Tacit Knowledge）。若缺乏由工程经验、实验手感构筑的[[Absorptive Capacity|吸收能力]]，即便政府强制推行技术公开或企业无偿获得高技术专利，组织依然无法将其[[Transfer Translation Transformation|转译]]为现实生产力。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, p. 29)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7, 13–15)]]
 >
 > **应用实例** 欠发达地区即使全额引进跨国高科技企业研发专利，若本地企业缺乏具备研发经验的技术骨干（缺乏吸收能力），相关专利将长期闲置；而具备深厚工程技艺积累的成熟[[Industrial District|工业区]]（如德国巴伐利亚或中国长三角），即使仅获得初步构想，也能迅速通过本地工匠与工程师网络完成工程化落地。
@@ -285,7 +286,7 @@ updated: 2026-10-09
 >       - **归属与出处** 组织学习理论（Cohen & Levinthal, 1990; [[Argument_Freeman_1995_CJE|Freeman, 1995, p. 12]]）。
 >   - **D3.2｜多通道交互界面建设**
 >     - **D3.2.1｜公共空间与非正式交流通道**
->       - **含义** 评估组织之间是否具备促进隐性知识低成本共享的中介载体。
+>       - **含义** 评估组织之间是否具备促进[[Tacit Knowledge|隐性知识]]低成本共享的中介载体。
 >       - **观察线索** 行业研讨会、共同测试中心、客座学者流动计划、概念验证中心运营状况。
 >       - **判读规则** 仅有正式法务合同而缺乏高频人员交流的系统，隐性[[Knowledge Transfer|知识转移]]效率显著低下。
 >       - **归属与出处** 多通道互动模型（[[Argument_Caraca_2009_TFSC|Caraça et al., 2009]], Fig. 2）。

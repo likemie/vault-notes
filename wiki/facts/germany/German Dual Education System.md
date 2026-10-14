@@ -28,23 +28,37 @@ tags:
   - policy/workforce-development
 related_concepts:
   - "[[Competitiveness]]"
-  - "[[Process Knowledge]]"
-  - "[[Entrepreneurial University]]"
-  - "[[Research Universities]]"
-  - "[[Institutional Complementarity]]"
   - "[[Apprenticeship]]"
+  - "[[Market Failure]]"
+  - "[[Champ]]"
+  - "[[Assemblage]]"
+  - "[[General Education]]"
+  - "[[Tacit Knowledge]]"
+  - "[[Technology Transfer]]"
+  - "[[Research Universities]]"
+  - "[[Entrepreneurial University]]"
+  - "[[Refined Mastery]]"
+  - "[[Attrition]]"
+  - "[[Institutional Complementarity]]"
+  - "[[National Innovation System]]"
+  - "[[Process Knowledge]]"
+  - "[[Document]]"
 related_theories:
   - "[[Varieties of Capitalism]]"
   - "[[Developmental Network State]]"
+  - "[[Evolutionary Economics]]"
 related_persons:
   - "[[Fred Block]]"
+  - "[[Isaiah Berlin]]"
   - "[[Chris Freeman]]"
 related_facts:
   - "[[Gewerbe-Institut]]"
+  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Block_2008_PS]]"
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 confidence: high
 status: active
@@ -86,7 +100,7 @@ updated: 2026-10-12
 > *"Some of the United States’ competitors use a tripartite system of cooperation among government, labor unions, and business to organize much larger investments in skill development for production workers. The United States’ neglect of this key dimension of developmental policies is a major weakness that can undercut the effectiveness of its other initiatives."*
 
 > [!citation-card] 弗里曼论普鲁士工艺学校与隐性制造知识的历史源流
-> 普鲁士政府建立了工艺学校（[[Gewerbe-Institut]]），确保引入进口英国机床进行逆向工程，并培训德意志工匠，这些工匠随后将技术扩散到德意志工业中。普鲁士还积极吸引英国熟练工匠前往，因为当时这一技术的很大一部分完全依赖于隐性知识。这一由普鲁士国家发起并协调的[[Technology Transfer|技术转移]]极其成功，为德国在 19 世纪中叶制造机车并超越英国奠定了基础。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 7)]]
+> 普鲁士政府建立了工艺学校（[[Gewerbe-Institut]]），确保引入进口英国机床进行逆向工程，并培训德意志工匠，这些工匠随后将技术扩散到德意志工业中。普鲁士还积极吸引英国熟练工匠前往，因为当时这一技术的很大一部分完全依赖于[[Tacit Knowledge|隐性知识]]。这一由普鲁士国家发起并协调的[[Technology Transfer|技术转移]]极其成功，为德国在 19 世纪中叶制造机车并超越英国奠定了基础。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 7)]]
 >
 > *"The Prussian government, which had set up Technical Training Institutes (Gewerbe-Institut), made sure that they received imported British machine tools for reverse engineering and for training German craftsmen, who then disseminated the technology in German industry... British craftsmen were also attracted to Prussia, as much of the technology depended on tacit knowledge."*
 

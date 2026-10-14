@@ -22,6 +22,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Knowledge Co-production]]"
   - "[[Heterogeneity]]"
+  - "[[Tacit Knowledge]]"
   - "[[Apprenticeship]]"
   - "[[Research Universities]]"
   - "[[Emergence]]"
@@ -115,7 +116,7 @@ updated: 2026-10-07
 > 围绕不同组织交往模态（实体线下 vs 纯虚拟线上 vs 混合）对共同体信任建立与知识共享深度的[[Heterogeneity|异质性]]影响展开。
 
 > [!claim] [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]]
-> **实体面对面交互的不可替代性** 尽管虚拟与混合会议显著提升了共同体的参与规模和空间辐射半径，但实践共同体内部深层互信的建立、学科藩篱的真正消弭以及隐性知识的流动，高度依赖实体面对面的社会化互动；线下研讨与预留的非正式交流时间满意度显著高于线上和混合模式。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 5–6)]]
+> **实体面对面交互的不可替代性** 尽管虚拟与混合会议显著提升了共同体的参与规模和空间辐射半径，但实践共同体内部深层互信的建立、学科藩篱的真正消弭以及[[Tacit Knowledge|隐性知识]]的流动，高度依赖实体面对面的社会化互动；线下研讨与预留的非正式交流时间满意度显著高于线上和混合模式。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 5–6)]]
 
 ---
 
@@ -134,7 +135,7 @@ updated: 2026-10-07
 > [!dev-timeline] 实践共同体概念演化
 > - **1991 — 起源与[[Apprenticeship|学徒制]]研究** 让·莱夫（Jean Lave）与艾蒂安·温格（Etienne Wenger）在 *Situated Learning* 中提出合法边缘性参与，以真实文化学徒制阐明实践共同体的原始生成机制。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, p. 6)]]
 > - **1998 — 理论体系化与三要素确立** 温格出版 *Communities of Practice: Learning, Meaning, and Identity*，系统确立“领域、社群、实践”三大构件与身份认同理论。
-> - **2000s — 组织管理与知识管理迁移** CoP 广泛进入商业管理、跨国企业与政府组织，成为促进隐性知识共享、打破部门孤岛的战略管理工具。
+> - **2000s — 组织管理与知识管理迁移** CoP 广泛进入商业管理、跨国企业与政府组织，成为促进[[Tacit Knowledge|隐性知识]]共享、打破部门孤岛的战略管理工具。
 > - **2020s — 国家战略导向的高校跨学科攻关生态** [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] 将其拓展至高水平[[Research Universities|研究型大学]]有组织科研领域，通过[[Design-Based Research|基于设计的研究]]（DBR）工作坊在半导体紧缺领域系统孵化跨院系实践共同体。
 
 ---

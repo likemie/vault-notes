@@ -85,6 +85,7 @@ related_concepts:
   - "[[Decodification]]"
   - "[[Homework]]"
   - "[[Reliability]]"
+  - "[[Tacit Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[External Validity]]"
   - "[[Multiplicity]]"
@@ -708,7 +709,7 @@ updated: 2026-10-08
 
 > [!theory-components] 常人方法学：索引性、反思性与常识推理的实践成就
 > - **索引性（Indexicality）**
->   言论与行动的意义完全依附于产生它们的具体时空背景与参与者默会知识，同样的词句在不同情境中意味着完全不同的事。
+>   言论与行动的意义完全依附于产生它们的具体时空背景与参与者[[Tacit Knowledge|默会知识]]，同样的词句在不同情境中意味着完全不同的事。
 > - **反思性（Reflexivity）**
 >   对情境的描述与该情境本身不可分割且互为因果，描述本身即构成了维系该情境秩序的一环。
 > - **常人方法学的两大流派**

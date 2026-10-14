@@ -41,6 +41,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Construct]]"
   - "[[Researcher as Key Instrument]]"
+  - "[[Tacit Knowledge]]"
   - "[[Emergent Design]]"
   - "[[Idiographic]]"
   - "[[Research Scope]]"
@@ -187,7 +188,7 @@ Lincoln & Guba（1985, pp. 39–43）将这些公理转化为以下几组操作�
 > |------|------|
 > | 自然情境 | 研究须设在自然情境中，情境深度参与意义建构。 |
 > | 人即研究工具 | [[Researcher as Key Instrument\|人作为研究工具]]的优势在于适应性、反应性、知识、处理敏感事务的能力、看到全貌的能力、澄清和概括的能力（pp.193–194）。 |
-> | 默会知识的运用不可避免 | 质性方法比量化方法更适合人作为工具的概念。 |
+> | [[Tacit Knowledge\|默会知识]]的运用不可避免 | 质性方法比量化方法更适合人作为工具的概念。 |
 
 ---
 

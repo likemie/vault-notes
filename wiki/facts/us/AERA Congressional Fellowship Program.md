@@ -26,6 +26,7 @@ tags:
   - theme/science-communication
 related_concepts:
   - "[[Research-Policy Gap]]"
+  - "[[Tacit Knowledge]]"
   - "[[Learning by Doing]]"
   - "[[Refined Mastery]]"
   - "[[Scientific Method]]"
@@ -77,14 +78,14 @@ updated: 2026-10-04
 > - **立项时间与运行周期** 启动于 2000 年代初并常态化实施至今，每年面向全美公开选拔 1 至 2 名具有优秀科研成果的教育学者，任期固定为 12 个月（通常自当年 9 月至次年 8 月）。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
 > - **发起方与资助机制** 由 AERA 全额资助津贴与搬迁补助，并由 AAAS 提供系统的国会山行前强化导引培训（Orientation）与跨学科研究员网络协同支持。
 > - **覆盖范围与派驻机构** 派驻于美国联邦国会[[House Committee on Education and the Workforce\|众议院教育与劳动力委员会]]（House Committee on Education and the Workforce）、参议院健康教育劳工与养老金委员会（Senate HELP Committee）等常设立法专业委员会，或对教育议题高度关注的参众议员个人办公室。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 43, 46)]]
-> - **核心问题导向** 直面美国教育领域学术界高质量科研供给激增与联邦立法决策严重脱节的“[[Research-Policy Gap\|研究-政策鸿沟]]”，解决实证学者缺乏对立法时间系统与政治隐性知识体察的制度性瓶颈。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 40, 46)]]
+> - **核心问题导向** 直面美国教育领域学术界高质量科研供给激增与联邦立法决策严重脱节的“[[Research-Policy Gap\|研究-政策鸿沟]]”，解决实证学者缺乏对立法时间系统与政治[[Tacit Knowledge|隐性知识]]体察的制度性瓶颈。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 40, 46)]]
 
 ---
 
 ## 方案设计与运行机制
 
 > [!claim] 核心干预假说
-> 项目假定：教育学者对立法政策的疏离并非源于知识不足，而是由于置身象牙塔导致的制度文化隔阂与语言不通；通过为期一年的全职“在[[Learning by Doing|干中学]]”（learning while doing），学者能深刻掌握政策运作的隐性知识与时间系统，并将基于数据的严谨因果思维带入政治议事日程，从而实现科学证据与立法文本的有机咬合。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
+> 项目假定：教育学者对立法政策的疏离并非源于知识不足，而是由于置身象牙塔导致的制度文化隔阂与语言不通；通过为期一年的全职“在[[Learning by Doing|干中学]]”（learning while doing），学者能深刻掌握政策运作的[[Tacit Knowledge|隐性知识]]与时间系统，并将基于数据的严谨因果思维带入政治议事日程，从而实现科学证据与立法文本的有机咬合。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
 
 > [!policy-design]- 方案设计
 > - **项目目标** 消除学者对政治运作的刻板印象；培育[[Refined Mastery\|精通]]政策隐性知识、掌握国会山极简沟通技巧并能迅速响应立法迫切需求的学术领军人才；增进国会议员与幕僚对实证证据效用的信赖。

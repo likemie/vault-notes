@@ -48,6 +48,7 @@ related_concepts:
   - "[[APA Style]]"
   - "[[Champ]]"
   - "[[Discourse]]"
+  - "[[Tacit Knowledge]]"
   - "[[Scientism]]"
   - "[[Emergence]]"
   - "[[Ontology]]"
@@ -200,7 +201,7 @@ updated: 2026-10-07
 > [!method-fit] 适用判断
 > - **适合使用** 旨在识别影响教育结果的核心决定因素、精确测度某项教育干预措施的因果净效应、验证不同理论解释模型的拟合优度，或基于大样本数据推断总体特征规律的情境。([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 12]])
 > - **谨慎使用** 涉及高度复杂、文化依赖、情境高度异质或充满微观微权力博弈的[[Champ\|场域]]；当现象处于探索萌芽期、缺乏成熟的[[Operationalization\|操作化]][[Construct\|构念]]时需格外审慎。([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 115]])
-> - **不适合使用** 旨在深度剖析个体主观生命体验、解构微观教室[[Discourse|话语]]互动机智、探索行动者[[Thomas Theorem\|情境定义]]与默会知识的研究。
+> - **不适合使用** 旨在深度剖析个体主观生命体验、解构微观教室[[Discourse|话语]]互动机智、探索行动者[[Thomas Theorem\|情境定义]]与[[Tacit Knowledge|默会知识]]的研究。
 
 ---
 

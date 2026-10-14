@@ -72,6 +72,7 @@ related_concepts:
   - "[[Other Transaction Authority]]"
   - "[[Anchor Institution]]"
   - "[[Variable]]"
+  - "[[Tacit Knowledge]]"
   - "[[Assemblage]]"
   - "[[Academic Engagement]]"
   - "[[Engineering Education]]"
@@ -646,7 +647,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 
 默会经验的不可替代性在尖端科学实验复现中同样体现得淋漓尽致。
 
-> [!case] 激光复制困境与默会知识的不可替代性
+> [!case] 激光复制困境与[[Tacit Knowledge|默会知识]]的不可替代性
 > 社会学家哈里·科林斯（Harry Collins）在 1970 年代考察新型激光器的实验室复制过程时发现，仅凭公开刊发的学术论文与方法说明，没有任何一家外部实验室能够成功复现；所有成功复现者均曾亲自前往原作者实验室与技师共同操作。分子生物学与免疫学实验中的微妙手法直觉同样难以完全写入方法章节，充分证明真实的科研能力必须在实体操作中传承（pp. 47–48）。
 
 #### 2. 本土制造业萎缩割断科学研究与生产实践的相互启发机制

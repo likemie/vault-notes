@@ -34,6 +34,7 @@ related_concepts:
   - "[[Cost of Ownership]]"
   - "[[Total Quality Management]]"
   - "[[Learning by Doing]]"
+  - "[[Tacit Knowledge]]"
   - "[[Engineering Education]]"
   - "[[Further Education]]"
   - "[[Variable]]"
@@ -211,7 +212,7 @@ issuing_organization: ""
 
 #### 3. 工程师借调轮换、大学卓越中心（SCOE）与供应链质量培训构筑了技术扩散的人才与知识底座
 
-联盟深刻认识到，尖端微电子制造技术本质上高度依赖“做中学”（[[Learning by Doing]]）中积累的非[[Coding in Qualitative Research|编码]]化工艺诀窍（Tacit Knowledge）；唯有通过人才深度流动、产学研分工与全产业链[[Engineering Education|工程教育]]，才能打通实验室研发到产线商业化的知识转化断层（pp.726, 734–735, 752–754）：
+联盟深刻认识到，尖端微电子制造技术本质上高度依赖“做中学”（[[Learning by Doing]]）中积累的非[[Coding in Qualitative Research|编码]]化工艺诀窍（[[Tacit Knowledge]]）；唯有通过人才深度流动、产学研分工与全产业链[[Engineering Education|工程教育]]，才能打通实验室研发到产线商业化的知识转化断层（pp.726, 734–735, 752–754）：
 
 > [!pathways] SEMATECH 三位一体的教育培训与人才扩散机制
 > - **骨干工程师借调轮换制（Assignees Program）** 联盟要求 14 家出资芯片制造厂商选派 200 至 300 名资深工程技术人员全职借调进驻奥斯汀中试基地，借调期通常为 1 至 2 年。工程师在真实中试线上直接参与下一代 0.35 微米关键设备联调与先进制程攻关；借调期满返回母公司后，他们将最新的工艺诀窍、COO/SPC 标准和协作文化带回各企业商业产线，成为企业内部的“技术播种者”与转化桥梁，彻底解决了以往研发成果“停留在纸面报告、难以在车间落地”的困境。（pp.726, 752–753）
