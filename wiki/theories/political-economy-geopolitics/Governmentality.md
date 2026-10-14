@@ -58,6 +58,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Nikolas Rose]]"
   - "[[Stephen Ball]]"
 related_facts:
   - "[[Erasmus Programme]]"
@@ -86,7 +87,7 @@ updated: 2026-10-10
 > - **解释对象** 现代国家与非国家机制如何超越单纯的法律禁止与肉体强制，通过制度理性、专家知识与分类标准，将“人口”（Population）组织为可计算、可干预的对象，并引导个体实现自愿的“自我调节”（[[Self-control|self-regulation]]）。
 > - **理论问题** 传统法学与政治哲学将权力狭隘地等同于主权者的专制压迫或国家机器的垄断暴力，将自由视为治理的对立面；该理论旨在破解现代自由主义与新自由主义体制如何在“保障自由、尊重选择”的表象下，实现更为严密、深层的全景式社会控制。
 > - **理论类型** 元理论（Meta-theory）、权力分析学批判视角、[[Post-structuralism|后结构主义]]政治社会学[[Paradigm|范式]]。
-> - **知识位置** 由米歇尔·福柯（Michel Foucault）在法兰西学院后期讲座中正式确立，构成了现代权力分析谱系中统摄[[Disciplina and Doctrina|规训]]权力（Discipline）与生命政治（Biopolitics）的**上位理论框架**；后经尼古拉斯·罗斯（Nikolas Rose）等学者拓展至[[Spatial Governmentality|空间化治理]]与[[Governing at a Distance|远距治理]]，并广泛辐射至教育社会学、高等教育与比较教育学研究。
+> - **知识位置** 由米歇尔·福柯（Michel Foucault）在法兰西学院后期讲座中正式确立，构成了现代权力分析谱系中统摄[[Disciplina and Doctrina|规训]]权力（Discipline）与生命政治（Biopolitics）的**上位理论框架**；后经[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose）等学者拓展至[[Spatial Governmentality|空间化治理]]与[[Governing at a Distance|远距治理]]，并广泛辐射至教育社会学、高等教育与比较教育学研究。
 
 > [!claim] 核心判断
 > 治理术的核心本质是“行为的引导”（Conduct of Conduct）。现代权力的运作并非致力于粗暴压制主体的意志，而是通过提供分类框架、竞争准则、评价标准与理想人格，塑造主体的自我理解与欲望结构；治理不以抹杀自由为代价，反而将个体的“自由选择”与“自我管理”作为权力高效运转的前提机制。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, p. 226)]]; [[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
@@ -113,7 +114,7 @@ updated: 2026-10-10
 
 > [!dev-timeline] 治理术理论的拓展与分支演变
 > - **1978–1979 年 — 经典政治谱系学确立** 福柯系统阐明了规训身体、调节人口与自由主义治理理性的三重维度。
-> - **1990 年代 — 政治社会学与自由的力量** 尼古拉斯·罗斯（Nikolas Rose, 1999）与科林·戈登（Colin Gordon）等推进英美治理术研究，提出“通过社区治理”与[[Spatial Governmentality|空间化治理]]（领地化、空间凝视、空间质地建模），指出治理依赖[[Lefebvre's Spatial Triad|空间的生产]]与划分。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
+> - **1990 年代 — 政治社会学与自由的力量** [[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose, 1999）与科林·戈登（Colin Gordon）等推进英美治理术研究，提出“通过社区治理”与[[Spatial Governmentality|空间化治理]]（领地化、空间凝视、空间质地建模），指出治理依赖[[Lefebvre's Spatial Triad|空间的生产]]与划分。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
 > - **2008 年 — 教育社会学史的治理化重读** [[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball, 2008）论证教育社会学三大传统（[[Political Arithmetic|政治算术]]、[[New Sociology of Education|新教育社会学]]、[[School Effectiveness|学校效能]]）本身即是把家庭、知识与学校转化为可干预治理对象的权力技术。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 651, 654–665)]]
 > - **2009 年 — 比较教育学空间转向与[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]** 诺亚·索比与梅丽莎·菲舍尔（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）将治理术深化为“空间实践”与双重问题式的统合框架，揭示学校作为封闭容器与流动资格筛选关卡的职能。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361, 367–368)]]
 > - **2022 年 — 算法时代与全球知识地缘治理** 汤普森等（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022]]）将治理术延伸至大学在线自测系统（[[Online Self-Assessment|OSA]]）与[[Digital Self|数字自我]]塑造；泽林卡（[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022]]）将其扩展为全球尺度的“[[21st Century Skills and Competencies Discourse|21世纪技能]]”[[Governing at a Distance|远距治理]]。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 220–226)]]; [[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, pp. 251–265)]]

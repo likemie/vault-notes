@@ -26,7 +26,8 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
-related_persons: []
+related_persons:
+  - "[[Nikolas Rose]]"
 related_facts:
   - "[[Project 5-100]]"
   - "[[Community Innovation Survey]]"
@@ -58,7 +59,7 @@ updated: 2026-10-07
 
 > [!feature] 核心要素
 > - **流出高度倾斜于顶尖学术强国** 本国流出的人才主要流向美国、德国等处于全球前沿的科学中心，造成关键核心智力资源的系统性[[Attrition\|流失]]。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 40–41]])
-> - **流入高度依赖相对滞后地区** 引进的外籍专家或学者主要来自学术水平落后于本国或与本国持平的地区（如俄罗斯引智对独联体国家的依赖），难以提供前沿学术碰撞所需的质性要素。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 41]])
+> - **流入高度依赖相对滞后地区** 引进的外籍专家或学者主要来自学术水平落后于本国或与本国持平的地区（如俄[[Nikolas Rose|罗斯]]引智对独联体国家的依赖），难以提供前沿学术碰撞所需的质性要素。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 41]])
 > - **引智政策的“行政指标化”与水分** 高校和研究机构为了迎合国家学术卓越计划（如[[Project 5-100]]）的硬性国际化指标，倾向于通过短期访学（如3-4个月）注水来满足外籍人员占比要求，而非建立长期聘用的实质性引智。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 41–42]])
 
 ---
@@ -119,11 +120,11 @@ updated: 2026-10-07
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Dezhina_2022_ECO\|Dezhina & Egerev (2022)]] | 俄罗斯[[Project 5-100\|5-100计划]]高校引智数据（2020年） | 政策成效评估与统计分析 | 21所卓越高校中引智比例超10%的大学数量及比例 | 仅有 5 所高校（23.8%）实现了超过 10% 的外籍专家比例，且数据包含大量短期访问学者，显示引智成效不佳且存在水分。 | — | 仅代表参与卓越计划的[[Research Universities\|研究型大学]]，不能直接外推至全俄高校。 |
-> | Dezhina & Egerev | 独联体（CIS）学者流入数据（2015-2017年） | 迁移统计数据分析 | 自[[Community Innovation Survey\|CIS]]国家流入俄罗斯的研究人员增长倍数 | 流入俄罗斯的独联体学者数量翻倍，而流出流向则高度集中于美德等发达国家，呈现典型的质量非对称替代。 | — | 数据来自间接统计，官方无完整的人流双向对比库。 |
+> | Dezhina & Egerev | 独联体（CIS）学者流入数据（2015-2017年） | 迁移统计数据分析 | 自[[Community Innovation Survey\|CIS]]国家流入俄罗斯的研究人员增长倍数 | 流入俄[[Nikolas Rose\|罗斯]]的独联体学者数量翻倍，而流出流向则高度集中于美德等发达国家，呈现典型的质量非对称替代。 | — | 数据来自间接统计，官方无完整的人流双向对比库。 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Dezhina_2022_ECO\|Dezhina & Egerev (2022)]] — 提出了俄罗斯在面临国际限制和卓越引智压力下所显现的非对称学术流动模式，并展示了[[Project 5-100]]中的考核注水现象。
+> - [[Argument_Dezhina_2022_ECO\|Dezhina & Egerev (2022)]] — 提出了俄[[Nikolas Rose|罗斯]]在面临国际限制和卓越引智压力下所显现的非对称学术流动模式，并展示了[[Project 5-100]]中的考核注水现象。

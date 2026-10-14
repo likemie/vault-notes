@@ -78,6 +78,7 @@ related_persons:
   - "[[Baruch Spinoza]]"
   - "[[Fred Block]]"
   - "[[Peter Thiel]]"
+  - "[[Nikolas Rose]]"
 related_facts:
   - "[[UNESCO]]"
   - "[[International School of Geneva]]"
@@ -865,7 +866,7 @@ updated: '2026-09-12'
 > | 化学 | 克里斯滕（H. R. Christen） | 温特图尔州立高等实科学校 |
 > | 生物 | 克里德（R. F. S. Creed） | 伦敦大学 |
 > | 哲学 | 迪娜·德雷福斯（Dina Dreyfus） | 法国教育督学系统 |
-> | 心理学 | 富尔哈马（S. Furhammar） | 瑞典博罗斯中学 |
+> | 心理学 | 富尔哈马（S. Furhammar） | 瑞典博[[Nikolas Rose\|罗斯]]中学 |
 > | 数学 | 戈什（P. K. Ghosh）；摩根（J. B. Morgan） | 印度奥斯马尼亚大学前学院院长；雷丁大学 |
 > | 物理／物理科学 | 克莱因（A. Klein）；汤普森（J. J. Thompson） | 科隆；牛津大学 |
 > | 人类学 | 林哈特（G. Lienhardt） | 牛津大学 |

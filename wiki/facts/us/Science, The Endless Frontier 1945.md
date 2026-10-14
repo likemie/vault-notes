@@ -56,6 +56,7 @@ related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
   - "[[Franklin D. Roosevelt]]"
+  - "[[Nikolas Rose]]"
   - "[[Michael Kratsios]]"
   - "[[Chris Freeman]]"
 related_facts:
@@ -100,7 +101,7 @@ updated: 2026-10-08
 
 > [!event-context] 事件背景档案
 > - **时间跨度 / 空间地理** 1944 年 11 月（[[Franklin D. Roosevelt|罗斯福总统]]致信垂询）至 1945 年 7 月（正式提交报告），美国华盛顿特区。
-> - **核心当事主体** 富兰克林·D·罗斯福（Franklin D. Roosevelt）总统、哈里·S·杜鲁门总统、万尼瓦尔·布什及由学术界、工业界和医学界领袖组成的四个专家咨询委员会。
+> - **核心当事主体** 富兰克林·D·[[Nikolas Rose|罗斯]]福（Franklin D. Roosevelt）总统、哈里·S·杜鲁门总统、万尼瓦尔·布什及由学术界、工业界和医学界领袖组成的四个专家咨询委员会。
 > - **深层制度背景** 二战期间，以[[Manhattan Project|曼哈顿工程]]与[[MIT Radiation Laboratory|麻省理工学院辐射实验室]]（微波雷达技术）为代表的战时科研取得了决定性突破；1942年《科利尔》（*Collier's*）杂志向近三百万读者称布什为“可能赢得战争的人”，标志着科学家被置于国家防卫的核心。战争临近终结，美国亟需将临时军事动员体制转化为常态化、平民化的国家科研支持框架。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
 > - **直接触发事件** 1944 年 11 月 17 日，罗斯福总统在华盛顿特区致信布什，提出四项关键国家课题：战时医学知识如何造福和平时期、政府如何继续支持公共与私营科研、如何发掘并培育青年科学天才，以及如何将那些受战事冲击而剧烈打乱科研轨迹的物理学家和工程师重新导向民用科学进步与和平时期的国家建设。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
 
@@ -230,7 +231,7 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》第一章，探讨 1944 年罗斯福致信布什的历史脉络、科学家在民主防卫中的崇高地位及战后技术共和国契约的建立。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》第一章，探讨 1944 年[[Nikolas Rose|罗斯]]福致信布什的历史脉络、科学家在民主防卫中的崇高地位及战后技术共和国契约的建立。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 2026 年白宫战略报告，全面对照 1945 年布什报告，肯定其公共资助核心，同时宣告单向管道终结，提出四大支柱与 2028 财年研发预算优先序。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 系统剖析布什《科学——无止境的边疆》所确立的三大制度性承诺，揭示 2025 年起美国科技政策实践启动对布什契约的退出与结构性转型。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 系统反思并批判布什报告在战后制度化的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]，提出[[Discovery-Invention Cycle|发现-发明循环]]理论。

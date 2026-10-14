@@ -34,6 +34,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[William H. Payne]]"
+  - "[[Nikolas Rose]]"
   - "[[Val D. Rust]]"
 related_facts: []
 related_arguments:
@@ -108,7 +109,7 @@ updated: 2026-10-01
 
 ## 历史评价
 
-> [!citation-card] 罗斯特等论苏格兰首批教育学教席的建制意义
+> [!citation-card] [[Nikolas Rose|罗斯]]特等论苏格兰首批教育学教席的建制意义
 > 比较教育学向现代学术领域的演进，依赖于母学科教育学在大学内的建制化成型；1876 年苏格兰爱丁堡（劳里）与圣安德鲁斯（梅克尔约翰）设立的教授教席，标志着这一建制化浪潮的历史起点。（pp.127, 135 注 1）[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 127, 135 注 1)]]
 >
 > *The first professors of education were appointed in Scotland in 1876. Simon Somerville Laurie received the appointment at Edinburgh and John Miller Dow Meiklejohn at St. Andrews.*

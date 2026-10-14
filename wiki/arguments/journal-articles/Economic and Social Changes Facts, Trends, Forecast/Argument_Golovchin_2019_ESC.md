@@ -43,7 +43,8 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Systematic Review]]"
   - "[[Qualitative Research]]"
-related_persons: []
+related_persons:
+  - "[[Nikolas Rose]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
@@ -65,7 +66,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question\|研究问题]]
-> Hattie 的 [[Visible Learning]] 方法在多大程度上适用于俄罗斯教育？其科学论据的有效性如何？将 Hattie 的理念整合进俄罗斯国家、区域和地方层面的教育政策是否可行？(p.232)
+> Hattie 的 [[Visible Learning]] 方法在多大程度上适用于俄[[Nikolas Rose|罗斯]]教育？其科学论据的有效性如何？将 Hattie 的理念整合进俄罗斯国家、区域和地方层面的教育政策是否可行？(p.232)
 >
 > 文章同时回应一个更大的问题：西方教育改革方案在未经初步检验和未考虑文化传统的情况下被借用至俄罗斯，是否会导致"制度陷阱"？(p.230)
 
@@ -73,7 +74,7 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - **传统教育与"新学校"运动的历史张力** 论文以传统教学论（Komenský, Diesterweg）的五支柱（知识[[Paradigm\|范式]]、教师中心、班级授课制、纪律、Bloom 分类学）与 20 世纪下半叶欧洲"新学校"运动（Cousinet, Freinet）及去学校化理论（Illich, Holt）之间的对峙为历史背景，将 Hattie 的 [[Visible Learning]] 定位为"新学校"意识形态在当代教育政策中的间接体现(p.230-231)
-> - **[[Policy Borrowing\|政策借用]]视角** 论文虽未明确使用该术语，但其核心问题是典型的政策借用分析——西方教育创新（澳大利亚、新西兰、美国、丹麦已采用）是否能且应被转移至俄罗斯？论文的结论（"inapplicable"）构成对不加批判的政策借用的警告(p.240-241)
+> - **[[Policy Borrowing\|政策借用]]视角** 论文虽未明确使用该术语，但其核心问题是典型的政策借用分析——西方教育创新（澳大利亚、新西兰、美国、丹麦已采用）是否能且应被转移至俄[[Nikolas Rose|罗斯]]？论文的结论（"inapplicable"）构成对不加批判的政策借用的警告(p.240-241)
 > - **方法论批判传统** 论文系统梳理了从 [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] 到 [[Argument_McKnight_2020_Discourse\|McKnight & Whitburn (2020)]] 的 Hattie 批评[[Document\|文献]]，将其分为方法论批评和文化批评两个阵营(p.235-238)
 
 ## 研究方法
@@ -81,7 +82,7 @@ citation_aliases:
 > [!info] 研究方法
 > - **方法 1：论述分析（discursive analysis）**— 对 Hattie 的概念及其批评[[Document\|文献]]进行理论和方法的综述，综合正反双方论点(p.232)
 > - **方法 2：变差系数统计检验（variation coefficient analysis）**— 对 Hattie [[Meta-analysis\|元分析]]中使用的 133 个（正值）[[Effect Size\|效应量]]计算变差系数 Vσ，检验其数据集的同质性(p.238-239)。作者声称这是前人未做过的原创分析（"which has not been done before", p.229）
-> - **数据来源** Hattie (2009/2017 俄译本) 的效应量数据表；Western 批评文献([[Argument_Snook_2009_NZJES\|Snook et al., 2009]]; [[Argument_Terhart_2011_JCS\|Terhart, 2011]]; Myburgh; McKnight & Whitburn, 2020 等)；俄罗斯教育社会学数据（VTsIOM 民意调查、TALIS-2013、RANEPA 全俄监测、Vologda 地区教师监测）
+> - **数据来源** Hattie (2009/2017 俄译本) 的效应量数据表；Western 批评文献([[Argument_Snook_2009_NZJES\|Snook et al., 2009]]; [[Argument_Terhart_2011_JCS\|Terhart, 2011]]; Myburgh; McKnight & Whitburn, 2020 等)；俄[[Nikolas Rose|罗斯]]教育社会学数据（VTsIOM 民意调查、TALIS-2013、RANEPA 全俄监测、Vologda 地区教师监测）
 > - **局限性（作者自认）** 批评文献的分析仅限于已发表的英文和俄文资料；变差系数分析仅使用效应量的平均值而非原始分布数据
 
 ## 核心论证
@@ -122,7 +123,7 @@ citation_aliases:
 >
 > > 结论：Hattie 的数据集极端不均匀（extremely uneven），"在这样一个不稳定的模型中确定任何效应的强度，很可能不会导致客观结论的形成"。批评者关于元分析过程中缺乏数据控制的[[Hypothesis\|假设]]得到统计确认(p.239)。
 >
-> ### 第四步：俄罗斯适用性评估
+> ### 第四步：俄[[Nikolas Rose|罗斯]]适用性评估
 >
 > Golovchin 得出结论：**Hattie 的理念不适用于俄罗斯教育政策**，原因如下：
 >
@@ -138,7 +139,7 @@ citation_aliases:
 > 1. Hattie 的[[Meta-meta-analysis\|元-元分析]]使用的[[Effect Size\|效应量]]数据集极端不均匀（Vσ=56.87%），动摇了其结论的统计基础(p.239)
 > 2. 西方对 Hattie 的批评可分为方法论批评（[[Meta-analysis\|元分析]]技术问题）和文化批评（新自由主义、性别、能力政治）两个阵营，但这些批评此前"主要是理论性的"(p.238)
 > 3. 论文首次以变差系数方法对 Hattie 模型进行了统计检验，为批评者提供了定量证据支持
-> 4. 基于方法论缺陷、文化不匹配和官僚化风险三重理由，论文建议俄罗斯教育政策不应采用 Hattie 方法(p.240-241)
+> 4. 基于方法论缺陷、文化不匹配和官僚化风险三重理由，论文建议俄[[Nikolas Rose|罗斯]]教育政策不应采用 Hattie 方法(p.240-241)
 > 5. Hattie 的 VL 在俄罗斯学界受到欢迎（被翻译出版、在教师网络研讨会上被讨论、被用于论证 FSES 标准），构成"制度陷阱"风险——"西方教育创新在俄罗斯社会中并未获得明确认可"(p.229, 240)
 
 ## 关键引用
@@ -163,7 +164,7 @@ citation_aliases:
 
 > [!warning] 局限性与批评
 > - **论文自认局限** 批评[[Document\|文献]]限于英文和俄文资料；变差系数计算仅基于[[Effect Size\|效应量]]均值而非原始分布数据(p.238-239)
-> - **数据来源限制** Hattie 的[[Meta-analysis\|元分析]]数据主要来自美国、澳大利亚和新西兰（1980s-2000s 英语国家），限制了向俄罗斯情境外推的有效性(p.232)
+> - **数据来源限制** Hattie 的[[Meta-analysis\|元分析]]数据主要来自美国、澳大利亚和新西兰（1980s-2000s 英语国家），限制了向俄[[Nikolas Rose|罗斯]]情境外推的有效性(p.232)
 > - **单一方法局限** 仅使用变差系数一种统计检验方法，未进行敏感性分析或替代方法交叉验证
 > - **潜在立场偏差** 论文明确站在 Hattie 批评者一侧，对支持 Hattie 观点的学者（Arnold et al.）着墨较少
 

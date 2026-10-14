@@ -30,7 +30,8 @@ related_theories: []
 related_methods: []
 related_instruments:
   - "[[Epistemological Understanding Assessment]]"
-related_persons: []
+related_persons:
+  - "[[Nikolas Rose]]"
 related_facts:
   - "[[Bologna Process]]"
   - "[[CALOHEE Project]]"
@@ -62,7 +63,7 @@ updated: 2026-08-27
 
 > [!dev-timeline]- 事件经过
 > - **2000–2004 — Tuning 第一阶段与第二阶段** 联合 100 多所欧洲高校，确立了欧洲通用的 31 项通用能力（Generic Competences）谱系，明确将“产生新想法的能力（[[Creativity\|创造力]]）”与“批判和自我批判的能力”列为核心高阶能力。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 13)]]
-> - **2005–2015 — 学科参照框架（Subject Benchmark Statements）研发与全球辐射** 拓展至商业、化学、地球科学、历史、护理等数十个学科，并推广至拉丁美洲、非洲、俄罗斯、美国及中国。
+> - **2005–2015 — 学科参照框架（Subject Benchmark Statements）研发与全球辐射** 拓展至商业、化学、地球科学、历史、护理等数十个学科，并推广至拉丁美洲、非洲、俄[[Nikolas Rose|罗斯]]、美国及中国。
 > - **2016–至今 — 衍生 [[CALOHEE Project\|CALOHEE]] 评价框架** 从宏观资格描述符进一步下沉为直接指导高校教师命题与评分的学科化[[Authentic Assessment\|表现性评价]]框架。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 13–14, 27–28)]]
 
 ---

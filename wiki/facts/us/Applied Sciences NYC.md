@@ -37,7 +37,8 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Nikolas Rose]]"
 related_facts:
   - "[[McGovern Center for Venture Development]]"
 related_arguments:
@@ -55,7 +56,7 @@ updated: 2026-10-07
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 纽约应用科学计划（Applied Sciences NYC）是 2010 年由纽约市政府发起的一项具有全球影响力的城市高等教育与科技创新发展计划。该计划旨在通过出让纽约市核心土地（如罗斯福岛）及提供高达 1 亿美元的市政基础设施建设资助，向全球顶尖高等学府公开招标，吸引世界一流理工高校在纽约设立应用科学与工程研究生院，从而根本性补齐[[New York Bay Area|纽约湾区]]“金融强、理工弱”的高等教育短板，构筑世界级工程科技[[Innovation Hub|创新中心]]。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
+> 纽约应用科学计划（Applied Sciences NYC）是 2010 年由纽约市政府发起的一项具有全球影响力的城市高等教育与科技创新发展计划。该计划旨在通过出让纽约市核心土地（如[[Nikolas Rose|罗斯]]福岛）及提供高达 1 亿美元的市政基础设施建设资助，向全球顶尖高等学府公开招标，吸引世界一流理工高校在纽约设立应用科学与工程研究生院，从而根本性补齐[[New York Bay Area|纽约湾区]]“金融强、理工弱”的高等教育短板，构筑世界级工程科技[[Innovation Hub|创新中心]]。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2010 年由时任纽约市长迈克尔·布隆伯格（Michael Bloomberg）正式宣布启动，2011 年公布首轮中标方案，目前作为常态化高教产学研载体持续运行。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
@@ -86,7 +87,7 @@ updated: 2026-10-07
 ## 推进历程与阶段演进
 
 > [!dev-timeline] 项目推进历程
-> - **2010–2011 — 全球公开招标与胜选定案** 纽约市经济发展公司向全球发布提案征集书（RFP）；2011 年 12 月，康奈尔大学与以色列理工学院（Technion）组成的联合团队击败斯坦福大学等竞争对手，正式中标罗斯福岛[[Innovation Park|科技园区]]项目。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
+> - **2010–2011 — 全球公开招标与胜选定案** 纽约市经济发展公司向全球发布提案征集书（RFP）；2011 年 12 月，康奈尔大学与以色列理工学院（Technion）组成的联合团队击败斯坦福大学等竞争对手，正式中标[[Nikolas Rose|罗斯]]福岛[[Innovation Park|科技园区]]项目。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 > - **2012–2017 — 园区破土动工与分期落成** 哥伦比亚大学数据科学研究院与纽约大学 CUSP 相继成立；2017 年 9 月，投资数十亿美元的康奈尔科技校区一期工程在罗斯福岛正式落成启用。
 > - **2018–至今 — 跨国企业加盟与生态辐射** 吸引 Meta（Facebook）、Google、Amazon、Twitter 等科技巨头设立联合研究中心，成为纽约大都市区高科技独角兽企业裂变的核心温床。
 

@@ -40,6 +40,7 @@ related_methods:
   - "[[Meta-analysis]]"
 related_instruments: []
 related_persons:
+  - "[[Nikolas Rose]]"
   - "[[David Held]]"
   - "[[Philip Tetlock]]"
   - "[[Alexander Karp]]"
@@ -74,7 +75,7 @@ updated: 2026-10-08
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1909** 出生于俄罗斯帝国拉脱维亚里加的一个富裕犹太家庭，童年亲历俄国革命动荡。
+> - **1909** 出生于俄[[Nikolas Rose|罗斯]]帝国拉脱维亚里加的一个富裕犹太家庭，童年亲历俄国革命动荡。
 > - **1921** 随全家移居英国伦敦，后就读于牛津大学圣保罗公学与基督堂学院。
 > - **1932** 当选牛津大学全灵学院首位犹太人研究员，从事古典哲学与概念分析研究。
 > - **1953** 出版著名论著《[[Hedgehog and Fox Model|刺猬与狐狸]]》（*The Hedgehog and the Fox*），借托尔斯泰的历史哲学探讨人类认知模式的分野。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 159–160)]]

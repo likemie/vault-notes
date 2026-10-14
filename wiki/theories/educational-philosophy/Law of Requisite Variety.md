@@ -42,6 +42,7 @@ related_methods:
   - "[[Multiple-Choice Questions]]"
 related_instruments: []
 related_persons:
+  - "[[Nikolas Rose]]"
   - "[[Niklas Luhmann]]"
   - "[[Walter J. M. Kickert]]"
 related_facts:
@@ -65,7 +66,7 @@ updated: 2026-10-12
 > - **解释对象** 复杂系统面临外部环境扰动时，控制主体如何维持系统稳态（Homeostasis），以及控制能力的边界与极限。
 > - **理论问题** 为什么控制主体企图通过制定越来越繁密的自上而下行政规章来控制专业网络时，不仅无法消除系统混乱，反而导致僵化与治理全面失灵。
 > - **理论类型** 控制论数理逻辑定律、复杂系统演化理论与公共治理[[Epistemology|认识论]]框架。
-> - **知识位置** 源自罗斯·阿什比（W. Ross Ashby, 1956）对控制论系统的公理化建构，与维纳（Norbert Wiener）控制论和鲁曼（[[Niklas Luhmann]]）社会系统论紧密衔接；在公共行政与高等教育研究中，基克特（[[Walter J. M. Kickert|Walter J. M. Kickert]], 1995）将其作为论证传统科层管制破产与[[Steering at a Distance|远距离操纵]]兴起的理论公理。
+> - **知识位置** 源自[[Nikolas Rose|罗斯]]·阿什比（W. Ross Ashby, 1956）对控制论系统的公理化建构，与维纳（Norbert Wiener）控制论和鲁曼（[[Niklas Luhmann]]）社会系统论紧密衔接；在公共行政与高等教育研究中，基克特（[[Walter J. M. Kickert|Walter J. M. Kickert]], 1995）将其作为论证传统科层管制破产与[[Steering at a Distance|远距离操纵]]兴起的理论公理。
 
 > [!claim] 核心判断
 > “唯有多样性才能吸收多样性”（Only variety can absorb variety）。控制系统自身的状态多样性必须不小于受控对象及环境扰动的多样性，才能实现有效调控。在高度专业化与[[Heterogeneity|异质性]]的现代组织网络中，中央政府试图通过列举微观规则来指挥全盘的做法在控制论上必然陷入“多样性赤字（Variety Deficit）”而崩溃；唯有承认基层系统的自主性并依托事后负反馈机制，系统方能维持动态稳态与自适应创新。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 150–152)]]
@@ -75,7 +76,7 @@ updated: 2026-10-12
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 英国控制论先驱罗斯·阿什比（W. Ross Ashby, 1956）在《控制论导论》（*An Introduction to Cybernetics*）第 11 章正式提出并数学证明了必要多样性定律（Law of Requisite Variety）。
+> - **提出者与原始文本** 英国控制论先驱[[Nikolas Rose|罗斯]]·阿什比（W. Ross Ashby, 1956）在《控制论导论》（*An Introduction to Cybernetics*）第 11 章正式提出并数学证明了必要多样性定律（Law of Requisite Variety）。
 > - **原初问题** 在通信与自动化控制中，面对复杂未知的环境干扰（Disturbance, $D$），调节器（Regulator, $R$）需要具备多大的动作容量，才能将受控系统关键[[Variable|变量]]（Essential Variables, $E$）维持在生存容许区间之内。
 > - **理论资源与材料** 香农（Claude Shannon）信息论中的熵概念、控制工程中的负反馈回路模型、神经生理学中的自稳态（Homeostasis）机制。
 > - **形成路径** 阿什比通过严格的组合集论证明：目标变量的可能状态数（熵）之下限，等于环境扰动的多样性减去调节器自身的多样性（$V_E \ge V_D - V_R$）。若调节器的可能反应数少于外部干扰数，差额部分的多样性必然无情地穿透至结果中，破坏系统稳定性。

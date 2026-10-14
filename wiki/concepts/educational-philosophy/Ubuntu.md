@@ -44,6 +44,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Nikolas Rose]]"
   - "[[René Descartes]]"
   - "[[Paulo Freire]]"
 related_facts: []
@@ -73,7 +74,7 @@ updated: 2026-10-07
 > - **边界** 乌班图不等于简单的集体主义或群体均质化，其强调共同体对个体的滋养，绝非以抹杀个体独特性或压制边缘主体为代价。
 
 > [!citation-card] 乌班图关系伦理化解算法认识不正义
-> 针对焦尔贾·波齐（Giorgia Pozzi, 2023）在医疗处方药监测程序中所揭示的算法侵害患者信任与主体证词的认识不正义，布兰登·费利托与米歇尔·德普罗斯特（Brandon Ferlito & Michiel De Proost, 2023）提出以乌班图哲学作为互补视角予以化解。他们归纳出抵御人工智能认识不正义的三大进路：承认多元视角、促进跨不同知识层次的同理心，以及在人机交互与专业决策中坚决消除权力不对称。这一伦理方案在教育哲学传统中同样拥有深厚渊源。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 9–10)]]
+> 针对焦尔贾·波齐（Giorgia Pozzi, 2023）在医疗处方药监测程序中所揭示的算法侵害患者信任与主体证词的认识不正义，布兰登·费利托与米歇尔·德普[[Nikolas Rose|罗斯]]特（Brandon Ferlito & Michiel De Proost, 2023）提出以乌班图哲学作为互补视角予以化解。他们归纳出抵御人工智能认识不正义的三大进路：承认多元视角、促进跨不同知识层次的同理心，以及在人机交互与专业决策中坚决消除权力不对称。这一伦理方案在教育哲学传统中同样拥有深厚渊源。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 9–10)]]
 >
 > *Ferlito & De Proost (2023) offer ubuntu to mediate testimonial epistemic injustice in automated Prediction Drug Monitoring Programmes (PDMP) observed by Pozzi (2023) in healthcare. They forward three ways to counteract this epistemic injustice of [[Generative Artificial Intelligence|GenAI]] in medicine: 'recognise diverse perspectives', encourage empathy across different knowledge levels, and work to negate power imbalances.*
 
@@ -143,7 +144,7 @@ updated: 2026-10-07
 > 聚焦自动化预测与生成式模型在专业实践中引发的信任危机与主体剥夺，构建对抗技术霸权的伦理防线。
 
 > [!claim] Ferlito, B., & De Proost, M.
-> **乌班图三大原则对医疗算法不正义的防御** 针对焦尔贾·波齐（Giorgia Pozzi, 2023）揭示的处方药监测程序（Prescription Drug Monitoring Programmes, PDMP）中机器学习算法侵害患者信任的证词不正义，费利托与德普罗斯特论证指出，乌班图的伦理进路能够有效弥补传统生物医学伦理中个体主义原则的不足。通过承认患者多元的生活情境与经验视角、促进专业医生与普通患者在不同认知层级之间的情感共鸣与理解，以及坚决拆解算法评分所强化的专家专断与权力不平等，乌班图成功修复了人机决策中的认识正义。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 9–10)]]
+> **乌班图三大原则对医疗算法不正义的防御** 针对焦尔贾·波齐（Giorgia Pozzi, 2023）揭示的处方药监测程序（Prescription Drug Monitoring Programmes, PDMP）中机器学习算法侵害患者信任的证词不正义，费利托与德普[[Nikolas Rose|罗斯]]特论证指出，乌班图的伦理进路能够有效弥补传统生物医学伦理中个体主义原则的不足。通过承认患者多元的生活情境与经验视角、促进专业医生与普通患者在不同认知层级之间的情感共鸣与理解，以及坚决拆解算法评分所强化的专家专断与权力不平等，乌班图成功修复了人机决策中的认识正义。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 9–10)]]
 
 > [!claim] Smith, S. J.
 > **乌班图原则在教育人机交互与批判教学中的历史共振** 塞缪尔·杰·史密斯（Samuel J. Smith, 2026）将费利托与德普罗斯特的乌班图框架[[Creativity|创造性]]地[[Transfer Translation Transformation|转译]]至教育技术领域。他论证指出，乌班图化解算法不正义的三大原则，在教育哲学传统中有着悠久而坚实的理论共振：承认多元视角呼应了哈里·布里豪斯（Harry Brighouse, 2005）倡导的学校民主治理与间断性伦理（Discontinuous Ethos）；跨层级共情呼应了莎伦·托德（Sharon Todd, 2003）将教育视为跨越差异联结他者的关系伦理；消解权力不对称则直接继承了[[Paulo Freire\|保罗·弗莱雷]]（Paulo Freire, 2005）的[[Critical Pedagogy\|批判教育学]]理念。将乌班图原则融入[[Generative Artificial Intelligence|生成式人工智能]]教学，能够坚决打破算法作为至高权威的假象，确保学生在面对算法输出时保有独立的[[Epistemic Agency|认识主体性]]，有效规避[[Formative Epistemic Injustice|成长性认识不正义]]。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 9–11)]]

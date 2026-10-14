@@ -27,6 +27,7 @@ related_concepts:
   - "[[Winner's Fallacy]]"
 related_persons:
   - "[[Leo Szilard]]"
+  - "[[Nikolas Rose]]"
   - "[[Franklin D. Roosevelt]]"
   - "[[J. Robert Oppenheimer]]"
 related_facts:
@@ -47,7 +48,7 @@ updated: 2026-10-08
 ## 背景与历史成因
 
 > [!claim] 核心定性
-> 爱因斯坦-[[Leo Szilard|西拉德]]信函（Einstein–Szilárd letter）是20世纪科学史与国家安全战略史上最具转折意义的历史[[Document|文献]]之一。1939年8月2日，物理学家阿尔伯特·爱因斯坦（Albert Einstein）与[[Leo Szilard|利奥·西拉德]]（Leo Szilard）在纽约长岛起草密信呈送美国总统富兰克林·D. 罗斯福（[[Franklin D. Roosevelt]]），敦促美国政府警惕铀核裂变释放巨大能量并被纳粹德国制造成新型极强威力炸弹的严峻危险，呼吁政府与科学界建立永久联络机制，由此直接拉开了美国政府主导核武研发并最终促成[[Manhattan Project|曼哈顿工程]]的历史序幕。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 35–36)]]
+> 爱因斯坦-[[Leo Szilard|西拉德]]信函（Einstein–Szilárd letter）是20世纪科学史与国家安全战略史上最具转折意义的历史[[Document|文献]]之一。1939年8月2日，物理学家阿尔伯特·爱因斯坦（Albert Einstein）与[[Leo Szilard|利奥·西拉德]]（Leo Szilard）在纽约长岛起草密信呈送美国总统富兰克林·D. [[Nikolas Rose|罗斯]]福（[[Franklin D. Roosevelt]]），敦促美国政府警惕铀核裂变释放巨大能量并被纳粹德国制造成新型极强威力炸弹的严峻危险，呼吁政府与科学界建立永久联络机制，由此直接拉开了美国政府主导核武研发并最终促成[[Manhattan Project|曼哈顿工程]]的历史序幕。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 35–36)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1939年8月2日签署于纽约州长岛北叉半岛佩科尼克，1939年10月11日由总统顾问亚历山大·萨克斯（Alexander Sachs）当面呈递给白宫椭圆形办公室。
@@ -62,7 +63,7 @@ updated: 2026-10-08
 > [!dev-timeline] 事件推进历程
 > - **1939-07 — 危机预警与起草酝酿** [[Leo Szilard|西拉德]]与维格纳前往长岛拜访度假中的爱因斯坦，向其解释链式反应与铀炸弹的可行性；爱因斯坦深感震撼并同意向[[Franklin D. Roosevelt|罗斯福总统]]发出联名预警信。
 > - **1939-08-02 — 密信正式签署** 爱因斯坦在西拉德协助起草的信函上签字，信中详细指出核链式反应在物理上的巨大突破，强调极有可能制造出具有毁灭性威力的新型炸弹，呼吁行政当局保持警惕并采取果断行动。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 35–36)]]
-> - **1939-10-11 — 白宫面呈与总统决断** 二战在欧洲全面爆发后，投资家萨克斯将信件及补充备忘录面呈罗斯福总统；罗斯福当即决定设立铀顾问委员会（Advisory Committee on Uranium），拨款支持早期核裂变实验。
+> - **1939-10-11 — 白宫面呈与总统决断** 二战在欧洲全面爆发后，投资家萨克斯将信件及补充备忘录面呈罗斯福总统；[[Nikolas Rose|罗斯]]福当即决定设立铀顾问委员会（Advisory Committee on Uranium），拨款支持早期核裂变实验。
 > - **1941–1942 — 升级过渡至[[Manhattan Project|曼哈顿工程]]** 随着战略紧迫性提升，核研发全面移交科学研发办公室（[[Office of Scientific Research and Development]], OSRD）并由陆军工兵部队接管，最终演进为由[[J. Robert Oppenheimer|罗伯特·奥本海默]]主持技术攻关的[[Manhattan Project|曼哈顿工程]]。
 
 ---

@@ -35,7 +35,8 @@ related_theories: []
 related_methods:
   - "[[Effect Size]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Nikolas Rose]]"
 related_facts:
   - "[[Applied Sciences NYC]]"
   - "[[McGovern Center for Venture Development]]"
@@ -55,7 +56,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 纽约湾区（New York Bay Area，亦称金融湾区）是指以美国纽约大都市区为核心、拥有全球顶尖金融资本与现代科技创新实力的世界级都市型湾区。该区域经历从传统制造业中心到全球金融中心、再到国际科技创新高地的多次产业转型。纽约湾区汇聚了纽约证券交易所（New York Stock Exchange, NYSE）与纳斯达克证券交易所（NASDAQ）两大全球性资本交易市场，依托花旗银行、高盛、摩根士丹利等世界顶级金融机构，形成了以金融技术（Financial Technology, Fintech）为核心的研发集聚；同时通过精准的市政税费激励、[[Applied Sciences NYC|应用科学计划]]（如罗斯福岛康奈尔科技校区）以及[[McGovern Center for Venture Development|麦戈文创业孵化中心]]等高校产学研载体，根本性补齐理工科应用研究短板，构建了金融资本与前沿科技创新高度协同的区域[[Innovation Ecosystem|创新生态系统]]。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
+> 纽约湾区（New York Bay Area，亦称金融湾区）是指以美国纽约大都市区为核心、拥有全球顶尖金融资本与现代科技创新实力的世界级都市型湾区。该区域经历从传统制造业中心到全球金融中心、再到国际科技创新高地的多次产业转型。纽约湾区汇聚了纽约证券交易所（New York Stock Exchange, NYSE）与纳斯达克证券交易所（NASDAQ）两大全球性资本交易市场，依托花旗银行、高盛、摩根士丹利等世界顶级金融机构，形成了以金融技术（Financial Technology, Fintech）为核心的研发集聚；同时通过精准的市政税费激励、[[Applied Sciences NYC|应用科学计划]]（如[[Nikolas Rose|罗斯]]福岛康奈尔科技校区）以及[[McGovern Center for Venture Development|麦戈文创业孵化中心]]等高校产学研载体，根本性补齐理工科应用研究短板，构建了金融资本与前沿科技创新高度协同的区域[[Innovation Ecosystem|创新生态系统]]。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向以金融资本深度支撑、市政产业政策精准引导、高水平大学[[Application Engineering|应用工程]]转化为特征的都市型复合创新生态系统。
@@ -92,7 +93,7 @@ updated: 2026-10-07
 > [!feature] 纽约湾区[[Innovation Ecosystem|创新生态系统]]的四大核心要素
 > - **全周期科技金融与实验室网络（Full-Lifecycle Techno-Finance Ecosystem）** 依托华尔街雄厚资本与全球两大交易所，设立金融科技创新实验室（FinTech Innovation Lab）、摩根大通金融解决方案实验室与花旗银行创新实验室，运用金融大数据与人工智能为中小微科技企业提供定制化融资与信贷支持。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 > - **精准导向的市政减税与空间更新政策（Targeted Fiscal Incentives & Spatial Policy）** 实施商业扩张鼓励计划、降低能源成本计划、新兴科技公司减税措施与曼哈顿下城商业租金税减免；推动城市改造计划（铺设全美最大的免费公共无线网络 WiFi、建设 Digital.NYC 创业平台）及众创空间支持计划。
-> - **战略性[[Engineering Education|高等工程教育]]引育工程（Strategic [[STEM Education|STEM]] Higher Education Expansion）** 2010 年启动[[Applied Sciences NYC|应用科学计划]]（Applied Sciences NYC），出让罗斯福岛核心土地并配套 1 亿美元市政资金，全球公开招标引进康奈尔大学与以色列理工学院（Technion）联合设立康奈尔科技校区（Cornell Tech），从供给侧重构湾区工程科技与应用学科底座。
+> - **战略性[[Engineering Education|高等工程教育]]引育工程（Strategic [[STEM Education|STEM]] Higher Education Expansion）** 2010 年启动[[Applied Sciences NYC|应用科学计划]]（Applied Sciences NYC），出让[[Nikolas Rose|罗斯]]福岛核心土地并配套 1 亿美元市政资金，全球公开招标引进康奈尔大学与以色列理工学院（Technion）联合设立康奈尔科技校区（Cornell Tech），从供给侧重构湾区工程科技与应用学科底座。
 > - **专业化高校成果转化与科技孵化平台（University [[Technology Transfer|tech transfer]] & Incubator Hub）** 以康奈尔大学[[McGovern Center for Venture Development|麦戈文创业孵化中心]]为标杆，深度整合大学科研成果与纽约州经济发展资源，提供高标准湿实验室、知识产权保护、商业规划与职业经理人对接，成功孵化近百个硬科技企业团队。
 
 > [!logic-map]- 纽约湾区金融科技与产学研共演逻辑
@@ -140,7 +141,7 @@ updated: 2026-10-07
 > 探讨文理及商科见长的都市如何通过公私合营引育世界顶尖工程技术院校与专业孵化中介，突破应用科技创新的供给瓶颈。
 
 > [!claim] 张寒旭等
-> **[[Applied Sciences NYC|应用科学计划]]与高校孵化器协同转化** 张寒旭等论证道，纽约湾区为破解理工科高等教育相对薄弱的历史劣势，由市政府主导推行了具有划时代意义的[[Applied Sciences NYC|应用科学计划]]，通过土地出让与巨额资金资助全球引智，成功在罗斯福岛打造了康奈尔科技校区等现代[[Innovation Park|科技园区]]，使科学研究直接对接城市实际产业需求。与此同时，以康奈尔大学[[McGovern Center for Venture Development|麦戈文创业孵化中心]]为代表的大学专业孵化器，通过汇聚大学和纽约州多方资源，向创业团队提供全流程实验空间、管理团队招募与风险融资对接，成功孵化近百个硬科技企业，构筑起从前沿学术发现到商业实体落地的高速通道。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
+> **[[Applied Sciences NYC|应用科学计划]]与高校孵化器协同转化** 张寒旭等论证道，纽约湾区为破解理工科高等教育相对薄弱的历史劣势，由市政府主导推行了具有划时代意义的[[Applied Sciences NYC|应用科学计划]]，通过土地出让与巨额资金资助全球引智，成功在[[Nikolas Rose|罗斯]]福岛打造了康奈尔科技校区等现代[[Innovation Park|科技园区]]，使科学研究直接对接城市实际产业需求。与此同时，以康奈尔大学[[McGovern Center for Venture Development|麦戈文创业孵化中心]]为代表的大学专业孵化器，通过汇聚大学和纽约州多方资源，向创业团队提供全流程实验空间、管理团队招募与风险融资对接，成功孵化近百个硬科技企业，构筑起从前沿学术发现到商业实体落地的高速通道。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 
 ---
 

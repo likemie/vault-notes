@@ -51,6 +51,7 @@ related_methods:
   - "[[Mother-Child Conversation]]"
 related_persons:
   - "[[Confucius]]"
+  - "[[Nikolas Rose]]"
   - "[[Yrjö Engeström]]"
   - "[[Michael Young]]"
 related_facts:
@@ -84,7 +85,7 @@ related_arguments:
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1896** 出生于帝俄奥尔沙（现白俄罗斯），在戈梅利成长，早期接受人文学术与法律训练。
+> - **1896** 出生于帝俄奥尔沙（现白俄[[Nikolas Rose|罗斯]]），在戈梅利成长，早期接受人文学术与法律训练。
 > - **1917** 毕业于莫斯科大学（法律系）与沙尼亚夫斯基人民大学（历史-哲学系），随后在戈梅利从事文学、演艺评论与教师培训工作。
 > - **1924** 在第二届全俄神经心理学大会上发表关于意识与反射的报告，受聘进入莫斯科心理学研究所；与 Luria、Leontiev 组成“莫斯科三人组”（Troika），开启文化-历史心理学革命。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 590)]]
 > - **1924–1934** 系统建立文化-历史[[Third Generation Activity Theory\|活动理论]]，研究中介工具、内部语言、儿童心理学与缺陷学（Defectology）；撰写《思维与语言》。

@@ -38,6 +38,7 @@ related_instruments: []
 related_persons:
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
+  - "[[Nikolas Rose]]"
 related_facts:
   - "[[OECD]]"
   - "[[International Monetary Fund]]"
@@ -140,7 +141,7 @@ updated: 2026-10-14
 > [!concept-lens] 治理权力渗透维度
 > 本类命题探讨多边监督如何将外部跨国意志内化为国家自发的政策行动，形成隐形而深层的规制权力。
 
-> [!claim] Rose, N.
+> [!claim] [[Nikolas Rose|Rose, N.]]
 > **数字监控与[[Governmentality|治理术]]延伸** 尼古拉斯·罗斯（Nikolas Rose, 1999）指出，以数字为中介的监控体系将权力的运作转化为客观[[Knowledge Production|知识生产]]；多边监督建立的技术标准使得治理无需通过外在的强加指令，而是让受治理主体在对照量化基准的自我审视中主动规范自身行为。
 
 > [!claim] Rizvi, F. & Lingard, B.

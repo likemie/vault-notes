@@ -32,6 +32,7 @@ related_theories:
   - "[[Organizational Culture]]"
 related_persons:
   - "[[Stanley Milgram]]"
+  - "[[Nikolas Rose]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
 related_facts:
@@ -68,7 +69,7 @@ updated: 2026-10-08
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1907** 出生于俄罗斯帝国统治下的波兰华沙。
+> - **1907** 出生于俄[[Nikolas Rose|罗斯]]帝国统治下的波兰华沙。
 > - **1920** 13 岁随家人移民美国纽约，随后就读于纽约市立学院，并在哥伦比亚大学获得博士学位。
 > - **1947–1966** 在宾夕法尼亚州斯沃斯莫尔学院担任心理学教授，期间于 1951 年开展里程碑式的线段对比从众实验。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 130)]]
 > - **1950s–1960s** 在[[Institute for Advanced Study|普林斯顿高等研究院]]与罗格斯大学任教并指导研究生，其中包括日后主持权威服从实验的[[Stanley Milgram|斯坦利·米尔格拉姆]]与哥伦比亚大学教师学院教授霍华德·格鲁伯。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132, 136–137)]]

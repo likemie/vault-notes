@@ -53,6 +53,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Joseph Schumpeter]]"
+  - "[[Dominique Foray]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
@@ -95,7 +96,7 @@ updated: 2026-10-14
 > [!dev-timeline] 理论版本与贡献
 > - **1986 — 罗默原初干中学与外部性模型** 将知识积累视作全[[Social Impact Investing|社会投资]]的副产品，以知识外溢性解释规模收益递增。
 > - **1990 — 研发驱动的内生技术变革模型** 罗默明确将专门的研发部门与[[Human Capital Theory|人力资本]]存量引入生产函数，奠定当代内生技术理论[[Paradigm|范式]]。
-> - **1996 — 跨国政策[[Discourse|话语]]延伸与学习型经济构建** [[OECD|经合组织]]（OECD, 1996c）与学者多米尼克·弗雷（Dominique Foray）及本特-奥克·隆德瓦尔（Bengt-Åke Lundvall, 1996）将内生增长理论转化为[[Knowledge-Based Economy|知识经济]]与学习型经济的行动纲领，将教育系统确立为[[Knowledge Production|知识生产]]转化的核心枢纽。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
+> - **1996 — 跨国政策[[Discourse|话语]]延伸与学习型经济构建** [[OECD|经合组织]]（OECD, 1996c）与学者多米尼克·弗雷（[[Dominique Foray]]）及本特-奥克·隆德瓦尔（Bengt-Åke Lundvall, 1996）将内生增长理论转化为[[Knowledge-Based Economy|知识经济]]与学习型经济的行动纲领，将教育系统确立为[[Knowledge Production|知识生产]]转化的核心枢纽。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
 > - **2000 — 豪伊特与熊彼特主义增长融合** 豪伊特在《内生增长与跨国收入差异》中融合创新淘汰与产业更替，深入阐述研发部门人员素质对跨国[[Total Factor Productivity|全要素生产率]]分流的决定性作用。
 
 ---

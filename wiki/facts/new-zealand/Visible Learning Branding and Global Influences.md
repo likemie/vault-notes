@@ -57,6 +57,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Intraclass Correlation Coefficient]]"
 related_persons:
+  - "[[Nikolas Rose]]"
   - "[[John Hattie]]"
 related_facts:
   - "[[Cognition Education]]"
@@ -102,7 +103,7 @@ updated: 2026-10-07
 > 《[[Visible Learning\|可见的学习]]》（Visible Learning, VL）不仅是一项基于海量[[Meta-analysis\|元分析]]的教育学术综合，更是当代教育史上规模最大的将公共科研成果转化为跨国商业培训特许、量化绩效认证与国家政策治理标准的知识商业化事件。其通过轻资产跨国授权与政策创业网络，深刻重塑了多国基础教育的治理[[Discourse|话语]]与教研生态。[[Argument_ONeill_2016_Report\|(O'Neill et al., 2016, pp. viii–ix)]]; [[Argument_Johnson_2023_CE\|(Johnson & Janzen, 2023, p. 30)]]
 
 > [!event-context] 事件背景
-> - **时间跨度 / 空间地理** 2006 年商标申请启动，2009 年专著出版后迅速扩张，2018 年被 Corwin 全面收购，持续影响至今；发源于新西兰，扩散至澳大利亚、英国、斯堪的纳维亚、北美及俄罗斯等 23 个以上国家。[[Argument_Knudsen_2017_NordSTEP\|(Knudsen, 2017, p. 254)]]
+> - **时间跨度 / 空间地理** 2006 年商标申请启动，2009 年专著出版后迅速扩张，2018 年被 Corwin 全面收购，持续影响至今；发源于新西兰，扩散至澳大利亚、英国、斯堪的纳维亚、北美及俄[[Nikolas Rose|罗斯]]等 23 个以上国家。[[Argument_Knudsen_2017_NordSTEP\|(Knudsen, 2017, p. 254)]]
 > - **核心当事主体** [[John Hattie\|约翰·哈蒂]]（John Hattie）、[[Cognition Education]]（原 Multi Serve Trust）、Corwin（[[Sage]] 集团）、澳大利亚教学与[[School Leadership\|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership\|AITSL]]）、新西兰教育部及各国政策机构。
 > - **深层制度与社会背景** 新西兰 1989 年[[Tomorrow's Schools Reforms\|明日学校改革]]开启的[[Endogenous and Exogenous Privatisation\|教育私有化]]与外包服务体制，以及[[Global Education Reform Movement\|全球教育改革运动]]（[[Global Education Reform Movement\|GERM]]）对量化绩效问责与循证标准（What Works）的强烈治理渴求。[[Argument_Johnson_2023_CE\|(Johnson & Janzen, 2023, pp. 31–32)]]
 > - **直接导火索 / 触发事件** 2009 年 1 月新西兰《星期日星报》（*Sunday STAR Times*）头版报道引发公众风暴，紧随其后的全球图书畅销促成学术 IP 与商业培训生态的全面对接。[[Argument_Hattie_2010_NZJES\|(Hattie, 2010, pp. 86–87)]]
@@ -140,7 +141,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > - **澳大利亚 — 国家标准嵌入与官方背书** Hattie 出任 [[Australian Institute for Teaching and School Leadership\|AITSL]] 董事会主席，将 VL 指标要求全面嵌入国家教师与校长专业标准及持续认证体系；维多利亚州教育部官方背书并将 10 项高影响教学策略（[[Victorian HITS and Literacy Toolkit\|HITS]]）以 VL 为首选参考；ABC 纪录片《革命学校》将其描绘为公共教育拯救者。[[Argument_Sarbiewska_2019_JSR\|(Sarbiewska, 2019, pp. 126–128)]]
 > - **丹麦 — 公立学校法案采纳与剧烈反弹** 2014 年丹麦议会公立学校改革明确引用 VL 将科目目标改为学习成果；但因改革与削减教师劳动权益的争议法案捆绑，迅速引发教师工会与学界的强烈抗议，出版批判文集《[[Hattie på dansk]]》，促成支持者与反对者的激烈论战。[[Argument_Qvortrup_2019_NordSTEP\|(Qvortrup, 2019, pp. 3–5)]]
 > - **瑞典 — “科学基础”下的学校改进重塑** 瑞典依据学校法对“科学基础与实证证据”的要求，将 VL [[Transfer Translation Transformation\|转译]]为聚焦课堂近端策略、同伴观察与教师协作的校本改进工作流程（详见 [[Visible Learning in Sweden]]）。
-> - **俄罗斯 — 译著传播与适用性争鸣** 2017 年 Prosveshchenie 集团出版俄文版并与国家标准（FSES）关联，但在学界引发关于数据极端不均匀与跨文化适应性的方法论警告（详见 [[Russian Translation of Visible Learning]]）。[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019, p. 237)]]
+> - **俄[[Nikolas Rose|罗斯]] — 译著传播与适用性争鸣** 2017 年 Prosveshchenie 集团出版俄文版并与国家标准（FSES）关联，但在学界引发关于数据极端不均匀与跨文化适应性的方法论警告（详见 [[Russian Translation of Visible Learning]]）。[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019, p. 237)]]
 
 ---
 
@@ -212,7 +213,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > | [[Victorian HITS and Literacy Toolkit]] | Fact (Policy) | 澳大利亚维多利亚州全面采纳并制度化 VL 循证证据的官方教学策略政策。 |
 > | [[Hattie på dansk]] | Fact (Event) | 汇集丹麦学者批判公立学校法案机械照搬 VL 的标志性论争事件与文集。 |
 > | [[Visible Learning in Sweden]] | Fact (Event) | 记录瑞典学校法“科学基础”要求下 VL 转向课堂改进工作流程的实践历程。 |
-> | [[Russian Translation of Visible Learning]] | Fact (Event) | 记录 VL 俄文版翻译出版及俄罗斯学界关于跨文化适用性与方法论的学术争论。 |
+> | [[Russian Translation of Visible Learning]] | Fact (Event) | 记录 VL 俄文版翻译出版及俄[[Nikolas Rose\|罗斯]]学界关于跨文化适用性与方法论的学术争论。 |
 > | [[Critiques of Visible Learning]] | Concept | 汇总学界对 VL 统计方法、[[Neo-Taylorism\|新泰勒主义]]与商业化利益冲突的系统性学术批判入口。 |
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | Argument | 详尽调查揭露 Hattie、奥克兰大学与 Cognition 之间商业化利益网络与财务轨迹的权威报告。 |
 > | [[Argument_Johnson_2023_CE\|Johnson & Janzen (2023)]] | Argument | 从新自由主义[[Global Education Reform Movement\|全球教育改革运动]]（GERM）视角深度批判 VL 商业化与利益冲突的代表性论文。 |

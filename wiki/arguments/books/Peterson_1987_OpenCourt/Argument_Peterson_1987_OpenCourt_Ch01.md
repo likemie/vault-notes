@@ -49,6 +49,7 @@ related_persons:
   - "[[Peter A. Hall]]"
   - "[[Paul Pierson]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
+  - "[[Nikolas Rose]]"
   - "[[Isaiah Berlin]]"
 related_facts:
   - "[[Grammar School]]"
@@ -264,7 +265,7 @@ updated: 2026-10-10
 > - **文化根基已经形成** 格奥尔格·威廉·弗里德里希·[[Georg Wilhelm Friedrich Hegel\|黑格尔]]（Georg Wilhelm Friedrich Hegel）担任纽伦堡文理中学校长时，把这一年龄视为接触其他文化的适合阶段。青年已在本国文化中形成一定根基，跨文化接触较少造成身份迷失。
 > - **学习[[Open-Mindedness|开放性]]仍然较高** 这一年龄的青年仍能迅速学习新的语言、习惯和关系规则，也能够在离开原有家庭与学校环境后重新组织日常生活。
 > - **教育阶段连接高等教育** 创办者希望学生回国升入大学，并在成年后发挥社会影响，因此把项目放在中学最后两年，年龄大约为 16 至 19 岁。
-> - **目标是扎根的国际主义** 学生继续作为美国人、英国人、法国人、德国人、墨西哥人、俄罗斯人及其他国家的人生活，同时增进相互理解、合作并建立跨国友谊（p. 5）。
+> - **目标是扎根的国际主义** 学生继续作为美国人、英国人、法国人、德国人、墨西哥人、俄[[Nikolas Rose|罗斯]]人及其他国家的人生活，同时增进相互理解、合作并建立跨国友谊（p. 5）。
 
 > [!tension] 影响扩散设想带来的选择性
 > 影响扩散逻辑使学校优先招收预计将进入高等教育的青年，因为创办者判断他们成年后更可能在本国发挥影响。奖学金政策减少家庭财富对入学的限制，却没有消除这一方案对学业潜力和未来社会位置的选择。学校以较小学生规模换取潜在的长期扩散效果（pp. 4–5, 7–8）。
@@ -392,7 +393,7 @@ updated: 2026-10-10
 > *I use this word in its widest sense, to cover all the experience, social, intellectual, aesthetic and moral, through which a school seeks to influence the attitudes and behaviour of its students.*
 
 > [!citation-card]- 跨国友谊的目标
-> 学校并不寻求培养一代无根的“世界公民”，而是培养能够更好地相互理解、合作并拥有跨国朋友的美国人、英国人、法国人、德国人、墨西哥人、俄罗斯人及其他国家的人。（p. 5）
+> 学校并不寻求培养一代无根的“世界公民”，而是培养能够更好地相互理解、合作并拥有跨国朋友的美国人、英国人、法国人、德国人、墨西哥人、俄[[Nikolas Rose|罗斯]]人及其他国家的人。（p. 5）
 >
 > *We sought not to produce a generation of rootless 'world citizens' but one of Americans, English, French, Germans, Mexicans, Russians, and others, who understood each other better, sought to co-operate with each other, and had friends across frontiers.*
 

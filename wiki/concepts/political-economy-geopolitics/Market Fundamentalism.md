@@ -21,14 +21,20 @@ related_concepts:
   - "[[Self-control]]"
   - "[[Market Failure]]"
   - "[[Paradigm]]"
+  - "[[Research Translation]]"
+  - "[[Competitiveness]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Variable]]"
+  - "[[Valley of Death]]"
+  - "[[Corporate R&D Labs]]"
 related_theories:
   - "[[Governmentality]]"
-  - "[[Varieties of Capitalism]]"
+  - "[[Evolutionary Economics]]"
   - "[[Developmental Network State]]"
   - "[[Pasteur's Quadrant]]"
 related_persons:
   - "[[Fred Block]]"
+  - "[[Nikolas Rose]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[DARPA]]"
@@ -36,6 +42,9 @@ related_facts:
   - "[[Advanced Technology Program]]"
 related_arguments:
   - "[[Argument_Block_2008_PS]]"
+related_methods:
+  - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 confidence: high
 status: active
 created: 2026-10-12
@@ -57,13 +66,13 @@ updated: 2026-10-12
 > - **边界** 不等于对市场竞争效率与价格信号调节功能的正常学术肯定；其特质在于将市场自发性推向教条式的不可置疑状态，彻底否定公共品、网络协调失灵与波兰尼式的社会自我保护正当性。
 
 > [!citation-card] [[Fred Block|布洛克]]论市场原教旨主义对科技政策的排斥
-> 市场原教旨主义是对市场自我调节解决经济与社会问题能力的一种极度夸大的信念……例如在《自由选择》中，米尔顿·弗里德曼与罗斯·弗里德曼认为政府通过国家科学基金会资助科学研究在经济上毫无正当理由。如果连资助科学研究都不是正当的政府角色，那么公共机构介入新技术的商业化就更没有任何合理性可言。[[Argument_Block_2008_PS|(Block, 2008, pp. 170–171)]]
+> 市场原教旨主义是对市场自我调节解决经济与社会问题能力的一种极度夸大的信念……例如在《自由选择》中，米尔顿·弗里德曼与[[Nikolas Rose|罗斯]]·弗里德曼认为政府通过国家科学基金会资助科学研究在经济上毫无正当理由。如果连资助科学研究都不是正当的政府角色，那么公共机构介入新技术的商业化就更没有任何合理性可言。[[Argument_Block_2008_PS|(Block, 2008, pp. 170–171)]]
 >
 > *Market fundamentalism—a vastly exaggerated belief in the capacity of market [[Self-control|self-regulation]] to solve economic and social problems... Milton and Rose Friedman see no economic justification for the government funding scientific research through the [[National Science Foundation]]. If funding scientific research is not a proper governmental role, then certainly there is no justification for public agencies getting involved in the commercialization of new technologies.*
 
 > [!boundary]- 概念边界
 > - 不等于 新自由主义（Neoliberalism） — 新自由主义是一个包罗万象的政治哲学与治理[[Governmentality|治理术]]概念，涵盖宏观经济学、法律体制与全球治理；而市场原教旨主义更聚焦于其核心的极端教条化教义，即对市场万能的绝对信奉与对国家职能的本能拒斥。
-> - 不等于 承认市场机制的新古典与演化经济学 — 现代经济学充分承认公共品、外部性、信息不对称、网络协调失灵与演化试错的必要性，而市场原教旨主义拒绝承认[[Market Failure|市场失灵]]与公共干预的合理空间。
+> - 不等于 承认市场机制的新古典与[[Evolutionary Economics|演化经济学]] — 现代经济学充分承认公共品、外部性、信息不对称、网络协调失灵与演化试错的必要性，而市场原教旨主义拒绝承认[[Market Failure|市场失灵]]与公共干预的合理空间。
 
 ---
 
@@ -108,10 +117,10 @@ updated: 2026-10-12
 ### 命题一　市场原教旨主义意识形态迫使国家科技与产业干预转入隐形运作
 
 > [!concept-lens] 政治遮蔽机制
-> 剖析两党政治博弈与自由市场话语如何合谋将客观存在的国家产业政策驱逐出公共辩论视野。
+> 剖析两党政治博弈与自由市场[[Discourse|话语]]如何合谋将客观存在的国家产业政策驱逐出公共辩论视野。
 
 > [!claim] [[Argument_Block_2008_PS|Block (2008)]]
-> **国家创新功能的隐形化与两党政治妥协** [[Fred Block|弗雷德·布洛克]]指出，自 1980 年代以来，尽管美国联邦政府在事实上极大地扩张了资助和扶持私营部门商业化新技术的国家能力，但两党政治逻辑与市场原教旨主义霸权合谋将这些活动从主流公共视野中抹去。共和党保守派在意识形态话语上高调抨击产业政策，但在实践中通过国防预算、能源安全和选区利益持续注资；民主党自由派因畏惧被保守派扣上“大政府干预”、“官僚挑选赢家”和“走向欧洲式停滞”的帽子，对国家在经济与技术转化中的关键角色噤若寒蝉。结果形成了“[[Developmental Network State|隐藏的发展型国家]]”——如同爱伦·坡笔下“被窃的信件”，国家科技创新机器就在众目睽睽之下高速运转，却被意识形态信条渲染为完全由私营市场自发创造的神话。[[Argument_Block_2008_PS|(Block, 2008, pp. 169–171, 182–186)]]
+> **国家创新功能的隐形化与两党政治妥协** [[Fred Block|弗雷德·布洛克]]指出，自 1980 年代以来，尽管美国联邦政府在事实上极大地扩张了资助和扶持私营部门商业化新技术的国家能力，但两党政治逻辑与市场原教旨主义霸权合谋将这些活动从主流公共视野中抹去。共和党保守派在意识形态话语上高调抨击产业政策，但在实践中通过国防预算、能源安全和选区利益持续注资；民主党自由派因畏惧被保守派扣上“大政府干预”、“官僚挑选赢家”和“走向欧洲式停滞”的帽子，对国家在经济与[[Research Translation|技术转化]]中的关键角色噤若寒蝉。结果形成了“[[Developmental Network State|隐藏的发展型国家]]”——如同爱伦·坡笔下“被窃的信件”，国家科技创新机器就在众目睽睽之下高速运转，却被意识形态信条渲染为完全由私营市场自发创造的神话。[[Argument_Block_2008_PS|(Block, 2008, pp. 169–171, 182–186)]]
 
 ---
 
@@ -121,7 +130,7 @@ updated: 2026-10-12
 > 阐明公开标榜民用产业支持的公共计划如何在市场原教旨主义攻讦下陷入生存困境。
 
 > [!claim] [[Argument_Block_2008_PS|Block (2008)]]
-> **民用产业干预的污名化与脆弱性** 当联邦技术计划以公开透明、服务民用产业竞争力的形式出现时，极易成为市场原教旨主义政客的靶子。以 1988 年设立的商务部国家标准与技术研究院（NIST）[[Advanced Technology Program|先进技术计划]]（Advanced Technology Program, ATP）为例，由于其公开资助高风险民用前沿技术联合研发，1994 年共和党控制国会后，保守派智库传统基金会（Heritage Foundation）与卡托研究所（Cato Institute）立刻将其贬斥为“挑选赢家”的“公司福利”（corporate welfare），发动长达十余年的政治围剿，迫使克林顿政府耗费巨大政治资本否决废止法案，最终 ATP 仍于 2007 年被正式废止。这一现象证明，在市场原教旨主义占统治地位的环境下，唯有隐藏在国防或分散小型项目外壳下的干预机制才能获得政治庇护与生存空间。[[Argument_Block_2008_PS|(Block, 2008, pp. 183–185)]]
+> **民用产业干预的污名化与脆弱性** 当联邦技术计划以公开透明、服务民用产业[[Competitiveness|竞争力]]的形式出现时，极易成为市场原教旨主义政客的靶子。以 1988 年设立的商务部国家标准与技术研究院（NIST）[[Advanced Technology Program|先进技术计划]]（Advanced Technology Program, ATP）为例，由于其公开资助高风险民用前沿技术联合研发，1994 年共和党控制国会后，保守派智库传统基金会（Heritage Foundation）与卡托研究所（Cato Institute）立刻将其贬斥为“挑选赢家”的“公司福利”（corporate welfare），发动长达十余年的政治围剿，迫使克林顿政府耗费巨大政治资本否决废止法案，最终 ATP 仍于 2007 年被正式废止。这一现象证明，在市场原教旨主义占统治地位的环境下，唯有隐藏在国防或分散小型项目外壳下的干预机制才能获得政治庇护与生存空间。[[Argument_Block_2008_PS|(Block, 2008, pp. 183–185)]]
 
 ---
 
@@ -150,10 +159,10 @@ updated: 2026-10-12
 
 > [!dev-timeline] 概念演变
 > - **1944 — 思想渊源：波兰尼《大转型》** 卡尔·波兰尼系统解构了 19 世纪英国“自调节市场”乌托邦的神话，揭示自由市场是国家集中立法与暴力推行的制度产物，并提出社会自我保护的“双重运动”。
-> - **1980 — 新自由主义执政范式确立** 里根与撒切尔执政时期，弗里德曼与哈耶克的自由放任学说成为主流执政哲学；弗里德曼在《自由选择》中公然否定政府资助科学研究在经济上的正当性。
-> - **1998 — 索罗斯与斯蒂格利茨对全球金融危机的批判** 乔治·索罗斯（George Soros, 1998）与约瑟夫·斯蒂格利茨（Joseph Stiglitz）在反思亚洲金融危机时将华盛顿共识的放任教条定性为“市场原教旨主义”。
+> - **1980 — 新自由主义执政[[Paradigm|范式]]确立** 里根与撒切尔执政时期，弗里德曼与哈耶克的自由放任学说成为主流执政哲学；弗里德曼在《自由选择》中公然否定政府资助科学研究在经济上的正当性。
+> - **1998 — 索[[Nikolas Rose|罗斯]]与斯蒂格利茨对全球金融危机的批判** 乔治·索罗斯（George Soros, 1998）与约瑟夫·斯蒂格利茨（Joseph Stiglitz）在反思亚洲金融危机时将华盛顿共识的放任教条定性为“市场原教旨主义”。
 > - **2008 — [[Fred Block|布洛克]]将其引入科技创新政治经济学** 弗雷德·布洛克在《Politics & Society》论文中将该概念运用于剖析美国国家科技创新体制的扭曲与隐形化。[[Argument_Block_2008_PS|(Block, 2008, pp. 169–172)]]
-> - **2014 — 理论系统化集大成** 布洛克与玛格丽特·萨默斯（Margaret Somers）合著《市场原教旨主义的权力》（The Power of Market Fundamentalism），全面阐发这一意识形态如何通过“自然法则”话语伪装掩盖阶级利益并阻断社会制度改革。
+> - **2014 — 理论系统化集大成** 布洛克与玛格丽特·萨默斯（Margaret Somers）合著《市场原教旨主义的权力》（The Power of Market Fundamentalism），全面阐发这一意识形态如何通过“自然法则”[[Discourse|话语]]伪装掩盖阶级利益并阻断社会制度改革。
 
 ---
 
@@ -171,17 +180,17 @@ updated: 2026-10-12
 
 ## 实证数据
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Block_2008_PS|Block (2008)]] | 跨越[[Valley of Death\|死亡之谷]]的早期技术开发（ESTD）支出结构测算（Auerswald & Branscomb, 2003） | 早期资金流向结构测算 | 联邦政府、非营利机构、州政府、企业研发实验室、风险资本（VC）与天使投资人在 ESTD 阶段的出资份额 | 联邦政府提供 34 亿美元（占 65 亿美元纯技术开发资金的 52%）；联邦＋州政府＋非营利合计占 65%（43 亿美元）；私营产业研发实验室占 23%（15 亿美元）；天使投资人占 9%（6 亿美元）；风险投资（VC）仅占 3%（2 亿美元） | — | 实证推翻了市场原教旨主义宣称的“概念验证与技术孵化主要由私营风险资本完成”的神话，证实公共财政承担了早期商业化试错的核心风险。 |
-> | [[Argument_Block_2008_PS|Block (2008)]] | 1975 年、1988 年与 2006 年《R&D Magazine》全美百大科技创新突破（R&D 100 Awards）成果属性演变 | 纵向奖项成果主体属性分类与历史对比 | 财富 500 强企业独立开发 vs 公共资助/公私协作网络产出比例 | 1975 年：财富 500 强独立获奖 41 项，仅 22 项获联邦支持；2006 年：财富 500 强独立获奖锐减至 6 项，而获联邦支持或公私协作产出飙升至 77 项（其中国家实验室 38 项、联邦资助学术机构/企业 39 项） | — | 强有力证明了自 1980 年代以来，颠覆性前沿商业化成果已不再来自大企业闭门研发或纯市场竞争，而是高度依赖公共网络支撑。 |
+> | [[Argument_Block_2008_PS\|Block (2008)]] | 跨越[[Valley of Death\|死亡之谷]]的早期技术开发（ESTD）支出结构测算（Auerswald & Branscomb, 2003） | 早期资金流向结构测算 | 联邦政府、非营利机构、州政府、[[Corporate R&D Labs\|企业研发实验室]]、风险资本（VC）与天使投资人在 ESTD 阶段的出资份额 | 联邦政府提供 34 亿美元（占 65 亿美元纯技术开发资金的 52%）；联邦＋州政府＋非营利合计占 65%（43 亿美元）；私营产业研发实验室占 23%（15 亿美元）；天使投资人占 9%（6 亿美元）；风险投资（VC）仅占 3%（2 亿美元） | — | 实证推翻了市场原教旨主义宣称的“概念验证与技术孵化主要由私营风险资本完成”的神话，证实公共财政承担了早期商业化试错的核心风险。 |
+> | [[Argument_Block_2008_PS\|Block (2008)]] | 1975 年、1988 年与 2006 年《R&D Magazine》全美百大科技创新突破（R&D 100 Awards）成果属性演变 | 纵向奖项成果主体属性分类与历史对比 | 财富 500 强企业独立开发 vs 公共资助/公私协作网络产出比例 | 1975 年：财富 500 强独立获奖 41 项，仅 22 项获联邦支持；2006 年：财富 500 强独立获奖锐减至 6 项，而获联邦支持或公私协作产出飙升至 77 项（其中国家实验室 38 项、联邦资助学术机构/企业 39 项） | — | 强有力证明了自 1980 年代以来，颠覆性前沿商业化成果已不再来自大企业闭门研发或纯市场竞争，而是高度依赖公共网络支撑。 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Block_2008_PS|Block (2008)]] — 运用市场原教旨主义概念剖析美国两党政治如何扼杀先进技术计划（ATP）等显性产业政策，迫使国家发展型职能向隐秘网络退避。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Block_2008_PS|Block (2008)]] — 运用市场原教旨主义概念剖析美国两党政治如何扼杀[[Advanced Technology Program|先进技术计划]]（ATP）等显性产业政策，迫使国家发展型职能向隐秘网络退避。

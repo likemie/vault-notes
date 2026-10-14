@@ -55,6 +55,7 @@ related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
 related_persons:
   - "[[Bengt-Åke Lundvall]]"
+  - "[[Dominique Foray]]"
   - "[[Jerome E. Schnee]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
@@ -90,7 +91,7 @@ updated: 2026-10-13
 >
 > *In the learning economy, the competitive advantage of individuals, firms, regions and countries depends on their capability to learn, and not on their static knowledge stock or factor endowments...*
 
-> [!citation-card] 福雷与伦德瓦尔论向学习型经济转型与互动学习
+> [!citation-card] [[Dominique Foray|福雷]]与伦德瓦尔论向学习型经济转型与互动学习
 > 伴随新增长理论的兴起，多米尼克·福雷与本特-奥克·伦德瓦尔（Foray & Lundvall, 1996）指出，一个国家利用知识经济红利的能力，根本取决于其能以多快的速度转型为“学习型经济”。学习绝不仅指利用新技术获取全球既有知识的能力，更意味着利用技术与他人展开沟通互动以提升生产力。这意味着个体、企业与国家创造财富的能力，与其学习和分享创新的能力成正比；若要保持这种能力，学习就必须突破正规学校教育的时空限制，成为贯穿全生命周期的常态化实践。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 446)]]
 >
 > *...a nation's capacity to take advantage of the knowledge economy depends on how quickly it can become a 'learning economy'. Learning, Foray and Lundvall argue, should not only involve the ability to use new technologies to access global knowledge, but should also mean using technology to communicate with other people about how to improve productivity. This implies that individuals, corporations, and nations create wealth in proportion to their capacity to learn and share innovation. If this is so then learning must be continuous and not restricted to formal schooling – that is, it must be [[Lifelong Learning]].*
@@ -181,7 +182,7 @@ updated: 2026-10-13
 > 探讨在新增长理论视阈下，为什么静态知识占有退居次席，而跨组织互动沟通与全生命周期技能迭代成为财富创造的决定性机制。
 
 > [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]] (2009)
-> **向学习型经济演进与终身学习命令的确立** 法扎尔·里兹维与鲍勃·林加德指出，新增长理论（如 Romer, 1986; Howitt, 2000）将知识视为内生于经济活动的核心[[Variable|变量]]；多米尼克·福雷与本特-奥克·伦德瓦尔（Foray & Lundvall, 1996）进一步阐明，在现代经济中，静态的事实性与[[Theoretical Knowledge|理论性知识]]（knowing that）快速折旧，对社会关系网络与实践转化诀窍（[[Procedural Knowledge|knowing how]]）的理解变得至关重要。一个国家能否从[[Knowledge-Based Economy|知识经济]]中获益，根本取决于其转型为“学习型经济”的速度。在学习型经济中，学习不仅是运用新技术检索全球知识，更是通过人际沟通与协同互动提升生产力；个体、企业和国家的财富创造能力，与其学习和分享创新的能力直接成正比。这种逻辑促使[[OECD|经合组织]]将政策重心从传统的学校正规学制，彻底推向贯穿全生命周期的[[Lifelong Learning|终身学习]]体系，重塑了全球教育治理的制度议程。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
+> **向学习型经济演进与终身学习命令的确立** 法扎尔·里兹维与鲍勃·林加德指出，新增长理论（如 Romer, 1986; Howitt, 2000）将知识视为内生于经济活动的核心[[Variable|变量]]；[[Dominique Foray|多米尼克·福雷]]与本特-奥克·伦德瓦尔（Foray & Lundvall, 1996）进一步阐明，在现代经济中，静态的事实性与[[Theoretical Knowledge|理论性知识]]（knowing that）快速折旧，对社会关系网络与实践转化诀窍（[[Procedural Knowledge|knowing how]]）的理解变得至关重要。一个国家能否从[[Knowledge-Based Economy|知识经济]]中获益，根本取决于其转型为“学习型经济”的速度。在学习型经济中，学习不仅是运用新技术检索全球知识，更是通过人际沟通与协同互动提升生产力；个体、企业和国家的财富创造能力，与其学习和分享创新的能力直接成正比。这种逻辑促使[[OECD|经合组织]]将政策重心从传统的学校正规学制，彻底推向贯穿全生命周期的[[Lifelong Learning|终身学习]]体系，重塑了全球教育治理的制度议程。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
 
 ---
 
@@ -203,7 +204,7 @@ updated: 2026-10-13
 > - **1962 — [[Learning by Doing|干中学]]（Learning by Doing）微观模型奠基** 肯尼斯·阿罗（Kenneth Arrow）发表经典论文，正式建立通过生产实践积累经验从而提高劳动生产率的内生增长机制。
 > - **1968–1978 — 经验曲线与高技术产业微观实证** 波士顿咨询集团（Boston Consulting Group, BCG）推广经验曲线模型；施奈（[[Argument_Schnee_1978_RP|Schnee, 1978]]）结合美国微电子与计算机工业数据，确立了累计产量每翻一番成本下降 20%–30% 的半导体学习经济定律，并论证了政府采购托底在启动学习曲线中的制度功能。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–8)]]
 > - **1994 — 宏观学习经济（Learning Economy）[[Paradigm|范式]]提出** 本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）与比约恩·约翰逊（Björn Johnson）将学习概念从车间制造扩展至宏观经济学与制度创新理论，提出以互动学习为核心特征的现代“学习型经济”分析视角。
-> - **1996 — [[OECD|经合组织]]《[[Knowledge-Based Economy|知识经济]]中的教育与增长》确立向学习型经济转型** 多米尼克·福雷与本特-奥克·伦德瓦尔（Foray & Lundvall, 1996）在经合组织政策框架中提出，学习型经济的核心在于利用技术与他人沟通以提高生产力，财富创造取决于学习与分享创新的能力，奠定了将[[Lifelong Learning|终身学习]]作为新经济核心支柱的政策基础。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
+> - **1996 — [[OECD|经合组织]]《[[Knowledge-Based Economy|知识经济]]中的教育与增长》确立向学习型经济转型** [[Dominique Foray|多米尼克·福雷]]与本特-奥克·伦德瓦尔（Foray & Lundvall, 1996）在经合组织政策框架中提出，学习型经济的核心在于利用技术与他人沟通以提高生产力，财富创造取决于学习与分享创新的能力，奠定了将[[Lifelong Learning|终身学习]]作为新经济核心支柱的政策基础。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
 > - **2007–2009 — [[Multi-channel Interactive Learning Model|多通道互动学习模型]]与创新模式整合** 延森等（Jensen et al. 2007）区分 STI 与 DUI 创新模式；若昂·卡拉萨等学者提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，将学习经济确立为理解企业三类知识池互动与界面转换的宏观分析基石。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 864–866)]]
 
 ---

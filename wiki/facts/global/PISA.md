@@ -87,6 +87,8 @@ related_methods:
 related_persons:
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
+  - "[[Alain Desrosières]]"
+  - "[[Nikolas Rose]]"
   - "[[Wolfgang Mitter]]"
   - "[[Torsten Husén]]"
   - "[[José Luis García Garrido]]"
@@ -195,12 +197,13 @@ updated: 2026-10-14
 
 > [!feature] 核心运行机制
 > - **周期性主测轮换** 每三年为一个周期，阅读、数学、科学依次作为主测领域，辅以财经素养、[[Creativity|创造性]]思维等创新模块。
-> - **跨国共同量表与全球[[Space of Equivalence|等值空间]]虚构** 依托[[Item Response Theory|项目反应理论]]（IRT）与 Rasch 测量建立跨国均值（500 分）与标准差（100 分）量表，实现历时与跨国横向可比。[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）借用阿兰·德罗西埃（Alain Desrosières, 1998）的统计社会学概念指出，PISA 刻意脱离各国的具体课程大纲与文化情境设计测试情景，通过[[Commensuration|通约化]]凭空制造出一个跨国“等值空间”（space of equivalence）。在这一统计技术操作中，跨国比较的[[Reliability|信度]]（reliability）被置于教育本土效度（validity）与[[Ontology|本体论]]多样性之上；数字的威力恰恰在于将指标背后大量主观政治判断与价值预设彻底隐形化，通过尼古拉斯·罗斯（Nikolas Rose, 1999）所称的“数字即政策”（policy as numbers）确立了免于辩论的客观科学威权。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> - **跨国[[Epistemic Community|认知共同体]]与专业学术联合体** PISA 并不是 OECD 内部封闭官僚行政的产物，而是委托澳大利亚教育研究委员会（ACER）、荷兰国家教育测量研究所（CITO）、美国教育考试服务中心（ETS）等跨国机构与顶尖心理测量学家、计量经济学家组成的国际专家财团协同研发。这一跨国认知共同体为 OECD 的软法治理提供了高度专业化的科学客观威权。（Henry et al., 2001; Rizvi & Lingard, 2009, p. 444）
+> - **跨国共同量表与全球[[Space of Equivalence|等值空间]]虚构** 依托[[Item Response Theory|项目反应理论]]（IRT）与 Rasch 测量建立跨国均值（500 分）与标准差（100 分）量表，实现历时与跨国横向可比。[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）借用[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）的统计社会学概念指出，PISA 刻意脱离各国的具体课程大纲与文化情境设计测试情景，通过[[Commensuration|通约化]]凭空制造出一个跨国“等值空间”（space of equivalence）。在这一统计技术操作中，跨国比较的[[Reliability|信度]]（reliability）被置于教育本土[[Construct Validity|构念效度]]（validity）与[[Ontology|本体论]]多样性之上；数字的威力恰恰在于将指标背后大量主观政治判断与价值预设彻底隐形化，通过[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose, 1999）所称的“数字即政策”（policy as numbers）确立了免于辩论的客观科学威权。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 > - **背景[[Questionnaire|问卷]]与社会学透视** 采集学生家庭社会经济文化地位（ESCS）、学校资源、教师教学法等丰富[[Variable|变量]]，为教育公平与效能分析提供海量微观数据。
 > - **数据可塑性与[[Rashomon Effect|罗生门效应]]（Data Plasticity & Rashomon Effect）** PISA 成果发布体系由长篇技术主报告、简明国别简报（Country Notes）与精要简讯（PISA in Focus）构成；庞大的指标网络赋予评估数据极高的[[Discourse|话语]]可塑性，使同一批数据能被不同立场的国内政治精英、游说团体与大众媒体各取所需，剪裁为相互冲突的政策依据与“多重真相”。[[Argument_Grey_2018_CE|(Grey & Morris, 2018)]]
 
 > [!info] 差异化定位与营销策略（[[Argument_Zhao_2020_JEC|Zhao, 2020]]）
-> PISA 的全球成功是一场精准的市场化定位案例。在 PISA 之前，[[IEA]]（[[International Education|国际教育]]成就评价协会）已深耕 [[TIMSS]] 和 [[PIRLS]] 评估数十年。PISA 通过直击各国政府对未来全球竞争与青年[[Employability|就业能力]]的普遍焦虑，提出了三大核心问询：“年轻人是否准备好迎接未来挑战？他们能否有效分析、推理与沟通？他们是否具备[[Lifelong Learning|终身学习]]的能力？”（OECD 1999, p. 7）。PISA 借此宣称其测量的是“未来生活所需的基本技能”，从而击败传统课程导向评估，确立了全球主导地位。
+> PISA 的全球成功是一场精准的市场化定位案例。在 PISA 之前，[[IEA]]（[[International Education|国际教育]]成就评价协会）已深耕 [[TIMSS]] 和 [[PIRLS]] 评估数十年。PISA 结合内生新增长理论与[[Dominique Foray|多米尼克·福雷]]（Dominique Foray）及[[Bengt-Åke Lundvall|伦德瓦尔]]（Foray & Lundvall, 1996）提出的[[Learning Economy|学习型经济]]与[[Tacit Knowledge|默会技能]]导向，直击各国政府对未来全球竞争与青年[[Employability|就业能力]]的普遍焦虑，提出了三大核心问询：“年轻人是否准备好迎接未来挑战？他们能否有效分析、推理与沟通？他们是否具备[[Lifelong Learning|终身学习]]的能力？”（OECD 1999, p. 7）。PISA 借此宣称其测量的是“未来生活所需的基本技能”，从而击败传统课程导向评估，确立了全球主导地位。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 
 > [!policy-design]- 全球产品线全景扩张
 > - **PISA for Schools** — 将跨国评估指标下沉至单一学校层面，为学校改进提供国际对标诊断。

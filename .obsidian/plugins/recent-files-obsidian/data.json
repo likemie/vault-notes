@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "UNESCO",
+      "path": "wiki/facts/global/UNESCO.md"
+    },
+    {
+      "basename": "21st Century Skills and Competencies Discourse",
+      "path": "wiki/concepts/educational-policy-reform/21st Century Skills and Competencies Discourse.md"
+    },
+    {
+      "basename": "1961 Policy Conference on Economic Growth and Investment in Education",
+      "path": "wiki/facts/global/1961 Policy Conference on Economic Growth and Investment in Education.md"
+    },
+    {
       "basename": "Argument_Rizvi_Lingard_2009_OECDEducationPolicy",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rizvi_Lingard_2009_OECDEducationPolicy.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Argument_Streeck_Thelen_2005_OUP",
       "path": "wiki/arguments/reports-policy-documents/Argument_Streeck_Thelen_2005_OUP.md"
-    },
-    {
-      "basename": "Paul Pierson",
-      "path": "wiki/persons/us/Paul Pierson.md"
-    },
-    {
-      "basename": "Kathleen Thelen",
-      "path": "wiki/persons/us/Kathleen Thelen.md"
-    },
-    {
-      "basename": "Wolfgang Streeck",
-      "path": "wiki/persons/germany/Wolfgang Streeck.md"
     }
   ],
   "omittedPaths": [],

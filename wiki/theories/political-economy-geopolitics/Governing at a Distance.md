@@ -61,6 +61,7 @@ related_methods:
   - "[[Item Response Theory]]"
   - "[[Correlational Research]]"
 related_persons:
+  - "[[Nikolas Rose]]"
   - "[[Bruno Latour]]"
   - "[[António Nóvoa]]"
   - "[[Sigrid Hartong]]"
@@ -97,7 +98,7 @@ updated: 2026-10-12
 > - **解释对象** 现代国家、超国家组织与跨国[[Policy Network\|政策网络]]如何在缺乏物理强制力、直接行政命令或法定管辖权的情境下，依托专业知识、标准化评估量规与[[Data Infrastructure\|数据基础设施]]，实现对[[Distributed Agency|分布式主体]]、偏远区域与自治机构的非接触式行为规约。
 > - **理论问题** 破解传统主权论将统治等同于领土垄断与垂直命令的静态[[Hypothesis\|假设]]，解释后福利国家与全球化治理中“国家职能形式下放与实质审计规制强化并存”的制度悖论。
 > - **理论类型** 批判政治社会学、空间治理机制与政策社会学[[Analytic Framework\|分析框架]]。
-> - **知识位置** 起源于[[Governmentality\|治理术]]（Governmentality）谱系，由尼古拉斯·罗斯（Nikolas Rose）与彼得·米勒（Peter Miller）在政治社会学中正式理论化，后与[[Actor-Network Theory\|行动者网络理论]]（ANT）、[[Topological Spatialisation\|拓扑空间]]理论及比较教育学深度交织。
+> - **知识位置** 起源于[[Governmentality\|治理术]]（Governmentality）谱系，由[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose）与彼得·米勒（Peter Miller）在政治社会学中正式理论化，后与[[Actor-Network Theory\|行动者网络理论]]（ANT）、[[Topological Spatialisation\|拓扑空间]]理论及比较教育学深度交织。
 
 > [!claim] 核心判断
 > 远处治理并非国家权力的简单退场或自由放任，而是统治技术的拓扑重构；权力通过将宏观政治抱负“[[Transfer Translation Transformation\|转译]]”为看似[[Value Neutrality\|价值中立]]的技术量规、[[Center of Calculation\|计算中心]]（Centers of Calculation）与“不变移动物”（Immutable Mobiles），在赋予受治者形式自由的同时，诱导其进行自我测度与自我[[Disciplina and Doctrina\|规训]]，达成跨越时空阻隔的深层秩序整合。（Rose & Miller, 1992; Latour, 1987; [[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 136–138]]；[[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]]）
@@ -107,7 +108,7 @@ updated: 2026-10-12
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 尼古拉斯·罗斯与彼得·米勒于 1992 年发表《超越国家的政治权力：政府的问题式》（*Political Power beyond the State: Problematics of Government*），首次系统提出远处[[Educational Governance Framework\|治理分析框架]]；[[Bruno Latour\|布鲁诺·拉图尔]]（[[Bruno Latour\|Bruno Latour]], 1987）在科学技术学中提出的“从远处采取行动”（action at a distance）提供了关键物质技术支撑。
+> - **提出者与原始文本** [[Nikolas Rose|尼古拉斯·罗斯]]与彼得·米勒于 1992 年发表《超越国家的政治权力：政府的问题式》（*Political Power beyond the State: Problematics of Government*），首次系统提出远处[[Educational Governance Framework\|治理分析框架]]；[[Bruno Latour\|布鲁诺·拉图尔]]（[[Bruno Latour\|Bruno Latour]], 1987）在科学技术学中提出的“从远处采取行动”（action at a distance）提供了关键物质技术支撑。
 > - **原初问题** 20 世纪晚期西方新自由主义与[[New Public Management\|新公共管理]]改革兴起，私有化、去中心化与学校办学自主权普及，传统韦伯式科层行政模型无法解释去中心化背景下高度严密的问责与标准化审计网络。
 > - **理论资源与材料** 融合米歇尔·福柯（Michel Foucault）的[[Governmentality\|治理术]]思想、拉图尔关于实验室“铭文装置”与“[[Center of Calculation\|计算中心]]”的科学社会学观察，以及对会计审计制度、临床医学量表与心理学评估标准的实证考察。
 > - **形成路径** 从“政治抱负与专业知识的[[Transfer Translation Transformation\|转译]]链条”切入，论证统治阶级如何借助会计师、心理学家、统计学家等中介专家网络，将国家意志[[Coding in Qualitative Research\|编码]]为客观指标，使行动者在“自由追求卓越”的假象下自主对齐统治目标。

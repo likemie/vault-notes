@@ -34,6 +34,8 @@ related_facts:
   - "[[USS Nautilus Submarine Development]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16]]"
+related_persons:
+  - "[[Nikolas Rose]]"
 confidence: high
 status: draft
 created: 2026-10-08
@@ -61,7 +63,7 @@ updated: 2026-10-09
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1900** 出生于当时隶属于俄罗斯帝国的波兰马科夫（Maków Mazowiecki）附近小镇，父亲为裁缝。
+> - **1900** 出生于当时隶属于俄[[Nikolas Rose|罗斯]]帝国的波兰马科夫（Maków Mazowiecki）附近小镇，父亲为裁缝。
 > - **1906** 随家人移民美国纽约。
 > - **1922** 毕业于美国海军学院，随后在哥伦比亚大学获得电气工程硕士学位。
 > - **1940 年代后期** 出任美国海军反应堆部门负责人，同时兼任美国原子能委员会（Atomic Energy Commission, AEC）海军反应堆主管，开启潜艇核动力推进研发。

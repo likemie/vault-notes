@@ -67,6 +67,7 @@ related_arguments:
 related_persons:
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
+  - "[[Alain Desrosières]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
@@ -196,7 +197,7 @@ Denzin & Lincoln (1994) 认为质性研究中信度作为可复制性可通过�
 
 > [!thesis] 跨国[[Space of Equivalence|等值空间]]建构中“信度优先”对“[[Construct Validity|构念效度]]与[[Ontology|本体论]]”的政治学消解
 > - **核心命题** 在大规模跨国教育测评与国家统考框架中，技术官僚对工具“信度（reliability）与跨国可比性”的追求往往系统性压倒了对“[[Construct Validity|构念效度]]（[[Construct]] validity）与教育[[Ontology|本体论]]多样性”的坚守。
-> - **理论机制** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）在开发[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）时，首要目标是依据阿兰·德罗西埃（Alain Desrosières, 1998）所谓的“等值空间”（space of equivalence）构建跨国统一[[Scale of Measurement|测量尺度]]。为确保数以百万计跨越不同母语、文化传统与课程制度的学生在同一量表上产生统计一致性，心理测量学家优先筛选具有高统计信度的脱域化试题；凡是深深植根于本土历史文化脉络、富含高阶批判思辨或具有本体论[[Heterogeneity|异质性]]的教学内容，因无法满足[[Item Response Theory|项目反应理论]]的跨国等值拟合而被系统剔除。这种操作以牺牲教育测量的实质效度为代价换取了虚构的统计信度，使跨国排名的科学中立表象彻底掩盖了指标建构背后的政治决断。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> - **理论机制** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）在开发[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）时，首要目标是依据[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）所谓的“等值空间”（space of equivalence）构建跨国统一[[Scale of Measurement|测量尺度]]。为确保数以百万计跨越不同母语、文化传统与课程制度的学生在同一量表上产生统计一致性，心理测量学家优先筛选具有高统计信度的脱域化试题；凡是深深植根于本土历史文化脉络、富含高阶批判思辨或具有本体论[[Heterogeneity|异质性]]的教学内容，因无法满足[[Item Response Theory|项目反应理论]]的跨国等值拟合而被系统剔除。这种操作以牺牲教育测量的实质效度为代价换取了虚构的统计信度，使跨国排名的科学中立表象彻底掩盖了指标建构背后的政治决断。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 
 ---
 

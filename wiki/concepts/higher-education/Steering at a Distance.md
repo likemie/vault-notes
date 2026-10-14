@@ -51,6 +51,7 @@ related_theories:
   - "[[Neocorporatism]]"
 related_persons:
   - "[[Walter J. M. Kickert]]"
+  - "[[Nikolas Rose]]"
   - "[[Stephen Ball]]"
   - "[[Sigrid Hartong]]"
   - "[[Fazal Rizvi]]"
@@ -108,7 +109,7 @@ updated: 2026-10-13
 ## 概念辨析
 
 > [!genealogy] 学术谱系考证与[[Document|文献]]同义混用辨析
-> - **双轨并行而非前后演变** 1985 年荷兰《[[Higher Education Autonomy and Quality|高等教育：自主与质量]]》（HOAK）白皮书创设荷兰语词汇 *sturen op afstand*，后由欧陆公共行政学者 Frans van Vught (1989) 与 [[Walter J. M. Kickert|瓦尔特·基克特]]（Walter J. M. Kickert） (1995) 系统英译为 *Steering at a Distance*，旨在解决大学半自治专业网络中科层直接管制的失灵；几乎在同一时期，英国社会学家彼得·米勒与尼古拉斯·罗斯（Miller & Rose, 1990, 1992）结合福柯[[Governmentality|治理术]]（[[Governmentality]]）与拉图尔科学技术学（[[Actor-Network Theory]]），独立铸造了批判空间理论 *[[Governing at a Distance|远处治理]]*（Governing at a Distance）。两者在 20 世纪 80 年代末至 90 年代初双轨并行生成，并非先后承继替代。
+> - **双轨并行而非前后演变** 1985 年荷兰《[[Higher Education Autonomy and Quality|高等教育：自主与质量]]》（HOAK）白皮书创设荷兰语词汇 *sturen op afstand*，后由欧陆公共行政学者 Frans van Vught (1989) 与 [[Walter J. M. Kickert|瓦尔特·基克特]]（Walter J. M. Kickert） (1995) 系统英译为 *Steering at a Distance*，旨在解决大学半自治专业网络中科层直接管制的失灵；几乎在同一时期，英国社会学家彼得·米勒与[[Nikolas Rose|尼古拉斯·罗斯]]（Miller & Rose, 1990, 1992）结合福柯[[Governmentality|治理术]]（[[Governmentality]]）与拉图尔科学技术学（[[Actor-Network Theory]]），独立铸造了批判空间理论 *[[Governing at a Distance|远处治理]]*（Governing at a Distance）。两者在 20 世纪 80 年代末至 90 年代初双轨并行生成，并非先后承继替代。
 > - **当代文献中的功能性同义混用** 在当代[[Policy Science in Comparative Education|政策科学]]、教育社会学与公共治理研究中，由于两者均指涉现代国家从直接科层指挥（“划桨”）后撤为设定框架与问责评估（“掌舵”）的整体治理转向，许多文献常将两者作为功能性近义词（Functional Synonyms）互换使用。
 > - **[[Critical Theory|批判理论]]对实证制度的权力透析** [[Critical Pedagogy|批判教育学]]者（如 [[Stephen Ball]]、[[Sigrid Hartong]] 等）频繁借用 Rose & Miller 的 [[Governing at a Distance|远处治理]] 理论，来透析现实中以 Kickert 所倡导的远距离操纵模式为代表的高校放权与质量问责改革，揭示隐藏在“自主与放权”背后的数字指标[[Disciplina and Doctrina|规训]]与主体性重塑机制。
 

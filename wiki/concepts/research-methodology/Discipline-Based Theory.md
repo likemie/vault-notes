@@ -71,6 +71,7 @@ related_persons:
   - "[[Wolfgang Mitter]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
+  - "[[Dominique Foray]]"
   - "[[Bengt-Åke Lundvall]]"
 related_facts:
   - "[[OECD]]"
@@ -224,7 +225,7 @@ updated: 2026-10-13
 > [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]]
 > **从“事实知识”向“操作能力”的位移与批判性消解** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，在[[OECD|经合组织]]大力推行的[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]中，了解事实与理论（knowing about facts and theories）被判定为不如理解社会关系网络以及将知识转化为商业创新产品的能力重要。正规、编码化、结构化和显性的学科本位[[Theoretical Knowledge|理论知识]]遭到系统性贬抑，学习重心从“关于事实的知识”（knowing that）全面倒向“如何在网络中运作的操作能力”（[[Procedural Knowledge|knowing how]]）。这一认识论位移将教育界定在狭隘的市场框架内，消解了母学科理论所承载的人文精神、历史脉络与批判反思功能，剥夺了提出替代性价值方案的可能性。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
 >
-> [!claim] Foray, D. & [[Bengt-Åke Lundvall|Lundvall, B.-Å.]]
+> [!claim] [[Dominique Foray|Foray, D.]] & [[Bengt-Åke Lundvall|Lundvall, B.-Å.]]
 > **学习型经济中的知识流通重于理论静态存量** 多米尼克·福雷（Dominique Foray）与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）指出，在现代创新体系中，[[National Competitive Advantage|国家的竞争优势]]不再取决于传统的学科理论存量，而取决于将经济体迅速转变为“学习型经济”（[[Learning Economy]]）的能力。知识的价值完全体现在其跨网络沟通、技术应用与提升生产率的动态流动中，推动教育系统必须超越正规学校教育与固定分科知识，建立贯穿终身的[[Procedural Skill|程序性技能]]更新机制。
 
 ---

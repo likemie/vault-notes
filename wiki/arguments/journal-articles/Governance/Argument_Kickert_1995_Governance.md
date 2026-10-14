@@ -56,6 +56,7 @@ related_methods:
 related_persons:
   - "[[Wim Deetman]]"
   - "[[Walter J. M. Kickert]]"
+  - "[[Nikolas Rose]]"
 related_facts:
   - "[[Higher Education and Research Plan]]"
   - "[[Higher Education Autonomy and Quality]]"
@@ -226,7 +227,7 @@ sources:
 
 #### 2. 终端质量测度与事后信息反馈回路能够保障系统应对外部扰动的稳态与自适应创新
 
-从控制论与系统科学视角来看，罗斯·阿什比提出的[[Law of Requisite Variety|必要多样性法则]]（Law of Requisite Variety）揭示出单一中央官僚机构的指令多样性永远无法覆盖复杂异质的学术专业网络，必然陷入多样性赤字与治理失灵；复杂开放系统要抵抗外部环境冲击，必须依靠动态平衡（Homeostasis）与自组织调节机制；远距离操纵通过终结微观输入审批并建立事后质量反馈回路，激活了系统的自组织调控活力。（pp. 138, 150–152）
+从控制论与系统科学视角来看，[[Nikolas Rose|罗斯]]·阿什比提出的[[Law of Requisite Variety|必要多样性法则]]（Law of Requisite Variety）揭示出单一中央官僚机构的指令多样性永远无法覆盖复杂异质的学术专业网络，必然陷入多样性赤字与治理失灵；复杂开放系统要抵抗外部环境冲击，必须依靠动态平衡（Homeostasis）与自组织调节机制；远距离操纵通过终结微观输入审批并建立事后质量反馈回路，激活了系统的自组织调控活力。（pp. 138, 150–152）
 
 > [!chain-link] 控制论负反馈调控机制
 > - **前提：事前输入审批扼杀系统自适应能力** 细碎的微观行政审批夺走了大学在应对社会技术浪潮时的调整空间，使系统陷入僵化封闭。（p. 150）

@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rizvi_Lingard_2009_OECDEducationPolicy.md",
-                "mode": "preview",
+                "file": "wiki/facts/global/UNESCO.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Rizvi_Lingard_2009_OECDEducationPolicy"
+              "title": "UNESCO"
             }
           }
         ],
@@ -117,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "unesco",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +151,8 @@
               "title": "Recent files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -288,14 +289,59 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
+  "floating": {
+    "id": "dd8d786f9977b3eb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "728ca21cf10ed1d8",
+        "type": "window",
+        "children": [
+          {
+            "id": "e976c83054a5a3d2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "74a525f55c300441",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "wiki/facts/global/UNESCO.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "UNESCO"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 244,
+        "y": 34,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "234d452edd1bdd48",
   "lastOpenFiles": [
+    "wiki/persons/france/Dominique Foray.md",
+    "wiki/concepts/educational-policy-reform/21st Century Skills and Competencies Discourse.md",
+    "wiki/facts/global/1961 Policy Conference on Economic Growth and Investment in Education.md",
+    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rizvi_Lingard_2009_OECDEducationPolicy.md",
+    "wiki/persons/uk/Nikolas Rose.md",
+    "wiki/persons/france/Alain Desrosières.md",
     "wiki/concepts/sociology-of-education/Positional Good.md",
     "wiki/facts/global/PISA.md",
     "wiki/concepts/political-economy-geopolitics/Epistemic Community.md",
     "wiki/concepts/educational-philosophy/Tacit Knowledge.md",
     "wiki/concepts/comparative-education/Critique of PISA.md",
-    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rizvi_Lingard_2009_OECDEducationPolicy.md",
     "wiki/concepts/educational-philosophy/Technical Rationality.md",
     "wiki/persons/uk/Diane Elson.md",
     "wiki/facts/global/Programme on Educational Building.md",
@@ -311,14 +357,9 @@
     "wiki/concepts/political-economy-geopolitics/Institutional Layering.md",
     "wiki/arguments/books/Mahoney_Thelen_2009_Cambridge/Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change.md",
     "wiki/arguments/journal-articles/Governance/Argument_Kickert_1995_Governance.md",
-    "books/Cowen(Ed.)_2009_Springer/Ch28_Rizvi_Lingard_2009.md",
     "books/Cowen(Ed.)_2009_Springer/Ch28_Rizvi_Lingard_2009.pdf",
-    "wiki/concepts/political-economy-geopolitics/Social Imaginary.md",
     "output/~$2025年.docx",
     "output/2025年.docx",
-    "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch10.md",
-    "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch11.md",
-    "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch09.md",
     "scratch_paper_text.txt",
     "sources/Block_2008_PS.pdf",
     "wiki/arguments/journal-articles/Politics & Society",

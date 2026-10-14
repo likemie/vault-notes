@@ -47,6 +47,7 @@ related_methods:
 related_persons:
   - "[[Bruno Latour]]"
   - "[[Sigrid Hartong]]"
+  - "[[Nikolas Rose]]"
   - "[[Isaiah Berlin]]"
 related_facts:
   - "[[OECD]]"
@@ -134,7 +135,7 @@ updated: 2026-10-08
 > [!concept-lens] 认知权威与新型中枢建构维度
 > 探讨专业测评机构如何依托数据处理技术，在宪法没有赋予其行政命令权的前提下成为事实上的政策枢纽。
 
-> [!claim] [[Bruno Latour\|Latour, B.]]; Rose, N.; [[Sigrid Hartong\|Hartong, S.]]
+> [!claim] [[Bruno Latour\|Latour, B.]]; [[Nikolas Rose|Rose, N.]]; [[Sigrid Hartong\|Hartong, S.]]
 > **数据汇聚带来的认知与治理集权** 在现代教育治理中，真正的控制权不仅存在于行政首脑机关，更转移到了掌握数据汇聚与建模能力的计算中心手中。[[Argument_Hartong_2018_GSE\|Hartong (2018)]] 详细考察了德国[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB）的崛起过程：在各州享有分散文化主权的宪制背景下，各州教育与文化部长常设会议（[[Standing Conference of the Ministers of Education and Cultural Affairs]], KMK）将国家标准的标定、[[Vergleichsarbeiten\|校际比较测试]]（Vergleichsarbeiten, VERA）的命题以及跨州学业趋势比较的组织权统一委托给 IQB。IQB 依托其内部设立的研究数据中心（FDZ），成为全德唯一有能力汇聚并交叉分析 16 个联邦州全样本数据、国际 [[PISA]] 数据库及纵向追踪数据的超级计算节点。这种对标准化数据表征的集中汇聚与运算能力，使 IQB 成为跨越联邦与各州界限的元治理（meta-governance）中枢，实质性主导了德国基础教育的质量[[Discourse|话语]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 140–145]]）。
 
 ---
@@ -163,7 +164,7 @@ updated: 2026-10-08
 
 > [!dev-timeline] 计算中心概念的理论演化
 > - **1987 年 — 科学技术学（Science, Technology and Society, [[Science and Technology Studies\|STS]]）的奠基** [[Bruno Latour\|布鲁诺·拉图尔]]在《行动中的科学》（*Science in Action*）中首次提出计算中心，阐述早期航海地图、天文台与帝国测量局如何通过收集标本与绘制图表实现对遥远殖民地的认知控制。
-> - **1999 年 — 治理社会学的空间化发展** 尼古拉斯·罗斯（Nikolas Rose）在《自由的权力》（*Powers of Freedom*）中将计算中心引入政治社会学，论证统计调查局与经济模型如何为新自由主义国家行使远距离治理提供基准。
+> - **1999 年 — 治理社会学的空间化发展** [[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose）在《自由的权力》（*Powers of Freedom*）中将计算中心引入政治社会学，论证统计调查局与经济模型如何为新自由主义国家行使远距离治理提供基准。
 > - **2015 年 — 全球教育政策研究的应用** 拉德希卡·戈鲁尔（Radhika Gorur）将计算中心用于剖析[[OECD\|经济合作与发展组织]]（OECD）的 [[PISA]] 运作机制，揭示巴黎总部如何将全球各国的课堂现实[[Transfer Translation Transformation\|转译]]为单一维度的量化排行榜。
 > - **2018 年 — 联邦制国内[[Data Infrastructure\|教育数据基础设施]]的经验剖析** [[Sigrid Hartong\|西格丽德·哈通]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）将计算中心概念[[Operationalization\|操作化]]于德国教育监测体系，证明[[Isaiah Berlin|柏林]] [[Institute for Educational Quality Improvement\|IQB]] 如何在宪法禁止国家排名的制度约束下，依然作为国家计算中心重组联邦教育治理。
 > - **2019 年 — 从单一中心走向分布式数据基础设施网络** 哈通与弗施勒（[[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler, 2019]]）进一步指出，随着数字平台、商业教育科技（EdTech）与云服务的渗透，现代治理正从依托单一国家计算中心向多中心协同、权能分散的“分布式数据基础设施网络”演化。

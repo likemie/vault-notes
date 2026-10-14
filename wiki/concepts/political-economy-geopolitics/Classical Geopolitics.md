@@ -21,6 +21,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Hard Power]]"
   - "[[Discourse]]"
+  - "[[Social Imaginary]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Relational Space]]"
   - "[[Knowledge-Based Economization]]"
@@ -46,6 +47,7 @@ related_methods:
 related_persons:
   - "[[Francis Bacon]]"
   - "[[Samuel P. Huntington]]"
+  - "[[Nikolas Rose]]"
 related_facts:
   - "[[Fulbright Program]]"
   - "[[Sino-American Trade War]]"
@@ -72,7 +74,7 @@ updated: 2026-10-09
 > [!concept-lens] 概念透镜
 > - **含义** 将地缘政治理解为国家间围绕领土、资源和战略通道的[[Hard Power|硬实力]]竞争，空间是可测量、可占有、可分割的客观地理实体，行动主体仅限于民族国家。
 > - **用途** 为理解军事冲突、领土争端、大国竞争和同盟体系提供以国家为中心的[[Analytic Framework\|分析框架]]。在高等教育研究中，构成理解高等教育从民族国家框架中"脱嵌"的对照基线。
-> - **边界** 缺少分析意识形态与[[Discourse|话语]]权力的概念工具，不适用于分析高等教育作为独立地缘政治行动者的角色，也难以捕捉跨国社会想象和网络化关系中的权力动态。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 3–4)]]
+> - **边界** 缺少分析意识形态与[[Discourse|话语]]权力的概念工具，不适用于分析高等教育作为独立地缘政治行动者的角色，也难以捕捉跨国[[Social Imaginary|社会想象]]和网络化关系中的权力动态。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 3–4)]]
 
 > [!citation-card]- [[Argument_Moisio_2022_Springer\|Moisio (2022)]] 对古典地缘政治的界定
 > 典型的理解是，地缘政治指国家组织的硬领土力量和势力范围政治。更常见的是，地缘政治仍被狭隘地理解为划定国家边界、将民族构建为确定领土、通过空间性强制与同意技术构建国内社会秩序、通过新军事技术控制特定国家内外领土空间，以及为领土主张提供地理和历史辩护。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, pp. 25–26)]]
@@ -142,7 +144,7 @@ updated: 2026-10-09
 > - **1990s–至今 — 当代的持续运作**
 >   尽管关系性地缘政治视角已在学术界发展，古典地缘政治的某些维度并未消失。[[Argument_Moisio_2022_Springer\|Moisio (2022)]]指出，当代强大国家（特别是中美之间）将大型科技公司视为代表国家利益的实体，"试图将世界划分为技术影响的势力范围"（p. 26）。
 >
->   [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]]进一步指出，古典地缘政治的领土权力逻辑和关系性地缘政治的网络化空间想象之间并非前后替代关系而是共构关系——例如 RCEP 协议的形成中，全球连接性、开放流动的[[Discourse|话语]]与中国的区域战略计算共同构成了当代地缘政治的实际运作逻辑。同时，英国脱欧和[[Sino-American Trade War\|中美贸易战]]也被视为当代地缘政治权力博弈的例证；俄罗斯吞并克里米亚被解读为"属于二十世纪的老式地缘政治战略行为"（Moisio, 2018）。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|(Parreira do Amaral, 2022, pp. 37–38)]]
+>   [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]]进一步指出，古典地缘政治的领土权力逻辑和关系性地缘政治的网络化空间想象之间并非前后替代关系而是共构关系——例如 RCEP 协议的形成中，全球连接性、开放流动的[[Discourse|话语]]与中国的区域战略计算共同构成了当代地缘政治的实际运作逻辑。同时，英国脱欧和[[Sino-American Trade War\|中美贸易战]]也被视为当代地缘政治权力博弈的例证；俄[[Nikolas Rose|罗斯]]吞并克里米亚被解读为"属于二十世纪的老式地缘政治战略行为"（Moisio, 2018）。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|(Parreira do Amaral, 2022, pp. 37–38)]]
 
 ---
 
@@ -150,7 +152,7 @@ updated: 2026-10-09
 
 > [!critique] 批评索引
 > - **殖民与暴力的历史纠缠** [[Critical Geopolitics\|批判地缘政治学]]者论证古典地缘政治的领土偏见不仅在分析上有缺陷，而且在历史上与殖民主义和民族主义暴力深度纠缠（Thompson & Parreira do Amaral, 2022, p. 10）
-> - **对当代高等教育的解释力不足** [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]]指出，在分析当代[[Geopolitics of Higher Education\|高等教育的地缘政治]]动态时，古典地缘政治视角无法捕捉跨国社会想象、中产阶级的教育消费选择，以及国际化市场中意识形态与文化的维度[[Argument_Rizvi_2022_Springer\|(Rizvi, 2022, pp. 90–91)]]
+> - **对当代高等教育的解释力不足** [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]]指出，在分析当代[[Geopolitics of Higher Education\|高等教育的地缘政治]]动态时，古典地缘政治视角无法捕捉跨国[[Social Imaginary|社会想象]]、中产阶级的教育消费选择，以及国际化市场中意识形态与文化的维度[[Argument_Rizvi_2022_Springer\|(Rizvi, 2022, pp. 90–91)]]
 > - **[[Knowledge-Based Economy\|知识经济]]时代的局限** 在知识密集型资本主义时代，古典地缘政治的[[Analytic Framework\|分析框架]]不足以捕捉资金、人才和思想流动的[[Relational Space\|关系性空间]]动态——但这并不意味着领土权力逻辑已经消失[[Argument_Moisio_2022_Springer\|(Moisio, 2022, pp. 25–27)]]
 
 ---
@@ -159,7 +161,7 @@ updated: 2026-10-09
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Moisio_2022_Springer\|Moisio (2022)]] — 界定古典地缘政治的核心逻辑，并通过中美技术竞争（如限制华为运营等科技政治案例）分析其在当代科技竞争与数字时代的延伸运作。
-> - [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] — 以 Dalby 现实主义古典地缘政治为对照基线，指出纯粹国家间权力斗争视角难以解释当代高等教育的跨国社会想象与网络化关系，主张转向[[Critical Geopolitics\|批判地缘政治学]]视角。
+> - [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] — 以 Dalby 现实主义古典地缘政治为对照基线，指出纯粹国家间权力斗争视角难以解释当代高等教育的跨国[[Social Imaginary|社会想象]]与网络化关系，主张转向[[Critical Geopolitics\|批判地缘政治学]]视角。
 > - [[Argument_Partaken_2022_Springer\|Partaken (2022)]] — 追溯“geopolitics”词源及其从神学属性到地缘政治教义的演变，并以[[Sino-American Trade War\|中美贸易战]]为例剖析古典领土权力逻辑在当代的典型体现。
 > - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] — 论述古典领土权力逻辑在当代仍与[[Relational Space\|关系性空间]]想象共构运作，并作为理解高等教育从民族国家框架中“脱嵌”的对照基线。
 > - [[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]] — 以 Massey 关系性空间理论重新定义地缘政治，超越古典国家中心与领土绝对主义框架。

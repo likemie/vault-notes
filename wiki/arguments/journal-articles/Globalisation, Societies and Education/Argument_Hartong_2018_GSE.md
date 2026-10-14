@@ -61,6 +61,7 @@ related_persons:
   - "[[Isaiah Berlin]]"
   - "[[John Allen]]"
   - "[[Bruno Latour]]"
+  - "[[Nikolas Rose]]"
 related_facts:
   - "[[Institute for Educational Quality Improvement]]"
   - "[[PISA]]"
@@ -178,7 +179,7 @@ updated: 2026-09-18
 
 #### 2. 计算中心通过标准化数据表征实现跨尺度的远距离治理
 
-拉图尔（[[Bruno Latour]]）与罗斯（Nikolas Rose）的社会学理论为剖析专业评估机构提供了微观分析路径。
+拉图尔（[[Bruno Latour]]）与[[Nikolas Rose|罗斯]]（Nikolas Rose）的社会学理论为剖析专业评估机构提供了微观分析路径。
 
 > [!theory-components] [[Center of Calculation\|计算中心]]运转的四阶段[[Transfer Translation Transformation\|转译]]循环
 > - **标准化数据抽取与表征（Standardised Inscriptions）**

@@ -72,6 +72,8 @@ related_methods:
 related_persons:
   - "[[Bob Lingard]]"
   - "[[Edward Said]]"
+  - "[[Alain Desrosières]]"
+  - "[[Nikolas Rose]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
@@ -177,7 +179,7 @@ updated: 2026-10-14
 
 > [!person-network] 关系网络
 > - **师承／合作者** [[Bob Lingard]] — 长期核心学术合作者，共同创立全球教育政策批判社会学[[Paradigm|范式]]；Miriam Henry、Sandra Taylor — 早期 [[OECD]] 专著合著者。
-> - **理论思想资源** 查尔斯·泰勒（Charles Taylor）、阿尔君·阿帕杜莱（Arjun Appadurai） — [[Social Imaginary|现代社会想象]]理论；克劳斯·多兹（Klaus Dodds） — [[Critical Geopolitics|批判地缘政治学]]理论；[[Edward Said|爱德华·萨义德]]（Edward Said） — 后殖民主义与[[Orientalism|东方主义]]批判；阿兰·德罗西埃（Alain Desrosières）、尼古拉斯·罗斯（Nikolas Rose） — [[Space of Equivalence|统计等值空间]]与[[Governing at a Distance|远处治理]]。
+> - **理论思想资源** 查尔斯·泰勒（Charles Taylor）、阿尔君·阿帕杜莱（Arjun Appadurai） — [[Social Imaginary|现代社会想象]]理论；克劳斯·多兹（Klaus Dodds） — [[Critical Geopolitics|批判地缘政治学]]理论；[[Edward Said|爱德华·萨义德]]（Edward Said） — 后殖民主义与[[Orientalism|东方主义]]批判；[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières）、[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose） — [[Space of Equivalence|统计等值空间]]与[[Governing at a Distance|远处治理]]。
 > - **对话学者／前沿争鸣** 迈克尔·彼得斯（Michael Peters） — [[Knowledge Capitalism|知识资本主义]]理论；菲利普·布朗（Phillip Brown）、休·劳德（Hugh Lauder） — 全球技能竞赛与工作性质转型研究。
 > - **分析机构／对象** [[OECD]]、[[PISA]]、[[International Education Hubs|国际教育枢纽]]、亚太跨国高校。
 

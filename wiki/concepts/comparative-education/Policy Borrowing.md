@@ -95,6 +95,7 @@ related_persons:
   - "[[Wolfgang Mitter]]"
   - "[[Val D. Rust]]"
   - "[[Jeremy Rappleye]]"
+  - "[[Nikolas Rose]]"
 related_facts:
   - "[[Guizot Law of 1833]]"
   - "[[Institute for Educational Quality Improvement]]"
@@ -528,7 +529,7 @@ updated: 2026-10-09
 > - [[Argument_Cowen_2009_CE\|Cowen (2009b)]] — 建立“转移—[[Transfer Translation Transformation\|转译]]—形态变异”分析视角，论证教育政策元素在跨国流动中受微观权力与时空重构必然发生实质形态改变。
 > - [[Argument_Yan_2025_JCS\|Yan & Morris (2025)]] — 追踪[[Liberal Studies\|香港通识教育科]]从创立到废除的生命周期，揭示政策借用作为本土政治议程[[Externalization\|外化]]合法化工具的运作机制，并界定高压威权行政接管下政策借用[[Analytic Framework\|分析框架]]的失效边界。
 > - [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] — 剖析英格兰在 PISA 2012 发布后借用东亚（上海）与 [[OECD]] [[Discourse|话语]]推行教师[[Performance Pay\|绩效工资]]等五大争议政策的过程，揭示“遗漏话语”与媒体“[[Policy Avoidance\|政策规避]]”构成的媒介化政策借用合法化新机制。
-> - [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] — 详细呈现“[[Visible Learning\|可见的学习]]”（Visible Learning）进入俄罗斯教育界后，因遭遇方法论[[Heterogeneity\|异质性]]、教师去专业化风险与行政报表官僚化威胁，最终本土学者提出“拒绝采用”建议的过程。
+> - [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] — 详细呈现“[[Visible Learning\|可见的学习]]”（Visible Learning）进入俄[[Nikolas Rose|罗斯]]教育界后，因遭遇方法论[[Heterogeneity\|异质性]]、教师去专业化风险与行政报表官僚化威胁，最终本土学者提出“拒绝采用”建议的过程。
 > - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — 综述 PISA 国际排名如何将东亚与芬兰等确立为全球[[Reference Society\|参考社会]]，剖析韩国政策借用从日本模式向芬兰模式动态切换的制度化历程。
 > - [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]] — 批判传统政策借用局限于国家官方书面文本的静态[[Hypothesis\|假设]]，从[[Network Governance\|网络治理]]视角揭示去中心化非官方网络中话语权力的微观流转与转译机制。
 > - [[Argument_Amos_2022_Springer\|Amos (2022)]] — 剖析[[Michael Sadler\|迈克尔·萨德勒]]和迈克尔·考恩的学术遗产，说明政策借用如何随着现代性社会系统翻转从偶发外交变成常规合法化手段。

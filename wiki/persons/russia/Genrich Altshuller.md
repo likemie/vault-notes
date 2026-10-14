@@ -41,6 +41,7 @@ related_methods:
   - "[[Meta-analysis]]"
 related_instruments: []
 related_persons:
+  - "[[Nikolas Rose]]"
   - "[[Alex Osborn]]"
 related_facts:
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
@@ -78,7 +79,7 @@ updated: 2026-10-07
 > - **1956 年** 发表代表性奠基论文《关于发明创造的心理学》，首次向公众正式披露 TRIZ 体系。
 > - **1970 年代** 创立巴库阿奇舒勒公共发明学院，指导建立全苏数十个 TRIZ 实验室，分析专利突破 20 万件，完善 40 发明原理与 ARIZ 算法。
 > - **1984 年** 出版传世经典专著《[[Creativity]] as an Exact Science》，确立创新作为精确可教科学的崇高地位。
-> - **1998 年** 逝世于俄罗斯彼得罗扎沃茨克，其 TRIZ 理论在后冷战时代走向全球，被三星、波音、空客与全球顶尖工学院奉为研发圭臬。
+> - **1998 年** 逝世于俄[[Nikolas Rose|罗斯]]彼得罗扎沃茨克，其 TRIZ 理论在后冷战时代走向全球，被三星、波音、空客与全球顶尖工学院奉为研发圭臬。
 
 ---
 

@@ -49,6 +49,7 @@ related_instruments: []
 related_persons:
   - "[[Theda Skocpol]]"
   - "[[Peter A. Hall]]"
+  - "[[Nikolas Rose]]"
   - "[[Max Weber]]"
   - "[[Kathleen Thelen]]"
   - "[[Paul Pierson]]"
@@ -85,7 +86,7 @@ updated: 2026-10-11
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 20 世纪 80 年代由赛达·[[Theda Skocpol|斯考切波]]（Theda Skocpol）、[[Peter A. Hall|彼得·A·霍尔]]（Peter A. Hall）（1986《治理经济》）等学者在“找回国家”运动中奠基；[[Peter A. Hall|霍尔]]与罗斯玛丽·泰勒（Rosemary C. R. Taylor）于 1996 年发表《政治学与新制度主义三大学派》（*Political Science and the Three New Institutionalisms*），正式在学术界确立其作为独立理论流派的核心坐标。
+> - **提出者与原始文本** 20 世纪 80 年代由赛达·[[Theda Skocpol|斯考切波]]（Theda Skocpol）、[[Peter A. Hall|彼得·A·霍尔]]（Peter A. Hall）（1986《治理经济》）等学者在“找回国家”运动中奠基；[[Peter A. Hall|霍尔]]与[[Nikolas Rose|罗斯]]玛丽·泰勒（Rosemary C. R. Taylor）于 1996 年发表《政治学与新制度主义三大学派》（*Political Science and the Three New Institutionalisms*），正式在学术界确立其作为独立理论流派的核心坐标。
 > - **原初问题** 为何具备相似经济发展水平的工业化民主国家（如英、法、德、美），在面对相似的外部经济冲击（如大萧条、两次世界大战、石油危机）时，会选择截然不同的经济干预与福利政策轨道。
 > - **理论资源与材料** 吸收[[Max Weber|马克斯·韦伯]]的国家官僚与支配组织理论、卡尔·波兰尼的嵌入性思想以及欧洲比较历史社会学传统；经验材料以欧美发达工业化国家长时段国家建设、福利资本主义与宏观经济治理档案为主。
 > - **形成路径** 将中观制度（国家机关、法律规约、政党体制、劳资工会）设定为连接宏观历史结构与微观政治行动的因果中介，确立“制度结构塑造权力分配与行动者偏好”的核心因果假定。

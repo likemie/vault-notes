@@ -58,6 +58,7 @@ related_persons:
   - "[[Gerard Renaud]]"
   - "[[Gilbert Nicol]]"
   - "[[Fred Block]]"
+  - "[[Nikolas Rose]]"
   - "[[James Madison]]"
 related_facts:
   - "[[International Baccalaureate North America]]"
@@ -378,7 +379,7 @@ updated: 2026-10-08
 > [!actor-grid] 组织启动期的关键行动者与资源
 > - **[[Fred Block|布洛克]]·卡鲁斯（Blouke Carus）** 曾协商 Hegeler Institute 对 IBO 的早期资助，推动 IBNA 独立法人化，并于 1977 年 1 月出任主席。作为 Open Court 负责人，他长期关注学术标准下降，并以教育改革会议及出版网络连接雅克·巴赞（Jacques Barzun）、克林斯·布鲁克斯（Cleanth Brooks）、阿尔伯特·列维（Albert Levi）等知识界人士。
 > - **霍华德·贝里（Howard Berry）** 作为热心教师，在洛克兰社区学院内部负责最早的美国区域办事点，延续 [[International School of Geneva\|Ecolint]] 与哈默史密斯时期由合作学校提供空间的低成本启动模式。
-> - **查尔斯·罗斯（Charles Rose）** 本为艺术史学者，在独立办公室形成前暂时担任执行官，维持从社区学院办事点向专职组织过渡。
+> - **查尔斯·[[Nikolas Rose|罗斯]]（Charles Rose）** 本为艺术史学者，在独立办公室形成前暂时担任执行官，维持从社区学院办事点向专职组织过渡。
 > - **[[Gilbert Nicol\|吉尔伯特·尼科尔]]（Gilbert Nicol）** 1977 年 8 月接替罗斯。其经历包括军事情报工作、1947 年获阿默斯特学院学士、1950 年获哥伦比亚大学法学学士、在普林斯顿负责三年发展工作，以及 1971—1976 年领导大学规划协会；这些经验直接对应教育规划、筹资和机构谈判。
 > - **斯蒂芬妮·伊斯勒（Stephanie Isler）** 后来在狭小的纽约办公室协助尼科尔，支撑学校数量快速增长时的日常行政工作。
 > - **汤姆·哈戈特（[[Theory of Mind\|ToM]] Hagoort）** 参与过华盛顿国际学校创办和 UNIS 搬迁，1980 年接替卡鲁斯领导 IBNA；他把北美学校快速增长视为 IBO 摆脱不可持续基金会资助、走向财务自立的[[Necessary and Sufficient Conditions\|必要条件]]（pp. 142–147）。

@@ -30,6 +30,7 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Nikolas Rose]]"
   - "[[Peter A. Hall]]"
 related_facts:
   - "[[The Green Book]]"
@@ -51,7 +52,7 @@ updated: 2026-10-12
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间与发布主体** 1971 年 11 月由英国中央政策审查参谋部（Central Policy Review Staff, CPRS）负责人维克多·罗斯柴尔德勋爵（Lord Victor Rothschild）主持撰写，以内阁[[The Green Book\|绿皮书]]形式发布，题为《政府研究与发展框架》（*A Framework for Government Research and Development*, Cmnd 4814）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 80)]]
+> - **发布时间与发布主体** 1971 年 11 月由英国中央政策审查参谋部（Central Policy Review Staff, CPRS）负责人维克多·[[Nikolas Rose|罗斯]]柴尔德勋爵（Lord Victor Rothschild）主持撰写，以内阁[[The Green Book\|绿皮书]]形式发布，题为《政府研究与发展框架》（*A Framework for Government Research and Development*, Cmnd 4814）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 80)]]
 > - **适用地区与对象** 英国中央政府各部委、国家研究理事会（Research Councils）、公共部门科研机构（Public Sector Research Establishments, PSREs）以及承接国家科研任务的高等教育机构。
 > - **问题背景** 二战后英国政府对科学研发的财政投入急剧扩张，但公共研发机构与政府实际行政决策和行业需求严重脱节，财政部对巨额科研资金的产出效率提出强烈质疑，亟需确立应用科研的公共问责与资金配置逻辑。
 > - **制度位置** 英国战后国家科技政策史上具有分水岭意义的制度改革，彻底打破了由 1918 年《[[Peter A. Hall|霍尔]]丹报告》（Haldane Report）确立的国家自主纯学术科研资助传统，奠定了英国公共科研管理走向市场化采购与委托代理的现代治理结构。
@@ -79,7 +80,7 @@ updated: 2026-10-12
 ## 时间线
 
 > [!timeline] 政策时间线
-> - **1971** 罗斯柴尔德勋爵提交并发布《政府研究与发展框架》白皮书。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 80)]]
+> - **1971** [[Nikolas Rose|罗斯]]柴尔德勋爵提交并发布《政府研究与发展框架》白皮书。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 80)]]
 > - **1972** 英国政府发布白皮书（Cmnd 5046）正式采纳罗斯柴尔德原则，开始向各部委划拨科研采购预算。
 > - **1970s–1990s** 各部委逐步设立首席科学顾问（CSAs），公共部门科研机构（PSREs）经历私有化、独立化或缩编转型。
 > - **2007** 设立[[Government Office for Science\|政府科学办公室]]（Government Office for Science, GO-Science），强化跨部委首席科学顾问的协同网络。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 81)]]
@@ -115,7 +116,7 @@ updated: 2026-10-12
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Government Office for Science]] | 事实 | 罗斯柴尔德报告催生的各部委首席科学顾问机制最终演进为由政府科学办公室统筹的国家咨询网络。 |
+> | [[Government Office for Science]] | 事实 | [[Nikolas Rose\|罗斯]]柴尔德报告催生的各部委首席科学顾问机制最终演进为由政府科学办公室统筹的国家咨询网络。 |
 > | [[The Green Book]] | 事实 | 规范政府在采购与评估公共政策与研发项目时必须遵循的法定评价与不确定性管理指南。 |
 > | [[Bodmer Report 1985]] | 事实 | 1985 年博德默尔报告呼应了罗斯柴尔德报告的公共问责理念，将科学家的社会责任从单纯技术交付扩展至面向全社会的公众科学理解。 |
 > | [[Public Engagement with Science]] | 概念 | 现代科学咨询体系反思单纯技术买卖关系，强调在政府决策中内嵌双向平权的公众参与机制。 |

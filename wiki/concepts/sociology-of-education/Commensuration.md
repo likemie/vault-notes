@@ -56,9 +56,11 @@ related_arguments:
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
 related_persons:
+  - "[[Alain Desrosières]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
   - "[[Sigrid Hartong]]"
+  - "[[Nikolas Rose]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
@@ -117,7 +119,7 @@ updated: 2026-10-14
 > - **微小决策放大为宏观治理后果**
 >   在构建通约指标时，算法过滤规则、指标纳入与权重分配等表面上的技术微调（如决定是否纳入学校氛围调查、如何设定年度改善期望值），实质上是权威性裁定哪些学校合格、哪些学校需要国家行政接管的政治决策[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 3, 9)]]。
 > - **跨国“[[Space of Equivalence|等值空间]]”（Space of Equivalence）与[[Reliability|信度]]优先逻辑**
->   阿兰·德罗西埃（Alain Desrosières, 1998）与[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）、[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，在[[OECD]]主导的[[PISA]]等跨国大规模测评中，通约机制凭空创造出一个全球可比较的“等值空间”；为此，测量专家在方法论上将跨国信度（reliability）与可比性置于[[Construct Validity|构念效度]]（[[Construct]] validity）与[[Ontology|本体论]][[Heterogeneity|异质性]]之上，使复杂的价值决断隐形化[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 447–448)]]。
+>   [[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）与[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）、[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，在[[OECD]]主导的[[PISA]]等跨国大规模测评中，通约机制凭空创造出一个全球可比较的“等值空间”；为此，测量专家在方法论上将跨国信度（reliability）与可比性置于[[Construct Validity|构念效度]]（[[Construct]] validity）与[[Ontology|本体论]][[Heterogeneity|异质性]]之上，使复杂的价值决断隐形化[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 447–448)]]。
 
 ---
 
@@ -125,11 +127,11 @@ updated: 2026-10-14
 
 > [!thesis] 命题一｜跨国“[[Space of Equivalence|等值空间]]”（Space of Equivalence）虚构与[[Reliability|信度]]优先的通约治理
 > - **核心命题** 在跨国教育治理中，通约机制通过脱离各国的具体课程纲要与本土历史情境，凭空虚构出一个看似客观中立的全球“等值空间”（space of equivalence），并将跨国统计信度与横向可比性置于教育本土[[Construct Validity|构念效度]]之上。
-> - **理论机制** 阿兰·德罗西埃（Alain Desrosières, 1998）指出，大规模统计的核心在于制造等值；[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）进一步论证，[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）通过[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）将全球数十个国家的学生能力折算为均值 500、标准差 100 的统一量表。为维系这一跨国通约空间的统计自洽，测量专家系统性剔除了深植于特定语言与文化的[[Higher-Order Thinking Skills|高阶思维]]试题，使技术信度（reliability）压倒了教育[[Ontology|本体论]]（ontology）的多样性，完成了跨国新自由主义治理的[[Discourse|话语]]确立。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> - **理论机制** [[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）指出，大规模统计的核心在于制造等值；[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）进一步论证，[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）通过[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）将全球数十个国家的学生能力折算为均值 500、标准差 100 的统一量表。为维系这一跨国通约空间的统计自洽，测量专家系统性剔除了深植于特定语言与文化的[[Higher-Order Thinking Skills|高阶思维]]试题，使技术信度（reliability）压倒了教育[[Ontology|本体论]]（ontology）的多样性，完成了跨国新自由主义治理的[[Discourse|话语]]确立。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 
 > [!thesis] 命题二｜脱域化公分母建构与政治价值裁决的技术化隐形
 > - **核心命题** 通约不仅是将不同质态转化为可比量化指标的技术操作，更是一种权威性裁决价值权重、并将深层政治决策包装为中立算法的社会工程。
-> - **理论机制** [[Sigrid Hartong|西格丽德·哈通]]（Sigrid Hartong）与诺拉·弗施勒（Nora Förschler, 2019）发现，在构建学校监测通约指标时，数据分析师对指标纳入（如出勤率、统考合格率、社会经济地位）、权重赋值以及过滤规则的微小技术微调，实质上行使了决定哪些学校合格、哪些学校需要行政接管的政治主权。尼古拉斯·罗斯（Nikolas Rose, 1999）所谓的“数字即政策”（policy as numbers）在此高度具象化：通约操作将充满价值冲突的政治决断彻底封装于黑箱算法之中，免除了民主审议与公众辩论。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 3, 6–7)]]
+> - **理论机制** [[Sigrid Hartong|西格丽德·哈通]]（Sigrid Hartong）与诺拉·弗施勒（Nora Förschler, 2019）发现，在构建学校监测通约指标时，数据分析师对指标纳入（如出勤率、统考合格率、社会经济地位）、权重赋值以及过滤规则的微小技术微调，实质上行使了决定哪些学校合格、哪些学校需要行政接管的政治主权。[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose, 1999）所谓的“数字即政策”（policy as numbers）在此高度具象化：通约操作将充满价值冲突的政治决断彻底封装于黑箱算法之中，免除了民主审议与公众辩论。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 3, 6–7)]]
 
 > [!thesis] 命题三｜通约作为[[Disciplina and Doctrina|规训]][[Assemblage|装配]]诱发被测系统的策略性博弈与目标置换
 > - **核心命题** 通约机制是兼具治理能力延伸与[[Reflexivity|反身性]]控制的社会-技术[[Assemblage|装配]]；一旦通约指标与高利害问责或资源分配刚性绑定，必将导致现实与度量的系统性脱节，诱发被规训学校的策略性数据操纵。

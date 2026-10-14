@@ -39,6 +39,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Nikolas Rose]]"
   - "[[Thomas S. Popkewitz]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
@@ -64,7 +65,7 @@ updated: 2026-10-10
 > - **解释对象** 权力如何通过界定地理边界、绘制统计图表、规划建筑环境以及构建空间质地，对人类群体的流动、聚集和交往实施远距离协调与微观[[Disciplina and Doctrina|规训]]。
 > - **理论问题** 传统政治学与早期[[Governmentality|治理术]]研究过度偏重历时性时间维度与机构权力的单向压制，忽视了“空间”本身即是治理思想与行政权力的生产性构件；学校教育研究长期将校园视为中立的物理背景，无法解释空间区隔对流动人口的差异化排斥。
 > - **理论类型** 批判社会学、教育政治学与空间社会学理论框架。
-> - **知识位置** 承袭米歇尔·福柯（Michel Foucault）的微观权力与治理术学说，由尼古拉斯·罗斯（Nikolas Rose）在政治社会学领域系统化，并由诺亚·索比（Noah W. Sobe）与梅丽莎·菲舍尔（Melissa G. Fischer）等学者引入比较教育学与空间转向研究。
+> - **知识位置** 承袭米歇尔·福柯（Michel Foucault）的微观权力与治理术学说，由[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose）在政治社会学领域系统化，并由诺亚·索比（Noah W. Sobe）与梅丽莎·菲舍尔（Melissa G. Fischer）等学者引入比较教育学与空间转向研究。
 
 > [!claim] 核心判断
 > 现代社会的权力运作本质上是空间化的；国家与专业机构并非仅在预先存在的地理空间中发号施令，而是通过“领地化划界”、“空间化统治之眸”以及“空间质地建模”三大技术，持续生产出可计算、可干预的治理单元。学校在这一体制中承担着双重空间职能：既是把人群固定于特定物理网格内的规训容器，又是评判个体是否具备进入其他社会空间资格的筛选关卡。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361)]]
@@ -78,7 +79,7 @@ updated: 2026-10-10
 ## 理论来源与形成
 
 > [!theory-origin] 空间化[[Educational Governance Framework|治理分析框架]]的提出
-> - **提出者与原始文本** 尼古拉斯·罗斯（Nikolas Rose）于 1999 年在著作《自由的力量：重构政治思想》（*Powers of Freedom: Reframing Political Thought*）中正式系统阐发了政[[Governmentality|治理性]]与治理思想的空间化维度。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
+> - **提出者与原始文本** [[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose）于 1999 年在著作《自由的力量：重构政治思想》（*Powers of Freedom: Reframing Political Thought*）中正式系统阐发了政[[Governmentality|治理性]]与治理思想的空间化维度。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
 > - **原初问题** 现代自由主义国家如何在不诉诸普遍暴力的前提下，维持庞大人口的社会秩序并引导个体实现“自我治理”；空间如何从单纯的物理距离转变为权力和自由相互博弈的技术载体。
 > - **理论资源与材料** 吸收了福柯关于空间区隔（如全景敞视建筑、临床医学空间）的洞见，结合 19 世纪以来公共卫生普查、城市贫民窟空间调查（如 James Kay-Shuttleworth 1832 年关于曼彻斯特劳工阶层的调查）以及现代人口统计学的历史材料。
 > - **形成路径** Rose 从权力运行对“可见性（Visibility）”与“可计算性（Calculability）”的依赖出发，提炼出领地化划界、空间化统治之眸与空间质地建模三大分析轴线，指出自由主义治理的实质就是构建适宜特定人类品性生存与自我调节的微观空间。

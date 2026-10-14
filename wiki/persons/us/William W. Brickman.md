@@ -47,6 +47,7 @@ related_persons:
   - "[[Andreas Kazamias]]"
   - "[[Claude A. Eggertsen]]"
   - "[[Isaac Kandel]]"
+  - "[[Nikolas Rose]]"
   - "[[C. Arnold Anderson]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
@@ -125,7 +126,7 @@ updated: 2026-10-01
 
 ## 历史评价
 
-> [!citation-card] 罗斯特等论布里克曼的西方中心先驱地位与史学贡献
+> [!citation-card] [[Nikolas Rose|罗斯]]特等论布里克曼的西方中心先驱地位与史学贡献
 > 比较教育研究的早期中心几乎完全由发达国家的专家组成，布里克曼、埃格特森与安德森是其中的美国代表；正是他们对历史[[Document|文献]]的抢救与编目，维系了学科与古典人文主义传统的纽带。（pp.122, 129）[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122, 129)]]
 >
 > *Thus, Brickman, Eggertsen, and Anderson were American... One task comparative educators have is to catalogue these writings in some systematic form.*

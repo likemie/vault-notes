@@ -45,6 +45,7 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_persons:
+  - "[[Dominique Foray]]"
   - "[[Chris Freeman]]"
   - "[[Richard Nelson]]"
   - "[[Friedrich List]]"
@@ -86,7 +87,7 @@ updated: 2026-10-14
 > - **1988** 在杜西等主编的经典论文集中发表《创新作为互动过程：从用户—生产者互动到[[National Innovation System|国家创新系统]]》，正式将微观交互扩展至国家宏观架构。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 11)]]
 > - **1992** 主编出版里程碑专著《国家[[Systems of Innovation|创新系统]]：迈向创新与互动学习的理论》（*National Systems of Innovation: Towards a Theory of Innovation and Interactive Learning*）。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5, 8)]]
 > - **1992–1995** 借调担任 [[OECD]] 科技与产业政策部副部长，深度推动国家创新系统指标进入国际政策评价主流。
-> - **1996** 与多米尼克·福瑞（Dominique Foray）共同主编经合组织（OECD）专著《[[Knowledge-Based Economy|知识经济]]中的教育与增长》（*Education and [[Growth]] in the Knowledge-Based Economy*），奠定 OECD“学习型经济”政策分析基石。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
+> - **1996** 与[[Dominique Foray|多米尼克·福瑞]]（Dominique Foray）共同主编经合组织（OECD）专著《[[Knowledge-Based Economy|知识经济]]中的教育与增长》（*Education and [[Growth]] in the Knowledge-Based Economy*），奠定 OECD“学习型经济”政策分析基石。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
 
 ---
 
@@ -120,7 +121,7 @@ updated: 2026-10-14
 > *Even in the case of continuous incremental innovation in open economies, the drive towards standardisation is limited. Geographical and cultural proximity to advanced users and a network of institutionalised (even if often informal) [[User-Producer Interaction|user-producer relationships]] are an important source of diversity and of comparative advantage, as is the local supply of managerial and technical skills and accumulated tacit knowledge.*
 
 > [!citation-card] 福瑞与伦德瓦尔论[[Knowledge-Based Economy|知识经济]]向“学习型经济”的[[Paradigm|范式]]转型
-> 多米尼克·福瑞（Dominique Foray）与本格特-奥克·伦德瓦尔（Bengt-Åke Lundvall）在 1996 年[[OECD|经合组织]]报告中指出：现代经济的决定性特征不仅在于信息与[[Coding in Qualitative Research|编码]]知识的激增，更在于知识更新与折旧周期的急剧加快。因此，一个国家在知识经济中的核心能力，取决于其多快能够完成向“学习型经济（[[Learning Economy]]）”的转型；而学习绝不仅仅是利用现代信息技术获取全球编码化知识，更关乎与他人互动沟通以提升协作生产力的隐性能力与反思能力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
+> [[Dominique Foray|多米尼克·福瑞]]（Dominique Foray）与本格特-奥克·伦德瓦尔（Bengt-Åke Lundvall）在 1996 年[[OECD|经合组织]]报告中指出：现代经济的决定性特征不仅在于信息与[[Coding in Qualitative Research|编码]]知识的激增，更在于知识更新与折旧周期的急剧加快。因此，一个国家在知识经济中的核心能力，取决于其多快能够完成向“学习型经济（[[Learning Economy]]）”的转型；而学习绝不仅仅是利用现代信息技术获取全球编码化知识，更关乎与他人互动沟通以提升协作生产力的隐性能力与反思能力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
 >
 > *A nation's capacity in the knowledge-based economy depends on how quickly it can transition to a 'learning economy'... Learning is not simply about using new information and communications technologies to access global knowledge, but about communicating with others to enhance productivity.*
 
@@ -144,7 +145,7 @@ updated: 2026-10-14
 > [!person-network] 关系网络
 > - **合作者／思想盟友** [[Chris Freeman]] — 共同开创与推广[[National Innovation System|国家创新系统]]理论，在 SPRU 与奥尔堡学派之间长期保持深度协作。
 > - **合作者／思想盟友** [[Richard Nelson]] — 共同从[[Evolutionary Economics|演化经济学]]视角推进国家[[Systems of Innovation|创新系统]]跨国比较研究。
-> - **合作者／思想盟友** 多米尼克·福瑞（Dominique Foray）— 共同主编 [[OECD]] 1996 年报告《[[Knowledge-Based Economy|知识经济]]中的教育与增长》，系统构建“学习型经济”[[Analytic Framework|分析框架]]。
+> - **合作者／思想盟友** [[Dominique Foray|多米尼克·福瑞]]（Dominique Foray）— 共同主编 [[OECD]] 1996 年报告《[[Knowledge-Based Economy|知识经济]]中的教育与增长》，系统构建“学习型经济”[[Analytic Framework|分析框架]]。
 > - **学术前驱** [[Friedrich List]] — 伦德瓦尔公认李斯特是国家创新系统与[[Knowledge Production|知识生产]]力学说的思想先驱。
 > - **机构合作** [[OECD]] — 1990 年代主持编制 OECD 创新政策与国家创新系统评价指标体系。
 

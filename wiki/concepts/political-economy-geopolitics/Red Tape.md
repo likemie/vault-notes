@@ -51,6 +51,7 @@ related_persons:
   - "[[John Glenn]]"
   - "[[Hyman Rickover]]"
   - "[[Lee Kuan Yew]]"
+  - "[[Nikolas Rose]]"
 related_facts:
   - "[[Higher Education Autonomy and Quality]]"
   - "[[Federal Acquisition Streamlining Act of 1994]]"
@@ -251,7 +252,7 @@ updated: 2026-10-12
 
 > [!dev-timeline] 繁文缛节的词源与制度演进
 > - **19 世纪 — 词源确立** 英美政府普遍采用红色布带（Red Tape）捆扎官方文件与诉讼卷宗，逐渐演变为繁琐官僚形式主义的代名词。
-> - **1905 年 — 罗斯福基普委员会调查** 西奥多·罗斯福设立基普委员会（Keep Commission），查明联邦政府采购 278 种钢笔与 132 种铅笔，首次在国家层面系统揭示行政体制深陷繁文缛节泥潭。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, p. 148)]]
+> - **1905 年 — [[Nikolas Rose|罗斯]]福基普委员会调查** 西奥多·罗斯福设立基普委员会（Keep Commission），查明联邦政府采购 278 种钢笔与 132 种铅笔，首次在国家层面系统揭示行政体制深陷繁文缛节泥潭。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, p. 148)]]
 > - **1935 年 — [[Scapegoat Mechanism|替罪羊机制]]理论确立** [[Kenneth Burke|肯尼斯·伯克]]发表《持久与变迁》，揭示体制在面临制度摩擦与心理失调时通过寻找献祭容器转嫁责任的深层模式。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 188)]]
 > - **1950s–1980s — 核动力工程破局与微观道德清算** [[Hyman Rickover|海曼·里科弗]]烧毁海军条例打破规章束缚成功交付鹦鹉螺号核潜艇；1985 年官僚体制借 6.7 万美元通用动力小礼品对其发起道德审查，展示[[Procedural Piety|程序虔敬]]对实干者的反噬。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 184–187)]]
 > - **1980 年代 — 国防采购丑闻与公众觉醒** 媒体与国防部监察长揭露 435 美元普通锤子、400 美元塑料旋钮以及 700 页军用饼干标准，繁文缛节成为全国性政治批判焦点。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 148–149)]]

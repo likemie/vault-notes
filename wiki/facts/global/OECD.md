@@ -107,6 +107,8 @@ related_persons:
   - "[[George Papadopoulos]]"
   - "[[Jarl Bengtsson]]"
   - "[[Bengt-Åke Lundvall]]"
+  - "[[Nikolas Rose]]"
+  - "[[Alain Desrosières]]"
   - "[[Michael Gove]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
@@ -200,13 +202,13 @@ updated: 2026-10-14
 > - **最高决策中枢（理事会 Council）** 由全体成员国常驻大使代表及欧盟代表组成的高级别权力机构，负责审议工作规划、战略重点与财政预算，采取全体协商一致（Consensus）决策原则。
 > - **专业领导机构（教育政策委员会，EDPC 与 [[Centre for Educational Research and Innovation|CERI]] 理事会）** 由各成员国教育部高级官员与政策代表组成的常设专门委员会，统筹制定教育领域的跨国战略优先项与大型项目启动决议；早期教育委员会（1970 年设立）与[[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI，1968 年由福特基金会与壳牌资助创立）长期分工并立，包容成员国不同政策取向。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–442)]]
 > - **常设执行部门（教育与技能司，Directorate for Education and Skills）** 位于巴黎总部的常设专业研究与行政管理团队。2002 年前从属于教育、就业、劳工与社会事务司（DEELSA），2002 年正式分立为独立教育司，确立了秘书处强大的自主议程设置权与跨国统筹能力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 442–444)]]
-> - **全球外联中枢（非成员经济体合作处，Unit for Cooperation with Non-member Economies, NME）** 设立专门的全球外联机构，依托“全球关系项目”（Global Relations Programme）将非成员国（如中国、印度、巴西、俄罗斯）纳入 OECD 指标网络与跨国政策对话，并与[[UNESCO|联合国教科文组织]]、[[World Bank|世界银行]]联合推行“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators|WEI]]）项目，使 OECD 跨越成员国地理边界成为全球性政策行动者。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 442–443)]]
+> - **全球外联中枢（非成员经济体合作处，Unit for Cooperation with Non-member Economies, NME）** 设立专门的全球外联机构，依托“全球关系项目”（Global Relations Programme）将非成员国（如中国、印度、巴西、俄[[Nikolas Rose|罗斯]]）纳入 OECD 指标网络与跨国政策对话，并与[[UNESCO|联合国教科文组织]]、[[World Bank|世界银行]]联合推行“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators|WEI]]）项目，使 OECD 跨越成员国地理边界成为全球性政策行动者。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 442–443)]]
 > - **外部方法论与统计顾问网络** 汇聚全球顶尖心理测量学家、统计学家与比较教育学者的独立专家委员会，负责量化测评框架研发、[[Item Response Theory|项目反应理论]]建模与跨国等值性质控。
 
 在日常业务层面，OECD 通过精密的技术程序将复杂的各国内部教育实践转化为标准化的国际指标。
 
 > [!pathways]- 业务运行机制
-> - **议程设置与跨国[[Space of Equivalence|等值空间]]虚构** 研判全球宏观经济转型与劳动力技能演进趋势，运用法国统计学家阿兰·德罗西埃（Alain Desrosières）所称的“制造等值空间”（fabricating spaces of equivalence），直接生产可跨国[[Commensuration|通约]]的测试情境，以统计[[Reliability|信度]]（reliability）压倒本土效度（validity），使数字本身成为免于实质辩论的客观政策依据。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> - **议程设置与跨国[[Space of Equivalence|等值空间]]虚构** 研判全球宏观经济转型与劳动力技能演进趋势，运用法国统计学家[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières）所称的“制造等值空间”（fabricating spaces of equivalence），直接生产可跨国[[Commensuration|通约]]的测试情境，以统计[[Reliability|信度]]（reliability）压倒本土效度（validity），使数字本身成为免于实质辩论的客观政策依据。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 > - **远处掌舵与多层网络调控** 借鉴尼古拉斯·罗斯（Nikolas Rose）的“远处掌舵”（[[Steering at a Distance]]）与“数字即政策”（policy as numbers）治理技术：通过公开排行榜在各受测国内部引发“[[PISA]] 冲击”与改革恐慌，促使主权国家官僚机构自觉将课程与问责体系对齐 OECD 指标，在不具备直接立法强制力的情况下有效重塑民族国家教育治理。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–447)]]
 > - **研究开发与跨国标准化施测** 研制标准化测评框架与背景[[Questionnaire|问卷]]，指导各参与国设立的国家项目中心（National Project Centers）进行严密的[[Going Native|本土化]]双向翻译、抽样与计算机化施测。
 > - **质量控制与同行审查** 采用项目反应理论（Item Response Theory，IRT）与潜[[Variable|变量]]模型消除跨文化题项偏差，通过发布国别政策[[Peer Debriefing|同行审议]]报告（Peer Review）形成具有广泛舆论反响的国际比较结论。
@@ -308,13 +310,13 @@ updated: 2026-10-14
 > > 围绕 OECD 在 1990 年代中期后如何重塑教育目的以及如何处理公平、性别与社会凝聚力等社会价值的学理争鸣。
 > >
 > > - **社会民主主义与“新新人文主义”时期（1960–1990）** 帕帕多普洛斯（Papadopoulos, 1994）指出，OECD 早期虽源于人力资本考量，但在欧洲社会民主主义成员国影响下包容了多元社会与文化目的，形成恩斯特·哈斯所谓的“不连贯妥协”，将教育定性为培育批判性民主公民与维护社会凝聚力的纯粹公共物品，国别审查严格坚持自愿与因国制宜（*sui generis*）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 437–439, 450–451)]]
-> > - **新自由主义[[Social Imaginary|社会想象]]与社会正义残余化（1990 年代中期后）** [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]指出，1990 年代中期后 OECD 陷入乔治·索罗斯（George Soros）所称的“经济基要主义”（economic fundamentalism），将教育从民主公共物品降格为追求国家全球竞争力与个人市场溢价的公私混合商品；教育公平、性别平权与社会资本并未被公然废除，而是遭遇系统性“残余化”（residualization）收编——实质正义被抽空，退化为服务于[[Knowledge-Based Economy|知识经济]]劳动力储备、风险自担与经济效率最大化的附庸治理工具；与此同时，其与世界银行、教科文组织联合向转型经济体推行的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators|WEI]]）亦将新自由主义规范预设隐蔽地包裹在技术援助之中。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443, 448–452)]]
+> > - **新自由主义[[Social Imaginary|社会想象]]与社会正义残余化（1990 年代中期后）** [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]指出，1990 年代中期后 OECD 陷入乔治·索[[Nikolas Rose|罗斯]]（George Soros）所称的“经济基要主义”（economic fundamentalism），将教育从民主公共物品降格为追求国家全球竞争力与个人市场溢价的公私混合商品；教育公平、性别平权与社会资本并未被公然废除，而是遭遇系统性“残余化”（residualization）收编——实质正义被抽空，退化为服务于[[Knowledge-Based Economy|知识经济]]劳动力储备、风险自担与经济效率最大化的附庸治理工具；与此同时，其与世界银行、教科文组织联合向转型经济体推行的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators|WEI]]）亦将新自由主义规范预设隐蔽地包裹在技术援助之中。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443, 448–452)]]
 >
 > > [!axis] 跨国[[Space of Equivalence|等值空间]]的统计制造与“数字即政策”的去政治化[[Disciplina and Doctrina|规训]]
 > > 围绕经合组织 PISA 测验是否凭借统计技术虚构了脱离文化脉络的跨国等值空间，以“数字即政策”掩盖政治价值权衡。
 > >
 > > - **跨国[[Commensuration|通约]]客观论（机构立场）** 经合组织坚称，全球化时代需要超越狭隘本土课程大纲的统一素养标准；通过先进的心理计量学建模与[[Item Response Theory|项目反应理论]]，能够消除文化题项偏差，为各国客观诊断面向 21 世纪经济挑战的关键技能提供科学镜像。
-> > - **等值空间建构与效度消解批判（统计社会学视角）** 法国统计社会学家阿兰·德罗西埃（Alain Desrosières）与政策学者指出，跨国测量并非反映先验存在的客观实体，而是在凭空“制造等值空间”（fabricating spaces of equivalence）；PISA 将跨国可比性与统计[[Reliability|信度]]置于教育本体与[[Construct Validity|构念效度]]之上。数字的统治力量在于将背后极具争议的主观政治判断与价值预设彻底隐形化，诱发“数字即政策”（policy as numbers）的技术官僚迷信，使复杂的[[Democratic Education|民主教育]]价值辩论在客观数字的伪装下被强行终结。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> > - **等值空间建构与效度消解批判（统计社会学视角）** 法国统计社会学家[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières）与政策学者指出，跨国测量并非反映先验存在的客观实体，而是在凭空“制造等值空间”（fabricating spaces of equivalence）；PISA 将跨国可比性与统计[[Reliability|信度]]置于教育本体与[[Construct Validity|构念效度]]之上。数字的统治力量在于将背后极具争议的主观政治判断与价值预设彻底隐形化，诱发“数字即政策”（policy as numbers）的技术官僚迷信，使复杂的[[Democratic Education|民主教育]]价值辩论在客观数字的伪装下被强行终结。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 
 > [!citation-card] 《[[PISA]] 2000：测量学生知识与技能》前言（2000年）
 > 随着经济全球化和技术变革对劳动者技能提出更高要求，PISA 测验旨在评估学生在义务教育结束时是否具备了完全参与社会和经济生活所需的关键知识和技能。经合组织通过提供跨国可比的实证基础，支持各国政府优化其教育政策。

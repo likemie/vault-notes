@@ -32,6 +32,7 @@ related_persons:
   - "[[Isaiah Berlin]]"
   - "[[Max Planck]]"
   - "[[Franklin D. Roosevelt]]"
+  - "[[Nikolas Rose]]"
 related_facts:
   - "[[Einstein-Szilard Letter]]"
   - "[[Manhattan Project]]"
@@ -109,7 +110,7 @@ updated: 2026-10-08
 
 > [!person-network] 关系网络
 > - **合作者** 阿尔伯特·爱因斯坦 — 共同起草1939年佩科尼克致[[Franklin D. Roosevelt|罗斯福总统]]信函，促成国家核计划立项。
-> - **国家首脑** 富兰克林·D. 罗斯福 — 信函接收人，决断开启国家级常态化科学动员与[[Manhattan Project|曼哈顿工程]]。
+> - **国家首脑** 富兰克林·D. [[Nikolas Rose|罗斯]]福 — 信函接收人，决断开启国家级常态化科学动员与[[Manhattan Project|曼哈顿工程]]。
 > - **重大工程** [[Manhattan Project|曼哈顿工程]] — 科学发起人之一，在芝加哥一号堆中实现链式反应工程化突破。
 
 ---

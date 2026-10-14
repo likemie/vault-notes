@@ -65,6 +65,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Correlational Research]]"
 related_persons:
+  - "[[Dominique Foray]]"
   - "[[Bengt-Åke Lundvall]]"
   - "[[Robert Arnove]]"
   - "[[Fazal Rizvi]]"
@@ -110,7 +111,7 @@ updated: 2026-10-13
 > - **用途** 在政策研究中，它一方面被用作分析全球化[[Knowledge-Based Economy|知识经济]]与产业变革下劳动力技能升级的分析工具；另一方面作为批判透镜，揭示官方借用国际流行[[Discourse|话语]]以合法化本土课程改革的修辞机制。
 > - **边界** 终身学习不应被窄化为纯粹服务劳动力市场[[Employability|就业能力]]的职业培训，亦不应演变为将国家公共教育保障责任推卸给个体的借口，而是必须依托普惠均等的公共社会与文化基础设施予以制度化支撑。
 
-> [!citation-card] 福雷与[[Bengt-Åke Lundvall|伦德瓦尔]]论知识折旧下的终身[[Learning Economy|学习经济]]命令
+> [!citation-card] [[Dominique Foray|福雷]]与[[Bengt-Åke Lundvall|伦德瓦尔]]论知识折旧下的终身[[Learning Economy|学习经济]]命令
 > 在知识经济中，对既有事实和理论的静态占有（knowing that）迅速贬值，将知识转化为商业创新与生产力协作的实践网络与操作能力（[[Procedural Knowledge|knowing how]]）成为关键。多米尼克·福雷与本特-奥克·伦德瓦尔（Foray & Lundvall, 1996）指出，国家吸纳新经济的能力取决于其转型为学习型经济的速度；财富创造与持续学习及分享创新的沟通能力直接绑定。在此背景下，学习必须突破正规学龄教育的藩篱，演变为贯穿一生的终身学习命令。[[OECD|经合组织]]由此将终身学习确立为新自由主义[[Social Imaginary|社会想象]]的核心基石，并在[[PISA|国际学生评估项目]]中专门测查受测学生应对现实挑战的终身学习倾向。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–447)]]
 >
 > *Learning, Foray and Lundvall argue, should not only involve the ability to use new technologies to access global knowledge, but should also mean using technology to communicate with other people about how to improve productivity. This implies that individuals, corporations, and nations create wealth in proportion to their capacity to learn and share innovation. If this is so then learning must be continuous and not restricted to formal schooling – that is, it must be lifelong learning. ([[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, p. 446]]; citing Foray & Lundvall, 1996)*
@@ -127,7 +128,7 @@ updated: 2026-10-13
 > - **1970–1980 年代 [[OECD|经合组织]] [[Centre for Educational Research and Innovation|CERI]] 支持“循环教育与终身学习”** 经合组织教育研究与[[Innovation Hub|创新中心]]（Centre for Educational Research and Innovation, CERI）赞助多项循环教育（recurrent education）与终身学习项目，彼时主要支持成员国社会民主主义福利国家议程，强调教育资源向弱势群体的二次再分配。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 441)]]; Papadopoulos (1994)
 > - **1972 年 [[UNESCO|联合国教科文组织]]《学会生存》报告奠基** 联合国教科文组织（UNESCO）发布《学会生存》（Learning to Be: The World of Education Today and Tomorrow，Faure 报告），首次在国际层面系统确立终身教育理念，强调教育的人本主义属性与个体自由全面发展。
 > - **1996 年 德洛尔报告确立四大支柱与应对全球化挑战** 联合国教科文组织发布《教育：财富蕴藏其中》（Learning: The Treasure Within，Delors 报告），将终身学习凝练为四大支柱：学会认知（Learning to know）、学会做事（Learning to do）、学会共处（Learning to live together）以及学会生存（Learning to be），并警惕经济全球化与纯粹功利主义可能侵蚀社会连带；但国际多边治理主导权已开始向国际金融机构倾斜。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
-> - **1996 年 [[OECD|经合组织]]推动学习型经济与终身学习[[Paradigm|范式]]重塑** 经合组织出版多米尼克·福雷与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]编著的《[[Knowledge-Based Economy|知识经济]]中的教育与增长》，确立“向学习型经济转型”论断；终身学习被重新定义为知识快速折旧下维持国家与个体财富创造能力的必要前提，学习重心从[[Knowledge-that and Know-how-to|知其然]]（knowing that）转向掌握实践操作诀窍（[[Procedural Knowledge|knowing how]]）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
+> - **1996 年 [[OECD|经合组织]]推动学习型经济与终身学习[[Paradigm|范式]]重塑** 经合组织出版[[Dominique Foray|多米尼克·福雷]]与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]编著的《[[Knowledge-Based Economy|知识经济]]中的教育与增长》，确立“向学习型经济转型”论断；终身学习被重新定义为知识快速折旧下维持国家与个体财富创造能力的必要前提，学习重心从[[Knowledge-that and Know-how-to|知其然]]（knowing that）转向掌握实践操作诀窍（[[Procedural Knowledge|knowing how]]）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
 > - **1990 年代末至 2000 年代初 [[Knowledge-Based Economy|知识经济]]主导与[[Policy Borrowing|政策借用]]转向** 伴随全球化进程，终身学习被[[World Bank|世界银行]]（[[World Bank]]）与 [[OECD]] 深度重塑为服务[[Knowledge-Based Economy|知识经济]]与劳动力市场[[Employability|就业能力]]的工具；各国政府亦频繁借用终身学习[[Discourse|话语]]作为[[Externalization|外部化]]国内矛盾的政策工具。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, p. 487)]]
 > - **2000 年代 [[OECD]] 依托 [[PISA]] 量化测查终身学习倾向** 经合组织启动国际学生评估项目（PISA），宣称其不测验课程既定知识记忆，而是评估义务教育结束阶段学生在应对真实生活挑战时的“终身学习倾向”（dispositions for lifelong learning），将终身学习理念融入跨国度量空间与排位竞争。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 447)]]
 > - **2006 年与 2018 年 欧盟[[21st Century Skills and Competencies Discourse|关键能力]]框架** 欧洲联盟（European Union, EU）发布并更新《终身学习核心素养建议书》（[[EU Key Competences for Lifelong Learning]]），确立了包括科学、数学、数字素养、公民素养及[[Learner Autonomy|自主学习]]在内的八大终身学习关键能力。
@@ -205,7 +206,7 @@ updated: 2026-10-13
 > 在新增长理论与[[OECD|经合组织]]的推动下，终身学习脱离了早期的福利民主保障内涵，被深度整合进知识经济与学习型经济的[[Technical Rationality|技术理性]]逻辑中。
 
 > [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]] (2009)
-> **终身学习从福利权利向生产力生存命令与可测倾向的[[Paradigm|范式]]重塑** 里兹维与林加德结合多米尼克·福雷与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Foray & Lundvall, 1996）的研究指出，在[[Knowledge-Based Economy|知识经济]]中，静态的事实性与[[Theoretical Knowledge|理论性知识]]（knowing that）面临快速折旧，决定生产力与财富创造的是掌握实践操作诀窍（[[Procedural Knowledge|knowing how]]）、利用技术与他人沟通协作以及分享创新的动态能力。国家能否汲取新经济的红利，取决于其转型为学习型经济的速度；由此，学习必须打破正规学龄教育的垄断，演变为贯穿全生命周期的常态化实践。经合组织不仅将终身学习确立为新自由主义[[Social Imaginary|社会想象]]的支柱，更通过[[PISA|国际学生评估项目]]（[[PISA]]）将其制度化为跨国度量标准——宣称其测查的是学生在义务教育终点应对真实生活挑战时的“终身学习倾向”（dispositions for lifelong learning）。这一机制将教育的公共与文化目的彻底从属于经济目标，将终身适应劳动力市场转化为个体的绝对生存命令。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–447)]]
+> **终身学习从福利权利向生产力生存命令与可测倾向的[[Paradigm|范式]]重塑** 里兹维与林加德结合[[Dominique Foray|多米尼克·福雷]]与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Foray & Lundvall, 1996）的研究指出，在[[Knowledge-Based Economy|知识经济]]中，静态的事实性与[[Theoretical Knowledge|理论性知识]]（knowing that）面临快速折旧，决定生产力与财富创造的是掌握实践操作诀窍（[[Procedural Knowledge|knowing how]]）、利用技术与他人沟通协作以及分享创新的动态能力。国家能否汲取新经济的红利，取决于其转型为学习型经济的速度；由此，学习必须打破正规学龄教育的垄断，演变为贯穿全生命周期的常态化实践。经合组织不仅将终身学习确立为新自由主义[[Social Imaginary|社会想象]]的支柱，更通过[[PISA|国际学生评估项目]]（[[PISA]]）将其制度化为跨国度量标准——宣称其测查的是学生在义务教育终点应对真实生活挑战时的“终身学习倾向”（dispositions for lifelong learning）。这一机制将教育的公共与文化目的彻底从属于经济目标，将终身适应劳动力市场转化为个体的绝对生存命令。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–447)]]
 
 ---
 

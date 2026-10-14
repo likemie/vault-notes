@@ -97,6 +97,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Donald A. Schön]]"
+  - "[[Nikolas Rose]]"
   - "[[Aristotle]]"
   - "[[John Hattie]]"
   - "[[Peter A. Hall]]"
@@ -161,7 +162,7 @@ updated: 2026-10-14
 > *Evidence does not speak for itself (Coburn et al., 2009)... The focus within much of the literature has been on the production and availability of research rather than its use... High-quality use requires not just appropriate evidence, but thoughtful engagement by professionals who interpret, debate and integrate research within their specific context.*
 
 > [!citation-card] 里兹维与林加德论技术理性对教育哲学辩论的遮蔽与数字霸权
-> [[OECD|经合组织]]在教育统计领域的技术专长赋予了所谓的“数字进路”以政策特权，这种进路[[Epoché|悬置]]了关于教育目的的广泛哲学讨论，转而聚焦于投入产出系统，企图仅就国家教育系统的效率与效能提供政策洞见……通过这种政策研究的技术进路，经合组织成功地使技术优先于政治。正如罗斯（Rose, 1999）所论证的，数字的力量恰恰在于“使衡量、尺度与数字背后极其复杂的判断与决断变得隐形且不可辩驳”。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+> [[OECD|经合组织]]在教育统计领域的技术专长赋予了所谓的“数字进路”以政策特权，这种进路[[Epoché|悬置]]了关于教育目的的广泛哲学讨论，转而聚焦于投入产出系统，企图仅就国家教育系统的效率与效能提供政策洞见……通过这种政策研究的技术进路，经合组织成功地使技术优先于政治。正如[[Nikolas Rose|罗斯]]（Rose, 1999）所论证的，数字的力量恰恰在于“使衡量、尺度与数字背后极其复杂的判断与决断变得隐形且不可辩驳”。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 >
 > *This expertise however privileges what might be referred to as 'a number approach' to policy work, which sidelines the broader philosophical discussions of educational purpose, focussing instead on an input/output systems; attempting to offer policy insights about the efficiency and effectiveness of national educational systems... In this way, the technical is privileged over the political, and the popular [[Social Imaginary|Social Imaginary of the Knowledge Economy]] is sustained. As Rose (1999) has argued, policy as numbers tends to do this – the power of numbers is such that they 'render invisible and hence incontestable – the complex array of judgements and decisions that go into a measurement, a scale, a number'.*
 
@@ -259,7 +260,7 @@ updated: 2026-10-14
 > **德语区新治理调控工具的技术理性成效缺失与理论-实践困境重现** 维罗妮卡·马尼蒂乌斯与诺伯特·范[[Peter A. Hall|霍尔]]特（Veronika Manitius & Norbert van Holt, 2019）剖析了德语区新治理调控工具背后的技术理性假定。政策系统设想通过标准化统考（如全域比较联考（[[Vergleichsarbeiten]], VERA））与学校外部督导（Schulinspektion, SI）生成监测数据，并以此向单体学校回传以倒逼教学质量改进。然而，实证研究证实这种手段-目的式的直接技术回传在单体学校普遍面临成效缺失（mangelnde Effekte），并未自发转化为微观教学行为的改善。这一实践失败表明，将宏观监测数据直接等同于微观改进处方的技术理性闭合调控假定不仅严重脱离学校复杂生态，更让经典的理论-实践问题（Theorie-[[Praxis]]-Problem）在新治理技术包装下再次重现。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 9)]]
 
 > [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] / Rose (1999)
-> **跨国教育治理中技术理性对政治哲学辩论的替代与数字去政治化霸权** [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]系统剖析了冷战后[[OECD|经合组织]]如何通过技术官僚理性完成全球教育治理集权。自 20 世纪 90 年代中期起，经合组织内部关于教育多重目的与社会民主主义条件的哲学辩论被全面边置，取而代之的是由秘书处主导的跨国绩效监测、协调管理与行政优先事项的技术设定；这种技术理性以实证主义投入-产出系统为模型，将教育窄化为服务于[[Knowledge-Based Economy|知识经济]]与[[Competitiveness|国家竞争力]]的经济效率工具。借助尼古拉斯·罗斯（Nikolas Rose, 1999）的“数字即政策”学说，作者揭示跨国指标与 [[PISA]] 评测背后的技术理性不仅未消除价值预设，反而以无可争议的客观数字表象，隐蔽了指标编制背后的新自由主义规范性决断，制造出技术压倒政治、效率置换哲学的跨国技术官僚霸权。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–442, 447–448)]]
+> **跨国教育治理中技术理性对政治哲学辩论的替代与数字去政治化霸权** [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]系统剖析了冷战后[[OECD|经合组织]]如何通过技术官僚理性完成全球教育治理集权。自 20 世纪 90 年代中期起，经合组织内部关于教育多重目的与社会民主主义条件的哲学辩论被全面边置，取而代之的是由秘书处主导的跨国绩效监测、协调管理与行政优先事项的技术设定；这种技术理性以实证主义投入-产出系统为模型，将教育窄化为服务于[[Knowledge-Based Economy|知识经济]]与[[Competitiveness|国家竞争力]]的经济效率工具。借助[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose, 1999）的“数字即政策”学说，作者揭示跨国指标与 [[PISA]] 评测背后的技术理性不仅未消除价值预设，反而以无可争议的客观数字表象，隐蔽了指标编制背后的新自由主义规范性决断，制造出技术压倒政治、效率置换哲学的跨国技术官僚霸权。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–442, 447–448)]]
 
 ---
 

@@ -66,6 +66,8 @@ related_persons:
   - "[[Nicholas Zamiska]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
+  - "[[Nikolas Rose]]"
+  - "[[Alain Desrosières]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
@@ -226,7 +228,7 @@ updated: 2026-10-14
 > [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]]
 > **制度历史脉络的括弧化与全球[[Space of Equivalence|等值空间]]建构** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，[[OECD|经合组织]]在推行指标、基准与[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）等量化测评工具时，在认识论上运作了一种强硬的“本体论悬置”（ontological epoché）。它系统性地将具体民族国家深嵌的历史沿革、制度惯例、文化特殊性与政治争议统统放入括号，制造出一个去语境化、均质化的“全球等值[[Commensuration|通约]]空间”（global space of equivalence）。通过这种悬置，不可比的各国教育实践被强行还原为抽象数字并置于统一标尺之下，使经合组织得以在规避直接主权冲突的前提下行使超国家治理权力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 448)]]
 
-> [!claim] Rose, N.; Desrosières, A.
+> [!claim] [[Nikolas Rose|Rose, N.]]; [[Alain Desrosières|Desrosières, A.]]
 > **数字治理与等值通约的技术合法性** 尼古拉斯·罗斯（Nikolas Rose）与阿兰·德罗西耶尔（Alain Desrosières）论证，依靠数字治理的政治效能正在于其等值通约（commensuration）功能：数字不仅反映现实，更主动制造现实。量化技术通过悬置复杂的本土质性背景，将异质现象转化为同质量化单位，赋予技术官僚治理以不受政治意识形态挑战的“客观中立”假象。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 448)]]
 
 > [!claim-table] 悬置核心命题汇总

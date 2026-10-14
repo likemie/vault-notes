@@ -92,7 +92,10 @@ related_instruments: []
 related_persons:
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
+  - "[[Dominique Foray]]"
   - "[[Bengt-Åke Lundvall]]"
+  - "[[Alain Desrosières]]"
+  - "[[Nikolas Rose]]"
   - "[[George Papadopoulos]]"
   - "[[Diane Elson]]"
   - "[[Pierre Bourdieu]]"
@@ -142,8 +145,8 @@ updated: 2026-10-14
 > |----------|----------|
 > | **[[Social Imaginary\|社会想象理论]]**<br>Social Imaginary | 引入哲学家查尔斯·泰勒（Charles Taylor）与人类学家阿尔君·阿帕杜莱（Arjun Appadurai）的构念，指行动者理解自身社会存在、人际纽带与规范期待的共享图景。用于阐明[[OECD\|经合组织]]如何在缺乏主权强制力的情况下，通过政策报告与媒体传播扩散[[Knowledge-Based Economy\|知识经济]]社会想象，使各成员国自发将市场化与国际竞争视为理所当然的真理。（pp. 444–445） |
 > | **[[New Growth Theory\|内生新增长理论]]**<br>New Growth Theory | 借鉴经济学家保罗·罗默（Paul Romer）与彼得·豪伊特（Peter Howitt）的内生增长模型，认为知识、创意与技术创新并非外生[[Variable\|变量]]，而是经济持续增长的内生源泉。为经合组织将教育直接定性为生产力要素提供经济学学理支撑，论证研发投入与[[Human Capital Theory\|人力资本]]升级何以成为决定[[Competitiveness\|国家竞争力]]的核心支柱。（p. 445） |
-> | **[[Learning Economy\|学习型经济与技能转向]]**<br>Learning Economy | 采纳多米尼克·福雷（Dominique Foray）与本特-奥克·[[Bengt-Åke Lundvall\|伦德瓦尔]]（Bengt-Åke Lundvall）的分析框架，强调现代经济竞争的关键在于快速学习与应用知识的能力，主张由关注事实知识（knowing that）转向操作方法与人际网络（knowing how）。用于解释经合组织为何推动学校教育脱离传统学科体系而倒向面向职场的实用操作技能，并大力倡导全生命周期的[[Lifelong Learning\|终身学习]]。（pp. 445–446） |
-> | **[[Governing by Numbers\|数字治理]]与[[Space of Equivalence\|等值空间]]**<br>Governing by Numbers & Space of Equivalence | 整合法国统计社会学家阿兰·德罗西埃（Alain Desrosières）的[[Space of Equivalence\|等值空间]]与英国社会学家尼古拉斯·罗斯（Nikolas Rose）的数字即政策学说。用于揭示跨国量化测评如何自行生产数据并强行构筑全球可比的[[Space of Equivalence\|等值空间]]，利用数字的客观表象掩盖主观政治决断，通过联赛排名与[[Peer Pressure\|同侪压力]]达成超越边境的远程[[Disciplina and Doctrina\|规训]]。（pp. 447–448） |
+> | **[[Learning Economy\|学习型经济与技能转向]]**<br>Learning Economy | 采纳[[Dominique Foray\|多米尼克·福雷]]（Dominique Foray）与本特-奥克·[[Bengt-Åke Lundvall\|伦德瓦尔]]（Bengt-Åke Lundvall）的分析框架，强调现代经济竞争的关键在于快速学习与应用知识的能力，主张由关注事实知识（knowing that）转向操作方法与人际网络（knowing how）。用于解释经合组织为何推动学校教育脱离传统学科体系而倒向面向职场的实用操作技能，并大力倡导全生命周期的[[Lifelong Learning\|终身学习]]。（pp. 445–446） |
+> | **[[Governing by Numbers\|数字治理]]与[[Space of Equivalence\|等值空间]]**<br>Governing by Numbers & Space of Equivalence | 整合法国统计社会学家[[Alain Desrosières\|阿兰·德罗西埃]]（Alain Desrosières）的[[Space of Equivalence\|等值空间]]与英国社会学家[[Nikolas Rose\|尼古拉斯·罗斯]]（Nikolas Rose）的数字即政策学说。用于揭示跨国量化测评如何自行生产数据并强行构筑全球可比的[[Space of Equivalence\|等值空间]]，利用数字的客观表象掩盖主观政治决断，通过联赛排名与[[Peer Pressure\|同侪压力]]达成超越边境的远程[[Disciplina and Doctrina\|规训]]。（pp. 447–448） |
 > | **[[New Public Management\|新公共管理与远处掌舵]]**<br>New Public Management (NPM) & Steering at a Distance | 汲取20世纪80年代以来的政府改革浪潮与经合组织1995年治理报告，主张政府放弃繁琐的过程控制，转向确立绩效目标、放权运营与基于结果的质量审计。用于解释经合组织如何将行政管理模式迁移至全球教育体系，通过国际基准对标与[[Performance Indicators\|绩效指标]]实现不直接介入日常管理却能引导政策走向的远处掌舵。（pp. 441, 447） |
 
 > [!warrant]- 理论如何支撑论证
@@ -354,7 +357,7 @@ updated: 2026-10-14
 > - **演进：从[[Discipline-Based Theory|学科理论]]知识转向实用操作技能与[[Tacit Knowledge|默会知识]]**
 >   学习重心从正规书本上关于客观事实与理论的[[Coding in Qualitative Research|编码]]认知（knowing that），全面倒向关于如何在复杂关系网络中运作的操作能力（[[Procedural Knowledge|knowing how]]）与实践性默会技能。（pp. 445–446）
 > - **结论：学习型经济中默会能力的稀缺性与终身学习的必然性**
->   多米尼克·福雷与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Foray & Lundvall, 1996）指出，信息技术使编码知识的获取与传输边际成本骤降，这反而使得无法被算法完全替代的[[Tacit Knowledge|默会知识]]与持续探究技能成为稀缺资本；国家必须迅速转变为学习型经济，促使劳动力在正规学校之外终身不断更新默会技能，以维持在动态市场中的[[Competitiveness|竞争力]]。（p. 445）
+>   [[Dominique Foray|多米尼克·福雷]]与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Foray & Lundvall, 1996）指出，信息技术使编码知识的获取与传输边际成本骤降，这反而使得无法被算法完全替代的[[Tacit Knowledge|默会知识]]与持续探究技能成为稀缺资本；国家必须迅速转变为学习型经济，促使劳动力在正规学校之外终身不断更新默会技能，以维持在动态市场中的[[Competitiveness|竞争力]]。（p. 445）
 
 > [!implication]- 知识经济社会想象对人本教育的剥蚀后果
 > 在这一社会想象的支配下，人际交往与文化传承被整体还原为自由竞争市场中理性自利个体的经济博弈；教育制度改革彻底沦为提高人力资本投资回报率的调适工具，遮蔽了[[Critical Thinking|批判性思维]]与公民民主参与的深层价值。（p. 446）
@@ -374,7 +377,7 @@ updated: 2026-10-14
 > - **三年一周期的15岁义务教育终期监测** 针对即将完成义务教育的15岁学童，每三年施测一次，主要考查阅读、数学、科学（2003年首次增加问题解决能力），评估其应用知识应对现实挑战的实际技能。（p. 447）
 > - **独立于国家课程的独立试题研发** 测试内容完全不以任何参与国的具体教学大纲或课程标准为依据，而是委托跨国商业与专业学术机构组成的专家财团直接针对现实情境进行专门开发。（p. 448）
 > - **跨文化无偏见与翻译标准化的技术追求** 投入大量成本进行文化公平性测试与严格的双向翻译，以确保测试跨越不同语言与国别的绝对统计可比性。
-> - **自行生产数据以构筑等值空间（[[Space of Equivalence]]）** 引入阿兰·德罗西埃（Alain Desrosières, 1998）的概念，PISA并不是被动收集各国的既有成绩，而是凭空打造了一个标准化的度量尺度，强行建立起可[[Commensuration|通约]]的比较空间。
+> - **自行生产数据以构筑等值空间（[[Space of Equivalence]]）** 引入法国统计学家[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）的概念，PISA并不是被动收集各国的既有成绩，而是凭空打造了一个标准化的度量尺度，强行建立起可[[Commensuration|通约]]的比较空间。
 
 > [!critique-method] 统计[[Reliability|信度]]压倒[[Construct Validity|构念效度]]的方法论代价
 > - **跨国可比性对教育本质的剥离** PISA不遗余力地追求测试工具在所有国家稳定复现的跨国统计信度（reliability），却牺牲了对真实教育情境与多元教学目标的构念效度（[[Construct]] validity）。（p. 448）
@@ -384,8 +387,8 @@ updated: 2026-10-14
 
 量化数字之所以具有无可比拟的政策号召力，正是因为其技术外观成功[[Screening Off|屏蔽]]了背后的政治考量。（p. 448）
 
-> [!critique] 罗斯数字即政策理论在教育治理中的应用剖析
-> - **复杂主观裁决的彻底隐形化** 英国社会学家尼古拉斯·罗斯（Nikolas Rose, 1999, p. 208）深刻指出，[[Governing by Numbers|数字治理]]的威权在于其“能够将构成测度、尺度与数字背后的大量复杂判断与主观决策变得不可见，因而在很大程度上也变得不容置疑”。
+> [!critique] [[Nikolas Rose|罗斯]]数字即政策理论在教育治理中的应用剖析
+> - **复杂主观裁决的彻底隐形化** 英国社会学家[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose, 1999, p. 208）深刻指出，[[Governing by Numbers|数字治理]]的威权在于其“能够将构成测度、尺度与数字背后的大量复杂判断与主观决策变得不可见，因而在很大程度上也变得不容置疑”。
 > - **从目的辨析滑向排名焦虑** 各国媒体与政客在面对PISA报告时，几乎所有的注意力都集中在各国名次的联赛排行榜（[[Global Universities Rankings|league tables]]）上，技术问题彻底压倒了关于教育哲理方向的探讨。（p. 448）
 
 > [!case] PISA跨国反响的两极案例：德国震荡与芬兰实验室
@@ -499,7 +502,7 @@ PISA除了测试核心认知能力外，还通过庞大的[[Questionnaire|问卷
 > *The OECD reifies globalization, that is, it treats the concept in an ontologized manner, as if it refers to an objective and self-evident entity. However, this understanding of globalization masks the fact that it presupposes a particular set of normative assumptions about how the world economic order should be organized and governed. It ignores the role that subjective agency – both individual and collective – plays in how historical changes might be shaped and steered, and the fact that the vision of globalization promoted by the OECD reflects a deliberate ideological project of economic liberalization (Bourdieu, 2003), which privileges a particular politico-economic philosophy, replacing national economic development perspectives with a singular global view of the economy.*
 
 > [!citation-card] [[PISA]]测评制造全球[[Space of Equivalence|等值空间]]与跨国[[Reliability|信度]]优先原则
-> 国际学生评估项目（PISA）由此创造了一个可[[Commensuration|通约]]的测量空间，或者用阿兰·德罗西埃（Desrosières, 1998）的术语来说，创造了一个全球性的[[Space of Equivalence|等值空间]]。在统计技术的层面上，信度与跨国比较被赋予了绝对优先于效度与[[Ontology|本体论]]的崇高地位——也就是不再要求对被测量的事物保持概念上的深刻敏锐性。……数字所具有的力量恰恰在于，它们将构成一次测量、一个刻度、一个数字背后所涉及的大量复杂判断与决策完全变得不可见，因而也变得无可辩驳（Rose, 1999: 208）。可以说，如果没有[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]对其核心论断的有力呼应，PISA的迅速崛起是根本不可能实现的。（pp. 447–448）
+> 国际学生评估项目（PISA）由此创造了一个可[[Commensuration|通约]]的测量空间，或者用[[Alain Desrosières|阿兰·德罗西埃]]（Desrosières, 1998）的术语来说，创造了一个全球性的[[Space of Equivalence|等值空间]]。在统计技术的层面上，信度与跨国比较被赋予了绝对优先于效度与[[Ontology|本体论]]的崇高地位——也就是不再要求对被测量的事物保持概念上的深刻敏锐性。……数字所具有的力量恰恰在于，它们将构成一次测量、一个刻度、一个数字背后所涉及的大量复杂判断与决策完全变得不可见，因而也变得无可辩驳（Rose, 1999: 208）。可以说，如果没有[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]对其核心论断的有力呼应，PISA的迅速崛起是根本不可能实现的。（pp. 447–448）
 >
 > *PISA thus creates a commensurable space of measurement or in Alain Desrosières’ (1998) terms, a global “space of equivalence.” In terms of statistical technologies, reliability and comparison take priority over validity and ontology – being conceptually acute about what is being measured. ... As Rose (1999) has argued, policy as numbers tends to do this – the power of numbers is such that they “render invisible and hence incontestable – the complex array of judgements and decisions that go into a measurement, a scale, a number” (Rose, 1999: 208). Arguably then PISA’s [[Research in Schools Evaluation|RISE]] and rise would not have been possible without the social imaginary of knowledge economy complementing its central claims.*
 

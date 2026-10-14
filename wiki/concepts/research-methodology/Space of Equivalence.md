@@ -41,8 +41,10 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Alain Desrosières]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
+  - "[[Nikolas Rose]]"
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
@@ -61,7 +63,7 @@ updated: 2026-10-14
 ## 定义
 
 > [!def] 核心定义
-> **等值空间（Space of Equivalence）**由法国统计社会学家阿兰·德罗西埃（Alain Desrosières, 1998）提出，指统计度量绝非对外部客观实在的被动映射，而是通过制度化创设统一的分类[[Coding in Qualitative Research|编码]]、基准刻度与公分母，在异质的社会实体、机构与实践之间强行建立起可相互[[Commensuration|通约]]的均质化度量空间。在跨国教育治理中，以[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）为代表的量化测评通过自建脱离具体课程情境的[[Scale of Measurement|测量尺度]]，构筑起全球教育成效的等值空间，以统计[[Reliability|信度]]置换情境[[Construct Validity|构念效度]]并[[Epoché|悬置]]教育[[Ontology|本体论]]，使主观的政治决策转化为无可辩驳的技术中立数据，支撑超国家组织对主权国家的远处掌舵。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+> **等值空间（Space of Equivalence）**由法国统计社会学家[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）提出，指统计度量绝非对外部客观实在的被动映射，而是通过制度化创设统一的分类[[Coding in Qualitative Research|编码]]、基准刻度与公分母，在异质的社会实体、机构与实践之间强行建立起可相互[[Commensuration|通约]]的均质化度量空间。在跨国教育治理中，以[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）为代表的量化测评通过自建脱离具体课程情境的[[Scale of Measurement|测量尺度]]，构筑起全球教育成效的等值空间，以统计[[Reliability|信度]]置换情境[[Construct Validity|构念效度]]并[[Epoché|悬置]]教育[[Ontology|本体论]]，使主观的政治决策转化为无可辩驳的技术中立数据，支撑超国家组织对主权国家的远处掌舵。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向通过人为设计标准化度量尺度，使原本不可比的事物在统一公分母下实现均质化通约的制度空间。
@@ -121,7 +123,7 @@ updated: 2026-10-14
 > [!concept-lens] 度量建构维度
 > 本类命题探讨统计空间的人工建构本质，批判[[Positivism|实证主义]]将度量视为镜像反映客观实在的朴素实在论观点。
 
-> [!claim] Desrosières, A.
+> [!claim] [[Alain Desrosières|Desrosières, A.]]
 > **制度化[[Commensuration|通约]]机制** 阿兰·德罗西埃（Alain Desrosières, 1998）在其统计社会学经典论著中论证，统计数据从来不是对自然现成事物的被动记录，而必须首先经过艰巨的制度化“通约”工作；为了使不同地域、不同形态的事物能够在同一张统计表格中相提并论，统计学家必须人为设立统一的分类框架、度量规则与技术公分母，从而在概念上创造出一个原本并不存在的等值空间。
 
 ---
@@ -141,7 +143,7 @@ updated: 2026-10-14
 > [!concept-lens] [[Governing by Numbers|数字治理]]与政治中立化维度
 > 本类命题探讨等值空间如何通过去政治化的技术外衣重构权力关系，实现超越传统科层行政的跨国治理。
 
-> [!claim] Rose, N.
+> [!claim] [[Nikolas Rose|Rose, N.]]
 > **数字去政治化效应** 尼古拉斯·罗斯（Nikolas Rose, 1999）深刻指出，“数字即政策”的威权力量恰恰在于其能够将度量背后的庞大主观裁决、价值筛选与权力博弈完全隐形化；当复杂的社会教育过程被压缩为单一量化数字或分值时刻，它便获得了中立、科学、无可辩驳的外观。
 
 > [!claim] Rizvi, F. & Lingard, B.
@@ -163,8 +165,8 @@ updated: 2026-10-14
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1998 — 统计社会学理论奠基** 法国学者阿兰·德罗西埃在《大数的政治：统计推理的历史》（*The Politics of Large Numbers*）中系统阐释等值空间，确立了统计度量并非发现自然实在而是创设制度[[Champ|场域]]的核心论断。
-> - **1999 — 政府[[Governmentality|治理术]]与数字政治转向** 尼古拉斯·罗斯在《自由的诸种权力》（*Powers of Freedom*）中将[[Governing by Numbers|数字治理]]与等值空间的去政治化功能相结合，揭示量化指标在自由主义治理中的支配力量。
+> - **1998 — 统计社会学理论奠基** 法国学者[[Alain Desrosières|阿兰·德罗西埃]]在《大数的政治：统计推理的历史》（*The Politics of Large Numbers*）中系统阐释等值空间，确立了统计度量并非发现自然实在而是创设制度[[Champ|场域]]的核心论断。
+> - **1999 — 政府[[Governmentality|治理术]]与数字政治转向** [[Nikolas Rose|尼古拉斯·罗斯]]在《自由的诸种权力》（*Powers of Freedom*）中将[[Governing by Numbers|数字治理]]与等值空间的去政治化功能相结合，揭示量化指标在自由主义治理中的支配力量。
 > - **2000s 至今 — 全球教育政策与跨国比较应用** [[Fazal Rizvi|法扎尔·里兹维]]、[[Bob Lingard|鲍勃·林加德]]、马丁·朗恩（Martin Lawn）与索蒂里亚·格雷克（Sotiria Grek）等学者将该概念引入比较教育学，剖析[[PISA]]如何构建跨国等值空间以支撑欧洲乃至全球教育治理空间的成型。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
 ---

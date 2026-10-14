@@ -41,6 +41,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Correlational Research]]"
 related_persons:
+  - "[[Nikolas Rose]]"
   - "[[Isaiah Berlin]]"
   - "[[Immanuel Kant]]"
   - "[[René Descartes]]"
@@ -80,7 +81,7 @@ updated: 2026-10-08
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1859年** 出生于奥地利帝国摩拉维亚的普罗斯尼茨（Proßnitz，现捷克普罗斯捷约夫）一个德语犹太中产家庭。
+> - **1859年** 出生于奥地利帝国摩拉维亚的普[[Nikolas Rose|罗斯]]尼茨（Proßnitz，现捷克普罗斯捷约夫）一个德语犹太中产家庭。
 > - **1876–1883年** 先后在莱比锡大学、[[Isaiah Berlin|柏林]]大学和维也纳大学攻读数学、天文与物理。期间听取威廉·冯特（Wilhelm Wundt）的哲学讲座，并结识托马斯·加里格·马萨里克（[[Theory of Mind\|ToM]]áš Garrigue Masaryk）。1883年在维也纳大学师从利奥·柯尼希斯贝格尔（Leo Königsberger）获得数学博士学位，论文为《变分法理论的贡献》（*Beiträge zur Variationsrechnung*）。
 > - **1884–1886年** 在维也纳大学旁听弗朗茨·布伦塔诺（Franz Brentano）的哲学与经验心理学讲座，深受其意向性概念启发，决意终身转向哲学研究。
 > - **1886–1887年** 受布伦塔诺推荐追随卡尔·施图姆普夫（Carl Stumpf）前往哈勒大学，于1887年完成大学授课资格论文（Habilitation）《论数的概念》（*Über den Begriff der Zahl*）。同年与马尔维娜·施泰因施奈德（Malvine Steinschneider）结婚并改信基督教路德宗。

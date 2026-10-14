@@ -33,7 +33,8 @@ related_theories:
 related_methods:
   - "[[Process Tracing]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Nikolas Rose]]"
 related_facts:
   - "[[Achieve]]"
   - "[[Common Core State Standards]]"
@@ -62,7 +63,7 @@ updated: 2026-09-26
 > 全国州长协会（National Governors Association, NGA）是代表美国 50 个州、3 个美属领地及 2 个自由联邦最高行政首脑（州长）的无党派公共政策与政府间协调组织。作为美国联邦制下州际横向联合与纵向博弈的核心平台，该机构在教育改革中致力于通过跨州自愿合作汇聚地方共识，并在宪法未赋予联邦政府直接教育事权的体制框架内，充当发起、研制并合法化国家级学术标准的主导政治力量。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–11)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 创设于 1908 年。由时任美国总统西奥多·罗斯福（Theodore Roosevelt）召集的白宫自然资源保护会议催生，旨在建立州长定期磋商机制以应对跨州公共治理挑战。
+> - **成立时间 / 创设背景** 创设于 1908 年。由时任美国总统西奥多·[[Nikolas Rose|罗斯]]福（Theodore Roosevelt）召集的白宫自然资源保护会议催生，旨在建立州长定期磋商机制以应对跨州公共治理挑战。
 > - **总部地点 / 业务辐射** 总部设于美国首都华盛顿哥伦比亚特区，业务覆盖全美所有州与领地，长期向国会、白宫及各州立法机构输出政策方案。
 > - **法人属性与经费基础** 独立的非营利政府间会员制机构（501(c)(3)）；经费主要来源于各州财政会费缴纳、联邦专题研究合同以及大型慈善基金会的定向资助。
 > - **核心宗旨与法定职责** 识别关乎全州域发展的关键政策议程，代表各州共同利益向联邦游说，通过其下设的最佳实践中心（NGA Center for Best Practices）为各州政府提供经实证检验的公共管理与教育改革解决方案。

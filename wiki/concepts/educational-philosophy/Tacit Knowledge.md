@@ -48,6 +48,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Dominique Foray]]"
   - "[[Bengt-Åke Lundvall]]"
   - "[[Michael Young]]"
 related_facts:
@@ -68,7 +69,7 @@ updated: 2026-10-14
 ## 定义
 
 > [!def] 核心定义
-> **默会知识（Tacit Knowledge）**最初由哲学家迈克尔·波兰尼（Michael Polanyi, 1958, 1966）在其[[Epistemology|认识论]]代表作《意会维度》（*The Tacit Dimension*）中系统阐发，后经多米尼克·福雷（Dominique Foray）与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（[[Bengt-Åke Lundvall]]）等经济学家引入[[Knowledge-Based Economy|知识经济]]与教育政策研究。该概念指深植于个体的行动经验、身体感知、工艺直觉、心智模型与文化情境之中，无法通过文字、公式或数码等形式化符号完全予以[[Coding in Qualitative Research|编码]]、表述与机械转移的实践性知识（“我们所知远多于我们所能言传”）。在知识经济与教育政策社会学中，随着信息与通信技术的飞速普及，纯粹的事实性编码知识变得廉价且易于获取，这不仅没有削弱默会知识的地位，反而使无法直接被算法或指令替代的默会操作技能、[[Critical Thinking|批判性思维]]与持续学习能力上升为决定个体及[[Competitiveness|国家竞争力]]的核心基底。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
+> **默会知识（Tacit Knowledge）**最初由哲学家迈克尔·波兰尼（Michael Polanyi, 1958, 1966）在其[[Epistemology|认识论]]代表作《意会维度》（*The Tacit Dimension*）中系统阐发，后经[[Dominique Foray|多米尼克·福雷]]（Dominique Foray）与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（[[Bengt-Åke Lundvall]]）等经济学家引入[[Knowledge-Based Economy|知识经济]]与教育政策研究。该概念指深植于个体的行动经验、身体感知、工艺直觉、心智模型与文化情境之中，无法通过文字、公式或数码等形式化符号完全予以[[Coding in Qualitative Research|编码]]、表述与机械转移的实践性知识（“我们所知远多于我们所能言传”）。在知识经济与教育政策社会学中，随着信息与通信技术的飞速普及，纯粹的事实性编码知识变得廉价且易于获取，这不仅没有削弱默会知识的地位，反而使无法直接被算法或指令替代的默会操作技能、[[Critical Thinking|批判性思维]]与持续学习能力上升为决定个体及[[Competitiveness|国家竞争力]]的核心基底。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向那些无法脱离具身体验、特定情境与动态行动过程而独立存在的经验性与[[Procedural Knowledge|程序性知识]]形态。
@@ -119,7 +120,7 @@ updated: 2026-10-14
 > 探讨为什么在信息技术高度发达、知识搜索唾手可得的后工业时代，教育体系反而降低了对事实记忆的要求，转而全面押注于以默会能力为导向的终身素养。
 
 > [!claim] Foray & Lundvall
-> **学习型经济的相对稀缺转移** 多米尼克·福雷与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]指出，数字化革命将[[Coding in Qualitative Research|编码]]知识推向无限丰裕，导致[[Rote Learning|死记硬背]]的事实性知识在劳动力市场迅速贬值；相反，那些支撑个体快速吸收新信息、在不确定情境中做出权衡决断以及协同创新的默会技能，成为了无法被机器替代的唯一核心生产力要素。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
+> **学习型经济的相对稀缺转移** [[Dominique Foray|多米尼克·福雷]]与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]指出，数字化革命将[[Coding in Qualitative Research|编码]]知识推向无限丰裕，导致[[Rote Learning|死记硬背]]的事实性知识在劳动力市场迅速贬值；相反，那些支撑个体快速吸收新信息、在不确定情境中做出权衡决断以及协同创新的默会技能，成为了无法被机器替代的唯一核心生产力要素。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 
 > [!claim] Rizvi & Lingard
 > **全球测评重塑国家教育目标的[[Epistemology|认识论]]支点** 里兹维与林加德进一步论证，[[OECD|经合组织]]正是借助福雷等学者关于默会技能与学习型经济的论证，为其彻底改造全球教育体系提供了理论合法性：它促使各国政府放弃强调传统学科人文底蕴与事实知识积累的教学大纲，转而将教育目的重塑为培养适应全球劳动力市场灵活需求的默会素养与[[Lifelong Learning|终身学习]]能力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–447)]]
@@ -151,7 +152,7 @@ updated: 2026-10-14
 > [!dev-timeline] 概念演变
 > - **1958–1966 年 — 哲学奠基期** 物理化学家出身的哲学家迈克尔·波兰尼发表《个人知识》与《意会维度》，正式确立默会知识概念，向[[Positivism|实证主义]]的[[Objectivism|客观主义]]知识观发起根本性挑战。
 > - **1990 年代初 — 管理学与组织学习扩展** 野中郁次郎（Ikujiro Nonaka）等学者提出著名的 SECI 模型，将默会知识与显性知识的相互转化确立为企业知识创造与创新的核心机制。
-> - **1996 年 — 跨国政策与学习型经济融合** 福雷与[[Bengt-Åke Lundvall|伦德瓦尔]]为[[OECD|经合组织]]撰写《[[Knowledge-Based Economy|知识经济]]中的教育与增长》，将默会知识确立为国家构建“学习型经济”的战略要素，直接催生了经合组织的“全员[[Lifelong Learning|终身学习]]”政策框架。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
+> - **1996 年 — 跨国政策与学习型经济融合** [[Dominique Foray|福雷]]与[[Bengt-Åke Lundvall|伦德瓦尔]]为[[OECD|经合组织]]撰写《[[Knowledge-Based Economy|知识经济]]中的教育与增长》，将默会知识确立为国家构建“学习型经济”的战略要素，直接催生了经合组织的“全员[[Lifelong Learning|终身学习]]”政策框架。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 > - **2000 年代至今 — 跨国素养测评与能力本位转向** 经合组织将默会技能的测量转化为[[PISA|国际学生评估项目]]（PISA）中脱离学科大纲的[[Problem Solving|问题解决能力]]与综合素养，推动全球课程体系的[[Pragmatic Paradigm|实用主义]]重构。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–447)]]
 
 ---

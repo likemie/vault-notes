@@ -54,6 +54,8 @@ related_facts:
   - "[[Plyler v. Doe 1982]]"
 related_arguments:
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
+related_persons:
+  - "[[Nikolas Rose]]"
 confidence: high
 status: draft
 created: 2026-10-10
@@ -132,7 +134,7 @@ updated: 2026-10-10
 ### 命题二　现代学校通过领地划界与空间规训充当人口圈禁与筛选的制度容器
 
 > [!concept-lens] 空间政治学与国家[[Disciplina and Doctrina|规训]]
-> 借助尼古拉斯·罗斯（Nikolas Rose）的[[Governmentality|治理术]]空间化框架，阐明现代教育机构如何通过领地化界定、视线聚焦与均质/厚度空间模型管理流动人口。
+> 借助[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose）的[[Governmentality|治理术]]空间化框架，阐明现代教育机构如何通过领地化界定、视线聚焦与均质/厚度空间模型管理流动人口。
 
 > [!claim] Sobe, N. W. & Fischer, M. G.
 > **空间治理容器论** 现代国家治理思维依循三大空间轴线展开：领地化划界（将教室、学校、家庭划分为可行政管理的离散单元）、制图与统计使人口行为可见（如将生活条件汇总为管理数据），以及对空间质地（均质空间与差异厚度空间）的模型化塑造。学校在此机制中承担双重空间功能：既是管理人口流动的封闭容器（Enclosures），又是判定个体有无资格参与其他社会空间的准入筛选中心。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361)]]

@@ -43,7 +43,8 @@ related_theories: []
 related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Dominique Foray]]"
 related_facts:
   - "[[Department of Energy]]"
   - "[[Inflation Reduction Act]]"
@@ -74,7 +75,7 @@ updated: 2026-10-10
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 依据美国《2005 年能源政策法》（Energy Policy Act of 2005）第十七条正式设立；旨在解决革命性清洁技术由于前期资本投入巨大、技术风险未完全验证而面临的商业信贷[[Market Failure|市场失灵]]。
-> - **总部地点 / 业务辐射** 总部位于美国华盛顿特区能源部福雷斯特尔大厦（Forrestal Building），业务覆盖全美 50 州的大型清洁技术制造工厂与能源基建项目。
+> - **总部地点 / 业务辐射** 总部位于美国华盛顿特区能源部[[Dominique Foray|福雷]]斯特尔大厦（Forrestal Building），业务覆盖全美 50 州的大型清洁技术制造工厂与能源基建项目。
 > - **法人属性与资金实力** 隶属于联邦内阁部委的专业化公共融资运营机构；在《[[Inflation Reduction Act|通胀削减法案]]》（[[International Reading Association|IRA]]）与《[[Infrastructure Investment and Jobs Act|两党基础设施法案]]》（IIJA）通过后，其可用借贷与担保授权额度从数百亿美元激增至 4000 亿美元以上。
 > - **核心使命与战略定位** 成为美国能源转型的“商业化催化剂”与“私营资本破冰者”，通过专业的工程与财务尽职调查分担早期创新风险，引导数千亿美元私营商业资本跟进投资。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 6–7, 11)]]
 

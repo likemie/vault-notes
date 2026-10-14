@@ -66,6 +66,8 @@ related_methods:
   - "[[Ethnography]]"
 related_persons:
   - "[[Fazal Rizvi]]"
+  - "[[Alain Desrosières]]"
+  - "[[Nikolas Rose]]"
   - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[Chinese Academy of Sciences]]"
@@ -135,13 +137,13 @@ updated: 2026-10-14
 > *Ultimately, the OECD, which, in the Papadopoulos period, represented a unique forum for its members to debate educational issues has now become a policy actor in its own right, promoting a particular view of education concerned more with economic efficiency than with issues of social and cultural formations.*
 
 > [!citation-card] 数字即政策与跨国等值空间的制造
-> 国际学生评估项目（PISA）并非被动反映各国的课程教学大纲，而是直接研发脱离特定文化脉络的测试情境，凭空生产数据以构建阿兰·德罗西埃所称的跨国“等值空间”。在统计技术的运作中，跨国比较的[[Reliability|信度]]被赋予了绝对优先于测量对象[[Construct Validity|构念效度]]的地位。数字的威力恰恰在于将指标背后的大量主观政治判断与价值选择完全隐形化，使其变得不可辩驳，并通过排行榜引发的国内政策恐慌实现了无须行政命令的“远处掌舵”。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> 国际学生评估项目（PISA）并非被动反映各国的课程教学大纲，而是直接研发脱离特定文化脉络的测试情境，凭空生产数据以构建[[Alain Desrosières|阿兰·德罗西埃]]所称的跨国“等值空间”。在统计技术的运作中，跨国比较的[[Reliability|信度]]被赋予了绝对优先于测量对象[[Construct Validity|构念效度]]的地位。数字的威力恰恰在于将指标背后的大量主观政治判断与价值选择完全隐形化，使其变得不可辩驳，并通过排行榜引发的国内政策恐慌实现了无须行政命令的“远处掌舵”。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 >
 > *PISA [[CREATES Project|CREATES]] a commensurable space of measurement or a global "space of equivalence." Reliability and comparison take priority over validity and [[Ontology]]... The power of numbers is such that they render invisible and hence incontestable the complex array of judgements and decisions that go into a measurement.*
 
 > [!feature] 林加德教育政策社会学的四大分析支柱
 > - **知识经济的全球社会想象** 结合查尔斯·泰勒与阿帕杜莱的理论，阐明经合组织如何将日常经验趋势与落后失业的普遍情感焦虑交织在一起，建构出[[Doxa|不言自明]]的政策常识；推动学习重心从正规系统的“[[Knowledge-that and Know-how-to|知其然]]”（knowing that）全面倒向面向劳动力市场的“知其操作”（[[Procedural Knowledge|knowing how]]）与[[Lifelong Learning|终身学习]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446)]]
-> - **社会价值的[[Economic Fundamentalism|经济基要主义]]残余化** 揭示经合组织并未公然否定社会公平，而是在乔治·索罗斯所称的经济基要主义框架下对其进行工具化收编：公平被窄化为形式上的入学准入，性别平权被简化为劳动力开发与减贫手段，社会资本则蜕变为安抚边缘群体、防止社会动荡干扰经济运转的维稳工具。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–450)]]
+> - **社会价值的[[Economic Fundamentalism|经济基要主义]]残余化** 揭示经合组织并未公然否定社会公平，而是在乔治·索[[Nikolas Rose|罗斯]]所称的经济基要主义框架下对其进行工具化收编：公平被窄化为形式上的入学准入，性别平权被简化为劳动力开发与减贫手段，社会资本则蜕变为安抚边缘群体、防止社会动荡干扰经济运转的维稳工具。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–450)]]
 > - **从科层统辖到多层[[Network Governance|网络治理]]** 论证全球化时代民族国家主权并未消亡，而是转型为与国际组织、次国家实体及商业机构“共享行使权力”的多层网络；国家通过采纳跨国指标重塑内部行政正当性，但也导致自主制定政策的战略空间被显著压缩。
 > - **教育本质从公共物品向混合商品的位移** 总结战后社会民主主义范式与新自由主义范式的根本断裂：教育由保障人人共享福祉、追求社会平等与公民民主素养的纯粹公共物品，转变为追求[[Competitiveness|国家竞争力]]与个体劳动力市场超额收益的公私混合投资商品。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 450–452)]]
 
@@ -175,7 +177,7 @@ updated: 2026-10-14
 
 > [!person-network] 关系网络
 > - **师承／合作者** [[Fazal Rizvi]] — 核心长期合著者，共同奠定全球教育政策批判[[Paradigm|范式]]；Miriam Henry、Sandra Taylor — 早期 [[OECD]] 专著合著者；Shaun Rawolle、Sam Sellar — 长期推进教育[[Governing by Numbers|数字治理]]与数据问责研究的合作学者。
-> - **理论思想资源** Charles Taylor、Arjun Appadurai — [[Social Imaginary|社会想象]]理论资源；阿兰·德罗西埃（Alain Desrosières） — [[Space of Equivalence|统计等值空间]]理论；尼古拉斯·罗斯（Nikolas Rose） — 数字即政策与远处统治思想；[[Pierre Bourdieu|皮埃尔·布迪厄]]（Pierre Bourdieu） — [[Champ|场域]]与全球化物化批判；罗伯特·帕特南（Robert Putnam） — [[Social Capital Theory|社会资本理论]]（批判分析对象）。
+> - **理论思想资源** Charles Taylor、Arjun Appadurai — [[Social Imaginary|社会想象]]理论资源；[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières） — [[Space of Equivalence|统计等值空间]]理论；[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose） — 数字即政策与远处统治思想；[[Pierre Bourdieu|皮埃尔·布迪厄]]（Pierre Bourdieu） — [[Champ|场域]]与全球化物化批判；罗伯特·帕特南（Robert Putnam） — [[Social Capital Theory|社会资本理论]]（批判分析对象）。
 > - **分析机构／对象** [[OECD]]、[[PISA]]、[[Centre for Educational Research and Innovation|CERI]] — 其长期解构与追踪的核心超国家行动者。
 
 ---

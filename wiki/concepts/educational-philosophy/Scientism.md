@@ -66,6 +66,7 @@ related_persons:
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
   - "[[Val D. Rust]]"
+  - "[[Nikolas Rose]]"
   - "[[Peter A. Hall]]"
   - "[[Hu Shi]]"
   - "[[John Dewey]]"
@@ -237,7 +238,7 @@ updated: 2026-10-12
 > [!dev-timeline] 概念演变
 > - **1940s — 自由主义早期系统清算** 弗里德里希·哈耶克（Hayek, 1942–1944）系统反思科学主义倾向，论证人类行动的自由意志无法被机械还原为自然物理铁律。
 > - **1960s — 比较学科实证科学化狂热与早期传统贬抑** 诺亚与埃克斯坦（Noah & Eckstein, 1969）出版《迈向比较教育科学》，将十九世纪跨文化考察与制度借用贬为业余的“史前时期”，试图通过跨国[[Hypothesis|假设]]检验建立实证科学主义垄断；这一[[Disciplinary Institutionalization|学科建制]]诉求掩盖了历史考据与比较文学传统的深厚学术价值。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 121–123)]]
-> - **1970s — 法兰克福学派与人本主义批判** [[Jürgen Habermas|哈贝马斯]]（Habermas, 1972）与霍克海默（Horkheimer, 1972）确立社会[[Critical Theory|批判理论]]框架，揭示科学主义作为西方新宗教的技术极权危险；特里·扬斯（Ions, 1977）批判统计计算导致的去个性化；西奥多·罗斯扎克（Roszak, 1970, 1972）抨击客观意识造成的自我疏离；大卫·[[Peter A. Hall|霍尔]]布鲁克（Holbrook, 1977）指出[[Positivism|实证主义]]在内在精神世界的彻底破产（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]]）。
+> - **1970s — 法兰克福学派与人本主义批判** [[Jürgen Habermas|哈贝马斯]]（Habermas, 1972）与霍克海默（Horkheimer, 1972）确立社会[[Critical Theory|批判理论]]框架，揭示科学主义作为西方新宗教的技术极权危险；特里·扬斯（Ions, 1977）批判统计计算导致的去个性化；西奥多·[[Nikolas Rose|罗斯]]扎克（Roszak, 1970, 1972）抨击客观意识造成的自我疏离；大卫·[[Peter A. Hall|霍尔]]布鲁克（Holbrook, 1977）指出[[Positivism|实证主义]]在内在精神世界的彻底破产（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]]）。
 > - **2000s — 实证单一垄断瓦解与[[Pluralism|健康多元主义]]的确立** 拉斯特等学者（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）依托期刊[[Document|文献]]计量实证揭示，战后单一实证主义与[[Structural Functionalism|结构功能主义]]垄断业已解体，学科演化出涵盖 26 种理论传统的健康多元主义格局，宣告了实证科学主义一统天下幻梦的破灭。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 131–132)]]
 > - **2000s — 科学哲学立场与划界反思** 米卡埃尔·斯滕马克（Mikael Stenmark, 2001）将科学主义系统解构为关于科学能力边界的哲学主张，梳理出[[Epistemology|认识论]]、[[Ontology|本体论]]与存在论多重科学主义形态。
 > - **2007 — 课程评估层面的隐性[[Disciplina and Doctrina|规训]]揭示** 赞普伦（[[Argument_Zemplen_2007_SciEduc|Zemplén, 2007]]）揭示科学主义已从粗放的量化指标下沉至[[Critical Thinking|批判性思维]]与认识论课程的细部评估规程中，开辟了课程社会学批判新维度。

@@ -59,6 +59,7 @@ related_instruments:
 related_persons:
   - "[[Robert Slavin]]"
   - "[[Zewelanji N. Serpell]]"
+  - "[[Nikolas Rose]]"
   - "[[Keith Morrison]]"
   - "[[G. Reid Lyon]]"
   - "[[Richard J. Shavelson]]"
@@ -212,7 +213,7 @@ updated: 2026-10-07
 > 阐述早期粗放的“是/否”二[[Metascience|元科学]]界定如何因制度失灵而被迫转型为分级梯度化、更具弹性的操作化证据体系。
 
 > [!claim] Ross, S. M. & Morrison, G. J.
-> **证据层级重构与操作化治理转型** 罗斯与[[Keith Morrison\|莫里森]]（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021]]）考证指出，SBR 由于缺乏分级划分，在实践中极易沦为非黑即白的僵硬壁垒或无实质约束的官僚免责标签；2015 年通过的 [[Every Student Succeeds Act\|ESSA]] 吸取教训，彻底废除了 SBR 这一过于笼统的概念，代之以四级操作化分级框架（Tier 1 强证据、Tier 2 中等证据、Tier 3 有希望证据、Tier 4 理论依据）。这一转型使得各州与学区能够根据本地改革阶段与资源条件灵活选用不同层级的证据方案，标志着国家证据政策由机械的实证规制走向务实的操作化证据治理。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, p. 109)]]
+> **证据层级重构与操作化治理转型** [[Nikolas Rose|罗斯]]与[[Keith Morrison\|莫里森]]（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021]]）考证指出，SBR 由于缺乏分级划分，在实践中极易沦为非黑即白的僵硬壁垒或无实质约束的官僚免责标签；2015 年通过的 [[Every Student Succeeds Act\|ESSA]] 吸取教训，彻底废除了 SBR 这一过于笼统的概念，代之以四级操作化分级框架（Tier 1 强证据、Tier 2 中等证据、Tier 3 有希望证据、Tier 4 理论依据）。这一转型使得各州与学区能够根据本地改革阶段与资源条件灵活选用不同层级的证据方案，标志着国家证据政策由机械的实证规制走向务实的操作化证据治理。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, p. 109)]]
 
 ---
 

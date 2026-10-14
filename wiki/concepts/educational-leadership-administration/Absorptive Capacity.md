@@ -69,6 +69,7 @@ related_methods:
   - "[[Network Analysis]]"
   - "[[Correlational Research]]"
 related_persons:
+  - "[[Nikolas Rose]]"
   - "[[Keith Morrison]]"
   - "[[Mark Rickinson]]"
   - "[[Carlos Alberto Torres]]"
@@ -160,7 +161,7 @@ updated: 2026-10-12
 > 探讨为何外部知识无法直接发挥效益，论证组织内部已有知识积累与开放沟通在吸收转化中的先决条件作用。
 
 > [!claim] Cohen & Levinthal; Ross & Morrison; Glitz & Meyersson
-> **认知存量与沟通先决性** 外部知识的潜在价值绝不能脱离接收组织的吸收能力而独立存在。韦斯利·科恩（Wesley Cohen）与丹尼尔·莱文萨尔（Daniel Levinthal）指出，组织吸收新知识的能力高度依赖其先前已有的相关知识积累；没有足够的认知存量，组织甚至无法识别前沿知识的价值。史蒂文·罗斯（Steven Ross）与加里·[[Keith Morrison\|莫里森]]（Gary Morrison）在学区改革评价中进一步证实，若学区各部门之间缺乏开放的沟通渠道与共享的[[Logic Model\|逻辑模型]]，即便外部评价报告质量再高，也会被彻底束之高阁；在[[Technological Catch-up|技术追赶]]分析中同样证实，唯有与先进技术差距较小、具备认知基础的行业才能有效消化外部情报。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 122–124)]]；[[Argument_Glitz_2020_AER\|(Glitz & Meyersson, 2020, p. 1096)]]
+> **认知存量与沟通先决性** 外部知识的潜在价值绝不能脱离接收组织的吸收能力而独立存在。韦斯利·科恩（Wesley Cohen）与丹尼尔·莱文萨尔（Daniel Levinthal）指出，组织吸收新知识的能力高度依赖其先前已有的相关知识积累；没有足够的认知存量，组织甚至无法识别前沿知识的价值。史蒂文·[[Nikolas Rose|罗斯]]（Steven Ross）与加里·[[Keith Morrison\|莫里森]]（Gary Morrison）在学区改革评价中进一步证实，若学区各部门之间缺乏开放的沟通渠道与共享的[[Logic Model\|逻辑模型]]，即便外部评价报告质量再高，也会被彻底束之高阁；在[[Technological Catch-up|技术追赶]]分析中同样证实，唯有与先进技术差距较小、具备认知基础的行业才能有效消化外部情报。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 122–124)]]；[[Argument_Glitz_2020_AER\|(Glitz & Meyersson, 2020, p. 1096)]]
 
 ---
 
@@ -214,7 +215,7 @@ updated: 2026-10-12
 > - **2018 — 宏观国家治理与[[Public Dynamic Capabilities|公共部门动态能力]]扩展** 玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018, p. 808]]）将吸收能力与机构学习（Institutional Learning）引入国家创新治理与公共部门能力分析，论证政府与高校管理机构唯有在持续投资与实验探索中积累内生吸收能力，才能摆脱对外部咨询机构的[[Cognitive Deskilling|去技能化]]依赖并有效引领使命导向转型。
 > - **2019 — 德语区教育[[Transfer Science|转移科学]]与微观[[Organizational Culture|组织文化]]土壤** 曼尼蒂乌斯与范[[Peter A. Hall|霍尔]]特（[[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt, 2019]]）在确立教育科学作为[[Transfer Science\|转移科学]]（Transferwissenschaft）的学科对话中，系统反思了各类清算机构（[[Educational Evidence Clearinghouses|Clearinghouse]]）被动供给的局限，强调转移成效从根本上受制于单体学校现场的微观组织文化土壤与异质吸收能力（Absorptionskapazität），主张依托全周期教师教育与中层研训机构重塑吸收转化生态。
 > - **2020 — 宏观经济与[[Technological Catch-up|技术追赶]]中的经验确证** 格利茨与迈尔森（[[Argument_Glitz_2020_AER\|Glitz & Meyersson, 2020]]）基于冷战时期东德工业间谍数据，证实只有接近西德技术前沿的行业才能有效消化科技情报，实证确立了认知距离对吸收能力的决定作用。[[Argument_Glitz_2020_AER\|(Glitz & Meyersson, 2020, p. 1096)]]
-> - **2021 — K-12 教育学区改革评价吸纳** 罗斯与[[Keith Morrison\|莫里森]]结合巴尔的摩 [[Students and Teachers Accessing Tomorrow\|STAT]] 项目，将吸收能力引入教育行政与评价利用，揭示项目理解与开放沟通对评价证据转化的支撑。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 122–124)]]
+> - **2021 — K-12 教育学区改革评价吸纳** [[Nikolas Rose|罗斯]]与[[Keith Morrison\|莫里森]]结合巴尔的摩 [[Students and Teachers Accessing Tomorrow\|STAT]] 项目，将吸收能力引入教育行政与评价利用，揭示项目理解与开放沟通对评价证据转化的支撑。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 122–124)]]
 > - **2022 — [[Push and Pull Models of Knowledge Mobilisation\|知识动员推拉模型]]与学校使能生态** [[Monash Q Project\|莫纳什 Q 项目]]与 [[OECD]] [[Knowledge Mobilisation\|知识动员]]模型将吸收能力确立为克服单向供给推送偏误的核心支柱，量化揭示时间赤字与领导示范对学校吸收能力的决定性影响。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 43–45)]]；[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 183–187)]]
 
 ---

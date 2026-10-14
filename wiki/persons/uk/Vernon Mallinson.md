@@ -31,6 +31,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Michael Sadler]]"
+  - "[[Nikolas Rose]]"
   - "[[Nicholas Hans]]"
   - "[[Joseph Lauwerys]]"
   - "[[Andreas Kazamias]]"
@@ -79,7 +80,7 @@ updated: 2026-09-11
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1957/1960/1975 — *An Introduction to the Study of Comparative Education*** 战后英语世界流传最广的比较教育学教科书之一；系统阐述地理、经济、历史、宗教与政治诸因素，核心聚焦于“[[National Character\|国民性格]]”对英国、法国、德国、美国与俄罗斯教育体系的决定性塑造机制。
+> - **1957/1960/1975 — *An Introduction to the Study of Comparative Education*** 战后英语世界流传最广的比较教育学教科书之一；系统阐述地理、经济、历史、宗教与政治诸因素，核心聚焦于“[[National Character\|国民性格]]”对英国、法国、德国、美国与俄[[Nikolas Rose|罗斯]]教育体系的决定性塑造机制。
 > - **1963 — *Power and Politics in Belgian Education 1815–1961*** 细致考察天主教与自由主义政党在比利时公立教育领导权上的长期拉锯，揭示语言分裂与文化认同对现代学校制度的深刻制约。
 > - **1980 — *The Western European Idea in Education*** 探讨西欧一体化进程中欧洲共同教育理想与各国历史文化特色之间的辩证平衡。
 

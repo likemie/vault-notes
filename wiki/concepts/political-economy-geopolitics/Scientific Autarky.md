@@ -31,6 +31,8 @@ related_theories:
   - "[[Path Dependence]]"
 related_methods:
   - "[[Correlational Research]]"
+related_persons:
+  - "[[Nikolas Rose]]"
 confidence: medium
 status: draft
 created: '2026-06-26'
@@ -77,7 +79,7 @@ updated: 2026-10-09
 > 探讨外部制裁和脱钩压力如何转化为国家主导的自足战略，以及不同国家在这种战略下的表现和投资代价。
 
 > [!claim] Dezhina & Egerev
-> 俄罗斯的科学自给自足政策在某些行政管控的收缩力度上甚至快于外部制裁的发生，这种 situational 且不具预见性的行政指令（如限制外籍人员交流等）对学术国际化带来了严重的负面干扰 [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022, p. 49)]]。
+> 俄[[Nikolas Rose|罗斯]]的科学自给自足政策在某些行政管控的收缩力度上甚至快于外部制裁的发生，这种 situational 且不具预见性的行政指令（如限制外籍人员交流等）对学术国际化带来了严重的负面干扰 [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022, p. 49)]]。
 
 > [!claim] Pencea
 > 中国的科技自足发展[[Path Dependence|路径依赖]]于极高强度的财政和研发投资，以支持在关键核心技术领域的突破，并逐步弱化对国际学界量化指标的依赖 [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022, pp. 37–38)]]。
@@ -102,7 +104,7 @@ updated: 2026-10-09
 > [!dev-timeline] 科学自给自足概念的发展
 > - **1976 — 发展中国家技术自立倡议** F. R. Sagasti (1976) 在拉美与非洲背景下提出发展中国家需要通过平衡自主发展与国际协作来构建“技术自足”（technological self-reliance）[[Argument_Dezhina_2022_ECO\|(Sagasti, 1976)]]。
 > - **2010–2020 — 全球化逆转与脱钩研究** 因金融危机和贸易战影响，学术界对全球化危机背景下的“学术孤立主义”和技术保护主义开展系统研究 [[Argument_Dezhina_2022_ECO\|(Tang, 2020; Pencea, 2021)]]。
-> - **2022 — 俄罗斯学术自闭模式研究** Dezhina & Egerev 结合乌克兰危机以来的多案例数据，论证了科学政策中的“自足政策”如何偏离正常国际协作路径 [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022)]]。
+> - **2022 — 俄[[Nikolas Rose|罗斯]]学术自闭模式研究** Dezhina & Egerev 结合乌克兰危机以来的多案例数据，论证了科学政策中的“自足政策”如何偏离正常国际协作路径 [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022)]]。
 
 ---
 
@@ -120,4 +122,4 @@ updated: 2026-10-09
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Dezhina_2022_ECO\|Dezhina & Egerev (2022)]] — 分析了俄罗斯科学界在学者循环、资助集中化以及[[Megascience Installations\|大科学装置]]本土独立化过程中所显现的自给自足趋势及制度代价。
+> - [[Argument_Dezhina_2022_ECO\|Dezhina & Egerev (2022)]] — 分析了俄[[Nikolas Rose|罗斯]]科学界在学者循环、资助集中化以及[[Megascience Installations\|大科学装置]]本土独立化过程中所显现的自给自足趋势及制度代价。

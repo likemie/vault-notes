@@ -619,7 +619,8 @@
     "aliases": [
       "国际学生评估项目学术反思",
       "经合组织测评争议",
-      "国际大规模评估批判"
+      "国际大规模评估批判",
+      "国际学生评估项目批判"
     ]
   },
   {
@@ -22614,6 +22615,17 @@
     ]
   },
   {
+    "title": "Alain Desrosières",
+    "type": "person",
+    "path": "wiki/persons/france/Alain Desrosières.md",
+    "aliases": [
+      "阿兰·德罗西埃",
+      "德罗西埃",
+      "Desrosières, A.",
+      "Alain Desrosieres"
+    ]
+  },
+  {
     "title": "Alfred Binet",
     "type": "person",
     "path": "wiki/persons/france/Alfred Binet.md",
@@ -22682,6 +22694,17 @@
     "aliases": [
       "Eribon, D.",
       "迪迪埃·埃里蓬"
+    ]
+  },
+  {
+    "title": "Dominique Foray",
+    "type": "person",
+    "path": "wiki/persons/france/Dominique Foray.md",
+    "aliases": [
+      "多米尼克·福雷",
+      "多米尼克·福瑞",
+      "福雷",
+      "Foray, D."
     ]
   },
   {
@@ -24306,6 +24329,17 @@
     "aliases": [
       "Cowen, N.",
       "尼克·考恩"
+    ]
+  },
+  {
+    "title": "Nikolas Rose",
+    "type": "person",
+    "path": "wiki/persons/uk/Nikolas Rose.md",
+    "aliases": [
+      "尼古拉斯·罗斯",
+      "罗斯",
+      "Rose, N.",
+      "Nikolas S. Rose"
     ]
   },
   {

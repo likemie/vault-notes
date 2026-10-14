@@ -51,6 +51,7 @@ related_persons:
   - "[[Paul Pierson]]"
   - "[[Peter A. Hall]]"
   - "[[Jacob S. Hacker]]"
+  - "[[Nikolas Rose]]"
   - "[[Theda Skocpol]]"
   - "[[Kathleen Thelen]]"
 related_facts:
@@ -262,7 +263,7 @@ issuing_organization: ""
 > [!evidence-grid] 制度分层的跨国经验案例
 > - **美国 401(k) 计划与个人退休账户的爆发式分层** [[Jacob S. Hacker|雅各布·S·哈克]]（Jacob S. Hacker）指出，反对公共养老金的保守派政客最初以微小税收抵免形式引入了 401(k) 养老储蓄计划与个人退休账户（Individual Retirement [[Accounts|account]], [[International Reading Association|IRA]]），在当时未引起公众警惕；但这些账户的爆炸性增长建立起了一个以个人自愿投资为核心的平行养老体系，使中产阶级不再热衷于维护联邦公共社会保障，实质性瓦解了战后公共养老的社会团结。（pp. 22–23）
 > - **法国在俾斯麦式社会保险之上分层增设税收福利** 布鲁诺·帕利耶（Bruno Palier）指出，面对传统缴费型社会保险的巨额赤字与工会抵制，法国政府并未正面削减工人的社保权益，而是叠加了由一般税收资助的通用社会捐税（Contribution sociale généralisée, CSG）与收入最低保障津贴（Revenu minimum d'insertion, RMI）；这一原本作为边缘补充的税收图层发展迅猛，反过来将法国福利体系引向救济调查与促进就业的英美[[Liberalization|自由化]]轨道。（pp. 23–24）
-> - **瑞典公共教育与托育体系中的私立代金券分层** 博·罗斯坦（Bo Rothstein）指出，瑞典在原本高度均质的公共托育与公立学校体制旁，引入了由政府买单但由私营机构提供的代金券选择；这一边际调整迅速吸引了具有政治影响力的中产家庭，使他们逐步抽离对公共部门服务的忠诚。（p. 23）
+> - **瑞典公共教育与托育体系中的私立代金券分层** 博·[[Nikolas Rose|罗斯]]坦（Bo Rothstein）指出，瑞典在原本高度均质的公共托育与公立学校体制旁，引入了由政府买单但由私营机构提供的代金券选择；这一边际调整迅速吸引了具有政治影响力的中产家庭，使他们逐步抽离对公共部门服务的忠诚。（p. 23）
 
 #### 4. 制度漂移借助政治决策者的策略性不作为，任由未更新的规则与现实脱节以削弱保护效力
 

@@ -24,7 +24,6 @@ tags:
   - theme/educational-planning
   - theme/human-rights
 related_concepts:
-  - "[[Document]]"
   - "[[Lifelong Learning]]"
   - "[[Compensatory Legitimation]]"
   - "[[Disciplina and Doctrina]]"
@@ -40,6 +39,7 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[International Schools]]"
   - "[[Knowledge Production]]"
+  - "[[Document]]"
   - "[[Return on Investment]]"
   - "[[Development Education]]"
   - "[[Endogenous and Exogenous Privatisation]]"
@@ -115,8 +115,6 @@ updated: 2026-10-14
 > [!claim] 核心定位
 > 联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，UNESCO；简称联合国教科文组织）是联合国系统内主管教育事务的法定专门机构，代表了战后全球教育多边治理的人文主义、和平主义与人权规范传统，主导着全球[[Education for All|全民教育]]（Education for All，[[Exploratory Factor Analysis|EFA]]）与[[UN Sustainable Development Goals|可持续发展目标]]中的第四项目标（Sustainable Development Goal 4，SDG 4）的统筹协调。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541, 544)]]
 
-> [!boundary] 机构资料的时间范围
-> 以下既有组织史、成员和预算资料沿用原条目所据[[Document|文献]]；本次新增的课程资助与办学判断限于 Peterson 的历史记述，未据本章更新机构现况。
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1945 年 11 月 16 日由 37 个创始国在伦敦签署《联合国教科文组织宪章》，1946 年正式运作，作为反思二战浩劫的制度产物，确立“战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障”的立宪初衷。
@@ -128,7 +126,7 @@ updated: 2026-10-14
 
 ## 历史沿革与组织演变
 
-> [!dev-timeline]- 组织发展历程
+> [!dev-timeline] 组织发展历程
 > - **1945–1965 — 战后人权奠基与有限再分配性多边主义** 作为二战结束时全球仅存的两大涉教育国际组织之一（另一为[[International Labour Organization|国际劳工组织]]（International Labour Organization，ILO）），致力于战后废墟重建与基本扫盲；1948 年推动《世界人权宣言》将第 26 条受教育权写入国际法；卡伦·蒙迪（Mundy, 1998）指出，这一时期确立了以教科文组织为中枢的“有限再分配性多边主义”（Limited Redistributive Multilateralism），强调人道主义价值与社会福利，支持新兴独立国家建设公共教育体系；1963 年在巴黎建立[[International Institute for Educational Planning|国际教育规划研究所]]（International Institute for Educational Planning，IIEP），由[[Philip H. Coombs|菲利普·库姆斯]]掌舵，开启对第三世界新建国家的规划官僚培训业务。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541, 543)]]
 > - **1965–1980 — 争辩性多边主义、[[World Bank|世行]]合作与人文路线分立** 发展中国家掀起不结盟运动并要求建立国际经济新秩序（New International Economic Order，NIEO），主导了“争辩性多边主义”（Contested Multilateralism）阶段，教科文组织成为亚非拉国家争取国家社会福利发展模式与教育去殖民化的主要讲坛；与此同时，1964 年与世界银行签署《合作协定》（Co-operative Agreement），为世行初入教育借贷提供专业技术团队背书；然而双方在理念上发生深刻断裂——教科文组织坚持人文主义与普遍受教育权，断然拒绝世行将学校沦为单一经济产出投入要素的功利算计；1980 年世行正式发表政策文件宣告独立，终结对教科文组织的业务依赖。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, pp. 541–542)]]。在此期间，教科文组织在第三世界开展大规模区域教育普查（如 拉丁美洲经济委员会（Economic Commission for Latin America，原文缩写 CEPAL）、联合国开发计划署（United Nations Development Programme，原文缩写 PNUD）与 UNESCO 的 1981 年拉美项目），其 1974 年区域统计揭示了拉美外围国家中高等教育膨胀与初等扫盲停滞的畸形结构，为批判学者剖析外围[[Conditioned State Theory|受限国家]]的双轨教育与[[Compensatory Legitimation|补偿性合法化]]提供了关键实证基准。[[Argument_Olmos_Torres_2009_StateTheories|(UNESCO, 1974, cited in Olmos & Torres, 2009, pp. 81–82)]]
 > - **1980–2000 — [[Disciplina and Doctrina|规训]]性多边主义冲击、财政边缘化与《[[Education for All|全民教育]]》（Education for All，[[Exploratory Factor Analysis|EFA]]）** 美英等国因不满新世界信息秩序相继于 1984–1985 年退约并冻结经常性会费，全球[[Educational Multilateralism|教育多边主义]]转入新自由主义主导的“防卫性与规训性多边主义”（Defensive and Disciplinary Multilateralism），教科文组织在设定全球教育政策方向上的主导权被信贷资本雄厚的世界银行所取代；面对[[Discourse|话语]]与财政边缘化，教科文组织于 1990 年在泰国宗迪恩联合发起《世界全民教育大会》（EFA），1996 年发布里程碑式《德洛尔报告》（*Learning: The Treasure Within*），确立教育四大支柱，并深刻指出技术变革与经济全球化正在迅速侵蚀既有社会政策、工作结构与全球公平；1997 年联合 [[OECD|经合组织]]与 [[World Bank|世界银行]] 发起“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目，将 [[International Indicators of Education Systems|INES]] 指标方法学推广至转型期非成员国；在 OECD 1996 年发布《以知识为基础的经济》后，教科文组织亦相继采纳并重申了[[Knowledge-Based Economy|知识经济]]政策话语；1999 年在蒙特利尔成立[[UNESCO Institute for Statistics|联合国教科文组织统计研究所]]（UNESCO Institute for Statistics，UIS），奠定联合国统一教育统计基石。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]; [[Argument_Arnove_2009_WorldSystems|(Mundy, 1998, 1999; Heyneman, 2003, cited in Arnove, 2009, p. 110)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–445)]]

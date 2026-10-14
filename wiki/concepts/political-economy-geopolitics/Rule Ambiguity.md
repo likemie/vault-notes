@@ -39,6 +39,7 @@ related_instruments: []
 related_persons:
   - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"
+  - "[[Nikolas Rose]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
@@ -138,7 +139,7 @@ updated: 2026-10-12
 
 > [!case] 经验案例二：美国宪法跨州贸易条款（Commerce Clause）的百年重定向
 > - **原则性抽象文本** 宪法第 1 条第 8 款赋予国会规制“跨州贸易”的简短权力，起草于农耕与早期手工业商业时代。
-> - **两度颠覆性转用** 在大萧条时期被罗斯福政府重释为对全国工业劳动标准与工会集体谈判权的联邦干预依据；在 1960 年代民权运动中，进一步被最高法院重释为勒令私营旅馆与餐厅废除种族隔离的法律武器（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 21]]）。
+> - **两度颠覆性转用** 在大萧条时期被[[Nikolas Rose|罗斯]]福政府重释为对全国工业劳动标准与工会集体谈判权的联邦干预依据；在 1960 年代民权运动中，进一步被最高法院重释为勒令私营旅馆与餐厅废除种族隔离的法律武器（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 21]]）。
 
 ---
 
