@@ -72,16 +72,16 @@ updated: 2026-10-14
 
 ## 核心要素
 
-> [!feature] 华盛顿共识在教育与社会治理中的九大衍生操作信条
-> - **循证驱动的政策检验（Evidence-driven Policies）** 将受控经验证据（如对照试验、微观计量）确立为衡量教育干预有效性的最高真实性检验标准，排斥未经统计验证的主观理念。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 460)]]
-> - **穿透式成本会计核算（Cost Accounting）** 强制借款国必须精准明晰各项教育服务的真实单生单位成本与隐性支出，破除公共预算的糊涂账。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 460)]]
-> - **极致量化管理（Quantification）** 秉持“能被量化的指标越多越好”的技术官僚信念，将测验分数、生师比、出勤率等数值作为教育借贷监控的主轴。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 460)]]
-> - **资源利用效率优先（Efficiency）** 将“以更少公共资源办更多事”确立为永久性组织目标，将削减非生产性行政冗员置于优先地位。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 460)]]
-> - **能力择优与精英选拔机制（Meritocracy）** 强调在教师录用晋升与学生选拔中必须依据客观表现严格选优，坚决反对基于资历、种族或政治派系的平均主义与工会庇护。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 460)]]
-> - **崇奉看不见的手的市场竞争（Competition）** 笃信竞争能够自动优化资源配置，大力推行校际生源竞争、民办公助竞标与教育券机制。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 460)]]
-> - **奖惩驱动的市场激励（Market Incentives）** 坚信物质奖励与问责惩戒是最具威力的行为驱动器，推行绩效工资与成果捆绑奖励。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 460)]]
-> - **剔除扭曲定价的取消补贴原则（No Subsidies）** 主张教育收费与服务价格必须如实反映市场真实成本，反对向拥有自费能力的中高收入群体提供普遍性公费补贴。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 460)]]
-> - **提升配置效能的私有化导向（Privatization）** 坚信私有产权与民营参与是提升学校运营效能的重要杠杆，支持发展私立民办教育体系。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 460)]]
+> [!feature] 华盛顿共识在教育与社会治理中的九大衍生操作信条 [[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 460)]]
+> - **循证驱动的政策检验（Evidence-driven Policies）** 将受控经验证据（如对照试验、微观计量）确立为衡量教育干预有效性的最高真实性检验标准，排斥未经统计验证的主观理念。
+> - **穿透式成本会计核算（Cost Accounting）** 强制借款国必须精准明晰各项教育服务的真实单生单位成本与隐性支出，破除公共预算的糊涂账。
+> - **极致量化管理（Quantification）** 秉持“能被量化的指标越多越好”的技术官僚信念，将测验分数、生师比、出勤率等数值作为教育借贷监控的主轴。
+> - **资源利用效率优先（Efficiency）** 将“以更少公共资源办更多事”确立为永久性组织目标，将削减非生产性行政冗员置于优先地位。
+> - **能力择优与精英选拔机制（Meritocracy）** 强调在教师录用晋升与学生选拔中必须依据客观表现严格选优，坚决反对基于资历、种族或政治派系的平均主义与工会庇护。
+> - **崇奉看不见的手的市场竞争（Competition）** 笃信竞争能够自动优化资源配置，大力推行校际生源竞争、民办公助竞标与教育券机制。
+> - **奖惩驱动的市场激励（Market Incentives）** 坚信物质奖励与问责惩戒是最具威力的行为驱动器，推行绩效工资与成果捆绑奖励。
+> - **剔除扭曲定价的取消补贴原则（No Subsidies）** 主张教育收费与服务价格必须如实反映市场真实成本，反对向拥有自费能力的中高收入群体提供普遍性公费补贴。
+> - **提升配置效能的私有化导向（Privatization）** 坚信私有产权与民营参与是提升学校运营效能的重要杠杆，支持发展私立民办教育体系。
 
 > [!logic-map]- 华盛顿共识原则在多边银行借贷中的传导与仪式化异化
 > ```mermaid
