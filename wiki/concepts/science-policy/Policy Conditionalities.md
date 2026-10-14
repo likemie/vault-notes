@@ -7,13 +7,14 @@ aliases:
   - Conditionalities
   - Policy Conditionality
   - 护栏条款与附加条件
-summary: "现代产业政策中政府向受补贴或受资助企业施加的契约性与法定约束机制；通过将公共财政支持与公共价值目标（包括高标准劳动力发展、托儿支持、禁止股票回购、超额利润分享、国家安全护栏及本土采购含量要求等）硬性绑定，旨在克服传统产业补贴的私营资本寻租与无条件分红弊端，实现兼具经济效率、供应链安全与社会包容的双重目标。"
+  - 贷款附加条件
+summary: "资助方或放贷方在提供公共资金、优惠贷款或产业补贴时，依法或依契约向受助方施加的前置准入门槛、合规义务与制度重构约束。在超国家开发治理中，表现为主权借贷捆绑的宏观紧缩与体制改革条款（如世行与IMF的结构调整条件），其实际成效取决于借款国本土政治意愿而非外源性强制（Castro, 2009）；在现代国家产业战略中，表现为主权政府向受补贴私营企业绑定的公共价值护栏（劳工技能、托儿保障、禁止股票回购、超额利润分享与国家安全限制），旨在防范资本寻租并重塑公私社会契约（Reynolds, 2024）。"
 type: concept
 domain: "science-policy"
-related_count: 35
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 42
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fce7f3"
 tags:
   - concept/science-policy
   - industrial-policy
@@ -21,6 +22,8 @@ tags:
   - state-capacity
   - conditionalities
   - political-economy
+  - theme/multilateral-development-banks
+  - theme/comparative-education
 related_concepts:
   - "[[Public Value]]"
   - "[[Apprenticeship]]"
@@ -38,7 +41,12 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Competitiveness]]"
   - "[[Embedded Autonomy]]"
-related_theories: []
+  - "[[Multilateral Development Bank]]"
+  - "[[Washington Consensus]]"
+  - "[[Structural Adjustment Programs]]"
+related_theories:
+  - "[[Conditioned State Theory]]"
+  - "[[Strategic Bargaining Theory]]"
 related_methods:
   - "[[Comparative Policy Analysis]]"
   - "[[Correlational Research]]"
@@ -63,10 +71,12 @@ related_arguments:
   - "[[Argument_Reynolds_2024_JICT]]"
   - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_NIST_2023_NSTC]]"
+  - "[[Argument_Castro_2009_MultilateralBanks]]"
+  - "[[Argument_Arnove_2009_WorldSystems]]"
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-11
+updated: 2026-10-14
 ---
 
 # Policy Conditionalities
@@ -76,17 +86,22 @@ updated: 2026-10-11
 ## 定义
 
 > [!def] 核心定义
-> **产业政策附加条件（Policy Conditionalities / 制度化附加条件与护栏条款）**指在现代产业战略中，政府在向私营企业提供直接财政补贴、低息贷款、税收抵免或战略采购支持时，依法或依契约设定的前置准入门槛、运营合规义务与收益分享规则。该机制旨在重塑国家与企业之间的社会契约（Social Contract），确保巨额公共投资不仅为私营资本去风险，更能直接转化为[[Public Value|公共价值]]——涵盖培育本土熟练工匠技能（[[Apprenticeship|注册学徒制]]）、提供可负担员工福利（托儿支持）、强化资本纪律（禁止股票回购与超额利润分享）、维护国家安全（地缘扩产护栏）以及拉动本土制造（本土采购要求）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–6, 8–10)]]
+> **政策附加条件（Policy Conditionalities / 制度化附加条件与护栏条款）**指在公共财政资助或主权开发信贷中，资助方/放贷方为了确保特定政策目标达成、防范道德风险并重塑权利义务关系，向受资助企业或借款国政府设定的前置准入门槛、运营合规义务、体制重组约束与收益分享规则。该机制在当代公共治理中涵盖两大核心制度传统：一是**超国家多边开发金融传统**，表现为[[International Monetary Fund|国际货币基金组织]]（IMF）、[[World Bank|世界银行]]与区域开发银行在主权贷款中设立的宏观紧缩、机构重组与法规修订条件，其落地效能高度受制于借贷国内部政治可行性与领导意愿（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 464–467]]）；二是**现代主权国家产业战略传统**，表现为主权政府在提供芯片、绿色能源等巨额公共补贴时设立的公共价值护栏，通过绑定[[Apprenticeship|注册学徒制]]、托儿福利、禁止股票回购、超额利润分享与地缘安全扩产限制，重塑国家与企业之间的社会契约（[[Argument_Reynolds_2024_JICT|Reynolds, 2024, pp. 4–6, 8–10]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 确立了公共资金注入从“无条件赠予/兜底”向“双向责任绑定与价值共创”的契约[[Paradigm|范式]]转型。
-> - **用途** 帮助政策分析者评估产业补贴是否有效转化为高质量就业、绿色转型与供应链韧性，防范公共财政沦为私营股东短期分红与金融套利的工具。
-> - **边界** 必须具备明确的法定授权与可操作的核查标准；如果附加条件过于严苛或繁琐，可能导致企业放弃申请补贴，抑制私人资本的协同响应。
+> - **用途** 帮助政策分析者评估产业补贴是否有效转化为高质量就业与安全护栏，以及透视超国家贷款附加条件在主权借款国内部政治博弈中的催化或受挫机制。
+> - **边界** 必须具备明确的法定授权与可操作的核查标准；如果附加条件脱离执行主体政治承受力或产业实际，易引发主权借贷中的“赶猫”式停摆危机或抑制私营资本的协同投资。
 
 > [!citation-card] 现代产业战略中的制度化附加条件
 > 现代产业战略必须重塑国家与私营部门之间的社会契约。附加条件（Conditionalities）指政府为获得公共支持的企业设定特定要求，将公共投资与更广泛的公共价值目标硬性挂钩——包括要求企业投资于工人技能培训与学徒制、提供托儿服务支持、承诺利润分享，以及限制海外先进制程扩张。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–5)]]
 >
 > *Conditionalities, where government sets requirements on companies that receive public support... allow the public sector to direct support to broader societal goals and ensure public value creation, including [[Workforce Development]], childcare, profit sharing, and security guardrails.*
+
+> [!citation-card] 卡斯特罗论多边开发贷款的附加条件与西奥多·罗斯福大棒
+> 开发银行常常挥舞着政策附加条件的西奥多·罗斯福大棒。它们试图迫使借款国做那些该国本身并不想做的事情。但这就像是在“赶猫放牧”（Herding Cats）。在三分之一的项目中，附加条件导致了项目的彻底停摆……唯有当借款国部长本身渴望推行改革、并将银行条件作为对抗国内工会或既得利益的外部盾牌时，附加条件才能成为强大的建设性杠杆。克劳迪奥·德·莫拉·卡斯特罗（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 465–466]]）
+>
+> *Development banks often brandish the Theodore Roosevelt stick of conditionalities. They try to force countries to do things they don't want to do. But this is like herding cats... In one-third of the cases, conditionalities stall the loans... Only when the ministers themselves want to reform and use the bank's conditionalities as a scapegoat against domestic opposition, do conditionalities become powerful and constructive levers.*
 
 > [!citation-card] 护栏条款与防范资本寻租
 > 《[[CHIPS and Science Act|芯片法案]]》明确规定，任何获得直接资金支持的企业在未来十年内均被禁止使用补贴资金进行股票回购或发放股息，并被严格限制在受关切国家扩大先进制程芯片产能。这些护栏条款（Guardrails）与附加条件共同构成了防范资本寻租与维护国家安全的制度防护网。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–9)]]
@@ -96,7 +111,7 @@ updated: 2026-10-11
 > [!boundary]- 概念边界
 > - **不等于 传统事后环境与劳工行政监管（Ex-post Regulatory [[Strategic Compliance|compliance]]）** 传统监管对全行业一视同仁且主要采取违法事后处罚；附加条件是针对享受特定公共产业扶持的企业设立的契约性增额前置要求。
 > - **不等于 普惠中立性税收减免（Blanket Unconditional Tax Deductions）** 普惠减免不考核企业的再投资方向与劳工标准；附加条件实行“达标增额”（如满足学徒工时可获 5 倍税收抵免）的定向激励。
-> - **不等于 指令性计划经济行政摊派（Command Directives）** 附加条件依托市场化自愿申请与公私商业谈判（Term Sheets），企业基于收益评估自主权衡是否接受条件约束。
+> - **不等于 单向度指令性强加命令（Coercive Command Directives）** 在产业政策中依托企业自愿申请谈判，在主权借贷中如果缺乏借贷国本土政治意愿，单方面硬性强加的附加条件极易沦为形式合规或在执行端被全面架空。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 465)]]
 
 ---
 

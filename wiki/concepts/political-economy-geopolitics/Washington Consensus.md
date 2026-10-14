@@ -18,13 +18,33 @@ tags:
   - comparative-education
   - educational-governance
   - world-bank
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Multilateral Development Bank]]"
+  - "[[Knowledge Bank]]"
+  - "[[Policy Conditionalities]]"
+  - "[[Structural Adjustment Programs]]"
+  - "[[Operationalization]]"
+  - "[[Strategic Compliance]]"
+  - "[[Development Education]]"
+related_theories:
+  - "[[Human Capital Theory]]"
+  - "[[World-Systems Theory]]"
+  - "[[Conditioned State Theory]]"
+  - "[[Organizational Culture]]"
+related_methods:
+  - "[[Comparative Case Study]]"
+  - "[[Documentary Analysis]]"
 related_instruments: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_persons:
+  - "[[Robert Arnove]]"
+related_facts:
+  - "[[World Bank]]"
+  - "[[International Monetary Fund]]"
+  - "[[Inter-American Development Bank]]"
+related_arguments:
+  - "[[Argument_Castro_2009_MultilateralBanks]]"
+  - "[[Argument_Olmos_Torres_2009_StateTheories]]"
+  - "[[Argument_Arnove_2009_WorldSystems]]"
 confidence: high
 status: active
 created: 2026-10-14
@@ -166,6 +186,12 @@ updated: 2026-10-14
 > >
 > > - **新古典经济学支持者** 坚持财政纪律、成本核算与竞争效率是经济运作的客观规律，借贷国之所以陷入危机是由于其未能严格贯彻这些原则，或是由于腐败寻租导致扭曲。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 459–460)]]
 > > - **批判政治经济学者（Torres, 1996; Arnove, 2009）** 指出华盛顿共识在教育领域的推行严重破坏了教育作为基本人权与公共民主产品的属性，导致全球南方公立教育体系碎片化、底层群体学费负担加剧以及阶级双轨鸿沟扩大。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–81)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–106)]]
+>
+> > [!axis] 理论教条原教旨推行 vs 组织在地实用主义妥协
+> > 争论多边机构内部是否机械僵化地将华盛顿共识作为普适圣经强加于借款国。
+> >
+> > - **教条主义信奉倾向（世行部分宏观经济学家）** 笃信英美主流微观计量与经济学范式，坚持将取消公共补贴、全面量化测验与民营化作为放贷审查不可退让的硬性前提。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 460)]]
+> > - **实用主义妥协策略（泛美开发银行与基层项目团队）** 认识到受援国深陷政治生存竞争与极端薄弱的行政承载力，在借贷文本中用共识口号作为“过审通关密语”，在实际执行环节则主动适应借款国政治生态、容忍渐进妥协。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 464)]]
 
 > [!warning] 适用局限
 > 华盛顿共识的有效性高度依赖借贷国本国是否存在运作健全的法治环境与基础市场制度；在国家官僚能力极度匮乏、社会严重不平等的极端低收入国家，机械照搬其取消补贴与竞争原则往往导致严重的公共服务供给灾难。
@@ -192,3 +218,4 @@ updated: 2026-10-14
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 考证华盛顿共识的本源含义，详述其在世界银行教育放贷中延伸出的九大操作信条，并剖析官员在项目谈判中的形式主义合规现象（pp. 459–460）。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 运用批判国家理论剖析华盛顿共识指导下的结构调整方案如何剥夺拉美外围国家教育主权并加剧阶级分轨（pp. 79–85）。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用世界体系分析揭示华盛顿共识指导下的教育援助如何固化依附格局并催生去政治化“影子国家”（pp. 105–107）。
