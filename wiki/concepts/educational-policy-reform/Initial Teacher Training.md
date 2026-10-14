@@ -37,7 +37,8 @@ related_theories: []
 related_methods:
   - "[[Correlational Research]]"
   - "[[Elite Interview]]"
-related_instruments: []
+related_instruments:
+  - "[[Teach Classroom Observation Tool]]"
 related_persons:
   - "[[Ian Menter]]"
 related_facts:
@@ -94,7 +95,7 @@ updated: 2026-10-14
 ## 核心要素
 
 > [!feature] 核心要素
-> - **多元培养路径（Training Routes）** 涵盖大学主导的教育学研究生证书（PGCE）、学校主导的校本培训（SCITT）、学校直通车（School Direct）以及针对优秀毕业生的直接入职计划（Teach First）。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 89–90)]]
+> - **多元培养路径（Training Routes）** 涵盖大学主导的教育学研究生证书（PGCE）、学校主导的校本培训（SCITT）、学校直通车（School Direct）以及针对优秀毕业生的直接入职计划（[[Teach Classroom Observation Tool|Teach]] First）。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 89–90)]]
 > - **法定标准与课程规程（Statutory Standards）** 国家制定的教师专业标准与核心内容框架（[[Initial Teacher Training Core Content Framework\|CCF]]），严格规定职前阶段必须掌握的认知科学理论与实践技能。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 90)]]
 > - **临床实践整合（Clinical Practice Integration）** 将大学[[Discipline-Based Theory\|学科理论]]与中小学沉浸式实习深度交织的实践教学机制，强调导师带教、现场观察与教学微格反思。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 92)]]
 > - **国家督导与资质认证（Accreditation & Inspection）** 由英国皇家教育标准局实施严格的拉网式质量评估，并由中央政府授予合格教师资格（QTS）。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 91)]]

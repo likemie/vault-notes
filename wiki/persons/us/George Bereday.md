@@ -54,7 +54,8 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Problem Approach]]"
   - "[[Sample Size Determination]]"
-related_instruments: []
+related_instruments:
+  - "[[Teach Classroom Observation Tool]]"
 related_persons:
   - "[[Joseph Lauwerys]]"
   - "[[Robert Ulich]]"
@@ -151,7 +152,7 @@ updated: 2026-10-09
 > [!citation-card] 贝雷迪论方法论探讨的紧迫使命
 > 探讨比较教育的方法，或许是从事比较教育研究与教学的人员必须面对的最紧迫任务。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 65)]]
 >
-> *The discussion of methods of comparative education is perhaps the most urgent task which those who research and teach comparative education must face. (Bereday, 1957: 13)*
+> *The discussion of methods of comparative education is perhaps the most urgent task which those who research and [[Teach Classroom Observation Tool|Teach]] comparative education must face. (Bereday, 1957: 13)*
 
 ---
 

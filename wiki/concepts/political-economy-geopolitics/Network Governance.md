@@ -77,6 +77,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
+  - "[[Teach Classroom Observation Tool]]"
 related_persons:
   - "[[Amelia Peterson]]"
   - "[[Alec Peterson]]"
@@ -294,7 +295,7 @@ updated: 2026-10-12
 > | **公共软件商业化** | **[[Assessment Tools for Teaching and Learning\|asTTle]] / e-asTTle 商业化** | 原由奥克兰大学公费开发，后将培训支持外包给私营公司，招标私营资本出资现代化 | 投资伙伴享有收费权并可开发海外商业版，公共资产转为准市场专利产品 |
 > | **慈善信托规模化** | **[[Manaiakalani Education Trust]] (2011)** | 由教育者与商界受托人混合组成，获 ASB 社区信托、Spark 基金会与三星资助 | 通过 Manaiakalani Outreach 将技术增强学习推广全国，运营成本转由家庭分摊 |
 > | **咨询联合体竞标** | **Te Toi Tupu 领导力网络 (2009)** | 政府将高校整笔资助改为竞争性合同，由 [[Cognition Education]]、NZCER 等联合中标 | 促成跨国商业咨询公司与大学联合注册 PLD 行业协会，确立商业服务标准 |
-> | **跨国特许教师计划** | **[[Teach First New Zealand]] (TFNZ 2011)** | 纽约 Teach for All、奥克兰大学、教育部与美资 Robertson 对冲基金会三方合作 | 将英美基于就业的两年制短期师资培养模式植入本土，对接特许学校需求 |
+> | **跨国特许教师计划** | **[[Teach First New Zealand]] (TFNZ 2011)** | 纽约 [[Teach Classroom Observation Tool\|Teach]] for All、奥克兰大学、教育部与美资 Robertson 对冲基金会三方合作 | 将英美基于就业的两年制短期师资培养模式植入本土，对接特许学校需求 |
 > | **公费私立[[Partnership Schools Kura Hourua\|伙伴学校]]** | **[[Partnership Schools Kura Hourua]] (PSKH)** | 政府设立授权委员会，批准营利或非营利私营实体运营公费私立特许学校 | 设立慈善支持实体 E Tipu E Rea 承接政府资助，使私营办学获得公法特许 |
 > | **基建融资外包** | **[[Public-Private Partnership in Research\|PPP]] 学校建设合同** | 联邦将学校基建授予 Learning Infrastructure Partners 及 Future School Partners 财团 | 引入私营财团承担全生命周期维护，政府以长期租赁租金锁定财政承诺 |
 > | **企业社会责任扩容** | **KickStart Breakfast 校园早餐** | 整合 Sanitarium（食品）与 Fonterra（恒天然乳业）的企业社会责任网络 | 政府与商业财团各半配资并引入慈善组织 Kidscan，以网络慈善替代法定公共福利 |

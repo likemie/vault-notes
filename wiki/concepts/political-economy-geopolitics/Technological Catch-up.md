@@ -23,6 +23,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Intellectual Capital]]"
   - "[[Paradigm]]"
+  - "[[Tacit Knowledge]]"
   - "[[Determinism]]"
   - "[[Variable]]"
   - "[[National Innovation System]]"

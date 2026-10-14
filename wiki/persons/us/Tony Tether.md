@@ -23,6 +23,7 @@ tags:
   - science-policy
   - darpa
 related_concepts:
+  - "[[National Innovation System]]"
   - "[[Paradigm]]"
   - "[[Valley of Death]]"
   - "[[DARPA Model]]"
@@ -30,6 +31,7 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Embedded Network Governance]]"
   - "[[Network Governance]]"
+  - "[[Innovation Ecosystem]]"
   - "[[Vertical Disintegration]]"
 related_theories:
   - "[[Developmental Network State]]"
@@ -38,16 +40,16 @@ related_methods:
 related_instruments:
   - "[[Heilmeier Catechism]]"
 related_persons:
-  - "[[Erica Fuchs]]"
   - "[[Fred Block]]"
+  - "[[Erica Fuchs]]"
   - "[[George Heilmeier]]"
 related_facts:
   - "[[DARPA]]"
   - "[[Computing Research Association]]"
   - "[[National Academy of Sciences]]"
 related_arguments:
-  - "[[Argument_Fuchs_2010_RP]]"
   - "[[Argument_Block_2008_PS]]"
+  - "[[Argument_Fuchs_2010_RP]]"
 confidence: high
 status: active
 created: 2026-10-04
@@ -62,7 +64,7 @@ updated: 2026-10-12
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国（US），电气工程师、国防采办高级管理者；曾任美国国防部战略技术办公室主任、福特航空航天公司副总裁、科学应用国际公司（SAIC）副总裁、[[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）局长（2001–2009）。
-> - **核心角色** DARPA 历史上**任期最长的一任局长**（小布什总统执政期间执掌长达 8 年）。任内推行冷战后最激进的采办考核机制重构与反恐技术攻坚，是当代科技政策界关于“国家战略科研中高校自由探索 vs 产业系统交付”学术论战的核心焦点人物；在发展型国家理论中，其执政经历被[[Fred Block|布洛克]]（Block, 2008）视为[[National Innovation System|国家创新系统]]过度藏匿于国防外衣之下导致科研涉密化与学术互信断裂的典型标本。
+> - **核心角色** DARPA 历史上**任期最长的一任局长**（小布什总统执政期间执掌长达 8 年）。任内推行冷战后最激进的采办考核机制重构与反恐技术攻坚，是当代科技政策界关于“国家战略科研中高校自由探索 vs 产业系统交付”学术论战的核心焦点人物；在发展型国家理论中，其执政经历被[[Fred Block|布洛克]]（[[Argument_Block_2008_PS|Block, 2008]]）视为[[National Innovation System|国家创新系统]]过度藏匿于国防外衣之下导致科研涉密化与学术互信断裂的典型标本。
 > - **代表贡献** 确立“弥合鸿沟”（Bridging the Gap）战略；首创自动驾驶领域悬赏竞赛[[Paradigm|范式]]（DARPA Grand Challenge 2004/2005/2007）；资助敏捷感知认知助理项目（CALO，直接派生孵化出苹果公司 Siri）；资助片内光互连系统集成项目（UNIC 计划）。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138, 1142–1144)]]
 
 > [!citation-card]- 采办机制改革的核心主旨

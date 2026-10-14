@@ -164,6 +164,8 @@ related_facts:
   - "[[World Council of Comparative Education Societies]]"
   - "[[Research Strategies in Comparative Education]]"
   - "[[UNESCO]]"
+related_instruments:
+  - "[[Teach Classroom Observation Tool]]"
 confidence: high
 status: active
 created: 2026-09-29
@@ -553,7 +555,7 @@ updated: 2026-10-01
 > [!citation-card] [[Horace Mann|霍勒斯·曼]]论恶政与优良教学法的自然可分性
 > 如果普鲁士的学校教师能用我们通常所需一半的时间教会儿童认字、写字、地理和算术，那么我们完全可以借鉴他传授这些基础要素的教学方式，而绝无必要采纳他对政府被动顺从的政治观念。（p.125）
 >
-> *if the Prussian schoolmaster could teach reading, writing, geography, and arithmetic in half the time that was required in America, then surely they could “copy his modes of teaching these elements, without adopting his notions of passive obedience to government.”*
+> *if the Prussian schoolmaster could [[Teach Classroom Observation Tool|Teach]] reading, writing, geography, and arithmetic in half the time that was required in America, then surely they could “copy his modes of teaching these elements, without adopting his notions of passive obedience to government.”*
 
 > [!citation-card] [[Val D. Rust|瓦尔·拉斯特]]论[[Discipline-Based Theory|学科理论]][[Pluralism|多元主义]]并非失控碎片化
 > 在我们看来，比较教育学科正在走向多元主义，而非陷入碎片化；这种多元性当被视为学科的生机与优势，标志着学科打破了 1950 年代至 1960 年代初在理论与方法上窒息探索的教条正统。任何迅疾发展的领域固然都潜藏着失控失序的风险……但这绝非学科当下的现实；我们坚信，比较教育是一个健康且边界明确的学术探索领域。（p.132）

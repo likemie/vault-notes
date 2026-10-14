@@ -109,7 +109,8 @@ related_arguments: []
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
-related_instruments: []
+related_instruments:
+  - "[[Teach Classroom Observation Tool]]"
 status: draft
 created: 2026-06-21
 updated: 2026-10-08
@@ -433,7 +434,7 @@ updated: 2026-10-08
 
 > [!tip]- 网络检索的四个操作符
 > - **引号（"..."）** 将词语保持在一起且顺序不变，减少返回网站数量
-> - **星号（\*）** 在词根后加星号，返回不同结尾的网站，如 teach\* 返回 teach, teaching, teacher
+> - **星号（\*）** 在词根后加星号，返回不同结尾的网站，如 [[Teach Classroom Observation Tool|Teach]]\* 返回 teach, teaching, teacher
 > - **波浪号（\~）** 在词前加波浪号，识别相似词，如 \~English teaching 同时返回 English language 和 English teaching
 > - **布尔操作符** and, not, or 连接词语或短语
 

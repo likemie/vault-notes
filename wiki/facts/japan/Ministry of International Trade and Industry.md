@@ -27,24 +27,29 @@ related_concepts:
   - "[[Patient Capital]]"
   - "[[Return on Investment]]"
   - "[[Valley of Death]]"
+  - "[[Epistemology]]"
   - "[[Discourse]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[Technological Catch-up]]"
+  - "[[National Innovation System]]"
+  - "[[Network Governance]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Directionality of Innovation]]"
   - "[[Modern Industrial Policy]]"
   - "[[Vertical Disintegration]]"
+  - "[[Document]]"
 related_theories:
   - "[[Organizational Culture]]"
   - "[[Technological Trajectories]]"
-  - "[[Stokes' Quadrant Model of Scientific Research]]"
   - "[[Developmental Network State]]"
+  - "[[Stokes' Quadrant Model of Scientific Research]]"
+  - "[[Pasteur's Quadrant]]"
   - "[[Three Generations of Mission-Oriented Policy]]"
 related_persons:
   - "[[Chalmers Johnson]]"
   - "[[Rainer Kattel]]"
   - "[[Mariana Mazzucato]]"
   - "[[Fred Block]]"
-  - "[[Donald Stokes]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Mody_2017_MOH]]"
@@ -120,7 +125,7 @@ aliases:
 > [!dimension] 理论意义与实践贡献
 > - **后发追赶使命政策（骆驼形态）的理论基石** [[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）指出，MITI 证明了第一代使命政策的核心逻辑——通过韦伯式精英官僚网络与国家意志，动员全社会资源承担长周期探索风险，奠定现代产业基础。（pp. 792–793）
 > - **倒逼西方重构微电子研发体制的外部制度催化剂** 赛勒斯·莫迪（Cyrus C. M. Mody）指出，MITI 主导的半导体联合研发模式不仅推动了日本国内的技术崛起，更被美国产业界与决策层视为产业联合体（Research Consortia）的先驱模板（Sematech 在 1991 年报告中明确指出日本在 1971 至 1980 年间共建立了 5 个半导体研发联合体）。MITI 四年内向 [[VLSI Project|VLSI]] 计划注资 2.33 亿美元的国家行动，被美国学者与产业领袖广泛援引为“地缘生存危机”，直接成为加州理工学院（[[Silicon Structures Project|SSP]]）、康奈尔大学（[[National Research and Resource Facility for Submicron Structures|NRRFSS]]）、斯坦福大学（CIS）建立大学微电子中心，以及美国设立[[Semiconductor Research Corporation|半导体研究公司]]（[[Semiconductor Research Corporation|SRC]]）、[[Microelectronics and Computer Technology Corporation|微电子与计算机技术公司]]（[[Microelectronics and Computer Technology Corporation|MCC]]）和[[Sematech|半导体制造技术战略联盟]]（[[Sematech]]）的核心动员[[Discourse|话语]]。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 289, 292, 296)]]
-> - **后工业[[Knowledge-Based Economy|知识经济]]转型中的科层局限与范式分水岭** [[Fred Block|弗雷德·布洛克]]（Block, 2008）从后工业技术变迁视角系统反思了 MITI 模式的制度边界。他指出，以通产省为代表的“科层发展型国家”（DBS）其成功严格依赖于二战后特定时期的已知技术模仿与福特制大规模生产追赶（如钢铁、造船、汽车与标准化 DRAM 芯片）；然而在跨入后工业知识经济后，前沿技术创新深植于斯托克斯界定的[[Pasteur's Quadrant|巴斯德象限]]，基础科学与工程应用紧密缠绕且高度不可预测。在此情境下，任何集权的中央部委均无法预判突破路径或有效“挑选赢家”；通产省集权模式在 1990 年代面对软件、互联网与模块化去中心化创新时的迟滞，证明了科层追赶模式的历史局限，倒逼欧美探索出依托分散化专业机构网络与多元协同资助的“[[Developmental Network State|发展型网络国家]]”（DNS）模式。[[Argument_Block_2008_PS|(Block, 2008, pp. 171–174)]]
+> - **后工业[[Knowledge-Based Economy|知识经济]]转型中的科层局限与范式分水岭** [[Fred Block|弗雷德·布洛克]]（[[Argument_Block_2008_PS|Block, 2008]]）从后工业技术变迁视角系统反思了 MITI 模式的制度边界。他指出，以通产省为代表的“科层发展型国家”（DBS）其成功严格依赖于二战后特定时期的已知技术模仿与福特制大规模生产追赶（如钢铁、造船、汽车与标准化 DRAM 芯片）；然而在跨入后工业知识经济后，前沿技术创新深植于斯托克斯界定的[[Pasteur's Quadrant|巴斯德象限]]，基础科学与工程应用紧密缠绕且高度不可预测。在此情境下，任何集权的中央部委均无法预判突破路径或有效“挑选赢家”；通产省集权模式在 1990 年代面对软件、互联网与模块化去中心化创新时的迟滞，证明了科层追赶模式的历史局限，倒逼欧美探索出依托分散化专业机构网络与多元协同资助的“[[Developmental Network State|发展型网络国家]]”（DNS）模式。[[Argument_Block_2008_PS|(Block, 2008, pp. 171–174)]]
 > - **发展型国家的当代转型启示** 随着日本从[[Technological Catch-up|技术追赶]]走向全球技术前沿，MITI 展现了从追赶型外汇管制向开辟 21 世纪环境、清洁能源与前沿数字技术新使命的动态能力演进，为亚洲各国的政策转型提供了持续的经验样本。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 796)]]
 
 > [!stat-cards]- [[VLSI Project|VLSI]] 项目核心数据
@@ -140,7 +145,7 @@ aliases:
 > > 探讨单一超级部委自上而下的产业统领模式在面对激进非线性技术创新时究竟具备效率优势还是内生结构性盲区。
 > >
 > > - **传统东亚发展型国家学派（Johnson, 1982）** 强调国家集中意志与高素质嵌入式官僚在后发赶超中的制度优越性，认为通产省在动员国家[[Patient Capital|耐性资本]]、防范恶性过度竞争以及促成企业联合研发攻关（如 [[VLSI Project|VLSI]] 计划）方面展现了无可替代的追赶效率。
-> > - **后工业网络创新治理学派（Block, 2008）** 指出后工业高科技创新具有极端的不确定性与[[Epistemology|认识论]]分散性，任何单一官僚机构都不具备预知技术路线的垄断智慧；通产省模式在 1990 年代后期的迟滞暴露出科层集权无法适应去中心化、跨学科与探索性的非线性创新，证实了现代[[National Innovation System|国家创新体系]]向去中心化专业[[Network Governance|网络治理]]转型的必要性。[[Argument_Block_2008_PS|(Block, 2008, pp. 171–174)]]
+> > - **后工业网络创新治理学派（[[Argument_Block_2008_PS|Block, 2008]]）** 指出后工业高科技创新具有极端的不确定性与[[Epistemology|认识论]]分散性，任何单一官僚机构都不具备预知技术路线的垄断智慧；通产省模式在 1990 年代后期的迟滞暴露出科层集权无法适应去中心化、跨学科与探索性的非线性创新，证实了现代[[National Innovation System|国家创新体系]]向去中心化专业[[Network Governance|网络治理]]转型的必要性。[[Argument_Block_2008_PS|(Block, 2008, pp. 171–174)]]
 
 ---
 

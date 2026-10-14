@@ -21,11 +21,12 @@ tags:
   - political-economy
   - latin-america
 related_concepts:
+  - "[[Washington Consensus]]"
   - "[[Liberalization]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Teaching Assistant]]"
-  - "[[Discourse]]"
   - "[[Policy Conditionalities]]"
+  - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Import Substitution Industrialisation]]"
   - "[[Endogenous and Exogenous Privatisation]]"
@@ -35,6 +36,7 @@ related_concepts:
   - "[[Financial-Intellectual Complex]]"
   - "[[Dependent Variable]]"
   - "[[Development Education]]"
+  - "[[Multilateral Development Bank]]"
   - "[[Operationalization]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -62,9 +64,11 @@ related_facts:
   - "[[UNICEF]]"
   - "[[Poverty Reduction Strategy Papers]]"
   - "[[Education for All]]"
+  - "[[Inter-American Development Bank]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
+  - "[[Argument_Castro_2009_MultilateralBanks]]"
   - "[[Argument_Rust_2009_Reflections]]"
 confidence: high
 status: active
@@ -79,12 +83,12 @@ updated: 2026-10-11
 ## 定义
 
 > [!def] 核心定义
-> **结构调整方案（Structural Adjustment Programs, SAPs）**是指[[World Bank|世界银行]]（World Bank）与[[International Monetary Fund|国际货币基金组织]]（International Monetary Fund, IMF）自 20 世纪 70 年代末及 80 年代债务危机以来，在华盛顿共识（Washington Consensus）指引下，向面临严重国际收支失衡与主权债务危机的全球南方国家提供贷款时，所强制捆绑的一整套以紧缩财政、市场[[Liberalization|自由化]]、去监管化和国家资产私有化为核心的宏观经济政策处方。在教育领域，结构调整方案将教育从普遍公民权利降格为私人消费品，通过强制要求受援国缩减教育公共预算、推行使用者付费（学杂费）、鼓励营利性私立学校竞争以及实施地方分权化甩脱国家包袱，深刻重构了外围国家的公共教育供给格局。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80)]]
+> **结构调整方案（Structural Adjustment Programs, SAPs）**是指[[World Bank|世界银行]]（World Bank）与[[International Monetary Fund|国际货币基金组织]]（International Monetary Fund, IMF）自 20 世纪 70 年代末及 80 年代债务危机以来，在[[Washington Consensus|华盛顿共识]]（Washington Consensus）指引下，向面临严重国际收支失衡与主权债务危机的全球南方国家提供贷款时，所强制捆绑的一整套以紧缩财政、市场[[Liberalization|自由化]]、去监管化和国家资产私有化为核心的宏观经济政策处方。在教育领域，结构调整方案将教育从普遍公民权利降格为私人消费品，通过强制要求受援国缩减教育公共预算、推行使用者付费（学杂费）、鼓励营利性私立学校竞争以及实施地方分权化甩脱国家包袱，深刻重构了外围国家的公共教育供给格局。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向跨国金融资本利用债务杠杆，对民族国家公共服务供给结构实施的外生性政策强制与制度再[[Disciplina and Doctrina|规训]]机制。
 > - **用途** 帮[[Teaching Assistant|助教]]育政治经济学与比较教育学研究者透视全球南方国家在 1980 年代之后普遍出现的教育公共投资骤降、公立学校生源枯竭以及学杂费壁垒的外部制度根源。
-> - **边界** 聚焦于国际金融多边机构主导的外部贷款附加条件（Conditionality），不应泛化为国内自发推行的常规行政体制微调或自下而上的教育教学方法改革。
+> - **边界** 聚焦于国际金融多边机构主导的外部[[Policy Conditionalities|贷款附加条件]]（Conditionality），不应泛化为国内自发推行的常规行政体制微调或自下而上的教育教学方法改革。
 
 > [!citation-card] 结构调整[[Discourse|话语]]的概念模糊与政治强制
 > 结构调整通常被描绘为世界银行、国际货币基金组织和其他金融机构推荐的一整套广泛政策。虽然世界银行试图在宏观稳定化（Stabilization）、结构调整（Structural Adjustment）与部门调整政策之间做出概念区分，但正如[[Joel Samoff|萨莫夫]]所指出的，世界银行自身也承认，在日常实践中这些关键术语的通俗使用往往是模糊且前后矛盾的，但它们作为强制贷款附加条件的刚性却从未减弱。[[Argument_Olmos_Torres_2009_StateTheories|(Samoff, 1990; Olmos & Torres, 2009, p. 80)]]
@@ -183,7 +187,7 @@ updated: 2026-10-11
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **教育主权剥夺命题** | 金融机构利用贷款附加条件迫使国家紧缩教育支出，瓦解国家公共功能 | 1980 年代以来拉美及非洲受援国债务调整期 | [[Liliana Esther Olmos\|Olmos]] & [[Carlos Alberto Torres\|Torres]]; [[Joel Samoff\|Samoff]] |
+> | **教育主权剥夺命题** | 金融机构利用[[Policy Conditionalities\|贷款附加条件]]迫使国家紧缩教育支出，瓦解国家公共功能 | 1980 年代以来拉美及非洲受援国债务调整期 | [[Liliana Esther Olmos\|Olmos]] & [[Carlos Alberto Torres\|Torres]]; [[Joel Samoff\|Samoff]] |
 > | **阶级再生产策略命题** | 教育市场化改革本质上是将经济危机代价转嫁给底层的阶级统治策略 | 新自由主义私有化与教育券推广情境 | [[Stephen Ball\|Ball]]; [[Martin Carnoy\|Carnoy]] |
 > | **技术官僚与影子国家** | 结构调整依赖技术官僚成本效益话语推进规训，外包服务致使非政府组织蜕变为影子国家并锁定依附地位 | 全球南方国家公共职能收缩与国际援助外包情境 | [[Robert Arnove\|Arnove]]; Kamat; Heyneman |
 
@@ -193,7 +197,7 @@ updated: 2026-10-11
 
 > [!dev-timeline] 概念演变
 > - **1970s末 — 萌芽与试验** 伴随撒切尔与里根的新自由主义革命，并在智利皮诺切特军政府时期由“芝加哥男孩”率先在拉美开展结构调整与教育券私有化激进试验。
-> - **1980s — 华盛顿共识与防卫性[[Disciplina and Doctrina|规训]]多边主义（“失去的十年”）** [[Latin American Debt Crisis of 1982|拉美债务危机]]全面爆发，[[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 将结构调整方案推广至整个非洲与拉丁美洲，防卫性与规训性多边主义取代了战后[[UNESCO|联合国教科文组织]]倡导的再分配福利取向；[[Robert Arnove|阿诺夫]]（Arnove, 1980）前瞻性指出，国际金融机构与大型基金会所推行的紧缩革新实质上固化了既有的依附性国际与国内分层。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106, 110)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80)]]
+> - **1980s — [[Washington Consensus|华盛顿共识]]与防卫性[[Disciplina and Doctrina|规训]]多边主义（“失去的十年”）** [[Latin American Debt Crisis of 1982|拉美债务危机]]全面爆发，[[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 将结构调整方案推广至整个非洲与拉丁美洲，防卫性与规训性多边主义取代了战后[[UNESCO|联合国教科文组织]]倡导的再分配福利取向；[[Robert Arnove|阿诺夫]]（Arnove, 1980）前瞻性指出，国际金融机构与大型基金会所推行的紧缩革新实质上固化了既有的依附性国际与国内分层。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106, 110)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80)]]
 > - **1990s — 灾难性后果、技术官僚包装与非政府组织异化** [[UNICEF|联合国儿童基金会]]（UNICEF）发布《调整具有人情面孔》（*Adjustment with a Human Face*），实证揭示 SAPs 导致全球南方初等识字率倒退、婴儿营养不良与公立学校大面积凋敝；[[Joel Samoff|萨莫夫]]（1992, 1993）系统揭露世界银行以[[Financial-Intellectual Complex|金融-智识复合体]]压制学术批评；同时，削减国家支出催生了社会服务向非政府组织的大规模外包，引发“[[Shadow State|影子国家]]”体制异化危机。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 107, 111–112)]]
 > - **2000s — [[Discourse|话语]]包装与[[Poverty Reduction Strategy Papers|减贫战略文件]]（PRSP）** 在全球批判浪潮下，世界银行将 SAPs 更名为“减贫战略文件”（Poverty Reduction Strategy Papers, PRSPs），口头上强调[[Education for All|全民教育]]（[[Exploratory Factor Analysis|EFA]]），但在底层放贷中依旧固守新自由主义技术官僚与成本收益逻辑。
 
@@ -234,9 +238,9 @@ updated: 2026-10-11
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Multilateral Development Bank]] | 概念 | 推行结构调整与行业贷款附加条件的核心超国家开发金融载体。 |
+> | [[Multilateral Development Bank]] | 概念 | 推行结构调整与行业[[Policy Conditionalities\|贷款附加条件]]的核心超国家开发金融载体。 |
 > | [[Washington Consensus]] | 概念 | 指导结构调整方案各项宏观经济紧缩与市场化信条的智识共识基础。 |
-> | [[Inter-American Development Bank]] | 事实 (机构) | 在结构调整期更偏重务实基建借贷、与世行激进体制改革形成对照的区域开发银行。 |
+> | [[Inter-American Development Bank]] | 事实 (机构) | 在结构调整期更偏重务实基建借贷、与[[World Bank\|世行]]激进体制改革形成对照的区域开发银行。 |
 > | [[Financial-Intellectual Complex]] | 概念 | 揭示[[World Bank\|世界银行]]推行结构调整方案时垄断研究生产与专家智库的话语权力中介。 |
 > | [[Import Substitution Industrialisation]] | 概念 | 说明结构调整方案如何取代早期内向型工业化，迫使国家从发展主义走向新自由主义紧缩。 |
 > | [[Endogenous and Exogenous Privatisation]] | 概念 | 分析结构调整方案在教育系统内外部推行私有化与市场运作的具体[[Operationalization\|操作化]]路径。 |
@@ -252,7 +256,7 @@ updated: 2026-10-11
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 从[[Conditioned State Theory|受限国家理论]]与阶级策略视角，系统阐述[[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 的结构调整方案如何通过贷款附加条件剥夺拉美国家的教育公共主权并加剧阶级分化。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 从[[Conditioned State Theory|受限国家理论]]与阶级策略视角，系统阐述[[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 的结构调整方案如何通过[[Policy Conditionalities|贷款附加条件]]剥夺拉美国家的教育公共主权并加剧阶级分化。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 104–106, 110–112)]] — 运用[[World-Systems Theory|世界体系分析]]透视结构调整方案的技术官僚成本效益[[Discourse|话语]]，揭示公共开支削减如何导致基础教育向非政府组织外包并异化为“[[Shadow State|影子国家]]”，进而固化外围国家的依附地位。
 > - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 实证对照结构调整市场化改革对受援国[[Education for All|全民教育]]（[[Exploratory Factor Analysis|EFA]]）进程的阻碍与古巴自主公共教育动员的成功，揭示外部强制紧缩与市场化对全球南方教育发展造成的结构性破坏。
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员视角反思多边贷款附加条件的执行限度与政治博弈，揭示强推改革的不可行性与借款国内部官僚利用银行作为挡箭牌的策略（pp. 465–467）。

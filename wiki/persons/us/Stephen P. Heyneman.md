@@ -60,8 +60,8 @@ related_facts:
   - "[[PISA]]"
   - "[[TIMSS]]"
 related_arguments:
-  - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Castro_2009_MultilateralBanks]]"
+  - "[[Argument_Arnove_2009_WorldSystems]]"
 confidence: high
 status: draft
 created: 2026-09-29
@@ -77,7 +77,7 @@ updated: 2026-10-15
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名比较教育与[[International Education|国际教育]]政策学者，范德堡大学皮博迪教育学院荣休讲席教授，[[World Bank|世界银行]]教育与社会政策前资深首席专家（1976–1998），[[Comparative and International Education Society|比较与国际教育学会]]（CIES）前主席。
 > - **核心角色** 发展中国家[[School Effectiveness|学校效能]]实证研究与世界银行跨国教育援助政策的核心参与者与反思批判者。
-> - **代表贡献** 与威廉·洛克斯利（William Loxley）共同提出里程碑式的“海尼曼-洛克斯利效应”（Heyneman-Loxley Effect, 1983）；发表权威学术自省长文《世界银行教育政策制定的历史与问题（1960–2000）》（Heyneman, 2003），系统解构世界银行基于新古典经济学的跨国放贷逻辑，并因揭示世行高层与一线专业官员之间的教条主义激烈内战，成为[[Claudio de Moura Castro|卡斯特罗]]（Castro, 2009）等圈内学者实证互证的重要基准。
+> - **代表贡献** 与威廉·洛克斯利（William Loxley）共同提出里程碑式的“海尼曼-洛克斯利效应”（Heyneman-Loxley Effect, 1983）；发表权威学术自省长文《世界银行教育政策制定的历史与问题（1960–2000）》（Heyneman, 2003），系统解构世界银行基于新古典经济学的跨国放贷逻辑，并因揭示世行高层与一线专业官员之间的教条主义激烈内战，成为[[Claudio de Moura Castro|卡斯特罗]]（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）等圈内学者实证互证的重要基准。
 
 > [!citation-card] [[Robert Arnove|阿诺夫]]论海尼曼对世界银行[[Analytic Framework|分析框架]]局限性的反思
 > 跨国技术援助与金融机构的政策[[Discourse|话语]]，紧密绑定于对各级各类教育价值的[[Cost-Benefit Analysis|成本效益分析]]与生产函数模型。然而，正如前世界银行教育司资深官员海尼曼（Heyneman, 2003）所坦诚承认的那样，这一狭隘的经济学分析框架存在极其严重的局限性，并对发展中国家制定更为公平和有效的教育政策造成了深远的负面后果。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
@@ -108,7 +108,7 @@ updated: 2026-10-15
 > - **1990s–2000s — 多边援助[[Paradigm|范式]]批判与世界银行内部机制反思** 从学术官员转向独立学者，深刻剖析国际金融机构的教条主义弊端与组织政治生态。
 >   - **代表著作** "The history and problems in the making of educational policy at the World Bank 1960–2000" (2003)。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110, 117)]]; [[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 460)]]
 >   - **关键概念／理论** [[Educational Multilateralism|教育多边主义]]异化、教育生产函数局限、借贷附带条件批判、多边银行组织内部分歧。
->   - **阶段转向** 尖锐批评世界银行过度迷信“收益率计量”和结构调整附带条件，指出其用刚性经济公式扼杀后发国家教育公平的深层恶果；同时从组织政治学揭示世行并非新自由主义单一体，而是存在专业官员与最高管理层之间的激烈教条冲突，该史实获得同僚[[Claudio de Moura Castro|卡斯特罗]]（Castro, 2009）的现场亲历互证。
+>   - **阶段转向** 尖锐批评世界银行过度迷信“收益率计量”和结构调整附带条件，指出其用刚性经济公式扼杀后发国家教育公平的深层恶果；同时从组织政治学揭示世行并非新自由主义单一体，而是存在专业官员与最高管理层之间的激烈教条冲突，该史实获得同僚[[Claudio de Moura Castro|卡斯特罗]]（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）的现场亲历互证。
 
 ---
 
@@ -161,8 +161,8 @@ updated: 2026-10-15
 > > [!axis] 多边机构决策属性：单一新自由主义霸权 vs 内部多元撕裂与官僚博弈
 > > 围绕[[World Bank|世界银行]]教育政策决策机制究竟是由统一的新自由主义意识形态机械支配，还是充满内部[[Heterogeneity|异质性]]与官僚政治博弈。
 > >
-> > - **外部世界体系批判视角（Arnove, 2009）** 将世界银行定性为推行跨国资本积累、制造[[Conditioned State Theory|受限国家]]依附地位的整齐划一的外部[[Disciplina and Doctrina|规训]]机器。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–106)]]
-> > - **圈内制度分析视角（Heyneman, 2003; Castro, 2009）** 指出世行专业官员来自全球顶尖大学，热衷于理论辩论且绝非思维同质化的军队；1990 年代初教育一线专家与行方管理层曾爆发激烈教条冲突，政策扭曲更多源于高层管理教条与微观执行合规异化，而非抽象的外部资本阴谋。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 460)]]
+> > - **外部世界体系批判视角（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）** 将世界银行定性为推行跨国资本积累、制造[[Conditioned State Theory|受限国家]]依附地位的整齐划一的外部[[Disciplina and Doctrina|规训]]机器。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–106)]]
+> > - **圈内制度分析视角（Heyneman, 2003; [[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）** 指出世行专业官员来自全球顶尖大学，热衷于理论辩论且绝非思维同质化的军队；1990 年代初教育一线专家与行方管理层曾爆发激烈教条冲突，政策扭曲更多源于高层管理教条与微观执行合规异化，而非抽象的外部资本阴谋。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 460)]]
 
 ---
 

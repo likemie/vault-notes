@@ -195,7 +195,7 @@ updated: 2026-10-15
 > > 争论华盛顿共识原则究竟是克服发展中国家经济病灶的普遍药方，还是西方资本中心推行[[Disciplina and Doctrina|规训]]外围国家的意识形态霸权。
 > >
 > > - **新古典经济学支持者** 坚持财政纪律、成本核算与竞争效率是经济运作的客观规律，借贷国之所以陷入危机是由于其未能严格贯彻这些原则，或是由于腐败寻租导致扭曲。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 459–460)]]
-> > - **批判政治经济学者（Torres, 1996; Arnove, 2009）** 指出华盛顿共识在教育领域的推行严重破坏了教育作为基本人权与公共民主产品的属性，导致全球南方公立教育体系碎片化、底层群体学费负担加剧以及阶级双轨鸿沟扩大。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–81)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–106)]]
+> > - **批判政治经济学者（Torres, 1996; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）** 指出华盛顿共识在教育领域的推行严重破坏了教育作为基本人权与公共民主产品的属性，导致全球南方公立教育体系碎片化、底层群体学费负担加剧以及阶级双轨鸿沟扩大。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–81)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–106)]]
 >
 > > [!axis] 理论教条原教旨推行 vs 组织在地[[Pragmatic Paradigm|实用主义]]妥协
 > > 争论多边机构内部是否机械僵化地将华盛顿共识作为普适圣经强加于借款国。

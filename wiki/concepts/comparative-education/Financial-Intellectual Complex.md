@@ -38,6 +38,7 @@ related_concepts:
   - "[[Market Fundamentalism]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Categorical Funding]]"
+  - "[[Washington Consensus]]"
   - "[[Development Education]]"
   - "[[Variable]]"
   - "[[Technical Rationality]]"
@@ -190,7 +191,7 @@ updated: 2026-10-12
 > [!debates] 理论争议
 >
 > > [!axis] 技术中立的循证开发工具 vs. 资本驱动的知识新殖民体系
-> > 争论以[[World Bank|世界银行]]为核心的[[Categorical Funding|委托研究]]是帮助贫困国家优化资源配置的客观科学工具，还是推行华盛顿共识新自由主义[[Disciplina and Doctrina|规训]]的意识形态武器。
+> > 争论以[[World Bank|世界银行]]为核心的[[Categorical Funding|委托研究]]是帮助贫困国家优化资源配置的客观科学工具，还是推行[[Washington Consensus|华盛顿共识]]新自由主义[[Disciplina and Doctrina|规训]]的意识形态武器。
 > >
 > > - **新古典经济学派与世行官方团队** 认为成本效益与回报率估算提供了跨国可比的客观证据，有助于克服[[Development Education|发展中国家教育]]系统的寻租低效与腐败。
 > > - **批判政治经济学者 ([[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres, 2009, pp. 80–81]])** 指出复合体通过挑选特定模型排斥阶级公平与主权民主，实质是跨国资本积累在外围国家的制度性护航。

@@ -24,6 +24,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Competitiveness]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Washington Consensus]]"
   - "[[Variable]]"
   - "[[Valley of Death]]"
   - "[[Corporate R&D Labs]]"
@@ -160,7 +161,7 @@ updated: 2026-10-14
 > [!dev-timeline] 概念演变
 > - **1944 — 思想渊源：波兰尼《大转型》** 卡尔·波兰尼系统解构了 19 世纪英国“自调节市场”乌托邦的神话，揭示自由市场是国家集中立法与暴力推行的制度产物，并提出社会自我保护的“双重运动”。
 > - **1980 — 新自由主义执政[[Paradigm|范式]]确立** 里根与撒切尔执政时期，弗里德曼与哈耶克的自由放任学说成为主流执政哲学；弗里德曼在《自由选择》中公然否定政府资助科学研究在经济上的正当性。
-> - **1998 — 索[[Nikolas Rose|罗斯]]与斯蒂格利茨对全球金融危机的批判** 乔治·索罗斯（George Soros, 1998）与约瑟夫·斯蒂格利茨（Joseph Stiglitz）在反思亚洲金融危机时将华盛顿共识的放任教条定性为“市场原教旨主义”。
+> - **1998 — 索[[Nikolas Rose|罗斯]]与斯蒂格利茨对全球金融危机的批判** 乔治·索罗斯（George Soros, 1998）与约瑟夫·斯蒂格利茨（Joseph Stiglitz）在反思亚洲金融危机时将[[Washington Consensus|华盛顿共识]]的放任教条定性为“市场原教旨主义”。
 > - **2008 — [[Fred Block|布洛克]]将其引入科技创新政治经济学** 弗雷德·布洛克在《Politics & Society》论文中将该概念运用于剖析美国国家科技创新体制的扭曲与隐形化。[[Argument_Block_2008_PS|(Block, 2008, pp. 169–172)]]
 > - **2014 — 理论系统化集大成** 布洛克与玛格丽特·萨默斯（Margaret Somers）合著《市场原教旨主义的权力》（The Power of Market Fundamentalism），全面阐发这一意识形态如何通过“自然法则”[[Discourse|话语]]伪装掩盖阶级利益并阻断社会制度改革。
 

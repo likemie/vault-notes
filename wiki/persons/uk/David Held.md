@@ -27,6 +27,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Paradigm]]"
   - "[[Time-Space Compression]]"
+  - "[[Washington Consensus]]"
   - "[[Global Citizenship]]"
   - "[[Liberalization]]"
   - "[[Policy Borrowing]]"
@@ -100,7 +101,7 @@ updated: 2026-10-11
 >   - **关键概念／方法** 全球化强度、跨国决策网络、准超国家机构。
 >   - **阶段转向** 从孤立的民族国家政治制度研究，全面转向透视跨国网络对国家政策制定主权的穿透效应。
 > - **2000 年代 — [[Cosmopolitanism|世界主义]]民主与全球治理重构** 探索应对跨国市场失控与全球不平等的制度救济方案。
->   - **代表著作** *Global Covenant: The Social Democratic Alternative to the Washington Consensus*（2004）。
+>   - **代表著作** *Global Covenant: The Social Democratic Alternative to the [[Washington Consensus]]*（2004）。
 >   - **关键概念／方法** 世界主义民主、[[Global Citizenship|全球公民]]权、反华盛顿共识。
 >   - **阶段转向** 倡导超越新自由主义治理，建立受民主监督的全球性社会契约。
 

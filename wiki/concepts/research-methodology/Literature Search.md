@@ -72,6 +72,7 @@ related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
 related_instruments:
+  - "[[Teach Classroom Observation Tool]]"
   - "[[PRISMA]]"
 confidence: high
 status: active
@@ -144,7 +145,7 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 
 > [!tip]- 四个检索操作符
 > - **引号（"..."）** 将词语保持在一起且顺序不变，减少返回网站数量
-> - **星号（\*）** 在词根后加星号，返回不同结尾的网站（如 teach\* → teach, teaching, teacher）
+> - **星号（\*）** 在词根后加星号，返回不同结尾的网站（如 [[Teach Classroom Observation Tool|Teach]]\* → teach, teaching, teacher）
 > - **波浪号（\~）** 在词前加波浪号，识别相似词（如 \~English teaching 同时返回 English language 和 English teaching）
 > - **布尔操作符** and, not, or 连接词语或短语
 

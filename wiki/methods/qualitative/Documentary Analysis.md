@@ -26,8 +26,11 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Linguistic Turn]]"
+  - "[[Technology Transfer]]"
+  - "[[Cooperative Research and Development Agreement]]"
   - "[[Discourse]]"
   - "[[Interpretive Paradigm]]"
+  - "[[Market Fundamentalism]]"
   - "[[Critical Thinking]]"
   - "[[Construct Validity]]"
   - "[[Creativity]]"
@@ -37,18 +40,19 @@ related_concepts:
   - "[[Rationalized Myth]]"
   - "[[Research Utilization]]"
   - "[[Research Universities]]"
-  - "[[Technology Transfer]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Case Study]]"
   - "[[Triangulation]]"
   - "[[Analytic Framework]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Archival Correspondence Analysis]]"
   - "[[Historical Document Analysis of Curriculum]]"
   - "[[Correlational Research]]"
   - "[[Internal Consistency]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]]"
+  - "[[Argument_Block_2008_PS]]"
   - "[[Argument_Hughes_2014_JRIE]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
@@ -57,8 +61,12 @@ related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_Reynolds_2024_JICT]]"
   - "[[Argument_Zhuo_2026_ICE]]"
-  - "[[Argument_Block_2008_PS]]"
 related_facts:
+  - "[[DARPA]]"
+  - "[[National Institutes of Health]]"
+  - "[[Department of Energy]]"
+  - "[[Sematech]]"
+  - "[[Bayh-Dole Act of 1980]]"
   - "[[OECD]]"
   - "[[What Works Network]]"
   - "[[Reading Excellence Act]]"
@@ -67,6 +75,8 @@ related_facts:
   - "[[International Reading Association]]"
 related_theories:
   - "[[Developmental Network State]]"
+related_persons:
+  - "[[Fred Block]]"
 confidence: medium
 status: draft
 created: 2026-06-24
@@ -133,15 +143,15 @@ updated: 2026-10-12
 > | 维度 | 信息 |
 > |---|---|
 > | **材料来源** | 议会立法正式文本（Public Laws）、国会听证备忘录、行政规章（CFR）、部委政策白皮书、联邦合同指南、学术期刊与产业统计公报。 |
-> | **抽样或选案** | 制度演进关键节点抽样（如 1980–1988 年美国科技体制转型关键立法束）与典型组织案例（如 DARPA、NIH、DOE、Sematech）。 |
+> | **抽样或选案** | 制度演进关键节点抽样（如 1980–1988 年美国科技体制转型关键立法束）与典型组织案例（如 [[DARPA]]、[[National Institutes of Health\|NIH]]、[[Department of Energy\|DOE]]、[[Sematech]]）。 |
 > | **研究者位置** | 历史社会学与制度政治经济学阐释者；通过穿透官方修辞揭示“显性自由市场意识形态”与“隐形国家干预机制”的认知脱节。 |
 > | **资料边界** | 聚焦冷战后期至 21 世纪初（1980–2000 年代）联邦科技政策与产学研创新网络法规演进，辅以纵向成果追踪与资金流核算数据。 |
 
 > [!proc] 质性分析程序
-> 1. **文本搜集与法案编目** 系统检视具有里程碑意义的立法文本（如《拜杜法案》、《国家合作研究法》、《联邦技术转移法》）及联邦跨部门规章。
-> 2. **编码与制度功能解构** 提取法定赋权条款（如专利所有权下放、反垄断豁免、CRADA 协议授权），提炼国家创新干预的微观制度工具。
-> 3. **意识形态与话语反思** 对比官方放任市场修辞与实际制度文本中广泛设立的联邦对等资助与技术撮合职能，识别两党政治妥协下的“隐形国家”机制。
-> 4. **多源材料三角互证** 将政策法规文本与纵向实证数据（如 R&D 100 获奖成果主体属性转移、ESTD 早期技术开发资金流向）交叉比对，确立严密的因果机制链条。[[Argument_Block_2008_PS|(Block, 2008, pp. 176–188)]]
+> 1. **文本搜集与法案编目** 系统检视具有里程碑意义的立法文本（如《[[Bayh-Dole Act of 1980|拜杜法案]]》、《国家合作研究法》、《联邦[[Technology Transfer|技术转移]]法》）及联邦跨部门规章。
+> 2. **[[Coding in Qualitative Research|编码]]与制度功能解构** 提取法定赋权条款（如专利所有权下放、反垄断豁免、[[Cooperative Research and Development Agreement|CRADA]] 协议授权），提炼国家创新干预的微观制度工具。
+> 3. **意识形态与[[Discourse|话语]]反思** 对比官方放任市场修辞与实际制度文本中广泛设立的联邦对等资助与技术撮合职能，识别两党政治妥协下的“隐形国家”机制。
+> 4. **多源材料[[Triangulation|三角互证]]** 将政策法规文本与纵向实证数据（如 R&D 100 获奖成果主体属性转移、ESTD 早期技术开发资金流向）交叉比对，确立严密的因果机制链条。[[Argument_Block_2008_PS|(Block, 2008, pp. 176–188)]]
 
 ### 文本分析：解释学与语言学转向
 
@@ -158,7 +168,7 @@ Jupp & Norris (1993) 将文献分析的理论传统归纳为三类：
 > - **解释性传统（[[Interpretive Paradigm\|interpretive approach]]）**
 >   认为包括文献在内的社会现象是经由社会建构的。这一取向强调文献的意义需要在其生产与接受的社群语境中加以理解。
 > - **批判传统（critical approach）**
->   以马克思主义、女性主义或批判性话语理论为代表，强调社会冲突、权力、控制和意识形态。Codd (1988) 将语言使用与权力运作联系起来，融合解释性与批判性元素以解构政策文献的官方话语。Purvis (1985) 从女性主义立场解释文献，并利用被忽略的证据呈现女性过去和当下的经验。例如，[[Fred Block|布洛克]]（[[Argument_Block_2008_PS|Block, 2008]]）融合批判传统与历史制度分析，通过解构美国 1980 年代科技立法与行政文献，揭示了市场原教旨主义意识形态如何迫使国家研发干预走向隐性运作，进而诱发制造业脱节与知识虚构商品化等深层病理。
+>   以马克思主义、女性主义或批判性话语理论为代表，强调社会冲突、权力、控制和意识形态。Codd (1988) 将语言使用与权力运作联系起来，融合解释性与批判性元素以解构政策文献的官方话语。Purvis (1985) 从女性主义立场解释文献，并利用被忽略的证据呈现女性过去和当下的经验。例如，[[Fred Block|布洛克]]（[[Argument_Block_2008_PS|Block, 2008]]）融合批判传统与历史制度分析，通过解构美国 1980 年代科技立法与行政文献，揭示了[[Market Fundamentalism|市场原教旨主义]]意识形态如何迫使国家研发干预走向隐性运作，进而诱发制造业脱节与知识虚构商品化等深层病理。
 
 ---
 

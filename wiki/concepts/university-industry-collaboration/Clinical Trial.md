@@ -30,6 +30,8 @@ related_concepts:
   - "[[Contract Research Organization]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Advance Market Commitments]]"
+  - "[[Valley of Death]]"
+  - "[[Cooperative Research and Development Agreement]]"
   - "[[Meta-Representational Competence]]"
   - "[[Informed Consent]]"
   - "[[Paradigm]]"
@@ -39,6 +41,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Causality]]"
   - "[[Permissionless Innovation]]"
+  - "[[Document]]"
 related_theories:
   - "[[Developmental Network State]]"
 related_methods:
@@ -57,6 +60,7 @@ related_facts:
   - "[[Accelerating Medicines Partnership]]"
   - "[[Clinical Trials Transformation Initiative]]"
   - "[[National Institutes of Health]]"
+  - "[[Bayh-Dole Act of 1980]]"
   - "[[Science A New Golden Age 2026]]"
 related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"

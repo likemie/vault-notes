@@ -111,6 +111,7 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Narrative Synthesis]]"
 related_instruments:
+  - "[[Teach Classroom Observation Tool]]"
   - "[[Research Literacy Scale for Teachers]]"
 related_persons:
   - "[[Mark Rickinson]]"
@@ -172,7 +173,7 @@ updated: 2026-10-12
 > 
 > “决策者倾向于在政策研制阶段运用研究证据作为防范政治争议的‘去政治化护盾’，将自身价值偏好包裹在科学严谨性的[[Discourse|话语]]之下。然而，由于学术实证在操作细节上往往存在知识盲区，真正促成方案落地的关键在于将有限的研究证据、学科内在结构逻辑与一线实践者的[[Professional Judgment|专业判断]]紧密协同起来。”（[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013, pp. 13–15, 19]]）
 > 
-> *“Evidence can serve as a shield against political controversies, providing legitimacy for policy designs... yet because empirical evidence rarely answers all operational questions, wise policy requires combining research evidence with disciplinary expert deduction and professional judgment about how best to teach students.”*
+> *“Evidence can serve as a shield against political controversies, providing legitimacy for policy designs... yet because empirical evidence rarely answers all operational questions, wise policy requires combining research evidence with disciplinary expert deduction and professional judgment about how best to [[Teach Classroom Observation Tool|Teach]] students.”*
 
 > [!citation-card] 教师专业教学整合中的外显行为表现
 > 教师对研究的利用并不等同于孤立的[[Document|文献]]阅读或机械执行外部处方，而是将科研证据有机融入日常教学活动规划、备课设计、教学法知识更新以及专业教研反思之中的外显行为表现。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 6, p. 14)]]

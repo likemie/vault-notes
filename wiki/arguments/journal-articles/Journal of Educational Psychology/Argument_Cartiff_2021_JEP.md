@@ -86,6 +86,7 @@ related_methods:
   - "[[Random Assignment]]"
 related_instruments:
   - "[[PRISMA]]"
+  - "[[Teach Classroom Observation Tool]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -532,7 +533,7 @@ journal: "Journal of Educational Psychology"
 > [!citation-card] 指导式探究与信源评估的机制优势
 > 我们将每项干预归入六类教学框架之一，发现那些聚焦于显性指导或某种形式指导式探究的干预，优于[[Problem-Based Learning\|基于问题的学习]]和论证干预。研究者曾指出，让学生接触对立冲突的视角对于促进认识论转变至关重要。信源评估干预使学生接触到关于某一主题具有多元相左立场的文本源，并直接向学生讲授如何评估这些信源的策略。（p. 492）
 >
-> *We grouped each intervention into one of six types of instructional framework and found that those focused on explicit instruction or some form of guided inquiry outperformed problem-based learning and argumentation interventions. Researchers have suggested that engaging students with contrasting perspectives is critical for facilitating epistemic change. Source evaluation interventions expose students to sources with multiple, diverging perspectives on a topic and directly teach students strategies on how to evaluate these sources.*
+> *We grouped each intervention into one of six types of instructional framework and found that those focused on explicit instruction or some form of guided inquiry outperformed problem-based learning and argumentation interventions. Researchers have suggested that engaging students with contrasting perspectives is critical for facilitating epistemic change. Source evaluation interventions expose students to sources with multiple, diverging perspectives on a topic and directly [[Teach Classroom Observation Tool|Teach]] students strategies on how to evaluate these sources.*
 
 > [!citation-card] 干预时长悖论与测验错配的理论反思
 > 较长周期的干预（通常持续约一学期）占据了[[Document\|文献]]中相当大的比重，然而我们发现较短周期的干预反而取得了更好的结果。这可能是因为较短干预中所使用的[[Achievement and Aptitude Tests\|成就测验]]与干预目标契合度更高，也可能是因为简短研究中认识论认知教学的浓度更高，还可能是由于长期实施中的[[Fade-out Effect\|效应衰退]]问题。（p. 493）

@@ -99,7 +99,7 @@ updated: 2026-10-15
 > [!policy-design]- 方案设计
 > - **项目目标** 根本性重塑美国工程科学研究与[[Engineering Education|高等工程教育]]生态，培养具备多学科系统[[Engineering Mindset|工程思维]]、熟悉产业前沿需求并能直接投入工业竞争的高阶工程科技人才。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 367)]]
 > - **覆盖对象** 全美高水平[[Research Universities|研究型大学]]工程学院、工业制造与高科技企业研发团队、大学工程专业本科生与硕博士研究生。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 367–368)]]
-> - **微观靶向与重资产设备资助** [[Fred Block|布洛克]]（Block, 2008）指出，ERC 代表了联邦“微观靶向”（Micro-targeting）战略的升级版：在 1978 年 IUCRC 经验基础上，1984 年正式设立的 ERC 提供了更大体量的单中心资助，专门用于支持昂贵的大型前沿工程仪器与试验设备采购，攻关工业界特定的重大技术挑战。[[Argument_Block_2008_PS|(Block, 2008, p. 189)]]
+> - **微观靶向与重资产设备资助** [[Fred Block|布洛克]]（[[Argument_Block_2008_PS|Block, 2008]]）指出，ERC 代表了联邦“微观靶向”（Micro-targeting）战略的升级版：在 1978 年 IUCRC 经验基础上，1984 年正式设立的 ERC 提供了更大体量的单中心资助，专门用于支持昂贵的大型前沿工程仪器与试验设备采购，攻关工业界特定的重大技术挑战。[[Argument_Block_2008_PS|(Block, 2008, p. 189)]]
 > - **干预措施** [[National Science Foundation|NSF]] 设立高强度连续资助（年均 300–600 万美元/中心）；要求中心设立产业咨询网络，建立跨学科研发设施，开发贯通本科与研究生的动手实践导向工程课程，并向地方[[Pilot Scale Platform|中试验证平台]]开放。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 367, 369)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 22–24)]]
 > - **实施控制** 实行严苛的同行评审与期中绩效审核，确立优胜劣汰机制；引入十年[[Sunset Provisions|日落条款]]（Sunset Provisions），迫使中心在获得充足培育期后逐步摆脱对联邦资金的单向依赖。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 369, 373–374)]]
 
@@ -137,7 +137,7 @@ updated: 2026-10-15
 > 2. **稳定的历史存续与造血机制** 截至 2003 年末，在 [[National Science Foundation|NSF]] 累计资助的 56 所中心中，有 44 所成功存续或实现财务自给（历史存活率达 79%），13 所中心在资助期满后完全实现自主造血良性运转。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 368–369)]]
 > 3. **[[Engineering Education|高等工程教育]]动手能力重塑** 彻底扭转了大学工程教育过度理论化、偏离产业工程实际的倾向，通过本科生实践流片、系统集成和跨学科团队攻坚，为全美高技术产业输送了高水准的系统工程师。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 367, 370)]]
 > 4. **催生战略半导体多校协同新[[Paradigm|范式]]** ERC 的跨学科中心模式成为当今全美跨校协同攻坚模板；在 [[DARPA]]/[[Semiconductor Research Corporation|SRC]] [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 框架下，宾夕法尼亚州立大学依托 ERC 式治理统领全美 14 所顶尖大学共建[[Heterogeneous Integration|异构集成]]中心，攻克三维先进封装与新型微系统瓶颈。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]
-> 5. **超高资本杠杆与跨部门制度扩散** [[Fred Block|布洛克]]（Block, 2008）指出，截至 2007 年 NSF 资助了 50 个此类产学中心，吸引了 500 多家企业深度合作；企业跟投配比达到 1:10（NSF 每投 1 美元，企业配套 10 美元），大批中心实现独立造血并“毕业”脱离联邦资助。该模式不仅成为国防部与能源部加速关键技术突破的标准组织模板，还被国会作为专项拨款（Earmarks）带动选区经济发展的有效载体。[[Argument_Block_2008_PS|(Block, 2008, p. 189)]]
+> 5. **超高资本杠杆与跨部门制度扩散** [[Fred Block|布洛克]]（[[Argument_Block_2008_PS|Block, 2008]]）指出，截至 2007 年 NSF 资助了 50 个此类产学中心，吸引了 500 多家企业深度合作；企业跟投配比达到 1:10（NSF 每投 1 美元，企业配套 10 美元），大批中心实现独立造血并“毕业”脱离联邦资助。该模式不仅成为国防部与能源部加速关键技术突破的标准组织模板，还被国会作为专项拨款（Earmarks）带动选区经济发展的有效载体。[[Argument_Block_2008_PS|(Block, 2008, p. 189)]]
 
 > [!stat-cards]- 关键实证数据
 > - **56 所与 80+ 所** 自 1984 年至 2004 年 NSF 累计资助设立的早期 ERC 数量；截至 2020 年代全美累计资助设立的 ERC 总数。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 368–369)]]

@@ -56,6 +56,7 @@ related_methods:
   - "[[Statistical Significance]]"
 related_instruments:
   - "[[Schommer's Modified Epistemological Questionnaire]]"
+  - "[[Teach Classroom Observation Tool]]"
 related_persons: []
 related_facts:
   - "[[Start Making a Reader Today]]"
@@ -211,7 +212,7 @@ issuing_organization: ""
 > | 有些人天生是优秀的学习者，另一些人则受限于有限的能力。*(Some people are born good learners, others are just stuck with limited ability.)* | **.53** | — | — |
 > | 花较长时间努力钻研难题只对真正聪明的学生有回报。*(Working hard on a difficult problem for a longer period of time only pays off for really smart students.)* | **.48** | — | — |
 > | 人一旦出生，其学习能力就不会改变。*(Once a person is born, their ability to learn will not change.)* | **.39** | — | — |
-> | 教我们如何做事的书没有多大帮助。*(Books that teach us how to do something are not much help.)* | — | **.46** | — |
+> | 教我们如何做事的书没有多大帮助。*(Books that [[Teach Classroom Observation Tool\|Teach]] us how to do something are not much help.)* | — | **.46** | — |
 > | 如果你试图把教科书中某个主题的新观点与你已有的知识融合在一起，你只会感到困惑。*(You will just get confused if you try to take ideas that are new to you from a topic in a textbook and try to mix them with what you already know about that topic.)* | — | **.43** | — |
 > | 除了我们终有一天会死去之外，我们对任何事都无法确信。*(We can’t be sure of anything, except that we will die someday.)* | — | **.41** | — |
 > | 把时间花在不可能得出明确直接答案的问题上是一种浪费。*(It’s a waste of time to work on problems which have no possibility of coming out with a clear-cut and straight forward answer.)* | — | **.33** | — |

@@ -41,6 +41,7 @@ related_persons:
 related_facts:
   - "[[UNESCO]]"
   - "[[World Bank]]"
+  - "[[Inter-American Development Bank]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
 confidence: high
@@ -75,7 +76,7 @@ updated: 2026-10-03
 > - **1980s–1990s** 出任[[UNESCO|联合国教科文组织]]拉美及加勒比地区教育办事处（OREALC）主任，主管全区域教育统计调查与政策评估。
 > - **1994** 在智利民主化转型时期出任智利教育部长，主导国家教育公平提升计划与公立学校最低投入保障改革。
 > - **1998** 在[[Carlos Alberto Torres|托雷斯]]与[[Adriana Puiggrós|普伊格罗斯]]主编的经典论文集《拉丁美洲教育：比较视角》中发表长文《为拉丁美洲民主筹措教育资金》（*Financing Education for Democracy in Latin America*），系统梳理战后四十年拉美教育的得与失。
-> - **2000s–至今** 持续担任[[World Bank|世界银行]]、泛美开发银行（IDB）与拉加经委会（ECLAC）高级教育经济咨询顾问。
+> - **2000s–至今** 持续担任[[World Bank|世界银行]]、[[Inter-American Development Bank|泛美开发银行]]（IDB）与拉加经委会（ECLAC）高级教育经济咨询顾问。
 
 ---
 

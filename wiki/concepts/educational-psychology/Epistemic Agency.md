@@ -82,7 +82,8 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
-related_instruments: []
+related_instruments:
+  - "[[Teach Classroom Observation Tool]]"
 related_persons:
   - "[[Clark A. Chinn]]"
 related_facts:
@@ -131,7 +132,7 @@ updated: 2026-10-07
 > [!citation-card] 防御成长性侵害与捍卫求知者主体性
 > 促使学生将学习任务外包给生成式 AI，正是在学生作为求知者的形成期对其施加了伤害。要捍卫学生的认识主体性，教师必须指导学生将 AI 视作异己智能而非权威私厨，通过强制思维步骤全外显与[[Reflexivity|反思性]]自我评估，确保学生掌握通往答案的完整推导路径，将技术牢牢限制在促成反思的边界之内。[[Argument_Smith_2026_SPE|Smith (2026, pp. 1, 9–11)]]
 >
-> *Giving control of editing and composing to GenAI might rob students of developing expertise themselves... formative [[Epistemic Injustice]] is done to students... instructors must teach students to view GenAI as an alien intelligence and mandate showing steps to preserve students' growth as knowers.*
+> *Giving control of editing and composing to GenAI might rob students of developing expertise themselves... formative [[Epistemic Injustice]] is done to students... instructors must [[Teach Classroom Observation Tool|Teach]] students to view GenAI as an alien intelligence and mandate showing steps to preserve students' growth as knowers.*
 
 > [!boundary]- 概念边界
 > - **不等于普通行为参与（Behavioral Engagement）** 行为参与仅指学生在课堂中有动手操作、举手发言或阅读材料的行为表象；认识能动性特指对“知识主张何以成立”与“评判标准何以合法”拥有实质的反思与裁决权。

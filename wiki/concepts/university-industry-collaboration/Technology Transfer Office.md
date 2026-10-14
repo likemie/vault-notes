@@ -44,8 +44,10 @@ related_concepts:
   - "[[Absorptive Capacity]]"
   - "[[Variable]]"
   - "[[Clinical Trial]]"
+  - "[[Document]]"
 related_theories:
   - "[[Systems of Innovation]]"
+  - "[[Developmental Network State]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Coding in Qualitative Research]]"

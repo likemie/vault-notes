@@ -28,6 +28,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Employability]]"
+  - "[[Social Imaginary]]"
   - "[[Student Mobility]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge Transfer]]"
@@ -100,7 +101,7 @@ graph TD
 > - **[[University-Industry Collaboration|产学合作]]与[[Employability|就业能力]]挂钩** 推动伙伴国大学与当地企业、行业协会合作，改革脱离生产实际的传统专业，增强毕业生面对市场经济的就业胜任力。
 
 > [!citation-card]
-> **[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] 论 TEMPUS 项目中的空间治理与社会想象**
+> **[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] 论 TEMPUS 项目中的空间治理与[[Social Imaginary|社会想象]]**
 > 天普计划专门面向欧盟与东欧、西巴尔干、中东及北非伙伴国之间的高等教育机动性，拓展了这种跨国现代化与相互学习工程，有效巩固了将‘流动性’（Mobility）与围绕参与式网络构筑的‘欧洲社会想象’（European Social Imaginary）深度绑定的制度联系。这绝非暗示 TEMPUS 项目不会产生排斥（Lawson et al., 2003; Walsh et al., 2005），而是强调当前在欧洲作为教育政策核心问题的‘[[Student Mobility|学生流动]]’，是如何与身份认同建构紧密缠绕在一起——它将个体的物理位移、灵活性以及多元文化素养，规范化为享有完全权利公民（Enfranchised Citizen）的法定资质。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 
 ---
@@ -120,7 +121,7 @@ graph TD
 在比较教育学与空间转向（Spatial Turn）理论视域下，天普计划不仅仅是一项技术性的高等教育国际援助工程，更是欧盟在全球展开[[Spatial Governmentality|空间化治理]]与地缘文化塑造的关键制度装置：
 
 > [!claim] 比较教育学核心反思判断
-> 天普计划是欧盟通过教育流动向外围空间行使[[Governing at a Distance|远距治理]]（Governing at a Distance）的典型范例：它一方面通过学术资助与机制互认极大地促进了跨国人员交流与[[Knowledge Transfer|知识转移]]，另一方面也确立了西欧大学规范作为“唯一正统现代大学”的中心地位，在输出“欧洲社会想象”的同时，生产出新型的地缘[[Cultural Hierarchy|文化等级]]与外围排斥。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
+> 天普计划是欧盟通过教育流动向外围空间行使[[Governing at a Distance|远距治理]]（Governing at a Distance）的典型范例：它一方面通过学术资助与机制互认极大地促进了跨国人员交流与[[Knowledge Transfer|知识转移]]，另一方面也确立了西欧大学规范作为“唯一正统现代大学”的中心地位，在输出“欧洲[[Social Imaginary|社会想象]]”的同时，生产出新型的地缘[[Cultural Hierarchy|文化等级]]与外围排斥。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 
 > [!debates] 围绕天普计划的理论与现实争议
 >
@@ -140,7 +141,7 @@ graph TD
 >
 > | 条目 | 类型 | 在网络中的关联与功能 |
 > |:-----|:-----|:---------------------|
-> | [[European Education Space]] | Concept | **上位治理空间** TEMPUS 是欧盟向非成员国构建欧洲教育空间与社会想象的核心辐射工具。 |
+> | [[European Education Space]] | Concept | **上位治理空间** TEMPUS 是欧盟向非成员国构建欧洲教育空间与[[Social Imaginary\|社会想象]]的核心辐射工具。 |
 > | [[Student Mobility]] | Concept | **核心治理客体** TEMPUS 将精英大学生的跨国流动道德化为欧洲公民资本与[[Employability\|就业能力]]的范例。 |
 > | [[Teacher Mobility]] | Concept | **核心资助机制** 伙伴国高校骨干师资赴西欧大学进修与联合教研的机制载体。 |
 > | [[Spatial Governmentality]] | Theory | **解释理论工具** 透视 TEMPUS 如何通过空间划界、流动调控与外围排斥对人口实施[[Governing at a Distance\|远距治理]]。 |

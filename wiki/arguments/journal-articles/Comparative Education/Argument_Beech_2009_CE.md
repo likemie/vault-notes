@@ -40,6 +40,7 @@ related_concepts:
   - "[[Post-Fordism]]"
   - "[[Policy Network]]"
   - "[[Global Citizenship]]"
+  - "[[Washington Consensus]]"
   - "[[Teaching Assistant]]"
   - "[[Symbolic Boundary]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -281,7 +282,7 @@ Castells 据此区分了两种空间逻辑：
 #### 1.2 什么驱动了行动者：操演性而非意识形态
 
 > [!tension] 全球教育网络权力逻辑的学术分歧
-> - **意识形态霸权论（新自由主义主导）** 既有[[Document\|文献]]普遍将全球教育网络与新自由主义及亲市场改革绑定，认为其是由“华盛顿共识”和跨国资本驱动的同质性霸权空间(Robertson & Dale, 2006; Ball, 2007)。
+> - **意识形态霸权论（新自由主义主导）** 既有[[Document\|文献]]普遍将全球教育网络与新自由主义及亲市场改革绑定，认为其是由“[[Washington Consensus|华盛顿共识]]”和跨国资本驱动的同质性霸权空间(Robertson & Dale, 2006; Ball, 2007)。
 > - **竞争性多元网络（操演性政治主导）** Beech 指出，随着基础设施的普及，流动空间已演变为竞争性的、有争议的多元网络。在操演性与实用主义驱动下，行动者跨越意识形态进行临时合作(Castells, 2000b; |Beech, 2009)。
 
 > [!case] [[Education International]] 的悖论性联盟

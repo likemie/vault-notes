@@ -40,11 +40,13 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Discourse]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Document]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
   - "[[Developmental Network State]]"
   - "[[Discovery-Invention Cycle]]"
   - "[[Social Contract of Science]]"
+  - "[[Stokes' Quadrant Model of Scientific Research]]"
 related_methods:
   - "[[Survey Research]]"
 related_instruments: []

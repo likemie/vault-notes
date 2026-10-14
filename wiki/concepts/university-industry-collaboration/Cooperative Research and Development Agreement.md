@@ -19,21 +19,24 @@ tags:
   - field/innovation-studies
   - region/us
 related_concepts:
+  - "[[Technology Transfer]]"
   - "[[Research Universities]]"
   - "[[Big Science]]"
   - "[[Pre-negotiated IP Rights]]"
   - "[[Megascience Installations]]"
   - "[[Industrial Commons]]"
   - "[[National Innovation System]]"
-  - "[[Process Knowledge]]"
-  - "[[Document]]"
   - "[[Strategic Autonomy]]"
+  - "[[Process Knowledge]]"
+  - "[[Market Fundamentalism]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[Document]]"
+  - "[[Competitiveness]]"
   - "[[Regulatory Sandbox]]"
   - "[[Attrition]]"
-  - "[[Innovation Ecosystem]]"
   - "[[Technology Transfer Office]]"
   - "[[General Purpose Technology]]"
-  - "[[Technology Transfer]]"
+  - "[[Clinical Trial]]"
 related_theories:
   - "[[Developmental Network State]]"
 related_methods:
@@ -41,14 +44,14 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
-  - "[[Michael Kratsios]]"
   - "[[Fred Block]]"
+  - "[[Michael Kratsios]]"
 related_facts:
+  - "[[Department of Energy]]"
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
   - "[[OMB Uniform Guidance for Federal Awards]]"
   - "[[Bayh-Dole Act of 1980]]"
-  - "[[Department of Energy]]"
   - "[[EUV LLC]]"
   - "[[Sematech]]"
 related_arguments:

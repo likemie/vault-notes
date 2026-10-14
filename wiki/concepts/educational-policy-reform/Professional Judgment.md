@@ -91,6 +91,7 @@ related_arguments:
   - "[[Argument_Rowe_2023_ECNUROE]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
 related_instruments:
+  - "[[Teach Classroom Observation Tool]]"
   - "[[PRISMA]]"
 confidence: high
 status: completed
@@ -117,7 +118,7 @@ updated: 2026-10-14
 > 
 > “研究基础可能并不充分，无法为政策制定提供明确答案；此时，明智的政策可能要求将基础研究与基于专业判断的知识——关于如何以最优方式教导学生并组织学科内容的知识——紧密结合起来。”（[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013, p. 19]]）
 > 
-> *“The research base may be inadequate to provide clear-cut answers for policy; in that case, wise policy may require that [[Blue Skies Research|Basic Research]] be combined with knowledge based on professional judgment about how best to teach students and organize subject matter...”*
+> *“The research base may be inadequate to provide clear-cut answers for policy; in that case, wise policy may require that [[Blue Skies Research|Basic Research]] be combined with knowledge based on professional judgment about how best to [[Teach Classroom Observation Tool|Teach]] students and organize subject matter...”*
 
 > [!citation-card] 严谨证据与严谨判断并存
 > “成为证据知情的过程，既需要严谨的证据，也需要严谨的专业判断过程。”（Campbell, 2016，引于 [[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 132]]）

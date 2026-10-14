@@ -54,7 +54,8 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Action Research]]"
   - "[[Qualitative Interview]]"
-related_instruments: []
+related_instruments:
+  - "[[Teach Classroom Observation Tool]]"
 related_persons:
   - "[[Ian Menter]]"
   - "[[Bertrand Russell]]"
@@ -159,7 +160,7 @@ issuing_organization: ""
 > | **A15** | 教育学研究者 | 跟踪教师劳动力市场与政策效果评估 |
 > | **A16** | 大学学者、政府顾问 | 兼顾学术生产与官方咨询的双栖专家 |
 > | **A17** | 罗素大学集团资深学者 | 深度介入英国教师教育政策制定的学术领袖 |
-> | **A18** | 大型 MAT 的 ITT 与教师持续专业发展（Continuing Professional Development, CPD）负责人、前 Teach First 雇员 | 积极倡导与政府建设性合作、参与近期圆桌会议的改革派 |
+> | **A18** | 大型 MAT 的 ITT 与教师持续专业发展（Continuing Professional Development, CPD）负责人、前 [[Teach Classroom Observation Tool\|Teach]] First 雇员 | 积极倡导与政府建设性合作、参与近期圆桌会议的改革派 |
 > | **A19** | 英国教育部公务员 | 揭示政策引用依赖中介引荐而非直接阅读原著的知情人（p. 95） |
 > | **A20** | 教师工会政策顾问 | 代表一线教师利益群体参与政策博弈 |
 

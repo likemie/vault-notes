@@ -31,19 +31,26 @@ related_concepts:
   - "[[Market Fundamentalism]]"
   - "[[Institutional Displacement]]"
   - "[[Embedded Network Governance]]"
+  - "[[Document]]"
+  - "[[Epistemology]]"
+  - "[[Bureaucracy]]"
   - "[[Pragmatic Paradigm]]"
 related_theories:
   - "[[Developmental Network State]]"
-  - "[[Stokes' Quadrant Model of Scientific Research]]"
+  - "[[Pasteur's Quadrant]]"
   - "[[Varieties of Capitalism]]"
   - "[[Technological Trajectories]]"
-related_methods: []
+  - "[[Stokes' Quadrant Model of Scientific Research]]"
+related_methods:
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Erica Fuchs]]"
   - "[[Mariana Mazzucato]]"
   - "[[Chalmers Johnson]]"
   - "[[Donald Stokes]]"
 related_facts:
+  - "[[ROOTS]]"
+  - "[[Research in Schools Evaluation]]"
   - "[[Ministry of International Trade and Industry]]"
   - "[[CHIPS and Science Act]]"
   - "[[Inflation Reduction Act]]"

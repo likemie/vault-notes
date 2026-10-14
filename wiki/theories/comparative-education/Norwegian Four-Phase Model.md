@@ -29,6 +29,7 @@ related_concepts:
   - "[[Structural Coupling]]"
   - "[[Research Question]]"
   - "[[Policy Mobility]]"
+  - "[[Washington Consensus]]"
   - "[[Knowledge-Based Economy]]"
 related_theories:
   - "[[Historical Institutionalism]]"
@@ -159,7 +160,7 @@ updated: 2026-10-11
 
 > [!tension] 渐进自主借用 vs. 新自由主义[[Policy Mobility|快速政策]]移植
 > - **挪威长程制度主义进路（蓝方）** 强调[[Policy Borrowing|政策借用]]必须经过漫长的审慎调研、全民协商与法治确立，宁缺毋滥，以确保改革的社会民主韧性与公平底色。
-> - **华盛顿共识效率主义进路（红方）** 批评挪威模式决策周期过长、行政协商成本过高，无法迅速应对全球化[[Knowledge-Based Economy|知识经济]]与跨国产业升级的急性技术需求。
+> - **[[Washington Consensus|华盛顿共识]]效率主义进路（红方）** 批评挪威模式决策周期过长、行政协商成本过高，无法迅速应对全球化[[Knowledge-Based Economy|知识经济]]与跨国产业升级的急性技术需求。
 
 > [!warning] 适用边界
 > 挪威四阶段模型高度依赖高信任度社会资本、稳定的议会民主政治结构与雄厚的国家公共财政支撑；在国家治理能力薄弱、党派恶斗剧烈或财政极度依赖跨国机构援助的发展中国家，该流程容易在第二阶段（共识凝聚）陷入无限期党争撕裂，或在第三阶段缺乏法治执行力。

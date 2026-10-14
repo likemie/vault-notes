@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Data Infrastructure]]"
   - "[[Employability]]"
+  - "[[Social Imaginary]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Lifelong Learning]]"
   - "[[Performance Indicators]]"
@@ -85,7 +86,7 @@ updated: 2026-10-12
 
 > [!concept-lens] 概念透镜与理论内涵
 > - **实证量化治理空间（Empirical-Statistical Space）** 由 OECD 的[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）数据库与欧盟统计指标交叉编织而成，为欧洲基础教育政策的协调、基准比对与同行施压提供了可操作的共同技术语言（Grek, 2009; [[Argument_Li_2025_HSSC|Li et al., 2025]]）。
-> - **社会建构与文化认同空间（Social-Discursive Space）** 由[[António Nóvoa|安东尼奥·诺沃亚]]与马丁·劳恩（Nóvoa & Lawn, 2002; [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）深入解构——欧洲教育空间并非天然存在的地理版图，而是通过调动古典旅行游学隐喻、推行跨国学术流动（如 [[Erasmus Programme|伊拉斯谟计划]]与 [[TEMPUS|天普计划]]）所生产的欧洲社会想象（European Social Imaginary）。
+> - **社会建构与文化认同空间（Social-Discursive Space）** 由[[António Nóvoa|安东尼奥·诺沃亚]]与马丁·劳恩（Nóvoa & Lawn, 2002; [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）深入解构——欧洲教育空间并非天然存在的地理版图，而是通过调动古典旅行游学隐喻、推行跨国学术流动（如 [[Erasmus Programme|伊拉斯谟计划]]与 [[TEMPUS|天普计划]]）所生产的欧洲[[Social Imaginary|社会想象]]（European Social Imaginary）。
 > - **制度边界与主权防御现实** 欧洲教育空间不等于欧洲政治或法律上的中央集权一体化。欧盟条约明确规定教育权保留于成员国主权内部，布鲁塞尔主要依托软法治理（Soft Law Governance）和数据对齐实施[[Governing at a Distance|远距治理]]；但在后发国家实践中，它极易异化为国内立法借用的亲欧修辞，掩盖实质性制度落后（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 324–325]]）。
 
 > [!citation-card]
@@ -203,7 +204,7 @@ graph TD
 >
 > > [!axis] 开放包容网络 vs 外围地缘文化排斥
 > > - **欧盟一体化推动者** 强调 [[TEMPUS]] 与睦邻政策将欧洲先进教育模式辐射至东欧与地中海周边，促进制度现代化与民主转型。
-> > - **后殖民与空间批判学者** 批评该空间构建了以西欧为知识中心的等级秩序，将欧洲社会想象确立为现代性唯一准则，将非欧洲传统置于发展落后的时空位置上。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360, 363)]]
+> > - **后殖民与空间批判学者** 批评该空间构建了以西欧为知识中心的等级秩序，将欧洲[[Social Imaginary|社会想象]]确立为现代性唯一准则，将非欧洲传统置于发展落后的时空位置上。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360, 363)]]
 >
 > > [!axis] 超国家共同政策实体 vs 成员国主权总和与修辞借用
 > > - **功能主义与超国家主义视角** 认为欧洲教育空间正通过[[Bologna Process|博洛尼亚进程]]和开放协调机制逐步形成具有实质约束力的欧洲共同政策实体，推动各国教育体制自发趋同。

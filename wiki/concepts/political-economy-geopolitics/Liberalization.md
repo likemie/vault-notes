@@ -25,6 +25,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Institutional Drift]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Washington Consensus]]"
 related_theories:
   - "[[Neocorporatism]]"
   - "[[Varieties of Capitalism]]"
@@ -169,7 +170,7 @@ updated: 2026-10-13
 
 > [!dev-timeline] 概念演变
 > - **1980年代中 — 去组织化资本主义的先声** 克劳斯·奥菲（Claus Offe）以及斯科特·拉什与约翰·厄里（Lash & Urry）提出“去组织化资本主义”命题，揭示战后[[Neocorporatism|新法团主义]]在弹性生产与全球资本冲击下的解体。
-> - **1990年代 — 华盛顿共识与新自由主义全球化** [[International Monetary Fund|国际货币基金组织]]与[[OECD|经合组织]]推动以去规制、私有化和紧缩为标志的宏观自由化浪潮。
+> - **1990年代 — [[Washington Consensus|华盛顿共识]]与新自由主义全球化** [[International Monetary Fund|国际货币基金组织]]与[[OECD|经合组织]]推动以去规制、私有化和紧缩为标志的宏观自由化浪潮。
 > - **2003 — [[Pierre Bourdieu|布迪厄]]批判经济自由化工程与市场暴政** [[Pierre Bourdieu|布迪厄]]出版《反扑：对抗市场暴政》（*Firing Back against the Tyranny of the Market*），揭示全球化并非自然技术过程，而是新自由主义蓄意推进的经济自由化工程。
 > - **2005 — 渐进演化视域下自由化非对称机制的形式化** [[Wolfgang Streeck|施特雷克]]与希伦将自由化确立为穿透协调与自由市场体制的普遍内生主线，首创提出其“默认达成”与底层规避的渐进动力学。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 3–5, 31–33)]]
 > - **2009 — 里兹维与林加德解构经合组织教育自由化的[[Discourse|话语]]霸权** [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]剖析经合组织教育政策史，揭示全球化物化叙事如何掩蔽经济自由化的阶级利益偏好，实现跨国教育治理的去政治化。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 441)]]

@@ -21,6 +21,7 @@ tags:
   - educational-expansion
   - industrialization
 related_concepts:
+  - "[[Washington Consensus]]"
   - "[[Growth]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Endogenous and Exogenous Privatisation]]"
@@ -65,7 +66,7 @@ updated: 2026-09-29
 > [!concept-lens] 概念透镜
 > - **含义** 指向宏观经济积累体制（贸易保护与本土制造业扶持）与国家教育体系层级结构重塑之间的结构性对应机制。
 > - **用途** 帮助比较教育学研究者解释发展中国家在战后早期工业化阶段为何普遍出现中高等教育过度扩张，以及为何教育规模增长未能转化为社会平等，反而加剧了双轨阶级分化。
-> - **边界** 解释力主要集中于内向型工业化时期的国家资本主义体制，不适合解释 1980 年代后华盛顿共识主导下的外向型新自由主义出口经济或全球离散产业链。
+> - **边界** 解释力主要集中于内向型工业化时期的国家资本主义体制，不适合解释 1980 年代后[[Washington Consensus|华盛顿共识]]主导下的外向型新自由主义出口经济或全球离散产业链。
 
 > [!citation-card] 拉美工业化初期的超常规教育大扩张
 > 拉丁美洲在 20 世纪 60 年代工业化初期阶段的教育扩张，创下了当时全球最高的教育增长率。在 1960 至 1970 年间，高等教育与中等教育的增长指数分别高达 247.9% 和 258.3%；然而在此之后增速放缓至 167.6%，同时该地区绝大多数国家的成人文盲率却基本保持停滞不前。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–82)]]
@@ -156,7 +157,7 @@ updated: 2026-09-29
 > - **1930s–1950s — 起源阶段** 面对大萧条与二战导致的国际贸易断绝，阿根廷、巴西、墨西哥等拉美大国自发开启工业品进口替代；联合国拉加经委会（ECLAC/CEPAL）经济学家劳尔·普雷维什（Raúl Prebisch）系统提出[[Dependency Theory|依附理论]]与中心-外围不平等贸易理论，为国家主导的进口替代提供学理合法性。
 > - **1960s — 黄金期与教育大扩张** 进口替代工业化进入重工业与耐用消费品阶段；[[Human Capital Theory|人力资本理论]]与国家发展规划深度结合，拉美迎来历史上规模最大的中高等教育大爆发，年增长率高居全球榜首。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–82)]]
 > - **1970s — 结构瓶颈与社会抗争** 市场规模有限与缺乏财富二次分配导致内需饱和，工业利润率下滑；中高等教育毕业生[[Credential Inflation|文凭通胀]]与就业不足加剧，青年学生运动与城市游击队运动频发。
-> - **1980s — 模式破产与新自由主义转轨** [[Latin American Debt Crisis of 1982|拉美债务危机]]全面爆发，进口替代发展模式彻底走向终结；[[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 推行华盛顿共识与结构调整，教育领域转向去补贴、收取学杂费与市场化私有化。
+> - **1980s — 模式破产与新自由主义转轨** [[Latin American Debt Crisis of 1982|拉美债务危机]]全面爆发，进口替代发展模式彻底走向终结；[[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 推行[[Washington Consensus|华盛顿共识]]与结构调整，教育领域转向去补贴、收取学杂费与市场化私有化。
 
 ---
 

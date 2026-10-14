@@ -27,6 +27,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Knowledge Capitalism]]"
   - "[[Classical Geopolitics]]"
+  - "[[Social Imaginary]]"
   - "[[Hypothesis]]"
   - "[[Discourse]]"
   - "[[Knowledge Production]]"
@@ -111,7 +112,7 @@ Rizvi 建立了一个对比框架，这是整章论证的概念基础：
 >
 > Rizvi 以 Dalby 的现实主义地缘政治作为对照基线——这与他之前章节中 Moisio and Parreira do Amaral 讨论的[[Classical Geopolitics\|古典地缘政治]]是同一个传统：国与国之间本质上是竞争关系，因为没有世界政府能约束国家行为，所以每个国家只能靠自利驱动。国家是唯一重要的行动者，它的核心任务是保护国内安全、抵御外部混乱。这种视角预设了一个"内部（安全、秩序）vs 外部（混乱、威胁）"的二元对立。
 >
-> Rizvi 要论证的是：这种理解不足以解释当代高等教育中的地缘政治动态，因为它只看到国家间的权力斗争，看不到跨国社会想象、网络化关系和全球教育市场中的意识形态与文化维度(pp.90–91)。
+> Rizvi 要论证的是：这种理解不足以解释当代高等教育中的地缘政治动态，因为它只看到国家间的权力斗争，看不到跨国[[Social Imaginary|社会想象]]、网络化关系和全球教育市场中的意识形态与文化维度(pp.90–91)。
 
 > [!info]- [[Critical Geopolitics\|批判地缘政治学]]（Critical Geopolitics）
 > 代表学者：Sharp (2009), Dodds (2019)

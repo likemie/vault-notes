@@ -50,6 +50,7 @@ related_concepts:
   - "[[Development Education]]"
   - "[[Import Substitution Industrialisation]]"
   - "[[Educational Level]]"
+  - "[[Policy Conditionalities]]"
   - "[[Popular Education]]"
   - "[[Bildung]]"
   - "[[Conscientization]]"
@@ -364,7 +365,7 @@ issuing_organization: ""
 > [!case] 智利新自由主义教育券私有化与中产阶级受挫（Lomnitz & Melnick, 1991）
 > 智利皮诺切特军政权在[[Chilean Educational Reform of 1981|1981年智利教育改革]]中按照世界银行和新自由主义经济学的标准处方，激进推行学校私有化、发放教育券并全面推行使用者付费。[[Larissa Adler Lomnitz|拉里萨·阿德勒·洛姆尼茨]]与梅尔尼克（Lomnitz & Melnick, 1991）的[[Fieldwork|实地调查]]记录了这场改革对智利社会的残酷冲击：公立学校名誉扫地、设施破败；曾经体面的普通中产家庭为了让子女进入私立学校，不得不承担极其沉重的债务负担。这场改革撕下了自由选择的面具，证明了市场化教育实质上是资产阶级剥夺大众平民受教育权的制度暴力。（pp. 79, 85）
 
-> [!case] 世界银行贷款附加条件与阿根廷布宜诺斯艾利斯大学重构（Schugurensky, 1994）
+> [!case] 世界银行[[Policy Conditionalities|贷款附加条件]]与阿根廷布宜诺斯艾利斯大学重构（Schugurensky, 1994）
 > [[Daniel Schugurensky|舒古伦斯基]]（Schugurensky, 1994）对阿根廷历史最悠久、规模最大的布宜诺斯艾利斯大学（Universidad de Buenos Aires, UBA）的[[Case Study|个案研究]]表明，世界银行利用结构调整贷款作为施压工具，要求阿根廷政府压缩国立大学财政预算，强行要求公立大学在研究生阶段开征学费、面向企业创收自筹资金，并推行技术官僚考核。这项干预旨在削弱拉美大学传统上浓厚的人文社会科学批判传统，迫使高深学府沦为依附于跨国资本积累的职业技能培训所。（pp. 81, 85）
 
 面对受限国家机器与法团主义官僚恩庇，拉美基层社会孕育了自主的批判教育抵抗传统。

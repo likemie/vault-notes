@@ -34,9 +34,11 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Knowledge Production]]"
   - "[[Theoretical Perspective]]"
+  - "[[Policy Conditionalities]]"
   - "[[Researching Up and Researching Down]]"
   - "[[Development Education]]"
   - "[[Heterogeneity]]"
+  - "[[Washington Consensus]]"
   - "[[Technical Rationality]]"
 related_theories:
   - "[[Pluralism]]"
@@ -118,7 +120,7 @@ updated: 2026-10-10
 > *The World Bank’s logic of analysis cannot be characterized as pluralistic. Although not free from tensions and contradictions, the organization is quite monolithic (Samoff, 1992, 1993)... there is a diversity of theoretical perspectives within the ranks of the World Bank’s researchers. But he points out that the organization’s logic is implacably applied in the context of its lending and that the workings of its managers in charge of lending are distant from the theoretical and empirical analysis of its researchers.*
 
 > [!citation-card] 结构调整[[Discourse|话语]]的概念模糊与政治强制
-> 结构调整通常被描绘为世界银行、[[International Monetary Fund|国际货币基金组织]]和其他金融机构推荐的一整套广泛政策。虽然世界银行试图在宏观稳定化、结构调整与部门调整政策之间做出概念区分，但正如萨莫夫所指出的，世界银行自身也承认，在日常实践中这些关键术语的通俗使用往往是模糊且前后矛盾的，但它们作为强制贷款附加条件的刚性却从未减弱。[[Argument_Olmos_Torres_2009_StateTheories|(Samoff, 1990; Olmos & Torres, 2009, p. 80)]]
+> 结构调整通常被描绘为世界银行、[[International Monetary Fund|国际货币基金组织]]和其他金融机构推荐的一整套广泛政策。虽然世界银行试图在宏观稳定化、结构调整与部门调整政策之间做出概念区分，但正如萨莫夫所指出的，世界银行自身也承认，在日常实践中这些关键术语的通俗使用往往是模糊且前后矛盾的，但它们作为强制[[Policy Conditionalities|贷款附加条件]]的刚性却从未减弱。[[Argument_Olmos_Torres_2009_StateTheories|(Samoff, 1990; Olmos & Torres, 2009, p. 80)]]
 >
 > *Although the World Bank differentiates among stabilization, [[Structural Adjustment Programs|Structural Adjustment]], and adjustment policies, it acknowledges that the general use of these terms "is often imprecise and inconsistent" (Samoff, 1990).*
 
@@ -160,7 +162,7 @@ updated: 2026-10-10
 > > [!axis] [[World Bank|世界银行]]政策机器的同质性 vs 内部多元微观[[Heterogeneity|异质性]]
 > > 围绕世界银行内部是否存在真正的学术[[Pluralism|多元主义]]的争论。
 > >
-> > - **主流发展经济学者** 辩称世界银行内部吸收了大量不同背景的社会学家、人类学家与教育学者，其政策并非千篇一律的华盛顿共识，存在不同部门间的微观争鸣。
+> > - **主流发展经济学者** 辩称世界银行内部吸收了大量不同背景的社会学家、人类学家与教育学者，其政策并非千篇一律的[[Washington Consensus|华盛顿共识]]，存在不同部门间的微观争鸣。
 > > - **Samoff（1992, 1993）** 反驳指出，内部个别学者的多元性只是装饰门面的假象，一旦进入放贷执行环节，管理层与贷款部门便严格执行铁板一块的技术官僚紧缩逻辑，任何非主流异见都会在正式政策文本和贷款协定中被系统清洗。
 
 ---
@@ -173,7 +175,7 @@ updated: 2026-10-10
 > |:-----|:-----|:-----|
 > | [[Financial-Intellectual Complex\|金融-智识复合体]] | 概念 | 率先提出并命名该[[Construct\|构念]]，揭示资金垄断与智识生产合谋的跨国[[Disciplina and Doctrina\|规训]]机制。 |
 > | [[Technical Rationality\|技术理性]] | 概念 | 批判[[World Bank\|世界银行]]将教育降格为新古典成本收益与生均收益率等纯粹技术官僚工具理性。 |
-> | [[Conditioned State Theory\|受限国家理论]] | 理论 | 阐发外围国家在面对跨国金融机构贷款附加条件时丧失政策自主权的受限困局。 |
+> | [[Conditioned State Theory\|受限国家理论]] | 理论 | 阐发外围国家在面对跨国金融机构[[Policy Conditionalities\|贷款附加条件]]时丧失政策自主权的受限困局。 |
 > | [[Dependency Theory\|依附理论]] | 理论 | 深化文化与智识层面的依附机制分析，揭露西方援助专家库对第三世界智识主权的再殖民化。 |
 > | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009)]] | 论证 | 评析萨莫夫对世界银行金融-智识复合体、受雇专家网络及借贷政策单向垄断的批判。 |
 > | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 梳理第四代批判冲突[[Paradigm\|范式]]，阐述卡诺伊与萨莫夫关于转型国家政治权力驱动教育变革的论断。 |

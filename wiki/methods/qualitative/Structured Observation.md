@@ -39,6 +39,11 @@ related_methods:
   - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
+  - "[[Argument_WorldBank_2019_Teach]]"
+related_instruments:
+  - "[[Teach Classroom Observation Tool]]"
+related_facts:
+  - "[[World Bank]]"
 status: draft
 created: 2026-07-23
 updated: 2026-10-15
@@ -184,4 +189,4 @@ Dyer（1995, pp. 181–186）提出了结构化观察设计的完整框架：
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al. (2011, Ch. 23)]] — 教材专章系统介绍结构化观察的设计原则、观察计划表、五种数据记录方式、Dyer（1995）设计清单以及分析方法。（23.2–23.4 节）
-> - [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] — 世界银行开发并标准化 Teach 课堂观察工具，结合快照时间抽样（低推论）与 5 点行为评定规程（高推论），在多国实证课堂中系统测量教学时间分配与教学实践质量。
+> - [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] — [[World Bank|世界银行]]开发并标准化 [[Teach Classroom Observation Tool|Teach]] 课堂观察工具，结合快照时间抽样（低推论）与 5 点行为评定规程（高推论），在多国实证课堂中系统测量教学时间分配与教学实践质量。

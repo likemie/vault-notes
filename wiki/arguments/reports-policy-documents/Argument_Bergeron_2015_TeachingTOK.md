@@ -59,6 +59,7 @@ related_methods:
 related_instruments:
   - "[[Confidence Teaching TOK Scale]]"
   - "[[6-Item TOK Focus Group Protocol]]"
+  - "[[Teach Classroom Observation Tool]]"
 related_persons:
   - "[[Plato]]"
   - "[[René Descartes]]"
@@ -327,7 +328,7 @@ issuing_organization: "International Baccalaureate Organization"
 > 在开放式[[Questionnaire\|问卷]]与焦点小组中，教师们详细描述了这种“教学哲学”深层转变的四个核心维度（pp. 26–29）：
 > 1. **事实走向概念** 传统学科教师（如科学教师）坦言，知识论把他们带出了舒适区，使其不再局限于讲授离散的“事实（facts）”，而是转向探讨底层的“概念（concepts）”与伦理议题，挑战学生去反思“为什么事物会这样运作”。
 > 2. **重塑教学方法** 即使是拥有心理学博士学位、自认熟谙教学法的资深教师，也在沉浸于该课程后，重新发现了“思考常规（thinking routines）”和“结构化探究（structured way of inquiry）”在课堂上的强大力量。
-> 3. **全面转向学生** 对“教学哲学”开放式回答的词频分析（图1）揭示，教师高频使用了“以讨论为基础（discussion based）”、“反思性聆听（reflective listening practices）”、“通过活动而非讲授来教学（teach through activity not lecture）”等理念词汇。
+> 3. **全面转向学生** 对“教学哲学”开放式回答的词频分析（图1）揭示，教师高频使用了“以讨论为基础（discussion based）”、“反思性聆听（reflective listening practices）”、“通过活动而非讲授来教学（[[Teach Classroom Observation Tool|Teach]] through activity not lecture）”等理念词汇。
 > 4. **打破孤岛协作** 因为该课程涵盖八大知识领域，几乎没有教师具备全知背景，这迫使他们打破“关门教书（shut their doors and teach in isolation）”的传统习惯，主动寻求与其他学科教师的“团队教学（team teaching）”或邀请客座讲师，从而在学校中催生了真正真实的协作文化。
 
 > [!example]- 图1 教学哲学编码词频图

@@ -54,7 +54,8 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Correlational Research]]"
-related_instruments: []
+related_instruments:
+  - "[[Teach Classroom Observation Tool]]"
 related_persons:
   - "[[Rainer Kattel]]"
   - "[[Mariana Mazzucato]]"
@@ -86,7 +87,7 @@ updated: 2026-10-03
 > [!citation-card] 人工智能依赖与教育目标的结构性冲突
 > 当教育旨在提升学生的内在认知能力、传授智力技能并培育理智品格时，对生成式人工智能的盲目依赖正在使学生去技能化。技能如同肌肉，不加练习就会退化；如同演奏家数年不弹钢琴便会丧失精湛技巧，学生将写作与思考外包给 AI，将彻底失去发展内生认知机能的机会。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 270–271)]]
 >
-> *While education aims to teach students intellectual skills, relying on generative AI is deskilling them. Skills require practice, and if we don’t practise them, we lose them. Like muscles, if we do not keep manifesting our skills, we will lose them.*
+> *While education aims to [[Teach Classroom Observation Tool|Teach]] students intellectual skills, relying on generative AI is deskilling them. Skills require practice, and if we don’t practise them, we lose them. Like muscles, if we do not keep manifesting our skills, we will lose them.*
 
 > [!citation-card] 读写教育中的私厨代劳与技能萎缩
 > 将生成式人工智能在人文学科中比作计算器是根本错误的。计算器仅卸载机械性算术，数学推理的核心理解仍由学生掌握；而 AI 在构思、提纲与修改全流程代笔，更契合替雇主做饭的私厨。雇主哪怕天天享用盛宴，十年过去依然不会做饭；学生若长期依赖 AI 代笔，将彻底丧失面对空白构思、将思想线性化以及基于自我评估修正观点的[[Epistemic Practices|认知实践]]机会，陷入严重的内生机能去技能化。[[Argument_Smith_2026_SPE\|(Smith, 2026, pp. 1–3)]]

@@ -54,6 +54,7 @@ related_concepts:
   - "[[Teaching Assistant]]"
   - "[[Return on Investment]]"
   - "[[Knowledge Bank]]"
+  - "[[Policy Conditionalities]]"
   - "[[Education-for-Mandates]]"
   - "[[Warehousing of Good Practices]]"
   - "[[Development Education]]"
@@ -301,7 +302,7 @@ issuing_organization: ""
 > - **转型为“[[Knowledge Bank\|知识银行]]”的制度承诺** 1990 年代世界银行加速拓展教育研究职能，于 1999 年发起设立[[Global Development Network\|全球发展网络]]（Global Development Network，GDN），承诺支持借贷国本土层面的知识生产与循证决策，改变华盛顿总部对政策知识的单向垄断。（Stone, 2000; p.543）
 > - **去中心化构想的迅速流产** 这一旨在激活国别本土智库与学术机构的去中心化倡议很快丧失势头，被世界银行随后推行的大量总部集中管理项目（如[[Systems Approach for Better Education Results\|改善教育成果系统分析法]]（SABER））彻底边缘化并取代。
 > - **本土专家的工具化降格** 跨国大型数据库的设计与维护权牢牢保留在华盛顿总部手中，借贷国的本土学者与国家专家并未获得实[[Qualitative Research\|质性研究]]主导权，沦为仅负责为总部数据库搜集、填报指标并提供语篇翻译的基层信息员。
-> - **60 年回报率实证帝国的规制底色** 伴随这一集权过程，世界银行系统构建起庞大的应用政策研究体系；[[George Psacharopoulos\|乔治·萨卡罗普洛斯]]（George Psacharopoulos）与帕特里诺斯（Harry Anthony Patrinos，2018）对 60 年教育投资回报率研究的[[Systematic Review\|系统综述]]显示，该数据库累计涵盖 139 个国家的 1,120 项估算，为世行脱离联合国教科文组织、以贷款附加条件深度干预借贷国教育体制提供了自给自足的数据霸权。（p.548）
+> - **60 年回报率实证帝国的规制底色** 伴随这一集权过程，世界银行系统构建起庞大的应用政策研究体系；[[George Psacharopoulos\|乔治·萨卡罗普洛斯]]（George Psacharopoulos）与帕特里诺斯（Harry Anthony Patrinos，2018）对 60 年教育投资回报率研究的[[Systematic Review\|系统综述]]显示，该数据库累计涵盖 139 个国家的 1,120 项估算，为世行脱离联合国教科文组织、以[[Policy Conditionalities|贷款附加条件]]深度干预借贷国教育体制提供了自给自足的数据霸权。（p.548）
 
 #### 3. 跨国会议网络与普遍危机叙事将命名与羞辱常规化，为政策中介确立持续政治合法性
 

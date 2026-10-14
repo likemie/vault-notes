@@ -188,19 +188,19 @@ updated: 2026-10-15
 > > 知识银行概念的拥护者与批评者对[[World Bank|世界银行]]知识转型的性质存在根本分歧。
 > >
 > > - **世界银行官方叙事** 强调开放数据平台、[[Global Development Network|全球发展网络]]与比较政策研究的全球公共品属性，声称知识银行使全球发展知识获取民主化。
-> > - **批判比较学者（Stone, 2000; Steiner-Khamsi et al., 2024）** 实证表明世行展现出极强的“自指性政策借鉴”偏好，反复循环引用自身 [[Systems Approach for Better Education Results|SABER]] 工具与华盛顿总部生产的最佳实践仓库，将特定新自由主义经济学[[Paradigm|范式]]包装为[[Value Neutrality|价值中立]]的客观真理，在技术援助掩护下推行软性的认识论规制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
+> > - **批判比较学者（Stone, 2000; [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）** 实证表明世行展现出极强的“自指性政策借鉴”偏好，反复循环引用自身 [[Systems Approach for Better Education Results|SABER]] 工具与华盛顿总部生产的最佳实践仓库，将特定新自由主义经济学[[Paradigm|范式]]包装为[[Value Neutrality|价值中立]]的客观真理，在技术援助掩护下推行软性的认识论规制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
 >
 > > [!axis] 纯粹智库收费设想 vs 信贷资金后盾的不可替代性
 > > 探讨 1990 年代末世界银行高层提出的“以研究建议与智库咨询替代传统借贷放款（Ideas instead of Funds）”设想是否具有现实可行性。
 > >
 > > - **知识咨询论设想** 认为世界银行拥有全球无可匹敌的技术水准与数据库，应当向各国转型提供专业政策咨询与改革构想，淡化传统物理放贷业务。
-> > - **信贷杠杆论现实反思（Castro, 2009）** [[Claudio de Moura Castro|卡斯特罗]]指出，[[Development Education|发展中国家教育]]部绝无动力主动自费雇佣昂贵顾问推销政治上极度痛苦的体制改革；[[UNESCO|联合国教科文组织]]（[[UNESCO]]）免费提供海量咨询却几乎被全盘无视，明证了脱离巨额信贷资金（Funds）的物质杠杆，再优雅的知识构想（Ideas）也无法迫使借贷国直面国内阻力推行改革；正是贷款资金本身迫使借款国不得不审视世行的政策建议，脱离金融信贷的知识银行纯智库设想注定无法落地。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 472–473)]]
+> > - **信贷杠杆论现实反思（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）** [[Claudio de Moura Castro|卡斯特罗]]指出，[[Development Education|发展中国家教育]]部绝无动力主动自费雇佣昂贵顾问推销政治上极度痛苦的体制改革；[[UNESCO|联合国教科文组织]]（[[UNESCO]]）免费提供海量咨询却几乎被全盘无视，明证了脱离巨额信贷资金（Funds）的物质杠杆，再优雅的知识构想（Ideas）也无法迫使借贷国直面国内阻力推行改革；正是贷款资金本身迫使借款国不得不审视世行的政策建议，脱离金融信贷的知识银行纯智库设想注定无法落地。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 472–473)]]
 >
 > > [!axis] 技术专家治理的优越感 vs 借款国国内政治力量对外部指令的否决
 > > 探讨知识银行推销的政策处方是否能够单方面决定主权受援国的改革走向。
 > >
 > > - **技术官僚[[Determinism|决定论]]** 笃信经过严格[[Causality|因果推断]]与成本效益核算的政策建议应当成为各国公共政策的黄金律，借款国应当遵从专家的科学规划。
-> > - **本土政治决定论（Hunter & Browne, 2000; Castro, 2009）** 实证检验表明，世界银行资金投入与政策指令对拉美初等教育支出比例几乎没有实质决定权；代表外部银行的技术专家往往低估了借款国部长维护政治生存的牛仔竞技算术，在任何涉及深层再分配的重大政策决策中，国内政治博弈力量始终压倒国际技术官僚联结。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 464, 473–474)]]
+> > - **本土政治决定论（Hunter & Browne, 2000; [[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）** 实证检验表明，世界银行资金投入与政策指令对拉美初等教育支出比例几乎没有实质决定权；代表外部银行的技术专家往往低估了借款国部长维护政治生存的牛仔竞技算术，在任何涉及深层再分配的重大政策决策中，国内政治博弈力量始终压倒国际技术官僚联结。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 464, 473–474)]]
 
 > [!citation-card] 卡斯特罗论巨额信贷资金作为知识银行建议落地的根本杠杆
 > 经验表明，推动受援国投身深层体制改革的一个真正而巨大的动力，正是随贷款而来的巨额资金。因此，将[[Multilateral Development Bank|多边开发银行]]与其他国际机构（如联合国教科文组织）彻底区别开来的关键，恰恰在于贷款所提供的资金以某种方式迫使各国教育部不得不认真对待银行提出的政策建议。事实上，所谓的[[Policy Conditionalities|贷款附加条件]]，不过是为了确保所提政策得以落地的配套手段罢了。克劳迪奥·德·莫拉·卡斯特罗（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, p. 472]]）

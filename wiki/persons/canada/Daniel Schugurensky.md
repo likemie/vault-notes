@@ -24,6 +24,7 @@ tags:
   - region/canada
 related_concepts:
   - "[[Selective Affinity]]"
+  - "[[Policy Conditionalities]]"
   - "[[Global Citizenship]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Democratic Education]]"
@@ -59,7 +60,7 @@ updated: 2026-09-28
 
 > [!person-profile] 人物档案
 > - **身份位置** 阿根廷裔加拿大/美国著名比较教育学家与参与式民主学者，曾任加拿大多伦多大学安大略教育研究院（OISE/UT）教授，现任美国亚利桑那州立大学（Arizona State University）公共服务与社区发展学院教授。
-> - **核心角色** 高等教育政治经济学与参与式公民权研究先驱；率先提出了[[World Bank|世界银行]]与美国[[Business Roundtable|商业圆桌会]]在教育重塑中的“[[Selective Affinity|选择性亲和]]”（Elective Affinity）命题；深入剖析了新自由主义跨国金融机构如何通过贷款附加条件重构全球南方公立高等教育生态。
+> - **核心角色** 高等教育政治经济学与参与式公民权研究先驱；率先提出了[[World Bank|世界银行]]与美国[[Business Roundtable|商业圆桌会]]在教育重塑中的“[[Selective Affinity|选择性亲和]]”（Elective Affinity）命题；深入剖析了新自由主义跨国金融机构如何通过[[Policy Conditionalities|贷款附加条件]]重构全球南方公立高等教育生态。
 > - **代表贡献** 揭示世界银行与商业圆桌会在推行教育市场化改革中的意识形态共振（1994）；对阿根廷布宜诺斯艾利斯大学（UBA）重组开展具有深远影响的深度制度[[Case Study|案例研究]]；出版《参与式预算中的公民身份与地方治理》（2011）。
 
 > [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论舒古伦斯基的世行与商业圆桌会选择性亲和分析
@@ -95,7 +96,7 @@ updated: 2026-09-28
 > [!claim] 核心主张
 > 舒古伦斯基的核心思想在于**揭露了跨国金融霸权与国内垄断资本在教育市场化重组中的合谋机制**。他敏锐地捕捉到，[[World Bank|世界银行]]在全球南方国家扮演的角色，在本质上是美国本土[[Business Roundtable|商业圆桌会]]的跨国镜像：两者均以提高经济效益和应对国家赤字为掩护，推崇技术官僚量化考核、使用者付费与营利性办学；其在拉美公立大学推行的“改革”，实质上是剥离大学深厚的人文[[Critical Thinking Disposition|批判精神]]与社会民主反思职能，迫使高深学府彻底退化为依附于跨国资本积累的技能代工所。
 
-> [!case] 世界银行贷款附加条件与布宜诺斯艾利斯大学重构
+> [!case] 世界银行[[Policy Conditionalities|贷款附加条件]]与布宜诺斯艾利斯大学重构
 > 舒古伦斯基对阿根廷历史最悠久、规模最大的公立学府布宜诺斯艾利斯大学（UBA）的深入实证个案表明，世界银行将结构调整贷款作为核心干预杠杆，强迫阿根廷政府压缩对国立高校的经常性预算，强令公立大学开征学费、面向私人资本创收，并推行绩效考评。这一干预严重瓦解了拉美大学百年来形成的“自治与批判”办学传统，加剧了校内不同学科间的贫富分化。[[Argument_Olmos_Torres_2009_StateTheories|(Schugurensky, 1994; Olmos & Torres, 2009, p. 81)]]
 
 ---
@@ -126,6 +127,6 @@ updated: 2026-09-28
 > |:-----|:-----|:-----|
 > | [[Business Roundtable]] | 事实 (组织) | 论证其教育议程与[[World Bank\|世界银行]]跨国政策之间存在深刻的[[Selective Affinity\|选择性亲和]]。 |
 > | [[World Bank]] | 事实 (组织) | 揭示其利用[[Structural Adjustment Programs\|结构调整]]贷款作为重组全球南方大学治理与收费制度的霸权中介。 |
-> | [[Structural Adjustment Programs]] | 概念 | 分析结构调整贷款附加条件迫使公立高等教育走向市场创收的具体传导机制。 |
+> | [[Structural Adjustment Programs]] | 概念 | 分析结构调整[[Policy Conditionalities\|贷款附加条件]]迫使公立高等教育走向市场创收的具体传导机制。 |
 > | [[Financial-Intellectual Complex]] | 概念 | 为该复合体在大学层面的知识控制与政策干预提供了详实的个案实证支持。 |
 > | [[Carlos Alberto Torres]] | 人物 | 长期学术同盟，在其论著中将舒古伦斯基的高校研究作为核心案例予以吸收。 |

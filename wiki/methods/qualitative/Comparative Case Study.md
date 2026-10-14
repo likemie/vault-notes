@@ -34,6 +34,8 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Graduate Attributes]]"
   - "[[Data Infrastructure]]"
+  - "[[Policy Conditionalities]]"
+  - "[[Multilateral Development Bank]]"
 related_theories:
   - "[[Cultural Political Economy]]"
   - "[[World-Systems Theory]]"
@@ -66,6 +68,7 @@ related_arguments:
   - "[[Argument_SpronkenSmith_2024_AEHE]]"
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
   - "[[Argument_Grindley_1994_JPAM]]"
+  - "[[Argument_Castro_2009_MultilateralBanks]]"
 confidence: high
 status: draft
 created: 2026-05-19
@@ -179,4 +182,4 @@ updated: 2026-10-07
 > - [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]] — 采用比较案例研究设计结合[[Mixed Methods Research|混合方法]]，对比两所美国大学和一所新西兰大学的博士[[Graduate Attributes|毕业生特质]]发展与职场迁移，以制度差异下的模式一致性推断博士培养的结构性特征。
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]] — 采用比较案例研究设计，对比美德两国联邦体制下的教育数据化先锋州（马萨诸塞州与汉堡），系统考察州级教育行政机构中[[Data Infrastructure|数据基础设施]]的社会-技术实践与治理张力。
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 采用国际比较案例研究设计，深度对比美国 [[Sematech]]、日本 [[VLSI Project|VLSI]] 项目 及欧洲 [[ESPRIT]]、[[JESSI]] 等跨国高技术研发联盟的治理结构与演进轨迹，提炼高技术公私协同联盟的制度设计准则。
-> - [[Argument_Castro_2009_MultilateralBanks|Castro (2009, pp. 466–467)]] — 运用比较案例研究设计，深度对比玻利维亚、巴拉圭、摩洛哥与巴西等国的教育贷款附加条件谈判与执行轨迹，归纳多边开发银行强推体制改革失败与借贷国渐进协商成功的制度边界条件。
+> - [[Argument_Castro_2009_MultilateralBanks|Castro (2009, pp. 466–467)]] — 运用比较案例研究设计，深度对比玻利维亚、巴拉圭、摩洛哥与巴西等国的教育[[Policy Conditionalities|贷款附加条件]]谈判与执行轨迹，归纳[[Multilateral Development Bank|多边开发银行]]强推体制改革失败与借贷国渐进协商成功的制度边界条件。

@@ -25,6 +25,7 @@ tags:
   - theme/global-governance
   - theme/donor-coordination
 related_concepts:
+  - "[[Multilateral Development Bank]]"
   - "[[International Education]]"
   - "[[Output-Oriented Governance]]"
   - "[[Governing by Numbers]]"
@@ -32,6 +33,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Evidence Standards]]"
   - "[[Causality]]"
+  - "[[Policy Conditionalities]]"
   - "[[Development Education]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
@@ -67,7 +69,7 @@ updated: 2026-10-07
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 构建教育证据工作组（Building Evidence in Education Working Group，简称 BE2）是由主要双边援助署、多边发展银行及联合国机构组成的高级别捐助国协同组织，旨在通过统一实证证据评估规程、协调科研资助标准与推行严格评估技术，主导[[International Education\|国际教育]]发展领域的循证政策议程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
+> 构建教育证据工作组（Building Evidence in Education Working Group，简称 BE2）是由主要双边援助署、[[Multilateral Development Bank|多边发展银行]]及联合国机构组成的高级别捐助国协同组织，旨在通过统一实证证据评估规程、协调科研资助标准与推行严格评估技术，主导[[International Education\|国际教育]]发展领域的循证政策议程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2012 年在伦敦由[[World Bank\|世界银行]]、英国国际发展部（DFID，现 FCDO）与美国国际开发署（USAID）共同发起设立。当时正值新自由主义[[Output-Oriented Governance\|结果导向治理]]深化，主要出资国要求对动辄数十亿美元的跨国教育援助项目实施更加严苛的证据审查与成本效益核算。
@@ -96,7 +98,7 @@ updated: 2026-10-07
 > [!pathways] 业务运行机制
 > - **[[Evidence Standards\|证据标准]]设定** 制定《评估教育证据严谨性与相关性指南》，明确排除缺乏[[Causality\|因果推断]]设计的描述性或质性调研报告。
 > - **研究议程协同** 各大捐助机构在立项前召开闭门会议，协调资助重点，避免在受援国出现重复性或相互矛盾的实证项目。
-> - **[[Policy Brokerage\|政策中介]]协同推送** 将工作组认可的“高确定性证据”打包为标准政策简报，直接注入世界银行贷款附加条件与各国援助战略谈判桌。
+> - **[[Policy Brokerage\|政策中介]]协同推送** 将工作组认可的“高确定性证据”打包为标准政策简报，直接注入世界银行[[Policy Conditionalities|贷款附加条件]]与各国援助战略谈判桌。
 
 ---
 

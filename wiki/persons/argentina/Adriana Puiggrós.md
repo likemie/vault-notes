@@ -27,6 +27,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Dialogue in Education]]"
   - "[[Grandes Ecoles]]"
+  - "[[Washington Consensus]]"
   - "[[Popular Education]]"
   - "[[Whiggism]]"
   - "[[Disciplina and Doctrina]]"
@@ -86,7 +87,7 @@ updated: 2026-10-14
 > - **1974** 阿根廷右翼极端势力暗杀威胁与随后的军事政变迫使其流亡墨西哥，进入墨西哥国立自治大学（UNAM）攻读拉丁美洲研究博士学位并任教。
 > - **1980** 在墨西哥出版开创性著作《帝国主义与拉丁美洲教育》（*Imperialismo y educación en América Latina*），将[[Dependency Theory|依附理论]]与[[Hegemony|葛兰西霸权理论]]融汇于拉美教育史研究。
 > - **1984** 阿根廷恢复民主宪政后返回祖国，在布宜诺斯艾利斯大学创立“拉美教育历史替代方案研究计划”（APPEAL），主持编撰十卷本《阿根廷教育史》（*Historia de la educación en la Argentina*）。
-> - **1990 年代** 与[[Carlos Alberto Torres|托雷斯]]密切合作，深入批判[[World Bank|世界银行]]结构调整与华盛顿共识在拉美推行的教育市场化改革。
+> - **1990 年代** 与[[Carlos Alberto Torres|托雷斯]]密切合作，深入批判[[World Bank|世界银行]]结构调整与[[Washington Consensus|华盛顿共识]]在拉美推行的教育市场化改革。
 > - **2005–2007** 出任布宜诺斯艾利斯省教育文化总局局长（正部级），力推公立学校民主化改革。
 > - **2019–2020** 出任阿根廷国家教育部副部长。
 
