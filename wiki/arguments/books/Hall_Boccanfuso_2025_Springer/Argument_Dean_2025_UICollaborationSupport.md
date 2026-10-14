@@ -12,7 +12,7 @@ title: "Argument_Dean_2025_UICollaborationSupport"
 argument_key: "Argument_Dean_2025_UICollaborationSupport"
 argument_display_title: "Gaining Support Within Universities for Collaboration"
 argument_kind: "books"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Technology Transfer Office]]"
   - "[[STEM Education]]"
+  - "[[Counterpart Funds]]"
   - "[[Teaching Assistant]]"
   - "[[Concierge Service]]"
   - "[[Innovation Ecosystem]]"
@@ -124,7 +125,7 @@ citation_aliases:
 
 1. 加拿大联邦政府的主要 [[STEM Education|STEM]] 资助项目以产业配资为硬性前提。两个核心项目构成了这一激励机制的双轨设计：
 
-    - **加拿大自然科学与工程研究理事会（Natural Science and Engineering Research Council, NSERC）联盟优势项目（Alliance Advantage）** 要求产业伙伴提供 1:1 的配套资金才能获得政府资助。研究者必须先找到愿意出资的产业伙伴，政府才会匹配等额经费。项目面向大学教师的合作研究，由学术首席 investigator 管理，产业伙伴提供资金和问题场景(p.243)。
+    - **加拿大自然科学与工程研究理事会（Natural Science and Engineering Research Council, NSERC）联盟优势项目（Alliance Advantage）** 要求产业伙伴提供 1:1 的[[Counterpart Funds|配套资金]]才能获得政府资助。研究者必须先找到愿意出资的产业伙伴，政府才会匹配等额经费。项目面向大学教师的合作研究，由学术首席 investigator 管理，产业伙伴提供资金和问题场景(p.243)。
     - **Mitacs 加速项目（Mitacs Accelerate）** 专门支持研究生和博士后的产业实习。项目将学生的产业实习岗位与大学教师管理的研究项目绑定，Mitacs 支付约 50% 的项目成本，剩余部分由产业伙伴匹配。学生至少需要在公司现场工作一段时间，以从产业视角理解研究挑战(pp.243–244)。
 
     两个项目可以叠加使用：研究者先通过 Mitacs 加速项目获得对研究生产业实习的支持，再通过 NSERC 联盟优势项目获得对研究项目本身的配资。叠加后研究者最多可以获得 **3:1 的杠杆效应**——每从产业获得 1 加元，就可以从政府获得最多 3 加元的配资(p.243)。这种设计意味着产业出资是一把**钥匙** 没有产业伙伴，就无法打开政府配资的**锁**。

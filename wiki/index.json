@@ -2992,6 +2992,18 @@
     ]
   },
   {
+    "title": "Counterpart Funds",
+    "type": "concept",
+    "path": "wiki/concepts/educational-finance/Counterpart Funds.md",
+    "aliases": [
+      "对等配套资金",
+      "配套资金",
+      "国内配套资金",
+      "对等资金",
+      "Matching Funds"
+    ]
+  },
+  {
     "title": "Absorptive Capacity",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md",
@@ -4755,6 +4767,18 @@
       "研究生产民主化",
       "Democratizing Evidence",
       "Democratisation of Evidence"
+    ]
+  },
+  {
+    "title": "Disbursement-Driven Evaluation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Disbursement-Driven Evaluation.md",
+    "aliases": [
+      "放贷驱动评估",
+      "拨付驱动评估",
+      "投入导向评估",
+      "资金拨付率考核",
+      "Input-Biased Evaluation"
     ]
   },
   {
@@ -22071,6 +22095,17 @@
     "aliases": [
       "Amado, C. D. H.",
       "卡米拉·德·奥兰达·阿马多"
+    ]
+  },
+  {
+    "title": "Claudio de Moura Castro",
+    "type": "person",
+    "path": "wiki/persons/brazil/Claudio de Moura Castro.md",
+    "aliases": [
+      "克劳迪奥·德·莫拉·卡斯特罗",
+      "卡斯特罗",
+      "Claudio Castro",
+      "C. M. Castro"
     ]
   },
   {

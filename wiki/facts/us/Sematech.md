@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 54
+fact_related_count: 55
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Valley of Death]]"
   - "[[Reliability]]"
   - "[[Emergence]]"
+  - "[[Counterpart Funds]]"
   - "[[Paradigm]]"
   - "[[Membership-based Research Consortium]]"
   - "[[Variable]]"
@@ -88,7 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Sematech
@@ -158,7 +159,7 @@ updated: 2026-10-14
 > *The current world competitive situation demands increasing cooperation both horizontally and vertically in the industry as evidenced by the spontaneous emergence of the Sematech proposal. Sematech is not necessarily the ideal instrument, but it is a significant step, a start. Indeed, it is generally agreed even by those advocating Sematech that it will not solve all the industries' problems. However, it will increase communication between elements of the industry, and may encourage new coalitions outside of Sematech, and may even facilitate industry restructuring.*
 
 > [!citation-card] [[Michael Kratsios|克拉齐奥斯]]论前竞争技术联合体的制度准则与战略启示
-> 当技术所面临的科学原理已然明晰，而真正的瓶颈在于高风险、大资本规模的工程实现时，单一企业无法独自承担全行业共性的失败风险。Sematech 与 [[EUV LLC]] 展现了联邦政府作为战略召集者的关键制度效能：通过对等资金匹配与中试平台建设，对齐产学研多元利益，成功攻克全行业的共性制造与装备断代危机。这一模式构成了当代《[[CHIPS and Science Act|芯片与科学法案]]》[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）的制度原型。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–45)]]
+> 当技术所面临的科学原理已然明晰，而真正的瓶颈在于高风险、大资本规模的工程实现时，单一企业无法独自承担全行业共性的失败风险。Sematech 与 [[EUV LLC]] 展现了联邦政府作为战略召集者的关键制度效能：通过[[Counterpart Funds|对等资金]]匹配与中试平台建设，对齐产学研多元利益，成功攻克全行业的共性制造与装备断代危机。这一模式构成了当代《[[CHIPS and Science Act|芯片与科学法案]]》[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）的制度原型。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–45)]]
 >
 > *When the underlying science is understood but the engineering hurdles are massive, no single firm can bear the risk... SEMATECH demonstrated how federal [[Matching]] funds and shared testbeds can align industry competitors to resolve common equipment and process bottlenecks.*
 
@@ -248,7 +249,7 @@ updated: 2026-10-14
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统总结 Sematech 的历史成效与治理经验，阐明其在面对共性高风险工程挑战时通过对等资金匹配与[[Pilot Scale Platform|中试验证线]]对齐产业利益的机制，并提炼出前竞争联合体适用的三大黄金特征，将其作为《[[CHIPS and Science Act|芯片法案]]》[[National Science and Technology Council|NSTC]] 与新型制造中试基地的制度蓝本。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统总结 Sematech 的历史成效与治理经验，阐明其在面对共性高风险工程挑战时通过[[Counterpart Funds|对等资金]]匹配与[[Pilot Scale Platform|中试验证线]]对齐产业利益的机制，并提炼出前竞争联合体适用的三大黄金特征，将其作为《[[CHIPS and Science Act|芯片法案]]》[[National Science and Technology Council|NSTC]] 与新型制造中试基地的制度蓝本。
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 深入考察 [[DARPA]] 在对等资助 Sematech 中的催化角色，对比全额资助的 VHSIC 计划，提炼出由产业主导议程、政府提供对等资金的高技术公私研发联盟治理准则。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 深度剖析 Sematech 作为历史公私联合体在工艺改良与装备协同中的治理机制，并将其与 21 世纪[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）作为中立产业公共品的开放准入与非排他许可架构进行比较分析。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 梳理美国联邦军工采购、反垄断政策与 Sematech 产业联合体在重塑战后微电子产业结构中的深远影响。

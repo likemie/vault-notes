@@ -38,6 +38,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Discourse]]"
+  - "[[Counterpart Funds]]"
   - "[[Document]]"
   - "[[Epistemic Ascent]]"
   - "[[Learning Progression]]"
@@ -100,7 +101,7 @@ title: "Argument_McDonnell_2013_AJE"
 argument_key: "Argument_McDonnell_2013_AJE"
 argument_display_title: "Evidence use and the Common Core State Standards movement: From problem definition to policy adoption"
 argument_kind: "journal-article"
-argument_related_count: 62
+argument_related_count: 63
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -236,7 +237,7 @@ issuing_organization: ""
 
 > [!feature] [[Bill & Melinda Gates Foundation|盖茨基金会]]搭建的资助与沟通网络
 > - **全国核心机构资助** [[Bill & Melinda Gates Foundation|比尔与梅琳达·盖茨基金会]]（Bill & Melinda Gates Foundation）在 2009 至 2010 年间向 18 个全国性教育与民权机构提供超过 5,000 万美元专项资助，用于宣传和推动通用标准。（p. 22）
-> - **技术服务与地方行政资助** 向 10 家专业技术机构和 20 个州地方教育部门提供约 3,900 万美元配套资金，支持标准比对与教学过渡。
+> - **技术服务与地方行政资助** 向 10 家专业技术机构和 20 个州地方教育部门提供约 3,900 万美元[[Counterpart Funds|配套资金]]，支持标准比对与教学过渡。
 > - **例行协调与策略同步** 亨特研究所每周组织 7 至 14 家涵盖政界、高校、教师工会、家长组织和智库的伙伴机构召开电话会议，实时协调全美各地的推进策略。（p. 20）
 
 ---

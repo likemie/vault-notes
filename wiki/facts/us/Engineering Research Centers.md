@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Congressional Earmarks]]"
   - "[[Research Translation]]"
   - "[[Heterogeneous Integration]]"
+  - "[[Counterpart Funds]]"
   - "[[Curiosity-Driven Research]]"
   - "[[University-Based Research Center]]"
   - "[[Document]]"
@@ -70,7 +71,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Engineering Research Centers
@@ -144,7 +145,7 @@ updated: 2026-10-12
 > - **500+ 家** 截至 2007 年深度参与 NSF 产学中心网络合作的私营企业总数。
 > - **79%** 早期 ERC 项目在资助期满后的历史存活率（44/56）。
 > - **14 所顶尖高校** 依托 ERC 式跨校多圈层网络架构、由宾夕法尼亚州立大学牵头共建 JUMP 2.0 异构集成中心的合作规模。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]
-> - **≈ 30%** NSF 基础拨款在 ERC 中心年均总预算中所占的平均比例（其余由产业界会员费及配套资金分担）。
+> - **≈ 30%** NSF 基础拨款在 ERC 中心年均总预算中所占的平均比例（其余由产业界会员费及[[Counterpart Funds|配套资金]]分担）。
 > - **10 年** ERC 设立的法定最长资助周期（[[Sunset Provisions|日落条款]]），期满后中心必须具备独立造血能力。
 
 ---

@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 73
+fact_related_count: 74
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -70,6 +70,7 @@ related_instruments: []
 related_persons:
   - "[[Philip H. Coombs]]"
   - "[[Robert Arnove]]"
+  - "[[Claudio de Moura Castro]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
   - "[[Carlos Alberto Torres]]"
@@ -255,7 +256,7 @@ updated: 2026-10-15
 > > [!axis] 全球教育理念领导权易手与免费建议的制度无效性：道德号召 vs. 信贷物质杠杆
 > > 争论教科文组织以纯粹无偿咨询与人道主义宣言为基础的治理模式，在面临政治阻力时是否具备实质效能。
 > >
-> > - **圈内制度批判（Castro, 2009）** 卡斯特罗直言，教科文组织引领全球教育新理念的时代早已远去；宗迪恩大会完全由世行主导。更重要的是，教科文组织极其慷慨地向成员国免费提供源源不断的政策建议，但因为教育改革充满政治痛苦，各国教育部根本不怎么理会这些免费理念；缺乏贷款资金物质杠杆的构想极易沦为“听起来悦耳动听、签署批准时庄严华丽，但全然无足轻重”的纸面仪式。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 466, 472–473)]]
+> > - **圈内制度批判（Castro, 2009）** [[Claudio de Moura Castro|卡斯特罗]]直言，教科文组织引领全球教育新理念的时代早已远去；宗迪恩大会完全由世行主导。更重要的是，教科文组织极其慷慨地向成员国免费提供源源不断的政策建议，但因为教育改革充满政治痛苦，各国教育部根本不怎么理会这些免费理念；缺乏贷款资金物质杠杆的构想极易沦为“听起来悦耳动听、签署批准时庄严华丽，但全然无足轻重”的纸面仪式。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 466, 472–473)]]
 > > - **教科文组织人文主义捍卫者** 辩称道德权威与普遍人权基准具有超越短期财政借贷的跨时代规范效力，正是这种不依附于商业还本付息的独立性，捍卫了教育不被异化为单纯经济生产投入要素的公共属性底线。
 
 > [!citation-card] 战后多边教育危机的普遍主义建构

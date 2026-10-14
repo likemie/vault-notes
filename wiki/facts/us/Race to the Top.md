@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[College and Career Readiness]]"
+  - "[[Counterpart Funds]]"
   - "[[Performance Pay]]"
   - "[[Model Dependency]]"
   - "[[Catalytic Philanthropy]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-10-15
 ---
 
 # Race to the Top
@@ -118,7 +119,7 @@ updated: 2026-09-26
 ## 成效评估与实证发现
 
 > [!indicators]- 评估指标体系
-> - **投入指标** 43.5 亿美元联邦国库现金拨付到位率；各州地方财政与慈善配套资金撬动比例。
+> - **投入指标** 43.5 亿美元联邦国库现金拨付到位率；各州地方财政与慈善[[Counterpart Funds|配套资金]]撬动比例。
 > - **过程与制度指标** 全美各州完成跨州通用标准法定采纳的普及率；各州废除限制特许学校法律条款的比例；纵向数据平台连通率。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 16–18)]]
 > - **产出与学业指标** [[National Assessment of Educational Progress|全国教育进展评估]]（NAEP）达标率变动轨迹；高中毕业率与大学免补习录取率。
 

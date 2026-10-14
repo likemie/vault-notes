@@ -9,7 +9,7 @@ aliases:
 summary: "一种具有跨部门广泛渗透性、内在持续技术动态性以及能诱发下游互补性创新与系统性生产率提升的基础技术范式。"
 type: concept
 domain: "economics"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Co-Design]]"
   - "[[Hardware Security]]"
   - "[[Hypothesis]]"
+  - "[[Counterpart Funds]]"
   - "[[Technological Convergence]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Competitiveness]]"
@@ -82,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # General Purpose Technology
@@ -223,7 +224,7 @@ updated: 2026-10-12
 > 探讨为何自由市场机制在促进通用目的技术向传统工业与关联产业扩散时频繁遭遇时序脱节与投资迟滞，以及发展型网络国家（DNS）如何通过资助共性基础设施与跨供应链联合体破解协调失灵。
 
 > [!claim] [[Fred Block|Block, F.]]
-> **整条供应链对等协调与公共基础设施托底** 弗雷德·布洛克（Fred Block）指出，自由市场理论[[Hypothesis|假设]]通用目的技术（GPT）会自动无缝扩散至各个经济部门，但历史实践（从早期的运河、铁路、电力到现代的宽带互联网、燃气轮机与纳米技术）证明，重大通用技术的采纳充满严重的跨部门“协调失灵”（coordination problems）。下游行业在缺乏互补性公共基础设施、通用标准和供应链协同的情况下，往往因沉没成本和转型风险而拒绝或延缓采纳。美国商务部国家标准与技术研究院（NIST）下属的[[Advanced Technology Program|先进技术计划]]（Advanced Technology Program, ATP）正是针对这一系统性痛点而设：ATP 重点资助通用目的技术与共性工艺瓶颈，要求企业联合体提供 50% 对等配套资金；其最著名的突破是资助底特律三大汽车巨头（通用、福特、克莱斯勒）及其上游模具与装配供应商组成的“2毫米工程”（2mm Project）联合体，成功将汽车车身冲压件误差控制在 2 毫米以内，扭转了美国汽车业相对于日本的竞争劣势。这表明，通用目的技术的高效扩散无法仅凭市场价格信号完成，必须依靠[[Developmental Network State|发展型网络国家]]在关键时点协调行业投资时序并提供公共技术基础设施托底。[[Argument_Block_2008_PS|(Block, 2008, pp. 172–174, 188–189, 195)]]
+> **整条供应链对等协调与公共基础设施托底** 弗雷德·布洛克（Fred Block）指出，自由市场理论[[Hypothesis|假设]]通用目的技术（GPT）会自动无缝扩散至各个经济部门，但历史实践（从早期的运河、铁路、电力到现代的宽带互联网、燃气轮机与纳米技术）证明，重大通用技术的采纳充满严重的跨部门“协调失灵”（coordination problems）。下游行业在缺乏互补性公共基础设施、通用标准和供应链协同的情况下，往往因沉没成本和转型风险而拒绝或延缓采纳。美国商务部国家标准与技术研究院（NIST）下属的[[Advanced Technology Program|先进技术计划]]（Advanced Technology Program, ATP）正是针对这一系统性痛点而设：ATP 重点资助通用目的技术与共性工艺瓶颈，要求企业联合体提供 50% [[Counterpart Funds|对等配套资金]]；其最著名的突破是资助底特律三大汽车巨头（通用、福特、克莱斯勒）及其上游模具与装配供应商组成的“2毫米工程”（2mm Project）联合体，成功将汽车车身冲压件误差控制在 2 毫米以内，扭转了美国汽车业相对于日本的竞争劣势。这表明，通用目的技术的高效扩散无法仅凭市场价格信号完成，必须依靠[[Developmental Network State|发展型网络国家]]在关键时点协调行业投资时序并提供公共技术基础设施托底。[[Argument_Block_2008_PS|(Block, 2008, pp. 172–174, 188–189, 195)]]
 
 ---
 
@@ -289,7 +290,7 @@ updated: 2026-10-12
 > | [[Argument_Freeman_1995_CJE\|Freeman (1995, p. 14)]] | 1980年代巴西与韩国制造业自动化装备与电信基础设施 | 跨国科技与工业统计比较分析 | 机器人、CAD、数控机床与电信指标 | 韩国每百万雇员工业机器人拥有量为 106.0 台（巴西仅 5.2 台）；CAD 为 143.7 台（巴西 42.2 台）；数控机床为 517.6 台（巴西 229.8 台）；微电子产业增速为 21%（巴西 8%）；人均电信设备销售额达 \$77（巴西 \$10） | 官方与工业统计事实 | 实证展现新兴工业化国家采纳与吸收通用微电子技术的悬殊差距对国家工业[[Competitiveness\|竞争力]]的深层影响 |
 > | [[Argument_Logar_2014_Minerva\|Logar et al. (2014, pp. 256–257)]] | 半导体产业联合体（[[Semiconductor Research Corporation\|SRC]]）与能源电力基础设施对比研究 | 嵌入式案例考察、质性访谈（$N=19$）与技术经济特征对比 | 前竞争合作边界广度、终端产品差异化程度、基础设施锁定年限 | 半导体作为 GPT 具有极广前竞争空间与差异化终端；能源电网资产沉淀长达 40 年且电能完全同质，前竞争与商用高度重叠 | 跨部门技术经济特征比较考据 | 实证确立通用目的技术（GPT）与非 GPT 技术在[[University-Industry Collaboration\|产学合作]]边界与研发联合体治理上的结构性分野 |
 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 47–48)]] | 2024年[[National Strategy on Microelectronics Research\|美国国家微电子研究战略]]之国际标准与生态构建规划 | 战略政策分析与跨机构行动框架考据 | GPT国际标准制定组织参与度与研发生态跨度 | 覆盖全美 16 个联邦部门与机构、4 大战略目标与 20 项子目标，重点推进 NIST 芯片研发标准峰会（CHIPS R&D Standards Summit）、小芯片（[[Heterogeneous Integration\|Chiplet]]）互联开放标准与安全测试规范 | 联邦官方战略规划与政策行动事实 | 确立当代国家在通用目的技术竞争中依托国际技术标准锁定全球底层架构的战略路径 |
-| [[Argument_Block_2008_PS\|Block (2008, pp. 188–189)]] | 1990年代美国商务部[[Advanced Technology Program\|先进技术计划]]（ATP）资助底特律汽车车身精度联合体（2mm Project） | 案例考证与政策效应分析 | 跨供应链对等资助比例与冲压公差改善 | ATP 要求企业提供 50% 对等配套资金，成功协调底特律三大车企（通用、福特、克莱斯勒）与数十家模具冲压供应商协同研发，将车身冲压件公差控制在 2 毫米以内（追平日本丰田标准） | 产业案例与政策记录 | 实证表明[[Developmental Network State\|发展型网络国家]]通过对等资助与供应链协调能有效克服通用制造工艺在传统产业中扩散的协调失灵 |
+| [[Argument_Block_2008_PS\|Block (2008, pp. 188–189)]] | 1990年代美国商务部[[Advanced Technology Program\|先进技术计划]]（ATP）资助底特律汽车车身精度联合体（2mm Project） | 案例考证与政策效应分析 | 跨供应链对等资助比例与冲压公差改善 | ATP 要求企业提供 50% [[Counterpart Funds\|对等配套资金]]，成功协调底特律三大车企（通用、福特、克莱斯勒）与数十家模具冲压供应商协同研发，将车身冲压件公差控制在 2 毫米以内（追平日本丰田标准） | 产业案例与政策记录 | 实证表明[[Developmental Network State\|发展型网络国家]]通过对等资助与供应链协调能有效克服通用制造工艺在传统产业中扩散的协调失灵 |
 
 ---
 

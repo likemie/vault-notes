@@ -7,7 +7,7 @@ title: "Argument_Ramming_2025_CorporateSupport"
 argument_key: "Argument_Ramming_2025_CorporateSupport"
 argument_display_title: "Gaining Support Within Companies for Collaboration"
 argument_kind: "book"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Industry Affiliate Program]]"
   - "[[Return on Investment]]"
   - "[[Discourse]]"
+  - "[[Counterpart Funds]]"
   - "[[Corporate R&D Labs]]"
   - "[[Corporate Venture Capital]]"
   - "[[Academic Entrepreneurship]]"
@@ -254,7 +255,7 @@ publisher: "Springer"
 
 在实际管理中，五种资助模式并非互斥，成熟企业多采用混合配置来兼顾长远战略与落地意愿（p. 228）。
 
-> [!interdependence] 中央研发基金与业务部门配套资金的双向绑定机制
+> [!interdependence] 中央研发基金与业务部门[[Counterpart Funds|配套资金]]的双向绑定机制
 > - **中央战略基金注资（提供 50% 预算）** 确保研发课题契合公司跨领域的长期前沿布局，使前瞻性研究不受单一产品线短期指标的狭隘限制。
 > - **业务部门配套出资（配套资金 50%）** 以真金白银的预算共担检验业务团队后续跟进的真实承诺，从立项源头杜绝成果无人认领的断层风险。（p. 228）
 

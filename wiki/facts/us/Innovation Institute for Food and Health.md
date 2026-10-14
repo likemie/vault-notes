@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 2
+fact_related_count: 3
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -21,6 +21,7 @@ tags:
   - region/us
   - level/higher-education
 related_concepts:
+  - "[[Counterpart Funds]]"
   - "[[University-Industry Collaboration]]"
 related_theories: []
 related_methods: []
@@ -31,7 +32,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Innovation Institute for Food and Health
@@ -50,7 +51,7 @@ updated: 2026-10-02
 > - **合作促成** 促成"不寻常的合作"（uncommon collaborations），连接通常不会互动的学科和部门
 > - **商业化支持** 支持新产品和新公司的孵化和成长
 
-> 合作结构包括 Mars 的资金承诺和 UC Davis 的部分配套资金，用于资助从初步研究到商业化的创新项目。截至成立十周年，IIFH 已吸引 21 个额外的技术和投资伙伴（p.321）。
+> 合作结构包括 Mars 的资金承诺和 UC Davis 的部分[[Counterpart Funds|配套资金]]，用于资助从初步研究到商业化的创新项目。截至成立十周年，IIFH 已吸引 21 个额外的技术和投资伙伴（p.321）。
 
 ## 核心产出
 

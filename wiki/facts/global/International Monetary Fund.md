@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 29
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -53,6 +53,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Claudio de Moura Castro]]"
   - "[[Robert Arnove]]"
   - "[[Carlos Alberto Torres]]"
 related_facts:
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # International Monetary Fund
@@ -131,7 +132,7 @@ updated: 2026-10-14
 > - **促成教育服务外包与[[Shadow State|影子国家]]** 宏观财政紧缩摧毁了国家自主保障全民义务教育的能力，迫使政府引入民间资金、推行学校用户自费收费（User Fees），并将基础教学转包给跨国非政府组织，导致公共教育主权被“影子国家”架空。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 111–112)]]
 > - **外债借贷上限引发的教育投资阻断** 当极度贫困国家的外债存量达到 IMF 协定的债务上限时，即便国内存在巨大的基础教育校舍与师资缺口，亦被绝对禁止向[[Multilateral Development Bank|多边开发银行]]借入增量资金，造成长期的[[Human Capital Theory|人力资本]]投资断层。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 475)]]
 
-> [!citation-card] 卡斯特罗论国际货币基金组织的违约黑名单与终极惩罚威慑
+> [!citation-card] [[Claudio de Moura Castro|卡斯特罗]]论国际货币基金组织的违约黑名单与终极惩罚威慑
 > 借款国同样完全无需担心违约问题。这是因为如果一个国家拒不还款，它就会被列入国际货币基金组织的“黑名单”。而处于这一名单之中，是任何国家所能面临的最难堪绝境之一。这意味着该国将彻底无法再从任何地方借到资金——无论是双边官方贷款还是私人商业贷款。或许更为关键的是，各国都极力希望保留将国际货币基金组织与[[World Bank|世界银行]]作为“最后贷款人”的资格；也就是说，如果发生最坏情况，它们仍能获得这两家机构的救命资金。这种严厉的惩罚机制，赋予了多边开发银行近乎完美的零信用坏账保障。克劳迪奥·德·莫拉·卡斯特罗（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, p. 457]]）
 >
 > *They [development banks] do not have to worry about repayment of the loans either. This is because if the country doesn't pay, it is put on the IMF's "black list." And being in this list is one of the most uncomfortable situations a country could be. It means that the country will not be able to borrow money from anywhere else – multilateral, bilateral or private. Perhaps even more important, the countries preserve their ability to have both the IMF and the WB as bankers of last resource... This stiff penalty guarantees that development banks face virtually zero credit risk.*
@@ -196,7 +197,7 @@ updated: 2026-10-14
 >
 > *The supra-national agencies such as the IMF and the World Bank . . . [are] like a kind of economical and political ministries of transitional capital. . .They are the lords of the world or the de facto power in the world. (Frigotto, 1995, p. 82) . . . The dismantling of Education Ministries is, to a large extent, the direct and indirect result of the World Bank and IMF packages . . . reinforces inefficiency, poor quality and inequality in school systems. (Torres)*
 
-> [!citation-card] 卡斯特罗反思对国际金融机构与多边银行的意识形态错位批判
+> [!citation-card] [[Claudio de Moura Castro|卡斯特罗]]反思对国际金融机构与多边银行的意识形态错位批判
 > 针对多边银行（以世界银行和国际货币基金组织为主要目标）的批评日益增多，其中很大一部分带有浓厚的意识形态色彩……我们的核心论点是，大多数批评都用错了靶子。这些机构最触目惊心的短板，在于绝妙的政策构想在微观执行过程中全军覆没。借款国根本无力推行贷款所资助的项目，但银行同样难辞其咎，因为它们严重误判了贷款在本土政治与行政体制下的可执行性。外界批评往往将其描绘成无所不能的新自由主义阴谋策源地，这在很大程度上反映出对这些机构内部运作现实的缺乏了解。克劳迪奥·德·莫拉·卡斯特罗（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 468, 474]]）
 >
 > *There has been mounting criticism levied against the Banks... Much of it is heavily ideological... Our central contention is that most criticism is misdirected. The egregious shortcoming of the banks is the fact that great ideas succumb in the process of implementation. Countries just cannot implement the projects funded by the loan. But the banks are just as guilty, because they misjudged the implementability of the loan... Most of them [critiques] reflect little knowledge of institutions and issues facing the banks.*

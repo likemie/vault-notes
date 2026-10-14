@@ -46,6 +46,7 @@ related_concepts:
   - "[[Apprenticeship]]"
   - "[[Clinical Trial]]"
   - "[[Falsification]]"
+  - "[[Counterpart Funds]]"
   - "[[Heterogeneity]]"
 related_theories:
   - "[[Developmental Network State]]"
@@ -90,7 +91,7 @@ title: "Argument_Block_2008_PS"
 argument_key: "Argument_Block_2008_PS"
 argument_display_title: "Swimming against the current: The rise of a hidden developmental state in the United States"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -440,7 +441,7 @@ issuing_organization: ""
 > - **55% $\to$ 7%** 1975 至 2006 年间财富 500 强企业独立完成全美 R&D 100 获奖前沿创新成果的比例断崖式下跌。
 > - **87.5%** 2006 年全美 88 项 R&D 100 获奖创新成果中直接依赖联邦公共资助或产学研多方协同研发的绝对比例（77/88 项）。(p. 187)
 > - **20%–25%** 联邦各部门支出在全美早期技术开发（ESTD / 死亡之谷）总支出中的占比；相比之下风险投资仅占 2.3%–8%。
-> - **1:10** NSF [[University-Industry Collaboration|产学合作]]中心（IUCRC & [[Engineering Research Centers|ERC]]）中联邦种子资金与私营企业跟投配套资金的杠杆比率。(p. 189)
+> - **1:10** NSF [[University-Industry Collaboration|产学合作]]中心（IUCRC & [[Engineering Research Centers|ERC]]）中联邦种子资金与私营企业跟投[[Counterpart Funds|配套资金]]的杠杆比率。(p. 189)
 > - **$35m vs $500m** NIH 研发抗癌药紫杉醇（Taxol）获得的商业专利版税总额与联邦医保 Medicare 单独为该药报销的支出对比。(p. 196)
 
 ---

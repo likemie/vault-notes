@@ -9,25 +9,34 @@ aliases:
 summary: "指美国参众两院议员在联邦预算法案中利用立法特权直接塞入、定向划拨给本选区特定大学或产学中心的科研资助；该机制彻底绕开了同行评议程序，既引发学术界关于科研政治分肥、资源错配与择优公信力受损的严厉批评，又在保守派意识形态打压显性产业政策的背景下充当了向地方输送研发资本、建立产学协同中心的隐蔽制度通道。"
 type: concept
 domain: "science-policy"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/science-policy
   - level/higher-education
   - higher-education-finance
   - governance/peer-review
 related_concepts:
+  - "[[Market Fundamentalism]]"
   - "[[Research Universities]]"
+  - "[[Valley of Death]]"
   - "[[Competitiveness]]"
   - "[[Center of Calculation]]"
+  - "[[University-Based Research Center]]"
+  - "[[Matthew Effect in Academia]]"
+  - "[[University-Industry Collaboration]]"
   - "[[Variable]]"
+  - "[[Document]]"
+  - "[[Counterpart Funds]]"
   - "[[Academic Risk Aversion]]"
   - "[[Evaluation Research]]"
   - "[[Academic Start-up Packages]]"
+  - "[[Grandes Ecoles]]"
 related_theories:
   - "[[Developmental Network State]]"
+  - "[[Historical Institutionalism]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
@@ -39,6 +48,8 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
   - "[[Advanced Technology Program]]"
+  - "[[Department of Energy]]"
+  - "[[American Association for the Advancement of Science]]"
   - "[[Industry-University Cooperative Research Centers]]"
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
@@ -46,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Congressional Earmarks
@@ -187,7 +198,7 @@ updated: 2026-10-12
 > - **地方大学硬件大楼与财政包袱陷阱**
 >   多所中西部地方高校通过游说参议员在联邦预算法案中列入数千万美元专项拨款兴建了高规格前沿生物学实验大楼。然而大楼建成后，由于学校缺乏具有[[Competitiveness|国家竞争力]]的学术带头人与研究生梯队，难以在 NSF 或 [[National Institutes of Health|NIH]] 申请到持续的科研课题经费，导致精密仪器闲置，专项大楼反而演变为耗费学校经常性维持经费的沉重财政负担。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 44)]]
 > - **国会专项资助的微观靶向[[University-Industry Collaboration|产学合作]]中心**
->   国会议员通过专项拨款在地方大学仿照 NSF IUCRC 模式设立专用制造工程与新材料研究中心。这些中心由联邦专项资金提供初始启动款与基础实验仪器，紧扣当地制造企业的共性技术瓶颈开展联合研发，吸引了本地企业后续投入数倍的横向配套资金，成功将大学科研力量与地方工业基础连接起来。[[Argument_Block_2008_PS|(Block, 2008, p. 189)]]
+>   国会议员通过专项拨款在地方大学仿照 NSF IUCRC 模式设立专用制造工程与新材料研究中心。这些中心由联邦专项资金提供初始启动款与基础实验仪器，紧扣当地制造企业的共性技术瓶颈开展联合研发，吸引了本地企业后续投入数倍的横向[[Counterpart Funds|配套资金]]，成功将大学科研力量与地方工业基础连接起来。[[Argument_Block_2008_PS|(Block, 2008, p. 189)]]
 
 ---
 

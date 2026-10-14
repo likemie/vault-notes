@@ -12,7 +12,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Non-dilutive Funding]]"
   - "[[Valley of Death]]"
+  - "[[Counterpart Funds]]"
   - "[[Technology Readiness Level]]"
   - "[[Research Translation]]"
   - "[[Patient Capital]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # AFVentures
@@ -57,7 +58,7 @@ updated: 2026-10-10
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> 空军商业投资计划的核心干预假说在于：单纯依靠政府研发赠款无法支撑硬科技企业完成产品工程化与产能爬坡；通过引入私营风险投资机构的尽职调查能力与市场敏感度，并以政府[[Non-dilutive Funding|非稀释性资助]]提供对等资金匹配（1:1 或 2:1 配比），能够有效分担早期硬件投资风险，引导商业资本投向国家战略急需的硬科技前沿。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 46)]]
+> 空军商业投资计划的核心干预假说在于：单纯依靠政府研发赠款无法支撑硬科技企业完成产品工程化与产能爬坡；通过引入私营风险投资机构的尽职调查能力与市场敏感度，并以政府[[Non-dilutive Funding|非稀释性资助]]提供[[Counterpart Funds|对等资金]]匹配（1:1 或 2:1 配比），能够有效分担早期硬件投资风险，引导商业资本投向国家战略急需的硬科技前沿。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 46)]]
 
 > [!policy-design]- 方案设计
 > - **项目目标** 缩短颠覆性商业技术进入国防装备采办清单的转化周期，撬动社会资本共同孵化国家安全关键供应链企业。
@@ -86,7 +87,7 @@ updated: 2026-10-10
 > [!actor-grid] 实施协同矩阵
 > - **发起与统筹方** 美国空军部、AFWERX 与空军研究实验室（AFRL）负责政策制定、预算把关与跨军种采购协同。
 > - **私营资本合作方** 硅谷与全美顶尖深科技风险投资机构、产业战略投资基金（包括 In-Q-Tel 等），负责商业尽职调查与市场化领投。
-> - **国防需求对接方** 空军作战司令部、物资司令部及各机型装备采办项目主管（PEO），负责明确军用指标并提供政府过渡配套资金。
+> - **国防需求对接方** 空军作战司令部、物资司令部及各机型装备采办项目主管（PEO），负责明确军用指标并提供政府过渡[[Counterpart Funds|配套资金]]。
 > - **受资助小微企业** 开展先进微电子、高频射频元器件与耐高温材料等前沿研发的双用途硬科技初创企业。
 
 > [!pathways]- 实施路径与管理

@@ -8,7 +8,7 @@ aliases:
 summary: "政府部门、产业企业与研究型大学联合资助并协同执行科研攻关的多边制度化合作机制。不同于传统双边产学合作，其将公共部门作为共同出资与战略决策主体深度嵌入；实践中依托治理权衡、竞合理论、技术路线图与知识产权非独占共享四大支柱化解企业间协同壁垒，历经企业战略倡议、行业前竞争联盟到国家法定创新中心的三代制度演进。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Technology Readiness Level]]"
   - "[[Variable]]"
   - "[[Academic Engagement Team]]"
+  - "[[Counterpart Funds]]"
   - "[[Reliability]]"
   - "[[Research Translation]]"
   - "[[Other Transaction Authority]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-04
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Public-Private Partnership in Research
@@ -251,7 +252,7 @@ updated: 2026-10-10
 > | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | 美国联邦跨部门微电子公私合作研发联盟矩阵（NSTC、NAPMP、Microelectronics Commons、[[Manufacturing USA]]、SRC [[Joint University Microelectronics Program 2.0\|JUMP 2.0]]） | 跨部门国家科技战略规划与生态协同机制设计 | 创新中心协同（Goal 4.1）、[[Industrial Advisory Committee\|IAC]] 咨询机制（4.2）、共性路线图与重大挑战（4.3）、产学研人员双向流动（4.4） | 统筹国家级、国防与大学级 PPP 创新网络；建立大学教师企业学术休假与产业导师机制；联动 [[SBIR and STTR Programs\|SBIR]]/STTR 与战略风投跨越[[Valley of Death\|死亡之谷]] | 国家战略规划与制度设计 | 适用于关键战略产业中跨部门多层级公私合作生态的顶层治理与转化协同 |
 > | [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025)]] | 高科技企业参与半导体跨界协同（[[Universal Parallel Computing Research Centers\|UPCRC]]、[[Semiconductor Research Corporation\|SRC]] 与 [[National Semiconductor Technology Center\|NSTC]] 等多代跨度案例） | 产业历时实务反思与战略决策框架构建 | [[Academic Engagement Team\|AET]] 四维决策支柱、公私合作序列放大效应、三代协同演进模型 | 企业投入 2000 万美元先行设立 UPCRC 随后触发 [[National Science Foundation\|NSF]] XPS 计划接力放大；NSTC 统筹 110 亿美元国家级产学研研发平台 | 产业实务经验归纳与历史案例剖析 | 适用于高技术研发密集型产业的跨部门联合攻关与国家重大科技专项治理 |
 > | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | 美国《[[CHIPS and Science Act\|芯片法案]]》国家半导体技术中心（[[National Science and Technology Council\|NSTC]]）法定公私合作运营模式 | 战略白皮书与政策设计规范 | 治理机构形态、多渠道收入流、全美中试基线设施与云端接入网关 | 设立独立非营利运营商 [[Natcast]]；规划 300mm 尖端中试设施与云端 DEG；依托会员费、设施收费与联合研发实现长远自负盈亏 | 联邦战略规划与机制设计 | 适用于国家法定战略级科技中试基础设施与公私合作治理 |
-> | [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] | 美国半导体研究公司（SRC）产学公私合作联合体（1982–2012）历程 | 档案调阅、历史[[Document\|文献]]计量与机构审计数据分析 | 累计研发投入、高阶工程人才培养数、联邦公共资金匹配率 | 累计资助研发投入超过 **25 亿美元**；累计培养输送 **9,200+ 名**微电子硕博人才；联邦对等资金占高校资助预算比例从 1997 年的约 8% 攀升至 2010 年的 **70% 以上** | 描述性统计与机构面板数据 | 证实行业前竞争 PPP 能够高效放大公共财政杠杆并支撑国家基础工程人才库 |
+> | [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] | 美国半导体研究公司（SRC）产学公私合作联合体（1982–2012）历程 | 档案调阅、历史[[Document\|文献]]计量与机构审计数据分析 | 累计研发投入、高阶工程人才培养数、联邦公共资金匹配率 | 累计资助研发投入超过 **25 亿美元**；累计培养输送 **9,200+ 名**微电子硕博人才；联邦[[Counterpart Funds\|对等资金]]占高校资助预算比例从 1997 年的约 8% 攀升至 2010 年的 **70% 以上** | 描述性统计与机构面板数据 | 证实行业前竞争 PPP 能够高效放大公共财政杠杆并支撑国家基础工程人才库 |
 > | [[Argument_Grindley_1994_JPAM\|Grindley et al. (1994)]] | 美国 [[Sematech]] 研发联盟与 [[DARPA]] 公私合作（1987–1992） | [[In-depth Interview\|深度访谈]]（25+ 场）与工程合同审计分析 | 联邦资金匹配规模、上游设备供应链项目比重、在役设备[[Reliability\|可靠性]] | 联邦 DARPA 年均匹配 **1 亿美元**（占总预算 50%）；将 **50% 预算** 投向上游供应链企业纵向协同，带动本土设备全球份额从 41% 反弹至 **51%** | 描述性统计与行业追踪数据 | 证明公私合作从横向工艺开发转向纵向用户—供应商协同的制度演进成效 |
 
 ---

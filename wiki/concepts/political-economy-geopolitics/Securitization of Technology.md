@@ -8,7 +8,7 @@ aliases:
 summary: "指主权国家在地缘政治博弈加剧背景下，将半导体、人工智能等战略性关键技术、基础科研与产业链控制力上升为关乎国家生存与主权安全的核心议程；通过出口管制、投资审查、定向产业立法与有组织科研动员，将大学等创新主体深度嵌入国家安全体系。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Heterogeneous Integration]]"
   - "[[Innovation Ecosystem]]"
   - "[[Document]]"
+  - "[[Counterpart Funds]]"
   - "[[Technology-Oriented Social Contract]]"
   - "[[Focused Research Organization]]"
 related_theories:
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Securitization of Technology
@@ -271,7 +272,7 @@ updated: 2026-10-10
 > | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | 白宫跨部门微电子研究国家战略（2024） | 全政府战略规划与[[Hardware Security\|硬件安全]]技术路线图分析 | 硬件安全支柱定位、全生命周期溯源覆盖率、跨部门微电子领导力（[[Subcommittee on Microelectronics Leadership\|SML]]）协同度 | 将硬件安全确立为四大国家目标之一（Goal 4）；设立零信任架构、芯片防伪度量衡与侧信道防护标准；统筹 DoD/[[Department of Energy\|DOE]]/NIST/[[National Science Foundation\|NSF]] 跨部门资源 | 揭示技术安全化从外生出口管制向底层微电子硬件根信任与全栈技术主权的纵深演进 |
 > | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | 美国半导体产业生态与大学微电子工程项目（2020–2026） | 政策[[Documentary Analysis\|文献分析]]与制度演化多案例追踪 | 制造产能全球份额变迁、劳动力缺口、法案科研预算与多校联盟规模 | ① 全球晶圆制造产能份额由 1990 年的 37% 跌至 2022 年约 10%；② 至 2030 年面临 6.7 万名专业技术岗位缺口与全美 140 万技术工人宏观短缺；③ 《[[CHIPS and Science Act\|芯片法案]]》规划 2000 亿美元研发预算；④ [[Joint University Microelectronics Program 2.0\|JUMP 2.0]] 计划统筹 14 所顶尖高校攻关微电子异构集成 | 揭示技术安全化驱动下美国对大学工程人才培养、开源标准锁定与跨校协同网络的战略动员及其伴生的安全审查张力 |
 > | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] | 1945—2025 年美国科技政策史与 2025 年起科研治理实践 | 宏观制度分析与政策文本[[Audit Trail\|审计追踪]] | 联邦研发预算调整方式（扣留拨款）、科研动员核心主体、组织分化格局 | ① 传统大学从战略动员轴心地位显著边缘化；② 气候变化与公共卫生等大学优势领域经费被冻结削减；③ 国家实验室与企业崛起，科研体系分化为三轨格局 | 证实技术导向型契约对二战后大学宪章地位的深层冲击与科研生态重构 |
-> | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024)]] | 欧盟微电子与通信技术重大项目（[[Important Projects of Common European Interest\|IPCEI ME/CT]]） | 超国家产业政策计量与比较分析 | 多国多边协同网络规模、公共与私人配套补贴规模 | 动员 14 个成员国、56 家企业与 30 余所大学，组建 180 项技术攻关合作，撬动 81 亿欧元公共补贴与 137 亿欧元配套资金 | 揭示超国家多边联盟在应对地缘科技竞争时的战略网络形态与跨国人才虹吸效应 |
+> | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024)]] | 欧盟微电子与通信技术重大项目（[[Important Projects of Common European Interest\|IPCEI ME/CT]]） | 超国家产业政策计量与比较分析 | 多国多边协同网络规模、公共与私人配套补贴规模 | 动员 14 个成员国、56 家企业与 30 余所大学，组建 180 项技术攻关合作，撬动 81 亿欧元公共补贴与 137 亿欧元[[Counterpart Funds\|配套资金]] | 揭示超国家多边联盟在应对地缘科技竞争时的战略网络形态与跨国人才虹吸效应 |
 
 ---
 

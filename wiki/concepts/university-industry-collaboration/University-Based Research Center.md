@@ -8,7 +8,7 @@ aliases:
 summary: "产学联盟四种组织模式中介于企业联盟计划和创新中心之间的形态，大学先选定研究方向后产业基于对齐度加入，由政府与产业双重资助，产业成员获得前景知识产权的优先谈判权"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Pre-negotiated IP Rights]]"
   - "[[Technology Transfer Office]]"
   - "[[Hard Power]]"
+  - "[[Counterpart Funds]]"
   - "[[Master Agreement]]"
   - "[[Foreground IP]]"
   - "[[Disciplina and Doctrina]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # University-Based Research Center
@@ -115,7 +116,7 @@ updated: 2026-10-07
 
 > [!feature] 核心要素
 > - **大学主导的议程设置与产业对齐** 大学先期设定核心攻关领域与战略技术路线，产业成员扮演评估者而非共同设计者角色，通过判断自身业务与大学技术方向的契合度决定是否出资加入。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, p. 111)]]
-> - **政府引导与多元资金杠杆放大** 依靠联邦或地方政府的[[Seed Funding|种子资助]]作为公信力背书与启动杠杆，要求产业界会员费及大学、州政府提供配套资金（在典型 [[Engineering Research Centers|NSF ERC]] 中，政府种子资金约占 30%，非联邦资金占 70%）。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 369)]]; [[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 111–112)]]
+> - **政府引导与多元资金杠杆放大** 依靠联邦或地方政府的[[Seed Funding|种子资助]]作为公信力背书与启动杠杆，要求产业界会员费及大学、州政府提供[[Counterpart Funds|配套资金]]（在典型 [[Engineering Research Centers|NSF ERC]] 中，政府种子资金约占 30%，非联邦资金占 70%）。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 369)]]; [[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 111–112)]]
 > - **跨学科、跨机构多校协同架构** 打破单一工程或自然科学学科边界，汇聚机械、化工、微电子、材料及计算机等复合团队；高阶中心往往跨越单一高校，形成通过[[Master Agreement|主协议]]维系的多校联合攻关体。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 367)]]; [[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 112–113)]]
 > - **双重聘任与矩阵式人事安排** 中心科研骨干强制保留学科院系的正式编制（Tenure-track），既维系中心研究与本科/研究生教学的活水源头，也杜绝了中心演化为与大学隔离的脱节官僚。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 373–374)]]
 > - **知识产权[[Pre-negotiated IP Rights|优先谈判权]]与差异化开放安排** 产业出资会员通常享有[[Foreground IP|前景知识产权]]（Foreground IP）的优先受让/独占谈判权；而在软件与信息领域，中心亦常采取协同开源策略以促进技术标准扩散。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, p. 112)]]

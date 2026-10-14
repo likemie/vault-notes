@@ -12,7 +12,7 @@ aliases:
 summary: "教育研究利用领域的全系统构念，指研究知识通过沟通传播、能力建设、伙伴关系与系统化方法进入政策与实践的社会交互与多方共创过程，旨在克服证据供需脱节与双向能力赤字。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 66
+related_count: 67
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -61,6 +61,7 @@ related_concepts:
   - "[[Engineered Evidence]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Visible Learning]]"
+  - "[[Counterpart Funds]]"
   - "[[Variable]]"
   - "[[Blue Skies Research]]"
   - "[[Heterogeneity]]"
@@ -98,7 +99,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-21"
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Knowledge Mobilisation
@@ -389,7 +390,7 @@ updated: 2026-10-09
 > - **2021 — 欧洲非处方化[[Knowledge Mediation\|知识中介]]网络** [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] 总结欧盟教育政策，展示跨国中介机构如何以非强制性方式促进知识共享与评价文化建设。
 > - **2022 — 跨国政策调查与[[Evidence Ecosystem\|证据生态系统]]治理** [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] 基于 [[OECD]] 覆盖 29 国 37 个教育系统的政策调查，构建涵盖结构、关系、质量、文化与能力的五维动员框架，揭示学术考核体制与[[Knowledge Co-production\|知识共创]]的深层制度断裂。
 > - **2022 — 跨领域动员模型类型学与下一代生态路径** [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 系统比照卫生、公共治理与教育领域主流知识动员模型（Lavis, Graham, Levin, Gough），提炼出构件交互由孤立管道向双层嵌套生态演进、行动者由一维标签向多维功能复合体演进的双重轨迹；批评既有模型普遍缺失终极目标的缺陷，确立了以学生和教师专业学习为崇高目标基准的下一代生态建构路径。
-> - **2025 — 产学研协同动员的多重机制** [[Argument_Dean_2025_UICollaborationSupport\|Dean et al. (2025)]] 基于滑铁卢大学 [[Schlegel-UW Research Institute for Aging\|RIA]] 案例，证明共同选址、配套资金与联合研发是实现实验室知识向社会快速动员的自增强系统。
+> - **2025 — 产学研协同动员的多重机制** [[Argument_Dean_2025_UICollaborationSupport\|Dean et al. (2025)]] 基于滑铁卢大学 [[Schlegel-UW Research Institute for Aging\|RIA]] 案例，证明共同选址、[[Counterpart Funds|配套资金]]与联合研发是实现实验室知识向社会快速动员的自增强系统。
 > - **2026 — 从机械实施转向关系与多维整合** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] 基于 109 项研究综述，正式确立以[[Teacher Professional Agency\|教师能动性]]、信任网络与跨层治理为核心的整合范式。
 
 ---

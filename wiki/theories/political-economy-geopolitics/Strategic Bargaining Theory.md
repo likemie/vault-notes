@@ -12,7 +12,7 @@ aliases:
 summary: "托马斯·谢林奠基的战略博弈与强制议价理论，主张伤害能力即为谈判筹码、战争本质是流动的讨价还价过程，并在大国竞争中延伸为由算法与软件硬实力决定的新型威慑；经帕特南与卡斯特罗扩展至国际政治经济学与超国家治理领域，揭示跨国制度谈判是一场国际技术理性与国内政治可行性之间的双层博弈，主权借款国常将外部苛刻条件策略性转化为化解本土政治阻力的博弈杠杆。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 29
+theory_related_count: 30
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -58,6 +58,7 @@ related_instruments: []
 related_persons:
   - "[[Alfred Nobel]]"
   - "[[Thomas Schelling]]"
+  - "[[Claudio de Moura Castro]]"
 related_facts:
   - "[[World Bank]]"
   - "[[Inter-American Development Bank]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-07
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Strategic Bargaining Theory
@@ -93,7 +94,7 @@ updated: 2026-10-14
 > [!theory-origin] 提出者如何形成理论
 > - **冷战核阴影下的博弈论革命** [[Alfred Nobel|诺贝尔]]经济学奖得主[[Thomas Schelling|托马斯·谢林]]（Thomas Schelling）将经典零和数学博弈拓展为包含共同利益与冲突的混合动机博弈（Mixed-motive Games），在 1960 年《冲突的战略》与 1966 年《武器与影响》中系统确立了“伤害能力即谈判筹码”以及从防御性拒止转向强制性惩罚的战略议价框架。
 > - **双层博弈理论在国际政治经济学中的奠基** 罗伯特·帕特南（Robert Putnam, 1988）在《Diplomacy and Domestic Politics: The Logic of Two-Level Games》中提出，国际谈判必须同时在两个棋盘上开展：第一层（Level I）是跨国谈判者之间的国际讨价还价，第二层（Level II）是各国谈判代表在国内面对各政治派系与利益集团的批准博弈。
-> - **多边发展援助与主权借贷谈判中的微观解构** 克劳迪奥·德·莫拉·卡斯特罗（Castro, 2009）结合其在[[World Bank|世界银行]]与[[Inter-American Development Bank|泛美开发银行]]的一手高阶实务经验，将战略博弈与双层博弈理论系统引入多边教育贷款分析，揭示出“经济理性 vs 政治可行性”的动态妥协机制。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 464–466)]]
+> - **多边发展援助与主权借贷谈判中的微观解构** [[Claudio de Moura Castro|克劳迪奥·德·莫拉·卡斯特罗]]（Castro, 2009）结合其在[[World Bank|世界银行]]与[[Inter-American Development Bank|泛美开发银行]]的一手高阶实务经验，将战略博弈与双层博弈理论系统引入多边教育贷款分析，揭示出“经济理性 vs 政治可行性”的动态妥协机制。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 464–466)]]
 
 ### 后续修订与扩展
 

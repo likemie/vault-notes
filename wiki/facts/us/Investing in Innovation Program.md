@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Evidence-Based Reform]]"
+  - "[[Counterpart Funds]]"
   - "[[Counterfactual]]"
   - "[[Paradigm]]"
   - "[[Academic Achievement]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # Investing in Innovation Program
@@ -79,7 +80,7 @@ updated: 2026-10-03
 
 > [!program-context] 项目背景
 > - **立项周期** 2009–2016 年（共执行 7 轮竞争性拨款评审；2015 年《[[Every Student Succeeds Act\|每一个学生成功法]]》ESSA 颁布后，于 2017 年正式转型升级为[[Education Innovation and Research\|教育创新与研究项目]]（Education Innovation and Research, EIR））。
-> - **发起方与资助机制** 由美国教育部主导，联合民间慈善资本实施公私配比拨款（公私研发伙伴关系）。受资助机构必须从私营部门筹集相当于联邦拨款一定比例（通常为 10%–20%）的配套资金。至 2016 年收官时，累计资助 171 个项目，联邦总支出逾 **14 亿美元**。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 23–24)]]
+> - **发起方与资助机制** 由美国教育部主导，联合民间慈善资本实施公私配比拨款（公私研发伙伴关系）。受资助机构必须从私营部门筹集相当于联邦拨款一定比例（通常为 10%–20%）的[[Counterpart Funds|配套资金]]。至 2016 年收官时，累计资助 171 个项目，联邦总支出逾 **14 亿美元**。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 23–24)]]
 > - **覆盖范围与对象** 面向全美学区、高校及教育非营利组织，重点惠及处境不利群体集中的薄弱学校及高贫困学区。
 > - **核心问题导向** 破除长期以来联邦教育经费分配凭经验直觉、意识形态潮流或商业公关游说的粗放模式，力图建立由[[Counterfactual\|反事实]]因果证据（特别是 [[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT））驱动的理性公共资源配置[[Paradigm\|范式]]。
 

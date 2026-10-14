@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Total War]]"
   - "[[Electronic Design Automation]]"
   - "[[Application Engineering]]"
+  - "[[Counterpart Funds]]"
   - "[[Research Translation]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Engineering Education]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # NSF Regional Innovation Engines
@@ -130,7 +131,7 @@ updated: 2026-10-10
 > - **发起与资助方（[[National Science Foundation|NSF TIP]] 署）** 负责[[Total War|总体战]]略设计、公开评审组织、里程碑绩效追踪与跨联邦机构（如商务部 [[Electronic Design Automation|EDA]]、能源部）政策协调。
 > - **核心牵头机构（[[Research Universities|研究型大学]]与科研院所）** 提供前沿跨学科科研底座、设立跨院系“半导体专班”打破学科壁垒、开放共享洁净室中试验证，并培养高阶博士与卓越工程本科生。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–24)]]
 > - **技术教育与技能枢纽（社区学院与技职院校）** 与企业共同开发模块化微证书、[[Apprenticeship|注册学徒制]]课程与洁净室操作实训，直接负责一线技术工人与[[Application Engineering|应用工程]]师的大规模技能输送。
-> - **产业界与用人单位（从龙头 OEM 到中小型供应商）** 提供工业场景验证、商业化配套资金、技术导师及学徒制岗位。
+> - **产业界与用人单位（从龙头 OEM 到中小型供应商）** 提供工业场景验证、商业化[[Counterpart Funds|配套资金]]、技术导师及学徒制岗位。
 
 > [!pathways]- 实施路径与管理
 > - **纵向传导与支持** NSF 通过设立专门的项目总监（Engine Program Directors）深度介入引擎治理，提供成果转化与跨区域资源对接支持。
@@ -142,7 +143,7 @@ updated: 2026-10-10
 ## 成效评估与实证发现
 
 > [!indicators]- 评估指标体系
-> - **投入指标** 联邦拨付到位资金、区域地方政府与产业界配套资金撬动杠杆比率。
+> - **投入指标** 联邦拨付到位资金、区域地方政府与产业界[[Counterpart Funds|配套资金]]撬动杠杆比率。
 > - **过程指标** 跨机构联合攻关项目数、产学研共建实验室数、学徒工与技能培训学员结业留存率。
 > - **产出与经济结果指标** 区域新增高质量就业岗位数、初创企业孵化与外部风投吸纳量、战略技术本土专利转化率及弱势群体参与比例。
 

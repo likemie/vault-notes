@@ -11,7 +11,7 @@ aliases:
 summary: "比较教育政治社会学与依附论视阈下的国家理论，主张外围资本主义国家受制于其在全球资本积累中的从属边缘地位与内部后封建政治结构的双重制约，统治精英结成支配同盟使国家沦为代用国家，从而导致公共教育扩张与民主化进程深陷外生与内生矛盾"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 36
+theory_related_count: 37
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -55,6 +55,7 @@ related_persons:
   - "[[Liliana Esther Olmos]]"
   - "[[Theotonio Dos Santos]]"
   - "[[Adriana Puiggrós]]"
+  - "[[Claudio de Moura Castro]]"
   - "[[Larissa Adler Lomnitz]]"
   - "[[John W. Meyer]]"
 related_facts:
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Conditioned State Theory
@@ -100,7 +101,7 @@ updated: 2026-10-14
 > [!dev-timeline] 理论版本与贡献
 > - **1990 — 依附国家机制深化** Carnoy 与 Torres 推进第三世界国家向受限国家概念的过渡，聚焦转型社会中教育与国家自主性的辩证张力。
 > - **1995 — 公共教育退潮与公民身份重构** Torres 与 [[Adriana Puiggrós]] 剖析新自由主义国家财政撤资对拉美受限国家公共教育职能的侵蚀，指出大众正被剥夺作为政治民主主体的公民身份。
-> - **2000/2009 — 社会政策领域的实证反思与否决边界** 亨特与布朗（Hunter & Browne, 2000）与卡斯特罗（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）对“绝对受限论”提出重要实证修正，指出在教育与社会政策领域，借款国内部政治生存始终压倒外部信贷条件，受限国家保持着实质否决权。
+> - **2000/2009 — 社会政策领域的实证反思与否决边界** 亨特与布朗（Hunter & Browne, 2000）与[[Claudio de Moura Castro|卡斯特罗]]（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）对“绝对受限论”提出重要实证修正，指出在教育与社会政策领域，借款国内部政治生存始终压倒外部信贷条件，受限国家保持着实质否决权。
 > - **2009 — 全球化条件下的跨国化[[Disciplina and Doctrina|规训]]** Olmos 与 Torres 将受限国家理论置于全球化与新自由主义结构调整视阈，揭示国际金融智识复合体对受限国家教育决策主权的外部架空。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–85)]]
 
 ---
@@ -138,7 +139,7 @@ updated: 2026-10-14
 > **应用实例** [[UNESCO|联合国教科文组织]]（UNESCO, 1974）的历史统计显示，拉美在 1960 至 1970 年间的高等教育规模暴增 247.9%，中等教育增长 258.3%，但全区文盲率同期维持恒定未降，形成了精英高等教育跃升与底层文盲失学并存的阶级断层。
 
 > [!theory-proposition] 命题四｜在社会政策领域本土政治生存博弈构成对抗外部结构性[[Disciplina and Doctrina|规训]]的实质否决边界
-> **解释** 经典受限国家理论常将第三世界国家视为被动接受跨国资本与国际金融机构剥削规训的客体；然而亨特与布朗（Hunter & Browne, 2000）以及卡斯特罗（Castro, 2009）的经验研究表明，在教育与社会政策领域，“绝对受限”假说并不成立。主权借款国内部的政治可行性、选举周期与利益集团博弈始终压倒外部技术官僚的信贷条件。当外部结构调整条件严重触及本土政权政治生存或引发难以承受的社会动荡（如工会总罢工）时，借款国拥有实质性的一票否决权，能够迫使多边机构搁置条件或允许项目停摆；外部附加条件唯有被本土改革派主动用作对付国内阻力的“外部挡箭牌”时方能部分生效。这一机制确立了受限国家理论在社会政策维度的实证边界。[[Argument_Castro_2009_MultilateralBanks|(Hunter & Browne, 2000; Castro, 2009, pp. 462–466, 474)]]
+> **解释** 经典受限国家理论常将第三世界国家视为被动接受跨国资本与国际金融机构剥削规训的客体；然而亨特与布朗（Hunter & Browne, 2000）以及[[Claudio de Moura Castro|卡斯特罗]]（Castro, 2009）的经验研究表明，在教育与社会政策领域，“绝对受限”假说并不成立。主权借款国内部的政治可行性、选举周期与利益集团博弈始终压倒外部技术官僚的信贷条件。当外部结构调整条件严重触及本土政权政治生存或引发难以承受的社会动荡（如工会总罢工）时，借款国拥有实质性的一票否决权，能够迫使多边机构搁置条件或允许项目停摆；外部附加条件唯有被本土改革派主动用作对付国内阻力的“外部挡箭牌”时方能部分生效。这一机制确立了受限国家理论在社会政策维度的实证边界。[[Argument_Castro_2009_MultilateralBanks|(Hunter & Browne, 2000; Castro, 2009, pp. 462–466, 474)]]
 >
 > **应用实例** 玻利维亚政府在执行多边银行贷款时，试图强行取消教师工会代扣税并实施硬性能力考核，直接引发教师全国性大规模抗议与流血冲突，迫使国家宣布戒严；最终内阁出于政治生存考量断然向工会妥协，放弃了多边银行的附加条件。又如巴西联邦政府在面对世界银行将中等职业技术教育全盘分流的方案时，因国内教育界抗议而坚决行使否决权，拒绝在全国推行。
 

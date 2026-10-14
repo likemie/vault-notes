@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 37
+fact_related_count: 38
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Pilot Scale Platform]]"
   - "[[Translational Research]]"
+  - "[[Counterpart Funds]]"
   - "[[Valley of Death]]"
   - "[[Electronic Design Automation]]"
   - "[[University Spin-Out]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # National Semiconductor Technology Center
@@ -87,7 +88,7 @@ updated: 2026-10-10
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2022 年 8 月依据美国公法第 117-167 号（《芯片法案》）立法授权设立；旨在应对全球芯片供应链中断危机、地缘科技博弈以及先进逻辑制程制造过度向东亚集中的国家安全风险。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–4)]]
 > - **三大战略目标** 延长美国半导体技术领导力（推进下一代前沿技术与安全硬件）、缩短原型制作时间与成本（降低准入门槛并共享先进制程设备）、构建并维系全美半导体劳动力生态（从技术工人到博士的全谱系人才管线）。[[Argument_NIST_2023_NSTC|(NIST, 2023, p. 5)]]
-> - **法人属性与经费基础** 由联邦专项拨款支持的非营利联合体（Natcast 作为独立运营主体）；经费依托《芯片法案》拨付的研发专项基金，并广泛吸纳产业会员出资与州政府配套资金。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 21–23)]]
+> - **法人属性与经费基础** 由联邦专项拨款支持的非营利联合体（Natcast 作为独立运营主体）；经费依托《芯片法案》拨付的研发专项基金，并广泛吸纳产业会员出资与州政府[[Counterpart Funds|配套资金]]。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 21–23)]]
 > - **核心宗旨与法定职责** 破除半导体技术商业化“[[Valley of Death|死亡之谷]]”，提供中立的共性硬件与工艺原型测试线（Prototyping Facilities）、云端数字化设计与执行网关（Design and Execution Gateway, DEG）、统筹国家微电子前沿科研路线图，并培育全美半导体工程技术劳动力。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 5, 12–20)]]
 
 ---

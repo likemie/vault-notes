@@ -39,6 +39,7 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"
+  - "[[Counterpart Funds]]"
   - "[[Innovation Ecosystem]]"
   - "[[Open-Mindedness]]"
   - "[[Paradigm]]"
@@ -75,7 +76,7 @@ title: "Argument_Grindley_1994_JPAM"
 argument_key: "Argument_Grindley_1994_JPAM"
 argument_display_title: "SEMATECH and collaborative research: Lessons in the design of high-technology consortia"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -341,7 +342,7 @@ issuing_organization: ""
 >   制造用户与设备供应商之间的纵向协同具有天然的利益互补性，能有效化解同业横向联盟中因抢夺市场引发的保密防范与搭便车问题。（pp.751–752）
 > - **采取集中式工程管理与骨干人员借调轮换制（Centralized Management & Assignees Mobility）**
 >   需要建设具备中立测试能力的实体研发基地，并要求成员企业选派资深工程技术人员全职轮换借调。这种人员面对面的工程实践不仅攻坚了先进制程，更是高层次工程人才在岗深造与隐性工艺诀窍（Tacit Knowledge）向母公司回流扩散的核心纽带。（pp.751–753）
-> - **坚持由产业界主导研发议程与对等资金匹配（Industry-Led Agenda & Co-Funding）**
+> - **坚持由产业界主导研发议程与[[Counterpart Funds|对等资金]]匹配（Industry-Led Agenda & Co-Funding）**
 >   政府应充当催化出资人而非具体项目审批管理者，确保技术路线图由产业一线技术人员动态调整，防止行政干预导致项目僵化或沦为政治利益分配。（pp.750–752）
 > - **清醒认识研发联盟的能力边界（Structural Limits of Consortia）**
 >   研发联盟适合在已有产业基础上进行渐进改良与效率提升，但面对技术与资本差距悬殊的重资产行业，单一研发联盟无法替代庞大的商业资本投资与整体产业重构。（pp.749–750）

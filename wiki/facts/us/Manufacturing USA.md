@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Apprenticeship]]"
   - "[[Research Universities]]"
   - "[[Industry Advisory Board]]"
+  - "[[Counterpart Funds]]"
   - "[[Digital Twin in Manufacturing]]"
   - "[[Big Science]]"
   - "[[Innovation Ecosystem]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-10
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Manufacturing USA
@@ -109,7 +110,7 @@ updated: 2026-10-10
 > - **多元会员网络（Multi-Tier Industry Membership）** 涵盖跨国工业巨头、中小微制造企业、高校科研团队及社区学院，按会员层级缴纳会费并享有知识产权优先使用权与中试打样设备使用配额。
 
 > [!pathways]- 研发中试与知识转化运行机制
-> - **对等出资与风险共担（Cost-Sharing Model）** 实行硬性 1:1 匹配规则，联邦每一美元拨款必须撬动至少一美元的产业界会费、实物捐赠或州政府配套资金，确保研发议题紧密锚定真实工业需求。
+> - **对等出资与风险共担（Cost-Sharing Model）** 实行硬性 1:1 匹配规则，联邦每一美元拨款必须撬动至少一美元的产业界会费、实物捐赠或州政府[[Counterpart Funds|配套资金]]，确保研发议题紧密锚定真实工业需求。
 > - **开放共享中试设施与测试床（Shared Pilot Facilities & Testbeds）** 建设工业级先导中试生产线与测试验证平台，允许初创企业和中小制造商以极低边际成本进行工艺参数优化与小批量打样。
 > - **前竞争共性知识产权池（Pre-Competitive IP Licensing）** 研究所产出的前竞争共性技术归联盟共有，会员企业享有非排他性、优惠费率的商业化实施许可，降低专利诉讼壁垒。
 > - **产教融合与制造业劳动力管道** 联合全美社区学院开发微证书与[[Apprenticeship|学徒培训]]课程，将最新中试产线工艺快速转化为产业工人的实操技能。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 31–37)]]

@@ -12,7 +12,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
   - theme/science-communication
   - theme/informal-learning
 related_concepts:
+  - "[[Counterpart Funds]]"
   - "[[Scientific Uncertainty]]"
   - "[[Social License to Operate]]"
   - "[[Public Engagement with Science]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Sciencewise
@@ -61,7 +62,7 @@ updated: 2026-09-22
 ## 运作机制与核心功能
 
 > [!claim] 核心机制
-> 英国科学智慧计划（Sciencewise）通过提供专项配套资金、独立专业协调员网络以及标准化的协商方法论指引，支持政府部门和科研机构针对技术高争议、证据高不确定性的前沿科学议题开展深度公共对话。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 88)]]
+> 英国科学智慧计划（Sciencewise）通过提供专项[[Counterpart Funds|配套资金]]、独立专业协调员网络以及标准化的协商方法论指引，支持政府部门和科研机构针对技术高争议、证据高不确定性的前沿科学议题开展深度公共对话。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 88)]]
 
 > [!proc-steps] 协商式公共对话的标准实施流程
 > 1. **议题界定与伦理框定** 政府业务司局、部委首席科学顾问及顶尖学者联合梳理颠覆性技术可能引发的政策空白与伦理痛点。

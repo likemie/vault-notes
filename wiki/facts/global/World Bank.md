@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 64
+fact_related_count: 76
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -33,29 +33,38 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Shadow State]]"
   - "[[Financial-Intellectual Complex]]"
+  - "[[Counterpart Funds]]"
   - "[[Return on Investment]]"
   - "[[National Innovation System]]"
   - "[[International Education]]"
+  - "[[Washington Consensus]]"
+  - "[[Operationalization]]"
   - "[[Educational Decentralization]]"
+  - "[[Policy Conditionalities]]"
   - "[[Engineering Education]]"
   - "[[Performance Indicators]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge Bank]]"
   - "[[Knowledge Production]]"
+  - "[[Multilateral Development Bank]]"
+  - "[[Pragmatic Paradigm]]"
+  - "[[Going Native]]"
+  - "[[Refined Mastery]]"
   - "[[Document]]"
   - "[[Development Education]]"
   - "[[Causality]]"
   - "[[Paradigm]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Market Fundamentalism]]"
   - "[[Selective Affinity]]"
   - "[[Social Imaginary]]"
   - "[[Soft Power by Hard Facts]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[State Educational Sovereignty]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Evolutionary Economics]]"
+  - "[[Organizational Culture]]"
   - "[[Conditioned State Theory]]"
   - "[[World-Systems Theory]]"
   - "[[Systems of Innovation]]"
@@ -63,6 +72,7 @@ related_methods:
   - "[[Cost-Benefit Analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Difference-in-Differences]]"
+  - "[[Comparative Case Study]]"
   - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
@@ -71,6 +81,7 @@ related_persons:
   - "[[George Psacharopoulos]]"
   - "[[Robert Arnove]]"
   - "[[Chris Freeman]]"
+  - "[[Claudio de Moura Castro]]"
   - "[[Stephen P. Heyneman]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
@@ -84,6 +95,7 @@ related_facts:
   - "[[Global Development Network]]"
   - "[[Systems Approach for Better Education Results]]"
   - "[[Building Evidence in Education]]"
+  - "[[Inter-American Development Bank]]"
   - "[[English Schools Foundation Hong Kong]]"
   - "[[World Development Indicators]]"
   - "[[UNICEF]]"
@@ -95,13 +107,13 @@ related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
+  - "[[Argument_Castro_2009_MultilateralBanks]]"
   - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
-  - "[[Argument_Castro_2009_MultilateralBanks]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # World Bank
@@ -116,7 +128,7 @@ updated: 2026-10-14
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1944 年 7 月布雷顿森林会议倡议成立国际复兴开发银行（IBRD），1945 年正式运作，最初旨在资助战后欧洲重建，冷战时期转入对亚非拉新独立发展中国家的经济与社会基础设施开发贷款。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **总部地点 / 业务辐射** 总部设于美国华盛顿特区，在全球设立 130 余个国别代表处，业务覆盖 189 个成员国，是主导全球南方国家宏观经济与公共部门改革的最高多边信贷实体。
-> - **法人属性与经费基础** 由 189 个成员国政府持股的特许多边金融机构，经费来自国际金融市场发债筹资、成员国认缴股本以及国际开发协会（IDA）由发达捐助国定期补充的软贷款赠款；其金融运作依赖美、英、德、日等发达出资国的 AAA 级信用担保获得最低融资利率，在借款利率基础上加收约 1 个百分点以支付员工薪酬并维持保本，依托国际货币基金组织（IMF）违约黑名单机制确保零坏账，并要求借款国财政部强制按比例匹配对等配套资金（Counterpart Funds）。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–458)]]
+> - **法人属性与经费基础** 由 189 个成员国政府持股的特许多边金融机构，经费来自国际金融市场发债筹资、成员国认缴股本以及国际开发协会（IDA）由发达捐助国定期补充的软贷款赠款；其金融运作依赖美、英、德、日等发达出资国的 AAA 级信用担保获得最低融资利率，在借款利率基础上加收约 1 个百分点以支付员工薪酬并维持保本，依托[[International Monetary Fund|国际货币基金组织]]（IMF）违约黑名单机制确保零坏账，并要求借款国财政部强制按比例匹配[[Counterpart Funds|对等配套资金]]（Counterpart Funds）。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–458)]]
 > - **核心宗旨与法定职责** 消除绝对贫困、促进共享繁荣；在教育领域主张通过[[Human Capital Theory|人力资本]]投资促进经济生产率与个人收入增长，将教育规划与借贷国宏观财政平衡紧密捆绑。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
 ---
@@ -126,7 +138,7 @@ updated: 2026-10-14
 > [!dev-timeline] 组织发展历程
 > - **1944–1968 — 砖瓦基建与[[UNESCO|教科文组织]]早期依附期** 初期旨在资助二战战后欧洲物理基建重建，不涉足教育社会事业；转入全球南方后初期严守“砖瓦与设备”（Brick and Mortar）模式，将教育视作消费性开支排除在主权借贷之外；直至 1962 年向突尼斯发放首笔中等技术教育贷款，并于 1964 年与教科文组织（UNESCO）签署《合作协定》（Co-operative Agreement），依靠 UNESCO 的专业团队物色与评估借贷国教育项目，初步敲开全球南方的教育大门，业务严格限定于校舍建造与实验室器材采购，极少干预借款国内部行政体制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]; [[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 464)]]
 > - **1968–1981 — 麦克纳马拉改革与教育研究帝国奠基期** 罗伯特·麦克纳马拉（Robert McNamara）执掌世行，将教育确立为反贫困的核心生产性支柱；聘请著名教育经济学家[[George Psacharopoulos|乔治·萨卡罗普洛斯]]（George Psacharopoulos）等组建中央研究团队，开创覆盖全球的[[Return on Investment|教育投资回报率]]（RORE）实证计量传统；1980 年 4 月正式发表里程碑式《教育部门政策文件》，单方面终结对教科文组织的依赖，确立完全独立的教育政策研究与借贷体系。[[Argument_Steiner-Khamsi_2024_CE|(Psacharopoulos, 1981; Steiner-Khamsi et al., 2024, pp. 541–542)]]
-> - **1981–1999 — 结构调整贷款、[[Disciplina and Doctrina|规训]]性多边主义与[[National Innovation System|国家创新系统]]滞后** [[International Education|国际教育]]多边主义经历重大转向，战后教科文组织倡导的“有限再分配多边主义”衰落，世界银行主导的“防卫性与规训性多边主义”确立（Mundy, 1998; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 110]]）。世行将[[Washington Consensus|华盛顿共识]]操作化为以循证检验、成本核算、极致量化、效率优先、能力择优、市场竞争、物质激励、取消补贴与私有化为轴心的九大放贷审查准则（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, p. 460]]）；推行结构调整计划，将削减公共开支、用户付费与基础[[Educational Decentralization|教育分权]]作为贷款附加条件。然而在 1980 年代激进强推附加条件的过程中，世行遭遇借款国强烈的本土政治抵制与官僚消极应对，导致多达三分之一的教育借贷项目陷入停摆与低效危机（“赶猫式”失败），迫使世行深刻认识到外部银行无法以蛮力强推深层体制重组（Castro, 2009, pp. 465–466）。同时，世行政策议程呈现剧烈的“教育时尚周期”律动：自 1960 年代积极资助高等教育后，骤然推行长达十余年的高等教育借贷禁令，将资金完全单一倾斜于基础教育，给发展中国家高阶人才培养造成结构性断层（Castro, 2009, pp. 473–474）。[[Robert Arnove|阿诺夫]]（Arnove, 1980, 2009）深刻指出，世行推行的教育革新实质上固化了既有的中心-边缘与国内阶层分层体系（pp. 105–106）。[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman, 1995）进一步从[[Evolutionary Economics|演化经济学]]考察指出，1980 年代世界银行与[[International Monetary Fund|国际货币基金组织]]强推的紧缩与外债偿付方案重创了拉美（如巴西）的[[National Innovation System|国家创新系统]]，迫使政府削减高校科研与[[Engineering Education|工程教育]]投资，导致其与东亚新兴工业化经济体（如韩国）依靠自主研发与教育扩张的高速赶超拉开了致命差距。1997 年联合 [[OECD|经合组织]]与 [[UNESCO|联合国教科文组织]] 发起“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目，将量化指标方法学推广至非成员转型经济体；在 OECD 1996 年发布《以知识为基础的经济》后迅速跟进拥抱[[Knowledge-Based Economy|知识经济]]概念并发布系列专题报告。1999 年世行联合引入《[[Poverty Reduction Strategy Papers|减贫战略文件]]》（PRSPs），将[[Performance Indicators|教育指标]]纳为国家宏观多边信用评级的刚性杠杆。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, p. 542)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–107, 110)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–445)]]
+> - **1981–1999 — 结构调整贷款、[[Disciplina and Doctrina|规训]]性多边主义与[[National Innovation System|国家创新系统]]滞后** [[International Education|国际教育]]多边主义经历重大转向，战后教科文组织倡导的“有限再分配多边主义”衰落，世界银行主导的“防卫性与规训性多边主义”确立（Mundy, 1998; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 110]]）。世行将[[Washington Consensus|华盛顿共识]][[Operationalization|操作化]]为以循证检验、成本核算、极致量化、效率优先、能力择优、市场竞争、物质激励、取消补贴与私有化为轴心的九大放贷审查准则（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, p. 460]]）；推行结构调整计划，将削减公共开支、用户付费与基础[[Educational Decentralization|教育分权]]作为[[Policy Conditionalities|贷款附加条件]]。然而在 1980 年代激进强推附加条件的过程中，世行遭遇借款国强烈的本土政治抵制与官僚消极应对，导致多达三分之一的教育借贷项目陷入停摆与低效危机（“赶猫式”失败），迫使世行深刻认识到外部银行无法以蛮力强推深层体制重组（Castro, 2009, pp. 465–466）。同时，世行政策议程呈现剧烈的“教育时尚周期”律动：自 1960 年代积极资助高等教育后，骤然推行长达十余年的高等教育借贷禁令，将资金完全单一倾斜于基础教育，给发展中国家高阶人才培养造成结构性断层（Castro, 2009, pp. 473–474）。[[Robert Arnove|阿诺夫]]（Arnove, 1980, 2009）深刻指出，世行推行的教育革新实质上固化了既有的中心-边缘与国内阶层分层体系（pp. 105–106）。[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman, 1995）进一步从[[Evolutionary Economics|演化经济学]]考察指出，1980 年代世界银行与[[International Monetary Fund|国际货币基金组织]]强推的紧缩与外债偿付方案重创了拉美（如巴西）的[[National Innovation System|国家创新系统]]，迫使政府削减高校科研与[[Engineering Education|工程教育]]投资，导致其与东亚新兴工业化经济体（如韩国）依靠自主研发与教育扩张的高速赶超拉开了致命差距。1997 年联合 [[OECD|经合组织]]与 [[UNESCO|联合国教科文组织]] 发起“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目，将量化指标方法学推广至非成员转型经济体；在 OECD 1996 年发布《以知识为基础的经济》后迅速跟进拥抱[[Knowledge-Based Economy|知识经济]]概念并发布系列专题报告。1999 年世行联合引入《[[Poverty Reduction Strategy Papers|减贫战略文件]]》（PRSPs），将[[Performance Indicators|教育指标]]纳为国家宏观多边信用评级的刚性杠杆。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, p. 542)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–107, 110)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–445)]]
 > - **1999–至今 — [[Knowledge Bank|知识银行]]转型、[[Shadow State|影子国家]]外包与买方市场危机** 沃尔芬森（James Wolfensohn）主导世行转型为“知识银行”（Knowledge Bank），试图以纯粹知识咨询收费模式取代传统重型资金贷款；然而圈内实务证明该设想严重脱离现实：借贷国之所以重视世行政策建议，根本原因在于其背后捆绑的巨额主权贷款杠杆，若缺乏资金诱惑，纯政策咨询便会重蹈教科文组织的无效覆辙（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 472–473]]）。虽于 1999 年创设[[Global Development Network|全球发展网络]]（GDN）探索本土去中心化[[Knowledge Production|知识生产]]，但迅速被华盛顿总部集权的工具所取代；2011 年推出[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER），联合英美双边援助机构组建[[Building Evidence in Education|构建教育证据联盟]]（BE2），确立自指性政策仓库。在公共服务提供上，世行日益绕过受援国政府直接委托非政府组织提供教育，架空了国家公共权威，使 NGO 蜕变为去政治化的“[[Shadow State|影子国家]]”（Sutton & Arnove, 2004; Kamat, 2004; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 111–112]]）。进入 21 世纪，随着拉美与亚洲中等收入国家主权信用等级提升并可直接在国际私人资本市场低成本融资，世行面临从“卖方市场”向“买方市场”的深刻业务缩水危机，迫使其重构金融工具，推出基于成果的框架贷款（PforR）与分步递进式信贷以降低借贷国官僚合规交易成本（Castro, 2009, pp. 475–476）。[[Argument_Steiner-Khamsi_2024_CE|(Stone, 2000; Steiner-Khamsi et al., 2024, pp. 543, 545, 548)]]
 
 ---
@@ -141,12 +153,12 @@ updated: 2026-10-14
 
 世界银行在组织官僚文化上呈现出与区域开发银行截然不同的智识特征与政策推行风格：
 
-> [!contrast-table] 世界银行与区域多边开发银行（以泛美开发银行为例）组织文化与放贷模式对比
+> [!contrast-table] 世界银行与区域[[Multilateral Development Bank|多边开发银行]]（以[[Inter-American Development Bank|泛美开发银行]]为例）[[Organizational Culture|组织文化]]与放贷模式对比
 > | 比较维度 | 世界银行（World Bank） | 区域开发银行（以[[Inter-American Development Bank\|泛美开发银行]]为例） |
 > |:---|:---|:---|
-> | **人员构成与智识底色** | 普遍具有英美顶尖大学经济学博士学位，理论训练精深，高度崇奉主流微观计量与经济学范式。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 459–460)]] | 多元吸收本土实务经济学家与行业工程师，更具政策实用主义与在地文化嵌入性。 |
-> | **政策方案设计风格** | 擅长撰写高屋建瓴、逻辑严密的“优雅方案（Elegant Solutions）”，但易脱离借款国微观官僚与政治实际。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 464–465)]] | 方案设计相对粗线条与本土化，强调与借款国既有制度脉络的无缝贴合。 |
-> | **借贷谈判行为取向** | 谈判姿态往往偏向指令性（Prescriptive），倾向于将华盛顿总部的统一处方强加于借贷国。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, p. 465)]] | 谈判姿态更具协商性，官员精通在地语言并与借款国教育部保持非正式紧密互动。 |
+> | **人员构成与智识底色** | 普遍具有英美顶尖大学经济学博士学位，理论训练精深，高度崇奉主流微观计量与经济学范式。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 459–460)]] | 多元吸收本土实务经济学家与行业工程师，更具政策[[Pragmatic Paradigm\|实用主义]]与在地文化嵌入性。 |
+> | **政策方案设计风格** | 擅长撰写高屋建瓴、逻辑严密的“优雅方案（Elegant Solutions）”，但易脱离借款国微观官僚与政治实际。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 464–465)]] | 方案设计相对粗线条与[[Going Native\|本土化]]，强调与借款国既有制度脉络的无缝贴合。 |
+> | **借贷谈判行为取向** | 谈判姿态往往偏向指令性（Prescriptive），倾向于将华盛顿总部的统一处方强加于借贷国。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, p. 465)]] | 谈判姿态更具协商性，官员[[Refined Mastery\|精通]]在地语言并与借款国教育部保持非正式紧密互动。 |
 > | **改革附加条件力度** | 激进捆绑宏观体制重构条件（人事编制冻结、民营化），易在借款国引发政治僵局与“赶猫”困境。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 465–466)]] | 长期坚守物理基建与技术培训项目，虽较少触碰深层体制病灶，但履约顺利度与拨付率显著更高。 |
 
 > [!pathways]- 业务运行机制
@@ -157,8 +169,8 @@ updated: 2026-10-14
 在实际借贷生命周期中，世界银行在组织学习能力与评估链条上面临深刻的结构性失调：
 
 > [!tension] 项目设计端敏捷学习与执行管理端系统失调的组织分裂（Castro & Verdisco, 2000 实证）
-> - **项目设计端（Project Design）** 每一项新贷款均能系统吸纳过往同类项目的成败经验，迅速将前沿政策理念（如 SABER、培训券）与成功样板融入新文本，表现为高度敏捷的学习型组织。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 471)]]
-> - **项目执行与管理端（Implementation）** 导致项目搁浅的经典痼疾（配套资金短缺、报销审计僵化、领导力真空）在数十年的项目中反复重演，未见任何实质改善，深陷执行泥潭。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 471–472)]]
+> - **项目设计端（Project Design）** 每一项新贷款均能系统吸纳过往同类项目的成败经验，迅速将前沿政策理念（如 [[Systems Approach for Better Education Results|SABER]]、培训券）与成功样板融入新文本，表现为高度敏捷的学习型组织。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 471)]]
+> - **项目执行与管理端（Implementation）** 导致项目搁浅的经典痼疾（[[Counterpart Funds|配套资金]]短缺、报销审计僵化、领导力真空）在数十年的项目中反复重演，未见任何实质改善，深陷执行泥潭。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 471–472)]]
 
 > [!chain-link] 投入合规替代实质成效的制度异化链条（Castro, 2009, pp. 470–471）
 > - **前提：官僚问责锚定于资金拨付** 在多边银行现行考核规则下，资金顺利拨付（Disbursement）是免除尴尬的唯一核心硬指标；只要资金拨付完毕，各方皆大欢喜。
@@ -181,8 +193,8 @@ updated: 2026-10-14
 >
 > *The 1980 Policy Paper does not only reflect the fact that Bank operations are now increasingly based on the results of research, but also that the Bank conducts research of its own and will continue to do so in the future. This is extremely welcome for the Bank has access to a wealth of comparative education material outsiders could not even dream about.*
 
-> [!citation-card] 卡斯特罗论世界银行的主权信用合作社金融机制
-> 从技术上讲，它们根本不是商业银行，更像是仅供成员借款的信用合作社——或者更确切地说，是参与国的主权信用合作社。当世界银行或泛美开发银行在金融市场发行债券时，可以享受到市场上的最低利率。因此，“开发银行”的整个构想只不过是一种市场技巧，允许贫困国家以其自身单打独斗时一半的利率和更长的偿还周期获得贷款。大国的信誉——美国、德国、日本、英国等——赋予了银行 AAA 评级。这种评级使银行能够在全球任何地方以最低利率借款。银行借出的不是富裕国家的钱，而是从金融市场借来的资本；只要在利息中额外增加一个百分点以支付庞大员工的薪水，就能实现收支平衡。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–457)]]
+> [!citation-card] [[Claudio de Moura Castro|卡斯特罗]]论世界银行的主权信用合作社金融机制
+> 从技术上讲，它们根本不是商业银行，更像是仅供成员借款的信用合作社——或者更确切地说，是参与国的主权信用合作社。当世界银行或[[Inter-American Development Bank|泛美开发银行]]在金融市场发行债券时，可以享受到市场上的最低利率。因此，“开发银行”的整个构想只不过是一种市场技巧，允许贫困国家以其自身单打独斗时一半的利率和更长的偿还周期获得贷款。大国的信誉——美国、德国、日本、英国等——赋予了银行 AAA 评级。这种评级使银行能够在全球任何地方以最低利率借款。银行借出的不是富裕国家的钱，而是从金融市场借来的资本；只要在利息中额外增加一个百分点以支付庞大员工的薪水，就能实现收支平衡。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–457)]]
 >
 > *Technically, they are not banks. They are more like credit cooperatives – where only members can borrow. Or, more precisely, credit cooperatives of participating countries... the whole idea of a "development bank" is little more than a market trick to allow poor countries to borrow money at rates that can be as low as half of what they could obtain on their own and with much shorter time to pay back... The credit worthiness of the big countries – the United States, Germany, Japan, the UK, and so on – permit the bank to have a "triple A" rating. This rating allows the bank to borrow at the lowest possible interest rate found anywhere in the world.*
 
@@ -205,9 +217,9 @@ updated: 2026-10-14
 > - **189 个** 截至目前的正式成员国总数。
 > - **15–30 年** 主权开发贷款的典型偿还周期，还款期限远超商业银行。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–457)]]
 > - **1 个百分点** 在国际债券融资成本基础上额外加收的转贷利差，仅用于维系机构日常人员薪资开销以实现保本运营。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 456)]]
-> - **1/3** 1980 年代世界银行激进强推结构调整政策附加条件时期，陷入低效与停摆危机的教育借贷项目组合比例。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 466)]]
+> - **1/3** 1980 年代世界银行激进强推[[Structural Adjustment Programs|结构调整政策]]附加条件时期，陷入低效与停摆危机的教育借贷项目组合比例。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 466)]]
 > - **1,120 项** 教育投资回报率数据库整合的 139 国微观计量估算总数。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 542, 548)]]
-> - **1,600 项** 世界发展指标（WDI）数据库涵盖的宏观指标总数。
+> - **1,600 项** [[World Development Indicators|世界发展指标]]（WDI）数据库涵盖的宏观指标总数。
 
 ---
 
@@ -296,7 +308,7 @@ updated: 2026-10-14
 > | [[Financial-Intellectual Complex]] | 概念 | 批判学者界定世行绑定信贷附加条件与定向[[Knowledge Production\|知识生产]]的跨国垄断机制。 |
 > | [[Conditioned State Theory]] | 理论 | 阐释世行[[Structural Adjustment Programs\|结构调整]]贷款如何作为超国家杠杆剥夺外围借贷国教育自主性。 |
 > | [[World-Systems Theory]] | 理论 | 为解构世界银行跨国资本借贷与中心-边缘规训提供宏观理论视角。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, pp. 104–106)]] |
-> | [[Endogenous and Exogenous Privatisation]] | 概念 | 世行贷款附加条件推动的使用者自费（内生）与民办分权（外生）阶级策略。 |
+> | [[Endogenous and Exogenous Privatisation]] | 概念 | 世行[[Policy Conditionalities\|贷款附加条件]]推动的使用者自费（内生）与民办分权（外生）阶级策略。 |
 > | [[National Innovation System]] | 概念 | 世行结构调整与紧缩政策所严重侵蚀的发展中国家科技与工程自主能力母体。 |
 > | [[Chris Freeman]] | 人物 | [[Evolutionary Economics\|演化经济学]]家；实证对比世行受援国（如巴西）与东亚国家[[Systems of Innovation\|创新系统]]演进分化的代表学者。 |
 

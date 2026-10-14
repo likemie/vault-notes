@@ -23,7 +23,7 @@ title: "Argument_Bulfone_2024_IAI"
 argument_key: "Argument_Bulfone_2024_IAI"
 argument_display_title: "Adjusting to new geopolitical realities: Semiconductors industrial policy in the US and EU (IAI Papers 24 | 13)"
 argument_kind: "report"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[University-Industry Collaboration]]"
   - "[[Big Science]]"
+  - "[[Counterpart Funds]]"
   - "[[Reciprocal Control Mechanism]]"
   - "[[Emergence]]"
 related_methods:
@@ -245,7 +246,7 @@ tags:
 > [!case] 欧盟微电子[[Important Projects of Common European Interest|欧洲共同利益重要项目]]的超国家产学研协作
 > 2023 年 6 月，欧委会正式放行了微电子与通信技术重大项目（IPCEI ME/CT），这是欧洲芯片战略最重要的落地抓手：
 > - **跨国大学与产业深度协同网络** 该项目并非单纯的企业补贴，而是构建了庞大的超国家[[University-Industry Collaboration|产学合作]]与[[Big Science|大科学]]攻关联合体：动员了奥地利、法国、德国、意大利、西班牙等 14 个成员国，不仅覆盖 56 家微电子领军企业实施 68 项联合技术研发，更系统吸纳了全欧 **30 余所大学与公共科研院所（Universities and research organisations）深度嵌入，组建了多达 180 项跨国产学研协同合作（Cross-border collaborations）**，重点攻关能效提升、资源节约型电子系统及微电子新制造方法。
-> - **资金完全来自成员国** 14 个参与国政府从本国国库掏出 81 亿欧元公共补贴，试图吸引 137 亿欧元企业配套资金。
+> - **资金完全来自成员国** 14 个参与国政府从本国国库掏出 81 亿欧元公共补贴，试图吸引 137 亿欧元企业[[Counterpart Funds|配套资金]]。
 > - **欧委会仅充当审批者与协调者** 欧盟委员会自身不出资，只是为各成员国的国家补贴提供反垄断法规豁免，在多国企业与高校院所之间组织会议与搭线撮合，日益退化或转型为产业政策的“[[Orchestrator State|协调型国家]]（Orchestrator）”。（pp.13–14）
 
 > [!critique] 欧盟 33 亿欧元自有资金与单一市场割裂的制度困境

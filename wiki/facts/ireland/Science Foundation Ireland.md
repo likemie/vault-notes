@@ -9,7 +9,7 @@ subtype: organization
 region: ireland
 fact_region: "ireland"
 fact_kind: "organization"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ tags:
   - policy/science-policy
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[Counterpart Funds]]"
   - "[[Competitiveness]]"
   - "[[Research Universities]]"
   - "[[Big Science]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Science Foundation Ireland
@@ -76,7 +77,7 @@ updated: 2026-10-08
 > - **管理理事会（SFI Board）** 由爱尔兰政府任命的知名科学家、高教领袖及产业界高管组成，负责制定战略资助方针与中长期重大预算分配。
 > - **执行总干事与管理团队** 负责机构日常运营、资助项目发布与产学协同合作监督。
 > - **国际同行评审网络** 严格打破本国学术关系圈，全部项目申报均由国际顶尖学者组成的外部同行专家委员会进行独立匿名盲审。
-> - **产业协同监督委员会** 负责监督受资助中心与工业界配套资金（Cash & In-kind）的到位率与转化产出。
+> - **产业协同监督委员会** 负责监督受资助中心与工业界[[Counterpart Funds|配套资金]]（Cash & In-kind）的到位率与转化产出。
 
 > [!pathways]- 业务运行机制
 > - **高额种子资金撬动产业配比** 参照美国 [[Engineering Research Centers|ERC]] 机制，SFI 提供核心启动基金，强制要求大学中心必须从跨国高科技企业处吸引不低于特定比例的现金与实物配套资金。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 369–370)]]
@@ -119,7 +120,7 @@ updated: 2026-10-08
 > > 爱尔兰高教学界曾长期存在争议：部分学者批评 SFI 过于聚焦经济产出与跨国企业直接利益，导致联邦科研资金过度集中于 ICT 和生物医药等应用理工领域，边缘化了传统基础科学与人文社会科学。
 >
 > > [!axis] 跨国科技巨头主导与本土中小企业嵌入度不足
-> > 外部评估指出，SFI 中心的大额工业配套资金主要由在爱尔兰的跨国巨头提供，本土中小型企业（SMEs）由于资金体量有限，在中心的研发议程设置中容易处于被边缘化地位。
+> > 外部评估指出，SFI 中心的大额工业[[Counterpart Funds|配套资金]]主要由在爱尔兰的跨国巨头提供，本土中小型企业（SMEs）由于资金体量有限，在中心的研发议程设置中容易处于被边缘化地位。
 
 ---
 

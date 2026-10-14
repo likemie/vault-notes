@@ -9,7 +9,7 @@ aliases:
 summary: "Schein 提出的组织文化三层次框架（器物、信奉价值观、深层基本假设），揭示了表层可见符号与官方理念如何常与深层防御心理及信任赤字发生结构性断裂，并解释了正式管理文化重构与微观非正式制度之间的解耦与韧性，以及工程实效文化与官僚自保文化对创新荒漠的决定性塑造。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 63
+theory_related_count: 64
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -68,6 +68,7 @@ related_persons:
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
   - "[[Tony Tether]]"
+  - "[[Claudio de Moura Castro]]"
 related_facts:
   - "[[OECD]]"
   - "[[Strengthening the Impact of Education Research Project]]"
@@ -93,7 +94,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-05
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Organizational Culture
@@ -274,7 +275,7 @@ updated: 2026-10-14
 
 > [!dev-timeline] 发展脉络
 > - **1985/1992 — 三层次经典框架奠基** Edgar Schein 发布《Organizational Culture and Leadership》，系统确立[[Artefact|器物]]、信奉价值观与基本潜在[[Hypothesis|假设]]的三层次模型。
-> - **1994/2009 — 国际多边官僚机构的组织文化解剖** 莫伊塞斯·纳伊姆（Naím, 1994）解构[[World Bank|世界银行]]内部的智力傲慢文化；克劳迪奥·德·莫拉·卡斯特罗（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）进一步将其应用于[[Multilateral Development Bank|多边开发银行]]的教育贷款比较，揭示经济学技术官僚精英主义与拉美在地[[Pragmatic Paradigm|实用主义]]文化的制度分殊。
+> - **1994/2009 — 国际多边官僚机构的组织文化解剖** 莫伊塞斯·纳伊姆（Naím, 1994）解构[[World Bank|世界银行]]内部的智力傲慢文化；[[Claudio de Moura Castro|克劳迪奥·德·莫拉·卡斯特罗]]（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）进一步将其应用于[[Multilateral Development Bank|多边开发银行]]的教育贷款比较，揭示经济学技术官僚精英主义与拉美在地[[Pragmatic Paradigm|实用主义]]文化的制度分殊。
 > - **2010 — 前沿科技创新组织中的文化与非正式制度解耦研究** [[Erica Fuchs|埃丽卡·福克斯]]（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）将组织文化与制度主义理论拓展至前沿国家资助机构（[[DARPA]]），实证揭示上层正式采办文化重构与微观非正式治理制度之间的解耦与韧性连续性。
 > - **2010 — 纳入复杂系统第三代[[Knowledge Mobilisation|知识动员]]理论** Best & Holmes 将组织文化与反馈回路确立为理解知识动员从线性传递转向自适应系统的关键支柱。
 > - **2011 — 教育质性与[[Visual Research Methods|视觉研究方法]]论引入** [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]] 将 Schein 三层次模型引入教育研究方法论，系统阐释如何阅读学校物理器物与环境空间背后的组织叙事。
