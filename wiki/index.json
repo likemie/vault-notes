@@ -23780,6 +23780,17 @@
     ]
   },
   {
+    "title": "Diane Elson",
+    "type": "person",
+    "path": "wiki/persons/uk/Diane Elson.md",
+    "aliases": [
+      "戴安·埃尔森",
+      "黛安·埃尔森",
+      "Elson, D.",
+      "Diane R. Elson"
+    ]
+  },
+  {
     "title": "Doreen Massey",
     "type": "person",
     "path": "wiki/persons/uk/Doreen Massey.md",
@@ -29509,6 +29520,17 @@
     ]
   },
   {
+    "title": "Institutional Management in Higher Education",
+    "type": "fact",
+    "path": "wiki/facts/global/Institutional Management in Higher Education.md",
+    "aliases": [
+      "高等教育机构管理计划",
+      "经合组织高等教育机构管理计划",
+      "IMHE",
+      "Programme on Institutional Management in Higher Education"
+    ]
+  },
+  {
     "title": "International Baccalaureate Applied Chemistry Course",
     "type": "fact",
     "path": "wiki/facts/global/International Baccalaureate Applied Chemistry Course.md",
@@ -29654,6 +29676,18 @@
       "国际成人能力评估项目",
       "成人能力国际评估",
       "OECD PIAAC"
+    ]
+  },
+  {
+    "title": "Programme on Educational Building",
+    "type": "fact",
+    "path": "wiki/facts/global/Programme on Educational Building.md",
+    "aliases": [
+      "教育建筑计划",
+      "经合组织教育建筑计划",
+      "PEB",
+      "Centre for Effective Learning Environments",
+      "CELE"
     ]
   },
   {

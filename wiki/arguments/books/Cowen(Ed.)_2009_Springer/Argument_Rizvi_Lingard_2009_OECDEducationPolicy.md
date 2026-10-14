@@ -7,7 +7,7 @@ title: "Argument_Rizvi_Lingard_2009_OECDEducationPolicy"
 argument_key: "Argument_Rizvi_Lingard_2009_OECDEducationPolicy"
 argument_display_title: "The OECD and Global Shifts in Education Policy"
 argument_kind: "book-chapter"
-argument_related_count: 64
+argument_related_count: 67
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -90,6 +90,7 @@ related_persons:
   - "[[Bob Lingard]]"
   - "[[Bengt-Åke Lundvall]]"
   - "[[George Papadopoulos]]"
+  - "[[Diane Elson]]"
   - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[OECD]]"
@@ -99,6 +100,8 @@ related_facts:
   - "[[World Education Indicators]]"
   - "[[Organisation for European Economic Co-operation]]"
   - "[[Centre for Educational Research and Innovation]]"
+  - "[[Programme on Educational Building]]"
+  - "[[Institutional Management in Higher Education]]"
   - "[[Economics of Education Movement]]"
   - "[[Research in Schools Evaluation]]"
 related_arguments: []
@@ -159,7 +162,7 @@ updated: 2026-10-14
 > | **官方史料与制度规范** | 《1960–1990年的教育：经合组织视角》（[[George Papadopoulos\|Papadopoulos]], 1994）、《经合组织公约》（1961）、《年度报告》（1997, 1998）。 | 1960–1990年冷战时期及组织初创阶段的欧洲重建背景。 |
 > | **治理转型与经济纲领** | 《转型中的治理：经合组织国家的公共管理改革》（OECD, 1995）、《知识经济》（OECD, 1996c）、《2030年全球化与联动》（OECD, 1996a）。 | 苏联解体后新自由主义全球化霸权确立与政府职能重塑阶段。 |
 > | **跨国教育监测与评估** | 《教育概览》（OECD, 1997）、《测量学生知识与技能：评估新框架》（OECD, 1999）、《经合组织教育工作2005–2006》（OECD, 2005）。 | PISA测评体系建立、首轮2000年结果发布及独立教育司成立时期。 |
-> | **社会政策与外部网络** | 《经合组织全球关系计划2007–2008》（OECD, 2007）、《性别与经济发展：黛安·埃尔森的研究》（OECD, 2006）、[[World Education Indicators\|世界教育指标]]项目档案。 | 经合组织面向中国、印度等非成员经济体扩张及社会政策工具化时期。 |
+> | **社会政策与外部网络** | 《经合组织全球关系计划2007–2008》（OECD, 2007）、《性别与经济发展：[[Diane Elson\|黛安·埃尔森]]的研究》（OECD, 2006）、[[World Education Indicators\|世界教育指标]]项目档案。 | 经合组织面向中国、印度等非成员经济体扩张及社会政策工具化时期。 |
 
 ---
 
@@ -208,8 +211,8 @@ updated: 2026-10-14
 > [!quad-grid] 1970–1980年代经合组织教育工作的四大组织支柱
 > - **教育委员会** 负责协调各成员国政府的教育政策对话，审议重大政策方向并主导国家层面的自愿教育审查。
 > - **CERI理事会** 侧重跨国前沿教育理论研究与实验性创新，探索非传统教学模式与社会弱势群体的补偿机制。
-> - **教育建筑项目（PEB）** 专门研究学校物理设施、校舍空间规划与教育硬件建设的技术标准与资源分配。
-> - **高等教育机构管理项目（IMHE）** 聚焦大学及高等教育机构的内部治理、资源调配与学术管理制度建设。
+> - **教育建筑项目（[[Programme on Educational Building|PEB]]）** 专门研究学校物理设施、校舍空间规划与教育硬件建设的技术标准与资源分配。
+> - **高等教育机构管理项目（[[Institutional Management in Higher Education|IMHE]]）** 聚焦大学及高等教育机构的内部治理、资源调配与学术管理制度建设。
 
 在四大业务支柱支撑下，经合组织针对各成员国的多元诉求展开了广泛研究，系统覆盖了17–18个核心教育细分领域。（p. 439）
 
@@ -411,7 +414,7 @@ PISA除了测试核心认知能力外，还通过庞大的[[Questionnaire|问卷
 经合组织高度关注女童与妇女教育，并在PISA报告中反复强调女生在阅读上的领先优势以及男生在识字上的落后，但其背后支撑的政策论述却充满了浓厚的功利主义色彩。（p. 449）
 
 > [!case] 经合组织性别平等论述与其现实矛盾
-> - **官方报告的经济主义论据** 经合组织2006年政策报告援引著名女性主义经济学家黛安·埃尔森（Diane Elson）的研究宣称：“对妇女进行投资（包括教育、卫生、计划生育、土地所有权等）不仅能够直接减少贫困，而且能带来更高的生产力和对资源的更有效利用。”（p. 449）
+> - **官方报告的经济主义论据** 经合组织2006年政策报告援引著名女性主义经济学家[[Diane Elson|戴安·埃尔森]]（Diane Elson）的研究宣称：“对妇女进行投资（包括教育、卫生、计划生育、土地所有权等）不仅能够直接减少贫困，而且能带来更高的生产力和对资源的更有效利用。”（p. 449）
 > - **里兹维与林加德的尖锐批判** 作者明确指出，这种纯粹从经济收益角度论证性别平权的观点实际上带有隐蔽的性别偏见（arguably sexist），因为它根本不把女性当作拥有多元社会与文化追求的独立主体，而是将其视作实现宏观经济增长的廉价工具。
 > - **肖尔特对全球劳动力市场的实证揭示** 简·阿特·肖尔特（Jan Aart Scholte, 2000, p. 251）的跨国实证表明，女童接受教育的机会虽然普遍增加，但进入有偿工作后，绝大多数女性被牢牢禁锢在全球信息、通信、零售与金融等低端服务业中。（p. 450）
 > - **弹性劳动对性别等级的固化与加剧** 这些部门充斥着弹性用工（flexible conditions）、无保障合同与狭窄的职业晋升空间，女性虽然形式上获得了劳动准入，但性别从属与剥削结构反而被进一步加深。

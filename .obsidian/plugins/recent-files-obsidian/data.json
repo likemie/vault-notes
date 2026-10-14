@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rizvi_Lingard_2009_OECDEducationPolicy.md"
     },
     {
+      "basename": "Technical Rationality",
+      "path": "wiki/concepts/educational-philosophy/Technical Rationality.md"
+    },
+    {
       "basename": "Argument_Olmos_Torres_2009_StateTheories",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Olmos_Torres_2009_StateTheories.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Peter A. Hall",
       "path": "wiki/persons/us/Peter A. Hall.md"
-    },
-    {
-      "basename": "Historical Institutionalism",
-      "path": "wiki/theories/political-economy-geopolitics/Historical Institutionalism.md"
     }
   ],
   "omittedPaths": [],

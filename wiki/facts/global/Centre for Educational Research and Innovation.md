@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 53
+fact_related_count: 55
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -66,6 +66,8 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[Sputnik Shock 1957]]"
+  - "[[Programme on Educational Building]]"
+  - "[[Institutional Management in Higher Education]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
   - "[[PISA]]"
@@ -89,7 +91,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-11
-updated: 2026-10-13
+updated: 2026-10-14
 ---
 
 # Centre for Educational Research and Innovation
@@ -112,7 +114,7 @@ updated: 2026-10-13
 ## 历史沿革与组织演变
 
 > [!dev-timeline]- 组织发展历程
-> - **1968–1970 年代 — 概念突破与前瞻实验期** 1968 年[[OECD|经合组织]]正式设立 CERI，标志着组织内部深刻认识到经济增长不仅有数量规模，更有定性维度，教育应当作为“改善生活条件的重要工具”；到 1970 年，经合组织逐步摆脱狭隘的经济主义偏见，承认教育肩负着广泛的社会与文化使命，在追求经济发展的同时高度关注教育机会均等与民主化。在此阶段，经合组织教育工作围绕四大业务支柱展开（教育委员会、CERI 领导理事会、学校建筑项目 PEB、高等教育机构管理项目 IMHE），CERI 充当包容成员国多元立场、尊重国家自主权的“广泛意识形态教会”，积极吸收欧洲激进教育学与[[Lifelong Learning|终身学习]]思想；1973 年发布里程碑式报告《循环教育：终身学习策略》（*Recurrent Education: A Strategy for Lifelong Learning*），率先将教育从青年期终结的封闭形态重塑为贯穿个体生命全程的弹性制度；同期发起首批跨国指标试错探索。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–440)]]; [[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 10)]]
+> - **1968–1970 年代 — 概念突破与前瞻实验期** 1968 年[[OECD|经合组织]]正式设立 CERI，标志着组织内部深刻认识到经济增长不仅有数量规模，更有定性维度，教育应当作为“改善生活条件的重要工具”；到 1970 年，经合组织逐步摆脱狭隘的经济主义偏见，承认教育肩负着广泛的社会与文化使命，在追求经济发展的同时高度关注教育机会均等与民主化。在此阶段，经合组织教育工作围绕四大业务支柱展开（教育委员会、CERI 领导理事会、学校建筑项目 [[Programme on Educational Building|PEB]]、高等教育机构管理项目 [[Institutional Management in Higher Education|IMHE]]），CERI 充当包容成员国多元立场、尊重国家自主权的“广泛意识形态教会”，积极吸收欧洲激进教育学与[[Lifelong Learning|终身学习]]思想；1973 年发布里程碑式报告《循环教育：终身学习策略》（*Recurrent Education: A Strategy for Lifelong Learning*），率先将教育从青年期终结的封闭形态重塑为贯穿个体生命全程的弹性制度；同期发起首批跨国指标试错探索。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–440)]]; [[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 10)]]
 > - **1980–1990 年代 — 指标孵化与实证帝国奠基** 1983 年美国《国家处在危险之中》报告发布后，里根政府教育部门转向 CERI 寻求跨国比较方案；在 CERI 资深主管 [[Jarl Bengtsson]] 推动下，该中心于 1988 年正式孵化设立[[International Indicators of Education Systems\|国际教育系统指标]]（International Indicators of Education Systems, INES）项目网络，由教育社会学家 [[Norberto Bottani]] 挂帅长达十年，成功奠定了《[[Education at a Glance\|教育概览]]》（Education at a Glance, EAG）的生产母体，并直接催生了后来的[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]; [[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 5, 8)]]
 > - **2000 年代至今 — 未来学校构想、[[Epistemic Governance\|知识治理]]探索与高阶素养量规研发** 进入 21 世纪，随着大型评测与常规指标转交教育与技能司行政流水线，CERI 全面深化其前瞻实验室与教育知识治理智库定位：
 >   - **工会参与治理与跨国证据协商机制突破（2010–2011）** 2010 年，[[Education International\|国际教育协会]]（Education International, EI）通过经合组织工会咨询委员会（Trade Union Advisory Committee to the OECD, TUAC）成功争取到在 CERI 领导理事会（Governing Board）的常设观察员席位，制度化确立跨国调查数据归政策当局与广大教师及其工会组织共同所有的原则；2011 年联合美国教育部、[[National Education Association\|全美教育协会]]（NEA）、[[American Federation of Teachers|美国教师联盟]]（AFT）与 EI 联合创设[[International Summits on the Teaching Profession\|国际教师职业峰会]]（International Summits on the Teaching Profession, ISTP）。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–212, 216)]]

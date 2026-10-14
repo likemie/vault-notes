@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 114
+fact_related_count: 116
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -120,6 +120,8 @@ related_facts:
   - "[[International Institute for Educational Planning]]"
   - "[[Frascati Manual]]"
   - "[[Centre for Educational Research and Innovation]]"
+  - "[[Programme on Educational Building]]"
+  - "[[Institutional Management in Higher Education]]"
   - "[[A Nation at Risk 1983]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
@@ -180,7 +182,7 @@ updated: 2026-10-14
 > - **1961–1970s — OECD 改组、科技统计奠基与冷战“[[Development Turn in Comparative Education\|发展转向]]”** 1961 年 OECD 正式取代 OEEC，美欧国家共同将其打造成抗衡苏联意识形态与综合国力竞争的制度堡垒。
 >   - 1962 启动著名的地中海地区项目（[[Mediterranean Regional Project]]，MRP），将[[Human Capital Theory\|人力资本理论]]系统转化为南欧各国的国家教育发展规划。在[[Economics of Education Movement\|教育经济学运动]]影响下，OECD 系统确立将教育视为经济增长“生产性投资”的新范式，与[[International Institute for Educational Planning\|联合国教科文组织国际教育规划研究所]]（International Institute for Educational Planning，IIEP）形成双翼，推动了比较教育的[[Development Turn in Comparative Education\|发展转向]]。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 420–423)]]
 >   - 1963 在意大利弗拉斯卡蒂召开国家专家会议，正式制定并发布《[[Frascati Manual|弗拉斯卡蒂手册]]》（*Frascati Manual*），首次在全球层面统一了研发（R&D）的统计定义与核算口径（基础研究、应用研究与试验发展），开启了以研发支出占国民生产总值比重（GERD/GNP）为核心的跨国科技排名。[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）与艾莉森·扬（Alison Young）于 1965 年受 OECD 委托撰写里程碑报告《北美与西欧研发投入努力之比较》，直接奠定了经合组织作为战后国际科技政策与研发测量中枢的威权。[[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 8–9)]]
->   - 1968–1970s 早期 OECD 内部并未为教育设立独立司局，教育职能僅从属于科学和工程技术人员办公室（Office for Scientific and Technical Personnel）以应对美欧冷战技术差距；1968 年[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（Centre for Educational Research and Innovation, CERI）成立后，OECD 形成了教育委员会、CERI 理事会、教育建筑项目（Programme on Educational Building, PEB）与高等教育机构管理项目（Institutional Management in Higher Education, IMHE）四大板块。在副司长[[George Papadopoulos|乔治·帕帕多普洛斯]]（George Papadopoulos）所总结的 1960–1990 年阶段，欧洲成员国的社会民主主义议程缓冲了美国的自由市场取向，形成恩斯特·哈斯（Ernst Haas）所谓的“美国与欧洲成员国之间不连贯的妥协”（Haas, 1990, p. 159），教育被视为培育批判性民主公民与维护社会凝聚力的公共物品，工作模式以自愿性的国别审查（*sui generis*）与宽容的“广泛意识形态教会”为特征。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 437–439, 442, 451)]]
+>   - 1968–1970s 早期 OECD 内部并未为教育设立独立司局，教育职能僅从属于科学和工程技术人员办公室（Office for Scientific and Technical Personnel）以应对美欧冷战技术差距；1968 年[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（Centre for Educational Research and Innovation, CERI）成立后，OECD 形成了教育委员会、CERI 理事会、教育建筑项目（[[Programme on Educational Building]], PEB）与高等教育机构管理项目（[[Institutional Management in Higher Education]], IMHE）四大板块。在副司长[[George Papadopoulos|乔治·帕帕多普洛斯]]（George Papadopoulos）所总结的 1960–1990 年阶段，欧洲成员国的社会民主主义议程缓冲了美国的自由市场取向，形成恩斯特·哈斯（Ernst Haas）所谓的“美国与欧洲成员国之间不连贯的妥协”（Haas, 1990, p. 159），教育被视为培育批判性民主公民与维护社会凝聚力的公共物品，工作模式以自愿性的国别审查（*sui generis*）与宽容的“广泛意识形态教会”为特征。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 437–439, 442, 451)]]
 > - **1980s–1990s — 指标体系建构、[[New Managerialism|管理主义转向]]、[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]与[[National Innovation System|国家创新系统]]（NIS）范式演进** 
 >   - 1983 年美国《国家处在危险之中》（*[[A Nation at Risk 1983\|A Nation at Risk]]*）报告发布后引发教育危机恐慌，时任美国教育部助理部长切斯特·芬恩（Chester Finn Jr.）转向经合组织下设的[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI），委托并资助 CERI 主管 [[Jarl Bengtsson]] 团队研发跨国[[Performance Indicators\|教育指标]]体系。这一关键转向促成了 1988 年[[International Indicators of Education Systems\|国际教育系统指标]]（International Indicators of Education Systems，INES）项目网络的正式启动，随后于 1992 年推出旗舰年度报告《[[Education at a Glance\|教育概览]]》（Education at a Glance，EAG），标志着 OECD 彻底从传统的投入端与粗放人力核算转向关注教育系统的产出效能与质量问责。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540–542)]]
 >   - 1990 年代初，伴随日本与东亚后发追赶的成功，单纯依赖弗拉斯卡蒂研发投入指标的局限性暴露，OECD 科技政策委员会（CSTP）在克里斯·弗里曼、本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）等[[Evolutionary Economics|演化经济学]]家影响下，于 1994 年启动国家[[Systems of Innovation|创新系统]]大型国际研究项目，并于 1997 年正式发布纲领性报告《[[National Innovation System|国家创新系统]]》（*National Innovation Systems*），标志着 OECD 官方科技政策范式彻底从布什单向线性模型跨越至多主体互动学习的[[Innovation Policy Paradigms|创新系统范式]]。[[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 10–11, 19–20)]]
