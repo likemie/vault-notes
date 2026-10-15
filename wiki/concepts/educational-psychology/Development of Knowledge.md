@@ -43,7 +43,7 @@ related_persons: []
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Development of Knowledge
@@ -76,8 +76,8 @@ updated: 2026-10-15
 
 > [!taxonomy] 理论模型中的构念归属
 > 知识发展在不同理论框架中具有明确的坐标定位：
-> - **发展模型视角** 对应于 Perry (1970) 的评价主义（Evaluatism）阶段与 King & Kitchener (1994) 的[[Reflective Thinking\|反思性思维]]阶段，表现为对知识相对性与证据演化性的协调。
-> - **多维信念系统视角** 属于 [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 框架中“知识的性质”维度的核心组成部分，与“[[Simplicity of Knowledge\|知识的简单性]]”并列。
+> - **发展模型视角** 对应于 Perry (1970) 的评价主义（Evaluatism）阶段与 King and Kitchener (1994) 的[[Reflective Thinking\|反思性思维]]阶段，表现为对知识相对性与证据演化性的协调。
+> - **多维信念系统视角** 属于 [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 框架中“知识的性质”维度的核心组成部分，与“[[Simplicity of Knowledge\|知识的简单性]]”并列。
 > - **Conley et al. (2004) 测量体系** 在中小学科学[[Epistemology\|认识论]]量表中被独立[[Operationalization\|操作化]]为核心分量表，专门测量儿童对科学知识变化演进的理解。
 
 ---
@@ -151,4 +151,4 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] — 在[[Meta-analysis\|元分析]]中系统比较了 19 个[[Epistemology\|认识论]][[Construct\|构念]]，证实知识的发展是对[[Academic Achievement\|学业成绩]]预测力最强的单一构念（$r = .274$）。
-> - [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] — 系统梳理认识论结构，将关于知识演化的信念确立为知识性质维度的理论基石。
+> - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 系统梳理认识论结构，将关于知识演化的信念确立为知识性质维度的理论基石。

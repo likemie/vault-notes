@@ -51,7 +51,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: 2026-08-20
+updated: 2026-10-16
 year: 2019
 doi: ""
 citation_aliases:
@@ -66,7 +66,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[Goldman's Discrimination Theory of Knowledge]] — Wiliam 运用 Goldman (1976) 的区分理论论证教育知识的**局部性（local）**和**临时性（provisional）** 新证据的出现使先前可信的解释不再可信，因为我们现在无法区分"干预导致效果"与"替代因素导致效果"两种状态。
+> - [[Goldman's Discrimination Theory of Knowledge]] — Wiliam 运用 Goldman (1976) 的区分理论论证教育知识的**局部性（local）** 和**临时性（provisional）** 新证据的出现使先前可信的解释不再可信，因为我们现在无法区分"干预导致效果"与"替代因素导致效果"两种状态。
 
 ## 研究方法
 
@@ -95,7 +95,7 @@ citation_aliases:
 >
 > - **[[Tracking\|能力分组]]研究暴露了忽略教师质[[Quantitative Research\|量的研究]]设计缺陷** 即使 RCT 发现能力分组与较低成就相关，也不能得出能力分组导致低成就的结论——可能是最有效的教师被分配给高成就学生(pp.8–9)。Wiliam 以自身研究经历(Boaler, Wiliam, & Brown, 2000; Wiliam & Bartholomew, 2004)承认当时未意识到教师间差异的量级，如今此证据使其研究结论不再明确。(p.8)
 >
-> - **反馈研究揭示平均效应的误导性**Kluger & DeNisi (1996) 的[[Meta-analysis\|元分析]]发现反馈的平均[[Effect Size\|效应量]]为 0.4 SD，但标准差约 1，约 38% 的效应量为负——在超过三分之一的案例中，不给予反馈反而更好。(pp.10–11)
+> - **反馈研究揭示平均效应的误导性**Kluger and DeNisi (1996) 的[[Meta-analysis\|元分析]]发现反馈的平均[[Effect Size\|效应量]]为 0.4 SD，但标准差约 1，约 38% 的效应量为负——在超过三分之一的案例中，不给予反馈反而更好。(pp.10–11)
 >
 > - **[[Meta-meta-analysis\|元-元分析]]在教育决策中无任何角色** Simpson 小心指出在某些条件下合并效应量可能适当，但 Wiliam 明确断言"将多个元分析的结果通过某种加权合并——即所谓的元-元分析——在教育政策制定中绝对没有任何角色"。(p.11)
 >

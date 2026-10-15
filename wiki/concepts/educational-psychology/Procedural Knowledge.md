@@ -48,7 +48,7 @@ related_persons:
   - "[[Gilbert Ryle]]"
 confidence: high
 created: 2026-08-15
-updated: 2026-10-03
+updated: 2026-10-16
 ---
 
 # Procedural Knowledge
@@ -185,5 +185,5 @@ updated: 2026-10-03
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] — 梳理 Belenky 等人（1986）的[[Women's Ways of Knowing\|女性认知方式]]模型，解析程序性[[Epistemology\|认识论]]阶段中分离型与连结型认知在证据评估中的机制。
+> - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 梳理 Belenky 等人（1986）的[[Women's Ways of Knowing\|女性认知方式]]模型，解析程序性[[Epistemology\|认识论]]阶段中分离型与连结型认知在证据评估中的机制。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — [[Epistemic Cognition\|认识论认知]]因果干预[[Meta-analysis\|元分析]]，在[[Academic Achievement\|学业成就]]类型调节分析中实证揭示认识论干预对高阶论证和概念知识的显著促进，以及对程序性知识任务的效能脱节，确立了[[Construct\|构念]]的作用边界。

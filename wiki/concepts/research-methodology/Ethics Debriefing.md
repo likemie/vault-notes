@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-19
-updated: 2026-06-19
+updated: 2026-10-16
 ---
 
 # Ethics Debriefing
@@ -51,7 +51,7 @@ updated: 2026-06-19
 ## 核心要素
 
 > [!feature] Debriefing 的四项基本内容
-> Cooper & Schindler (2001, p. 116) 列出 debriefing 应包括（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 112]]）：
+> Cooper and Schindler (2001, p. 116) 列出 debriefing 应包括（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 112]]）：
 
 1. **解释欺骗及其原因（explaining any [[Deception in Research|deception]] and the reasons for it）**
 2. **描述研究的目的、假设、目标和方法（description of the purposes, [[Hypothesis|hypotheses]], objectives and methods of the research）**
@@ -59,7 +59,7 @@ updated: 2026-06-19
 4. **跟进心理或医疗关注（follow-up psychological or medical attention after the research）**
 
 > [!warning] Debriefing 的危险：真相没有神奇的治愈力量
-> Aronson & Carlsmith (1969, p. 31) 警告：
+> Aronson and Carlsmith (1969, p. 31) 警告：
 >
 > "对一个受试者进行 debriefing 不仅仅是把他暴露在真相面前的问题。真相没有神奇的治愈力量；事实上……如果以严厉的方式呈现，真相可能比完全没有解释更有害。如何完成这一过程存在巨大差异，正是这些差异在决定受试者离开实验室时是否不适方面至关重要。"
 >
@@ -73,7 +73,7 @@ updated: 2026-06-19
 > Kelman (1967) 将 debriefing 作为处理欺骗问题的三种方式之一（方式二：抵消和最小化欺骗的负面效果）。其底层原则是不伤害（[[Non-maleficence and Beneficence in Research\|non-maleficence]]）：受试者不应以比来时更大的焦虑或更低的自尊离开。理想情况下，受试者应当被经历所丰富，带着学到了一些东西的感觉离开（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 112]]）。
 
 > [!claim] Debriefing 的有效性取决于方式而非内容
-> Aronson & Carlsmith (1969) 的核心洞察是：debriefing 的效果不在于告知了什么信息，而在于如何告知。研究者自身的真诚和不适感是比任何客观信息更有效的修复工具。这意味着 debriefing 不是可标准化的程序，而是一种需要研究者真实在场的伦理实践（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 113]]）。
+> Aronson and Carlsmith (1969) 的核心洞察是：debriefing 的效果不在于告知了什么信息，而在于如何告知。研究者自身的真诚和不适感是比任何客观信息更有效的修复工具。这意味着 debriefing 不是可标准化的程序，而是一种需要研究者真实在场的伦理实践（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 113]]）。
 
 ---
 

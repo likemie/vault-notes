@@ -195,7 +195,7 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 系统对比 2020 年代美、中、欧三大经济体的科技创新政策，指出欧洲通过“地平线欧洲”将过半预算投向生态可持续与社会福祉使命，与中美聚焦尖端产业与地缘防务形成清晰分野。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 起草[[EU|欧盟]]使命导向研究的顶层理论与制度蓝图，提出将宏大挑战解构为战略使命、部门联动与自下而上项目组合的系统方案。
-> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 梳理使命导向政策的三代历史演进，将“地平线欧洲”定性为以应对棘手社会转型挑战为特征的第三代政策标杆。
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 梳理使命导向政策的三代历史演进，将“地平线欧洲”定性为以应对棘手社会转型挑战为特征的第三代政策标杆。
 > - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] — 从批判[[Geopolitics of Knowledge|知识地缘政治]]学视角审视欧盟科技政策，警示将高等教育与科研完全编入区域[[Competitiveness|竞争力]]算计所引发的[[Epistemology|认识论]]狭隘化风险。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 揭示欧盟《[[European Chips Act|欧洲芯片法案]]》第一支柱对“地平线欧洲”科研预算的改换名目与重新吸纳，剖析欧盟在缺乏超国家财政自主权下形成的财政幻觉与治理短板（pp. 12–13）。
 

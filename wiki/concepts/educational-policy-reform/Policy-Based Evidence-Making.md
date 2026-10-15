@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Policy-Based Evidence-Making
@@ -116,7 +116,7 @@ updated: 2026-10-15
 > [!concept-lens] 决策哲学的制度异化
 > 揭示为何政策制定难以遵循纯粹的[[Technical Rationality\|技术理性]]推导，阐明政治合法性考量对因果评估的支配地位。
 
-> [!claim] [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]]
+> [!claim] [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]]
 > **适宜性逻辑统治** 由于未来政策后果存在不可消除的不确定性，政策制定在本质上服从于适宜性逻辑（即在特定政治与社会语境下何为合适与可接受），而非纯粹的后果性逻辑。当追求性价比与政治生存成为核心规范时，证据被逆向生产以满足制度环境的合法性期待。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 92–94)]]
 
 ---
@@ -126,7 +126,7 @@ updated: 2026-10-15
 > [!concept-lens] 比较维度的工具化借用
 > 阐明政策制定者如何通过去语境化抽取国际范例来论证本土改革的正当性。
 
-> [!claim] [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]]
+> [!claim] [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]]
 > **选择性借用与迅速弃用** 在英格兰教师教育政策中，2010 年白皮书密集提及芬兰模式以论证研究导向教学的必要性；但当芬兰模式的高昂公共财政成本与市场化削减开支意图发生冲突时，该模式被迅速淡化弃用。国际经验并非作为严谨因果参照，而是作为可随时替换的修辞筹码。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 91–92)]]
 
 ---
@@ -146,7 +146,7 @@ updated: 2026-10-15
 > [!dev-timeline] 概念演变
 > - **2000 年代初 — 批判概念萌芽** 随着[[What Works Movement\|循证政策运动]]在英美公共卫生与教育领域的兴起，政策学者与科学社会学家开始反思研究证据在政策制定中被选择性利用与政治过滤的现象。
 > - **2016 — 概念理论化界定** Chung（2016）系统提出并界定基于政策的证据制造（Policy-Based Evidence-Making, PBEM），明确将其确立为批判传统理性循证政策[[Paradigm\|范式]]的新框架。
-> - **2022 — 教育政策实证机制深化** [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] 结合新制度主义理论与英格兰教师教育改革 35 年历史（1983–2019），通过 20 位高层[[Elite Interview\|精英访谈]]实证揭示了英国教育部如何作为[[Gatekeepers\|守门人]]系统运作 PBEM，并分析了其导致的[[Epistemological Break\|认识论断裂]]。
+> - **2022 — 教育政策实证机制深化** [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] 结合新制度主义理论与英格兰教师教育改革 35 年历史（1983–2019），通过 20 位高层[[Elite Interview\|精英访谈]]实证揭示了英国教育部如何作为[[Gatekeepers\|守门人]]系统运作 PBEM，并分析了其导致的[[Epistemological Break\|认识论断裂]]。
 
 ---
 
@@ -179,4 +179,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] — 结合英格兰 1983–2019 年教师教育政策演变与 20 位[[Elite Interview\|精英访谈]]，系统揭示了英国教育部作为[[Gatekeepers\|守门人]]通过[[Carter Review of Initial Teacher Training\|卡特审查]]与[[Chartered College of Teaching\|特许教学学院]]运作基于政策的证据制造的机制。
+> - [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] — 结合英格兰 1983–2019 年教师教育政策演变与 20 位[[Elite Interview\|精英访谈]]，系统揭示了英国教育部作为[[Gatekeepers\|守门人]]通过[[Carter Review of Initial Teacher Training\|卡特审查]]与[[Chartered College of Teaching\|特许教学学院]]运作基于政策的证据制造的机制。

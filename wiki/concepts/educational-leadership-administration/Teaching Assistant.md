@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-14'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Teaching Assistant
@@ -145,7 +145,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **逆向效应命题** | 常规随意配置导致学困生脱离主讲教学，产生系统性学业负效应 | 基础教育人力资源配置与特教支持 | Webster et al. (2010); [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] |
-> | **区域战役命题** | 循证指南须经排课重组、协同备课与支架培训等区域深嵌方可产生学业增益 | 知识中介推广战略与学校组织重构 | Maxwell et al. (2019); Sibieta & Sianesi (2019) |
+> | **区域战役命题** | 循证指南须经排课重组、协同备课与支架培训等区域深嵌方可产生学业增益 | 知识中介推广战略与学校组织重构 | Maxwell et al. (2019); Sibieta and Sianesi (2019) |
 > | **政治挪用与手艺抵制命题** | 官方证据被异化为财政裁员工具，遭到一线贡献型专长的批判性抵制 | 证据政治学、教育治理与专业专长博弈 | [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] |
 
 ---

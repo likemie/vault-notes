@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-07-22'
-updated: 2026-09-29
+updated: 2026-10-16
 ---
 # Michele Schweisfurth
 
@@ -90,7 +90,7 @@ updated: 2026-09-29
 > - **跨国／跨领域传播** — 其观点广泛应用于中低收入国家与东亚高压应试地区的教学法移植研究[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 588, 601)]]。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 对话 Schweisfurth 的最低标准与 TBA 阻论，揭示中国学校如何在应试压力下重构共享目标以落地 LCE。
+> - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 对话 Schweisfurth 的最低标准与 TBA 阻论，揭示中国学校如何在应试压力下重构共享目标以落地 LCE。
 
 ---
 

@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # New Growth Theory
@@ -175,12 +175,12 @@ updated: 2026-10-15
 > > [!axis] 实用操作技能偏好 vs 基础理论传承与批判反思侵蚀
 > > 争论课程全面倒向程序性操作技能（[[Procedural Knowledge|knowing how]]）是否会瓦解高深[[Theoretical Knowledge|理论知识]]（Knowing That）的传承基础。
 > >
-> > - **[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]]** 批评新增长逻辑导致教育目的严重单向度化，排除了关于社会制度与教育目的本身的哲学辩论。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
-> > - **Foray & Lundvall（1996）** 主张适应快速技术变迁必须优先发展动态交互学习能力与情境化迁移技能。
+> > - **[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]** 批评新增长逻辑导致教育目的严重单向度化，排除了关于社会制度与教育目的本身的哲学辩论。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
+> > - **Foray and Lundvall（1996）** 主张适应快速技术变迁必须优先发展动态交互学习能力与情境化迁移技能。
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 445–446)]] — 分析[[OECD|经合组织]]如何借用内生新增长理论重塑[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]，推动教育目的向操作技能全面转移。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 445–446)]] — 分析[[OECD|经合组织]]如何借用内生新增长理论重塑[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]，推动教育目的向操作技能全面转移。

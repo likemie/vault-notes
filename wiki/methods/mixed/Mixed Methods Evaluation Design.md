@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-10-16
 ---
 
 # Mixed Methods Evaluation Design
@@ -56,7 +56,7 @@ updated: 2026-06-02
 >
 > **阶段二：理论概念化（Theory Conceptualization）** — 量化为主
 > - 基于需求评估的发现，进行[[Literature Review\|文献回顾]]，将质性发现与已有理论对接
-> - 整合：从质性需求评估构建理论（对应**[[Exploratory Sequential Design\|探索性序列设计]]**）
+> - 整合：从质性需求评估构建理论（对应 **[[Exploratory Sequential Design\|探索性序列设计]]**）
 >
 > **阶段三：工具与测量开发（Instrument & Measures Development）** — 量化为主
 > - 开发或选择合适的测量工具和指标
@@ -66,7 +66,7 @@ updated: 2026-06-02
 >
 > **阶段五：项目跟进与完善（Program Follow-up & Refinement）** — 质性为主
 > - 通过访谈、观察和文件分析来跟进项目效果并完善方案
-> - 整合：用质性数据解释量化结果（对应**[[Explanatory Sequential Design\|解释性序列设计]]**）
+> - 整合：用质性数据解释量化结果（对应 **[[Explanatory Sequential Design\|解释性序列设计]]**）
 
 > [!example]- 图10.6：混合方法评价设计图
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-6_Mixed_Methods_Evaluation_Design.jpg)

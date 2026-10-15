@@ -33,7 +33,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-08-19
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Task Structure
@@ -128,7 +128,7 @@ updated: 2026-10-15
 
 > [!example] 教学任务设计的经典实验案例（[[Argument_Lodewyk_2007_EP\|Lodewyk, 2007]]）
 > - **良构任务案例：个人生活方式计划（Personal Lifestyle Plan）** 要求学生选择一种癌症，汇总其病因、症状、疗法及预防行为撰写结构化报告。任务前播放 20 分钟录像并完成工作表，提供预包装资料袋及细化评分量规。（p.316）
-> - **劣构任务案例：专案组癌症经费分配辩护（Task-Force Issue）** 要求学生撰写议论文，为政府资金应优先投向预防宣传还是治疗科研进行立场辩护。无先行组织者，学生自行在教室检索资源，量规对学生保密，重点考核基于 King & Kitchener (1994) 的[[Reflexivity\|反思性]]判断深度。（pp.316–317）
+> - **劣构任务案例：专案组癌症经费分配辩护（Task-Force Issue）** 要求学生撰写议论文，为政府资金应优先投向预防宣传还是治疗科研进行立场辩护。无先行组织者，学生自行在教室检索资源，量规对学生保密，重点考核基于 King and Kitchener (1994) 的[[Reflexivity\|反思性]]判断深度。（pp.316–317）
 
 ---
 

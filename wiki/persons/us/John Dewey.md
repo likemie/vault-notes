@@ -89,7 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # John Dewey
@@ -218,10 +218,10 @@ updated: 2026-10-15
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合[[Paulo Freire|弗莱雷]][[Critical Pedagogy|批判教育学]]，将杜威的探究、对话与生长重构为三环节主动学习模型，并审查 IB [[Theory of Knowledge|TOK]] 课程。
-> - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 运用 Cowen 3T 框架拆解杜威思想在民国中国1919–1928年的转移、转译与转化机制。
+> - [[Argument_Zhou_2024_CE|Zhou and Westberg (2024)]] — 运用 Cowen 3T 框架拆解杜威思想在民国中国1919–1928年的转移、转译与转化机制。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 分析杜威思想在建国后中国教育话语中的三重变形与政治重构。
 > - [[Argument_Ryabyy_2024_Maneto|Ryabyy (2024)]] — 探究1928年杜威访苏及[[Progressive Education|进步教育]]在美苏[[Cultural Diplomacy|文化外交]]中的交锋与断裂。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 探究杜威实用主义哲学对现代[[Engineering Mindset|工程思维]]与反教条经验探究[[Epistemology|认识论]]的历史奠基（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 探究杜威实用主义哲学对现代[[Engineering Mindset|工程思维]]与反教条经验探究[[Epistemology|认识论]]的历史奠基（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
 
 ---
 
@@ -254,7 +254,7 @@ updated: 2026-10-15
 > [!critique]- 批评索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 指出纯粹的杜威[[Pragmatic Paradigm|实用主义]]若缺乏对社会政治结构不公的批判与解决压迫的实践（[[Praxis]]）承诺，仍可能被去政治化为形式上的课程活动。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 记录1950年代中国教育界对杜威自然主义、[[Pragmatic Paradigm|实用主义]]及所谓“反科学”立场的批判。
-> - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 评估“碎片化”概念预设完整整体的逻辑局限，指出外来理论在危局中被功能性筛选是跨国传播的常态。
+> - [[Argument_Zhou_2024_CE|Zhou and Westberg (2024)]] — 评估“碎片化”概念预设完整整体的逻辑局限，指出外来理论在危局中被功能性筛选是跨国传播的常态。
 
 > [!warning] 未解问题与边界
 > 杜威关于“一步一个脚印”的渐进实验建言，在面对制度彻底腐朽或急迫存亡危机时，能否提供足够迅速的现实解决方案，仍是比较教育与政治哲学中持续争论的理论边界。

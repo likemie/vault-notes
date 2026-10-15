@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Baptist-Bootlegger Coalition
@@ -190,11 +190,11 @@ updated: 2026-10-15
 > |---|---|---|
 > | **规制经济学与公共选择理论** | Bruce Yandle (1983); George Stigler (1971) | 奠定浸礼会与私酒贩同盟的核心模型，解构政府管制维持背后的寻租与合法性共生。 |
 > | **[[Theory of Gradual Institutional Change\|渐进制度变迁理论]]** | [[James Mahoney\|Mahoney]] & [[Kathleen Thelen\|Thelen]] (2009) | 将机制迁移至[[Historical Institutionalism\|历史制度主义]]联盟动力学（Table 1.5），解释[[Symbionts\|共生者]]与守旧阵营的异质结盟。 |
-> | **[[Rational Action Theory\|理性行动理论]]** | Breen & Goldthorpe (1997); [[Rational Action Theory\|RAT]] | 解释具有异质效用函数的不同理性行动主体如何基于各自成本收益计算达成博弈妥协均衡。 |
+> | **[[Rational Action Theory\|理性行动理论]]** | Breen and Goldthorpe (1997); [[Rational Action Theory\|RAT]] | 解释具有异质效用函数的不同理性行动主体如何基于各自成本收益计算达成博弈妥协均衡。 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 引入浸礼会与私酒贩同盟机制，系统阐释[[Symbionts|共生者]]在联盟政治中与正统制度支持者结盟并巩固妥协性规制的动力学逻辑。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 引入浸礼会与私酒贩同盟机制，系统阐释[[Symbionts|共生者]]在联盟政治中与正统制度支持者结盟并巩固妥协性规制的动力学逻辑。

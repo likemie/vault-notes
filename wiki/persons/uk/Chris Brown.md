@@ -50,7 +50,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Chris Brown
@@ -95,8 +95,8 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] 相关索引
 > - [[Argument_Brown_2017_ER\|Brown et al. (2017)]] — 整合 [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 的核心理论奠基论文。
-> - [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] — 从学校组织层面提炼[[Evidence-Informed Practice\|证据知情实践]]的四类关键因素，并以英格兰 79 所小学的基线调查定位[[School Leadership\|学校领导]]者应当优先投入的环节。
-> - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 特刊重点述评 Brown 的[[School Enquiry Cycle\|学校探究模型]]。
+> - [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] — 从学校组织层面提炼[[Evidence-Informed Practice\|证据知情实践]]的四类关键因素，并以英格兰 79 所小学的基线调查定位[[School Leadership\|学校领导]]者应当优先投入的环节。
+> - [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] — 特刊重点述评 Brown 的[[School Enquiry Cycle\|学校探究模型]]。
 > - [[School Enquiry Cycle]] — 核心理论模型条目。
 > - [[Research-Engaged School]] / [[Activity Traps]] — 2018 年论文所依托的组织形态概念与协作探究缺陷概念。
 > - [[Research Learning Communities Baseline Survey Questionnaire]] — 与 [[Alan Daly]] 共同设计的项目基线调查工具。

@@ -48,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Problem Finding
@@ -115,7 +115,7 @@ updated: 2026-10-15
 > [!concept-lens] 认知瓶颈与高阶[[Creativity\|创造潜能]]
 > 探讨在观念生成技能普及的前提下，问题重构能力如何决定真实创造性产出的上限与领域突破性。
 
-> [!claim] Getzels & Csikszentmihalyi (1976); Runco & Okuda (1988)
+> [!claim] Getzels and Csikszentmihalyi (1976); Runco and Okuda (1988)
 > **问题发现驱动高阶创造产出** [[Cohort Study\|追踪研究]]证实，在艺术创作与科学探索中，个体在任务初期投入在探索性观察、重构问题框架上的时间与灵活性，对其作品在数年乃至数十年后的艺术成就与专业认可度具有决定性的正向预测力；相比之下，仅擅长解答给定问题的个体难以产生[[Paradigm\|范式]]变革级的卓越贡献。
 
 ---
@@ -135,7 +135,7 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **高阶认知瓶颈** | 问题发现能力决定了创造性成就的上限与突破性，超越常规解题技能 | 拔尖创新人才培养、科研选题、设计思维 | Getzels & Csikszentmihalyi (1976); Runco & Okuda (1988) |
+> | **高阶认知瓶颈** | 问题发现能力决定了创造性成就的上限与突破性，超越常规解题技能 | 拔尖创新人才培养、科研选题、设计思维 | Getzels and Csikszentmihalyi (1976); Runco and Okuda (1988) |
 > | **多维过程整合优势** | 涵盖问题发现的过程测量比单一发散思维展现更强实证关联（$r = 0.27$ vs $r = 0.14$） | 创造力心理测量、二阶效应量建模 | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]; Abdulla et al. (2020) |
 
 ---

@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Educational Science Communication
@@ -131,10 +131,10 @@ updated: 2026-10-15
 > [!claim] Gräsel (2019)
 > **情境适配是转移发生的先决条件** 科学研究成果无法直接作为行动指令被教师吸收，唯有将其转化为契合特定学校与课堂生态的实践情境语言，才能为证据知情行动奠定认知基础。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 253, 258)]]
 
-> [!claim] Reinmann & Brase (2022)
+> [!claim] Reinmann and Brase (2022)
 > **超越单向传输的递归沟通模型** [[Knowledge Transfer\|知识转移]]必须摒弃从科研到实践的单向箭头，代之以研究者与社会多元行动者之间双向、多向且递归的交流机制，使研究设计自始融入实践关切。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 253)]]
 
-> [!claim] Bauer & Kollar (2023)
+> [!claim] Bauer and Kollar (2023)
 > **[[Refutational Evidence\|反驳性证据]]引发的心理防御** 学术期刊中过度强调对教师日常经验信念的反驳性证据（widerlegende Evidenz），容易激发教师的专业自尊防御，导致对科学出版物的整体抵触。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 254)]]
 
 ---
@@ -173,7 +173,7 @@ updated: 2026-10-15
 > [!contrast-table] 教育科学传播核心命题归纳
 > | 命题类型 | 核心指向 | 实践与政策含义 | 代表学者 |
 > |---|---|---|---|
-> | **传播模式重构** | 批判单向线性传输与证伪话语的心理防御效应 | 倡导情境化调适与双向多向递归对话机制 | Gräsel (2019); Reinmann & Brase (2022); Bauer & Kollar (2023) |
+> | **传播模式重构** | 批判单向线性传输与证伪话语的心理防御效应 | 倡导情境化调适与双向多向递归对话机制 | Gräsel (2019); Reinmann and Brase (2022); Bauer and Kollar (2023) |
 > | **数字媒介效能** | 肯定播客、短视频与社交网络在促进深层互动中的作用 | 鼓励高校与研究机构开发多样化数字科学传播产品矩阵 | Dresbach (2023); Spannagel (2022); Fütterer et al. (2021) |
 > | **制度激励变革** | 确立研究合成与科普转译的独立学术地位，消除声誉顾虑 | 大学考核与基金资助应将受众适配的科学传播纳入考评 | Kerres et al. (2022); [[Argument_Besa_2024_UW\|Besa (2024)]] |
 

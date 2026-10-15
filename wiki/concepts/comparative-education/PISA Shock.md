@@ -88,7 +88,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-07-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # PISA Shock
@@ -318,8 +318,8 @@ PISA 震荡作为制度分水岭，从根本上重塑了国家与地方、投入
 > | **危机触发机理与双重条件** | 震荡源于国家话语高度赋予权重与实证表现落差的双重共振 | 具备深厚教育[[Pride in Learning\|自豪]]感与民主合法化需求的体系 | Martens & Niemann; Bieber & Martens |
 > | **制度破障与改革积压消解** | 外部量化丑闻能够强力击碎内部既得利益阻力与体制僵局 | 存在严重改革积压与多层宪制壁垒的联邦国家 | Niemann et al.; Dedering |
 > | **治理范式翻转与数据装配** | 驱动治理体系从传统投入规制转向产出监测与拓扑数据基础设施 | 数字化数据治理普及与禁止公开排名的法治环境 | Altrichter et al.; [[Argument_Hartong_2018_GSE\|Hartong (2018)]] |
-> | **真实响应与媒介建构分流** | 区分真实客观绩效暴跌触发的体制重构与政治操纵的虚假危机 | 跨国比较教育与媒介化政策借用分析 | [[Argument_Grey_2018_CE\|Grey & Morris (2018)]]; Li et al. |
-> | **哲学防线瓦解与超国家规训** | 量化恐慌迫使国家放弃洪堡教化哲学与传统辩护，臣服于经合组织技术官僚问责模板 | 具有深厚人文哲学传统与分流体制遭遇量化冲击的国家 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009, p. 447)]] |
+> | **真实响应与媒介建构分流** | 区分真实客观绩效暴跌触发的体制重构与政治操纵的虚假危机 | 跨国比较教育与媒介化政策借用分析 | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]]; Li et al. |
+> | **哲学防线瓦解与超国家规训** | 量化恐慌迫使国家放弃洪堡教化哲学与传统辩护，臣服于经合组织技术官僚问责模板 | 具有深厚人文哲学传统与分流体制遭遇量化冲击的国家 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009, p. 447)]] |
 
 ---
 
@@ -372,8 +372,8 @@ PISA 震荡作为制度分水岭，从根本上重塑了国家与地方、投入
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 详细阐述德国 [[PISA]] 2000 震荡如何打破测试禁忌，并依托国家[[Center of Calculation|计算中心]]（[[Institute for Educational Quality Improvement|IQB]]）与跨尺度[[Data Infrastructure|数据基础设施]]实现政策[[Topological Spatialisation|拓扑重组]]。
 > - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 实证分析德国各州教育部在 PISA 震荡后的七大优先行动领域推进过程及微观接收机制。
-> - [[Argument_Grey_2018_CE|Grey & Morris (2018)]] — 对比德国、瑞典的真实 PISA 震荡与英格兰媒介化“人为 PISA 危机”的运作机制。
+> - [[Argument_Grey_2018_CE|Grey and Morris (2018)]] — 对比德国、瑞典的真实 PISA 震荡与英格兰媒介化“人为 PISA 危机”的运作机制。
 > - [[Argument_Altrichter_2019_ZfB|Altrichter et al. (2019)]] — 综述德语区遭遇 PISA 震荡后向产出导向[[Output-Oriented Governance|循证治理]]转型的整体制度演进。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 系统梳理 PISA 冲击在德国引发的[[Theories of Policy Change|政策变革]]及全球[[Reference Society|参考社会]]转移机制。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, p. 447)]] — 从全球教育政策视角解构德国 PISA 震荡，揭示量化恐慌如何迫使传统洪堡教育哲学防线溃败并屈从于[[OECD|经合组织]]治理模板。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, p. 447)]] — 从全球教育政策视角解构德国 PISA 震荡，揭示量化恐慌如何迫使传统洪堡教育哲学防线溃败并屈从于[[OECD|经合组织]]治理模板。
 

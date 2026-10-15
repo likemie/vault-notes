@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Study Design and Implementation Assessment Device
@@ -131,7 +131,7 @@ updated: 2026-10-15
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart & Towne (2003)]] | [[What Works Clearinghouse\|WWC]] Study DIAD (2003 Rev.) | 审查 WWC 发布的规程草案及 47 份学界公众评议文本 | 政策[[Content Analysis\|内容分析]]与规程文本考证 | 证实公共审议推动 WWC 放宽了单一实验垄断，确立[[Regression Discontinuity Design\|断点回归]]专章与多元调节编码（pp. 34–36） |
+> | [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] | [[What Works Clearinghouse\|WWC]] Study DIAD (2003 Rev.) | 审查 WWC 发布的规程草案及 47 份学界公众评议文本 | 政策[[Content Analysis\|内容分析]]与规程文本考证 | 证实公共审议推动 WWC 放宽了单一实验垄断，确立[[Regression Discontinuity Design\|断点回归]]专章与多元调节编码（pp. 34–36） |
 
 ---
 

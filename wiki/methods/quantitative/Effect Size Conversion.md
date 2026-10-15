@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Effect Size Conversion
@@ -160,7 +160,7 @@ updated: 2026-10-15
 > - $OR = 2.10 \Longleftrightarrow \ln(OR) \approx 0.742 \Longleftrightarrow d = 0.41$（中等效应）；
 > - $OR = 4.27 \Longleftrightarrow \ln(OR) \approx 1.452 \Longleftrightarrow d = 0.80$（大效应）。
 >
-> **注意事项** 该转换基于潜在变量服从 Logistic 分布的假设；若假设潜在变量服从标准正态分布（Probit 模型），除数常数变为 $\pi / \sqrt{3} \approx 1.65$。Hasselblad & Hedges (1995) 证明 Logistic 转换在多数情境下具有更优的稳健性。
+> **注意事项** 该转换基于潜在变量服从 Logistic 分布的假设；若假设潜在变量服从标准正态分布（Probit 模型），除数常数变为 $\pi / \sqrt{3} \approx 1.65$。Hasselblad and Hedges (1995) 证明 Logistic 转换在多数情境下具有更优的稳健性。
 
 ---
 

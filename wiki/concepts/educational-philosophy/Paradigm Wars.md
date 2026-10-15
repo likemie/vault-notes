@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Paradigm Wars
@@ -257,5 +257,5 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 全景呈现教育[[Paradigm\|研究范式]]战争的爆发根源、两大阵营对峙以及[[Mixed Methods Research\|混合方法]][[Pragmatic Paradigm\|实用主义]]整合路径。
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 详尽解析量化、质性与混合方法三大研究设计在后实证、建构论与实用主义框架下的演化与协作。
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 详尽解析量化、质性与混合方法三大研究设计在后实证、建构论与实用主义框架下的演化与协作。
 > - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 通过历时文献计量揭示教育研究在走出绝对实证垄断后质性与多范式并存的发展态势。

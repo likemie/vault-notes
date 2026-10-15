@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-21'
-updated: 2026-09-22
+updated: 2026-10-16
 ---
 
 # Enculturation
@@ -113,7 +113,7 @@ updated: 2026-09-22
 > [!note]-
 > 濡化概念源于人类学对文化传递的长期研究。LeVine（1990）从生物社会视角（biosocial perspective）阐述了濡化如何塑造自我发展——他将文化传递嵌入人类生物进化与儿童发展的交叉点。
 
-Harkness & Super（1992）进一步提出了"发展生态位"（developmental niche）框架，将濡化机制[[Operationalization|操作化]]为三个相互作用的环境层次：
+Harkness and Super（1992）进一步提出了"发展生态位"（developmental niche）框架，将濡化机制[[Operationalization|操作化]]为三个相互作用的环境层次：
 
 > [!abstract]
 > - **物理与社会环境** 儿童日常生活的空间、物品和人员配置——例如家庭布局、玩具类型、与谁同住

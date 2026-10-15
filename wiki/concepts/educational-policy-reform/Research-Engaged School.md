@@ -78,7 +78,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 研究参与学校（Research-Engaged School）指那些“以自觉的战略性、发展性取向，在全体教职工中系统培育[[Evidence-Informed Practice\|证据知情实践]]与文化”的学校组织形态。这一界定并不要求学校将每一个微观管理或教学决策都机械建立在学术证据之上（Godfrey, 2014a, 2014b），而是要求学校在组织制度层面具备调用证据的**意图（intent）**、**意愿（willingness）**与**能力（capacity）**，并在日常工作中将证据转化为持续专业学习与教学改进的内生机制。在教育[[Quality Use of Research Evidence Framework\|研究证据质量使用框架]]（[[Quality Use of Research Evidence Framework\|QURE]]）中，研究参与学校被进一步确立为承载组织使能三大构件（榜样领导力、[[Reflexivity\|反思性]][[Organizational Culture\|组织文化]]、制度化基础架构）的微观实践基石，推动学校从“外部证据的机械被动消费者”跃升为“立足适切证据与审慎实施的自适应学习生态”。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 117–118)]]；[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 134, 143–144)]]
+> 研究参与学校（Research-Engaged School）指那些“以自觉的战略性、发展性取向，在全体教职工中系统培育[[Evidence-Informed Practice\|证据知情实践]]与文化”的学校组织形态。这一界定并不要求学校将每一个微观管理或教学决策都机械建立在学术证据之上（Godfrey, 2014a, 2014b），而是要求学校在组织制度层面具备调用证据的**意图（intent）**、**意愿（willingness）** 与**能力（capacity）**，并在日常工作中将证据转化为持续专业学习与教学改进的内生机制。在教育[[Quality Use of Research Evidence Framework\|研究证据质量使用框架]]（[[Quality Use of Research Evidence Framework\|QURE]]）中，研究参与学校被进一步确立为承载组织使能三大构件（榜样领导力、[[Reflexivity\|反思性]][[Organizational Culture\|组织文化]]、制度化基础架构）的微观实践基石，推动学校从“外部证据的机械被动消费者”跃升为“立足适切证据与审慎实施的自适应学习生态”。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 117–118)]]；[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 134, 143–144)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 描述的不是个别教师的孤立科研行为或单次决策，而是一所学校在组织架构、领导方式、教研文化与工时保障上形成的、可持续支持证据知情探究的整体制度生态。
@@ -211,8 +211,8 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **[[Organizational Culture\|组织文化]]转型** | 从寻找现成课堂技巧转向建立以[[Reflective Thinking\|反思性探究]]为核心的组织学习文化 | 寻求深层教学变革与专业生态重塑的学校 | Godfrey (2014); Handscomb & MacBeath (2014); Stoll et al. (2006) |
-> | **实证机制断裂** | 高认同表象下普遍缺失假设反思与成效评价，极易诱发活动陷阱 | 开展循证教研但缺乏结构化探究规程的学校 | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]]; Katz & Dack (2013); Datnow & Hubbard (2015) |
+> | **[[Organizational Culture\|组织文化]]转型** | 从寻找现成课堂技巧转向建立以[[Reflective Thinking\|反思性探究]]为核心的组织学习文化 | 寻求深层教学变革与专业生态重塑的学校 | Godfrey (2014); Handscomb and MacBeath (2014); Stoll et al. (2006) |
+> | **实证机制断裂** | 高认同表象下普遍缺失假设反思与成效评价，极易诱发活动陷阱 | 开展循证教研但缺乏结构化探究规程的学校 | [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]]; Katz and Dack (2013); Datnow and Hubbard (2015) |
 > | **多层治理支持** | 依托领导力四维干预弥合短板，并诉求外部高压问责与督导框架改革 | 处于去中心化与严格绩效考核双轨体制中的学校系统 | Brown & Greany; Ehren et al. (2014) |
 > | **双核质量跃升** | 超越二元参与达标，将组织使能支柱与适切证据及审慎实施深度咬合 | 推进高质量循证教研与防范形式主义的学校 | [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]]; Nutley et al. (2013) |
 
@@ -221,12 +221,12 @@ updated: 2026-10-16
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2003 — 组织系统文化规范论奠基** Handscomb & MacBeath (2003) 提出研究参与学校必须将[[Research Utilization\|证据使用]]作为文化规范深植于学校的组织风气、系统架构与日常活动之中。
+> - **2003 — 组织系统文化规范论奠基** Handscomb and MacBeath (2003) 提出研究参与学校必须将[[Research Utilization\|证据使用]]作为文化规范深植于学校的组织风气、系统架构与日常活动之中。
 > - **2006 — 概念萌芽与初步倡导** Sharp 等（2006）在英国国家[[School Leadership\|学校领导力]]学院（NCSL）报告中提出领导“研究参与学校”的初步构想，强调研究对教师专业发展的赋能价值。
 > - **2014 — 组织理论界定奠基** Godfrey（2014a, 2014b）发表系列研究，正式确立“自觉的战略性与发展性取向”为研究参与学校的核心界定，明确其关注组织意图、意愿与能力而非单次决策。
 > - **2017 — 领导者[[Knowledge Mediation\|知识中介]]与赋权功能揭示** Coldwell et al. (2017) 揭示高研究参与学校中校级领导作为[[Boundary Spanner\|知识中介者]]与促进者的关键职能，通过分布式架构赋权教研骨干。
-> - **2018 — 大样本实证测度与四因素框架建构** [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] 将该概念[[Operationalization\|操作化]]为能力、文化、学习环境与结构资源四因素[[Questionnaire\|问卷]]，对英格兰 79 所小学的基线准备状态展开系统测度，揭示出假设反思与成效评价的机制断裂。
-> - **2019 — 生态系统观系统化** Godfrey & Brown (2019) 主编《[[Ecosystem for Research-Engaged Schools\|研究参与学校生态]]系统》（*An Ecosystem for Research-Engaged Schools*），将学校组织置于宏观问责与中观网络的复杂生态整体中。
+> - **2018 — 大样本实证测度与四因素框架建构** [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] 将该概念[[Operationalization\|操作化]]为能力、文化、学习环境与结构资源四因素[[Questionnaire\|问卷]]，对英格兰 79 所小学的基线准备状态展开系统测度，揭示出假设反思与成效评价的机制断裂。
+> - **2019 — 生态系统观系统化** Godfrey and Brown (2019) 主编《[[Ecosystem for Research-Engaged Schools\|研究参与学校生态]]系统》（*An Ecosystem for Research-Engaged Schools*），将学校组织置于宏观问责与中观网络的复杂生态整体中。
 > - **2022 — [[Quality Use of Research Evidence Framework\|QURE]] 框架确立其为组织使能基石并提供质量反思透镜** [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] 将研究参与学校确立为 QURE 框架三大组织使能构件（领导力、文化、基础架构）的核心实践载体，并提供三重反省透镜，推动其从二元参与走向卓越使用质量。
 
 ---
@@ -260,7 +260,7 @@ updated: 2026-10-16
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] | 英格兰 79 所小学，696 名教师与[[School Leadership\|学校领导]]者 | 横断面基线调查（14 题项，5 级[[Likert Scale\|李克特量表]]） | (1) 研究信息在指导教学实践中发挥重要作用 | 非常同意 20%、同意 56%、不确定 21%、不同意 3%、非常不同意 1%（合计同意率 76%） | — | 超过四分之三高度认同研究的指导价值，确立了良好的认知起点 |
+> | [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] | 英格兰 79 所小学，696 名教师与[[School Leadership\|学校领导]]者 | 横断面基线调查（14 题项，5 级[[Likert Scale\|李克特量表]]） | (1) 研究信息在指导教学实践中发挥重要作用 | 非常同意 20%、同意 56%、不确定 21%、不同意 3%、非常不同意 1%（合计同意率 76%） | — | 超过四分之三高度认同研究的指导价值，确立了良好的认知起点 |
 > | 同上 | 同上 | 同上 | (2) 发现研究信息在课堂应用新教学方法时很有用 | 非常同意 26%、同意 60%、不确定 13%、不同意 2%、非常不同意 0%（合计同意率 86%） | — | 高达 86% 肯定研究的实践功用，与评价流程的缺失形成鲜明落差 |
 > | 同上 | 同上 | 同上 | (3) 学校设有评价项目或教学实践成效的正式流程（n = 694） | 非常同意 17%、同意 50%、不确定 20%、不同意 8%、非常不同意 5%（合计同意率 67%） | — | 确认率降至 67%（13% 明确持否定态度），显示[[Inquiry Cycle\|探究循环]]中评价环节最薄弱 |
 > | 同上 | 同上 | 同上 | (4) 不支持在缺乏研究支撑时推行全校性变革 | 非常同意 13%、同意 37%、不确定 38%、不同意 12%、非常不同意 1%（合计同意率 50%） | — | 50%（正文按未坚定支持计为 61%）持不确定或赞成态度，表明学校极易盲从未经检验的变革风口 |
@@ -272,5 +272,5 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] — 采用 Godfrey 的组织界定，构建四因素理论框架，通过对 79 所小学 696 名教师与领导者的基线实证调查，系统诊断研究参与学校在能力、文化、学习环境与结构上的准备状态，揭示出三大机制断裂并提出针对性干预路径。
+> - [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] — 采用 Godfrey 的组织界定，构建四因素理论框架，通过对 79 所小学 696 名教师与领导者的基线实证调查，系统诊断研究参与学校在能力、文化、学习环境与结构上的准备状态，揭示出三大机制断裂并提出针对性干预路径。
 > - [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] — 在 [[Quality Use of Research Evidence Framework\|QURE]] 框架中将研究参与学校确立为组织使能三大构件（领导力、文化、基础架构）的核心实践载体，系统阐释其作为[[Research Utilization\|证据使用]]微观土壤的功能，并提出推动研究参与学校从二元达标走向质量使用的三重反思透镜。

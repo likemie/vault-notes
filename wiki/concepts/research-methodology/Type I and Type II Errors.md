@@ -37,7 +37,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Type I and Type II Errors
 
@@ -46,12 +46,12 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> 第一类错误（Type I error）和第二类错误（Type II error）是统计推断中两类对称的决策错误。**第一类错误**指拒绝了实际上为真的[[Null Hypothesis\|零假设]]；**第二类错误**指接受了实际上不为真的零假设。Mitchell & Jolley (1988, p. 121) 提供了一个直观类比：第一类错误相当于**冤枉无辜者（convicting an innocent person）**，第二类错误相当于**放过有罪者（finding a guilty person innocent）**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 165–166)]]
+> 第一类错误（Type I error）和第二类错误（Type II error）是统计推断中两类对称的决策错误。**第一类错误**指拒绝了实际上为真的[[Null Hypothesis\|零假设]]；**第二类错误**指接受了实际上不为真的零假设。Mitchell and Jolley (1988, p. 121) 提供了一个直观类比：第一类错误相当于**冤枉无辜者（convicting an innocent person）**，第二类错误相当于**放过有罪者（finding a guilty person innocent）**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 165–166)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 两类错误是[[Null Hypothesis\|零假设]]显著性检验（NHST）框架内生的不确定性来源——即使研究设计和执行完美无缺，统计推断本身仍然包含这两类错误的风险。它们不是研究者的操作失误，而是**统计决策的固有属性**。
 > - **用途** 两类错误框架帮助研究者在设计阶段权衡显著性水平的选择（α 值），并在解释结果时评估结论的[[Reliability\|可靠性]]——特别是在高风险决策情境中（如药物审批、教育政策评估）。
-> - **边界** 在 Cook & Campbell 的效度框架中，两类错误属于**统计结论效度（statistical conclusion validity）**而非[[Internal Validity\|内部效度]]——但 Cohen, Manion & Morrison (2011) 将其列为[[Threats to Internal Validity\|内部效度威胁]]之一。在[[Qualitative Research\|质性研究]]中，两类错误被重新解释为信念错误而非统计错误。
+> - **边界** 在 Cook & Campbell 的效度框架中，两类错误属于**统计结论效度（statistical conclusion validity）** 而非[[Internal Validity\|内部效度]]——但 Cohen, Manion and Morrison (2011) 将其列为[[Threats to Internal Validity\|内部效度威胁]]之一。在[[Qualitative Research\|质性研究]]中，两类错误被重新解释为信念错误而非统计错误。
 
 ---
 

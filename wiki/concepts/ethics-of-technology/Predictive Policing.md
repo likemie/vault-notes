@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Predictive Policing
@@ -114,7 +114,7 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |:---|:---|:---|:---|
-> | **治安效能赋能** | 数据中枢与算法集成能显著提升对复杂犯罪网络的侦破效能 | 涉枪暴力治理、反恐侦查、新奥尔良警务改革 | [[Alexander Karp]] & [[Nicholas Zamiska]] (2025); Sledge & Vargas (2018) |
+> | **治安效能赋能** | 数据中枢与算法集成能显著提升对复杂犯罪网络的侦破效能 | 涉枪暴力治理、反恐侦查、新奥尔良警务改革 | [[Alexander Karp]] & [[Nicholas Zamiska]] (2025); Sledge and Vargas (2018) |
 > | **技术避险批判** | 彻底抵制警务科技是转嫁治理成本、漠视受害者生命权的虚伪表态 | 科技企业社会责任、民权争论、司法政策制定 | [[Alexander Karp]] & [[Nicholas Zamiska]] (2025); Stanley (2018) |
 
 ---

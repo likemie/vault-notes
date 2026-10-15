@@ -105,7 +105,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Scientific Method
@@ -219,7 +219,7 @@ updated: 2026-10-15
 > [!claim] [[William A. Sandoval|Sandoval, W. A.]]
 > **方法多元性与[[Formal Epistemology|形式认识论]]对实践[[Epistemology|认识论]]的遮蔽** 科学探索不存在唯一且线性的标准化规程，不同领域的科学家根据对象特质综合运用实验、观察、建模与历史推演。学校科学长期将科学方法教条化为“一步步执行的实验室步骤”，这导致学生在测验中表现出极度幼稚的形式认识论，而严重遮蔽了他们在真实探究实践中所运用的复杂实践认识论决策与社会性论证能力。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, pp. 634–642)]]
 
-> [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]]
+> [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]]
 > **学科家族相似性与实践认识论对机械科学方法的解构** 科学教育界常将科学方法窄化为程式化的“五步法”或孤立的技能清单。各门科学展现出的是维特根斯坦式的“家族相似性”而非统一的算法铁律：物理探究依赖受控实验与数学建模，地球科学依赖多源[[Chain of Evidence|证据链]]的[[Retrodiction|回溯推测]]，工程设计追求多约束下的方案折中，[[Socioscientific Issues|社会科学议题]]则涉及伦理价值审议。真实的科学方法必须通过微观课堂互动中情境化的学科[[Epistemic Practices|认识论实践]]动态实现。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 144–145, 150–157, 161)]]
 
 ---
@@ -252,9 +252,9 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 来源 |
 > |---|---|---|---|
-> | **普遍法则预设命题** | 实证主义预设科学方法具有跨越自然与社会领域的普遍法则性与产物同构性 | 社会物理学、量化[[Causal Modeling\|因果建模]]、比较教育发端[[Proto-Scientific Motif\|准科学范式]] | Comte; Giddens; [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] |
-> | **多元实践建构命题** | 科学探究依赖于学科家族相似性、情境化实践认识论与共同体社会论证 | [[Nature of Science\|科学本质]]教学、学科认识论实践分析、探究教学法改革 | [[Argument_Sandoval_2005_SE\|Sandoval (2005)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]; Kuhn |
-> | **技术异化遮蔽命题** | 将科学方法窄化为去情境的技术操作会诱发科学主义并抽空教育人文生态 | [[Critique of Evidence-Based Education\|循证教育批判]]、工具理性批判、[[General Education\|通识教育]][[Theory of Knowledge\|知识论]]边界划定 | Habermas; [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]]; [[Argument_Peterson_1987_OpenCourt\|Peterson (1987)]] |
+> | **普遍法则预设命题** | 实证主义预设科学方法具有跨越自然与社会领域的普遍法则性与产物同构性 | 社会物理学、量化[[Causal Modeling\|因果建模]]、比较教育发端[[Proto-Scientific Motif\|准科学范式]] | Comte; Giddens; [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] |
+> | **多元实践建构命题** | 科学探究依赖于学科家族相似性、情境化实践认识论与共同体社会论证 | [[Nature of Science\|科学本质]]教学、学科认识论实践分析、探究教学法改革 | [[Argument_Sandoval_2005_SE\|Sandoval (2005)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]; Kuhn |
+> | **技术异化遮蔽命题** | 将科学方法窄化为去情境的技术操作会诱发科学主义并抽空教育人文生态 | [[Critique of Evidence-Based Education\|循证教育批判]]、工具理性批判、[[General Education\|通识教育]][[Theory of Knowledge\|知识论]]边界划定 | Habermas; [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]]; [[Argument_Peterson_1987_OpenCourt\|Peterson (1987)]] |
 > | **科学学反身实验命题** | 将科学方法的因果实验与数据检验反身应用于评估和革新国家科研资助与评价体系 | 科学学、科研资助[[Mechanism Experiments\|机制实验]]、金标准科学评价改革 | [[Michael Kratsios\|Kratsios (2026, pp. 31–32)]] |
 
 ---
@@ -268,7 +268,7 @@ updated: 2026-10-15
 > - **20 世纪前半叶 — 逻辑实证主义鼎盛与波普尔[[Falsification|证伪主义]]确立** 维也纳学派追求完全经验证实，波普尔（[[Karl Popper]]）提出证伪主义标准，确立检验与潜在反驳的核心标尺。
 > - **20 世纪 60–80 年代 — 库恩[[Paradigm|范式]]革命与[[Interpretive Paradigm|反实证主义]]哲学高涨** 库恩揭示常规科学与范式转换的历史社会嵌入性，科学方法纯粹客观中立的神话被打破；诠释学派与[[Critical Theory|批判理论]]崛起。
 > - **2000s — [[Nature of Science|科学本质]]与[[Practical Epistemology|实践认识论]]转向** [[William A. Sandoval|桑多瓦尔]]（[[Argument_Sandoval_2005_SE|Sandoval, 2005]]）提出区分形式与实践认识论，揭示中小学将科学方法教条化为单一实验步骤对学生认识论发展的损害。
-> - **2018 — 学科家族相似性与微观[[Epistemic Practices|认识论实践]]确立** [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] 运用维特根斯坦家族相似性解构科学方法五步法神话，确立跨领域认识论实践矩阵。
+> - **2018 — 学科家族相似性与微观[[Epistemic Practices|认识论实践]]确立** [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] 运用维特根斯坦家族相似性解构科学方法五步法神话，确立跨领域认识论实践矩阵。
 > - **2026 — 科学学反身实验与“金标准科学”评价转向** 白宫 [[Office of Science and Technology Policy|OSTP]]《科学：新黄金时代》报告（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）推动科学方法从哲学争鸣走向制度化反身实验——将因果实验、数据透明与可复现性应用于革新科研基金分配本身，并确立基于学术卓越的“金标准科学”评价原则。
 
 ---
@@ -301,11 +301,11 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统论述现代科学学（[[Metascience]]）如何将科学方法的因果实验与实证检验反身应用于评估和改革联邦科研资助机制本身（如抽签资助、非共识金券评审），并确立金标准科学评价原则。
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 批判学校教育中将科学方法简化为五步线性程序的教条神话，依据维特根斯坦家族相似性与微观[[Discourse|话语]][[Practical Epistemology|实践认识论]]，系统构建涵盖探究科学、工程设计与社会议题的跨领域实践矩阵。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 批判学校教育中将科学方法简化为五步线性程序的教条神话，依据维特根斯坦家族相似性与微观[[Discourse|话语]][[Practical Epistemology|实践认识论]]，系统构建涵盖探究科学、工程设计与社会议题的跨领域实践矩阵。
 > - [[Argument_Sandoval_2005_SE|Sandoval (2005)]] — 提出实践[[Epistemology|认识论]]与[[Formal Epistemology|形式认识论]]的[[Analytic Framework|分析框架]]，揭示学生探究活动与所持形式[[Epistemological Beliefs|认识论信念]]的脱节，批判中小学科学教育将科学方法教条化为单一线性规程的神话。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统梳理西方教育探究方法论从[[Positivism|实证主义]]向后实证与批判[[Paradigm|范式]]的演化历程，复原传统科学方法八阶段与五步经验进程，并从存在主义、法兰克福学派与吉登斯社会学维度清算其忽视主体能动性的缺陷。
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 阐明 19 世纪比较教育发轫期将科学方法运用于社会治理与道德改良的现代性源流，剖析朱利安借用分类、制表与事实收集为全人教化与和平治理服务的准实证构想。
-> - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] — 批判当代[[Evidence-Based Education|循证教育]]对科学方法的教条化应用，揭示将教学质量简化为[[Meta-analysis|元分析]][[Effect Size|效应量]]与[[Variable|变量]]控制，剥离了教学实践作为人际交往的生成性[[Ontology|本体论]]。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009)]] — 阐明 19 世纪比较教育发轫期将科学方法运用于社会治理与道德改良的现代性源流，剖析朱利安借用分类、制表与事实收集为全人教化与和平治理服务的准实证构想。
+> - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis and Rowe (2024)]] — 批判当代[[Evidence-Based Education|循证教育]]对科学方法的教条化应用，揭示将教学质量简化为[[Meta-analysis|元分析]][[Effect Size|效应量]]与[[Variable|变量]]控制，剥离了教学实践作为人际交往的生成性[[Ontology|本体论]]。
 > - [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]] — 从[[Theory of Knowledge|知识论]]视角界定科学方法的有效性限度与认识论边界，强调[[General Education|通识教育]]的核心在于理解科学方法能够支持哪些结论，以及哪些伦理与价值判断落在其解释范围之外。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 反思[[School Effectiveness|学校效能]]研究与量化评价中过度借用实证科学方法的认识论陷阱，揭示指标驱动的评价模式对微观教育复杂性的遮蔽。
 

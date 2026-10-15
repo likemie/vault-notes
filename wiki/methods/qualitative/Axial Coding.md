@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Axial Coding
@@ -179,7 +179,7 @@ updated: 2026-10-15
 
 巴克利与沃林（Buckley & Waring, 2009）在关于英国中小学儿童身体活动（Physical Activity）的质性探究中，系统展示了如何运用六要素模型将碎化的观察与访谈数据拼装为有机分析结构（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 561]]）：
 
-> [!case] Buckley & Waring（2009）儿童身体活动主轴编码范例
+> [!case] Buckley and Waring（2009）儿童身体活动主轴编码范例
 > - **[[Central Phenomenon\|核心现象]]** 儿童对体育课与课间身体活动的参与程度及态度模式。
 > - **因果条件** 同伴群体压力、家庭运动习惯、个人体育能力[[Self-Efficacy\|自我效能感]]。
 > - **情境脉络** 校园操场空间布局、气象条件、课程时间表安排。
@@ -213,4 +213,4 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] 经典理论与方法文献索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 详述主轴编码在[[Grounded Theory\|扎根理论]]编码阶梯中的枢纽定位，系统解析六要素[[Paradigm\|范式]]模型与儿童身体活动实证建模范例（Ch. 30）。
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 将主轴编码定位为系统化质性分析中连接[[Open Coding\|开放编码]]范畴与叙事[[Story Line\|故事线]]解释的核心分析步骤（Ch. 9）。
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 将主轴编码定位为系统化质性分析中连接[[Open Coding\|开放编码]]范畴与叙事[[Story Line\|故事线]]解释的核心分析步骤（Ch. 9）。

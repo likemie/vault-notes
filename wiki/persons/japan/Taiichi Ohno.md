@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Taiichi Ohno
@@ -133,7 +133,7 @@ updated: 2026-10-15
 > - **跨领域拓展至软件工程与现代治理** 其精益理念直接催生了软件开发中的敏捷开发（Agile）、看板开发（Kanban）与站点[[Reliability|可靠性]]工程（Site Reliability Engineering, SRE）中的无指责复盘（Blameless Post-Mortem）；在《[[Technological Republic|技术共和国]]》中被确立为现代高科技组织抵御官僚化内耗与培育[[Engineering Mindset|工程思维]]的关键方法论（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025, pp. 164–166]]）。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 探究大野耐一五问法在现代软件组织诊断、反免责文化与狐狸型工程[[Epistemology|认识论]]中的理论升华（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14, pp. 164–166]]）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 探究大野耐一五问法在现代软件组织诊断、反免责文化与狐狸型工程[[Epistemology|认识论]]中的理论升华（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14, pp. 164–166]]）。
 
 ---
 

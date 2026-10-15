@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Engaged Scholarship
@@ -69,7 +69,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **参与式学术（Engaged Scholarship，亦称合作式学术或协作式学术）**指学者与一线实践者作为平等的探究主体，共同界定现实难题、[[Design-Based Research\|设计研究]]、收集证据并转译应用的协同[[Knowledge Production\|知识生产]][[Paradigm\|范式]]。安德鲁·范德文（Andrew Van de Ven）与保罗·约翰逊（Paul Johnson）（2006）提出，理论与实践脱节的深层根源不在于信息能否被顺利传递（[[Knowledge Transfer\|知识转移]]问题），也不在于[[Theoretical Knowledge\|理论知识]]与[[Phronesis\|实践智慧]]的不可[[Commensuration\|通约]]（知识形态[[Heterogeneity\|异质性]]问题），而是**知识生产（Knowledge Production）方式本身的问题**——知识在何处、如何以及由谁生产，直接决定了理论与实践现场的距离。多主体在复杂问题上的合作探究从源头上自然消解了象牙塔与实践界的鸿沟。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 19)]]
+> **参与式学术（Engaged Scholarship，亦称合作式学术或协作式学术）** 指学者与一线实践者作为平等的探究主体，共同界定现实难题、[[Design-Based Research\|设计研究]]、收集证据并转译应用的协同[[Knowledge Production\|知识生产]][[Paradigm\|范式]]。安德鲁·范德文（Andrew Van de Ven）与保罗·约翰逊（Paul Johnson）（2006）提出，理论与实践脱节的深层根源不在于信息能否被顺利传递（[[Knowledge Transfer\|知识转移]]问题），也不在于[[Theoretical Knowledge\|理论知识]]与[[Phronesis\|实践智慧]]的不可[[Commensuration\|通约]]（知识形态[[Heterogeneity\|异质性]]问题），而是**知识生产（Knowledge Production）方式本身的问题**——知识在何处、如何以及由谁生产，直接决定了理论与实践现场的距离。多主体在复杂问题上的合作探究从源头上自然消解了象牙塔与实践界的鸿沟。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 19)]]
 
 > [!concept-lens] 概念透镜
 > - **核心指向** 强调知识生产主体的多元共创与民主化，将一线教育工作者从单纯的“研究受众或数据提供者”提升为“平等的联合探究者”。
@@ -136,7 +136,7 @@ updated: 2026-10-15
 > [!concept-lens] [[Knowledge Production\|知识生产]]方式的[[Epistemology\|认识论]]归因
 > 探讨理论为何难以指导实践，批判将脱节单纯归咎于传播技术或实践者能力赤字的线性偏见。
 
-> [!claim] Van de Ven & Johnson (2006) / [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]]
+> [!claim] Van de Ven and Johnson (2006) / [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]]
 > **知识生产决定理论距离** 知识在何处生产、如何生产以及由谁生产，决定了理论与现场的距离。传统大学体制假定学者独立在实验室或书斋中生产“科学真理”，再由外部渠道推销给一线学校，这种生产方式从起点就剥离了复杂的组织情境与人际动态。唯有将研究前沿迁移至学校与政策现场，让实践者作为共同主体参与知识的孕育与打磨，才能从源头上消除理论与实践的隔绝。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 19, 21–22)]]
 
 ---
@@ -146,7 +146,7 @@ updated: 2026-10-15
 > [!concept-lens] 学术激励机制对[[Knowledge Co-production\|知识共创]]的挤压
 > 探讨为何参与式学术受到广泛政策倡导，但在大学体制内却遭遇普遍的制度性冷遇。
 
-> [!claim] Cherney et al. (2012) / Burkhardt & Schoenfeld (2021) / [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]]
+> [!claim] Cherney et al. (2012) / Burkhardt and Schoenfeld (2021) / [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]]
 > **学术激励错位遏制协同参与** 大学内部的职称晋升、聘任考核与科研资源分配高度依赖在高影响因子学术期刊上的论文发表。参与式学术需要研究者深入实践基层，投入大量的时间与情感劳动以建立人际互信、协调组织矛盾并解决微观学情难题。然而，这些耗费巨大精力的合作过程在现行绩效评价中难以折算为有效业绩，导致学术人员面临参与协同的严重机会成本，驱使学者避开深层合作而回归纯书斋式发表。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 22)]]
 
 ---
@@ -192,7 +192,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - **[[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]]** — 引入参与式学术之[[Knowledge Production\|知识生产]][[Analytic Framework\|分析框架]]，深刻剖析大学学术激励错位与[[Knowledge Co-production\|知识共创]]模式在严密性、可复制性与可迁移性上的系统性张力。
-> - **Van de Ven & Johnson (2006)** — 开创性提出参与式学术理论，界定理论与实践脱节的三重解释框架，奠定协同知识生产的[[Epistemology\|认识论]]基础。
+> - **Van de Ven and Johnson (2006)** — 开创性提出参与式学术理论，界定理论与实践脱节的三重解释框架，奠定协同知识生产的[[Epistemology\|认识论]]基础。
 > - **Van de Ven (2007)** — 专著 *Engaged Scholarship: A Guide for Organizational and Social Research*，系统化参与式学术的钻石设计模型。
 > - **Cherney et al. (2012)** — 实证揭示大学内部同行评审与期刊偏好如何对学者参与教育决策与一线共创产生结构性抑制。
-> - **Burkhardt & Schoenfeld (2021)** — 探讨教育工程学研发路径中研究与实践的协同整合，批判传统学术生产文化对[[Design-Based Research\|设计研究]]的边缘化。
+> - **Burkhardt and Schoenfeld (2021)** — 探讨教育工程学研发路径中研究与实践的协同整合，批判传统学术生产文化对[[Design-Based Research\|设计研究]]的边缘化。

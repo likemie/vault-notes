@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-10
+updated: 2026-10-16
 ---
 
 # Propensity Score Matching
@@ -68,7 +68,7 @@ updated: 2026-10-10
 ## 定义
 
 > [!def] 方法定义
-> **倾向得分匹配（Propensity Score [[Matching]]，简称 PSM）**是由保罗·罗森鲍姆与唐纳德·鲁宾（Rosenbaum & Rubin, 1983）奠定的经典准实验[[Causality\|因果推断]]方法。其核心思想是：利用处理前丰富且关键的可观测基线协[[Variable\|变量]]向量 $\mathbf{X}_i$，通过概率回归模型将个体面临的多维混杂特征压缩为一维的条件参与概率标量——**倾向得分（Propensity Score）** $e(\mathbf{X}_i) = \Pr(Z_i = 1 \mid \mathbf{X}_i)$；进而在处理组与对照组之间寻找倾向得分高度相近的个体进行配对（Matching），以此模拟[[Randomised Controlled Trials\|随机对照试验]]中两组基线特征期望相等的无偏状态，有效校正由于非随机选择产生的可观测选择偏误（Selection on Observables）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
+> **倾向得分匹配（Propensity Score [[Matching]]，简称 PSM）** 是由保罗·罗森鲍姆与唐纳德·鲁宾（Rosenbaum & Rubin, 1983）奠定的经典准实验[[Causality\|因果推断]]方法。其核心思想是：利用处理前丰富且关键的可观测基线协[[Variable\|变量]]向量 $\mathbf{X}_i$，通过概率回归模型将个体面临的多维混杂特征压缩为一维的条件参与概率标量——**倾向得分（Propensity Score）** $e(\mathbf{X}_i) = \Pr(Z_i = 1 \mid \mathbf{X}_i)$；进而在处理组与对照组之间寻找倾向得分高度相近的个体进行配对（Matching），以此模拟[[Randomised Controlled Trials\|随机对照试验]]中两组基线特征期望相等的无偏状态，有效校正由于非随机选择产生的可观测选择偏误（Selection on Observables）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 大规模教育行政调查截面数据、学生追踪档案（如英国[[National Pupil Database\|国家学生数据库]]）中自愿或按规则采纳某项政策、课程模式或办学机制的非实验样本。
@@ -234,4 +234,4 @@ updated: 2026-10-10
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 详述了英国 [[Education Endowment Foundation\|EEF]] 突破对单一 [[Randomised Controlled Trials\|RCT]] 的教条依赖，设立“[[Researching School Choices\|研究学校选择]]”资助流，依托[[National Pupil Database\|国家学生数据库]]运用[[Difference-in-Differences\|双重差分法]]与倾向得分匹配评估学校宏观体制选择的因果成效。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详述了英国 [[Education Endowment Foundation\|EEF]] 突破对单一 [[Randomised Controlled Trials\|RCT]] 的教条依赖，设立“[[Researching School Choices\|研究学校选择]]”资助流，依托[[National Pupil Database\|国家学生数据库]]运用[[Difference-in-Differences\|双重差分法]]与倾向得分匹配评估学校宏观体制选择的因果成效。

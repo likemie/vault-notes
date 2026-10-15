@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Partnership Continuum
@@ -110,7 +110,7 @@ updated: 2026-10-15
 
 > [!example]
 > - vs [[Technology Transfer\|技术转移]] — 技术转移（专利许可、衍生企业）是 Partnership Continuum 上的一种特定合作形式，主要属于"研究者互动"领域和"经济发展"领域。连续体的范围要广得多，覆盖了学生培养、资源共享和机构合作等技术转移概念无法涵盖的维度
-> - vs Boccanfuso & Hall（2025）的活动-基础-特征三维框架 — 后者聚焦合作的**组织架构和制度安排**（使命领域、支撑基础、成功特征），Partnership Continuum 聚焦合作的**形式和深度光谱**。前者是"如何组织"，后者是"有哪些选择"
+> - vs Boccanfuso and Hall（2025）的活动-基础-特征三维框架 — 后者聚焦合作的**组织架构和制度安排**（使命领域、支撑基础、成功特征），Partnership Continuum 聚焦合作的**形式和深度光谱**。前者是"如何组织"，后者是"有哪些选择"
 > - vs 三螺旋（[[Triple Helix]]）— 三螺旋是大学-产业-政府三方互动的宏观理论模型，Partnership Continuum 则提供了三方可以在五个领域中以何种具体方式互动的微观操作清单
 
 ---

@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Early Steps
@@ -56,7 +56,7 @@ updated: 2026-09-17
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **Early Steps（早期起步，及其进阶版 Next Steps）**是由阿巴拉契亚州立大学（Appalachian State University）著名读写教育学者达雷尔·莫里斯（Darrell Morris）等学者研发的小学一年级早期读写专业教师一对一密集救济方案；其核心目标是针对小学一年级在识字与语音[[Decodification\|解码]]上处于全校最底层的极高危学生，由经过严格培训的专业认证教师实施每日 30 分钟的高密度临床诊断性辅导，在学年末使学生脱离阅读衰退危机。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> **Early Steps（早期起步，及其进阶版 Next Steps）** 是由阿巴拉契亚州立大学（Appalachian State University）著名读写教育学者达雷尔·莫里斯（Darrell Morris）等学者研发的小学一年级早期读写专业教师一对一密集救济方案；其核心目标是针对小学一年级在识字与语音[[Decodification\|解码]]上处于全校最底层的极高危学生，由经过严格培训的专业认证教师实施每日 30 分钟的高密度临床诊断性辅导，在学年末使学生脱离阅读衰退危机。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 研发始于 1990 年代中期，在弗吉尼亚州与北卡罗来纳州多所公立小学长期试点并系统评估，后续针对二年级儿童延伸开发了 Next Steps。

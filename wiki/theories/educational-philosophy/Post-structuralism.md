@@ -54,7 +54,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Post-structuralism
@@ -64,7 +64,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **后结构主义（Post-structuralism）**是对[[Structural Functionalism|结构功能主义]]与封闭系统[[Determinism\|决定论]]的核心反思，主张个体能动性（individual agency）优先于结构决定论。后结构主义认为社会成员并非系统预设角色的被动承载者，而是承载内在张力与矛盾的多元主体；教育研究中的数据（如对话、观察记录）乃至[[Artefact\|物质人工制品]]均应被视作通过表演性[[Discourse|话语]]建构的多义文本（texts/discourses）。其方法论根本任务在于“解构”（deconstruction），揭示意义的多重层次及特定意义的特权化合法化机制，并在参与者、研究者、受众与读者交织的多重视角网络中开展[[Reflective Thinking\|反思性探究]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 28–29)]]
+> **后结构主义（Post-structuralism）** 是对[[Structural Functionalism|结构功能主义]]与封闭系统[[Determinism\|决定论]]的核心反思，主张个体能动性（individual agency）优先于结构决定论。后结构主义认为社会成员并非系统预设角色的被动承载者，而是承载内在张力与矛盾的多元主体；教育研究中的数据（如对话、观察记录）乃至[[Artefact\|物质人工制品]]均应被视作通过表演性[[Discourse|话语]]建构的多义文本（texts/discourses）。其方法论根本任务在于“解构”（deconstruction），揭示意义的多重层次及特定意义的特权化合法化机制，并在参与者、研究者、受众与读者交织的多重视角网络中开展[[Reflective Thinking\|反思性探究]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 28–29)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向语言、文本、话语与能动主体之间的建构性张力，否定客观规律预设与单一本质主义意义。
@@ -165,7 +165,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心主张 | 方法论机制 | 代表学者与文献 |
 > |---|---|---|---|
 > | **主体能动性命题** | 个体并非既定结构的提线木偶，而是承载阶级、性别等内在多重张力的能动主体 | 锚定参与者自我认同、捕捉主体内在矛盾与[[Heterogeneity\|异质性]] | Foucault; Derrida; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 29)]] |
-> | **数据文本表演命题** | 观察、对话与人工制品皆为通过话语建构和表演的话语与文本，意义多重开放 | [[Discourse Analysis\|话语分析]]、文本细读、意义去中心化 | Francis (2010); Burman & Parker (1993) |
+> | **数据文本表演命题** | 观察、对话与人工制品皆为通过话语建构和表演的话语与文本，意义多重开放 | [[Discourse Analysis\|话语分析]]、文本细读、意义去中心化 | Francis (2010); Burman and Parker (1993) |
 > | **解构特权合法化命题** | 探究任务在于解构多层意义并揭示意义特权化机制，审视知识–权力生产链条 | 多重视角网络互证、反思性解构、反思研究者权威 | Derrida; Foucault; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 28)]] |
 
 ---

@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # The Education Trust
@@ -170,5 +170,5 @@ updated: 2026-10-15
 > | [[Educational Brokerage Agency]] | Concept | 机构功能：作为连接大学学术研究象牙塔与立法决策中枢的典型知识经纪中介。 |
 > | [[No Child Left Behind Act 2001]] | Fact (Policy) | 历史立法渊源：EdTrust 推动将亚群数据分解写入法案，确立了联邦循证问责的法理框架。 |
 > | [[Every Student Succeeds Act]] | Fact (Policy) | 后续法案转型：EdTrust 积极介入法案重新授权辩论，捍卫弱势群体的民权问责底线。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | Argument | 核心实证来源：系统分析 EdTrust 与 [[Achieve]] 等智库在通用标准议程设置中的证据动员逻辑。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | Argument | 核心实证来源：系统分析 EdTrust 与 [[Achieve]] 等智库在通用标准议程设置中的证据动员逻辑。 |
 > | [[Argument_Serpell_2020_EP\|Serpell (2020)]] | Argument | 核心实证来源：将 EdTrust 作为国会立法生态中典型的全国性知识经纪中介进行案例剖析。 |

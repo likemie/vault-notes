@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Trust Calibration
@@ -113,7 +113,7 @@ updated: 2026-10-15
 > [!concept-lens] 信任失调与权威让渡
 > 探讨信任失调如何从一般的行为顺从演化为深层的哲学与[[Epistemology|认识论]]让渡。
 
-> [!claim] Muir (1987); Lee & See (2004); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
+> [!claim] Muir (1987); Lee and See (2004); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **过度信任驱动的[[Epistemic Deference|认识论顺从]]** 传统工效学将[[Automation Bias|自动化偏差]]定性为有限注意力的认知节省策略；规范研究指出，当操作者在已接触到反常冲突证据的情境下依然顺从系统时（强自动化偏差），其根本驱动力是过度信任（Overtrust）。操作者单凭系统以往的高准确率或算法客观性光环，预先假定机器比自身拥有更高的认识特权，从而将最终[[Evaluative Judgement|评价性判断]]权威让渡给算法黑箱，发生了深层的[[Epistemic Deference|认识论顺从]]。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 10–12)]]
 
 ---
@@ -133,7 +133,7 @@ updated: 2026-10-15
 > [!concept-lens] 交互干预与动态校准
 > 探讨如何通过界面工程主动重构操作者的信任分配。
 
-> [!claim] Hoff & Bashir (2015); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
+> [!claim] Hoff and Bashir (2015); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **[[Epistemic Friction|认识论摩擦]]对信任失调的动态阻断** 静态警示与单向解释无法从根本上遏制过度信任；唯有在人机决策回路中注入生产性[[Epistemic Friction|认识论摩擦]]（如反思机器的[[Socrates|苏格拉底]]式追问与反驳型击败者的反例呈现），才能打破无反思的自动顺从惯性，促使操作者从被动接受转向主动审议，实现信任水平与系统客观能力的精准校准。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–25)]]
 
 ---
@@ -143,9 +143,9 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **过度信任实质命题** | 过度信任驱动强自动化偏差并演化为深层认识论顺从 | 高风险[[Man-Computer Symbiosis\|人机协同]]、临床医疗AI诊断、智能风控审批 | Muir (1987); Lee & See (2004); [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]] |
+> | **过度信任实质命题** | 过度信任驱动强自动化偏差并演化为深层认识论顺从 | 高风险[[Man-Computer Symbiosis\|人机协同]]、临床医疗AI诊断、智能风控审批 | Muir (1987); Lee and See (2004); [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]] |
 > | **客观理由解耦命题** | 信任校准独立于主观自信，取决于是否掌握情境反常理由 | 复杂专业决策、非标准数据场景、专家与AI冲突分析 | Jovchevski 等（2026） |
-> | **认知摩擦校准命题** | 依托反思机器与击败者注入认知摩擦以实现动态信任校准 | 智能交互界面设计、人机回路安全规程、可抗辩AI系统 | Hoff & Bashir (2015); Jovchevski et al. |
+> | **认知摩擦校准命题** | 依托反思机器与击败者注入认知摩擦以实现动态信任校准 | 智能交互界面设计、人机回路安全规程、可抗辩AI系统 | Hoff and Bashir (2015); Jovchevski et al. |
 
 ---
 
@@ -153,8 +153,8 @@ updated: 2026-10-15
 
 > [!dev-timeline] 信任校准概念的演变历程
 > - **1980s–1990s — 工效学与自动化信任奠基** Bonnie Muir (1987) 首次将社会心理学信任理论引入人机系统，界定信任校准为操作者主观信任与机器客观[[Reliability|可靠性]]（Reliability）的吻合度。
-> - **2004 — 动态信任框架与适当依赖模型** John D. Lee & Katrina A. See (2004) 在 *Human Factors* 发表里程碑综述，构建“信息—信念—信任—依赖”动态回路，系统辨析过度信任（Overtrust）与信任不足（Distrust）的促发机制。
-> - **2015 — 信任影响因素的多层三元整合** Kevin Anthony Hoff & Masooda Bashir (2015) 整合实证文献，提出倾向性信任（Dispositional）、情境性信任（Situational）与习得性信任（Learned）的三层分析模型。
+> - **2004 — 动态信任框架与适当依赖模型** John D. Lee and Katrina A. See (2004) 在 *Human Factors* 发表里程碑综述，构建“信息—信念—信任—依赖”动态回路，系统辨析过度信任（Overtrust）与信任不足（Distrust）的促发机制。
+> - **2015 — 信任影响因素的多层三元整合** Kevin Anthony Hoff and Masooda Bashir (2015) 整合实证文献，提出倾向性信任（Dispositional）、情境性信任（Situational）与习得性信任（Learned）的三层分析模型。
 > - **2026 — 社会[[Epistemology|认识论]]转向与客观理由确证** [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 将信任校准从心理测量与行为工效学拓展至规范认识论，论证过度信任向[[Epistemic Deference|认识论顺从]]转化的因果路径，确立自信解耦机制，并提出利用[[Defeater|击败者]]与反思机器校准批判性信任的交互架构。
 
 ---

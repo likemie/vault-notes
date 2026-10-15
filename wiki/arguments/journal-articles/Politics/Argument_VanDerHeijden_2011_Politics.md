@@ -62,7 +62,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_VanDerHeijden_2011_Politics"
@@ -247,8 +247,8 @@ issuing_organization: ""
 > | 演进传统 | 核心机制与侧重 | 代表学者与文献 | 典型治理后果与理论隐喻 |
 > |---|---|---|---|
 > | **行动者增厚**<br>（Thickening） | **纵向与横向增设组织主体**<br>在联邦、州与地方多级层级中叠加新机构，或引入私营与非营利主体。 | Eugene Belisle (1944); Lawrence Herson (1961); Neil Chamberlain (1969); Paul Light (1995) | **多手问题与管辖模糊**<br>层级重叠削弱治理责任，导致丹尼斯·汤普森（Denis Thompson, 1980）提出的多手问题（Problem of Many Hands）与管辖权冲突（Brenner, 1975）。（p. 14） |
-> | **[[Regulatory Ratchet\|规制棘轮]]**<br>（Regulatory Ratchet） | **横向与纵向叠加规制条文**<br>在既有法律体系顶端不断增设新规章、标准与审查细则。 | Clifton Kreps (1966); Eugene Bardach & Robert Kagan (1982); Richard Florida & Martin Kenney (1992) | **单向加码与合规负担**<br>规制如同单向棘轮只增不减，导致规则系统极度复杂冗余甚至陷入治理失能。（pp. 14–15） |
-> | **双重叠加**<br>（Actors & Instruments） | **同时增设新载体与新工具**<br>面对行政困境，既引入新型组织实体，又配套新型管理工具与财政契约。 | Bruce Smith (1983); Jamie Peck (1998); Kathleen Thelen (2004); James Mahoney & Kathleen Thelen (2010) | **系统复合杂合化**<br>新旧管理装置在同一制度空间复杂交织，开启深层结构重塑。（p. 15） |
+> | **[[Regulatory Ratchet\|规制棘轮]]**<br>（Regulatory Ratchet） | **横向与纵向叠加规制条文**<br>在既有法律体系顶端不断增设新规章、标准与审查细则。 | Clifton Kreps (1966); Eugene Bardach and Robert Kagan (1982); Richard Florida and Martin Kenney (1992) | **单向加码与合规负担**<br>规制如同单向棘轮只增不减，导致规则系统极度复杂冗余甚至陷入治理失能。（pp. 14–15） |
+> | **双重叠加**<br>（Actors & Instruments） | **同时增设新载体与新工具**<br>面对行政困境，既引入新型组织实体，又配套新型管理工具与财政契约。 | Bruce Smith (1983); Jamie Peck (1998); Kathleen Thelen (2004); James Mahoney and Kathleen Thelen (2010) | **系统复合杂合化**<br>新旧管理装置在同一制度空间复杂交织，开启深层结构重塑。（p. 15） |
 
 这三大演变传统分别扎根于战后行政扩张、规制国家兴起与公共治理转型的具体历史情境。（pp. 14–15）
 

@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Institute for Effective Education
@@ -131,7 +131,7 @@ updated: 2026-10-15
 > [!indicators]- 影响力维度与指标
 > - **网络覆盖规模** 创设并协同管理全英近 40 所区域研究学校，间接辐射周边数千所基础教育公立薄弱学校。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]
 > - **清算平台收录** E4I 数据库收录并独立评定逾百项中小学读写、数学及科技干预方案，成为英格兰学校管理层采购教学资源的重要参考源。
-> - **欧洲证据基础设施典范** 在 [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] 欧洲证据生态全景调研中，IEE 被列为全欧少数兼具“证据生产（Generation）”与“[[Knowledge Mobilisation\|知识动员]]（Mobilisation）”双重机能的国家级典范机构之一。（pp. 32–33）
+> - **欧洲证据基础设施典范** 在 [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] 欧洲证据生态全景调研中，IEE 被列为全欧少数兼具“证据生产（Generation）”与“[[Knowledge Mobilisation\|知识动员]]（Mobilisation）”双重机能的国家级典范机构之一。（pp. 32–33）
 
 > [!finding-cards] 关键成效与辐射影响
 > - **催生校际中介组织[[Paradigm\|范式]]突破** IEE 与 [[Education Endowment Foundation\|EEF]] 联手打造的 [[Research Schools Network\|RSN]] 机制，彻底改变了英国以往由大学研究者向一线单向推介研究的官僚模式，开创了由一线教师充当“同伴中介”的现代[[Epistemic Governance\|知识治理]]范式。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]
@@ -150,7 +150,7 @@ updated: 2026-10-15
 > > - **策略综合倡导者（[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022]]）** 指出打包方案评级极易退化为仅凭 1–2 项单兵试验即妄断有效的脆弱标准（Table 7.1 显示国际打包类门户 100% 存在该缺陷），且容易被商业机构游说绑架，不如聚焦通用教学法安全。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 154–155)]]
 
 > [!critique] 外部学术反思
-> - **知识[[Reusability Paradox\|可重用性悖论]]（Reusability Paradox）** [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021, pp. 35–36)]] 指出，IEE 整理的大量严谨因果证据高度源自英美特定课程与制度情境。当这些方案进入欧洲非英语国家或不同学段时，直接面临跨语言、跨文化与课程标准脱节的深层障壁；方案越针对特定学情精细设计，跨情境复用的成本与失效风险就越高。
+> - **知识[[Reusability Paradox\|可重用性悖论]]（Reusability Paradox）** [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021, pp. 35–36)]] 指出，IEE 整理的大量严谨因果证据高度源自英美特定课程与制度情境。当这些方案进入欧洲非英语国家或不同学段时，直接面临跨语言、跨文化与课程标准脱节的深层障壁；方案越针对特定学情精细设计，跨情境复用的成本与失效风险就越高。
 
 > [!warning] 实施局限与可迁移性边界
 > 1. **非营利中介的财务可持续性脆弱** 作为大学依托型独立机构，IEE 缺乏类似 [[Education Endowment Foundation\|EEF]] 拥有 1.25 亿英镑长期留本基金（Endowment）的制度保障，高度依赖外部周期性资助，导致其在资助到期后难以维持独立的实体法人运作。
@@ -166,9 +166,9 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] — 系统评析欧洲证据基础设施的演进格局，将 IEE 确立为证据生成与转化兼备的混合型组织典范，并提出知识[[Reusability Paradox\|可重用性悖论]]对跨国循证迁移的制约。
+> - [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] — 系统评析欧洲证据基础设施的演进格局，将 IEE 确立为证据生成与转化兼备的混合型组织典范，并提出知识[[Reusability Paradox\|可重用性悖论]]对跨国循证迁移的制约。
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 考察英国[[What Works Network\|有效性网络]]（WWN）与中介生态，阐释 IEE 与 [[Education Endowment Foundation\|EEF]] 联合创设[[Research Schools Network\|研究学校网络]]（RSN）以打通证据应用最后一公里的历史经验。
-> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 剖析现代教育[[Knowledge Mediation\|知识中介]]组织形态演化，将 IEE 与 EEF 孵化的 RSN 确立为中介向校际[[Communities of Practice|实践共同体]]规模化下沉的标杆案例。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 剖析现代教育[[Knowledge Mediation\|知识中介]]组织形态演化，将 IEE 与 EEF 孵化的 RSN 确立为中介向校际[[Communities of Practice|实践共同体]]规模化下沉的标杆案例。
 
 ---
 

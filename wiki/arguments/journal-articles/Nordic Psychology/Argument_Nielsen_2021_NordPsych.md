@@ -55,7 +55,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: '2026-06-08'
+updated: 2026-10-16
 year: 2021
 doi: ""
 citation_aliases:
@@ -96,11 +96,11 @@ citation_aliases:
 > 4. **论证步骤三——反馈[[Meta-analysis\|元分析]]的详细审查**
 >    - Hattie 的反馈效应基于 23 项元分析（67,931 人），d=0.73
 >    - 最重的 5 项（62,761 人，92%）逐一审查：
->      - Lysakowski & Walberg (1980)：研究强化技术（reinforcement），非反馈；Hattie 本人明确批评"奖励不应被视为反馈"
->      - Lysakowski & Walberg (1982)：研究线索、参与和纠正性强化，非反馈
->      - Kluger & DeNisi (1996)：唯一定义与 Hattie 一致的元分析——但其效应量仅 d=0.38，且 38% 研究产生负面效果
+>      - Lysakowski and Walberg (1980)：研究强化技术（reinforcement），非反馈；Hattie 本人明确批评"奖励不应被视为反馈"
+>      - Lysakowski and Walberg (1982)：研究线索、参与和纠正性强化，非反馈
+>      - Kluger and DeNisi (1996)：唯一定义与 Hattie 一致的元分析——但其效应量仅 d=0.38，且 38% 研究产生负面效果
 >      - Witt et al. (2004)：研究教师即时性（immediacy），非反馈；22/34 项研究未发表（博士论文、硕士论文、会议报告）
->      - Swanson & Lussier (2001)：研究考官辅助／动态评估，非反馈
+>      - Swanson and Lussier (2001)：研究考官辅助／动态评估，非反馈
 >    - 5 项最重元分析中 4 项未研究 Hattie 所定义的反馈
 >
 > 5. **结论** Hattie 的技术理性立场导致[[Dialogue in Education\|教育对话]]过于狭窄，消除了人的意向性（intentionality）和意义寻求。学生被理解为[[Problem Solving\|问题解决]]者而非意向性行动者。人际对话被反馈机制取代。研究教学的出发点应是研究学校的日常实践以及学生、教师和家长参与教育的意义

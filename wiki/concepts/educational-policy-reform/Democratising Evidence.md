@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Democratising Evidence
@@ -214,7 +214,7 @@ updated: 2026-10-15
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022, p. 203)]] | 全球教育与医学科研出版与公共研发投资 | 跨国比较与文献计量分析 | 医疗 vs 教育科研投入与知识综合论文产出比率 | 公共研发支出资金比约为 1.75:1，但高阶研究综合论文年产出比高达 26:1 | — | 说明教育知识综合与累积性证据生产体系存在系统性供给赤字 |
-> | [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022, p. 204)]] 转述 Makel & Plucker (2014) | 全球前 100 种教育学术期刊 | 期刊论文全景文献计量审查 | 复现性研究发表占比 | 顶级教育期刊中复现性论文占比仅为 0.13% | — | 反映教育科研严重缺乏重复检验与成果稳健性验证机制 |
+> | [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022, p. 204)]] 转述 Makel and Plucker (2014) | 全球前 100 种教育学术期刊 | 期刊论文全景文献计量审查 | 复现性研究发表占比 | 顶级教育期刊中复现性论文占比仅为 0.13% | — | 反映教育科研严重缺乏重复检验与成果稳健性验证机制 |
 > | [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022, p. 214)]] | 匈牙利赫约凯赖斯图尔小学及辐射网络 | 校本[[Action Research\|行动研究]]与区域推广案例 | [[Complex Instruction Programme\|复合教学计划]]（CIP）合作辐射的中小学校数量 | 成功辐射推广至匈牙利全境近 200 所中小学校 | — | 证实大学-学校平等协作组织诊断能够带来系统性规模化辐射成效 |
 
 ---
@@ -224,5 +224,5 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — 汇聚 [[Vivian Tseng]] 与 Makito Yurita 的专题论辩，系统奠定证据民主化的[[Epistemology\|认识论]]批判、资助制度重构准则以及对功利可用性修辞的专业受托伦理反思。
 > - [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 梳理[[OECD\|经合组织]]国家[[Evidence Ecosystem\|证据生态系统]]的制度演进，探讨从单一线性[[Knowledge Transfer\|知识转移]]向多元利益相关者协同共创的全球政策趋势。
-> - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 在特刊中阐述[[Knowledge Mobilisation\|知识动员]]与跨界中介人的培育路径，为证据民主化中[[Research-Practice Partnership\|研究-实践伙伴关系]]的微观运行机制提供实证案例支撑。
+> - [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] — 在特刊中阐述[[Knowledge Mobilisation\|知识动员]]与跨界中介人的培育路径，为证据民主化中[[Research-Practice Partnership\|研究-实践伙伴关系]]的微观运行机制提供实证案例支撑。
 

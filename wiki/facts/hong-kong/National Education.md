@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 定义
@@ -86,7 +86,7 @@ updated: 2026-10-15
 
 > [!info] 理论基础
 > - [[Nation Building through Education]] — 中共通过教育在边疆地区推行统一的"[[Zhonghua Minzu\|中华民族]]"认同
-> - [[Membership-Creating Function of Education]] — Ramirez & Boli (1987) 揭示的更深层结构：香港国民教育的强化不是一个"例外"现象，而是现代民族国家教育系统的基础功能——通过教育划定"谁属于我们"的边界——在香港情境中的策略性强化。[[Argument_Amos_2022_Springer\|Amos (2022, pp.54–55)]] 的分析表明，公立教育自 18 世纪在欧洲诞生起，就同时编码了"普遍包容"（对公民）和"边界排斥"（对外来者）的双重逻辑。香港国民教育从 1997 年后的温和渐进到 2020 年后的强制推行，体现了 membership-creating 从"低强度运作"到"高强度运作"的切换——不是功能的改变，是强度的改变
+> - [[Membership-Creating Function of Education]] — Ramirez and Boli (1987) 揭示的更深层结构：香港国民教育的强化不是一个"例外"现象，而是现代民族国家教育系统的基础功能——通过教育划定"谁属于我们"的边界——在香港情境中的策略性强化。[[Argument_Amos_2022_Springer\|Amos (2022, pp.54–55)]] 的分析表明，公立教育自 18 世纪在欧洲诞生起，就同时编码了"普遍包容"（对公民）和"边界排斥"（对外来者）的双重逻辑。香港国民教育从 1997 年后的温和渐进到 2020 年后的强制推行，体现了 membership-creating 从"低强度运作"到"高强度运作"的切换——不是功能的改变，是强度的改变
 > - **Vickers (2023)** — 习近平的民族复兴项目以"中国梦"为名，通过教育强化中央集权、消除区域文化差异
 
 ---
@@ -120,11 +120,11 @@ updated: 2026-10-15
 
 
 > [!warning] 与边疆民族建构策略的平行性
-> [[Argument_Yan_2025_JCS\|Yan & Morris (2025)]] 将香港国民教育与中共在西藏、新疆、内蒙古的边疆教育政策并置分析，揭示了统一的治理逻辑：
-> - Leibold & Dorjee (2024) 在西藏记录了强制性国民教育如何消除地方语言和文化认同
+> [[Argument_Yan_2025_JCS\|Yan and Morris (2025)]] 将香港国民教育与中共在西藏、新疆、内蒙古的边疆教育政策并置分析，揭示了统一的治理逻辑：
+> - Leibold and Dorjee (2024) 在西藏记录了强制性国民教育如何消除地方语言和文化认同
 > - Tobin (2024) 在新疆记录了"普通话化"的教育政策
 > - [[Argument_Bulag_2024_CE\|Bulag (2024)]] 在内蒙古记录了"[[Zhonghua Minzu\|中华民族]]"叙事如何替代蒙古族历史叙事
-> - [[Argument_Yan_2025_JCS\|Yan & Morris (2025, p. 490)]] 将香港纳入同一框架，论证这是中共在边疆地区推行"中华民族"统一认同的连贯策略——区别在于香港的'华化'（sinicisation）被更谨慎地执行，先以 LS 的温和"中国背景"为入口，后以 CSD 的强制[[Patriotic Education|爱国教育]]收尾。
+> - [[Argument_Yan_2025_JCS\|Yan and Morris (2025, p. 490)]] 将香港纳入同一框架，论证这是中共在边疆地区推行"中华民族"统一认同的连贯策略——区别在于香港的'华化'（sinicisation）被更谨慎地执行，先以 LS 的温和"中国背景"为入口，后以 CSD 的强制[[Patriotic Education|爱国教育]]收尾。
 >
 > **目前状态** 国际学术界日益将此视为跨国比较的研究对象，但在中国大陆内部这一比较被视为政治敏感。
 

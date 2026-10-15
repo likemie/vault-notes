@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # AI Literacy
@@ -80,7 +80,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> 人工智能素养（AI Literacy）是指个体理解人工智能（AI）的基本工作原理、能力边界、概率生成机制与社会伦理影响，能够在学习、工作与日常生活中负责任地使用智能工具，将其作为**放大（Amplify）人类认知与[[Creativity\|创造力]]**的协同[[Scaffolding\|脚手架]]，并在算法生成的表面语义流畅性面前维持**[[Epistemological Vigilance\|认识论警觉]]**，坚守不将独立思考与[[Critical Thinking\|批判性思维]]盲目外包（Outsource）的综合素养与行动胜任力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 10–13)]]
+> 人工智能素养（AI Literacy）是指个体理解人工智能（AI）的基本工作原理、能力边界、概率生成机制与社会伦理影响，能够在学习、工作与日常生活中负责任地使用智能工具，将其作为**放大（Amplify）人类认知与[[Creativity\|创造力]]** 的协同[[Scaffolding\|脚手架]]，并在算法生成的表面语义流畅性面前维持 **[[Epistemological Vigilance\|认识论警觉]]**，坚守不将独立思考与[[Critical Thinking\|批判性思维]]盲目外包（Outsource）的综合素养与行动胜任力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 10–13)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 从初级的“工具操作技巧（如单纯输入提示词）”跃升为涵盖算法机制理解、[[Metacognition\|元认知监控]]、证据核查与伦理反思的高阶心智胜任力。
@@ -189,7 +189,7 @@ updated: 2026-10-15
 > [!concept-lens] [[Epistemic Practices\|认识论实践]]与[[Reflexivity\|反思性]]协同
 > 探讨如何防止人工智能素养窄化为工具主义操作流，阐明将模型生成物置于学科[[Epistemic Ideals\|认识论标准]]下审视的高阶素养内涵。
 
-> [!claim] [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]
+> [!claim] [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]
 > **从提示词技巧转向[[Epistemology\|认识论]]探究实践** 当前教育[[Discourse|话语]]常将人工智能素养窄化为孤立的操作技术、提示词技巧（Prompt Technique）或学术诚信合规难题（Ng et al., 2021）。然而，真正的关键在于培养学生将人工智能生成物作为“探究对象”（Object of Inquiry）而非“权威交付成果”的认识论实践能力。高水平的人工智能素养必然与学科[[Evidence Standards\|证据标准]]、[[Evaluative Judgement\|评价性判断]]（Evaluative Judgement, Tai et al., 2018）以及[[Feedback Literacy\|反馈素养]]（Feedback Literacy, Carless & Boud, 2018）深度融合：学生不仅要能获取算法反馈，更要能批判性追问“输出遵循了哪种学科标准”、“什么证据能推翻该结论”，并在[[Man-Computer Symbiosis|人机协同]]中对最终成果承担不可推卸的[[Epistemic Responsibility\|认识论责任]]。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 1, 6, 8)]]
 
 ---
@@ -213,7 +213,7 @@ updated: 2026-10-15
 > - **2010 年代 — [[Computational Thinking\|计算思维]]与编程教育（Computational Thinking）** 强调逻辑抽象、算法分解、模式识别与代码编程能力的普及。
 > - **2020 年左右 — AI 素养概念提出与框架雏形** Ng et al. (2021) 率先提出涵盖“知晓、应用、评价、伦理”的 AI 素养四维概念模型。
 > - **2026 年初 — 批判性 AI 素养与生成式智能时代[[Epistemology\|认识论]]重塑** 随着大语言模型普及，研究从工具操作技能全面转向“[[Epistemological Vigilance\|认识论警觉]]、认知防卸载、[[Man-Computer Symbiosis|人机协同]]反思与主体性维护”。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 31–32)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3)]]
-> - **2026 年 — [[Epistemic Practices\|认识论实践]]转向与[[Evaluative Judgement\|评价性判断]]融合** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 批判将人工智能素养简化为提示词操作或合规防弊的狭隘倾向，提出将其与学科[[Epistemic Ideals\|认识论标准]]、评价性判断及[[Feedback Literacy\|反馈素养]]深度整合，确立将模型输出作为探究对象、对最终结论承担实质责任的批判性素养[[Paradigm\|范式]]。
+> - **2026 年 — [[Epistemic Practices\|认识论实践]]转向与[[Evaluative Judgement\|评价性判断]]融合** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 批判将人工智能素养简化为提示词操作或合规防弊的狭隘倾向，提出将其与学科[[Epistemic Ideals\|认识论标准]]、评价性判断及[[Feedback Literacy\|反馈素养]]深度整合，确立将模型输出作为探究对象、对最终结论承担实质责任的批判性素养[[Paradigm\|范式]]。
 
 ---
 
@@ -271,7 +271,7 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] — 强调基础教育必须将批判性 AI 素养列为面向未来的关键交叉素养之一，确立“放大认知而非[[Cognitive Offloading\|认知外包]]”的育人底线。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项高等教育实证研究，将 AI 素养确立为驱动学生从被动使用转向[[Reflexivity\|反思性]]对话、维持[[Epistemological Vigilance\|认识论警觉]]的关键前置调节[[Variable\|变量]]。
-> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 批判将人工智能素养窄化为操作技巧的工具论偏向，系统阐述将算法输出作为探究对象并融合[[Evaluative Judgement\|评价性判断]]与[[Feedback Literacy\|反馈素养]]的[[Epistemology\|认识论]]重构路径。
+> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 批判将人工智能素养窄化为操作技巧的工具论偏向，系统阐述将算法输出作为探究对象并融合[[Evaluative Judgement\|评价性判断]]与[[Feedback Literacy\|反馈素养]]的[[Epistemology\|认识论]]重构路径。
 
 ---
 
@@ -287,4 +287,4 @@ updated: 2026-10-15
 > | [[Cognitive Offloading\|认知卸载]] | 边界划定 | 指导学习者区分机械信息搜集的良性卸载与剥离[[Evaluative Judgement\|评价性判断]]的破坏性卸载。 |
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] | 政策与课程标准 | 确立国家课程中贯穿式 AI 素养框架与“放大而非替代认知”的育人底线。 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | 实证[[Interaction Effect\|调节效应]] | 实证确证显性 AI 素养培训是驱动[[Critical Thinking\|批判性思维]]与[[Creativity\|创造力]]协同发展的关键调节[[Variable\|变量]]。 |
-> | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] | [[Epistemology\|认识论]]重构 | 将 AI 素养从提示词技巧提升至学科认识论探究实践与反馈评价性判断。 |
+> | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] | [[Epistemology\|认识论]]重构 | 将 AI 素养从提示词技巧提升至学科认识论探究实践与反馈评价性判断。 |

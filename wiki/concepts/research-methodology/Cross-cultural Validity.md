@@ -40,7 +40,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Cross-cultural Validity
 
@@ -66,7 +66,7 @@ updated: 2026-10-15
 > - **第二阶段：识别文化变异性的有意义维度**
 >   Hofstede (1980) 的维度为代表——个体主义-集体主义、权力距离、不确定性规避、男性气质-女性气质和长期-短期取向。此阶段被批评将国家等同于文化，且将个体行为等同于群体行为（[[Ecological Fallacy\|生态谬误]]）。
 > - **第三阶段：文化理论模型**
->   使用文化如何影响个体的理论模型来解释跨文化差异——如 Markus & Kitayama (1991) 关于认知、情感和动机的研究，Nisbett (2005) 关于思维过程和认知的研究。被批评对"文化成分"的经验检验有限。
+>   使用文化如何影响个体的理论模型来解释跨文化差异——如 Markus and Kitayama (1991) 关于认知、情感和动机的研究，Nisbett (2005) 关于思维过程和认知的研究。被批评对"文化成分"的经验检验有限。
 > - **第四阶段：建立理论-经验链接**
 >   当前前沿——在文化[[Variable\|变量]]的经验研究与假设这些链接的理论模型之间建立系统性"链接"（linkages），将理论预测与经验数据对应验证。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 179–180)]]
 
@@ -114,5 +114,5 @@ updated: 2026-10-15
 ## 围绕概念形成的命题
 
 > [!claim] 跨文化数据是嵌套的，需要多水平建模
-> Matsumoto & Yoo (2006) 提示跨文化数据是**多层嵌套**的（nested）——个体嵌套于群体，群体嵌套于文化，文化嵌套于社会和生态。在单层次上分析跨文化数据（如仅比较两个国家的均值）忽略了这种嵌套结构——指向了**多水平建模（multilevel modelling）**这一统计技术的必要性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 186)]]
+> Matsumoto and Yoo (2006) 提示跨文化数据是**多层嵌套**的（nested）——个体嵌套于群体，群体嵌套于文化，文化嵌套于社会和生态。在单层次上分析跨文化数据（如仅比较两个国家的均值）忽略了这种嵌套结构——指向了**多水平建模（multilevel modelling）** 这一统计技术的必要性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 186)]]
 

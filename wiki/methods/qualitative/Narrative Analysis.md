@@ -48,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Narrative Analysis
@@ -163,4 +163,4 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|Cohen et al. (2011, Ch. 29)]] — 系统介绍叙事与传记分析进路：以 Bruner 的故事理论、Labov 的叙事结构、传记的时序重构与最终叙事的多种建构方式说明如何以叙事形式组织质性数据。
-> - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart & Towne (2003)]] — 记录美国 2000 年卡斯尔草案（H.R. 4875）将叙事分析法定定性为“源自人文学科传统、仅在因素无法控制时采用的初步形式”的立法史料，论证学术界如何依托六[[Big Science|大科学]]探究原则反驳这种等级规制（pp. 33–34）。
+> - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] — 记录美国 2000 年卡斯尔草案（H.R. 4875）将叙事分析法定定性为“源自人文学科传统、仅在因素无法控制时采用的初步形式”的立法史料，论证学术界如何依托六[[Big Science|大科学]]探究原则反驳这种等级规制（pp. 33–34）。

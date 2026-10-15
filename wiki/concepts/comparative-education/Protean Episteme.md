@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Protean Episteme
@@ -203,7 +203,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **论述代际演变命题** | 比较教育四重论述代际与时代智识政治语境的深刻共振 | 学科史谱系梳理与范式演变长周期考察 | Kazamias (2001, 2009a); Hans (1949); Kandel (1933) |
-> | **方法论主义批判命题** | 单一实证[[Scientific Paradigm\|科学范式]]将研究异化为脱离情境与价值的技术崇拜 | 比较研究设计反思与实证量化过度偏向批判 | Barber (1972); Noah & Eckstein (1969); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] |
+> | **方法论主义批判命题** | 单一实证[[Scientific Paradigm\|科学范式]]将研究异化为脱离情境与价值的技术崇拜 | 比较研究设计反思与实证量化过度偏向批判 | Barber (1972); Noah and Eckstein (1969); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] |
 > | **历史健忘症诊断命题** | 学科实证繁荣背后历史维度的放逐危机与历史失忆症风险 | 学科研究策略元评估与史学传统重构呼吁 | Larsen (2001); Kazamias (2001, 2009a) |
 
 ---

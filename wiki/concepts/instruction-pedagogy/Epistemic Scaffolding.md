@@ -45,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Epistemic Scaffolding
@@ -82,7 +82,7 @@ updated: 2026-10-15
 > | **核心引导目标** | 知识评估标准、因果辩护与认识论准则 | 任务操作路径、软件使用与实验步骤 | 学科领域概念、事实网络与理论定义 | 时间管理、进度规划与通用注意监控 |
 > | **所解决的认知困境** | 不知如何判断算法输出或主张的真伪与充分性 | 不知如何按步骤推进操作流程 | 缺乏完成任务所需的背景知识与事实 | 学习过程缺乏自我规划与通用反思 |
 > | **典型干预形式** | [[Scientific Explanation\|科学解释]]标准量规、认识论反思提问语 | 操作导航、界面提示条、步骤核对表 | [[Concept Mapping\|概念图]]、术语表、知识点摘要卡 | 计划检查清单、进度自评量表 |
-> | **代表性学者** | Lin & Puntambekar (2019); [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] | Quintana et al. (2004) | Reiser (2004) | Zimmerman (2002) |
+> | **代表性学者** | Lin and Puntambekar (2019); [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] | Quintana et al. (2004) | Reiser (2004) | Zimmerman (2002) |
 
 ---
 
@@ -129,7 +129,7 @@ updated: 2026-10-15
 > [!concept-lens] [[Man-Computer Symbiosis|人机共生]]学习与多维[[Epistemological Vigilance\|认识论警觉]]激发维度
 > 聚焦[[Generative Artificial Intelligence\|生成式人工智能]]深度介入科学探究的情境，阐明单一支架的局限以及标准与提问双轨协同驱动全面认知审验的内在逻辑。
 
-> [!claim] [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]]
+> [!claim] [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]]
 > **学科标准与反思提问双轨支架对三维认识论警觉的互补驱动** 在利用生成式人工智能建构[[Scientific Explanation\|科学解释]]时，单一形式的支架难以应对多模态算法输出的复杂性：
 > - **学科评价标准的直接与间接功能** 科学解释四标准（相关性、因果叙事、概念框架、表征适切性）作为显性[[Epistemic Ideals\|认识论标准]]，直接指导学生对 AI 生成文本与图表的科学完整性、因果机制和表征适切性进行内容评估，并间接激发对其背后证据来源与自我理解的关注。
 > - **[[Reflexivity\|反思性]]提问提示语的显性功能** 针对“这与课本一致吗”、“谁支持该观点”、“我们真正理解了吗”等反思提示语，显性引导学生对 AI 展开第二手信源审查与接收者自我认知监控，同时这些提问又始终锚定在学科解释质量的评价标准之上。
@@ -142,8 +142,8 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **学科外显化命题** | 使科学确证与论证标准显性化，降低元认识论负荷以支持真实探究 | 计算机支持的协作探究、科学实验设计、论证教学 | Lin & Puntambekar (2019); Barzilai et al. (2020) |
-> | **双轨人机协同命题** | 学科标准与反思提问互补协同，驱动对生成式 AI 输出的多维批判审问与主体能动性维系 | 生成式 AI 辅助科学学习、人机协同科学解释、多模态教学 | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] |
+> | **学科外显化命题** | 使科学确证与论证标准显性化，降低元认识论负荷以支持真实探究 | 计算机支持的协作探究、科学实验设计、论证教学 | Lin and Puntambekar (2019); Barzilai et al. (2020) |
+> | **双轨人机协同命题** | 学科标准与反思提问互补协同，驱动对生成式 AI 输出的多维批判审问与主体能动性维系 | 生成式 AI 辅助科学学习、人机协同科学解释、多模态教学 | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] |
 
 ---
 
@@ -152,7 +152,7 @@ updated: 2026-10-15
 > [!dev-timeline] 概念演变
 > - **2019 — CSCL [[Epistemology\|认识论]]支架概念奠基** Lin & Puntambekar 明确提出并界定认识论支架，将其与传统程序性、概念性支架区分开来，强调外显化科学探究底层认识论的重要性。
 > - **2020–2021 — 分布式支架理论深化** Puntambekar 提出分布式支架理论，阐明认识论支架如何协同分布于教师对话、学习材料与数字化工具中。
-> - **2026 — [[Man-Computer Symbiosis|人机协同]]解释与双轨支架系统** [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] 将认识论支架拓展至生成式 AI 协同学习领域，构建“显性学科标准 + 反思提问提示语”双轨认识论支架体系，实证解析其激活初中生三维[[Epistemological Vigilance\|认识论警觉]]的微观机制。
+> - **2026 — [[Man-Computer Symbiosis|人机协同]]解释与双轨支架系统** [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] 将认识论支架拓展至生成式 AI 协同学习领域，构建“显性学科标准 + 反思提问提示语”双轨认识论支架体系，实证解析其激活初中生三维[[Epistemological Vigilance\|认识论警觉]]的微观机制。
 
 ---
 
@@ -181,11 +181,11 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026, pp. 6–22)]] | 韩国 8 名初中生（4 对配对），两节科学人机协同解释课（植物[[Growth\|生长]]与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像[[Transcription in Qualitative Research\|转录]]、数字生成物、访谈） | 显性学科解释标准与反思提问双轨支架的作用机制 | 学科标准直接引导内容评估并间接辐射信源/自身监控；反思提示语显性驱动信源与自我评估并锚定于内容标准；协同驱动 4 轮提示词迭代与图像修改 | 质性深度案例分析 | 证实双轨显性[[Epistemology\|认识论]]支架是中学生在人机协同中维系三维[[Epistemological Vigilance\|认识论警觉]]的关键机制保障 |
+> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026, pp. 6–22)]] | 韩国 8 名初中生（4 对配对），两节科学人机协同解释课（植物[[Growth\|生长]]与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像[[Transcription in Qualitative Research\|转录]]、数字生成物、访谈） | 显性学科解释标准与反思提问双轨支架的作用机制 | 学科标准直接引导内容评估并间接辐射信源/自身监控；反思提示语显性驱动信源与自我评估并锚定于内容标准；协同驱动 4 轮提示词迭代与图像修改 | 质性深度案例分析 | 证实双轨显性[[Epistemology\|认识论]]支架是中学生在人机协同中维系三维[[Epistemological Vigilance\|认识论警觉]]的关键机制保障 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 系统构建并实证检验了由[[Scientific Explanation\|科学解释]]四标准与[[Reflexivity\|反思性]]提问提示语构成的显性[[Epistemology\|认识论]]双轨支架，揭示其在初中生[[Man-Computer Symbiosis|人机协同]]科学解释建构中激活[[Epistemological Vigilance\|认识论警觉]]的微观互动路径。
+> - [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] — 系统构建并实证检验了由[[Scientific Explanation\|科学解释]]四标准与[[Reflexivity\|反思性]]提问提示语构成的显性[[Epistemology\|认识论]]双轨支架，揭示其在初中生[[Man-Computer Symbiosis|人机协同]]科学解释建构中激活[[Epistemological Vigilance\|认识论警觉]]的微观互动路径。

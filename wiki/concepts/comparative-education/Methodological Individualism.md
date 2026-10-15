@@ -49,7 +49,7 @@ related_persons: []
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Methodological Individualism
@@ -138,7 +138,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **微观行动基底** | 宏观制度与政策变迁需建立在个体行动者动机与决策机制之上 | 组织社会学、[[Rational Action Theory\|理性选择理论]]、政策执行微观分析 | Weber (1922); Popper (1945); Boudon (1982); Elster (1989) |
-> | **个体主义局限与赤字批判** | 单一聚焦个体特征会导致制度盲区，并在实证中生产个体赤字偏见 | [[Evidence-Based Education\|循证教育]]改革反思、教师专业发展评价、研究使用研究 | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]; Brown & Zhang (2016); [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
+> | **个体主义局限与赤字批判** | 单一聚焦个体特征会导致制度盲区，并在实证中生产个体赤字偏见 | [[Evidence-Based Education\|循证教育]]改革反思、教师专业发展评价、研究使用研究 | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]; Brown and Zhang (2016); [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
 
 ---
 
@@ -178,7 +178,7 @@ updated: 2026-10-15
 > > [!axis] 心理学还原 vs 教师专业实践的情境复杂性
 > > 在教育领域，批评者指出将[[Research Utilization\|研究使用]]简化为教师个人的理性选择或技能高低，割裂了教学实践与组织制度、育人伦理之间的共生关系。
 > >
-> > - **Brown & Zhang (2016)** 尝试在理性选择框架下解释教师循证行为的合意性。
+> > - **Brown and Zhang (2016)** 尝试在理性选择框架下解释教师循证行为的合意性。
 > > - **[[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]** 批判这种个体理性假定将非使用简单归因为非理性或能力赤字，掩盖了真实课堂中复杂的专业[[Knowledge Integration\|知识整合]]需求。
 
 ---

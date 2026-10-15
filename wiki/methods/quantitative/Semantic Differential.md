@@ -29,7 +29,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-07-20
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Semantic Differential
 
@@ -60,7 +60,7 @@ updated: 2026-10-15
 > | 量表形式 | 形容词 ←→ 反义词的连续体 | 有序的等级选项（如强烈不同意至强烈同意） |
 > | 典型标度 | 通常为七点 | 通常为五或七点 |
 > | 核心假设 | 双极性（bipolarity） | 单维性（unidimensionality） |
-> | 开发者 | Osgood, Suci & Tannenbaum（1957） | Rensis Likert（1932） |
+> | 开发者 | Osgood, Suci and Tannenbaum（1957） | Rensis Likert（1932） |
 
 > [!boundary]- 概念边界
 > - 不等于 [[Likert Scale\|李克特量表]] — 李克特量表测量同意程度，语义差异量表测量语义位置。

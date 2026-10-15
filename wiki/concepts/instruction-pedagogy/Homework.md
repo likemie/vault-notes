@@ -74,7 +74,7 @@ related_instruments:
 confidence: high
 status: active
 created: '2026-06-08'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Homework
@@ -109,7 +109,7 @@ updated: 2026-10-15
 > |---|---|---|---|---|
 > | **效应评估属性** | **干预效果（Intervention Effect）**<br>实验组布置作业 vs 对照组不布置作业 | **相关效果（Correlational Effect）**<br>自然状态下完成作业时长与考分的统计相关 | 前者回答作业能否导致学业提升，后者极易混杂学生初始智力、家庭背景与学业动机（做更多作业的优等生原本成绩就更好），两种[[Effect Size\|效应量]]不可混为一谈。 | [[Argument_Higgins_2016_ROE\|Higgins (2016, p. 44)]] |
 > | **认知发展阶段** | **小学家庭作业（Primary Homework）**<br>以行为习惯、阅读兴趣与规则适应为主 | **中学家庭作业（Secondary Homework）**<br>以学科深度理解、长时记忆提取与独立探究为主 | 小学生[[Metacognition\|元认知监控]]与[[Working Memory\|工作记忆]]有限，过度作业收益微弱且易诱发家庭冲突；中学生具备[[Learner Autonomy\|自主学习]]策略，作业带来实质学业附加值。 | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[EEF Teaching and Learning Toolkit\|EEF Toolkit]] |
-> | **[[Feedback\|教学反馈]]机制** | **逐本细致批改（Marking Books）**<br>教师在每本作业上逐一核查、打分并手写批语 | **全班集中反馈（Whole-Class Feedback）**<br>快速通览识别共性漏洞，课堂针对性点拨重构 | 逐本批改耗费巨量非教学时间但循证学业收益微弱；全班集中反馈大幅解放教师精力，在短周期内实现更高教学诊断效能。 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, p. 56)]] |
+> | **[[Feedback\|教学反馈]]机制** | **逐本细致批改（Marking Books）**<br>教师在每本作业上逐一核查、打分并手写批语 | **全班集中反馈（Whole-Class Feedback）**<br>快速通览识别共性漏洞，课堂针对性点拨重构 | 逐本批改耗费巨量非教学时间但循证学业收益微弱；全班集中反馈大幅解放教师精力，在短周期内实现更高教学诊断效能。 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 56)]] |
 > | **[[Meta-analysis\|元分析]]比较基线** | **有作业 vs 无作业（Baseline A）**<br>绝对干预有无对比 | **丰富拓展作业 vs 常规作业（Baseline B）**<br>不同作业质量或批改密度的相对对比 | 元分析若将 Baseline A 与 Baseline B 粗暴合并，会导致某些研究的处理条件在另一些研究中沦为对照基准，彻底瓦解[[Counterfactual\|反事实]]有效性。 | [[Argument_Simpson_2017_JEP\|Simpson (2017, p. 7)]] |
 
 ---
@@ -135,7 +135,7 @@ updated: 2026-10-15
 > [!concept-lens] 学习机制的反馈核心说与工作量悖论
 > 课外作业的促学机制并非“耗时越多越好”，缺乏即时有效反馈的重复性做题只会固化错误概念；优化反馈流向是提升作业效能与减轻教师负担的双赢杠杆。
 
-> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, p. 56)]]
+> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 56)]]
 > **教师微观决策与批改反馈的因果解构** 切斯特·埃多瓦尔德（Chester Edovald）与克莱尔·内维尔（Claire Nevill）系统回顾 EEF 针对“[[Teacher Choices\|教师选择]]（Teacher choices）”开展的因果研究试点，深刻解构了学校传统作业批改的无效神话：
 > 1. **逐本批改的工作量陷阱** 传统学校文化普遍要求教师逐本逐页精细批改作业（Marking Books），被默认是保障教学质量的基石；然而教师[[Questionnaire\|问卷]]与实证调查显示，海量的书面批改耗尽了教师备课与反思时间，但学生往往仅扫一眼分数即扔置一边，书面批语极少转化为实质性概念纠偏。
 > 2. **全班集中反馈的微型试验探索** 一线教师迫切需要解答：全班集中反馈（Whole-Class [[Feedback]]，即通览作业提取典型共性错误并在课上集中引导学生自我订正）是否比逐本耗时批改更能促进学习？为攻克此类日常微观决策难以开展经典昂贵 [[Randomised Controlled Trials\|RCT]] 的瓶颈，EEF 于 2018 年启动新型试点，采用被试内设计（within-participant designs）与近端过程性指标，以短周期、小样本高灵敏度因果试验，直接为作业反馈策略的科学化与去官僚化提供证据支持。
@@ -171,7 +171,7 @@ updated: 2026-10-15
 > [!concept-lens] 评价导向异化与中间认识动作可恢复性危机
 > 分析大语言模型如何通过一键交付使传统的课后成品作业失去考核效度，阐明向过程性探究与概念独立复现能力转型的必要性。
 
-> [!claim] [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]
+> [!claim] [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]
 > **静态成品作业的效度瓦解与可恢复性考评重构** 在[[Generative Artificial Intelligence\|生成式人工智能]]介入后，作业考核面临的核心危机是“无摩擦委派”对中间认识动作的剥离。当教育考评只奖励光鲜精美的最终成品（如结构完整的小论文、无语病的解题），却让推导过程与论证辩护隐形不可见时，全盘委托技术便成为学生的“理性选择”。此时学生虽能交出高水平作业，却无法阐明结论的证据依据，丧失了在脱离工具后自主复现推理的“可恢复性（Recoverability）”。因此，作业[[Paradigm\|范式]]必须前移至全流程思维追踪：引入分阶段草稿追踪、对抗性质询反思日志与思维决策记录，并结合无技术辅助的概念迁移测试与口头答辩，使作业考核重新聚焦于学生的实际心智劳动与认识责任。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 5–6, 8)]]
 
 ---
@@ -197,7 +197,7 @@ updated: 2026-10-15
 > - **1980–2000 年代初 — 早期量化[[Meta-analysis\|元分析]]与“越多越好”迷思** 随着教育实证量化兴起，哈里斯·库珀（Harris Cooper）与沃尔伯格（Walberg）等团队开展第一代元分析，确立了作业量与[[Academic Achievement\|学业成绩]]的正相关，但在实践中催生了机械刷题与作业过量的功利倾向。
 > - **2000 年代末至 2010 年代中 — [[Meta-meta-analysis\|元综合]]反思与[[Construct\|构念]][[Heterogeneity\|异质性]]批判** [[John Hattie\|约翰·哈蒂]]（John Hattie）发布元综合（$d = 0.29$）后，学界掀起对平均[[Effect Size\|效应量]]的方法学大反思：特哈特（[[Argument_Terhart_2011_JCS\|Terhart, 2011]]）揭示 21% 班级提分的微弱实质；斯努克等（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]）确立小学与中学学段断层；希金斯（[[Argument_Higgins_2016_ROE\|Higgins, 2016]]）与辛普森（[[Argument_Simpson_2017_JEP\|Simpson, 2017]]）系统批判“苹果与橙子”构念混淆及基线不对等性。
 > - **2018 年至今 — 因果循证时代教师微观决策与微型试验转向** [[Education Endowment Foundation\|EEF]] 在 2018 年审议资助机制时，推动因果研究从宏观外部商业项目走向“教师微观选择（[[Teacher Choices]]）”，针对“逐本批改 vs 全班集中反馈”等日常作业反馈决策，探索被试内微型试验与形成性诊断支持。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 56)]]
-> - **2026 — 智能时代作业[[Paradigm\|范式]]危机与可恢复性考评转向** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 揭示大语言模型一键交付功能导致传统静态成品作业效度坍塌，诊断“唯成品论”考评如何诱导学生剥离中间认识动作，倡导将作业重心前移至全流程思维追踪、对抗性质询日志与脱离工具后的独立推导可恢复性测试。
+> - **2026 — 智能时代作业[[Paradigm\|范式]]危机与可恢复性考评转向** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 揭示大语言模型一键交付功能导致传统静态成品作业效度坍塌，诊断“唯成品论”考评如何诱导学生剥离中间认识动作，倡导将作业重心前移至全流程思维追踪、对抗性质询日志与脱离工具后的独立推导可恢复性测试。
 
 ---
 
@@ -248,7 +248,7 @@ updated: 2026-10-15
 > | [[EEF Teaching and Learning Toolkit\|EEF Toolkit]]（小学作业专题） | 英格兰及全球小学学段 | 循证综合元分析与试验追踪 | 小学课外作业与学业进展 | 平均增益仅相当于 $+1\sim 2$ 个月额外学业进展；成本极低但伴生挫败感风险 | [[EEF Padlock Security Rating\|证据安全性评级]]偏低（挂锁等级低） | 证实小学阶段家庭作业学业附加值微弱，不宜作为提分核心抓手 |
 > | [[EEF Teaching and Learning Toolkit\|EEF Toolkit]]（中学作业专题） | 英格兰及全球中学学段 | 循证综合元分析与试验追踪 | 中学课外作业与学业进展 | 平均增益相当于 $+5$ 个月额外学业进展；短小、频繁、目标清晰并配有及时反馈的作业效果最佳 | 证据安全性为中等（3 挂锁） | 确立中学阶段高质量作业对学业深化的显著正向贡献 |
 > | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | Hattie (2009) 纳入的 161 项作业实证研究 | [[Meta-meta-analysis\|元综合]]统计效应深度解构与概率换算 | 班级提分成功率、身高类比差异 | 仅 21% 的班级在引入作业后出现学业提升；效应量 $d = 0.29$ 仅相当于 180cm 与 182cm 身高差异；65% 正向，35% 中性/负向 | — | 深度揭露平均效应量在具体班级教学情境中的微弱真实效力与不确定性 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, p. 56)]] | 英格兰中小学教师日常教学实践 | 被试内微型试验试点（[[Teacher Choices]] strand） | 逐本逐页批改作业（Marking Books）vs 全班集中形成性反馈（Whole-Class [[Feedback]]） | 针对一线教师最关切的微观决策，旨在评估全班集中反馈在显著减轻教师工作负荷的同时能否维持或提升学生理解深度 | 探索性因果试验试点 | 推动因果评估向教师日常微观决策渗透，打破传统作业精细批改的工时内卷神话 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 56)]] | 英格兰中小学教师日常教学实践 | 被试内微型试验试点（[[Teacher Choices]] strand） | 逐本逐页批改作业（Marking Books）vs 全班集中形成性反馈（Whole-Class [[Feedback]]） | 针对一线教师最关切的微观决策，旨在评估全班集中反馈在显著减轻教师工作负荷的同时能否维持或提升学生理解深度 | 探索性因果试验试点 | 推动因果评估向教师日常微观决策渗透，打破传统作业精细批改的工时内卷神话 |
 
 ---
 
@@ -259,8 +259,8 @@ updated: 2026-10-15
 > - [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] — 解构家庭作业的学段断层（小学 $d = 0.15$ vs 中学 $d = 0.64$）与学科差异，警示笼统报告单一效应量对教育决策与教学实践的误导性。
 > - [[Argument_Terhart_2011_JCS\|Terhart (2011)]] — 通过身高类比与 21% 班级提分概率换算，具象化解构 Hattie $d = 0.29$ 效应量背后的真实微弱性与 35% 负面/中性研究事实。
 > - [[Argument_Simpson_2017_JEP\|Simpson (2017)]] — 以经典家庭作业[[Meta-analysis\|元分析]]为例，深入揭示不同研究中对照组基线定义的混乱倒错，论证基线不对等性对合成因果效应量的破坏。
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 记录[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）在 2018 年启动的“[[Teacher Choices\|教师选择]]”新型微型试验试点，探索采用被试内设计检验逐本批改作业与全班集中反馈对学业产出与教师负担的因果影响。
-> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 阐明[[Generative Artificial Intelligence\|生成式人工智能]]一键生成对静态成品作业的颠覆性冲击，提出向全流程推导[[Process Tracing|过程追踪]]、反思决策日志与无技术迁移测试转型的作业重构方案。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）在 2018 年启动的“[[Teacher Choices\|教师选择]]”新型微型试验试点，探索采用被试内设计检验逐本批改作业与全班集中反馈对学业产出与教师负担的因果影响。
+> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 阐明[[Generative Artificial Intelligence\|生成式人工智能]]一键生成对静态成品作业的颠覆性冲击，提出向全流程推导[[Process Tracing|过程追踪]]、反思决策日志与无技术迁移测试转型的作业重构方案。
 
 ---
 
@@ -275,6 +275,6 @@ updated: 2026-10-15
 > | [[Epistemic Agency\|认识主体性]] | 评价危机 | 唯成品作业导致学生直接向算法委托认知动作，剥夺了自主负责的认识主体性。 |
 > | [[Epistemic Friction\|思维摩擦]] | 认知机理 | 过程性作业设计通过对抗查错与思维日志，强行保留必要的思维摩擦。 |
 > | [[Argument_Higgins_2016_ROE\|Higgins (2016)]] | [[Critique of Meta-analysis\|元分析批判]] | 揭露家庭作业[[Meta-analysis\|元分析]]中将异质活动粗暴合并的“苹果与橙子”[[Construct\|构念]]混淆。 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] | [[Teacher Choices\|教师选择]]试点 | 记录全班集中反馈替代逐本批改内卷的教师微观因果试验。 |
-> | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] | 智能时代重构 | 揭示大模型导致成品作业效度崩塌，主张转向可恢复性与过程思维考核。 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | [[Teacher Choices\|教师选择]]试点 | 记录全班集中反馈替代逐本批改内卷的教师微观因果试验。 |
+> | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] | 智能时代重构 | 揭示大模型导致成品作业效度崩塌，主张转向可恢复性与过程思维考核。 |
 

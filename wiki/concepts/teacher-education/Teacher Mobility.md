@@ -142,7 +142,7 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **话语反差定性命题** | 欧洲将教师流动建构为一体化美德，美国将其问题化为薄弱学校师资危机 | 跨大西洋教师政策比较与专业发展制度设计 | Sayer (2006); Elfers et al. (2006); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] |
+> | **话语反差定性命题** | 欧洲将教师流动建构为一体化美德，美国将其问题化为薄弱学校师资危机 | 跨大西洋教师政策比较与专业发展制度设计 | Sayer (2006); Elfers et al. (2006); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] |
 > | **空间资源极化命题** | 教师跨校流动倾向于避开少数族裔与弱势生源学校，加剧校际师资不平等 | 绩效问责制下城市薄弱校教师留任与流失实证研究 | Scafidi et al. (2007) |
 
 ---
@@ -178,11 +178,11 @@ updated: 2026-10-16
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 美国各州公立中小学教师流动与城市薄弱学校留任数据（转引自 Elfers et al., 2006; Scafidi et al., 2007） | 教师人事档案追踪与跨校流动计量回归 | 教师离校流动率、生源种族构成与教师资历层级 | 实证分析证实高资质教师从少数族裔集中学校流向白人中产主导学校的概率显著偏高，构成薄弱学校师资不稳定的主要来源 | 大样本行政数据计量分析 | 揭示了[[School Choice\|择校]]与问责环境下师资自发流动的空间马太效应，不同国家体制具有[[Heterogeneity\|异质性]] |
+> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 美国各州公立中小学教师流动与城市薄弱学校留任数据（转引自 Elfers et al., 2006; Scafidi et al., 2007） | 教师人事档案追踪与跨校流动计量回归 | 教师离校流动率、生源种族构成与教师资历层级 | 实证分析证实高资质教师从少数族裔集中学校流向白人中产主导学校的概率显著偏高，构成薄弱学校师资不稳定的主要来源 | 大样本行政数据计量分析 | 揭示了[[School Choice\|择校]]与问责环境下师资自发流动的空间马太效应，不同国家体制具有[[Heterogeneity\|异质性]] |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 对比欧洲将教师流动视为政策理想与美国将其视为薄弱校流失危机的[[Discourse|话语]]张力，揭示围绕移动的正当性划分本质。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 对比欧洲将教师流动视为政策理想与美国将其视为薄弱校流失危机的[[Discourse|话语]]张力，揭示围绕移动的正当性划分本质。

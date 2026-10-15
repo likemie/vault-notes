@@ -71,7 +71,7 @@ related_methods:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Steering at a Distance
@@ -184,7 +184,7 @@ updated: 2026-10-15
 > [!concept-lens] 跨国政策社会学与[[Governing by Numbers|数字治理]]维度
 > 探讨超国家组织如何在缺乏主权强制力的情境下，运用[[Performance Indicators|绩效指标]]与问责框架实现远程政策对齐。
 
-> [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]]
+> [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]
 > **比较绩效指标作为远处掌舵的治理技术** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）揭示，[[OECD|经合组织]]等超国家机构将远距离操纵（steering at a distance）吸纳为新自由主义[[New Public Management|新公共管理]]（OECD, 1995）的核心操作装置。由于缺乏对主权国家立法的直接强制管辖权，经合组织借由比较绩效测度、国际基准对标（benchmarking）、质量保证规制与透明问责技术，构建起超越国界的远处掌舵机制；这一机制有效地将全球教育治理从关于教育目的、社会公平与文化传承的哲学辩论，全面置换为服务全球[[Knowledge-Based Economy|知识经济]]劳动力市场需求的经济效率核算。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
 ---
@@ -195,7 +195,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **命题一：院校自治与负反馈调控** | 废止事前审批并依托[[Block Grants\|统包拨款]]与事后质评，激发专业系统自适应活力 | 欧陆公共行政改革、[[Higher Education Act of 1965\|高等教育法]]制化 | [[Argument_Kickert_1995_Governance\|Kickert (1995)]] |
-> | **命题二：跨国绩效测度与远程掌舵** | 依托国际基准与指标问责远处掌舵，将治理重心收敛至经济效率 | 超国家教育治理、新公共管理政策社会学 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] |
+> | **命题二：跨国绩效测度与远程掌舵** | 依托国际基准与指标问责远处掌舵，将治理重心收敛至经济效率 | 超国家教育治理、新公共管理政策社会学 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] |
 
 ---
 
@@ -252,4 +252,4 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 结合[[Reflexivity|反思性]]实践者视角与公共管理理论，系统论证荷兰高教远距离操纵治理[[Paradigm|范式]]的提出背景、核心支柱与制度悖论。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 447–448)]] — 揭示[[OECD|经合组织]]如何将[[New Public Management|新公共管理]]远处掌舵转化为跨国比较绩效技术，重构主权国家教育治理优先次序。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 447–448)]] — 揭示[[OECD|经合组织]]如何将[[New Public Management|新公共管理]]远处掌舵转化为跨国比较绩效技术，重构主权国家教育治理优先次序。

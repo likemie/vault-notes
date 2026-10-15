@@ -91,7 +91,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-11
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 
 # Centre for Educational Research and Innovation
@@ -217,7 +217,7 @@ updated: 2026-10-14
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] — 考证 CERI 创设的历史契机，阐述其如何确立教育增长的定性维度并作为四大支柱之一维系成员国多元自主权。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] — 考证 CERI 创设的历史契机，阐述其如何确立教育增长的定性维度并作为四大支柱之一维系成员国多元自主权。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 梳理 [[OECD]] 内部机构演变史，论证 CERI 及其主管 [[Jarl Bengtsson]] 如何启动 [[International Indicators of Education Systems\|INES]] 项目开启全球教育数据治理转向。
 > - [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] — 记录 CERI 在 1980 年代孕育指标网络与《[[Education at a Glance\|教育概览]]》的科学争论档案，呈现学者与决策者围绕数据[[Commensuration\|通约]]性的博弈。
 > - [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] — 系统评析 OECD CERI 在高等教育领域推行的[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]原型评价量规及其在真实教学情境中的赋能机制。

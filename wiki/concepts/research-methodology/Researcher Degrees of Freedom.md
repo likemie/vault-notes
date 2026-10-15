@@ -36,13 +36,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 ## 定义
 
 > [!info] 定义
-> 研究者自由度（Researcher Degrees of Freedom）由 Simmons, Nelson & Simonsohn (2011) 提出，指研究者在数据收集和分析过程中可以做出一系列未被披露的决策——这些决策的累积效应可能使几乎任何结果呈现为统计显著。在教育项目评估中，开发者可能利用这些自由度来优化研究结果，构成[[Developer Effect\|开发者效应]]的可能机制之一。
+> 研究者自由度（Researcher Degrees of Freedom）由 Simmons, Nelson and Simonsohn (2011) 提出，指研究者在数据收集和分析过程中可以做出一系列未被披露的决策——这些决策的累积效应可能使几乎任何结果呈现为统计显著。在教育项目评估中，开发者可能利用这些自由度来优化研究结果，构成[[Developer Effect\|开发者效应]]的可能机制之一。
 >
 > > "Another way that developers could potentially influence study results... is by influencing study design and data cleaning and analysis decisions to produce the most favorable study results possible." ([[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 429, citing Simmons, Nelson, & Simonsohn, 2011]])
 
@@ -74,7 +74,7 @@ updated: 2026-09-17
 
 > [!example] 与相关概念的区别
 > - **vs [[Publication Bias]]** — 研究者自由度发生在**分析阶段**（研究内的选择性决策），发表偏倚发生在**发表阶段**（研究间的选择性传播）
-> - **vs [[Preregistration]]** — 预注册是限制研究者自由度的主要机制：通过预先锁定分析计划，减少事后自由度；但 Gelman & Loken (2014) 论证预注册不能完全消除自由度——"研究者可以通过观察数据学到很多"
+> - **vs [[Preregistration]]** — 预注册是限制研究者自由度的主要机制：通过预先锁定分析计划，减少事后自由度；但 Gelman and Loken (2014) 论证预注册不能完全消除自由度——"研究者可以通过观察数据学到很多"
 
 ## 实证发现
 
@@ -85,7 +85,7 @@ updated: 2026-09-17
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **Gelman & Loken (2014)** 提出" researcher degrees of freedom "的概念也可被理解为"数据的花园小径"（garden of forking paths）：研究者并非恶意操纵，而是在面对数据后自然做出看似合理的分析选择——问题在于这些选择的累积效应
+> - **Gelman and Loken (2014)** 提出" researcher degrees of freedom "的概念也可被理解为"数据的花园小径"（garden of forking paths）：研究者并非恶意操纵，而是在面对数据后自然做出看似合理的分析选择——问题在于这些选择的累积效应
 > - **在开发者研究中的因果不确定性** [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]] 承认不能明确判断[[Developer Effect\|开发者效应]]在多大程度上来自研究者自由度 vs. [[Publication Bias\|发表偏倚]] vs. [[Implementation Fidelity\|实施忠实度]]差异
 
 ## 相关案例／政策

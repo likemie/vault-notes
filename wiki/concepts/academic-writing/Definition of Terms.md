@@ -29,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Definition of Terms
@@ -48,7 +48,7 @@ Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scien
 
 ## 一般指南
 
-综合 Locke et al. (2014) 和 Wilkinson (1991) 的建议，[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 提出以下原则：
+综合 Locke et al. (2014) 和 Wilkinson (1991) 的建议，[[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] 提出以下原则：
 
 1. **首次出现即定义** 术语在文中第一次出现时就应给出定义，使读者从一开始就清楚其含义。
 2. **使用[[Operationalization|操作化]]定义** 定义应写在一个具体的、操作化或应用层面，而非抽象的概念层面。操作化定义使用具体语言，精确说明研究者在研究中如何使用该术语。
@@ -92,7 +92,7 @@ Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scien
 ## 定义示例
 
 > [!example] VanHorn-Grassmeyer (1998) 的术语定义
-> 在一项关于高校学生事务新专业人员反思实践的[[Mixed Methods Research\|混合方法研究]]中，VanHorn-Grassmeyer 在第一章的独立"Definition of Terms"节中详细定义了"Individual Reflection"和"Student Affairs Professional"两个关键术语。每个定义引用 Schon (1983)、Argyris & Schon (1978)、Baskett & Marsick (1992) 等文献中的约定含义，展示了将术语定义建立在已有学术文献基础之上的做法（引自 Creswell & Creswell, 2022）。
+> 在一项关于高校学生事务新专业人员反思实践的[[Mixed Methods Research\|混合方法研究]]中，VanHorn-Grassmeyer 在第一章的独立"Definition of Terms"节中详细定义了"Individual Reflection"和"Student Affairs Professional"两个关键术语。每个定义引用 Schon (1983)、Argyris and Schon (1978)、Baskett and Marsick (1992) 等文献中的约定含义，展示了将术语定义建立在已有学术文献基础之上的做法（引自 Creswell & Creswell, 2022）。
 
 ---
 

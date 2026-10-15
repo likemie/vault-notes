@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-09
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Cultural Relativism
@@ -207,4 +207,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 揭示[[Western Civilization Course|西方文明课]]解体留下的道德真空（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Ch07]]），并结合本尼迪克特人类学假说剖析相对主义对社会辨别力与科技创新的削弱（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch18]]）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 揭示[[Western Civilization Course|西方文明课]]解体留下的道德真空（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Ch07]]），并结合本尼迪克特人类学假说剖析相对主义对社会辨别力与科技创新的削弱（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch18]]）。

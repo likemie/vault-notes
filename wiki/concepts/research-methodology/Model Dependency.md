@@ -64,7 +64,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Model Dependency
@@ -141,7 +141,7 @@ updated: 2026-10-15
 > [!concept-lens] 探讨维度：[[Causality\|因果推断]]在数学模型层面的高度脆弱性
 > 计量方法学研究揭示：教育干预的有效性判定绝非仅仅取决于教学方案本身，而是高度受制于后端统计分析师选用的回归公式结构。
 
-> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, p. 52)]]; Xiao, Higgins, & Kasim (2016)
+> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 52)]]; Xiao, Higgins, & Kasim (2016)
 > **多模型复算下的显著性漂移** 杜伦大学团队对英国 17 项大规模教育 [[Randomised Controlled Trials\|RCT]] 原始数据进行的四模型复算显示：超过三分之二的干预项目，其是否具有[[Statistical Significance\|统计显著性]]完全取决于使用的是简单均值对比、[[Ordinary Least Squares\|OLS]] 回归、[[Hierarchical Linear Model\|MLM]] 还是 [[Generalized Estimating Equations\|GEE]] 模型。某些干预在研究者自选的模型中呈现耀眼的 $p < .05$，一旦放入严格校正学校两级嵌套的随机截距模型中，置信区间便直接跨越零点。这意味着如果没有统一的模型规范，政策制定者可能基于统计模型的偶然选择，错误资助无效方案或扼杀有潜力的实践。
 
 ---
@@ -151,7 +151,7 @@ updated: 2026-10-15
 > [!concept-lens] 探讨维度：从开放数据到流程规程化的治理转向
 > 开放科学研究指出：公开原始微观数据虽然保障了可复现性（Reproducibility），但无法自主解决可比性（Comparability）；唯有剥夺事后自由挑选模型的裁量权，才能维护循证科学的公信力。
 
-> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, pp. 52–53)]]
+> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, pp. 52–53)]]
 > **统计分析指南的制度化诞生** 面对 17 项试验复算揭示的模型依赖性危机，[[Education Endowment Foundation\|EEF]] 迅速将学术危机转化为治理法典，于 2018 年出台了行业里程碑《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）。该指南硬性确立三条基准：
 > 1. 主效应模型必须强制纳入基线[[Pre-test and Post-test\|前测]]成绩作为主要协[[Variable\|变量]]；
 > 2. 强制采用[[Intraclass Correlation Coefficient\|校正组内相关系数]]的聚类稳健[[Standard Error\|标准误]]模型；
@@ -164,7 +164,7 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
-> | **推断脆弱性命题** | 揭示同一数据集在不同建模假定下[[Effect Size\|效应量]]与显著性的质变漂移 | [[Quantitative Research\|量化研究]]方法论、二阶复算审计、Meta分析 | Xiao, Higgins, & Kasim (2016); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] |
+> | **推断脆弱性命题** | 揭示同一数据集在不同建模假定下[[Effect Size\|效应量]]与显著性的质变漂移 | [[Quantitative Research\|量化研究]]方法论、二阶复算审计、Meta分析 | Xiao, Higgins, & Kasim (2016); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] |
 > | **制度防范治理命题** | 论证前置[[Preregistration\|预注册]]与强制统计分析计划（SAP）是消解模型依赖性唯一可靠路径 | 循证清算标准、科研治理、开放科学规范 | Demack (2019); The EEF (2018) |
 
 ---
@@ -204,7 +204,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | Xiao, Higgins, & Kasim (2016); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] | 英国 [[Education Endowment Foundation\|EEF]] 资助并归档于 NPD 的 17 项早期完成学校 [[Randomised Controlled Trials\|RCT]] 试验 | 原始微观数据四模型（[[Ordinary Least Squares\|OLS]]、[[Analysis of Covariance\|ANCOVA]]、[[Hierarchical Linear Model\|HLM]]、[[Generalized Estimating Equations\|GEE]]）全量并行复算审计 | 各模型下的干预效应量点估计值、标准误与 $p$ 值 | 17 项试验中多达 12 项试验对分析模型表现出高度敏感性；多项干预在简单模型中显著而在分层模型中跨越零点 | $12/17$ 试验跨模型结论不一致 | 证明大规模教育实证推断存在普遍而严峻的模型依赖性风险 |
+> | Xiao, Higgins, & Kasim (2016); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 英国 [[Education Endowment Foundation\|EEF]] 资助并归档于 NPD 的 17 项早期完成学校 [[Randomised Controlled Trials\|RCT]] 试验 | 原始微观数据四模型（[[Ordinary Least Squares\|OLS]]、[[Analysis of Covariance\|ANCOVA]]、[[Hierarchical Linear Model\|HLM]]、[[Generalized Estimating Equations\|GEE]]）全量并行复算审计 | 各模型下的干预效应量点估计值、标准误与 $p$ 值 | 17 项试验中多达 12 项试验对分析模型表现出高度敏感性；多项干预在简单模型中显著而在分层模型中跨越零点 | $12/17$ 试验跨模型结论不一致 | 证明大规模教育实证推断存在普遍而严峻的模型依赖性风险 |
 > | Demack (2019) | 英国中小学教育试验班级与学校两级嵌套数据 | 蒙特卡洛模拟与 NPD 归档数据实证检验 | 班级层级[[Intraclass Correlation Coefficient\|组内相关系数]]（Classroom ICC）对[[Standard Error\|标准误]]的影响 | 忽略班级层级聚集效应会导致[[Type I and Type II Errors\|第一类错误]]率（假阳性）剧增，模型对是否校正班级效应高度敏感 | 统计功效与标准误发生显著扭曲 | 倒逼 EEF 规范在两级分层线性模型中将班级效应纳入敏感性检验 |
 
 ---
@@ -212,5 +212,5 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 系统记录杜伦大学利用 NPD 微观数据复算 17 项试验揭示模型依赖性的全过程，阐述其如何直接催生《[[Education Endowment Foundation\|EEF]] 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 系统记录杜伦大学利用 NPD 微观数据复算 17 项试验揭示模型依赖性的全过程，阐述其如何直接催生《[[Education Endowment Foundation\|EEF]] 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）。
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 从二阶[[Meta-meta-analysis\|元综合]]的方法学高度，反思原始研究在模型假定上的[[Heterogeneity\|异质性]]如何加剧跨干预比较的偏差风险。

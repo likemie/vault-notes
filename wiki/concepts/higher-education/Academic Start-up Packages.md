@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Academic Start-up Packages
@@ -194,7 +194,7 @@ updated: 2026-10-15
 > | [[Argument_Stephan_2013_NBER\|Stephan (2013, p. 23)]]（引述 Ehrenberg et al., 2007） | 美国大学化学与生物学系教师招聘调查（2003） | 机构[[Questionnaire\|问卷调查]]与薪酬计量 | 助理教授与正教授平均启动金包规模 | 化学系助理教授均值 489,000 美元（高端 580,000 美元）；生物系助理教授均值 403,071 美元（高端 437,000 美元）；化学正教授均值 983,929 美元；生物正教授均值 957,143 美元 | — | 实证确立了启动金达到青年教师起薪 4–5 倍的客观现实 |
 > | 斯蒂芬医学院案例研究（见 [[Argument_Stephan_2013_NBER\|Stephan, 2013, p. 24]]） | 美国顶尖私立医学院招聘案例（2013） | 机构深度案例追踪 | 医学院全职正教授启动金额度 | 顶尖医学院正教授启动配套金达 5,000,000 美元或以上 | — | 揭示了生命科学与医学领域高档商场化竞争的极值特征 |
 > | 康奈尔大学内部审计（见 [[Argument_Stephan_2013_NBER\|Stephan, 2013, pp. 23–24]]） | 康奈尔大学新聘理工科教职样本 | 内部财务审计分析 | 仪器设备支出占启动金总额比重 | 1/3 的新聘教师启动金中设备费占 60% 以上；1/2 的新聘教师设备费占 25% 至 40% | — | 证实了启动金核心用于购置重型实验装备的技术特征 |
-> | [[Argument_Atkinson_2008_TIS\|Atkinson & Blanpied (2008, p. 44)]] | 美国基础科学联邦科研资助格局（2000s） | 国家科技政策宏观统计追踪 | [[National Science Foundation\|NSF]] 整体资助率与新毕业青年学者申请资助率 | NSF 总体资助率约为 30%；新毕业青年博士的申请中标率仅约为 20% | — | 揭示了 3 年启动金耗尽后青年学者面临的极度严酷资助生存瓶颈 |
+> | [[Argument_Atkinson_2008_TIS\|Atkinson and Blanpied (2008, p. 44)]] | 美国基础科学联邦科研资助格局（2000s） | 国家科技政策宏观统计追踪 | [[National Science Foundation\|NSF]] 整体资助率与新毕业青年学者申请资助率 | NSF 总体资助率约为 30%；新毕业青年博士的申请中标率仅约为 20% | — | 揭示了 3 年启动金耗尽后青年学者面临的极度严酷资助生存瓶颈 |
 
 ---
 
@@ -202,5 +202,5 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 系统梳理启动配套金在商场模型中的微观功能，揭示其在仪器采购、生师比恶化及学费上涨中的制度传导链条。
-> - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied (2008)]] — 指出[[Research Universities|研究型大学]]为新进青年学者提供实验室装配启动经费，但后续三年若无法获得外部联邦项目资助则面临离职或退出学术界的严苛淘汰机制。
+> - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 指出[[Research Universities|研究型大学]]为新进青年学者提供实验室装配启动经费，但后续三年若无法获得外部联邦项目资助则面临离职或退出学术界的严苛淘汰机制。
 

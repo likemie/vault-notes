@@ -86,7 +86,7 @@ updated: 2026-10-16
 ## 相关概念与研究
 
 > [!evidence-grid-a] 相关索引
-> - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 特刊核心引述 Sharples 的 [[Evidence-Informed Practice\|EIP]] 定义与中介思想。
+> - [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] — 特刊核心引述 Sharples 的 [[Evidence-Informed Practice\|EIP]] 定义与中介思想。
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 探讨[[Educational Brokerage Agency\|知识中介机构]]自身循证化与行为驱动机制的代表篇章。
 > - [[David Gough]] — 长期合作学者与循证政策领军人物。
 > - [[Evidence-Informed Practice]] — 核心定义来源。

@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Rolland Paulston
@@ -147,4 +147,4 @@ updated: 2026-10-15
 > | [[Harold Noah\|哈罗德·诺亚]] | 人物 | 第三代哥大学派领袖，构成保尔斯顿批评功能均衡论与实证唯方法论的核心学术论敌。 |
 > | [[Comparative and International Education Society\|比较与国际教育学会]] | 事实 | 1976 年出任会长，依托学会旗舰期刊系统确立批判与冲突学术议程。 |
 > | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 权威阐明保尔斯顿 1977 年论文在第四代际冲突话语确立中的奠基地位与核心[[Construct\|构念]]。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 论证 | 探讨空间转向与社会制图学在追踪教育[[Policy Mobility\|政策流动]]与少数群体治理中的应用。 |
+> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证 | 探讨空间转向与社会制图学在追踪教育[[Policy Mobility\|政策流动]]与少数群体治理中的应用。 |

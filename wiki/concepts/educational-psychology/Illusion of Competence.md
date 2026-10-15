@@ -44,7 +44,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Illusion of Competence
@@ -60,7 +60,7 @@ updated: 2026-09-17
 > [!concept-lens] 概念透镜
 > - **含义** 基于“流畅性启发式（Fluency Heuristic）”产生的心智错觉——大脑将低加工努力（Processing Fluency）误判为高认知掌握度。
 > - **用途** 解释为什么生成式 AI 时代学生极易产生“自己变得非常强大”的虚假自信，实则丧失了独立推理与批判性审订能力。
-> - **边界** 区别于一般的知识匮乏或遗忘，能力错觉是一种带有**高度主观自信（High Subjective Confidence）与低真实能力（Low Actual Competence）**的元认知失准状态。
+> - **边界** 区别于一般的知识匮乏或遗忘，能力错觉是一种带有**高度主观自信（High Subjective Confidence）与低真实能力（Low Actual Competence）** 的元认知失准状态。
 
 > [!citation-card]- 关键表述：语义流畅性与能力错觉（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）
 > 生成式 AI 输出的极高表层语义流畅性极易诱发学生的能力错觉。学生在阅读到结构工整、语调权威的解答时，往往误以为自己已经完成了深度思考，进而停止进一步的批判审订与多源核查。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 8, 10)]]

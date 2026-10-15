@@ -80,7 +80,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-09-16
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Every Student Succeeds Act
 
@@ -114,9 +114,9 @@ updated: 2026-10-15
 > [!contrast-table] ESSA 法定四级[[Evidence Standards\|证据标准]]技术门槛体系
 > | 等级 | 英文法定层级 | 核心研究设计要求 | 最低研究量要求 | 法定准入效力 |
 > |---|---|---|---|---|
-> | **Tier 1 强证据** | Strong Evidence | 设计良好且实施良好的**[[Randomised Controlled Trials\|随机对照试验]]（RCT）**，有效控制流失与混淆，无显著负面发现 | 至少 1 项 | 满足全美所有联邦及州级学校改进最高准入要求 |
-> | **Tier 2 中等证据** | Moderate Evidence | 设计良好且实施良好的**[[Quasi-Experimental Designs\|准实验设计]]（QED）**，具备严格的前测基线等值性控制与统计调整 | 至少 1 项 | 满足联邦学校改进及绝大多数州级合规采购要求 |
-> | **Tier 3 有希望证据** | Promising Evidence | 设计良好且实施良好的**[[Correlational Research\|相关性研究]]**，对选择偏差与关键协[[Variable\|变量]]实施严格统计控制 | 至少 1 项 | 满足联邦 CSI/TSI 最低准入门槛，但部分州（如 AZ、LA）予以排除 |
+> | **Tier 1 强证据** | Strong Evidence | 设计良好且实施良好的 **[[Randomised Controlled Trials\|随机对照试验]]（RCT）**，有效控制流失与混淆，无显著负面发现 | 至少 1 项 | 满足全美所有联邦及州级学校改进最高准入要求 |
+> | **Tier 2 中等证据** | Moderate Evidence | 设计良好且实施良好的 **[[Quasi-Experimental Designs\|准实验设计]]（QED）**，具备严格的前测基线等值性控制与统计调整 | 至少 1 项 | 满足联邦学校改进及绝大多数州级合规采购要求 |
+> | **Tier 3 有希望证据** | Promising Evidence | 设计良好且实施良好的 **[[Correlational Research\|相关性研究]]**，对选择偏差与关键协[[Variable\|变量]]实施严格统计控制 | 至少 1 项 | 满足联邦 CSI/TSI 最低准入门槛，但部分州（如 AZ、LA）予以排除 |
 > | **Tier 4 展示理论依据** | Demonstrates a Rationale | 具备高水平实证研究支持的明确[[Logic Model\|逻辑模型]]，且正在开展严格的持续因果评估工作 | 逻辑模型与评估计划 | 仅可用于探索性创新，**严禁**用于 Title I Section 1003 专项改进资助 |
 
 > [!feature] 官方实施指南与清算机构的[[Operationalization\|操作化]]技术约束（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 109]]）

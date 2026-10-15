@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-05
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 # Confidence Interval
 
@@ -148,8 +148,8 @@ updated: 2026-09-17
 > [!timeline] CI 在方法讨论中的关键节点
 > - **2015** — 教育[[Effect Size\|效应量]]排名批评中，[[PISA]] 的区间呈现常被用来对照只列出 $d$ 值的效应量排名：前者显示估计误差，后者难以判断相邻教学干预是否真的不同。[[Argument_Allerup_2015_Paideia\|Allerup (2015, pp. 47–48)]]
 > - **2016** — Wecker et al. 在二级[[Meta-analysis\|元分析]]方法要求中明确提出，联合效应量应报告[[Standard Error\|标准误]]和 95% CI 并进行显著性检验。[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, p. 30)]]
-> - **2019** — 统计学界掀起告别[[Statistical Significance\|统计显著性]]、全面报告置信区间的倡议（Wasserstein et al., 2019；Amrhein et al., 2019）；同年度 Lortie-Forgues & Inglis (2019) 针对 141 项英美教育试验置信区间平均达 0.30 SD 展开“试验信息量”争辩。
-> - **2021** — Edovald & Nevill 系统梳理英国 [[Education Endowment Foundation\|EEF]] 评估体系，反思底层严谨 CI 报告与顶层工具包单维度转化之间的制度张力，提出兼顾不确定性报告与行动转化价值的证据治理路径。[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, pp. 56–58)]]
+> - **2019** — 统计学界掀起告别[[Statistical Significance\|统计显著性]]、全面报告置信区间的倡议（Wasserstein et al., 2019；Amrhein et al., 2019）；同年度 Lortie-Forgues and Inglis (2019) 针对 141 项英美教育试验置信区间平均达 0.30 SD 展开“试验信息量”争辩。
+> - **2021** — Edovald & Nevill 系统梳理英国 [[Education Endowment Foundation\|EEF]] 评估体系，反思底层严谨 CI 报告与顶层工具包单维度转化之间的制度张力，提出兼顾不确定性报告与行动转化价值的证据治理路径。[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, pp. 56–58)]]
 
 ---
 
@@ -189,7 +189,7 @@ updated: 2026-09-17
 > | [[Meta-meta-analysis]] | 方法 | 联合 SE 与 CI 是二级元分析报告联合效应量时的必要信息。[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, p. 30)]] |
 > | [[Sample Size Determination]] | 概念 | CI 与置信水平是确定概率样本量的两个核心参数。 |
 > | [[Randomised Controlled Trials]] | 方法 | 随机对照试验中干预效应量必须依托置信区间报告，以展示[[Sampling Error\|抽样误差]]与聚类效应引起的不确定性。 |
-> | [[EEF Padlock Security Rating]] | 工具 | 在证据中介传播中充当置信区间的直观补充指标，以综合评级表征研究效度与不确定性。[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, p. 57)]] |
+> | [[EEF Padlock Security Rating]] | 工具 | 在证据中介传播中充当置信区间的直观补充指标，以综合评级表征研究效度与不确定性。[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 57)]] |
 
 ---
 
@@ -199,4 +199,4 @@ updated: 2026-09-17
 > - [[Argument_Allerup_2015_Paideia\|Allerup (2015)]] — 借助置信区间分析批判点估计排名的统计虚假精确性。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen et al. (2011)]] — 系统阐释置信区间与置信水平在[[Random Sampling\|概率抽样]][[Sample Size Determination\|样本量]]计算中的数理逻辑。
 > - [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] — 在[[Meta-meta-analysis\|二级元分析]]规范中要求报告联合[[Effect Size\|效应量]]的[[Standard Error\|标准误]]与 95% 置信区间。
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 探讨大规模教育现场试验中置信区间宽度争议，反思证据中介在统计不确定性与实践易读性之间的治理张力。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 探讨大规模教育现场试验中置信区间宽度争议，反思证据中介在统计不确定性与实践易读性之间的治理张力。

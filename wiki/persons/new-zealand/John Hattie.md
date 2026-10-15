@@ -154,7 +154,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # John Hattie
 
@@ -206,11 +206,11 @@ updated: 2026-10-15
 >   - **关键概念／方法** [[Visible Learning]]、关节点（Hinge Point $d=0.40$）、六分源学业变异分解模型（学生 50%、教师 30%、学校/家庭/同伴各 5–10%）、[[Assessment Tools for Teaching and Learning\|asTTle]] 形成性诊断循环、[[Learning Progression\|学业进阶]]共享语言、[[Deficit Framing\|赤字理论]]批判、激活者（$d=0.60$）vs 促进者（$d=0.17$）。
 >   - **阶段转向** 在 2005 年 [[Australian Council for Educational Research\|ACER]] 会议论文中首次系统提炼《可见的学习》核心统计骨架（$d=0.40$ 相对有效性门槛与教师因果核心地位），批判 [[No Child Left Behind Act 2001\|NCLB]] 自上而下的惩罚性问责，主张依托 asTTle 系统将评价结果重塑为教师反思自身教学效能的镜像；随后在 2009 年专著中将元综合结果扩展为具有全球影响力的干预效果排行榜，确立教师作为主动激活者的核心论调。
 > - **2014–2016 — 认知科学整合、品牌扩张与实施工程阶段** 此阶段主要回应首版著作理论根基薄弱、脱离课堂微观情境以及学校现场落实困难的批评。
->   - **代表著作** Hattie & Yates (2014) *Visible learning and the science of how we learn*；Hattie, Masters, & Birch (2016) *Visible learning into action*；Fisher, Frey, & Hattie (2016) *Visible learning for literacy*。[[Argument_Knudsen_2017_NordSTEP\|(Knudsen, 2017, p. 254)]]
+>   - **代表著作** Hattie and Yates (2014) *Visible learning and the science of how we learn*；Hattie, Masters, & Birch (2016) *Visible learning into action*；Fisher, Frey, & Hattie (2016) *Visible learning for literacy*。[[Argument_Knudsen_2017_NordSTEP\|(Knudsen, 2017, p. 254)]]
 >   - **关键概念／方法** 脑科学认知原则、方案忠实执行（[[Implementation Fidelity\|fidelity of implementation]]）、高影响教学策略（High Impact Teaching Strategies，[[Victorian HITS and Literacy Toolkit\|HITS]]）、全校改进工程。
 >   - **阶段转向** 结合认知科学阐释学习机制，将学术[[Research Translation\|研究转化]]为连锁经营式的培训、评估工具（asTTle）与学校认证系统，强调将效应量结合学段解释，把[[Heterogeneity\|异质性]]转化为[[Research Question\|研究问题]]。
 > - **2016 至今 — 排名反思、三阶段学习模型与跨国治理批判阶段** 此阶段主要回应学界关于伪科学、[[Neo-Taylorism\|新泰勒主义]]监控的指控以及在北欧等国政策咨询中的治理落差。
->   - **代表著作** Hattie & Donoghue (2016) *Learning strategies: a synthesis and conceptual model*；Hattie (2020) *Lessons from Lockdown*；Hattie (2023) *Visible Learning: The Sequel*。[[Argument_Blass_2020_JESP\|(Blass, 2020, pp. 95–96)]]
+>   - **代表著作** Hattie and Donoghue (2016) *Learning strategies: a synthesis and conceptual model*；Hattie (2020) *Lessons from Lockdown*；Hattie (2023) *Visible Learning: The Sequel*。[[Argument_Blass_2020_JESP\|(Blass, 2020, pp. 95–96)]]
 >   - **关键概念／方法** 三输入（技能/意愿/激情）三阶段（表层/深层/迁移）模型、“结果的暴政”（Tyranny of Outcomes）、[[Structural Coupling\|结构耦合]]、法定行政法令引文过滤。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 >   - **阶段转向** 放弃单一线性排行榜，承认教学干预的阶段变异与[[Problem-Based Learning\|基于问题的学习]]（Problem-Based Learning，PBL）在迁移阶段的价值，反思证据本位对教育复杂性的遮蔽；跨国实证进一步解构了其作为个体学术权威在主权国家硬性规制中的制度穿透局限。
 
@@ -341,7 +341,7 @@ updated: 2026-10-15
 
 > [!warning] 未解问题与边界
 > - **Hattie 对批评的回应与自辩** Hattie 始终坚持技术批评未削弱支撑《[[Visible Learning\|可见的学习]]》信息的核心故事；强调研究由持续元分析支撑以识别潜在[[Falsification\|可证伪性]]；制定学者参与公共事务的三条自我约束原则。[[Argument_Hattie_2010_NZJES\|(Hattie, 2010)]]; [[Argument_Hattie_2017_SLM\|(Hattie, 2017)]]
-> - **对排名的放弃与立场转向** Hattie & Donoghue（2016）承认策略内部变异过大而放弃单一排名，开发三阶段学习模型；公开表示若能重来会极力避免“结果的暴政”；2020 年演讲进一步肯定失败与[[Inquiry-Based Learning\|探究式学习]]的价值，呈现出晚期理论反思与早期直接教学排名的割裂。[[Argument_Blass_2020_JESP\|(Blass, 2020, pp. 95–96)]]
+> - **对排名的放弃与立场转向** Hattie and Donoghue（2016）承认策略内部变异过大而放弃单一排名，开发三阶段学习模型；公开表示若能重来会极力避免“结果的暴政”；2020 年演讲进一步肯定失败与[[Inquiry-Based Learning\|探究式学习]]的价值，呈现出晚期理论反思与早期直接教学排名的割裂。[[Argument_Blass_2020_JESP\|(Blass, 2020, pp. 95–96)]]
 > - **[[Professional Judgment\|专业判断]]与系统论张力** 支持者（如 Qvortrup）主张教学与学习之间是[[Structural Coupling\|结构耦合]]而非简单因果决定，《可见的学习》提供的是智能解决问题的假设而非死板食谱，教育专业判断（Professional Judgment）仍是连接实证数据与课堂情境的不可替代中介。[[Argument_Qvortrup_2019_NordSTEP\|(Qvortrup, 2019, pp. 3–7)]]
 
 ---

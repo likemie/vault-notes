@@ -143,7 +143,7 @@ related_instruments:
   - "[[Remote Associates Test]]"
 status: draft
 created: 2026-05-08
-updated: 2026-09-24
+updated: 2026-10-16
 year: 2023
 doi: ""
 citation_aliases:
@@ -388,7 +388,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 2. 分层研究的"文化转向"（cultural turn）——使意义、[[Reflexivity|反思性]]和符号重回视野
 3. Clippings/Pierre Bourdieu及其追随者——[[Cultural Capital|文化资本]]与习性对教育不平等的深刻理论化
 
-**郑雅君的定位** 明确选择第二种视角——将大学视为学生经历社会化、建立自我认同、选择生涯道路的关键过程。直接回应 Stevens, Armstrong & Arum(2008)的呼吁：关注"大学生活经历核心"（experiential core of college life）中的分层过程。
+**郑雅君的定位** 明确选择第二种视角——将大学视为学生经历社会化、建立自我认同、选择生涯道路的关键过程。直接回应 Stevens, Armstrong and Arum(2008)的呼吁：关注"大学生活经历核心"（experiential core of college life）中的分层过程。
 
 
 **第二步：整合三条理论脉络——三大"洞见"**
@@ -431,8 +431,8 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 
 **（b）但目标并非个体的自由选择——社会学的问题化**
 - Roberts(1975)：决策由个体在劳动力市场上的"机会结构"（opportunity structure）决定，机会结构由工业组织、政策和社会阶层共同塑造
-- Breen & Goldthorpe(1997)的理性行动理论（[[Remote Associates Test|RAT]]）：不同阶层对风险-收益的理性衡量有系统性差异 → 揭示家庭背景在教育选择中的"次属效应"（second effects）
-- Hodkinson & Sparkes(1997)：结合布迪厄习性与场域理论，提出修正模型 —（a）理性选择是[[Pragmatic Paradigm|实用主义]]式的个体选择，但深受习性影响；（b）场域中不平等的资源分配影响与场域中其他人的互动；（c）决策受人生历程中难以预料的转折点和路径影响
+- Breen and Goldthorpe(1997)的理性行动理论（[[Remote Associates Test|RAT]]）：不同阶层对风险-收益的理性衡量有系统性差异 → 揭示家庭背景在教育选择中的"次属效应"（second effects）
+- Hodkinson and Sparkes(1997)：结合布迪厄习性与场域理论，提出修正模型 —（a）理性选择是[[Pragmatic Paradigm|实用主义]]式的个体选择，但深受习性影响；（b）场域中不平等的资源分配影响与场域中其他人的互动；（c）决策受人生历程中难以预料的转折点和路径影响
 
 > 关键发现：学生的决策基于他们自身已经了解的信息，而这些信息自然是有偏颇的——决策与家庭背景、文化背景和生活经历密不可分（引 Hodkinson & Sparkes, 1997）
 

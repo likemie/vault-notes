@@ -60,7 +60,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Student Engagement
@@ -110,7 +110,7 @@ updated: 2026-10-15
 > - **教育性实践活动（Educationally Purposeful Activities）** 投入所指向的载体，包括课程学习、师生学术研讨、学生组织治理、实习实践、志愿服务及同伴协作。[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 113)]]
 > - **投入的量（Quantity of Engagement）** 投入时间与精力的多寡，通常体现为课程学时、自主研读时长、课外活动参与频率及领导职务参与。
 > - **投入的质与方向性（Quality & [[Directionality of Innovation|directionality]]）** 投入的策略组织形态。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]指出，优质投入必须具备明确的目标方向，使行动能够有效转化为长效资本，而非盲目发散。
-> - **认识性投入（Epistemic Engagement）** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 提出的核心维度，指学生在探究中主动直面认知困惑、识别不确定性、检验相反证据、反思自身预设并对论点进行理性辩护的心智努力。
+> - **认识性投入（Epistemic Engagement）** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 提出的核心维度，指学生在探究中主动直面认知困惑、识别不确定性、检验相反证据、反思自身预设并对论点进行理性辩护的心智努力。
 > - **院校制度性支持（Institutional Support）** 学校在课程设置、师资配置、导师指导及课外实践方面提供的资源网络与制度环境。
 
 > [!logic-map]- 学生投入机制演化与分化模型
@@ -171,7 +171,7 @@ updated: 2026-10-15
 > [!concept-lens] 智能交互生态与认知中介异化
 > 探讨生成式技术如何通过界面易用性与对话温度制造参与繁荣假象，分析认知动作剥离对实质心智投入的侵蚀。
 
-> [!claim] [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]
+> [!claim] [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]
 > **表层交互活跃对深层认识性投入的遮蔽** 商业化教育系统常以用户留存、使用时长与即时互动频次作为“学生投入”的核心指标。然而，大语言模型的支持性语调与自适应答疑虽能显著提升学生的情感满意度与行为交互频次，却极易诱导“无摩擦的认知委托”：学生在界面上高频交互，但由于直接采纳算法生成的现成解释与框架，其在甄别证据缺陷、承受[[Scientific Uncertainty\|认知不确定性]]及反思论点漏洞等关键环节上的“认识性投入（Epistemic Engagement）”被完全置换。教育评估必须穿透表层的交互繁荣，聚焦检验学生是否真正开展了[[Evaluative Judgement\|评价性判断]]与深层思考。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 5–6, 8)]]
 
 ---
@@ -194,7 +194,7 @@ updated: 2026-10-15
 > - **1991 — 学生投入理论系统化** 乔治·库（George Kuh）出版 *Involving Colleges*，将投入[[Operationalization\|操作化]]为具体教育性实践的时间与精力测量，并首次将院校制度支持纳入分析。
 > - **2000 年代 — 全国常模与实证巩固** [[National Survey of Student Engagement\|全美学生投入调查]]（NSSE）广泛应用，Pascarella & Terenzini 等学者通过海量实证确立投入对认知增益的稳健促进作用。
 > - **2023 — 质性质态与方向性深化** [[Yajun Zheng\|郑雅君]]引入“投入方向性”与“文化习性”视角，超越“投入越多越好”的线性假设，揭示[[Goal-Controlled Mode\|目标掌控模式]]与[[Intuition-Dependent Mode\|直觉依赖模式]]的机制差异。[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023)]]
-> - **2026 — 认识性投入与算法伪投入反思** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 揭示人工智能时代商业参与度指标的局限，区分表层情感/行为交互与深层认识性投入，推动概念向[[Epistemology\|认识论]]反思与[[Evaluative Judgement\|评价性判断]]拓展。
+> - **2026 — 认识性投入与算法伪投入反思** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 揭示人工智能时代商业参与度指标的局限，区分表层情感/行为交互与深层认识性投入，推动概念向[[Epistemology\|认识论]]反思与[[Evaluative Judgement\|评价性判断]]拓展。
 
 ---
 
@@ -250,7 +250,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 结合量化调查与质性长周期追踪，构建“投入过程”[[Analytic Framework\|分析框架]]，实证揭示[[Cultural Capital\|文化资本]]与阶层习性对学生投入量与方向性的深层分化机制。
-> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 辨析[[Generative Artificial Intelligence\|生成式人工智能]]环境下表层行为与情感参与对深层“认识性投入”的遮蔽效应，提出重塑评价判断权与培育关系性主体性的实践方案。
+> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 辨析[[Generative Artificial Intelligence\|生成式人工智能]]环境下表层行为与情感参与对深层“认识性投入”的遮蔽效应，提出重塑评价判断权与培育关系性主体性的实践方案。
 
 ---
 
@@ -265,5 +265,5 @@ updated: 2026-10-15
 > | [[Epistemic Agency\|认识主体性]] | [[Epistemology\|认识论]]旨归 | 现代认识性投入的核心诉求是让学生在[[Man-Computer Symbiosis\|人机协同]]中牢牢掌握评价证据与主张的自主权。 |
 > | [[Epistemic Friction\|思维摩擦]] | 认知促发机制 | 面对[[Scientific Uncertainty\|认知不确定性]]与探究阻力带来的思维摩擦，是促发深层认知与认识性投入的前提。 |
 > | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] | 实证与理论突破 | 提出投入不仅有多寡之分更有方向性区别，实证刻画目标掌控与直觉依赖的投入机制。 |
-> | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] | 智能时代深化 | 批判唯点击率与时长的虚假投入，倡导穿透表层算法交互、激活学生的实质认识性投入。 |
+> | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] | 智能时代深化 | 批判唯点击率与时长的虚假投入，倡导穿透表层算法交互、激活学生的实质认识性投入。 |
 

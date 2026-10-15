@@ -91,7 +91,7 @@ updated: 2026-10-16
 > - **制度边界与主权防御现实** 欧洲教育空间不等于欧洲政治或法律上的中央集权一体化。欧盟条约明确规定教育权保留于成员国主权内部，布鲁塞尔主要依托软法治理（Soft Law Governance）和数据对齐实施[[Governing at a Distance|远距治理]]；但在后发国家实践中，它极易异化为国内立法借用的亲欧修辞，掩盖实质性制度落后（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 324–325]]）。
 
 > [!citation-card]
-> **Nóvoa (2002) & [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] 论欧洲空间认同与流动性建构**
+> **Nóvoa (2002) & [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] 论欧洲空间认同与流动性建构**
 > 安东尼奥·诺沃亚指出，流动性已成为面向欧盟的欧洲认同形成的核心试金石。该概念成为想象欧洲公民身份的手段，因为它内含了对过往旅程与文化漫游的社会想象，并唤起了一种对未来的自由与开放感。伊拉斯谟等流动项目在每个公民心中烙印下一种集体化且统一的欧洲体验，这种体验与多样性、多元认同的欧洲空间想象完美契合。欧洲教育空间的制造将传统国家建构策略（旗帜、国歌、教科书）与基于知识和胜任力的新归属疆域结合起来，通过将人群汇聚在临时性合作项目与流动网络中，把个体流动性铸造为特权公民的正当品质。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 
 > [!citation-card]
@@ -158,7 +158,7 @@ graph TD
 > [!concept-lens] [[Spatial Governmentality|空间治理术]]与阶层[[Avatar|化身]]份认同
 > 探讨超国家空间[[Discourse|话语]]如何通过赞美跨国人员流动来生产统一的欧洲公民身份，以及这种修辞背后的[[Governmentality|治理性]]转嫁。
 
-> [!claim] Nóvoa & Lawn (2002); [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]]
+> [!claim] Nóvoa & Lawn (2002); [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]]
 > **流动性美德化与超国家治理术的阶层偏向** 欧洲教育空间不是静态的领土容器，而是通过流动网络所生产的话语装配。政策制定者调动欧洲古典旅行的人文主义浪漫意象，将跨国流动（[[Student Mobility|学生流动]]与[[Teacher Mobility|教师流动]]）建构为面向未来、包容开放的时代美德，使跨文化资源成为有权公民的核心象征。然而，这种话语本质上是将适应劳动力市场不确定性的风险个体化，把[[Employability|就业能力]]包装成个体的道德责任；同时，它将合法流动特权赋予高校文化精英，与基础教育和底层移民流动所遭遇的空间排斥形成了尖锐的阶层化区隔。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360, 362–363)]]
 
 ---
@@ -179,7 +179,7 @@ graph TD
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **数据基础设施[[Disciplina and Doctrina\|规训]]命题** | 欧洲教育空间通过量化数据网格与比较指标建立跨国软性政策协调与研究吸附机制 | 国际大规模教育评估（PISA）、循证政策决策、指标治理 | Grek (2009); [[Argument_Li_2025_HSSC\|Li et al. (2025)]] |
-> | **空间治理与认同建构命题** | 欧洲教育空间通过美德化人员流动与项目网络建构超国家身份，同时转移就业责任与构筑外围边界 | [[Internationalization of Higher Education\|高等教育国际化]]、伊拉斯谟计划、[[TEMPUS\|天普计划]]、欧盟公民认同 | Nóvoa & Lawn (2002); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] |
+> | **空间治理与认同建构命题** | 欧洲教育空间通过美德化人员流动与项目网络建构超国家身份，同时转移就业责任与构筑外围边界 | [[Internationalization of Higher Education\|高等教育国际化]]、伊拉斯谟计划、[[TEMPUS\|天普计划]]、欧盟公民认同 | Nóvoa & Lawn (2002); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] |
 > | **现实主义主权防御与修辞借用命题** | 欧洲教育空间受限于主权壁垒，易被后发成员国异化为立法修辞挡箭牌与形式对标，掩盖学术近亲繁殖与制度惰性 | 欧洲联盟教育治理限度、博洛尼亚进程落地异化、学术流动与大学近亲繁殖批判 | [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] |
 
 ---
@@ -228,7 +228,7 @@ graph TD
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]]揭示全球 [[PISA]] 政策影响实证研究中有 62.4% 集中在欧洲，运用欧洲教育空间概念解释数据治理基建的吸附效应。
-> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 剖析欧洲教育空间的制造过程，批判性揭示 [[Erasmus Programme|伊拉斯谟计划]]与 [[TEMPUS|天普计划]]如何将[[Student Mobility|学生流动]]道德化为欧洲公民资本。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 剖析欧洲教育空间的制造过程，批判性揭示 [[Erasmus Programme|伊拉斯谟计划]]与 [[TEMPUS|天普计划]]如何将[[Student Mobility|学生流动]]道德化为欧洲公民资本。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 从成员国主权视角审视欧洲教育空间，指出[[EU|欧盟]]教育事务本质是成员国总和，揭示西班牙在[[Bologna Process|博洛尼亚进程]]对标与伊拉斯谟生源吸引表象下的高等教育近亲繁殖与制度性脱节。
 
 ---

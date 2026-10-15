@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Creative Self-Efficacy
@@ -293,7 +293,7 @@ updated: 2026-10-15
 > | 实证研究 | 样本与情境 | 核心[[Variable\|变量]]与实验设计 | 核心发现 | 理论与教学意义 |
 > |---|---|---|---|---|
 > | Meinel et al. (2019) | 德国大学设计思维工作坊（$N = 118$） | 创造力干预对客观发散表现（[[Abbreviated Torrance Test for Adults\|ATTA]]）与创造效能感（CSE）的影响，检验考试焦虑的调节作用 | 干预显著提升了学生的创造性自我效能感与独创性表现；考试焦虑对基线创造力呈负向预测，但训练为高焦虑个体提供了[[Scaffolding\|认知支架]]以重建效能感 | 证明结构化训练不仅提升能力，更能通过降低焦虑、赋能效能感打破心理障碍 |
-> | Beghetto & Karwowski (2017) | 中小学与高校探究课堂微观观察 | 记录课堂教学中教师反馈与微观探究尝试（Micro-moments）对创造效能感的即时塑造 | 教师即时的非评价性接纳、允许低利害试错与引导性反思，能够即时引发学生创造效能感的阶跃式跃升 | 验证了微观课堂情境中社会说服与心理安全感的即时赋能机制 |
+> | Beghetto and Karwowski (2017) | 中小学与高校探究课堂微观观察 | 记录课堂教学中教师反馈与微观探究尝试（Micro-moments）对创造效能感的即时塑造 | 教师即时的非评价性接纳、允许低利害试错与引导性反思，能够即时引发学生创造效能感的阶跃式跃升 | 验证了微观课堂情境中社会说服与心理安全感的即时赋能机制 |
 
 ---
 
@@ -314,7 +314,7 @@ updated: 2026-10-15
 > - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — 开展高校[[Creativity Training\|创造力干预]][[Three-Level Meta-Analysis\|多层元分析]]（涵盖 Meinel et al., 2019 等研究），证实系统干预的总体促进效能（$g = 0.628$），揭示了认知训练优于情绪训练、独立练习（$g = 0.682$）优于小组协作（$g = 0.567$）对学生效能感与能力沉淀的机制。
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 三水平[[Meta-analysis\|元分析]]量化了主客观测量类型组合的[[Interaction Effect\|调节效应]]，证实自陈测量（含 CSE）因[[Common Method Variance\|共同方法变异]]（CMV）而产生虚高相关（双自陈 $r = 0.509$ vs 双表现 $r = 0.317$）。
 > - Haase et al. (2018) — 开展首项创造性[[Self-Efficacy\|自我效能感]]一阶元分析（$k = 34, N = 12,058$），证实 CSE 与客观创造表现的稳健强关联（$r = 0.39$）以及与[[Divergent Thinking\|发散思维]]的中等关联（$r = 0.26$）。
-> - Tierney & Farmer (2002) — 奠基性界定创造性自我效能感构念，编制首套经典[[Scale of Measurement\|测量量表]]并验证其对组织创新行为的独特[[Predictive Validity\|预测效度]]。
+> - Tierney and Farmer (2002) — 奠基性界定创造性自我效能感构念，编制首套经典[[Scale of Measurement\|测量量表]]并验证其对组织创新行为的独特[[Predictive Validity\|预测效度]]。
 
 ---
 

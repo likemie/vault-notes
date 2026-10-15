@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-02
+updated: 2026-10-16
 ---
 
 # Jiang Menglin
@@ -123,7 +123,7 @@ updated: 2026-10-02
 > - **跨国传播** 作为哥大留美精英网络的核心，推动了[[John Dewey\|杜威]][[Pragmatic Paradigm\|实用主义]]在华的选择性传播（强调民主目标，淡化渐进实验方法）。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.73]]）
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]] — 详细分析了蒋梦麟《新教育》时代的激进民主立场、学校隔离论及其对1922学制的深远影响。
+> - [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] — 详细分析了蒋梦麟《新教育》时代的激进民主立场、学校隔离论及其对1922学制的深远影响。
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 揭示了蒋梦麟与[[Hu Shi\|胡适]]、[[Tao Xingzhi\|陶行知]]组成的哥大网络在杜威思想在华[[Recontextualization\|再脉络化]]中的行动者角色。
 
 ---
@@ -144,10 +144,10 @@ updated: 2026-10-02
 > > [!axis] 理想国隔离论 vs. [[John Dewey\|杜威]]渐进演进论的张力
 > > 蒋梦麟将新旧关系建构为非此即彼的替代关系，与杜威主张“教育重组只能一步一个脚印零碎完成”存在根本冲突。
 > >
-> > - **[[Argument_Zhou_2024_CE\|Zhou & Westberg (2024, pp.618, 622)]]** 批评蒋梦麟的激进立场导致新教育在实践中脱离了中国农业国国情。
+> > - **[[Argument_Zhou_2024_CE\|Zhou and Westberg (2024, pp.618, 622)]]** 批评蒋梦麟的激进立场导致新教育在实践中脱离了中国农业国国情。
 
 > [!critique]- 批评索引
-> - [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024, p.619)]] — 指出蒋梦麟试图以教育单枪匹马完成国家重建，忽视了财政与政局对改革的残酷制约。
+> - [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024, p.619)]] — 指出蒋梦麟试图以教育单枪匹马完成国家重建，忽视了财政与政局对改革的残酷制约。
 
 > [!warning] 未解问题与边界
 > 蒋梦麟将教育与政治深度绑定，使1922新学制在面对北洋政府冷遇与财政匮乏时迅速遭遇实施困难。

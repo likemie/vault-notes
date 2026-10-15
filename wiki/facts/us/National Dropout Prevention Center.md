@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # National Dropout Prevention Center
@@ -58,7 +58,7 @@ updated: 2026-10-15
 > [!info] 机构定位与运营概况
 > **国家预防辍学中心（National dropout Prevention Center, NDPC）** 是由克莱姆森大学于 1986 年发起成立、现由成功实践网络（Successful Practices Network, SPN）运营的非营利[[Educational Evidence Clearinghouses\|教育证据清算中心]]，专注于降低全美中小学辍学率与提升学业留存率([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 7]])。
 >
-> NDPC 聚焦处于辍学高危风险的中小学生群体，评估对象为具名干预项目。当前处于**活跃运营（Active）**状态，官方平台为 [dropoutprevention.org](https://dropoutprevention.org)，持续举办全国防辍大会并提供学校认证培训。
+> NDPC 聚焦处于辍学高危风险的中小学生群体，评估对象为具名干预项目。当前处于**活跃运营（Active）** 状态，官方平台为 [dropoutprevention.org](https://dropoutprevention.org)，持续举办全国防辍大会并提供学校认证培训。
 
 ---
 

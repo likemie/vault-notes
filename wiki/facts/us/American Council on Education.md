@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # American Council on Education
@@ -56,7 +56,7 @@ updated: 2026-10-15
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **美国教育理事会（American Council on Education, ACE）**是美国高等教育界最具代表性、历史最悠久的全国性统合协调组织（501(c)(3)）。作为美国高等教育系统的“总代言机构”（Major Coordinating Body），ACE 代表全美 1700 多所具备认证资格的公立与私立大学、两年制社区学院、[[Research Universities|研究型大学]]及专门学院，是高等教育界向美国联邦国会、白宫行政分支及联邦最高法院统筹表达政策诉求的最高行动中枢。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
+> **美国教育理事会（American Council on Education, ACE）** 是美国高等教育界最具代表性、历史最悠久的全国性统合协调组织（501(c)(3)）。作为美国高等教育系统的“总代言机构”（Major Coordinating Body），ACE 代表全美 1700 多所具备认证资格的公立与私立大学、两年制社区学院、[[Research Universities|研究型大学]]及专门学院，是高等教育界向美国联邦国会、白宫行政分支及联邦最高法院统筹表达政策诉求的最高行动中枢。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 创设于 1918 年（第一次世界大战期间），最初名为“紧急教育委员会”（Emergency Council on Education），旨在协调全美大学资源支持国家战时训练与人力动员；一战结束后迅速转为常设机构并更为现名。

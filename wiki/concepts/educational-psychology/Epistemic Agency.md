@@ -98,7 +98,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Epistemic Agency
@@ -233,7 +233,7 @@ updated: 2026-10-15
 > [!claim] Wu et al. & Du & Yuan
 > **双轨支架赋能关系性认识能动性落地** 针对认识主体性在技术中介中易退化的问题，必须通过技术提示词支架（如[[Chain-of-Thought Prompting\|思维链]]引导、批判性质疑提示）与教学法支架（如交互式同行评审）的双轨协同干预，驱动学习者认识立场向评价主义演进，从而在人机相互依赖格局中确立可质疑、可恢复与负责任的关系性认识主体性。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 361–366)]]; [[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 7–8)]]
 
-> [!claim] [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez (2026)]]
+> [!claim] [[Argument_Han_Gutierez_2026_IJSE|Han and Gutierez (2026)]]
 > **显性[[Epistemic Scaffolding|认识论支架]]保障基础教育学习者在人机协同中维系核心认识主体性** 初中生在人机协同[[Scientific Explanation|科学解释]]探究中，并非被动接受大模型生成的顺滑内容。通过同伴联合审议、四项科学解释标准评估、迭代提示词重构以及先验知识调取的课堂规范，中学生将生成式人工智能锚定为信息源、对话伙伴与[[Epistemic Provocateur|认识论挑衅者]]，在文本解释与多模态图像生成的持续审问、比对与修改中行使实质性的因果机制裁决权，有效抵御了盲目认知卸载。[[Argument_Han_Gutierez_2026_IJSE|(Han & Gutierez, 2026, pp. 6–8, 22–24)]]
 
 > [!claim] Smith, S. J.
@@ -256,10 +256,10 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **教学机制命题** | 认识能动性依赖元[[Epistemology\|认识论]]审议与标准协商，反对教条式规则灌输 | 基于模型的科学探究教学、论辩对话课堂 | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025, pp. 222–223)]] |
-> | **概念内化命题** | 认识能动性是指导式探究区别于直接教学的本质特征，驱动深层长效图式重组；需防范无支架的虚假放权 | 理科实验设计、复杂科学概念转变教学、[[Epistemic Cognition\|认识论认知]]干预 | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 2–3)]]; [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021, pp. 485–486)]]; Chinn & Duncan (2018) |
-> | **社会正义命题** | 认识能动性重构课堂知识生产权力格局，抵御认识边缘化与不正义 | 多元文化背景学校、弱势生源科学课堂 | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025, pp. 223–224)]] |
-> | **人机共生与关系性命题** | 认识主体性在人机交互中具共享与关系性特征，依赖适应性认识立场、双轨支架与异己智能防御以维系实质裁决权 | 生成式人工智能介入的探究、写作、代码生成与[[Problem Solving\|问题解决]]情境 | [[Argument_Wu_2025_ER\|Wu et al. (2025)]]; [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]]; [[Argument_Smith_2026_SPE\|Smith (2026)]] |
+> | **教学机制命题** | 认识能动性依赖元[[Epistemology\|认识论]]审议与标准协商，反对教条式规则灌输 | 基于模型的科学探究教学、论辩对话课堂 | [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025, pp. 222–223)]] |
+> | **概念内化命题** | 认识能动性是指导式探究区别于直接教学的本质特征，驱动深层长效图式重组；需防范无支架的虚假放权 | 理科实验设计、复杂科学概念转变教学、[[Epistemic Cognition\|认识论认知]]干预 | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 2–3)]]; [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021, pp. 485–486)]]; Chinn and Duncan (2018) |
+> | **社会正义命题** | 认识能动性重构课堂知识生产权力格局，抵御认识边缘化与不正义 | 多元文化背景学校、弱势生源科学课堂 | [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025, pp. 223–224)]] |
+> | **人机共生与关系性命题** | 认识主体性在人机交互中具共享与关系性特征，依赖适应性认识立场、双轨支架与异己智能防御以维系实质裁决权 | 生成式人工智能介入的探究、写作、代码生成与[[Problem Solving\|问题解决]]情境 | [[Argument_Wu_2025_ER\|Wu et al. (2025)]]; [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]]; [[Argument_Smith_2026_SPE\|Smith (2026)]] |
 > | **结构突现与协同重塑** | 阐明学习者通过反思性共同结构化重塑探究方向与弹性小组的能动机制 | 长期科学探究、[[Knowledge Building Theory\|协作知识建构]]与开放学习环境 | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] |
 
 ---
@@ -274,8 +274,8 @@ updated: 2026-10-15
 > - **2022 年 — [[Reflective Structuration\|反思性结构化]]与组织构型重塑赋权** [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 系统提出反思性结构化机制，证实小学生能够通过历时共建意向领域与弹性自组织探究小组，实质性行使重塑共同体探究方向与社会结构的最高阶认识能动性。
 > - **2025 年 — 元[[Epistemology\|认识论]]审议与认识正义深化** Duncan 与 Chinn 将认识能动性深化为学生对[[Epistemic Ideals\|认识论理想]]与[[Reliable Epistemic Processes\|可靠过程]]的元认识论反思，确立了通过认识能动赋权消除课堂[[Discourse|话语]]不平等的实践新[[Paradigm\|范式]]。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222–224)]]
 > - **2025 年 — 人机共享认识能动性与自适应共生框架** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 提出人机共享认识能动性理论，揭示学习者在与生成式大模型交互中如何通过自适应[[Epistemic Stances\|认识立场]]、双轨支架干预与多重辩护机制维系主体控制权，防止[[Cognitive Offloading\|认知卸载]]退化并实现双向智力增长。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–368)]]
-> - **2026 年 — 关系性认识主体性与人机相互依赖转向** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 结合[[Generative Artificial Intelligence\|生成式人工智能]]在教育中的普及，反思将主体性等同于技术纯洁性的孤立观，确立关系性认识主体性（Relational Epistemic Agency）作为规范目标，提出通过可质疑性、可恢复性、可迁移性与分布式责任等标准，在人机相互依赖格局中捍卫学习者的批判审议与实质认识参与。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 7–8)]]
-> - **2026 年 — 基础教育[[Man-Computer Symbiosis|人机协同]]中的能动性维系实证** [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] 实证考察初中生在利用 Canva 和 ChatGPT 建构[[Scientific Explanation\|科学解释]]时的微观互动，证实显性学科标准与反思提示语双轨[[Epistemic Scaffolding\|认识论支架]]能保障中学生在人机协同中牢固维系认识主体性与批判性裁决权。
+> - **2026 年 — 关系性认识主体性与人机相互依赖转向** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 结合[[Generative Artificial Intelligence\|生成式人工智能]]在教育中的普及，反思将主体性等同于技术纯洁性的孤立观，确立关系性认识主体性（Relational Epistemic Agency）作为规范目标，提出通过可质疑性、可恢复性、可迁移性与分布式责任等标准，在人机相互依赖格局中捍卫学习者的批判审议与实质认识参与。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 7–8)]]
+> - **2026 年 — 基础教育[[Man-Computer Symbiosis|人机协同]]中的能动性维系实证** [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] 实证考察初中生在利用 Canva 和 ChatGPT 建构[[Scientific Explanation\|科学解释]]时的微观互动，证实显性学科标准与反思提示语双轨[[Epistemic Scaffolding\|认识论支架]]能保障中学生在人机协同中牢固维系认识主体性与批判性裁决权。
 > - **2026 年 — 智能技术批判与成长性认识正义防御** [[Argument_Smith_2026_SPE\|Smith (2026)]] 提出私厨隐喻，揭示将构思、提纲与修改外包给 AI 对认识主体性的系统性侵蚀本质上是[[Formative Epistemic Injustice|成长性认识不正义]]；确立[[Alien Intelligence|异己智能]]视角、思维步骤全外显与自我评估提问支架，为在人机互动中守持学生认识主体性确立了[[Operationalization|操作化]]教学防线。
 
 ---
@@ -288,7 +288,7 @@ updated: 2026-10-15
 > > 传统技术怀疑论主张学生必须完全脱离生成式技术方能保持真正的心智独立；社会[[Epistemology\|认识论]]与[[Man-Computer Symbiosis|人机共生]]理论则论证人类学习历来扎根于外部相互依赖。
 > >
 > > - **技术纯洁性立场** 倾向于将任何技术辅助视作认知主体性的污染与堕落，主张全面禁用以维护孤立心智的原始状态。
-> > - **[[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026, pp. 7–8)]] 与 [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 358–360)]]** 强调孤立自主是不切实际的神话，关键在于发展关系性与自适应能动性，即在技术深度嵌入的情境中，依托评价主义[[Epistemic Stances\|认识立场]]守持可质疑、可核验与多源辩护的实质判断权。
+> > - **[[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026, pp. 7–8)]] 与 [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 358–360)]]** 强调孤立自主是不切实际的神话，关键在于发展关系性与自适应能动性，即在技术深度嵌入的情境中，依托评价主义[[Epistemic Stances\|认识立场]]守持可质疑、可核验与多源辩护的实质判断权。
 >
 > > [!axis] 技术工具赋能论 vs 私厨代劳致残论
 > > 争论焦点在于将生成式 AI 引入读写教学究竟是如同计算器般赋能主体，还是如私厨般代劳剥夺实践。
@@ -320,9 +320,9 @@ updated: 2026-10-15
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] | 22 名五年级学生，7 个月（2015–2016）人体系统[[Knowledge Building Theory\|知识建构]]课堂 | [[Interactional Ethnography\|互动民族志]]、[[Discourse Analysis\|话语分析]]、[[Network Analysis\|社会网络分析]]与典型[[Case Study\|案例研究]] | 意向领域演进数；16 篇我们知识之最（Best of Our Knowledge, BOOK）反思笔记的科学理解层级与复杂度；眼睛探究组历时线索 | 初始共建 8 个意向领域并动态扩展为 12 个；反思笔记中 23 个为解释寻求型问题（占比 76.7%），15 个为跨领域系统问题；13 篇达完全科学水平（81.25%），7 篇达详细因果解释（43.75%）；社会网络分析显示全班形成高密度知识互联 | 编码一致性 90%（Cohen's $\kappa = 0.82$） | 证实学生通过[[Reflective Structuration\|反思性结构化]]重塑探究方向与弹性小组，能有效实现高水平因果机制解释与分布式社会联结 |
-> | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026, pp. 6–24)]] | 韩国 8 名初中生（4 对配对），两节科学人机协同解释课（植物[[Growth\|生长]]与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像[[Transcription in Qualitative Research\|转录]]、数字生成物、访谈） | [[Man-Computer Symbiosis\|人机协同]]中的认识能动性行使与提示词迭代修正 | 学生未将 AI 视作真理代理，而是主动通过 4 轮提示词重构、对照教科书核验与图像细节纠错行使认知控制权 | 质性微观互动分析 | 证实基础教育阶段学生在双轨显性[[Epistemic Scaffolding\|认识论支架]]下能完全保持核心认识主体性 |
+> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026, pp. 6–24)]] | 韩国 8 名初中生（4 对配对），两节科学人机协同解释课（植物[[Growth\|生长]]与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像[[Transcription in Qualitative Research\|转录]]、数字生成物、访谈） | [[Man-Computer Symbiosis\|人机协同]]中的认识能动性行使与提示词迭代修正 | 学生未将 AI 视作真理代理，而是主动通过 4 轮提示词重构、对照教科书核验与图像细节纠错行使认知控制权 | 质性微观互动分析 | 证实基础教育阶段学生在双轨显性[[Epistemic Scaffolding\|认识论支架]]下能完全保持核心认识主体性 |
 > | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 358–368)]] | [[Man-Computer Symbiosis\|人机共生]]学习环境（涵盖初等、中等与高等教育探究任务） | 理论建构与多案例对比分析 | [[Epistemic Stances\|认识立场]]分类（绝对/相对/评价主义）与人机交互质量 | 评价主义立场学习者展现高水平证据审问与主动验证，而绝对主义者产生[[Cognitive Offloading\|认知卸载]]与盲从；双轨支架干预显著促进立场转化与认识主体性维持 | 理论推论与案例验证支撑 | 确立人机共生中认识立场调节共享认识能动性的[[Theoretical Validity\|理论有效性]] |
-> | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025, pp. 222–224)]] | 8 个公立初中科学班级（涵盖多元族裔与学业弱势群体） | 课堂自然观察、论辩言语系统[[Transcription in Qualitative Research\|转录]]与质性因果编码 | 口头辩论中的[[Epistemology\|认识论]]规范建构表现 | 学生在教师促学引导下展现高度认识能动性，自主协同提炼出野外生态观察的 5 大专业[[Reliability\|可靠性]]规范，突破了形式主义句法套话 | 具有高度语境[[Ecological Validity\|生态效度]] | 证实赋予认识能动权能显著激活弱势学生的实质因果推理与深层认识反思 |
+> | [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025, pp. 222–224)]] | 8 个公立初中科学班级（涵盖多元族裔与学业弱势群体） | 课堂自然观察、论辩言语系统[[Transcription in Qualitative Research\|转录]]与质性因果编码 | 口头辩论中的[[Epistemology\|认识论]]规范建构表现 | 学生在教师促学引导下展现高度认识能动性，自主协同提炼出野外生态观察的 5 大专业[[Reliability\|可靠性]]规范，突破了形式主义句法套话 | 具有高度语境[[Ecological Validity\|生态效度]] | 证实赋予认识能动权能显著激活弱势学生的实质因果推理与深层认识反思 |
 > | [[Argument_DeJong_2023_ERR\|Chase & Klahr (2017, cited in De Jong et al., 2023, p. 3)]] | 小学高年级物理实验探索 | 受控实验（自主设计权衡 vs. 教师[[Direct Instruction\|直接讲授]]方案） | 因果机制理解与跨情境远迁移测验 | 享有认识能动权（自主设计与权衡实验变量）的学生在因果机制解释与远迁移得分上显著优于直接讲授组 | 组间差异显著（$p < .05$） | 证实学生行使认识能动性对概念深度重组具有显著的促进效能 |
 > | [[Argument_DeJong_2023_ERR\|Dean & Kuhn (2007, cited in De Jong et al., 2023, p. 3)]] | 六年级科学探究与[[Control of Variables Strategy\|变量控制策略]]教学 | 纵向受控对比实验（直接教学组 vs. 探究练习组） | 13 周延迟技能保持率 | 仅接受直接教学组保持率暴跌至 31%，而持续行使探究能动权的学生保持率高达 78%–83% | 组间差异显著（$p < .05$） | 证实缺乏自主探究实践与能动反思的直接教学无法维系长效认知保持 |
 
@@ -332,11 +332,11 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - **[[Argument_Zhang_2022_SE\|Zhang et al. (2022)]]** — 提出[[Reflective Structuration|反思性结构化]]理论，通过长周期[[Interactional Ethnography|互动民族志]]揭示小学生如何通过共同构建意向领域与弹性组织构型行使实质性的认识能动性。
-> - **[[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]]** — 探究初中生在与[[Generative Artificial Intelligence\|生成式人工智能]]协同建构[[Scientific Explanation\|科学解释]]时如何行使认识能动性，揭示显性学科标准、反思提示语与课堂规范如何赋能学生对 AI 文本与多模态生成物进行自主检验与迭代修正。
+> - **[[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]]** — 探究初中生在与[[Generative Artificial Intelligence\|生成式人工智能]]协同建构[[Scientific Explanation\|科学解释]]时如何行使认识能动性，揭示显性学科标准、反思提示语与课堂规范如何赋能学生对 AI 文本与多模态生成物进行自主检验与迭代修正。
 > - **[[Argument_Wu_2025_ER\|Wu et al. (2025)]]** — 提出人机自适应[[Epistemic Stances\|认识立场]]与共生学习理论，论证人机共享认识能动性机制，系统剖析认识立场对主体性行使的[[Interaction Effect\|调节效应]]，并阐明双轨支架干预如何赋能学习者维系认知控制权。
 > - **[[Argument_Smith_2026_SPE\|Smith (2026)]]** — 提出私厨隐喻，揭示核心读写工序外包对认识主体性的系统性瓦解与[[Formative Epistemic Injustice|成长性认识不正义]]，论证确立[[Alien Intelligence|异己智能]]视角、思维步骤全外显与自我评估支架是捍卫求知者成长权的核心防线。
-> - **[[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]]** — 揭示初中生在格陵兰食物网口头辩论中，如何在教师促学引导下展现高度的认识能动性，自主推导并协同确立生态观察的五大专业[[Reliability\|可靠性]]规范。
-> - **[[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]** — 提出关系性认识主体性（Relational Epistemic Agency）作为规范目标，通过六维诊断标准与四条社会技术路径划定生产性依赖与有害性依赖的边界，为智能时代维护学习者的实质认识权能提供理论与设计指引。
+> - **[[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]]** — 揭示初中生在格陵兰食物网口头辩论中，如何在教师促学引导下展现高度的认识能动性，自主推导并协同确立生态观察的五大专业[[Reliability\|可靠性]]规范。
+> - **[[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]** — 提出关系性认识主体性（Relational Epistemic Agency）作为规范目标，通过六维诊断标准与四条社会技术路径划定生产性依赖与有害性依赖的边界，为智能时代维护学习者的实质认识权能提供理论与设计指引。
 > - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** — 将认识能动性确立为有效科学探究的核心要素之一，论证其在协调证据与模型、克服单一[[Direct Instruction\|直接教学]]长效保持脆弱性中的不可替代价值。
 > - **[[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]** — 针对[[Epistemic Cognition\|认识论认知]]干预的[[Meta-analysis\|元分析]]证实，放任自流式的开放辩论与无指导[[Problem Solving\|问题解决]]效果微弱，唯有依托结构化支架与显性证据确证规则的[[Inquiry-Based Learning\|指导式探究]]，才能实质性保障学生认识能动性的落地与学业促进。
 > - **[[Argument_Chinn_2011_EP\|Chinn et al. (2011)]]** — 提出扩展[[Epistemic Cognition\|认识论认知]]分析维度，为后续将认识能动性落地为 [[AIR Model of Epistemic Cognition\|AIR]] 模型中的[[Reliable Epistemic Processes\|可靠过程]]与[[Epistemic Ideals\|认识论理想]]提供理论基础。

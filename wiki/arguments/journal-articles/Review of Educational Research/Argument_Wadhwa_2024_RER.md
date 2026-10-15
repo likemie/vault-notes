@@ -154,7 +154,7 @@ updated: 2026-09-18
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **Campbellian 效度框架**<br>[[Campbellian Validity Framework]] | 从 Campbell & Fiske (1959) 的[[Multitrait-Multimethod Matrix\|多特质-多方法（MTMM）矩阵]]视角出发，将“基于证据”视作教育科学[[Praxis\|实践]]中的[[Construct\|构念]]。不同清算中心（不同测量方法）对同一项目（同一特质）的评级必须高度收敛，[[Reliability\|信度]]与可靠性是[[Construct Validity\|构念效度]]的[[Necessary and Sufficient Conditions\|必要条件]](p. 4)。 |
+> | **Campbellian 效度框架**<br>[[Campbellian Validity Framework]] | 从 Campbell and Fiske (1959) 的[[Multitrait-Multimethod Matrix\|多特质-多方法（MTMM）矩阵]]视角出发，将“基于证据”视作教育科学[[Praxis\|实践]]中的[[Construct\|构念]]。不同清算中心（不同测量方法）对同一项目（同一特质）的评级必须高度收敛，[[Reliability\|信度]]与可靠性是[[Construct Validity\|构念效度]]的[[Necessary and Sufficient Conditions\|必要条件]](p. 4)。 |
 > | **循证教育**<br>[[Evidence-Based Education]] | 提供制度与政策背景假设：假设高质量科学证据能够有效识别干预因果效应并支持大规模推广。论文严格区分了科学语境中基于严谨因果标准的 evidence-based 与公共政策语境中宽泛等同于“有正向效果”的 evidence-based。 |
 > | **因果识别与因果估计**<br>[[Causality]] | 区分单项研究的因果推断有效性（[[Internal Validity\|内部效度]]控制、流失、基线等值）与跨研究因果证据综合的附加条件（外部复制、独立性、时间持久性）(pp. 8–15)。 |
 
@@ -402,7 +402,7 @@ updated: 2026-09-18
 > [!chain-link] 案例一：开放式阅读（[[Open Court Reading]], OCR） —— 表面结论一致掩盖底层评估分歧
 > 小学早期读写项目，被 [[What Works Clearinghouse\|WWC]]、[[Blueprints for Healthy Youth Development\|Blueprints]] 和 [[Best Evidence Encyclopedia\|BEE]] 三家清算中心共同评价，均判定为“有望（Promising / Modest Evidence）”，但底层评价机制存在深刻分歧(pp. 22–23)：
 > - **核心 RCT 研究的评判与混淆争议** 三家中心均审查了 Borman et al. (2008) 的多中心集群 RCT。WWC 指出该研究未报告其首选学生样本的统计显著性，但平均效应量大于 0.25 SD，因而认定具有实质重要性；BEE 在初等阅读综述中因一年级仅有 9 个实验班和 7 个对照班而将其降级为“随机化准实验（randomized quasi-experiment）”，但在高年级综述中将其视为标准 RCT，并特别指出潜在的混杂变量——实验班每天接受 2.5 小时阅读教学，而对照班仅有 90 分钟常规阅读教学，其他中心均未指出此时间偏差；两家中心估计的效应量在 +0.10 至 +0.19 SD 之间，被 BEE 定性为“适度（modest）”。
-> - **准[[Experimental Research\|实验研究]]的采纳与剔除** 针对 Skindrud & Gersten (2006) 的准实验研究，WWC 与 Blueprints 均识别出未校正集群效应的问题。WWC 实施统计校正后发现结果不再显著但仍具实质重要性，因而将其纳入支持证据；Blueprints 则因集群问题、排除脱落者后的基线不平衡以及样本地域狭窄而彻底剔除该研究。
+> - **准[[Experimental Research\|实验研究]]的采纳与剔除** 针对 Skindrud and Gersten (2006) 的准实验研究，WWC 与 Blueprints 均识别出未校正集群效应的问题。WWC 实施统计校正后发现结果不再显著但仍具实质重要性，因而将其纳入支持证据；Blueprints 则因集群问题、排除脱落者后的基线不平衡以及样本地域狭窄而彻底剔除该研究。
 > - **启示** 即便清算中心最终给出了相同的底线评级（Promising），其内部关于设计分类、实施混杂及 QED 纳入规则的标准依然存在显著差异。
 
 > [!chain-link] 案例二：人人成功（Success for All, SFA） —— 结果域与项目变体导致的评价分化
@@ -426,7 +426,7 @@ updated: 2026-09-18
 > [!chain-link] 案例五：校内社区（[[Communities in Schools]], CIS） —— 最大极性冲突（全面推荐 vs 彻底否决）
 > 全美规模最大的高危学生综合支持与预防辍学项目，被 5 个中心评估（NDPC, PPN, CNCS EE, Blueprints, CMFR），出现完全对立的极端分歧(p. 25)：
 > - **NDPC 强力推荐** 基于未公开具体篇目的多项学生级 RCT 和 1 项学校级 QED，宣称在辍学率、出勤率、GPA 和初中数学/阅读上全面有效。
-> - **PPN 与 CNCS EE 评为有望 / 中度支持** PPN（2009年）依据一项完全未进行任何匹配的跨地点准实验（Rossman & Morley, 1995）给出有望评级；CNCS EE 依据 Parise et al. (2017) 的 2 年期 RCT（改善非学业结果）与 Somers & Haider (2017) 的中断时间序列研究（ITS 显示干预组毕业率提升，但未超越对照组自然增长）评为中度支持。
+> - **PPN 与 CNCS EE 评为有望 / 中度支持** PPN（2009年）依据一项完全未进行任何匹配的跨地点准实验（Rossman & Morley, 1995）给出有望评级；CNCS EE 依据 Parise et al. (2017) 的 2 年期 RCT（改善非学业结果）与 Somers and Haider (2017) 的中断时间序列研究（ITS 显示干预组毕业率提升，但未超越对照组自然增长）评为中度支持。
 > - **Blueprints 与 CMFR 彻底否决（Not Endorsed / Inconclusive）** Blueprints 认为现有研究缺乏足够高质量 RCT/QED 或存在严重方法缺陷，判定为证据不确定；CMFR 因截至 2018 年初检索不到任何评估 CIS 的同行评审出版物而拒绝背书。
 
 > [!warrant]- 步骤五深度解读：微观案例如何解构宏观评价的神话

@@ -71,7 +71,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Clark A. Chinn
@@ -150,9 +150,9 @@ updated: 2026-10-15
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 作为核心作者之一，提出探究学习六要素[[Analytic Framework\|分析框架]]，运用详实实证反驳[[Direct Instruction\|直接教学]]绝对优越论，确立指导式探究的循证优越性与时序协同模型。
-> - [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] — 联合提出基于 AIR 模型的科学论证质量评价新范式，论证初中生如何在真实生态探究中行使[[Epistemic Agency\|认识能动性]]并协同建构可靠性规范。
+> - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 联合提出基于 AIR 模型的科学论证质量评价新范式，论证初中生如何在真实生态探究中行使[[Epistemic Agency\|认识能动性]]并协同建构可靠性规范。
 > - [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] — 奠基性论文，系统引入当代哲学认识论，确立扩展认识论认知分析维度，为后续 AIR 模型的诞生奠定理论基础。
-> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 引证 Chinn 等人（2011）的认识论认知理论，论证学习者关于知识、证据与确证的认知信念如何塑造其与生成式 AI 交互时的[[Epistemic Dependence\|认识依赖]]与[[Evaluative Judgement\|评价性判断]]。
+> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 引证 Chinn 等人（2011）的认识论认知理论，论证学习者关于知识、证据与确证的认知信念如何塑造其与生成式 AI 交互时的[[Epistemic Dependence\|认识依赖]]与[[Evaluative Judgement\|评价性判断]]。
 
 ---
 
@@ -182,7 +182,7 @@ updated: 2026-10-15
 > > 争论科学论证应当依据图尔敏结构（主张、数据、保证）打分，还是依据证据因果机制与[[Epistemic Ideals\|认识论理想]]评定。
 > >
 > > - **形式句法派立场** 强调论证的外在结构规范与连接词完整性，便于大规模量化评分与程序教学。
-> > - **Chinn & Duncan（2025）** 指出过分看重句法套话会导致仪式化表演，容易误伤使用日常口语但具备深刻因果洞察的弱势学生，主张从句法评价走向实质认识论评价。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222–224)]]
+> > - **Chinn and Duncan（2025）** 指出过分看重句法套话会导致仪式化表演，容易误伤使用日常口语但具备深刻因果洞察的弱势学生，主张从句法评价走向实质认识论评价。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222–224)]]
 >
 > > [!axis] [[Inquiry-Based Learning\|指导式探究]]的[[Epistemic Value\|认识论价值]] vs 认知负荷派的[[Direct Instruction\|直接教学]]优越论
 > > 争论教学是否应由教师直接灌输预制知识，还是通过支架引导学生经历探究推论。
@@ -208,5 +208,5 @@ updated: 2026-10-15
 > | [[Inquiry-Based Learning]] | 概念 | 提出科学探究六要素模型，系统反驳[[Direct Instruction\|直接教学]]绝对优越论。 |
 > | [[Epistemic Agency]] | 概念 | 将认识主体性从行为参与深化为元[[Epistemology\|认识论]]审议与因果准则共建。 |
 > | [[PRACCIS]] | 项目 | 主持研发的大型科学探究课程，将 AIR 认知模型转化为实践支架。 |
-> | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] | 论证 | 确立基于[[Epistemic Ideals\|认识论理想]]与可靠过程的论证质量评价新[[Paradigm\|范式]]。 |
+> | [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] | 论证 | 确立基于[[Epistemic Ideals\|认识论理想]]与可靠过程的论证质量评价新[[Paradigm\|范式]]。 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 联合发表系统反驳文献，确立指导式探究的循证优越性。 |

@@ -34,14 +34,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 # Internal and External Generalizability
 
 ## 定义
 
 > [!def] 核心定义
-> Onwuegbuzie & Leech（2007）区分了[[Qualitative Research\|质性研究]]中两种不同层次的推广性（[[External Validity\|generalizability]]）：内部推广性（Internal Generalizability）指研究中某个子组的数据发现能够推广到整个样本的其余部分；外部推广性（External Generalizability）指整个样本的发现能够推广到更广泛的总体。这一区分挑战了"质性研究不追求推广"的简单化论断——质性研究可以在内部推广性上有明确追求，而外部推广性虽更困难但也可能，通常需要大样本。
+> Onwuegbuzie and Leech（2007）区分了[[Qualitative Research\|质性研究]]中两种不同层次的推广性（[[External Validity\|generalizability]]）：内部推广性（Internal Generalizability）指研究中某个子组的数据发现能够推广到整个样本的其余部分；外部推广性（External Generalizability）指整个样本的发现能够推广到更广泛的总体。这一区分挑战了"质性研究不追求推广"的简单化论断——质性研究可以在内部推广性上有明确追求，而外部推广性虽更困难但也可能，通常需要大样本。
 
 > [!concept-lens] 概念透镜
 > - **含义** 内部推广性处理样本内的推论——子组 → 整体样本；外部推广性处理样本外的推论——样本 → 总体。
@@ -66,17 +66,17 @@ updated: 2026-09-17
 ## 围绕概念形成的命题
 
 > [!claim] [[Qualitative Research\|质性研究]]可以有外部推广性
-> Onwuegbuzie & Leech（2007, p. 240）认为，外部推广性和对总体的推论可以在质性研究中出现——与[[Quantitative Research\|定量研究]]一样，这通常需要大样本（p.242）。但许多时候，质性抽样的目的不是推广或比较，而是呈现具有自身内在价值的独特案例（p.249）。
+> Onwuegbuzie and Leech（2007, p. 240）认为，外部推广性和对总体的推论可以在质性研究中出现——与[[Quantitative Research\|定量研究]]一样，这通常需要大样本（p.242）。但许多时候，质性抽样的目的不是推广或比较，而是呈现具有自身内在价值的独特案例（p.249）。
 
 > [!claim] [[Sample Size Determination\|样本量]]在两种推广性中扮演不同角色
 > 质性研究的样本量应足够大以生成[[Rich and Thick Description\|厚描述]]（Geertz, 1973）和丰富数据，但不能太大以致数据过载阻碍深度分析或滑向泛化，也不能太小以致阻碍[[Saturation\|理论饱和]]（p.242）。对于内部推广性，每个子组不应少于 3 个案例（p.245）。
 
 > [!claim] 多层次抽样中的推广性嵌套
-> Onwuegbuzie & Leech（2007, pp. 239–240）进一步指出，多层次抽样设计（如学生嵌套于班级、班级嵌套于学校）中，内部推广性可在不同层次上分别考察，外部推广性则需考虑每个层次的代表性。
+> Onwuegbuzie and Leech（2007, pp. 239–240）进一步指出，多层次抽样设计（如学生嵌套于班级、班级嵌套于学校）中，内部推广性可在不同层次上分别考察，外部推广性则需考虑每个层次的代表性。
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] — 引述 Onwuegbuzie & Leech（2007）的内部/外部推广性区分，讨论其在[[Qualitative Research\|质性研究]]抽样中的应用。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] — 引述 Onwuegbuzie and Leech（2007）的内部/外部推广性区分，讨论其在[[Qualitative Research\|质性研究]]抽样中的应用。

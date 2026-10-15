@@ -74,7 +74,7 @@ sources:
 part_of: "[[Argument_Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-05
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 # Argument_Cowen_2009_HistoryCreation
 
@@ -123,7 +123,7 @@ updated: 2026-10-08
 > [!sample-panel] 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **经典文献样本** | 聚焦 Noah & Eckstein (1969)《走向比较教育科学》、Bereday (1964)《教育中的比较方法》、[[Michael Sadler\|Michael Sadler]]（Sadler, 1964/1900）经典演讲文本。 |
+> | **经典文献样本** | 聚焦 Noah and Eckstein (1969)《走向比较教育科学》、Bereday (1964)《教育中的比较方法》、[[Michael Sadler\|Michael Sadler]]（Sadler, 1964/1900）经典演讲文本。 |
 > | **参照学科样本** | 涵盖 William Dalrymple (2007) 莫卧儿帝国史、Arthur Herman (2006) 苏格兰[[Enlightenment\|启蒙运动]]史、Norman Davies (1997) 与 Tony Judt (2007) 欧洲史，以及 Randall Collins (1998)《哲学社会学》、Robert W. Friedrichs (1970)《社会学之社会学》、James R. Bartholomew (1989) 日本现代科学建制史。 |
 > | **考察人物与传统** | 涵盖[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）、[[Joseph Lauwerys\|约瑟夫·劳韦里斯]]（Joseph Lauwerys）、[[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）、多明戈·福斯蒂诺·萨米恩托（Domingo Faustino Sarmiento）、阿尼西奥·特谢拉（Anísio Teixeira），以及隐形女性学者安·德赖兰（Ann Dryland）和哈廷盖夫人（Madame Hattinguais）等。 |
 
@@ -132,7 +132,7 @@ updated: 2026-10-08
 > |---|---|---|---|
 > | **主流政治文化史**<br>（Mainstream Monumental History） | Dalrymple (2007) *The Last Mughal*；Herman (2006) *The Scottish Enlightenment*；Judt (2007) *Postwar* | 依赖整批全新发掘的国家级国家档案馆史料，或建立在长达数十项专门专著之上的宏大书目系统，其参考文献本身即可成篇。 | 展现了一流史学著述所必须具备的材料密度与语境化深度，反衬出比较教育学史在史料厚度上的严重匮乏。（p.8） |
 > | **学科制度与思想社会学**<br>（Sociology of Disciplines / Fields） | Collins (1998) *The Sociology of Philosophies*；Friedrichs (1970)；Bartholomew (1989) *The Formation of Science in Japan* | 虽同样以学科领域为对象，但建立在跨越千年与全球各大文明的致密师承网络、机构档案及社会学统计之上。 | 彻底驳斥了学科领域史必然材料单薄的借口，证明专门[[Areas of Knowledge\|知识领域]]的历史完全能够达到极高密度的史学水准。 |
-> | **比较教育学现有学科史**<br>（Current Historiography of Comparative Education） | Noah & Eckstein (1969)；Bereday (1964)；Vandra Masemann, Mark Bray & Maria Manzon (2007)；Pereyra 关于 Kandel 的研究 | 绝大多数大学档案沉睡未碰，依赖零星私人信件与初步口述史；中坚学者差旅与档案挖掘极其艰难，缺乏制度化资助。 | 仍处于零散文章与线索提示阶段，资料密度极其稀薄，亟需通过跨国协同研究推动档案的系统性开掘。（pp.7–8） |
+> | **比较教育学现有学科史**<br>（Current Historiography of Comparative Education） | Noah and Eckstein (1969)；Bereday (1964)；Vandra Masemann, Mark Bray and Maria Manzon (2007)；Pereyra 关于 Kandel 的研究 | 绝大多数大学档案沉睡未碰，依赖零星私人信件与初步口述史；中坚学者差旅与档案挖掘极其艰难，缺乏制度化资助。 | 仍处于零散文章与线索提示阶段，资料密度极其稀薄，亟需通过跨国协同研究推动档案的系统性开掘。（pp.7–8） |
 
 ---
 
@@ -156,11 +156,11 @@ updated: 2026-10-08
 > 在比较教育学制度化的早期阶段，学科经典史学著作主要承担了为学者提供学科存在感与职业合法性的功能；然而数十年后，这种对合法性的满足反而遮蔽了学科真实历史的大量空白。（p.7）
 
 > [!evidence-grid] 起源叙事合法化与历史真空的实证依据
-> - **青年学者的合法化认同** Noah & Eckstein (1969) 在经典著作中极其清晰地梳理了学科源流，Bereday (1964) 则详尽记载了各国学者与院系分布。这些著作让青年学者确信比较教育学作为一个独立领域而存在，并为其提供了坚实的职业踏板（The history legitimated me）。（p.7）
+> - **青年学者的合法化认同** Noah and Eckstein (1969) 在经典著作中极其清晰地梳理了学科源流，Bereday (1964) 则详尽记载了各国学者与院系分布。这些著作让青年学者确信比较教育学作为一个独立领域而存在，并为其提供了坚实的职业踏板（The history legitimated me）。（p.7）
 > - **合法化后的历史真空** 数十年过去，在学科获得充分体制合法性之后，深层的历史探究却陷入停滞：大量大学档案未被触碰，皮特·[[Jacob S. Hacker|哈克]]特（Peter Hackett）与理查德·拉帕茨（Richard Rapacz）等学者的私人通信未获系统整理，口述史研究尚在起步阶段。
 
 > [!exegesis] 经典奠基著作的学科合法化与认同功能
-> 考恩以自身学术生涯的切身经历揭示了起源历史的功能主义实质。当他初到美国、出乎意料地在研究生院讲授社会学与比较教育学时，[[Harold Noah]] 与 [[Max Eckstein]] 是学界最先热情接纳他的人。更重要的是，在考恩作为学生思考是否专攻该领域时，正是 Noah & Eckstein (1969) 与 Bereday (1964) 的著作化解了他的学科认同焦虑：
+> 考恩以自身学术生涯的切身经历揭示了起源历史的功能主义实质。当他初到美国、出乎意料地在研究生院讲授社会学与比较教育学时，[[Harold Noah]] 与 [[Max Eckstein]] 是学界最先热情接纳他的人。更重要的是，在考恩作为学生思考是否专攻该领域时，正是 Noah and Eckstein (1969) 与 Bereday (1964) 的著作化解了他的学科认同焦虑：
 > - Noah & Eckstein 以示范性的清晰逻辑和繁密的学术注释界定了学科谱系；
 > - Bereday 则生动勾勒了各国比较教育学者、院系及大学建制。
 >
@@ -186,13 +186,13 @@ updated: 2026-10-08
 
 > [!evidence-grid] 学科史研究结构性困境的文献与案例证据
 > - **体制激励的倒错** 青年学者深知从事档案开掘难以产出高频指标，口述史虽有[[Gita Steiner-Khamsi\|吉塔·斯泰纳-哈姆西]]（Gita Steiner-Khamsi）等人开创先河，但[[Comparative Education Society in Europe\|欧洲比较教育学会]]（[[Comparative and International Education Society\|Comparative Education Society]] in Europe, CESE）等机构迟迟未能制度化推进。（p.7）
-> - **个案攻坚的沉重代价** 米格尔·佩雷拉（Miguel Pereyra）对 [[Isaac Kandel]] 的深入研究需要耗费巨大心血与长途跨国差旅，中坚学者虽能勉力支撑，但缺乏任何稳定的体制资助；Masemann, Bray & Manzon (2007) 在编纂[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（World Council of Comparative Education Societies, WCCES）通史时的鸣谢词同样直陈此类工程的极度艰辛。（pp.7–8）
+> - **个案攻坚的沉重代价** 米格尔·佩雷拉（Miguel Pereyra）对 [[Isaac Kandel]] 的深入研究需要耗费巨大心血与长途跨国差旅，中坚学者虽能勉力支撑，但缺乏任何稳定的体制资助；Masemann, Bray and Manzon (2007) 在编纂[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（World Council of Comparative Education Societies, WCCES）通史时的鸣谢词同样直陈此类工程的极度艰辛。（pp.7–8）
 > - **资料密度的悬殊差距** 主流史学如 Dalrymple (2007) 依赖全新解密的国家档案，Herman (2006) 依赖浩繁的既有专题文献，Judt (2007) 与 Davies (1997) 的参考书目动辄需要专章篇幅罗列；即便在专门领域史中，Collins (1998)《哲学社会学》、Friedrichs (1970) 或 Bartholomew (1989) 日本科学史的实证密度，亦令比较教育学史相形见绌。（p.8）
 
 > [!exegesis] 坎德尔档案攻坚与 WCCES 通史项目
 > 考恩通过两个代表性案例剖析了史学研究的现实阻力：
 > 1. **Pereyra 对 Kandel 的史学追索** Isaac Kandel 作为 20 世纪比较教育的巨擘，其跨国学术档案散落于欧美各大机构。西班牙学者 Miguel Pereyra 长期致力于 Kandel 的史料爬梳，但这要求学者自行承担繁重的国际差旅与高昂开支。这种依靠个人坚守的单兵挖掘几乎已达中年学者承受能力的极限，直接暴露出学术界对学科史研究结构性支持的制度性真空。（pp.7–8）
-> 2. **WCCES 历史编纂的艰辛** Masemann, Bray & Manzon (2007) 出版的《共同利益，不同目标》（*Common Interests, Uncommon Goals*）系统记录了世界比较教育学会联合会（WCCES）及其成员的历史。该书开篇的鸣谢词极其坦率地指出了组织严肃史学研究所面临的庞大阻力，从跨国档案协调、口述采访到史料考证，每一步都耗费了难以想象的组织心力，进一步印证了缺乏体制化支持时推进宏大学科史工程的艰难。（p.7）
+> 2. **WCCES 历史编纂的艰辛** Masemann, Bray and Manzon (2007) 出版的《共同利益，不同目标》（*Common Interests, Uncommon Goals*）系统记录了世界比较教育学会联合会（WCCES）及其成员的历史。该书开篇的鸣谢词极其坦率地指出了组织严肃史学研究所面临的庞大阻力，从跨国档案协调、口述采访到史料考证，每一步都耗费了难以想象的组织心力，进一步印证了缺乏体制化支持时推进宏大学科史工程的艰难。（p.7）
 
 > [!warrant] 史学劳动投入与文献密度的决定机制
 > 优质史学研究绝非凭空构建的理论沉思，它高度依附于密集的原始材料与代际累积的劳动投入；在学术晋升激励缺失、跨国差旅资金匮乏的双重挤压下，比较教育学必然面临[[Primary and Secondary Documents\|原始文献]]密度过低与实证底座不稳的客观瓶颈。（p.8）

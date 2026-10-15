@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Symbiotic Framework of Adaptive Epistemic Stances
@@ -90,7 +90,7 @@ updated: 2026-10-15
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 巫俊宇（Jiun-Yu Wu）、李元萱（Yuan-Hsuan Lee）、柴清生（Ching Sing Chai）与[[Chin-Chung Tsai\|蔡今中]]（Chin-Chung Tsai）于 2025 年在 *Educational Researcher* 发表专论 *Strengthening Human [[Epistemic Agency]] in the Symbiotic Learning Partnership With [[Generative Artificial Intelligence]]*。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–368)]]
 > - **原初问题** 生成式大模型（如 [[General Purpose Technology|GPT]]-4.5、Gemini 2.5、Claude 3.5）提供了高度整合且流畅的知识解答，弱化了学习者自主检索、筛选和[[Assemblage\|组装]]信息的必要性，引发了人类主体可能丧失认识能动性的普遍担忧。
-> - **理论资源与材料** 汲取 Tsai (2004) 关于网络学习[[Epistemology\|认识论]]的两大经典假说、[[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] 与 [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 的[[Epistemic Stances\|认识论立场]]三阶段模型（绝对论、多元论、评价论）、Scardamalia (2002) 的集体认识责任理论，并结合大学生使用 ChatGPT 解决统计推论[[Homework\|作业]]的微观交互对[[Discourse|话语]]料。
+> - **理论资源与材料** 汲取 Tsai (2004) 关于网络学习[[Epistemology\|认识论]]的两大经典假说、[[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] 与 [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 的[[Epistemic Stances\|认识论立场]]三阶段模型（绝对论、多元论、评价论）、Scardamalia (2002) 的集体认识责任理论，并结合大学生使用 ChatGPT 解决统计推论[[Homework\|作业]]的微观交互对[[Discourse|话语]]料。
 > - **形成路径** 将网络搜索引擎时代基于自主信息筛选的认识论模型，重塑为生成式大模型时代基于对话质询、批判检验与[[Man-Computer Symbiosis|人机共生]]的自适应认识立场框架，推导出两大修订核心命题。
 
 ### 后续修订与扩展
@@ -161,4 +161,4 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 框架奠基专论，系统建构自适应[[Epistemic Stances\|认识立场]]与[[Man-Computer Symbiosis|人机共生]]学习理论，提出两大核心修订命题。
-> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 从关系性[[Epistemology\|认识论]]视角探讨人机相互依赖下的主体性自持，与本框架形成互补呼应。
+> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 从关系性[[Epistemology\|认识论]]视角探讨人机相互依赖下的主体性自持，与本框架形成互补呼应。

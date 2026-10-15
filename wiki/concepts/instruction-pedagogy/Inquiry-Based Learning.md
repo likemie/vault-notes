@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-20
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Inquiry-Based Learning
@@ -205,9 +205,9 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **指导协同增益** | 指导式探究在概念理解与迁移上优于单一直接讲授，显性支架防范认知超载，纯发现无效 | 中小学及大学理科概念与实验技能教学、认识论认知干预 | Alfieri et al. (2011); Lazonder & Harmsen (2016); [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4–5)]]; [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021, pp. 485–486)]] |
+> | **指导协同增益** | 指导式探究在概念理解与迁移上优于单一直接讲授，显性支架防范认知超载，纯发现无效 | 中小学及大学理科概念与实验技能教学、认识论认知干预 | Alfieri et al. (2011); Lazonder and Harmsen (2016); [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4–5)]]; [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021, pp. 485–486)]] |
 > | **时序动态整合** | 探究与直接讲授在不同节点互补嵌入（前置、即时或生产性失败），决定长效保持 | 科学探究课程单元设计与延迟迁移巩固 | [[Deanna Kuhn\|Dean & Kuhn (2007)]]; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 8–10)]] |
-> | **目标与特质调节** | 依据教学目标层次、领域先验知识与抑制控制能力动态调整指导强度 | 差异化教学与智能化数字探究环境开发 | Frey et al. (2017); Gerard & Linn (2022); Homer & Plass (2014) |
+> | **目标与特质调节** | 依据教学目标层次、领域先验知识与抑制控制能力动态调整指导强度 | 差异化教学与智能化数字探究环境开发 | Frey et al. (2017); Gerard and Linn (2022); Homer and Plass (2014) |
 
 ---
 

@@ -80,7 +80,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Scale Development
@@ -302,7 +302,7 @@ updated: 2026-10-15
 
 > [!evidence-grid] 使用量表编制方法论的经典实证代表作
 > - **《[[Research Literacy Scale for Teachers\|教师研究素养量表]]》（RLS）** [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] 严格遵循 DeVellis 现代[[Paradigm\|范式]]开发 20 题四维度量表，在样本 1（$N=310$）中通过 EFA 提取 4 因子（解释 $62.60\%$ 方差），在独立样本 2（$N=258$）中通过 [[Confirmatory Factor Analysis\|CFA]] 确立二阶因子结构，验证了各维度优良的 [[Average Variance Extracted\|AVE]]（$.50\sim.56$）、CR（$.75\sim.90$）及跨性别严格[[Measurement Invariance\|测量等值性]]，并运用 [[Multivariate Analysis of Variance\|MANOVA]] 证实了做研究与读期刊的双轨独立赋能机制。
-> - **《[[Confidence Teaching TOK Scale\|知识论教学信心量表]]》** [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015)]] 编制并验证包含 11 道题的教学信心量表，通过 EFA 确立单因子结构并解释 35.03% 方差，为评估跨学科[[Epistemology\|认识论]]教学效能感提供标准化工具。
+> - **《[[Confidence Teaching TOK Scale\|知识论教学信心量表]]》** [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015)]] 编制并验证包含 11 道题的教学信心量表，通过 EFA 确立单因子结构并解释 35.03% 方差，为评估跨学科[[Epistemology\|认识论]]教学效能感提供标准化工具。
 > - **《[[Epistemic and Ontological Cognition Questionnaire\|认识论与本体论认知问卷]]》（EOCQ）** [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] 编制并检验 13 题[[Questionnaire\|问卷]]，通过 CFA 在数学和历史领域检验[[Epistemological Beliefs\|认识论信念]]与[[Ontology\|本体论认知]]的维度结构及[[Domain Specificity\|领域特异性]]拟合度。
 
 ---

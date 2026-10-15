@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Epistemological Coherence
@@ -91,7 +91,7 @@ updated: 2026-10-15
 > | **核心关切** | 知识从生产到应用全链条逻辑的自洽与保真 | 实验或调查设计在技术与统计层面的无偏性 | 政策文本在政治网络中的可接受度与落地阻力 |
 > | **评估标准** | 认识论假设、因果机制与情境边界的完整性 | [[Random Assignment\|随机分配]]、样本代表性、控制[[Variable\|变量]]与显著性 | 符合部长偏好、规避政治风险、满足公关修辞 |
 > | **断裂后果** | 科学真知退化为 [[Doxa\|doxa]]、教条与伪科学 | 统计推论偏误、混淆变量干扰、假阳性发现 | 政策受阻、舆论反弹或议会质询 |
-> | **代表文献** | [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] | Shadish, Cook & Campbell (2002) | March & Olsen (1989) |
+> | **代表文献** | [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] | Shadish, Cook and Campbell (2002) | March and Olsen (1989) |
 
 ---
 
@@ -134,7 +134,7 @@ updated: 2026-10-15
 > [!concept-lens] 证据异化与伪科学机制
 > 探讨学术研究在进入政治[[Champ\|场域]]后为何会由科学结论异化为僵化的行政[[Disciplina and Doctrina\|规训]]。
 
-> [!claim] [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]]
+> [!claim] [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]]
 > **[[Epistemology\|认识论]]链条断裂导致真知退化为 [[Doxa]]** 当[[Policy Network\|政策网络]]脱离原始研究的完整论证脉络，仅凭单一[[Effect Size\|效应量]]或口号式结论制定政策时，严谨科学所需的认识论连贯性即被切断；教育研究不再发挥启发专业思考的作用，反而被固化为不容置疑的操作教条，使教师被降格为执行标准化干预的被动受众，加剧了政策实践中的伪科学风险。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 95–96)]]
 
 ---
@@ -144,7 +144,7 @@ updated: 2026-10-15
 > [!concept-lens] 政策网络与中介偏误
 > 揭示官僚流动性与政治偏好如何从制度上瓦解科学知识的连贯转化。
 
-> [!claim] [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]]
+> [!claim] [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]]
 > **文官轮岗、口口相传与落地偏好** 在高流动率的官僚体系中，公务员缺乏研读完整学术原著的时间与专业训练，高度依赖社交媒体博主与官方扶植中介的口口相传；加之政府[[Gatekeepers\|守门人]]强烈的“落地偏好”，符合官方政治路线的片段证据被过度放大，相悖结论被隐匿搁置，最终从制度上腰斩了认识论连贯性。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 94–96)]]
 
 ---
@@ -154,7 +154,7 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **[[Epistemological Break\|认识论断裂]]与伪科学** | 揭示[[Chain of Evidence\|证据链]]条断裂导致科学知识退化为行政操作教条的机制 | [[Evidence-Based Education\|循证教育]]改革、国家课程框架与标准化教师规程 | [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]]; Cartwright |
+> | **[[Epistemological Break\|认识论断裂]]与伪科学** | 揭示[[Chain of Evidence\|证据链]]条断裂导致科学知识退化为行政操作教条的机制 | [[Evidence-Based Education\|循证教育]]改革、国家课程框架与标准化教师规程 | [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]]; Cartwright |
 > | **制度推手与中介偏误** | 剖析文官轮岗、口碑中介与政治守门对科学连贯性的系统破坏 | 国家教育政策网络与智库转译机制 | [[Ian Menter\|Menter]] & Helgetun; Ball |
 
 
@@ -165,7 +165,7 @@ updated: 2026-10-15
 > [!dev-timeline] 概念演变
 > - **2000s — [[Critical Realism\|批判实在论]]与三层[[Ontology\|本体论]]** Bhaskar 与 Sayer 提出实在论科学观，强调因果机制必须与经验现象和情境条件保持内在逻辑统一。
 > - **2010s — 循证外推困境的识别** Cartwright 提出证据外推三阶段模型，Wiliam 论证教育知识的情境依赖性，揭示跨情境迁移的[[Epistemology\|认识论]]鸿沟。
-> - **2022 年 — 全流程认识论连贯性概念成型** [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] 正式将“全流程认识论连贯性”确立为抵御[[Policy-Based Evidence-Making\|基于政策的证据制造]]与政策伪科学的核心规范，系统建构了连接生产、转译与落地的批判框架。
+> - **2022 年 — 全流程认识论连贯性概念成型** [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] 正式将“全流程认识论连贯性”确立为抵御[[Policy-Based Evidence-Making\|基于政策的证据制造]]与政策伪科学的核心规范，系统建构了连接生产、转译与落地的批判框架。
 
 ---
 
@@ -184,5 +184,5 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] — 首次在教师教育政策与[[Evidence Era\|证据时代]]语境中系统阐发全流程[[Epistemology\|认识论]]连贯性概念，揭示其在[[Policy Network\|政策网络]]中被割裂的制度机制。
+> - [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] — 首次在教师教育政策与[[Evidence Era\|证据时代]]语境中系统阐发全流程[[Epistemology\|认识论]]连贯性概念，揭示其在[[Policy Network\|政策网络]]中被割裂的制度机制。
 > - [[Critique of Evidence-Based Education]] — 循证教育批判总条目，包含认识论缺陷、民主缺陷与[[Institutional Isomorphism\|制度同构]]批判。

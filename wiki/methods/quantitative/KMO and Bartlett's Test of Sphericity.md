@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # KMO and Bartlett's Test of Sphericity
@@ -71,7 +71,7 @@ updated: 2026-10-15
 > [!formula-step] 公式步骤一　KMO 抽样适宜性系数（Kaiser-Meyer-Olkin Measure）
 > $$\text{KMO} = \frac{\sum_{i \ne j} r_{ij}^2}{\sum_{i \ne j} r_{ij}^2 + \sum_{i \ne j} a_{ij}^2}$$
 >
-> **这个公式在做什么** 对比所有[[Variable\|变量]]对之间的**简单相关系数平方和（$\sum r_{ij}^2$）**与**简单相关平方和加上偏相关系数平方和（$\sum a_{ij}^2$）**的比值。
+> **这个公式在做什么** 对比所有[[Variable\|变量]]对之间的**简单相关系数平方和（$\sum r_{ij}^2$）** 与**简单相关平方和加上偏相关系数平方和（$\sum a_{ij}^2$）** 的比值。
 >
 > **符号说明**
 > - $r_{ij}$：变量 $i$ 与变量 $j$ 之间的零阶皮尔逊[[Pearson Product-Moment Correlation\|积差相关]]系数。

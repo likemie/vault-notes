@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Perpetual Peace
@@ -193,7 +193,7 @@ updated: 2026-10-15
 > |---|---|---|---|
 > | **教育预防与和平载体** | 跨国教育协作与公民理性启蒙是克服野蛮战争、防范暴乱与构建永久和平的根本实践载体 | [[Enlightenment\|启蒙运动]]后现代民族国家教育功能论与跨国教育治理蓝图设计 | Kant (1784, 1795); Jullien (1817) |
 > | **世界主义认识论灵魂** | 永久和平的人道主义承诺赋予比较教育学超越狭隘技术主义的崇高伦理关怀与正义批判维度 | 比较教育学史学史、[[Wight's Three Traditions of International Theory\|国际关系理论]]传统与当代批判比较教育研究 | Wight (1992); [[Argument_Klerides_2023_CE\|Klerides (2023)]]; Kazamias (2009) |
-> | **现实主义威慑修正** | 单方面去武力化无法换取永久和平，缺乏硬实力威慑的和平自满反向诱发地缘失衡与安全危机 | 后冷战大国长和平反思、同盟自主防务、AI 威慑与[[Technological Republic\|技术共和国]]战略 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025)]] |
+> | **现实主义威慑修正** | 单方面去武力化无法换取永久和平，缺乏硬实力威慑的和平自满反向诱发地缘失衡与安全危机 | 后冷战大国长和平反思、同盟自主防务、AI 威慑与[[Technological Republic\|技术共和国]]战略 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]] |
 
 ---
 
@@ -252,6 +252,6 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 系统考证朱利安如何深受[[Immanuel Kant|康德]]启蒙自主性与[[Jean-Jacques Rousseau|卢梭]]自然主义触动，将比较教育建构为预防政治暴力、推动欧洲永久和平的准科学人道主义工程。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009)]] — 系统考证朱利安如何深受[[Immanuel Kant|康德]]启蒙自主性与[[Jean-Jacques Rousseau|卢梭]]自然主义触动，将比较教育建构为预防政治暴力、推动欧洲永久和平的准科学人道主义工程。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 阐释马丁·[[Wight's Three Traditions of International Theory|怀特国际理论三大传统]]，揭示康德式[[Revolutionism|革命主义]]传统的[[Cosmopolitanism|世界主义]]道德激情与消弭人类苦难追求对比较教育批判学术传统的深远启迪。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 深刻解构西方社会对永久和平自然降临的自由主义幻觉，批判同盟体系单方面去武力化引发的地缘脆弱性，确立以软件[[Hard Power|硬实力]]与 AI 威慑捍卫[[Long Peace|长和平]]的现实主义秩序。

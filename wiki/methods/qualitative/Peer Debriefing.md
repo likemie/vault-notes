@@ -148,12 +148,12 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **审视者身份** | 方法论同行——熟悉[[Qualitative Research\|质性研究]]但未参与本项目 | 研究参与者——提供原始经验资料的当事人 | 完全独立的外部审计专家——不参与项目亦无私交 |
 > | **审视内容** | 研究者的**推理过程与理论建构**——解释是否逻辑严密、证据充分 | 研究者的**事实描述与意义还原**——是否真实反映参与者的切身体验 | 研究的**程序合规性与审计线索**——整个研究过程是否可追溯、可核查 |
-> | **互动方式** | 类似**交叉质询（Cross-examination）**的辩驳性[[Dialogue in Education\|对话]] | 参与者确认、修正或补充——协商性沟通（Negotiation） | 独立审查研究[[Document\|过程档案]]——单向审计评估（Audit Trail） |
+> | **互动方式** | 类似**交叉质询（Cross-examination）** 的辩驳性[[Dialogue in Education\|对话]] | 参与者确认、修正或补充——协商性沟通（Negotiation） | 独立审查研究[[Document\|过程档案]]——单向审计评估（Audit Trail） |
 > | **[[Epistemic Value\|认识论价值]]** | 外部制衡研究者主观盲点，促进主体间性共识 | 尊重当事人对其生活世界经验的知情权威 | 确立研究程序的可确认性（Confirmability） |
 > | **在 L&G 框架中位置** | 可信性（Credibility）核心策略 | 既是可信性策略，也是[[Reliability\|可依赖性]]（Dependability）策略 | 确立可依赖性与可确认性的独立程序 |
 
 > [!note]- Lincoln & Guba 对同行汇报与成员核查的功能区分
-> Lincoln & Guba (1985, p. 315) 在讨论[[Interpretive Paradigm\|自然主义探究]]时明确区分：**[[Triangulation\|三角验证]]**是对**数据源**的交叉核验；**成员核查**是对**当事人意义建构**的忠实度核对；而**同行汇报**则聚焦于研究者**如何加工与建构数据**。它是对研究者从经验语料上升至理论论据全过程的社会[[Epistemology\|认识论]]检验。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 167)]]
+> Lincoln and Guba (1985, p. 315) 在讨论[[Interpretive Paradigm\|自然主义探究]]时明确区分：**[[Triangulation\|三角验证]]** 是对**数据源**的交叉核验；**成员核查**是对**当事人意义建构**的忠实度核对；而**同行汇报**则聚焦于研究者**如何加工与建构数据**。它是对研究者从经验语料上升至理论论据全过程的社会[[Epistemology\|认识论]]检验。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 167)]]
 
 ---
 
@@ -195,4 +195,4 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011, Ch. 10)]] — 在 Lincoln & Guba [[Qualitative Validity\|质性效度]]框架中系统阐述同行汇报的四维质询功能（诚实性、假设检验、盲点排查与下一步确定）。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch9)]] — 在[[Qualitative Research\|质性研究]]设计中界定同行审议作为恶魔代言人的批判角色及其与[[External Auditor\|外部审计]]的分工。
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 143–144)]] — 在科学实践与课堂[[Discourse Analysis\|话语分析]]中引入同行审议与同行评审机制，阐释[[Knowledge Building Theory|知识建构]]由私人主张向公共知识合法化的社会[[Epistemology\|认识论]]转化过程。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, pp. 143–144)]] — 在科学实践与课堂[[Discourse Analysis\|话语分析]]中引入同行审议与同行评审机制，阐释[[Knowledge Building Theory|知识建构]]由私人主张向公共知识合法化的社会[[Epistemology\|认识论]]转化过程。

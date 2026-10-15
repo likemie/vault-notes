@@ -61,7 +61,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Public Dynamic Capabilities
@@ -71,7 +71,7 @@ updated: 2026-10-15
 ## 定义与核心内涵
 
 > [!def] 核心定义
-> **公共部门动态能力（Public Sector Dynamic Capabilities / Public Dynamic Capabilities）**是指公共机构（包括政府部门、国家战略资助机构、公立大学与科研管理部门）在直面高度技术与社会不确定性时，主动识别宏观战略转型方向、调动跨部门协同资源、开展敏捷实验与风险组合管理，并在持续试错中实现制度化吸收与组织学习（Institutional Learning）的系统性组织能力。该概念由[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）系统提出，旨在打破[[New Public Management|新公共管理]]（New Public Management, NPM）将政府仅视为被动采购者与外包监管者的局限，确立公共部门作为创新第一推动者与[[Market Shaping and Creating|市场共创]]者的能力底座。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 808)]]
+> **公共部门动态能力（Public Sector Dynamic Capabilities / Public Dynamic Capabilities）** 是指公共机构（包括政府部门、国家战略资助机构、公立大学与科研管理部门）在直面高度技术与社会不确定性时，主动识别宏观战略转型方向、调动跨部门协同资源、开展敏捷实验与风险组合管理，并在持续试错中实现制度化吸收与组织学习（Institutional Learning）的系统性组织能力。该概念由[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）系统提出，旨在打破[[New Public Management|新公共管理]]（New Public Management, NPM）将政府仅视为被动采购者与外包监管者的局限，确立公共部门作为创新第一推动者与[[Market Shaping and Creating|市场共创]]者的能力底座。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 808)]]
 
 > [!concept-lens] 概念透镜
 > - **微观组织视阈** 强调公共机构内部必须建立高水平的专有技术研判、风险容忍与里程碑管理能力，摒弃过度依赖外部私营咨询公司（[[Consultocracy|顾问统治]]）所导致的[[Cognitive Deskilling|去技能化]]（De-skilling）。
@@ -159,5 +159,5 @@ updated: 2026-10-15
 > | [[DARPA]] | Fact (Org) | 展现卓越公共部门动态能力、依托项目经理制引领颠覆性创新的标杆机构。 |
 > | [[Rainer Kattel]] | Person | 联合[[Mariana Mazzucato\|马祖卡托]]系统建构公共部门动态能力[[Analytic Framework\|理论分析框架]]的核心学者。 |
 > | [[Mariana Mazzucato]] | Person | 正式建构公共部门动态能力理论并将其应用于全球创新治理转型的核心学者。 |
-> | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018)]] | Argument | 奠定公共动态能力三层分析框架与两种文化理论综合的奠基文献。 |
+> | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] | Argument | 奠定公共动态能力三层分析框架与两种文化理论综合的奠基文献。 |
 > | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | Argument | 奠定使命导向政策中公共动态能力与机构学习理论地位的核心文献。 |

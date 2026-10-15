@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Technologies of Exclusion
@@ -120,7 +120,7 @@ updated: 2026-10-07
 > [!concept-lens] 认知权威防御与学科边界构筑机制
 > 围绕教育领域人人皆自居专家的特殊生态如何倒逼治理机构引入硬核复杂技术展开。
 
-> [!claim] Maasen & Weingart (2005)
+> [!claim] Maasen and Weingart (2005)
 > **专家权威的去圣化危机** 当现代社会将[[Knowledge Production\|知识生产]]全面向公众开放时，专业知识的神秘感被打破，决策者面临多元相悖证据的轰炸，专家意见从崇高裁决沦为派系政治的游说工具。
 
 > [!claim] Steiner-Khamsi et al.
@@ -143,7 +143,7 @@ updated: 2026-10-07
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **专业防卫命题** | 以复杂技术设卡防御公众常识侵蚀与公信力赤字 | 面临普遍质疑的教育循证政策咨询 | Maasen & Weingart (2005); [[Gita Steiner-Khamsi\|Steiner-Khamsi]] |
+> | **专业防卫命题** | 以复杂技术设卡防御公众常识侵蚀与公信力赤字 | 面临普遍质疑的教育循证政策咨询 | Maasen and Weingart (2005); [[Gita Steiner-Khamsi\|Steiner-Khamsi]] |
 > | **去政治化命题** | 将阶层与公平政治冲突降维为计量参数优化 | 国际组织对主权国家宏观教育改革干预 | [[Wendy Espeland\|Espeland]]; [[Gita Steiner-Khamsi\|Steiner-Khamsi]] |
 
 ---

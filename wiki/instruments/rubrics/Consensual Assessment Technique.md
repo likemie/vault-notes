@@ -53,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Consensual Assessment Technique
@@ -80,7 +80,7 @@ updated: 2026-10-15
 >
 > | 评定维度 | 测量核心内容 | 评定方式与指导原则 | 典型[[Inter-Rater Reliability\|评定者间信度]] |
 > |---|---|---|---|
-> | **创造性（Creativity）** | 产品在所属领域内兼具**新颖性（Novelty）**与**适切性（Appropriateness）**的综合程度。 | 专家依据内隐标准进行 1–7 分（或 1–9 分）相对评分，不提供细化量规以避免刻板约束。 | $\alpha \ge 0.70 \sim 0.90$ |
+> | **创造性（Creativity）** | 产品在所属领域内兼具**新颖性（Novelty）** 与**适切性（Appropriateness）** 的综合程度。 | 专家依据内隐标准进行 1–7 分（或 1–9 分）相对评分，不提供细化量规以避免刻板约束。 | $\alpha \ge 0.70 \sim 0.90$ |
 > | **技术质量（Technical Quality）** | 产品的基本工艺、技法熟练度、语法严谨性或制作规范度。 | 独立于创造性单列评定，用以析出单纯技能熟练度对创造性评价的干扰。 | $\alpha \ge 0.75 \sim 0.92$ |
 > | **美学价值（Aesthetic Appeal）** | 产品的视觉美感、感染力、艺术张力或表述优雅性。 | 独立评定，用于检验产品形式美与构思新颖性之间的分离度。 | $\alpha \ge 0.70 \sim 0.88$ |
 > | **新颖性（Novelty / Originality）** | 构想的不寻常度、突破陈套与独特程度（部分实验中单列）。 | 专家对照样本整体水平评估该作品在观念上的创新幅度。 | $\alpha \ge 0.72 \sim 0.89$ |
@@ -114,7 +114,7 @@ updated: 2026-10-15
 >
 > | 元分析来源 | 测量对象与[[Construct\|构念]] | 评定者[[Reliability\|信度]]水平 | 二阶效应量与 95% [[Confidence Interval\|CI]] | 核心结论与启示 |
 > |---|---|---|---|---|
-> | Baer & McKool (2009) | CAT 在教育与心理学研究中的跨学科应用 | 平均 $\alpha = 0.81$ | — | 证实专家共识评定具备高度稳健的[[Inter-Rater Reliability\|评定者间信度]] |
+> | Baer and McKool (2009) | CAT 在教育与心理学研究中的跨学科应用 | 平均 $\alpha = 0.81$ | — | 证实专家共识评定具备高度稳健的[[Inter-Rater Reliability\|评定者间信度]] |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 创造性成果（包含 CAT 评定）二阶综合 | 专家评定产品汇总 | **$r = 0.12$** $[−0.02, 0.26]$ | 证实真实产品评定具备极高生态价值，但受情境变异制约 |
 >
 > 在[[Argument_Park_2026_TSC\|Park et al. (2026)]]的[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]相关[[Meta-analysis\|元分析]]中，产品型评定（如 CAT）被归入与思维型测量（如[[Remote Associates Test\|远距离联想测验]]、发散思维任务）不同的评价标准，这解释了混合测量组合相关较低的现象。

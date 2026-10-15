@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Manufacturing USA
@@ -81,7 +81,7 @@ updated: 2026-10-15
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **制造美国网络（Manufacturing USA，原国家制造创新网络 NNMI）**是美国联邦政府通过[[Public-Private Partnership|公私伙伴关系]]（PPP）设立的国家级先进制造业研发与技术扩散基础设施网络。作为美国版的[[Research and Technology Organisation|研究与技术组织]]（RTO），Manufacturing USA 旨在对标德国[[Fraunhofer Society Model|弗劳恩霍夫学会]]与英国弹射器网络（Catapult Centres），通过在特定关键使能技术领域设立跨部门制造创新研究所（Manufacturing Innovation Institutes, MIIs），将大学前沿基础研究与私营工业界的规模化生产无缝连接，系统跨越技术准备度（[[Technology Readiness Level|TRL]]）4–7 阶段的“[[Valley of Death|死亡之谷]]”，重建美国的[[Industrial Commons|制造业公地]]与供应链韧性。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 6–7, 33)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]
+> **制造美国网络（Manufacturing USA，原国家制造创新网络 NNMI）** 是美国联邦政府通过[[Public-Private Partnership|公私伙伴关系]]（PPP）设立的国家级先进制造业研发与技术扩散基础设施网络。作为美国版的[[Research and Technology Organisation|研究与技术组织]]（RTO），Manufacturing USA 旨在对标德国[[Fraunhofer Society Model|弗劳恩霍夫学会]]与英国弹射器网络（Catapult Centres），通过在特定关键使能技术领域设立跨部门制造创新研究所（Manufacturing Innovation Institutes, MIIs），将大学前沿基础研究与私营工业界的规模化生产无缝连接，系统跨越技术准备度（[[Technology Readiness Level|TRL]]）4–7 阶段的“[[Valley of Death|死亡之谷]]”，重建美国的[[Industrial Commons|制造业公地]]与供应链韧性。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 6–7, 33)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2012 年由奥巴马总统提议试点（首个研究所 America Makes 聚焦 3D 打印），2014 年美国国会正式通过《振兴美国制造业与创新法案》（RAMI Act），将其制度化为国家级法定网络。
@@ -179,5 +179,5 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 明确将 Manufacturing USA 各研究所纳入国家微电子全链条公私研发合作矩阵（Goal 4.1），与 [[National Science and Technology Council|NSTC]]、[[National Advanced Packaging Manufacturing Program|NAPMP]] 及 [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 协同攻坚芯片数字孪生与先进制造工艺。
-> - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP (2019)]] — 比较分析 Manufacturing USA 制造创新研究所与英国 Catapult、德国 Fraunhofer 在公私产学伙伴关系中的治理架构与财务自生机制。
+> - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford and UIDP (2019)]] — 比较分析 Manufacturing USA 制造创新研究所与英国 Catapult、德国 Fraunhofer 在公私产学伙伴关系中的治理架构与财务自生机制。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 阐明《[[CHIPS and Science Act|芯片与科学法案]]》框架下[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）、先进封装制造计划（[[National Advanced Packaging Manufacturing Program|NAPMP]]）与 Manufacturing USA 半导体数字孪生研究所的跨部门研发中试衔接网络。

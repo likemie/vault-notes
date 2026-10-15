@@ -124,7 +124,7 @@ updated: 2026-10-16
 > - **政策路径** 广泛应用于跨国公共政策改革难易度评估、福利国家紧缩政策评估以及[[EU|欧盟]]机构条约改革谈判的战略预测。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 直接援引茨贝利斯否决者理论界定[[Theory of Gradual Institutional Change|渐进制度变迁理论]]中的“[[Veto Possibilities|否决可能性]]”维度（p. 19）。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 直接援引茨贝利斯否决者理论界定[[Theory of Gradual Institutional Change|渐进制度变迁理论]]中的“[[Veto Possibilities|否决可能性]]”维度（p. 19）。
 
 ---
 
@@ -145,7 +145,7 @@ updated: 2026-10-16
 > > 理性选择学派将高否决玩家直接等同于“政策锁定与无法变迁”（Policy Stability），遭到[[Historical Institutionalism|历史制度主义]]学者的有力批评与修正。
 > >
 > > - **George Tsebelis（2002）** 强否决玩家意味着能够打破现状的立法院胜集极度萎缩，政治体系表现出高刚性与高稳定性。
-> > - **James Mahoney & Kathleen Thelen（2009）** 茨贝利斯混淆了“正式法律文本维持不变”与“制度实质功能未发生改变”；在强否决阻力封杀正式修法时，行动者并不会坐以待毙，而是会利用[[Enforcement Discretion|执行裁量权]]转向[[Institutional Layering|制度层叠]]或放任[[Institutional Drift|制度漂移]]，以隐蔽渐进方式摧毁旧制度的实质功能。（p. 19）
+> > - **James Mahoney and Kathleen Thelen（2009）** 茨贝利斯混淆了“正式法律文本维持不变”与“制度实质功能未发生改变”；在强否决阻力封杀正式修法时，行动者并不会坐以待毙，而是会利用[[Enforcement Discretion|执行裁量权]]转向[[Institutional Layering|制度层叠]]或放任[[Institutional Drift|制度漂移]]，以隐蔽渐进方式摧毁旧制度的实质功能。（p. 19）
 
 > [!warning] 未解问题与边界
 > 茨贝利斯经典模型假定行动者的偏好是外生给定的固定空间点，且假定制度规则一旦确立即能被完美且无摩擦地执行；该假设忽视了[[Rule Ambiguity|规则内生模糊性]]与执行层面的自由裁量空间，因而无法直接推导缺乏正式修法情形下的深层制度侵蚀。

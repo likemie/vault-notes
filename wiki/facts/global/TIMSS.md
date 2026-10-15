@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # TIMSS
@@ -154,7 +154,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013, pp. 11–13)]] | 美国 50 州数学课程标准与高表现国课程对比 | 跨国课程对标与政策追踪分析 | 课程广度、深度与逻辑连贯性 | 证实美国州课程覆盖主题过多且缺乏深度（“一英里宽、一英寸深”）；高表现国聚焦少数核心概念深度进阶 | — | 为美国启动跨州统一标准（[[Common Core State Standards\|CCSS]]）提供了关键的国际基准与议程合法性 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013, pp. 11–13)]] | 美国 50 州数学课程标准与高表现国课程对比 | 跨国课程对标与政策追踪分析 | 课程广度、深度与逻辑连贯性 | 证实美国州课程覆盖主题过多且缺乏深度（“一英里宽、一英寸深”）；高表现国聚焦少数核心概念深度进阶 | — | 为美国启动跨州统一标准（[[Common Core State Standards\|CCSS]]）提供了关键的国际基准与议程合法性 |
 > | [[Argument_Dedering_2009_EERJ\|Dedering (2009, pp. 494–495)]] | 德国教育行政科层官员访谈 | 追踪定性访谈与政策分析 | 国际测评在各州教育治理中的功能认知 | 官员普遍认同 TIMSS 具备宏观定位功能，但明确指出其无法直接推导微观改进举措 | — | 确立[[International Large-Scale Assessments\|国际大规模评估]]主要发挥宏观方位导向而非微观教学指导功能 |
 
 ---
@@ -174,5 +174,5 @@ updated: 2026-10-15
 > | [[Vergleichsarbeiten]] | Fact (Program) | 德国全域校际比较测试，与 TIMSS 在宏观抽样 vs 微观全域上形成功能分工。 |
 > | [[School Inspection]] | Concept | 现场过程督导机制，弥补 TIMSS 纯量化产出测试的机制缺失。 |
 > | [[Standing Conference of the Ministers of Education and Cultural Affairs]] | Fact (Organization) | 决定德国参与 TIMSS 并协调跨州测试结果的国家最高教育协调机构。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | Argument | 剖析 TIMSS 数据在全美议程设置与 CCSS 课程改革中充当概念催化剂的实证文献。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | Argument | 剖析 TIMSS 数据在全美议程设置与 CCSS 课程改革中充当概念催化剂的实证文献。 |
 > | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | Argument | 实证评估 TIMSS 在德国教育部行政决策中宏观方位功能与治理局限性的期刊文献。 |

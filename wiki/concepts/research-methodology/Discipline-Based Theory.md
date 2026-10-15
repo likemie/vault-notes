@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Discipline-Based Theory
@@ -184,7 +184,7 @@ updated: 2026-10-15
 > Kennett et al. (2008) 在一项关于慢性疼痛管理的[[Mixed Methods Research|混合方法研究]]中，使用 Rosenbaum (1990) 的[[Self-control|自我控制]]理论作为学科理论。研究收集了 Rosenbaum 自我控制量表（SCS）的量化数据，并同步开展慢性疼痛患者[[Qualitative Interview|质性访谈]]。作者在开头明确提出[[Research Purpose|研究目的]]：“Taking a critical realist perspective informed by Rosenbaum's (1990, 2000) model of self-control...”（p. 318）。该理论直接引导了量化工具的选择与[[Qualitative Interview|质性访谈]]问题的架构，并在研究结论中系统梳理了促进自我管理的显著要素。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 69–70)]]
 
 > [!example] 积极心理学作为多理论学科透镜
-> Clark & Plano Clark (2019) 使用积极心理学（Positive Psychology）作为核心学科理论，并整合社会认知理论、[[Self-Determination Theory|自我决定理论]]与社会认知职业理论。该理论不仅引导了量化阶段的测量工具选择与质性阶段的参与者抽样，还直接指导了质性数据收集的[[Interview Protocol|访谈协议]]与编码框架，被作者界定为“framing research design, case selection, and interpretation of findings”的核心透镜。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 72)]]
+> Clark and Plano Clark (2019) 使用积极心理学（Positive Psychology）作为核心学科理论，并整合社会认知理论、[[Self-Determination Theory|自我决定理论]]与社会认知职业理论。该理论不仅引导了量化阶段的测量工具选择与质性阶段的参与者抽样，还直接指导了质性数据收集的[[Interview Protocol|访谈协议]]与编码框架，被作者界定为“framing research design, case selection, and interpretation of findings”的核心透镜。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 72)]]
 
 > [!example] 护理研究中的生命历程视角模型
 > Evans et al. (2011) 在护理领域运用生命历程视角（Life Course Perspective）作为学科理论：通过视觉模型明确概念逻辑；从理论中提炼关键[[Construct|构念]]（[[Variable|变量]]）纳入研究目标；理论结构指导质性开放问题与量化测量工具；为质性数据分析提供起始编码与预设主题，并为量化假设检验提供预测模型。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 71–72)]]
@@ -233,9 +233,9 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
-> | **方法论统合命题** | 学科理论为混合方法研究提供贯通质性与量化的统一解释框架 | 混合方法研究设计、变量构念整合与实证假设预测 | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] |
+> | **方法论统合命题** | 学科理论为混合方法研究提供贯通质性与量化的统一解释框架 | 混合方法研究设计、变量构念整合与实证假设预测 | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] |
 > | **学科自主性命题** | 学科本位理论依托大学讲座捍卫文化历史解释的认识论制高点 | 比较教育学术史、母学科理论传统与外生技术测验之辨 | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] |
-> | **知识经济解构命题** | 全球治理[[Discourse\|话语]]推动学习重心从学科理论（knowing that）转向操作技能（knowing how） | 全球知识经济政策、跨国测评治理与认识论批判 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]]; Foray & Lundvall (1996) |
+> | **知识经济解构命题** | 全球治理[[Discourse\|话语]]推动学习重心从学科理论（knowing that）转向操作技能（knowing how） | 全球知识经济政策、跨国测评治理与认识论批判 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]]; Foray and Lundvall (1996) |
 
 ---
 
@@ -245,7 +245,7 @@ updated: 2026-10-15
 > - **20世纪中叶 — 大学讲座与学科理论垄断** 欧洲比较教育学依托大学讲座教授制，将比较研究牢固锚定在哲学、历史学与[[Allgemeine Pädagogik|普通教育学]]的学科本位理论之上，排斥去理论化的纯技术调查。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94)]]
 > - **1960s–1980s — 行为主义冲击与经验调查分流** 北美行为主义与 [[IEA]] 等大规模量化测验兴起，学科本位理论与无理论[[Empiricism|经验主义]]测验之间产生方法论张力与制度分流。
 > - **1990s — [[Mixed Methods Research|混合方法]]中的规范化界定** 社会[[Scientific Method|科学方法]]论学者系统提炼理论在实证研究中的角色，Crotty（1998）等界定了[[Epistemology|认识论]]、[[Theoretical Perspective|理论视角]]与具体方法的级联关系。
-> - **1996–2000s — [[Knowledge-Based Economy|知识经济]]转型与学科理论向[[Procedural Skill|程序性技能]]退位** Foray & Lundvall（1996）提出学习型经济概念，[[OECD|经合组织]]将学习重心从正规学科理论（knowing that）转向跨界网络协作与商业化技能（[[Procedural Knowledge|knowing how]]），形成了以市场效用统摄教育的全新[[Social Imaginary|社会想象]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
+> - **1996–2000s — [[Knowledge-Based Economy|知识经济]]转型与学科理论向[[Procedural Skill|程序性技能]]退位** Foray and Lundvall（1996）提出学习型经济概念，[[OECD|经合组织]]将学习重心从正规学科理论（knowing that）转向跨界网络协作与商业化技能（[[Procedural Knowledge|knowing how]]），形成了以市场效用统摄教育的全新[[Social Imaginary|社会想象]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
 > - **2000s–2010s — 混合方法研究中的首要理论类型** Creswell 等将学科理论规范化为混合方法研究的第一核心理论形态，系统归纳其组织数据、预测假设与统领[[Coding in Qualitative Research|质性编码]]的操作[[Paradigm|范式]]。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 69–72)]]
 > - **2020s — 超国家素养测评侵蚀下的理论自主性反思** 面对 [[PISA]] 等去学科化、去情境化的跨国通用素养排名的技术主义侵蚀，学界重新呼唤回归学科本位理论与深厚文化历史阐释，重构教育探究的批判反思力与学术自主性。
 
@@ -279,18 +279,18 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或理论指标 | 核心发现与论断 | 显著性或论证依据 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] | 综合社会科学、行为科学与健康护理领域的[[Mixed Methods Research\|混合方法]]实证文献 | 方法论元反思与文献系统归纳 | 学科理论整合功能（6 大功能模型） | 学科理论为多阶段混合方法研究提供贯通变量假设与质性主题的统一概念透镜 | 权威方法论专著归纳 | 适用于指导混合方法实证设计与变量识别 |
+> | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] | 综合社会科学、行为科学与健康护理领域的[[Mixed Methods Research\|混合方法]]实证文献 | 方法论元反思与文献系统归纳 | 学科理论整合功能（6 大功能模型） | 学科理论为多阶段混合方法研究提供贯通变量假设与质性主题的统一概念透镜 | 权威方法论专著归纳 | 适用于指导混合方法实证设计与变量识别 |
 > | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 欧洲（德、英、法及中东欧）比较教育学学术建制史与大学讲座记录 | 学术思想史与制度演变历史分析 | 大学讲座教授制、母学科本体理论、[[IEA]] 心理测验 | 学科本位理论牢牢占据大学学术[[Discourse\|话语]]指挥高地，成为抵制外部无理论[[Empiricism\|经验主义]]测验的制度堡垒 | 历史档案与学术制度演变归纳 | 适用于欧洲大学建制内的比较教育学史分析 |
-> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] | [[OECD\|经合组织]]历时教育政策文本、工作方案与[[Knowledge-Based Economy\|知识经济]]战略档案（1960s–2000s） | 批判政策社会学[[Discourse Analysis\|话语分析]] | 知识形态演进（knowing that vs knowing how）、学习型经济、[[PISA]] | 知识经济[[Social Imaginary\|社会想象]]贬抑正规学科理论，将重心转移至网络操作与商业化能力，造成批判性消解与[[Epistemology\|认识论]]危机 | 历时官方文本与认识论批判 | 适用于分析超国家组织教育政策与知识经济认识论变迁 |
+> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] | [[OECD\|经合组织]]历时教育政策文本、工作方案与[[Knowledge-Based Economy\|知识经济]]战略档案（1960s–2000s） | 批判政策社会学[[Discourse Analysis\|话语分析]] | 知识形态演进（knowing that vs knowing how）、学习型经济、[[PISA]] | 知识经济[[Social Imaginary\|社会想象]]贬抑正规学科理论，将重心转移至网络操作与商业化能力，造成批判性消解与[[Epistemology\|认识论]]危机 | 历时官方文本与认识论批判 | 适用于分析超国家组织教育政策与知识经济认识论变迁 |
 
 ---
 
 ## 论证索引
 
 > [!evidence-grid-a] 相关论证索引
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, pp. 69–72)]] — 详尽论述学科理论在[[Mixed Methods Research|混合方法研究]]中的概念界定、六大功能模型与经典研究案例。
+> - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022, pp. 69–72)]] — 详尽论述学科理论在[[Mixed Methods Research|混合方法研究]]中的概念界定、六大功能模型与经典研究案例。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009, pp. 93–94)]] — 阐析欧洲比较教育学依托大学讲座教授制建立的学科本位理论传统，及其对早期无理论依托量化测验的警惕与抵制。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 445–446)]] — 揭示[[OECD|经合组织]][[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]如何将学习重心从客观学科理论（knowing that）转移至程序性操作技能（[[Procedural Knowledge|knowing how]]），解构了学科理论的[[Epistemology|认识论]]边缘化。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 445–446)]] — 揭示[[OECD|经合组织]][[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]如何将学习重心从客观学科理论（knowing that）转移至程序性操作技能（[[Procedural Knowledge|knowing how]]），解构了学科理论的[[Epistemology|认识论]]边缘化。
 
 ---
 

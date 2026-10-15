@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Man-Computer Symbiosis
@@ -129,7 +129,7 @@ updated: 2026-10-15
 > [!concept-lens] 防务战略资助与前沿计算孵化
 > 探讨交互式计算从冷战军事指挥控制需求演进为国家关键战略资产的历史必然性，阐明国家安全机构与科学家深度信任对前沿计算架构的奠基作用。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **国家防务资助催生人机共生技术根基** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]指出，利克莱德 1960 年发表的《人机共生》论文是在美国空军资助下完成的；随后他在 1962 年受聘领导 [[DARPA]] 的前身机构，直接开创了[[ARPANET|高级研究计划局网络]]（ARPANET）与全球定位系统（GPS）等颠覆性技术。这一历史事实表明，现代计算革命最核心的交互与网络[[Paradigm|范式]]并非源自单纯的商业市场试错，而是源于国家安全战略目标与科学家前沿探索高度互信的深度共生体系。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 7)]]
 
 ---
@@ -149,7 +149,7 @@ updated: 2026-10-15
 > [!concept-lens] 网络化延伸与分布式协作
 > 探讨人机共生如何从单个人与单个机器的物理交互，进一步升华为跨地域群体通过网络化计算中介进行的协同[[Knowledge Production|知识生产]]。
 
-> [!claim] Licklider & Taylor (1968)
+> [!claim] Licklider and Taylor (1968)
 > **计算机从个体算力工具演变为群体思维中枢** 利克莱德与罗伯特·泰勒进一步提出，计算机不仅是个体人类认知的延伸伙伴，更是人类思想跨越时空阻隔进行实时交互与集体智能生产的通信媒介。当多台共生型计算节点通过分布式网络（如 ARPANET）互联时，地理分散的科学家能够共享程序、数据与动态模型，在虚拟空间中展开多对多的协同问题解决，直接奠定了现代分布式协同计算、在线学术社群与全球互联网知识生态的运行基石。
 
 ---

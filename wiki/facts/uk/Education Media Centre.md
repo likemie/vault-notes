@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-09-15
+updated: 2026-10-16
 ---
 
 # Education Media Centre
@@ -128,7 +128,7 @@ updated: 2026-09-15
 ## 知识治理视阈下的学理反思
 
 > [!tension] 受众拓展与反应性机制的内在张力（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 62]], 64）
-> - **从跑口记者延伸至广大大众的认知免疫** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022, pp. 62, 64)]] 强调，大众媒体导向型中介的战略价值在于突破了传统政策与课堂内部圈层，直接面向广大家长与公民群体；在后真相与算法极化的社会中，为公众理解底层证据建立起不可或缺的认知免疫屏障，将[[Scientific Literacy\|科学素养]]捍卫为参与现代公共协商的基本民主权利。
+> - **从跑口记者延伸至广大大众的认知免疫** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022, pp. 62, 64)]] 强调，大众媒体导向型中介的战略价值在于突破了传统政策与课堂内部圈层，直接面向广大家长与公民群体；在后真相与算法极化的社会中，为公众理解底层证据建立起不可或缺的认知免疫屏障，将[[Scientific Literacy\|科学素养]]捍卫为参与现代公共协商的基本民主权利。
 > - **“反应性（Reactive）”运作对长效系统研究的挤出效应** 与依托大学或国家立法的二阶综述清算中心（如 [[EPPI-Centre]] 或 [[What Works Clearinghouse\|WWC]]）相比，EMC 的日常工作高度受制于外部突发新闻议程与舆论热点，属于被动反应式机制。这种节奏使其难以自主规划周期长达数年的前瞻性累积研究，极易在不同热点之间疲于奔命。因此，大众媒体中介必须与深度证据清算机构形成元网络协同，方能维系长效的知识大厦。
 
 ---
@@ -163,4 +163,4 @@ updated: 2026-09-15
 > | [[Scientific Misinformation]] | 概念 | EMC 在突发舆论争议中第一时间阻断教育虚假信息与伪科学的扩散发酵。 |
 > | [[Educational Brokerage Agency]] | 概念 | 拓宽了教育中介机构的目标受众维度，将其延伸至公共舆论场。 |
 > | [[Cumulative Knowledge Base]] | 概念 | 大众媒体中介需依托累积性知识库提供长效实证依托。 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] | 论证条目 | 系统论述了 EMC 的创立、受众拓宽价值及其反商业自利操纵的中介功能。 |
+> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 系统论述了 EMC 的创立、受众拓宽价值及其反商业自利操纵的中介功能。 |

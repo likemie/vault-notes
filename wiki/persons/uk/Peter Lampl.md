@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-04
+updated: 2026-10-16
 ---
 
 # Peter Lampl
@@ -123,7 +123,7 @@ updated: 2026-10-04
 > - **方法与转化路径** 推动了英国中小学大规模[[Randomised Controlled Trials\|随机对照试验]]的合法化与普及化，彻底消除了学界对“公立学校不可能自愿参与对照试验”的偏见；推动以月度学习进展（[[Months of Progress]]）为核心的极简综合证据转化范式普及全球。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 详细记录了彼得·兰普尔爵士主持的 [[Education Endowment Foundation\|EEF]] 独立理事会治理架构，及其如何通过独立受托人机制保障研究中立性与国家证据生态建设。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详细记录了彼得·兰普尔爵士主持的 [[Education Endowment Foundation\|EEF]] 独立理事会治理架构，及其如何通过独立受托人机制保障研究中立性与国家证据生态建设。
 
 ---
 

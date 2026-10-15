@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Embedded Network Governance
@@ -76,7 +76,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **嵌入型[[Network Governance|网络治理]]（Embedded Network Governance，亦称嵌入式网络治理）**指公共部门的代理人凭借其深厚的技术专业认知与身处研发网络中央节点的结构性优势，通过识别前沿技术方向、播撒共同[[Research Topic|研究主题]]、组织跨机构攻关团队、搭建同行研讨机制与提供权威第三方背书，主动重塑科学家与企业之间的社会关系网络，从而在不自上而下挑选单一技术赢家的前提下引导国家关键[[Technological Trajectories|技术轨道]]的科技治理[[Paradigm|范式]]。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1135)]]
+> **嵌入型[[Network Governance|网络治理]]（Embedded Network Governance，亦称嵌入式网络治理）** 指公共部门的代理人凭借其深厚的技术专业认知与身处研发网络中央节点的结构性优势，通过识别前沿技术方向、播撒共同[[Research Topic|研究主题]]、组织跨机构攻关团队、搭建同行研讨机制与提供权威第三方背书，主动重塑科学家与企业之间的社会关系网络，从而在不自上而下挑选单一技术赢家的前提下引导国家关键[[Technological Trajectories|技术轨道]]的科技治理[[Paradigm|范式]]。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1135)]]
 >
 > 该范式由[[Erica Fuchs|埃丽卡·福克斯]]（Erica Fuchs）通过对[[DARPA|美国国防高级研究计划局]]（Defense Advanced Research Projects Agency, [[DARPA]]）微系统技术办公室（Microsystems Technology Office, MTO）在 1992 至 2008 年间资助前沿半导体材料的实证研究所提出。它突破了新自由主义自由市场放任与被动补贴与传统发展型国家科层自上而下指定赢家的二元对立，同时也超越了将国家仅视作消极撮合中介或被动联络人的传统网络治理观点，确立了公共代理人作为乐队指挥家与系统集成者的能动性治理角色。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1144–1146)]]
 
@@ -194,7 +194,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **网络架构重塑命题** | 公共代理人凭借技术研判权与网络能动性重塑社会网络拓扑，引导战略技术轨道 | 前沿颠覆性硬科技攻坚、跨学科重[[Big Science\|大科学]]突破 | [[Argument_Fuchs_2010_RP\|Fuchs (2010)]]; Davis (2009) |
-> | **碎片产业平台整合命题** | 嵌入型网络治理随产业从垂直整合向纵向分工碎化而演进为平台领导型产学研编排 | 半导体生态分化、系统集成跨界标准确立 | Erica Fuchs; Gawer & Cusumano (2002) |
+> | **碎片产业平台整合命题** | 嵌入型网络治理随产业从垂直整合向纵向分工碎化而演进为平台领导型产学研编排 | 半导体生态分化、系统集成跨界标准确立 | Erica Fuchs; Gawer and Cusumano (2002) |
 > | **组合竞争与断乳退出命题** | 并行资助多元路线配合硬性里程碑淘汰，适时断乳以规避利益俘获与沉没锁定 | 早期极高不确定性技术探索、防范产业政策寻租 | Erica Fuchs; Zysman (1983) |
 
 ---

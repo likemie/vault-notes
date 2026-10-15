@@ -177,7 +177,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Generative Artificial Intelligence
@@ -424,7 +424,7 @@ updated: 2026-10-15
 > [!concept-lens] [[Artificial General Intelligence|通用人工智能]]火花、反文化基因超越与软件[[Hard Power|硬实力]]颠覆
 > 探讨生成式大模型如何打破人类心智独占地位，超越 1970 年代[[Counterculture Computing|反文化计算]]运动与 21 世纪初[[Consumer Internet|消费互联网]]的个体主义与政治不可知论局限，确立软件代码作为大国战略硬实力中枢的核心地位。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **软件中枢确立、历史基因超越与战略威慑重构** 卡普与扎米斯卡指出，早期软件、个人计算与人工智能算法发轫于 1970 年代硅谷的反文化运动，其初衷是作为抵御国家集权与官僚体制的个体赋权工具，并最终蜕化为服务于浅层物质娱乐与广告推荐的[[Consumer Internet|消费互联网]]；然而，当代以万亿参数大模型为代表的生成式人工智能，展现出跨越语言、数学与物理常识的通用人工智能（AGI）火花，推动战争形态与大国竞争进入软件世纪。在这一历史性转变中，软件与硬件的主从地位彻底颠倒：软件与大模型跃升为战术决策、全域态势感知与多域协同的指挥中枢，动能物理装备降维为消耗性执行载体；面对严峻的地缘对手竞争，生成式 AI 必须超越[[Technological Agnosticism|技术不可知论]]与消费主义内卷，成为构建[[AI Deterrence|人工智能威慑]]与维系自由社会力量均势的决定性战略基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 18–21, 26–28)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 44–46)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–99)]]
 
 ---
@@ -436,9 +436,9 @@ updated: 2026-10-15
 > |---|---|---|---|
 > | **教学[[Interaction Effect\|调节效应]]命题** | 技术效应非固有，教学脚手架、[[Self-Regulated Learning\|自主调节能力]]与干预时长窗口共同决定认知增益与子维度级差 | 高等教育人机协同学习、[[STEM Education\|STEM]] 实验探究、基础教育 PBL 项目 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]]; [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] |
 > | **活动系统重构命题** | 评价重点由终稿产出转向提示词轨迹、认识论摩擦维持与苏格拉底式探究支架 | 科学素养课程、数智通识教育、基于项目的全程评价改革 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]]; Medina (2013); [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] |
-> | **生态支持机制命题** | 低 ICT、低 SES 情境呈边际效益递增，高权力距离下破除层级威慑心理 | 跨文化教学、教育公平政策、欠发达地区高校数字化 | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] |
-> | **社会认识论重组命题** | 知识确证分工重组，承载判断型协助置换评价性判断，倡导在相互依赖中维系关系性认识主体性 | 高等教育学术探究、文献综合评估、认识规范培育与学术诚信制度建设 | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] |
-> | **共生认识演进命题** | 共生伙伴关系中认识立场呈绝对主义向评价主义演进，依赖技术提示与教学双轨支架维系认识主体性 | 人机协同[[Knowledge Production\|知识建构]]、提示词工程教学、[[Inquiry-Based Learning\|探究式学习]]与认识信念发展 | [[Argument_Wu_2025_ER\|Wu et al. (2025)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] |
+> | **生态支持机制命题** | 低 ICT、低 SES 情境呈边际效益递增，高权力距离下破除层级威慑心理 | 跨文化教学、教育公平政策、欠发达地区高校数字化 | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] |
+> | **社会认识论重组命题** | 知识确证分工重组，承载判断型协助置换评价性判断，倡导在相互依赖中维系关系性认识主体性 | 高等教育学术探究、文献综合评估、认识规范培育与学术诚信制度建设 | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] |
+> | **共生认识演进命题** | 共生伙伴关系中认识立场呈绝对主义向评价主义演进，依赖技术提示与教学双轨支架维系认识主体性 | 人机协同[[Knowledge Production\|知识建构]]、提示词工程教学、[[Inquiry-Based Learning\|探究式学习]]与认识信念发展 | [[Argument_Wu_2025_ER\|Wu et al. (2025)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] |
 > | **成长性认识正义命题** | 破除计算器辩护假定，揭示读写教育中全流程代写的私厨本质与成长性侵害，通过异己智能定位与思维全外显（Showing Steps）防范认知去技能化 | 人文学科与通识读写教育、学术论文指导、思维演进过程性评价改革 | [[Argument_Smith_2026_SPE\|Smith (2026)]] |
 > | **国家战略动员与契约重构命题** | 赢得 AI 竞赛确立为国家核心利益叙事，依托公私伙伴与国家实验室绕开大学基础研究直接获取前沿技术能力 | 大国地缘科技竞争、[[National Innovation System\|国家创新体系]]重构、技术型社会契约 | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] |
 > | **软硬件主从逆转与算法威慑命题** | AGI 隐空间[[Emergence\|涌现]]常识推理，确立软件统领动能硬件的新范式，超越反文化消极自满并构成 21 世纪大国力量均势的算法威慑中枢 | 大国地缘均势、国防采办重构、前沿战场软件攻坚 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
@@ -454,9 +454,9 @@ updated: 2026-10-15
 > - **2020–2022 — 模型突破与消费级普及** OpenAI 相继发布 [[General Purpose Technology|GPT]]-3 与 ChatGPT，生成式 AI 跨越实验室门槛，以自然语言对话界面实现全球数亿用户的即时触达。
 > - **2023 — 教育激辩与恐慌性禁令期** 全球高校与学区经历早期伦理恐慌，从普遍出台禁用指令转向探索政策规范，早期综述多聚焦学术诚信与工具性写作支持（Farazouli et al., 2023; Zirar, 2023）。
 > - **2024–2025 — 课堂实证爆发与机制解构** 实证研究呈现指数级增长，研究者通过量化实验与质性追踪揭示出生成式 AI 促成[[Divergent Thinking\|发散思维]]爆发的同时可能诱发严重的[[Cognitive Offloading\|认知卸载]]与文风均质化（[[Argument_Liu_2026_CHBR\|Liu et al., 2026]]; Deng et al., 2024）。
-> - **2025 — [[Higher-Order Thinking Skills\|高阶思维]]、生态机制与[[Man-Computer Symbiosis|人机共生]][[Epistemology\|认识论]]确证** [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] [[Meta-analysis\|元分析]] 29 项实证研究（59 个[[Effect Size\|效应量]]），确立生成式 AI 促进高阶思维发展的总体效应基准（$g = 0.609$），揭示子维度级差及干预周期倒 U 型规律与自主调节能力门槛；[[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] 引入 [[What Works Clearinghouse\|WWC]] 基线等效门槛（$d < 0.25$）开展 57 项高校实验元分析，确立产出梯度并证实低 ICT 与高权力距离情境下的宏观边际效益递增；[[Argument_Wu_2025_ER\|Wu et al. (2025)]] 提出人机共生学习伙伴关系模型，系统阐述绝对主义、相对主义与评价主义三大认识立场，构建技术提示支架（角色扮演、思维链）与教学法支架的协同干预矩阵。
-> - **2026 — 教学活动系统全面重构与社会[[Epistemology|认识论]]转向** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 提出批判性与[[Creativity|创造性思维]]双重视角整合框架与六大教学干预规制；[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] 正式将 AI 素养确立为面向未来社会的国家级核心课程基础设施；[[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] 开启生成式 AI 的社会认识论转向，系统提出协助形态三层分类与四重社会技术中介路径，确立知识确证分工重构下维系关系性[[Epistemic Agency|认识主体性]]与[[Evaluative Judgement|评价性判断]]的理论纲领；[[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez (2026)]] 实证揭示初中生如何运用学科显性评价标准在人机多模态解释共建中实施微观认识论审问与提示词迭代；[[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 提出“反思机器”（Reflection Machines）规范架构，论证生成式 AI 作为对抗性质询[[AI Agent in Education|智能体]]主动引入[[Counterfactual|反事实]]异见与反驳论据（[[Defeater|Defeaters]]），在安全关键决策中打破[[Automation Bias|自动化偏见]]与认识论延宕，实现兼顾审议效率与有意义人类控制的认知安全防护；[[Argument_Naeem_2026_Episteme\|Naeem (2026)]] 提出 Q-Tutor [[Socrates|苏格拉底]]式智能体交互规范，通过直接答案拦截规则、封闭向开放问题递进及反事实探究支架，为规避[[Cognitive Deskilling|认知去技能化]]与培育[[Epistemic Virtues and Vices|理智美德]]提供系统化解决方案；[[Argument_Smith_2026_SPE\|Smith (2026)]] 破除将生成式 AI 类比为计算器的工具主义辩护，确立其在读写教育中代行全流程的私厨隐喻，揭示算法代写构思、提纲与修改对认知者造成的成长性认识侵害，并构建基于[[Alien Intelligence|异己智能]]审问与思维步骤全外显（Showing Steps）的教育防御方案。
-> - **2024–2026 — 宏观产业底座与地缘算力基石确立** [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] 指出，生成式 AI 的大爆发构成了 2020 年代全球半导体需求处于历史最高峰的核心宏观驱动力，但对尖端算力集群的极度依赖使其成为大国战略博弈与出口管制的核心标的，反向约束着生成式技术的地缘扩散路径与硬件成本结构。
+> - **2025 — [[Higher-Order Thinking Skills\|高阶思维]]、生态机制与[[Man-Computer Symbiosis|人机共生]][[Epistemology\|认识论]]确证** [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] [[Meta-analysis\|元分析]] 29 项实证研究（59 个[[Effect Size\|效应量]]），确立生成式 AI 促进高阶思维发展的总体效应基准（$g = 0.609$），揭示子维度级差及干预周期倒 U 型规律与自主调节能力门槛；[[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 引入 [[What Works Clearinghouse\|WWC]] 基线等效门槛（$d < 0.25$）开展 57 项高校实验元分析，确立产出梯度并证实低 ICT 与高权力距离情境下的宏观边际效益递增；[[Argument_Wu_2025_ER\|Wu et al. (2025)]] 提出人机共生学习伙伴关系模型，系统阐述绝对主义、相对主义与评价主义三大认识立场，构建技术提示支架（角色扮演、思维链）与教学法支架的协同干预矩阵。
+> - **2026 — 教学活动系统全面重构与社会[[Epistemology|认识论]]转向** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 提出批判性与[[Creativity|创造性思维]]双重视角整合框架与六大教学干预规制；[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] 正式将 AI 素养确立为面向未来社会的国家级核心课程基础设施；[[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] 开启生成式 AI 的社会认识论转向，系统提出协助形态三层分类与四重社会技术中介路径，确立知识确证分工重构下维系关系性[[Epistemic Agency|认识主体性]]与[[Evaluative Judgement|评价性判断]]的理论纲领；[[Argument_Han_Gutierez_2026_IJSE|Han and Gutierez (2026)]] 实证揭示初中生如何运用学科显性评价标准在人机多模态解释共建中实施微观认识论审问与提示词迭代；[[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 提出“反思机器”（Reflection Machines）规范架构，论证生成式 AI 作为对抗性质询[[AI Agent in Education|智能体]]主动引入[[Counterfactual|反事实]]异见与反驳论据（[[Defeater|Defeaters]]），在安全关键决策中打破[[Automation Bias|自动化偏见]]与认识论延宕，实现兼顾审议效率与有意义人类控制的认知安全防护；[[Argument_Naeem_2026_Episteme\|Naeem (2026)]] 提出 Q-Tutor [[Socrates|苏格拉底]]式智能体交互规范，通过直接答案拦截规则、封闭向开放问题递进及反事实探究支架，为规避[[Cognitive Deskilling|认知去技能化]]与培育[[Epistemic Virtues and Vices|理智美德]]提供系统化解决方案；[[Argument_Smith_2026_SPE\|Smith (2026)]] 破除将生成式 AI 类比为计算器的工具主义辩护，确立其在读写教育中代行全流程的私厨隐喻，揭示算法代写构思、提纲与修改对认知者造成的成长性认识侵害，并构建基于[[Alien Intelligence|异己智能]]审问与思维步骤全外显（Showing Steps）的教育防御方案。
+> - **2024–2026 — 宏观产业底座与地缘算力基石确立** [[Argument_Bown_2024_JEP|Bown and Wang (2024)]] 指出，生成式 AI 的大爆发构成了 2020 年代全球半导体需求处于历史最高峰的核心宏观驱动力，但对尖端算力集群的极度依赖使其成为大国战略博弈与出口管制的核心标的，反向约束着生成式技术的地缘扩散路径与硬件成本结构。
 > - **2025–2026 — 国家地缘科技战略核心与技术型契约锚点** 生成式 AI 从产业与学术探索全面上升为大国竞争与国家安全战略中枢。美国出台“AI 行动计划”与“[[Genesis Mission|创世纪计划]]”，将赢得 AI 竞赛确立为联邦科技政策的最高正当性叙事，推动二战后传统科学契约向[[Technology-Oriented Social Contract|技术型社会契约]]深刻转型。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
 
 ---
@@ -474,7 +474,7 @@ updated: 2026-10-15
 > > [!axis] 计算器赋能论 vs 私厨代劳致残论：读写教育中生成式 AI 的角色定性争议
 > > [[Technology Infusion|技术融入]]派将生成式 AI 比作数学课堂中的计算器，主张其仅卸载表层语言负荷并赋能高阶表达；成长性认识正义派则揭示语言生成不同于算术运算，外包写作三大工序实质上是点餐即食的私厨代劳，将导致认知者被系统性剥夺思维锻炼机会。
 > >
-> > - **Mollick & Mollick (2023)** 倾向于将 AI 视为解放学生繁琐表达负担、加速灵感实现的认知杠杆。
+> > - **Mollick and Mollick (2023)** 倾向于将 AI 视为解放学生繁琐表达负担、加速灵感实现的认知杠杆。
 > > - **[[Argument_Smith_2026_SPE\|Smith (2026)]]** 深度论证写作本质是一项不可替代的认知-发现工序，生成式 AI 的全流程代写剥夺了学习者习得论证与反思能力的核心机会，构成严重的[[Formative Epistemic Injustice\|成长性认识不正义]]。
 >
 > > [!axis] AI 研发单边暂停倡议 vs 大国战略抢跑与[[AI Deterrence|算法威慑]]：生成式前沿模型地缘博弈争议
@@ -510,8 +510,8 @@ updated: 2026-10-15
 > > [!axis] 工具性效率协助 vs [[Epistemology\|认识论]]评价外包
 > > 工具论视角聚焦于生成式 AI 作为效率辅助工具的写作润色与[[Literature Search\|文献检索]]功能；社会认识论视角则警告算法在知识确证活动中承载[[Evaluative Judgement\|评价性判断]]，引发高阶审思劳动力分工的隐蔽转移。
 > >
-> > - **[[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]]** 从实证层面证实工具介入对语言和[[Academic Achievement\|学业表现]]的显著提升。
-> > - **[[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]** 揭示承载判断型协助剥离中间认识动作、侵蚀独立评价能力的系统性风险。
+> > - **[[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]]** 从实证层面证实工具介入对语言和[[Academic Achievement\|学业表现]]的显著提升。
+> > - **[[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]** 揭示承载判断型协助剥离中间认识动作、侵蚀独立评价能力的系统性风险。
 
 > [!tension] 核心张力：工具主义效率至上 vs [[Epistemology\|认识论]]主体性捍卫
 > - **工具主义效率取向（便利代工）** 将 GenAI 视为快速交差、产出光滑文本与缩短课业周期的省力工具，导致学生沦为算法产出的搬运工。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 10)]]
@@ -528,7 +528,7 @@ updated: 2026-10-15
 > - **无法替代具身情境与实践经验** 实验室动手操作、真实[[Fieldwork\|田野调查]]、面对面同伴共情与人际伦理协商等核心教育体验，均无法被纯文本/多模态生成式算法替代。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 32–34)]]
 > - **高度依赖领域先验知识与[[Self-Regulated Learning\|自我调节学习]]能力（SRL）** 只有当使用者具备学科基准图式与高水平[[Metacognition\|元认知监控]]时，才能有效驾驭生成式 AI 并识别模型幻觉；实证确证低 SRL 学习者在生成式技术环境下促学效应显著滑落（$g = 0.284$ vs 高 SRL $0.863, p < .001$），极易陷入算法盲从与深度推理放弃。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 12–13)]]
 > - **跨学科认识规范的[[Incommensurability\|不可通约性]]** 生成式模型基于统计平均与概率关联生成跨学科内容，往往掩盖不同学科独特的证据[[Justificatory Standards\|确证标准]]与方法论辩护规范（例如人文学科的诠释学深度 vs 实证科学的可重复性检验），不可将其统摄为单一同质的通用确证机器。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 4, 6)]]
-> - **警惕长期脱敏与[[Fade-out Effect\|效应衰退]]（Fade-out Effect）** 干预时间并非越长越好，过长或过短均削弱成效：① **高校情境黄金周期** [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] 发现短期（$<4$ 周，$g^+ = 0.541$）未充分内化，长期（$>12$ 周，$g^+ = 0.350$）易发生脱敏疲劳，**4–12 周（$g^+ = 1.014$）** 为黄金窗口；② **[[Higher-Order Thinking Skills\|高阶思维]]综合倒 U 型验证** [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] 跨学段实证同样表明，8–16 周干预成效达到峰值（$g = 0.759$），而 $>16$ 周急剧下滑至 $g = 0.372$（$p = 0.011$），跨文献交叉证实长期介入若缺乏递进式任务挑战，极易诱发工具依赖与认识论摩擦耗散。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 12, 17)]]; [[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 11–12)]]
+> - **警惕长期脱敏与[[Fade-out Effect\|效应衰退]]（Fade-out Effect）** 干预时间并非越长越好，过长或过短均削弱成效：① **高校情境黄金周期** [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 发现短期（$<4$ 周，$g^+ = 0.541$）未充分内化，长期（$>12$ 周，$g^+ = 0.350$）易发生脱敏疲劳，**4–12 周（$g^+ = 1.014$）** 为黄金窗口；② **[[Higher-Order Thinking Skills\|高阶思维]]综合倒 U 型验证** [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] 跨学段实证同样表明，8–16 周干预成效达到峰值（$g = 0.759$），而 $>16$ 周急剧下滑至 $g = 0.372$（$p = 0.011$），跨文献交叉证实长期介入若缺乏递进式任务挑战，极易诱发工具依赖与认识论摩擦耗散。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 12, 17)]]; [[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 11–12)]]
 > - **规避认知与[[Creative Deskilling|创造力去技能化]]（[[Cognitive Deskilling|Deskilling]]）的架构约束** 生成式 AI 若直接产出完整答案或现成创意，极易引发学习者自主提问与[[Counterfactual|反事实]]探索能力的退化；教学[[AI Agent in Education|智能体]]必须嵌入“直接答案拦截规则”，强制学生经历认知挣扎与[[Socrates|苏格拉底]]式问答，方能将[[Research Translation|技术转化]]为促进高阶思维与[[Epistemic Virtues and Vices|理智美德]]的[[Scaffolding|脚手架]]。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 273–276)]]
 > - **[[Publication Bias\|发表偏倚]]虚高与真实效应收敛** 现有文献存在显著的“抽屉效应”与自编测验效应虚高（自编测验 $g^+ = 1.022$ vs 标准化量表 $0.614$），经[[Trim and Fill Method\|剪补法]]严密校正后总体真实[[Effect Size\|效应量]]收敛为中等偏小的客观基准（$g^+ = 0.321$），警示学界与决策者摒弃盲目技术狂热。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 13–14)]]
 
@@ -541,7 +541,7 @@ updated: 2026-10-15
 >
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 干预因素（生成式 AI 在高等教育中的综合学习成效） | $k = 97$ / $N = 5{,}389$（57 项实验研究） | Hedges' $g^+$；随机效应模型 | $g^+ = 0.804$ $[0.636, 0.972]$（剪补校正后 $g^+ = 0.321$） | $Q = 1390.16, p < .001, I^2 = 93.09\%$ | 严格控制基线等效性（前测差异 $d < 0.25$）；语言技能（$g^+ = 2.331$）、学业成绩（$g^+ = 0.633$）、情感动机（$g^+ = 0.617$）和高阶思维（$g^+ = 0.580$）显著，但元认知不显著（$g^+ = 0.078$） |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 干预因素（生成式 AI 在高等教育中的综合学习成效） | $k = 97$ / $N = 5{,}389$（57 项实验研究） | Hedges' $g^+$；随机效应模型 | $g^+ = 0.804$ $[0.636, 0.972]$（剪补校正后 $g^+ = 0.321$） | $Q = 1390.16, p < .001, I^2 = 93.09\%$ | 严格控制基线等效性（前测差异 $d < 0.25$）；语言技能（$g^+ = 2.331$）、学业成绩（$g^+ = 0.633$）、情感动机（$g^+ = 0.617$）和高阶思维（$g^+ = 0.580$）显著，但元认知不显著（$g^+ = 0.078$） |
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 干预因素（生成式 AI 对学生[[Higher-Order Thinking Skills\|高阶思维]]的促学总成效） | $k = 59$ / 29 项实验与准实验研究 | Hedges' $g$；随机效应模型 | $g = 0.609$ $[0.485, 0.732]$ | $Q = 255.208, p < .001, I^2 = 77.273\%$ | 涵盖问题解决（$g = 0.745$）、批判性思维（$g = 0.691$）与创造力（$g = 0.444$）；证实适度周期与高自主调节能力是释放促学潜能的关键 |
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（[[Generative AI Agent in Education\|生成式智能体]]促学总成效） | $k = 17$ / — | Hedges' $g$；随机效应模型 | $g = 0.421$ $[0.198, 0.645]$ | $Q = 143.76, I^2 = 88.87\%$ | 纳入中小学及高校实证；未作教学反思[[Scaffolding\|脚手架]]约束的研究易产生负向效应 |
 
@@ -553,7 +553,7 @@ updated: 2026-10-15
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025, p. 11)]] | 干预因素（高阶思维认知子维度） | 问题解决（$k=16$） vs 批判性思维（$k=20$） vs 创造力（$k=23$） | $k = 59$ / — | 问题解决 $g = 0.745$；批判性 $g = 0.691$；创造力 $g = 0.444$ | $Q = 4.961, p = 0.084$ | 程序化与[[Reflexivity\|反思性]]技能提升显著，开放发散性[[Creativity\|创造力]]提升相对受限 |
 > | 同上 | 干预因素（实施周期与主体特征） | 8–16 周（$k=31$） vs 0–8 周（$k=15$） vs $>16$ 周（$k=13$）；高 SRL（$k=31$） vs 低 SRL（$k=25$） | $k = 59$ / — | 8–16 周 $g = 0.759$ vs $>16$ 周 $0.372$；高 SRL $g = 0.863$ vs 低 SRL $0.284$ | 时长 $Q_b = 9.106, p = .011$；SRL $Q_b = 40.962, p < .001$ | 揭示时长倒 U 型规律（8–16周峰值）与自主调节学习能力的关键门槛与中和机制 |
 > | 同上 | 干预因素（学段层次与教学模式） | K-12 基础教育（$k=23$） vs 高等教育（$k=36$）；PBL 项目化探究（$k=15$） vs 讲授式教学（$k=21$） | $k = 59$ / — | K-12 $g = 0.857$ vs 高教 $0.539$；PBL $g = 0.717$ vs 讲授 $0.396$ | 学段 $Q_b = 8.125, p = .004$；教学 $Q_b = 6.273, p = .043$ | 基础教育阶段在适宜支架下获益更高；PBL 探究深度释放生成式技术促学潜能 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025, p. 10)]] | 干预因素（结果分类） | 语言技能（$k=21$） vs 学业成绩（$k=25$） vs 情感动机（$k=25$） vs 高阶思维（$k=16$） vs 元认知（$k=10$） | $k = 97$ / $N = 5{,}389$ | 语言 $g^+ = 2.331$；成绩 $g^+ = 0.633$；动机 $g^+ = 0.617$；高阶思维 $g^+ = 0.580$；元认知 $g^+ = 0.078$ | $p < 0.001$ | 语言与学业产出获益显著，元认知未达统计显著（$p = 0.789$） |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025, p. 10)]] | 干预因素（结果分类） | 语言技能（$k=21$） vs 学业成绩（$k=25$） vs 情感动机（$k=25$） vs 高阶思维（$k=16$） vs 元认知（$k=10$） | $k = 97$ / $N = 5{,}389$ | 语言 $g^+ = 2.331$；成绩 $g^+ = 0.633$；动机 $g^+ = 0.617$；高阶思维 $g^+ = 0.580$；元认知 $g^+ = 0.078$ | $p < 0.001$ | 语言与学业产出获益显著，元认知未达统计显著（$p = 0.789$） |
 > | 同上 | 干预因素（情境与文化） | 国家 ICT 水平：低（$k=20$） vs 中（$k=60$） vs 高（$k=17$）；权力距离：高（$k=73$） vs 低（$k=24$） | $k = 97$ / $N = 5{,}389$ | 低 ICT $g^+ = 1.764$ vs 高 ICT $g^+ = 0.501$；高权力距离 $g^+ = 0.859$ vs 低权力距离 $g^+ = 0.236$ | ICT: $Q_B = 21.69, p < .001$；权力距离: $Q_B = 10.97, p = .001$ | 证实数字化薄弱情境的边际效益递增及高权力距离下的自主促学机制 |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
@@ -565,9 +565,9 @@ updated: 2026-10-15
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 9)]] | 全球 67 项高等教育实证研究（2022–2025） | [[PRISMA]] [[Systematic Review\|系统综述]]与主题综合 | [[Higher-Order Thinking Skills\|高阶思维]]认知共现模式分布 | 协同增益 $n = 18$ (53%)；非对称发展 $n = 8$ (24%)；双重侵蚀 $n = 4$ (12%) | 87% MMAT $\ge 80\%$ | 仅针对考察双向思维的 34 项文献进行轨迹聚类 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 5)]] | 全球 67 项高等教育实证研究（2022–2025） | PRISMA 系统综述描述性统计 | 学科领域与地理分布特征 | 亚洲占 58.21% ($n = 39$)；STEM 占 35.82% ($n = 24$)；量化占 38.81% | — | 揭示当前实证证据集中于亚洲高校及重逻辑学科 |
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026, p. 32)]] | 英国中小学与高等教育衔接调研 | 政策报告与实证证据综合 | 实践探究与数智技能培养危机 | 超过 50% 教师报告探究课时受压缩；数智素养与科学实验动手需求呈结构性矛盾 | — | 宏观系统调研，论证 AI 时代保护实践探究课时的战略必要性 |
-> | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026, pp. 3–5)]] | 高等教育生成式 AI 整合实证文献与理论批判 | 概念辨析与社会[[Epistemology\|认识论]]批判分析 | [[Epistemic Dependence\|认识依赖]]协助形态分层与中介路径 | 工具型、承载型与承载判断型三层协助；四重社会技术中介路径（流畅权威性、无摩擦委托、不透明综合、制度化依赖） | — | 定性概念与认识论框架，揭示[[Evaluative Judgement\|评价性判断]]外包的非行为频次依赖风险 |
-> | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026, pp. 11–18)]] | 韩国 8 名初中生，两节人机协同科学课（植物[[Growth\|生长]]与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像转录、数字生成物、访谈） | 学科评价标准赋能下的认识论审问与提示词重构 | 证实四项[[Scientific Explanation\|科学解释]]标准（相关性、因果叙事、概念框架、适切表征）能有效引导中学生识别 AI 输出的事实遗漏、机制断裂与图解缺陷，并驱动精准的提示词迭代 | 质性微观[[Dialogue in Education\|对话]]与多模态制品分析 | 确立显性学科标准在 K-12 人机多模态知识共建中作为维持[[Epistemological Vigilance\|认识论警觉]]与[[Epistemic Agency\|认识主体性]]的核心脚手架功能 |
-> | [[Argument_Bown_2024_JEP\|Bown & Wang (2024, pp. 101–103)]] | 全球半导体供应链与先进制程计算芯片市场（2020–2024） | 产业组织实证与供应链分解 | 生成式 AI 对半导体需求的拉动及地缘出口管制影响 | 生成式 AI 爆发推高尖端芯片需求历史峰值，促成 2022 年美国全面切断中国先进算力硬件获取渠道 | — | 确立生成式 AI 作为全球半导体产业政策与大国技术竞争核心驱动力的宏观地位 |
+> | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026, pp. 3–5)]] | 高等教育生成式 AI 整合实证文献与理论批判 | 概念辨析与社会[[Epistemology\|认识论]]批判分析 | [[Epistemic Dependence\|认识依赖]]协助形态分层与中介路径 | 工具型、承载型与承载判断型三层协助；四重社会技术中介路径（流畅权威性、无摩擦委托、不透明综合、制度化依赖） | — | 定性概念与认识论框架，揭示[[Evaluative Judgement\|评价性判断]]外包的非行为频次依赖风险 |
+> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026, pp. 11–18)]] | 韩国 8 名初中生，两节人机协同科学课（植物[[Growth\|生长]]与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像转录、数字生成物、访谈） | 学科评价标准赋能下的认识论审问与提示词重构 | 证实四项[[Scientific Explanation\|科学解释]]标准（相关性、因果叙事、概念框架、适切表征）能有效引导中学生识别 AI 输出的事实遗漏、机制断裂与图解缺陷，并驱动精准的提示词迭代 | 质性微观[[Dialogue in Education\|对话]]与多模态制品分析 | 确立显性学科标准在 K-12 人机多模态知识共建中作为维持[[Epistemological Vigilance\|认识论警觉]]与[[Epistemic Agency\|认识主体性]]的核心脚手架功能 |
+> | [[Argument_Bown_2024_JEP\|Bown and Wang (2024, pp. 101–103)]] | 全球半导体供应链与先进制程计算芯片市场（2020–2024） | 产业组织实证与供应链分解 | 生成式 AI 对半导体需求的拉动及地缘出口管制影响 | 生成式 AI 爆发推高尖端芯片需求历史峰值，促成 2022 年美国全面切断中国先进算力硬件获取渠道 | — | 确立生成式 AI 作为全球半导体产业政策与大国技术竞争核心驱动力的宏观地位 |
 
 ---
 
@@ -601,16 +601,16 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》系统论述万亿参数大模型的 [[Artificial General Intelligence|AGI]] 火花与[[AI Deterrence|算法威慑]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Ch. 2]]）、软件世纪软硬件主从支配关系的根本逆转与破除[[Big Idea Famine|大构想饥荒]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Ch. 4]]），以及超越 1970 年代反文化运动与[[Consumer Internet|消费互联网]]消极自满以构筑国家战略[[Hard Power|硬实力]]中枢（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》系统论述万亿参数大模型的 [[Artificial General Intelligence|AGI]] 火花与[[AI Deterrence|算法威慑]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Ch. 2]]）、软件世纪软硬件主从支配关系的根本逆转与破除[[Big Idea Famine|大构想饥荒]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Ch. 4]]），以及超越 1970 年代反文化运动与[[Consumer Internet|消费互联网]]消极自满以构筑国家战略[[Hard Power|硬实力]]中枢（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，论证生成式人工智能如何成为 2025 年起美国科技政策“再集中与再动员”的核心叙事，以及国家如何依托私营科技巨头与国家实验室绕开大学基础探索直接获取技术主导权。
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]学习伙伴关系模型，系统阐释绝对主义、相对主义与评价主义三大[[Epistemic Stances\|认识立场]]，构建技术提示支架（[[Role-playing\|角色扮演]]、[[Chain-of-Thought Prompting\|思维链]]分解）与教学法支架协同矩阵，阐明维系人类[[Epistemic Agency\|认识主体性]]与防范[[Cognitive Offloading\|认知卸载]]的实践路径。
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 运用随机效应[[Meta-analysis\|元分析]]综合 29 项实验与准[[Experimental Research\|实验研究]]（59 个[[Effect Size\|效应量]]），系统确立生成式 AI 对学生[[Higher-Order Thinking Skills\|高阶思维]]的中等显著促学效应（$g = 0.609$），并实证揭示干预时长（8–16 周倒 U 型最优窗口）与[[Self-Regulated Learning\|自我调节学习]]能力（高低 SRL 组间差异极显著）的决定性调节边界。
-> - [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] — [[Meta-analysis\|元分析]] 57 项严格控制[[Baseline Standardized Mean Difference\|基线等效性]]（$d < 0.25$）的实验研究（97 个效应量，$N = 5{,}389$），证实生成式 AI 对大学生产出的综合大效应（$g^+ = 0.804$，剪补校正后 $g^+ = 0.321$），系统揭示多维产出梯度分化（语言技能 $>$ [[Academic Achievement\|学业成绩]] $>$ [[Affective Outcomes\|情感动机]] $>$ [[Higher-Order Thinking Skills\|高阶思维]] $>$ [[Metacognition\|元认知]]）及低 ICT 与高权力距离情境下的边际效益支持机制。
+> - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — [[Meta-analysis\|元分析]] 57 项严格控制[[Baseline Standardized Mean Difference\|基线等效性]]（$d < 0.25$）的实验研究（97 个效应量，$N = 5{,}389$），证实生成式 AI 对大学生产出的综合大效应（$g^+ = 0.804$，剪补校正后 $g^+ = 0.321$），系统揭示多维产出梯度分化（语言技能 $>$ [[Academic Achievement\|学业成绩]] $>$ [[Affective Outcomes\|情感动机]] $>$ [[Higher-Order Thinking Skills\|高阶思维]] $>$ [[Metacognition\|元认知]]）及低 ICT 与高权力距离情境下的边际效益支持机制。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项高等教育实证研究，基于批判性与[[Creativity\|创造性思维]]双重视角阐明生成式 AI 的双向调节机制，提炼三大共现演进模型与六大教学干预规制。
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — [[Meta-analysis\|元分析]] 56 项实证研究中[[Generative AI Agent in Education\|生成式智能体]]对[[Computational Thinking\|计算思维]]与[[Academic Achievement\|学业表现]]的促进效应（$g = 0.421$），实证确立显性反思量规对规避[[Cognitive Offloading\|认知卸载]]的必要性。
-> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 针对初中科学人机多模态解释共建，揭示学生如何依托学科四维标准实施微观[[Discourse|话语]]审问与提示词迭代，实证确立显性学科标准在 K-12 阶段维系[[Epistemological Vigilance|认识论警觉]]与认识主体性的支架机制。
+> - [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] — 针对初中科学人机多模态解释共建，揭示学生如何依托学科四维标准实施微观[[Discourse|话语]]审问与提示词迭代，实证确立显性学科标准在 K-12 阶段维系[[Epistemological Vigilance|认识论警觉]]与认识主体性的支架机制。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] — 英国皇家学会教育战略报告，论证生成式技术环境下科学教育从事实识记向证据评估、数据与 AI 素养转型的必要路径。
-> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 从社会[[Epistemology\|认识论]]视角系统审视生成式 AI 在高等教育中的[[Epistemic Dependence\|认识依赖]]，提出协助形态三层分类（工具型、承载型、承载判断型）与四重中介路径（流畅权威性、无摩擦委托、不透明综合、制度化依赖），确立知识确证劳动力分工重组下维系关系性[[Epistemic Agency\|认识主体性]]与[[Evaluative Judgement\|评价性判断]]的[[Analytic Framework\|分析框架]]。
+> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 从社会[[Epistemology\|认识论]]视角系统审视生成式 AI 在高等教育中的[[Epistemic Dependence\|认识依赖]]，提出协助形态三层分类（工具型、承载型、承载判断型）与四重中介路径（流畅权威性、无摩擦委托、不透明综合、制度化依赖），确立知识确证劳动力分工重组下维系关系性[[Epistemic Agency\|认识主体性]]与[[Evaluative Judgement\|评价性判断]]的[[Analytic Framework\|分析框架]]。
 > - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 提出基于大语言模型的“反思机器”（Reflection Machines）规范架构，论证生成式 AI 不仅可充当[[Knowledge Production|知识生成]]中介，更可通过自动化注入[[Counterfactual|反事实]]异见与反驳论据（[[Defeater|Defeaters]]）构建生产性[[Epistemic Friction|认识论摩擦]]，在防范[[Automation Bias|自动化偏差]]与维持有意义人类控制中发挥认知安全防护功能。
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 从[[Virtue Epistemology|德性认识论]]与[[Socrates|苏格拉底]]教学法出发，设计并评估 Q-Tutor 双模态生成式[[AI Agent in Education|智能体]]，论证直接答案拦截规则、反事实探究（What-if）与个人经验图式交织在防范认知与[[Creative Deskilling|创造力去技能化]]（[[Cognitive Deskilling|Deskilling]]）、培育学生[[Epistemic Virtues and Vices|理智美德]]与[[Skill of Questioning|提问技能]]中的核心支架作用。
 > - [[Argument_Smith_2026_SPE\|Smith (2026)]] — 从认识论与教育哲学出发，破除生成式 AI 作为计算器的工具隐喻，确立其在读写教育中代行全流程的私厨隐喻；揭示算法代写构思、提纲与修改对学习者认知能力造成的成长性认识侵害，并提出树立[[Alien Intelligence|异己智能]]批判意识与推行思维步骤全外显（Showing Steps）的双重教育防御方案。

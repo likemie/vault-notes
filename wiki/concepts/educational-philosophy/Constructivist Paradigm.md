@@ -93,7 +93,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Constructivist Paradigm
 
@@ -180,7 +180,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > [!concept-lens] 从[[Epistemology\|认识论]]到研究设计
 > 如果经验的意义来自行动者与世界的互动，研究者就需要进入参与者的社会历史情境，询问他们怎样界定问题、使用概念并协商现实。开放式提问、自然情境资料和归纳分析由此获得方法论依据。
 
-> [!claim] [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]]
+> [!claim] [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]]
 > **情境中的意义生成**　建构主义世界观要求研究者保存参与者观点的多样性与复杂性，通过较宽泛的问题让意义从材料中逐步显现，再结合参与者的历史和文化背景解释主题。研究者也要说明自身位置如何影响诠释。由此形成的知识是一项有证据约束的解释工作，不能简化成对参与者[[Discourse|话语]]的机械[[Transcription in Qualitative Research\|转录]]。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 1, pp. 8–9)]]
 
 ---
@@ -200,7 +200,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > [!concept-lens] 跨文化[[Recontextualization\|再脉络化]]
 > 理念的传播也是意义建构过程。接受者会借助熟悉的文化资源解释外来概念，并根据课程、考试和组织权力重新界定其用途。
 
-> [!claim] [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]
+> [!claim] [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]]
 > **文化亲和与制度筛选共同塑造借用结果**　进入中国学校的以学生为中心教育具有建构主义和[[Progressive Education\|进步主义教育]]背景。案例教师借助[[Confucius\|孔子]]的启发式对话传统和Vygotsky的社会文化理论理解外来理念，使其获得文化上的熟悉感。经过转译后，课堂提问和互动被用于培养高阶思考、提高内容吸收效率，并服务于[[Gaokao\|高考]]环境下的教学目标。统一大纲和[[Test-Based Accountability\|考试问责]]仍限制学生参与课程内容与评价规则的决策。[[Selective Affinity\|选择性亲和]]解释了教学方法为何能够被采用，制度边界则解释了它为何只发生有限改变。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 591, 596, 601–602)]]
 
 ---
@@ -220,9 +220,9 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **意义生成与研究设计** | 从参与者经验和情境中归纳意义，并说明研究者的解释位置 | [[Qualitative Interview\|质性访谈]]、[[Ethnography\|民族志]]、[[Constructivist Grounded Theory\|建构主义扎根理论]] | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] |
+> | **意义生成与研究设计** | 从参与者经验和情境中归纳意义，并说明研究者的解释位置 | [[Qualitative Interview\|质性访谈]]、[[Ethnography\|民族志]]、[[Constructivist Grounded Theory\|建构主义扎根理论]] | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] |
 > | **学习活动与概念改变** | 通过学生实际开展的活动改变理解，并使目标、教学和评估对齐 | 课程设计、课堂教学与评估 | [[Argument_Biggs_1999_HERD\|Biggs (1999)]] |
-> | **跨文化结合与本土重构** | 西方建构主义与东亚儒家对话传统的选择性亲和 | 跨国[[Policy Borrowing\|政策借用]]、LCE 本土化 | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] |
+> | **跨文化结合与本土重构** | 西方建构主义与东亚儒家对话传统的选择性亲和 | 跨国[[Policy Borrowing\|政策借用]]、LCE 本土化 | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] |
 > | **观念与[[Epistemic Governance\|知识治理]]权力** | 解构物质[[Determinism\|决定论]]，强调规范与文化模型的建构性力量 | 全球教育治理、国际组织分析 | [[Argument_Zapp_2022_Springer\|Zapp (2022)]] |
 
 ---
@@ -265,7 +265,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] | 从覆盖 15 所学校的改革项目中选取 4 所案例学校，包括 2 所城市学校和 2 所农村学校；4 名校长、9 名教师；两轮共 25 次访谈，每次约 50 分钟 | 多案例[[Qualitative Research\|质性研究]]；NVivo 11 编码；比较学校与角色差异 | 教师对以学生为中心教育、启发式[[Dialogue in Education\|对话]]、学生参与和课程决策权的解释 | 教师把对话、互动和高阶思考纳入课堂，同时保留统一课程和考试导向下的教师决策权 | 未报告统计不确定性；研究目标是解释意义与机制 | 目的性小样本支持情境化解释，不能估计这种重构在全部中国学校中的分布比例（pp. 594–602） |
+> | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] | 从覆盖 15 所学校的改革项目中选取 4 所案例学校，包括 2 所城市学校和 2 所农村学校；4 名校长、9 名教师；两轮共 25 次访谈，每次约 50 分钟 | 多案例[[Qualitative Research\|质性研究]]；NVivo 11 编码；比较学校与角色差异 | 教师对以学生为中心教育、启发式[[Dialogue in Education\|对话]]、学生参与和课程决策权的解释 | 教师把对话、互动和高阶思考纳入课堂，同时保留统一课程和考试导向下的教师决策权 | 未报告统计不确定性；研究目标是解释意义与机制 | 目的性小样本支持情境化解释，不能估计这种重构在全部中国学校中的分布比例（pp. 594–602） |
 > | [[Argument_Murphy_2026_JTS\|Murphy Jr. et al. (2026)]] | 美国 1 所高水平研究型大学；3 期学者工作坊（$n=21, 11, 12$） | 单机构[[Case Study\|案例研究]]与[[Design-Based Research\|基于设计的研究]]（DBR） | 基于社会建构与结构化提示研讨的学者协同与促学满意度 | 第二期线下研讨促学设计满意度达 100%；协作积极体验达 80%；三期研讨时间紧迫困境达 63%–75% | 质性开放[[Questionnaire\|问卷]]独立主题编码 | 单机构案例自陈调查；表明社会互动与面对面研讨有效支撑了跨学科知识协商与共同体生成 |
 
 ---
@@ -275,11 +275,11 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > [!evidence-grid] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch. 1)]]　界定建构主义世界观，并说明它如何引导开放提问、情境理解、归纳分析与研究者解释。
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]]　把建构主义学习观转化为三级教学观、概念改变条件和[[Constructive Alignment\|建构性对齐]]。
-> - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]　揭示[[Constructivist Instruction\|建构主义教学]]理念与中国启发式对话传统的[[Selective Affinity\|选择性亲和]]，以及考试制度设置的改变边界。
+> - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]]　揭示[[Constructivist Instruction\|建构主义教学]]理念与中国启发式对话传统的[[Selective Affinity\|选择性亲和]]，以及考试制度设置的改变边界。
 > - [[Argument_Murphy_2026_JTS\|Murphy Jr. et al. (2026)]]　将社会建构主义应用于应对国家半导体战略的高校跨学科学者发展工作坊，设计结构化提示与小组对话，实证呈现教师在面对面社会互动中打破学科孤岛并实现协同[[Knowledge Building Theory|知识建构]]的过程。
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]　展示建构主义诠释学和[[Constructivist Grounded Theory\|建构主义扎根理论]]如何处理研究者、参与者与资料之间的共同解释。
 > - [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]]　从[[Social Realism\|社会实在论]]出发，批评课程改革对系统学科知识的边缘化。
 > - [[Argument_Zapp_2022_Springer\|Zapp (2022)]]　用国际关系建构主义解释观念、规范和知识在全球教育治理中的制度权力。
 > - [[Argument_Rømer_2018_EPT\|Rømer (2018)]]　分析[[Radical Constructivism\|激进建构主义]]与教师权威、文化内容之间的张力。
 > - [[Argument_OConnor_2020_AJLL\|O'Connor (2020)]]　审计反建构主义判断中的数据选择、研究分类和效应解释。
-> - [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff (2024)]]　追溯芬兰现象化学习中[[Pragmatic Constructivism\|实用主义建构主义]]与教化传统的结合。
+> - [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024)]]　追溯芬兰现象化学习中[[Pragmatic Constructivism\|实用主义建构主义]]与教化传统的结合。

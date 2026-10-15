@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Policy Image
@@ -155,6 +155,6 @@ updated: 2026-10-15
 > | [[Venue Shopping]] | 概念 | 与场所转换构成打破政策垄断的“一硬一软”双轮驱动策略。 |
 > | [[Policy Entrepreneur]] | 概念 | 政策形象重塑的能动策划者与危机叙事动员主体。 |
 > | [[Common Core State Standards]] | 政策事实 | 政策形象从“地方自主”翻转为“经济危机”从而促成国家改革的标志性案例。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证文献 | 详细记录政策企业家动员实证指标重塑各州标准形象以摧毁政策垄断的研究。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 详细记录政策企业家动员实证指标重塑各州标准形象以摧毁政策垄断的研究。 |
 
 ---

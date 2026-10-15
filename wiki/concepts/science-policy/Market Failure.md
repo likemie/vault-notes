@@ -91,7 +91,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **市场失灵（Market Failure / 市场失灵理论）**是新古典福利经济学（Neoclassical Welfare Economics）的核心基石概念，指在自由放任的市场环境中，由于价格机制无法满足完全竞争与完备市场的理想假设，导致资源配置无法自发达到帕累托最优（Pareto Optimality）状态的经济现象（Bator, 1958; Arrow, 1962）。在传统科技与产业政策中，市场失灵理论构成了国家干预的唯一合法性基准——包括因知识外溢导致的基础研发供给不足、因生产规模经济引发的[[Learning by Doing|干中学]]（[[Learning by Doing]]）壁垒，以及由于地理集聚带来的[[Agglomeration Externalities|集聚外部性]]（Agglomeration Externalities）错配。然而，在[[Evolutionary Economics|演化经济学]]中，[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）与[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）批评该框架只能被动修补失灵而无法指引创新战略方向（[[Directionality of Innovation|directionality]]）；而在当代前沿高科技博弈中，查德·鲍恩（Chad P. Bown）与王丹（Dan Wang）进一步指出，[[Modern Industrial Policy|现代产业政策]]的动因已由单纯的效率失灵修补转变为国家安全保障、地缘技术遏制与供应链韧性保险，甚至不惜以牺牲集聚外部性与经济效率为代价。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]; [[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81–83, 102)]]
+> **市场失灵（Market Failure / 市场失灵理论）** 是新古典福利经济学（Neoclassical Welfare Economics）的核心基石概念，指在自由放任的市场环境中，由于价格机制无法满足完全竞争与完备市场的理想假设，导致资源配置无法自发达到帕累托最优（Pareto Optimality）状态的经济现象（Bator, 1958; Arrow, 1962）。在传统科技与产业政策中，市场失灵理论构成了国家干预的唯一合法性基准——包括因知识外溢导致的基础研发供给不足、因生产规模经济引发的[[Learning by Doing|干中学]]（[[Learning by Doing]]）壁垒，以及由于地理集聚带来的[[Agglomeration Externalities|集聚外部性]]（Agglomeration Externalities）错配。然而，在[[Evolutionary Economics|演化经济学]]中，[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）与[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）批评该框架只能被动修补失灵而无法指引创新战略方向（[[Directionality of Innovation|directionality]]）；而在当代前沿高科技博弈中，查德·鲍恩（Chad P. Bown）与王丹（Dan Wang）进一步指出，[[Modern Industrial Policy|现代产业政策]]的动因已由单纯的效率失灵修补转变为国家安全保障、地缘技术遏制与供应链韧性保险，甚至不惜以牺牲集聚外部性与经济效率为代价。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]; [[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81–83, 102)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 确立了新古典经济学中公共干预的严格边界：国家只能在经证明存在市场缺陷处充当修补者与被动去风险者，目标在于“平整竞争场地”（Leveling the Playing [[Champ|field]]）。
@@ -176,7 +176,7 @@ updated: 2026-10-16
 > [!concept-lens] 新古典干预理论的方向性缺失
 > 探讨新古典市场失灵理论为何在面对重大社会挑战与颠覆性技术革命时陷入被动修补困境。
 
-> [!claim] Mazzucato & Kattel (2018)
+> [!claim] Mazzucato and Kattel (2018)
 > **市场失灵修补论的方向性失明** 市场失灵框架立足于静态均衡假设，其政策逻辑局限于识别知识外部性导致的私人研发投资缺口，进而通过供给端补贴与税收抵免平整竞争场地；但该理论对技术演化的[[Path Dependence|路径依赖]]与非中性缺乏认知，完全无法为有限公共资源的投向提供战略方向（[[Directionality of Innovation|directionality]]），因而无法指导国家主动应对气候变化与系统性技术变革。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]
 
 ---
@@ -186,7 +186,7 @@ updated: 2026-10-16
 > [!concept-lens] 高技术资本密集型制造中的规模与生态外部性
 > 探讨半导体与前沿制造业中为何自由市场价格机制无法自发形成最优产能与技术迭代。
 
-> [!claim] [[Argument_Bown_2024_JEP|Bown & Wang (2024)]]
+> [!claim] [[Argument_Bown_2024_JEP|Bown and Wang (2024)]]
 > **半导体产业的经典市场失灵与政策纠偏** 在半导体制造领域，由于良率提升极度依赖持续生产累积的经验（[[Learning by Doing|干中学]]），早期进入者面临极高的试错成本与正向外溢；同时，晶圆制造必须依托由设备商、化学品供应商和熟练工程师构成的本地化生态（[[Agglomeration Externalities|集聚外部性]]）。自由市场机制无法充分补偿先驱企业的溢出贡献，导致私人投资低于社会最优水平，这构成了 20 世纪美日等国运用产业政策（如研发财团、先导资助）纠正市场失灵的经典理论基石。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 83, 102)]]
 
 ---
@@ -196,7 +196,7 @@ updated: 2026-10-16
 > [!concept-lens] 地缘安全动因对市场效率逻辑的重构与替代
 > 探讨当代大国产业干预为何主动违背集聚经济与成本最优原则，转而追求安全韧性最大化。
 
-> [!claim] [[Argument_Bown_2024_JEP|Bown & Wang (2024)]]
+> [!claim] [[Argument_Bown_2024_JEP|Bown and Wang (2024)]]
 > **从效率纠偏转向国家安全与去风险保险** 2020 年代主要经济体推出的[[Modern Industrial Policy|现代产业政策]]，其核心驱动力已非解决微观市场失灵以提升经济效率，而是防范地缘热点断链风险、保障关键芯片本土供应及压制竞争对手先进制程发展；政策制定者通过巨额补贴推动晶圆厂向美欧等高成本地区回流与多地分散，本质上是以牺牲集聚外部性和承受更高制造成本为代价，购买昂贵的国家安全与供应链韧性保险。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 102–103)]]
 
 ---
@@ -239,8 +239,8 @@ updated: 2026-10-16
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **方向性缺失批判** | 市场失灵理论仅能修补供给不足，无法提供创新战略方向 | 使命导向科技政策、[[Grand Challenges\|社会大挑战]]转型治理 | [[Mariana Mazzucato\|Mazzucato]] & [[Rainer Kattel\|Kattel]] (2018) |
-> | **经典生产外部性依据** | 干中学效应与集聚外部性为高科技制造补贴提供效率合理性 | 半导体晶圆制造、高端装备与先导产业培育 | [[Argument_Bown_2024_JEP\|Bown & Wang (2024, p. 83)]] |
-> | **安全保险超越逻辑** | 现代政策动因超越市场失灵修补，主动以经济效率换取安全保险 | 地缘政治博弈、现代半导体产业政策、供应链韧性重组 | [[Argument_Bown_2024_JEP\|Bown & Wang (2024, p. 102)]] |
+> | **经典生产外部性依据** | 干中学效应与集聚外部性为高科技制造补贴提供效率合理性 | 半导体晶圆制造、高端装备与先导产业培育 | [[Argument_Bown_2024_JEP\|Bown and Wang (2024, p. 83)]] |
+> | **安全保险超越逻辑** | 现代政策动因超越市场失灵修补，主动以经济效率换取安全保险 | 地缘政治博弈、现代半导体产业政策、供应链韧性重组 | [[Argument_Bown_2024_JEP\|Bown and Wang (2024, p. 102)]] |
 > | **系统转型与公共价值** | 现代产业战略突破狭隘微观失灵界限，由国家设定方向驱动全系统能力重构 | 绿色能源转型、先进制造复兴与区域包容性增长 | [[Argument_Reynolds_2024_JICT\|Reynolds (2024, p. 3)]] |
 > | **重资产与强周期失灵** | 200 亿欧元建厂门槛与剧烈周期性诱发私营资本避险与寡头咽喉垄断 | 尖端芯片制造回流、关键战略供应链去风险与产能冗余储备 | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024, p. 7)]] |
 > | **中试验证与安全公共品供给** | 先进制程中试线与流片高壁垒导致实验室到代工厂断层，硬件安全信息不对称需国家提供中试与根信任公共品 | 前沿微电子创新转化、中试死亡之谷跨越、硬件根信任标准构建 | [[Argument_NIST_2023_NSTC\|NIST (2023)]]; [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] |
@@ -266,13 +266,13 @@ updated: 2026-10-16
 > > 争论公共部门是应当恪守市场失灵边界以维持市场中立，还是主动挑选战略[[Technological Trajectories|技术轨道]]并[[Tilting the Playing Field|倾斜竞争场地]]。
 > >
 > > - **新古典经济学派** 认为超出市场失灵范畴的主动干预必然导致政府失灵、市场扭曲与寻租低效。
-> > - **Mazzucato & Kattel (2018)** 论证指出面对大转型挑战，仅修补市场失灵将导致国家治理瘫痪，必须主动塑造与共创新兴市场。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]
+> > - **Mazzucato and Kattel (2018)** 论证指出面对大转型挑战，仅修补市场失灵将导致国家治理瘫痪，必须主动塑造与共创新兴市场。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]
 >
 > > [!axis] 追求经济效率 vs 支付国家安全保险溢价
 > > 争论产业政策是否应始终遵循[[Agglomeration Externalities|集聚经济]]与全球比较优势原则，还是应当为国家安全牺牲部分经济效率。
 > >
 > > - **自由贸易派** 强调空间分散与重复建设破坏了东亚成熟半导体生态的集聚外部性，推高了全球制造成本。
-> > - **[[Argument_Bown_2024_JEP|Bown & Wang (2024)]]** 指出当代产业政策本质上是为防范断链风险而支付的国家安全保险，政策考量已超越单一的狭义经济效率标准。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 102–103)]]
+> > - **[[Argument_Bown_2024_JEP|Bown and Wang (2024)]]** 指出当代产业政策本质上是为防范断链风险而支付的国家安全保险，政策考量已超越单一的狭义经济效率标准。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 102–103)]]
 
 > [!warning] 适用局限
 > 市场失灵理论对于解决资源静态配置中的局部缺陷（如环境污染、通用研发补贴）具有严密的微观分析力，但一旦进入高科技地缘政治冲突、系统级产业生态重组或颠覆性创新赛道，其单纯基于价格与供求均衡的分析工具便显现出严重的解释力边界。
@@ -319,8 +319,8 @@ updated: 2026-10-16
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — [[National Science and Technology Council|白宫国家科学技术委员会]]战略报告，系统阐明跨部门中试基础设施漏斗（NSTC/[[National Advanced Packaging Manufacturing Program|NAPMP]]/Commons/[[National Nanotechnology Coordinated Infrastructure|NNCI]]）与硬件根信任度量衡如何作为国家公共品矫正深科技创新链的转化与安全市场失灵。
-> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 系统批判了新古典市场失灵理论在科技创新政策中的方向性缺失，论证了国家从“被动修补”转向“主动塑造与创造市场”的必要性。
-> - [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] — 梳理了半导体产业中[[Agglomeration Externalities|集聚外部性]]与[[Learning by Doing|干中学]]等经典市场失灵依据，并揭示了 2020 年代[[Modern Industrial Policy|现代产业政策]]如何由经济效率修补[[Paradigm|范式]]演进为国家安全与供应链保险逻辑。
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 系统批判了新古典市场失灵理论在科技创新政策中的方向性缺失，论证了国家从“被动修补”转向“主动塑造与创造市场”的必要性。
+> - [[Argument_Bown_2024_JEP|Bown and Wang (2024)]] — 梳理了半导体产业中[[Agglomeration Externalities|集聚外部性]]与[[Learning by Doing|干中学]]等经典市场失灵依据，并揭示了 2020 年代[[Modern Industrial Policy|现代产业政策]]如何由经济效率修补[[Paradigm|范式]]演进为国家安全与供应链保险逻辑。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 阐述了 21 世纪美国现代产业战略如何突破狭隘的新古典市场失灵修补教条，转向由国家战略目标引导的系统性产业转型与综合[[Public Value|公共价值创造]]。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 深入剖析半导体制造由于 200 亿欧元固定资产壁垒、强周期暴涨暴跌与 92% 尖端制程寡头垄断所导致的内生性结构市场失灵，阐释美欧公共财政直接介入以分担资本风险与重构供应链韧性的治理分殊。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 论证半导体先进制程数十亿美元中试线壁垒与流片高成本构成了严重的实验室到代工厂（[[Translational Research|lab-to-fab]]）市场失灵，确立了由[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）提供共享[[Pilot Scale Platform|中试平台]]、云端设计网关与拼版流片等产业公共品的制度化矫正路径。

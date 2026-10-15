@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Evidence-Innovation Knowledge Dynamics
@@ -61,7 +61,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> 证据-创新知识动力学（Evidence-Innovation Knowledge Dynamics）指在教育生态系统中，教师直面实践难题时，将外部学术研究证据与本土教学情境深度嵌合，经由实验、调试与再创造生成实践新知识，并推动新知识向全系统扩散的动态循环模型（Révai, 2020; [[Argument_Torres_2022_KMModels\|Torres, 2022, pp. 49–51]]）。该模型的核心理论贡献在于**“修复”（repair）**了教育政策中长期存在的体制断层——政策制定者往往一方面孤立谈论规模化推广教育创新（Scaling Innovation），另一方面片面强调提高证据利用率（Increasing Evidence Use），而知识动力学模型证明两者本质上是不可分割、相互共生的有机统一体。
+> 证据-创新知识动力学（Evidence-Innovation Knowledge Dynamics）指在教育生态系统中，教师直面实践难题时，将外部学术研究证据与本土教学情境深度嵌合，经由实验、调试与再创造生成实践新知识，并推动新知识向全系统扩散的动态循环模型（Révai, 2020; [[Argument_Torres_2022_KMModels\|Torres, 2022, pp. 49–51]]）。该模型的核心理论贡献在于 **“修复”（repair）** 了教育政策中长期存在的体制断层——政策制定者往往一方面孤立谈论规模化推广教育创新（Scaling Innovation），另一方面片面强调提高证据利用率（Increasing Evidence Use），而知识动力学模型证明两者本质上是不可分割、相互共生的有机统一体。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向证据利用与教学创新交融发生时的知识生命周期，将[[Knowledge Mobilisation\|知识动员]]实质界定为**面向[[Problem Solving\|问题解决]]的“知识创生”（Knowledge Creation）过程**。
@@ -173,4 +173,4 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Torres_2022_KMModels\|Torres (2022)]] — 评析 Révai 的证据-创新知识动力学模型，确立其在打破动员与创新割裂上的理论基石地位。
 > - [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 在 [[OECD]] 导言中系统阐述教师网络与专业生态系统对教育创新的支撑机制。
-> - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 探讨[[School Enquiry Cycle\|学校探究循环]]中如何将外部实证研究与校本教学创新闭环整合。
+> - [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] — 探讨[[School Enquiry Cycle\|学校探究循环]]中如何将外部实证研究与校本教学创新闭环整合。

@@ -31,7 +31,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 ## 背景
 
@@ -41,7 +41,7 @@ updated: 2026-10-15
 ## 政策文本摘要
 
 > [!abstract] 政策文本摘要
-> 报告将[[School Autonomy\|学校自主权]]定位为"草根、自下而上的改革，借鉴参与式民主（participatory democracy）概念"（Keddie et al., 2020, IJLE, p.2）。它同时启动了澳大利亚教育中**需求本位拨款（needs-based funding）**的公平模型——"Karmel report initiated in 1973"（Kenway, 2013，引自 Keddie et al., 2020, IJLE, p.11）。
+> 报告将[[School Autonomy\|学校自主权]]定位为"草根、自下而上的改革，借鉴参与式民主（participatory democracy）概念"（Keddie et al., 2020, IJLE, p.2）。它同时启动了澳大利亚教育中**需求本位拨款（needs-based funding）** 的公平模型——"Karmel report initiated in 1973"（Kenway, 2013，引自 Keddie et al., 2020, IJLE, p.11）。
 
 ## 时间线
 

@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # SPECTRUM
@@ -145,7 +145,7 @@ updated: 2026-10-15
 > - **国际推广** 为美国 [[Institute of Education Sciences\|IES]]、澳大利亚 [[Evidence for Learning\|E4L]] 等国际证据机构在制定[[Social-Emotional Learning\|社会情感学习]]（SEL）与心理韧性评估标准时提供了可直接复用的系统性文献与分级指标。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 总结 EEF 前八年实践经验，将 SPECTRUM 工具库的建立作为证据资助机构前置防范测量效度危机、节约数百万英镑成本的标志性成果。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 总结 EEF 前八年实践经验，将 SPECTRUM 工具库的建立作为证据资助机构前置防范测量效度危机、节约数百万英镑成本的标志性成果。
 
 ---
 

@@ -14,7 +14,7 @@ person_related_color: "#fef3c7"
 born: "1890"
 died: "1974"
 lifespan: "1890–1974"
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - person/engineer
   - person/policy-architect
@@ -271,7 +271,7 @@ created: 2026-10-02
 
 > [!evidence-grid-a] 相关文献索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 在《游泳逆流：[[Developmental Network State|发展型网络国家]]在美国的崛起》中深度解构布什 1945 年报告的战后体制假定，揭示其依赖大企业封闭实验室吸收基础发现的历史局限；论证随着大企业实验室收缩与[[Valley of Death|死亡之谷]]凸显，美国被迫通过 1980 年代科技立法转向由发展型网络国家暗中主导的早期研发撮合机制。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》系统探讨二战 [[Office of Scientific Research and Development|OSRD]] 与国家安全深度结盟的动员体制（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]]）、对比布什深层物理突破与当代[[Big Idea Famine|大构想饥荒]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Ch. 4]]），以及剖析 1970 年代反文化运动与[[Consumer Internet|消费互联网]]对布什国家大战略使命的偏离（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》系统探讨二战 [[Office of Scientific Research and Development|OSRD]] 与国家安全深度结盟的动员体制（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]]）、对比布什深层物理突破与当代[[Big Idea Famine|大构想饥荒]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Ch. 4]]），以及剖析 1970 年代反文化运动与[[Consumer Internet|消费互联网]]对布什国家大战略使命的偏离（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 2026 年白宫战略报告，全面对照 1945 年[[Science, The Endless Frontier 1945|布什报告]]，肯定其公共资助核心，同时宣告单向管道终结，提出四大支柱与 2028 财年研发预算优先序。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 系统剖析布什《科学——无止境的边疆》所确立的三大制度性承诺，揭示 2025 年起美国科技政策实践启动对布什契约的退出、以及向技术能力导向型契约的深刻转型。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 系统反思并批判布什报告在战后制度化的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]，提出[[Discovery-Invention Cycle|发现-发明循环]]理论。

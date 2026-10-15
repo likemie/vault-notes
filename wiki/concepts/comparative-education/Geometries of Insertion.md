@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Geometries of Insertion
@@ -70,8 +70,8 @@ updated: 2026-10-15
 > [!contrast-table] 概念辨析：嵌入几何学与相关概念的对比 (基于 [[Argument_Cowen_2009_CE\|Cowen, 2009, p. 324]])
 > | 维度 | 嵌入几何学 (Geometries of Insertion) | [[Policy Borrowing\|政策借用]] (Policy Borrowing) | 经典情境描述 (Context-Description) |
 > | :--- | :--- | :--- | :--- |
-> | **性质定位** | 属于科学研究层面的**分析理论与伦理拷问**。 | 属于国家政策制定层面的**[[Praxis\|实践]]决策**。 | 属于学科历史沿革层面的**描述惯例**。 |
-> | **对情境的态度** | 将情境**[[Variable\|变量]]化、理论化与可[[Operationalization\|操作化]]**。 | 将情境视为需要克服或绕过的**移植障碍**。 | 将情境视为详尽描摹但难以提炼理论的**特殊细节**。 |
+> | **性质定位** | 属于科学研究层面的**分析理论与伦理拷问**。 | 属于国家政策制定层面的 **[[Praxis\|实践]]决策**。 | 属于学科历史沿革层面的**描述惯例**。 |
+> | **对情境的态度** | 将情境 **[[Variable\|变量]]化、理论化与可[[Operationalization\|操作化]]**。 | 将情境视为需要克服或绕过的**移植障碍**。 | 将情境视为详尽描摹但难以提炼理论的**特殊细节**。 |
 > | **核心追问** | 完美移植的可能性及其政治、伦理、长时段后果。 | 外来政策在本土的应用成败与即时效率。 | 特定国家教育的独特历史文化底蕴与外在因素。 |
 
 > [!boundary]- 概念边界：嵌入几何学与 3T 及[[Shape-Shifting\|形变]]的关系
@@ -115,4 +115,4 @@ updated: 2026-10-15
 > [!evidence-grid] 嵌入几何学的理论研究与实证拓展
 > - **[[Argument_Cowen_2009_CE\|Cowen (2009)]]** 提出嵌入几何学作为比较教育的伦理命题，拷问情境被降服为[[Variable\|变量]]后的[[Social Cloning\|社会克隆]]代价，奠定了[[Shape-Shifting\|形变]]与 3T 分析的批判性基调。
 > - **[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]]** 通过[[John Dewey\|杜威]]思想在中国九十年的四次[[Recontextualization\|再脉络化]]，揭示了接受国如何通过本土[[Educational Immunology\|免疫反应]]与过滤机制，在不同历史时期对强行嵌入的教育几何实施抗性改写与意识形态形变。
-> - **[[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]]** 以民国新学制改革为案例，展示了外来民主几何如何在转译中折中，并在宏观政局动荡与战争等硬性物质力量的压缩下，走向局部妥协直至最终灭绝的历史进程。
+> - **[[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]]** 以民国新学制改革为案例，展示了外来民主几何如何在转译中折中，并在宏观政局动荡与战争等硬性物质力量的压缩下，走向局部妥协直至最终灭绝的历史进程。

@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Dynamic Sustainability Framework
@@ -67,7 +67,7 @@ updated: 2026-10-15
 > - **解释对象** 循证干预措施在现实学校或社会组织落地后，为何随时间推移常遭遇成效衰退、形骸化或被彻底废弃，以及如何通过自适应调适维持长效机制。
 > - **理论问题** 颠覆传统实施科学将可持续性视为“静态方案维持度”的机械忠实度[[Paradigm\|范式]]，回应干预方案与复杂动态情境脱节的理论困境。
 > - **理论类型** 中层实施科学理论、自适应组织变革模型与动态系统[[Analytic Framework\|分析框架]]。
-> - **知识位置** 源自实施科学、系统论与健康服务研究；由戴维·钱伯斯（David A. Chambers）、拉塞尔·格拉斯哥（Russell E. Glasgow）与库尔特·斯坦格（Kurt C. Stange）于 2013 年在《Implementation Science》发表奠基论文，并由 Chambers & Norton（2016）进一步发展；后被 [[Mark Rickinson]] 等学者引入教育证据高质量使用研究，构成 [[Quality Use of Research Evidence Framework\|QURE]] 框架中“适切调适（Appropriate Adaptation）”的核心理论支柱。
+> - **知识位置** 源自实施科学、系统论与健康服务研究；由戴维·钱伯斯（David A. Chambers）、拉塞尔·格拉斯哥（Russell E. Glasgow）与库尔特·斯坦格（Kurt C. Stange）于 2013 年在《Implementation Science》发表奠基论文，并由 Chambers and Norton（2016）进一步发展；后被 [[Mark Rickinson]] 等学者引入教育证据高质量使用研究，构成 [[Quality Use of Research Evidence Framework\|QURE]] 框架中“适切调适（Appropriate Adaptation）”的核心理论支柱。
 
 > [!claim] 核心主张
 > 干预措施的可持续性不是被动维持初始实验方案的静态忠实度，而是干预措施、实践现场与更广泛宏观生态系统之间通过持续学习、[[Reflexivity\|反思性]][[Problem Solving\|问题解决]]与适切调适而达成“动态拟合”（Dynamic Fit）的演进过程。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 140, 143–144)]]

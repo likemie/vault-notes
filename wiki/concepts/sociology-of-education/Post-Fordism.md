@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Post-Fordism
@@ -141,7 +141,7 @@ updated: 2026-10-15
 > [!contrast-table] 后福特制相关核心命题归纳
 > | 命题维度 | 核心理论断言 | 适用[[Champ\|场域]] | 代表学者 |
 > |---|---|---|---|
-> | **经济与劳动力维度** | 跨国弹性积累打破终身雇佣，迫使教育转向模块化技能与脆弱化劳动力供给 | 全球化产业链分工与职业教育变革 | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009)]]; Brown & Lauder (1996) |
+> | **经济与劳动力维度** | 跨国弹性积累打破终身雇佣，迫使教育转向模块化技能与脆弱化劳动力供给 | 全球化产业链分工与职业教育变革 | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009)]]; Brown and Lauder (1996) |
 > | **文化与课程维度** | 课程细分与标准化能力指标将技术官僚控制深度植入日常教学与评估 | 基础教育与高等教育课程改革 | Apple (1982); Ball (1993) |
 > | **制度与治理维度** | 削减公共福利开支与推行使用者付费，使市场逻辑全面替代福利国家供给契约 | 发展中国家[[Structural Adjustment Programs\|结构调整]]与西方福利收缩 | Samoff (1992); Torres (2007) |
 

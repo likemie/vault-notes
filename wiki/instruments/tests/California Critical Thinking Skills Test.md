@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # California Critical Thinking Skills Test
@@ -110,5 +110,5 @@ updated: 2026-10-15
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
 > | Form A / Form B | 英语（美国） | 大学生与成人 | 34 题 | 原始经典版本，建立等值平行卷以支持前[[Pre-test and Post-test\|后测]]实验设计 | Facione (1990, 1992) |
-> | Form 2000 | 英语（全球） | 本科生及研究生 | 34 题 | 更新情境题干材料，强化归纳/演绎子量表与定量推理（Numeracy）跨学科适配 | Facione & Facione (2000) |
+> | Form 2000 | 英语（全球） | 本科生及研究生 | 34 题 | 更新情境题干材料，强化归纳/演绎子量表与定量推理（Numeracy）跨学科适配 | Facione and Facione (2000) |
 > | 中文修订版 | 中文（中国） | 中国高校大学生 | 34 题 | 跨文化语言调试与本土高校常模标定 | 罗清旭等 (2001) |

@@ -215,7 +215,7 @@ updated: 2026-10-16
 > | **适用范围** | 标准化项目推广、系统清算、政策合规评估 | 教师日常教学改进、学校探究网络、课堂设计 | 教育目的论证、课程大纲与政治抉择 | 具备生理机制一致性的病患护理与药物开发 | 复杂的课堂交互、偶发性教育情境的应对 |
 
 > [!info] 邻近概念辨析
-> - **vs [[Evidence-Informed Practice]]** — 这是与 EBE 最紧密的邻近概念。EBE 将研究证据作为实践决策的核心依据；EIP 将证据定位为多种因素之一，由 [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] 系统阐述。
+> - **vs [[Evidence-Informed Practice]]** — 这是与 EBE 最紧密的邻近概念。EBE 将研究证据作为实践决策的核心依据；EIP 将证据定位为多种因素之一，由 [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] 系统阐述。
 > - **vs 循证医学（Evidence-Based Medicine, EBM）** — 循证医学是 EBE 的直接起源与最强类比。但 [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] 指出，真实的循证医学高度强调个性化伦理关怀、专家临床经验和病患意愿，而教育学 EBE 常将医学简化为单一的药效 RCT 实验，抹杀了专业判断力。此外，医学 RCT 建立在丰富的因果机制理论之上，教育 RCT 往往是跳过机制的“黑箱测量”。德国教育学界在分析[[Knowledge Transfer|知识转移]]时进一步提出[[Ontology|本体论]]依据，批判将循证医学研究成果机械套用于教育领域是极不合理的（unplausibel）：医学研究对象（人体生理机制）通常具备较高的[[External Validity|可推广性]]（Generalisierbarkeit），而教育科学面对的是高度特殊、情境化且复杂的具体研究对象——教育实践（Bildungspraxis），这种复杂的本体论特征从根本上阻碍了简单的医学式类比与标准化推论。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 11)]]
 > - **vs [[Local Knowledge in Evidence-Based Policy]]** — 本地知识是 EBE 实施中被忽视但不可或缺的互补性[[Source of Knowledge\|知识来源]]。
 > - **vs [[Side Effects]]** — [[Argument_Zhao_2017_JEC\|Zhao (2017)]] 论证 EBE 从医学借鉴了 RCT 却忽略了对副作用的系统性研究，效果与副作用是同一干预不可分离的双重结果。
@@ -243,12 +243,12 @@ updated: 2026-10-16
 2. **最可靠的证据产生于[[Experimental Research|实验研究]]，特别是随机对照试验（RCT）**
 
    > [!info] 医学类比与外推失败
-   > [[Argument_Slavin_2002_ER\|Slavin (2002)]] 以医学类比论证——随机[[Clinical Trial\|临床试验]]比任何单一医学突破更彻底地改变了医学（Doll, 1998）。但 [[Argument_Biesta_2010_SPE\|Biesta (2010, pp. 496–497)]] 指出教育的[[Ontology\|本体论]]特征与物理化学实验有根本不同。Cartwright & Munro (2010, p. 265) 从[[Causality\|因果推断]]角度补充：RCT 本身不足以满足政策或实践决策者的需求。[[Argument_Wiliam_2019_ERE\|Wiliam (2019, p. 6)]] 以 Tennessee STAR 项目的实证案例进一步论证：即使是最受推崇的教育 RCT（被 Mosteller 称为有史以来最重要的教育调查之一），其向其他情境的外推也在三个层面失败：(1) 参与学校不具代表性；(2) [[Random Assignment\|随机分配]]被破坏；(3) 大规模推广时教师质量成为关键混淆因素。
+   > [[Argument_Slavin_2002_ER\|Slavin (2002)]] 以医学类比论证——随机[[Clinical Trial\|临床试验]]比任何单一医学突破更彻底地改变了医学（Doll, 1998）。但 [[Argument_Biesta_2010_SPE\|Biesta (2010, pp. 496–497)]] 指出教育的[[Ontology\|本体论]]特征与物理化学实验有根本不同。Cartwright and Munro (2010, p. 265) 从[[Causality\|因果推断]]角度补充：RCT 本身不足以满足政策或实践决策者的需求。[[Argument_Wiliam_2019_ERE\|Wiliam (2019, p. 6)]] 以 Tennessee STAR 项目的实证案例进一步论证：即使是最受推崇的教育 RCT（被 Mosteller 称为有史以来最重要的教育调查之一），其向其他情境的外推也在三个层面失败：(1) 参与学校不具代表性；(2) [[Random Assignment\|随机分配]]被破坏；(3) 大规模推广时教师质量成为关键混淆因素。
 
 3. **教育应模拟"医学模式"——通过研究确定有效干预，然后推广至课堂**
 
    > [!info] 研发结构与因果缺位
-   > i3 的分层拨款结构直接模拟了医学的药物开发流程。但 [[Argument_Cowen_2015_CHESS\|Cowen et al. (2015, pp. 40–41)]] 的教师访谈揭示：实践中几乎没有学校"开箱即用"地应用证据本位方案。[[Argument_Wrigley_2019_ERE\|Wrigley & McCusker (2019)]] 指出医学 RCT 的关键区分：医学 RCT 建立在大量先期因果机制理论工作之上，而教育 RCT 通常被期望提供"治疗"的全部科学知识基础（Hammersley, 2015）。
+   > i3 的分层拨款结构直接模拟了医学的药物开发流程。但 [[Argument_Cowen_2015_CHESS\|Cowen et al. (2015, pp. 40–41)]] 的教师访谈揭示：实践中几乎没有学校"开箱即用"地应用证据本位方案。[[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019)]] 指出医学 RCT 的关键区分：医学 RCT 建立在大量先期因果机制理论工作之上，而教育 RCT 通常被期望提供"治疗"的全部科学知识基础（Hammersley, 2015）。
 
 4. **区分"基于科学原则研究"与"针对具体项目进行过严格实验评估"**
 
@@ -274,7 +274,7 @@ updated: 2026-10-16
 > |---|---|---|
 > | **休谟因果观** 因果关系等于观察到的经验恒常规则性（若 X 则 Y） | 存在论（Ontology） | [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] 借助[[Critical Realism\|批判实在论]]指出，教育是"开放系统"而非实验室封闭系统，因果取决于事物本质与环境交互，均值无法反映真实的因果机制 |
 > | **机械干预假设** 干预措施如同药物注射，其效果与受试者的能动反思无关 | 实践论（Praxiology） | [[Argument_Biesta_2010_SPE\|Biesta (2010)]] 与 Pawson (2006) 论证，教育项目提供的是资源，其起作用的关键在于受试者的"推理（Reasoning）"与主动能动性 |
-> | **科学应用假设** 研究证据从"在某处有效"到"在这里有效"是线性的 | [[Epistemology\|认识论]]（Epistemology） | Cartwright & Hardie (2012) 提出[[Cartwright's Three-Stage Knowledge Framework\|三阶段知识框架]]，指出外推需要"支撑因素"和"本地情境规则"的配合，而非直接套用 |
+> | **科学应用假设** 研究证据从"在某处有效"到"在这里有效"是线性的 | [[Epistemology\|认识论]]（Epistemology） | Cartwright and Hardie (2012) 提出[[Cartwright's Three-Stage Knowledge Framework\|三阶段知识框架]]，指出外推需要"支撑因素"和"本地情境规则"的配合，而非直接套用 |
 > | **线性知识供给假设** 假定只要将学术成果转译为通俗简评，实践者便会自发阅读、重塑信念并改善微观教学 | 转移论（Transfer Theory） | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] 批判清算机构暗含三层未经检验的因果作用假设（加工即理解、知晓即改变信念、认同即改善教学），忽视了学校组织文化与教师吸收能力对知识的折射与阻滞 |
 
 > [!warning] 教师质量作为 RCT 的结构性混淆因素
@@ -293,14 +293,14 @@ updated: 2026-10-16
 >
 > **创造改进，引导更有效的学习** EBE 的目标不仅是淘汰无效方案，更是通过证据积累不断改进教学实践的质量。
 
-Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定者在制定政策时经常回避证据，实践者在日常忙碌中依赖[[Tacit Knowledge|默会知识]]而非来自 RCT 的知识。她进一步主张证据应检验[[Effect Size|效应量]]而非[[Statistical Significance|统计显著性]]——这一主张直接推动了效应量在[[Meta-analysis|元分析]]中的核心地位，也构成了 EBE 方法论讨论的关键转折（pp.339–340）。
+Fitz-Gibbon 同时指出，Anderson and Biddle（1991）已观察到政策制定者在制定政策时经常回避证据，实践者在日常忙碌中依赖[[Tacit Knowledge|默会知识]]而非来自 RCT 的知识。她进一步主张证据应检验[[Effect Size|效应量]]而非[[Statistical Significance|统计显著性]]——这一主张直接推动了效应量在[[Meta-analysis|元分析]]中的核心地位，也构成了 EBE 方法论讨论的关键转折（pp.339–340）。
 
 ---
 #### 强版本 vs. 弱版本
 
 > [!tension] 证据本位（evidence-based）vs. 证据知情（evidence-informed）
 > - **强版本：以 RCT 证据为核心依据** 专业人士只应被允许做有正面研究证据支持的事，RCT 证据作为实践决策的核心或唯一依据。
-> - **弱版本：证据作为信息之一** 证据与[[Professional Judgment\|专业判断]]、情境理解并列，教育者运用专业判断来整合证据，而非被证据驱动。[[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] 明确站在 [[Evidence-Informed Practice\|EIP]] 一侧；[[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] 将"教师是技术人员还是专业人员"定位为可检验的实证问题。
+> - **弱版本：证据作为信息之一** 证据与[[Professional Judgment\|专业判断]]、情境理解并列，教育者运用专业判断来整合证据，而非被证据驱动。[[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] 明确站在 [[Evidence-Informed Practice\|EIP]] 一侧；[[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] 将"教师是技术人员还是专业人员"定位为可检验的实证问题。
 
 ---
 
@@ -336,7 +336,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 #### 实践转化的前提条件与评估框架
 
 > [!pathways] 证据知情实践的动员策略
-> [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] 提出"肥沃土壤"隐喻（研究证据生根需要教育者准备度、评估技能、组织中介和实践—研究整合意识四大前提）和[[Knowledge Mobilisation\|知识动员]]四策略（传播、能力建设、伙伴关系、系统化支持）。
+> [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] 提出"肥沃土壤"隐喻（研究证据生根需要教育者准备度、评估技能、组织中介和实践—研究整合意识四大前提）和[[Knowledge Mobilisation\|知识动员]]四策略（传播、能力建设、伙伴关系、系统化支持）。
 >
 > [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] 补充了实践者的四个决策评估维度——问题匹配度、改进幅度、成本效益和本地适用性——以及 [[Argument_Blass_2020_JESP\|Blass (2020)]] 的五要素框架（方法论、情境、假设、领导力、时效性），构成 EBE 证据向实践转化的完整评估链。
 
@@ -417,7 +417,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > Biesta、Wiliam、Wrigley、Cowen 等从哲学、方法论、制度和[[Epistemology\|认识论]]多维系统解构 EBE，推动范式整合走向"证据知情"。
 
 > [!timeline] 关键事件
-> - **2004–2010** — 批判性文献兴起：Hammersley (2005)、Holmes et al. (2006)、Smeyers & Depaepe (2006)
+> - **2004–2010** — 批判性文献兴起：Hammersley (2005)、Holmes et al. (2006)、Smeyers and Depaepe (2006)
 > - **2007** — Biesta 在 *Educational Theory* 发表 "Why 'what works' Won't Work"，提出"民主缺陷"概念
 > - **2010** — Biesta 正式提出**三重缺陷**的完整框架（知识缺陷、效力缺陷、应用缺陷）（详见 [[Argument_Biesta_2010_SPE\|Biesta, 2010]]）
 > - **2015** — Cowen & Cartwright 发表 CHESS 工作论文，通过教师访谈实证研究 EBP 的实施困境（详见 [[Argument_Cowen_2015_CHESS\|Cowen et al., 2015]]）
@@ -499,7 +499,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > - [[Selective Schools Expansion Fund]] — EBE 在议会政策制定中被系统性回避的案例
 > - **Fresh Start 拼读干预** [[Random Assignment\|随机化]]严重失衡导致虚假有效性（[[Effect Size\|效应量]] $+0.00SD$）（[[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 5]]）
 > - **课堂[[Teaching Assistant\|教学助理]]结构性不当** EEF Toolkit 的扁平排行掩盖了 TA 被系统性误用的情境（[[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 12]]）
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 英国 EEF 十年循证教育改革复盘：大规模学校现场 [[Randomised Controlled Trials\|RCT]] 动员、独立评估防火墙、[[Implementation and Process Evaluation\|过程评估]]与[[Realist Evaluation\|现实主义试验]]转型
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 英国 EEF 十年循证教育改革复盘：大规模学校现场 [[Randomised Controlled Trials\|RCT]] 动员、独立评估防火墙、[[Implementation and Process Evaluation\|过程评估]]与[[Realist Evaluation\|现实主义试验]]转型
 
 ### 美国
 

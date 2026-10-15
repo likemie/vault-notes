@@ -32,13 +32,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 定义
 
 > [!info] 定义
-> Justified warrants（正当化担保）是 Malone & Hogan（2020）基于 Dewey [[Theory of Knowledge\|知识论]]发展的概念，主张研究应提供经得起批评的、附有保留条件的担保性断言（warranted assertions），而非确定性的"证明"。与追求可复制性和确定性的线性证据观不同，该概念将研究证据视为开放的、可修正的可能性陈述。
+> Justified warrants（正当化担保）是 Malone and Hogan（2020）基于 Dewey [[Theory of Knowledge\|知识论]]发展的概念，主张研究应提供经得起批评的、附有保留条件的担保性断言（warranted assertions），而非确定性的"证明"。与追求可复制性和确定性的线性证据观不同，该概念将研究证据视为开放的、可修正的可能性陈述。
 >
 > > "Research guided by expectations of providing warranted assertions, as opposed to certainty, would be more provisional, open to criticism, while also being open to surprise and unexpected nuance"([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.6–7]])
 >
@@ -63,7 +63,7 @@ updated: 2026-10-15
 ## 理论基础
 
 > [!info] 理论基础
-> - Dewey 的交易[[Epistemology\|认识论]]（[[Transactional Epistemology]]）——实验产生的知识是关于过去行动与后果关系的记录，提供可能性而非确定性。Malone & Hogan（2020）对此进行了详细的认识论和[[Ontology\|本体论]]阐述([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.6]])
+> - Dewey 的交易[[Epistemology\|认识论]]（[[Transactional Epistemology]]）——实验产生的知识是关于过去行动与后果关系的记录，提供可能性而非确定性。Malone and Hogan（2020）对此进行了详细的认识论和[[Ontology\|本体论]]阐述([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.6]])
 >
 
 ## 实证发现

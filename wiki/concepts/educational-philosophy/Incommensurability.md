@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Incommensurability
@@ -253,5 +253,5 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 详尽解构库恩[[Paradigm\|范式]]理论中的不可[[Commensuration\|通约]]性机制，剖析其如何引爆[[Paradigm Wars\|范式战争]]并触发[[Mixed Methods Research\|混合方法]]运动。
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 在量化、质性与混合方法的三元框架中阐释哲学世界观的不可通约性与[[Pragmatic Paradigm\|实用主义]]调和策略。
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 在量化、质性与混合方法的三元框架中阐释哲学世界观的不可通约性与[[Pragmatic Paradigm\|实用主义]]调和策略。
 > - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 通过历时文献计量揭示教育研究在走出绝对实证垄断后质性与多范式并存的发展态势。

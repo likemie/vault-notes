@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # UTeach Observation Protocol
@@ -65,7 +65,7 @@ updated: 2026-10-15
 
 > [!instrument-profile] UTeach [[Observation Protocol]] (UTOP)
 > - **工具类型** [[STEM Education|STEM]] 学科探究式课堂外部[[Classroom Observation|教学观察]]规程（observation-tool）。
-> - **开发者与年份** Marder & Walkington (2010)（由德克萨斯大学奥斯汀分校 UTeach 研究团队研制）。
+> - **开发者与年份** Marder and Walkington (2010)（由德克萨斯大学奥斯汀分校 UTeach 研究团队研制）。
 > - **测量目的** 专门评估 K-12 阶段科学、技术、工程与数学（STEM）课堂教学实践，测量教师在引导以学生为中心的[[Inquiry-Based Learning|探究学习]]、促进概念建构与维持高认知要求上的有效性。
 > - **实施方式** 观察员在课堂现场进行全课时连续观察，并在课后针对 26 项具体行为指标评定 1–5 分，最后给出 1–7 分的课时全局质量评价。
 
@@ -129,7 +129,7 @@ UTOP 将探究性 [[STEM Education|STEM]] 课堂表现解构为四大核心板�
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | UTOP 1.0 / 2.0 | 英语（美国） | 中小学数学与科学职前/在职教师 | 4 板块 26 指标 | 确立探究性 [[STEM Education\|STEM]] 教学评价量规基线 | Marder & Walkington (2010) |
+> | UTOP 1.0 / 2.0 | 英语（美国） | 中小学数学与科学职前/在职教师 | 4 板块 26 指标 | 确立探究性 [[STEM Education\|STEM]] 教学评价量规基线 | Marder and Walkington (2010) |
 > | UTOP College 版 | 英语 | 大学本科 STEM 基础课程教师 | 4 板块 24 指标 | 适配高等教育大班授课与[[Active Learning\|主动学习]]场景 | Walkington et al. (2014) |
 
 ---

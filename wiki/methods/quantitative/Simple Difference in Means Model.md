@@ -77,7 +77,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 方法定义
-> **简单均值差异模型（Simple Difference in Means Model）**是[[Randomised Controlled Trials\|随机对照试验]]（RCT）与两组比较实验中最直观、最基础的[[Counterfactual\|反事实]]因果估计模型。在完全[[Random Assignment\|随机分配]]的前提下，该模型直接以处理组（Treatment Group）[[Pre-test and Post-test\|后测]]结果的样本均值减去对照组（Control Group）后测结果的样本均值，作为干预对[[Study Population and Sample\|目标总体]]的平均处理效应（Average Treatment Effect, [[Advanced Technological Education|ATE]]）的无偏点估计。模型不纳入任何基线协[[Variable\|变量]]（如学生前测成绩或家庭背景特征），完全依赖随机化机制在期望上抹平两组基线差异。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]
+> **简单均值差异模型（Simple Difference in Means Model）** 是[[Randomised Controlled Trials\|随机对照试验]]（RCT）与两组比较实验中最直观、最基础的[[Counterfactual\|反事实]]因果估计模型。在完全[[Random Assignment\|随机分配]]的前提下，该模型直接以处理组（Treatment Group）[[Pre-test and Post-test\|后测]]结果的样本均值减去对照组（Control Group）后测结果的样本均值，作为干预对[[Study Population and Sample\|目标总体]]的平均处理效应（Average Treatment Effect, [[Advanced Technological Education|ATE]]）的无偏点估计。模型不纳入任何基线协[[Variable\|变量]]（如学生前测成绩或家庭背景特征），完全依赖随机化机制在期望上抹平两组基线差异。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 经过随机分配的处理组与对照组在干预实施后的单一截面后测产出指标。
@@ -241,4 +241,4 @@ updated: 2026-10-16
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 综述了齐·肖（ZhiMin Xiao）等杜伦大学学者利用英格兰[[National Pupil Database\|国家学生数据库]]（NPD）对 17 项早期完成的 [[Education Endowment Foundation\|EEF]] 试验开展的四模型并行复算，揭示出简单均值差异模型相比[[Covariate Adjustment\|协变量调整]]模型和多层模型存在严重的功效损失与效应漂移，促成了英国国家级试验统计分析标准的建立。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 综述了齐·肖（ZhiMin Xiao）等杜伦大学学者利用英格兰[[National Pupil Database\|国家学生数据库]]（NPD）对 17 项早期完成的 [[Education Endowment Foundation\|EEF]] 试验开展的四模型并行复算，揭示出简单均值差异模型相比[[Covariate Adjustment\|协变量调整]]模型和多层模型存在严重的功效损失与效应漂移，促成了英国国家级试验统计分析标准的建立。

@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Albany NanoTech Complex
@@ -60,7 +60,7 @@ updated: 2026-10-15
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **奥尔巴尼纳米技术综合体（Albany NanoTech Complex，由 NY [[CREATES Project|CREATES]] 统筹运营）**是全美乃至全球规模最大、技术最先进的大学主导型半导体与纳米科技公私协同研发与中试制造综合体。作为北美唯一拥有 300 毫米晶圆先进制程完整研发中试线（[[Pilot Scale Platform|pilot line]]）的高校平台，它依托纽约州立大学理工学院（SUNY Poly）的学术研究力量，为全球芯片领军企业、中小创新公司及顶尖高校提供无缝衔接实验室研发与商业量产的中试验证环境。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 22)]]
+> **奥尔巴尼纳米技术综合体（Albany NanoTech Complex，由 NY [[CREATES Project|CREATES]] 统筹运营）** 是全美乃至全球规模最大、技术最先进的大学主导型半导体与纳米科技公私协同研发与中试制造综合体。作为北美唯一拥有 300 毫米晶圆先进制程完整研发中试线（[[Pilot Scale Platform|pilot line]]）的高校平台，它依托纽约州立大学理工学院（SUNY Poly）的学术研究力量，为全球芯片领军企业、中小创新公司及顶尖高校提供无缝衔接实验室研发与商业量产的中试验证环境。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 22)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 始建于 2001 年，由纽约州政府、纽约州立大学（SUNY）与 IBM 等产业巨头共同出资创立，旨在应对半导体芯片制程微缩导致的巨额资本壁垒，防止美国先进制造研发能力外流。

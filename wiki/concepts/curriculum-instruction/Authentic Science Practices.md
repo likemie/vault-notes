@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Authentic Science Practices
@@ -168,9 +168,9 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **命题一：认识论维度** | 真实探究必须直面不确定性与多重假说竞争 | 科学课程设计与实验教学改革 | Chinn & Malhotra (2002); Manz (2015) |
+> | **命题一：认识论维度** | 真实探究必须直面不确定性与多重假说竞争 | 科学课程设计与实验教学改革 | Chinn and Malhotra (2002); Manz (2015) |
 > | **命题二：主体能动维度** | 认识能动性是真实科学实践的本质标志 | 课堂社会组织与学生自主性培养 | Stroupe (2014); [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] |
-> | **命题三：多维整合维度** | 科学实践是话语、模型与社会评审的整体交织 | 建模教学与科学论辩课堂实践 | Ford & Forman (2006); Lehrer & Schauble (2006) |
+> | **命题三：多维整合维度** | 科学实践是话语、模型与社会评审的整体交织 | 建模教学与科学论辩课堂实践 | Ford and Forman (2006); Lehrer and Schauble (2006) |
 
 ---
 

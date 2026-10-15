@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Immanuel Kant
@@ -90,7 +90,7 @@ updated: 2026-10-15
 在启蒙现代性的知识图谱中，康德确立了理性自由与公共启蒙之间不可分割的共生关系：
 
 > [!citation-card] 人物定位的关键来源：启蒙即公开运用理性的自由
-> 康德指出，启蒙就是人从自我招致的未成熟状态中走出来。公众实现自我启蒙的可能性极高，只要赋予其自由——即在所有事务中公开运用自己理性的自由。在启蒙哲学中，教育学、政治学与国家建构自始至终紧密交织。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 20)]]；引自 Kant (1784)
+> 康德指出，启蒙就是人从自我招致的未成熟状态中走出来。公众实现自我启蒙的可能性极高，只要赋予其自由——即在所有事务中公开运用自己理性的自由。在启蒙哲学中，教育学、政治学与国家建构自始至终紧密交织。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 20)]]；引自 Kant (1784)
 >
 > *According to Kant, 'Enlightenment is man's [[Emergence]] from his self-incurred immaturity. There is more chance of an entire public enlightening itself ... if only the public concerned is left in freedom ... freedom to make public use of one's reason in all matters.' ... in the philosophy of the Enlightenment, education, pedagogy, 'politics' and 'nation-building' were closely related.*
 
@@ -106,7 +106,7 @@ updated: 2026-10-15
 > - **1755** 提交《自然通史与天体理论》，提出解释太阳系起源的“星云假说”；同年以《形而上学认识各首要原则的新解说》获得大学任教资格。
 > - **1770** 就任柯尼斯堡大学逻辑与形而上学讲座教授，发表就职论文《感性与知性世界的形式与原则》，开启长达十年的沉潜批判思考。
 > - **1781** 出版第一批判《纯粹理性批判》（*Kritik der reinen Vernunft*），宣告先验批判哲学的正式诞生，完成[[Epistemology\|认识论]]的哥白尼式转向。
-> - **1784** 发表里程碑启蒙论著《答复这个问题：“什么是启蒙？”》（*Beantwortung der Frage: Was ist Aufklärung?*），提出“Sapere aude!（敢于求知／勇于运用自己的理性！）”的时代口号。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 20)]]
+> - **1784** 发表里程碑启蒙论著《答复这个问题：“什么是启蒙？”》（*Beantwortung der Frage: Was ist Aufklärung?*），提出“Sapere aude!（敢于求知／勇于运用自己的理性！）”的时代口号。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 20)]]
 > - **1785–1788** 相继出版《道德形而上学奠基》（1785）与第二批判《[[Phronesis|实践理性]]批判》（1788），确立绝对命令与理性自律道德哲学。
 > - **1790** 出版第三批判《判断力批判》（*Kritik der Urteilskraft*），沟通自然必然性与道德自由，批判哲学体系正式合龙。
 > - **1795** 针对欧洲热月政变后的国际战争局势发表《论[[Perpetual Peace\|永久和平]]》（*Zum ewigen Frieden*），构想主权共和国联盟与世界公民款待权法权框架。
@@ -130,7 +130,7 @@ updated: 2026-10-15
 >   - **阶段转向** 成功在纯粹理性经验边界（现象界）与实践理性道德要求（本体界）之间建立起严格划分，将人类心智确立为能动立法的主体。
 > - **1784–1803 — 历史哲学、政治[[Cosmopolitanism|世界主义]]与教育实践应用时期** 将批判哲学的理性自律原则外推至人类历史进程、国际政治秩序与代际教育培养之中。
 >   - **代表著作** 《答复这个问题：“什么是启蒙？”》（1784）、《世界公民观点下的普遍历史观念》（1784）、《论[[Perpetual Peace\|永久和平]]》（1795）、《论教育学》（1803）。
->   - **关键概念／方法** 启蒙（*[[Enlightenment\|Aufklärung]]*）、公共理性运用、世界公民状态（*Weltbürgertum*）、[[Perpetual Peace\|永久和平]]（*Zum ewigen Frieden*）、自然非社会的社会性、教育四阶段（照料、[[Disciplina and Doctrina\|规训]]、教化、道德化）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 20)]]；[[Argument_Klerides_2023_CE\|Klerides (2023, p. 418)]]
+>   - **关键概念／方法** 启蒙（*[[Enlightenment\|Aufklärung]]*）、公共理性运用、世界公民状态（*Weltbürgertum*）、[[Perpetual Peace\|永久和平]]（*Zum ewigen Frieden*）、自然非社会的社会性、教育四阶段（照料、[[Disciplina and Doctrina\|规训]]、教化、道德化）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 20)]]；[[Argument_Klerides_2023_CE\|Klerides (2023, p. 418)]]
 >   - **阶段转向** 明确提出历史的发展指向全人类由野蛮冲突走向世界主义法权与永久和平，而教育构成了实现这一历史目的的唯一本体通道。
 
 ---
@@ -161,13 +161,13 @@ updated: 2026-10-15
 > [!influence-path] 影响路径
 > - **认识论与学习科学路径** 康德的“哥白尼式革命”彻底击碎了心灵被动接受印记的白板说，提出心智先天地配备加工经验框架的主动建构观；[[Jin Li\|李瑾]]（[[Argument_Li_2012_Cambridge\|Li, 2012]]）指出康德在西方 2500 年认识论之争中提供了融通[[Empiricism\|经验论]]与唯理论的典范，其范畴加工模型（“佩戴玫瑰色眼镜看世界”）构成了现代[[Cognitive Constructivism\|认知建构主义]]与儿童概念认知科学的重要思想先声。[[Argument_Li_2012_Cambridge\|Li (2012, pp. 25–26, 30)]]
 > - **国际关系英国学派与[[Revolutionism\|革命主义]]传统** 马丁·怀特（Martin Wight, 1992）在国际理论三大传统中将康德确立为“革命主义（Revolutionism）”传统的始祖，与马基雅维利的现实主义、格老秀斯的理性主义并立；康德主张国际关系的终极实体不是主权国家而是普遍的人类共同体（Universal Human Community），倡导消除苦难、追求世界大同与[[Perpetual Peace\|永久和平]]的道德激情。[[Argument_Klerides_2023_CE\|Klerides (2023, p. 418)]]
-> - **比较教育学发端期的启蒙精神纽带** 卡洛扬纳基与卡扎米亚斯（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009]]）考证，康德在 1784 年论著中阐明的“启蒙即勇敢运用理性、走出未成熟状态”的自主性命题，对学科始祖朱利安（[[Marc-Antoine Jullien]]）产生了划时代的思想启蒙；促使朱利安从大革命雅各宾恐怖统治与拿破仑帝国战争的幻灭中抽离，将教育升华为预防政治暴力循环、促进世界和平与全人教化的理性替代方案。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 20, 22–24)]]
+> - **比较教育学发端期的启蒙精神纽带** 卡洛扬纳基与卡扎米亚斯（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009]]）考证，康德在 1784 年论著中阐明的“启蒙即勇敢运用理性、走出未成熟状态”的自主性命题，对学科始祖朱利安（[[Marc-Antoine Jullien]]）产生了划时代的思想启蒙；促使朱利安从大革命雅各宾恐怖统治与拿破仑帝国战争的幻灭中抽离，将教育升华为预防政治暴力循环、促进世界和平与全人教化的理性替代方案。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 20, 22–24)]]
 > - **[[Critical Thinking\|批判性思维]]与现代教育哲学** 康德的“Sapere aude!”与定言律令将受教育者从被动服从权威教条中解放出来，奠定了现代[[Critical Thinking\|批判性思维]]、道德自律与民主公民教育的法哲学基座。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 在西方知识确定性传统与心智奇迹探索中，系统剖析康德范畴论对调和唯理论与经验论、确立人类心智主动加工结构的奠基性贡献。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 阐释怀特国际理论框架中的康德革命主义传统，揭示其[[Cosmopolitanism|世界主义]]道德激情如何深刻塑造了 20 世纪批判、[[Dependency Theory\|依附论]]与后殖民比较教育研究。
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 考证康德[[Enlightenment\|启蒙哲学]]如何与[[Jean-Jacques Rousseau\|卢梭]]自由思想汇聚，直接催生了朱利安比较教育准科学实证设想背后的世界主义人道主义母题与永久和平蓝图。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 考证康德[[Enlightenment\|启蒙哲学]]如何与[[Jean-Jacques Rousseau\|卢梭]]自由思想汇聚，直接催生了朱利安比较教育准科学实证设想背后的世界主义人道主义母题与永久和平蓝图。
 
 ---
 
@@ -180,7 +180,7 @@ updated: 2026-10-15
 > - **道德与自然主义共鸣者** 让-雅克·[[Jean-Jacques Rousseau\|卢梭]]（Jean-Jacques Rousseau） — 康德自承卢梭纠正了其智力精英傲慢，教会其尊重普通人的道德尊严；卢梭的公意与自由观直接启发了康德的意志自律学说。
 > - **唯理与[[Empiricism\|经验论]]对话者** [[Plato\|柏拉图]]、[[René Descartes\|笛卡尔]]、[[George Berkeley\|贝克莱]]、洛克 — 康德综合了笛卡尔先验理性与洛克经验归纳，在西方哲学长河中确立了批判综合[[Paradigm\|范式]]。[[Argument_Li_2012_Cambridge\|Li (2012, pp. 25, 30)]]
 > - **辩证法继承与批判者** [[Georg Wilhelm Friedrich Hegel\|黑格尔]]（Hegel） — 黑格尔继承康德的主体性原则，但批判康德将物自体与现象生硬割裂的“主观唯心论”，将其提升为主客观统一的历史唯心辩证法。
-> - **比较教育思想受惠者** [[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien） — 朱利安深受康德启蒙理性与[[Perpetual Peace\|永久和平]]思想触动，将比较教育观察表设计为消除民族偏狭、构建欧洲永久和平共同体的实践载体。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 20–22)]]
+> - **比较教育思想受惠者** [[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien） — 朱利安深受康德启蒙理性与[[Perpetual Peace\|永久和平]]思想触动，将比较教育观察表设计为消除民族偏狭、构建欧洲永久和平共同体的实践载体。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 20–22)]]
 
 ---
 

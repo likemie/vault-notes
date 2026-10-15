@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Semi-Automatic Ground Environment
@@ -186,6 +186,6 @@ updated: 2026-10-09
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 系统考据冷战时期国防需求侧采购对美国通用计算技术的重塑机制，深入分析 [[Sage]] 的研发、制造与 SABRE 外溢演化。
-> - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]] — 实证阐明 SAGE 项目如何为 IBM 注入大规模软件工程与实时系统架构能力，并促成民航订票系统商业化技术外溢。
+> - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 实证阐明 SAGE 项目如何为 IBM 注入大规模软件工程与实时系统架构能力，并促成民航订票系统商业化技术外溢。
 
 ---

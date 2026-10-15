@@ -97,7 +97,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Bildung
@@ -343,9 +343,9 @@ updated: 2026-10-15
 > - [[Argument_Mitter_2009_Europe\|Mitter (2009)]] — 阐释德国及中东欧比较教育如何以[[Allgemeine Pädagogik|普通教育学]]中的教化（Bildung）哲学为母体，通过[[Comparative Education as a Cross-Sectional Area|交叉领域]]建制连接历史与社会学。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理古典游记中的异域教化观察与实践艺术源流，考据比较教育学（*Vergleichende Pädagogik*）与比较教育科学（*Vergleichende Erziehungswissenschaft*）在德国的学科定位之争。
 > - [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] — 提出教化作为决定知识与技能如何使用的能力与勇气，对丹麦可见学习公立学校案例展开批判。
-> - [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff (2024)]] — 结合芬兰教育史与[[Phenomenon-Based Learning\|现象本位学习]]，论述教化在文化传递与[[Epochal Key Problems\|时代关键问题]]上的课程实践。
+> - [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024)]] — 结合芬兰教育史与[[Phenomenon-Based Learning\|现象本位学习]]，论述教化在文化传递与[[Epochal Key Problems\|时代关键问题]]上的课程实践。
 > - [[Argument_Cole_2005_JRIE\|Cole (2005)]] — 探讨[[Georg Wilhelm Friedrich Hegel\|黑格尔]]教化哲学在 [[IB Diploma Programme\|IB DP]] [[Theory of Knowledge\|知识论]]（TOK）课程中的主体性辩证应用与局限。
-> - [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge (2022)]] — 运用三维关系结构批判高等教育数字化治理中的算法控制与技能碎片化。
+> - [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz and Klinge (2022)]] — 运用三维关系结构批判高等教育数字化治理中的算法控制与技能碎片化。
 > - [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022)]] — 揭示在线自我评估与[[Learning Analytics\|学习分析]]如何压缩学生未来的[[Open-Mindedness|开放性]]，主张教化对未知的开放探索。
 > - [[Argument_Sarbiewska_2019_JSR\|Sarbiewska (2019)]] — 基于本纳相对独立性理论，论证教化行动必须独立于普通社会化[[Disciplina and Doctrina\|规训]]。
 

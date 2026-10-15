@@ -54,7 +54,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Teacher Professional Agency
@@ -126,7 +126,7 @@ updated: 2026-10-15
 > [!concept-lens] 职业认同与留任机制
 > 严苛的微观进度规制严重打击教师职业[[Pride in Learning|自豪]]感，而在宽框架下赋予教学决策权能显著降低离职率。
 
-> [!claim] Arthur & Bradley (2022) / Menzies et al. (2015)
+> [!claim] Arthur and Bradley (2022) / Menzies et al. (2015)
 > **赋权与留任正相关** 实证研究（Arthur & Bradley, 2022; Menzies et al., 2015）表明，在宽广课程框架下赋予科学[[Teacher Choices|教师选择]]教学法与设计探究的自主权，能够营造对师生双方均具高度激发性的课堂文化，是改善教师工作满意度并遏制紧缺师资流失的最有效非物质激励。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 36)]]
 
 ---
@@ -169,7 +169,7 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 治理维度 | 代表案例 / 来源 |
 > |:---|:---|:---|:---|
-> | **赋权与留任保障** | 自主权提升工作满意度，直接遏制师资流失 | 教师工作环境与专业信任 | Arthur & Bradley (2022); [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] |
+> | **赋权与留任保障** | 自主权提升工作满意度，直接遏制师资流失 | 教师工作环境与专业信任 | Arthur and Bradley (2022); [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] |
 > | **卓越与公平双赢** | 宏观宽大纲赋权教师因材施教，兼顾学业质量与阶层公平 | 课程治理与国际比较 | [[Estonian STEM Education Model\|爱沙尼亚 STEM 模式]]; The Royal Society |
 > | **制度信任与系统批判** | 制度性不信任压制能动性，研究使用赤字源于系统结构缺陷 | 跨层治理机制与专业自主 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]; Mausethagen et al. |
 > | **批判性民主行动拓展** | 能动性须拓展为地方合宪拒止、社会跨界结盟与伦理对质 | 政策博弈与公民政治行动 | [[Argument_Edmondson_2005_EPAA\|Edmondson (2005)]] |

@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Theoretical Perspective
@@ -239,7 +239,7 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 详述[[Quantitative Research|量化研究]]计划中理论视角章节的[[Research Writing Script|写作脚本]]、彩虹桥梁比喻及克鲁奇菲尔德经典案例。
+> - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 详述[[Quantitative Research|量化研究]]计划中理论视角章节的[[Research Writing Script|写作脚本]]、彩虹桥梁比喻及克鲁奇菲尔德经典案例。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 结合罗布森与菲利普斯的研究分层理论，实证计量 26 种理论视角的长程演进，确立理论视角作为上位方法论的[[Epistemology|认识论]]合法性。
 
 

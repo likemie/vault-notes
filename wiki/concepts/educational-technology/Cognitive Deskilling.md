@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Cognitive Deskilling
@@ -174,7 +174,7 @@ updated: 2026-10-15
 > |---|---|---|---|
 > | **认知挣扎剥夺命题** | 即时答案输出切断认知挣扎，导致内在智力机能萎缩 | 大语言模型辅助写作、[[Homework\|作业]]辅导与代码生成 | Sternberg (2024) |
 > | **提问[[Scaffolding\|脚手架]]重构命题** | 以追问替代给答案的交互逻辑逆转能有效阻断去技能化 | [[Intelligent Tutoring Systems\|智能导师系统]]开发、教育提示词工程设计 | [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] |
-> | **集体创意同质化命题** | AI 依赖在群体层面导致创意多样性系统性衰减 | 大规模写作辅助、全班 AI 协作创作情境 | Doshi & Hauser (2024) |
+> | **集体创意同质化命题** | AI 依赖在群体层面导致创意多样性系统性衰减 | 大规模写作辅助、全班 AI 协作创作情境 | Doshi and Hauser (2024) |
 > | **成长性不正义命题** | 核心工序外包剥夺[[Higher-Order Thinking Skills\|高阶思维]]实践，构成对求知者成长权的伦理侵害 | 生成式 AI 读写教学、私厨隐喻下的技术规范评估 | [[Argument_Smith_2026_SPE\|Smith (2026)]] |
 
 ---
@@ -212,4 +212,4 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 系统界定[[Generative Artificial Intelligence|生成式人工智能]]引发的认知去技能化与[[Creative Deskilling|创造力去技能化]]危机，提出基于 Q-Tutor 的提问训练教学法以实现对去技能化的有效防御。
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] — 提出私厨隐喻，揭示将构思、提纲与反思修改外包给 AI 导致的认知去技能化本质上构成了对求知者的[[Formative Epistemic Injustice|成长性认识不正义]]，并提出思维外显与[[Alien Intelligence|异己智能]]防御方案。
-> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 探讨公共行政与科技政策层面的组织去技能化现象，阐明[[Externalization|外部化]]外包对国家探索与评估能力的侵蚀。
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 探讨公共行政与科技政策层面的组织去技能化现象，阐明[[Externalization|外部化]]外包对国家探索与评估能力的侵蚀。

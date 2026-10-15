@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-19
-updated: 2026-09-22
+updated: 2026-10-16
 ---
 
 # Absolutist and Relativist Ethics in Research
@@ -44,7 +44,7 @@ updated: 2026-09-22
 > - **解释对象**[[Research Ethics\|研究伦理]]判断的根本依据——伦理行为的标准是普遍的还是情境依赖的。
 > - **理论问题** 回应伦理判断中的"谁来裁定、依据什么裁定"问题——当研究者面临具体伦理困境时，可以诉诸什么标准？
 > - **理论类型** 元伦理立场——它们不提供具体的行为规则，而是规定伦理规则本身的性质和来源。
-> - **知识位置** 这一对立贯穿道德哲学史，在研究伦理领域由 Zimbardo (1984)、Plummer (1983)、Edwards & Mauthner (2002) 和 Simons & Usher (2000) 等学者发展和应用。
+> - **知识位置** 这一对立贯穿道德哲学史，在研究伦理领域由 Zimbardo (1984)、Plummer (1983)、Edwards and Mauthner (2002) 和 Simons and Usher (2000) 等学者发展和应用。
 
 > [!claim] 核心主张
 > [[Absolutist\|绝对主义立场]]认为清晰、固定的伦理原则应指导研究者工作，决定什么应当做和什么不应当做，不允许情境特殊性证成对原则的偏离。[[Multiplist\|相对主义立场]]认为不可能有绝对指导方针——情境决定行为，伦理考量应从正在进行的特定研究的性质中产生（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 92–93]]）。

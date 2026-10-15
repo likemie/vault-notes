@@ -56,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 # Family Resemblance Approach
 
@@ -159,12 +159,12 @@ updated: 2026-10-07
 > > 部分学者认为 Lederman 的七要素共识清单虽有理论瑕疵，但在中小学师资培训与大样本[[Questionnaire\|问卷]]测量中极其简明高效；FRA 虽理论完备，但体系庞大，增加了教师的认知负荷。
 > >
 > > - **Lederman et al. (2002)** 主张共识清单最适合 K-12 阶段的基础启蒙与跨学段标准化评价。
-> > - **Irzik & Nola (2011)** 批评共识清单牺牲了学科真实性，导致[[Scientific Method\|科学方法]]教条化，FRA 提供了更具智识诚实性的蓝图。
+> > - **Irzik and Nola (2011)** 批评共识清单牺牲了学科真实性，导致[[Scientific Method\|科学方法]]教条化，FRA 提供了更具智识诚实性的蓝图。
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] — 运用家族相似性进路论证科学[[Epistemology\|认识论]]的学科[[Heterogeneity\|异质性]]，并系统解构[[Scientific Method\|科学方法]]五步法。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 运用家族相似性进路论证科学[[Epistemology\|认识论]]的学科[[Heterogeneity\|异质性]]，并系统解构[[Scientific Method\|科学方法]]五步法。
 > - [[Views of Nature of Science Questionnaire]] — 传统共识观[[Nature of Science\|科学本质]]评估工具，常被 FRA 研究者作为对比与批判的基准。

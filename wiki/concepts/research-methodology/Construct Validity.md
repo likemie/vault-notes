@@ -99,7 +99,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Construct Validity
@@ -111,7 +111,7 @@ updated: 2026-10-15
 > [!def] 核心定义
 > **[[Construct\|构念]]效度（Construct Validity）** 指实证研究中测量工具、实验操纵、质性分析范畴或制度评价体系在多大程度上真正表征并精确测量了理论所预设的抽象构念（Construct），以及所得实证证据能否充分支持研究者做出的理论解释与分类断言([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, pp. 176–177]]; [[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 4]])。
 >
-> 构念效度的判定不仅要求[[Operationalization\|操作化]]与理论定义相吻合，还要求通过**多质多法（[[Multitrait-Multimethod Matrix\|MTMM]]）**检验[[Convergent and Discriminant Validity\|收敛效度]]与判别效度，主动搜寻可能[[Falsification\|证伪]]当前解释的反例，并系统防范**构念不足呈现（Construct Underrepresentation）**与**构念无关方差（Construct-Irrelevant Variance）**([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, p. 225]])。
+> 构念效度的判定不仅要求[[Operationalization\|操作化]]与理论定义相吻合，还要求通过**多质多法（[[Multitrait-Multimethod Matrix\|MTMM]]）** 检验[[Convergent and Discriminant Validity\|收敛效度]]与判别效度，主动搜寻可能[[Falsification\|证伪]]当前解释的反例，并系统防范**构念不足呈现（Construct Underrepresentation）** 与**构念无关方差（Construct-Irrelevant Variance）**([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, p. 225]])。
 
 > [!concept-lens] 概念透镜
 > - **含义** 构念效度是连接抽象理论假说与经验观察事实的[[Epistemology\|认识论]]桥梁，检验“我们所测量的/所认证的究竟是不是我们声称的那个特质”。
@@ -196,7 +196,7 @@ updated: 2026-10-15
 > [!concept-lens] 证据组合与 [[Multitrait-Multimethod Matrix\|MTMM]] 原则
 > 单一统计相关或孤立验证无法确立构念效度，必须将多特质与多方法的交叉检验置于统一论证链中。
 
-> [!claim] Campbell & Fiske (1959); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]]
+> [!claim] Campbell and Fiske (1959); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]]
 > **收敛与区分构成效度双翼** 基于 Campbell & Fiske 的经典 MTMM 框架，不同独立方法测量同一构念时应形成高相关（[[Convergent and Discriminant Validity\|收敛效度]]），相似方法测量不同构念时应保持低相关（判别效度）。收敛证据证明操作化指向共同实体，判别证据则划定了构念的特异性边界。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 176–178)]]
 
 ---
@@ -236,8 +236,8 @@ updated: 2026-10-15
 > [!contrast-table] 构念效度核心命题总览
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
-> | **表述对应命题** | 操作化必须与理论核心含义精确相容，排查反例 | 量表开发、[[Variable\|变量]]定义、[[Manipulation Check\|操纵检查]] | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]]; [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] |
-> | **MTMM 验证命题** | 收敛效度与判别效度构成构念成立的经验基准 | 多方法测量、量表验证研究 | Campbell & Fiske (1959); Cohen 等人 |
+> | **表述对应命题** | 操作化必须与理论核心含义精确相容，排查反例 | 量表开发、[[Variable\|变量]]定义、[[Manipulation Check\|操纵检查]] | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]]; [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] |
+> | **MTMM 验证命题** | 收敛效度与判别效度构成构念成立的经验基准 | 多方法测量、量表验证研究 | Campbell and Fiske (1959); Cohen 等人 |
 > | **制度元评估命题** | 跨机构评级发散证明“循证”标签实践构念效度受限 | 循证清算中心、政策评级[[Meta-analysis\|元分析]] | [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]] |
 > | **课程表征命题** | 内部自洽对齐可能掩盖目标构念不足呈现 | 课程纲要审查、[[Higher-Order Thinking Skills\|高阶思维]]评估 | [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
 > | **跨国信度与效度牺牲命题** | 跨国量化测评为追求通约信度系统性牺牲情境构念效度与本体论 | 跨国大规模测评（PISA）、全球教育数字治理 | [[Fazal Rizvi\|Rizvi]] & [[Bob Lingard\|Lingard]] (2009) |
@@ -307,15 +307,15 @@ updated: 2026-10-15
 > | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 10 个清算中心审查的 1,359 个去重教育项目 | [[Multitrait-Multimethod Matrix\|MTMM]] 跨平台一致性检验 | 评级[[Convergent and Discriminant Validity\|收敛效度]] (Table 8) | 2-CH 评级对中完全一致率仅 **30.5%**（其中共同推荐 1&1 仅 1.2%）；**完全对立冲突 (1&3) 高达 35.4%** | 全样本去重配对核算 | 揭示清算中心“循证”构念[[Praxis\|实践]]效度有限 |
 > | [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] | [[International Baccalaureate\|IB]] [[Theory of Knowledge\|知识论]] (ToK) 课程大纲与评估指南 | [[Content Analysis\|内容分析]]与构念映射 | [[Critical Thinking\|批判性思维]]构念表征率 | 8 个批判性思维核心维度中，指南仅覆盖 2 项（论证与反主张），其余 6 项（批判阅读、假设检验、[[Problem Solving\|问题解决]]等）均未进入评分标准 | 系统文本[[Coding in Qualitative Research\|质性编码]] | 揭示课程评估中内部对齐与构念不足呈现并存 |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]] | 测量学实验与调查设计案例 | 方法论论证与反例分析 | 构念对应性与方差分解 | 证明削铅笔测验与智力构念相关近乎为 0；数学测验中阅读负荷导致无关方差占比显著上升 | 测量学经典理论案例 | 阐明[[Operationalization\|操作化]]相容性与无关方差机制 |
-> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] | [[OECD\|经合组织]]历届 [[PISA]] 测评框架、技术报告与政策文本 | 批判性政策社会学与测评技术剖析 | 跨国统计信度与等值空间建构对构念效度与[[Ontology\|本体论]]的剥离 | PISA 试题脱离国家课程标准，将跨国[[Reliability\|信度]]绝对优先于情境构念效度，[[Epoché\|悬置]]教育本体论多样性 | 概念批判与制度分析 | 揭示跨国[[Governing by Numbers\|数字治理]]中信度优先对构念效度的系统性挤压 |
+> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] | [[OECD\|经合组织]]历届 [[PISA]] 测评框架、技术报告与政策文本 | 批判性政策社会学与测评技术剖析 | 跨国统计信度与等值空间建构对构念效度与[[Ontology\|本体论]]的剥离 | PISA 试题脱离国家课程标准，将跨国[[Reliability\|信度]]绝对优先于情境构念效度，[[Epoché\|悬置]]教育本体论多样性 | 概念批判与制度分析 | 揭示跨国[[Governing by Numbers\|数字治理]]中信度优先对构念效度的系统性挤压 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Wadhwa_2024_RER|Wadhwa, Zheng, & Cook (2024)]] — 创新性将 Campbell & Fiske (1959) [[Multitrait-Multimethod Matrix|MTMM]] [[Construct|构念]]效度理论应用于 10 个教育清算中心实证元评估，揭示跨平台评级冲突与构念效度危机。
+> - [[Argument_Wadhwa_2024_RER|Wadhwa, Zheng, & Cook (2024)]] — 创新性将 Campbell and Fiske (1959) [[Multitrait-Multimethod Matrix|MTMM]] [[Construct|构念]]效度理论应用于 10 个教育清算中心实证元评估，揭示跨平台评级冲突与构念效度危机。
 > - [[Argument_Hughes_2014_JRIE|Hughes (2014)]] — 运用构念效度理论剖析 IB ToK 课程评估文本，揭示内部对齐掩盖[[Critical Thinking|批判性思维]]构念不足呈现的方法学机制。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen, Manion, & Morrison (2011)]] — 系统阐释构念效度的理论表述、MTMM 验证矩阵、反驳性检查以及构念不足呈现与无关方差威胁。
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 详述调查工具与[[Scale Development|量表开发]]中构念效度的检验程序及情境依赖特征。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, p. 448)]] — 揭示国际大规模测评为建构跨国等值[[Commensuration|通约]]空间而追求统计[[Reliability|信度]]，系统性牺牲了构念效度并[[Epoché|悬置]]教育[[Ontology|本体论]]。
+> - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 详述调查工具与[[Scale Development|量表开发]]中构念效度的检验程序及情境依赖特征。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, p. 448)]] — 揭示国际大规模测评为建构跨国等值[[Commensuration|通约]]空间而追求统计[[Reliability|信度]]，系统性牺牲了构念效度并[[Epoché|悬置]]教育[[Ontology|本体论]]。

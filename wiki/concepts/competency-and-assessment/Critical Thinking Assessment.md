@@ -95,7 +95,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Critical Thinking Assessment
@@ -256,5 +256,5 @@ updated: 2026-10-15
 > - **课程评估的[[Construct Validity\|构念效度]]审查** [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] 运用 Facione、Halpern 与 Paul 等多套框架审查国际课程评估大纲，揭示名义对齐与实际构念覆盖不足的效度脱节。
 > - **教学干预对测评效果的[[Meta-analysis\|元分析]]** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 综合 341 项[[Experimental Research\|实验研究]]，对比了通用技能测验（$g+=0.30$）、[[Domain Specificity\|学科特异性]]测验（$g+=0.57$）与倾向[[Questionnaire\|问卷]]（$g+=0.23$）在不同教学干预下的效应差异。
 > - **显性策略量表与实操测量** [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] 运用 [[Critical Thinking Strategies Scale\|CTSS]] 与 [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ-CT]] 测量高中探究课程学生的批判性思维策略与动机表现。
-> - **主观评估实操痛点与教师感知** [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015)]] 调查 960 名国际课程教师，证实评估批判性思维进展是教师面临的首要教学实操痛点。
+> - **主观评估实操痛点与教师感知** [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015)]] 调查 960 名国际课程教师，证实评估批判性思维进展是教师面临的首要教学实操痛点。
 > - **术语表演与评价框架反思** [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]] 批判分析评估量规如何诱发学生的套话表演与虚假反思，论证真实批判性判断的测评标准。

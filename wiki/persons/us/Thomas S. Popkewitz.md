@@ -81,7 +81,7 @@ updated: 2026-10-16
 > [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论波普科维茨的国际组织教师教育规训研究
 > 在一项针对八个国家教师教育改革实践的研究中，波普科维茨与佩雷拉（Popkewitz & Pereyra, 1993）指出，诸如经济合作与发展组织（OECD）和[[EU|欧洲共同体]]等国际跨国组织，正在推进规训教师教育的法规政策演变中扮演着至关重要的枢纽角色。[[Argument_Olmos_Torres_2009_StateTheories|(Popkewitz & Pereyra, 1993; Olmos & Torres, 2009, p. 80)]]
 >
-> *In an eight-country study of reforms of teacher education, Popkewitz & Pereyra (1993) argued that international organizations, such as the Organization for Economic Cooperation and Development (OECD); and the European community are playing crucial roles in promoting changes in regulations governing teacher education.*
+> *In an eight-country study of reforms of teacher education, Popkewitz and Pereyra (1993) argued that international organizations, such as the Organization for Economic Cooperation and Development (OECD); and the European community are playing crucial roles in promoting changes in regulations governing teacher education.*
 
 ---
 
@@ -123,7 +123,7 @@ updated: 2026-10-16
 > [!citation-card] 跨国组织在教师教育法规中的社会规训角色
 > 教师教育改革绝非单纯的师资培训技术改良，而是一种深刻的社会规训实践。经合组织（OECD）与[[EU|欧洲共同体]]等国际跨国组织，正在通过倡导能力本位与专业胜任力标准，强力重构民族国家关于教师选拔、认证与履职的法规网络，使跨国[[Technical Rationality|技术官僚理性]]格局深度嵌入民族国家教育肌理。[[Argument_Olmos_Torres_2009_StateTheories|(Popkewitz & Pereyra, 1993; Olmos & Torres, 2009, p. 80)]]
 >
-> *In an eight-country study of reforms of teacher education, Popkewitz & Pereyra (1993) argued that international organizations, such as the Organization for Economic Cooperation and Development (OECD); and the European community are playing crucial roles in promoting changes in regulations governing teacher education.*
+> *In an eight-country study of reforms of teacher education, Popkewitz and Pereyra (1993) argued that international organizations, such as the Organization for Economic Cooperation and Development (OECD); and the European community are playing crucial roles in promoting changes in regulations governing teacher education.*
 
 ---
 
@@ -168,4 +168,4 @@ updated: 2026-10-16
 > | [[World Society Theory]] | 理论 | 从微观[[Post-structuralism\|后结构主义]]视角反思新制度主义“世界文化趋同”假设背后的排斥性分类炼金术。 |
 > | [[Conditioned State Theory]] | 理论 | 为揭示跨国组织如何通过“软法”规训侵蚀民族国家主权提供认识论维度的呼应。 |
 > | [[Michael W. Apple]] | 人物 | [[James Madison\|麦迪逊]]学派核心同事，共同推进美国批判教育社会学与意识形态制度分析。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 论证 | 借鉴波普科维茨的教育治理[[Two Problematics of Educational Inclusion and Exclusion\|双重问题式]]（知识与参与），剖析学校空间实践对流动人口的规训与排斥。 |
+> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证 | 借鉴波普科维茨的教育治理[[Two Problematics of Educational Inclusion and Exclusion\|双重问题式]]（知识与参与），剖析学校空间实践对流动人口的规训与排斥。 |

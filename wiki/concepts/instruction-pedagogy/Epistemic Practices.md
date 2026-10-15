@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Epistemic Practices
@@ -183,7 +183,7 @@ updated: 2026-10-15
 > [!concept-lens] [[Epistemology\|认识论]]主体转向
 > 探讨认识论的核心承载者是个体心智还是社会共同体，论证科学教育必须走出孤立心理测验的狭隘视野。
 
-> [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]
+> [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]
 > **共同体认识论转向** 认识论主体不是孤立的个体认知者，而是处于具体情境中的微观协商共同体。决定何者算作知识与正当理由的依据，并非个体心智对客观实在的符合程度，而是共同体成员公认的标准、审议规程以及对合理批评的接纳。科学教育的核心在于引导学生参与真实科学认知文化的实践活动。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 140, 147–148)]]
 
 > [!claim] Helen Longino (1990, 2002)
@@ -196,7 +196,7 @@ updated: 2026-10-15
 > [!concept-lens] 探究情境交织与交流中介
 > 阐释科学活动中直觉探索、逻辑论证与交流说服的动态共生关系，破除将发现与论证割裂的线性观念。
 
-> [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]
+> [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]
 > **三重情境交织模型** 知识主张并不遵循单向线性流动，而是在探索发现的情境（充满尝试、困惑与具身探索）、证据论证的情境（强调严密推理与[[Evidence Standards\|证据标准]]）以及交流表达的情境（贯穿始终的修辞与互动协商）中循环推进。交流并非事后包装，而是[[Knowledge Building Theory|知识建构]]的核心中介；具身动作、言语互动与文本修改共同构成了认识论实践的微观活动机制。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 144–147)]]
 
 ---
@@ -206,7 +206,7 @@ updated: 2026-10-15
 > [!concept-lens] 学科认识论[[Heterogeneity\|异质性]]
 > 探讨探究科学、[[Engineering Education|工程教育]]与[[Socioscientific Issues\|社会科学议题]]在问题类型、证据范围与裁决准则上的本质分化。
 
-> [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]
+> [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]
 > **学科异质性与家族相似性** 科学门类之间具有家族相似性而非单一固定的[[Scientific Method\|科学方法]]五步法。探究式科学侧重解释自然现象，遵循受控实验与[[Statistical Significance\|统计显著性]]准则；工程教育面向特定应用目的，寻求多约束条件下的最优设计平衡；社会科学议题则要求统合道德、伦理、生态与经济视角，在公共审议中寻求民主共识。科学课程必须尊重不同领域的[[Domain Specificity\|学科特异性]]规程。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 142–143, 154–157)]]
 
 ---
@@ -216,7 +216,7 @@ updated: 2026-10-15
 > [!concept-lens] 实践转化与素养生成机制
 > 探讨课堂动手操作如何升华为面向公共生活的审议理性，确立教师显性指导的关键价值。
 
-> [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]
+> [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]
 > **元[[Discourse|话语]]引导与公民审议能力** 单纯让学生动手操作无法自发形成深层的[[Nature of Science\|科学本质]]理解与[[Scientific Literacy\|科学素养]]。教师必须运用显性元话语（meta-discourse），引导学生反思为何接受该项证据、如何排查竞争性解释，从而将微观操作提炼为对公共审查、理性说服与[[Open-Mindedness|思想开放]]等崇高价值的认同，培育现代公民参与民主决策的认识论能动性。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 146–148, 161)]]
 
 ---
@@ -236,11 +236,11 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 来源 |
 > |---|---|---|---|
-> | **认识论主体转向** | 将认识论主体由孤立知者重构为遵循批判规范的微观协商共同体 | 科学教育认识论[[Paradigm\|范式]]转型、课堂学习共同体建设 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 140, 147–148)]]; Longino (1990, 2002); Duschl (2008) |
-> | **三重情境交织** | 阐明发现、辩护与沟通情境在话语和具身互动中的共生循环机制 | 课堂实验观察、学生学术写作、方案答辩与修辞协商 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 144–147)]]; Bazerman (1988); Garfinkel et al. (1981) |
-> | **学科规程异质性** | 破除教条的科学方法神话，确立探究科学、工程与 SSI 取向的实践矩阵 | K-12 科学与工程课程标准研制、[[STEM Education\|STEM]] 跨学科教学设计 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 142–143, 154–157)]]; Sadler (2004); Cunningham & Carlsen (2014) |
-> | **显性反思与素养培育** | 依托教师显性元话语将课堂探究转化为面向公共审议的民主公民素养 | 科学教师专业发展、科学本质教学策略、公共科学素养培育 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 146–148, 161)]]; Wickman (2004); Rorty (1991) |
-> | **人机协同重塑** | 生成式 AI 介入拓展了四维行动回路，双轨支架保障学生在多模态人机协同中践行认识论实践 | 人机协同探究、多模态科学解释建构与智能课堂规范设计 | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] |
+> | **认识论主体转向** | 将认识论主体由孤立知者重构为遵循批判规范的微观协商共同体 | 科学教育认识论[[Paradigm\|范式]]转型、课堂学习共同体建设 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, pp. 140, 147–148)]]; Longino (1990, 2002); Duschl (2008) |
+> | **三重情境交织** | 阐明发现、辩护与沟通情境在话语和具身互动中的共生循环机制 | 课堂实验观察、学生学术写作、方案答辩与修辞协商 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, pp. 144–147)]]; Bazerman (1988); Garfinkel et al. (1981) |
+> | **学科规程异质性** | 破除教条的科学方法神话，确立探究科学、工程与 SSI 取向的实践矩阵 | K-12 科学与工程课程标准研制、[[STEM Education\|STEM]] 跨学科教学设计 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, pp. 142–143, 154–157)]]; Sadler (2004); Cunningham and Carlsen (2014) |
+> | **显性反思与素养培育** | 依托教师显性元话语将课堂探究转化为面向公共审议的民主公民素养 | 科学教师专业发展、科学本质教学策略、公共科学素养培育 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, pp. 146–148, 161)]]; Wickman (2004); Rorty (1991) |
+> | **人机协同重塑** | 生成式 AI 介入拓展了四维行动回路，双轨支架保障学生在多模态人机协同中践行认识论实践 | 人机协同探究、多模态科学解释建构与智能课堂规范设计 | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] |
 
 ---
 
@@ -249,7 +249,7 @@ updated: 2026-10-15
 > [!dev-timeline] [[Epistemology\|认识论]]实践概念演进脉络
 > - **1980s–1990s — 科学实践研究兴起** 科学社会学、人类学与微观[[Ethnography\|人种志]]（如 Latour, 1987; Bazerman, 1988; Knorr Cetina, 1999）开启对行动中的科学（science-in-the-making）的实证考察，揭示实验室[[Discourse|话语]]协商、文本修改与仪器中介的[[Knowledge Building Theory|知识建构]]机制。
 > - **1990s–2000s — 认识论转向进入科学教育** 科学教育学者（如 Duschl, 2008; [[Argument_Sandoval_2005_SE\|Sandoval, 2005]]）批判传统教学只教概念结论的弊病，将科学实践概念引入[[Lesson Study\|课堂研究]]，开始区分[[Formal Epistemology\|形式认识论]]与探究行动中的[[Practical Epistemology\|实践认识论]]。
-> - **2010s — 四维行动模型与学科比较矩阵确立** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] 等学者系统整合微观[[Interactional Ethnography|交互人种志]]、[[Discourse Analysis\|话语分析]]与社会认识论，确立提出、沟通、评估与合法化四维模型，编制探究科学、[[Engineering Education|工程教育]]与[[Socioscientific Issues\|社会科学议题]]跨领域实践矩阵。
+> - **2010s — 四维行动模型与学科比较矩阵确立** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] 等学者系统整合微观[[Interactional Ethnography|交互人种志]]、[[Discourse Analysis\|话语分析]]与社会认识论，确立提出、沟通、评估与合法化四维模型，编制探究科学、[[Engineering Education|工程教育]]与[[Socioscientific Issues\|社会科学议题]]跨领域实践矩阵。
 > - **2020s 至今 — 融入[[Man-Computer Symbiosis|人机协同]]审议与多元文化认知资源** 认识论实践研究进一步拓展至[[Learning Progression\|学习进阶]]、跨学科迁移、多元文化背景学生的知晓方式（[[Funds of Knowledge]]），以及在[[Generative Artificial Intelligence|生成式人工智能]]环境下以多模态数字制品为中介的人机协同认识论实践（[[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez, 2026]]）。
 
 ---
@@ -285,18 +285,18 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 144–145)]] | 高中物理课堂弹簧振子振动实验小组（Kelly et al., 2001 案例） | 微观交互[[Ethnography\|人种志]]与录像[[Transcription in Qualitative Research\|转录]]分析 | 具身动作、传感器波形图与猜想提出序列 | 学生通过手部模仿波形，将身体感觉与屏幕波峰对照以提出初始假说 | 质性[[Dialogue in Education\|对话]]序列分析 | 适用于仪器中介的高中物理探究情境 |
-> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 145–146)]] | 小学三年级太阳能集热与烹饪装置设计团队（Kelly & Brown, 2003 案例） | 课堂人种志与[[Discourse Analysis\|话语分析]] | 小组讨论、工程草图与面向小记者的汇报辩护 | 学生根据受众调整论证，用实测升温数据回应质疑并解释设计折中 | 质性[[Discourse\|话语]]功能分析 | 适用于设计驱动的小学[[Engineering Education\|工程教育]]情境 |
-> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, p. 146)]] | 大学本科地质学板块构造论文撰写（Takao & Kelly, 2003 案例） | 学术写作文本话语分析 | 认识论层级（Epistemic Level, EL）编码分布 | 优秀论文展现出从观测事实到中阶概括再到理论机制的清晰证据组织层级 | 认识论层级结构编码 | 适用于数据驱动的大学地球科学学术写作 |
-> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 146–147)]] | 小学三年级多元文化课堂物质状态探究（Reveles et al., 2004 案例） | 微观话语分析与师生互动转录 | 教师元话语（meta-discourse）与科学身份建构 | 教师通过显性点评引导学生调用前日温度数据，赋予边缘学生科学身份 | 质性言语行为分析 | 适用于强调包容性与身份认同的小学课堂 |
-> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, p. 150)]] | 小学阶段地球形状与重力机制探究（Lidar et al., 2010 案例） | [[Practical Epistemology\|实践认识论]]分析（PEA）话语编码 | 立足点（Stand Fast）、意义裂隙与关系搭建 | 儿童通过转动地球仪与地图修补理解裂隙，在行动中原生地界定有效观察 | [[Practical Epistemology Analysis\|PEA]] 话语互动编码 | 适用于具身教具支持的概念探究情境 |
-> | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] | $N = 8$ 名韩国初中二年级学生（4 个合作小组） | 四层[[Multimodal Discourse Analysis\|多模态话语分析]]与微观交互追踪（Canva / ChatGPT） | 人机协同建构[[Scientific Explanation\|科学解释]]中的四维认识论实践话轮与多模态图文修正 | 实证记录学生在人机协同中经历“提示词提出—多维审问评估—同伴沟通修改—教科书[[Triangulation\|三角互证]]合法化”的完整实践闭环，成功将 AI 输出转化为认识论探究资源 | 质性多模态序列编码与三角互证 | 适用于显性双轨支架支持下的初中[[Man-Computer Symbiosis\|人机协同]]科学探究情境 |
+> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, pp. 144–145)]] | 高中物理课堂弹簧振子振动实验小组（Kelly et al., 2001 案例） | 微观交互[[Ethnography\|人种志]]与录像[[Transcription in Qualitative Research\|转录]]分析 | 具身动作、传感器波形图与猜想提出序列 | 学生通过手部模仿波形，将身体感觉与屏幕波峰对照以提出初始假说 | 质性[[Dialogue in Education\|对话]]序列分析 | 适用于仪器中介的高中物理探究情境 |
+> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, pp. 145–146)]] | 小学三年级太阳能集热与烹饪装置设计团队（Kelly & Brown, 2003 案例） | 课堂人种志与[[Discourse Analysis\|话语分析]] | 小组讨论、工程草图与面向小记者的汇报辩护 | 学生根据受众调整论证，用实测升温数据回应质疑并解释设计折中 | 质性[[Discourse\|话语]]功能分析 | 适用于设计驱动的小学[[Engineering Education\|工程教育]]情境 |
+> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, p. 146)]] | 大学本科地质学板块构造论文撰写（Takao & Kelly, 2003 案例） | 学术写作文本话语分析 | 认识论层级（Epistemic Level, EL）编码分布 | 优秀论文展现出从观测事实到中阶概括再到理论机制的清晰证据组织层级 | 认识论层级结构编码 | 适用于数据驱动的大学地球科学学术写作 |
+> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, pp. 146–147)]] | 小学三年级多元文化课堂物质状态探究（Reveles et al., 2004 案例） | 微观话语分析与师生互动转录 | 教师元话语（meta-discourse）与科学身份建构 | 教师通过显性点评引导学生调用前日温度数据，赋予边缘学生科学身份 | 质性言语行为分析 | 适用于强调包容性与身份认同的小学课堂 |
+> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, p. 150)]] | 小学阶段地球形状与重力机制探究（Lidar et al., 2010 案例） | [[Practical Epistemology\|实践认识论]]分析（PEA）话语编码 | 立足点（Stand Fast）、意义裂隙与关系搭建 | 儿童通过转动地球仪与地图修补理解裂隙，在行动中原生地界定有效观察 | [[Practical Epistemology Analysis\|PEA]] 话语互动编码 | 适用于具身教具支持的概念探究情境 |
+> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] | $N = 8$ 名韩国初中二年级学生（4 个合作小组） | 四层[[Multimodal Discourse Analysis\|多模态话语分析]]与微观交互追踪（Canva / ChatGPT） | 人机协同建构[[Scientific Explanation\|科学解释]]中的四维认识论实践话轮与多模态图文修正 | 实证记录学生在人机协同中经历“提示词提出—多维审问评估—同伴沟通修改—教科书[[Triangulation\|三角互证]]合法化”的完整实践闭环，成功将 AI 输出转化为认识论探究资源 | 质性多模态序列编码与三角互证 | 适用于显性双轨支架支持下的初中[[Man-Computer Symbiosis\|人机协同]]科学探究情境 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 结合四层[[Multimodal Discourse Analysis|多模态话语分析]]，实证揭示生成式 AI 环境下中学生四维[[Epistemology|认识论]]实践的微观展开过程与双轨[[Epistemic Scaffolding|认识论支架]]的促学机制。
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] — 系统阐述[[Epistemology\|认识论]]实践的理论基础，提炼提出、沟通、评估与合法化四维行动模型及四大本体特征，构建探究科学、工程与[[Socioscientific Issues\|社会科学议题]]的跨领域实践矩阵。
+> - [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] — 结合四层[[Multimodal Discourse Analysis|多模态话语分析]]，实证揭示生成式 AI 环境下中学生四维[[Epistemology|认识论]]实践的微观展开过程与双轨[[Epistemic Scaffolding|认识论支架]]的促学机制。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 系统阐述[[Epistemology\|认识论]]实践的理论基础，提炼提出、沟通、评估与合法化四维行动模型及四大本体特征，构建探究科学、工程与[[Socioscientific Issues\|社会科学议题]]的跨领域实践矩阵。
 > - [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] — 考察学生在探究实践中运用的[[Practical Epistemology\|实践认识论]]，揭示学生在具体探究行动中的认识论决策具有高度的情境依赖性与隐性特征。

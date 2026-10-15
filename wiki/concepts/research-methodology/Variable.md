@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-31
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Variable
@@ -88,7 +88,7 @@ updated: 2026-10-15
 > - **[[Epistemology|认识论]]反思透镜** 透视过度依赖变量分解所诱发的方法论主义（[[Empiricism|Methodologism]]）风险，审视其对历史文化整体性与制度情境脉络的遮蔽。
 
 > [!citation-card] Noah论以变量名称替代体系名称的[[Scientific Paradigm|科学范式]]转型
-> [[Harold Noah|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein|马克斯·埃克斯坦]]（Max Eckstein）在开创比较教育第三论述代际（科学经验主义[[Paradigm|范式]]）时指出，科学比较教育的核心挑战在于“从个殊走向一般，从识别-描述-分类走向假设检验、理论建构与预测”，而实现这一转型的根本方法就在于**“以‘概念（变量）名称’替代‘体系名称’或可观察事实”**。在跨国[[Multiple Regression\|多元回归]]与计量模型中，研究者不再将“英格兰”、“加纳”或“美国”作为不可分割的个案，而是将其拆解为家庭收入、城市化水平、学校资源等独立变量，以检验[[Independent Variable|自变量]]对[[Academic Achievement|学业成就]]与升学概率等[[Dependent Variable|因变量]]的普适影响。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 148–149)]]；引自 Noah (1973)
+> [[Harold Noah|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein|马克斯·埃克斯坦]]（Max Eckstein）在开创比较教育第三论述代际（科学经验主义[[Paradigm|范式]]）时指出，科学比较教育的核心挑战在于“从个殊走向一般，从识别-描述-分类走向假设检验、理论建构与预测”，而实现这一转型的根本方法就在于 **“以‘概念（变量）名称’替代‘体系名称’或可观察事实”**。在跨国[[Multiple Regression\|多元回归]]与计量模型中，研究者不再将“英格兰”、“加纳”或“美国”作为不可分割的个案，而是将其拆解为家庭收入、城市化水平、学校资源等独立变量，以检验[[Independent Variable|自变量]]对[[Academic Achievement|学业成就]]与升学概率等[[Dependent Variable|因变量]]的普适影响。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 148–149)]]；引自 Noah (1973)
 >
 > *Noah formulated the task of scientific comparative education: 'to move from the particular to the general, from identification-description-classification to hypothesis-testing, theory building and prediction' by 'replacing names of systems or observable facts by names of concepts (variables)'.*
 
@@ -221,7 +221,7 @@ updated: 2026-10-15
 
 ### 理论在变量间的桥梁作用
 
-变量是理论在实证层面的操作性表达。假设将变量组织为预测性陈述，理论则解释为什么这些变量之间存在关系。[[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, p. 54)]] 用彩虹比喻理论的角色，将理论描述为架起[[Independent Variable\|自变量]]和[[Dependent Variable\|因变量]]之间的桥梁，为“自变量为何以及如何解释或预测因变量”提供总括性机制阐释。
+变量是理论在实证层面的操作性表达。假设将变量组织为预测性陈述，理论则解释为什么这些变量之间存在关系。[[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022, p. 54)]] 用彩虹比喻理论的角色，将理论描述为架起[[Independent Variable\|自变量]]和[[Dependent Variable\|因变量]]之间的桥梁，为“自变量为何以及如何解释或预测因变量”提供总括性机制阐释。
 
 ---
 
@@ -234,7 +234,7 @@ updated: 2026-10-15
 > [!concept-lens] [[Construct|构念]]测量与[[Operationalization|操作化]]维度
 > 抽象的理论假设无法直接被经验检验，唯有通过严密的操作化程序将构念解构为可测变量。
 
-> [!claim] [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]]; [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]]
+> [!claim] [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]]; [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]]
 > **构念解构与经验指标对应** 构念如“[[Academic Achievement|学业成就]]”、“社会资本”或“教学效能”本身属于高阶抽象物。研究者必须通过[[Definition of Terms|操作性定义]]将其拆解为测量指标（如标准化测试分数、家庭藏书量、课堂提问频次），通过对变量间协变关系的观测来推断理论构念之间的真实联系。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, pp. 54–56)]]
 
 ---
@@ -244,7 +244,7 @@ updated: 2026-10-15
 > [!concept-lens] 比较科学化与通则建构维度
 > 比较教育学向现代实证社会科学转型的关键标志，在于从叙述个殊国别制度转向以跨国变量检验普适假设。
 
-> [!claim] Noah & Eckstein (1969); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]]
+> [!claim] Noah and Eckstein (1969); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]]
 > **以概念变量替代体系名称的[[Scientific Paradigm|科学范式]]** 诺亚与埃克斯坦提出，古典比较教育长期停留在以国别为单位的历史描述与分类编目阶段。科学比较教育的根本任务是推进通则理论建构与预测，而这一目标唯有通过“以概念变量名称替代体系专名”方能实现。例如，将“英国与加纳教育比较”转化为“家庭社会经济地位（[[Independent Variable|自变量]]）对中等教育选拔概率（[[Dependent Variable|因变量]]）的跨国[[Multiple Regression|多元回归]]”，使个案制度转变为普适假说的经验检验场。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 148–149)]]
 
 ---
@@ -264,8 +264,8 @@ updated: 2026-10-15
 > [!contrast-table] 变量核心命题总览
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
-> | **构念操作化命题** | 变量是连接抽象理论构念与实证测量的操作化中介 | [[Quantitative Research\|量化研究]]设计、[[Questionnaire\|问卷]]编制与实验干预 | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]]; [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] |
-> | **体系变量替代命题** | 跨国比较以概念变量替代国别专名以检验普遍因果假说 | 跨国多元回归、大规模国际测评、[[Causal Modeling\|因果建模]] | Noah & Eckstein (1969); Noah (1973); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] |
+> | **构念操作化命题** | 变量是连接抽象理论构念与实证测量的操作化中介 | [[Quantitative Research\|量化研究]]设计、[[Questionnaire\|问卷]]编制与实验干预 | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]]; [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] |
+> | **体系变量替代命题** | 跨国比较以概念变量替代国别专名以检验普遍因果假说 | 跨国多元回归、大规模国际测评、[[Causal Modeling\|因果建模]] | Noah and Eckstein (1969); Noah (1973); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] |
 > | **方法论主义批判命题** | 孤立变量分析抽离历史文化厚度，易陷入去脉络化技术主义 | 比较认识论反思、定性与定量融合评估 | Barber (1972); [[Andreas Kazamias\|卡扎米亚斯]] |
 
 ---
@@ -324,6 +324,6 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 详述[[Quantitative Research|量化研究]]中[[Independent Variable|自变量]]、[[Dependent Variable|因变量]]、预测变量、结果变量、中介变量、调节变量与混淆变量的功能定义与彩虹理论模型（pp. 54–56）。
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 详述[[Quantitative Research|量化研究]]中[[Independent Variable|自变量]]、[[Dependent Variable|因变量]]、预测变量、结果变量、中介变量、调节变量与混淆变量的功能定义与彩虹理论模型（pp. 54–56）。
 > - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] — 系统阐述教育研究中变量的概念性定义与[[Definition of Terms|操作性定义]]步骤，以及变量的五类划分标准（Ch. 2）。
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 深入剖析比较教育第三代际实证学者通过以“变量”替代“体系”追求通则因果定律的[[Epistemology|认识论]]转向，并反思方法论主义对历史脉络的抽空（pp. 147–149）。

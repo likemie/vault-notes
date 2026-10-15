@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-19
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Comparative Case Study
@@ -80,7 +80,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> 比较[[Case Study|案例研究]]（Comparative Case Study, CCS）是由巴特利特与瓦夫鲁斯（Bartlett & Vavrus, 2017）提出的一种突破传统封闭单元假设的质性比较研究方法。CCS 拒绝将案例视作预先给定且边界固定的容器，而是确立了**过程性的“建构案例”（casing）**取向——案例是在研究过程中被理论与实证选择持续生产出来的。通过**水平轴**（跨地点比较复杂连接的政策展开）、**垂直轴**（跨越微观、国家与超国家多重尺度）与**横贯轴**（历时性追溯历史沿革）的三维协同运作，实现对复杂社会与教育治理现象的立体剖析。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, p. 202)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]
+> 比较[[Case Study|案例研究]]（Comparative Case Study, CCS）是由巴特利特与瓦夫鲁斯（Bartlett & Vavrus, 2017）提出的一种突破传统封闭单元假设的质性比较研究方法。CCS 拒绝将案例视作预先给定且边界固定的容器，而是确立了**过程性的“建构案例”（casing）** 取向——案例是在研究过程中被理论与实证选择持续生产出来的。通过**水平轴**（跨地点比较复杂连接的政策展开）、**垂直轴**（跨越微观、国家与超国家多重尺度）与**横贯轴**（历时性追溯历史沿革）的三维协同运作，实现对复杂社会与教育治理现象的立体剖析。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, p. 202)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 深度嵌入全球与区域网络、跨越多重空间尺度且随历史演进的教育政策、制度革新、多边治理项目及微观课堂实践。
@@ -178,6 +178,6 @@ updated: 2026-10-15
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 108–110, 112)]] — 评析比较教育学者如何通过精细的多地点多标度比较[[Case Study|案例研究]]（CCS），结合几内亚与美法阅读教学、以色列分权改革、印度女教师培训、巴布亚新几内亚乡村反抗及巴勒斯坦幼教机构，示范贯通跨国标准、国家中介与微观课堂的跨尺度“双重视野”分析策略。
 > - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] — 运用 CCS 框架比较新加坡与阿联酋的[[International Education Hubs|国际教育枢纽]]建设，重点利用横贯维度追溯 1990–2018 年间全球金融危机与地缘政治对多领域政策混合体的历史重塑。
 > - [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]] — 采用比较案例研究设计结合[[Mixed Methods Research|混合方法]]，对比两所美国大学和一所新西兰大学的博士[[Graduate Attributes|毕业生特质]]发展与职场迁移，以制度差异下的模式一致性推断博士培养的结构性特征。
-> - [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]] — 采用比较案例研究设计，对比美德两国联邦体制下的教育数据化先锋州（马萨诸塞州与汉堡），系统考察州级教育行政机构中[[Data Infrastructure|数据基础设施]]的社会-技术实践与治理张力。
+> - [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] — 采用比较案例研究设计，对比美德两国联邦体制下的教育数据化先锋州（马萨诸塞州与汉堡），系统考察州级教育行政机构中[[Data Infrastructure|数据基础设施]]的社会-技术实践与治理张力。
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 采用国际比较案例研究设计，深度对比美国 [[Sematech]]、日本 [[VLSI Project|VLSI]] 项目 及欧洲 [[ESPRIT]]、[[JESSI]] 等跨国高技术研发联盟的治理结构与演进轨迹，提炼高技术公私协同联盟的制度设计准则。
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009, pp. 466–467)]] — 运用比较案例研究设计，深度对比玻利维亚、巴拉圭、摩洛哥与巴西等国的教育[[Policy Conditionalities|贷款附加条件]]谈判与执行轨迹，归纳[[Multilateral Development Bank|多边开发银行]]强推体制改革失败与借贷国渐进协商成功的制度边界条件。

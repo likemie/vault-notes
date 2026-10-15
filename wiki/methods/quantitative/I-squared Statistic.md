@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # I-squared Statistic
@@ -54,7 +54,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> I² 统计量（I-squared Statistic，亦称[[Heterogeneity\|异质性]]百分比 / Higgins' I²）是由 Julian Higgins & Simon Thompson (2002) 提出并在 Higgins et al. (2003) 中确立规范的无量纲相对异质性指标。它衡量的是[[Meta-analysis\|元分析]]中观察到的各初级研究[[Effect Size\|效应量]]总变异中，**由跨研究的真实异质性（Between-study heterogeneity）而非偶然[[Sampling Error\|抽样误差]]（Sampling error）所解释的方差百分比**。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 38)]]
+> I² 统计量（I-squared Statistic，亦称[[Heterogeneity\|异质性]]百分比 / Higgins' I²）是由 Julian Higgins and Simon Thompson (2002) 提出并在 Higgins et al. (2003) 中确立规范的无量纲相对异质性指标。它衡量的是[[Meta-analysis\|元分析]]中观察到的各初级研究[[Effect Size\|效应量]]总变异中，**由跨研究的真实异质性（Between-study heterogeneity）而非偶然[[Sampling Error\|抽样误差]]（Sampling error）所解释的方差百分比**。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 38)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将观察到的总变异标准化为 $0\%–100\%$ 的百分比比率，直观反映研究间离散有多少比例属于“真实差异”。

@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # PRISMA
@@ -210,7 +210,7 @@ updated: 2026-10-15
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | PRISMA 2020 | Web of Science、Scopus 与 ERIC 检索的 409 篇初始记录至 67 篇最终纳入实证研究 | 高等教育生成式 AI 实证综述规范性 | 严格落实四阶段流转程序，经标题摘要初筛与全文审阅，最终纳入 67 篇研究进行[[Higher-Order Thinking Skills\|高阶思维]]认知模式主题综合。 |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | PRISMA 声明 | 52 项[[Creativity\|创造力]]一阶元分析数据库 | [[Meta-meta-analysis\|二阶元分析]]系统检索与纳入控制 | 依据 PRISMA 规范对初级元分析进行分层提取，严格剔除缺乏定量合并统计量的质性综述。 |
 > | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | PRISMA 声明 | 创造力与[[Critical Thinking\|批判性思维]]相关性实证文献集 | 相关性元分析检索与合规筛选 | 运用 PRISMA 规范流程图完整呈现从初始检索至最终合格研究的收敛漏斗。 |
-> | [[Argument_Song_Choi_2026_FPSYG\|Song & Choi (2026)]] | PRISMA 声明 | [[Epistemic Cognition\|认识论认知]]实证研究文献集 | 多水平元分析文献筛选路径 | 以标准 PRISMA 流程图呈现多数据库检索记录、去重与全文本审阅决策流。 |
+> | [[Argument_Song_Choi_2026_FPSYG\|Song and Choi (2026)]] | PRISMA 声明 | [[Epistemic Cognition\|认识论认知]]实证研究文献集 | 多水平元分析文献筛选路径 | 以标准 PRISMA 流程图呈现多数据库检索记录、去重与全文本审阅决策流。 |
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | PRISMA 规范原型 | 341 项批判性思维教学[[Intervention Research\|干预研究]] | 教学干预大规模元分析筛选 | 采用规范的系统检索与流转筛选流程，对批判性思维干预研究进行分层质量准入。 |
 > | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | PRISMA 声明 | ERIC、Scopus 等数据库 1,617 篇初始记录至 34 篇纳入文献 | 教育[[Research Utilization\|研究使用]][[Critical Review\|批判性综述]]质控 | 结合 PRISMA 检索规范与多维概念分析，对教育研究使用实证文献进行全文本解构。 |
 

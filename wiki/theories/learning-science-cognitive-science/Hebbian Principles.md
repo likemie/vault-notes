@@ -27,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: 2026-10-16
 ---
 
 ## 核心主张
@@ -40,7 +40,7 @@ updated: '2026-05-18'
 ## 理论内部结构
 
 > [!abstract] 理论内部结构
-> [[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie (2017)]] 论文中描述了 Hebb 原则在脑发育中的具体运作（p.6）：
+> [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] 论文中描述了 Hebb 原则在脑发育中的具体运作（p.6）：
 >
 > - **强化机制** — 经常共同激活的神经元之间的突触连接被加强
 > - **消除机制** — 不持续需要的通路被移除，即[[Synaptic Pruning\|突触修剪]]的过程

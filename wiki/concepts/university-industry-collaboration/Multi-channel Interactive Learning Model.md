@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Multi-channel Interactive Learning Model
@@ -46,7 +46,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!info] 核心定义
-> 多通道互动学习模型（multi-channel interactive learning model）是 Caraça、Lundvall and Mendonça（2009）提出的创新过程[[Analytic Framework\|分析框架]]，旨在更新、补充和扩展 Kline & Rosenberg（1986）的[[Chain-linked Model\|链式模型]]。该模型将创新过程重新定位在[[Learning Economy\|学习经济]]的语境中，核心主张是：创新不是从科学到市场的线性或链式推进，而是在多元[[Source of Knowledge\|知识来源]]、多层制度环境和多通道互动学习共同作用下的螺旋式过程。[[Argument_Caraca_2009_TFSC\|(Caraça, Lundvall & Mendonça, 2009, pp. 864–866)]]
+> 多通道互动学习模型（multi-channel interactive learning model）是 Caraça、Lundvall and Mendonça（2009）提出的创新过程[[Analytic Framework\|分析框架]]，旨在更新、补充和扩展 Kline and Rosenberg（1986）的[[Chain-linked Model\|链式模型]]。该模型将创新过程重新定位在[[Learning Economy\|学习经济]]的语境中，核心主张是：创新不是从科学到市场的线性或链式推进，而是在多元[[Source of Knowledge\|知识来源]]、多层制度环境和多通道互动学习共同作用下的螺旋式过程。[[Argument_Caraca_2009_TFSC\|(Caraça, Lundvall & Mendonça, 2009, pp. 864–866)]]
 
 ---
 
@@ -71,7 +71,7 @@ updated: 2026-10-15
 
 ### 界面
 
-界面（Interfaces）是使企业能够从环境中识别、选择和吸收具有生产潜力的新想法的构建性解释管道。界面对于学习至关重要——它们打开了互动和交叉滋养的通道。这一概念与 Cohen & Levinthal（1990）的[[Absorptive Capacity|吸收能力]]概念密切相关。界面不仅是信息输入端口，更是需要企业主动构建和维护的组织能力。
+界面（Interfaces）是使企业能够从环境中识别、选择和吸收具有生产潜力的新想法的构建性解释管道。界面对于学习至关重要——它们打开了互动和交叉滋养的通道。这一概念与 Cohen and Levinthal（1990）的[[Absorptive Capacity|吸收能力]]概念密切相关。界面不仅是信息输入端口，更是需要企业主动构建和维护的组织能力。
 
 ---
 

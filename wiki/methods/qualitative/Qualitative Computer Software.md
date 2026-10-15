@@ -79,7 +79,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Qualitative Computer Software
@@ -223,4 +223,4 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|Cohen et al. (2011)]]（亦见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Ch. 30]]） — 系统总结 CAQDAS 的功能类型、Kelle 六步规程与[[Reliability\|信度]]效度机制，并深入探讨大语言模型智能辅助编码的三大进路、[[Paradigm\|范式]]对比与[[Meaningful Human Control|人在回路]]准则。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch. 9)]] — 阐明计算机软件辅助[[Winnowing\|数据筛选]]与 5–7 个主题聚合的实操流程，强调软件不替代研究者分析责任，并梳理现代主流软件包。
-> - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 在 NVivo 11 中结合[[Open Coding\|开放编码]]与基于[[Third Generation Activity Theory\|第三代活动理论]]（3GAT）六构件的[[Template Analysis\|模板分析]]，对 25 份[[Semi-structured Interview\|半结构化访谈]]展开扎根编码与矛盾解析。
+> - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 在 NVivo 11 中结合[[Open Coding\|开放编码]]与基于[[Third Generation Activity Theory\|第三代活动理论]]（3GAT）六构件的[[Template Analysis\|模板分析]]，对 25 份[[Semi-structured Interview\|半结构化访谈]]展开扎根编码与矛盾解析。

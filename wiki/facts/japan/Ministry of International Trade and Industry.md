@@ -67,7 +67,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-15
+updated: 2026-10-16
 title: Ministry of International Trade and Industry
 aliases:
   - MITI
@@ -83,7 +83,7 @@ aliases:
 ## 机构定位与历史职能
 
 > [!claim] 核心定位
-> **日本通商产业省（Ministry of International Trade and Industry / MITI，简称通产省）**是 1949 至 2001 年间日本中央政府统辖对外贸易、工业结构调整、科技研发攻坚与能源政策的核心超级部委（2001 年中央省厅重组后改组为经济产业省 [METI]）；作为政治学者[[Chalmers Johnson|查默斯·约翰逊]]（Chalmers Johnson, 1982）奠定“发展型国家”（Developmental State）理论的核心经验载体，MITI 依托高素质功绩制文官队伍与密集的政企协同网络，践行[[Embedded Autonomy|嵌入式自主性]]（Embedded Autonomy），引领了二战后日本从废墟中实现钢铁、汽车、造船以及半导体微电子产业的全面奇迹追赶，是第一代使命导向政策（骆驼形态）中后发国家能力的经典[[Paradigm|范式]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793, 796)]]
+> **日本通商产业省（Ministry of International Trade and Industry / MITI，简称通产省）** 是 1949 至 2001 年间日本中央政府统辖对外贸易、工业结构调整、科技研发攻坚与能源政策的核心超级部委（2001 年中央省厅重组后改组为经济产业省 [METI]）；作为政治学者[[Chalmers Johnson|查默斯·约翰逊]]（Chalmers Johnson, 1982）奠定“发展型国家”（Developmental State）理论的核心经验载体，MITI 依托高素质功绩制文官队伍与密集的政企协同网络，践行[[Embedded Autonomy|嵌入式自主性]]（Embedded Autonomy），引领了二战后日本从废墟中实现钢铁、汽车、造船以及半导体微电子产业的全面奇迹追赶，是第一代使命导向政策（骆驼形态）中后发国家能力的经典[[Paradigm|范式]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793, 796)]]
 
 > [!org-context] 机构背景
 > - **运行历史** 1949 年 5 月由商工省与贸易厅合并成立，直属日本内阁；主导战后日本三十余年年均近 10% 的高速经济增长，2001 年改组为经济产业省。
@@ -161,7 +161,7 @@ aliases:
 > | [[Public Dynamic Capabilities]] | 概念 | 展现了公共机构在国家战略与政策协调层级主动塑造产业结构的动态能力。 |
 > | [[Market Shaping and Creating]] | 概念 | MITI 通过 [[VLSI Project\|VLSI]] 等国家工程主动塑造了全球半导体微电子市场的竞争格局。 |
 > | [[Directionality of Innovation]] | 概念 | MITI 的产业愿景为日本技术演进设定了明确的高附加值方向。 |
-> | [[Modern Industrial Policy]] | 概念 | VLSI 计划是 [[Argument_Bown_2024_JEP\|Bown & Wang（2024）]]分析现代产业政策历史前身的核心案例，骆驼形态第一代使命政策的制度实例。 |
+> | [[Modern Industrial Policy]] | 概念 | VLSI 计划是 [[Argument_Bown_2024_JEP\|Bown and Wang（2024）]]分析现代产业政策历史前身的核心案例，骆驼形态第一代使命政策的制度实例。 |
 > | [[Vertical Disintegration]] | 概念 | 日本国家冠军集成模式在 1990 年代后全球产业分散化浪潮中的历史对照案例。 |
 > | [[National Research and Resource Facility for Submicron Structures]] | 事实（机构） | MITI 推进 VLSI 计划引发的地缘竞争危机，直接促使 [[National Science Foundation\|NSF]] 批准资助康奈尔建立该国家微电子用户设施。 |
 > | [[Fred Block]] | 人物 | 比较分析战后东亚科层模式与欧美网络模式、揭示 MITI 后工业局限的经济社会学家。 |

@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Retrodiction
 
@@ -112,7 +112,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **方法论辩护命题** | 证据收敛性、歧义性约束与时空尺度外推 | 地质学调查、古气候重构、演化古生物学 | Ault (1998); Cleland (2002) |
-> | **课程认识论命题** | 解构普适实验方法教条，弘扬学科[[Heterogeneity\|异质性]] | 中小学地球与空间科学课程、综合科学教学 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] |
+> | **课程认识论命题** | 解构普适实验方法教条，弘扬学科[[Heterogeneity\|异质性]] | 中小学地球与空间科学课程、综合科学教学 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] |
 
 ---
 
@@ -136,4 +136,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] — 结合板块构造写作案例分析回溯推测在地学教育中的[[Epistemology\|认识论]]层级与[[Chain of Evidence\|证据链]]构建。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 结合板块构造写作案例分析回溯推测在地学教育中的[[Epistemology\|认识论]]层级与[[Chain of Evidence\|证据链]]构建。

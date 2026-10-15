@@ -56,7 +56,7 @@ sources:
 part_of: 
 status: draft
 created: 2026-08-15
-updated: 2026-09-24
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Greene_2010_JEP"
@@ -97,7 +97,7 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **三个核心信念维度**<br>SC, JA, PJ | 作者梳理了前人（如 Hofer & Pintrich, 1997; Schommer-Aikins, 2004）的量化维度：将“知识是简单/复杂的”与“知识是确定/变化的”合并为[[Ontology\|本体论]]层面的**简单与确定知识（SC）**维度；将[[Epistemology\|认识论]]层面的知识辩护机制拆分为依赖外部权威的**权威辩护（JA）**与依赖主观经验的**个人辩护（PJ）**。 |
+> | **三个核心信念维度**<br>SC, JA, PJ | 作者梳理了前人（如 Hofer & Pintrich, 1997; Schommer-Aikins, 2004）的量化维度：将“知识是简单/复杂的”与“知识是确定/变化的”合并为[[Ontology\|本体论]]层面的**简单与确定知识（SC）** 维度；将[[Epistemology\|认识论]]层面的知识辩护机制拆分为依赖外部权威的**权威辩护（JA）** 与依赖主观经验的**个人辩护（PJ）**。 |
 > | **认识论与本体论认知发展模型**<br>[[Epistemic and Ontological Cognition]] | 将[[Certainty of Knowledge\|知识的确定性]]与简单性界定为本体论认知，将[[Justification for Knowing\|认知的辩护]]机制保留为认识论认知。EOCD 模型提出现实主义、教条主义、怀疑主义与理性主义四种理论位置，并为每种位置设定 SC、JA、PJ 的组合轮廓。 |
 
 > [!warrant]- 理论如何支撑论证

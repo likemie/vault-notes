@@ -251,9 +251,9 @@ updated: 2026-10-16
 > | **公共资源与法律移植推论命题** | 教育权作为国家公共资源的法哲学打破了教会垄断，为跨国[[Policy Borrowing\|政策借用]]与实定法直接转置奠定法理正当性 | 19 世纪欧陆（法、德）中央集权立宪政制下的教育法案起草与自上而下制度移植 | Cousin (Brewer, 1971); Süvern (1819); Guizot (1833) |
 > | **共和防卫与民主基石命题** | 国家教育权通过普及公共学校实现公民知识平权分配，是防止普选民主退化为寡头专制的本体屏障 | 19 世纪北美建国初期共和教育世纪、州立教育委员会设立与公共学校法案动员 | Mann (Cremin, 1957); Stowe (Knight, 1930); Barnard (1872) |
 > | **经验容器与全球重构命题** | 民族国家教育主权垄断奠定了比较教育的国别容器，当代面临超国家数据治理与微观跨文化教育的双向重塑 | 20 世纪比较教育学科史、超国家组织教育规训与多民族社会教育政策分析 | [[Wolfgang Mitter\|Mitter]]; [[Michael Sadler\|Sadler]]; [[Marc-Antoine Jullien\|Jullien]] |
-> | **经贸穿透与影子国家侵蚀命题** | 超国家经贸规制（WTO/GATS）与公共服务外包共同侵蚀民族国家教育主权，加剧大国与小国自主权分化 | 20 世纪末以来的新自由主义全球化、[[Pluri-Scalar Governance\|多标度治理]]空间重组与国际援助外包 | Robertson et al. (2002); Sutton & Arnove (2004); [[Robert Arnove\|Arnove (2009)]] |
+> | **经贸穿透与影子国家侵蚀命题** | 超国家经贸规制（WTO/GATS）与公共服务外包共同侵蚀民族国家教育主权，加剧大国与小国自主权分化 | 20 世纪末以来的新自由主义全球化、[[Pluri-Scalar Governance\|多标度治理]]空间重组与国际援助外包 | Robertson et al. (2002); Sutton and Arnove (2004); [[Robert Arnove\|Arnove (2009)]] |
 > | **多层级防守与次国家分裂命题** | 国家教育主权在超国家层面受到成员国排他性固守，在次国家层面遭遇地方民族主义争夺独立教育系统的解体危机 | 欧洲联盟多层级治理限度、次国家民族主义教育动员、激进分权体制危机 | [[José Luis García Garrido\|García Garrido (2009)]] |
-> | **多层网络与权力共享合法化命题** | 全球化并未终结主权，而是使其转型为跨层级权力共享行使；国内精英将外部软法测评工具化为推行争议改革的合法化杠杆 | 20 世纪末跨国多边治理（OECD/PISA）、国家政策议程重构与新公共管理改革 | Held & McGrew (2005); [[Fazal Rizvi\|Rizvi]] & [[Bob Lingard\|Lingard]] (2009) |
+> | **多层网络与权力共享合法化命题** | 全球化并未终结主权，而是使其转型为跨层级权力共享行使；国内精英将外部软法测评工具化为推行争议改革的合法化杠杆 | 20 世纪末跨国多边治理（OECD/PISA）、国家政策议程重构与新公共管理改革 | Held and McGrew (2005); [[Fazal Rizvi\|Rizvi]] & [[Bob Lingard\|Lingard]] (2009) |
 
 ---
 
@@ -336,9 +336,9 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合[[Pluri-Scalar Governance|多标度治理]]理论，深刻揭示 [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]] 经贸规制与非政府组织[[Shadow State|影子国家]]外包对民族国家教育主权的削弱，剖析南北国家在自主权上的严重分化（pp. 110–112）。
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 系统解构 19 世纪法国[[Victor Cousin|库森]]与美国[[Horace Mann|霍勒斯·曼]]如何分别动用国家公共资源论与自由共和政治合法化依据，推动世俗国家确立教育最高主权并开创两种跨国借用[[Paradigm|范式]]。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009)]] — 系统解构 19 世纪法国[[Victor Cousin|库森]]与美国[[Horace Mann|霍勒斯·曼]]如何分别动用国家公共资源论与自由共和政治合法化依据，推动世俗国家确立教育最高主权并开创两种跨国借用[[Paradigm|范式]]。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 系统阐明民族国家对教育主权的垄断如何确立了整个 20 世纪比较教育的经验容器，剖析主权多样性与欧洲统一性的结构张力，并揭示当代超国家测评[[Disciplina and Doctrina|规训]]与[[Intercultural Education|跨文化教育]]对国家教育主权的双向重塑。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 从欧洲多层级治理视角阐释国家教育主权的现实边界，揭示[[EU|欧盟]]成员国对教育主权的严密固守，以及后发转型国家激进分权过程中次国家地方民族主义对独立教育系统的争夺与体系解体风险。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 结合[[David Held|赫尔德]]与麦克格鲁的主权理论，深刻阐明全球化下国家教育主权并未消亡，而是转型为跨国多层[[Network Governance|网络治理]]中的“权力共享行使”机制，揭示国内政策精英如何将[[OECD|经合组织]]多边测评工具化为推进本土改革的外部合法化杠杆（pp. 443–444, 447）。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合[[David Held|赫尔德]]与麦克格鲁的主权理论，深刻阐明全球化下国家教育主权并未消亡，而是转型为跨国多层[[Network Governance|网络治理]]中的“权力共享行使”机制，揭示国内政策精英如何将[[OECD|经合组织]]多边测评工具化为推进本土改革的外部合法化杠杆（pp. 443–444, 447）。
 
 ---

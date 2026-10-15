@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Reflective Structuration
@@ -181,8 +181,8 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **社会突现命题** | 认识能动性体现为协同重塑探究方向与社会构型的结构化权能 | 长周期科学探究、[[Knowledge Building Theory\|协作知识建构]]环境 | [[Jianwei Zhang\|Zhang et al. (2022)]]; Tao & Zhang (2021) |
-> | **认知深化命题** | 意向领域动态重构驱动从孤立事实向跨领域因果机制演进 | 复杂科学系统探究、跨学科主题学习 | [[Jianwei Zhang\|Zhang et al. (2022)]]; Scardamalia & Bereiter (2014) |
+> | **社会突现命题** | 认识能动性体现为协同重塑探究方向与社会构型的结构化权能 | 长周期科学探究、[[Knowledge Building Theory\|协作知识建构]]环境 | [[Jianwei Zhang\|Zhang et al. (2022)]]; Tao and Zhang (2021) |
+> | **认知深化命题** | 意向领域动态重构驱动从孤立事实向跨领域因果机制演进 | 复杂科学系统探究、跨学科主题学习 | [[Jianwei Zhang\|Zhang et al. (2022)]]; Scardamalia and Bereiter (2014) |
 > | **网络生态命题** | 弹性分组打破孤岛壁垒，促发全班分布式认知交互与协同创新 | 数字化协作空间、开放探究实验室 | [[Jianwei Zhang\|Zhang et al. (2022)]]; Sawyer (2015) |
 
 ---

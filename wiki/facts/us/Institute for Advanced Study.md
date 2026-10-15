@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Institute for Advanced Study
@@ -51,7 +51,7 @@ updated: 2026-10-15
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **普林斯顿高等研究院（Institute for Advanced Study, IAS）**是美国享有盛誉的独立非营利私立基础理论研究机构，专为纯理论数学、理论物理、历史研究与社会科学领域的顶尖学者提供完全免受教学工作量、行政官僚考核与应用成果转化干扰的纯粹探索空间，是纯好奇心驱动探索（[[Curiosity-Driven Research]]）的体制典范。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 21)]]
+> **普林斯顿高等研究院（Institute for Advanced Study, IAS）** 是美国享有盛誉的独立非营利私立基础理论研究机构，专为纯理论数学、理论物理、历史研究与社会科学领域的顶尖学者提供完全免受教学工作量、行政官僚考核与应用成果转化干扰的纯粹探索空间，是纯好奇心驱动探索（[[Curiosity-Driven Research]]）的体制典范。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 21)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 创设于 1930 年，由教育改革家亚伯拉罕·弗莱克斯纳（Abraham Flexner）与班伯格兄妹慈善捐资联合设立，践行“无用知识的有用性（The Usefulness of Useless Knowledge）”办学理念。

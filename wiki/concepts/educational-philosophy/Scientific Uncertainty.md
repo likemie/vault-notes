@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Scientific Uncertainty
@@ -185,7 +185,7 @@ updated: 2026-10-15
 > [!concept-lens] 算法综合与认知情绪机制
 > 探讨大语言模型如何通过表面流畅的单一合成断言掩盖科学证据固有的分歧与不确定性，分析即时解答对学习者认知挣扎与探究耐受力的消极影响。
 
-> [!claim] [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]
+> [!claim] [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]
 > **算法抹平不确定性与探究过早闭合** 真实的学术探究与科学推理历来伴随着认知不确定性、困惑与试错挫败等认识情绪，这些情绪构成驱动深层探究不可或缺的动力（Muis et al., 2018）。然而，[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）往往掩盖其回答背后的信源局限、取向偏差与认知不确定性，以统一、自信且流畅的综合语调输出看似板上钉钉的确定结论。这种无摩擦的即时输出剥离了学习者识别不确定性与衡量对立证据的思维摩擦，不仅造成理解浅层化，更直接导致学习者对不确定性的容忍度（Uncertainty Tolerance）严重退化，在面对[[Open-Mindedness|开放性]]复杂问题时极易陷入思维过早闭合（Premature Closure）。因此，技术界面必须将不确定性显性化呈现（如列出备择假说、置信范围与明确的未知盲区），而非将其抹平成单一答案。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 3–6, 8)]]
 
 ---
@@ -209,7 +209,7 @@ updated: 2026-10-15
 > - **20 世纪初–中叶 — 概率推论与统计不确定性奠基** 量子力学确立海森堡不确定性原理；现代数理统计学（Fisher, Neyman, Pearson）建立假设检验、$p$ 值与[[Confidence Interval\|置信区间]]体系，将“不确定性”从主观盲区正式升格为可精密数学化表达的经验概率度量。
 > - **20 世纪下半叶 — [[Falsification\|证伪主义]]与[[Post-Normal Science\|后常规科学]]（Post-Normal Science）兴起** 波普尔证伪理论与库恩[[Paradigm\|范式]]理论彻底瓦解了[[Positivism\|实证主义]]的绝对神话；面对核能、环境公害等高风险议题，Funtowicz 与 Ravetz 提出“后常规科学”，指出在事实不确定、价值有争议、赌注高昂且决策紧迫的情境下，科学界必须与公众共同参与不确定性的民主协商。
 > - **2020 年代初 — 数字化信息疫情、透明沟通与信任治理合流** 面对气候变化争论、新冠大流行与虚假信息冲击，英国皇家学会等国家科学机构正式确立“透明不确定性沟通”为国家战略规范，彻底告别单向绝对断言的[[Deficit Model of Science Communication\|赤字模型]]，以开放局限重筑社会信任。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 61–64)]]
-> - **2026 — 算法伪确定性批判与不确定性容忍度重塑** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 揭示[[Generative Artificial Intelligence\|生成式人工智能]]以表面流畅统一的回答抹平学术证据内在不确定性的机制，指出过度依赖算法将严重削弱学生对不确定性的耐受力，提出技术界面与教学设计必须显性化呈现不确定性与对立解释，将认识不确定性转化为培育深层评价判断的探究支架。
+> - **2026 — 算法伪确定性批判与不确定性容忍度重塑** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 揭示[[Generative Artificial Intelligence\|生成式人工智能]]以表面流畅统一的回答抹平学术证据内在不确定性的机制，指出过度依赖算法将严重削弱学生对不确定性的耐受力，提出技术界面与教学设计必须显性化呈现不确定性与对立解释，将认识不确定性转化为培育深层评价判断的探究支架。
 
 ---
 
@@ -259,7 +259,7 @@ updated: 2026-10-15
 > - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 系统论证科学不确定性与证据暂定性的[[Epistemology\|认识论]]本质，结合 [[Public Attitudes to Science\|PAS 2025]] 调查与[[Randomised Controlled Trials\|随机对照实验]]，提出以坦诚不确定性披露为基石的《科学传播实践守则》与国家公众信任治理蓝图。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03\|Cohen et al. (2011)]] — 深入剖析教育研究中从[[Positivism\|实证主义]]概率推论、[[Sampling Error\|抽样误差]]到[[Interpretivism|解释主义]]质性不确定性的认识论转向与方法论应对。
 > - [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] — 实证阐明个体认知发展中从绝对确定性盲信向接纳科学不确定性并进行严谨证据权衡的“评价主义”发展机制。
-> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 阐明[[Generative Artificial Intelligence\|生成式人工智能]]抹平科学不确定性所导致的认知过早闭合与容忍度退化危机，提出在人机交互界面中显性表征不确定性与备择解释的治理路径。
+> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 阐明[[Generative Artificial Intelligence\|生成式人工智能]]抹平科学不确定性所导致的认知过早闭合与容忍度退化危机，提出在人机交互界面中显性表征不确定性与备择解释的治理路径。
 
 ---
 
@@ -273,4 +273,4 @@ updated: 2026-10-15
 > | [[Scientific Literacy\|科学素养]] | 育人目标 | 能够理解、衡量并接纳科学证据的不确定性，是现代批判性公民素养的关键分水岭。 |
 > | [[Confidence Interval\|置信区间]] | 方法量化 | 统计学通过置信区间量化抽样不确定性，使科学推论摆脱非黑即白的绝对断言。 |
 > | [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] | 传播治理 | 实证确立透明披露不确定性对公众信任的正向增益，推动科学传播告别单向灌输。 |
-> | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] | 智能时代重构 | 揭示大模型抹平不确定性导致的探究早闭危机，倡导界面显性化表征不确定性与备选解释。 |
+> | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] | 智能时代重构 | 揭示大模型抹平不确定性导致的探究早闭危机，倡导界面显性化表征不确定性与备选解释。 |

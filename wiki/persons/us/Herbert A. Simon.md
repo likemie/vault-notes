@@ -165,7 +165,7 @@ updated: 2026-10-16
 > > 围绕西蒙在 1957 年与 1960 年作出的“20 年内机器将胜任一切人类脑力劳动”的断言，学术界长期存在关于其方法论前提的深刻争论。
 > >
 > > - **[[Herbert A. Simon]]（1960）** 认为基于物理符号系统的逻辑规则与启发式搜索能够完全复刻人类的高级推理机制，脑力劳动在计算结构上易于被机器攻克。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 25)]]
-> > - **[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]** 指出以西蒙为代表的早期先驱严重低估了常识知识、物理具身性与语言上下文的复杂性；其断言虽然过早落空，但确立了机器替代人类智力劳动的终极竞争视界。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 26)]]
+> > - **[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]** 指出以西蒙为代表的早期先驱严重低估了常识知识、物理具身性与语言上下文的复杂性；其断言虽然过早落空，但确立了机器替代人类智力劳动的终极竞争视界。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 26)]]
 
 > [!critique]- 批评索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025)]] — 指出 20 世纪中叶符号 AI 学派关于[[Artificial General Intelligence|通用人工智能]]在 1980 年代全面实现的断言存在显著的时代乐观局限。

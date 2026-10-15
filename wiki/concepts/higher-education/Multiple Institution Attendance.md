@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Multiple Institution Attendance
@@ -52,7 +52,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **多机构就读（Multiple Institution Attendance）**在美国高等教育研究与政策[[Discourse|话语]]中，特指大学生在攻读学士学位期间跨越两所或两所以上高等院校（如两年制社区学院与四年制[[Research Universities|研究型大学]]、跨州公立/私立大学）修读课程、累加学分或实施转学的就读形态。在美国高等教育问责与系统效率话语中，多机构就读常被问题化（problematized）为引发学分折损、延长求学年限并拉低学位完备率（Degree Completion）的“系统效率损耗因子”。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
+> **多机构就读（Multiple Institution Attendance）** 在美国高等教育研究与政策[[Discourse|话语]]中，特指大学生在攻读学士学位期间跨越两所或两所以上高等院校（如两年制社区学院与四年制[[Research Universities|研究型大学]]、跨州公立/私立大学）修读课程、累加学分或实施转学的就读形态。在美国高等教育问责与系统效率话语中，多机构就读常被问题化（problematized）为引发学分折损、延长求学年限并拉低学位完备率（Degree Completion）的“系统效率损耗因子”。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向高等教育内部非线性、跨校际的学业累积路径，涵盖垂直转学（社区学院至大学）、水平转学（同类院校互转）及交叉双重注册（concurrent enrollment）。
@@ -101,10 +101,10 @@ updated: 2026-10-15
 > [!concept-lens] 效率主义绩效问责与流动贬损
 > 探讨高等教育管理主义如何将学生的流动性简化为投入产出比的干扰项。
 
-> [!claim] Pusser & Turner (2004)
+> [!claim] Pusser and Turner (2004)
 > **多机构就读对系统运转效率的负面冲刷** 布赖恩·普瑟与萨拉·特纳（Brian Pusser & Sarah Turner, 2004）指出，在美国高等教育政策分析中，政策制定者高度聚焦于学位完备率（Degree Completion Rates）与财政投入效益。多机构就读被认定为显著延长了获得学士学位的实际年限（如从 4 年拖延至 6 年以上），并因学分折损引发重复选课，推高了州政府对公立高等教育系统的生均补贴负担与学生个人负债，因而被系统性定性为效率损耗源。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
 
-> [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]]
+> [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]]
 > **[[Governmentality|治理术]]框架下对主体身体移动的科层戒备** 在高等教育治理中，科层系统预设学生应当在一个单一大学组织内按部就班完成线性学业。多机构就读打乱了高校对生源流向、留存率（Retention Rates）与毕业率的确定性预测，因而与基础教育中的中途转学一样，被视为对封闭学术空间管理秩序的扰动。
 
 ---
@@ -114,7 +114,7 @@ updated: 2026-10-15
 > [!concept-lens] 阶层双标与流动的道德区隔
 > 探讨空间移动的社会价值评判如何依附于主体的社会经济地位。
 
-> [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]]
+> [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]]
 > **国内流动与国际交换的阶层化[[Discourse|话语]]断裂** 索比与菲舍尔（Sobe & Fischer）尖锐指出，美国高等教育并非完全否定流动，而是施加了鲜明的阶层化双重标准。当富裕阶层大学生开展海外游学时，政策话语绝不将其定性为多机构就读或流动损耗，而是冠以“国际交流（International Exchange）”的崇高之名，并将其编织进跨文化领袖成长的“社会救赎叙事（Social Salvation Narrative）”之中；反之，由于经济困难先在社区学院就读再转入四年制大学的普通工薪学生，其跨校流动则被剔除了一切文化价值，在管理报表上被贬为降低系统完备率的“多机构就读”。
 
 ---
@@ -124,8 +124,8 @@ updated: 2026-10-15
 > [!contrast-table] 多机构就读核心命题归纳
 > | 命题类型 | 核心论断 | 实践机制与政策影响 | 代表文献 |
 > |---|---|---|---|
-> | **系统效率损耗论** | 多机构就读延长学业周期并拉低毕业率，被政策界判定为财政与效率负担 | 推动各州出台转学学分保全法案，压缩学分损耗 | Pusser & Turner (2004) |
-> | **阶层救赎叙事断裂** | 富裕阶层海外交流被神圣化为领导力资本，国内底层跨校就读被贬为技术损耗 | 解构[[Internationalization of Higher Education\|高等教育国际化]]修辞背后的社会阶层再生产 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] |
+> | **系统效率损耗论** | 多机构就读延长学业周期并拉低毕业率，被政策界判定为财政与效率负担 | 推动各州出台转学学分保全法案，压缩学分损耗 | Pusser and Turner (2004) |
+> | **阶层救赎叙事断裂** | 富裕阶层海外交流被神圣化为领导力资本，国内底层跨校就读被贬为技术损耗 | 解构[[Internationalization of Higher Education\|高等教育国际化]]修辞背后的社会阶层再生产 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] |
 
 ---
 
@@ -148,4 +148,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 揭示美国高等教育将[[Student Mobility|学生流动]]问题化为“多机构就读”并作为系统效率损耗的政策建构，对比欧洲一体化对流动的制度褒扬。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 揭示美国高等教育将[[Student Mobility|学生流动]]问题化为“多机构就读”并作为系统效率损耗的政策建构，对比欧洲一体化对流动的制度褒扬。

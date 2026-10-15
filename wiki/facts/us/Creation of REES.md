@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 ## 背景
 
@@ -49,7 +49,7 @@ updated: 2026-10-15
 
 > [!note]- 经过
 > - **2018** — 美国教育部教育科学研究所（[[Institute of Education Sciences\|IES]]）正式启动 **Registry of Efficacy and Effectiveness Studies (REES)**([[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 444]])
-> - REES 由 Anderson, Spybrook & Maynard (2019) 在 *Educational Researcher* 第 48 卷第 1 期上系统描述
+> - REES 由 Anderson, Spybrook and Maynard (2019) 在 *Educational Researcher* 第 48 卷第 1 期上系统描述
 > - REES 被专门设计用于教育领域的项目评估——即"旨在确定教育干预或策略的功效或有效性的研究"（Anderson et al., 2019, p. 48; 引自 Wolf et al., 2020, p. 444）
 
 ## 关键文件／声明
@@ -71,7 +71,7 @@ updated: 2026-10-15
 > [!success] 影响与后果
 > - [[Argument_Wolf_2020_JREE\|Wolf et al. (2020, p. 444)]] 评价 REES 为"教育领域无疑是积极的进步"（undoubtedly a positive advancement）
 > - [[Preregistration\|预注册]]的预期效果：减少选择性报告、约束[[Researcher Degrees of Freedom\|研究者自由度]]、降低[[Publication Bias\|发表偏倚]]——这三者均被识别为[[Developer Effect\|开发者效应]]的可能来源
-> - 然而，Wolf et al. 指出 REES 不能解决全部问题：Gelman & Loken (2014) 论证研究者仍可通过"观察数据"学到很多，学校环境的干预评估常需要灵活调整
+> - 然而，Wolf et al. 指出 REES 不能解决全部问题：Gelman and Loken (2014) 论证研究者仍可通过"观察数据"学到很多，学校环境的干预评估常需要灵活调整
 
 ## 争议与评论
 

@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Engineered Evidence
@@ -93,7 +93,7 @@ updated: 2026-10-15
 > | **典型代表** | 开放获取期刊数据库、学术专著 | [[EEF Teaching and Learning Toolkit\|教育捐赠基金会（EEF）工具包]]、有效教学清算所（WWC）实践指南 | 结构化核心数学与阅读教案、[[Investing in Innovation Program\|投资创新计划（i3）]]准入标准、[[Every Student Succeeds Act\|每个学生成功法案（ESSA）]]证据层级 |
 
 > [!tension] 个体自主依从干预 vs 群体级制度工程化（公共卫生借镜）
-> - **个体自主依从干预（低效、高依从损耗）** 如 Kansagra & Farley（2012）在公共卫生领域所分析的，向糖尿病患者开具二甲双胍处方高度依赖患者个体长期自觉，面临极高的行为断裂与失访损耗；在教育中依赖教师个体自发查阅学术摘要同样深陷依从性困境。
+> - **个体自主依从干预（低效、高依从损耗）** 如 Kansagra and Farley（2012）在公共卫生领域所分析的，向糖尿病患者开具二甲双胍处方高度依赖患者个体长期自觉，面临极高的行为断裂与失访损耗；在教育中依赖教师个体自发查阅学术摘要同样深陷依从性困境。
 > - **群体级制度工程化（普惠、高效、硬约束）** 类似公共卫生中的自来水加氟预防龋齿或城市运动空间规划。这种群体级措施（Population-level Measures）直接在环境与制度层级完成工程化改造，个体无需克服复杂的认知与意志阻力即可天然获益，人均干预成本极低且因果成效具有极高的[[Reliability\|可靠性]]。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 598)]]
 
 ---
@@ -158,4 +158,4 @@ updated: 2026-10-15
 > [!evidence-grid] 证据工程化与[[Knowledge Mobilisation\|知识动员]]代表性研究
 > - **[[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]]** [[Systematic Review\|系统综述]]了 335 万篇文献并甄选出 33 项因果实证评估，正式提出证据工程化作为突破被动分发与弱互动失效局限的根本出路。
 > - **Doabler et al. (2014)** 通过 379 次现场[[Classroom Observation|课堂教学观察]]，证实工程化核心数学预制教案可有效消除底层审计负担并显著提升课堂有效实践频次。
-> - **Kansagra & Farley (2012)** 从公共卫生政策视角对比个体依从治疗与群体级工程化措施，为教育治理层面的法定工程化提供了理论与经验借镜。
+> - **Kansagra and Farley (2012)** 从公共卫生政策视角对比个体依从治疗与群体级工程化措施，为教育治理层面的法定工程化提供了理论与经验借镜。

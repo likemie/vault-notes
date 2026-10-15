@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Walton's Argumentation Schemes
@@ -141,4 +141,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] — 将[[Douglas Walton\|沃尔顿]]论证型式与基于 [[AIR Model of Epistemic Cognition\|AIR]] 模型的科学论证评价方案进行理论对质，揭示其在[[Epistemology\|认识论]]正当性、大规模证据整合及分歧裁决机制上的核心局限。
+> - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 将[[Douglas Walton\|沃尔顿]]论证型式与基于 [[AIR Model of Epistemic Cognition\|AIR]] 模型的科学论证评价方案进行理论对质，揭示其在[[Epistemology\|认识论]]正当性、大规模证据整合及分歧裁决机制上的核心局限。

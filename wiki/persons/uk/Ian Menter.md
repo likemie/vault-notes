@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Ian Menter
@@ -129,7 +129,7 @@ updated: 2026-10-15
 > - **跨国传播** 其教师教育模型在苏格兰、北爱尔兰、澳大利亚及欧洲大陆多国教师专业标准制定中产生广泛回响。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] — 结合英格兰 35 年历史与 20 位[[Elite Interview\|精英访谈]]，提出[[Evidence Era\|证据时代]]与[[Policy-Based Evidence-Making\|基于政策的证据制造]]概念框架。
+> - [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] — 结合英格兰 35 年历史与 20 位[[Elite Interview\|精英访谈]]，提出[[Evidence Era\|证据时代]]与[[Policy-Based Evidence-Making\|基于政策的证据制造]]概念框架。
 
 ---
 

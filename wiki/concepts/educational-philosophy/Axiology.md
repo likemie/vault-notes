@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Axiology
@@ -53,7 +53,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **价值论（Axiology）**是探究者在研究实践中所持有的价值、信念与意义目的系统（the values and beliefs that we hold），主要回答“什么被视为有价值的”（what is deemed valuable）以及“理解的根本目的是什么”（the purposes of understanding）。作为希区柯克与休斯（Hitchcock & Hughes, 1995）五层研究推导阶梯的最顶层哲学维度，价值论将研究从纯技术性的操作规程提升为受世界观与价值取向驱动的人类实践活动[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 111)]]。
+> **价值论（Axiology）** 是探究者在研究实践中所持有的价值、信念与意义目的系统（the values and beliefs that we hold），主要回答“什么被视为有价值的”（what is deemed valuable）以及“理解的根本目的是什么”（the purposes of understanding）。作为希区柯克与休斯（Hitchcock & Hughes, 1995）五层研究推导阶梯的最顶层哲学维度，价值论将研究从纯技术性的操作规程提升为受世界观与价值取向驱动的人类实践活动[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 111)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义** 探求研究者的价值承诺、伦理导向与意义建构，界定何种研究产出具有实践价值与道德正当性。

@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Portfolio-Based Research Funding
@@ -123,7 +123,7 @@ updated: 2026-10-09
 > [!concept-lens] 探索-利用权衡与知识池再充实
 > 阐明战略用途驱动的研究与看似无功利的基础探索在国家研发大盘中的互补关系。
 
-> [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]; [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied (2008)]]
+> [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]; [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]]
 > **双重驱动与不可预测性兼容假说** 组合式资助绝非将所有经费押注于短期应用或预设技术的[[Pragmatic Paradigm|实用主义]]清单，而是对不同认知领域采取清晰的策略区分：在瓶颈明确、方向清晰的领域（如量子通信器件、蛋白质结构预测），依托[[Pasteur's Quadrant|巴斯德象限]]组织跨学科工程团队集中攻关；在迷雾重重、前沿未知的领域，则坚定保留对纯数学、抽象物理等纯好奇心探索的支持（如黎曼微分几何在百年后成为广义相对论与密码学基石）。组合式资助的艺术在于明确何处战略攻坚能加速进步、何处只能依托好奇心进行去中心化探索，从而持久充实全社会的公共知识池。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 30)]]; [[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]
 
 ---
@@ -163,7 +163,7 @@ updated: 2026-10-09
 > | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证文献 |
 > |:---|:---|:---|:---|
 > | **治理诊断** | **偶然组合与在位者惯性打破** | 克服学科面板被动汇总与历史基数惯性，消除在位者垄断与青年学术避险 | [[Argument_Stephan_2013_NBER\|Stephan (2013)]] |
-> | **认知权衡** | **[[Pasteur's Quadrant\|巴斯德象限]]与纯好奇探索平衡** | 协调战略用途驱动攻坚与深厚迷雾自由搜索，持续充实国家公共知识蓄水池 | [[Argument_Atkinson_2008_TIS\|Atkinson & Blanpied (2008)]] |
+> | **认知权衡** | **[[Pasteur's Quadrant\|巴斯德象限]]与纯好奇探索平衡** | 协调战略用途驱动攻坚与深厚迷雾自由搜索，持续充实国家公共知识蓄水池 | [[Argument_Atkinson_2008_TIS\|Atkinson and Blanpied (2008)]] |
 > | **机制设计** | **多元选拔与[[Metascience\|元科学]]实验确证** | 引入金券、对人资助与[[Pull Mechanisms for Innovation\|拉动机制]]，依托元科学[[Randomised Controlled Trials\|随机对照实验]]实现机制自我纠错 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] |
 
 ---
@@ -225,4 +225,4 @@ updated: 2026-10-09
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室呈交总统的重大战略报告，系统提出将 2000 亿美元联邦研发构建为主动配置的资助组合，涵盖对人资助、金券制、[[Pull Mechanisms for Innovation|拉动机制]]、[[Focused Research Organization|FRO]] 与[[Metascience|元科学]]单元。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 系统评述美国 2026 科技政策[[Paradigm|范式]]转变与技术导向型契约确立，剖析国家研发资助机制的结构性分化。
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 经济学视角剖析美国科研资助机制与青年学者在面对极低成功率时的学术避险行为。
-> - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied (2008)]] — 梳理战后美国大学去中心化同行竞争资助体制与产学协同演进历程。
+> - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 梳理战后美国大学去中心化同行竞争资助体制与产学协同演进历程。

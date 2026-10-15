@@ -77,7 +77,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Participant Observation
@@ -98,7 +98,7 @@ updated: 2026-10-15
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 知识是情境性的、由参与者建构的；研究者通过沉浸和理解获得知识，而非通过距离和测量。
 > - **研究者角色** 研究者是“人即研究工具”——既是参与者又是观察者。Flick（1998, p. 60）区分四种角色：陌生人、访客、内部人（insider）和入门者（initiate）。角色在参与-观察光谱上滑动，Swain（2006）指出研究者在实践中可能需要在从完全被动到完全积极的整个连续体上切换角色。Gold（1958）提出了观察者角色的经典四层连续体分类（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, pp. 457–460]]）：完全参与者（隐蔽身份的内部人，可能获得内部人知识但缺乏客观性）、参与者即观察者（公开身份的内部人）、观察者即参与者（非群体成员但少量参与，角色公开）、完全观察者（只观察，脱离群体）。完全参与和完全脱离各有局限——前者有“**[[Going Native|本土化]]**”（going native）的风险，研究者将群体价值观和规范当作自己的，不再保持客观性和研究者身份（Kawulich, 2005, p. 4）；后者与被观察者没有接触，推断具有高风险。参与式观察通常在达到“**[[Saturation|理论饱和]]**”时停止——被观察的情境不断重复已收集到的数据（Adler & Adler, 1994, p. 380; Morrison et al., 2011, p. 469）。
-> - **有效性标准** 长期驻留、[[Rich and Thick Description|厚描述]]、[[Triangulation|三角验证]]、成员检查、同伴情况报告。Spindler & Spindler（1992, p. 65）认为[[Ethnography|民族志]]效度通过研究者在场时间足够长、观察到事件重复发生来获得。Morrison（1993, p. 88）强调通过长期沉浸，不仅情境的显著特征会浮现，而且能获得诸因素相互关系的更整体性视角。
+> - **有效性标准** 长期驻留、[[Rich and Thick Description|厚描述]]、[[Triangulation|三角验证]]、成员检查、同伴情况报告。Spindler and Spindler（1992, p. 65）认为[[Ethnography|民族志]]效度通过研究者在场时间足够长、观察到事件重复发生来获得。Morrison（1993, p. 88）强调通过长期沉浸，不仅情境的显著特征会浮现，而且能获得诸因素相互关系的更整体性视角。
 > - **不声称回答的问题** 不能估计因果[[Effect Size|效应量]]、不能统计概括到人口总体、不能从观察中直接推断参与者的内在心理状态。
 
 > [!method-stack] 方法层级
@@ -127,7 +127,7 @@ updated: 2026-10-15
 
 ## 进入现场的策略
 
-进入现场是参与观察中最微妙且最具挑战性的环节。LeCompte & Preissle（1993, p. 112）指出最关键要素是研究者的灵活性和对参与者行为反应细微差别的敏感。De Laine（2000, p. 41）补充道，与人相处的能力和愿意加入并分享群体活动经验是获得和维持进入的关键标准。
+进入现场是参与观察中最微妙且最具挑战性的环节。LeCompte and Preissle（1993, p. 112）指出最关键要素是研究者的灵活性和对参与者行为反应细微差别的敏感。De Laine（2000, p. 41）补充道，与人相处的能力和愿意加入并分享群体活动经验是获得和维持进入的关键标准。
 
 Wolff（2004, pp. 195–196）和 Flick（1998, p. 57）指出进入现场的六项关键观察：
 
@@ -213,5 +213,5 @@ Wolff（2004, pp. 195–196）和 Flick（1998, p. 57）指出进入现场的六
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, pp. 290–293)]] — 教材将参与观察列为个案研究的核心观察方式，讨论了参与观察的四项优势（Bailey, 1994）、与[[Non-participant Observation\|非参与式观察]]的连续体区分，以及六种研究类型示例（Acker/Boulton/Wild/Blease & Cohen/Antonsen/Houghton）。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011, pp. 425–430)]] — 教材将参与观察列为自然主义和[[Ethnography\|民族志研究]]的主要数据收集方法，讨论了研究者角色的光谱（完全观察到完全参与）和角色冲突/边际性管理。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, pp. 456–472)]] — 教材专章系统介绍 Gold（1958）的四层观察者角色连续体、参与观察的流程（描述性→聚焦→选择性观察）、[[Field Notes\|田野笔记]]的多层记录框架、[[Emic and Etic\|主位与客位]]分析、“[[Going Native\|本土化]]”风险和[[Saturation\|理论饱和]]作为停止观察的标准。
-> - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne (2003, pp. 33–34)]] — 详尽考证 2000 年卡斯尔草案（H.R. 4875）将参与观察明文法定贬低为“初步形式”的历史事件，阐明学术界如何依据“方法契合[[Research Question|研究问题]]”原则为现场沉浸观察争取同等科学合法性。
+> - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003, pp. 33–34)]] — 详尽考证 2000 年卡斯尔草案（H.R. 4875）将参与观察明文法定贬低为“初步形式”的历史事件，阐明学术界如何依据“方法契合[[Research Question|研究问题]]”原则为现场沉浸观察争取同等科学合法性。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128–131)]] — 阐明比较教育学立足自然情境探索变异的本质特征，指出参与观察作为核心一手调查方法打破了早期对[[Primary and Secondary Documents|二手文献]]诠释的狭隘依赖。

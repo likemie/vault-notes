@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-16
 title: CERN
 aliases:
   - 欧洲核子研究组织
@@ -54,7 +54,7 @@ aliases:
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **欧洲核子研究组织（European Organization for Nuclear Research / CERN）**是 1954 年由欧洲 12 国联合创设、总部设于瑞士日内瓦的全球顶级跨国[[Big Science|大科学]]基础研究机构；其核心使命是为全球粒子物理学界提供超越单国财政与工程极限的巨型科研基础设施（如大型强子对撞机 [Large Hadron Collider, LHC]），以探索物质基本组成与宇宙演化规律。在科技政策视阈中，CERN 不仅是纯基础科学探索的圣殿，更是依托独特的战略性公共采购与供应链技术学习机制在民用工业领域催生巨额外溢效应的典范机构。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 797)]]
+> **欧洲核子研究组织（European Organization for Nuclear Research / CERN）** 是 1954 年由欧洲 12 国联合创设、总部设于瑞士日内瓦的全球顶级跨国[[Big Science|大科学]]基础研究机构；其核心使命是为全球粒子物理学界提供超越单国财政与工程极限的巨型科研基础设施（如大型强子对撞机 [Large Hadron Collider, LHC]），以探索物质基本组成与宇宙演化规律。在科技政策视阈中，CERN 不仅是纯基础科学探索的圣殿，更是依托独特的战略性公共采购与供应链技术学习机制在民用工业领域催生巨额外溢效应的典范机构。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 797)]]
 
 > [!org-context] 机构背景
 > - **创设时间与成员规模** 1954 年 9 月在[[UNESCO|联合国教科文组织]]倡议下由 12 个欧洲创始国签署公约成立，现已扩展为包含 23 个成员国、数百所全球顶尖高校与数万名物理学家的跨国大科学联盟。

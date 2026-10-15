@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-09'
-updated: 2026-10-12
+updated: 2026-10-16
 ---
 
 # Opportunist Mode
@@ -184,7 +184,7 @@ updated: 2026-10-12
 > | [[Theoretical Perspective\|理论视角]] | 核心代表 | 理论关联与解释机制 |
 > |---|---|---|
 > | **[[Culture as Toolkit\|文化工具箱理论]]** | Ann Swidler (1986); [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] | 机会主义者是纯粹工具箱[[Paradigm\|范式]]的典型体现：他们灵活娴熟地调用文化资源达成既定世俗目的，但文化工具本身不具备规范性约束力，目的与意义彻底脱钩。 |
-> | **[[Rational Action Theory\|理性行动理论]]** | Breen & Goldthorpe (1997); [[Rational Action Theory\|RAT]] | 机会主义模式展现了微观个体面对教育与劳动力市场约束时的工具理性成本收益权衡，将各类规章制度与实习机会转化为最大化世俗资本的策略。 |
+> | **[[Rational Action Theory\|理性行动理论]]** | Breen and Goldthorpe (1997); [[Rational Action Theory\|RAT]] | 机会主义模式展现了微观个体面对教育与劳动力市场约束时的工具理性成本收益权衡，将各类规章制度与实习机会转化为最大化世俗资本的策略。 |
 
 ---
 

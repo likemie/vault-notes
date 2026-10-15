@@ -117,7 +117,7 @@ related_instruments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Systematic Review
@@ -139,7 +139,7 @@ updated: 2026-10-15
 > - **[[Unit of Analysis\|分析单位]]** 单项独立实证研究（study-level）或特定干预项目为基本分析单位；亦可以人群亚组、设计类型或干预剂量为亚单位。
 > - **输出形式** 结构化系统综述技术报告——包含检索流程图（如 [[PRISMA\|PRISMA Flow Diagram]]）、纳入排除清单、偏倚风险质量评定矩阵、机制综合叙述及政策建议；定量综合时输出合并效应量、[[Forest Plot\|森林图]]及[[Funnel Plot\|漏斗图]]。
 
-> [!citation-card]- Evans & Benefield (2001) 的系统综述规范界定
+> [!citation-card]- Evans and Benefield (2001) 的系统综述规范界定
 > 系统综述要求使用最小化偏差的技术、遵循搜索相关原始研究（通常为实证研究）的协议和标准、明确纳入排除标准、规定可接受的方法论严谨性标准、界定纳入研究的范围、采用团队方法减少偏差、采用一致且明确的方法综合来自不同研究的信息，并得出谨慎的结论和建议。（Evans & Benefield, 2001, p. 529; Hemsley-Brown & Sharp, 2003）
 >
 > *Systematic reviews require the use of techniques to minimize bias, they follow protocols and criteria for searching for relevant primary, usually empirical, studies, their inclusion and exclusion, the standards for acceptable methodological rigour, their relevance to the topic in question, the scope of the studies included, team approaches to reviewing in order to reduce bias, the adoption of a consistent and clearly stated approach to combining information from across different studies, and the careful, relevant conclusions and recommendations drawn.*
@@ -211,7 +211,7 @@ updated: 2026-10-15
 > > 运用 GRADE 等工具对证据体的整体确定性进行分级降级或升级判定，清晰指出方法学局限，严谨推导政策与实践启示，严格对照 [[PRISMA]] 检查清单撰写规范技术报告。
 
 > [!contrast-table] 主流系统综述操作框架的阶段对应
-> | 核心任务阶段 | 通用五步程序 | [[EPPI-Centre]] 框架 | Evans & Benefield (2001) | Cooper (2010) 框架 |
+> | 核心任务阶段 | 通用五步程序 | [[EPPI-Centre]] 框架 | Evans and Benefield (2001) | Cooper (2010) 框架 |
 > |---|---|---|---|---|
 > | **设定问题与协议** | 制定问题与预注册 | 综述界定与启动规程 | 明确具体研究问题 | 问题形成（Formulation） |
 > | **穷尽检索文献** | 系统检索与追踪 | 收集并初步描述研究 | 全面穷尽式文献搜索 | 检索文献（Searching） |
@@ -257,7 +257,7 @@ updated: 2026-10-15
 > [!method-limits] 方法局限与治理隐患
 > - **偏误来源与“垃圾进，垃圾出”困境** 检索策略漏检未公开发表成果将直接引发严重的[[Publication Bias\|发表偏倚]]；纳入标准过严会导致有价值的[[Ecological Validity\|生态效度]]研究被机械剔除，标准过宽则引入低质量研究污染证据体。Eysenck 针对[[Meta-analysis\|元分析]]提出的“垃圾进，垃圾出”（Garbage in, garbage out）批评对系统综述同样构成终极挑战（[[Argument_Higgins_2016_ROE\|Higgins, 2016, pp. 35, 38]]）。
 > - **网络证据门户的“系统性标准塌陷”（Gough & White, 2018; [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022]]）**
->   [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022, pp. 154–155)]]与 Gough & White (2018) 对全球 15 个代表性网络证据门户的方法学调查揭示了惊人的实证事实：**仅有 40.0%（6 个）证据门户严格遵循系统综述标准**！其余 60% 均不同程度地退化为单兵研究评定：
+>   [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022, pp. 154–155)]]与 Gough and White (2018) 对全球 15 个代表性网络证据门户的方法学调查揭示了惊人的实证事实：**仅有 40.0%（6 个）证据门户严格遵循系统综述标准**！其余 60% 均不同程度地退化为单兵研究评定：
 >   - **打包方案类门户的全面塌陷（0% 综述率）** 面向具体商业干预方案（Packaged Programmes）的 5 个门户（如 [[Social Programs That Work]]）**完全未要求系统综述（0%）**，而是 100% 仅凭 1–2 项单兵试验（如 1–2 项高质量 [[Randomised Controlled Trials\|RCT]]）就直接定性方案“有效”并授予顶级证据等级。这种做法存在极高的挑选性偏倚风险，完全掩盖了同一干预在其他情境中可能存在的零效应或负效应；
 >   - **通用策略类门户的严谨坚守（100% 综述率）** 聚焦通用策略（Broad Approaches）的 6 个门户（包括英国 [[EEF Teaching and Learning Toolkit\|EEF Toolkit]]、[[Early Intervention Foundation\|EIF]] Guidebook、College of Policing、CHI、福祉中心以及 Cochrane 图书馆）**100% 严格依托系统综述**与元分析，系统规避了商业机构操纵单兵研究垄断公办采购的弊端。
 > - **临床医学标准（Cochrane / GRADE）的跨学科移植张力** 系统综述发轫于封闭可控的循证医学领域；然而当其偏倚评估与 GRADE 分级体系被机械移植至教育与复杂社会政策领域时，往往导致过度推崇封闭环境下的人工干[[Pilot Testing\|预实验]]，而系统性惩罚和贬低具备高度生态效度的复杂[[Qualitative Research\|质性研究]]与[[Implementation and Process Evaluation\|过程评估]]，诱发严重的方法学削足适履（[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, p. 154]]）。

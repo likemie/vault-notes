@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-12
+updated: 2026-10-16
 ---
 
 # Insurrectionaries
@@ -192,12 +192,12 @@ updated: 2026-10-12
 > | [[Theoretical Perspective\|理论视角]] | 核心代表 | 理论关联与解释机制 |
 > |---|---|---|
 > | **[[Theory of Gradual Institutional Change\|渐进制度变迁理论]]** | [[James Mahoney\|Mahoney]] & [[Kathleen Thelen\|Thelen]] (2009) | 奠定起义者在弱否决与低裁量情境下的分析地位，阐明其驱动[[Institutional Displacement\|制度置换]]的机制与联盟逻辑。 |
-> | **[[Punctuated Equilibrium Theory\|间断均衡理论]]** | Baumgartner & Jones (1993); Krasner (1984) | 传统间断均衡理论将起义者视为关键节点断裂期的危机催化主体，马奥尼与希伦进一步将其延伸至长时段双轨置换演化中。 |
-> | **[[Rational Action Theory\|理性行动理论]]** | Breen & Goldthorpe (1997); [[Rational Action Theory\|RAT]] | 解释起义行动者在面对合规成本与收益预期时为何敢于违规，以及中间派基于临界阈值进行理性偏好倒戈的选择机制。 |
+> | **[[Punctuated Equilibrium Theory\|间断均衡理论]]** | Baumgartner and Jones (1993); Krasner (1984) | 传统间断均衡理论将起义者视为关键节点断裂期的危机催化主体，马奥尼与希伦进一步将其延伸至长时段双轨置换演化中。 |
+> | **[[Rational Action Theory\|理性行动理论]]** | Breen and Goldthorpe (1997); [[Rational Action Theory\|RAT]] | 解释起义行动者在面对合规成本与收益预期时为何敢于违规，以及中间派基于临界阈值进行理性偏好倒戈的选择机制。 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，界定起义者作为长期谋求推翻旧制度、短期采取公开抵制策略的变革行动者，阐明其驱动[[Institutional Displacement|制度置换]]的微观机制。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，界定起义者作为长期谋求推翻旧制度、短期采取公开抵制策略的变革行动者，阐明其驱动[[Institutional Displacement|制度置换]]的微观机制。

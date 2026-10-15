@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Von Neumann Architecture
@@ -161,7 +161,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 机构 |
 > |---|---|---|---|
 > | **知识公地与技术扩散** | 联邦资助的非专有技术图纸公开打破军事垄断，催生 IAS 派生计算机家族 | 战后计算科学建制化与早期国防资助 | [[Argument_Mowery_2011_NBER\|Mowery (2011, pp. 171–174)]] |
-> | **软硬件解耦与通用化** | 存储程序架构确立通用计算基座，支撑下游海量软件共同发明 | 通用目的技术（GPT）演化与产业组织分工 | [[Argument_Mowery_2011_NBER\|Mowery (2011, pp. 178–180, 185)]]; Bresnahan & Trajtenberg (1995) |
+> | **软硬件解耦与通用化** | 存储程序架构确立通用计算基座，支撑下游海量软件共同发明 | 通用目的技术（GPT）演化与产业组织分工 | [[Argument_Mowery_2011_NBER\|Mowery (2011, pp. 178–180, 185)]]; Bresnahan and Trajtenberg (1995) |
 > | **超越传统架构与非冯范式** | 破解内存墙与能耗瓶颈，部署存内计算、类脑神经形态与软硬件协同设计 | 后摩尔时代微电子战略与先导计算研究 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 16–17)]] |
 
 ---

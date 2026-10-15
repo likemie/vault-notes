@@ -64,7 +64,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **学生流动性（Student Mobility）**指学生在教育体系内部跨越学校、学区、地域乃至国家地理边界的空间位移与机构转换过程。在比较教育与政策社会学中，该概念不仅描述物理迁移现象，更是现代国家[[Spatial Governmentality|空间治理术]]（Spatial [[Governmentality]]）与空间实践建构出的核心政策议题；其在跨国政策[[Discourse|话语]]中呈现截然对立的价值编码：在欧洲一体化语境中被建构为促进超国家公民认同与灵活[[Employability|就业能力]]的高级制度资本，而在美国基础教育问责语境下则被问题化为伴随贫困与病态家庭环境、危及学校绩效达标的[[Transiency|流动漂泊]]（Transiency）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–364)]]
+> **学生流动性（Student Mobility）** 指学生在教育体系内部跨越学校、学区、地域乃至国家地理边界的空间位移与机构转换过程。在比较教育与政策社会学中，该概念不仅描述物理迁移现象，更是现代国家[[Spatial Governmentality|空间治理术]]（Spatial [[Governmentality]]）与空间实践建构出的核心政策议题；其在跨国政策[[Discourse|话语]]中呈现截然对立的价值编码：在欧洲一体化语境中被建构为促进超国家公民认同与灵活[[Employability|就业能力]]的高级制度资本，而在美国基础教育问责语境下则被问题化为伴随贫困与病态家庭环境、危及学校绩效达标的[[Transiency|流动漂泊]]（Transiency）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–364)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 学生在不同教育机构与地理空间之间的移动行为，以及权力网络对该移动施加的制度性分类与合法性编码。
@@ -161,7 +161,7 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 关键理论工具 | 代表学者 |
 > |---|---|---|---|
-> | **阶层道德双标** | 欧美政策话语对学生流动的价值编码呈现阶层化分歧，精英跨国位移被赞美而底层中途转校被贬抑 | 符号话语建构、绩效问责制 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]]、Nóvoa (2002) |
+> | **阶层道德双标** | 欧美政策话语对学生流动的价值编码呈现阶层化分歧，精英跨国位移被赞美而底层中途转校被贬抑 | 符号话语建构、绩效问责制 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]]、Nóvoa (2002) |
 > | **空间治理容器** | 现代学校依据领地划界、统计制图与空间规则运作，承担固定人口与筛选社会准入资格双重职能 | 空间治理术（Rose, 1999） | Rose (1999) |
 > | **定居与能动博弈** | 国家正规学校的强制定居化规训与边缘族群将识字教育作为生存保险的微观能动性相互交织 | 文化失调、强制定居化、社会资本 | Dyer (2001) |
 > | **实证动因与避险** | 中小学中途转校主要由居住变迁驱动，并构成底层家庭逃离不良环境的理性避险决策 | 居住流动性、学校避险策略 | Rumberger (2003)、Kerbow et al. (2003) |
@@ -208,8 +208,8 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid] 学生流动成因实证与制度反思研究
-> - **[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]]** 揭示欧美政策[[Discourse|话语]]对学生流动的阶层化道德双标，解构学校作为空间封闭容器对边缘群体的[[Disciplina and Doctrina|规训]]机制。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–368)]]
+> - **[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]]** 揭示欧美政策[[Discourse|话语]]对学生流动的阶层化道德双标，解构学校作为空间封闭容器对边缘群体的[[Disciplina and Doctrina|规训]]机制。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–368)]]
 > - **Rumberger（2003）** 实证检验美国中小学生中途转校动因，发现 60% 源于家庭客观居住变迁，反驳纯粹家庭病态化假设。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
 > - **Kerbow et al.（2003）** 调查芝加哥城市学校，证实同城近距离转校构成底层家庭逃离混乱不良学校的主动避险策略。
-> - **Levinson & Sparkes（2005）** 运用微观空间[[Ethnography|民族志]]揭示正规学校固化物理建筑对大篷车[[Migrant Children|流动儿童]]造成的严重空间文化失调。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 366)]]
+> - **Levinson and Sparkes（2005）** 运用微观空间[[Ethnography|民族志]]揭示正规学校固化物理建筑对大篷车[[Migrant Children|流动儿童]]造成的严重空间文化失调。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 366)]]
 > - **Dyer（2001）** 剖析印度拉巴里游牧部族在国家强制定居化政策下，主动利用学校识字教育作为家庭生计分散风险的保险策略。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 366–367)]]

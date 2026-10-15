@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Teacher Training Agency
@@ -129,7 +129,7 @@ updated: 2026-10-15
 > > [!axis] 准独立 Quango 撤销后的直接政治把关
 > > > 2012 年 TDA 撤销对[[Policy Network\|政策网络]]中介机制的影响。
 > > >
-> > - **政策网络研究视角** [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] 访谈前 TDA 高级官员指出，TDA 被撤销后，其缓冲与专业中介职能丧失，教育部直接充当[[Gatekeepers\|守门人]]，导致[[Research Utilization\|证据使用]]更加屈从于部长的政治落地偏好与[[Policy-Based Evidence-Making\|基于政策的证据制造]]。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 91, 94)]]
+> > - **政策网络研究视角** [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] 访谈前 TDA 高级官员指出，TDA 被撤销后，其缓冲与专业中介职能丧失，教育部直接充当[[Gatekeepers\|守门人]]，导致[[Research Utilization\|证据使用]]更加屈从于部长的政治落地偏好与[[Policy-Based Evidence-Making\|基于政策的证据制造]]。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 91, 94)]]
 
 ---
 

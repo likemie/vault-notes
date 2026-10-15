@@ -68,7 +68,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
 status: draft
 created: 2026-07-12
-updated: '2026-09-12'
+updated: 2026-10-16
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
@@ -140,7 +140,7 @@ Kerlinger（1970）将事后回溯研究定义为：自变量（IV）已经发�
 > | 终点 | 产生因变量差异 → 测量差异 | 试图建立因果联系 |
 
 > [!conclusion] Spector（1993, p. 42）的定性
-> 事后回溯研究是一种试图将非实验研究设计转化为**伪实验形式（pseudo-experimental form）**的程序，因此事后回溯实验是准实验（quasi-experiment）的一种形式（pp. 305–306）。
+> 事后回溯研究是一种试图将非实验研究设计转化为**伪实验形式（pseudo-experimental form）** 的程序，因此事后回溯实验是准实验（quasi-experiment）的一种形式（pp. 305–306）。
 
 ---
 
@@ -342,7 +342,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 > - **控制单一自变量不切实际** 控制除一个自变量外的所有变量可能不切实际和人为化，阻碍与其他影响变量的正常交互
 > - **实验室控制不可行** 实验室控制在许多[[Research Purpose\|研究目的]]上不切实际、成本过高或伦理上不可取
 > - **社会、教育和心理情境** 自变量通常超出研究者控制：吸烟与肺癌研究、教师特征研究、政治/宗教归属与态度关系、学校成就与社会阶层/种族/性别/智力等自变量的关系
-> - **大样本研究和小样本研究均可** Stables（1990）的大规模混合/单性别学校学生差异研究；Arnold & Atkins（1991）的小样本听障学生社会与情感适应研究
+> - **大样本研究和小样本研究均可** Stables（1990）的大规模混合/单性别学校学生差异研究；Arnold and Atkins（1991）的小样本听障学生社会与情感适应研究
 > - **大型公共数据库分析** Ayres（2008）展示了事后回溯设计中大样本和子样本数据集的概率和规律性力量，特别是分析考虑了标准差时（两倍标准差覆盖 95% 总体）。这些在[[Evidence-Based Education\|循证教育]]中可能比人类直觉更可靠（Ayres, 2008, chapter 10）（p. 311）
 
 ---
@@ -380,11 +380,11 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 > [!weakness] 事后回溯设计的十三项局限（pp. 312–313）
 > - 无法操纵自变量或随机化被试，即**缺乏控制**的根本问题
 > - 无法确定因果因素是否被纳入甚至被识别（cannot know whether the causative factor has been included or even identified）
-> - 可能没有单一因素是原因，即**多因性（multiple causes）**的挑战
+> - 可能没有单一因素是原因，即**多因性（multiple causes）** 的挑战
 > - 某一特定结果在不同情境中可能源自**不同原因（different causes on different occasions）**
 > - 发现关系后，难以判断何为因、何为果，必须考虑**反向因果（reverse causation）**
 > - 两个因素的关系**不能确立**因果关系（does not establish cause and effect）
-> - 事后回溯假设生成于数据收集**之后**，因此无法被[[Falsification\|证伪]]（Babbie, 2010, p. 462），即缺乏**可证伪性（nullifiability）**和确认性
+> - 事后回溯假设生成于数据收集**之后**，因此无法被[[Falsification\|证伪]]（Babbie, 2010, p. 462），即缺乏**可证伪性（nullifiability）** 和确认性
 > - 分类为**二分组的困难（problematic dichotomous classification）**
 > - 解释困难与**事后归因谬误**的危险，即相信因为 X 先于 O，所以 X 引发 O
 > - 匹配关键变量的尝试导致**样本缩减（shrinkage of sample）** Spector（1993, p. 43）指出这一风险；Lewis-Beck（1993, p. 43）报告了从 1,194 缩减到 46 的实例
@@ -462,7 +462,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 > 8. **分析、解释并报告发现** 呈现分析结果。
 
 > [!warning] 关键提醒
-> Lord（1973, p. 7）强调：证据**说明（illustrate）**假设，不能**检验（test）**假设。事后回溯研究的核心弱点是缺乏对自变量影响因变量（因果设计）或影响组间因变量差异（因果-比较设计）的控制（p. 316）。
+> Lord（1973, p. 7）强调：证据**说明（illustrate）** 假设，不能**检验（test）** 假设。事后回溯研究的核心弱点是缺乏对自变量影响因变量（因果设计）或影响组间因变量差异（因果-比较设计）的控制（p. 316）。
 
 ---
 

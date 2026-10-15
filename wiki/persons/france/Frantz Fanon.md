@@ -39,7 +39,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: 2026-09-11
+updated: 2026-10-16
 ---
 # Frantz Fanon
 
@@ -55,7 +55,7 @@ Fanon 在法国里昂大学学习精神病学，期间受到 Négritude 运动�
 ## 主要著作
 
 > [!abstract]
-> - Fanon, F. (1952/1986). *Black Skin, White Masks*（《黑皮肤，白面具》）. Grove Press. — 以[[Phenomenology\|现象学]]方法分析殖民地主体的心理经验，核心论点是：殖民主义不仅通过经济和政治统治运作，更通过制造被殖民者的自我异化来运作——黑人被强制认同于白人的语言和文化标准，黑人不是一个人，而是一个黑人。提出**真正的去异化（authentic disalienation）**概念。
+> - Fanon, F. (1952/1986). *Black Skin, White Masks*（《黑皮肤，白面具》）. Grove Press. — 以[[Phenomenology\|现象学]]方法分析殖民地主体的心理经验，核心论点是：殖民主义不仅通过经济和政治统治运作，更通过制造被殖民者的自我异化来运作——黑人被强制认同于白人的语言和文化标准，黑人不是一个人，而是一个黑人。提出**真正的去异化（authentic disalienation）** 概念。
 > - Fanon, F. (1959/1965). *A Dying Colonialism*（《垂死的殖民主义》）. Monthly Review Press. — 以阿尔及利亚革命为案例，分析殖民社会在革命过程中的社会和文化转变。
 > - Fanon, F. (1963). *The Wretched of the Earth*（《全世界受苦的人》）. Grove Press. — 以论暴力 (On Violence) 开篇，论证暴力在殖民地中是社会、文化和政治货币——殖民者的暴力不会被和平恳求终止，被殖民者的反暴力是净化性的 (cathartic)，去殖民化不仅是暴力和革命的，更是对被殖民者的疗愈过程。该书最后一章分析了殖民主义导致的精神病理学案例，将政治解放与心理解放统合在一起。
 

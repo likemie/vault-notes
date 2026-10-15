@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Peter A. Hall
@@ -133,8 +133,8 @@ updated: 2026-10-15
 > - **跨学科辐射** 其政策[[Paradigm|范式]]理论被公共政策学与社会学广泛吸收，三大学派分类成为政治学研究生核心方法论必读规范。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 援引霍尔关于制度作为承载权力偏向的分配工具的界定作为立论基石，并由霍尔撰写总结章展开理论对话（pp. 8, 30, 32, 204–224）。
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 以霍尔与索斯基斯的资本主义多样性模型为核心理论靶子，批判其将协调市场经济假定为具有自愈机能的超稳定闭环，促使学界将目光转向微观行动者驱动的内生渐进变迁（pp. 4–6）。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 援引霍尔关于制度作为承载权力偏向的分配工具的界定作为立论基石，并由霍尔撰写总结章展开理论对话（pp. 8, 30, 32, 204–224）。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 以霍尔与索斯基斯的资本主义多样性模型为核心理论靶子，批判其将协调市场经济假定为具有自愈机能的超稳定闭环，促使学界将目光转向微观行动者驱动的内生渐进变迁（pp. 4–6）。
 
 ---
 
@@ -157,8 +157,8 @@ updated: 2026-10-15
 > > [!axis] [[Varieties of Capitalism|资本主义多样性]]理论的静态均衡偏误
 > > 批评者指出，霍尔与索斯基斯提出的资本主义多样性（VoC）框架过分依赖[[Institutional Complementarity|制度互补性]]假说，将德美等国划分为稳定的协调市场经济（CME）与自由市场经济（LME），难以解释 1990 年代后德国等协调市场体制内部发生的剧烈[[Liberalization|自由化]]渐进重组。
 > >
-> > - **Wolfgang Streeck & Kathleen Thelen（2005）** 资本主义多样性理论深陷功能主义互补性陷阱，将制度视为无外生剧烈冲击便无法改变的自我强化闭环，完全无法捕捉微观行动者如何通过置换、层叠与转换在保持体制外壳的同时实现实质自由化。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–6)]]
-> > - **Peter A. Hall & Kathleen Thelen（2009）** 霍尔回应指出，VoC 框架并非否认变迁，企业在面临全球化压力时会主动调适并重组互补性机制，协调体制展现出高度的自适应弹性而非机械解体。
+> > - **Wolfgang Streeck and Kathleen Thelen（2005）** 资本主义多样性理论深陷功能主义互补性陷阱，将制度视为无外生剧烈冲击便无法改变的自我强化闭环，完全无法捕捉微观行动者如何通过置换、层叠与转换在保持体制外壳的同时实现实质自由化。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–6)]]
+> > - **Peter A. Hall and Kathleen Thelen（2009）** 霍尔回应指出，VoC 框架并非否认变迁，企业在面临全球化压力时会主动调适并重组互补性机制，协调体制展现出高度的自适应弹性而非机械解体。
 > > - **Peter A. Hall（2009）** 在《解释制度变迁》总结章中进一步承认，制度内部蕴含深刻的权力摩擦与分配张力，主张将动态协调博弈作为突破静态稳态的核心出路。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 208–215)]]
 
 > [!warning] 未解问题与边界

@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Auslandspadagogik
@@ -233,8 +233,8 @@ updated: 2026-10-15
 > > [!axis] 百科全书式事实汇纂：前科学杂乱抄录 vs 卓越经验史料母体
 > > 围绕[[Henry Barnard\|亨利·巴纳德]]等早期先驱留下的浩瀚文献，学界形成了针锋相对的史学评价：[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 32–33)]]
 > >
-> > - **Harold Noah & Max Eckstein (1969)** 严厉指责巴纳德及其同时代观察者沉溺于杂乱无章的盲目抄录与文献再版，缺乏分析范畴与科学因果控制，断定其在严格意义上根本算不上“比较学者”。
-> > - **Brian Holmes (1965) / Pella Kaloyannaki & Andreas Kazamias (2009)** 坚决驳斥实证派的傲慢指责，论证指出巴纳德以惊人毅力筑就了近代世界教育的百科全书；早期先驱作为卓越的教育叙事家与[[Ethnography\|民族志]]记录者，其提供的高质量事实白描至今仍是无法替代的历史经验富矿。
+> > - **Harold Noah and Max Eckstein (1969)** 严厉指责巴纳德及其同时代观察者沉溺于杂乱无章的盲目抄录与文献再版，缺乏分析范畴与科学因果控制，断定其在严格意义上根本算不上“比较学者”。
+> > - **Brian Holmes (1965) / Pella Kaloyannaki and Andreas Kazamias (2009)** 坚决驳斥实证派的傲慢指责，论证指出巴纳德以惊人毅力筑就了近代世界教育的百科全书；早期先驱作为卓越的教育叙事家与[[Ethnography\|民族志]]记录者，其提供的高质量事实白描至今仍是无法替代的历史经验富矿。
 >
 > > [!axis] 外部制度去情境化描述 vs 跨国政策直接借用的合法性风险
 > > 针对外国教育学普遍存在的非历史化与去情境化倾向，学者反思其对政策实践的潜在负面影响：
@@ -245,7 +245,7 @@ updated: 2026-10-15
 相关文献记录了对外国教育学方法局限性的深层反思：
 
 > [!critique]- 批评索引
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 记录了科学[[Positivism\|实证主义]]对早期外国教育学非历史化、非批判性与缺乏[[Variable\|变量]]控制的方法论批判，并提出了历史诠释学的辩护与重估。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 记录了科学[[Positivism\|实证主义]]对早期外国教育学非历史化、非批判性与缺乏[[Variable\|变量]]控制的方法论批判，并提出了历史诠释学的辩护与重估。
 
 > [!warning] 适用局限
 > - **因果控制与理论解释缺位** 外国教育学文献重在呈现“事实是什么”，但缺乏对“为何如此”的因果机制检验；不能将其直接用作推导跨国教育普遍发展规律的实证理论模型。
@@ -266,4 +266,4 @@ updated: 2026-10-15
 > | [[Comparative History of Comparative Education]] | 概念 | 揭示出[[Disciplinary Institutionalization\|学科制度化]]前被泛称为“比较教育”的庞大历史文献的真实认识论质态。 |
 > | [[Victor Cousin]] | 人物 | 其 1831 年普鲁士报告构成了 19 世纪欧陆官方行政外国教育学调查的巅峰范例。 |
 > | [[Horace Mann]] | 人物 | 展现了北美改革者如何将外国教育学事实转译为国内争议改革政治合法化依据的经典路径。 |
-> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] | 论证 | 提供外国教育学文献史源流、方法论三重质态、战后史学争鸣与合法化机制的系统文本证据。 |
+> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] | 论证 | 提供外国教育学文献史源流、方法论三重质态、战后史学争鸣与合法化机制的系统文本证据。 |

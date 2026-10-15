@@ -103,7 +103,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 绩效指标（Performance Indicators，在教育领域通称“教育指标” Education Indicators），是指经过目的性选择、数学建模与情境化加工的派生统计量（Derived Statistics），专门用于跨时空监测系统运行状况、预警体制弊端并为公共决策提供综合信息依据（Blank, 1993）。从政策工具社会学的视阈，勒加莱斯（Patrick Le Galès, 2016）将绩效指标定义为同时包含**[[Technical Rationality|技术理性]]成分（Techniques）**与**权力规制成分（Power）**的复合体：其技术成分依托数理统计的客观合法性，而其权力成分则在充满不对等关系的行动者网络中运转，通过推动各主体参与评比排名，决定资源再分配并重塑组织行为。在[[Governing by Numbers|数字治理]] 2.0 时代，绩效指标进一步成为中介机构在海量知识过剩与[[Policy Ambiguity|政策歧义性]]生态下，为政策制定者构筑客观、精确与普适之“[[Façade of Rationality|理性表象]]”（Façade of Rationality）的核心政治[[Scaffolding|脚手架]]。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 7)]]; [[Argument_Rambla_2022_Springer|(Rambla, 2022, p. 165)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+> 绩效指标（Performance Indicators，在教育领域通称“教育指标” Education Indicators），是指经过目的性选择、数学建模与情境化加工的派生统计量（Derived Statistics），专门用于跨时空监测系统运行状况、预警体制弊端并为公共决策提供综合信息依据（Blank, 1993）。从政策工具社会学的视阈，勒加莱斯（Patrick Le Galès, 2016）将绩效指标定义为同时包含 **[[Technical Rationality|技术理性]]成分（Techniques）** 与**权力规制成分（Power）** 的复合体：其技术成分依托数理统计的客观合法性，而其权力成分则在充满不对等关系的行动者网络中运转，通过推动各主体参与评比排名，决定资源再分配并重塑组织行为。在[[Governing by Numbers|数字治理]] 2.0 时代，绩效指标进一步成为中介机构在海量知识过剩与[[Policy Ambiguity|政策歧义性]]生态下，为政策制定者构筑客观、精确与普适之“[[Façade of Rationality|理性表象]]”（Façade of Rationality）的核心政治[[Scaffolding|脚手架]]。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 7)]]; [[Argument_Rambla_2022_Springer|(Rambla, 2022, p. 165)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 绩效指标并非对原始事实的简单记录，而是一种“被制造出的度量工具”（Engineered Measure），将多源复杂异质数据压缩为单一可视数字，承载着特定的政策干预假设。
@@ -225,7 +225,7 @@ updated: 2026-10-16
 > [!concept-lens] 比较教育政治社会学与跨国治理维度
 > 探讨超国家机构如何通过指标投入产出系统与“等价空间”技术置换国家教育公共目的。
 
-> [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]]
+> [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]
 > **投入产出效率对教育目的的置换与[[Reliability|信度]]优先** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，[[OECD|经合组织]]等超国家机构将绩效指标嵌入“数字政策进路”（number approach to policy work），建立专注于投入产出的评估系统。这种技术进路[[Epoché|悬置]]了关于教育目的的深层哲学辩论，将治理焦点转向决策透明度、绩效测度技术、国际基准与问责体制，使教育的有效性收敛于服务全球劳动力市场需求的经济效率（pp. 447–448）。在方法论上，跨国指标优先建构德罗西耶（Alain Desrosières, 1998）所称的“等价空间”（[[Space of Equivalence]]），即宁可牺牲本土情境下的[[Construct Validity|构念效度]]与[[Ontology|本体论]]深度，也要保障跨国排名的可比性与信度（p. 448）。进一步地，这一技术指标逻辑导致教育公平被狭隘化为进入教育机构的“形式机会均等”（formal access），剥离了关于实质教育正义与多元文化关系的政治辩论（Berliner, 2007; pp. 448–449）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–449)]]
 
 ---
@@ -238,7 +238,7 @@ updated: 2026-10-16
 > | **命题一：技术—权力双重性** | 指标承载权力博弈并执行结构性选择，反向规训资源流动与组织竞争 | 政策工具社会学、制度分析 | [[Argument_Rambla_2022_Springer\|Rambla (2022)]]；Le Galès (2016) |
 > | **命题二：测量的反身履行性** | 指标从评估工具异化为追求目标，引发系统性应试表演与防御性合规 | 组织行为学、教育问责制批判 | [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] |
 > | **命题三：理性表象与叙事激发** | 面对政策歧义性，数字构筑客观外表并为政治意识形态叙事提供弹性 | 政策中介研究、循证决策批判 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] |
-> | **命题四：投入产出置换与信度优先** | 指标系统将治理收束于经济效率，以等价空间信度悬置教育目的哲学辩论 | 跨国比较教育治理、指标[[Epistemology\|认识论]]批判 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]]；Desrosières (1998) |
+> | **命题四：投入产出置换与信度优先** | 指标系统将治理收束于经济效率，以等价空间信度悬置教育目的哲学辩论 | 跨国比较教育治理、指标[[Epistemology\|认识论]]批判 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]]；Desrosières (1998) |
 
 ---
 
@@ -299,7 +299,7 @@ updated: 2026-10-16
 > - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 整合勒加莱斯与杰索普理论，提出绩效指标四维政策工具分析模型，以[[EU|欧盟]]区域创新记分牌和[[Lifelong Learning|终身学习]]政策为实证检验。
 > - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 比较[[Education for All|全民教育]]（EFA）核心绩效指标在拉美与非洲的落实情况，以古巴达成全部指标而结构调整受援国指标落后为证据，揭示外来市场化[[Disciplina and Doctrina|规训]]在提升教育绩效上的实质困境。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 运用[[Façade of Rationality|理性表象]]与数字叙事理论，剖析国际组织如何将绩效指标工具化为[[Policy Brokerage|政策中介]]武器以施展[[Soft Power|软权力]]。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 447–448)]] — 剖析经合组织如何通过绩效指标建立投入产出系统，[[Epoché|悬置]]教育目的哲学辩论并将公平窄化为经济效率。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 447–448)]] — 剖析经合组织如何通过绩效指标建立投入产出系统，[[Epoché|悬置]]教育目的哲学辩论并将公平窄化为经济效率。
 
 ---
 

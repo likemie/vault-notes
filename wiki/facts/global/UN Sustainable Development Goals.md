@@ -241,7 +241,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 系统阐明将 SDGs 界定为第三代使命导向政策的理论逻辑，指出必须摆脱[[New Public Management|新公共管理]]的“支持并测量”指标陷阱，培育[[Public Dynamic Capabilities|公共动态能力]]以践行[[Lead-and-Learn Paradigm|引领与学习]]治理[[Paradigm|范式]]。
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 系统阐明将 SDGs 界定为第三代使命导向政策的理论逻辑，指出必须摆脱[[New Public Management|新公共管理]]的“支持并测量”指标陷阱，培育[[Public Dynamic Capabilities|公共动态能力]]以践行[[Lead-and-Learn Paradigm|引领与学习]]治理[[Paradigm|范式]]。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 系统论述如何将联合国可持续发展目标（SDGs）作为战略罗盘，通过四层分解金字塔转化为具备可量化指标与跨部门参与的[[Mission-Oriented Innovation Policy|使命导向创新政策]]组合。
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 运用[[World Society Theory|世界社会理论]]系统剖析大学通过研究、教学、内部政策及学术网络四重机制全面嵌入 SDGs 的历程，并尖锐警示科学政治化与地缘政治再领土化风险。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 阐明国际协定如何推动针对全球南方的量化规制转向，揭示 [[UNESCO]] 与[[World Bank|世界银行]]在基准统筹与合规执法上的分工，以及五大多边组织在资金与数据协定上的排他性博弈。

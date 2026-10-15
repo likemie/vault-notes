@@ -91,7 +91,7 @@ updated: 2026-10-16
 > *In section two, we compare the industrial policy plans adopted by the United States and the EU along five dimensions identified as crucial in the industrial policy literature: protagonists (the main actors carrying out the industrial policy effort), goals, size/financial commitment, type of policy instruments used [...], and the forms of [[Policy Conditionalities|Conditionalities]] attached to public support.*
 
 > [!citation-card]
-> **[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] 跨大西洋政策话语与[[Spatial Governmentality|空间治理术]]比较**
+> **[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] 跨大西洋政策话语与[[Spatial Governmentality|空间治理术]]比较**
 > 比较政策分析通过对质跨大西洋教育政策话语，揭示了流动性意义建构的深层分野：在欧洲联盟政策语境中，[[Student Mobility|学生流动性]]被赞颂为培育超国家欧洲公民认同与[[Knowledge-Based Economy|知识经济]][[Competitiveness|竞争力]]的理想资本（如[[Erasmus Programme|伊拉斯谟计划]]）；而在美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》框架下，学生跨校流动却被规训为表征贫困、家庭破裂与学业失败的漂泊（[[Transiency]]），沦为解释学校未能达标的病态指标。政策对比不仅展现了工具差异，更暴露了空间围堵与人口治理理性的根本分歧。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
 >
 > *Mobility can be valued and promoted as an essential attribute of the flexible, cosmopolitan citizen... or it can be pathologized as a sign of disorder, social dislocation, and academic failure requiring spatial containment.*
@@ -191,8 +191,8 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 针对美欧半导体产业政策构建涵盖治理主体、政策目标、资金规模、政策工具与[[Policy Conditionalities|制度化附加条件]]的五维比较[[Analytic Framework|分析框架]]，揭示美国集中式补贴模式与[[EU|欧盟]]去中心化协调者模式的制度差异与效能分化。
-> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 采用跨大西洋与跨国比较政策分析，对比欧盟[[Erasmus Programme|伊拉斯谟计划]]将[[Student Mobility|学生流动性]]建构为世界公民积极资本与美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》将学生流动性编码为病态化漂泊问责借口的[[Discourse|话语]]机制，并系统比较中、美、西、英、印等国对流动学童的空间教育治理政策。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 采用跨大西洋与跨国比较政策分析，对比欧盟[[Erasmus Programme|伊拉斯谟计划]]将[[Student Mobility|学生流动性]]建构为世界公民积极资本与美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》将学生流动性编码为病态化漂泊问责借口的[[Discourse|话语]]机制，并系统比较中、美、西、英、印等国对流动学童的空间教育治理政策。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 采用跨国比较政策分析视角，将西班牙教育置于欧盟多国治理坐标系下，系统对比英、美、德、法、意与北欧的分权模式演变，解构西班牙教育激进分权导致的行政膨胀与中等学制平庸化困境。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 运用历史与跨国比较政策分析方法，对比[[OECD]]在1960–1990年社会民主主义妥协期与1990年代中期后新自由主义期的治理架构、工作模式及[[PISA]]指标体系，揭示国际组织从政府间论坛向独立跨国政策行动者的制度转型。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 运用历史与跨国比较政策分析方法，对比[[OECD]]在1960–1990年社会民主主义妥协期与1990年代中期后新自由主义期的治理架构、工作模式及[[PISA]]指标体系，揭示国际组织从政府间论坛向独立跨国政策行动者的制度转型。
 
 ---

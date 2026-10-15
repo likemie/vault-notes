@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Alexander Karp
@@ -158,7 +158,7 @@ updated: 2026-10-15
 > - **跨国／跨领域传播** 深度介入俄乌冲突、地缘情报分析与北约联合防务数据体系重构，引领西方科技界重拾国家防务使命。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 系统论证技术共和国、[[Engineering Mindset|工程思维]]、[[Swarm Intelligence|群智能]]与认识论治理框架（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Ch. 9]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Ch. 10]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|Ch. 11]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|Ch. 12]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|Ch. 13]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 系统论证技术共和国、[[Engineering Mindset|工程思维]]、[[Swarm Intelligence|群智能]]与认识论治理框架（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Ch. 9]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Ch. 10]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|Ch. 11]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|Ch. 12]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|Ch. 13]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
 
 ---
 

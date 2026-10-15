@@ -73,7 +73,7 @@ updated: 2026-10-16
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **台湾积体电路制造公司（Taiwan Semiconductor Manufacturing Corporation, TSMC，简称台积电）**是 1987 年设立于台湾新竹科学园区的全球半导体晶圆代工巨擘。作为纯晶圆代工（Pure-play Foundry）模式的开创者，台积电从根本上重塑了全球半导体产业分工，推动产业从一体化（IDM）演进为无晶圆厂设计（Fabless）与代工制造相互分离的[[Vertical Disintegration|纵向离散]]网络；当代更以控制全球超过半数代工市场份额与 92% 全球尖端先进制程产能的绝对优势，成为大国地缘政治博弈与[[Modern Industrial Policy|现代产业政策]]跨国建厂补贴的核心争夺标的。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 86–92, 97–100)]]; [[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 7, 10–11)]]
+> **台湾积体电路制造公司（Taiwan Semiconductor Manufacturing Corporation, TSMC，简称台积电）** 是 1987 年设立于台湾新竹科学园区的全球半导体晶圆代工巨擘。作为纯晶圆代工（Pure-play Foundry）模式的开创者，台积电从根本上重塑了全球半导体产业分工，推动产业从一体化（IDM）演进为无晶圆厂设计（Fabless）与代工制造相互分离的[[Vertical Disintegration|纵向离散]]网络；当代更以控制全球超过半数代工市场份额与 92% 全球尖端先进制程产能的绝对优势，成为大国地缘政治博弈与[[Modern Industrial Policy|现代产业政策]]跨国建厂补贴的核心争夺标的。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 86–92, 97–100)]]; [[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 7, 10–11)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1987 年由张忠谋在台湾工业技术研究院（ITRI，工研院）衍生项目与荷兰飞利浦（Philips）支持下创立，依托政策注资与产业基础设施扶植起步。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 88)]]
@@ -192,7 +192,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] — 详尽剖析台积电开创晶圆代工模式重塑全球半导体分工的经济史，揭示其先进制程垄断地位及大国产业政策争夺背后的供应链安全逻辑。
+> - [[Argument_Bown_2024_JEP|Bown and Wang (2024)]] — 详尽剖析台积电开创晶圆代工模式重塑全球半导体分工的经济史，揭示其先进制程垄断地位及大国产业政策争夺背后的供应链安全逻辑。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 从现代产业战略实施过程与[[Policy Conditionalities|政策附加条件]]视角，分析台积电亚利桑那 650 亿美元建厂面临的技能短缺、工会协商与生态重构挑战。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 比较分析台积电在美（650 亿美元独资）与在欧（100 亿欧元合资）的设厂决策、受助机制与制度约束，揭示其 92% 先进制程垄断与对 ASML 设备外部依赖的跨国相互依存网络。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 从高等教育与[[National Innovation System|国家创新体系]]重构视角，阐释[[Research Universities|研究型大学]]（如 ASU）作为[[Anchor Institution|锚定机构]]如何重塑城市空间并吸引台积电等龙头企业形成高技术产业集聚。

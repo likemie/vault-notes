@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Defeater
@@ -114,7 +114,7 @@ updated: 2026-10-15
 > [!concept-lens] [[Scaffolding|认知支架]]与抗辩权赋能
 > 探讨如何通过界面反向证据呈现，将击败者转化为支持人类独立审议与决策纠偏的有效工具。
 
-> [!claim] Veluwenkamp & Buijsman (2025); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
+> [!claim] Veluwenkamp and Buijsman (2025); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **击败者机制的可抗辩性支持** 在智能决策支持系统中，强[[Automation Bias|自动化偏差]]往往由于操作者推翻算法建议面临极高的时间搜索成本与制度抗辩阻力。研究指出，通过在交互界面中引入反驳型击败者（Rebutting Defeaters），系统在推荐某一方案的同时自动呈现支持竞争性假设的客观反常数据，实质上为人类操作者搭建了行使独立批判与反驳算法的认知[[Scaffolding|脚手架]]。这种设计显著降低了抗辩的认知门槛，使操作者能够依据实质证据驳回错误算法提示，从而真正维系了[[Meaningful Human Control|有意义的人类控制]]。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 23–25)]]
 
 ---
@@ -134,7 +134,7 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **可抗辩赋能命题** | 反驳型击败者自动呈现反常事实以降低抗辩门槛并赋能独立审议 | 高风险医疗诊断、司法评估、金融信贷审批 | Veluwenkamp & Buijsman (2025); [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]] |
+> | **可抗辩赋能命题** | 反驳型击败者自动呈现反常事实以降低抗辩门槛并赋能独立审议 | 高风险医疗诊断、司法评估、金融信贷审批 | Veluwenkamp and Buijsman (2025); [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]] |
 > | **认知安全协同命题** | 击败者与反思机器协同注入认识论摩擦以校准批判性信任 | 智能交互界面设计、人机回路安全规程、可抗辩 AI 系统 | Jovchevski 等（2026） |
 
 ---
@@ -144,7 +144,7 @@ updated: 2026-10-15
 > [!dev-timeline] 击败者概念的演变历程
 > - **1987 — [[Formal Epistemology|形式认识论]]与可撤销推理奠基** 约翰·[[Jackson Pollock|波洛克]]（John L. Pollock, 1987）在 *Cognitive Science* 发表经典论文，正式确立削弱型击败者（Undercutting）与反驳型击败者（Rebutting）的逻辑分类学，为非单调逻辑与知识确证理论奠定基础。
 > - **2000s–2010s — 论辩理论与人工智能知识表示** 击败者理论被广泛应用于人工智能论辩计算（Computational Argumentation）与证据图谱构建，形式化描述冲突命题之间的攻击与防御关系。
-> - **2025 — 人机交互中的击败者设计框架确立** Herman Veluwenkamp & Stefan Buijsman (2025) 首次将击败者从抽象哲学逻辑转化为人机交互界面的设计机制（Defeater Design），提出利用反向证据呈现赋能人类操作者的可抗辩性。
+> - **2025 — 人机交互中的击败者设计框架确立** Herman Veluwenkamp and Stefan Buijsman (2025) 首次将击败者从抽象哲学逻辑转化为人机交互界面的设计机制（Defeater Design），提出利用反向证据呈现赋能人类操作者的可抗辩性。
 > - **2026 — 认知安全防护与[[Automation Bias|自动化偏差]]防御架构** [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 将击败者机制与反思机器整合为抵御强[[Automation Bias|自动化偏差]]的认知安全防护架构，确立其在维护有意义人类控制与防范道德审思义务让渡中的核心规范价值。
 
 ---

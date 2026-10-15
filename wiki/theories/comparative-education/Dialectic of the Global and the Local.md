@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Dialectic of the Global and the Local
@@ -151,7 +151,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **双向辩证互动命题** | 全球化改革在各地绝不会产生相同结果，自上而下规约与地方实践构成动态双重视野 | 跨国教学法借用、国际组织课程指南落地 | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]]; Anderson-Levitt (2003, 2004) |
-> | **中介制度过滤命题** | 宏观形式趋同掩盖微观结构分化，国家与地方社会阶层结构深度重组外部政策分配 | 课程分权改革、[[School Autonomy\|学校自主权]]与教育券政策评估 | Benavot & Resh (2001); Robertson et al. (2002) |
+> | **中介制度过滤命题** | 宏观形式趋同掩盖微观结构分化，国家与地方社会阶层结构深度重组外部政策分配 | 课程分权改革、[[School Autonomy\|学校自主权]]与教育券政策评估 | Benavot and Resh (2001); Robertson et al. (2002) |
 > | **微观抗争与自下而上命题** | 微观文化反抗证伪理性选择教条，草根网络联合推动全球社会民主与教育公平 | 边缘社群反抗、教师专业赋权、跨国草根社会运动 | Demerath (1999); Stacki (2004); [[Robert Arnove\|Arnove]] |
 
 ---
@@ -218,6 +218,6 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 权威理论专章，系统确立贯通宏观世界体系与微观课堂[[Ethnography|民族志]]的双重视野，提出教育改革发起方位与目标取向二维矩阵。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 运用全球与本土辩证法解构拉美[[Conditioned State Theory|受限国家]]在跨国依附下的阶级[[Dual School System|双轨学制]]与教育[[Legitimation Crisis|合法化危机]]。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 运用全球与本土辩证法解构拉美[[Conditioned State Theory|受限国家]]在跨国依附下的阶级[[Dual School System|双轨学制]]与教育[[Legitimation Crisis|合法化危机]]。
 
 ---

@@ -58,7 +58,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-07-13
+updated: 2026-10-16
 year: 2021
 doi: ""
 citation_aliases:
@@ -105,7 +105,7 @@ citation_aliases:
 >
 > ### 3. [[Technical Rationality\|技术理性]]作为 VL 的理论内核
 >
-> 作者论证 Hattie 深受 Schön (1983, 1987) 所描述的**技术理性（Technical Rationality）**影响(p. 81-82)：
+> 作者论证 Hattie 深受 Schön (1983, 1987) 所描述的**技术理性（Technical Rationality）** 影响(p. 81-82)：
 >
 > > “技术理性是[[Positivism\|实证主义]]的遗产，这一强大的哲学学说在十九世纪成长起来，既作为对科学技术崛起的解释，也作为一场旨在将科学技术的成就应用于人类福祉的社会运动。”
 > ("Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century as an [[Accounts\|account]] of the [[Research in Schools Evaluation\|RISE]] of science and technology and as a social movement aimed at applying the achievements of science and technology to the well-being of mankind.") (Schön, 1983, p. 31)
@@ -120,7 +120,7 @@ citation_aliases:
 >
 > - **系统（system）vs. 生活世界（lifeworld）** 学校处于两者的"再生产十字路口"(Borman, 2011, p. 7)
 > - 传统现代社会中，学校课程与日常生活的价值观和权威体系紧密相连，参与者容易认同
-> - 晚期现代社会中，国家机构逐渐从传统的共识理性转向**[[Value Neutrality\|价值中立]]的工具理性**进行治理——这为合法化危机打开了大门
+> - 晚期现代社会中，国家机构逐渐从传统的共识理性转向 **[[Value Neutrality\|价值中立]]的工具理性**进行治理——这为合法化危机打开了大门
 > - 危机的核心：国家机构必须同时服务于两个利益对立的"主人"——市场的特殊利益和公民的公共利益
 > - **生活世界的殖民化（colonization of the lifeworld）** 行政系统不断提取生活世界的价值来为面向市场的策略性干预辩护，系统性削弱公民参与的共同价值
 >

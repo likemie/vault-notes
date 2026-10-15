@@ -38,7 +38,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Convergent and Discriminant Validity
 
@@ -47,7 +47,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> 收敛效度（Convergent validity）与区分效度（Discriminant/divergent validity）是同一枚硬币的两面——都是[[Construct Validity\|构念效度]]的**检验工具**。Campbell & Fiske (1959) 首次在[[Multitrait-Multimethod Matrix\|多特质-多方法矩阵]]（MTMM）中系统阐述了这一逻辑：**收敛效度**要求同一[[Construct\|构念]]的不同测量方法之间应产生相对高的相互相关性；**区分效度**要求不同构念的相似测量方法之间应产生相对低的相互相关性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 177–178)]]
+> 收敛效度（Convergent validity）与区分效度（Discriminant/divergent validity）是同一枚硬币的两面——都是[[Construct Validity\|构念效度]]的**检验工具**。Campbell and Fiske (1959) 首次在[[Multitrait-Multimethod Matrix\|多特质-多方法矩阵]]（MTMM）中系统阐述了这一逻辑：**收敛效度**要求同一[[Construct\|构念]]的不同测量方法之间应产生相对高的相互相关性；**区分效度**要求不同构念的相似测量方法之间应产生相对低的相互相关性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 177–178)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 收敛和区分效度本质上回答两个对称的问题：应该相关的测量实际上是否相关？（收敛）应该不同的测量实际上是否不同？（区分）
@@ -73,7 +73,7 @@ updated: 2026-10-15
 ## 围绕概念形成的命题
 
 > [!claim] [[Mixed Methods Research\|混合方法]]是检验收敛和区分效度的最有力设计
-> 在混合方法研究中，研究者可以通过以下两种方式同时检验收敛和区分效度：**收敛检验**——检查一种方法的数据（如[[Qualitative Interview\|质性访谈]]）是否与另一种方法聚焦同一问题的数据（如量化[[Questionnaire\|问卷]]）一致；**区分检验**——检查研究者假设不相关的因素是否在两种方法中都显示为确实不相关。当一种方法的数据被另一种方法的数据所**交叉验证（cross-validated）**时，研究者对效度的置[[Reliability\|信度]]显著提高。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 178)]]
+> 在混合方法研究中，研究者可以通过以下两种方式同时检验收敛和区分效度：**收敛检验**——检查一种方法的数据（如[[Qualitative Interview\|质性访谈]]）是否与另一种方法聚焦同一问题的数据（如量化[[Questionnaire\|问卷]]）一致；**区分检验**——检查研究者假设不相关的因素是否在两种方法中都显示为确实不相关。当一种方法的数据被另一种方法的数据所**交叉验证（cross-validated）** 时，研究者对效度的置[[Reliability\|信度]]显著提高。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 178)]]
 
 > [!example] 混合方法中的收敛与区分效度验证
 > **收敛效度案例** 研究者调查社会阶层对高等教育获取的影响时，同时收集质性访谈数据和量化问卷数据。如果质性数据中工人阶级学生普遍报告"成本是核心障碍"，而量化数据也显示家庭收入与大学入学率显著正相关，且这一发现受到文献支持——那么预期的收敛效度就得到了证明。

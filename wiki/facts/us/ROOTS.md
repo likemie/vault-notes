@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # ROOTS
@@ -58,7 +58,7 @@ updated: 2026-10-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **ROOTS（数学根基方案）**是由俄勒冈大学教学与学习中心（University of Oregon Center on Teaching and Learning）本·克拉克（Ben Clarke）、克里斯蒂安·多布勒（Christian Doabler）、汉克·菲恩（Hank Fien）与斯科特·贝克（Scott K. Baker）等学者联合研发、受美国国家[[Institute of Education Sciences\|教育科学研究院]]（IES）重点资助的早期初等数学小组干预项目；其核心目标是在小学一年级（部分向幼儿园延伸）早期筛查出面临严重数学困难的高危儿童，依托高度显性、系统化的核心数感与整数概念微课程，在 Tier 2 层级阻断早期学业差距的持续扩大。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> **ROOTS（数学根基方案）** 是由俄勒冈大学教学与学习中心（University of Oregon Center on Teaching and Learning）本·克拉克（Ben Clarke）、克里斯蒂安·多布勒（Christian Doabler）、汉克·菲恩（Hank Fien）与斯科特·贝克（Scott K. Baker）等学者联合研发、受美国国家[[Institute of Education Sciences\|教育科学研究院]]（IES）重点资助的早期初等数学小组干预项目；其核心目标是在小学一年级（部分向幼儿园延伸）早期筛查出面临严重数学困难的高危儿童，依托高度显性、系统化的核心数感与整数概念微课程，在 Tier 2 层级阻断早期学业差距的持续扩大。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 始于 2010 年代初，由美国联邦教育科学研究院（IES）设立专项资助课题连续支持，经过多中心大规模[[Randomised Controlled Trials\|随机对照试验]]迭代完善，至今常态化在全美各学区运行。

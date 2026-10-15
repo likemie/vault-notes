@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-12
+updated: 2026-10-16
 ---
 
 # Sunset Provisions
@@ -173,14 +173,14 @@ updated: 2026-10-12
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Bozeman_2004_JTT\|Bozeman & Boardman (2004)]] | 1984–2003 年 [[Engineering Research Centers\|NSF ERC]] 项目（N = 56） | 纵向政策追踪与案例访谈 | 资助周期、日落淘汰率与存续状态 | 累计资助 56 所中心；存续 44 所（存活率 79%）；13 所中心资助期满后完全实现自给自足 | — | 验证了十年日落机制下中心能够建立长效造血能力，但也存在早期由于不达标被直接关停的淘汰案例 |
+> | [[Argument_Bozeman_2004_JTT\|Bozeman and Boardman (2004)]] | 1984–2003 年 [[Engineering Research Centers\|NSF ERC]] 项目（N = 56） | 纵向政策追踪与案例访谈 | 资助周期、日落淘汰率与存续状态 | 累计资助 56 所中心；存续 44 所（存活率 79%）；13 所中心资助期满后完全实现自给自足 | — | 验证了十年日落机制下中心能够建立长效造血能力，但也存在早期由于不达标被直接关停的淘汰案例 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Bozeman_2004_JTT|Bozeman & Boardman (2004)]] — 通过对布洛赫的口述访谈与 [[Engineering Research Centers|ERC]] 历史数据，系统阐释了日落条款在防范机构膨胀与推动中心自给自足中的治理逻辑。
+> - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 通过对布洛赫的口述访谈与 [[Engineering Research Centers|ERC]] 历史数据，系统阐释了日落条款在防范机构膨胀与推动中心自给自足中的治理逻辑。
 
 ---
 

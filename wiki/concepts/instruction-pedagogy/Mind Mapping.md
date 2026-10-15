@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Mind Mapping
@@ -171,7 +171,7 @@ updated: 2026-10-15
 > 传统导图容易受习惯性语义网络限制；嵌入随机刺激的复合导图能够强行激活非典型概念联结。
 
 > [!claim] Malycha & Maier; Guo et al.
-> **随机图技术（Random-Map）增益命题** [[Experimental Research\|实验研究]]（$EG = 80 / CG = 80$）表明，传统思维导图虽能大幅提高观念流畅性，但在独创性（Originality）维度常陷入语义邻近词的自动化联想。通过将思维导图与概念组合技术相结合构建“随机图”（Random-Map Technique）——在导图绘制中强行注入不相关的随机刺激词汇并要求建立意义连接，受试者在[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（[[Torrance Tests of Creative Thinking\|TTCT]]）中的独创性表现显著超越传统导图组与对照组（$p < .01$）。这证明思维导图与启发式发散技术的结合能够有效瓦解心理固着。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10)]]; Malycha & Maier (2017)
+> **随机图技术（Random-Map）增益命题** [[Experimental Research\|实验研究]]（$EG = 80 / CG = 80$）表明，传统思维导图虽能大幅提高观念流畅性，但在独创性（Originality）维度常陷入语义邻近词的自动化联想。通过将思维导图与概念组合技术相结合构建“随机图”（Random-Map Technique）——在导图绘制中强行注入不相关的随机刺激词汇并要求建立意义连接，受试者在[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（[[Torrance Tests of Creative Thinking\|TTCT]]）中的独创性表现显著超越传统导图组与对照组（$p < .01$）。这证明思维导图与启发式发散技术的结合能够有效瓦解心理固着。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10)]]; Malycha and Maier (2017)
 
 ---
 
@@ -192,7 +192,7 @@ updated: 2026-10-15
 > |---|---|---|---|
 > | **形态效能优势** | 极简组织规则使思维导图在高阶思维干预中促学效应最强（$g = 1.041$） | 外在认知负荷极低、认知资源最大化卸载 | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]]; Buzan (1974) |
 > | **发散思维赋能** | 思维导图对发散思维的促进（ = 1.167$）显著超越聚合逻辑推导（ = 0.680$） | 放射状拓扑契合大脑联想、多维范畴拓展 | 同上 |
-> | **概念组合破局** | 结合随机刺激词的复合导图（Random-Map）能突破习惯性联想固着并显著跃升独创性 | 远距概念重构、强制双向刺激整合 | Malycha & Maier (2017); [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] |
+> | **概念组合破局** | 结合随机刺激词的复合导图（Random-Map）能突破习惯性联想固着并显著跃升独创性 | 远距概念重构、强制双向刺激整合 | Malycha and Maier (2017); [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] |
 > | **个体绘制内化** | 独立个体绘制导图的策略内化深度显著优于松散的小组协作讨论 | 避免社会惰化、经历完整元认知闭环 | 同上（独立练习内化） |
 
 ---
@@ -203,7 +203,7 @@ updated: 2026-10-15
 > - **1970 年代　托尼·博赞创立放射性思维与经典导图[[Paradigm\|范式]]** Buzan (1974) 出版《Use Your Head》，系统提出单中心、多级主次分支、色彩图像与关键词编码的经典脑图模型。
 > - **1990 年代　认知心理学与[[Dual Coding Theory\|双重编码理论]]奠基** Paivio 双重编码理论与神经科学研究证实，视觉-空间维度的图文并茂有助于强化长时记忆痕迹并减轻[[Working Memory\|工作记忆]]负荷。
 > - **2000 年代　数字化导图工具普及** MindManager、XMind、FreeMind 等桌面软件与协作平台[[Emergence\|涌现]]，推动导图在企业[[Brainstorming\|头脑风暴]]与教育教学中大规模普及。
-> - **2017 年　结合概念组合的随机图技术创新** Malycha & Maier (2017) 提出 Random-Map Technique，将思维导图与随机概念刺激相结合，解决了传统导图独创性不足的痛点。
+> - **2017 年　结合概念组合的随机图技术创新** Malycha and Maier (2017) 提出 Random-Map Technique，将思维导图与随机概念刺激相结合，解决了传统导图独创性不足的痛点。
 > - **2025–2026 年　大规模[[Meta-analysis\|元分析]]量化确立工具效能级差** [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 确立思维导图（$g = 1.041$）对[[Higher-Order Thinking Skills\|高阶思维]]的促学效应显著超越[[Argument Mapping\|论证图]]与[[Concept Mapping\|概念图]]；[[Argument_Guo_2025_TSC\|Guo et al. (2025)]] 确立思维导图在[[Creativity\|创造力]]思维训练（$g = 0.762$）中的核心载体地位。
 
 ---
@@ -250,7 +250,7 @@ updated: 2026-10-15
 >
 > | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | Hattie (2009) / Nesbit & Adesope (2006) | **【干预变量】** 空间[[Graphic Organizer\|图形组织器]]（包含思维导图与概念图）在全域教学法中的二阶效应基准 | 基于数千项实证二阶综合 | Cohen's $d$ / 随机效应综合 | **$d = 0.57 \sim 0.64$** | 跨学科学段高度稳健 | 确立视觉空间表征工具作为最具普适性的高效促学[[Scaffolding\|教学支架]] |
+> | Hattie (2009) / Nesbit and Adesope (2006) | **【干预变量】** 空间[[Graphic Organizer\|图形组织器]]（包含思维导图与概念图）在全域教学法中的二阶效应基准 | 基于数千项实证二阶综合 | Cohen's $d$ / 随机效应综合 | **$d = 0.57 \sim 0.64$** | 跨学科学段高度稳健 | 确立视觉空间表征工具作为最具普适性的高效促学[[Scaffolding\|教学支架]] |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
@@ -263,8 +263,8 @@ updated: 2026-10-15
 >
 > | 实证研究 | 样本与情境 | 研究设计与变量角色 | 核心定性与定量发现 | 理论与教学意义 |
 > |---|---|---|---|---|
-> | Malycha & Maier (2017) | 德国高校设计与工科学生（$EG = 80 / CG = 80$） | 准实验对比：**【干预变量】**随机图技术（Random-Map，结合随机概念刺激的思维导图） vs 传统导图 vs 对照组；**【结果变量】**[[Torrance Tests of Creative Thinking\|TTCT]] 发散思维独创性与流畅性 | 随机图组在独创性得分上显著超越传统导图组与对照组（$p < .01$），且有效保持了高观念流畅性 | 直接证实将思维导图与随机概念刺激相结合能突破语义临近固着 |
-> | Rute-Pérez et al. (2024) | 西班牙高校大学生认知训练样本 | 实验干预：**【干预变量】**思维导图与认知灵活性混合训练；**【[[Dependent Variable\|结果变量]]】**认知灵活性、发散问题解决表现 | 干预后学生在劣构问题表征与非传统路径探索速度上显著提高（$p < .05$） | 证实思维导图作为思维训练核心载体的[[Cognitive Flexibility\|认知灵活性]]塑造功能 |
+> | Malycha and Maier (2017) | 德国高校设计与工科学生（$EG = 80 / CG = 80$） | 准实验对比：**【干预变量】** 随机图技术（Random-Map，结合随机概念刺激的思维导图） vs 传统导图 vs 对照组；**【结果变量】**[[Torrance Tests of Creative Thinking\|TTCT]] 发散思维独创性与流畅性 | 随机图组在独创性得分上显著超越传统导图组与对照组（$p < .01$），且有效保持了高观念流畅性 | 直接证实将思维导图与随机概念刺激相结合能突破语义临近固着 |
+> | Rute-Pérez et al. (2024) | 西班牙高校大学生认知训练样本 | 实验干预：**【干预变量】** 思维导图与认知灵活性混合训练；**【[[Dependent Variable\|结果变量]]】** 认知灵活性、发散问题解决表现 | 干预后学生在劣构问题表征与非传统路径探索速度上显著提高（$p < .05$） | 证实思维导图作为思维训练核心载体的[[Cognitive Flexibility\|认知灵活性]]塑造功能 |
 
 ---
 
@@ -282,7 +282,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > | **[[Divergent Thinking\|发散思维]]赋能** | 思维导图对发散思维的促进（ = 1.167$）显著超越聚合逻辑推导（ = 0.680$） | 放射状拓扑契合大脑联想、多维范畴拓展 | 同上 |
-> - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — [[Three-Level Meta-Analysis\|多层元分析]]确立思维训练（以思维导图、[[Brainstorming\|头脑风暴]]为载体）的高效能（$g = 0.762$），并纳入 Malycha & Maier (2017) 随机图技术实证，揭示独立练习（$g = 0.682$）的内化优势。
+> - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — [[Three-Level Meta-Analysis\|多层元分析]]确立思维训练（以思维导图、[[Brainstorming\|头脑风暴]]为载体）的高效能（$g = 0.762$），并纳入 Malycha and Maier (2017) 随机图技术实证，揭示独立练习（$g = 0.682$）的内化优势。
 
 ---
 
@@ -299,6 +299,6 @@ updated: 2026-10-15
 > | [[Creativity Training]] | 概念 | 训练载体 | 思维训练类干预以思维导图为核心载体，取得显著创造力增益（$g = 0.762$）。 |
 > | [[Cognitive Load Theory]] | 理论 | 解释机制 | 极简组织语法最大限度降低外在认知负荷，释放[[Working Memory\|工作记忆]]空间。 |
 > | [[Dual Coding Theory]] | 理论 | 认知基础 | 色彩、空间位置与关键词结合激活大脑图文双重编码通道。 |
-> | [[Torrance Tests of Creative Thinking]] | 测量工具 | 效果效标 | Malycha & Maier (2017) 采用 TTCT 检验随机图技术对独创性的显著促进。 |
+> | [[Torrance Tests of Creative Thinking]] | 测量工具 | 效果效标 | Malycha and Maier (2017) 采用 TTCT 检验随机图技术对独创性的显著促进。 |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 论证 | 实证基石 | 元分析确立思维导图高阶思维促学效应第一（$g = 1.041$）。 |
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 论证 | 实证基石 | 确立思维导图在思维训练中的核心地位及独立练习内化优势。 |

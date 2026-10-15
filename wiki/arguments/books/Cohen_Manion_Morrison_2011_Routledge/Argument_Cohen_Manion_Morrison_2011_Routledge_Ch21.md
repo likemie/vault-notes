@@ -88,7 +88,7 @@ related_methods:
   - "[[Accounts]]"
 status: draft
 created: 2026-07-22
-updated: '2026-09-08'
+updated: 2026-10-16
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21
 
@@ -208,9 +208,9 @@ Oppenheim（1992, pp. 81–82）补充：访谈比问卷有更高回应率（受
 > [!taxonomy] 不同学者列出的访谈类型
 > | 来源 | 所列类型 |
 > |---|---|
-> | LeCompte & Preissle（1993） | 标准化访谈（standardized）、[[In-depth Interview\|深度访谈]]（in-depth）、民族志访谈（ethnographic）、精英访谈（elite）、生活史访谈（life history）、[[Focus Group\|焦点小组]]（focus group） |
-> | Bogdan & Biklen（1992） | 半结构化访谈（semi-structured）、[[Group Interview\|小组访谈]]（group interview） |
-> | Lincoln & Guba（1985） | 结构化访谈（structured） |
+> | LeCompte and Preissle（1993） | 标准化访谈（standardized）、[[In-depth Interview\|深度访谈]]（in-depth）、民族志访谈（ethnographic）、精英访谈（elite）、生活史访谈（life history）、[[Focus Group\|焦点小组]]（focus group） |
+> | Bogdan and Biklen（1992） | 半结构化访谈（semi-structured）、[[Group Interview\|小组访谈]]（group interview） |
+> | Lincoln and Guba（1985） | 结构化访谈（structured） |
 > | Oppenheim（1992, p. 65） | 探索性访谈（exploratory） |
 
 Kvale（1996, pp. 126–127）将这些形式沿多个连续体排列：
@@ -221,7 +221,7 @@ Kvale（1996, pp. 126–127）将这些形式沿多个连续体排列：
 > - **⋮** 目的的开放程度、结构化程度、探索性或假设检验性、描述性或解释性、认知或情感聚焦
 > - **非结构化** 开放问题、回应式、捕捉独特性、探索性、质性数据、非正式、情感聚焦、解释导向
 
-Lincoln & Guba（1985, p. 269）的区分精辟：当研究者清楚自己不知道什么时，适合使用结构化访谈，因为能够有针对性地构建问题来获取所需知识；当研究者连自己不知道什么都不知道时，则需要使用非结构化访谈，依赖受访者来告知（p.414）。
+Lincoln and Guba（1985, p. 269）的区分精辟：当研究者清楚自己不知道什么时，适合使用结构化访谈，因为能够有针对性地构建问题来获取所需知识；当研究者连自己不知道什么都不知道时，则需要使用非结构化访谈，依赖受访者来告知（p.414）。
 
 Patton（1980, p. 206）则将以上种种归并为四种基本类型。其中访谈指南法即为[[Semi-structured Interview|半结构化访谈]]的典型形式：
 
@@ -285,8 +285,8 @@ Kvale（1996, p. 30）的十项[[Qualitative Interview|质性访谈]]特征（pp
 > [!feature] 四种研究访谈类型
 > - **结构化访谈** 内容和程序预先组织——问题顺序和措辞由[[Interview Protocol\|访谈提纲]]确定，访谈者几乎没有修改自由。封闭情境。
 > - **非结构化访谈** 开放情境——更大灵活性和自由度。[[Research Purpose\|研究目的]]支配提问，但内容、顺序和措辞完全由访谈者掌握。同样需仔细规划。
-> - **[[Non-directive Interview\|非引导性访谈]]** 源自治疗/精神病学访谈。访谈者施加最少方向或控制，受访者自由完整自发表达主观感受。Moser & Kalton（1977, p. 297）认为受访者应受鼓励谈论主题并自由引导访谈，访谈者应提示追问、要求澄清阐明、必要时重新措辞和总结并核验。
-> - **[[Focused Interview\|聚焦访谈]]** 聚焦于受访者对某一已知情境的主观反应，该情境已由研究者预先分析。Merton & Kendall（1946, p. 542）："在通常的深度访谈中，可以促使受访者回忆其经验。但在聚焦访谈中，访谈者可以在合适时扮演更积极的角色。"
+> - **[[Non-directive Interview\|非引导性访谈]]** 源自治疗/精神病学访谈。访谈者施加最少方向或控制，受访者自由完整自发表达主观感受。Moser and Kalton（1977, p. 297）认为受访者应受鼓励谈论主题并自由引导访谈，访谈者应提示追问、要求澄清阐明、必要时重新措辞和总结并核验。
+> - **[[Focused Interview\|聚焦访谈]]** 聚焦于受访者对某一已知情境的主观反应，该情境已由研究者预先分析。Merton and Kendall（1946, p. 542）："在通常的深度访谈中，可以促使受访者回忆其经验。但在聚焦访谈中，访谈者可以在合适时扮演更积极的角色。"
 
 ---
 
@@ -325,7 +325,7 @@ Kvale（1996, p. 88）的访谈调查七个阶段（pp.418–420）：
 > [!example] 漏斗式问题示例（Sears et al., 1957, p. 157）
 > "所有婴儿当然都会哭。有些母亲觉得如果每次婴儿哭都抱起来，会宠坏他。另一些母亲认为绝不应该让婴儿哭太久。**你对此怎么看？你是怎么做的？半夜呢？**"
 
-**设计问题的十项注意事项（Arksey & Knight（1999, p. 93）–95）**（pp.422–423）：
+**设计问题的十项注意事项（Arksey and Knight（1999, p. 93）–95）**（pp.422–423）：
 
 > [!warning] 设计问题的十项注意事项（Arksey & Knight, 1999, pp. 93–95）
 > 1. 所用词汇保持简单
@@ -564,7 +564,7 @@ Scheurich（1995, p. 240）：即使常规信度程序也力不从心：保持�
 
 #### 阶段五：数据分析
 
-**Miles & Huberman（1994）的 12 种策略**（pp.447–449）：
+**Miles and Huberman（1994）的 12 种策略**（pp.447–449）：
 
 > [!dev-timeline] 12 种意义生成策略（Miles & Huberman, 1994）
 > - **数据压缩与归类** 从原始数据中提取可操作的单元，通过计数、归类和因子化减少复杂性。
@@ -736,7 +736,7 @@ Scheurich（1995, p. 240）：即使常规信度程序也力不从心：保持�
 > - 讨论发展潜力，产生比个别访谈**更广泛的回应范围**
 > - 特别适合"一群人已共同工作或有共同目的"的情境
 > - 确保每个人知道群体中其他人在说什么被认为重要时
-> - 可激发后续**个别访谈**的洞见（Bogdan & Biklen（1992, p. 100））
+> - 可激发后续**个别访谈**的洞见（Bogdan and Biklen（1992, p. 100））
 > - 实践和组织便利：预先安排群体以最小干扰；更快节省时间；可汇集**不同意见**或代表不同集合体
 > - 多位受访者提供**事件两种版本**，通过[[Cross-checking\|交叉检查]]形成更完整可靠的记录
 > - 可检测参与者如何相互支持、影响、补充、同意和不同意
@@ -745,7 +745,7 @@ Scheurich（1995, p. 240）：即使常规信度程序也力不从心：保持�
 > - 对个人事务几乎无用：群体动态拒绝获取此类数据
 > - 需要向特定个体追问一连串后续问题时无效
 > - 可能产生**群体思维**，压制异议
-> - 某位受访者可能**主导（特别男女情境，Arksey & Knight（1999, p. 76））**
+> - 某位受访者可能**主导（特别男女情境，Arksey and Knight（1999, p. 76））**
 > - 可能激起对抗；在同事面前沉默；提供"公共立场"而非诚实回答；串通隐瞒
 > - 回应编码更复杂（Lewis, 1992）
 
@@ -756,19 +756,19 @@ Scheurich（1995, p. 240）：即使常规信度程序也力不从心：保持�
 
 ### 21.7 访谈儿童（pp.457–462）
 
-儿童是"关于自己的最佳信息来源"（Docherty & Sandelowski（1999, p. 177）），但访谈者需**进入他们的世界和童年文化**，通过儿童眼睛而非成人透镜看情境。
+儿童是"关于自己的最佳信息来源"（Docherty and Sandelowski（1999, p. 177）），但访谈者需**进入他们的世界和童年文化**，通过儿童眼睛而非成人透镜看情境。
 
 > [!tension] 儿童 vs 成人受访者（Arksey & Knight, 1999, p. 116）
 > - **儿童受访者** 认知和语言发展有限，注意力最多 15 分钟，回忆能力和生活经验较少，重要性判断与成人不同，几乎没有地位和权力
 > - **成人受访者** 认知和语言发展成熟，注意力可持续更久，回忆能力和生活经验丰富，重要性判断更稳定，拥有自主地位和权力
 
 > [!claim] 权力与地位的核心问题
-> Eder & Fingerson（2003, p. 34）指出权力动态在儿童访谈中高度相关。Thorne（1994）使用"**kids**"而非"children"：前者是儿童自用术语，后者是成人专属术语，表示从属地位。Mayall（1999）建议将儿童视为**少数群体**，缺乏对自己生活的权力和控制（p.458）。
+> Eder and Fingerson（2003, p. 34）指出权力动态在儿童访谈中高度相关。Thorne（1994）使用"**kids**"而非"children"：前者是儿童自用术语，后者是成人专属术语，表示从属地位。Mayall（1999）建议将儿童视为**少数群体**，缺乏对自己生活的权力和控制（p.458）。
 
 > [!contrast-table] 开放式 vs 封闭式问题在儿童访谈中的比较
 > | 开放式问题 | 封闭式问题 |
 > |---|---|
-> | 回答通常更准确（Wright & Powell（2006, p. 317）） | 可导致[[Response Bias\|回应偏差]]，儿童可能不加思考就提供回答 |
+> | 回答通常更准确（Wright and Powell（2006, p. 317）） | 可导致[[Response Bias\|回应偏差]]，儿童可能不加思考就提供回答 |
 > | 以受访者为驱动和中心 | 以研究者预设类别为驱动 |
 > | 可更多考虑语言或认知能力有限的儿童 | Waterman et al.（2001）报告儿童对故意设计的不可回答问题也给出清晰是/否回答——**问题格式人为地扭曲了回应** |
 
@@ -789,7 +789,7 @@ Scheurich（1995, p. 240）：即使常规信度程序也力不从心：保持�
 
 ### 21.8 访谈少数群体和边缘化人群（pp.462–463）
 
-Parker & Lynn（2002, p. 13）：大量教育研究通过不关注边缘群体关切、不纳入研究领域或以文化不适当方法调查而**忽视**这些群体。Kelly（2007, p. 22）：研究者不能再以"对传统研究方法构成挑战"为由**排除**有学习障碍的儿童。
+Parker and Lynn（2002, p. 13）：大量教育研究通过不关注边缘群体关切、不纳入研究领域或以文化不适当方法调查而**忽视**这些群体。Kelly（2007, p. 22）：研究者不能再以"对传统研究方法构成挑战"为由**排除**有学习障碍的儿童。
 
 > [!claim] 方法论取向转变
 > 需要更多**非正式、开放式访谈**（跟随受访者思路和回应），而非高度结构化访谈（Swain et al., 1998, p. 26）。建议叙事性、质性和[[In-depth Interview\|深度访谈]]，使**自我披露**成为可能，参与者以自身方式"**讲述自己的故事**"（Barron（1999, p. 38）），用自己的语言叙述主观经验，让他们发出本不会被听见的**声音**。
@@ -802,7 +802,7 @@ Parker & Lynn（2002, p. 13）：大量教育研究通过不关注边缘群体�
 > 5. 可能需通过[[Gatekeepers\|守门人]]获得接触（家长、社会工作者、健康团队、照料者），且可能需要他们在场或代表发言（Kelly, 2007, p. 24）
 > 6. 可能需要举行**几次短访谈**而非一次长访谈（Kelly, 2007, p. 25）
 > 7. **更长时间等待**回答，对言语外沟通方式保持警觉：面部表情、书写、手语、手势、符号、画画、游戏（Kelly, 2007, p. 28）
-> 8. 从**[[Deficiencies Model for an Introduction\|缺陷模型]]**（聚焦于儿童不能说话）转向**积极模型**（关注他们如何通过其他方式沟通）
+> 8. 从 **[[Deficiencies Model for an Introduction\|缺陷模型]]**（聚焦于儿童不能说话）转向**积极模型**（关注他们如何通过其他方式沟通）
 
 ---
 
@@ -983,7 +983,7 @@ Parker & Lynn（2002, p. 13）：大量教育研究通过不关注边缘群体�
 
 ### 21.12 访谈中的伦理议题（pp.476–477）
 
-三个主要伦理领域是**[[Informed Consent|知情同意]]、保密性、访谈后果**，每个都不简单（Kvale（1996, p. 111）–120）。
+三个主要伦理领域是 **[[Informed Consent|知情同意]]、保密性、访谈后果**，每个都不简单（Kvale（1996, p. 111）–120）。
 
 > [!question] 访谈前必须回答的关键伦理问题
 > - [[Informed Consent\|知情同意]]是否已获得？书面或口头？
@@ -1030,7 +1030,7 @@ Parker & Lynn（2002, p. 13）：大量教育研究通过不关注边缘群体�
 >
 > *Focus groups are a form of group interview, though not in the sense of a backwards and forwards between interviewer and group. Rather, the reliance is on the interaction within the group who discuss a topic supplied by the researcher (Morgan（1988, p. 9）).*
 
-> [!citation-card]- [[Focused Interview\|聚焦访谈]]的独特价值（Merton & Kendall（1946, p. 541））
+> [!citation-card]- [[Focused Interview\|聚焦访谈]]的独特价值（Merton and Kendall（1946, p. 541））
 > 对情境的预先了解明显减少了研究者面对的任务，因为访谈无需用于发现情境的客观性质。预先配备[[Content Analysis\|内容分析]]后，访谈者可以轻易区分案例的客观事实与情境的主观定义。因此他对"选择性回应"的整个领域保持警觉。
 >
 > *Foreknowledge of the situation obviously reduces the task confronting the investigator, since the interview need not be devoted to discovering the objective nature of the situation.*

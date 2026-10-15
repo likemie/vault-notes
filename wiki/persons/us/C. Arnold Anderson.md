@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # C. Arnold Anderson
@@ -172,7 +172,7 @@ updated: 2026-10-09
 > |:---|:---|:---|:---|
 > | **抽象系统恒常模式命题** | 比较研究应超越具体历史时态，探求教育与社会矩阵之间的恒常规律 | 结构功能分析、跨国[[Causal Modeling\|因果建模]]与宏观社会学 | Anderson (1961, p. 10); [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] |
 > | **方法论客观主义命题** | 经验量化与统计假说检验是根除主观偏见、确立科学性的基石 | 实证研究设计、大规模跨国抽样与指标测算 | Anderson (1961, p. 22) |
-> | **社会分流功能命题** | 学校教育是实现社会流动、人才选拔与人力资本积累的客观功能载体 | 教育社会学、教育经济学与[[Development Education\|发展教育]]规划 | Anderson & Bowman (1965) |
+> | **社会分流功能命题** | 学校教育是实现社会流动、人才选拔与人力资本积累的客观功能载体 | 教育社会学、教育经济学与[[Development Education\|发展教育]]规划 | Anderson and Bowman (1965) |
 > | **合法化借口批判命题** | 客观中立实证模型充当了冷战技术援助与国家五年计划的政治合法化工具 | 比较认识论反思、发展援助政策批评 | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] |
 
 ---

@@ -87,7 +87,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Engineering Education
@@ -279,7 +279,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Bozeman_2004_JTT\|Bozeman & Boardman (2004)]] | 1984–2004 年 [[National Science Foundation\|NSF]] 资助的 56 所[[Engineering Research Centers\|工程研究中心]]及工程教育与中心处（EEC）预算 | 纵向政策文本分析与口述史 | 教育组件设立、EEC 预算分配与学生参与 | 2003 财年 EEC 预算达 1.327 亿美元，所有 56 所中心均依法设立强制性本科/研究生动手工程教育方案 | — | 证明了通过联邦专项中心资助能够有力驱动大学工[[Chinese Academy of Sciences\|科学院]]重构工程教育实践模式。 |
+> | [[Argument_Bozeman_2004_JTT\|Bozeman and Boardman (2004)]] | 1984–2004 年 [[National Science Foundation\|NSF]] 资助的 56 所[[Engineering Research Centers\|工程研究中心]]及工程教育与中心处（EEC）预算 | 纵向政策文本分析与口述史 | 教育组件设立、EEC 预算分配与学生参与 | 2003 财年 EEC 预算达 1.327 亿美元，所有 56 所中心均依法设立强制性本科/研究生动手工程教育方案 | — | 证明了通过联邦专项中心资助能够有力驱动大学工[[Chinese Academy of Sciences\|科学院]]重构工程教育实践模式。 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 48, 55)]] | 俄亥俄州新奥尔巴尼与全美制造业就业纵向数据（1979–2025 年） | 政策案例考证与劳动力统计 | 制造业就业比重与产教融合课程覆盖 | 制造业就业占总就业比重由 1979 年 22% 降至 8%；俄亥俄统筹 23 所社区学院开发开放式芯片制造技术员课程，有效支撑 20 亿美元先进制程制造集聚 | — | 证实地方产业集聚与动手工程课程体系协同构建是维系工程设计能力的关键支撑。 |
 > | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026, pp. 20–24)]] | 美国半导体[[National Innovation System\|国家创新系统]]与高校工程人才培养网络，2022–2026 年 | 多案例嵌入式与宏观劳动力供需追踪 | 专业岗位缺口、微证书项目与跨校中心协同规模 | 至 2030 年美国半导体专业技术岗位缺口达 6.7 万个，全美高技能工人短缺 140 万；亚利桑那州立大学富尔顿工程学院联合[[Taiwan Semiconductor Manufacturing Corporation\|台积电]]开设微证书技术员培训；加州大学伯克利分校将 RISC-V 嵌入全校计算机与工科课程；Albany NanoTech 设立北美唯一 300 毫米晶圆中试线支撑产教共置实训 | — | 证实工程教育通过开源标准锁定、三级人才梯队与中试共置平台能够有效支撑国家战略产业底座。 |
 
@@ -289,8 +289,8 @@ updated: 2026-10-15
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 阐释《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》第三支柱“全谱系劳动力培育（Goal 3）”，系统规划 [[Advanced Technological Education|ATE]] 社区学院技术员认证、REU/RET 动手洁净室实训、微电子[[Co-Design|协同设计]]课程与 [[Natcast]] 劳动力卓越中心（WCoE）的顶层路径。
-> - [[Argument_Bozeman_2004_JTT|Bozeman & Boardman (2004)]] — 系统记录了 1980 年代 [[National Science Foundation|NSF]] 通过[[Engineering Research Centers|工程研究中心]]（ERC）重构高等工程教育动手实践与跨学科系统设计[[Paradigm|范式]]的历史进程。
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 从[[Epistemic Practices|认识论实践]]维度系统剖析了工程教育在多约束权衡、原型设计迭代与数据决策中的独特[[Epistemology|认识论]]规程。
+> - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 系统记录了 1980 年代 [[National Science Foundation|NSF]] 通过[[Engineering Research Centers|工程研究中心]]（ERC）重构高等工程教育动手实践与跨学科系统设计[[Paradigm|范式]]的历史进程。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 从[[Epistemic Practices|认识论实践]]维度系统剖析了工程教育在多约束权衡、原型设计迭代与数据决策中的独特[[Epistemology|认识论]]规程。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，深刻揭示实体制造空心化对工程设计与手艺传承的侵蚀，提出重构高等工程教育动手实训与在岗[[Apprenticeship|学徒制]]的制度路径。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统剖析现代半导体创新体系中大学工程教育如何通过“教育即标准”锁定开源事实标准，构建微凭证至拔尖博士三级梯队与中试共置实训。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演进视角，系统阐释国家战略科技力量建设如何推动高等工程教育向关键技术能力掌控转型。

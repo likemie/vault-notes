@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-06
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # National Character
@@ -218,7 +218,7 @@ updated: 2026-10-09
 > > 国民性格应被理解为固化的族裔血缘属性还是动态开放的政治文化承诺。
 > >
 > > - **极右翼族裔论（如 Le Pen, 1996）** 将国民性格局限于特定血统与种族纯洁性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 193)]]
-> > - **[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]** 倡导超越种族与宗教的开放国民性格，作为维系[[Technological Republic|技术共和国]]公共善与科技创新的精神基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 193–194)]]
+> > - **[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]** 倡导超越种族与宗教的开放国民性格，作为维系[[Technological Republic|技术共和国]]公共善与科技创新的精神基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 193–194)]]
 
 ---
 

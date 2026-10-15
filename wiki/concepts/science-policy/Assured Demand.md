@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Assured Demand
@@ -65,7 +65,7 @@ updated: 2026-10-09
 ## 定义
 
 > [!def] 核心定义
-> **确定性需求（Assured Demand / 保证性需求）**是指公共部门通过法律合同、长期预算配额与具有约束力的前瞻性采购协议，为技术尚未完全成熟、早期单位成本极高的新兴颠覆性产品或工艺提供 100% 或大比例托底的初始市场，从而彻底消除企业在[[Research Translation|技术转化]]与产业化初期面临的商业化买单不确定性（Commercial Market Uncertainty）的政策与市场机制。该机制由[[Jerome E. Schnee|杰罗姆·E·施尼]]（[[Jerome E. Schnee]], 1978）在考察战后美国半导体与计算机工业演进时正式确立，是[[David C. Mowery|大卫·C·莫厄里]]（[[David C. Mowery]], 2011）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（[[Mariana Mazzucato]], 2018）等学者剖析[[Demand-side Innovation Policy|需求侧创新政策]]与[[Market Shaping and Creating|市场塑造]]时倚重的核心微观动力学支柱。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 6–10)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 165–168)]]
+> **确定性需求（Assured Demand / 保证性需求）** 是指公共部门通过法律合同、长期预算配额与具有约束力的前瞻性采购协议，为技术尚未完全成熟、早期单位成本极高的新兴颠覆性产品或工艺提供 100% 或大比例托底的初始市场，从而彻底消除企业在[[Research Translation|技术转化]]与产业化初期面临的商业化买单不确定性（Commercial Market Uncertainty）的政策与市场机制。该机制由[[Jerome E. Schnee|杰罗姆·E·施尼]]（[[Jerome E. Schnee]], 1978）在考察战后美国半导体与计算机工业演进时正式确立，是[[David C. Mowery|大卫·C·莫厄里]]（[[David C. Mowery]], 2011）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（[[Mariana Mazzucato]], 2018）等学者剖析[[Demand-side Innovation Policy|需求侧创新政策]]与[[Market Shaping and Creating|市场塑造]]时倚重的核心微观动力学支柱。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 6–10)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 165–168)]]
 
 > [!concept-lens] 概念透镜
 > - **核心含义** 指向公共购买力通过对初期产能进行无风险包揽，打通实验室原型跨越商业化中试鸿沟的制度桥梁。
@@ -211,4 +211,4 @@ updated: 2026-10-09
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统实证确立确定性需求在战后半导体与计算机产业中释放 20%–30% [[Learning Economy|学习经济]]效应并拉动商用市场自发扩散的核心机制。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 详尽剖析战后美国国防采购如何充当创新奖金与确定性先导用户，降低新创企业准入门槛并催生商用通用市场。
-> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 将确定性公共采购确立为[[Mission-Oriented Innovation Policy|使命导向创新政策]]塑造与创造全新市场的核心支柱。
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 将确定性公共采购确立为[[Mission-Oriented Innovation Policy|使命导向创新政策]]塑造与创造全新市场的核心支柱。

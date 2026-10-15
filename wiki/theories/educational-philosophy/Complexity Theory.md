@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Complexity Theory
@@ -166,7 +166,7 @@ updated: 2026-10-15
 > - **因果关系的不可分割性** 系统实体互为因果、共同演化（Co-evolution），单向线性因果链在复杂系统中彻底失效。
 > - **探究必然的价值涉入** 任何探究设计均不可避免地携带特定价值倾向，不存在绝对纯粹的[[Value Neutrality\|价值中立]]。
 
-在研究方法选择上，复杂性理论倡导[[Case Study|案例研究]]、深度质性叙事、[[Action Research|行动研究]]与参与式协作研究。Phelps & Graham（2010, p. 184）论证了行动研究与复杂性理论之间存在深层互补性，二者在九个关键维度高度共鸣：
+在研究方法选择上，复杂性理论倡导[[Case Study|案例研究]]、深度质性叙事、[[Action Research|行动研究]]与参与式协作研究。Phelps and Graham（2010, p. 184）论证了行动研究与复杂性理论之间存在深层互补性，二者在九个关键维度高度共鸣：
 
 > [!feature] 行动研究与复杂性理论的九重共鸣（Phelps & Graham, 2010）
 > - **接受系统的不可预测性** 承认教育现场处于开放、不可预知与非线性演进之中。
@@ -179,7 +179,7 @@ updated: 2026-10-15
 > - **彻底摆脱变量控制执念** 放弃在活生生的教育情境中保持变量恒定的不切实际幻想。
 > - **拥抱系统的复杂性本质** 将系统的不确定性视作创新生长的土壤而非亟待消除的噪音。
 
-复杂性理论强烈倡导**[[Teacher-as-Researcher|教师即研究者]]**运动，主张专业研究人员与一线教育实践者结成平等的共生伙伴网络，将自组织研究权赋予日常实践者。
+复杂性理论强烈倡导 **[[Teacher-as-Researcher|教师即研究者]]** 运动，主张专业研究人员与一线教育实践者结成平等的共生伙伴网络，将自组织研究权赋予日常实践者。
 
 ### 命题四　复杂性逻辑作为计算机模拟与虚拟世界知识建构的基石
 
@@ -244,7 +244,7 @@ updated: 2026-10-15
 > - **2000s — 教育[[Paradigm\|研究范式]]建构与方法论深化**
 >   [[Keith Morrison\|莫里森]]（Keith Morrison, 2002a, 2008）等学者系统将复杂性理论引入教育学，将其建制化为抗衡[[Positivism\|实证主义]]量化霸权的新兴范式。库恩（Sarah Kuhn, 2007）提出复杂性研究五大公理；菲尔普斯与格雷厄姆（Phelps & Graham, 2010）论证其与[[Action Research\|行动研究]]的九重互补，激发教师作为研究者的实践转向。
 > - **2010s 至今 — [[Computer Simulation\|计算机模拟]]、[[Agent-based Modelling\|ABM]]、系统治理与虚拟生态实践**
->   基于主体建模（ABM）与复杂[[Network Analysis\|网络分析]]成为检验复杂系统假说的强力数字工具；同时，Best & Holmes (2010)、Burns & Köster (2016)、Mason (2016) 与 [[Argument_Torres_2022_KMModels\|Torres (2022b)]]、[[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] 将复杂适应系统确立为现代教育治理与跨国证据生态（[[OECD]] 37 个教育系统调查）的核心元理论透镜；政策执行复杂性理论（Honig, 2006; [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt, 2019]]）进一步揭示多层级治理中的中层组织界面与单体学校[[Absorptive Capacity|吸收能力]]制约，驱动公共教育政策从单向流水线控制转向自组织生态培育与全系统动力学协同。
+>   基于主体建模（ABM）与复杂[[Network Analysis\|网络分析]]成为检验复杂系统假说的强力数字工具；同时，Best and Holmes (2010)、Burns & Köster (2016)、Mason (2016) 与 [[Argument_Torres_2022_KMModels\|Torres (2022b)]]、[[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] 将复杂适应系统确立为现代教育治理与跨国证据生态（[[OECD]] 37 个教育系统调查）的核心元理论透镜；政策执行复杂性理论（Honig, 2006; [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt, 2019]]）进一步揭示多层级治理中的中层组织界面与单体学校[[Absorptive Capacity|吸收能力]]制约，驱动公共教育政策从单向流水线控制转向自组织生态培育与全系统动力学协同。
 
 ---
 

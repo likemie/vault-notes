@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Reach
@@ -60,7 +60,7 @@ updated: 2026-10-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **Reach（Reach 读写干预方案）**是由英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）出资资助并委托英国财政研究所（IFS）等机构开展独立因果评估的小学升初中（Key Stage 2 至 Key Stage 3 衔接期）助教一对一强化方案；其核心目标是针对英格兰六至七年级（约 11–12 岁）在进入初中后面临严重阅读衰退危机的学困生，由受训教学助教实施高频密集的一对一个别化读写辅导，保障弱势儿童平稳适应中等教育课程。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> **Reach（Reach 读写干预方案）** 是由英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）出资资助并委托英国财政研究所（IFS）等机构开展独立因果评估的小学升初中（Key Stage 2 至 Key Stage 3 衔接期）助教一对一强化方案；其核心目标是针对英格兰六至七年级（约 11–12 岁）在进入初中后面临严重阅读衰退危机的学困生，由受训教学助教实施高频密集的一对一个别化读写辅导，保障弱势儿童平稳适应中等教育课程。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 启动于 2013 年 EEF 小初过渡专项资助倡议，经过多所中学严格[[Randomised Controlled Trials\|随机对照试验]]评估，于 2016 年发布终期评估报告。

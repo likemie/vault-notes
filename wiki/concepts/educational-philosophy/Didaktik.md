@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Didaktik
@@ -147,5 +147,5 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff (2024)]] — 考掘欧洲教学论（Didaktik）与教化传统的批判解放内涵，阐述芬兰国家核心课程中跨学科与[[Phenomenon-Based Learning\|现象本位学习]]的理论根基，并分析 SveaSus 项目如何围绕[[Epochal Key Problems\|时代关键问题]]在世界遗产地开展具身教学实验。
-> - [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge (2022)]] — 探讨算法化与数字化时代教学论、教化与规范教育的整合星座，反思技术介入对教师教学判断的影响。
+> - [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024)]] — 考掘欧洲教学论（Didaktik）与教化传统的批判解放内涵，阐述芬兰国家核心课程中跨学科与[[Phenomenon-Based Learning\|现象本位学习]]的理论根基，并分析 SveaSus 项目如何围绕[[Epochal Key Problems\|时代关键问题]]在世界遗产地开展具身教学实验。
+> - [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz and Klinge (2022)]] — 探讨算法化与数字化时代教学论、教化与规范教育的整合星座，反思技术介入对教师教学判断的影响。

@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-13
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Hegemony
@@ -118,9 +118,9 @@ updated: 2026-10-15
 > - **1929–1935 — 葛兰西狱中奠基** Antonio Gramsci 区分直接强制与文化霸权，确立国家不仅是镇压机器，更是通过教育和文化装置教育被统治者以取得积极同意的伦理实体。
 > - **1970–1980 年代 — 英语学术圈拓展与[[Critical Pedagogy|批判教育学]]** 随着英译本出版，斯图亚特·霍尔（Stuart Hall）将其引入文化研究；[[Paulo Freire|保罗·弗莱雷]]与[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple）将其转化为[[Critical Pedagogy|批判教育学]]，剖析国家教科书作为“[[Official Knowledge|官方知识]]”的霸权筛选机制。
 > - **2000 年代 — 超国家政策话语与[[Knowledge-Based Economy|知识经济]]霸权[[Social Imaginary|社会想象]]** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）将霸权理论拓展至全球教育政策领域，揭示跨国组织（如[[OECD|经济合作与发展组织]]，OECD，简称经合组织）如何通过将“全球化”本体化为不可抗拒的自然规律，以及将“[[Knowledge-Based Economy|知识经济]]”建构为霸权性[[Social Imaginary|社会想象]]，垄断政策话语词汇并系统性排除公平、生态与[[Public Value|公共价值]]等替代性愿景（Schirato & Webb, 2003; Kenway et al., 2006）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441, 445)]]
-> - **2024 — 课程话语与边缘群体反思抵抗** [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] 分析 217 册必修教材与少数民族学生访谈，实证展示课程如何通过“师生隐喻”自然化汉文化中心霸权，以及边缘主体利用自身文化资源实施的反霸权解构。
+> - **2024 — 课程话语与边缘群体反思抵抗** [[Argument_Yu_2024_CE|Yu and Zhao (2024)]] 分析 217 册必修教材与少数民族学生访谈，实证展示课程如何通过“师生隐喻”自然化汉文化中心霸权，以及边缘主体利用自身文化资源实施的反霸权解构。
 > - **2025 — [[Geopolitics of Higher Education|高等教育地缘政治]]理论化** [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]] 将霸权理论全面引入[[Geopolitics of Higher Education|高等教育地缘政治]]，替代[[World-Systems Theory|世界体系理论]]，论证英美大学全球扩张与[[Global Universities Rankings|全球大学排名]]如何制造全球学术共识与自我[[Disciplina and Doctrina|规训]]。
-> - **2026 — 算法文化霸权与制度化嵌入批判** [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] 揭示[[Generative Artificial Intelligence|生成式人工智能]]在训练数据中深度固化强势文化与精英规范，批判高校集中采购与平台捆绑将学术工作推向制度化依赖，指责其在抹平证据[[Heterogeneity|异质性]]的同时隐蔽再生产主导阶层文化霸权，侵害认识正义。
+> - **2026 — 算法文化霸权与制度化嵌入批判** [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] 揭示[[Generative Artificial Intelligence|生成式人工智能]]在训练数据中深度固化强势文化与精英规范，批判高校集中采购与平台捆绑将学术工作推向制度化依赖，指责其在抹平证据[[Heterogeneity|异质性]]的同时隐蔽再生产主导阶层文化霸权，侵害认识正义。
 
 ---
 
@@ -150,7 +150,7 @@ updated: 2026-10-15
 > [!theory-proposition] 命题二｜文化部门具备半自主性且霸权始终面临不完整同意与反霸权抵抗
 > **解释** 霸权绝非机械的单向洗脑或全盘极权控制。文化部门（教育、学术、艺术）必须对政治与经济系统保持适度的“半自主性（[[Semi-Autonomy of Higher Education\|semi-autonomy]]）”；唯有当大学和学者展现出探求真理的专业自主假象时，其制造的共识才具备社会可[[Reliability\|信度]]。然而，正因为半自主性的存在，文化[[Champ\|场域]]永远无法实现百分之百的意识形态铁板一块，被支配者立足于边缘文化资源与日常经验，始终展开着反霸权抵抗与“不完整的同意（Incomplete Consent）”。[[Argument_Marginson_2025_ECNUROE\|(Marginson, 2025, pp. 13–14)]]; [[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 68–70)]]
 >
-> **应用实例** [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] 对中国 37 名少数民族大学生的[[In-depth Interview\|深度访谈]]表明，尽管学生在义务教育中全面接受了以汉儒为核心的官方教科书教育，但有高达 86% 的学生在大学阶段明确拒斥“儒家等于中华文化”的霸权等式，展现出立足于本土民族文化对主流教科书[[Discourse|话语]]的反霸权解构。
+> **应用实例** [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 对中国 37 名少数民族大学生的[[In-depth Interview\|深度访谈]]表明，尽管学生在义务教育中全面接受了以汉儒为核心的官方教科书教育，但有高达 86% 的学生在大学阶段明确拒斥“儒家等于中华文化”的霸权等式，展现出立足于本土民族文化对主流教科书[[Discourse|话语]]的反霸权解构。
 
 > [!theory-proposition] 命题三｜霸权通过语法修辞与空间叙事自然化中心—边缘的[[Cultural Hierarchy\|文化等级]]
 > **解释** 霸权话语不仅仅是在内容层面灌输意识形态，更通过隐蔽的语法结构、师生隐喻与时空定位，将不平等的权力关系转化为具有道德善意的文明教化叙事，使处于边缘位置的主体在情感与认知上接受自身的次生地位。[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 67–68)]]
@@ -231,7 +231,7 @@ updated: 2026-10-15
 >
 > | 研究文献 | 样本与实证情境 | 研究设计与方法 | 关键分析指标与[[Variable\|变量]] | 核心实证发现 | 解释边界与政策启示 |
 > |:---|:---|:---|:---|:---|:---|
-> | [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] | 217 册国家统编必修教材；37 名少数民族/信教大学生 | 批判性[[Discourse Analysis\|话语分析]]（CDA）与质性[[In-depth Interview\|深度访谈]] | 教科书汉儒等价化修辞频次；学生对霸权共识的同意度与反抗表述 | • **86%** 学生拒斥儒家垄断中华文化<br>• **43%** 批判其男权与封建等级性<br>• 呈现系统性的“师生教化隐喻” | 经验证实课程霸权无法达成绝对控制，边缘学生展现出高度反霸权批判主体性。 |
+> | [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] | 217 册国家统编必修教材；37 名少数民族/信教大学生 | 批判性[[Discourse Analysis\|话语分析]]（CDA）与质性[[In-depth Interview\|深度访谈]] | 教科书汉儒等价化修辞频次；学生对霸权共识的同意度与反抗表述 | • **86%** 学生拒斥儒家垄断中华文化<br>• **43%** 批判其男权与封建等级性<br>• 呈现系统性的“师生教化隐喻” | 经验证实课程霸权无法达成绝对控制，边缘学生展现出高度反霸权批判主体性。 |
 > | [[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]] | 全球前 200 顶尖大学排名数据与学术出版引文网络（1990–2020） | 历史比较制度分析与[[Geopolitics of Higher Education\|高等教育地缘政治]]学追踪 | 英美大学在世界排名中的集中度与学术英语全球化指标 | • 英美大学垄断全球前 20 强达 **85%** 以上<br>• 全球高被引论文中英语成果占比超 **90%** | 确证高等教育全球化并非平等的无国界流动，而是高度不对称的盎格鲁-美利坚学术霸权制造过程。 |
 
 ---
@@ -240,8 +240,8 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]] — 将葛兰西霸权理论系统引入[[Geopolitics of Higher Education|高等教育地缘政治]]，替代[[World-Systems Theory|世界体系理论]]，剖析美式大学、引文评价与大学排名如何制造全球知识等级的积极同意。
-> - [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] — 结合 217 册教材文本与少数民族学子访谈，实证揭示国家课程如何作为霸权装置自然化文化中心主义，以及边缘群体的反霸权解构。
-> - [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] — 将霸权理论拓展至[[Man-Computer Symbiosis|人机共生]]时代的[[Epistemology|认识论]]批判，揭示大模型语料偏倚与高校平台捆绑如何隐蔽再生产主导阶层文化霸权，倡导捍卫认识多样性与分布式责任。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 441, 445)]] — 揭示[[OECD|经合组织]]如何将全球化与[[Knowledge-Based Economy|知识经济]]建构为霸权性[[Social Imaginary|社会想象]]，垄断政策词汇并排斥替代性愿景。
+> - [[Argument_Yu_2024_CE|Yu and Zhao (2024)]] — 结合 217 册教材文本与少数民族学子访谈，实证揭示国家课程如何作为霸权装置自然化文化中心主义，以及边缘群体的反霸权解构。
+> - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 将霸权理论拓展至[[Man-Computer Symbiosis|人机共生]]时代的[[Epistemology|认识论]]批判，揭示大模型语料偏倚与高校平台捆绑如何隐蔽再生产主导阶层文化霸权，倡导捍卫认识多样性与分布式责任。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 441, 445)]] — 揭示[[OECD|经合组织]]如何将全球化与[[Knowledge-Based Economy|知识经济]]建构为霸权性[[Social Imaginary|社会想象]]，垄断政策词汇并排斥替代性愿景。
 > - [[Geopolitics of Knowledge]] — 应用霸权理论解释西方学术[[Paradigm|范式]]对发展中国家大学学术议程与认知图式的[[Disciplina and Doctrina|规训]]与支配。
 > - [[Sinicisation]] — 探讨国家如何通过制度性教育与文化装置实现多民族国家的认同整合与文化领导权建构。

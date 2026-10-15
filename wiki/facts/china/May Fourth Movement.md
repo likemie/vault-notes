@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-11
+updated: 2026-10-16
 ---
 
 # May Fourth Movement
@@ -95,7 +95,7 @@ updated: 2026-10-11
 > [!actor-grid] 评论视角
 > - **五四激进青年视角** 主张直接行动、政治革命与彻底打倒旧秩序。
 > - **温和教育救国视角** 蒋琦（1919）、黄炎培 — 主张通过教育改良与职业训练救国，反对将教育过度政治化。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.615]]）
-> - **比较教育[[Theoretical Perspective\|理论视角]]** [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]] — 证明五四的高度政治化是造成[[John Dewey\|杜威]]思想在华民主理想与渐进方法结构性解耦的根源。
+> - **比较教育[[Theoretical Perspective\|理论视角]]** [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] — 证明五四的高度政治化是造成[[John Dewey\|杜威]]思想在华民主理想与渐进方法结构性解耦的根源。
 
 > [!tension] 五四救国路线分歧：政治革命 vs. 教育改良
 > - **政治革命路线（蓝方）** 激进派认为思想文化启蒙缓不济急，主张通过直接群众运动与政治革命彻底改造国家政权与[[Social Regime|社会体制]]。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.614]]）

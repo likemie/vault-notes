@@ -125,10 +125,10 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **[[Interactional Expertise\|交互型专长（Interactional Expertise）]]**<br>Collins & Evans (2007); Eyal (2019) | 指涉研究者、[[Boundary Spanner\|知识经纪人]]与智库专家凭借技术客观性、论辩修辞与方法论标准建立的知识权威，其特征在于能够流利转述与重构专业概念，但缺乏现场操作的具身实践经验。（pp. 7–8） |
+> | **[[Interactional Expertise\|交互型专长（Interactional Expertise）]]**<br>Collins and Evans (2007); Eyal (2019) | 指涉研究者、[[Boundary Spanner\|知识经纪人]]与智库专家凭借技术客观性、论辩修辞与方法论标准建立的知识权威，其特征在于能够流利转述与重构专业概念，但缺乏现场操作的具身实践经验。（pp. 7–8） |
 > | **[[Contributory Expertise\|贡献型专长（Contributory Expertise）]]**<br>一线实践手艺知识与受训判断力 | 指涉一线教师与校长在微观物理与社会情境中长年积累的具身手艺知识（craft knowledge）与受训判断力（trained judgement），构成一线专业人员审视与校准外部通用证据的基石。（p. 8） |
-> | **不可知政治治理观（Agnostic-Political View）**<br>Wilkins & Gobby (2021) | 将[[School Leadership\|学校领导]]视为在多重冲突价值、稀缺资源与外部[[Disciplina and Doctrina\|规训]]之间艰难斡旋的政治博弈过程，破除假定校长能按部就班执行循证决策的功能主义管理迷思。（p. 7） |
-> | **医学化与学习科学模型批判**<br>Furlong & Whitty (2017); Biesta (2007) | 剖析以[[Randomised Controlled Trials\|随机对照试验（Randomised Controlled Trial, RCT）]]和[[Systematic Review\|系统综述]]为代表的新教育科学还原论假设，指出将医学临床[[Paradigm\|范式]]生硬套用于充满价值冲突与伦理考量的教育[[Champ\|场域]]所必然带来的水土不服。（pp. 7, 12） |
+> | **不可知政治治理观（Agnostic-Political View）**<br>Wilkins and Gobby (2021) | 将[[School Leadership\|学校领导]]视为在多重冲突价值、稀缺资源与外部[[Disciplina and Doctrina\|规训]]之间艰难斡旋的政治博弈过程，破除假定校长能按部就班执行循证决策的功能主义管理迷思。（p. 7） |
+> | **医学化与学习科学模型批判**<br>Furlong and Whitty (2017); Biesta (2007) | 剖析以[[Randomised Controlled Trials\|随机对照试验（Randomised Controlled Trial, RCT）]]和[[Systematic Review\|系统综述]]为代表的新教育科学还原论假设，指出将医学临床[[Paradigm\|范式]]生硬套用于充满价值冲突与伦理考量的教育[[Champ\|场域]]所必然带来的水土不服。（pp. 7, 12） |
 
 > [!warrant]- 理论如何支撑论证
 > 传统系统模型（如英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）的五步实施指南）将学校领导者与教师设想为标准信息传送带上的理性执行者，假定只需消除沟通障碍与认知盲区即可实现循证改进。然而，专长社会学（Collins & Evans, 2007）揭示了外部[[Knowledge Production\|知识生产]]者所秉持的技术客观性与一线从业人员所依赖的受训判断力之间存在先天的[[Epistemological Break\|认识论断裂]]。这一断裂在不同的教育治理架构下被显著放大：在高利害市场化体制下，交互专长被商业化包装为免责护身符，导致表演性依从；而在低利害与专业自主体制下，贡献专长方能获得生长土壤，使证据作为反思探究的起点而非终点。（pp. 6–8, 21–23）

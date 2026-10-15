@@ -158,7 +158,7 @@ updated: 2026-10-16
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | [[Statistical Significance\|统计显著性]]与[[Effect Size\|效应量]] | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 4,373名大中小学生（涵盖科学探究、多文本阅读与争议辩论） | 认识论认知因果干预一阶[[Meta-analysis\|元分析]]（28项研究，59个效应量，随机效应模型） | 教学框架（[[Inquiry-Based Learning\|指导式探究]]、[[Source Evaluation\|信源评估]]、支架、PBL、论证）、结果类型（论证表现、概念知识、[[Procedural Knowledge\|程序知识]]） | 1. 总体干预效应：$d = 0.509$ $[0.334, 0.684]$<br>2. 教学框架：指导式探究 $d = 0.808$，信源评估 $d = 0.800$；PBL $d = 0.340$，开放论证 $d = 0.134$<br>3. 结果类型：论证表现 $d = 1.047$，概念知识 $d = 0.557$，程序知识 $d = 0.140$ | 总体效应 $Z = 5.71, p < .001$；教学框架组间 $Q_b = 17.491, p < .01$；结果类型组间 $Q_b = 8.940, p < .05$ | 证实协同训练认识论理想与可靠过程的显性指导教学具有突出因果增益，而放任自主探究效果微弱且不显著 |
-> | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] | 332名七年级学生（24个初中科学班级） | 质性文本分析与课堂[[Discourse Analysis\|话语分析]]（基于 PRACCIS 课程干预） | 科学论证与口头话语中 AIR 三构件（目标设定、理想调用、[[Reliable Epistemic Processes\|可靠过程]]因果条件审视） | 质性证实：经过结构化课程干预，初中生能够自发调用多源收敛、全证据契合等高阶理想，并主动质询抽样偏误与观察条件 | — | 质性概念验证，揭示了 AIR 构件协同与学科实体知识深度纠缠的微观运行机制 |
+> | [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] | 332名七年级学生（24个初中科学班级） | 质性文本分析与课堂[[Discourse Analysis\|话语分析]]（基于 PRACCIS 课程干预） | 科学论证与口头话语中 AIR 三构件（目标设定、理想调用、[[Reliable Epistemic Processes\|可靠过程]]因果条件审视） | 质性证实：经过结构化课程干预，初中生能够自发调用多源收敛、全证据契合等高阶理想，并主动质询抽样偏误与观察条件 | — | 质性概念验证，揭示了 AIR 构件协同与学科实体知识深度纠缠的微观运行机制 |
 
 ---
 
@@ -174,7 +174,7 @@ updated: 2026-10-16
 ## 争议与批评
 
 > [!critique] 对传统论证结构模型的超越与理论交锋
-> - **对[[Toulmin's Argumentation Model\|图尔敏论证模型]]（TAP）与 CER 框架的批判** [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] 尖锐指出，当前科学教育主流框架将论证质量简化为部件数量与复杂性（如主张、证据、推理、反驳）。这种结构主义进路存在重大盲区：全球变暖否定论与反疫苗阴谋论的宣传文本往往具备极其完美的图尔敏结构与复杂反驳，却在[[Epistemic Ideals\|认识论理想]]（采纳孤立个案、诉诸个人直觉）与过程[[Reliability\|可靠性]]（依赖不可靠的非系统观察、选择性报告）上千疮百孔。结构分析无法区分科学论证与披着伪科学外衣的精致谎言。
+> - **对[[Toulmin's Argumentation Model\|图尔敏论证模型]]（TAP）与 CER 框架的批判** [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] 尖锐指出，当前科学教育主流框架将论证质量简化为部件数量与复杂性（如主张、证据、推理、反驳）。这种结构主义进路存在重大盲区：全球变暖否定论与反疫苗阴谋论的宣传文本往往具备极其完美的图尔敏结构与复杂反驳，却在[[Epistemic Ideals\|认识论理想]]（采纳孤立个案、诉诸个人直觉）与过程[[Reliability\|可靠性]]（依赖不可靠的非系统观察、选择性报告）上千疮百孔。结构分析无法区分科学论证与披着伪科学外衣的精致谎言。
 > - **对[[Douglas Walton\|沃尔顿]]（Walton）批判性提问方案的深化** [[Walton's Argumentation Schemes\|沃尔顿论证型式]]所附带的批判性问题列表缺乏对其规范性来源的因果说明，且缺乏处理大规模证据集成的综合方案；AIR 模型通过将证据信度还原为生成该证据的可靠[[Causal Processes\|因果过程]]，为批判性追问提供了坚实的哲学与实证辩护依据。
 
 ---
@@ -182,6 +182,6 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] — 将 AIR 模型系统拓展至科学论证质量的评估中，提供了书面论证与口头[[Discourse Analysis\|话语分析]]的实证范例。
+> - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 将 AIR 模型系统拓展至科学论证质量的评估中，提供了书面论证与口头[[Discourse Analysis\|话语分析]]的实证范例。
 > - [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] — AIR 模型的理论奠基性文献，提出扩展的[[Epistemic Cognition\|认识论认知]]五组件[[Analytic Framework\|分析框架]]。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 认识论认知干预因果[[Meta-analysis\|元分析]]，为 AIR 模型关于适切[[Epistemology\|认识论]]表现需依赖显性教学指导与[[Reliable Epistemic Processes\|可靠过程]]示范的理论推论提供了强有力的大[[Sample Size Determination\|样本量]]化实证支撑。

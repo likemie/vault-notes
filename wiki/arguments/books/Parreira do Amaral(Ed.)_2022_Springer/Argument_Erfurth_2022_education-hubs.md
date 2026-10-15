@@ -46,7 +46,7 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-19
-updated: 2026-10-10
+updated: 2026-10-16
 subtype: book-chapter
 publication_type: book
 title: "Argument_Erfurth_2022_education-hubs"
@@ -118,7 +118,7 @@ citation_aliases:
 
 论文诊断出现有研究的两个问题(pp.202–204)：
 
-1. **肯定性的政策倡导导向**Knight (2014) 的三类枢纽递进模型、Lane & Kinser (2011) 的跨境教育框架——主要采取肯定性立场，为政策制定者提供实施指南和进度测量工具
+1. **肯定性的政策倡导导向**Knight (2014) 的三类枢纽递进模型、Lane and Kinser (2011) 的跨境教育框架——主要采取肯定性立场，为政策制定者提供实施指南和进度测量工具
 2. **视角碎片化** 实证研究集中在留学生/[[Teacher Mobility|教师流动]]、英美澳大学的分校/卫星校园等单一议题(Altbach & Salmi, 2011; Kosmützky, 2018)，少数批评声音指出了[[Soft Power|软实力]]维度但缺乏系统实证(Nye, 2005; Lee, 2015; Tan, 2016)
 
 由此论证需要一种**系统层面的视角**——将教育枢纽置于更广泛的社会政治和经济背景中考察，而非局限于高等教育领域内部。

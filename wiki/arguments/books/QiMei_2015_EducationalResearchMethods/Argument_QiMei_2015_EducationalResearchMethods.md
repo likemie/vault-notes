@@ -167,7 +167,7 @@ related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 status: draft
 created: 2026-06-25
-updated: 2026-09-18
+updated: 2026-10-16
 ---
 # 教育研究方法
 
@@ -551,7 +551,7 @@ updated: 2026-09-18
 
 实验效度是实验结果准确程度的衡量。坎贝尔和斯坦利（Campbell & Stanley, 1963）首先提出了[[Internal Validity|内在效度]]和外在效度的概念。内在效度指实验变量对因变量所造成影响的真正程度，干扰变量越多则内在效度越低。外在效度指实验结果可推论范围的大小。内在效度是外在效度的[[Necessary and Sufficient Conditions|必要条件]]，但二者常需折中平衡——严格控制提升内在效度却可能降低外在效度。
 
-Campbell & Stanley (1963) 识别了影响内在效度的九类因素：
+Campbell and Stanley (1963) 识别了影响内在效度的九类因素：
 
 > [!seq-table] 影响内在效度的九类因素
 > | 因素 | 说明 | 控制方法 |

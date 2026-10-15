@@ -52,7 +52,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Autopoiesis
@@ -177,7 +177,7 @@ updated: 2026-10-15
 >
 > > [!axis] Isomorphism vs Indigenisation
 > > 争论世界社会到底是向西方的同质化模型强制性收敛，还是通过本国的自参照独立运作发生无尽的折射与印记保留 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]])。
-> > - **Meyer & Ramirez (2000)** 强调由于全球普世[[Cultural Models\|文化模型]]的输出，教育政策呈现广泛的形式趋同。
+> > - **Meyer and Ramirez (2000)** 强调由于全球普世[[Cultural Models\|文化模型]]的输出，教育政策呈现广泛的形式趋同。
 > > - **Jürgen Schriewer (2012)** 论证在形式趋同的外衣下，系统通过自创生的自我参照运行，实际上在大脑和实践层面发生着根深蒂固的[[Going Native\|本土化]]重塑与拒绝。
 
 > [!critique]- 批评索引

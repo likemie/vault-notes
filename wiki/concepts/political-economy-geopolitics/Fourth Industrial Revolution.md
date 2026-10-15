@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Fourth Industrial Revolution
@@ -86,7 +86,7 @@ updated: 2026-10-07
 > [!warning]
 > - Partaken 的批评本身建立在将 Kuhn 的科学革命理论从自然科学领域移植到技术-社会变革领域——Kuhn 的理论原用于解释物理学中的[[Paradigm|范式]]转换，将其应用于工业革命分类是否恰当，Partaken 本人未加讨论([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.70]])
 > - 4IR 概念在政策界和企业界仍被广泛应用（WEF、各国产业政策），Partaken 的理论批评尚未在实践层面产生替代[[Discourse|话语]]
-> - **[[Single-Case Design\|SCD]] 技能与未来劳动市场的证据缺口** 4IR 催生的 SCD 框架所定义的"关键技能"是否真正对应未来劳动市场的实际需求，缺乏充分证据。Finegold & Notabartolo（2010, p.41）指出，如果工作岗位的设计不使用这些能力，投资提升个体通用能力不太可能带来正回报。"迄今为止，只有少数研究证明了 21 世纪素养与成人结果之间的[[Causality\|因果关系]]"（Pellegrino & Hilton, 2012, p.4, cit. by Zelinka, 2022, p.260）
+> - **[[Single-Case Design\|SCD]] 技能与未来劳动市场的证据缺口** 4IR 催生的 SCD 框架所定义的"关键技能"是否真正对应未来劳动市场的实际需求，缺乏充分证据。Finegold and Notabartolo（2010, p.41）指出，如果工作岗位的设计不使用这些能力，投资提升个体通用能力不太可能带来正回报。"迄今为止，只有少数研究证明了 21 世纪素养与成人结果之间的[[Causality\|因果关系]]"（Pellegrino & Hilton, 2012, p.4, cit. by Zelinka, 2022, p.260）
 
 ---
 

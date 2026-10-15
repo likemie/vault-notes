@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Knowledge Network for Applied Education Research
@@ -100,7 +100,7 @@ updated: 2026-10-15
 ## 相关概念与研究
 
 > [!evidence-grid-a] 相关索引
-> - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 将 KNAER 作为全系统[[Knowledge Mobilisation\|知识动员]]的旗舰实证案例进行深度评述。
+> - [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] — 将 KNAER 作为全系统[[Knowledge Mobilisation\|知识动员]]的旗舰实证案例进行深度评述。
 > - Campbell et al. (2017) — 《System-wide knowledge mobilization for educational research and practice》，KNAER 核心研究。
 > - [[Knowledge Mobilisation]] — [[Construct\|理论构念]]条目。
 > - [[Boundary Spanner]] — 跨界中介者在 KNAER 中的应用。

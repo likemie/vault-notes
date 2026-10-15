@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Indexicality
@@ -178,7 +178,7 @@ updated: 2026-10-15
 > | 命题编号 | 核心理论断言 | 代表学者与文献 | 认识论／方法论取向 |
 > |---|---|---|---|
 > | **命题一** | 日常言语与行动的意义深嵌于特定时空情境之中 | Garfinkel (1967, p. 11); Bar-Hillel (1954) | 常人方法学、语言哲学 |
-> | **命题二** | 索引性的顺畅运作依托于共享常识知识库与历史 | Schutz (1967); Walker & Adelman (1975, p. 133) | [[Phenomenology\|现象学]]社会学、情境互动论 |
+> | **命题二** | 索引性的顺畅运作依托于共享常识知识库与历史 | Schutz (1967); Walker and Adelman (1975, p. 133) | [[Phenomenology\|现象学]]社会学、情境互动论 |
 > | **命题三** | 实证主义去情境化行为编码必然造成系统性误读 | Delamont (1976); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] | 课堂民族志、[[Interpretive Paradigm\|反实证主义]]批判 |
 > | **命题四** | 索引性是社会现实的本然特征而非待修补缺陷 | Garfinkel (1967, p. 18) | 微观社会学元理论 |
 

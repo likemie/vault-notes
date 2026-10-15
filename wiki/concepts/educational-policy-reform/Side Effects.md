@@ -33,7 +33,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-04'
-updated: 2026-09-18
+updated: 2026-10-16
 ---
 
 ## 定义
@@ -81,7 +81,7 @@ updated: 2026-09-18
 
 
 > [!success] 案例三：[[No Child Left Behind Act 2001\|NCLB]] 测试问责的副作用
-> - Nichols & Berliner (2007) 记录了广泛的副作用：作弊（约 10% 教师/行政人员承认）、排斥弱势学生（将他们从考试名单中移除）、课程窄化（对弱势学校影响更显著）、教学扭曲为应试([[Argument_Zhao_2017_JEC\|Zhao, 2017, p.13-14]])
+> - Nichols and Berliner (2007) 记录了广泛的副作用：作弊（约 10% 教师/行政人员承认）、排斥弱势学生（将他们从考试名单中移除）、课程窄化（对弱势学校影响更显著）、教学扭曲为应试([[Argument_Zhao_2017_JEC\|Zhao, 2017, p.13-14]])
 > - 这些副作用本可依据 Campbell's Law 预测([[Argument_Zhao_2017_JEC\|Zhao, 2017, p.15]])
 
 ## 争议与批评

@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-15
+updated: 2026-10-16
 title: Agile Governance
 aliases:
   - 敏捷治理
@@ -74,7 +74,7 @@ aliases:
 ## 定义
 
 > [!def] 核心定义
-> **敏捷治理（Agile Governance / 敏捷公共管理与敏捷试错）**是指将源自软件工程、以人为本服务设计（User-Centred Service Design）与[[Engineering Pragmatism|工程实用主义]]的敏捷迭代哲学跨界引入公共行政、国家防务与科技政策制定中的新型治理[[Paradigm|范式]]；其核心特征在于彻底打破传统[[New Public Management|新公共管理]]（New Public Management, NPM）所依赖的事前僵化规划、长周期线性推进与全面[[Externalization|外部化]]的“瀑布模型”（Waterfall Model），在公共部门内部构建敏捷软件工程与跨学科流动团队能力，通过短周期快速迭代、最小可行产品（Minimum Viable Product, MVP）测试、真实运行反馈、免责根因追溯以及[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trial, RCT）等实证工具，在持续的“小步快跑、试错修正与快速止损”中动态优化政策设计与公共系统交付。[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）将敏捷治理确立为支撑第三代使命导向政策与落实[[Lead-and-Learn Paradigm|引领与学习范式]]的核心行政操作方法论；[[Alexander Karp|亚历山大·卡普]]（Alexander Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas Zamiska）则进一步将敏捷工程试错升华为现代国家克服官僚教条主义与重塑[[Technological Republic|技术共和国]]的组织认知基石。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–798)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 156–167)]]
+> **敏捷治理（Agile Governance / 敏捷公共管理与敏捷试错）** 是指将源自软件工程、以人为本服务设计（User-Centred Service Design）与[[Engineering Pragmatism|工程实用主义]]的敏捷迭代哲学跨界引入公共行政、国家防务与科技政策制定中的新型治理[[Paradigm|范式]]；其核心特征在于彻底打破传统[[New Public Management|新公共管理]]（New Public Management, NPM）所依赖的事前僵化规划、长周期线性推进与全面[[Externalization|外部化]]的“瀑布模型”（Waterfall Model），在公共部门内部构建敏捷软件工程与跨学科流动团队能力，通过短周期快速迭代、最小可行产品（Minimum Viable Product, MVP）测试、真实运行反馈、免责根因追溯以及[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trial, RCT）等实证工具，在持续的“小步快跑、试错修正与快速止损”中动态优化政策设计与公共系统交付。[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）将敏捷治理确立为支撑第三代使命导向政策与落实[[Lead-and-Learn Paradigm|引领与学习范式]]的核心行政操作方法论；[[Alexander Karp|亚历山大·卡普]]（Alexander Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas Zamiska）则进一步将敏捷工程试错升华为现代国家克服官僚教条主义与重塑[[Technological Republic|技术共和国]]的组织认知基石。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–798)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 156–167)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 标识了公共治理从“基于假设的事前合规审查与瀑布式外包”向“基于代码运行、实证原型与真实环境反馈的自适应演化学习”的深刻哲学转向。
@@ -145,7 +145,7 @@ aliases:
 > [!concept-lens] 国家能力重构与[[Cognitive Deskilling|去技能化]]反思维度
 > 探讨如何通过在公共体系内部建立敏捷软件与服务设计能力，摆脱对外部大型咨询寡头的病态依赖。
 
-> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
+> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **内化技术专才终结外部锁定** [[New Public Management|新公共管理]]推行数十年的全面外包，导致政府内部丧失了对复杂技术与数字化系统的理解力和判断力；以英国 [[Government Digital Service|GDS]] 为代表的敏捷治理实践证明，唯有在公共体系内部建立敏捷软件工程与服务设计能力，政府才能摆脱大型咨询寡头的[[Consultocracy|顾问统治]]，重塑现代国家的行政层级动态能力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
 
 ---
@@ -155,7 +155,7 @@ aliases:
 > [!concept-lens] 治理[[Paradigm|范式]]与操作工具维度
 > 审视宏观战略愿景如何通过基层的自适应实验与实证反馈机制转化为具体的政策效能。
 
-> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
+> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **试错实验连接宏观引领与微观学习** 应对 21 世纪重大社会挑战既需要国家在宏观上设立明确的方向性（引领 / Lead），又需要公共部门在微观上具备从错误和反馈中快速调整的能力（学习 / Learn）；敏捷治理通过原型迭代与实验反馈，在不确定的技术与社会环境中建立起制度化的学习通道，为[[Lead-and-Learn Paradigm|引领与学习范式]]提供了微观组织保障。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–798)]]
 
 ---
@@ -198,7 +198,7 @@ aliases:
 > > [!axis] 内部内生敏捷工程能力 vs. 外部成熟商用采办（[[Commercial Off-The-Shelf|COTS]]）
 > > 围绕公共部门应将稀缺资源优先投向建立全栈自主敏捷开发能力，还是依靠改革采办制度直接引入成熟敏捷商业技术生态展开分歧。
 > >
-> > - **[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]** 强调政府必须重塑内部敏捷工程、数据架构与服务设计专才，防范被私营资本与顾问寡头空心化。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
+> > - **[[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]** 强调政府必须重塑内部敏捷工程、数据架构与服务设计专才，防范被私营资本与顾问寡头空心化。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
 > > - **[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025)]]** 强调公共机构应打破保护落后军工外包寡头的采购壁垒，依据《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]》优先采办前沿商业现货（[[Commercial Off-The-Shelf|COTS]]）与实战软件。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 147–152)]]
 >
 > > [!axis] 快速试错迭代实验 vs. 传统科层行政程序合规与民主问责
@@ -219,7 +219,7 @@ aliases:
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 确立敏捷治理作为第三代使命导向政策与[[Public Dynamic Capabilities|公共动态能力]]的核心行政操作方法论。
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 确立敏捷治理作为第三代使命导向政策与[[Public Dynamic Capabilities|公共动态能力]]的核心行政操作方法论。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025)]] — 从[[Engineering Pragmatism|工程实用主义]]与反[[Determinism|决定论]]视角论证敏捷试错、免责[[Five Whys|五问法]]与快速止损对重构国家治理效能的关键价值。
 
 ---

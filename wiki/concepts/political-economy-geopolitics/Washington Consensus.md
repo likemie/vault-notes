@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Washington Consensus
@@ -66,7 +66,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **华盛顿共识（Washington Consensus）**最初由经济学家约翰·威廉姆森（John Williamson）于 1989 年提出，用以概括当时常驻美国华盛顿特区的三大核心机构——[[World Bank|世界银行]]（World Bank）、[[International Monetary Fund|国际货币基金组织]]（IMF）以及美国财政部（US Treasury）——在指导拉丁美洲等发展中国家摆脱债务危机、遏制恶性通货膨胀与重启经济增长时所达成的十项基础政策主张。这些主张的核心聚焦于维持财政收支平衡、控制通胀、重构公共开支优先级、推行广泛税基与适度税率、利率汇率市场化、开放贸易与外国直接投资、推行国有企业私有化、消除市场行政管制以及确立产权保护法治。在随后的跨国政策扩散中，这一概念在批判政治经济学界与国际机构放贷实践中经历了显著的意识形态泛化与衍生演进；在教育与社会部门借贷中，华盛顿共识被微观[[Operationalization|操作化]]为一套以量化考核、成本效益控制、绩效激励与市场竞争为导向的规约框架。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 459–460)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–81)]]
+> **华盛顿共识（Washington Consensus）** 最初由经济学家约翰·威廉姆森（John Williamson）于 1989 年提出，用以概括当时常驻美国华盛顿特区的三大核心机构——[[World Bank|世界银行]]（World Bank）、[[International Monetary Fund|国际货币基金组织]]（IMF）以及美国财政部（US Treasury）——在指导拉丁美洲等发展中国家摆脱债务危机、遏制恶性通货膨胀与重启经济增长时所达成的十项基础政策主张。这些主张的核心聚焦于维持财政收支平衡、控制通胀、重构公共开支优先级、推行广泛税基与适度税率、利率汇率市场化、开放贸易与外国直接投资、推行国有企业私有化、消除市场行政管制以及确立产权保护法治。在随后的跨国政策扩散中，这一概念在批判政治经济学界与国际机构放贷实践中经历了显著的意识形态泛化与衍生演进；在教育与社会部门借贷中，华盛顿共识被微观[[Operationalization|操作化]]为一套以量化考核、成本效益控制、绩效激励与市场竞争为导向的规约框架。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 459–460)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–81)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一套试图将古典自由市场机制、财政纪律与技术官僚成本核算确立为全球普遍性发展规律的超国家政策规约体系。
@@ -225,5 +225,5 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 考证华盛顿共识的本源含义，详述其在[[World Bank|世界银行]]教育放贷中延伸出的九大操作信条，并剖析官员在项目谈判中的形式主义合规现象（pp. 459–460）。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 运用批判国家理论剖析华盛顿共识指导下的[[Structural Adjustment Programs|结构调整方案]]如何剥夺拉美外围[[State Educational Sovereignty|国家教育主权]]并加剧阶级分轨（pp. 79–85）。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 运用批判国家理论剖析华盛顿共识指导下的[[Structural Adjustment Programs|结构调整方案]]如何剥夺拉美外围[[State Educational Sovereignty|国家教育主权]]并加剧阶级分轨（pp. 79–85）。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用[[World-Systems Theory|世界体系分析]]揭示华盛顿共识指导下的教育援助如何固化依附格局并催生去政治化“[[Shadow State|影子国家]]”（pp. 105–107）。

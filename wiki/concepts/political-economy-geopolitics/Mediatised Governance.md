@@ -54,7 +54,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Mediatised Governance
@@ -154,7 +154,7 @@ updated: 2026-10-15
 > [!concept-lens] 政治修辞与国际数据的选择性重构
 > 探讨国内政治精英如何利用国际评估报告的复杂性与多重文本特性，通过系统性过滤与修辞重塑，将实证稳定的学业数据包装为刻不容缓的制度危机。
 
-> [!claim] [[Argument_Grey_2018_CE\|Grey & Morris (2018)]]
+> [!claim] [[Argument_Grey_2018_CE\|Grey and Morris (2018)]]
 > **评估工具的可塑性与危机修辞建构** 跨国评估数据具有极强的数据可塑性（plasticity）。政治行动者在面对国际测验数据时，并非客观汲取政策建议，而是依据本土选举与党派利益实施遗漏[[Discourse|话语]]（discourse of omission）。在英格兰案例中，政府官方声明彻底过滤掉了 [[OECD]] 关于分轨分流损害教育公平、[[Rote Learning\|死记硬背]]属于旧官僚系统、[[Performance Pay\|绩效工资]]无法提升教师质量等关键结论，反而借由停滞、下滑、被全球竞争者甩在身后等高度情绪化的警句，在学业总分实证稳定的客观背景下生造出一场国家教育危机，以此为其私有化与严苛问责的新自由主义改革议程披上国际循证的合法化外衣。（pp. 116–120）
 
 ---
@@ -164,7 +164,7 @@ updated: 2026-10-15
 > [!concept-lens] 新闻生态与公共审视功能的制度性异化
 > 探讨媒体自身的新闻价值与生产机制如何在放大危机感的同时，主动[[Screening Off\|屏蔽]]对公共政策方案的实质性审查，导致民主问责机制失效。
 
-> [!claim] [[Argument_Grey_2018_CE\|Grey & Morris (2018)]]
+> [!claim] [[Argument_Grey_2018_CE\|Grey and Morris (2018)]]
 > **[[Media Logic\|媒介逻辑]]驱动下的[[Policy Avoidance\|政策规避]]与第四权力缺失** 大众媒体在介入教育政策传播时受到自身商业机制与新闻价值的深度制约。媒体偏好坏消息、冲突与跨国排行榜竞争，惯常套用[[Falling Standards Template\|水平下降模板]]将测验发布简化为具有轰动效应的头条新闻；然而，媒体对政府借危机推行的高度争议性政策举措（如扩大自主学校、强化惩罚性督导、推行教师绩效工资）却表现出集体性的政策规避（policy avoidance）。媒体既未对具体改革方案的实证有效性展开追问，亦未揭示政府政策主张与国际组织原始报告之间的尖锐矛盾，使得传统民主社会中媒体作为第四权力监督执政者、捍卫公共利益的核心宪制功能在此类跨国评估事件中彻底瘫痪。（pp. 121–125）
 
 ---
@@ -174,8 +174,8 @@ updated: 2026-10-15
 > [!contrast-table] 媒介化治理核心理论命题总览
 > | 命题类型 | 核心理论指向 | 适用分析情境 | 代表学者 |
 > |---|---|---|---|
-> | **数据可塑性与遗漏话语命题** | 政治行动者策略性剪裁国际评估数据，利用负面修辞制造危机以推销本土改革 | 跨国评估（[[PISA]] / 国际数学与科学趋势研究［Trends in International Mathematics and Science Study, TIMSS］）在主权国家的政策转译与政治借用 | [[Argument_Grey_2018_CE\|Grey & Morris (2018)]]; Carvalho (2014) |
-> | **媒介逻辑与政策规避命题** | 媒体的新闻生产规律放大排行榜冲突但屏蔽政策细则审查，消解民主问责 | 大众媒介（广播、报刊、网络）对教育改革方案的公共传播与舆论建构 | Warmington & Murphy (2004) |
+> | **数据可塑性与遗漏话语命题** | 政治行动者策略性剪裁国际评估数据，利用负面修辞制造危机以推销本土改革 | 跨国评估（[[PISA]] / 国际数学与科学趋势研究［Trends in International Mathematics and Science Study, TIMSS］）在主权国家的政策转译与政治借用 | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]]; Carvalho (2014) |
+> | **媒介逻辑与政策规避命题** | 媒体的新闻生产规律放大排行榜冲突但屏蔽政策细则审查，消解民主问责 | 大众媒介（广播、报刊、网络）对教育改革方案的公共传播与舆论建构 | Warmington and Murphy (2004) |
 > | **双向共谋与媒介化治理命题** | 高媒介资本政客与媒体逻辑形成共振，使教育治理框架被媒介化规则彻底锁定 | 自由民主国家内具有高度媒体自主性且崇尚量化竞争的教育行政生态 | Strömback & Esser (2014) |
 
 ---
@@ -184,8 +184,8 @@ updated: 2026-10-15
 
 > [!dev-timeline] 媒介化治理理论谱系与演变
 > - **1979 年 — [[Media Logic\|媒介逻辑]]的提出** Altheide & Snow 出版《Media Logic》，首次系统阐述大众媒介并非透明容器，而是具有自身特定的组织机制、修辞语法与感知偏好，任何社会机构欲进入大众视野均须适应其生产逻辑。
-> - **1999–2014 年 — 政治媒介化理论体系化** Mazzoleni & Schulz (1999) 提出政治媒介化概念；Strömback & Esser (2014) 将其发展为现代民主国家转型的元进程理论框架，确立了媒介化区别于传统中介传播（mediation）的理论自主性。
-> - **2010–2016 年 — 媒介化向教育政策研究的迁移** Lingard & Rawolle (2004) 与 Rawolle (2010) 率先探讨澳大利亚教育政策的媒介化现象；Baroutsis & Lingard (2016) 运用框架理论分析媒体如何通过计数与比较建构澳大利亚学校问责[[Discourse|话语]]。
+> - **1999–2014 年 — 政治媒介化理论体系化** Mazzoleni and Schulz (1999) 提出政治媒介化概念；Strömback & Esser (2014) 将其发展为现代民主国家转型的元进程理论框架，确立了媒介化区别于传统中介传播（mediation）的理论自主性。
+> - **2010–2016 年 — 媒介化向教育政策研究的迁移** Lingard and Rawolle (2004) 与 Rawolle (2010) 率先探讨澳大利亚教育政策的媒介化现象；Baroutsis and Lingard (2016) 运用框架理论分析媒体如何通过计数与比较建构澳大利亚学校问责[[Discourse|话语]]。
 > - **2018 年 — 媒介化全球教育治理批判性分析视角的提出** [[Paul Morris\|Paul Morris]] 与 Sue Grey 发表《[[PISA]]: multiple ‘truths’ and mediatised global governance》，正式将媒介化概念与全球教育治理及跨国比较教育深度融合，揭示了跨国数据、政治修辞与本土媒体合谋的治理机制，开拓了超越超国家[[Convergence Theory in Comparative Education\|趋同论]]的新批判研究路径。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018)]]
 
 ---
@@ -197,13 +197,13 @@ updated: 2026-10-15
 > > [!axis] 全球[[Convergence Theory in Comparative Education\|趋同论]] vs. 本土媒介化治理论
 > > 超国家教育治理究竟是导致了各国政策的同质化收敛，还是仅仅提供了可被本土语境随意剪裁的象征性修辞。
 > >
-> > - **Sellar & Lingard (2013b)** 强调 [[OECD]] 通过[[Governing by Numbers\|数字治理]]与比较技术正在建立一个主导性的全球教育治理机制，促成各国向新自由主义政策趋同。
-> > - **[[Argument_Grey_2018_CE\|Grey & Morris (2018)]]** 认为超国家趋同假说高估了全球机构的直接影响力；跨国数据在落地时完全被本土政治与[[Media Logic\|媒介逻辑]]重塑，治理在实质上是高度[[Going Native\|本土化]]且由媒介驱动的。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 125–127)]]
+> > - **Sellar and Lingard (2013b)** 强调 [[OECD]] 通过[[Governing by Numbers\|数字治理]]与比较技术正在建立一个主导性的全球教育治理机制，促成各国向新自由主义政策趋同。
+> > - **[[Argument_Grey_2018_CE\|Grey and Morris (2018)]]** 认为超国家趋同假说高估了全球机构的直接影响力；跨国数据在落地时完全被本土政治与[[Media Logic\|媒介逻辑]]重塑，治理在实质上是高度[[Going Native\|本土化]]且由媒介驱动的。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 125–127)]]
 >
 > > [!axis] 媒体功能异化是系统性共谋还是结构性能力不足
 > > 新闻界在跨国评估报道中展现出的[[Policy Avoidance\|政策规避]]，究竟是因意识形态与执政党暗合，还是源于媒体行业缺乏专业[[Data Literacy\|数据素养]]与深度调查资源。
 > >
-> > - **Warmington & Murphy (2004)** 倾向于结构性模板论，认为媒体受制于发稿时限与吸引眼球的商业压力，只能习惯性套用现成的教育[[Falling Standards Template\|标准下滑模板]]。
+> > - **Warmington and Murphy (2004)** 倾向于结构性模板论，认为媒体受制于发稿时限与吸引眼球的商业压力，只能习惯性套用现成的教育[[Falling Standards Template\|标准下滑模板]]。
 > > - **批判[[Analytical Stance\|分析立场]]** 指出政治精英的个性化媒介资本（如曾任资深记者的内阁大臣）能够精准操弄媒体生态，使得媒体在不自觉中充当了免除审查的合法化通道。
 
 ---
@@ -211,5 +211,5 @@ updated: 2026-10-15
 ## 应用案例
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]与实证案例
-> - [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] — 以英格兰应对 2012 年 [[PISA]] 结果为案例，系统论证了教育大臣 [[Michael Gove]] 如何动员个人与制度媒介资本，在媒体[[Falling Standards Template\|水平下降模板]]与[[Policy Avoidance\|政策规避]]的协同下，将平稳的评估数据转化为推动学院学校、严苛督导与[[Performance Pay\|绩效工资]]改革的媒介化治理过程。
+> - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 以英格兰应对 2012 年 [[PISA]] 结果为案例，系统论证了教育大臣 [[Michael Gove]] 如何动员个人与制度媒介资本，在媒体[[Falling Standards Template\|水平下降模板]]与[[Policy Avoidance\|政策规避]]的协同下，将平稳的评估数据转化为推动学院学校、严苛督导与[[Performance Pay\|绩效工资]]改革的媒介化治理过程。
 > - [[Argument_Beech_2009_CE\|Beech (2009)]] — 在阿根廷与巴西课程改革研究中揭示国家[[Discourse|话语]]如何利用电视与大众媒体语言的口号化特征，将不相容的改革政策并置为看似现代的公众形象。

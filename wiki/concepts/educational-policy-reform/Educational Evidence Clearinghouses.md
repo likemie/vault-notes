@@ -234,7 +234,7 @@ updated: 2026-10-16
 > - **[[Evidence Standards\|证据标准]]制定（Standard Setting）** 明确界定何种研究设计具备因果证据效力。普遍推崇 [[Randomised Controlled Trials\|随机对照试验]]（RCT），但在集群随机校正（[[Hierarchical Linear Model\|HLM]]/[[Intraclass Correlation Coefficient\|ICC]]）、[[Attrition|样本流失]]模型（Attrition Models）、[[Intent-to-Treat Analysis\|意向治疗分析]]（[[Initial Teacher Training\|ITT]]）与准实验（[[Quasi-Experimental Designs\|QED]]）上设定了悬殊的技术门槛([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8–11]])。
 > - **[[Literature Search\|文献检索]]与准入筛选（Literature Screening）** 依据机构资助与使命筛选文献池。部分机构强制要求同行评审学术期刊（如 [[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]]、[[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]]），部分机构依托充足财政预算开展大规模灰色文献与委托评估报告审查（如 [[What Works Clearinghouse\|WWC]]；[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 6–8]]）。
 > - **单项研究因果质量评估（Study Quality Appraisal）** 对单项研究设计的[[Internal Validity\|内部效度]]进行独立技术审查，重点核验基线等值性、样本流失偏倚风险以及潜在混杂[[Variable\|变量]]控制([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8–10]])。
-> - **跨研究证据综合与最高门槛判定（Evidence Synthesis & Highest Hurdle）** 决定项目获得最高评级的前置条件，核心分歧集中于**[[Evaluator Independence\|独立评估者]]复制（Evaluator Independence）**、**12 个月[[Fade-out Effect\|干预后持续效果]]（Sustained Effects）**以及**[[Iatrogenic Effects in Education\|医源性伤害]]排除（Iatrogenic Harm）**([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 11–15]])。
+> - **跨研究证据综合与最高门槛判定（Evidence Synthesis & Highest Hurdle）** 决定项目获得最高评级的前置条件，核心分歧集中于 **[[Evaluator Independence\|独立评估者]]复制（Evaluator Independence）**、**12 个月[[Fade-out Effect\|干预后持续效果]]（Sustained Effects）** 以及 **[[Iatrogenic Effects in Education\|医源性伤害]]排除（Iatrogenic Harm）**([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 11–15]])。
 > - **面向实践者的信息转译与发布（Public Dissemination）** 将高度复杂的微观计量模型与统计参数转换为分层评级语言（如 Recommended / Promising / TIER 1），发布于开放数据库供政策制定者与学校校长检索采纳([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 4]])。
 
 ---
@@ -362,7 +362,7 @@ updated: 2026-10-16
 > [!concept-lens] [[Research Translation|研究转译]]与基层实践采购信息需求
 > 探讨清算中心公布的宏观证据等级能否充分满足学校管理层在真实采购中的信息需求。
 
-> [!claim] [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]]
+> [!claim] [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]]
 > **正式证据库的实用信息缺口** 尽管 [[What Works Clearinghouse\|WWC]] 和 Evidence for [[Every Student Succeeds Act\|ESSA]] 显著提高了研究证据的可及性，但一线教育决策者仍普遍偏好同伴推荐与本地试点。因为清算中心评级仅提供抽象的[[Statistical Significance\|统计显著性]]与[[Effect Size\|效应量]]，缺失了学校采购必不可少的实施难度、教师培训时长、年度维护成本、用户满意度及特殊生源适配性等地方性情境信息([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp. 110, 120–121]])。
 
 ---
@@ -372,7 +372,7 @@ updated: 2026-10-16
 > [!concept-lens] 外部证据准入门槛与本土工具培育
 > 探讨将清算中心的严苛标准直接套用于早期教育改革和本土教学工具开发时所产生的制度排斥效应。
 
-> [!claim] [[Argument_Dachet_2021_ECNUROE\|Dachet & Baye (2021)]]
+> [!claim] [[Argument_Dachet_2021_ECNUROE\|Dachet and Baye (2021)]]
 > **包容性阶梯式验证的必要性** 在本土[[Experimental Research\|实验研究]]和成熟项目证据匮乏的语境下，若机械照搬 WWC、[[Education Endowment Foundation\|EEF]] 或 [[Best Evidence Encyclopedia\|BEE]] 的顶级认证门槛，将导致绝大多数本地创新工具被直接排除。必须建立[[Inclusive Evidence Validation Typology\|包容性证据验证类型学]]，通过设定发展性的最低验证标准，支持本土工具从概念验证逐步走向严格因果检验([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp. 175–176]])。
 
 ---
@@ -382,7 +382,7 @@ updated: 2026-10-16
 > [!concept-lens] 政治预算周期错配与跨国元治理协调
 > 探讨公共资助教育中介与清算机构在生命周期上的非绩效存续悖论，以及超越机构孤岛构建跨国累积性知识基石的组织化进路。
 
-> [!claim] [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]
+> [!claim] [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]
 > **政治预算周期[[Determinism\|决定论]]与元中介协同** 纵向考察[[OECD\|经合组织]] 2007 年确立的 6 家标杆清算与中介机构，历经十五年仅有 2 家（美国 WWC 与英国 [[EPPI-Centre]]）保持完全活跃，多达 4 家发生关停（加拿大 [[Canadian Council on Learning\|CCL]]、丹麦 Clearinghouse）、收缩（新西兰 BES）或停摆（荷兰 [[Kenniskamer]]）。机构淘汰的核心推手绝非成效评估证实“绩效不佳”，而是源于 2 至 3 年的政党轮替与财政预算短周期与教育改革所需漫长显效[[Incubation\|潜伏期]]的结构性错配；在预算紧缩与换届压力下，耗时漫长的中介成效评估几乎被行政部门完全跳过（OECD, 2009）。单一机构即便在本土取得成功，其实证综合规模与公信力依然受限；必须超越机构孤岛，在跨国层面协同推进“中介的中介”（Brokering the Brokers），通过联合攻关二阶[[Systematic Review\|系统综述]]（Reviews of Reviews）与元协调机制，方能建立起经得起检验、被广泛公认的累积性教育知识基石([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 64–68]])。
 
 ---
@@ -394,9 +394,9 @@ updated: 2026-10-16
 > |:---|:---|:---|:---|
 > | **[[Construct\|构念]]效度命题** | 清算中心评级一致性极低，极端冲突成为常态，“循证”构念效度受限 | 跨清算中心评级横向比较、证据标签采纳 | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] |
 > | **分歧机制命题** | 评级冲突根源于独立复制、12个月随访等综合门槛与文献库差异 | 证据综合标准制定、审查规程设计 | 同上（Wadhwa 等） |
-> | **实践转译命题** | 正式评级缺乏实施成本与情境信息，无法替代本地知识与[[Evidence-Informed Practice\|证据知情实践]] | 学校采购决策、学区政策落地实施 | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]] |
-> | **生态准入命题** | 通用顶级门槛易扼杀早期创新，需建立阶梯式包容性证据验证体系 | 地区性教育改革、本土工具阶梯化孵化 | [[Argument_Dachet_2021_ECNUROE\|Dachet & Baye (2021)]] |
-> | **存续悖论与元治理命题** | 机构存亡受制于 2–3 年政治预算周期错配，亟需推进元中介建构累积知识库 | 中介机构制度设计、长效财政机制、跨国元协调 | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] |
+> | **实践转译命题** | 正式评级缺乏实施成本与情境信息，无法替代本地知识与[[Evidence-Informed Practice\|证据知情实践]] | 学校采购决策、学区政策落地实施 | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] |
+> | **生态准入命题** | 通用顶级门槛易扼杀早期创新，需建立阶梯式包容性证据验证体系 | 地区性教育改革、本土工具阶梯化孵化 | [[Argument_Dachet_2021_ECNUROE\|Dachet and Baye (2021)]] |
+> | **存续悖论与元治理命题** | 机构存亡受制于 2–3 年政治预算周期错配，亟需推进元中介建构累积知识库 | 中介机构制度设计、长效财政机制、跨国元协调 | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] |
 
 ---
 
@@ -467,11 +467,11 @@ updated: 2026-10-16
 > | 同上 | 164 个由 2 个清算中心共同评估的项目 (n = 164) | 配对一致性检验 | 二元有效性分布 (Table 7) | 82.3% 共同判定为无效 (3&3)；仅 17.7% 共同判定为有效 (1&1, 2&2, 1&2) | 配对双向交叉检验 | 聚合有效 (1/2) 与无效 (3) |
 > | 同上 | 429 个清算中心多重评级对 (Rating Pairs) | 三级配对一致性矩阵 (Table 8) | 评级一致性与分歧比例 | 2-CH 评级对中：完全一致 30.5%（其中 1&1 仅 1.2%，3&3 占 21.3%）；中度一致 8.5%；中度不一致 25.6%；**完全不一致（1&3）高达 35.4%** | 3-CH、4-CH 完全一致率稳定在 30.0%–31.1% | 1=Recommended, 2=Promising, 3=Not Recommended |
 > | 同上 | 美国教育部对 [[What Works Clearinghouse\|WWC]] 的财政资助总额 | 财政与制度背景分析 | 累计资助金额 | 累计资助金额超过 **1 亿美元（>$100M）** | 官方财政记录核验 | 奠定 WWC 详尽技术手册与审查委员会基础 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] | 2007 年 [[OECD]] 报告重点剖析的 6 家标杆清算与中介机构 | 15 年纵向政策追踪与制度比较 | 存续状态与体制寿命 | 历经 15 年仅有 **33.3%（2 家，WWC 与 [[EPPI-Centre]]）**保持完全活跃，多达 50% 关停（CCL、丹麦 Clearinghouse）或休眠（Kenniskamer），1 家职能收缩（[[Best Evidence Synthesis\|BES]]） | 15 年全周期案例追踪 | 揭示公共资助中介机构极高淘汰率与脆弱性 |
+> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 2007 年 [[OECD]] 报告重点剖析的 6 家标杆清算与中介机构 | 15 年纵向政策追踪与制度比较 | 存续状态与体制寿命 | 历经 15 年仅有 **33.3%（2 家，WWC 与 [[EPPI-Centre]]）** 保持完全活跃，多达 50% 关停（CCL、丹麦 Clearinghouse）或休眠（Kenniskamer），1 家职能收缩（[[Best Evidence Synthesis\|BES]]） | 15 年全周期案例追踪 | 揭示公共资助中介机构极高淘汰率与脆弱性 |
 > | 同上 | 经合组织成员国政府常规拨款周期与教育改革周期错配 | 系统性创新文献与政策分析 | 拨款协议考核周期 vs 改革显效周期 | 政府常规考核周期仅为 **2–3 年**，而教育深度改革与中介转化显效通常需要 **8–14 年**（Borman et al., 2003）；时间与财政压力下成效评估最先被跳过（OECD, 2009） | 跨国比较综合 | 证实政治预算周期[[Determinism\|决定论]] |
 > | 同上 | 英国教育捐赠基金会（[[Education Endowment Foundation\|EEF]]）初始基金与资助规模 | 机构个案分析 | 启动基金与实验数量 | 获得英国教育部 **1.25 亿英镑**启动留本基金，累计资助超 **200 项**大规模独立[[Randomised Controlled Trials\|随机对照试验]] | 官方统计数据 | 开创独立慈善信托资助中介模式 |
 > | 同上 | 欧洲教育证据知情政策与实践项目（[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]）网络规模 | 跨国元中介网络[[Participant Observation\|参与观察]] | 成员机构与国别覆盖 | 汇聚欧洲 **23 个国家**的 **36 家**正式中介与科研机构，吸纳欧洲以外 4 个国家的 7 家国际组织 | 跨国网络档案 | 欧洲首个全覆盖[[Knowledge Mediation\|知识中介]]元协调联盟 |
-> | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]] | 美国学校与学区教育采购决策者 | [[Qualitative Interview\|质性访谈]]与[[Survey Research\|调查研究]] | 决策信息渠道偏好 | 决策者显著偏好同伴推荐与本地试点而非单一正式评级库 | 质性[[Triangulation\|三角互证]] | 正式评级平台存在情境信息缺口 |
+> | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] | 美国学校与学区教育采购决策者 | [[Qualitative Interview\|质性访谈]]与[[Survey Research\|调查研究]] | 决策信息渠道偏好 | 决策者显著偏好同伴推荐与本地试点而非单一正式评级库 | 质性[[Triangulation\|三角互证]] | 正式评级平台存在情境信息缺口 |
 > | [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] | WWC [[Single-Subject Design\|单一被试设计]] ([[Single-Case Design\|SCD]]) 证据标准 | 测量与审查标准规范 | [[Internal Validity\|内部效度]]门控与 5-3-20 阈值 | WWC 对 SCD 证据要求至少 5 项研究、由至少 3 个独立团队完成、涵盖至少 20 个被试以达到最高评级 | 官方标准规程 | 适用于 SCD 因果证据综合 |
 
 ---
@@ -479,11 +479,11 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 纵向追踪[[OECD\|经合组织]] 2007 至 2022 年全球中介机构的十五年演进脉络，揭示中介机构受制于 2–3 年短期政治预算周期的存续悖论，构建三维制度分析谱系，并倡导推进“中介的中介”以建构跨国累积性知识基石。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 纵向追踪[[OECD\|经合组织]] 2007 至 2022 年全球中介机构的十五年演进脉络，揭示中介机构受制于 2–3 年短期政治预算周期的存续悖论，构建三维制度分析谱系，并倡导推进“中介的中介”以建构跨国累积性知识基石。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]] — 全景比较美英 12 个教育清算中心的制度[[Heterogeneity\|异质性]]、[[Causality\|因果推断]]标准与 1,359 个项目的评级一致性，首次实证揭示多重评级高度冲突（完全对立占 35.4%）与[[Construct Validity\|构念效度]]局限，归因于证据综合门槛与文献库差异。
-> - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]] — 追踪 [[No Child Left Behind Act 2001\|NCLB]] 至 [[Every Student Succeeds Act\|ESSA]] 政策背景下清算中心（[[What Works Clearinghouse\|WWC]], [[Evidence for ESSA]]）的发展脉络，揭示学校采购者对实施成本、教师培训与满意度等地方性情境信息的核心诉求。
-> - [[Argument_Dachet_2021_ECNUROE\|Dachet & Baye (2021)]] — 批判直接照搬美英清算中心最高门槛对本地工具的过度排除效应，提出[[Inclusive Evidence Validation Typology\|包容性证据验证类型学]]以支持本土创新工具的分阶孵化。
-> - [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] — 考察英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）及其工具箱在欧洲[[Evidence-Based Education\|循证教育]]治理中的制度化角色与转化机制。
+> - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] — 追踪 [[No Child Left Behind Act 2001\|NCLB]] 至 [[Every Student Succeeds Act\|ESSA]] 政策背景下清算中心（[[What Works Clearinghouse\|WWC]], [[Evidence for ESSA]]）的发展脉络，揭示学校采购者对实施成本、教师培训与满意度等地方性情境信息的核心诉求。
+> - [[Argument_Dachet_2021_ECNUROE\|Dachet and Baye (2021)]] — 批判直接照搬美英清算中心最高门槛对本地工具的过度排除效应，提出[[Inclusive Evidence Validation Typology\|包容性证据验证类型学]]以支持本土创新工具的分阶孵化。
+> - [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] — 考察英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）及其工具箱在欧洲[[Evidence-Based Education\|循证教育]]治理中的制度化角色与转化机制。
 > - [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] — 详细解析 WWC 在组间实验与[[Single-Subject Design\|单一被试设计]]（[[Single-Case Design\|SCD]]）中采用的[[Internal Validity\|内部效度]]门控规程与 5-3-20 证据综合门槛。
 > - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 从循证教育改革实践者视角，对[[What Works Clearinghouse\|WWC]]、[[Best Evidence Encyclopedia\|BEE]]、[[Evidence for ESSA]] 三大美国平台的目标受众、审查取向与更新响应周期作出功能性比较，并系统论证以 ESSA 强证据方案填充[[Response to Proven Instruction\|循证干预反应]]（RTPI）三层谱系的改革路径。
 

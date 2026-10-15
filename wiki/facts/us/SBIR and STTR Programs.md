@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # SBIR and STTR Programs
@@ -202,8 +202,8 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 提出在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》中系统协调多部门 SBIR/STTR 选题，推广空军 [[AFVentures]] 资本匹配机制并联动 [[Activate Fellowship]]、[[DARPA]] [[Embedded Entrepreneurship Initiative|EEI]] 与 [[National Science and Technology Council|NSTC]] 投资基金（Goal 4.5）。
-> - [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson (2025)]] — 详述 SBIR/STTR 作为[[Non-dilutive Funding|非稀释性资助]]与客户声音（Voice of the Customer）验证机制在全美[[University Spin-Out|大学衍生企业]]存活中的关键功能。
+> - [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison and Wilson (2025)]] — 详述 SBIR/STTR 作为[[Non-dilutive Funding|非稀释性资助]]与客户声音（Voice of the Customer）验证机制在全美[[University Spin-Out|大学衍生企业]]存活中的关键功能。
 > - [[Argument_Cheng_2026_KeJiChuangXin|程楠等 (2026)]] — 剖析 SBIR（3.2%）与 STTR（0.45%）法定预算提取比例与全美三位一体管理体制。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 评估联邦小企业创新资助在[[Innovation Ecosystem|区域创新生态]]培育与私人资本吸引中的催化杠杆效应。
-> - [[Argument_Bozeman_2004_JTT|Bozeman & Boardman (2004)]] — 论述 1980 年代国家科技政策演化脉络与 [[National Science Foundation|NSF]] 工程学部 SBIR 资助格局。
+> - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 论述 1980 年代国家科技政策演化脉络与 [[National Science Foundation|NSF]] 工程学部 SBIR 资助格局。
 > - [[Argument_Block_2008_PS|Block (2008, pp. 189–191)]] — 阐述 SBIR 作为[[Developmental Network State|发展型网络国家]]“开辟多维窗口”的核心制度工具，揭示其资助高度向加州与马萨诸塞州倾斜的区域失衡风险。

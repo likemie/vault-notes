@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-08
+updated: 2026-10-16
 title: Chalmers Johnson
 aliases:
   - Johnson, C.
@@ -51,7 +51,7 @@ aliases:
 
 > [!person-profile] 人物档案
 > - **身份位置** 查默斯·阿什比·约翰逊（Chalmers Ashby Johnson，1931–2010），美国著名政治学家、东亚政治经济学权威与比较政治学巨匠；曾任加州大学伯克利分校政治学系主任与加州大学圣地亚哥分校杰出教授。
-> - **核心贡献** 著有 20 世纪政治经济学里程碑名著《[[Ministry of International Trade and Industry|通产省]]与日本奇迹：产业政策的成长（1925–1975）》（*MITI and the Japanese Miracle*, 1982），正式开创了**“发展型国家”（Developmental State）**理论[[Paradigm|范式]]；提出“计划理性国家”（Plan-rational State）与“领航机构”（Pilot Agency）概念，揭示了东亚经济奇迹背后国家官僚与私人部门协同攻关的制度机理。
+> - **核心贡献** 著有 20 世纪政治经济学里程碑名著《[[Ministry of International Trade and Industry|通产省]]与日本奇迹：产业政策的成长（1925–1975）》（*MITI and the Japanese Miracle*, 1982），正式开创了 **“发展型国家”（Developmental State）** 理论[[Paradigm|范式]]；提出“计划理性国家”（Plan-rational State）与“领航机构”（Pilot Agency）概念，揭示了东亚经济奇迹背后国家官僚与私人部门协同攻关的制度机理。
 > - **对当代政策理论的启示** [[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）在阐述第一代使命政策（后发追赶型）以及当代国家构建[[Public Dynamic Capabilities|公共部门动态能力]]时，高度依托约翰逊的发展型国家理论，用以论证精干、高薪且享有高度制度自主性的精英官僚机构（如[[Ministry of International Trade and Industry|日本通商产业省]] MITI）如何成为国家设定战略方向与打破部门协调瘫痪的组织支柱。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 796)]]
 
 > [!claim] 核心理论主张

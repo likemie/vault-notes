@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Independent Variable
 
@@ -95,4 +95,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — Kgaile & Morrison (2006) 识别了七个影响[[School Effectiveness\|学校效能]]的自[[Variable\|变量]]；小麦肥料实验中肥料是有无施加作为自变量；资源可用性（3 水平）和学习动机（3 水平）在[[Factorial Design\|因子设计]]中各为自变量。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — Kgaile and Morrison (2006) 识别了七个影响[[School Effectiveness\|学校效能]]的自[[Variable\|变量]]；小麦肥料实验中肥料是有无施加作为自变量；资源可用性（3 水平）和学习动机（3 水平）在[[Factorial Design\|因子设计]]中各为自变量。

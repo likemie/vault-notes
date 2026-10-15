@@ -79,7 +79,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **共同从属（Co-affiliation / 机构多重从属性）**是指[[Policy Network\|政策网络]]中的核心精英行动者跨越公权力机关、跨国金融机构、营利性咨询寡头、非营利组织与慈善基金会，同时（concurrently）或先后（sequentially）担任多重董事兼职（interlocking directorships）、法定理事或政策审查专员的拓扑关联现象。该机制打破了传统韦伯式[[Bureaucracy|科层制]]单一组织忠诚与清晰公私界限的假定，使资金、意识形态与政策模型得以借助行动者的多重身份在异质网络中自由穿梭，进而构筑起“去中心化但[[Epistemology\|认识论]]高度同质”（epistemic homophily）的杂合治理层级（heterarchy）（Ball & Exley, 2010；Avelar & Ball, 2019；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–10]]）。
+> **共同从属（Co-affiliation / 机构多重从属性）** 是指[[Policy Network\|政策网络]]中的核心精英行动者跨越公权力机关、跨国金融机构、营利性咨询寡头、非营利组织与慈善基金会，同时（concurrently）或先后（sequentially）担任多重董事兼职（interlocking directorships）、法定理事或政策审查专员的拓扑关联现象。该机制打破了传统韦伯式[[Bureaucracy|科层制]]单一组织忠诚与清晰公私界限的假定，使资金、意识形态与政策模型得以借助行动者的多重身份在异质网络中自由穿梭，进而构筑起“去中心化但[[Epistemology\|认识论]]高度同质”（epistemic homophily）的杂合治理层级（heterarchy）（Ball & Exley, 2010；Avelar & Ball, 2019；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–10]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 聚焦于精英个体在不同组织之间重叠兼职所构成的隐性制度通道与关系拓扑网络。
@@ -210,8 +210,8 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **观念传导命题** | 多重任职创造了结构性流动通道，使商业咨询与金融逻辑跨界弥散 | 全球教育改革网络与跨国智库流动机制分析 | Ball & Exley (2010); Borgatti & Halgin (2011) |
-> | **民主侵蚀命题** | 精英共同从属构筑异质层级，借由技术中立与慈善修辞剥夺公众监督 | 国家级证据中介设立、独立政策审查委员会解构 | Avelar & Ball (2019); [[Argument_Rowe_2022_IJER\|Rowe (2022, p. 8)]] |
+> | **观念传导命题** | 多重任职创造了结构性流动通道，使商业咨询与金融逻辑跨界弥散 | 全球教育改革网络与跨国智库流动机制分析 | Ball and Exley (2010); Borgatti and Halgin (2011) |
+> | **民主侵蚀命题** | 精英共同从属构筑异质层级，借由技术中立与慈善修辞剥夺公众监督 | 国家级证据中介设立、独立政策审查委员会解构 | Avelar and Ball (2019); [[Argument_Rowe_2022_IJER\|Rowe (2022, p. 8)]] |
 > | **超流动性权力命题** | 兼任网络呈现超流动形态，权力非源于正式公职而是关系性兼职效果 | [[Philanthrocapitalism\|慈善资本主义]]、税法特许修正案与公私联合中介[[Network Analysis\|网络分析]] | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023, p. 527)]] |
 
 ---
@@ -254,8 +254,8 @@ updated: 2026-10-16
 > |---|---|---|---|---|---|
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 澳大利亚国家教育科研体系：[[Australian Education Research Organisation\|AERO]] | 戴维·冈斯基（David Gonski）、罗杰·马西-格林（Roger Massy-Greene）、[[Sir Kevan Collins\|柯文·科林斯爵士]] | [[Social Ventures Australia\|SVA]]、美洲银行、力拓集团、[[Australian Philanthropic Services\|APS]]、保罗·拉姆齐基金会、英国 [[Education Endowment Foundation\|EEF]] | 推动联邦与各州注资 5000 万澳元，依据《公司法》注册实体并立法特许向私营咨询分包 | 绕过大学科研共同体，以客观中立量规遮蔽企业慈善游说与避税庇护所实质（pp. 8–11） |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 澳大利亚公立教育[[Philanthrocapitalism\|慈善资本主义]]中介实体网络（2002–2021） | [[David Gonski\|戴维·冈斯基]]（David Gonski）、迈克尔·特恩布尔（[[Michael Traill]]）等跨界金融高管与政府政策精英 | [[Social Ventures Australia\|SVA]]、[[Australian Philanthropic Services\|APS]]、[[Australian Schools Plus]]、[[Evidence for Learning\|E4L]]、[[Australian Education Research Organisation\|AERO]] | 运用 Gephi 揭示四层控股母子公司架构与高密度兼职，游说联邦国库部修改税法获得 [[Deductible Gift Recipient\|DGR1]] 避税资质，并借公私联合项目获得 1500 万澳元政府非公开闭门竞标 | 权力不再依循宪政行政科层，而是作为超流动关系网络的效果生成；以技术中立和慈善免税名义转移国家公共教育职能与财政资源（pp. 520–531） |
-> | Avelar & Ball (2019) | 巴西基础教育国家课程改革：Movimento pela Base | Jorge Paulo Lemann、Viviane Senna 等商业寡头 | Lemann 基金会、Ayrton Senna 研究所、巴西联邦教育部、Santander 银行 | 慈善基金会通过共同董事直接资助并主导国家基础教育课程共同标准（BNCC）起草 | 将商业技能与[[Human Capital Theory\|人力资本]]评估指标强行植入国家法定大纲，排斥批判性人文公民教育 |
-> | Ball & Junemann (2012) | 英国学院学校（Academies）改革与地方教育局分权 | Lord Adonis、[[Peter Lampl\|Sir Peter Lampl]] 等商界受封贵族 | [[Sutton Trust\|萨顿信托]]、Ark Schools、汇丰银行慈善信托、英格兰教育部 | 跨国金融高管通过出任教育赞助商董事会，直接接管数百所公立薄弱学校办学权 | 瓦解地方教育行政当局（LEAs）民主问责，使公共资产流向未受公法约束的独立[[The Education Trust\|教育信托]] |
+> | Avelar and Ball (2019) | 巴西基础教育国家课程改革：Movimento pela Base | Jorge Paulo Lemann、Viviane Senna 等商业寡头 | Lemann 基金会、Ayrton Senna 研究所、巴西联邦教育部、Santander 银行 | 慈善基金会通过共同董事直接资助并主导国家基础教育课程共同标准（BNCC）起草 | 将商业技能与[[Human Capital Theory\|人力资本]]评估指标强行植入国家法定大纲，排斥批判性人文公民教育 |
+> | Ball and Junemann (2012) | 英国学院学校（Academies）改革与地方教育局分权 | Lord Adonis、[[Peter Lampl\|Sir Peter Lampl]] 等商界受封贵族 | [[Sutton Trust\|萨顿信托]]、Ark Schools、汇丰银行慈善信托、英格兰教育部 | 跨国金融高管通过出任教育赞助商董事会，直接接管数百所公立薄弱学校办学权 | 瓦解地方教育行政当局（LEAs）民主问责，使公共资产流向未受公法约束的独立[[The Education Trust\|教育信托]] |
 
 ---
 

@@ -98,7 +98,7 @@ updated: 2026-10-16
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** [[John W. Meyer|约翰·迈耶]]与布赖恩·罗恩（Brian Rowan, 1977）奠定组织制度化神话基础；Meyer, Boli, Thomas & Ramirez (1997) 在《美国社会学期刊》发表《世界社会与民族国家》（*World Society and the Nation-State*），系统确立世界社会理论分析[[Paradigm|范式]]。
+> - **提出者与原始文本** [[John W. Meyer|约翰·迈耶]]与布赖恩·罗恩（Brian Rowan, 1977）奠定组织制度化神话基础；Meyer, Boli, Thomas and Ramirez (1997) 在《美国社会学期刊》发表《世界社会与民族国家》（*World Society and the Nation-State*），系统确立世界社会理论分析[[Paradigm|范式]]。
 > - **原初问题** 回应传统功能主义与[[Human Capital Theory|人力资本理论]]的解释困境：为什么物质资源匮乏、工业化程度极低的新独立第三世界国家，不是优先满足本土特定生产技能需求，反而迅速照搬欧美高度成熟的现代大众教育体制与标准化文凭架构。
 > - **理论资源与材料** 吸收[[Max Weber|马克斯·韦伯]]的合理化理论、舒茨的[[Phenomenology|现象学]]社会学，以及[[Enlightenment|启蒙运动]]以来的理性主义文化信念；以全球数百个国家在初等义务教育立法、国家课程大纲门类与入学率扩张上的宏观跨国时间序列数据为经验支撑。
 > - **形成路径与经典假想** 迈耶等人提出了著名的“孤岛思想实验”：假设在大洋深处新发现一个从未与现代世界接触的孤立海岛社会，只要它被纳入当代国际社会视野，它便会迅速按照世界文化的通行规范，制定宪法、设立议会、颁布人权保护法令，并建立标准化的正规学校体系。该假想生动阐明了[[Cultural Models|世界文化模型]]作为先验合法性脚本的强大规范力量。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 103)]]
@@ -106,12 +106,12 @@ updated: 2026-10-16
 ### 后续修订与扩展
 
 > [!dev-timeline] 理论版本与贡献
-> - **1977 — 制度化神话奠基** Meyer & Rowan (1977) 提出组织的正式结构反映的是制度环境中的“理性神话”和仪式，而非单纯的技术效率要求。
-> - **1987 — 大众教育的政治建构** Ramirez & Boli (1987) 阐述欧洲大众教育的兴起是国家出于成员身份（membership）界定及应对地缘政治竞争的防御性动员产物。[[Argument_Amos_2022_Springer|(Amos, 2022, pp. 54–55)]]
+> - **1977 — 制度化神话奠基** Meyer and Rowan (1977) 提出组织的正式结构反映的是制度环境中的“理性神话”和仪式，而非单纯的技术效率要求。
+> - **1987 — 大众教育的政治建构** Ramirez and Boli (1987) 阐述欧洲大众教育的兴起是国家出于成员身份（membership）界定及应对地缘政治竞争的防御性动员产物。[[Argument_Amos_2022_Springer|(Amos, 2022, pp. 54–55)]]
 > - **1997 — 理论系统化** Meyer 等人发表论文，标志世界社会理论成熟，论证了国家主权形式在全球理性文化模型下的广泛趋同。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
-> - **2000 — 他者性机制** Meyer & Jepperson (2000) 提出 [[Otherhood]] 理论，阐明科学代言人与代理机构如何作为核心动力机制输出理性神话。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 149)]]
-> - **2015 — 组织能动性四维模型** Bromley & Meyer (2015) 提出 [[Organizational Actorhood]] 模型，剖析现代组织如何被建构成具备理性自主与社会责任的行动主体。
-> - **2020–2022 — 多边治理中的大学与知识活动** Frank & Meyer (2020) 阐明大学作为全球知识社会的关键支柱；[[Argument_Zapp_2022_Springer|Zapp (2022, pp. 148–154)]] 检验了大学通过 otherhood 机制嵌入[[UN Sustainable Development Goals|联合国可持续发展目标]]（SDGs）多边治理的四种具体知识活动。
+> - **2000 — 他者性机制** Meyer and Jepperson (2000) 提出 [[Otherhood]] 理论，阐明科学代言人与代理机构如何作为核心动力机制输出理性神话。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 149)]]
+> - **2015 — 组织能动性四维模型** Bromley and Meyer (2015) 提出 [[Organizational Actorhood]] 模型，剖析现代组织如何被建构成具备理性自主与社会责任的行动主体。
+> - **2020–2022 — 多边治理中的大学与知识活动** Frank and Meyer (2020) 阐明大学作为全球知识社会的关键支柱；[[Argument_Zapp_2022_Springer|Zapp (2022, pp. 148–154)]] 检验了大学通过 otherhood 机制嵌入[[UN Sustainable Development Goals|联合国可持续发展目标]]（SDGs）多边治理的四种具体知识活动。
 
 ---
 
@@ -241,8 +241,8 @@ updated: 2026-10-16
 
 > [!critique]- 批评索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用冲突取向的[[World-Systems Theory|世界体系分析]]与多国微观案例，全面解构新制度主义世界文化论，揭示形式趋同掩盖实质不平等、援助固化国际分层以及微观能动抗争的现实。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 从马克思主义政治经济学解构世界文化理论的非历史大爆炸假说，指出其无法解释外围国家的阶级双轨学制与受制状态。
-> - [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] — 以香港课程改革与废除的周期历史为经验依据，批评了该理论选择性聚焦创立期的方法论盲区，证明趋同假设无法解释国家安全的强力介入。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 从马克思主义政治经济学解构世界文化理论的非历史大爆炸假说，指出其无法解释外围国家的阶级双轨学制与受制状态。
+> - [[Argument_Yan_2025_JCS|Yan and Morris (2025)]] — 以香港课程改革与废除的周期历史为经验依据，批评了该理论选择性聚焦创立期的方法论盲区，证明趋同假设无法解释国家安全的强力介入。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 梳理比较教育中的世界文化辩论，指出该学说在去政治化转移、遮蔽资本主义地缘剥削方面的理论缺陷。
 
 ---
@@ -251,8 +251,8 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统对比斯坦福新制度主义与[[Immanuel Wallerstein|沃勒斯坦]]现实主义两大流派，剖析新自由主义[[Time-Space Compression|时空压缩]]与微观本土抵制，重构全球与本土辩证法框架。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 批判性检视世界文化理论的核心信念，重构外围国家教育扩张的历史唯物主义[[Analytic Framework|分析框架]]。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 批判性检视世界文化理论的核心信念，重构外围国家教育扩张的历史唯物主义[[Analytic Framework|分析框架]]。
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 深入应用并检验世界社会理论，展示大学作为无私代言人（[[Otherhood]]）通过协作、中介、解释和游说四种知识机制嵌入多边全球治理的过程。
 > - [[Argument_Amos_2022_Springer|Amos (2022)]] — 梳理欧洲大众教育起源的历史脉络，论证大众教育源于主权国家确立成员身份与应对地缘竞争的防御性动员。
-> - [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] — 检验香港通识科创立到废除的全周期演变，揭示全球趋同[[Discourse|话语]]在主权政治危机下的工具性与可逆性。
+> - [[Argument_Yan_2025_JCS|Yan and Morris (2025)]] — 检验香港通识科创立到废除的全周期演变，揭示全球趋同[[Discourse|话语]]在主权政治危机下的工具性与可逆性。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 梳理比较教育三大国际关系传统，系统反思世界文化学派在[[Policy Borrowing|政策借用]]研究中的理论局限。

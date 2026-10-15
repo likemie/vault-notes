@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Dunbar's Number
@@ -45,7 +45,7 @@ updated: 2026-10-09
 ## 定义
 
 > [!def] 核心定义
-> **邓巴数（Dunbar's Number，或 150 定律）**由英国人类学家[[Robin Dunbar|罗宾·邓巴]]（[[Robin Dunbar|Robin Dunbar]]）于 1993 年提出，指个体能够维持稳定、直接且具备功能性社交关系的人类社群规模理论上限（均值约为 148.4 人，通常取整为 150 人）。该理论基于灵长类动物大脑新皮质容量与社会群体大小的演化相关性，指出当群体规模超过 150 人时，仅凭面对面的直接人际互动与生理社交已无法维系群体稳定，必须依托语言、共享叙事与制度化符号建构想象的纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
+> **邓巴数（Dunbar's Number，或 150 定律）** 由英国人类学家[[Robin Dunbar|罗宾·邓巴]]（[[Robin Dunbar|Robin Dunbar]]）于 1993 年提出，指个体能够维持稳定、直接且具备功能性社交关系的人类社群规模理论上限（均值约为 148.4 人，通常取整为 150 人）。该理论基于灵长类动物大脑新皮质容量与社会群体大小的演化相关性，指出当群体规模超过 150 人时，仅凭面对面的直接人际互动与生理社交已无法维系群体稳定，必须依托语言、共享叙事与制度化符号建构想象的纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示人类大脑神经生理结构对面对面直接社交网络规模施加的生物学硬约束。
@@ -114,7 +114,7 @@ updated: 2026-10-09
 > [!concept-lens] 宏观组织与文化符号纽带
 > 探讨现代大规模政治经济实体如何利用文化、语言与历史叙事克服生物学认知限制、维系战略协同。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **突破生物学上限的制度化精神纽带** 人类从狩猎采集走向现代国家与高科技工程，本质上是一部依靠语言与文化叙事突破邓巴数限制的历史；当现代西方社会在后现代[[Pluralism|多元主义]]名义下解构共同文化与共享叙事时，不仅破坏了公民信任，更直接瓦解了维系现代科技文明与国家防卫所必需的大规模协作意志。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–194)]]
 
 ---
@@ -125,7 +125,7 @@ updated: 2026-10-09
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **生物神经上限论** | 揭示大脑新皮质容量对熟人直接社交圈施加的 150 人生理硬约束 | 演化心理学、小群体行为分析、人类学 | Dunbar (1993) |
-> | **宏观文化超越论** | 论证语言、历史叙事与国家认同是克服邓巴数、维系超大规模技术协作的前提 | 国家建构理论、科技地缘政治、政治哲学 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025)]] |
+> | **宏观文化超越论** | 论证语言、历史叙事与国家认同是克服邓巴数、维系超大规模技术协作的前提 | 国家建构理论、科技地缘政治、政治哲学 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]] |
 
 ---
 

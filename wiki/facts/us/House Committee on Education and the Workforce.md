@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # House Committee on Education and the Workforce
@@ -68,7 +68,7 @@ updated: 2026-10-15
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **美国众议院教育与劳动力委员会（House Committee on Education and the Workforce）**是美国国会众议院常设委员会（Standing Committee），对全美所有涉及联邦教育财政拨款、初等与中等教育、高等教育、学前启蒙、特殊教育及劳工权益的立法拥有排他性初审管辖权。作为联邦教育立法的政治中枢，该委员会不仅主导制定和重新授权国家教育基石法案，其常设专业幕僚（Committee Staff）更是筛选、吸纳与将学术实证证据转化为法定条文的制度化[[Gatekeepers\|守门人]]。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
+> **美国众议院教育与劳动力委员会（House Committee on Education and the Workforce）** 是美国国会众议院常设委员会（Standing Committee），对全美所有涉及联邦教育财政拨款、初等与中等教育、高等教育、学前启蒙、特殊教育及劳工权益的立法拥有排他性初审管辖权。作为联邦教育立法的政治中枢，该委员会不仅主导制定和重新授权国家教育基石法案，其常设专业幕僚（Committee Staff）更是筛选、吸纳与将学术实证证据转化为法定条文的制度化[[Gatekeepers\|守门人]]。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 创设于 1867 年（美国内战结束后的南方重建时期），最初设立教育委员会（Committee on Education）旨在统筹战后被解放奴隶与贫困平民的公共教育普及；后与劳工委员会合并演变为教育与劳工委员会（Committee on Education and Labor），在共和党主导时期常更名为教育与劳动力委员会。

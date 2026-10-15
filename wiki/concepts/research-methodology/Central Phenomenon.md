@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-31
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Central Phenomenon
@@ -124,7 +124,7 @@ updated: 2026-10-15
 > | **结构构型** | 辐射状网络中心（统摄因果条件与行动结果） | 线性因果链中的节点（[[Independent Variable\|自变量]]/[[Dependent Variable\|因变量]]） | 包含众多子现象的宏观集合 | 物理、语法或语义层级的切片片段 | 局部层级从属节点 |
 > | **演化形态** | 尝试性提出，随数据迭代深化为核心范畴 | 在研究设计之初即严格预先界定 | 在研究周期内通常保持相对宽泛稳定 | 在编码分析规程中保持相对恒定 | 随编码不断增加、合并或调整 |
 > | **[[Epistemology\|认识论]]追求** | 过程理解、情境扎根性与理论概念密度 | 统计相关性、因果推论与[[External Validity\|可推广性]] | 界定探究疆域与文献[[Dialogue in Education\|对话]]入口 | 确保测量[[Reliability\|信度]]、语义效度与防止去情境化 | 组织具体编码与消除范畴交叉 |
-> | **代表学者** | Strauss & Corbin (1990); [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] | Kerlinger (1986); [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] | Booth et al. (2008) | Krippendorff (2004); Lincoln & Guba (1985) | Mayring (2004); Spradley (1979) |
+> | **代表学者** | Strauss and Corbin (1990); [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] | Kerlinger (1986); [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] | Booth et al. (2008) | Krippendorff (2004); Lincoln and Guba (1985) | Mayring (2004); Spradley (1979) |
 
 ---
 
@@ -175,8 +175,8 @@ updated: 2026-10-15
 > | 命题类型 | 核心理论判定 | 方法论机制 | 代表学者与文献出处 |
 > |---|---|---|---|
 > | **最大解释力命题** | 扎根理论的理论整合必须收敛于一个具有最大解释潜力的核心范畴，方能建构高密度实质理论 | 范畴系统整合、故事线聚合、概念饱和度 | Strauss (1987, p. 11); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, p. 561)]] |
-> | **非方向性[[Emergence\|涌现]]命题** | 核心现象的语言表述必须摒弃方向性价值预设，以确保经验材料的[[Open-Mindedness\|开放性]]生成与真实性呈现 | 非方向性法则、开放性探索动词脚本 | McCracken (1988); [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, p. 126)]] |
-> | **轴心拓扑整合命题** | 核心现象在主轴编码中充当引力中心，将条件、脉络、策略与结果结构化为有机因果网络 | 六要素范式模型、因果拓扑映射 | Strauss & Corbin (1990, p. 96); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, p. 562)]] |
+> | **非方向性[[Emergence\|涌现]]命题** | 核心现象的语言表述必须摒弃方向性价值预设，以确保经验材料的[[Open-Mindedness\|开放性]]生成与真实性呈现 | 非方向性法则、开放性探索动词脚本 | McCracken (1988); [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022, p. 126)]] |
+> | **轴心拓扑整合命题** | 核心现象在主轴编码中充当引力中心，将条件、脉络、策略与结果结构化为有机因果网络 | 六要素范式模型、因果拓扑映射 | Strauss and Corbin (1990, p. 96); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, p. 562)]] |
 
 ---
 
@@ -198,13 +198,13 @@ updated: 2026-10-15
 > > [!axis] 单一核心范畴（Single Core） vs 多元网状范畴（Multiple Centers）
 > > 争论理论建构是否必须强行收敛于单一核心范畴，抑或可以容纳多个并列或块茎式（Rhizomatic）的分布式理论中心。
 > >
-> > - **Strauss & Corbin (1990)** 坚持一元整合原则，认为[[Grounded Theory\|扎根理论]]必须具备一个主导性核心范畴，否则理论将失去概念聚集力与清晰的[[Story Line\|故事线]]。
+> > - **Strauss and Corbin (1990)** 坚持一元整合原则，认为[[Grounded Theory\|扎根理论]]必须具备一个主导性核心范畴，否则理论将失去概念聚集力与清晰的[[Story Line\|故事线]]。
 > > - **[[Constructivist Paradigm\|建构主义]]与后现代学者（Charmaz, 2006; Clarke, 2005）** 批评强求单一核心范畴是[[Structural Functionalism|结构功能主义]]的简化残余，主张社会生活充满多重矛盾与去中心化特征，应允许情境分析（Situational Analysis）展现多元弥散的理论构型。
 >
 > > [!axis] 预先设计锚定（Pre-figured） vs 完全后生[[Emergence\|涌现]]（Emergent）
 > > 争论研究者在进入田野前是否可以在[[Purpose Statement\|目的陈述]]中预设尝试性核心现象。
 > >
-> > - **[[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]]** 主张在研究提议中设定明确的初步核心现象是获得学术论证合法性与对齐[[Research Question\|研究问题]]的必要规范，只要保持开放演化即可。
+> > - **[[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]]** 主张在研究提议中设定明确的初步核心现象是获得学术论证合法性与对齐[[Research Question\|研究问题]]的必要规范，只要保持开放演化即可。
 > > - **Glaser (1992)** 强烈反对任何形式的前置预设，坚称真正的核心范畴必须完全在彻底沉浸于数据后自然浮现，任何前置[[Research Writing Script\|写作脚本]]都会诱发对经验材料的形式主义强加。
 
 ---
@@ -222,7 +222,7 @@ updated: 2026-10-15
 > 4. **提供尝试性操作界定** 依据已有文献或前期观察，给出核心现象在当前研究阶段的暂定工作定义。
 >
 > 标准化脚本模板格式：
-> > 本质性研究的目的是为了**探索/理解**（参与者）在（研究场所）所经历的**【核心现象】**。在研究目前阶段，**【核心现象】**被初步定义为……
+> > 本质性研究的目的是为了**探索/理解**（参与者）在（研究场所）所经历的 **【核心现象】**。在研究目前阶段，**【核心现象】** 被初步定义为……
 
 > [!proc] [[Central Question\|核心研究问题]]转化规程
 > 将目的陈述中的核心现象直接转换为质性核心问题（Central Question）：
@@ -258,9 +258,9 @@ updated: 2026-10-15
 > [!table] 跨质性研究流派经典文献中的核心现象操作范例
 > | [[Research Topic\|研究主题]]领域 | 核心现象规范表述（Central Phenomenon） | 质性探究进路 | 实证文献出处 |
 > |---|---|---|---|
-> | 教师边缘化处境 | 教师专业身份的边缘化历程与学校生存体验 | [[Narrative Research\|叙事研究]]（Narrative） | Huber & Whelan (1999); [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, p. 125)]] |
+> | 教师边缘化处境 | 教师专业身份的边缘化历程与学校生存体验 | [[Narrative Research\|叙事研究]]（Narrative） | Huber and Whelan (1999); [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022, p. 125)]] |
 > | 体育场日常互动 | 职业棒球场基层员工的劳动文化与组织认同实践 | [[Ethnography\|民族志]]（Ethnography） | Trujillo (1992) |
-> | 疾病社会心理表征 | 慢性感染者对艾滋病病理与自我的认知表征建构 | 质性描述（Qualitative） | Anderson & Spencer (2002) |
+> | 疾病社会心理表征 | 慢性感染者对艾滋病病理与自我的认知表征建构 | 质性描述（Qualitative） | Anderson and Spencer (2002) |
 > | 创伤与哀伤经验 | 女性在晚期妊娠失子后的具身生活体验与记忆重建 | [[Phenomenology\|现象学]]（Phenomenology） | Lauterbach (1993) |
 > | 弱势学生支持机制 | 教师面向学业受挫学生的关怀关系与专业实践互动 | [[Case Study\|案例研究]]（Case Study） | Frelin (2015) |
 > | 移民二代课程认同 | 华裔移民学生在学校主流课程中家庭叙事的交织调和 | 叙事探究（Narrative） | Chan (2010) |
@@ -271,7 +271,7 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 系统确立核心现象在[[Qualitative Research\|质性研究]][[Purpose Statement\|目的陈述]]与核心提问中的单一聚焦规范与[[Nondirectional Language\|非方向性语言]]准则（Ch. 6 & 7）。
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 系统确立核心现象在[[Qualitative Research\|质性研究]][[Purpose Statement\|目的陈述]]与核心提问中的单一聚焦规范与[[Nondirectional Language\|非方向性语言]]准则（Ch. 6 & 7）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 在[[Grounded Theory\|扎根理论]]主轴与[[Selective Coding\|选择性编码]]专节中系统阐释核心范畴的最大解释潜力、[[Story Line\|故事线]]整合与包容层级统摄机制（Ch. 30）。
 
 ---
@@ -281,13 +281,13 @@ updated: 2026-10-15
 > [!rel-table] 关联知识实体
 > | 关联实体 | 实体类型 | 关联本质说明 | 文献出处 |
 > |---|---|---|---|
-> | [[Axial Coding\|主轴编码]] | 方法 | 核心现象构成了主轴编码六要素[[Paradigm\|范式]]模型不可或缺的拓扑引力中心。 | Strauss & Corbin (1990, p. 96) |
-> | [[Grounded Theory\|扎根理论]] | 方法 | 核心现象在扎根理论理论建构中最终深化为统领全局的“核心范畴（Core Category）”。 | Glaser & Strauss (1967) |
+> | [[Axial Coding\|主轴编码]] | 方法 | 核心现象构成了主轴编码六要素[[Paradigm\|范式]]模型不可或缺的拓扑引力中心。 | Strauss and Corbin (1990, p. 96) |
+> | [[Grounded Theory\|扎根理论]] | 方法 | 核心现象在扎根理论理论建构中最终深化为统领全局的“核心范畴（Core Category）”。 | Glaser and Strauss (1967) |
 > | [[Unit of Analysis\|分析单位]] | 概念 | 分析单位为核心现象的经验观察与文本抽取提供了微观操作边界与语境支撑。 | Krippendorff (2004) |
 > | [[Domain Analysis\|领域分析]] | 概念 | 领域分析发掘的宏观象征范畴与层级包容结构，为核心范畴的提炼提供了上位分类地基。 | Spradley (1979) |
 > | [[Qualitative Codebook\|质性编码本]] | 概念 | 核心现象及其下辖主轴范畴直接决定了[[Coding in Qualitative Research\|质性编码]]本的核心架构与层级树状展开。 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, p. 562)]] |
-> | [[Purpose Statement\|目的陈述]] | 概念 | 核心现象是质性目的陈述[[Research Writing Script\|写作脚本]]中最核心的必填[[Construct\|构念]]，界定探究的实质灵魂。 | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, p. 125)]] |
+> | [[Purpose Statement\|目的陈述]] | 概念 | 核心现象是质性目的陈述[[Research Writing Script\|写作脚本]]中最核心的必填[[Construct\|构念]]，界定探究的实质灵魂。 | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022, p. 125)]] |
 > | [[Central Question\|核心研究问题]] | 概念 | 核心[[Research Question\|研究问题]]是核心现象在问题层面的直接转化与句法对应。 | Creswell & Creswell (2022, Ch. 7) |
 > | [[Nondirectional Language\|非方向性语言]] | 概念 | 非方向性法则是界定核心现象不可逾越的方法论纪律，严防价值预设污染探究。 | McCracken (1988) |
-> | [[Story Line\|故事线]] | 概念 | 撰写主导故事线是研究者从复杂数据中锁定并提炼核心现象的关键跳板。 | Strauss & Corbin (1990, p. 117) |
+> | [[Story Line\|故事线]] | 概念 | 撰写主导故事线是研究者从复杂数据中锁定并提炼核心现象的关键跳板。 | Strauss and Corbin (1990, p. 117) |
 > | [[Saturation\|理论饱和]] | 概念 | 当针对核心现象及其属性的补充抽样不再产生新的理论见解时，探究达到饱和状态。 | Strauss (1987) |

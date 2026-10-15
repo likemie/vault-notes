@@ -91,7 +91,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Palantir Technologies
@@ -168,7 +168,7 @@ updated: 2026-10-09
 > 4. **重塑企业使命与文明神话的共生联结** 证明了高科技企业无需陷入价值虚无的消费主义泥潭，能够通过将企业使命与宏大文明故事相结合，凝聚顶尖工程天才服务于自由共同体的长期生存。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 199–200)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 详尽阐发帕兰提尔的企业起源、战地实战、诉讼抗争、即兴演剧与神话叙事（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]]–[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Ch. 3]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Ch. 10]]–[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|Ch. 15]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch. 17]]）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 详尽阐发帕兰提尔的企业起源、战地实战、诉讼抗争、即兴演剧与神话叙事（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]]–[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Ch. 3]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Ch. 10]]–[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|Ch. 15]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch. 17]]）。
 > - [[Argument_Cheng_2026_KeJiChuangXin|程楠等 (2026)]] — 梳理美国中央情报局 In-Q-Tel 战略风投机制对国防科技初创企业的孵化支撑。
 
 ---

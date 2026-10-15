@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-09-24
+updated: 2026-10-16
 ---
 
 ## 核心主张
@@ -51,7 +51,7 @@ updated: 2026-09-24
 > [!abstract] 唯我论前提
 > - 学习者是自足的认知系统，一切知识由个体内部建构
 > - 外部世界（社会、科学、政治、经济）不在理论视野内
-> - 例：Hattie & Yates (2013) 的书封面是 16 个独立大脑，每个大脑内有一个学习仪表盘，箭头指向 d≈0.4——完全处于学习者头脑内部([[Argument_Rømer_2018_EPT\|Rømer, 2018, p.8]])
+> - 例：Hattie and Yates (2013) 的书封面是 16 个独立大脑，每个大脑内有一个学习仪表盘，箭头指向 d≈0.4——完全处于学习者头脑内部([[Argument_Rømer_2018_EPT\|Rømer, 2018, p.8]])
 
 
 > [!abstract] 对教学的消解

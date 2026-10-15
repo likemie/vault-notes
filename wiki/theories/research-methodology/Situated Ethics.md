@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-19
-updated: 2026-10-01
+updated: 2026-10-16
 ---
 
 # Situated Ethics
@@ -46,7 +46,7 @@ updated: 2026-10-01
 > - **解释对象** 伦理原则在研究实践中的运作方式——为什么同一伦理原则（如[[Informed Consent\|知情同意]]）在不同研究情境中具有不同的含义和适用性。
 > - **理论问题** 回应伦理普遍主义（认为存在一套不变且有效适用于所有情境的一般原则）与伦理相对主义（认为伦理完全取决于个体良心）之间的经典争论。
 > - **理论类型** 中层[[Analytic Framework\|分析框架]]——不提供具体伦理守则，而是提供一种关于伦理判断如何被达成的元层次立场。
-> - **知识位置** 根植于[[Qualitative Research\|质性研究]]传统和[[Interpretivism|解释主义]][[Paradigm\|范式]]，代表学者为 Simons & Usher (2000)。
+> - **知识位置** 根植于[[Qualitative Research\|质性研究]]传统和[[Interpretivism|解释主义]][[Paradigm\|范式]]，代表学者为 Simons and Usher (2000)。
 
 > [!claim] 核心主张
 > 伦理原则不是不变地适用于所有情境的；它们在不同的研究实践中被中介，因此相对于这些实践具有不同的意义。研究者无法避免权衡位于研究情境特殊性中的冲突考量和困境，而这些伦理决定不能通过诉诸单义、单值的（unambiguous and univalent）原则或守则来达到（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 128–129]]）。

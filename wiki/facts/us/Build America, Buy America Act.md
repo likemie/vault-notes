@@ -68,7 +68,7 @@ updated: 2026-10-16
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> **《以美国制造为荣法案》（Build America, Buy America Act, BABA）**通过法律强制规定，任何使用联邦财政援助的基础设施项目，其所消耗的全部钢铁、制造品（Manufactured Products）以及非铁建筑材料（包括塑料、聚合物玻璃、木材与石膏板等）必须 100% 在美国本土生产与制造；以此作为现代产业战略中最具约束力的需求侧[[Market Shaping and Creating|市场塑造]]工具，驱动数千亿美元私营投资涌入本土先进制造业。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]
+> **《以美国制造为荣法案》（Build America, Buy America Act, BABA）** 通过法律强制规定，任何使用联邦财政援助的基础设施项目，其所消耗的全部钢铁、制造品（Manufactured Products）以及非铁建筑材料（包括塑料、聚合物玻璃、木材与石膏板等）必须 100% 在美国本土生产与制造；以此作为现代产业战略中最具约束力的需求侧[[Market Shaping and Creating|市场塑造]]工具，驱动数千亿美元私营投资涌入本土先进制造业。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]
 
 > [!policy-design]- 政策设计
 > - **政策目标** 通过联邦万亿美元级基建采购的定向需求拉动，催生本土先进制造与清洁技术产能，重塑关键工业品国内供应链闭环。

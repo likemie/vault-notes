@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Covariate Adjustment
@@ -78,7 +78,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> **协[[Variable\|变量]]调整（Covariate Adjustment）**，亦称**协变量控制**或**[[Analysis of Covariance\|协方差分析]]（ANCOVA）**，是指在统计模型中系统性纳入可能影响[[Dependent Variable\|结果变量]]的第三变量（基线协变量 $\mathbf{X}$），以重新估计核心[[Independent Variable\|自变量]]与因变量之间关系的量化建模技术。
+> **协[[Variable\|变量]]调整（Covariate Adjustment）**，亦称**协变量控制**或 **[[Analysis of Covariance\|协方差分析]]（ANCOVA）**，是指在统计模型中系统性纳入可能影响[[Dependent Variable\|结果变量]]的第三变量（基线协变量 $\mathbf{X}$），以重新估计核心[[Independent Variable\|自变量]]与因变量之间关系的量化建模技术。
 >
 > 协变量调整在实证研究中具有截然不同的**双重功能机制**
 > 1. **在观察性非[[Experimental Research\|实验研究]]中（消偏机制）** 将混杂变量纳入模型以阻断非随机选择带来的伪相关，剥离外在背景干扰（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, pp. 49–51]]）；
@@ -236,6 +236,6 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 阐述英国 [[Education Endowment Foundation\|EEF]] 在大规模两级整群 [[Randomised Controlled Trials\|RCT]] 中将基线[[Pre-test and Post-test\|前测]]协[[Variable\|变量]]调整常态化，实现[[Effective Sample Size\|有效样本量]]翻倍与微弱效应精准识别的方法学实践。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 阐述英国 [[Education Endowment Foundation\|EEF]] 在大规模两级整群 [[Randomised Controlled Trials\|RCT]] 中将基线[[Pre-test and Post-test\|前测]]协[[Variable\|变量]]调整常态化，实现[[Effective Sample Size\|有效样本量]]翻倍与微弱效应精准识别的方法学实践。
 > - [[Argument_Allerup_2015_Paideia\|Allerup (2015)]] — 丹麦教师效能实证研究，证明控制学生家庭背景协变量后教师学科资质效应大幅缩水，揭示观察性协变量控制的敏感性。
 > - [[Argument_Berk_2011_ER\|Berk (2011)]] — 观察性[[Causality\|因果推断]]方法论反思，警示控制可观测协变量无法消除未观测混杂的内在局限。

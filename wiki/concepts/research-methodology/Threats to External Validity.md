@@ -56,7 +56,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Threats to External Validity
 
@@ -72,7 +72,7 @@ updated: 2026-10-15
 > - **用途** 在研究设计阶段帮助研究者预见限制可推广性的因素并预先设计策略；在评估已有研究时提供批判性[[Evaluation Research\|评估研究]]发现适用边界的结构化工具。
 > - **边界** 外部效度威胁不同于内部效度威胁——前者关注推广的边界（"这个发现能走多远？"），后者关注[[Causality\|因果推断]]的内部可信性（"X 真的导致了 Y 吗？"）。Pilliner (1973) 指出两者之间的不对称关系：没有[[Internal Validity\|内部效度]]，实验不可能有外部效度；但一个内部有效的实验可能有也可能没有外部效度。
 
-[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 从[[Experimental Research|实验研究]]角度强调，外部效度威胁产生于实验者从样本数据中对其他人群、其他情境以及过去或未来情境做出错误推论时。
+[[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] 从[[Experimental Research|实验研究]]角度强调，外部效度威胁产生于实验者从样本数据中对其他人群、其他情境以及过去或未来情境做出错误推论时。
 
 ---
 
@@ -80,7 +80,7 @@ updated: 2026-10-15
 
 ### Campbell & Stanley 等经典框架
 
-基于 Campbell & Stanley (1963)、Bracht & Glass (1968)、Hammersley & Atkinson (1983)、Vulliamy (1990) 和 Lewis-Beck (1993) 的工作，量化[[External Validity|外部效度]]面临九种主要威胁（pp.168–171）：
+基于 Campbell and Stanley (1963)、Bracht and Glass (1968)、Hammersley and Atkinson (1983)、Vulliamy (1990) 和 Lewis-Beck (1993) 的工作，量化[[External Validity|外部效度]]面临九种主要威胁（pp.168–171）：
 
 > [!challenges] 九种量化外部效度威胁
 > - **未能明确描述自[[Variable\|变量]]** 除非[[Independent Variable\|自变量]]得到充分描述，未来复制研究条件几乎不可能——这是科学[[Reproducibility Crisis|可重复性危机]]的一个重要来源
@@ -90,7 +90,7 @@ updated: 2026-10-15
 > - **对实验条件的敏感化/反应性** [[Pre-test and Post-test\|前测]]可能改变受试者对干预变量的敏感性——后测表现反映的可能是对前测的记忆，而非干预的真实效果
 > - **外来因素与实验处理的[[Interaction Effect\|交互效应]]** 多种混淆因素与处理之间的交互作用
 > - **工具的无效或不可靠** 使用产生不可信数据的工具
-> - **[[Ecological Validity\|生态效度]]** 在一个情境中观察到的行为能否推广到另一个情境？Hammersley & Atkinson (1983, p. 10) 评论了从实验条件或访谈中获得的推论与日常生活之间关系的严重问题。Hammersley (2008, p. 4) 进一步指出：控制变量的实验室试验在原则上就歪曲了教室的真实世界——在高度控制下发现的效应，可能不适用于变量控制弱得多的真实情境（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, p. 332]]）
+> - **[[Ecological Validity\|生态效度]]** 在一个情境中观察到的行为能否推广到另一个情境？Hammersley and Atkinson (1983, p. 10) 评论了从实验条件或访谈中获得的推论与日常生活之间关系的严重问题。Hammersley (2008, p. 4) 进一步指出：控制变量的实验室试验在原则上就歪曲了教室的真实世界——在高度控制下发现的效应，可能不适用于变量控制弱得多的真实情境（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, p. 332]]）
 > - **多重处理效度** 同时或依次施加多种处理可能导致处理间交互效应，难以隔离特定处理的效果
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 168–171)]]
@@ -99,7 +99,7 @@ updated: 2026-10-15
 
 ### Creswell 三威胁框架
 
-Creswell & Guetterman (2018) 将外部效度威胁按交互类型分为三种（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch8, Table 8.6]]）：
+Creswell and Guetterman (2018) 将外部效度威胁按交互类型分为三种（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch8, Table 8.6]]）：
 
 > [!dimension] Creswell 的三种外部效度威胁
 > - **选择与处理的交互作用（Interaction of Selection and Treatment）**
@@ -171,4 +171,4 @@ Onwuegbuzie & Leech (2006b: 237–8) 进一步识别了质性研究中跨越十�
 > | **判断者** | 研究者通过统计证据来判断 | 读者基于厚描述自行判断迁移是否可能 |
 
 > [!note] Schofield 的质性可推广性路径
-> Schofield (1996, p. 200) 认为质性研究提供清晰、详细和深入的描述至关重要——以便他人判断研究发现的可推广性。他提出两条路径（p. 209）：研究**典型案例**（其对其他情境的适用性）；以及进行**多场所研究（multi-site studies, Miles & Huberman, 1984）**。Bogdan & Biklen (1992, p. 45) 总结说质性研究中更关心的是发现**可能**适用于哪些环境、人群和情境——而不是发现是否在最广义上是可推广的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10)]]
+> Schofield (1996, p. 200) 认为质性研究提供清晰、详细和深入的描述至关重要——以便他人判断研究发现的可推广性。他提出两条路径（p. 209）：研究**典型案例**（其对其他情境的适用性）；以及进行**多场所研究（multi-site studies, Miles & Huberman, 1984）**。Bogdan and Biklen (1992, p. 45) 总结说质性研究中更关心的是发现**可能**适用于哪些环境、人群和情境——而不是发现是否在最广义上是可推广的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10)]]

@@ -34,7 +34,7 @@ related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
 status: active
 created: 2026-08-13
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Epistemological Theories
@@ -57,7 +57,7 @@ updated: 2026-10-15
 
 > [!dev-timeline] 概念演变
 > - **1990 年 — 独立维度假说** Schommer 提出[[Epistemological Beliefs\|认识论信念]]是由多个相对独立、互不干扰的维度构成的连续体，打破了早期的单向发展阶段论。
-> - **1997 年 — 理论连贯性重构** [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 在批判 Schommer 模型的基础上，一方面剔除了“固定智力”、“快速学习”等非[[Epistemology\|认识论]]维度，提炼出四大核心共识维度；另一方面，引入了心理学中“个人理论”的视角，主张这些认识论维度并非相互独立，而是连贯互构的，从而正式提出了“认识论理论（epistemological theories）”[[Construct\|构念]]。
+> - **1997 年 — 理论连贯性重构** [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 在批判 Schommer 模型的基础上，一方面剔除了“固定智力”、“快速学习”等非[[Epistemology\|认识论]]维度，提炼出四大核心共识维度；另一方面，引入了心理学中“个人理论”的视角，主张这些认识论维度并非相互独立，而是连贯互构的，从而正式提出了“认识论理论（epistemological theories）”[[Construct\|构念]]。
 
 ---
 
@@ -84,7 +84,7 @@ updated: 2026-10-15
 > [!concept-lens] 维度的连贯互构
 > 探讨个体对于知识各维度的信念是否各自为政，还是共同构成了一个指导思维和感知的底层解释框架。
 
-> [!claim] [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]]
+> [!claim] [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]]
 > **个人理论主张** 个体的[[Epistemological Beliefs\|认识论信念]]并非零散的事实集合，而是以相互关联、内部一致的方式构成了某种具有[[Domain Specificity\|领域特殊性]]或一般性的“朴素理论（naive theories）”。
 > 
 > 借助概念转变文献中关于“[[Theory of Mind\|心智理论]]（Theory of Mind）”的视角，如果个体在某一维度的承诺（如绝对主义）会引导其以特定方式感知和思考经验，则该信念系统便起到了理论的指导作用。为了证明其不仅是一组松散观点，研究者引入了 Wellman (1990) 关于“知识如何构成理论”的判定标准：
@@ -101,4 +101,4 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **个人理论假说** | 认识论假设的各核心维度在心智中连贯互构，共同形成解释知识本质的理论框架 | 解释学生在学习过程中的动机、[[Metacognition\|元认知]]与策略选择机制 | [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] |
+> | **个人理论假说** | 认识论假设的各核心维度在心智中连贯互构，共同形成解释知识本质的理论框架 | 解释学生在学习过程中的动机、[[Metacognition\|元认知]]与策略选择机制 | [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] |

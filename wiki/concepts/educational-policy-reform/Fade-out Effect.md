@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Fade-out Effect
@@ -167,7 +167,7 @@ updated: 2026-10-15
 > |---|---|---|---|
 > | **技能层级分化** | 低阶琐碎技能易于消退，唯有深层元认知与思维习惯具备延时反弹与长期乘数效应 | 早期读写、数学与认知干预方案设计 | Bailey et al. (2017); Cartiff et al. |
 > | **清算随访筛选** | 6–12 个月干预后持续效果门槛是区分表面提分与实质轨迹改变的制度分水岭 | [[Educational Evidence Clearinghouses\|证据清算中心]]评级准入与政策推荐 | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] |
-> | **大数据追踪范式** | 链接国家行政普查数据库（如 NPD）可消除随访高流失，实现全样本终身因果追踪 | 国家级证据中介、长期政策效应评估 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] |
+> | **大数据追踪范式** | 链接国家行政普查数据库（如 NPD）可消除随访高流失，实现全样本终身因果追踪 | 国家级证据中介、长期政策效应评估 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] |
 > | **累积剂量机制** | 单次短期干预易衰退，唯有在 K–12 全学段连贯实施强证据方案才能固化学业优势 | 处境不利薄弱学校改进、分层预防干预体系 | [[Argument_Slavin_2019_EP\|Slavin (2019)]] |
 
 ---
@@ -230,7 +230,7 @@ updated: 2026-10-15
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]或衰减呈现） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 全美各大教育清算中心认证的数百项教育项目 | 跨国证据清算元综述 | 干预后随访期（0、6、12 个月）、认证推荐等级 | 缺乏 6–12 个月随访数据的项目在严格机构中淘汰率超 90%；[[Peer-Assisted Learning Strategies\|PALS]] 与 [[Community Innovation Survey\|CIS]] 因无随访数据在 [[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]] 中直接被判为证据不足 | 政策标准严格约束 | 确立了随访期长短是决定干预能否经受住真实世界检验的关键门槛 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]]; Hanley et al. (2015); Kitmitto et al. (2018) | 英格兰小学五年级学生（[[Thinking, Doing, Talking Science\|TDTS]] 科学干预） | [[Efficacy Trial\|效力试验]]（42 校）与[[Effectiveness Trial\|实效试验]]（205 校）对比 | 科学学业统考成绩、FSM 弱势学生成绩 | 效力试验即时后测呈现显著成效（$d = +0.22$）；但在扩大规模实效试验中，由于级联中介递送稀释与对照组常态教学提升，主效应降为零 | 规模化阶段效应衰退 | 阐明除了时间衰退外，从效力到实效的规模化也是导致干预效应归零的重大路径 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]; Hanley et al. (2015); Kitmitto et al. (2018) | 英格兰小学五年级学生（[[Thinking, Doing, Talking Science\|TDTS]] 科学干预） | [[Efficacy Trial\|效力试验]]（42 校）与[[Effectiveness Trial\|实效试验]]（205 校）对比 | 科学学业统考成绩、FSM 弱势学生成绩 | 效力试验即时后测呈现显著成效（$d = +0.22$）；但在扩大规模实效试验中，由于级联中介递送稀释与对照组常态教学提升，主效应降为零 | 规模化阶段效应衰退 | 阐明除了时间衰退外，从效力到实效的规模化也是导致干预效应归零的重大路径 |
 > | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | 全美 K-12 阶段 Title I 薄弱学校与干预响应体系（[[Response to Intervention\|RTI]]/RTPI） | 循证改革质量综述与长效干预模型分析 | 单年干预后效衰减 vs 累积剂量连年干预对[[Academic Achievement\|学业成就]]的维持效应 | 单年干预停止后效应逐步衰减；跨学段连年推行强证据方案能够实现效应持续留存与学业差距消除 | 理论推导与政策模型证实 | 确立“累积剂量原则”为抵御短期效应衰减、保障弱势学[[Growth\|生长]]效发展的根本制度解法 |
 
 ---
@@ -254,7 +254,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 系统梳理跨国[[Educational Evidence Clearinghouses\|证据清算中心]]对干预后持续效果的硬性审查标准，揭示效应衰退对政策认证评级的决定性影响。
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 深度剖析英国 [[Education Endowment Foundation\|EEF]] 试验从效力到实效演进中的电压降机制，以及依托[[National Pupil Database\|国家学生数据库]]建立长期效应追踪的制度实践。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 深度剖析英国 [[Education Endowment Foundation\|EEF]] 试验从效力到实效演进中的电压降机制，以及依托[[National Pupil Database\|国家学生数据库]]建立长期效应追踪的制度实践。
 > - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 论证单次干预后效应衰减的认知必然性，提出在 K–12 全周期推行强证据方案的“[[Cumulative Dosage Principle\|累积剂量原则]]（Cumulative Dosage）”，系统阐释如何通过连年持续干预克服短期衰退并终身重塑学业轨迹。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — [[Meta-analysis\|元分析]]实证证实[[Epistemology\|认识论]]教学干预在延时[[Pre-test and Post-test\|后测]]中展现出罕见的效应翻倍（$d = 0.966$ vs. $d = 0.451$），阐明思维习惯随时间具有内化沉淀优势，并解构了全学期长周期干预产生相对衰退的教学稀释机制。
 

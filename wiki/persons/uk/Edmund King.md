@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-06
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Edmund King
@@ -104,7 +104,7 @@ updated: 2026-10-09
 >   - **代表著作** "Comparative Studies and Policy Decisions" (1967); *Comparative Studies and Educational Decision* (1968). [[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 63–64)]]
 >   - **核心关注** 阐明人类行动者的自由意志与社会情境复杂性，否定实证预测作为划界标准的合法性；确立“关键决策时刻”理论。
 > - **1970年代至1980年代 — 跨国后义务教育实证咨询与学科边界守门** 投身大规模跨国政策咨询项目，同时面对社会学与激进学术思潮的冲击，坚决固守传统比较教育学科边界。
->   - **代表著作** *Post-Compulsory Education* (1974–1975, 两卷本); "The Sociology of Education: A New Approach" (1979); King & Archer (1980). [[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 329)]]
+>   - **代表著作** *Post-Compulsory Education* (1974–1975, 两卷本); "The Sociology of Education: A New Approach" (1979); King and Archer (1980). [[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 329)]]
 >   - **核心关注** 青年群体学校向工作过渡与技能培训政策；以正统学科权威姿态[[Disciplina and Doctrina\|规训]]跨学科社会学偏离。
 
 ---

@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-22
+updated: 2026-10-16
 ---
 
 # Wendy Espeland
@@ -132,8 +132,8 @@ updated: 2026-09-22
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]] — 引用 Espeland (2015) 论证数字指标在教育公共政策中如何构筑理性客观表象，并为中介机构和决策者阐释“指标故事”保留政治叙事自由。
-> - [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017]] — 运用 Espeland & Sauder (2007) 的排名履行性与反应性机制，批判全球高等教育政治经济学中的市场化与象征资本锦标赛。
-> - [[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022]] — 援引 Espeland & Stevens (2008) 论证教育量化技术对学习者“[[Digital Self\|数字自我]]”的统计构建，揭示数据测量绝非通向真实客观的特权通道。
+> - [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017]] — 运用 Espeland and Sauder (2007) 的排名履行性与反应性机制，批判全球高等教育政治经济学中的市场化与象征资本锦标赛。
+> - [[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022]] — 援引 Espeland and Stevens (2008) 论证教育量化技术对学习者“[[Digital Self\|数字自我]]”的统计构建，揭示数据测量绝非通向真实客观的特权通道。
 
 ---
 
@@ -160,7 +160,7 @@ updated: 2026-09-22
 > > [!axis] 反应性行为是否等同于投机取巧的作弊
 > > 政策制定者常将院校应对指标的策略（如刷分、操纵录取率）视为道德瑕疵；反应性理论则将其视为系统结构性矛盾的理性适应。
 > >
-> > - **Espeland & Sauder（2007）** 强调反应性是不可避免的系统性力量，制度惩戒机制倒逼行动者重塑价值观与精力分配，不能简化为个体操守问题。
+> > - **Espeland and Sauder（2007）** 强调反应性是不可避免的系统性力量，制度惩戒机制倒逼行动者重塑价值观与精力分配，不能简化为个体操守问题。
 
 > [!warning] 未解问题与边界
 > 埃斯佩兰德主要聚焦于西方高度理性化、法律主义与市场化组织情境；在政治高度集权、数据基础薄弱或传统人情治理占主导的全球南方社会，指标的[[Commensuration\|通约化]]与反应性逻辑可能发生不同形式的制度变异与非正式规避。

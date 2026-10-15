@@ -78,7 +78,7 @@ sources:
   - "[[sources/Ginsberg_2024_EP/Ginsberg_2024_EP|Ginsberg_2024_EP]]"
 status: stable
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Ginsberg_2024_EP"
@@ -121,10 +121,10 @@ issuing_organization: ""
 > |----------|----------|
 > | **[[Evidence Standards\|分级证据标准框架]]**<br>[[Evidence Standards]] | 界定实证研究设计的因果效力层级（[[Randomised Controlled Trials\|随机对照试验（Randomised Controlled Trial, RCT）]]为强证据 Tier I、[[Quasi-Experimental Designs\|准实验设计（Quasi-Experimental Design, QED）]]为中等证据 Tier II、[[Correlational Research\|相关性研究]]为有希望证据 Tier III），用于检验教育干预与学业产出之间的因果置[[Reliability\|信度]]。（pp. 162–163） |
 > | **全量证据评价范式（Full Body of Evidence Paradigm）**<br>[[Systematic Review]] | 强调不能依据孤立单兵研究断言有效，必须全面检索并综合所有相关实证研究，识别结果的[[Heterogeneity\|异质性]]、混合性或潜在负效应。（pp. 163, 171–172） |
-> | **教育财政投入与产出关联假说**<br>Compensatory Education Hypotheses | Dynarski & Kainz (2015) 提出的资金强度不足假说与无效实践挤占假说，以及 Gordon (2004) 证实的地方财政挤出效应（crowd-out effect），用于解释 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资金为何长期未能一致改善处境不利学生的[[Academic Achievement\|学业成就]]。（pp. 164–165） |
+> | **教育财政投入与产出关联假说**<br>Compensatory Education Hypotheses | Dynarski and Kainz (2015) 提出的资金强度不足假说与无效实践挤占假说，以及 Gordon (2004) 证实的地方财政挤出效应（crowd-out effect），用于解释 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资金为何长期未能一致改善处境不利学生的[[Academic Achievement\|学业成就]]。（pp. 164–165） |
 
 > [!warrant]- 理论框架对实证审计的支撑机理
-> 论文通过并置比较 [[Every Student Succeeds Act\|ESSA]] 法定四级证据框架与全量证据评价[[Paradigm\|范式]]，搭建起检验政策执行实质效力的理论桥梁。长期以来关于 Title I 资金对学业影响的实证文献结论分歧严重：Borman & D'Agostino (1996) 与 Torgesen et al. (2007) 发现了积极效果，而 Puma et al. (1997)、van der Klaauw (2008) 及 Deke et al. (2012) 则未发现显著影响。Dynarski & Kainz (2015) 明确提出两大理论猜想：其一是人均拨款强度过低；其二是大量资金被耗散在缺乏实效的实践中。若法定证据标准过于宽松（仅需单项研究证明显著效果），学区便可利用挑樱桃（cherry-picking）策略为既有低效支出披上合法外衣；这一治理困境深度呼应了[[Critique of Randomized Controlled Trials\|随机对照试验批判]]对法定单项因果证据作为政策通货的质疑；只有引入全量证据综合视角，才能测出形式合规与实质有效之间的真实差距。（pp. 163–165）
+> 论文通过并置比较 [[Every Student Succeeds Act\|ESSA]] 法定四级证据框架与全量证据评价[[Paradigm\|范式]]，搭建起检验政策执行实质效力的理论桥梁。长期以来关于 Title I 资金对学业影响的实证文献结论分歧严重：Borman & D'Agostino (1996) 与 Torgesen et al. (2007) 发现了积极效果，而 Puma et al. (1997)、van der Klaauw (2008) 及 Deke et al. (2012) 则未发现显著影响。Dynarski and Kainz (2015) 明确提出两大理论猜想：其一是人均拨款强度过低；其二是大量资金被耗散在缺乏实效的实践中。若法定证据标准过于宽松（仅需单项研究证明显著效果），学区便可利用挑樱桃（cherry-picking）策略为既有低效支出披上合法外衣；这一治理困境深度呼应了[[Critique of Randomized Controlled Trials\|随机对照试验批判]]对法定单项因果证据作为政策通货的质疑；只有引入全量证据综合视角，才能测出形式合规与实质有效之间的真实差距。（pp. 163–165）
 
 ### 核心变量与操作化编码表
 

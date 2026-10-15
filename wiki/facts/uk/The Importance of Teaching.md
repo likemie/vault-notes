@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # The Importance of Teaching
@@ -107,7 +107,7 @@ updated: 2026-10-15
 > - **2010 年 11 月** 英国教育部正式颁布《教学的重要性》白皮书，确立[[Self-Improving School System\|自我改进学校系统]]四项核心准则，开启[[Evidence Era\|证据时代]]。
 > - **2011 年** 依据白皮书战略设想，英国设立[[Education Endowment Foundation\|教育捐赠基金会]]（EEF），启动首批[[Teaching Schools\|教学学校]]（Teaching Schools）国家评审与指定。
 > - **2014–2015 年** 横向网络规模化成型：至 2014 年 10 月全英 32% 的学校已链接进教学学校联盟；至 2015 年 3 月 58% 的学院已组建正式学院链；[[Carter Review of Initial Teacher Training\|卡特审查]]（Carter Review）进一步强化校本培训路径。
-> - **2016–2022 年** 实证评估反思期：[[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] 揭示第三准则（从研究中学习）落地面临结构性阻碍并诱发[[Activity Traps\|活动陷阱]]；[[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] 揭示白皮书开启的学术引证热潮演变为教育部把关下的[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM）。
+> - **2016–2022 年** 实证评估反思期：[[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] 揭示第三准则（从研究中学习）落地面临结构性阻碍并诱发[[Activity Traps\|活动陷阱]]；[[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] 揭示白皮书开启的学术引证热潮演变为教育部把关下的[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM）。
 
 ---
 
@@ -151,13 +151,13 @@ updated: 2026-10-15
 > > [!axis] 自主与高压问责的制度不相容性
 > > 白皮书所赋予的专业办学自由能否在现行严密问责体制下共存。
 > >
-> > - **[[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]]** 严密的表现主义问责体系彻底压平了政府试图倡导的自由与创新；面对 [[Ofsted]] 督导风险，学校更倾向于迎合督导偏好与追逐短期统考数据，而非遵循长效的循证规律，导致[[Research Utilization\|证据使用]]被严重窄化与扭曲。
+> > - **[[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]]** 严密的表现主义问责体系彻底压平了政府试图倡导的自由与创新；面对 [[Ofsted]] 督导风险，学校更倾向于迎合督导偏好与追逐短期统考数据，而非遵循长效的循证规律，导致[[Research Utilization\|证据使用]]被严重窄化与扭曲。
 > > - **[[OECD]] (2011, 2015)** 强调放权自主必须与强有力的问责评估机制及系统能力建设构成“铁三角”；高自主与高问责的有机耦合在芬兰等高绩效系统中已被证实能带来卓越质量。
 >
 > > [!axis] 实证科学透明性 vs 政治导向型证据制造（[[Policy-Based Evidence-Making\|PBEM]]）
 > > 白皮书激增的学术引证与国际借用究竟代表了理性的科学决策，还是包装预设政治立场的修辞工具。
 > >
-> > - **[[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]]** 认为白皮书开辟的[[Evidence Era\|证据时代]]深嵌于适宜性逻辑与教育部[[Gatekeepers\|把关人]]机制中；引证激增并未促成真理探索，反而由于挑选支持性证据、搁置相悖结论而沦为[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM），造成从证据生产到应用的[[Epistemological Break\|认识论断裂]]。
+> > - **[[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]]** 认为白皮书开辟的[[Evidence Era\|证据时代]]深嵌于适宜性逻辑与教育部[[Gatekeepers\|把关人]]机制中；引证激增并未促成真理探索，反而由于挑选支持性证据、搁置相悖结论而沦为[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM），造成从证据生产到应用的[[Epistemological Break\|认识论断裂]]。
 > > - **政策支持者（DfE）** 强调密集引证同行评议期刊与国际成功案例展现了政府决策的高度透明性与科学前沿性，为打破传统工会与大学利益集团阻碍提供了客观依据。
 >
 > > [!axis] 校际横向联盟会缩小差距还是加剧两极分化

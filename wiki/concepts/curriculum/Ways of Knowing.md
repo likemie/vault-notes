@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Ways of Knowing
@@ -177,7 +177,7 @@ updated: 2026-10-15
 > [!concept-lens] [[Domain Specificity\|学科特异性]]与多元[[Epistemic Practices\|认识论实践]]
 > 探讨不同学科在问题提出、[[Evidence Standards\|证据标准]]与知识合法化上的深层差异，消解单一线性“[[Scientific Method\|科学方法]]”的教条主义。
 
-> [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]
+> [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]
 > **学科认知方式的多元性与公共证据审查准则** 科学与工程实践具有高度的领域依存性与历史动态性，不存在放之四海而皆准的孤立实践清单或刻板的“五步科学方法”。物理探究、工程设计、地质历史回溯与[[Socioscientific Issues\|社会科学议题]]各自运用着截然不同的学科认知方式。科学教育的目的绝非强推机械的步骤操作，而在于引导学生理解不同知识门类赋予经验以意义的多样化规程，并深刻认同科学认知的核心伦理——以系统化方式构建论据，使知识主张始终面向公共共同体的审查与理性评估开放。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, p. 154)]]
 
 ---
@@ -201,7 +201,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **认知协同建构命题** | 多种认知方式动态互动，构成私人经验通向共享知识的认识论桥梁 | 跨学科探究、知识主张形成机制分析 | [[Argument_Darwish_2009_Queens\|Darwish (2009)]]; [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
-> | **学科异质与公共审查命题** | 认知方式具有鲜明的学科特异性，核心在于使证据面向公共理性审查开放 | K-12 科学教育、跨学科认识论实践、科学方法批判 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] |
+> | **学科异质与公共审查命题** | 认知方式具有鲜明的学科特异性，核心在于使证据面向公共理性审查开放 | K-12 科学教育、跨学科认识论实践、科学方法批判 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] |
 > | **评估异化与构念张力命题** | 认知方式的标准化评分在促进对齐的同时存在术语表演与替代思维的风险 | 课程评估设计、论文量规研制、[[Critical Thinking Assessment\|批判性思维评价]] | [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]]; 同上（Hughes） |
 
 ---
@@ -212,7 +212,7 @@ updated: 2026-10-15
 > - **1990s–2000s — IB [[Theory of Knowledge\|知识论]]课程确立传统四项模型** 知识论大纲将感官知觉、情感、语言与理性确立为核心认知方式，突出认知主体中心与跨学科知识反思。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 16–17)]]
 > - **2007 — 课程术语反思与[[Disciplina and Doctrina\|规训]]批判** 曾普伦（[[Argument_Zemplen_2007_SciEduc\|Zemplén, 2007]]）发表批判性研究，警示认知方式等分类术语在实际教学中可能演化为阻碍实质性反思的评价标签。
 > - **2013 — 分类扩展为八项并强化结构连接** 新版指南扩展引入想象、信仰、直觉与记忆，要求学生系统探索认知方式与[[Areas of Knowledge\|知识领域]]、[[Knowledge Questions\|知识问题]]之间的多维联系。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 36–38)]]
-> - **2018 — [[STEM Education\|跨学科科学教育]]与多元[[Epistemic Practices\|认识论实践]]整合** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] 将认知方式拓展至广阔的科学研究（science studies）视域，揭示不同学科门类情境化的认知方式，破除教条[[Scientific Method\|科学方法]]，强化面向公共理性审查的证据价值。
+> - **2018 — [[STEM Education\|跨学科科学教育]]与多元[[Epistemic Practices\|认识论实践]]整合** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] 将认知方式拓展至广阔的科学研究（science studies）视域，揭示不同学科门类情境化的认知方式，破除教条[[Scientific Method\|科学方法]]，强化面向公共理性审查的证据价值。
 
 ---
 
@@ -242,8 +242,8 @@ updated: 2026-10-15
 > | 领域与情境 | 核心调用的认知方式 | 探究任务或案例 | [[Epistemology\|认识论]]功能与反思点 | 证据来源 |
 > |---|---|---|---|---|
 > | **IB [[Theory of Knowledge\|TOK]] 感知[[Reliability\|可靠性]]探究** | 感官知觉、语言、理性 | 结合[[René Descartes\|笛卡尔]]沉思、[[Plato\|柏拉图]]洞穴喻与阿什从众实验考察观察偏差 | 审视前概念、感觉通道局限与群体规范对客观观察的渗透 | [[Argument_Darwish_2009_Queens\|Darwish (2009, p. 17)]] |
-> | **物理探究教学** | 具身动作、语言、模型推演 | 高中简谐振动实验中结合传感器波形与手势模仿提出猜想 | 调动多通道感知与具身认知建立微观因果假设 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 144–145)]] |
-> | **工程设计教育** | 想象、理性、修辞辩护 | 小学三年级太阳能装置设计与面向小记者的汇报辩护 | 在多重物理与成本约束下寻求最优折中并依据受众调整论据 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 145–146)]] |
+> | **物理探究教学** | 具身动作、语言、模型推演 | 高中简谐振动实验中结合传感器波形与手势模仿提出猜想 | 调动多通道感知与具身认知建立微观因果假设 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, pp. 144–145)]] |
+> | **工程设计教育** | 想象、理性、修辞辩护 | 小学三年级太阳能装置设计与面向小记者的汇报辩护 | 在多重物理与成本约束下寻求最优折中并依据受众调整论据 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, pp. 145–146)]] |
 
 ---
 
@@ -251,6 +251,6 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] — 分析认知方式在 IB [[Theory of Knowledge\|TOK]] 课程大纲、评估目标与论文评分量规中的结构对齐情况，探讨其在[[Epistemology\|认识论]]分析与[[Critical Thinking\|批判性思维]]培养中的功能与界限。
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] — 将认知方式拓展至跨学科科学实践研究，论证探究科学、工程设计与社会议题具有不同的学科认知方式，强调面向公共审查的系统化证据建构价值（pp. 140, 154）。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 将认知方式拓展至跨学科科学实践研究，论证探究科学、工程设计与社会议题具有不同的学科认知方式，强调面向公共审查的系统化证据建构价值（pp. 140, 154）。
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 梳理 TOK 传统四项认知方式（感知、情感、语言、理性）在认知者中心的连续互动机制与课堂探究设计。
 > - [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]] — 从科学教育与修辞学视角批判跨学科课程框架术语的潜在[[Disciplina and Doctrina\|规训]]效应，揭示认知方式分类诱发术语表演的形式主义风险。

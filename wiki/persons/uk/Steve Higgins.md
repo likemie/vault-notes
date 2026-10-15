@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Steve Higgins
@@ -136,7 +136,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 系统阐述[[Meta-analysis\|元分析]]综合的方法论风险与政策转译价值，奠定工具包的学理基础。
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 详细记录 Higgins 等人对 17 项早期试验的二次复算如何揭示模型依赖性并催生《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详细记录 Higgins 等人对 17 项早期试验的二次复算如何揭示模型依赖性并催生《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）。
 > - [[Argument_Simpson_2017_JEP\|Simpson (2017)]] — 杜伦大学同僚 Simpson 对 Higgins 领衔的工具包提出尖锐批判，指责[[Effect Size\|效应量]]排序混淆了试验敏感度操纵与教学有效性。
 
 ---

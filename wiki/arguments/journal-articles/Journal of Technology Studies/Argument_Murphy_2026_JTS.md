@@ -118,7 +118,7 @@ issuing_organization: ""
 > | **单机构案例研究设计**<br>Single Case Study Design | 采用深入探究复杂教育干预与真实情境互动的单机构[[Case Study\|案例研究]]设计（Yin, 2018），以美国西南部一所年科研收入超 10 亿美元、拥有显著半导体学科实力的公立[[Research Universities\|研究型大学]]为[[Unit of Analysis\|分析单元]]。（pp.3–4） |
 > | **基于设计的研究**<br>[[Design-Based Research]] | 采用三阶段迭代干预框架（Donaldson et al., 2021; Barab & Squire, 2004），各阶段之间依据收集的参与者反馈、组织制品与实务经验持续调整干预方案与技术议题。（pp.3–4, 6） |
 > | **多源质性资料采集**<br>Data Collection Procedures | 涵盖工作坊后由四道开放式问题构成的匿名在线自陈[[Questionnaire\|问卷]]（询问总体体验、小组研讨体验、遭遇困难、最有效环节）、三期活动日程安排、讲义与指南材料以及现场协作成果记录。（p.4） |
-> | **独立质性主题编码**<br>Qualitative Coding Approach | 三位研究者依据 Creswell & Poth (2018) 的质性探究规范，对问卷文本独立进行主题识别与模式编码，出现分歧时通过研讨协商达成一致，并结合描述性参会统计予以[[Triangulation\|三角互证]]。 |
+> | **独立质性主题编码**<br>Qualitative Coding Approach | 三位研究者依据 Creswell and Poth (2018) 的质性探究规范，对问卷文本独立进行主题识别与模式编码，出现分歧时通过研讨协商达成一致，并结合描述性参会统计予以[[Triangulation\|三角互证]]。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |

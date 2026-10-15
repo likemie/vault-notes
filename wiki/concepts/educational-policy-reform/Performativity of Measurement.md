@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-11
+updated: 2026-10-16
 ---
 
 ## 定义
@@ -164,7 +164,7 @@ updated: 2026-10-11
 >
 > - 教师被保持在"[[Ontology\|本体论]]上不安全"的状态（Ball, 2003, p.220，引自），从而被去政治化
 > - 在这种情况下，"专业主义变成了服从的表演"（McKnight, 2016，引自），而非基于专业知识、自主和利他的经典民主专业主义（Sachs, 2003; Locke, 2015）
-> - [[Argument_McKnight_2020_Discourse\|McKnight & Whitburn (2020, p.39)]]进一步论证 VL"殖民教师的表演性教学想象"（colonises the performative pedagogical imagination），使教师"看见"自己以特定方式教学——这是测量施行性的一个微观案例：测量框架（[[Effect Size\|效应量]]排名、"什么有效"清单）不仅描述教学，更是重塑教师如何想象自己的教学实践
+> - [[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020, p.39)]]进一步论证 VL"殖民教师的表演性教学想象"（colonises the performative pedagogical imagination），使教师"看见"自己以特定方式教学——这是测量施行性的一个微观案例：测量框架（[[Effect Size\|效应量]]排名、"什么有效"清单）不仅描述教学，更是重塑教师如何想象自己的教学实践
 >
 > **对批判实践的意义**
 >
@@ -205,9 +205,9 @@ updated: 2026-10-11
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[Visible Learning]] — [[Argument_McKnight_2020_Discourse\|McKnight & Whitburn (2020)]] 论证 VL 是"新管理全景监狱主义"的完美工具，其隐喻本身就是施行性装置
+> - [[Visible Learning]] — [[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]] 论证 VL 是"新管理全景监狱主义"的完美工具，其隐喻本身就是施行性装置
 > - [[Visible Learning Branding and Global Influences]] — VL 商业产品（workshops、认证、Visible Classroom App）是 [[Performativity]] 在商业层面的制度化体现
-> - [[Victorian HITS and Literacy Toolkit]] — [[Argument_Johnson_2023_CE\|Johnson & Janzen (2023)]] 记录的澳大利亚 HITS 实施中教师被迫执行"simplistic performative technical actions"
+> - [[Victorian HITS and Literacy Toolkit]] — [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] 记录的澳大利亚 HITS 实施中教师被迫执行"simplistic performative technical actions"
 > - [[Education at a Glance]] — [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] 的核心案例，[[OECD]] 指标的 performativity 如何在政策层面制造世界
 > - [[Neo-Taylorism]] — 测量施行性与新泰勒主义共享全景监狱逻辑
 > - [[New Public Management]] — NPM 的绩效问责制是 performativity 在公共部门扩散的制度载体

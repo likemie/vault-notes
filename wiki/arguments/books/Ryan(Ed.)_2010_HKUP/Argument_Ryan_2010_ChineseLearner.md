@@ -62,7 +62,7 @@ sources:
 part_of: '[[Argument_Ryan_2010_HKUP]]'
 status: draft
 created: '2026-05-17'
-updated: 2026-10-10
+updated: 2026-10-16
 year: 2010
 doi: ""
 citation_aliases:
@@ -175,7 +175,7 @@ Ryan (p.41)指出，此后的许多学者和教育开发者（educational develo
 
 **两者共享一个问题：** 都假设"中国学习者"是一个同质的、可定义的整体。把"被动、缺乏批判思维"换成"勤奋、合作性强"，只是换了一个更友善的标签，本质化（essentializing）的操作没有变——仍然是从文化标签推导个体特征，仍然忽略了阶层、性别、地区、个体差异。
 
-> **这一步的逻辑结论：** 缺陷型和优势型刻板印象是同一枚硬币的两面。正如 Ryan & Louie（2005, p.5）所警告的：我们需要的是**打破**"中国学习者"这个单一范畴，而不是用一套新神话替换旧神话。
+> **这一步的逻辑结论：** 缺陷型和优势型刻板印象是同一枚硬币的两面。正如 Ryan and Louie（2005, p.5）所警告的：我们需要的是**打破**"中国学习者"这个单一范畴，而不是用一套新神话替换旧神话。
 
 ### 第 3 步：诊断刻板印象的学术生产机制——"大文化解释"为何有诱惑力
 
@@ -205,7 +205,7 @@ Ryan 指出，这份征稿通知虽然是"故意"用二元逻辑来激发讨论�
 #### 3b. 用"儒家传统"当万能解释——听起来有道理，但没有证据
 
 > [!warning]
-> Clark & Gieve（2006, pp.60–63）的诊断是最精准的：**"应用语言学文献中存在一个明显的倾向——报告西方教师的感知和反应，而这些感知和反应不是被审视其民族中心主义偏见和刻板化倾向，而是通过诉诸一种'儒家传统'解释来获得验证——这种解释听起来有道理（plausible），却未经实证确立。"（转, p.40）**
+> Clark and Gieve（2006, pp.60–63）的诊断是最精准的：**"应用语言学文献中存在一个明显的倾向——报告西方教师的感知和反应，而这些感知和反应不是被审视其民族中心主义偏见和刻板化倾向，而是通过诉诸一种'儒家传统'解释来获得验证——这种解释听起来有道理（plausible），却未经实证确立。"（转, p.40）**
 
 **翻译成大白话：** 一个澳大利亚老师觉得中国学生上课不爱发言 → 他说"这是因为儒家文化强调尊重权威" → 其他老师觉得"哦有道理" → 这个解释就被当作事实接受了，尽管没有任何证据表明那个学生的沉默真的是因为"儒家文化"（也可能是因为英语不够好、对话题不熟悉、或者只是性格内向）。
 
@@ -231,7 +231,7 @@ Kumaravadivelu（2003, p.716）从教师心理学角度提出了一个诚实的�
 
 #### 4b. "儒家价值"只是保守思想的拼贴
 
-> Ryan & Louie（2005, p.5）直言：**"这些价值不只是亚洲的——它们在其他社会中也存在。所谓的'亚洲价值'或'儒家传统'，可以通过将保守的观念拼凑在一起、然后称之为亚洲的和儒家的来制造出来。"（转, p.46）**
+> Ryan and Louie（2005, p.5）直言：**"这些价值不只是亚洲的——它们在其他社会中也存在。所谓的'亚洲价值'或'儒家传统'，可以通过将保守的观念拼凑在一起、然后称之为亚洲的和儒家的来制造出来。"（转, p.46）**
 
 **换句话说：** "尊重权威"、"勤奋"、"重视教育"、"集体主义"——这些是不是儒家的？也是。但它们是"唯独"儒家的吗？不是。把这些特征贴上"儒家"标签，然后说"因为你是中国人（儒家文化圈的），所以你有这些特征"——这是循环论证。先把一套全球各地都能找到的保守价值观命名为"儒家价值"，再用"儒家价值"来解释中国人的行为。
 
@@ -258,7 +258,7 @@ Kumaravadivelu（2003, p.716）从教师心理学角度提出了一个诚实的�
 
 **身份丧失与自我异化：** Ryan (pp.49–50)基于十年间对国际学生的访谈，记录了许多学生在海外学习中经历的"身份丧失和自尊降低"。这不只是"感觉不好"——当一个人被持续告知（或隐性暗示）"你的学习方式是有缺陷的"，他们不仅会怀疑自己的能力，还会怀疑自己的文[[Avatar|化身]]份。
 
-**例（中国学生为自己"被动"道歉）：** Ryan & Louie(2007)发现，中国学习者经常**内化**了这些刻板描述——即使在课堂上并没有什么问题，他们也会主动道歉说自己"太被动"了。这不是他们真的"被动"，而是他们已经被教会了用西方的标准来审判自己。
+**例（中国学生为自己"被动"道歉）：** Ryan and Louie(2007)发现，中国学习者经常**内化**了这些刻板描述——即使在课堂上并没有什么问题，他们也会主动道歉说自己"太被动"了。这不是他们真的"被动"，而是他们已经被教会了用西方的标准来审判自己。
 
 **[[Stereotype Threat|刻板印象威胁]]的自我实现：** [[Stereotype Threat]](Aronson, 2002)的机制在这里精确运作(p.44)：
 1. 老师预期中国学生"不爱发言"
@@ -279,7 +279,7 @@ Kumaravadivelu（2003, p.716）从教师心理学角度提出了一个诚实的�
 > [!warning]
 > **不是只有学生在受苦。** 教师同样被刻板印象所困。
 
-**"解释掉"困难的诱惑：** Clark & Gieve(2003)指出，当跨文化教学遇到困难时，将责任归咎于学生的"文化特征"是一个极具诱惑力的策略——"他们就是这样的"比"我需要调整我的教学方法"要容易接受得多。这不是在指责教师懒惰，而是在指出一种结构性认知偏差：**归咎于不可控的外部因素（学生的文化）比审视可控的内部因素（自己的教学）心理成本更低。**
+**"解释掉"困难的诱惑：** Clark and Gieve(2003)指出，当跨文化教学遇到困难时，将责任归咎于学生的"文化特征"是一个极具诱惑力的策略——"他们就是这样的"比"我需要调整我的教学方法"要容易接受得多。这不是在指责教师懒惰，而是在指出一种结构性认知偏差：**归咎于不可控的外部因素（学生的文化）比审视可控的内部因素（自己的教学）心理成本更低。**
 
 **中国教师的愤怒：** Ryan 在中—加—澳课程改革合作项目中亲历(Mitchell, Ryan, Kang, & Erikson, 2007, 转, pp.53–54)：中国学者和教师对西方将他们刻画为"教师主导、教科书支配、缺乏创新"表示**失望和沮丧**。他们实际的教学实践恰恰高度关注实验性师生互动和创新——"他们持续进行研究、发表、传播、反思和寻求对其教学信念与实践的反馈"(p.54)。
 
@@ -322,7 +322,7 @@ Ryan (pp.52–53)以自身经历为证：她自己是在中国做了两年国际
 
 #### 7c. 从文明冲突到文明对话
 
-Ryan (p.57)以 Hayhoe & Pan（2001, p.21）的"真正的对话——在愿意倾听者之间"（true dialogue among ready listeners）来对抗"文明冲突"（[[Clash of Civilizations]]）话语。论文最后一句引用了北京师范大学 Kang Changyun 教授的话：
+Ryan (p.57)以 Hayhoe and Pan（2001, p.21）的"真正的对话——在愿意倾听者之间"（true dialogue among ready listeners）来对抗"文明冲突"（[[Clash of Civilizations]]）话语。论文最后一句引用了北京师范大学 Kang Changyun 教授的话：
 
 > **"良好的教学与学习，是人类的共同财富。"（转, p.57）**
 
@@ -350,7 +350,7 @@ Ryan (p.57)以 Hayhoe & Pan（2001, p.21）的"真正的对话——在愿意倾
 
 > [!quote]
 > “实际上，‘中国性（Chineseness）’是根据其偏离西方规范的程度来定义的，并且在主流（即西方）心理学中通常被认为是一种有趣的不同。”
-> ("Chineseness is in effect defined in terms of deviance from Western norms, and generally as being interestingly different within mainstream, that is Western, psychology.") — Watkins & Biggs (2001, p.4)，转引自 Ryan (p.40)
+> ("Chineseness is in effect defined in terms of deviance from Western norms, and generally as being interestingly different within mainstream, that is Western, psychology.") — Watkins and Biggs (2001, p.4)，转引自 Ryan (p.40)
 
 > [!quote]
 > “听到将这种修辞风格的问题归咎于学生在母国接受的教育存在假想的缺陷，尤其令人愤怒。……这种分析具有误导性，因为它将表达风格的差异与缺乏学术严谨性混为一谈。”
@@ -359,7 +359,7 @@ Ryan (p.57)以 Hayhoe & Pan（2001, p.21）的"真正的对话——在愿意倾
 > [!quote]
 > “在应用语言学文献中存在一种显著的倾向：报告西方教师的看法和反应，而没有质疑其民族中心主义偏见和刻板印象，反而是通过诉诸一种看似合理而非基于实证确立的儒家传统解释来证实它们。”
 > (“在应用语言学文献中存在一种显著的倾向：报告西方教师的看法和反应，而没有质疑其民族中心主义偏见和刻板印象，反而是通过诉诸一种看似合理而非基于实证确立的儒家传统解释来证实它们。”
-> ("There is a notable tendency in the applied linguistics literature to report the perceptions and reactions of Western instructors which, rather than being interrogated for ethnocentric bias and stereotyping, are validated by recourse to a Confucian heritage explanation which appears plausible rather than being empirically established.")) — Clark & Gieve (2006, pp.60–63)，转引自 Ryan (p.40)
+> ("There is a notable tendency in the applied linguistics literature to report the perceptions and reactions of Western instructors which, rather than being interrogated for ethnocentric bias and stereotyping, are validated by recourse to a Confucian heritage explanation which appears plausible rather than being empirically established.")) — Clark and Gieve (2006, pp.60–63)，转引自 Ryan (p.40)
 
 > [!quote]
 > “良好的教与学是‘人类共同的财富’。”

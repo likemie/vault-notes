@@ -54,7 +54,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-12
-updated: 2026-09-16
+updated: 2026-10-16
 ---
 # Argument_Fan_Song_Zhai_2024_RSEE
 
@@ -62,7 +62,7 @@ updated: 2026-09-16
 ## 研究问题
 
 > [!question]
-> 教育、科技和人才是经济增长的核心驱动力，但三者之间的耦合协调关系如何？协同发展程度是否存在显著的空间差异？这种空间格局在时间维度上是趋于收敛还是锁定？Fan、Song & Zhai（2024）基于中国30个省份2001-2022年的面板数据，构建[[EST Integrated Development\|EST一体化]]发展评价指标体系，运用[[Coupling Coordination Model\|耦合协调模型]]和时空分析方法，系统回答上述问题。
+> 教育、科技和人才是经济增长的核心驱动力，但三者之间的耦合协调关系如何？协同发展程度是否存在显著的空间差异？这种空间格局在时间维度上是趋于收敛还是锁定？Fan、Song and Zhai（2024）基于中国30个省份2001-2022年的面板数据，构建[[EST Integrated Development\|EST一体化]]发展评价指标体系，运用[[Coupling Coordination Model\|耦合协调模型]]和时空分析方法，系统回答上述问题。
 
 > [!feature]+ 一页读懂
 > - **对象** 中国30个省份（22省+4直辖市+4自治区），2001-2022年

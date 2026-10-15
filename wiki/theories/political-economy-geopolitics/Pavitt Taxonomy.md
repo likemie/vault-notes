@@ -47,7 +47,7 @@ updated: 2026-10-16
 ## 核心主张
 
 > [!abstract]
-> Pavitt 分类法（Pavitt Taxonomy）的核心命题是：不同产业在创新来源、创新方式和创新与绩效关系上存在系统性的、持久的结构性差异。这些差异不能通过代表性企业的假设来抹平，而需要通过分类框架来揭示和总结。[[Argument_Pavitt_1984_RP\|Pavitt (1984)]]基于对英国制造业企业的实证研究，根据创新的**来源（内部研发 vs 外部供应商）**、**性质（产品创新 vs 流程创新）**和**企业规模与市场结构**，将制造业分为四个类别。[[Argument_Bogliacino_Pianta_2016_EP\|Bogliacino & Pianta (2016)]]利用欧洲多国创新调查数据对这一分类法进行了系统的实证检验和修订，并将其扩展至服务业和信息通信技术（ICT）行业。
+> Pavitt 分类法（Pavitt Taxonomy）的核心命题是：不同产业在创新来源、创新方式和创新与绩效关系上存在系统性的、持久的结构性差异。这些差异不能通过代表性企业的假设来抹平，而需要通过分类框架来揭示和总结。[[Argument_Pavitt_1984_RP\|Pavitt (1984)]]基于对英国制造业企业的实证研究，根据创新的**来源（内部研发 vs 外部供应商）**、**性质（产品创新 vs 流程创新）** 和**企业规模与市场结构**，将制造业分为四个类别。[[Argument_Bogliacino_Pianta_2016_EP\|Bogliacino and Pianta (2016)]]利用欧洲多国创新调查数据对这一分类法进行了系统的实证检验和修订，并将其扩展至服务业和信息通信技术（ICT）行业。
 
 ---
 ## 理论框架
@@ -72,7 +72,7 @@ updated: 2026-10-16
 ### 修订版 Pavitt 分类法（2016）
 
 > [!abstract]
-> [[Argument_Bogliacino_Pianta_2016_EP\|Bogliacino & Pianta (2016)]]基于对欧洲七个国家（德国、法国、意大利、荷兰、葡萄牙、西班牙、英国）和挪威的三轮社区创新调查（社区创新调查（[[Community Innovation Survey]]，CIS） 2、3、4）数据——整合为 Urbino 大学的[[Sectoral Innovation Database\|部门创新数据库]]（Sectoral Innovation Database, SID）——对 Pavitt 分类法进行了系统的实证检验和扩展。[[Research Utilization\|研究使用]]主成分分析和回归分析检验了替代性行业分组在创新来源、目标、投入和产出维度上的稳定性（pp.160-165）。
+> [[Argument_Bogliacino_Pianta_2016_EP\|Bogliacino and Pianta (2016)]]基于对欧洲七个国家（德国、法国、意大利、荷兰、葡萄牙、西班牙、英国）和挪威的三轮社区创新调查（社区创新调查（[[Community Innovation Survey]]，CIS） 2、3、4）数据——整合为 Urbino 大学的[[Sectoral Innovation Database\|部门创新数据库]]（Sectoral Innovation Database, SID）——对 Pavitt 分类法进行了系统的实证检验和扩展。[[Research Utilization\|研究使用]]主成分分析和回归分析检验了替代性行业分组在创新来源、目标、投入和产出维度上的稳定性（pp.160-165）。
 
 > [!success] 修订版的主要贡献
 > - **保留原始四类的核心结构** 实证检验确认 Pavitt 的四个类别在不同国家和时间段仍然稳健，能够解释产业间创新模式的主要差异
@@ -94,7 +94,7 @@ updated: 2026-10-16
 ## 理论基础
 
 > [!tip]-
-> - **[[Evolutionary Economics\|演化经济学]]（Evolutionary Economics）**— Pavitt 分类法的理论基础来自 Nelson & Winter（1982）的演化理论，强调经济活动的多样性和[[Heterogeneity\|异质性]]以及[[Technological Trajectories\|技术轨迹]]（technological trajectories）在塑造产业差异中的作用（p.155）
+> - **[[Evolutionary Economics\|演化经济学]]（Evolutionary Economics）**— Pavitt 分类法的理论基础来自 Nelson and Winter（1982）的演化理论，强调经济活动的多样性和[[Heterogeneity\|异质性]]以及[[Technological Trajectories\|技术轨迹]]（technological trajectories）在塑造产业差异中的作用（p.155）
 > - **[[Systems of Innovation\|创新系统理论]]** — Pavitt 分类法通过揭示不同产业在创新来源和知识流动上的系统性差异，为创新系统分析提供了微观基础
 > - **技术[[Paradigm\|范式]]与技术轨迹（Dosi, 1982, 1988）**— 不同 Pavitt 类别对应不同的技术范式：科学基础型对应科学驱动范式，供应商主导型对应技术采用范式
 
@@ -102,7 +102,7 @@ updated: 2026-10-16
 ## 实证验证
 
 > [!success]
-> [[Argument_Bogliacino_Pianta_2016_EP\|Bogliacino & Pianta (2016)]]使用 [[Sectoral Innovation Database\|SID]] 数据库对修订版分类法进行了多维度实证检验（pp.165-175）：
+> [[Argument_Bogliacino_Pianta_2016_EP\|Bogliacino and Pianta (2016)]]使用 [[Sectoral Innovation Database\|SID]] 数据库对修订版分类法进行了多维度实证检验（pp.165-175）：
 > - **创新来源维度** 不同 Pavitt 类别在内部研发支出、外部知识获取和设备采购等创新投入上呈现显著差异
 > - **创新目标维度** 科学基础型以产品创新为主，规模与信息密集型以流程创新为主，专业供应商型在两者之间平衡
 > - **创新产出维度** 科学基础型在专利和新产品占比上显著高于其他类别
@@ -116,7 +116,7 @@ updated: 2026-10-16
 
 > [!note]-
 > Pavitt 分类法已被广泛应用于创新经济学和产业政策研究：
-> - **创新与就业**Bogliacino & Pianta（2010）使用修订版分类法研究不同创新模式对就业的影响差异
+> - **创新与就业**Bogliacino and Pianta（2010）使用修订版分类法研究不同创新模式对就业的影响差异
 > - **创新与生产率** 不同 Pavitt 类别在创新投入向生产率转化效率上存在显著差异（Bogliacino & Pianta, 2011）
 > - **区域创新研究** Pavitt 类别已被用于分析意大利区域创新和专利活动的空间分布
 > - **合作创新研究**Freel（2003）使用 Pavitt 分组研究合作对不同类型企业创新性的影响

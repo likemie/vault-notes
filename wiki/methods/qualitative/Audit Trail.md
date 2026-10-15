@@ -63,7 +63,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: stable
 created: 2026-06-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Audit Trail
@@ -83,7 +83,7 @@ updated: 2026-10-15
 > [!citation-card] 质性探究的审计轨迹与可信度基石
 > 严谨性可通过周密的证据审计追踪、编码或范畴化结果的[[Member Checking\|成员核查]]/受访者确认、同伴汇报、[[Negative Case Analysis\|负面案例分析]]、结构性佐证（[[Triangulation\|三角验证]]）以及参考材料充分性来达成。数据的可信度则在可信性、适配性、可审计性与可确认性中得到解决。审计追踪使研究能够在过程与结果两个层面切实回应可确认性议题。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, pp. 162–163, 206)]]
 >
-> *Lincoln & Guba (1985) argue that rigour can be achieved by careful audit trails of evidence, member checking/respondent validation when coding or categorizing results, [[Peer Debriefing]], negative case analysis, structural corroboration and referential material adequacy. [[Trustworthiness]] can be addressed in the credibility, fittingness, auditability and confirmability of the data. Audit trails enable the research to address the issue of confirmability of results, in terms of process and product.*
+> *Lincoln and Guba (1985) argue that rigour can be achieved by careful audit trails of evidence, member checking/respondent validation when coding or categorizing results, [[Peer Debriefing]], negative case analysis, structural corroboration and referential material adequacy. [[Trustworthiness]] can be addressed in the credibility, fittingness, auditability and confirmability of the data. Audit trails enable the research to address the issue of confirmability of results, in terms of process and product.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Member Checking\|成员核查]] — 成员核查聚焦于参与者对其生活世界描述与诠释意图的确认；审计追踪则面向外部专业同行与审计者，展示分析推论步骤的内在严密性与逻辑自洽性。
@@ -146,8 +146,8 @@ updated: 2026-10-15
 > [!concept-lens] [[Interpretive Paradigm\|自然主义探究]]的程序正义与双重确认机制
 > 围绕[[Qualitative Research\|质性研究]]如何替代传统定量[[Reliability\|信度]]与客观性展开，主张探究的严谨性并非来自机械测量，而是源自对研究全过程的系统留痕与双重外部审查。
 
-> [!claim] Lincoln & Guba (1985)
-> **双重审计机制** 自然主义探究中，审计追踪同时承担**可依赖性（Dependability）**与**可确认性（Confirmability）**的双重审视。可依赖性关乎探究过程是否严谨、合理且符合专业规程，审计者借此评判研究者是否遵循了前后一致的探究路线；可确认性则要求考查探究产物是否直接源自原始数据而非研究者的主观虚构，审计者通过从最终结论逆向追溯至原始文本，确保推论具有不可动摇的经验基石。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, pp. 162–163, 206)]]
+> [!claim] Lincoln and Guba (1985)
+> **双重审计机制** 自然主义探究中，审计追踪同时承担**可依赖性（Dependability）** 与**可确认性（Confirmability）** 的双重审视。可依赖性关乎探究过程是否严谨、合理且符合专业规程，审计者借此评判研究者是否遵循了前后一致的探究路线；可确认性则要求考查探究产物是否直接源自原始数据而非研究者的主观虚构，审计者通过从最终结论逆向追溯至原始文本，确保推论具有不可动摇的经验基石。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, pp. 162–163, 206)]]
 
 > [!claim] Golafshani (2003)
 > **过程与产物的双维度检验** 审计追踪在质性研究中使研究能够同时在“过程（Process）”和“产物（Product）”两个层面解决结果的可确证性。仅仅报告最终主题并不能构成科学严密性，唯有当研究者公开从原始文本单位化到范畴矩阵缩减的全部操作轨迹，质性结论才能获得跨主体的解释学说服力。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, p. 206)]]
@@ -172,7 +172,7 @@ updated: 2026-10-15
 > [!concept-lens] 数字化记录与[[Man-Computer Symbiosis|人机协同]]中的证据可追溯性
 > 探讨现代分析工具（[[Qualitative Computer Software\|CAQDAS]] 与生成式 AI）如何改变审计追踪的实现形态，并在自动化提效的同时重构研究者的解释学主体责任。
 
-> [!claim] Gibbs (2007) & Lewins & Silver (2007)
+> [!claim] Gibbs (2007) & Lewins and Silver (2007)
 > **CAQDAS 自动化日志与多维超链接锚定** 计算机辅助质性数据分析软件（[[Qualitative Computer Software]]）通过将逐字稿文本与编码节点建立不可分割的动态超链接，使研究者能够实时进行双向文本检索（KWIC）与编码修订回溯。软件自动生成的编码历史记录、交叉表矩阵与备忘录关联网络，彻底改变了传统纸质卡片时代繁琐昂贵的操作瓶颈，将审计追踪内生化为质性软件的标准分析基础设施。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, pp. 559–563)]]
 
 > [!claim] Flick (2009) & 现代人机协同规程 (2026)
@@ -185,17 +185,17 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **程序正义与双重确认** | 审计追踪通过留存完整决策轨迹，在过程（可依赖性）与产物（可确认性）两个维度确立研究可信度 | 质性论文评审、学位论文外审、跨学科定性评价 | Lincoln & Guba (1985); Golafshani (2003) |
+> | **程序正义与双重确认** | 审计追踪通过留存完整决策轨迹，在过程（可依赖性）与产物（可确认性）两个维度确立研究可信度 | 质性论文评审、学位论文外审、跨学科定性评价 | Lincoln and Guba (1985); Golafshani (2003) |
 > | **偏误防范与偏好抑制** | 防御“只选最响亮爆炸声”的偏见，通过全样本数据记录与反常案例呈现抑制主观臆断 | 争议性教育政策评价、敏感[[Fieldwork\|田野研究]]、深度[[Qualitative Interview\|质性访谈]] | Brock-Utne (1996); Anfara et al. (2002) |
-> | **数字赋能与[[AI Agent in Education\|智能体]]责任** | CAQDAS 将审计追踪软件化；AI 时代需构建人在回路提示词与模型决策审计链 | 质性计算机辅助分析、人机协同混合研究、大规模文本[[Content Analysis\|内容分析]] | Gibbs (2007); Lewins & Silver (2007); Flick (2009) |
+> | **数字赋能与[[AI Agent in Education\|智能体]]责任** | CAQDAS 将审计追踪软件化；AI 时代需构建人在回路提示词与模型决策审计链 | 质性计算机辅助分析、人机协同混合研究、大规模文本[[Content Analysis\|内容分析]] | Gibbs (2007); Lewins and Silver (2007); Flick (2009) |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1980s — 会计审计借用与[[Interpretive Paradigm\|自然主义探究]]奠基** Lincoln & Guba（1985）针对[[Positivism\|实证主义]]对[[Qualitative Research\|质性研究]]“缺乏客观性与可重复性”的责难，创新性地将金融财务领域的独立审计（financial audit）制度引入质性方法论，确立了以审计追踪为支柱的[[Reliability\|可依赖性]]与可确认性替代标准。
-> - **2000s — 六维档案体系确立与质性报告透明化浪潮** Onwuegbuzie & Leech（2006）系统提炼审计追踪的五大核心记录内容，Anfara et al.（2002）呼吁公开质性分析黑箱，审计追踪从哲学维度的抽象倡议转变为包含原始数据、分析备忘录与工具演变的结构化操作体系。
+> - **1980s — 会计审计借用与[[Interpretive Paradigm\|自然主义探究]]奠基** Lincoln and Guba（1985）针对[[Positivism\|实证主义]]对[[Qualitative Research\|质性研究]]“缺乏客观性与可重复性”的责难，创新性地将金融财务领域的独立审计（financial audit）制度引入质性方法论，确立了以审计追踪为支柱的[[Reliability\|可依赖性]]与可确认性替代标准。
+> - **2000s — 六维档案体系确立与质性报告透明化浪潮** Onwuegbuzie and Leech（2006）系统提炼审计追踪的五大核心记录内容，Anfara et al.（2002）呼吁公开质性分析黑箱，审计追踪从哲学维度的抽象倡议转变为包含原始数据、分析备忘录与工具演变的结构化操作体系。
 > - **2010s — [[Qualitative Computer Software\|CAQDAS]] 数字化转型与超链接动态追踪** NVivo、ATLAS.ti 和 MAXQDA 等质性软件走向普及，软件将编码树快照、语境检索与反思备忘录直接集成于数据库底层，实现了审计追踪的无缝自动化记录。
 > - **2020s 至今 — 生成式 AI 渗透与[[Meaningful Human Control|人在回路]]提示词审计** 随着大模型在[[Open Coding\|开放编码]]与文本缩减中的广泛应用，传统审计追踪拓展为兼顾提示词工程演变、参数配置、文本块引用行号回溯及人工复核裁决的“人在回路智能审计追踪（HITL Audit Trail）”。
 

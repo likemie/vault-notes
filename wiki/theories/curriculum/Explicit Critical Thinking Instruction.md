@@ -65,7 +65,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Explicit Critical Thinking Instruction
@@ -78,7 +78,7 @@ updated: 2026-10-15
 > - **解释对象** 如何最有效地在各级教育中发展和培养学生的[[Critical Thinking\|批判性思维]]技能与倾向。
 > - **理论问题** 批判性思维应当作为独立课程显性教授，还是作为各学科内容的副产品隐性培养？这一争论涉及课程设计、教师培训和学生学习迁移等核心教育问题。
 > - **理论类型** 中层[[Didaktik\|教学理论]]（mid-level pedagogical theory），在认知心理学和教育实证研究的基础上，对教学路径的有效性做出可检验的预测。
-> - **知识位置** 教育心理学与课程研究的[[Comparative Education as a Cross-Sectional Area|交叉领域]]。关键文本包括 [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 的[[Meta-analysis\|元分析]]、Marin & Halpern（2011）的[[Experimental Research\|实验研究]]，以及 Facione（1990）的 Delphi 报告。
+> - **知识位置** 教育心理学与课程研究的[[Comparative Education as a Cross-Sectional Area|交叉领域]]。关键文本包括 [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 的[[Meta-analysis\|元分析]]、Marin and Halpern（2011）的[[Experimental Research\|实验研究]]，以及 Facione（1990）的 Delphi 报告。
 
 > [!claim] 核心主张
 > 批判性思维技能通过显性的、有目的的独立课程教授，比通过在各学科内部隐性融入的方式更能有效提升学生的批判性思维能力和倾向；这一效果在教师接受专门培训且教学受到评估时最为显著。
@@ -106,7 +106,7 @@ updated: 2026-10-15
 > - **前提二** 大规模[[Meta-analysis\|元分析]]汇总 341 项标准化实验与准实验[[Effect Size\|效应量]]证实：显性教学与学科结合的混合模式（Mixed approach）干预效果最高（$g+ = 0.38$），而将批判性思维仅作为学科学习副产品（隐性沉浸）的条件效果最弱（$g+ = 0.23$）（[[Argument_Abrami_2015_RER\|Abrami et al., 2015]]）。
 >   > [!evidence-grid]- 证据
 >   > - **[[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 元分析** 341 项标准化实验与准实验[[Effect Size\|效应量]]。Ennis 课程模式检验显示，结合显性独立教学与学科融入的混合模式（Mixed approach）获得最高增益（$g+ = 0.38$）；同时，将[[Authentic Instruction\|真实性教学]]、对话与[[Mentorship\|导师制]]结合的三维复合干预产生最强效应（$g+ = 0.57$）。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 293–295)]]
->   > - **Marin & Halpern (2011)** 两项[[Experimental Research\|实验研究]]：在低表现学校的课后班和课内教学中，显性教学组的高中生在批判性思维技能上均显著优于隐性教学组。
+>   > - **Marin and Halpern (2011)** 两项[[Experimental Research\|实验研究]]：在低表现学校的课后班和课内教学中，显性教学组的高中生在批判性思维技能上均显著优于隐性教学组。
 > - **推导** 如果批判性思维是一组可独立于学科内容教学的通用认知技能（前提一），且跨大量研究的元分析一致显示显性教学的效果优于隐性教学（前提二），那么可以合理推断显性独立教学路径是更有效的教学策略。这一推导不否认领域知识的重要性，但指出领域知识并不能自动产生批判性思维——需要显性的指导和练习。
 
 > [!proposition-chain] 核心命题二｜教师培训是调节显性教学效果的关键[[Variable\|变量]]
@@ -114,7 +114,7 @@ updated: 2026-10-15
 > - **前提二** 大规模调查显示，尽管 $90\%$–$97\%$ 的教师声称重视批判性思维教学，但只有 $19\%$ 能清晰解释批判性思维的定义，仅 $9\%$ 在实际课堂中教授批判性思维（Paul et al., 1997, p. 18）。
 >   > [!evidence-grid]- 证据
 >   > - **Paul et al. (1997)** 加州教师准备研究：发现教师的批判性思维教学知识和技能严重不足。
->   > - **Aliakbari & Sadeghdaghighi (2013)** 确认教师对批判性思维障碍的感知影响了课堂实施。
+>   > - **Aliakbari and Sadeghdaghighi (2013)** 确认教师对批判性思维障碍的感知影响了课堂实施。
 > - **推导** 教师批判性思维教学法的知识和技能不足（前提二），而培训能显著提升教学效果（前提一），因此显性教学路径能否成功在很大程度上取决于教师培训的质量。缺乏培训支持的显性课程很可能名存实亡，沦为另一种形式的"隐性教学"。
 
 > [!proposition-chain] 核心命题三｜隐性融入路径在实践中有被边缘化的风险

@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Efficacy Trial
@@ -77,7 +77,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> **效力试验（Efficacy Trial，或功效检验）**是[[Randomised Controlled Trials\|随机对照试验]]（RCT）阶梯式评估管线中的初阶因果验证设计。其核心目标在于检验：某项教育干预或教学法方案在**高度理想化、严格受控、且由方案研发者提供高频密集督导与资源支持**的特权条件下，“能否在统计学上产生预期的因果效应”（即回答“Can it work under ideal conditions?”）。
+> **效力试验（Efficacy Trial，或功效检验）** 是[[Randomised Controlled Trials\|随机对照试验]]（RCT）阶梯式评估管线中的初阶因果验证设计。其核心目标在于检验：某项教育干预或教学法方案在**高度理想化、严格受控、且由方案研发者提供高频密集督导与资源支持**的特权条件下，“能否在统计学上产生预期的因果效应”（即回答“Can it work under ideal conditions?”）。
 >
 > 效力试验以追求最大化[[Internal Validity\|内部效度]]（Internal Validity）为第一准则，旨在排除现场各类组织干扰与执行变形，确立方案从理论设计（[[Theory of Change\|变革理论]]）到学业产出之间的纯粹因果逻辑链条，并测定方案在充分落实状态下的理论最大效能（Theoretical Upper-bound [[Effect Size]]）（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 57–58]]）。
 
@@ -201,4 +201,4 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 详述英国 [[Education Endowment Foundation\|EEF]] 三级资助体系中效力试验向[[Effectiveness Trial\|实效试验]]演进的制度逻辑，反思大样本统计功效与[[Implementation Fidelity\|实施保真度]]的内在张力。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详述英国 [[Education Endowment Foundation\|EEF]] 三级资助体系中效力试验向[[Effectiveness Trial\|实效试验]]演进的制度逻辑，反思大样本统计功效与[[Implementation Fidelity\|实施保真度]]的内在张力。

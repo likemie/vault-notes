@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Conceptual, Instrumental, and Symbolic Use of Research
@@ -172,7 +172,7 @@ updated: 2026-10-15
 > [!concept-lens] 从使用到成果
 > 类型学不仅描述如何使用研究，还被用来分类与测量研究干预的长期成果。
 
-> [!claim] [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]]
+> [!claim] [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]]
 > **成果分类的应用** 在[[Evidence-Informed Practice\|证据知情实践]]的成果测量中，[[National Center for Research in Policy and Practice\|NCRPP]] 学者把工具性、概念性与象征性使用识别为长期成果的三类形态：工具性对应研究对实践的直接影响，概念性对应研究对思维的间接影响，象征性对应使用证据合法化做法或说服他人。Wentworth et al. 据此开发[[Questionnaire\|问卷]]，测量美国[[Research-Practice Partnership\|研究-实践伙伴关系]]对教育者证据本位决策的影响。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p.132)]]
 
 ---
@@ -184,7 +184,7 @@ updated: 2026-10-15
 > |---|---|---|---|
 > | **类型学源流** | 从七模型到三分类的收敛与合法化借口演变 | 研究利用与宏观政策规划 | Weiss (1979); Nutley et al. (2007); Mattheou |
 > | **学校中的分布** | 象征与工具性使用为主，深思熟虑参与罕见 | 学校研究使用的实证描述 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
-> | **成果分类应用** | 类型学扩展为长期成果分类 | 研究影响测量 | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] |
+> | **成果分类应用** | 类型学扩展为长期成果分类 | 研究影响测量 | [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] |
 
 ---
 
@@ -226,5 +226,5 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] — 以该类型学为概念透镜记录学校[[Research Utilization\|研究使用]]方式，发现深思熟虑参与比象征性与工具性使用更罕见，并据此提出从实施走向整合。
-> - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 在特刊导言中把工具、概念、象征三类使用作为长期成果框架，用于测量[[Research-Practice Partnership\|研究-实践伙伴关系]]对教育者证据本位决策的影响。
+> - [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] — 在特刊导言中把工具、概念、象征三类使用作为长期成果框架，用于测量[[Research-Practice Partnership\|研究-实践伙伴关系]]对教育者证据本位决策的影响。
 > - [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] — 考察德国各州教育部对 [[PISA]] 及大规模测评数据的利用方式，揭示数据使用从早期的战术性合法化（象征性使用）向日常治理中的问题诊断（工具性使用）与假设检验（概念性使用）演进的机制路径。

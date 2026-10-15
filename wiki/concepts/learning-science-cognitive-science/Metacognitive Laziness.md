@@ -57,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-09-05'
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Metacognitive Laziness
@@ -154,8 +154,8 @@ updated: 2026-10-07
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **内部监控抑制命题** | 即时生成机制旁路自主监控回路，引发表面绩效与认知监控脱钩 | 开放式、无反思引导的 [[Generative Artificial Intelligence\|GenAI]] 问答与作业写作环境 | Fan et al. (2025); [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] |
-> | **外部脚手架破局命题** | 必须通过结构化自我评估与技术反思提示打破惰性，赋能自我调节 | 课程整合、教学系统设计与[[Man-Computer Symbiosis\|人机协同]]学习全流程 | Karaoglan Yilmaz & Yilmaz (2025); [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] |
+> | **内部监控抑制命题** | 即时生成机制旁路自主监控回路，引发表面绩效与认知监控脱钩 | 开放式、无反思引导的 [[Generative Artificial Intelligence\|GenAI]] 问答与作业写作环境 | Fan et al. (2025); [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] |
+> | **外部脚手架破局命题** | 必须通过结构化自我评估与技术反思提示打破惰性，赋能自我调节 | 课程整合、教学系统设计与[[Man-Computer Symbiosis\|人机协同]]学习全流程 | Karaoglan Yilmaz and Yilmaz (2025); [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] |
 
 ---
 
@@ -164,7 +164,7 @@ updated: 2026-10-07
 > [!dev-timeline] 概念演变
 > - **2016–2022 — [[Cognitive Offloading\|认知卸载]]阶段** 学习科学主要关注计算器、搜索引擎或外部便签对[[Working Memory\|工作记忆]]的物理卸载，将其视为适应性认知策略。
 > - **2023–2024 — 生成式 AI 冲击与认知依赖警示** 随着 ChatGPT 席卷高校，学者们开始觉察到算法替代深层论证的危险，提出“思维外包”与“认知依赖”隐患（Yilmaz & Yilmaz, 2023a; Stadler et al., 2024）。
-> - **2025 — [[Metacognition\|元认知]]惰性概念的明确与实证确立** Fan et al. (2025) 正式提出“元认知惰性”（Metacognitive Laziness）假说；[[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] 在 *Educational Research Review* 通过 57 项[[Experimental Research\|实验研究]][[Meta-analysis\|元分析]]严格证实 [[Generative Artificial Intelligence\|GenAI]] 对元认知无显著促进（$g^+ = 0.078$），实证奠定了元认知惰性在 AI 教育研究中的理论合法性。
+> - **2025 — [[Metacognition\|元认知]]惰性概念的明确与实证确立** Fan et al. (2025) 正式提出“元认知惰性”（Metacognitive Laziness）假说；[[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 在 *Educational Research Review* 通过 57 项[[Experimental Research\|实验研究]][[Meta-analysis\|元分析]]严格证实 [[Generative Artificial Intelligence\|GenAI]] 对元认知无显著促进（$g^+ = 0.078$），实证奠定了元认知惰性在 AI 教育研究中的理论合法性。
 
 ---
 
@@ -196,22 +196,22 @@ updated: 2026-10-07
 >
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | [[Dependent Variable\|结果变量]]（[[Metacognition\|元认知]]能力产出，检验技术是否引发元认知停滞） | $k = 10$ / $N = 918$ | Hedges' $g^+$；随机效应模型 | $g^+ = 0.078$ [-0.490, 0.647] | $Q = 142.116, p < 0.001$ | 仅纳入严格满足基线等效性（$d < 0.25$）的实验与准实验研究；效应量未达统计显著（$p = 0.789$），证实 GenAI 开放使用无法自发提升元认知 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | [[Dependent Variable\|结果变量]]（[[Metacognition\|元认知]]能力产出，检验技术是否引发元认知停滞） | $k = 10$ / $N = 918$ | Hedges' $g^+$；随机效应模型 | $g^+ = 0.078$ [-0.490, 0.647] | $Q = 142.116, p < 0.001$ | 仅纳入严格满足基线等效性（$d < 0.25$）的实验与准实验研究；效应量未达统计显著（$p = 0.789$），证实 GenAI 开放使用无法自发提升元认知 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 结果[[Variable\|变量]]维度比较 | [[Language Skills\|语言技能]] | $k = 21$ | $g^+ = 2.331$ [1.706, 2.956] | $Q_B = 152.551$, $p < 0.001$ | 各产出领域间呈现极显著分化，语言技能与学业成绩获得高强度增益，而元认知能力基本处于零效应区间 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 结果变量维度比较 | [[Academic Achievement\|学业成绩]] | $k = 25$ | $g^+ = 0.633$ [0.472, 0.794] | 同上 | 表现出中到大效应 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 结果变量维度比较 | [[Affective Outcomes\|情感动机状态]] | $k = 25$ | $g^+ = 0.617$ [0.435, 0.799] | 同上 | 表现出中到大效应 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 结果变量维度比较 | [[Higher-Order Thinking Skills\|高阶思维能力]] | $k = 16$ | $g^+ = 0.580$ [0.380, 0.781] | 同上 | 表现出中到大效应 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 结果变量维度比较 | [[Metacognition\|元认知能力]] | $k = 10$ | $g^+ = 0.078$ [-0.490, 0.647] | 同上 | 唯一未达显著水平（$p = 0.789$）的产出，有力支持元认知惰性假说 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 结果[[Variable\|变量]]维度比较 | [[Language Skills\|语言技能]] | $k = 21$ | $g^+ = 2.331$ [1.706, 2.956] | $Q_B = 152.551$, $p < 0.001$ | 各产出领域间呈现极显著分化，语言技能与学业成绩获得高强度增益，而元认知能力基本处于零效应区间 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 结果变量维度比较 | [[Academic Achievement\|学业成绩]] | $k = 25$ | $g^+ = 0.633$ [0.472, 0.794] | 同上 | 表现出中到大效应 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 结果变量维度比较 | [[Affective Outcomes\|情感动机状态]] | $k = 25$ | $g^+ = 0.617$ [0.435, 0.799] | 同上 | 表现出中到大效应 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 结果变量维度比较 | [[Higher-Order Thinking Skills\|高阶思维能力]] | $k = 16$ | $g^+ = 0.580$ [0.380, 0.781] | 同上 | 表现出中到大效应 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 结果变量维度比较 | [[Metacognition\|元认知能力]] | $k = 10$ | $g^+ = 0.078$ [-0.490, 0.647] | 同上 | 唯一未达显著水平（$p = 0.789$）的产出，有力支持元认知惰性假说 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] — 实施 57 项[[Experimental Research\|实验研究]][[Meta-analysis\|元分析]]，证实生成式 AI 对大学生成果总体具有大[[Effect Size\|效应量]]但在[[Metacognition\|元认知]]上无显著促进（$g^+ = 0.078$），实证验证了开放式 AI 介入引发元认知惰性的风险，确立了植入结构化反思培训的教学必要性。
+> - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — 实施 57 项[[Experimental Research\|实验研究]][[Meta-analysis\|元分析]]，证实生成式 AI 对大学生成果总体具有大[[Effect Size\|效应量]]但在[[Metacognition\|元认知]]上无显著促进（$g^+ = 0.078$），实证验证了开放式 AI 介入引发元认知惰性的风险，确立了植入结构化反思培训的教学必要性。

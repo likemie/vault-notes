@@ -48,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-09-05'
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Marginal Gains Hypothesis
@@ -150,17 +150,17 @@ updated: 2026-09-17
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **技术基线反比命题** | 低 ICT 基础设施环境具有更高技术边际收益 | 跨国比较、发展中国家与欠发达地区数字化转型 | OECD (2015); [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] |
-> | **阶层弱势补偿命题** | 低 SES 群体通过个性化技术互动获得更强相对学业跃升 | 教育公平政策制定、弱势高校生精准帮扶项目 | Cheung & Slavin (2013); [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] |
+> | **技术基线反比命题** | 低 ICT 基础设施环境具有更高技术边际收益 | 跨国比较、发展中国家与欠发达地区数字化转型 | OECD (2015); [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] |
+> | **阶层弱势补偿命题** | 低 SES 群体通过个性化技术互动获得更强相对学业跃升 | 教育公平政策制定、弱势高校生精准帮扶项目 | Cheung and Slavin (2013); [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2013–2015 — 早期循证与国际调查发现** Cheung & Slavin (2013) 在教育技术[[Meta-analysis\|元分析]]中初次察觉低资源环境的高响应现象；OECD (2015) 报告正式提出低技术环境引入技术具有更大相对效应的观察。
+> - **2013–2015 — 早期循证与国际调查发现** Cheung and Slavin (2013) 在教育技术[[Meta-analysis\|元分析]]中初次察觉低资源环境的高响应现象；OECD (2015) 报告正式提出低技术环境引入技术具有更大相对效应的观察。
 > - **2023–2024 — AI 时代的区域分化研究** Tlili et al. (2025) 元分析发现亚洲与非洲的 AI [[Effect Size\|效应量]]显著高于北美，但缺乏系统的基线控制与理论归因。
-> - **2025 — 边际效益假说的系统实证确立** [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] 在严格满足[[Baseline Standardized Mean Difference\|基线等效性]]（$d < 0.25$）的方法学门槛下，同时从国家 ICT 与学生 SES 双重视角实证检验并确立了“边际效益假说”，指出 [[Generative Artificial Intelligence\|GenAI]] 是弥合高等教育数字鸿沟的战略性工具。
+> - **2025 — 边际效益假说的系统实证确立** [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 在严格满足[[Baseline Standardized Mean Difference\|基线等效性]]（$d < 0.25$）的方法学门槛下，同时从国家 ICT 与学生 SES 双重视角实证检验并确立了“边际效益假说”，指出 [[Generative Artificial Intelligence\|GenAI]] 是弥合高等教育数字鸿沟的战略性工具。
 
 ---
 
@@ -192,23 +192,23 @@ updated: 2026-09-17
 >
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 情境调节假说检验（检验 ICT 与 SES 调节下的边际增益规律） | $k = 57$ / $N = 5,389$ | Hedges' $g^+$；随机效应模型 | $g^+ = 0.804$ [0.636, 0.972] | $Q = 1390.157, p < 0.001$ | 控制前测基线等效（$d < 0.25$）；宏观环境变量呈现出极显著调节，验证了假说的存在 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 情境调节假说检验（检验 ICT 与 SES 调节下的边际增益规律） | $k = 57$ / $N = 5,389$ | Hedges' $g^+$；随机效应模型 | $g^+ = 0.804$ [0.636, 0.972] | $Q = 1390.157, p < 0.001$ | 控制前测基线等效（$d < 0.25$）；宏观环境变量呈现出极显著调节，验证了假说的存在 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 宏观技术环境调节 | 低 ICT 国家 | $k = 20$ | $g^+ = 1.764$ [1.285, 2.243] | $Q_B = 21.691, p < 0.001$ | 低 ICT 环境促学效应呈大效应量，高 ICT 环境呈中等效应，边际增益阶梯高度显著 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 宏观技术环境调节 | 中 ICT 国家 | $k = 60$ | $g^+ = 0.609$ [0.405, 0.814] | 同上 | 居中效应 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 宏观技术环境调节 | 高 ICT 国家 | $k = 17$ | $g^+ = 0.501$ [0.223, 0.779] | 同上 | [[Effect Size\|效应量]]显著收敛 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 社会经济地位调节 | 低 SES 背景 | $k = 21$ | $g^+ = 1.751$ [1.290, 2.212] | $Q_B = 23.819, p < 0.001$ | 低 SES 学生获得最高促学增量，高 SES 学生增益平缓，证实社会经济补偿机制 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 社会经济地位调节 | 中 SES 背景 | $k = 58$ | $g^+ = 0.604$ [0.395, 0.814] | 同上 | 居中效应 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 社会经济地位调节 | 高 SES 背景 | $k = 18$ | $g^+ = 0.467$ [0.207, 0.726] | 同上 | 效应量显著收敛 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 宏观技术环境调节 | 低 ICT 国家 | $k = 20$ | $g^+ = 1.764$ [1.285, 2.243] | $Q_B = 21.691, p < 0.001$ | 低 ICT 环境促学效应呈大效应量，高 ICT 环境呈中等效应，边际增益阶梯高度显著 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 宏观技术环境调节 | 中 ICT 国家 | $k = 60$ | $g^+ = 0.609$ [0.405, 0.814] | 同上 | 居中效应 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 宏观技术环境调节 | 高 ICT 国家 | $k = 17$ | $g^+ = 0.501$ [0.223, 0.779] | 同上 | [[Effect Size\|效应量]]显著收敛 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 社会经济地位调节 | 低 SES 背景 | $k = 21$ | $g^+ = 1.751$ [1.290, 2.212] | $Q_B = 23.819, p < 0.001$ | 低 SES 学生获得最高促学增量，高 SES 学生增益平缓，证实社会经济补偿机制 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 社会经济地位调节 | 中 SES 背景 | $k = 58$ | $g^+ = 0.604$ [0.395, 0.814] | 同上 | 居中效应 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 社会经济地位调节 | 高 SES 背景 | $k = 18$ | $g^+ = 0.467$ [0.207, 0.726] | 同上 | 效应量显著收敛 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] — 基于 57 项[[Experimental Research\|实验研究]][[Meta-analysis\|元分析]]，通过国家 ICT 水平与学生 SES 的[[Moderator Analysis\|调节效应分析]]，严格实证检验了边际效益假说，指出生成式 AI 具有促进低资源国家和弱势学生教育平等的战略价值。
+> - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — 基于 57 项[[Experimental Research\|实验研究]][[Meta-analysis\|元分析]]，通过国家 ICT 水平与学生 SES 的[[Moderator Analysis\|调节效应分析]]，严格实证检验了边际效益假说，指出生成式 AI 具有促进低资源国家和弱势学生教育平等的战略价值。

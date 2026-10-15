@@ -53,7 +53,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Small Study Effects
@@ -63,12 +63,12 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> [[Small Study Effects\|小研究效应]]（Small-Study Effects，亦称小样本研究效应）是指在[[Meta-analysis\|元分析]]与[[Meta-meta-analysis\|二阶元分析]]中观察到的一种经验现象：**较小[[Sample Size Determination\|样本量]]（即较大[[Standard Error\|标准误]]）的研究倾向于系统性报告比大样本研究更大、更具[[Statistical Significance\|统计显著性]]的[[Effect Size\|效应量]]。**这一现象由 Sterne et al. (2000)、Sterne & Egger (2005) 以及 [[Argument_Runco_2026_CRJ\|Runco et al. (2026, pp. 5–6)]] 等研究记录。小研究效应是造成[[Funnel Plot\|漏斗图]]（Funnel Plot）不对称的根本物理原因，其来源不仅包括文献[[Publication Bias\|发表偏倚]]（Publication Bias），还涵盖小样本研究方法学控制不严、干预实施强度差异以及特定亚组人群选择偏差。
+> [[Small Study Effects\|小研究效应]]（Small-Study Effects，亦称小样本研究效应）是指在[[Meta-analysis\|元分析]]与[[Meta-meta-analysis\|二阶元分析]]中观察到的一种经验现象：**较小[[Sample Size Determination\|样本量]]（即较大[[Standard Error\|标准误]]）的研究倾向于系统性报告比大样本研究更大、更具[[Statistical Significance\|统计显著性]]的[[Effect Size\|效应量]]。** 这一现象由 Sterne et al. (2000)、Sterne and Egger (2005) 以及 [[Argument_Runco_2026_CRJ\|Runco et al. (2026, pp. 5–6)]] 等研究记录。小研究效应是造成[[Funnel Plot\|漏斗图]]（Funnel Plot）不对称的根本物理原因，其来源不仅包括文献[[Publication Bias\|发表偏倚]]（Publication Bias），还涵盖小样本研究方法学控制不严、干预实施强度差异以及特定亚组人群选择偏差。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向实证文献库中效应量大小与研究精度（标准误）之间存在的系统性虚假依赖关系。
 > - **用途** 帮助研究者警惕元分析未校正前合并值的夸大风险，通过统计建模（如[[Multilevel Egger's Test\|多水平艾格回归]]）分离出无偏的大样本真实效应基准。
-> - **边界** 小研究效应是一种**经验现象（Phenomenon）**而非单一特定原因；漏斗图不对称不等于必定存在学术不端或有意隐瞒阴性结果。
+> - **边界** 小研究效应是一种**经验现象（Phenomenon）** 而非单一特定原因；漏斗图不对称不等于必定存在学术不端或有意隐瞒阴性结果。
 
 > [!citation-card]- 关键表述
 > 采用基于 [[Robust Variance Estimation\|RVE]] 的改进多水平[[Egger Regression Test\|艾格回归检验]]潜在发表偏倚并检验小研究效应……截距项统计显著（p = .002），表明存在小研究效应；经偏倚校正后的二阶效应量为 0.17。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 6)]]
@@ -120,7 +120,7 @@ updated: 2026-10-15
 > [!concept-lens] 复合偏倚与统计校正必要性
 > 探讨为何在存在小研究效应时，即使是[[Fixed-Effect and Random-Effects Models\|随机效应模型]]的[[Inverse-Variance Weighting\|逆方差加权]]平均值依然会高估总体真实效果。
 
-> [!claim] Sterne & Egger (2005); Rodgers & Pustejovsky (2021)
+> [!claim] Sterne and Egger (2005); Rodgers and Pustejovsky (2021)
 > **加权均值的残余偏倚** 传统的逆方差加权虽然赋予大样本研究更高权重，但由于小样本研究数量往往占绝对多数，如果存在系统性小研究效应，加权汇总值仍会受到向右拉扯；必须通过将[[Effect Size\|效应量]]对[[Standard Error\|标准误]]进行回归，把回归方程外推至理论上无限大样本（$\operatorname{SE} \to 0$）处的截距项，方能获得真正的无偏效应基线。
 
 ---
@@ -130,7 +130,7 @@ updated: 2026-10-15
 > [!concept-lens] [[Meta-meta-analysis\|二阶元分析]]中的小研究效应确证与校正
 > 探讨在大规模二阶[[Meta-analysis\|元分析]]中如何运用改进艾格回归消除文献依赖与小研究偏倚。
 
-> [!claim] [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]; Pustejovsky & Rodgers (2019)
+> [!claim] [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]; Pustejovsky and Rodgers (2019)
 > **二阶截距偏倚校正** 在对 52 项[[Creativity\|创造力]]一阶元分析（164 个效应量）的二阶综合中，多水平[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]配合[[Robust Variance Estimation\|稳健方差估计]]（CHE + RVE）检验显示，标准误斜率项高度显著（$F(1, 10.9) = 15.7, p = .002$），确证了创造力文献库中显著存在小研究效应；经截距外推校正后，创造力全领域的真实无偏二阶效应量确立为 **$r = 0.17$**（95% [[Confidence Interval\|置信区间]] $[0.11, 0.22]$），为全领域各细分[[Construct\|构念]]提供了可靠的参照原点。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 5–6)]]
 
 ---
@@ -140,5 +140,5 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **复合偏倚识别** | 小研究效应源于[[Publication Bias\|发表偏倚]]、方法学妥协与真实[[Heterogeneity\|异质性]]的复合作用 | 循证研究质量评估、[[Systematic Review\|系统综述]]检验 | Sterne & Egger (2005); Sterne et al. (2000) |
-> | **多水平截距校正** | 借助多水平 RVE 艾格回归外推无偏截距，确立创造力二阶基准效应（$r = 0.17$） | 二阶元分析建模、发表偏倚敏感性校正 | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]; Rodgers & Pustejovsky (2021) |
+> | **复合偏倚识别** | 小研究效应源于[[Publication Bias\|发表偏倚]]、方法学妥协与真实[[Heterogeneity\|异质性]]的复合作用 | 循证研究质量评估、[[Systematic Review\|系统综述]]检验 | Sterne and Egger (2005); Sterne et al. (2000) |
+> | **多水平截距校正** | 借助多水平 RVE 艾格回归外推无偏截距，确立创造力二阶基准效应（$r = 0.17$） | 二阶元分析建模、发表偏倚敏感性校正 | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]; Rodgers and Pustejovsky (2021) |

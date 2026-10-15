@@ -61,7 +61,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **挑选意愿者（Picking the Willing）**是指在[[Mission-Oriented Innovation Policy|使命导向创新政策]]（Frame 3 [[Paradigm|范式]]）中，公共部门彻底摒弃传统垂直产业政策针对特定单一部门（如钢铁、造船）或个别企业进行排他性直接补贴的“挑选赢家”（Picking Winners）旧模式，转而在宏观战略层面确立必须转型的重大社会挑战方向（如碳中和、无塑海洋、健康老龄化），并在全经济范围内跨行业、跨所有制、跨学科地遴选并资助所有愿意为实现该使命而开展研发与系统技术改造的组织的治理机制。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–806)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790)]]
+> **挑选意愿者（Picking the Willing）** 是指在[[Mission-Oriented Innovation Policy|使命导向创新政策]]（Frame 3 [[Paradigm|范式]]）中，公共部门彻底摒弃传统垂直产业政策针对特定单一部门（如钢铁、造船）或个别企业进行排他性直接补贴的“挑选赢家”（Picking Winners）旧模式，转而在宏观战略层面确立必须转型的重大社会挑战方向（如碳中和、无塑海洋、健康老龄化），并在全经济范围内跨行业、跨所有制、跨学科地遴选并资助所有愿意为实现该使命而开展研发与系统技术改造的组织的治理机制。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–806)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790)]]
 
 > [!concept-lens] 概念透镜
 > - **微观企业视阈** 改变企业获取国家资助的逻辑，将公共支持从“企业身份与政治游说能力”转向“实质性转型承诺与攻关意愿”。
@@ -160,7 +160,7 @@ updated: 2026-10-16
 > [!concept-lens] 后[[New Public Management|新公共管理]]时代的政企协作关系
 > 传统的行政外包与防错审计模式将意愿者视为被动的合同承包商，扼杀了不确定性探索中的知识沉淀与敏捷响应。
 
-> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
+> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **共创与引领学习命题** 莱纳·[[Rainer Kattel|卡特尔]]与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]指出，挑选意愿者机制的本质是建立国家与社会行动者之间的共创实验网络。公共部门必须摒弃新公共管理被动的“支持与衡量”模式，在国家、政策与行政三层重塑[[Public Dynamic Capabilities|公共部门动态能力]]，践行“[[Lead-and-Learn Paradigm|引领与学习]]”[[Paradigm|范式]]，通过持续的用户研究、[[Agile Governance|敏捷试错]]与全流程组织反思，与意愿者共同开辟与拓展新市场。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–791, 796–798)]]
 
 ---
@@ -174,7 +174,7 @@ updated: 2026-10-16
 > | **产业倒逼命题** | 以刚性绿色使命对传统高耗能重工业施加倒逼与转型支持 | 钢铁建材化工脱碳、传统制造绿色化与循环经济改造 | [[Mariana Mazzucato\|马祖卡托（绿色转型理论）]] |
 > | **动态止损命题** | 建立附条件契约与技术就绪度里程碑考核，确保动态退场 | 重大科技项目管理、前沿技术中试与开发性补贴 | [[Mariana Mazzucato\|马祖卡托（契约规制模型）]] |
 > | **路径防锁定命题** | 资助多元自下而上探索方案，以组合投资分散[[Path Dependence\|技术锁定]]风险 | 清洁能源路线竞逐、颠覆性技术早期孵化与前沿攻坚 | [[Mariana Mazzucato\|马祖卡托（组合管理理论）]] |
-> | **共创与引领学习** | 打破单向外包合规，以三层动态能力与引领学习范式协同意愿者 | 跨部门政策协同、数字化公共服务转型与后 NPM 治理 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018)]] |
+> | **共创与引领学习** | 打破单向外包合规，以三层动态能力与引领学习范式协同意愿者 | 跨部门政策协同、数字化公共服务转型与后 NPM 治理 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] |
 
 ---
 
@@ -234,5 +234,5 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 论证公共部门如何依托国家、政策与行政三层动态能力及引领学习[[Paradigm|范式]]，实现对跨界意愿者的敏捷协同与共创管理。
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 论证公共部门如何依托国家、政策与行政三层动态能力及引领学习[[Paradigm|范式]]，实现对跨界意愿者的敏捷协同与共创管理。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 奠定挑选意愿者概念内涵、四大治理支柱与防范传统产业政策寻租俘获的核心文献。

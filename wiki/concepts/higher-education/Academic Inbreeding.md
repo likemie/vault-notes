@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Academic Inbreeding
@@ -51,7 +51,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **学术近亲繁殖（Academic Inbreeding）**是指高等教育机构在专任教职聘用与晋升过程中，优先录用本校培养的博士毕业生或长期留任内部初级学者的制度化倾向。这种封闭的人事任用机制往往在大学自治缺乏外部独立同行评议与绩效问责的条件下被进一步强化，形成排斥外部候选人、维系学派门阀与派系庇护的自我复制网络。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 332–333)]]
+> **学术近亲繁殖（Academic Inbreeding）** 是指高等教育机构在专任教职聘用与晋升过程中，优先录用本校培养的博士毕业生或长期留任内部初级学者的制度化倾向。这种封闭的人事任用机制往往在大学自治缺乏外部独立同行评议与绩效问责的条件下被进一步强化，形成排斥外部候选人、维系学派门阀与派系庇护的自我复制网络。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 332–333)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向高等教育学术劳动力市场中的人事封闭与地方保护，核心机制为以内部依附关系取代开放竞争。

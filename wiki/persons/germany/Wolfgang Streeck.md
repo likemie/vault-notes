@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Wolfgang Streeck
@@ -134,8 +134,8 @@ updated: 2026-10-15
 > - **跨学科辐射** 其资本主义危机与去组织化理论在社会学、批判法学与国际政治经济学（[[Implementation and Process Evaluation|IPE]]）中引发跨学科论战。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 施特雷克与希伦开创渐进变迁形态学，系统界定置换、层叠、漂移、转换与耗竭五大机制，提出以“规则设计与践行脱节”为核心的内生变迁动力学（pp. 1–39）。
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 明确继承施特雷克与希伦（2005）的渐进变迁形态学，作为全书[[Causal Modeling|因果建模]]的分类学基石（pp. xii, 15, 17, 30）。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 施特雷克与希伦开创渐进变迁形态学，系统界定置换、层叠、漂移、转换与耗竭五大机制，提出以“规则设计与践行脱节”为核心的内生变迁动力学（pp. 1–39）。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 明确继承施特雷克与希伦（2005）的渐进变迁形态学，作为全书[[Causal Modeling|因果建模]]的分类学基石（pp. xii, 15, 17, 30）。
 
 ---
 
@@ -158,13 +158,13 @@ updated: 2026-10-15
 > > 围绕施特雷克在《重塑资本主义》中对德国社会市场经济走向“去组织化自由化”的定性展开激烈争论。
 > >
 > > - **Wolfgang Streeck（2009）** 德国体制不仅是在微调，而是核心协调机制已被系统性侵蚀，雇主逃离集体协商与非全日制劳动力市场激增表明德国正在发生不可逆的自由化解体。
-> > - **Peter A. Hall & Kathleen Thelen（2009）** 施特雷克低估了德国核心雇主与技能工人的制度适应能力；德国通过双元层叠与转换重新调适了[[Institutional Complementarity|制度互补性]]，核心产业协调优势并未全面瓦解。
+> > - **Peter A. Hall and Kathleen Thelen（2009）** 施特雷克低估了德国核心雇主与技能工人的制度适应能力；德国通过双元层叠与转换重新调适了[[Institutional Complementarity|制度互补性]]，核心产业协调优势并未全面瓦解。
 
 > > [!axis] 渐进变迁形态学应包含四类还是五类形态
 > > 围绕[[Institutional Exhaustion|制度耗竭]]（Exhaustion）是否应当作为独立形态展开讨论。
 > >
-> > - **Wolfgang Streeck & Kathleen Thelen（2005）** 坚持制度耗竭是独特的制度演进机制，制度因自身持续正常运转消耗了必要的外部社会与人口前提条件而走向自发萎缩崩溃。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 29–31)]]
-> > - **James Mahoney & Kathleen Thelen（2009）** 在[[Causal Modeling|因果建模]]中聚焦置换、层叠、漂移与转换四类形态，将耗竭视为更多依赖结构性前设变化的特例。
+> > - **Wolfgang Streeck and Kathleen Thelen（2005）** 坚持制度耗竭是独特的制度演进机制，制度因自身持续正常运转消耗了必要的外部社会与人口前提条件而走向自发萎缩崩溃。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 29–31)]]
+> > - **James Mahoney and Kathleen Thelen（2009）** 在[[Causal Modeling|因果建模]]中聚焦置换、层叠、漂移与转换四类形态，将耗竭视为更多依赖结构性前设变化的特例。
 
 ---
 

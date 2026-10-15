@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Central Question
@@ -67,7 +67,7 @@ updated: 2026-10-15
 > [!info]
 > 质性子问题（qualitative sub-questions）是将核心问题的[[Central Phenomenon\|核心现象]]进一步细分收窄的问题，通常五至七个，成为数据收集（如访谈）中的具体问题([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.146]])。
 
-Miles & Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitative Research|质性研究]]问题（核心问题 + 子问题）。子问题随后成为[[Interview Protocol|访谈协议]]或指南中的具体问题，访谈通常以破冰问题开始，以总结性问题结束（Asmussen & Creswell, 1995）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
+Miles and Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitative Research|质性研究]]问题（核心问题 + 子问题）。子问题随后成为[[Interview Protocol|访谈协议]]或指南中的具体问题，访谈通常以破冰问题开始，以总结性问题结束（Asmussen & Creswell, 1995）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
 
 ---
 
@@ -107,7 +107,7 @@ Miles & Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitative
 > "____ (How or what?) is the ____ ([[Central Phenomenon]]) for ____ (participants) at ____ (research site)."
 
 > [!example] [[Ethnography\|民族志]]核心问题范例
-> Mac an Ghaill & Haywood (2015) 研究了一组英国出生的工薪阶层巴基斯坦和孟加拉裔年轻男性在三年间的文化状况变化。虽未明确构建[[Research Question\|研究问题]]，Creswell & Creswell 建议的核心问题为：
+> Mac an Ghaill and Haywood (2015) 研究了一组英国出生的工薪阶层巴基斯坦和孟加拉裔年轻男性在三年间的文化状况变化。虽未明确构建[[Research Question\|研究问题]]，Creswell & Creswell 建议的核心问题为：
 >
 > "What are the core beliefs related to ethnicity, religion, and cultural belonging of the group of British-born, working-class Pakistani and Bangladeshi young men over a 3-year time period, and how do the young men [[Construct]] and understand their geographically specific experiences of family, schooling, and social life as well as growing up and interacting within their local community in a rapidly changing Britain?"（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）
 

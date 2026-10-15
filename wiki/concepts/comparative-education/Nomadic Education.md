@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Nomadic Education
@@ -144,8 +144,8 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **国家定居规训命题** | 正规教育是国家抹平流动性、推行定居同化的核心空间治理工具 | 蒙古、伊朗、尼日利亚等国游牧民教育与寄宿政策 | Steiner-Khamsi & Stolpe (2006); Umar & Tahir (2000) |
-> | **群体反向赋权命题** | 游牧民利用正规学校掌握读写能力，将其作为抵御危机的保险策略与去依附手段 | 印度古吉拉特邦拉巴里人及全球边缘游牧社群 | Dyer (2001); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] |
+> | **国家定居规训命题** | 正规教育是国家抹平流动性、推行定居同化的核心空间治理工具 | 蒙古、伊朗、尼日利亚等国游牧民教育与寄宿政策 | Steiner-Khamsi and Stolpe (2006); Umar and Tahir (2000) |
+> | **群体反向赋权命题** | 游牧民利用正规学校掌握读写能力，将其作为抵御危机的保险策略与去依附手段 | 印度古吉拉特邦拉巴里人及全球边缘游牧社群 | Dyer (2001); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] |
 
 ---
 
@@ -180,11 +180,11 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 印度古吉拉特邦拉巴里游牧牧民社群（转引自 Dyer, 2001） | 定性[[Ethnography\|民族志]]与生计[[Questionnaire\|问卷]]访谈 | 游牧民入学目的、入学性别模式与对识字功能的认知 | 调查显示游牧民极少期望教育帮助放牧，普遍选择抽调单个儿子接受教育以建立非农就业替代选项，并高度重视识字以终止交易受骗 | [[Qualitative Research\|定性研究]]，无量化误差区间 | 揭示了牧民将教育工具化为生计风险对冲手段的微观能动性，不能直接外推为全局学业达标率提升 |
+> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 印度古吉拉特邦拉巴里游牧牧民社群（转引自 Dyer, 2001） | 定性[[Ethnography\|民族志]]与生计[[Questionnaire\|问卷]]访谈 | 游牧民入学目的、入学性别模式与对识字功能的认知 | 调查显示游牧民极少期望教育帮助放牧，普遍选择抽调单个儿子接受教育以建立非农就业替代选项，并高度重视识字以终止交易受骗 | [[Qualitative Research\|定性研究]]，无量化误差区间 | 揭示了牧民将教育工具化为生计风险对冲手段的微观能动性，不能直接外推为全局学业达标率提升 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 结合印度拉巴里人及蒙古、尼日利亚和伊朗的案例，论证学校空间围栏如何与游牧流动性发生碰撞，并彰显流动群体的抗风险能动性。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 结合印度拉巴里人及蒙古、尼日利亚和伊朗的案例，论证学校空间围栏如何与游牧流动性发生碰撞，并彰显流动群体的抗风险能动性。

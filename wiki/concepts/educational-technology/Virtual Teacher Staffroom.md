@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Virtual Teacher Staffroom
@@ -156,7 +156,7 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **同侪赋能与去孤立命题** | 虚拟教研室跨越校舍壁垒，为教师提供即时数字化微创新与情感互助支持 | 教师非正式专业学习、数字化转型探索与职业倦怠缓解 | Krutka & Carpenter (2016); Richter et al. (2022); Déchène et al. (2024) |
+> | **同侪赋能与去孤立命题** | 虚拟教研室跨越校舍壁垒，为教师提供即时数字化微创新与情感互助支持 | 教师非正式专业学习、数字化转型探索与职业倦怠缓解 | Krutka and Carpenter (2016); Richter et al. (2022); Déchène et al. (2024) |
 > | **学术缺位与单向广播命题** | 教师同侪交流活跃但科研人员仅作单向广播，错失双向科学传播与实践反馈良机 | 教育科学传播平台策略设计、学术新媒体运营与受众沟通 | Guenther et al. (2023); Kerres et al. (2022); Schäfer (2017) |
 > | **层级再造与意见领袖命题** | 去中心化空间在算法驱动下分化出意见领袖，形成主导教学认同的新型微观权力 | 社交媒体网络结构分析、教育舆论引导与迷思扩散治理 | [[Argument_Besa_2024_UW\|Besa (2024)]]; Fütterer et al. (2021); Carpenter et al. (2024) |
 

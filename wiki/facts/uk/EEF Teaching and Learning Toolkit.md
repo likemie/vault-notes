@@ -106,7 +106,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # EEF Teaching and Learning Toolkit
@@ -134,7 +134,7 @@ updated: 2026-10-15
 >   2. **组织与制度策略（Institutional approaches）** 如延长在校时间、小班化教学、[[Tracking\|能力分组]]设置；
 >   3. **人际与关系策略（Relational approaches）** 如家长参与、行为干预策略、导师指导计划。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 111)]]
 > - **学段与非学业指标横向扩充（2014 年拓展）** EEF 后续将工具包范畴系统延伸至学前早期教育阶段，开发独立的“早期教育工具包”（Early Years Toolkit）；同时突破单一统考成绩（attainment）限制，将[[Self-control\|自我控制]]、身心韧性与社会情感发展等非学业产出纳入综合评价视野。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
-> - **三大设计灵感来源** 承袭[[John Hattie\|约翰·哈蒂]]（[[John Hattie]], 2008）的做法将多元异质发现置于统一量表横向比较；借鉴 Sipe & Curlette (1996) 优先采纳具有清晰[[Causality\|因果推断]]基础的实验与准[[Experimental Research\|实验研究]]；汲取[[Robert Marzano\|罗伯特·马扎诺]]（[[Robert Marzano]], 1998）的实践导向提供直接指导课堂行动的常识化表述。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 47)]]
+> - **三大设计灵感来源** 承袭[[John Hattie\|约翰·哈蒂]]（[[John Hattie]], 2008）的做法将多元异质发现置于统一量表横向比较；借鉴 Sipe and Curlette (1996) 优先采纳具有清晰[[Causality\|因果推断]]基础的实验与准[[Experimental Research\|实验研究]]；汲取[[Robert Marzano\|罗伯特·马扎诺]]（[[Robert Marzano]], 1998）的实践导向提供直接指导课堂行动的常识化表述。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 47)]]
 
 > [!dimension] 六维信息结构与三层解析框架（[[Argument_Higgins_2016_ROE\|Higgins, 2016]]; [[Argument_Torres_2022_BarriersMechanisms\|Torres, 2022a]]）
 > Toolkit 为每一类教学策略提供高度系统化的六维信息架构：
@@ -159,7 +159,7 @@ updated: 2026-10-15
 > - **2011 — [[Education Endowment Foundation\|EEF]] 成立与工具包制度化发布** 伴随 EEF 设立，工具包被确立为旗舰在线产品，首创学习月数与成本效益的可视化联盟表，覆盖中小学核心教学策略。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 110–111)]]
 > - **2013 — 纳入[[What Works Network\|有效性网络]]（WWN）国家战略** 英国中央内阁办公室设立 What Works Network，EEF Toolkit 成为全英[[Output-Oriented Governance\|循证治理]]的公认标杆，Goldacre (2013b) 报告大力推介其证据呈现模式。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 4)]]
 > - **2014 — 拓展早期教育与非学业产出指标** EEF 职责范围向早期教育（Early Years Toolkit）与非学业产出系统延伸，委托开展[[Systematic Review\|系统综述]]以摸排[[Self-control\|自我控制]]与韧性测评工具。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
-> - **2015 — 早期实施质询与使用模式调研** Cowen & Cartwright (2015) 开展[[In-depth Interview\|深度访谈]]，识别出 5 类典型使用模式，并警示工具包去情境化、平均效应误读及与教育标准局（[[Ofsted]]）督导指标脱节的矛盾。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 19–22, 37–40)]]
+> - **2015 — 早期实施质询与使用模式调研** Cowen and Cartwright (2015) 开展[[In-depth Interview\|深度访谈]]，识别出 5 类典型使用模式，并警示工具包去情境化、平均效应误读及与教育标准局（[[Ofsted]]）督导指标脱节的矛盾。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 19–22, 37–40)]]
 > - **2016 — 突破单向推介与创设[[Research Schools Network\|研究学校网络]]（RSN）** 意识到单纯挂网无法撬动课堂深层变革，EEF 联合约克大学[[Institute for Effective Education\|有效教育研究所]]（IEE）发起设立研究学校网络，推动工具包向校际同伴实践下沉。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–150)]]
 > - **2018–2021 — 跨国证据生态扩散与全球[[Going Native\|本土化]]网络** 获得[[BHP Foundation\|必和必拓基金会]]（BHP Foundation）资助开展为期 5 年的全球教育证据生态计划，支持智利 [[SUMMA]] 将工具箱翻译为西语与葡语并在拉美加勒比地区开展本土因果试验，支持澳大利亚实证学习组织（[[Evidence for Learning]], E4L）构建澳洲本土化工具包。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
 > - **2018–2022 — 国际证据门户调查与实施科学深化** 高夫团队（Gough & White, 2018; [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022]]）将 Toolkit 确立为国际 15 个证据门户中“通用策略类”的系统综述典范；EEF 配套出台实施指南并开展助教配置等区域规模化战役。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 150, 154–155)]]
@@ -252,10 +252,10 @@ updated: 2026-10-15
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 系统拆解 Toolkit 的方法论架构、[[Umbrella Review\|伞状综述]]设计、六维信息结构及与 Hattie、Marzano 传统的渊源。
 > - [[Argument_Simpson_2017_JEP\|Simpson (2017)]] — 批判 Toolkit [[Effect Size\|效应量]]计算在对照组基线、样本范围与定制测验敏感度上的三重系统偏差。
 > - [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] — 批评 Toolkit 范畴聚合中的苹果与橙子问题，指出过度抽象抹杀了课堂复杂情境。
-> - [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker (2019)]] — 穿透式剖析“体育参与”条目，揭示[[Meta-meta-analysis\|二阶元分析]]如何抹杀 [[Playing for Success]] 项目的独特因果机制。
+> - [[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019)]] — 穿透式剖析“体育参与”条目，揭示[[Meta-meta-analysis\|二阶元分析]]如何抹杀 [[Playing for Success]] 项目的独特因果机制。
 > - [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]] — 揭示英国中央政府在选择性[[Grammar School\|文法学校]]争议中绕开 Toolkit 严谨实证的道德侧步策略。
 > - [[Argument_Cowen_2019_ERE\|Cowen (2019)]] — 从政治社会学透视 Toolkit 为[[New Public Management\|新公共管理]]主权问责提供审计合规凭证的制度功能。
-> - [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] — 考察欧洲证据基础设施，将 Toolkit 置于生成、转译与校际网络协同的生态框架中。
+> - [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] — 考察欧洲证据基础设施，将 Toolkit 置于生成、转译与校际网络协同的生态框架中。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald, T., & Nevill, C. (2021)]] — 详述 EEF 工具包的运作机制、底层[[Meta-analysis\|元分析]]局限性、200 余项本土 RCT 试验的反哺更新机制、向实践指南（Guidance Reports）的深化，以及与[[BHP Foundation\|必和必拓基金会]]合作推进的跨国扩散。
 
 ---

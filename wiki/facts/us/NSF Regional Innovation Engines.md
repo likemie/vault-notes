@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # NSF Regional Innovation Engines
@@ -71,7 +71,7 @@ updated: 2026-10-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **[[National Science Foundation|NSF]] 区域创新引擎（NSF Regional Innovation Engines，简称 NSF Engines）**是美国国家科学基金会（National Science Foundation, [[National Science Foundation|NSF]]）依据《[[CHIPS and Science Act|芯片与科学法案]]》（CHIPS and Science Act）设立的旗舰级科技与产教融合资助项目。该项目突破了传统 NSF 仅资助个别学者自由探索基础研究的单一模式，转向以地方导向战略（Place-Based Strategies）为基石，通过向全美非传统科技中心地区注入重大长期资金，培育由[[Research Universities|研究型大学]]、社区学院、高科技企业与地方劳工组织共同构筑的区域产业创新与技能生态。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 6)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–24)]]
+> **[[National Science Foundation|NSF]] 区域创新引擎（NSF Regional Innovation Engines，简称 NSF Engines）** 是美国国家科学基金会（National Science Foundation, [[National Science Foundation|NSF]]）依据《[[CHIPS and Science Act|芯片与科学法案]]》（CHIPS and Science Act）设立的旗舰级科技与产教融合资助项目。该项目突破了传统 NSF 仅资助个别学者自由探索基础研究的单一模式，转向以地方导向战略（Place-Based Strategies）为基石，通过向全美非传统科技中心地区注入重大长期资金，培育由[[Research Universities|研究型大学]]、社区学院、高科技企业与地方劳工组织共同构筑的区域产业创新与技能生态。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 6)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–24)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2022 年随 NSF 新设技术、创新与伙伴关系署（[[Directorate for Technology, Innovation and Partnerships]], TIP）正式启动，单个引擎资助周期最长可达 10 年。

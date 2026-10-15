@@ -180,8 +180,8 @@ issuing_organization: ""
 > |---|---|---|
 > | **[[Creativity\|创造力]]测量类型**<br>（Creativity Measure Type） | 编码为主观（Subjective）或客观（Objective）两类：主观指自陈或自评方式（如[[Creative Self-Efficacy\|创造自我效能]]、创造性思维倾向量表）；客观指观念/产品产出或任务表现测量。 | 主观：创造自我效能量表（Creative Self-Efficacy Scale）、马尔马拉创造性思维倾向量表（Marmara Creative Thinking Dispositions Scale）、创造性成就问卷（[[Creative Achievement Questionnaire]], CAQ）；客观：[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验（Torrance Tests of Creative Thinking, TTCT）]]、[[Alternate Uses Test\|非常规用途测验（Alternate Uses Test）]]、筷子创造力测验（Chopsticks Creativity Test）。 |
 > | **[[Critical Thinking\|批判性思维]]测量类型**<br>（Critical Thinking Measure Type） | 编码为主观（自陈倾向/[[Questionnaire\|问卷]]）或客观（技能任务表现）两类：主观指标为倾向或问卷得分；客观指标为标准化技能测验或书面/产品任务评定。 | 主观：[[California Critical Thinking Disposition Inventory\|加州批判性思维倾向问卷（California Critical Thinking Disposition Inventory, CCTDI）]]、批判性思维倾向量表（Critical Thinking Disposition Scale）；客观：沃森-格拉泽批判性思维评价（Watson-Glaser Critical Thinking Appraisal, WGCTA）、康奈尔批判性思维测验（Cornell Critical Thinking Test, CCTT）、PENCRISAL 批判性思维测验。 |
-> | **学段**<br>（Student Level） | 中学/高中学生（Middle/High School）vs 大学生（College）vs 研究生（Postgraduate），检验发展水平的调节作用。 | 中学/高中：Gilbert (1961)、Misset (2012)、Yang & Lin (2004) 等；大学：多数纳入研究；研究生：Komsu (2021)。 |
-> | **地理区域**<br>（Geographical Region） | 北美、东亚、中东与其他国家四类。 | 北美：Brubaker (1971)、Gilbert (1961)、Runco et al. (1992) 等；东亚：Li et al. (2022)、Long & Long (2023)、Yang & Lin (2004) 等；中东：Akpur (2020)、Ulger (2016) 等。 |
+> | **学段**<br>（Student Level） | 中学/高中学生（Middle/High School）vs 大学生（College）vs 研究生（Postgraduate），检验发展水平的调节作用。 | 中学/高中：Gilbert (1961)、Misset (2012)、Yang and Lin (2004) 等；大学：多数纳入研究；研究生：Komsu (2021)。 |
+> | **地理区域**<br>（Geographical Region） | 北美、东亚、中东与其他国家四类。 | 北美：Brubaker (1971)、Gilbert (1961)、Runco et al. (1992) 等；东亚：Li et al. (2022)、Long and Long (2023)、Yang and Lin (2004) 等；中东：Akpur (2020)、Ulger (2016) 等。 |
 > | **测量类型组合**<br>（S/O Combination） | [[Creativity Assessment\|创造力测量]]类型 × 批判性思维测量类型的四类组合，检验同型测量放大相关的交互假设。 | 双主观组合合并相关 $r = 0.509$；双客观组合 $r = 0.317$；创造力客观×批判性思维主观 $r = 0.260$；创造力主观×批判性思维客观 $r = 0.195$。（p. 9） |
 >
 > **图表解读** 本表界定[[Meta-analysis\|元分析]]中两类核心构念及其测量编码、三个调节变量与测量类型组合，为后续亚组与[[Meta-regression\|元回归]]分析提供操作化基准；测量类型的主观-客观编码直接支撑[[Common Method Variance\|共同方法变异]]放大相关的核心解释。（pp. 4–5）
@@ -226,10 +226,10 @@ issuing_organization: ""
 > | Akpur (2020) | NA | College | Middle East | The Critical Thinking Scale（客观） | Marmara Creative Thinking Dispositions Scale（主观） |
 > | AlMahdawi et al. (2021) | 16.5 | Middle/High school | Middle East | [[Internet-based Survey\|online survey]] [[Questionnaire]] for High School Students’ [[Performance Indicators]] in Distance Learning in Chemistry during the COVID-19 Pandemic - Critical Thinking Domain（主观） | Online Survey Questionnaire for High School Students’ Performance Indicators in Distance Learning in Chemistry during the COVID-19 Pandemic - Creativity and Innovation Domain（主观） |
 > | Álvarez-Huerta et al. (2022) | 20.35 | College | Other countries | [[Critical Thinking Disposition]] Scale (Spanish adaptation)（主观） | Creative [[Self-Efficacy]] Instrument（主观） |
-> | Anderson & Beach (2022) | 14.5 | Middle/High school | North America | Student MetaSkills Survey - Critical Thinking Domain（主观） | Student MetaSkills Survey - Creativity Domain（主观） |
+> | Anderson and Beach (2022) | 14.5 | Middle/High school | North America | Student MetaSkills Survey - Critical Thinking Domain（主观） | Student MetaSkills Survey - Creativity Domain（主观） |
 > | Brubaker (1971) | NA | College | North America | The Critical Thinking Scale（客观） | Creative Personality Scale（主观） |
 > | Egger et al. (1997) | NA | College | North America | Written analysis provided by students assessed using a critical thinking rubric（客观） | Creation of Product Design（客观） |
-> | Gadzella & Penland (1995) | NA | College | North America | [[Watson-Glaser Critical Thinking Appraisal\|WGCTA]]（客观） | 16 Personality Factor Creativity scale（主观） |
+> | Gadzella and Penland (1995) | NA | College | North America | [[Watson-Glaser Critical Thinking Appraisal\|WGCTA]]（客观） | 16 Personality Factor Creativity scale（主观） |
 > | Gibson et al. (1968) | NA | College | North America | WGCTA（客观） | [[Alternate Uses Test]]（客观） |
 > | Gilbert (1961) | NA | Middle/High school | North America | WGCTA（客观） | [[Alternate Uses Test]]（客观） |
 > | Gilbert (1961) | NA | Middle/High school | North America | WGCTA（客观） | Guilford Associational Fluency Test（客观） |
@@ -242,9 +242,9 @@ issuing_organization: ""
 > | Komsu (2021) | 24.5 | Postgraduate | Middle East | UF/EMI Critical Thinking Disposition Scale（主观） | Kaufman Domains of Creativity Scale - Academic Creativity sub-dimension (Investigative Creativity)（主观） |
 > | Komsu (2021) | 24.5 | Postgraduate | Middle East | UF/EMI Critical Thinking Disposition Scale（主观） | Kaufman Domains of Creativity Scale - Academic Creativity sub-dimension (Analytical Creativity)（主观） |
 > | Li et al. (2022) | NA | College | East Asia | 4C Skills – Critical Thinking Domain（主观） | 4C Skills - Creativity Domain（主观） |
-> | Ling & Loh (2020) | 17.5 | Middle/High school | East Asia | [[Cornell Critical Thinking Test\|CCTT]] (modified)（客观） | Creativity Selected Elements Questionnaire (modified)（主观） |
-> | Long & Long (2023) | 19.08 | College | East Asia | Critical Thinking Scale（主观） | Creative Self-Efficacy Scale（主观） |
-> | Long & Long (2023) | 19.08 | College | East Asia | Critical Thinking Scale（主观） | Creativity Scale（主观） |
+> | Ling and Loh (2020) | 17.5 | Middle/High school | East Asia | [[Cornell Critical Thinking Test\|CCTT]] (modified)（客观） | Creativity Selected Elements Questionnaire (modified)（主观） |
+> | Long and Long (2023) | 19.08 | College | East Asia | Critical Thinking Scale（主观） | Creative Self-Efficacy Scale（主观） |
+> | Long and Long (2023) | 19.08 | College | East Asia | Critical Thinking Scale（主观） | Creativity Scale（主观） |
 > | Lu et al. (2023) | 20.13 | College | East Asia | Critical Thinking Disposition Scale（主观） | Creative Self-Efficacy Scale（主观） |
 > | Lu et al. (2023) | 20.13 | College | East Asia | Critical Thinking Disposition Scale（主观） | [[Creative Achievement Questionnaire]]（主观） |
 > | Misset (2012) | NA | Middle/High school | North America | CCTT（客观） | TTCT - Verbal Fluency（客观） |
@@ -263,7 +263,7 @@ issuing_organization: ""
 > | Silva et al. (2023) | 21.4 | College | Other countries | Critical Thinking Disposition Scale（主观） | Critical and Creative Thinking Test – Originality（客观） |
 > | Ulger (2016) | 21.74 | College | Middle East | CCTDI（主观） | TTCT（客观） |
 > | Wechsler et al. (2018) | 21.35 | College | Other countries | PENCRISAL Critical Thinking Test（客观） | Verbal Creative Thinking (based on TTCT - Verbal)（客观） |
-> | Yang & Lin (2004) | 18 | Middle/High school | East Asia | WGCTA（客观） | Chopsticks Creativity Test（客观） |
+> | Yang and Lin (2004) | 18 | Middle/High school | East Asia | WGCTA（客观） | Chopsticks Creativity Test（客观） |
 > | Yurt (2024) | 21.48 | College | Middle East | Critical Thinking Disposition Scale（主观） | Marmara Creative Thinking Disposition Scale（主观） |
 >
 > 注：CCTDI = 加州批判性思维倾向问卷（California Critical Thinking Disposition Inventory）；CCTT = 康奈尔批判性思维测验（Cornell Critical Thinking Test）；TTCT = 托兰斯创造性思维测验（Torrance Tests of Creative Thinking）；WGCTA = 沃森-格拉泽批判性思维评价（Watson-Glaser Critical Thinking Appraisal）。表中测量名称、主客观编码与数值按原文 Table 1 复刻；原文报告 51 个估计嵌套于 29 项研究（总样本 $N = 12{,}548$），PDF 文本层可读取 42 行。Egger et al. (1997) 行在原文中即以该文献编号标注对应创业模拟研究。（pp. 5–6）

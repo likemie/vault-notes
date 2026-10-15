@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Research Learning Communities
@@ -78,7 +78,7 @@ updated: 2026-10-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **研究学习共同体（Research Learning Communities, RLC）**是由伦敦大学学院教育学院[[Chris Brown\|克里斯·布朗]]（[[Chris Brown]]）主持研发的循证专业发展干预模型，旨在通过跨校专业学习网络与结构化转译支架，协助中小学规模化推进[[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP）。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 161)]]
+> **研究学习共同体（Research Learning Communities, RLC）** 是由伦敦大学学院教育学院[[Chris Brown\|克里斯·布朗]]（[[Chris Brown]]）主持研发的循证专业发展干预模型，旨在通过跨校专业学习网络与结构化转译支架，协助中小学规模化推进[[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP）。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 161)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 始于 2014 年，单轮项目以一学年为完整实施周期，涵盖跨学年的持续跟踪与终期评估。

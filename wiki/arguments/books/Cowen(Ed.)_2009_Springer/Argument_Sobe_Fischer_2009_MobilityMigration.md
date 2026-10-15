@@ -93,7 +93,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: completed
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-16
 ---
 # Argument_Sobe_Fischer_2009_MobilityMigration
 
@@ -382,7 +382,7 @@ updated: 2026-10-10
 > [!citation-card] 整合知识系统与参与公平的[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]
 > [[Thomas S. Popkewitz|波普科维茨]]和林德布拉德建议我们从[[Knowledge Questions|知识问题]]式与公平-参与问题式双重视角切入教育包容与排斥。后者关注个体与群体在教育与社会实践中的准入与代表性，强调国家作为利益驱动的主体；前者则聚焦于判定何为得体与失范、美德与缺陷的文化推理与实践系统。将这两种问题式结合起来是一项艰巨挑战；然而，考察学校赖以运作的空间实践，正是推进这一议程极富成果的路径。（pp. 367–368）
 >
-> *Popkewitz & Lindblad (2000) recommend that we approach the issue of educational inclusion and exclusion as involving both a problematic of knowledge and an equity-participation problematic... To join these two problematics is a formidable analytic challenge; however, we propose that looking at the spatial practices within which and by which schools operate is one productive way to undertake such a project.*
+> *Popkewitz and Lindblad (2000) recommend that we approach the issue of educational inclusion and exclusion as involving both a problematic of knowledge and an equity-participation problematic... To join these two problematics is a formidable analytic challenge; however, we propose that looking at the spatial practices within which and by which schools operate is one productive way to undertake such a project.*
 
 ---
 

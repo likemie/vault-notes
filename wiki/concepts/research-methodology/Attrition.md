@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Attrition
@@ -84,7 +84,7 @@ updated: 2026-10-15
 > [!def] 概念定义
 > **实验流失（Attrition / Experimental Mortality）**，亦称**样本流失**或**受试脱落**，是指在教育实验或纵向[[Cohort Study\|追踪研究]]进行期间，部分参与者因转学、缺勤、失去动机、主动放弃或行政失联等原因中途退出，导致最终进入数据分析的样本（Analytic Sample）不再等同于初始[[Random Assignment\|随机分配]]样本的现象([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 333–334]]; [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 1327]])。
 >
-> 流失的核心破坏力在于：**退出极少是随机发生的**。脱落者与留守者通常在学业基础、家庭支持与动机水平上存在系统性差异，从而破坏了随机分配（Random Assignment）所建立的组间同质性，使原本严密的[[Randomised Controlled Trials\|随机对照试验]]（RCT）退化为带有自选择偏误的[[Quasi-Experimental Designs\|准实验设计]]。在美国教育部 [[What Works Clearinghouse\|WWC]] 审查体系中，流失通过**整体流失率（Overall Attrition）**与**差异流失率（Differential Attrition）**构建二维边界模型进行刚性因果门控审查([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
+> 流失的核心破坏力在于：**退出极少是随机发生的**。脱落者与留守者通常在学业基础、家庭支持与动机水平上存在系统性差异，从而破坏了随机分配（Random Assignment）所建立的组间同质性，使原本严密的[[Randomised Controlled Trials\|随机对照试验]]（RCT）退化为带有自选择偏误的[[Quasi-Experimental Designs\|准实验设计]]。在美国教育部 [[What Works Clearinghouse\|WWC]] 审查体系中，流失通过**整体流失率（Overall Attrition）** 与**差异流失率（Differential Attrition）** 构建二维边界模型进行刚性因果门控审查([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
 
 > [!concept-lens] 效度视角与方法学定位
 > - **[[Internal Validity\|内部效度]]的核心威胁** 流失不仅使[[Sample Size Determination\|样本量]]缩小，更直接动摇了内部效度（Internal Validity）。两组在实验结束后的表现差异，可能完全源于“谁留下来了”而非“干预是否有效”。
@@ -126,7 +126,7 @@ ight|$$
 > 3. **宽容边界（Liberal Boundary）vs 保守边界（Conservative Boundary）**
 >    - **宽容边界（Liberal Curve）** 假定流失主要由与干预内容无关的外生因素（如学区自然家庭搬迁）引起；允许较高的临界差异流失率；
 >    - **保守边界（Conservative Curve）** 假定流失可能直接由干预本身的不良体验、繁重负担或学生抵触引起；对差异流失率设定极其严苛的上限。
->    - **裁定分流规则** 处于边界之下的研究被判定为**低流失 [[Randomised Controlled Trials\|RCT]]（Low Attrition）**直接维持一级无保留达标；跨越边界的研究被判定为**高流失 RCT（High Attrition）**，必须重新核验分析样本在基线前测上的等值性（[[Baseline Standardized Mean Difference\|Baseline Equivalence]]）。
+>    - **裁定分流规则** 处于边界之下的研究被判定为**低流失 [[Randomised Controlled Trials\|RCT]]（Low Attrition）** 直接维持一级无保留达标；跨越边界的研究被判定为**高流失 RCT（High Attrition）**，必须重新核验分析样本在基线前测上的等值性（[[Baseline Standardized Mean Difference\|Baseline Equivalence]]）。
 
 ---
 

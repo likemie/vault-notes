@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-21
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 # Directional and Non-directional Hypotheses
 
@@ -88,4 +88,4 @@ updated: 2026-09-17
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al. (2011, Ch.7)]] — 系统阐述方向性/非方向性假设的定义、与单尾/双尾检验的对应关系及各自适用情境
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — Ch.7 将方向性作为好假设的关键特征之一，并提供方向性词汇列表
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — Ch.7 将方向性作为好假设的关键特征之一，并提供方向性词汇列表

@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-09-13
+updated: 2026-10-16
 ---
 
 # Education Reform Initiative
@@ -53,7 +53,7 @@ updated: 2026-09-13
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 土耳其教育改革倡议（土耳其语：Eğitim Reformu Girişimi, ERG；英文：Education Reform Initiative）是设于萨班哲大学（Sabancı University）的独立政策研究与[[Educational Brokerage Agency\|知识中介机构]]。其最大体制特色在于**完全由土耳其领先的民间慈善基金会联合出资维系**，在政府既不设立官方中介亦不提供直接经常性资助的政治环境下，依托大学自治地位与民间社会资本，独立向政策制定者、教育实践者与公众提供基于实证证据的教育监测与改革方案。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]将其列为“独立慈善基金型”中介中少有的非西方、非英美代表案例。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]])
+> 土耳其教育改革倡议（土耳其语：Eğitim Reformu Girişimi, ERG；英文：Education Reform Initiative）是设于萨班哲大学（Sabancı University）的独立政策研究与[[Educational Brokerage Agency\|知识中介机构]]。其最大体制特色在于**完全由土耳其领先的民间慈善基金会联合出资维系**，在政府既不设立官方中介亦不提供直接经常性资助的政治环境下，依托大学自治地位与民间社会资本，独立向政策制定者、教育实践者与公众提供基于实证证据的教育监测与改革方案。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]将其列为“独立慈善基金型”中介中少有的非西方、非英美代表案例。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]])
 
 > [!org-context] 机构背景与设立渊源
 > - **成立时间 / 依托单位** 成立于 2003 年，常设于伊斯坦布尔萨班哲大学政策研究中心体系内。
@@ -89,7 +89,7 @@ updated: 2026-09-13
 ## 知识治理视阈下的学理意义
 
 > [!finding-cards] ERG 的制度创新价值
-> - **民间社会资本支撑的中介自主性** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]指出，英格兰的 [[Education Endowment Foundation\|EEF]] 依托留本基金，而土耳其 ERG 则展示了另一种独立形态：在国家政权更迭频繁、政治极化且公共研发资助匮乏的社会环境中，由多家具有公信力的民间基金会联合出资，成功建立起具备高度独立性与跨越选举周期韧性的[[Knowledge Mediation\|知识中介]]实体。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]])
+> - **民间社会资本支撑的中介自主性** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]指出，英格兰的 [[Education Endowment Foundation\|EEF]] 依托留本基金，而土耳其 ERG 则展示了另一种独立形态：在国家政权更迭频繁、政治极化且公共研发资助匮乏的社会环境中，由多家具有公信力的民间基金会联合出资，成功建立起具备高度独立性与跨越选举周期韧性的[[Knowledge Mediation\|知识中介]]实体。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]])
 > - **对冲威权科层决策的技术工具** 在中央集权的官僚体制下，ERG 扮演了不可替代的“外部客观审议者”角色，通过公开严谨的实证数据迫使政府回应教育公平与质量差距等深层矛盾。
 > - **大学空间作为保护性制度温床** 将机构设于顶尖研究型私立大学（萨班哲大学），既提供了[[Academic Freedom\|学术自由]]与研究设施保障，又使机构在面对外部政治压力时享有一层体制保护盾。
 
@@ -110,4 +110,4 @@ updated: 2026-09-13
 > | [[Education Endowment Foundation]] | 机构事实 | 国际同类对比；EEF 依托英国政府巨额留本基金，ERG 依托本土民间基金会联合资助，同属慈善独立型中介谱系。 |
 > | [[Australian Education Research Organisation]] | 机构事实 | 同为面向国家教育系统提供证据服务的实体，AERO 具官方独立法制保障，ERG 则根植于公民社会与大学土壤。 |
 > | [[Venture Philanthropy]] | 概念 | ERG 展现了公益慈善基金会如何通过战略性注资教育智库，介入并塑造国家级教育政策[[Dialogue in Education\|对话]]。 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] | 论证条目 | 以 ERG 为例论证在缺乏政府主动资助的环境下，民间社会力量与独立大学如何支撑具有公信力的长期中介组织。 |
+> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 以 ERG 为例论证在缺乏政府主动资助的环境下，民间社会力量与独立大学如何支撑具有公信力的长期中介组织。 |

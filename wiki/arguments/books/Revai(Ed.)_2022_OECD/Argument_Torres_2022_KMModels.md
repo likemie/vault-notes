@@ -83,7 +83,7 @@ sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch02_Torres_2022|Ch02_Torres_2022]]"
 status: draft
 created: 2026-09-12
-updated: 2026-09-13
+updated: 2026-10-16
 ---
 # Argument_Torres_2022_KMModels
 
@@ -100,7 +100,7 @@ updated: 2026-09-13
 > [!concept-lens] 阅读透镜
 > - **对象** 卫生、社会政策与教育领域被高频引用的四大经典知识动员模型——Lavis et al. (2003) 的[[Knowledge Transfer\|知识转移]]战略框架、Graham et al. (2006) 的知识到行动框架（Knowledge-to-Action, KTA）、Levin (2004, 2013) 的[[Research Knowledge Mobilisation Model\|研究知识动员模型]]（Research Knowledge Mobilisation, RKM）、Gough et al. (2011, 2019) 的[[Research Utilization\|证据使用]]生态框架，以及四组新兴微观机制模型——Langer et al. (2016) 的[[Evidence-Informed Decision-Making\|证据知情决策]]行为改变框架（Evidence-Informed Decision-Making, EIDM）、Cain (2015) 的教师三种声音理论、Rickinson et al. (2020) 的[[Quality Use of Research Evidence Framework\|高质量研究使用框架]]（[[Quality Use of Research Evidence Framework\|Quality Use of Research Evidence]], QURE）、Révai (2020) 的证据-[[Innovation Ecosystem\|创新生态]]知识动力学模型。
 > - **张力** 过程-产品（Process-Product）的单向还原论 vs 复杂自适应系统的自组织与双向循环；学术研究证据的排他性崇拜 vs 教师专业经验与多元知识源泉的包容性吸纳。
-> - **贡献** [[José Manuel Torres\|何塞·曼努埃尔·托雷斯]]（José Manuel Torres）运用 Best & Holmes (2010) 三代透镜构建首个跨领域知识动员模型的系统性[[Typological Analysis\|类型学分析]]矩阵，揭示既有框架中功能人为割裂与终极目标隐匿的盲区，为全书实证调查与未来生态治理指明方向。
+> - **贡献** [[José Manuel Torres\|何塞·曼努埃尔·托雷斯]]（José Manuel Torres）运用 Best and Holmes (2010) 三代透镜构建首个跨领域知识动员模型的系统性[[Typological Analysis\|类型学分析]]矩阵，揭示既有框架中功能人为割裂与终极目标隐匿的盲区，为全书实证调查与未来生态治理指明方向。
 
 ---
 
@@ -115,7 +115,7 @@ updated: 2026-09-13
 > | **[[Knowledge Mobilisation\|知识动员]]** | 作为核心分析对象，剖析研究知识在生产、中介与政策/实践使用之间流转的多维机制。（pp.34–35） |
 
 > [!warrant]- 理论如何支撑论证
-> 借助 Best & Holmes (2010) 的三代分类法确立横向比照的分析基准；通过将各模型映射至三代谱系，阐明概念演进并未形成统一普适的模型，而是反映了对系统复杂性认识的不断深化。继而引入微观决策机制（Langer et al., 2016）与教师认知视角（Cain, 2015），弥补宏观系统模型在行动者微观动机与知识[[Heterogeneity\|异质性]]解释上的不足，合乎逻辑地推导出面向全系统战略协同的政策建议。（pp.34–37, 51–52）
+> 借助 Best and Holmes (2010) 的三代分类法确立横向比照的分析基准；通过将各模型映射至三代谱系，阐明概念演进并未形成统一普适的模型，而是反映了对系统复杂性认识的不断深化。继而引入微观决策机制（Langer et al., 2016）与教师认知视角（Cain, 2015），弥补宏观系统模型在行动者微观动机与知识[[Heterogeneity\|异质性]]解释上的不足，合乎逻辑地推导出面向全系统战略协同的政策建议。（pp.34–37, 51–52）
 
 ---
 
@@ -165,7 +165,7 @@ updated: 2026-09-13
 
 #### 1. 知识动员模型经历线性输出、关系互动与复杂系统三大认知范式的阶梯式演变
 
-基于 Best & Holmes (2010) 针对知识与行动联结提出的分类体系，学界对知识动员的理解被系统解构为三大认知范式脉络：（pp.35–37）
+基于 Best and Holmes (2010) 针对知识与行动联结提出的分类体系，学界对知识动员的理解被系统解构为三大认知范式脉络：（pp.35–37）
 
 > [!phase] 知识动员模型的三大认知范式谱系（Best & Holmes, 2010; OECD, 2000）
 >
@@ -296,7 +296,7 @@ Gough et al. (2011, 2018, 2019) 历经近十年迭代，将教育知识动员推
 
 #### 5. 四大主流知识动员模型的多维类型学横向比照
 
-基于上述个案解构，借助 Best & Holmes (2010) 透镜构建了系统性的横向对比矩阵，深入剖析了四大模型在[[Epistemology|认识论]]与组织机制上的阶梯式演进：（pp.43–46, Table 2.1）
+基于上述个案解构，借助 Best and Holmes (2010) 透镜构建了系统性的横向对比矩阵，深入剖析了四大模型在[[Epistemology|认识论]]与组织机制上的阶梯式演进：（pp.43–46, Table 2.1）
 
 > [!row-contrast] 跨领域主流知识动员模型深度横向比照（Table 2.1, pp.43–44）
 > | 模型名称与代表文献 | 所属领域与学术影响 | Best & Holmes 代际归属 | 核心构件与交互形态 | 行动者角色与活动分配 | 核心理论贡献与突破 |

@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Between-Study Variance
@@ -91,7 +91,7 @@ updated: 2026-10-15
 ### 1. DerSimonian-Laird (DL) 经典矩估计法
 
 > [!formula-step] DerSimonian-Laird 封闭解公式
-> DerSimonian & Laird (1986) 提出了最经典的非迭代矩估计法：
+> DerSimonian and Laird (1986) 提出了最经典的非迭代矩估计法：
 >
 > $$\hat{\tau}_{\text{DL}}^2 = \max\left(0, \; \frac{Q - (k - 1)}{\sum w_i - \frac{\sum w_i^2}{\sum w_i}}\right)$$
 >
@@ -105,7 +105,7 @@ updated: 2026-10-15
 ### 2. 现代迭代估计法（REML 与 Paule-Mandel）
 
 > [!math-principle] 限制性最大似然估计（REML）
-> 现代统计学（Viechtbauer, 2005）推荐在连续型数据中使用**限制性最大似然法（REML）**或 **Paule-Mandel (PM) 经验贝叶斯法**。相比 DL 矩估计法，REML 能够有效避免在极小样本或高度偏态分布下低估 $\tau^2$ 的缺陷，是 R · `metafor` 包中的默认标准算法。
+> 现代统计学（Viechtbauer, 2005）推荐在连续型数据中使用**限制性最大似然法（REML）** 或 **Paule-Mandel (PM) 经验贝叶斯法**。相比 DL 矩估计法，REML 能够有效避免在极小样本或高度偏态分布下低估 $\tau^2$ 的缺陷，是 R · `metafor` 包中的默认标准算法。
 
 ---
 

@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Ecological Systems Theory
@@ -59,7 +59,7 @@ updated: 2026-10-08
 > - **知识位置** 发展心理学与教育生态学奠基之作，由[[Urie Bronfenbrenner\|尤里·布朗芬布伦纳]]于 1970 年代奠定（Bronfenbrenner, 1979），并在 1990 年代与斯蒂芬·J·塞西（Stephen J. Ceci）发展出整合历时系统（Chronosystem）的成熟模型（Bronfenbrenner & Ceci, 1994）。在教育政策领域，[[Argument_Serpell_2020_EP\|Serpell (2020)]] 将其时间生态构想[[Creativity\|创造性]]移植为[[Policymaking Chronosystem\|政策制定时间系统]]。
 
 > [!claim] 核心主张
-> **生态系统理论（Ecological Systems Theory）**主张：个体的发展绝非生物遗传本能的机械展开或外部刺激的单向印刻，而是处于发展中的主动个体与其所栖居的、由内向外层层嵌套的多维环境系统之间持续不断的互惠性[[Interaction Effect\|交互作用]]过程。该环境体系由五大同心圆子系统构成：**微系统（Microsystem）**、**中系统（Mesosystem）**、**外系统（Exosystem）**、**宏系统（Macrosystem）**以及支配所有系统历史演进节律的**历时系统（Chronosystem）**。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 42)]]
+> **生态系统理论（Ecological Systems Theory）** 主张：个体的发展绝非生物遗传本能的机械展开或外部刺激的单向印刻，而是处于发展中的主动个体与其所栖居的、由内向外层层嵌套的多维环境系统之间持续不断的互惠性[[Interaction Effect\|交互作用]]过程。该环境体系由五大同心圆子系统构成：**微系统（Microsystem）**、**中系统（Mesosystem）**、**外系统（Exosystem）**、**宏系统（Macrosystem）** 以及支配所有系统历史演进节律的**历时系统（Chronosystem）**。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 42)]]
 
 > [!citation-card] 生态系统的时间演化维度
 > 借用布朗芬布伦纳与塞西关于人类发展的理论，政策演进并非发生在真空中，而是具有特定的时间系统，即由社会历史环境以及在生命历程中[[Emergence\|涌现]]并激发变革的环境事件所决定的条件集合。将时间系统概念引入政策思考，能够凸显出政策兼具稳定性与变革性，并且跨越历史时间与文化空间的诸多因素相互交织共同影响着政策发展。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 42)]]

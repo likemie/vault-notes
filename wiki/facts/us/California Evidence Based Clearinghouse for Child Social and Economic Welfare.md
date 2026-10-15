@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # California Evidence Based Clearinghouse for Child Social and Economic Welfare
@@ -59,7 +59,7 @@ updated: 2026-10-15
 > [!info] 机构定位与运营概况
 > **加利福尼亚儿童福利循证清算中心（California Evidence-Based [[Educational Evidence Clearinghouses\|Clearinghouse]] for Child Welfare, CEBC）** 是由加利福尼亚州社会服务部（CDSS）于 2006 年资助成立的公共部门证据清算中心，旨在为儿童福利系统、教育工作者与社区机构提供经过科学实证检验的干预项目数据库([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 7]])。
 >
-> CEBC 覆盖儿童福利、心理健康、行为发展与教育干预等多领域。当前处于**活跃运营（Active）**状态，官方网站为 [cebc4cw.org](https://www.cebc4cw.org)，持续维护包含数百项干预方案的“科学评级量表（Scientific [[Rating Scale]]）”。
+> CEBC 覆盖儿童福利、心理健康、行为发展与教育干预等多领域。当前处于**活跃运营（Active）** 状态，官方网站为 [cebc4cw.org](https://www.cebc4cw.org)，持续维护包含数百项干预方案的“科学评级量表（Scientific [[Rating Scale]]）”。
 
 ---
 
@@ -77,7 +77,7 @@ updated: 2026-10-15
 
 > [!feature] 评价范围与项目入库
 > - **样本贡献** 在 Wadhwa et al. 的教育项目池中，CEBC 贡献了 **11 个教育干预项目**（聚焦于涉入福利系统的儿童与青少年的学业促进项目）([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 16]])。
-> - **评估对象级别** 仅针对具备明确项目文档、操作手册与培训体系的**具名项目（Named Programs）**实施整体评级，不为单项研究独立发布评级([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8, 13]])。
+> - **评估对象级别** 仅针对具备明确项目文档、操作手册与培训体系的**具名项目（Named Programs）** 实施整体评级，不为单项研究独立发布评级([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8, 13]])。
 
 ---
 

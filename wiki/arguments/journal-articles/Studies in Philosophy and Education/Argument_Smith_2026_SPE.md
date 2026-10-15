@@ -174,12 +174,12 @@ issuing_organization: ""
 > | 比较维度 | 计算器隐喻（The Calculator Picture） | 雇佣私厨隐喻（The Personal Chef Picture） |
 > |---|---|---|
 > | **功能实质** | 增强主体固有的运算能力，帮助人更容易计算更大的数字。 | 完全接管核心实践，做出了美味佳肴，却剥夺了雇主掌握烹饪技艺的机会。（p.1） |
-> | **正义视阈** | 局限于**分配认识正义**（人人有工具）与**诠释正义**（人人懂概念）。（pp.2–3） | 聚焦**[[Formative Epistemic Injustice\|成长性认识正义]]**（保护学生成长为成熟求知者的发展权）。（pp.3–4） |
+> | **正义视阈** | 局限于**分配认识正义**（人人有工具）与**诠释正义**（人人懂概念）。（pp.2–3） | 聚焦 **[[Formative Epistemic Injustice\|成长性认识正义]]**（保护学生成长为成熟求知者的发展权）。（pp.3–4） |
 > | **学生状态** | 学生依然是主动思考者，能力借助工具得到延伸。 | 学生退化为被动享用者，自身陷入[[Cognitive Deskilling\|认知去技能化]]，缺乏独立思考与创作经验。（p.3） |
 > | **教学导向** | 鼓励把任务外包给算法以换取高效产出。 | 建立教学边界，严禁将最具育人价值的核心工序交给算法代劳。（pp.9–11） |
 
 > [!theory-position] 认识不正义视阈的教育学转向：确立成长性认识不正义
-> Fricker 的理论无法涵盖教育情境中能力尚未成型者的培育问题。A. C. 尼古拉迪斯（A. C. Nikolaidis, 2021）指出，传统范式缺乏教育学维度，成长性认识不正义指教育者或教育体制封锁或限制了学习者潜在的发展路径。Martin (2018) 最早提出该概念以解释民主审议素养的剥夺：学校不仅是传授技能、习惯与价值观的场所，更是学生**练习（Practice）**行使交流权利的[[Champ|场域]]。Nikolaidis 进一步将其扩展至“一切涉及[[Epistemic Malformation|认知畸变]]（Malformation）与认识压迫的教育过错”，例如教师仅仅因为学生回答时表现出自信等无关认识的因素而予以特权偏袒，使学生误以为自己已经掌握而放弃深入探究。（pp.4–5）
+> Fricker 的理论无法涵盖教育情境中能力尚未成型者的培育问题。A. C. 尼古拉迪斯（A. C. Nikolaidis, 2021）指出，传统范式缺乏教育学维度，成长性认识不正义指教育者或教育体制封锁或限制了学习者潜在的发展路径。Martin (2018) 最早提出该概念以解释民主审议素养的剥夺：学校不仅是传授技能、习惯与价值观的场所，更是学生**练习（Practice）** 行使交流权利的[[Champ|场域]]。Nikolaidis 进一步将其扩展至“一切涉及[[Epistemic Malformation|认知畸变]]（Malformation）与认识压迫的教育过错”，例如教师仅仅因为学生回答时表现出自信等无关认识的因素而予以特权偏袒，使学生误以为自己已经掌握而放弃深入探究。（pp.4–5）
 
 > [!decisions] 成长性认识不正义的三重[[Operationalization|操作化]]检验标准
 > 史密斯综合 Martin 与 Nikolaidis 的理论，构建了裁定教育技术是否构成成长性认识不正义的三重检验模型（pp.4–5）：
@@ -252,7 +252,7 @@ issuing_organization: ""
 > | 写作学实证研究 | 核心实证发现与认知机制 | 对 AI 提纲外包的批判意涵 |
 > |---|---|---|
 > | **De Smet et al. (2014)** | 米卢·J·R·德斯梅特等（Milou J. R. De Smet et al., 2014）证实，电子提纲策略显著改善了学生的终稿质量，但这引发了机制追问：收益究竟来自学生在大脑中主动组织信息的深度加工，还是仅仅来自获得了一条通往终点的清晰省力路径？（pp.7–8） | 如果仅仅是后者，让 AI 生成提纲确实更高效；但若是前者，外包提纲便会造成毁灭性的认知剥夺。 |
-> | **Piolat & Roussey (1996)** | 安妮·皮奥拉与让-伊夫·鲁塞（Annie Piolat & Jean-Yves Roussey, 1996）证实，在草稿中列出清晰组织结构（如编号正式大纲）的学生，其最终论文成绩显著高于不列提纲者。列提纲促使作者将大脑中交织错杂、非线性的想法**线性化（Linearize）**，转化为环环相扣的连贯论证。（p.8） | 拟定提纲是大脑主动对知识进行分层、归纳和因果梳理的过程；让 AI 代劳提纲，学生就失去了锻炼将非线性想法转化为连贯逻辑的高级思维图式。 |
+> | **Piolat and Roussey (1996)** | 安妮·皮奥拉与让-伊夫·鲁塞（Annie Piolat & Jean-Yves Roussey, 1996）证实，在草稿中列出清晰组织结构（如编号正式大纲）的学生，其最终论文成绩显著高于不列提纲者。列提纲促使作者将大脑中交织错杂、非线性的想法**线性化（Linearize）**，转化为环环相扣的连贯论证。（p.8） | 拟定提纲是大脑主动对知识进行分层、归纳和因果梳理的过程；让 AI 代劳提纲，学生就失去了锻炼将非线性想法转化为连贯逻辑的高级思维图式。 |
 
 > [!implication] 提纲代劳的认知致残与自加信度赤字
 > 如果学生从未亲历把杂乱念头理顺的认知挣扎，就永远学不会如何构建复杂论点，一旦离开大模型就无法独立写作。教师若鼓励学生跳过提纲拟定并直接套用 AI 大纲，学生不仅失去了练习组织复杂思想的关键机会，更会深信自己无法独立驾驭非线性论证结构，从而陷入严重的自加信度赤字（Self-Imposed Credibility Deficit）。（pp.7–8）
@@ -334,7 +334,7 @@ issuing_organization: ""
 > [!citation-card] 提纲拟定过程中的思想“线性化”认知价值
 > 写作学者早已指出，列提纲是一个极其重要的认知过程。安妮·皮奥拉与让-伊夫·鲁塞（Annie Piolat & Jean-Yves Roussey）的研究指出，展现学生规划各思想之间如何相互关联的组织化草稿，能够让学生将大脑中的想法“线性化”为有力的文章。列提纲对执行这一过程的人本身具有积极的认知成效。因此，那些被告知将提纲任务卸载给生成式 AI 的学生，彻底错失了这种宝贵的学习机会。（p.8）
 >
-> *Piolat & Roussey (1996) suggest organized drafts that show students' plans for how ideas are related to one another allow students to linearize their ideas into effective essays. Outlining has a positive cognitive outcome for the person doing the outlining. Thus, students who are told to offload the task of outlining to GenAI miss out on this learning.*
+> *Piolat and Roussey (1996) suggest organized drafts that show students' plans for how ideas are related to one another allow students to linearize their ideas into effective essays. Outlining has a positive cognitive outcome for the person doing the outlining. Thus, students who are told to offload the task of outlining to GenAI miss out on this learning.*
 
 ---
 

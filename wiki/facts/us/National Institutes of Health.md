@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # National Institutes of Health
@@ -105,7 +105,7 @@ updated: 2026-10-15
 > - **1948–1960s — 战后主动动员与院外资助体系确立** 1948 年资助约 120 所高校（前 10 位医学院占据约 75% 经费）；高级官员弗雷德·斯通差旅逾 20 万英里动员学者申报，确立了以独立同行评审委员会（Study Sections）为核心的 R01 独立研究员资助机制与薪资报销渠道，奠定了分布式资助支柱地位。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 7–8, 14)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > - **1970s–1990s — 资助机制转向、法定[[Technology Transfer|技术转移]]与[[Human Genome Project|人类基因组计划]]** 独立培训项目缩减，研究生与博士后普遍依赖课题助研津贴；1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》与 1986 年《联邦技术转移法》（FTTA）赋予 NIH 及其科研人员通过[[Cooperative Research and Development Agreement|合作研究与开发协议]]（CRADA）将公共资助专利直接授权私营药企商业化的法定权力，促使 NIH 全面嵌入生物医药商业化网络；联合能源部（[[Department of Energy]], DOE）启动并攻克[[Human Genome Project|人类基因组计划]]（HGP）。[[Argument_Block_2008_PS|(Block, 2008, pp. 176–178)]]; [[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 18, 20)]]
 > - **1998–2002 — 国会预算翻倍计划及其体制后遗症** 国会推行五年预算翻倍（从 1998 年约 130 亿美元增至 2002 年 270 余亿美元）；刺激高校大举借债扩建科研大楼与设立软钱教职，但在翻倍结束后引发课题立项率暴跌（跌破 20%）、项目负责人显著老龄化与医学院偿债危机。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 27–28, 33–34)]]
-> - **2003–2024 — 转化医学创新、主任先锋奖与可重复性反思** 设立国家推进[[Transfer Science|转化科学]]中心（NCATS）跨越临床转化“[[Valley of Death|死亡之谷]]”；创设**主任先锋奖（NIH Director's Pioneer Award）**探索长周期对人资助；同时面对日益严峻的[[Reproducibility Crisis|可重复性危机]]与评审避险倾向。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
+> - **2003–2024 — 转化医学创新、主任先锋奖与可重复性反思** 设立国家推进[[Transfer Science|转化科学]]中心（NCATS）跨越临床转化“[[Valley of Death|死亡之谷]]”；创设**主任先锋奖（NIH Director's Pioneer Award）** 探索长周期对人资助；同时面对日益严峻的[[Reproducibility Crisis|可重复性危机]]与评审避险倾向。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
 > - **2025–2026 — [[Gold Standard Science|黄金标准科学]]行政令、对人赋权与[[Metascience|元科学]]重构** 落实《[[Restoring Gold Standard Science Executive Order|恢复黄金标准科学行政令]]》以推进机器可读与数据复现；依据 2026 年白宫《[[Science A New Golden Age 2026|科学：新的黄金时代]]》战略，推广先锋奖长周期对人资助[[Paradigm|范式]]，依托独立基金会（FNIH）深化[[Accelerating Medicines Partnership|加速药物伙伴关系]]（AMP），并在机构内设立直属院长的法定[[Metascience|元科学]]单元以[[Randomised Controlled Trials|随机对照实验]]优化评审制度。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 28, 31–32, 42)]]
 
 ---

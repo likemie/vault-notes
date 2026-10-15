@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Whole Earth Catalog
@@ -107,4 +107,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 专著第八章深入阐述布兰德《全球概览》对个人计算与无领导互联网的哲学奠基作用，剖析其如何推动技术脱离国家大战略（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著第八章深入阐述布兰德《全球概览》对个人计算与无领导互联网的哲学奠基作用，剖析其如何推动技术脱离国家大战略（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。

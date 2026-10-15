@@ -51,7 +51,7 @@ related_arguments:
 related_facts: []
 status: draft
 created: 2026-07-13
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 # True Experimental Design
 
@@ -70,7 +70,7 @@ updated: 2026-09-17
 
 > [!method-position] 在实验设计谱系中的位置
 > - **与准实验的区分** 唯一的、决定性的区分标准是[[Random Assignment\|随机分配]]——真实验具备完整的随机化，准实验缺失或部分缺失随机化。Smith (1991, p. 215) 指出：随机化在全部[[Variable\|变量]]范围内产生等价性，而匹配只覆盖少数命名变量。
-> - **有效性标准** [[Internal Validity\|内部效度]]最高——Campbell & Stanley (1963) 认为[[Pretest-Posttest Control Group Design\|前后测控制组设计]]能控制所有[[Threats to Internal Validity\|内部效度威胁]]。
+> - **有效性标准** [[Internal Validity\|内部效度]]最高——Campbell and Stanley (1963) 认为[[Pretest-Posttest Control Group Design\|前后测控制组设计]]能控制所有[[Threats to Internal Validity\|内部效度威胁]]。
 > - **不能回答的问题** 高度受控的实验发现能否推广到真实教室和社区（[[Ecological Validity\|生态效度]]）？
 
 > [!method-stack] 方法层级
@@ -130,4 +130,4 @@ updated: 2026-09-17
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — 系统介绍真实验设计的八个[[Necessary and Sufficient Conditions\|必要条件]]、七种主要变体、与准实验的区分标准，以及 Bhadwal & Panda (1991) 印度农村阅读研究的真实验案例。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — 系统介绍真实验设计的八个[[Necessary and Sufficient Conditions\|必要条件]]、七种主要变体、与准实验的区分标准，以及 Bhadwal and Panda (1991) 印度农村阅读研究的真实验案例。

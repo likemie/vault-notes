@@ -55,7 +55,7 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-20
-updated: 2026-08-20
+updated: 2026-10-16
 year: 2022
 doi: ""
 citation_aliases:
@@ -74,7 +74,7 @@ citation_aliases:
 > [!abstract]
 > 分析从三个理论资源出发，三者层层递进：
 
-- **[[Bildung]] 传统** 以 Humboldt(1793)的经典定义——个体与世界之间"最独立的[[Interaction Effect|交互作用]]"——为出发点。Bildung 不是一个"学习结果"，而是一个开放的人格形成过程：它要求时间、反思和容纳歧义的空间。结合 Nordenbo(2002)强调的"主动内核"——Bildung 不能被外部灌输，只能由主体主动参与自身的形成——以及 Masschelein & Ricken(2010)的三维度拆解（自我关系、他者关系、世界关系），Bildung 提供了一个评判算法技术之教育后果的规范性标准(pp.237–239, 246)。
+- **[[Bildung]] 传统** 以 Humboldt(1793)的经典定义——个体与世界之间"最独立的[[Interaction Effect|交互作用]]"——为出发点。Bildung 不是一个"学习结果"，而是一个开放的人格形成过程：它要求时间、反思和容纳歧义的空间。结合 Nordenbo(2002)强调的"主动内核"——Bildung 不能被外部灌输，只能由主体主动参与自身的形成——以及 Masschelein and Ricken(2010)的三维度拆解（自我关系、他者关系、世界关系），Bildung 提供了一个评判算法技术之教育后果的规范性标准(pp.237–239, 246)。
 
 - **Gruschka 的[[Didaktik|教学理论]]** 将教学行动理解为 [[Bildung]]、Erziehung（教育／教养）和 [[Didaktik]]（教学法）三者交织的"整合性星座"。Bildung 是教学的理由和目标——"处理所有从课程内容中[[Emergence|涌现]]的理解问题"(Gruschka, 2019, p.675)；Erziehung 帮助学生在 Bildung 的方向上定向；Didaktik 是教师对"哪部分知识在什么时间点、以什么数量被呈现"的安排(Gruschka, 2019, p.676)。三者不可分割——当数字工具接管了 Didaktik 和反馈的决策权，Bildung 的目标也就随之被重新定义(pp.238–239)。
 
@@ -148,7 +148,7 @@ Humboldt(1793)将 Bildung 定义为"个体与世界之间最独立的[[Interacti
 
 在 Gruschka 的[[Didaktik|教学理论]]中，Bildung 是教学行动——一个由 Bildung、Erziehung 和 [[Didaktik]] 三者交织构成的"整合性星座"——的理由和终极目标。Bildung "处理所有从课程内容中[[Emergence|涌现]]的理解问题"(Gruschka, 2019, p.675)。教学不仅是为了传递知识，更是为了帮助学生朝向 Bildung——即**在与知识内容的接触中形成自身(pp.238–239)**。
 
-Masschelein & Ricken（2010, p.130）将 Bildung 拆解为三重关系，为批判数字工具提供了分析网格(p.246)：
+Masschelein and Ricken（2010, p.130）将 Bildung 拆解为三重关系，为批判数字工具提供了分析网格(p.246)：
 - （1）自我与自身的关系——自我的形成
 - （2）自我与他者的关系——社会性的形成
 - （3）与世界的关系——在世界中的存在
@@ -195,7 +195,7 @@ Masschelein & Ricken（2010, p.130）将 Bildung 拆解为三重关系，为批�
 
 **Bildung 与算法技术之间的张力是结构性的，无法通过技术调整来解决。** Bildung 要求时间、反思和容纳歧义的空间；算法系统要求即时性、确定性和连续的数据流。在算法系统中，思考被视为"干扰变量——因为它需要时间"；而在教育中，"思考是应该在学校中培养的核心行动"(p.238)。
 
-用 Masschelein & Ricken（2010, p.130）的三维度来总结算法技术对 Bildung 的冲击：
+用 Masschelein and Ricken（2010, p.130）的三维度来总结算法技术对 Bildung 的冲击：
 - **自我关系**被框定为赚取积分和金币——个人成就是由算法机器而非负责的教师来评估的
 - **他者关系**被建构为抽象奖励系统中的竞争——没有"言外之意"的沟通，只有一人对另一人的纯粹对比
 - **与世界的关系**被简化为绿红配色方案中的即时对错——真理永远近在手边，而且掌握在设计和编码程序的人手中

@@ -79,7 +79,7 @@ related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
 status: draft
 created: 2026-05-31
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Internal Validity
 
@@ -220,8 +220,8 @@ updated: 2026-10-15
 > [!contrast-table] 内部效度理论命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
-> | **实验控制因果命题** | 实验设计通过排除受试者、处理与程序干扰，保障因果推断无偏性 | 实验室试验、现场随机对照试验、教育干预评估 | Campbell & Stanley (1963); [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]] |
-> | **质性可信重构命题** | 质性探究通过多维真实性、成员核查与三角验证重构可信性表征 | [[Ethnography\|民族志]]田野[[Rich and Thick Description\|深描]]、多[[Case Study\|案例研究]]、[[Interpretive Paradigm\|自然主义探究]] | Lincoln & Guba (1985); LeCompte & Preissle (1993); Hammersley (1992b) |
+> | **实验控制因果命题** | 实验设计通过排除受试者、处理与程序干扰，保障因果推断无偏性 | 实验室试验、现场随机对照试验、教育干预评估 | Campbell and Stanley (1963); [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]] |
+> | **质性可信重构命题** | 质性探究通过多维真实性、成员核查与三角验证重构可信性表征 | [[Ethnography\|民族志]]田野[[Rich and Thick Description\|深描]]、多[[Case Study\|案例研究]]、[[Interpretive Paradigm\|自然主义探究]] | Lincoln and Guba (1985); LeCompte and Preissle (1993); Hammersley (1992b) |
 > | **适切证据协同命题** | 内部效度需与教育情境、涉众文化协同构成“适切研究证据”，打破等级制垄断 | 循证教育政策、[[Quality Use of Research Evidence Framework\|QURE]] 框架研制、复杂学校系统改进 | Nutley et al. (2013); Nelson et al. (2017); [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] |
 
 ---
@@ -273,7 +273,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011, Ch. 10)]] — 经典著作《教育研究方法》第 10 章系统奠定内部效度体系，全面梳理量化内部威胁、质性可信性替代方案（Lincoln & Guba 六策略）、勒孔特真实性维度与哈默斯利三层次。
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 经典研究设计著作第 8 章与第 9 章，系统将[[Threats to Internal Validity\|内部效度威胁]]划分为受试者、处理与程序三维，并阐明[[Qualitative Research\|质性研究]]中建立可信性的研究者反思规程。
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 经典研究设计著作第 8 章与第 9 章，系统将[[Threats to Internal Validity\|内部效度威胁]]划分为受试者、处理与程序三维，并阐明[[Qualitative Research\|质性研究]]中建立可信性的研究者反思规程。
 > - [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review\|系统综述]]提出 [[Quality Use of Research Evidence Framework\|QURE]] 框架，将内部效度重新定位于“适切研究证据”的严谨性维度，批判单一黄金标准等级制，确立适切证据与深思熟虑参与的双核互构模型。
 
 ---

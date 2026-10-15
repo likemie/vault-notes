@@ -35,7 +35,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-04'
-updated: 2026-09-11
+updated: 2026-10-16
 ---
 ## 简介
 
@@ -57,7 +57,7 @@ updated: 2026-09-11
 
 > [!success] 主要贡献
 > - [[Miyake's Unity and Diversity Framework of Executive Function\|miyake-unity-diversity-framework]] — EF 的三成分统一性与多样性模型，成为[[Executive Function\|执行功能]]研究的基础框架
-> - 该框架被 [[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie (2017, pp. 4, 8–9)]] 用作将 EF 发展轨迹与[[Jean Piaget\|皮亚杰]]阶段对齐的核心理论工具。
+> - 该框架被 [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017, pp. 4, 8–9)]] 用作将 EF 发展轨迹与[[Jean Piaget\|皮亚杰]]阶段对齐的核心理论工具。
 
 ## 思想发展与影响
 

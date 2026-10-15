@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Investing in Innovation Program
@@ -76,7 +76,7 @@ updated: 2026-10-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **创新投资项目（Investing in Innovation Fund, i3）**由美国教育部创新与改进办公室（Office of Innovation and Improvement, OII）于 2009 年依据《美国复苏与再投资法案》（American Recovery and Reinvestment Act, ARRA）正式设立，是美国联邦政府为推动教育领域[[Evidence-Based Reform\|证据本位改革]]（Evidence-Based Reform, EBR）所开展的规模最大的分层资助计划，总计投入超过 14 亿美元用于扶持具备实证潜力的创新教育项目并实施严格的第三方独立效果评估。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 23–24)]]
+> **创新投资项目（Investing in Innovation Fund, i3）** 由美国教育部创新与改进办公室（Office of Innovation and Improvement, OII）于 2009 年依据《美国复苏与再投资法案》（American Recovery and Reinvestment Act, ARRA）正式设立，是美国联邦政府为推动教育领域[[Evidence-Based Reform\|证据本位改革]]（Evidence-Based Reform, EBR）所开展的规模最大的分层资助计划，总计投入超过 14 亿美元用于扶持具备实证潜力的创新教育项目并实施严格的第三方独立效果评估。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 23–24)]]
 
 > [!program-context] 项目背景
 > - **立项周期** 2009–2016 年（共执行 7 轮竞争性拨款评审；2015 年《[[Every Student Succeeds Act\|每一个学生成功法]]》ESSA 颁布后，于 2017 年正式转型升级为[[Education Innovation and Research\|教育创新与研究项目]]（Education Innovation and Research, EIR））。
@@ -190,5 +190,5 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 系统回顾 i3 计划在推动全美循证项目研发与 [[Every Student Succeeds Act\|ESSA]] 证据层级法定化中的历史功绩。
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 深度剖析美国 i3 计划受资助者自聘评估团队的制度缺陷，并与英国 [[Education Endowment Foundation\|EEF]] 三方资助模式展开系统比较。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 深度剖析美国 i3 计划受资助者自聘评估团队的制度缺陷，并与英国 [[Education Endowment Foundation\|EEF]] 三方资助模式展开系统比较。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 探讨包括 i3 支持项目在内的循证干预自评偏倚，揭示独立第三方评估对真实[[Effect Size\|效应量]]判定的决定性意义。

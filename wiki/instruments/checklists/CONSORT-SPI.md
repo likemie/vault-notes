@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # CONSORT-SPI
@@ -138,7 +138,7 @@ updated: 2026-10-15
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] | CONSORT-SPI (2018) | 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）前八年开展的 150 余项学校[[Randomised Controlled Trials\|随机对照试验]]（覆盖 14,000 余所学校与 158 万名学生） | 评估机构规范性与透明度质控标准 | EEF 自 2013 年起强制要求所有资助项目采用基于 CONSORT 建立的方案与报告模板，并在 2018 年与 CONSORT-SPI 标准完全对接；所有试验必须在 ISRCTN [[Preregistration\|预注册]]并在官网公开 SAP；无论结果是否显著均 100% 全量公开，彻底消除学术[[Publication Bias\|发表偏倚]]。 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | CONSORT-SPI (2018) | 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）前八年开展的 150 余项学校[[Randomised Controlled Trials\|随机对照试验]]（覆盖 14,000 余所学校与 158 万名学生） | 评估机构规范性与透明度质控标准 | EEF 自 2013 年起强制要求所有资助项目采用基于 CONSORT 建立的方案与报告模板，并在 2018 年与 CONSORT-SPI 标准完全对接；所有试验必须在 ISRCTN [[Preregistration\|预注册]]并在官网公开 SAP；无论结果是否显著均 100% 全量公开，彻底消除学术[[Publication Bias\|发表偏倚]]。 |
 
 ---
 
@@ -151,5 +151,5 @@ updated: 2026-10-15
 > |---|---|---|---|---|---|
 > | CONSORT 2010 基础版 | 英语（全球） | 医学与临床平行组试验 | 25 项 | 确立医学双盲[[Randomised Controlled Trials\|随机对照试验]]报告金标准 | Schulz et al. (2010) |
 > | CONSORT-SPI 2018 扩展版 | 英语（全球） | 教育学、心理学、社会工作与犯罪学复杂干预试验 | 26 项（含拓展子条目共 37 个核查要素） | 增补[[Theory of Change\|变革理论]]、实施[[Implementation and Process Evaluation\|过程评估]]（IPE）、对照组常规状态描述、多层集群流失及利益冲突披露要求 | Montgomery et al. (2018) |
-> | [[Education Endowment Foundation\|EEF]] 试验报告与 SAP 模板（2018 修订版） | 英语（英国） | 英格兰公立中小学现场教育干预 RCT | 契合 CONSORT-SPI 的刚性报告模板 | 将 CONSORT-SPI 全面融入 EEF 官方项目交付合同，要求评估团队必须按照此模板提交立项方案、[[Statistical Analysis Plan\|SAP]] 与最终报告 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]]; The EEF (2018) |
+> | [[Education Endowment Foundation\|EEF]] 试验报告与 SAP 模板（2018 修订版） | 英语（英国） | 英格兰公立中小学现场教育干预 RCT | 契合 CONSORT-SPI 的刚性报告模板 | 将 CONSORT-SPI 全面融入 EEF 官方项目交付合同，要求评估团队必须按照此模板提交立项方案、[[Statistical Analysis Plan\|SAP]] 与最终报告 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]; The EEF (2018) |
 

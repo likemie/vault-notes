@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Composite-Standard Model
@@ -73,7 +73,7 @@ updated: 2026-10-15
 > | **系统架构** | 底层复合核心标准 + 上层简单外围标准序列 | 既有核心制度框架 + 顶端附加的新规则与机构 | 单一技术或制度标准在时间轴上的扩散 |
 > | **外围对核心的作用** | 强化核心合法性与不可替代性，推高转换壁垒 | 逐步侵蚀旧规则垄断权威，改变规约行为方式 | 不强调核心与外围的分层结构 |
 > | **变迁性质** | **制度再生产与路径锁定**（保持原轨道） | **渐进制度转型**（偏离或重塑原轨道） | **均衡锁定与路径僵化**（次优技术固化） |
-> | **代表文献** | Boas (2007); [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]] | [[Kathleen Thelen\|Thelen (2004)]]; Mahoney & Thelen (2010) | David (1985); Arthur (1989) |
+> | **代表文献** | Boas (2007); [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]] | [[Kathleen Thelen\|Thelen (2004)]]; Mahoney and Thelen (2010) | David (1985); Arthur (1989) |
 
 ---
 

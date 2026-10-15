@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 
 # Social Capital Theory
@@ -46,7 +46,7 @@ updated: 2026-10-14
 ## 核心主张
 
 > [!abstract]
-> 社会资本理论的核心主张是：社会关系网络、信任、规范和互惠性构成一种**资本形式**——社会资本，它能够为个体和组织带来经济和社会回报，降低交易成本，促进合作和知识流动。ODwyer、Filieri & OMalley（2023）将社会资本理论应用于[[University-Industry Collaboration\|产学合作]]网络的演化分析，揭示了不同阶段需要不同类型的社会资本[[Argument_ODwyer_Filieri_OMalley_2023_JTT\|(O'Dwyer et al., 2023)]]。
+> 社会资本理论的核心主张是：社会关系网络、信任、规范和互惠性构成一种**资本形式**——社会资本，它能够为个体和组织带来经济和社会回报，降低交易成本，促进合作和知识流动。ODwyer、Filieri and OMalley（2023）将社会资本理论应用于[[University-Industry Collaboration\|产学合作]]网络的演化分析，揭示了不同阶段需要不同类型的社会资本[[Argument_ODwyer_Filieri_OMalley_2023_JTT\|(O'Dwyer et al., 2023)]]。
 
 社会资本理论为理解产学合作中的三个核心问题提供了[[Analytic Framework|分析框架]]：
 - **信任如何建立和演化** 声誉基础的信任与诚信基础的信任在合作不同阶段发挥不同作用
@@ -75,7 +75,7 @@ updated: 2026-10-14
 > - **Bourdieu（1986）** 社会资本是嵌入在社会关系网络中的资源，可通过群体成员身份获取
 > - **Coleman（1988）** 社会资本存在于社会结构之中，促进结构内的行动者实现特定目标
 > - **Putnam（1993, 2000）** 社会资本包括网络、规范和信任，是社会组织的特征，促进协调与合作以实现共同利益
-> - **Nahapiet & Ghoshal（1998）** 将社会资本分为三个维度——结构维度（网络连接）、关系维度（信任和规范）、认知维度（共享愿景和语言）
+> - **Nahapiet and Ghoshal（1998）** 将社会资本分为三个维度——结构维度（网络连接）、关系维度（信任和规范）、认知维度（共享愿景和语言）
 
 ---
 ## 在全球教育政策与国际组织治理中的工具化收编
@@ -88,4 +88,4 @@ updated: 2026-10-14
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_ODwyer_Filieri_OMalley_2023_JTT|O'Dwyer et al. (2023)]] — 将社会资本理论应用于[[University-Industry Collaboration|产学合作]]网络演化，揭示声誉信任与诚信信任在合作不同阶段的差异化功能。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 剖析[[OECD]]如何吸纳Putnam的社会资本概念并将其重构为管理经济边缘化、维系[[Knowledge-Based Economy|知识经济]]生产率的剩余性政策工具。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 剖析[[OECD]]如何吸纳Putnam的社会资本概念并将其重构为管理经济边缘化、维系[[Knowledge-Based Economy|知识经济]]生产率的剩余性政策工具。

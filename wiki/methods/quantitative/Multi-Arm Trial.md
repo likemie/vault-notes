@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Multi-Arm Trial
@@ -79,7 +79,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> **多臂试验（Multi-Arm Trial，亦称多臂[[Randomised Controlled Trials\|随机对照试验]] Multi-Arm RCT）**是指在单一试验方案中包含**三个或更多平行实验组（实验臂，Arms）**的高级实验设计架构。最经典的多臂形态是“多个互斥的处理组共享一个公共对照组”（Multi-Arm Single-Control Design，如 $K$ 个处理臂对比 1 个对照臂）。该设计通过在同一实验背景下同时检验多种竞争性干预策略、不同实施剂量或不同递送载体，不仅能大幅节省招募独立对照组的样本与财务成本，还能通过直接的头对头（Head-to-Head）比较确立最优实践方案。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]
+> **多臂试验（Multi-Arm Trial，亦称多臂[[Randomised Controlled Trials\|随机对照试验]] Multi-Arm RCT）** 是指在单一试验方案中包含**三个或更多平行实验组（实验臂，Arms）** 的高级实验设计架构。最经典的多臂形态是“多个互斥的处理组共享一个公共对照组”（Multi-Arm Single-Control Design，如 $K$ 个处理臂对比 1 个对照臂）。该设计通过在同一实验背景下同时检验多种竞争性干预策略、不同实施剂量或不同递送载体，不仅能大幅节省招募独立对照组的样本与财务成本，还能通过直接的头对头（Head-to-Head）比较确立最优实践方案。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 被[[Random Assignment\|随机分配]]至不同干预臂或对照臂的个体受试者或集群单位（学校/班级）。
@@ -250,5 +250,5 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 阐述了英国 [[Education Endowment Foundation\|EEF]] 通过多臂试验与[[Factorial Design\|析因设计]]打开复杂教育干预黑箱的演进历程，重点评述了“[[Literacy Octopus\|识字八爪鱼]]”多臂试验与 ABRA 在线阅读多臂试验的方法学价值。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 阐述了英国 [[Education Endowment Foundation\|EEF]] 通过多臂试验与[[Factorial Design\|析因设计]]打开复杂教育干预黑箱的演进历程，重点评述了“[[Literacy Octopus\|识字八爪鱼]]”多臂试验与 ABRA 在线阅读多臂试验的方法学价值。
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 详析了“识字八爪鱼”大规模多臂 [[Randomised Controlled Trials\|RCT]] 的因果结论，证明单纯单向推送实证成果对改善学生终考成绩毫无[[Statistical Significance\|统计显著性]]。

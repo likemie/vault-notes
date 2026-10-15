@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # American Association of Colleges for Teacher Education
@@ -58,7 +58,7 @@ updated: 2026-10-15
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **美国[[Normal School\|师范教育]]学院协会（American Association of Colleges for Teacher Education, AACTE）**是美国高等教育与教育学专业人员培养领域的全国性首要联盟（501(c)(3)）。协会代表全美 800 多所设有教育学院、教师培养系所及师范专业的高等院校，通过倡导基于循证实践的高质量职前培养体系，充当连接大学师范学术界与联邦/州立法中枢的关键[[Educational Brokerage Agency\|教育知识经纪机构]]。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
+> **美国[[Normal School\|师范教育]]学院协会（American Association of Colleges for Teacher Education, AACTE）** 是美国高等教育与教育学专业人员培养领域的全国性首要联盟（501(c)(3)）。协会代表全美 800 多所设有教育学院、教师培养系所及师范专业的高等院校，通过倡导基于循证实践的高质量职前培养体系，充当连接大学师范学术界与联邦/州立法中枢的关键[[Educational Brokerage Agency\|教育知识经纪机构]]。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 1948 年由全美师范学院协会（American Association of Teachers Colleges）、全美[[Committee for the Accreditation of Teacher Education\|教师教育认证委员会]]等数个历史性师范专业团体合并创立，旨在推动战后美国教师教育的学术化、正规化与高等教育一体化整合。

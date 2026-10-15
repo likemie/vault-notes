@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Social Regime
@@ -50,7 +50,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **社会规约（Social Regime）**指在特定社会情境中受到普遍合法性认可、规定预期行为并排除不可欲行为的集体规则体系；其根本特质在于必须由独立于博弈参与者、具备合法强制力保障手段的第三方权威机构（Third-Party Enforcement）提供背书，将微观行动者的权利与义务上升为全社会共同体维护的法定或规范性预期。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 9–14)]]
+> **社会规约（Social Regime）** 指在特定社会情境中受到普遍合法性认可、规定预期行为并排除不可欲行为的集体规则体系；其根本特质在于必须由独立于博弈参与者、具备合法强制力保障手段的第三方权威机构（Third-Party Enforcement）提供背书，将微观行动者的权利与义务上升为全社会共同体维护的法定或规范性预期。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 9–14)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将制度从抽象的“中性博弈均衡”或主观的“文化认知脚本”还原为具体的“政治支配关系”，聚焦规则制定者、规则遵从者与第三方实施机构之间的权力非对称互动。
@@ -160,7 +160,7 @@ updated: 2026-10-15
 > > 围绕制度能否脱离国家强制力实现长治久安展开的[[Ontology|本体论]]论战。
 > >
 > > - **Avner Greif & Barry R. Weingast（1998, 2002）** 制度本质上是参与者在无外部强权干预下达成的自发实施均衡（Self-Enforcing Equilibrium），任何缺乏激励自洽性的第三方强制最终都会失效。
-> > - **Wolfgang Streeck & Kathleen Thelen（2005）** 自发均衡假说遮蔽了现代资本主义中根本性的阶级摩擦与权力不对称；若无第三方的合法强制力背书，再分配性质的社会规约将顷刻瓦解。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 10–13)]]
+> > - **Wolfgang Streeck and Kathleen Thelen（2005）** 自发均衡假说遮蔽了现代资本主义中根本性的阶级摩擦与权力不对称；若无第三方的合法强制力背书，再分配性质的社会规约将顷刻瓦解。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 10–13)]]
 
 > [!warning] 适用局限
 > 社会规约概念高度倚重现代法治国家第三方强制实施体系的成熟度；在国家能力匮乏、法治缺位或非正式社会网络占据绝对支配地位的发展中社会，基于严格第三方实施的规约[[Analytic Framework|分析框架]]可能面临解释效力不足的局限。
@@ -170,4 +170,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 提出将制度定义为第三方强制背书的社会规约，为全书五大渐进变迁形态学奠立[[Ontology|本体论]]基石（pp. 9–16）。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 提出将制度定义为第三方强制背书的社会规约，为全书五大渐进变迁形态学奠立[[Ontology|本体论]]基石（pp. 9–16）。

@@ -76,7 +76,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-07-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Learner Autonomy
@@ -163,7 +163,7 @@ updated: 2026-10-15
 > [!concept-lens] 现代因果评估中自主学习的机制解构
 > 探讨教育干预中“学生自主利用软件学习”与“教师[[Direct Instruction\|直接教学]]辅导”的独立贡献，以及[[Factorial Design\|析因设计]]在解开自主学习黑箱中的方法学价值。
 
-> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]]; McNally et al. (2018)
+> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]; McNally et al. (2018)
 > **多臂析因设计下的自主效应剥离** 复杂教育干预往往将软件自主训练与教师辅导打包递送，导致无法厘清何者起效。在覆盖全英小学的 ABRA 在线阅读多臂 [[Randomised Controlled Trials\|RCT]] 中，评估团队通过析因架构将“学生在技术软件支持下的自主学习”与“教师面对面的结构化小步教学辅导”完全拆解。实证表明：技术工具驱动的自主探究与教师人际指导各自发挥了[[Heterogeneity\|异质性]]的因果中介作用，两者的协同交互显著优于单一孤立的软件自学，证明技术环境下的学习者自主性必须与教师人际支架紧密结合、相互支撑。（pp. 53–54）
 
 ---
@@ -187,7 +187,7 @@ updated: 2026-10-15
 > | 命题维度 | 核心论断 | 因果作用机制 | 代表文献与实证载体 |
 > |---|---|---|---|
 > | **认识论与元认知基石** | 自主性取决于批判思维能力与意义建构自信的双轨养成。 | 知识论探究破除被动接受，反思训练激活风险承担与自主表达。 | [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]]; [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] |
-> | **技术析因机制解耦** | 软件自主学习与教师主导教学存在异质效应与协同红利。 | 多臂析因试验剥离独立因果贡献，揭示软件自主需人际支架互补。 | McNally et al. (2018); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] |
+> | **技术析因机制解耦** | 软件自主学习与教师主导教学存在异质效应与协同红利。 | 多臂析因试验剥离独立因果贡献，揭示软件自主需人际支架互补。 | McNally et al. (2018); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] |
 > | **支架缺失的掉队代价** | 缺乏结构支持的极端自由导致认知过载与弱势学童掉队。 | 去结构化环境抽离安全边界，引发算法心智外包与阶层差距扩大。 | [[Argument_Håkansson_2015_TT\|Håkansson (2015a)]]; [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
 
 ---
@@ -221,7 +221,7 @@ updated: 2026-10-15
 > > [!axis] 技术工具自主神话 vs 教师人际引领不可替代论
 > > [[Techno-Utopianism|技术乌托邦主义]]宣称自适应算法软件可完全替代教师、实现百分之百的个性化自主学习；循证因果评估则证明了软件的边界。
 > >
-> > - **McNally et al. (2018) 与 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]]** 实证证实，脱离教师辅导与[[Man-Computer Symbiosis|人机协同]]的纯粹软件自学成效极低，真正的高阶效应源于软件自主与教师[[Scaffolding\|教学支架]]的紧密嵌套。
+> > - **McNally et al. (2018) 与 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]** 实证证实，脱离教师辅导与[[Man-Computer Symbiosis|人机协同]]的纯粹软件自学成效极低，真正的高阶效应源于软件自主与教师[[Scaffolding\|教学支架]]的紧密嵌套。
 
 ---
 
@@ -232,7 +232,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]]; McNally et al. (2018) | 英格兰小学学童（ABRA 在线阅读试验） | 2x2 析因整群 [[Randomised Controlled Trials\|RCT]] | 技术软件辅助自主学习、教师直接小步辅导、阅读理解与流利度 | 多臂析因比较证实：单独使用技术软件自主自学组取得微弱正向增益，但与教师面对面结构化辅导相结合的多组分臂产生最大协同效益；系统剥离了技术自主与教师[[Direct Instruction\|直接教学]]的独立因果贡献 | $p < .05$ | 证实教育技术支持的学习者自主学习绝非孤立替代品，其因果潜能高度依赖于教师人际支架的协同配合 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]; McNally et al. (2018) | 英格兰小学学童（ABRA 在线阅读试验） | 2x2 析因整群 [[Randomised Controlled Trials\|RCT]] | 技术软件辅助自主学习、教师直接小步辅导、阅读理解与流利度 | 多臂析因比较证实：单独使用技术软件自主自学组取得微弱正向增益，但与教师面对面结构化辅导相结合的多组分臂产生最大协同效益；系统剥离了技术自主与教师[[Direct Instruction\|直接教学]]的独立因果贡献 | $p < .05$ | 证实教育技术支持的学习者自主学习绝非孤立替代品，其因果潜能高度依赖于教师人际支架的协同配合 |
 > | [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]] | 某[[International Schools\|国际学校]] 12 年级高中生与[[Theory of Knowledge\|知识论]]（TOK）教师 | 质性[[Case Study\|个案研究]]（课堂深度观察、师生半结构访谈与文本分析） | [[Epistemology\|认识论]]批判反思、[[Self-Efficacy\|自我效能感]]、探究自信、自主学习行为 | 深度追踪显示：TOK 课程的驳诘性质问使学生突破“被动接收者”角色，在认识论训练与反思自信共同成熟后，学生在日常探究中展现出高水平的独立选题、多重论证与自我调节行为 | 质性[[Triangulation\|三角互证]]可靠 | 阐明自主性发展并非自发[[Emergence\|涌现]]，必须以系统的批判性反思知识和能力建设为前提 |
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 澳大利亚私立与公立学校高中毕业生（$N = 432$） | 准实验对照设计与结构方程模型 | [[Critical Thinking\|批判性思维]]（[[Watson-Glaser Critical Thinking Appraisal\|WGCTA]] 测验）、探究主动性、学术成就 | 经历 TOK 课程训练的学生在推理独立性、证据权衡及自主探究取向上的标准化得分显著高于对照组 | $p < .01$ | 为课程促进学习者批判性自主思维提供了量化证据支撑 |
 > | [[Argument_Håkansson_2015_TT\|Håkansson (2015a)]] | 瑞典本土与国际 43 项教学综述 | [[Comparative Meta-synthesis\|比较性元综合]]（Comparative [[Meta-meta-analysis\|meta-synthesis]]） | 课堂个人化自学比例、教师课堂领导力、[[PISA]] 学业产出 | 长期实证汇总表明：缺乏教师支架引导的激进自学使得课堂安静但思维浅表化，弱势群体掉队率显著攀升，全面颠覆了“去结构化等同于优质自主”的教条假设 | 跨国趋势高度一致 | 确立自主性必须在教师清晰结构与支架引领下渐进释放的方法学铁律 |
@@ -257,6 +257,6 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]] — 质性剖析 IB [[Theory of Knowledge\|知识论]]课程如何通过[[Epistemology\|认识论]]批判反思与[[Metacognition\|元认知]]自信建设双轨路径培育实质性学习者自主。
 > - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 量化评估 IB 课程对学生[[Critical Thinking\|批判性思维]]与独立探究能力的长期因果促进效应。
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 总结 [[Education Endowment Foundation\|EEF]] 多臂析因试验（如 ABRA 试验）经验，实证解构技术软件自主学习与教师主导辅导的独立效应与交互机制。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 总结 [[Education Endowment Foundation\|EEF]] 多臂析因试验（如 ABRA 试验）经验，实证解构技术软件自主学习与教师主导辅导的独立效应与交互机制。
 > - [[Argument_Håkansson_2015_TT\|Håkansson (2015a)]] — 比较[[Meta-meta-analysis\|元综合]]反思瑞典极端去结构化个人主义自学的实践灾难，确立结构化支架作为真自主前提的理论地位。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]]生成式 AI 时代学习者在[[Man-Computer Symbiosis|人机协同]]中维持[[Epistemological Vigilance\|认识论警觉]]与抵御算法[[Cognitive Offloading\|认知卸载]]的自主防御机制。

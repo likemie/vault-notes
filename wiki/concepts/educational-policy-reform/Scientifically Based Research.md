@@ -89,7 +89,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Scientifically Based Research
@@ -168,9 +168,9 @@ updated: 2026-10-15
 > | **评估对象错位命题** | 抽象科学原理包装无法替代具体干预项目在真实课堂的因果实证检验 | 教育项目采购、循证准入审核、干预方案设计 | [[Argument_Slavin_2002_ER\|Slavin (2002, pp. 18–19)]] |
 > | **研发管线脱节命题** | 法定证据口号若缺乏公共研发基础设施与存量支撑则易沦为空洞符号 | 国家科研资助、智库建设、中介平台运营 | [[Argument_Slavin_2019_EP\|Slavin (2019, pp. 22–24)]] |
 > | **规制反噬异化命题** | 死板的[[Technical Rationality\|技术理性]]指标规制必然引发自上而下的教学异化与治理危机 | 高利害问责政策评估、[[Performance Pay\|绩效工资]]改革、行政规章制定 | [[Argument_Serpell_2020_EP\|Serpell (2020, pp. 41–42)]] |
-> | **分级进化替代命题** | 二元模糊的科学准入必然走向[[Operationalization\|操作化]]、包容性更强的多层级证据治理 | 教育法律重新授权、[[Evidence Standards\|证据标准]]迭代、政策工具转型 | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021, p. 109)]] |
+> | **分级进化替代命题** | 二元模糊的科学准入必然走向[[Operationalization\|操作化]]、包容性更强的多层级证据治理 | 教育法律重新授权、[[Evidence Standards\|证据标准]]迭代、政策工具转型 | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021, p. 109)]] |
 > | **利益同盟建构命题** | 法定科学标准本质上是次政府铁三角垄断学术[[Discourse\|话语]]与商业利益的制度化建构 | 政策制定政治学分析、循证立法批判、政商联盟审议 | [[Argument_Edmondson_2005_EPAA\|Edmondson (2005, pp. 8–11)]] |
-> | **功能分野与审议演进命题** | 法定科学标准区分服务支出合规与科研资助划定，且在学界公共审议与国会质证中保持动态演进空间 | 联邦教育科研立法、资助标准制定、多元[[Paradigm\|范式]]合法性辩护 | [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart & Towne (2003, pp. 31–37)]] |
+> | **功能分野与审议演进命题** | 法定科学标准区分服务支出合规与科研资助划定，且在学界公共审议与国会质证中保持动态演进空间 | 联邦教育科研立法、资助标准制定、多元[[Paradigm\|范式]]合法性辩护 | [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003, pp. 31–37)]] |
 
 ---
 
@@ -229,7 +229,7 @@ updated: 2026-10-15
 > [!concept-lens] 制度功能与民主审议维度
 > 考察联邦立法中科学证据标准在服务提供与科研资助中的不同制度定位，以及学术界公共参与和国会质证如何促成法定标准的动态演进与去窄化。
 
-> [!claim] [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne (2003)]]
+> [!claim] [[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003)]]
 > **制度功能二重性与公共质证的杠杆效应** 玛格丽特·艾森哈特（Margaret Eisenhart）与丽莎·汤恩（Lisa Towne, 2003）反驳了将华盛顿政策源流混同为单一实证霸权的倾向，指出科学本位研究在成文法中具有清晰的双重功能分野：
 > 1. **服务提供法案（如 NCLB）** 旨在规约联邦公帑购买教学方案的支出合规，设定了偏向实验因果假设检验的准入门槛；
 > 2. **科研资助法案（如 [[Education Sciences Reform Act 2002|ESRA]]）** 旨在界定整体科学探究的边界。

@@ -97,7 +97,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-25
-updated: 2026-09-15
+updated: 2026-10-16
 ---
 # Argument_Hagevold_Forsstrom_Keles_2026_ERR
 
@@ -131,8 +131,8 @@ updated: 2026-09-15
 > | **[[Governing Mechanisms of Research Use\|研究使用治理机制（Governing Mechanisms of Research Use）]]**<br>本篇综述（Hagevold et al.） | 修订框架：信任、技能发展、可持续结构和关系四类机制横跨并贯通个体、组织、系统三层，解释最顽固的研究使用障碍为何反复出现、靠什么条件才能转化。（pp.4, 8, 18–19） |
 > | **[[Conceptual, Instrumental, and Symbolic Use of Research\|深层使用框架（Deep Use）]]**<br>Farley-Ripple et al. (2018, 2022) | 关注学校用的是什么证据、怎么用：区分工具性、策略性和概念性使用，并把实践者如何搜寻、解释、整合研究视为研究使用的核心活动；用来界定深思熟虑参与与恰当研究之间的双向关系。（p.4） |
 > | **[[Research Literacy\|研究素养（Research Literacy）]]**<br>Eriksen (2022) | 把教师专业工作看成一种技艺而非艺术/科学的两极，主张教师靠完整性、讲理、灵活性三种德性来判断研究是否适合当下情境；用来界定恰当研究的标准，即研究要被实践者带判断地消化，而不是照搬。（pp.4–5） |
-> | **[[Ecosystem for Research-Engaged Schools\|研究参与学校生态系统模型（Ecosystem for Research-Engaged Schools）]]**<br>Godfrey & Brown (2019) | 用微观、中观、外、宏观、时间五个生态层刻画研究参与如何嵌入更大的教育生态，为个体、组织、系统三个分析层级提供子主题来源。（pp.4–5） |
-> | **内外复杂性（Internal and External Complexity）**<br>Kvernbekk (2016); Perry & Morris (2023) | 实践者面对研究时该追问四件事：研究在什么内部条件下产生、将用到什么外部情境、会有什么副作用、有没有替代办法；用来界定深思熟虑参与要回答的判定问题。（p.4） |
+> | **[[Ecosystem for Research-Engaged Schools\|研究参与学校生态系统模型（Ecosystem for Research-Engaged Schools）]]**<br>Godfrey and Brown (2019) | 用微观、中观、外、宏观、时间五个生态层刻画研究参与如何嵌入更大的教育生态，为个体、组织、系统三个分析层级提供子主题来源。（pp.4–5） |
+> | **内外复杂性（Internal and External Complexity）**<br>Kvernbekk (2016); Perry and Morris (2023) | 实践者面对研究时该追问四件事：研究在什么内部条件下产生、将用到什么外部情境、会有什么副作用、有没有替代办法；用来界定深思熟虑参与要回答的判定问题。（p.4） |
 
 > [!warrant]- 理论如何支撑论证
 > 初始框架（图 1）以 QURE 为主体：深层使用的双向箭头用来界定"用什么、怎么用"，研究素养的敏感度用来判断研究是否恰当，生态系统模型提供三个层级的子主题，系统层级还额外加入一般社会因素与教育政策两个子主题。这个框架不是结论，而是[[Framework Synthesis\|框架综合]]的先验透镜，用来组织数据提取与编码，同时允许综合中浮现框架之外的新主题。分析分两步：聚合式分析把发现映射回框架并统计来源研究数；配置式分析跨越层级识别反复出现的主题，后者直接产出了四类治理机制。（pp.4–5, 8）

@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-16
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # BHP Foundation
@@ -173,5 +173,5 @@ updated: 2026-10-15
 > | [[Australian Education Research Organisation]] | 机构事实 | 基金会资助项目在澳大利亚直接催生并深度联结的官方证据旗舰。 |
 > | [[Evidence Ecosystem]] | 核心概念 | 基金会 5 年战略计划所致力于在全球范围内构建的[[Epistemic Governance\|知识治理]]形态。 |
 > | [[Strong Beginnings Report]] | 政策事实 | 基金会跨国中介网络最终落地并重塑澳大利亚教师教育的国家大纲文本。 |
-> | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] | 来源论证 | 系统批判必和必拓基金会异层治理与教师大纲重塑的核心社会学文献。 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] | 来源论证 | 系统阐发 EEF 携手必和必拓基金会构建跨国多中心证据生态的实证文献。 |
+> | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] | 来源论证 | 系统批判必和必拓基金会异层治理与教师大纲重塑的核心社会学文献。 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 来源论证 | 系统阐发 EEF 携手必和必拓基金会构建跨国多中心证据生态的实证文献。 |

@@ -67,7 +67,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Structured Teaching
@@ -248,7 +248,7 @@ updated: 2026-10-08
 > |---|---|---|---|---|---|---|
 > | [[Argument_Håkansson_2015_TT\|Håkansson (2015a)]] | 43 项教学与学习研究综述（16 项国际综述 + 27 项瑞典本土综述） | [[Comparative Meta-synthesis\|比较性元综合]]（Comparative [[Meta-meta-analysis\|meta-synthesis]]） | 教学结构、课堂管理、教师领导、师生互动、[[PISA]] 成绩走势 | 综述全景证实教师结构（目标、管理、反馈）对学习具有稳健积极贡献；瑞典 PISA 2000–2009 期间，学生自报课堂安静与获得教师帮助比例上升（78% $	o$ 82%），但整体成绩下滑，表明单一氛围指标与学业成就非线性相关 | — | 证据综合确立了结构化教学的有效性在于“结构与互动”的高阶融合，而非单一讲授或纪律控制 |
 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | 67 项高等教育 ChatGPT 实证研究（2022–2025 年全球高校样本） | [[Systematic Review\|系统综述]]与主题综合（PRISMA 2020 框架） | 教学情境（结构化 vs 非结构化）、[[Critical Thinking\|批判性思维]]（CT）、[[Creativity\|创造性思维]]（CrT）、认知共现模式 | 21 项研究确立结构化教学模型（如翻转课堂、ADDIE、设计学习）介导[[Higher-Order Thinking Skills\|高阶思维]]增益；在考察双目标的研究中，结构化探究支持下 18 项（53%）实现 CT–CrT 双向协同增益，而非结构化使用导致 8 项（24%）非对称萎缩与 4 项（12%）双重认知侵蚀 | $p < .001$（工具主义调用与批判反思负相关 $ eta = -0.34$） | 确立结构化教学是决定[[Generative Artificial Intelligence\|生成式 AI]] 介入后高阶心智走向协同增益还是认知侵蚀的核心调节条件 |
-| [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]]; Sutherland et al. (2017) | 英格兰公立中学教师与学科教研组（[[Incentivised Pay and Coaching Trial\|ICR]] 试验） | 两级集群 [[Randomised Controlled Trials\|RCT]]（前置可行性与招募评估） | 结构化教学辅导（Instructional Coaching）、[[Performance Pay\|绩效工资]]奖金激励、教师招募与留存 | 试验试图将结构化教学辅导与基于学生考分增长的差异化经济奖金相结合，但在招募阶段遭遇校长与一线教师的集体抵制；教师普遍指责随机抛硬币决定奖金资格严重破坏同行信任与专业协作伦理，最终招募严重流产，[[Education Endowment Foundation\|EEF]] 被迫终止试验并出具《关闭报告》 | 招募失败率达 100%（未能达到 [[Statistical Analysis Plan\|SAP]] 预设最低样本门槛） | 确立结构化教学辅导在现场试验中的落地效能高度受制于学校教研生态与教师内在动机；违背职业伦理的外在金钱刺激会导致结构化培训机制整体失效 |
+| [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]; Sutherland et al. (2017) | 英格兰公立中学教师与学科教研组（[[Incentivised Pay and Coaching Trial\|ICR]] 试验） | 两级集群 [[Randomised Controlled Trials\|RCT]]（前置可行性与招募评估） | 结构化教学辅导（Instructional Coaching）、[[Performance Pay\|绩效工资]]奖金激励、教师招募与留存 | 试验试图将结构化教学辅导与基于学生考分增长的差异化经济奖金相结合，但在招募阶段遭遇校长与一线教师的集体抵制；教师普遍指责随机抛硬币决定奖金资格严重破坏同行信任与专业协作伦理，最终招募严重流产，[[Education Endowment Foundation\|EEF]] 被迫终止试验并出具《关闭报告》 | 招募失败率达 100%（未能达到 [[Statistical Analysis Plan\|SAP]] 预设最低样本门槛） | 确立结构化教学辅导在现场试验中的落地效能高度受制于学校教研生态与教师内在动机；违背职业伦理的外在金钱刺激会导致结构化培训机制整体失效 |
 
 ---
 
@@ -270,4 +270,4 @@ updated: 2026-10-08
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Håkansson_2015_TT\|Håkansson (2015a)]] — 运用[[Comparative Meta-synthesis\|比较性元综合]]解构瑞典“结构化教学”政策口号，确立了教师清晰组织与师生能动互动相结合的教学论[[Paradigm\|范式]]，澄清了其与[[Direct Instruction\|直接教学]]及讲坛式灌输的边界。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项高等教育实证研究，确立了结构化教学设计作为生成式 AI 介入下激活批判性与[[Creativity\|创造性思维]]双向协同增益、抵御[[Cognitive Offloading\|认知卸载]]与心智侵蚀的决定性调节机制。
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 总结 [[Education Endowment Foundation\|EEF]] 大规模现场试验经验，系统剖析手册化结构性教学项目（Manualised Interventions）与教师日常选择（[[Teacher Choices]]）的方法学边界，并反思将结构化教学指导与外在绩效激励挂钩所导致的伦理排异与招募流产（Sutherland et al., 2017）。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 总结 [[Education Endowment Foundation\|EEF]] 大规模现场试验经验，系统剖析手册化结构性教学项目（Manualised Interventions）与教师日常选择（[[Teacher Choices]]）的方法学边界，并反思将结构化教学指导与外在绩效激励挂钩所导致的伦理排异与招募流产（Sutherland et al., 2017）。

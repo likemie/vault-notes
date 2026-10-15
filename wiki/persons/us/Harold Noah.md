@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-05
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Harold Noah
@@ -160,7 +160,7 @@ updated: 2026-10-09
 > 在该研究设计中，“国家”或“社会”不再作为不可分割的有机整体，而是被[[Operationalization|操作化]]为[[Independent Variable|自变量]]——家庭收入分配的基尼系数或离散方差；[[Dependent Variable|因变量]]则是家庭收入对学业成就的多[[Meta-regression|元回归]]系数。通过在多个国家收集标准化测试数据（如 [[IEA]] 数据），研究者能够脱离个别国别的历史羁绊，精确检验社会不平等与教育分流之间的通则性因果关联。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 148–149)]]
 
 > [!citation-card] 变量函数共变与因果机制的审慎界定
-> 诺亚与埃克斯坦将跨国概括表述为自变量与因变量之间的函数共变关系（以数学形式表达为“随 $x$ 变化，$y$ 亦相应变化”）。然而他们审慎强调，阐明函数关系并不必然揭示因果联系，亦无法直接指明影响的方向性机制；基于此种方法论自省，他们并未直接赋予其实证命题以绝对法则的地位。Noah & Eckstein (1969, pp. 93–96), 引自 [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, p. 62)]]
+> 诺亚与埃克斯坦将跨国概括表述为自变量与因变量之间的函数共变关系（以数学形式表达为“随 $x$ 变化，$y$ 亦相应变化”）。然而他们审慎强调，阐明函数关系并不必然揭示因果联系，亦无法直接指明影响的方向性机制；基于此种方法论自省，他们并未直接赋予其实证命题以绝对法则的地位。Noah and Eckstein (1969, pp. 93–96), 引自 [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, p. 62)]]
 >
 > *These generalisations were seen as 'functional relationship(s) between dependent and independent variables' expressed in propositions that preferably take the mathematical form of 'as x changes so y changes'... they were at pains to underline that 'a statement of a functional relationship... need not necessarily refer to causal relationships'... Finally, all these elucidations may explain why they did not give the status of 'laws' to their universal explanatory propositions.*
 
@@ -180,8 +180,8 @@ updated: 2026-10-09
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
 > | **变量替代系统命题** | 消除国别与制度固有名词，将其抽象解构为可操作化、可跨国测量的概念变量 | 跨国实证建模、指标测算与假设检验 | Noah (1973); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 148)]] |
-> | **变量函数共变命题** | 将跨国现象表达为自变量与因变量的函数共变，以多元统计揭示宏观关联 | 统计[[Causal Modeling\|因果建模]]、跨国大样本回归分析 | Noah & Eckstein (1969, p. 93); [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, p. 62)]] |
-> | **方法论客观清洗命题** | 借助定量测量与严格数据控制根除传统学派的主观偏见与任意武断 | 实证研究设计、大规模学生测评（IEA） | Noah & Eckstein (1969, p. 58); [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, p. 65)]] |
+> | **变量函数共变命题** | 将跨国现象表达为自变量与因变量的函数共变，以多元统计揭示宏观关联 | 统计[[Causal Modeling\|因果建模]]、跨国大样本回归分析 | Noah and Eckstein (1969, p. 93); [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, p. 62)]] |
+> | **方法论客观清洗命题** | 借助定量测量与严格数据控制根除传统学派的主观偏见与任意武断 | 实证研究设计、大规模学生测评（IEA） | Noah and Eckstein (1969, p. 58); [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, p. 65)]] |
 > | **方法论主义与借口批判命题** | 唯统计技术主义割裂价值与历史土壤，充当冷战技术援助与国家规划的合法化借口 | 比较认识论反思、学科史批判研究 | Barber (1972); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–149)]] |
 
 ---
@@ -242,7 +242,7 @@ updated: 2026-10-09
 > > [!axis] 实证科学化[[Paradigm|范式]] vs 历史-哲学人文主义
 > > 战后比较教育学核心范式大论战。诺亚与埃克斯坦坚决主张将教育现象解构为社会科学[[Variable|变量]]进行跨国假说检验与统计测量，批判历史学派依赖私人洞察力且缺乏判定因素重要性的客观标准；以卡扎米亚斯为代表的学者则批评其实证模型严重脱离具体的历史文化语境，抽空了教育制度背后的精神价值与政治哲学维度，重申广义科学观（*Wissenschaft*）与有限工作假设的合法性。
 > >
-> > - **Harold Noah & Max Eckstein（1969）** 主张寻求教育与社会之间的普遍[[Nomothetic|通则式]]因果定律，指出历史结论本质上是待检验假说。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 53–54)]]
+> > - **Harold Noah and Max Eckstein（1969）** 主张寻求教育与社会之间的普遍[[Nomothetic|通则式]]因果定律，指出历史结论本质上是待检验假说。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 53–54)]]
 > > - **Andreas Kazamias（2009b）** 批评[[Positivism|实证主义范式]]建立在狭隘的英语 Science 偏见之上，捍卫历史比较的[[Geisteswissenschaften|人文科学]]传统。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 56)]]
 >
 > > [!axis] 变量函数共变 vs 假说-演绎[[Vignettes in Research|情境问题法]]

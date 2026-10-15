@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: '2026-07-24'
+updated: 2026-10-16
 ---
 
 # New Culture Movement
@@ -95,7 +95,7 @@ updated: '2026-07-24'
 > [!actor-grid] 评论视角
 > - **激进反传统视角** 陈独秀、[[Hu Shi\|胡适]] — 主张彻底打破封建旧道德，以全盘白话文、民主与科学重构新文化。
 > - **温和演进视角** 蒋琦（1919） — 警告新教育对旧教育应是“修正而非对立、演进而非原创”，反思全盘否定传统的倾向。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.615]]）
-> - **历史比较视角** [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]] — 指出五四政治合流使教育议程过度依赖政治条件，导致民主理想与渐进方法的结构性解耦。
+> - **历史比较视角** [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] — 指出五四政治合流使教育议程过度依赖政治条件，导致民主理想与渐进方法的结构性解耦。
 
 > [!tension] 文化重构路线分歧：全盘反传统 vs. 演进性修正
 > - **全盘反传统路线（蓝方）** 陈独秀、胡适等激进派主张高举“民主”与“科学”旗帜彻底打破旧伦理与旧教育，建立白话文与新文化。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.614]]）

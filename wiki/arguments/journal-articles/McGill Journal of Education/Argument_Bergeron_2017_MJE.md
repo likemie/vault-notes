@@ -83,7 +83,7 @@ citation_aliases:
 >
 > ### 2. Hattie 犯下了 Allison et al.识别的三[[Big Science|大科学]]错误中的两个
 >
-> Allison, Brown, George & Kaiser (2016) 在 *Nature* 中识别了科学中的三大主要错误。Hattie 的方法论同时违反其中两项(p.239)：
+> Allison, Brown, George and Kaiser (2016) 在 *Nature* 中识别了科学中的三大主要错误。Hattie 的方法论同时违反其中两项(p.239)：
 > - **元分析中的计算错误** 最明显的案例是 CLE（common language effects）计算，产生负概率或超过 100% 的概率——"对任何上过至少一门统计课的人来说，这是一个巨大的失误"
 > - **不适当的基线比较** Hattie 认为可以比较[[Effect Size\|效应量]]因为 Cohen's d 是无单位的测量，但这忽略了一个根本问题——"每个效应量，尽管没有单位，都是一个相对测量，它提供了一个与某个集合、组或基线总体的比较，即使这个基线可能是隐含的"(p.241)
 >

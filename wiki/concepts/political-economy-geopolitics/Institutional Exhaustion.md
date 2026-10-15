@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-12
+updated: 2026-10-16
 ---
 
 # Institutional Exhaustion
@@ -118,7 +118,7 @@ updated: 2026-10-12
 > [!concept-lens] 制度生命周期的内生自毁维度
 > 探讨制度在未遭遇外部革命或战争冲击的常态治理中，如何因其成功运转所衍生的资源消耗而走向消亡。
 
-> [!claim] [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]]
+> [!claim] [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]]
 > **内生自我消耗机制** 制度并不总能通过正反馈或报酬递增实现自我强化；制度的稳定维系需要消耗政治与经济资源，当制度的正常运转导致支持其存在的外部前提被逐步侵蚀时，制度将出现递减回报并走向衰竭。以战后欧洲提前退休制度为例，这一政策原本旨在降低青年失业率并维护劳动力市场和平，但该制度越是被广泛使用，缴纳社会保障税的在职人员规模便越小，而领取养老金的人口规模则呈刚性膨胀，最终制度运转自身摧毁了维持其财政平衡的经济前提。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 29–30)]]
 
 ---
@@ -128,7 +128,7 @@ updated: 2026-10-12
 > [!concept-lens] 制度老化的结构性复杂化维度
 > 探讨规制安排随时间推移因不断应对边缘情境而增加特殊豁免，最终导致制度公信力与执行力解体。
 
-> [!claim] [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]]
+> [!claim] [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]]
 > **增长极限与[[Paradigm|范式]]衰变机制** 年轻的制度尚需在实践决策中逐步丰富其规则内涵，而老化的制度则常遭遇增长极限；随着情境变迁，决策者为维系既有制度外壳不得不不断追加特例、豁免条件与特殊裁决，正如库恩[[Scientific Paradigm|科学范式]]衰落期辅助假说的病态累积，导致规制系统变得臃肿不堪，最终在失去社会合法性与行政可操作性的双重重压下走向事实上的枯竭与废弛。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, p. 30)]]
 
 ---
@@ -167,7 +167,7 @@ updated: 2026-10-12
 > > [!axis] 内生耗竭与外生危机的界限争议
 > > 学界关于制度瓦解究竟属于系统内部资源的自毁过程，抑或本质上仍由外生人口老龄化与宏观经济波动引发存在分歧。
 > >
-> > - **[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]]** 坚持耗竭是由制度正规运作产生的内生后果，制度本身设计逻辑的不自洽构成了自我侵蚀的核心驱动力。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 29–30)]]
+> > - **[[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]]** 坚持耗竭是由制度正规运作产生的内生后果，制度本身设计逻辑的不自洽构成了自我侵蚀的核心驱动力。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 29–30)]]
 > > - **Pierson (2004)** 强调时间与长滞后效应在制度收益分配中的调节作用，指出耗竭往往体现为沉没成本与[[Path Dependence|路径依赖]]难以维系时的被动调整。
 
 > [!warning] 适用局限
@@ -178,4 +178,4 @@ updated: 2026-10-12
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 提出制度耗竭概念，以德国提前退休制度自我侵蚀养老金税基为例，界定自毁、收益递减与增长极限三类衰竭机制。（pp. 29–31）
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 提出制度耗竭概念，以德国提前退休制度自我侵蚀养老金税基为例，界定自毁、收益递减与增长极限三类衰竭机制。（pp. 29–31）

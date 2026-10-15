@@ -39,14 +39,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 ## 背景
 
 > [!info] 背景
-> Playing for Success 是英国一项在著名足球俱乐部场地设立**学习支持中心（study support centres）**的教育项目。该项目针对成绩不佳（underachieving）的中小学生，利用足球俱乐部的声望和设施来激发学生的学习动机。项目由 Sharp et al. (2003) 代表英国教育与技能部（Department for Education and Skills）进行了系统评估([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, pp. 120–121]])。
+> Playing for Success 是英国一项在著名足球俱乐部场地设立**学习支持中心（study support centres）** 的教育项目。该项目针对成绩不佳（underachieving）的中小学生，利用足球俱乐部的声望和设施来激发学生的学习动机。项目由 Sharp et al. (2003) 代表英国教育与技能部（Department for Education and Skills）进行了系统评估([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, pp. 120–121]])。
 >
-> 该项目在 [[Education Endowment Foundation\|EEF]] Toolkit 的"体育参与"（Sports Participation）条目中被作为源研究之一——其异常高的[[Effect Size\|效应量]]（数学 0.80）被并入一个整体平均效应量 0.17（约 +2 个月额外进步），由此成为 Wrigley & McCusker (2019) 揭示[[Meta-meta-analysis\|元-元分析]]程序缺陷的关键案例（pp. 120–123）。
+> 该项目在 [[Education Endowment Foundation\|EEF]] Toolkit 的"体育参与"（Sports Participation）条目中被作为源研究之一——其异常高的[[Effect Size\|效应量]]（数学 0.80）被并入一个整体平均效应量 0.17（约 +2 个月额外进步），由此成为 Wrigley and McCusker (2019) 揭示[[Meta-meta-analysis\|元-元分析]]程序缺陷的关键案例（pp. 120–123）。
 
 ## 项目设计
 
@@ -77,7 +77,7 @@ updated: 2026-10-15
 ## 在 EBE 辩论中的意义
 
 > [!success] 在 [[Evidence-Based Education\|EBE]] 辩论中的意义
-> [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker (2019, pp. 120–123)]] 将 Playing for Success 作为揭示 [[Education Endowment Foundation\|EEF]] Toolkit [[Meta-meta-analysis\|元-元分析]]程序缺陷的深度案例：
+> [[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019, pp. 120–123)]] 将 Playing for Success 作为揭示 [[Education Endowment Foundation\|EEF]] Toolkit [[Meta-meta-analysis\|元-元分析]]程序缺陷的深度案例：
 >
 > 1. **[[Effect Size\|效应量]]的误归类** Playing for Success 的 0.80 效应量（数学）被并入"体育参与"的平均效应量 0.17。但该项目的核心特征（一对一辅导、个性化课程、ICT 套件、足球明星见面会带来的地位提升）与普通"体育参与"几乎没有共同之处。Wrigley & McCusker 论证："将成功仅仅归因于'体育参与作为接受额外数学教学的激励'——如 EEF 摘要所做——是没有用的"（p. 121）。
 >

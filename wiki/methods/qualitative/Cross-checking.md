@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Cross-checking
 
@@ -95,4 +95,4 @@ Kitwood（1977）推荐的实践是两位以上研究者独立提出类别系统
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — Kitwood（1977）将交叉检查作为陈述分析的两项安全措施之一；Blease & Cohen（1990）展示了交叉检查的具体操作：比较和讨论研究助理与研究者的[[Classroom Observation|课堂观察]]记录以达成确定陈述。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — Kitwood（1977）将交叉检查作为陈述分析的两项安全措施之一；Blease and Cohen（1990）展示了交叉检查的具体操作：比较和讨论研究助理与研究者的[[Classroom Observation|课堂观察]]记录以达成确定陈述。

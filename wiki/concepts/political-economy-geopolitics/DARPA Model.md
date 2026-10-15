@@ -70,7 +70,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **[[DARPA]] 模式（DARPA Model）**指以“防范国家技术突袭并主动制造技术突袭”为法定使命，通过去中心化、扁平化的组织架构，赋予具备深厚技术研判权的流动性项目经理（Program Managers, PMs）极大的立项自由裁量权，运用[[Broad Agency Announcement|广泛领域资助公告]]（BAA）、[[Heilmeier Catechism|海尔迈耶问卷]]（Heilmeier Catechism）与微观非正式[[Network Governance|网络治理]]机制，在前沿高风险硬科技领域主动识别、催化并引导战略[[Technological Trajectories|技术轨道]]的国家创新管理[[Paradigm|范式]]。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1135)]]
+> **[[DARPA]] 模式（DARPA Model）** 指以“防范国家技术突袭并主动制造技术突袭”为法定使命，通过去中心化、扁平化的组织架构，赋予具备深厚技术研判权的流动性项目经理（Program Managers, PMs）极大的立项自由裁量权，运用[[Broad Agency Announcement|广泛领域资助公告]]（BAA）、[[Heilmeier Catechism|海尔迈耶问卷]]（Heilmeier Catechism）与微观非正式[[Network Governance|网络治理]]机制，在前沿高风险硬科技领域主动识别、催化并引导战略[[Technological Trajectories|技术轨道]]的国家创新管理[[Paradigm|范式]]。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1135)]]
 
 > [!concept-lens] 概念透镜
 > - **核心功能** 突破传统市场价格机制与科层同行评议对颠覆性创新的抑制，在极高不确定性领域实现 0 到 1 的革命性跨越。
@@ -165,5 +165,5 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 深度解构 [[DARPA]] 模式微观本质的里程碑论文，确立[[Embedded Network Governance|嵌入型网络治理]][[Paradigm|范式]]。
-> - Bonvillian & Van Atta (2011) — 提出 DARPA 作为国家技术变革“连通性发动机”的综合分析模型。
+> - Bonvillian and Van Atta (2011) — 提出 DARPA 作为国家技术变革“连通性发动机”的综合分析模型。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 把 DARPA 写成不把共识小组当作主要决策者、由单个项目经理下技术赌注并组织团队的容器。国会后来设立的健康领域高级研究计划局（[[ARPA-H|Advanced Research Projects Agency for Health]], ARPA-H）和能源领域高级研究计划局（Advanced Research Projects Agency–Energy, [[ARPA-E]]）被当作同一逻辑的延伸。报告把成功归结为雇对人和给他们真正的裁量，并把海尔迈耶问答当作缺口绘图的纪律。它同时指出，中等规模科学里的[[Focused Research Organization|聚焦研究组织]]和X 实验室占据的是标准联邦资助装不下、风险投资又因不够商业而离开的另一块，不能由项目经理模式单独覆盖。

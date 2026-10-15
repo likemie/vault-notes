@@ -67,7 +67,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-17
-updated: '2026-08-27'
+updated: 2026-10-16
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03
 
@@ -139,7 +139,7 @@ updated: '2026-08-27'
 
 > Norris（1990, p. 97）认为，评估是将研究方法应用于行动问题以提供启示的活动。他主张**评估可以视为研究的延伸（an extension of research）**，因为二者共享方法论和方法，且评估者与研究者拥有相似的调查技能。在操作层面，上述8项特征涵盖了科学方法的诸多要素（p.31）。
 
-Smith & Glass（1987）将研究（以及与之共享方法的评估）的操作程序概括为**科学方法的7个步骤**
+Smith and Glass（1987）将研究（以及与之共享方法的评估）的操作程序概括为**科学方法的7个步骤**
 
 > [!proc] Table 3.1：科学方法的7步骤（Smith & Glass, 1987）
 > | 步骤 | 内容 | 关键动作 |
@@ -167,7 +167,7 @@ Smith & Glass（1987）将研究（以及与之共享方法的评估）的操作
 
 尽管操作层面如此相似，研究与评估之间存在重要的概念差异。这些差异**不总是仅从出版物表面就能明显看出**。出版物通常不披露：（1）引发调查的背景事件；（2）报告材料的用途；（3）传播权（dissemination rights）的归属以及谁持有传播权（Sanday, 1993）（p.31）。
 
-**Smith & Glass（1987）的8点差异**。Smith & Glass 系统比较了研究与评估在8个维度上的差异（pp.31–34）：
+**Smith and Glass（1987）的8点差异**。Smith & Glass 系统比较了研究与评估在8个维度上的差异（pp.31–34）：
 
 > [!contrast-table] Table 3.2：研究与评估的差异（Smith & Glass, 1987）
 > | 维度 | 研究 | 评估 |
@@ -215,7 +215,7 @@ Smith & Glass（1987）将研究（以及与之共享方法的评估）的操作
 >
 
 > [!contrast-table]- Table 3.3b：Smith & Glass 8点 vs Glass & Worthen 11点——共享与独有
-> | | Smith & Glass (1987) 8点 | Glass & Worthen (1990) 11点 |
+> | | Smith and Glass (1987) 8点 | Glass and Worthen (1990) 11点 |
 > |------|--------------------------|-----------------------------|
 > | **共享 5 组** | 意图与目的 | 探究动机 |
 > | | 价值立场 | 价值问题的突出性 |
@@ -269,7 +269,7 @@ MacDonald（1987）进而提出了一个颠覆性的主张（p.36）：
 > *The danger therefore of conceptualizing evaluation as a branch of research is that evaluators become trapped in the restrictive tentacles of research respectability. Purity may be substituted for utility, trivial proofs for clumsy attempts to grasp complex significance. How much more productive it would be to define research as a branch of evaluation, a branch whose task it is to solve the technological problems encountered by the evaluator.*
 
 > [!exegesis] 为什么 MacDonald（1987）主张"倒转"研究-评估关系
-> MacDonald的逻辑是：如果评估被视为研究的分支，评估者就会以研究的标准（方法论纯粹性、理论贡献、内部效度）来评判自己的工作，而这些标准恰恰不是评估的委托人（决策者、公众、利益相关者）所关心的。评估者需要的是**效用（utility）**而非**纯粹（purity）**。倒转关系之后，研究只是评估工具包中的一个技术分支——这一定位使研究的方法论工具仍然可用，但不再让方法论标准绑架评估的政治和实用功能。然而正如后续讨论所示，现实中的[[Categorical Funding\|分类资助]]正在从反方向——将研究拉向评估——模糊这一关系。
+> MacDonald的逻辑是：如果评估被视为研究的分支，评估者就会以研究的标准（方法论纯粹性、理论贡献、内部效度）来评判自己的工作，而这些标准恰恰不是评估的委托人（决策者、公众、利益相关者）所关心的。评估者需要的是**效用（utility）** 而非**纯粹（purity）**。倒转关系之后，研究只是评估工具包中的一个技术分支——这一定位使研究的方法论工具仍然可用，但不再让方法论标准绑架评估的政治和实用功能。然而正如后续讨论所示，现实中的[[Categorical Funding\|分类资助]]正在从反方向——将研究拉向评估——模糊这一关系。
 
 ---
 
@@ -300,9 +300,9 @@ Burgess（1993, p. 1）概括了这一趋势的极端表达：
 > - **时间** 从"开放式"转向"赞助方规定的时间表"
 > - **数据所有权** 从"研究者保留"转向"与赞助方谈判"
 >
-> 这恰好对应了 Smith & Glass（1987）8点差异中的多数维度——分类资助在操作上将研究推向评估的一端。
+> 这恰好对应了 Smith and Glass（1987）8点差异中的多数维度——分类资助在操作上将研究推向评估的一端。
 
-Anderson & Biddle（1991）编著的文集进一步印证了这一判断：研究与政治难以和谐共处，因为研究者有更长的时间尺度并试图处理情境的复杂性，而政治人物出于短期生存考虑，需要压缩的时间尺度、简单的方案和与其政治议程一致的研究（p.37）。
+Anderson and Biddle（1991）编著的文集进一步印证了这一判断：研究与政治难以和谐共处，因为研究者有更长的时间尺度并试图处理情境的复杂性，而政治人物出于短期生存考虑，需要压缩的时间尺度、简单的方案和与其政治议程一致的研究（p.37）。
 
 James（1993, p. 135）对评估证据政治命运的冷峻判断：
 > [!citation-card]- James 论评估证据的政治命运
@@ -312,7 +312,7 @@ James（1993, p. 135）对评估证据政治命运的冷峻判断：
 
 ##### 顺应性评估（Conformative Evaluation）
 
-当评估高度政治化时，即评估的经费、发表权和数据所有权都受控于委托方，Stronach & Morris（1994）认为评估会呈现出一种系统性的异化形态：**[[Conformative Evaluation|顺应性评估]]（conformative evaluation）**（pp.38–39）。
+当评估高度政治化时，即评估的经费、发表权和数据所有权都受控于委托方，Stronach and Morris（1994）认为评估会呈现出一种系统性的异化形态：**[[Conformative Evaluation|顺应性评估]]（conformative evaluation）**（pp.38–39）。
 
 > [!evidence-grid] 顺应性评估的8个特征（Stronach & Morris, 1994）
 > | # | 特征 | 说明 |
@@ -331,10 +331,10 @@ James（1993, p. 135）对评估证据政治命运的冷峻判断：
 
 ##### 学校微观政治与行动研究的困境
 
-Morrison（1993）进一步指出，评估的政治化不仅限于大规模政策项目，还渗透到学校的微观层面（p.39）。Hoyle（1986）提出了**学校微观政治（micro-politics of the school）**的概念：评估数据是否被用来为某个部门或院系引入资源或撤回资源？评估者必须谨慎选择其立场和忠诚对象（Barton, 2002），因为评估结果的后果可能使这些忠诚受到质疑（Barton, 2002, p. 377）——尽管评估者可能希望保持被动和非政治化，但委托评估的人和现实情境并不共享这种看法，尤其是当评估数据被选择性或扭曲性地使用来正当化不同选项时。
+Morrison（1993）进一步指出，评估的政治化不仅限于大规模政策项目，还渗透到学校的微观层面（p.39）。Hoyle（1986）提出了**学校微观政治（micro-politics of the school）** 的概念：评估数据是否被用来为某个部门或院系引入资源或撤回资源？评估者必须谨慎选择其立场和忠诚对象（Barton, 2002），因为评估结果的后果可能使这些忠诚受到质疑（Barton, 2002, p. 377）——尽管评估者可能希望保持被动和非政治化，但委托评估的人和现实情境并不共享这种看法，尤其是当评估数据被选择性或扭曲性地使用来正当化不同选项时。
 
 > [!warning] [[Action Research\|行动研究]]的政治化：[[Problem Solving\|问题解决]]与问题设定
-> 学校本位的行动研究（school-based action research）——尽管被其倡导者赋予了解放性的声称（如 Carr & Kemmis, 1986; Grundy, 1987 主张行动研究赋权教师、促进民主实践）——在实践中往往呈现出另一种面貌：它更关注于**在给定议程下**找出最成功的组织、规划、教学和评估方式，而非**设定议程**和追随自己的研究议程。这是**问题解决（problem-solving）**与**问题设定（problem-setting）**的差异。
+> 学校本位的行动研究（school-based action research）——尽管被其倡导者赋予了解放性的声称（如 Carr & Kemmis, 1986; Grundy, 1987 主张行动研究赋权教师、促进民主实践）——在实践中往往呈现出另一种面貌：它更关注于**在给定议程下**找出最成功的组织、规划、教学和评估方式，而非**设定议程**和追随自己的研究议程。这是**问题解决（problem-solving）** 与**问题设定（problem-setting）** 的差异。
 >
 > 评估与研究被政治力量在宏观（政府资助和传播控制）和微观（学校内部资源分配）两个层面同时拉拢在一起，证明政治对教育的干预日益增长，从而巩固了执政政府的霸权（pp.39–40）。
 
@@ -348,7 +348,7 @@ Morrison（1993）进一步指出，评估的政治化不仅限于大规模政�
 > 5. 评估的**受关注度和被利用程度**取决于其结果与决策者政治吸引力的契合度——与技术质量无关。
 
 > [!tip]- Burgess 的务实策略
-> 面对分类资助和政治化的双重压力，Burgess（1993）提出了一种务实策略：研究者需要**在满足赞助方评估要求的同时，也产生研究数据**——这就涉及在合同谈判阶段就明确**数据所有权（ownership of the data）**和**知识产权（intellectual property rights）**的归属。这是在政治现实中为学术自主争取空间的策略性行动（p.41）。
+> 面对分类资助和政治化的双重压力，Burgess（1993）提出了一种务实策略：研究者需要**在满足赞助方评估要求的同时，也产生研究数据**——这就涉及在合同谈判阶段就明确**数据所有权（ownership of the data）** 和**知识产权（intellectual property rights）** 的归属。这是在政治现实中为学术自主争取空间的策略性行动（p.41）。
 
 
 ---
@@ -356,7 +356,7 @@ Morrison（1993）进一步指出，评估的政治化不仅限于大规模政�
 ### 3.2 研究、政治与政策制定
 
 > [!abstract] 核心结构
-> 前一节的讨论已表明教育研究具有不可逃避的政治维度。本节从三个层面展开这一判断：（1）**宏观政治**层面——资助安排、传播控制和数据所有权如何政治化研究；（2）**[[Research Utilization\|研究利用]]**层面——研究产生的多种知识类型如何通过不同模型进入政策制定过程；（3）**[[Epistemology\|认识论]]**层面——研究政治性的最深层次体现：谁定义什么算作有价值的研究知识。
+> 前一节的讨论已表明教育研究具有不可逃避的政治维度。本节从三个层面展开这一判断：（1）**宏观政治**层面——资助安排、传播控制和数据所有权如何政治化研究；（2）**[[Research Utilization\|研究利用]]** 层面——研究产生的多种知识类型如何通过不同模型进入政策制定过程；（3）**[[Epistemology\|认识论]]** 层面——研究政治性的最深层次体现：谁定义什么算作有价值的研究知识。
 
 ---
 
@@ -394,7 +394,7 @@ Morrison（1993）进一步指出，评估的政治化不仅限于大规模政�
 
 影响力的程度取决于传播的审慎性（p.42）：
 
-> [!warning] Knott & Wildavsky（1991）的传播悖论
+> [!warning] Knott and Wildavsky（1991）的传播悖论
 > - **传播太少** → 信息被忽视。研究待在学术期刊里，决策者从未看到。
 > - **传播太多** → 信息过载使决策者困惑并变得愤世嫉俗——形成"**狼来了**"综合征（the syndrome of the boy who cried wolf）。
 >
@@ -421,7 +421,7 @@ Weiss（1991b）识别了研究进入政策制定的四种经典模型（p.43）
 本节的核心主张是：**研究的影响力在很大程度上取决于其结论与政府政治议程的契合度（Thomas, 1991; Cook, 1991）**。
 
 > [!claim] 研究利用的政治性是一个共识（truism）
-> Selleck（1991）、Kamin（1991）、Horowitz & Katz（1991）以及 Wineburg（1991）一致确认：研究对政策的影响是**强烈且不可逃避地政治性的**。这是一个被反复印证的共识（truism）。
+> Selleck（1991）、Kamin（1991）、Horowitz and Katz（1991）以及 Wineburg（1991）一致确认：研究对政策的影响是**强烈且不可逃避地政治性的**。这是一个被反复印证的共识（truism）。
 
 > [!citation-card]- Wineburg（1991）论研究如何沦为"确认性文本"
 > 研究太容易成为仅仅一种"确认性文本"（affirmatory text）——一种"为体制开脱"（exonerates the system）的文本——被那些在其中只寻求自己声音和愿望的回声的人所使用。（Wineburg, 1991; Kogan & Atkin, 1991）
@@ -429,7 +429,7 @@ Weiss（1991b）识别了研究进入政策制定的四种经典模型（p.43）
 > *Research too easily becomes simply an "affirmatory text" which "exonerates the system" and is used by those who seek to hear in it only echoes of their own voices and wishes.*
 
 > [!implication] 为什么政治可接受性是影响力的门槛而非质量的门槛
-> 政策制定者的核心关切是**政治生存（Cook, 1991）**和**社会项目的推进（Thomas, 1991）**。研究对他们而言是众多工具中的一种：
+> 政策制定者的核心关切是**政治生存（Cook, 1991）** 和**社会项目的推进（Thomas, 1991）**。研究对他们而言是众多工具中的一种：
 > - 当研究支持其议程时，研究被用作"科学背书"——赋予政策以认识论合法性。
 > - 当研究不支持其议程时，研究被视作"学术脱离现实"——其方法论被质疑、其复杂性被指责为"不确定"。
 >
@@ -468,7 +468,7 @@ Levin（1991）识别了研究者与决策者之间在多个维度上的系统�
 本章在最深层次上触及了一个认识论问题：**研究的政治性不仅体现在资助和利用层面，还体现在"什么算作知识"的定义权层面（p.45）**。
 
 > [!claim] [[Positivism\|实证主义]]研究的政治后果：维系传统社会观念
-> Usher & Scott（1996, p. 176）指出，[[Positivism\|实证主义]]研究使一种传统的社会观念得以相对不受挑战地保存——即**白人、男性、中产阶级研究者**——相对排斥"他者"（others）作为合法的知者（legitimate knowers）。
+> Usher and Scott（1996, p. 176）指出，[[Positivism\|实证主义]]研究使一种传统的社会观念得以相对不受挑战地保存——即**白人、男性、中产阶级研究者**——相对排斥"他者"（others）作为合法的知者（legitimate knowers）。
 
 这一批评进入了认识论辩论的核心领域：
 

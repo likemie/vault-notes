@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Cold War University
@@ -176,7 +176,7 @@ updated: 2026-10-07
 > > 探讨深度绑定军事安全合同是强化了[[University-Based Research Infrastructure|大学科研基础设施]]，还是扭曲了学术自由与基础探索取向。
 > >
 > > - **Leslie / Lowen（1993, 1997）** 揭示过度依赖五角大楼资助可能使大学科研选题受制于军方战术目标，引发对学术独立性与学科失衡的深层忧虑。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 29)]]
-> > - **[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]]** 强调冷战时期国防部对高校基础与应用研究资助相对开放，客观上为战后计算机科学建制化与民用技术基础设施奠定了不可替代的基石。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29, 36)]]
+> > - **[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]]** 强调冷战时期国防部对高校基础与应用研究资助相对开放，客观上为战后计算机科学建制化与民用技术基础设施奠定了不可替代的基石。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29, 36)]]
 
 > [!tension] 冷战大学历史评价的核心张力
 > - **军事化[[Dependency Theory|依附论]]（蓝方）** 批评五角大楼的研发合同实质上将高等学府改造成军工复合体（Military-Industrial Complex）的学术延伸，扭曲了自然科学研究重心，抑制了非军事学科发展并侵蚀了大学纯洁自治。
@@ -203,5 +203,5 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]] — 历史制度分析战后五十年美国国防研发投资与采购政策，实证揭示斯坦福与 MIT 等顶尖大学如何依托国防经费构建科研基础设施，在培育计算机学科与[[ARPANET|阿帕网]]节点的同时成为军民双向技术扩散的核心枢纽。
+> - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 历史制度分析战后五十年美国国防研发投资与采购政策，实证揭示斯坦福与 MIT 等顶尖大学如何依托国防经费构建科研基础设施，在培育计算机学科与[[ARPANET|阿帕网]]节点的同时成为军民双向技术扩散的核心枢纽。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 考证战后美国大学计算机设备采购中联邦资金占比高达 66%，印证战后大学[[Disciplinary Institutionalization|学科建制化]]与信息产业人才供给深受国防与联邦科技政策的制度塑造。

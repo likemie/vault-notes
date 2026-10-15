@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Postmodernism
@@ -115,7 +115,7 @@ updated: 2026-10-15
 > - **1991 — 11 项特征系统化与文化批判** 詹姆逊系统归纳后现代主义 11 项显著特征（无深度、情境性、差异、断裂、权力纽带等），建立跨学科分析坐标系。
 > - **1970s–1990s — 比较教育学科破除西方中心论与现代化正统** 战后比较教育学中由现代化理论与[[Structural Functionalism|结构功能主义]]构建的单向线性发展神话解体；拉斯特等人指出，后现代主义作为 26 种核心[[Theoretical Standpoint|理论立场]]之一，有力促成了对西方中心主义元叙事的解构，为非西方与本土经验的学术合法性确立了基础。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 131–132, 136)]]
 > - **1990s — 教育[[Qualitative Research|质性研究]]的后现代转向** 帕蒂·拉瑟（Patti Lather, 1991）与[[Stephen Ball|斯蒂芬·鲍尔]]（[[Stephen Ball]]）等将后现代思想全面引入课程论、政策社会学与[[Qualitative Interview|质性访谈]]，发起对研究者特权与权威文本的深度解构。
-> - **2010s 至今 — 复杂系统与多元[[Paradigm|范式]]共生前沿** Cohen, Manion & Morrison（2011）系统论述后现代主义与[[Complexity Theory|复杂性理论]]、[[Critical Theory|批判理论]]及[[Interpretive Paradigm|诠释范式]]的变色龙亲和性，奠定[[Pluralism|多元主义]]研究生态。
+> - **2010s 至今 — 复杂系统与多元[[Paradigm|范式]]共生前沿** Cohen, Manion and Morrison（2011）系统论述后现代主义与[[Complexity Theory|复杂性理论]]、[[Critical Theory|批判理论]]及[[Interpretive Paradigm|诠释范式]]的变色龙亲和性，奠定[[Pluralism|多元主义]]研究生态。
 
 ---
 

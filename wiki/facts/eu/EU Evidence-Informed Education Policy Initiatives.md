@@ -172,7 +172,7 @@ updated: 2026-10-16
 
 > [!finding-cards] 关键成效与客观局限
 > - **打破狭隘医学[[Positivism\|实证主义]]霸权** 欧洲倡议成功捍卫了[[Qualitative Research\|质性研究]]与[[Mixed Methods Research\|混合方法]]在证据生态中的合法地位，避免了欧洲教育陷入单一 [[Randomised Controlled Trials\|RCT]] 指标至上主义的泥潭。
-> - **[[Reusability Paradox\|可重用性悖论]]（Reusability Paradox）的制度挑战** [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] 深刻论证指出，欧洲高度异质的制度与文化环境导致证据无法作为通用“固定脚本”跨国复用；即便某一干预在英国取得显著正向效应，直接移植到南欧或东欧也极易遭遇严重的制度排异反应。
+> - **[[Reusability Paradox\|可重用性悖论]]（Reusability Paradox）的制度挑战** [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] 深刻论证指出，欧洲高度异质的制度与文化环境导致证据无法作为通用“固定脚本”跨国复用；即便某一干预在英国取得显著正向效应，直接移植到南欧或东欧也极易遭遇严重的制度排异反应。
 
 > [!stat-cards]- 核心欧洲治理规模数据
 > - **38 个** [[Erasmus Programme|Erasmus+]] 参与国家纳入 Eurydice 监测体系
@@ -190,7 +190,7 @@ updated: 2026-10-16
 > > 争论缺乏硬约束的软治理能否实质性改变欧洲学校实践。
 > >
 > > - **美国对比视角** 美国通过 [[No Child Left Behind Act 2001\|NCLB]] 与 [[Every Student Succeeds Act\|ESSA]] 法案直接将联邦经费分配与 [[What Works Clearinghouse\|WWC]] 评级进行法律绑定，展现出极强的行政执行力。
-> > - **欧洲批判反思** [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] 认为，[[EU|欧盟]]倡议受限于[[Subsidiarity Principle|辅助性原则]]，只能提供政策鼓励与网络资助，导致欧洲各国的证据应用水平高度分化，缺乏统一的行动底线([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp. 26, 41–42]])。
+> > - **欧洲批判反思** [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] 认为，[[EU|欧盟]]倡议受限于[[Subsidiarity Principle|辅助性原则]]，只能提供政策鼓励与网络资助，导致欧洲各国的证据应用水平高度分化，缺乏统一的行动底线([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp. 26, 41–42]])。
 >
 > > [!axis] [[Lifelong Learning\|终身学习]][[21st Century Skills and Competencies Discourse\|核心素养]]与证据化评价的内在冲突
 > > 争论跨学科综合素养是否能够被传统循证测量工具精准测度。

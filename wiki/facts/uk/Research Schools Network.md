@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Research Schools Network
@@ -140,7 +140,7 @@ updated: 2026-10-15
 > - **学术与治理定位** 在 [[OECD]] [[Knowledge Mediation\|知识中介]]分类与欧洲证据基础设施研究中，被公认为基础教育领域最大规模的校际去中心化中介网络典范。[[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, p. 32)]]
 
 > [!finding-cards] 关键成效与辐射影响
-> - **突破单向供给的“同伴中介”[[Paradigm\|范式]]** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] 指出，教育中介若仅停留在象牙塔极易异化；RSN 证实最有效的中介往往由一线教育同行充当，共享的职业文化与微观现实感极大地化解了教师面对外部研究时的抵触情绪与[[Evidence Backlash\|证据反弹]]。
+> - **突破单向供给的“同伴中介”[[Paradigm\|范式]]** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] 指出，教育中介若仅停留在象牙塔极易异化；RSN 证实最有效的中介往往由一线教育同行充当，共享的职业文化与微观现实感极大地化解了教师面对外部研究时的抵触情绪与[[Evidence Backlash\|证据反弹]]。
 > - **平衡标准化证据与情境化[[Professional Judgment\|专业判断]]** RSN 不搞一刀切的机械套用，而是指导教师理解证据背后的核心机制（Active Ingredients），在校本情境中开展适应性微调，护持了教师的[[Professional Judgment\|专业判断力]]与[[Phronesis\|实践智慧]]。
 > - **助教配置区域推广达成终极学业显著增益** 深度参与南西约克郡助教指南推广战役，经英国财政研究所（IFS）[[Difference-in-Differences\|双重差分]]评估证实，参与学校 11 岁学童在全国统考（KS2）阅读与数学测试中获得数个月的显著学业进展。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 157)]]
 
@@ -181,7 +181,7 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 剖析[[International Education\|国际教育]][[Knowledge Mediation\|知识中介]]组织形态演化，将 RSN 确立为中介向校际[[Communities of Practice|实践共同体]]规模化下沉的标杆[[Paradigm\|范式]]（p. 62）。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 剖析[[International Education\|国际教育]][[Knowledge Mediation\|知识中介]]组织形态演化，将 RSN 确立为中介向校际[[Communities of Practice|实践共同体]]规模化下沉的标杆[[Paradigm\|范式]]（p. 62）。
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 深度解构英国有效性中心生态，将 RSN 作为 [[Education Endowment Foundation\|EEF]] 突破单纯信息传播、由中央平台向区域深度实施护航转型的核心案例（pp. 149–151），并阐明其在广泛拓展范式下面临的系统协调阻抗。
 > - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — 援引顾青团队（Gu et al., 2021）对机会区 RSN 为期三年的独立综合评估，实证剖析循证中介在文化重塑与终极学生学业产出之间的非线性时间滞后（p. 118）。
 

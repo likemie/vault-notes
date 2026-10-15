@@ -39,7 +39,7 @@ related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
 status: active
 created: 2026-08-13
-updated: 2026-08-14
+updated: 2026-10-16
 ---
 
 # Epistemological Reflection Model
@@ -114,4 +114,4 @@ updated: 2026-08-14
 > - **1970 年 — 纯男性样本** Perry (1970) 提出了大学生认知的纵向发展图式，但其样本最初完全由哈佛的白人男性构成。
 > - **1986 年 — 纯女性样本** Belenky 等 (1986) 提出了[[Women's Ways of Knowing\|女性认知方式]]，试图弥补女性视角的缺失。
 > - **1992 年 — 混合纵向追踪** Baxter Magolda (1992) 对 101 名男女大学生进行了为期 5 年的纵向追踪，首次提出了整合两个阵营的[[Epistemology\|认识论]]反思模型。
-> - **1997 年 — 理论提纯** [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 在重构认识论领域时，对该模型进行了剥离，剔除了其关于教学评价的边缘信念，将其核心维度正式纳入综合性的[[Epistemological Theories\|认识论理论]]。
+> - **1997 年 — 理论提纯** [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 在重构认识论领域时，对该模型进行了剥离，剔除了其关于教学评价的边缘信念，将其核心维度正式纳入综合性的[[Epistemological Theories\|认识论理论]]。

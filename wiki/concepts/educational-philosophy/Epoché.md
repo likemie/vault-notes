@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Epoché
@@ -282,7 +282,7 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 18–19)]] — 详尽梳理胡塞尔[[Phenomenology|现象学]]悬置的定义、放入括号的操作意涵、先验意识三要素以及 Curtis（1978）现象学共识对质性探究[[Paradigm|范式]]的奠基。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025, pp. 166–167)]] — 论证在工程文化与复杂系统诊断中“悬置评判”（suspending judgment）与如实注视云状现实的[[Epistemology|认识论]]核心地位。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, p. 448)]] — 揭示[[OECD|经合组织]]如何通过[[Ontology|本体论]]悬置将各国历史传统放入括号，制造全球等值[[Commensuration|通约]]空间并实施[[Governing at a Distance|远程治理]]。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, p. 448)]] — 揭示[[OECD|经合组织]]如何通过[[Ontology|本体论]]悬置将各国历史传统放入括号，制造全球等值[[Commensuration|通约]]空间并实施[[Governing at a Distance|远程治理]]。
 
 ---
 

@@ -223,7 +223,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-30
-updated: 2026-09-11
+updated: 2026-10-16
 year: 2022
 doi: ""
 citation_aliases:
@@ -365,8 +365,8 @@ citation_aliases:
 > “我们选择使用‘世界观’一词，意思是‘指导行动的一套基本信念’(Guba, 1990, p. 17)。”
 > ("We have chosen to use the term worldview as meaning 'a basic set of beliefs that guide action'.")（第1章, p.7）
 
-- [[Postpositivism|后实证主义]] 持[[Determinism|决定论]]和还原论立场。知识是推测性的，绝对真理无法被找到；研究者从理论出发，通过经验观察与测量收集数据，检验、验证并完善理论。它来自 19 世纪的 Comte、Mill、Durkheim、Newton、Locke，以及 Phillips & Burbules(2000)，是量化研究的主导哲学。
-- [[Constructivist Paradigm|建构主义]] 认为个体通过与世界的互动和社会历史背景建构主观意义。研究目标是理解参与者的多元和复杂视角，问题设计宽泛而开放。它从数据中归纳生成意义模式，不预设理论。思想来源包括 Berger & Luckmann(1967)、Lincoln & Guba(1985)、Crotty (1998) 等。它是质性研究的主导哲学。
+- [[Postpositivism|后实证主义]] 持[[Determinism|决定论]]和还原论立场。知识是推测性的，绝对真理无法被找到；研究者从理论出发，通过经验观察与测量收集数据，检验、验证并完善理论。它来自 19 世纪的 Comte、Mill、Durkheim、Newton、Locke，以及 Phillips and Burbules(2000)，是量化研究的主导哲学。
+- [[Constructivist Paradigm|建构主义]] 认为个体通过与世界的互动和社会历史背景建构主观意义。研究目标是理解参与者的多元和复杂视角，问题设计宽泛而开放。它从数据中归纳生成意义模式，不预设理论。思想来源包括 Berger and Luckmann(1967)、Lincoln and Guba(1985)、Crotty (1998) 等。它是质性研究的主导哲学。
 - [[Transformative Paradigm|变革主义]] 产生于 1980–90 年代，由认为后[[Positivism|实证主义]]无法适应边缘群体需求的研究者推动。研究必须与政治变革议程交织，以对抗社会压迫、赋权边缘群体为核心。研究者与参与者合作，为参与者发声(Mertens, 2010)。涵盖[[Critical Theory|批判理论]]、女性主义、参与式[[Action Research|行动研究]]、原住民方法论等群体。
 - [[Pragmatic Paradigm|实用主义]] 源自 Peirce、James、Mead、Dewey。不以任何单一哲学体系为皈依，关注"什么有效"——以研究问题为中心，自由选择最能满足目的的方法。真理是当下有效的，研究始终发生在社会历史情境中。它是混合方法研究的主导哲学。
 
@@ -377,7 +377,7 @@ citation_aliases:
 > | **核心信念** | 决定论：原因可能决定结果；还原论：将观念缩约为小的离散集进行检验 | 理解：个体寻求对生活世界的理解；主观意义通过社会和历史互动形成 | 政治性：研究必须与政治议程交织以对抗社会压迫 | 关注行动后果：以"什么有效"和[[Problem Solving\|问题解决]]为核心 |
 > | **知识观** | 知识是推测性的，绝对真理无法被找到；证据总是不完美的 | 意义是多样的、多元的；研究者寻找复杂性而非窄化范畴 | 研究应为边缘群体发声，提升意识，推进变革 | 真理是当下有效的；不基于心灵独立与心灵内部的双重性 |
 > | **方法论倾向** | 量化为主：从理论出发→收集数据→支持或反驳→修正再检验 | 质性为主：归纳式，从数据中生成意义模式，不预设理论 | 质性或混合：研究者与参与者协作，参与者可参与问题设计、数据收集和分析 | 混合方法：以研究问题为中心，自由选择最[[Fitness for Purpose\|适合目的]]的方法 |
-> | **思想来源** | 19 世纪 Comte, Mill, Durkheim, Newton, Locke；Phillips & Burbules (2000) | Berger & Luckmann (1967)；Lincoln & Guba (1985)；Crotty (1998) | Marx, Adorno, Marcuse, Habermas, [[Paulo Freire\|Freire]]；Fay (1987)；Mertens (2009, 2010) | Peirce, James, Mead, Dewey；Cherryholmes (1992)；Morgan (2007) |
+> | **思想来源** | 19 世纪 Comte, Mill, Durkheim, Newton, Locke；Phillips and Burbules (2000) | Berger and Luckmann (1967)；Lincoln and Guba (1985)；Crotty (1998) | Marx, Adorno, Marcuse, Habermas, [[Paulo Freire\|Freire]]；Fay (1987)；Mertens (2009, 2010) | Peirce, James, Mead, Dewey；Cherryholmes (1992)；Morgan (2007) |
 > | **研究者姿态** | 客观性：必须审查方法和结论中的偏差；信效度标准重要 | 自我定位：承认自身背景塑造解释；在研究中定位自身 | 合作性：不进一步边缘化参与者；提供发声和变革议程 | 自由选择：不受制于任一哲学体系；多元方法收集数据 |
 > | **典型应用** | [[Experimental Research\|实验研究]]、[[Survey Research\|调查研究]] | 民族志、现象学、扎根理论、叙事研究 | 参与式行动研究、批判民族志、[[Feminist Research\|女性主义研究]] | 混合方法研究 |
 
@@ -573,7 +573,7 @@ citation_aliases:
 > “一组相互关联的[[Construct\|构念]]（变量）、定义和命题，它们通过规定变量之间的关系来呈现对现象的系统性看法，其目的是解释自然现象”
 > ("a set of interrelated [[Construct\|constructs]] (variables), definitions, and propositions that presents a systematic view of phenomena by specifying relations among variables, with the purpose of explaining natural phenomena")(p.64, p.53)
 
-该定义包含两个关键要素：理论的目的（解释）和理论的程序（变量间关系）。Labovitz & Hagedorn (1971) 将理论依据（theoretical rationale）定义为"说明变量和关系陈述为何以及如何相互关联"(p.17)。用**彩虹比喻**来说明理论的作用：
+该定义包含两个关键要素：理论的目的（解释）和理论的程序（变量间关系）。Labovitz and Hagedorn (1971) 将理论依据（theoretical rationale）定义为"说明变量和关系陈述为何以及如何相互关联"(p.17)。用**彩虹比喻**来说明理论的作用：
 
 > [!quote]
 > “彩虹的比喻可以帮助想象理论是如何运作的。假设彩虹在自变量和因变量（或构念）之间架起了一座桥梁。这条彩虹将变量联系在一起，并为我们为何以及如何预期自变量能解释或预测因变量提供了一个总体解释。”
@@ -653,7 +653,7 @@ citation_aliases:
 - **[[Queer Theory|酷儿理论]]（Queer theory）** 聚焦 LGBTQ2A+ 个体身份，反对客体化(Gamson, 2000)
 - **残障探究（Disability inquiry）** 从社会文化视角理解残障人群(Mertens, 2009)
 
-Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联的主张：研究本质上涉及权力问题；研究报告由具有种族、性别、阶级和政治取向的个体所撰写；种族、阶级和性别（以及性取向、身体状况、第一语言等）对理解经验至关重要；传统研究历史上压制了受压迫和边缘化群体的声音(p.91)。
+Rossman and Rallis (2012) 将批判和后现代视角概括为四个相互关联的主张：研究本质上涉及权力问题；研究报告由具有种族、性别、阶级和政治取向的个体所撰写；种族、阶级和性别（以及性取向、身体状况、第一语言等）对理解经验至关重要；传统研究历史上压制了受压迫和边缘化群体的声音(p.91)。
 
 **第三种形态：作为[[Theoretical End Point|理论终点]]。** 质性研究的归纳过程从数据出发，上升到广泛主题，再归纳为一般化的模型或理论(Punch, 2014)。
 
@@ -666,7 +666,7 @@ Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联�
 
 归纳逻辑（图 3.5）从下往上依次是：收集详细信息 → 提出开放问题或记录[[Field Notes|田野笔记]] → 分析数据形成主题或类别 → 寻找广泛的模式、概括或理论 → 基于过去经验和文献提出概括或理论。
 
-理论终点的形式因设计而异：案例研究中为[[Naturalistic Generalization|自然主义概括]](Stake, 1995)，扎根理论中为从参与者信息归纳生成的理论(Strauss & Corbin, 1998)，Lincoln & Guba (1985) 则称之为模式理论（pattern theories）——相互关联的思想或部分连接为整体。示例 3.3 展示了 Creswell & Brown (1992) 使用 33 次与学术系主任的访谈，将归纳发展的理论模型放在文章末尾。
+理论终点的形式因设计而异：案例研究中为[[Naturalistic Generalization|自然主义概括]](Stake, 1995)，扎根理论中为从参与者信息归纳生成的理论(Strauss & Corbin, 1998)，Lincoln and Guba (1985) 则称之为模式理论（pattern theories）——相互关联的思想或部分连接为整体。示例 3.3 展示了 Creswell and Brown (1992) 使用 33 次与学术系主任的访谈，将归纳发展的理论模型放在文章末尾。
 
 **第四种形态：没有明确理论。** 一些质性研究（如现象学）不包含明确的理论取向。Schwandt (2014) 指出，任何质性研究都从先前的概念结构出发，由理论和方法组成的这种结构为所有观察提供了起点。
 
@@ -686,7 +686,7 @@ Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联�
 
 **第四步：混合方法研究中的理论使用。** 混合方法研究中使用两种主要类型的理论：[[Discipline-Based Theory|学科理论]]和[[Social Justice Theory|社会正义理论]]。
 
-**学科理论**从社会、行为或健康科学文献中提取，识别变量或[[Construct|构念]]并将它们相互关联，形成并解释对个人和组织的预期结果。常见例子包括组织理论、领导力理论、采纳理论、归因理论和健康促进理论。Kennett et al. (2008) 在慢性疼痛管理混合方法研究中，使用 Rosenbaum (1990) 的 [[Self-control|自我控制]]理论指导量化测量（SCS 量表）和[[Qualitative Interview|质性访谈]]，在开头段落即宣告[[Research Purpose|研究目的]]，在末尾以图表回顾最显著的因素。Clark & Plano Clark (2019) 则使用积极心理学理论来框架化研究设计、个案选择以及结果和发现的解释(p.104)。
+**学科理论**从社会、行为或健康科学文献中提取，识别变量或[[Construct|构念]]并将它们相互关联，形成并解释对个人和组织的预期结果。常见例子包括组织理论、领导力理论、采纳理论、归因理论和健康促进理论。Kennett et al. (2008) 在慢性疼痛管理混合方法研究中，使用 Rosenbaum (1990) 的 [[Self-control|自我控制]]理论指导量化测量（SCS 量表）和[[Qualitative Interview|质性访谈]]，在开头段落即宣告[[Research Purpose|研究目的]]，在末尾以图表回顾最显著的因素。Clark and Plano Clark (2019) 则使用积极心理学理论来框架化研究设计、个案选择以及结果和发现的解释(p.104)。
 
 **社会正义理论**帮助为社会中边缘化和未被充分代表的人群发声，涵盖[[Feminist Research|女性主义研究]]、种族研究、残障研究和生活方式研究等。Hodgkin (2008) 考察了澳大利亚男女社会资本的性别差异，将研究定位为"展示混合方法在女性主义研究中的使用"(p.296)，在文章开头讨论女性主义视角，在第二阶段通过女性声音探索"好母亲""社会隔离""积极公民"等主题。
 
@@ -703,7 +703,7 @@ Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联�
 > [!example]- Four Levels for Developing a Research Study (Adapted from Crotty, 1998)
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_3-6_Four_Levels_Research_Study.jpg)
 
-关于**理论驱动（theoretically driven）的争议**。Morse & Niehaus (2009) 主张所有混合方法研究都由理论驱动，要么量化为主，要么质性为主。另一种立场认为，这种取向在量化和质性之间制造了不健康的权力失衡，混合方法研究的核心优势恰恰在于给予两种研究形式同等的重要性。
+关于**理论驱动（theoretically driven）的争议**。Morse and Niehaus (2009) 主张所有混合方法研究都由理论驱动，要么量化为主，要么质性为主。另一种立场认为，这种取向在量化和质性之间制造了不健康的权力失衡，混合方法研究的核心优势恰恰在于给予两种研究形式同等的重要性。
 
 理论可以具体指导混合方法项目的诸多方面。以 Evans et al. (2011) 使用生命历程视角（Life Course Perspective）为例，理论通过视觉模型呈现，构念纳入研究目标，理论故事用于招募参与者，理论结构指导质性问题和量化工具，理论提供质性分析的起始编码和量化分析的假设关系，最终贡献了有用的发现类型学。理论应被更明确地关联到特定的混合方法研究设计类型（如聚敛式设计），并在设计图示中标识理论及其名称。
 
@@ -758,7 +758,7 @@ Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联�
 
 **写作过程**涉及三个关键框架。Franklin (1986) 的三阶段模型将写作分解为大纲、草稿并排序段落、编辑打磨每句话，三个阶段对应不同的认知任务。Elbow (1973) 建议用一小时写四稿（每 15 分钟一稿）。Zinsser (1983) 区分了"砖匠"和"先全倒出来"两类写作者，两极之间有迭代改进的中间路径。
 
-**[[Writing Habit|写作习惯]]**围绕"每天都写"这一核心原则展开(Boice, 1990, pp.77–78)，九项策略覆盖时间审计、定时写作、拆解任务、进度图表和同伴分享等层面。物理环境同样参与习惯建立：Dillard (1989, pp.26–27) 刻意选择没有风景的房间以集中注意力，与 Boice 的时间管理策略形成互补。
+**[[Writing Habit|写作习惯]]** 围绕"每天都写"这一核心原则展开(Boice, 1990, pp.77–78)，九项策略覆盖时间审计、定时写作、拆解任务、进度图表和同伴分享等层面。物理环境同样参与习惯建立：Dillard (1989, pp.26–27) 刻意选择没有风景的房间以集中注意力，与 Boice 的时间管理策略形成互补。
 
 > [!quote]
 > “人需要一个没有风景的房间，这样想象力才能在黑暗中与记忆相遇。”
@@ -1068,7 +1068,7 @@ Script 是一种填空式模板工具，将质性目的陈述的所有要素串�
 | [[Phenomenology\|现象学]] | 宽泛陈述，不引用文献或类型学；询问参与者经历了什么及在什么情境下 | Moustakas (1994) |
 | [[Grounded Theory\|扎根理论]] | 指向生成关于某一过程的理论，如"照顾者和病人如何互动？" | Creswell |
 | [[Case Study\|案例研究]] | 可包含对案例的描述及研究涌现的主题 | Yin (2009, 2014) |
-| [[Narrative Research\|叙事研究]] | 报告或反思故事 | Clandinin & Connelly (2000) |
+| [[Narrative Research\|叙事研究]] | 报告或反思故事 | Clandinin and Connelly (2000) |
 
 质性研究问题的九条写作指南：① 提出一至两个核心问题；② 辅以五至七个子问题；③ 关联特定质性路径；④ 以 what 或 how 开头（why 暗示因果解释思维，属于量化[[Paradigm|范式]]）；⑤ 聚焦单一核心现象；⑥ 使用探索性动词（report/reflect, describe the essence, discover/generate, seek to understand, explore, describe the themes）；⑦ 预计问题会演变；⑧ 使用[[Open-Mindedness|开放性]]问题，不引用文献或理论；⑨ 指定参与者和研究场所。
 
@@ -1103,7 +1103,7 @@ Script 是一种填空式模板工具，将质性目的陈述的所有要素串�
 > “在一个合并量化和质性结果的单阶段混合方法项目（[[Convergent Design\|聚敛式设计]]）中，量化问题或质性问题都可以首先提出。在一个分为两阶段的项目（[[Explanatory Sequential Design\|解释性序列设计]]）中，第一阶段的量化问题或假设将最先出现，随后是第二阶段的质性问题。”
 > ("In a single-phase mixed methods project (a [[Convergent Design]]) in which the quantitative and qualitative results are merged, either the quantitative or the qualitative questions can be posed first. In a two-phase project (an [[Explanatory Sequential Design]]), the first-phase quantitative questions or hypotheses would come first, followed by the second-phase qualitative questions.")（第7章）
 
-Moseholm et al. (2017) 在健康科学领域提供了量—质—混合方法三部分目标陈述的范例(Ch7)。DeCoito & Estaiteyeh (2022) 的 [[STEM Education|STEM]] 教师在线教学研究也是典型范例。
+Moseholm et al. (2017) 在健康科学领域提供了量—质—混合方法三部分目标陈述的范例(Ch7)。DeCoito and Estaiteyeh (2022) 的 [[STEM Education|STEM]] 教师在线教学研究也是典型范例。
 
 > [!quote]
 > “我们鼓励混合方法研究者将量化、质性以及一个混合方法研究问题写入他们的研究中。通过添加一个混合方法研究问题，研究者传达了整合或组合量化与质性要素的重要性。”
@@ -1334,7 +1334,7 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 > | [[Internal Validity\|内部效度威胁]]—程序相关 | 2 种（测验、工具） | 测量过程本身是否改变了结果？ | 统一前后测工具、延长间隔 | [[Internal Validity]] |
 > | [[External Validity\|外部效度威胁]] | 3 种（选择×处理、情境×处理、历史×处理） | 结果能否推广到其他人群、情境和时间？ | 限制推广范围、在不同条件下复制 | [[External Validity]] |
 >
-> Source: Adapted from Creswell & Guetterman (2018); 引自 Creswell & Creswell, 2022, Ch8
+> Source: Adapted from Creswell and Guetterman (2018); 引自 Creswell & Creswell, 2022, Ch8
 
 这也同一个章节的fig8，用image2重做一下这个图。不需要完全复刻，你只需完全理解作者想要表达的，并做成一个让人更易懂、且美观的图，并且保留原图上的所有信息。根据原文增强一下解释> [!example] 表8.5–8.6 — 效度威胁完整分类与应对策略见 [[Internal Validity]] 条目（表8.5：10种内部效度威胁，分受试者相关5种、处理相关3种、程序相关2种，含举例）和 [[External Validity]] 条目（表8.6：3种[[Threats to External Validity|外部效度威胁]]，含举例与两种额外威胁说明）。
 
@@ -1470,7 +1470,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 **第三步：数据收集程序。** 依次涉及抽样与招募、获取许可、四种数据收集类型和记录协议。
 
 > [!example] 抽样与招募
-> [[Purposeful Sampling\|目的性抽样]]选择最能帮助理解研究问题的参与者或场所。Miles & Huberman(1994)提出四要素：场所（where）、行动者（who）、事件（what actors do）、过程（evolving nature of events）。招募需说明告知方式、激励措施和备选方法。
+> [[Purposeful Sampling\|目的性抽样]]选择最能帮助理解研究问题的参与者或场所。Miles and Huberman(1994)提出四要素：场所（where）、行动者（who）、事件（what actors do）、过程（evolving nature of events）。招募需说明告知方式、激励措施和备选方法。
 >
 > 样本量因设计而异：叙事研究 1-2 人、现象学 3-10 人、扎根理论 20-30 人、民族志一个文化群体、案例研究 4-5 个案例、描述性方法至少 20 人。饱和概念来自扎根理论——Charmaz(2006)指出，当收集新鲜数据不再引发新洞见时即达到饱和，此为停止收集数据的标准。
 
@@ -1481,7 +1481,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 两种方式（预设样本量与饱和）同样有效(p.198)。
 
 > [!info] 获取许可
-> 包括 IRB 审批（保护人类参与者权利）、获取场所准入和 [[Gatekeepers\|守门人]] 批准。Bogdan & Biklen(1992)建议向守门人提交简短方案，回答五个问题：为什么选此场所？将进行哪些活动？会造成干扰吗？结果如何报告？守门人将获得什么？(p.199)
+> 包括 IRB 审批（保护人类参与者权利）、获取场所准入和 [[Gatekeepers\|守门人]] 批准。Bogdan and Biklen(1992)建议向守门人提交简短方案，回答五个问题：为什么选此场所？将进行哪些活动？会造成干扰吗？结果如何报告？守门人将获得什么？(p.199)
 
 **四种数据收集类型：**
 
@@ -1605,7 +1605,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 > - 四项已发表研究实例
 
 
-混合方法作为独立方法论起源于 1980 年代末，被 Tashakkori & Teddlie (2010) 称为继量化和质性之后的"第三方法论运动"。
+混合方法作为独立方法论起源于 1980 年代末，被 Tashakkori and Teddlie (2010) 称为继量化和质性之后的"第三方法论运动"。
 
 > [!quote]
 > “混合方法研究作为一种独特的方法论，起源于 1980 年代末左右……它与另外两种方法论——量化和质性研究——并称为‘第三次方法论运动’(Tashakkori & Teddlie, 2010)。”
@@ -1666,7 +1666,7 @@ Creswell & Creswell 提出混合方法研究的六个定义性特征，从核心
 
 #### 三种核心设计：聚敛、解释性序列、探索性序列
 
-三种核心设计的划分依据是整合的意图和程序。[[Convergent Design|聚敛式设计]]通过**合并（merging）**来比较量化与质性结果，源于 Campbell & Fiske (1959) 的多方法多特质思想，为单阶段设计，整合分析有并排比较、[[Data Transformation|数据转换]]和[[Joint Display|联合展示]]三种方式。[[Explanatory Sequential Design|解释性序列设计]]通过**连接（connecting）**来用质性数据解释量化结果，两阶段设计，质性样本必须是量化样本的子集。[[Exploratory Sequential Design|探索性序列设计]]通过**连接**让质性探索指导量化工具的开发与检验，三阶段设计，质性样本不应包含在量化阶段中——与解释性序列正相反。
+三种核心设计的划分依据是整合的意图和程序。[[Convergent Design|聚敛式设计]]通过**合并（merging）** 来比较量化与质性结果，源于 Campbell and Fiske (1959) 的多方法多特质思想，为单阶段设计，整合分析有并排比较、[[Data Transformation|数据转换]]和[[Joint Display|联合展示]]三种方式。[[Explanatory Sequential Design|解释性序列设计]]通过**连接（connecting）** 来用质性数据解释量化结果，两阶段设计，质性样本必须是量化样本的子集。[[Exploratory Sequential Design|探索性序列设计]]通过**连接**让质性探索指导量化工具的开发与检验，三阶段设计，质性样本不应包含在量化阶段中——与解释性序列正相反。
 
 三种设计的整合分析都使用联合展示作为标准工具，从中提取[[Metainferences|元推论]]——聚敛式聚焦于确认或分歧，解释性序列聚焦于延伸和细化，探索性序列聚焦于检验和适切性。每种设计有其特有的效度威胁：聚敛式需注意未跟进分歧、比较基础不明确、样本量差异；解释性序列需注意未穷尽跟进选项、仅关注人口学变量、两阶段样本不一致；探索性序列需注意测量工具开发不严谨、质性发现未被充分利用、样本混淆。详细讨论与联合展示模板（表10.2–10.4）见各设计条目：[[Convergent Design]]、[[Explanatory Sequential Design]]、[[Exploratory Sequential Design]]。
 
@@ -1674,7 +1674,7 @@ Creswell & Creswell 提出混合方法研究的六个定义性特征，从核心
 
 #### 四种复杂设计
 
-复杂设计的共同特征是核心设计被嵌入更大的过程或框架中——混合方法扮演支持性角色。Nastasi & Hitchcock (2016) 指出这些设计通常涉及多阶段、多年项目、大量资金和多个核心设计。Plano Clark & Ivankova (2016) 将其称为"高级应用"。
+复杂设计的共同特征是核心设计被嵌入更大的过程或框架中——混合方法扮演支持性角色。Nastasi and Hitchcock (2016) 指出这些设计通常涉及多阶段、多年项目、大量资金和多个核心设计。Plano Clark and Ivankova (2016) 将其称为"高级应用"。
 
 | 复杂设计 | 核心机制 | 详见 |
 |---|---|---|
@@ -1721,7 +1721,7 @@ Creswell & Creswell 提出混合方法研究的六个定义性特征，从核心
 > [!quote]
 > "Using a mixed methods approach, we were able to compare and integrate main findings from a national crash dataset with perspectives of stakeholders."(p.677)
 
-##### Example 10.2 — 解释性序列设计：Banyard & Williams (2007)
+##### Example 10.2 — 解释性序列设计：Banyard and Williams (2007)
 
 研究女性如何从童年性虐待中恢复并在成年早期保持韧性。**第一量化阶段**（纵向）：1990 年对 136 名女性进行结构化访谈，1997 年追踪其中 61 人，测量韧性相关因素在 7 年间的变化。**第二质性阶段** 从量化样本中选择 21 名女性[[In-depth Interview|深度访谈]]。质性主题揭示了量表中未被捕捉的维度——生活转折点、恢复的持续性、灵性在恢复中的角色。
 
@@ -1743,7 +1743,7 @@ Creswell & Creswell 提出混合方法研究的六个定义性特征，从核心
 
 > [!note]- 四个实例的系统比较
 >
-> | 维度 | Classen et al. (2007) | Banyard & Williams (2007) | Betancourt et al. (2011) | Hodgkin (2008) |
+> | 维度 | Classen et al. (2007) | Banyard and Williams (2007) | Betancourt et al. (2011) | Hodgkin (2008) |
 > |---|---|---|---|---|
 > | **设计类型** | 聚敛式 | 解释性序列 | 探索性序列+复杂实验嵌入 | 社会正义解释性序列 |
 > | **整合方式** | 合并比较 | 连接（量化→质性跟进） | 连接（质性→工具→实验） | 连接+理论框架包裹 |

@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-06'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Epistemic Ascent
@@ -126,7 +126,7 @@ updated: 2026-10-15
 > [!concept-lens] 实证盲区下的规范性学科演绎机制
 > 探讨当大规模[[Experimental Research|实验研究]]或实证因果数据缺位时，课程标准研制团队如何确立跨学段概念深化与年级分布的合理依据。
 
-> [!claim] [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013)]]
+> [!claim] [[Argument_McDonnell_2013_AJE|McDonnell and Weatherford (2013)]]
 > **学科逻辑推演对因果实证空白的替代功能** 起草全美[[Common Core State Standards|共同核心州立标准]]（CCSS）时，小学低段数学尚有成熟的儿童认知发展心理学证据支持，但初高中高阶数学标准面临严重的因果实证文献空白。起草专家（Daro, McCallum, Zimba）依托数学学科自身的公理结构与概念进阶规律，从数与代数的基本性质推演到高阶函数与微积分准备，通过严格的学科逻辑演绎确立了标准的年级纵向布局；该案例表明，在实证数据无法覆盖的领域，严密的学科内生[[Epistemology|认识论]]上升推演充当了不可或缺的理性决策基础。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 14, 22)]]
 
 ---
@@ -139,7 +139,7 @@ updated: 2026-10-15
 > [!claim] [[Argument_McPhail_2023_JCS|McPhail et al. (2023)]]
 > **规约[[Discourse|话语]]挤压与概念标记缺失的双重危机** 在[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中，虽然政策文本宣称关注认识论上升，但由于[[Regulative and Instructional Discourse|规约性话语]]压倒了教学性话语，[[Big Ideas|大概念]]往往沦为宽泛的价值宣言，未能与学科具体的概念层次和认识论结构精准对接，导致认识论上升缺乏明确的概念标记和教学路标，课程设计出现系统性认识论混乱。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023, pp. 520–523)]]
 
-> [!claim] [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013)]]
+> [!claim] [[Argument_McDonnell_2013_AJE|McDonnell and Weatherford (2013)]]
 > **一线教师物理剪裁对认识论上升的现实可行性锚定** CCSS 研制经验表明，单纯依靠数学家推演的认识论上升条文具有高度学术化与理想化倾向；[[American Federation of Teachers|全美教师联盟]]（AFT）组织骨干教师将草案条文逐条剪切、贴在墙上进行整整两天的物理比对，反复检验概念上升梯度在现实多元能力课堂中是否会导致学生断层，并逼迫起草组删除晦涩术语、调整年级梯度。这种实践检验表明，认识论上升必须经过一线教师专业审慎的具身校准，方能成为兼具理论严密性与教学可行性的实践路线图。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 15, 22–23)]]
 
 ---
@@ -150,7 +150,7 @@ updated: 2026-10-15
 >
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
-> | **规范性推演命题** | 学科公理演进构成实证空白下标准进阶的理性支柱。 | 高学段抽象学科知识标准研制与实证盲区。 | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] |
+> | **规范性推演命题** | 学科公理演进构成实证空白下标准进阶的理性支柱。 | 高学段抽象学科知识标准研制与实证盲区。 | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] |
 > | **教学可行性命题** | 认识论上升须经一线实践审慎校准防止悬空脱节。 | 课程标准向课堂转化与教师专业审读过程。 | [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]]; Daro et al. (2011) |
 
 ---
@@ -208,5 +208,5 @@ updated: 2026-10-15
 > | [[American Federation of Teachers]] | Fact (Organization) | 组织一线骨干教师物理剪裁条文、对认识论上升在日常课堂的可行性进行严格把关的工会。 |
 > | [[Common Core State Standards]] | Fact (Policy) | 起草团队依托学科逻辑推演认识论上升以弥补高年级实证数据缺失的代表性案例。 |
 > | [[NZ Curriculum Refresh 2021-2026]] | Fact (Policy) | 因规约[[Discourse\|话语]]压制导致认识论上升概念标记缺失的批判案例。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | Argument | 考证 CCSS 数学编写组在实证空白下依靠学科逻辑推演与教师审读建构认识论上升。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | Argument | 考证 CCSS 数学编写组在实证空白下依靠学科逻辑推演与教师审读建构认识论上升。 |
 > | [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]] | Argument | 批判新西兰课改中[[Regulative and Instructional Discourse\|规约性话语]]压倒教学性话语导致认识论上升落空的机制。 |

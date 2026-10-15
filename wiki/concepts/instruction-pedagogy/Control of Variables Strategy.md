@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-20
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Control of Variables Strategy
@@ -142,8 +142,8 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **习得路径等效性** | 显性规则讲授与指导式实验探究在策略习得上整体效能相当 | 中小学基础科学实验与科学推理教学 | Schwichow et al. (2016); [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] |
-> | **长效保持与迁移** | 自主探究更有利于策略的深度内化、跨任务迁移与长周期保持 | 延迟效果评估与[[Problem Solving\|复杂问题解决]]任务 | Dean & Kuhn (2007) |
-> | **支架介入时序** | 前置直接讲授与探究过程中嵌入动态支架效果一致 | 计算机虚拟实验与课堂科学探究 | Lazonder & Egberink (2014) |
+> | **长效保持与迁移** | 自主探究更有利于策略的深度内化、跨任务迁移与长周期保持 | 延迟效果评估与[[Problem Solving\|复杂问题解决]]任务 | Dean and Kuhn (2007) |
+> | **支架介入时序** | 前置直接讲授与探究过程中嵌入动态支架效果一致 | 计算机虚拟实验与课堂科学探究 | Lazonder and Egberink (2014) |
 
 ---
 
@@ -154,7 +154,7 @@ updated: 2026-10-15
 > > [!axis] [[Direct Instruction\|直接教学]]倡导者与[[Inquiry-Based Learning\|探究学习]]学派关于 CVS 习得机制的争论
 > > 直接教学派（如 Klahr 等早期研究）主张[[Variable\|变量]]控制策略是高度不透明的人为规则，儿童无法自发发现，必须由教师直接讲授并示范；而探究派与认知发展学者（如 Kuhn 等）认为过早灌输规则会导致表层仪式性模仿，剥夺学生在认知冲突中进行[[Reflexivity\|反思性]]概括的机会。
 > >
-> > - **Klahr & Nigam (2004)** 主张直接教学在让儿童快速习得变量控制策略方面显著快于[[Discovery Learning\|纯发现学习]]，且能在后续设计中产生迁移。
+> > - **Klahr and Nigam (2004)** 主张直接教学在让儿童快速习得变量控制策略方面显著快于[[Discovery Learning\|纯发现学习]]，且能在后续设计中产生迁移。
 > > - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** 指出 Klahr 等研究所采用的“直接教学”并非仅是单向讲读，而是包含了让学生主动设计、评估实验并获得针对性反馈的探究要素；大规模[[Meta-analysis\|元分析]]已证明显性规则教学并无普遍优越性。（p. 4）
 
 > [!warning] 适用局限

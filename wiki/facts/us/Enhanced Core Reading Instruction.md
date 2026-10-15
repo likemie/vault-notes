@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Enhanced Core Reading Instruction
@@ -58,7 +58,7 @@ updated: 2026-09-17
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **Enhanced Core Reading Instruction（增强型核心阅读教学，简称 ECRI）**是由俄勒冈大学教学与学习中心（University of Oregon Center on Teaching and Learning）斯科特·贝克（Scott K. Baker）、汉克·菲恩（Hank Fien）、基思·斯莫尔科夫斯基（Keith Smolkowski）与爱德华·卡梅埃努伊（Edward J. Kame'enui）等学者联合研发、受美国[[Institute of Education Sciences\|教育科学研究院]]（IES）多期重点资助的小学一年级多层级核心阅读教学改革方案；其核心战略是在**不更换学校既有商业核心语文教材**的前提下，通过为普通班级教师与特教教师提供高度标准化的显性教学日常规程（Explicit Instructional Routines），在全校范围内构建 Tier 1 全班教学与 Tier 2 小组干预高度同构的多层支持体系。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> **Enhanced Core Reading Instruction（增强型核心阅读教学，简称 ECRI）** 是由俄勒冈大学教学与学习中心（University of Oregon Center on Teaching and Learning）斯科特·贝克（Scott K. Baker）、汉克·菲恩（Hank Fien）、基思·斯莫尔科夫斯基（Keith Smolkowski）与爱德华·卡梅埃努伊（Edward J. Kame'enui）等学者联合研发、受美国[[Institute of Education Sciences\|教育科学研究院]]（IES）多期重点资助的小学一年级多层级核心阅读教学改革方案；其核心战略是在**不更换学校既有商业核心语文教材**的前提下，通过为普通班级教师与特教教师提供高度标准化的显性教学日常规程（Explicit Instructional Routines），在全校范围内构建 Tier 1 全班教学与 Tier 2 小组干预高度同构的多层支持体系。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 研发始于 2000 年代后期，2010 年代经美国联邦教育科学研究院（IES）设立专门重点课题连续资助多轮跨学区大样本[[Cluster Randomized Trials\|整群随机试验]]，现已成为全美多州多层支持系统（MTSS）阅读教学的标准模块。

@@ -31,7 +31,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: '2026-07-21'
+updated: 2026-10-16
 ---
 
 # Civil Service Examination
@@ -89,7 +89,7 @@ updated: '2026-07-21'
 > > 科举文化赋予了[[Gaokao\|高考]]作为公平流动阶梯的正当性，但也塑造了根深蒂固的高利害[[Test-Based Accountability\|考试问责]]文化，使传统教学法易陷于应试与灌输。
 > >
 > > - **Feng（1995）** 指出科举塑造的以考试衡量成功的文化认同深刻影响了当代教学与质量评估。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 589)]]
-> > - **[[Argument_Wang_2025_CE\|Wang & McLaughlin (2025, pp. 594, 601)]]** 发现科举传统使得提分成为不可侵犯的道德底线，限定了以学生为中心教育（[[Learner-Centred Education\|LCE]]）权力共享的硬边界。
+> > - **[[Argument_Wang_2025_CE\|Wang and McLaughlin (2025, pp. 594, 601)]]** 发现科举传统使得提分成为不可侵犯的道德底线，限定了以学生为中心教育（[[Learner-Centred Education\|LCE]]）权力共享的硬边界。
 
 ---
 

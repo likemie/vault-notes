@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Governing Mechanisms of Research Use
@@ -154,7 +154,7 @@ updated: 2026-10-15
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **1979–2018 — 概念积累** Weiss（1979）提出[[Research Utilization\|研究使用]]的多重意义与概念性／工具性／象征性类型学；Farley-Ripple 等（2018）提出深层使用框架；Rickinson 等（2022）提出 [[Quality Use of Research Evidence Framework\|QURE]]；Godfrey & Brown (2019) 提出[[Ecosystem for Research-Engaged Schools\|研究参与学校生态系统模型]]。
+> - **1979–2018 — 概念积累** Weiss（1979）提出[[Research Utilization\|研究使用]]的多重意义与概念性／工具性／象征性类型学；Farley-Ripple 等（2018）提出深层使用框架；Rickinson 等（2022）提出 [[Quality Use of Research Evidence Framework\|QURE]]；Godfrey and Brown (2019) 提出[[Ecosystem for Research-Engaged Schools\|研究参与学校生态系统模型]]。
 > - **2026 — 机制框架提出** Hagevold 等人（2026）以整合这些框架的初始框架为先验透镜进行[[Framework Synthesis\|框架综合]]，配置式分析识别出信任、技能发展、可持续结构与关系四类跨层治理机制，并把初始框架修订为四机制框架。
 
 ---

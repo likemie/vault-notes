@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-03'
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Science Media Centre
@@ -140,7 +140,7 @@ updated: 2026-10-07
 > - **成效与作用** 这一机制有效遏制了片面或虚假陈述在大众传播中的发酵，改变了教育领域长期缺乏类似科学界快速中介机制的被动局面，守护了教育研究的公共公信力。（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]]）
 
 > [!tension] 受众维度的根本性拓展与反商业操纵防线（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 59–64]]）
-> - **从跑口记者延伸至寻求实证依据的广大大众** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022, pp. 62, 64)]] 指出，大众媒体导向型中介不仅服务于寻求事实核查的专业记者，其更深层的受众是“寻求理解大众传媒中教育与科学研究声称底层证据依据的广大大众（the broader public seeking to understand the evidence base）”。在后真相时代的碎片化舆论场中，中介机构承担起提升公民公共[[Scientific Literacy\|证据素养]]（[[Research Literacy\|研究素养]]）的民主基石功能。
+> - **从跑口记者延伸至寻求实证依据的广大大众** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022, pp. 62, 64)]] 指出，大众媒体导向型中介不仅服务于寻求事实核查的专业记者，其更深层的受众是“寻求理解大众传媒中教育与科学研究声称底层证据依据的广大大众（the broader public seeking to understand the evidence base）”。在后真相时代的碎片化舆论场中，中介机构承担起提升公民公共[[Scientific Literacy\|证据素养]]（[[Research Literacy\|研究素养]]）的民主基石功能。
 > - **反制商业利益操纵者（Spinners）与“证据知情”标签的利益绑架** 随着“证据驱动”[[Discourse|话语]]成为主流，教育科技资本与商业咨询公司往往打着“证据知情”的公关护身符，通过挑选局部有利指标（Cherry-picking）包装商业软件或特定教学方案，使原本中立的“[[Boundary Spanner\|边界跨越者]]”（Boundary Spanners）蜕化为推销特定利益的“自利操纵者”（Spinners）（Lubienski, 2019; [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 60]]）。SMC / EMC 模式以严格的独立性、同行评议标准与强制利益冲突申报，构成了抵御商业公关绑架、维护知识客观性的制度屏障。
 
 > [!row-contrast] 全球科学与教育媒体中介协作网络谱系（SMC Global Network & EMC）
@@ -167,7 +167,7 @@ updated: 2026-10-07
 > > [!axis] 争议二：突发新闻驱动对系统性长效知识累积的结构性挤出
 > > [[Epistemic Governance\|知识治理]]学者指出了大众媒体导向型中介模式在[[Knowledge Production\|知识生产]]与累积维度上的固有局限性。
 > >
-> > - **[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022, p. 62)]]** 大众媒体导向型中介机构（如 [[Education Media Centre\|EMC]]）的核心工作高度依赖于外部突发新闻议程与公共舆论热点，属于“反应性”（Reactive）而非“前瞻性”（Proactive）机制。这种运作节奏使其难以自主规划长效、系统的证据综合体系，容易在不同热点舆论之间疲于奔命。
+> > - **[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022, p. 62)]]** 大众媒体导向型中介机构（如 [[Education Media Centre\|EMC]]）的核心工作高度依赖于外部突发新闻议程与公共舆论热点，属于“反应性”（Reactive）而非“前瞻性”（Proactive）机制。这种运作节奏使其难以自主规划长效、系统的证据综合体系，容易在不同热点舆论之间疲于奔命。
 > > - **中介协同启示** 必须将大众媒体中介与以 [[EPPI-Centre]] 或 [[What Works Clearinghouse\|WWC]] 为代表的长期[[Systematic Review\|系统综述]]清算机构紧密结合，使快速媒介反应依托于深厚的累积性实证知识库，方能实现公共舆论沟通与学科长效积累的良性互动。
 
 ---
@@ -185,5 +185,5 @@ updated: 2026-10-07
 > | [[Responsible Conduct of Research]] | 概念 | 推动新闻发布与专家评论恪守科研诚信与[[Conflict of Interest in Research\|利益冲突]]申报规范。 |
 > | [[Educational Evidence Clearinghouses]] | 概念 / 机构类型 | 与清算中心协同互补；清算中心提供系统综合，媒体中介提供快速舆论事实核查。 |
 > | [[Public Attitudes to Science]] | 事实 | 公众对科学家的高信任度为 SMC 凝聚权威声音、反制商业操纵提供了民意基础。 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] | 论证条目 | 系统论述了 EMC 的衍生模式、大众媒体导向型中介的制度特征及反商业操纵功能。 |
+> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 系统论述了 EMC 的衍生模式、大众媒体导向型中介的制度特征及反商业操纵功能。 |
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|Royal Society (2026)]] | 论证条目 | 详细梳理了 SMC 的创立背景、运行机制及其在转基因与线粒体议题中的关键成效。 |

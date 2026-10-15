@@ -95,7 +95,7 @@ sources:
 part_of: ""
 status: active
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Cartiff_2021_JEP"
@@ -134,11 +134,11 @@ journal: "Journal of Educational Psychology"
 > [!framework-table] [[Epistemic Cognition\|认识论认知]]理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Reflective Judgment Model\|反思判断模型（Reflective Judgment Model）]]**<br>King & Kitchener (1994); Perry (1970) | 将学生的认知理解划分为三个阶段：前反思阶段（认为知识非黑即白，由权威说了算）、准反思阶段（发现权威也会冲突，陷入每个人都有自己看法的相对主义）以及反思判断阶段（理解知识具有不确定性，但能够通过权衡证据得出合理结论）。教学干预通过创设认知冲突促发阶段推进。 |
-> | **多维认识论信念系统模型（Multidimensional Epistemic Beliefs）**<br>[[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]]; Schommer (1990) | 将[[Epistemology\|认识论]]分解为相对独立的多项信念维度：[[Certainty of Knowledge\|知识的确定性]]（固定不变 vs 动态演进）、知识的结构（孤立零碎 vs 相互关联的网络）、[[Source of Knowledge\|知识的来源]]（来自外在权威 vs 个人基于证据建构）以及知识的确证理由（依赖直觉权威 vs 依赖多元证据交叉验证）。教学干预通常直接靶向特定维度的改造。 |
-> | **认识论元认知与协调模型（Epistemic Metacognition & Coordination）**<br>[[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]]; Barzilai & Zohar (2014) | 关注学生如何监控并反思自己的思考过程：能否区分客观现实、个人断言与支持论据之间的关系，能否在面对冲突观点时客观评估论据强弱。教学干预重在提供评估论据质量与反思认知偏见的思维支架。 |
-> | **[[AIR Model of Epistemic Cognition\|目标、理想与可靠认知过程模型（Aims, Ideals, and Reliable Processes, AIR 模型）与适切认识论表现]]**<br>Barzilai & Chinn (2018); Chinn et al. (2014) | 将认识论解构为[[Epistemic Aims\|认识论目标]]（Aims，追求真实理解还是应付考试）、[[Epistemic Ideals\|认识论理想]]（Ideals，如何定义高质量证据）以及[[Reliable Epistemic Processes\|可靠认知过程]]（Reliable processes，通过哪些可靠步骤检验信息）。教学旨在培养学生在真实情境中灵活运用可靠程序的能力。 |
-> | **情境认知与认识论资源模型（Situated Epistemic Resources）**<br>Hammer & Elby (2002) | 认为学生的认识论并不是固定铁板一块的心智特质，而是分散在不同学科情境中的细粒度认知工具箱。教学干预的功能在于通过特定学科问题情境，激活对当前学习有益的认知资源。 |
+> | **[[Reflective Judgment Model\|反思判断模型（Reflective Judgment Model）]]**<br>King and Kitchener (1994); Perry (1970) | 将学生的认知理解划分为三个阶段：前反思阶段（认为知识非黑即白，由权威说了算）、准反思阶段（发现权威也会冲突，陷入每个人都有自己看法的相对主义）以及反思判断阶段（理解知识具有不确定性，但能够通过权衡证据得出合理结论）。教学干预通过创设认知冲突促发阶段推进。 |
+> | **多维认识论信念系统模型（Multidimensional Epistemic Beliefs）**<br>[[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]]; Schommer (1990) | 将[[Epistemology\|认识论]]分解为相对独立的多项信念维度：[[Certainty of Knowledge\|知识的确定性]]（固定不变 vs 动态演进）、知识的结构（孤立零碎 vs 相互关联的网络）、[[Source of Knowledge\|知识的来源]]（来自外在权威 vs 个人基于证据建构）以及知识的确证理由（依赖直觉权威 vs 依赖多元证据交叉验证）。教学干预通常直接靶向特定维度的改造。 |
+> | **认识论元认知与协调模型（Epistemic Metacognition & Coordination）**<br>[[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]]; Barzilai and Zohar (2014) | 关注学生如何监控并反思自己的思考过程：能否区分客观现实、个人断言与支持论据之间的关系，能否在面对冲突观点时客观评估论据强弱。教学干预重在提供评估论据质量与反思认知偏见的思维支架。 |
+> | **[[AIR Model of Epistemic Cognition\|目标、理想与可靠认知过程模型（Aims, Ideals, and Reliable Processes, AIR 模型）与适切认识论表现]]**<br>Barzilai and Chinn (2018); Chinn et al. (2014) | 将认识论解构为[[Epistemic Aims\|认识论目标]]（Aims，追求真实理解还是应付考试）、[[Epistemic Ideals\|认识论理想]]（Ideals，如何定义高质量证据）以及[[Reliable Epistemic Processes\|可靠认知过程]]（Reliable processes，通过哪些可靠步骤检验信息）。教学旨在培养学生在真实情境中灵活运用可靠程序的能力。 |
+> | **情境认知与认识论资源模型（Situated Epistemic Resources）**<br>Hammer and Elby (2002) | 认为学生的认识论并不是固定铁板一块的心智特质，而是分散在不同学科情境中的细粒度认知工具箱。教学干预的功能在于通过特定学科问题情境，激活对当前学习有益的认知资源。 |
 
 > [!warrant]- 理论如何支撑论证
 > 理论模型表明，认识论干预发挥提分作用的核心机制在于引导学生打破朴素认知并建立严密的[[Justificatory Standards\|确证标准]]：当学生认识到知识并不是[[Rote Learning\|死记硬背]]的标准答案、而是基于证据推理的动态产物时，他们面对复杂的学术任务就会主动去寻找可靠论据、分析作者立场并反思对立观点；这种深层的认知加工策略能够直接带来高质量的概念理解与论证表现。
@@ -150,7 +150,7 @@ journal: "Journal of Educational Psychology"
 > |---|---|---|
 > | **因变量：学业成就（[[Academic Achievement]]）** | 衡量学生在具体学习任务中所掌握的学科知识、技能与推理水平的结果指标，具体划分为五类层级：论证表现、概念性知识、陈述性知识、[[Procedural Knowledge\|程序性知识]]与一般常规知识。 | 包含研究者根据干预内容自行编制的测验（45 个[[Effect Size\|效应量]]，如科学概念转变测验、论证写作）、外部标准化考试（4 个效应量）、科任教师期末自编常规测验（9 个效应量）及官方平均学分绩点（Grade Point Average, GPA，1 个效应量）。代表研究如 Kuhn et al. (2017) 论证表现量表、Barger et al. (2018) 化学概念理解测验。 |
 > | **[[Independent Variable\|自变量]]：干预教学框架** | 干预措施所采用的核心教学模式，划分为六类标准设计：<br>1. **指导式探究** 教师提供探究步骤指导与变量控制支架；<br>2. **信源评估** 明确讲授识别信息源资质、出版背景与可信度的具体策略；<br>3. **认知与元认知支架** 提供反思问题清单、提示卡或软件弹窗支架；<br>4. **[[Constructivist Instruction\|建构主义教学]]** 强调学生自主建构个人理解；<br>5. **[[Problem-Based Learning\|基于问题的学习（Problem-Based Learning, PBL）]]** 围绕真实复杂问题开展合作探究；<br>6. **论证教学** 讲授论据组织、主张陈述与反驳规则。 | 干预实施跨度从 1 小时单次实验到 15 周全学期教学。代表研究如：Schiefer et al. (2017) 的指导式科学实验；Mason et al. (2014) 的网络信源评估训练；Nussbaum et al. (2008) 的科学论证评估准则教学；Sahin (2010a) 的大学物理[[Problem Solving\|问题解决]]。 |
-> | **调节变量：特异性水平与对齐** | 划分干预内容与测验指标的跨度层级：分为领域通用（跨学科通用思维）、领域特定（如物理学、历史学等学科门类）以及具体主题特定（如光合作用、气候变化等特定单元）。对齐是指干预层级与测验层级完全吻合。 | 编码干预层级、测验层级以及二者是否完全对齐。如 Lam & Chan (2008) 兼具领域通用与主题特定测验。 |
+> | **调节变量：特异性水平与对齐** | 划分干预内容与测验指标的跨度层级：分为领域通用（跨学科通用思维）、领域特定（如物理学、历史学等学科门类）以及具体主题特定（如光合作用、气候变化等特定单元）。对齐是指干预层级与测验层级完全吻合。 | 编码干预层级、测验层级以及二者是否完全对齐。如 Lam and Chan (2008) 兼具领域通用与主题特定测验。 |
 > | **调节变量：干预时长** | 干预实施的时间长短与课时密度，划分为五档：单次高强度集中教学、短期干预（数天至 1 周）、中期干预（2 至 4 周）、长期干预（5 至 10 周）以及全学期及以上教学。 | 编码实际干预周数与课时量。从 1 小时即时干预（Barzilai & Ka'adan, 2017）到一学期（15 周）物理课程整合（Sahin, 2010b）。 |
 >
 > **图表解读** 本表系统界定了[[Meta-analysis\|元分析]]的变量操作化标准，将原本异质的认识论干预文献归入清晰的理论与操作维度，为后续检验因果效应及其[[Heterogeneity\|异质性]]来源提供了统一标尺。
@@ -305,7 +305,7 @@ journal: "Journal of Educational Psychology"
 > 教学干预如果精准瞄准知识如何确证和证据如何检验等核心环节（例如 Kammerer et al., 2015; Mason et al., 2014），效果最为理想；如果仅泛泛强调学习需要坚持、知识由个人自主建构等宽泛信念，却缺乏可操作的证据处理方法，学生很难在具体学科考试中获得实质提升。
 
 > [!warrant]- 推理桥梁
-> 这一发现呼应了 Barzilai & Chinn (2018) 关于适切认识论表现（apt epistemic performance）的理论命题：认识论水平的提升不能指望学生在没有引导的自由探索中自发完成；教师必须明确讲授并示范可靠的认知检验程序（[[Reliable Epistemic Processes\|reliable processes]]），学生才能学会如何理性判断与得出可信结论。
+> 这一发现呼应了 Barzilai and Chinn (2018) 关于适切认识论表现（apt epistemic performance）的理论命题：认识论水平的提升不能指望学生在没有引导的自由探索中自发完成；教师必须明确讲授并示范可靠的认知检验程序（[[Reliable Epistemic Processes\|reliable processes]]），学生才能学会如何理性判断与得出可信结论。
 
 ---
 

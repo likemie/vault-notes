@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Ennis-Weir Critical Thinking Essay Test
@@ -54,7 +54,7 @@ updated: 2026-10-15
 
 > [!instrument-profile] Ennis-Weir [[Critical Thinking]] Essay Test
 > - **工具类型** 开放表现性论文测验（Open-Ended Essay Assessment）。
-> - **开发者与年份** Robert H. Ennis & Eric Weir (1985)。
+> - **开发者与年份** Robert H. Ennis and Eric Weir (1985)。
 > - **测量目的** 评估受测者在分析复杂争议论述时识别逻辑谬误、评判论据合理性并生成反驳论点的综合批判性思维能力。
 > - **实施方式** 纸笔测试（限时 40 分钟），受测者阅读一篇由虚构市民写给市长倡议禁止夜间停车的公开信，并逐段撰写评判小论文。
 
@@ -104,4 +104,4 @@ updated: 2026-10-15
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | 原始英文版 | 英语（美国） | 高中高年级与大学生 | 9 个段落任务 | 奠定开放书信论文测验的标准格式与评分量规 | Ennis & Weir (1985) |
+> | 原始英文版 | 英语（美国） | 高中高年级与大学生 | 9 个段落任务 | 奠定开放书信论文测验的标准格式与评分量规 | Ennis and Weir (1985) |

@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Alfred Nobel
@@ -158,7 +158,7 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]：
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]：
 >   - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|第 4 章]]（pp. 37–38）：详述诺贝尔硝化甘油炸药发明历程、普法战争军用改装，以及其 1891 年关于恐怖作为和平守护者的现实主义论断对[[J. Robert Oppenheimer|奥本海默]]三位一体试验的心智影响。
 
 ---

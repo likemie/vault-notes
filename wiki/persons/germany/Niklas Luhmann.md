@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Niklas Luhmann
@@ -112,8 +112,8 @@ updated: 2026-10-15
 > [!work-line] 主要著作
 > | 年份 | 著作 | 核心贡献与问题意识 | 关联条目 |
 > |---|---|---|---|
-> | 1979 | *Reflexionsprobleme im Erziehungssystem*（与 K.-E. Schorr 合著） | 系统提出**[[Technology Deficit of Education\|教育的技术赤字]]（Technologiedefizit der Erziehung）**假说，揭示教育因果链条在当下的不可实证性与制度性焦虑。 | [[Blind Spot in Observation]]；[[Policy Borrowing]] |
-> | 1984/1995 | *Soziale Systeme*（英译 *Social Systems*, 1995） | 奠定[[Autopoiesis\|自创生]][[Luhmann's Systems Theory\|系统理论]]的[[Epistemology\|认识论]]框架；系统论述系统通过**[[Externalization\|外化]]（Externalisation）**在内部建构准外部参照点的功能机制。 | [[Luhmann's Systems Theory]]；[[Autopoiesis]] |
+> | 1979 | *Reflexionsprobleme im Erziehungssystem*（与 K.-E. Schorr 合著） | 系统提出 **[[Technology Deficit of Education\|教育的技术赤字]]（Technologiedefizit der Erziehung）** 假说，揭示教育因果链条在当下的不可实证性与制度性焦虑。 | [[Blind Spot in Observation]]；[[Policy Borrowing]] |
+> | 1984/1995 | *Soziale Systeme*（英译 *Social Systems*, 1995） | 奠定[[Autopoiesis\|自创生]][[Luhmann's Systems Theory\|系统理论]]的[[Epistemology\|认识论]]框架；系统论述系统通过 **[[Externalization\|外化]]（Externalisation）** 在内部建构准外部参照点的功能机制。 | [[Luhmann's Systems Theory]]；[[Autopoiesis]] |
 > | 1997 | *Die Gesellschaft der Gesellschaft* [社会的社会] | 全面阐发**观察的盲点（Blinder Fleck）**、二阶观察机制与现代社会的功能分化，批判天真唯实论的[[Objectivism\|客观主义]]认知。 | [[Epistemology]]；[[Incommensurability]] |
 > | 2002 | *Das Erziehungssystem der Gesellschaft* [社会的教育系统] | 论证社会沟通系统与个体心理系统的**根本不可[[Commensuration\|通约]]性**，解构将教学与学习视为因果机械联动的技术主义迷思。 | [[Structural Coupling]]；[[Visible Learning]] |
 
@@ -122,7 +122,7 @@ updated: 2026-10-15
 ## 核心思想
 
 > [!claim] 核心主张
-> 现代社会是由多个在操作上封闭（Operatively closed）、认知上开放的**[[Autopoiesis\|自创生]]（Autopoietic）功能子系统**构成的分化网络。系统不是由人组成的实体，而是由持续再生产的**沟通事件（Communications）**所维系。个体心理系统与社会沟通系统互为外部环境，二者不共享代码，无法透明观察或直接因果决定，仅能通过**[[Structural Coupling\|结构耦合]]（Structural coupling）**相互激发。教育系统由于承担着为不可预测的未来塑造主体的虚幻使命，其技术因果链条必然面临固有的**技术赤字**；为了缓解当下行动的不确定性并维持自指性再生产，系统必然通过**[[Externalization\|外化]]机制**在内部投射出“准外部参照点”作为行动的合法化调节观念。
+> 现代社会是由多个在操作上封闭（Operatively closed）、认知上开放的 **[[Autopoiesis\|自创生]]（Autopoietic）功能子系统**构成的分化网络。系统不是由人组成的实体，而是由持续再生产的**沟通事件（Communications）** 所维系。个体心理系统与社会沟通系统互为外部环境，二者不共享代码，无法透明观察或直接因果决定，仅能通过 **[[Structural Coupling\|结构耦合]]（Structural coupling）** 相互激发。教育系统由于承担着为不可预测的未来塑造主体的虚幻使命，其技术因果链条必然面临固有的**技术赤字**；为了缓解当下行动的不确定性并维持自指性再生产，系统必然通过 **[[Externalization\|外化]]机制**在内部投射出“准外部参照点”作为行动的合法化调节观念。
 
 > [!citation-card] 观察的盲点与二阶观察
 > 观察者在观察时无法看见自身的盲点（Der Beobachter kann sich selbst beim Beobachten nicht sehen）。任何观察的成立，都必须依赖于一套事先确立的“区分”（Distinction）；看到某物的条件，正是建立在将其他事物划入看不见的背景之中。科学研究与评价体系若缺乏对自身区分工具的反思，便会陷入无批判的[[Objectivism\|客观主义]]幻象。[[Argument_Larsen_2019_EducSci\|(Larsen, 2019, p. 10)]]
@@ -151,7 +151,7 @@ updated: 2026-10-15
 > [!influence-path] 影响路径
 > - **社会学与哲学[[Epistemology\|认识论]]路径** 彻底终结[[René Descartes\|笛卡尔]]—[[Immanuel Kant\|康德]]式的主体哲学中心地位，开创以二阶控制论为基石的操作[[Constructivist Paradigm\|建构主义]]（Operative constructivism），深刻影响现代知识社会学与法社会学。
 > - **微观教学反思路径** 揭示“教不等于学”的认识论真相，促使教育者认识到可见的测验分数仅仅是社会沟通系统的代码产物，并非学生内心心理体验的直接镜像，消解了[[Positivism\|实证主义]]教学工程论的虚妄幻想。
-> - **比较教育与[[Policy Borrowing\|政策借用]]路径** 德国比较教育学家施瑞尔（[[Jurgen Schriewer|Jürgen Schriewer]]）直接引入卢曼的**[[Externalization\|外化]]命题**，提出跨国教育借用本质上是主权国家在面临国内政治争议时，能动地在内部建构“世界标杆”或“[[Reference Society\|参考社会]]”以寻求外部[[Social Science as Legitimation Alibi\|合法化借口]]的自指性操作；Steiner-Khamsi 等人（2024）进一步将这一命题深化为全球治理 2.0 时代[[Policy Brokerage\|政策中介]]与数字规制转译的核心分析工具。
+> - **比较教育与[[Policy Borrowing\|政策借用]]路径** 德国比较教育学家施瑞尔（[[Jurgen Schriewer|Jürgen Schriewer]]）直接引入卢曼的 **[[Externalization\|外化]]命题**，提出跨国教育借用本质上是主权国家在面临国内政治争议时，能动地在内部建构“世界标杆”或“[[Reference Society\|参考社会]]”以寻求外部[[Social Science as Legitimation Alibi\|合法化借口]]的自指性操作；Steiner-Khamsi 等人（2024）进一步将这一命题深化为全球治理 2.0 时代[[Policy Brokerage\|政策中介]]与数字规制转译的核心分析工具。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] — 动用卢曼的盲点理论与社会/心理系统不可[[Commensuration\|通约]]论，系统解构[[John Hattie\|约翰·哈蒂]]（John Hattie）的[[Visible Learning\|可见的学习]][[Paradigm\|范式]]，揭示实证主义[[Evidence-Based Education\|循证教育]]对教育复杂性的盲视与“超积极可见性意识形态”。

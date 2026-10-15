@@ -57,7 +57,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-11
+updated: 2026-10-16
 ---
 
 # International Education Hubs
@@ -87,7 +87,7 @@ updated: 2026-10-11
 
 ### 概念的提出与三类模型
 
-Knight & Lee (2014) 提出了 IEHs 的三类递进模型（详见 [[#核心要素|核心要素]]）：
+Knight and Lee (2014) 提出了 IEHs 的三类递进模型（详见 [[#核心要素|核心要素]]）：
 
 - **学生枢纽** 以教育服务出口为目标，扩大入学机会、提升系统形象、创造收入
 - **人才枢纽** 转向[[Human Capital Theory|人力资本]]积累，扩大技能劳动力储备、增强经济[[Competitiveness|竞争力]]
@@ -137,7 +137,7 @@ Rizvi 进一步揭示了 IEHs 兴起背后的**话语理性转移** 其正当性
 
 ### 三类枢纽模型
 
-Knight & Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.44]]）：
+Knight and Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.44]]）：
 
 - **学生枢纽（Student Hub）** 旨在扩大高等教育入学机会、现代化和国际化本国高校、提升国家高等教育系统形象、并通过外国学生流入创造收入。主要功能聚焦于教育服务出口
 - **人才枢纽（Talent Hub）** 旨在扩大技能劳动力储备、为服务型和/或[[Knowledge-Based Economy|知识型经济]]做出贡献、增强经济[[Competitiveness|竞争力]]并提高劳动力的质量和相关性。关注焦点从教育出口转向[[Human Capital Theory|人力资本]]积累

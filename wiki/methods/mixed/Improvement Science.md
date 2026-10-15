@@ -44,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 定义
@@ -85,7 +85,7 @@ updated: 2026-10-15
 > | 研究阶段 | 前期"效力研究" | 后期实施和规模扩展 |
 > | 核心弱点 | 生成仅适用于二选一决策的证据（Cartwright & Hardie, 2012） | 缺乏稳健可靠的[[Causality\|因果]]估计来指导改进方向 |
 >
-> Peterson 的整合方案：**[[Mechanism Experiments\|机制实验]]**的因果估计为改进网络中的[[Practitioner Enquiry\|教师探究]]提供方向性输入；改进网络的实践洞见反馈回新的机制假设以进行实验测试([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 307]])。
+> Peterson 的整合方案：**[[Mechanism Experiments\|机制实验]]** 的因果估计为改进网络中的[[Practitioner Enquiry\|教师探究]]提供方向性输入；改进网络的实践洞见反馈回新的机制假设以进行实验测试([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 307]])。
 
 
 > [!abstract] 网络化改进社区（Networked Improvement Communities）

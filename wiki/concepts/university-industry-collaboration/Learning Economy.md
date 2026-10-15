@@ -63,7 +63,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Learning Economy
 
@@ -72,7 +72,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **学习经济（Learning Economy / 学习曲线效应）**涵盖微观制造工程与宏观[[Systems of Innovation|创新系统]]的双重理论意涵：在微观与产业层面，指企业在生产过程中随着历史累计产量的持续扩张，工人和工程师通过实践积累操作经验、改进工艺良率与消除缺陷，从而驱动产品单位成本呈现规律性指数下降的动态生产率提升机制（典型如半导体产业累计产量每翻一番，单位制造成本下降 20%–30%）；在宏观与中观创新系统层面，指在全球化与技术加速变迁的环境中，经济体与企业的核心[[Competitiveness|竞争力]]越来越取决于持续学习、遗忘陈旧惯例和吸收新知识的动态能力，而非单纯依赖静态的自然资源禀赋或固定知识存量。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 7)]]；[[Argument_Caraca_2009_TFSC|(Caraça, Lundvall & Mendonça, 2009, p. 864)]]
+> **学习经济（Learning Economy / 学习曲线效应）** 涵盖微观制造工程与宏观[[Systems of Innovation|创新系统]]的双重理论意涵：在微观与产业层面，指企业在生产过程中随着历史累计产量的持续扩张，工人和工程师通过实践积累操作经验、改进工艺良率与消除缺陷，从而驱动产品单位成本呈现规律性指数下降的动态生产率提升机制（典型如半导体产业累计产量每翻一番，单位制造成本下降 20%–30%）；在宏观与中观创新系统层面，指在全球化与技术加速变迁的环境中，经济体与企业的核心[[Competitiveness|竞争力]]越来越取决于持续学习、遗忘陈旧惯例和吸收新知识的动态能力，而非单纯依赖静态的自然资源禀赋或固定知识存量。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 7)]]；[[Argument_Caraca_2009_TFSC|(Caraça, Lundvall & Mendonça, 2009, p. 864)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 微观上指向[[Learning by Doing|干中学]]（Learning by Doing）带来的制造良率爬坡与成本剧降曲线；宏观上指向以经验互动、组织敏捷与知识流动为核心的系统竞争力形态。
@@ -190,9 +190,9 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **微观制造学习曲线** | 累计经验积累使单位产品成本每翻一番下降 20%–30%，公共采购托底是跨越早期高成本门槛的关键 | 资本与技术密集型新兴制造工业（如半导体、光伏、电池） | [[Argument_Schnee_1978_RP\|Schnee (1978)]]; Arrow (1962) |
-> | **宏观动态学习能力** | 竞争优势源于知识获取、吸收与遗忘的敏捷学习流速而非静态存量 | 全球化竞争与技术快速变迁的现代[[Knowledge-Based Economy\|知识经济]]体 | [[Argument_Caraca_2009_TFSC\|Caraça et al. (2009, pp. 864–866)]]; Lundvall & Johnson (1994) |
+> | **宏观动态学习能力** | 竞争优势源于知识获取、吸收与遗忘的敏捷学习流速而非静态存量 | 全球化竞争与技术快速变迁的现代[[Knowledge-Based Economy\|知识经济]]体 | [[Argument_Caraca_2009_TFSC\|Caraça et al. (2009, pp. 864–866)]]; Lundvall and Johnson (1994) |
 > | **多通道互动学习协同** | 经验互动学习（DUI）与研发探索（STI）具有同等重要性，突破了线性科学观 | 企业复杂系统创新与国家[[Systems of Innovation\|创新系统]]治理 | [[Argument_Caraca_2009_TFSC\|Caraça et al. (2009, p. 862)]]; Jensen et al. (2007) |
-> | **新增长与学习型经济转型** | 静态知识快速折旧，财富创造取决于人际沟通学习与分享创新的敏捷度，迫使教育治理转向终身学习 | 国家宏观创新战略与全生命周期技能政策演进 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009, pp. 445–446)]]; Foray & Lundvall (1996) |
+> | **新增长与学习型经济转型** | 静态知识快速折旧，财富创造取决于人际沟通学习与分享创新的敏捷度，迫使教育治理转向终身学习 | 国家宏观创新战略与全生命周期技能政策演进 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009, pp. 445–446)]]; Foray and Lundvall (1996) |
 
 ---
 
@@ -236,4 +236,4 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统剖析战后美国半导体与计算机产业，实证确立了累计生产经验翻番带动器件成本剧降 20%–30% 的微观学习经济机制，揭示了公共采购在释放学习效应中的催化功能。
 > - [[Argument_Caraca_2009_TFSC|Caraça et al. (2009)]] — 构建[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，将学习经济确立为超越传统线性研发模型的宏观创新分析[[Paradigm|范式]]，系统阐释了 DUI/STI 模式与三类互补知识池的吸收机制。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 445–446)]] — 结合新增长理论剖析[[OECD|经合组织]]如何将[[Knowledge-Based Economy|知识经济]]推进为学习经济，论证学习与财富创造正相关并驱动教育治理转向[[Lifelong Learning|终身学习]]。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 445–446)]] — 结合新增长理论剖析[[OECD|经合组织]]如何将[[Knowledge-Based Economy|知识经济]]推进为学习经济，论证学习与财富创造正相关并驱动教育治理转向[[Lifelong Learning|终身学习]]。

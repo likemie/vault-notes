@@ -80,7 +80,7 @@ sources:
 part_of: 
 status: draft
 created: 2026-08-18
-updated: 2026-09-15
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Sandoval_2016_RRE"
@@ -173,8 +173,8 @@ issuing_organization: ""
 > - **链节二 个人认识论的演进（Evolution of Personal Epistemology）**
 >   该领域从最初的单线发展模型逐渐演变为多维信念系统，确立了当下的实证研究坐标系：
 >   > [!info] 个人认识论的演进路径解析
->   > 1. **线性发展阶段（Developmental Models）**以 Perry (1970) 对大学生的研究为发端，提出个体对知识的认知会经历类似[[Jean Piaget\|皮亚杰]]阶段论的系统性演变。个体从“双元论（dualists）”（认为知识是绝对客观的、由权威掌握的事实），走向“多元论（[[Multiplist\|multiplists]]）”（认为没有客观标准，所有观点都是等价的主观意见），最终发展到“相对主义（relativists）”（认识到知识具有情境性，需要通过[[Critical Thinking\|批判性思维]]进行论证与评估）。Kuhn (1991) 随后也刻画了从绝对主义、多元论到评价主义（[[Evaluativist\|evaluativists]]）的平行发展轨迹。
->   > 2. **多维信念系统（Dimensional Models）**Schommer (1990) 打破了阶段论同步发展的局限，主张认识论是由多个可独立异步变化的信念维度构成的。随后，[[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 进一步将这些多维信念提炼聚合为四大核心维度：[[Simplicity of Knowledge\|知识的简单性]]与确定性（关于知识的本质）、[[Source of Knowledge\|知识的来源]]与确证（关于认知的本质）。
+>   > 1. **线性发展阶段（Developmental Models）** 以 Perry (1970) 对大学生的研究为发端，提出个体对知识的认知会经历类似[[Jean Piaget\|皮亚杰]]阶段论的系统性演变。个体从“双元论（dualists）”（认为知识是绝对客观的、由权威掌握的事实），走向“多元论（[[Multiplist\|multiplists]]）”（认为没有客观标准，所有观点都是等价的主观意见），最终发展到“相对主义（relativists）”（认识到知识具有情境性，需要通过[[Critical Thinking\|批判性思维]]进行论证与评估）。Kuhn (1991) 随后也刻画了从绝对主义、多元论到评价主义（[[Evaluativist\|evaluativists]]）的平行发展轨迹。
+>   > 2. **多维信念系统（Dimensional Models）** Schommer (1990) 打破了阶段论同步发展的局限，主张认识论是由多个可独立异步变化的信念维度构成的。随后，[[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 进一步将这些多维信念提炼聚合为四大核心维度：[[Simplicity of Knowledge\|知识的简单性]]与确定性（关于知识的本质）、[[Source of Knowledge\|知识的来源]]与确证（关于认知的本质）。
 >   > 3. **量化测量的繁荣与脱域隐患** 多维模型的提出催生了高度标准化的自陈量表（如 Schommer 编制的认识论[[Questionnaire\|问卷]]（Epistemological Questionnaire, EQ））。虽然这些工具通过将信念转化为客观分数极大推动了该领域的[[Quantitative Research\|量化研究]]，但也由于其严重脱离具体实践情境的测量设计，遗留了将认知误视为一种稳定“特质（trait）”的理论隐患，并持续面临心理测量学上[[Construct Validity\|构念效度]]不佳的批评。
 > - **链节三 发展心理学的前置补全（Developmental Foundations）**
 >   儿童并不像早期理论假设的那样缺乏[[Epistemic Cognition\|认识论认知]]。幼儿在四个底层维度展现了极早期的发育：
@@ -201,8 +201,8 @@ issuing_organization: ""
 > - **[[Situative Perspective\|情境主义]]（situative perspective）（红方）** 深受 Vygotsky 及其衍生的强社会认识论影响，视知识为分布在社会与物质资源中的文化产物。在此视角下，基础分析单元转移到了“互动中的个体（individual-in-interaction）”，认识论认知不再是头脑内的脱域命题，而是特定[[Communities of Practice|实践共同体]]为解决集体认识论问题而动态展开的社会实践（social practices）。(|Sandoval et al., 2016, p. 471)
 
 > [!exegesis]- 理论妥协尝试与底层断层后果
-> - **认知情境主义（Cognitive Contextualist）的折中** 部分学者试图在两极之间搭建桥梁。例如，Muis et al. (2006) 提出通用信念是在特定的社会文化生态中发育的；而 Hammer & Elby (2002) 提出了“[[Epistemic Resources\|认识论资源]]（epistemic resources）”模型，主张微观粒度的认知资源会在具体活动语境中被有条件地激活，并通过反复使用凝结成认识框架。
-> - **不可[[Commensuration\|通约]]的争论** 这种妥协并未完全平息争议。Packer & Goicoechea (2000) 尖锐地指出，个体建构与情境主义在底层[[Ontology\|本体论]]上是彻底“不可通约（incommensurate）”的；虽然 Greeno (2015) 试图缓和这一对立，认为它们只是在处理不同抽象层级的解释（即统合[[Pluralism|多元主义]]）。
+> - **认知情境主义（Cognitive Contextualist）的折中** 部分学者试图在两极之间搭建桥梁。例如，Muis et al. (2006) 提出通用信念是在特定的社会文化生态中发育的；而 Hammer and Elby (2002) 提出了“[[Epistemic Resources\|认识论资源]]（epistemic resources）”模型，主张微观粒度的认知资源会在具体活动语境中被有条件地激活，并通过反复使用凝结成认识框架。
+> - **不可[[Commensuration\|通约]]的争论** 这种妥协并未完全平息争议。Packer and Goicoechea (2000) 尖锐地指出，个体建构与情境主义在底层[[Ontology\|本体论]]上是彻底“不可通约（incommensurate）”的；虽然 Greeno (2015) 试图缓和这一对立，认为它们只是在处理不同抽象层级的解释（即统合[[Pluralism|多元主义]]）。
 > - **分歧引发的研究撕裂** 本体论分歧直接撕裂了实证研究的设计逻辑——建构派致力于探究如何改变个体头脑中的稳定观念维度（因而热衷脱离情境的分发标准化问卷）；情境派则侧重探究个体如何适应并改变特定的社区认识论规范（[[Epistemic Climate]]）（因而坚持深入现场进行真实活动的[[Discourse Analysis\|话语分析]]）。
 
 ---
@@ -216,9 +216,9 @@ issuing_organization: ""
 > - **链节一 传统领域论争与问卷特质论假象**
 >   早期研究热衷于探讨信念是否随学科变化。常见做法是修改标准化[[Questionnaire\|问卷]]，例如把题干中的“知识”替换为“科学”或“心理学”（如 Hofer, 2000）。这些研究虽然发现了学科间的差异，但其底层逻辑依然预设了认识论是一种相对稳定的心理特质，只是在这个特质上贴了不同的学科宏大标签，完全忽略了在“科学”或“历史”等宏大标签内部，具体任务依然存在巨大的[[Heterogeneity\|异质性]]。
 > - **链节二 真实情境中极高的动态切换能力**
->   一旦走出问卷，实证观察揭示了惊人的情境特异性。即便是面对完全相同的领域文本，个体的认知标准也会随任务目标发生剧烈变化。例如，Gottlieb & Wineburg (2012) 发现，历史学家在阅读特定文本时，能够游刃有余地在“学术确证标准”（依赖史料交叉印证）与“宗教情感标准”之间来回切换。这种动态跳跃证明，认识论不仅不是跨领域稳定的，甚至在同一学科领域内部也不是跨任务稳定的。
+>   一旦走出问卷，实证观察揭示了惊人的情境特异性。即便是面对完全相同的领域文本，个体的认知标准也会随任务目标发生剧烈变化。例如，Gottlieb and Wineburg (2012) 发现，历史学家在阅读特定文本时，能够游刃有余地在“学术确证标准”（依赖史料交叉印证）与“宗教情感标准”之间来回切换。这种动态跳跃证明，认识论不仅不是跨领域稳定的，甚至在同一学科领域内部也不是跨任务稳定的。
 > - **链节三 颗粒度的重塑：从宏大信念到微观资源**
->   面对情境特异性的挑战，学者们呼吁彻底重构认识论认知的“颗粒度（grain size）”。Hammer & Elby (2002) 等人主张放弃宏大抽象的“维度信念”，转而提出“认识论框架（epistemological framing）”与细粒度的“认识论资源（epistemic resources）”。在此视角下，个体不再是被静态测试是否“拥有”某种信念，而是被动态观察如何根据当下的情境需求（situational demands）灵活激活、调配恰当的认知资源（例如在物理课上面对不同活动时，学生会在“常识推理”框架和“权威公式”框架间无缝切换）。
+>   面对情境特异性的挑战，学者们呼吁彻底重构认识论认知的“颗粒度（grain size）”。Hammer and Elby (2002) 等人主张放弃宏大抽象的“维度信念”，转而提出“认识论框架（epistemological framing）”与细粒度的“认识论资源（epistemic resources）”。在此视角下，个体不再是被静态测试是否“拥有”某种信念，而是被动态观察如何根据当下的情境需求（situational demands）灵活激活、调配恰当的认知资源（例如在物理课上面对不同活动时，学生会在“常识推理”框架和“权威公式”框架间无缝切换）。
 
 > [!critique-logic] 理论反思 破除领域维度的假象
 > 仅仅承认“领域特殊性（domain-specificity）”仍远远不足。用“科学领域得分”这样宏大且抽象的维度分数，去掩盖学生在微观任务操作中展现出的极度动态的跳跃与框架切换，必然会导致极低的[[Predictive Validity\|预测效度]]。未来的研究必须从“测量学生头脑中拥有什么宏大信念”，下沉并转向“捕捉学生在何种微观任务情境中、出于何种认识论目的（[[Epistemic Aims]]）、激活了何种确证标准”。

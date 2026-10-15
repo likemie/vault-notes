@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Calvin Stowe
@@ -72,7 +72,7 @@ updated: 2026-10-15
 斯托在考察欧洲公共教育体制时，始终立足于为母州的公共教育建制寻找可资借鉴的成熟经验：
 
 > [!citation-card] 人物定位的关键来源
-> 俄亥俄州政府委托斯托在欧洲期间收集其认为对本州有益的各种关于公共教学与教育体制的事实与信息。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 31)]]；引自 Knight (1930:248)
+> 俄亥俄州政府委托斯托在欧洲期间收集其认为对本州有益的各种关于公共教学与教育体制的事实与信息。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 31)]]；引自 Knight (1930:248)
 >
 > *Stowe, for example, was commissioned by the state of Ohio to collect, while in Europe, 'such facts and information as he may deem useful to the State [Ohio] in relation to the various systems of public instruction and education'.*
 
@@ -87,9 +87,9 @@ updated: 2026-10-15
 > - **1802** 出生于马萨诸塞州内蒂克（Natick）。
 > - **1824–1828** 毕业于鲍登学院（Bowdoin College）与安多弗神学院（Andover Theological Seminary），投身圣经文献学与古典希腊语研究。
 > - **1833** 赴俄亥俄州辛辛那提，出任莱恩神学院（Lane Theological Seminary）圣经文学教授，积极介入中西部边疆拓殖时期的平民教育与公共文化建设。
-> - **1836** 启程赴欧洲为神学院采购图书，行前获得俄亥俄州议会正式官方决议任命，作为州立官方特使[[Fieldwork\|实地调查]]英国、法国与德意志各邦（尤其是普鲁士）的公共教育体制。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 31)]]
+> - **1836** 启程赴欧洲为神学院采购图书，行前获得俄亥俄州议会正式官方决议任命，作为州立官方特使[[Fieldwork\|实地调查]]英国、法国与德意志各邦（尤其是普鲁士）的公共教育体制。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 31)]]
 > - **1837** 向俄亥俄州第 36 届议会正式呈递《[[Report on Elementary Public Instruction in Europe\|欧洲初等公共教育报告]]》（*Report on Elementary Public Instruction in Europe*），引发广泛反响。
-> - **1838–1840** 斯托报告被俄亥俄州议会下令向全州每个学区广泛印发；马萨诸塞州、宾夕法尼亚州、密歇根州、北卡罗来纳州与弗吉尼亚州议会相继通过官方决议，由州财政拨款重印并全境发行斯托报告。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 31–32)]]
+> - **1838–1840** 斯托报告被俄亥俄州议会下令向全州每个学区广泛印发；马萨诸塞州、宾夕法尼亚州、密歇根州、北卡罗来纳州与弗吉尼亚州议会相继通过官方决议，由州财政拨款重印并全境发行斯托报告。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 31–32)]]
 > - **1850–1864** 先后任教于鲍登学院与安多弗神学院，持续参与反奴隶制与公共教育普及讨论。
 > - **1886** 逝世于康涅狄格州哈特福德（Hartford）。
 
@@ -100,7 +100,7 @@ updated: 2026-10-15
 斯托的比较教育与政策考察文本高度聚焦于 1836 年欧洲之行的政策成果，体现了典型的政策导向行政改良特征：
 
 > [!work-line] 主要著作
-> - **1837 — *[[Report on Elementary Public Instruction in Europe]]*** 斯托最著名、最具历史影响力的比较考察文献。报告详尽梳理了普鲁士、符腾堡、巴伐利亚等德意志各邦与法国、英国的初等学校建制、课程大纲、师资培训与国家督导机制，着力阐明非共和政体的君主国家如何成功实现普及全民初等教育，为美国各州建立公共学校提供了无可争议的可行性论据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 31–32)]]
+> - **1837 — *[[Report on Elementary Public Instruction in Europe]]*** 斯托最著名、最具历史影响力的比较考察文献。报告详尽梳理了普鲁士、符腾堡、巴伐利亚等德意志各邦与法国、英国的初等学校建制、课程大纲、师资培训与国家督导机制，着力阐明非共和政体的君主国家如何成功实现普及全民初等教育，为美国各州建立公共学校提供了无可争议的可行性论据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 31–32)]]
 
 ---
 
@@ -116,7 +116,7 @@ updated: 2026-10-15
 > 在考察普鲁士专制政体下的公共教育成就时，斯托盛赞国家法律在唤醒青少年爱国情怀与国民凝聚力上的卓越成效：
 
 > [!citation-card] 普鲁士法律在塑造国民精神上的卓越实绩
-> 斯托高度赞扬非共和政体的君主腓特烈·威廉在所有关涉教育的法律中所展现的坚定执着，即致力于唤醒民族精神，在青年一代的心灵中培育对祖国及其制度的热切依恋。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 32)]]；引自 Knight (1930:255)
+> 斯托高度赞扬非共和政体的君主腓特烈·威廉在所有关涉教育的法律中所展现的坚定执着，即致力于唤醒民族精神，在青年一代的心灵中培育对祖国及其制度的热切依恋。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 32)]]；引自 Knight (1930:255)
 >
 > *Stowe praised the non-Republican government of the 'unostentatious' monarch Frederick William in that it 'repeatedly and strenuously insisted in all the laws pertaining to education, to awaken a national spirit—to create in the youthful mind a warm attachment to his native land, and its institutions'.*
 
@@ -132,7 +132,7 @@ updated: 2026-10-15
 > - **跨国思想转译** 斯托成功破除了美国公众对“借用欧洲专制君主国教育经验会腐蚀美利坚自由共和精神”的狭隘偏见，将普鲁士公学的技术卓越性（师范专业化、直观教学法与国民道德感）与政治专制外壳剥离开来，开创了美国借用欧陆经验的[[Pragmatic Paradigm\|实用主义]]修辞传统。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 将斯托与曼、巴纳德并列，系统论证其如何代表美国 19 世纪前期的“政策导向与行政[[Educational Meliorism\|改良主义]]母题”，将外国经验转化为推进各州公学法案的政治合法化依据。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 将斯托与曼、巴纳德并列，系统论证其如何代表美国 19 世纪前期的“政策导向与行政[[Educational Meliorism\|改良主义]]母题”，将外国经验转化为推进各州公学法案的政治合法化依据。
 > - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 引述斯托在俄亥俄州议会的证词，称普鲁士教育不是“空想”而是“有史以来最好的学区”；指出斯托承认普鲁士教育兼有专制道德控制但以“恶政与良教可分”为借用正名。[(Rust et al., 2009, pp. 124–125)]
 
 ---
@@ -140,17 +140,17 @@ updated: 2026-10-15
 ## 历史评价
 
 > [!citation-card] 奈特论[[Report on Elementary Public Instruction in Europe\|斯托报告]]的跨州政策动员
-> 斯托受俄亥俄州委托收集对本州有益的欧洲公共教育事实与信息；其报告在全美引发空前轰动，推动多州议会拨款重印，成为 19 世纪中叶美国[[Common School Movement\|公学运动]]极具政策说服力的[[Discourse|话语]]武器。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 31–32)]]；引自 Knight (1930:248)
+> 斯托受俄亥俄州委托收集对本州有益的欧洲公共教育事实与信息；其报告在全美引发空前轰动，推动多州议会拨款重印，成为 19 世纪中叶美国[[Common School Movement\|公学运动]]极具政策说服力的[[Discourse|话语]]武器。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 31–32)]]；引自 Knight (1930:248)
 >
 > *Stowe was commissioned by the state of Ohio to collect, while in Europe, 'such facts and information as he may deem useful to the State [Ohio] in relation to the various systems of public instruction and education'.*
 
 > [!citation-card] 斯托论普鲁士教育唤醒爱国民族精神
-> “在所有关乎教育的法令中，普鲁士反复且坚定地强调：唤醒民族精神，在青少年的心灵中建立对其祖国及其制度的热切依恋。”[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 31)]]；引自 Knight (1930:255)
+> “在所有关乎教育的法令中，普鲁士反复且坚定地强调：唤醒民族精神，在青少年的心灵中建立对其祖国及其制度的热切依恋。”[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 31)]]；引自 Knight (1930:255)
 >
 > *...repeatedly and strenuously insisted in all the laws pertaining to education, to awaken a national spirit—to create in the youthful mind a warm attachment to his native land, and its institutions.*
 
 > [!citation-card] 卡洛扬纳基与卡扎米亚斯论斯托报告作为边疆立法的合法化理据
-> 斯托等美洲先驱的核心机制在于将欧陆公学事实转译为美国边疆地区反击私学垄断、推进公立教育立法的政治合法化理据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 34)]]
+> 斯托等美洲先驱的核心机制在于将欧陆公学事实转译为美国边疆地区反击私学垄断、推进公立教育立法的政治合法化理据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 34)]]
 >
 > *...the American policy-makers and administrators were motivated 'by a desire to gain useful lessons from abroad' ... to use as legitimating rationales for the reform of national public education in the United States.*
 
@@ -184,8 +184,8 @@ updated: 2026-10-15
 > > [!axis] [[Auslandspadagogik\|外国教育学]]的史学定位：业余报道还是奠基性编年史
 > > 20 世纪下半叶科学实证学派与当代思想史学派围绕斯托等 19 世纪先驱的调研方法展开了深刻论争。
 > >
-> > - **Noah & Eckstein (1969)** 批评斯托的调查缺乏[[Variable\|变量]]控制、严格因果检验与系统比较框架，属于典型的以主观印象和选优借用为特征的前科学阶段。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 32–33)]]
-> > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]]** 批驳实证派的辉格史倾向，指出斯托等人的历史叙事与事实汇纂准确抓住了德意志师资培育与国家督导的核心脉络，为后世比较学科筑就了坚实的经验史料基座。（p. 33）
+> > - **Noah and Eckstein (1969)** 批评斯托的调查缺乏[[Variable\|变量]]控制、严格因果检验与系统比较框架，属于典型的以主观印象和选优借用为特征的前科学阶段。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 32–33)]]
+> > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]]** 批驳实证派的辉格史倾向，指出斯托等人的历史叙事与事实汇纂准确抓住了德意志师资培育与国家督导的核心脉络，为后世比较学科筑就了坚实的经验史料基座。（p. 33）
 
 > [!warning] 未解问题与制度边界
 > 斯托高度推崇普鲁士公学在唤醒青年对王室与国家依恋方面的效能，但其文本未曾深入剖析普鲁士教育体制背后的阶级固化与专制从属性。在向民主自治的美国边疆移植时，如何防止国家督导权侵蚀新英格兰传统的市镇地方自治与教会信仰自由，始终是[[Report on Elementary Public Instruction in Europe\|斯托报告]]未能从法理上彻底解决的内在张力。

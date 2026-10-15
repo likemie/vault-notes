@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Everyday Plebiscite
@@ -118,7 +118,7 @@ updated: 2026-10-09
 > [!concept-lens] 当代共和国重构与认同危机
 > 探讨后现代西方解构共同历史叙事对国家动员力与技术创新的侵蚀。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **国家认同解构引发的文明危机** 卡普与扎米斯卡指出，当当代西方知识界与科技精英将国家认同贬抑为狭隘排他并放弃对共同生活意愿的日常确认时，社会必然退化为原子化利己主义与消费主义的附庸；重建[[Technological Republic|技术共和国]]必须重振这种每日公投式的政治承诺。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 199–201)]]
 
 ---
@@ -129,7 +129,7 @@ updated: 2026-10-09
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **精神契约论** | 民族是基于历史共同牺牲与当下持续同意的宏大道德团结 | 政治哲学、民族主义理论、国家起源分析 | Renan (1882) |
-> | **共和国存续论** | 持续的公民认同确认是自由政体抵抗虚无主义与维持[[Hard Power\|硬实力]]的生命线 | 科技地缘政治、国家能力建构、现代性反思 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025)]] |
+> | **共和国存续论** | 持续的公民认同确认是自由政体抵抗虚无主义与维持[[Hard Power\|硬实力]]的生命线 | 科技地缘政治、国家能力建构、现代性反思 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]] |
 
 ---
 

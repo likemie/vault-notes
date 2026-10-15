@@ -78,7 +78,7 @@ related_theories:
 related_persons: []
 status: draft
 created: 2026-08-26
-updated: 2026-09-18
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
@@ -116,8 +116,8 @@ journal: "SAGE Open"
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Theory of Planned Behavior\|计划行为理论]]**<br>Theory of Planned Behavior (TPB) | 整合 Ajzen (1991, 2005) 理论，将研究意识界定为背景认知变量，研究态度界定为意向驱动变量，研究技能界定为知觉行为控制（Perceived Behavioral Control, PBC），研究使用界定为外显目标行为，构建起“意识背景 $\rightarrow$ 态度意向 $\rightarrow$ 技能知觉控制 $\rightarrow$ 实践使用”的行为演化全景链条。（pp.3–4） |
-> | **[[Research Utilization Models\|研究利用模型]]**<br>Research Utilization Models | 借鉴 Weiss (1979) 的经典分类（问题解决模型、启蒙模型与战术模型）以及 Pelz (1978)、Beyer & Trice (1982) 的概念性、工具性与[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]框架，将[[Research Utilization\|研究使用]][[Operationalization\|操作化]]为备课设计、教学法优化、解决课堂问题及专业[[Dialogue in Education\|对话]]等多维实践。 |
-> | **多元素养整合模型**<br>Subtypes of Research Literacy | 整合 Beaudry & Miller (2016) 与 Jemsy (2018) 的素养细分，将信息与技术检索素养、语言讨论素养、视觉图表素养与数理统计素养统整纳入研究技能维度。（pp.4–5） |
+> | **[[Research Utilization Models\|研究利用模型]]**<br>Research Utilization Models | 借鉴 Weiss (1979) 的经典分类（问题解决模型、启蒙模型与战术模型）以及 Pelz (1978)、Beyer and Trice (1982) 的概念性、工具性与[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]框架，将[[Research Utilization\|研究使用]][[Operationalization\|操作化]]为备课设计、教学法优化、解决课堂问题及专业[[Dialogue in Education\|对话]]等多维实践。 |
+> | **多元素养整合模型**<br>Subtypes of Research Literacy | 整合 Beaudry and Miller (2016) 与 Jemsy (2018) 的素养细分，将信息与技术检索素养、语言讨论素养、视觉图表素养与数理统计素养统整纳入研究技能维度。（pp.4–5） |
 
 > [!warrant]- 理论如何支撑论证
 > 传统测评工具（如 Brown et al., 2022 基于鲍德里亚符号消费理论的 BCS 调查）往往偏重效用感知，而忽视了个体从意识到知识存在到采取实际行动的心理行为机制。计划行为理论为将意识（认知基础）、态度（价值认同）、技能（能力控制信念）与使用（行为表现）统摄于同一二阶[[Construct\|构念]]下提供了严密的因果逻辑桥梁。（pp.3–5）

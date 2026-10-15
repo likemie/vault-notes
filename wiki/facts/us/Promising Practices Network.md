@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Promising Practices Network
@@ -62,7 +62,7 @@ updated: 2026-10-15
 > [!info] 机构定位与运营概况
 > **前景广阔的实践网络（Promising Practices Network, PPN）** 是由美国著名智库兰德公司（RAND Corporation）于 1998 年设立的多领域非营利[[Educational Evidence Clearinghouses\|证据清算中心]]，致力于为决策者提供改善儿童与家庭福祉的循证干预项目清单([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 7]])。
 >
-> PPN 覆盖社会与行为发展、身心健康、基础教育与经济福利等领域。当前处于**已终止运营并归档（Discontinued / Archived）**状态：兰德公司于 2014 年 6 月结项停止更新，网站于 2019 年底正式下线，全部历史评级报告沉淀于兰德免费公开电子书 [TL145](https://www.rand.org/pubs/tools/TL145.html)。
+> PPN 覆盖社会与行为发展、身心健康、基础教育与经济福利等领域。当前处于**已终止运营并归档（Discontinued / Archived）** 状态：兰德公司于 2014 年 6 月结项停止更新，网站于 2019 年底正式下线，全部历史评级报告沉淀于兰德免费公开电子书 [TL145](https://www.rand.org/pubs/tools/TL145.html)。
 
 ---
 
@@ -79,7 +79,7 @@ updated: 2026-10-15
 ## 评级对象与项目纳入范围
 
 > [!feature] 评价范围与项目入库
-> - **评估对象级别** 仅针对具备完整实施文档与固定方案的**具名项目（Named Programs）**开展评估([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
+> - **评估对象级别** 仅针对具备完整实施文档与固定方案的**具名项目（Named Programs）** 开展评估([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
 > - **儿童与家庭焦点** 纳入干预涵盖学前准备、早期阅读、课堂行为管理、家庭危机干预及青少年辍学预防等。
 
 ---

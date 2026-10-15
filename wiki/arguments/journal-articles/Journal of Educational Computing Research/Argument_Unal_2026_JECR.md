@@ -141,8 +141,8 @@ issuing_organization: ""
 > |----------|----------|
 > | **Zawacki-Richter 高等教育人工智能四维分类框架**<br>[[Zawacki-Richter AI in Higher Education Framework]] | 依据 Zawacki-Richter et al. (2019) 的分类框架，将 AI 教育应用系统划分为画像与预测、评估与评定、自适应系统与个性化、智能导学系统四大核心教学服务域，为本研究对多元 AI 工具的[[Operationalization\|操作化]]分类提供顶层理论架构（pp. 1364–1366）。 |
 > | **布鲁姆教育目标分类学修订版**<br>[[Higher-Order Thinking Skills]] | 区分记忆、理解、应用等较低阶认知目标与分析、评价、创造等高阶思维技能，为将 AI 带来的[[Learning Gain\|学习增益]]拆解为基础知识掌握与复杂认知发展提供理论分类标准（pp. 1365–1366）。 |
-> | **高阶思维技能五维分类框架**<br>[[Critical Thinking]] | 整合 Resnick (1987)、McLoughlin & Mynard (2009) 与 Liu et al. (2024) 的界定，将高阶思维[[Operationalization\|操作化]]为问题解决、[[Metacognition\|元认知]]、批判性思维、团队协作与创新发展五大维度，用以检验 AI 是否仅停留于浅层算法应答。 |
-> | **二阶元分析方法论框架**<br>[[Meta-meta-analysis]] | 依据 Schmidt & Oh (2013) 与 Oh (2020) 的理论，将一阶[[Meta-analysis\|元分析]]的标准化[[Effect Size\|效应量]]作为分析单位，通过[[Fixed-Effect and Random-Effects Models\|随机效应模型]]与经典[[Inverse-Variance Weighting\|逆方差加权]]消除一阶[[Sampling Error\|抽样误差]]，合成全领域宏观效应基准（p. 1367）。 |
+> | **高阶思维技能五维分类框架**<br>[[Critical Thinking]] | 整合 Resnick (1987)、McLoughlin and Mynard (2009) 与 Liu et al. (2024) 的界定，将高阶思维[[Operationalization\|操作化]]为问题解决、[[Metacognition\|元认知]]、批判性思维、团队协作与创新发展五大维度，用以检验 AI 是否仅停留于浅层算法应答。 |
+> | **二阶元分析方法论框架**<br>[[Meta-meta-analysis]] | 依据 Schmidt and Oh (2013) 与 Oh (2020) 的理论，将一阶[[Meta-analysis\|元分析]]的标准化[[Effect Size\|效应量]]作为分析单位，通过[[Fixed-Effect and Random-Effects Models\|随机效应模型]]与经典[[Inverse-Variance Weighting\|逆方差加权]]消除一阶[[Sampling Error\|抽样误差]]，合成全领域宏观效应基准（p. 1367）。 |
 > | **PRISMA 2020 系统评价规范**<br>[[Coding in Qualitative Research]] | 遵循[[PRISMA\|系统评价和元分析优先报告条目]] 2020 年版（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA 2020）指南，提供包含识别、筛查、合格性审查与最终纳入的四阶段循证筛选架构，确保二阶样本提取的透明性与可重复性（Page et al., 2021; pp. 1367–1369）。 |
 > | **R-AMSTAR 系统评价质量评估工具**<br>[[AMSTAR]] | 采用系统评价方法学质量评估工具修订版（Revised Assessment of Multiple Systematic Reviews, R-AMSTAR; Kung et al., 2010; Young, 2017）的 12 项准则（排除临床项 8C/8D），对纳入的一阶元分析进行方法学质量量化评级（0–44 分），识别质量对效应量的调节作用（pp. 1370–1373）。 |
 > | **GROOVE 重叠分析与校正覆盖面积矩阵**<br>[[GROOVE]] · [[Corrected Covered Area]] | 运用[[GROOVE\|系统评价重叠图形表征工具]]（Graphical Representation of Overlap for OVErviews, GROOVE; Bracchiglione et al., 2022）计算[[Corrected Covered Area\|校正覆盖面积]]（Corrected Covered Area, CCA），设定 10% 重叠率排除阈值，解决一阶元分析因共享初级研究导致的双重计数与假阳性膨胀（pp. 1373–1375）。 |
@@ -161,7 +161,7 @@ issuing_organization: ""
 > | **[[Higher-Order Thinking Skills\|高阶思维技能]]（Higher-Order Thinking Skills, HOTS）** | 依据布鲁姆修订版分类学与五维高阶思维框架（Liu et al., 2024），指超越机械识记与算法性规则套用的复杂自我调节认知过程，涵盖计算思维、[[Critical Thinking\|批判性思维]]、复杂问题解决、元认知监控与创造性倾向（Resnick, 1987; Liu et al., 2024）。 | 典型测量工具：加州批判性思维倾向问卷（California Critical Thinking Disposition Inventory, CCTDI）、计算思维量表（Computational Thinking Scale, CTS）、开放性探究任务表现评价量规、创造性解题测验；纳入 Dibek et al. (2025, 多学科, $ES = .63$, 95% CI [.12, 1.14]) 1 项专门 FOM（涵盖 29 项初级研究、2,966 名学生）；并在 10 项综合 FOM 中作为复合因变量。 |
 > | **综合学习成果（Combined Outcomes）** | 一阶元分析未对基础学业成就与高阶认知或情感分量进行完全剥离，直接综合报告的宏观学习产出指标。 | 典型测量工具：综合课程评价档案袋、学业成绩与认知或态度混合合成指数；纳入 10 项独立 FOM：Setiawan et al. (2025, $ES = .58$)、Dai et al. (2024, $ES = .43$)、Yi et al. (2025, $ES = .32$)、Zheng et al. (2023, $ES = .70$)、García-Martínez et al. (2023, $ES = .72$)、Wu (2024, $ES = .98$)、Liu et al. (2025, $ES = .97$)、Wang et al. (2024, $ES = .70$)、Zhang et al. (2024, $ES = .59$)、Deng et al. (2025, $ES = .72$)；亚组加权平均 $ES = .67$（95% CI [.50, .83]）。 |
 > | **智能[[Dialogue in Education\|对话]]代理与聊天机器人（AI Chatbots & Conversational Agents）** | 依托自然语言处理（Natural Language Processing, NLP）与大语言模型（Large Language Model, LLM，如 ChatGPT、GPT-4）或规则驱动的对话式智能辅导系统，能够模拟人类教师或学伴进行即时互动、[[Socrates\|苏格拉底]]式追问与个性化语言交流。 | 教学规程：学生提出问题 $\to$ 聊天机器人提供自适应解释或引导性线索 $\to$ 开展多轮人机对话反思 $\to$ 总结提炼；典型工具：ChatGPT, Dialogflow, Duolingo Max, 智能外语口语助手；纳入 4 项独立 FOM：Liu et al. (2025, 语言, $ES = .97$)、Wu & Li (2024, 语言, $ES = .65$)、Zhang et al. (2024, 残障学生, $ES = .59$)、Deng et al. (2025, 多学科, $ES = .72$)；亚组加权平均 $ES = .74$（95% CI [.49, .98]）。 |
-> | **智能导学与自适应学习系统（[[Intelligent Tutoring Systems]] & Adaptive Systems）** | 具备领域专家知识模型、学生认知状态追踪模型、教学策略决策模型与交互界面的个性化学习系统，能够实现学习路径动态规划与练习难度自适应调整。 | 教学规程：初始先验知识前测 $\to$ 算法动态推送定制化学习内容 $\to$ 提供细粒度即时步骤诊断提示 $\to$ 掌握度达标后晋级；典型系统：ALEKS, Cognitive Tutor, ASSISTments, Knewton；纳入 Wang et al. (2024, 自适应系统, $ES = .70$)、Hwang (2022, $ES = .35$)、Steenbergen-Hu & Cooper (2013) 等；归入多类型 AI 组。 |
+> | **智能导学与自适应学习系统（[[Intelligent Tutoring Systems]] & Adaptive Systems）** | 具备领域专家知识模型、学生认知状态追踪模型、教学策略决策模型与交互界面的个性化学习系统，能够实现学习路径动态规划与练习难度自适应调整。 | 教学规程：初始先验知识前测 $\to$ 算法动态推送定制化学习内容 $\to$ 提供细粒度即时步骤诊断提示 $\to$ 掌握度达标后晋级；典型系统：ALEKS, Cognitive Tutor, ASSISTments, Knewton；纳入 Wang et al. (2024, 自适应系统, $ES = .70$)、Hwang (2022, $ES = .35$)、Steenbergen-Hu and Cooper (2013) 等；归入多类型 AI 组。 |
 > | **AI 赋能评估与自动化评分反馈工具（AI-enabled Assessment & Automated [[Feedback]] Tools）** | 运用自然语言处理与机器学习算法对学生主观产出（如作文、口语录音、开放问答）实施自动作文评分（Automated Essay Scoring, AES）、错误诊断并生成多维度形成性反馈的专用评估技术。 | 教学规程：学生提交初稿 $\to$ AI 算法即时生成语法、篇章、逻辑层级诊断报告 $\to$ 学生根据反馈进行多轮自主修改与反思 $\to$ 终结性测评；典型工具：ETS Criterion, 批改网, Grammarly Edu；纳入 Chen et al. (2025, K12 英语写作与口语评估, $ES = .39$, 95% CI [-.19, .97]) 1 项专属 FOM。 |
 > | **生成式 AI 编程助手与[[Computational Thinking\|计算思维]]支架（GenAI Code Assistants & Computational Scaffolds）** | 利用代码大模型与生成式[[AI Agent in Education\|智能体]]为学生提供实时代码解释、语法与逻辑纠错、算法思路拆解与伪代码转化的认知脚手架。 | 教学规程：复杂编程任务拆解 $\to$ 提示词构建与代码框架生成 $\to$ AI 代码审查与错误定位 $\to$ 算法效率优化与同伴讨论；典型工具：GitHub Copilot, ChatGPT Code Interpreter；纳入 Tlili (2024, 计算机科学, $ES = 1.36$)、García-Martínez et al. (2023, 计算机科学, $ES = .72$)；亚组加权平均 $ES = .99$（95% CI [.62, 1.35]）。 |
 > | **综合多类型 AI 教育平台与智能媒体（Multi-type AI Learning Media & Platforms）** | 涵盖多种 AI 技术的集成化智慧学习环境，或一阶元分析未对具体技术子类作拆分的统合型智能教学干预。 | 教学规程：融合自适应内容推送、智能推荐、多模态互动练习与学习分析数据看板；纳入 14 项独立 FOM：Dong et al. (2025, $ES = .92$)、Setiawan et al. (2025, $ES = .58$)、Dai et al. (2024, $ES = .43$)、Dibek et al. (2025, $ES = .63$)、Yi et al. (2025, $ES = .32$)、Zheng et al. (2023, $ES = .70$)、Tlili et al. (2025, $ES = 1.10$)、Wu (2024, $ES = .98$) 等；亚组加权平均 $ES = .66$（95% CI [.53, .79]）。 |
@@ -219,7 +219,7 @@ issuing_organization: ""
 > | **语言标准** | 一阶元分析研究必须以**英文**全文发表。 | 以非英语语言（如中文、西班牙语、德语等）发表的元分析予以排除。 |
 > | **发表时段** | 纳入 **2020 年 1 月至 2025 年 4 月**之间发表的一阶元分析。 | 2020 年之前或 2025 年 4 月之后发表的研究不予纳入。 |
 > | **干预目标** | 首要目标必须是识别针对学生**认知、情感或行为学习成果**的人工智能应用。 | 旨在预测或建模学生行为、课堂过程或非教学性管理预测的研究予以排除。 |
-> | **教学取向** | AI 应用与工具必须作为具备**明确教学法取向的教学技术**在教学过程中加以应用。 | 仅关注**人工智能知识本身的教学与教育（Teaching and Education of AI）**的研究予以排除。 |
+> | **教学取向** | AI 应用与工具必须作为具备**明确教学法取向的教学技术**在教学过程中加以应用。 | 仅关注**人工智能知识本身的教学与教育（Teaching and Education of AI）** 的研究予以排除。 |
 > | **统计完整性** | FOM 必须报告充分且恰当的统计数据以生成通用效应量（如 Cohen's $d$、Hedges' $g$、置信区间上下限 LL/UL、标准误（Standard Error, SE）及方差值）。 | 未包含定量元分析合并矩阵的纯质性系统评价予以排除。 |
 > | **独立性与重叠控制** | FOM 必须独立开展以确保研究结论的真实有效性。 | 当重叠 FOM 之间的**校正覆盖面积（CCA）超过 10%** 时，[[Research Scope\|研究范围]]较窄或信息陈旧的 FOM 予以排除。 |
 >
@@ -273,7 +273,7 @@ issuing_organization: ""
 > 文献重叠会导致初级[[Study Population and Sample\|研究样本]]被重复赋予加权方差，从而人为缩窄[[Confidence Interval\|置信区间]]并膨胀假阳性；必须采用 [[GROOVE]] [[Corrected Covered Area\|校正覆盖面积]]（CCA）矩阵剔除重叠率超过 10% 的元分析，并运用 R-[[AMSTAR]] 验证纳入数据集的方法学高质量属性（pp. 1370–1375）。
 
 > [!chain-link] 证据到判断
-> - **证据一：GROOVE 重叠分析与排除** 运用 GROOVE 工具计算各 FOM 之间的初级研究重叠矩阵，设定 $CCA > 10\%$ 为不可接受的高重叠阈值；最终果断排除了 6 项存在显著重叠且研究范围较窄的元分析：Wu & Yu (2024)、Zhu et al. (2025)、Sun & Zhou (2024)、Guan et al. (2024)、Liu, Guo, He, & Hu (2025)、Wang & Fan (2025)（pp. 1373–1375）。
+> - **证据一：GROOVE 重叠分析与排除** 运用 GROOVE 工具计算各 FOM 之间的初级研究重叠矩阵，设定 $CCA > 10\%$ 为不可接受的高重叠阈值；最终果断排除了 6 项存在显著重叠且研究范围较窄的元分析：Wu and Yu (2024)、Zhu et al. (2025)、Sun and Zhou (2024)、Guan et al. (2024)、Liu, Guo, He, & Hu (2025)、Wang and Fan (2025)（pp. 1373–1375）。
 > - **证据二：未报告清单文献的敏感性处理** 3 项 FOM（Zheng et al., 2023; Tlili et al., 2025; Lin et al., 2022）因未提供初级研究清单而无法直接计算 CCA；作者将其保留并纳入后续敏感性分析，证实其未对整体结论造成系统性扭曲。
 > - **证据三：R-AMSTAR 方法学质量评价** 19 项纳入元分析的 R-AMSTAR 得分介于 29 至 36 分之间，全样本均值高达 33.84（SD = 2.97）；其中 13 项（68.4%）达到高质量层级（34–44 分），6 项（31.6%）达到中等质量层级（23–33 分），无低质量或不充分研究（p. 1370）。
 
@@ -303,11 +303,11 @@ issuing_organization: ""
 > | **Wu (2024)** | 49 | .98 | 0.75 | 1.21 | 语言（Language） | 综合成果（Combined） | 多类型（Multi-type） | K12 与高等教育 | 低偏倚（Low） | 2013–2024 | 6,434 | 高质量（High） |
 > | **Liu et al. (2025)** | 25 | .97 | 0.76 | 1.18 | 语言（Language） | 综合成果（Combined） | 聊天机器人（Chatbots） | K12 与高等教育 | 无偏倚（No） | 2022–2024 | 4,179 | 高质量（High） |
 > | **Chen et al. (2025)** | 25 | .39 | 0.01 | 0.77 | 语言（Language） | 学业成就（A. Ach） | 评估工具（AI assessment） | K12 | 无偏倚（No） | 2012–2024 | 2,523 | 高质量（High） |
-> | **Wu & Li (2024)** | 21 | .65 | 0.41 | 0.89 | 语言（Language） | 学业成就（A. Ach） | 聊天机器人（Chatbots） | K12 与高等教育 | 无偏倚（No） | 2008–2023 | 1,232 | 高质量（High） |
+> | **Wu and Li (2024)** | 21 | .65 | 0.41 | 0.89 | 语言（Language） | 学业成就（A. Ach） | 聊天机器人（Chatbots） | K12 与高等教育 | 无偏倚（No） | 2008–2023 | 1,232 | 高质量（High） |
 > | **Wang et al. (2024)** | 45 | .70 | 0.49 | 0.90 | 多学科（Multi-field） | 综合成果（Combined） | 多类型（Multi-type） | K12 与高等教育 | 无偏倚（No） | 2010–2022 | 3,750 | 高质量（High） |
 > | **Zhang et al. (2024)** | 29 | .59 | 0.35 | 0.83 | 多学科（Multi-field） | 综合成果（Combined） | 聊天机器人（Chatbots） | K12 | 高偏倚（Large） | 1994–2023 | 残障学生（Students with Disabilities, SWD） | 中等质量（Medium） |
 > | **Lin et al. (2022)** [^a] | 33 | .51 | 0.37 | 0.65 | 多学科（Multi-field） | 学业成就（A. Ach） | 多类型（Multi-type） | K12 与高等教育 | 无偏倚（No） | 2012–2021 | 4,996 | 中等质量（Medium） |
-> | **Lee & Lee (2024)** | 40 | .39 | 0.25 | 0.53 | 语言（Language） | 学业成就（A. Ach） | 多类型（Multi-type） | K12 与高等教育 | 无偏倚（No） | 1993–2023 | 8,282 | 高质量（High） |
+> | **Lee and Lee (2024)** | 40 | .39 | 0.25 | 0.53 | 语言（Language） | 学业成就（A. Ach） | 多类型（Multi-type） | K12 与高等教育 | 无偏倚（No） | 1993–2023 | 8,282 | 高质量（High） |
 > | **Deng et al. (2025)** | 62 | .72 | 0.57 | 0.88 | 多学科（Multi-field） | 综合成果（Combined） | 聊天机器人（Chatbots） | K12 与高等教育 | 低偏倚（Low） | 2023–2024 | 未报告（Not） | 高质量（High） |
 >
 > [^a] 标记表示未提供初级研究清单的元分析；$N$ 表示纳入的初级研究数量；Part. 表示参与学生总数；SWD = Students with Disabilities（残障学生样本）。

@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Liberalization
@@ -59,7 +59,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **自由化（Liberalization）**指在现代资本主义与跨国治理中，原本受国家、[[Neocorporatism|法团主义]]工会或行业公约保护的集体社会安排，向“自由、自律、竞争性市场逻辑”系统性开放的长期制度与意识形态重构过程。在比较政治经济学视阈中，它表现为“有组织资本主义”的**去组织化（Disorganization）**——即集体约束的削弱、再分配连带责任的瓦解，以及社会与经济风险向个体家庭和劳动者身上的系统性转嫁（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, pp. 3–5]], 31–33）；在批判政策社会学视阈中，它表现为跨国组织蓄意推进的**意识形态工程（Ideological Project）**——通过将全球化本体化与物化为不可抗拒的外部自然实体，掩盖概念背后的“意义政治”（Politics of Meaning），将公共教育与社会福利强行重塑为服从于跨国资本增值与全球市场竞争的技术工具（Bourdieu, 2003; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, p. 441]]）。
+> **自由化（Liberalization）** 指在现代资本主义与跨国治理中，原本受国家、[[Neocorporatism|法团主义]]工会或行业公约保护的集体社会安排，向“自由、自律、竞争性市场逻辑”系统性开放的长期制度与意识形态重构过程。在比较政治经济学视阈中，它表现为“有组织资本主义”的**去组织化（Disorganization）**——即集体约束的削弱、再分配连带责任的瓦解，以及社会与经济风险向个体家庭和劳动者身上的系统性转嫁（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, pp. 3–5]], 31–33）；在批判政策社会学视阈中，它表现为跨国组织蓄意推进的**意识形态工程（Ideological Project）**——通过将全球化本体化与物化为不可抗拒的外部自然实体，掩盖概念背后的“意义政治”（Politics of Meaning），将公共教育与社会福利强行重塑为服从于跨国资本增值与全球市场竞争的技术工具（Bourdieu, 2003; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, p. 441]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 既刻画西方资本主义体制从“有组织混合经济”迈向“市场化治理”的去组织化变迁，也揭示超国家治理将市场原则普适化的意识形态建构。
@@ -184,7 +184,7 @@ updated: 2026-10-15
 > > 围绕自由化浪潮是否彻底终结了“[[Varieties of Capitalism|资本主义多样性]]”展开争论。
 > >
 > > - **单一[[Convergence Theory in Comparative Education|趋同论]]者** 全球竞争与市场自由化将迫使所有国家削减福利与放弃劳资协调，最终汇聚于英美式自由市场经济（LME）。
-> > - **Wolfgang Streeck & Kathleen Thelen（2005）** 自由化并不意味着单一趋同；不同国家依托既有制度禀赋，在自由化进程中展现出截然不同的路径演进与双元化（Dualism）特征，多样性依然在渐进重塑中延续。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 3–5, 31–33)]]
+> > - **Wolfgang Streeck and Kathleen Thelen（2005）** 自由化并不意味着单一趋同；不同国家依托既有制度禀赋，在自由化进程中展现出截然不同的路径演进与双元化（Dualism）特征，多样性依然在渐进重塑中延续。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 3–5, 31–33)]]
 >
 > > [!axis] 客观技术必然性 vs 蓄意建构的自由化政治工程
 > > 全球化究竟是一套不以人的意志为转移的客观技术实体，还是一项蓄意推进市场暴政的意识形态建构。
@@ -200,5 +200,5 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 历史解构[[OECD|经合组织]]全球化叙事，揭示物化[[Discourse|话语]]对经济自由化意识形态工程与意义政治的掩护机制（p. 441）。
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 提出自由化作为去组织化资本主义与默认达成演进机制的核心理论洞见（pp. 3–5, 31–33）。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 历史解构[[OECD|经合组织]]全球化叙事，揭示物化[[Discourse|话语]]对经济自由化意识形态工程与意义政治的掩护机制（p. 441）。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 提出自由化作为去组织化资本主义与默认达成演进机制的核心理论洞见（pp. 3–5, 31–33）。

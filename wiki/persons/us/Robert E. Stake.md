@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-01
+updated: 2026-10-16
 ---
 
 # Robert E. Stake
@@ -85,7 +85,7 @@ updated: 2026-10-01
 
 > [!work-line] 主要著作
 > - **1975 — *Evaluating the Arts in Education: A Responsive Approach*** 提出回应性评估框架，将评估对象从目标达成度转向利益相关者的关切与经验，确立了诠释性教育评估的早期范本。
-> - **1995 — *The Art of [[Case Study]] Research*** 系统建构案例研究的"艺术性"方法论，提出[[Naturalistic Generalization|自然主义概括]]概念；[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]]将 Stake 与殷（Robert K. Yin）并列为[[Case Study|案例研究]]两大权威来源，并频繁在案例研究章节引用。（p.67）
+> - **1995 — *The Art of [[Case Study]] Research*** 系统建构案例研究的"艺术性"方法论，提出[[Naturalistic Generalization|自然主义概括]]概念；[[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]]将 Stake 与殷（Robert K. Yin）并列为[[Case Study|案例研究]]两大权威来源，并频繁在案例研究章节引用。（p.67）
 > - **2006 — *Multiple Case Study Analysis*** 将案例研究方法论扩展至多案例比较[[Analytic Framework|分析框架]]，强调跨案例的情境差异性与分析层次。
 > - **2010 — *[[Qualitative Research]]: Studying How Things Work*** 提炼以"理解事物如何运作"为核心的质性研究哲学，进一步整合回应性评估、案例研究与整体性研究取向。
 
@@ -117,7 +117,7 @@ updated: 2026-10-01
 > - **教育评估路径** 回应性评估框架影响了第四代评估（Fourth Generation Evaluation）运动，推动评估从专家技术判断转向多元利益相关者参与的协商过程。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 将 Stake 与 Yin 并列为[[Case Study|案例研究]]两大权威，频繁引用其方法论框架阐述质性研究取向与自然主义概括。
+> - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 将 Stake 与 Yin 并列为[[Case Study|案例研究]]两大权威，频繁引用其方法论框架阐述质性研究取向与自然主义概括。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 在比较教育学方法论综述中引用 Stake (1995) 对量化/质性研究取向根本差异的经典表述，作为该学科方法论多元议题的权威参照。
 
 ---

@@ -59,7 +59,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-07-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Item Response Theory
@@ -69,7 +69,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> 项目反应理论（Item Response Theory, IRT；又称潜在特质理论 Latent Trait Theory）是现代心理与教育测量学的核心量化建模方法体系。该方法假设个体的可观测测验反应由不可直接观测的潜在特质（Latent Traits, $\theta$）与测验题目的内在计量属性（难度、区分度、伪猜测率）共同决定的非线性数学概率函数所支配；其核心计量突破在于实现了**题目参数估计的样本无关性（Sample Invariance）**与**受试者能力估计的测验题目无关性（Item Invariance）**，为跨时空测验等值、[[Computerized Adaptive Testing\|计算机自适应测验]]（Computerized Adaptive Testing, CAT）与大规模国家教育监测题库标定提供了根本方法学支撑。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|(Ch24, 24.5 节)]]; [[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–141)]]
+> 项目反应理论（Item Response Theory, IRT；又称潜在特质理论 Latent Trait Theory）是现代心理与教育测量学的核心量化建模方法体系。该方法假设个体的可观测测验反应由不可直接观测的潜在特质（Latent Traits, $\theta$）与测验题目的内在计量属性（难度、区分度、伪猜测率）共同决定的非线性数学概率函数所支配；其核心计量突破在于实现了**题目参数估计的样本无关性（Sample Invariance）** 与**受试者能力估计的测验题目无关性（Item Invariance）**，为跨时空测验等值、[[Computerized Adaptive Testing\|计算机自适应测验]]（Computerized Adaptive Testing, CAT）与大规模国家教育监测题库标定提供了根本方法学支撑。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|(Ch24, 24.5 节)]]; [[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–141)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 个体在标准化测验、量表[[Questionnaire\|问卷]]或认知任务中的离散反应数据（二分作答如对/错，或多分类等级作答如[[Likert Scale\|李克特量表]]评分）。
@@ -106,7 +106,7 @@ updated: 2026-10-15
 
 > [!proc] IRT 标准实施程序
 > 1. **[[Construct\|构念]]界定与题库编制** 明确界定潜在特质内涵，编写覆盖不同认知层级的大规模候选试题池。
-> 2. **预试与基本假设检验** 施测大样本预试数据，运用探索性/[[Confirmatory Factor Analysis\|验证性因子分析]]检验**单维性假设（Unidimensionality）**与**局部独立性假设（Local Independence）**。
+> 2. **预试与基本假设检验** 施测大样本预试数据，运用探索性/[[Confirmatory Factor Analysis\|验证性因子分析]]检验**单维性假设（Unidimensionality）** 与**局部独立性假设（Local Independence）**。
 > 3. **模型选型与参数标定** 根据题目类型与[[Sample Size Determination\|样本量]]选择 1PL（Rasch）、2PL、3PL 或多分式等级反应模型（GRM），估计[[Item Analysis\|题目难度]]（$b_i$）、区分度（$a_i$）与猜测参数（$c_i$）。
 > 4. **项目拟合诊断与题库清洗** 剔除严重偏离特征曲线、存在作弊猜测干扰或具有群体偏倚（DIF）的不良题目，建立高质量标定题库。
 > 5. **量表链接与等值转换** 运用共同题或共同被试设计，将不同试卷或不同施测年份的参数统一转换到国家标准基准量尺上（如将均值标定为 500，标准差标定为 100）。

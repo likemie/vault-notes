@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Cooperative Learning
@@ -182,7 +182,7 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **多维学习成效协同** | 合作学习在学业成就、高阶思维与情感行为上均具中等程度显著促进效应，高阶思维提升最为突出。 | 全学段教学干预设计与多维课程评价体系 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]; Slavin (2014); Johnson & Johnson (2009) |
+> | **多维学习成效协同** | 合作学习在学业成就、高阶思维与情感行为上均具中等程度显著促进效应，高阶思维提升最为突出。 | 全学段教学干预设计与多维课程评价体系 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]; Slavin (2014); Johnson and Johnson (2009) |
 > | **技术与学科调节分化** | CIRC 与[[Group Investigation\|小组调查法]]效应更强；语言与科学学科成效突出，体育学科需专门重构教学设计。 | 学科针对性合作教学策略选型与教师培训 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]; Çapar & Tarım (2015); Kyndt et al. (2013) |
 > | **生态情境效度优势** | 准实验设计更能捕捉真实课堂社会互动的长期增益，人工实验室设计易造成效应低估。 | 循证教学研究的方法学评估与生态效度权衡 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]; Rogers & Révész (2019); Stanczak et al. (2022) |
 > | **专业素养实施保障** | 形式主义分组无法激活互赖机制，教师理论素养与五大要素规范落实是成败关键。 | 教师在职培训课程设计与课堂教学质量监控 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]; Morgan (2019); Legrain et al. (2019) |
@@ -235,7 +235,7 @@ updated: 2026-10-15
 > | Kyndt et al. (2013)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：综合合作学习对混合学科学业成就的干预效应 | $k = 51$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.54$ $[0.47, 0.60]$ | — | 多国混合学科与学段，样本规模大但检出[[Publication Bias\|发表偏倚]] |
 > | Kyndt et al. (2013)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：综合合作学习对混合学科一般态度的干预效应 | $k = 19$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.15$ $[0.04, 0.26]$ | — | 多国混合学科与学段，效应显著但整体偏低 |
 > | Kyndt et al. (2013)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：综合合作学习对土耳其等地区态度的干预效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.18$ $[-0.05, 0.40]$ | — | [[Sample Size Determination\|样本量]]较小，置信区间跨零未达统计显著 |
-> | Liu & Lipowski (2021)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：综合合作学习对体育内在动机的干预效应 | $k = 6$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.05$ $[-1.30, 1.41]$ | — | K-12 体育教育，置信区间极宽且效应微弱不显著 |
+> | Liu and Lipowski (2021)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：综合合作学习对体育内在动机的干预效应 | $k = 6$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.05$ $[-1.30, 1.41]$ | — | K-12 体育教育，置信区间极宽且效应微弱不显著 |
 > | Özkan & Çetinkaya-Uslusoy (2024)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：[[Jigsaw\|拼图法]]（Jigsaw）对护理学业成就的干预效应 | $k = 7$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.58$ $[0.47, 0.70]$ | — | 高等护理教育临床情境，效应稳健显著 |
 > | Özkan & Çetinkaya-Uslusoy (2024)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：拼图法对护理临床[[Critical Thinking\|批判性思维]]的干预效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.70$ $[0.13, 1.26]$ | — | 高等护理教育临床决策情境，显著提升批判反思能力 |
 > | Özkan & Çetinkaya-Uslusoy (2024)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：拼图法对护理专业态度的干预效应 | $k = 6$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 1.18$ $[0.53, 1.84]$ | — | 高等护理教育，角色互换显著增强专业认同感 |

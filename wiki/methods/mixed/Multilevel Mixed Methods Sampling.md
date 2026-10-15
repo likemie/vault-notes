@@ -35,14 +35,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 # Multilevel Mixed Methods Sampling
 
 ## 定义
 
 > [!def] 方法定义
-> 多层次[[Mixed Methods Research\|混合方法]]抽样（Multilevel Mixed Methods Sampling）是[[Mixed Methods Research\|混合方法研究]]中的一种抽样设计：在研究的**不同[[Unit of Analysis\|分析单位]]层次**上分别使用[[Random Sampling\|概率抽样]]、[[Non-probability Sampling\|非概率抽样]]或两者的组合，各层次根据自身的[[Research Question\|研究问题]]和数据可得性独立选择最合适的抽样策略（Teddlie & Tashakkori, 2009, pp. 185–91）。Onwuegbuzie & Leech（2007, p. 240）指出，多层次设计支持跨层次子组比较（如个体学生与教师），但提醒不同层次的子[[Sample Size Determination\|样本量]]通常不相等——如 30 名学生可能只有 1–2 名教师对应。
+> 多层次[[Mixed Methods Research\|混合方法]]抽样（Multilevel Mixed Methods Sampling）是[[Mixed Methods Research\|混合方法研究]]中的一种抽样设计：在研究的**不同[[Unit of Analysis\|分析单位]]层次**上分别使用[[Random Sampling\|概率抽样]]、[[Non-probability Sampling\|非概率抽样]]或两者的组合，各层次根据自身的[[Research Question\|研究问题]]和数据可得性独立选择最合适的抽样策略（Teddlie & Tashakkori, 2009, pp. 185–91）。Onwuegbuzie and Leech（2007, p. 240）指出，多层次设计支持跨层次子组比较（如个体学生与教师），但提醒不同层次的子[[Sample Size Determination\|样本量]]通常不相等——如 30 名学生可能只有 1–2 名教师对应。
 
 > [!method-scope] 方法范围
 > - **研究对象** 嵌套在多层次组织中的研究对象（学生嵌套于班级、班级嵌套于学校、学校嵌套于学区）
@@ -81,4 +81,4 @@ updated: 2026-09-17
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] — 引述 Teddlie & Tashakkori（2009）的多层次[[Mixed Methods Research\|混合方法]]抽样设计及其[[School Effectiveness\|学校效能]]研究实例。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] — 引述 Teddlie and Tashakkori（2009）的多层次[[Mixed Methods Research\|混合方法]]抽样设计及其[[School Effectiveness\|学校效能]]研究实例。

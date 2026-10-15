@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # George Papadopoulos
@@ -125,7 +125,7 @@ updated: 2026-10-15
 > - **政策路径** 主导创立[[Centre for Educational Research and Innovation|CERI]]，推动经合组织在残障儿童教育、多元文化教育、女性受教育权、师资培养及弱势群体补偿等广泛社会公平议题上开展长达二十余年的开拓性项目。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 437–442, 450–452)]] — 深度引用帕帕多普洛斯的历史档案，作为对比新自由主义[[Knowledge-Based Economy|知识经济]]转向与[[Governing by Numbers|数字治理]]崛起的历史基准。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 437–442, 450–452)]] — 深度引用帕帕多普洛斯的历史档案，作为对比新自由主义[[Knowledge-Based Economy|知识经济]]转向与[[Governing by Numbers|数字治理]]崛起的历史基准。
 
 ---
 

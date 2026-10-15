@@ -87,7 +87,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-09
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Grand Theory
@@ -113,7 +113,7 @@ updated: 2026-10-15
 > [!citation-card] [[Keith Morrison|莫里森]]与莱德论宏大理论的思辨本质与拜占庭式建筑辉煌
 > 宏大理论是一种元叙述，它界定了一个研究领域，具有思辨性，旨在澄清概念结构与框架，并在[[Creativity|创造性]]维度上拓展我们对人类行为与组织的思考方式。它运用根本性的本体论和认识论公设来界定探究领域。在这里，经验材料往往仅被用作说明展示的方式，而非作为严格的证明。默顿、科瑟与罗森伯格、多尔以及莱德主张，尽管宏大理论可能具备大型哲学体系的吸引力——展现出相当可观的、拜占庭式的建筑辉煌与逻辑自洽——然而在科学探究中，它们却是贫瘠、无关痛痒的，并且脱离了一个以[[Open-Mindedness|开放性]]、流动性、变革、[[Heterogeneity|异质性]]与碎片化为特征的真实世界。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 10–11)]]
 >
-> *‘Grand theory’ is a metanarrative, defining an area of study, being speculative, clarifying conceptual structures and frameworks, and creatively enlarging the way we consider behaviour and organizations (Layder). It uses fundamental ontological and epistemological postulates which serve to define a [[Champ|field]] of enquiry (Hughes, 1976)... Merton (1949), Coser & Rosenberg (1969), Doll (1993) and Layder (1994) contend that whilst they might possess the attraction of large philosophical systems of considerable – Byzantine – architectonic splendour and logical consistency, nevertheless they are scientifically sterile, irrelevant and out of touch with a world that is characterized by openness, fluidity, change, heterogeneity and fragmentation.*
+> *‘Grand theory’ is a metanarrative, defining an area of study, being speculative, clarifying conceptual structures and frameworks, and creatively enlarging the way we consider behaviour and organizations (Layder). It uses fundamental ontological and epistemological postulates which serve to define a [[Champ|field]] of enquiry (Hughes, 1976)... Merton (1949), Coser and Rosenberg (1969), Doll (1993) and Layder (1994) contend that whilst they might possess the attraction of large philosophical systems of considerable – Byzantine – architectonic splendour and logical consistency, nevertheless they are scientifically sterile, irrelevant and out of touch with a world that is characterized by openness, fluidity, change, heterogeneity and fragmentation.*
 
 > [!citation-card] 福山历史终结论的宏大叙事及其[[Winner's Fallacy|胜者谬误]]
 > 1989 年，政治学者[[Francis Fukuyama|弗朗西斯·福山]]发表《历史的终结？》，断言自由民主制构成了人类政府的终极形式。正如学者[[Allan Bloom|阿兰·布鲁姆]]（Allan Bloom）所剖析，这种观点诱人地暗示了大国兴衰的历史循环只是幻觉，人类历史正单向走向自由民主的终极胜利。然而，这种确定性构成了当代最危险的胜者谬误：自由与民主社会要在历史竞争中立于不败之地，绝不能仅仅依靠道德号召力，它必须拥有[[Hard Power|硬实力]]，而在 21 世纪，硬实力的核心正是软件。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–32)]]
@@ -237,7 +237,7 @@ updated: 2026-10-15
 > [!concept-lens] 千年历史跨期与国家建构精神技术
 > 探讨如何利用宏大历史时间尺度与国家英雄正典克服[[Dunbar's Number|邓巴数]]限制、抵抗消费主义原子化。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] & Lee (1965) & Carlyle (1841)
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] & Lee (1965) & Carlyle (1841)
 > **千年视界与文明生存的宏大叙事支撑** 卡普与扎米斯卡结合[[Lee Kuan Yew|李光耀]] 1965 年酒商公会演说（“以一千年的时间尺度盘算”）与[[Thomas Carlyle|托马斯·卡莱尔]][[Great Man Theory|伟人理论]]论证，超大规模人类社会若缺乏跨越世纪的宏大历史叙事与英雄图腾，个体之间就无法建立起超越邓巴数（约 150 人）的想象链接；将历史叙事矮化为琐碎消费与阶层冲突将彻底瓦解文明的防卫与创新意志；唯有按千年尺度进行宏大谋划的国家才配在严酷地缘竞争中生存。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194, 197–201)]]
 
 ---

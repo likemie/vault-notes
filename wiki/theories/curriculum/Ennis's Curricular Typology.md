@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Ennis's Curricular Typology
@@ -61,7 +61,7 @@ updated: 2026-10-15
 > - **知识位置** 批判性思维运动与课程论前沿。源于 Robert H. Ennis (1989) 的经典奠基论文，并经 [[Argument_Abrami_2015_RER\|Abrami et al. (2008, 2015)]] 大型[[Meta-analysis\|元分析]]在实证层面上全面验证。
 
 > [!claim] 核心主张
-> 批判性思维教学的成效由“思维原则的显性程度”与“学科知识的结合深度”共同决定。将通用的论证与[[Metacognition\|元认知]]原则显性化教授，并与具体学科知识深度融合的**显性混合模式（Mixed Approach）**能够获得最高的综合思维收益与跨情境迁移效能。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 280–281, 293–294)]]
+> 批判性思维教学的成效由“思维原则的显性程度”与“学科知识的结合深度”共同决定。将通用的论证与[[Metacognition\|元认知]]原则显性化教授，并与具体学科知识深度融合的**显性混合模式（Mixed Approach）** 能够获得最高的综合思维收益与跨情境迁移效能。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 280–281, 293–294)]]
 
 > [!citation-card]- 经典理论定义
 > 在探讨批判性思维与[[Domain Specificity\|学科特异性]]关系时，课程可区分为四类模式：通用模式（非学科独立设课）、融入模式（学科内显性教原则）、沉浸模式（学科内隐性渗透）与混合模式（独立显性教学与学科结合）。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 280–281)]]

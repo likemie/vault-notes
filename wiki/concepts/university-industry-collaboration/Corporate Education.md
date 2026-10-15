@@ -52,7 +52,7 @@ updated: 2026-10-16
 > [!quote]
 > "企业教育是公司软权力的关键组成部分，确保员工了解公司利益并据此行动"（Hanlon, 2016, cited in [[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.180]]）
 
-企业教育不能被简单还原为技能获取。借鉴 James Scott（1998）"Seeing Like a State"的分析逻辑，企业教育的深层功能是让员工学会**"像公司一样看世界"（seeing like a company）**——它是公司[[Soft Power|软权力]]的核心组成部分，通过塑造员工的认知框架和行动取向来确保公司利益的内化([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.180]])。
+企业教育不能被简单还原为技能获取。借鉴 James Scott（1998）"Seeing Like a State"的分析逻辑，企业教育的深层功能是让员工学会 **"像公司一样看世界"（seeing like a company）**——它是公司[[Soft Power|软权力]]的核心组成部分，通过塑造员工的认知框架和行动取向来确保公司利益的内化([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.180]])。
 
 ---
 

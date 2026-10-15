@@ -203,7 +203,7 @@ updated: 2026-10-16
 
 > [!critique]- 批评索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 批评工具理性假定对寒门学子文化融合、价值追寻与身份困境的解释无力。
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 批判理性选择制度主义将规则遵从预设为静态均衡，揭示遵从与解释裁量权作为微观博弈变量的内生动力学。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 批判理性选择制度主义将规则遵从预设为静态均衡，揭示遵从与解释裁量权作为微观博弈变量的内生动力学。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 引用 Demerath (1999) 民族志案例，从全球体系与比较文化视角批评西方抽象理性选择理论与狭隘[[Cost-Benefit Analysis|成本效益分析]]的跨情境局限。
 
 ---
@@ -214,4 +214,4 @@ updated: 2026-10-16
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al. (2011)]] — 以 Goldthorpe（2007）的七步逻辑链条展示理性行动理论如何通过严谨的经验[[Falsification|证伪]]与队列分析排除竞争假说。
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 深入检验 [[Remote Associates Test|RAT]] 机制在中国一流高校大学生阶层分流与文化适应中的解释效力及其批判性边界。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合 Demerath (1999) 佩雷村[[Ethnography|民族志研究]]，系统论证微观行动者的文化能动性如何颠覆自上而下输入的现代文凭主义与西方成本效益计算。
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 批判理性选择制度主义将规则遵从预设为静态均衡，揭示遵从与解释裁量权作为微观博弈[[Variable|变量]]的内生动力学。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 批判理性选择制度主义将规则遵从预设为静态均衡，揭示遵从与解释裁量权作为微观博弈[[Variable|变量]]的内生动力学。

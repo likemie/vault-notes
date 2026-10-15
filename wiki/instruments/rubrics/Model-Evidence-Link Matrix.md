@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-09-11
+updated: 2026-10-16
 ---
 
 # Model-Evidence-Link Matrix
@@ -96,7 +96,7 @@ updated: 2026-09-11
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] | MEL 矩阵（HIV 遗传抗性任务） | 美国新泽西州多元公立初中，第二队列学生，用于支架学生书面论证撰写 | — | 学生能够借助 MEL 支架产出包含模型辨别与证据关联说明的完整论辩短文；但缺乏对证据生成[[Reliable Epistemic Processes\|可靠过程]]的理解时，连线质量下降 |
+> | [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] | MEL 矩阵（HIV 遗传抗性任务） | 美国新泽西州多元公立初中，第二队列学生，用于支架学生书面论证撰写 | — | 学生能够借助 MEL 支架产出包含模型辨别与证据关联说明的完整论辩短文；但缺乏对证据生成[[Reliable Epistemic Processes\|可靠过程]]的理解时，连线质量下降 |
 
 ---
 

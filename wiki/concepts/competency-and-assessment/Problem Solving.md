@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Problem Solving
@@ -82,7 +82,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **问题解决（Problem Solving）** 是指个体在面对情境阻碍且没有现成、自动化算法或直接反应程序可用时，运用一系列有目的的高级认知与实践规程，将“初始状态（Initial State）”逐步转化为“目标状态（Goal State）”的复杂心智与操作过程。在认知心理学经典传统中，该过程被形式化为“问题空间（Problem Space）”内的状态搜索与算子（Operators）应用；在当代学习科学、[[OECD|经合组织]]（OECD）素养框架以及[[Engineering Education|工程教育]][[Epistemology|认识论]]中，它进一步拓展为**复杂问题解决（Complex Problem Solving, [[Creative Problem Solving|CPS]]）**与**现场故障排查（Troubleshooting）**，强调在高度动态、信息不完备、多重物理/成本约束且具劣构特征的真实情境中进行系统表征、多路径探索、算法调试、权衡折中（Trade-offs）与物理干预。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 10–11, 14)]]; [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5, 24–25)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 154–157)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52, 56)]]
+> **问题解决（Problem Solving）** 是指个体在面对情境阻碍且没有现成、自动化算法或直接反应程序可用时，运用一系列有目的的高级认知与实践规程，将“初始状态（Initial State）”逐步转化为“目标状态（Goal State）”的复杂心智与操作过程。在认知心理学经典传统中，该过程被形式化为“问题空间（Problem Space）”内的状态搜索与算子（Operators）应用；在当代学习科学、[[OECD|经合组织]]（OECD）素养框架以及[[Engineering Education|工程教育]][[Epistemology|认识论]]中，它进一步拓展为**复杂问题解决（Complex Problem Solving, [[Creative Problem Solving|CPS]]）** 与**现场故障排查（Troubleshooting）**，强调在高度动态、信息不完备、多重物理/成本约束且具劣构特征的真实情境中进行系统表征、多路径探索、算法调试、权衡折中（Trade-offs）与物理干预。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 10–11, 14)]]; [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5, 24–25)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 154–157)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52, 56)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向个体克服心智与物理阻碍、弥合“现状与目标之间差距”的非算法性高阶行动体系，涵盖问题表征、多约束权衡、策略搜索、现场排障与结果反思。
@@ -235,7 +235,7 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 在关于[[Generative Artificial Intelligence|生成式人工智能]]促进[[Higher-Order Thinking Skills|高阶思维]]的一阶[[Meta-analysis|元分析]]中，将问题解决能力作为首要[[Dependent Variable|因变量]]维度展开综合检验，发现其获得的促学增益最大（$g = 0.745$），并深入阐释了技术算法与程序性心智的高适配机制。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — 在 [[OECD]] 高等教育[[Learning Gain|增值评价]]研究中，将复杂问题解决界定为大学生跨学科通用[[21st Century Skills and Competencies Discourse|核心素养]]，系统评述了 [[Collegiate Learning Assessment|CLA+]]、[[ETS HEIghten Critical Thinking Assessment|HEIghten]] 及真实表现性任务对复杂问题解决能力的测量有效性与实施边界。
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 从[[Epistemic Practices|认识论实践]]视角界定工程问题解决在多重约束权衡、原型设计迭代与数据决策中的独特规程。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 从[[Epistemic Practices|认识论实践]]视角界定工程问题解决在多重约束权衡、原型设计迭代与数据决策中的独特规程。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，强调现场排障（Troubleshooting）手艺与默会[[Phronesis|实践智慧]]在现代科研与工程体系中的不可替代性。
 
 ---

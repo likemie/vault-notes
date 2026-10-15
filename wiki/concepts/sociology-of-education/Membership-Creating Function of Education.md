@@ -30,13 +30,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 定义
 
 > [!info] 定义
-> 教育的成员身份创造功能（Membership-Creating Function of Education）是 Ramirez & Boli (1987) 在大众教育政治建构分析中揭示的核心机制：现代国家之所以建立公立学校系统，根本原因在于教育是**创造"我们是谁"的共同意识**的最有效工具——它建立忠诚与归属的纽带，同时也划定"谁是外人"的边界。
+> 教育的成员身份创造功能（Membership-Creating Function of Education）是 Ramirez and Boli (1987) 在大众教育政治建构分析中揭示的核心机制：现代国家之所以建立公立学校系统，根本原因在于教育是**创造"我们是谁"的共同意识**的最有效工具——它建立忠诚与归属的纽带，同时也划定"谁是外人"的边界。
 >
 > [[Argument_Amos_2022_Springer\|Amos (2022, p.55)]] 将这个机制概括为一个双向运作：教育既"创造成员身份"（membership is created），也"划定边界"（boundaries are drawn）。公立教育的"普遍性"——宣称对所有儿童开放、不分性别、宗教和社会阶级——实际上只延伸到国界之内。
 >
@@ -53,7 +53,7 @@ updated: 2026-10-15
 ## 核心要素
 
 > [!abstract] 核心要素
-> [[Argument_Amos_2022_Springer\|Amos (2022, pp.54–55)]] 基于 Ramirez & Boli (1987) 的分析，揭示了 membership-creating 的四个核心特征：
+> [[Argument_Amos_2022_Springer\|Amos (2022, pp.54–55)]] 基于 Ramirez and Boli (1987) 的分析，揭示了 membership-creating 的四个核心特征：
 >
 > - **忠诚纽带的建立** 教育通过共同的语言、历史叙事和文化符号，在个体与国家之间建立情感纽带。"国家与公民被一种特定的权利与义务纽带捆绑在一起，也被一种定义了高度制度化的价值观、规范与信仰体系的想象或象征领域联系在一起"([[Argument_Amos_2022_Springer\|Amos, 2022, p.55]])
 > - **边界的划定** membership 的另一面是 exclusion。"国家只对其（未来的）公民具有包容性，对外来者不包容。外国人的身份——由外国护照定义——只提供对资源的有限获取，包括实际的和象征性的"
@@ -66,14 +66,14 @@ updated: 2026-10-15
 ## 理论基础
 
 > [!info] 理论基础
-> - [[World Society Theory]] — Ramirez & Boli (1987) 是[[Stanford School|斯坦福学派]]（Meyer 等）的核心文献。Membership-creating 是这一理论的历史基础：全球学校模式的扩散之所以可能，正是因为现代民族国家普遍用教育来创造成员身份
+> - [[World Society Theory]] — Ramirez and Boli (1987) 是[[Stanford School|斯坦福学派]]（Meyer 等）的核心文献。Membership-creating 是这一理论的历史基础：全球学校模式的扩散之所以可能，正是因为现代民族国家普遍用教育来创造成员身份
 > - [[Nation Building through Education]] — membership-creating 是国族建构的基础性社会机制：国家先用教育划定"谁是公民"的边界（membership-creating），再在边界内部——特别是边疆地区——推行统一的身份认同（nation building）
 >
 
 ## 实证发现
 
 > [!success] 实证发现
-> - 历史案例——18 世纪欧洲民族国家：Ramirez & Boli (1987) 重构了新兴民族国家如何基于地缘政治动态（连同经济与宗教系统变革）建构大众教育。"在他们的视角中，民族国家是欧洲特定地缘政治动态的结果，加上经济与宗教系统的变革"([[Argument_Amos_2022_Springer\|Amos, 2022, p.55]])
+> - 历史案例——18 世纪欧洲民族国家：Ramirez and Boli (1987) 重构了新兴民族国家如何基于地缘政治动态（连同经济与宗教系统变革）建构大众教育。"在他们的视角中，民族国家是欧洲特定地缘政治动态的结果，加上经济与宗教系统的变革"([[Argument_Amos_2022_Springer\|Amos, 2022, p.55]])
 >
 
 ## 争议与批评

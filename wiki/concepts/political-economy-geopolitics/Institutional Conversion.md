@@ -47,7 +47,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-12
+updated: 2026-10-16
 ---
 
 # Institutional Conversion
@@ -141,7 +141,7 @@ updated: 2026-10-12
 > [!concept-lens] 制度转换在比较政治经济学中的市场重构维度
 > 探讨劳工保护与社会规制实体在经济全球化冲击下，如何通过功能重定向演变为协助企业提升[[Competitiveness|竞争力]]的平台。
 
-> [!claim] [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]]
+> [!claim] [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]]
 > **防御性机构向竞争力伙伴的重新部署** 制度转换不仅发生在司法审判中，更是[[Varieties of Capitalism|生产体制]]适应外部压力的关键机制。在市场竞争压力加剧时，原本旨在限制资本特权、捍卫工人法定权益的阶级规制实体（如德国企业理事会，Betriebsräte），在未修改成文法的前提下被劳资双方重新部署，转变为推动工厂内部特许让步（Concession bargaining）、商定弹性工时与共谋削减成本的微观竞争力联盟平台。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 26–28)]]
 
 ---
@@ -194,6 +194,6 @@ updated: 2026-10-12
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 首次系统界定转换机制，阐明行动者如何利用[[Rule Ambiguity|规则模糊性]]与情境变迁将既有制度转用于全新目标。（pp. 26–28）
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，界定制度转换在弱否决与高裁量权语境下的生成机制与[[Opportunists|机会主义者]]策略逻辑。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 首次系统界定转换机制，阐明行动者如何利用[[Rule Ambiguity|规则模糊性]]与情境变迁将既有制度转用于全新目标。（pp. 26–28）
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，界定制度转换在弱否决与高裁量权语境下的生成机制与[[Opportunists|机会主义者]]策略逻辑。
 

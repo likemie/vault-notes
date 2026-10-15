@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Evidence-Informed Decision-Making
@@ -60,7 +60,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> 证据知情决策（Evidence-Informed Decision-Making, EIDM）指决策者在规划、实施或调整公共政策、教育项目与专业服务前，系统咨询包括最佳可用研究证据在内的多元信息来源的专业审议过程（Langer et al., 2016; [[Argument_Torres_2022_KMModels\|Torres, 2022, pp. 46–47]]）。与传统将证据利用视为单向信息传递或单一技术操作的视角不同，EIDM 框架的核心理论突破在于将证据利用确立为旨在**引发决策者行为改变（changing behaviour）**的复杂社会心理与制度干预过程。
+> 证据知情决策（Evidence-Informed Decision-Making, EIDM）指决策者在规划、实施或调整公共政策、教育项目与专业服务前，系统咨询包括最佳可用研究证据在内的多元信息来源的专业审议过程（Langer et al., 2016; [[Argument_Torres_2022_KMModels\|Torres, 2022, pp. 46–47]]）。与传统将证据利用视为单向信息传递或单一技术操作的视角不同，EIDM 框架的核心理论突破在于将证据利用确立为旨在**引发决策者行为改变（changing behaviour）** 的复杂社会心理与制度干预过程。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向决策者获取、评估并整合学术研究证据以调整政策行动的完整行为因果链条。
@@ -87,7 +87,7 @@ updated: 2026-10-15
 > | **核心适用主体** | 教育行政官员、政策制定者、项目规划者 | 学校管理者、教研组长、一线教师 | 课堂任课教师、[[Professional Learning Community\|专业学习共同体]] |
 > | **主要证据来源** | 外部学术实证文献、[[Systematic Review\|系统综述]]与循证评估报告 | 内部管理数据、标准化测试成绩、课堂形成性记录 | 外部发表的教学法实证研究、[[Meta-analysis\|元分析]]与教师实践证据 |
 > | **核心解释目标** | 解释政策规划与干预背后的**决策者行为改变**因果链 | 解释校本问题诊断与基于指标的精准干预流程 | 解释外部研究在课堂日常教学中的审议转化与三种声音[[Dialogue in Education\|对话]] |
-> | **关键理论代表** | Langer et al. (2016); [[Argument_Torres_2022_KMModels\|Torres (2022)]] | Schildkamp et al. (2017) | Cain (2015); [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] |
+> | **关键理论代表** | Langer et al. (2016); [[Argument_Torres_2022_KMModels\|Torres (2022)]] | Schildkamp et al. (2017) | Cain (2015); [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] |
 
 ---
 
@@ -197,4 +197,4 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Torres_2022_KMModels\|Torres (2022)]] — 系统引入 Langer 等人的 EIDM 行为改变框架，横向阐明其对突破[[Knowledge Mobilisation\|知识动员]]供给侧偏误的理论突破。
-> - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 探讨[[Evidence-Informed Practice\|证据知情实践]]在教育系统中的多源拼图架构与中介网络支撑。
+> - [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] — 探讨[[Evidence-Informed Practice\|证据知情实践]]在教育系统中的多源拼图架构与中介网络支撑。

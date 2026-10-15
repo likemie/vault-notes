@@ -81,7 +81,7 @@ updated: 2026-10-16
 ## 定义与核心内涵
 
 > [!def] 核心定义
-> **创业型大学（Entrepreneurial University）**是指大学从传统与社会相隔离的象牙塔（Ivory Tower）模式转向主动介入区域与国家经济社会发展的学术组织变革[[Paradigm|范式]]（Etzkowitz et al., 2000）。其核心特征表现为大学通过适应性文化重塑、设立专业化中介组织载体（如[[Technology Transfer Office|技术转移办公室]]、创新孵化园区），以及建立兼容非传统产业资助与成果转化的激励机制，主动寻求与产业界、政府及公民社会的深度协同与价值共创。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 52)]]
+> **创业型大学（Entrepreneurial University）** 是指大学从传统与社会相隔离的象牙塔（Ivory Tower）模式转向主动介入区域与国家经济社会发展的学术组织变革[[Paradigm|范式]]（Etzkowitz et al., 2000）。其核心特征表现为大学通过适应性文化重塑、设立专业化中介组织载体（如[[Technology Transfer Office|技术转移办公室]]、创新孵化园区），以及建立兼容非传统产业资助与成果转化的激励机制，主动寻求与产业界、政府及公民社会的深度协同与价值共创。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 52)]]
 
 > [!concept-lens] 概念透镜
 > - **微观组织视阈** 表征大学内部如何通过设立概念验证中心、聘任[[Entrepreneur in Residence|驻校企业家]]与改革职称评审标准，调和[[Academic Freedom|学术自由]]与商业应用之间的潜在冲突。
@@ -148,7 +148,7 @@ updated: 2026-10-16
 > [!concept-lens] 组织社会学与制度适应视阈
 > 探讨大学如何在维持传统基础研究学术声誉的同时，开辟合法获取产业资源并促进技术外溢的制度特区。
 
-> [!claim] [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]]
+> [!claim] [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso and Hall (2025b)]]
 > **文化调适与双轨组织架构对学术张力的化解** 传统大学的院系结构天然倾向于学科内卷与纯理论论文锦标赛。创业型大学通过在传统学院之外建立跨学科研究中心与专业化[[Technology Transfer|技术转移]]架构，为转化性研发开辟了制度特区，使得学者能够在不放弃基础研究学术声誉的同时，合法获取产业研发资源并实现技术外溢。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 52)]]
 
 ---
@@ -158,7 +158,7 @@ updated: 2026-10-16
 > [!concept-lens] 创新孵化与早期[[Technology Readiness Level|技术就绪度]]跃迁视阈
 > 剖析学术实验室原型如何通过[[Non-dilutive Funding|非稀释性资金]]与实战商业辅导，克服缺乏工艺放大与市场验证的夭折风险。
 
-> [!claim] [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson (2025)]]
+> [!claim] [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison and Wilson (2025)]]
 > **非稀释性概念验证基金与实战导师的赋能功能** 学术实验室产出的原型普遍缺乏工艺放大验证与市场需求论证，因而难以直接吸引私人风险资本。创业型大学通过注入非稀释性概念验证基金并引入具有实战经验的[[Entrepreneur in Residence|驻校企业家]]，在[[Technology Readiness Level|技术就绪度]]（Technology Readiness Level, TRL）3 至 5 关键阶段为学者提供商业模式打磨与市场真实测试，显著降低了初创企业的夭折率。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, pp. 147–149)]]
 
 ---
@@ -198,8 +198,8 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **文化调适与组织解困命题** | 通过特区架构化解传统象牙塔学术追求与产业参与之间的制度冲突 | 大学[[Technology Transfer Office\|技术转移办公室]]设立、产学研发中心孵化 | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall (2025b)]] |
-> | **早期验证跨越鸿沟命题** | 非稀释性 PoC 资金与驻校[[Mentorship\|导师制]]赋能技术在[[Valley of Death\|死亡之谷]]实现商业化跃迁 | [[University Spin-Out\|大学衍生企业]]孵化、早期原型商业模式验证 | [[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison & Wilson (2025)]] |
+> | **文化调适与组织解困命题** | 通过特区架构化解传统象牙塔学术追求与产业参与之间的制度冲突 | 大学[[Technology Transfer Office\|技术转移办公室]]设立、产学研发中心孵化 | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso and Hall (2025b)]] |
+> | **早期验证跨越鸿沟命题** | 非稀释性 PoC 资金与驻校[[Mentorship\|导师制]]赋能技术在[[Valley of Death\|死亡之谷]]实现商业化跃迁 | [[University Spin-Out\|大学衍生企业]]孵化、早期原型商业模式验证 | [[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison and Wilson (2025)]] |
 > | **学术资本主义批判命题** | 准市场竞争与排名崇拜诱发符号声望争夺，遮蔽长远公共价值 | 大学全球排名审计、绩效考核量规批判 | [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017)]] |
 > | **使命导向活体实验室命题** | 超越专利创收狭隘诉求，协同多方主体共同开展应对社会挑战系统实验 | 联合国可持续发展目标（SDGs）、欧盟地平线使命攻关 | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
 > | **公共网络拒斥极端市场命题** | 否决大学自主高收费与资本举债的极端企业化方案，坚守公共品底线 | 欧洲高教去管制化改革、高教财政体制与国家间接调控 | [[Argument_Kickert_1995_Governance\|Kickert (1995)]] |
@@ -247,8 +247,8 @@ updated: 2026-10-16
 >
 > | 研究 | 样本与情境 | 研究设计 | 核心指标或[[Variable\|变量]] | 关键实证发现与制度证据 | 解释边界 |
 > |---|---|---|---|---|---|
-> | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall (2025b)]] | 全美高水平[[Research Universities\|研究型大学]]创业组织转型样本（2020–2025） | 多案例比较与组织战略文本分析 | 文化适应程度、[[Technology Transfer Office\|TTO]] 激励兼容机制、跨学科中心配比 | 证实设立概念验证中心与引入[[Entrepreneur in Residence\|驻校企业家]]的高校，其教师参与产业研发意愿与衍生企业成立数提升超 40% | 侧重于美国顶尖研究型大学内部组织微观机制 |
-> | [[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison & Wilson (2025)]] | 全美 12 所顶尖大学衍生初创企业追踪样本（[[Technology Readiness Level\|TRL]] 3–5 阶段） | 纵向[[Process Tracing\|过程追踪]]与企业生存分析 | PoC 基金规模、导师辅导频次、[[Valley of Death\|死亡之谷]]存活率 | 获得 1–10 万美元非稀释性 PoC 资助并配对 [[Education Innovation and Research\|EIR]] 导师的衍生企业，其后续轮次外部风投融通率提升近 3 倍 | 依赖自陈辅导记录与高选择性早期样本 |
+> | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso and Hall (2025b)]] | 全美高水平[[Research Universities\|研究型大学]]创业组织转型样本（2020–2025） | 多案例比较与组织战略文本分析 | 文化适应程度、[[Technology Transfer Office\|TTO]] 激励兼容机制、跨学科中心配比 | 证实设立概念验证中心与引入[[Entrepreneur in Residence\|驻校企业家]]的高校，其教师参与产业研发意愿与衍生企业成立数提升超 40% | 侧重于美国顶尖研究型大学内部组织微观机制 |
+> | [[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison and Wilson (2025)]] | 全美 12 所顶尖大学衍生初创企业追踪样本（[[Technology Readiness Level\|TRL]] 3–5 阶段） | 纵向[[Process Tracing\|过程追踪]]与企业生存分析 | PoC 基金规模、导师辅导频次、[[Valley of Death\|死亡之谷]]存活率 | 获得 1–10 万美元非稀释性 PoC 资助并配对 [[Education Innovation and Research\|EIR]] 导师的衍生企业，其后续轮次外部风投融通率提升近 3 倍 | 依赖自陈辅导记录与高选择性早期样本 |
 > | [[Argument_Kickert_1995_Governance\|Kickert (1995)]] | 荷兰高等教育体制改革（1980 年代 13 所大学与政策档案） | 历史制度分析与政策过程追踪 | “企业家型大学”自由市场方案采纳度；办学拨款形式；学费与招生调控权 | 荷兰政府与议会正式否决了知名人士起草的大学自主收学费与资本市场借债的企业家型大学提案，确立总额拨款与间接操纵体制 | 证明欧洲福利国家制度传统对自由市场企业化高教模式的结构性约束 |
 
 ---
@@ -275,8 +275,8 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] — 系统论述创业型大学文化调适、组织重构与激励机制的代表性实证文献。
-> - [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson (2025)]] — 详尽剖析[[University Spin-Out|大学衍生企业]]跨越早期转化鸿沟过程中概念验证基金与[[Entrepreneur in Residence|驻校企业家]]（[[Education Innovation and Research|EIR]]）[[Mentorship|导师制]]的实操文献。
+> - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso and Hall (2025b)]] — 系统论述创业型大学文化调适、组织重构与激励机制的代表性实证文献。
+> - [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison and Wilson (2025)]] — 详尽剖析[[University Spin-Out|大学衍生企业]]跨越早期转化鸿沟过程中概念验证基金与[[Entrepreneur in Residence|驻校企业家]]（[[Education Innovation and Research|EIR]]）[[Mentorship|导师制]]的实操文献。
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 记录 20 世纪 80 年代荷兰高教改革在面对财政紧缩时明确否决极端自由市场“企业家型大学”方案，转而探索维系公共任务与“间接[[Steering at a Distance|远距离操纵]]”体制的经典比较行政研究。
 > - [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]] — 深入剖析创业型大学与[[Academic Capitalism|学术资本主义]]在符号权力与排名指标盲区上的经典文献。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 探讨高校在使命导向政策与跨界共创网络中向应对全球社会挑战之活体实验室演进的理论文献。

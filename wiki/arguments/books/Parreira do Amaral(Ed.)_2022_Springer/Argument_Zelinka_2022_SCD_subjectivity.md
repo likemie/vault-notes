@@ -38,7 +38,7 @@ sources:
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 status: draft
 created: 2026-05-20
-updated: '2026-06-08'
+updated: 2026-10-16
 subtype: book-chapter
 publication_type: book
 title: "Argument_Zelinka_2022_SCD_subjectivity"
@@ -72,7 +72,7 @@ citation_aliases:
 
 - **[[Discourse Analysis|话语分析]]** — [[Discourse|话语]]生产知识并组织特定语境中的意义制造过程。在全球教育领域，话语建构了思想和行动的**可能性结构(structures of opportunity, Parreira do Amaral & Dale, 2015)**，即"[[Discursive Opportunity Structures|话语机会结构]]"（discursive opportunity structures），个体在其中发展事业、推进人生计划、依照自己认为有意义的目标来导航自我(p.253)。
 
-- **主体 vs 主体性** — 主体（subject）指按照制度承认和社会接受的角色、职责和责任行动的个体（教师、研究者、学生、政策制定者等）；**主体性（subjectivity）**则描述他们的"被期望和被欲求的"思维和行动方式。主体化模式（mode of subjectivation）是一种权力技术，它塑造个体的行为并使其服从于特定目的(Foucault, 1988, p.18)。主体性不能被视为固定和清晰的类别，而应被理解为来自不同来源的话语实践的**时间性和偶然性**交汇(pp.253-254)。
+- **主体 vs 主体性** — 主体（subject）指按照制度承认和社会接受的角色、职责和责任行动的个体（教师、研究者、学生、政策制定者等）；**主体性（subjectivity）** 则描述他们的"被期望和被欲求的"思维和行动方式。主体化模式（mode of subjectivation）是一种权力技术，它塑造个体的行为并使其服从于特定目的(Foucault, 1988, p.18)。主体性不能被视为固定和清晰的类别，而应被理解为来自不同来源的话语实践的**时间性和偶然性**交汇(pp.253-254)。
 
 ## 研究方法
 
@@ -91,7 +91,7 @@ citation_aliases:
 
 论证起点是一个已被广泛认可的经验观察：高等教育已经持续经历了新自由主义化和产业化，大学之间相互竞争(Hazelkorn, 2017)、发展新型商业模式(Kehm & Lanzendorf, 2005)、不断追求卓越和全球领导地位(Altbach & Salmi, 2011)。教育被转型为以经济增长和提高生产力为主要目标(Spring, 2015)。
 
-这一全球转型同时被理解为[[Theory of Knowledge|知识论]]转变和地缘政治博弈，由此催生了"（新）[[Geopolitics of Knowledge|知识地缘政治]]"（(new) [[Geopolitics of Knowledge]]）概念(Mignolo, 2002)。关键的特征是它嵌入新自由主义之中——新自由主义作为一种**理性（rationality）**，重新想象、解释和[[Assemblage|组装]]人与物之间的关系以实现**[[Governing at a Distance|远距治理]](governing at a distance, Ward & England, 2007; Bell & Green, 2016, p.240)**。新自由主义[[Governmentality|治理术]]**远距组织**全球教育转型(Ball, 2010, p.135)，试图通过创造可欲的自我引导形式来操控个体。
+这一全球转型同时被理解为[[Theory of Knowledge|知识论]]转变和地缘政治博弈，由此催生了"（新）[[Geopolitics of Knowledge|知识地缘政治]]"（(new) [[Geopolitics of Knowledge]]）概念(Mignolo, 2002)。关键的特征是它嵌入新自由主义之中——新自由主义作为一种**理性（rationality）**，重新想象、解释和[[Assemblage|组装]]人与物之间的关系以实现 **[[Governing at a Distance|远距治理]](governing at a distance, Ward & England, 2007; Bell & Green, 2016, p.240)**。新自由主义[[Governmentality|治理术]]**远距组织**全球教育转型(Ball, 2010, p.135)，试图通过创造可欲的自我引导形式来操控个体。
 
 注意这里的论证前提：因为新自由主义治理术运作于"远处"，所以它不能通过直接命令来塑造行为，而是必须**生产特定的主体性**——即个体将主动采纳的思维和行动模式。这就将分析焦点引向了主体性生产。
 

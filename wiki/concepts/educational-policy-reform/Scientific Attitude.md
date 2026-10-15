@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Scientific Attitude
@@ -138,7 +138,7 @@ updated: 2026-10-15
 > [!concept-lens] [[Paradigm\|范式]]转向与本土政治语境
 > 比较教育研究揭示，1923 年后军阀混战危局与激进课改受挫，促使教育阵营从《新教育》的民主理想转向《新教育评论》的科学态度。
 
-> [!claim] [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024, pp. 619–621)]]
+> [!claim] [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024, pp. 619–621)]]
 > **从《新教育》民主范式向《新教育评论》科学态度范式转型** 详细阐述 1925 年[[Tao Xingzhi\|陶行知]]主持的《新教育评论》创刊号确立科学态度为新教育核心原则。改革者深刻检讨了此前对国际潮流的盲目崇拜，教育目标从追赶世界转向适应国情与国家建设。
 >
 > 赵乃传（1925）将科学态度总结为基于客观事实、采取实验渐进精神与开展精细研究三大要素，以调研证据为诊断基础，以试错渐进为实施手段，以深入测量为监测反馈，奠定了民国科学教育学的方法论闭环。
@@ -180,7 +180,7 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境与[[Praxis\|实践]]机制 | 代表文献 / 来源 |
 > |---|---|---|---|
-> | **范式转向与国情适应** | 揭示民国[[New Education Movement\|新教育运动]]从激进民主向科学态度的转型 | 比较教育史、教育范式演进 | [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]] |
+> | **范式转向与国情适应** | 揭示民国[[New Education Movement\|新教育运动]]从激进民主向科学态度的转型 | 比较教育史、教育范式演进 | [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] |
 > | **[[Epistemology\|认识论]]与不确定性接纳** | 强调掌握多源证据批判与科学暂定性认知的核心地位 | 科学课程改革、[[Citizen Science\|公民科学]]素养 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026, p. 30)]] |
 > | **公众民主审议与双向参与** | 诊断公众信息渴求与科技决策边缘化的深层矛盾 | 科技政策、[[Public Engagement with Science\|公众科学参与]]（PES） | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026, p. 47)]] |
 > | **解决方案求知与赋能行动** | 克服恐慌诱导的新闻回避，转向建设性循证出路 | 媒介素养教育、科学新闻传播、公众心理赋能 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026, p. 57)]] |
@@ -211,7 +211,7 @@ updated: 2026-10-15
 >
 > > [!axis] 渐进改良与政治妥协的张力
 > > 在恶劣政治社会条件下，强调科学态度与实验渐进是否会导致改革者过度妥协而放弃根本性变革？
-> > - **[[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]]** 评估了民国改革者在保存教育专业力量与放弃激进政治变革之间的历史两难。
+> > - **[[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]]** 评估了民国改革者在保存教育专业力量与放弃激进政治变革之间的历史两难。
 >
 > > [!axis] 单向[[Deficit Model of Science Communication\|赤字模型]] vs 双向民主参与
 > > 普及科学态度是自上而下消灭公众的科学无知，还是建立科学家与公众的平等对话？
@@ -239,6 +239,6 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]] — 系统考证 1920 年代民国[[New Education Movement\|新教育运动]][[Paradigm\|范式]]转向与赵乃传科学态度三要素。
+> - [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] — 系统考证 1920 年代民国[[New Education Movement\|新教育运动]][[Paradigm\|范式]]转向与赵乃传科学态度三要素。
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 追踪科学态度与[[Pragmatism in China\|实用主义在中国]]现代政治[[Discourse|话语]]中的转译演变。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 整合 20 年科研人员公众参与态度[[Longitudinal Study\|纵向调查]]与 [[Public Attitudes to Science\|PAS 2025]] 全国民意数据，论证以批判性审视证据、接纳不确定性与抵御恐慌新闻为核心的建设性科学态度，倡导负责任传播（[[Responsible Conduct of Research\|RCR]]）的学术伦理自律。

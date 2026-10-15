@@ -33,12 +33,12 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-11
+updated: 2026-10-16
 ---
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Carolyn Shields，加拿大教育研究者，以提出**[[Transformative Leadership\|变革型领导力]]（Transformative Leadership）**框架而著称。该框架被 Møller（2017）采纳为超越"什么有效"议程、研究教育领导力的关键替代视角。
+> - **身份位置** Carolyn Shields，加拿大教育研究者，以提出 **[[Transformative Leadership\|变革型领导力]]（Transformative Leadership）** 框架而著称。该框架被 Møller（2017）采纳为超越"什么有效"议程、研究教育领导力的关键替代视角。
 
 ## 核心思想
 

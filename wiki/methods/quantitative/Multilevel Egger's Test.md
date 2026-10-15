@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Multilevel Egger's Test
@@ -57,7 +57,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> [[Multilevel Egger's Test\|多水平艾格检验]]（Multilevel [[Egger Regression Test\|Egger's Test]]，亦称多水平艾格回归 Multilevel Egger's Regression）是一种在包含聚类依赖、多重结果测量或多层嵌套结构（如[[Meta-meta-analysis\|二阶元分析]]）的[[Meta-analysis\|元分析]]中检验**[[Small Study Effects\|小研究效应]]（Small-Study Effects）**与[[Publication Bias\|发表偏倚]]（Publication Bias）的定量诊断与校正方法（Rodgers & Pustejovsky, 2021; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, p. 6]]）。该方法将抽样[[Standard Error\|标准误]]作为调节[[Variable\|变量]]纳入三水平[[Fixed-Effect and Random-Effects Models\|随机效应模型]]，通过斜率检验偏倚是否存在，并利用回归截距估计理论无限大样本下的无偏[[Effect Size\|效应量]]。
+> [[Multilevel Egger's Test\|多水平艾格检验]]（Multilevel [[Egger Regression Test\|Egger's Test]]，亦称多水平艾格回归 Multilevel Egger's Regression）是一种在包含聚类依赖、多重结果测量或多层嵌套结构（如[[Meta-meta-analysis\|二阶元分析]]）的[[Meta-analysis\|元分析]]中检验 **[[Small Study Effects\|小研究效应]]（Small-Study Effects）** 与[[Publication Bias\|发表偏倚]]（Publication Bias）的定量诊断与校正方法（Rodgers & Pustejovsky, 2021; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, p. 6]]）。该方法将抽样[[Standard Error\|标准误]]作为调节[[Variable\|变量]]纳入三水平[[Fixed-Effect and Random-Effects Models\|随机效应模型]]，通过斜率检验偏倚是否存在，并利用回归截距估计理论无限大样本下的无偏[[Effect Size\|效应量]]。
 
 > [!method-scope] 方法范围
 > - **研究对象** 存在多重效应量嵌套依赖的一阶元分析或二阶元分析证据库。

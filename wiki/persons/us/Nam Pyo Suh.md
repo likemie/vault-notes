@@ -37,7 +37,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Nam Pyo Suh
@@ -107,7 +107,7 @@ updated: 2026-10-07
 > - **跨国高教治理扩散** 执掌 KAIST 期间将美国产学协同与绩效问责机制移植至东亚高教生态，推动了亚洲顶尖理工大学的国际化重构。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Bozeman_2004_JTT|Bozeman & Boardman (2004)]] — 记录徐南杓作为学术界核心人物加盟 NSF、主掌工程学学部并推动 ERC 评审实施的政策史料，揭示其打破 19 世纪工程学科旧思维的制度贡献。
+> - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 记录徐南杓作为学术界核心人物加盟 NSF、主掌工程学学部并推动 ERC 评审实施的政策史料，揭示其打破 19 世纪工程学科旧思维的制度贡献。
 
 ---
 

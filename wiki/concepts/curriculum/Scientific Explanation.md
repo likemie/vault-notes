@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Scientific Explanation
@@ -87,7 +87,7 @@ updated: 2026-10-15
 > | **核心问题指向** | 为什么发生？因果机制是什么？ | 是什么？观察到了什么特征？ | 为什么该主张比对立观点更可信？ | 在特定条件下未来将发生什么？ |
 > | **核心构成要素** | 因果叙事、概念框架、机制表征 | 观察事实、形态特征、测量数据 | 主张（Claim）、证据（Evidence）、论据辩护（Warrant） | 假设条件、模型外推、预期[[Variable\|变量]]值 |
 > | **理论深度** | 揭示不可见的中介因果链与深层原理 | 停留在可观察的宏观或微观表象 | 聚焦于知识主张的合理性辩护与反驳 | 依托既有规律对未知状态的前瞻判断 |
-> | **代表性规范** | de Andrade et al. (2019); [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] | NGSS Lead States (2013) | Osborne & Pimentel (2023) | [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] |
+> | **代表性规范** | de Andrade et al. (2019); [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] | NGSS Lead States (2013) | Osborne and Pimentel (2023) | [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] |
 
 ---
 
@@ -151,7 +151,7 @@ updated: 2026-10-15
 > [!concept-lens] [[Man-Computer Symbiosis|人机共生]]学习与算法生成解释评估维度
 > 聚焦生成式 AI 辅助解释生成的场景，阐明学生如何运用学科解释标准破除大语言模型的顺滑表象并实施针对性修正。
 
-> [!claim] [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez (2026)]]
+> [!claim] [[Argument_Han_Gutierez_2026_IJSE|Han and Gutierez (2026)]]
 > **学科解释标准驱动中学生识破 AI 生成解释的伪完整性与多模态表征缺陷** [[Generative Artificial Intelligence|生成式人工智能]]（如 Canva 与 ChatGPT）在生成科学解释时极易产出语言通顺、故事生动但省略深层机制的内容（如童话故事中遗漏茎部水分运输过程、或将真菌营养方式与生物分类学界定割裂）。具备显性解释评价标准的中学生能够敏锐察觉这些缺陷：
 > - **因果叙事维度的查漏** 学生主动指出 AI 文本讲了故事却没有解释水分如何经由根茎到达叶片以支持光合作用；
 > - **概念框架维度的拓展** 学生识别出 AI 仅列举形态特征而遗漏真菌属于独立生物界的上位分类；
@@ -175,7 +175,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **内在机制命题** | 科学解释依赖因果链条推导与学科概念框架统摄，反对碎片化事实堆砌 | 科学探究教学、基于模型的探究、科学论证课堂 | [[Argument_Sandoval_2005_SE\|Sandoval (2005)]]; de Andrade et al. (2019) |
-> | **人机协同重构命题** | 显性解释标准作为认知武器，赋能学生识别并纠正 AI 生成内容中的机制遗漏与表征不足 | 生成式 AI 科学学习、人机协同多模态解释建构 | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] |
+> | **人机协同重构命题** | 显性解释标准作为认知武器，赋能学生识别并纠正 AI 生成内容中的机制遗漏与表征不足 | 生成式 AI 科学学习、人机协同多模态解释建构 | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] |
 > | **历时演进与建构命题** | 反思性结构化与意向领域动态重构驱动科学解释从事实罗列向跨系统因果模型深化 | 长周期协作知识建构、复杂科学系统探究 | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] |
 
 ---
@@ -185,9 +185,9 @@ updated: 2026-10-15
 > [!dev-timeline] 概念演变
 > - **1965 — 哲学演绎-法则模型** Hempel 提出科学解释的演绎-法则模型（D-N Model），将解释确立为由普遍规律与初始条件演绎推导出的命题结构。
 > - **2005–2013 — 科学教育中的[[Epistemology|认识论]]转向** [[Argument_Sandoval_2005_SE|Sandoval (2005)]]、McNeill et al. (2006) 及美国《下一代科学标准》（NGSS, 2013）将科学解释确立为中小学科学探究的核心[[Epistemic Practices|认识论实践]]，强调因果机制与证据协调。
-> - **2019 — 四维评价标准系统化** de Andrade, Freire & Baptista (2019) 系统提出优质科学解释的四项评价标准（相关性、因果叙事、概念框架、适切表征水平），为课堂解释评估提供可操作的[[Operationalization|操作化]]工具。
+> - **2019 — 四维评价标准系统化** de Andrade, Freire and Baptista (2019) 系统提出优质科学解释的四项评价标准（相关性、因果叙事、概念框架、适切表征水平），为课堂解释评估提供可操作的[[Operationalization|操作化]]工具。
 > - **2022 — [[Knowledge Building Theory|协作知识建构]]中的解释深化与层级编码** [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 提出科学理解（4 级）与认知复杂度（4 级）双维编码体系，证实[[Reflective Structuration|反思性结构化]]能有效驱动小学生从简单事实描述跃升至高阶详细因果解释。
-> - **2026 — [[Man-Computer Symbiosis|人机协同]]多模态解释建构** [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez (2026)]] 将科学解释实践置于生成式 AI 协同探究语境，揭示学生如何依托四项标准对 AI 生成的文本与多模态图像展开持续的内容审验、因果补全与表征修正。
+> - **2026 — [[Man-Computer Symbiosis|人机协同]]多模态解释建构** [[Argument_Han_Gutierez_2026_IJSE|Han and Gutierez (2026)]] 将科学解释实践置于生成式 AI 协同探究语境，揭示学生如何依托四项标准对 AI 生成的文本与多模态图像展开持续的内容审验、因果补全与表征修正。
 
 ---
 
@@ -224,7 +224,7 @@ updated: 2026-10-15
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] | 美国东北部公立小学 22 名五年级学生，7 个月人体系统[[Knowledge Building Theory\|知识建构]]课堂 | [[Interactional Ethnography\|互动民族志]]、协作话语分析与典型案例研究 | 16 篇 BOOK 视图反思笔记的科学理解层级与认知复杂度编码 | 科学理解中 13 篇达完全科学水平（占比 81.25%），2 篇达基本科学水平，0 篇前科学/混合水平；认知复杂度中 7 篇达详细因果解释（占比 43.75%），2 篇简要解释，6 篇详细事实；30 个核心问题中 23 个为解释寻求型问题（占比 76.7%） | 编码一致性 90%（Cohen's $\kappa = 0.82$） | 证实[[Reflective Structuration\|反思性结构化]]教学有效驱动小学生从表层事实搜寻跃迁至高质量的因果机制科学解释 |
-> | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026, pp. 11–18)]] | 韩国 8 名初中生，两节人机协同科学课（植物[[Growth\|生长]]与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像[[Transcription in Qualitative Research\|转录]]、数字生成物、访谈） | 依据四标准评估与重构 AI 科学解释的行为表现 | 学生在 4 组[[Dialogue in Education\|对话]]中系统运用相关性、因果叙事、概念框架与表征水平标准，成功识别并修正 AI 文本中的机制遗漏与多模态图像中的水流运输表征缺陷 | 质性微观对话与制品分析 | 证实四项科学解释标准能有效作为初中生审验与优化生成式 AI 科学输出的[[Operationalization\|操作化]][[Epistemology\|认识论]]工具 |
+> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026, pp. 11–18)]] | 韩国 8 名初中生，两节人机协同科学课（植物[[Growth\|生长]]与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像[[Transcription in Qualitative Research\|转录]]、数字生成物、访谈） | 依据四标准评估与重构 AI 科学解释的行为表现 | 学生在 4 组[[Dialogue in Education\|对话]]中系统运用相关性、因果叙事、概念框架与表征水平标准，成功识别并修正 AI 文本中的机制遗漏与多模态图像中的水流运输表征缺陷 | 质性微观对话与制品分析 | 证实四项科学解释标准能有效作为初中生审验与优化生成式 AI 科学输出的[[Operationalization\|操作化]][[Epistemology\|认识论]]工具 |
 
 ---
 
@@ -232,4 +232,4 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 提出科学理解（4 级）与认知复杂度（4 级）双维[[Analytic Framework|分析框架]]，揭示[[Reflective Structuration|反思性结构化]]如何驱动小学生在 7 个月人体系统探究中建构出高质量、跨系统的详细因果科学解释。
-> - [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez (2026)]] — 将 de Andrade et al. (2019) 的四项科学解释标准应用于初中生[[Man-Computer Symbiosis|人机协同]]探究，揭示学生如何依据相关性、因果叙事、概念网络与表征水平对 AI 输出展开微观[[Discourse|话语]]审问与多模态制品重构。
+> - [[Argument_Han_Gutierez_2026_IJSE|Han and Gutierez (2026)]] — 将 de Andrade et al. (2019) 的四项科学解释标准应用于初中生[[Man-Computer Symbiosis|人机协同]]探究，揭示学生如何依据相关性、因果叙事、概念网络与表征水平对 AI 输出展开微观[[Discourse|话语]]审问与多模态制品重构。

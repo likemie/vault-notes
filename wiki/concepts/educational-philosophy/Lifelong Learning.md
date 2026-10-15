@@ -166,7 +166,7 @@ updated: 2026-10-16
 > [!concept-lens] [[Policy Borrowing|政策借用]]与修辞合法化
 > 批判政策研究表明，国际机构倡导的终身学习[[Discourse|话语]]在进入主权国家或地区的教育决策时，往往脱离原初的人本主义内核，被官方改造为转移治理压力、推动本土改革合法化的修辞策略。
 
-> [!claim] [[Argument_Yan_2025_JCS|Yan & Morris (2025)]]
+> [!claim] [[Argument_Yan_2025_JCS|Yan and Morris (2025)]]
 > **终身学习话语的[[Externalization|外部化]]功能** 在分析香港世纪之交的课程改革时指出，官方在 1998 年《施政报告》及 2001 年《学会学习》纲领中密集引入终身学习与[[Knowledge-Based Economy|知识经济]]话语，其核心动机在于政策外部化（[[Externalization]]）；即借用全球通行话语来将本土政治争议与制度弊端包装为顺应世界大势的必然选择，以此压制一线教师与公众对改革激进性的质疑。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, p. 487)]]
 
 > [!claim] Elfert (2015)
@@ -195,7 +195,7 @@ updated: 2026-10-16
 > [!concept-lens] [[Spatial Governmentality|空间治理术]]与流动的个体化责任
 > 超国家教育治理（如[[European Education Space|欧洲教育空间]]）将终身学习构型与[[Student Mobility|学生流动性]]深度嵌套，使跨国流动从早期的文化交融与欧洲公民认同培育，转变为个体终身维持人力资本与就业[[Competitiveness|竞争力]]的战略工具。
 
-> [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] & Papatsiba (2005)
+> [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] & Papatsiba (2005)
 > **终身学习对流动性的工具化吸纳与新自由主义就业规训** 索贝与菲舍尔（Noah W. Sobe & Trevor Fischer, 2009, pp. 362–363）援引瓦西莉基·帕帕齐巴（Vassiliki Papatsiba, 2005）的批判考证指出，[[EU|欧盟]]通过“终身学习计划 2007–2013”（LLP）将伊拉斯谟（[[Erasmus Programme|ERASMUS]]）等跨国流动项目全面整合进终身学习政策伞下，标志着流动性质的根本转型。流动不再仅仅关乎文化探索或政治一体化，而是被重新编码为个体必须具备的终身学习核心技能与就业胜任力（Employability）。在这种超国家空间[[Governmentality|治理术]]下，宏观经济与劳动力市场的结构性动荡风险被系统性地个体化：个体被要求通过终身跨国流动展现持续的适应性与灵活性，流动的缺席则被归咎为个人的技能缺陷与自我投资不足。
 
 ---
@@ -215,11 +215,11 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | [[Praxis\|实践]]机制与政策含义 | 代表文献 / 来源 |
 > |---|---|---|---|
-> | **政策借用与修辞合法化** | 终身学习被用作外部化国内矛盾与推动争议改革的话语工具，人本主义内核在多边金融机构主导下遭遇工具主义异化 | 批判性审视国家政策借用与国际多边治理[[Paradigm\|范式]]转型 | [[Argument_Yan_2025_JCS\|Yan & Morris (2025)]]; Elfert (2015); [[Robert Arnove\|Arnove (2009)]] |
+> | **政策借用与修辞合法化** | 终身学习被用作外部化国内矛盾与推动争议改革的话语工具，人本主义内核在多边金融机构主导下遭遇工具主义异化 | 批判性审视国家政策借用与国际多边治理[[Paradigm\|范式]]转型 | [[Argument_Yan_2025_JCS\|Yan and Morris (2025)]]; Elfert (2015); [[Robert Arnove\|Arnove (2009)]] |
 > | **社会文化基础设施定位** | 终身科学参与构成与绿地、图书馆并列的核心公共品 | 建立政府采购 10% 社会价值与财税激励平权机制 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026, p. 43)]] |
 > | **全周期累积与技能重塑** | 宽基础课程支撑跨生命周期的交叉素养与职业转型 | 破除过早狭隘分科，启动国家长期队列[[Cohort Study\|追踪研究]] | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026, p. 30)]] |
-> | **跨国流动与就业风险个体化** | 超国家空间治理将跨国流动工具化吸纳为终身学习核心能力，将劳动力市场结构性动荡个体化为终身流动责任 | 警惕流动话语抽离文化内核并异化为新自由主义就业规训 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009, pp. 362–363)]]; Papatsiba (2005) |
-> | **知识折旧与终身生产力命令** | 学习型经济使静态知识快速折旧，终身学习被重构为掌握实践诀窍（knowing how）、分享创新与维持就业竞争力的生存机制，并由 PISA 量化为终身学习倾向 | 将教育目的收束于新自由主义人力资本更新与跨国可比排位 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009, pp. 445–447)]]; Foray & Lundvall (1996) |
+> | **跨国流动与就业风险个体化** | 超国家空间治理将跨国流动工具化吸纳为终身学习核心能力，将劳动力市场结构性动荡个体化为终身流动责任 | 警惕流动话语抽离文化内核并异化为新自由主义就业规训 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009, pp. 362–363)]]; Papatsiba (2005) |
+> | **知识折旧与终身生产力命令** | 学习型经济使静态知识快速折旧，终身学习被重构为掌握实践诀窍（knowing how）、分享创新与维持就业竞争力的生存机制，并由 PISA 量化为终身学习倾向 | 将教育目的收束于新自由主义人力资本更新与跨国可比排位 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009, pp. 445–447)]]; Foray and Lundvall (1996) |
 
 ---
 
@@ -265,11 +265,11 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] — 深度剖析终身学习[[Discourse|话语]]在香港课程改革中的政策[[Externalization|外部化]]与修辞借用机制。
+> - [[Argument_Yan_2025_JCS|Yan and Morris (2025)]] — 深度剖析终身学习[[Discourse|话语]]在香港课程改革中的政策[[Externalization|外部化]]与修辞借用机制。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 倡导面向全体公民的全生命周期[[Scientific Literacy|科学素养]]建设，以[[Data Literacy|数据素养]]与批判性 AI 素养重构跨人生阶段的基础素养底座，并将[[Informal Science Learning|非正式科学学习]]场馆与社区参与网络确立为国家终身学习不可或缺的公共社会文化基础设施。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, p. 110)]] — 揭示终身学习在战后[[International Education|国际教育]]多边主义转型中的权力位移，分析[[UNESCO|联合国教科文组织]]人本主义终身教育构想如何在[[World Bank|世界银行]]等金融机构崛起中被新自由主义[[Disciplina and Doctrina|规训]]与[[Human Capital Theory|人力资本]]导向所取代。
-> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009, pp. 362–363)]] — 批判性揭示欧洲终身学习计划（LLP）如何将跨国流动性（[[Student Mobility|学生流动性]]）工具化整合为个体生存技能，将劳动力市场结构性动荡风险个体化为维持终身流动的个人问责，展现超国家空间[[Governmentality|治理术]]对个体主体性的塑造。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 445–447)]] — 阐明[[OECD|经合组织]]如何借由学习型经济理论将终身学习重构为应对知识折旧的经济命令，并依托 [[PISA]] 测查学生的终身学习倾向。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009, pp. 362–363)]] — 批判性揭示欧洲终身学习计划（LLP）如何将跨国流动性（[[Student Mobility|学生流动性]]）工具化整合为个体生存技能，将劳动力市场结构性动荡风险个体化为维持终身流动的个人问责，展现超国家空间[[Governmentality|治理术]]对个体主体性的塑造。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 445–447)]] — 阐明[[OECD|经合组织]]如何借由学习型经济理论将终身学习重构为应对知识折旧的经济命令，并依托 [[PISA]] 测查学生的终身学习倾向。
 
 ---
 

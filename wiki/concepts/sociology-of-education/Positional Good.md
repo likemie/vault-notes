@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Positional Good
@@ -60,7 +60,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **位置性商品（Positional Good）**最初由政治经济学家弗雷德·赫希（Fred Hirsch, 1976）在其名著《增长的社会极限》（*Social Limits to [[Growth]]*）中提出，后经菲利普·布朗（Phillip Brown）等教育社会学家深度引入教育分流与劳动力市场筛选研究。该概念指那些其价值完全或主要取决于个体相对于其他社会成员所处排他性相对顺位的商品、服务或权利，而非其本身的物理属性或绝对使用价值。在教育领域，高阶学历与精英大学学位是典型的位置性商品；因为高级就业岗位的供给受社会产业结构的客观约束，当受教育人数整体扩增时，个别文凭的绝对含金量并未增加，反而因相对稀缺性降低而引发[[Credential Inflation|文凭通货膨胀]]。在[[Knowledge-Based Economy|知识经济]]与教育政策社会学中，[[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]（Fazal Rizvi & Bob Lingard, 2009）指出，随着全球化竞争[[Discourse|话语]]将教育从培育民主公民的公共物品降解为个人在劳动市场上争夺相对优势的私人筹码，教育作为位置性商品的属性被空前放大，从而在宏观上锁定了全社会的教育军备竞赛与零和博弈。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446, 451–452)]]
+> **位置性商品（Positional Good）** 最初由政治经济学家弗雷德·赫希（Fred Hirsch, 1976）在其名著《增长的社会极限》（*Social Limits to [[Growth]]*）中提出，后经菲利普·布朗（Phillip Brown）等教育社会学家深度引入教育分流与劳动力市场筛选研究。该概念指那些其价值完全或主要取决于个体相对于其他社会成员所处排他性相对顺位的商品、服务或权利，而非其本身的物理属性或绝对使用价值。在教育领域，高阶学历与精英大学学位是典型的位置性商品；因为高级就业岗位的供给受社会产业结构的客观约束，当受教育人数整体扩增时，个别文凭的绝对含金量并未增加，反而因相对稀缺性降低而引发[[Credential Inflation|文凭通货膨胀]]。在[[Knowledge-Based Economy|知识经济]]与教育政策社会学中，[[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]（Fazal Rizvi & Bob Lingard, 2009）指出，随着全球化竞争[[Discourse|话语]]将教育从培育民主公民的公共物品降解为个人在劳动市场上争夺相对优势的私人筹码，教育作为位置性商品的属性被空前放大，从而在宏观上锁定了全社会的教育军备竞赛与零和博弈。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446, 451–452)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向那些效用依赖于社会排他性、等级差异以及相较于他人的先决相对位次的经济与文化资源。
@@ -144,7 +144,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **合成谬误命题** | 微观理性追求相对排位在宏观上导致文凭通胀与零和内耗 | 高等教育大众化与求职门槛普遍抬高 | Hirsch; Brown et al. |
-> | **教育性质异化命题** | 知识经济话语将教育从民主公共品剥离为劳动力市场排位筹码 | 全球化背景下跨国教育治理与新自由主义政策重组 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] |
+> | **教育性质异化命题** | 知识经济话语将教育从民主公共品剥离为劳动力市场排位筹码 | 全球化背景下跨国教育治理与新自由主义政策重组 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] |
 
 ---
 
@@ -181,4 +181,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 446, 451–452)]] — 阐释[[Knowledge-Based Economy|知识经济]]如何将教育由民主公共品转变为劳动力市场排位竞争的位置性商品。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 446, 451–452)]] — 阐释[[Knowledge-Based Economy|知识经济]]如何将教育由民主公共品转变为劳动力市场排位竞争的位置性商品。

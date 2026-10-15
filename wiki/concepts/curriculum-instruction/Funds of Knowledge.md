@@ -49,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Funds of Knowledge
 
@@ -133,7 +133,7 @@ updated: 2026-10-15
 > [!contrast-table] 知识资金核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **认知资产命题** | 拒绝文化亏空，将家庭技能与生活经验转化为学科探究支架 | 科学探究课程、跨学科项目化学习、读写教学 | Moll & González (2005); [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] |
+> | **认知资产命题** | 拒绝文化亏空，将家庭技能与生活经验转化为学科探究支架 | 科学探究课程、跨学科项目化学习、读写教学 | Moll & González (2005); [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] |
 > | **教育民主命题** | 教师开展社区人种志访谈，构建包容平等的家校智识共同体 | 多元文化教育、双语课堂、城市弱势学校改进 | González et al. (2006); Varelas et al. (2012) |
 
 ---
@@ -142,8 +142,8 @@ updated: 2026-10-15
 
 > [!dev-timeline] 概念演变
 > - **1990s — 概念初创与边境社区实践** Moll, Amanti, Neff & González (1992) 在美墨边境拉美裔社区开展家庭[[Ethnography\|人种志]]研究，正式确立知识资金概念以抗击亏空理论。
-> - **2000s — 多学科与多元文化拓展** González, Moll & Amanti (2005) 出版奠基性著作，知识资金广泛渗透至数学、语言学及全科教师教育培训中。
-> - **2010s 至今 — 科学教育[[Epistemology\|认识论]]与身份认同融合** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] 与 Varelas 等人将知识资金融入科学[[Epistemic Practices\|认识论实践]]与学术身份塑造研究，成为推进教育公平的核心理论基石。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, p. 160)]]
+> - **2000s — 多学科与多元文化拓展** González, Moll and Amanti (2005) 出版奠基性著作，知识资金广泛渗透至数学、语言学及全科教师教育培训中。
+> - **2010s 至今 — 科学教育[[Epistemology\|认识论]]与身份认同融合** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] 与 Varelas 等人将知识资金融入科学[[Epistemic Practices\|认识论实践]]与学术身份塑造研究，成为推进教育公平的核心理论基石。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, p. 160)]]
 
 ---
 
@@ -159,4 +159,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] — 指出将多元文化背景学生的日常经验与知识资金引入课堂[[Epistemic Practices\|认识论实践]]，是未来科学教育研究的重要开拓方向。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 指出将多元文化背景学生的日常经验与知识资金引入课堂[[Epistemic Practices\|认识论实践]]，是未来科学教育研究的重要开拓方向。

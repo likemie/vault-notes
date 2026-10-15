@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Computational Thinking
@@ -67,7 +67,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> 计算思维（Computational Thinking, CT）由周以真（Jeannette M. Wing, 2006）界定为运用计算机科学的基础概念进行问题求解、系统设计以及人类行为理解等一系列心智活动与认知过程。它不仅是计算机从业者的专业技能，更是一种面向全体学习者的通用素养与认知工具箱，核心涵盖**问题分解（Decomposition）**、**模式识别（Pattern Recognition）**、**抽象表征（Abstraction）**与**算法设计（Algorithm Design）**四大心智操作。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2–3)]]
+> 计算思维（Computational Thinking, CT）由周以真（Jeannette M. Wing, 2006）界定为运用计算机科学的基础概念进行问题求解、系统设计以及人类行为理解等一系列心智活动与认知过程。它不仅是计算机从业者的专业技能，更是一种面向全体学习者的通用素养与认知工具箱，核心涵盖**问题分解（Decomposition）**、**模式识别（Pattern Recognition）**、**抽象表征（Abstraction）** 与**算法设计（Algorithm Design）** 四大心智操作。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2–3)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调利用可计算的逻辑、规则序列与[[Reflexivity\|反思性]]迭代去形式化和解决复杂良构及[[Wicked Problem|劣构问题]]，沟通了低阶规则操作与高阶批判创造。
@@ -147,7 +147,7 @@ updated: 2026-10-15
 > |---|---|---|---|---|---|---|---|
 > | Fang et al. (2025)（引自 [[Argument_Liu_2026_CHBR\|Liu et al., 2026]]） | [[Generative AI Agent in Education\|生成式 AI 辅导]]+显性反思量规 vs. 传统编程教学 | Python 计算思维与代码调试表现 | $N = 92$（干预 $n = 46$, 控制 $n = 46$） | — | Hedges' $g = 0.40$ | $p < .05$ | 准实验设计；证实显性反思支架有助于将生成式 AI 转化为计算思维增益 |
 > | Ye et al. (2025) | 编程[[AI Agent in Education\|智能体]]即时语法纠错 vs. 传统讲授教学 | 代码逻辑结构与算法设计表现 | $N = 78$ | — | Hedges' $g = 0.16$ | $p < .05$ | 实验设计；即时线索提示辅助基础算法规则内化 |
-> | Yilmaz & Karaoglan Yilmaz (2023) | 提示词驱动[[Generative Artificial Intelligence\|生成式 AI]] 支架 vs. 独立编程对照组 | 大学生计算思维技能与编程[[Self-Efficacy\|自我效能]] | $N = 86$ | — | Hedges' $g = 0.58$ | $p < .01$ | 准实验设计；提示词工程训练显著提升算法思维水平 |
+> | Yilmaz and Karaoglan Yilmaz (2023) | 提示词驱动[[Generative Artificial Intelligence\|生成式 AI]] 支架 vs. 独立编程对照组 | 大学生计算思维技能与编程[[Self-Efficacy\|自我效能]] | $N = 86$ | — | Hedges' $g = 0.58$ | $p < .01$ | 准实验设计；提示词工程训练显著提升算法思维水平 |
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

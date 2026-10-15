@@ -69,7 +69,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-10-12
+updated: 2026-10-16
 ---
 
 # Typological Analysis
@@ -181,6 +181,6 @@ updated: 2026-10-12
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011, Ch. 29)]] — 介绍类型学分析作为质性分析的核心工具，梳理 Lofland 等学者的次级编码逻辑与类型建构程序。
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 运用因果类型学方法将宏观[[Veto Possibilities|否决可能性]]与制度裁量权交叉构建，系统推导出四类制度变迁模式与行动者类型矩阵。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 运用因果类型学方法将宏观[[Veto Possibilities|否决可能性]]与制度裁量权交叉构建，系统推导出四类制度变迁模式与行动者类型矩阵。
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 运用三代分析透镜对四类主流[[Knowledge Mobilisation|知识动员]]模型展开七维对照矩阵的系统性类型学与横向比较分析。
 > - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 依据争议性、复杂性与不确定性对公共问题与创新方案进行两分法概念解构，构建使命导向政策的二维类型学矩阵。

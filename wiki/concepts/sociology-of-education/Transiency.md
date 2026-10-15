@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Transiency
@@ -62,7 +62,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **流动漂泊（Transiency）**在教育社会学与政策研究中特指学生在单一学年中途频繁跨校转学（mid-school year movement）的流动形态。在主流绩效问责与[[Sedentarism|定居主义]]政策[[Discourse|话语]]中，此类流动往往从技术性的“[[Student Mobility|学生流动]]（Mobility）”滑向带有严重病理学色彩的“漂泊（Transiency）”，被直接绑定于家庭贫困、失范与监护失调，并被学校管理者工具化为解释未能达成年度问责绩效目标的免责减分指标。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–364)]]
+> **流动漂泊（Transiency）** 在教育社会学与政策研究中特指学生在单一学年中途频繁跨校转学（mid-school year movement）的流动形态。在主流绩效问责与[[Sedentarism|定居主义]]政策[[Discourse|话语]]中，此类流动往往从技术性的“[[Student Mobility|学生流动]]（Mobility）”滑向带有严重病理学色彩的“漂泊（Transiency）”，被直接绑定于家庭贫困、失范与监护失调，并被学校管理者工具化为解释未能达成年度问责绩效目标的免责减分指标。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–364)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向在既定学制周期内部发生的非计划性、突发性跨校迁移，聚焦空间不稳定移动与学校科层考核之间的碰撞。
@@ -129,10 +129,10 @@ updated: 2026-10-15
 > [!concept-lens] 绩效问责异化与制度免责
 > 探讨高利害评价体系如何扭曲流动的政策语义，促使学校系统将学生的身体移动工具化为免受处罚的制度借口。
 
-> [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]]
+> [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]]
 > **绩效问责下的免责替罪羊** 美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB）强制推行“学校报告卡（School Report Card）”制度，中途转入或转出学校的[[Student Mobility|学生流动]]率被确立为反映生源特征的核心参数。奥芬伯格（Offenberg, 2004）等研究表明，薄弱学校管理者普遍利用高转学流动率作为未达成年度[[Adequate Yearly Progress|充分学业进展]]（AYP）的免责说辞，声称学业退步是由生源“频繁漂泊”造成的不可抗力，从而将系统性资源匮乏与学校教学失职巧妙转嫁给底层学生家庭。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 
-> [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]]
+> [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]]
 > **[[Sedentarism|定居主义]][[Disciplina and Doctrina|规训]]下的越轨标记** 在[[Spatial Governmentality|空间治理术]]视阈下，现代正规学校被设计为固定人口、实施身体规训与学业筛选的封闭空间容器（Enclosure）。学年中途频繁转校的学生被科层系统标记为越轨异类——因为他们顽固地拒绝固定在学校所指定的物理空间内部接受连续的规训、考核与选拔。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
 
 ---
@@ -156,7 +156,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心论断 | 机制与政策影响 | 代表文献 |
 > |---|---|---|---|
 > | **绩效问责异化与免责** | 高利害问责制将学生流动赤字化，作为学校逃避未达 AYP 责任的法定借口 | 学校报告卡将生源流动列为减分因子，掩盖学校办学失职 | Offenberg (2004) |
-> | **空间规训越轨定性** | 频繁转校挑战了学校作为固定封闭空间容器的规训连续性 | 空间[[Governmentality\|治理术]]将非定居主体病理化为失范越轨群体 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] |
+> | **空间规训越轨定性** | 频繁转校挑战了学校作为固定封闭空间容器的规训连续性 | 空间[[Governmentality\|治理术]]将非定居主体病理化为失范越轨群体 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] |
 > | **底层家庭能动避险** | 转校多源于居住动荡且是底层家长逃避暴力弱校的理性自救 | 颠覆官方病理学叙事，揭示贫困社区教育生态恶化现实 | Rumberger (2003); Kerbow et al. (2003) |
 
 ---
@@ -202,4 +202,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 比较分析欧洲高等教育对[[Student Mobility|学生流动]]的赞美与美国基础教育对中途转学漂泊（Transiency）的病理化贬抑，揭示空间流动背后的阶层化道德评价与[[Spatial Governmentality|空间治理术]]。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 比较分析欧洲高等教育对[[Student Mobility|学生流动]]的赞美与美国基础教育对中途转学漂泊（Transiency）的病理化贬抑，揭示空间流动背后的阶层化道德评价与[[Spatial Governmentality|空间治理术]]。

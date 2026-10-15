@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 ## 简介
 
@@ -67,7 +67,7 @@ updated: 2026-10-15
 > - [[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]] 用 Piaget 的同化与顺应区分说明知识形式之间会相互影响：新知识不是被外部教学简单输入，而是依赖已有认知图式被吸收或重组。因此，仅列出学习层次的分类法不足以解释学习，需要[[Dynamic Knowledge and Learning Model]]来描述知识形式之间的互动([[Argument_Qvortrup_2015_Paideia\|Qvortrup, 2015, p.29]])。
 > - 其理论启发了教育者和研究者探索儿童认知与学习的阶段性发展的思路([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.1]])
 > - 后发展出[[Neo-Piagetian Theories\|新皮亚杰理论]]，由 Pascual-Leone (1970)、Case (1985, 1992)、Fischer (1980) 等进一步修正和扩展，以回应理论弱点并解释阶段过渡机制([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.3]])
-> - [[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie (2017)]] 将皮亚杰阶段与[[Prefrontal Cortex\|前额叶皮层]]的解剖生理发育在时间上对齐，论证阶段过渡可能是[[Executive Function\|执行功能]]随大脑发育而发展的函数([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.1, 8–9]])
+> - [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] 将皮亚杰阶段与[[Prefrontal Cortex\|前额叶皮层]]的解剖生理发育在时间上对齐，论证阶段过渡可能是[[Executive Function\|执行功能]]随大脑发育而发展的函数([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.1, 8–9]])
 
 ## 争议与批评
 

@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # John Hardwig
@@ -106,10 +106,10 @@ updated: 2026-10-07
 > [!influence-path] 影响路径
 > - **理论路径** 作为社会[[Epistemology\|认识论]]（Social Epistemology）的开创者之一，其观点直接促发了[[Alvin Goldman\|阿尔文·戈德曼]]（Alvin Goldman）等分析认识论学者关于非专家如何评估专家证言、信誉与学术分歧机制的系统探索。
 > - **学习科学与教育认识论路径** 纠正了[[Radical Constructivism\|激进建构主义]]盲目贬抑学术权威与显性教学的倾向，为理解学习者如何在专家支架与共同体证言引导下逐步走向成熟认识提供了认识论辩护。
-> - **人工智能认识论路径** 在生成式大模型成为日常[[Knowledge Production\|知识生产]]中介的背景下，[[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 等学者直接将哈德威格的[[Epistemic Dependence\|认识依赖]]框架引入[[Man-Computer Symbiosis|人机协同]]研究，论证学生对外部工具的借助具备社会[[Ontology\|本体论]]必然性，核心课题在于区分合理的理性依赖与丧失评价能力的盲目顺从。
+> - **人工智能认识论路径** 在生成式大模型成为日常[[Knowledge Production\|知识生产]]中介的背景下，[[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 等学者直接将哈德威格的[[Epistemic Dependence\|认识依赖]]框架引入[[Man-Computer Symbiosis|人机协同]]研究，论证学生对外部工具的借助具备社会[[Ontology\|本体论]]必然性，核心课题在于区分合理的理性依赖与丧失评价能力的盲目顺从。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 将哈德威格的认识依赖理论确立为人机中介学习的哲学源流，论证现代人类知识生产历来深嵌于外部工具与专家网络之中，并以此破除脱离技术的虚假纯洁性幻想。
+> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 将哈德威格的认识依赖理论确立为人机中介学习的哲学源流，论证现代人类知识生产历来深嵌于外部工具与专家网络之中，并以此破除脱离技术的虚假纯洁性幻想。
 
 ---
 
@@ -118,7 +118,7 @@ updated: 2026-10-07
 > [!person-network] 关系网络
 > - **思想发展与共鸣者** [[Alvin Goldman\|阿尔文·戈德曼]]（Alvin Goldman） — 戈德曼在承认哈德威格“现代人必然[[Epistemic Dependence\|认识依赖]]”的前提下，进一步系统构建了外行在专家产生分歧时评估专家[[Reliability\|可靠性]]的五条理性准则。
 > - **哲学批判靶子** 勒内·[[René Descartes\|笛卡尔]]（René Descartes）与伊曼纽尔·[[Immanuel Kant\|康德]]（Immanuel Kant） — 启蒙[[Epistemology\|认识论]]追求个体理智的绝对自足，哈德威格以[[Big Science|大科学]]时代的实验事实证明了个体自足神话的不可能性。
-> - **当代教育中介应用者** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 借用其理论作为[[Man-Computer Symbiosis|人机共生]]学习中界定认识责任与教学法改革的哲学起点。
+> - **当代教育中介应用者** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 借用其理论作为[[Man-Computer Symbiosis|人机共生]]学习中界定认识责任与教学法改革的哲学起点。
 
 ---
 
@@ -143,4 +143,4 @@ updated: 2026-10-07
 > | [[Epistemic Dependence]] | 概念 | 首次系统提出并奠定现代社会[[Epistemology\|认识论]]中的认识依赖理论[[Paradigm\|范式]]。 |
 > | [[Knowledge Production]] | 概念 | 揭示现代大规模科学实验中知识生产的分布式、网络化与协作性本质。 |
 > | [[Alvin Goldman]] | 人物 | 共同构筑社会认识论基础，启发戈德曼提出专家证言评估标准。 |
-> | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] | 论证 | 作为理论起点确立人机中介依赖的社会[[Ontology\|本体论]]必然性。 |
+> | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] | 论证 | 作为理论起点确立人机中介依赖的社会[[Ontology\|本体论]]必然性。 |

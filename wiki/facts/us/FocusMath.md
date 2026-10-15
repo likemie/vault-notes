@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # FocusMath
@@ -59,7 +59,7 @@ updated: 2026-10-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **FocusMath（聚焦数学）**是由培生教育出版集团（Pearson Education）基于全美数学教师理事会（NCTM）课程焦点研发的小学数学 Tier 2 小组干预方案；其核心目标是针对公立小学三至五年级在核心数学概念与运算流利度上落后的高危儿童，通过受训教学助教实施 1:6 至 1:8 的结构化微班辅导，帮助其补足运算弱项并重返年级[[Business as Usual\|常态教学]]。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> **FocusMath（聚焦数学）** 是由培生教育出版集团（Pearson Education）基于全美数学教师理事会（NCTM）课程焦点研发的小学数学 Tier 2 小组干预方案；其核心目标是针对公立小学三至五年级在核心数学概念与运算流利度上落后的高危儿童，通过受训教学助教实施 1:6 至 1:8 的结构化微班辅导，帮助其补足运算弱项并重返年级[[Business as Usual\|常态教学]]。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 研发始于 2000 年代后期全美强化数学补救教学与响应干预（[[Response to Intervention\|RTI]]）机制推广期，经过独立试验评估后，作为主流商业数学强化干预课程常态化运行至今。

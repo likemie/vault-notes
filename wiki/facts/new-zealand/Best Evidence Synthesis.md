@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Best Evidence Synthesis
@@ -154,7 +154,7 @@ updated: 2026-10-15
 > > [!axis] 财政紧缩压力下的职能收缩与存续脆弱性
 > > 探讨在缺乏法定义务拨款保障下，公共中介项目面临的周期性萎缩风险。
 > >
-> > - **[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] 纵向存续判定** BES 的演变揭示了部委嵌入型项目的根本困境：在财政预算紧缩与政党更迭时期，行政部门往往优先削减耗时昂贵的基础综合研究，导致 BES 由“证据生产者与综合者”退缩为“存量证据分发者”([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])。
+> > - **[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] 纵向存续判定** BES 的演变揭示了部委嵌入型项目的根本困境：在财政预算紧缩与政党更迭时期，行政部门往往优先削减耗时昂贵的基础综合研究，导致 BES 由“证据生产者与综合者”退缩为“存量证据分发者”([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])。
 
 > [!lessons] 经验教训与启示
 > - **存续受制于政治预算周期** 缺乏类似美国 [[What Works Clearinghouse\|WWC]] 的法定强制预算保护，即使成效卓越的部委内部[[Knowledge Mediation\|知识中介]]项目，也难以逃脱政治周期导致的科研功能剥离。

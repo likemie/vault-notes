@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Research Excellence Framework
@@ -133,7 +133,7 @@ updated: 2026-10-08
 > [!evidence-grid] 学术审计与 REF 影响研究
 > - **[[Argument_Cowen_2009_CE\|Cowen (2009b)]]** 批判性揭示了以 RAE/REF 为代表的数值化外部评估如何侵蚀大学自治自治边界，迫使大学转向管理主义公司并剥离[[Blue Skies Research\|蓝天研究]]。
 > - **[[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017)]]** 将 REF 定位为[[Quasi-markets in Higher Education\|高等教育准市场]]最成熟的制度形式，系统分析了其将[[Performance Indicators\|绩效指标]]与财政拨款挂钩所带来的制度效应与行为重塑。
-> - **[[Argument_OxfordUIDP_2019_UIPartnerships\|Oxford & UIDP (2019)]]** 阐述了 REF 框架下“[[Research Impact\|社会经济影响]]（impact）”评估指标的引入，探讨其对大学科研成果向社会成果转化的催化作用与政策张力。
+> - **[[Argument_OxfordUIDP_2019_UIPartnerships\|Oxford and UIDP (2019)]]** 阐述了 REF 框架下“[[Research Impact\|社会经济影响]]（impact）”评估指标的引入，探讨其对大学科研成果向社会成果转化的催化作用与政策张力。
 > - **[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society (2026, Ch. 6)]]** 系统解构了 REF 影响力评估机制对大学[[Public Engagement with Science\|公众科学参与]]的双重效应，揭示约 50% 案例涉及参与背后的微观量化困境，并阐释 REF 2029 设立独立“参与与影响”维度的制度改革意涵。
 > - **[[Argument_Revai_2022_ChangingLandscape\|Révai (2022, p. 22)]]** 揭示了 REF 等国家科研卓越评估框架下学术激励与实践需求的结构性错位：尽管政策要求论证研究影响，但大学考评依然高度向高影响因子学术期刊发表倾斜，导致学者缺乏投身[[Evidence-Based Education\|循证教育]][[Knowledge Co-production\|知识共创]]（co-production）与跨界协作的实质性制度支持。
 > - **[[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]]** 从方法学与[[Theory of Knowledge\|知识论]]视角深入审视 REF 的单项研究影响力考核机制，指出单项成果缺乏因果指导合法性，揭露影响力评价对无效干预的逆向激励漏洞，并论证研究证据的最佳转化路径是将其工程化封装嵌入技术工件之中（pp. 571–574, 596–597）。

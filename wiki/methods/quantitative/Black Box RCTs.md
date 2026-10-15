@@ -48,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 定义
@@ -110,7 +110,7 @@ updated: 2026-10-15
 
 > [!info] 理论基础
 > - **医学药物试验[[Paradigm\|范式]]** — 黑箱 [[Randomised Controlled Trials\|RCT]] 的起源范式，其假设（标准化产品可被认证后分发）在教育中适用范围极度有限
-> - **Cartwright & Hardie (2012)** — 揭示黑箱 RCT 产出的知识仅适用于"二选一"决策类型
+> - **Cartwright and Hardie (2012)** — 揭示黑箱 RCT 产出的知识仅适用于"二选一"决策类型
 
 ## 实证发现
 

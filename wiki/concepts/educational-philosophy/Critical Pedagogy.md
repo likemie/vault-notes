@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Critical Pedagogy
@@ -205,7 +205,7 @@ updated: 2026-10-15
 > [!concept-lens] 跨国教育政治与全球再生产批判维度
 > 该命题将批判教育学从微观学校课堂延伸至全球宏观地缘政治与[[International Education|国际教育]]发展领域，揭示跨国教育援助与借用背后潜伏的资本主义霸权控制，确立以人类福祉与文化自主为核心的解放实践方向。
 
-> [!claim] Shor & Freire (1987); Rust, Johnstone, & Allaf (2009)
+> [!claim] Shor and Freire (1987); Rust, Johnstone, & Allaf (2009)
 > **教育即政治与超越西方资本主义现代性** 伊拉·肖尔与[[Paulo Freire|保罗·弗莱雷]]（Shor & Freire, 1987）深刻指出，教育在本质上蕴含着鲜明的政治属性，根本不存在脱离政治意识形态的中立教育。[[Val D. Rust|瓦尔·拉斯特]]等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）进一步结合[[Henry Giroux|吉鲁]]（Henry Giroux）的再生产理论，批判主流比较教育学长期将追求西方工业现代性作为定义教育的潜意识基准，实质上合谋了资本主义跨国扩张；核心国家通过附带苛刻前置条件的跨国援助与[[Structural Adjustment Programs|结构调整方案]]，向发展中国家强制移植私有化体制与依附性[[Hidden Curriculum|隐蔽课程]]。[[UNESCO|联合国教科文组织]]《[[Education for All|全民教育]]》（EFA）在亚非拉的推进历程表明，被迫照搬外部市场化模式的国家普遍受挫，而坚持主权自决与社会主义人道主义国家动员的古巴则取得了突出的教育成就。比较教育学必须彻底扬弃技术官僚干涉，转向以主权自决与社会正义为内核的解放实践（praxis of liberation）。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 133–135)]]
 
 ---
@@ -218,7 +218,7 @@ updated: 2026-10-15
 > | **文化政治命题** | 课程与教学非中立，属于再生产或挑战意识形态霸权的政治场域 | 国家课程改革、教科书[[Discourse Analysis\|话语分析]]、多元文化教育审查 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|Cohen et al. (2011)]]; Masschelein (1991) |
 > | **意识化解放命题** | 提问式对话打破储蓄式教育灌输，反思实践催生批判意识与主体觉醒 | 社区成人教育、底层赋权探究、批判性对话课堂构建 | [[Paulo Freire\|Freire (1972)]]; [[Argument_Darwish_2009_Queens\|Darwish (2009)]] |
 > | **数字批判防御命题** | 破除大模型拟人化崇拜，定性异己智能并通过思维全外显抵御认知去技能化 | 生成式 AI 读写教学、人机协同探究、数智通识伦理课程 | [[Argument_Smith_2026_SPE\|Smith (2026)]] |
-> | **全球再生产与解放实践命题** | 揭露跨国教育援助沦为资本主义强制再生产，确立主权自决与人道主义解放实践 | 跨国教育援助评估、国际发展研究、后殖民批判分析 | Shor & Freire (1987); Giroux (1983); [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] |
+> | **全球再生产与解放实践命题** | 揭露跨国教育援助沦为资本主义强制再生产，确立主权自决与人道主义解放实践 | 跨国教育援助评估、国际发展研究、后殖民批判分析 | Shor and Freire (1987); Giroux (1983); [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] |
 
 ---
 

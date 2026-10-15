@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Title I of the Elementary and Secondary Education Act
@@ -119,7 +119,7 @@ updated: 2026-10-15
 > - **结果指标** 低收入学生核心学科标准化测验成绩增值、全量证据综合评级下获得稳定积极支持的资金比例、薄弱学校学业达标出列率。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 164, 175)]]
 
 > [!finding-cards] 效果与评价
-> 1. **宏观学业产出效应存在长期实证分歧** 实证研究对 Title I 能否稳定提升贫困生[[Academic Achievement\|学业成就]]分歧显著；Dynarski & Kainz (2015) 归纳的两大主因表明，微观资金分散与低效常规实践挤占削弱了联邦财政的补偿效力。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 164–165)]]
+> 1. **宏观学业产出效应存在长期实证分歧** 实证研究对 Title I 能否稳定提升贫困生[[Academic Achievement\|学业成就]]分歧显著；Dynarski and Kainz (2015) 归纳的两大主因表明，微观资金分散与低效常规实践挤占削弱了联邦财政的补偿效力。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 164–165)]]
 > 2. **法定单项门槛下形式合规率极高** 在 ESSA 实施后，学区逾 95%（全校统一划定达 99%）的资金投向了至少具备一项合格实证支持的实践，学区极易达成名义达标。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, p. 174)]]
 > 3. **全量证据审视下实质循证支持不足六成** 跨四大权威数据库综合审视下，获稳定积极支持的资金比例骤降至 49%–58%，42%–51% 的联邦公共财政被锁定在缺乏充分证据支持或存在混合效应的常规项目中。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 174–177)]]
 > 4. **政策生效前后支出结构高度固化** 2016–2017 至 2018–2019 三年追踪表明，投向循证实践的资金比例在 ESSA 正式生效前后仅波动 1 至 4 个百分点，立法未促发学区资源分配的实质重组。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 175–176)]]
@@ -139,7 +139,7 @@ updated: 2026-10-15
 > [!debates] 学术与政策争议
 >
 > > [!axis] 财政投入是否必然转化为学业产出
-> > 长期以来关于 Title I 资金对学生[[Academic Achievement\|学业成就]]影响的实证研究结论高度分歧：部分研究发现积极效果，另有大量严谨因果评估发现未产生显著学业增益。Dynarski & Kainz (2015) 提出两大解释：一是资金分散导致人均强度不足以产生结构性改变；二是大量资金被投入了缺乏实效的日常教育实践中。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, p. 165)]]
+> > 长期以来关于 Title I 资金对学生[[Academic Achievement\|学业成就]]影响的实证研究结论高度分歧：部分研究发现积极效果，另有大量严谨因果评估发现未产生显著学业增益。Dynarski and Kainz (2015) 提出两大解释：一是资金分散导致人均强度不足以产生结构性改变；二是大量资金被投入了缺乏实效的日常教育实践中。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, p. 165)]]
 >
 > > [!axis] 法定单项研究标准 vs 全量综合[[Evidence Standards\|证据标准]]
 > > [[Every Student Succeeds Act\|ESSA]] 允许仅凭一项符合 Tier I–III 要求的实证研究即可为采购辩护，这一极低门槛使学区能够在几乎不改变既有采购惯性的情况下实现 95% 以上的形式合规；但美国教育部指南推荐的全量证据体（full body of evidence）评价表明，近半数获资助实践在更广泛的文献中存在零效应、混合效应或缺乏适用学段的研究支持。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 163, 177)]]

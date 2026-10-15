@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-06-19'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Realist Evaluation
@@ -123,7 +123,7 @@ updated: 2026-10-15
 > - **2012 年 — Bonell 等人倡导现实主义试验（Realist Trials）** 在 *Social Science & Medicine* 提出将[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials, RCT）与现实主义评估融合，倡导多臂[[Factorial Design|析因设计]]、中介路径分析与跨情境多次试验。
 > - **2016–2019 年 — [[Implementation and Process Evaluation|过程评估]]与复杂评估方法学规程化** 英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）委托曼彻斯特大学完成实施与过程评估（Implementation and Process Evaluation, IPE）系统综述（Humphrey et al., 2016）并研制复杂项目评估方法指南（Anders et al., 2017；The EEF, 2019b），实现 90% 试验纳入机制与中介指标。
 > - **2018 年 — 教育批判研究高峰** [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 在 BERJ 发表经典批判，以实在论评估解构英国 EEF 早期拼读与[[Teaching Assistant|教学助理]][[Meta-analysis|元分析]]的统计平均误导。
-> - **2021 年 — 十年循证实践经验综合** [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] 系统梳理英国十年大规模试验向现实主义试验演进的方法学历程。
+> - **2021 年 — 十年循证实践经验综合** [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] 系统梳理英国十年大规模试验向现实主义试验演进的方法学历程。
 
 ---
 
@@ -165,7 +165,7 @@ updated: 2026-10-15
 > **应用实例** 早期 [[EEF Teaching and Learning Toolkit|EEF Toolkit]] [[Meta-meta-analysis|元-元分析]]汇总出教学助理项目“低影响、高成本”（平均效应量仅 $+0.08$），掩盖了优秀实践中协同教学带来的巨大提振与恶劣环境中将学生推给无资质助教带来的负面剥夺，导致政策制定者作出盲目裁撤助理岗位的粗暴决策（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]]）。
 
 > [!theory-proposition] 命题五｜政策变迁与干预性质取决于观察者的制度位置与评估时间尺度（实在论多维观察假说）
-> **解释** 在政策与制度演进中，不仅干预结果取决于受试者的能动推理，而且对“变革是否发生及变迁性质为何”本身的定性判断也具有深刻的情境相对性。借鉴 Pawson & Tilley（1997）的“何种方案在何种情境中对谁有效”，实在论政策评估将其拓展为“对谁而言、在何种情境下构成了何种变迁”（what is change, for whom, and in what context?）。微观行动者（处于体制内部直接承受规制变动的基层执行者）感受到的激进断裂，在宏观决策者（纵览顶层政策妥协的部委官员）眼中可能仅为渐进调适，在长期历史学家眼中则可能属于[[Path Dependence|路径依赖]]下的微小延续。若脱离主体的位置与时间跨度，任何对政策变迁激进还是渐进的定性评估都将陷入假性对立（Van der Heijden et al., 2007; [[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, p. 10]]）。
+> **解释** 在政策与制度演进中，不仅干预结果取决于受试者的能动推理，而且对“变革是否发生及变迁性质为何”本身的定性判断也具有深刻的情境相对性。借鉴 Pawson and Tilley（1997）的“何种方案在何种情境中对谁有效”，实在论政策评估将其拓展为“对谁而言、在何种情境下构成了何种变迁”（what is change, for whom, and in what context?）。微观行动者（处于体制内部直接承受规制变动的基层执行者）感受到的激进断裂，在宏观决策者（纵览顶层政策妥协的部委官员）眼中可能仅为渐进调适，在长期历史学家眼中则可能属于[[Path Dependence|路径依赖]]下的微小延续。若脱离主体的位置与时间跨度，任何对政策变迁激进还是渐进的定性评估都将陷入假性对立（Van der Heijden et al., 2007; [[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, p. 10]]）。
 >
 > **应用实例** 在荷兰 1992 年《住房法》建筑规制改革的评估中，承建商与基层检查员直面私营认证体系的替代，将其定性为激进破裂；而荷兰住房部官员纵览长达十数年的政治妥协，将其定性为渐进调适；百年尺度的制度学者则指出国家公权力依然保持兜底主导，本质为历史延续。实在论视角揭示出：三者皆为特定制度坐标与时间透镜下的真实经验，评估必须统合多重观察位置而非强加单一判词（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, p. 11]]）。
 
@@ -256,14 +256,14 @@ updated: 2026-10-15
 > > [!axis] 方法成本与操作可行性张力
 > > 实在论综合与现实主义试验要求同时满足大样本统计功效与深层质性[[Process Tracing|过程追踪]]，研发与实施门槛极高。
 > > 
-> > - **Pawson & Tilley（1997）与 Bonell 等人（2012）** 主张只有融合[[Factorial Design|析因设计]]与[[Implementation and Process Evaluation|过程评估]]才能打破因果黑箱，方法严谨性与机制深度优先于操作简便性。
+> > - **Pawson and Tilley（1997）与 Bonell 等人（2012）** 主张只有融合[[Factorial Design|析因设计]]与[[Implementation and Process Evaluation|过程评估]]才能打破因果黑箱，方法严谨性与机制深度优先于操作简便性。
 > > - **[[Argument_Wrigley_2018_BERJ|Wrigley（2018, p. 15）]]** 指出在教育现场长期追踪多维机制的研发与评估成本极为高昂，中小型评估项目难以普遍负荷。
 > 
 > > [!axis] 复杂因果叙事与政策快速决策需求的冲突
 > > 决策者对单一效应指标的渴望与实在论的情境条件叙事存在认知壁垒。
 > > 
 > > - **[[Positivism|实证主义]]政策评估者** 期望获得放之四海而皆准的平均[[Effect Size|效应量]]或“额外学习月数”，追求政策决策的标准化与快捷化。
-> > - **[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill（2021, p. 57）]]** 指出实在论评估所呈现的条件性、情境化复杂机制叙事对决策者提出了更高的专业理解门槛，若缺乏配套沟通中介极易造成决策阻塞。
+> > - **[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill（2021, p. 57）]]** 指出实在论评估所呈现的条件性、情境化复杂机制叙事对决策者提出了更高的专业理解门槛，若缺乏配套沟通中介极易造成决策阻塞。
 > 
 > > [!axis] 变迁评估的标准客观性与观察者位置相对性
 > > 政策与制度干预的成效与变迁性质是否存在跨情境的客观度量基准。

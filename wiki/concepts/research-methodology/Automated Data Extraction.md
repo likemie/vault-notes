@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Automated Data Extraction
@@ -156,7 +156,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心主张 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **准确性等值命题** | 前沿大语言模型在规范提示词引导下达到甚至超越人类单专家提取精度 | 证据综合、系统评价与二阶元分析自动化 | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]]; Gartlehner et al. (2025) |
-> | **误差结构命题** | 提取误差主要源于跨表计算累加与原始文献报告模糊性，而非生成式幻觉 | 二阶元分析统计提取、复杂医学与教育[[Literature Review\|文献综述]] | Marshall & Wallace (2019) |
+> | **误差结构命题** | 提取误差主要源于跨表计算累加与原始文献报告模糊性，而非生成式幻觉 | 二阶元分析统计提取、复杂医学与教育[[Literature Review\|文献综述]] | Marshall and Wallace (2019) |
 
 ---
 

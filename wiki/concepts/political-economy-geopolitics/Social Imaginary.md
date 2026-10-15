@@ -90,7 +90,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-04-13
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Social Imaginary
@@ -252,7 +252,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与分析情境 | 研究设计与方法 | 核心分析[[Construct\|构念]]与指标 | 原始话语分析与政策文本证据（无效应量） | 理论机制与定性结论 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] | [[OECD\|经合组织]] 1960–2008 年官方旗舰出版物（如 1995 *Governance in Transition*、1996 *The Knowledge-Based Economy*、PISA 技术报告） | 历史比较政策社会学与批判话语分析 | 社会想象、[[Economic Fundamentalism\|经济基要主义]]、跨国[[Space of Equivalence\|等值空间]]、远处掌舵 | 1995 年报告确立[[New Public Management\|新公共管理]]原则；1996 年报告正式将知识内生化并确立“知其操作”与[[Lifelong Learning\|终身学习]][[Discourse\|话语]]；[[PISA]] 2000 起构建 500 分跨国均值等值空间；性别与社会资本议题在文本中完全被生产率与就业率话语吸纳 | 证实经合组织从战后社会民主协商平台演进为具有独立政治议程的跨国政策行动者，通过[[Knowledge-Based Economy\|知识经济]]社会想象与[[Governing by Numbers\|数字治理]]重塑全球教育政策议程 | 聚焦宏观超国家文本与治理话语演变，不涵盖课堂微观互动数据 |
+> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] | [[OECD\|经合组织]] 1960–2008 年官方旗舰出版物（如 1995 *Governance in Transition*、1996 *The Knowledge-Based Economy*、PISA 技术报告） | 历史比较政策社会学与批判话语分析 | 社会想象、[[Economic Fundamentalism\|经济基要主义]]、跨国[[Space of Equivalence\|等值空间]]、远处掌舵 | 1995 年报告确立[[New Public Management\|新公共管理]]原则；1996 年报告正式将知识内生化并确立“知其操作”与[[Lifelong Learning\|终身学习]][[Discourse\|话语]]；[[PISA]] 2000 起构建 500 分跨国均值等值空间；性别与社会资本议题在文本中完全被生产率与就业率话语吸纳 | 证实经合组织从战后社会民主协商平台演进为具有独立政治议程的跨国政策行动者，通过[[Knowledge-Based Economy\|知识经济]]社会想象与[[Governing by Numbers\|数字治理]]重塑全球教育政策议程 | 聚焦宏观超国家文本与治理话语演变，不涵盖课堂微观互动数据 |
 > | [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] | 过去三十年亚洲主要高等教育系统与跨国留学政策话语演变（中国、印度、新加坡及西方接收国） | [[Critical Geopolitics\|批判地缘政治学]]与多标度话语分析 | 国际化双重理性（发展主义 vs 市场理性）、跨国科研合作理性缝合 | 国际[[Student Mobility\|学生流动]]从战后援助性质的奖学金模式全面转向全额学费出口产业；跨国科研合作话语中学者兴趣、大学声誉、国家外贸与公共外交四重理性无缝融合 | 论证亚洲崛起构成了重塑全球高等教育系统与[[Geopolitics of Knowledge\|知识地缘政治]]格局的独立因果力量 | 侧重宏观与中观地缘战略话语，微观留学生主体经验有待延伸 |
 > | [[Argument_Klerides_2023_CE\|Klerides (2023)]] | 冷战及后冷战时代比较教育学科代表性文献与国际组织咨询历史档案 | 学科史与[[Wight's Three Traditions of International Theory\|国际关系理论]]透镜分析 | 知识新帝国、[[Banal Imperialism\|平庸帝国主义]]、[[Navigation Metaphor in Comparative Education\|航海隐喻]]解构 | 经合组织从 [[Mediterranean Regional Project\|MRP]] 项目到 PISA，系统收编战后欧洲超然比较教育学界网络；比较学者从提供多元制度图景的“航海家”退化为对标量化排名的技术官僚 | 证实超国家组织通过量化基准与政策话语深刻重塑了比较教育学科的[[Knowledge Production\|知识生产]]与咨询伦理 | 聚焦学科史与[[Epistemology\|认识论]]反思 |
 
@@ -261,7 +261,7 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 经典建构：系统运用社会想象概念解构[[OECD|经合组织]]从社会民主妥协向[[Knowledge-Based Economy|知识经济]]社会想象与 [[PISA]] [[Governing by Numbers|数字治理]]的历史演进与理论机制。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 经典建构：系统运用社会想象概念解构[[OECD|经合组织]]从社会民主妥协向[[Knowledge-Based Economy|知识经济]]社会想象与 [[PISA]] [[Governing by Numbers|数字治理]]的历史演进与理论机制。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 地缘拓展：运用[[Critical Geopolitics|批判地缘政治学]]与社会想象透镜，论证亚洲崛起作为重塑全球高等教育格局的独立因果力量。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 学科反思：援引社会想象与跨国知识帝国理论，分析国际组织对比较教育学科自主性的深层重塑。
 
@@ -287,6 +287,6 @@ updated: 2026-10-15
 > | [[Bob Lingard]] | Person | 与里兹维长期合作、系统解构[[OECD\|经合组织]]社会想象与数字治理跨国等值空间的学者。 |
 > | [[OECD]] | Fact | 生产、包装并全球输出知识经济社会想象的核心超国家政策行动者。 |
 > | [[PISA]] | Fact | 使知识经济社会想象获得全球性展演力与高利害问责实效的旗舰评估工程。 |
-> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] | Argument | 奠定全球教育政策社会想象分析[[Paradigm\|范式]]的里程碑文献。 |
+> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] | Argument | 奠定全球教育政策社会想象分析[[Paradigm\|范式]]的里程碑文献。 |
 > | [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] | Argument | 将社会想象与批判地缘政治学相结合解析亚洲高教转型的代表文献。 |
 

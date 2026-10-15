@@ -53,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 
 # Habitus
@@ -132,7 +132,7 @@ updated: 2026-10-14
 
 习性错置（habitus dislocation）描述的是习性进入一个与自身不配合的场域时产生的如同"鱼离了水"的感觉（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Bourdieu & Wacquant, 1992）。在 Reay 等人（2009）的研究中，这表现为英国工人阶级学生进入精英大学后的"精英休克"（[[The Shock of the Elite]]）体验。
 
-- **习性分裂（a habitus divided against itself）**则是更严重的情形——个体需要不断调和自身与新场域之间的矛盾，同时维持与旧有场域的联系和发展新的倾向，由此"产生一种习性分裂的体验"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Bourdieu, 1999, p.511）。[[Yajun Zheng|郑雅君]]的被访者昌盛（甘肃偏僻农村考入南方大学）的体验是典型例证：大二陷入"非常低迷的状态，可以说稍微有点抑郁。每次出门我都会有一种恐惧，就是害怕与其他人交流"——自我认同的撕裂使得他不再清楚自己是谁，更不用说树立目标。
+- **习性分裂（a habitus divided against itself）** 则是更严重的情形——个体需要不断调和自身与新场域之间的矛盾，同时维持与旧有场域的联系和发展新的倾向，由此"产生一种习性分裂的体验"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Bourdieu, 1999, p.511）。[[Yajun Zheng|郑雅君]]的被访者昌盛（甘肃偏僻农村考入南方大学）的体验是典型例证：大二陷入"非常低迷的状态，可以说稍微有点抑郁。每次出门我都会有一种恐惧，就是害怕与其他人交流"——自我认同的撕裂使得他不再清楚自己是谁，更不用说树立目标。
 
 ### 两种"上大学"模式的习性根基
 

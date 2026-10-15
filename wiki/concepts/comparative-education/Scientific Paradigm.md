@@ -94,7 +94,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Scientific Paradigm
@@ -318,7 +318,7 @@ updated: 2026-10-15
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统论述大国地缘科技博弈与《[[CHIPS and Science Act|芯片法案]]》如何推动科学研究范式由新自由主义市场适配向后新自由主义[[Securitization of Technology|技术安全化]]与国家使命导向跃迁，深刻反思科研生态封闭化对[[Academic Freedom|学术自由]]与开放创新的制度性冲击（pp. 24–26）。
 > - Bereday (1964) — 提出描述、解释、并置、比较的四步操作程序，充当从古典历史向实证科学转型的关键过渡桥梁。
 > - Anderson (1961) — 奠定芝加哥学派[[Structural Functionalism|结构功能主义]]立足点，主张探索社会系统超越时空的恒常不变关系。
-> - Noah & Eckstein (1969) — 奠定经验实证与跨国[[Variable|变量]]共变检验纲领，建立五阶段调查程序并保持拒称法则的方法论自律。
+> - Noah and Eckstein (1969) — 奠定经验实证与跨国[[Variable|变量]]共变检验纲领，建立五阶段调查程序并保持拒称法则的方法论自律。
 > - Holmes (1965, 1981) — 创立[[Critical Dualism|批判二元论]]与假说-演绎[[Problem Approach|问题法]]，确立权变社会学法则与预测划界标准，实现历史与社会科学的折衷综合。
 
 ---

@@ -129,13 +129,13 @@ issuing_organization: ""
 
 > [!quad-grid] [[Epistemic Cognition\|认识论认知]]（[[Epistemic Cognition]]）的四大类理论模型
 > - **发展模型 (Developmental Models)**
->   发端于 Perry (1970)。认为认识论认知遵循阶段性演进：从**绝对主义**（知识简单确定且由权威赋予）、经历**[[Pluralism|多元主义]]**（知识皆为主观意见），最终走向**评价主义**（知识是情境建构的，需要基于证据评估）。代表模型包括 Kuhn (1991) 的论证发展模型，以及 King & Kitchener (1994) 的[[Reflective Judgment Model\|反思性判断模型]]。
+>   发端于 Perry (1970)。认为认识论认知遵循阶段性演进：从**绝对主义**（知识简单确定且由权威赋予）、经历 **[[Pluralism|多元主义]]**（知识皆为主观意见），最终走向**评价主义**（知识是情境建构的，需要基于证据评估）。代表模型包括 Kuhn (1991) 的论证发展模型，以及 King and Kitchener (1994) 的[[Reflective Judgment Model\|反思性判断模型]]。
 > - **多维模型 (Multidimensional Models)**
->   发端于 Schommer (1990)。认为[[Epistemology\|认识论]]是由若干相对独立的“信念维度”组成，而非整体式的阶段。[[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 将其经典化，划分为**知识的性质**（简单性、确定性）与**认识的性质（[[Source of Knowledge\|知识的来源]]、知识的证成）**两大核心簇。
+>   发端于 Schommer (1990)。认为[[Epistemology\|认识论]]是由若干相对独立的“信念维度”组成，而非整体式的阶段。[[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 将其经典化，划分为**知识的性质**（简单性、确定性）与**认识的性质（[[Source of Knowledge\|知识的来源]]、知识的证成）** 两大核心簇。
 > - **哲学驱动模型 (Philosophically Driven Models)**
->   旨在解决早期心理学模型缺乏“分析认识论”根基的问题。以 Chinn, Buckland, & Samarapungavan (2011) 的 [[AIR Model of Epistemic Cognition\|AIR]] 模型为首，将其拆解为：**[[Epistemic Aims\|认识论目标]]（Epistemic aims，如追求理解或真理）**、**[[Epistemic Ideals\|认识论理想]]（Ideals，评价真理的标准）**以及**[[Reliable Epistemic Processes\|可靠过程]]（Reliable processes，实现目标的程序）**。
+>   旨在解决早期心理学模型缺乏“分析认识论”根基的问题。以 Chinn, Buckland, & Samarapungavan (2011) 的 [[AIR Model of Epistemic Cognition\|AIR]] 模型为首，将其拆解为：**[[Epistemic Aims\|认识论目标]]（Epistemic aims，如追求理解或真理）**、**[[Epistemic Ideals\|认识论理想]]（Ideals，评价真理的标准）** 以及 **[[Reliable Epistemic Processes\|可靠过程]]（Reliable processes，实现目标的程序）**。
 > - **学科/领域驱动模型 (Discipline-Driven Models)**
->   受[[Situative Perspective\|情境认知]]（situated cognition）启发，强调认识论高度依赖特定任务情境。如 Elby & Hammer (2001) 的“[[Epistemic Resources\|认识论资源]]”模型指出，学生会在分析史料时动态激活不同的认识论预设；而 Muis, Bendixen, & Haerle (2006) 则进一步系统化了[[Domain Specificity\|领域特异性]]的理论框架。
+>   受[[Situative Perspective\|情境认知]]（situated cognition）启发，强调认识论高度依赖特定任务情境。如 Elby and Hammer (2001) 的“[[Epistemic Resources\|认识论资源]]”模型指出，学生会在分析史料时动态激活不同的认识论预设；而 Muis, Bendixen, & Haerle (2006) 则进一步系统化了[[Domain Specificity\|领域特异性]]的理论框架。
 
 > [!theory-boundary] 概念隔离：与[[Constructivist Paradigm\|建构主义]]的边界
 > - **认识论认知 (Epistemic Cognition)** 旨在探究个人如何界定“知识的本质”及其确证过程。
@@ -229,7 +229,7 @@ issuing_organization: ""
 > > [!axis] 争议焦点一：学习本质（Nature of learning）是否属于认识论？
 > > 传统多维模型（如 Schommer, 1990）将“先天能力”和“学习速度”纳入认识论，但后续学者认为它们属于智力内隐理论。元分析发现，这些因素的效应量（$r = .137 \sim .199$）并不比核心认识论构念低。
 > > - **Schommer-Aikins (2004)** 认为学习速度等特质紧密关系到学生如何处理复杂信息。
-> > - **[[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]]** 主张将其划归为非认识论因素，因为它们描述的是学习者的心理特性而非知识本身的性质。
+> > - **[[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]]** 主张将其划归为非认识论因素，因为它们描述的是学习者的心理特性而非知识本身的性质。
 > 
 > > [!axis] 争议焦点二：[[Constructivist Paradigm\|建构主义]]（Constructivism）是否等同于认识论认知？
 > > 部分研究（如 Oh et al., 2016）使用建构主义量表测量认识论认知。尽管元分析显示其预测效力极高（$r = .191$），但这引发了概念混淆。
@@ -350,16 +350,16 @@ issuing_organization: ""
 
 > [!concept-lens] 认知加工层级与任务特异性
 > 过去的研究常把学业成就作为一个同质的[[Dependent Variable\|因变量]]，掩盖了认识论认知在不同认知层次任务中的差异化表现。本研究依据认知心理学对学业成就的加工层级进行了精细化解构：
-> - **高阶加工任务（Higher-Order Processing）** 包含**概念性知识（Conceptual Knowledge）**与**论证表现（Argumentation）**，要求协调多源信息、评估证据权重并重构直觉图式。
-> - **低阶记忆任务（Lower-Order Processing）** 包含**陈述性知识（Declarative Knowledge）**与**[[Procedural Knowledge\|程序性知识]]（[[Procedural Knowledge]]）**，主要考核封闭性事实的复述与算法规则的套用。
+> - **高阶加工任务（Higher-Order Processing）** 包含**概念性知识（Conceptual Knowledge）** 与**论证表现（Argumentation）**，要求协调多源信息、评估证据权重并重构直觉图式。
+> - **低阶记忆任务（Lower-Order Processing）** 包含**陈述性知识（Declarative Knowledge）** 与 **[[Procedural Knowledge\|程序性知识]]（[[Procedural Knowledge]]）**，主要考核封闭性事实的复述与算法规则的套用。
 
 > [!chain-link] 证据到判断
 > - **高阶成就类型的强挂钩与低阶任务断层** 元分析亚组分析揭示了显著的认知阶梯效应：
->   - 认识论认知对**概念性知识（$r = .190$）**与**论证能力（$r = .154$）**表现出极强的正向关联，构成了预测效力的核心阵地；
+>   - 认识论认知对**概念性知识（$r = .190$）** 与**论证能力（$r = .154$）** 表现出极强的正向关联，构成了预测效力的核心阵地；
 >   - 对综合性通用成就（GPA / 统考，$r = .160$）保持稳健正相关；
->   - 而对底层机械的**陈述性知识（$r = .127$）**和**程序性知识（$r = .077$）**效应量急剧衰减，程序性知识的 95% CI 跨越 0（$[-.102, .251]$），在统计学上不显著异于 0。
+>   - 而对底层机械的**陈述性知识（$r = .127$）** 和**程序性知识（$r = .077$）** 效应量急剧衰减，程序性知识的 95% CI 跨越 0（$[-.102, .251]$），在统计学上不显著异于 0。
 > - **学段（[[Educational Level]]）的“反直觉”倒挂** 传统阶段发展理论（如 Perry）默认儿童与青少年缺乏成熟认识论思维。然而数据显示，**初中生（$r = .246$）和小学生（$r = .212$）的整体效应量显著高于大学生（$r = .131$）**，且初中生与大学生的 95% CI 完全不重叠，颠覆了大学专属性假设。
-> - **成就测量方式的客观性惩罚** 采用**标准化测试（$r = .214$）**和研究者开发客观测试（$r = .177$）的研究效应量，显著碾压参与者主观自报成绩（$r = .083$），证实主观报告的测量误差严重稀释了理论关联。
+> - **成就测量方式的客观性惩罚** 采用**标准化测试（$r = .214$）** 和研究者开发客观测试（$r = .177$）的研究效应量，显著碾压参与者主观自报成绩（$r = .083$），证实主观报告的测量误差严重稀释了理论关联。
 
 > [!ma-table]- 表 12：成就类型调节变量分析
 > | 成就类型 (Achievement Type) | 样本数 (k) | 效应量 (ES) | 95% CI | 认知加工层级特征 |

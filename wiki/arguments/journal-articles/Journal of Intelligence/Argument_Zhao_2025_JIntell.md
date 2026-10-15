@@ -141,7 +141,7 @@ status: draft
 > |---|---|---|---|
 > | **Liu (2022)** | 数学教育 | [[Critical Thinking\|批判性思维]]、[[Creativity\|创造性思维]]、问题解决技能、[[Metacognition\|元认知]] | [[FocusMath\|聚焦数学]]劣构情境中的多路径建模与反思推演 |
 > | **Xu et al. (2024)** | 信息技术教育 | 问题解决能力、[[Computational Thinking\|计算思维]]、[[Creativity\|创造力]] | 关注算法设计、逻辑排错与动态情境适应能力 |
-> | **Tan & Cho (2021)** | 翻译学研究 | [[Critical Thinking\|批判性思维]]、[[Creativity\|创造性思维]]、交际思维、情感认知 | 强调跨语言转译中的批判审校与文本再创造 |
+> | **Tan and Cho (2021)** | 翻译学研究 | [[Critical Thinking\|批判性思维]]、[[Creativity\|创造性思维]]、交际思维、情感认知 | 强调跨语言转译中的批判审校与文本再创造 |
 > | **Hwang et al. (2018)** | 跨学科综合领域 | 协作、沟通、复杂问题解决、[[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]] | 二十一世纪[[21st Century Skills and Competencies Discourse\|核心素养]]导向的多维综合心智系统 |
 > | **Alkhatib (2022); Yang (2015); Ilgun Dibek et al. (2024)** | **跨学科综合领域** | **[[Critical Thinking\|批判性思维]]、[[Problem Solving\|问题解决能力]]、[[Creativity\|创造力]]** | **确立高阶思维最受学界公认的三大核心[[Construct\|构念]]三角（基准理论模型）** |
 

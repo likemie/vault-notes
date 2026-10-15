@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Automation Bias
@@ -170,7 +170,7 @@ updated: 2026-10-07
 > [!concept-lens] 设计干预与人机交互重构
 > 探讨如何利用交互机制打破自动化偏差，培育批判性信任。
 
-> [!claim] Veluwenkamp & Buijsman (2025); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
+> [!claim] Veluwenkamp and Buijsman (2025); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **生产性[[Epistemic Friction|认知摩擦]]对盲从的解构** 克服强自动化偏差不能仅依赖道德说教或增加事后问责，而必须在人机交互节点主动注入[[Epistemic Friction|认识论摩擦]]。主要技术方案包括：
 > 1. **反思机器（Reflection Machines, RMs）** 嵌入关键决策节点的对话式反思[[AI Agent in Education|智能体]]，通过[[Socrates|苏格拉底]]式追问与对抗性质询，促使操作者阐明决策理由并重构审思投入；
 > 2. **[[Defeater|反驳型击败者]]（Rebutting Defeaters）** 在系统给出推荐的同时，自动凸显支持对立诊断或互斥解释的反常证据指标，直接赋予操作者质疑与抗辩算法的认知杠杆，从而维持操作者的认识权威与批判性信任（Critical Trust）。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–25)]]
@@ -185,7 +185,7 @@ updated: 2026-10-07
 > | **认知机制分流命题** | 弱偏差源于认知吝啬与启发替代，强偏差源于过度信任与认识顺从 | [[Man-Computer Symbiosis\|人机协同]]决策、航空驾驶、医疗辅助诊断 | Mosier et al. (1998); Skitka et al. (2000); [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]] |
 > | **自主侵蚀命题** | 强偏差通过抑制信念修正能力与剥落制度性权威双向削弱自主性 | 算法审计、高阶专业工作流、人工智能辅助办公 | [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]]; Mackenzie (2008); Stoljar (2000) |
 > | **道德失职命题** | 强偏差架空人在回路与有意义人类控制，违背人类尊严与道德审思义务 | 军事自主武器、临床急救、司法刑罚评估 | [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]]; Sparrow (2016); Santoni de Sio & van den Hoven (2018) |
-> | **摩擦干预命题** | 借助反思机器与反驳型击败者注入认知摩擦，重建批判性信任与可质询性 | 智能界面交互设计、人机团队安全架构 | Veluwenkamp & Buijsman (2025); [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]] |
+> | **摩擦干预命题** | 借助反思机器与反驳型击败者注入认知摩擦，重建批判性信任与可质询性 | 智能界面交互设计、人机团队安全架构 | Veluwenkamp and Buijsman (2025); [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]] |
 
 ---
 
@@ -240,7 +240,7 @@ updated: 2026-10-07
 > - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 系统构建弱/强自动化偏差理论模型，论证强自动化偏差作为[[Epistemic Deference|认识论顺从]]对自主能动性与道德责任的伦理侵蚀，并提出反思机器与[[Defeater|击败者设计]]框架。
 > - [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] — 在教育证据综合中探讨自动化偏差风险，提出通过多模型背对背提取与专家仲裁落实[[Meaningful Human Control|有意义的人类控制]]。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]]高等教育[[Generative Artificial Intelligence|生成式人工智能]]交互中的心智惰性，强调通过结构化支架注入[[Epistemic Friction|认识论摩擦]]以避免学生被动盲从。
-> - [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] — 诊断大语言模型（Large Language Models, LLMs）无摩擦委派对中间认识动作与[[Evaluative Judgement|评价性判断]]的剥离危害。
+> - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 诊断大语言模型（Large Language Models, LLMs）无摩擦委派对中间认识动作与[[Evaluative Judgement|评价性判断]]的剥离危害。
 
 ---
 

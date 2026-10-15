@@ -48,7 +48,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 ## 定义
@@ -93,7 +93,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 ---
 
 > [!line-a] 赢家与输家的主体分化
-> 空间分选不仅涉及地点，还涉及人口——Davidson & Rees-Mogg (1999) 预见的跨国认知精英（赢家）与无法适应新跨国世界的人群（输家）的分化，即 [[Geopolitical Subject]] 的分化：赢家是被成功塑造成适应全球竞争的主体，输家则是被排斥在这一主体形塑过程之外的人群（[[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.31–32]]）。
+> 空间分选不仅涉及地点，还涉及人口——Davidson and Rees-Mogg (1999) 预见的跨国认知精英（赢家）与无法适应新跨国世界的人群（输家）的分化，即 [[Geopolitical Subject]] 的分化：赢家是被成功塑造成适应全球竞争的主体，输家则是被排斥在这一主体形塑过程之外的人群（[[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.31–32]]）。
 
 > [!line-b] 主体分化的空间显影
 > Fan 等（2024）的 LISA 时空路径移动方向分析为主体分化提供了空间层面的显影证据：12 个省份呈协同正向增长（全部位于东部），12 个省份呈协同负向增长（集中在东北、西北和西南），6 个省份呈非协同增长（集中在中部）。东部已经进入"协同带动"阶段——赢家群体相互强化、共同上升；西部仍处于"低水平均衡"——输家群体缺乏增长极的有效辐射，集体停滞（[[Argument_Fan_Song_Zhai_2024_RSEE\|Fan et al., 2024, p. 72]]）。这种"群体向上"与"群体落后"的二元格局，正是 Moisio 描述的赢家-输家主体分化的空间显影。
@@ -111,13 +111,13 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 ## 理论语境
 
 > [!tip]-
-> - Sassen (2010) 的**驱逐（expulsion）**概念——
+> - Sassen (2010) 的**驱逐（expulsion）** 概念——
 > 
 > > "the core organizing logic of the POST-Keynesian world is not to VALUE people as workers and consumers, but to expel people and to destroy traditional capitalism to feed high finance and high tech" (cited in Moisio, 2022, p. 31)
 > > 
 > > 后凯恩斯主义世界的核心组织逻辑不是将人们作为工人和消费者来评价，而是驱逐人们和摧毁传统资本主义以满足高级金融和高科技的需求。
 > 
-> - Davidson & Rees-Mogg (1999) 的赢家与输家分析——预见了信息时代产生跨国认知精英与大量被边缘化人口之间的深刻分化([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.31–32]])。
+> - Davidson and Rees-Mogg (1999) 的赢家与输家分析——预见了信息时代产生跨国认知精英与大量被边缘化人口之间的深刻分化([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.31–32]])。
 > - Harvey 的资本主义空间动力学——空间分选可以被理解为[[Fixity-Motion Tension\|固着-流动张力]]在空间层面的具体表现。
 > - Zukin (2020) 的城市创新综合体分析——记录了科技如何成为城市化的驱动力。
 

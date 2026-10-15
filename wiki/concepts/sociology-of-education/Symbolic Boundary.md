@@ -13,7 +13,7 @@ related_color: "#99f6e4"
 confidence: high
 status: active
 created: '2026-05-08'
-updated: 2026-10-14
+updated: 2026-10-16
 tags:
   - symbolic-boundary
   - cultural-sociology
@@ -82,7 +82,7 @@ related_arguments:
 > | **表现形式** | 道德词汇、身份标识、偏见、排斥性常识[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]] | 资源分配不均、法律身份差异、阶层隔离、自治权限制 |
 > | **作用机制** | 差异道德化、边界自然化、排斥正当化 | 资源控制、配给壁垒、制度强制与社会再生产 |
 > | **演化关系** | 处于动态建构中，是社会边界的前夜与意识形态基础 | 是象征边界长期巩固并获得制度认可后的“硬化”产物[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 168)]] |
-> | **代表研究** | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]；[[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] | Lamont & Molnár (2002)；Bourdieu (1984) |
+> | **代表研究** | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]；[[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] | Lamont & Molnár (2002)；Bourdieu (1984) |
 
 ---
 
@@ -130,8 +130,8 @@ related_arguments:
 > [!concept-lens] 宏观课程霸权与国家文化界线构建
 > 探讨国家教育系统如何通过教科书将特定主导群体的文化自然化为全民族的常识，从而划定涵盖与排斥的符号边界。
 
-> [!claim] [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]]
-> **教科书对“中国文化”边界的公式化自然化** [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] 揭示了象征边界在国家教育层面上的宏观运作——国家通过 217 册必修教材系统性地划定“什么是中国文化”的边界[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 65)]]。教材通过将东亚命名为“[[Confucian Heritage Cultures\|儒家文化圈]]”、《论语》列为文化核心、[[Confucius\|孔子]]与西方智者并列，暗中建立了“中国文化 = 儒家文化 = 汉文化”的等式常识[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。这一符号边界将非汉族与非儒家传统排斥在“核心中华性”之外，导致少数民族与信教学生在接受官方课程时产生严重的[[Cultural Disembedding\|文化脱嵌]]与[[Reflexivity\|反思性]]疏离[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
+> [!claim] [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]]
+> **教科书对“中国文化”边界的公式化自然化** [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 揭示了象征边界在国家教育层面上的宏观运作——国家通过 217 册必修教材系统性地划定“什么是中国文化”的边界[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 65)]]。教材通过将东亚命名为“[[Confucian Heritage Cultures\|儒家文化圈]]”、《论语》列为文化核心、[[Confucius\|孔子]]与西方智者并列，暗中建立了“中国文化 = 儒家文化 = 汉文化”的等式常识[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。这一符号边界将非汉族与非儒家传统排斥在“核心中华性”之外，导致少数民族与信教学生在接受官方课程时产生严重的[[Cultural Disembedding\|文化脱嵌]]与[[Reflexivity\|反思性]]疏离[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
 
 ---
 
@@ -151,7 +151,7 @@ related_arguments:
 > | 命题类型 | 分析层次 | 核心机制 | 代表学者 |
 > |:---|:---|:---|:---|
 > | **微观习性与道德区隔** | 微观个体 / 大学[[Champ\|场域]] | 阶层习性转化为“淳朴 vs. 功利”的道德拒斥与自我标识[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023)]] | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] |
-> | **宏观课程与符号霸权** | 宏观制度 / 教科书场域 | 国家通过[[Official Knowledge\|官方知识]]自然化“中国文化=汉儒文化”边界[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024)]] | [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] |
+> | **宏观课程与符号霸权** | 宏观制度 / 教科书场域 | 国家通过[[Official Knowledge\|官方知识]]自然化“中国文化=汉儒文化”边界[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024)]] | [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] |
 > | **边界硬化与结构再生产** | 中观—宏观跨层 | 主观道德拒斥阻断文化资本传递，硬化为客观[[Social Boundary\|社会边界]] | Lamont & Molnár (2002) |
 
 ---
@@ -163,7 +163,7 @@ related_arguments:
 > - **1992–2002 年 — 象征边界与社会边界框架建立** — Michèle Lamont 在 *Money, Morals, and Manners* (1992) 及 Lamont & Molnár (2002) 中明确提出“象征边界”概念，将道德边界与阶级/文化边界并列，并阐明象征边界硬化为社会边界的理论机制。
 > - **2015 年 — 理论扩展与综述** — Lamont et al. (2015) 在 *International Encyclopedia of the Social & Behavioral Sciences* 中系统整理差异道德化、自然化与排斥正当化三大环节。
 > - **2023 年 — 中文高等教育[[Champ\|场域]]应用** — [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] 将象征边界运用于中国精英大学第一代大学生研究，揭示“目标掌控者”与“直觉依赖者”之间的道德[[Discourse|话语]]排斥[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 168)]]。
-> - **2024 年 — 国家课程与[[Official Knowledge\|官方知识]]场域应用** — [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] 将象征边界从微观人际互动扩展至国家教科书（217 册）研究，分析[[Official Knowledge\|官方知识]]对“汉儒中华性”的符号边界自然化与少数民族的[[Reflexivity\|反思性]]回应[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
+> - **2024 年 — 国家课程与[[Official Knowledge\|官方知识]]场域应用** — [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 将象征边界从微观人际互动扩展至国家教科书（217 册）研究，分析[[Official Knowledge\|官方知识]]对“汉儒中华性”的符号边界自然化与少数民族的[[Reflexivity\|反思性]]回应[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
 
 ---
 
@@ -184,7 +184,7 @@ related_arguments:
 
 > [!critique]- 外部批评
 > - **文化过度道德化风险** — 部分批评指出，过分强调“道德化区隔”可能忽视了行动者在日常实践中的[[Pragmatic Paradigm\|实用主义]]策略与非道德化的情境适应。
-> - **[[Official Knowledge\|官方知识]]边界的排他性后果** — [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] 强调，国家若在课程中单向固化汉儒符号边界，将削弱多民族多元一体的实质凝聚力，加剧边缘群体的符号剥夺感[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 72)]]。
+> - **[[Official Knowledge\|官方知识]]边界的排他性后果** — [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 强调，国家若在课程中单向固化汉儒符号边界，将削弱多民族多元一体的实质凝聚力，加剧边缘群体的符号剥夺感[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 72)]]。
 
 > [!warning] 适用局限
 > 象征边界概念适用于文化社会学、教育社会学及微观互动/宏观[[Discourse Analysis\|话语分析]]，不宜将其直接代替客观的法律自治权或经济阶层指标分析。
@@ -195,7 +195,7 @@ related_arguments:
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 实证揭示中国精英大学中优势与弱势阶层学生如何通过“有趣”与“淳朴”的道德[[Discourse|话语]]构建象征边界。
-> - [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] — 实证分析 217 册必修教材中“中国文化=儒家文化”符号边界的构建及其在少数民族学生中的[[Cultural Disembedding\|文化脱嵌]]效应。
+> - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 实证分析 217 册必修教材中“中国文化=儒家文化”符号边界的构建及其在少数民族学生中的[[Cultural Disembedding\|文化脱嵌]]效应。
 > - [[China Basic Education Curriculum Reform]] — 2001 年基础教育课程改革出台的必修教材充当了国家符号边界自然化的制度载体。
 
 ---

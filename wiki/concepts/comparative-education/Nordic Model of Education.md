@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-22'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Nordic Model of Education
@@ -50,7 +50,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **北欧教育模式（Nordic Model of Education）**是指自 20 世纪 20 年代起在瑞典、挪威、丹麦、芬兰和冰岛等北欧福利国家逐步发展起来的公共教育[[Paradigm\|范式]]。该模式以民主（democracy）、团结（solidarity）和公平（equality）为基础，通过设立统一的公立基础教育学校、提供均等的教学资源以及公共财政支持高等教育，致力于消除阶级壁垒，促进社会的整体和谐与代际流动（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 8]]）。在新自由主义全球治理下，该模式受到绩效测量和市场竞争逻辑的冲击（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 8–10]]）。
+> **北欧教育模式（Nordic Model of Education）** 是指自 20 世纪 20 年代起在瑞典、挪威、丹麦、芬兰和冰岛等北欧福利国家逐步发展起来的公共教育[[Paradigm\|范式]]。该模式以民主（democracy）、团结（solidarity）和公平（equality）为基础，通过设立统一的公立基础教育学校、提供均等的教学资源以及公共财政支持高等教育，致力于消除阶级壁垒，促进社会的整体和谐与代际流动（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 8]]）。在新自由主义全球治理下，该模式受到绩效测量和市场竞争逻辑的冲击（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 8–10]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向一套非竞争性、强调社会包容和福利国家整合的教育供给体系与平等主义价值体系。
@@ -111,5 +111,5 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff (2024)]] — 分析了芬兰传统上承载北欧福利国家民主团结理想的教育体系，如何在 21 世纪被新自由主义治理和[[Global Education Industry\|全球教育产业]]重塑。
+> - [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024)]] — 分析了芬兰传统上承载北欧福利国家民主团结理想的教育体系，如何在 21 世纪被新自由主义治理和[[Global Education Industry\|全球教育产业]]重塑。
 > - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — [[Systematic Review\|系统综述]]揭示了北欧模式如何作为各国回应 [[PISA]] 的文化-制度转译框架：挪威案例展示了北欧模式与 PISA 公平框架的天然契合，以及挪威语中 accountability 缺失对测试问责的文化免疫力。

@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-15
-updated: 2026-10-12
+updated: 2026-10-16
 ---
 
 # Academy Programme in England
@@ -67,7 +67,7 @@ updated: 2026-10-12
 > [!policy-design]- 政策设计
 > - **政策目标** 扩大单个学校的办学自主，并通过横向的校际互助结构提升整个学校系统的自我改进能力。
 > - **适用对象** 英格兰公立学校，包括既有学校转为学院以及新设立的自由学校;约四分之三的学校在观察期内未采用学院身份。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 120–121)]]
-> - **政策工具** 给予学校直接拨款与办学自主权，同时以学院链与**多学院信托（Multi-Academy Trust, MAT）**作为治理与互助的组织形式。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p.120)]]
+> - **政策工具** 给予学校直接拨款与办学自主权，同时以学院链与**多学院信托（Multi-Academy Trust, MAT）** 作为治理与互助的组织形式。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p.120)]]
 > - **约束机制** 学院获得的自主空间与既有的严密问责框架并存，后者包括国家课程、全国考试、学校层面成绩公布、最低标准、定期督导与公开分级报告以及对薄弱学校的干预。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 121–122)]]
 
 > [!citation-card] 关键判断
@@ -122,7 +122,7 @@ updated: 2026-10-12
 > > [!axis] 自主扩张是否带来改进
 > > 各方对学院获得的办学自主能否转化为学校改进存在分歧。
 > >
-> > - **[[Argument_Brown_Greany_2018_LPS\|Brown & Greany（2018）]]** 自主空间的扩大并未自动提升学校的[[Research Utilization\|研究使用]]能力，反而在严密问责下被导向对问责指标的追逐。
+> > - **[[Argument_Brown_Greany_2018_LPS\|Brown and Greany（2018）]]** 自主空间的扩大并未自动提升学校的[[Research Utilization\|研究使用]]能力，反而在严密问责下被导向对问责指标的追逐。
 > > - **[[OECD]]（2011, 2015）** 高自主须与高问责和高能力建设同时存在才能奏效。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p.121)]]
 >
 > > [!axis] 学院链是否加剧分层

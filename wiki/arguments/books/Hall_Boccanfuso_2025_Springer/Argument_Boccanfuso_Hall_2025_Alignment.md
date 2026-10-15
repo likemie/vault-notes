@@ -62,7 +62,7 @@ related_instruments:
   - "[[Heilmeier Catechism]]"
 status: draft
 created: 2026-05-26
-updated: 2026-10-04
+updated: 2026-10-16
 subtype: book-chapter
 publication_type: book
 title: "Argument_Boccanfuso_Hall_2025_Alignment"
@@ -95,7 +95,7 @@ citation_aliases:
 
 > [!abstract]
 - [[University-Industry Collaboration]] — 核心概念，定义为"有目的的、对齐的参与"（purposeful and aligned engagement），涵盖研究与学术、教育与学习、公共效益三大维度
-- [[Triple Helix]]（三重螺旋）— Etzkowitz & Leydesdorff(1995)提出，将大学-产业-政府之间的反馈循环理解为相互支撑的关系结构，在[[Innovation Ecosystem|创新生态系统]]的历史脉络中被引用(p.13)
+- [[Triple Helix]]（三重螺旋）— Etzkowitz and Leydesdorff(1995)提出，将大学-产业-政府之间的反馈循环理解为相互支撑的关系结构，在[[Innovation Ecosystem|创新生态系统]]的历史脉络中被引用(p.13)
 - [[Multi-University]]（多元大学）— Clark Kerr(2001)对美国现代综合性大学的描述：广泛而扩张，以文化、教育、发现、创新乃至医疗保健等多元方式触及社区和社会(p.5)
 
 ---
@@ -237,7 +237,7 @@ citation_aliases:
 - **1914 年 [[Smith Lever Act of 1914|Smith Lever Act]]** 在赠地大学建立农业推广服务（extension services），直接支持美国农业产业，建立起了连接研究与实际应用的制度桥梁。
 - **1920 年前** 美国大学的核心特征——博士教育（受德国大学启发）、专业学位项目、产学互动以及作为制度价值的学术自由与客观性——已基本确立。
 
-与欧洲国家不同，美国从未采用国立大学体系，公共大学由各州负责，独立私立大学同时繁荣发展。Hollingsworth & Hollingsworth（2011, p.27）指出："现代社会中持续高水平的激进创新需要组织形式的多样性、组织结构的[[Heterogeneity|异质性]]和思想的多样性"——这些正是美国体系的特征(p.12)。
+与欧洲国家不同，美国从未采用国立大学体系，公共大学由各州负责，独立私立大学同时繁荣发展。Hollingsworth and Hollingsworth（2011, p.27）指出："现代社会中持续高水平的激进创新需要组织形式的多样性、组织结构的[[Heterogeneity|异质性]]和思想的多样性"——这些正是美国体系的特征(p.12)。
 
 ---
 

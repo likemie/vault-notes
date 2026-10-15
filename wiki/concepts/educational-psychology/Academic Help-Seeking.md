@@ -54,7 +54,7 @@ related_arguments:
   - "[[Argument_Chen_Cheung_2025_ERR]]"
   - "[[Argument_Li_2012_Cambridge]]"
 created: 2026-09-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Academic Help-Seeking
@@ -172,7 +172,7 @@ updated: 2026-10-15
 > | **自我调节属性** | 适应性求助是元认知调控与资源管理的高阶认知策略。 | 复杂学业[[Problem Solving\|问题解决]]、[[Learner Autonomy\|自主学习]]与元认知发展 | Zimmerman; Pintrich; Karabenick |
 > | **求助恐惧阻碍** | 害怕暴露愚蠢与负面社会评价诱发求助回避，阻碍认知发展。 | 传统班级课堂、[[High-Stakes Testing\|高利害评估]]与师生互动 | Bornschlegl et al.; Ryan & Pintrich |
 > | **文化信念调节** | 东方视求助为谦逊美德（无羞感），西方易将求助视为能力缺陷。 | [[Intercultural Education\|跨文化教育]]心理学、同伴互动与比较教育 | [[Argument_Li_2012_Cambridge\|Li (2012)]] |
-> | **技术去威胁赋能** | 生成式 AI 消除社会评价风险与权力壁垒，释放提问动能并驱动立场跃迁。 | 人工智能教育应用、[[Man-Computer Symbiosis\|人机协同]]探究与统计推论学习 | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]]; [[Argument_Wu_2025_ER\|Wu et al. (2025)]] |
+> | **技术去威胁赋能** | 生成式 AI 消除社会评价风险与权力壁垒，释放提问动能并驱动立场跃迁。 | 人工智能教育应用、[[Man-Computer Symbiosis\|人机协同]]探究与统计推论学习 | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]]; [[Argument_Wu_2025_ER\|Wu et al. (2025)]] |
 
 ---
 
@@ -182,7 +182,7 @@ updated: 2026-10-15
 > - **1980 年代 — 从依赖行为向自我调节认知策略转向** Nelson-Le Gall（1981）提出工具性求助理论，打破了将求助视作被动依赖或无能表现的传统偏见，确立了学业求助作为主动认知调节策略的理论地位。
 > - **1990 年代 — 成就目标取向与求助威胁模型** Karabenick 等人将学业求助与成就目标理论结合，揭示掌握目标促进工具性求助、表现目标诱发求助回避（Help-Seeking Avoidance）的心理机制。
 > - **2012 年 — 文化生态与社会符号学审视** [[Argument_Li_2012_Cambridge\|Li (2012)]] 揭示文化价值体系对求助意义的深层建构，对比了西方“自我威胁/能力暴露”与东方“[[Self-Cultivation\|修身]][[Humility\|谦逊]]/同学支持”的[[Cultural Models\|文化模型]]差异。
-> - **2025 年 — 生成式 AI 介入与人机求助心理学重塑** [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] [[Meta-analysis\|元分析]]证实生成式 AI 显著降低高校求助焦虑（$g^+ = 0.617$）；[[Argument_Wu_2025_ER\|Wu et al. (2025)]] 进一步揭示低威胁人机求助如何帮助先验知识薄弱者克服求助恐惧，进而作为阶梯驱动学习者向评价论[[Epistemic Stances\|认识立场]]演进。
+> - **2025 年 — 生成式 AI 介入与人机求助心理学重塑** [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] [[Meta-analysis\|元分析]]证实生成式 AI 显著降低高校求助焦虑（$g^+ = 0.617$）；[[Argument_Wu_2025_ER\|Wu et al. (2025)]] 进一步揭示低威胁人机求助如何帮助先验知识薄弱者克服求助恐惧，进而作为阶梯驱动学习者向评价论[[Epistemic Stances\|认识立场]]演进。
 
 ---
 
@@ -190,5 +190,5 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 阐释求助恐惧对认识探索的阻碍，论证生成式 AI 的拟人化与无偏见特征如何提供低威胁求助环境，并结合[[Scaffolding\|教学支架]]促进自适应[[Epistemic Stances\|认识立场]]演进。（pp. 361–362）
-> - [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] — 基于大样本[[Meta-analysis\|元分析]]确证生成式 AI 对大学生[[Affective Outcomes\|情感动机]]的显著促进，揭示其消除传统高权力距离师生互动中提问求助焦虑的“权力壁垒破除机制”。（pp. 10–13, 16）
+> - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — 基于大样本[[Meta-analysis\|元分析]]确证生成式 AI 对大学生[[Affective Outcomes\|情感动机]]的显著促进，揭示其消除传统高权力距离师生互动中提问求助焦虑的“权力壁垒破除机制”。（pp. 10–13, 16）
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 比较文化心理学奠基专著，深度剖析东方“同学文化”将同伴求助定义为[[Humility\|谦逊]]美德与西方同伴文化将求助视作能力暴露的系统差异。（pp. 106–108, 2933–2935）

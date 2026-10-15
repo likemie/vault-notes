@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Varieties of Capitalism
@@ -203,7 +203,7 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] — 运用 VoC 框架系统分析跨国公司在[[Corporate Education|企业教育]]全球化中的组织分化，解释为何德国[[German Dual Education System|双元制]][[Apprenticeship|学徒制]]在海外跨国移植中遭遇排异失败。
 > - [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]] — 将 VoC 理论拓展至高等教育部门，揭示美、德、挪三国在[[Academic Capitalism|学术资本主义]]与大学学费改革中因[[Institutional Complementarity|制度互补性]]与合法性框架产生的[[Path Dependence|路径依赖]]分化。
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 批判资本主义多样性框架中制度互补性的功能主义静态假设与连续性偏误，揭示先进资本主义体制向[[Liberalization|自由化]]渐进漂移的微观变迁机制。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 批判资本主义多样性框架中制度互补性的功能主义静态假设与连续性偏误，揭示先进资本主义体制向[[Liberalization|自由化]]渐进漂移的微观变迁机制。
 
 ---
 
@@ -225,4 +225,4 @@ updated: 2026-10-15
 > | [[Kathleen Thelen]] | Person | 比较政治学家与历史制度主义领军学者，系统揭示劳资与技能形成制度在互补性表象下的渐进转型机制。 |
 > | [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] | Argument | 运用 VoC 透镜解释 IVET 难以国际化及美国 MNCs 垄断全球企业教育市场的核心实证文献。 |
 > | [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017)]] | Argument | 将 VoC 框架引入高等教育领域并揭示学术资本主义跨国多样性机制的奠基文献。 |
-> | [[Argument_Streeck_Thelen_2005_OUP\|Streeck & Thelen (2005)]] | Argument | 提出过程与结果二元矩阵、批判 VoC 超稳定偏误并建构渐进制度变迁形态学的里程碑著作。 |
+> | [[Argument_Streeck_Thelen_2005_OUP\|Streeck and Thelen (2005)]] | Argument | 提出过程与结果二元矩阵、批判 VoC 超稳定偏误并建构渐进制度变迁形态学的里程碑著作。 |

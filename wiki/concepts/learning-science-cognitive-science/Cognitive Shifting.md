@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Cognitive Shifting
@@ -111,5 +111,5 @@ updated: 2026-09-17
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie (2017)]] — 系统阐述认知转换的定义、转换成本、测量工具、发展轨迹及其与[[Executive Function\|执行功能]]、[[Prefrontal Cortex\|前额叶皮层]]的关系。
+> - [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] — 系统阐述认知转换的定义、转换成本、测量工具、发展轨迹及其与[[Executive Function\|执行功能]]、[[Prefrontal Cortex\|前额叶皮层]]的关系。
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 在[[Meta-analysis\|元分析]]中指出[[Cognitive Flexibility\|认知灵活性]]（转换）是[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]共同依赖的执行功能成分之一。

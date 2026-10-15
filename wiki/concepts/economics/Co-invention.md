@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 
 # Co-invention
@@ -53,7 +53,7 @@ updated: 2026-10-14
 ## 定义
 
 > [!def] 核心定义
-> **共同发明（Co-invention / 用户协同发明）**是指当[[General Purpose Technology|通用目的技术]]（General Purpose Technology, GPT）或重大信息技术平台引入下游应用部门时，采用该技术的企业与用户组织为了使新技术适应自身特定的业务场景、工作流程与组织架构，必须自主开展的一系列互补性二次研发、流程再造、软件定制与组织制度创新活动（Bresnahan & Greenstein, 1996）。蒂莫西·布雷斯纳汉（Timothy Bresnahan）与谢恩·格林斯坦（Shane Greenstein）指出，信息技术供应商所提供的标准化硬件或基础软件仅仅是未完成的半成品，技术潜能无法自动转化为经济绩效；只有当下游用户投入大量[[Tacit Knowledge|隐性知识]]与资本进行共同发明时，通用技术才能真正嵌入现实生产系统。[[David C. Mowery|大卫·莫厄里]]（David C. Mowery）进一步强调，由于信息技术创新高度依赖用户与供应商之间的双向共同发明，大规模部署与先导应用能够催化海量的用户端试错与试验，从而显著反哺和加速基础技术的演进与改良。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 185)]]
+> **共同发明（Co-invention / 用户协同发明）** 是指当[[General Purpose Technology|通用目的技术]]（General Purpose Technology, GPT）或重大信息技术平台引入下游应用部门时，采用该技术的企业与用户组织为了使新技术适应自身特定的业务场景、工作流程与组织架构，必须自主开展的一系列互补性二次研发、流程再造、软件定制与组织制度创新活动（Bresnahan & Greenstein, 1996）。蒂莫西·布雷斯纳汉（Timothy Bresnahan）与谢恩·格林斯坦（Shane Greenstein）指出，信息技术供应商所提供的标准化硬件或基础软件仅仅是未完成的半成品，技术潜能无法自动转化为经济绩效；只有当下游用户投入大量[[Tacit Knowledge|隐性知识]]与资本进行共同发明时，通用技术才能真正嵌入现实生产系统。[[David C. Mowery|大卫·莫厄里]]（David C. Mowery）进一步强调，由于信息技术创新高度依赖用户与供应商之间的双向共同发明，大规模部署与先导应用能够催化海量的用户端试错与试验，从而显著反哺和加速基础技术的演进与改良。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 185)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向技术扩散中用户端不可或缺的定制化开发、流程再造与互补性资产重组过程。
@@ -63,7 +63,7 @@ updated: 2026-10-14
 > [!citation-card] 用户共同发明对技术改良与演进的加速
 > 正如布雷斯纳汉与格林斯坦所指出的，信息技术领域的绝大部分创新过程都包含着技术用户与技术供应商共同参与的共同发明。这种共同发明的重要性意味着，某一新技术的规模化部署能够激发更多由用户驱动的试验，进而加速该技术的精细化、创新与改进。
 >
-> *As Bresnahan & Greenstein (1996) have pointed out, much of the innovation process in IT involves "co-invention" on the part of users as well as technology suppliers. The importance of this co-invention means that large-scale deployment of a given new technology can spark more user-driven experimentation, thereby accelerating refinement, innovation, and improvement.* [[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 185)]]
+> *As Bresnahan and Greenstein (1996) have pointed out, much of the innovation process in IT involves "co-invention" on the part of users as well as technology suppliers. The importance of this co-invention means that large-scale deployment of a given new technology can spark more user-driven experimentation, thereby accelerating refinement, innovation, and improvement.* [[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 185)]]
 
 > [!boundary]- 概念边界
 > - **不等于 单向技术采纳（Technology Adoption）** 单向采纳强调用户被动接受现成技术；共同发明强调用户必须作为能动创造者对自身组织结构、业务模式与配套软件进行[[Creativity|创造性]]重构。

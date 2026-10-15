@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Metascience
@@ -65,7 +65,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **元科学（Metascience）**，亦称**科学的科学（Science of Science）**或“关于研究的研究”（Research on Research），是将实证[[Scientific Method|科学方法]]、量化评估与机制设计理论反身应用于科学事业自身运作规律的研究与治理领域。它系统审视科研选题、同行评议、资助规则、行政文书负担、项目经理自由裁量权以及科研组织形态的有效性，致力于通过严谨的对照实验（如资助机制的[[Random Assignment|随机化]]试验）与制度分析，减少科研行政摩擦、对齐激励机制并提升国家研发资本的整体配置效率。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21, 30–32)]]
+> **元科学（Metascience）**，亦称**科学的科学（Science of Science）** 或“关于研究的研究”（Research on Research），是将实证[[Scientific Method|科学方法]]、量化评估与机制设计理论反身应用于科学事业自身运作规律的研究与治理领域。它系统审视科研选题、同行评议、资助规则、行政文书负担、项目经理自由裁量权以及科研组织形态的有效性，致力于通过严谨的对照实验（如资助机制的[[Random Assignment|随机化]]试验）与制度分析，减少科研行政摩擦、对齐激励机制并提升国家研发资本的整体配置效率。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21, 30–32)]]
 
 > [!concept-lens] 概念透镜
 > - **核心含义** 研究对象不是具体的自然或工程现象，而是探索这些现象的**科学社会组织系统与资源配置规则**。

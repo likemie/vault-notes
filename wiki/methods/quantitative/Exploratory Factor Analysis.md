@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Exploratory Factor Analysis
@@ -62,7 +62,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> **探索性因子分析（Exploratory Factor Analysis, EFA）** 是一种用于识别多[[Variable\|变量]]数据底层结构的多元统计降维技术。它在未预先指定具体测量题项与潜在维度一一对应关系的探索性前提下，通过对一组观测[[Variable\|变量]]之间的协方差或相关矩阵进行分解，将原始变量分解为少数几个共同解释大部分协方差的**潜在公共因子（Common Factors）**与各个变量特有的**独特性方差与测量误差（Unique Factors）**，从而揭示潜藏于可观测数据背后的理论[[Construct\|构念]]维度。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, p. 24)]]
+> **探索性因子分析（Exploratory Factor Analysis, EFA）** 是一种用于识别多[[Variable\|变量]]数据底层结构的多元统计降维技术。它在未预先指定具体测量题项与潜在维度一一对应关系的探索性前提下，通过对一组观测[[Variable\|变量]]之间的协方差或相关矩阵进行分解，将原始变量分解为少数几个共同解释大部分协方差的**潜在公共因子（Common Factors）** 与各个变量特有的**独特性方差与测量误差（Unique Factors）**，从而揭示潜藏于可观测数据背后的理论[[Construct\|构念]]维度。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, p. 24)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 新开发的态度与行为[[Likert Scale\|李克特量表]][[Questionnaire\|问卷]]数据、尚未确立成熟维度结构的测评指标体系、多重连续或类别观测变量。
@@ -182,6 +182,6 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 运用主轴因子分析结合 Promax 斜交旋转，在 $\text{KMO} = 0.81$ 支持下将奥地利校长对 22 项教育治理工具的态度降维提炼为 5 个核心政策维度（解释 42.1% 方差），并为后续[[Cluster Analysis\|聚类分析]]奠定了特征向量基础。
-> - [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015)]] — 量化部分利用探索性因子分析（EFA，带主成分提取）检验了包含 11 道题的教学信心量表结构，确认其单一维度结构并解释了 35.03% 的累积方差。
+> - [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015)]] — 量化部分利用探索性因子分析（EFA，带主成分提取）检验了包含 11 道题的教学信心量表结构，确认其单一维度结构并解释了 35.03% 的累积方差。
 > - [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] — 对 447 名十年级中学生的 Schommer 修订版[[Epistemology\|认识论]][[Questionnaire\|问卷]]（[[Schommer's Modified Epistemological Questionnaire\|SMEQ]]）52 个题项进行主轴探索性因子分析与方差最大旋转，提取出固定与快速学习能力（FQAL）、[[Simplicity of Knowledge\|简单知识]]（SK）和确定知识（CK）三个核心因子（解释 16.81% 方差）。
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 对 310 名中小学教师的 56 个初测题项进行主轴因子提取法（Principal Axis Factoring, PAF）与方差最大正交旋转（Varimax Rotation），经矫正题总相关与载荷准则逐题筛选，在 KMO 系数（$\text{KMO} = 0.966$）支持下，最终提取出涵盖技能、态度、使用与意识的 4 因子 20 题结构（解释 62.602% 累积方差）。

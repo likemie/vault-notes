@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # AI Deterrence
@@ -145,7 +145,7 @@ updated: 2026-10-15
 > [!concept-lens] 战略博弈与单边停滞风险
 > 探讨在缺乏可信多边核查机制的前提下，西方单方面叫停先进大模型研发是否会导致致命的战略失衡。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **打造锐利工具与大国防御责任** 尽管将武器系统与高自主性 AI 软件结合必然伴随着巨大风险，但试图叫停这些技术发展的建议是极其短视且被误导的。历史上的胜利者往往在最危险的时刻滋生盲目自满；西方必须将精力集中于研制决定本世纪均势的下一代 AI 武器软件，而非在道德洁癖与单边暂停中将地缘主导权拱手让人。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 26–28)]]
 
 ---

@@ -71,7 +71,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-07'
-updated: 2026-10-14
+updated: 2026-10-16
 year: 2022
 doi: ""
 citation_aliases:
@@ -98,7 +98,7 @@ Moisio 从多学科传统中整合理论资源，构建分析[[Knowledge-Based E
 - Jessop(2005)的[[Cultural Political Economy|文化政治经济学]]（CPE）— 提供"想象"（imaginaries）在资本积累体制中的构成性和履行性角色分析，以及 KBE 作为"元治理"（meta-governance）对象的定位(pp.23, 26)
 - Gramsci(1971)的[[Hegemony|霸权理论]] — 论证资本积累体制的巩固需要"智识、政治和道德领导力"来将新体制转译进整个社会(p.26)
 - Porter(1990)的 [[National Competitive Advantage|国家竞争优势]] 理论 — 被分析为典型的地缘政治想象，其悖论性主张（全球化使国家角色更重要）对政策制定产生深刻影响(pp.26–27)
-- Hardt & Negri(2000)的劳动[[Typological Analysis|类型分析]] — 为论证 KBE 不仅需要特定技能还需要"交际性、合作性和情感性劳动"提供理论支持(p.29)
+- Hardt and Negri(2000)的劳动[[Typological Analysis|类型分析]] — 为论证 KBE 不仅需要特定技能还需要"交际性、合作性和情感性劳动"提供理论支持(p.29)
 
 
 ## 研究方法
@@ -129,7 +129,7 @@ Moisio 首先论证 [[Knowledge-Based Economy|KBE]] 并非天然、必然的经�
 
 5. **Jessop 的元治理定位**KBE 被 Jessop(2005)定位为"霸权的元治理对象"（hegemonic meta-object of governance），是 Atlantic Fordism 资本积累体制危机的回应。关键洞察：KBE 的治理力量部分源于"众多行动者被征召其背后"，且 KBE 作为成功的经济治理依赖经济形式与额外经济形式（科学、教育、法律、社会制度、传统）的"共在"（[[Presence|co-presence]]）(p.23)。
 
-6. **Moisio 的[[Definition of Terms|操作性定义]]** 他将 KBE 定义为一种"实际存在的经济"（actually existing economy），其价值创造与提取以及国家间、城市间、区域间政治竞争的核心要素为知识、创新、学习、高等教育、研发、技术和创业精神。通过引用 Sum & Jessop（2013, p.284）关于"一般智识在知识和设计密集型商品中的价值化"的经典定义，以及 Dunning（2000, p.8）关于财富来源从自然资源→有形资产→无形资产转变的历史论证，Moisio 确立了 KBE 的经验可分析性(pp.23–24)。
+6. **Moisio 的[[Definition of Terms|操作性定义]]** 他将 KBE 定义为一种"实际存在的经济"（actually existing economy），其价值创造与提取以及国家间、城市间、区域间政治竞争的核心要素为知识、创新、学习、高等教育、研发、技术和创业精神。通过引用 Sum and Jessop（2013, p.284）关于"一般智识在知识和设计密集型商品中的价值化"的经典定义，以及 Dunning（2000, p.8）关于财富来源从自然资源→有形资产→无形资产转变的历史论证，Moisio 确立了 KBE 的经验可分析性(pp.23–24)。
 
 ### 第二步：方法论转向——从 KBE 到知识经济化（2.3）
 
@@ -165,7 +165,7 @@ Moisio 首先论证 [[Knowledge-Based Economy|KBE]] 并非天然、必然的经�
 
 **3d. Porter 的悖论：全球化强化国家角色**
 
-Moisio 引入 Porter(1990)的 [[National Competitive Advantage|国家竞争优势]] 理论作为关键的地缘政治想象例证。Porter 的核心主张——"竞争优势通过高度本地化的过程被创造和维持……虽然竞争全球化看似使国家变得不那么重要，但实际上使其更加重要"——具有巨大的话语力量(p.27)。同时期，经济地理学家 Storper & Harrison(1991)和 Scott(1991)也论证了[[Post-Fordism|后福特主义]]中"子国家'区域'"对网络发展和经济增长的重要性——本地基础设施、传统、专业化服务、以及"组织和个人之间的相互信任和关系"。
+Moisio 引入 Porter(1990)的 [[National Competitive Advantage|国家竞争优势]] 理论作为关键的地缘政治想象例证。Porter 的核心主张——"竞争优势通过高度本地化的过程被创造和维持……虽然竞争全球化看似使国家变得不那么重要，但实际上使其更加重要"——具有巨大的话语力量(p.27)。同时期，经济地理学家 Storper and Harrison(1991)和 Scott(1991)也论证了[[Post-Fordism|后福特主义]]中"子国家'区域'"对网络发展和经济增长的重要性——本地基础设施、传统、专业化服务、以及"组织和个人之间的相互信任和关系"。
 
 **3e. Hub and [[Flow]] 想象的崛起**
 
@@ -199,7 +199,7 @@ Moisio 在结论中勾勒了知识经济化的当代演变和后果：
 
 3. **三个[[Research Problem|研究议题]]** (1) KBE 通过不同种类的空间分选被根本性地构成——这些分选既包含又排斥地点和行动者；(2) 后凯恩斯主义世界的核心组织逻辑是对人和传统资本主义的"驱逐"(expulsion, Sassen, 2010)以喂养高科技和高金融的需求；(3) 国家在导致空间分裂的过程中扮演关键但研究不足的角色(pp.31–32)。
 
-4. **[[Progressive Neoliberalism|进步新自由主义]]的消退** Moisio 援引 Davidson & Rees-Mogg(1999)近二十年前的预测——信息社会将产生"跨国认知精英"（赢家）与无法适应新跨国世界的人（输家）之间的深刻分化——论证这正是在欧洲和其他地区过去十年中实际发生的现象，"那些处于金字塔底部的人转向了高度报复性的民族主义政治"(pp.31–32)。Nancy Fraser(2019)关于 [[Progressive Neoliberalism|进步新自由主义]] 正在蒸发的论断被用来支撑这一观察——这种作为过去三十年知识经济化主要政治推力的"硅谷世界观"正在受到挑战。
+4. **[[Progressive Neoliberalism|进步新自由主义]]的消退** Moisio 援引 Davidson and Rees-Mogg(1999)近二十年前的预测——信息社会将产生"跨国认知精英"（赢家）与无法适应新跨国世界的人（输家）之间的深刻分化——论证这正是在欧洲和其他地区过去十年中实际发生的现象，"那些处于金字塔底部的人转向了高度报复性的民族主义政治"(pp.31–32)。Nancy Fraser(2019)关于 [[Progressive Neoliberalism|进步新自由主义]] 正在蒸发的论断被用来支撑这一观察——这种作为过去三十年知识经济化主要政治推力的"硅谷世界观"正在受到挑战。
 
 Moisio 以对批判研究者的呼吁结束：(1) 不仅要审视 KBE 的空间组织，还要考察"知识工作者在这样一种经济形式之下和之中工作和生活的肉身表现和体验"；(2) 分析"日常国家性"（everyday statehood）——国家政策如何在日常层面控制和操纵公民和人力资本；(3) 将大学作为"知识经济化下的地缘政治场所"进行系统研究，需要"各种创新的[[Ethnography|民族志]]和其他方法"(pp.31–32)。
 

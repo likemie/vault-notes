@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Data Transformation
@@ -42,16 +42,16 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 数据转换（Data Transformation / Data [[Institutional Conversion|conversion]]）
-> [[Mixed Methods Research\|混合方法研究]]中将一种类型的数据转换为另一种类型的策略。Teddlie & Tashakkori (2009, p. 27) 将其称为"数据转换"（data conversion / transformation）：质性数据被"量化"（quantitized）——转换为数字（通常为名义或序数尺度）；量化数据被"质化"（qualitized）——转换为叙事，然后用质性数据分析程序处理（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1）。
+> [[Mixed Methods Research\|混合方法研究]]中将一种类型的数据转换为另一种类型的策略。Teddlie and Tashakkori (2009, p. 27) 将其称为"数据转换"（data conversion / transformation）：质性数据被"量化"（quantitized）——转换为数字（通常为名义或序数尺度）；量化数据被"质化"（qualitized）——转换为叙事，然后用质性数据分析程序处理（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1）。
 
-在 Creswell & Creswell (2022) 的框架中，数据转换是[[Convergent Design|聚敛式设计]]（Convergent Design）中三种整合分析方式之一。具体操作是将质性主题或编码进行计数（并可能分组），形成量化测量指标。这一方法在量化训练背景的研究者中较受欢迎（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.238]]）。
+在 Creswell and Creswell (2022) 的框架中，数据转换是[[Convergent Design|聚敛式设计]]（Convergent Design）中三种整合分析方式之一。具体操作是将质性主题或编码进行计数（并可能分组），形成量化测量指标。这一方法在量化训练背景的研究者中较受欢迎（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.238]]）。
 
 ---
 
 ## 两种转换方向
 
 > [!line-a] 量化（Quantitizing）
-> 将质性数据转换为数值形式。例如给特定回应、编码或主题赋予**频率计数（frequency counts）**以建立规律性或特殊性（Sandelowski et al., 2009, p. 210），或赋予**强度[[Rating Scale\|评定量表]]（rating scales of intensity, Teddlie and Tashakkori, 2009, p. 269）**。Miles & Huberman (1994) 是这一方法的早期倡导者。Bazeley (2006, p. 68) 报告了可辅助研究者的软件（如 [[Qualitative Computer Software\|QDAS]]），例如用于频率计数。
+> 将质性数据转换为数值形式。例如给特定回应、编码或主题赋予**频率计数（frequency counts）** 以建立规律性或特殊性（Sandelowski et al., 2009, p. 210），或赋予**强度[[Rating Scale\|评定量表]]（rating scales of intensity, Teddlie and Tashakkori, 2009, p. 269）**。Miles and Huberman (1994) 是这一方法的早期倡导者。Bazeley (2006, p. 68) 报告了可辅助研究者的软件（如 [[Qualitative Computer Software\|QDAS]]），例如用于频率计数。
 
 > [!line-b] 质化（Qualitizing）
 > 将量化数据转换为叙事形式，然后用质性数据分析程序处理。例如将[[Questionnaire\|问卷调查]]中的数值回答转化为关于参与者经验的叙事性描述，或从统计模式中提取质性主题。
@@ -60,20 +60,20 @@ updated: 2026-10-15
 
 ## 在整合策略中的位置
 
-数据转换是 Caracelli & Greene (1993) 提出的四种[[Mixed Methods Research|混合方法]]数据整合策略之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
+数据转换是 Caracelli and Greene (1993) 提出的四种[[Mixed Methods Research|混合方法]]数据整合策略之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!finding-cards]
-> - **数据转换（data transformation）**将一种数据类型转换为另一种——本条目
-> - **类型学发展（typology development）**从一组数据产生的分类被应用到另一组数据
-> - **极端案例分析（extreme case analysis）**在一种数据中发现的极端值使用不同数据和方法探索
-> - **数据合并（data consolidation/merging）**通过合并数据创建新[[Variable\|变量]]
+> - **数据转换（data transformation）** 将一种数据类型转换为另一种——本条目
+> - **类型学发展（typology development）** 从一组数据产生的分类被应用到另一组数据
+> - **极端案例分析（extreme case analysis）** 在一种数据中发现的极端值使用不同数据和方法探索
+> - **数据合并（data consolidation/merging）** 通过合并数据创建新[[Variable\|变量]]
 
-在 Creswell & Creswell (2022) 的[[Convergent Design|聚敛式设计]]中，数据转换是三种整合分析方式之一：
+在 Creswell and Creswell (2022) 的[[Convergent Design|聚敛式设计]]中，数据转换是三种整合分析方式之一：
 
 > [!abstract] 聚敛式设计的三种整合方式
-> 1. **并排比较（side-by-side comparison）**在讨论部分先报告量化结果再讨论质性发现，不做形式化转换
-> 2. **数据转换（data transformation）**将质性主题/编码转化为量化变量，合并分析
-> 3. **[[Joint Display\|联合展示]]（joint display）**在表格或图表中合并呈现两组数据，已成为[[Integration in Mixed Methods\|混合方法整合]]的标准程序
+> 1. **并排比较（side-by-side comparison）** 在讨论部分先报告量化结果再讨论质性发现，不做形式化转换
+> 2. **数据转换（data transformation）** 将质性主题/编码转化为量化变量，合并分析
+> 3. **[[Joint Display\|联合展示]]（joint display）** 在表格或图表中合并呈现两组数据，已成为[[Integration in Mixed Methods\|混合方法整合]]的标准程序
 
 三种方式的核心区别在于：数据转换改变了质性数据的形态（从文本到数字），而并排比较和联合展示保持了两种数据的原始形态。
 

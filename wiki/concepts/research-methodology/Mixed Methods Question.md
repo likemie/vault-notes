@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Mixed Methods Question
@@ -51,7 +51,7 @@ updated: 2026-10-15
 > [!quote]
 > "The mixed methods question addresses what the researcher hopes to learn with the combination (integration) of the quantitative and qualitative data."（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）
 
-混合方法[[Research Question|研究问题]]是研究方法论中的一个新概念，与其他研究方法教科书中的问题类型不同。其正式讨论始于 Tashakkori & Creswell (2007) 在 Journal of Mixed Methods Research 上发表的社论（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
+混合方法[[Research Question|研究问题]]是研究方法论中的一个新概念，与其他研究方法教科书中的问题类型不同。其正式讨论始于 Tashakkori and Creswell (2007) 在 Journal of Mixed Methods Research 上发表的社论（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
 
 ---
 
@@ -111,7 +111,7 @@ updated: 2026-10-15
 > 虽然作者将其表述为[[Purpose Statement\|目的陈述]]而非[[Research Question\|研究问题]]，但这些目标对应于量化、质性和混合方法的三部分结构。
 
 > [!example]
-> DeCoito & Estaiteyeh (2022) 研究了加拿大一个省份科学／[[STEM Education\|STEM]] 教师在线教学与学习的经历（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）。他们的研究问题是：
+> DeCoito and Estaiteyeh (2022) 研究了加拿大一个省份科学／[[STEM Education\|STEM]] 教师在线教学与学习的经历（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）。他们的研究问题是：
 >
 > 1. 教师在在线环境中使用了哪些数字工具和资源？（描述性量化问题）
 > 2. 教师的在线课程开发和实施采用了哪些策略？（描述性量化问题）

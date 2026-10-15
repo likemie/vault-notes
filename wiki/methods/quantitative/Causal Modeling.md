@@ -57,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-03
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Causal Modeling
@@ -217,4 +217,4 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] — 在 Mplus 中使用复合抽样校正（Type=Complex）构建潜[[Variable\|变量]]结构方程模型，检验了科学知识确定性信念在中介认知能力、家庭[[Cultural Capital\|文化资本]]与高中毕业成绩之间的因果路径，并估计了跨期潜变量回归。
+> - [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] — 在 Mplus 中使用复合抽样校正（Type=Complex）构建潜[[Variable\|变量]]结构方程模型，检验了科学知识确定性信念在中介认知能力、家庭[[Cultural Capital\|文化资本]]与高中毕业成绩之间的因果路径，并估计了跨期潜变量回归。

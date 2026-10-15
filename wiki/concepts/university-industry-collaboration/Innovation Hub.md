@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Innovation Hub
@@ -87,7 +87,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **创新中心（Innovation Hub / 创新枢纽 / 基于地点的创新中心）**是一种基于特定地理区位的跨部门研发与产业化协同组织，将区域内的核心利益相关者——[[Research Universities|研究型大学]]、领军企业、初创公司、风险投资者、国家实验室与地方政府紧密组织起来，围绕区域比较优势与国家战略需求形成共同愿景，系统催化新技术的早期发现、中试工程验证、商业化部署及其配套高技能劳动力培养。在实践中，创新中心既是产学研联合体中深度协同的最高形态，也是现代国家产业战略重塑区域[[Industrial Commons|制造业公地]]与供应链安全的核心载体。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 112–113)]]; [[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 124, 137)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 54–55)]]
+> **创新中心（Innovation Hub / 创新枢纽 / 基于地点的创新中心）** 是一种基于特定地理区位的跨部门研发与产业化协同组织，将区域内的核心利益相关者——[[Research Universities|研究型大学]]、领军企业、初创公司、风险投资者、国家实验室与地方政府紧密组织起来，围绕区域比较优势与国家战略需求形成共同愿景，系统催化新技术的早期发现、中试工程验证、商业化部署及其配套高技能劳动力培养。在实践中，创新中心既是产学研联合体中深度协同的最高形态，也是现代国家产业战略重塑区域[[Industrial Commons|制造业公地]]与供应链安全的核心载体。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 112–113)]]; [[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 124, 137)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 54–55)]]
 
 > [!concept-lens] 概念透镜
 > - **核心使命** 打破传统高校象牙塔与工业界之间的隔阂，通过人际交互密度与共享工程设施，将实验室科学发现迅速转化为具备可制造性与商业[[Competitiveness|竞争力]]的实体产品。
@@ -230,7 +230,7 @@ updated: 2026-10-15
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统论述如何通过开放国家实验室用户设施、建立共享[[Pilot Scale Platform|中试平台]]，将创新中心打造成维系国家制造韧性的战略枢纽。
-> - [[Argument_Byrne_2025_InnovationCenters|Byrne & Clements (2025)]] — 结合 [[TUFF]] 实践阐明创新中心核心信条，剖析 [[Research Triangle Park|RTP]]、[[Tech Square at Georgia Tech|Tech Square]] 与[[Purdue Discovery Park|普渡发现园]]的成功机制，提出“密度就是命运”[[Paradigm|范式]]。
+> - [[Argument_Byrne_2025_InnovationCenters|Byrne and Clements (2025)]] — 结合 [[TUFF]] 实践阐明创新中心核心信条，剖析 [[Research Triangle Park|RTP]]、[[Tech Square at Georgia Tech|Tech Square]] 与[[Purdue Discovery Park|普渡发现园]]的成功机制，提出“密度就是命运”[[Paradigm|范式]]。
 > - [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]] — 深度剖析基于地点的创新中心治理架构，分析大企业、高校与政府在创新中心中的差异化价值主张与契约设计。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统剖析现代半导体创新体系中大学如何依托 [[Albany NanoTech Complex|Albany NanoTech]] 与 MIT.nano 打造中试物理共置枢纽，跨越 [[Technology Readiness Level|TRL]] 4–6 转化断层。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 阐述《[[CHIPS and Science Act|芯片与科学法案]]》下 [[National Science and Technology Council|NSTC]] 分布式专业化中试技术中心与 DoD 微电子公地 8 大区域创新枢纽（Innovation Hubs）的协同转化网络。

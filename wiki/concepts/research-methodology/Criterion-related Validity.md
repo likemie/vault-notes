@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-23
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Criterion-related Validity
@@ -66,7 +66,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> [[Criterion-related Validity\|效标关联效度]]（Criterion-related Validity，亦称效标效度）指通过将某一特定测量工具的结果与另一个公认有效且独立的**外部效标（External Criterion）**进行统计关联，以此确立该工具测量有效性的方法学体系（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, p. 179]]; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 6–8]]）。其基本逻辑是：若新工具的得分能够高度吻合或准确预测公认有效的外部标准，则该工具的有效性与实践价值获得实证支持。
+> [[Criterion-related Validity\|效标关联效度]]（Criterion-related Validity，亦称效标效度）指通过将某一特定测量工具的结果与另一个公认有效且独立的**外部效标（External Criterion）** 进行统计关联，以此确立该工具测量有效性的方法学体系（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, p. 179]]; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 6–8]]）。其基本逻辑是：若新工具的得分能够高度吻合或准确预测公认有效的外部标准，则该工具的有效性与实践价值获得实证支持。
 
 > [!concept-lens] 概念透镜
 > - **含义** 效标关联效度回答的是：“该工具的得分在多大程度上与真实的外部行为表现或成熟的金标准吻合？”

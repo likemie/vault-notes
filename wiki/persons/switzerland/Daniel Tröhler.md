@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Daniel Tröhler
@@ -91,5 +91,5 @@ updated: 2026-10-07
 ## 争议与批评
 
 > [!critique]- 批评与应用索引
-> - [[Argument_Yan_2025_JCS\|Yan & Morris (2025)]] — 应用 Tröhler 的“国家利益驱动论”，解释了[[Liberal Studies\|香港通识教育科]]（Liberal Studies）的废除并非遵循全球课程科学，而是直接服从于国家安全和国族建构的政治竞争逻辑。(p. 483)
+> - [[Argument_Yan_2025_JCS\|Yan and Morris (2025)]] — 应用 Tröhler 的“国家利益驱动论”，解释了[[Liberal Studies\|香港通识教育科]]（Liberal Studies）的废除并非遵循全球课程科学，而是直接服从于国家安全和国族建构的政治竞争逻辑。(p. 483)
 > - [[World Society Theory]] — Tröhler 批评该理论将课程变迁归因于中性的全球文化扩散，指出其抹去了地缘政治冲突、大国支配和本国政治控制的权力维度。

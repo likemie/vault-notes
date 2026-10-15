@@ -50,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Three-Level Mechanism Model of PISA's Impact on Education Policy
@@ -63,7 +63,7 @@ updated: 2026-10-15
 > - **解释对象** [[PISA]] 的国际评估结果如何以及在什么条件下影响各国（nation-states）的基础教育改革政策。
 > - **理论问题** 为什么具有相似 PISA 成绩或排名的国家会启动完全不同的教育政策？PISA 的影响机制如何超越国家层面的分析，将超国家组织和内部行动者网络纳入同一解释框架？
 > - **理论类型** 中层机制模型（middle-range mechanism model），整合超国家、国家层面和内部行动者三个分析层级。
-> - **知识位置** 基于对 85 篇 PISA 政策影响实证研究的[[Systematic Review\|系统综述]]，Li, Xue & Guo（2025）整合了议程设置理论、[[Actor-Network Theory\|行动者网络理论]]和体用框架等多元理论资源，构建了这一综合模型。
+> - **知识位置** 基于对 85 篇 PISA 政策影响实证研究的[[Systematic Review\|系统综述]]，Li, Xue and Guo（2025）整合了议程设置理论、[[Actor-Network Theory\|行动者网络理论]]和体用框架等多元理论资源，构建了这一综合模型。
 
 > [!claim] 核心主张
 > PISA 对各国教育政策的影响并非从 [[OECD]] 到国家的线性传递，而是在超国家组织（OECD 的软治理与[[Reference Society\|模范社会]]塑造）、国家层面（[[Policy Borrowing\|政策借用]]、自我认知落差与文化传统转译）和内部行动者网络（政策制定者、政党、协会、媒体对 PISA 信息的诠释与传递）三层机制的[[Interaction Effect\|交互作用]]下实现的。不同国家的政策回应差异取决于这三层机制在该国具体历史、社会、政治和文化条件下的组合方式。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]

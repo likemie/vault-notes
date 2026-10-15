@@ -68,7 +68,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Epistemic Ideals
@@ -176,7 +176,7 @@ updated: 2026-10-15
 > [!concept-lens] 算法均质化与规范重塑
 > 探讨大语言模型无差别表层流畅性如何侵蚀分化的学科[[Evidence Standards\|证据标准]]，阐明人机时代规范性认识理想的重构路径。
 
-> [!claim] [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]
+> [!claim] [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]
 > **算法抹平学科证据标准与关系性主体性重塑** 各学科对于何为有效证据、合理解释与正当推论拥有严格分化的认识论理想（Goldman et al., 2016）：历史学依赖一手档案溯源与版本考证；实证科学依赖受控随机实验、统计功效与[[Effect Size\|效应量]]检验；哲学伦理学依赖概念严密性与命题有效性。然而，[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）的通用综合语调抹平了这些学科分化，以表面流畅的无差别假答案掩盖证据缺陷，阻碍了学生进入专业知识共同体的认识论社会化。同时，传统追求完全脱离外部支持的孤立自足认识理想在智能时代已不现实；教育应当确立“关系性认识主体性”这一新型规范性认识理想，引导学生在依托工具的同时牢固掌握对证据充分性与学科标准的最终裁决权。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 6–7)]]
 
 > [!claim] Han & Gutierez
@@ -203,7 +203,7 @@ updated: 2026-10-15
 > - **2011 — 扩展构件模型提出** Chinn 等学者提出扩展认识论认知五构件框架，将确证标准明确置于探究目标与[[Causal Processes\|因果过程]]的网络之中。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011)]]
 > - **2014 — [[AIR Model of Epistemic Cognition\|AIR]] 理论模型确立** Chinn, Rinehart & Buckland 正式提出 AIR 理论架构，将[[Epistemology\|认识论]]理想（Ideals）确立为与[[Epistemic Aims\|认识目标]]（Aims）及[[Reliable Epistemic Processes\|可靠过程]]（Reliable Processes）并列的三大核心构件。
 > - **2025 — 论证评价中位模板与实质转向** Duncan & Chinn 建立观察与证据整合的规范性理想模板，系统论证了认识论理想在科学论证质性评价中的不可替代性，推动论证评价由外在句法转向认识论实质。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025)]]
-> - **2026 — 算法均质化危机与关系性规范理想转向** Du & Yuan 揭示大语言模型的表层综合语调严重抹平历史学、实证科学与哲学等不同学科固有的认识论理想，提出在人工智能深度中介环境下，规范性认识理想应由“孤立自足的认知者”转向“敢于质疑、对最终论断负责的关系性认识主体”。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026)]] 与此同时，[[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] 实证确立了显性[[Scientific Explanation|科学解释]]标准作为认识论理想在[[Man-Computer Symbiosis|人机协同]]探究中指导微观因果核验与图文重构的操作路径。
+> - **2026 — 算法均质化危机与关系性规范理想转向** Du & Yuan 揭示大语言模型的表层综合语调严重抹平历史学、实证科学与哲学等不同学科固有的认识论理想，提出在人工智能深度中介环境下，规范性认识理想应由“孤立自足的认知者”转向“敢于质疑、对最终论断负责的关系性认识主体”。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026)]] 与此同时，[[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] 实证确立了显性[[Scientific Explanation|科学解释]]标准作为认识论理想在[[Man-Computer Symbiosis|人机协同]]探究中指导微观因果核验与图文重构的操作路径。
 
 ---
 
@@ -247,19 +247,19 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] | $N = 332$ 名七年级学生，来自美国东部 24 个初中科学课堂 | [[Qualitative Content Analysis\|质性文本分析]]与课堂[[Discourse Analysis\|话语分析]]（基于 PRACCIS 课程干预） | 书面论证与口头话语中[[Epistemology\|认识论]]理想（全证据契合、直接性、决定性、收敛性）的调用 | 质性展现：优秀学生自发调用全证据契合与多源收敛反驳弱证据；部分学生因缺乏同源性知识而机械排斥间接证据 | — | 质性概念验证；揭示了认识论理想与学科实体知识的纠缠，未建立大规模标准化评分常模 |
-> | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] | $N = 8$ 名初中生（4 个合作小组） | 四层[[Multimodal Discourse Analysis\|多模态话语分析]]与微观发生学追踪 | 显性[[Scientific Explanation\|科学解释]]标准（认识论理想）在审验 AI 文本与图解中的调用与修正表现 | 实证展现：学生依据因果叙事与概念框架标准，精准识别 AI 文本的事实堆砌并重构器官协同因果链，补齐真菌界分类并修正根毛动态吸水图 | — | 质性案例证据，证实显性学科认识论理想在[[Man-Computer Symbiosis\|人机协同]]解释中的支架功能 |
+> | [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] | $N = 332$ 名七年级学生，来自美国东部 24 个初中科学课堂 | [[Qualitative Content Analysis\|质性文本分析]]与课堂[[Discourse Analysis\|话语分析]]（基于 PRACCIS 课程干预） | 书面论证与口头话语中[[Epistemology\|认识论]]理想（全证据契合、直接性、决定性、收敛性）的调用 | 质性展现：优秀学生自发调用全证据契合与多源收敛反驳弱证据；部分学生因缺乏同源性知识而机械排斥间接证据 | — | 质性概念验证；揭示了认识论理想与学科实体知识的纠缠，未建立大规模标准化评分常模 |
+> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] | $N = 8$ 名初中生（4 个合作小组） | 四层[[Multimodal Discourse Analysis\|多模态话语分析]]与微观发生学追踪 | 显性[[Scientific Explanation\|科学解释]]标准（认识论理想）在审验 AI 文本与图解中的调用与修正表现 | 实证展现：学生依据因果叙事与概念框架标准，精准识别 AI 文本的事实堆砌并重构器官协同因果链，补齐真菌界分类并修正根毛动态吸水图 | — | 质性案例证据，证实显性学科认识论理想在[[Man-Computer Symbiosis\|人机协同]]解释中的支架功能 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 将 Sandoval 四项[[Scientific Explanation|科学解释]]标准[[Operationalization|操作化]]为显性[[Epistemology|认识论]]理想，实证揭示其在[[Man-Computer Symbiosis|人机协同]]科学探究中指导微观因果核验与图文重构的支架机制。
+> - [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] — 将 Sandoval 四项[[Scientific Explanation|科学解释]]标准[[Operationalization|操作化]]为显性[[Epistemology|认识论]]理想，实证揭示其在[[Man-Computer Symbiosis|人机协同]]科学探究中指导微观因果核验与图文重构的支架机制。
 > - [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] — 提出包含[[Justificatory Standards\|确证标准]]与[[Epistemic Value\|认识价值]]在内的扩展[[Epistemic Cognition\|认识论认知]]构件，为[[Epistemology\|认识论]]理想的界定奠定理论基石。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 首个认识论干预因果[[Meta-analysis\|元分析]]，从量化层面证实聚焦认识论理想的显性教学能够带来中等偏上的[[Academic Achievement\|学业成就]]因果效应（$d = 0.509$），尤其对高阶论证表现（$d = 1.047$）效果突出，提供了认识论理想可教导性的实验证据。
-> - [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] — 将认识论理想作为论证质量评价的双轴核心之一，构建了核心科学实践的基准规范模板，并在初中课堂中实证检验其运作机制。
-> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 分析[[Generative Artificial Intelligence\|生成式人工智能]]抹平各学科认识论理想的表层假答案机制，提出确立关系性[[Epistemic Agency\|认识主体性]]以重塑[[Man-Computer Symbiosis|人机共生]]环境下的规范性认识标准。
+> - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 将认识论理想作为论证质量评价的双轴核心之一，构建了核心科学实践的基准规范模板，并在初中课堂中实证检验其运作机制。
+> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 分析[[Generative Artificial Intelligence\|生成式人工智能]]抹平各学科认识论理想的表层假答案机制，提出确立关系性[[Epistemic Agency\|认识主体性]]以重塑[[Man-Computer Symbiosis|人机共生]]环境下的规范性认识标准。
 
 ---
 
@@ -275,6 +275,6 @@ updated: 2026-10-15
 > | [[Epistemic Agency\|认识主体性]] | 实践主体 | 学习者通过共同体元认识论协商内化认识论理想，确立对知识评价与标准制定的自主权。 |
 > | [[Generative Artificial Intelligence\|生成式人工智能]] | 技术中介挑战 | 生成式模型用通用的表层流畅性抹平学科严密理想，诱导[[Epistemic Dependence\|认识依赖]]并削弱规范性评价标准。 |
 > | [[Epistemic Provocateur\|认识论挑衅者]] | 角色应对 | 显性认识论理想支持学习者将大模型的生成缺陷转化为认识论挑衅，阻断[[Cognitive Offloading\|认知卸载]]。 |
-> | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] | 实证支撑 | 确立论证评价的双轴模型，实证揭示认识论理想对科学论证品质的实质性决定作用。 |
-> | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] | 智能时代重构 | 论证人工智能扁平化学科认识理想的机制，阐明关系性认识主体性作为规范理想的重构路径。 |
-> | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] | 实证支架 | 揭示显性[[Scientific Explanation\|科学解释]]标准作为认识论理想在人机协同探究中指导因果机制审验的微观机制。 |
+> | [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] | 实证支撑 | 确立论证评价的双轴模型，实证揭示认识论理想对科学论证品质的实质性决定作用。 |
+> | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] | 智能时代重构 | 论证人工智能扁平化学科认识理想的机制，阐明关系性认识主体性作为规范理想的重构路径。 |
+> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] | 实证支架 | 揭示显性[[Scientific Explanation\|科学解释]]标准作为认识论理想在人机协同探究中指导因果机制审验的微观机制。 |

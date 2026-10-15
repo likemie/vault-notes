@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Initial Teacher Training
@@ -132,7 +132,7 @@ updated: 2026-10-15
 > [!concept-lens] 循证修辞与治理集权
 > 揭示表面上的办学主体多元化如何与国家层面的课程内容控制强化并存。
 
-> [!claim] [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]]
+> [!claim] [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]]
 > **[[Rationalized Myth\|合理化神话]]下的中央远程控制** 在[[Evidence Era\|证据时代]]，英格兰政府虽然在供给侧推进学校主导（School-led）的市场化分权，但在需求侧却借助[[Rationalized Myth\|合理化神话]]与[[Carter Review of Initial Teacher Training\|卡特审查]]，出台了高度精细的核心内容框架（[[Initial Teacher Training Core Content Framework\|CCF]]），通过规定新教师“必须了解什么”和“必须如何做”，实现了国家对职前培训知识内容的空前中央微观集权。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 90–94)]]
 
 ---
@@ -176,4 +176,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] — 历时追踪 1983–2019 年英格兰 ITT 政策文献与 20 位[[Elite Interview\|精英访谈]]，揭示从测量时代向[[Evidence Era\|证据时代]]的合法化[[Paradigm\|范式]]演进与国家把关机制。
+> - [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] — 历时追踪 1983–2019 年英格兰 ITT 政策文献与 20 位[[Elite Interview\|精英访谈]]，揭示从测量时代向[[Evidence Era\|证据时代]]的合法化[[Paradigm\|范式]]演进与国家把关机制。

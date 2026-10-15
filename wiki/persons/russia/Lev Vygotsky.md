@@ -16,7 +16,7 @@ person_related_color: "#ede9fe"
 confidence: high
 status: draft
 created: 2026-06-06
-updated: 2026-10-15
+updated: 2026-10-16
 born: "1896"
 died: "1934"
 lifespan: "1896–1934"
@@ -105,13 +105,13 @@ related_arguments:
 > 人类高级心理功能并非直接产生于生物神经刺激，而是由社会文化符号、语言与工具（Mediating Tools）所中介；学习是一个嵌入在社会历史与人际互动中的合作过程，学校系统教育通过传授科学概念引导认知发展。
 
 > [!claim] 科学概念与自发概念的分化
-> 维果茨基将概念区分为**科学概念（scientific concepts）**与**自发概念（spontaneous concepts）**。科学概念是在学校教育中系统传授的、具有明确逻辑体系与抽象结构的知识；自发概念是在日常生活经验中自然形成的、缺乏系统结构的知识。这一区分被[[Social Realism\|社会实在论]]（Social Realism）学者作为划分“日常知识”与“[[Epistemology\|认识论]]知识/强大知识”的关键来源。[[Argument_McPhail_2023_JCS\|(McPhail et al., 2023, p. 4)]]
+> 维果茨基将概念区分为**科学概念（scientific concepts）** 与**自发概念（spontaneous concepts）**。科学概念是在学校教育中系统传授的、具有明确逻辑体系与抽象结构的知识；自发概念是在日常生活经验中自然形成的、缺乏系统结构的知识。这一区分被[[Social Realism\|社会实在论]]（Social Realism）学者作为划分“日常知识”与“[[Epistemology\|认识论]]知识/强大知识”的关键来源。[[Argument_McPhail_2023_JCS\|(McPhail et al., 2023, p. 4)]]
 
 > [!claim] 社会文化互动与传统对话信念的亲和
 > 维果茨基断言社会互动是认知深化的核心中介。在东亚高压考试与教学改革语境中，这一论断被发现与[[Confucius\|孔子]]关于“启发式[[Dialogue in Education|对话教学]]有助于深度思考”的古老传统信念产生了深刻的[[Selective Affinity\|选择性亲和]]（Selective Affinity），帮助本土教师消解了对外来以学生为中心教育（[[Learner-Centred Education\|LCE]]）的异己感。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 596)]]
 
 > [!claim] [[Scaffolding\|认知支架]]与社会化引导
-> 维果茨基学派提出**认知支架（Cognitive Scaffolding）**与[[Zone of Proximal Development\|最近发展区]]理论，强调儿童并非在真空中孤立建构技能，而是通过社交世界（如照料者与教师）的持续引导获得文化性认知工具。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 198)]]
+> 维果茨基学派提出**认知支架（Cognitive Scaffolding）** 与[[Zone of Proximal Development\|最近发展区]]理论，强调儿童并非在真空中孤立建构技能，而是通过社交世界（如照料者与教师）的持续引导获得文化性认知工具。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 198)]]
 
 > [!citation-card]- 关键表述
 > 科学概念与自发概念的区分，为课程设计中理解日常知识与[[Theoretical Knowledge\|理论知识]]的区别提供了坚实基础。（p.4）
@@ -130,8 +130,8 @@ related_arguments:
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]] — 借用 Vygotsky 的科学概念与自发概念区分，论证社会实在论课程设计模型（CDCM）中知识连贯性的必要性。
-> - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 阐述 Vygotsky 社会文化互动理论在华北案例学校中与[[Confucius\|孔子]]对话传统产生的[[Selective Affinity\|选择性亲和]]，以及第一代活动理论在研究框架中的定位。
-> - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] — 引用 Vygotsky 社会文化理论（结合 Rose & Rose 1976），批判脑科学与[[Cognitive Load Theory\|认知负荷理论]]对教育社会性与关系维度的遮蔽。
+> - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 阐述 Vygotsky 社会文化互动理论在华北案例学校中与[[Confucius\|孔子]]对话传统产生的[[Selective Affinity\|选择性亲和]]，以及第一代活动理论在研究框架中的定位。
+> - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] — 引用 Vygotsky 社会文化理论（结合 Rose & Rose 1976），批判脑科学与[[Cognitive Load Theory\|认知负荷理论]]对教育社会性与关系维度的遮蔽。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 运用 Vygotsky 认知支架理论分析中美母亲-儿童对话（MCC）中的[[Parental Cognitive and Affective Socialization\|认知社会化]]话语机制。
 
 ---
@@ -151,7 +151,7 @@ related_arguments:
 > [!debates] 学术争议
 >
 > > [!axis] 社会文化关系维度 vs 生理还原论与[[Educational Neuroscience\|教育神经科学]]
-> > 维果茨基社会文化理论强调学习是嵌入在社会历史与人际交往中的动态合作过程；而新兴的教育神经科学与脑科学取向将学习简化为脑部神经元的信息处理过程。[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]]与 Rose & Rose（1976）批评脑科学绝不能消解社会学，强调应当保持两者之间的辩证互动。
+> > 维果茨基社会文化理论强调学习是嵌入在社会历史与人际交往中的动态合作过程；而新兴的教育神经科学与脑科学取向将学习简化为脑部神经元的信息处理过程。[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]]与 Rose and Rose（1976）批评脑科学绝不能消解社会学，强调应当保持两者之间的辩证互动。
 > >
 > > - **社会文化与关系维度派** 引用 Vygotsky 社会文化视角，批判教育神经科学遮蔽学习的社会与关系维度。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 121)]]
 > > - **脑科学 / 神经科学取向** 强调脑部信息加工与生理反应，倾向于将社会文化[[Variable\|变量]]视作次要干扰。
@@ -159,7 +159,7 @@ related_arguments:
 > > [!axis] 西方理想型解放对话 vs [[Gaokao\|高考]]约束下的[[Pragmatic Paradigm\|实用主义]]提分[[Recontextualization\|再脉络化]]
 > > 维果茨基的社会互动论在西方常被解读为追求民主自由探究与主体解放；但在东亚高压应试环境下，这一理论被实用主义地再脉络化为攻克高阶考题与提升 45 分钟课堂效率的工具。
 > >
-> > - **[[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]** 揭示了 Vygotsky 互动论在东亚高考制度约束下的实用主义提分转译与儒家亲和。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 596, 601)]]
+> > - **[[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]]** 揭示了 Vygotsky 互动论在东亚高考制度约束下的实用主义提分转译与儒家亲和。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 596, 601)]]
 
 ---
 

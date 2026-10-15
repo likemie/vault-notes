@@ -98,7 +98,7 @@ related_theories:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-21
+updated: 2026-10-16
 ---
 # Argument_Brown_Greany_2018_LPS
 
@@ -303,10 +303,10 @@ updated: 2026-09-21
 > [!row-contrast] 支撑证据常态化使用的领导力属性与共同体探究规范
 > | 支撑维度 | 核心内涵与组织机制 | 理论与实证来源 |
 > |---|---|---|
-> | **领导层的双重战略职能** | 领导者必须兼具变革型职能（确立全校证据知情愿景与组织承诺）与学习中心型职能（将教学与专业学习置于核心）。 | Timperley & Robertson（2011）; Robinson（2011） |
-> | **贯穿全校的分布式领导网络** | 领导力不仅属于正式行政管理层；拥有专业威望的非正式教师领导者往往决定改革举措在一线的真实采纳率。 | Spillane, Healey, & Kim（2010）; Ogawa & Bossert（1995） |
+> | **领导层的双重战略职能** | 领导者必须兼具变革型职能（确立全校证据知情愿景与组织承诺）与学习中心型职能（将教学与专业学习置于核心）。 | Timperley and Robertson（2011）; Robinson（2011） |
+> | **贯穿全校的分布式领导网络** | 领导力不仅属于正式行政管理层；拥有专业威望的非正式教师领导者往往决定改革举措在一线的真实采纳率。 | Spillane, Healey, & Kim（2010）; Ogawa and Bossert（1995） |
 > | **共同体的反思性专业探究** | 持续开展反思性[[Dialogue in Education\|对话]]、聚焦严肃教学难题、积极寻求新知识，并通过集体互动将默会经验显性化为共享方案。 | Stoll 等（2006）; Louis, Kruse, & Bryk（1995） |
-> | **基于专业自主的深度参与** | 实践者对研究的有意义参与建立在专业自信与内在学习需求之上，而非对外部行政指令的机械执行。 | Brown（2014）; Datnow & Hubbard（2015） |
+> | **基于专业自主的深度参与** | 实践者对研究的有意义参与建立在专业自信与内在学习需求之上，而非对外部行政指令的机械执行。 | Brown（2014）; Datnow and Hubbard（2015） |
 
 > [!boundary] 四[[Factorial Interpretive Framework\|因素分析框架]]的方法论边界与适用范围
 > - **框架的理论溯源** 本框架由规范性与实证性[[Literature Review\|文献综述]]提炼建构，并非基于[[Exploratory Factor Analysis\|探索性因子分析]]归纳得出的潜[[Variable\|变量]]测量模型，各维度间的因果结构关系仍有待进一步实证检验。（pp.126–127）

@@ -44,7 +44,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Poor Research Use
@@ -141,7 +141,7 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **知识病理异化** | 揭示劣质使用是脱离情境适切性与深思熟虑参与的病态实践 | 中小学引入外部科研方案或教学处方 | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022)]]; [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] |
+> | **知识病理异化** | 揭示劣质使用是脱离情境适切性与深思熟虑参与的病态实践 | 中小学引入外部科研方案或教学处方 | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022)]]; [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] |
 > | **组织归咎张力** | 揭示教师与管理层在劣质使用上的相互推诿源于组织使能真空 | 学校缺乏互信文化与专有研讨排程 | Rickinson et al. |
 
 ---
@@ -152,7 +152,7 @@ updated: 2026-10-15
 > - **1979 — [[Research Utilization\|知识利用]]概念分化** [[Carol Weiss\|卡罗尔·韦斯]]（Carol Weiss）系统提出研究利用的工具性、概念性与象征性/政治性分类，初步触及政策场景中证据被工具化甚至滥用的现象。
 > - **2007 — 证据误用与政策张力探讨** 桑德拉·纳特利（Sandra Nutley）等学者分析公共服务中证据运用的复杂阻滞，指出教条化循证实践可能带来负面扭曲效应。
 > - **2020–2022 — 学校实践情境下劣质使用概念的正式确立** 澳大利亚莫纳什 [[Monash Q Project\|Q Project]]（Monash Q Project）团队在建构[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]（QURE）过程中，通过对 906 名一线教育者的两轮[[Questionnaire\|问卷]]与[[In-depth Interview\|深度访谈]]，首次在实证上系统归纳了教育实践者对劣质研究使用（Poor Research Use）的四维质性定性，使其成为与高质量使用相呼应的核心学术分析范畴。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022, pp. 189–191)]]
-> - **2018 — 问责制度下追风风险的量化刻画** [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] 以“是否支持在缺乏研究支撑时实施全校性变革”一题的应答分布刻画学校层面的追风风险，并把成因追溯到考试本位问责对证据类型的筛选作用。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 129–130)]]
+> - **2018 — 问责制度下追风风险的量化刻画** [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] 以“是否支持在缺乏研究支撑时实施全校性变革”一题的应答分布刻画学校层面的追风风险，并把成因追溯到考试本位问责对证据类型的筛选作用。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 129–130)]]
 
 ---
 
@@ -175,7 +175,7 @@ updated: 2026-10-15
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022)]] | 澳大利亚 4 州公立、天主教与独立私立学校 906 名教育者（Survey 1 样本为 492 人，Survey 2 样本为 414 人）与 29 名[[In-depth Interview\|深度访谈]]者 | 两轮标准化李克特[[Questionnaire\|问卷调查]]与法典式主题分析深度访谈 | 劣质与[[Quality Use of Research Evidence Framework\|高质量研究使用]]质性定性；使用阻碍因素占比（缺乏质量判断信心、检索困难、时间赤字） | Table 9.1 四维质性归纳（虚妄证据、封闭心智、独断领导、落空成效）；44% 缺乏判断质量信心；64% 检索困难；76% 遭遇时间赤字；61% 因耗时过长认为使用不划算 | $p < .05$（质量判断信心与常规使用显著正相关） | 自陈调查与深度访谈能清晰揭示实践者主观认知与归咎分歧，但无法直接客观观测微观课堂中的具体教学生成效果 |
-> | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018, pp. 129–130)]] | 英格兰 79 所小学的 696 名教师与[[School Leadership\|学校领导]]者 | 横断面基线[[Questionnaire\|问卷]]（五级[[Likert Scale\|李克特量表]]） | 对“我不支持在缺乏研究支撑的情况下实施全校性变革”的认同分布 | 非常同意 13%、同意 37%、不确定 38%、不同意 12%、非常不同意 1%;即 50% 同意或非常同意，51% 为不确定或不同意（该比例在正文中记为 61%，与表内分布不一致） | — | 两种解释并存：学校易采纳未经检验的举措，或在问责压力下推测督导偏好而非查阅证据基础;基线数据不支持在两种解释之间作出判定 |
+> | [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018, pp. 129–130)]] | 英格兰 79 所小学的 696 名教师与[[School Leadership\|学校领导]]者 | 横断面基线[[Questionnaire\|问卷]]（五级[[Likert Scale\|李克特量表]]） | 对“我不支持在缺乏研究支撑的情况下实施全校性变革”的认同分布 | 非常同意 13%、同意 37%、不确定 38%、不同意 12%、非常不同意 1%;即 50% 同意或非常同意，51% 为不确定或不同意（该比例在正文中记为 61%，与表内分布不一致） | — | 两种解释并存：学校易采纳未经检验的举措，或在问责压力下推测督导偏好而非查阅证据基础;基线数据不支持在两种解释之间作出判定 |
 
 ---
 
@@ -183,4 +183,4 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022)]] — 依托[[Monash Q Project\|莫纳什 Q 项目]]系统提炼教育工作者关于劣质[[Research Utilization\|研究使用]]的质性定性，展示证据基础、心智倾向、[[School Leadership\|学校领导]]与实践成效的四维诊断矩阵。
-> - [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] — 以英格兰 79 所小学的基线调查显示，仅半数实践者反对在缺乏研究支撑时实施全校性变革，并把这一追风风险与问责框架对证据类型的筛选作用联系起来。
+> - [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] — 以英格兰 79 所小学的基线调查显示，仅半数实践者反对在缺乏研究支撑时实施全校性变革，并把这一追风风险与问责框架对证据类型的筛选作用联系起来。

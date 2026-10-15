@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # SPARK Literacy
@@ -55,7 +55,7 @@ updated: 2026-10-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **SPARK Literacy（SPARK 读写项目）**是由威斯康星州大密尔沃基男孩女孩俱乐部（Boys & Girls Clubs of Greater Milwaukee）与全美服务队（AmeriCorps）联合发起运营、密尔沃基公立学区广泛采纳的早期读写一对一辅导干预方案；其核心战略是招募有志于教育公益的大学毕业生与青年全职服务队成员，通过支付基础生活津贴（有偿志愿者）并配备专业读写教练，为学前班至小学二年级处于严重阅读障碍边缘的极度弱势儿童提供高频、密集的校内与课后个别化辅导。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> **SPARK Literacy（SPARK 读写项目）** 是由威斯康星州大密尔沃基男孩女孩俱乐部（Boys & Girls Clubs of Greater Milwaukee）与全美服务队（AmeriCorps）联合发起运营、密尔沃基公立学区广泛采纳的早期读写一对一辅导干预方案；其核心战略是招募有志于教育公益的大学毕业生与青年全职服务队成员，通过支付基础生活津贴（有偿志愿者）并配备专业读写教练，为学前班至小学二年级处于严重阅读障碍边缘的极度弱势儿童提供高频、密集的校内与课后个别化辅导。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 创立于 2010 年，依托联邦服务与社区参与基金（CNCS / AmeriCorps）专项支持，在密尔沃基高贫困城市小学网络深度运行至今逾十余年。

@@ -140,11 +140,11 @@ issuing_organization: ""
 > [!index-table] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **创造性思维** | 产生新颖、多向度且具适应性观念的认知发散与重构能力。 | 典型工具包含[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验（Torrance Tests of Creative Thinking, TTCT）]]图形版（TTCT-F）与言语版（TTCT-V）、[[Abbreviated Torrance Test for Adults\|成人托兰斯创造性思维简表（Abbreviated Torrance Test for Adults, ATTA）]]、[[Evaluation of Potential for Creativity\|创造潜能评估测验（Evaluation of Potential for Creativity, EPOC）]]；代表研究如 Karwowski & Soszynski (2008)、Puccio et al. (2020)；$N = 24, g = 0.671$。 |
+> | **创造性思维** | 产生新颖、多向度且具适应性观念的认知发散与重构能力。 | 典型工具包含[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验（Torrance Tests of Creative Thinking, TTCT）]]图形版（TTCT-F）与言语版（TTCT-V）、[[Abbreviated Torrance Test for Adults\|成人托兰斯创造性思维简表（Abbreviated Torrance Test for Adults, ATTA）]]、[[Evaluation of Potential for Creativity\|创造潜能评估测验（Evaluation of Potential for Creativity, EPOC）]]；代表研究如 Karwowski and Soszynski (2008)、Puccio et al. (2020)；$N = 24, g = 0.671$。 |
 > | **图形创造力** | 借助视觉表征与空间[[Topological Spatialisation\|拓扑重组]]新颖具象形态的图画创造能力。 | 典型工具包含 TTCT 图形版、[[Test for Creative Thinking-Drawing Production\|创造性思维绘画测验（Test for Creative Thinking-Drawing Production, TCT-DP）]]、[[Creative Engineering Design Assessment\|创意工程设计评估测验（Creative Engineering Design Assessment, CEDA）]]；代表研究如 West et al. (2012)、Morin et al. (2018)；$N = 27, g = 0.644$。 |
-> | **词汇创造力** | 基于字词语义进行快速远距离联想与新颖词汇重组的语言认知表现。 | 典型工具包含[[Remote Associates Test\|远距离联想测验（Remote Associates Test, RAT）]]、过泛思维任务（Over-Inclusive Thinking Task, OTT）；代表研究如 Chiu (2015)、Zitek & Vincent (2015)；$N = 16, g = 0.641$。 |
-> | **言语创造力** | 运用口头或书面语言生成丰富、多样且新颖观点与非常规用途的表达潜能。 | 典型工具包含[[Alternate Uses Test\|另类用途测验（Alternate Uses Test, AUT）]]、生成另类用途测验（Generation of Alternative Uses, GAU）、TTCT 言语版；代表研究如 Fink et al. (2015)、Lewis & Lovatt (2013)、Gu et al. (2023)；$N = 23, g = 0.606$。 |
-> | **情绪创造力** | 个体体验、表达与调节独特、复杂且适切情绪模式的非认知创造潜能。 | 典型工具包含[[Emotional Creativity Inventory\|情绪创造力量表（Emotional Creativity Inventory, ECI）]]、主观运动体验量表（Subjective Exercise Experiences Scale, SEES）；代表研究如 Mahasneh & Gazo (2019)、Campion & Levita (2014)；$N = 9, g = 0.397$。 |
+> | **词汇创造力** | 基于字词语义进行快速远距离联想与新颖词汇重组的语言认知表现。 | 典型工具包含[[Remote Associates Test\|远距离联想测验（Remote Associates Test, RAT）]]、过泛思维任务（Over-Inclusive Thinking Task, OTT）；代表研究如 Chiu (2015)、Zitek and Vincent (2015)；$N = 16, g = 0.641$。 |
+> | **言语创造力** | 运用口头或书面语言生成丰富、多样且新颖观点与非常规用途的表达潜能。 | 典型工具包含[[Alternate Uses Test\|另类用途测验（Alternate Uses Test, AUT）]]、生成另类用途测验（Generation of Alternative Uses, GAU）、TTCT 言语版；代表研究如 Fink et al. (2015)、Lewis and Lovatt (2013)、Gu et al. (2023)；$N = 23, g = 0.606$。 |
+> | **情绪创造力** | 个体体验、表达与调节独特、复杂且适切情绪模式的非认知创造潜能。 | 典型工具包含[[Emotional Creativity Inventory\|情绪创造力量表（Emotional Creativity Inventory, ECI）]]、主观运动体验量表（Subjective Exercise Experiences Scale, SEES）；代表研究如 Mahasneh and Gazo (2019)、Campion and Levita (2014)；$N = 9, g = 0.397$。 |
 > | **训练周期** | 干预方案实施的整体时间跨度，分为 $< 1$ 周、$< 2$ 个月、$< 4$ 个月、$< 1$ 年、$< 2$ 年、$< 3$ 年六个梯度。 | 短期密集工作坊至多学期长程课程；亚组分布 $N = 37, 30, 24, 9, 4, 5$；在元回归中解释 13.4% 组间方差。 |
 > | **训练方式** | 干预内容所依托的核心教学策略与认知路径，分为言语训练、思维训练、任务型训练、技术型训练、综合训练与情绪训练。 | 言语训练（$N = 15$）、思维训练（$N = 13$）、任务型训练（$N = 5$）、技术型训练（$N = 20$）、综合训练（$N = 54$）、情绪训练（$N = 2$）。 |
 > | **活动组织形式** | 训练实施过程中学习者参与互动的组织结构，分为独立个体练习与小组协作探究。 | 独立个体练习（$N = 48$）对比合作探究小组（$N = 61$）。 |
@@ -175,34 +175,34 @@ issuing_organization: ""
 > [!ref-table]- 纳入实证研究特征与干预方案清单（Table 4）
 > | 纳入研究（APA 格式） | 国别与样本构成 | 测量工具与实验设计 | 干预特征（训练方式 / 周期 / 组织形式） |
 > |---|---|---|---|
-> | Baruah & Paulus (2008) | 美国（ = 48 / CG = 48$） | 发散思维产出量；前后测设计（b: 替代训练） | 书面[[Brainstorming\|头脑风暴]]训练；< 1 周；小组协作 |
-> | Campion & Levita (2014) | 英国（$EG = 56 / CG = 56$） | SEES, [[Torrance Tests of Creative Thinking\|TTCT]]；实验组/对照组（b: 替代训练） | 言语训练；< 2 个月；独立练习 |
+> | Baruah and Paulus (2008) | 美国（ = 48 / CG = 48$） | 发散思维产出量；前后测设计（b: 替代训练） | 书面[[Brainstorming\|头脑风暴]]训练；< 1 周；小组协作 |
+> | Campion and Levita (2014) | 英国（$EG = 56 / CG = 56$） | SEES, [[Torrance Tests of Creative Thinking\|TTCT]]；实验组/对照组（b: 替代训练） | 言语训练；< 2 个月；独立练习 |
 > | Chiu (2015) | 中国台湾（$EG = 39 / CG = 39$） | OTT；实验组/对照组（b: 替代训练） | 综合训练；< 1 周；独立练习 |
 > | Fink et al. (2015) | 奥地利（$EG = 24 / CG = 29$） | [[Alternate Uses Test\|AUT]]；实验组/对照组（b: 替代训练） | 言语训练；< 2 个月；小组协作 |
-> | Hargrove & Nietfeld (2015) | 美国（$EG = 118 / CG = 88$） | RAT, 元认知意识量表（Metacognitive Awareness Inventory, MAI）；[[Pre-test and Post-test\|前后测设计]]（b: 替代训练） | 思维训练；< 4 个月；独立练习 |
+> | Hargrove and Nietfeld (2015) | 美国（$EG = 118 / CG = 88$） | RAT, 元认知意识量表（Metacognitive Awareness Inventory, MAI）；[[Pre-test and Post-test\|前后测设计]]（b: 替代训练） | 思维训练；< 4 个月；独立练习 |
 > | Karakelle (2009) | 土耳其（$EG = 15 / CG = 15$） | [[Originality Scale of Visual Metaphors\|OSVM]]；前后测设计（c: 等待名单） | 综合训练；< 4 个月；独立练习 |
 > | Kienitz et al. (2014) | 美国（$EG = 15 / CG = 13$） | TTCT-F, 大五人格量表简版（NEO Five-Factor Inventory, NEO-FFI）；实验组/对照组（b: 替代训练） | 言语训练；< 2 个月；独立练习 |
-> | Lewis & Lovatt (2013) | 英国（$EG = 21 / CG = 20$） | AUT；实验组/对照组（b: 替代训练） | 言语训练；< 1 周；小组协作 |
-> | Malycha & Maier (2017) | 德国（$EG = 80 / CG = 80$） | SEES, TTCT；实验组/对照组（c: 等待名单） | 技术型训练；< 1 个月；小组协作 |
+> | Lewis and Lovatt (2013) | 英国（$EG = 21 / CG = 20$） | AUT；实验组/对照组（b: 替代训练） | 言语训练；< 1 周；小组协作 |
+> | Malycha and Maier (2017) | 德国（$EG = 80 / CG = 80$） | SEES, TTCT；实验组/对照组（c: 等待名单） | 技术型训练；< 1 个月；小组协作 |
 > | Meinel et al. (2019) | 德国（$EG = 59 / CG = 59$） | [[Abbreviated Torrance Test for Adults\|ATTA]]；实验组/对照组（b: 替代训练） | 思维训练；< 2 个月；小组协作 |
 > | Morin et al. (2018) | 加拿大（$EG = 59 / CG = 59$） | [[Creative Engineering Design Assessment\|CEDA]]；前后测设计（c: 等待名单） | 技术型训练；> 1 年；独立练习 |
 > | O'Connor et al. (2016) | 澳大利亚（$EG = 62 / CG = 62$） | WRT；前后测设计（d: 情商训练） | 综合训练；< 1 周；独立练习 |
-> | Onarheim & Friis-Olivarius (2013) | 丹麦/加拿大（$EG = 50 / CG = 50$） | AUT；实验组/对照组（b: 替代训练） | 思维训练；< 2 个月；小组协作 |
-> | Oppezzo & Schwartz (2014) | 美国（ = 48 / C = 48$） | [[Alternate Uses Test\|AUT]]；实验组/对照组（b: 替代训练） | 散步动态[[Incubation\|孕育干预]]；< 1 周；独立练习 |
-> | Ritter & Mostert (2017) | 荷兰（$EG = 31 / CG = 31$） | AUT, [[Remote Associates Test\|RAT]]；前后测设计（b: 替代训练） | 技术型训练；< 1 周；小组协作 |
-> | Wang & Horng (2002) | 中国台湾（$EG = 21 / CG = 18$） | TTCT；实验组/对照组（b: 替代训练） | 思维训练；< 1 年；小组协作 |
+> | Onarheim and Friis-Olivarius (2013) | 丹麦/加拿大（$EG = 50 / CG = 50$） | AUT；实验组/对照组（b: 替代训练） | 思维训练；< 2 个月；小组协作 |
+> | Oppezzo and Schwartz (2014) | 美国（ = 48 / C = 48$） | [[Alternate Uses Test\|AUT]]；实验组/对照组（b: 替代训练） | 散步动态[[Incubation\|孕育干预]]；< 1 周；独立练习 |
+> | Ritter and Mostert (2017) | 荷兰（$EG = 31 / CG = 31$） | AUT, [[Remote Associates Test\|RAT]]；前后测设计（b: 替代训练） | 技术型训练；< 1 周；小组协作 |
+> | Wang and Horng (2002) | 中国台湾（$EG = 21 / CG = 18$） | TTCT；实验组/对照组（b: 替代训练） | 思维训练；< 1 年；小组协作 |
 > | West et al. (2012) | 美国（$EG = 93 / CG = 93$） | TTCT；实验组/对照组（b: 替代训练） | 综合训练；< 1 年；小组协作 |
-> | Zitek & Vincent (2015) | 美国（$EG = 97 / CG = 97$） | RAT；实验组/对照组（b: 替代训练） | 综合训练；< 1 个月；小组协作 |
+> | Zitek and Vincent (2015) | 美国（$EG = 97 / CG = 97$） | RAT；实验组/对照组（b: 替代训练） | 综合训练；< 1 个月；小组协作 |
 > | Zampetakis et al. (2008) | 希腊（$EG = 52 / CG = 42$） | [[Originality Scale of Visual Metaphors\|OSVM]]；实验组/对照组（b: 替代训练） | 综合训练；< 4 个月；独立练习 |
 > | Lubart (2014) | 法国（$EG = 63 / CG = 63$） | [[Evaluation of Potential for Creativity\|创造潜能评估测验（Evaluation of Potential for Creativity, EPOC）]]；实验组/对照组（b: 替代训练） | 综合训练；< 1 周；小组协作 |
 > | Gu et al. (2023) | 中国（$EG = 41 / CG = 39$） | AUT；实验组/对照组（b: 替代训练） | 综合训练；< 4 个月；小组协作 |
-> | Mahasneh & Gazo (2019) | 约旦（$EG = 35 / CG = 32$） | [[Emotional Creativity Inventory\|ECI]]；实验组/对照组（b: 替代训练） | 情绪训练；< 1 周；独立练习 |
+> | Mahasneh and Gazo (2019) | 约旦（$EG = 35 / CG = 32$） | [[Emotional Creativity Inventory\|ECI]]；实验组/对照组（b: 替代训练） | 情绪训练；< 1 周；独立练习 |
 > | Puccio et al. (2020) | 加拿大（$EG = 11 / CG = 10$） | TTCT；实验组/对照组（b: 替代训练） | 技术型训练；< 3 年；小组协作 |
 > | Fleury et al. (2020) | 法国（$EG = 16 / CG = 16$） | GAU, RAT；实验组/对照组（c: 等待名单） | 技术型训练；< 1 周；独立练习 |
-> | Dow & Mayer (2004) | 美国（$EG = 11 / CG = 11$） | [[Originality Scale of Visual Metaphors\|OSVM]]；实验组/对照组（b: 替代训练） | 综合训练；< 1 个月；小组协作 |
-> | Karwowski & Soszynski (2008) | 波兰（$N = 15$） | 创造性意象测验（Test of Creative Imagery, TCI）, [[Test for Creative Thinking-Drawing Production\|TCT-DP]]；实验组/对照组（b: 替代训练） | 综合训练；< 2 个月；独立练习 |
-> | Robbins & Kegley (2010) | 美国（$N = 51$） | TTCT；前后测设计（b: 替代训练） | 思维训练；< 4 个月；独立练习 |
-> | Stolaki & Economides (2018) | 希腊（$N = 81$） | TTCT；前后测设计（b: 替代训练） | 综合训练；< 1 个月；小组协作 |
+> | Dow and Mayer (2004) | 美国（$EG = 11 / CG = 11$） | [[Originality Scale of Visual Metaphors\|OSVM]]；实验组/对照组（b: 替代训练） | 综合训练；< 1 个月；小组协作 |
+> | Karwowski and Soszynski (2008) | 波兰（$N = 15$） | 创造性意象测验（Test of Creative Imagery, TCI）, [[Test for Creative Thinking-Drawing Production\|TCT-DP]]；实验组/对照组（b: 替代训练） | 综合训练；< 2 个月；独立练习 |
+> | Robbins and Kegley (2010) | 美国（$N = 51$） | TTCT；前后测设计（b: 替代训练） | 思维训练；< 4 个月；独立练习 |
+> | Stolaki and Economides (2018) | 希腊（$N = 81$） | TTCT；前后测设计（b: 替代训练） | 综合训练；< 1 个月；小组协作 |
 > | Vally et al. (2019) | 阿联酋 | TTCT；前后测设计（e: 神经创造力） | 任务型训练；< 4 个月；小组协作 |
 
 ---

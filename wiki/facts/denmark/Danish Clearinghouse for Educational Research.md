@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Danish Clearinghouse for Educational Research
@@ -150,7 +150,7 @@ updated: 2026-10-15
 > > [!axis] 跨国证据协调匮乏与资源浪费
 > > 探讨各自为战的国家级清算中心在欧洲跨国知识生态中的局限。
 > >
-> > - **[[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] 批判** 丹麦清算中心等国家级机构虽然改善了本国母语证据的可及性，但由于缺乏全欧范围的跨国协调与元中介整合，导致各国在中介标准与综述选题上重复建设，未能形成累积性的跨国知识基石。
+> > - **[[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] 批判** 丹麦清算中心等国家级机构虽然改善了本国母语证据的可及性，但由于缺乏全欧范围的跨国协调与元中介整合，导致各国在中介标准与综述选题上重复建设，未能形成累积性的跨国知识基石。
 
 ---
 

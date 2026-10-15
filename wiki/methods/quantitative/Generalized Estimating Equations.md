@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Generalized Estimating Equations
@@ -68,7 +68,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> **广义估计方程（Generalized Estimating Equations，简称 GEE）**是由生物统计学家孔英·梁（Kung-Yee Liang）与斯科特·泽格（Scott L. Zeger）于 1986 年开创的一种用于处理纵向重复测量（Longitudinal Data）与群聚分层数据（Clustered Data）的半参数化回归估计方法。GEE 是广义线性模型（GLM）在非独立相关数据领域的扩展，其核心特征是**群体平均模型（Population-Averaged / Marginal Model）**。该方法不假定[[Dependent Variable\|因变量]]的完全联合概率分布，仅指定结果[[Variable\|变量]]的边际均值与方差函数，并引入一个“工作相关矩阵”（Working Correlation Matrix）来近似组内相关结构；即便该工作相关结构被错误设定，GEE 依托 Huber-White 三明治经验方差估计量，依然能够保证大样本下回归参数的一致性与[[Standard Error\|标准误]]的渐进有效性。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]
+> **广义估计方程（Generalized Estimating Equations，简称 GEE）** 是由生物统计学家孔英·梁（Kung-Yee Liang）与斯科特·泽格（Scott L. Zeger）于 1986 年开创的一种用于处理纵向重复测量（Longitudinal Data）与群聚分层数据（Clustered Data）的半参数化回归估计方法。GEE 是广义线性模型（GLM）在非独立相关数据领域的扩展，其核心特征是**群体平均模型（Population-Averaged / Marginal Model）**。该方法不假定[[Dependent Variable\|因变量]]的完全联合概率分布，仅指定结果[[Variable\|变量]]的边际均值与方差函数，并引入一个“工作相关矩阵”（Working Correlation Matrix）来近似组内相关结构；即便该工作相关结构被错误设定，GEE 依托 Huber-White 三明治经验方差估计量，依然能够保证大样本下回归参数的一致性与[[Standard Error\|标准误]]的渐进有效性。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 包含集群内部相关性的多层数据（如嵌套于学校或班级的学生考分）以及针对同一受试者的多期纵向追踪面板。
@@ -250,4 +250,4 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 综述了齐·肖（ZhiMin Xiao）等杜伦大学学者利用 NPD 归档数据开展的 17 项 [[Education Endowment Foundation\|EEF]] 试验四模型并行复算，将 GEE 作为应对集群相关性的代表性边际模型，揭示出统计模型选择对[[Effect Size\|效应量]]与[[Confidence Interval\|置信区间]]的颠覆性影响。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 综述了齐·肖（ZhiMin Xiao）等杜伦大学学者利用 NPD 归档数据开展的 17 项 [[Education Endowment Foundation\|EEF]] 试验四模型并行复算，将 GEE 作为应对集群相关性的代表性边际模型，揭示出统计模型选择对[[Effect Size\|效应量]]与[[Confidence Interval\|置信区间]]的颠覆性影响。

@@ -61,7 +61,7 @@ related_arguments:
 status: active
 confidence: high
 created: 2026-08-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Source of Knowledge
@@ -128,7 +128,7 @@ updated: 2026-10-15
 > [!concept-lens] 认知主体地位的觉醒
 > 知识来源维度的演进表征了个体在认知发展过程中，自我角色从外部客体的附庸向拥有意义建构权的能动主体转变的内在规律。
 
-> [!claim] [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]]
+> [!claim] [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]]
 > **权威祛魅与主体确认** 个体[[Epistemic Cognition\|认识论认知]]走向成熟的关键标志之一，是完成知识来源的内在化演进。在认知的初级阶段，个体普遍秉持外部依附信念，认为自我如同一个空容器，真理完全由权威机构或专家垄断，学习活动被窄化为对权威结论的忠实复制。伴随教育体验的深化与认知冲突的累积，学习者逐步发现权威之间亦存在分歧与认知盲区，从而开始瓦解对权威的盲信，确认自我作为意义建构者的合法地位。这一转变不仅是[[Epistemology\|认识论]]成熟的基石，也是激发学生[[Critical Thinking\|批判性思维]]与自主探究意愿的核心前提。
 
 ---
@@ -148,7 +148,7 @@ updated: 2026-10-15
 > [!contrast-table] 围绕知识来源形成的命题归纳
 > | 命题命名 | 核心理论指向 | 适用情境与机制功能 | 代表学者与文献 |
 > |---|---|---|---|
-> | **权威祛魅假说** | 认知成熟表现为[[Knowledge Production\|知识生成]]主体由外部权威垄断向内部自我建构转移 | 解释学习者从被动容器向[[Learner Autonomy\|自主学习]]与批判性反思的转变 | [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] |
+> | **权威祛魅假说** | 认知成熟表现为[[Knowledge Production\|知识生成]]主体由外部权威垄断向内部自我建构转移 | 解释学习者从被动容器向[[Learner Autonomy\|自主学习]]与批判性反思的转变 | [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] |
 > | **信源评估教学规程机制** | 显性教授多文本来源评估规则能有效破解盲从依赖并带来突出学业提升 | 适用于数字时代网络冲突信息的跨文本阅读、论辩写作与概念理解 | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] |
 
 ---
@@ -159,7 +159,7 @@ updated: 2026-10-15
 > - **1970 年 — [[Perry's Scheme of Intellectual and Ethical Development\|佩里图式]]中的权威祛魅** 威廉·佩里（William Perry）针对大学生的认知发展研究提出，个体认知发展的核心是从权威知晓绝对真理（二元论）逐步转变为自我作为主动意义建构者的相对主义。
 > - **1986 年 — [[Women's Ways of Knowing\|女性认知方式]]中的建构转向** 贝兰基等学者（Belenky et al.）在[[Women's Ways of Knowing\|女性认知方式]]中提炼出认知发展光谱，揭示从无声被动的[[Received Knowledge\|接收知识]]转向由个体反思发声的[[Constructed Knowledge\|建构知识]]。
 > - **1992 年 — [[Independent Knowing\|独立认知]]的阶段性确立** 玛格尔达（Baxter Magolda）在[[Epistemological Reflection Model\|认识论反思模型]]中揭示，学习者必经从依赖权威的标准答案（[[Absolute Knowing\|绝对认知]]）跨越至确立个人独特视角的[[Independent Knowing\|独立认知]]阶段。
-> - **1997 年 — 四维框架中的核心维度整合** [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 梳理各派认知发展理论，将外部与内部[[Knowledge Production\|知识生成]]的讨论正式凝练为“知识来源”这一独立核心[[Construct\|构念]]。
+> - **1997 年 — 四维框架中的核心维度整合** [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 梳理各派认知发展理论，将外部与内部[[Knowledge Production\|知识生成]]的讨论正式凝练为“知识来源”这一独立核心[[Construct\|构念]]。
 > - **2010 年代 — 数字化多文本阅读与[[Source Evaluation\|信源评估]]规程** 布拉滕等学者（Bråten et al.）与梅森等学者（Mason et al.）将概念从抽象的哲学态度拓展为在网络信息检索与阅读中对信息源可[[Reliability\|信度]]、出版资质及利益立场的实操性评价规程。
 > - **2021 年 — [[Meta-analysis\|元分析]]证实信源评估干预的高因果红利** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 在[[Epistemic Cognition\|认识论认知]]干预元分析中量化确立信源评估为成效最佳的干预框架之一，实证证实显性规程教学对[[Academic Achievement\|学业成就]]具有显著促进作用。
 
@@ -171,7 +171,7 @@ updated: 2026-10-15
 >
 > > [!axis] 权威祛魅与盲目反智主义的现实张力
 > > [[Epistemological Theories\|认识论理论]]普遍鼓励个体打破对外部权威的盲信，但在大众信息传播中，解构权威容易被曲解为“无视专业共同体判断、人人观点等价”的极端[[Subjectivism\|主观主义]]或伪科学反智思潮。
-> > - **[[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]]** 成熟的认知主体并非盲目否认专家权威，而是从无条件盲从权威转变为基于证据和方法规范对权威主张进行理性审验。
+> > - **[[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]]** 成熟的认知主体并非盲目否认专家权威，而是从无条件盲从权威转变为基于证据和方法规范对权威主张进行理性审验。
 > > - **[[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]** 教学实践中不可仅停留于鼓励自由怀疑，必须配套传授严格的[[Source Evaluation\|信源评估]]与证据交叉检视规则，才能避免学生陷入无序的相对主义。
 >
 > > [!axis] 领域一般性信念与特定学科知识来源的适用分歧
@@ -200,5 +200,5 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] — 系统评述 Perry、Belenky、Baxter Magolda 和 King & Kitchener 等发展学派，提炼并确立了“知识来源”作为[[Epistemological Theories\|认识论理论]]四大核心维度之一的基础地位。
+> - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 系统评述 Perry、Belenky、Baxter Magolda 和 King & Kitchener 等发展学派，提炼并确立了“知识来源”作为[[Epistemological Theories\|认识论理论]]四大核心维度之一的基础地位。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — [[Epistemic Cognition\|认识论认知]]干预因果[[Meta-analysis\|元分析]]，证实显性讲授[[Source Evaluation\|信源评估]]规则是促进[[Academic Achievement\|学业成就]]成效最突出的教学[[Paradigm\|范式]]之一（$d = 0.800$），为将知识来源信念转化为课堂教学规程提供了强有力的因果实证支持。

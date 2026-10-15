@@ -102,7 +102,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
 status: draft
 created: 2026-07-11
-updated: '2026-08-27'
+updated: 2026-10-16
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
@@ -148,9 +148,9 @@ sources:
 > [!feature] 个案研究的核心特征
 > - **多[[Variable\|变量]]与多工具** 认识到单个案例中有许多变量在运作，因此捕捉这些变量的含义通常需要不止一种数据收集工具和多种证据来源
 > - **[[Mixed Methods Research\|混合方法]]原型** 可融合数值和质性数据，是[[Mixed Methods Research\|混合方法研究]]的原型实例（见第1章）；可以解释、描述、说明和启发（Yin, 2009, pp. 19–20）
-> - **整体论优先于还原论** Verschuren（2003, p. 124）指出个案研究的显著特征是整体论（holism），而非将现象拆解为孤立变量的还原论。Yin（2009）将整体论理解为在选定的分析单位层面做完整研究；Verschuren则认为该词有模糊性，不一定意味着观照整个对象。Nisbet & Watt（1984, p. 78）呼应：整体大于部分之和。Sturman（1999, p. 103）补充：人类系统具有完整性，特征是深度整合而非松散连接
+> - **整体论优先于还原论** Verschuren（2003, p. 124）指出个案研究的显著特征是整体论（holism），而非将现象拆解为孤立变量的还原论。Yin（2009）将整体论理解为在选定的分析单位层面做完整研究；Verschuren则认为该词有模糊性，不一定意味着观照整个对象。Nisbet and Watt（1984, p. 78）呼应：整体大于部分之和。Sturman（1999, p. 103）补充：人类系统具有完整性，特征是深度整合而非松散连接
 > - **建立[[Causality\|因果关系]]** 个案研究可以建立因果关系，核心优势在于在真实情境中观察效应，承认情境是原因和效应的有力决定因素
-> - **情境是独特且动态的** 个案研究调查并报告真实生活中复杂、动态、展开的事件互动、人际关系和其他因素。Hitchcock & Hughes（1995, p. 316）认为个案研究的区分更多在于研究对象，与诠释方法之间常有共鸣但不限于此，且当研究者对事件几乎没有控制、行为无法被操控或控制时，个案研究特别有价值（p. 322）
+> - **情境是独特且动态的** 个案研究调查并报告真实生活中复杂、动态、展开的事件互动、人际关系和其他因素。Hitchcock and Hughes（1995, p. 316）认为个案研究的区分更多在于研究对象，与诠释方法之间常有共鸣但不限于此，且当研究者对事件几乎没有控制、行为无法被操控或控制时，个案研究特别有价值（p. 322）
 
 ---
 
@@ -197,9 +197,9 @@ Hitchcock & Hughes（1995, pp. 317, 319）从两个互补角度描述个案研�
 
 个案研究是描述性的、详细的，焦点狭窄，结合主观和客观数据（Dyer, 1995, pp. 48–49）（p. 283）。
 
-这并不意味着个案研究不系统或只是说明性的；个案研究数据被系统且严格地收集。Nisbet & Watt（1984, p. 91）明确建议个案研究者避免五种问题：
+这并不意味着个案研究不系统或只是说明性的；个案研究数据被系统且严格地收集。Nisbet and Watt（1984, p. 91）明确建议个案研究者避免五种问题：
 
-> [!warning] Nisbet & Watt（1984, p. 91）的五个避免
+> [!warning] Nisbet and Watt（1984, p. 91）的五个避免
 > - **新闻主义（journalism）** 挑选案例中更引人注目的特征，为强调这些轰动性方面而扭曲完整叙述
 > - **选择性报告（selective reporting）** 只选择支持特定结论的证据，从而歪曲整体案例
 > - **轶事风格（anecdotal style）** 退化为无尽系列的低层次、平庸乏味的插图，取代深度、严格的分析。Stake（1978）讽刺地评论道"我们的剪贴簿充满了放大的放大"（our scrapbooks are full of enlargements of enlargements），暗指某些个案研究过度强调细节以至于损害了整体画面
@@ -284,7 +284,7 @@ Dyer（1995, pp. 50–52）指出阅读个案研究时必须意识到选择过�
 > - **通向行动的步骤（a step to action）** 开始于行动世界并为之做出贡献。见解可直接解释和投入使用：人员自我发展、机构内部反馈、[[Formative Assessment\|形成性评价]]和教育政策制定
 > - **更公开可及的形式** 以更公开可及的形式呈现数据，语言和形式不那么深奥、不那么依赖专业解释。能服务多重受众，减少读者对未陈述隐含假设的依赖，让读者自己判断研究的含义
 
-> [!evidence-grid] Box 14.2 Nisbet & Watt（1984）的七项优势
+> [!evidence-grid] Box 14.2 Nisbet and Watt（1984）的七项优势
 > - **结果更易被广泛受众理解** 常用日常、非专业语言书写，包括非学术界人士
 > - **立即清晰易懂** 为自己说话
 > - **捕捉独特特征** 捕捉大规模数据中可能丢失的独特特征，这些可能持有理解情境的关键
@@ -293,7 +293,7 @@ Dyer（1995, pp. 50–52）指出阅读个案研究时必须意识到选择过�
 > - **可由单一研究者承担** 不需要完整研究团队
 > - **接纳未预期事件和未控制变量** 灵活应对研究过程中的意外
 
-> [!weakness] Box 14.2 Nisbet & Watt（1984）的三项弱点
+> [!weakness] Box 14.2 Nisbet and Watt（1984）的三项弱点
 > 1. 结果可能不可推广，除非其他读者/研究者看到其应用
 > 2. 不易接受[[Cross-checking\|交叉检查]]，因此可能是选择性的、有偏的、个人的和主观的
 > 3. 容易产生观察者偏误问题，尽管已尝试处理[[Reflexivity\|反身性]]
@@ -393,7 +393,7 @@ Verschuren（2003, p. 136）为个案研究的推广性提供了更有力的辩�
 
 ---
 
-值得注意的是Yin（2009, pp. 41, 122–124）对**[[Chain of Evidence|证据链]]（chain of evidence）**的呼吁：使外部研究者能够追踪个案研究的每一步。
+值得注意的是Yin（2009, pp. 41, 122–124）对 **[[Chain of Evidence|证据链]]（chain of evidence）** 的呼吁：使外部研究者能够追踪个案研究的每一步。
 
 > [!chain-link] 证据链的完整路径
 > - **起始** 研究问题和设计
@@ -466,7 +466,7 @@ Verschuren（2003, p. 136）为个案研究的推广性提供了更有力的辩�
 > - **Acker（1990）** 自然情境中的参与式观察；基于数百小时的参与观察材料进行民族志研究，最典型的自然情境中的非结构化民族志方法
 > - **Parker（1974）** 利物浦市中心青少年研究；参与式观察。研究者被知晓即将在大学任职，但白天闲逛、晚上在酒吧迅速建立了OK的口碑。一个饮酒者、一个闲逛者，在非法事件中可以保持沉默
 > - **Willis（1977）** 对一小群工人阶级男孩在最后两年学校和最初几个月的就业中的密集研究；参与式观察。作为班级成员而非教师参与其中，并在工业中与每个男孩并排工作一段时间
-> - **Blease & Cohen（1990）** 小学课堂计算机使用应对研究；高度结构化的[[Non-participant Observation\|非参与观察]]表，由非参与观察者进行，明确意图是获取精确的量化数据，位于自然与人工之间
+> - **Blease and Cohen（1990）** 小学课堂计算机使用应对研究；高度结构化的[[Non-participant Observation\|非参与观察]]表，由非参与观察者进行，明确意图是获取精确的量化数据，位于自然与人工之间
 > - **Antonsen（1988）** 儿童精神科诊所中接受心理治疗的单个儿童；非[[Structured Observation\|结构化观察]]，人工情境，非参与式，治疗师的非指导性方法记录
 > - **Houghton（1991）** 国际学生；结构化测试材料和焦点访谈，人工情境，咨询师办公室中的最结构化方法
 
@@ -515,7 +515,7 @@ Schutz（1962）指出自然科学家探索的领域对分子、原子和电子�
 >   - 一手和二手来源的使用
 >   - 检查数据的机会
 >   - 三角验证，包括同行对发现的检查、受访者验证和[[Reflexivity\|反身性]]
->   - 数据收集方法：在[[Interpretive Paradigm\|诠释范式]]中个案研究倾向于使用半结构化和开放式访谈、观察、叙事叙述和文件、日记，也许还有测试，而非调查或实验等方法。Nisbet & Watt（1984）建议在实施访谈时，最好稍后再访谈高级人员，以便在充分了解情况后最有效地利用讨论时间
+>   - 数据收集方法：在[[Interpretive Paradigm\|诠释范式]]中个案研究倾向于使用半结构化和开放式访谈、观察、叙事叙述和文件、日记，也许还有测试，而非调查或实验等方法。Nisbet and Watt（1984）建议在实施访谈时，最好稍后再访谈高级人员，以便在充分了解情况后最有效地利用讨论时间
 >   - 数据分析和解释，以及适当时的理论生成
 >   - 报告写作：Nisbet & Watt建议将结论与证据分开，主要证据包含在正文中，并平衡插图与分析/推广
 > - **研究对参与者的后果**
@@ -524,14 +524,14 @@ Schutz（1962）指出自然科学家探索的领域对分子、原子和电子�
 
 ---
 
-Nisbet & Watt（1984, p. 78）建议个案研究的三个主要阶段：
+Nisbet and Watt（1984, p. 78）建议个案研究的三个主要阶段：
 
 > [!phase] 三阶段开放-聚焦-验证模型（Nisbet & Watt, 1984, p. 78）
 > 1. **开放阶段（open phase）** 以非常宽的焦点领域开始，不加选择或预先判断。因为个案研究捕捉展开情境的动态，这是可取的
 > 2. **渐进聚焦（[[Progressive Focussing\|progressive focusing]]）** 建立更窄的焦点领域，识别后续研究和数据收集的关键焦点
 > 3. **草稿解释（draft interpretation）** 准备草稿解释，需要在最终形式出现前与受访者检查
 
-Nisbet & Watt（p. 79）建议不要在个案研究中过早生成假设；重要的是先开放地收集数据。受访者验证特别有用，受访者可能建议更好的表述方式或希望添加或限定观点。但存在风险：他们可能不同意某种解释。Nisbet & Watt（1984, p. 81）指出需要谈判否决权的权利。他们还建议研究者：(a) 承诺受访者可以看到报告中涉及他们的章节（受保密控制，如个案研究中的其他人）；(b) 充分采纳受访者的建议和回应并尽可能修改叙述；(c) 在研究者与受访者分歧的情况下，承诺将受访者的评论和批评与研究者的报告并列发布（pp. 293–294）。
+Nisbet & Watt（p. 79）建议不要在个案研究中过早生成假设；重要的是先开放地收集数据。受访者验证特别有用，受访者可能建议更好的表述方式或希望添加或限定观点。但存在风险：他们可能不同意某种解释。Nisbet and Watt（1984, p. 81）指出需要谈判否决权的权利。他们还建议研究者：(a) 承诺受访者可以看到报告中涉及他们的章节（受保密控制，如个案研究中的其他人）；(b) 充分采纳受访者的建议和回应并尽可能修改叙述；(c) 在研究者与受访者分歧的情况下，承诺将受访者的评论和批评与研究者的报告并列发布（pp. 293–294）。
 
 ---
 
@@ -547,12 +547,12 @@ Nisbet & Watt（p. 79）建议不要在个案研究中过早生成假设；重�
 个案研究在使用的数据类型上是折中的，许多个案研究依赖混合方法和多种数据。虽然观察和参与观察在个案研究中通常占主导地位，但它们绝不是数据的唯一来源（p.294）。
 
 > [!feature] Yin（2009, p. 101）的六种证据来源
-> - **文件（documents）（p. 103）**信件、电子邮件、备忘录、议程、会议记录、报告、记录、日记、笔记、其他研究、报纸文章、网站上传等
-> - **档案记录（archival records）（p. 105）**公共记录、组织记录和报告、存储在组织中的个人（可能是医疗或行为）和人事数据（需注意隐私立法）、图表和地图
+> - **文件（documents）（p. 103）** 信件、电子邮件、备忘录、议程、会议记录、报告、记录、日记、笔记、其他研究、报纸文章、网站上传等
+> - **档案记录（archival records）（p. 105）** 公共记录、组织记录和报告、存储在组织中的个人（可能是医疗或行为）和人事数据（需注意隐私立法）、图表和地图
 > - **访谈（interviews）（p. 106）**[[In-depth Interview\|深度访谈]]、焦点访谈和正式调查访谈（见第21章）
-> - **直接观察（direct observation）（p. 109）**即对自然环境和目标个体的非参与观察：原址中的群体、实物、房间、装饰、布局
-> - **参与观察（participant observation）（p. 111）**研究者在个案研究所涉情境或环境中承担角色
-> - **实物（physical artefacts）（p. 113）**图片、家具、装饰、照片、饰品
+> - **直接观察（direct observation）（p. 109）** 即对自然环境和目标个体的非参与观察：原址中的群体、实物、房间、装饰、布局
+> - **参与观察（participant observation）（p. 111）** 研究者在个案研究所涉情境或环境中承担角色
+> - **实物（physical artefacts）（p. 113）** 图片、家具、装饰、照片、饰品
 
 忠于[[Mixed Methods Research|混合方法研究]]的原则，多种证据来源可以为案例提供收敛效度和并发效度，并要求研究者具备同时处理和综合多种数据的能力。这进而倡导编制个案研究证据数据库（case study database of evidence，Yin, 2009, p. 118），包括两大类收集：实际收集、记录和按条目组织的数据，以及研究者对该数据的持续分析/报告/评论/叙事（p.295）。
 
@@ -560,7 +560,7 @@ Nisbet & Watt（p. 79）建议不要在个案研究中过早生成假设；重�
 
 多样化数据不仅提供研究者得出结论所需的证据，而且提供赋予个案研究可信度、信度和效度的**证据链（Yin, 2009, p. 122）**。在撰写报告时，研究者必须通过直接引用实际证据来暗示支持所做出观点的证据。研究者收集数据只是个案研究的一个阶段，这些数据仍需要分析。虽然分析是研究者的任务，但有几种计算机辅助软件工具可以处理数据以备分析，如NVivo、NUD*IST、Ethnograph、ATLAS.ti、HyperRESEARCH。这些可以分组、检索、组织和搜索单一和多个数据集，并以如下形式返回以备分析和呈现（Miles & Huberman, 1984）：
 
-> [!feature] Miles & Huberman（1984）的十三种分析产出形式
+> [!feature] Miles and Huberman（1984）的十三种分析产出形式
 > - **矩阵和数据数组（matrices and arrays of data）**
 > - **模式、主题和配置（patterns, themes and configurations）**
 > - **叙事（narratives）**
@@ -678,7 +678,7 @@ Yin（2009, pp. 185–189）认为一项典范（exemplary）个案研究必须�
 > [!citation-card]- 整体大于部分之和
 > [[Case Study\|个案研究]]可以建立[[Causality\|因果关系]]（"如何"和"为什么"）；它们的一个优势是在真实情境中观察效应，认认到情境是原因和效应的有力决定因素，并且深度理解是公正对待案例所必需的。正如Nisbet & Watt（1984, p. 78）所言，整体大于部分之和。（第14章，p.282）
 >
-> *Case studies can establish cause and effect (how and why); indeed one of their strengths is that they observe effects in real contexts, recognizing that context is a powerful determinant of both causes and effects, and that in-depth understanding is required to do justice to the case. As Nisbet & Watt (1984, p. 78) remark, the whole is more than the sum of its parts.*
+> *Case studies can establish cause and effect (how and why); indeed one of their strengths is that they observe effects in real contexts, recognizing that context is a powerful determinant of both causes and effects, and that in-depth understanding is required to do justice to the case. As Nisbet and Watt (1984, p. 78) remark, the whole is more than the sum of its parts.*
 
 > [!citation-card]- 我们的剪贴簿充满了放大的放大
 > Stake（1978）讽刺地评论道"我们的剪贴簿充满了放大的放大"（our scrapbooks are full of enlargements of enlargements），暗指某些个案研究倾向于过度强调细节，以至于损害了对整体画面的把握。（第14章，p.283）

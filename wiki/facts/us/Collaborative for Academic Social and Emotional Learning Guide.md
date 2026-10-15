@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Collaborative for Academic Social and Emotional Learning Guide
@@ -55,7 +55,7 @@ updated: 2026-10-15
 > [!info] 机构定位与运营概况
 > **学术、社会与情感学习协作指南（CASEL Program Guide, CASEL）** 是由全美领先的[[Social-Emotional Learning\|社会情感学习]]倡导组织 CASEL 于 2003 年起发起的教育专精证据清算平台，专注于学前（Pre-K）至高中全学段的社会情感学习（Social and Emotional Learning, SEL）项目审查([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 7]])。
 >
-> CASEL 评估对象为具名 SEL 课程与干预项目。当前处于**活跃运营（Active）**状态，官方平台为 [pg.casel.org](https://pg.casel.org)，持续维护包含学前、小学与中学的交互式项目评级指南。
+> CASEL 评估对象为具名 SEL 课程与干预项目。当前处于**活跃运营（Active）** 状态，官方平台为 [pg.casel.org](https://pg.casel.org)，持续维护包含学前、小学与中学的交互式项目评级指南。
 
 ---
 

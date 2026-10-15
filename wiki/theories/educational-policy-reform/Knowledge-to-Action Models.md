@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-02
+updated: 2026-10-16
 ---
 
 # Knowledge-to-Action Models
@@ -87,7 +87,7 @@ updated: 2026-10-02
 > [!citation-card] 知识到行动联结的三代演化与政策中介转型
 > 研究证据的供给与用于决策目的的证据需求之间存在巨大脱节，这激发了政策中介者的想象力。贝斯特与霍姆斯（Best & Holmes, 2010）识别了考察知识-行动联结的三代学者并提出了收紧两者关联的建议。第一代主要关注研究成果的传播，或者正如开篇所述，如何更好地将研究证据传达或‘推销’给决策者。第二代指出了生产者与使用者之间的关系维度，撰写了大量关于如何与最终用户共同生产知识产品的建议。最新的一组研究则在程序上对研究证据的使用进行拆解，调查使用研究证据的制度容量，并探索为政策生产和使用数据与研究证据所必需的生态系统。对于国际组织而言，其存放在网站上的研究证据未被充分利用是一个令人担忧的问题。近年来，这促使全球行动者建立区域结构，以促进网络研讨会、政策制定者之间的同行交流、会议以及其他更有效传播和分发研究证据的途径。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 547)]]
 >
-> *The gross discrepancy between the supply and demand of research evidence for policymaking purposes has incited the imagination of policy brokers. Best & Holmes (2010) identified three generations of scholars who examined the knowledge-to-action (KTA) linkage and presented suggestions on how to tighten the association. The first was primarily concerned with research dissemination or, as mentioned in the beginning, how to better communicate or 'push' research evidence onto policymakers. The second generation pointed out the relational aspect between producers and users. They wrote up a host of recommendations on how to co-produce knowledge products with end users. The most recent group of studies procedurally breaks down the use of research evidence, investigates the capacity of using research evidence, and explores the eco-system necessary to produce and use data and research evidence for policy. For IOs, the underutilisation of their research evidence deposited on the web is a cause for concern. In recent years, this has prompted global actors to establish regional structures that facilitate webinars, peer exchange among policymakers, conferences, and other means of communicating and disseminating their research evidence more effectively.*
+> *The gross discrepancy between the supply and demand of research evidence for policymaking purposes has incited the imagination of policy brokers. Best and Holmes (2010) identified three generations of scholars who examined the knowledge-to-action (KTA) linkage and presented suggestions on how to tighten the association. The first was primarily concerned with research dissemination or, as mentioned in the beginning, how to better communicate or 'push' research evidence onto policymakers. The second generation pointed out the relational aspect between producers and users. They wrote up a host of recommendations on how to co-produce knowledge products with end users. The most recent group of studies procedurally breaks down the use of research evidence, investigates the capacity of using research evidence, and explores the eco-system necessary to produce and use data and research evidence for policy. For IOs, the underutilisation of their research evidence deposited on the web is a cause for concern. In recent years, this has prompted global actors to establish regional structures that facilitate webinars, peer exchange among policymakers, conferences, and other means of communicating and disseminating their research evidence more effectively.*
 
 ---
 
@@ -219,4 +219,4 @@ updated: 2026-10-02
 > [!evidence-grid] [[Correlational Research\|相关研究]]索引
 > - **[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]** 运用知识-行动联结三代模型，剖析国际组织面对数字时代研究证据闲置危机时，为何加速布局区域常设中介枢纽与生态化网络。
 > - **[[Argument_Torres_2022_KMModels\|Torres (2022)]]** 系统比较 KTA（Graham et al., 2006）、[[Knowledge Transfer\|知识转移]]战略（Lavis et al., 2003）、动员模型（Levin, 2013）与证据生态（Gough et al., 2019），确立代际演进谱系。
-> - **Best & Holmes (2010)** 奠定知识-行动联结三代演化模型（线性推动、关系协同、系统生态），奠定宏观中介分析基石。
+> - **Best and Holmes (2010)** 奠定知识-行动联结三代演化模型（线性推动、关系协同、系统生态），奠定宏观中介分析基石。

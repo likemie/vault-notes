@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Intraclass Correlation Coefficient
@@ -86,7 +86,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> **组内相关系数（Intraclass Correlation Coefficient，简称 ICC，在符号中常记为 $\rho$）**最初由统计学家罗纳德·费希尔（Ronald Fisher）于 1925 年在[[Analysis of Variance\|方差分析]]框架下提出，是衡量具有嵌套（Nested）或群聚（Clustered）结构数据中**同属于同一群组的个体之间相似程度**的核心统计量。在现代分层线性[[Hierarchical Linear Model\|多水平模型]]（[[Hierarchical Linear Model\|HLM]]）中，ICC 被严格定义为**高层级组间方差占总方差的比例**。在教育实证研究与[[Cluster Randomized Trials\|集群随机对照试验]]（[[Cluster Randomized Trials\|Cluster RCT]]）中，ICC 捕捉了同校或同班学生因共享教师、校园文化、地理社区及同伴互动而产生的非独立性相关，是测算设计效应（Design Effect）、换算[[Effective Sample Size\|有效样本量]]以及消除[[Standard Error\|标准误]]向下偏倚的生命线参数。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]; [[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 8–10)]]
+> **组内相关系数（Intraclass Correlation Coefficient，简称 ICC，在符号中常记为 $\rho$）** 最初由统计学家罗纳德·费希尔（Ronald Fisher）于 1925 年在[[Analysis of Variance\|方差分析]]框架下提出，是衡量具有嵌套（Nested）或群聚（Clustered）结构数据中**同属于同一群组的个体之间相似程度**的核心统计量。在现代分层线性[[Hierarchical Linear Model\|多水平模型]]（[[Hierarchical Linear Model\|HLM]]）中，ICC 被严格定义为**高层级组间方差占总方差的比例**。在教育实证研究与[[Cluster Randomized Trials\|集群随机对照试验]]（[[Cluster Randomized Trials\|Cluster RCT]]）中，ICC 捕捉了同校或同班学生因共享教师、校园文化、地理社区及同伴互动而产生的非独立性相关，是测算设计效应（Design Effect）、换算[[Effective Sample Size\|有效样本量]]以及消除[[Standard Error\|标准误]]向下偏倚的生命线参数。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]; [[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 8–10)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 分层嵌套于学校、班级、学区、家庭或研究机构内部的个体[[Academic Achievement\|学业成绩]]、心理测量得分或行为观察数据；亦用于评估多名评分者之间的跨评价者一致性（[[Inter-Rater Reliability]]）。
@@ -116,7 +116,7 @@ updated: 2026-10-15
 > |---|---|---|---|---|
 > | **教育整群试验（[[Cluster Randomized Trials\|Cluster RCT]]）** | 学校间随机截距方差 vs 学生内残差 | $\text{ICC} = \frac{\tau_{00}}{\tau_{00} + \sigma^2}$ | 评估校内同质性、计算设计效应与校正[[Standard Error\|标准误]] | 评估全校教学改革试验中的考分变异 |
 > | **跨期重复测量（Longitudinal）** | 个体间稳定方差 vs 时间点内残差 | $\text{ICC} = \frac{\sigma_{\text{between-person}}^2}{\sigma_{\text{total}}^2}$ | 评估特质跨时间演进的稳定性与[[Test-Retest Reliability\|重测信度]] | 跟踪学生多年认知能力演进的个体特质占比 |
-> | **评分者一致性（Inter-rater）** | 评分客体间方差 vs 评分者偏差及误差 | Shrout & Fleiss (1979) 六种模型（如 ICC(2,1)） | 检验多位主观打分专家评价标准的一致性与绝对一致度 | 课堂教学观察量表教师评分[[Reliability\|信度]]检验 |
+> | **评分者一致性（Inter-rater）** | 评分客体间方差 vs 评分者偏差及误差 | Shrout and Fleiss (1979) 六种模型（如 ICC(2,1)） | 检验多位主观打分专家评价标准的一致性与绝对一致度 | 课堂教学观察量表教师评分[[Reliability\|信度]]检验 |
 
 > [!method-stack] 方法层级
 > - **研究设计** 集群[[Randomised Controlled Trials\|随机对照试验]]（Cluster RCT）、多阶段分层[[Cluster Sampling\|整群抽样]]、纵向生长模型。
@@ -273,6 +273,6 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 详述了 [[Education Endowment Foundation\|EEF]] 试验复算审计推动出台国家级《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018），确立强制采用组内相关系数（ICC）与聚类稳健[[Standard Error\|标准误]]模型（Demack, 2019）的技术准则。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详述了 [[Education Endowment Foundation\|EEF]] 试验复算审计推动出台国家级《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018），确立强制采用组内相关系数（ICC）与聚类稳健[[Standard Error\|标准误]]模型（Demack, 2019）的技术准则。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 详析全球 12 所[[Educational Evidence Clearinghouses\|证据清算中心]]在[[Cluster Randomized Trials\|集群随机试验]]审查中的分歧，批判了忽视 ICC 校正与[[Unit of Analysis\|分析单位]]错位导致虚假显著性的普遍现象。
 > - [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] — 采用双向随机效应绝对一致性单评分者模型 ICC(2,1) 评估大语言模型与人类专家在 156 项教育[[Meta-analysis\|元分析]]数据提取中的准确性与评分者间一致性（LLMs $\text{ICC} = 0.96–0.97$）。

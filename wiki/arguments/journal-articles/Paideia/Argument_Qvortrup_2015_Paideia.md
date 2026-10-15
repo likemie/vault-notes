@@ -79,7 +79,7 @@ citation_aliases:
 > [!info] 研究方法
 > - 方法：讨论论文（discussion paper）与概念分析。
 > - 分析策略：先重建实证统计教育研究的历史背景，再分类回应 [[Visible Learning]] 批评，最后围绕"学习结果"这一因[[Variable\|变量]]提出概念重建方案(pp.23–32)。
-> - 数据来源：Hattie (2009, 2013)、Glass (1976, 2000)、Helmke (2013)、Hattie & Yates (2014)、Bereiter (2002)、Bateson (2000)、Ryle (1949) 等二手理论与方法论文献；没有独立收集新的实证数据(p.33)。
+> - 数据来源：Hattie (2009, 2013)、Glass (1976, 2000)、Helmke (2013)、Hattie and Yates (2014)、Bereiter (2002)、Bateson (2000)、Ryle (1949) 等二手理论与方法论文献；没有独立收集新的实证数据(p.33)。
 
 ## 核心论证
 

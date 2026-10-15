@@ -77,7 +77,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-27
-updated: 2026-10-04
+updated: 2026-10-16
 year: 2025
 doi: ""
 citation_aliases:
@@ -103,7 +103,7 @@ citation_aliases:
 - **[[Systems of Innovation|创新系统理论]](Lundvall et al., 2002)**——将创新理解为多行动者在制度环境下的集体学习活动，是本章组织材料的核心视角。它帮助读者理解：UIR 不是孤立的人际互动，而是嵌套在法律框架、金融系统、文化规范等多层制度之中的系统行为
 - **[[Innovation Models Evolution|创新模型演变]]（linear → coupling → systems integration → networked → systems of innovation）**——五代创新模型为理解产学互动方式的历史变迁提供了坐标(Tidd, 2006; [[Argument_Caraca_2009_TFSC|Caraça et al., 2009]])
 - **[[Innovation Policy Paradigms|创新政策范式]](Schot & Steinmueller, 2018)**——"科学促增长 → 创新系统升级 → [[Transformative Change|变革转型]]"三阶段框架，解释了国家政策如何塑造[[University-Industry Collaboration|产学合作]]的激励和条件
-- **[[Triple Helix]]** ——全书共享理论，本章为其提供五十年历史演化的经验证据；**[[Innovation Ecosystem|创新生态系统]]**同理，本章展示生态系统如何从概念走向制度化
+- **[[Triple Helix]]** ——全书共享理论，本章为其提供五十年历史演化的经验证据；**[[Innovation Ecosystem|创新生态系统]]** 同理，本章展示生态系统如何从概念走向制度化
 
 ---
 
@@ -139,7 +139,7 @@ citation_aliases:
 | 1990s | 系统集成与[[Snowball Sampling\|网络化]] | 供应商、客户、联盟伙伴共同参与创新 |
 | 1990s至今 | 创新系统 | 法律、金融、文化、教育等制度共同塑造创新行为 |
 
-Kline & Rosenberg(1986)对第三阶段的总结精辟地指出：创新过程"既不顺畅，也不线性，更不总是规规矩矩的"(p.285, 引自 p.28)。而且这五种模型在现实中不是代际替代，而是共存，不同行业、不同技术、不同阶段适用不同模型([[Argument_Caraca_2009_TFSC|Caraça et al., 2009]])(p.29)。例如制药行业：药物"发现"阶段仍接近技术推动模式（基础生物学突破导向药物靶点识别），但[[Clinical Trial|临床试验]]阶段高度依赖与医院、监管机构、患者群体的网络化协作，同一家公司的同一药品，前期遵循线性逻辑、后期遵循系统逻辑。
+Kline and Rosenberg(1986)对第三阶段的总结精辟地指出：创新过程"既不顺畅，也不线性，更不总是规规矩矩的"(p.285, 引自 p.28)。而且这五种模型在现实中不是代际替代，而是共存，不同行业、不同技术、不同阶段适用不同模型([[Argument_Caraca_2009_TFSC|Caraça et al., 2009]])(p.29)。例如制药行业：药物"发现"阶段仍接近技术推动模式（基础生物学突破导向药物靶点识别），但[[Clinical Trial|临床试验]]阶段高度依赖与医院、监管机构、患者群体的网络化协作，同一家公司的同一药品，前期遵循线性逻辑、后期遵循系统逻辑。
 
 近年来又[[Emergence|涌现]]了新的创新驱动力——地缘政治紧张使技术合作带上安全色彩、气候变化等"[[Wicked Problem|棘手问题]]"要求创新不仅创造经济价值还要解决社会问题、数字化转型和人工智能正在重塑所有行业的创新速度(p.29)。这些驱动力不是替代了之前的模型，而是在原有模型的基础上叠加上新的约束和紧迫感。
 
@@ -147,7 +147,7 @@ Kline & Rosenberg(1986)对第三阶段的总结精辟地指出：创新过程"�
 
 **变化二：国家怎么管创新——政策逻辑换了三次。** 政策不是中立的：它决定了什么研究能拿到公共资金、大学和企业合作的激励强度、知识产权的归属(pp.28–35)。
 
-Schot & Steinmueller(2018)与 Lindner et al.(2024)识别出三个政策[[Paradigm|范式]]，分别对应着国家对"创新应该怎么推动"的不同理解(pp.28–29)：
+Schot and Steinmueller(2018)与 Lindner et al.(2024)识别出三个政策[[Paradigm|范式]]，分别对应着国家对"创新应该怎么推动"的不同理解(pp.28–29)：
 
 **范式一：科学促增长（1940s–1980s）。** 二战期间[[Manhattan Project|曼哈顿计划]]和 MIT [[MIT Radiation Laboratory|辐射实验室]]等大规模研发项目向政策制定者展示了科学的巨大回报潜力。受此影响，战后政策以[[Linear Model of Innovation|线性创新模型]]为基础，大规模投资大学基础研究，假设科学发现将自然转化为技术和产品。理论基础来自 Solow(1957)和 Arrow(1962)：知识具有公共品属性，私人市场会对其投资不足，因此政府必须弥补这一[[Market Failure|市场失灵]](pp.28–29)。
 
@@ -202,7 +202,7 @@ Schot & Steinmueller(2018)与 Lindner et al.(2024)识别出三个政策[[Paradig
 
 ---
 
-**这一演化的终点：大学对创新的贡献已远超"技术突破"。** 上述历史进程的累积结果是：进入二十一世纪，大学对创新事业的贡献类型已经大幅扩展。Ulrichsen & Kelleher(2022)将其系统化为一个多维框架（Fig. 2.1, p.37），Ulrichsen (p.37)以此为基础归纳出以下贡献类型：
+**这一演化的终点：大学对创新的贡献已远超"技术突破"。** 上述历史进程的累积结果是：进入二十一世纪，大学对创新事业的贡献类型已经大幅扩展。Ulrichsen and Kelleher(2022)将其系统化为一个多维框架（Fig. 2.1, p.37），Ulrichsen (p.37)以此为基础归纳出以下贡献类型：
 
 > [!abstract] Fig. 2.1 大学对创新事业的贡献类型
 > （改编自 Ulrichsen & Kelleher, 2022）(pp.36–37)

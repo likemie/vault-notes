@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Big Science
@@ -84,7 +84,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **大科学（Big Science）**是指二战及冷战时期兴起的一种由国家战略意志与安全需求主导的科研组织[[Paradigm|范式]]；其核心特征在于依赖巨额国家财政预算、大规模集中式层级化国家实验室、高度跨学科工程协同以及权威型科技主管挂帅，针对界定清晰的突破性物理与工程技术极限（如原子能利用、雷达开发与阿波罗登月）开展集中攻关。这一概念最早由橡树岭国家实验室长期主任阿尔温·温伯格（Alvin Weinberg, 1961, 1967）系统界定并反思，并由[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）引入使命导向政策演进分析。进入 21 世纪，大科学从传统的单体物理巨型装置拓展为包含百亿亿次超算中心、闭环自主机器人实验室、中等规模[[Focused Research Organization|聚焦研究组织]]（FRO）与大规模前竞争产学研联合体的分布式超级创新基础设施。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790, 793–795)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–6, 21–26, 61–63)]]
+> **大科学（Big Science）** 是指二战及冷战时期兴起的一种由国家战略意志与安全需求主导的科研组织[[Paradigm|范式]]；其核心特征在于依赖巨额国家财政预算、大规模集中式层级化国家实验室、高度跨学科工程协同以及权威型科技主管挂帅，针对界定清晰的突破性物理与工程技术极限（如原子能利用、雷达开发与阿波罗登月）开展集中攻关。这一概念最早由橡树岭国家实验室长期主任阿尔温·温伯格（Alvin Weinberg, 1961, 1967）系统界定并反思，并由[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）引入使命导向政策演进分析。进入 21 世纪，大科学从传统的单体物理巨型装置拓展为包含百亿亿次超算中心、闭环自主机器人实验室、中等规模[[Focused Research Organization|聚焦研究组织]]（FRO）与大规模前竞争产学研联合体的分布式超级创新基础设施。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790, 793–795)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–6, 21–26, 61–63)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 标识了科研范式从小作坊式学者个人好奇心探索（小科学，Little Science）向国家动员型、资本与工程高度密集化研发攻关的结构性转变。
@@ -145,7 +145,7 @@ updated: 2026-10-15
 > [!concept-lens] 问题性质与组织适配维度
 > 探讨大[[Scientific Paradigm|科学范式]]的适用边界与制度局限。
 
-> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
+> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **物理目标与社会[[Wicked Problem|棘手问题]]的[[Incommensurability|不可通约性]]** 正如阿尔温·温伯格（Alvin Weinberg, 1967）所警示的，大科学模式的巨大成功依托于其攻关目标在物理和工程层面的清晰界定性；当政策制定者试图复制[[Manhattan Project|曼哈顿工程]]或[[Apollo Program|阿波罗计划]]的集权模式来解决贫困、城市衰败或绿色转型等社会问题时，由于这些问题深深嵌入人类价值观念、生活习惯与利益博弈中，封闭集权的大科学[[Paradigm|范式]]必然因缺乏社会响应性与敏捷互动而失效。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 794–795)]]
 
 ---
@@ -155,7 +155,7 @@ updated: 2026-10-15
 > [!concept-lens] 需求侧拉动与技术外溢维度
 > 审视大科学项目如何转化为民用产业转型动力。
 
-> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
+> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **公共采购作为大科学学习媒介** 大科学攻关若仅局限于实验室封闭研发，极易成为高成本的孤岛；其产生广泛民用技术外溢（如互联网、微电子与先进材料）的关键，在于公共部门通过提出严苛技术标准的公共采购合同，倒逼私营供应商在攻关过程中开展组织学习与工艺创新，从而在更广泛的产业生态中孵化出全新的民用[[Technological Trajectories|技术轨道]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–797)]]
 
 ---
@@ -185,7 +185,7 @@ updated: 2026-10-15
 > [!concept-lens] 高校科研组织转型与资助格局冲突维度
 > 审视大科学中心模式向民用大学工程领域的渗透，以及其与传统单 PI 自由探索经费池之间的深层资源争夺。
 
-> [!claim] [[Argument_Bozeman_2004_JTT|Bozeman & Boardman (2004)]]
+> [!claim] [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]]
 > **产学中心大科学化与掠夺小科学经费争议** 1980 年代以前，大科学主要局限于国防、核能与航天等封闭国家实验室。1984 年[[National Science Foundation|美国国家科学基金会]]（NSF）启动[[Engineering Research Centers|工程研究中心]]（ERC）以及随后的[[Science and Technology Centers|科学技术中心]]（STC），标志着大科学模式（跨学科团队、巨型实验设施共享、大额多年期合作研究协议、多校联合攻关）正式向民用[[Research Universities|研究型大学]]与工程学科系统性移植。然而，这一重大组织转型直接引发了纯科学界传统学者的强烈反弹——数学、物理、化学等基础学科批评大科学中心“掠夺了小科学（Little Science）单项 PI 自由探索科研经费池”，并担忧大学沦为产业界应用研发的短期附庸。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–366, 371)]]
 
 ---
@@ -241,6 +241,6 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统阐述大科学在人工智能与前沿制造时代的[[Paradigm|范式]]重构，剖析中等规模工程科学组织困境，提出[[Focused Research Organization|聚焦研究组织]]（FRO）、[[Genesis Mission|创世纪计划]]国家科学与安全平台（ASSP）以及 [[EUV LLC]]/[[Human Genome Project|HGP]] 前竞争联合体的现代治理机制。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演进脉络，论证大科学模式如何推高科研成本、强化外部刚性问责，并与[[Reproducibility Crisis|可重复性危机]]交织终结了基础科学无需自证的免检地位。
-> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 系统界定大科学作为第二代技术攻关使命政策的组织载体，论证其在应对复杂社会挑战时的制度失灵与公共采购外溢机制。
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 系统界定大科学作为第二代技术攻关使命政策的组织载体，论证其在应对复杂社会挑战时的制度失灵与公共采购外溢机制。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 比较冷战美苏科技体制，实证揭示缺乏民用微观反馈的大科学军备研发如何导致[[National Innovation System|国家创新系统]]的演化失败。
-> - [[Argument_Bozeman_2004_JTT|Bozeman & Boardman (2004)]] — 结合口述史与实证追踪，系统论述大科学跨学科中心模式向[[Research Universities|研究型大学]]与工程科研领域的移植，以及引发的小科学自由探索经费分配张力。
+> - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 结合口述史与实证追踪，系统论述大科学跨学科中心模式向[[Research Universities|研究型大学]]与工程科研领域的移植，以及引发的小科学自由探索经费分配张力。

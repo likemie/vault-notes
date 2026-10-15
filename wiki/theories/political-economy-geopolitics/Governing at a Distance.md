@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Governing at a Distance
@@ -203,7 +203,7 @@ updated: 2026-10-15
 > - **不能直接推出** 理论无法单凭治理技术的存在证明其政策干预的实际学业成效，亦不能将所有量化评估工具先验定性为恶意统治阴谋。
 
 > [!boundary]- 理论边界与谱系辨析：远处治理 vs [[Steering at a Distance|远距离操纵]]（Steering at a Distance）
-> - **学术谱系分流** 远处治理（Governing at a Distance）植根于福柯[[Governmentality|治理术]]与拉图尔科学知识社会学，是由 Rose & Miller (1992) 开创的批判政治社会学理论；而在欧陆公共行政学界同期兴起的 远距离操纵（Steering at a Distance）（源自荷兰 1985 年 [[Higher Education Autonomy and Quality|HOAK]] 白皮书，由 Frans van Vught 与 [[Walter J. M. Kickert|瓦尔特·基克特]]（Walter J. M. Kickert） 等人理论化），则是一套旨在解决高校专业网络直接行政命令失灵的实证制度设计与管理[[Paradigm|范式]]。两者在 20 世纪 80 年代末至 90 年代初双轨并行生成，并非先后承继演变。
+> - **学术谱系分流** 远处治理（Governing at a Distance）植根于福柯[[Governmentality|治理术]]与拉图尔科学知识社会学，是由 Rose and Miller (1992) 开创的批判政治社会学理论；而在欧陆公共行政学界同期兴起的 远距离操纵（Steering at a Distance）（源自荷兰 1985 年 [[Higher Education Autonomy and Quality|HOAK]] 白皮书，由 Frans van Vught 与 [[Walter J. M. Kickert|瓦尔特·基克特]]（Walter J. M. Kickert） 等人理论化），则是一套旨在解决高校专业网络直接行政命令失灵的实证制度设计与管理[[Paradigm|范式]]。两者在 20 世纪 80 年代末至 90 年代初双轨并行生成，并非先后承继演变。
 > - **文献中的同义互用与理论解构** 在当代比较教育与教育社会学研究中，学者们常将二者作为指代“国家退居幕后、由划桨转向掌舵”的功能性同义词互用。批判政策学者（如 [[Stephen Ball]]、[[Sigrid Hartong]] 等）频繁借用本理论的“[[Center of Calculation|计算中心]]”、“转译”与“自我[[Disciplina and Doctrina|规训]]”视角，对现实中声称扩[[Grandes Ecoles|大学校]]自主权的各类[[Steering at a Distance|远距离操纵]]制度实践进行深层权力批判与解构。
 
 ---

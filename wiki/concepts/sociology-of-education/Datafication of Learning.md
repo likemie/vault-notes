@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Datafication of Learning
@@ -71,7 +71,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **学习数据化（Datafication of Learning）**是指在全球教育治理量化转向与[[New Public Management\|新公共管理]]结果规制的影响下，教育系统通过将外部绩效问责逻辑内化并将其转译为从“教学”（Teaching）向“学习”（Learning）的重心转移，进而把学习者的认知发展、情感态度与[[Academic Achievement\|学业表现]]彻底转化为离散的数字编码、跨国基准与标准化测评数据的社会技术过程。这一过程将原本深植于课堂情境、人际互动与文化脉络中的复杂育人活动，剥离、提炼并[[Commensuration\|通约化]]为跨时空可比的指标流，使[[Governing at a Distance\|远处治理]]、算法审计与跨国[[Policy Borrowing\|政策借用]]成为可能。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
+> **学习数据化（Datafication of Learning）** 是指在全球教育治理量化转向与[[New Public Management\|新公共管理]]结果规制的影响下，教育系统通过将外部绩效问责逻辑内化并将其转译为从“教学”（Teaching）向“学习”（Learning）的重心转移，进而把学习者的认知发展、情感态度与[[Academic Achievement\|学业表现]]彻底转化为离散的数字编码、跨国基准与标准化测评数据的社会技术过程。这一过程将原本深植于课堂情境、人际互动与文化脉络中的复杂育人活动，剥离、提炼并[[Commensuration\|通约化]]为跨时空可比的指标流，使[[Governing at a Distance\|远处治理]]、算法审计与跨国[[Policy Borrowing\|政策借用]]成为可能。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向认知、反思与成长等活态教育经验被全面技术化还原为机器可读、可计算、可存储的数字表征与资产形态。
@@ -160,7 +160,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **话语转译命题** | 结果规制借由“教向学转移”的话语掩护，演进为全方位的学习数据化 | [[New Public Management\|新公共管理]]改革下的现代基础教育与高等教育质量评估 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]; Fenwick et al. (2014) |
-> | **认识异化与资产化命题** | 数据化通过通约去语境化重塑教育认知，并将学习过程转化为数字经济资产 | 全球跨国测评体系、商业教育技术平台与多边数据联盟 | Thoutenhoofd (2018); Birch & Muniesa (2020) |
+> | **认识异化与资产化命题** | 数据化通过通约去语境化重塑教育认知，并将学习过程转化为数字经济资产 | 全球跨国测评体系、商业教育技术平台与多边数据联盟 | Thoutenhoofd (2018); Birch and Muniesa (2020) |
 
 ---
 

@@ -152,7 +152,7 @@ sources:
 issuing_organization: "OECD"
 status: draft
 created: 2026-08-26
-updated: 2026-09-18
+updated: 2026-10-16
 ---
 # Argument_Bouckaert_2023_OECD
 
@@ -181,7 +181,7 @@ updated: 2026-09-18
 > | **[[Constructive Alignment\|建构性对齐]]**<br>Biggs (1996) | 解释学习目标、教学活动与评估任务之间的一致性机制。说明若学业评价不直接考核高阶思维，学生受[[Assessment Backwash\|评价反拨]]影响必然退化为应试与表层学习。（pp. 31–32） |
 > | **[[Higher-Order Thinking Skills\|高阶思维技能]]**<br>OECD (2013); Resnick (1987) | 界定评价的核心目标[[Construct\|构念]]，涵盖非算法性、复杂性、涉及[[Metacognition\|元认知]]自我调节的高级认知过程（批判审视、论据辨析、创新问题解决与[[Creativity\|创造性]]构想）。（pp. 4–5, 24–25） |
 > | **[[Authentic Assessment\|真实性评价]]**<br>Wiggins (1998); Shepard (2000) | 作为超越传统客观测试的评价[[Paradigm\|范式]]，主张在模拟现实专业或社会劣构情境的生成性表现任务中测量高阶能力，克服构念代表性不足。（pp. 24–25） |
-> | **[[Formative Assessment\|形成性评价]]**<br>Black & Wiliam (1998); Butler (1988) | 阐明低利害试错环境、质性描述反馈与多轮草稿修订是学生敢于承担智识风险并发展批判与创造潜能的必要教学条件。（pp. 33–34） |
+> | **[[Formative Assessment\|形成性评价]]**<br>Black and Wiliam (1998); Butler (1988) | 阐明低利害试错环境、质性描述反馈与多轮草稿修订是学生敢于承担智识风险并发展批判与创造潜能的必要教学条件。（pp. 33–34） |
 > | **[[Learning Gain\|学习增益]]**<br>Kandiko Howson (2018); McGrath et al. (2015) | 突破静态文凭等级与生源选拔声誉偏误，以学生在大学就读全过程中认知能力与通用素养的纵向增值为核心质量评价基准。（pp. 17–18） |
 
 > [!warrant]- 理论如何支撑论证

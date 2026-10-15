@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-11
+updated: 2026-10-16
 ---
 ## 背景
 
@@ -81,7 +81,7 @@ updated: 2026-10-11
 >
 > ### 从 ESCs 到 Cognition Education 的转化链([[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023]])
 >
-> [[Argument_Johnson_2023_CE\|Johnson & Janzen (2023, p.30)]]详细记录了改革引发的私营化链条中的关键一环——Cognition Education 的起源：
+> [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023, p.30)]]详细记录了改革引发的私营化链条中的关键一环——Cognition Education 的起源：
 >
 > - 原 Auckland 学校董事会的**交通和工资部门**被改制为一家 ESC，名为 **Multiserve**，后更名为 **Cognition Education**([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017]]; [[Argument_ONeill_2016_Report\|O'Neill et al., 2016]])
 > - 受利润驱动，ESCs 多元化其服务产品。Cognition Education 成为一家**由慈善信托 Cognition Education Trust 全资拥有的营利性公司**

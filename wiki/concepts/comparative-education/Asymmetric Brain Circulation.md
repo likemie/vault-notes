@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-30'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Asymmetric Brain Circulation
@@ -85,7 +85,7 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **核心智力赤字命题** | 质量不对等的人才双向流动将直接损害本土科学前沿发展，产生学术质量退化。 | 转型期或受制裁的科学系统 | [[Argument_Dezhina_2022_ECO\|Dezhina & Egerev (2022)]]; Melitz & Redding (2021) |
+> | **核心智力赤字命题** | 质量不对等的人才双向流动将直接损害本土科学前沿发展，产生学术质量退化。 | 转型期或受制裁的科学系统 | [[Argument_Dezhina_2022_ECO\|Dezhina and Egerev (2022)]]; Melitz and Redding (2021) |
 > | **本土化指标注水反馈** | 硬性行政指标与人才流动的现实脱节，迫使高校进行指标注水与合规防御。 | 学术卓越计划考核机制中 | Dezhina & Egerev; Zaitsev (2021) |
 
 ---
@@ -118,7 +118,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Dezhina_2022_ECO\|Dezhina & Egerev (2022)]] | 俄罗斯[[Project 5-100\|5-100计划]]高校引智数据（2020年） | 政策成效评估与统计分析 | 21所卓越高校中引智比例超10%的大学数量及比例 | 仅有 5 所高校（23.8%）实现了超过 10% 的外籍专家比例，且数据包含大量短期访问学者，显示引智成效不佳且存在水分。 | — | 仅代表参与卓越计划的[[Research Universities\|研究型大学]]，不能直接外推至全俄高校。 |
+> | [[Argument_Dezhina_2022_ECO\|Dezhina and Egerev (2022)]] | 俄罗斯[[Project 5-100\|5-100计划]]高校引智数据（2020年） | 政策成效评估与统计分析 | 21所卓越高校中引智比例超10%的大学数量及比例 | 仅有 5 所高校（23.8%）实现了超过 10% 的外籍专家比例，且数据包含大量短期访问学者，显示引智成效不佳且存在水分。 | — | 仅代表参与卓越计划的[[Research Universities\|研究型大学]]，不能直接外推至全俄高校。 |
 > | Dezhina & Egerev | 独联体（CIS）学者流入数据（2015-2017年） | 迁移统计数据分析 | 自[[Community Innovation Survey\|CIS]]国家流入俄罗斯的研究人员增长倍数 | 流入俄[[Nikolas Rose\|罗斯]]的独联体学者数量翻倍，而流出流向则高度集中于美德等发达国家，呈现典型的质量非对称替代。 | — | 数据来自间接统计，官方无完整的人流双向对比库。 |
 
 ---
@@ -126,4 +126,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Dezhina_2022_ECO\|Dezhina & Egerev (2022)]] — 提出了俄罗斯在面临国际限制和卓越引智压力下所显现的非对称学术流动模式，并展示了[[Project 5-100]]中的考核注水现象。
+> - [[Argument_Dezhina_2022_ECO\|Dezhina and Egerev (2022)]] — 提出了俄罗斯在面临国际限制和卓越引智压力下所显现的非对称学术流动模式，并展示了[[Project 5-100]]中的考核注水现象。

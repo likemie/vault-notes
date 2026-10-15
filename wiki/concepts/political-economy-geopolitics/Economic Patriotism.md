@@ -35,7 +35,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 ## 定义
@@ -79,7 +79,7 @@ updated: 2026-10-07
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - 经济爱国主义以"国家利益"之名将公共资源集中于少数枢纽城市，实际上加剧了国家内部的空间不平等——Davidson & Rees-Mogg（1999）预见的"跨国认知精英"与无法适应新跨国世界的人群之间的分化([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.31–32]])
+> - 经济爱国主义以"国家利益"之名将公共资源集中于少数枢纽城市，实际上加剧了国家内部的空间不平等——Davidson and Rees-Mogg（1999）预见的"跨国认知精英"与无法适应新跨国世界的人群之间的分化([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.31–32]])
 > - "经济爱国主义"[[Discourse|话语]]可能掩盖了跨国资本——而非国家——作为空间发展方向的实质决定力量
 >
 

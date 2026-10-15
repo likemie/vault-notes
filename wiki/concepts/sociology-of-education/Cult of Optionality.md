@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Cult of Optionality
@@ -75,7 +75,7 @@ updated: 2026-10-15
 > [!concept-lens] 职业流动与社会资本分配
 > 考察选择权崇拜如何深刻扭曲高等教育的人才导向，导致顶尖智力资源从前沿工程、人文学科与公共治理领域流失。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **智力资源的避险转移** 对选择权的无休止追逐导致当代最优秀的一代头脑普遍游离于重大历史与现实问题之外；哈佛大学等顶尖学府毕业生近半数涌向金融与管理咨询业，正是选择权崇拜在职业选择中的制度化体现。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 75–76)]]
 
 ---
@@ -85,7 +85,7 @@ updated: 2026-10-15
 > [!concept-lens] 创新心理与失败机制
 > 探讨真正的开创性成就为何必须以断绝退路、承担实质性失败为前提。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **断绝退路作为卓越创新的前提** 真正的成功或具有启发意义的失败，要求行动者近乎不顾一切地投身于某项事业；无处不在的备用计划与妥协本能消解了年轻人的智识勇气，使其沦为平庸的履历制造者。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 70)]]
 
 ---
@@ -95,8 +95,8 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **职业漂移命题** | 选择权崇拜将精英推向低风险、高流动的金融咨询业 | 高等教育就业偏好、精英大学职业发展 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025)]]; Barton (2023) |
-> | **创新抑制命题** | 拒绝排他性承诺与风险承担阻碍颠覆性创新与心智成熟 | 青年创业、科研攻关、领导力培育 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025)]] |
+> | **职业漂移命题** | 选择权崇拜将精英推向低风险、高流动的金融咨询业 | 高等教育就业偏好、精英大学职业发展 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]]; Barton (2023) |
+> | **创新抑制命题** | 拒绝排他性承诺与风险承担阻碍颠覆性创新与心智成熟 | 青年创业、科研攻关、领导力培育 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]] |
 
 ---
 

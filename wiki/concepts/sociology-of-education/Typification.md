@@ -46,7 +46,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Typification
@@ -66,7 +66,7 @@ updated: 2026-10-15
 > [!citation-card] 理想类型图式与日常生活秩序建构
 > 根据舒茨的观点，我们理解他人行为的方式取决于一个类型化过程；借由这一过程，观察者利用类似于‘理想类型’的概念来理解人们的所作所为。舒茨主张，这些概念源于我们的日常生活经验，正是通过它们，我们得以对日常生活世界进行分类和组织。正如伯勒尔与摩根所指出的，我们通过自身的传记情境与社会脉络习得这些类型化图式。我们关于日常世界的知识内在于社会秩序之中，而这个世界本身也是由社会所赋予秩序的。我们借以对他人行为进行类型化并理解社会实在的日常知识储备，因情境不同而各异。我们因而生活在一个多重实在的世界中，社会行动者在这些实在之间自如穿梭，恪守着每个世界各自的游戏规则。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 19)]]
 >
-> *According to Schutz, the way we understand the behaviour of others is dependent on a process of typification by means of which the observer makes use of concepts resembling ‘ideal types’ to make sense of what people do. These concepts are derived from our experience of everyday life and it is through them, claims Schutz, that we classify and organize our everyday world. As Burrell & Morgan (1979) observe, we learn these typifications through our biographical locations and social contexts. Our knowledges of the everyday world inheres in social order and this world is socially ordered. The fund of everyday knowledge by means of which we are able to typify other people’s behaviour and come to terms with social reality varies from situation to situation. We thus live in a world of multiple realities, and social actors move within and between these with ease.*
+> *According to Schutz, the way we understand the behaviour of others is dependent on a process of typification by means of which the observer makes use of concepts resembling ‘ideal types’ to make sense of what people do. These concepts are derived from our experience of everyday life and it is through them, claims Schutz, that we classify and organize our everyday world. As Burrell and Morgan (1979) observe, we learn these typifications through our biographical locations and social contexts. Our knowledges of the everyday world inheres in social order and this world is socially ordered. The fund of everyday knowledge by means of which we are able to typify other people’s behaviour and come to terms with social reality varies from situation to situation. We thus live in a world of multiple realities, and social actors move within and between these with ease.*
 
 > [!boundary] 概念边界
 > - 不等于 刻板印象（Stereotype） — 刻板印象是僵化、带有价值偏见与情绪偏执的定型观念；类型化则是人类认知与日常社会交往得以可能的中性本体机制。
@@ -152,7 +152,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心主张 | 方法论机制 | 代表学者与文献 |
 > |---|---|---|---|
 > | **理想类型中介命题** | 理解他人行为必须借由理想类型中介，日常世界是通过常识类型化分类组织的 | 概念分类、常识图式提取、互为主体性解析 | Schutz (1962); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 19)]] |
-> | **多重实在导航命题** | 类型化知识受传记情境塑造，支持行动者在多重实在与规则之间顺畅穿梭 | 传记分析、有限意义域考察、游戏规则[[Decodification\|解码]] | Burrell & Morgan (1979); James (1890) |
+> | **多重实在导航命题** | 类型化知识受传记情境塑造，支持行动者在多重实在与规则之间顺畅穿梭 | 传记分析、有限意义域考察、游戏规则[[Decodification\|解码]] | Burrell and Morgan (1979); James (1890) |
 > | **二阶科学保真命题** | 科学理论是对常识类型化的二阶重构，必须尊重行动者原生的分类意图 | [[Grounded Theory\|扎根理论]]、人因陈述分析、本土概念提升 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 19–20)]] |
 
 ---

@@ -81,7 +81,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-09-09
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Empiricism
@@ -222,7 +222,7 @@ updated: 2026-10-15
 > | **证据立足准则命题** | 理论的有效性完全由可复核的感官经验证据提供概率性确证 | 观察检验、概率推断、证据支持度评估 | Barratt (1971); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 15–16)]] |
 > | **程序阶梯演进命题** | 经验科学遵循经验、分类、量化、关系发现到逼近真理的五阶段递进 | 分类系统化、精确测量、函数建模 | Mouly (1978) |
 > | **观察理论渗透命题** | 观察必然受到研究者理论假说与价值立场的渗透，拒绝素朴[[Objectivism\|客观主义]] | 理论负载分析、[[Reflexivity\|反思性]]批判、证伪主义检验 | Popper (1968); Hanson (1958) |
-> | **方法论经验主义批判命题** | 经验探究不可窄化为一元化实证量化[[Disciplina and Doctrina\|规训]]，教育学本质上是阐释性精神科学 | 科学一元论批判、唯方法论主义反思、历史情境[[Rich and Thick Description\|深描]] | Kazamias & Schwartz (1977); Barber (1972); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] |
+> | **方法论经验主义批判命题** | 经验探究不可窄化为一元化实证量化[[Disciplina and Doctrina\|规训]]，教育学本质上是阐释性精神科学 | 科学一元论批判、唯方法论主义反思、历史情境[[Rich and Thick Description\|深描]] | Kazamias and Schwartz (1977); Barber (1972); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] |
 > | **工程经验实战命题** | 复杂软件与技术系统的构建是一门经验观察性科学，遵循即兴试错与实战反馈裁判 | 现实物理检验、持续即兴试错、去先验教条、管用即行法则 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025); [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11\|Karp & Zamiska (2025, Ch. 11, pp. 122–123)]] |
 
 ---

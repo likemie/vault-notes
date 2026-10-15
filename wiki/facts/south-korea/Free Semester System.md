@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-12
+updated: 2026-10-16
 ---
 
 # Free Semester System
@@ -77,7 +77,7 @@ updated: 2026-10-12
 > - **约束机制** 法定课程标准调整、督导评估与学校自评，结合高校修学能力考试（CSAT）招生改革的软性联动。
 
 > [!citation-card] 关键条文：初中自由学期制课程运作方针
-> 自由学期制旨在摆脱以知识记忆为主的灌输式教学，通过重组教学计划，在上午进行融合核心概念的参与式、探究式基础学科学习，下午全面开展生涯探索、主题选择、艺术体育和社团活动；在该学期内，不实施任何终结性纸笔统考，以过程性评价全面记录学生潜能与个性成长。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]；Kim & Choi (2023)
+> 自由学期制旨在摆脱以知识记忆为主的灌输式教学，通过重组教学计划，在上午进行融合核心概念的参与式、探究式基础学科学习，下午全面开展生涯探索、主题选择、艺术体育和社团活动；在该学期内，不实施任何终结性纸笔统考，以过程性评价全面记录学生潜能与个性成长。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]；Kim and Choi (2023)
 >
 > *The Free Semester System aims to transition middle school education from rote exam preparation to student-centered learning... paper-and-pencil mid-term and final examinations are suspended to cultivate students' dream, talent and future competences.*
 
@@ -159,7 +159,7 @@ updated: 2026-10-12
 > > - **批评学者与部分家长（2018）** 指出在终极升学选拔没有根本改变的背景下，家长倾向于利用自由学期将孩子送入[[Cram Schools|补习班]]进行应试超前抢跑，反而拉大了阶层间的学业差距。
 
 > [!citation-card] 代表性学术评论：金与崔论韩国治理结构下的政策回应
-> 韩国对 [[PISA]] 的政策回应融合了与许多西方国家不同的特征。政府拥有非常强势的规制能力，而新兴行动者（教育监）正在分权化教育政策；面对极端的高压应试生态，韩国通过[[Reference Society|参考社会]]向芬兰的转换，试图利用初中自由学期等政策纠偏，但这种改革始终必须面对家庭重教文化与庞大校外补习体系的剧烈拉锯。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]；Kim & Choi (2023)
+> 韩国对 [[PISA]] 的政策回应融合了与许多西方国家不同的特征。政府拥有非常强势的规制能力，而新兴行动者（教育监）正在分权化教育政策；面对极端的高压应试生态，韩国通过[[Reference Society|参考社会]]向芬兰的转换，试图利用初中自由学期等政策纠偏，但这种改革始终必须面对家庭重教文化与庞大校外补习体系的剧烈拉锯。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]；Kim and Choi (2023)
 >
 > *Korea's policy responses combined features distinct from many Western countries... The reference society dynamically shifted toward Finland to counteract excessive exam competition, navigating tensions between state mandates and entrenched shadow education.*
 

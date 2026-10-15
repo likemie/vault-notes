@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Conectar Igualdad
@@ -66,7 +66,7 @@ updated: 2026-10-08
 ## ANT 分析
 
 > [!example]
-> [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]] 使用[[Actor-Network Theory\|行动者网络理论]]分析 PCI，展示了传统[[Analytic Framework\|分析框架]]难以察觉的权力关系
+> [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] 使用[[Actor-Network Theory\|行动者网络理论]]分析 PCI，展示了传统[[Analytic Framework\|分析框架]]难以察觉的权力关系
 >
 > - **课堂延迟**。课堂系统性地延迟 15 到 20 分钟，原因是让每台电脑就位并通过 E-Learning Class 软件连接内部网络所需的冗长设置。
 > - **E-Learning Class**。该软件成为具有巨大影响力的新兴行动者，连接教室中的所有电脑，让教师能在自己屏幕上看到学生所见、操作学生电脑、与学生共享文件。其西班牙语名称 programa maestro（教师程序或主人程序）暗示了教师对学生的控制。

@@ -91,7 +91,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-11
-updated: 2026-10-10
+updated: 2026-10-16
 ---
 
 # Technological Trajectories
@@ -317,13 +317,13 @@ updated: 2026-10-10
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 系统梳理三代使命政策引导技术轨迹的历史形态，提出依托[[Public Dynamic Capabilities|公共动态能力]]化解[[Complexity Paradox|复杂性悖论]]与协同跨部门轨迹的路径。
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 系统梳理三代使命政策引导技术轨迹的历史形态，提出依托[[Public Dynamic Capabilities|公共动态能力]]化解[[Complexity Paradox|复杂性悖论]]与协同跨部门轨迹的路径。
 > - [[Argument_Pavitt_1984_RP|Pavitt (1984)]] — 提出塑造技术轨迹的三大核心因素（技术来源、用户需求与专有性机制），奠定产业创新分类学经典基石。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 论述如何将技术轨迹理论应用于新一代[[Mission-Oriented Innovation Policy|使命导向创新政策]]，阐明由国家设定方向并打破高碳锁定以开辟全新技术轨道的理论逻辑。
-> - [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]] — 运用欧洲创新调查（CIS）微观数据，通过主成分分析对帕维特四大技术轨迹完成定量[[Operationalization|操作化]]与实证验证。
+> - [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino and Pianta (2016)]] — 运用欧洲创新调查（CIS）微观数据，通过主成分分析对帕维特四大技术轨迹完成定量[[Operationalization|操作化]]与实证验证。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 深入微电子产业前沿，揭示公共代理人（[[DARPA]] 项目经理）如何在[[Vertical Disintegration|纵向碎片化产业]]中调动[[Network Plasticity|网络可塑性]]与五大非正式机制，引导硅锗、应变硅、3D 封装与光芯片等战略性技术轨道跃迁。
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 实证剖析美日半导体产业竞争中从大宗存储器制造微缩向微处理器架构设计与垂直专业化分工的重大技术轨迹跃迁。
-> - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]] — 实证对比美欧信息技术政策，揭示军工首发采购、反垄断规制与第二供应商强制扩散如何塑造美国多元竞争的技术轨迹，而欧洲扶持单一国家冠军则导致技术轨道锁定与跟跑滞后。
+> - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 实证对比美欧信息技术政策，揭示军工首发采购、反垄断规制与第二供应商强制扩散如何塑造美国多元竞争的技术轨迹，而欧洲扶持单一国家冠军则导致技术轨道锁定与跟跑滞后。
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 以[[Semiconductor Research Corporation|SRC]] 为案例，实证展示会员制研究联合体如何通过多轨道计划矩阵对半导体技术轨迹实施分层管理，兼顾主流 CMOS 演进与后摩尔颠覆性器件培育。
 
 ---

@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-19
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Research Purpose
 
@@ -88,7 +88,7 @@ updated: 2026-10-15
 > | **生成理论** | [[Grounded Theory\|扎根理论]]；文献研究 | 生成教科书有效使用的理论 → 扎根理论 |
 > | **比较方法或工具** | 比较方法论；工具检验；比较研究 | 比较[[Questionnaire\|问卷]]与访谈在收集药物使用数据上的效果 → 工具检验 |
 
-三种最常见的跨模式方法组合是：**调查**（横跨证明效果、识别因素、收集意见）、**[[Case Study|案例研究]]**（横跨理解现象、检验效果、生成理论）和**[[Action Research|行动研究]]**（横跨证明效果、评估开发）。具体组合取决于研究目的的精确表述。完整30组配对详见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]（第6.4节）。
+三种最常见的跨模式方法组合是：**调查**（横跨证明效果、识别因素、收集意见）、**[[Case Study|案例研究]]**（横跨理解现象、检验效果、生成理论）和 **[[Action Research|行动研究]]**（横跨证明效果、评估开发）。具体组合取决于研究目的的精确表述。完整30组配对详见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]（第6.4节）。
 
 ---
 

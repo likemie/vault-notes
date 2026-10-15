@@ -131,9 +131,9 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **认知发展阶段图式**<br>[[Perry's Scheme of Intellectual and Ethical Development\|Perry's Scheme of Intellectual and Ethical Development]] | 将[[Epistemology\|认识论]]发展界定为从二元论（非黑即白、权威掌握绝对真理）、多元论到相对主义与承诺的单向演进过程；主张教育环境通过“涵化（[[Enculturation]]）”机制重塑学生的认识论思维。 |
-> | **多维认识论信念体系**<br>[[Epistemological Beliefs\|Epistemological Beliefs]] | Schommer (1990) 打破阶段论假说，提出多维独立信念模型；[[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 进一步提炼出“知识的本质”与“认知的本质”四大核心维度，确立[[Certainty of Knowledge\|知识的确定性]]（Certainty of Knowledge）为认知成熟度的核心指标。 |
-> | **反思性判断模型**<br>Reflective Judgment Model | King & Kitchener (1994) 构建反思性判断模型（Reflective Judgment Model，RJM），阐明个体如何从前反思阶段（确信知识是确定给定的）过渡到准反思阶段（承认知识具有不确定性），最终达成[[Reflexivity\|反思性]]判断（在语境与证据中建构概率性判断）。 |
-> | **学科分类与生命历程模型**<br>[[Biglan's Disciplinary Classification Scheme\|Biglan's Disciplinary Classification Scheme]] | [[Biglan's Disciplinary Classification Scheme\|Biglan (1973)]] 与 Jehng et al. (1993) 的“硬科学 vs. 软科学”学科文化分类，结合 Pulkkinen & Caspi (2002) 的生命历程发展模型，提供区分个体先验特质主动匹配（自我选择）与[[Disciplinary Socialization\|学科社会化]]（环境规范持续塑造）的分析框架。 |
+> | **多维认识论信念体系**<br>[[Epistemological Beliefs\|Epistemological Beliefs]] | Schommer (1990) 打破阶段论假说，提出多维独立信念模型；[[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 进一步提炼出“知识的本质”与“认知的本质”四大核心维度，确立[[Certainty of Knowledge\|知识的确定性]]（Certainty of Knowledge）为认知成熟度的核心指标。 |
+> | **反思性判断模型**<br>Reflective Judgment Model | King and Kitchener (1994) 构建反思性判断模型（Reflective Judgment Model，RJM），阐明个体如何从前反思阶段（确信知识是确定给定的）过渡到准反思阶段（承认知识具有不确定性），最终达成[[Reflexivity\|反思性]]判断（在语境与证据中建构概率性判断）。 |
+> | **学科分类与生命历程模型**<br>[[Biglan's Disciplinary Classification Scheme\|Biglan's Disciplinary Classification Scheme]] | [[Biglan's Disciplinary Classification Scheme\|Biglan (1973)]] 与 Jehng et al. (1993) 的“硬科学 vs. 软科学”学科文化分类，结合 Pulkkinen and Caspi (2002) 的生命历程发展模型，提供区分个体先验特质主动匹配（自我选择）与[[Disciplinary Socialization\|学科社会化]]（环境规范持续塑造）的分析框架。 |
 
 > [!warrant]- 理论如何支撑论证
 > 理论框架为研究提供了双重推论逻辑：一方面，认识论信念作为指导学习与认知加工的“个人理论”，其成熟度决定了学生在面对[[Wicked Problem|劣构问题]]和复杂学术材料时的[[Metacognition\|元认知]]监控与深层加工策略，因而能直接转化为[[Academic Achievement\|学业表现]]差距；另一方面，不同学科在知识确定性上的认识论文化差异，既成为中学生依据自身信念进行学科选择的过滤网（自我选择），又在入学后通过学科训练持续塑造和极化学生的认知取向（[[Disciplinary Socialization\|学科社会化]]）。
@@ -143,9 +143,9 @@ issuing_organization: ""
 ### 认识论信念的构念演化与维度提纯
 
 > [!dev-timeline] 认识论研究的三大理论[[Paradigm\|范式]]演进
-> - **1970 年代 — 发展阶段论起源** Perry (1970) 通过对哈佛大学本科生的深度追踪访谈，开创了认识论信念研究。他提出个体认知经历四大发展阶段：二元论（Dualism，视世界为非黑即白，权威掌握正确答案） $\to$ 多元论（[[Multiplicity]]，承认存在不同观点，但坚信未来科学终将给出标准答案） $\to$ 相对主义（Relativism，认识到所有知识皆为人类主观建构，具有暂时性与语境依赖性） $\to$ 相对主义中的承诺（Commitment within Relativism，在承认无绝对真理的前提下主动确立学术与价值立场）。King & Kitchener (1994) 的[[Reflective Judgment Model\|反思性判断模型]]（RJM）进一步将应对不确定性确立为高阶心智的核心特征。
+> - **1970 年代 — 发展阶段论起源** Perry (1970) 通过对哈佛大学本科生的深度追踪访谈，开创了认识论信念研究。他提出个体认知经历四大发展阶段：二元论（Dualism，视世界为非黑即白，权威掌握正确答案） $\to$ 多元论（[[Multiplicity]]，承认存在不同观点，但坚信未来科学终将给出标准答案） $\to$ 相对主义（Relativism，认识到所有知识皆为人类主观建构，具有暂时性与语境依赖性） $\to$ 相对主义中的承诺（Commitment within Relativism，在承认无绝对真理的前提下主动确立学术与价值立场）。King and Kitchener (1994) 的[[Reflective Judgment Model\|反思性判断模型]]（RJM）进一步将应对不确定性确立为高阶心智的核心特征。
 > - **1990 年 — 多维量表化转向** Schommer (1990) 批评访谈法耗时且难以大规模量化，提出了认识论[[Questionnaire\|问卷]]（Epistemological Questionnaire，EQ），主张个体的认识论系统由相互独立的维度构成，不必在所有维度上同步发展。其模型包含四个维度：知识的稳定性（Stability of Knowledge，即确定性）、知识的结构（[[Simplicity of Knowledge\|structure of knowledge]]，即简单性）、学习的速度（Speed of Learning）、学习的能力（Ability to Learn）。
-> - **1997 年 — 理论框架重构与[[Construct\|构念]]提纯** [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 系统审查过往模型，指出 Schommer 模型混入了隐性智力理论（能力是否固定）和学习任务预期（学习快慢）等外围心理特质。他们倡导将构念提纯为严格指向知识与认知的四大核心维度，并重构为内部连贯的“个人理论（personal theories）”。
+> - **1997 年 — 理论框架重构与[[Construct\|构念]]提纯** [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 系统审查过往模型，指出 Schommer 模型混入了隐性智力理论（能力是否固定）和学习任务预期（学习快慢）等外围心理特质。他们倡导将构念提纯为严格指向知识与认知的四大核心维度，并重构为内部连贯的“个人理论（personal theories）”。
 
 > [!dimension] [[Epistemological Theories\|认识论理论]]的核心分析维度（[[Argument_Hofer_1997_RER\|Hofer & Pintrich, 1997, pp. 119–122]]）
 > - **【知识的本质】[[Certainty of Knowledge\|知识的确定性]]（Certainty of Knowledge）**
@@ -173,7 +173,7 @@ issuing_organization: ""
 > > - **Schommer (1993, 1997) 的否定性证据** 在针对千余名中学生的横截面与[[Cohort Study\|追踪研究]]中，尽管确定性信念与平均学分绩点（Grade Point Average，GPA）存在零阶负相关，但在控制言语智商（Verbal Intelligence Quotient，Verbal IQ）后，确定性维度的预测力完全消失，仅“快速学习”维度保持显著。Schommer et al. (1992) 在数学测验中也未发现确定性信念的显著效应。
 > > - **支持性实证证据** Hofer (2000) 发现领域一般与领域特殊的确定性分数是大学生成绩最强的负向预测源；Köller et al. (2000) 基于德国国际数学与科学[[Trend Study\|趋势研究]]（[[TIMSS\|Trends in International Mathematics and Science Study]]，TIMSS）样本发现物理确定性信念显著负向预测物理成绩（部分通过降低学科兴趣中介）。
 >
-> > [!axis] Wood & Kardash (2002) 的三大方法论诊断
+> > [!axis] Wood and Kardash (2002) 的三大方法论诊断
 > > 早期认识论实证研究结果之所以高度矛盾，主要源于三大设计缺陷：
 > > 1. **统计功效不足（Lack of Statistical Power）** [[Sample Size Determination\|样本量]]过小，缺乏检验中低[[Effect Size\|效应量]]（Small-to-Moderate Effect Sizes）的统计功效；
 > > 2. **偶遇样本局限（Convenience Samples）** 多依赖同质性极高的高校便利样本，限制了变异范围；
@@ -286,7 +286,7 @@ issuing_organization: ""
 > - **为什么不能直接用相关推断因果？** 由于认知能力（$r = -.18$）和家庭文化资本（$r = -.17$）本身就与确定性信念负相关，这就产生了一个经典的“第三变量陷阱”——究竟是“确定性信念阻碍了成绩”，还是仅仅因为“聪明、家里书多的学生既不迷信确定性、又本来就能考高分”？要回答这一疑问，必须使用能同时控制多个变量的结构方程模型（[[Causal Modeling\|SEM]]）。
 
 > [!warrant]- 推理桥梁
-> 相关矩阵不仅证实了确定性信念与学业成就之间的负向关联，也表明确定性信念与智力、家庭背景存在中度共变。这证实了 Wood & Kardash (2002) 的警告：若不进行多元控制，确定性信念的学业效应极可能属于虚假相关；因此必须进入潜变量结构方程建模阶段。（p.357）
+> 相关矩阵不仅证实了确定性信念与学业成就之间的负向关联，也表明确定性信念与智力、家庭背景存在中度共变。这证实了 Wood and Kardash (2002) 的警告：若不进行多元控制，确定性信念的学业效应极可能属于虚假相关；因此必须进入潜变量结构方程建模阶段。（p.357）
 
 ---
 
@@ -440,7 +440,7 @@ issuing_organization: ""
 
 > [!implication]- 破除不当确定性信念的两大可操作科学教学干预路径
 > 1. **干预路径一：引入真实世界争议议题的冲突性证据（Presenting Conflicting Scientific Views on Real-World Issues）** 
->    - *设计范式*：借鉴 Schommer (1990) 与 Kardash & Scholes (1996) 的“双立场争议文本（Dual-Positional Texts）”实验设计；
+>    - *设计范式*：借鉴 Schommer (1990) 与 Kardash and Scholes (1996) 的“双立场争议文本（Dual-Positional Texts）”实验设计；
 >    - *操作流程*：在课堂中针对气候变暖成因、转基因食品安全风险、人工智能伦理规制或流行病传播模型等前沿复杂议题，向学生同步提供由不同学术团队出具但均具备扎实经验数据支持的对立研究报告；
 >    - *认知机制*：强迫学生走出寻找“单一标准答案”的认知舒适区，激发认识论困惑与认知失调，引导学生学习如何权衡不同研究的方法学局限、样本代表性与论证逻辑，从而从二元论心智跃升至反思性判断（[[Reflective Judgment Model\|Reflective Judgment]]）。
 > 2. **干预路径二：通过历史教科书与当代前沿对照展示[[Scientific Paradigm\|科学范式]]更迭（Historical Textbook Comparison & Paradigm Shift [[Tracking]]）** 

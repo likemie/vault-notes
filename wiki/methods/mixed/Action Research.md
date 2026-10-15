@@ -88,7 +88,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-06-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Action Research
 
@@ -118,8 +118,8 @@ updated: 2026-10-15
 ### 定义谱系与否定性界定
 
 > [!phase] 定义谱系的演进脉络
-> - **操作严谨性取向（Corey ➔ Hopkins ➔ Ebbutt ➔ Cohen & Manion）** Corey (1953) 倡导实践者通过[[Scientific Method\|科学方法]]审视自身实践；Hopkins (1985) 将其界定为严谨的实践探究；Ebbutt (1985) 强调行动与反思的系统结合；Cohen & Manion (1994) 聚焦小规模情境干预与效果审视。Kemmis & McTaggart (1992, p. 10) 将其精神概括为：比日常生活更仔细、更系统、更严谨地计划、行动、观察和反思。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 264–266)]]
-> - **哲学深度与批判取向（Carr & Kemmis）** Carr & Kemmis (1986) 引入于尔根·[[Jürgen Habermas\|哈贝马斯]]（Jürgen Habermas）的[[Critical Theory\|批判理论]]，将行动研究定性为旨在促进社会正义的自我[[Reflexivity\|反思性]]探究，使之由局部操作工具上升为批判性社会科学的基石。
+> - **操作严谨性取向（Corey ➔ Hopkins ➔ Ebbutt ➔ Cohen & Manion）** Corey (1953) 倡导实践者通过[[Scientific Method\|科学方法]]审视自身实践；Hopkins (1985) 将其界定为严谨的实践探究；Ebbutt (1985) 强调行动与反思的系统结合；Cohen and Manion (1994) 聚焦小规模情境干预与效果审视。Kemmis and McTaggart (1992, p. 10) 将其精神概括为：比日常生活更仔细、更系统、更严谨地计划、行动、观察和反思。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 264–266)]]
+> - **哲学深度与批判取向（Carr & Kemmis）** Carr and Kemmis (1986) 引入于尔根·[[Jürgen Habermas\|哈贝马斯]]（Jürgen Habermas）的[[Critical Theory\|批判理论]]，将行动研究定性为旨在促进社会正义的自我[[Reflexivity\|反思性]]探究，使之由局部操作工具上升为批判性社会科学的基石。
 > - **全纳与集体主义取向（Kemmis & McTaggart）** 强调唯有通过共同体协作开展的研究才是真正的行动研究，将个体层面的教学反思拓展为集体批判性实践。
 
 > [!boundary] 凯米斯与麦克塔格特的四重否定性界定（Kemmis & McTaggart, 1992, pp. 21–22）
@@ -242,7 +242,7 @@ updated: 2026-10-15
 ## 报告规范与反身性要求
 
 > [!rule] 报告撰写的核心规范
-> McNiff & Whitehead (2009, p. 15) 强调行动研究报告必须系统陈述 11 项关键内容：明确[[Research Problem\|研究议题]]及其演化为改进议题的过程、干预方法论及其选择理据、干预与特定情境的互动关系、数据收集的时间与对象、数据处理与分析程序、干预监测与同行审查机制、[[Reflexivity\|反身性]]处理与偏误控制、[[Success Criteria\|成功标准]]的界定与推导、结论得出与验证过程、研究者的专业成长以及实践本身的实质变革。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 291–293)]]
+> McNiff and Whitehead (2009, p. 15) 强调行动研究报告必须系统陈述 11 项关键内容：明确[[Research Problem\|研究议题]]及其演化为改进议题的过程、干预方法论及其选择理据、干预与特定情境的互动关系、数据收集的时间与对象、数据处理与分析程序、干预监测与同行审查机制、[[Reflexivity\|反身性]]处理与偏误控制、[[Success Criteria\|成功标准]]的界定与推导、结论得出与验证过程、研究者的专业成长以及实践本身的实质变革。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 291–293)]]
 >
 > 报告必须兼顾学术严谨性与实践转化度，在阐明干预与改善之间因果关联的同时，清晰界定对学科知识与校本实践的双重贡献。
 

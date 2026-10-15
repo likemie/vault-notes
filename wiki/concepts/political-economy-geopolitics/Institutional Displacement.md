@@ -45,7 +45,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Institutional Displacement
@@ -139,7 +139,7 @@ updated: 2026-10-15
 > [!concept-lens] [[Liberalization|自由化]]置换的集体行动非对称性维度
 > 探讨当代资本主义制度演进中，为何解除规制与私有化置换往往比建立新型集体规制具有更低的政治推进门槛。
 
-> [!claim] [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]]
+> [!claim] [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]]
 > **退出逻辑对比呼吁逻辑的非对称优势** 建立或维系非市场化的集体规制制度，必须克服严重的搭便车困境，动员全社会各阶层承担协调成本并遵循统一的呼吁逻辑（Voice）；而推进新自由主义市场化置换，改革者只需向微观个体提供一个私有替代选项，个体追求利益最大化的退出冲动（Exit）便会自动触发集体制度的瓦解。这种行动门槛的非对称性，使置换成为当代西方国家深入推进市场化改革的特权通道。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 31–34)]]
 
 ---
@@ -199,6 +199,6 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 首次系统界定置换机制，分析边缘新规则如何通过背叛与入侵累积挤出旧规则并实现质变。（pp. 19–24）
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，界定制度置换在弱否决与低裁量权语境下的突发与双轨竞争替代机制。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 首次系统界定置换机制，分析边缘新规则如何通过背叛与入侵累积挤出旧规则并实现质变。（pp. 19–24）
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，界定制度置换在弱否决与低裁量权语境下的突发与双轨竞争替代机制。
 

@@ -39,14 +39,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 ## 背景
 
 > [!info] 背景
 > 1996 年，加利福尼亚州政府推出了一项大规模的班级缩减计划，旨在通过缩小[[Class Size\|班级规模]]来提高学生[[Academic Achievement\|学业成就]]。该政策参考了田纳西州 STAR 项目（1985–1989）的成功证据——STAR 被 Frederick Mosteller 称为"有史以来最重要的教育调查之一"，显示小班学生在二年级末领先大班学生约 3 个月，贫困和少数族裔学生获益高达两倍。([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.17]]; [[Argument_Wiliam_2019_ERE\|Wiliam, 2019, pp.5–6]])
 >
-> [[Argument_Johnson_2023_CE\|Johnson & Janzen (2023, p.33)]]补充了加州的实施背景：州长在"与教师工会就班级规模争论多年后，决定让他们吞下他们所要求的"（Schrag, 2006, p.232），强制 K-3 班级几乎在一夜之间缩减三分之一，每年花费 USD 1B。但加州缺乏足够的合格教师和教室空间——一支"hastily trained permit teachers"被派往加州学生面前，许多在"portable classrooms"中教学。不出所料，成绩没有立即改善。
+> [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023, p.33)]]补充了加州的实施背景：州长在"与教师工会就班级规模争论多年后，决定让他们吞下他们所要求的"（Schrag, 2006, p.232），强制 K-3 班级几乎在一夜之间缩减三分之一，每年花费 USD 1B。但加州缺乏足够的合格教师和教室空间——一支"hastily trained permit teachers"被派往加州学生面前，许多在"portable classrooms"中教学。不出所料，成绩没有立即改善。
 
 ## 经过
 
@@ -85,7 +85,7 @@ updated: 2026-10-15
 ## 影响与后果
 
 > [!success] 影响与后果
-> - 此案例被 Cartwright & Hardie (2012) 用作论证以下观点的关键证据：成功实施证据本位政策需要在本地具备所有必要的"支持因素"（support factors），否则需要有替代方案或对原始方案进行重大修改([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.18]])
+> - 此案例被 Cartwright and Hardie (2012) 用作论证以下观点的关键证据：成功实施证据本位政策需要在本地具备所有必要的"支持因素"（support factors），否则需要有替代方案或对原始方案进行重大修改([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.18]])
 > - 该案例成为 [[Programme Fidelity vs Adaptation]] 辩论中的经典反面教材
 > - [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] 将此案例的教训推向更深层：问题不仅在于"支持因素是否可复制"，还在于 **[[Randomised Controlled Trials\|RCT]] 试验本身的条件在大规模推广时可能系统性不成立**——STAR 仅需 50 名额外教师且可假设其质量；全州推广需数千名教师且质量不可能同等。这不是"忠实 vs 适应"的执行选择问题，而是**试验条件本身在推广时就不再成立([[Argument_Wiliam_2019_ERE\|Wiliam, 2019, p.7]])**
 > - 该案例还揭示了一个关键的**分布效应** 班级缩减不仅未能提高成就，而且**不成比例地伤害了最弱势学生**——因为教师质量的恶化集中在服务最弱势学生的学校

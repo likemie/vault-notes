@@ -38,7 +38,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Social Museology
@@ -50,7 +50,7 @@ updated: 2026-10-15
 
 > 社会博物馆学在巴西通过社区博物馆（community museums）、贫民窟博物馆（favela museums）和[[Ecomuseology\|生态博物馆]]（ecomuseums）等实践形式得到系统发展。这些实践的共同特征是：社区成员不是博物馆的被动观众，而是[[Knowledge Production\|知识生产]]的主动主体——他们通过口述传统（orality）来保存和传播地方历史，以口述性抵抗欧洲中心主义的书写至上假设，这与非洲和拉丁美洲的伟大知识传统一脉相承([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110]])。
 
-> 社会博物馆学与 [[Ecomuseology\|生态博物馆学]] 高度交叉但侧重不同：生态博物馆学更强调博物馆与自然环境、**地域（territory）**和生态系统的关系；社会博物馆学更强调**社区参与和社会变革**。在巴西实践中，两者经常并存于同一项目中([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110]])。
+> 社会博物馆学与 [[Ecomuseology\|生态博物馆学]] 高度交叉但侧重不同：生态博物馆学更强调博物馆与自然环境、**地域（territory）** 和生态系统的关系；社会博物馆学更强调**社区参与和社会变革**。在巴西实践中，两者经常并存于同一项目中([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110]])。
 
 > > "在这些实践中，主角是居民自己。他们讲述自己的故事，保存自己的记忆，并抵制霸权系统抹除其历史的企图。"([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110, 援引 Chagas, 2001 和 Moutinho, 2007]])
 

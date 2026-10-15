@@ -322,7 +322,7 @@ updated: 2026-10-16
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 美国商务部与 NIST 发布的法定研发中枢顶层愿景与战略白皮书，系统解构 110 亿美元研发资金在[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）共享技术中心、30 亿美元先进封装计划（[[National Advanced Packaging Manufacturing Program|NAPMP]]）、20 亿美元国防部[[Microelectronics Commons|微电子共用体]]及云端设计网关的制度化布局与多元造血治理机制。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 白宫国家科学技术委员会微电子领导小组依据法案授权发布的《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》，系统阐述四大战略支柱（前沿发现、联邦化中试设施、全谱系劳动力、转化生态）与全政府协同机制。
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 分析《芯片与科学法案》对[[Research Universities|研究型大学]]科技研发与理工人才培养的红利，并指出两阶段拨款脱节的制度性风险。
-> - [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] — 评估《芯片与科学法案》对半导体供应链各环节补贴的精准度、经济成本溢价与国家安全护栏条款。
+> - [[Argument_Bown_2024_JEP|Bown and Wang (2024)]] — 评估《芯片与科学法案》对半导体供应链各环节补贴的精准度、经济成本溢价与国家安全护栏条款。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 采用五维比较产业政策框架对比美欧芯片法案的治理模式、财政承诺与制度化约束。
 > - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 实证研究高水平研究型大学在《芯片与科学法案》激励下通过专班机制与工作坊动员跨学科科研团队的微观过程。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统剖析《芯片与科学法案》统筹推进下美国研究型大学在国家半导体体系中的角色重构、人才梯队培养模式及[[Securitization of Technology|技术安全化]]张力。

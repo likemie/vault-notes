@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-06'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Self-control
@@ -164,10 +164,10 @@ updated: 2026-10-15
 > [!concept-lens] 学习成果的非认知机制传导
 > 探讨自我控制如何从底层[[Inhibitory Control\|抑制控制]]与延迟满足出发，为高阶认知策略的调用与长周期学业成功提供不可或缺的心智保障。
 
-> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, p. 54)]]; Higgins et al. (2015)
+> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 54)]]; Higgins et al. (2015)
 > **非认知对学业增益的底层支撑** 自我控制并非孤立的品格表现，而是学生调用高阶学习策略的先决条件。在英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）的实证证据体系中，自我控制与自我调节构成了教学与学习工具箱中“[[Metacognition\|元认知]]与自我调节”（Metacognition and Self-regulation）策略的核心基底，能够为中小学学童带来平均 7 个月的额外学业进展（$+7$ months progress）。当学生能够有效抵御即时诱惑并维持任务注意时，[[Higher-Order Thinking Skills\|高阶思维]]与探究活动才能在课堂中持续展开。
 
-> [!claim] Mischel et al. (1989); Duckworth & Seligman (2005)
+> [!claim] Mischel et al. (1989); Duckworth and Seligman (2005)
 > **延迟满足对长期成就的因果效应** 经典纵向[[Cohort Study\|追踪研究]]表明，儿童期展现出的延迟满足与冲动控制能力对青少年时期的标准化统考成绩（SAT/GCSE）、身心健康与社会流动具有强稳健的预测效力，甚至超越智力测验（IQ）的独立解释方差，确立了自我控制在全人发展因果网络中的枢纽地位。
 
 ---
@@ -177,10 +177,10 @@ updated: 2026-10-15
 > [!concept-lens] 非学业产出的心理测量学效度
 > 探讨相较于客观学业统考成绩，非学业素养中的自我控制在测评工具选择与效度验证上面临的独特方法学挑战。
 
-> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, p. 54)]]; Wigelsworth (2017)
+> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 54)]]; Wigelsworth (2017)
 > **非学业测量工具的信效度赤字** 相较于依托国家行政考试数据库（如英国 NPD）客观追踪的学科成绩，自我控制等非学业产出的心理测量学工具长期存在信效度报告不全、[[Predictive Validity\|预测效度]]中等及缺乏统一标准的困境。EEF 委托开展的非学业测评[[Systematic Review\|系统综述]]表明，大量研究采用的研究者自编量表或简短[[Questionnaire\|问卷]]极易受社会赞许性、[[Hawthorne Effect\|霍桑效应]]及教师主观期望偏差的干扰；若未经严格心理测量学验证便投入大规模因果试验，将导致[[Effect Size\|效应量]]严重稀释与真实成效掩盖。
 
-> [!claim] [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, pp. 69–70)]]; Kennett et al. (2008)
+> [!claim] [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022, pp. 69–70)]]; Kennett et al. (2008)
 > **[[Mixed Methods Research\|混合方法]]与效标锚定的测量破局** 在复杂干预评估中，单纯使用自我控制量表（如 Rosenbaum 自我控制量表 SCS）的量化打分难以完整捕捉个体的真实自律过程。必须将标准化量表测量与深度[[Qualitative Interview\|质性访谈]]、即时生态瞬时评估（EMA）以及课堂行为观察进行多源[[Triangulation\|三角互证]]，将抽象分值与具体应对策略（如分心管理中的认知重构）效标锚定，方能建立稳健的[[Construct Validity\|构念效度]]。
 
 ---
@@ -190,10 +190,10 @@ updated: 2026-10-15
 > [!concept-lens] 自控力的干预可塑性与生态化教学设计
 > 探讨自我控制究竟是固定的特质性人格倾向，还是可通过后天针对性支架教学进行系统培育的技能库。
 
-> [!claim] [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, pp. 69–70)]]; Rosenbaum (1990)
+> [!claim] [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022, pp. 69–70)]]; Rosenbaum (1990)
 > **习得性资源感的可训练属性** 自我控制理论（Theory of Self-control）打破了将自律视为先天意志力的教条假说，将其确立为个体在后天互动中逐步积累的“习得性资源感”（Learned Resourcefulness）。这一[[Construct\|构念]]包含三大可习得技能：监控内部生理与情绪唤醒、运用认知重构平抑焦虑、以及通过自我对话与分步奖励维持长远目标。这意味着学校教学能够通过系统的策略训练有效提升学生的自我控制效能。
 
-> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, p. 54)]]; van Poortvliet et al. (2019)
+> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 54)]]; van Poortvliet et al. (2019)
 > **融入日常[[Scaffolding\|教学支架]]促进技能迁移** 单纯脱离真实学科情境的意志力讲授无法自动转化为学习成效。EEF 小学[[Social-Emotional Learning\|社会情感学习]]（SEL）指导报告实证指出，唯有将自我控制策略转化为日常课堂中的显性规则支架（如情绪停看听信号、同伴相互监督检查表、挫折应对思维建模），并在真实学科任务中高频演练，才能跨越情境鸿沟，带来平均 4 个月的额外学业收益。
 
 ---
@@ -203,7 +203,7 @@ updated: 2026-10-15
 > [!concept-lens] 自我控制的性别社会化与行为表现差异
 > 探讨不同性别在课堂自控表现上的系统性差异及其对后续课堂适应的中介作用。
 
-> [!claim] Lekhal (2015); [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]]
+> [!claim] Lekhal (2015); [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]]
 > **女生的自控优势与行为中介效应** 在基础教育课堂中，女生在反应抑制、情绪稳定与[[Cognitive Shifting\|任务切换]]的综合自我控制评分上显著高于男生（$d = -0.42, p = .000$）。这种性别差异在很大程度上受家庭与学校对女童更早的服从自律社会化期待所强化。路径分析揭示，自我控制在性别与外显课堂破坏行为之间发挥完全中介作用，使得高自控水平的学生更少展现出阻碍学习行为，从而在长周期中积累起更高的课堂参与度和学业效能。
 
 ---
@@ -272,16 +272,16 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, p. 54)]]; Wigelsworth (2017) | 英国中小学与早期教育非学业素养测评文献库 | [[Systematic Review\|系统综述]]与测量工具数据库摸排 | 自我控制（Self-control）与韧性（Resilience）测评工具的心理测量学指标 | 现有非学业测量工具普遍缺乏高标准效度验证；[[Predictive Validity\|预测效度]]多呈中等；亟须编制统一标准化测量工具库 | — | 宏观系统综述，确证非认知素养评估中的心理测量学效度赤字与开发标准数据库的制度必要性 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 54)]]; Wigelsworth (2017) | 英国中小学与早期教育非学业素养测评文献库 | [[Systematic Review\|系统综述]]与测量工具数据库摸排 | 自我控制（Self-control）与韧性（Resilience）测评工具的心理测量学指标 | 现有非学业测量工具普遍缺乏高标准效度验证；[[Predictive Validity\|预测效度]]多呈中等；亟须编制统一标准化测量工具库 | — | 宏观系统综述，确证非认知素养评估中的心理测量学效度赤字与开发标准数据库的制度必要性 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 详述英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）2014 年起将评价范围拓展至自我控制与韧性等非学业产出（Non-attainment outcomes），并揭示非认知测量工具的信效度赤字与 [[Social-Emotional Learning\|SEL]] 实践指南演化。
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 援引 Kennett et al. (2008) [[Mixed Methods Research\|混合方法研究]]，阐明 Rosenbaum (1990) 自我控制理论与习得性资源感（Learned Resourcefulness）在赋能个体行为自我管理中的机制，并引述 Lekhal (2015) 性别差异（$d = -0.42$）与行为中介证据。
-> - Duckworth & Seligman (2005) — 经典纵向追踪实证，证实自我控制对青少年[[Academic Achievement\|学业表现]]的预测力超越智商（IQ）。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详述英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）2014 年起将评价范围拓展至自我控制与韧性等非学业产出（Non-attainment outcomes），并揭示非认知测量工具的信效度赤字与 [[Social-Emotional Learning\|SEL]] 实践指南演化。
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 援引 Kennett et al. (2008) [[Mixed Methods Research\|混合方法研究]]，阐明 Rosenbaum (1990) 自我控制理论与习得性资源感（Learned Resourcefulness）在赋能个体行为自我管理中的机制，并引述 Lekhal (2015) 性别差异（$d = -0.42$）与行为中介证据。
+> - Duckworth and Seligman (2005) — 经典纵向追踪实证，证实自我控制对青少年[[Academic Achievement\|学业表现]]的预测力超越智商（IQ）。
 > - van Poortvliet et al. (2019) — EEF 官方实践指南，系统提炼在小学课堂中系统落地社会情感学习（SEL）与自我控制策略的循证建议。
 
 ---
@@ -292,8 +292,8 @@ updated: 2026-10-15
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] | 来源论证 | 详述 [[Education Endowment Foundation\|EEF]] 拓展自我控制等非学业素养的制度背景与心理测量学审议。 |
-> | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] | 来源论证 | 呈现自我控制理论（Rosenbaum, 1990）与习得性资源感的[[Mixed Methods Research\|混合方法]]实证应用。 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 来源论证 | 详述 [[Education Endowment Foundation\|EEF]] 拓展自我控制等非学业素养的制度背景与心理测量学审议。 |
+> | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] | 来源论证 | 呈现自我控制理论（Rosenbaum, 1990）与习得性资源感的[[Mixed Methods Research\|混合方法]]实证应用。 |
 > | [[Metacognition]] | 概念 | 上层心智机制；自我控制提供抗干扰与情绪平抑底座，支撑高阶元认知策略调用。 |
 > | [[Academic Achievement]] | 概念 | 下游终极产出；自我控制通过提升[[Student Engagement\|学习投入]]与持久性促进长期学业成就。 |
 > | [[Self-Regulated Learning]] | 概念 | 广义理论框架；自我控制担当自我调节学习执行阶段的制动与稳定功能。 |

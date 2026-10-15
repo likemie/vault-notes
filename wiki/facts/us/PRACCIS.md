@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-09-22
+updated: 2026-10-16
 ---
 
 # PRACCIS
@@ -104,4 +104,4 @@ updated: 2026-09-22
 > | [[Clark A. Chinn]] | 人物 | PRACCIS 项目的联合主持者与理论设计者。 |
 > | [[AIR Model of Epistemic Cognition]] | 理论 | 指导 PRACCIS 课程支架与探究设计的底层认知理论。 |
 > | [[Epistemic Agency]] | 概念 | PRACCIS 课堂探究旨在赋权与培育的核心学生权能。 |
-> | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] | 论证 | 依托 PRACCIS 项目第二队列初中生实证数据展开论辩分析的核心成果。 |
+> | [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] | 论证 | 依托 PRACCIS 项目第二队列初中生实证数据展开论辩分析的核心成果。 |

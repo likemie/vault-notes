@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-21
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 # Sampling Error
 
@@ -66,7 +66,7 @@ updated: 2026-09-17
 ### 中心极限定理
 
 > [!feature]
-> - **[[Central Limit Theorem\|中心极限定理]]（Central Limit Theorem）** 若从任何总体中反复抽取等大的随机大样本，这些样本的均值将近似正态分布，且样本均值的均值将近似等于总体均值。[[Sample Size Determination\|样本量]]越大，样本均值的分布越接近正态分布——无论原始总体的形状如何。Hopkins 等（1996, p. 159, 388）指出，除非存在极不寻常的分布，25 例及以上的样本通常即可产生正态的均值抽样分布。Rose & Sullivan（1993, p. 144）提醒，95% 的所有样本均值落在总体均值加减 1.96 个[[Standard Error\|标准误]]的范围内。
+> - **[[Central Limit Theorem\|中心极限定理]]（Central Limit Theorem）** 若从任何总体中反复抽取等大的随机大样本，这些样本的均值将近似正态分布，且样本均值的均值将近似等于总体均值。[[Sample Size Determination\|样本量]]越大，样本均值的分布越接近正态分布——无论原始总体的形状如何。Hopkins 等（1996, p. 159, 388）指出，除非存在极不寻常的分布，25 例及以上的样本通常即可产生正态的均值抽样分布。Rose and Sullivan（1993, p. 144）提醒，95% 的所有样本均值落在总体均值加减 1.96 个[[Standard Error\|标准误]]的范围内。
 
 ### 均值的标准误
 

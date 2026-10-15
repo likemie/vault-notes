@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-03
-updated: 2026-09-11
+updated: 2026-10-16
 ---
 
 # Emotional Creativity Inventory
@@ -99,7 +99,7 @@ updated: 2026-09-11
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | ECI 各国翻译修订版 | 纳入高校创造力干预元分析（涵盖 Mahasneh & Gazo, 2019 等），评估干预对情绪[[Creativity\|创造力]]子[[Construct\|构念]]的改善效果 | 全量表 $\alpha = 0.84 \sim 0.90$ | 情绪创造力构念对常规认知干预的敏感度偏弱（$N = 9, g = 0.397$），在多维创造力子构念中响应滞后，单纯情绪训练效应不显著（$g = -0.066$） |
-> | Mahasneh & Gazo (2019) | 阿拉伯语版 ECI | 约旦哈希姆大学本科生（$EG = 35 / CG = 32$），检验情绪智力与创造力干预课程对大学生情绪创造力各维度的塑造 | 内部一致性 $\alpha = 0.88$ | 干预组在 ECI 新颖性与有效性维度产生中等幅度的[[Pre-test and Post-test\|后测]]提升 |
+> | Mahasneh and Gazo (2019) | 阿拉伯语版 ECI | 约旦哈希姆大学本科生（$EG = 35 / CG = 32$），检验情绪智力与创造力干预课程对大学生情绪创造力各维度的塑造 | 内部一致性 $\alpha = 0.88$ | 干预组在 ECI 新颖性与有效性维度产生中等幅度的[[Pre-test and Post-test\|后测]]提升 |
 
 ---
 

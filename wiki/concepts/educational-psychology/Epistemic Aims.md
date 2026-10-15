@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-10-02
+updated: 2026-10-16
 ---
 
 # Epistemic Aims
@@ -219,7 +219,7 @@ updated: 2026-10-02
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] — 系统论证认识目标作为[[Epistemic Cognition\|认识论认知]]首要构件的必然性，揭示其在解释同信念不同行为中的关键中介作用。
-> - [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] — 在 [[AIR Model of Epistemic Cognition\|AIR]] 模型下将认识目标拓展为包含模型建构与证据评估的广义认识成就，奠定科学论证评价体系。
+> - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 在 [[AIR Model of Epistemic Cognition\|AIR]] 模型下将认识目标拓展为包含模型建构与证据评估的广义认识成就，奠定科学论证评价体系。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 认识论认知干预因果[[Meta-analysis\|元分析]]，实证证实了[[Epistemology\|认识论]]干预对指向深层理解与高阶论证的认识目标具有显著促进效应，并量化揭示了测验目标对齐的调节机制。
 > - [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] — 立足[[Virtue Epistemology|美德认识论]]提出教育的三重认识论目标体系（内生机能、智力技能与理智品格），系统阐明生成式 AI 依赖引发的[[Cognitive Deskilling|去技能化]]危机对育人目标的侵蚀机制。
 

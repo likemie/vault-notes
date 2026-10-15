@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # National Education Policy Center
@@ -57,7 +57,7 @@ updated: 2026-10-15
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **国家教育政策中心（[[National Education]] Policy Center, NEPC）**是设于美国科罗拉多大学博尔德分校（University of Colorado Boulder）教育学院的非营利独立学术智库与[[Educational Brokerage Agency\|知识中介机构]]。中心致力于生成、综合与广泛传播严谨的、经过同行评议的高质量教育实证研究，首创将实证综述与专业律师示范法条深度整合的[[Legislative Policy Brief\|立法政策简报]][[Paradigm\|范式]]，直接为国家与各州立法机构提供具有法律可操作性的改革方案。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
+> **国家教育政策中心（[[National Education]] Policy Center, NEPC）** 是设于美国科罗拉多大学博尔德分校（University of Colorado Boulder）教育学院的非营利独立学术智库与[[Educational Brokerage Agency\|知识中介机构]]。中心致力于生成、综合与广泛传播严谨的、经过同行评议的高质量教育实证研究，首创将实证综述与专业律师示范法条深度整合的[[Legislative Policy Brief\|立法政策简报]][[Paradigm\|范式]]，直接为国家与各州立法机构提供具有法律可操作性的改革方案。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
 
 > [!org-context] 机构背景
 > - **成立时间与历史渊源** 2010 年正式设立，其前身为 1998 年创设的教育与公共利益中心（Education and the Public Interest Center, EPIC）及教育政策研究联盟（EPRU），由著名法学家与教育学者凯文·韦尔纳（Kevin Welner）担任创始主任。

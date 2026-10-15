@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Marlene Scardamalia
@@ -115,5 +115,5 @@ updated: 2026-10-07
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] — 在[[Knowledge Building Theory|知识建构]]社群教学法与 Knowledge Forum 环境中开展 7 个月实证追踪，阐明[[Reflective Structuration|反思性结构化]]与[[Opportunistic Collaboration|弹性协作]]如何有效落实学生的[[Epistemic Agency|认识能动性]]与深层概念建构。
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 依托 Scardamalia 的[[Epistemic Agency\|认识能动性]]理论，论证生成式 AI 环境下人类学习者保留最高[[Metacognition\|元认知]]调控与多源核验裁决权的不可替代性。（pp. 358–360）
-> - [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] — 评述科学探究实践中认识能动性的[[Operationalization\|操作化]]测量与课堂协商机制。（pp. 222–224）
+> - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 评述科学探究实践中认识能动性的[[Operationalization\|操作化]]测量与课堂协商机制。（pp. 222–224）
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — [[Systematic Review\|系统综述]]探究教学有效性，强调赋予学生探究自主权与认识责任是[[Inquiry-Based Learning\|探究学习]]超越[[Direct Instruction\|直接教学]]的本质特征。（p. 2）

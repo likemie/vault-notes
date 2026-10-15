@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-09-28
+updated: 2026-10-16
 ---
 
 # Dehumanization（非人性化）
@@ -45,7 +45,7 @@ updated: 2026-09-28
 ## 定义
 
 > [!def] 核心定义
-> **非人性化（Dehumanization）**是保罗·[[Paulo Freire\|弗莱雷]]解放教育理论的存在论与伦理学核心概念。指不公正的压迫制度与统治霸权将受压迫者异化和物化为“东西”（things）或被动的客体，剥夺了其说出自己词语与决定自己命运的权利。解放教育的终极目标正是克服非人性化、恢复受压迫者与压迫者双方的人性尊严。[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 46, pp. 61–63)]]
+> **非人性化（Dehumanization）** 是保罗·[[Paulo Freire\|弗莱雷]]解放教育理论的存在论与伦理学核心概念。指不公正的压迫制度与统治霸权将受压迫者异化和物化为“东西”（things）或被动的客体，剥夺了其说出自己词语与决定自己命运的权利。解放教育的终极目标正是克服非人性化、恢复受压迫者与压迫者双方的人性尊严。[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 46, pp. 61–63)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向人类由创造历史的能动主体被物化降格为被动东西的存在论畸变。

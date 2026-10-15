@@ -52,7 +52,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Measurement Alignment
@@ -80,10 +80,10 @@ updated: 2026-10-15
 
 > [!taxonomy] 测量对齐的双重维度
 > [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] 明确将测量对齐划分为两个独立且不可替代的子维度：
-> - **颗粒度/特异性对齐（Specificity Alignment）** 测量**层次（Level）**的一致性。
+> - **颗粒度/特异性对齐（Specificity Alignment）** 测量**层次（Level）** 的一致性。
 >   - *正确对齐*：使用领域通用的[[Epistemology\|认识论]][[Questionnaire\|问卷]]预测综合平均绩点（[[Academic Achievement\|GPA]]）；使用特定课程的微观任务问卷预测单次期末考分。
 >   - *错配案例*：使用宽泛的通用[[Epistemological Beliefs\|认识论信念]]量表去预测某次具体的化学实验操作得分。
-> - **学科领域对齐（Domain Alignment）** 测量**情境（Context）**的一致性。
+> - **学科领域对齐（Domain Alignment）** 测量**情境（Context）** 的一致性。
 >   - *正确对齐*：在数学课堂中发放数学认识论量表，并以数学期末统考成绩作为[[Dependent Variable\|因变量]]。
 >   - *错配案例*：让学生填写关于科学探索的认识论问卷，却收集其阅读理解或历史论文得分来计算相关。
 

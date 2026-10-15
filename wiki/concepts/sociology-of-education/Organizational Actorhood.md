@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-11'
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Organizational Actorhood
@@ -84,7 +84,7 @@ updated: 2026-10-08
 ## 核心要素
 
 > [!abstract]
-> 根据 Bromley & Meyer (2015)，组织能动者身份包含四个核心维度([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.148]])：
+> 根据 Bromley and Meyer (2015)，组织能动者身份包含四个核心维度([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.148]])：
 > - **自主性（autonomy）** 大学拥有独立的决策权，能够定义自身目标和战略方向。传统欧洲大学是政府行政系统的延伸——预算由教育部拨付、人事由政府任命、课程由国家规定。现代大学则像独立法人：自行设定战略规划、自主筹集经费、独立做出学术和人事决策。例：一所现代大学的校长可以制定"五年进入 THE 排名前 100"的战略目标，而不是等待教育部的年度指令
 > - **目标导向（goal-orientation）** 大学主动设定和追求可测量的目标，而非被动响应外部指令。这不同于传统的学术好奇驱动——大学管理者思考的是"我们的[[Research Impact\|研究影响力]]指标如何提升""我们的国际化程度是否达标"，而不是"教授们对什么感兴趣"。例：越来越多大学将[[Research Problem\|研究议题]]有意识地与 [[UN Sustainable Development Goals\|SDGs]] 对齐，这不是因为某个教授的好奇心，而是大学的组织性战略决策([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.150–151]])
 > - **问责性（accountability）** 大学对其行为和绩效承担责任，接受外部评估和排名。这体现在研究评估体系（如英国 REF 中的"影响"权重持续增加）、[[Global Universities Rankings\|全球大学排名]]（[[THE Impact Ranking]]、[[Academic Ranking of World Universities\|ARWU]]、THE-WUR）、以及大学 CSR 报告的发布([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.146–147, 152–153]])
@@ -110,7 +110,7 @@ updated: 2026-10-08
 > - 大学-社会关系正变得更加渗透性（permeable），传统的"象牙塔"模式日益失去合法性。大学不再能仅以"追求真理"为由与社会保持距离——它被期待说明其研究如何惠及纳税人、如何应对气候变化、如何促进社会公正([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.149]])
 > - 2005 年 Carnegie Foundation 引入社区参与分类（community engagement classification），标志着大学社会嵌入性在美国高等教育中的正式制度化（Driscoll, 2009，引自）
 > - [[UN Sustainable Development Goals\|SDGs]] 为大学的组织能动者身份提供了全球性"演练场"：大学通过四种机制——研究对齐、教学对齐、内部政策对齐和网络对齐——系统性地将组织议程与全球治理目标绑定，详见 [[Argument_Zapp_2022_Springer#第四步：SDGs 作为催化剂——四种嵌入机制]]([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.150–154]])
-> - Zapp & Lerch (2020) 分析全球近 465,000 个学位项目，识别出 22,451 个具有明确国际取向——全球治理、国际发展、比较法、[[Intercultural Education|跨文化教育]]等。这不仅是教学内容的更新，更是大学将自身重新定位为全球治理行动者的结构性证据([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.152]])
+> - Zapp and Lerch (2020) 分析全球近 465,000 个学位项目，识别出 22,451 个具有明确国际取向——全球治理、国际发展、比较法、[[Intercultural Education|跨文化教育]]等。这不仅是教学内容的更新，更是大学将自身重新定位为全球治理行动者的结构性证据([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.152]])
 
 > [!info]- 核心数据
 > - 全球 **200+ 所**大学发布 CSR/可持续发展报告，大多数在过去 **5 年内**首次发布（Corporate Register, 2019，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.152–153]]）

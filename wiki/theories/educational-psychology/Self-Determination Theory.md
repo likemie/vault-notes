@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-05'
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Self-Determination Theory
@@ -76,7 +76,7 @@ updated: 2026-10-09
 > - **知识位置** 由 Edward L. Deci 和 Richard M. Ryan 于 20 世纪 70–80 年代确立，是当代教育心理学、学习科学与教育技术领域最具影响力的动机[[Paradigm\|范式]]之一。
 
 > [!claim] 核心主张
-> 自我决定理论主张，人是具有整合性自我发展潜能的主动有机体；其高质量的行为投入、[[Surface and Deep Learning\|深层学习]]与心理繁荣，取决于社会或技术环境在多大程度上支持其**自主性（Autonomy）**、**胜任感（Competence）**与**归属感（Relatedness）**这三大基本心理需求；在教育技术情境中，当工具从外在控制转向提供自适应选择、即时正向反馈与无评判交互时，学生的学习动机便能沿自决连续体内化为强大的自主投入。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 2, 16)]]
+> 自我决定理论主张，人是具有整合性自我发展潜能的主动有机体；其高质量的行为投入、[[Surface and Deep Learning\|深层学习]]与心理繁荣，取决于社会或技术环境在多大程度上支持其**自主性（Autonomy）**、**胜任感（Competence）** 与**归属感（Relatedness）** 这三大基本心理需求；在教育技术情境中，当工具从外在控制转向提供自适应选择、即时正向反馈与无评判交互时，学生的学习动机便能沿自决连续体内化为强大的自主投入。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 2, 16)]]
 
 > [!citation-card]- 关键表述
 > 这一对[[Academic Achievement\|学业成绩]]和[[Affective Outcomes\|情感动机]]维度的显著促学效应，有力支持了自我决定理论与[[Control-Value Theory\|控制-价值理论]]，凸显了生成式 AI 如何满足学习者的基本心理需求（即自主性、胜任感与归属感）并促进[[Student Engagement\|学习投入]]。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 16)]]
@@ -104,8 +104,8 @@ updated: 2026-10-09
 > [!proposition-chain] 核心命题一｜环境对三大基本心理需求的满足直接决定了个体动机的高质量激发与维持
 > - **前提一** 人类天生具有探索环境、掌握技能和发展统整自我的主动倾向，但这并非无条件发生，而需要特定的环境滋养。
 >   > [!evidence-grid]- 证据
->   > - **经典实证证据** Deci & Ryan (2000) 跨文化与跨学段[[Meta-analysis\|元分析]]证实，自主支持型教学环境显著提高学生的[[Academic Engagement\|学业投入]]与概念理解深度。
->   > - **AI 促学元分析实证** [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] 证实生成式 AI 对大学生[[Affective Outcomes\|情感动机]]状态产生中到大效应（$g^+ = 0.617$），即时自适应互动显著满足了学习自主性与胜任感。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 10, 16)]]
+>   > - **经典实证证据** Deci and Ryan (2000) 跨文化与跨学段[[Meta-analysis\|元分析]]证实，自主支持型教学环境显著提高学生的[[Academic Engagement\|学业投入]]与概念理解深度。
+>   > - **AI 促学元分析实证** [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 证实生成式 AI 对大学生[[Affective Outcomes\|情感动机]]状态产生中到大效应（$g^+ = 0.617$），即时自适应互动显著满足了学习自主性与胜任感。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 10, 16)]]
 > - **前提二** 自主性（体验行为出自自我意志）、胜任感（体验应对挑战的能力）与归属感（体验被理解与接纳）构成了人类不可或缺的三大心理维生素。
 > - **推导** ① 外部环境支持自主、胜任与归属 $\to$ ② 学习者的基本心理需求得到满足 $\to$ ③ 激发出由内在兴趣驱动的自主机能（Autonomous Functioning），从而达成深层认知与持久学业投入。
 
@@ -113,7 +113,7 @@ updated: 2026-10-09
 > - **前提一** 绝大多数学校教育任务并非完全由纯粹的“乐趣”驱动，必须包含外在的价值规范与纪律要求。
 > - **前提二** 个体具有将外部价值标准吸纳为自我构成部分的内在同化机制（Organismic Integration）。
 >   > [!evidence-grid]- 证据
->   > - **内化梯度模型** Ryan & Deci (2000) 实验表明，在解释任务重要性、承认学习困难并给予选择权时，外在动机成功跃迁为认同调节与整合调节。
+>   > - **内化梯度模型** Ryan and Deci (2000) 实验表明，在解释任务重要性、承认学习困难并给予选择权时，外在动机成功跃迁为认同调节与整合调节。
 > - **推导** ① 外部规约在富有共情与支持的环境中被传达 $\to$ ② 学习者理解任务对个人长远发展的工具性价值（认同调节） $\to$ ③ 行为规约与个人核心价值观彻底融合（整合调节） $\to$ ④ 形成等同于内在动机的强劲学习动能。
 
 > [!proposition-chain] 核心命题三｜控制型外部压力会削弱感知因果轨迹并诱发认知退缩或防御性妥协
@@ -160,7 +160,7 @@ updated: 2026-10-09
 > - **[[Ontology\|本体论]]** 采取有机体辩证观（Organismic-Dialectic Perspective）：人是具有主动整合倾向的生命系统，但其健康潜能的实现严格受制于外部社会文化语境的滋养或阻抑。
 > - **[[Epistemology\|认识论]]** 强调主观心理体验的客观真实性与实证可测性；拒绝将动机还原为单一外在行为频次，聚焦动机背后的质性结构（自决程度）。
 > - **方法含义** 倡导量化[[Questionnaire\|问卷]]（如自决指数量表、需求满足量表）、实验干预（控制型 vs 自主支持型指导语）与[[Qualitative Interview\|质性访谈]]相结合的混合研究取向。
-> - **不能直接推出的东西** 需求满足不能自动转化为认知策略的正确使用；高自主动机并不等于自发掌握了高级思维与[[Metacognition\|元认知监控]]（例如 Chen & Cheung (2025) 揭示的高动机并不能阻止元认知惰性）。
+> - **不能直接推出的东西** 需求满足不能自动转化为认知策略的正确使用；高自主动机并不等于自发掌握了高级思维与[[Metacognition\|元认知监控]]（例如 Chen and Cheung (2025) 揭示的高动机并不能阻止元认知惰性）。
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 评估课堂环境、教学干预、[[Intelligent Tutoring Systems\|智能辅导系统]]（ITS）或生成式 AI 工具的“动机激励质量”，将自主、胜任、归属作为[[Independent Variable\|自变量]]或中介[[Variable\|变量]]。
@@ -186,7 +186,7 @@ updated: 2026-10-09
 > - **1971–1975 — 认知评价理论萌芽** Deci 发表经典索玛立方块实验，发现外部金钱奖励破坏了学生的内在动机，开启对自我决定机制的探索。
 > - **1985 — SDT 正式创立** Deci & Ryan 出版里程碑专著 *[[Intrinsic vs Extrinsic Motivation\|intrinsic motivation]] and Self-Determination in Human Behavior*，确立六大子理论体系。
 > - **2000 — 教育与健康领域大繁荣** Ryan & Deci 在 *American Psychologist* 发表当代经典综述，SDT 全面席卷教育心理学课堂动机研究。
-> - **2024–2025 — [[Man-Computer Symbiosis|人机协同]]与 AI 时代的新拓展** 扩展至人机协同学习[[Champ\|场域]]；[[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] 在 *Educational Research Review* 通过[[Meta-analysis\|元分析]]证实 [[Generative Artificial Intelligence\|GenAI]] 对大学生[[Affective Outcomes\|情感动机]]的大[[Effect Size\|效应量]]（$g^+ = 0.617$），实证确立了 SDT 在智能教育环境中的解释力。
+> - **2024–2025 — [[Man-Computer Symbiosis|人机协同]]与 AI 时代的新拓展** 扩展至人机协同学习[[Champ\|场域]]；[[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 在 *Educational Research Review* 通过[[Meta-analysis\|元分析]]证实 [[Generative Artificial Intelligence\|GenAI]] 对大学生[[Affective Outcomes\|情感动机]]的大[[Effect Size\|效应量]]（$g^+ = 0.617$），实证确立了 SDT 在智能教育环境中的解释力。
 
 ---
 
@@ -214,4 +214,4 @@ updated: 2026-10-09
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] — 在高等教育生成式 AI [[Meta-analysis\|元分析]]中运用自我决定理论，解释[[AI Agent in Education\|智能体]]作为平等人机伙伴如何通过满足学生的自主性、胜任感与低焦虑归属感，驱动大学生[[Affective Outcomes\|情感动机]]状态（$g^+ = 0.617$）的大幅跃升。
+> - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — 在高等教育生成式 AI [[Meta-analysis\|元分析]]中运用自我决定理论，解释[[AI Agent in Education\|智能体]]作为平等人机伙伴如何通过满足学生的自主性、胜任感与低焦虑归属感，驱动大学生[[Affective Outcomes\|情感动机]]状态（$g^+ = 0.617$）的大幅跃升。

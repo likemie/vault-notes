@@ -103,7 +103,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Policy Network
@@ -279,11 +279,11 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **理念编排与话语垄断命题** | 公私网络垄断有效知识裁决权，以单一技术指标窄化复杂的民主政策审议 | 教师培养国家课程改革、循证干预推广与智库议程设置 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024, pp. 6–8)]] |
-> | **表演性问责与制度死锁命题** | 网状话语结合行政认证与财政挂钩演化为惩戒锁链，剥离专业自主权 | 办学资质评估、教师认证附表常态审计与绩效激励 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024, p. 11)]] |
+> | **理念编排与话语垄断命题** | 公私网络垄断有效知识裁决权，以单一技术指标窄化复杂的民主政策审议 | 教师培养国家课程改革、循证干预推广与智库议程设置 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024, pp. 6–8)]] |
+> | **表演性问责与制度死锁命题** | 网状话语结合行政认证与财政挂钩演化为惩戒锁链，剥离专业自主权 | 办学资质评估、教师认证附表常态审计与绩效激励 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024, p. 11)]] |
 > | **政务网络非线性解耦命题** | 盲目扩大征询名单导致互动频度断崖式下跌，陷入形式主义大网络陷阱 | 中央教育部委外部征询网络构建与利益相关者协商 | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022, pp. 84–85)]] |
 > | **生产依附与中介排斥命题** | 行政网络高度依附学术生产者采购报告，体制性排斥转化端纯中介机构 | 国家教育研究供需对接、科研成果动员与智库参与渠道 | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022, pp. 85–86)]] |
-> | **适宜性逻辑与逆向制造命题** | 政治落地预期与官僚高频轮换诱发逆向证据包装，割裂认识论连贯性 | 部委闭门专家咨询、智库报告采纳与网络意见领袖传播 | [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022, pp. 93–96)]] |
+> | **适宜性逻辑与逆向制造命题** | 政治落地预期与官僚高频轮换诱发逆向证据包装，割裂认识论连贯性 | 部委闭门专家咨询、智库报告采纳与网络意见领袖传播 | [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022, pp. 93–96)]] |
 > | **共同从属与耐用客体装配命题** | 人事交叉兼职闭环结合公司法与量规等无生命客体，掩护资本隐蔽掌控议程 | 国家级证据中介创设、风险慈善游说与立法特许商业分包 | [[Argument_Rowe_2022_IJER\|Rowe (2022, pp. 1–5, 8–11)]] |
 > | **国家催化与异层再分配命题** | 政策网络推动国家演化为市场缔造者，通过立法特许和补贴导致公共财政向中介逆流 | 福利国家转型、公立教育财政危机与[[Philanthrocapitalism\|慈善资本主义]]再分配机制 | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023, pp. 522–523, 527–532)]] |
 > | **多理性网络科层失灵命题** | 专业分工导致多重异质理性并存，去中心网络缺乏绝对顶层，单向科层命令必然失灵并转向激励协商 | 半自治专业公共部门、高校网络与政府间关系 | [[Walter J. M. Kickert\|Kickert (1995, pp. 148–150)]] |
@@ -298,10 +298,10 @@ updated: 2026-10-15
 > - **2012 跨国政策网络转向** [[Stephen Ball\|斯蒂芬·鲍尔]]（[[Stephen Ball]]）提出全球政策网络与异质治理概念，指涉跨国中介公司、[[Venture Philanthropy\|风险慈善]]基金会以及新自由主义智库对主权国家公共政策的网状操纵。
 > - **2018 证据生态网络的合流** 以英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）实施全球[[Evidence Ecosystem\|证据生态系统]]计划为代表，政策网络披上“中立科学”外衣，在多国平移复制镜像证据组织（如[[Australian Education Research Organisation\|澳大利亚教育研究组织]]，Australian Education Research Organisation, AERO）。
 > - **2022 [[OECD]] 跨国政务网络实证测度** 经合组织（[[OECD]]）[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022]]）首次在 29 国 37 个教育系统全面测度部委政务网络，揭示了网络规模与联结强度的解耦、大网络陷阱与生产依附偏误。
-> - **2022 教师教育政策网络与[[Gatekeepers\|把关人]]实证分析** [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] 剖析英格兰教师教育政策网络，揭示高层官僚轮换、社交媒体意见领袖与教育部把关人如何共同形塑[[Policy-Based Evidence-Making\|基于政策的证据制造]]。
+> - **2022 教师教育政策网络与[[Gatekeepers\|把关人]]实证分析** [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] 剖析英格兰教师教育政策网络，揭示高层官僚轮换、社交媒体意见领袖与教育部把关人如何共同形塑[[Policy-Based Evidence-Making\|基于政策的证据制造]]。
 > - **2022 [[Network Ethnography\|政策网络民族志]]与无生命客体装配** 埃玛·罗威（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）结合网络[[Ethnography\|民族志]]，通过澳大利亚证券与投资委员会（Australian Securities and Investments Commission, ASIC）企业档案与财务披露解构麦肯锡系风险慈善枢纽[[Social Ventures Australia\|澳大利亚社会创投]]（Social Ventures Australia, SVA）长达十年的政策游说网络，揭示跨界[[Co-affiliation\|共同从属]]与无生命客体装配如何实现资本对国家科研中介机构的隐蔽掌控。
 > - **2023 异层治理实践与国家再分配重构** 埃玛·罗威（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023]]）进一步聚焦异层治理实践（heterarchical state in practice），阐明政策网络不仅重塑治理网络，更通过法定避税特许与财政补贴（如 SVA、[[Australian Schools Plus\|澳大利亚学校加计划]]）重构国家再分配职能，造成公共资源向免税中介逆流。
-> - **2024 批判[[Network Analysis\|网络分析]]实证落地** [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] 运用政策网络分析方法解构澳大利亚[[Initial Teacher Training\|初始教师教育]]改革中的理念编排与公私利益合流。
+> - **2024 批判[[Network Analysis\|网络分析]]实证落地** [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] 运用政策网络分析方法解构澳大利亚[[Initial Teacher Training\|初始教师教育]]改革中的理念编排与公私利益合流。
 
 ---
 
@@ -399,8 +399,8 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合[[Network Ethnography\|网络民族志]]与耐用客体装配视角，解构澳大利亚政策网络如何以麦肯锡系[[Venture Philanthropy\|风险慈善]]为枢纽创设国家[[Educational Brokerage Agency\|证据中介机构]]。
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 运用网络[[Ethnography\|民族志]]绘制 [[Social Ventures Australia\|SVA]] 辐射网络（[[Australian Schools Plus\|Schools Plus]]、[[Evidence for Learning\|E4L]]、[[Australian Education Research Organisation\|AERO]]），揭示异层治理实践与避税特许如何将公共税收逆向导流至私营中介。
-> - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] — 运用政策[[Network Analysis\|网络分析]]方法解构澳大利亚教师教育改革中的公私共谋与理念编排机制。
-> - [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] — 揭示英格兰教师教育政策网络中高级官僚轮换、社交媒体意见领袖与教育部[[Gatekeepers\|把关人]]共同促成[[Policy-Based Evidence-Making\|基于政策的证据制造]]。
+> - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] — 运用政策[[Network Analysis\|网络分析]]方法解构澳大利亚教师教育改革中的公私共谋与理念编排机制。
+> - [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] — 揭示英格兰教师教育政策网络中高级官僚轮换、社交媒体意见领袖与教育部[[Gatekeepers\|把关人]]共同促成[[Policy-Based Evidence-Making\|基于政策的证据制造]]。
 > - [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] — 跨国实证测度 37 个教育系统部委政务网络，揭示网络规模与联结强度解耦、生产依附偏误及形式主义大网络陷阱。
 > - [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 将关系与网络确立为 [[OECD]] 强化教育[[Research Impact\|研究影响力]]五维[[Analytic Framework\|分析框架]]的核心支柱。
 > - [[Argument_Kickert_1995_Governance\|Kickert (1995)]] — 从欧陆公共行政与组织网络理论出发，系统解构韦伯科层命令假定在半自治专业人员构成的政策网络中的结构性失灵，论证向间接激励与理性对话转型的制度必要性。

@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Knowledge Exchange
@@ -150,7 +150,7 @@ updated: 2026-10-15
 > [!concept-lens] 空间经济学与产业政策外部性维度
 > [[Tacit Knowledge|隐性知识]]的流动需要高度稠密的人才池作为介质；人为行政命令驱动的去中心化布局不可避免地会削弱知识交流强度。
 
-> [!claim] [[Argument_Bown_2024_JEP|Bown & Wang (2024)]]
+> [!claim] [[Argument_Bown_2024_JEP|Bown and Wang (2024)]]
 > **空间分散化对知识交流与[[Agglomeration Externalities|集聚外部性]]的稀释效应** 查德·博恩（Chad P. Bown）与汪智（Zhi Wang）指出，半导体产业在硅谷与东亚的成功深度植根于知识交流与[[Learning by Doing|干中学]]所构筑的集聚外部性。在高科技复杂制造中，隐性工艺知识高度依赖本地化专业劳动力池的高频流动与面对面协作。2020 年代以美欧为代表的[[Modern Industrial Policy|现代产业政策]]出于地缘安全和供应链保险动机，强制要求跨国芯片制造企业在多地分散建厂；这种碎片化布局人为切断了原本高密度的隐性知识交流网络，导致分散晶圆厂面临配套匮乏与人才短缺，最终推高了全产业链的长期单位制造成本。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 82–83, 102–103)]]
 
 ---
@@ -161,7 +161,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **制度资助演进命题** | 公式化长期稳定拨款取代短期项目竞争，系统赋能大学全谱系知识交流生态 | 大学科研管理体制改革、国家[[Third Mission\|第三使命]]拨款设计 | [[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen (2025)]] |
-> | **空间集聚稀释命题** | 隐性知识交流高度依赖地理集聚，地缘政治驱动的空间分散政策造成外部性损失与成本溢价 | 先进半导体制造、高技术产业集群、现代产业政策评估 | [[Argument_Bown_2024_JEP\|Bown & Wang (2024)]] |
+> | **空间集聚稀释命题** | 隐性知识交流高度依赖地理集聚，地缘政治驱动的空间分散政策造成外部性损失与成本溢价 | 先进半导体制造、高技术产业集群、现代产业政策评估 | [[Argument_Bown_2024_JEP\|Bown and Wang (2024)]] |
 
 ---
 

@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Butterfly Phonics
@@ -57,7 +57,7 @@ updated: 2026-09-17
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **Butterfly Phonics（蝴蝶自然拼读）**是由英国“真实教练”（Real Coaching）慈善教育机构创立、由杜伦大学（Durham University）学者受英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）委托开展独立因果评估的小学升初中过渡期读写小组干预方案；其核心目标是在小学六年级（UK Year 6，约 10–11 岁）关键阶段对即将升入初中却依然存在严重语音[[Decodification\|解码]]缺陷的学生，由受训专任教师开展为期半年的高强度多感官拼读集训，防止学生因读写脱节在初中遭遇断崖式学业滑坡。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> **Butterfly Phonics（蝴蝶自然拼读）** 是由英国“真实教练”（Real Coaching）慈善教育机构创立、由杜伦大学（Durham University）学者受英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）委托开展独立因果评估的小学升初中过渡期读写小组干预方案；其核心目标是在小学六年级（UK Year 6，约 10–11 岁）关键阶段对即将升入初中却依然存在严重语音[[Decodification\|解码]]缺陷的学生，由受训专任教师开展为期半年的高强度多感官拼读集训，防止学生因读写脱节在初中遭遇断崖式学业滑坡。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 研发始于 2010 年代初，2013–2015 年受 EEF 专项资助在英格兰数十所公立学校开展独立整群 [[Randomised Controlled Trials\|RCT]] [[Efficacy Trial\|效力试验]]。

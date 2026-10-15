@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Threshold Hypothesis
@@ -52,7 +52,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> [[Threshold Hypothesis\|智力门槛假说]]（Threshold [[Hypothesis]]，亦称[[Creativity\|创造力]]门槛假说或智力-创造力门槛假说）是由吉尔福德（Guilford, 1967）与托兰斯（Torrance, 1974）提出并经后续实证检验的经典心理学假说。该假说主张**基础智力是创造力的必要非[[Necessary and Sufficient Conditions\|充分条件]]：**在智商（Intelligence Quotient, IQ）低于某一临界门槛（传统经验设定为 $\text{IQ} \approx 120$）时，智力与[[Creativity\|创造力]]呈显著中高程度正相关；一旦智力跨越该门槛，智力水平对创造潜能的约束解除，两者的相关性显著减弱甚至趋近于零（Karwowski et al., 2021; Weiss & Steger, 2021; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 4, 8]]）。
+> [[Threshold Hypothesis\|智力门槛假说]]（Threshold [[Hypothesis]]，亦称[[Creativity\|创造力]]门槛假说或智力-创造力门槛假说）是由吉尔福德（Guilford, 1967）与托兰斯（Torrance, 1974）提出并经后续实证检验的经典心理学假说。该假说主张**基础智力是创造力的必要非[[Necessary and Sufficient Conditions\|充分条件]]：** 在智商（Intelligence Quotient, IQ）低于某一临界门槛（传统经验设定为 $\text{IQ} \approx 120$）时，智力与[[Creativity\|创造力]]呈显著中高程度正相关；一旦智力跨越该门槛，智力水平对创造潜能的约束解除，两者的相关性显著减弱甚至趋近于零（Karwowski et al., 2021; Weiss & Steger, 2021; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 4, 8]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向认知能力对高阶创造潜能的非线性分段约束规律（三角散点分布）。
@@ -118,7 +118,7 @@ updated: 2026-10-15
 > [!concept-lens] 宏观[[Effect Size\|效应量]]聚合与跨领域裁决
 > 探讨全领域大样本[[Meta-analysis\|元分析]]汇总数据对智力[[Determinism\|决定论]]的实证检验。
 
-> [!claim] [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]; Weiss & Steger (2021)
+> [!claim] [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]; Weiss and Steger (2021)
 > **宏观认知效应量约束** 跨 52 项一阶元分析的大规模[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）表明，认知相关因素（Cognitive Correlates，包含智力、[[Academic Achievement\|学业成绩]]、工作记忆）与创造力的综合二阶[[Effect Size\|效应量]]仅为 **$r = 0.12$**（95% [[Confidence Interval\|置信区间]] $[0.04, 0.19]$），与非认知/外认知因素（Extracognitive Correlates，$r = 0.14$，包含动机、心境与自我信念）在统计上完全重叠。这一宏观证据强力印证了门槛假说推论：在未限制智力范围的全样本中，认知能力的全局解释力非常温和，创造力的实现高度依赖于动机、[[Self-Efficacy\|自我效能]]与专门教学干预的共同协同。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 6–8)]]
 
 ---
@@ -129,7 +129,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **必要非充分约束** | 智力是创造力的必要门槛而非充分保障，高智商不等于高创造 | 拔尖创新人才甄选、天才教育评估 | Guilford (1967); Karwowski et al. (2021) |
-> | **宏观认知效应等价性** | 二阶汇总中认知因素（$r = 0.12$）与外认知因素（$r = 0.14$）并驾齐驱 | 全领域创造力理论建模、二阶效应综合 | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]; Weiss & Steger (2021) |
+> | **宏观认知效应等价性** | 二阶汇总中认知因素（$r = 0.12$）与外认知因素（$r = 0.14$）并驾齐驱 | 全领域创造力理论建模、二阶效应综合 | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]; Weiss and Steger (2021) |
 
 ---
 
@@ -137,7 +137,7 @@ updated: 2026-10-15
 
 > [!tension] 门槛存在性之争：分段断裂 vs 连续曲线 vs 测量伪差
 > - **支持门槛立场** Karwowski et al. (2016, 2021) 运用[[Necessary and Sufficient Conditions\|必要条件]]分析（NCA）和分段回归，在大样本数据库中验证了 $IQ \approx 115 \sim 120$ 处的斜率断裂，支持非线性门槛模型。
-> - **质疑门槛立场** Weiss & Steger (2021) 与 Kim (2005) 指出，部分研究中观察到的相关性减弱源于高智商群体的**分量表范围限制（[[Floor and Ceiling Effects\|range restriction]]）**或测验天花板效应，认为两者在本质上是平滑的微弱连续正相关，而非刚性断裂。
+> - **质疑门槛立场** Weiss and Steger (2021) 与 Kim (2005) 指出，部分研究中观察到的相关性减弱源于高智商群体的**分量表范围限制（[[Floor and Ceiling Effects\|range restriction]]）** 或测验天花板效应，认为两者在本质上是平滑的微弱连续正相关，而非刚性断裂。
 
 ---
 

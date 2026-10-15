@@ -44,7 +44,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-07-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Toulmin's Argumentation Model
@@ -149,7 +149,7 @@ updated: 2026-10-15
 
 > [!critique] 对图尔敏模型的两大外部批评
 > - **语用辩证学的规范性批评** [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]] 指出模型只能分析静态结构，无法判断保证本身是否成立，且预设了单向论证关系；相比之下，[[Pragma-Dialectics\|语用辩证学派]]（Pragma-Dialectics）提供了评价论证合理性的交往规范。
-> - **科学教育中的伪科学反例与实质遮蔽** [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] 指出在充斥着错误信息的时代，气候变暖否定论与反疫苗宣传均可写出包含清晰主张、两项数据、明确推理保证及多重复杂反驳的文本，在 TAP 评分中斩获满分。这表明单纯依靠图尔敏结构分析不仅无法培养真知灼见，反倒容易将伪劣论证误判为高水平成果。
+> - **科学教育中的伪科学反例与实质遮蔽** [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] 指出在充斥着错误信息的时代，气候变暖否定论与反疫苗宣传均可写出包含清晰主张、两项数据、明确推理保证及多重复杂反驳的文本，在 TAP 评分中斩获满分。这表明单纯依靠图尔敏结构分析不仅无法培养真知灼见，反倒容易将伪劣论证误判为高水平成果。
 
 ---
 
@@ -157,5 +157,5 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]] — 在 IB [[Theory of Knowledge\|知识论]]课程中剖析图尔敏模型的局限，提出语用辩证学作为对称争辩的替代框架。
-> - [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] — 深刻解构图尔敏式结构评价的[[Epistemology\|认识论]]盲区，提出奠基于 [[AIR Model of Epistemic Cognition\|AIR]] 模型的[[Epistemic Ideals\|认识论理想]]与[[Reliable Epistemic Processes\|可靠过程]]评价新[[Paradigm\|范式]]。
+> - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 深刻解构图尔敏式结构评价的[[Epistemology\|认识论]]盲区，提出奠基于 [[AIR Model of Epistemic Cognition\|AIR]] 模型的[[Epistemic Ideals\|认识论理想]]与[[Reliable Epistemic Processes\|可靠过程]]评价新[[Paradigm\|范式]]。
 

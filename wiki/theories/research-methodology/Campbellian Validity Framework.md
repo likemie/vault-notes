@@ -171,7 +171,7 @@ updated: 2026-10-16
 ### 命题三　基于多质多法框架，“循证”构念要求跨评价机构展现经验收敛效度
 
 > [!proposition-chain] 核心命题三｜基于多质多法框架，“循证”[[Construct\|构念]]要求跨评价机构展现经验[[Convergent and Discriminant Validity\|收敛效度]]
-> - **前提一（[[Construct Validity\|构念效度]]的收敛性假设）** Campbell & Fiske (1959) 确立的多质多法（[[Multitrait-Multimethod Matrix\|MTMM]]）原则指出：若某一概念（如“干预有效性”）具有客观构念效度，则运用不同独立方法或不同评价者对其进行测量时，评级结果必须高度收敛。[[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024, p. 4)]]
+> - **前提一（[[Construct Validity\|构念效度]]的收敛性假设）** Campbell and Fiske (1959) 确立的多质多法（[[Multitrait-Multimethod Matrix\|MTMM]]）原则指出：若某一概念（如“干预有效性”）具有客观构念效度，则运用不同独立方法或不同评价者对其进行测量时，评级结果必须高度收敛。[[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024, p. 4)]]
 >   > [!evidence-grid]- 证据
 >   > - **证据一（1,359 项目多中心评级实证检验）** 实证分析 10 个清算中心评估的教育项目发现，多重评级完全一致率仅约 30.5%，完全对立冲突（1&3，一家推荐 vs 一家否决）高达 35.4%，共同推荐率仅 1.2%。[[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024, pp. 18–20)]]
 > - **前提二（综合门槛导致的特质异化）** 评级不一致并非源于单项 RCT 内部效度判定，而是源于各中心在证据综合门槛（独立复制、12个月随访、医源性排除）上的本质割裂。
@@ -266,4 +266,4 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] — 运用 Campbellian 框架阐释 [[What Works Clearinghouse\|WWC]] 组间实验与[[Single-Subject Design\|单一被试设计]]（[[Single-Case Design\|SCD]]）的[[Internal Validity\|内部效度]]门控逻辑与[[External Validity\|外部效度]]信息捕获机制。
-> - [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]] — 创新性地将 Campbell & Fiske (1959) [[Multitrait-Multimethod Matrix\|MTMM]] 多质多法框架应用于清算中心评级一致性元评估，实证检验“基于证据”[[Construct\|构念]]的跨机构[[Convergent and Discriminant Validity\|收敛效度]]。
+> - [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]] — 创新性地将 Campbell and Fiske (1959) [[Multitrait-Multimethod Matrix\|MTMM]] 多质多法框架应用于清算中心评级一致性元评估，实证检验“基于证据”[[Construct\|构念]]的跨机构[[Convergent and Discriminant Validity\|收敛效度]]。

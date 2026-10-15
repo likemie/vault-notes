@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Actor-Network Theory
@@ -233,7 +233,7 @@ updated: 2026-10-15
 > > - **批判[[Policy Network\|政策网络]]学者** 认为 ANT 恰恰通过耐用材料追踪，打破了传统政治经济学对“国家”或“资本”的抽象化空谈，坐实了跨国金融资本如何具体通过法案修正和量规工具一步步落地的微观机制。（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 2–4]]）
 
 > [!critique]- 批评索引
-> - [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]] — 指出 ANT 在经验研究中存在方法论实施成本极高与浅层使用（Superficial usage）倾向，易退化为替代静态空间概念的词汇修饰游戏。
+> - [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] — 指出 ANT 在经验研究中存在方法论实施成本极高与浅层使用（Superficial usage）倾向，易退化为替代静态空间概念的词汇修饰游戏。
 
 ---
 
@@ -242,7 +242,7 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 整合 ANT [[Center of Calculation\|计算中心]]理论与[[Topological Spatialisation\|拓扑空间]]学，深入剖析[[Gesamtstrategie zum Bildungsmonitoring\|德国国家教育监测总体战略]]、[[Institute for Educational Quality Improvement\|IQB]] 计算中心及 [[Vergleichsarbeiten\|VERA]] 测评基础设施如何实现跨尺度的[[Governing at a Distance\|远处治理]]与政策拓扑重组。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合 ANT、[[Network Ethnography\|网络民族志]]与耐用材料装配视角，解构澳大利亚 [[Australian Education Research Organisation\|AERO]] 国家证据中介背后的《公司法》注册底座、董事会跨界[[Co-affiliation\|共同从属]]及麦肯锡系[[Venture Philanthropy\|风险慈善]]渗透网络。
-> - [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]] — 运用 ANT 追踪阿根廷 [[Conectar Igualdad\|PCI]] 数字教育项目课堂微观装配，揭示跨国技术资本权力如何绕过国家反商业化法规直接在教学空间中建构秩序。
+> - [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] — 运用 ANT 追踪阿根廷 [[Conectar Igualdad\|PCI]] 数字教育项目课堂微观装配，揭示跨国技术资本权力如何绕过国家反商业化法规直接在教学空间中建构秩序。
 > - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — 借助 ANT 的多行动者转译模型，剖析国家内部[[Policy Network\|政策网络]]如何在多方博弈中折射并[[Going Native\|本土化]]转译 [[OECD]] [[PISA]] 评估信息。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 追溯理性主义比较教育传统中引入 ANT，以分析全球教育治理中流动[[Discourse|话语]]、政策图景与数据[[Governing at a Distance\|远处治理]]的隐秘运作。
 

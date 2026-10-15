@@ -61,7 +61,7 @@ related_theories: []
 related_facts: []
 status: draft
 created: 2026-06-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Snowball Sampling
@@ -134,7 +134,7 @@ updated: 2026-10-15
 在面临[[Sensitive Research|敏感研究]]对象或强力制度[[Gatekeepers|守门人]]的双重阻碍时，滚雪球抽样通常被转译为网络化操作策略：
 
 > [!case] Teng & Wang 的教师中介转介实践
-> 在中国县域城镇化[[School Choice\|择校]]迁移的调查中，由于进城随迁陪读家长数量庞大且缺乏统一的官方[[Sampling Frame\|抽样框]]，且部分农村家长对外部调查者存在防御心理。研究者采取了**教师中介转介**策略。首先，在 G County 选定的 12 所城乡公立学校中自愿招募部分城乡骨干教师作为初始种子节点（brokers）。通过这些教师的声誉桥接与信任引荐，成功招募并分类滚雪球出 128 名具有代表性的农村家庭访谈样本（包括县城陪读、镇区陪读及乡村非陪读家庭）。这一实践展示了在缺乏制度化抽样框时，如何利用特定[[Champ\|场域]]内的关键行动者来安全、高效地获取信任累积与样本拓展。[[Argument_Teng_2025_CE\|Teng & Wang (2025, p. 305)]]
+> 在中国县域城镇化[[School Choice\|择校]]迁移的调查中，由于进城随迁陪读家长数量庞大且缺乏统一的官方[[Sampling Frame\|抽样框]]，且部分农村家长对外部调查者存在防御心理。研究者采取了**教师中介转介**策略。首先，在 G County 选定的 12 所城乡公立学校中自愿招募部分城乡骨干教师作为初始种子节点（brokers）。通过这些教师的声誉桥接与信任引荐，成功招募并分类滚雪球出 128 名具有代表性的农村家庭访谈样本（包括县城陪读、镇区陪读及乡村非陪读家庭）。这一实践展示了在缺乏制度化抽样框时，如何利用特定[[Champ\|场域]]内的关键行动者来安全、高效地获取信任累积与样本拓展。[[Argument_Teng_2025_CE\|Teng and Wang (2025, p. 305)]]
 
 > [!case] Morrison 的非正式网络化绕过实践
 > 在中国进行敏感教育行政研究时，Morrison 遭遇了学校守门人（如拒绝外部研究者准入的校长与高级职员）的强力行政抵制。研究者决定采取非正式网络化策略，绕过官方层级通道，转向私人朋友、专业同行和同学建立的信任推荐网络。通过这一非官方的关系引荐链条，逐层滚雪球接触到了多位学校教师与行政内部人员，获得了原本被制度行政封锁的真实资料，表明了雪球转介在突破守门人[[Screening Off\|屏蔽]]层方面的[[Pragmatic Paradigm\|实用主义]]价值。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09\|Cohen et al. (2011, Ch. 9)]]
@@ -187,5 +187,5 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Teng_2025_CE\|Teng & Wang (2025, p. 305)]] — 招募公立学校教师作为转介起点（种子），通过滚雪球抽样获取进城[[Peidu\|陪读]]与留守乡村的农村家庭访谈样本。
+> - [[Argument_Teng_2025_CE\|Teng and Wang (2025, p. 305)]] — 招募公立学校教师作为转介起点（种子），通过滚雪球抽样获取进城[[Peidu\|陪读]]与留守乡村的农村家庭访谈样本。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统介绍滚雪球抽样、受访者驱动抽样和声誉滚雪球，并分析了 Browne (2005) 和 Heckathorn (1997, 2002) 的系统偏差。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09\|Cohen et al. (2011, Ch. 9)]] — 将网络化作为特殊群体抽样策略中应用最广的一种，深入讨论其在绕过[[Gatekeepers\|守门人]]方面的操作实践（Morrison, 2006），以及同质性偏差、互惠性与传递性限制。

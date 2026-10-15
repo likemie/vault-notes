@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Bureaucracy
@@ -282,6 +282,6 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 历史考证[[OECD|经合组织]]常任秘书处从协商论坛演进为具有独立议程的国际官僚机构（pp. 440–444）。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 从实战工程治理视角对防卫型科层制展开系统批判，剖析中介阻滞、[[Meeting-Industrial Complex|会议工业复合体]]、[[Banality of Evil|平庸之恶]]及采办定制垄断对技术创新的阻碍。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Ch. 10)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Ch. 11)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Ch. 12)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Ch. 13)]]
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 历史考证[[OECD|经合组织]]常任秘书处从协商论坛演进为具有独立议程的国际官僚机构（pp. 440–444）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 从实战工程治理视角对防卫型科层制展开系统批判，剖析中介阻滞、[[Meeting-Industrial Complex|会议工业复合体]]、[[Banality of Evil|平庸之恶]]及采办定制垄断对技术创新的阻碍。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Ch. 10)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Ch. 11)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Ch. 12)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Ch. 13)]]
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 深入剖析自上而下韦伯式科层指令在多重理性[[Policy Network|政策网络]]中的系统性失灵，系统阐述荷兰高等教育打破微观行政审批、转向“间接[[Steering at a Distance|远距离操纵]]”的治理[[Paradigm|范式]]重塑。

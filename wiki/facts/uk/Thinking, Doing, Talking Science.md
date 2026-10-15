@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-15
+updated: 2026-10-16
 ---
 
 # Thinking, Doing, Talking Science
@@ -69,7 +69,7 @@ updated: 2026-09-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **“思考、动手、对话科学”（Thinking, Doing, Talking Science，简称 TDTS）**是由英国牛津科学机构（Science Oxford）与牛津布鲁克斯大学（Oxford Brookes University）联合研发、由英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）重点资助的小学科学教师专业发展与课堂教学干预项目。该项目旨在通过系统培训小学教师，将[[Higher-Order Thinking Skills\|高阶思维]]、动手探究与对话式课堂研讨深度融入科学课程，破解英国小学科学教学中重事实死记、轻思维探究的痼疾。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 57)]]
+> **“思考、动手、对话科学”（Thinking, Doing, Talking Science，简称 TDTS）** 是由英国牛津科学机构（Science Oxford）与牛津布鲁克斯大学（Oxford Brookes University）联合研发、由英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）重点资助的小学科学教师专业发展与课堂教学干预项目。该项目旨在通过系统培训小学教师，将[[Higher-Order Thinking Skills\|高阶思维]]、动手探究与对话式课堂研讨深度融入科学课程，破解英国小学科学教学中重事实死记、轻思维探究的痼疾。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 57)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2013 年启动[[Efficacy Trial\|效力试验]]立项，2015 年发布首期效力评估报告（Hanley et al., 2015）；2016 年启动大规模[[Effectiveness Trial\|实效试验]]，2018 年完成终期追踪评估（Kitmitto et al., 2018）。

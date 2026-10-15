@@ -32,7 +32,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-04'
-updated: 2026-09-11
+updated: 2026-10-16
 ---
 ## 简介
 
@@ -59,4 +59,4 @@ updated: 2026-09-11
 
 > [!note-] 思想发展与影响
 > - 其双因素模型被 [[Robbie Case]] (1985, 1992) 进一步发展为四子域发展模型([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.3]])
-> - [[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie (2017)]] 将其作为[[Neo-Piagetian Theories\|新皮亚杰理论]]谱系的起点
+> - [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] 将其作为[[Neo-Piagetian Theories\|新皮亚杰理论]]谱系的起点

@@ -48,7 +48,7 @@ related_arguments:
   - "[[Argument_Cartiff_2021_JEP]]"
 status: active
 created: 2026-08-13
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Reflective Judgment Model
@@ -151,7 +151,7 @@ updated: 2026-10-15
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | [[Statistical Significance\|统计显著性]]与[[Effect Size\|效应量]] | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | 89名加拿大十年级中学生（独立学校科学课） | 组内平衡设计[[Task Structure\|劣构任务]]实验（专案组癌症经费分配辩护） | [[Simplicity of Knowledge\|简单知识]]（SK）、固定快速学习（FQAL）、确定知识（CK）、反思性判断（RJ，1–5分量规） | 两位评定者 RJ 评分一致性信度 $r = .89$；认识论三因子整体显著预测 RJ 得分（$R^2 = .10$）；SK 是唯一显著负向预测源（$\beta = -.24, R^2 = .06$；控制 CK 后增量 $\Delta R^2 = .07$） | RJ 模型 $F(3,85) = 2.97, p = .04$；SK 独立效应 $F(1,87) = 5.56, p = .02$；控制 CK 后增量 $F(2,86) = 4.20, p = .02$ | 实证确立了简单知识信念对中学生在劣构科学辩护中反思性判断水平的核心制约机制 |
-> | King & Kitchener (1994) | 跨越高中、大学至研究生的广泛大样本追踪 | 反思性判断访谈（Reflective Judgment Interview, RJI） | 学段、年龄、RJM 七阶段得分 | 高中生平均得分为阶段 3.2；大学本科生平均得分为阶段 4.0 左右；阶段 6–7 仅在博士研究生与成熟学者中稳定显现 | 跨学段差异极显著（$p < .001$） | 确立了反思性判断随教育年限与认知挑战循序渐进发展的常模基线 |
+> | King and Kitchener (1994) | 跨越高中、大学至研究生的广泛大样本追踪 | 反思性判断访谈（Reflective Judgment Interview, RJI） | 学段、年龄、RJM 七阶段得分 | 高中生平均得分为阶段 3.2；大学本科生平均得分为阶段 4.0 左右；阶段 6–7 仅在博士研究生与成熟学者中稳定显现 | 跨学段差异极显著（$p < .001$） | 确立了反思性判断随教育年限与认知挑战循序渐进发展的常模基线 |
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 4,373名学生（涵盖小学、初中、高中与大学） | 认识论认知因果干预一阶[[Meta-analysis\|元分析]]（28项研究，59个效应量，随机效应模型） | 学段（小学、初中、高中、大学）、教学框架、[[Epistemology\|认识论]]干预效应 | 1. 总体干预效应 $d = 0.509$ $[0.334, 0.684]$<br>2. 学段调节：初中 $d = 0.612$ $[0.301, 0.923]$，高中 $d = 0.638$ $[0.316, 0.959]$，大学 $d = 0.312$ $[0.119, 0.505]$ | 学段组间差异 $Q_b = 6.273, p < .05$；总体异质性 $Q(58) = 459.739, p < .001$ | 证实显性认识干预能有效加速反思性认知发展，且基础教育阶段（初高中）干预成效显著优于大学阶段 |
 
 ---
@@ -159,6 +159,6 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] — 在十年级科学课劣构辩护任务中应用 King & Kitchener (1994) 模型建立 5 分制 RJ 评分量规，实证证实了[[Simplicity of Knowledge\|简单知识]]（SK）信念对[[Reflexivity\|反思性]]判断得分的显著负向预测效应（$\beta = -.24, p = .02$）。
-> - [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] — 全面梳理并评述了 King & Kitchener 的反思性判断模型，剖析了其从 Perry 图式演化而来的理论脉络、三阶段七时期架构及其在[[Epistemic Cognition\|认识论认知]]研究中的基石地位。
+> - [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] — 在十年级科学课劣构辩护任务中应用 King and Kitchener (1994) 模型建立 5 分制 RJ 评分量规，实证证实了[[Simplicity of Knowledge\|简单知识]]（SK）信念对[[Reflexivity\|反思性]]判断得分的显著负向预测效应（$\beta = -.24, p = .02$）。
+> - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 全面梳理并评述了 King & Kitchener 的反思性判断模型，剖析了其从 Perry 图式演化而来的理论脉络、三阶段七时期架构及其在[[Epistemic Cognition\|认识论认知]]研究中的基石地位。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 认识论认知干预[[Meta-analysis\|元分析]]，检验了反思性判断相关[[Construct\|构念]]在课堂教学中的可干预性，证实显性教学干预能因果打破前反思停滞，并揭示了初高中学段显著优于大学学段的干预红利（$Q_b = 6.273, p < .05$）。

@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-09-22
+updated: 2026-10-16
 ---
 
 # Story Line
@@ -172,8 +172,8 @@ updated: 2026-09-22
 > [!contrast-table] 故事线方法论命题总览
 > | 命题类型 | 核心指向 | 理论机制与论证逻辑 | 代表学者 |
 > |---|---|---|---|
-> | **时序情境维护** | 抵御编码去情境化风险 | 质性文本切片容易割裂时间流动与生活脉络，故事线通过叙事重构保持行动与情境的有机联系 | Coffey & Atkinson (1996); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011)]] |
-> | **高阶理论整合** | 支撑选择性核心范畴提炼 | 在主轴编码与解释性理论之间搭建认知跳板，先在描述层形成整体总览，进而升华出统摄全局的核心范畴 | Strauss & Corbin (1990); [[Argument_Creswell_2022_SAGE\|Creswell (1998, 2022)]] |
+> | **时序情境维护** | 抵御编码去情境化风险 | 质性文本切片容易割裂时间流动与生活脉络，故事线通过叙事重构保持行动与情境的有机联系 | Coffey and Atkinson (1996); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011)]] |
+> | **高阶理论整合** | 支撑选择性核心范畴提炼 | 在主轴编码与解释性理论之间搭建认知跳板，先在描述层形成整体总览，进而升华出统摄全局的核心范畴 | Strauss and Corbin (1990); [[Argument_Creswell_2022_SAGE\|Creswell (1998, 2022)]] |
 
 ---
 

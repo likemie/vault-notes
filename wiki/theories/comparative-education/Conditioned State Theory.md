@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Conditioned State Theory
@@ -220,7 +220,7 @@ updated: 2026-10-15
 
 > [!critique]- 批评索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 阐明受限国家理论的解释力，同时承认关于微观课堂教学与教科书编制如何受到受限国家渗透仍缺乏充足的实证检验。
-> - [[Argument_Castro_2009_MultilateralBanks|Castro, 2009]] — 援引 Hunter & Browne (2000) 的实证研究与多边银行贷款实务，对“绝对受限国家”假说在教育与社会政策领域的适用性提出反思，确立国内政治生存对外部规训的实质否决边界。
+> - [[Argument_Castro_2009_MultilateralBanks|Castro, 2009]] — 援引 Hunter and Browne (2000) 的实证研究与多边银行贷款实务，对“绝对受限国家”假说在教育与社会政策领域的适用性提出反思，确立国内政治生存对外部规训的实质否决边界。
 
 ---
 

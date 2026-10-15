@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Luhmann's Systems Theory
@@ -74,7 +74,7 @@ updated: 2026-10-15
 > - **知识位置** 由德国社会学家 [[Niklas Luhmann]]（1927–1998）发轫，融合控制论（Wiener, Ashby）、二阶控制论与[[Radical Constructivism\|激进建构主义]]（von Foerster）、生物自创生理论（Maturana & Varela）以及符号逻辑（Spencer-Brown），在教育学、法学、经济学与公共治理等领域形成了具有颠覆性的批判与解释传统。
 
 > [!claim] 核心主张
-> 社会不是由人类个体或心理意识拼接而成的实体集合，而是由**沟通（Communication）**构成的自创生、操作封闭的复杂功能系统。社会系统与个体的心理系统（意识）在操作上彼此封闭且互不透明；系统无法直接输入外部现实，只能通过内部特有的二元编码对环境进行自我指涉的选择性观察。系统之间的互动绝非线性因果传导，而是经由**[[Structural Coupling\|结构耦合]]（Structural Coupling）**引发的相互内在扰动与自组织响应。
+> 社会不是由人类个体或心理意识拼接而成的实体集合，而是由**沟通（Communication）** 构成的自创生、操作封闭的复杂功能系统。社会系统与个体的心理系统（意识）在操作上彼此封闭且互不透明；系统无法直接输入外部现实，只能通过内部特有的二元编码对环境进行自我指涉的选择性观察。系统之间的互动绝非线性因果传导，而是经由 **[[Structural Coupling\|结构耦合]]（Structural Coupling）** 引发的相互内在扰动与自组织响应。
 
 > [!citation-card] Luhmann 系统理论论社会系统与心理系统的[[Incommensurability\|不可通约性]]
 > 社会沟通系统——无论是教师、[[School Leadership\|学校领导]]、研究人员还是地方或国家教育决策者——永远无法直接观察单个学生或学习者的心理系统。这两个系统在编码上并非同一，对彼此而言也绝非透明。[[Argument_Larsen_2019_EducSci\|Larsen, 2019, p. 4; Luhmann, 1997]]

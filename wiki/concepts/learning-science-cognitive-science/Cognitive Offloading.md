@@ -77,7 +77,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-31
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Cognitive Offloading
@@ -230,7 +230,7 @@ updated: 2026-10-15
 > - **2010 年代末 — 互联网互联与数字外包** 随着智能手机与搜索引擎普及，研究拓展至数字记忆外包（Google 效应 / 数字健忘症）对长时记忆编码与信息检索策略的影响。
 > - **2024–2025 年 — 生成式 AI 介入下的认知分化与时间边界确立** 大语言模型赋予机器复杂的语义生成与代码调试能力，认知卸载突破低阶存储边界，进入论证建构与[[Creativity\|创造性]]综合等高阶领域。[[Argument_Li_2026_CEAI\|Li et al. (2026)]] 揭示了非结构化环境下的批判性侵蚀与[[Metacognition\|元认知]]外包路径；[[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] 进一步通过一阶[[Meta-analysis\|元分析]]实证确立了“8–16 周中期黄金平衡 vs 长期过度依赖衰落”的倒 U 型时间曲线，并证实[[Self-Regulated Learning\|自主调节学习]]能力（SRL）是中和认知外包风险的决定性个体防线。
 > - **2025 年 — [[Epistemic Stances\|认识立场]]分化与[[Man-Computer Symbiosis|人机共生]][[Epistemic Agency\|认识主体性]]框架确立** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 提出人机共生学习伙伴关系模型，系统揭示表面顺从（Superficial [[Strategic Compliance|compliance]]）与证据过滤剥离机制，阐明绝对主义、相对主义与[[Evaluativist\|评价主义认识立场]]对认知卸载形态的决定性分流作用。
-> - **2026 年 — 延展心智规范判准重塑与中间认识动作剥落诊断** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 从社会[[Epistemology\|认识论]]与延展[[Theory of Mind\|心智理论]]出发重新界定认知卸载，提出卸载能否扩展主体性取决于学习者能否控制耦合、审计系统输入并独立恢复推理，并系统剖析了无摩擦委派如何压缩检索与综合等中间认识动作并剥夺[[Evaluative Judgement\|评价性判断]]。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 4–6)]]
+> - **2026 年 — 延展心智规范判准重塑与中间认识动作剥落诊断** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 从社会[[Epistemology\|认识论]]与延展[[Theory of Mind\|心智理论]]出发重新界定认知卸载，提出卸载能否扩展主体性取决于学习者能否控制耦合、审计系统输入并独立恢复推理，并系统剖析了无摩擦委派如何压缩检索与综合等中间认识动作并剥夺[[Evaluative Judgement\|评价性判断]]。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 4–6)]]
 
 ---
 
@@ -254,7 +254,7 @@ updated: 2026-10-15
 > > 探讨在[[Man-Computer Symbiosis|人机共生]]学习中，认知卸载的合法边界究竟落在何处。
 > >
 > > - **[[Argument_Wu_2025_ER\|Wu et al. (2025)]]** 强调利用[[Chain-of-Thought Prompting\|思维链]]等提示策略将任务步骤拆解卸载给 AI 是生产性的，但绝不可将证据过滤与[[Evaluative Judgement\|评价性判断]]外包，必须维系人类[[Epistemic Agency\|认识主体性]]。
-> > - **[[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]** 警告商业工具致力于消除交互摩擦，极易诱导学习者从操作性卸载滑向承载判断型协助，侵蚀对学术质量的鉴别力。
+> > - **[[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]** 警告商业工具致力于消除交互摩擦，极易诱导学习者从操作性卸载滑向承载判断型协助，侵蚀对学术质量的鉴别力。
 
 > [!warning] 实施局限与教学应对
 > 避免认知卸载演变为有害依赖，教学干预必须落实两大原则：一是**动态分阶段逐步撤去[[Scaffolding\|脚手架]]（Phased Scaffolding Fading）**，随着技能建立适时移除技术支持，促使学生独立完成推理与方案构思；二是**启发式提示（Guided Heuristic Prompting）与评价主义立场培育**，严格限制智能工具直接提供最终答案，通过思维链与[[Role-playing\|角色扮演]]提示引导多步骤推理，并配合同行互评与证据交叉核验，保留必要的深层审思。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 14–15)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 362–365)]]
@@ -298,5 +298,5 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]学习伙伴关系模型，系统阐释绝对主义、相对主义与评价主义[[Epistemic Stances\|认识立场]]对认知卸载的调节分流机制，揭示表面顺从的发生机理并构建技术提示与教学法双轨干预支架。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项实证研究，解构[[Generative Artificial Intelligence\|生成式人工智能]]介入下认知卸载的两种截然相反路径：在无支架任务中引发认知惰性与批判思维外包；在结构化支架下释放认知负荷赋能高阶探究。
-> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 从社会[[Epistemology\|认识论]]与延展心智视角界定认知卸载与[[Epistemic Dependence\|认识依赖]]的边界，揭示无摩擦委派如何压缩检索、比对与综合等中间认识动作，进而侵蚀[[Evaluative Judgement\|评价性判断]]与能力迁移。
+> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 从社会[[Epistemology\|认识论]]与延展心智视角界定认知卸载与[[Epistemic Dependence\|认识依赖]]的边界，揭示无摩擦委派如何压缩检索、比对与综合等中间认识动作，进而侵蚀[[Evaluative Judgement\|评价性判断]]与能力迁移。
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 基于 29 项实验与准实验的一阶[[Meta-analysis\|元分析]]，实证揭示干预时长呈现的倒 U 型效能衰减规律（$>16$ 周回落至 $0.372$），并量化证实[[Self-Regulated Learning\|自主调节学习]]能力（SRL）对抵御知识外包与捷径式学习的关键免疫中和功能（组间检验 $p < 0.001$）。

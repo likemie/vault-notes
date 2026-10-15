@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Hu Shi
@@ -119,7 +119,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 详细分析了胡适对杜威实用主义的极端化转译、反迷信立场及在华翻译中介作用。
-> - [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]] — 分析了胡适等哥大精英网络在五四时期推动新教育改革的角色。
+> - [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] — 分析了胡适等哥大精英网络在五四时期推动新教育改革的角色。
 
 ---
 

@@ -60,7 +60,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Floor and Ceiling Effects
@@ -133,7 +133,7 @@ updated: 2026-10-15
 > [!concept-lens] 探讨维度：测量工具心理计量属性对[[Causality\|因果推断]]精度的系统性制约
 > 评估方法学研究指出：学界常将试验呈现的零效应归咎于[[Didaktik\|教学理论]]无效或[[Business as Usual\|常态教学]]基线过高，却往往忽视了市售商业测验因量程截断造成的测量失效。
 
-> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, p. 54)]]; Hodgen et al. (2019)
+> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 54)]]; Hodgen et al. (2019)
 > **测验截断引发的因果遮蔽** 在 [[Education Endowment Foundation\|EEF]] 资助的 [[Catch Up Numeracy]] 数学试验中，由于选用的商业测验在两端存在严重的题项截断，评估数据显示干预成效微乎其微。然而[[Implementation and Process Evaluation\|过程评估]]却表明学生在特定算术策略上取得了明显突破。深入的计量审计表明，这种假阴性结果很大程度上是由天花板与地板效应直接诱发的。由于缺乏跨学段的足够量程，工具强行把连续的能力增益压缩成离散的极值堆积，从而使高标准的量化试验沦为钝器。
 
 ---
@@ -143,7 +143,7 @@ updated: 2026-10-15
 > [!concept-lens] 探讨维度：测量工具外部公信力与微观干预灵敏度的内在张力
 > [[Evidence-Based Education\|循证教育]]治理揭示：研究者在选择主要结局工具时，始终在“过度敏感的自编题”与“量程受限的通用商业题”之间艰难权衡。
 
-> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, p. 54)]]; Cheung & Slavin (2016)
+> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 54)]]; Cheung and Slavin (2016)
 > **测验选择的双重心理计量陷阱** 若采用紧密贴合教材的自编测验，极易与干预内容高度同构，从而人为夸大 50% 至 100% 的[[Effect Size\|效应量]]（Cheung & Slavin, 2016）；但若严格遵循循证标准采纳独立的通用商业测验，又极其普遍地遭遇天花板与地板效应，导致对真实干预不敏感。破除此两难困境的唯一出路，在于资助机构必须前置委托专业计量团队开发高[[Reliability\|信度]]、宽量程的权威测验库，并优先锚定国家级长期高利害普查数据（如英国 NPD 统考）。
 
 ---
@@ -153,7 +153,7 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
-> | **因果遮蔽命题** | 揭示天花板与地板效应如何通过截断方差人为稀释效应量，制造假阴性证据 | 量化因果评估、测验误差诊断、试验复盘 | Hodgen et al. (2019); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] |
+> | **因果遮蔽命题** | 揭示天花板与地板效应如何通过截断方差人为稀释效应量，制造假阴性证据 | 量化因果评估、测验误差诊断、试验复盘 | Hodgen et al. (2019); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] |
 > | **测量治理命题** | 阐明自编测验虚高与商业测验截断的两难困境，提出前置准入测量库的治理方案 | [[Educational Brokerage Agency\|证据中介机构]]规范、测验选择准则、测评基础设施 | Allen et al. (2018) |
 
 ---
@@ -193,7 +193,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | Hodgen et al. (2019); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] | 英国 [[Catch Up Numeracy]] 小学数学干预效果试验 | 学校[[Randomised Controlled Trials\|随机对照试验]]（RCT）终结性测验质量审计 | 市售商业标准化数学测验题项难度与得分极值分布 | 数据呈现出严重的天花板效应（拔尖生极易满分）与地板效应（弱势生大面积零分），有效量程受阻 | 效应量估算受到严重削弱，未能准确反映[[Implementation and Process Evaluation\|过程评估]]中记录的认知突破 | 证明量程截断直接导致大规模教育试验呈现假性微弱效应 |
+> | Hodgen et al. (2019); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 英国 [[Catch Up Numeracy]] 小学数学干预效果试验 | 学校[[Randomised Controlled Trials\|随机对照试验]]（RCT）终结性测验质量审计 | 市售商业标准化数学测验题项难度与得分极值分布 | 数据呈现出严重的天花板效应（拔尖生极易满分）与地板效应（弱势生大面积零分），有效量程受阻 | 效应量估算受到严重削弱，未能准确反映[[Implementation and Process Evaluation\|过程评估]]中记录的认知突破 | 证明量程截断直接导致大规模教育试验呈现假性微弱效应 |
 > | Allen et al. (2018) | 英国 [[Education Endowment Foundation\|EEF]] 试验数据库中广泛使用的商业阅读与数学测验 | 归档试验数据微观二次分析与[[Predictive Validity\|预测效度]]检验 | 商业测验得分与数年后英国官方高利害统考（GCSE）的相关性 | 绝大多数商业测试的预测效度仅达到中等程度，且对分布两端学生的[[Academic Achievement\|学业表现]]存在系统性测量漂移 | 预测效度中等，极端值误差显著 | 推动循证机构建立前置的标准化测验准入标准 |
 
 ---
@@ -201,5 +201,5 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 结合 [[Catch Up Numeracy]] 等实证案例，系统剖析商业测验天花板与地板效应如何侵蚀 [[Randomised Controlled Trials\|RCT]] [[Causality\|因果推断]]效度，并阐述 [[Education Endowment Foundation\|EEF]] 建立前置测量工具库的治理经验。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 结合 [[Catch Up Numeracy]] 等实证案例，系统剖析商业测验天花板与地板效应如何侵蚀 [[Randomised Controlled Trials\|RCT]] [[Causality\|因果推断]]效度，并阐述 [[Education Endowment Foundation\|EEF]] 建立前置测量工具库的治理经验。
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei, Ding, & Chiu (2026)]] — 在跨学段[[Meta-analysis\|元分析]]中反思学业测评工具难度受限对认知干预[[Effect Size\|效应量]]的潜在衰减效应。

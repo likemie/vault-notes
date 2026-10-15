@@ -28,7 +28,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-10-16
 ---
 
 # Values Alignment Model
@@ -50,12 +50,12 @@ updated: 2026-06-02
 
 > [!abstract]
 > 模型中各方优先事项的差异以及对齐的可能（pp.190–191）：
-> - **医院/[[Academic Health System\|学术健康系统]]**的优先：患者安全和隐私。其[[Return on Investment\|投资回报]]（return on investment, ROI）定义是提供最高质量的患者诊疗，从而建立声誉和患者信任。
+> - **医院/[[Academic Health System\|学术健康系统]]** 的优先：患者安全和隐私。其[[Return on Investment\|投资回报]]（return on investment, ROI）定义是提供最高质量的患者诊疗，从而建立声誉和患者信任。
 > - **产业伙伴**的优先：产品的潜在市场 and 利润。但其利润最终也依赖于改善患者体验 and 减少患者痛苦。
 > - **大学伙伴**的优先：研究、开发 and 学生培养。寻找能够为学生提供前沿能力的合作环境。
 > - **医师**的优先：患者诊疗，以及与其相关的个人声誉、独立性 and 发表记录。
 
-> 对齐的关键在于用**患者中心的透镜（patient-centered lens）**来审视各方优先级：产业对利润 and 市场时间线的追求，最终只有在对患者安全 and 有效的前提下才有意义；学术机构对前沿能力 and 发表的影响，只有转化为患者受益才能实现其社会价值（pp.191–192）。
+> 对齐的关键在于用**患者中心的透镜（patient-centered lens）** 来审视各方优先级：产业对利润 and 市场时间线的追求，最终只有在对患者安全 and 有效的前提下才有意义；学术机构对前沿能力 and 发表的影响，只有转化为患者受益才能实现其社会价值（pp.191–192）。
 
 ## 与 COVID-19 的关系
 

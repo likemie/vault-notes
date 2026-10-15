@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Herbert Hoover
@@ -130,7 +130,7 @@ updated: 2026-10-15
 > - **现代工程哲学与治理复兴** 其关于工程师责任不可逃避的格言被[[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]在《[[Technological Republic|技术共和国]]》中重新激活，作为现代软件工程文化、无过错根因复盘（[[Five Whys|五问法]]）与跨越公共部门[[Innovation Desert|创新荒漠]]的[[Epistemology|认识论]]灯塔（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025, p. 160]]）。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 探究胡佛工程责任伦理对现代[[Engineering Mindset|工程思维]]、反官僚推诿认识论及跨越公共创新荒漠的历史奠基。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Ch. 14, p. 160)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Ch. 15)]]
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 探究胡佛工程责任伦理对现代[[Engineering Mindset|工程思维]]、反官僚推诿认识论及跨越公共创新荒漠的历史奠基。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Ch. 14, p. 160)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Ch. 15)]]
 
 ---
 

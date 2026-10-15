@@ -34,7 +34,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-11
+updated: 2026-10-16
 ---
 ## 简介
 
@@ -44,7 +44,7 @@ updated: 2026-09-11
 ## 核心思想
 
 > [!info] 核心思想
-> Day 领导下的 ISSPP 研究以对**情境敏感（context-sensitive）**为方法论指导原则，其目标不是生产另一个去情境化的"成功领导者应该做什么"清单，而是理解在什么文化、社会和政治条件下领导力被认为是成功的([[Argument_Møller_2017_EERJ\|Møller, 2017, p.379]])。
+> Day 领导下的 ISSPP 研究以对**情境敏感（context-sensitive）** 为方法论指导原则，其目标不是生产另一个去情境化的"成功领导者应该做什么"清单，而是理解在什么文化、社会和政治条件下领导力被认为是成功的([[Argument_Møller_2017_EERJ\|Møller, 2017, p.379]])。
 >
 > ISSPP 对"成功"的定义涵盖两个维度：
 > - 学生[[Academic Achievement\|学业成绩]]的提高

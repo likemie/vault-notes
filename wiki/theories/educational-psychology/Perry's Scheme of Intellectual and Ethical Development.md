@@ -59,7 +59,7 @@ related_methods:
 related_persons: []
 status: active
 created: 2026-08-13
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Perry's Scheme of Intellectual and Ethical Development
@@ -134,7 +134,7 @@ updated: 2026-10-15
 > - **前提二** 不同的学科文化对知识确证规则的要求存在显著差异。
 > - **推导** 学生在大学阶段的认识论演进兼具“普遍涵化”与“[[Domain Specificity\|学科特异性]]”特征：
 >   > [!evidence-grid]- 实证检验
->   > - **[[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] 纵向检验** 对大学阶段的认识论追踪证实了佩里的“大学涵化假设”：人文学科与社会科学的专业学习显著加速了学生向相对主义的转变（确定性信念大幅下降）；然而研究也发现，进入大学前学生已存在显著的先验自我选择效应（Self-selection），且工科商科学生的确定性信念反而可能上升。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, p. 358)]]
+>   > - **[[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] 纵向检验** 对大学阶段的认识论追踪证实了佩里的“大学涵化假设”：人文学科与社会科学的专业学习显著加速了学生向相对主义的转变（确定性信念大幅下降）；然而研究也发现，进入大学前学生已存在显著的先验自我选择效应（Self-selection），且工科商科学生的确定性信念反而可能上升。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, p. 358)]]
 
 ---
 
@@ -210,7 +210,7 @@ updated: 2026-10-15
 > > 佩里模型的初始数据完全来自于 1950 年代哈佛大学的白人男性本科生，其普遍性受到严重质疑。
 > >
 > > - **Belenky et al.（1986）** 批评佩里模型建立在男性特有的“分离型认知”与自主权竞争之上，忽视了女性群体更普遍的“连结型认知”与同理心证成路径。
-> > - **[[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]]** 指出该模型可能更多反映了西方特权阶层[[Liberal Education\|自由教育]]（Liberal Education）的特定社会化产物，而非普遍人类心智规律。
+> > - **[[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]]** 指出该模型可能更多反映了西方特权阶层[[Liberal Education\|自由教育]]（Liberal Education）的特定社会化产物，而非普遍人类心智规律。
 >
 > > [!axis] 发展终点偏离与伦理身份混淆
 > > 佩里图式的高阶阶段（Commitment）是否仍属于纯粹的“[[Epistemology\|认识论]]”范畴？
@@ -220,7 +220,7 @@ updated: 2026-10-15
 > > [!axis] 宏大阶段论 vs 微观情境资源论
 > > [[Epistemic Cognition\|认识论认知]]是一体化演进的宏观特质，还是随任务动态激活的微观资源？
 > >
-> > - **Elby & Hammer（2001）与 [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]]** 批评发展阶段论将认识论假定为脱域的整体结构，主张个体在不同任务、学科文本面前会瞬间调动不同的微观[[Epistemic Resources\|认识论资源]]。
+> > - **Elby and Hammer（2001）与 [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]]** 批评发展阶段论将认识论假定为脱域的整体结构，主张个体在不同任务、学科文本面前会瞬间调动不同的微观[[Epistemic Resources\|认识论资源]]。
 >
 > > [!axis] 大学专属假设与低龄化“学段倒挂”
 > > 佩里模型将高级认识论思维视为大学及成年的专属产物，低龄儿童是否具备高级认识论能力？
@@ -228,7 +228,7 @@ updated: 2026-10-15
 > > - **[[Argument_Greene_2018_JEP\|Greene et al. (2018)]]** [[Meta-analysis\|元分析]]数据显示，初中生（$r = .246$）和小学生（$r = .212$）的认识论与[[Academic Achievement\|学业成就]]关联显著高于大学生（$r = .131$），彻底颠覆了佩里传统发展模型对低龄学习者的低估，证明只要情境得当，中小学生同样能展现评价主义等高阶认识论认知。
 
 > [!critique]- 批评索引
-> - [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] — 系统梳理并指出佩里图式的白人男性样本偏差及高阶位置中伦理承诺与认知信念的[[Construct\|构念]]混淆。
+> - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 系统梳理并指出佩里图式的白人男性样本偏差及高阶位置中伦理承诺与认知信念的[[Construct\|构念]]混淆。
 > - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] — 指出佩里传统阶段发展模型对低龄儿童认识论能力的低估，并揭示宏观阶段自陈量表较低的[[Reliability\|信度]]限制了其解释力。
 
 ---
@@ -236,6 +236,6 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] — 详尽梳理佩里图式的 9 个位置与 4 大阶段，将其置于[[Epistemology\|认识论]]发展模型的谱系源头予以评述。
-> - [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] — 针对佩里提出的大学教育环境塑造认识论思维假设进行大规模纵向追踪检验，证实[[Disciplinary Socialization\|学科社会化]]效应。
+> - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 详尽梳理佩里图式的 9 个位置与 4 大阶段，将其置于[[Epistemology\|认识论]]发展模型的谱系源头予以评述。
+> - [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] — 针对佩里提出的大学教育环境塑造认识论思维假设进行大规模纵向追踪检验，证实[[Disciplinary Socialization\|学科社会化]]效应。
 > - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] — 在[[Meta-analysis\|元分析]]中将佩里开创的发展论模型作为调节[[Variable\|变量]]进行检验，并基于实证数据反思了阶段论对低年级学生的传统假设。

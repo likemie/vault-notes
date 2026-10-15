@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Structural Adjustment Programs
@@ -81,7 +81,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **结构调整方案（Structural Adjustment Programs, SAPs）**是指[[World Bank|世界银行]]（World Bank）与[[International Monetary Fund|国际货币基金组织]]（International Monetary Fund, IMF）自 20 世纪 70 年代末及 80 年代债务危机以来，在[[Washington Consensus|华盛顿共识]]（Washington Consensus）指引下，向面临严重国际收支失衡与主权债务危机的全球南方国家提供贷款时，所强制捆绑的一整套以紧缩财政、市场[[Liberalization|自由化]]、去监管化和国家资产私有化为核心的宏观经济政策处方。在教育领域，结构调整方案将教育从普遍公民权利降格为私人消费品，通过强制要求受援国缩减教育公共预算、推行使用者付费（学杂费）、鼓励营利性私立学校竞争以及实施地方分权化甩脱国家包袱，深刻重构了外围国家的公共教育供给格局。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80)]]
+> **结构调整方案（Structural Adjustment Programs, SAPs）** 是指[[World Bank|世界银行]]（World Bank）与[[International Monetary Fund|国际货币基金组织]]（International Monetary Fund, IMF）自 20 世纪 70 年代末及 80 年代债务危机以来，在[[Washington Consensus|华盛顿共识]]（Washington Consensus）指引下，向面临严重国际收支失衡与主权债务危机的全球南方国家提供贷款时，所强制捆绑的一整套以紧缩财政、市场[[Liberalization|自由化]]、去监管化和国家资产私有化为核心的宏观经济政策处方。在教育领域，结构调整方案将教育从普遍公民权利降格为私人消费品，通过强制要求受援国缩减教育公共预算、推行使用者付费（学杂费）、鼓励营利性私立学校竞争以及实施地方分权化甩脱国家包袱，深刻重构了外围国家的公共教育供给格局。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向跨国金融资本利用债务杠杆，对民族国家公共服务供给结构实施的外生性政策强制与制度再[[Disciplina and Doctrina|规训]]机制。
@@ -223,9 +223,9 @@ updated: 2026-10-15
 >
 > | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 80)]] | [[World Bank\|世界银行]]与 IMF 推行的结构调整紧缩政策 | [[Development Education\|发展中国家教育]]公共投资水平 | 全球南方受援国 | 国家公共教育预算普遍大幅削减 | — | — | 历史制度比较；揭示跨国贷款条件导致国家公共财政全面退潮 |
-> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 79)]] | 结构调整方案在拉美推行使用者付费与私有化 | 教育机会公平性与阶级分流 | 拉美全区域 | 贫困家庭教育负担激增，优质私校锁定特权 | — | — | 政策后果评估；证实市场化改革加剧阶层教育鸿沟 |
-> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 82)]] | 1970–1980 年代债务危机与经济调整期 | 拉美中高等教育扩张增长指数 | 拉美全区域 | 从前期超高速骤降至 167.6% | — | — | 区域宏观统计；显示财政断裂终结了无节制规模扩张 |
+> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, p. 80)]] | [[World Bank\|世界银行]]与 IMF 推行的结构调整紧缩政策 | [[Development Education\|发展中国家教育]]公共投资水平 | 全球南方受援国 | 国家公共教育预算普遍大幅削减 | — | — | 历史制度比较；揭示跨国贷款条件导致国家公共财政全面退潮 |
+> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, p. 79)]] | 结构调整方案在拉美推行使用者付费与私有化 | 教育机会公平性与阶级分流 | 拉美全区域 | 贫困家庭教育负担激增，优质私校锁定特权 | — | — | 政策后果评估；证实市场化改革加剧阶层教育鸿沟 |
+> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, p. 82)]] | 1970–1980 年代债务危机与经济调整期 | 拉美中高等教育扩张增长指数 | 拉美全区域 | 从前期超高速骤降至 167.6% | — | — | 区域宏观统计；显示财政断裂终结了无节制规模扩张 |
 > | [[Argument_Rust_2009_Reflections\|Rust et al. (2009, pp. 134–135)]] | 结构调整市场化方案 vs 古巴社会主义公共动员 | [[Education for All\|全民教育]]（EFA）核心指标达标率 | 拉丁美洲与加勒比国家（2000 年达喀尔评估） | 绝大多数受援国指标停滞落后；古巴成为全区唯一达成全部 EFA 指标的国家 | — | — | 宏观政策模式对照；证实结构调整紧缩破坏全民教育，而国家自主公共投入能突破发展瓶颈 |
 
 ---
@@ -254,7 +254,7 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 从[[Conditioned State Theory|受限国家理论]]与阶级策略视角，系统阐述[[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 的结构调整方案如何通过[[Policy Conditionalities|贷款附加条件]]剥夺拉美国家的教育公共主权并加剧阶级分化。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 从[[Conditioned State Theory|受限国家理论]]与阶级策略视角，系统阐述[[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 的结构调整方案如何通过[[Policy Conditionalities|贷款附加条件]]剥夺拉美国家的教育公共主权并加剧阶级分化。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 104–106, 110–112)]] — 运用[[World-Systems Theory|世界体系分析]]透视结构调整方案的技术官僚成本效益[[Discourse|话语]]，揭示公共开支削减如何导致基础教育向非政府组织外包并异化为“[[Shadow State|影子国家]]”，进而固化外围国家的依附地位。
 > - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 实证对照结构调整市场化改革对受援国[[Education for All|全民教育]]（EFA）进程的阻碍与古巴自主公共教育动员的成功，揭示外部强制紧缩与市场化对全球南方教育发展造成的结构性破坏。
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员视角反思多边贷款附加条件的执行限度与政治博弈，揭示强推改革的不可行性与借款国内部官僚利用银行作为挡箭牌的策略（pp. 465–467）。

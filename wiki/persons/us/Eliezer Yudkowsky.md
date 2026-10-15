@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Eliezer Yudkowsky
@@ -137,7 +137,7 @@ updated: 2026-10-07
 > > 围绕尤德考夫斯基给出的接近 100% 的人类灭绝风险评估，科技界存在深刻的方法论与战略分歧。
 > >
 > > - **[[Eliezer Yudkowsky]]（2023）** 强调对齐困难的数学本质，认为在解决可解释性与价值外推前，任何大尺度前沿模型训练都是在拿人类命运冒险。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 25)]]
-> > - **[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]** 指出单边叫停在存在地缘对抗的现实世界中是不切实际的空想，过度恐慌导致忽视了软件作为现代国家安全防御中枢的战略价值。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 25–27)]]
+> > - **[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]** 指出单边叫停在存在地缘对抗的现实世界中是不切实际的空想，过度恐慌导致忽视了软件作为现代国家安全防御中枢的战略价值。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 25–27)]]
 
 ---
 

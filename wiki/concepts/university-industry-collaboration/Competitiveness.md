@@ -126,7 +126,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **竞争力（Competitiveness，包含国家竞争力 National Competitiveness、产业技术竞争力、高等教育竞争力与劳动力竞争力）**指驱动国家科技创新战略、大学治理变革与劳动力技能重塑的核心逻辑与地缘政治装置（Geopolitical Apparatus）。
+> **竞争力（Competitiveness，包含国家竞争力 National Competitiveness、产业技术竞争力、高等教育竞争力与劳动力竞争力）** 指驱动国家科技创新战略、大学治理变革与劳动力技能重塑的核心逻辑与地缘政治装置（Geopolitical Apparatus）。
 >
 > 该[[Construct|构念]]在当代跨学科科技政策、高等教育学与政治经济学中包含六个紧密嵌套的层级构型：
 > 1. **宏观国家战略与实体制造竞争力（Macro National & Manufacturing Competitiveness）** 指国家在全球经贸与地缘博弈中确立并维系工业技术主权、制造能力与战略威慑的综合实力。在时间跨度上依托数代人乃至“千年期”（Thousand-Year Horizon）的长程战略决断；在空间与制度上破除规制行政阻滞、开放共享试验场与[[Megascience Installations|大科学装置]]、组建前竞争技术联合体，将基础科学发现深度锚定于本土先进制造与产业链闭环。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 33–46)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–197, 204)]]; [[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 367)]]
@@ -141,7 +141,7 @@ updated: 2026-10-16
 > - **理论用途** 解释国家科研资助体系从“布什线性契约”向“产学中心协同与制造锚定”转型的动因，诊断大学排名与卓越审计下的学术内耗，以及解析超国家流动网络如何将劳动力市场竞争压力个体化。
 > - **制度边界** 严格区别于纯粹自由放任的市场自由竞争；高教与国家战略中的竞争力深度依赖公共财政杠杆、[[Regulatory Sandbox|规制沙盒]]政策、指标基础设施界定与全球地缘政治博弈。
 
-> [!citation-card] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] 论超国家流动网络将竞争力转化为个体就业责任
+> [!citation-card] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] 论超国家流动网络将竞争力转化为个体就业责任
 > 诺亚·索比与梅丽莎·菲舍尔援引帕帕齐巴（Papatsiba, 2005, 2006）关于欧洲一体化政策的研究指出，在知识与胜任力驱动的欧洲教育空间中，大学生的跨国流动被重塑为一种“个体化教育实践”。这一实践以与就业能力紧密绑定的各项胜任力（Employability-related Competencies）为中心，隐蔽地将应对现代劳动力市场动荡与提升竞争力的全部责任转嫁给流动个体自身；即便这些胜任力[[Discourse|话语]]被粉饰以公民参与和跨文化素养的高尚修辞，其深层治理逻辑依然是将竞争风险内化为个体的道德自律。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 
 > [!citation-card] 白宫 [[Office of Science and Technology Policy|OSTP]] 论国家[[Research Translation|技术转化]]与实体制造决定国家竞争力
@@ -248,7 +248,7 @@ updated: 2026-10-16
 > [!concept-lens] 产学协同与国家战略对接
 > 探讨面对外部经贸竞争压力，国家科研资助体系如何打破象牙塔孤立探索。
 
-> [!claim] [[Argument_Bozeman_2004_JTT|Bozeman & Boardman (2004)]]
+> [!claim] [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]]
 > **竞争力危机驱动产学中心革命** 1970 年代末至 1980 年代初，面对东亚在先进制造领域的强势崛起，美国决策界产生国家工业竞争力危机。这一宏观焦虑瓦解了战后布什线性契约。1984 年 [[National Science Foundation|NSF]] 创设[[Engineering Research Centers|工程研究中心]]（ERC），明确将提升美国工业在全球市场上的竞争力确立为核心法定宗旨，推动[[Research Universities|研究型大学]]向跨学科、多校协同的多用途大学研究中心（MMURC）[[Paradigm|范式]]转型。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 367, 370)]]
 
 ---
@@ -323,7 +323,7 @@ updated: 2026-10-16
 > [!concept-lens] 超国家空间治理、流动性资本与就业风险内化
 > 探讨区域一体化进程中，官方政策[[Discourse|话语]]如何将国际经贸与劳动力市场竞争力要求，包装为流动学生自愿修炼的公民美德。
 
-> [!claim] Papatsiba (2005, 2006); Nóvoa (2002); [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]]
+> [!claim] Papatsiba (2005, 2006); Nóvoa (2002); [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]]
 > **跨国流动性与就业竞争力风险的个体化承担** 诺亚·索比与梅丽莎·菲舍尔援引帕帕齐巴（Papatsiba, 2005, 2006）关于欧洲一体化与高等教育[[Student Mobility|学生流动性]]的研究指出，超国家教育治理通过将“流动性”（Mobility）编码为 enfranchised 公民的黄金资产，实质上构筑了一种巧妙的新自由主义[[Governmentality|治理术]]：
 > 1. **胜任力话语对就业风险的转嫁** [[EU|欧洲联盟]]在[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）与[[TEMPUS|天普计划]]框架下，将跨国学业流动打造成以[[Employability|就业能力]]为核心的个体化教育实践；
 > 2. **公民修辞与竞争理性的双重编码** 尽管政策修辞高调颂扬文化多样性、欧洲认同与公民游学理想，其实质是将应对全球化劳动力市场弹性需求、跨文化适应与职业竞争的责任，全面转嫁给青年个体，要求其通过自费或自发流动累积“国际竞争力”，从而在宏观上免除了国家兜底充分就业的福利责任。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
@@ -346,14 +346,14 @@ updated: 2026-10-16
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **国家千年期长程决断** | 设立数百年乃至千年尺度的战略规划，以共同价值观与强大人力资本投资驱动现代化经济与地缘跃升 | 资源匮乏国家的制度突围、长期战略规划与国家安全威慑 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025, Ch. 17); [[Lee Kuan Yew\|Lee Kuan Yew]] (1965); World Bank (2023) |
-> | **国家产业中心动员** | 宏观产业竞争力危机倒逼联邦资助打破学科壁垒，设立产学协同[[Big Science\|大科学]]中心 | 面对全球经贸竞争的国家科技战略与大学科研转型 | [[Argument_Bozeman_2004_JTT\|Bozeman & Boardman (2004, pp. 365, 367)]] |
+> | **国家产业中心动员** | 宏观产业竞争力危机倒逼联邦资助打破学科壁垒，设立产学协同[[Big Science\|大科学]]中心 | 面对全球经贸竞争的国家科技战略与大学科研转型 | [[Argument_Bozeman_2004_JTT\|Bozeman and Boardman (2004, pp. 365, 367)]] |
 > | **实体承接制造锚定** | 单纯论文卓越无法维系国家竞争力，必须打破规制阻滞并锚定本土试验场与先进制造 | 国家硬科技战略、[[Regulatory Sandbox\|规制沙盒]]改革与前竞争联合体攻坚 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 33–46)]] |
 > | **微观工程组织学习** | 产业竞争力源于产线以人为本的组织数据学习与工程排障，优于纯硬件机械自动化 | 先进制造业工艺优化、半导体晶圆制造与组织学习 | [[Argument_Macher_1998_CMR\|Macher et al. (1998, pp. 108, 117–118)]] |
 > | **机构卓越生产机制** | 排名与指标化基础设施作为地缘政治装置，通过审判网络生产量化卓越标准 | [[Global Universities Rankings\|全球大学排名]]与国家科研卓越评估（REF/卓越计划） | [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022, p. 220)]] |
 > | **行为预判控制机制** | 教学竞争优势依赖数字化学习分析对学生潜在未来努力的提前干预与不确定性消除 | 高等教育数据化留存管理与在线自评系统 | [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022, pp. 220–221)]] |
 > | **创始人溢价与所有权社会** | 创始人长期主义与全员股权所有权模式打破短期金融化，奠定深科技长周期竞争优势 | 科技企业治理、深科技研发投资、员工激励与反短期主义 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025, Ch. 18); Fahlenbrach (2009); Lee et al. (2016) |
 > | **教育标准与开源生态锁定** | 高校工程课程将开源指令集与 EDA 工具链植入教学，通过工程师技术偏好锁定全球产业事实标准与生态优势 | 大国深科技博弈、开源软硬件生态与技术事实标准争夺 | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026, p. 20)]]; [[Argument_Fan_2026_BCAS\|樊春良 (2026, pp. 24–27)]] |
-> | **超国家流动与就业责任个体化** | 超国家政策将跨国流动性美德化为公民资产，将劳动力市场竞争不确定性转嫁为个体需自我负责的就业胜任力 | [[European Education Space\|欧洲教育空间]]、ERASMUS、[[Internationalization of Higher Education\|高等教育国际化]]与劳动力政策 | Papatsiba (2005, 2006); Nóvoa (2002); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] |
+> | **超国家流动与就业责任个体化** | 超国家政策将跨国流动性美德化为公民资产，将劳动力市场竞争不确定性转嫁为个体需自我负责的就业胜任力 | [[European Education Space\|欧洲教育空间]]、ERASMUS、[[Internationalization of Higher Education\|高等教育国际化]]与劳动力政策 | Papatsiba (2005, 2006); Nóvoa (2002); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] |
 > | **跨国教育对标与政策重构** | 国家经济竞争力被建构为直接系于由国际标准衡量的教育质量；多边监测将全球竞争内化为国内教育改革元目标 | 跨国数据治理、经合组织 PISA 国际排名、新自由主义教育改革 | Brown et al. (1997); [[Fazal Rizvi\|Rizvi]] & [[Bob Lingard\|Lingard]] (2009) |
 
 ---
@@ -422,10 +422,10 @@ updated: 2026-10-16
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统剖析美国[[Research Universities|研究型大学]]在国家半导体体系中的角色重构，提出“教育即标准”、三级人才梯队与中试共置构成了国家深科技竞争力的微观与制度底座。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 分析新型举国体制与战略科技力量建设，揭示[[National Innovation System|国家创新体系]]中跨部门协同攻关与战略科技竞争力塑造机制。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室国家战略报告，系统重构国家硬科技竞争力体系，论证必须打破规制阻滞并锚定本土实体制造能力。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 《[[Technological Republic|技术共和国]]》：[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch. 17]] 论证国家千年期战略决断、[[Human Capital Theory|人力资本]]塑造与地缘威慑意志是竞争力的核心底座；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch. 18]] 结合法伦布拉赫与普渡大学实证，论证创始人长期主义与全员股权所有权模式对抵御季度短期主义的决定性价值。
-> - [[Argument_Bozeman_2004_JTT|Bozeman & Boardman (2004)]] — 论证 1980 年代国家经贸竞争力焦虑如何驱动 [[National Science Foundation|NSF]] 设立[[Engineering Research Centers|工程研究中心]]（ERC）并奠定多用途大学研究中心支柱地位。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 《[[Technological Republic|技术共和国]]》：[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch. 17]] 论证国家千年期战略决断、[[Human Capital Theory|人力资本]]塑造与地缘威慑意志是竞争力的核心底座；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch. 18]] 结合法伦布拉赫与普渡大学实证，论证创始人长期主义与全员股权所有权模式对抵御季度短期主义的决定性价值。
+> - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 论证 1980 年代国家经贸竞争力焦虑如何驱动 [[National Science Foundation|NSF]] 设立[[Engineering Research Centers|工程研究中心]]（ERC）并奠定多用途大学研究中心支柱地位。
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 实证揭示以人为本的产线组织数据学习与快速工程排障对产业微观工程竞争力的决定性超越。
 > - [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]] — 运用[[Governmentality|治理术]]与[[Societies of Control|控制社会]]理论，剖析竞争力作为地缘政治装置如何依托排名与[[Learning Analytics|学习分析]]重塑高等教育。
-> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 援引 Papatsiba（2005）剖析超国家教育一体化政策，揭示官方[[Discourse|话语]]如何将劳动力市场竞争力与就业风险转化为青年需自负盈亏打造的跨国流动性美德。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 援引布朗等人（1997）论述，解构新自由主义[[Social Imaginary|社会想象]]如何将国家经济竞争力绑定于[[International Education|国际教育]]质量，揭示[[OECD|经合组织]]多边监测与 [[PISA]] 将全球竞争内化为国内政策议程的机制（pp. 444–445, 447）。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 援引 Papatsiba（2005）剖析超国家教育一体化政策，揭示官方[[Discourse|话语]]如何将劳动力市场竞争力与就业风险转化为青年需自负盈亏打造的跨国流动性美德。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 援引布朗等人（1997）论述，解构新自由主义[[Social Imaginary|社会想象]]如何将国家经济竞争力绑定于[[International Education|国际教育]]质量，揭示[[OECD|经合组织]]多边监测与 [[PISA]] 将全球竞争内化为国内政策议程的机制（pp. 444–445, 447）。
 

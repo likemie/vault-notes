@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Temporalization of Space
@@ -140,7 +140,7 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **殖民时间投射命题** | 地理旅行被构想为文明演进的时间回溯，原住民被概念化为代表过去的原始人 | 近代早期欧洲航海扩张与帝国殖民人类学记述 | Leed (1991); Sayre (1997); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] |
+> | **殖民时间投射命题** | 地理旅行被构想为文明演进的时间回溯，原住民被概念化为代表过去的原始人 | 近代早期欧洲航海扩张与帝国殖民人类学记述 | Leed (1991); Sayre (1997); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] |
 > | **教育文明欠缺命题** | 现代教育政策将边缘空间假定为文明落后阶段，通过同化方案推行[[Disciplina and Doctrina\|规训]]拯救 | 当代西方少数群体补偿教育与发展主义教育改革 | Popkewitz (1998); Paulston (2000) |
 
 ---
@@ -176,11 +176,11 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | [[Enlightenment\|启蒙运动]]以来的西方地理探险日志与比较教育知识谱系（转引自 Leed, 1991; Sayre, 1997; Popkewitz, 1998） | 思想史考察与观念谱系分析 | 文明阶段叙事[[Discourse\|话语]]频次、原住民被命名为古罗马/古希腊野蛮人的修辞结构 | 系统论证西方探险日志如何普遍建立时间旅行隐喻，并证明当代教育政策依然在观念底层将流动和少数群体建构为文明欠缺阶段 | 思想史与[[Epistemology\|认识论]]定性考证 | 揭示了单线演进叙事背后的权力偏见，不包含量化实验与效应量检验 |
+> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | [[Enlightenment\|启蒙运动]]以来的西方地理探险日志与比较教育知识谱系（转引自 Leed, 1991; Sayre, 1997; Popkewitz, 1998） | 思想史考察与观念谱系分析 | 文明阶段叙事[[Discourse\|话语]]频次、原住民被命名为古罗马/古希腊野蛮人的修辞结构 | 系统论证西方探险日志如何普遍建立时间旅行隐喻，并证明当代教育政策依然在观念底层将流动和少数群体建构为文明欠缺阶段 | 思想史与[[Epistemology\|认识论]]定性考证 | 揭示了单线演进叙事背后的权力偏见，不包含量化实验与效应量检验 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 阐发空间的时间化概念，以此为突破口反思西方[[Enlightenment|启蒙哲学]]对地理空间的殖民，为比较教育学空间转向确立理论前提。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 阐发空间的时间化概念，以此为突破口反思西方[[Enlightenment|启蒙哲学]]对地理空间的殖民，为比较教育学空间转向确立理论前提。

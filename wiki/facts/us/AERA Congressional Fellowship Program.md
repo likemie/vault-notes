@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # AERA Congressional Fellowship Program
@@ -71,7 +71,7 @@ updated: 2026-10-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **[[American Educational Research Association\|AERA]]国会政策研究员计划（AERA Congressional Fellowship Program）**是由美国教育研究学会（American Educational Research Association, AERA）依托[[American Association for the Advancement of Science\|美国科学促进会]]（AAAS）科技政策研究员（STPF）架构发起设立的高端政策实践培育项目。项目全额资助具备扎实因果实证训练的博士级教育科学学者，前往美国国会山开展为期一年的全职幕僚服务，旨在打破学术界与政策界的两社区壁垒，推动高质量科研证据实质性嵌入国家教育立法决策。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 40–41, 46–47)]]
+> **[[American Educational Research Association\|AERA]]国会政策研究员计划（AERA Congressional Fellowship Program）** 是由美国教育研究学会（American Educational Research Association, AERA）依托[[American Association for the Advancement of Science\|美国科学促进会]]（AAAS）科技政策研究员（STPF）架构发起设立的高端政策实践培育项目。项目全额资助具备扎实因果实证训练的博士级教育科学学者，前往美国国会山开展为期一年的全职幕僚服务，旨在打破学术界与政策界的两社区壁垒，推动高质量科研证据实质性嵌入国家教育立法决策。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 40–41, 46–47)]]
 
 > [!program-context] 项目背景
 > - **立项时间与运行周期** 启动于 2000 年代初并常态化实施至今，每年面向全美公开选拔 1 至 2 名具有优秀科研成果的教育学者，任期固定为 12 个月（通常自当年 9 月至次年 8 月）。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]

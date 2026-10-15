@@ -38,13 +38,13 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-05-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 核心主张
 
 > [!info] 核心主张
-> Refraction Framework（折射框架）是 [[Argument_Downey_2016_SoE\|Downey & Condron (2016)]] 提出的理解学校与不平等关系的理论框架。其核心主张：学校是"不平等折射器"（refractors of inequality）——正如光线进入新介质（如从空气到水）时会发生折射，不平等在学生进入学校时也会改变轨迹([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.5]])。
+> Refraction Framework（折射框架）是 [[Argument_Downey_2016_SoE\|Downey and Condron (2016)]] 提出的理解学校与不平等关系的理论框架。其核心主张：学校是"不平等折射器"（refractors of inequality）——正如光线进入新介质（如从空气到水）时会发生折射，不平等在学生进入学校时也会改变轨迹([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.5]])。
 >
 > > "Much like light is refracted when it enters a new medium (e.g., from air to water), we argue that inequalities are refracted when children enter schools."
 >
@@ -68,7 +68,7 @@ updated: 2026-10-15
 
 
 > [!abstract] 三个补偿机制
-> [[Argument_Downey_2016_SoE\|Downey & Condron (2016, pp.6–7)]] 初步识别了三个可能使学校发挥补偿作用的机制：
+> [[Argument_Downey_2016_SoE\|Downey and Condron (2016, pp.6–7)]] 初步识别了三个可能使学校发挥补偿作用的机制：
 >
 > 1. **课程整合（curriculum consolidation）** 学校按年龄分组，使技能水平差异极大的儿童接触相同的课程挑战。ECLS-K 数据显示 40% 的幼儿园儿童阅读能力超过底部 10% 的一年级学生，且少数幼儿园儿童的阅读能力超过五年级学生——但绝大多数按年龄分组的儿童留在同年级，这使得高能力学生难以在低于其水平的材料中获得学业进步。这一做法可能是补偿性的。
 >    > 例：如果一个幼儿园儿童已经能读五年级水平的书，却被放在幼儿园教室里学习字母，那么她的学业进步速度将被系统性地"刹车"，而落后同龄人的同学则获得赶上来的机会。
@@ -81,10 +81,10 @@ updated: 2026-10-15
 > [!abstract] 与传统视角的对比
 > | 视角 | 学校的角色 | 核心代表 |
 > |------|----------|---------|
-> | 再生产理论（Reproduction） | 学校传递已有的不平等 | [[Pierre Bourdieu\|Bourdieu]] (1977); Bowles & Gintis (1976) |
+> | 再生产理论（Reproduction） | 学校传递已有的不平等 | [[Pierre Bourdieu\|Bourdieu]] (1977); Bowles and Gintis (1976) |
 > | 加剧理论（Exacerbation） | 学校不仅再生产且放大不平等 | Kozol (1992); 教师质量差异文献 |
 > | Coleman 报告立场 | 学校对成就差距作用很小 | Coleman et al. (1966); Jencks (1972) |
-> | 折射框架（Refraction） | 学校沿不同维度以不同方式塑造不平等 | [[Argument_Downey_2016_SoE\|Downey & Condron (2016)]] |
+> | 折射框架（Refraction） | 学校沿不同维度以不同方式塑造不平等 | [[Argument_Downey_2016_SoE\|Downey and Condron (2016)]] |
 >
 > 折射框架的优势在于：(1) 将补偿性可能性提升到与加剧性和中性视角平等的地位；(2) 强调不平等在学校入学前已有显著轨迹，突出早期童年经历的重要性([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.5]])。
 

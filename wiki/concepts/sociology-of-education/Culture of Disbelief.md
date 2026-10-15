@@ -31,7 +31,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Culture of Disbelief
@@ -76,7 +76,7 @@ updated: 2026-10-15
 > [!claim] Carter (1993)
 > **精英偏狭与公共道德矮化** 卡特在《不信文化》（*The Culture of Disbelief*, 1993）中论证，现代法律与政治文化强行将信仰私有化并贬低为业余爱好，剥夺了宗教与传统文化为公共正义提供道德滋养的合法渠道，使公共生活彻底矮化为自私利益集团的机械博弈。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 72)]]
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **国家灵魂的自我放逐** 战后美国在包容的名义下放逐了一切规范性信念与国家认同，导致当代青年在技术至上与功利算计中迷失，使国家在重大历史考验面前陷入缺乏[[Hard Belief|硬信念]]支撑的脆弱境地。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 72–73)]]
 
 ---
@@ -87,7 +87,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **精神矮化命题** | 压制超验信仰将公共生活降格为纯粹利益算计 | 宪法学、宗教社会学、法哲学 | Carter (1993) |
-> | **国家信念解体命题** | 祛魅过激导致社会丧失抵御危机所必需的硬信念 | 政治文化、地缘竞争、教育哲学 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025)]] |
+> | **国家信念解体命题** | 祛魅过激导致社会丧失抵御危机所必需的硬信念 | 政治文化、地缘竞争、教育哲学 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]] |
 
 ---
 

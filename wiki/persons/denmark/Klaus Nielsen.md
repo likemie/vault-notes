@@ -52,7 +52,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 ## 简介
 
@@ -97,9 +97,9 @@ updated: 2026-10-15
 > | 元分析 | 效应量 | 占 VL 反馈效应量的权重 | 审查发现 |
 > |--------|--------|----------------------|---------|
 > | Lysakowski & Walberg (1980/1982) | 0.97 | 最高 | 研究的是行为主义"强化"（reinforcement），与反馈不同 |
-> | Kluger & DeNisi (1996) | 0.41 | 第二高 | 38% 效应量为负；干预中 1/3 降低表现；Hattie 未讨论此发现 |
+> | Kluger and DeNisi (1996) | 0.41 | 第二高 | 38% 效应量为负；干预中 1/3 降低表现；Hattie 未讨论此发现 |
 > | Witt et al. (2004) | — | — | 测量的是教师反思而非反馈对学生的影响 |
-> | Swanson & Lussier (2001) | — | — | 测量的是认知策略教学的有效性——未包含任何与反馈相关的处理[[Variable\|变量]] |
+> | Swanson and Lussier (2001) | — | — | 测量的是认知策略教学的有效性——未包含任何与反馈相关的处理[[Variable\|变量]] |
 >
 > 核心发现：**5 项最重元分析中 4 项未研究 Hattie 所定义的反馈**（即代理人提供关于表现或理解的信息）。Hattie 反馈效应量的证据基础因此受到严重质疑。
 >
@@ -127,7 +127,7 @@ updated: 2026-10-15
 > - **2019** — 转向 VL 量化方法论的质量审查（丹麦语）
 > - **2021** — 以两篇英文论文进入国际学术界：(1) 以 Habermas [[Legitimation Crisis|合法化危机]]理论提供 VL 全球流行的理论解释（IRTP）；(2) 以[[Technical Rationality\|技术理性]]为[[Analytic Framework\|分析框架]]，系统追溯 Hattie 的行为主义理论谱系并对反馈[[Meta-analysis\|元分析]]进行细读审查（NordPsych）
 >
-> 其核心贡献在于从**理论功能**（而非方法论质量）角度解释 VL 的全球流行，与 Rømer (2018, 2019) 的哲学批判、[[Argument_Wrigley_2019_ERE\|Wrigley & McCusker (2019)]] 的方法论批判、[[Argument_Cowen_2019_ERE\|Cowen (2019)]] 的制度批判、[[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] 的分析[[Epistemology\|认识论]]批判和 [[Argument_McKnight_2020_Discourse\|McKnight & Whitburn (2020)]] 的文化政治批判形成互补。
+> 其核心贡献在于从**理论功能**（而非方法论质量）角度解释 VL 的全球流行，与 Rømer (2018, 2019) 的哲学批判、[[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019)]] 的方法论批判、[[Argument_Cowen_2019_ERE\|Cowen (2019)]] 的制度批判、[[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] 的分析[[Epistemology\|认识论]]批判和 [[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]] 的文化政治批判形成互补。
 
 ## 争议与批评
 

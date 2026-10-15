@@ -55,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Research Ethics
@@ -86,7 +86,7 @@ updated: 2026-10-15
 > - **参与者成本** 尊严受损、尴尬、社会关系中的信任丧失、自主与自决权的丧失、自尊降低
 > - **参与者收益** 为科学做出贡献的满足感、对研究领域的更深入个人理解
 >
-> 这一平衡过程主要是主观的，几乎不存在绝对标准。来源：改编自 Frankfort-Nachmias & Nachmias (1992)
+> 这一平衡过程主要是主观的，几乎不存在绝对标准。来源：改编自 Frankfort-Nachmias and Nachmias (1992)
 
 > [!info] Seedhouse 的伦理金字塔四层
 > Seedhouse (1998a) 提出了伦理决策的四层结构，构成思考研究伦理问题的"[[Epistemology\|认识论]]装置"（Stutchbury & Fox, 2009, p. 492）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 76–77]]）：
@@ -101,7 +101,7 @@ updated: 2026-10-15
 > 伦理决策必须同时在金字塔的所有四个层次中运作，这可能在金字塔的不同层次内部和之间产生冲突点。
 
 > [!info] [[Situated Ethics\|情境伦理]]（Situated Ethics）
-> Simons & Usher (2000, p. 1) 主张：虽然伦理传统上被视为一套不变且有效地适用于所有情境的一般原则，但恰恰相反，伦理原则在不同的研究实践中被中介，因此相对于这些实践具有不同的意义。这意味着情境伦理是"免疫于普遍化"的——"研究者无法避免权衡位于研究情境特殊性中的冲突考量和困境，在这些困境中需要做出伦理决定，但这些决定不能通过诉诸单义、单值的（unambiguous and univalent）原则或守则来达到"（Simons & Usher, 2000, p. 2）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 128–129]]）。
+> Simons and Usher (2000, p. 1) 主张：虽然伦理传统上被视为一套不变且有效地适用于所有情境的一般原则，但恰恰相反，伦理原则在不同的研究实践中被中介，因此相对于这些实践具有不同的意义。这意味着情境伦理是"免疫于普遍化"的——"研究者无法避免权衡位于研究情境特殊性中的冲突考量和困境，在这些困境中需要做出伦理决定，但这些决定不能通过诉诸单义、单值的（unambiguous and univalent）原则或守则来达到"（Simons & Usher, 2000, p. 2）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 128–129]]）。
 
 ## 核心要素
 
@@ -144,7 +144,7 @@ updated: 2026-10-15
 > | | 提供伦理合规证明与无[[Conflict of Interest in Research\|利益冲突]]声明 | 披露研究资助方和获益方 |
 > | | 明确数据所有权 | 将所有权归于研究者、参与者和导师 |
 >
-> 来源：改编自 APA; Creswell & Poth (2018); Lincoln (2009); Mertens & Ginsberg (2009); Salmons (2010)。
+> 来源：改编自 APA; Creswell and Poth (2018); Lincoln (2009); Mertens and Ginsberg (2009); Salmons (2010)。
 
 ### 研究开始之前
 
@@ -280,8 +280,8 @@ updated: 2026-10-15
 > [!warning] 在线研究的特殊挑战
 > （[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 105–108]]）：
 >
-> - **身份认证困难**James & Busher (2007) 认为在线研究带来了确认受访者和回答真实性的困难问题
-> - **公共与私密的模糊**Hudson & Bruckman (2005, p. 298) 发现"公共在线环境中的人往往表现得好像这些环境是私密的"，即使数据无法被追溯，他们仍然感到隐私被侵犯
+> - **身份认证困难**James and Busher (2007) 认为在线研究带来了确认受访者和回答真实性的困难问题
+> - **公共与私密的模糊**Hudson and Bruckman (2005, p. 298) 发现"公共在线环境中的人往往表现得好像这些环境是私密的"，即使数据无法被追溯，他们仍然感到隐私被侵犯
 > - **信任建立**Lewis (2006) 描述了在请求参与研究之前花了五个月时间建立在线社区的信任关系——先成为在线社区成员
 > - **AoIR 伦理指南（Ess & AoIR, 2002）** 不要假设电子邮件安全；场所公认的公共性越强，保护个人隐私的义务可能越少；研究者对参与者的脆弱性越强，保护参与者的义务越大
 
@@ -348,7 +348,7 @@ Lee (1993, p. 139) 还指出，一些参与者可能故意制造让研究者获�
 
 ### 隐私 vs 公共知情权
 
-当研究可能揭示负面发现时，伦理张力达到最大（pp.213–214）。Simons (2000, p. 45) 直言代价太高了；Walford (2001, p. 30) 则认为对公共利益的潜在收益足以正当化对参与者私生活的一定程度侵入。Simons & Usher (2000, p. 5) 总结：政治和伦理是不可分割地交织在一起。
+当研究可能揭示负面发现时，伦理张力达到最大（pp.213–214）。Simons (2000, p. 45) 直言代价太高了；Walford (2001, p. 30) 则认为对公共利益的潜在收益足以正当化对参与者私生活的一定程度侵入。Simons and Usher (2000, p. 5) 总结：政治和伦理是不可分割地交织在一起。
 
 > [!seealso] 参见
 > - [[Sensitive Research]] — 敏感研究的完整概念框架

@@ -69,7 +69,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Policy Brokerage
@@ -182,7 +182,7 @@ updated: 2026-10-15
 > [!concept-lens] 国家[[Policy Network\|政策网络]]与制度化中介
 > 探讨在主权国家内部治理中，行政当局如何通过[[Gatekeepers\|守门人]]机制、官方资助中介机构与非正式口碑网络实现基于政策的证据转译。
 
-> [!claim] [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]]
+> [!claim] [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]]
 > **官方中介扶植、证据守门与落地偏好** 在国家层面的[[Policy Network\|政策网络]]中，政策中介不仅体现为跨国组织的外部输入，更表现为主权政府[[Gatekeepers\|守门人]]对本土中介生态的主动重塑。英国教育部高级官员与部长通过创设或资助专属专业组织（如[[Chartered College of Teaching\|特许教学学院]]（CCT）、[[Teaching Schools\|教学学校]]理事会（TSC））、任命认同官方路线的系统领袖牵头政策审查（如[[Carter Review of Initial Teacher Training\|卡特审查]]），构建起闭环的内部中介网络；伴随文官系统的频繁流转，中介过程高度依赖口口相传和强烈的“落地偏好”（landing preference），选择性放大符合政治议程的去情境化结论，将研究证据转化为服务于行政合法性的[[Rationalized Myth\|合理化神话]]与[[Policy-Based Evidence-Making\|基于政策的证据制造]]（Policy-Based Evidence-Making, PBEM）。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 611–615)]]
 
 ---
@@ -206,7 +206,7 @@ updated: 2026-10-15
 > - **1979 — [[Two-Communities Theory\|双社群理论]]奠基** Caplan 提出科学社群与政治社群之间存在文化壁垒与认知鸿沟，强调需要桥梁行动者克服知识流动阻碍。
 > - **2010 — 知识-行动联结三代模型** Best & Holmes 梳理[[Research Utilization\|知识利用]]演进阶段：第一代单向推送模式、第二代行动者关系共建模式，以及第三代关注组织生态、制度能力与政策周期的系统性程序模式。
 > - **2018–2021 — 跨国[[Network Governance\|网络治理]]与[[Soft Power by Hard Facts\|硬事实软权力]]** Niemann & Martens 指出以[[OECD\|经合组织]]为代表的国际组织凭借量化指标体系扮演[[Boundary Spanner\|知识经纪人]]，通过 hard facts 行使 soft governance。
-> - **2022 — 国内[[Policy Network\|政策网络]]与制度化政策中介解剖** [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] 将政策中介视角引入主权国家内部政策[[Network Analysis\|网络分析]]，基于新制度主义揭示英格兰教育治理从测量时代迈向[[Evidence Era\|证据时代]]后，政府[[Gatekeepers\|守门人]]如何通过扶植专属中介（[[Chartered College of Teaching\|CCT]]、TSC）与非正式人际网络实现[[Policy-Based Evidence-Making\|基于政策的证据制造]]。
+> - **2022 — 国内[[Policy Network\|政策网络]]与制度化政策中介解剖** [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] 将政策中介视角引入主权国家内部政策[[Network Analysis\|网络分析]]，基于新制度主义揭示英格兰教育治理从测量时代迈向[[Evidence Era\|证据时代]]后，政府[[Gatekeepers\|守门人]]如何通过扶植专属中介（[[Chartered College of Teaching\|CCT]]、TSC）与非正式人际网络实现[[Policy-Based Evidence-Making\|基于政策的证据制造]]。
 > - **2024 — [[Governing by Numbers\|数字治理]] 2.0 与政策中介理论成型** [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] 正式提出数字治理 2.0 议程，将研究焦点从去情境化的测验指标推进至信息过载时代的“政策中介”，揭示国际组织自我生产、推销与资助方案的一体化运作。
 
 ---
@@ -223,7 +223,7 @@ updated: 2026-10-15
 
 > [!critique] 外部批评
 > - **自指性与证据垄断** 批判学者指出政策中介机构（尤其是国际组织）倾向于将自身内部生产的知识进行闭环中介与项目资助，极易导致循证决策演变为自圆其说的方案推销与治理技术垄断。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
-> - **证据异化与[[Epistemology\|认识论]]连贯性断裂** [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] 批评国内政策中介机制割裂了严谨学术研究的完整[[Epistemology\|认识论]]链条，在追求政策落地偏好与部长适宜性逻辑的驱使下，将研究证据降格为去情境化的口号与政治辩护工具，导致科学认识论退化为非[[Reflexivity\|反思性]]的教条意见。
+> - **证据异化与[[Epistemology\|认识论]]连贯性断裂** [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] 批评国内政策中介机制割裂了严谨学术研究的完整[[Epistemology\|认识论]]链条，在追求政策落地偏好与部长适宜性逻辑的驱使下，将研究证据降格为去情境化的口号与政治辩护工具，导致科学认识论退化为非[[Reflexivity\|反思性]]的教条意见。
 
 > [!warning] 适用局限
 > 政策中介概念主要解释具备完备数据生产能力与跨国传播网络的超国家组织、大型智库及发达咨询实体；在缺乏成熟[[Data Infrastructure\|数据基础设施]]或高度封闭集权的政策体系中，其分析解释力可能受限。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 550)]]
@@ -245,4 +245,4 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers\|数字治理]] 2.0 框架，系统解构[[OECD\|经合组织]]与[[World Bank\|世界银行]]将政策中介作为全球治理工具的演进逻辑与国家回应机制。
-> - [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] — 揭示英格兰教育[[Policy Network\|政策网络]]中政府[[Gatekeepers\|守门人]]、官方扶植中介机构与口口相传转译的运作机制。
+> - [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] — 揭示英格兰教育[[Policy Network\|政策网络]]中政府[[Gatekeepers\|守门人]]、官方扶植中介机构与口口相传转译的运作机制。

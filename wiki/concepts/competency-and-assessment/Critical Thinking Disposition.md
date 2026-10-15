@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Critical Thinking Disposition
@@ -106,7 +106,7 @@ updated: 2026-10-15
 > | **典型表现** | 识别隐含假设、评估论据效力、避免逻辑谬误 | 求真、[[Open-Mindedness\|思想开放]]、反教条实验、心理韧性 | 依赖触发预警、夸大言语伤害、顺从群体共识 |
 > | **面对异见与不适** | 将其作为待分析的命题材料 | 视为检验自身模型与深化认知的契机 | 判定为心理创伤与敌意冒犯，要求制度[[Screening Off\|屏蔽]] |
 > | **干预与提升途径** | 逻辑论证训练与标准化测验演练 | [[Mentorship\|导师制]]身教示范、真实劣构挑战、反从众磨砺 | 迎合主观诉求、抚平所有组织摩擦 |
-> | **经典代表学者** | Ennis (1989); Paul (1993) | Siegel (1988); Facione (1990); [[John Dewey\|Dewey (1922)]] | 批判视角：Friedman (2023); [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025)]] |
+> | **经典代表学者** | Ennis (1989); Paul (1993) | Siegel (1988); Facione (1990); [[John Dewey\|Dewey (1922)]] | 批判视角：Friedman (2023); [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]] |
 
 ---
 

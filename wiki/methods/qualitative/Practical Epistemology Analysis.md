@@ -58,7 +58,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Practical Epistemology Analysis
 
@@ -181,5 +181,5 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] — 综述并运用 PEA 框架分析中小学物理、工程与科学课堂中的[[Epistemic Practices\|认识论实践]]与意义建构。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 综述并运用 PEA 框架分析中小学物理、工程与科学课堂中的[[Epistemic Practices\|认识论实践]]与意义建构。
 > - [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] — 借鉴[[Practical Epistemology\|实践认识论]]视角分析学生在计算机探究环境中的[[Scientific Explanation\|科学解释]]与证据运用。

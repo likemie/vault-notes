@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Epistemic Deference
@@ -133,7 +133,7 @@ updated: 2026-10-07
 > [!concept-lens] [[Epistemic Friction|认识论摩擦]]与权威再平衡
 > 探讨如何通过界面交互与技术架构设计重建操作者的认识抗辩权。
 
-> [!claim] Veluwenkamp & Buijsman (2025); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
+> [!claim] Veluwenkamp and Buijsman (2025); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **以反思摩擦打破无条件顺从** 破除操作者对系统的认识论顺从，不能单靠操作者个人意愿，必须在技术交互界面嵌入结构化的[[Epistemic Friction|认识论摩擦]]：
 > 1. **反思机器（Reflection Machines）** 在关键节点引入[[Socrates|苏格拉底]]式自适应对话，迫使操作者阐明判定依据，重塑审思所有权；
 > 2. **[[Defeater|反驳型击败者]]（Rebutting Defeaters）** 主动呈现冲突数据与对立诊断，赋予操作者直接质疑系统提示的证据杠杆，从架构层面恢复操作者的认识权威与可抗辩性（Contestability）。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–25)]]
@@ -147,7 +147,7 @@ updated: 2026-10-07
 > |---|---|---|---|
 > | **自主性侵蚀命题** | 顺从破坏信念修正能力与自我合法权威认同，导致自主能动性瓦解 | 算法辅助决策、专业工作流、人工智能辅助分析 | [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]]; Stoljar (2000); Mackenzie (2008) |
 > | **道德义务背离命题** | 向无道德能力的机器让渡杀伤或重症裁决权，违背尊严关切与道德受托责任 | 军事自主武器系统、临床急症、司法风险评估 | [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]]; Sparrow (2016); Heyns (2017) |
-> | **摩擦再平衡命题** | 借助反思机器与反驳型击败者注入认知摩擦，恢复可抗辩性与批判性信任 | 人机协作系统设计、安全关键人机界面 | Veluwenkamp & Buijsman (2025); [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]] |
+> | **摩擦再平衡命题** | 借助反思机器与反驳型击败者注入认知摩擦，恢复可抗辩性与批判性信任 | 人机协作系统设计、安全关键人机界面 | Veluwenkamp and Buijsman (2025); [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]] |
 
 ---
 
@@ -176,7 +176,7 @@ updated: 2026-10-07
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 将[[Epistemology|认识论]]顺从引入[[Automation Bias|强自动化偏差]]的规范[[Philosophical Analysis in Education|哲学分析]]，论证其对自主能动性与道德能动性的双重侵蚀，并提出基于反思机器与[[Defeater|击败者]]的干预机制。
-> - [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] — 批判无摩擦委派中学习者将中间认识劳动全盘让渡给大语言模型（Large Language Models, LLMs）的[[Epistemic Dependence|认识依赖]]风险。
+> - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 批判无摩擦委派中学习者将中间认识劳动全盘让渡给大语言模型（Large Language Models, LLMs）的[[Epistemic Dependence|认识依赖]]风险。
 > - [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] — 论证在证据综合中防止对大模型输出的形式化顺从，确立人类专家对分歧数据的最终裁决权。
 
 ---

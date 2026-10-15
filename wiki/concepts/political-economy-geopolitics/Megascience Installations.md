@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-30
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 
 # Megascience Installations
@@ -67,7 +67,7 @@ updated: 2026-10-14
 ## 定义
 
 > [!def] 核心定义
-> **[[Big Science|大科学]]装置（Megascience Installations / Megascience Facilities，亦称大型科研基础设施）**是指在基础科学前沿与关键使能技术领域（如高能物理粒子对撞机、受控核聚变装置、同步辐射光源、散裂中子源及国家级微纳制造基础设施）建设的独特、高度复杂且造价极其昂贵的大型综合科研基础设施。
+> **[[Big Science|大科学]]装置（Megascience Installations / Megascience Facilities，亦称大型科研基础设施）** 是指在基础科学前沿与关键使能技术领域（如高能物理粒子对撞机、受控核聚变装置、同步辐射光源、散裂中子源及国家级微纳制造基础设施）建设的独特、高度复杂且造价极其昂贵的大型综合科研基础设施。
 >
 > 此类装置是获取常规实验室无法企及的极端物理参数（如极高能级、超短脉冲、超强磁场）与微观表征分辨率的唯一手段。在传统上，大科学装置主要依托广泛的国际多边合作进行共同资助与要素共享；[[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, pp. 47–48)]]
 >
@@ -111,7 +111,7 @@ updated: 2026-10-14
 > [!contrast-table] [[Big Science|大科学]]装置核心命题归纳
 > | 命题类型 | 核心指向 | 提出学者 / 机构 | 实证情境 |
 > |---|---|---|---|
-> | **多边国际共建命题** | 极端高昂造价与技术风险促成跨国联合出资，以分摊财政负担并促进全球要素共享 | [[Argument_Dezhina_2022_ECO\|Dezhina & Egerev (2022)]] | 美国取消 SSC 后转投 [[CERN]] LHC；多国共建 ITER |
+> | **多边国际共建命题** | 极端高昂造价与技术风险促成跨国联合出资，以分摊财政负担并促进全球要素共享 | [[Argument_Dezhina_2022_ECO\|Dezhina and Egerev (2022)]] | 美国取消 SSC 后转投 [[CERN]] LHC；多国共建 ITER |
 > | **地缘主权锁定命题** | 地缘政治博弈与制裁风险倒逼部分国家推行本土独资建设，但面临沉重预算挤压 | 同上，pp. 47–49 | 俄[[Nikolas Rose\|罗斯]]单边资助大科学设施，研发总预算仅为美国的 1/13 |
 > | **产业中试共享转型命题** | 大科学设施打破唯论文机时分配，向产业开放共享洁净室与中试线以跨越[[Valley of Death\|死亡之谷]] | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | 能源部 28 个用户设施开放机时；[[National Nanotechnology Coordinated Infrastructure\|NNCI]] 降低原型试制成本 |
 > | **后摩尔微纳设施网络命题** | 联邦大科学装置与国家纳米设施跨部门组网，向全美开放极端表征与 300mm 中试产线 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | [[National Science Foundation\|NSF]] NNCI（2000+ 机台）、[[Department of Energy\|DOE]] 国家实验室设施与 [[National Science and Technology Council\|NSTC]] 300mm 产线联动 |
@@ -181,7 +181,7 @@ updated: 2026-10-14
 >
 > | 观察维度 | 核心量化指标 | 经验观察与实证基准 | 数据来源 |
 > |:---|:---|:---|:---|
-> | **国家研发预算体量差距** | 美俄研发总预算对比 | 美国科学研发总预算约为俄[[Nikolas Rose\|罗斯]]的 13 倍，凸显单边大科学建设的财政鸿沟 | [[Argument_Dezhina_2022_ECO\|Dezhina & Egerev (2022)]] |
+> | **国家研发预算体量差距** | 美俄研发总预算对比 | 美国科学研发总预算约为俄[[Nikolas Rose\|罗斯]]的 13 倍，凸显单边大科学建设的财政鸿沟 | [[Argument_Dezhina_2022_ECO\|Dezhina and Egerev (2022)]] |
 > | **联邦用户设施共享规模** | 能源部及 [[National Nanotechnology Coordinated Infrastructure\|NNCI]] 设施工具数 | 能源部拥有 28 个世界级用户设施，NNCI 16 个站点提供 2000 余台共享尖端微纳工具 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]]; [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] |
 > | **开放平台辐射广度** | 康奈尔 [[National Research and Resource Facility for Submicron Structures\|NRRFSS]] 外部用户占比 | 外部用户达 60%（工业界占 12%），为全美 40 余家机构提供微细加工建设咨询 | [[Argument_Mody_2017_MOH\|Mody (2017)]] |
 > | **先进制造[[Pilot Scale Platform\|中试平台]]投资** | [[National Advanced Packaging Manufacturing Program\|NAPMP]] 与 [[National Science and Technology Council\|NSTC]] 中试线规划 | 联邦设立 30 亿美元先进封装计划与 300mm 晶圆研发产线，打通大科学到量产链条 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 21–25)]] |
@@ -216,6 +216,6 @@ updated: 2026-10-14
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 白宫国家科技委员会[[National Strategy on Microelectronics Research|国家微电子研究战略]]，系统规划联邦用户设施网络（2.1），统筹 [[National Science Foundation|NSF]] [[National Nanotechnology Coordinated Infrastructure|NNCI]]、[[Department of Energy|DOE]] 国家实验室[[Big Science|大科学]]装置与 [[National Science and Technology Council|NSTC]] 300mm 产线，向全美科研界开放尖端极端表征与微纳加工基座。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，提出重构能源部 28 个用户设施与 NNCI 准入标准，向产业初创开放[[Big Science|大科学]]装置机时、微纳洁净室及共建 GMP 级[[Pilot Scale Platform|中试平台]]。
-> - [[Argument_Dezhina_2022_ECO|Dezhina & Egerev (2022)]] — 剖析俄罗斯在追求大科学装置[[Going Native|本土化]]独立建设过程中面临的财政预算约束、多边合作偏离与学术孤立风险。
+> - [[Argument_Dezhina_2022_ECO|Dezhina and Egerev (2022)]] — 剖析俄罗斯在追求大科学装置[[Going Native|本土化]]独立建设过程中面临的财政预算约束、多边合作偏离与学术孤立风险。
 > - [[Argument_Mody_2017_MOH|Mody (2017)]] — 从管理史视阈剖析康奈尔 [[National Research and Resource Facility for Submicron Structures|NRRFSS]] 等大学级大科学微纳开放设施通过机台共享与工程咨询驱动的跨界[[Technology Transfer|技术转移]]。
 

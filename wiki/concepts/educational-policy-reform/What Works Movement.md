@@ -88,7 +88,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # What Works Movement
@@ -177,7 +177,7 @@ updated: 2026-10-15
 > [!concept-lens] 制度治理与中介功能
 > 中介机构并非单纯的信息邮局，其存在价值在于通过切断利益关联确立证据公信力，并通过通俗转化填补[[Research-Practice Gap\|研究与实践的鸿沟]]。
 
-> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]]
+> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]
 > **中介机构的制度独立性与二阶合成** 传统高校发表体制容易造成[[Publication Bias\|发表偏倚]]与研发者自利，[[Educational Brokerage Agency\|知识中介机构]]通过推行独立的评估者专家库竞标、三方资助协议与 NPD 国家客观统考测量，有效根除了自评夸大。同时，中介机构将复杂的[[Meta-analysis\|元分析]]统计模型提炼为通俗的“额外学习月数”决策指标，实现了科学严谨性与基层实用性的制度平衡（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 47–51]]）。
 
 ---
@@ -187,7 +187,7 @@ updated: 2026-10-15
 > [!concept-lens] 证据价值的重估与常态基线
 > 传统循证研究热衷于追逐“灵丹妙药”式的高正向效应，而大规模实践检验表明，揭示流行干预的无效性是循证科学最大的公共收益。
 
-> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]]
+> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]
 > **去魅价值与[[Business as Usual\|常态教学]]高基线** 英国十年 200 余项大规模试验表明，大部分昂贵商业项目的净效应极其微弱（中位[[Effect Size\|效应量]]仅 $d=0.06$），这反映出常态教学（Business as Usual）本身具备极高基线水平。循证运动证明了众多流行方案（如[[Growth Mindset\|成长型思维]]大班干预、某些单向资料推送）对统考净成绩并无促进，从而使学校免于耗费数以亿计的公共资金与教师精力在无效干预上（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 55–56]]）。
 
 ---
@@ -197,7 +197,7 @@ updated: 2026-10-15
 > [!concept-lens] 批判视角与专业生态
 > 批评者指出，将循证运动推向极致可能导致医学隐喻的过度简化，并为大型私人慈善资本与咨询公司提供控制学校的合法性遮羞布。
 
-> [!claim] [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]]
+> [!claim] [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]]
 > **权力重构与专业自主权削弱** 循证中介机构（如澳大利亚 [[Australian Education Research Organisation\|AERO]]、美国商业清算所）往往与特定慈善资本或智库深度绑定，以客观科学为幌子推行高度[[Disciplina and Doctrina\|规训]]的教学法配方（如窄化的显性教学）。这种自上而下的证据治理忽视了学校的复杂社会阶级情境，将教学窄化为可标准化的流水线行为，系统剥夺了一线教师依据具体学生动态行使[[Professional Judgment\|专业判断]]的合法性（[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 1–6]]）。
 
 ---

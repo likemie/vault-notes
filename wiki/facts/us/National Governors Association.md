@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # National Governors Association
@@ -134,4 +134,4 @@ updated: 2026-10-15
 > | [[Common Core State Standards]] | 政策事实 | NGA 发起、研制并推广的核心旗舰课程标准项目。 |
 > | [[Achieve]] | 智库机构 | 为 NGA 提供标准研制、国际对标与技术比对支持的核心智库。 |
 > | [[National Assessment of Educational Progress]] | 评估事实 | NGA 用于论证各州自设标准存在严重水分的核心国家基准指标。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证文献 | 系统剖析 NGA 在政策生命周期中动员研究证据打破[[Punctuated Equilibrium Theory\|政策垄断]]的[[Process Tracing\|过程追踪研究]]。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 系统剖析 NGA 在政策生命周期中动员研究证据打破[[Punctuated Equilibrium Theory\|政策垄断]]的[[Process Tracing\|过程追踪研究]]。 |

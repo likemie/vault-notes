@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Deborah Stone
@@ -148,6 +148,6 @@ updated: 2026-10-15
 > | [[Technical Rationality]] | 概念批判 | 深刻批判政策制定中的技术理性工程迷思，确立政治城邦解释模型。 |
 > | [[Policy Entrepreneur]] | 概念应用 | 揭示政策企业家在议程设置阶段运用因果故事与象征修辞的战略机制。 |
 > | [[Multiple Streams Framework]] | 理论对话 | 与多源流分析深度互补，为“[[Problem Finding\|问题界定]]”提供[[Constructivist Paradigm\|建构主义]]的微观机制支撑。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证文献 | 运用斯通因果故事叙事理论剖析全美课程改革倡导者动员危机指标的经典研究。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 运用斯通因果故事叙事理论剖析全美课程改革倡导者动员危机指标的经典研究。 |
 
 ---

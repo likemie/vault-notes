@@ -87,7 +87,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Isaac Kandel
@@ -252,7 +252,7 @@ updated: 2026-10-15
 > > [!axis] 历史-哲学人文传统 vs 战后科学[[Positivism\|实证主义]]
 > > 战后比较教育学科转型的核心争鸣。诺亚与埃克斯坦等学者批评坎德尔的方法过于倚重研究者的个人哲学洞见、古典学学养与直觉，缺乏明确的[[Operationalization\|操作化]][[Variable\|变量]]和可复制的实证程序；其关于因素的断言在实证派眼中充其量只是未经检验的待测假说（Noah & Eckstein, 1969; Holmes, 1965）。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 53)]]
 > >
-> > - **Harold Noah & Max Eckstein（1969）** 批评历史-哲学路径缺乏客观假说检验规程，处于学科演进的“前科学力量与因素阶段”。
+> > - **Harold Noah and Max Eckstein（1969）** 批评历史-哲学路径缺乏客观假说检验规程，处于学科演进的“前科学力量与因素阶段”。
 > > - **[[Brian Holmes\|布赖恩·霍姆斯]]（Brian Holmes，1965）** 批评历史学派面向过去而非面向未来，认为科学比较教育的标志是预测而非回顾性解释。
 > > - **[[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] 的[[Epistemology|认识论]]辩护** 卡扎米亚斯援引[[Crane Brinton|克莱恩·布林顿]]（Crane Brinton）比较史学理论指出，坎德尔等学者的历史比较绝非不可检验的主观玄思，而是能够从具体历史形态中提炼出具有有限归纳效力的探索性[[Working Hypothesis|工作假说]]（Working [[Hypothesis|hypotheses]]）；战后实证学派对历史维度的武断放逐，不仅未带来真正的科学普适规律，反而导致学科陷入严重的“[[Historical Amnesia|历史健忘症]]”。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 151–152, 155–156)]]
 >

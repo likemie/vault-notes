@@ -85,7 +85,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **产出导向治理（Output-Oriented Governance / Outcome-Centric Governance）**，在欧陆教育政策语境中亦称**循证治理（Evidenzbasierte Steuerung）**或**新治理模式（Neue Steuerung）**，在国家政治经济学中被称为**实效优先治理**，是指一种放弃传统的自上而下事前行政[[Red Tape|繁文缛节]]规制（Input-Steuerung），转而以**最终可衡量的实质产出与治理成果**作为系统调控、资源配置与绩效裁判最高准绳的现代化治理[[Paradigm|范式]]。
+> **产出导向治理（Output-Oriented Governance / Outcome-Centric Governance）**，在欧陆教育政策语境中亦称**循证治理（Evidenzbasierte Steuerung）** 或**新治理模式（Neue Steuerung）**，在国家政治经济学中被称为**实效优先治理**，是指一种放弃传统的自上而下事前行政[[Red Tape|繁文缛节]]规制（Input-Steuerung），转而以**最终可衡量的实质产出与治理成果**作为系统调控、资源配置与绩效裁判最高准绳的现代化治理[[Paradigm|范式]]。
 > 1. **在教育系统层面** 其核心体现为“目标的国家统一设定与实现路径的校本高度自主原则”（Autonomie der Wege, nicht der Ziele），依托标准设定、成效监测与数据反馈驱动专业自主改进。[[Argument_Altrichter_2019_ZfB|(Altrichter et al., 2019, pp. 18–20)]]
 > 2. **在国家战略与公共治理层面** 其核心体现为破除[[Procedural Piety|程序虔敬]]与消极合规主义，确立以解决物理世界真实难题（如建造战略重器、攻克疑难重症、消除贫困与遏制犯罪）为唯一裁判标准的[[Engineering Mindset|工程思维]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 178)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 187–189)]]
 

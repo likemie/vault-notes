@@ -56,7 +56,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: 2026-08-24
+updated: 2026-10-16
 year: 2015
 doi: ""
 citation_aliases:
@@ -71,7 +71,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[Cartwright's Three-Stage Knowledge Framework]] — Cartwright & Munro (2010) 提出的 [[Randomised Controlled Trials\|RCT]] 证据从"在某处有效"到"对我们有效"的三个知识阶段，构成本文分析的核心框架
+> - [[Cartwright's Three-Stage Knowledge Framework]] — Cartwright and Munro (2010) 提出的 [[Randomised Controlled Trials\|RCT]] 证据从"在某处有效"到"对我们有效"的三个知识阶段，构成本文分析的核心框架
 > - [[Tullock's Bureaucracy Theory]] — 未直接使用但作为 Cowen 后续研究(2019)的理论基础，本文的政经分析与之呼应
 
 ## 研究方法
@@ -89,7 +89,7 @@ citation_aliases:
 >
 > 2. **论证步骤**
 >    - [[Literature Review\|文献综述]]识别出 EBP 实施的三个关键前提：本地知识、专业自主性和判断力、以及适合从业者使用的证据呈现方式
->    - Cartwright & Munro (2010) 的框架表明，[[Randomised Controlled Trials\|RCT]] 仅提供"在某处有效"的证据，要做出"对我们有效"的预测需要理解因果机制
+>    - Cartwright and Munro (2010) 的框架表明，[[Randomised Controlled Trials\|RCT]] 仅提供"在某处有效"的证据，要做出"对我们有效"的预测需要理解因果机制
 >    - 教师访谈证实：成功实施需理解干预措施的底层原理（underlying rationale），而非机械遵循手册
 >    - 证据以不可预测的方式与现有知识和实践互动——既可用于克服制度惯性，也可用于[[Creativity\|创造性]]偏离
 >    - 问责机制（[[Ofsted]]）可能阻挠证据的审慎使用，尤其对新学校和弱势生源学校

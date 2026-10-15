@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Feedback Literacy
@@ -99,9 +99,9 @@ updated: 2026-10-15
 ## 核心要素
 
 > [!feature] 核心要素
-> - **理解与重视反馈（Appreciating [[Feedback]]）** 深刻领悟反馈的本质是持续展开的社会化对话与探究过程，超越分数与等级评定的狭隘视角；主动建立多渠道反馈收集意识，接纳同伴评议、教师面谈及数字工具评语的多重视角。Carless & Boud (2018, pp. 1318–1320)
+> - **理解与重视反馈（Appreciating [[Feedback]]）** 深刻领悟反馈的本质是持续展开的社会化对话与探究过程，超越分数与等级评定的狭隘视角；主动建立多渠道反馈收集意识，接纳同伴评议、教师面谈及数字工具评语的多重视角。Carless and Boud (2018, pp. 1318–1320)
 > - **做出评价判断（Making Judgments）** 依靠自身积累的学科专业规范与[[Evaluative Judgement\|评价性判断]]能力，审视外部反馈的合理性与证据支持度，准确诊断当前表现与卓越标准之间的真实差距。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, p. 5)]]
-> - **管理情绪与情感（Managing Affect）** 觉察批评性反馈引发的认知失调、防御心理或挫败焦虑，保持平稳理性的情绪平衡（Emotional Equilibrium），克服对负面评语的防御性抵触，同时戒除对权威算法或高威信评价者的盲从顺应。Carless & Boud (2018, pp. 1320–1321)
+> - **管理情绪与情感（Managing Affect）** 觉察批评性反馈引发的认知失调、防御心理或挫败焦虑，保持平稳理性的情绪平衡（Emotional Equilibrium），克服对负面评语的防御性抵触，同时戒除对权威算法或高威信评价者的盲从顺应。Carless and Boud (2018, pp. 1320–1321)
 > - **采取实质行动（Taking Action）** 将反馈信息转化为具有针对性的改进策略与思维迭代，在最终成果中清晰陈述修正依据，并在后续类似学习任务中实现跨情境的能力迁移。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, p. 9)]]
 
 > [!logic-map]- 要素关系
@@ -125,8 +125,8 @@ updated: 2026-10-15
 > [!concept-lens] 认知转化与主体能动性
 > 探讨外部[[Feedback\|教学反馈]]如何跨越单纯的信息供给，通过学习者的主观能动转译与[[Metacognition\|元认知]]整合，转化为长效的心智结构重组。
 
-> [!claim] Carless & Boud (2018)
-> **反馈效能取决于学习者能动转化而非单向信息传递** 论证反馈并非教师端给出评语即可宣告完成的单向事务，其实质效能完全取决于接收者是否具备阐释信息、调控防御情绪并将建议注入后续行动的素养[[Paradigm\|范式]]；若缺乏学习者的主动参与，外部评语仅是滞留于纸面的静态符号。Carless & Boud (2018, pp. 1315–1317)
+> [!claim] Carless and Boud (2018)
+> **反馈效能取决于学习者能动转化而非单向信息传递** 论证反馈并非教师端给出评语即可宣告完成的单向事务，其实质效能完全取决于接收者是否具备阐释信息、调控防御情绪并将建议注入后续行动的素养[[Paradigm\|范式]]；若缺乏学习者的主动参与，外部评语仅是滞留于纸面的静态符号。Carless and Boud (2018, pp. 1315–1317)
 
 > [!claim] Winstone et al. (2017)
 > **主动利用反馈的四维心理胜任力基础** 指出学生利用反馈（Feedback Uptake）的差异根源于其内在的主动性与素养水平，涉及自我评价、目的意识与应对批判的心理成熟度，呼吁将评估改革重点置于系统发展学习者的反馈接受与行动能力。
@@ -138,7 +138,7 @@ updated: 2026-10-15
 > [!concept-lens] 算法时代认知委托与判断防线
 > 探讨在大型语言模型（Large Language Model, LLM）具备高度语义流畅性的技术环境下，反馈素养如何充当防范认知懒惰与评价权丧失的防护屏障。
 
-> [!claim] [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]
+> [!claim] [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]
 > **自动化反馈必须成为审慎判断的推敲素材而非一键执行的替代方案** 论证大语言模型生成的自动化批注具有极高的语言迷惑性与伪确定性，极易诱发学生的[[Illusion of Competence\|虚假能力错觉]]并放弃批判性审查；高水平的反馈素养要求课程引入“AI 批注—同伴互评—教师指导—经典范例”的多源对照矩阵，迫使学生为每一处采纳或拒绝的修改编写学理辩护词，从而在人机协作中牢牢守住人类的[[Evaluative Judgement\|评价性判断]]与[[Epistemic Agency\|认识主体性]]。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 5, 8–9)]]
 
 ---
@@ -148,8 +148,8 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **认知转化与主体能动性** | 反馈有效性取决于学习者内部的情绪管理、评价判断与行动转化 | 常规高等教育与中等教育课程[[Homework\|作业]]反馈环境 | Carless & Boud (2018); Winstone et al. (2017) |
-> | **算法时代认知委托与判断防线** | 通过多源对比矩阵与反思辩护词防范大模型流畅输出替代人类深层判断 | 人工智能深度融入的写作、编程与科研方案设计情境 | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] |
+> | **认知转化与主体能动性** | 反馈有效性取决于学习者内部的情绪管理、评价判断与行动转化 | 常规高等教育与中等教育课程[[Homework\|作业]]反馈环境 | Carless and Boud (2018); Winstone et al. (2017) |
+> | **算法时代认知委托与判断防线** | 通过多源对比矩阵与反思辩护词防范大模型流畅输出替代人类深层判断 | 人工智能深度融入的写作、编程与科研方案设计情境 | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] |
 
 ---
 
@@ -159,7 +159,7 @@ updated: 2026-10-15
 > - **2010–2015 年 — 从单向传输到社会建构对话模式的转向** 早期[[Evaluation Research\|评估研究]]批判“将反馈视作教师单向投递的信息包”（[[Feedback]] as Telling/Transmission）的[[Paradigm\|范式]]缺陷，主张将反馈重塑为师生及生生间共享的对话互动。
 > - **2018 年 — 学生反馈素养框架的正式确立** 戴维·卡利斯（David Carless）与戴维·鲍德（David Boud）在《高等教育评估与评价》（*Assess. Eval. High. Educ.*）发表开创性论文，首次正式确立涵盖“理解反馈、作出判断、管理情绪、采取行动”四维度的学生反馈素养模型。
 > - **2020 年 — 教师反馈素养框架的拓展深化** 卡利斯与温斯通（Naomi E. Winstone）进一步提出教师反馈素养（Teacher Feedback Literacy），从“教学设计、[[Student-Teacher Relationship\|师生关系]]敏感度、情境实践折衷”三大维度呼应学生素养的培育机制。
-> - **2024–2026 年 — [[Man-Computer Symbiosis|人机共生]]环境下的认识防御与教学法重塑** 伴随[[Generative Artificial Intelligence\|生成式人工智能技术]]的普及，[[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 等学者将反馈素养提升至社会[[Epistemology\|认识论]]与学习科学交汇的高地，确立其为破除大模型自动化依赖、捍卫学习者[[Epistemic Agency\|认识主体性]]的核心策略支撑。
+> - **2024–2026 年 — [[Man-Computer Symbiosis|人机共生]]环境下的认识防御与教学法重塑** 伴随[[Generative Artificial Intelligence\|生成式人工智能技术]]的普及，[[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 等学者将反馈素养提升至社会[[Epistemology\|认识论]]与学习科学交汇的高地，确立其为破除大模型自动化依赖、捍卫学习者[[Epistemic Agency\|认识主体性]]的核心策略支撑。
 
 ---
 
@@ -184,7 +184,7 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 系统阐明如何将反馈素养与[[Evaluative Judgement\|评价性判断]]相融合，通过高年级科研方法课中的对抗性质询与多源对比矩阵规程，迫使学生为每次修改独立辩护，成功防御自动化反馈导致的[[Cognitive Offloading\|认知外包]]与能力退化。
+> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 系统阐明如何将反馈素养与[[Evaluative Judgement\|评价性判断]]相融合，通过高年级科研方法课中的对抗性质询与多源对比矩阵规程，迫使学生为每次修改独立辩护，成功防御自动化反馈导致的[[Cognitive Offloading\|认知外包]]与能力退化。
 
 ---
 
@@ -198,4 +198,4 @@ updated: 2026-10-15
 > | [[AI Literacy]] | 概念 | 反馈素养在[[Man-Computer Symbiosis\|人机协同]]情境中的延伸应用，防范算法单窗口界面诱发的伪确定性与盲从。 |
 > | [[Epistemic Agency]] | 概念 | 确立学习者在评价网络中的主体能动地位，支撑对非合理反馈进行质疑与理性扬弃。 |
 > | [[Epistemic Friction]] | 概念 | 教学规程中故意嵌入的多源对比与辩护要求，通过人为创造认识摩擦激活深层认知反思。 |
-> | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] | 论证 | 提供了[[Man-Computer Symbiosis\|人机共生]]学习中落实反馈素养培养的四步教学设计与反思决策日志规程。 |
+> | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] | 论证 | 提供了[[Man-Computer Symbiosis\|人机共生]]学习中落实反馈素养培养的四步教学设计与反思决策日志规程。 |

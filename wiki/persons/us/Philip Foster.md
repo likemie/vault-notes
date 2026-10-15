@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Philip Foster
@@ -168,7 +168,7 @@ updated: 2026-10-09
 > |:---|:---|:---|:---|
 > | **社会科学转向命题** | 历史个殊性排斥比较，比较学者应探求重复性通则模式 | 学科方法论范式转型、经验社会科学建构 | Foster (1960); [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] |
 > | **职业学校谬误命题** | 学生课程偏好取决于外部劳动力市场报酬结构而非学校课程形式 | 发展中国家技术与职业教育规划、劳动力预测 | Foster (1965) |
-> | **恒常结构规律命题** | 教育与社会矩阵之间存在超越时空的客观恒常不变关系 | 结构功能分析、跨系统[[Causal Modeling\|因果建模]]与变量控制 | Anderson & Foster (1961) |
+> | **恒常结构规律命题** | 教育与社会矩阵之间存在超越时空的客观恒常不变关系 | 结构功能分析、跨系统[[Causal Modeling\|因果建模]]与变量控制 | Anderson and Foster (1961) |
 > | **合法化借口批判命题** | 客观中立实证模型充当了冷战技术援助与国家五年计划的政治合法化工具 | 比较认识论反思、发展援助政策批评 | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] |
 
 ---

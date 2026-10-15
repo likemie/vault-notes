@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # International Baccalaureate
@@ -365,7 +365,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] | 该文回顾的 [[IB Diploma Programme\|IBDP]] 学生、毕业生和教师研究 | 观察性比较、追踪调查与教师调查 | EE 与大学 [[Academic Achievement\|GPA]]；探究和自我调节；TOK 跨学科联系；CAS 公民责任感 | Inkelas et al. (2012) 报告 EE 成绩与大学 GPA 正相关；Wray (2013) 与 Aulls (2013) 报告大学阶段的独立思考和自我调节表现；Bergeron (2016) 的教师报告强调 TOK 的跨学科联系；Billig & Good (2013) 把 CAS 与成熟和[[Open-Mindedness\|思想开放]]联系起来 | 原综述未在条目中保留具体统计 | 二手综述把多项研究并列为核心组件的可能效益；原始样本、统计和因果边界仍需回到各项原研究核验 |
+> | [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] | 该文回顾的 [[IB Diploma Programme\|IBDP]] 学生、毕业生和教师研究 | 观察性比较、追踪调查与教师调查 | EE 与大学 [[Academic Achievement\|GPA]]；探究和自我调节；TOK 跨学科联系；CAS 公民责任感 | Inkelas et al. (2012) 报告 EE 成绩与大学 GPA 正相关；Wray (2013) 与 Aulls (2013) 报告大学阶段的独立思考和自我调节表现；Bergeron (2016) 的教师报告强调 TOK 的跨学科联系；Billig and Good (2013) 把 CAS 与成熟和[[Open-Mindedness\|思想开放]]联系起来 | 原综述未在条目中保留具体统计 | 二手综述把多项研究并列为核心组件的可能效益；原始样本、统计和因果边界仍需回到各项原研究核验 |
 
 ---
 

@@ -47,7 +47,7 @@ sources:
 part_of:
 status: draft
 created: '2026-06-26'
-updated: 2026-09-29
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Dezhina_2022_ECO"
@@ -155,7 +155,7 @@ issuing_organization: ""
 > | **圣彼得堡精密机械与光学学院 (ITMO)** | 12% | 8.6% |
 > | **新西伯利亚国立大学** | 11% | 13% |
 > 
-> 数据来源 Dezhina & Egerev (2022, p. 41)
+> 数据来源 Dezhina and Egerev (2022, p. 41)
 
 > [!contrast-table]- 表2 2017年美国高校学术人员中外籍人口占比对比组
 > | 岗位 / 学科领域 | 外籍人员占比 (Born outside US) | 岗位 / 学科领域 | 外籍人员占比 (Born outside US) |

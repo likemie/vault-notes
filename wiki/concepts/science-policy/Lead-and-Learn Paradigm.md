@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-16
 ---
 
 # Lead-and-Learn Paradigm
@@ -69,7 +69,7 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> **引领与学习[[Paradigm|范式]]（Lead-and-Learn Paradigm / Lead-and-Learn Approach）**是指一种旨在应对 21 世纪重大社会挑战的新型公共创新治理范式。该范式由雷纳·[[Rainer Kattel|卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）系统确立，旨在彻底替代自 1980 年代以来受[[New Public Management|新公共管理]]（New Public Management, NPM）主导的“支持并测量”（Support-and-Measure）范式。引领与学习范式主张：国家与公共部门不应局限于事后寻找[[Market Failure|市场失灵]]并运用孤立工具进行单点被动补贴（Support），更不能依赖狭隘的短期[[Cost-Benefit Analysis|成本收益分析]]（Cost-Benefit Analysis, CBA）与量化控制指标进行机械考核（Measure）；相反，公共机构必须在宏观上展现战略前瞻性与政治决断力，主动开辟并塑造具有开放前景的新市场（Lead），同时在微观和中观上构建涵盖跨界实验、敏捷迭代、用户共创与制度化反思的组织学习机制（Learn）。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 797–798)]]
+> **引领与学习[[Paradigm|范式]]（Lead-and-Learn Paradigm / Lead-and-Learn Approach）** 是指一种旨在应对 21 世纪重大社会挑战的新型公共创新治理范式。该范式由雷纳·[[Rainer Kattel|卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）系统确立，旨在彻底替代自 1980 年代以来受[[New Public Management|新公共管理]]（New Public Management, NPM）主导的“支持并测量”（Support-and-Measure）范式。引领与学习范式主张：国家与公共部门不应局限于事后寻找[[Market Failure|市场失灵]]并运用孤立工具进行单点被动补贴（Support），更不能依赖狭隘的短期[[Cost-Benefit Analysis|成本收益分析]]（Cost-Benefit Analysis, CBA）与量化控制指标进行机械考核（Measure）；相反，公共机构必须在宏观上展现战略前瞻性与政治决断力，主动开辟并塑造具有开放前景的新市场（Lead），同时在微观和中观上构建涵盖跨界实验、敏捷迭代、用户共创与制度化反思的组织学习机制（Learn）。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 797–798)]]
 
 > [!concept-lens] 概念透镜
 > - **核心含义** 将国家定位为重大科技与社会转型的愿景引领者与演化学习者的统一体，实现探索与利用的双元平衡。
@@ -124,7 +124,7 @@ updated: 2026-10-03
 > [!concept-lens] 政策复杂性与组织协调维度
 > 探讨现代政府面对复杂交织议题时如何避免退守部门壁垒与行政碎片化。
 
-> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
+> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **化解[[Complexity Paradox|复杂性悖论]]** 现代公共政策面临深刻的[[Complexity Paradox|复杂性悖论]]（Sweeney, 1985）：议题越复杂，行政机构越倾向于通过条块分割和细化规则来规避风险，导致跨部门协调机制全面失效。引领与学习[[Paradigm|范式]]通过设立具备统摄力与高辨识度的重大战略使命（Lead），将分散的部门规程重新锚定于共同目标，并依托跨部门[[Internet-Based Experiments|网络实验]]（Learn）打破条块分割，从根本上化解协调失灵。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791, 800)]]
 
 ---
@@ -134,7 +134,7 @@ updated: 2026-10-03
 > [!concept-lens] 政策评估与组织学习维度
 > 探讨如何破除微观合规指标陷阱以建立适应高不确定性探索的评估体系。
 
-> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
+> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **反思学习替代机械计量** [[New Public Management|NPM]] 改革将政府预算与评估塞入统一的短期效率框架，形成了只看基层可见指标的青蛙视角，严重扼杀了高风险、长周期的重大探索；引领与学习范式要求将政策评估改造为嵌入式的系统反思平台，通过整合用户研究、实地实验与动态里程碑考核，使公共机构能够在不确定性中持续迭代战略认知。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 791–792, 797–798)]]
 
 ---
@@ -144,7 +144,7 @@ updated: 2026-10-03
 > [!concept-lens] 组织能力与制度保障维度
 > 探讨该范式落地所必须具备的公共行政支撑条件。
 
-> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
+> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **三层[[Public Dynamic Capabilities|公共动态能力]]支撑** 引领与学习不是抽象概念，必须由[[Public Dynamic Capabilities|公共动态能力]]作为组织载体支撑：在国家层面展现构建使命合法性的政治领导力；在政策层面统筹战略研发、需求侧采购与规制标准协同；在行政层面吸纳设计、技术专才组建敏捷流动团队。三层能力有机协同，才能确保引领具备战略威权、学习具备执行反馈通道。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–798)]]
 
 ---
@@ -154,7 +154,7 @@ updated: 2026-10-03
 > [!concept-lens] 使命政策代际演进匹配维度
 > 探讨不同历史形态的使命政策与管理范式的适配性。
 
-> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
+> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **第三代使命的专属治理范式** 在[[Three Generations of Mission-Oriented Policy|使命导向政策三代演进]]中，第一代追赶使命（骆驼形态）依赖科层规程，第二代冷战技术[[Big Science|大科学]]（狮子形态）依赖垂直权威实验室；而第三代使命（儿童形态）聚焦气候变化、老龄化与绿色转型等[[Wicked Problem|复杂社会难题]]，涉及多元利益群体与深层生活方式变革，唯有依托引领与学习范式，才能在去中心化网络中实现多方共创与敏捷适应。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796, 800)]]
 
 ---
@@ -193,6 +193,6 @@ updated: 2026-10-03
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 系统确立引领与学习创新政策新[[Paradigm|范式]]，论证其在应对第三代重大社会挑战中的必要性，并构建国家、政策与行政三层[[Public Dynamic Capabilities|公共动态能力]]分析矩阵。
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 系统确立引领与学习创新政策新[[Paradigm|范式]]，论证其在应对第三代重大社会挑战中的必要性，并构建国家、政策与行政三层[[Public Dynamic Capabilities|公共动态能力]]分析矩阵。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 阐明使命导向政策作为跨部门[[Market Shaping and Creating|市场塑造]]工具的四层分解金字塔，为战略引领（Lead）与[[Reflexivity|反思性]]组合管理提供了[[Operationalization|操作化]]框架。
 

@@ -130,7 +130,7 @@ updated: 2026-10-16
 ### 前瞻性纵向研究
 
 > [!feature] 三种前瞻性子类型
-> - **队列研究（Cohort Study）** 追踪具有某种共同特征的具体群体。Borg & Gall (1979, p. 291)区分了队列与面板：队列研究中特定总体被追踪但在样本内进行选择性抽样，某些成员可能并非每次都纳入。典型代表：英国全国儿童发展研究（National Child Development Study，NCDS，1958 年启动，追踪约 17,000 人）、英国队列研究（BCS70，1970 年）、千禧年队列研究（MCS，2000 年），均由伦敦大学学院教育研究所的纵向研究中心（CLS）管理。
+> - **队列研究（Cohort Study）** 追踪具有某种共同特征的具体群体。Borg and Gall (1979, p. 291)区分了队列与面板：队列研究中特定总体被追踪但在样本内进行选择性抽样，某些成员可能并非每次都纳入。典型代表：英国全国儿童发展研究（National Child Development Study，NCDS，1958 年启动，追踪约 17,000 人）、英国队列研究（BCS70，1970 年）、千禧年队列研究（MCS，2000 年），均由伦敦大学学院教育研究所的纵向研究中心（CLS）管理。
 > - **面板研究（Panel Study）** 追踪每个相同的个体。Lazarsfeld 在 1940 年代引入面板概念，旨在识别因果模式和追踪[[Causality\|因果关系]]中的困难（Ruspini, 2002, p. 13）。典型代表：英国家庭面板调查（British Household Panel Survey，BHPS，1991–2008，每年访谈约 10,000 人），2009 年并入 Understanding Society 研究。
 > - **趋势研究（Trend Study）** 关注因素而非人群，在数据收集的每个阶段抽取新样本但聚焦相同因素。每次抽取不同样本可以避免反应性（reactivity）问题——首次调查可能改变参与者的认知或行为（预试敏感化，pre-test sensitisation），趋势研究通过每轮更换样本切断这种"自我污染"的链条（p.269）。详见 [[Trend Study]] 条目。
 
@@ -138,7 +138,7 @@ updated: 2026-10-16
 
 回溯性纵向研究聚焦于已达到某种定义终点或状态的个体。例如，研究者可能关注一组已达到特定状态的年轻人（意愿成为社会工作者、被定罪的毒品罪犯或大学辍学生），追问"这些个体先前的经历中是否有什么可以解释他们目前的处境？"（p.268）。需要明确回溯的时间段（如一年、五年）。
 
-回溯分析不限于纵向研究：Rose & Sullivan (1993, p. 185)和 Ruane (2005, p. 87)建议横截面研究也可使用回溯性事实问题（先前职业、家庭成员出生日期、结婚/离婚日期），但 Rose & Sullivan 建议不要在横截面研究中收集其他类型的回溯性数据——回溯越远，数据质量越差（p.268）。
+回溯分析不限于纵向研究：Rose and Sullivan (1993, p. 185)和 Ruane (2005, p. 87)建议横截面研究也可使用回溯性事实问题（先前职业、家庭成员出生日期、结婚/离婚日期），但 Rose & Sullivan 建议不要在横截面研究中收集其他类型的回溯性数据——回溯越远，数据质量越差（p.268）。
 
 > [!challenges] 回溯性记忆的六项威胁
 > - **事件距今的时间**，越远越容易扭曲或无法回忆
@@ -214,7 +214,7 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13\|Cohen et al. (2011)]] — 系统讨论了纵向研究作为[[Survey Research\|调查研究]]设计的定义、类型（前瞻性/回溯性、队列/面板/趋势）、优势与局限，以及与其他研究设计的比较。
-> - [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] — 采用两波前瞻性面板追踪设计（高中毕业阶段 T1 与大学就读阶段 T2，间隔两年），通过在跨期回归模型中控制 T1 初始信念，成功分离并检验了[[Epistemological Beliefs\|认识论信念]]在专业发展中的“自我选择效应”与“[[Disciplinary Socialization\|学科社会化]]效应”。
+> - [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] — 采用两波前瞻性面板追踪设计（高中毕业阶段 T1 与大学就读阶段 T2，间隔两年），通过在跨期回归模型中控制 T1 初始信念，成功分离并检验了[[Epistemological Beliefs\|认识论信念]]在专业发展中的“自我选择效应”与“[[Disciplinary Socialization\|学科社会化]]效应”。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] — 使用[[UK Science Education Tracker\|英国科学教育追踪调查]]（SET）多轮纵向监测数据，分析 2016–2023 年间英格兰中学生课堂动手实验频率的持续衰减趋势。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society (2026, Ch. 6, pp. 93–98)]] — 在第六章中运用跨越二十年的三轮重复横截面趋势调查（Trend Study，分别于 2006、2015 和 2025 年抽样实施），系统追踪英国科研共同体在[[Public Engagement with Science\|公众科学参与]]行为、道德认知、时间压力与高校制度支持上的长期演变轨迹。
 

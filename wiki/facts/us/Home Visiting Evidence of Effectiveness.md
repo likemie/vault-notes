@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Home Visiting Evidence of Effectiveness
@@ -56,7 +56,7 @@ updated: 2026-10-15
 > [!info] 机构定位与运营概况
 > **家访成效证据（Home Visiting Evidence of Effectiveness, HomVEE）** 是由美国卫生与公众服务部儿童与家庭管理局（HHS/ACF）于 2009 年依据《患者保护与平价医疗法案》（ACA）所创设的母婴与幼儿家访项目（MIECHV）而设立的联邦官方[[Educational Evidence Clearinghouses\|证据清算中心]]([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 7]])。
 >
-> HomVEE 专注于孕妇家庭及 0–5 岁早期儿童发展领域，评估对象包括家访干预模型（Home Visiting Models）与单项实证研究。当前处于**活跃运营（Active）**状态，官方平台为 [homvee.acf.hhs.gov](https://homvee.acf.hhs.gov)，定期发布联邦法定资助家访模型的审核报告。
+> HomVEE 专注于孕妇家庭及 0–5 岁早期儿童发展领域，评估对象包括家访干预模型（Home Visiting Models）与单项实证研究。当前处于**活跃运营（Active）** 状态，官方平台为 [homvee.acf.hhs.gov](https://homvee.acf.hhs.gov)，定期发布联邦法定资助家访模型的审核报告。
 
 ---
 

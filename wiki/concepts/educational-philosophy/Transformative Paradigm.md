@@ -39,7 +39,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Transformative Paradigm
@@ -61,7 +61,7 @@ updated: 2026-10-15
 ## 理论基础
 
 > [!tip]-
-> 变革主义立场涵盖了[[Critical Theory\|批判理论]]家、参与式[[Action Research\|行动研究]]者、社区本位参与研究者、马克思主义者、女性主义者、种族和族裔少数群体、残障者、原住民和后殖民群体，以及 LGBTQ 社群成员等多种研究者群体。其思想来源包括 Marx、Adorno、Marcuse、Habermas、Freire（Neuman, 2009），以及 Fay (1987)、Heron & Reason (1997)、Kemmis & Wilkinson (1998) 和 Mertens (2009, 2010) 等。[[Theoretical Perspective\|理论视角]]可与哲学假设整合，如女性主义视角、种族化[[Discourse|话语]]、批判理论、[[Queer Theory\|酷儿理论]]和残障理论等。
+> 变革主义立场涵盖了[[Critical Theory\|批判理论]]家、参与式[[Action Research\|行动研究]]者、社区本位参与研究者、马克思主义者、女性主义者、种族和族裔少数群体、残障者、原住民和后殖民群体，以及 LGBTQ 社群成员等多种研究者群体。其思想来源包括 Marx、Adorno、Marcuse、Habermas、Freire（Neuman, 2009），以及 Fay (1987)、Heron and Reason (1997)、Kemmis and Wilkinson (1998) 和 Mertens (2009, 2010) 等。[[Theoretical Perspective\|理论视角]]可与哲学假设整合，如女性主义视角、种族化[[Discourse|话语]]、批判理论、[[Queer Theory\|酷儿理论]]和残障理论等。
 
 ## 概念辨析
 

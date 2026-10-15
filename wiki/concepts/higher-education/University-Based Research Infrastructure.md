@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 
 # University-Based Research Infrastructure
@@ -127,8 +127,8 @@ updated: 2026-10-14
 > [!prop-table] 围绕依托大学的科研基础设施形成的代表性命题
 > | 命题陈述 | 核心机制 | 提出学者 | 实证支持情境 |
 > |---|---|---|---|
-> | 大学科研基础设施是高层次[[Human Capital Theory\|人力资本]]与颠覆性技术衍生的制度底座 | 长期公共注资；科教深度融合；前沿工程人才高频流动 | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio & Mowery (2005)]] | 战后斯坦福、麻省理工计算实验室与硅谷企业共生发展 |
-> | 国家研发预算短期战术化将挤压大学物理工程基础设施并侵蚀创新潜力 | 任务视界收缩；学科经费分流生物反恐；基础研究份额遭削减 | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio & Mowery (2005)]] | 2001–2006财年联邦国土安全研发预算重组趋势 |
+> | 大学科研基础设施是高层次[[Human Capital Theory\|人力资本]]与颠覆性技术衍生的制度底座 | 长期公共注资；科教深度融合；前沿工程人才高频流动 | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio and Mowery (2005)]] | 战后斯坦福、麻省理工计算实验室与硅谷企业共生发展 |
+> | 国家研发预算短期战术化将挤压大学物理工程基础设施并侵蚀创新潜力 | 任务视界收缩；学科经费分流生物反恐；基础研究份额遭削减 | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio and Mowery (2005)]] | 2001–2006财年联邦国土安全研发预算重组趋势 |
 
 ---
 

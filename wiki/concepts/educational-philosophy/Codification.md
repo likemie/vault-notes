@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Codification（生存境遇编码）
@@ -45,7 +45,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **编码（Codification）**在保罗·[[Paulo Freire\|弗莱雷]][[Critical Pedagogy\|批判教育学]]中是指一种将日常生存现实符号化、对象化的中介教学手段。文化调查小组在提取出[[Generative Themes\|生成性主题]]后，会将受压迫者切身经历的社会矛盾（如水资源匮乏、低薪劳动、住房恶劣）绘制或拍摄为视觉幻灯片、照片、漫画或简短文本编码。[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 53 注脚61)]]
+> **编码（Codification）** 在保罗·[[Paulo Freire\|弗莱雷]][[Critical Pedagogy\|批判教育学]]中是指一种将日常生存现实符号化、对象化的中介教学手段。文化调查小组在提取出[[Generative Themes\|生成性主题]]后，会将受压迫者切身经历的社会矛盾（如水资源匮乏、低薪劳动、住房恶劣）绘制或拍摄为视觉幻灯片、照片、漫画或简短文本编码。[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 53 注脚61)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向将主观沉浸的生存苦难转化为外部可共同观察与批判探讨的具象中介符号。

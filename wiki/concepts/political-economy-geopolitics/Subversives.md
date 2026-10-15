@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Subversives
@@ -187,11 +187,11 @@ updated: 2026-10-15
 > |---|---|---|
 > | **[[Theory of Gradual Institutional Change\|渐进制度变迁理论]]** | [[James Mahoney\|Mahoney]] & [[Kathleen Thelen\|Thelen]] (2009) | 奠定颠覆者在强否决与低裁量情境下的分析地位，阐明其运用地下室白蚁机制驱动[[Institutional Layering\|制度层叠]]的逻辑。 |
 > | **[[Disjointed Pluralism\|脱节多元主义]]** | Eric Schickler (2001) | 提出国会委员会制度演化中多元联盟不断叠加修正案的机制，为颠覆者在制度边缘赞助新规则提供微观分析[[Paradigm\|范式]]。 |
-> | **[[Rational Action Theory\|理性行动理论]]** | Breen & Goldthorpe (1997); [[Rational Action Theory\|RAT]] | 解释在面对强惩罚否决风险时，行动者为何理性选择伪装合规并将博弈战线拉长至边缘层叠。 |
+> | **[[Rational Action Theory\|理性行动理论]]** | Breen and Goldthorpe (1997); [[Rational Action Theory\|RAT]] | 解释在面对强惩罚否决风险时，行动者为何理性选择伪装合规并将博弈战线拉长至边缘层叠。 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，界定颠覆者作为长期谋求消灭旧体制、短期伪装合规潜伏运作的变革行动者，阐明其驱动[[Institutional Layering|制度层叠]]的微观白蚁机制。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，界定颠覆者作为长期谋求消灭旧体制、短期伪装合规潜伏运作的变革行动者，阐明其驱动[[Institutional Layering|制度层叠]]的微观白蚁机制。

@@ -83,7 +83,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Pierre Bourdieu
@@ -175,7 +175,7 @@ updated: 2026-10-15
 > - **Doxa 与符号暴力**
 >   正统信念（Doxa）是被自然化为日常常识的主导信念。符号暴力是指支配关系通过获得被支配者的默认与误认被转化为合理秩序的心理机制。教育系统是实施符号暴力的关键制度，通过将优势阶层的文化特征包装为普适的学业天分，合法化了不平等。
 > - **认识论预备与[[Reflexivity\|反思性]]社会学**
->   布迪厄的方法论包含认识论预备以保证科学性。包括**[[Epistemological Break\|认识论断裂]]**以打破日常自发概念，以及**[[Epistemological Vigilance\|认识论警觉]]**以防日常分类渗透。最终通过将研究者自身的社会轨迹与智识凝视一并纳入分析的**反思性社会学**，超越旁观者局限。[[Argument_Eacott_2015_EPT\|Eacott (2015, pp. 317–324)]]
+>   布迪厄的方法论包含认识论预备以保证科学性。包括 **[[Epistemological Break\|认识论断裂]]** 以打破日常自发概念，以及 **[[Epistemological Vigilance\|认识论警觉]]** 以防日常分类渗透。最终通过将研究者自身的社会轨迹与智识凝视一并纳入分析的**反思性社会学**，超越旁观者局限。[[Argument_Eacott_2015_EPT\|Eacott (2015, pp. 317–324)]]
 > - **关系性社会空间与区隔**
 >   社会空间是一个以资本总量和资本结构为两轴建立的关系性空间（[[Relational Space]]）。品味、审美消费、语言习惯和闲暇风格从来不是纯粹的个人自由选择，而是个体所处社会与阶级位置的关系性区隔表达，是边界排斥的核心机制。
 
@@ -183,15 +183,15 @@ updated: 2026-10-15
 
 > [!dimension] 核心研究应用解析
 > - **国际社会理论传统的整合与推进**
->   布迪厄的关系性实践社会学，推进并重构了经典社会学的三个核心传统：韦伯的符号合法性（发展为**[[Champ\|场域]]**）、马克思的**资本**一般化（扩展到[[Non-monetary Competition\|非货币竞争]]活动），以及涂尔干的客观结构倾向（与结构主义融合为**习性**）。这确立了学术界的跨国传播价值。
+>   布迪厄的关系性实践社会学，推进并重构了经典社会学的三个核心传统：韦伯的符号合法性（发展为 **[[Champ\|场域]]**）、马克思的**资本**一般化（扩展到[[Non-monetary Competition\|非货币竞争]]活动），以及涂尔干的客观结构倾向（与结构主义融合为**习性**）。这确立了学术界的跨国传播价值。
 > - **[[School Leadership\|学校领导力]]与教育行政批判研究**
 >   教育行政领域借此解构管理主义[[Discourse|话语]]。[[Argument_Eacott_2011_JEAH\|Eacott (2011, p. 45)]] 将场域、习性和资本引入澳大利亚新南威尔士校长培训体制分析，指出绩效问责、最佳实践和效率语言组成的 Doxa 使得教育场域被政治和商业场域渗透，校长被去自主化为政策交付人。
 > - **中国精英大学的出路资本化与习性变现**
->   中国高等教育研究通过[[Going Native\|本土化]]改造，将工具应用到了精英大学情境。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] 指出，家庭不平等通过资本化过程转译为新生的初始习性差异。优势家庭学生展现出**[[Goal-Controlled Mode\|目标掌控模式]]**，主动变现[[Cultural Capital\|文化资本]]；弱势家庭学生则陷入**[[Intuition-Dependent Mode\|直觉依赖模式]]**，面临**[[Cultural Disembedding\|文化脱嵌]]**与**[[Cultural Disorientation\|文化迷失]]**。
+>   中国高等教育研究通过[[Going Native\|本土化]]改造，将工具应用到了精英大学情境。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] 指出，家庭不平等通过资本化过程转译为新生的初始习性差异。优势家庭学生展现出 **[[Goal-Controlled Mode\|目标掌控模式]]**，主动变现[[Cultural Capital\|文化资本]]；弱势家庭学生则陷入 **[[Intuition-Dependent Mode\|直觉依赖模式]]**，面临 **[[Cultural Disembedding\|文化脱嵌]]** 与 **[[Cultural Disorientation\|文化迷失]]**。
 > - **当代高等教育的新封建主义政治经济学**
->   在高等教育全球政治经济学分析中，[[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017, pp. 797–799)]] 借助布迪厄工具分析了学术劳动的重构，包括排名与引用的**[[Non-monetary Competition\|非货币竞争]]**，学术资本与行政权力的学者分数分化，以及为了在不稳定劳动力市场中获取资源而产生的个人化依附，形成了学术界内部的[[Neo-feudalism in Higher Education\|高等教育新封建主义]]。
+>   在高等教育全球政治经济学分析中，[[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017, pp. 797–799)]] 借助布迪厄工具分析了学术劳动的重构，包括排名与引用的 **[[Non-monetary Competition\|非货币竞争]]**，学术资本与行政权力的学者分数分化，以及为了在不稳定劳动力市场中获取资源而产生的个人化依附，形成了学术界内部的[[Neo-feudalism in Higher Education\|高等教育新封建主义]]。
 > - **中国县域城镇化进程中的资本分层筛选**
->   基础教育[[School Choice\|择校]]研究通过资本理论解释户籍限制放开后的阶层筛选。[[Argument_Teng_2025_CE\|Teng & Wang (2025, p. 310)]] 在县域研究中表明，择校迁移折叠为家庭资本比拼：经济资本是[[Peidu\|陪读]]门槛，社会资本是截留学位（动员熟人关系）的关键，而文化资本在熟人关系中被边缘化并发生妥协，制度隔离被隐性阶级筛选置换。
+>   基础教育[[School Choice\|择校]]研究通过资本理论解释户籍限制放开后的阶层筛选。[[Argument_Teng_2025_CE\|Teng and Wang (2025, p. 310)]] 在县域研究中表明，择校迁移折叠为家庭资本比拼：经济资本是[[Peidu\|陪读]]门槛，社会资本是截留学位（动员熟人关系）的关键，而文化资本在熟人关系中被边缘化并发生妥协，制度隔离被隐性阶级筛选置换。
 > - **全球化话语与跨国教育政策的批判性解构**
 >   当代比较教育与全球治理学者运用布迪厄晚期[[Critical Theory|批判理论]]解构超国家组织的政策修辞。[[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard, 2009, p. 441]]）引述布迪厄（Bourdieu, 2003）论断指出，[[OECD\|经合组织]]等国际组织将全球化本体化与物化（Reification）为不可抗拒的客观外部实体，实质上掩盖了其作为蓄意推进[[Liberalization\|经济自由化]]意识形态工程的政治属性；这种修辞实现了从[[Descriptive Analysis|描述性分析]]向规范性、[[Performativity|操演性]]概念的滑移，以“[[Knowledge-Based Economy|知识经济]]”等貌似中立的常识遮蔽了围绕教育目的的深层意义政治争论。
 
@@ -206,9 +206,9 @@ updated: 2026-10-15
 > - **跨国与跨领域传播** 在进入中国高等教育与基础教育研究中，其资本转换模型被相继改造，用以解析转型期大学生的求职分化以及农村随迁家庭的[[School Choice\|择校]]博弈。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] — 援引布迪厄（Bourdieu, 2003）政治介入理论，解构[[OECD|经合组织]]将全球化本体化以掩护经济自由化的政策修辞（p. 441）。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] — 援引布迪厄（Bourdieu, 2003）政治介入理论，解构[[OECD|经合组织]]将全球化本体化以掩护经济自由化的政策修辞（p. 441）。
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 将习性与[[Cultural Capital\|文化资本]]运用于中国精英大学毕业去向分析，开发了目标掌控与直觉依赖两种资本化习性模式，解释了阶层出身如何在校园内部完成隐性变现。
-> - [[Argument_Teng_2025_CE\|Teng & Wang (2025)]] — 证明了在中国县域择校迁移中，由于选拔机制简化，家庭资本展现出垂直阶梯分层筛选，户籍行政限制被置换为隐性阶级筛选，文化资本不得不退让并折算为社会资本关系。
+> - [[Argument_Teng_2025_CE\|Teng and Wang (2025)]] — 证明了在中国县域择校迁移中，由于选拔机制简化，家庭资本展现出垂直阶梯分层筛选，户籍行政限制被置换为隐性阶级筛选，文化资本不得不退让并折算为社会资本关系。
 > - [[Argument_Eacott_2011_JEAH\|Eacott (2011)]] — 将场域和 [[Doxa]] 运用于澳大利亚[[School Leadership\|学校领导力]]培养体系研究，剖析了管理主义绩效体制如何掏空学校管理者的自主实践空间。
 > - [[Argument_Eacott_2015_EPT\|Eacott (2015)]] — 聚焦[[Epistemological Break\|认识论断裂]]和警觉，反思了教育行政研究中对 Bourdieu 理论工具的生硬套用，强调研究者必须对自身的行业凝视保持警惕。
 > - [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017)]] — 运其符号商品与学术阶级分数分析当代高等教育，指出绩效问责的无休止竞争正在学术界内部催生出新封建主义依附秩序。

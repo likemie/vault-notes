@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-23
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Alien Intelligence
@@ -115,7 +115,7 @@ updated: 2026-10-15
 > 聚焦人机交互中的权力不对等问题，探讨如何通过重构技术隐喻，阻断算法代劳对学习者核心认知发育的侵害。
 
 > [!claim] Braun & Meacham
-> **去拟人化的机器心智定位** 面对以人类中心主义包装的智能技术，必须清醒认识到当代大模型绝非具有人类伦理心智的对话伙伴，而是一种全新的非人类中心、异己化的认知处理系统。唯有剥离技术的拟人化外衣，人类才能在技术共生中维系独立的理性审判权。Braun & Meacham (2024, pp. 97–102)
+> **去拟人化的机器心智定位** 面对以人类中心主义包装的智能技术，必须清醒认识到当代大模型绝非具有人类伦理心智的对话伙伴，而是一种全新的非人类中心、异己化的认知处理系统。唯有剥离技术的拟人化外衣，人类才能在技术共生中维系独立的理性审判权。Braun and Meacham (2024, pp. 97–102)
 
 > [!claim] Smith, S. J.
 > **异己智能作为成长性不正义的解毒剂** 商业宣传和教育乐观派常把大模型塑造成无所不知的私人家教，这种拟人化倾向导致学生在算法面前自惭形秽，进而将构思、提纲与修改全盘托付给算法，造成严重的认知致残。唯有引导学生将 AI 视作缺乏人类常识经验的异己机器心智，学生才能走出自我贬低的[[Reliability|信度]]赤字，勇敢承担起求知者的认识责任。[[Argument_Smith_2026_SPE|Smith (2026, pp. 9–11)]]
@@ -137,7 +137,7 @@ updated: 2026-10-15
 > [!contrast-table] 命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **技术本体论命题** | 破除技术拟人化权威，重构人机认知权力结构 | 教育技术哲学、人工智能伦理规范研究 | Braun & Meacham (2024); [[Argument_Smith_2026_SPE\|Smith (2026)]] |
+> | **技术本体论命题** | 破除技术拟人化权威，重构人机认知权力结构 | 教育技术哲学、人工智能伦理规范研究 | Braun and Meacham (2024); [[Argument_Smith_2026_SPE\|Smith (2026)]] |
 > | **教学防御论命题** | 以反向追问与事实核查重塑读写教学规程 | 课堂人机协同写作、学术读写辅导、事实核验教学 | Smith |
 
 ---
@@ -145,7 +145,7 @@ updated: 2026-10-15
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2024 — 后人类哲学提出** 马蒂亚斯·布劳恩与达里安·米彻姆（Matthias Braun & Darian Meacham）在《哲学与技术》（*Philosophy & Technology*）发表《为人性的/非人类中心的 AI 辩护》（*A plea for (in)human-centered AI*），系统提出将先进 AI 视为“异己智能（Alien Intelligence）”，呼吁走出拟人化迷思。Braun & Meacham (2024)
+> - **2024 — 后人类哲学提出** 马蒂亚斯·布劳恩与达里安·米彻姆（Matthias Braun & Darian Meacham）在《哲学与技术》（*Philosophy & Technology*）发表《为人性的/非人类中心的 AI 辩护》（*A plea for (in)human-centered AI*），系统提出将先进 AI 视为“异己智能（Alien Intelligence）”，呼吁走出拟人化迷思。Braun and Meacham (2024)
 > - **2026 — 引入教育哲学与读写教学** 斯宾塞·J·史密斯（Spencer J. Smith）在《教育哲学与教育研究》（*Studies in Philosophy and Education*）中将异己智能概念引入读写教育，构建起防范[[Formative Epistemic Injustice|成长性认识不正义]]、推行思维外显与自我评估的三重课堂防御体系。[[Argument_Smith_2026_SPE|Smith (2026)]]
 
 ---

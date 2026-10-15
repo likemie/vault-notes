@@ -182,7 +182,7 @@ issuing_organization: ""
 > | **[[Global Education Governing Complex\|全球教育治理复合体（Global Education Governing Complex）]]** | [[Christian Ydesen\|克里斯蒂安·伊德森]]（Christian Ydesen，2019）提出、结合[[Kerstin Martens\|克里斯汀·马滕斯]]与尼曼（Niemann & Martens, 2018）[[Soft Power by Hard Facts\|以硬事实施展软权力]]的论断，指涉由[[Global Partnership for Education\|全球教育伙伴关系]]（Global Partnership for Education，GPE）、[[OECD\|经合组织]]（OECD）、联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，UNESCO，简称联合国教科文组织）、联合国儿童基金会（United Nations Children's Fund，UNICEF）与世界银行五大组织，连同私人基金会与商业资本共同构成的跨国规制网络，揭示非教育专门机构跨界掌控教育治理的结构根源。（pp.539, 544） |
 > | **[[Methodological Transnationalism\|方法论跨国主义（Methodological Transnationalism）]]** | Diane Stone (2020) 范式，打破将国家视为孤立容器的[[Methodological Nationalism\|方法论民族主义]]与线性等级霸权模型，将全球与国家界定为相互依存的关系性空间。（p.540） |
 > | **[[Externalization\|系统论外化假说（Externalisation Thesis）]]** | [[Niklas Luhmann\|卢曼]]（Niklas Luhmann）与施里弗（Jürgen Schriewer）的社会学系统理论概念，解释本土教育系统如何在内部构建准外部参考点，以化解国内政治冲突并维系系统自身的运作合法性与自我再生产。（p.546） |
-> | **[[Knowledge-to-Action Models\|知识-行动转化三代模型（Knowledge-to-Action，KTA）]]** | Best & Holmes (2010) 模型，区分单向传播推送、关系共建与系统程序生态三代视角，为考察政策周期不同阶段的[[Research Utilization\|证据使用]]提供[[Analytic Framework\|分析框架]]。（p.547） |
+> | **[[Knowledge-to-Action Models\|知识-行动转化三代模型（Knowledge-to-Action，KTA）]]** | Best and Holmes (2010) 模型，区分单向传播推送、关系共建与系统程序生态三代视角，为考察政策周期不同阶段的[[Research Utilization\|证据使用]]提供[[Analytic Framework\|分析框架]]。（p.547） |
 
 > [!warrant]- 理论如何支撑论证
 > 上述理论工具共同搭建起多学科融合的阐释支架：政策中介理论与全球教育治理复合体[[Construct\|构念]]从政治学和国际关系维度，揭示了国际组织[[Soft Power by Hard Facts\|以硬事实施展软权力]]的供给侧逻辑；方法论跨国主义从[[Epistemology\|认识论]]层面确立了全球与国家相互交织的关系性分析基底；系统论外化假说与政策周期程序模型则从比较政策研究维度，精准解释了主权国家在需求侧如何策略性动员并过滤外部证据。（pp.539–541, 546–548）

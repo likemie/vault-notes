@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Cognitive Decoupling
@@ -47,7 +47,7 @@ updated: 2026-10-08
 ## 定义
 
 > [!def] 核心定义
-> **认知脱钩（Cognitive Decoupling，亦称事实与价值解耦）**指个体在处理复杂社会、政治或科学命题时，能够将经验层面的**描述性事实（Descriptive Claims，即“事实是什么”）**与其引发的**规范性道德判断（Normative Claims，即“是否正当/应不应该”）**以及**言说者的身份背景（Identity of the Speaker）**进行有效剥离、独立评估的批判性认知理性能力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 94–95)]]
+> **认知脱钩（Cognitive Decoupling，亦称事实与价值解耦）** 指个体在处理复杂社会、政治或科学命题时，能够将经验层面的**描述性事实（Descriptive Claims，即“事实是什么”）** 与其引发的**规范性道德判断（Normative Claims，即“是否正当/应不应该”）** 以及**言说者的身份背景（Identity of the Speaker）** 进行有效剥离、独立评估的批判性认知理性能力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 94–95)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种能够[[Epoché|悬置]]情感倾向、道德预设与身份偏见，专门就事实命题本身的经验证据与逻辑效度进行检验的高阶认知心智。

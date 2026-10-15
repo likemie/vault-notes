@@ -125,7 +125,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Creativity
@@ -135,7 +135,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> 创造力（Creativity）是指个体、群体或组织在特定社会文化与任务情境中，综合调动认知加工、情绪动机与环境资源，生成兼具**新颖性（Novelty / Originality）**与**适切性（Appropriateness / Usefulness）**的想法、[[Problem Solving|问题解决]]方案、行为或产品的心理潜能与综合表现。在教育心理学中，创造力兼具预测个体发展与作为教育干预效标的双重属性；在科学学与国家[[Innovation Ecosystem|创新生态]]中，颠覆性科学创造力高度依赖个体早年认知的探索灵活性，并受制于学术资助与评价制度的激励结构；在技术哲学与创新社会学中，真正的开创性创造力（如巴斯奎特重新划定高雅艺术边界）必须与商业资本异化下的浅层[[Technological Pastiche|技术拼贴]]及无生命衍生品严格区分。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–3)]]; [[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 1–3)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–16)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 106–107)]]
+> 创造力（Creativity）是指个体、群体或组织在特定社会文化与任务情境中，综合调动认知加工、情绪动机与环境资源，生成兼具**新颖性（Novelty / Originality）** 与**适切性（Appropriateness / Usefulness）** 的想法、[[Problem Solving|问题解决]]方案、行为或产品的心理潜能与综合表现。在教育心理学中，创造力兼具预测个体发展与作为教育干预效标的双重属性；在科学学与国家[[Innovation Ecosystem|创新生态]]中，颠覆性科学创造力高度依赖个体早年认知的探索灵活性，并受制于学术资助与评价制度的激励结构；在技术哲学与创新社会学中，真正的开创性创造力（如巴斯奎特重新划定高雅艺术边界）必须与商业资本异化下的浅层[[Technological Pastiche|技术拼贴]]及无生命衍生品严格区分。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–3)]]; [[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 1–3)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–16)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 106–107)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向生成原创且具有现实应用价值成果的复杂心理机制、行为表现及制度化探索能力。
@@ -268,7 +268,7 @@ updated: 2026-10-15
 > 探讨真正的开创性原真创造（Genuine Originality）与工业化/商业化衍生性重组（[[Technological Pastiche]]）之间的本质区隔，揭示消费主义与快节奏商业逻辑对深度创造力的稀释机制。
 
 > [!claim] Karp & Zamiska; Graeber
-> **原真创造力与技术拼贴的[[Ontology|本体论]]分野** 真正的创造力（如 Basquiat 的绘画艺术）表现为打破既有意义框架、直面未知并产出具有独立灵魂的开创性产物；然而在当代以生活方式为主导的科技狂潮中，资本与工程力量日益将创造力退化为“技术拼贴（[[Technological Pastiche]]）”——即对既有成熟组件、现有算法或生活便利设施进行表面化的排列组合与衍生包装（如自动猫砂盆、果汁机、宠物健康项圈）。Graeber (2012) 与 [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] 指出，这种将创造力等同于快速迭代与功能拼凑的倾向，制造了繁荣的创新幻觉，实则掩盖了底层重大构想的枯竭（[[Big Idea Famine]]）。培育真正的创造力，需要超越工具理性与快速套现的束缚，保护直觉、跨界综合以及对根本性重大问题的深度探索。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 106–107)]]
+> **原真创造力与技术拼贴的[[Ontology|本体论]]分野** 真正的创造力（如 Basquiat 的绘画艺术）表现为打破既有意义框架、直面未知并产出具有独立灵魂的开创性产物；然而在当代以生活方式为主导的科技狂潮中，资本与工程力量日益将创造力退化为“技术拼贴（[[Technological Pastiche]]）”——即对既有成熟组件、现有算法或生活便利设施进行表面化的排列组合与衍生包装（如自动猫砂盆、果汁机、宠物健康项圈）。Graeber (2012) 与 [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 指出，这种将创造力等同于快速迭代与功能拼凑的倾向，制造了繁荣的创新幻觉，实则掩盖了底层重大构想的枯竭（[[Big Idea Famine]]）。培育真正的创造力，需要超越工具理性与快速套现的束缚，保护直觉、跨界综合以及对根本性重大问题的深度探索。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 106–107)]]
 
 ---
 
@@ -314,10 +314,10 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **[[Predictive Validity\|预测效度]]不对称性** | 创造力预测外部结果的效应显著强于外部因素对创造力的预测 | 心理测量、选拔与发展评估 | [[Mark A. Runco\|Runco et al. (2026)]]; Paek & Runco (2018) |
+> | **[[Predictive Validity\|预测效度]]不对称性** | 创造力预测外部结果的效应显著强于外部因素对创造力的预测 | 心理测量、选拔与发展评估 | [[Mark A. Runco\|Runco et al. (2026)]]; Paek and Runco (2018) |
 > | **教育可塑性与干预效能** | 专门的教育教学干预与训练项目是促进创造力发展的最有效途径，合作学习对高阶认知赋能显著，高校干预呈现中短期倒 U 型周期与言语认知优势 | 课程设计、教学改革与思维训练 | Scott et al. (2004); [[Mark A. Runco\|Runco et al. (2026)]]; [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]; [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] |
 > | **人机构想激发** | AI 显著拓展发散构想空间，但对创造力整体促进有限并落后于其他高阶思维，须防范文风均质化、个体声音稀释与去技能化风险 | 人机协同创意设计、头脑风暴与学术写作 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; Urban et al. (2024); Monib et al. (2025); [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]]; [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] |
-> | **科学创造力与体制激励** | 颠覆性科学创造力集中于青年早年窗口，现行共识评审与增量指标诱发了严重的学术风险规避，需通过非共识资助破局 | 科学学、科研资助机制改革与[[Innovation Ecosystem\|创新生态]]建设 | Jones (2010); Chu & Evans (2021); [[Michael Kratsios\|Kratsios (2026)]] |
+> | **科学创造力与体制激励** | 颠覆性科学创造力集中于青年早年窗口，现行共识评审与增量指标诱发了严重的学术风险规避，需通过非共识资助破局 | 科学学、科研资助机制改革与[[Innovation Ecosystem\|创新生态]]建设 | Jones (2010); Chu and Evans (2021); [[Michael Kratsios\|Kratsios (2026)]] |
 > | **原真创造与技术拼贴** | 原真创造源于无中生有的原创洞见与重大突破，而技术拼贴仅是对既有组件的衍生性重组与表面包装，易滋生创新幻觉 | 创新形态学、技术哲学、文化批评与科技政策 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025, Ch. 9)]]; Graeber (2012) |
 > | **反从众与组织不服从** | 颠覆性创造力依赖于对群体从众压力的清醒抵抗、微观认知层面的社交失聪以及组织机制对建设性不服从的制度化包容 | [[Organizational Culture\|组织文化]]设计、工程心理学、前沿科技管理与创新团队治理 | [[Solomon Asch\|Asch (1951)]]; [[Stanley Milgram\|Milgram (1963)]]; Karp & Zamiska (2025, Ch. 12) |
 > | **模仿毒性与创造傲慢** | 突破性创造是对既有产物的反叛决裂与从无到有，过度模仿演化为创造毒素，需依托创造性摩擦冲破平庸合群牢笼 | 技术创新哲学、创业生态、[[Student-Teacher Relationship\|师生关系]]与组织创造力治理 | Karp & Zamiska (2025, Ch. 14); Emerson (1841); Kris (1952) |
@@ -334,8 +334,8 @@ updated: 2026-10-15
 > - **2010 年代 科学学与生命周期创造力计量** Jones (2010) 等量化确立了科学家产生颠覆性创见的早年年龄峰值规律，揭示认知探索灵活性随年龄与[[Paradigm|范式]]深化的消长特征。
 > - **2020 年代 [[Meta-meta-analysis|二阶元分析]]确立实证效应基准** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 综合 52 项一阶[[Meta-analysis|元分析]]确立创造力关联全景基准；[[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 证实[[Cooperative Learning|合作学习]]对创造性思维等[[Higher-Order Thinking Skills|高阶认知技能]]的优先促进效能。
 > - **2025 年 高校[[Creativity Training|创造力干预]][[Three-Level Meta-Analysis|多层元分析]]** [[Argument_Guo_2025_TSC|Guo et al. (2025)]] 综合 29 项实证研究确立大学生创造力干预基准（$g = 0.628$）；[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] 揭示生成式 AI 对创造性思维干预基准（$g = 0.444$）及其套路化同质局限。
-> - **2025 年 商业衍生化批判与[[Technological Pastiche|技术拼贴]]反思** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025, pp. 106–107)]] 结合 Graeber (2012) 提出科技与文化领域的[[Technological Pastiche|技术拼贴]]批判，以 Basquiat 的原真艺术创作对比当代消费级硬件的衍生重组，阐明开创性原真创造与表面排列组合的本质分野。
-> - **2025 年 反从众心理机制与工程组织哲学** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025, pp. 136–138)]] 结合 [[Asch Conformity Experiment|阿施从众实验]] 与 [[Milgram Obedience Experiment|米尔格拉姆服从实验]]，揭示顺从与合规文化对颠覆性创造力的致命压制，提出以 [[Social Deafness|社交失聪]] 抵御虚假共识、以 [[Constructive Disobedience|建设性不服从]] 激活组织原创活力的工程哲学。
+> - **2025 年 商业衍生化批判与[[Technological Pastiche|技术拼贴]]反思** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025, pp. 106–107)]] 结合 Graeber (2012) 提出科技与文化领域的[[Technological Pastiche|技术拼贴]]批判，以 Basquiat 的原真艺术创作对比当代消费级硬件的衍生重组，阐明开创性原真创造与表面排列组合的本质分野。
+> - **2025 年 反从众心理机制与工程组织哲学** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025, pp. 136–138)]] 结合 [[Asch Conformity Experiment|阿施从众实验]] 与 [[Milgram Obedience Experiment|米尔格拉姆服从实验]]，揭示顺从与合规文化对颠覆性创造力的致命压制，提出以 [[Social Deafness|社交失聪]] 抵御虚假共识、以 [[Constructive Disobedience|建设性不服从]] 激活组织原创活力的工程哲学。
 > - **2025 年 模仿毒性批判与抵抗性创造[[Epistemology|认识论]]** [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025, pp. 156–159)]] 论证未受反省的模仿本能演化为创新的毒药，以[[Jackson Pollock|波洛克]]与[[Thomas Hart Benton|本顿]]的抵抗性师生张力为例，提出从无到有的“创造傲慢”，批判现代企业将“讨人喜欢”作为牢笼的平庸合群文化。
 > - **2025 年 审美品味与奥德修斯自愿自我约束的创造力哲学** [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025, pp. 207–212)]] 阐明前沿软件构建高度依赖艺术直觉与审美品味，结合德雷珀名画《奥德修斯与塞壬女妖》与法伦布拉赫（2009）、普渡大学（2016）实证，提出自愿自我约束与长程资产托管是抵御短期主义并实现突破性创造力的根本路径。
 > - **2026 年 [[Man-Computer Symbiosis|人机协同]]、[[Cognitive Deskilling|去技能化]]防范与国家科研体制反思** [[Argument_Naeem_2026_Episteme|Naeem (2026)]] 确立防范 AI 引发[[Creative Deskilling|创造力去技能化]]的[[Virtue Epistemology|美德认识论]]支架；[[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] 将科学创造力从心理学扩展至国家创新政策，揭示学术风险规避与共识评审对颠覆性探索的系统性压制。
@@ -463,7 +463,7 @@ updated: 2026-10-15
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — 二阶[[Meta-analysis|元分析]]确立[[Cooperative Learning|合作学习]]对创造性思维等[[Higher-Order Thinking Skills|高阶认知技能]]的优先赋能效应（$ES = 0.76$）。
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 一阶元分析确立创造力与[[Critical Thinking|批判性思维]]的中等正相关（$r = 0.386$），揭示自陈测量组合放大了相关。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 剖析科学创造力早年峰值与学术风险规避的体制冲突，倡导便携式青年资助与非共识评审机制。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 批判[[Technological Pastiche|技术拼贴]]与模仿毒性，论证[[Social Deafness|社交失聪]]与创造性摩擦对颠覆性创造力的保护；并在 [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|第 18 章]] 论证软件构建的艺术审美品味属性，以奥德修斯绑缚船桅阐明自愿自我约束与长程资产托管对抵御短期主义并实现创造性生产的决定性作用。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 批判[[Technological Pastiche|技术拼贴]]与模仿毒性，论证[[Social Deafness|社交失聪]]与创造性摩擦对颠覆性创造力的保护；并在 [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|第 18 章]] 论证软件构建的艺术审美品味属性，以奥德修斯绑缚船桅阐明自愿自我约束与长程资产托管对抵御短期主义并实现创造性生产的决定性作用。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — [[Systematic Review|系统综述]][[OECD|经合组织]]国家高等教育创造力与[[Critical Thinking Assessment|批判性思维评价]]政策与实践，详析真实性量规的破局路径。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 系统综述揭示 ChatGPT 拓展构想空间与结构[[Scaffolding|脚手架]]的赋能效能，警示文风均质化与个人声音淹没风险。
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 元分析确立生成式 AI 对学生创造力的中等偏小促进效应（$g = 0.444$），揭示统计模型同质化瓶颈。

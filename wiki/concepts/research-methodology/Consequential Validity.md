@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-07-11
+updated: 2026-10-16
 ---
 
 # Consequential Validity
@@ -66,7 +66,7 @@ updated: 2026-07-11
 
 > [!feature] 核心要素
 > - **政治后果作为评判标准** 研究的质量不仅取决于方法和数据，还取决于研究带来的政治后果——它是否挑战了压迫、赋权了参与者、推动了变革。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|(Cohen et al., 2011, pp. 384–386)]]
-> - **变革、赋权与解放的潜力** Roman & Apple（1990, p. 59）主张，研究的变革性、赋权性和解放性潜力是评判该研究的**关键标准**。仅采用[[Ethnography\|民族志]]方法不足以挑战压迫或权力不对称——[[Qualitative Research\|质性研究]]必须伴随[[Ideology Critique\|意识形态批判]]。
+> - **变革、赋权与解放的潜力** Roman and Apple（1990, p. 59）主张，研究的变革性、赋权性和解放性潜力是评判该研究的**关键标准**。仅采用[[Ethnography\|民族志]]方法不足以挑战压迫或权力不对称——[[Qualitative Research\|质性研究]]必须伴随[[Ideology Critique\|意识形态批判]]。
 > - **知识与行动的统一** 研究不仅产生"知识什么"（knowledge what），也产生"知识为……"（knowledge for）（Ezzy, 2002, p. 47）。马克思的名言在此适用：哲学家只是以各种方式解释世界，然而关键在于改变世界。
 
 ---
@@ -85,7 +85,7 @@ updated: 2026-07-11
 
 > [!tension] 核心争议
 > - **评判的可操作性** 如何测量和判断"政治后果"？与传统效度不同，结果效度缺乏一套标准化的操作程序和量化指标。评判的尺度高度依赖研究者的政治判断。
-> - **政治化的风险** Gillies & Alldred（2002, p. 45）警告，将研究政治化可能适得其反——提升参与者对约束的意识却无法改变结构性条件，可能使他们比之前更脆弱，实际上削弱而非赋权。
+> - **政治化的风险** Gillies and Alldred（2002, p. 45）警告，将研究政治化可能适得其反——提升参与者对约束的意识却无法改变结构性条件，可能使他们比之前更脆弱，实际上削弱而非赋权。
 > - **与传统效度的关系** 结果效度是否应该取代传统效度，还是作为补充？在[[Mixed Methods Research\|混合方法研究]]中，不同类型的效度可能适用于研究的不同阶段。
 
 ---
@@ -93,5 +93,5 @@ updated: 2026-07-11
 ## 应用案例
 
 > [!case] 应用案例索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|Cohen et al. (2011, pp. 384–386)]] — 结果效度在[[Feminist Research\|女性主义研究]]方法论中被提出：Lather（1991）主张研究者应关注研究的政治后果，Roman & Apple（1990）主张变革潜力应成为评判研究的关键标准。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|Cohen et al. (2011, pp. 384–386)]] — 结果效度在[[Feminist Research\|女性主义研究]]方法论中被提出：Lather（1991）主张研究者应关注研究的政治后果，Roman and Apple（1990）主张变革潜力应成为评判研究的关键标准。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09\|Cohen et al. (2011, Ch. 9, p. 230)]] — 在[[Sensitive Research\|敏感研究]]的结论中，作者将"后果效度"作为研究者应遵循的核心原则：研究者必须考虑研究项目、实施、成果、报告和传播对参与者、利益相关者和研究共同体的可能或实际影响。

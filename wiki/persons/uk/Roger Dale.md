@@ -71,7 +71,7 @@ updated: 2026-10-16
 > [!citation-card]- [[Robert Arnove|阿诺夫]]论戴尔对全球化分析机制的突破
 > 新兴的全球治理结构在经济与教育层面涵盖了欧洲联盟、北美自由贸易协定等区域组织以及[[World Trade Organization|世界贸易组织]]。这些组织塑造教育系统的机制与过程，已由戴尔（Dale）与罗伯逊（Robertson）等人作出深刻剖析。戴尔（1999）明确提出了八种影响国家政策外部效应性质的非传统机制及其关联组织特征，有力推进了对全球化这一黑箱的经验拆解。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 >
-> *The emerging structures of global governance, economically, and educationally, now include major regional organizations... and the World Trade Organization. The mechanisms and processes by which these organizations shape education systems have been analyzed by Dale & Robertson among others. Dale (1999) specifies eight nontraditional mechanisms and related organizational features that influence the nature of external effects on national policy.*
+> *The emerging structures of global governance, economically, and educationally, now include major regional organizations... and the World Trade Organization. The mechanisms and processes by which these organizations shape education systems have been analyzed by Dale and Robertson among others. Dale (1999) specifies eight nontraditional mechanisms and related organizational features that influence the nature of external effects on national policy.*
 
 ---
 

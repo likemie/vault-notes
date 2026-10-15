@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Regression Discontinuity Design
@@ -79,9 +79,9 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> **断点回归设计（Regression Discontinuity Design, RDD）** 最早由 Donald L. Thistlethwaite 与 Donald T. Campbell 于 1960 年创立，是指依据某个连续**驱动[[Variable\|变量]]（Running Variable / Forcing Variable）**在预设**截断阈值（Cut-off Point）**处的分配规则，将受试对象严格或概率性划分为干预组与对照组，进而在阈值邻域内识别干预因果效应的准实验方法([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 320–324]]; [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 1327]])。
+> **断点回归设计（Regression Discontinuity Design, RDD）** 最早由 Donald L. Thistlethwaite 与 Donald T. Campbell 于 1960 年创立，是指依据某个连续**驱动[[Variable\|变量]]（Running Variable / Forcing Variable）** 在预设**截断阈值（Cut-off Point）** 处的分配规则，将受试对象严格或概率性划分为干预组与对照组，进而在阈值邻域内识别干预因果效应的准实验方法([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 320–324]]; [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 1327]])。
 >
-> 其核心[[Causality\|因果推断]]逻辑建立在**局域[[Random Assignment\|随机化]]假设（Local Randomization Assumption）**之上：在紧邻阈值的极小带宽（Bandwidth）范围内，个体的潜能、动机与家庭背景等不可测混杂特征均是平滑连续分布的；唯独干预分配状态在阈值处发生非连续阶跃。因此，阈值两侧[[Dependent Variable\|结果变量]]的垂直跳跃量可直接无偏地归因为干预的**局部平均处理效应（Local Average Treatment Effect, LATE）**。在美国教育部 [[What Works Clearinghouse\|WWC]] 因果设计审查体系中，符合质量标准的 RDD 被赋予与 [[Randomised Controlled Trials\|RCT]] 同等的一级最高资质（Meets Standards Without Reservations）([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8–11]])。
+> 其核心[[Causality\|因果推断]]逻辑建立在**局域[[Random Assignment\|随机化]]假设（Local Randomization Assumption）** 之上：在紧邻阈值的极小带宽（Bandwidth）范围内，个体的潜能、动机与家庭背景等不可测混杂特征均是平滑连续分布的；唯独干预分配状态在阈值处发生非连续阶跃。因此，阈值两侧[[Dependent Variable\|结果变量]]的垂直跳跃量可直接无偏地归因为干预的**局部平均处理效应（Local Average Treatment Effect, LATE）**。在美国教育部 [[What Works Clearinghouse\|WWC]] 因果设计审查体系中，符合质量标准的 RDD 被赋予与 [[Randomised Controlled Trials\|RCT]] 同等的一级最高资质（Meets Standards Without Reservations）([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8–11]])。
 
 > [!method-scope] 方法范围
 > - **研究对象** 依赖连续分数进行资源分配的教育与公共政策方案（如中[[Gaokao\|高考]]择优录取、奖学金评定、学业辅导划线、贫困家庭资助线、按出生日期划定的小学入学年龄截点）。
@@ -180,7 +180,7 @@ updated: 2026-10-15
 > [!method-limits] 效度威胁、偏误来源与误用风险
 > - **局部外推局限（Local [[External Validity]]）** 因果结论严格局限于临界分数附近的“摇摆群体（Marginal Students）”，无法直接外推至极高分资优生或极低分学困生。
 > - **操纵与自选择威胁（Manipulation Bias）** 若学生或家长通过提前获知阈值进行反复重考或人情微调分数，将导致断点两侧群体产生系统性能力失衡。
-> - **高阶多项式的虚假波动（Runaway Polynomials）** Gelman & Imbens (2019) 指出，全样本高阶多项式回归容易在数据边界产生剧烈的虚假跳跃，必须采用局部低阶线性回归规避。
+> - **高阶多项式的虚假波动（Runaway Polynomials）** Gelman and Imbens (2019) 指出，全样本高阶多项式回归容易在数据边界产生剧烈的虚假跳跃，必须采用局部低阶线性回归规避。
 > - **大样本依赖性** RDD 仅利用带宽内局部样本估计效应，有效[[Sample Size Determination\|样本量]]远小于全样本，通常需要比 [[Randomised Controlled Trials\|RCT]] 多数倍的总样本量方能获得同等统计功效（Statistical Power）。
 
 ---
@@ -205,5 +205,5 @@ updated: 2026-10-15
 > [!evidence-grid-a] 研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011)]] — 详述 Campbell & Stanley 创立的断点回归设计原理、符号模型、前[[Pre-test and Post-test\|后测]]跳跃与效度特征(Ch. 16, pp. 320–324)。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 比较 12 所清算中心对 RDD 因果设计的审查规程（RDD=3），揭示 [[What Works Clearinghouse\|WWC]] 与 [[Home Visiting Evidence of Effectiveness\|HomVEE]] 对强迫[[Variable\|变量]][[Manipulation Check\|操纵检验]]与带宽拟合的技术标准(pp. 8–11)。
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 阐释断点回归作为高级[[Quasi-Experimental Designs\|准实验设计]]在教育政策门槛评估中的实证应用规程(Ch. 8, p. 1327)。
-> - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart & Towne (2003)]] — 记录美国有效干预清算中心（WWC）在 2002–2003 年 [[Study Design and Implementation Assessment Device|Study DIAD]] 规程征求意见中，吸纳学者评议意见并将断点回归（RDD）正式设立专门评估章节的制度史料（pp. 35–36）。
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 阐释断点回归作为高级[[Quasi-Experimental Designs\|准实验设计]]在教育政策门槛评估中的实证应用规程(Ch. 8, p. 1327)。
+> - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] — 记录美国有效干预清算中心（WWC）在 2002–2003 年 [[Study Design and Implementation Assessment Device|Study DIAD]] 规程征求意见中，吸纳学者评议意见并将断点回归（RDD）正式设立专门评估章节的制度史料（pp. 35–36）。

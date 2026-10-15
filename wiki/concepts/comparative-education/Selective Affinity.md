@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-07-22'
-updated: 2026-09-29
+updated: 2026-10-16
 ---
 # Selective Affinity
 
@@ -86,7 +86,7 @@ updated: 2026-09-29
 > [!concept-lens] 跨文化结合与主体性重构
 > 围绕跨国[[Policy Borrowing\|政策借用]]过程中本土行动者如何处理外来理念与传统文化的冲突展开，强调选择性亲和在消解异己感、赋予本土合法性中的中介机制。
 
-> [!claim] [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]
+> [!claim] [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]]
 > **儒家对话传统与[[Lev Vygotsky\|维果茨基]]社会文化理论的选择性亲和** 在东亚高压[[Test-Based Accountability\|考试问责]]环境下，当跨国项目引入西方以学生为中心教育（[[Learner-Centred Education\|LCE]]）时，中国案例学校教师并非盲目照搬西方理想型的民主公民培养模型，而是将其与[[Confucius\|孔子]]“不愤不启，不悱不发”的启发式对话传统及[[Lev Vygotsky\|维果茨基]]社会文化理论产生选择性亲和（Selective Affinity）。这种亲和消解了教师对外来教学法的异己感，将其重构为激发学生高阶思考、提升课堂 45 分钟吸收效率与冲刺[[Gaokao\|高考]]高分段的本土工具，实现了外部理念向本土主体性实践的转化。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 596, 601–602)]]
 
 ---
@@ -96,7 +96,7 @@ updated: 2026-09-29
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **跨文化结合与主体性重构** | 解释外来理念如何与本土哲学传统产生互惠共振并重构为提分杠杆 | 跨国政策借用、传统文化丰厚的教育体制 | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] |
+> | **跨文化结合与主体性重构** | 解释外来理念如何与本土哲学传统产生互惠共振并重构为提分杠杆 | 跨国政策借用、传统文化丰厚的教育体制 | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] |
 
 ---
 
@@ -119,4 +119,4 @@ updated: 2026-09-29
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 揭示中国学校教师如何将西方 [[Learner-Centred Education\|LCE]]、[[Lev Vygotsky\|维果茨基]]社会文化理论与[[Confucius\|孔子]]启发式对话产生选择性亲和，实现高压应试下的扩展性改造。
+> - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 揭示中国学校教师如何将西方 [[Learner-Centred Education\|LCE]]、[[Lev Vygotsky\|维果茨基]]社会文化理论与[[Confucius\|孔子]]启发式对话产生选择性亲和，实现高压应试下的扩展性改造。

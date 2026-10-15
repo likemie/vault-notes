@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Narration Sickness（叙事病）
@@ -46,7 +46,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **叙事病（Narration Sickness）**由保罗·[[Paulo Freire\|弗莱雷]]在《被压迫者教育学》（*Pedagogy of the Oppressed*, 2000）中确立。它指教育过程中教师单向宣讲脱离学生生活现实与总体性矛盾的空洞词汇，导致知识被异化为静态存货、学习者被降格为被动存储容器的教学生态病理现象。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 45–46)]]
+> **叙事病（Narration Sickness）** 由保罗·[[Paulo Freire\|弗莱雷]]在《被压迫者教育学》（*Pedagogy of the Oppressed*, 2000）中确立。它指教育过程中教师单向宣讲脱离学生生活现实与总体性矛盾的空洞词汇，导致知识被异化为静态存货、学习者被降格为被动存储容器的教学生态病理现象。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 45–46)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向讲述者（教师）与倾听者（学生）之间单向宣讲与机械接收的教学生态病理关系。

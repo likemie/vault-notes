@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Technological Agnosticism
@@ -152,7 +152,7 @@ updated: 2026-10-09
 > [!concept-lens] 政治责任与治理合法性
 > 探讨技术精英如何利用不可知论[[Discourse|话语]]将私人商业利益与寡头控制包装为[[Value Neutrality|价值中立]]的客观技术进步，从而抵制公众的民主监督。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **技术不可知论与寡头权力脱节** 现代科技巨头在享受国家法治、资本市场与安全庇护的同时，以技术不可知论为掩护拒绝为公共安全效力；这种脱离国家使命的不可知论不仅削弱了西方民主政体的[[Hard Power|硬实力]]基础，更导致高度集中的科技寡头权力彻底脱离了公共问责。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 74–78)]]
 
 > [!claim] Eisenhower (1961)
@@ -165,7 +165,7 @@ updated: 2026-10-09
 > [!concept-lens] 教育史与科技精英的时代代际塑造
 > 揭示硅谷计算机革命一代在成长过程中所遭遇的大学通识危机，阐明国家大叙事的解构如何直接催生了工程师阶层向消费主义与技术不可知论的战略撤退。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **通识正典断裂与反文化异化双重发生学** 20 世纪 60 至 70 年代欧美顶尖高校（如 1968 年斯坦福大学课程改革）废除西方文明核心必修课，旧有正典大纲被拆解，留下了深刻的道德真空，导致成长于这一时期的计算机革命奠基者对国家历史大叙事深感幻灭。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 83–84, 95–96)]]
 > 
 > 同时，早期先驱（如[[Lee Felsenstein|李·费尔森斯坦]]、[[Stewart Brand|斯图尔特·布兰德]]）受反文化运动影响，将政府与企业官僚定性为“缺陷系统”（[[Hacker Ethic|黑客伦理]]），试图以个人电脑赋予个体抵抗国家的工具；但当国家共同体认同“我们”被彻底解构后，[[Steve Jobs|史蒂夫·乔布斯]]开创的亲密个人产品哲学迅速被资本主义消费市场收编，演化为完全放弃公共政治抱负、以唯利是图为导向的[[Consumer Internet|消费互联网]]，最终将技术不可知论固化为整个高科技产业的默认行为规范。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 97–102)]]
@@ -177,7 +177,7 @@ updated: 2026-10-09
 > [!concept-lens] 心智空洞化与主体性丧失
 > 阐明缺乏批判性世界观与道德信念的技术专家，在复杂地缘竞争中更容易丧失行动自主性与[[Cognitive Decoupling|认知脱钩]]求真能力。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **主体性丧失与工具化危机** 当教育体系只培养具备高超编程技能却对历史矛盾与政治现实一无所知的工程人员时，技术不可知论便会导致精英心智的严重萎缩，使其不可避免地沦为其他政治势力、商业垄断集团乃至敌对势力的操作工具。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 71–72)]]
 
 ---
@@ -241,6 +241,6 @@ updated: 2026-10-09
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 结合西方通识正典断裂与反文化运动，深度剖析技术不可知论的文化成因、组织表现与虚无主义危机。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 结合西方通识正典断裂与反文化运动，深度剖析技术不可知论的文化成因、组织表现与虚无主义危机。
 
 

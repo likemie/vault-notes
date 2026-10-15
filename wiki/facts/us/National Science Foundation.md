@@ -126,7 +126,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # National Science Foundation
@@ -296,8 +296,8 @@ updated: 2026-10-15
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统诊断 NSF 1950 年代学科壁垒与行政合规负担（42%–44%），提出设立[[Metascience|元科学]]单元、金券制、[[Directorate for Technology, Innovation and Partnerships|TIP]] [[NSF X-Labs|X-Labs]] 直接资助 [[Focused Research Organization|FRO]] 与可携带奖学金的改革方案。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，系统阐述 2025 年起美国科技政策转向[[Technology-Oriented Social Contract|技术型社会契约]]后，NSF 传统大学自由探索资助模式面临的边缘化与受限自治危机。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统剖析《[[CHIPS and Science Act|芯片法案]]》统筹下 NSF 与联邦资助体系如何支持大学在开源标准研发（RISC-V）、产教中试共置与三级人才培养中发挥枢纽作用。
-> - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied (2008)]] — 系统论述 NSF 的战后创设历史博弈、同行评议双重标准、1978 年[[University-Industry Collaboration|产学合作]]试点及超级[[Center of Calculation|计算中心]]建设历程。
-> - [[Argument_Bozeman_2004_JTT|Bozeman & Boardman (2004)]] — 结合口述史与实证追踪，深入剖析 NSF 设立[[Engineering Research Centers|工程研究中心]]（ERC）与工程学学部独立的政治博弈过程。
+> - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 系统论述 NSF 的战后创设历史博弈、同行评议双重标准、1978 年[[University-Industry Collaboration|产学合作]]试点及超级[[Center of Calculation|计算中心]]建设历程。
+> - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 结合口述史与实证追踪，深入剖析 NSF 设立[[Engineering Research Centers|工程研究中心]]（ERC）与工程学学部独立的政治博弈过程。
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 量化剖析 NSF 早期独立奖学金向课题助研津贴（GRAs）异化对研究生培养生态与青年学术职业造成的深层负面影响。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 实证阐明 [[DARPA]] 与 NSF 在半导体前沿技术突破中的机制分工与跨机构资助接力规律。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 阐述《芯片与科学法案》下商务部、国防部、能源部与 NSF 共同构建国家半导体全链条研发转化体系的制度构想。

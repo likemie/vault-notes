@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Persuasive Communication in Education
@@ -105,7 +105,7 @@ updated: 2026-10-15
 > [!concept-lens] 传播学视角下的教育时尚生成机理
 > 在注意力经济与高负荷教学环境中，易消化且充满希望的修辞比复杂的学术证据更容易赢得市场。
 
-> [!claim] Nora Carrier (2017) / [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]]
+> [!claim] Nora Carrier (2017) / [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]]
 > **修辞优势与劣质证据流行悖论** 实证研究与教育改革史表明，教育方案的扩散效率与其实证效度之间往往存在脱节。严谨的学术实证研究通常包含严格的样本限制、统计[[Confidence Interval\|置信区间]]与复杂的机制解释，语言审慎晦涩，难以快速打动一线实践者；相反，缺乏证据支撑的“教育时尚”（fads）推广者[[Refined Mastery\|精通]]受众心理学，通过精美的视觉设计、引人入胜的成功故事与确定性修辞包装，能够以极低认知门槛迅速捕获[[School Leadership\|学校领导]]与教师。这种“说服力压倒证据力”的机制是导致学校频繁陷入创新折腾的根源。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 130)]]
 
 ---
@@ -115,7 +115,7 @@ updated: 2026-10-15
 > [!concept-lens] 认知解毒剂：从被动信徒转向批判审验者
 > 抵御教育商业修辞无法靠行政禁令，而必须武装教师的专业批判认知武器。
 
-> [!claim] Nora Carrier (2017) / Campbell et al. (2017) / [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]]
+> [!claim] Nora Carrier (2017) / Campbell et al. (2017) / [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]]
 > **[[Analytical Stance\|分析立场]]作为专业防线** 面对层出不穷的说服性沟通策略，教育系统必须从单纯的“文献供给”转向“批判能力建设”。教师必须确立[[Analytical Stance\|批判性分析立场]]（Analytical Stance），掌握解构修辞包装的[[Research Literacy\|研究素养]]：学会追问“该方案的因果机制是什么”、“背后的样本规模与对照组设置如何”、“是否存在利益冲突”、“在本校情境下是否存在水土不服”。唯有当教师具备独立审验研究质量的能力时，说服性修辞的虚假泡沫才会被破除。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 130–131)]]
 
 ---
@@ -152,5 +152,5 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 特刊导言深入评述 Carrier 研究，论证发展教师[[Analytical Stance\|分析立场]]与批判性[[Research Literacy\|研究素养]]的紧迫性。
+> - [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] — 特刊导言深入评述 Carrier 研究，论证发展教师[[Analytical Stance\|分析立场]]与批判性[[Research Literacy\|研究素养]]的紧迫性。
 > - Nora Carrier (2017) — 《How educational ideas catch on: the persuasive communication strategies of innovation promoters》，奠基性实证研究。

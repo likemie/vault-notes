@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # American Federation of Teachers
@@ -155,4 +155,4 @@ updated: 2026-10-15
 > | [[Professional Judgment]] | Concept | AFT 教师评审团依托丰富的实践常识和专业审慎判断，弥补了高年级学术实证供给的不足。 |
 > | [[Learning Progression]] | Concept | AFT 骨干数学教师将条文剪切贴墙推敲的核心对象，检验学习梯度在普通公立课堂的连贯性。 |
 > | [[No Child Left Behind Act 2001]] | Fact (Policy) | AFT 长期批判的上一代联邦强问责法案。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | Argument | 详实记录 AFT 组织教师多轮闭门审读草案并以“纸条贴墙”推敲进阶可行性的核心实证文献。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | Argument | 详实记录 AFT 组织教师多轮闭门审读草案并以“纸条贴墙”推敲进阶可行性的核心实证文献。 |

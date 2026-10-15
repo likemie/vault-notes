@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # The Right and the Good
@@ -94,7 +94,7 @@ updated: 2026-10-08
 > [!concept-lens] 相对主义与价值判断困境
 > 揭示包容性口号在走向极端时如何摧毁社会的批判与评价能力。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **包容一切异化为一无所信** [[Postmodernism|后现代主义]]对所有规范性主张的解构，虽然消除了排他性偏见，但也剥夺了社会做出道德与审美判断的基准；对所有事物的无条件包容，最终不可避免地滑向对任何崇高原则的一无所信。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 73–74, 80–81)]]
 
 ---
@@ -104,8 +104,8 @@ updated: 2026-10-08
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **血肉缺失命题** | 仅有正义程序而无实质之善会导致文明衰亡 | 伦理学、公共生活重构 | Heller (1987); [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025)]] |
-> | **价值虚无命题** | 泛化的程序包容摧毁了区分高尚与平庸的评价基准 | 高等教育、文化批评、科技伦理 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025)]]; Fukuyama (2015) |
+> | **血肉缺失命题** | 仅有正义程序而无实质之善会导致文明衰亡 | 伦理学、公共生活重构 | Heller (1987); [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]] |
+> | **价值虚无命题** | 泛化的程序包容摧毁了区分高尚与平庸的评价基准 | 高等教育、文化批评、科技伦理 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]]; Fukuyama (2015) |
 
 ---
 

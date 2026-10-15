@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # CER Framework
@@ -141,4 +141,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] — 批判以 CER 框架和 [[Toulmin's Argumentation Model\|TAP]] 为代表的结构主义评价传统，揭示其对伪科学论证的盲区，提出基于 [[AIR Model of Epistemic Cognition\|AIR]] 模型统合[[Epistemic Ideals\|认识论理想]]与可靠认识过程的实质论证评价框架。
+> - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 批判以 CER 框架和 [[Toulmin's Argumentation Model\|TAP]] 为代表的结构主义评价传统，揭示其对伪科学论证的盲区，提出基于 [[AIR Model of Epistemic Cognition\|AIR]] 模型统合[[Epistemic Ideals\|认识论理想]]与可靠认识过程的实质论证评价框架。

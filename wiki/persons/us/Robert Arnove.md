@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-28
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Robert Arnove
@@ -163,7 +163,7 @@ updated: 2026-10-09
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 权威代表作，全面系统梳理[[World-Systems Theory|世界体系分析]]在比较教育学中的演进，对质新制度主义与政治现实主义，确立全球与本土辩证法及自下而上全球化分析框架。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 在第四阶段[[Discourse|话语]]（1970–1990）学科史梳理中，高度肯定阿诺夫将[[Immanuel Wallerstein|沃勒斯坦]][[World-Systems Theory|世界体系理论]]引入比较教育学的奠基性突破，揭示跨国教育依附与支配链条，并反思批判宏观范式对历史维度的挤压。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 全面继承阿诺夫与托雷斯的全球与本土辩证法，作为分析拉美[[Conditioned State Theory|受限国家]]在依附性资本主义下的阶级[[Dual School System|双轨学制]]与教育[[Legitimation Crisis|合法化危机]]的核心支柱。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 全面继承阿诺夫与托雷斯的全球与本土辩证法，作为分析拉美[[Conditioned State Theory|受限国家]]在依附性资本主义下的阶级[[Dual School System|双轨学制]]与教育[[Legitimation Crisis|合法化危机]]的核心支柱。
 
 ---
 
@@ -215,7 +215,7 @@ updated: 2026-10-09
 > [!critique]- 批评索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 阿诺夫自述警示：在运用“[[Dialectic of the Global and the Local|全球与本土的辩证法]]”时必须严防概念泛化，必须以扎实的多地点比较案例严格追踪中介机制，避免将一切现象笼统归结为无所不包的辩证互动而丧失因果解释力。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 评述第四阶段激进批判与世界体系宏观分析虽然打破了实证功能主义神话，但其对当代政治经济依附与阶级冲突的强烈倾注，客观上与学科历史维度的边缘化（历史论文占比在 1985–1995 年跌破 5% 的“历史健忘症”）在时间上高度重合。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 指出在[[Conditioned State Theory|受限国家]]与依附资本主义条件下，地方微观抵抗往往遭遇国家机器与跨国金融机构的双重围堵，自下而上全球化仍需突破制度化瓶颈。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 指出在[[Conditioned State Theory|受限国家]]与依附资本主义条件下，地方微观抵抗往往遭遇国家机器与跨国金融机构的双重围堵，自下而上全球化仍需突破制度化瓶颈。
 
 > [!warning] 未解问题与边界
 > [[Globalization from Below|自下而上的全球化]]依托现代信息网络推动跨国草根联合（工会、原住民、女性主义网络），在面对当前大国地缘博弈复归、极权监控资本主义以及民粹主义排外浪潮时，其如何从分散的社会运动转化为具有持久制度约束力的全球社会民主宪政框架，仍是当代比较教育学与批判社会科学尚未完全解答的核心难题。

@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-09-11
+updated: 2026-10-16
 ---
 
 # External Auditor
@@ -38,7 +38,7 @@ updated: 2026-09-11
 ## 定义
 
 > [!info]
-> 外部审计（External Auditor）是[[Qualitative Research\|质性研究]]中八种效度策略之一，也是实施难度最高的一种：聘请一位不熟悉研究者或项目的外部审计者，对项目全过程或研究结束后进行客观评估。这一角色类似于财务审计师，Lincoln & Guba（1985）提出了审计者可以询问的具体问题（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch9, p.213）。
+> 外部审计（External Auditor）是[[Qualitative Research\|质性研究]]中八种效度策略之一，也是实施难度最高的一种：聘请一位不熟悉研究者或项目的外部审计者，对项目全过程或研究结束后进行客观评估。这一角色类似于财务审计师，Lincoln and Guba（1985）提出了审计者可以询问的具体问题（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch9, p.213）。
 
 ## 概念辨析
 

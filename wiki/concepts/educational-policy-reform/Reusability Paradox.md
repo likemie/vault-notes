@@ -70,5 +70,5 @@ Pellegrini & Vivanet 将这一悖论移用到 [[Evidence-Based Education|证据�
 
 > [!example]
 > - [[EU Evidence-Informed Education Policy Initiatives]] — 欧洲证据政策需要同时面对多教育系统、多语言和多课程标准造成的复用难题。
-> - [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] — 集中拆解可重用性悖论如何限制欧洲[[Evidence-Based Reform\|证据本位改革]]。
+> - [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] — 集中拆解可重用性悖论如何限制欧洲[[Evidence-Based Reform\|证据本位改革]]。
 

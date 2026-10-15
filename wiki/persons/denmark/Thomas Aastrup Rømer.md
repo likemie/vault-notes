@@ -41,7 +41,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 ## 简介
 
@@ -79,7 +79,7 @@ updated: 2026-10-15
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Pure Evaluation]] — 与 Tanggaard & Brinkmann (2014) 共同提出的概念，描述声称在自调节系统中独立于时空运作的评价实践
+> - [[Pure Evaluation]] — 与 Tanggaard and Brinkmann (2014) 共同提出的概念，描述声称在自调节系统中独立于时空运作的评价实践
 > - Argument_Rømer_2018_EPT — 对 Hattie VL 理论基础的第一个系统性哲学批判
 > - [[Visible Learning]] — 为 VL 批评文献贡献了教育哲学维度（评价理论取代教育理论、[[Radical Constructivism\|激进建构主义]]根基、误读 Popper、反馈集权化）
 > - [[Surface and Deep Learning]] — Hattie 将表层/深层/建构性学习映射到 Popper 三个世界，[[Argument_Rømer_2018_EPT\|Rømer (2018)]] 论证此映射构成对 Popper 的系统误读

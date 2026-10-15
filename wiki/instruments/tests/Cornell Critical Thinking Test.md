@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Cornell Critical Thinking Test
@@ -104,5 +104,5 @@ updated: 2026-10-15
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | Level X | 英语（美国） | 小学高年级至初中生（4–14 岁） | 71 题 | 采用外星探险故事背景，侧重归纳、演绎、可[[Reliability\|信度]]与假设 | Ennis, Millman & Tomko (1985) |
-> | Level Z | 英语（全球） | 高中生、大学生及成人 | 52 题 | 采用更具挑战性的学术情境，增加语义澄清与实验预测维度 | Ennis, Millman & Tomko (2005) |
+> | Level X | 英语（美国） | 小学高年级至初中生（4–14 岁） | 71 题 | 采用外星探险故事背景，侧重归纳、演绎、可[[Reliability\|信度]]与假设 | Ennis, Millman and Tomko (1985) |
+> | Level Z | 英语（全球） | 高中生、大学生及成人 | 52 题 | 采用更具挑战性的学术情境，增加语义澄清与实验预测维度 | Ennis, Millman and Tomko (2005) |

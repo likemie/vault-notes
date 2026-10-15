@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Academic Engagement
@@ -77,7 +77,7 @@ updated: 2026-10-15
 ### 定义与核心逻辑
 
 > [!def] 学业投入定义
-> **学业投入（Student Academic Engagement）**是[[Student Engagement|学生投入]]理论的核心支柱之一，指学生在大学期间向学术性教育活动投入的物理时间与心理能量——包括课程出勤、完成[[Homework|作业]]、与教师探讨学术前沿及遵守学术规范（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。在[[Yajun Zheng|郑雅君]]的“大学过程”[[Analytic Framework|分析框架]]中，学业投入与[[Social Engagement|社会性投入]]并列构成大学投入过程的两大分析轴。
+> **学业投入（Student Academic Engagement）** 是[[Student Engagement|学生投入]]理论的核心支柱之一，指学生在大学期间向学术性教育活动投入的物理时间与心理能量——包括课程出勤、完成[[Homework|作业]]、与教师探讨学术前沿及遵守学术规范（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。在[[Yajun Zheng|郑雅君]]的“大学过程”[[Analytic Framework|分析框架]]中，学业投入与[[Social Engagement|社会性投入]]并列构成大学投入过程的两大分析轴。
 
 > [!concept-lens] 学业投入透镜
 > - **过程 vs 结果** 学业投入是“行为与能量过程”，[[Academic Achievement|学业表现]]（GPA）是“制度性产出”。高投入不必然产生高 GPA，低投入也可能因选课策略获得高分，两者脱节揭示了深层的家庭资本与策略性习性差异。
@@ -97,7 +97,7 @@ updated: 2026-10-15
 ### 定义与与商业化的区别
 
 > [!def] 产学学术参与定义
-> **产学学术参与（Academic Engagement with Industry）**指学术研究者（学者个人或课题组）以个人或团队身份与产业界开展的非排他性、广义知识协同活动，包括[[Sponsored Research Agreement|产业赞助研究]]、联合技术攻关、学术咨询（Consulting）、联合发表、[[Executive Education|高管培训]]、联合培养（实习/[[Apprenticeship|现代学徒制]]）及产研人才双向穿梭。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 217–218)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 42–43)]]
+> **产学学术参与（Academic Engagement with Industry）** 指学术研究者（学者个人或课题组）以个人或团队身份与产业界开展的非排他性、广义知识协同活动，包括[[Sponsored Research Agreement|产业赞助研究]]、联合技术攻关、学术咨询（Consulting）、联合发表、[[Executive Education|高管培训]]、联合培养（实习/[[Apprenticeship|现代学徒制]]）及产研人才双向穿梭。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 217–218)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 42–43)]]
 
 > [!contrast-table] 产学学术参与 vs 商业化（Perkmann et al., 2013）
 > | 比较维度 | 产学学术参与（Academic Engagement） | 传统商业化（Commercialization） |
@@ -133,7 +133,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 代表学者 / 机构 | 实证情境 |
 > |---|---|---|---|
 > | **习性阶层分化命题** | 家庭资本与阶层习性导致学生学业投入呈现目标掌控（功利高效）与直觉依赖（苦学失效）的分化 | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] | 中国名牌大学本科生生活组织模式实证调查 |
-> | **组织碎片分散命题** | 产学学术参与本质上是个人驱动的多触点网络，中心办公室只能扮演导航与[[Concierge Service\|礼宾服务]]角色 | Perkmann et al. (2013); Boccanfuso & Hall (2025) | 全美 65 所[[Research Universities\|研究型大学]][[University-Industry Collaboration\|产学参与]]办公室组织架构调研 |
+> | **组织碎片分散命题** | 产学学术参与本质上是个人驱动的多触点网络，中心办公室只能扮演导航与[[Concierge Service\|礼宾服务]]角色 | Perkmann et al. (2013); Boccanfuso and Hall (2025) | 全美 65 所[[Research Universities\|研究型大学]][[University-Industry Collaboration\|产学参与]]办公室组织架构调研 |
 > | **企业矩阵对齐命题** | 产学学术参与在企业侧依赖 [[Academic Engagement Team\|AET]] 团队协调业务部门短期利润与大学长期探索的冲突 | [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025)]] | 跨国科技巨头产学合作实践与资助结构解构 |
 > | **双向穿梭制度激励命题** | 消除学术界对产业流动的制度惩罚并资助产业博士，是激活全社会学术参与潜能的前提 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | 白宫 [[Office of Science and Technology Policy\|OSTP]] 2026 产研人才流动战略与 Activate 创业计划 |
 
@@ -145,7 +145,7 @@ updated: 2026-10-15
 > - **1980s–1990s — [[Student Engagement|学生投入]]理论与学业融入界定** Astin 提出[[Student Involvement|学生涉入]]理论，Tinto（1993）确立学业融入（Academic Integration），Kuh（1991）将学业投入[[Operationalization|操作化]]为具体学习行为指标。
 > - **2010s — 产学学术参与概念奠定** Perkmann et al.（2013）在《Research Policy》[[Systematic Review|系统综述]]中确立学术参与（Academic Engagement）与商业化（Commercialization）的二分法，奠定产学协同组织研究新[[Paradigm|范式]]。
 > - **2023 年 — 中国大学生学业投入阶层机制深化** [[Yajun Zheng|郑雅君]]出版《金榜题名之后》，实证揭示学业投入在[[Goal-Controlled Mode|目标掌控模式]]与[[Intuition-Dependent Mode|直觉依赖模式]]下的深层阶层分化机制。
-> - **2025 年 — 大学多触点组织模式与 [[Academic Engagement Team|AET]] 理论系统化** Boccanfuso & Hall（2025）与 [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] 分别从大学侧与企业侧解构学术参与的[[Concierge Service|礼宾]]模式与矩阵协调机制。
+> - **2025 年 — 大学多触点组织模式与 [[Academic Engagement Team|AET]] 理论系统化** Boccanfuso and Hall（2025）与 [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] 分别从大学侧与企业侧解构学术参与的[[Concierge Service|礼宾]]模式与矩阵协调机制。
 > - **2026 年 — 产业博士、[[Activate Fellowship|Activate]] 创业科学家与晋升机制重塑** 白宫 [[Office of Science and Technology Policy|OSTP]] 发布《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]），正式确立推动产业博士培养、推广 Activate 驻场科学家模式并打破终身教职晋升壁垒的国家科技人才战略。
 
 ---

@@ -100,7 +100,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Coding in Qualitative Research
@@ -285,7 +285,7 @@ updated: 2026-10-15
 > - **视觉与多模态数据编码** [[Visual Data\|视觉数据]]（照片、视频、电影、手绘图等）在质性研究中广泛应用。编码视觉数据面临多重挑战：图像更易反映宏观文化定型而非个体主观视角；面部与物理场景导致匿名性难以保证；必须严格落实[[Informed Consent\|知情同意]]与版权许可。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 9)]]
 
 > [!method-panel] 大语言模型（LLM）辅助质性编码与[[Meaningful Human Control|人在回路]]（HITL）
-> 随着[[Generative Artificial Intelligence\|生成式人工智能]]的发展，大语言模型正成为质性编码的新型辅助工具，但必须严格恪守**人在回路（Human-in-the-Loop，HITL）**原则：[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, 30.6)]]
+> 随着[[Generative Artificial Intelligence\|生成式人工智能]]的发展，大语言模型正成为质性编码的新型辅助工具，但必须严格恪守**人在回路（Human-in-the-Loop，HITL）** 原则：[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, 30.6)]]
 > - **演绎性规程赋码** 将[[Qualitative Codebook\|质性编码手册]]、范畴界定、[[Operationalization\|操作化]]规则与正反样例编制为系统化提示词。模型在明确的[[Analytic Framework\|分析框架]]约束下实施规则匹配，提取目标片段并输出赋码依据，适合大样本[[Content Analysis\|内容分析]]。
 > - **归纳性概念探索** 引导模型扫描原始转录文本，提出初步候选标签与新兴主题，为研究者打破思维定势、捕捉意外编码提供启发。
 > - **防范算法幻觉与回溯核验** 要求模型输出编码时强制附带原始引文出处，由人工逐一回溯核验；所有核心范畴确认、理论整合与因果推论必须由研究者主导，严禁全权委托算法黑箱。
@@ -337,7 +337,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011)]] — 系统阐释[[Grounded Theory\|扎根理论]]四类编码谱系、鲍格丹与比克连九类描述性编码家族、初筛粗编码与复合双重赋码决策，以及课堂态度矩阵化比较与去情境化风险防范。
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 提出 Tesch 八步编码规程与四类编码类型（预期/意外/概念兴趣/预设），并在校园枪击案反应研究中通过[[Emergence\|涌现]]式编码揭示“再触发”深层主题。
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 提出 Tesch 八步编码规程与四类编码类型（预期/意外/概念兴趣/预设），并在校园枪击案反应研究中通过[[Emergence\|涌现]]式编码揭示“再触发”深层主题。
 > - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] — 结合[[Classroom Observation|课堂观察]]与[[In-depth Interview\|深度访谈]]，示范如何在教育[[Qualitative Research\|质性研究]]中通过多级编码程序自下而上提炼本土概念与建构理论[[Analytic Framework\|分析框架]]。
-> - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 在 NVivo 11 中结合[[Open Coding\|开放编码]]与基于 3GAT 六构件的[[Template Analysis\|模板分析]]，对 25 份[[Semi-structured Interview\|半结构化访谈]]展开扎根编码与活动系统矛盾解析。
+> - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 在 NVivo 11 中结合[[Open Coding\|开放编码]]与基于 3GAT 六构件的[[Template Analysis\|模板分析]]，对 25 份[[Semi-structured Interview\|半结构化访谈]]展开扎根编码与活动系统矛盾解析。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 确立 15 分钟连续课堂质性实录与行为锚定等级编码规程，证实行为质量模式匹配比机械频次计数更能降低认知负荷并保障高推论编码[[Reliability|信度]]。

@@ -63,7 +63,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Deficit Framing
@@ -183,7 +183,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **问题预设与结论停滞** | 揭示赤字框架如何导致三十年来学术提问与调查结论的高度雷同 | 审视教育循证改革文献与政策[[Discourse\|话语]] | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]; Hodges (1996); Cain et al. (2019) |
-> | **推论简单化与自我循环** | 剖析政策建议退回技能补课的还原主义机制与理论盲点 | [[Evaluation Research\|评估研究]]使用干预方案与教师培训设计 | Schaik et al. (2018); Brown & Zhang (2018) |
+> | **推论简单化与自我循环** | 剖析政策建议退回技能补课的还原主义机制与理论盲点 | [[Evaluation Research\|评估研究]]使用干预方案与教师培训设计 | Schaik et al. (2018); Brown and Zhang (2018) |
 > | **课堂免责与差距固化** | 揭示教师对学生家庭的赤字归因如何成为推卸教学责任的防御心理盾牌 | 弱势群体教育、土著教育与差异化教学研究 | Bishop et al. (2003) |
 > | **数据意外与图式重构** | 论证平行班级高增值证据（$d > 0.80$）如何打破赤字神话并驱动教学反思 | 校本教研干预、读写加速项目与[[Professional Learning Community\|专业学习共同体]]建设 | Timperley (2004, 2005)；Schutzwohl (1998)；[[Argument_Hattie_2005_ACER\|Hattie (2005)]] |
 

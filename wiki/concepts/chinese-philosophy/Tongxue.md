@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Tongxue
@@ -59,7 +59,7 @@ updated: 2026-10-15
 
 同学的定义中则完全没有"地位"这一维度。区别在于：
 - 西方 peer：核心是群体中的**地位（status/standing in a group）**
-- 东亚 同学／學友／校友：核心是**一起学习（learning/studying together）**和**朋友关系（friendship）**
+- 东亚 同学／學友／校友：核心是**一起学习（learning/studying together）** 和**朋友关系（friendship）**
 
 这一区别不是琐碎的——当学者使用英文 peer 来描述中国的同学、日本的同僚或韩国的校友时，重要的文化意义被丢失了([[Argument_Li_2012_Cambridge|Li, 2012, p.119 note 58]])。
 

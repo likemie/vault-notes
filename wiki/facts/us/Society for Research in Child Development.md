@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Society for Research in Child Development
@@ -50,7 +50,7 @@ updated: 2026-10-15
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **儿童发展研究学会（Society for Research in Child Development, SRCD）**是全球规模最大、历史最悠久的跨学科儿童发展专业学术学会（501(c)(3)）。学会汇聚了来自全美及全球 50 多个国家的 5,500 余名发展心理学、儿科学、教育学、精神病学、神经科学及公共政策领域的顶级学者，致力于促进跨学科儿童科学研究，并通过前沿的敏捷科学传播机制将实证发现转化为国家儿童福祉与公共教育政策。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 47)]]
+> **儿童发展研究学会（Society for Research in Child Development, SRCD）** 是全球规模最大、历史最悠久的跨学科儿童发展专业学术学会（501(c)(3)）。学会汇聚了来自全美及全球 50 多个国家的 5,500 余名发展心理学、儿科学、教育学、精神病学、神经科学及公共政策领域的顶级学者，致力于促进跨学科儿童科学研究，并通过前沿的敏捷科学传播机制将实证发现转化为国家儿童福祉与公共教育政策。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 47)]]
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 1933 年由[[National Academy of Sciences|美国国家科学院]][[National Research Council|国家研究委员会]]（National Research Council, NRC）儿童发展委员会发起设立，旨在打破单一学科壁垒，统合医学、心理学与教育学力量应对大萧条时期的全美儿童营养与发育危机。

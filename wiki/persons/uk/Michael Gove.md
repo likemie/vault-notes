@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Michael Gove
@@ -131,8 +131,8 @@ updated: 2026-10-07
 > - **政治传播与公共[[Discourse|话语]]** 树立了政客将跨国评估（[[PISA]]）作为“外来震慑”以规避实质政策论证（[[Policy Avoidance]]）的经典范例，深刻塑造了英国教育政策的[[Mediatised Governance\|媒介化治理]]形态（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 记录戈夫受美国奥巴马政府启发拍板设立 1.25 亿英镑留本基金创设 EEF、确立学生津贴并开启英格兰[[Evidence-Based Education\|循证教育]]试验繁荣的制度历程。
-> - [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] — 深度解构戈夫在 2013 年议会陈述中动用媒介资本、利用“遗漏话语”将 PISA 数据逆向裁剪为推行[[Performance Pay\|绩效工资]]与惩罚性督导合法化修辞的传播机理。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录戈夫受美国奥巴马政府启发拍板设立 1.25 亿英镑留本基金创设 EEF、确立学生津贴并开启英格兰[[Evidence-Based Education\|循证教育]]试验繁荣的制度历程。
+> - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 深度解构戈夫在 2013 年议会陈述中动用媒介资本、利用“遗漏话语”将 PISA 数据逆向裁剪为推行[[Performance Pay\|绩效工资]]与惩罚性督导合法化修辞的传播机理。
 
 ---
 
@@ -171,7 +171,7 @@ updated: 2026-10-07
 > > - **批判解构立场（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）** 揭露其选择性借用 [[PISA]] 数据并大面积实施遗漏[[Discourse|话语]]，抨击其在推行[[Performance Pay\|绩效工资]]与惩罚性督导时完全漠视相反实证证据的“借壳上市”手法。
 
 > [!critique]- 批评索引
-> - [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] — 批评戈夫动用媒介资本制造虚假危机，利用遗漏话语掩盖新自由主义改革在跨国数据上的无效性。
+> - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 批评戈夫动用媒介资本制造虚假危机，利用遗漏话语掩盖新自由主义改革在跨国数据上的无效性。
 > - [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] — 从同伴协作与专业伦理角度批判绩效工资（PRP）对学校教学生态的系统性毒化。
 
 > [!warning] 执政遗产的复杂两面性

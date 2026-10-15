@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Richard Rose
@@ -112,7 +112,7 @@ updated: 2026-10-15
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** "经验汲取"框架成为比较政治学、公共行政学、社会政策与比较教育学中研究政策转移的[[Criterion-Referenced Test\|标准参照]]理论，是 David Dolowitz & David Marsh（2000）政策转移研究的重要理论前驱。
+> - **理论路径** "经验汲取"框架成为比较政治学、公共行政学、社会政策与比较教育学中研究政策转移的[[Criterion-Referenced Test\|标准参照]]理论，是 David Dolowitz and David Marsh（2000）政策转移研究的重要理论前驱。
 > - **方法路径** 奠定了跨国政策比较研究以"政策旅行（policy travel）"与"情境适配（contextual fit）"为[[Unit of Analysis\|分析单元]]的方法传统。
 > - **教育政策影响** 吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）系统将罗斯的经验汲取理论引入比较教育研究，发展出"[[Externalization\|外化]]"（[[Externalization]]）概念与[[Policy Borrowing\|政策借用]]批判分析；[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024)]] 在分析国际组织如何打包和传递政策经验时，仍直接援引 Rose（1993）的经验汲取类型学。
 

@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Epistemic Provocateur
@@ -186,14 +186,14 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始质性与统计结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] | $N = 8$ 名韩国初中二年级学生（4 个合作小组） | 四层[[Multimodal Discourse Analysis\|多模态话语分析]]与屏幕录制追踪 | 面对 AI 输出的审问话轮、提示词重写次数与教科书比对动作 | 记录到 4 个典型[[Dialogue in Education\|对话]]序列：学生借助 Canva 故事中的因果机制缺失与 ChatGPT 警示语，主动将 AI 定位为待辨析的挑衅者，发起多轮精准重构并补齐根毛微观结构与真菌界分类 | 质性序列微观发生学证据 | 依赖课后小班探究情境与熟练使用支架的学生背景 |
+> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] | $N = 8$ 名韩国初中二年级学生（4 个合作小组） | 四层[[Multimodal Discourse Analysis\|多模态话语分析]]与屏幕录制追踪 | 面对 AI 输出的审问话轮、提示词重写次数与教科书比对动作 | 记录到 4 个典型[[Dialogue in Education\|对话]]序列：学生借助 Canva 故事中的因果机制缺失与 ChatGPT 警示语，主动将 AI 定位为待辨析的挑衅者，发起多轮精准重构并补齐根毛微观结构与真菌界分类 | 质性序列微观发生学证据 | 依赖课后小班探究情境与熟练使用支架的学生背景 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 核心实证与理论索引
-> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 首创性提出并实证检验生成式 AI 在科学探究中作为“信息源、对话伙伴与[[Epistemology|认识论]]挑衅者”的三重角色，确立双轨[[Epistemic Scaffolding|认识论支架]]激发初中生三维[[Epistemological Vigilance|认识论警觉]]的微观发生学机制。
+> - [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] — 首创性提出并实证检验生成式 AI 在科学探究中作为“信息源、对话伙伴与[[Epistemology|认识论]]挑衅者”的三重角色，确立双轨[[Epistemic Scaffolding|认识论支架]]激发初中生三维[[Epistemological Vigilance|认识论警觉]]的微观发生学机制。
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — [[Meta-analysis|元分析]]实证揭示 AI 错误转化为反思挑衅与批判思维提升的促学规律。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review|系统综述]]阐明 ChatGPT 对[[Critical Thinking|批判性思维]]的双向调节机制，强调通过[[Epistemic Friction|认知摩擦]]防止思维退化。
 

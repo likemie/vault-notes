@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Discovery Learning
@@ -237,8 +237,8 @@ updated: 2026-10-15
 >
 > | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | Dean & Kuhn (2007)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 4]]） | 显性直接讲授 vs 引导式发现探究（[[Control of Variables Strategy\|CVS]]） | 13 周延迟[[Pre-test and Post-test\|后测]]保持率 | 严格控制实验与长期追踪 | 直接教学组保持率 31%；引导式发现组保持率 78%–83% | — | 保持率差异显著（$p < .01$） | 证实经历试错发现所建构的认知策略具备极高的长期抗遗忘韧性 |
-> | Klahr & Nigam (2004)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 4–5]]） | 直接讲授控制[[Variable\|变量]]规则 vs 发现学习 | 科学实验设计质量与近迁移表现 | 小学生科学课堂实验 | 直接讲授组短期掌握更快，发现组部分学生通过试错达成相同掌握水平 | — | 掌握后两组表现相当 | 证实两类教学路径均可通向精熟，但直接讲授短期速度更快，引导发现深层卷入度更高 |
+> | Dean and Kuhn (2007)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 4]]） | 显性直接讲授 vs 引导式发现探究（[[Control of Variables Strategy\|CVS]]） | 13 周延迟[[Pre-test and Post-test\|后测]]保持率 | 严格控制实验与长期追踪 | 直接教学组保持率 31%；引导式发现组保持率 78%–83% | — | 保持率差异显著（$p < .01$） | 证实经历试错发现所建构的认知策略具备极高的长期抗遗忘韧性 |
+> | Klahr and Nigam (2004)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 4–5]]） | 直接讲授控制[[Variable\|变量]]规则 vs 发现学习 | 科学实验设计质量与近迁移表现 | 小学生科学课堂实验 | 直接讲授组短期掌握更快，发现组部分学生通过试错达成相同掌握水平 | — | 掌握后两组表现相当 | 证实两类教学路径均可通向精熟，但直接讲授短期速度更快，引导发现深层卷入度更高 |
 
 ---
 
@@ -269,4 +269,4 @@ updated: 2026-10-15
 ## 使用此概念的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统反驳[[Direct Instruction\|直接教学]]垄断论，评析 Alfieri et al. (2011) 164 项[[Meta-analysis\|元分析]]、Dean & Kuhn (2007) 13 周追踪与 Mayer (2004) 三击出局论，将“无指导纯发现”与“有指导发现”严格区隔，确立配备支架的发现探究在长效概念建构中的循证优势。
+> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统反驳[[Direct Instruction\|直接教学]]垄断论，评析 Alfieri et al. (2011) 164 项[[Meta-analysis\|元分析]]、Dean and Kuhn (2007) 13 周追踪与 Mayer (2004) 三击出局论，将“无指导纯发现”与“有指导发现”严格区隔，确立配备支架的发现探究在长效概念建构中的循证优势。

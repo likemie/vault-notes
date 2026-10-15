@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Fraction Face-Off!
@@ -62,7 +62,7 @@ updated: 2026-09-17
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **Fraction Face-Off!（分数对决）**是由范德堡大学（Vanderbilt University）著名特殊教育与数学认知学者林恩·富克斯（Lynn S. Fuchs）与[[Jack Douglas\|道格拉斯]]·富克斯（Douglas Fuchs）研究团队研发、全美公立学校广泛采用的小学四年级数学分数专项干预项目；其核心使命是通过将数轴测量模型与动机竞赛深度融合，依托低成本的教学助教开展双人小组（1:2）密集补救，攻克阻碍弱势儿童向中等代数进阶的“分数鸿沟”。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> **Fraction Face-Off!（分数对决）** 是由范德堡大学（Vanderbilt University）著名特殊教育与数学认知学者林恩·富克斯（Lynn S. Fuchs）与[[Jack Douglas\|道格拉斯]]·富克斯（Douglas Fuchs）研究团队研发、全美公立学校广泛采用的小学四年级数学分数专项干预项目；其核心使命是通过将数轴测量模型与动机竞赛深度融合，依托低成本的教学助教开展双人小组（1:2）密集补救，攻克阻碍弱势儿童向中等代数进阶的“分数鸿沟”。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 依托[[Institute of Education Sciences\|美国教育部教育科学研究院]]（IES）数学与科学认知资助课题于 2010 年代初立项研发，经多轮大规模多学区[[Randomised Controlled Trials\|随机对照试验]]验证，常态化推广至今。

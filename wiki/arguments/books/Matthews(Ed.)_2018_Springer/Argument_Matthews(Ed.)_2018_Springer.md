@@ -71,7 +71,7 @@ sources:
 part_of:
 status: draft
 created: 2026-09-21
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Argument_Matthews(Ed.)_2018_Springer
@@ -176,7 +176,7 @@ updated: 2026-10-08
 >   - **相关章节** Ch. 1 Argument_Matthews_2018_FengShui；Ch. 2 Argument_Nola_2018_EnlightenmentTruths；Ch. 3 Argument_Peker_Taskin_2018_TurkeyEnlightenment；Ch. 4 Argument_McCarthy_2018_CSSEAppraisal。
 >   - **阅读价值** 本线索展现了理性辩护从抽象分析哲学（Nola 对启蒙属性的流行病学考察）、具体民俗迷信剖析（Matthews 对风水伪科学性的界定）、国别现代化政教冲突史（Peker & Taskin 对土耳其世俗教育的考察），到当代学术阵地清理（McCarthy 对 CSSE 内部后现代相对主义的严厉批判）的完整推进链条。
 > - **主题线索二：[[Epistemology\|认识论]]探究与微观学习心理机制的贯通** 探讨科学哲学中的认识论规范如何有效转化为学生课堂认知与思维习惯。
->   - **相关章节** Ch. 5 [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]；Ch. 6 Argument_Peters-Burton_2018_NOSLearningSRL；Ch. 7 Argument_Mach_2018_PsychologicalLogicalMoment。
+>   - **相关章节** Ch. 5 [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]；Ch. 6 Argument_Peters-Burton_2018_NOSLearningSRL；Ch. 7 Argument_Mach_2018_PsychologicalLogicalMoment。
 >   - **阅读价值** 从科学社会学与[[Ethnography\|人种志]]观察中的微观[[Discourse|话语]]实践（Kelly & Licona），过渡到教育心理学中[[Self-Regulated Learning\|自我调节学习]]理论与显性[[Reflexivity\|反思性]] [[Nature of Science\|NOS]] 的深度平行对应（Peters-Burton），最终追溯至历史源头——马赫论科学教学中心理发生优先于纯粹逻辑推演的经典洞见，形成了科学教育认识论转向的立体透视。
 > - **主题线索三：科学概念建构的四支柱模型与课程合理性辩护** 探讨学科核心概念（如力学[[Construct\|构念]]、能量守恒定律、生物演化论）如何依托科学史哲完成课程重构与意义建构。
 >   - **相关章节** Ch. 8 Argument_Galili_2018_ScientificKnowledgeCulture；Ch. 9 Argument_Lehavi_Eylon_2018_EnergyCurriculumHPS；Ch. 10 Argument_Smith_2018_EvolutionJustifications。
@@ -192,7 +192,7 @@ updated: 2026-10-08
 全书 12 篇论文涵盖了科学教育哲学的核心论题，后续将依据理论辐射力与方法论[[Demonstration Effect|示范效应]]分阶段逐步推进。
 
 > [!chapter-roadmap] 章节处理路线
-> - **已处理章节** 全书概览（Overview）及编者导论（*New Perspectives in History, Philosophy and Science Teaching: An Introduction*）；Ch. 05 [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]（构建微观课堂[[Epistemic Practices\|认识论实践]]的四维行动框架与三大教学取向对比）。
+> - **已处理章节** 全书概览（Overview）及编者导论（*New Perspectives in History, Philosophy and Science Teaching: An Introduction*）；Ch. 05 [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]（构建微观课堂[[Epistemic Practices\|认识论实践]]的四维行动框架与三大教学取向对比）。
 > - **优先处理章节**
 >   - **Ch. 01** Argument_Matthews_2018_FengShui — 迈克尔·马修斯（Michael R. Matthews）对风水迷信、科学与伪科学界分以及科学教育世界观重塑责任的核心论证，直接奠定全书反思[[Cultural Relativism|文化相对主义]]的基调。
 >   - **Ch. 02** Argument_Nola_2018_EnlightenmentTruths — 罗伯特·诺拉（Robert Nola）运用当代分析哲学对启蒙抽象名词化陷阱进行的概念清算与流行病学属性模型，是全书的理论枢纽。
@@ -219,7 +219,7 @@ updated: 2026-10-08
 > - **Ch. 02 — The [[Enlightenment]]: Truths Behind a Misleading Abstraction** Argument_Nola_2018_EnlightenmentTruths（待处理） — 罗伯特·诺拉（Robert Nola）剖析启蒙这一名词化抽象概念所带来的思维误区，提出应将启蒙还原为个体所具备的批判理性认知属性，并建立启蒙状态分布的流行病学模型。（pp. 43–65）
 > - **Ch. 03 — The Enlightenment Tradition and Science Education in Turkey** Argument_Peker_Taskin_2018_TurkeyEnlightenment（待处理） — 德尼兹·佩克尔（Deniz Peker）与厄兹居尔·塔什金（Özgür Taskin）系统考证奥斯曼帝国晚期至现代土耳其科学教育改革的演进历程，揭示世俗化启蒙诉求与宗教保守主义之间的长期张力。（pp. 67–97）
 > - **Ch. 04 — Cultural Studies of Science Education: An Appraisal** Argument_McCarthy_2018_CSSEAppraisal（待处理） — 克里斯汀·麦卡锡（Christine L. McCarthy）对文化科学教育研究（CSSE）学术阵营进行深入哲学清算，捍卫方法论自然主义、符合真理观与实在论立场，严厉批评后现代相对主义对科学客观性的瓦解。（pp. 99–135）
-> - **Ch. 05 — [[Epistemic Practices]] and Science Education** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] — 格雷戈里·凯利（Gregory J. Kelly）与彼得·利科纳（Peter Licona）总结跨学科科学实践研究（science studies）的实证成果，论证[[Epistemology\|认识论]]主体由[[René Descartes\|笛卡尔]]孤立个体向微观社会协商群体的转向，并提炼出科学课堂认识论实践的四维行动模型与三大教学取向横向对比。（pp. 139–165）
+> - **Ch. 05 — [[Epistemic Practices]] and Science Education** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 格雷戈里·凯利（Gregory J. Kelly）与彼得·利科纳（Peter Licona）总结跨学科科学实践研究（science studies）的实证成果，论证[[Epistemology\|认识论]]主体由[[René Descartes\|笛卡尔]]孤立个体向微观社会协商群体的转向，并提炼出科学课堂认识论实践的四维行动模型与三大教学取向横向对比。（pp. 139–165）
 > - **Ch. 06 — Strategies for Learning [[Nature of Science]] Knowledge: A Perspective from Educational Psychology** Argument_Peters-Burton_2018_NOSLearningSRL（待处理） — 埃琳·彼得斯-伯顿（Erin E. Peters-Burton）将[[Self-Regulated Learning\|自我调节学习]]（SRL）理论引入科学本质教学，构建显性与[[Reflexivity\|反思性]] NOS 教学与学生预想、执行及自我评价心理子过程的精确映射。（pp. 167–193）
 > - **Ch. 07 — About the Psychological and Logical Moment in Natural Science Teaching (1890)** Argument_Mach_2018_PsychologicalLogicalMoment（待处理） — 恩斯特·马赫（Ernst Mach）经典历史论文的首次英文全译本，主张科学教学必须先遵循心理发展逻辑、激发起对新概念的内在需要，后施加严格逻辑规范，奠定了现代历史启发式教学传统。（pp. 195–200）
 > - **Ch. 08 — Scientific Knowledge as a Culture: A [[Paradigm]] for Meaningful Teaching and Learning of Science** Argument_Galili_2018_ScientificKnowledgeCulture（待处理） — 伊加尔·加利利（Igal Galili）提出文化内容知识（CCK）范式，通过重量与光学像等物理学概念的历史演化，论证将科学知识作为文化体系教学能够有效促进跨学科深度理解与普遍[[Scientific Literacy\|科学素养]]。（pp. 203–234）

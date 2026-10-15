@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Process-Oriented Guided Inquiry Learning
@@ -225,7 +225,7 @@ POGIL 历经了从局部高校化学教学改革，扩散为横跨 [[STEM Educat
 > > [!axis] 拔尖培优 vs 兜底扶弱（DFW 削减 vs 顶尖拔高）
 > > 争论焦点在于 POGIL 是否对全体学生均具有最高成效。
 > >
-> > - **兜底优势** Walker & Warfa (2017) [[Meta-analysis\|元分析]]显示，POGIL 最显著的功效是“大幅提升挂科边缘学生的及格率”，对中下水平学生的救赎作用极其显著。
+> > - **兜底优势** Walker and Warfa (2017) [[Meta-analysis\|元分析]]显示，POGIL 最显著的功效是“大幅提升挂科边缘学生的及格率”，对中下水平学生的救赎作用极其显著。
 > > - **天花板争议** 部分批评者指出，对于先验知识极高、自学能力极强的拔尖学生，小组讨论的节奏可能显得冗长，其平均测验加分幅度不如弱势学生显著。
 
 > [!critique] 外部批评
@@ -241,15 +241,15 @@ POGIL 历经了从局部高校化学教学改革，扩散为横跨 [[STEM Educat
 >
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | Walker & Warfa (2017)（课程通过优势比分析；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]） | 干预因素：POGIL 教学法对比传统常规讲授大班 | 涵盖多项对照实验 | 优势比（Odds Ratio, OR） | $\text{OR} > 1.0$（统计显著提升） | 挂科与退课率（DFW）显著压低（$p < .01$） | 标杆元分析；证实 POGIL 显著提升学生通过关键科学课程的概率，有效保障学业底线 |
-> | Walker & Warfa (2017b)（标准化考试成绩分析；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 3–4]]） | 干预因素：POGIL 对比传统[[Direct Instruction\|直接讲授]]的期末考试成绩 | 涵盖多所大学与高中理科 | 标准化平均差（SMD） | $g \approx 0.15 \sim 0.20$（微弱至中等正效应） | 异质性中等 | 证实期末分数提升相对温和，其核心制度性收益在于保底及格率与概念深度 |
+> | Walker and Warfa (2017)（课程通过优势比分析；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]） | 干预因素：POGIL 教学法对比传统常规讲授大班 | 涵盖多项对照实验 | 优势比（Odds Ratio, OR） | $\text{OR} > 1.0$（统计显著提升） | 挂科与退课率（DFW）显著压低（$p < .01$） | 标杆元分析；证实 POGIL 显著提升学生通过关键科学课程的概率，有效保障学业底线 |
+> | Walker and Warfa (2017b)（标准化考试成绩分析；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 3–4]]） | 干预因素：POGIL 对比传统[[Direct Instruction\|直接讲授]]的期末考试成绩 | 涵盖多所大学与高中理科 | 标准化平均差（SMD） | $g \approx 0.15 \sim 0.20$（微弱至中等正效应） | 异质性中等 | 证实期末分数提升相对温和，其核心制度性收益在于保底及格率与概念深度 |
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | Joshi & Lau (2023)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]） | POGIL 教学模式 vs 传统讲授 | [[Surface and Deep Learning\|深层学习]]途径得分与长期概念表现 | 大学理科学生准[[Experimental Research\|实验研究]] | POGIL 组在深层学习方式与延迟测验上表现显著更优 | — | 统计显著（$p < .05$） | 准实验对照研究；确立 POGIL 在转变学习策略与促进长期抗遗忘上的因果增益 |
+> | Joshi and Lau (2023)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]） | POGIL 教学模式 vs 传统讲授 | [[Surface and Deep Learning\|深层学习]]途径得分与长期概念表现 | 大学理科学生准[[Experimental Research\|实验研究]] | POGIL 组在深层学习方式与延迟测验上表现显著更优 | — | 统计显著（$p < .05$） | 准实验对照研究；确立 POGIL 在转变学习策略与促进长期抗遗忘上的因果增益 |
 
 ---
 
@@ -283,4 +283,4 @@ POGIL 历经了从局部高校化学教学改革，扩散为横跨 [[STEM Educat
 ## 使用此概念的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统评述[[Inquiry-Based Learning\|指导式探究]]体系，引用 Moog & Spencer (2008)、Joshi & Lau (2023) 与 Walker & Warfa (2017) [[Meta-analysis\|元分析]]，将 POGIL 确立为科学教育中高度结构化、显著降低课程挂科率的标杆指导式探究[[Paradigm\|范式]]。
+> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统评述[[Inquiry-Based Learning\|指导式探究]]体系，引用 Moog and Spencer (2008)、Joshi and Lau (2023) 与 Walker and Warfa (2017) [[Meta-analysis\|元分析]]，将 POGIL 确立为科学教育中高度结构化、显著降低课程挂科率的标杆指导式探究[[Paradigm\|范式]]。

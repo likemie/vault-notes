@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Compensatory Legitimation
@@ -135,8 +135,8 @@ updated: 2026-10-07
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **危机吸纳命题** | 教育作为边际福利替代财富再分配，平息政权合法性危机 | 威权后革命国家、[[Latin American Debt Crisis of 1982\|拉美债务危机]]期 | Morales-Gómez & Torres (1990); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 83)]] |
-> | **双轨分层命题** | 规模扩张伴随质量隔离，名义平等巩固实质阶级固化 | 外围依附国家、[[Import Substitution Industrialisation\|进口替代工业化]]后期 | Schiefelbein (1998); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 82)]] |
+> | **危机吸纳命题** | 教育作为边际福利替代财富再分配，平息政权合法性危机 | 威权后革命国家、[[Latin American Debt Crisis of 1982\|拉美债务危机]]期 | Morales-Gómez & Torres (1990); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, p. 83)]] |
+> | **双轨分层命题** | 规模扩张伴随质量隔离，名义平等巩固实质阶级固化 | 外围依附国家、[[Import Substitution Industrialisation\|进口替代工业化]]后期 | Schiefelbein (1998); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, p. 82)]] |
 
 ---
 
@@ -169,8 +169,8 @@ updated: 2026-10-07
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 81)]] | 拉丁美洲全区，1960–1970 年代（援引 UNESCO, 1974 统计） | 历史跨国统计分析 | 中高等教育扩张指数 | 1960–1970年间，高等教育增长 247.9%，中等教育增长 258.3%（创全球同期最高增速） | — | 解释外围国家通过向中产阶层提供文凭通道以换取政治效忠与合法性，但未能从根本上扭转外围依附 |
-> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 82)]] | 拉丁美洲全区，1960–1970 年代（援引 UNESCO, 1974 统计） | 历史跨国统计分析 | 成人文盲率变动趋势与初等教育排斥 | 文盲绝对人数上升且文盲率维持恒定未降（≈ 0% 降幅） | — | [[Falsification\|证伪]]了教育普遍均质扩张假说，证明名义中高等膨胀掩盖了对底层民众基础识字权利的系统性排斥与补偿性敷衍 |
+> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, p. 81)]] | 拉丁美洲全区，1960–1970 年代（援引 UNESCO, 1974 统计） | 历史跨国统计分析 | 中高等教育扩张指数 | 1960–1970年间，高等教育增长 247.9%，中等教育增长 258.3%（创全球同期最高增速） | — | 解释外围国家通过向中产阶层提供文凭通道以换取政治效忠与合法性，但未能从根本上扭转外围依附 |
+> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, p. 82)]] | 拉丁美洲全区，1960–1970 年代（援引 UNESCO, 1974 统计） | 历史跨国统计分析 | 成人文盲率变动趋势与初等教育排斥 | 文盲绝对人数上升且文盲率维持恒定未降（≈ 0% 降幅） | — | [[Falsification\|证伪]]了教育普遍均质扩张假说，证明名义中高等膨胀掩盖了对底层民众基础识字权利的系统性排斥与补偿性敷衍 |
 
 ---
 

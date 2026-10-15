@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: '2026-08-27'
+updated: 2026-10-16
 ---
 
 # Criterion Problem
@@ -125,7 +125,7 @@ updated: '2026-08-27'
 > [!concept-lens] [[Effect Size\|效应量]]不对称性与效标噪声稀释
 > 探讨为何在[[Meta-analysis\|元分析]]中，同一个心理[[Construct\|构念]]在作为前因[[Independent Variable\|自变量]]与作为[[Dependent Variable\|因变量]]效标时表现出截然不同的关联强度。
 
-> [!claim] [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]; Paek & Runco (2018); Shapiro (1970)
+> [!claim] [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]; Paek and Runco (2018); Shapiro (1970)
 > **效标[[Heterogeneity\|异质性]]稀释结果关联** 跨 52 项一阶元分析的大规模[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）证实，[[Creativity\|创造力]]作为预测[[Variable\|变量]]时的平均效应量（$r = 0.29$）显著高于其作为结果变量时的效应量（$r = 0.12, F(1, 16.3) = 9.43, p = .007$）。其根本机制在于：当创造力作为结果变量时，各研究采纳的效标极其分散且充斥效标污染与缺失，效标异质性严重稀释了统计关联系数；而当其作为自变量去预测相对客观的外部标准（如学业 [[Academic Achievement\|GPA]]、职业产出）时，标准化的潜能量表展现出更稳定纯净的预测效能。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 6–8)]]
 
 ---
@@ -145,7 +145,7 @@ updated: '2026-08-27'
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **效应不对称归因** | 效标异质性与污染稀释了因变量关联，导致结果变量效应量系统性偏低（$r = 0.12$ vs $0.29$） | [[Meta-meta-analysis\|二阶元分析建模]]、[[Predictive Validity\|构念预测力评估]] | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]; Paek & Runco (2018) |
+> | **效应不对称归因** | 效标异质性与污染稀释了因变量关联，导致结果变量效应量系统性偏低（$r = 0.12$ vs $0.29$） | [[Meta-meta-analysis\|二阶元分析建模]]、[[Predictive Validity\|构念预测力评估]] | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]; Paek and Runco (2018) |
 > | **复合效标矩阵** | 结合潜能认知测验、真实产品评定与自陈问卷是破解效标困境的唯一有效路径 | 心理测量工具开发、教育综合评价体系 | Wolf (1994); Amabile (1982) |
 
 ---

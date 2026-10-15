@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Technocognition
@@ -48,7 +48,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> 技术认知法（Technocognition）是一种将**认知科学（Cognitive Science）**关于人类记忆、偏见防卫与信息加工的心理规律，与**技术架构设计（Design & Technology）**（如推荐算法、事实核查与交互提示）深度结合的跨学科治理方法。该范式由认知心理学家 Stephan Lewandowsky 等人（2017）提出，并在 [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] 反思后真相时代[[Educational Brokerage Agency\|教育中介机构]]角色的研究中被明确确立为应对算法茧房与科学公信力危机的根本治理进路。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 69]])
+> 技术认知法（Technocognition）是一种将**认知科学（Cognitive Science）** 关于人类记忆、偏见防卫与信息加工的心理规律，与**技术架构设计（Design & Technology）**（如推荐算法、事实核查与交互提示）深度结合的跨学科治理方法。该范式由认知心理学家 Stephan Lewandowsky 等人（2017）提出，并在 [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] 反思后真相时代[[Educational Brokerage Agency\|教育中介机构]]角色的研究中被明确确立为应对算法茧房与科学公信力危机的根本治理进路。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 69]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 告别“只要提供更多客观证据就能消除错误偏见”的启蒙式古典理性假设，转向在算法技术底层植入认知免疫与主动纠偏机制。
@@ -56,7 +56,7 @@ updated: 2026-10-15
 > - **边界** 它不等于单纯的代码开发或平台算法审查，也不等于纯粹的个体心理学培训，而是要求认知科学理论对技术架构规则的直接结构化映射。
 
 > [!citation-card] Lewandowsky 等论技术认知法
-> 应对这一挑战——以及尚未未知的其他未来挑战——将需要全新形式的干预。Lewandowsky, Ecker & Cook（2017）主张最佳进路是“技术认知法”，这是一种利用认知科学与设计发现来打击虚假信息的跨学科方法，同时结合技术解决方案，例如算法事实核查器、疑似虚假信息的自动警报，以及增加建议内容的多样性与种类以扩展过滤气泡。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 69)]]
+> 应对这一挑战——以及尚未未知的其他未来挑战——将需要全新形式的干预。Lewandowsky, Ecker and Cook（2017）主张最佳进路是“技术认知法”，这是一种利用认知科学与设计发现来打击虚假信息的跨学科方法，同时结合技术解决方案，例如算法事实核查器、疑似虚假信息的自动警报，以及增加建议内容的多样性与种类以扩展过滤气泡。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 69)]]
 >
 > *"Addressing this challenge – and other future challenges as yet unknown – will require new forms of intervention. The authors argue that the best approach is 'technocognition', an interdisciplinary approach that uses findings from cognitive science and design to combat misinformation as well as technological solutions such as algorithmic fact checkers, automatic alerts for suspected disinformation, and increasing the variety and kinds of suggested content (i.e. broadening what is received as 'you might also like') to extend the filter bubble."*
 
@@ -103,4 +103,4 @@ updated: 2026-10-15
 > | [[Educational Brokerage Agency]] | 概念 | 中介机构在后真相时代必须采纳的现代方法论工具箱与干预形态。 |
 > | [[Education Media Centre]] | 机构事实 | 践行技术认知法以阻断大众舆论虚假传播链的典型英国教育中介案例。 |
 > | [[Cumulative Knowledge Base]] | 概念 | 唯有阻断算法污染与自利操纵，跨国累积性知识库才能获得广泛社会信任。 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] | 论证条目 | 在结论部分（p. 69）将技术认知法确立为解决后真相时代教育证据治理困境的关键战略进路。 |
+> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 在结论部分（p. 69）将技术认知法确立为解决后真相时代教育证据治理困境的关键战略进路。 |

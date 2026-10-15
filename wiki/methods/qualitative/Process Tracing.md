@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Process Tracing
@@ -163,4 +163,4 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013)]] — 麦克唐纳与韦瑟福德通过过程追踪法追踪[[Common Core State Standards|共同核心标准]] 5 年生命周期，揭示出实证研究如何与[[Professional Judgment|专业判断]]及政治价值发生阶段权变性整合。
+> - [[Argument_McDonnell_2013_AJE|McDonnell and Weatherford (2013)]] — 麦克唐纳与韦瑟福德通过过程追踪法追踪[[Common Core State Standards|共同核心标准]] 5 年生命周期，揭示出实证研究如何与[[Professional Judgment|专业判断]]及政治价值发生阶段权变性整合。

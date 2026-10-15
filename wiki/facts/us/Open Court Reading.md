@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-02
+updated: 2026-10-16
 ---
 
 # Open Court Reading
@@ -142,7 +142,7 @@ updated: 2026-10-02
 
 > [!stat-cards]- 核心实证研究数据快照
 > - **$+0.10$ 至 $+0.19\text{ SD}$** Borman et al. (2008) 大型多中心集群 [[Randomised Controlled Trials\|RCT]]（涵盖多个学区与数十所小学）各清算中心估计的净[[Effect Size\|效应量]]区间，被 [[Best Evidence Encyclopedia\|BEE]] 定性为“适度效应”。
-> - **$+0.25\text{ SD}$ 门槛越界** Skindrud & Gersten (2006) 准[[Experimental Research|实验研究]]（[[Quasi-Experimental Designs\|QED]]）样本集中于加州薄弱学区，[[What Works Clearinghouse|WWC]] 自行实施集群偏倚校正后判定其越过实质重要性门槛，但 [[Blueprints for Healthy Youth Development|Blueprints]] 因未校正脱落与地域局限直接予以全盘剔除。
+> - **$+0.25\text{ SD}$ 门槛越界** Skindrud and Gersten (2006) 准[[Experimental Research|实验研究]]（[[Quasi-Experimental Designs\|QED]]）样本集中于加州薄弱学区，[[What Works Clearinghouse|WWC]] 自行实施集群偏倚校正后判定其越过实质重要性门槛，但 [[Blueprints for Healthy Youth Development|Blueprints]] 因未校正脱落与地域局限直接予以全盘剔除。
 > - **$ES = +0.13\text{ SD}$**（$p < 0.05$） BEE [[Meta-analysis\|元分析]]加权平均效应量，基于多项合格研究方差倒数加权合成，达到 BEE 中等[[Evidence Standards\|证据标准]]。
 
 ---
@@ -155,7 +155,7 @@ updated: 2026-10-02
 > > [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024, pp. 22–23)]] 指出，Open Court Reading 案例揭示了宏观[[Evidence-Based Education\|循证教育]]评级中最容易误导政策制定者的“虚假共识”假象：
 > >
 > > - **核心 [[Randomised Controlled Trials|RCT]] 因果定性与时间混杂识别剪刀差** 针对 Borman et al. (2008) 多中心集群 RCT，[[Best Evidence Encyclopedia\|BEE]] 评审团队敏锐发现了其他机构完全忽略的**共时课时混杂（Time-on-Task Confounder）**——实验组每天接受 150 分钟读写教学，而对照组仅为 90 分钟常规教学。[[Effect Size\|效应量]]提升究竟源于 OCR 课程设计，还是单纯源于额外多出的 60 分钟教学时间？[[What Works Clearinghouse\|WWC]] 与 [[Blueprints for Healthy Youth Development\|Blueprints]] 对此完全失察。
-> > - **准实验 [[Quasi-Experimental Designs|QED]] 门槛的宽容度与剔除分歧** 针对 Skindrud & Gersten (2006)，Blueprints 坚持严苛标准予以彻底剔除，而 WWC 在自行动手校正集群误差后因效应量大于 0.25 SD 破格保留入库，展现了不同机构在准实验容忍度上的制度自由裁量权。
+> > - **准实验 [[Quasi-Experimental Designs|QED]] 门槛的宽容度与剔除分歧** 针对 Skindrud and Gersten (2006)，Blueprints 坚持严苛标准予以彻底剔除，而 WWC 在自行动手校正集群误差后因效应量大于 0.25 SD 破格保留入库，展现了不同机构在准实验容忍度上的制度自由裁量权。
 > > - **底线标签无法传递[[Scientific Uncertainty|证据不确定性]]** 政策制定者若仅查阅“Promising”这一最终标签，将完全无法获知背后的课时偏差、小样本班级降级与准实验争议，凸显了穿透标签审视底层[[Chain of Evidence\|证据链]]的方法学必要性。
 >
 > > [!axis] 商业垄断寻租与教师去专业化之争（次政府与[[Technical Rationality|技术理性]]批判）

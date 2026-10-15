@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Stewart Brand
@@ -150,4 +150,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 专著第八章系统评述布兰德《[[Whole Earth Catalog|全球概览]]》及其 1995 年论文，剖析反文化反集权哲学如何成为硅谷个人计算革命的思想基石并导致科技界与国家战略使命的脱节（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著第八章系统评述布兰德《[[Whole Earth Catalog|全球概览]]》及其 1995 年论文，剖析反文化反集权哲学如何成为硅谷个人计算革命的思想基石并导致科技界与国家战略使命的脱节（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。

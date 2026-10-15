@@ -103,8 +103,8 @@ citation_aliases:
 > |----------|----------|
 > | **原生-现代民族谱系与族群象征主义**<br>Primordial-Modern Spectrum & Ethno-Symbolism | 提炼民族概念的理论定位。原生论（Connor 1978; Smith 1991）强调血缘、语言、自古存在的共同体；现代论（Anderson 2006 [[Imagined Community\|想象的共同体]]；Gellner 1983）强调现代政治与教育机器的建构作用；族群象征主义（Smith 1998）关注前现代族群符号与神话在现代历史教科书中的再阐释与政治操纵（pp. 574–575）。 |
 > | **构成性 vs 表达性框架**<br>Constitutive vs Expressive Framework | Brubaker (1992, 1996) 区分决定国家边界的构成性要素与随情境变化的表达性要素。德国模式为族群（构成性）→ 领土（表达性），法国模式为领土（构成性）→ 族群包容（表达性）。该框架解释了为何不同社会会赋予族群与领土截然不同的叙事权重（p. 575）。 |
-> | **两种中国观**<br>Two Notions of China | Lu (2017) 将 Brubaker 框架运用于中国历史课程分析，区分了[[Hsu Cho-Yun\|许倬云]]（2012）代表的**族裔文化观（Ethno-cultural Notion，以中原汉族为中心、领土随治理范围动态变迁）**与[[Fei Xiaotong\|费孝通]]（1999）代表的**领土观（Territorial Notion，以当代领土为边界、56个民族共同缔造[[Zhonghua Minzu\|中华民族]]）**，并提出六项区分指标（pp. 575–576）。 |
-> | **官方知识与合法化机制**<br>[[Official Knowledge\|官方知识]] & Legitimisation | Apple & Christian-Smith (1991) 揭示学校课程并非[[Value Neutrality\|价值中立]]。主导群体通过教科书对历史神话、传统与记忆进行选择性重构，将特定文化与政治视角合法化为正统知识，以服务于当下统治集团的利益需求（p. 576）。 |
+> | **两种中国观**<br>Two Notions of China | Lu (2017) 将 Brubaker 框架运用于中国历史课程分析，区分了[[Hsu Cho-Yun\|许倬云]]（2012）代表的**族裔文化观（Ethno-cultural Notion，以中原汉族为中心、领土随治理范围动态变迁）** 与[[Fei Xiaotong\|费孝通]]（1999）代表的**领土观（Territorial Notion，以当代领土为边界、56个民族共同缔造[[Zhonghua Minzu\|中华民族]]）**，并提出六项区分指标（pp. 575–576）。 |
+> | **官方知识与合法化机制**<br>[[Official Knowledge\|官方知识]] & Legitimisation | Apple and Christian-Smith (1991) 揭示学校课程并非[[Value Neutrality\|价值中立]]。主导群体通过教科书对历史神话、传统与记忆进行选择性重构，将特定文化与政治视角合法化为正统知识，以服务于当下统治集团的利益需求（p. 576）。 |
 
 > [!contrast-table] 民族理论三大[[Paradigm\|范式]]对比（原生论 vs 现代论 vs 族群象征主义）
 > | 比较维度 | 原生论（Primordialism） | 现代论（Modernism） | 族群象征主义（Ethno-Symbolism） |
@@ -125,8 +125,8 @@ citation_aliases:
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **文本样本选择**<br>[[Comparative Textbook Analysis\|比较教科书分析]] | 选定两地在 2010 年代末至 2020 年课堂上广泛使用的初中（7–9 年级）中国历史教科书共 6 册（大陆人教社 2016–2017 统编版 3 册 vs 香港龄记出版集团 2014 年《新编简明中国史》3 册）。两套教材编写起点相似（均在 2012 年前开始编制），均以编年体展开叙事，分析聚焦 1912 年帝制终结前的古代历史（p. 579）。 |
-> | **子句分析法**<br>Clause-Based Analysis | 将两套教材正文中所有涉及国家叙事的内容复制到 Excel 中，拆解为**子句（clause）**作为基本[[Unit of Analysis\|分析单位]]（包含主谓结构的完整表意单元，如重用汉官员、改革政治制度、奖励农业包含 3 个数据点），比段落或页码更精确。 |
-> | **质性归纳编码**<br>Inductive Qualitative Coding | 遵循 Corbin & Strauss (2015) [[Grounded Theory\|扎根理论]]归纳法进行三步编码：(1) 提取正文子句；(2) 基于 Lu (2017) 指标进行归纳编码并根据数据修正（如新增汉人收复失地与军事实力的编码），再据此审核补充阅读、地图与插图；(3) 归纳生成族群、领土、政治冲突、文化互动 4 大主题（pp. 579–580）。 |
+> | **子句分析法**<br>Clause-Based Analysis | 将两套教材正文中所有涉及国家叙事的内容复制到 Excel 中，拆解为**子句（clause）** 作为基本[[Unit of Analysis\|分析单位]]（包含主谓结构的完整表意单元，如重用汉官员、改革政治制度、奖励农业包含 3 个数据点），比段落或页码更精确。 |
+> | **质性归纳编码**<br>Inductive Qualitative Coding | 遵循 Corbin and Strauss (2015) [[Grounded Theory\|扎根理论]]归纳法进行三步编码：(1) 提取正文子句；(2) 基于 Lu (2017) 指标进行归纳编码并根据数据修正（如新增汉人收复失地与军事实力的编码），再据此审核补充阅读、地图与插图；(3) 归纳生成族群、领土、政治冲突、文化互动 4 大主题（pp. 579–580）。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |

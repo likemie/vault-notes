@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Establishment Caste
@@ -79,7 +79,7 @@ updated: 2026-10-08
 > [!claim] Baltzell (1964)
 > **权威合法性依托于开放流通** [[E. Digby Baltzell|巴尔策尔]]在《新教当权派》（*The Protestant Establishment*, 1964）中强调，贤能统治的权威建立在其对新成员的持续吸纳能力之上；一旦封闭成种姓，社会成员对体制的自愿服从便会瓦解，最终引发反体制民粹叛乱。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 78–79)]]
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **跨部门种姓壁垒的清算紧迫性** 从联邦官僚体系、国际机构到硅谷科技大厂内部形成的隐性种姓结构，正在系统性窒息西方世界的创新能力与防卫活力；唯有在制度上坚决瓦解这些闭关自守的圈子壁垒，现代机构才具有长久存续的希望。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 79)]]
 
 ---
@@ -89,8 +89,8 @@ updated: 2026-10-08
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **合法性危机命题** | 统治阶级种姓化直接导致体制权威解体与社会撕裂 | 政治社会学、国家治理、阶级分析 | Baltzell (1964); [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025)]] |
-> | **组织自我革新命题** | 破除内部特权固化是防务与科技组织长效存续的前提 | 公共管理、科技企业组织变革 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025)]] |
+> | **合法性危机命题** | 统治阶级种姓化直接导致体制权威解体与社会撕裂 | 政治社会学、国家治理、阶级分析 | Baltzell (1964); [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]] |
+> | **组织自我革新命题** | 破除内部特权固化是防务与科技组织长效存续的前提 | 公共管理、科技企业组织变革 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]] |
 
 ---
 

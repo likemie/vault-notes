@@ -32,7 +32,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-09-22
+updated: 2026-10-16
 ---
 # Sensitive Questions
 
@@ -130,4 +130,4 @@ Sudman & Bradburn（1982, Ch. 3, pp. 55–56）系统地提出了处理敏感或
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al. (2011, Ch20)]] — 在[[Questionnaire\|问卷]]设计流程中专设一节讨论敏感问题的双风险机制（低报与过度报告），并系统引述了 Sudman & Bradburn（1982）的十一项应对策略，按措辞设计、时机语境、收集方式和效度保障四个维度组织。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al. (2011, Ch20)]] — 在[[Questionnaire\|问卷]]设计流程中专设一节讨论敏感问题的双风险机制（低报与过度报告），并系统引述了 Sudman and Bradburn（1982）的十一项应对策略，按措辞设计、时机语境、收集方式和效度保障四个维度组织。

@@ -61,7 +61,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Epistemic Injustice
@@ -96,7 +96,7 @@ updated: 2026-10-15
 > - **2007 — 弗里克理论奠基** Miranda Fricker 区分证词不正义与诠释不正义，确立认识不公正作为对“求知者能力（Capacity as a Knower）”内在贬损的伦理属性。
 > - **2012 — 制度认识正义转向** 伊丽莎白·安德森（Elizabeth Anderson, 2012）将研究重心从个体[[Epistemic Virtues and Vices\|认识美德]]扩展至社会制度结构，提出高校、科学共同体与司法机构必须建立抵御结构性认识排斥的制度机制。
 > - **2026 — [[Formative Epistemic Injustice|成长性认识不正义]]（Formative Epistemic Injustice）提出** 史密斯（[[Argument_Smith_2026_SPE|Smith, 2026]]）将理论精准拓展至教育学核心，指出教育制度若限制了学生作为求知者发展所必需的知识、探究实践和准确自我评估机会，便构成了专门针对未成年学习者的“成长性认识不正义”。
-> - **2026 — 算法认识不正义与[[Man-Computer Symbiosis|人机共生]]批判** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 结合人工智能伦理学前沿（Kay et al., 2024），系统论证[[Generative Artificial Intelligence|生成式人工智能]]（Generative Artificial Intelligence, GenAI；统称人工智能，Artificial Intelligence, AI）的语料单质化、平台强制捆绑以及中间推导动作剥离，如何对多元语言、地方性知识以及边缘学子的[[Epistemic Agency\|认识主体性]]构成空间排斥与深层认识不正义。
+> - **2026 — 算法认识不正义与[[Man-Computer Symbiosis|人机共生]]批判** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 结合人工智能伦理学前沿（Kay et al., 2024），系统论证[[Generative Artificial Intelligence|生成式人工智能]]（Generative Artificial Intelligence, GenAI；统称人工智能，Artificial Intelligence, AI）的语料单质化、平台强制捆绑以及中间推导动作剥离，如何对多元语言、地方性知识以及边缘学子的[[Epistemic Agency\|认识主体性]]构成空间排斥与深层认识不正义。
 
 ---
 
@@ -192,4 +192,4 @@ updated: 2026-10-15
 > - Fricker (2007) — 系统开创认识不正义理论，奠定证词不正义与诠释不正义的核心理论体系。
 > - Anderson (2012) — 从制度[[Epistemology\|认识论]]视角推进认识正义，论证社会机构在抵御结构性认识排斥中的关键责任。
 > - [[Argument_Smith_2026_SPE\|Smith (2026)]] — 系统提出“私厨隐喻”与[[Formative Epistemic Injustice|成长性认识不正义]]（[[Formative Epistemic Injustice]]）的三重检验标准，将理论精准对接教育教学中对求知者发展权能与读写[[Epistemic Practices|认知实践]]的侵害。
-> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 将认识不正义理论拓展至人工智能中介学习，揭示算法均质化对认识多样性的侵蚀，确立[[Man-Computer Symbiosis|人机共生]]中的分布式认识正义规范。
+> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 将认识不正义理论拓展至人工智能中介学习，揭示算法均质化对认识多样性的侵蚀，确立[[Man-Computer Symbiosis|人机共生]]中的分布式认识正义规范。

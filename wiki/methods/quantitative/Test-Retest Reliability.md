@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Test-Retest Reliability
@@ -51,7 +51,7 @@ updated: 2026-10-15
 > 重测信度是使用同一测量工具在不同时间重复测量结果的一致性程度（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.5）。它回答的问题是：量表在重复施测间是否合理稳定？例如，一组受试者在时间点 1 完成 Perceived Stress Scale（PSS），一个月后再次完成同一量表——两次得分是否具有可比性？（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch8]]）
 
 > [!concept-lens] 概念透镜
-> - **含义** 重测信度是[[Reliability\|信度]]作为**稳定性（stability）**的[[Operationalization\|操作化]]形式——衡量测量工具跨越时间的分数一致性。它属于"跨时间一致性的稳定系数"。
+> - **含义** 重测信度是[[Reliability\|信度]]作为**稳定性（stability）** 的[[Operationalization\|操作化]]形式——衡量测量工具跨越时间的分数一致性。它属于"跨时间一致性的稳定系数"。
 > - **用途** 判断量表是适合评估长期稳定特征（高重测信度）还是对近期事件更敏感（低重测信度），为研究者在工具选择和研究设计时提供依据。
 > - **边界** 重测信度不同于[[Internal Consistency\|内部一致性]]（同一时间点各条目间的一致性）和[[Inter-Rater Reliability\|评分者间信度]]（不同评分者间的一致性）。某些[[Construct\|构念]]本身就不应具有高重测信度——如"当前情绪状态"应在短期内波动，高重测信度反而说明量表不够灵敏。
 

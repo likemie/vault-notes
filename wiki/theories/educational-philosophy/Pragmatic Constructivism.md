@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-22'
-updated: 2026-09-21
+updated: 2026-10-16
 ---
 
 # Pragmatic Constructivism
@@ -58,7 +58,7 @@ updated: 2026-09-21
 > - **知识位置**[[Constructivist Paradigm\|建构主义]]教育心理学分支。由芬兰教育学家麦雅莉萨·劳斯特-von Wright（Maijaliisa Rauste-von Wright）在赫尔辛基大学任教期间系统阐发。其理论谱系直接继承了美国[[Pragmatic Paradigm\|实用主义]]者[[John Dewey\|约翰·杜威]]（John Dewey）与[[George Herbert Mead\|乔治·赫伯特·米德]]（George Herbert Mead）的思想。
 
 > [!claim] 核心主张
-> 学习是一个情境化的、身心与自然及社会环境具身交互的主动建构过程。教学不应被理解为对预设静态课程的复制，而应是一个基于学习者现有世界观、通过反思与社会互动不断调整的**“课程自我修正模型”（Self-correcting model of curriculum）（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 7–8]]）**。
+> 学习是一个情境化的、身心与自然及社会环境具身交互的主动建构过程。教学不应被理解为对预设静态课程的复制，而应是一个基于学习者现有世界观、通过反思与社会互动不断调整的 **“课程自我修正模型”（Self-correcting model of curriculum）（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 7–8]]）**。
 
 ---
 
@@ -126,4 +126,4 @@ updated: 2026-09-21
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff (2024)]] — 追溯了该理论作为芬兰[[Phenomenon-Based Learning\|现象本位学习]]（PhBL）心理学基石的思想史脉络。
+> - [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024)]] — 追溯了该理论作为芬兰[[Phenomenon-Based Learning\|现象本位学习]]（PhBL）心理学基石的思想史脉络。

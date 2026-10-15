@@ -45,7 +45,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 背景
@@ -125,7 +125,7 @@ Minerva 将其颠覆性模型建立在对传统高等教育四大问题的系统
 
 ## 知识地缘政治意义
 
-Minerva University 被 Thompson & Parreira do Amaral（2022）选为论述[[Geopolitics of Knowledge|知识地缘政治]]的开篇案例，因为它在多个层面上集中体现了当代高等教育的空间重构逻辑：
+Minerva University 被 Thompson and Parreira do Amaral（2022）选为论述[[Geopolitics of Knowledge|知识地缘政治]]的开篇案例，因为它在多个层面上集中体现了当代高等教育的空间重构逻辑：
 
 - **从民族国家框架中的"脱位"** 古典大学与民族国家及其文化科学发展紧密相连——德国的洪堡大学、法国的[[Grandes Ecoles|大学校]]、英国的牛津剑桥、美国的赠地大学，无不深嵌于特定的国家传统之中。Minerva 则"致力于超越民族国家及其他政治框架的边界"（Thompson & Parreira do Amaral, 2022, p.7），机构不再向任何一个国家教育体系负责，学生也无需锚定在任何一个学术社区
 - **在全球政治经济[[Champ|场域]]中的"再定位"** 脱位之后，Minerva 被重新嵌入由教育科技乌托邦主义、市场营销和风险资本构成的全球政治经济场域之中。它"既位于美国又服务于'世界'，从而呈现自身为场所无涉（placeless）的存在"([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.48]])，以全球市场而非国家政策为运营参照系

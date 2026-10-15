@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Common Core State Standards
@@ -222,4 +222,4 @@ updated: 2026-10-15
 > | [[Policy Entrepreneur]] | Concept | 理论透镜：[[National Governors Association\|NGA]]、[[Council of Chief State School Officers\|CCSSO]]、[[Achieve]] 及亨特研究所等行动者以政策企业家身份打破既有制度垄断。 |
 > | [[Six-Stage Model of Policymaking]] | Theory | [[Analytic Framework\|分析框架]]：共同核心标准提供了在[[Problem Finding\|问题界定]]、方案设计与政策采纳各阶段差异化运用证据的实证图谱。 |
 > | [[Elite Interview]] | Method | 经验研究方法：研究者通过对全美 111 位高层决策者、标准起草专家与工会领袖的访谈完成[[Process Tracing\|过程追踪]]。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | Argument | 核心证据来源：系统剖析共同核心标准运动中研究证据与专业经验、政治价值的动态整合。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | Argument | 核心证据来源：系统剖析共同核心标准运动中研究证据与专业经验、政治价值的动态整合。 |

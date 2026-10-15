@@ -125,7 +125,7 @@ related_theories:
   - "[[Human Capital Theory]]"
 status: draft
 created: 2026-09-06
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 # Argument_Kazamias_2009_ForgottenThemes
 
@@ -176,8 +176,8 @@ updated: 2026-10-08
 > |----------|------|
 > | **先驱奠基文献** | Arnold (1864), *A French Eton*; Arnold (1868), *Schools and Universities on the Continent*; Sadler (1898, 1900/1964, 1902) |
 > | **历史学派经典文献** | Kandel (1933), *Comparative Education*; Kandel (1955), *The New Era in Education*; Kandel (1959); Hans (1949), *Comparative Education: A Study of Educational Factors and Traditions*; Hans (1952, 1959); Ulich (1961), *The Education of Nations: A Comparison in Historical Perspective*; [[Vernon Mallinson\|Mallinson]] (1957), *An Introduction to the Study of Comparative Education* |
-> | **实证与量化批判文献** | Noah & Eckstein (1969), *Toward a Science of Comparative Education*; Holmes (1965), *Problems in Education: A Comparative Approach*; [[Philip Foster\|Foster]] (1960); Anderson (1961); Epstein (1970) |
-> | **史学理论与纪念文献** | [[Crane Brinton\|Brinton]] (1938/1952), *The Anatomy of Revolution*; Lauwerys (1959); Bereday (1965, 1966); Nash (1977); Kazamias (1961, 1963, 1966); Kazamias & Schwartz (1977) |
+> | **实证与量化批判文献** | Noah and Eckstein (1969), *Toward a Science of Comparative Education*; Holmes (1965), *Problems in Education: A Comparative Approach*; [[Philip Foster\|Foster]] (1960); Anderson (1961); Epstein (1970) |
+> | **史学理论与纪念文献** | [[Crane Brinton\|Brinton]] (1938/1952), *The Anatomy of Revolution*; Lauwerys (1959); Bereday (1965, 1966); Nash (1977); Kazamias (1961, 1963, 1966); Kazamias and Schwartz (1977) |
 
 ---
 
@@ -456,7 +456,7 @@ updated: 2026-10-08
 > [!index-table] 1960 年代实证主义学者对历史比较学派的四大核心指控
 > | 批判向度 | 实证批评代表学者与核心文献 | 核心攻击焦点与理论定性 |
 > |---|---|---|
-> | **前科学与主观臆测** | Noah & Eckstein (1969), *Toward a Science of Comparative Education* | 将萨德勒、坎德尔和汉斯归入学科演进的**前科学（Pre-scientific）因素与力量阶段**；指责其结论依赖学者个人的私人洞察力（Private insights），缺乏判定各因素相对重要性的客观标准，结论充其量只是待检验的假说。（p.53） |
+> | **前科学与主观臆测** | Noah and Eckstein (1969), *Toward a Science of Comparative Education* | 将萨德勒、坎德尔和汉斯归入学科演进的**前科学（Pre-scientific）因素与力量阶段**；指责其结论依赖学者个人的私人洞察力（Private insights），缺乏判定各因素相对重要性的客观标准，结论充其量只是待检验的假说。（p.53） |
 > | **缺乏因果预测力** | [[Brian Holmes\|Holmes]] (1965), *Problems in Education: A Comparative Approach* | 断言历史比较无法替代**科学比较教育**；学科必须是一门**概括性科学（Generalising science）**；教育决策者关心的是行动的未来后果而非历史渊源，真正的理解来自于成功的预测（Successful prediction）。（Holmes, 1965:19–21, 30） |
 > | **个殊性排斥比较** | Anderson (1961); [[Philip Foster\|Foster]] (1960) | 指责历史学派固守历史主义（Historicism），认定历史仅处理具有唯一时空坐标的个殊且不可重复现象；既然个殊事物不可比较，比较学者就必须告别历史，转向探寻规律与可重复模式的经验社会科学。 |
 > | **滑向神秘主义** | Epstein (1970) | 攻击萨德勒对[[Intangible Spiritual Forces\|无形精神力量]]（无形、不可捉摸精神力量）的强调**濒临神秘主义（Borders on mysticism）**，指责其呼吁学者关注非经验力量实质上是将严谨的实证分析引向随意的空想或灵性启示。（p.54） |
@@ -542,7 +542,7 @@ updated: 2026-10-08
 > - **1933 年** Kandel (1933) 出版 *Comparative Education*，开创国家政体解释变量与观念比较进路。（p.46）
 > - **1949 年** Hans (1949) 出版 *Comparative Education: A Study of Educational Factors and Traditions*，确立自然、宗教、世俗三维因素框架。（p.50）
 > - **1961 年** Ulich (1961) 出版 *The Education of Nations: A Comparison in Historical Perspective*，系统梳理西方文明演进对教育制度的塑造。（p.51）
-> - **1960 年代** Noah & Eckstein (1969)、Holmes (1965) 发起实证科学化批判，Kazamias (1961, 1963) 展开方法论反思与现代合法性辩护。（pp.53–56）
+> - **1960 年代** Noah and Eckstein (1969)、Holmes (1965) 发起实证科学化批判，Kazamias (1961, 1963) 展开方法论反思与现代合法性辩护。（pp.53–56）
 
 ---
 

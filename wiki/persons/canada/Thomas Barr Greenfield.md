@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 ## 简介
 
@@ -59,7 +59,7 @@ updated: 2026-10-15
 >
 > **"人性科学"的提出**
 >
-> Greenfield 主张以**[[Subjectivism\|主观主义]]/[[Phenomenology\|现象学]]方法**进行教育行政学术研究，呼吁一种"人性科学"（humane science）（见 Greenfield & Ribbins, 1993，引自）。
+> Greenfield 主张以 **[[Subjectivism\|主观主义]]/[[Phenomenology\|现象学]]方法**进行教育行政学术研究，呼吁一种"人性科学"（humane science）（见 Greenfield & Ribbins, 1993，引自）。
 >
 > > 例：与其假设可以通过统计方法客观测量"领导力有效性"，Greenfield 式研究会追问：在该组织的具体文化和社会脉络中，成员**如何理解和体验**领导力？这种主观理解如何塑造了他们的行动？
 >
@@ -74,7 +74,7 @@ updated: 2026-10-15
 > [!success] 主要贡献
 > - **挑战教育行政的逻辑[[Empiricism\|经验主义]][[Paradigm\|范式]]** — 1974 Bristol 国际互访项目上的介入，打破了理论运动构建的客观科学共识
 > - **"人性科学"的愿景** — 主张以[[Subjectivism\|主观主义]]和[[Phenomenology\|现象学]]取代[[Positivism\|实证主义]]作为教育行政研究的基础
-> - **Greenfield & Ribbins（1993）** — *Greenfield on Educational Administration*，汇集其主要论述
+> - **Greenfield and Ribbins（1993）** — *Greenfield on Educational Administration*，汇集其主要论述
 
 ## 主要著作
 

@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Institutional Isomorphism
@@ -82,7 +82,7 @@ updated: 2026-10-15
 > - **知识位置** 属于社会学新制度主义（New Institutionalism in Sociology）传统，由保罗·迪马吉奥与沃尔特·鲍威尔（DiMaggio & Powell, 1983）在《铁笼再访》（*The Iron Cage Revisited*）中系统奠定。
 
 > [!claim] 核心主张
-> 处于同一组织场域中的组织，在生存竞争中不仅受制于技术效率与资源配置，更根本地依赖于制度环境赋予的合法性。组织通过**强制型（Coercive）**、**模仿型（Mimetic）**与**规范型（Normative）**三种制度同构机制，将环境中被广泛接受的[[Rationalized Myth\|合理化神话]]与文化脚本内化为自身结构，从而导致场域内部组织形态的系统性趋同。[[Argument_Hartmann_2022_CorporateEducation\|(Hartmann, 2022, pp. 183–184)]]；[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 91–92)]]
+> 处于同一组织场域中的组织，在生存竞争中不仅受制于技术效率与资源配置，更根本地依赖于制度环境赋予的合法性。组织通过**强制型（Coercive）**、**模仿型（Mimetic）** 与**规范型（Normative）** 三种制度同构机制，将环境中被广泛接受的[[Rationalized Myth\|合理化神话]]与文化脚本内化为自身结构，从而导致场域内部组织形态的系统性趋同。[[Argument_Hartmann_2022_CorporateEducation\|(Hartmann, 2022, pp. 183–184)]]；[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 91–92)]]
 
 > [!citation-card]- 关键表述
 > 组织之所以变得越来越相似，不是因为它们在技术上变得越来越高效，而是因为它们在追求制度合法性的过程中被迫或自愿地采纳了场域中主导的制度规范。[[Argument_Hartmann_2022_CorporateEducation\|(Hartmann, 2022, p. 183)]]
@@ -198,7 +198,7 @@ updated: 2026-10-15
 > - **1977 — 新制度主义理论基石确立** [[John W. Meyer\|约翰·迈耶]]与布莱恩·罗文（Meyer & Rowan, 1977）发表《作为神话与仪式的正式组织》，指出正式结构往往是获取合法性的[[Rationalized Myth\|合理化神话]]。
 > - **1983 — 三大同构机制系统提出** 迪马吉奥与鲍威尔（DiMaggio & Powell, 1983）发表《铁笼再访》，系统界定强制型、模仿型与规范型同构，确立组织[[Champ\|场域]]分析[[Paradigm\|范式]]。
 > - **1980 年代 — 高等教育科研组织同构机制验证** 莫迪（[[Argument_Mody_2017_MOH|Mody, 2017]]）揭示，在微电子高技术重资产冲击下，美国各大学微电子中心通过标杆跟踪复制、模式主动推广以及**博士生与教员跨校流动（Personnel Mobility）**，在全美范围完成了组织形态与治理规范的经典制度同构收敛。
-> - **2022 — 跨国[[Corporate Education\|企业教育]]与教育政策深化** [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] 揭示 MNCs 企业教育中的同构权威机制与地缘政治不对称；[[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] 揭示教师教育政策中证据作为合理化神话驱动的制度同构与把关机制。
+> - **2022 — 跨国[[Corporate Education\|企业教育]]与教育政策深化** [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] 揭示 MNCs 企业教育中的同构权威机制与地缘政治不对称；[[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] 揭示教师教育政策中证据作为合理化神话驱动的制度同构与把关机制。
 
 ---
 
@@ -226,7 +226,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] — 运用三种制度同构机制分析跨国公司[[Corporate Education\|企业教育]]的国际化扩散模式与权威调动策略。
-> - [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] — 揭示英格兰教师教育治理中证据作为[[Rationalized Myth\|合理化神话]]如何驱动多方机构走向规范与强制同构。
+> - [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] — 揭示英格兰教师教育治理中证据作为[[Rationalized Myth\|合理化神话]]如何驱动多方机构走向规范与强制同构。
 > - [[Argument_Mody_2017_MOH|Mody (2017)]] — 从组织历史学角度实证检验大学微电子研究中心如何在不确定性环境下，依托同行对标复制、模型主动示范以及教员和博士毕业生跨机构流动（Personnel Mobility）实现经典模式的制度同构收敛。（p. 297）
 
 

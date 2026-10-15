@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Engineering Pragmatism
@@ -183,7 +183,7 @@ updated: 2026-10-15
 > > 围绕前沿 AI 研发应当全速工程攻坚还是前置叫停，安全对齐学派与工程[[Pragmatic Paradigm|实用主义]]学派展开激烈交锋。
 > >
 > > - **安全暂停派（2023）** 强调模型黑箱性与高毁灭概率（P(doom)），主张必须强制叫停前沿模型训练，前置解决对齐难题。
-> > - **[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]** 指出单边叫停在存在地缘对抗的现实中会导致战略失衡，主张通过进取性工程攻坚构建防务威慑并设立物理与网络隔离护栏。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 26–28)]]
+> > - **[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]** 指出单边叫停在存在地缘对抗的现实中会导致战略失衡，主张通过进取性工程攻坚构建防务威慑并设立物理与网络隔离护栏。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 26–28)]]
 
 ---
 

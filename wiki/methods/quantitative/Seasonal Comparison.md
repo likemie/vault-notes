@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 定义
@@ -84,7 +84,7 @@ updated: 2026-10-15
 ## 局限性
 
 > [!warning] 局限性
-> [[Argument_Downey_2016_SoE\|Downey & Condron (2016, pp.4–5)]] 明确讨论了季节性比较方法依赖的关键假设及潜在问题：
+> [[Argument_Downey_2016_SoE\|Downey and Condron (2016, pp.4–5)]] 明确讨论了季节性比较方法依赖的关键假设及潜在问题：
 
 
 > [!warning] 处理溢出（Treatment Spillover）

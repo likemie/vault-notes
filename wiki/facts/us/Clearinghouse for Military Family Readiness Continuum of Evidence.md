@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Clearinghouse for Military Family Readiness Continuum of Evidence
@@ -56,7 +56,7 @@ updated: 2026-10-15
 > [!info] 机构定位与运营概况
 > **军人家庭准备清算中心（[[Educational Evidence Clearinghouses\|Clearinghouse]] for Military Family Readiness, CMFR）** 是由美国国防部（DoD）、美国农业部国家食品与农业研究所（USDA/NIFA）与宾夕法尼亚州立大学联合发起设立的公共部门证据清算中心，旨在服务全美军人家庭、军属及随军子女的教育与身心发展需求([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 7]])。
 >
-> CMFR 覆盖军人子女[[Academic Achievement\|学业表现]]、心理健康、家庭适应力与就业准备等领域。当前处于**活跃运营（Active）**状态，官方平台为 [militaryfamilies.psu.edu](https://militaryfamilies.psu.edu)，持续维护“证据连续体（Continuum of Evidence）”数据库。
+> CMFR 覆盖军人子女[[Academic Achievement\|学业表现]]、心理健康、家庭适应力与就业准备等领域。当前处于**活跃运营（Active）** 状态，官方平台为 [militaryfamilies.psu.edu](https://militaryfamilies.psu.edu)，持续维护“证据连续体（Continuum of Evidence）”数据库。
 
 ---
 

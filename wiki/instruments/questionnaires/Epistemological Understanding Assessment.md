@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-09-11
+updated: 2026-10-16
 ---
 
 # Epistemological Understanding Assessment
@@ -84,11 +84,11 @@ updated: 2026-09-11
 > - **题项形式** 情境题（由两名虚构人物 Robin and Chris 提出相互对立的陈述）。
 > - **作答格式** 结构化的两步多项选择。
 >   1. 第一步判断主观性（绝对论筛选题）："Can only one of their views be right, or could both have some [[Rightness]]?"（仅有一方观点正确，还是双方的观点都可能具有一定的合理性？）
->      - 选项 A：ONLY ONE RIGHT（仅一方正确） $\rightarrow$ 判定为**[[Absolutist\|绝对论者]] (Absolutist)**。
+>      - 选项 A：ONLY ONE RIGHT（仅一方正确） $\rightarrow$ 判定为 **[[Absolutist\|绝对论者]] (Absolutist)**。
 >      - 选项 B：BOTH COULD HAVE SOME RIGHTNESS（双方均可能有合理性） $\rightarrow$ 进入第二步。
 >   2. 第二步判断客观性（多元/评价论区分题，仅在第一步选 B 时回答）："Could one view be better or more right than the other?"（其中一种观点能比另一种更好或更正确吗？）
->      - 选项 C：ONE COULD NOT BE MORE RIGHT THAN THE OTHER（不可能有一方更正确） $\rightarrow$ 判定为**[[Multiplist\|多元论者]] (Multiplist)**。
->      - 选项 D：ONE COULD BE MORE RIGHT（有一方可以更正确） $\rightarrow$ 判定为**[[Evaluativist\|评价论者]] (Evaluativist)**。
+>      - 选项 C：ONE COULD NOT BE MORE RIGHT THAN THE OTHER（不可能有一方更正确） $\rightarrow$ 判定为 **[[Multiplist\|多元论者]] (Multiplist)**。
+>      - 选项 D：ONE COULD BE MORE RIGHT（有一方可以更正确） $\rightarrow$ 判定为 **[[Evaluativist\|评价论者]] (Evaluativist)**。
 > - **反向题与跳题** 根据第一步的回答具有跳题逻辑（第一步选 A，则该题项评定结束）。
 
 ### 个人品味

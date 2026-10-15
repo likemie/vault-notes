@@ -45,7 +45,7 @@ related_methods:
 related_persons: []
 status: active
 created: 2026-08-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Constructed Knowledge
 （建构知识）
@@ -79,9 +79,9 @@ updated: 2026-10-15
 > - **建构知识（Constructed Knowledge）** 整合了主客观策略，认为知识和真理是情境化的、可被重构的，认知者自身是[[Knowledge Building Theory|知识建构]]的紧密参与者。
 
 > [!framework-table] 跨模型阶段对照
-> [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 对比了五大发展模型的阶段对应关系，建构知识对应各模型的顶级成熟阶段：
+> [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 对比了五大发展模型的阶段对应关系，建构知识对应各模型的顶级成熟阶段：
 >
-> | Perry (1970) | Belenky et al. (1986) | King & Kitchener (1994) | Kuhn (1991) |
+> | Perry (1970) | Belenky et al. (1986) | King and Kitchener (1994) | Kuhn (1991) |
 > |---|---|---|---|
 > | 相对主义内的承诺 | **建构知识** | 反思思维（第 6–7 阶段） | [[Evaluativist\|评价论者]] |
 
@@ -146,5 +146,5 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] — 系统梳理了[[Epistemology\|认识论]]发展模型，将建构知识置于跨模型对比框架中，同时提出了对该模型样本局限与理论偏重的批评。
+> - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 系统梳理了[[Epistemology\|认识论]]发展模型，将建构知识置于跨模型对比框架中，同时提出了对该模型样本局限与理论偏重的批评。
 > - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] — 以[[Meta-analysis\|元分析]]视角评估了发展论模型（含建构[[Knowledge Framework\|知识框架]]）作为调节[[Variable\|变量]]对[[Academic Achievement\|学业成就]]预测效力的影响，并指出将[[Constructivist Paradigm\|建构主义]]量表误用于认识论测量是该领域的主要混杂因素。

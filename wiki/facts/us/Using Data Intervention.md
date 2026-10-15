@@ -52,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-16
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Using Data Intervention
@@ -62,7 +62,7 @@ updated: 2026-10-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **数据使用干预试验（Using Data Intervention）**是由美国[[Institute of Education Sciences\|教育科学研究院]]（Institute of Education Sciences, IES）资助、卡瓦卢佐等学者（Cavalluzzo et al., 2014）评估的大规模整群[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）。试验覆盖美国佛罗里达州 60 所公立小学，旨在评估以“基于数据决策”为核心的密集教师专业发展与技术协作援助，能否有效提升教师[[Data Literacy\|数据素养]]、改善微观课堂教学，并最终促进 4 年级与 5 年级学生的数学标准化统考[[Academic Achievement\|学业成就]]。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 592)]]
+> **数据使用干预试验（Using Data Intervention）** 是由美国[[Institute of Education Sciences\|教育科学研究院]]（Institute of Education Sciences, IES）资助、卡瓦卢佐等学者（Cavalluzzo et al., 2014）评估的大规模整群[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）。试验覆盖美国佛罗里达州 60 所公立小学，旨在评估以“基于数据决策”为核心的密集教师专业发展与技术协作援助，能否有效提升教师[[Data Literacy\|数据素养]]、改善微观课堂教学，并最终促进 4 年级与 5 年级学生的数学标准化统考[[Academic Achievement\|学业成就]]。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 592)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 2011 年正式启动，持续推进两学年密集干预与终期评估，于 2014 年发布国家级独立评估报告（Cavalluzzo et al., 2014）。

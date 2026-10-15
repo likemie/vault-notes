@@ -55,7 +55,7 @@ related_persons:
   - "[[John Biggs]]"
 status: draft
 created: 2026-07-28
-updated: 2026-09-24
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Biggs_1999_HERD"
@@ -184,7 +184,7 @@ issuing_organization: ""
 > [!dev-timeline] 学生学习[[Paradigm\|范式]]的理论谱系
 > - **20 世纪以来：[[Constructivist Paradigm\|建构主义]]形成独立谱系。** 建构主义早于后来的学生阅读研究，在认知心理学中有着更长的独立历史。Piaget 是其中的关键人物，当代建构主义又发展出个体、社会、认知和后现代等多种形式 (Steffe & Gale, 1995; Biggs, p. 60)。
 > - **1976 年：瑞典学生学习研究起步。** Marton & Säljö (1976) 通过阅读任务区分表层学习和深层学习，把分析重点从学生的固定属性转向他们处理具体任务的方式（pp. 59–60）。
-> - **1979–1987 年：不同国家的研究路线逐渐汇合。** 澳大利亚的 Biggs (1979) 从认知心理学出发研究学生学习；Marton (1981) 将这条由早期阅读研究发展而来的理论路线命名为[[Phenomenography\|现象图式学]]；英国的 Entwistle & Ramsden (1983) 从个体差异心理学出发；Biggs (1987) 则继续发展澳大利亚路线。三条路线起点不同，却都关注学生如何在具体情境中主动处理学习任务（p. 60）。
+> - **1979–1987 年：不同国家的研究路线逐渐汇合。** 澳大利亚的 Biggs (1979) 从认知心理学出发研究学生学习；Marton (1981) 将这条由早期阅读研究发展而来的理论路线命名为[[Phenomenography\|现象图式学]]；英国的 Entwistle and Ramsden (1983) 从个体差异心理学出发；Biggs (1987) 则继续发展澳大利亚路线。三条路线起点不同，却都关注学生如何在具体情境中主动处理学习任务（p. 60）。
 > - **1999 年：Biggs 整合两条理论路线。** 比格斯将现象图式学和[[Constructivist Paradigm\|建构主义]]视为学生学习范式中的两条主要理论路线。为了给教师提供便于反思和改进教学的框架，他更倾向采用建构主义，同时用两者共享的判断把它们联系起来：教师无法直接把意义交给学生，学生必须通过学习活动自行建构意义（p. 60）。
 
 > [!case] Marton & Säljö (1976) 的阅读任务

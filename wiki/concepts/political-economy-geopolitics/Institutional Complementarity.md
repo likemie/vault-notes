@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Institutional Complementarity
@@ -55,7 +55,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **制度互补性（Institutional Complementarity）**指一国经济体制中不同子领域的制度安排之间存在的协同增效关系，即某一制度（如劳资协调）的存在或运作能够显著提高另一制度（如特定技能培训或长期关系型融资）的边际运行回报（Marginal Return）；[[Varieties of Capitalism|资本主义多样性]]（Varieties of Capitalism, VoC）理论将其视为区分协调市场经济（CME）与自由市场经济（LME）的核心支柱，而[[Historical Institutionalism|历史制度主义]]渐进变迁学派则批判其将互补性视为“无外生激变便不可变动”的功能主义超稳定假设，主张将互补性重新理解为充满结构性松弛与内生杂糅的动态过程。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–6, 19–21)]]
+> **制度互补性（Institutional Complementarity）** 指一国经济体制中不同子领域的制度安排之间存在的协同增效关系，即某一制度（如劳资协调）的存在或运作能够显著提高另一制度（如特定技能培训或长期关系型融资）的边际运行回报（Marginal Return）；[[Varieties of Capitalism|资本主义多样性]]（Varieties of Capitalism, VoC）理论将其视为区分协调市场经济（CME）与自由市场经济（LME）的核心支柱，而[[Historical Institutionalism|历史制度主义]]渐进变迁学派则批判其将互补性视为“无外生激变便不可变动”的功能主义超稳定假设，主张将互补性重新理解为充满结构性松弛与内生杂糅的动态过程。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–6, 19–21)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 刻画金融、公司治理、劳动关系、教育培训与社会保障等不同制度子系统之间的[[Structural Coupling|结构耦合]]与相互强化效应。
@@ -81,7 +81,7 @@ updated: 2026-10-15
 > | **核心假定** | 制度结构紧密耦合、高度一致 | 制度间存在逻辑裂隙与功能松弛（Slack） | 新制度逻辑在旧互补性外围累积层叠 |
 > | **变迁观念** | 间断均衡：非整体存续即全盘崩溃 | 内生演化：在互补性外壳下渐进脱节 | 制度杂糅（Hybridization）：多元模式并存 |
 > | **行动者角色** | 企业作为被动适应制度激励的协调者 | 行动者主动利用制度空隙推进策略重组 | [[Subversives\|颠覆者]]与[[Opportunists\|机会主义者]]利用边缘机制套利 |
-> | **典型代表** | [[Peter A. Hall\|Hall & Soskice (2001)]] | [[Wolfgang Streeck\|Streeck & Thelen (2005)]] | Crouch & Keune (2005); Thelen (2004) |
+> | **典型代表** | [[Peter A. Hall\|Hall & Soskice (2001)]] | [[Wolfgang Streeck\|Streeck & Thelen (2005)]] | Crouch and Keune (2005); Thelen (2004) |
 
 ---
 
@@ -163,8 +163,8 @@ updated: 2026-10-15
 > > [!axis] 协调市场体制的互补性是不可分割的有机整体还是可拆解的复合体
 > > 围绕制度互补性是否锁死了制度演化空间展开的学术交锋。
 > >
-> > - **Peter A. Hall & David Soskice（2001）** 协调体制的各部分相互依赖程度极高，牵一发而动全身，单方面的制度脱节会引发系统失灵，因此体制倾向于维持整体稳态。
-> > - **Wolfgang Streeck & Kathleen Thelen（2005）** 互补性并不等于不可更改；实证经验证明企业与国家能够在维持某一领域协调的同时，在金融或劳动力市场外围推进实质[[Liberalization|自由化]]，制度互补性绝非阻止制度变革的免疫盾牌。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 20–22)]]
+> > - **Peter A. Hall and David Soskice（2001）** 协调体制的各部分相互依赖程度极高，牵一发而动全身，单方面的制度脱节会引发系统失灵，因此体制倾向于维持整体稳态。
+> > - **Wolfgang Streeck and Kathleen Thelen（2005）** 互补性并不等于不可更改；实证经验证明企业与国家能够在维持某一领域协调的同时，在金融或劳动力市场外围推进实质[[Liberalization|自由化]]，制度互补性绝非阻止制度变革的免疫盾牌。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 20–22)]]
 
 > [!warning] 适用局限
 > 制度互补性模型高度适用于成熟的发达工业化经济体（如[[OECD|经合组织]]成员国）；在制度建设尚未定型、非正式规制占主导或治理高度碎片化的转型期与发展中经济体中，不同领域制度往往处于脱节状态，难以观察到稳定的互补性强化逻辑。
@@ -174,4 +174,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 批判[[Varieties of Capitalism|资本主义多样性]]文献中的制度互补性静态偏误，提出基于制度松弛、杂糅与层叠的渐进演化模型（pp. 4–6, 19–22）。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 批判[[Varieties of Capitalism|资本主义多样性]]文献中的制度互补性静态偏误，提出基于制度松弛、杂糅与层叠的渐进演化模型（pp. 4–6, 19–22）。

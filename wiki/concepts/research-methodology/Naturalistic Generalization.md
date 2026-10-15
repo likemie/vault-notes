@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Naturalistic Generalization
@@ -78,7 +78,7 @@ Larsson（2009, p. 36）最终论证：质性研究概括化的**责任在于读
 
 ## 概括性的操作标准：可比较性与可翻译性
 
-LeCompte & Preissle（1993, p. 47）将[[Ethnography|民族志]]的概括性重释为两个操作标准（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011]], pp. 406–407）：
+LeCompte and Preissle（1993, p. 47）将[[Ethnography|民族志]]的概括性重释为两个操作标准（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011]], pp. 406–407）：
 
 > [!term] 可比较性（Comparability）与可翻译性（Translatability）
 > **可比较性**——所研究群体特征需充分明确描述，以便读者与其他群体比较。**可翻译性**——分析范畴和研究群体特征需明确化，以便跨群体和学科的有意义比较。
@@ -100,4 +100,4 @@ LeCompte & Preissle（1993, p. 47）将[[Ethnography|民族志]]的概括性重�
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al. (2011)]] — 系统阐述[[Qualitative Research\|质性研究]]的概括性问题，包括 Larsson（2009）的三种概括性推理形式、LeCompte & Preissle（1993）的可比较性与可翻译性标准、Lincoln & Guba 的可转移性概念，以及 Wolcott（1994）关于个体描述性研究需要概括性价值的论述。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al. (2011)]] — 系统阐述[[Qualitative Research\|质性研究]]的概括性问题，包括 Larsson（2009）的三种概括性推理形式、LeCompte and Preissle（1993）的可比较性与可翻译性标准、Lincoln & Guba 的可转移性概念，以及 Wolcott（1994）关于个体描述性研究需要概括性价值的论述。

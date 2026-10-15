@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Informal Reasoning
 
@@ -127,8 +127,8 @@ updated: 2026-10-15
 > [!contrast-table] 非形式推理核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **认知心理命题** | 理性、情感与直觉三元推理模式的共存与协调 | 心理学实验、道德认知发展测验、个案访谈 | Sadler & Zeidler (2005); Voss et al. (1989) |
-> | **课程[[Epistemology\|认识论]]命题** | 非形式推理对多元证据评估与公共审议素养的培育 | 科学探究课堂、社会科学议题辩论、公民教育 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]; Zeidler et al. (2009) |
+> | **认知心理命题** | 理性、情感与直觉三元推理模式的共存与协调 | 心理学实验、道德认知发展测验、个案访谈 | Sadler and Zeidler (2005); Voss et al. (1989) |
+> | **课程[[Epistemology\|认识论]]命题** | 非形式推理对多元证据评估与公共审议素养的培育 | 科学探究课堂、社会科学议题辩论、公民教育 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]; Zeidler et al. (2009) |
 
 ---
 
@@ -153,4 +153,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] — 对比探究科学与[[Socioscientific Issues\|社会科学议题]]在证据范围与非形式推理要求上的本质区别。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 对比探究科学与[[Socioscientific Issues\|社会科学议题]]在证据范围与非形式推理要求上的本质区别。

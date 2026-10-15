@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Sociology of Valuation and Evaluation
@@ -88,5 +88,5 @@ updated: 2026-10-08
 
 > [!warning]
 > - **"评估必要论"的风险** 评估与赋值社会学在揭示评估工具的负面效应的同时，也面临一个微妙的风险——在分析评估工具如何"成功"制造合法性和信任时，可能隐性地接受评估的必要性。Reitz从功能主义角度论证学术评估对[[Knowledge Capitalism\|知识资本主义]]是功能必要的——这一立场与评估社会学内部的批评性立场存在张力（pp.804–805, 809）
-> - **理论综合不足**虽然 Espeland & Sauder（2007）的"排名的履行性与反应性"分析和 Münch 的"学术卓越的社会建构"研究推动了实践理论和[[Post-structuralism\|后结构主义]]在评估社会学中的运用，但"需要更多的理论综合来有效探索学术绩效测量和评估的起源与功能"（p.798）
+> - **理论综合不足**虽然 Espeland and Sauder（2007）的"排名的履行性与反应性"分析和 Münch 的"学术卓越的社会建构"研究推动了实践理论和[[Post-structuralism\|后结构主义]]在评估社会学中的运用，但"需要更多的理论综合来有效探索学术绩效测量和评估的起源与功能"（p.798）
 

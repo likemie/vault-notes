@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Perry Beeches
@@ -62,7 +62,7 @@ updated: 2026-10-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **Perry Beeches（佩里比奇斯辅导项目，全称 Perry Beeches Coaching Programme）**是由英国伯明翰著名的佩里比奇斯学院（Perry Beeches The Academy Trust）创设、由英国国家教育研究基金会（NFER）受英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）委托开展独立评估的小学升初中关键期助教一对一辅导方案；其核心战略是针对小学六年级（UK Year 6，约 10–11 岁）在毕业统考（Key Stage 2 SATS）中处于未达标风险边缘的学困生，由学校专职聘用的资深教学助教实施为期一学期的高频个性化一对一辅导，抢抓初中分流前的最后关键期。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> **Perry Beeches（佩里比奇斯辅导项目，全称 Perry Beeches Coaching Programme）** 是由英国伯明翰著名的佩里比奇斯学院（Perry Beeches The Academy Trust）创设、由英国国家教育研究基金会（NFER）受英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）委托开展独立评估的小学升初中关键期助教一对一辅导方案；其核心战略是针对小学六年级（UK Year 6，约 10–11 岁）在毕业统考（Key Stage 2 SATS）中处于未达标风险边缘的学困生，由学校专职聘用的资深教学助教实施为期一学期的高频个性化一对一辅导，抢抓初中分流前的最后关键期。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 2013 年获 EEF 重点资助启动多中心[[Randomised Controlled Trials\|随机对照试验]]，2015 年发布终期因果评估报告。

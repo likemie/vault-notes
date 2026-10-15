@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-02
+updated: 2026-10-16
 ---
 
 # Developer-Made Measures
@@ -75,7 +75,7 @@ updated: 2026-10-02
 ## 定义
 
 > [!def] 核心定义
-> **开发者自编测验（Developer-Made Measures / Researcher-Made Measures）**是指在教育干[[Pilot Testing\|预实验]]与教学效果评估中，由方案的研发者、商业出版机构或课题研究团队自行编制，未经过国家公信力认证与大规模独立标准化的[[Academic Achievement\|学业成就]]测量工具。实证研究与[[Systematic Review\|系统综述]]表明，这类测验通常高度贴合特定干预材料中的词汇表、特定解题套路或离散知识点，导致实验组表现出虚假的超额优势，平均将学业[[Effect Size\|效应量]]人为虚夸 50% 至 100%（例如将标准测验中真实的 $+0.20$ 膨胀至 $+0.50$ 以上）。在现代[[Evidence-Based Education\|循证教育]]治理中，强效清算中心（[[What Works Clearinghouse\|WWC]]）、[[Evidence for ESSA]] 以及英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）等独立证据审查平台均已建立刚性质量准则，严格排除开发者自编测验作为确证性因果评级的合法依据，强制要求统一采用独立的第三方标准化测验或州统一统考数据。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 3–4, 10)]]
+> **开发者自编测验（Developer-Made Measures / Researcher-Made Measures）** 是指在教育干[[Pilot Testing\|预实验]]与教学效果评估中，由方案的研发者、商业出版机构或课题研究团队自行编制，未经过国家公信力认证与大规模独立标准化的[[Academic Achievement\|学业成就]]测量工具。实证研究与[[Systematic Review\|系统综述]]表明，这类测验通常高度贴合特定干预材料中的词汇表、特定解题套路或离散知识点，导致实验组表现出虚假的超额优势，平均将学业[[Effect Size\|效应量]]人为虚夸 50% 至 100%（例如将标准测验中真实的 $+0.20$ 膨胀至 $+0.50$ 以上）。在现代[[Evidence-Based Education\|循证教育]]治理中，强效清算中心（[[What Works Clearinghouse\|WWC]]）、[[Evidence for ESSA]] 以及英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）等独立证据审查平台均已建立刚性质量准则，严格排除开发者自编测验作为确证性因果评级的合法依据，强制要求统一采用独立的第三方标准化测验或州统一统考数据。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 3–4, 10)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向评估工具与干预方案之间由于同一主体设计而产生的“测量过度对齐（Overalignment）”与内在偏倚。

@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Necropolitics
@@ -82,7 +82,7 @@ updated: 2026-10-07
 > [!claim] 布拉格（Bulag）：中国“自我牺牲”式死亡政治
 > 乌拉迪恩·E·布拉格（Uradyn E. Bulag, 2024）指出，中国死亡政治的独特之处在于，它不仅包括对少数民族文化和身份的强制清除，还要求少数民族主动“自愿”为[[Zhonghua Minzu\|中华民族]]做出自我牺牲（self-sacrifice），即把自身文化和制度的消亡内化为对大一统乌托邦的道德贡献。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 98, 109]])
 > 
-> 这一机制运用了莫什·哈尔伯塔尔（Moshe Halbertal, 2012）的**[[Sacrifice Theory\|牺牲理论]]**
+> 这一机制运用了莫什·哈尔伯塔尔（Moshe Halbertal, 2012）的 **[[Sacrifice Theory\|牺牲理论]]**
 > - 既然善的标志是它值得牺牲，那么反过来“牺牲使得某物变善”。
 > - 幸存者的负罪感和债务感会转化为对国家的持续忠诚。
 > - 国家通过将少数民族的文化消亡重塑为“自我牺牲”，不仅完成了同化，更在道德上为其提供了正当性。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 109]])

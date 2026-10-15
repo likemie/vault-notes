@@ -65,7 +65,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-31
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Thematic Synthesis
@@ -167,4 +167,4 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — 遵循 Thomas & Harden (2008) 的主题综合法，对 67 篇探讨 ChatGPT 对高校学生批判与[[Creativity\|创造性思维]]影响的实证文献进行三阶段[[Coding in Qualitative Research\|质性编码]]与主题聚类，构建[[Man-Computer Symbiosis|人机协同]]认知共现演进模型。
+> - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — 遵循 Thomas and Harden (2008) 的主题综合法，对 67 篇探讨 ChatGPT 对高校学生批判与[[Creativity\|创造性思维]]影响的实证文献进行三阶段[[Coding in Qualitative Research\|质性编码]]与主题聚类，构建[[Man-Computer Symbiosis|人机协同]]认知共现演进模型。

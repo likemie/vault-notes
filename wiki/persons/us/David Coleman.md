@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # David Coleman
@@ -147,6 +147,6 @@ updated: 2026-10-15
 > | [[College and Career Readiness]] | 核心理念 | 将大学与职业就绪[[Operationalization\|操作化]]为以文本证据和文本复杂度为核心的起草规则。 |
 > | [[Achieve]] | 智库机构 | 深度协作其主持的[[American Diploma Project\|美国文凭项目]]并将成果输入通用标准草案。 |
 > | [[National Governors Association]] | 组织机构 | 接受其正式委托开展全国统一标准方案的文本研制与多轮修订。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证文献 | 详细记录科尔曼主导起草团队如何调用 ACT 数据与填补科研实证空白的研究。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 详细记录科尔曼主导起草团队如何调用 ACT 数据与填补科研实证空白的研究。 |
 
 ---

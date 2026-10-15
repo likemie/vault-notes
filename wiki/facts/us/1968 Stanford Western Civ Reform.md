@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # 1968 Stanford Western Civ Reform
@@ -48,7 +48,7 @@ updated: 2026-10-08
 ## 背景与历史成因
 
 > [!claim] 核心定性
-> **1968年斯坦福[[Western Civilization Course|西方文明课]]程改革（1968 Stanford Western Civ Reform）**指斯坦福大学在1968年11月由赫伯特·L·帕克（Herbert L. Packer）领导的十人委员会发布正式调查报告，决定废除自二战结束以来作为全校本科生统一必修通识核心的西方文明史（History of Western Civilization）课程的历史事件。该事件标志着美国顶尖精英大学从维护西方正典共识向多元化与自由选修机制撤退的标志性转折点。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 87–88)]]
+> **1968年斯坦福[[Western Civilization Course|西方文明课]]程改革（1968 Stanford Western Civ Reform）** 指斯坦福大学在1968年11月由赫伯特·L·帕克（Herbert L. Packer）领导的十人委员会发布正式调查报告，决定废除自二战结束以来作为全校本科生统一必修通识核心的西方文明史（History of Western Civilization）课程的历史事件。该事件标志着美国顶尖精英大学从维护西方正典共识向多元化与自由选修机制撤退的标志性转折点。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 87–88)]]
 
 > [!event-context] 事件背景
 > - **时间节点** 1968年11月报告发布，1969年课程正式终止。

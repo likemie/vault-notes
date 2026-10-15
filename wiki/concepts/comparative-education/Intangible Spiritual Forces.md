@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Intangible Spiritual Forces
@@ -66,7 +66,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **无形精神力量（Intangible Spiritual Forces / Intangible, Impalpable, Spiritual Forces）**是比较教育历史主义学派用以阐释国家教育体系内在生命力与情境不可移植性的终极[[Ontology\|本体论]]范畴，由英国比较教育先驱[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）在 1900 年吉尔福德演讲中首次明确阐发，并由[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）进一步体系化。该概念断言，任何成功的国家教育体系绝非纯粹的技术设计、校舍设施、法律条例或课程大纲的机械相加，而是维系于校外深层、不可捉摸、无法直接度量但客观存在的历史文化传统、民族伦理信仰与精神生命纽带；正是这些无形力量在现实中支撑着整个学校制度的运转，并决定着其最终的实践效能。[[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009, pp. 41, 44–45)]]; [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 59–60)]]
+> **无形精神力量（Intangible Spiritual Forces / Intangible, Impalpable, Spiritual Forces）** 是比较教育历史主义学派用以阐释国家教育体系内在生命力与情境不可移植性的终极[[Ontology\|本体论]]范畴，由英国比较教育先驱[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）在 1900 年吉尔福德演讲中首次明确阐发，并由[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）进一步体系化。该概念断言，任何成功的国家教育体系绝非纯粹的技术设计、校舍设施、法律条例或课程大纲的机械相加，而是维系于校外深层、不可捉摸、无法直接度量但客观存在的历史文化传统、民族伦理信仰与精神生命纽带；正是这些无形力量在现实中支撑着整个学校制度的运转，并决定着其最终的实践效能。[[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009, pp. 41, 44–45)]]; [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 59–60)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向支撑学校制度运转的深层精神文化基底，将教育理解为植根于民族历史生命中的有机活体，而非脱离土壤的孤立机器。

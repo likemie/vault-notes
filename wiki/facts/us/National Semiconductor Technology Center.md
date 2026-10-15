@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # National Semiconductor Technology Center
@@ -83,7 +83,7 @@ updated: 2026-10-15
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **国家半导体技术中心（National Semiconductor Technology Center, [[National Science and Technology Council|NSTC]]）**是依据美国《2022 年[[CHIPS and Science Act|芯片与科学法案]]》（CHIPS and Science Act of 2022）授权设立、由商务部国家标准与技术研究院（National Institute of Standards and Technology, NIST）、国防部（Department of Defense, DOD）、能源部（[[Department of Energy|DOE]]）与国家科学基金会（[[National Science Foundation|NSF]]）联合指导，并由独立非营利实体国家先进技术与半导体合作体（[[Natcast|National Center for the Advancement of Semiconductor Technology]], Natcast）运营的国家级公私研发合作枢纽。作为 110 亿美元国家半导体研发计划的核心中枢，NSTC 汇聚全美工业界、顶尖[[Research Universities|研究型大学]]与国家实验室力量，旨在构建开放共享的[[Pilot Scale Platform|中试验证平台]]，攻克从“实验室到量产代工厂”（[[Translational Research|lab-to-fab]]）的产业化断层，加速前沿微电子技术从概念向规模化商业制造转化，全面保障国家安全与本土供应链韧性。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–238)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 2, 8)]]
+> **国家半导体技术中心（National Semiconductor Technology Center, [[National Science and Technology Council|NSTC]]）** 是依据美国《2022 年[[CHIPS and Science Act|芯片与科学法案]]》（CHIPS and Science Act of 2022）授权设立、由商务部国家标准与技术研究院（National Institute of Standards and Technology, NIST）、国防部（Department of Defense, DOD）、能源部（[[Department of Energy|DOE]]）与国家科学基金会（[[National Science Foundation|NSF]]）联合指导，并由独立非营利实体国家先进技术与半导体合作体（[[Natcast|National Center for the Advancement of Semiconductor Technology]], Natcast）运营的国家级公私研发合作枢纽。作为 110 亿美元国家半导体研发计划的核心中枢，NSTC 汇聚全美工业界、顶尖[[Research Universities|研究型大学]]与国家实验室力量，旨在构建开放共享的[[Pilot Scale Platform|中试验证平台]]，攻克从“实验室到量产代工厂”（[[Translational Research|lab-to-fab]]）的产业化断层，加速前沿微电子技术从概念向规模化商业制造转化，全面保障国家安全与本土供应链韧性。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–238)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 2, 8)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2022 年 8 月依据美国公法第 117-167 号（《芯片法案》）立法授权设立；旨在应对全球芯片供应链中断危机、地缘科技博弈以及先进逻辑制程制造过度向东亚集中的国家安全风险。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–4)]]

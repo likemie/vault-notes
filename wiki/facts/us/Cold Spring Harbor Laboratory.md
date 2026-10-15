@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Cold Spring Harbor Laboratory
@@ -53,7 +53,7 @@ updated: 2026-10-08
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **冷泉港实验室（Cold Spring Harbor Laboratory, CSHL）**是美国历史悠久且极具国际影响力的非营利独立私立生物医学科研与教育机构，长期深耕分子生物学、遗传学、癌症机理、神经生物学与定量生物学前沿，是以科学家高度自主探索与高频国际学术交流为特征的典范研究机构。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 21)]]
+> **冷泉港实验室（Cold Spring Harbor Laboratory, CSHL）** 是美国历史悠久且极具国际影响力的非营利独立私立生物医学科研与教育机构，长期深耕分子生物学、遗传学、癌症机理、神经生物学与定量生物学前沿，是以科学家高度自主探索与高频国际学术交流为特征的典范研究机构。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 21)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 始创于 1890 年，最初作为布鲁克林文理学院的生物实验室，后逐步演变为独立的现代遗传学与分子生物学国际重镇。

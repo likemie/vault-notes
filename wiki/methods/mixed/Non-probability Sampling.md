@@ -57,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-21
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Non-probability Sampling
 
@@ -123,4 +123,4 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统梳理非[[Random Sampling\|概率抽样]]的七种类型，提供 Teddlie & Yu（2007）[[Purposeful Sampling\|目的性抽样]]类型学和 Heckathorn（1997, 2002）[[Snowball Sampling\|受访者驱动抽样]]的详细讨论。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统梳理非[[Random Sampling\|概率抽样]]的七种类型，提供 Teddlie and Yu（2007）[[Purposeful Sampling\|目的性抽样]]类型学和 Heckathorn（1997, 2002）[[Snowball Sampling\|受访者驱动抽样]]的详细讨论。

@@ -97,7 +97,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 
 # Institute of Education Sciences
@@ -107,7 +107,7 @@ updated: 2026-10-14
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **美国教育科学研究院（Institute of Education Sciences, IES）**是美国教育部下辖的核心官方科学与统计管理机构，依据《[[Education Sciences Reform Act 2002|2002年教育科学改革法]]案》（Education Sciences Reform Act of 2002）组建，旨在通过资助与推行严格、客观、透明且具有实践行动力的因果实证研究与大规模教育统计，重塑全美教育决策的科学基石，促进学生[[Academic Achievement\|学业成就]]的实质改善。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 206–207, 209)]]; [[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 571)]]
+> **美国教育科学研究院（Institute of Education Sciences, IES）** 是美国教育部下辖的核心官方科学与统计管理机构，依据《[[Education Sciences Reform Act 2002|2002年教育科学改革法]]案》（Education Sciences Reform Act of 2002）组建，旨在通过资助与推行严格、客观、透明且具有实践行动力的因果实证研究与大规模教育统计，重塑全美教育决策的科学基石，促进学生[[Academic Achievement\|学业成就]]的实质改善。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 206–207, 209)]]; [[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 571)]]
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 2002 年依据美国联邦立法创设，取代原有的[[Office of Educational Research and Improvement|教育研究与改进办公室]]（Office of Educational Research and Improvement, OERI），旨在从制度层面确立教育科学研究的专业独立性，摆脱党派政治与意识形态对教育科研立项与数据发布的干预。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 206)]]
@@ -261,8 +261,8 @@ updated: 2026-10-14
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | Whitehurst (2009); Loveless (2012)，引自 [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013, p. 21)]] | 全美各州历年课程标准质量评级与 [[National Assessment of Educational Progress\|NAEP]] 统考历史数据库 | 宏观政策评价与跨州相关分析 | 州立课程标准评级 vs NAEP 实际[[Academic Achievement\|学业成绩]]相关性 | 外部机构评定的州标准质量等级与 NAEP 成绩相关系数为 **0**（无统计相关性） | $r \approx 0$ | IES 创始领导层以此实证结果质疑国家标准运动，力陈课程教材对学业的效应远大于宏观标准 |
-> | Schmidt & Houang (2012)，引自 [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013, pp. 21–22)]] | 全美各州 2009 年数学标准文本及 NAEP 纵向学业数据 | 课程连贯性建模与[[Multiple Regression\|多元回归]]分析（控制贫困率及切分点） | 州标准与 [[Common Core State Standards\|CCSS]] 相似度（Proximity）vs NAEP 成绩增益 | 原标准与 CCSS 相似度越高的州，NAEP 成绩显著更高且增速更快 | $p < .05$ | 证实严谨连贯的宏观标准具有长效提分效应，反驳了标准与学业脱钩的虚无主义论点 |
+> | Whitehurst (2009); Loveless (2012)，引自 [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013, p. 21)]] | 全美各州历年课程标准质量评级与 [[National Assessment of Educational Progress\|NAEP]] 统考历史数据库 | 宏观政策评价与跨州相关分析 | 州立课程标准评级 vs NAEP 实际[[Academic Achievement\|学业成绩]]相关性 | 外部机构评定的州标准质量等级与 NAEP 成绩相关系数为 **0**（无统计相关性） | $r \approx 0$ | IES 创始领导层以此实证结果质疑国家标准运动，力陈课程教材对学业的效应远大于宏观标准 |
+> | Schmidt and Houang (2012)，引自 [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013, pp. 21–22)]] | 全美各州 2009 年数学标准文本及 NAEP 纵向学业数据 | 课程连贯性建模与[[Multiple Regression\|多元回归]]分析（控制贫困率及切分点） | 州标准与 [[Common Core State Standards\|CCSS]] 相似度（Proximity）vs NAEP 成绩增益 | 原标准与 CCSS 相似度越高的州，NAEP 成绩显著更高且增速更快 | $p < .05$ | 证实严谨连贯的宏观标准具有长效提分效应，反驳了标准与学业脱钩的虚无主义论点 |
 > | [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] | 美国联邦教育科研资助与 SEER 框架全美落地生态 | 官方政策报告与科研治理分析 | 年科研投资额（约 1.5 亿美元）、SEER 九大准则、十万级数字学习平台用户覆盖 | 强制实施方案[[Preregistration\|预注册]]、干预构件拆解、真实成本核算及第三方通用独立测量 | — | 确立联邦最高教育科研机构从单一[[Internal Validity\|内部效度]]走向多维科研卓越的制度标杆（pp. 206–209） |
 > | [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] | IES 资助的佛罗里达 [[Using Data Intervention\|Using Data]] 数据使用干预试验（117 所学校，439 名教师） | 4 级最高因果等级整群[[Randomised Controlled Trials\|随机对照试验]]（RCT） | 教师密集数据培训、教师协作行为变化与全州学生统考成绩增益 | 教师协作与数据研讨行为显著上升，但学生统考阅读与数学增益为零（$ES = 0.02$） | 不显著 | 实证揭示单纯教师数据培训与学生学业产出脱节的因果困境（pp. 571, 592） |
 > | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | IES 资助的投资创新计划（i3/[[Education Innovation and Research\|EIR]]）百余项整群 RCT 评估及全校改革试验 | 宏观政策综述与资助杠杆分析 | i3 三级竞争性资助（起步级、验证级、规模化级）对高质量整群 RCT 与 [[Hierarchical Linear Model\|HLM]] 方差校正的推动效应 | 资助全美上百项大规模全校改革与课程实验；直接催生 [[Every Student Succeeds Act\|ESSA]] 四级法定[[Evidence Standards\|证据标准]]与资金绑定架构 | — | 证实国家级资助杠杆对重构教育实证供给侧质量的决定性驱动作用（pp. 22–26） |
@@ -276,7 +276,7 @@ updated: 2026-10-14
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[Common Core State Standards]] | 政策事实 | IES 创始院长怀特赫斯特就标准与 NAEP 成绩零相关提出批评，成为 CCSS 采纳后学术争议的关键焦点。[[Argument_McDonnell_2013_AJE\|(McDonnell & Weatherford, 2013, pp. 21–22)]] |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 论证条目 | 深入记录 IES 前院长怀特赫斯特关于标准与课程教材之争的实证交锋。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | 论证条目 | 深入记录 IES 前院长怀特赫斯特关于标准与课程教材之争的实证交锋。 |
 > | [[What Works Clearinghouse]] | Fact (Organization) | IES 下辖的核心[[Educational Evidence Clearinghouses\|证据清算中心]]，负责因果实证审查与实践指南发布。 |
 > | [[Best Evidence Encyclopedia]] | Fact (Organization) | IES 长期资助的大学学术型专精清算中心（JHU CRRE 创设）。 |
 > | [[Evidence for ESSA]] | Fact (Program) | 依托 IES 资助学术成果孵化、对齐 [[Every Student Succeeds Act\|ESSA]] 法定标准的敏捷循证决策平台。 |

@@ -147,7 +147,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Research Utilization
@@ -222,7 +222,7 @@ updated: 2026-10-15
 微观教学实践的发生并非孤立存在，而是深植于具体的学校组织环境之中，高度依赖中观治理结构、领导力与文化氛围的持续使能。
 
 > [!theory-components] 中观学校生态与跨层组织使能机制
-> - **学校循证生态四要素框架（[[Self-Improving School System\|SISS]] 4-Factor Organizational Framework）** [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018, pp. 120–123)]] 基于英格兰自发改善学校系统背景，将学校支持研究利用的组织生态操作化为四大互构要素：① 组织能力（Capacity，含[[Absorptive Capacity\|知识吸收能力]]与资源配置）；② 探究与变革文化（Culture of inquiry & innovation）；③ 学习环境（Learning Environment，含心理安全感与社会网络）；④ 结构与系统（Structures & Systems，含正式分享论坛、时间保障与评价流程）。
+> - **学校循证生态四要素框架（[[Self-Improving School System\|SISS]] 4-Factor Organizational Framework）** [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018, pp. 120–123)]] 基于英格兰自发改善学校系统背景，将学校支持研究利用的组织生态操作化为四大互构要素：① 组织能力（Capacity，含[[Absorptive Capacity\|知识吸收能力]]与资源配置）；② 探究与变革文化（Culture of inquiry & innovation）；③ 学习环境（Learning Environment，含心理安全感与社会网络）；④ 结构与系统（Structures & Systems，含正式分享论坛、时间保障与评价流程）。
 > - **四类跨层治理机制（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026]]）** 信任（Trust）、技能发展（Skills Development）、可持续结构（Sustainable Structures）与关系（Relationships）贯穿个体、组织与系统层级共同治理学校证据使用。
 > - **高利害问责与证据利用的“[[Activity Traps\|活动陷阱]]”（Accountability Pressures & Activity Traps）** 在市场化与高利害绩效督导（如 [[Ofsted]]）压力下，学校倾向于将循证简化为应对问责的表演性策略（[[Performativity]]）；教师极易陷入疲于实施碎片化外部干预而缺乏反思的“活动陷阱”（Activity Traps；Katz & Dack, 2013; [[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, pp. 124–125]]），导致研究使用停留在形式合规，难以触及底层假设重构。
 
@@ -283,13 +283,13 @@ updated: 2026-10-15
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]
 > **政策周期的两阶段证据断层与选择性吸纳** 实证研究表明政策过程不同阶段的证据使用存在程序性断层：独立专家咨询委员会在[[Problem Finding\|问题界定]]阶段广泛调动本土与跨国研究证据，但行政首脑机关在出台法定政令时，往往跳过专家报告中的海量文献，仅高度选择性地引用极少数契合既定改革导向、且能提供外部权威的国际组织证据，呈现从海量备选到政治过滤的漏斗效应。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 546–547)]]
 
-> [!claim] [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]]
+> [!claim] [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]]
 > **[[Evidence Era\|证据时代]]下的合理化修辞与[[Policy-Based Evidence-Making\|逆向证据生产]]** 宏观政策层面的研究利用已演化为以密集学术引文为特征的[[Evidence Era\|证据时代]]表象。然而，政府通过充当[[Gatekeepers\|守门人]]筛选顾问并扶植官方代言机构，使研究利用受制于适宜性逻辑与落地考量；当既定政治意图主导决策时，研究利用便异化为反向定制与裁剪证据的[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM），削弱了学术研究的[[Epistemology\|认识论]]连贯性。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 91–96)]]
 
 > [!claim] [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]]
 > **技术方案采购偏好与交往审议功能弱化** 在公共教育政策全生命周期中，研究证据的应用呈现功能两极分化：高频或系统化使用主要集中于[[Technical Rationality|技术理性]]环节（方案设计、系统问题诊断与成效评估）；而在涉及多方协商、凝聚共识与跨界协作的政治审议维度（激发利益相关方对话、建立信任、推动政治议程），使用频度明显偏低。决策部门倾向于将研究者视作现成方案的供应商，在遭遇操作瓶颈时采买实证数据用于内部论证，导致教育研究主要发挥去政治化的技术修补功能，而较少在公共政治[[Champ|场域]]中承担促进平等对话与化解价值分歧的交往功能。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, pp. 93–96)]]
 
-> [!claim] [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013)]]
+> [!claim] [[Argument_McDonnell_2013_AJE|McDonnell and Weatherford (2013)]]
 > **阶段依随型功能分化与去政治化护盾机制** 政策全生命周期实证表明，研究证据的利用呈现清晰的阶段依随性（Stage-contingent）：在议程设置阶段主要发挥概念启发与象征动员功能（如利用 [[TIMSS]] 数据诊断课程“一英里宽、一英寸深”并关联经济危机）；在方案研制阶段，研究被用作抵御外部意识形态与利益集团施压的去政治化护盾（De-politicization shield），但面对实证研究的客观盲区，必须与学科专家逻辑演绎及一线教师[[Professional Judgment|专业判断]]深度协同；在政策采纳阶段，[[Research Translation|研究转化]]为微观交叉比对分析（Crosswalks）与同行信任代理，促成跨党派立法采纳。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 11–16, 19)]]
 
 ---
@@ -299,7 +299,7 @@ updated: 2026-10-15
 > [!concept-lens] 知识传播生态与行为改变机制
 > 检视知识传播中的信息传递偏误，论证从单向推送假设向扎根能力、机会与动机的行为改变机制转变的必要性。
 
-> [!claim] Caplan (1991); Knott & Wildavsky (1991)
+> [!claim] Caplan (1991); Knott and Wildavsky (1991)
 > **知识多维渗透与传播过载张力** 研究产生的概念、理论、策略、证据与方法论以间接方式渗入决策；然而知识传播面临两难张力：传播不足会导致关键信息被埋没，传播过多过滥又会引发信息过载与决策者的认知疲劳，形成信任危机，因而需要研究者在持续对话中开展针对性转译。
 
 > [!claim] Lord, P.; Gough, D.; Michie, S.
@@ -354,7 +354,7 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **宏观政策约束与功能分化** | 研究采纳受政治可行性与议程制约，政策端偏重技术方案采购而弱化交往审议；呈现阶段依随性与去政治化护盾机制 | 宏观教育政策制定、立法论证与行政决策 | Thomas (1991); [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]; [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]]; [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] |
+> | **宏观政策约束与功能分化** | 研究采纳受政治可行性与议程制约，政策端偏重技术方案采购而弱化交往审议；呈现阶段依随性与去政治化护盾机制 | 宏观教育政策制定、立法论证与行政决策 | Thomas (1991); [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]; [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]]; [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] |
 > | **知识传播与行为机制** | 单向推送无法克服信息赤字，研究利用依赖基于能力、机会与动机的行为改变支撑 | 证据中介干预设计、教师研修与成果转化 | Caplan (1991); [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]]; Lord et al. (2017) |
 > | **组织治理与制度塑造** | 跨层治理机制协同影响学校证据使用，高利害问责诱发表演性合规而低利害生态支持反思探究 | 学校组织改进、问责督导制度评估与比较教育治理 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]; [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] |
 > | **微观知行与多源整合** | 克服知行脱节需加强技能与阅读输入，教学决策本质是结合育人伦理的多源知识整合 | 教师专业发展、课堂教学决策与校本教研 | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]]; [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] |
@@ -365,11 +365,11 @@ updated: 2026-10-15
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1970s–1990s — 宏观政策[[Research Utilization Models|研究利用模型]]与三分类确立** Weiss（1979, 1991b）与 Caplan（1979, 1991）等提出研发、[[Problem Solving|问题解决]]、互动与战术模型，Pelz (1978) 与 Beyer & Trice (1982) 奠定工具性、概念性与[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]三元分类。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
+> - **1970s–1990s — 宏观政策[[Research Utilization Models|研究利用模型]]与三分类确立** Weiss（1979, 1991b）与 Caplan（1979, 1991）等提出研发、[[Problem Solving|问题解决]]、互动与战术模型，Pelz (1978) 与 Beyer and Trice (1982) 奠定工具性、概念性与[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]三元分类。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
 > - **2000s–2010s — [[Evidence-Based Education|循证教育]]运动与实证调查浪潮** 伴随循证教育兴起，大量实证研究聚焦教师与校长对研究的接触、态度与技能障碍（Williams & Coles, 2007; Dagenais et al., 2012）。
-> - **2010s — 知识到行动三代模型演进** Best & Holmes (2010) 系统梳理知识到行动（KTA）的三代模型演进（线性推送 $\rightarrow$ 关系型[[Knowledge Co-production|协同生产]] $\rightarrow$ 系统程序性生态），为理解复杂政策环境下的证据利用提供了全景透镜。
-> - **2013 — 政策生命周期阶段依随型利用与去政治化护盾** [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013)]] 结合美国州[[Common Core State Standards|共同核心标准]]（[[Common Core State Standards|CCSS]]）全流程实证，确立研究证据在政策不同阶段的功能演化（议程设置的概念动员 $\to$ 方案研制的去政治化护盾与[[Professional Judgment|专业判断]]补位 $\to$ 政策采纳的微观工具与同行信任代理），深刻批判线性[[Technical Rationality|技术理性模型]]。
-> - **2018 — 自发改善学校系统（[[Self-Improving School System|SISS]]）中的组织准备度与“[[Activity Traps|活动陷阱]]”批判** [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] 聚焦英格兰小学系统，揭示高意愿（76%–86%）与结构性准备不足（评价机制缺失 67%、假设反思匮乏 55%、分享平台缺乏 61%）之间的结构性割裂，并指出高利害问责导致学校陷入缺乏反思的“活动陷阱”。
+> - **2010s — 知识到行动三代模型演进** Best and Holmes (2010) 系统梳理知识到行动（KTA）的三代模型演进（线性推送 $\rightarrow$ 关系型[[Knowledge Co-production|协同生产]] $\rightarrow$ 系统程序性生态），为理解复杂政策环境下的证据利用提供了全景透镜。
+> - **2013 — 政策生命周期阶段依随型利用与去政治化护盾** [[Argument_McDonnell_2013_AJE|McDonnell and Weatherford (2013)]] 结合美国州[[Common Core State Standards|共同核心标准]]（[[Common Core State Standards|CCSS]]）全流程实证，确立研究证据在政策不同阶段的功能演化（议程设置的概念动员 $\to$ 方案研制的去政治化护盾与[[Professional Judgment|专业判断]]补位 $\to$ 政策采纳的微观工具与同行信任代理），深刻批判线性[[Technical Rationality|技术理性模型]]。
+> - **2018 — 自发改善学校系统（[[Self-Improving School System|SISS]]）中的组织准备度与“[[Activity Traps|活动陷阱]]”批判** [[Argument_Brown_Greany_2018_LPS|Brown and Greany (2018)]] 聚焦英格兰小学系统，揭示高意愿（76%–86%）与结构性准备不足（评价机制缺失 67%、假设反思匮乏 55%、分享平台缺乏 61%）之间的结构性割裂，并指出高利害问责导致学校陷入缺乏反思的“活动陷阱”。
 > - **2020s — 跨层治理机制、行为因果链条与程序性过滤** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 提炼出跨越个体、组织与系统的四类治理机制；Kazancı Tınmaz & Sezgin (2023) 将[[Theory of Planned Behavior|计划行为理论]]（TPB）融入研究利用量化测评，开发出包含研究使用子维度的 20 题 [[Research Literacy Scale for Teachers|RLS]] 工具；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 开启程序性证据利用（Procedural research use）研究，实证揭示北欧五国政策制定中专家咨询与行政决策两阶段的剧烈证据过滤机制；[[Argument_Torres_2022_KMModels|Torres (2022b)]] 综合梳理微观行为改变框架（Langer et al., 2016）与教师三种声音冲突（Cain, 2015）。
 > - **2022 — [[OECD|经合组织]]跨国实证调查揭示促成机制与结构障壁的错配断裂** [[OECD]] [[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]; [[Argument_Torres_2022_BarriersMechanisms|Torres, 2022a]]）全面测度 29 国 37 个教育系统教育部委在政策与实践维度的促成机制、结构性障壁与利用形态，实证揭示方案设计高频使用（70%）与多方审议对话萎缩（47%）的交易型病理，并诊断机制数量与障壁感知的错配悖论，倡导从碎片化单一项目走向高位系统协调与科研动力学管理。
 > - **2022 — 研究利用之科学与多臂因果试验裁决** [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]] 提出“研究利用之科学”（Science of Using Science）元治理框架，确立以需求为牵引的生态拓扑模型（Figure 7.1）；依托全英[[What Works Network|有效性网络]]实践与[[Literacy Octopus|识字八爪鱼试验]]（Lord et al., 2017）多臂 [[Randomised Controlled Trials|RCT]] 因果实证，彻底推翻单向推送的信息赤字假说，确立了基于行为改变科学（[[COM-B Model|COM-B]]）与外部高利害问责制度咬合的研究利用新[[Paradigm|范式]]。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 148–153; Lord et al., 2017)]]
@@ -445,8 +445,8 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013, pp. 11–16)]] | 美国 50 州共同核心标准（[[Common Core State Standards\|CCSS]]）全生命周期立法研制 | [[Policy Network\|政策网络]]追踪与关键利益攸关者[[In-depth Interview\|深度访谈]] | 研究证据在政策各阶段的应用形态与功能配置 | 议程设置依托 [[TIMSS]] 课程比较诊断；方案研制利用研究作为去政治化护盾，在实证不足处依托数学家演绎与 AFT 教师剪贴审查补位；采纳阶段依托交叉比对分析（Crosswalks）与验证委员会 25/29 专家信任背书 | — | 首次在教育政策实证中系统确立研究利用的阶段依随模型与多源知识协同机制 |
-> | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] | 英格兰 79 所公立小学，696 名在职教职员工（58 位校长、91 位高管、117 位中层、430 位教师） | 基于四要素 14 题量表的横断面基线调查 | 学校循证组织准备度四维度指标 | 研究价值认同 76%–86% vs 缺乏正式实践评价流程 67%、缺乏底层假设反思 55%、缺乏正式分享论坛 61%、缺乏文献研读时间保障 52% | — | 实证揭示英格兰小学高研究认同与反思/评价制度结构匮乏的结构性脱节（pp. 129–132） |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013, pp. 11–16)]] | 美国 50 州共同核心标准（[[Common Core State Standards\|CCSS]]）全生命周期立法研制 | [[Policy Network\|政策网络]]追踪与关键利益攸关者[[In-depth Interview\|深度访谈]] | 研究证据在政策各阶段的应用形态与功能配置 | 议程设置依托 [[TIMSS]] 课程比较诊断；方案研制利用研究作为去政治化护盾，在实证不足处依托数学家演绎与 AFT 教师剪贴审查补位；采纳阶段依托交叉比对分析（Crosswalks）与验证委员会 25/29 专家信任背书 | — | 首次在教育政策实证中系统确立研究利用的阶段依随模型与多源知识协同机制 |
+> | [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] | 英格兰 79 所公立小学，696 名在职教职员工（58 位校长、91 位高管、117 位中层、430 位教师） | 基于四要素 14 题量表的横断面基线调查 | 学校循证组织准备度四维度指标 | 研究价值认同 76%–86% vs 缺乏正式实践评价流程 67%、缺乏底层假设反思 55%、缺乏正式分享论坛 61%、缺乏文献研读时间保障 52% | — | 实证揭示英格兰小学高研究认同与反思/评价制度结构匮乏的结构性脱节（pp. 129–132） |
 > | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] | 29 个 [[OECD]] 国家/地区，37 个教育系统 | 跨国政策[[Questionnaire\|问卷调查]]与[[In-depth Interview\|深度访谈]] | 政策制定中教育研究应用形态分布（高频/系统化采用率） | 方案设计 70%、问题诊断 65%、既有评估 61%、干预遴选 57% vs 激发利益相关方[[Dialogue in Education\|对话]] 47%、赢得信任 42%、撬动政治议程 33% | — | 揭示政策端证据利用呈现[[Technical Rationality\|技术理性]]环节集聚与交往审议功能萎缩的结构性两极化（pp. 94–95） |
 > | 同上 | 同上 | 同上 | 政策制定者获取教育研究的主要途径普及率 | 咨询外部专家 92%、咨询内部研究员 84%、参加学术会议 84%、定向委托课题 78% vs 检索学术数据库 57%、查阅质量研究库 59% | — | 证实决策官员对熟人人际口头转译的重度依附及[[Primary and Secondary Documents\|原始文献]]检索的制度短板（p. 94） |
 > | 同上 | 同上 | 同上 | 教育部委对政策制定者研究使用文化与心态自陈均分（1–5 分） | 循证重要性 4.46、预期使用 4.04 vs 对研究人员信任 3.40、对研究使用共识理解 3.10 | — | 揭示表面循证理念高认同与深层政学信任赤字之间的认知断层（p. 93） |
@@ -465,8 +465,8 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013)]] — 追踪美国[[Common Core State Standards|共同核心标准]]（CCSS）政策全生命周期，提出阶段依随型证据利用模型，系统论证研究证据在议程设置、方案研制与政策采纳中的功能分化，以及去政治化护盾与[[Professional Judgment|专业判断]]补位机制。
-> - [[Argument_Brown_Greany_2018_LPS|Brown & Greany (2018)]] — 基于英格兰 79 所小学 696 名教职员工基线数据，构建 [[Self-Improving School System|SISS]] 循证组织准备度四要素模型，实证揭示研究价值高认同与正式反思/评价结构匮乏的结构性割裂，并批判高利害问责导致教师陷入“[[Activity Traps|活动陷阱]]”。
+> - [[Argument_McDonnell_2013_AJE|McDonnell and Weatherford (2013)]] — 追踪美国[[Common Core State Standards|共同核心标准]]（CCSS）政策全生命周期，提出阶段依随型证据利用模型，系统论证研究证据在议程设置、方案研制与政策采纳中的功能分化，以及去政治化护盾与[[Professional Judgment|专业判断]]补位机制。
+> - [[Argument_Brown_Greany_2018_LPS|Brown and Greany (2018)]] — 基于英格兰 79 所小学 696 名教职员工基线数据，构建 [[Self-Improving School System|SISS]] 循证组织准备度四要素模型，实证揭示研究价值高认同与正式反思/评价结构匮乏的结构性割裂，并批判高利害问责导致教师陷入“[[Activity Traps|活动陷阱]]”。
 > - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a)]] — 基于[[OECD|经合组织]] 29 国 37 个教育系统的政策调查数据，构建涵盖信息、互动、个体、结构和文化的五维影响因素类型学，量化测度促成机制与阻碍障壁的跨国分布，揭示机制孤立碎片化导致的“机制短缺悖论”，并剖析科研生产统筹机制与宏观系统战略的制度性断层。
 > - [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] — 全面测度 29 国 37 个教育系统教育部委在政策制定中的研究使用形态，实证揭示方案设计（70%）与多方审议（47%）的两极化分化，诊断决策端证据利用退化为短视原料采买的交易型病理机制，并揭示熟人人际咨询依附与政学信任赤字。
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 系统评析[[Knowledge Mobilisation|知识动员]]与[[Evidence-Informed Decision-Making|证据知情决策]]模型，解构证据利用的行为因果机制（Langer et al., 2016）、教师三种声音冲突（Cain, 2015）以及超越二元论的[[Quality Use of Research Evidence Framework|高质量研究使用框架]]（QURE; Rickinson et al., 2020）。
@@ -475,7 +475,7 @@ updated: 2026-10-15
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 基于行为科学与 Weiss 模型将研究使用[[Operationalization|操作化]]为 7 维测量工具，实证揭示教师[[Research Literacy|研究素养]]的知行断层，并证实追踪期刊（$\eta^2=.046$）是直接驱动日常教学使用的最强独立引擎。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 综合 109 项学校研究使用实证研究，识别出文献的个体偏向，并提出信任、技能发展、可持续结构与关系四类跨层治理机制。
 > - [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] — 批判性解构 34 篇文献，揭示 30 年来[[Deficit Framing|赤字框架]]对研究使用文献的统治，正式确立以教师多源[[Knowledge Integration|知识整合]]与专业规范为支柱的第四代专业敏感型理论。
-> - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 系统梳理[[Evidence-Informed Practice|证据知情实践]]（EIP）思想史，将 Weiss (1979) 的研究利用谱系确立为知证教育理论的基石。
+> - [[Argument_Nelson_2017_ER|Nelson and Campbell (2017)]] — 系统梳理[[Evidence-Informed Practice|证据知情实践]]（EIP）思想史，将 Weiss (1979) 的研究利用谱系确立为知证教育理论的基石。
 > - [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] — 针对[[International Education|国际教育]]界长期侧重证据质量而忽视使用质量的理论盲区，基于四大领域 112 篇核心文献的跨领域[[Systematic Review|系统综述]]与[[Narrative Synthesis|叙事综合]]，提出教育中研究证据质量使用框架（QURE），确立适切研究证据与审慎参与实施双核心构件，以及个体、组织与系统三层协同使能结构，开辟了从二元采纳走向使用质量的新[[Paradigm|范式]]。
 > - [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] — 比较英格兰、苏格兰与德国基础教育体系，首次从专长社会学与治理体制视角剖析[[School Leadership|学校领导]]者的研究使用经验，揭示高利害市场问责导致证据被表演性利用以维持合法性，而低利害环境为[[Contributory Expertise|贡献型专长]]与合作校本探究保留了关键空间。
 

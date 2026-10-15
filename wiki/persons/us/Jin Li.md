@@ -70,7 +70,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Jin Li
 
@@ -127,14 +127,14 @@ Li 在第 2 章中系统追溯了西方与东亚两种学习文化的知识根�
 1. [[Certainty of Knowledge|知识的确定性]]（Certainty of Knowledge）——追寻真实、客观、普遍的知识
 2. 心智及其奇迹（[[Mind and Its Wonders]]）——以理性思辨和心智能力理解世界
 3. [[Examined Life|省察的生活]]（Examined Life）——[[Socrates|苏格拉底]]式的批判性质疑和对既有权威的审视
-4. 由此导出**[[Western Learner|西方学习者]]**模型：以心智为首要、以好奇心为驱动、以探究为过程、以掌握世界为终极目标([[Argument_Li_2012_Cambridge|Li, 2012, pp.33-35]])
+4. 由此导出 **[[Western Learner|西方学习者]]** 模型：以心智为首要、以好奇心为驱动、以探究为过程、以掌握世界为终极目标([[Argument_Li_2012_Cambridge|Li, 2012, pp.33-35]])
 
-**[[Confucian Learning Tradition|儒家学习传统]]**以完善自我（perfect self）为核心，向下延伸为四个主题：
+**[[Confucian Learning Tradition|儒家学习传统]]** 以完善自我（perfect self）为核心，向下延伸为四个主题：
 1. 完善自我（Perfect Self）——自我而非世界，是认知、反思和实践的对象
 2. [[Take the World Upon Oneself|以天下为己任]]（Take the World Upon Oneself）——从[[Self-Cultivation|修身]]出发，逐步扩展至齐家、治国、平天下
 3. [[Learning Virtues|学习美德]]（Learning Virtues）——七种德目（诚心、勤奋、刻苦、恒心、专心、尊师、[[Humility|谦虚]]）构成学习者的个人能动性
 4. [[Action Better Than Words|行勝於言]]（Action Better Than Words）——沉默和行动优先于言语表达
-5. 由此导出**[[Chinese Learner|中国学习者]]**模型：以八个同心圆展开的学习层次（格物→致知→诚意→正心→[[Self-Cultivation|修身]]→齐家→治国→平天下），最终指向[[Junzi|君子]]和[[Sage|圣人]]的理想人格([[Argument_Li_2012_Cambridge|Li, 2012, pp.55-56]])
+5. 由此导出 **[[Chinese Learner|中国学习者]]** 模型：以八个同心圆展开的学习层次（格物→致知→诚意→正心→[[Self-Cultivation|修身]]→齐家→治国→平天下），最终指向[[Junzi|君子]]和[[Sage|圣人]]的理想人格([[Argument_Li_2012_Cambridge|Li, 2012, pp.55-56]])
 
 两种模型的完整论证拆解见 [[Argument_Li_2012_Cambridge#第 2 章 两种文化学习模型|Li (2012, 第 2 章)]]。
 

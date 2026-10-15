@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Neo-feudalism in Higher Education
@@ -75,7 +75,7 @@ updated: 2026-10-07
 
 ### 知识租金的经济
 
-学术评价和排名体系创造了一种**[[Knowledge Rents|知识租金]]（knowledge rents）**的经济——精英机构通过控制知识的合法定义和评价标准，获取和维持特权地位。知识产权制度（专利、版权）将本应属于公共品的知识转化为可私人占有的资产(Drahos & Braithwaite, 2002; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])。
+学术评价和排名体系创造了一种 **[[Knowledge Rents|知识租金]]（knowledge rents）** 的经济——精英机构通过控制知识的合法定义和评价标准，获取和维持特权地位。知识产权制度（专利、版权）将本应属于公共品的知识转化为可私人占有的资产(Drahos & Braithwaite, 2002; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])。
 
 ## 两种类型学
 

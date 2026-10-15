@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Communities in Schools
@@ -74,7 +74,7 @@ updated: 2026-10-15
 ## 运作模式与综合学生支持（ISS）架构
 
 > [!policy-design] 驻校协调员与三层支持体系
-> CIS 的核心运作机制是将全职**驻校项目协调员（Site Coordinator）**嵌入公立学校，充当学校与社区资源的连接枢纽：
+> CIS 的核心运作机制是将全职**驻校项目协调员（Site Coordinator）** 嵌入公立学校，充当学校与社区资源的连接枢纽：
 > - **第一层（TIER 1 · 全校普及性支持）** 面向全校所有学生提供基础生活物资援助（如衣物、食品包）、健康与视力筛查、以及全校性防辍学动机宣讲。
 > - **第二层（Tier 2 · 定向小组干预）** 针对出勤不稳、学业滑坡或具有轻度行为问题的学生，组织课后辅导小组、社交情感技能训练与[[Peer-Supported Learning\|同伴互助]]。
 > - **第三层（Tier 3 · 密集个案管理 Case Management）** 针对极端高危学生（慢性旷课、家庭严重变故、濒临退学）建立一对一个案档案，深度链接外部心理危机干预、司法支持与专业家庭辅导。
@@ -103,7 +103,7 @@ updated: 2026-10-15
 > 1. **机构委托灰色报告 vs 同行评审学术期刊（MDRC Reports vs Peer-Reviewed Papers）**
 >    - CIS 组织投入巨资委托全美顶尖政策智库 MDRC 开展了严密的多年期随机试验（Parise et al., 2017）与时间序列研究（Somers & Haider, 2017）。但由于这些成果以智库技术评估报告形式发布、未刊载于同行评审学术期刊，恪守期刊门槛的 [[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]] 将其视为“完全不存在”，而包容智库报告的 [[CNCS Evidence Exchange\|CNCS EE]] 则据此给予中度支持认证。
 > 2. **组内发展虚假繁荣 vs 对照组自然增长（[[Intelligent Tutoring Systems\|ITS]] Secular Trends）**
->    - 在 Somers & Haider (2017) 间断时间序列评估中，CIS 实施校的高中毕业率在干预后确实逐年攀升；然而与未接受干预的平行对照校相比，两者的上升轨迹几乎完全平行（反映了宏观社会与学区政策的自然时间演变）。宽松机构仅关注“组内向好”即判定有效，而严谨机构识别出“未跑赢自然趋势”判定因果效应为零。
+>    - 在 Somers and Haider (2017) 间断时间序列评估中，CIS 实施校的高中毕业率在干预后确实逐年攀升；然而与未接受干预的平行对照校相比，两者的上升轨迹几乎完全平行（反映了宏观社会与学区政策的自然时间演变）。宽松机构仅关注“组内向好”即判定有效，而严谨机构识别出“未跑赢自然趋势”判定因果效应为零。
 > 3. **实践倡导型平台 vs 严苛计量审查机构的评价哲学对撞**
 >    - [[National Dropout Prevention Center\|NDPC]] 作为扎根防辍实践界的倡导型平台，倾向于全面采信一线运行经验并给予最高推荐；而 [[What Works Clearinghouse\|WWC]]、[[Blueprints for Healthy Youth Development\|Blueprints]] 与 [[Social Programs That Work\|SPTW]] 等机构坚持严格的[[Counterfactual\|反事实]]因果度量，直接导致了同一干预在政策市场上呈现出完全相反的评价光谱。
 
@@ -112,9 +112,9 @@ updated: 2026-10-15
 ## 实证数据与效应量表现
 
 > [!stat-cards]- 核心实证研究数据快照
-> - **Rossman & Morley (1995) Urban Institute 早期多地点准实验** 早期探索性研究，样本缺乏基线匹配，显示出勤率提升但[[Causality\|因果推断]]效力极其薄弱。
-> - **Parise et al. (2017) MDRC 2 年期多中心集群 [[Randomised Controlled Trials\|RCT]]** 发现 CIS 对个案管理学生的**学校参与度（School Engagement）**与社会情感支持具有统计显著改善，但对当期标准化测验成绩未见显著跃升。
-> - **Somers & Haider (2017) MDRC 间断时间序列（[[Intelligent Tutoring Systems\|ITS]]）研究** 评估全校性毕业率，发现干预校毕业率平均上升 2.3%，但在控制了全学区宏观自然演进趋势后，净因果附加值无[[Statistical Significance\|统计显著性]]。
+> - **Rossman and Morley (1995) Urban Institute 早期多地点准实验** 早期探索性研究，样本缺乏基线匹配，显示出勤率提升但[[Causality\|因果推断]]效力极其薄弱。
+> - **Parise et al. (2017) MDRC 2 年期多中心集群 [[Randomised Controlled Trials\|RCT]]** 发现 CIS 对个案管理学生的**学校参与度（School Engagement）** 与社会情感支持具有统计显著改善，但对当期标准化测验成绩未见显著跃升。
+> - **Somers and Haider (2017) MDRC 间断时间序列（[[Intelligent Tutoring Systems\|ITS]]）研究** 评估全校性毕业率，发现干预校毕业率平均上升 2.3%，但在控制了全学区宏观自然演进趋势后，净因果附加值无[[Statistical Significance\|统计显著性]]。
 
 ---
 

@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Long Peace
@@ -56,7 +56,7 @@ updated: 2026-10-09
 ## 定义
 
 > [!def] 核心定义
-> **长和平（Long Peace / 冷战长和平）**是著名冷战史学家[[John Lewis Gaddis|约翰·刘易斯·加迪斯]]（John Lewis Gaddis）于 1987 年提出的国际关系核心概念，指自 1945 年第二次世界大战结束以来，世界主要大国之间长达近一个世纪未曾爆发直接全面军事冲突的稳定历史时期。加迪斯指出，这段相对稳定的时期构成了近代世界史上大国关系持续最久的和平纪录。认知科学家[[Steven Pinker|斯蒂芬·平克]]（Steven Pinker）实证证实二战后全球战阵死亡率呈历史性大幅退潮。卡普与扎米斯卡（2025）深刻指出，长和平的维系绝非依赖于道德承诺或市场一体化，而是建立在原子弹恐怖破坏力与美国绝对军事优势所铸就的战略威慑之上；一旦这种威慑被和平自满所侵蚀，战后安全秩序将迅速崩塌。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Gaddis, 1987; Pinker, 2011; Karp & Zamiska, 2025, pp. 39–41)]]
+> **长和平（Long Peace / 冷战长和平）** 是著名冷战史学家[[John Lewis Gaddis|约翰·刘易斯·加迪斯]]（John Lewis Gaddis）于 1987 年提出的国际关系核心概念，指自 1945 年第二次世界大战结束以来，世界主要大国之间长达近一个世纪未曾爆发直接全面军事冲突的稳定历史时期。加迪斯指出，这段相对稳定的时期构成了近代世界史上大国关系持续最久的和平纪录。认知科学家[[Steven Pinker|斯蒂芬·平克]]（Steven Pinker）实证证实二战后全球战阵死亡率呈历史性大幅退潮。卡普与扎米斯卡（2025）深刻指出，长和平的维系绝非依赖于道德承诺或市场一体化，而是建立在原子弹恐怖破坏力与美国绝对军事优势所铸就的战略威慑之上；一旦这种威慑被和平自满所侵蚀，战后安全秩序将迅速崩塌。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Gaddis, 1987; Pinker, 2011; Karp & Zamiska, 2025, pp. 39–41)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 刻画二战后以核均势与战略威慑为根本支柱的大国无大战历史状态。
@@ -160,8 +160,8 @@ updated: 2026-10-09
 > | 命题类型 | 核心理论断言 | 适用分析情境 | 代表学者 / 来源 |
 > |---|---|---|---|
 > | **威慑起源命题** | 长和平建立在绝对军事优势与核毁灭恐怖之上，而非道德承诺 | 冷战史学、大国战略稳定机制与核不扩散评估 | Gaddis (1987); Nobel (1891) |
-> | **自满侵蚀命题** | 长期和平红利诱发安全搭便车与同盟军队盆景化，破坏地缘均势 | 后冷战西方防务政策、同盟分担与地缘危机诊断 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025)]]; Pinker (2011) |
-> | **技术重构命题** | 软件与算法主导战场中枢，新时代长和平依赖人工智能威慑重构 | 软件世纪大战略、AI 军备控制与[[Technological Republic\|技术共和国]]建设 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025)]] |
+> | **自满侵蚀命题** | 长期和平红利诱发安全搭便车与同盟军队盆景化，破坏地缘均势 | 后冷战西方防务政策、同盟分担与地缘危机诊断 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]]; Pinker (2011) |
+> | **技术重构命题** | 软件与算法主导战场中枢，新时代长和平依赖人工智能威慑重构 | 软件世纪大战略、AI 军备控制与[[Technological Republic\|技术共和国]]建设 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]] |
 
 ---
 

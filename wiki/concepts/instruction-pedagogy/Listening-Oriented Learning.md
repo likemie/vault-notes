@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Listening-Oriented Learning
@@ -85,7 +85,7 @@ Inagaki、Hatano and Morita 对日本课堂的研究发现，尽管口头表达�
 ## 实证发现
 
 > [!success]
-> **Heejung Kim 的[[Experimental Research\|实验研究]]([[Argument_Li_2012_Cambridge\|Li, 2012, p.108]])**提供了倾听 vs 说话对认知功能影响的直接证据：
+> **Heejung Kim 的[[Experimental Research\|实验研究]]([[Argument_Li_2012_Cambridge\|Li, 2012, p.108]])** 提供了倾听 vs 说话对认知功能影响的直接证据：
 > - 在解决问题时同时说话**降低**了东亚学生的表现，并增加了他们的压力荷尔蒙（皮质醇）水平
 > - 同样的条件**提高**了欧裔美国学生的表现，并使他们更放松
 > - Li 总结："对欧裔美国人，说话增强思考；对东亚人，说话干扰思考"

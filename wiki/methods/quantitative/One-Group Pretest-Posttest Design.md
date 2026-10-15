@@ -31,14 +31,14 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 status: draft
 created: 2026-07-13
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # One-Group Pretest-Posttest Design
 
 ## 定义
 
 > [!def] 单组前[[Pre-test and Post-test\|后测]]设计
-> 单组前后测设计（One-Group Pretest-Posttest Design）是最简单的[[Pre-Experimental Designs\|前实验设计]]：仅对**单一组**参与者进行前测（O₁）、施加干预（X）、再进行后测（O₂），将 O₁−O₂ 的差异归因于干预。该设计无控制组、无[[Random Assignment\|随机分配]]，Campbell & Stanley (1963) 将其列为展示混淆[[Variable\|变量]]危及[[Internal Validity\|内部效度]]的"坏例子"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, pp. 326–327]]）。
+> 单组前后测设计（One-Group Pretest-Posttest Design）是最简单的[[Pre-Experimental Designs\|前实验设计]]：仅对**单一组**参与者进行前测（O₁）、施加干预（X）、再进行后测（O₂），将 O₁−O₂ 的差异归因于干预。该设计无控制组、无[[Random Assignment\|随机分配]]，Campbell and Stanley (1963) 将其列为展示混淆[[Variable\|变量]]危及[[Internal Validity\|内部效度]]的"坏例子"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, pp. 326–327]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 单一组参与者——通常是已有班级或自然群体。
@@ -84,7 +84,7 @@ updated: 2026-10-15
 > - **无控制组** 无法区分干预效果与自然成熟或历史事件的影响——前[[Pre-test and Post-test\|后测]]差异可能完全来自外部因素。
 > - **无[[Random Assignment\|随机分配]]** 无法排除选择偏差——单组本身可能具有特定特征使其对干预异常敏感（或不敏感）。
 > - **多重混淆无法分离** 成熟、历史、测验效应、工具变化、回归均值——所有这些威胁同时存在且无法分离。
-> - **[[Causality\|因果推断]]几乎不可能** Campbell & Stanley (1963) 将其描述为展示混淆[[Variable\|变量]]的"坏例子"——该设计只能产生假设，不能检验假设。
+> - **[[Causality\|因果推断]]几乎不可能** Campbell and Stanley (1963) 将其描述为展示混淆[[Variable\|变量]]的"坏例子"——该设计只能产生假设，不能检验假设。
 
 ## 相关理论与方法
 
@@ -100,4 +100,4 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch8)]] — 将单组前[[Pre-test and Post-test\|后测]]设计列为[[Pre-Experimental Designs\|前实验设计]]的一种，[[Internal Validity\|内部效度]]最低。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — 以 Adeyemi (1992) 博茨瓦纳社会科教师培训研究为例，展示单组前后测设计的应用和自我警惕；以 Campbell & Stanley (1963) 和 Pilliner (1973) 的类比说明其方法论缺陷。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — 以 Adeyemi (1992) 博茨瓦纳社会科教师培训研究为例，展示单组前后测设计的应用和自我警惕；以 Campbell and Stanley (1963) 和 Pilliner (1973) 的类比说明其方法论缺陷。

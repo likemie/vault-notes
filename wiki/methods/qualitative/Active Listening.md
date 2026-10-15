@@ -21,7 +21,7 @@ related_concepts: []
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-11
+updated: 2026-10-16
 ---
 
 # Active Listening
@@ -65,4 +65,4 @@ updated: 2026-09-11
 ## 应用案例
 
 > [!example] 积极倾听在访谈中的应用
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al. (2011, Ch. 21)]] — 访谈实施中的非语言沟通维度，指出椅子上的微微移动即可传达兴趣、愤怒、无聊、赞同或异议。Arksey & Knight（1999, p. 53）的操作指南中强调"表现出兴趣"为首要原则。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al. (2011, Ch. 21)]] — 访谈实施中的非语言沟通维度，指出椅子上的微微移动即可传达兴趣、愤怒、无聊、赞同或异议。Arksey and Knight（1999, p. 53）的操作指南中强调"表现出兴趣"为首要原则。

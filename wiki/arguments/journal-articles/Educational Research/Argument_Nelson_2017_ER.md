@@ -190,7 +190,7 @@ updated: 2026-09-21
 > - **1996 — 教学作为研究本位专业** Hargreaves (1996) 发表演讲，倡导将教学重塑为由研究支撑的专业，引发英美等国关于教育证据角色的大规模政策论争。
 > - **2000s–2010s — 国际系统化改革与研究计划** 英国启动“教学与学习研究计划”（[[Teaching and Learning Research Programme]], TLRP）（Parsons & Burkey, 2011; Pollard, 2011）；美国推行强化教育问责与严格因果[[Evidence Standards\|证据标准]]的联邦政策（Slavin, 2004; Easton, 2010）；加拿大安大略省实施全面的教育研究与评估战略（Campbell, 2014）。
 > - **2013 起 — 草根证据运动兴起** 英国一线教师自发发起 [[ResearchED]] 运动，证据知情取向的[[Chartered College of Teaching\|特许教学学院]]（Chartered College of Teaching）正式成立。
-> - **2015 — 翻转系统[[Discourse|话语]]** Evers & Kneyber (2015) 编著出版《Flip the System》，国际学界与实践界掀起倡导由教师[[Professional Judgment\|专业判断]]引领教育变革、抗衡自上而下行政问责的自下而上浪潮。（pp.127–128）
+> - **2015 — 翻转系统[[Discourse|话语]]** Evers and Kneyber (2015) 编著出版《Flip the System》，国际学界与实践界掀起倡导由教师[[Professional Judgment\|专业判断]]引领教育变革、抗衡自上而下行政问责的自下而上浪潮。（pp.127–128）
 
 > [!factors] EIP 系统化推进的核心制约条件
 > - **概念共识缺失** 利益相关者对 EIP 的确切内涵缺乏共识，关于什么是可靠证据、[[Experimental Research\|实验研究]]是否唯一黄金标准、教师主导研究地位如何等核心问题悬而未决。
@@ -266,7 +266,7 @@ updated: 2026-09-21
 > 澳大利亚莫纳什大学与新西兰环境部团队提出了跨领域新视角：
 > 1. **政策与实践的同构性** 将政策制定视为一种特殊的专业实践，揭示政策制定者与一线教育者在证据使用特征上存在高度相似性：二者均面临从浩瀚信息中筛选证据的挑战。
 > 2. **习惯依赖与适切性断裂** 经验表明，政策与实践两端均存在严重依赖熟知证据（well known）而非任务适切证据（appropriate to task）的认知惰性。
-> 3. **可得证据 vs 适切证据** 借用 Earl & Timperley (2009) 的概念，明确区分可得证据（available evidence）与适切证据（appropriate evidence）；证据的适切性不能由外部统一预设，而必须结合具体政治、文化与教学情境进行动态研判。（pp.129–130）
+> 3. **可得证据 vs 适切证据** 借用 Earl and Timperley (2009) 的概念，明确区分可得证据（available evidence）与适切证据（appropriate evidence）；证据的适切性不能由外部统一预设，而必须结合具体政治、文化与教学情境进行动态研判。（pp.129–130）
 
 > [!implication]- 推论：证据从单数走向复数的实践与政策后果
 > 将证据内涵由狭隘的学术论文（单数）扩展为涵盖系统数据、课堂信息与实践知识的复合体（复数），彻底动摇了自上而下的线性证据输送模式；它要求将有效性探索的系统学习深度嵌入教育治理全过程（Becheikh et al., 2009; Gough, 2013; Sharples, 2013），为多维知识动员战略奠定了认识论基础。（pp.128–130）

@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Robert Slavin
@@ -90,8 +90,8 @@ updated: 2026-10-15
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国约翰霍普金斯大学（Johns Hopkins University）教育研究与改革中心（CRRE）主任，教育心理学家，2018 年美国心理学会（APA）第 15 分会 **E. L. Thorndike 终身成就奖** 获得者。
-> - **核心角色** 当代**[[Evidence-Based Education\|证据本位教育]]改革（[[Evidence-Based Reform\|EBR]]）运动的最核心倡导者与奠基人**，[[Success for All]] 整体学校改革联合创始人；推动教育实证研究摆脱“主观时尚钟摆”，确立以医学[[Clinical Trial\|临床试验]]为蓝本的[[Causality\|因果推断]]、实验评估与[[Meta-analysis\|元分析]]标准体系。
-> - **代表贡献** 创立全美实施规模最大的循证阅读项目之一 [[Success for All]]；创办[[Best Evidence Encyclopedia\|最佳证据百科全书]]（[[Best Evidence Encyclopedia\|BEE]]）与 [[Evidence for ESSA]] 平台；确立元分析方法学准入标准（[[Sample Size Determination\|样本量]] $\ge 15$、基线等效 $d < 0.25$、严禁自利性测验）（Slavin & Smith, 2009; Cheung & Slavin, 2013, 2016）；深远影响了包括 [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] 在内的新一代智能教育循证评价。
+> - **核心角色** 当代 **[[Evidence-Based Education\|证据本位教育]]改革（[[Evidence-Based Reform\|EBR]]）运动的最核心倡导者与奠基人**，[[Success for All]] 整体学校改革联合创始人；推动教育实证研究摆脱“主观时尚钟摆”，确立以医学[[Clinical Trial\|临床试验]]为蓝本的[[Causality\|因果推断]]、实验评估与[[Meta-analysis\|元分析]]标准体系。
+> - **代表贡献** 创立全美实施规模最大的循证阅读项目之一 [[Success for All]]；创办[[Best Evidence Encyclopedia\|最佳证据百科全书]]（[[Best Evidence Encyclopedia\|BEE]]）与 [[Evidence for ESSA]] 平台；确立元分析方法学准入标准（[[Sample Size Determination\|样本量]] $\ge 15$、基线等效 $d < 0.25$、严禁自利性测验）（Slavin & Smith, 2009; Cheung & Slavin, 2013, 2016）；深远影响了包括 [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 在内的新一代智能教育循证评价。
 
 > [!citation-card] 21 世纪教育研究的跨行业科学转型
 > 为什么教育研究很少能对教育实践产生真正的影响？... [[Evidence-Based Reform\|证据本位改革]]终于能够将 20 世纪推动医学、农业和技术产生剧烈变革的科学规程，切实应用到教育领域之中。在 21 世纪的曙光中，教育研究终于开始迈入 20 世纪。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 15)]]; [[Argument_Slavin_2019_EP\|(Slavin, 2019)]]
@@ -136,14 +136,14 @@ updated: 2026-10-15
 >   - **关键概念／方法** ESSA 2015 [[Evidence Standards]]、三条件框架（有效项目、可信审查、政策激励）。
 >   - **阶段特征** 坚定捍卫证据本位教育对公共决策的治理价值，强调 RCT 虽非全部，但绝不可被虚无主义否定。
 > - **2021 至今 — 方法论规程的长期学术遗产**
->   - **核心影响** 其确立的 $d < 0.25$ 基线门槛和基准[[Effect Size\|效应量]]认知（教育真实干预效应通常收敛于 $0.20–0.40$），成为 [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] 破解生成式 AI 元分析虚高估计的方法学中流砥柱。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 8, 15)]]
+>   - **核心影响** 其确立的 $d < 0.25$ 基线门槛和基准[[Effect Size\|效应量]]认知（教育真实干预效应通常收敛于 $0.20–0.40$），成为 [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 破解生成式 AI 元分析虚高估计的方法学中流砥柱。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 8, 15)]]
 
 ---
 
 ## 核心思想
 
 > [!claim] 核心主张
-> Slavin 的核心思想归结为教育改革的**“循证累积[[Paradigm\|范式]]”** 教育要摆脱意识形态与未经检验的教学时尚钟摆，就必须像现代医学一样，建立在对**具体项目**（而非抽象原则）的**严谨实验比较（偏好[[Random Assignment\|随机分配]]与基线严格等价的准实验）**基础之上；通过“大量验证项目、公信证据审查机构、法律与财政政策激励”三者合力，推动教育系统实现稳定、不可逆的持续进步。[[Argument_Slavin_2002_ER\|(Slavin, 2002)]]; [[Argument_Slavin_2019_EP\|(Slavin, 2019)]]; [[Argument_Slavin_2021_ECNUROE\|(Slavin et al., 2021)]]
+> Slavin 的核心思想归结为教育改革的 **“循证累积[[Paradigm\|范式]]”** 教育要摆脱意识形态与未经检验的教学时尚钟摆，就必须像现代医学一样，建立在对**具体项目**（而非抽象原则）的**严谨实验比较（偏好[[Random Assignment\|随机分配]]与基线严格等价的准实验）** 基础之上；通过“大量验证项目、公信证据审查机构、法律与财政政策激励”三者合力，推动教育系统实现稳定、不可逆的持续进步。[[Argument_Slavin_2002_ER\|(Slavin, 2002)]]; [[Argument_Slavin_2019_EP\|(Slavin, 2019)]]; [[Argument_Slavin_2021_ECNUROE\|(Slavin et al., 2021)]]
 
 > [!citation-card] 实验规模与不可逆教育进步
 > 只有当我们每年在教育实践的各个领域开展数十项或数百项经过随机化或严谨匹配的实验时，我们才能开始取得稳定、不可逆转的真正进步。在此之前，我们不过是在教育时尚的钟摆上随波逐流。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 19)]]
@@ -164,7 +164,7 @@ updated: 2026-10-15
 > - [[Argument_Slavin_2002_ER\|Slavin (2002)]] — 提出证据本位教育政策的核心纲领，论证开发-评估-推广[[Paradigm\|范式]]对克服教育研究声誉危机的根本意义。
 > - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 荣获桑代克奖后的总结性论著，系统梳理 [[Every Student Succeeds Act\|ESSA]] 时代[[Evidence-Based Reform\|证据本位改革]]的三条件机制。
 > - [[Argument_Slavin_2021_ECNUROE\|Slavin et al. (2021)]] — 针对中国学者对证据本位教育的质疑进行理论辨正，提出因果实证与质性理解相结合的开放态度。
-> - [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] — 合作者[[Alan C. K. Cheung\|张志强]]等严格沿用 Slavin 的样本量（$n \ge 15$）与基线等效（$d < 0.25$）准入规程开展生成式 AI [[Meta-analysis\|元分析]]，证实了教育技术在剔除虚假高估后的真实基准效应。
+> - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — 合作者[[Alan C. K. Cheung\|张志强]]等严格沿用 Slavin 的样本量（$n \ge 15$）与基线等效（$d < 0.25$）准入规程开展生成式 AI [[Meta-analysis\|元分析]]，证实了教育技术在剔除虚假高估后的真实基准效应。
 
 ---
 
@@ -215,4 +215,4 @@ updated: 2026-10-15
 > | [[Baseline Standardized Mean Difference]] | 方法 | 确立为元分析准入与协变量校正的硬性方法学门槛（$d < 0.25$）。 |
 > | [[What Works Clearinghouse]] | 事实 | WWC 审查手册与标准体系的思想先驱与技术参与者。 |
 > | [[Alan C. K. Cheung]] | 人物 | 跨越数十年的核心学术合作者，共同推进教育技术[[Meta-analysis\|元分析]]与华语传播。 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 论证 | 其方法学筛查标准在 2025 年生成式 AI 元分析中得以严格贯彻的代表作。 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 论证 | 其方法学筛查标准在 2025 年生成式 AI 元分析中得以严格贯彻的代表作。 |

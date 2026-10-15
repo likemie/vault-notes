@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Financial-Intellectual Complex
@@ -170,9 +170,9 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **资本-智识合流命题** | 贷款附加条件与[[Categorical Funding\|定向研究]]绑定，建构跨国知识霸权 | 多边国际发展援助、第三世界债务危机期 | Samoff (1992, 1993); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 80)]] |
-> | **方法论规训命题** | 以量化工具理性排斥历史政治维度，实现教育去政治化 | 教育规划评估、宏观政策咨询与项目审查 | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 81)]] |
-> | **单一体与亲和性命题** | 信贷单一体压制研究多元性，与跨国企业集团利益高度亲和 | 高等教育市场化转型、公共部门[[Structural Adjustment Programs\|结构调整]] | Schugurensky (1994); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, pp. 81–82)]] |
+> | **资本-智识合流命题** | 贷款附加条件与[[Categorical Funding\|定向研究]]绑定，建构跨国知识霸权 | 多边国际发展援助、第三世界债务危机期 | Samoff (1992, 1993); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, p. 80)]] |
+> | **方法论规训命题** | 以量化工具理性排斥历史政治维度，实现教育去政治化 | 教育规划评估、宏观政策咨询与项目审查 | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, p. 81)]] |
+> | **单一体与亲和性命题** | 信贷单一体压制研究多元性，与跨国企业集团利益高度亲和 | 高等教育市场化转型、公共部门[[Structural Adjustment Programs\|结构调整]] | Schugurensky (1994); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, pp. 81–82)]] |
 
 ---
 
@@ -211,8 +211,8 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 81)]] | 阿根廷布宜诺斯艾利斯大学（UBA），1990 年代[[Structural Adjustment Programs\|结构调整]]期（援引 Schugurensky, 1994） | 单一高等教育机构质性[[Case Study\|案例研究]] | 经常性财政拨款削减幅度与高教市场化改革项目 | 国家经常性预算大幅核减，强制增设研究生自费收费项目与产学研商业创收指标 | — | 实证揭示[[World Bank\|世界银行]]如何依托信贷约束迫使外围国家顶尖国立大学放弃免费公共品定位，转向企业化创收 |
-> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 80)]] | 非洲与拉丁美洲发展中国家，1980–1990 年代结构调整借贷周期（援引 Samoff, 1993） | 跨国宏观[[Comparative Policy Analysis\|比较政策分析]] | 教育贷款前置附加条件包含新自由主义政策的比例 | 绝大多数初等与中等教育借贷协议均强制包含冻结教师编制、引入使用者收费（User Fees）与分权化条款 | — | 说明多边金融机构在借贷协议中贯彻单一化市场逻辑的制度刚性，排斥任何非市场取向的替代方案 |
+> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, p. 81)]] | 阿根廷布宜诺斯艾利斯大学（UBA），1990 年代[[Structural Adjustment Programs\|结构调整]]期（援引 Schugurensky, 1994） | 单一高等教育机构质性[[Case Study\|案例研究]] | 经常性财政拨款削减幅度与高教市场化改革项目 | 国家经常性预算大幅核减，强制增设研究生自费收费项目与产学研商业创收指标 | — | 实证揭示[[World Bank\|世界银行]]如何依托信贷约束迫使外围国家顶尖国立大学放弃免费公共品定位，转向企业化创收 |
+> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, p. 80)]] | 非洲与拉丁美洲发展中国家，1980–1990 年代结构调整借贷周期（援引 Samoff, 1993） | 跨国宏观[[Comparative Policy Analysis\|比较政策分析]] | 教育贷款前置附加条件包含新自由主义政策的比例 | 绝大多数初等与中等教育借贷协议均强制包含冻结教师编制、引入使用者收费（User Fees）与分权化条款 | — | 说明多边金融机构在借贷协议中贯彻单一化市场逻辑的制度刚性，排斥任何非市场取向的替代方案 |
 
 ---
 

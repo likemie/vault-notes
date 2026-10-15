@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-10-16
 ---
 
 # Pre-Experimental Designs
@@ -50,7 +50,7 @@ updated: 2026-05-31
 ## 方法变体
 
 > [!example]
-> 前实验设计包含以下四种主要变体（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8, Example 8.1），使用 Campbell & Stanley (1963) 的经典符号系统（X = 处理暴露，O = 观察或测量）：
+> 前实验设计包含以下四种主要变体（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8, Example 8.1），使用 Campbell and Stanley (1963) 的经典符号系统（X = 处理暴露，O = 观察或测量）：
 
 ### 一次性个案研究（One-Shot Case Study）
 
@@ -117,5 +117,5 @@ Group B  X2 ———————————————— O
 ## 使用此方法的研究
 
 > [!example]
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — Adeyemi (1992) 在博茨瓦纳使用单组前[[Pre-test and Post-test\|后测]]设计（O₁ X O₂），以 BSSPS 量表测量 48 名研究生文凭学生对社会科教学哲学取向的变化；Campbell & Stanley (1963) 将单组前后测设计描述为展示混淆[[Variable\|变量]]危及[[Internal Validity\|内部效度]]的"坏例子"。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — Adeyemi (1992) 在博茨瓦纳使用单组前[[Pre-test and Post-test\|后测]]设计（O₁ X O₂），以 BSSPS 量表测量 48 名研究生文凭学生对社会科教学哲学取向的变化；Campbell and Stanley (1963) 将单组前后测设计描述为展示混淆[[Variable\|变量]]危及[[Internal Validity\|内部效度]]的"坏例子"。
 

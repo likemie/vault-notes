@@ -46,7 +46,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Transformative System Failures
@@ -82,7 +82,7 @@ updated: 2026-10-15
 > | **核心关切** | 研发投资不足与知识外溢 | 产学研网络割裂与制度阻滞 | 重大社会挑战与不可持续发展锁定 |
 > | **失灵根源** | 价格机制无法内部化外部性 | [[Systems of Innovation\|创新系统]]内部构件连接不畅 | 缺乏转型方向、需求表达与反思机制 |
 > | **政策取向** | 技术中立、普惠税收优惠与研发资助 | 建设中介机构、培育创新集群与[[Technology Transfer\|技术转移]] | 确立国家使命、开展多方共治与引导系统收敛 |
-> | **代表文献** | Arrow (1962); Nelson (1959) | Freeman (1987); Lundvall (1992) | Weber & Rohracher (2012); [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] |
+> | **代表文献** | Arrow (1962); Nelson (1959) | Freeman (1987); Lundvall (1992) | Weber and Rohracher (2012); [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] |
 
 ---
 
@@ -159,8 +159,8 @@ updated: 2026-10-15
 > [!contrast-table] 变革性系统失灵核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **干预正当性命题** | 转型失灵为国家设定创新战略使命提供法理与机制支撑 | 国家重大专项与科技战略规划 | Weber & Rohracher (2012); [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] |
-> | **动态锁定防范命题** | 方向性与反思性失灵共同构成重大挑战治理的主要制度风险 | 绿色转型、数字技术治理与公共健康使命 | [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]]; Schot & Steinmueller (2018) |
+> | **干预正当性命题** | 转型失灵为国家设定创新战略使命提供法理与机制支撑 | 国家重大专项与科技战略规划 | Weber and Rohracher (2012); [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] |
+> | **动态锁定防范命题** | 方向性与反思性失灵共同构成重大挑战治理的主要制度风险 | 绿色转型、数字技术治理与公共健康使命 | [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]]; Schot and Steinmueller (2018) |
 
 ---
 

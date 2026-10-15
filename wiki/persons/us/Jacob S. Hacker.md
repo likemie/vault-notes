@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-12
+updated: 2026-10-16
 ---
 
 # Jacob S. Hacker
@@ -125,8 +125,8 @@ updated: 2026-10-12
 > - **跨学科辐射** 漂移与风险转移概念被经济社会学、劳动法学与比较政治学广泛引申，用于解释零工经济扩张与劳动法保护失效。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 希伦与[[Wolfgang Streeck|施特雷克]]在导论中高度提炼哈克对政策漂移的奠基性贡献，将其确立为五大渐进变迁形态之一（pp. 24–26, 40–82）。
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 双维因果解释矩阵（Table 1.2）直接改编自哈克（2005）的分析模型，并系统继承其政策漂移理论（pp. 17–20）。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 希伦与[[Wolfgang Streeck|施特雷克]]在导论中高度提炼哈克对政策漂移的奠基性贡献，将其确立为五大渐进变迁形态之一（pp. 24–26, 40–82）。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 双维因果解释矩阵（Table 1.2）直接改编自哈克（2005）的分析模型，并系统继承其政策漂移理论（pp. 17–20）。
 
 ---
 

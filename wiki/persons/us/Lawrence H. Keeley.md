@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-11
+updated: 2026-10-16
 ---
 
 # Lawrence H. Keeley
@@ -156,7 +156,7 @@ updated: 2026-10-11
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]：
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]：
 >   - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|第 4 章]]（pp. 53–54）：引用基利关于美洲原住民与新几内亚部落战争残损暴力的实证考证，批判[[Moral Dualism|道德二元论]]并恢复弱者完整人性与施恶潜能。
 
 ---

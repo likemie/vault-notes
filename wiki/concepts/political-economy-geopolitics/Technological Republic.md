@@ -145,7 +145,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Technological Republic
@@ -265,7 +265,7 @@ updated: 2026-10-15
 > [!concept-lens] 科技与国家战略的深度契合
 > 探讨科技创新在现代国家建构与地缘竞争中的根本定位，批判科技界将自身剥离于母国责任之外的全球主义与消费主义倾向。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **科技共同体承担国家防卫义务是维系制度优势的基石** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]指出，硅谷最初的崛起完全得益于二战与冷战时期科技企业与美国联邦政府之间激进而紧密的伙伴关系（如早期[[Fairchild Semiconductor|仙童半导体]]依托中央情报局与国防部订单奠定微芯片基础）。然而，当代硅谷精英在享受国家安全庇护的同时，却放弃对宏大国家工程的参与，退化为追求线上广告与快消软件的狭隘功利主义。在人工智能重塑全球地缘格局的关键节点，唯有重构科技产业与国家战略的深度协同，方能保障西方民主阵营的长期技术主导权与制度公信力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–15)]]
 
 ---
@@ -275,7 +275,7 @@ updated: 2026-10-15
 > [!concept-lens] [[Jürgen Habermas|哈贝马斯]][[Legitimation Crisis|合法化危机]]与技术治理效能
 > 分析现代国家如何通过向公众交付切实的技术福利以抵御社会合法化危机。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **技术供给效能直接决定民主政体公信力** 卡普与扎米斯卡结合[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas）的合法化危机论断指出，公民对民主体制的忠诚并非建立在抽象理念之上，而是取决于国家能否有效提供安全、健康、教育与经济繁荣。如果尖端技术仅沦为私营科技寡头获取垄断利润的工具，而国家治理机构长期陷于低效停滞的[[Innovation Desert|创新荒漠]]，公众对体制的信任就会崩解。技术共和国要求技术力量走出封闭的商业温室，全方位赋与公共治理与民生基础设施现代技术能力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 8–11)]]
 
 ---
@@ -285,7 +285,7 @@ updated: 2026-10-15
 > [!concept-lens] 新一代 AI 地缘竞争与体制动员
 > 探讨新一轮科技革命中大国博弈的紧迫性，呼唤二战[[Office of Scientific Research and Development|科学研究与开发办公室]]（OSRD）式的战略协同模式回归。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **以政产学研紧密结盟应对先进 AI 时代的系统性挑战** 卡普与扎米斯卡强调，先进人工智能的兴起为地缘政治对手提供了自二战以来挑战西方地位最强有力的历史契机。面对这一历史性转折，仅靠碎片化的商业自由市场无法维持战略优势。国家必须恢复[[Vannevar Bush|万尼瓦尔·布什]]开创的 OSRD 动员传统与利克莱德主导的 [[DARPA|ARPA]] 模式，以高度互信的伙伴关系将最顶尖的工程师、前沿算法与国家重大安全目标紧密结合，构建能够迅速应对危机的现代技术共和国。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–15)]]
 
 ---
@@ -295,7 +295,7 @@ updated: 2026-10-15
 > [!concept-lens] [[AI Deterrence|人工智能威慑]]与国防采购体系变革
 > 阐释地缘威慑从物理毁灭力量转向智能决策与自主作战算法，呼吁彻底变革落后于时代的工业化采购体制。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **软件与自主算法将决定未来冲突胜负并定义新威慑体系** 卡普与扎米斯卡指出，二战[[Manhattan Project|曼哈顿计划]]开启的原子威慑时代正在落幕，基于大规模兵团作战与物理重型装备的国防采购体系已无法适应未来冲突。如同物理学家[[J. Robert Oppenheimer|罗伯特·奥本海默]]（J. Robert Oppenheimer）当年在洛斯阿拉莫斯领导原子弹研制，当代技术工程师肩负着将算法转化为防务能力的战略责任。面对自主武器的潜在风险与舆论恐慌，技术共和国不能因噎废食呼吁研发暂停，而应主动构建以软件和自主算法为中枢的新一代人工智能威慑体系，并设立严格的[[Man-Computer Symbiosis|人机协同]]护栏。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 18–28)]]
 
 ---
@@ -503,4 +503,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - **技术共和国专著论述** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] 系统阐明技术共和国在人工智能地缘竞争中的制度重塑方案与组织治理哲学。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Ch. 1–4)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Ch. 6–8)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Ch. 9–13)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Ch. 15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Ch. 16)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Ch. 17)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Ch. 18)]]
+> - **技术共和国专著论述** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 系统阐明技术共和国在人工智能地缘竞争中的制度重塑方案与组织治理哲学。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Ch. 1–4)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Ch. 6–8)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Ch. 9–13)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Ch. 15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Ch. 16)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Ch. 17)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Ch. 18)]]

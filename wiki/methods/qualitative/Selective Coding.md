@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Selective Coding
@@ -160,7 +160,7 @@ updated: 2026-10-15
 在完成选择性编码的范畴归并后，全部代码被整合成自下而上的包容层级（hierarchies of subsumption）：下位描述性代码归并入分析编码，分析编码聚合为主轴范畴，最终统一受辖于选择性[[Central Phenomenon|核心范畴]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 562]]）。
 
 > [!decisions] 编码层级建构的两大操作准则
-> - **浅层层级控制原则（Gibbs, 2007）** 格雷厄姆·吉布斯（Graham Gibbs）强调，编码层级能够理顺编码并保持整洁，构建层级本身即是数据分析的一部分。然而，在手动编码及计算机辅助软件中，层级树必须保持**浅层结构（shallow hierarchies）**而非过度嵌套的深层结构（not too many levels）。层级嵌套过深将导致分类体系二次碎片化，模糊核心范畴对全局的理论统摄力。
+> - **浅层层级控制原则（Gibbs, 2007）** 格雷厄姆·吉布斯（Graham Gibbs）强调，编码层级能够理顺编码并保持整洁，构建层级本身即是数据分析的一部分。然而，在手动编码及计算机辅助软件中，层级树必须保持**浅层结构（shallow hierarchies）** 而非过度嵌套的深层结构（not too many levels）。层级嵌套过深将导致分类体系二次碎片化，模糊核心范畴对全局的理论统摄力。
 > - **持续比较检验机制（Glaser & Strauss, 1967）** 为确保各层级范畴内部数据的同质性与范畴间的[[Heterogeneity\|异质性]]，研究者必须在整个数据集中反复实施持续比较，比对同一类别下的不同证据片段，确保理论逻辑严密自洽。
 
 ---

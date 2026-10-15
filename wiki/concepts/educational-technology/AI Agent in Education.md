@@ -58,7 +58,7 @@ tags:
   - cognition/learning-science
   - level/k-12
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # AI Agent in Education
@@ -227,7 +227,7 @@ updated: 2026-10-15
 > |---|---|---|---|---|---|---|---|
 > | Elmaadaway et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 智能语音[[Dialogue in Education\|对话]]机器人 vs. 常规听说练习 | 初中 EFL 英语口语阅读流利度（WCPM） | $N = 60$ | — | Hedges' $g = 2.12$ | $p < .001$ | 准实验设计；对话式智能体实时发音重铸与情景交互 |
 > | Chen et al. (2024)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 交互式古诗词虚拟人物问答智能体 vs. 传统精读教学 | 语文古诗词意境理解与鉴赏表现 | $N = 80$ | — | Hedges' $g = 1.15$ | $p < .001$ | 准实验设计；多轮对话激发深度意境共鸣 |
-> | Feng & Wang (2023)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 拟人表情双语伴读机器人 vs. 传统音频听读 | 小学低段英语口语与听力理解 | $N = 64$ | — | Hedges' $g = 0.76$ | $p < .01$ | 准实验设计；具身多模态实体机器人低龄促学效果突出 |
+> | Feng and Wang (2023)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 拟人表情双语伴读机器人 vs. 传统音频听读 | 小学低段英语口语与听力理解 | $N = 64$ | — | Hedges' $g = 0.76$ | $p < .01$ | 准实验设计；具身多模态实体机器人低龄促学效果突出 |
 > | Fang et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | [[Generative AI Agent in Education\|生成式 AI]]+显性反思量规 vs. 传统编程教学 | Python [[Computational Thinking\|计算思维]]与代码调试表现 | $N = 92$ | — | Hedges' $g = 0.40$ | $p < .05$ | 准实验设计；生成式智能体必须依赖反思量规以赋能高阶思维 |
 > | Tong et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 开放无支架[[Generative Artificial Intelligence\|生成式 AI]] 辅助 vs. 传统探究实验 | 中学物理探究推理与概念理解 | $N = 54$ | — | Hedges' $g = -0.73$ | $p < .05$ | 准实验设计；缺乏教学法约束导致认知卸载与探究阻碍 |
 

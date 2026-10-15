@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Phenomenology
@@ -233,7 +233,7 @@ updated: 2026-10-15
 
 > [!critique]- 批评索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 23)]] — 系统梳理[[Interpretive Paradigm|诠释范式]]下现象学对实证[[Objectivism|客观主义]]的批判逻辑与先验意识三要素。
-> - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024, p. 4)]] — 深入反思全球治理技能[[Discourse|话语]]对现象学生活世界的原子化侵蚀。
+> - [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024, p. 4)]] — 深入反思全球治理技能[[Discourse|话语]]对现象学生活世界的原子化侵蚀。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019, p. 3)]] — 从现象学身体知觉与自由生成角度，全面解构 Hattie 可见学习范式的测量狂热。
 
 ---
@@ -242,6 +242,6 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 23)]] — 系统阐释现象学作为[[Interpretive Paradigm|诠释范式]]基石的[[Epistemology|认识论]]推导、先验意识三要素与胡塞尔[[Epoché|悬置]]方法。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21, p. 450)]] — 详述 Hycner（1985）基于现象学原理构建的 15 步访谈数据分析规程与意义单位提炼。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011, Ch. 29, p. 614)]] — 在系统质性数据[[Analytic Framework|分析框架]]中，进一步规范现象学还原与主题聚类的实施原则。
-> - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024, p. 4)]] — 深入解析现象学作为芬兰[[Phenomenon-Based Learning|现象本位学习]]（PhBL）哲学根基的实践转化与政策抗衡。
+> - [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024, p. 4)]] — 深入解析现象学作为芬兰[[Phenomenon-Based Learning|现象本位学习]]（PhBL）哲学根基的实践转化与政策抗衡。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019, p. 3)]] — 借助身体现象学与教化哲学，全面反思可见学习对学习可见性的机械执念。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 131–132, 136)]] — 梳理比较教育学术史，将现象学列为 1970 年代起打破战后[[Structural Functionalism|结构功能主义]]垄断的 26 种核心理论/方法立场之一，支撑了学科向质性与人本主义[[Paradigm|范式]]的深刻转型。

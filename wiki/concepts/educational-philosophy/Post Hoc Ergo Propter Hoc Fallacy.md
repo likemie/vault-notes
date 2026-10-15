@@ -34,7 +34,7 @@ related_facts: []
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Post Hoc Ergo Propter Hoc Fallacy
 
@@ -73,4 +73,4 @@ updated: 2026-10-15
 
 ## 争议与批评
 
-Cohen & Nagel（1961）从逻辑哲学角度指出，[[Causality|因果关系]]的建立常常仅仅基于"任何先于现象发生的相关事件就是其原因"这一脆弱前提。该谬误的识别本身不提供因果推断的正面方法论，需要结合实验控制、[[Random Assignment|随机化]]和[[Alternative Hypothesis|替代假设]]检验等手段来弥补。
+Cohen and Nagel（1961）从逻辑哲学角度指出，[[Causality|因果关系]]的建立常常仅仅基于"任何先于现象发生的相关事件就是其原因"这一脆弱前提。该谬误的识别本身不提供因果推断的正面方法论，需要结合实验控制、[[Random Assignment|随机化]]和[[Alternative Hypothesis|替代假设]]检验等手段来弥补。

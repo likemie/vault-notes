@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Social Deafness
@@ -115,7 +115,7 @@ updated: 2026-10-15
 > [!concept-lens] 演化心理学与技术创新学维度
 > 阐明为何大众常态化的社交从众倾向会成为高阶科技创新的最大阻碍。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **从众与创新的演化张力** 顺从同侪行为与争取群体认可的本能，在人类漫长演化史中具有极高的自适应与部落生存价值；然而，一旦进入要求开辟全新[[Paradigm|范式]]的[[Creativity|创造性]]领域，这种渴望融入大众的强烈欲望就变成了扼杀原创的枷锁。科技突破必须依靠对社交算计保持钝感的异类工程师，抵御群体压力并坚定探索未知。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, p. 138)]]
 
 ---
@@ -125,7 +125,7 @@ updated: 2026-10-15
 > [!concept-lens] 企业战略与危机管理维度
 > 揭示前沿科技企业如何在舆论喧嚣中保持战略定力。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **战略撤退与研发专注** 在企业面临外界普遍道德质疑或短期舆论指责的关键时刻，最平庸的做法是随波逐流迎合公关合规，而最卓越的做法是践行社交失聪——主动从世俗争议中撤退，拒绝随外部观点起舞，将全部组织资源与[[Intellectual Capital|智力资本]]高度聚焦于底层软件与防务实战系统的打磨。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, p. 137)]]
 
 ---
@@ -135,7 +135,7 @@ updated: 2026-10-15
 > [!concept-lens] 认知重塑与跨界创造力跃迁维度
 > 探讨生理或社交钝感如何打破常规知觉定势，诱发全新艺术与工程宇宙的诞生。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **感官局限向创造力突围的升华** 莫奈晚年白内障带来的视觉模糊与色偏，迫使其超越写实技法而开创抽象表现主义先河；贝多芬进行性失聪迫使其摆脱传统听觉记忆的束缚，仅凭视觉书写构建出革命性的声响宇宙。同理，工程师在社交感知上的“钝感”与“失聪”，能够有效切断外界平庸共识的干扰，迫使其在更深邃的数学、代码与物理实在中开辟全新的技术范式。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, pp. 137–138)]]
 
 ---
@@ -180,16 +180,16 @@ updated: 2026-10-15
 >
 > | 案例与文献来源 | 历史情境与人物 | 考察维度 | 核心观察与实证表现 | 启示与边界 |
 > |---|---|---|---|---|
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025, p. 137)]] | 克劳德·莫奈（1922，巴黎） | 生理视觉局限与艺术突围 | 晚年严重白内障使视力降至十分之一并产生色偏，促成《垂柳》中模糊物象边界的粗犷笔触，直接启发了后世抽象表现主义 | 证实感官局限能迫使艺术家摆脱写实摹写并开创新[[Paradigm\|范式]] |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025, pp. 137–138)]] | 路德维希·凡·贝多芬（1801，维也纳） | 听觉失聪与声响宇宙重构 | 二十余岁失聪后转入秘密隐忍状态，完全依靠视觉乐谱书写构建出超越时代的革命性乐章 | 证实感知通道阻断迫使心智在更高阶的抽象符号中重塑宇宙 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025, pp. 136–138)]] | [[Palantir Technologies\|帕兰提尔科技]]发展史（2003–2025） | 组织抗压与战略退出 | 在硅谷科技界普遍抵制国防军工合作的二十年间，团队主动[[Screening Off\|屏蔽]]外界非难，专注于前线作战软件迭代 | 证实社交失聪是构筑硬核技术护城河的决定性组织特质 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025, p. 137)]] | 克劳德·莫奈（1922，巴黎） | 生理视觉局限与艺术突围 | 晚年严重白内障使视力降至十分之一并产生色偏，促成《垂柳》中模糊物象边界的粗犷笔触，直接启发了后世抽象表现主义 | 证实感官局限能迫使艺术家摆脱写实摹写并开创新[[Paradigm\|范式]] |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025, pp. 137–138)]] | 路德维希·凡·贝多芬（1801，维也纳） | 听觉失聪与声响宇宙重构 | 二十余岁失聪后转入秘密隐忍状态，完全依靠视觉乐谱书写构建出超越时代的革命性乐章 | 证实感知通道阻断迫使心智在更高阶的抽象符号中重塑宇宙 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025, pp. 136–138)]] | [[Palantir Technologies\|帕兰提尔科技]]发展史（2003–2025） | 组织抗压与战略退出 | 在硅谷科技界普遍抵制国防军工合作的二十年间，团队主动[[Screening Off\|屏蔽]]外界非难，专注于前线作战软件迭代 | 证实社交失聪是构筑硬核技术护城河的决定性组织特质 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - **[[Technological Republic|技术共和国]]工程治理与社交失聪体系** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] 系统建构科技组织的微观文化哲学：在第 12 章通过[[Asch Conformity Experiment|阿施从众实验]]、莫奈与贝多芬案例正式提出“社交失聪”与[[Constructive Disobedience|建设性不服从]]，阐明[[Engineering Mindset|工程思维]]抵御盲从与组织平庸的微观机理；在第 1 章批判硅谷主流科技精英脱离国家安全使命的盲从倾向。
+> - **[[Technological Republic|技术共和国]]工程治理与社交失聪体系** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 系统建构科技组织的微观文化哲学：在第 12 章通过[[Asch Conformity Experiment|阿施从众实验]]、莫奈与贝多芬案例正式提出“社交失聪”与[[Constructive Disobedience|建设性不服从]]，阐明[[Engineering Mindset|工程思维]]抵御盲从与组织平庸的微观机理；在第 1 章批判硅谷主流科技精英脱离国家安全使命的盲从倾向。
 
 ---
 

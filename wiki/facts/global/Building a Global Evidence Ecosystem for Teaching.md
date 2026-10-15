@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Building a Global Evidence Ecosystem for Teaching
@@ -70,7 +70,7 @@ updated: 2026-10-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **“构建全球教学[[Evidence Ecosystem\|证据生态系统]]”（Building a Global Evidence Ecosystem for Teaching）**是英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与跨国矿业资源寡头必和必拓旗下基金会（[[BHP Foundation]]）于 2018 年联合发起的五年期跨国教育伙伴项目。该项目旨在通过企业慈善资本的战略注入，将英国本土成型的因果证据评价[[Paradigm\|范式]]与中介网络全球化输出，支持包括澳大利亚、拉美与欧洲在内的多国建立[[Going Native\|本土化]]“[[Educational Brokerage Agency\|证据经纪人]]”（evidence brokers）（Collins, 2018；Edovald & Nevill, 2021；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 8]]）。
+> **“构建全球教学[[Evidence Ecosystem\|证据生态系统]]”（Building a Global Evidence Ecosystem for Teaching）** 是英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与跨国矿业资源寡头必和必拓旗下基金会（[[BHP Foundation]]）于 2018 年联合发起的五年期跨国教育伙伴项目。该项目旨在通过企业慈善资本的战略注入，将英国本土成型的因果证据评价[[Paradigm\|范式]]与中介网络全球化输出，支持包括澳大利亚、拉美与欧洲在内的多国建立[[Going Native\|本土化]]“[[Educational Brokerage Agency\|证据经纪人]]”（evidence brokers）（Collins, 2018；Edovald & Nevill, 2021；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 8]]）。
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2018–2025 年（原定 5 年，因 COVID-19 疫情延期 3 年；2026 年 1 月正式发布最终独立评估报告）。

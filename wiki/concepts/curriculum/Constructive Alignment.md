@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Constructive Alignment
@@ -275,7 +275,7 @@ updated: 2026-10-15
 > | 研究 / 项目 | 样本与情境 | 研究设计 | 核心[[Variable\|变量]]与考察维度 | 原始统计与实证发现 | 解释边界与政策启示 |
 > |---|---|---|---|---|---|
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, pp. 26–27)]] / TESTA 计划 | 英国等国 70 余所大学 100 余个本科专业 | 跨校全课程评价调研与追踪 | 模块化考核负荷与学习策略 | 本科三年经历 60–80 项独立终结性考试，形成性反馈严重匮乏，迫使学生采取应试[[Surface and Deep Learning\|表层学习]] | 证实微观模块对齐若缺乏全课程统整，会引发碎片化过度考核并阻碍[[Higher-Order Thinking Skills\|高阶思维]]养成 |
-> | Arum & Roksa (2011) / Loyalka et al. (2021)（引自 [[Argument_Bouckaert_2023_OECD\|Bouckaert, 2023, pp. 4–5]]） | 全美 24 所高校与中俄印美四国 30,000 余名大学生 | [[Collegiate Learning Assessment\|CLA+]] / [[ETS HEIghten Critical Thinking Assessment\|HEIghten]] 纵向队列追踪 | 大学生[[Critical Thinking\|批判性思维]]与高阶推理增益 | 超过 45% 的本科生在大学前两年批判性思维无统计学显著增长 | 揭示高校学业考核未与高阶思维形成建构性对齐时，宏观政策倡导无法转化为实际能力增益 |
+> | Arum and Roksa (2011) / Loyalka et al. (2021)（引自 [[Argument_Bouckaert_2023_OECD\|Bouckaert, 2023, pp. 4–5]]） | 全美 24 所高校与中俄印美四国 30,000 余名大学生 | [[Collegiate Learning Assessment\|CLA+]] / [[ETS HEIghten Critical Thinking Assessment\|HEIghten]] 纵向队列追踪 | 大学生[[Critical Thinking\|批判性思维]]与高阶推理增益 | 超过 45% 的本科生在大学前两年批判性思维无统计学显著增长 | 揭示高校学业考核未与高阶思维形成建构性对齐时，宏观政策倡导无法转化为实际能力增益 |
 > | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b, p. 86)]] | 涵盖 1,200 项[[Meta-analysis\|元分析]]、6.5 万项研究 | 元分析[[Effect Size\|效应量]]整合 | 明确[[Success Criteria\|成功标准]] (Success Criteria) 对学习表现的促进效应 | $d = 0.77$ | 证实提前公开目标质量标准并与评价对齐对学生[[Academic Achievement\|学业成就]]具有高度促进效应 |
 > | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b, p. 88)]] | 全球教育[[Intervention Research\|干预研究]] | 元分析效应量整合 | 指向下一步改进的反馈 ([[Feedback]]) 效应 | $d = 0.73$ | 证实对齐的形成性反馈循环是推动深层学习的核心机制 |
 

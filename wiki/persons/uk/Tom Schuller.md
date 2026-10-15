@@ -71,7 +71,7 @@ updated: 2026-10-16
 > [!timeline] 生平与职涯
 > - **长期** 在英国学术与政策研究界深耕[[Lifelong Learning\|终身学习]]、成人教育与社会资本领域，曾任多所大学研究职位及政策咨询角色，成为英国社会[[Chinese Academy of Sciences|科学院]]（Academy of Social Sciences）院士。
 > - **2007** 与 [[Tracey Burns]] 合编 [[Centre for Educational Research and Innovation\|OECD CERI]] 报告《教育中的证据：连接研究与政策》（*Evidence in Education: Linking Research and Policy*），主持对全球 6 家标杆[[Educational Brokerage Agency\|教育中介机构]]的首次系统性国际比较研究，确立中介机构类型学的早期[[Analytic Framework\|分析框架]]。
-> - **2022** 与 Burns 合著[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]，对 2007 年报告进行 15 年系统追踪，考察中介机构演进的三重[[Paradigm\|范式]]变迁，以循证医学危机镜鉴诊断证据商业化风险，并提出超越单体孤岛、推进"中介的中介"的系统行动路径。
+> - **2022** 与 Burns 合著[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]，对 2007 年报告进行 15 年系统追踪，考察中介机构演进的三重[[Paradigm\|范式]]变迁，以循证医学危机镜鉴诊断证据商业化风险，并提出超越单体孤岛、推进"中介的中介"的系统行动路径。
 
 ---
 
@@ -103,7 +103,7 @@ updated: 2026-10-16
 > - **跨国传播** 2007 年首次系统性梳理全球[[Educational Brokerage Agency\|教育中介机构]]的研究，直接影响了 2010 年代[[EU|欧盟]] EIPEE/[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 跨国网络的建立以及多国政府对中介机构治理模式的反思。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 与 Burns 共同论证了全球教育中介机构在后真相时代的三重变迁与存续危机，以及建构跨国[[Cumulative Knowledge Base\|累积性知识库]]的系统行动路径。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 与 Burns 共同论证了全球教育中介机构在后真相时代的三重变迁与存续危机，以及建构跨国[[Cumulative Knowledge Base\|累积性知识库]]的系统行动路径。
 
 ---
 

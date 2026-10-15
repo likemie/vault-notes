@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Critical Ethnography
@@ -112,7 +112,7 @@ updated: 2026-10-15
 
 > [!dev-timeline] 发展脉络
 > - **1920s–1930s — 法兰克福学派起源**[[Critical Theory\|批判理论]]奠基，将社会科学的任务从描述社会转向批判和改变社会。
-> - **1970s–1980s — 批判教育研究的兴起**Bowles & Gintis (1976) 对资本主义美国学校教育的分析；Apple 对[[Hidden Curriculum|隐性课程]]的批判；Freire 的[[Critical Pedagogy|解放教育学]]。
+> - **1970s–1980s — 批判教育研究的兴起**Bowles and Gintis (1976) 对资本主义美国学校教育的分析；Apple 对[[Hidden Curriculum|隐性课程]]的批判；Freire 的[[Critical Pedagogy|解放教育学]]。
 > - **1990s — 批判[[Ethnography\|民族志]]的系统化** Thomas (1993) 正式定义批判民族志为"批判理论在行动中"；Carspecken (1996) 提出五阶段操作模型。
 > - **2000s — 扩展到位置性与多重压迫**Madison (2005) 强调研究者的位置性和伦理责任；交叉性理论丰富了批判民族志对多重压迫的分析。
 

@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Productization of the Mind
@@ -77,7 +77,7 @@ updated: 2026-10-08
 > [!concept-lens] 教育体制与主体性培育
 > 论述系统性表达与反思自身信念的[[Liberal Education|博雅教育]]，是抵御思想沦为他人工具的唯一防线。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **心智产品化的防御机制** 真正教育的根本目的，在于引导学生系统性地表达、审视并捍卫自身的实质信念；唯有重建对历史矛盾与世界运动保持好奇与担当的[[Engineering Education|工程教育]]，才能防止一代人的头脑被商业与政治寡头彻底产品化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 76)]]
 
 ---
@@ -87,7 +87,7 @@ updated: 2026-10-08
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **教育异化命题** | 大学管理化与功利化剥夺了学生批判反思世界的智力工具 | 高等教育哲学、课程改革、专业设置 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025)]]; Armitage et al. (2013) |
+> | **教育异化命题** | 大学管理化与功利化剥夺了学生批判反思世界的智力工具 | 高等教育哲学、课程改革、专业设置 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]]; Armitage et al. (2013) |
 
 ---
 

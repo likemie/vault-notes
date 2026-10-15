@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Council of Chief State School Officers
@@ -133,4 +133,4 @@ updated: 2026-10-15
 > | [[Achieve]] | 智库机构 | 长期协助 CCSSO 开展课程对标与基准调研的技术智囊。 |
 > | [[American Federation of Teachers]] | 教师工会 | 参与 CCSSO 组织的草案评审并实施物理剪裁推敲的一线伙伴。 |
 > | [[National Education Association]] | 教师工会 | 派出认证名师参与草案审读并向 CCSSO 提出修订建议的工会组织。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证文献 | 详细记录 CCSSO 如何动员专业经验与去政治化防卫完成标准定稿的研究。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 详细记录 CCSSO 如何动员专业经验与去政治化防卫完成标准定稿的研究。 |

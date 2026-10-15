@@ -52,7 +52,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: '2026-06-08'
+updated: 2026-10-16
 year: 2015
 doi: ""
 citation_aliases:
@@ -93,7 +93,7 @@ citation_aliases:
 >
 > Maggin et al. (2013) 得出"[[What Works Clearinghouse\|WWC]] 标准未捕获推广性细节"的结论是"合理的——如果仅考虑 WWC 的 [[Single-Case Design\|SCD]] 设计标准"(p.460)。但审查程序不能仅从设计标准本身理解：
 >
-> - **设计标准**只是三个组件之一——审查还必须考虑**审查协议（指定[[Research Question\|研究问题]]、目标人群、结果领域、场所）**和 **[[Single-Case Design\|SCD]] Review Guide**（一个系统化数据库，记录所有[[Correlational Research\|相关研究]]细节后再做评估）(p.461)
+> - **设计标准**只是三个组件之一——审查还必须考虑**审查协议（指定[[Research Question\|研究问题]]、目标人群、结果领域、场所）** 和 **[[Single-Case Design\|SCD]] Review Guide**（一个系统化数据库，记录所有[[Correlational Research\|相关研究]]细节后再做评估）(p.461)
 > - 由于截至 2015 年 WWC 发布的 SCD 报告"极少"，公开可见的标准应用信息有限，"也许导致一些人假设标准未处理这一重要问题"
 >
 > ### 2. 推广性细节确实被捕获

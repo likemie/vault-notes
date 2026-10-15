@@ -90,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Bell Labs
@@ -218,7 +218,7 @@ updated: 2026-10-15
 > | [[Focused Research Organization]] | Concept | 为填补贝尔实验室等[[Corporate R&D Labs\|企业中央实验室]]衰落后留下的中等规模工程公共品空白而设立的新型科研组织。 |
 > | [[Process Knowledge]] | Concept | 贝尔实验室将固态物理理论与半导体晶体生长、超净室工艺等默会过程知识深度结合。 |
 > | [[Argument_Schnee_1978_RP\|Schnee (1978)]] | 文献 | 实证考据贝尔实验室如何通过 15 家衍生企业与宽松人才离职政策催生全美半导体产业的经典研究。 |
-> | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio & Mowery (2005)]] | 文献 | 实证分析军工研发资助与反垄断规制如何共同塑造贝尔实验室技术向商用企业外溢的历史论文。 |
+> | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio and Mowery (2005)]] | 文献 | 实证分析军工研发资助与反垄断规制如何共同塑造贝尔实验室技术向商用企业外溢的历史论文。 |
 > | [[Human Capital Theory]] | Theory | 贝尔实验室作为高流动性工程人力资本母体与跨企业衍生网络的核心实证案例。 |
 > | [[Market Shaping and Creating]] | Concept | 贝尔实验室核心技术外溢与联邦需求侧采购共同塑造半导体与计算机新市场的机制。 |
 > | [[Demand-side Innovation Policy]] | Concept | 政府采购为贝尔实验室发明的晶体管与衍生企业产品提供首发市场托底。 |
@@ -249,9 +249,9 @@ updated: 2026-10-15
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 将贝尔实验室定位为[[Pasteur's Quadrant|巴斯德象限]]的最高组织典范（晶体管发明与香农信息论），指出[[Corporate R&D Labs|企业中央实验室]]衰落导致大学单 PI 实验室与初创企业之间出现了中等规模工程公共品的结构性空白，论证设立[[Focused Research Organization|聚焦研究组织]]（FRO）与 [[National Science Foundation|NSF TIP]] X 实验室以填补这一历史断层的政策必要性。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al. (2013)]] — 基于对贝尔实验室微观探索历史的长期[[Participant Observation|参与观察]]，系统论证发现与发明之间相互滋养的非线性循环关系，批判基础与应用两分法的政策危害，并呼吁联邦公共研发资金应重点资助具有明确[[Long-Term Public Utility|长期公共效用]]的应用基础研究。
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 详尽考据贝尔实验室如何通过 1951 年晶体管研讨会、宽松的员工离职创业政策以及 15 家直接衍生企业，成为全美半导体产业技术扩散与[[Human Capital Theory|人力资本]]培育的最关键母体。
-> - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]] — 实证分析 1950 年代军方大额半导体研发资助与 1956 年联邦反垄断同意令（零版税强制许可）的制度合力，揭示贝尔实验室如何客观上向全美半导体新创企业开放技术公地并催生仙童与德州仪器的崛起。
+> - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 实证分析 1950 年代军方大额半导体研发资助与 1956 年联邦反垄断同意令（零版税强制许可）的制度合力，揭示贝尔实验室如何客观上向全美半导体新创企业开放技术公地并催生仙童与德州仪器的崛起。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 系统梳理 20 世纪下半叶企业中央实验室衰落后，[[Knowledge Production|知识生产]]分工从企业内部向大学-产业合作网络转移的历史演进过程，并反思现代[[University-Industry Collaboration|产学合作]]网络在系统性工程整合能力上的局限性。
-> - [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] — 从产业组织演变视角，论述 1984 年 AT&T 拆分及贝尔实验室模式瓦解如何推动半导体产业由垂直整合走向设计与代工的[[Vertical Disintegration|纵向离散]]，并探讨[[Modern Industrial Policy|现代产业政策]]在无国家冠军结构下的协调困境。
+> - [[Argument_Bown_2024_JEP|Bown and Wang (2024)]] — 从产业组织演变视角，论述 1984 年 AT&T 拆分及贝尔实验室模式瓦解如何推动半导体产业由垂直整合走向设计与代工的[[Vertical Disintegration|纵向离散]]，并探讨[[Modern Industrial Policy|现代产业政策]]在无国家冠军结构下的协调困境。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 梳理美国联邦军工采购与反垄断政策对战后贝尔实验室[[Technology Transfer|技术转移]]与商业化路径的深远影响。
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 深入考察冷战后美国半导体与通信工业从大企业中央实验室向敏捷初创及全球化外包转型的制度与战略轨迹。
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 以贝尔实验室解体后半导体产业寻求替代性研发组织为背景，系统对比[[Semiconductor Research Corporation|半导体研究公司]]（SRC）产学联合体与国家实验室的治理机制与成效差异。

@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-09-13'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Kunnskapssenter for utdanning
@@ -74,7 +74,7 @@ updated: 2026-10-15
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> Kunnskapssenter for utdanning（挪威语，英文 Knowledge Centre for Education，亦常译为挪威教育知识中心或挪威知识中心）是挪威教育与研究部（Kunnskapsdepartementet）资助的独立学术研究机构，依托挪威大学系统运作，专门开展教育领域的[[Systematic Review\|系统综述]]与[[Knowledge Mediation\|知识中介]]工作。该机构以开创**平行评审机制（Parallel Review Processes）**著称——在综述研究中系统纳入一线教师与实践者的优先视角，确保证据综合不与课堂现实脱节；同时打破对 [[Randomised Controlled Trials\|RCT]] 黄金标准的单一依赖，发展出涵盖质性与量化证据的综合方法论。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]将其列为"多[[Meta-meta-analysis\|元综合]]派"方法论的北欧代表，以及政府资助自治型中介中践行实践者参与的标杆案例。在国际清算机构比较视阈下，[[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 10)]] 将其与美国[[What Works Clearinghouse|有效干预清算中心]]（[[What Works Clearinghouse\|WWC]]）、英国[[EPPI-Centre|政策与实践证据信息协调中心]]（[[EPPI-Centre]]）及[[Danish Clearinghouse for Educational Research|丹麦教育研究清算中心]]（[[Danish Clearinghouse for Educational Research\|Danish Clearinghouse]]）并列为国际上长期推进教育证据清算（[[Educational Evidence Clearinghouses\|Clearinghouse]]）战略的四大代表性实体。
+> Kunnskapssenter for utdanning（挪威语，英文 Knowledge Centre for Education，亦常译为挪威教育知识中心或挪威知识中心）是挪威教育与研究部（Kunnskapsdepartementet）资助的独立学术研究机构，依托挪威大学系统运作，专门开展教育领域的[[Systematic Review\|系统综述]]与[[Knowledge Mediation\|知识中介]]工作。该机构以开创**平行评审机制（Parallel Review Processes）** 著称——在综述研究中系统纳入一线教师与实践者的优先视角，确保证据综合不与课堂现实脱节；同时打破对 [[Randomised Controlled Trials\|RCT]] 黄金标准的单一依赖，发展出涵盖质性与量化证据的综合方法论。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]将其列为"多[[Meta-meta-analysis\|元综合]]派"方法论的北欧代表，以及政府资助自治型中介中践行实践者参与的标杆案例。在国际清算机构比较视阈下，[[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 10)]] 将其与美国[[What Works Clearinghouse|有效干预清算中心]]（[[What Works Clearinghouse\|WWC]]）、英国[[EPPI-Centre|政策与实践证据信息协调中心]]（[[EPPI-Centre]]）及[[Danish Clearinghouse for Educational Research|丹麦教育研究清算中心]]（[[Danish Clearinghouse for Educational Research\|Danish Clearinghouse]]）并列为国际上长期推进教育证据清算（[[Educational Evidence Clearinghouses\|Clearinghouse]]）战略的四大代表性实体。
 
 > [!org-context] 机构背景与设立渊源
 > - **成立时间** 2013 年正式设立，依托挪威高校体系，初设于奥斯陆地区；作为挪威政府系统性推动[[Evidence-Based Education\|循证教育]]政策建设的产物，由教育与研究部划拨经常性资助。
@@ -156,5 +156,5 @@ updated: 2026-10-15
 > | [[National Institute for Educational Policy Research]] | 机构事实 | 与 NIER 同属"政府资助自治型"中介，两者分别代表亚太（东亚科层模式）与北欧（分权大学依托模式）的制度路径对比。 |
 > | [[Kenniskamer]] | 机构事实 | 与 Kenniskamer 形成制度对比——同为政府资助，但 Kunnskapssenter 凭借大学依托与法定自治跨越政治周期，而 Kenniskamer 因部委直属而随部长离任停摆。 |
 > | [[Professional Judgment]] | 概念 | 平行评审机制从制度层面为教师专业判断提供系统性尊重，是落实"捍卫教师[[Phronesis\|实践智慧]]"承诺的机构化实践。 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] | 论证条目 | 将其作为"多元方法论综合派"与"政府资助自治型"中介的北欧标杆，论证实践者参与平行评审对弥合[[Research-Practice Gap\|研究-实践鸿沟]]的制度价值。 |
+> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 将其作为"多元方法论综合派"与"政府资助自治型"中介的北欧标杆，论证实践者参与平行评审对弥合[[Research-Practice Gap\|研究-实践鸿沟]]的制度价值。 |
 > | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | 论证条目 | 将挪威知识中心确立为国际四大代表性清算机构之一，剖析其底层转移作用假设与目标达成度验证赤字。 |

@@ -61,13 +61,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # National Science and Technology Council
 
 > [!caution] 机构缩写辨析
-> 本条目为**白宫国家科学技术委员会（National Science and Technology Council, NSTC）**，系美国总统直属的内阁级跨部门科技政策统筹中枢；切勿与依据《[[CHIPS and Science Act|芯片与科学法案]]》设立的**[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Semiconductor Technology Center]], NSTC）**相混淆。
+> 本条目为**白宫国家科学技术委员会（National Science and Technology Council, NSTC）**，系美国总统直属的内阁级跨部门科技政策统筹中枢；切勿与依据《[[CHIPS and Science Act|芯片与科学法案]]》设立的 **[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Semiconductor Technology Center]], NSTC）** 相混淆。
 
 ---
 

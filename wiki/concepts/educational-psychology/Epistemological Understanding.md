@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-16
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Epistemological Understanding
@@ -218,5 +218,5 @@ updated: 2026-09-17
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] — 形式化界定[[Epistemology\|认识论]]理解的主客观协调核心机制，实证揭示绝对论、多元论与评价论在五大[[Areas of Knowledge\|知识领域]]中的反向发展序列与成人的多元论滞留现象。
-> - [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] — 将认识论理解深化至科学探究实践中的元认识论理解层面，阐明理解[[Epistemic Ideals\|认识论理想]]与[[Reliable Epistemic Processes\|可靠过程]]背后的因果机理与失效边界对于科学论证实质评价的核心价值。
+> - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 将认识论理解深化至科学探究实践中的元认识论理解层面，阐明理解[[Epistemic Ideals\|认识论理想]]与[[Reliable Epistemic Processes\|可靠过程]]背后的因果机理与失效边界对于科学论证实质评价的核心价值。
 > - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] — 教育心理学大规模[[Meta-analysis\|元分析]]，实证检验认识论理解量表（EUI）对[[Academic Achievement\|学业成就]]的显著预测力（$r = .242$），确立了认识论理解测评的效度基础。

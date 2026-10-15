@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Learning by Doing
@@ -83,7 +83,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **在做中学（Learning by Doing）**，在经济学与产业政策文献中常称**干中学**，是指认知主体、产业组织或公共治理系统通过投身真实实践操作、持续试错排障与经验累积，从而内生性获取、提炼并改进深层知识与治理能力的动态学习机制。在**[[Progressive Education|进步主义教育]]哲学**中，[[John Dewey|约翰·杜威]]（John Dewey）将其确立为打破[[Rote Learning|死记硬背]]、通过真实任务建构行动性理解与[[Critical Thinking|批判性思维]]的核心教学法；[[Argument_Darwish_2009_Queens|(Dewey, 1961; 引自 Darwish, 2009, p. 35)]] 在**产业组织与创新经济学**视角下，干中学表现为随着累积产出规模的扩大，制造良率逐步提升且单位生产成本持续以几何级数下降的[[Learning Economy|学习曲线效应]]，构成了政府通过前期采购或研发补贴分摊沉没风险、帮助新兴产业跨越早期高成本门槛的核心经济学理论辩护；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81, 102)]]; [[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 31)]] 在**现代产业战略治理**视角下，干中学表现为公共部门在政策落地执行中敏捷吸收产业反馈、动态推行规制改革与自适应纠偏的关键过程准则。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–5, 14)]]
+> **在做中学（Learning by Doing）**，在经济学与产业政策文献中常称**干中学**，是指认知主体、产业组织或公共治理系统通过投身真实实践操作、持续试错排障与经验累积，从而内生性获取、提炼并改进深层知识与治理能力的动态学习机制。在 **[[Progressive Education|进步主义教育]]哲学**中，[[John Dewey|约翰·杜威]]（John Dewey）将其确立为打破[[Rote Learning|死记硬背]]、通过真实任务建构行动性理解与[[Critical Thinking|批判性思维]]的核心教学法；[[Argument_Darwish_2009_Queens|(Dewey, 1961; 引自 Darwish, 2009, p. 35)]] 在**产业组织与创新经济学**视角下，干中学表现为随着累积产出规模的扩大，制造良率逐步提升且单位生产成本持续以几何级数下降的[[Learning Economy|学习曲线效应]]，构成了政府通过前期采购或研发补贴分摊沉没风险、帮助新兴产业跨越早期高成本门槛的核心经济学理论辩护；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81, 102)]]; [[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 31)]] 在**现代产业战略治理**视角下，干中学表现为公共部门在政策落地执行中敏捷吸收产业反馈、动态推行规制改革与自适应纠偏的关键过程准则。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–5, 14)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调深层知识与自适应治理能力并非源于静态预设，而是在持续动作、反馈与排障调试的具身回路中内生[[Emergence|涌现]]的自适应专长。
@@ -144,7 +144,7 @@ updated: 2026-10-15
 > [!concept-lens] 产业经济学与动态规模报酬递增
 > 阐明高科技制造业为何具有强烈的[[Path Dependence|路径依赖]]，以及政府通过公共补贴分担早期生产规模积累风险的正当性。
 
-> [!claim] [[Argument_Bown_2024_JEP|Bown & Wang (2024)]]
+> [!claim] [[Argument_Bown_2024_JEP|Bown and Wang (2024)]]
 > **半导体良率学习曲线与产业政策的效率假说** 查德·博恩（Chad P. Bown）与汪智（Zhi Wang）指出，芯片制造不仅要求百亿美元级的沉没研发支出，更具有极度陡峭的干中学学习曲线。新一代尖端制程在刚投产时良率往往极低（甚至不足 20%），企业唯有通过连续大规模生产才能暴露出微观工艺缺陷并完成良率爬坡。这一机制意味着先发扩大产能的企业能以最快速度降低平均成本并挤垮对手。由于早期高缺陷率造成的亏损构成了巨大的私人投资壁垒，政府动用直接采购或建厂补贴支持本土企业承担早期规模化风险，在经济学上具备纠正[[Market Failure|市场失灵]]、培育动态比较优势的理论正当性。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81, 102)]]
 
 > [!claim] [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]]
@@ -157,7 +157,7 @@ updated: 2026-10-15
 > [!concept-lens] 创新经济学与需求侧采购孵化
 > 解释政府首发采购如何通过垫付高额早期溢价，帮助新兴技术供应商在真实应用场景中完成工艺排障与规模累积，使原本昂贵的尖端产品快速降价并外溢至民用市场。
 
-> [!claim] [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]]
+> [!claim] [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]]
 > **军方首发采购作为学习曲线加速器** 基拉·法布里齐奥（Kira R. Fabrizio）与戴维·莫厄里（[[David C. Mowery]]）指出，战后美国国防部（DoD）的集成电路（Integrated Circuit, IC）与计算机采购实质上扮演了“规模学习孵化器”的角色。在技术问世初期，民用市场无法承受集成电路极高的初始价格与不可靠的工艺良率；军方通过导弹制导系统（如“民兵”导弹）的大额首发订单，不仅为供应商提供了不计早期亏损的规模化试验场景，更强制要求推行第二供应商（[[Second-Sourcing]]）制度以共享制造诀窍。大批量军工生产使供应商得以在持续制造中排查晶圆缺陷，驱动芯片单位价格从 1962 年的 32 美元断崖式下跌至 1968 年的不足 2 美元。这一干中学过程使集成电路迅速突破民用商业化盈亏平衡点，外溢成为全行业[[General Purpose Technology|通用技术]]（[[General Purpose Technology]]）。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 31)]]
 
 > [!citation-card] 法布里齐奥与莫厄里论军方采购加速学习曲线
@@ -196,9 +196,9 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **教育认知建构命题** | 真实任务挑战触发假设检验与经验重组，破除储蓄式灌输并塑造[[Critical Thinking\|批判性思维]] | 课堂探究教学、[[STEM Education\|STEM]] 项目化学习、实验与动手任务 | Dewey (1961); [[Argument_Darwish_2009_Queens\|Darwish (2009)]] |
-> | **产业政策效率命题** | 芯片良率爬坡依赖累积规模，早期补贴分担干中学风险构成培育动态先发优势的理论基石 | 先进半导体制造、战略性贸易政策、重大装备工业扶植 | [[Argument_Bown_2024_JEP\|Bown & Wang (2024)]] |
+> | **产业政策效率命题** | 芯片良率爬坡依赖累积规模，早期补贴分担干中学风险构成培育动态先发优势的理论基石 | 先进半导体制造、战略性贸易政策、重大装备工业扶植 | [[Argument_Bown_2024_JEP\|Bown and Wang (2024)]] |
 > | **车间组织排障命题** | 干中学是工程师团队主动开展假设检验与统计过程控制的主动知识积累过程 | 微电子工艺工程史、制造车间质量控制与流程优化 | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999)]] |
-> | **首发采购孵化命题** | 军方首发采购为萌芽技术垫付高额试错成本，通过规模累积驱动干中学良率爬坡并促成民用外溢 | 战后集成电路/计算机采购、前沿通用技术早期[[Market Shaping and Creating\|市场创造]] | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio & Mowery (2005)]] |
+> | **首发采购孵化命题** | 军方首发采购为萌芽技术垫付高额试错成本，通过规模累积驱动干中学良率爬坡并促成民用外溢 | 战后集成电路/计算机采购、前沿通用技术早期[[Market Shaping and Creating\|市场创造]] | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio and Mowery (2005)]] |
 > | **[[National Innovation System\|国家创新系统]]微观基础命题** | 车间一线干中学与工艺改良构成增量创新的核心支柱，无法被正规实验室研发线性替代 | 战后日本与德国制造业赶超、国家[[Systems of Innovation\|创新系统]]体制比较、研发统计局限分析 | [[Argument_Freeman_1995_CJE\|Freeman (1995)]] |
 > | **公共治理自适应命题** | 政策执行依托干中学吸收产业反馈并动态调整规制，避免官僚僵化与执行脱轨 | 重大产业立法落地、清洁能源电网并网改革、本土采购阶段性过渡豁免 | [[Argument_Reynolds_2024_JICT\|Reynolds (2024)]] |
 
@@ -261,8 +261,8 @@ updated: 2026-10-15
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 详细拆解“在做中学”在[[Active Learning|主动学习]]模型中的案例与[[Reflective Thinking|反思性思维]]运作机制。
 > - [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]] — 从微观企业史视角阐明高科技大规模制造车间中工程排障与工艺良率提升的组织化“在做中学”机制。
-> - [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] — 从[[Modern Industrial Policy|现代产业政策]]与半导体全球竞争视角，阐述干中学如何通过先进制程良率爬坡构筑动态成本壁垒，以及政府补贴介入的经济学逻辑。
-> - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]] — 实证阐明战后美国国防采购如何作为“学习曲线孵化器”，通过首发规模采购驱动集成电路良率爬坡与成本暴跌，最终促成其商业化外溢。
+> - [[Argument_Bown_2024_JEP|Bown and Wang (2024)]] — 从[[Modern Industrial Policy|现代产业政策]]与半导体全球竞争视角，阐述干中学如何通过先进制程良率爬坡构筑动态成本壁垒，以及政府补贴介入的经济学逻辑。
+> - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 实证阐明战后美国国防采购如何作为“学习曲线孵化器”，通过首发规模采购驱动集成电路良率爬坡与成本暴跌，最终促成其商业化外溢。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 从历史与[[National Innovation System|国家创新系统]]视角，论证车间现场干中学与生产工程改良构成增量创新的核心支柱，揭示正规研发统计指标的系统性盲区。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 从过程治理视角论证干中学弹性（Flexibility through Learning by Doing）构成现代产业战略规避传统政策失灵、化解落地瓶颈的核心准则。
 

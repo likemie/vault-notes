@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Difference-in-Differences
@@ -72,7 +72,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> **双重差分法（Difference-in-Differences，简称 DID）**是计量经济学与实证教育政策研究中最核心的准实验因果识别方法之一。其基本思想是：在缺乏人为[[Random Assignment\|随机分配]]的情况下，利用外生政策冲击在时间维度与人群维度的自然差异，分别计算处理组在政策出台前后的纵向变动量，以及对照组在同期内的纵向变动量，进而通过**两次做差（差分的差分）**剥离宏观时间趋势与固有群体差异，识别出政策本身的净因果效应（Net Causal Effect）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
+> **双重差分法（Difference-in-Differences，简称 DID）** 是计量经济学与实证教育政策研究中最核心的准实验因果识别方法之一。其基本思想是：在缺乏人为[[Random Assignment\|随机分配]]的情况下，利用外生政策冲击在时间维度与人群维度的自然差异，分别计算处理组在政策出台前后的纵向变动量，以及对照组在同期内的纵向变动量，进而通过**两次做差（差分的差分）** 剥离宏观时间趋势与固有群体差异，识别出政策本身的净因果效应（Net Causal Effect）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 经历政策冲击或制度改革的学校、学区、地区或学生群体的纵向面板数据（Panel Data）或多时期重复截面数据（Repeated Cross-sections）。
@@ -240,4 +240,4 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 详述了英国 [[Education Endowment Foundation\|EEF]] 突破对单一 [[Randomised Controlled Trials\|RCT]] 的教条依赖，设立“[[Researching School Choices\|研究学校选择]]”资助流，依托[[National Pupil Database\|国家学生数据库]]运用双重差分法与[[Propensity Score Matching\|倾向得分匹配]]评估学校宏观体制选择的因果成效。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详述了英国 [[Education Endowment Foundation\|EEF]] 突破对单一 [[Randomised Controlled Trials\|RCT]] 的教条依赖，设立“[[Researching School Choices\|研究学校选择]]”资助流，依托[[National Pupil Database\|国家学生数据库]]运用双重差分法与[[Propensity Score Matching\|倾向得分匹配]]评估学校宏观体制选择的因果成效。

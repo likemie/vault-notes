@@ -13,7 +13,7 @@ related_color: "#bfdbfe"
 confidence: high
 status: active
 created: '2026-05-09'
-updated: 2026-10-07
+updated: 2026-10-16
 tags:
   - cultural-disembedding
   - higher-education
@@ -78,7 +78,7 @@ related_arguments:
 > | **核心矛盾** | 寒门阶层习性 vs. 大都市精英大学默认常识 | 少数民族/宗教身份 vs. 汉儒中心[[Official Knowledge\|官方知识]] |
 > | **表现形式** | 社交语码障碍、不善用都市工具、跟老师同辈隔阂 | 课本无自身文化表达、国家身份异化、[[Reflexivity\|反思性]]疏离 |
 > | **时间性特征** | 偏短期，可通过同伴与学校支持逐步适应缓解 | 偏长期与结构性，由制度化[[Cultural Hierarchy\|文化等级]]造成 |
-> | **代表研究** | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]（高等教育第一代大学生研究） | [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]]（课程话语与少数民族访谈） |
+> | **代表研究** | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]（高等教育第一代大学生研究） | [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]]（课程话语与少数民族访谈） |
 
 ---
 
@@ -121,8 +121,8 @@ related_arguments:
 > [!concept-lens] 国家课程、[[Official Knowledge\|官方知识]]与民族边缘化
 > 探讨学校课程单向度推行主导文化时，如何在边缘少数族群中引发长期的身份疏离。
 
-> [!claim] [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]]
-> **官方课程中的国族文化脱嵌** [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] 将文化脱嵌延伸至国家课程研究。217 册必修教材将“中国文化”系统等同于汉族儒家传统，而缺乏对少数民族与宗教文化的实质代表。这种[[Official Knowledge\|官方知识]]塑造导致少数民族和信教学生在接受课程时产生制度性的文化脱嵌——他们虽身在中国学校，却感到课程呈现的“中国性”极度陌生且排斥自身认同。约 86% 的边缘学生因此产生反思，拒斥官方的儒家垄断地位[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 68–71)]]。
+> [!claim] [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]]
+> **官方课程中的国族文化脱嵌** [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 将文化脱嵌延伸至国家课程研究。217 册必修教材将“中国文化”系统等同于汉族儒家传统，而缺乏对少数民族与宗教文化的实质代表。这种[[Official Knowledge\|官方知识]]塑造导致少数民族和信教学生在接受课程时产生制度性的文化脱嵌——他们虽身在中国学校，却感到课程呈现的“中国性”极度陌生且排斥自身认同。约 86% 的边缘学生因此产生反思，拒斥官方的儒家垄断地位[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 68–71)]]。
 
 ---
 
@@ -132,7 +132,7 @@ related_arguments:
 > | 命题类型 | 场域层级 | 机制与后果 | 代表学者 |
 > |:---|:---|:---|:---|
 > | **微观阶层脱嵌** | 微观机构（精英大学） | 习性与语码不匹配；短期疏离与同伴调适 | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] |
-> | **宏观国族脱嵌** | 宏观制度（国家学校课程） | 汉儒正统抹平多元；结构性排斥与反思抵抗 | [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] |
+> | **宏观国族脱嵌** | 宏观制度（国家学校课程） | 汉儒正统抹平多元；结构性排斥与反思抵抗 | [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] |
 
 ---
 
@@ -142,7 +142,7 @@ related_arguments:
 > - **1944 年 — 经济与社会脱嵌** — Karl Polanyi 在《大转型》中提出“脱嵌”（Disembedding），指经济脱离社会关系的约束。
 > - **1990 年 — 现代性脱嵌机制** — [[Anthony Giddens]] 在《现代性的后果》中指符号资本与专家系统将社会关系从本地情境中“脱嵌”。
 > - **2023 年 — 微观高等教育阶层脱嵌** — [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] 将其引入教育社会学，描述寒门学子进入精英大学体验到的第一重[[Cultural Barrier\|文化障碍]][[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 115)]]。
-> - **2024 年 — 宏观国家课程脱嵌** — [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] 将其扩展至国家课程分析，揭示汉儒中心主义[[Official Knowledge\|官方知识]]对少数民族学生造成的国族认同脱嵌[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
+> - **2024 年 — 宏观国家课程脱嵌** — [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 将其扩展至国家课程分析，揭示汉儒中心主义[[Official Knowledge\|官方知识]]对少数民族学生造成的国族认同脱嵌[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
 
 ---
 
@@ -162,7 +162,7 @@ related_arguments:
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 实证揭示精英大学第一代大学生的文化脱嵌及其与[[Cultural Disorientation\|文化迷失]]的关系。
-> - [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] — 实证揭示 217 册必修教材汉儒中心叙事引发少数民族学生的国族文化脱嵌。
+> - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 实证揭示 217 册必修教材汉儒中心叙事引发少数民族学生的国族文化脱嵌。
 
 ---
 

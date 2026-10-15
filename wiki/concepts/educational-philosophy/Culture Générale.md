@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Culture Générale
@@ -238,5 +238,5 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 考证[[Victor Cousin\|库森]]如何基于[[Faculty Psychology\|官能心理学]]与折衷哲学创立普通文化理想，并主导法国中等教育逾一个世纪。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 考证[[Victor Cousin\|库森]]如何基于[[Faculty Psychology\|官能心理学]]与折衷哲学创立普通文化理想，并主导法国中等教育逾一个世纪。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 将普通文化定性为 19 世纪支配欧洲课程的[[Paideia\|古典教化]]四重奏之一，剖析其在战后的道德破产与向[[Scientific Paradigm\|科学范式]]的转换。

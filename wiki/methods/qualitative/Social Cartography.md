@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Social Cartography
@@ -72,7 +72,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> **社会制图学（Social Cartography）**是由美国比较教育学家[[Rolland Paulston|罗兰·保尔斯顿]]（Rolland Paulston, 1997, 2000）在 1990 年代首创的质性与视觉认知分析方法。该方法深受后现代哲学空间转向（Spatial Turn）与保罗·吉尔罗伊（Paul Gilroy, 1993）“黑色大西洋”（Black Atlantic）等社会文化空间思想启发，主张将教育理论流派、政策[[Discourse|话语]]争鸣与跨国借用实践视作非线性的多维拓扑[[Champ|场域]]；通过绘制具有空间隐喻的“认知地图”（Cognitive Maps）与“差异社会制图”（Social Cartography of Difference），打破以欧洲[[Enlightenment|启蒙运动]]为代表的线性时间进步史观与[[Positivism|实证主义]]单一真理霸权，直观呈现不同学术阵营的立场位置、边界重叠与张力距离，进而为透视教育[[Policy Mobility|政策流动]]、空间区隔及被边缘化群体的空间[[Governmentality|治理术]]提供启发性工具。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–361)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
+> **社会制图学（Social Cartography）** 是由美国比较教育学家[[Rolland Paulston|罗兰·保尔斯顿]]（Rolland Paulston, 1997, 2000）在 1990 年代首创的质性与视觉认知分析方法。该方法深受后现代哲学空间转向（Spatial Turn）与保罗·吉尔罗伊（Paul Gilroy, 1993）“黑色大西洋”（Black Atlantic）等社会文化空间思想启发，主张将教育理论流派、政策[[Discourse|话语]]争鸣与跨国借用实践视作非线性的多维拓扑[[Champ|场域]]；通过绘制具有空间隐喻的“认知地图”（Cognitive Maps）与“差异社会制图”（Social Cartography of Difference），打破以欧洲[[Enlightenment|启蒙运动]]为代表的线性时间进步史观与[[Positivism|实证主义]]单一真理霸权，直观呈现不同学术阵营的立场位置、边界重叠与张力距离，进而为透视教育[[Policy Mobility|政策流动]]、空间区隔及被边缘化群体的空间[[Governmentality|治理术]]提供启发性工具。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–361)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 相互竞争的教育学术理论、研究[[Paradigm|范式]]、政策话语流派、跨国[[Policy Borrowing|教育借用]]网络，以及将学生划分为不同空间容器的[[Disciplina and Doctrina|规训]]技术。
@@ -111,7 +111,7 @@ updated: 2026-10-15
 > | 材料来源 | 学术专著、权威期刊论文、学会纪要、国际组织政策报告及课程改革法案。 |
 > | 抽样或选案 | 采用[[Theoretical Sampling\|理论抽样]]与关键[[Paradigm\|范式]]抽样，选取具有代表性争论特征的纲领性文献。 |
 > | 研究者位置 | 作为学术[[Champ\|场域]]的批判性反思者与跨流派对话促进者，阐明自身制图目的与认知局限。 |
-> | 学者应用谱系 | 包含 Beech (2002)、Dussel et al. (2000)、English (2004)、Epstein (2006)、Gordon & Lahelma (1996)、Ninnes & Burnett (2003)、Nóvoa & Lawn (2002) 等。[[Argument_Sobe_Fischer_2009_MobilityMigration\|(Sobe & Fischer, 2009, p. 360)]] |
+> | 学者应用谱系 | 包含 Beech (2002)、Dussel et al. (2000)、English (2004)、Epstein (2006)、Gordon and Lahelma (1996)、Ninnes and Burnett (2003)、Nóvoa & Lawn (2002) 等。[[Argument_Sobe_Fischer_2009_MobilityMigration\|(Sobe & Fischer, 2009, p. 360)]] |
 
 > [!proc] 质性分析程序
 > 1. **话语界定与文本解构** 系统初读研究领域的代表性文献，提取各学派关于现实本体、[[Epistemic Stances|认识论立场]]与方法论规程的核心命题。
@@ -155,5 +155,5 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 探讨空间转向与[[Rolland Paulston|保尔斯顿]]社会制图学在破除[[Enlightenment|启蒙运动]]“空间时间化”线性偏见、追踪教育[[Policy Mobility|政策流动]]及揭示少数群体空间[[Governmentality|治理术]]中的应用与拓展。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 探讨空间转向与[[Rolland Paulston|保尔斯顿]]社会制图学在破除[[Enlightenment|启蒙运动]]“空间时间化”线性偏见、追踪教育[[Policy Mobility|政策流动]]及揭示少数群体空间[[Governmentality|治理术]]中的应用与拓展。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 评述保尔斯顿如何通过后现代多极[[Paradigm|范式]]制图终结[[Structural Functionalism|结构功能主义]]学术正统，确立批判与冲突[[Discourse|话语]]在比较教育学中的合法空间。

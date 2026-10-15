@@ -198,8 +198,8 @@ updated: 2026-10-16
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **关系物质性与耐用秩序命题** | 瞬时社会关系借由法规、章程与物质技术耐用客体具身化为长程秩序 | 跨区域基础设施、国家级教育中介机构与标准化管理系统 | [[Argument_Rowe_2022_IJER\|Rowe (2022)]]; Law (1992) |
-> | **去政治化与隐形权力命题** | 装配的客观技术外表遮蔽非公立资本与跨国企业规约力量的落地 | 数字化校园硬件落地、智库游说与国家科研外包治理 | [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]]; Latour (2002) |
-> | **结构脆断与建构暴露命题** | 非人类构件失灵或法律档案解密会导致黑箱化权力网络瞬间解组 | 课堂教学技术故障、课程资源更迭与政策审计透明度危机 | Fenwick & Edwards (2010); Callon (1986) |
+> | **去政治化与隐形权力命题** | 装配的客观技术外表遮蔽非公立资本与跨国企业规约力量的落地 | 数字化校园硬件落地、智库游说与国家科研外包治理 | [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]]; Latour (2002) |
+> | **结构脆断与建构暴露命题** | 非人类构件失灵或法律档案解密会导致黑箱化权力网络瞬间解组 | 课堂教学技术故障、课程资源更迭与政策审计透明度危机 | Fenwick and Edwards (2010); Callon (1986) |
 > | **拓扑折叠与跨尺度重组命题** | 数据基础设施与计算中心将远处标准折叠进微观教学以跨越行政边界 | 联邦制多级治理、全国性数据监测网络与数字化自适应教学平台 | [[Argument_Hartong_2018_GSE\|Hartong (2018)]] |
 > | **隐蔽装配效应与国家共生命题** | 权力是异质网络编织的生成性效果，国家通过法规特许与资本形成共生装配 | [[Philanthrocapitalism\|慈善资本主义]]、税法破例特许、非公开政府招标与准政府中介机构 | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] |
 
@@ -248,8 +248,8 @@ updated: 2026-10-16
 > | [[Argument_Hartong_2018_GSE\|Hartong (2018)]] | [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 监测战略、[[Institute for Educational Quality Improvement\|IQB]] 与 [[Vergleichsarbeiten\|VERA]], 德国 | 联邦与州教育部官员、心理测量学者、16 州公立学校、在线试题平台、FDZ 数据库 | KMK 总体战略决议、[[Item Response Theory\|IRT]] 标定题库、去排名保密法条、数字任务平台 | 尊重各州文化主权与坚持去排名的中立质量诊断与科学服务 | 通过标准试卷与题库平台在各州之间搭建拓扑数据管道，实现[[Governing at a Distance\|远处治理]]与跨尺度政策重组（pp. 140–145） |
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | [[Australian Education Research Organisation\|AERO]], 澳大利亚 | 联邦与州教育部、[[Social Ventures Australia\|SVA]]、麦肯锡前顾问、ASIC 监管档案、PGPA 规程修改案 | 依据《公司法》注册的担保有限公司章程、标准化因果量规、5000 万澳元预算法案条款 | 超党派中立的“国家[[Educational Brokerage Agency\|证据经纪人]]”；声称以严谨科学将政治移出课堂 | 掩蔽[[Venture Philanthropy\|风险慈善]]十年游说，前 18 个月免于公开审计报表，立法特许向私营咨询机构分包（pp. 3, 5, 11） |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | [[Social Ventures Australia\|SVA]] 中介网络与国家装配, 澳大利亚 | SVA、[[Australian Schools Plus\|Schools Plus]]、[[Evidence for Learning\|E4L]]、联邦国库部、财政部闭门竞标专家 | 《税法修正案（2013年第2号措施）》、[[Deductible Gift Recipient\|DGR1]] 税务特许代码、1500 万澳元限制性采购合同、两套独立申报表 | 促进教育公平、赋能弱势学校与动员社会捐赠的“公益孵化”与“伙伴关系” | 权力作为隐蔽的装配效应：国家通过立法破例与闭门采购向特定慈善机构定向输送资本与特许权，构建政商兼任闭环（pp. 162–165） |
-> | [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]] | [[Conectar Igualdad\|PCI]] 数字化项目, 阿根廷 | 公立学校教师、学生、教育部官员、Netbook 电脑、操作系统、教室电源布线 | 预装 Windows 与 Linux 双系统、中国定制[[Classroom Management\|课堂管理]]软件、英特尔芯片架构 | 消除数字鸿沟与保障教育公平的免费国家公益福利项目 | 绕过《国家教育法》反商业化规定，将跨国技术资本的标准协议直接植入课堂日常行为（pp. 8–11） |
-> | Fenwick & Edwards (2010) | 基础教育课堂传统教学, 英国/北美 | 执教学科教师、学生、教科书、课程标准大纲、考核试卷、课桌布局 | 印刷纸质教科书、出版商分销合同、官方审定版权批号 | 传授客观中立学科知识与培养核心学业素养的自然教学活动 | 出版商商业资本、学科专家意识形态与行政问责指标对一线教师专业裁量权的隐形剥离（引自 Beech, 2015） |
+> | [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] | [[Conectar Igualdad\|PCI]] 数字化项目, 阿根廷 | 公立学校教师、学生、教育部官员、Netbook 电脑、操作系统、教室电源布线 | 预装 Windows 与 Linux 双系统、中国定制[[Classroom Management\|课堂管理]]软件、英特尔芯片架构 | 消除数字鸿沟与保障教育公平的免费国家公益福利项目 | 绕过《国家教育法》反商业化规定，将跨国技术资本的标准协议直接植入课堂日常行为（pp. 8–11） |
+> | Fenwick and Edwards (2010) | 基础教育课堂传统教学, 英国/北美 | 执教学科教师、学生、教科书、课程标准大纲、考核试卷、课桌布局 | 印刷纸质教科书、出版商分销合同、官方审定版权批号 | 传授客观中立学科知识与培养核心学业素养的自然教学活动 | 出版商商业资本、学科专家意识形态与行政问责指标对一线教师专业裁量权的隐形剥离（引自 Beech, 2015） |
 
 ---
 
@@ -259,4 +259,4 @@ updated: 2026-10-16
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 结合装配理论与[[Topological Spatialisation\|拓扑空间化]]，深入剖析德国国家教育监测基础设施与[[Institute for Educational Quality Improvement\|IQB]][[Center of Calculation\|计算中心]]如何实现跨尺度的政策拓扑重组。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 提出无生命客体的政策装配框架，运用防野狗围栏隐喻解构澳大利亚 [[Australian Education Research Organisation\|AERO]] 背后的企业法注册底座、跨国[[Venture Philanthropy\|风险慈善]]网络与特许商业分包。
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 将装配视角推进至国家与[[Philanthrocapitalism\|慈善资本主义]]的共生关系，揭示权力作为隐蔽装配效应如何依托税法修正案（[[Deductible Gift Recipient\|DGR1]]）、定向闭门采购与双重申报架构重塑公共教育交换规则。
-> - [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]] — 运用装配与 [[Actor-Network Theory\|ANT]] 分析阿根廷 [[Conectar Igualdad\|PCI]] 数字教育项目，证明跨国技术资本权力如何绕过国家宏观法律直接部署在课堂微观装配中。
+> - [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] — 运用装配与 [[Actor-Network Theory\|ANT]] 分析阿根廷 [[Conectar Igualdad\|PCI]] 数字教育项目，证明跨国技术资本权力如何绕过国家宏观法律直接部署在课堂微观装配中。

@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-15
+updated: 2026-10-16
 title: Friedrich Nietzsche
 aliases:
   - Nietzsche, F.
@@ -86,7 +86,7 @@ aliases:
 >
 > | 应用领域 | 承接概念 / 理论工具 | 理论功能与知识转化 | 关键文献与代表学者 |
 > |:---|:---|:---|:---|
-> | **科技与创新政策** | [[Three Generations of Mission-Oriented Policy\|三代使命导向政策理论]] | 将“骆驼–狮子–儿童”精神三变转化为创新政策从后发追赶、[[Big Science\|大科学]]技术攻坚到应对复杂社会挑战敏捷共创的 150 年演化模型。 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018)]] |
+> | **科技与创新政策** | [[Three Generations of Mission-Oriented Policy\|三代使命导向政策理论]] | 将“骆驼–狮子–儿童”精神三变转化为创新政策从后发追赶、[[Big Science\|大科学]]技术攻坚到应对复杂社会挑战敏捷共创的 150 年演化模型。 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] |
 > | **教育哲学与理论** | [[Postmodernism\|后现代主义教育理论]] | 依托视角主义与权力谱系学，解构[[Grand Theory\|宏大叙事]]与标准化知识垄断，推动[[Critical Pedagogy\|批判教育学]]与多元主体审议发展。 | Foucault (1975); Lyotard (1979) |
 > | **古典社会学理论** | 诸神纷争与现代性祛魅 | 启迪了[[Max Weber\|马克斯·韦伯]]关于终极价值冲突、工具理性铁笼与学术志业伦理的现代性诊断。 | [[Max Weber\|Weber (1919)]] |
 > | **文化与人文传统** | [[Bildung\|德国教养哲学传统]] | 作为德国[[Geisteswissenschaften\|精神科学]]批判维度的重要思想坐标，反思现代教育过度技术化与[[Cognitive Deskilling\|去技能化]]危机。 | [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] |

@@ -45,7 +45,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Revoicing
@@ -156,7 +156,7 @@ updated: 2026-10-15
 > [!contrast-table] 话语重铸的核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **微观认知提升命题** | 教师通过重铸实现概念范畴升级并确认学生观点作者权 | 探究式科学与数学课堂对话 | O'Connor & Michaels (1993); [[Jin Li\|Li (2012)]] |
+> | **微观认知提升命题** | 教师通过重铸实现概念范畴升级并确认学生观点作者权 | 探究式科学与数学课堂对话 | O'Connor and Michaels (1993); [[Jin Li\|Li (2012)]] |
 > | **文化制度契合命题** | 策略有效性依赖西方表达即思考的个体主义文化模型 | 跨文化教学比较与多文化课堂 | [[Argument_Li_2012_Cambridge\|Li (2012)]]; He (2001) |
 
 ---

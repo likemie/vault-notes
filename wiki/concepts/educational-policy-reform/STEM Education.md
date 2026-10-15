@@ -85,7 +85,7 @@ related_methods:
 confidence: high
 status: completed
 created: 2026-06-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # STEM Education
@@ -170,7 +170,7 @@ updated: 2026-10-15
 > [!concept-lens] [[Domain Specificity\|学科特异性]]与家族相似性
 > 探讨 STEM 内部科学、工程与社会议题在[[Knowledge Building Theory|知识建构]]标准、证据要求与评价尺度上的深层差异，防范将 STEM 简化为无差别的抽象五步法。
 
-> [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]
+> [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]
 > **跨学科规程异质性与[[Epistemic Practices\|认识论实践]]矩阵** STEM 教育不是将所有门类融为单一教条的[[Scientific Method\|科学方法]]，各子学科之间展现出“家族相似性”而非绝对同一性。探究式科学（如物理探究）以解释自然为旨归，遵循严格受控实验与[[Causality\|因果推断]]规范；[[Engineering Education|工程教育]]（Engineering Education）以满足实际需求为目的，在材料、成本与安全等多重约束下寻求最优权衡与原型折中（Cunningham & Carlsen, 2014）；而[[Socioscientific Issues\|社会科学议题]]（Socio-Scientific Issues, SSI）则进一步统合伦理、生态与公共利益，在多元价值冲突中寻求民主协商共识（Sadler, 2004）。优质 STEM 课程必须尊重各领域的[[Domain Specificity\|学科特异性]]认识论规程，引导学生体验不同知识主张的合法化路径。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 142–143, 154–157)]]
 
 ---
@@ -213,8 +213,8 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **指导探究整合命题** | STEM 教学应破除直接讲授与探究对立，实施基于时序编排的受指导探究 | 跨学科课程教学设计、理科教学法改革、认知负荷调控 | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]; Klahr & Nigam (2004) |
-> | **学科规程异质性命题** | STEM 内部探究科学、工程设计与社会议题遵循异质性认识论规范与评价标准 | K-12 课程标准研制、跨学科项目化学习、工程与科学融合教学 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]; Cunningham & Carlsen (2014) |
+> | **指导探究整合命题** | STEM 教学应破除直接讲授与探究对立，实施基于时序编排的受指导探究 | 跨学科课程教学设计、理科教学法改革、认知负荷调控 | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]; Klahr and Nigam (2004) |
+> | **学科规程异质性命题** | STEM 内部探究科学、工程设计与社会议题遵循异质性认识论规范与评价标准 | K-12 课程标准研制、跨学科项目化学习、工程与科学融合教学 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]; Cunningham and Carlsen (2014) |
 > | **技术中介知识整合命题** | 数字化仿真与微世界交互平台能有效降低认知负荷并促进跨学科概念整合 | 虚拟实验平台开发、技术增强科学探究、微世界参数建模 | 同上（De Jong et al.）; Linn et al. (2006); Wieman et al. (2008) |
 > | **战略人才再生产命题** | 地缘产业竞争倒逼国家通过立法强力干预 STEM 教育并重塑大学有组织科研生态 | 国家产业政策评估、战略人才池动员、高校微观学者工作坊迭代 | [[Argument_Brint_2023_IHE\|Brint (2023)]]; [[Argument_Murphy_2026_JTS\|Murphy Jr. et al. (2026)]] |
 > | **中试硬件赋能与纵向贯通命题** | 国家级中试基线与劳动力卓越中心贯通从 K-12 到博士全谱系，实现软硬件深度赋能 | 微电子创新生态、产教[[Pilot Scale Platform\|中试平台]]实战、全包式弱势群体教育支持 | [[Argument_NIST_2023_NSTC\|NIST (2023)]] |
@@ -243,7 +243,7 @@ updated: 2026-10-15
 > - **1990s — 术语起源与国家战略萌芽** [[National Science Foundation|美国国家科学基金会]]（NSF）正式整合科学、数学、工程与技术项目，提出“STEM”缩写，确立跨学科国家创新人才战略。
 > - **2007 — 立法确立与财政扩张** 美国国会通过《[[America COMPETES Act|美国竞争法案]]》（America COMPETES Act），将 STEM 教育提升为保障国家经济安全与全球[[Competitiveness|竞争力]]的法定核心支柱。
 > - **2012 — 实践导向与国家课程标准确立** [[National Research Council|美国国家科学研究委员会]]（NRC）发布《K-12 科学教育框架》，将“科学与工程实践”（SEPs）并列确立为核心维度，推动 STEM 走向教学法深水区。
-> - **2018 — [[Epistemic Practices|认识论实践]]与学科[[Heterogeneity|异质性]]深化** [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] 提出 STEM 各领域的认识论实践比较矩阵，破除教条式[[Scientific Method|科学方法]]，强化工程折中与[[Socioscientific Issues|社会科学议题]]审议。
+> - **2018 — [[Epistemic Practices|认识论实践]]与学科[[Heterogeneity|异质性]]深化** [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] 提出 STEM 各领域的认识论实践比较矩阵，破除教条式[[Scientific Method|科学方法]]，强化工程折中与[[Socioscientific Issues|社会科学议题]]审议。
 > - **2022–2026 — 战略关键产业再聚焦与国际人才池博弈** 《[[CHIPS and Science Act|芯片与科学法案]]》将 STEM 教育直接锚定于解决 140 万尖端工程与半导体技术劳动力短缺，通过 GRFP 扩招 50% 应对中国工科毕业生四倍规模优势，推动 STEM 教育从中小学课程与高校本研教学进一步向大学科研人员跨学科专业发展与产学研协同延伸。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]; [[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 1–3, 7)]]
 > - **2023 — 全谱系中试赋能与国家[[Innovation Ecosystem|创新生态]]深度融合** 美国商务部发布《[[National Semiconductor Technology Center|国家半导体技术中心]]愿景与战略》（[[Argument_NIST_2023_NSTC|NIST, 2023]]），设立劳动力卓越中心（WCoE），通过共享 300mm 洁净室中试线、云端设计网关（DEG）与全包式支持服务，推动微电子 STEM 教育从抽象讲授向全谱系真实工程实操深化。
 > - **2023 — 学习科学视角下的教学法调和** [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] 系统总结数十年实证证据，确立[[Inquiry-Based Learning|指导式探究]]与时序整合在 STEM 概念掌握与[[Epistemology|认识论]]素养培育上的共识[[Paradigm|范式]]。
@@ -275,7 +275,7 @@ updated: 2026-10-15
 > 
 > | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | Klahr & Nigam (2004) | [[Control of Variables Strategy\|变量控制策略]]（CVS）：直接讲授 vs 纯发现探索 | CVS 策略掌握率与跨情境设计迁移 | 112 名三至四年级小学生 | [[Direct Instruction\|直接讲授]]组 77% 掌握 vs 发现组 23% | $d \approx 1.10$ | $p<.001$ | 早期实验室对照实验。确立了显性直接讲授在基础规则学习中的高效率，但未考察长效认识论探究态度。 |
+> | Klahr and Nigam (2004) | [[Control of Variables Strategy\|变量控制策略]]（CVS）：直接讲授 vs 纯发现探索 | CVS 策略掌握率与跨情境设计迁移 | 112 名三至四年级小学生 | [[Direct Instruction\|直接讲授]]组 77% 掌握 vs 发现组 23% | $d \approx 1.10$ | $p<.001$ | 早期实验室对照实验。确立了显性直接讲授在基础规则学习中的高效率，但未考察长效认识论探究态度。 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | [[Inquiry-Based Learning\|指导式探究]]学习 vs 传统单向讲授 | 概念理解、长效迁移、[[Scientific Attitude\|科学态度]]与科学[[Self-Efficacy\|自我效能]] | K-12 科学与 STEM 探究文献综合与[[Systematic Review\|系统综述]] | — | 指导式探究在深层理解与[[Epistemology\|认识论]]维度全面优于纯讲授 | 综合多项元分析[[Chain of Evidence\|证据链]]确证 | 国际学习科学权威综述；证实指导式探究与时序动态整合是最优教学[[Paradigm\|范式]]。 |
 
 > [!ref-table]- 其他实证结果（无效应量）
@@ -293,7 +293,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 权威综述提出破除[[Direct Instruction|直接讲授]]与探究的二元对立，系统构建基于[[Inquiry-Based Learning|指导式探究]]、时序编排与技术增强仿真的 STEM 循证教学[[Paradigm|范式]]。
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 阐释探究科学、[[Engineering Education|工程教育]]与[[Socioscientific Issues|社会科学议题]]在 STEM 视阈下的[[Epistemology|认识论]]规程差异，提出跨学科[[Epistemic Practices|认识论实践]]比较矩阵（pp. 142–143, 154–157）。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 阐释探究科学、[[Engineering Education|工程教育]]与[[Socioscientific Issues|社会科学议题]]在 STEM 视阈下的[[Epistemology|认识论]]规程差异，提出跨学科[[Epistemic Practices|认识论实践]]比较矩阵（pp. 142–143, 154–157）。
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 探讨《[[CHIPS and Science Act|芯片与科学法案]]》中为应对中国四倍工科毕业生规模优势而设立的数十亿美元理科资助与 GRFP 博士奖学金扩招 50% 举措，评估国家战略产业政策对 STEM 人才再生产的实际影响。
 > - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 在《[[CHIPS and Science Act|芯片与科学法案]]》背景下，以高水平[[Research Universities|研究型大学]]为案例，实证检验多轮迭代学者发展工作坊如何打破工程科技院系壁垒，培育应对 140 万国家 STEM 岗位缺口的跨学科半导体科研与教学共同体。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 提出依托[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）与劳动力卓越中心（WCoE），构建贯通 K-12 到硕博士的全谱系微电子 STEM 人才生态，通过共享 300mm 中试线与云端设计网关实现真实工程实训赋能。

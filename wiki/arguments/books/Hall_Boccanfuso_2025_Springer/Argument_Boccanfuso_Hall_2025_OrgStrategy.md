@@ -64,7 +64,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-27
-updated: 2026-10-06
+updated: 2026-10-16
 subtype: book-chapter
 publication_type: book
 title: "Argument_Boccanfuso_Hall_2025_OrgStrategy"
@@ -96,7 +96,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract]
-- [[Triple Helix]]（三重螺旋）— Etzkowitz & Leydesdorff(1995)的大学-产业-政府协作模型，提供了[[University-Industry Collaboration|产学合作]]的宏观制度背景。政府通过 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 等立法和 [[National Science Foundation|NSF]] 等资助机制塑造产学互动的制度环境，大学和企业在这个环境中寻找合作空间(p.52)
+- [[Triple Helix]]（三重螺旋）— Etzkowitz and Leydesdorff(1995)的大学-产业-政府协作模型，提供了[[University-Industry Collaboration|产学合作]]的宏观制度背景。政府通过 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 等立法和 [[National Science Foundation|NSF]] 等资助机制塑造产学互动的制度环境，大学和企业在这个环境中寻找合作空间(p.52)
 - [[Entrepreneurial University]]（创业型大学）— Etzkowitz et al.(2000)提出的模型：大学不再是被动等待企业上门，而是主动调整内部文化、创建专门办公室、改革激励制度来寻求产业合作。本章研究的正是这种"主动组织"的具体形态(p.52)
 - [[University-Industry Collaboration]] — 该章关注的不只是产学合作的内容（[[Knowledge Transfer|知识转移]]、技术商业化），更是它的组织形式（谁来管、管什么、怎么管）。核心问题是：大学如何把产学合作从一个分散的、个人驱动的活动变成一个有组织、有战略的制度行为
 - [[Academic Engagement#^industry-engagement|学术参与]]（[[Academic Engagement#^industry-engagement]]）与商业化（commercialization）的区分 — Perkmann et al.(2013)的关键洞察：学术参与（教师与企业合作研究、联合发表、学生实习等）比商业化（专利、许可、衍生企业）更少受组织嵌入、更多由个人自主驱动。这意味着"组织"学术参与比"组织"[[Technology Transfer|技术转移]]更难——因为前者天然是分散的、个人化的(p.53)
@@ -127,7 +127,7 @@ citation_aliases:
 
 **步骤 1：起点观察——已有的研究不足以回答"怎么组织"**
 
-过去二十年的产学合作研究已经非常丰富。Ankrah & Al-Tabbaa(2015)、Perkmann et al.（2013, 2021）、Rybnicek & Konigsgruber(2019)等综述覆盖了[[Knowledge Transfer|知识转移]]的渠道、合作成功的因素、参与者的动机和制度障碍(p.53)。
+过去二十年的产学合作研究已经非常丰富。Ankrah and Al-Tabbaa(2015)、Perkmann et al.（2013, 2021）、Rybnicek and Konigsgruber(2019)等综述覆盖了[[Knowledge Transfer|知识转移]]的渠道、合作成功的因素、参与者的动机和制度障碍(p.53)。
 
 但这里有一个盲区：几乎所有研究都在讨论"合作本身"——合作的内容、合作的障碍、合作的收益——而不讨论"谁来组织这个合作"。打个比方：现有研究详细分析了"什么食材搭配好吃"（产学合作的内容），但几乎没有人研究"厨房应该怎么设计"（大学如何组织结构来支持这些合作）。
 

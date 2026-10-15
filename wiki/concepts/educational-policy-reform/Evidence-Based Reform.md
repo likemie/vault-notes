@@ -120,7 +120,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **证据本位改革（Evidence-Based Reform, EBR）**是[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）于 2002 年提出并持续倡导的宏观教育政策治理框架。该框架主张教育者与决策者将**关于有效性的严格实证研究证据**作为选择、采购与资助具体教育项目、教材和教学实践的核心法定标准。其证据基础特指来自对照[[Experimental Research\|实验研究]]（将使用干预项目的实验组与采用常规方法的对照组进行[[Academic Achievement\|学业成就]]对比，理想上采用[[Random Assignment\|随机分配]]）的严谨因果推论结果。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 15)]]; [[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 22)]]
+> **证据本位改革（Evidence-Based Reform, EBR）** 是[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）于 2002 年提出并持续倡导的宏观教育政策治理框架。该框架主张教育者与决策者将**关于有效性的严格实证研究证据**作为选择、采购与资助具体教育项目、教材和教学实践的核心法定标准。其证据基础特指来自对照[[Experimental Research\|实验研究]]（将使用干预项目的实验组与采用常规方法的对照组进行[[Academic Achievement\|学业成就]]对比，理想上采用[[Random Assignment\|随机分配]]）的严谨因果推论结果。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 15)]]; [[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 22)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将医学与农业领域的“研发 $\to$ 对照实验 $\to$ 独立审查 $\to$ 政策准入/财政激励”创新累积机制系统引入教育治理。
@@ -135,7 +135,7 @@ updated: 2026-10-16
 > [!boundary]- 概念边界
 > - **不等于[[Evidence-Based Education\|循证教育]]（EBE）** 循证教育是指“教育决策应当参考研究证据”的宏观哲学与倡导理念；证据本位改革（EBR）则是推动该理念落地的**法定政策、拨款杠杆与审查管线**。
 > - **不等于[[Evidence-Informed Practice\|证据知情实践]]（EIP）** 证据知情实践往往允许教师依据宽泛原则进行自由情境裁剪；而 EBR 强调必须依托经过完整对照实验验证的**具体结构化方案与配套培训**。
-> - **不等于抽象的“[[Scientifically Based Research\|基于科学研究]]”（Research-Based）** 斯莱文（[[Argument_Slavin_2002_ER\|Slavin, 2002, p. 19]]）提出著名的“莱特兄弟类比”，指出发明家使用了完全相同的航空物理学原理，但只有莱特兄弟的飞机飞上了天空；仅“基于研究原理”设计的项目在现实课堂中极易因过于繁难或培训不足而失效，只有经过**严格实验评估验证（Proven / Evaluated）**的项目才能作为改革依据。
+> - **不等于抽象的“[[Scientifically Based Research\|基于科学研究]]”（Research-Based）** 斯莱文（[[Argument_Slavin_2002_ER\|Slavin, 2002, p. 19]]）提出著名的“莱特兄弟类比”，指出发明家使用了完全相同的航空物理学原理，但只有莱特兄弟的飞机飞上了天空；仅“基于研究原理”设计的项目在现实课堂中极易因过于繁难或培训不足而失效，只有经过**严格实验评估验证（Proven / Evaluated）** 的项目才能作为改革依据。
 
 ---
 
@@ -148,7 +148,7 @@ updated: 2026-10-16
 > | **证据范围** | 以量化实验、[[Meta-analysis\|元分析]]证据为主 | 包容质性、[[Mixed Methods Research\|混合方法]]、专业经验与[[Local Knowledge in Evidence-Based Policy\|地方知识]] | 严格要求符合法定标准的对照实验（[[Randomised Controlled Trials\|RCT]]/[[Quasi-Experimental Designs\|QED]]） |
 > | **落地载体** | 教师教育理念与宏观呼吁 | 课堂教学微调与校本教研社群 | 经过实验验证的具体教材、技术工具与结构化项目 |
 > | **政策机制** | 松散指导与学术讨论 | 柔性能力建设与[[Knowledge Mediation\|知识中介]]网络 | 与政府教育拨款（如 [[Every Student Succeeds Act\|ESSA]] Title I）实施刚性法律绑定 |
-> | **代表学者** | [[Robert Slavin\|Slavin]]; [[John Hattie\|Hattie]] | Hargreaves; Cain; Nelson | [[Argument_Slavin_2002_ER\|Slavin (2002)]]; [[Argument_Slavin_2019_EP\|Slavin (2019)]]; [[Argument_Cheung_2021_ECNUROE\|Cheung & Xie (2021)]] |
+> | **代表学者** | [[Robert Slavin\|Slavin]]; [[John Hattie\|Hattie]] | Hargreaves; Cain; Nelson | [[Argument_Slavin_2002_ER\|Slavin (2002)]]; [[Argument_Slavin_2019_EP\|Slavin (2019)]]; [[Argument_Cheung_2021_ECNUROE\|Cheung and Xie (2021)]] |
 
 ---
 
@@ -224,8 +224,8 @@ updated: 2026-10-16
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **具体方案具象化命题** | 论证抽象原则无法转化，主张以实验验证的具体产品为改革载体 | 课程教材研发、教师专业发展设计、教学干预评估 | [[Argument_Slavin_2002_ER\|Slavin (2002)]] |
-> | **三条件制度协同命题** | 阐明项目存量、独立审查与财政激励必须三位一体协同发力 | 联邦与州级教育立法、公共教育经费分配、清算平台建设 | [[Argument_Slavin_2019_EP\|Slavin (2019)]]; [[Argument_Cheung_2021_ECNUROE\|Cheung & Xie (2021)]] |
-> | **跨国语境化调适命题** | 揭示非英美系统在证据库、语言与哲学传统上的张力与过渡策略 | 比较教育政策、跨国证据中介网络、多元方法学融合 | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]]; [[Argument_Dachet_2021_ECNUROE\|Dachet & Baye (2021)]] |
+> | **三条件制度协同命题** | 阐明项目存量、独立审查与财政激励必须三位一体协同发力 | 联邦与州级教育立法、公共教育经费分配、清算平台建设 | [[Argument_Slavin_2019_EP\|Slavin (2019)]]; [[Argument_Cheung_2021_ECNUROE\|Cheung and Xie (2021)]] |
+> | **跨国语境化调适命题** | 揭示非英美系统在证据库、语言与哲学传统上的张力与过渡策略 | 比较教育政策、跨国证据中介网络、多元方法学融合 | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]]; [[Argument_Dachet_2021_ECNUROE\|Dachet and Baye (2021)]] |
 
 ---
 
@@ -297,7 +297,7 @@ updated: 2026-10-16
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | 美国 i3/[[Entrepreneur in Residence\|EIR]] 资助项目（171 项）与英国 [[Education Endowment Foundation\|EEF]] 资助项目（180+ 项） | 政策项目库统计与系统评价 | 达到 [[Every Student Succeeds Act\|ESSA]] 强与中等标准的阅读与数学方案数 | 约 100 个合规方案（阅读与数学） | — | 仅涵盖达标审查的 K-12 阅读与数学方案，科学/艺术领域依然匮乏 |
-> | [[Argument_Dachet_2021_ECNUROE\|Dachet & Baye (2021)]] | 法语比利时《[[Pact for Educational Excellence\|教育卓越公约]]》证据库（70 项教育资源） | 本土证据库分类普查 | 本土因果实验方案占比 | 本土严谨实验设计仅占 3%（2 项） | — | 说明非英美国家在推进 EBR 初期面临严重的本土实验方案存量不足瓶颈 |
+> | [[Argument_Dachet_2021_ECNUROE\|Dachet and Baye (2021)]] | 法语比利时《[[Pact for Educational Excellence\|教育卓越公约]]》证据库（70 项教育资源） | 本土证据库分类普查 | 本土因果实验方案占比 | 本土严谨实验设计仅占 3%（2 项） | — | 说明非英美国家在推进 EBR 初期面临严重的本土实验方案存量不足瓶颈 |
 > | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] | 奥地利施泰尔马克州 362 名公立义务教育学校校长 | 问卷调查与 $k$ 均值[[Cluster Analysis\|聚类分析]]（22 项治理工具评价） | 证据本位与[[Output-Oriented Governance\|产出导向治理]]工具（标准测试、国家报告、国际比较）的校长认同比例 | 仅 27.5% 校长高度认同循证治理（[[Evidence-Based School Development\|循证学校发展]]型），多数仍倾向资源驱动（37.5%）或弱发展取向（35.0%） | [[Intraclass Correlation Coefficient\|组内相关系数]]（ICC）介于 0.09 至 0.41；[[Analysis of Variance\|方差分析]]显著 | 揭示德语区欧陆语境下证据本位治理面临一线校长的认知分化与文化惯性制约 |
 
 ---
@@ -309,10 +309,10 @@ updated: 2026-10-16
 > - [[Argument_Slavin_2002_ER\|Slavin (2002)]] — 证据本位改革奠基之作，系统阐释开发-评估-推广[[Paradigm\|范式]]与反思教育研究声誉危机。
 > - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 桑代克终身成就奖演说论著，系统总结 15 年来三条件基础设施突破与 [[Response to Proven Instruction\|RTPI]] 方案蓝图。
 > - [[Argument_Slavin_2021_ECNUROE\|Slavin et al. (2021)]] — 跨国比较视域下的中美英循证改革演进与对中国学者五类质疑的理论辨正。
-> - [[Argument_Cheung_2021_ECNUROE\|Cheung & Xie (2021)]] — ECNUROE 特刊导言，以 COVID-19 疫苗试验类比教育实验，呈现全球过去、现在与未来图景。
-> - [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] — 剖析欧洲大陆软法协调机制下的证据知情政策路径与多语言语境张力。
-> - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]] — 探讨三条件框架下地方可用性信息（成本、技术支持）对学区采购决策的关键影响。
-> - [[Argument_Dachet_2021_ECNUROE\|Dachet & Baye (2021)]] — 法语比利时《[[Pact for Educational Excellence\|教育卓越公约]]》案例，展示低实验存量环境下的包容性验证类型学过渡策略。
+> - [[Argument_Cheung_2021_ECNUROE\|Cheung and Xie (2021)]] — ECNUROE 特刊导言，以 COVID-19 疫苗试验类比教育实验，呈现全球过去、现在与未来图景。
+> - [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] — 剖析欧洲大陆软法协调机制下的证据知情政策路径与多语言语境张力。
+> - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] — 探讨三条件框架下地方可用性信息（成本、技术支持）对学区采购决策的关键影响。
+> - [[Argument_Dachet_2021_ECNUROE\|Dachet and Baye (2021)]] — 法语比利时《[[Pact for Educational Excellence\|教育卓越公约]]》案例，展示低实验存量环境下的包容性验证类型学过渡策略。
 > - [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] — 对 [[Randomised Controlled Trials\|RCT]] 概化力、[[Effect Size\|效应量]]失真与助教去情境化评价的批判性考察。
 > - [[Argument_Biesta_2010_SPE\|Biesta (2010)]] — 对将教育简化为分层因果干预的技术主义与工具理性提出哲学反思。
 > - [[Argument_Peterson_2016_IJRME\|Peterson (2016)]] — 从微观实施机制与活性成分视角批判预包装完整项目的采纳假设。

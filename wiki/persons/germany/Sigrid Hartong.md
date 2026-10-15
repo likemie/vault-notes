@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Sigrid Hartong
@@ -135,7 +135,7 @@ updated: 2026-10-08
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 结合[[Topological Spatialisation\|拓扑空间化]]与[[Assemblage|装配理论]]，深入考察德国 [[PISA]] 震荡后 [[Institute for Educational Quality Improvement\|IQB]] 作为国家[[Center of Calculation\|计算中心]]与跨州绩效数据基础设施的演进历程。
-> - [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019)]] — 跨国比较美德两地州级教育行政机关，系统解构学校数据监测技术黑箱并提出做数据张力框架。
+> - [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]] — 跨国比较美德两地州级教育行政机关，系统解构学校数据监测技术黑箱并提出做数据张力框架。
 
 ---
 

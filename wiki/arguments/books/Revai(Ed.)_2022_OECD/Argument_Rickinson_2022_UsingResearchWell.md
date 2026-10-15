@@ -79,7 +79,7 @@ related_facts:
   - "[[Early Steps]]"
 status: draft
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-10-16
 ---
 # Argument_Rickinson_2022_UsingResearchWell
 
@@ -133,7 +133,7 @@ updated: 2026-09-14
 > |---|---|
 > | **第一阶段：跨领域系统综述与框架建构**<br>[[Systematic Review]] & Narrative Synthesis | 2019 年启动前期概念研究，针对卫生保健、社会关照、公共政策与教育四大领域的[[Research Utilization\|证据使用]]文献展开系统综述与叙事综合。研究发现各领域均普遍缺乏关于使用质量的直接界定，但均包含指向能力建设的间接思考。研究团队基于四份叙事综合报告提炼异同，初步建构 [[Quality Use of Research Evidence Framework\|QURE]] 框架，并通过与合作学校、教育行政部门及学界利益相关者的研讨会与工作坊迭代修订。 |
 > | **第二阶段：大规模学校问卷调查研究**<br>[[Survey Research]] | 2020 年 3 月至 2021 年 10 月面向澳大利亚 4 个州开展两轮标准化问卷调查。**Survey 1** 聚焦实践中的研究认知与使用行为，回收有效问卷 492 份；**Survey 2** 聚焦促成与阻碍因素及专业发展需求，回收有效问卷 414 份。数据在统计产品与服务解决方案软件（Statistical Product and Service Solutions, SPSS 27.0）中录入，对李克特五点量表（同意与完全同意合并）及排序题进行二分类重编码，通过 Fisher 精确检验（Fisher's Exact Tests, $p < .05$）检验显著性关联。 |
-> | **第二阶段：半结构化深度访谈与质性编码**<br>[[In-depth Interview]] | 针对 27 场深度访谈（共涵盖 29 名受访教育者，包含 20 名高级领导者、7 名中层管理者与 2 名普通教师）的录音文字稿，在 NVivo 12 质性分析软件中运用 Braun & Clarke (2006) 的法典式主题分析法（[[Qualitative Codebook\|codebook]] Thematic Analysis）。研究兼顾演绎理论编码与归纳新主题[[Emergence\|涌现]]，精准捕捉实践者关于高质量与[[Poor Research Use\|劣质研究使用]]的质性定性。 |
+> | **第二阶段：半结构化深度访谈与质性编码**<br>[[In-depth Interview]] | 针对 27 场深度访谈（共涵盖 29 名受访教育者，包含 20 名高级领导者、7 名中层管理者与 2 名普通教师）的录音文字稿，在 NVivo 12 质性分析软件中运用 Braun and Clarke (2006) 的法典式主题分析法（[[Qualitative Codebook\|codebook]] Thematic Analysis）。研究兼顾演绎理论编码与归纳新主题[[Emergence\|涌现]]，精准捕捉实践者关于高质量与[[Poor Research Use\|劣质研究使用]]的质性定性。 |
 
 > [!sample-panel]- 样本与材料快照（Annex Table 9.A.1: Sample details, p.199）
 > | <small>划分维度与样本群体</small> | <small>Survey 1（$N = 492$）</small> | <small>Survey 2（$N = 414$）</small> | <small>深度访谈（$N = 29$*）</small> |

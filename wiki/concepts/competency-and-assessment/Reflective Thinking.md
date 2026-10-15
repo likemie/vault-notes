@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Reflective Thinking
@@ -77,7 +77,7 @@ updated: 2026-10-15
 > [!concept-lens] 认知层级的心理学测度
 > 探讨个体是如何从不能反思，逐渐发展出真正的[[Reflexivity\|反思性]]思维的。这标志着[[John Dewey\|杜威]]的哲学理念被转化为可测量的心理学阶段。
 
-> [!claim] King & Kitchener (1994)
+> [!claim] King and Kitchener (1994)
 > **反思判断的演进机制** 个体必须穿过认知阶梯，才能达到杜威所定义的最高阶“反思思维”。
 > 在他们提出的[[Reflective Judgment Model\|反思性判断模型]]中，认知成熟度被拆解为七个阶段：
 > - **前反思思维（pre-reflective thinking，阶段 1-3）** 个体认为知识是确定、绝对的，通常通过直接观察或权威获取。此时无法进行反思，只能接受。
@@ -91,7 +91,7 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **认知阶段进阶命题** | 反思思维并非天生，而是[[Epistemology\|认识论]]发展阶梯（从盲从权威到基于语境辩护）的最高阶状态 | 解释劣构问题求解能力的来源，以及大学生[[Critical Thinking\|批判性思维]]的局限 | King & Kitchener (1994) |
+> | **认知阶段进阶命题** | 反思思维并非天生，而是[[Epistemology\|认识论]]发展阶梯（从盲从权威到基于语境辩护）的最高阶状态 | 解释劣构问题求解能力的来源，以及大学生[[Critical Thinking\|批判性思维]]的局限 | King and Kitchener (1994) |
 
 ---
 
@@ -100,14 +100,14 @@ updated: 2026-10-15
 > [!dev-timeline] 概念演变
 > - **1910 年 — 哲学雏形的奠定** [[John Dewey\|约翰·杜威]]（Dewey）在《我们怎样思维》中正式提出了“[[Reflexivity\|反思性]]思维”这一概念及其五大步骤，将其视为教育的终极心智目标。
 > - **1994 年 — 心理学量化与模型化** King & Kitchener 以杜威的思想为基石，开发了[[Reflective Judgment Model\|反思性判断模型]]（RJM），将哲学层面的“应当如何思考”转化为心理学层面的“实然如何发展”，确立了前反思、准反思、反思三个大阶层。
-> - **1997 年 — 统合入[[Epistemological Theories\|认识论理论]]** [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 在重构[[Epistemology\|认识论]]领域时，将反思思维的核心（即如何在[[Wicked Problem|劣构问题]]中为信念提供辩护）确立为[[Epistemological Theories\|认识论理论]]的四大核心维度之一（即“[[Justification for Knowing\|认知的辩护]]”维度）。
+> - **1997 年 — 统合入[[Epistemological Theories\|认识论理论]]** [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 在重构[[Epistemology\|认识论]]领域时，将反思思维的核心（即如何在[[Wicked Problem|劣构问题]]中为信念提供辩护）确立为[[Epistemological Theories\|认识论理论]]的四大核心维度之一（即“[[Justification for Knowing\|认知的辩护]]”维度）。
 
 ---
 
 ## 争议与局限
 
 > [!warning] 适用局限：苛刻的教育门槛
-> - 真正的[[Reflexivity\|反思性]]思维极其罕见。[[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 指出，达到 King & Kitchener 模型最高阶的“反思思维（阶段 6-7）”在普通人群甚至本科生中都极为少见。它几乎只出现在接受过高级研究生教育的个体中。这暗示着，作为一种高阶认知能力，它可能主要反映了西方精英学术训练的特有产物，未必能被视为所有人普遍的发展终点。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 102)]]
+> - 真正的[[Reflexivity\|反思性]]思维极其罕见。[[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 指出，达到 King & Kitchener 模型最高阶的“反思思维（阶段 6-7）”在普通人群甚至本科生中都极为少见。它几乎只出现在接受过高级研究生教育的个体中。这暗示着，作为一种高阶认知能力，它可能主要反映了西方精英学术训练的特有产物，未必能被视为所有人普遍的发展终点。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 102)]]
 
 ---
 
@@ -115,4 +115,4 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 系统梳理了[[John Dewey\|杜威]][[Reflexivity\|反思性]]思维的 5 大步骤及其在[[Active Learning\|主动学习]]模型中的实践应用。
-> - [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] — 梳理了反思性思维如何演变为衡量大学生“[[Wicked Problem|劣构问题]]辩护能力”的心理学发展模型。
+> - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 梳理了反思性思维如何演变为衡量大学生“[[Wicked Problem|劣构问题]]辩护能力”的心理学发展模型。

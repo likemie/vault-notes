@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Greenfield vs Brownfield Innovation
@@ -145,7 +145,7 @@ updated: 2026-10-09
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **技术经济属性约束** | 存量网络刚性与大宗商品同质性制约技术溢出方向 | 跨部门科技政策比较与[[Paradigm\|范式]]迁移 | [[Argument_Mowery_2011_NBER\|Mowery (2011, pp. 184–185)]] |
-> | **综合政策组合设计** | 棕地转型必须依托碳规制、稳定研发与系统级基础设施试验 | 能源转型、气候变化与[[Big Science\|大科学]]使命政策 | Henderson & Newell (2011); [[Argument_Mowery_2011_NBER\|Mowery (2011, pp. 185–186)]] |
+> | **综合政策组合设计** | 棕地转型必须依托碳规制、稳定研发与系统级基础设施试验 | 能源转型、气候变化与[[Big Science\|大科学]]使命政策 | Henderson and Newell (2011); [[Argument_Mowery_2011_NBER\|Mowery (2011, pp. 185–186)]] |
 
 ---
 

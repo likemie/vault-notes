@@ -53,7 +53,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Internet-based Survey
@@ -128,7 +128,7 @@ Dillman 等人（1998a, 1998b, 1999）提出的网站调查原则中，与纸笔
 互联网调查仍面临若干持续挑战。以下为经时间检验的核心问题及应对策略，更多细节见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|第13章表 13.3]]（pp.299–302）：
 
 > [!challenges] 互联网调查的核心挑战
-> - **抽样偏差** 互联网样本在年龄、教育、收入上可能不代表总体，Survey2000 发现 92.5% 的在线受访者是白人（Witte et al., 1999）。但后续研究（Smith & Leigh, 1997; Hewson et al., 2003）显示互联网用户和非用户在收入、教育、族裔和宗教信仰方面差异在缩小，年龄和性别差异仍然存在。Stewart & Yalonis (2001)建议可通过分层技术克服抽样偏倚。Gwartney (2007, p. 17)建议在线调查最适合"封闭总体"（如特定组织的员工）。
+> - **抽样偏差** 互联网样本在年龄、教育、收入上可能不代表总体，Survey2000 发现 92.5% 的在线受访者是白人（Witte et al., 1999）。但后续研究（Smith & Leigh, 1997; Hewson et al., 2003）显示互联网用户和非用户在收入、教育、族裔和宗教信仰方面差异在缩小，年龄和性别差异仍然存在。Stewart and Yalonis (2001)建议可通过分层技术克服抽样偏倚。Gwartney (2007, p. 17)建议在线调查最适合"封闭总体"（如特定组织的员工）。
 > - **回应率低于传统方式** 可低至 10% 甚至更低（Witmer et al., 1999, p. 147），虽然平台自动提醒和跟进功能在缩小差距。
 > - **退出率高** 点击即可退出——需通过进度条、兴趣前置和简洁设计来降低。互联网调查比纸笔调查耗时更长，保持简短清晰至关重要。
 > - **伦理与身份保护** 电子邮件地址可识别受访者身份，在[[Sensitive Research\|敏感研究]]中需引导至网站而非邮件通信，使用不可追踪连接（网吧、图书馆），避免要求密码或邮箱。[[Informed Consent\|知情同意]]需确保每屏底部设"退出"按钮。
@@ -178,7 +178,7 @@ Reips (2002a)的两项核心策略至今仍是提高在线调查回应率的基�
 > - **回应率通常低于纸笔调查** 可低至 10% 甚至更低（Witmer et al., 1999, p. 147）。
 > - **退出率高于纸笔调查** 点击即可退出；互联网调查比纸笔调查耗时更长。
 > - **无法控制完成环境或验证受访者身份** 对受访者计算机素养有一定要求。
-> - 在比较在线和传统调查时，不仅要检查结果的均值、范围和标准差，还要检查**因子结构**和**[[Variable\|变量]]对因子的载荷**是否等价（Fricker & Schonlau, 2002, p. 298）。
+> - 在比较在线和传统调查时，不仅要检查结果的均值、范围和标准差，还要检查**因子结构**和 **[[Variable\|变量]]对因子的载荷**是否等价（Fricker & Schonlau, 2002, p. 298）。
 
 ---
 
@@ -216,4 +216,4 @@ Reips (2002a)的两项核心策略至今仍是提高在线调查回应率的基�
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13\|Cohen et al. (2011d)]] — 系统讨论了互联网调查的设计原则、技术问题、抽样挑战、伦理问题及提高回应率的策略（表 13.3）。
-> - [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] — 以 Survey Monkey 编制[[Questionnaire\|问卷]]并经各校校长以电子方式分发至所有 [[Research Learning Communities\|RLC]] 学校与对照学校，在两周的调查期内（2014 年 10 月 2 日至 19 日）回收 797 份应答。
+> - [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] — 以 Survey Monkey 编制[[Questionnaire\|问卷]]并经各校校长以电子方式分发至所有 [[Research Learning Communities\|RLC]] 学校与对照学校，在两周的调查期内（2014 年 10 月 2 日至 19 日）回收 797 份应答。

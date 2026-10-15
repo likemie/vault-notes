@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 ## 简介
 
@@ -82,7 +82,7 @@ updated: 2026-10-15
 
 
 > [!info] 新行动者识别
-> Ochs (2005) 在 Dolowitz & Marsh (2000) 的政治行动者列表基础上，新增了网络（networks）、排行榜（[[Global Universities Rankings\|league tables]]）、媒体／通讯技术和资助来源（sources of funding）等全球化时代的新行动者类别。([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 227]])
+> Ochs (2005) 在 Dolowitz and Marsh (2000) 的政治行动者列表基础上，新增了网络（networks）、排行榜（[[Global Universities Rankings\|league tables]]）、媒体／通讯技术和资助来源（sources of funding）等全球化时代的新行动者类别。([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 227]])
 
 ## 主要贡献
 

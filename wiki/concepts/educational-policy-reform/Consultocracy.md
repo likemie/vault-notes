@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Consultocracy
@@ -67,7 +67,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **顾问统治（Consultocracy）**是指在[[New Public Management\|新公共管理]]（New Public Management, NPM）与新自由主义国家转型语境下，以麦肯锡（McKinsey & Company）、波士顿咨询（BCG）、贝恩（Bain & Company）及普华永道、德勤等跨国私营战略咨询公司为核心的商业顾问力量，深度嵌入、塑造甚至实质垄断国家公共政策制定、组织流程再造与重大社会改革的非传统治理形态（Saint-Martin, 2000；Gunter et al., 2015）。在教育政策领域，顾问统治表现为政府将长远战略规划、因果评估标准与财政分配方案系统外包给私营咨询机构，以商业度量衡、[[Return on Investment\|投资回报率]]与绩效量规替代公共育人价值审议，引发传统公务员科层行政能力的萎缩与民主问责的制度性[[Epoché\|悬置]]。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520–522, 530)]]
+> **顾问统治（Consultocracy）** 是指在[[New Public Management\|新公共管理]]（New Public Management, NPM）与新自由主义国家转型语境下，以麦肯锡（McKinsey & Company）、波士顿咨询（BCG）、贝恩（Bain & Company）及普华永道、德勤等跨国私营战略咨询公司为核心的商业顾问力量，深度嵌入、塑造甚至实质垄断国家公共政策制定、组织流程再造与重大社会改革的非传统治理形态（Saint-Martin, 2000；Gunter et al., 2015）。在教育政策领域，顾问统治表现为政府将长远战略规划、因果评估标准与财政分配方案系统外包给私营咨询机构，以商业度量衡、[[Return on Investment\|投资回报率]]与绩效量规替代公共育人价值审议，引发传统公务员科层行政能力的萎缩与民主问责的制度性[[Epoché\|悬置]]。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520–522, 530)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向商业咨询寡头将企业战略工具、指标考核与合同化服务植入主权公共教育决策的核心机制。
@@ -154,7 +154,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **行政空心化命题** | 战略咨询深度嵌入导致国家公共行政能力萎缩与结构性商业依赖 | 教育政策外包、部委职能再造 | Gunter et al. (2015); [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] |
-> | **民主悬置命题** | 商业保密契约与非正式精英游说系统侵蚀代议制民主与知情权 | 闭门政策招标、非民选机构资助审查 | Cave & Rowell (2015); Browne (2021) |
+> | **民主悬置命题** | 商业保密契约与非正式精英游说系统侵蚀代议制民主与知情权 | 闭门政策招标、非民选机构资助审查 | Cave and Rowell (2015); Browne (2021) |
 
 ---
 
@@ -193,7 +193,7 @@ updated: 2026-10-15
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023, p. 522)]] | 澳大利亚联邦教育政策制定与机构改革 | 议会档案、财政开支审计与监管数据 | 人均咨询采购支出居全球第一；[[Social Ventures Australia\|SVA]] 获 1500 万澳元保密资助并装配 [[Australian Education Research Organisation\|AERO]] | 国家演化为咨询催化平台，商业机密阻断公众知情监督 |
 > | Gunter et al. (2015) | 英格兰基础教育体系学院化（Academisation）改革 | 政策文本分析与[[In-depth Interview\|深度访谈]] | 私营咨询机构深度主导学院信托重组与绩效合同起草 | 公共教育知识被转化为商业商品，教师专业[[Discourse\|话语]]权受挫 |
 > | Browne (2021) | 澳大利亚联邦参议院对外部咨询报告的披露调阅 | 议会特权委员会调档记录 | 政府高比例以“商业敏感信息”为由拒绝向参议院公开咨询报告全文 | 代议制立法机关的宪法审查权遭到商业咨询契约架空 |
-> | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018, pp. 795–796)]] | 英国政府 IT 采购寡头依赖与数字化转型 | 历史比较与制度能力分析 | 英国设立 [[Government Digital Service\|GDS]] 摆脱咨询寡头锁定，将数字设计能力收归政府内部 | 重建国家内生技术动态能力，累计节省公共支出逾 40 亿英镑 |
+> | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018, pp. 795–796)]] | 英国政府 IT 采购寡头依赖与数字化转型 | 历史比较与制度能力分析 | 英国设立 [[Government Digital Service\|GDS]] 摆脱咨询寡头锁定，将数字设计能力收归政府内部 | 重建国家内生技术动态能力，累计节省公共支出逾 40 亿英镑 |
 
 ---
 
@@ -202,4 +202,4 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 系统揭示澳大利亚人均咨询支出全球第一背景下，麦肯锡等咨询高管如何依托[[Policy Network\|政策网络]]装配教育中介实体并规避公共监督。
 > - Gunter, Hall, & Mills (2015) — 经典奠基论文，系统建构教育政策制定中的顾问统治（Consultocracy）[[Analytic Framework\|分析框架]]。
-> - [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018)]] — 从创新政策与国家能力视角批判 [[New Public Management|NPM]] [[Externalization|外部化]]咨询依赖造成的行政[[Cognitive Deskilling|去技能化]]，阐明内生动态能力的重构机制。
+> - [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] — 从创新政策与国家能力视角批判 [[New Public Management|NPM]] [[Externalization|外部化]]咨询依赖造成的行政[[Cognitive Deskilling|去技能化]]，阐明内生动态能力的重构机制。

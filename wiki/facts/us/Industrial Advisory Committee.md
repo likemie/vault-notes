@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Industrial Advisory Committee
@@ -67,7 +67,7 @@ updated: 2026-10-15
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **工业咨询委员会（Industrial Advisory Committee, IAC）**是依据《2021 财年国防授权法案》第 9906(b) 条及《2022 年[[CHIPS and Science Act|芯片与科学法案]]》设立的美国商务部法定跨部门最高战略咨询机构。委员会代表半导体制造、芯片设计、EDA/IP、设备材料、[[Research Universities|研究型大学]]、国家实验室及工会等多方利益主体，向商务部长、[[National Science and Technology Council|白宫国家科学技术委员会]]（[[National Science and Technology Council|NSTC]]）及跨部门[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（[[Subcommittee on Microelectronics Leadership|SML]]）提供关于国家微电子研发战略、中试基础设施建设、工程劳动力体系与公私治理架构的权威建议。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 3, 21, 24)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 2, 48)]]
+> **工业咨询委员会（Industrial Advisory Committee, IAC）** 是依据《2021 财年国防授权法案》第 9906(b) 条及《2022 年[[CHIPS and Science Act|芯片与科学法案]]》设立的美国商务部法定跨部门最高战略咨询机构。委员会代表半导体制造、芯片设计、EDA/IP、设备材料、[[Research Universities|研究型大学]]、国家实验室及工会等多方利益主体，向商务部长、[[National Science and Technology Council|白宫国家科学技术委员会]]（[[National Science and Technology Council|NSTC]]）及跨部门[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（[[Subcommittee on Microelectronics Leadership|SML]]）提供关于国家微电子研发战略、中试基础设施建设、工程劳动力体系与公私治理架构的权威建议。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 3, 21, 24)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 2, 48)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 依据《2021 财年国防授权法案》第 9906(b) 条法定授权，并在《2022 年芯片与科学法案》颁布后于 2022 年 9 月由美国商务部长正式组建首届委员会。

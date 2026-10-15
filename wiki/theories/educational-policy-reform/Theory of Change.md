@@ -81,7 +81,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-13
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Theory of Change
@@ -247,7 +247,7 @@ updated: 2026-10-15
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **1970s–1980s — 理论驱动型评估兴起** 反思传统黑箱评估（Black-box Evaluation）仅关注输入与输出而无法解释为何有效的局限，Chen & Rossi (1980) 与 [[Carol Weiss]] (1972) 提出基于理论的评估（Theory-Driven Evaluation）。
+> - **1970s–1980s — 理论驱动型评估兴起** 反思传统黑箱评估（Black-box Evaluation）仅关注输入与输出而无法解释为何有效的局限，Chen and Rossi (1980) 与 [[Carol Weiss]] (1972) 提出基于理论的评估（Theory-Driven Evaluation）。
 > - **1990s — [[Logic Model\|逻辑模型]]普及与变革理论正式成型** Aspen Institute 推进社区综合变革项目评估，[[Logic Model\|逻辑模型]]广泛流行；Weiss (1995) 正式系统提出 Theory of Change 概念，呼吁将关注点由图表框线转向深挖起效的底层假设与因果链条。
 > - **2000s — 因果机制显性化与多领域制度化** 变革理论被全面引入国际发展合作（如英国国际发展部 DFID、[[World Bank\|世界银行]]）与美国综合学校改革（Comprehensive School Reform, CSR）项目评估。
 > - **2010s–2020s — 复杂系统、行为科学与[[Knowledge Mediation\|知识中介]]自我循证融合** 面对单纯信息推送屡遭失败的实证判决，变革理论与行为改变轮（[[COM-B Model\|COM-B]]）、复杂系统理论及利益相关者[[Knowledge Co-production\|协同生产]]深度整合，成为英国[[What Works Network\|有效性网络]]（WWN）等现代[[Educational Brokerage Agency\|知识中介机构]]开展方案设计与自我评价的制度化准则。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 152–153)]]
@@ -284,7 +284,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 系统阐述[[Educational Brokerage Agency\|知识中介机构]]必须确立变革理论作为自我循证支柱，论证单纯信息推送的无效性，并构建结合 [[COM-B Model\|COM-B]] 模型的因果机制架构。
-> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 梳理教育中介机构的历史演进与治理挑战，探讨中介在不同政策情境下构建因果服务链条的制度困境。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 梳理教育中介机构的历史演进与治理挑战，探讨中介在不同政策情境下构建因果服务链条的制度困境。
 > - [[Argument_Torres_2022_KMModels\|Torres, P. (2022)]] — 比较跨领域主流[[Knowledge Mobilisation\|知识动员]]模型，解构微观行为因果转化机制（Langer et al., 2016）与多层系统架构。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald, T., & Nevill, C. (2021)]] — 详述 [[Education Endowment Foundation\|EEF]] 如何将变革理论、[[TIDieR]] 活性成分界定与实施[[Implementation and Process Evaluation\|过程评估]]（IPE）深度整合，用于区分理论失败与实施失败，并解析儿童哲学（P4C）等方案规模化扩展中的因果链断裂案例。
 > - Lord et al. (2017) — 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）“[[Literacy Octopus\|识字八爪鱼]]”大规模多臂 [[Randomised Controlled Trials\|RCT]] 试验评估报告，实证裁决单纯信息传播在改善教学与学业上的零效应。
@@ -300,7 +300,7 @@ updated: 2026-10-15
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] | 来源论证 | 系统阐发中介机构必须确立变革理论与行为驱动机制的代表论著。 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] | 来源论证 | 详述变革理论在 [[Education Endowment Foundation\|EEF]] 复杂干预评估中的制度化规范与实施诊断应用。 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 来源论证 | 详述变革理论在 [[Education Endowment Foundation\|EEF]] 复杂干预评估中的制度化规范与实施诊断应用。 |
 > | [[Logic Model]] | 基础框架 | 变革理论的前身与具体结构化操作工具。 |
 > | [[Educational Brokerage Agency]] | 应用主体 | 制定与检视变革理论以确保服务成效的核心机构。 |
 > | [[Evidence Ecosystem]] | 宏观环境 | 变革理论必须考虑干预与外部大系统相互作用的生态情境。 |

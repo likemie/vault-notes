@@ -55,7 +55,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 ## 定义
@@ -93,7 +93,7 @@ Moisio 借用 Jessop（2005）对"想象"（imaginaries）的分析——想象�
 > 枢纽与流动想象的知识根基来自多条学术和政策脉络：
 
 - **Porter（1990）的[[National Competitive Advantage|国家竞争优势]]理论** Porter 论证"竞争优势通过高度本地化的过程被创造和维持……国家价值、文化和制度深刻贡献于竞争成功"，这为 枢纽与流动想象提供了关键的学术表达([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]])
-- **[[Post-Fordism|后福特主义]]经济地理学（1990 年代）** Storper & Harrison（1991）和 Scott（1991）论证，后福特主义时代中"子国家'区域'"对网络发展和经济增长至关重要——本地基础设施、产业传统、专业化服务和"组织与个人之间的相互信任和关系"构成了区域[[Competitiveness|竞争力]]的基础，为 枢纽与流动想象提供了空间经济学的学术支撑([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])
+- **[[Post-Fordism|后福特主义]]经济地理学（1990 年代）** Storper and Harrison（1991）和 Scott（1991）论证，后福特主义时代中"子国家'区域'"对网络发展和经济增长至关重要——本地基础设施、产业传统、专业化服务和"组织与个人之间的相互信任和关系"构成了区域[[Competitiveness|竞争力]]的基础，为 枢纽与流动想象提供了空间经济学的学术支撑([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])
 - **Gramsci（1971）的[[Hegemony|霸权理论]]** Moisio 援引 Gramsci 来解释 枢纽与流动想象为何有效——"资本积累体制的巩固依赖于智识、政治和道德领导力的行使"，枢纽想象正是这种领导力在认知层面的具体运作：它让决策者和公众接受一种特定的世界空间秩序为"理所当然"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.26]])
 - **Jessop（2005）的[[Cultural Political Economy|文化政治经济学]]** Moisio 借用 Jessop 的"想象"概念——想象在资本积累体制中扮演"构成性和履行性角色"——来论证 枢纽与流动想象不只是对经济现实的"反映"，而是主动参与生产它所描述的空间秩序([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]])
 

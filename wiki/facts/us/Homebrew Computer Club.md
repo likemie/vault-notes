@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-10
+updated: 2026-10-16
 ---
 
 # Homebrew Computer Club
@@ -105,4 +105,4 @@ updated: 2026-10-10
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 专著第八章深入阐释家酿计算机俱乐部作为[[Counterculture Computing|反文化计算]]发源地的历史地位，分析其如何将微机定义为抵御国家与企业体制的解放媒介（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著第八章深入阐释家酿计算机俱乐部作为[[Counterculture Computing|反文化计算]]发源地的历史地位，分析其如何将微机定义为抵御国家与企业体制的解放媒介（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。

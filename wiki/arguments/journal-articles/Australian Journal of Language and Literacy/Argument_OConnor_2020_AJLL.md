@@ -60,7 +60,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-09-15
+updated: 2026-10-16
 year: 2020
 doi: ""
 citation_aliases:
@@ -156,7 +156,7 @@ citation_aliases:
 > [!critique-method] [[Steven Stahl\|斯塔尔]]与米勒的分类混淆 (Stahl & Miller, 1989)
 > [[Steven Stahl\|史蒂芬·斯塔尔（Steven Stahl）]]与戴维·米勒（P. David Miller, 1989）报告全语言对词汇识别 d = 0.17、阅读理解 d = 0.09。然而，为了扩大样本，该研究将 1970 年代才诞生的全语言运动与 1960 年代初的早期“语言经验法”强行合并。[[Steven Stahl\|斯塔尔]]本人在 1994 年的后续元分析中已承认这种做法是“时代错误的” (anachronistic)，并在新研究中剔除了纯语言经验法的文献 (p.145)。但哈蒂在 15 年后出版《VL》时，依然对此分类漏洞未加任何纠正与说明。
 
-> [!case] Case 1: Brazziel & Terrell (1962) 行为主义“假全语言”研究
+> [!case] Case 1: Brazziel and Terrell (1962) 行为主义“假全语言”研究
 > 该研究仅针对田纳西州 26 名低收入非裔一年级学生，其实验干预是为期 6 周的“家长-教师合作”，并让儿童阅读传统的“阅读准备教材” (readiness readers) 以训练感知、词汇和服从指令 (p.144)。
 > W. F. 布拉齐尔（W. F. Brazziel）与 M. 泰瑞尔（M. Terrell, 1962）仅仅因为教师在活动中制作了反映儿童日常口头分享的“经验图表” (experience charts)，就被[[Steven Stahl\|斯塔尔]]与米勒归入全语言。这与古德曼倡导的以儿童为主体、反对机械切片的全语言哲学完全背道而驰。
 
@@ -179,7 +179,7 @@ citation_aliases:
 > - 曼宁等（Manning et al., 1989）从 **1.21** 修正为 **1.97** (p.39, p.147)。
 > 哈蒂对这些发表在核心期刊上的重大数据计算错误未做任何核实与提及。
 
-> [!case] Dahl & Freppon (1994) 的纯全语言正面发现
+> [!case] Dahl and Freppon (1994) 的纯全语言正面发现
 > [[William Jeynes\|杰尼斯]]与利特尔（Jeynes & Littell, 2000）元分析中，两项符合严格全语言定义的“纯粹”研究之实际**效应量高达正向 0.83(p.146)**。
 > 其中的卡林·达尔（Karin Dahl）与彭妮·弗雷蓬（Penny Freppon, 1994）追踪了低收入内城区学校两年，发现全语言班学生在自主读写意愿、自我认知和学习坚持性 (disposition for learning) 上显著优于以练习册为主的技能本位班。[[William Jeynes\|杰尼斯]]与利特尔（Jeynes & Littell）承认这说明清晰实施全语言能改善学生表现，但哈蒂在《VL》中却只字未提这一积极侧面 (p.147)。
 

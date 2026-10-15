@@ -91,7 +91,7 @@ related_facts:
   - "[[Public Sector PhD Scheme]]"
 status: draft
 created: 2026-09-13
-updated: 2026-09-18
+updated: 2026-10-16
 ---
 # Argument_Hill_2022_FacilitatingActors
 
@@ -117,7 +117,7 @@ updated: 2026-09-18
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **系统论思维与三代模型**<br>Best & Holmes (2010) | 将教育知识应用从早期的线性推送（第一代）与人际关系网络（第二代）推进至[[Complexity Theory\|复杂适应系统]]视角（第三代），强调研究生产、转化与使用各节点之间的反馈回路、[[Organizational Culture\|组织文化]]及整体激活。（p.75） |
+> | **系统论思维与三代模型**<br>Best and Holmes (2010) | 将教育知识应用从早期的线性推送（第一代）与人际关系网络（第二代）推进至[[Complexity Theory\|复杂适应系统]]视角（第三代），强调研究生产、转化与使用各节点之间的反馈回路、[[Organizational Culture\|组织文化]]及整体激活。（p.75） |
 > | **[[Evidence Ecosystem\|证据生态系统]]框架**<br>Gough et al. (2011); Global Commission on Evidence (2022) | 打破研究者与使用者的二元对立，将行动者划分为研究生产型中介（Research-producing intermediaries）与非研究生产型中介（Non-research producing intermediaries），用于系统解构多元组织的媒介职能。（pp.76–77） |
 > | **[[Quality Use of Research Evidence Framework\|高质量研究使用框架]]**<br>Rickinson et al. (2020) | 关注个体层面的信任、共享理解、心智模式、专业文化与人际网络，解释个体态度与协作行为如何塑造组织与系统层面的证据吸收深度。（pp.75, 77–78, 92） |
 

@@ -55,7 +55,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Alfred Schutz
@@ -123,7 +123,7 @@ updated: 2026-10-15
 > [!citation-card] 类型化与日常生活世界的社会秩序
 > 根据舒茨的观点，我们理解他人行为的方式取决于类型化过程，观察者借助类似于“理想类型”的概念来理解人们的所作所为。这些概念来源于我们的日常生活经验，舒茨主张正是通过它们，我们对日常世界进行分类与组织。正如 Burrell 与 Morgan（1979）所观察到的，我们通过自身的传记位置和社会情境习得这些类型化。我们关于日常世界的知识固存于社会秩序之中，而这个世界本身即具有社会秩序性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 >
-> *According to Schutz, the way we understand the behaviour of others is dependent on a process of typification by means of which the observer makes use of concepts resembling ‘ideal types’ to make sense of what people do. These concepts are derived from our experience of everyday life and it is through them, claims Schutz, that we classify and organize our everyday world. As Burrell & Morgan (1979) observe, we learn these typifications through our biographical locations and social contexts. Our knowledges of the everyday world inheres in social order and this world is socially ordered.*
+> *According to Schutz, the way we understand the behaviour of others is dependent on a process of typification by means of which the observer makes use of concepts resembling ‘ideal types’ to make sense of what people do. These concepts are derived from our experience of everyday life and it is through them, claims Schutz, that we classify and organize our everyday world. As Burrell and Morgan (1979) observe, we learn these typifications through our biographical locations and social contexts. Our knowledges of the everyday world inheres in social order and this world is socially ordered.*
 
 ---
 

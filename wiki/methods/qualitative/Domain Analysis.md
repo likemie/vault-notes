@@ -167,7 +167,7 @@ updated: 2026-10-16
 
 ### 机制三　包容层级归并与范畴去重机制
 
-在实际文本分析中，[[Open Coding|初始编码]]往往存在大量的交叠、歧义与抽象层次差异。若直接对初始编码进行统计或理论推论，会导致模型混乱。[[Louis Cohen|路易斯·科恩]]等（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, pp. 568–572]]）以“教师工作压力（Teacher Stress）”实证案例展示了**包容层级归并（Subsumption）**的标准分析机制：
+在实际文本分析中，[[Open Coding|初始编码]]往往存在大量的交叠、歧义与抽象层次差异。若直接对初始编码进行统计或理论推论，会导致模型混乱。[[Louis Cohen|路易斯·科恩]]等（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, pp. 568–572]]）以“教师工作压力（Teacher Stress）”实证案例展示了**包容层级归并（Subsumption）** 的标准分析机制：
 
 1. **初始聚合形成宏观领域** 研究者将 33 条描述教师工作压力的语句初步划分为 4 个宏观领域：
    - 压力成因（Causes of stress）
@@ -192,7 +192,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **认知语法命题** | 文化经验不是离散要素的堆叠，而是由有限的通用语义关系组织而成的结构化知识系统 | 语义关系矩阵、本土象征系统投射 | Spradley (1979); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011)]] |
 > | **层级同质命题** | 数据分析与理论推论必须严格保持在同一概念抽象层级上展开，严禁混淆上位领域与下位细目 | 包容层级归并（Subsumption）、节点与编码分离 | Krippendorff (2004); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, p. 566)]] |
-> | **情境防线命题** | 领域分析通过将微观编码单元锚定于连贯的上位语义场，有效阻断文本去情境化与碎片化断裂 | 情境扎根性（Context-groundedness）、连贯意义簇聚合 | Hammersley & Atkinson (1983); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al. (2011, p. 440)]] |
+> | **情境防线命题** | 领域分析通过将微观编码单元锚定于连贯的上位语义场，有效阻断文本去情境化与碎片化断裂 | 情境扎根性（Context-groundedness）、连贯意义簇聚合 | Hammersley and Atkinson (1983); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al. (2011, p. 440)]] |
 
 ---
 
@@ -221,7 +221,7 @@ updated: 2026-10-16
 > > 争论领域范畴之间是否应当像量化[[Content Analysis\|内容分析]]那样追求严格的边界排他性。
 > >
 > > - **Robson (1993) & Weber (1990)** 强调分析范畴必须具备互斥性与穷尽性，以确保不同编码者之间的一致性与测量[[Reliability\|信度]]。
-> > - **Hammersley & Atkinson (1983)** 与 **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, p. 566)]]** 明确指出，在[[Qualitative Research\|质性研究]]中将同一经验条目赋予多个领域范畴不仅完全合理，而且是极为可取的做法，因为人类社会生活的[[Discourse|话语]]具有多维内涵，强制互斥会导致数据丰富性与真实性的大量流失。
+> > - **Hammersley and Atkinson (1983)** 与 **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, p. 566)]]** 明确指出，在[[Qualitative Research\|质性研究]]中将同一经验条目赋予多个领域范畴不仅完全合理，而且是极为可取的做法，因为人类社会生活的[[Discourse|话语]]具有多维内涵，强制互斥会导致数据丰富性与真实性的大量流失。
 >
 > > [!axis] 静态拓扑分类 vs 动态叙事流失
 > > 争论基于九大语义关系的“下位词—覆盖词”空间拓扑分类，是否会切断经验叙事的时间流变与因果张力。
@@ -292,10 +292,10 @@ updated: 2026-10-16
 > | [[Unit of Analysis\|分析单位]] | 概念 | 分析单位构成了领域分析的前置基准；领域分析是对已切分分析单位与初级编码的上位语义聚合。 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al. (2011, p. 440)]] |
 > | [[Coding in Qualitative Research\|质性研究编码]] | 方法 | 编码赋予具体文本微观概念标签，领域分析提供宏观聚合容器，二者构成质性数据从碎片到结构的进阶链条。 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, p. 560)]] |
 > | [[Content Analysis\|内容分析]] | 方法 | 领域分析构成内容分析 11 步标准化操作规程的第 7 步（构建分析范畴）的核心方法支撑。 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, pp. 566–567)]] |
-> | [[Axial Coding\|主轴编码]] | 方法 | 领域分析侧重于发掘静态文化语义包含关系，主轴编码侧重于建构动态因果机制与行动条件，二者在质性分析中互为补充。 | Strauss & Corbin (1990) |
+> | [[Axial Coding\|主轴编码]] | 方法 | 领域分析侧重于发掘静态文化语义包含关系，主轴编码侧重于建构动态因果机制与行动条件，二者在质性分析中互为补充。 | Strauss and Corbin (1990) |
 > | [[Central Phenomenon\|核心现象]] | 概念 | 在[[Grounded Theory\|扎根理论]]与主题分析中，具有全局统摄力的核心现象往往孕育于主导性核心文化领域之中。 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, p. 561)]] |
 > | [[Qualitative Codebook\|质性编码本]] | 概念 | 领域分析确立的覆盖词、下位词体系与包容层级架构，直接构成了结构化质性编码本的分类框架指南。 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, p. 562)]] |
 > | [[Reflexivity\|反身性]] | 概念 | 研究者在划分领域范畴与设计覆盖词时必须反躬自省自身理论前见，严防将个人学术偏好强加于本土语料。 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, p. 567)]] |
-> | [[Audit Trail\|审计追踪]] | 概念 | 领域分析工作表与层级归并草稿是记录分析者从微观数据迈向宏观范畴演进轨迹的核心审计凭证。 | Lincoln & Guba (1985) |
+> | [[Audit Trail\|审计追踪]] | 概念 | 领域分析工作表与层级归并草稿是记录分析者从微观数据迈向宏观范畴演进轨迹的核心审计凭证。 | Lincoln and Guba (1985) |
 > | [[Ethnography\|民族志]] | 方法 | 领域分析起源于认知人类学与民族志探究发展序列，是系统破解文化群体共享认知图式的基石工具。 | Spradley (1979, 1980) |
 > | [[Ethnomethodology\|俗民方法学]] | 理论 | 领域分析中挖掘的本土常识分类规则与成员解释实践，呼应了俗民方法学对日常生活实践构成的理论关切。 | Garfinkel (1967) |

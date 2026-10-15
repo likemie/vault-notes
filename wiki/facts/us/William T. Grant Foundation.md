@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # William T. Grant Foundation
@@ -172,4 +172,4 @@ updated: 2026-10-15
 > | [[Institute of Education Sciences]] | Fact (Organization) | 与格兰特基金会共同构成美国教育科研资助“官方国家队-独立慈善界”互补双中枢的联邦科学机构。 |
 > | [[Deficit Framing]] | Concept | 基金会严厉批判并要求在受资助研究中全面杜绝的将弱势学生视作能力匮乏的陈旧范式。 |
 > | [[Common Core State Standards]] | Fact (Policy) | 基金会 URE 资助项目所支持深度[[Cohort Study\|追踪研究]]的全美重大国家课程标准改革政策。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | Argument | 获得基金会 URE 专项资助、剖析 CCSS 推进全周期证据利用与政治价值权变整合的代表性成果。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | Argument | 获得基金会 URE 专项资助、剖析 CCSS 推进全周期证据利用与政治价值权变整合的代表性成果。 |

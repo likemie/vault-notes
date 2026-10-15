@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Two Problematics of Educational Inclusion and Exclusion
@@ -124,21 +124,21 @@ graph TD
 
 ### 命题一　物质与制度代表性的扩大无法自动消除深层的教育排斥
 
-> [!claim] Popkewitz & Lindblad (2000)
+> [!claim] Popkewitz and Lindblad (2000)
 > **形式平等的[[Educational Meliorism|改良主义]]局限** 传统教育改革将“包容”窄化为公平-参与维度的修补（如扩大少数族裔入学配额、提供专项财政补贴、废除显性歧视法律）。然而，只要支配学校日常运作的认知标准、学业评价尺度与[[Cultural Capital|文化资本]]规范未被触动，弱势群体在物理上进入学校反而会面临更为隐蔽的微观淘汰与学术分流，暴露出制度改良主义的[[Epistemology|认识论]]盲区。
 
 ---
 
 ### 命题二　包容性政策话语与推理系统内生性地生产对边缘群体的象征驱逐
 
-> [!claim] Popkewitz & Lindblad (2000)
+> [!claim] Popkewitz and Lindblad (2000)
 > **包容政策中的象征驱逐机制（Abjection）** 针对弱势群体的补偿性教育方案（如“处境不利儿童干预”、“多元文化扶助”），其政策推理系统往往预先将这部分儿童界定为在家庭教养、[[Language Skills|语言能力]]或心理品质上“有缺陷”的异常客体。这种以“包容”为名的救赎[[Discourse|话语]]，实质上在把弱势儿童纳入学校物理空间的同时，在象征认知空间内完成了对他们文化主体性的深刻驱逐。
 
 ---
 
 ### 命题三　微观空间实践是连接宏观行政资源配置与微观知识理性规训的统一纽带
 
-> [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]]
+> [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]]
 > **空间实践对双重治理逻辑的实体统合** 现代学校兼具物理领地圈禁与社会资格筛选的双重属性。从公平-参与维度看，校舍建筑、围墙与行政编制是将学龄人口物理圈禁并分配资源的物质场所；从[[Knowledge Questions|知识问题]]式维度看，教室课桌排列、作息节律以及对身体移动的合规性审查，将主流文化理性具象化为空间纪律。考察具体的空间实践，能够完整展现国家行政力量与微观知识话语如何协同运作。
 
 ---
@@ -152,7 +152,7 @@ graph TD
 
 ### 在流动儿童教育中的实证阐释
 
-[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] 借助五国经验材料，系统展现了空间实践如何统合两大问题式：
+[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] 借助五国经验材料，系统展现了空间实践如何统合两大问题式：
 1. **中国进城务工随迁学童** 在公平-参与层面，二元[[Hukou System|户籍制度]]直接在物理空间上将[[Migrant Children|随迁子女]]排斥在城市公立学校之外；在知识问题式层面，政策与社会话语将城市常住视为合规，将流动自发创办的学校定性为缺乏资质与秩序的“黑校”，即便公立学校逐步接纳随迁儿童，仍通过借读标签与积分制实施隐性筛选。
 2. **美国农业流动儿童** 在公平-参与层面，1982 年《[[Plyler v. Doe 1982|普莱勒诉多伊案]]》裁定公立学校不得核查移民身份并赋予无证儿童受教育权；但在知识问题式层面，2001 年《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB）的问责指标将学生学年中途流动编码为拉低 [[Adequate Yearly Progress|AYP]] 达标率的“漂泊”失范，在校园内部诱发隐性的分班隔离与教学排斥。
 3. **英国大篷车游民儿童** 在公平-参与层面，地方教育当局推行多元文化接纳与巡回教师支持；但在知识问题式层面，学校建筑高度结构化的物理微观空间（固定课桌椅、封闭走廊、严苛考勤节律）与游民自由迁徙的生活节律产生剧烈文化失调，游民儿童被病理化为具有多动或注意力障碍的“异常学生”。

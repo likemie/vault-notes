@@ -189,7 +189,7 @@ citation_aliases:
 
 > [!warning] [[Four Sins of Comparative Education\|比较教育的四种罪过]]
 > 每一代比较教育学者都在犯错，却常将错误视为理论突破。
-> - **进步假设 (Assumption of progress)** 如 Harold Noah & Max Eckstein (1969) 的目的论历史观，假设学科在经历早期错误后必然成熟为接受实证[[Scientific Method\|科学方法]]的比较社会科学。
+> - **进步假设 (Assumption of progress)** 如 Harold Noah and Max Eckstein (1969) 的目的论历史观，假设学科在经历早期错误后必然成熟为接受实证[[Scientific Method\|科学方法]]的比较社会科学。
 > - **地方主义 (Parochialism)** 默认大西洋中部（Mid-Atlantic，即美英轴心）是定义全球比较教育政治、视角和方向的唯一世界轴心。
 > - **借用成瘾 (Addiction to borrowing)** 不加批判地进口[[Big Ideas\|大概念]]（如全球化），通过快速引用（如模式[[Variable\|变量]]、第三世界、多文化社会、儒家学说等）来保护自己免于处理复杂的社会情境。
 > - **科学混乱 (Scientific confusion)** 科学一词定义极其不稳定，混淆了计量经济学模型（Harold Noah, 1973）、物理学式精确预测（Brian Holmes, 1984）、探寻事物原因与拥有海量硬数据四种含义。(p.328)
@@ -321,7 +321,7 @@ citation_aliases:
 > > [!case] [[Daniel Tröhler]] (2023b) 的地缘认识论权力游戏
 > > 叙事聚焦于日本与中国比较教育的发展史，通过三层历史叙事揭示比较教育如何作为为世界统治服务的认识论权力游戏（epistemological power games for world domination）——即教育改革如何总是伴随着政治大国的意识形态输出和话语征服。(p.334)
 > 
-> > [!case] Euan Auld & Paul Morris (2023) 的“拯救神学”与 Delivery
+> > [!case] Euan Auld and Paul Morris (2023) 的“拯救神学”与 Delivery
 > > 采用神学与哲学透镜分析交付学（Deliverology）创始人 [[Michael Barber]] 的全球教育改革。Barber 将自己塑造成提供末日拯救的政治神学家，通过设定比较指标和效率交付标准，成功让国家机器降格为指标管理的附属品，挤压了教育的本真伦理。
 
 ---

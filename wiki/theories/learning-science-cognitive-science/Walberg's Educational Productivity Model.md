@@ -36,7 +36,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-06-08'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 核心命题
@@ -75,11 +75,11 @@ updated: 2026-10-15
 ## 经验证据
 
 > [!success] 经验证据
-> **Fraser, Walberg, Welch & Hattie（1987）的首次检验**
+> **Fraser, Walberg, Welch and Hattie（1987）的首次检验**
 >
 > Fraser 等人综合了 226 项[[Meta-analysis\|元分析]]，用当时学生学习模型中的各种显著特征来组织 134 项成就结果元分析和 92 项态度结果元分析。该研究发表为《[[International Education\|国际教育]]研究杂志》的一篇 100 页专著，旨在检验 Walberg 九因素模型在多大程度上得到经验证据的支持([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.42]])。
 >
-> **Sipe & Curlette（1997）的再检验**
+> **Sipe and Curlette（1997）的再检验**
 >
 > Sipe and Curlette 对 103 项元分析进行了类似但方法论更严格的综合，同样以 Walberg 的教育生产力理论为检验框架。他们估计其纳入的元分析与 Fraser et al.（1987）的重叠不到 10%([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.43]])。
 >

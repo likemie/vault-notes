@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # VLSI Project
@@ -240,7 +240,7 @@ updated: 2026-10-15
 > | [[Comparative Case Study]] | Method | 剖析美日欧产业研发联盟治理异同的核心研究设计。 |
 > | [[Argument_Grindley_1994_JPAM\|Grindley et al. (1994)]] | Argument | 系统评估日本 VLSI 研发联盟双层治理架构与共性工艺共享机制的奠基研究。 |
 > | [[Argument_Macher_1998_CMR\|Macher et al. (1998)]] | Argument | 结合微观晶圆厂标杆数据论证美日半导体竞争逆转与垂直专业化分工的权威文献。 |
-> | [[Argument_Bown_2024_JEP\|Bown & Wang (2024)]] | Argument | 将日本 VLSI 项目定性为 20 世纪传统追赶型现代产业政策顶峰与美日贸易争端根源的研究。 |
+> | [[Argument_Bown_2024_JEP\|Bown and Wang (2024)]] | Argument | 将日本 VLSI 项目定性为 20 世纪传统追赶型现代产业政策顶峰与美日贸易争端根源的研究。 |
 > | [[Argument_Mody_2017_MOH\|Mody (2017)]] | Argument | 探讨日本 VLSI 项目如何直接催生美国微电子学术中心与[[Industry Affiliate Program\|产业联盟]]同源共生的历史研究。 |
 > | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 比较集权 DBS 赶超与去中心化 DNS 前沿创新，揭示日本半导体挑战倒逼美国科技体制重塑的理论文献。 |
 
@@ -252,5 +252,5 @@ updated: 2026-10-15
 > - [[Argument_Block_2008_PS|Block (2008)]] — 对比东亚集权官僚发展型国家（DBS）在标准化产品追赶中的高效与在未知前沿突破中的失灵，阐明日本 VLSI 挑战如何直接倒逼美国构建去中心化[[Developmental Network State|发展型网络国家]]（DNS）并通过 [[MOSIS]] 与 [[Sematech]] 扭转竞争格局。
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 系统评估日本 VLSI 联盟在中央联合实验室攻关共性微细加工工艺、在企业内部独立开展专有产品开发的分工机制，以及对全球高技术研发联盟的制度示范。
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 结合微观晶圆厂标杆数据，实证分析日本 VLSI 带来的 DRAM 统治优势如何因大宗商品锁定而在 1990 年代被美国无晶圆设计与垂直专业化代工网络反超。
-> - [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] — 从全球产业政策演进史视角，将日本 VLSI 项目定性为 20 世纪传统追赶型产业政策（纵向一体化冠军、集中共性研发与资本配给）的巅峰形态。
+> - [[Argument_Bown_2024_JEP|Bown and Wang (2024)]] — 从全球产业政策演进史视角，将日本 VLSI 项目定性为 20 世纪传统追赶型产业政策（纵向一体化冠军、集中共性研发与资本配给）的巅峰形态。
 > - [[Argument_Mody_2017_MOH|Mody (2017)]] — 揭示美国工程学者如何利用日本[[Ministry of International Trade and Industry|通产省]]斥巨资开展 VLSI 攻关的外部威胁，成功游说五角大楼与 [[National Science Foundation|NSF]] 资助设立国家级微细加工用户设施与产学联合中心。

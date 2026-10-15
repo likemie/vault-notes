@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Dependent Variable
 
@@ -101,4 +101,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — 小麦肥料实验中，小麦的生长和产量是因[[Variable\|变量]]；Bhadwal & Panda (1991) 的研究中，学生的学习习惯和态度是因变量；资源可用性×学习动机的[[Factorial Design\|因子设计]]中，考试成绩是因变量。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — 小麦肥料实验中，小麦的生长和产量是因[[Variable\|变量]]；Bhadwal and Panda (1991) 的研究中，学生的学习习惯和态度是因变量；资源可用性×学习动机的[[Factorial Design\|因子设计]]中，考试成绩是因变量。

@@ -33,7 +33,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 # Catalytic Validity
 
@@ -42,7 +42,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 催化效度（Catalytic validity）力求确保**研究导致行动**。在中性层面上，它与[[Participatory Research\|参与式研究]][[Paradigm\|范式]]相呼应——研究不应止于描述或解释，而应推动改变。但 Lather (1986, 1991) 和 Kincheloe & McLaren (1994) 赋予了它更强的政治性：催化效度的议程是**帮助参与者理解他们的世界，以便转变它**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 173–174)]]
+> 催化效度（Catalytic validity）力求确保**研究导致行动**。在中性层面上，它与[[Participatory Research\|参与式研究]][[Paradigm\|范式]]相呼应——研究不应止于描述或解释，而应推动改变。但 Lather (1986, 1991) 和 Kincheloe and McLaren (1994) 赋予了它更强的政治性：催化效度的议程是**帮助参与者理解他们的世界，以便转变它**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 173–174)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 催化效度将效度标准从"测量准确性"转向"研究的社会变革效果"——一项研究仅在促成参与者赋权和解放行动的程度上才被认为是"有效的"。
@@ -55,7 +55,7 @@ updated: 2026-10-07
 
 > [!dimension] 催化效度的多重面向
 > - **赋权参与者（Empowerment）**
->   Lincoln & Guba (1986) 建议"公平性"标准应用于研究，即研究应（a）增进和改善参与者对世界的体验；（b）增进参与者的赋权。研究在此意义上聚焦于**"可能是什么"（what might be——创新和未来趋势的前沿）**和**"可以是什么"（what could be——理想的、可能的未来）（Schofield, 1990, p. 209）**。
+>   Lincoln and Guba (1986) 建议"公平性"标准应用于研究，即研究应（a）增进和改善参与者对世界的体验；（b）增进参与者的赋权。研究在此意义上聚焦于 **"可能是什么"（what might be——创新和未来趋势的前沿）** 和 **"可以是什么"（what could be——理想的、可能的未来）（Schofield, 1990, p. 209）**。
 > - **揭露权力运作（Exposing power）**
 >   催化效度要求揭露**谁对情境的定义在情境中运作**——即现存秩序的"理所当然性"是如何被特定群体的利益所维持的。研究应揭示沟通和社会结构中的扭曲、意识形态变形和局限（LeCompte & Preissle, 1993）。
 > - **促进解放（Promoting emancipation）**
@@ -68,7 +68,7 @@ updated: 2026-10-07
 ## 围绕概念形成的命题
 
 > [!claim] 催化效度重申了伦理在研究中的中心地位
-> 催化效度要求研究者审问自己的**忠诚（allegiances）**、**责任（responsibilities）**和**自我利益（self-interestedness）（Burgess, 1989）**。它不仅关乎"如何做"研究，而且关乎**"为谁"和"为何目的"**做研究。催化效度将[[Research Ethics\|研究伦理]]从"不伤害"的消极底线提升到"积极赋权"的政治承诺。
+> 催化效度要求研究者审问自己的**忠诚（allegiances）**、**责任（responsibilities）** 和**自我利益（self-interestedness）（Burgess, 1989）**。它不仅关乎"如何做"研究，而且关乎 **"为谁"和"为何目的"** 做研究。催化效度将[[Research Ethics\|研究伦理]]从"不伤害"的消极底线提升到"积极赋权"的政治承诺。
 
 > [!implication]- 如何辩护研究者应具有意识形态意图
 > "如何辩护研究者应具有这样的意识形态意图——也许是一个未解决的问题——但不解决这一领域的问题就是通过遗漏和忽略来延续不平等。"催化效度将此悖论置于研究者面前：拒绝介入是一种政治选择，积极介入也是一种政治选择——两者都是价值负载的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 174)]]

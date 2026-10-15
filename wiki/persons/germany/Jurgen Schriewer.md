@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Jurgen Schriewer
@@ -150,7 +150,7 @@ updated: 2026-10-15
 > [!contrast-table] 施里韦尔核心理论命题归纳
 > | 命题类型 | 核心指向 | 代表理论透镜 | 关键文献 |
 > |---|---|---|---|
-> | **命题一：政策外化机制** | 跨国借用是系统内部为了解决自身危机而向世界参照进行的语义投影 | [[Niklas Luhmann\|卢曼]]自创生系统论、话语形成理论 | Schriewer (1990); Schriewer & Martinez (2004) |
+> | **命题一：政策外化机制** | 跨国借用是系统内部为了解决自身危机而向世界参照进行的语义投影 | [[Niklas Luhmann\|卢曼]]自创生系统论、话语形成理论 | Schriewer (1990); Schriewer and Martinez (2004) |
 > | **命题二：学科理论自律** | 比较教育必须坚守母学科理论根基与历史文化阐释以维护认识论尊严 | 欧洲学科本体理论（Discipline-Based Theory） | [[Argument_Mitter_2009_Europe\|Mitter (2009)]]; Schriewer (1999) |
 
 ---

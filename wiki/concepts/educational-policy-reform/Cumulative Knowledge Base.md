@@ -72,7 +72,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **累积性知识库（Cumulative Knowledge Base）**是指在复杂教育[[Epistemic Governance\|知识治理]]生态中，超越单一孤立个案与单体中介机构局限，通过跨国跨系统元中介协作（Brokering the Brokers）、二阶[[Systematic Review\|系统综述]]（Reviews of Reviews）以及多元异质证据整合，逐步沉淀并动态调适形成的、被政策与[[Communities of Practice|实践共同体]]“准普遍公认建立在坚实基础之上（quasi-universally acknowledged as well founded）”的共享性科学与实践知识基石。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 55, 66–68]])
+> **累积性知识库（Cumulative Knowledge Base）** 是指在复杂教育[[Epistemic Governance\|知识治理]]生态中，超越单一孤立个案与单体中介机构局限，通过跨国跨系统元中介协作（Brokering the Brokers）、二阶[[Systematic Review\|系统综述]]（Reviews of Reviews）以及多元异质证据整合，逐步沉淀并动态调适形成的、被政策与[[Communities of Practice|实践共同体]]“准普遍公认建立在坚实基础之上（quasi-universally acknowledged as well founded）”的共享性科学与实践知识基石。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 55, 66–68]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向教育科学从“碎片化、竞争性、易随政党更迭与商业营销而颠覆的离散知识主张”，向“具备高度社会公信力、跨情境自洽性与持续可加总性”的系统性知识共同体的组织与[[Epistemology\|认识论]]状态。
@@ -148,7 +148,7 @@ updated: 2026-10-16
 > [!concept-lens] [[Epistemic Governance\|知识治理]]生态的周期错配
 > 探讨公共财政资助机制、政治换届选举与教育研究长周期显效之间的体制性张力。
 
-> [!claim] [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]
+> [!claim] [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]
 > **政治预算短周期与长期知识沉淀的结构性断裂** 教育之所以未能建立类似医学的坚固知识基石，核心体制瓶颈不在于研究者生产力不足，而在于治理维度的周期性错配。政府拨款与中介服务合同普遍以 2 至 3 年为考核考核周期，而重大教育改革与复杂知识吸收通常需要 5 至 10 年才能全面显效（Borman et al., 2003）。在面临政治选举更迭或财政紧缩时，成效评估往往是最先被削减或直接略过的环节；大量原本具有探索价值的中介项目（如[[Canadian Council on Learning\|加拿大终身学习委员会]]、丹麦清算中心）在成效评估出炉前便被仓促撤资关停，致使教育知识系统陷入“不断另起炉灶、始终无法纵向累积”的碎片化循环。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 64–65]])
 
 ---
@@ -158,7 +158,7 @@ updated: 2026-10-16
 > [!concept-lens] 组织元治理与跨网络协同
 > 探讨如何超越单个机构在资源、国别与受众上的局限性，建构跨系统元中介机制。
 
-> [!claim] [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]; Gough et al. (2011)
+> [!claim] [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]; Gough et al. (2011)
 > **元中介协作对克服机构孤岛与推进二阶综合的决定性作用** 单一中介组织无论资源多么丰富，都不可避免地受制于本国政策议程、特定目标受众（如仅偏向政策或仅偏向课堂）以及特定方法学偏好（如纯粹 [[Randomised Controlled Trials\|RCT]] 派或多元派）的局限。[[EU|欧盟]]资助的 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 网络长达十年的自主维系经验表明，唯有通过建立跨国跨系统的“中介的中介”（Brokering the Brokers），依托“公开网络大会（扩展参与广度）与闭门伙伴会议（深化方法攻坚）”的双轨协同治理机制，才能共同攻克[[Heterogeneity\|异质性]]数据综合与质量评估的公认标准，使研究综合从单篇个案迈向二阶[[Systematic Review\|系统综述]]，最终建立起跨越国别界限、经受全球同行检验的累积性知识基石。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 66–68]])
 
 ---
@@ -168,7 +168,7 @@ updated: 2026-10-16
 > [!concept-lens] [[Epistemology\|认识论]]整合与反技术化拆解
 > 探讨[[Positivism\|实证主义]]量化因果标准与一线复杂微观[[Phronesis\|实践智慧]]之间的动态平衡。
 
-> [!claim] [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]; Greenhalgh et al. (2014)
+> [!claim] [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]; Greenhalgh et al. (2014)
 > **反教条化规则并捍卫教师作为知识型专业人员的专业主体地位** 汲取循证医学（EBM）深陷“指南泛滥、微小效应缺乏临床意义、刚性技术规则排挤个体关怀”五大意外后果的教训，教育累积性知识库绝不能异化为自上而下的算法指令或机械教学处方。课堂分析学与 AI 评分工具若试图将教学活动拆解（Unbundling）为离散的自动化单元，将不可避免地导致教师职业的“[[Cognitive Deskilling|去技能化]]”（Deskilling）（Facer & Selwyn, 2021）。真正的累积性知识库必须将严谨因果证据定位为[[Reflexivity\|反思性]]专业对话的催化剂，高度尊重教师在微观情境中权衡调适证据的临床[[Professional Judgment\|专业判断]]（[[Professional Judgment\|专业判断]]）与实践智慧（[[Phronesis\|实践智慧]]），形成科学实证与扎根实践相融共生的知识大厦。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 65–67]])
 
 ---
@@ -178,9 +178,9 @@ updated: 2026-10-16
 > [!ref-table] 累积性知识库核心命题汇总
 > | 命题编号 | 命题核心主张 | 理论维度 | 代表性学者与文献 | 治理启示 |
 > |---|---|---|---|---|
-> | **命题一** | 政治换届与 2–3 年财政预算短周期在科学评估出炉前仓促决定项目存亡，阻断了知识体系的纵向累积。 | 政治周期与评估错配 | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]; Borman et al. (2003) | 必须建立国家最高立法授权与经常性法定预算形成的制度护城河。 |
+> | **命题一** | 政治换届与 2–3 年财政预算短周期在科学评估出炉前仓促决定项目存亡，阻断了知识体系的纵向累积。 | 政治周期与评估错配 | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]; Borman et al. (2003) | 必须建立国家最高立法授权与经常性法定预算形成的制度护城河。 |
 > | **命题二** | 单体中介孤岛受制于资源与受众局限，唯有协同推进“中介的中介”与二阶系统综述方能凝聚全球公认共识。 | 组织元治理与网络协同 | Gough et al. (2011); OECD (2021) | 采用双轨会议机制平衡网络广度与专业深度，培育跨国元中介。 |
-> | **命题三** | 警惕循证规则的技术化垄断与教学劳动拆解，累积性知识库必须深度护持教师临床专业判断与实践智慧。 | 认识论整合与专业主体 | Greenhalgh et al. (2014); Facer & Selwyn (2021) | 反对算法化去技能化，确立教学作为知识型专业人员的核心地位。 |
+> | **命题三** | 警惕循证规则的技术化垄断与教学劳动拆解，累积性知识库必须深度护持教师临床专业判断与实践智慧。 | 认识论整合与专业主体 | Greenhalgh et al. (2014); Facer and Selwyn (2021) | 反对算法化去技能化，确立教学作为知识型专业人员的核心地位。 |
 
 ---
 
@@ -189,7 +189,7 @@ updated: 2026-10-16
 > [!dev-timeline]- 概念历史演化脉络
 > - **2000 年代初 — 单一研究综合与清算中心孤岛（First-Order Syntheses）** 随着美国设立 [[What Works Clearinghouse\|WWC]]、英国设立 [[EPPI-Centre]]，循证运动主要聚焦于运用初阶[[Systematic Review\|系统综述]]或[[Meta-analysis\|元分析]]对特定教学干预进行[[Effect Size\|效应量]]加总；此时机构间各自为政，标准严重割裂。
 > - **2010–2015 年 — 跨国元中介网络探索与实践重心下沉（[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] & [[Education Endowment Foundation\|EEF]]）** [[EU|欧盟]]资助建立 EIPPEE 跨国中介协作网络，开启了关于跨国元中介治理的早期探索；同时英国设立 [[Education Endowment Foundation\|EEF]]，推动证据从宏观政策向一线实践与工具包深度下沉。
-> - **2016–至今 — 二阶系统综述与累积性知识大厦构想（Meta-Brokerage Era）** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] 正式提出建构“准普遍公认的累积性知识库”命题；反思单体中介的高夭折率生存悖论，呼吁在跨国与跨学科层面协同推进“中介的中介”，将自然科学、医学反思透镜、算法治理与教师专业主体性融为一体。
+> - **2016–至今 — 二阶系统综述与累积性知识大厦构想（Meta-Brokerage Era）** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] 正式提出建构“准普遍公认的累积性知识库”命题；反思单体中介的高夭折率生存悖论，呼吁在跨国与跨学科层面协同推进“中介的中介”，将自然科学、医学反思透镜、算法治理与教师专业主体性融为一体。
 
 ---
 
@@ -232,11 +232,11 @@ updated: 2026-10-16
 > | [[Systematic Review]] | 方法 | 沉淀累积性知识基石的核心研究与综合方法。 |
 > | [[Canadian Council on Learning]] | 机构事实 | 缺乏长期制度预算支持导致夭折、阻断累积性知识沉淀的反面案例。 |
 > | [[Education Media Centre]] | 机构事实 | 依托累积性知识库面向大众媒体与公众提供快速事实核查的案例。 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] | 论证条目 | 系统论述累积性知识库命题、二阶综述演进与“中介的中介”元治理构想。 |
+> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 系统论述累积性知识库命题、二阶综述演进与“中介的中介”元治理构想。 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 提出建构准普遍公认的累积性知识基石命题，论证单体机构受制于政治与预算周期的生存悖论，阐明通过二阶[[Systematic Review\|系统综述]]与“中介的中介”元网络凝聚跨国证据共识的必由之路。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 提出建构准普遍公认的累积性知识基石命题，论证单体机构受制于政治与预算周期的生存悖论，阐明通过二阶[[Systematic Review\|系统综述]]与“中介的中介”元网络凝聚跨国证据共识的必由之路。

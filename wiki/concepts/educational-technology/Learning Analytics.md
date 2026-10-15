@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Learning Analytics
@@ -170,7 +170,7 @@ updated: 2026-10-15
 > | **数据化生产性** | 行为数据表征重构教学角色，创造具有等级划分效力的价值秩序 | 在线学习平台、教师专业发展、EdTech 产业 | [[Argument_Amos_2022_Springer\|Amos (2022)]]; [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022, p. 225)]] |
 > | **学习增益测查** | 结合机考与量规实现跨阶段追踪，成为高教增值评价核心工具 | 高教质量保障、纵向评估项目（HEFCE/TECO） | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, p. 17)]] |
 > | **先发制人规训** | 通过数字自我与最优对标实施早期干预，重塑标准化主体性 | 入学在线自测（OSA）、学业预警系统 | [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022, p. 226)]] |
-> | **视觉符号异化** | 仪表盘警示色与游戏代币诱发条件反射，以行为顺从替代深度教化 | 自适应平台界面（Antolin/bettermarks）、教育游戏化 | [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge (2022)]] |
+> | **视觉符号异化** | 仪表盘警示色与游戏代币诱发条件反射，以行为顺从替代深度教化 | 自适应平台界面（Antolin/bettermarks）、教育游戏化 | [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz and Klinge (2022)]] |
 
 ---
 
@@ -216,4 +216,4 @@ updated: 2026-10-15
 > - [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] — [[OECD]] 国际报告，系统评述 [[Higher Education Funding Council for England\|HEFCE]]、[[KoKoHs Program\|KoKoHs]]、[[TECO Project\|TECO]] 等大规模[[Learning Gain\|学习增益]]分析项目，指出机考分析技术在测查高阶素养时的[[Construct\|构念]]有效性挑战与政策杠杆。
 > - [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022)]] — 批判性考察在线自我评估（[[Online Self-Assessment\|OSA]]）中的学习分析技术，揭示[[Preemptive Governance\|先发制人治理]]、[[Digital Self\|数字自我]]与“有前景学生”的主体性[[Disciplina and Doctrina\|规训]]机制。
 > - [[Argument_Amos_2022_Springer\|Amos (2022)]] — 剖析[[Educational Technology Industry\|教育技术产业]]如何将学习分析包装为教师专业发展工具，指出其实证效益不足与[[Transhumanism\|超人类主义]]效率导向。
-> - [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge (2022)]] — 探讨算法时代的教化（[[Bildung]]）危机，分析仪表盘色彩象征与[[Gamification\|游戏化]]代币对学生认知的[[Data Behaviorism\|数据行为主义]]驯化。
+> - [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz and Klinge (2022)]] — 探讨算法时代的教化（[[Bildung]]）危机，分析仪表盘色彩象征与[[Gamification\|游戏化]]代币对学生认知的[[Data Behaviorism\|数据行为主义]]驯化。

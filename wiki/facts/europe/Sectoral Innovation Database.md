@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-09-18
+updated: 2026-10-16
 ---
 
 # Sectoral Innovation Database
@@ -69,10 +69,10 @@ updated: 2026-09-18
 > - CIS 4 的数据主要从 Eurostat 获取（英国除外）
 > - 数据库的[[Assemblage\|组装]]使用通用协议，沿用国家统计办公室的标准化程序
 > - 货币[[Variable\|变量]]使用 GDP 平减指数（基准年 2002）和购买力平价（Purchasing Power Parity，[[Public-Private Partnership|PPP]]）转换进行通胀调整和跨国可比化
-> - 最新的 CIS 调查已采用 NACE Rev. 2 分类，通过 Perani & Cirillo（2015）开发的转换方法纳入数据库
+> - 最新的 CIS 调查已采用 NACE Rev. 2 分类，通过 Perani and Cirillo（2015）开发的转换方法纳入数据库
 
 ---
 ## 研究应用
 
 > [!note]-
-> SID 已被用于多项创新经济学研究。[[Argument_Bogliacino_Pianta_2016_EP\|Bogliacino & Pianta (2016)]]使用 SID 数据系统检验了修订版 [[Pavitt Taxonomy]] 的有效性，通过主成分分析和回归分析验证了四类创新模式——科学基础型（Science Based，SB）、专业供应商型（Specialized Suppliers，SS）、规模与信息密集型（Scale and Information Intensive，SII）、供应商主导型（Supplier Dominated，SD）——在八个国家和三轮调查中的稳健性。其他应用包括创新与就业关系（Bogliacino & Pianta, 2010）和创新与生产率关系（Bogliacino & Pianta, 2011）的跨行业分析。
+> SID 已被用于多项创新经济学研究。[[Argument_Bogliacino_Pianta_2016_EP\|Bogliacino and Pianta (2016)]]使用 SID 数据系统检验了修订版 [[Pavitt Taxonomy]] 的有效性，通过主成分分析和回归分析验证了四类创新模式——科学基础型（Science Based，SB）、专业供应商型（Specialized Suppliers，SS）、规模与信息密集型（Scale and Information Intensive，SII）、供应商主导型（Supplier Dominated，SD）——在八个国家和三轮调查中的稳健性。其他应用包括创新与就业关系（Bogliacino & Pianta, 2010）和创新与生产率关系（Bogliacino & Pianta, 2011）的跨行业分析。

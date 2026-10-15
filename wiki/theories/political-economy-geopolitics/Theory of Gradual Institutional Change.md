@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Theory of Gradual Institutional Change
@@ -213,6 +213,6 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 渐进制度变迁理论奠基之作，系统建构置换、分层、漂移、转换与耗竭五大变迁形态学，揭示资本主义[[Liberalization|自由化]]演进机制。（pp. 18–34）
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 渐进制度变迁理论[[Causal Modeling|因果建模]]里程碑，建构双维情境矩阵与四类变革行动者微观博弈模型。（pp. 1–37）
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 渐进制度变迁理论奠基之作，系统建构置换、分层、漂移、转换与耗竭五大变迁形态学，揭示资本主义[[Liberalization|自由化]]演进机制。（pp. 18–34）
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 渐进制度变迁理论[[Causal Modeling|因果建模]]里程碑，建构双维情境矩阵与四类变革行动者微观博弈模型。（pp. 1–37）
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 检验[[Institutional Layering|制度分层]]概念在六十年期刊文献中的应用，反思渐进变迁与制度再生产的边界划分。

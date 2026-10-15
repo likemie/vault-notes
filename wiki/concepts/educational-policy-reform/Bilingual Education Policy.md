@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Bilingual Education Policy
@@ -174,4 +174,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 结合第17章深度剖析新加坡双语政策在克服[[Dunbar's Number|邓巴数]]限制、塑造想象共同体与驱动经济跃升中的战略实践，论证卓越领袖与国家文化工程在[[Technological Republic|技术共和国]]建构中的决定性作用。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 结合第17章深度剖析新加坡双语政策在克服[[Dunbar's Number|邓巴数]]限制、塑造想象共同体与驱动经济跃升中的战略实践，论证卓越领袖与国家文化工程在[[Technological Republic|技术共和国]]建构中的决定性作用。

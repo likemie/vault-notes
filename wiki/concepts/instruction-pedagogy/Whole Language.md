@@ -63,7 +63,7 @@ related_arguments:
 part_of: ''
 status: draft
 created: 2026-05-03
-updated: 2026-10-15
+updated: 2026-10-16
 year: 2020
 doi: ""
 citation_aliases: []
@@ -144,7 +144,7 @@ citation_aliases: []
 ## 争议与批评
 
 > [!critique-method] 评估方法论偏见（O'Connor 对 Hattie 的指控）
-> - **分类错误**[[John Hattie\|哈蒂]]采纳的 [[Steven Stahl\|斯塔尔]]与米勒（Stahl & Miller, 1989）[[Meta-analysis\|元分析]]将早期“[[Language Experience Approach\|语言经验法]]”混同于全语言，塞入了全语言运动诞生前的 Brazziel & Terrell (1962) 行为主义准备研究，造成了“垃圾输入，垃圾输出” (p.144)。
+> - **分类错误**[[John Hattie\|哈蒂]]采纳的 [[Steven Stahl\|斯塔尔]]与米勒（Stahl & Miller, 1989）[[Meta-analysis\|元分析]]将早期“[[Language Experience Approach\|语言经验法]]”混同于全语言，塞入了全语言运动诞生前的 Brazziel and Terrell (1962) 行为主义准备研究，造成了“垃圾输入，垃圾输出” (p.144)。
 > - **非对称审查与选择性修正**[[John Hattie\|哈蒂]]对报告极端负面（d = -0.65）的 [[William Jeynes\|杰尼斯]]与利特尔（Jeynes & Littell, 2000）算错的研究未加任何审查即全盘接受；却唯独对显示正面效应的 Gee (1995)（d = 0.65）手动删除三项正面研究，强行将[[Effect Size\|效应量]]修正为零 (p.148)。
 > - **研究者偏见与政治镜头** 哈蒂对[[Direct Instruction\|直接教学]]偏爱，对[[Jean-Jacques Rousseau\|卢梭]]式[[Constructivist Paradigm\|建构主义]]敌视，导致其选择性忽略了 [[William Jeynes\|杰尼斯]]福音派传教士身份的保守派右翼政治偏见，并在《VL》中对正反数据采取了双重审查标准 (p.147-148)。
 
@@ -160,10 +160,10 @@ citation_aliases: []
 
 ## 应用案例
 
-> [!case] Case 1: Dahl & Freppon (1994) 双城[[Cohort Study|追踪研究]]
+> [!case] Case 1: Dahl and Freppon (1994) 双城[[Cohort Study|追踪研究]]
 > 该研究追踪了低收入内城区学校的 8 个班级两年（幼儿园到一年级），结果表明虽然量化阅读测试得分相似，但全语言班学生能生成更多故事语言的句法与词汇特征，并建立起极强的读写坚持性与 ownership（学习所有权），而技能本位班只有最 proficiency 的学生才有此类倾向 (p.146-147)。
 
-> [!case] Case 2: Trachtenburg & Ferruggia (1989) 共享大书实验
+> [!case] Case 2: Trachtenburg and Ferruggia (1989) 共享大书实验
 > 该研究针对高风险初学者，通过故事大书进行“共享阅读体验”。学生每天自主选择想学的词，教师基于儿童口头复述材料制作拼读教具，实现技能教学在文学情境下的自然流动，达成了 d = 1.7 的高效益，但被[[John Hattie|哈蒂]]以“使用了单词表和[[Decodification|解码]]技术”为由选择性剔除 (p.148)。
 
 ---

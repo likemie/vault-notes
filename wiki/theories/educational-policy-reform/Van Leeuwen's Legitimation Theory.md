@@ -46,7 +46,7 @@ related_instruments: []
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 核心主张
@@ -77,7 +77,7 @@ updated: 2026-10-15
 > - 这是 Bainbridge et al. 识别的"建构型道德侧步"的核心机制——"good"（[[Ofsted]] 术语）被扭曲为道德上的"善"([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.19, 27]])
 >
 > **3. 理性合法化（Rational Legitimation）**
-> - 观点或行动需要与**"真理"或理性论证**建立关系
+> - 观点或行动需要与 **"真理"或理性论证**建立关系
 > - 在教育政策中的表现：政府引用 Coldwell et al.（2017）对证据的定义（认可 [[Education Endowment Foundation\|EEF]]、[[John Hattie]]、[[Sutton Trust]] 同时排除 [[Ofsted]]），表面上承诺"基于证据的政策"
 > - 但 Bainbridge et al. 发现政府在实践中违反了自身定义——[[Ofsted]] 评级被当作"证据"使用，而符合定义的学术研究证据被回避（p.27）
 >
@@ -94,13 +94,13 @@ updated: 2026-10-15
 > [!note-] 发展脉络
 > [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]提供的唯一来源是 Van Leeuwen（2007）的原始框架。论文未追溯该理论的后续发展或修订。该条目的知识范围因此受限于此单一来源。
 >
-> 该理论被 Bainbridge et al. 引入教育政策分析，与 Stevens（2019）的 道德侧步 概念、Malone & Hogan（2020）的 正当理由 框架、以及 Archer（2000）的 corporate agency / primary agency 区分共同构成论文的理论框架([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.9]])。
+> 该理论被 Bainbridge et al. 引入教育政策分析，与 Stevens（2019）的 道德侧步 概念、Malone and Hogan（2020）的 正当理由 框架、以及 Archer（2000）的 corporate agency / primary agency 区分共同构成论文的理论框架([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.9]])。
 >
 
 ## 认识论立场
 
 > [!info] [[Epistemology\|认识论]]立场
-> 合法化理论属于**批判[[Discourse Analysis\|话语分析]]（Critical [[Discourse]] Analysis）**传统。其[[Epistemic Stances\|认识论立场]]是[[Constructivist Paradigm\|社会建构主义]]——不假定证据本身具有固定效力，而是追问证据在特定社会-制度条件下被接受或拒绝的**话语机制**。
+> 合法化理论属于**批判[[Discourse Analysis\|话语分析]]（Critical [[Discourse]] Analysis）** 传统。其[[Epistemic Stances\|认识论立场]]是[[Constructivist Paradigm\|社会建构主义]]——不假定证据本身具有固定效力，而是追问证据在特定社会-制度条件下被接受或拒绝的**话语机制**。
 >
 > 这与 [[Evidence-Based Education\|证据本位教育]] 中隐含的[[Positivism\|实证主义]]认识论形成张力——后者假定证据质量本身决定其政策影响力，而合法化理论揭示价值对齐可能是更重要的[[Variable\|变量]]([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.9, 27]])。
 >

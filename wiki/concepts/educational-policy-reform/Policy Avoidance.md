@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Policy Avoidance
@@ -165,4 +165,4 @@ updated: 2026-10-15
 > | [[Ofsted]] | Fact (Organization) | [[Michael Gove\|戈夫]]借政策规避强推“磨利督导之剑”与严苛问责，媒体对此缺乏实质批判。 |
 > | [[Grammar School]] | Fact (Policy) | 英国议会与媒体在讨论中屡屡规避其加剧社会不平等的实证，转而借危机为其复兴造势。 |
 > | [[Paul Morris]] | Person | 首次命名并深刻论证教育公共治理中“政策规避”现象的核心学者。 |
-> | [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] | Argument | 提出政策规避概念并以英格兰应对 [[PISA]] 2012 为个案展开深度实证剖析的奠基文献。 |
+> | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | Argument | 提出政策规避概念并以英格兰应对 [[PISA]] 2012 为个案展开深度实证剖析的奠基文献。 |

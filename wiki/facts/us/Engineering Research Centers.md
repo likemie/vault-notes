@@ -70,7 +70,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Engineering Research Centers
@@ -181,7 +181,7 @@ updated: 2026-10-15
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 从隐蔽[[Developmental Network State|发展型网络国家]]微观靶向战略视角，系统论证 [[National Science Foundation|NSF]] 工程研究中心如何以大额仪器资助支持产业共性技术攻关，并实证揭示其撬动 1:10 私营资本杠杆及向国防部、能源部与[[Congressional Earmarks|国会专项拨款]]扩散的制度演进。
-> - [[Argument_Bozeman_2004_JTT|Bozeman & Boardman (2004)]] — 详尽回顾 [[National Science Foundation|NSF]] 工程研究中心 20 年发展史，实证剖析多用途大学研究中心的组织创新、存活率与管理张力。
+> - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 详尽回顾 [[National Science Foundation|NSF]] 工程研究中心 20 年发展史，实证剖析多用途大学研究中心的组织创新、存活率与管理张力。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统剖析现代微电子与半导体创新体系中大学如何借鉴 ERC 跨学科中心模式，编织跨区域多圈层协同网络与三级人才梯队。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演进视角，系统阐释国家战略科技力量建设如何推动大学中心从自由探索向关键技术主权攻坚演变。
 

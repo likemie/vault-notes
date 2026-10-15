@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # NSF I-Corps
@@ -186,7 +186,7 @@ updated: 2026-10-15
 > | [[SBIR and STTR Programs]] | Fact (Program) | I-Corps 结业团队下一步申请联邦非稀释性产业研发资助的标准出口。 |
 > | [[National Strategy on Microelectronics Research]] | Fact (Policy) | 国家微电子战略将 I-Corps 列为繁荣硬件初创企业与加速产业转化的重要生态工具。 |
 > | [[National Semiconductor Technology Center]] | Fact (Organization) | 与 I-Corps 深度联动，为硬科技团队提供设计网关与 [[Multi-Project Wafer\|MPW]] 中试流片支持。 |
-> | [[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison & Wilson (2025)]] | Argument | 详尽剖析 I-Corps 运作机制、三元架构、数据成效及跨越 TRL 断层的实证研究。 |
+> | [[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison and Wilson (2025)]] | Argument | 详尽剖析 I-Corps 运作机制、三元架构、数据成效及跨越 TRL 断层的实证研究。 |
 > | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 阐明国家微电子战略中通过 I-Corps 与风险共担机制打通从实验室到代工厂全链条转化的顶层路径。 |
 
 ---
@@ -194,7 +194,7 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson (2025)]] — 系统解构[[University Spin-Out|大学衍生企业]]在 [[Technology Readiness Level|TRL]] 3–5 的融资错配，阐明 [[National Science Foundation|NSF]] I-Corps 引入精益客户发现与产业导师三元架构对提高[[Research Translation|技术转化]]存活率的制度贡献。
+> - [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison and Wilson (2025)]] — 系统解构[[University Spin-Out|大学衍生企业]]在 [[Technology Readiness Level|TRL]] 3–5 的融资错配，阐明 [[National Science Foundation|NSF]] I-Corps 引入精益客户发现与产业导师三元架构对提高[[Research Translation|技术转化]]存活率的制度贡献。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 白宫微电子战略白皮书，阐述在第四支柱（转化生态）中如何依托 I-Corps、国家设计网关与风险资本共担机制打通实验室到代工厂转化路径。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 系统梳理 2011 年 NSF 设立 I-Corps 以来，美国科学资助政策从[[Curiosity-Driven Research|纯基础研究]]向应用启发与[[Academic Entrepreneurship|学术创业]]转型的历史脉络。
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 分析《[[CHIPS and Science Act|芯片与科学法案]]》增设 [[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会后对 NSF I-Corps 及大学技术转化生态的扩容效应。

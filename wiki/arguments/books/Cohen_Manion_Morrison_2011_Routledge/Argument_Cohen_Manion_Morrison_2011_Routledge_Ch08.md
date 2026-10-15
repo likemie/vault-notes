@@ -99,7 +99,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-21
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08
 
@@ -207,7 +207,7 @@ updated: 2026-10-08
 >
 > - **总体变异性越大，所需样本越大** Gorard（2003, p. 62）指出，调查 IQ（范围约 70–150）这类高变异变量，可能需要比低变异变量更大的样本。
 > - **名义数据需要更大样本** Oppenheim（1992, p. 44）指出，名义数据的样本量可能需要比等距和比率数据更大，本质上是子组数量的问题，可能类别越多，样本越大。
-> - **Borg & Gall（1979, p. 195）的五条大样本规则** 当变量多、预期差异或关系小、样本需分子组、总体在关键变量上[[Heterogeneity\|异质性]]强、[[Dependent Variable\|因变量]]的可靠测量不可得时，样本量应当更大。
+> - **Borg and Gall（1979, p. 195）的五条大样本规则** 当变量多、预期差异或关系小、样本需分子组、总体在关键变量上[[Heterogeneity\|异质性]]强、[[Dependent Variable\|因变量]]的可靠测量不可得时，样本量应当更大。
 
 ---
 
@@ -220,7 +220,7 @@ updated: 2026-10-08
 > > | 因果比较与[[Experimental Research\|实验研究]] | ≥ 15 案例 |
 > > | [[Survey Research\|调查研究]] | 每个主要子组 ≥ 100，每个次要子组 20–50 |
 >
-> Borg & Gall（1979, p. 186）强调应从最小子组的最小案例数出发向上推算，而非反过来。例如：
+> Borg and Gall（1979, p. 186）强调应从最小子组的最小案例数出发向上推算，而非反过来。例如：
 > - 若 5% 的样本必须是青少年男生，且该子组需 30 例（如相关研究）→ 总样本 = $30 \div 0.05 = 600$
 > - 若 15% 的样本必须是青少年女生，且该子组需 45 例 → 总样本 = $45 \div 0.15 = 300$（p.146）
 
@@ -230,7 +230,7 @@ updated: 2026-10-08
 
 概率（随机）样本的大小可通过两种方式确定：（1）研究者谨慎估计以最少案例数代表总体特征；（2）使用数学公式生成的表格（p.146）。
 
-> [!formula] Krejcie & Morgan（1970）：有限总体比例样本量
+> [!formula] Krejcie and Morgan（1970）：有限总体比例样本量
 > $$n = \frac{N \cdot Z^2 \cdot p(1-p)}{(N-1) \cdot e^2 + Z^2 \cdot p(1-p)}$$
 >
 > - $N$：总体大小
@@ -327,7 +327,7 @@ Bartlett et al.（2001, pp. 48–9）还指出：
 
 ---
 
-Borg & Gall（1979, p. 201）还提出了一种逆向使用相关系数显著性表的方法。原理基于 Pearson 相关系数的 $t$ 检验：
+Borg and Gall（1979, p. 201）还提出了一种逆向使用相关系数显著性表的方法。原理基于 Pearson 相关系数的 $t$ 检验：
 
 > [!formula] Borg & Gall：相关系数显著性所需样本量
 > $$t = \frac{r\sqrt{n-2}}{\sqrt{1-r^2}} \quad \Rightarrow \quad n = t_{\alpha, n-2}^2 \cdot \frac{1-r^2}{r^2} + 2$$
@@ -360,11 +360,11 @@ Borg & Gall（1979, p. 201）还提出了一种逆向使用相关系数显著性
 >
 > 中心极限定理源自概率法则，解释了为什么抽样误差呈现规律性：若从任何总体中反复抽取等大的随机大样本，这些样本的均值将近似正态分布，无论原始总体的形状如何（正态或非正态）。且样本均值的均值将近似等于总体均值（Hopkins et al., 1996, p. 159, 388）。
 >
-> Hopkins 等（1996, pp. 159–62）通过[[Computer Simulation\|计算机模拟]] 10,000 次抽样验证了这一规律。Rose & Sullivan（1993, p. 144）提醒，95% 的所有样本均值落在总体均值 $\pm 1.96$ 个[[Standard Error\|标准误]]的范围内，即我们有 95% 的把握使单次抽样均值落在这些界限内（p.150）。
+> Hopkins 等（1996, pp. 159–62）通过[[Computer Simulation\|计算机模拟]] 10,000 次抽样验证了这一规律。Rose and Sullivan（1993, p. 144）提醒，95% 的所有样本均值落在总体均值 $\pm 1.96$ 个[[Standard Error\|标准误]]的范围内，即我们有 95% 的把握使单次抽样均值落在这些界限内（p.150）。
 
 ---
 
-**均值的标准误（Standard Error of the Mean）**是抽样误差的基本度量，即抽样分布的标准差：
+**均值的标准误（Standard Error of the Mean）** 是抽样误差的基本度量，即抽样分布的标准差：
 
 $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 
@@ -378,7 +378,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 
 ---
 
-**比例的标准误（Standard Error of Proportions）**适用于分类/百分比数据：
+**比例的标准误（Standard Error of Proportions）** 适用于分类/百分比数据：
 
 > [!formula] 比例的标准误
 > $$SE = \sqrt{\frac{P \times Q}{N}}$$
@@ -600,7 +600,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 ##### 目的性抽样
 
 > [!step] [[Purposeful Sampling\|目的性抽样]]（Purposive Sampling）
-> 研究者根据对典型性或特定特征的判断，手工挑选案例。通常是质性研究的特征，但非绝对。Teddlie & Yu（2007）将诸多目的性抽样类型归为三大类（详见 [[Purposeful Sampling]] 条目）：
+> 研究者根据对典型性或特定特征的判断，手工挑选案例。通常是质性研究的特征，但非绝对。Teddlie and Yu（2007）将诸多目的性抽样类型归为三大类（详见 [[Purposeful Sampling]] 条目）：
 >
 > **代表性/可比性抽样** 典型个案、极端/偏差个案、强度抽样、最大变异抽样、同质抽样、声誉个案抽样。
 >
@@ -647,7 +647,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 ##### 理论抽样
 
 > [!step] 理论抽样（Theoretical Sampling）
-> [[Grounded Theory\|扎根理论]]的核心特征。Glaser & Strauss（1967, p. 45）指出，在数据收集过程中，研究者收集、编码和分析数据，分析结果影响下一步从谁那里、在哪里收集什么数据。两个关键问题：
+> [[Grounded Theory\|扎根理论]]的核心特征。Glaser and Strauss（1967, p. 45）指出，在数据收集过程中，研究者收集、编码和分析数据，分析结果影响下一步从谁那里、在哪里收集什么数据。两个关键问题：
 >
 > 1. 下一步转向哪些群体获取数据
 > 2. 为哪些理论目的寻求进一步数据
@@ -663,7 +663,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 > [!claim] 质性研究中样本概念本身可能不适用
 > 如果抽样预设存在一个可识别的总体，那么在质性研究中识别总体或样本是否现实、是否相关？在许多质性研究中，重点放在现象的独特性（uniqueness）、个案性和排他性上，它们只代表自己，不代表任何人或任何其他事物。在这种情况下讨论样本或许不合适，群体或个体更为恰当（pp.164–165）。
 
-但这并不意味着质性研究中的样本永远不能代表总体。Onwuegbuzie & Leech（2007）做出了重要区分：
+但这并不意味着质性研究中的样本永远不能代表总体。Onwuegbuzie and Leech（2007）做出了重要区分：
 
 > [!contrast-table] [[Internal and External Generalizability\|内部推广性]] vs 外部推广性
 > | 维度 | 内部推广性（Internal [[External Validity\|generalizability]]） | 外部推广性（External Generalizability） |
@@ -672,7 +672,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 > | 所需条件 | 子组足够大 | 通常需大样本 |
 > | 在质性研究中 | 更常见、更可行 | 可能但需大样本 |
 
-Onwuegbuzie & Leech（2007, p. 242）建议质性研究的样本量应：
+Onwuegbuzie and Leech（2007, p. 242）建议质性研究的样本量应：
 - 足够大以生成[[Rich and Thick Description|厚描述]]（Geertz, 1973）和丰富数据
 - 不能太大以致数据过载阻碍深度分析或滑向泛化
 - 不能太小以致阻碍理论饱和
@@ -682,13 +682,13 @@ Onwuegbuzie & Leech（2007, p. 242）建议质性研究的样本量应：
 
 ### 8.10 混合方法研究中的抽样：多层次、多类型的整合
 
-Teddlie & Tashakkori（2009, pp. 180–91）指出，混合方法研究通常在同一研究中使用多种样本类型（概率和非概率）以及不同规模、范围和类型的样本，不仅包括人，还包括书面材料、口头/观察材料、社会情境元素（场所、时间、事件等）。
+Teddlie and Tashakkori（2009, pp. 180–91）指出，混合方法研究通常在同一研究中使用多种样本类型（概率和非概率）以及不同规模、范围和类型的样本，不仅包括人，还包括书面材料、口头/观察材料、社会情境元素（场所、时间、事件等）。
 
 ---
 
 > [!case] [[School Effectiveness\|学校效能]]研究的[[Multilevel Mixed Methods Sampling\|多层次混合方法抽样]]
 >
-> Teddlie & Tashakkori（2009, p. 191）提供了一个五层次抽样实例：
+> Teddlie and Tashakkori（2009, p. 191）提供了一个五层次抽样实例：
 >
 > > [!index-table] 五层次学校效能抽样
 > > | 层次 | [[Unit of Analysis\|分析单位]] | 抽样方式 |
@@ -703,15 +703,15 @@ Teddlie & Tashakkori（2009, pp. 180–91）指出，混合方法研究通常在
 
 > [!taxonomy] 混合方法抽样的三种基本设计
 >
-> **[[Parallel Mixed Methods Sampling\|平行混合方法抽样]]（Parallel Mixed Methods Sampling）** 概率和非概率样本同时并排运行，彼此独立，一种样本的数据不影响另一种样本的数据收集。Onwuegbuzie & Leech（2007, p. 239）补充，平行设计可在样本的同一层次内进行跨子组比较（如男生 vs 女生）（p.165）。
+> **[[Parallel Mixed Methods Sampling\|平行混合方法抽样]]（Parallel Mixed Methods Sampling）** 概率和非概率样本同时并排运行，彼此独立，一种样本的数据不影响另一种样本的数据收集。Onwuegbuzie and Leech（2007, p. 239）补充，平行设计可在样本的同一层次内进行跨子组比较（如男生 vs 女生）（p.165）。
 >
 > **[[Sequential Mixed Methods Sampling\|顺序混合方法抽样]]（Sequential Mixed Methods Sampling）** 一种样本先于另一种并影响后续样本。例如定量数据为[[In-depth Interview\|深度访谈]]设置场景（识别极端案例、关键案例、回应高度同质或高度变异的变量）；或定性数据（案例研究、[[Focus Group\|焦点小组]]）为量化调查识别议题（pp.165–166）。
 >
-> **[[Multilevel Mixed Methods Sampling\|多层次混合方法抽样]]（Multilevel Mixed Methods Sampling）** 不同分析单位层次使用不同类型样本，包括学生、班级、学校、地方当局、区域。Onwuegbuzie & Leech（2007, p. 240）指出多层次设计支持跨层次子组比较（如个体学生与教师），并提醒不同层次的子样本量通常不相等，如 30 名学生但只有 1–2 名教师（p.166）。
+> **[[Multilevel Mixed Methods Sampling\|多层次混合方法抽样]]（Multilevel Mixed Methods Sampling）** 不同分析单位层次使用不同类型样本，包括学生、班级、学校、地方当局、区域。Onwuegbuzie and Leech（2007, p. 240）指出多层次设计支持跨层次子组比较（如个体学生与教师），并提醒不同层次的子样本量通常不相等，如 30 名学生但只有 1–2 名教师（p.166）。
 
 ---
 
-Teddlie & Tashakkori（2009, pp. 186–7）还推荐了两种混合变体：
+Teddlie and Tashakkori（2009, pp. 186–7）还推荐了两种混合变体：
 
 - **分层目的性抽样（Stratified Purposive Sampling）** 识别总体中的不同层（子组），从各层中选择有限数量案例，选择基于目的性抽样策略（[[Fitness for Purpose|适合目的]]）而非随机。目的性样本是概率样本的子集。
 - **目的性随机抽样（Purposeful Random Sampling）** 从已通过目的性抽样选定的总体（为特定目的而选择的总体）中，随机抽取少量案例。

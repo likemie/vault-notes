@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Social Programs That Work
@@ -60,7 +60,7 @@ updated: 2026-10-15
 > [!info] 机构定位与运营概况
 > **行之有效的社会项目（Social Programs That Work, SPTW）** 是由原循证政策联盟（Coalition for Evidence-Based Policy）设立、现由著名慈善基金会阿诺德风险创投（Arnold Ventures）维护的多领域非营利[[Educational Evidence Clearinghouses\|证据清算中心]]([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 7]])。
 >
-> SPTW 覆盖基础与高等教育、劳动就业、身心健康、犯罪预防及社会福利等领域。当前处于**活跃在线 / 极高准入（Active / Selective）**状态，官方平台为 [evidencebasedprograms.org](https://evidencebasedprograms.org)，以“宁缺毋滥、唯 [[Randomised Controlled Trials\|RCT]] 论”的极高准入门槛闻名。
+> SPTW 覆盖基础与高等教育、劳动就业、身心健康、犯罪预防及社会福利等领域。当前处于**活跃在线 / 极高准入（Active / Selective）** 状态，官方平台为 [evidencebasedprograms.org](https://evidencebasedprograms.org)，以“宁缺毋滥、唯 [[Randomised Controlled Trials\|RCT]] 论”的极高准入门槛闻名。
 
 ---
 

@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-10
+updated: 2026-10-16
 ---
 
 # Dual-Use Technology
@@ -125,8 +125,8 @@ updated: 2026-10-10
 > [!prop-table] 围绕军民两用技术形成的代表性命题
 > | 命题陈述 | 核心机制 | 提出学者 | 实证支持情境 |
 > |---|---|---|---|
-> | 军民两用技术在产业萌芽期通过知识基础设施、技术衍生与先导采购驱动民用爆发 | 承担高额早期试错成本；[[Learning by Doing\|干中学]]降低成本；强制技术扩散 | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio & Mowery (2005)]] | 1950–1960年代美国半导体采购、[[Sage]]软件工程与[[ARPANET]]网络 |
-> | 产业成熟期军民技术规范分化导致国防政策影响力衰减并演变为逆向溢出 | 商业市场规模反超；存量软件生态网络效应；军民指标分化 | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio & Mowery (2005)]] | 1980年代VHSIC芯片计划及Ada编程语言推广受挫案例 |
+> | 军民两用技术在产业萌芽期通过知识基础设施、技术衍生与先导采购驱动民用爆发 | 承担高额早期试错成本；[[Learning by Doing\|干中学]]降低成本；强制技术扩散 | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio and Mowery (2005)]] | 1950–1960年代美国半导体采购、[[Sage]]软件工程与[[ARPANET]]网络 |
+> | 产业成熟期军民技术规范分化导致国防政策影响力衰减并演变为逆向溢出 | 商业市场规模反超；存量软件生态网络效应；军民指标分化 | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio and Mowery (2005)]] | 1980年代VHSIC芯片计划及Ada编程语言推广受挫案例 |
 
 ---
 

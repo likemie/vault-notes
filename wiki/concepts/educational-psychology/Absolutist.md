@@ -42,7 +42,7 @@ related_methods:
   - "[[Correlational Research]]"
 status: active
 created: 2026-08-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Absolutist
@@ -156,6 +156,6 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances\|认识立场]]框架，系统揭示绝对主义立场在与生成式 AI 交互中的表面顺从与[[Cognitive Offloading\|认知卸载]]表现，并构建双轨支架干预机制。
-> - [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] — 在梳理[[Epistemology\|认识论]]发展模型时，将绝对论作为反映知识确定性、简单性及[[Cognitive Source\|认知来源]]与辩护的初始结构性成分。
+> - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 在梳理[[Epistemology\|认识论]]发展模型时，将绝对论作为反映知识确定性、简单性及[[Cognitive Source\|认知来源]]与辩护的初始结构性成分。
 > - [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] — 将绝对论纳入其三层认识论发展框架，揭示了绝对论立场在面对主观性侵入时的脆弱性，以及在事实领域的相对顽固性。
 

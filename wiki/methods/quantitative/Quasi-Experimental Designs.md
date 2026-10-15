@@ -108,7 +108,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Quasi-Experimental Designs
@@ -120,7 +120,7 @@ updated: 2026-10-15
 > [!def] 方法定义
 > **准实验设计（Quasi-Experimental Designs, QED）** 是指在无法实施完全[[Random Assignment\|随机分配]]（Random Assignment）的真实教育与社会情境中，通过选用非等对自然组别（Non-equivalent Groups）、构建间断时间序列（[[Time Series Design\|interrupted time series]]）或设定断点赋值规则（[[Regression Discontinuity Design\|regression discontinuity]]），系统操纵[[Independent Variable\|自变量]]以检验因果假设的量化实验设计方法（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 317–318]]）。
 >
-> 在当代[[Evidence-Based Education\|循证教育]]体系中，QED 构成了连接完全[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）与纯[[Correlational Research\|相关性研究]]的关键方法桥梁；在 2015 年《每个学生都成功法案》（[[Every Student Succeeds Act]], ESSA）中对应**中等证据（Moderate Evidence / Tier II）**法定层级，在[[What Works Clearinghouse\|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses\|Clearinghouse]], WWC）中对应**有保留达标（Meets Standards With Reservations）**标准（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 109]]；[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8–10]]；[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, pp. 162–163]]）。
+> 在当代[[Evidence-Based Education\|循证教育]]体系中，QED 构成了连接完全[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）与纯[[Correlational Research\|相关性研究]]的关键方法桥梁；在 2015 年《每个学生都成功法案》（[[Every Student Succeeds Act]], ESSA）中对应**中等证据（Moderate Evidence / Tier II）** 法定层级，在[[What Works Clearinghouse\|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses\|Clearinghouse]], WWC）中对应**有保留达标（Meets Standards With Reservations）** 标准（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 109]]；[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8–10]]；[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, pp. 162–163]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 嵌入在自然班级、完整学校或行政区划中的具名教育干预方案、教学模式、课程改革与教育政策。
@@ -251,7 +251,7 @@ updated: 2026-10-15
 > - **制度化因果质控准则** EEF 对此类 QED 研究设立了与 RCT 同等严苛的方法学门槛，强制要求评估团队坚持行业最佳实践（如[[Pre-test and Post-test\|前测]]基线等值性严格控制、透明[[Preregistration\|预注册]]制度，以及评估者独立性与无利益冲突审查）。
 
 > [!abstract] [[Counterfactual\|反事实]]可行性与比较组强度（Counterfactual Viability）
-> [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021, p. 112)]] 指出，QED 的有效性高度依赖于反事实可行性（Counterfactual Viability）：
+> [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021, p. 112)]] 指出，QED 的有效性高度依赖于反事实可行性（Counterfactual Viability）：
 > - **比较条件的真实强度** 对照组若为“低质量、低强度或缺乏支持的弱条件”，干预容易呈现虚大[[Effect Size\|效应量]]；若对照组为“成熟优质的常规教学”，效应量虽小但代表真实的政策净附加值。
 > - **透明报告对照组生态** 证据审查不仅要审查干预组，更必须详尽报告对照组的教学时间、支持资源与课程[[Logic Model\|逻辑模型]]，否则无法在真实学校间迁移。
 
@@ -303,8 +303,8 @@ updated: 2026-10-15
 > [!evidence-grid-a] 研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011)]] — 体系化梳理准实验五大经典设计（非等对控制组、时间序列、[[Regression Discontinuity Design\|断点回归]]、轮换对等），详析选择-成熟交互与均值回归等效度威胁（Ch. 16, pp. 317–324）。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 全景比较 12 所清算中心对 QED 的因果审查规程（0–3 级编码），揭示 [[What Works Clearinghouse\|WWC]] 与 [[Home Visiting Evidence of Effectiveness\|HomVEE]] 的 0.05–0.25 SD 基线等值模型及 QED 在最高证据层级中的制度性分歧（pp. 8–11）。
-> - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]] — 深入探讨 QED 在 [[Every Student Succeeds Act\|ESSA]] Tier 2 政策证据层级中的应用，提出[[Counterfactual\|反事实]]可行性（Counterfactual Viability）与对照组生态报告的必要性（pp. 109–112）。
+> - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] — 深入探讨 QED 在 [[Every Student Succeeds Act\|ESSA]] Tier 2 政策证据层级中的应用，提出[[Counterfactual\|反事实]]可行性（Counterfactual Viability）与对照组生态报告的必要性（pp. 109–112）。
 > - [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] — 论证准实验、[[Single-Subject Design\|单一被试设计]]与组间 [[Randomised Controlled Trials\|RCT]] 在排除历史与成熟威胁上的同构逻辑与效度门控机制（pp. 461–464）。
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 总结英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）在学校拒绝[[Random Assignment\|随机分配]]宏观政策背景下，设立“[[Researching School Choices\|研究学校选择]]”资助序列、利用系统自然变异推进准实验因果评估的方法学制度演进（pp. 55–56）。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 总结英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）在学校拒绝[[Random Assignment\|随机分配]]宏观政策背景下，设立“[[Researching School Choices\|研究学校选择]]”资助序列、利用系统自然变异推进准实验因果评估的方法学制度演进（pp. 55–56）。
 > - [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] — 审计大型城市学区 2.88 亿美元支出流水，实证揭示单项 QED 法定中等证据门槛下超过 95% 的名义合规假象、学段科研供给断层及微观复合实践归因局限（pp. 162–165, 174–178）。
-> - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart & Towne (2003)]] — 考证联邦立法从 NCLB 优先青睐随机分配实验向 ESRA（2002）法定承认准实验在排除竞争性解释时具备[[Causality|因果推断]]合法性的制度转折，记录 WWC 在公众评议下将准实验从实验模板中独立拆分的规程变革（pp. 34–36）。
+> - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] — 考证联邦立法从 NCLB 优先青睐随机分配实验向 ESRA（2002）法定承认准实验在排除竞争性解释时具备[[Causality|因果推断]]合法性的制度转折，记录 WWC 在公众评议下将准实验从实验模板中独立拆分的规程变革（pp. 34–36）。

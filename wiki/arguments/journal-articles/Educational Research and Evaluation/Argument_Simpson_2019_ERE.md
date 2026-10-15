@@ -46,7 +46,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: '2026-06-08'
+updated: 2026-10-16
 year: 2019
 doi: ""
 citation_aliases:
@@ -61,14 +61,14 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> 本文不依赖于特定的理论框架，而是通过**思想实验（thought experiment）**和**现实案例**进行概念分析和逻辑论证，揭示[[Effect Size\|效应量]]作为"教育有效性"代理指标的范畴错误（category error）。
+> 本文不依赖于特定的理论框架，而是通过**思想实验（thought experiment）** 和**现实案例**进行概念分析和逻辑论证，揭示[[Effect Size\|效应量]]作为"教育有效性"代理指标的范畴错误（category error）。
 
 ## 研究方法
 
 > [!info] 研究方法
 > - 方法：思想实验 + 概念分析 + 现实案例验证
 > - 核心策略：构造一个简单可控的教学干预（教一个匈牙利单词），展示仅改变测量方式即可使同一干预的[[Effect Size\|效应量]]在 0 到无穷大之间变化
-> - 现实案例：引用 Merrell & Kasim (2015)、Sibieta (2016)、Sibieta et al. (2016) 等 [[Education Endowment Foundation\|EEF]] 资助的评估报告，验证同一干预在不同测量上产生截然不同的效应量
+> - 现实案例：引用 Merrell and Kasim (2015)、Sibieta (2016)、Sibieta et al. (2016) 等 [[Education Endowment Foundation\|EEF]] 资助的评估报告，验证同一干预在不同测量上产生截然不同的效应量
 
 ## 核心论证
 
@@ -93,7 +93,7 @@ citation_aliases:
 >
 > ### 2. 现实案例验证
 >
-> **Merrell & Kasim (2015) 语音干预** 同一干预在同一样本上，NGRT d=0.43，SWRT d=0.38，PhAB d=0.23。
+> **Merrell and Kasim (2015) 语音干预** 同一干预在同一样本上，NGRT d=0.43，SWRT d=0.38，PhAB d=0.23。
 >
 > **[[Reach]] 阅读支持项目(Sibieta, 2016)** 同一样本，NGRT d=0.33，阅读理解 d=-0.08，阅读准确性 d=0.17——"按 EEF 的月数进步指标，我们不得不得出结论：同一干预导致了 4 个月进步、2 个月进步和 1 个月退步"(p.103)。
 >
@@ -155,7 +155,7 @@ citation_aliases:
 > [!warning] 局限性与批评
 > - 论文自身承认[[Effect Size\|效应量]]在特定条件下有合法技术用途（研究设计中的[[Sample Size Determination\|样本量]]计算），但强调这与政策用途有根本区别(p.104, 106)
 > - 效应量的合法使用需要研究者在选择设计特征时有一定自由度——在行为干预等情境中，伦理约束（如不能使用"无干预"对照）限制了研究者操控信噪比的能力(p.105)
-> - Cheung & Slavin (2016) 发现研究者自编测量的效应量平均是独立测量效应量的两倍——这一发现直接从思想实验的逻辑中得出：研究者可以（也确实）通过设计与干预内容紧密结合的测试来减少噪声(p.108, Note 3)
+> - Cheung and Slavin (2016) 发现研究者自编测量的效应量平均是独立测量效应量的两倍——这一发现直接从思想实验的逻辑中得出：研究者可以（也确实）通过设计与干预内容紧密结合的测试来减少噪声(p.108, Note 3)
 
 ## 来源
 

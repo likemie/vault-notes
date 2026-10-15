@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-03
+updated: 2026-10-16
 ---
 
 # Response to Proven Instruction
@@ -85,7 +85,7 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> **循证干预反应（Response to Proven Instruction, RTPI）**是由[[Robert Slavin\|罗伯特·斯莱文]]（Robert E. Slavin）于 2019 年提出的[[Evidence-Based Education\|循证教育]]改革实施框架。RTPI 继承了联邦《个体残疾人教育法》（IDEA 2004）所确立的[[Response to Intervention\|干预反应模型]]（[[Response to Intervention\|RTI]]）三层支持架构，但在其基础上作出根本性升级：要求以达到《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）强（Strong）或中等（Moderate）[[Evidence Standards\|证据标准]]的经独立实验验证的**具体课程材料、技术工具与辅导规程**，刚性填充 TIER 1（全员核心教学）、Tier 2（小组针对性辅导）与 Tier 3（密集个别辅导）三层，使高危学生的学业成功从概率性意愿转变为制度性保障。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 27–29)]]
+> **循证干预反应（Response to Proven Instruction, RTPI）** 是由[[Robert Slavin\|罗伯特·斯莱文]]（Robert E. Slavin）于 2019 年提出的[[Evidence-Based Education\|循证教育]]改革实施框架。RTPI 继承了联邦《个体残疾人教育法》（IDEA 2004）所确立的[[Response to Intervention\|干预反应模型]]（[[Response to Intervention\|RTI]]）三层支持架构，但在其基础上作出根本性升级：要求以达到《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）强（Strong）或中等（Moderate）[[Evidence Standards\|证据标准]]的经独立实验验证的**具体课程材料、技术工具与辅导规程**，刚性填充 TIER 1（全员核心教学）、Tier 2（小组针对性辅导）与 Tier 3（密集个别辅导）三层，使高危学生的学业成功从概率性意愿转变为制度性保障。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 27–29)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** RTPI 是 RTI 从"通用组织流程"向"循证内容系统"的质性跃升——前者提供了分层支持的行政架构，后者将这一架构的每一层都武装以经独立第三方因果实验检验的具体教学产品。

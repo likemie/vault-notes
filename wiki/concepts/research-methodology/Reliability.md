@@ -75,7 +75,7 @@ related_facts:
   - "[[PISA]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 # Reliability
 
@@ -84,7 +84,7 @@ updated: 2026-10-14
 ## 定义
 
 > [!def] 核心定义
-> 信度（Reliability）本质上是**可依赖性（dependability）**、**一致性（consistency）**和**可复制性（replicability）**——跨越时间、跨越工具和跨越受访者群体。它关乎**精确性（precision）**和**准确性（accuracy）** 有些特征（如身高）可以精确测量，而另一些（如音乐能力）则不能。对于研究来说，要被认为是可靠的，它必须证明：如果在一个相似群体中、在相似的情境中进行，那么**相似的结果**就会被发现。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 199–200)]]
+> 信度（Reliability）本质上是**可依赖性（dependability）**、**一致性（consistency）** 和**可复制性（replicability）**——跨越时间、跨越工具和跨越受访者群体。它关乎**精确性（precision）** 和**准确性（accuracy）** 有些特征（如身高）可以精确测量，而另一些（如音乐能力）则不能。对于研究来说，要被认为是可靠的，它必须证明：如果在一个相似群体中、在相似的情境中进行，那么**相似的结果**就会被发现。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 199–200)]]
 
 > [!claim] 信度是效度的必要非[[Necessary and Sufficient Conditions\|充分条件]]
 > 信度是效度的必要前提（necessary precondition, sine qua non），而效度可能是信度的充分但非必要条件（Brock-Utne, 1996, p. 614）。这一逻辑关系意味着：一项研究可以可靠（稳定一致）但无效（测量了错误的东西），但一项有效的研究必须以可靠为前提。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 157)]]
@@ -122,7 +122,7 @@ updated: 2026-10-14
 >   > [!feature] 操作要点
 >   > - 在适当时间范围内进行测试和重测，通过相关系数计算（Pearson 或 Spearman），[[Statistical Significance\|统计显著性]]应达到 0.05 或更高
 >   > - 对在显著特征上紧密匹配的两组同时施测，应获得相似结果——这种形式在先导测试和[[Questionnaire\|问卷]]中特别有用
->   > - Cooper & Schindler (2001, p. 216) 提醒：测试-重测间隔不应长到情境改变、不应短到参与者记住前次测试
+>   > - Cooper and Schindler (2001, p. 216) 提醒：测试-重测间隔不应长到情境改变、不应短到参与者记住前次测试
 >   
 >   详见 [[Test-Retest Reliability\|重测信度]]。
 > - **信度作为等值性（Reliability as equivalence）**
@@ -161,15 +161,15 @@ updated: 2026-10-14
 
 ### 质性信度：可依赖性与可信赖性
 
-[[Qualitative Research|质性研究]]中"信度"一词的恰当性是**有争议的（Winter, 2000; Stenbacka, 2001; Golafshani, 2003）**。Lincoln & Guba (1985) 偏好用**可信性、中立性、可确认性、可依赖性、一致性、适用性、[[Trustworthiness|可信赖性]]和可迁移性**来替代"信度"——尤其是**可依赖性（dependability）**概念。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 204–207)]]
+[[Qualitative Research|质性研究]]中"信度"一词的恰当性是**有争议的（Winter, 2000; Stenbacka, 2001; Golafshani, 2003）**。Lincoln and Guba (1985) 偏好用**可信性、中立性、可确认性、可依赖性、一致性、适用性、[[Trustworthiness|可信赖性]]和可迁移性**来替代"信度"——尤其是**可依赖性（dependability）** 概念。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 204–207)]]
 
 > [!tension] [[Qualitative Reliability\|质性信度]]的两个立场
-> - **量化信度标准对质性研究不可行** LeCompte & Preissle (1993, p. 332) 认为量化研究的信度标准根本无法用于质性研究——量化[[Hypothesis\|研究假设]]**可复制性**的可能，但这**扭曲了现象的自然发生（[[Ecological Validity\|生态效度]]）**。自然主义研究的前提恰恰包括情境的**独特性和特殊性**——研究不能被复制，这正是其优势而非劣势。
-> - **质性研究仍需复制要素** LeCompte & Preissle (1993, p. 334) 同时主张质性研究应努力在以下方面进行复制：研究者的地位位置、信息提供者/受访者选择、社会情境和条件、分析[[Construct\|构念]]和前提、资料收集和分析方法。
+> - **量化信度标准对质性研究不可行** LeCompte and Preissle (1993, p. 332) 认为量化研究的信度标准根本无法用于质性研究——量化[[Hypothesis\|研究假设]]**可复制性**的可能，但这**扭曲了现象的自然发生（[[Ecological Validity\|生态效度]]）**。自然主义研究的前提恰恰包括情境的**独特性和特殊性**——研究不能被复制，这正是其优势而非劣势。
+> - **质性研究仍需复制要素** LeCompte and Preissle (1993, p. 334) 同时主张质性研究应努力在以下方面进行复制：研究者的地位位置、信息提供者/受访者选择、社会情境和条件、分析[[Construct\|构念]]和前提、资料收集和分析方法。
 
-Bogdan & Biklen (1992, p. 48) 提出了质性信度的一个[[Definition of Terms|操作性定义]]：**"研究者记录为数据的内容与在被研究的自然情境中实际发生的内容之间的吻合度"**——即一定程度的准确性和覆盖面的全面性。但这**不是追求一致性**——两位研究者研究同一情境可能得出截然不同但两套发现都可能可靠的发现。经典例证是 Nissan 英国汽车工厂研究（p.206）：Wickens (1987) 发现了"良性循环"（灵活性、团队合作、质量意识），而 Garrahan & Stewart (1992) 发现了"恶性循环"（剥削、监视、控制）——**同一现实的两个版本共存，因为现实是多层次的**。
+Bogdan and Biklen (1992, p. 48) 提出了质性信度的一个[[Definition of Terms|操作性定义]]：**"研究者记录为数据的内容与在被研究的自然情境中实际发生的内容之间的吻合度"**——即一定程度的准确性和覆盖面的全面性。但这**不是追求一致性**——两位研究者研究同一情境可能得出截然不同但两套发现都可能可靠的发现。经典例证是 Nissan 英国汽车工厂研究（p.206）：Wickens (1987) 发现了"良性循环"（灵活性、团队合作、质量意识），而 Garrahan and Stewart (1992) 发现了"恶性循环"（剥削、监视、控制）——**同一现实的两个版本共存，因为现实是多层次的**。
 
-Denzin & Lincoln (1994) 认为质性研究中信度作为可复制性可通过三种方式解决（p.205）：观察稳定性（在不同时间或地点是否会做出相同观察和解释）、平行形式（如果关注其他现象是否会做出相同观察）和评分者间信度（另一观察者是否会以相同方式解释）。
+Denzin and Lincoln (1994) 认为质性研究中信度作为可复制性可通过三种方式解决（p.205）：观察稳定性（在不同时间或地点是否会做出相同观察和解释）、平行形式（如果关注其他现象是否会做出相同观察）和评分者间信度（另一观察者是否会以相同方式解释）。
 
 ---
 
@@ -226,7 +226,7 @@ Denzin & Lincoln (1994) 认为质性研究中信度作为可复制性可通过�
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011, Ch. 10)]] — 系统阐述教育研究中量化信度的三种形式（稳定性、等值性、[[Internal Consistency|内部一致性]]）与[[Qualitative Reliability|质性信度]]（可依赖性、[[Trustworthiness|可信赖性]]）的核心内涵与争议。
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch. 5)]] — 梳理教育调查[[Questionnaire|问卷]]中的[[Test-Retest Reliability|重测信度]]、[[Parallel-Forms Reliability|复本信度]]、[[Split-Half Reliability|折半信度]]与[[Inter-Rater Reliability|评分者信度]]，确立信度系数评价阈值与[[Kitwood's Paradox|信度效度权衡]]法则。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 结合 Desrosières [[Space of Equivalence|等值空间]]理论，揭示[[OECD|经合组织]] [[PISA]] 测评在方法论上如何以信度与跨国可比性压倒[[Construct Validity|构念效度]]与教育[[Ontology|本体论]]。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合 Desrosières [[Space of Equivalence|等值空间]]理论，揭示[[OECD|经合组织]] [[PISA]] 测评在方法论上如何以信度与跨国可比性压倒[[Construct Validity|构念效度]]与教育[[Ontology|本体论]]。
 
 ---
 

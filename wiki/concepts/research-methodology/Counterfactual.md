@@ -72,7 +72,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Counterfactual
@@ -193,7 +193,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **因果识别判准命题** | 反事实是超越时间先后、确证真正因果关系的必要识别标志 | 哲学因果分析、教育质性与量化因果推论 | 约翰·麦基（John L. Mackie）; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]] |
-> | **实验代理构建命题** | 随机分配通过群体平衡克服不可观测性，构建无偏反事实代理 | [[Clinical Trial\|临床试验]]、心理与教育随机对照试验（RCTs） | 保罗·霍兰德（Paul Holland）; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] |
+> | **实验代理构建命题** | 随机分配通过群体平衡克服不可观测性，构建无偏反事实代理 | [[Clinical Trial\|临床试验]]、心理与教育随机对照试验（RCTs） | 保罗·霍兰德（Paul Holland）; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] |
 > | **生态常态与多层校正命题** | 学校整群试验中反事实体现为常规教学（BAU），需依托 HLM 确保宏观推论效度 | 全校性教育改革、政府循证政策评估与规模化推广 | [[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）; [[Argument_Slavin_2019_EP\|Slavin (2019)]] |
 
 ---
@@ -252,7 +252,7 @@ updated: 2026-10-15
 > |---|---|---|---|---|---|---|
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]] | 教育研究方法论[[Causality\|因果推断]][[Paradigm\|范式]]与逻辑分析 | [[Epistemology\|认识论]]与方法论概念梳理 | 因果条件识别、反事实存在性检验与实验控制 | 系统辨析休谟时间先后性、麦基反事实判准与控制组代理机制 | — | 确立反事实推理在教育实验与[[Quasi-Experimental Designs\|准实验设计]]中的方法学基石地位（pp. 55–56） |
 > | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | 全美教育循证改革三十年经验与多项大型整校改革评估（如 [[Success for All\|SFA]]、[[Cooperative Integrated Reading and Composition\|CIRC]]、DI） | 宏观政策综述与整群 [[Randomised Controlled Trials\|RCT]] 方法学评析 | 整校改革干预 vs 常规教学（BAU）反事实对照；标准化独立测验与 [[Hierarchical Linear Model\|HLM]] 方差校正 | 证实缺乏严格 [[Business as Usual\|BAU]] 反事实对照的非实验项目极易高估成效；严格整群 RCT 确立了可复制全校模式的真实因果效度 | — | 说明反事实在真实学校生态中必须依托整群[[Random Assignment\|随机化]]与多层模型方能保障政策外推效度（pp. 22–27） |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] | 英国 [[Education Endowment Foundation\|EEF]] 前 8 年资助的 190+ 项大规模学校实地试验（涉及万所学校） | 大规模教育随机对照试验（RCT）元评估 | 试验[[Preregistration\|预注册]]（[[ISRCTN]]）、方案锁定（[[Statistical Analysis Plan\|SAP]]）、国家统考（NPD）对照与[[EEF Padlock Security Rating\|挂锁安全评级]] | 严格大样本随机化有效保障了控制组反事实基线同质性；强调[[Measurement Alignment\|测量对齐]]偏差（自编测验）会人为扭曲反事实反差 50%–100% | — | 实证揭示教育实地试验中维护反事实纯洁性所面临的实施流失与测量工具硬约束（pp. 50–55） |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 英国 [[Education Endowment Foundation\|EEF]] 前 8 年资助的 190+ 项大规模学校实地试验（涉及万所学校） | 大规模教育随机对照试验（RCT）元评估 | 试验[[Preregistration\|预注册]]（[[ISRCTN]]）、方案锁定（[[Statistical Analysis Plan\|SAP]]）、国家统考（NPD）对照与[[EEF Padlock Security Rating\|挂锁安全评级]] | 严格大样本随机化有效保障了控制组反事实基线同质性；强调[[Measurement Alignment\|测量对齐]]偏差（自编测验）会人为扭曲反事实反差 50%–100% | — | 实证揭示教育实地试验中维护反事实纯洁性所面临的实施流失与测量工具硬约束（pp. 50–55） |
 
 ---
 
@@ -261,5 +261,5 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]] — 阐述教育研究中[[Causality\|因果推断]]的[[Epistemology\|认识论]]演进，系统辨析休谟时间先后性与麦基反事实判准，界定实验控制组作为反事实代理的操作逻辑。
 > - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 论证全校教育改革在真实学校生态中以常规教学（[[Business as Usual\|BAU]]）为反事实基准的重要性，确立整群[[Randomised Controlled Trials\|随机对照试验]]与[[Hierarchical Linear Model\|多层线性模型]]在循证改革中的方法学支柱地位。
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 解构英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）大规模学校实地试验中的反事实构建与质量规约，实证分析自编测验扭曲反事实反差的风险及独立标准化测量的治理价值。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 解构英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）大规模学校实地试验中的反事实构建与质量规约，实证分析自编测验扭曲反事实反差的风险及独立标准化测量的治理价值。
 

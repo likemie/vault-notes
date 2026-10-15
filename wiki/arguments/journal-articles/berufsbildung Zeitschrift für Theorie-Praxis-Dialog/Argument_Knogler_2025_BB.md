@@ -220,7 +220,7 @@ Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表�
 > - **平均效应量（Durchschnittliche Effektstärke）** 对学业成绩产生中等程度且统计显著的正向效应（Hedges' $g = 0.65, p < .001$）；对学科态度产生较小但统计显著的正向效应（Hedges' $g = 0.45$）。
 > - **其他重要发现（Weitere Befunde）** 教师专业培训对数字化工具的教学效果具有极显著的[[Interaction Effect\|调节效应]]；[[Intelligent Tutoring Systems\|智能辅导系统]]（Intelligent Tutoring Systems, ITS）与动态模拟软件的效果显著优于传统超媒体系统。（p. 15）
 
-同时，简要评价借鉴 Hillmayr et al. (2017) 与 Nattland & Kerres (2009) 的理论分类，将繁杂的技术软件划分为六大具名功能类型，并明确标定其认知效能机制与适用边界：（p. 15）
+同时，简要评价借鉴 Hillmayr et al. (2017) 与 Nattland and Kerres (2009) 的理论分类，将繁杂的技术软件划分为六大具名功能类型，并明确标定其认知效能机制与适用边界：（p. 15）
 
 > [!index-table] 数字化教学工具的六大功能类型与促学效能边界（Hillmayr et al., 2020）
 > | 工具类型（Typen digitaler Tools） | 核心界定与功能机制 | 促学特征与实践边界 |

@@ -127,7 +127,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # What Works Clearinghouse
@@ -261,7 +261,7 @@ updated: 2026-10-15
 > > 争论 WWC 是否过于聚焦因果[[Internal Validity\|内部效度]]，而忽略了一线学校采购最需要的现实情境维度。
 > >
 > > - **联邦政策制定者** 坚持 WWC 必须作为纯净的因果过滤器，防止低质量研究浪费纳税人资金([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 109]])。
-> > - **学区与[[School Leadership\|学校领导]]者** 批评 WWC 缺乏**实施成本（Cost Analysis）**、**本地适配性（Local Adaptability）**与**师生接受度**信息，导致实践者无法仅凭 WWC 评级做出采购决策([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp. 120–122]])。
+> > - **学区与[[School Leadership\|学校领导]]者** 批评 WWC 缺乏**实施成本（Cost Analysis）**、**本地适配性（Local Adaptability）** 与**师生接受度**信息，导致实践者无法仅凭 WWC 评级做出采购决策([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp. 120–122]])。
 >
 > > [!axis] 审查响应迟滞与微观分域过载 vs 敏捷全景决策支持
 > > 争论官方清算中心冗长的更新周期与微观碎片化评级是否削弱了其政策实用性。
@@ -280,7 +280,7 @@ updated: 2026-10-15
 > > 争论单纯依靠线性供给与文本转译能否真正驱动一线实践变革与[[Research Utilization\|证据使用]]。
 > >
 > > - **[[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] 线性模型局限** WWC 体现了早期[[Knowledge Mediation\|知识中介]]的线性研究转移模型，假定将研究成果转译为用户友好的指南和工具包即可直接指导实践。然而实证证据表明，单纯的“知识推送”（Push）与文本分发并不能保证决策中的研究利用。
-> > - **[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] 生态模型反思** 相比英国 EEF 构建的“[[Research Schools Network\|研究学校网络]]”等深耕基层的生态体系，WWC 缺乏双向关系型互动与本土能力建设，导致高质量证据容易陷入与学校日常实践脱节的窘境([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 58, 62]])。
+> > - **[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] 生态模型反思** 相比英国 EEF 构建的“[[Research Schools Network\|研究学校网络]]”等深耕基层的生态体系，WWC 缺乏双向关系型互动与本土能力建设，导致高质量证据容易陷入与学校日常实践脱节的窘境([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 58, 62]])。
 > > - **[[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 10)]] 转移作用假设批判** WWC 作为[[International Education|国际教育]][[Educational Evidence Clearinghouses|证据清算中心]]的最典型代表，其制度繁荣掩盖了底层转移模型与因果作用假设（Wirkannahmen）的反思贫困；此类机构预设只要严格筛选出因果证据并进行指南转译实践者便会自发改变教学，但国际学界关于清算中心究竟在多大程度上真正达成了预期的转移目标（intendierte Transferziele），迄今为止在实证层面依然极度匮乏严格检验。
 
 > > [!axis] 单研究法定合规漏洞与证据体整合的结构性断裂
@@ -306,7 +306,7 @@ updated: 2026-10-15
 > | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 全美 12 所[[Educational Evidence Clearinghouses\|教育证据清算中心]]汇总的 1,359 个去重教育干预项目池 | 清算机构跨案例比较与跨中心[[Network Analysis\|网络分析]] | 项目收录规模（537 项）、重叠项目数（131 项）、跨机构评级一致率与极端冲突率 | WWC 占全美去重项目总量的 39.5%（规模居首）；与其它清算中心评级一致率仅 24.1%，极端冲突率达 35.7% | — | 实证揭示官方清算中心在评级标准与微观分域上的独特严格性及其与其它机构的分歧（pp. 16–20） |
 > | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]] | WWC 数据库收录的教育干预[[Evaluation Research\|评估研究]]全样本 | 开发者利益冲突[[Meta-regression\|元回归]]与偏差审查 | 开发者主导 vs 独立第三方评估效应量差异、自编测验使用率（29% vs 8%） | 开发者实施或[[Categorical Funding\|委托研究]]效应量平均高出 0.141 个标准差（约为独立研究的 1.8 倍） | $p < 0.01$ | 实证确立清算机构建立独立评估防火墙与强制方案预注册的紧迫性（pp. 430–443） |
 > | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | 全美中小学阅读与数学干预项目三十年因果评估库 | 宏观政策综述与清算机制比较 | WWC 审查更新周期、微观分域认知负荷、独立测验过滤与 [[Evidence for ESSA]] 互补效应 | 揭示 WWC 更新滞后数年与微观分域导致学校采购决策困难；促使敏捷平台 Evidence for [[Every Student Succeeds Act\|ESSA]] 诞生并在 6 州落地 | — | 说明官方因果标准需与敏捷实践决策支持机制相结合方能释放循证效能（pp. 22–26） |
-> | [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart & Towne (2003)]] | 联邦初创期 [[Study Design and Implementation Assessment Device\|WWC Study DIAD]] 规程草案与 47 项公众反馈 | 政策文本追踪与公共评议质评分析 | 初始合同金额（1850 万美元）、公众评议条数（47 条）、规程修正要点（澄清量化非唯一科学、增设 [[Regression Discontinuity Design\|RDD]]、30+ 调节变量） | 初版 Study DIAD 在 47 项公共评议推动下大幅重构，打破实验排他垄断并设立准实验专章 | — | 证实官方清算机构的因果标准在初创期具备可变性，学界民主质证能成为反制行政狭隘化的关键杠杆（pp. 34–36） |
+> | [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] | 联邦初创期 [[Study Design and Implementation Assessment Device\|WWC Study DIAD]] 规程草案与 47 项公众反馈 | 政策文本追踪与公共评议质评分析 | 初始合同金额（1850 万美元）、公众评议条数（47 条）、规程修正要点（澄清量化非唯一科学、增设 [[Regression Discontinuity Design\|RDD]]、30+ 调节变量） | 初版 Study DIAD 在 47 项公共评议推动下大幅重构，打破实验排他垄断并设立准实验专章 | — | 证实官方清算机构的因果标准在初创期具备可变性，学界民主质证能成为反制行政狭隘化的关键杠杆（pp. 34–36） |
 > | [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] | 美国南方联合学区（SUD）2.88 亿美元《[[Title I of the Elementary and Secondary Education Act\|每一个学生成功法]]》Title I 教育经费，跨 129 项采购实践、4 个公共证据库（WWC、Evidence for ESSA、EEF、ERIC） | 跨库证据审计与财务合规分析 | 单库单研究合规率 vs 四库证据体综合合规率；26 项无目标学段研究实践数；跨学段降维推断案例 | 单研究合规视角下合规率达 95%–99%；切换至四库证据体综合视角后骤降至 49%–58%（保守敏感性分析：20%）；26 项实践在任一库中均无目标学段研究 | — | 揭示 ESSA 法定单研究合规门槛制造的循证采购虚假性，以及 WWC 作为单一来源不足以支撑完整体证据评估的结构性局限（pp. 170–174） |
 
 ---
@@ -325,9 +325,9 @@ updated: 2026-10-15
 > | [[Every Student Succeeds Act\|ESSA 2015 证据标准]] | 法律依托 | [[Every Student Succeeds Act\|ESSA]] 法案将联邦教育经费分配与 WWC 评级直接绑定。 |
 > | [[Evidence for ESSA]] | 机构事实 | 约翰斯·霍普金斯大学设立的敏捷互补清算平台，填补 WWC 更新周期与实践决策断层。 |
 > | [[Robert Slavin]] | 关键人物 | 循证教育领军学者，系统评析 WWC 机制并创立 [[Best Evidence Encyclopedia\|BEE]] 与 Evidence for ESSA。 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] | 前沿实证迁移 | 将 WWC 2022 基线等效标准系统应用于高等教育生成式 AI 实验[[Meta-analysis\|元分析]]的代表作。 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 前沿实证迁移 | 将 WWC 2022 基线等效标准系统应用于高等教育生成式 AI 实验[[Meta-analysis\|元分析]]的代表作。 |
 > | [[Education Endowment Foundation]] | 机构事实 | 英国准独立慈善证据旗舰，与 WWC 并列为国际循证教育两大巨头。 |
 > | [[EPPI-Centre]] | 机构事实 | 英国大学依托型[[Systematic Review\|系统综述]]先驱，与 WWC 共同构成 [[OECD]] 十五年完全活跃的二元标杆。 |
 > | [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] | 关键论证 | 以 2.88 亿美元财务审计揭示 WWC 单库单研究合规门槛的系统性局限，为多库整合证据评估范式提供实证依据。 |
-> | [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart & Towne (2003)]] | 历史与政策论证 | 系统考证 WWC 创设初期的 1850 万美元合同及 [[Study Design and Implementation Assessment Device\|Study DIAD]] 规程在 47 项公共评议推动下的制度调整。 |
+> | [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] | 历史与政策论证 | 系统考证 WWC 创设初期的 1850 万美元合同及 [[Study Design and Implementation Assessment Device\|Study DIAD]] 规程在 47 项公共评议推动下的制度调整。 |
 > | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | 外部论证 | 批判以 WWC 为首的国际清算中心底层转移模型与因果作用假设的反思贫困及实证检验赤字。 |

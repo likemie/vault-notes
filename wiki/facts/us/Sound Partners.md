@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Sound Partners
@@ -61,7 +61,7 @@ updated: 2026-09-17
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **Sound Partners（声音伙伴）**是由华盛顿大学（University of Washington）帕特里夏·瓦达西（Patricia Vadasy）研究团队研发、全美公立学校广泛采纳的早期读写一对一辅导干预项目；其核心目标是通过为低成本的非专业师资（尤其是教学助教与校本辅导员）配备高度脚本化、基于拼读与音素意识的结构化教材，为幼儿园至小学一年级面临严重阅读困难的儿童提供高频、精准的一对一早期干预。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 27–28)]]
+> **Sound Partners（声音伙伴）** 是由华盛顿大学（University of Washington）帕特里夏·瓦达西（Patricia Vadasy）研究团队研发、全美公立学校广泛采纳的早期读写一对一辅导干预项目；其核心目标是通过为低成本的非专业师资（尤其是教学助教与校本辅导员）配备高度脚本化、基于拼读与音素意识的结构化教材，为幼儿园至小学一年级面临严重阅读困难的儿童提供高频、精准的一对一早期干预。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 27–28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 始创于 1990 年代后期，经美国教育部特别教育研究中心与 [[Institute of Education Sciences\|IES]] 多项科研课题持续资助与多中心评估，常态化运行至今逾二十年。
@@ -110,7 +110,7 @@ updated: 2026-09-17
 ## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
-> - **显著突破性的学业[[Effect Size\|效应量]]** 在 Vadasy & Sanders (2011) 等针对小学一年级高危弱势儿童的严格 [[Randomised Controlled Trials\|RCT]] 评估中，Sound Partners 取得了平均 $+0.43$ 的显著学业[[Effect Size\|效应量]]，在单词识别、语音[[Decodification\|解码]]与阅读流畅度上均超越[[Business as Usual\|常规对照组]]。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> - **显著突破性的学业[[Effect Size\|效应量]]** 在 Vadasy and Sanders (2011) 等针对小学一年级高危弱势儿童的严格 [[Randomised Controlled Trials\|RCT]] 评估中，Sound Partners 取得了平均 $+0.43$ 的显著学业[[Effect Size\|效应量]]，在单词识别、语音[[Decodification\|解码]]与阅读流畅度上均超越[[Business as Usual\|常规对照组]]。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 > - **打破专业师资的垄断与财政瓶颈** 实证证明由低成本教学助教（薪资仅为正式认证教师的 $1/3 \sim 1/2$）实施高度结构化的外部模型，能够产生完全逼近专业教师（如 [[Reading Recovery]]，效应量 $+0.42$）的因果成效，从实践上开辟了全校弱势儿童全员覆盖的低成本普及路径。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 27–28)]]
 > - **极高的复现[[Reliability\|可靠性]]** 该方案在多学区跨年度复现研究中始终保持稳健正向增益，因其严格依赖材料脚本化而极少受到非专业人员个人经验波动的负面干扰。
 

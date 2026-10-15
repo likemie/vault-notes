@@ -63,7 +63,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Justificatory Standards
@@ -88,7 +88,7 @@ updated: 2026-10-15
 > [!boundary] 概念边界
 > - 不等于 抽象认识论信念（[[Epistemological Beliefs]]）：宏观信念仅回答“知识是确定的还是流动的”，无法预测具体的行为；确证标准直接规定了在当下情境中“什么样的理由才能算作充分证据”。
 > - 不等于 [[Epistemic Aims]]：认识目标界定探究追求什么认识成就（如因果理解）；确证标准则是检验该项产出是否合格的判准量规。
-> - 与 [[Epistemic Ideals]] 的演化承接：在 2011 年五构件模型中，确证标准涵盖了评价产出的所有准则；在 2014 年以后的 [[AIR Model of Epistemic Cognition\|AIR]] 模型及 [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] 框架中，对认识产出的规范性确证标准被进一步具象化和系统化为认识论理想（[[Epistemic Ideals]]）。
+> - 与 [[Epistemic Ideals]] 的演化承接：在 2011 年五构件模型中，确证标准涵盖了评价产出的所有准则；在 2014 年以后的 [[AIR Model of Epistemic Cognition\|AIR]] 模型及 [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] 框架中，对认识产出的规范性确证标准被进一步具象化和系统化为认识论理想（[[Epistemic Ideals]]）。
 
 ---
 
@@ -175,7 +175,7 @@ updated: 2026-10-15
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1990–1997 — 宏观多维信念归并** Schommer (1990) 与 [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 将“知识的证成（Justification of knowledge）”列为[[Epistemological Beliefs\|认识论信念]]的核心维度之一，但测量多停留在脱域的抽象[[Questionnaire\|问卷]]题项。
+> - **1990–1997 — 宏观多维信念归并** Schommer (1990) 与 [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 将“知识的证成（Justification of knowledge）”列为[[Epistemological Beliefs\|认识论信念]]的核心维度之一，但测量多停留在脱域的抽象[[Questionnaire\|问卷]]题项。
 > - **2011 — 扩展[[Epistemic Cognition\|认识论认知]]与细粒度转向** Chinn 等学者解构了粗放的证成信念，提出实证、非实证与证词三大类细粒度确证标准，确立了其微观黑盒地位。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011)]]
 > - **2016 — 社会情境转向与多层整合** Sandoval 等学者强调确证标准的[[Domain Specificity\|学科特异性]]、情境动态切换性以及在群体互动流中的社会协商本质。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
 > - **2021 — 干预实证层面的因果验证** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 的首个[[Epistemology\|认识论]]干预因果[[Meta-analysis\|元分析]]（$k = 28, N = 4{,}373$）从实证角度为确证标准的可教导性提供了关键证据：针对知识如何确证与证据如何检验等核心环节的显性教学干预，对[[Academic Achievement\|学业成就]]具有中等偏上因果效应（$d = 0.509$）；同时，元分析揭示了测验对齐对结果的强力调节——采用高度贴合干预目标的自编测验时[[Effect Size\|效应量]]（$d = 0.808$）是常规学科期末统考（$d \approx 0$）的数十倍，进一步印证了确证标准的作用是精准而非泛化的。
@@ -222,4 +222,4 @@ updated: 2026-10-15
 > - [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] — 提出在微观细粒度上测量确证标准，打破粗放质疑即高阶的假象，奠定合理校准信任理论。
 > - [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] — 将确证标准界定为多层系统中的分布式社会协商实践，揭示职业标准向公民生活迁移的断层危机。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 首个[[Epistemology\|认识论]]干预因果[[Meta-analysis\|元分析]]，证实聚焦确证标准的显性教学对[[Academic Achievement\|学业成就]]有中等偏上的因果效应（$d = 0.509$），并揭示测验对齐是[[Effect Size\|效应量]]的核心调节[[Variable\|变量]]。
-> - [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] — 将确证标准[[Operationalization\|操作化]]为科学论证评价体系中的规范[[Epistemic Ideals\|认识论理想]]（Table 1 & Table 2），实证揭示学生在模型裁决中调用确证标准的运作机制。
+> - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 将确证标准[[Operationalization\|操作化]]为科学论证评价体系中的规范[[Epistemic Ideals\|认识论理想]]（Table 1 & Table 2），实证揭示学生在模型裁决中调用确证标准的运作机制。

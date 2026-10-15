@@ -53,7 +53,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-07-22
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Transcription in Qualitative Research
@@ -176,6 +176,6 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Qualitative Research\|质性研究]]与方法索引
-> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 结合课堂音视频与 [[Generative Artificial Intelligence|GenAI]] 对话日志开展高精度逐字转录与时间戳对齐，为[[Multimodal Discourse Analysis|多模态话语分析]]与[[Man-Computer Symbiosis|人机协同]]解释的[[Epistemology|认识论]]审验提供经验证据。
+> - [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] — 结合课堂音视频与 [[Generative Artificial Intelligence|GenAI]] 对话日志开展高精度逐字转录与时间戳对齐，为[[Multimodal Discourse Analysis|多模态话语分析]]与[[Man-Computer Symbiosis|人机协同]]解释的[[Epistemology|认识论]]审验提供经验证据。
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 在生成式 AI 学习实验中实施高精度多模态有声思维转录，结合屏幕日志与音频回溯系统编码学习者的[[Epistemic Stances\|认识立场]]演变与[[Cognitive Offloading\|认知卸载]]行为。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al. (2011, Ch. 21 & Ch. 28)]] — 详述[[Qualitative Interview\|质性访谈]]转录作为理论性选择转换的[[Epistemology\|认识论]]本质（第 21 章），以及质性数据准备中的转录规范与管理操作规程（第 28 章）。

@@ -102,7 +102,7 @@ related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
 status: completed
 created: 2026-09-26
-updated: 2026-09-27
+updated: 2026-10-16
 ---
 # Argument_Manitius_vanHolt_2019_BzS
 
@@ -198,7 +198,7 @@ updated: 2026-09-27
 > [!row-contrast] 德语区历史模型试验与新治理工具转移成效实证横向对比
 > | 改革计划或治理工具 | 核心设计与干预载体 | 转移模式与组织路径 | 基层成效反馈与实践局限 | 关键文献与案例来源 |
 > |---|---|---|---|---|
-> | **[[SINUS]] 与 Sinus-Transfer** | [[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung\|联邦与各州教育规划与科研促进委员会（BLK）]]数理教学联合改进模型试验 | 跨校教研网络与学科教师同侪共研 | 形成局部优质教学单元，但全域规模化扩散阻力显著 | Krebs & Prenzel (2008); Stadler et al. (2007) |
+> | **[[SINUS]] 与 Sinus-Transfer** | [[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung\|联邦与各州教育规划与科研促进委员会（BLK）]]数理教学联合改进模型试验 | 跨校教研网络与学科教师同侪共研 | 形成局部优质教学单元，但全域规模化扩散阻力显著 | Krebs and Prenzel (2008); Stadler et al. (2007) |
 > | **[[Chemie im Kontext\|CHiK]]（Chemie im Kontext）** | 中学化学情境化教学大纲创新扩散 | 高校学科教学论专家指导校本教研组 | 教师概念转变周期长，依赖持续外部专家支持 | Demuth et al. (2008) |
 > | **[[Schulen im Team]]** | 鲁尔区区域性多校网络协同发展项目 | 自组织干预、校际同侪结对与共同备课 | 揭示学校组织[[Heterogeneity\|异质性]]对转移[[Absorptive Capacity\|吸收能力]]的差异化制约 | van Holt (2014) |
 > | **外部学校督导（Schulinspektion）** | [[Output-Oriented Governance\|产出导向治理]]下的普查式办学质量核查 | 自上而下行政视导、量规打分与视导报告反馈 | 报告在单体学校常被搁置，难以自发转化为内涵发展行动 | Demski (2017); (p. 9) |
@@ -233,10 +233,10 @@ updated: 2026-09-27
 > |---|---|---|---|---|---|
 > | **[[What Works Clearinghouse\|WWC]]** | 美国（[[Institute of Education Sciences\|教育科学研究院，IES]] 资助创设） | 因果干预试验、严格证据分级标准 | 学区教育采购决策者、学校行政人员 | 评级与实践采购存在脱节，成效证据多局限于报告引用率 | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]]; (p. 10) |
 > | **[[EPPI-Centre\|EPPI-Centre]]** | 英国（伦敦大学学院） | [[Systematic Review\|系统综述]]方法论 | 政策制定者、医疗与教育专业人员 | 推动循证规范确立，但微观教学行为转化证据有限 | Gough (2022); (p. 10) |
-> | **[[Danish Clearinghouse for Educational Research\|Danish Clearinghouse]]** | 丹麦（奥胡斯大学） | 证据综合、主题研究报告 | 教师教育者、市政教育部门 | 依赖短期公共资助，长期存续与微观实践辐射受限 | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]; (p. 10) |
+> | **[[Danish Clearinghouse for Educational Research\|Danish Clearinghouse]]** | 丹麦（奥胡斯大学） | 证据综合、主题研究报告 | 教师教育者、市政教育部门 | 依赖短期公共资助，长期存续与微观实践辐射受限 | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]; (p. 10) |
 > | **[[Kunnskapssenter for utdanning\|Norwegian Knowledge Centre]]** | 挪威（斯塔万格大学 / 教育部资助） | [[International Education\|国际教育]]实证综合与政策简报 | 地方当局、中小学校管理团队 | 实践者知晓度与日常决策嵌入度尚待系统检验 | (p. 10) |
 > | **[[Clearing House Unterricht\|CHU]]** | 德国（慕尼黑工业大学） | 国际高信度教学实证[[Meta-analysis\|元分析]]二次转译 | 大学教师教育者、职后进修研训主管 | 重点解决师资培训骨干认知负荷，学校微观效果待验 | Seidel et al. (2017); (p. 10) |
-> | **[[Forschungsmonitor Schule\|FMS]]** | 德国（各州立研究所联合） | 跨学科实证研究同行评议与短评 | 中小学一线教师、进修教研员、督导 | 降低学术阅读门槛，但缺乏对教师深层信念改变的追踪 | Manitius & Rosendahl (2018); (p. 10) |
+> | **[[Forschungsmonitor Schule\|FMS]]** | 德国（各州立研究所联合） | 跨学科实证研究同行评议与短评 | 中小学一线教师、进修教研员、督导 | 降低学术阅读门槛，但缺乏对教师深层信念改变的追踪 | Manitius and Rosendahl (2018); (p. 10) |
 
 ---
 
@@ -275,7 +275,7 @@ updated: 2026-09-27
 > | [[Theoretical Perspective\|理论视角]]与研究取向 | 代表学者与文献 | 核心概念与分析切入点 | 经验发现与机制贡献 | 对转移科学理论建构的启示 |
 > |---|---|---|---|---|
 > | **信息加工视角** | Demski (2017) | [[Evidence-Based School Development\|循证学校发展]]、数据认知加工模式 | 揭示学校在接收测评反馈时的认知防御与选择性过滤 | 证明数据供给不等于数据使用，需建立支持性解读[[Scaffolding\|脚手架]] |
-> | **系统知识管理视角** | Heitmann (2013); Manitius & Groot-Wilken (2017) | 合作性知识管理、处境不利学校支持 | 知识流动依赖校内正式研讨制度与隐性经验显性化机制 | 将学校组织视为知识生态系统而非纯粹的技术接收终端 |
+> | **系统知识管理视角** | Heitmann (2013); Manitius and Groot-Wilken (2017) | 合作性知识管理、处境不利学校支持 | 知识流动依赖校内正式研讨制度与隐性经验显性化机制 | 将学校组织视为知识生态系统而非纯粹的技术接收终端 |
 > | **合作行动者配置视角** | Bremm et al. (2018); Hartmann et al. (2016) | 跨界合作网络、科研-学校合作联盟 | 高校研究者与中小学教师在合作中面临角色与管辖权张力 | 确立平等的跨界对话机制是避免殖民化干预的前提 |
 > | **学校发展过程视角** | Koch (2011); Jäger (2004) | 实践研究成果转移、组织创新吸收 | 外部创新成果需经历本土重构（Re-Kontextualisierung）才能存活 | 强调转移成效取决于学校现场的组织吸收能力与文化土壤 |
 > | **政策执行[[Complexity Theory\|复杂性理论]]** | Honig (2006) | 政策执行复杂性、前线实施者自由裁量权 | 宏观政策在穿越科层层级时会发生系统性衰减与变形 | 为探究德国多层级教育治理中的中层执行阻滞提供工具 |
@@ -313,16 +313,16 @@ updated: 2026-09-27
 > [!row-contrast] 贯通视界一：学校前沿议题对教师培训的转化启示（典型案例矩阵）
 > | 典型案例与贡献作者 | [[Research Topic\|研究主题]]与经验[[Champ\|场域]] | 核心实证发现与转移治理机制 | 对教师教育转化的深层启示 |
 > |---|---|---|---|
-> | Gerick & Tulowitzki (2019); Drossel et al. (2019) | 数字化时代学校组织变革与学生数字素养培育 | 教师数字教学效能高度依赖校领导技术领导力与校本精准培训 | 职后培训必须超越孤立工具操作，转向组织数字化综合生态构建 |
-> | Müller et al. (2019); Amrhein & Badstieber (2019) | 全纳教育（Inklusion）视域下特殊教育与普教协同 | 普教特教协同备课常面临专业管辖权防御，校长领导力至关重要 | 研发实证支持手册，将全纳协同列为职后研训核心跨专业能力 |
-> | Kamarianakis & Webs (2019); Richter (2019) | 学校发展咨询（Schulentwicklungsberatung）与学段衔接 | 外部发展顾问能有效帮助学校精准诊断校本培训需求并打破孤岛 | 咨询服务是联结宏观督导与微观校本师训的关键催化机制 |
+> | Gerick and Tulowitzki (2019); Drossel et al. (2019) | 数字化时代学校组织变革与学生数字素养培育 | 教师数字教学效能高度依赖校领导技术领导力与校本精准培训 | 职后培训必须超越孤立工具操作，转向组织数字化综合生态构建 |
+> | Müller et al. (2019); Amrhein and Badstieber (2019) | 全纳教育（Inklusion）视域下特殊教育与普教协同 | 普教特教协同备课常面临专业管辖权防御，校长领导力至关重要 | 研发实证支持手册，将全纳协同列为职后研训核心跨专业能力 |
+> | Kamarianakis and Webs (2019); Richter (2019) | 学校发展咨询（Schulentwicklungsberatung）与学段衔接 | 外部发展顾问能有效帮助学校精准诊断校本培训需求并打破孤岛 | 咨询服务是联结宏观督导与微观校本师训的关键催化机制 |
 
 > [!row-contrast] 贯通视界二：教师教育自身转化效能与治理机制（典型案例矩阵）
 > | 典型案例与贡献作者 | [[Research Topic\|研究主题]]与经验[[Champ\|场域]] | 核心实证发现与转移治理机制 | 对教师教育转化的深层启示 |
 > |---|---|---|---|
-> | Franzmann & Berkemeyer (2019) | 知识社会学视域下教师专业化与多元知识秩序 | 教师行动面临科学证据、日常经验与行政法度三重知识秩序的碰撞 | 教师教育应培育实践者在多重知识秩序间的反思与转译能力 |
-> | Heinrich & Streblow (2019) | “教师教育质量攻坚计划”（QLB）多范式治理分析 | 循证主导政策在高校内部遭遇多范式分歧与制度抵制 | 转移治理不可采取行政强加，需尊重大学学术生态的多元自主 |
-> | Otto, Hinzke & Besa (2019) | [[NuBiL]] 项目：教师为何使用教育研究成果 | 教师并非被动消费研究，而是基于日常实践困惑展开选择性探究 | 转移平台设计应契合教师内在反思动机，提供诊断性问题切口 |
+> | Franzmann and Berkemeyer (2019) | 知识社会学视域下教师专业化与多元知识秩序 | 教师行动面临科学证据、日常经验与行政法度三重知识秩序的碰撞 | 教师教育应培育实践者在多重知识秩序间的反思与转译能力 |
+> | Heinrich and Streblow (2019) | “教师教育质量攻坚计划”（QLB）多范式治理分析 | 循证主导政策在高校内部遭遇多范式分歧与制度抵制 | 转移治理不可采取行政强加，需尊重大学学术生态的多元自主 |
+> | Otto, Hinzke and Besa (2019) | [[NuBiL]] 项目：教师为何使用教育研究成果 | 教师并非被动消费研究，而是基于日常实践困惑展开选择性探究 | 转移平台设计应契合教师内在反思动机，提供诊断性问题切口 |
 > | Martin (2019); Klomfaß et al. (2019) | 教师职后进修真实需求与借调高校教师的转移职能 | 教师进修渴望获得尊重与情感关照；借调教师在大学与中小学间架起桥梁 | 承认教师的情感与文化诉求，制度化扶持双栖型边界跨越者 |
 
 ---

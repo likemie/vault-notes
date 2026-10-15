@@ -88,7 +88,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Correlational Research
@@ -207,7 +207,7 @@ updated: 2026-10-15
 
 > [!eval-framework] 法定分级与审评准则对比
 > - **[[Every Student Succeeds Act\|ESSA]] Tier III（Promising Evidence，有希望证据）法定准则**
->   - 根据 ESSA 联邦法案规定，合规的 Tier III 相关性研究必须是**“设计良好且实施良好、具备统计控制选择偏误的相关研究（Well-designed and well-implemented correlational study with statistical controls for selection bias）”**。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, p. 162)]]
+>   - 根据 ESSA 联邦法案规定，合规的 Tier III 相关性研究必须是 **“设计良好且实施良好、具备统计控制选择偏误的相关研究（Well-designed and well-implemented correlational study with statistical controls for selection bias）”**。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, p. 162)]]
 >   - **底线控制要求** 必须在统计模型中强制控制学习者的**基线先前[[Academic Achievement\|学业成绩]]（Prior Achievement/Pre-test）** 以及核心人口统计学[[Variable\|变量]]（如贫困状态、特殊教育资格等），未作基线控制的粗糙横截面相关研究不符合 Tier III 资质。
 >   - **样本要求** 需具备大样本或多地点分布，以保证足够的统计检出力与生态代表性。
 > - **[[What Works Clearinghouse\|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses\|Clearinghouse]], WWC）审评边界**

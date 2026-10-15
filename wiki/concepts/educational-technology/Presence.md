@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Presence
@@ -67,7 +67,7 @@ updated: 2026-10-08
 > |---|---|---|---|
 > | 核心问题 | 我在这里吗？ | 我被环境包围了吗？ | 我与他人同在吗？ |
 > | 判断标准 | 主观感受身处虚拟空间 | 环境对物理现实的整体表面保真度 + 能够理解的总体响应 | 个体具有在共同、共享环境中同在的感觉 |
-> | 关键作者 | Sheridan (1992); Zhao (2003) | Slater & Steed (2000); Schuemie et al. (2001) | Riva et al. (2003); Boellstorff (2008) |
+> | 关键作者 | Sheridan (1992); Zhao (2003) | Slater and Steed (2000); Schuemie et al. (2001) | Riva et al. (2003); Boellstorff (2008) |
 > | 研究功能 | 促进参与的基础条件 | 增强参与深度 | 支撑社会互动和群体讨论 |
 
 ---
@@ -100,7 +100,7 @@ updated: 2026-10-08
 > [!concept-lens] 在场感与数据有效性
 > 在[[Virtual World\|虚拟世界]]研究中，参与者的在场感直接影响数据的真实性、深度和[[Reliability\|可靠性]]。高在场感意味着参与者更可能投入情境并做出真实反应。
 
-> [!claim] Slater & Steed (2000); Riva et al. (2003)
+> [!claim] Slater and Steed (2000); Riva et al. (2003)
 > **沉浸感增强数据深度** 虚拟世界中沉浸感和共在感的水平直接关系到研究者能够收集到的数据质量。当参与者感受到强烈的在场感和共在感时，他们更可能投入到争议性场景的讨论中，表达真实的观点和感受。沉浸感和共在感都已被识别为用户参与的重要促进因素，在媒体消费者要求更多、更深体验的时代，虚拟世界借助机制与肉体之间的流动边界（Turkle, 2000, p. 555）实现了这种参与（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al., 2011, Ch. 19, pp. 154–155, 159–160]]）。
 
 ### 命题二　共在感是虚拟世界中社会互动和敏感议题讨论的催化剂

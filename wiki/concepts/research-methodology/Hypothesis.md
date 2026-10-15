@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 # Hypothesis
 
@@ -201,7 +201,7 @@ Kerlinger（1970）指出假设作为研究工具的四重重要性（[[Argument
 
 > [!feature] 假设的四重重要性
 > - **组织研究者的努力** 假设所表达的关系指示研究者应当做什么，为收集、分析和解释数据提供框架
-> - **理论的工作工具（the working instruments of theory）**假设可以从理论或其他假设中推导出来
+> - **理论的工作工具（the working instruments of theory）** 假设可以从理论或其他假设中推导出来
 > - **可被检验** 假设可被经验或实验检验，导致证实或拒绝；一个被支持和确立的假设可能成为法则
 > - **推动知识进步** 假设使我们能够走到自身之外，是推动知识前进的有力工具
 
@@ -225,4 +225,4 @@ Kerlinger（1970）指出假设作为研究工具的四重重要性（[[Argument
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — Ch.1 引入 Kerlinger 的好假设标准、Medawar 的逻辑即时性概念和假设四重重要性；Ch.7 系统阐述方向性/[[Directional and Non-directional Hypotheses\|非方向性假设]]区分、假设[[Operationalization\|操作化]]程序和中介[[Variable\|变量]]
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — Ch.7 提出方向性/可检验性/理论基础/具体性四特征，以及[[Quantitative Research\|量化研究]]问题与假设的区分
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — Ch.7 提出方向性/可检验性/理论基础/具体性四特征，以及[[Quantitative Research\|量化研究]]问题与假设的区分

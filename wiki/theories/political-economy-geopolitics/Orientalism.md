@@ -59,7 +59,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 定义
@@ -71,13 +71,13 @@ updated: 2026-10-15
 
 
 > [!info] 在[[Chinese Learner|中国学习者]]刻板印象中的应用
-> [[Argument_Ryan_2010_ChineseLearner|Ryan (2010, p. 40)]] 在对[[Chinese Learner|中国学习者]]刻板印象的批判中援引 Said 的东方主义框架——正如 Watkins & Biggs（2001, p. 4）所指出："Chinese-ness is in effect defined in terms of deviance from Western norms"（中国性实际上是以偏离西方规范来定义的）。这表明东方主义的运作不仅限于殖民语境中的政治统治，也在当代[[Intercultural Education|跨文化教育]]中以"缺陷型刻板印象"——将中国学习者的特征构造为西方学术规范的"反面"——的形式被隐性再生产（[[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, pp. 39–40]]）。详见 [[Argument_Ryan_2010_ChineseLearner|Ryan (2010)]]。
+> [[Argument_Ryan_2010_ChineseLearner|Ryan (2010, p. 40)]] 在对[[Chinese Learner|中国学习者]]刻板印象的批判中援引 Said 的东方主义框架——正如 Watkins and Biggs（2001, p. 4）所指出："Chinese-ness is in effect defined in terms of deviance from Western norms"（中国性实际上是以偏离西方规范来定义的）。这表明东方主义的运作不仅限于殖民语境中的政治统治，也在当代[[Intercultural Education|跨文化教育]]中以"缺陷型刻板印象"——将中国学习者的特征构造为西方学术规范的"反面"——的形式被隐性再生产（[[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, pp. 39–40]]）。详见 [[Argument_Ryan_2010_ChineseLearner|Ryan (2010)]]。
 >
 
 ## 概念辨析
 
 > [!example] 概念辨析
-> - vs [[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]：东方主义关注殖民者如何通过[[Knowledge Production|知识生产]]**建构**被殖民者的形象（表征的政治），去殖民[[Geopolitics of Knowledge|知识地缘政治]]则关注这一建构的**[[Epistemology|认识论]]后果**——哪些[[Ways of Knowing|认知方式]]被系统性地压制和排除，以及如何通过"认识论不服从"来动摇这一结构。两者发源于不同学术传统但高度互补。详见 知识地缘政治 > 两条理论脉络
+> - vs [[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]：东方主义关注殖民者如何通过[[Knowledge Production|知识生产]]**建构**被殖民者的形象（表征的政治），去殖民[[Geopolitics of Knowledge|知识地缘政治]]则关注这一建构的 **[[Epistemology|认识论]]后果**——哪些[[Ways of Knowing|认知方式]]被系统性地压制和排除，以及如何通过"认识论不服从"来动摇这一结构。两者发源于不同学术传统但高度互补。详见 知识地缘政治 > 两条理论脉络
 > - vs 发展主义批判（Escobar, 1995）：东方主义分析殖民时期的直接知识-权力关系；发展主义批判则将这一分析延伸至后殖民时代——"发展"[[Discourse|话语]]如何成为发达国家在形式上平等的国际秩序中延续影响力的意识形态工具
 >
 
@@ -94,7 +94,7 @@ updated: 2026-10-15
 
 
 > [!info] 后殖民时期：知识依赖的延续
-> 政治独立后，"大多数殖民安排仍然持续存在"（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, p. 91]]）。这一延续的机制是：新独立国家缺乏资源和想象力去创造替代性的知识体系，只能转向前殖民者寻求援助——而"外国援助始终是扩展政治影响力和商业利益的手段"。东方主义在此表现为一种**[[Epistemology|认识论]]依赖** 政治主权获得了，但知识主权的独立远未完成。
+> 政治独立后，"大多数殖民安排仍然持续存在"（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, p. 91]]）。这一延续的机制是：新独立国家缺乏资源和想象力去创造替代性的知识体系，只能转向前殖民者寻求援助——而"外国援助始终是扩展政治影响力和商业利益的手段"。东方主义在此表现为一种 **[[Epistemology|认识论]]依赖** 政治主权获得了，但知识主权的独立远未完成。
 
 
 > [!info] 当代[[International Education|国际教育]]市场：东方主义的隐性再生产
@@ -108,15 +108,15 @@ updated: 2026-10-15
 >
 
 > [!info] 比较教育中的东方主义：[[PISA]] 与种族焦虑
-> [[Argument_Klerides_2023_CE|Klerides (2023, p. 428)]]指出，东方主义在比较教育中的一个当代表现是西方媒体对亚洲 PISA 高表现者的回应。Takayama（2018a）、You（2019）和 Grey & Morris（2022）的研究表明，西方媒体将东亚教育系统的 PISA 成功同时呈现为灵感和威胁——"亚洲人既聪明又危险"的二[[Grand Theory|元叙事]]延续了东方主义的遗产。这种回应并非纯粹的教育分析，而是受到历史和地缘政治塑造的种族焦虑的驱动。东方主义在此不是以"东方落后于西方"的旧形式运作，而是以"东方在特定领域超越西方从而构成威胁"的新形式延续。
+> [[Argument_Klerides_2023_CE|Klerides (2023, p. 428)]]指出，东方主义在比较教育中的一个当代表现是西方媒体对亚洲 PISA 高表现者的回应。Takayama（2018a）、You（2019）和 Grey and Morris（2022）的研究表明，西方媒体将东亚教育系统的 PISA 成功同时呈现为灵感和威胁——"亚洲人既聪明又危险"的二[[Grand Theory|元叙事]]延续了东方主义的遗产。这种回应并非纯粹的教育分析，而是受到历史和地缘政治塑造的种族焦虑的驱动。东方主义在此不是以"东方落后于西方"的旧形式运作，而是以"东方在特定领域超越西方从而构成威胁"的新形式延续。
 
 ## 核心要素
 
 > [!abstract] 核心要素
-> - **表征的权力** 关于"东方"的知识不是对客观事实的描述，而是**[[Discourse|话语]]建构**——它将复杂的、多样化的亚洲社会简化为同质的、可管理的"东方"形象（Said, 1983, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp. 91–92]]）
+> - **表征的权力** 关于"东方"的知识不是对客观事实的描述，而是 **[[Discourse|话语]]建构**——它将复杂的、多样化的亚洲社会简化为同质的、可管理的"东方"形象（Said, 1983, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp. 91–92]]）
 > - **知识与权力的共构**[[Knowledge Production|知识生产]]不是独立于权力的学术活动，而是**构成权力关系的核心机制**——殖民统治不仅依赖军事和经济控制，更依赖对"什么算知识"和"谁有资格生产知识"的界定
 > - **[[Hegemony|文化霸权]]** 东方主义不仅通过强制运作，更通过**文化霸权**——被殖民者逐渐将殖民者的认知框架内化为"常识"，例如亚洲中产阶级将西方教育视为天然的"更好"选择（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp. 95–96]]）
-> - **当代隐性再生产** 去殖民化后，东方主义不是消失了，而是从显性的殖民统治话语转变为隐性的**[[Cultural Hierarchy|文化等级]]想象**——这种想象嵌入在消费者的选择（去哪读书）、政策话语（"世界最佳实践"、"追赶"西方大学）和制度安排（全球排名系统、英语发表优先）之中（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp. 95–97, 101]]）
+> - **当代隐性再生产** 去殖民化后，东方主义不是消失了，而是从显性的殖民统治话语转变为隐性的 **[[Cultural Hierarchy|文化等级]]想象**——这种想象嵌入在消费者的选择（去哪读书）、政策话语（"世界最佳实践"、"追赶"西方大学）和制度安排（全球排名系统、英语发表优先）之中（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp. 95–97, 101]]）
 >
 
 > [!warning] 争议与批评

@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Intent-to-Treat Analysis
@@ -78,7 +78,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> **意向治疗分析（Intent-to-Treat Analysis，简称 [[Initial Teacher Training\|ITT]]）**是[[Randomised Controlled Trials\|随机对照试验]]（RCT）中最核心的因果效应估计方法。其基本准则是：所有参与试验的被试必须完全保留在其最初被[[Random Assignment\|随机分配]]的组别中进行统计分析，无论他们后续是否实际依从干预、是否中途退出、还是交叉接受了对照组措施。
+> **意向治疗分析（Intent-to-Treat Analysis，简称 [[Initial Teacher Training\|ITT]]）** 是[[Randomised Controlled Trials\|随机对照试验]]（RCT）中最核心的因果效应估计方法。其基本准则是：所有参与试验的被试必须完全保留在其最初被[[Random Assignment\|随机分配]]的组别中进行统计分析，无论他们后续是否实际依从干预、是否中途退出、还是交叉接受了对照组措施。
 >
 > ITT 估计的核心属性在于：它测量的不是“干预实际接受（treatment uptake）”的技术性潜能，而是“干预可获得性或政策提供（treatment availability or offer）”对总体目标人群产生的净因果效应（[[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016, p. 233]]）。
 
@@ -266,4 +266,4 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Pampaka_2016_IJRME\|Pampaka et al. (2016)]] — 系统论述了部分嵌套 [[Randomised Controlled Trials\|RCT]] 中集群效应与非依从性对 [[Initial Teacher Training\|ITT]] 估计统计推断的影响，阐明了 ITT 在反映政策可获得性与解释大规模推广困境中的核心价值。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 跨国[[Educational Evidence Clearinghouses\|证据清算中心]]元综述，证实 [[Blueprints for Healthy Youth Development\|Blueprints]]、[[Social Programs That Work\|SPTW]]、[[Promise Neighborhoods Research Consortium\|PNRC]] 与 [[What Works Clearinghouse\|WWC]] 将 ITT 确立为筛选高质量因果证据的刚性制度化基准。
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 英国 [[Education Endowment Foundation\|EEF]] 十年循证评估综述，阐述将 ITT 作为全英大规模田野 RCT 首要指标的制度实践，及其与[[EEF Padlock Security Rating\|挂锁安全评级]]、[[Implementation and Process Evaluation\|IPE]] 过程评估和 [[Complier Average Causal Effect\|CACE]] 工具[[Variable\|变量]]调整的协同运作机制。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 英国 [[Education Endowment Foundation\|EEF]] 十年循证评估综述，阐述将 ITT 作为全英大规模田野 RCT 首要指标的制度实践，及其与[[EEF Padlock Security Rating\|挂锁安全评级]]、[[Implementation and Process Evaluation\|IPE]] 过程评估和 [[Complier Average Causal Effect\|CACE]] 工具[[Variable\|变量]]调整的协同运作机制。

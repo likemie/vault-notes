@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Six-Stage Model of Policymaking
@@ -175,9 +175,9 @@ updated: 2026-10-15
 >
 > | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
 > |:---------|:---------------|:-----------------|:-----------------|
-> | **命题一 & 二**<br>[[Argument_Serpell_2020_EP\|Serpell (2020, pp. 43–44)]]; [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013, pp. 8–10)]] | **问题识别与议程设置（阶段一与二）**<br>社会痛点如何被表征为政策问题？实证指标如何与意识形态价值对接？ | 选民请愿、媒体专题调查、国家测评差距数据（NAEP/[[PISA]]）、两党智库政策简报。 | [[Observation Method\|观察研究]]证据是否被包装为危机警报符号；若仅有学术数据而缺乏两党核心价值共振，议程难以突破既有制度垄断。 |
-> | **命题二**<br>[[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013, pp. 13–15)]] | **政策方案设计与起草（阶段三）**<br>起草团队如何界定证据作用？学术实证空白由何种知识补位？ | 起草工作组构成名单、公开征求意见反馈汇总、[[Expert Interview\|专家访谈]]、学科进阶推导记录。 | 观察是否存在以科学研究为盾牌排斥外部政治游说的策略；若高阶领域缺乏严格对照实证，需排查专家逻辑与教师实践经验的补位程度。 |
-> | **命题一 & 二**<br>[[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013, pp. 16–18)]]; [[Argument_Serpell_2020_EP\|Serpell (2020, p. 45)]] | **政策合法化与法定采纳（阶段四）**<br>表决现场依赖何种证据工具？决策者如何化解地方选民疑虑？ | 议会听证辩论记录、财政拨款附加条件、州级逐条对标分析报告（Crosswalks）。 | 宏观学术理论通常退居幕后；若决策者高度关注现实财务成本与本州落差，微观工具性比对与财政激励窗口是合法化的决定因素。 |
+> | **命题一 & 二**<br>[[Argument_Serpell_2020_EP\|Serpell (2020, pp. 43–44)]]; [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013, pp. 8–10)]] | **问题识别与议程设置（阶段一与二）**<br>社会痛点如何被表征为政策问题？实证指标如何与意识形态价值对接？ | 选民请愿、媒体专题调查、国家测评差距数据（NAEP/[[PISA]]）、两党智库政策简报。 | [[Observation Method\|观察研究]]证据是否被包装为危机警报符号；若仅有学术数据而缺乏两党核心价值共振，议程难以突破既有制度垄断。 |
+> | **命题二**<br>[[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013, pp. 13–15)]] | **政策方案设计与起草（阶段三）**<br>起草团队如何界定证据作用？学术实证空白由何种知识补位？ | 起草工作组构成名单、公开征求意见反馈汇总、[[Expert Interview\|专家访谈]]、学科进阶推导记录。 | 观察是否存在以科学研究为盾牌排斥外部政治游说的策略；若高阶领域缺乏严格对照实证，需排查专家逻辑与教师实践经验的补位程度。 |
+> | **命题一 & 二**<br>[[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013, pp. 16–18)]]; [[Argument_Serpell_2020_EP\|Serpell (2020, p. 45)]] | **政策合法化与法定采纳（阶段四）**<br>表决现场依赖何种证据工具？决策者如何化解地方选民疑虑？ | 议会听证辩论记录、财政拨款附加条件、州级逐条对标分析报告（Crosswalks）。 | 宏观学术理论通常退居幕后；若决策者高度关注现实财务成本与本州落差，微观工具性比对与财政激励窗口是合法化的决定因素。 |
 > | **命题三**<br>[[Argument_Serpell_2020_EP\|Serpell (2020, pp. 41–42)]] | **实施推进与评估回流（阶段五与六）**<br>政策产出是否偏离原初意图？评估发现如何影响下一轮议程？ | 行政指导细则、学校合规性督导报告、因果效应评估论文、法案重新授权听证。 | 出现严重规制异化或反常副效应时，评估报告构成对现行法的否定性证据，直接触发下一轮周期的阶段一问题重新界定。 |
 
 ---
@@ -215,5 +215,5 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Serpell_2020_EP\|Serpell (2020)]] — 结合美国国会立法实务，将六阶段模型引入教育立法研究，构建面向教育研究者的前瞻[[Navigational Framework for Educational Researchers|政策导航框架]]。
-> - [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] — 运用阶段启发式透镜[[Process Tracing|过程追踪]][[Common Core State Standards|共同核心标准]]运动，实证提炼出实证研究、专业经验与政治价值的三阶段权变整合理论。
+> - [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] — 运用阶段启发式透镜[[Process Tracing|过程追踪]][[Common Core State Standards|共同核心标准]]运动，实证提炼出实证研究、专业经验与政治价值的三阶段权变整合理论。
 > - Oakley et al. (2013) — 对公共政策全过程六阶段模型进行系统建构与实证检验，奠定标准六阶段框架的现代实证基础。

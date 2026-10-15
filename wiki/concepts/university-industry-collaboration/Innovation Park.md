@@ -37,7 +37,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-09-10
+updated: 2026-10-16
 ---
 
 # Innovation Park
@@ -65,7 +65,7 @@ updated: 2026-09-10
 ## 实证发现
 
 > [!success]
-> Boccanfuso & Hall（2025, p.64）对 65 所 [[University Industry Demonstration Partnership\|UIDP]] 成员大学的调查显示：
+> Boccanfuso and Hall（2025, p.64）对 65 所 [[University Industry Demonstration Partnership\|UIDP]] 成员大学的调查显示：
 > - 89% 提供非生命科学类初创企业孵化器
 > - 84% 为企业提供大学自有建筑内的办公空间
 > - 84% 设有初创企业投资项目

@@ -52,7 +52,7 @@ sources:
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 status: draft
 created: 2026-06-02
-updated: 2026-07-08
+updated: 2026-10-16
 subtype: book-chapter
 publication_type: book
 title: "Argument_Wolf_2025_InternationalResearchCollab"
@@ -142,7 +142,7 @@ citation_aliases:
 ---
 
 > [!warning] 第四层：地缘政治（Geopolitical Considerations）
-> 地缘政治不仅影响合作的启动，还可能中断已有的合作。Charpin et al.(2024)发现，政治分歧对跨境研究合作的负面冲击是真实的(p.315)。Marinoni & Cardona(2024)对 100 多个国家 700 余所大学的调查显示，11% 的机构因政府新规修订了研究伙伴关系，3% 主动中止了与特定国家的合作。
+> 地缘政治不仅影响合作的启动，还可能中断已有的合作。Charpin et al.(2024)发现，政治分歧对跨境研究合作的负面冲击是真实的(p.315)。Marinoni and Cardona(2024)对 100 多个国家 700 余所大学的调查显示，11% 的机构因政府新规修订了研究伙伴关系，3% 主动中止了与特定国家的合作。
 >
 > 地缘政治的影响呈现明显的地域集中性。欧洲和北美大学的全球研究联系受到的限制大于拉丁美洲、加勒比、非洲和中东地区的大学，不同地区的研究者面对的"合作自由度"存在结构性差异。
 >
@@ -182,9 +182,9 @@ citation_aliases:
 > [!example]- 三个不同深度的共同选址案例
 > | 案例 | 选址深度 | 关键参数 |
 > |------|---------|---------|
-> | **联合利华（Unilever）**全球食品[[Innovation Hub\|创新中心]] Hive（荷兰瓦赫宁根大学，Wageningen University & Research） | 最深 | 500 名员工、18000 m²、2019 年启用，含中试车间、实验室和厨房(p.317) |
-> | **菲仕兰坎皮纳（FrieslandCampina）**创新中心（瓦赫宁根大学） | 中等 | 2010 年起集中研发团队，含中试车间、体验中心和实验室 |
-> | **拜耳（Bayer）**研究与创新中心（Bayer Research and Innovation Center, BRIC，毗邻麻省理工学院与哈佛大学博德研究所，Broad Institute of MIT and Harvard） | 较浅 | 非严格共同选址，但物理邻近性促进了十多年癌症疗法合作(pp.317–318) |
+> | **联合利华（Unilever）** 全球食品[[Innovation Hub\|创新中心]] Hive（荷兰瓦赫宁根大学，Wageningen University & Research） | 最深 | 500 名员工、18000 m²、2019 年启用，含中试车间、实验室和厨房(p.317) |
+> | **菲仕兰坎皮纳（FrieslandCampina）** 创新中心（瓦赫宁根大学） | 中等 | 2010 年起集中研发团队，含中试车间、体验中心和实验室 |
+> | **拜耳（Bayer）** 研究与创新中心（Bayer Research and Innovation Center, BRIC，毗邻麻省理工学院与哈佛大学博德研究所，Broad Institute of MIT and Harvard） | 较浅 | 非严格共同选址，但物理邻近性促进了十多年癌症疗法合作(pp.317–318) |
 >
 > 瓦赫宁根大学（Wageningen University & Research）同时吸引了两家全球消费品巨头的共同选址，说明这一模式具有可复制性。当一所大学在特定领域积累足够深的科研资产时，产业方有强烈动机将研发团队迁入以获取知识溢出。
 

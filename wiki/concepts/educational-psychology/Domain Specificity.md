@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Domain Specificity
@@ -114,7 +114,7 @@ updated: 2026-10-15
 > | **核心主张** | 思维技能与[[Epistemology\|认识论]]标准被深度锁定在特定学科或判断域内。 | 认知发展是整体心智能力的升级，通用逻辑原则可自发跨域迁移。 | 上层为跨情境通用的逻辑与[[Metacognition\|元认知]]规则，下层为学科特异的证据与探究规范。 |
 > | **发展节奏** | 高度**非同步**。在不同学科与判断领域呈现差异化甚至反转的发展曲线。 | **全局同步**。随年龄成熟或通用训练实现全领域同步跃迁。 | 通用认知框架作为[[Scaffolding\|脚手架]]加速各学科特异性标准的内化。 |
 > | **[[Critical Thinking\|批判性思维]]定位** | McPeck (1981)：思维永远是“关于某种具体事物的思维”，不存在独立的通用思维技能。 | Ennis 与 Paul (1993)：批判性思维包含跨领域通用的论证分析与证据评价原则。 | 混合模式（Mixed Approach）主张通用显性原则与学科内容深度融入可获得最佳效果。 |
-> | **理论代表** | McPeck (1981, 1990); [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] | [[Jean Piaget\|Piaget]] 发生认识论; 传统智力因子理论 | Ennis (1989); [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]]; [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] |
+> | **理论代表** | McPeck (1981, 1990); [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] | [[Jean Piaget\|Piaget]] 发生认识论; 传统智力因子理论 | Ennis (1989); [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]]; [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] |
 
 ---
 
@@ -133,7 +133,7 @@ updated: 2026-10-15
 
 > [!feature] 领域特异性的三大分类框架
 > - **日常判断领域分类（Judgment Domains）** [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] 将日常论辩划分为五个递进领域：个人品味、审美、价值观、社会事实、物理事实。这五个领域在接纳主观性与找回客观评价标准上呈现出截然相反的发展轨迹。
-> - **学术知识结构分类（Academic Domains）** [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] 将学科划分为**良构领域（Well-structured domains，如数学）**与**劣构领域（Ill-structured domains，如历史）**。前者拥有公理化体系与确定答案，后者则充满相互冲突的多元史料与价值权衡。
+> - **学术知识结构分类（Academic Domains）** [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] 将学科划分为**良构领域（Well-structured domains，如数学）** 与**劣构领域（Ill-structured domains，如历史）**。前者拥有公理化体系与确定答案，后者则充满相互冲突的多元史料与价值权衡。
 > - **思维教学课程整合分类（Curricular Typology）** [[Argument_Abrami_2015_RER\|Ennis (1989) 与 Abrami et al. (2015)]] 依据思维原则与学科内容的结合方式，将教学划分为四类模式：独立通用（General）、学科融入（Infusion）、学科沉浸（[[Presence\|immersion]]）与显性混合（Mixed）。
 
 ---
@@ -224,9 +224,9 @@ updated: 2026-10-15
 > | 命题维度 | 核心论点 | 实践与研究适用情境 | 代表学者与关键文献 |
 > |---|---|---|---|
 > | **发展序列非同步性** | 劣构与主观领域的认知发展独立于良构/客观领域，发展难度甚至呈现逆向反转。 | 跨学科素养对比、思维发展阶段评估 | [[Deanna Kuhn\|Kuhn et al. (2000)]]; Greene et al. |
-> | **测量结构特异性** | 心理测量数据显示不同学科的[[Epistemological Beliefs\|认识论信念]]在统计上构成相互独立的潜在因子。 | [[Epistemology\|认识论]]量表开发、[[Questionnaire\|问卷]][[Construct Validity\|结构效度]]验证 | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]]; [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] |
+> | **测量结构特异性** | 心理测量数据显示不同学科的[[Epistemological Beliefs\|认识论信念]]在统计上构成相互独立的潜在因子。 | [[Epistemology\|认识论]]量表开发、[[Questionnaire\|问卷]][[Construct Validity\|结构效度]]验证 | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]]; [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] |
 > | **跨学科有效与混合最优** | [[Critical Thinking\|批判性思维]]在所有学科均可训练，且通用显性原则与学科融入相结合的混合模式效果最强。 | 课程体系设计、批判性思维教学改革 | McPeck (1981); [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] |
-> | **微观情境资源化** | 宏观学科边界颗粒度过大，主张用微观任务情境中按需激活的认知资源替代固定领域信念。 | 课堂互动[[Discourse Analysis\|话语分析]]、真实探究任务设计 | [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]]; Hammer & Elby (2002) |
+> | **微观情境资源化** | 宏观学科边界颗粒度过大，主张用微观任务情境中按需激活的认知资源替代固定领域信念。 | 课堂互动[[Discourse Analysis\|话语分析]]、真实探究任务设计 | [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]]; Hammer and Elby (2002) |
 > | **领域负荷与测量后果** | [[Creativity\|创造力]]与批判性思维均具领域特殊性，创造力测量依赖领域特定产出，任务特异技能重叠抬高[[Construct\|构念]]间观察相关。 | 创造力测量设计、构念间相关解读、[[Meta-analysis\|元分析]]测量编码 | [[Argument_Park_2026_TSC\|Park et al. (2026)]]; Baer (2012); Myszkowski (2024) |
 > | **特异性层级两极优势** | 微观主题特定与宏观通用干预显著优于中观学科干预，且实证研究存在严重的理工科倾斜 | 课程单元设计、认识论教学特异性定位 | Cartiff et al. |
 
@@ -283,9 +283,9 @@ updated: 2026-10-15
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 综合 341 项[[Experimental Research\|实验研究]]，证实[[Critical Thinking\|批判性思维]]在 [[STEM Education\|STEM]] 与文社科均具稳健效果（$g+ \approx 0.30$），且通用原则与学科融入相结合的混合模式（$g+ = 0.38$）效果最强，实证化解了特异与通用之争。
 > - [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] — 使用[[Factor Mixture Modeling\|因子混合模型]]对比历史与数学，从定量测量结构上终结了完全领域一般性假说。
 > - [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] — 将“判断领域”细分为品味、审美、价值、社会与物理事实，利用混合模式证明了认知发展的非同步性与反转规律。
-> - [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] — 呼吁构建整合特异性与一般性的双层[[Epistemology\|认识论]]概念模型。
+> - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 呼吁构建整合特异性与一般性的双层[[Epistemology\|认识论]]概念模型。
 > - [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] — 指出用“学科”界定领域依然颗粒度过大，提出了向更微观的“情境特异性”和动态资源池转型的理论方向。
 > - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] — [[Systematic Review\|系统综述]][[Epistemic Cognition\|认识论认知]]在科学、数学等各学科中的[[Academic Achievement\|学业表现]]关联。
-> - [[Argument_Song_Choi_2026_FPSYG\|Song & Choi (2026)]] — 多水平[[Meta-analysis\|元分析]]考察学生认识论发展在不同学习领域中的[[Interaction Effect\|调节效应]]。
+> - [[Argument_Song_Choi_2026_FPSYG\|Song and Choi (2026)]] — 多水平[[Meta-analysis\|元分析]]考察学生认识论发展在不同学习领域中的[[Interaction Effect\|调节效应]]。
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 指出[[Creativity\|创造力]]与批判性思维均具领域特殊性，[[Creativity Assessment\|创造力测量]]依赖领域特定产出（发散流畅、自陈、领域产品），并提示任务特异技能重叠会抬高两[[Construct\|构念]]间的观察相关。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 认识论干预元分析，检验了干预与测验的特异性层级调节效应，证实主题特定与领域通用干预的“两极优势”，并揭示了[[Intervention Research\|干预研究]]在理工科上的过度集中。

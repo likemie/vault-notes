@@ -56,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Academic Capitalism
@@ -149,7 +149,7 @@ updated: 2026-10-09
 ## 比较视野：学术资本主义的多样性
 
 > [!note]- 福利资本主义体制下的[[Path Dependence|路径依赖]]差异
-> Schulze-Cleven & Olson 基于 Hall & Soskice（2001）的 [[Varieties of Capitalism]] 框架，比较了三种资本主义类型中学术资本主义的差异化表现：
+> Schulze-Cleven & Olson 基于 Hall and Soskice（2001）的 [[Varieties of Capitalism]] 框架，比较了三种资本主义类型中学术资本主义的差异化表现：
 >
 > - **自由主义体制（以美国为代表）** 亲市场规制传统最深，高等教育市场化与金融化最为激进，营利性高校[[Emergence|涌现]]，软钱教职与商场化科研模型高度成熟。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, pp. 803–804)]]
 > - **保守协调体制（以德国为代表）** 拥有强大的职业社团与州政府规制传统，学术资本主义改革呈现反复拉锯，传统讲座教授终身特权对纯市场化机制形成一定对冲。

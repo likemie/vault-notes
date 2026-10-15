@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-23
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Predictive Validity
@@ -90,7 +90,7 @@ updated: 2026-10-15
 预测效度是衡量测量工具外部有效性与未来发展解释力的核心心理测量学指标。
 
 > [!def] 核心定义
-> 预测效度（Predictive Validity）是[[Criterion-related Validity|效标关联效度]]的一种核心形式，指某一测量工具在当前时间点获取的得分在多大程度上能够准确预测受试者在**未来某一时间点**所展现的外部效标行为、[[Academic Achievement|学业表现]]或实际成果。其核心判定标准在于**时间间隔（Time Interval）**的存在，即预测源测量（Predictor）在时间上显著先于效标测量（Criterion）。在教育实证研究中，它既涵盖标准化选拔测验或高阶认知潜能对长期发展成就的跨期推断，也涵盖标准化[[Classroom Observation|课堂观察]]工具得分对学生未来学业增益的计量经济学预测。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 179)]]; [[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–3)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, p. 12)]]
+> 预测效度（Predictive Validity）是[[Criterion-related Validity|效标关联效度]]的一种核心形式，指某一测量工具在当前时间点获取的得分在多大程度上能够准确预测受试者在**未来某一时间点**所展现的外部效标行为、[[Academic Achievement|学业表现]]或实际成果。其核心判定标准在于**时间间隔（Time Interval）** 的存在，即预测源测量（Predictor）在时间上显著先于效标测量（Criterion）。在教育实证研究中，它既涵盖标准化选拔测验或高阶认知潜能对长期发展成就的跨期推断，也涵盖标准化[[Classroom Observation|课堂观察]]工具得分对学生未来学业增益的计量经济学预测。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 179)]]; [[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–3)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, p. 12)]]
 
 从测验开发者与政策制定者的双重视角审视，预测效度提供了评估工具实用价值的核心准绳。
 
@@ -179,7 +179,7 @@ updated: 2026-10-15
 > [!concept-lens] [[Variable|变量]]角色定位与预测效度不对称性
 > 探讨认知与[[Creativity|创造潜能]]作为预测源去预测未来成就，还是作为[[Dependent Variable|效标变量]]被外部环境所预测时的实证效能差异。
 
-> [!claim] [[Argument_Runco_2026_CRJ|Runco et al. (2026)]]; Paek & Runco (2018)
+> [!claim] [[Argument_Runco_2026_CRJ|Runco et al. (2026)]]; Paek and Runco (2018)
 > **预测变量与效标变量的效应不对称性** 跨 52 项一阶[[Meta-analysis|元分析]]的大规模[[Meta-meta-analysis|二阶元分析]]证实，创造力在作为[[Independent Variable|预测变量]]时与个体学业、职业与身心适应展现出中等偏大的稳定预测效度（$r = 0.29$, 95% [[Confidence Interval|置信区间]] $[0.18, 0.41]$）；而当其作为效标结果变量时关联系数显著降低（$r = 0.12$）。多水平[[Second-Order Meta-Regression|二阶元回归]]证实变量角色构成了全领域唯一的显著调节来源（$F(1, 16.3) = 9.43, p = .007$），确立了高阶潜能对长期发展的高水平预测价值。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–8)]]
 
 ---
@@ -191,7 +191,7 @@ updated: 2026-10-15
 > [!concept-lens] 教学效能评价与政策预测源转移
 > 探讨评估教师专业生产力时，职前静态学历文凭与职后高推论[[Classroom Observation|课堂观察]]在预测学生学业增长上的效力优劣。
 
-> [!claim] Gill et al. (2016); Molina et al. (2018); [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]]; Bau & Das (2017)
+> [!claim] Gill et al. (2016); Molina et al. (2018); [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]]; Bau and Das (2017)
 > **微观课堂行为对学业增益的稳健预测力** 传统教育政策普遍依赖教师静态资格（如学历文凭、教龄或职前资格考试）作为选拔依据，然而实证研究表明这类静态指标对学生未来的学业增益几乎不具备预测效度（关联系数近乎为零，Bau & Das, 2017）。与此相反，基于行为锚定的标准化高推论课堂观察工具（如 Teach）展现出显著的跨期预测效度：在控制学生初始基线学业、家庭背景、[[Class Size|班级规模]]及教师学科测试成绩后，教师在 Teach 工具上的微观教学得分每增加 1 个标准差，学生标准化测验成绩仍能显著提升 0.08 至 0.12 个标准差（Molina et al., 2018; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 4, 12, 20)]]），实证确立了高推论课堂观察工具在教育[[Human Capital Theory|人力资本]]投入中的预测有效性。
 
 ---
@@ -204,8 +204,8 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 来源 |
 > |---|---|---|---|
 > | **效标无偏性约束** | 预测效度的测量学真实度严格取决于外部效标是否排除主观偏倚与效标污染 | 选拔考试开发、绩效评估体系设计 | Wolf (1994); [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] |
-> | **预测效度不对称性** | 高阶认知潜能作为预测源时的关联强度（$r = 0.29$）系统性高于作为效标结果（$r = 0.12$） | 纵向[[Cohort Study\|追踪研究]]、拔尖创新人才选拔与发展评估 | [[Mark A. Runco\|Runco et al. (2026)]]; Paek & Runco (2018) |
-> | **教学行为预测效度** | 行为锚定课堂观察对学业增益具备稳健预测效度（0.08–0.12 SD），显著优于零预测力的静态文凭 | 教师效能评价、循证教研督导、跨国教育质量诊断 | Gill et al. (2016); Molina et al. (2018); [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]]; Bau & Das (2017) |
+> | **预测效度不对称性** | 高阶认知潜能作为预测源时的关联强度（$r = 0.29$）系统性高于作为效标结果（$r = 0.12$） | 纵向[[Cohort Study\|追踪研究]]、拔尖创新人才选拔与发展评估 | [[Mark A. Runco\|Runco et al. (2026)]]; Paek and Runco (2018) |
+> | **教学行为预测效度** | 行为锚定课堂观察对学业增益具备稳健预测效度（0.08–0.12 SD），显著优于零预测力的静态文凭 | 教师效能评价、循证教研督导、跨国教育质量诊断 | Gill et al. (2016); Molina et al. (2018); [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]]; Bau and Das (2017) |
 
 ---
 
@@ -277,7 +277,7 @@ updated: 2026-10-15
 > | 研究 | 样本与情境 | 预测源变量（Predictor） | 效标变量（Criterion） | 核心实证系数与结论 | 混杂控制与稳健性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]]; Molina et al. (2018) | 巴基斯坦旁遮普省超 1,000 间小学课堂 | Teach [[Classroom Observation\|课堂观察]]工具综合得分（行为锚定微观教学质量） | 学生标准化测试跨期[[Academic Achievement\|学业成绩]]增长 | 综合得分每提高 1 SD，学生学业成绩显著提升 **0.08 至 0.12 SD** | 控制[[Class Size\|班级规模]]、教师学科知识测验、教龄及学生家庭 SES | 证实高推论微观教学观察对学业增益具备坚实的跨期预测效度 |
-> | Bau & Das (2017) | 巴基斯坦旁遮普省公立与私立小学教师样本 | 教师静态资质（文凭学历、教师执照、职前认知测试） | 学生跨期学业增益（标准化数学与语言测验） | 关联系数近乎零（$r \approx 0.02, p > .10$），无统计显著性 | 控制学校固定效应与学生基线能力 | 证实静态文凭资质对微观学业生产力缺乏预测有效性 |
+> | Bau and Das (2017) | 巴基斯坦旁遮普省公立与私立小学教师样本 | 教师静态资质（文凭学历、教师执照、职前认知测试） | 学生跨期学业增益（标准化数学与语言测验） | 关联系数近乎零（$r \approx 0.02, p > .10$），无统计显著性 | 控制学校固定效应与学生基线能力 | 证实静态文凭资质对微观学业生产力缺乏预测有效性 |
 > | Gill et al. (2016) | 美国公立学校大规模课堂观察工具对比评测 | 5 套主流观察工具（CLASS、FFT、[[Plato]]、MQI、UTeach） | 学生统考成绩年度增值值（VAM） | 工具中“认知挑战”、“反馈质量”维度对学业增益的预测相关达 $r = 0.15\text{–}0.25$ | 控制学生社会人口学特征与过往成绩 | 奠定微观行为维度驱动学业增长的内容预测效度基石 |
 
 ---

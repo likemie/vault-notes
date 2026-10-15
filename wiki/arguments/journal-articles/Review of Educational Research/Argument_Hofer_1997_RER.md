@@ -215,7 +215,7 @@ Baxter Magolda (1992) 对101名男女大学生进行了五年的纵向追踪，�
 
 ### 4. 反思性判断模型（Reflective Judgment）
 
-King & Kitchener (1994) 关注个体如何为[[Wicked Problem|劣构问题]]（ill-structured problems）提供辩护。
+King and Kitchener (1994) 关注个体如何为[[Wicked Problem|劣构问题]]（ill-structured problems）提供辩护。
 
 > [!phase] King & Kitchener 的七阶段模型
 > - **前反思思维（pre-[[Reflective Thinking]]，第 1-3 阶段）**
@@ -291,7 +291,7 @@ Schommer (1990) 编制了包含 63 个题目的量表，提取出了四到五个
 > 1. **第一步：剥离非[[Epistemology\|认识论]]的“边缘信念”**
 >    将 Schommer (1990) 模型中的“快速学习”、“固定能力”，以及 Baxter Magolda (1992) 模型中关于学习者、同伴和评价方式的预期果断剔除，仅保留纯粹探讨知识本身的要素。
 > 2. **第二步：归纳“知识的本质”（Nature of Knowledge）**
->    对比剩余成分发现，所有六大模型都在探讨知识是绝对客观的还是相对演变的（如 Perry (1970) 的二元论 vs 相对主义），作者将此共性概括为“**[[Certainty of Knowledge\|知识的确定性]]**”。同时，King & Kitchener (1994) 与 Schommer 额外指出了知识是孤立片段还是互联网络，这被提炼为“**[[Simplicity of Knowledge\|知识的简单性]]**”。
+>    对比剩余成分发现，所有六大模型都在探讨知识是绝对客观的还是相对演变的（如 Perry (1970) 的二元论 vs 相对主义），作者将此共性概括为“**[[Certainty of Knowledge\|知识的确定性]]**”。同时，King and Kitchener (1994) 与 Schommer 额外指出了知识是孤立片段还是互联网络，这被提炼为“**[[Simplicity of Knowledge\|知识的简单性]]**”。
 > 3. **第三步：归纳“认知的本质”（Nature of Knowing）**
 >    几乎所有模型（如 Belenky et al., 1986，的[[Received Knowledge\|接收知识]] vs. [[Constructed Knowledge\|建构知识]]）都在探讨知识是由外部权威下达还是自我生成的，这被概括为“**[[Source of Knowledge\|知识的来源]]**”。此外，较新的模型（如 Kuhn, 1991；King & Kitchener, 1994）重点关注了个体如何运用证据来评估对立观点，这被归纳为“**[[Justification for Knowing\|认知的辩护]]**”。
 
@@ -313,7 +313,7 @@ Schommer (1990) 编制了包含 63 个题目的量表，提取出了四到五个
 > | **Perry (1970)** | **确定性** 绝对 → 语境/相对主义 | **来源** 权威 → 自我 | |
 > | **Belenky et al. (1986)** | | **来源** 接收 → 建构 (外部 → 自我) | |
 > | **Baxter Magolda (1992)** | **确定性** 绝对 → 语境 | **来源** 依赖权威 → 自我<br>**辩护** 接收/掌握 → 语境证据判断 | 学习者角色、同伴角色、评价方式 |
-> | **King & Kitchener (1994)** | **确定性** 确定/对错 → 不确定/语境<br>**简单性** 简单 → 复杂 | **辩护** 无需辩护 → 知识被建构并重新评价<br>**来源** 依赖权威 → 意义的建构者 | |
+> | **King and Kitchener (1994)** | **确定性** 确定/对错 → 不确定/语境<br>**简单性** 简单 → 复杂 | **辩护** 无需辩护 → 知识被建构并重新评价<br>**来源** 依赖权威 → 意义的建构者 | |
 > | **Kuhn (1991)** | **确定性** 绝对对错 → 依据优劣评价 | **辩护** 接受事实 → 评估专长<br>**来源** 专家 → 专家受审视 | |
 > | **Schommer (1990)** | **确定性** 绝对 → 演变<br>**简单性** 孤立片段 → 互联概念 | **来源** 权威下达 → 理性推导 | 快速学习、先天固定能力 |
 

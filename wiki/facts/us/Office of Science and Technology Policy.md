@@ -65,7 +65,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Office of Science and Technology Policy
@@ -174,4 +174,4 @@ updated: 2026-10-09
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — OSTP 主任呈交总统的纲领性报告。它确立了十年衡量基准，以四大支柱全面重组国家科研与转化体系，并签发 2028 财年联邦研发预算优先事项指导备忘录。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]宏观视角，系统剖析 OSTP 在 1994 年《[[Science in the National Interest 1994|科学与国家利益]]》重新签约、2011 年宏大挑战以及 2025 年《亮点》报告再集中与再动员转型中的制度中枢功能。
-> - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied (2008)]] — 详尽论证 1976 年公法 P.L. 94-282 创立 OSTP 的立法动因与宪政意义，剖析白宫科学顾问由总统个人幕僚转向具有国会作证义务的法定实体历程。
+> - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 详尽论证 1976 年公法 P.L. 94-282 创立 OSTP 的立法动因与宪政意义，剖析白宫科学顾问由总统个人幕僚转向具有国会作证义务的法定实体历程。

@@ -27,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-19
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Costs Benefits Ratio in Research Ethics
@@ -55,7 +55,7 @@ updated: 2026-10-15
 > | **对参与者（正面）** | — | 为科学做出贡献的满足感；对研究领域的更深入个人理解 |
 > | **权衡性质** | 主要是主观的，绝不容易；几乎不存在绝对标准 | 研究者必须依据专业和个人价值观做出决定 |
 
-来源：改编自 Frankfort-Nachmias & Nachmias (1992)（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 75–76]]）。
+来源：改编自 Frankfort-Nachmias and Nachmias (1992)（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 75–76]]）。
 
 ---
 
@@ -65,10 +65,10 @@ updated: 2026-10-15
 > 权衡收益与可能成本的过程主要是主观的。在不同研究者之间，同一研究方案的成本/收益评估可能产生截然不同的结论。研究者必须依据专业和个人价值观做出关于研究内容和程序的决定（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 75–76]]）。
 
 > [!claim] 风险评估优先于知识贡献
-> Social Sciences & Humanities Research Council of Canada (1981) 的立场："对物理、心理、人道、财产和文化价值的风险必须给予比对知识潜在贡献更大的考量。"这意味着当参与者的风险显著时，即使研究具有重大知识价值，也可能被判定为不伦理（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 89]]）。
+> Social Sciences and Humanities Research Council of Canada (1981) 的立场："对物理、心理、人道、财产和文化价值的风险必须给予比对知识潜在贡献更大的考量。"这意味着当参与者的风险显著时，即使研究具有重大知识价值，也可能被判定为不伦理（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 89]]）。
 
 > [!claim] 成本/收益比构成[[Research Ethics\|研究伦理]]的基本困境
-> Frankfort-Nachmias & Nachmias (1992) 将成本/收益比表述为两种权利之间的冲突：开展研究以获取知识的权利与参与者自决、隐私和尊严的权利。对于社会科学家，没有绝对的对错答案。选择偏向哪一方或如何在两者之间取得平衡，很大程度上取决于研究者的背景、经验和个人价值观（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 95]]）。
+> Frankfort-Nachmias and Nachmias (1992) 将成本/收益比表述为两种权利之间的冲突：开展研究以获取知识的权利与参与者自决、隐私和尊严的权利。对于社会科学家，没有绝对的对错答案。选择偏向哪一方或如何在两者之间取得平衡，很大程度上取决于研究者的背景、经验和个人价值观（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 95]]）。
 
 ---
 
@@ -84,7 +84,7 @@ updated: 2026-10-15
 ## 争议与批评
 
 > [!tension] 功利主义框架的局限
-> Howe & Moses (1999, p. 23) 指出成本/收益分析的两个核心问题：(a) 不清楚哪些成本和收益应被纳入分析——不同利益相关者可能对什么算作成本或收益有根本分歧；(b) 假设所有成本和收益具有同等强度——实际上一次尊严受损可能超过多项微小的收益。这质疑了成本/收益分析作为纯粹功利主义计算的可行性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 76]]）。
+> Howe and Moses (1999, p. 23) 指出成本/收益分析的两个核心问题：(a) 不清楚哪些成本和收益应被纳入分析——不同利益相关者可能对什么算作成本或收益有根本分歧；(b) 假设所有成本和收益具有同等强度——实际上一次尊严受损可能超过多项微小的收益。这质疑了成本/收益分析作为纯粹功利主义计算的可行性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 76]]）。
 
 > [!tension] "伤害"的定义不清
 > 什么构成伤害是不清楚的：一个人的伤害可能是社会的收益；一点小伤害对少数人是否在为所有人（甚至为当事人）带来重大利益的情况下可容忍。核心问题在于：目的正当化手段吗？（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 90]]）。

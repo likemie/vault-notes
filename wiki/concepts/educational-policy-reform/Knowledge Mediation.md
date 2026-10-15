@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Knowledge Mediation
@@ -240,16 +240,16 @@ updated: 2026-10-15
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, pp. 10–12)]] | 德语区各州及国际代表性证据清理平台（[[What Works Clearinghouse\|WWC]]、[[Clearing House Unterricht\|CHU]]、[[Forschungsmonitor Schule\|FMS]]）与中层机构（LIs、SI） | 文献系统审视与治理实证评估 | 证据中介平台与中层机构对学校教学改善的有效性实证基础 | 证据清理平台与德语区州立研训所及督导机构在中介成效上均面临显著的实证研究赤字（empirisches Forschungsdefizit），缺乏支持其实质改善教学的稳健证据 | 质性综述确证 | 确证制度化中介载体的普遍设立并未伴随其中介成效的可靠经验验证 |
-> | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio & Mowery (2005, pp. 29, 36)]] | 战后美国[[Research Universities\|研究型大学]]计算机与工程科学科研经费及人才流动 | 历史制度分析与财政计量考证 | 大学在军民技术知识流动中的中介网络载体指标 | 2001 财年国防部支撑高校计算机科学 35%、工程科学 30% 以上的联邦科研预算；大学成为连接军民知识并向新兴 IT 产业持续供给系统工程师的核心中介中枢 | 历史统计与官方决算事实 | 证实大学实体科研基础设施与人才培养构成了国家最具活力的跨界知识中介网络 |
+> | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio and Mowery (2005, pp. 29, 36)]] | 战后美国[[Research Universities\|研究型大学]]计算机与工程科学科研经费及人才流动 | 历史制度分析与财政计量考证 | 大学在军民技术知识流动中的中介网络载体指标 | 2001 财年国防部支撑高校计算机科学 35%、工程科学 30% 以上的联邦科研预算；大学成为连接军民知识并向新兴 IT 产业持续供给系统工程师的核心中介中枢 | 历史统计与官方决算事实 | 证实大学实体科研基础设施与人才培养构成了国家最具活力的跨界知识中介网络 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 系统梳理知识中介在[[Knowledge Production|知识生产]]、传播与利用三大治理环节中的全流程覆盖，提出获取、技能与互动三维支持支柱，并反思政策短周期对中介机制的冲击。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] — 系统梳理知识中介在[[Knowledge Production|知识生产]]、传播与利用三大治理环节中的全流程覆盖，提出获取、技能与互动三维支持支柱，并反思政策短周期对中介机制的冲击。
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 横向评述跨领域[[Knowledge Mobilisation|知识动员]]框架，系统界定知识中介的概念内涵与其在三代系统演进中的核心功能。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 剖析国际组织如何运用第三代中介机制设立常设区域枢纽，以缓解全球证据闲置危机。
-> - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]] — 阐明[[Research Universities|研究型大学]]如何依托国防研发注资建立的先进科研基础设施与工程人才培养，在公共安全部门与民用高科技产业之间扮演跨界知识中介网络枢纽。
-> - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 结合英加实践，阐明一线教师对同行中介网络与[[Practice-Based Evidence|实践本位证据]]的显著偏好。
+> - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 阐明[[Research Universities|研究型大学]]如何依托国防研发注资建立的先进科研基础设施与工程人才培养，在公共安全部门与民用高科技产业之间扮演跨界知识中介网络枢纽。
+> - [[Argument_Nelson_2017_ER|Nelson and Campbell (2017)]] — 结合英加实践，阐明一线教师对同行中介网络与[[Practice-Based Evidence|实践本位证据]]的显著偏好。
 > - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 系统剖析德语区中层研训研究所（LIs）与[[School Inspection|学校督导]]（SI）的知识中介枢纽定位，揭示中介平台与机构面临的严峻实证研究赤字及双重脱节风险。（pp. 10–12）

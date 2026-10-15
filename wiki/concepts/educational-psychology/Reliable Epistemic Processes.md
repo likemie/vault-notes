@@ -63,7 +63,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Reliable Epistemic Processes
@@ -211,7 +211,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] | $N = 332$ 名七年级学生，分布于 24 个初中科学班级（涵盖格陵兰食物网与 HIV 遗传抗性单元） | 课堂[[Discourse Analysis\|话语分析]]与质性论证文本分析 | 对观察过程条件（视线遮挡、动物习性、专业资质、系统采样）与实验设计条件（变量纯洁性、[[Sample Size Determination\|样本量]]、样本偏误）的审视调用 | 质性展现：在食物网口头辩论中，全班通过多轮[[Dialogue in Education\|对话]]逐层析出水体遮挡、游客业余性与缺乏样带等 5 层[[Reliability\|可靠性]]条件；在 HIV 书面论证中敏锐识别门诊抽样偏误 | — | 质性概念验证，证实初中生已具备自发审视认识过程因果条件的能力；未提供大规模效应量 |
+> | [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] | $N = 332$ 名七年级学生，分布于 24 个初中科学班级（涵盖格陵兰食物网与 HIV 遗传抗性单元） | 课堂[[Discourse Analysis\|话语分析]]与质性论证文本分析 | 对观察过程条件（视线遮挡、动物习性、专业资质、系统采样）与实验设计条件（变量纯洁性、[[Sample Size Determination\|样本量]]、样本偏误）的审视调用 | 质性展现：在食物网口头辩论中，全班通过多轮[[Dialogue in Education\|对话]]逐层析出水体遮挡、游客业余性与缺乏样带等 5 层[[Reliability\|可靠性]]条件；在 HIV 书面论证中敏锐识别门诊抽样偏误 | — | 质性概念验证，证实初中生已具备自发审视认识过程因果条件的能力；未提供大规模效应量 |
 
 ---
 
@@ -219,5 +219,5 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] — 系统界定产生信念的[[Causal Processes\|因果过程]]及其在[[Epistemic Cognition\|认识论认知]]中的基础地位。
-> - [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] — 提出科学实践中观察与证据整合的可靠过程模板，实证展示初中生对过程因果条件的审视机制。
+> - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 提出科学实践中观察与证据整合的可靠过程模板，实证展示初中生对过程因果条件的审视机制。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 认识论认知干预因果[[Meta-analysis\|元分析]]，实证检验了显性讲授可靠过程规程对突破非结构化探究瓶颈的因果促进作用，为可靠[[Epistemology\|认识论]]过程的可教性提供了大样本元分析证据。

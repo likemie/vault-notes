@@ -71,7 +71,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **全球教育产业（Global Education Industry, GEI）**是指教育实践、供给、研究和政策日益被经济理性形塑的跨国[[Champ\|场域]]，涵盖经济化（economization）、市场化（marketization）、私有化（privatization）、商品化（commodification）和金融化（financialization）等多重过程，将教育重构为一个日益全球化并由私营组织管理的部门（Verger et al., 2016, p. 3, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p. 42]]）。在新自由主义全球治理下，它还通过可测量性（measurability）和绩效问责制（accountability）将教育实践及课程政策引向全球经济竞争轨道，侵蚀传统的教育公共属性与整体性价值（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]]）。
+> **全球教育产业（Global Education Industry, GEI）** 是指教育实践、供给、研究和政策日益被经济理性形塑的跨国[[Champ\|场域]]，涵盖经济化（economization）、市场化（marketization）、私有化（privatization）、商品化（commodification）和金融化（financialization）等多重过程，将教育重构为一个日益全球化并由私营组织管理的部门（Verger et al., 2016, p. 3, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p. 42]]）。在新自由主义全球治理下，它还通过可测量性（measurability）和绩效问责制（accountability）将教育实践及课程政策引向全球经济竞争轨道，侵蚀传统的教育公共属性与整体性价值（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念不仅指向营利性教育产品和服务的跨国生产与消费，也指向一套关于教育效能与创新的新自由主义[[Discourse|话语]]系统和软治理技术。
@@ -167,7 +167,7 @@ updated: 2026-10-16
 > 这一命题群剖析数字教育技术（EdTech）的垄断、平台化运作以及背后的资本逻辑，分析算法技术如何将教师矮化为工具执行者，并消除地域文化多样性以推广硅谷标准的教学假设。
 
 > [!claim] <Amos, S.>
-> 数字化之所以在 GEI 中表现出不可逆的强力扩张，是因为它受到三重利益机制的相互强化：首先是商业巨头追求的高额**利润（Profit）**；其次是由国际组织和慈善机构推动的、作为道德合法性外衣的教育**正义与平等（Justice & Equality）**叙事；最后是教师**专业发展（Professional Development）**对[[Learning Analytics\|学习分析]]和个性化算法的需求。三者螺旋上升，导致“去数字化”在现实中近乎不可能（[[Argument_Amos_2022_Springer\|Amos, 2022, pp. 56–57]]）。
+> 数字化之所以在 GEI 中表现出不可逆的强力扩张，是因为它受到三重利益机制的相互强化：首先是商业巨头追求的高额**利润（Profit）**；其次是由国际组织和慈善机构推动的、作为道德合法性外衣的教育**正义与平等（Justice & Equality）** 叙事；最后是教师**专业发展（Professional Development）** 对[[Learning Analytics\|学习分析]]和个性化算法的需求。三者螺旋上升，导致“去数字化”在现实中近乎不可能（[[Argument_Amos_2022_Springer\|Amos, 2022, pp. 56–57]]）。
 
 > [!claim] <Jornitz, E., & Klinge, A.>
 > GEI 中的数字学习平台（如专有软件、App）并不是中立的工具，而是承载了特定资本主义企业理念的“硅谷帝国主义”（Silicon Valley imperialism）载体。它们通过代码设计限制了教学的可能性，将[[Knowledge Production\|知识生产]]的手段集中于少数跨国技术寡头手中，在全球推广标准化的学习行为模式，否认地方文化与课程体系的多样性（[[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp. 231–232, 246]]）。
@@ -215,8 +215,8 @@ updated: 2026-10-16
 > - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] — 分析了全球教育产业作为[[Discourse|话语]]与物质的[[Champ\|场域]]，如何深度介入和形塑[[Geopolitics of Higher Education\|高等教育的地缘政治]]转型。
 > - [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] — 探究了[[Corporate Education\|企业教育]]市场的演进史，揭示了在线学习寡头企业通过证书体系和网络效应确立市场主导地位的过程。
 > - [[Argument_Amos_2022_Springer\|Amos (2022)]] — 提出了推动 EdTech 扩张的“利润-正义-专业发展”三重驱动力框架，指出数字化的强力锁定特征。
-> - [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge (2022)]] — 探讨了在数字时代，专有软件如何将特定教学假设编码进算法中，从而实现对教学关系的全球标准化重塑。
-> - [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff (2024)]] — 从历史与哲学视角追溯了芬兰[[Phenomenon-Based Learning\|现象本位学习]]（PhBL）的教化与[[Phenomenology\|现象学]]根源，揭示了其在被政策收纳时所面临的技能原子化张力。
+> - [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz and Klinge (2022)]] — 探讨了在数字时代，专有软件如何将特定教学假设编码进算法中，从而实现对教学关系的全球标准化重塑。
+> - [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024)]] — 从历史与哲学视角追溯了芬兰[[Phenomenon-Based Learning\|现象本位学习]]（PhBL）的教化与[[Phenomenology\|现象学]]根源，揭示了其在被政策收纳时所面临的技能原子化张力。
 
 ---
 

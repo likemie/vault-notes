@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Alternate Uses Test
@@ -130,5 +130,5 @@ updated: 2026-10-15
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
 > | 原始版（Guilford AUT） | 英语（美国） | 中小学生、大学生及成年人 | 6 项常用物品 | 确立流畅性、灵活性、原创性与精致性四维经典手工计分规程 | Guilford (1967, 1978) |
-> | 语义距离自动化计分版（SemDis AUT） | 英语/多语言 | 全球科研被试 | 3–10 项物品 | 基于大语言模型与语义向量空间（GloVe / Word2Vec / BERT）自动计算答案与物品的余弦距离，实现原创性客观量化 | Beaty & Johnson (2021) |
+> | 语义距离自动化计分版（SemDis AUT） | 英语/多语言 | 全球科研被试 | 3–10 项物品 | 基于大语言模型与语义向量空间（GloVe / Word2Vec / BERT）自动计算答案与物品的余弦距离，实现原创性客观量化 | Beaty and Johnson (2021) |
 > | 中文修订版与计算机自适应版 | 中文（中国大陆/港台） | K-12 与高等教育学生 | 4–6 项[[Going Native\|本土化]]物品 | 替换[[Cultural Validity\|文化适切性]]物品，开发自动化中文词向量评分算法 | 本土心理学研究修订 |

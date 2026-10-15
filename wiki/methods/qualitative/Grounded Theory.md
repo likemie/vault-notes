@@ -178,7 +178,7 @@ updated: 2026-10-16
 ---
 
 ### 3. 范畴包容层级与浅层控制
-编码构建的产物形成自下而上的包容层级（hierarchies of subsumption）：下位描述代码归并于分析范畴，分析范畴统领于主轴范畴，最终汇聚于核心范畴。格雷厄姆·吉布斯（Graham Gibbs, 2007, pp. 75–77）警示，编码树必须保持**浅层结构（shallow hierarchies）**而非过度嵌套的深层结构，避免分类系统二次碎片化而削弱核心理论的穿透力（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 562]]）。
+编码构建的产物形成自下而上的包容层级（hierarchies of subsumption）：下位描述代码归并于分析范畴，分析范畴统领于主轴范畴，最终汇聚于核心范畴。格雷厄姆·吉布斯（Graham Gibbs, 2007, pp. 75–77）警示，编码树必须保持**浅层结构（shallow hierarchies）** 而非过度嵌套的深层结构，避免分类系统二次碎片化而削弱核心理论的穿透力（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 562]]）。
 
 ---
 
@@ -278,5 +278,5 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011)]] — 整合第 30 章编码三阶进阶与[[Story Line\|故事线]]规程、第 28 章计算机辅助理论生成及第 29 章[[Constant Comparison\|持续比较法]]，系统剖析扎根理论从经验切片到[[Central Phenomenon\|核心范畴]]构建的操作规程与去情境化防范。
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 阐释扎根理论聚焦社会互动过程的[[Research Question\|研究问题]]设计逻辑，系统论述基于[[Theoretical Sampling\|理论抽样]]与多阶段编码生成实质性解释理论的完整研究规程（Ch. 1, 7, 9）。
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 阐释扎根理论聚焦社会互动过程的[[Research Question\|研究问题]]设计逻辑，系统论述基于[[Theoretical Sampling\|理论抽样]]与多阶段编码生成实质性解释理论的完整研究规程（Ch. 1, 7, 9）。
 > - [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] — 采用扎根理论构建方法（Eisenhardt, 1989; Glaser & Strauss, 1967），针对 [[DARPA]] 微系统技术办公室跨越 16 年的半导体关键材料资助案例展开概念化编码与持续比较，自下而上提炼出公共代理人识别方向、播撒主题、工作坊强制知识流动、第三方背书与断乳等 5 项核心非正式治理机制，建构出[[Embedded Network Governance|嵌入型网络治理]]实质性理论。

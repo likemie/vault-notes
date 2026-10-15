@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Guizot Law of 1833
@@ -230,4 +230,4 @@ updated: 2026-10-15
 > | [[François Guizot]] | 人物 | 法国公共教育部部长，主导法案提交、审议与通谕推行。 |
 | [[Johann Wilhelm Süvern]] | 人物 | 普鲁士 1819 草案起草者，为基佐法案提供核心技术蓝本。 |
 | [[Victor Cousin]] | 人物 | 作为核心理论家和起草人，以其国家公共资源法哲学主导将普鲁士经验写入该法案。 |
-> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] | 论证 | 提供基佐法案吸收[[Prussian Draft Education Law of 1819\|聚芬法案]]的技术条款、四大法定建制与大资产阶级统治辩护的系统文本证据。 |
+> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] | 论证 | 提供基佐法案吸收[[Prussian Draft Education Law of 1819\|聚芬法案]]的技术条款、四大法定建制与大资产阶级统治辩护的系统文本证据。 |

@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Primary and Secondary Documents
@@ -85,7 +85,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **一手文献（Primary [[Document]] / Primary Source，原始文献）**在历史与[[Documentary Analysis\|文献研究]]中是由事件目击者或参与者作为直接记录而生产的原材料；在当代教育实证与循证研究中，特指直接报告研究设计、抽样、原始组别统计与未调整[[Effect Size\|效应量]]的原始学术期刊论文与独立评估报告。**二手文献（Secondary Document / Secondary Source，转译或改写文献）**是通过对一手文献进行选择、分析、综合或通俗改写形成的阐述（如[[Systematic Review\|系统综述]]、证据摘要、清算所工具包等），为使用者提供进入特定领域的导航入口，但经过了中介作者的分析过滤。[[Argument_QiMei_2015_EducationalResearchMethods\|(齐梅, 2015)]]; [[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 576–588)]]
+> **一手文献（Primary [[Document]] / Primary Source，原始文献）** 在历史与[[Documentary Analysis\|文献研究]]中是由事件目击者或参与者作为直接记录而生产的原材料；在当代教育实证与循证研究中，特指直接报告研究设计、抽样、原始组别统计与未调整[[Effect Size\|效应量]]的原始学术期刊论文与独立评估报告。**二手文献（Secondary Document / Secondary Source，转译或改写文献）** 是通过对一手文献进行选择、分析、综合或通俗改写形成的阐述（如[[Systematic Review\|系统综述]]、证据摘要、清算所工具包等），为使用者提供进入特定领域的导航入口，但经过了中介作者的分析过滤。[[Argument_QiMei_2015_EducationalResearchMethods\|(齐梅, 2015)]]; [[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 576–588)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 一手文献指向原始数据与因果事实的直接记录；二手文献是在一手文献基础上提炼、分类和转译的派生产物。

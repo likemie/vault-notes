@@ -61,7 +61,7 @@ related_methods:
 confidence: high
 status: completed
 created: 2026-08-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Deficit Model of Science Communication
@@ -189,8 +189,8 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **公共信任危机命题** | 单向科普无法化解信任危机，信任取决于治理透明度与双向参与 | 科技风险争议、公共卫生事件与国家宏观科技治理 | [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]; House of Lords (2000) |
-> | **教育情境抵触与因果失效命题** | 单向推送因果效应为零，且因忽视教学情境逻辑而触发教师心理防御与专业疏离 | 教育科研成果转化、教师教育与循证教学改革、传播策略设计 | [[Argument_Besa_2024_UW\|Besa (2024)]]; Bauer & Kollar (2023); Lord et al. (2017); [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] |
-> | **概念转变沟通与对话共创命题** | 科学传播需转向双向递归对话与情境化概念转变沟通 | 教学迷思破除、二阶[[Knowledge Mediation\|知识中介]]服务与教师专业研修 | Götzfried et al. (2022); Reinmann & Brase (2022) |
+> | **教育情境抵触与因果失效命题** | 单向推送因果效应为零，且因忽视教学情境逻辑而触发教师心理防御与专业疏离 | 教育科研成果转化、教师教育与循证教学改革、传播策略设计 | [[Argument_Besa_2024_UW\|Besa (2024)]]; Bauer and Kollar (2023); Lord et al. (2017); [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] |
+> | **概念转变沟通与对话共创命题** | 科学传播需转向双向递归对话与情境化概念转变沟通 | 教学迷思破除、二阶[[Knowledge Mediation\|知识中介]]服务与教师专业研修 | Götzfried et al. (2022); Reinmann and Brase (2022) |
 
 ---
 

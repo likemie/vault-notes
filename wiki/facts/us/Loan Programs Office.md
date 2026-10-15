@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Loan Programs Office
@@ -69,7 +69,7 @@ updated: 2026-10-15
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **[[Department of Energy|美国能源部]]贷款项目办公室（DOE Loan Programs Office, LPO）**是设立于美国能源部（[[Department of Energy|DOE]]）内部的专业化公共开发性金融与前沿产业投资机构。LPO 拥有国会依法授权的逾 4000 亿美元直接贷款与贷款担保额度，其核心法定使命在于充当战略性[[Patient Capital|耐心资本]]，为无法获得商业银行融资的首台套（First-of-a-kind）清洁能源技术、先进电池制造、低碳钢铁及关键电网基础设施提供大额过桥债务融资，跨越从技术中试走向规模商业化的“[[Valley of Death|死亡之谷]]”。在当代产业政策理论中，LPO 被视为国家重构内部专业能力与践行[[Embedded Autonomy|嵌入式自主性]]的典范治理实体。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 6–7, 10–12)]]
+> **[[Department of Energy|美国能源部]]贷款项目办公室（DOE Loan Programs Office, LPO）** 是设立于美国能源部（[[Department of Energy|DOE]]）内部的专业化公共开发性金融与前沿产业投资机构。LPO 拥有国会依法授权的逾 4000 亿美元直接贷款与贷款担保额度，其核心法定使命在于充当战略性[[Patient Capital|耐心资本]]，为无法获得商业银行融资的首台套（First-of-a-kind）清洁能源技术、先进电池制造、低碳钢铁及关键电网基础设施提供大额过桥债务融资，跨越从技术中试走向规模商业化的“[[Valley of Death|死亡之谷]]”。在当代产业政策理论中，LPO 被视为国家重构内部专业能力与践行[[Embedded Autonomy|嵌入式自主性]]的典范治理实体。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 6–7, 10–12)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 依据美国《2005 年能源政策法》（Energy Policy Act of 2005）第十七条正式设立；旨在解决革命性清洁技术由于前期资本投入巨大、技术风险未完全验证而面临的商业信贷[[Market Failure|市场失灵]]。

@@ -47,14 +47,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Informed Consent
 
 ## 定义
 
 > [!def] 知情同意
-> 知情同意（informed consent）是[[Research Ethics\|研究伦理]]的基本程序：研究者在收集数据之前，须向潜在参与者提供书面文件，说明研究的关键信息，参与者在完全自愿的基础上签署同意后方可参与。Diener & Crandall (1978, p. 57) 将其定义为"个体在被告知可能影响其决定的事实后，选择是否参与调查的程序"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 77–79]]）。
+> 知情同意（informed consent）是[[Research Ethics\|研究伦理]]的基本程序：研究者在收集数据之前，须向潜在参与者提供书面文件，说明研究的关键信息，参与者在完全自愿的基础上签署同意后方可参与。Diener and Crandall (1978, p. 57) 将其定义为"个体在被告知可能影响其决定的事实后，选择是否参与调查的程序"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 77–79]]）。
 >
 > 参与是自愿的，研究者不得强迫参与者签署同意书。知情同意既是法律要求（美国 共同规则（[[Common Rule 2018\|Common Rule]]） 对 [[Institutional Review Board\|IRB]] 审批的规定），也是研究伦理的基石。它的边界在于：不等于一次性签字即告完成——在质性、[[Emergence\|涌现]]性研究中必须持续协商；也不等于 [[Institutional Review Board\|IRB]] 审批，后者是机构层面的审查机制。在 [[University-Industry Collaboration\|产学合作]]中，因共同规则的大学-企业适用不对称，知情同意成为协议谈判中的不可协商前提。
 
@@ -77,7 +77,7 @@ IRB 审批通常要求研究者提交知情同意书作为审批材料的一部�
 
 ## 核心要素
 
-Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 77–79]]）：
+Diener and Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 77–79]]）：
 
 > [!feature] 知情同意的四个前提要素
 > - **能力（Competence）**
@@ -125,7 +125,7 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 ## 儿童与弱势群体
 
 > [!warning] 与儿童的权力不对称
-> 许多教育研究涉及无法与研究者处于平等地位的儿童。Fine & Sandstrom (1988) 建议：尽管缩小儿童与成人研究者之间的权力差距是可取的，但这种差异仍然存在，其消除可能在伦理上是不可取的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 79–82]]）。
+> 许多教育研究涉及无法与研究者处于平等地位的儿童。Fine and Sandstrom (1988) 建议：尽管缩小儿童与成人研究者之间的权力差距是可取的，但这种差异仍然存在，其消除可能在伦理上是不可取的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 79–82]]）。
 
 > [!timeline] 未成年人的知情同意两阶段
 > - **第一阶段：征询负责成年人的许可**
@@ -134,7 +134,7 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 >   儿童必须被给予真实和合法的机会说他们不想参加。
 
 > [!tip]- 针对年幼儿童和无法决策的儿童
-> - **非常年幼的儿童** 即使他们不理解什么是研究，也应给予某种解释。例如"一个大人会看着他们并和他们一起玩"可能足以提供与儿童理解力一致的知情同意程度。Fine & Sandstrom (1988) 评论："应该尽可能多地告诉儿童，即使他们中的一些人无法理解完整的解释。他们的年龄不应削弱他们的权利"
+> - **非常年幼的儿童** 即使他们不理解什么是研究，也应给予某种解释。例如"一个大人会看着他们并和他们一起玩"可能足以提供与儿童理解力一致的知情同意程度。Fine and Sandstrom (1988) 评论："应该尽可能多地告诉儿童，即使他们中的一些人无法理解完整的解释。他们的年龄不应削弱他们的权利"
 > - **无法满足能力标准的儿童**（如心理障碍儿童群体）：遵循机构或地方当局指南。在缺乏这些指南的情况下，可通过获得校长作为 in loco parentis 或由家长委托负责提供知情同意的代理人的许可
 > - **极端形式的研究** 家长必须事先完全知情并征得同意
 > - **无论研究性质如何** 如果儿童表现出不适或压力的迹象，研究应立即终止
@@ -200,7 +200,7 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 > 核心问题是：正式知情同意是否会导致研究回避脆弱群体和社区层面的伦理问题？
 > >
 > > - **Humphreys（1975, p. 169）** 正式知情同意可能导致研究只关注容易研究的主题，忽视脆弱和排斥群体。一个社会科学家对这个人能做的最大的伤害就是忽视他。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|(Cohen et al., 2011, p. 84)]]
-> > - **Howe & Moses（1999, pp. 33–34）** 知情同意不仅意味着个体的同意，还包括社区的同意——由个体社区成员来给予知情同意让社会研究者窥视社区的社会生活，并非总是他们能给予的。
+> > - **Howe and Moses（1999, pp. 33–34）** 知情同意不仅意味着个体的同意，还包括社区的同意——由个体社区成员来给予知情同意让社会研究者窥视社区的社会生活，并非总是他们能给予的。
 
 ---
 ---

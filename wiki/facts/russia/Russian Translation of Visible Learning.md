@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 ## 背景
 
@@ -49,7 +49,7 @@ updated: 2026-10-15
 > - **2017 年** — Hattie 的 *[[Visible Learning]]* 由"Natsional'noe obrazovanie"（国民教育）出版社翻译出版，该出版社隶属于 Prosveshchenie（教育出版社）集团([[Argument_Golovchin_2019_ESC\|Golovchin, 2019, p.232]])
 > - 该书出版后在俄罗斯教育界引起广泛关注和讨论，包括教师网络研讨会（webinars）层面的积极传播
 > - **2018 年** — N.A. Borisenko 在 *Voprosy obrazovaniya*（Educational Studies）发表书评，称 VL 的出版是"近年来翻译教育文献出版领域的主要事件之一"，并指出该书是"迄今为止唯一对影响学童教育成就的最重要因素进行评估的科学著作"([[Argument_Golovchin_2019_ESC\|Golovchin, 2019, p.237, citing Borisenko, 2018]])
-> - I.V. Vachkov & S.N. Vachkova（2018）基于对 Hattie 理念的分析，得出结论认为有必要使用[[Meta-analysis\|元分析]]来"检验教学创新的生产力"([[Argument_Golovchin_2019_ESC\|Golovchin, 2019, p.237]])
+> - I.V. Vachkov and S.N. Vachkova（2018）基于对 Hattie 理念的分析，得出结论认为有必要使用[[Meta-analysis\|元分析]]来"检验教学创新的生产力"([[Argument_Golovchin_2019_ESC\|Golovchin, 2019, p.237]])
 > - E.A. Sokolova（2017）发现 Hattie 的研究与俄罗斯联邦国家教育标准（FSES）中关于培养学生[[Critical Thinking\|批判性思维]]的规定存在联系
 
 ## 关键文件／声明
@@ -72,7 +72,7 @@ updated: 2026-10-15
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - **俄语支持阵营（Borisenko, Vachkov, Sokolova）**VL 为教师效能提供了科学基础，与 FSES 标准一致
+> - **俄语支持阵营（Borisenko, Vachkov, Sokolova）** VL 为教师效能提供了科学基础，与 FSES 标准一致
 > - **俄语批评阵营（Golovchin）** VL 的方法论基础不可靠、文化不适配、可能加剧教师流失
 > - **西方批评阵营（Snook et al., Terhart, Myburgh, McKnight & Whitburn）** 方法论缺陷（异构数据、"苹果与橘子"比较、d=0.40 阈值任意）和文化政治问题（新自由主义监控、能力主义、性别歧视）
 

@@ -35,7 +35,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Student Learning Research
@@ -139,7 +139,7 @@ updated: 2026-10-15
 > - **1976 — 瑞典阅读研究形成起点** Marton & Säljö (1976) 通过阅读任务区分表层与[[Surface and Deep Learning\|深层学习]]，把研究焦点转向学生如何处理具体任务。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 59–60)]]
 > - **1979 — 澳大利亚路线并行发展** Biggs (1979) 从认知心理学出发研究学习过程与结果质量，起点不同但同样关注学生在情境中的主动活动。[[Argument_Biggs_1999_HERD\|Biggs (1999, p. 60)]]
 > - **1981 — [[Phenomenography\|现象图式学]]获得命名** Marton (1981) 用现象图式学指称从早期学生学习研究发展出的理论传统。[[Argument_Biggs_1999_HERD\|Biggs (1999, p. 60)]]
-> - **1983–1987 — 英国和澳大利亚研究汇流** Entwistle & Ramsden (1983) 从个体差异心理学推进英国路线，Biggs (1987) 继续发展澳大利亚路线；不同框架逐渐围绕学生在学习情境中的活动形成共同问题。[[Argument_Biggs_1999_HERD\|Biggs (1999, p. 60)]]
+> - **1983–1987 — 英国和澳大利亚研究汇流** Entwistle and Ramsden (1983) 从个体差异心理学推进英国路线，Biggs (1987) 继续发展澳大利亚路线；不同框架逐渐围绕学生在学习情境中的活动形成共同问题。[[Argument_Biggs_1999_HERD\|Biggs (1999, p. 60)]]
 > - **1999 — 学习理论转化为教学设计** [[Argument_Biggs_1999_HERD\|Biggs (1999)]] 把现象图式学和[[Constructivist Paradigm\|建构主义]]的共同命题整合进[[Constructive Alignment\|建构性对齐]]，使学生学习研究成为课程目标、活动和评估设计的理论基础。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 60–64)]]
 
 ---

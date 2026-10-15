@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Evidence Era
@@ -122,7 +122,7 @@ updated: 2026-10-15
 > [!concept-lens] 合法化机制的修辞演进
 > 探讨教育政策为何超越简单的指标审计，演进为系统性吸纳学术引文与实验修辞的复合治理模式。
 
-> [!claim] [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]]
+> [!claim] [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]]
 > **合法化形式的学术化跃迁** 政策合法化不再仅仅依赖量化[[Performance Indicators\|绩效指标]]，而是广泛吸收学术文献、研究反思与临床证据；1983 年白皮书《教学质量》仅有 7 条内部报告引用，而 2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]包含 34 条学术与国际引文，标志着政策文本从行政指令向学术化论证的彻底转型。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 90–91, p. 96)]]
 
 ---
@@ -132,7 +132,7 @@ updated: 2026-10-15
 > [!concept-lens] 治理神话与权力把关
 > 揭示证据时代表象下的[[Scientism\|科学主义]]光环与深层政治集权之间的制度张力。
 
-> [!claim] [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]]
+> [!claim] [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]]
 > **[[Rationalized Myth\|合理化神话]]与守门把关** 诉诸证据已演变为一种不可挑战的主导性[[Rationalized Myth\|合理化神话]]；政府通过充当[[Gatekeepers\|守门人]]，在倡导分权办学的表象下，借助[[Carter Review of Initial Teacher Training\|卡特审查]]与核心框架实施严格的远程中央控制，使证据生产在适宜性逻辑驱动下演进为[[Policy-Based Evidence-Making\|基于政策的证据制造]]。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 91–95)]]
 
 ---
@@ -152,7 +152,7 @@ updated: 2026-10-15
 > [!dev-timeline] 概念演变
 > - **1980s–1990s — 行政指令与测量初期** 1984 年成立[[Committee for the Accreditation of Teacher Education\|教师教育认证委员会]]（CATE），开创依据督导报告证据进行资质认证的显性治理先河，但政策文本仍以行政指令为主。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 90)]]
 > - **2000s–2010s — 测量时代（Age of Measurement）的高潮** 比斯塔提出测量时代概念，批判标准化测验、审计文化与[[Governing by Numbers\|数字治理]]对教育民主价值的侵蚀。
-> - **2010s 至今 — 证据时代（Evidence Era）的确立** [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] 提出证据时代概念，论证治理[[Paradigm\|范式]]从单一数据测量扩展为包含学术引文、[[Randomised Controlled Trials\|RCT]] 实验、医学临床与国际最佳实践的复合[[Evidence Network\|证据网络]]。
+> - **2010s 至今 — 证据时代（Evidence Era）的确立** [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] 提出证据时代概念，论证治理[[Paradigm\|范式]]从单一数据测量扩展为包含学术引文、[[Randomised Controlled Trials\|RCT]] 实验、医学临床与国际最佳实践的复合[[Evidence Network\|证据网络]]。
 
 ---
 
@@ -178,5 +178,5 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] — 系统提出证据时代假说，结合英格兰 1983–2019 年教师教育改革政策演变与 20 位[[Elite Interview\|精英访谈]]，揭示了证据作为[[Rationalized Myth\|合理化神话]]的运作机制。
+> - [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] — 系统提出证据时代假说，结合英格兰 1983–2019 年教师教育改革政策演变与 20 位[[Elite Interview\|精英访谈]]，揭示了证据作为[[Rationalized Myth\|合理化神话]]的运作机制。
 

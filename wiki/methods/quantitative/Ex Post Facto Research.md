@@ -51,7 +51,7 @@ related_facts: []
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Ex Post Facto Research
 
@@ -156,7 +156,7 @@ Lord（1973, p. 6）提出了事后回溯研究的八个阶段（pp. 315–316�
 > - 政治/宗教归属与态度的关系
 > - 学校成就与社会阶层、种族、性别、智力等自变量的关系
 > - Stables（1990）大样本研究混合与单性别学校学生差异
-> - Arnold & Atkins（1991）小样本研究听障学生的社会与情感适应
+> - Arnold and Atkins（1991）小样本研究听障学生的社会与情感适应
 
 ---
 

@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-07-22'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Template Analysis
 
@@ -111,4 +111,4 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 在 NVivo 11 中运用模板分析将[[Third Generation Activity Theory\|第三代活动理论]]六构件[[Operationalization\|操作化]]为[[Coding in Qualitative Research\|质性编码]]节点，剖析中国 4 所案例学校的改革机制。
+> - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 在 NVivo 11 中运用模板分析将[[Third Generation Activity Theory\|第三代活动理论]]六构件[[Operationalization\|操作化]]为[[Coding in Qualitative Research\|质性编码]]节点，剖析中国 4 所案例学校的改革机制。

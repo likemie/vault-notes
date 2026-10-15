@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # William H. Schmidt
@@ -147,6 +147,6 @@ updated: 2026-10-15
 > | [[TIMSS]] | 国际测评 | 担任全美研究协调员，将跨国课程数据转译为推动国家改革的实证武器。 |
 > | [[National Governors Association]] | 组织机构 | 作为核心学术顾问直接向全美州长协会宣讲国际对标经验。 |
 > | [[Achieve]] | 智库机构 | 深度参与 Achieve 主导的国际对标咨询委员会并共同起草奠基性白皮书。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证文献 | 详细记录施密特作为学者型[[Policy Entrepreneur\|政策企业家]]在 CCSS 各阶段动员研究证据的研究。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 详细记录施密特作为学者型[[Policy Entrepreneur\|政策企业家]]在 CCSS 各阶段动员研究证据的研究。 |
 
 ---

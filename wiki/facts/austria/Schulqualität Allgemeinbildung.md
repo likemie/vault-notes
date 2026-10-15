@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Schulqualität Allgemeinbildung
@@ -75,7 +75,7 @@ updated: 2026-10-15
 >   1. **学校质量协调员（SQA-Koordinator/in）** 每所学校选拔并培训 1 至 2 名专职骨干教师，协助校长统筹校本评估与教研排程；
 >   2. **三年期校本发展规划（Schulentwicklungsplan, SEP）** 明确设定两大发展主题（主题一：课堂教学与学习文化改进；主题二：学校组织与管理文化发展）；
 >   3. **在线质量工具箱与自评清单** 提供涵盖[[Classroom Observation|课堂观察]]、学生反馈与家校沟通的标准测度工具。
-> - **约束机制** 实行基于**成效与目标协定对话（Bilanz- und Zielvereinbarungsgespräche）**的软性契约治理。学校督导员定期入校，基于统考监控数据与学校自评报告，与校长展开双向专业研讨，共同签订为期一至三年的书面目标责任协定，作为后续督导追踪的法定义务依据。
+> - **约束机制** 实行基于**成效与目标协定对话（Bilanz- und Zielvereinbarungsgespräche）** 的软性契约治理。学校督导员定期入校，基于统考监控数据与学校自评报告，与校长展开双向专业研讨，共同签订为期一至三年的书面目标责任协定，作为后续督导追踪的法定义务依据。
 
 > [!citation-card] 成效与目标协定对话的制度定位
 > 在普通学校质量保障体系（SQA）框架下展开的定期成效与目标协定对话，为学校督导部门提供了一个关键契机：如果督导员具备相应的专业指导能力并以此导向组织会谈，他们便能够促使学校领导者切实理解并践行[[Evidence-Based School Development\|循证学校发展]]的思维方式、工作规范与实践推论。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, p. 33)]]

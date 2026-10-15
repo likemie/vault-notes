@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-09-21
+updated: 2026-10-16
 ---
 
 # Views of Nature of Science Questionnaire
@@ -130,7 +130,7 @@ VNOS 的核心测量[[Construct|构念]]为[[Formal Epistemology|形式认识论
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果与批评 |
 > |---|---|---|---|---|
 > | [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] | VNOS（各子版本） | 用于评估中小学生与职前教师的形式[[Nature of Science\|科学本质观]]，及探究教学干预对[[Epistemology\|认识论]]发展的成效。 | 评分者一致性信度（Cohen's $\kappa > 0.80$）；内容效度经多位科学哲学家与科学教育专家审定。 | 揭示了[[Formal Epistemology\|形式认识论]]评估与[[Practical Epistemology\|实践认识论]]表现的严重割裂。许多在 VNOS [[Questionnaire\|问卷]]上表现出幼稚素朴观的学生，在微观探究实践中却能自发调动严谨的证据协调与模型评估能力；反之，在 VNOS 上能背诵标准知情观表述的学生，在实际实验中往往表现出教条确认偏误。VNOS 测量的更多是被试对遥远专业科学的脱域刻板印象，而非其真实的[[Epistemic Practices\|认识论实践]]能力。 |
-> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] | VNOS 标准量表及同类问卷 | 审视科学教育中基于调查量表的认识论测验与基于课堂话语的认识论实践之间的[[Paradigm\|范式]]差异。 | 针对问卷测量效度与[[Ecological Validity\|生态效度]]的批判性理论审视。 | 指出将科学本质简化为问卷测试中的命题记忆，容易导致教学退化为应试式标准答案灌输。科学认识论不能仅靠脱离情境的问卷测量，必须将认识论主体定位于微观协商共同体，通过课堂交互人种志与[[Discourse Analysis\|话语分析]]考察学生在提出、沟通、评估与合法化知识主张过程中的真实[[Epistemic Practices\|认识论实践]]。 |
+> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] | VNOS 标准量表及同类问卷 | 审视科学教育中基于调查量表的认识论测验与基于课堂话语的认识论实践之间的[[Paradigm\|范式]]差异。 | 针对问卷测量效度与[[Ecological Validity\|生态效度]]的批判性理论审视。 | 指出将科学本质简化为问卷测试中的命题记忆，容易导致教学退化为应试式标准答案灌输。科学认识论不能仅靠脱离情境的问卷测量，必须将认识论主体定位于微观协商共同体，通过课堂交互人种志与[[Discourse Analysis\|话语分析]]考察学生在提出、沟通、评估与合法化知识主张过程中的真实[[Epistemic Practices\|认识论实践]]。 |
 
 ---
 
@@ -144,5 +144,5 @@ VNOS 的核心测量[[Construct|构念]]为[[Formal Epistemology|形式认识论
 > | VNOS-A | 英语 / 美国 | 高中生与大学生 | 7 题 | 原始开放式问答架构，首次突破强制选择式[[Multiple-Choice Questions\|选择题]]局限 | Lederman & O'Malley (1990) |
 > | VNOS-B | 英语 / 美国 | 职前科学教师 | 7 题 | 增加了关于理论与定律关系、[[Creativity\|创造性]]角色及实验必要性的情境探查题 | Abd-El-Khalick et al. (1998) |
 > | VNOS-C | 英语 / 全球 | 中学生、大学生与教师（标准版） | 10 题 | 整合社会文化嵌入性、观察与推论区别、原子与恐龙灭绝争议情境，成为国际公认黄金标准版本 | Lederman et al. (2002) |
-> | VNOS-D | 英语 / 国际 | 早期中学生与大众 | 7 题 | 语言难度简化，题干缩短，更适用于普通中小学课堂常态评估 | Lederman & Khishfe (2002) |
-> | VNOS-E | 英语 / 国际 | 小学低年级学生（K-3） | 5 题 | 专为低龄儿童设计，采用图文结合与口头访谈[[Transcription in Qualitative Research\|转录]]形式 | Lederman & Ko (2004) |
+> | VNOS-D | 英语 / 国际 | 早期中学生与大众 | 7 题 | 语言难度简化，题干缩短，更适用于普通中小学课堂常态评估 | Lederman and Khishfe (2002) |
+> | VNOS-E | 英语 / 国际 | 小学低年级学生（K-3） | 5 题 | 专为低龄儿童设计，采用图文结合与口头访谈[[Transcription in Qualitative Research\|转录]]形式 | Lederman and Ko (2004) |

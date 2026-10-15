@@ -45,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-09
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Doxa
@@ -112,7 +112,7 @@ Doxa 的核心不在于"有人相信它"——而在于**没人想到要去质�
 
 ### 智识-社交分离作为 doxa
 
-[[Argument_Li_2012_Cambridge|Li (2012)]]在第 6 章中揭示，西方学校文化中的**[[Intellectual-Social Divide|智识-社交分离]]（intellectual-social divide）**是 doxa 在学校[[Champ|场域]]中运作的典型案例([[Argument_Li_2012_Cambridge|Li, 2012, pp.91–94]])。这一 doxa 表现为：学术追求与社交生活被视为相互排斥——擅长学习的人被认为"不会社交"，受欢迎的人被认为"不学习"。
+[[Argument_Li_2012_Cambridge|Li (2012)]]在第 6 章中揭示，西方学校文化中的 **[[Intellectual-Social Divide|智识-社交分离]]（intellectual-social divide）** 是 doxa 在学校[[Champ|场域]]中运作的典型案例([[Argument_Li_2012_Cambridge|Li, 2012, pp.91–94]])。这一 doxa 表现为：学术追求与社交生活被视为相互排斥——擅长学习的人被认为"不会社交"，受欢迎的人被认为"不学习"。
 
 这一案例完整展示了 doxa 的所有核心要素：
 

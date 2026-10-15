@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Practical Epistemology
@@ -157,7 +157,7 @@ updated: 2026-10-15
 > [!concept-lens] 语言游戏与行动认识论
 > 探讨知识合法性与有效证据如何在师生即时对话序列中生成。
 
-> [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]
+> [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]
 > **[[Discourse|话语]]行动中的认识论生成** 认识论并非深锁于大脑内部的静态表征，而是在微观话语和具身互动中展开的语言游戏。通过考察师生如何确立立足点、在遭遇异常数据时显化意义裂隙，并借助教具与手势搭建关系，研究者能够原生地捕捉学生如何在行动中界定何者算作有效观察与合理证据。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 149–150)]]
 
 ---
@@ -170,7 +170,7 @@ updated: 2026-10-15
 > [!claim] [[Argument_Sandoval_2005_SE\|Sandoval (2005)]]
 > **显性反思的弥合机制** 单纯让学生参与高水平探究活动，无法自发促成其高级实践认识论向专业科学形式认识论的转化。必须在探究过程中引入显性的认识论反思（explicit epistemological reflection），引导学生对比自身在探究中的权衡决策与专业科研团队的[[Knowledge Building Theory|知识建构]]机制，方能实现[[Epistemological Beliefs\|认识论信念]]的系统升级。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, pp. 649–650)]]
 
-> [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]
+> [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]
 > **教师元话语的支架价值** 教师在师生互动中使用[[Reflexivity\|反思性]]元话语（meta-discourse），提请学生反思刚才为何调用实测数据进行反驳，能够有效帮助学生识别自身话语行动背后的认识论规则，促成科学身份认同与批判性[[Scientific Literacy\|科学素养]]的生成。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 146–147, 161)]]
 
 ---
@@ -181,8 +181,8 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 来源 |
 > |---|---|---|---|
 > | **形式与实践分离** | 揭示近端实践认识论与远端形式认识论的结构性脱节 | [[Inquiry-Based Learning\|探究学习]]评价、科学本质信念测评 | [[Argument_Sandoval_2005_SE\|Sandoval (2005, p. 648)]]; Hogan (2000) |
-> | **[[Practical Epistemology Analysis\|PEA]] 意义裂隙跨越** | 运用立足点与意义裂隙刻画微观话语中的原生认识论演进 | 课堂录像分析、师生对话[[Transcription in Qualitative Research\|转录]]、概念探究活动 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 149–150)]]; Wickman & Östman (2002); Lidar et al. (2010) |
-> | **显性反思与元话语** | 确立显性认识论反思与教师元话语对实践升华的必要性 | 探究教学设计、教师课堂话语引导、科学素养生成 | [[Argument_Sandoval_2005_SE\|Sandoval (2005, p. 649)]]; Smith et al. (2000); [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, p. 161)]] |
+> | **[[Practical Epistemology Analysis\|PEA]] 意义裂隙跨越** | 运用立足点与意义裂隙刻画微观话语中的原生认识论演进 | 课堂录像分析、师生对话[[Transcription in Qualitative Research\|转录]]、概念探究活动 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, pp. 149–150)]]; Wickman & Östman (2002); Lidar et al. (2010) |
+> | **显性反思与元话语** | 确立显性认识论反思与教师元话语对实践升华的必要性 | 探究教学设计、教师课堂话语引导、科学素养生成 | [[Argument_Sandoval_2005_SE\|Sandoval (2005, p. 649)]]; Smith et al. (2000); [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, p. 161)]] |
 
 ---
 
@@ -192,7 +192,7 @@ updated: 2026-10-15
 > - **1990s — 个人认识论与信念发展研究** Perry、King & Kitchener 等学者开创个人认识论研究，将认识论视为相对稳定的阶段性心智模型，主要通过[[Questionnaire\|问卷]]和访谈测量。
 > - **2000 年 — 远端与近端认识论区分** Hogan (2000) 提出近端认识论概念；[[Argument_Sandoval_2005_SE\|Sandoval (2005)]] 正式系统阐发实践认识论（Practical Epistemology），明确将其与关于专业科学的[[Formal Epistemology\|形式认识论]]相对立。
 > - **2002–2004 年 — [[Practical Epistemology Analysis\|实践认识论分析]]（PEA）方法学创立** Wickman & Östman (2002) 与 Wickman (2004) 引入维特根斯坦语言哲学，创立微观[[Discourse Analysis\|话语分析]]工具 PEA，将实践认识论从心理信念转向课堂[[Discourse|话语]]互动行为。
-> - **2010s 至今 — 融入[[Epistemic Practices\|认识论实践]]与课堂元话语研究** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] 等学者将实践认识论与微观[[Ethnography\|人种志]]、科学实践四维行动模型及教师显性元话语结合，服务于促进包容性科学学习与培育[[Citizen Science\|公民科学]]素养。
+> - **2010s 至今 — 融入[[Epistemic Practices\|认识论实践]]与课堂元话语研究** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] 等学者将实践认识论与微观[[Ethnography\|人种志]]、科学实践四维行动模型及教师显性元话语结合，服务于促进包容性科学学习与培育[[Citizen Science\|公民科学]]素养。
 
 ---
 
@@ -224,7 +224,7 @@ updated: 2026-10-15
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] | 中小学科学探究软件（BGuILE / ExplanationConstructor）支持下的课堂 | 认知任务观察与学生探究产品[[Coding in Qualitative Research\|质性编码]] | 解释构建策略、证据调用类型、因果机制表述 | 学生在软件[[Scaffolding\|脚手架]]支持下能写出因果解释，但极少主动评估反常证据与竞争性假说 | 质性论据结构分析 | 适用于软件脚手架支持的课堂解释任务 |
-> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, p. 150)]] | 小学儿童地球形状与重力机制概念探究（Lidar et al., 2010 案例） | [[Practical Epistemology Analysis\|PEA]] 话语编码与录像微观分析 | 立足点、意义裂隙、天球仪教具操作手势 | 儿童在遭遇重力方向困惑时，通过在地球仪上放置人偶搭建新关系以跨越裂隙 | 质性[[Discourse\|话语]]序列分析 | 适用于具身模型支持的微观概念探究情境 |
+> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, p. 150)]] | 小学儿童地球形状与重力机制概念探究（Lidar et al., 2010 案例） | [[Practical Epistemology Analysis\|PEA]] 话语编码与录像微观分析 | 立足点、意义裂隙、天球仪教具操作手势 | 儿童在遭遇重力方向困惑时，通过在地球仪上放置人偶搭建新关系以跨越裂隙 | 质性[[Discourse\|话语]]序列分析 | 适用于具身模型支持的微观概念探究情境 |
 > | [[Argument_Sandoval_2005_SE\|Sandoval (2005, p. 649)]] | 实施建设性科学课程的小学高年级学生（Smith et al., 2000 案例） | 准实验对照与临床访谈设计 | [[Formal Epistemology\|形式认识论]]信念[[Questionnaire\|问卷]]与探究策略表现 | 经历持续显性认识论反思的学生，在形式认识论与探究自主性上均显著优于对照组 | 准实验组间质性对比 | 证明显性反思对弥合形式与实践认识论具有决定性意义 |
 
 ---
@@ -233,4 +233,4 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] — 正式确立实践[[Epistemology\|认识论]][[Construct\|构念]]，深入剖析其与[[Formal Epistemology\|形式认识论]]的分离特征，并论证显性认识论反思在科学探究教学中的关键转化作用。
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] — 结合微观[[Discourse Analysis\|话语分析]]，详细阐述[[Practical Epistemology Analysis\|实践认识论分析]]（PEA）的立足点与意义裂隙机理，并将实践认识论与教师元[[Discourse|话语]]引导及[[Citizen Science\|公民科学]]素养培育深度贯通。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 结合微观[[Discourse Analysis\|话语分析]]，详细阐述[[Practical Epistemology Analysis\|实践认识论分析]]（PEA）的立足点与意义裂隙机理，并将实践认识论与教师元[[Discourse|话语]]引导及[[Citizen Science\|公民科学]]素养培育深度贯通。

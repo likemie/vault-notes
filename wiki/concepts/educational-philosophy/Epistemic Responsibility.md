@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Epistemic Responsibility
@@ -187,7 +187,7 @@ updated: 2026-10-15
 > |---|---|---|---|
 > | **民主公民培育** | 认识论责任保障真实的批判性民主探究，超越形式化主动学习 | 解放教育、社会批判与民主公民素养 | [[Paulo Freire\|Freire, P.]]; [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
 > | **人机伦理守持** | 认识论责任是抵御消极认知卸载、捍卫人类认识主体性的关键底线 | 人机协同学习、统计推论与算法辅助研究 | [[Argument_Wu_2025_ER\|Wu et al. (2025)]] |
-> | **集体认知推进** | 集体认知责任驱动跨界流动、观点提升与全班分布式认知网络高密互联 | 长期协作知识建构、基于原则的科学探究共同体 | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]]; Scardamalia & Bereiter (2014) |
+> | **集体认知推进** | 集体认知责任驱动跨界流动、观点提升与全班分布式认知网络高密互联 | 长期协作知识建构、基于原则的科学探究共同体 | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]]; Scardamalia and Bereiter (2014) |
 
 ---
 

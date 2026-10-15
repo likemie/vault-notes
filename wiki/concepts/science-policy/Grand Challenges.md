@@ -73,7 +73,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **重大挑战（Grand Challenges, GCs / 社会重大挑战）**是指超越单一学科、工业部门或主权国家边界，具有高度系统复杂性、跨期性与广泛社会技术影响的重大科技与现实难题（如气候变化、清洁能源、重大疾病、先进材料与自主智能等）。在科技创新政策理论中，重大挑战标志着全球研发政策从传统的“线性资助与孤立[[Market Failure|市场失灵]]修正”向第三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]（MOIP）的[[Ontology|本体论]]跃迁。在现代科学政策与人工智能驱动的研发[[Paradigm|范式]]中，重大挑战更被[[Operationalization|操作化]]为一种**“高杠杆问题表述”（High-Leverage Problem Formulation）**与[[Pull Mechanisms for Innovation|拉动机制]]：通过设立明确的客观评测基准与开放竞争平台，将庞大无序的科学未知解空间转化为可攻克的阶段性技术阶梯。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–789)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 43–44, 62)]]
+> **重大挑战（Grand Challenges, GCs / 社会重大挑战）** 是指超越单一学科、工业部门或主权国家边界，具有高度系统复杂性、跨期性与广泛社会技术影响的重大科技与现实难题（如气候变化、清洁能源、重大疾病、先进材料与自主智能等）。在科技创新政策理论中，重大挑战标志着全球研发政策从传统的“线性资助与孤立[[Market Failure|市场失灵]]修正”向第三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]（MOIP）的[[Ontology|本体论]]跃迁。在现代科学政策与人工智能驱动的研发[[Paradigm|范式]]中，重大挑战更被[[Operationalization|操作化]]为一种 **“高杠杆问题表述”（High-Leverage Problem Formulation）** 与[[Pull Mechanisms for Innovation|拉动机制]]：通过设立明确的客观评测基准与开放竞争平台，将庞大无序的科学未知解空间转化为可攻克的阶段性技术阶梯。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–789)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 43–44, 62)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 确立了科技创新活动的“规范性转向”（Normative Turn）与“问题驱动导向”（Problem-Oriented Vector），强调创新不仅关注研发投入规模与论文数量（How much），更聚焦于公共目标与实质性技术瓶颈的突破（Where to & What for）。
@@ -197,4 +197,4 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统论述重大挑战在现代国家科技战略中的高杠杆问题表述功能，分析 [[Critical Assessment of Structure Prediction|CASP]]、[[Human Genome Project|HGP]] 与 [[DARPA]] 挑战赛的成功机理，提出基于组合搜索空间、结构化数据与盲测基准的重大挑战筛选三原则，并阐释[[Genesis Mission|创世纪计划]] 20 项国家科技挑战的组织推进逻辑。
-> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 提出第三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]理论框架，系统论述从宏观重大社会挑战向具体国家使命与政策组合的解构机制，论证公共部门[[Tilting the Playing Field|倾斜竞争场地]]与塑造市场的制度能力。
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 提出第三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]理论框架，系统论述从宏观重大社会挑战向具体国家使命与政策组合的解构机制，论证公共部门[[Tilting the Playing Field|倾斜竞争场地]]与塑造市场的制度能力。

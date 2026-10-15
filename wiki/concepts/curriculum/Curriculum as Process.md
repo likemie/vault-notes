@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-09-22
+updated: 2026-10-16
 ---
 
 # Curriculum as Process（作为过程的课程）
@@ -45,7 +45,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> **作为过程的课程（Curriculum as Process）**由劳伦斯·斯滕豪斯（Lawrence Stenhouse, 1975）确立，是反对技术控制产物模式的人文主义课程[[Paradigm\|范式]] (Stenhouse, 1975; [[Argument_Darwish_2009_Queens\|Darwish, 2009, pp. 65–67]])。该范式主张课程不应预设固定的行为结果，而应提供探究与对话的“过程原则”（procedural principles）。课程的本质是师生在具体探究中运用[[Phronesis\|实践明智]]（*Phronesis*）共同理解知识与价值的动态交互过程。
+> **作为过程的课程（Curriculum as Process）** 由劳伦斯·斯滕豪斯（Lawrence Stenhouse, 1975）确立，是反对技术控制产物模式的人文主义课程[[Paradigm\|范式]] (Stenhouse, 1975; [[Argument_Darwish_2009_Queens\|Darwish, 2009, pp. 65–67]])。该范式主张课程不应预设固定的行为结果，而应提供探究与对话的“过程原则”（procedural principles）。课程的本质是师生在具体探究中运用[[Phronesis\|实践明智]]（*Phronesis*）共同理解知识与价值的动态交互过程。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向以探究过程、开放对话与实践明智为核心的非控制性课程模式。

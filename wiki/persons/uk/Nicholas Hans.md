@@ -86,7 +86,7 @@ updated: 2026-10-16
 
 > [!person-profile] 人物档案
 > - **身份位置** 俄裔英国比较教育学家、教育史学家，伦敦大学国王学院（King's College London）比较教育学读者（Reader），与约瑟夫·劳威斯（[[Joseph Lauwerys]]）长期共同主编《世界教育年鉴》（*World Year Book of Education*）。
-> - **核心角色** 20 世纪历史-哲学学派最具方法论系统性的奠基学者，开创闻名学界的“[[Factorial Interpretive Framework|因素解释框架]]”。米特（[[Wolfgang Mitter]]）将其与德国的[[Friedrich Schneider|弗里德里希·施奈德]]并列为 20 世纪前中期（1920s–1950s）主导欧洲比较教育的“宏大历史文化全景”流派领袖；在卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）的四重论述代际框架中，汉斯与[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、[[Robert Ulich|乌利希]]共同构成了**第二代（历史-哲学与自由人文主义代际）**的学术中流砥柱；卡扎米亚斯更将学科作为多学科“[[Geisteswissenschaften|人文科学]]（Human Science）”的本质[[Epistemology|认识论]]命题追溯至汉斯倡导的教育科学（*Vergleichende Erziehungswissenschaft*）传统。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94)]]；[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140, 143–144)]]
+> - **核心角色** 20 世纪历史-哲学学派最具方法论系统性的奠基学者，开创闻名学界的“[[Factorial Interpretive Framework|因素解释框架]]”。米特（[[Wolfgang Mitter]]）将其与德国的[[Friedrich Schneider|弗里德里希·施奈德]]并列为 20 世纪前中期（1920s–1950s）主导欧洲比较教育的“宏大历史文化全景”流派领袖；在卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）的四重论述代际框架中，汉斯与[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、[[Robert Ulich|乌利希]]共同构成了**第二代（历史-哲学与自由人文主义代际）** 的学术中流砥柱；卡扎米亚斯更将学科作为多学科“[[Geisteswissenschaften|人文科学]]（Human Science）”的本质[[Epistemology|认识论]]命题追溯至汉斯倡导的教育科学（*Vergleichende Erziehungswissenschaft*）传统。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94)]]；[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140, 143–144)]]
 > - **代表贡献** 确立包含自然、宗教与世俗三大维度的因素分析法；提出以历史背景、[[National Character|国民性格]]与精神驱动力诠释学制的分析原则；将比较教育定位为具有动态改良使命、处于人文与科学边缘的广义[[Geisteswissenschaften|人文科学]]（Vergleichende Erziehungswissenschaft）；深刻辨析英美政治自由与苏联社会平等两种民主[[Paradigm|范式]]的教育局限。
 
 > [!citation-card] 人物定位的关键来源
@@ -268,7 +268,7 @@ updated: 2026-10-16
 > > [!axis] 因素分类的先验性与权重缺失
 > > 1960 年代兴起的行为主义量化学派对汉斯的因素框架展开了猛烈批评。
 > >
-> > - **Noah & Eckstein（1969）** 批评汉斯将因素预设为不证自明的决定力量，框架本身无法在不同因素之间进行相对重要性的权重权衡，也无法提供检验某个特定因素究竟应被纳入还是排除的客观经验判据。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 53)]]
+> > - **Noah and Eckstein（1969）** 批评汉斯将因素预设为不证自明的决定力量，框架本身无法在不同因素之间进行相对重要性的权重权衡，也无法提供检验某个特定因素究竟应被纳入还是排除的客观经验判据。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 53)]]
 > > - **Andreas Kazamias（2009b）** 指出汉斯的框架虽然极大地赋予了海量史料以组织条理，但其背后对[[National Character|国民性]][[Construct|构念]]的残留依赖，依然受到本质主义与同义反复解释的潜在挑战。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 55)]]
 
 > [!critique]- 批评索引

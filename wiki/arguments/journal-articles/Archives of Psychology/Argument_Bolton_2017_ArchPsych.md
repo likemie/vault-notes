@@ -60,7 +60,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: 2026-09-16
+updated: 2026-10-16
 year: 2017
 doi: ""
 citation_aliases:
@@ -168,7 +168,7 @@ citation_aliases:
 > [!line-b] 脑发育生理机制
 > - **灰质峰值与[[Synaptic Pruning\|突触修剪]] (Synaptic Pruning)** PFC 灰质密度在大约 3 岁时达到最大密度（p.12）。此后经验期望 (Experience-Expectant) 的突触修剪大量铺开，PFC 突触密度从 2 岁时比成人高 55% 快速下降至 7 岁时的仅比成人高 10%（尤其是 dlPFC 区域），清除了多余和无效率的连结。
 > - **[[Myelination\|髓鞘化]] (Myelination) 与白质线性增长** 由于轴突髓鞘化开始，白质体积增加。dlPFC 第 III 层锥体细胞的树突轴突在 2–5 岁间迅速扩张，电信号传导被显著加速。
-> - **脑激活的右侧偏向 (NIRS/[[Functional Magnetic Resonance Imaging\|fMRI]])** Moriguchi & Hiraki (2013) 利用功能成像发现，5 岁儿童只有在完美通过 DCCS 任务时才会激活右下 PFC，而成人通常激活左下 PFC；若儿童出错则右侧无激活，表明右下 PFC 是此阶段认知转换的直接神经动力（p.11）。
+> - **脑激活的右侧偏向 (NIRS/[[Functional Magnetic Resonance Imaging\|fMRI]])** Moriguchi and Hiraki (2013) 利用功能成像发现，5 岁儿童只有在完美通过 DCCS 任务时才会激活右下 PFC，而成人通常激活左下 PFC；若儿童出错则右侧无激活，表明右下 PFC 是此阶段认知转换的直接神经动力（p.11）。
 
 ---
 
@@ -182,7 +182,7 @@ citation_aliases:
 > - **更新功能的逐步落后** 数字广度任务与视觉空间更新（如 n-back任务、视觉空间模式识别 (Visuospatial Pattern Recognition)）在 7–8 岁表现出阶段性提升，但工作记忆更新 (Updating) 整体发展较慢，不能在 11 岁时成熟。
 
 > [!line-b] 脑发育生理机制
-> - **PFC 灰质体积达峰 (倒U形 轨迹)**Giedd et al. (1999) 纵向 MRI 研究发现，PFC 灰质体积在女性 11 岁、男性 12 岁时达到一生中的顶峰，随后因青春期突触修剪而下降（p.13）。dlPFC 的修剪进程显著晚于大脑其他区域。
+> - **PFC 灰质体积达峰 (倒U形 轨迹)** Giedd et al. (1999) 纵向 MRI 研究发现，PFC 灰质体积在女性 11 岁、男性 12 岁时达到一生中的顶峰，随后因青春期突触修剪而下降（p.13）。dlPFC 的修剪进程显著晚于大脑其他区域。
 > - **白质的持续髓鞘化** 4–13 岁间，PFC 白质体积随着髓鞘增厚呈线性增长，使得轴突传导电位效率最大化。
 > - **额纹状体通路 (Frontostriatal Pathway) 环路化** 利斯顿等 (Liston et al., 2006) 证明，PFC 与纹状体 (Striatum) 之间的结构性连接在此阶段显著增强，这一 frontostriatal 环路化直接预测了 Go/No-Go 任务的行为表现。fMRI 扫描显示，随着年龄增长，腹侧前额叶区域在抑制期间的激活强度不断提高。
 > - **网络分化与化学调节** 8–9 岁时，执行控制网络内部的抑制环路与更新环路开始发生功能分离 (Segregation)。在多巴胺放电 (Firing) 增强的作用下，PFC 内部的抑制性中间神经元 (Inhibitory Interneurons) 对锥体细胞的负反馈调节作用显著增强（p.14）。

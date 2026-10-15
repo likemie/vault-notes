@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-09-13
+updated: 2026-10-16
 ---
 
 # Swiss Coordination Centre for Research in Education
@@ -57,7 +57,7 @@ updated: 2026-09-13
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 瑞士教育研究协调中心（德文：Schweizerische Koordinationsstelle für Bildungsforschung, SKBF；法文：Centre suisse de coordination pour la recherche en éducation, CSRE；英文：Swiss Coordination Centre for Research in Education）是瑞士联邦政府（Federal Government）与瑞士各州教育局长联席会议（Swiss Conference of Cantonal Ministers of Education, EDK）联合设立并共同出资维持的完全独立常设机构。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]将其列为联邦制国家解决跨行政辖区分权与多方利益相关者协同的标杆[[Paradigm\|范式]]，证明了中介机构如何通过跨辖区法定联合资助突破政党选举短周期的撕扯。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]])
+> 瑞士教育研究协调中心（德文：Schweizerische Koordinationsstelle für Bildungsforschung, SKBF；法文：Centre suisse de coordination pour la recherche en éducation, CSRE；英文：Swiss Coordination Centre for Research in Education）是瑞士联邦政府（Federal Government）与瑞士各州教育局长联席会议（Swiss Conference of Cantonal Ministers of Education, EDK）联合设立并共同出资维持的完全独立常设机构。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]将其列为联邦制国家解决跨行政辖区分权与多方利益相关者协同的标杆[[Paradigm\|范式]]，证明了中介机构如何通过跨辖区法定联合资助突破政党选举短周期的撕扯。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]])
 
 > [!org-context] 机构背景与设立渊源
 > - **成立时间 / 总部地点** 成立于 1974 年，总部设在瑞士阿尔高州首府阿劳（Aarau），长期为瑞士德语区、法语区和意大利语区提供跨语种中介服务。
@@ -93,7 +93,7 @@ updated: 2026-09-13
 ## 知识治理视阈下的学理意义
 
 > [!finding-cards] SKBF / CSRE 的制度创新价值
-> - **联邦制跨辖区联合资助的稳定护城河** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]强调，中介机构的高夭折率主要归因于短视的政治预算周期；而 SKBF/CSRE 由联邦与 26 州联席会议共同出资的制度设计，使任何单一政府换届或党派轮替均无法单方面撤资，形成了极其牢固的制度护城河。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]])
+> - **联邦制跨辖区联合资助的稳定护城河** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]强调，中介机构的高夭折率主要归因于短视的政治预算周期；而 SKBF/CSRE 由联邦与 26 州联席会议共同出资的制度设计，使任何单一政府换届或党派轮替均无法单方面撤资，形成了极其牢固的制度护城河。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]])
 > - **多语种与分权体制的黏合剂** 在文化与语言高度异质的复杂系统中，SKBF/CSRE 扮演了中立的“知识聚合者”，有效解决了分权系统容易演化为“证据孤岛”的系统性难题。
 > - **学术独立与政策对齐的成熟平衡** 既非内设于部委的官僚机构（如 [[Kenniskamer]]），亦非完全边缘化的学术象牙塔，SKBF/CSRE 的长期存续证明了“法定独立 + 联合出资 + 周期性法定产出”是实现[[Knowledge Mediation\|知识中介]]长期生命力的关键路径。
 
@@ -114,4 +114,4 @@ updated: 2026-09-13
 > | [[Canadian Council on Learning]] | 机构事实 | 反面镜鉴对照；两者同为联邦制跨辖区中介，CCL 因缺乏正式法定协议断资夭折，而 SKBF/CSRE 依靠两级联合资助持续繁荣。 |
 > | [[National Institute for Educational Policy Research]] | 机构事实 | 同属“政府资助自治型”中介，NIER 依托东亚独立行政法人体制，SKBF/CSRE 依托欧洲联邦宪制协议，形成跨国模式互映。 |
 > | [[Kunnskapssenter for utdanning]] | 机构事实 | 北欧与中欧的自治型中介对比，两者皆致力于打破中央行政集权垄断，促进教育证据在分权环境下的有效利用。 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] | 论证条目 | 以 SKBF/CSRE 为联邦制多方利益相关者联合资助的代表性案例，论证打破单一政治预算周期对中介组织长期存续的决定性作用。 |
+> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 以 SKBF/CSRE 为联邦制多方利益相关者联合资助的代表性案例，论证打破单一政治预算周期对中介组织长期存续的决定性作用。 |

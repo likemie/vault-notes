@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Alain Desrosières
@@ -132,8 +132,8 @@ updated: 2026-10-15
 > - **跨国／跨领域传播** 其法文原著于 1998 年由哈佛大学出版社译介出版，迅速打破了英美量化[[Positivism|实证主义]]与欧洲批判哲学之间的壁垒，成为国际公共行政与科学技术论（[[Science and Technology Studies|STS]]）必读正典。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 结合德罗西埃的[[Space of Equivalence|等值空间]]学说，揭示 PISA 如何通过标准化技术制造跨国[[Commensuration|通约]]度量空间。
-> - [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]] — 援引德罗西埃公约理论，解构学校[[Data Infrastructure|数据基础设施]]中指标微调背后的政治裁量权。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合德罗西埃的[[Space of Equivalence|等值空间]]学说，揭示 PISA 如何通过标准化技术制造跨国[[Commensuration|通约]]度量空间。
+> - [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] — 援引德罗西埃公约理论，解构学校[[Data Infrastructure|数据基础设施]]中指标微调背后的政治裁量权。
 
 ---
 

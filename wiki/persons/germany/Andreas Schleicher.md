@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Andreas Schleicher
@@ -131,7 +131,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 权威援引其文献，揭示其作为 PISA 总设计师如何超越短期媒体轰动，将经合组织建构成规制全球公共政策的标准设定中枢。
-> - [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] — 系统解构施莱歇尔在媒体发布会上使用的 147 张演示幻灯片，揭示其迎合传媒逻辑、推销新自由主义治理愿景的技术修辞。
+> - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 系统解构施莱歇尔在媒体发布会上使用的 147 张演示幻灯片，揭示其迎合传媒逻辑、推销新自由主义治理愿景的技术修辞。
 > - [[Argument_Zhao_2020_JEC\|Zhao (2020)]] — 批判其利用东方威权[[Examination-Oriented Education\|应试教育]]体系的“自我谴责”特质粉饰 PISA 排名，进而误导西方教育政策改革。
 
 ---
@@ -174,7 +174,7 @@ updated: 2026-10-15
 
 > [!critique]- 批评索引
 > - [[2014 Open Letter on PISA]] — 83 位全球顶尖学者联名抗议其推行的大规模测验引发短期应试修补并侵蚀[[Teacher Professional Agency\|教师专业自主权]]。
-> - [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] — 揭露其在伦敦发布会运用极度迎合媒体传播的简报技术，将高度不确定的统计相关性包装为确定性的因果改革处方。
+> - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 揭露其在伦敦发布会运用极度迎合媒体传播的简报技术，将高度不确定的统计相关性包装为确定性的因果改革处方。
 > - [[Argument_Zhao_2020_JEC\|Zhao (2020)]] — 批评其将东亚高应试表现归因于学生自我谴责，掩盖了高利害测评对学生心理健康与[[Creativity\|创造力]]的深远负面损害。
 
 > [!warning] 未解问题与边界
@@ -200,5 +200,5 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 权威剖析其关于[[OECD\|经合组织]]作为独特知识枢纽与[[Policy Brokerage\|政策中介]]的制度定位，揭示大规模评估背后的全球规制雄心。
-> - [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] — 实证分析其在 [[PISA]] 发布会上的 147 张幻灯片与媒体修辞技术，解构其新自由主义教育改革蓝图。
+> - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 实证分析其在 [[PISA]] 发布会上的 147 张幻灯片与媒体修辞技术，解构其新自由主义教育改革蓝图。
 > - [[Argument_Zhao_2020_JEC\|Zhao (2020)]] — 深入评析其对中国上海 PISA 表现的文化归因，反思量化指标对威权教育体制的浪漫化遮蔽。

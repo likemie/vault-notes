@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Rationalized Myth
@@ -98,7 +98,7 @@ updated: 2026-10-15
 
 合理化神话在新制度主义教育研究中被广泛用于解释教育改革[[Discourse|话语]]的全球扩散与政策修辞演变。
 
-在英格兰教师教育政策的研究中，[[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022, pp. 90–93)]] 指出证据已演进为一种新型的主导性合理化神话。在[[New Public Management|新公共管理]]（New Public Management, NPM）语境下，政府部门与政策制定者通过在白皮书与政策规程中密集嵌入学术引文、国际经验（如芬兰或新加坡模式）以及[[Randomised Controlled Trials|随机对照试验]]等科学修辞，为政策确立毋庸置疑的正当性；然而在深层运作中，政策制定依然服从于[[Policy-Based Evidence-Making|基于政策的证据制造]]与适宜性逻辑。
+在英格兰教师教育政策的研究中，[[Argument_Helgetun_2022_JEP|Helgetun and Menter (2022, pp. 90–93)]] 指出证据已演进为一种新型的主导性合理化神话。在[[New Public Management|新公共管理]]（New Public Management, NPM）语境下，政府部门与政策制定者通过在白皮书与政策规程中密集嵌入学术引文、国际经验（如芬兰或新加坡模式）以及[[Randomised Controlled Trials|随机对照试验]]等科学修辞，为政策确立毋庸置疑的正当性；然而在深层运作中，政策制定依然服从于[[Policy-Based Evidence-Making|基于政策的证据制造]]与适宜性逻辑。
 
 ---
 

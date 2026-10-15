@@ -246,7 +246,7 @@ sources:
 
 > [!critique-fatal] 制度性扭曲：对无效干预广泛采纳的逆向激励
 > 评价体制对现实影响力的狂热追求，迫使研究者沦为自身成果的推销商，诱发了过度夸大成效与提早商业落地的学术寻租（Chubb & Watermeyer, 2017）。最为荒谬的现实案例在于：英国经济与社会研究理事会（ESRC）曾将年度影响力大奖（Celebrating Impact Prize）颁发给一项被研究者自身实证数据明确证实完全无效、但依然在中小学一线被广泛兜售推广的教育干预项目。仅仅因为干预在商业与实践中被广泛使用，就被官僚评价体制认定为顶级现实影响力，彻底背离了[[Evidence-Based Education\|循证教育]]的核心伦理。（p. 573）
-> - **隐名缘由与引用脉络** 原文明确指出此案例，但为规避英国严格的诽谤法（Defamation Act）诉讼风险并维护学术辩论的同行规范，正文中刻意隐去了具体项目名称与学者姓名，转而直接引用了 Chubb & Watermeyer (2017) 关于学者在资助方与 REF 考核压力下系统性歪曲与夸大影响力的实证研究。
+> - **隐名缘由与引用脉络** 原文明确指出此案例，但为规避英国严格的诽谤法（Defamation Act）诉讼风险并维护学术辩论的同行规范，正文中刻意隐去了具体项目名称与学者姓名，转而直接引用了 Chubb and Watermeyer (2017) 关于学者在资助方与 REF 考核压力下系统性歪曲与夸大影响力的实证研究。
 > - **学界公认指向：2014 年 ESRC 影响力大奖项目** 在英国教育学界与 ESRC 获奖档案中，该批评直接影射埃克塞特大学（University of Exeter）团队因“情境化语法写作教学”（Grammar for Writing）获得的 2014 年 ESRC 杰出社会影响力奖（Outstanding Impact in Society）。该团队自身原始数据及随后多项大规模反事实独立评估（如 EEF 资助的独立 RCT 试验 Torgerson et al., 2014 与 Gorard et al., 2016）均证实该语法教学法在全样本统考中对学生写作能力的真实增益为零；然而由于该项目被全英数千所中小学广泛购买采用，官僚评审机制将“商业市场覆盖率”错误等同于“因果有效性”，导致无效干预反获最高官方嘉奖。
 
 > [!warrant]- 论证逻辑收束：证据利用领域的方法学赤字与制度扭曲根源
@@ -311,7 +311,7 @@ sources:
 > | Wyatt et al. (1998) | 2 级（★★） | — | 负向 / 中性 | — | 临床指南的纸质与电子主动推送未能改变医生开药行为。 |
 > | Yost et al. (2015) | 2 级（★★） | — | 负向 / 中性 | — | 针对护士的循证知识普及研讨未能改变日常护理规程。 |
 > | Lewis et al. (2005) | 2 级（★★） | 负向 / 中性 | 负向 / 中性 | — | 证据宣传会议未能改善决策者态度与采购行为。 |
-> | Davis & Taylor-Vaisey (1997) | 1 级（★） | 正向提升 | 负向 / 中性 | — | 55 项研究综述证实单次短训与邮寄材料可改变认知，但对实际行为毫无影响。 |
+> | Davis and Taylor-Vaisey (1997) | 1 级（★） | 正向提升 | 负向 / 中性 | — | 55 项研究综述证实单次短训与邮寄材料可改变认知，但对实际行为毫无影响。 |
 > | Gülmezoglu et al. (2007) | 1 级（★） | 正向提升 | 负向 / 中性 | — | 生殖健康临床研讨改善了知识，但分娩处理操作零改变。 |
 > | Thompson et al. (2007) | 1 级（★） | — | 不确切 | — | 证据宣传倡导对护理实践的改变缺乏稳固证据支持。 |
 
@@ -383,7 +383,7 @@ sources:
 > | Menon et al. (2009) | 3 级（★★★） | 负向 / 中性 | 正向改善 | — | 物理治疗指南的主动实施支持改善了康复实践行为。 |
 > | Forsetlund et al. (2003) | 2 级（★★） | 正向提升 | 负向 / 中性 | — | 针对公共卫生的持续研讨未能改变实际政策规划。 |
 > | Gordon et al. (2005) | 2 级（★★） | 不确切 | — | — | 交互式网络培训对从业者行为改变证据不足。 |
-> | Davis & Taylor-Vaisey (1997) | 1 级（★） | 正向提升 | 负向 / 中性 | — | 综述证实缺乏硬约束的交互讨论仍难以撬动行为固疾。 |
+> | Davis and Taylor-Vaisey (1997) | 1 级（★） | 正向提升 | 负向 / 中性 | — | 综述证实缺乏硬约束的交互讨论仍难以撬动行为固疾。 |
 > | Barwick et al. (2009) | 1 级（★） | 正向提升 | 负向 / 中性 | — | 心理健康从业者网络研讨改善知识，行为转化失败。 |
 > | Ruangkanchanasetr (1993) | 1 级（★） | — | 负向 / 中性 | — | 住院医师反馈与咨询未能减少非必要高额检测开立。 |
 
@@ -444,7 +444,7 @@ sources:
 在宏观教育治理维度，必须摒弃将证据利用寄托于学校自发自觉的自由主义幻想，果断运用行政法规与公共财政杠杆构建硬约束。（pp. 598–601）
 
 > [!tension] 个体自主依从干预 vs 群体级制度工程化（借鉴公共卫生经验）
-> - **个体自主依从干预（低效、高流失）** 如 Kansagra & Farley（2012）在公共卫生领域所分析的，向糖尿病患者开具二甲双胍处方依赖患者个体长期自觉，面临极高的依从性损耗与行为断裂；在教育中依赖教师个体自愿查阅工具包同样面临该困境。（p. 598）
+> - **个体自主依从干预（低效、高流失）** 如 Kansagra and Farley（2012）在公共卫生领域所分析的，向糖尿病患者开具二甲双胍处方依赖患者个体长期自觉，面临极高的依从性损耗与行为断裂；在教育中依赖教师个体自愿查阅工具包同样面临该困境。（p. 598）
 > - **群体级制度工程化（普惠、高效、硬约束）** 类似公共卫生中的饮用水加氟以预防群体龋齿，或规划城市运动空间以遏制慢性病。这种群体级措施（Population-level Measures）直接在环境与制度层级完成工程化改造，个体无需克服复杂的意志阻力即可天然获益，人均干预成本极低且因果成效具有极高的[[Reliability\|可靠性]]。
 
 将这一原理引入教育治理，要求国家彻底改革公共资金分配规则与专业准入机制。（pp. 598–601）
@@ -502,7 +502,7 @@ sources:
 > [!citation-card] 群体级工程化措施对微观个体依从的超越性
 > 医疗健康领域在个体层面实施的循证干预（例如为糖尿病患者开具二甲双胍处方，该治疗需要患者主动且持续地服药）与在群体层面实施的干预（例如通过自来水加氟来预防龋齿）之间存在重要区别。后者的平均治疗成本要低得多，而且比个体治疗要可靠得多。（p. 598）
 >
-> *Kansagra & Farley (2012) draw a distinction between evidence-based interventions in health which are implemented at an individual level — such as the prescription of Metformin for those diagnosed with diabetes, a treatment which requires initial and continuing actions by the patient, and those implemented at a ‘population’ level — such as the fluoridation of water to prevent dental caries. The latter have a lower cost per individual treated, and are more reliable than individual treatments.*
+> *Kansagra and Farley (2012) draw a distinction between evidence-based interventions in health which are implemented at an individual level — such as the prescription of Metformin for those diagnosed with diabetes, a treatment which requires initial and continuing actions by the patient, and those implemented at a ‘population’ level — such as the fluoridation of water to prevent dental caries. The latter have a lower cost per individual treated, and are more reliable than individual treatments.*
 
 ---
 

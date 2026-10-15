@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Zhu Xi
@@ -126,7 +126,7 @@ updated: 2026-09-17
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 分析朱熹的四书编纂、格物致知与[[The Great Learning\|八条目]]框架对东亚学习模型的系统化贡献。
-> - [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] — 揭示朱熹理学在当代教科书中的[[Official Knowledge\|官方知识]]定位，以及信教学生从佛教与伊斯兰教视角对其“道德束缚”与“灵性缺失”的批判解构。
+> - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 揭示朱熹理学在当代教科书中的[[Official Knowledge\|官方知识]]定位，以及信教学生从佛教与伊斯兰教视角对其“道德束缚”与“灵性缺失”的批判解构。
 
 ---
 
@@ -150,7 +150,7 @@ updated: 2026-09-17
 > > - **[[Wang Yangming\|王阳明]]（明代）** — 批判朱熹之学繁琐支离、脱离[[Self-Cultivation\|修身]]本质，主张“心即理”与“知行合一”，认为良知本具，无需外求。
 
 > [!critique]- 批评索引
-> - [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] — 边缘学生批判指出，朱熹式理学主导的学校课程倾向于强调严苛的道德束缚，而无法提供赋予灵魂解放的灵性力量（如佛教），亦无法解答宇宙起源与生死的终极问题（如伊斯兰教）。
+> - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 边缘学生批判指出，朱熹式理学主导的学校课程倾向于强调严苛的道德束缚，而无法提供赋予灵魂解放的灵性力量（如佛教），亦无法解答宇宙起源与生死的终极问题（如伊斯兰教）。
 > - 思想史批判 — 制度化的[[Neo-Confucianism\|程朱理学]]在明清时期被[[Civil Service Examination\|科举]]体制固化，一定程度上限制了思想多样性与科学实证萌芽。
 
 > [!warning] 未解问题与边界

@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Shift-Share Instrument
@@ -89,7 +89,7 @@ updated: 2026-10-15
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 存在可信的初始截面分布且该分布不受后续处理分配策略影响的情况。特别是当处理[[Variable\|变量]]的分配可能策略性地响应预期结果时。[[Argument_Glitz_2020_AER\|Glitz & Meyersson (2020, pp.1080–1081)]]
+> - **适合使用** 存在可信的初始截面分布且该分布不受后续处理分配策略影响的情况。特别是当处理[[Variable\|变量]]的分配可能策略性地响应预期结果时。[[Argument_Glitz_2020_AER\|Glitz and Meyersson (2020, pp.1080–1081)]]
 > - **谨慎使用** 初始份额分布本身可能与未观测的截面特征相关，需要控制截面固定效应；总体 shift 本身可能受共同冲击驱动而与误差项相关。
 > - **不适合使用** 无法获得可信的前定截面分布；初始时期本身已是策略选择的结果；shift 部分存在明显内生性。
 
@@ -117,4 +117,4 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Glitz_2020_AER\|Glitz & Meyersson (2020)]] — 使用 1970 年已在活动的斯塔西"老线人"的初始行业分布和相对生产率构造 shift-share 工具[[Variable\|变量]]，处理工业间谍情报分配的内生性问题。
+> - [[Argument_Glitz_2020_AER\|Glitz and Meyersson (2020)]] — 使用 1970 年已在活动的斯塔西"老线人"的初始行业分布和相对生产率构造 shift-share 工具[[Variable\|变量]]，处理工业间谍情报分配的内生性问题。

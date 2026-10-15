@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-09
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Determinism
@@ -71,7 +71,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **决定论（Determinism）**是科学信仰四大基本假设之首，亦是社会科学主客观[[Analytic Framework|分析框架]]中关于“人性本质”的核心[[Ontology|本体论]]维度之一（Burrell & Morgan, 1979, p. 8）。该假设主张自然与社会世界中的一切事件和人类行为皆有其前因，是由先行的环境、生理或社会条件所决定的（events have causes, determined by other circumstances）；因果链条在原则上能够被经验探索所揭示与理解。决定论假定宇宙运作具有高度规则性而非反复无常，确立普适因果法则是经典科学实现对现象预测与控制（prediction and control）的终极基石。
+> **决定论（Determinism）** 是科学信仰四大基本假设之首，亦是社会科学主客观[[Analytic Framework|分析框架]]中关于“人性本质”的核心[[Ontology|本体论]]维度之一（Burrell & Morgan, 1979, p. 8）。该假设主张自然与社会世界中的一切事件和人类行为皆有其前因，是由先行的环境、生理或社会条件所决定的（events have causes, determined by other circumstances）；因果链条在原则上能够被经验探索所揭示与理解。决定论假定宇宙运作具有高度规则性而非反复无常，确立普适因果法则是经典科学实现对现象预测与控制（prediction and control）的终极基石。
 > 
 > 在现代[[Epistemology|认识论]]与复杂性哲学视域下，[[Karl Popper|卡尔·波普尔]]（Karl Popper, 1965）将决定论的世界观隐喻为“一切皆为精密钟表”（All clouds are clocks），而将真实世界描述为高度不规则、湍流且充满不可预测性的“云团”（Clouds）。卡普与扎米斯卡（2025）进一步指出，执迷于单一宏大体系的“刺猬型”意识形态决定论在高度动态的现实云团面前必然破产，现代[[Engineering Mindset|工程思维]]与狐狸型认知必须打破机械决定论执念，转而建立在概率评估、现场实测与持续反馈修正的基础之上。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 15)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 159–160)]]
 
@@ -176,7 +176,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心主张 | 方法论机制 | 代表学者与文献 |
 > |---|---|---|---|
 > | **前因决定可知命题** | 事件皆由前因决定且运作具有客观规律，因果法则赋予预测与控制能力 | 经验观察、[[Causal Modeling\|因果建模]]、法则归纳 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 15)]] |
-> | **环境塑造客体命题** | 人类是环境刺激与社会结构的机械反应产物，个体受制于既定角色 | 刺激-反应测量、角色分析、环境[[Variable\|变量]]控制 | Burrell & Morgan (1979); Skinner (1953) |
+> | **环境塑造客体命题** | 人类是环境刺激与社会结构的机械反应产物，个体受制于既定角色 | 刺激-反应测量、角色分析、环境[[Variable\|变量]]控制 | Burrell and Morgan (1979); Skinner (1953) |
 > | **非线性确定混沌命题** | 确定性系统在非线性反馈下产生长程不可预测性，超越简单线性决定 | 奇异吸引子、敏感初始条件、系统动力学 | Morrison (2002); Lorenz (1963) |
 > | **云状现实与狐狸认知命题** | 刺猬型宏大决定论在动态现实中必然失效，需依托概率与物理反馈探索 | 狐狸型多维预测、[[Engineering Mindset\|工程思维]]实测修正 | Popper (1965); Tetlock (2005); [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14\|Karp & Zamiska (2025)]] |
 
@@ -219,7 +219,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 系统论述决定论作为科学第一假设、Burrell & Morgan 人性维度木偶模型，以及[[Complexity Theory|复杂性理论]]对线性决定论的超越（pp. 8, 15, 29–31）。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 结合波普尔云钟模型与[[Philip Tetlock|泰特洛克]]狐狸刺猬研究，论证克服意识形态决定论、践行工程实测[[Epistemology|认识论]]的制度价值（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 结合波普尔云钟模型与[[Philip Tetlock|泰特洛克]]狐狸刺猬研究，论证克服意识形态决定论、践行工程实测[[Epistemology|认识论]]的制度价值（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
 
 ---
 

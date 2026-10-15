@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Historical Amnesia
@@ -69,7 +69,7 @@ updated: 2026-10-09
 ## 定义
 
 > [!def] 核心定义
-> **历史健忘症（Historical Amnesia）**是知识社会学、学科史反思与科技政治经济学中的核心批判[[Construct|构念]]，专指学术共同体或产业精英在特定功利目标与意识形态冲刷下，主动割裂、边缘化乃至集体遗忘制度生成演化史、公共研发奠基传统与长时段历史意识的病理状态。
+> **历史健忘症（Historical Amnesia）** 是知识社会学、学科史反思与科技政治经济学中的核心批判[[Construct|构念]]，专指学术共同体或产业精英在特定功利目标与意识形态冲刷下，主动割裂、边缘化乃至集体遗忘制度生成演化史、公共研发奠基传统与长时段历史意识的病理状态。
 >
 > 该概念在当代社会科学与政治哲学中主要具有两大经典理论面向：
 > 1. **比较教育学的方法论危机** 二战后学科盲目追求严密实证科学化与现时性政策咨询，将历史-哲学传统与[[Historical-Comparative Method|历史比较法]]系统放逐，导致期刊历史论文份额断崖式下跌（Larsen, 2001; [[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）；

@@ -43,7 +43,7 @@ related_persons: []
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Humboldtian Model of Higher Education
@@ -53,7 +53,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> 洪堡高等教育模式（Humboldtian Model of Higher Education）是普鲁士教育改革家威廉·冯·洪堡（Wilhelm von Humboldt）于 1809–1810 年主持创办柏林大学（今柏林洪堡大学）时确立的现代[[Research Universities|研究型大学]]办学理念与制度组织[[Paradigm|范式]]；该模式从根本上推翻了中世纪至 18 世纪欧洲大学仅作为“既有已知知识传播中介”的狭隘经院传统，首次在世界高等教育史上将**科学研究（[[Knowledge Production|知识生产]]）**提升为大学教授的法定核心天职，并确立了**教学与科研相结合（Einheit von Lehre und Forschung）**的不可分割性。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–33)]]
+> 洪堡高等教育模式（Humboldtian Model of Higher Education）是普鲁士教育改革家威廉·冯·洪堡（Wilhelm von Humboldt）于 1809–1810 年主持创办柏林大学（今柏林洪堡大学）时确立的现代[[Research Universities|研究型大学]]办学理念与制度组织[[Paradigm|范式]]；该模式从根本上推翻了中世纪至 18 世纪欧洲大学仅作为“既有已知知识传播中介”的狭隘经院传统，首次在世界高等教育史上将**科学研究（[[Knowledge Production|知识生产]]）** 提升为大学教授的法定核心天职，并确立了**教学与科研相结合（Einheit von Lehre und Forschung）** 的不可分割性。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–33)]]
 
 > [!concept-lens] 概念透镜
 > - **制度突破** 打破长达数百年将科学发现排斥在大学体制之外、仅依托私人赞助或外部王室[[Chinese Academy of Sciences|科学院]]的旧格局，使大学一跃成为国家知识生产的中心。

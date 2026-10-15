@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Tacit Knowledge
@@ -68,7 +68,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **默会知识（Tacit Knowledge）**最初由哲学家迈克尔·波兰尼（Michael Polanyi, 1958, 1966）在其[[Epistemology|认识论]]代表作《意会维度》（*The Tacit Dimension*）中系统阐发，后经[[Dominique Foray|多米尼克·福雷]]（Dominique Foray）与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（[[Bengt-Åke Lundvall]]）等经济学家引入[[Knowledge-Based Economy|知识经济]]与教育政策研究。该概念指深植于个体的行动经验、身体感知、工艺直觉、心智模型与文化情境之中，无法通过文字、公式或数码等形式化符号完全予以编码、表述与机械转移的实践性知识（“我们所知远多于我们所能言传”）。在知识经济与教育政策社会学中，随着信息与通信技术的飞速普及，纯粹的事实性编码知识变得廉价且易于获取，这不仅没有削弱默会知识的地位，反而使无法直接被算法或指令替代的默会操作技能、[[Critical Thinking|批判性思维]]与持续学习能力上升为决定个体及[[Competitiveness|国家竞争力]]的核心基底。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
+> **默会知识（Tacit Knowledge）** 最初由哲学家迈克尔·波兰尼（Michael Polanyi, 1958, 1966）在其[[Epistemology|认识论]]代表作《意会维度》（*The Tacit Dimension*）中系统阐发，后经[[Dominique Foray|多米尼克·福雷]]（Dominique Foray）与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（[[Bengt-Åke Lundvall]]）等经济学家引入[[Knowledge-Based Economy|知识经济]]与教育政策研究。该概念指深植于个体的行动经验、身体感知、工艺直觉、心智模型与文化情境之中，无法通过文字、公式或数码等形式化符号完全予以编码、表述与机械转移的实践性知识（“我们所知远多于我们所能言传”）。在知识经济与教育政策社会学中，随着信息与通信技术的飞速普及，纯粹的事实性编码知识变得廉价且易于获取，这不仅没有削弱默会知识的地位，反而使无法直接被算法或指令替代的默会操作技能、[[Critical Thinking|批判性思维]]与持续学习能力上升为决定个体及[[Competitiveness|国家竞争力]]的核心基底。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向那些无法脱离具身体验、特定情境与动态行动过程而独立存在的经验性与[[Procedural Knowledge|程序性知识]]形态。
@@ -78,7 +78,7 @@ updated: 2026-10-15
 > [!citation-card] 福雷与伦德瓦尔论默会技能与学习型经济
 > 正如福雷与伦德瓦尔（Foray & Lundvall, 1996）等学者所指出的，一个国家能否有效利用知识经济的红利，关键取决于它能在多大程度上迅速转变为一个“学习型经济”。学习绝不仅意味着掌握使用新技术获取信息的技能，更关键的是要培育个体在整个生命周期中持续学习与创造新知识的默会能力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 >
-> *Against these assumptions, it is suggested by new [[Growth]] theorists, such as Foray & Lundvall (1996), that a nation's capacity to take advantage of the knowledge economy depends on how quickly it can become a '[[Learning Economy]]'. Learning, Foray and Lundvall argue, should not only involve the ability to use new technologies to access information, but more importantly, the development of tacit skills required to learn, to create new knowledge ...*
+> *Against these assumptions, it is suggested by new [[Growth]] theorists, such as Foray and Lundvall (1996), that a nation's capacity to take advantage of the knowledge economy depends on how quickly it can become a '[[Learning Economy]]'. Learning, Foray and Lundvall argue, should not only involve the ability to use new technologies to access information, but more importantly, the development of tacit skills required to learn, to create new knowledge ...*
 
 > [!boundary]- 概念边界
 > - 不等于编码知识（Codified Knowledge） — 编码知识是以文字、数字、图表或代码形式客观记录的公共信息，能够以极低边际成本进行远程复制和传输；默会知识则依附于活生生的实践主体。
@@ -180,4 +180,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 445–447)]] — 阐释[[Knowledge-Based Economy|知识经济]]如何依托默会知识与编码知识的二分，将全球教育目标重塑为实用技能与[[Lifelong Learning|终身学习]]能力。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 445–447)]] — 阐释[[Knowledge-Based Economy|知识经济]]如何依托默会知识与编码知识的二分，将全球教育目标重塑为实用技能与[[Lifelong Learning|终身学习]]能力。

@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-07-22'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Gaokao
 
@@ -95,7 +95,7 @@ updated: 2026-10-15
 > > 学界与实务界围绕高考高利害问责是否必然阻碍进步主义教学改革展开辩论。
 > >
 > > - **Schweisfurth (2013)** — 高利害标准化考试普遍挤压探究性教学空间。
-> > - **[[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]** — 当高考命题强化[[Higher-Order Thinking Skills\|高阶思维]]考核时，学校可通过建构共享目标将 [[Learner-Centred Education\|LCE]] 转译为冲击高考高分段的提分工具。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 598–600)]]
+> > - **[[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]]** — 当高考命题强化[[Higher-Order Thinking Skills\|高阶思维]]考核时，学校可通过建构共享目标将 [[Learner-Centred Education\|LCE]] 转译为冲击高考高分段的提分工具。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 598–600)]]
 
 ---
 

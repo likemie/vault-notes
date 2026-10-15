@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Central Limit Theorem
@@ -118,4 +118,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] 将中心极限定理作为[[Sampling Error\|抽样误差]]的理论解释，引用 Hopkins 等（1996）的计算机模拟和 Rose & Sullivan（1993）的 95% 规则。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] 将中心极限定理作为[[Sampling Error\|抽样误差]]的理论解释，引用 Hopkins 等（1996）的计算机模拟和 Rose and Sullivan（1993）的 95% 规则。

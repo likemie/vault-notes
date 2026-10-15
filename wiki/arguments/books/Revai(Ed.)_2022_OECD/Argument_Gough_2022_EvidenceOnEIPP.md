@@ -115,7 +115,7 @@ related_instruments:
   - "[[EMMIE Framework]]"
 status: draft
 created: 2026-09-13
-updated: 2026-09-18
+updated: 2026-10-16
 sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch07_Gough_2022|Ch07_Gough_2022]]"
 ---
@@ -160,7 +160,7 @@ sources:
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **多案例质性考察与文献分析**<br>[[Documentary Analysis]] | 依托 Gough et al. (2018) 对英国全部有效性中心（[[What Works Network\|WWCs]]）的深度调研，系统提取各中心自述使命、工作方法、受众界定与治理情境文献，归纳中介机构的核心目标与演变轨迹。（pp. 149–151） |
-> | **国际网络证据门户跨案例调查**<br>Cross-case Portal Survey | 依托 Gough & White (2018) 对 15 个国家与国际知名网络证据门户（Evidence Web Portals）的跨案例调查，系统提取并编码各门户在评估干预有效性时所依据的方法学标准与评价规程。（pp. 154–155） |
+> | **国际网络证据门户跨案例调查**<br>Cross-case Portal Survey | 依托 Gough and White (2018) 对 15 个国家与国际知名网络证据门户（Evidence Web Portals）的跨案例调查，系统提取并编码各门户在评估干预有效性时所依据的方法学标准与评价规程。（pp. 154–155） |
 > | **元研究批判性综合**<br>Critical Synthesis & Meta-research | 系统整合关于研究应用的研究（Research on [[Research Utilization\|Research Use]]）领域的前沿成果（如 Langer et al., 2016; Lord et al., 2017），提炼循证中介机构运作的规范性反思原则。（pp. 147, 152, 157） |
 
 > [!row-contrast] 考察样本一：英国主要有效性中心与中介组织调研样本表（Gough et al., 2018）
@@ -172,7 +172,7 @@ sources:
 > | | **警务学院犯罪减少有效性中心**<br>（College of Policing / What Works Centre for Crime Reduction） | 警务治安、犯罪预防与刑事司法；各级警务长官、一线巡警与内政部决策者（专业实践与政策端） | 专业行业法定监管机构；由英国内政部法定资助与警务行业专业自律相结合 | 研发《犯罪减少工具包》（Crime Reduction Toolkit）、警务系统综述证据图谱与执法行动实务指南 | 首创并推行[[EMMIE Framework\|EMMIE 评价框架]]（Effect, Mechanism, Moderator, Implementation, Economics，即效应、机制、调节[[Variable\|变量]]、实施与经济学评价），将机制解释与情境条件置于核心，为社会科学中介提供严密典范（p. 150） |
 > | | **国家福祉有效性中心**<br>（What Works Centre for Wellbeing） | 主观福祉、社区活力、职场心理健康与文化体育；跨部门宏观政策制定者、企业雇主与第三部门组织（政策与社会端） | 独立跨界合作网络与大学科研联合体；由多个中央部委与英国经济与社会研究理事会（Economic and Social Research Council, ESRC）联合出资 | 发布系列职场与社区福祉[[Systematic Review\|系统综述]]、开发国家主观福祉测度指标与地方评估工具包 | 面对跨学科概念[[Heterogeneity\|异质性]]极高且缺乏统一硬指标的复杂议题，探索了以通用策略为主轴的质性与量化多元证据综合[[Paradigm\|范式]]（pp. 149–150） |
 > | | **老龄优化中心**<br>（Centre for Ageing Better） | 健康老龄化、长者体面就业与适老社区建设；中央与地方政策制定者、住房规划师与雇主（政策与系统端） | 独立慈善留本基金会；由英国国家彩票社区基金注资 5000 万英镑设立独立运作留本基金 | 老龄政策证据审查、适老化住房改造与职场反年龄歧视行动指南、地方战略转型示范项目 | 留本基金赋予其长达数十年的长期变革视野；不以单一商业产品分级为主，而着力推动地方社会与制度结构的深层系统对齐（pp. 149–150） |
-> | | **无家可归治理影响中心**<br>（Centre for Homelessness Impact, CHI） | 流浪无家可归救助、临时庇护与永久住房保障；地方议会住房管理部门、慈善庇护所一线社会工作者（地方实践端） | 独立慈善机构；由地方政府联合会及住房部支持，[[EPPI-Centre]] 等专业研究中心提供方法学支撑 | 研制《无家可归证据与差距图谱》（Evidence and Gap Maps, EGMs）、有效干预工具包（Homelessness Toolkit）与地方循证行动方案 | 与 Gough & White (2018) 深度绑定；率先全面确立以系统综述为基础的干预策略评级，坚决规避对单一项目孤立研究的采纳，成为[[Evidence Standards\|证据标准]]规范化的先锋（pp. 149, 154） |
+> | | **无家可归治理影响中心**<br>（Centre for Homelessness Impact, CHI） | 流浪无家可归救助、临时庇护与永久住房保障；地方议会住房管理部门、慈善庇护所一线社会工作者（地方实践端） | 独立慈善机构；由地方政府联合会及住房部支持，[[EPPI-Centre]] 等专业研究中心提供方法学支撑 | 研制《无家可归证据与差距图谱》（Evidence and Gap Maps, EGMs）、有效干预工具包（Homelessness Toolkit）与地方循证行动方案 | 与 Gough and White (2018) 深度绑定；率先全面确立以系统综述为基础的干预策略评级，坚决规避对单一项目孤立研究的采纳，成为[[Evidence Standards\|证据标准]]规范化的先锋（pp. 149, 154） |
 > | | **地方经济增长有效性中心**<br>（What Works Centre for Local Economic Growth, WWG） | 区域经济增长、产业集聚、就业培训与地方基建投资；地方政府经济官员与商业决策者（地方政策端） | 大学依托型研究联盟；由伦敦政治经济学院（London School of Economics and Political Science, LSE）、奥雅纳工程顾问（Arup）与萨塞克斯大学科学政策研究所（Science Policy Research Unit, SPRU）联合组建，ESRC 等资助 | 发布地方经济政策工具箱（Policy Toolkits）、因果实证数据库，对全球数以万计政策评估报告展开方法学筛查 | 坚持马里兰[[Scientific Method\|科学方法]]量表（Maryland Scientific Methods Scale, SMS，要求 3 级及以上）严苛因果标准，剔除大量无严密对照组的本土经验；突显了方法学纯洁性与一线政策可用证据匮乏之间的张力（p. 150） |
 > | | **儿童社会关怀有效性中心**<br>（What Works for Children's Social Care, WWCSC） | 脆弱儿童保护、家庭寄养与地方社会工作；地方政府儿童服务部、司法法庭与一线社工（一线实践端） | 由英国教育部出资委托、英国国家科技艺术基金会（National Endowment for Science, Technology and the Arts, Nesta）智库孵化后独立的慈善法人（现合并重组为 Foundations） | 建立社会关怀实践证据工具包、资助地方当局开展家庭保障模式多中心因果试验、发布实务标准 | 深入高行政阻力与伦理争议的高风险领域，强调证据标准中的[[Implementation Fidelity\|实施保真度]]，弥补纯效果测度的不足（pp. 149–150） |
 > | **观察员与关联中介组织** | **国际公共政策观察站**<br>（IPPO, International Public Policy Observatory） | 重大突发公共卫生危机、社会不平等、后疫情期教育与经济复苏；联合王国四方政府高层决策者与智库（国家宏观决策端） | 大学牵头跨国研究观察站；由伦敦大学学院教育研究院（UCL Institute of Education, UCL IOE）牵头联合多所顶尖高校组建，ESRC 资助设立 | 开辟 2–4 周极速系统综述（Rapid Evidence Syntheses）响应通道、组织四方政府高层闭门证据圆桌会与跨国政策数据库 | 在重大危机中探索即时响应与科学严谨性的平衡，突破传统中介漫长综述周期的局限，构建敏捷[[Knowledge Mediation\|知识中介]]元架构（pp. 147, 150） |
@@ -189,7 +189,7 @@ sources:
 > | | **早期干预基金会指南手册**<br>（EIF Guidebook） | 英国；早期干预基金会（EIF） | 儿童早期语言习得、社交情感发展、亲职养育与心理创伤早期干预的通用路径与核心机制 | **[[Systematic Review\|系统综述]]**<br>（针对儿童发展特定维度的通用策略开展系统证据综合与横向比较） | 在打包方案评定之外提供全局性策略图景；揭示了干预机制在家庭与社区多重复杂系统中的非线性扩散效应（pp. 149, 154） |
 > | | **警务学院犯罪减少工具包**<br>（College of Policing Crime Reduction Toolkit） | 英国；警务学院（College of Policing） | 警务执法与治安防范策略（如闭路电视监控、热点地区巡逻、街头盘查拦截、青少年夜间禁足等） | **[[Systematic Review\|系统综述]]**<br>（系统提取并二阶整合全球警务与刑事司法领域的系统综述文献） | 严格贯彻[[EMMIE Framework\|EMMIE 评价架构]]；不仅评判干预效应大小，更系统解构有效干预的情境调节变量与实施障碍，打破了机械移植神话（pp. 150, 154） |
 > | | **福祉有效性中心证据门户**<br>（What Works Centre for Wellbeing Evidence Portals） | 英国；国家福祉有效性中心 | 提升个体与社群主观福祉的综合策略（如社区绿地营造、职场柔性工时、社会处方疗法、文体参与） | **[[Systematic Review\|系统综述]]**<br>（跨学科系统综述集成，广泛吸纳质性研究与混合方法研究发现） | 突破硬科学狭隘指标的桎梏；为多主体参与、概念高度模糊的非结构化公共政策议题提供了透明规范的综合评价典范（pp. 149–150, 154） |
-> | | **无家可归治理影响中心证据工具箱**<br>（Centre for Homelessness Impact Toolkit & EGMs） | 英国；无家可归治理影响中心（CHI） | 无家可归防治策略（如住房优先模式 Housing First、个案管理、庇护所心理疏导、租金应急补贴） | **[[Systematic Review\|系统综述]]**<br>（严格依托与 [[EPPI-Centre]] 及 Campbell 协作网合作研制的系统综述与证据地图） | 与 Gough & White (2018) 标准深度咬合；坚决摒弃单兵研究，确保每一项策略主张均具备代表性证据库，并可视化呈现证据空白区（pp. 149, 154） |
+> | | **无家可归治理影响中心证据工具箱**<br>（Centre for Homelessness Impact Toolkit & EGMs） | 英国；无家可归治理影响中心（CHI） | 无家可归防治策略（如住房优先模式 Housing First、个案管理、庇护所心理疏导、租金应急补贴） | **[[Systematic Review\|系统综述]]**<br>（严格依托与 [[EPPI-Centre]] 及 Campbell 协作网合作研制的系统综述与证据地图） | 与 Gough and White (2018) 标准深度咬合；坚决摒弃单兵研究，确保每一项策略主张均具备代表性证据库，并可视化呈现证据空白区（pp. 149, 154） |
 > | | **考克兰图书馆**<br>（Cochrane Library） | 国际组织；考克兰协作网（Cochrane Collaboration） | 全球临床医学、精神卫生、公共健康与卫生管理系统干预措施 | **[[Systematic Review\|系统综述]]**<br>（遵循国际最严苛的 Cochrane 综述方法学规范与 GRADE 证据分级体系） | 现代循证运动的元祖与方法学黄金标准；但其强因果干预逻辑与偏倚风险评估工具若不加审慎反思地直接套用至高度情境化的教育与社会政策，容易引发方法学削足适履（p. 154） |
 > | | **坎贝尔协作网实证库**<br>（[[Campbell Collaboration\|Campbell Collaboration Library]]） | 国际组织；坎贝尔协作网（Campbell Collaboration） | 教育、社会福利、犯罪司法与国际发展领域的宏观政策干预策略 | **叙述性／专家评审**<br>（依托专家编委会对跨领域复杂证据进行定性审议、叙述性归纳与政策简报转化） | 专注于社会科学领域的大规模证据综合；其叙述性评审更贴近决策语境，但在结论可复现性与量化偏倚防范上需依赖严格同行评议制衡（p. 154） |
 > | | **美军家庭战备清算中心**<br>（Clearinghouse for Military Family Readiness） | 美国；宾夕法尼亚州立大学（与美国国防部及农业部合作） | 军人及其家庭的心理疏导、子女教育辅导、创伤后应激支持与家庭韧性提升策略 | **叙述性／专家评审**<br>（依托证据连续体框架，由跨领域学术专家委员会开展叙述性审定） | 紧密契合垂直特定行业系统的特殊需求；但高度依赖同行专家主观裁量，在透明度与标准化打分规程上相对欠缺（p. 154） |
@@ -601,7 +601,7 @@ sources:
 > 4. **外层制度整合与最终成效因果检验的严重缺位** 多数中介机构受制于高利害问责（如 [[Ofsted]]）与政治短期周期的阻抗，且评估长期局限于会议数与网页点击量等浅层指标，极少深入检验对最终受益人（学生）的实质影响。（pp. 150–151, 156–157）
 
 > [!stat-cards]- 核心数据
-> - **15 个** Gough & White (2018) 跨案例调查的国际网络证据门户总数。（p. 155）
+> - **15 个** Gough and White (2018) 跨案例调查的国际网络证据门户总数。（p. 155）
 > - **40% (6/15)** 采纳严格系统综述程序作为判定干预有效性依据的门户比例。
 > - **100% (5/5)** 面向打包干预项目（Programmes）的门户中仅凭一至两项研究即断言有效的比例。
 > - **7 项** 英国有效性中心设立初期普遍设定的核心使命目标数量。（p. 149）

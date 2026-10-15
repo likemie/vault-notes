@@ -41,7 +41,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Reflexive Governance
@@ -149,7 +149,7 @@ updated: 2026-10-15
 > [!contrast-table] 反思性治理核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **元治理能力命题** | 通过持续学习与反馈回路克服不确定性及[[Path Dependence\|技术锁定]] | 长期可持续性转型与前沿科技风险治理 | Voß & Bornemann (2011); Weber & Rohracher (2012) |
+> | **元治理能力命题** | 通过持续学习与反馈回路克服不确定性及[[Path Dependence\|技术锁定]] | 长期可持续性转型与前沿科技风险治理 | Voß & Bornemann (2011); Weber and Rohracher (2012) |
 > | **使命落地协同命题** | 双重反思是协调技术突破与社会合法性的关键保障 | [[Mission-Oriented Innovation Policy\|使命导向创新政策]]全生命周期实施 | [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] |
 
 ---

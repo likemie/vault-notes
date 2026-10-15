@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: active
 created: '2026-05-08'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Ubuntu
@@ -73,7 +73,7 @@ updated: 2026-10-15
 > [!citation-card] 乌班图关系伦理化解算法认识不正义
 > 针对焦尔贾·波齐（Giorgia Pozzi, 2023）在医疗处方药监测程序中所揭示的算法侵害患者信任与主体证词的认识不正义，布兰登·费利托与米歇尔·德普罗斯特（Brandon Ferlito & Michiel De Proost, 2023）提出以乌班图哲学作为互补视角予以化解。他们归纳出抵御人工智能认识不正义的三大进路：承认多元视角、促进跨不同知识层次的同理心，以及在人机交互与专业决策中坚决消除权力不对称。这一伦理方案在教育哲学传统中同样拥有深厚渊源。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 9–10)]]
 >
-> *Ferlito & De Proost (2023) offer ubuntu to mediate testimonial epistemic injustice in automated Prediction Drug Monitoring Programmes (PDMP) observed by Pozzi (2023) in healthcare. They forward three ways to counteract this epistemic injustice of [[Generative Artificial Intelligence|GenAI]] in medicine: 'recognise diverse perspectives', encourage empathy across different knowledge levels, and work to negate power imbalances.*
+> *Ferlito and De Proost (2023) offer ubuntu to mediate testimonial epistemic injustice in automated Prediction Drug Monitoring Programmes (PDMP) observed by Pozzi (2023) in healthcare. They forward three ways to counteract this epistemic injustice of [[Generative Artificial Intelligence|GenAI]] in medicine: 'recognise diverse perspectives', encourage empathy across different knowledge levels, and work to negate power imbalances.*
 
 ---
 
@@ -156,7 +156,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心理论指向 | 适用情境与解释对象 | 代表学者 |
 > |---|---|---|---|
 > | **关系性育人本体论** | 确立“我们存在故我在”的互依本质，批判超人类主义个体优化与功利竞争 | 教育哲学基础理论、课程价值观重构、原住民哲学对话 | [[Argument_Amos_2022_Springer\|Amos (2022)]] |
-> | **技术算法认识正义** | 提炼多元视角承认、跨认知共情与权力平权三大原则，防范算法权威对求知主体的贬抑 | 自动化决策审查、人机协作课堂、读写教育批判教学法 | Pozzi (2023); Ferlito & De Proost (2023); [[Argument_Smith_2026_SPE\|Smith (2026)]] |
+> | **技术算法认识正义** | 提炼多元视角承认、跨认知共情与权力平权三大原则，防范算法权威对求知主体的贬抑 | 自动化决策审查、人机协作课堂、读写教育批判教学法 | Pozzi (2023); Ferlito and De Proost (2023); [[Argument_Smith_2026_SPE\|Smith (2026)]] |
 
 ---
 
@@ -168,7 +168,7 @@ updated: 2026-10-15
 > - **传统原初形态 — 南部非洲本土生活世界** 作为班图语系民族世代相传的伦理准则与谚语智慧，强调部落社群内部的守望互助、调解协商与对先祖神灵的敬畏连带。
 > - **1990s — 后种族隔离时期的国家与宪政建构** 伴随南非民主转型与真相与和解委员会（TRC）的运作，德斯蒙德·图图（Desmond Tutu）等学者与领袖将乌班图提升为国家和解与宪政人道主义的核心哲学基础，确立修复性正义（Restorative Justice）原则。
 > - **2020s 初 — 全球[[Posthumanism|后人类主义]]教育哲学对话** [[Argument_Amos_2022_Springer|Amos (2022)]] 等学者挖掘乌班图的关系[[Ontology|本体论]]资源，与西方后人类主义理论形成跨文化共振，用于反思新自由主义教育改革对竞争个体的异化塑造。（p. 64）
-> - **2023 至今 — 算法伦理与教育认识正义跨界应用** 面对医疗大数据与大语言模型的认知冲击，Pozzi (2023)、Ferlito & De Proost (2023) 与 [[Argument_Smith_2026_SPE|Smith (2026)]] 将乌班图转化为抵御自动化认知压迫的实践原则，在[[Man-Computer Symbiosis|人机协同]]中捍卫人类主体的求知发展权。（pp. 9–10）
+> - **2023 至今 — 算法伦理与教育认识正义跨界应用** 面对医疗大数据与大语言模型的认知冲击，Pozzi (2023)、Ferlito and De Proost (2023) 与 [[Argument_Smith_2026_SPE|Smith (2026)]] 将乌班图转化为抵御自动化认知压迫的实践原则，在[[Man-Computer Symbiosis|人机协同]]中捍卫人类主体的求知发展权。（pp. 9–10）
 
 ---
 
@@ -187,7 +187,7 @@ updated: 2026-10-15
 > > [!axis] 跨领域移植的去脉络化风险
 > > 当技术伦理学者将源自非洲乡土社会的哲学原则直接套用于硅谷大模型治理时，易被批评为脱离具体地缘政治与数字资本主义现实的浪漫化想象。
 > >
-> > - **Ferlito & De Proost（2023）** 强调乌班图必须与具体的算法偏见、数据正义及制度问责机制深度缝合，才能避免沦为空洞的伦理修辞。[[Argument_Smith_2026_SPE|(Smith, 2026, p. 10)]]
+> > - **Ferlito and De Proost（2023）** 强调乌班图必须与具体的算法偏见、数据正义及制度问责机制深度缝合，才能避免沦为空洞的伦理修辞。[[Argument_Smith_2026_SPE|(Smith, 2026, p. 10)]]
 
 ---
 

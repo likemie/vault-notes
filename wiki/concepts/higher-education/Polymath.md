@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Polymath
@@ -91,7 +91,7 @@ updated: 2026-10-15
 > [!concept-lens] 通识治理与科技决策
 > 探讨博学者如何将技术直觉与国家战略意志无缝融通。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **博学治国与战略自信** 早期美国政治领袖本身即是卓越的科学家与工程师（如富兰克林颠覆性的电学革命、杰斐逊的农机与密码机设计）；这种跨学科素养赋予了政治高层对重大技术战略直接评判与决策的自信，构建了国家意志与科学探索同频共振的[[Technological Republic|技术共和国]]传统。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 5–6)]]
 
 ---
@@ -101,7 +101,7 @@ updated: 2026-10-15
 > [!concept-lens] 专业化弊端与代议失衡
 > 探讨现代代议政治中科学家与工程师极度边缘化所带来的治理风险。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **代议技术人才断崖与治理迟钝** 现代大学与学术评价体制过度奖励狭窄专精而惩罚跨界探索；这一演进不仅消解了博学传统，更导致当代立法机构被法律专业人士全面垄断（全美各州议员中科学家与工程师仅占 1.3%），在面临 AI 与软件时代的复杂技术博弈时，政治决策层陷入了严重的理解障碍与制度性迟钝。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 5–6, 155)]]
 
 ---

@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # American Educational Research Association
@@ -71,7 +71,7 @@ updated: 2026-10-15
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **美国教育研究学会（American Educational Research Association, AERA）**是全球规模最大、历史最悠久的跨学科教育研究国家级专业学术学会（501(c)(3)）。学会由逾 2.5 万名跨学科教育学者、方法学家与政策分析师组成，致力于推进教育相关学术探究、提升科学研究标准、并通过专门的公共政策参与网络将前沿实证研究成果转化为各级立法与治理实践。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
+> **美国教育研究学会（American Educational Research Association, AERA）** 是全球规模最大、历史最悠久的跨学科教育研究国家级专业学术学会（501(c)(3)）。学会由逾 2.5 万名跨学科教育学者、方法学家与政策分析师组成，致力于推进教育相关学术探究、提升科学研究标准、并通过专门的公共政策参与网络将前沿实证研究成果转化为各级立法与治理实践。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 创设于 1916 年，最初由一批致力于推动学校教育测量、统计调查与量化评估的学者发起成立，原名为全美教育研究主任协会（National Association of Directors of Educational Research, NADER）；1930 年更为现名并一度隶属于[[National Education Association\|全美教育协会]]（NEA），后发展为完全独立的全国性学术社团。
@@ -144,4 +144,4 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]与论证索引
 > - [[Argument_Serpell_2020_EP\|Serpell (2020)]] — 详述 AERA 的组织制度沿革、国会政策研究员机制以及学术社团在联邦教育[[Policy Network|政策网络]]中的[[Educational Brokerage Agency|知识经纪]]角色（pp. 46–47）。
-> - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart & Towne (2003)]] — 系统阐明 AERA 会刊《教育研究者》（ER）如何成为[[Scientifically Based Research|科学本位研究]]大争鸣的核心阵地，论证学术社团依托专业声誉与民主审议成功抵御了联邦法案对教育科研方法的单一窄化（pp. 31–37）。
+> - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] — 系统阐明 AERA 会刊《教育研究者》（ER）如何成为[[Scientifically Based Research|科学本位研究]]大争鸣的核心阵地，论证学术社团依托专业声誉与民主审议成功抵御了联邦法案对教育科研方法的单一窄化（pp. 31–37）。

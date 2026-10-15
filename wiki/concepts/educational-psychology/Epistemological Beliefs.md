@@ -67,7 +67,7 @@ related_arguments:
   - "[[Argument_Lodewyk_2007_EP]]"
 status: active
 created: 2026-08-13
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Epistemological Beliefs
@@ -97,9 +97,9 @@ updated: 2026-10-15
 > [!dev-timeline] 概念演变
 > - **20 世纪 70-80 年代 — 发展阶段论起源** Perry (1970) 等人首创对大学生认知发展历程的探究，将[[Epistemology\|认识论]]信念视为一种从二元论、多元论到相对主义的单向、结构化的发展阶段。
 > - **1990 年 — 量化与多维独立转向** Schommer (1990) 提出了“认识论信念”量表（Epistemological [[Questionnaire]]），打破了阶段论假设，主张个体的认识论信念由多个相互独立的维度构成，开辟了大规模[[Quantitative Research\|量化研究]]。
-> - **1997 年 — 理论重构阶段** [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 系统梳理了过往六大模型，剔除了诸如固定智力等非纯粹的认识论维度，提炼出四大核心共性维度，并倡导将该[[Construct\|构念]]升级为更具内部连贯性的“[[Epistemological Theories\|认识论理论]]（epistemological theories）”。
+> - **1997 年 — 理论重构阶段** [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 系统梳理了过往六大模型，剔除了诸如固定智力等非纯粹的认识论维度，提炼出四大核心共性维度，并倡导将该[[Construct\|构念]]升级为更具内部连贯性的“[[Epistemological Theories\|认识论理论]]（epistemological theories）”。
 > - **2004 年 — 网络学习环境与信念双向重塑假说** [[Chin-Chung Tsai\|蔡今中]]（Chin-Chung Tsai）系统提出网络环境认识论信念假说，指出认识论信念不仅调节网络信息搜寻策略，开放的超媒体环境在支架引导下更能逆向重塑个体的认识论信念。
-> - **2007 年 — 大规模纵向追踪与因果/社会化检验** [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] 基于德国 [[TOSCA]] 追踪数据，通过结构方程模型证实知识确定性信念在控制智力与家庭背景后仍能显著独立预测[[Academic Achievement\|学业成就]]，并揭示了学科选择中的自我选择与大学[[Disciplinary Socialization\|学科社会化]]双重机制。
+> - **2007 年 — 大规模纵向追踪与因果/社会化检验** [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] 基于德国 [[TOSCA]] 追踪数据，通过结构方程模型证实知识确定性信念在控制智力与家庭背景后仍能显著独立预测[[Academic Achievement\|学业成就]]，并揭示了学科选择中的自我选择与大学[[Disciplinary Socialization\|学科社会化]]双重机制。
 > - **2008-2010 年 — 阶段论与维度论的整合与重定** Greene 等人提出整合性的 [[Epistemic and Ontological Cognition\|EOC]] 模型，将对“[[Certainty of Knowledge\|知识的确定性]]与简单性”的信念重新界定为“[[Ontology\|本体论]]认知”（ontological cognition），并通过[[Factor Mixture Modeling\|因子混合模型]]将独立维度的测量分数成功聚类回个人的认知发展阶段中。
 > - **2021 年 — [[Meta-analysis\|元分析]]证实聚焦证据确证模型的干预优势** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 通过认识论干预元分析证实，基于多维信念模型与证据协调等聚焦知识本质与确证机制的现代模型干预能产生中等以上提分效果（$d \approx 0.63$），而基于 Schommer 宽泛认知信念模型的干预则无显著效果（$d = 0.185$），为构念边界净化提供了因果实证支持。
 > - **2025 年 — [[Generative Artificial Intelligence\|生成式人工智能]]与[[Man-Computer Symbiosis|人机共生]]认识理论升级** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 将认识论信念理论升级为人机共生自适应[[Epistemic Stances\|认识立场]]框架，揭示绝对主义、相对主义与评价主义认识论信念在与大语言模型交互中对[[Cognitive Offloading\|认知卸载]]性质的决定性分化作用。
@@ -146,7 +146,7 @@ updated: 2026-10-15
 > [!concept-lens] 维度的连贯互构
 > 探讨各个认识论维度之间是否存在内在逻辑关联，以及它们如何构成一个指导认知的整体框架。
 
-> [!claim] [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]]
+> [!claim] [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]]
 > **理论连贯性主张** 个体的认识论信念并非像 Schommer 宣称的那样完全相互独立。相反，基于 Wellman 等人关于“什么是理论”的判定标准，如果一个人在“确定知识”维度上持有幼稚观点（认为知识绝对对错），那么他极有可能在“知识来源”维度上也持有幼稚观点（认为知识由权威传授）。这种内在的强关联性证明，各项维度之间是连贯互构的。因此，这些信念构成了指导他们认知世界的一套连贯的“个人理论（personal theories）”，而不是一组零散的观念集合。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, pp. 117-118)]]
 
 ---
@@ -167,7 +167,7 @@ updated: 2026-10-15
 > 探讨指导教学设计的[[Epistemological Theories\|认识论理论]]框架如何实质调节对学业成就的促进成效。
 
 > [!claim] Cartiff, B. M.
-> **[[Construct\|构念]]纯化与理论模型干预效能分野** 在[[Epistemic Cognition\|认识论认知]]干预的一阶[[Meta-analysis\|元分析]]中，基于不同理论模型的干预方案在学业产出上存在显著分野。以 [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 多维信念模型（$d = 0.625$）以及 Kuhn / Barzilai 发展协调模型（$d = 0.633$）为指导的教学干预，能够带来中等至大程度的稳健学业增益；相反，基于 Schommer (1990) 宽泛认知信念模型（混入了固定能力、快速学习等非认识论特质）的干预方案，平均[[Effect Size\|效应量]]仅为 $d = 0.185$（未达[[Statistical Significance\|统计显著性]]）。这一因果证据从实践干预维度有力确证了 Hofer 和 Pintrich 的理论主张：只有将认识论信念严格聚焦于“知识的本质”与“辩护来源”（而非泛化的学习意志力或智力特质），教学干预才能精准激活学生的深度证据检验与论证推理能力。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 486, 492)]]
+> **[[Construct\|构念]]纯化与理论模型干预效能分野** 在[[Epistemic Cognition\|认识论认知]]干预的一阶[[Meta-analysis\|元分析]]中，基于不同理论模型的干预方案在学业产出上存在显著分野。以 [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 多维信念模型（$d = 0.625$）以及 Kuhn / Barzilai 发展协调模型（$d = 0.633$）为指导的教学干预，能够带来中等至大程度的稳健学业增益；相反，基于 Schommer (1990) 宽泛认知信念模型（混入了固定能力、快速学习等非认识论特质）的干预方案，平均[[Effect Size\|效应量]]仅为 $d = 0.185$（未达[[Statistical Significance\|统计显著性]]）。这一因果证据从实践干预维度有力确证了 Hofer 和 Pintrich 的理论主张：只有将认识论信念严格聚焦于“知识的本质”与“辩护来源”（而非泛化的学习意志力或智力特质），教学干预才能精准激活学生的深度证据检验与论证推理能力。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 486, 492)]]
 
 ---
 
@@ -189,7 +189,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **独立维度假说** | 认识论假设由多个可各自独立发展、测量和预测学业成就的维度构成 | 强调量表测量与在各群体间的分布差异 | Schommer (1990) |
-> | **个人理论假说** | 认识论假设的各维度在心智中连贯互构，共同形成解释知识本质的个人理论框架 | 强调维度的整合性与底层认识论机制 | [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] |
+> | **个人理论假说** | 认识论假设的各维度在心智中连贯互构，共同形成解释知识本质的个人理论框架 | 强调维度的整合性与底层认识论机制 | [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] |
 > | **多维阶段融合模型** | 将认识论与本体论区分，通过因子混合模型将连续维度分数聚类回认知发展阶段 | 跨学科领域特殊性与阶段类型识别 | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] |
 > | **理论模型干预分野** | 聚焦知识确证机制的纯化模型提分显著，而混入学习特质的宽泛模型成效微弱 | 认识论教学方案设计、干预效果评估 | Cartiff et al. |
 > | **技术中介双向重塑** | 认识论信念调节数字化与AI交互模式，而在双轨支架干预下可被技术环境逆向重塑 | 网络[[Inquiry-Based Learning\|探究学习]]、人机共生学习与大模型交互 | [[Chin-Chung Tsai\|Tsai (2004)]]; [[Argument_Wu_2025_ER\|Wu et al. (2025)]] |
@@ -215,7 +215,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与设计 | 测量工具 | 控制[[Variable\|变量]] | 核心结果 |
 > |---|---|---|---|---|
-> | [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] | 德国巴登-符腾堡州高中毕业生纵向追踪（TOSCA 项目，T1 $N = 2854$；大学追踪 T2 $N = 1094$） | 7 题全局确定性量表（4 点李克特计分，T1 $\alpha = .75$；T2 $\alpha = .73$） | 认知推理能力（KFT 4-13+R [[Item Response Theory\|IRT]] 分数）、家庭 SES（ISEI）、[[Cultural Capital\|文化资本]]（藏书量）、性别、年龄 | 确定性信念显著负向预测毕业总评成绩（$\beta = -0.15, p < .001$）；工科（$b = 0.38$）、商科（$b = 0.33$）学生在高中阶段已持有更高确定性（自我选择），大学阶段工科（$\Delta b = 0.40$）与商科（$\Delta b = 0.22$）确定性进一步上升，社科显著下降（$\Delta b = -0.26$）（社会化效应） |
+> | [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] | 德国巴登-符腾堡州高中毕业生纵向追踪（TOSCA 项目，T1 $N = 2854$；大学追踪 T2 $N = 1094$） | 7 题全局确定性量表（4 点李克特计分，T1 $\alpha = .75$；T2 $\alpha = .73$） | 认知推理能力（KFT 4-13+R [[Item Response Theory\|IRT]] 分数）、家庭 SES（ISEI）、[[Cultural Capital\|文化资本]]（藏书量）、性别、年龄 | 确定性信念显著负向预测毕业总评成绩（$\beta = -0.15, p < .001$）；工科（$b = 0.38$）、商科（$b = 0.33$）学生在高中阶段已持有更高确定性（自我选择），大学阶段工科（$\Delta b = 0.40$）与商科（$\Delta b = 0.22$）确定性进一步上升，社科显著下降（$\Delta b = -0.26$）（社会化效应） |
 > | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | 447名加拿大十年级中学生（公立与独立教会学校，横截面与组内任务对比） | 52题 [[Schommer's Modified Epistemological Questionnaire\|SMEQ]]（5点李克特计分，提取 FQAL、SK、CK 三因子） | 确定知识（CK，控制学校宗教导向差异）、性别、任务顺序 | FQAL（$R^2 = .04, p < .001$）与 SK（$R^2 = .05, p < .001$）显著负向预测学生总体学业成就预估值（整体模型 $R^2 = .08$）；在学术任务中，SK 显著负向预测劣构任务总分（$R^2 = .06, p = .02$）及反思性判断得分（$R^2 = .06, p = .02$），但在良构任务中无显著预测力（$R^2 = .002, p = .69$）；女生在 FQAL 与 CK 上的信念成熟度显著高于男生 |
 
 ---
@@ -238,7 +238,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances\|认识立场]]框架，阐明[[Epistemology\|认识论]]信念在智能技术中介学习中的调节与重塑机制，并构建双轨支架干预矩阵。
-> - [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] — 追踪德国高中毕业生进入大学后的确定性[[Epistemology\|认识论]]信念，揭示[[Disciplinary Socialization\|学科社会化]]与自我选择机制。
+> - [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] — 追踪德国高中毕业生进入大学后的确定性[[Epistemology\|认识论]]信念，揭示[[Disciplinary Socialization\|学科社会化]]与自我选择机制。
 > - [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] — 检验加拿大中学生在不同[[Task Structure\|任务结构]]（良构与劣构）下认识论信念对任务表现和[[Reflexivity\|反思性]]判断的差异化预测作用。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 认识论干预[[Meta-analysis\|元分析]]，对比了不同理论模型指导下的干预效果，实证证实聚焦知识与确证维度的现代模型显著优于混入一般学习信念的传统模型。
 

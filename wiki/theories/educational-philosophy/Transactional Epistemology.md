@@ -44,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 核心主张
@@ -102,7 +102,7 @@ updated: 2026-10-15
 > - **批评立场** 若所有知识都是情境依赖的"关系记录"，则失去了判断不同研究质量高低的跨情境标准。这可能导致对 [[Randomised Controlled Trials\|RCT]] 和[[Observation Method\|观察研究]]"同样有效"的等同处理——[[Argument_Slavin_2019_EP\|Slavin (2019)]] 会认为这放弃了因果推论的核心要求。
 > - **Dewey/Biesta 的回应** 交易认识论不是相对主义——"warranted assertions"的"依据"（warrant）来自实验过程的严谨性和公开可检验性。区别在于它承认这些断言的情境限制和未来不确定性，而非否定证据的价值。([[Argument_Biesta_2010_SPE\|Biesta, 2010, pp. 494–495]])
 >
-> **目前状态** 此哲学争议在教育研究领域持续；Ercikan & Roth (2006) 以及 Maxwell (2004) 在[[Mixed Methods Research\|混合方法]]文献中提供了折中方案——承认知识的交易性但不放弃跨情境比较。
+> **目前状态** 此哲学争议在教育研究领域持续；Ercikan and Roth (2006) 以及 Maxwell (2004) 在[[Mixed Methods Research\|混合方法]]文献中提供了折中方案——承认知识的交易性但不放弃跨情境比较。
 
 
 > [!warning] 对科学实践的描述是否准确
@@ -114,13 +114,13 @@ updated: 2026-10-15
 > [!warning] 实操意义不明
 > 交易认识论对教育研究的具体方法论指引不够清晰：是否仍应进行实验？如果是，应如何不同地设计和解读实验？Biesta 在本文中的回答停留在哲学层面（"继续做研究但改变你的解读"），未提供方法论层面的操作指南。
 >
-> **目前状态**Cartwright & Hardie (2012) 在 *Evidence-Based Policy: A Practical Guide to Doing It Better* 中提供了交易认识论视角下如何进行政策评估的操作性建议，部分回应了这一批评。
+> **目前状态**Cartwright and Hardie (2012) 在 *Evidence-Based Policy: A Practical Guide to Doing It Better* 中提供了交易认识论视角下如何进行政策评估的操作性建议，部分回应了这一批评。
 
 ## 相关研究
 
 > [!example] [[Correlational Research\|相关研究]]
 > - [[Argument_Biesta_2010_SPE\|Biesta (2010)]] — 将交易[[Epistemology\|认识论]]应用于批判[[Evidence-Based Education\|证据本位教育]]的[[Theory of Knowledge\|知识论]]前提
-> - Biesta & Burbules (2003) — 全面阐述交易认识论对教育研究的意义
+> - Biesta and Burbules (2003) — 全面阐述交易认识论对教育研究的意义
 
 ## 应用领域
 

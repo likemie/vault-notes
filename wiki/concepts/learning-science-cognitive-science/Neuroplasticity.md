@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 定义
@@ -63,7 +63,7 @@ updated: 2026-10-15
 
 
 > [!abstract] 可塑性的三种类型
-> [[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie (2017, p.6)]] 描述了导致成熟大脑发育的三种突触可塑性类型：
+> [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017, p.6)]] 描述了导致成熟大脑发育的三种突触可塑性类型：
 >
 > - **经验独立可塑性（Experience-independent plasticity）** — 由遗传决定，发生在产前发育阶段
 > - **经验预期可塑性（Experience-expectant plasticity）** — 发生在发育过程中，突触发生期间过度生产的神经元和连接根据划定区域的连接性被精炼

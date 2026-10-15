@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Clinical Trial
@@ -77,7 +77,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **临床试验（Clinical Trial，亦称临床研究 Clinical Study）**是以人为研究对象，按照严密预设的研究方案分阶段[[Evaluation Research|评估研究]]性药物、医疗器械、生物制品、细胞与基因疗法之安全性、疗效和风险收益比的前瞻性[[Intervention Research|干预研究]]活动。
+> **临床试验（Clinical Trial，亦称临床研究 Clinical Study）** 是以人为研究对象，按照严密预设的研究方案分阶段[[Evaluation Research|评估研究]]性药物、医疗器械、生物制品、细胞与基因疗法之安全性、疗效和风险收益比的前瞻性[[Intervention Research|干预研究]]活动。
 >
 > 随机双盲临床试验（Randomized [[Blinding|double-blind]] Clinical Trial）历来被公认为确立因果疗效证据的“黄金标准”，也是新疗法获取国家监管机构（如美国食品药品监督管理局，FDA）上市批准的法定[[Necessary and Sufficient Conditions|必要条件]]。在跨界[[University-Industry Collaboration|产学合作]]生态中，临床试验构成了生物医药与生命科学领域资金规模最大、规制要求最严苛的转化载体。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 38)]]
 

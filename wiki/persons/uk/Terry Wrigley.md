@@ -59,7 +59,7 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 ## 简介
 
@@ -96,7 +96,7 @@ updated: 2026-10-07
 >
 > > "The sloganistic 'what works' reflects a neoliberal demand to extract maximum efficiency from education, while marginalising the qualitative and political dimensions of human formation." ([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 13]])
 >
-> 4. **"简单科学观"批判（与 McCusker 合作，2019）** [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker (2019)]] 将批判从方法论层次提升至**科学哲学**层次——论证 EBT 倡导者的"科学"宣称依赖于一种过分简化的**民间科学观（folk-view of science, Thomas, 2012, p. 28）**，它捕捉了科学的表面特征（实验、测量、统计）但缺乏对[[Scientific Method\|科学方法]]的理论理解。通过 [[EEF Teaching and Learning Toolkit]] 体育参与条目的深度案例追踪，展示了元-元分析如何在多级统计聚合中系统性消除因果解释信息。详见 [[Argument_Wrigley_2019_ERE]]。
+> 4. **"简单科学观"批判（与 McCusker 合作，2019）** [[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019)]] 将批判从方法论层次提升至**科学哲学**层次——论证 EBT 倡导者的"科学"宣称依赖于一种过分简化的**民间科学观（folk-view of science, Thomas, 2012, p. 28）**，它捕捉了科学的表面特征（实验、测量、统计）但缺乏对[[Scientific Method\|科学方法]]的理论理解。通过 [[EEF Teaching and Learning Toolkit]] 体育参与条目的深度案例追踪，展示了元-元分析如何在多级统计聚合中系统性消除因果解释信息。详见 [[Argument_Wrigley_2019_ERE]]。
 >
 > > "It is our contention that these appeals to science use a flawed and stereotyped vernacular image or 'folk-view' of the natural sciences for rhetorical effect but fail to probe sufficiently into the true characteristics of science." ([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 111]])
 
@@ -120,12 +120,12 @@ updated: 2026-10-07
 > | **Wrigley** (2018) | **方法技术（[[Randomised Controlled Trials\|RCT]]→[[Meta-analysis\|元分析]]→[[Meta-meta-analysis\|元元分析]]的三级失真）** | **[[Critical Realism\|批判实在论]]（Bhaskar/Sayer/Pawson）** |
 > | **Wrigley & McCusker** (2019) | **科学哲学 + 方法技术（简单科学观 + 案例追踪）** | **批判实在论 + [[Education Endowment Foundation\|EEF]] Toolkit 深度案例追踪** |
 >
-> 三人从不同角度围攻 EBE：Biesta 说它**在哲学上是错的**，Cowen 说它**在制度上被选择并非因为对**，[[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] 说它**在方法论上逐级失真**，[[Argument_Wrigley_2019_ERE\|Wrigley & McCusker (2019)]] 补充说它**对科学本身的理解就是片面的**。
+> 三人从不同角度围攻 EBE：Biesta 说它**在哲学上是错的**，Cowen 说它**在制度上被选择并非因为对**，[[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] 说它**在方法论上逐级失真**，[[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019)]] 补充说它**对科学本身的理解就是片面的**。
 
 
 > [!note-] 对后续研究的影响
 > - [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]]对 EEF Toolkit 的方法论批判被 Bainbridge et al.（2022, p.3）引用，作为讨论英国议会选择性教育政策辩论中[[Research Utilization\|证据使用]]问题的理论基础——标志着 Wrigley 的批判从方法论研究进入政策分析领域
-> - [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker (2019, p. 123)]] 援引 Biesta（2010, p. 496）的开放/递归/符号系统理论作为批判 EBT 方法论的核心依据——"将开放系统视为封闭系统来对待是不科学的"——形成了批判实在论与[[Pragmatic Paradigm\|实用主义]]教育哲学在方法论批判中的交汇
+> - [[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019, p. 123)]] 援引 Biesta（2010, p. 496）的开放/递归/符号系统理论作为批判 EBT 方法论的核心依据——"将开放系统视为封闭系统来对待是不科学的"——形成了批判实在论与[[Pragmatic Paradigm\|实用主义]]教育哲学在方法论批判中的交汇
 > - 其"简单科学观"概念为后续 EBE 批判者提供了区别于"反科学"立场的[[Discourse|话语]]资源
 
 ## 争议与批评

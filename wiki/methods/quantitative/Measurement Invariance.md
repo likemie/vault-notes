@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-28
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Measurement Invariance
@@ -88,7 +88,7 @@ updated: 2026-10-08
 > - **研究者角色** 研究者在开展任何跨组均值检验（如 $t$ 检验、[[Analysis of Variance\|ANOVA]]、[[Multivariate Analysis of Variance\|MANOVA]]）或跨组结构方程模型（[[Causal Modeling\|SEM]]）路径比较前，**必须先行确立测量等值性**；未经等值性检验的直接跨组比较在方法论上属于非法推论（Comparison Fallacy）。
 > - **有效性标准** 
 >   - 比较因子协方差/回归路径：需达到**弱等值（Metric Invariance）**；
->   - 比较潜变量均值/方差分析：需达到**强等值（Scalar Invariance）**或部分强等值；
+>   - 比较潜变量均值/方差分析：需达到**强等值（Scalar Invariance）** 或部分强等值；
 >   - 直接使用简易加总总分比较：需达到**严格等值（Strict Invariance）**。
 > - **不声称回答的问题** 测量等值性仅检验[[Scale of Measurement\|测量尺度]]本身的跨组同质性，不能解释为何某群体潜变量水平显著高于另一群体（群体间真实水平差异由后续实质性因果模型解释）。
 
@@ -129,7 +129,7 @@ updated: 2026-10-08
 > 传统卡方差异检验对[[Sample Size Determination\|样本量]]极度敏感。在大样本（$N > 200$）下，哪怕参数仅存在微不足道的微弱差异，$\Delta\chi^2$ 也会呈统计学显著（$p < .05$），从而导致严重的过度拒绝（Type I 错误膨胀）。因此，现代心理测量学全面采用实际拟合指数的改变量作为稳健决策标准。
 >
 > **判定门槛**
-> - **Cheung & Rensvold (2002) 准则** $|\Delta\text{CFI}| \le .010$ 且 $|\Delta\text{NNFI}| \le .010$ 时，约束模型成立。
+> - **Cheung and Rensvold (2002) 准则** $|\Delta\text{CFI}| \le .010$ 且 $|\Delta\text{NNFI}| \le .010$ 时，约束模型成立。
 > - **Chen (2007) 综合样本量准则** 
 >   - 弱等值检验：$|\Delta\text{CFI}| \le .010$ 且 $\Delta\text{RMSEA} \le .015$（$\Delta\text{SRMR} \le .030$）；
 >   - 强等值与严格等值检验：$|\Delta\text{CFI}| \le .010$ 且 $\Delta\text{RMSEA} \le .015$（$\Delta\text{SRMR} \le .015$）。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 12)]]

@@ -177,7 +177,7 @@ citation_aliases:
 > [!warning] 局限性与批评
 > ### 哲学论证的实操距离
 >
-> **批评内容** Biesta 的论证停留在哲学层面（[[Epistemology\|认识论]]、存在论、实践论的概念分析），未提供[[Value-Based Education\|价值本位教育]]如何在教师教育和课堂实践层面具体操作的路线图。Cartwright & Hardie (2012) 在 *Evidence-Based Policy: A Practical Guide to Doing It Better* 中提供了从交易认识论视角进行政策评估的操作性建议，部分回应了这一批评——但 Biesta 本人未进行这一层面的工作。
+> **批评内容** Biesta 的论证停留在哲学层面（[[Epistemology\|认识论]]、存在论、实践论的概念分析），未提供[[Value-Based Education\|价值本位教育]]如何在教师教育和课堂实践层面具体操作的路线图。Cartwright and Hardie (2012) 在 *Evidence-Based Policy: A Practical Guide to Doing It Better* 中提供了从交易认识论视角进行政策评估的操作性建议，部分回应了这一批评——但 Biesta 本人未进行这一层面的工作。
 >
 > **影响** 此局限使得 Biesta 的论文更多被用作批判武器（"为什么 [[Evidence-Based Education\|EBE]] 不可行"），而非建设性方案（"如何实施价值本位教育"）。其在教师群体中的直接影响力有限。
 >

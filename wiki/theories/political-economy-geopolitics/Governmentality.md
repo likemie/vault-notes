@@ -97,7 +97,7 @@ updated: 2026-10-16
 > 治理术关涉的是“行为的引导”（Conduct of conduct）——不是通过强制命令，而是通过塑造主体的自我理解来引导行为。权力不再以否定性的禁止为主要形态，而是积极建构主体的反思能力，使其在自我审视中主动对齐体制的期许。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, p. 226)]]
 
 > [!citation-card]
-> **[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] 论古典政治理论视野下的广义治理**
+> **[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] 论古典政治理论视野下的广义治理**
 > 在政治社会学与比较教育学中，“治理”（Government）绝不能窄化为国家机构（State）的同义词；它必须在更宽广的古典政治理论维度被理解为一个统摄性范畴，涵盖了人类个体受到外部制度规制以及进行自我调节（Regulated and Self-regulate）的极其微观且多元的全部方式。正是在这一基座上，学校演变为现代治理将个体与人口转化为可计算、可行政管理对象的中枢节点。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360, 367)]]
 
 ---
@@ -164,7 +164,7 @@ graph TD
 > **应用实例** [[EU|欧洲联盟]]通过[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）赋予大学生跨国求学的充分自由，并将其赞美为自由探索未来的美德；然而学者指出，这实质上是要求青年个体自发承担打造跨文化“就业[[Competitiveness|竞争力]]”的责任，把应对全球劳动力市场波动的压力内化为个人的道德修行。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
 
 > [!theory-proposition] 命题三｜现代治理本质上依赖对空间的建构、计算与封闭
-> **解释** 治理决不仅是时间上的历史演进或身体上的行为操练，而是在根本上依赖于空间的构想、划界与操控。如 Rose（1999）与 Sobe & Fischer（2009）所示，现代权力通过人为制造“学区”、“教室”、“家庭”等离散单元（领地化），并通过统计图表将分散人群变为可见对象（空间凝视），从而使学校成为把人口圈禁在固定网格中的“封闭容器”（Enclosure），以及根据文化标准决定谁有资格跨入更广阔社会空间的“筛选关卡”（Qualification）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361)]]
+> **解释** 治理决不仅是时间上的历史演进或身体上的行为操练，而是在根本上依赖于空间的构想、划界与操控。如 Rose（1999）与 Sobe and Fischer（2009）所示，现代权力通过人为制造“学区”、“教室”、“家庭”等离散单元（领地化），并通过统计图表将分散人群变为可见对象（空间凝视），从而使学校成为把人口圈禁在固定网格中的“封闭容器”（Enclosure），以及根据文化标准决定谁有资格跨入更广阔社会空间的“筛选关卡”（Qualification）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361)]]
 >
 > **应用实例** 在[[Migrant Children|流动儿童]]管理中，中国通过城乡二元[[Hukou System|户籍制度]]在空间上设立公办学校准入门槛，而美国基础教育则在《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》下将中途频繁转校的学生定性为拖累达标率的“[[Transiency|流动漂泊]]者”；两者均利用空间技术划定主体合法性。
 
@@ -216,7 +216,7 @@ graph TD
 
 > [!critique]- 批评索引
 > - [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]] — 批判过度聚焦微观自我技术可能导致忽视宏观社会阶层对教育结果的决定性压迫。
-> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 强调治理术分析必须与空间实践结合，走出传统仅关注身体与意识、忽视物理地理维度的狭隘视野。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 强调治理术分析必须与空间实践结合，走出传统仅关注身体与意识、忽视物理地理维度的狭隘视野。
 
 ---
 

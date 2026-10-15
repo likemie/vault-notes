@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Intercoder Agreement
@@ -152,7 +152,7 @@ updated: 2026-10-15
 在经验研究中，编码[[Reliability|信度]]达到何种水平方可接受，文献提供了两套被广泛引用的经典基准：
 
 > [!stat-cards] 质性与元分析两大信度量化门槛
-> - **Miles & Huberman（1994）：80% 质性一致性底线** 在质性数据分析中，两位独立编码者对相同文本片段的编码一致性比率至少应当达到 **80%**，方可被视为具备良好的[[Qualitative Reliability\|质性信度]]（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch. 9]]）。
+> - **Miles and Huberman（1994）：80% 质性一致性底线** 在质性数据分析中，两位独立编码者对相同文本片段的编码一致性比率至少应当达到 **80%**，方可被视为具备良好的[[Qualitative Reliability\|质性信度]]（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch. 9]]）。
 > - **Hunter et al.（1982）：75% 方差解释门槛** 在元分析中，[[Sampling Error\|抽样误差]]与测量误差等已校正因素所解释的观察[[Effect Size\|效应量]]方差若低于 **75%**，则研究结果不可接受，因为剩余过大的未解释变异意味着文献特征的编码与分类存在严重不可靠性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al., 2011, Ch. 17, pp. 362–363]]）。
 
 > [!decisions] Weber 范畴信度控制黄金律（Weber, 1990）

@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Paul Pierson
@@ -129,8 +129,8 @@ updated: 2026-10-15
 > - **跨学科辐射** 其时间性理论被社会学、历史学、法学与组织理论广泛引用，成为反对“无历史的微观经济学帝国主义”的理论旗帜。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 明确以皮尔逊（1994）的福利国家不可削减论为经典靶子，批评[[Historical Institutionalism|历史制度主义]]将无显性法律废止等同于制度无变迁的连续性偏误（pp. 6–8）。
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 明确吸收皮尔逊关于颠覆者作为地下室白蚁的经典机制定性，并对话其早期路径依赖稳态假定（pp. xiii, 7, 31）。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 明确以皮尔逊（1994）的福利国家不可削减论为经典靶子，批评[[Historical Institutionalism|历史制度主义]]将无显性法律废止等同于制度无变迁的连续性偏误（pp. 6–8）。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 明确吸收皮尔逊关于颠覆者作为地下室白蚁的经典机制定性，并对话其早期路径依赖稳态假定（pp. xiii, 7, 31）。
 
 ---
 
@@ -153,7 +153,7 @@ updated: 2026-10-15
 > > 围绕皮尔逊早期的报酬递增模型是否过度夸大了制度不可变性，以及是否忽视了非立法性的制度侵蚀展开激烈争论。
 > >
 > > - **Paul Pierson（1994, 1996）** 由于福利项目创造了庞大的受惠阶层并诱发自强化锁定，政治家因恐惧选民惩罚而极力规避指责，导致福利国家具有强大的抗削减韧性。
-> > - **Wolfgang Streeck & Kathleen Thelen（2005）** 皮尔逊将变迁狭隘地等同于显性的成文法废止（explicit legislative repeal），陷入严重的连续性偏误；保守派无需发动正面的修法大战，只需借助[[Institutional Drift|制度漂移]]（拒绝随通胀与外部风险更新保障）或[[Institutional Layering|制度层叠]]（扶持私人替代支柱），就能在法条未改的外壳下瓦解福利保障。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 6–8)]]
+> > - **Wolfgang Streeck and Kathleen Thelen（2005）** 皮尔逊将变迁狭隘地等同于显性的成文法废止（explicit legislative repeal），陷入严重的连续性偏误；保守派无需发动正面的修法大战，只需借助[[Institutional Drift|制度漂移]]（拒绝随通胀与外部风险更新保障）或[[Institutional Layering|制度层叠]]（扶持私人替代支柱），就能在法条未改的外壳下瓦解福利保障。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 6–8)]]
 > > - **Paul Pierson（2004, 2010）** 在后续研究中充分吸收渐进演化视角，与[[Jacob S. Hacker|哈克]]合著《赢家通吃的政治》深入剖析有组织商业集团如何利用政策漂移与规制阻滞重塑美国不平等结构。
 
 ---

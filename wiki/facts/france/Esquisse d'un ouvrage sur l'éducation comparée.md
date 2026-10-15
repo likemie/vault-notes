@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Esquisse d'un ouvrage sur l'éducation comparée
@@ -147,14 +147,14 @@ updated: 2026-10-15
 > > [!axis] [[Positivism\|实证主义]]科学性 vs 价值预设偏见
 > > 英美战后实证量化派学者从[[Scientific Method\|经验科学]]标准批评《计划》的[[Questionnaire\|问卷]]缺乏方法学严谨性与客观中立。
 > >
-> > - **Harold Noah & Max Eckstein (1969)** 批评朱利安的问卷体系过于臃肿复杂，且充斥着浓厚的个人先验主观价值预设（bias），多处采用诱导性提问（[[Leading Questions]]），其实质不是中立地记录“事实”，而是向受访者宣扬其自身的道德与儿童中心教学法主张。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 16; Noah & Eckstein, 1969:29)]]
-> > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]]** 指出朱利安在道德宗教与心智教育类目下的确频繁使用带有强烈赞赏色彩的修辞（如推崇[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]算法、批评死板教理问答），但将其完全判定为“不合格的科学”脱离了历史情境。（pp. 16–17）
+> > - **Harold Noah and Max Eckstein (1969)** 批评朱利安的问卷体系过于臃肿复杂，且充斥着浓厚的个人先验主观价值预设（bias），多处采用诱导性提问（[[Leading Questions]]），其实质不是中立地记录“事实”，而是向受访者宣扬其自身的道德与儿童中心教学法主张。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 16; Noah & Eckstein, 1969:29)]]
+> > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]]** 指出朱利安在道德宗教与心智教育类目下的确频繁使用带有强烈赞赏色彩的修辞（如推崇[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]算法、批评死板教理问答），但将其完全判定为“不合格的科学”脱离了历史情境。（pp. 16–17）
 >
 > > [!axis] 自然实证科学 vs 欧洲大陆[[Geisteswissenschaften|精神科学]]（Human Sciences）
 > > 欧洲大陆人文主义与思想史学者强调不能用 20 世纪美国行为主义量化实证观来机械裁剪朱利安的 19 世纪文本。
 > >
 > > - **R. R. Palmer (1993)** 考证指出，朱利安在其 1819 年《人类知识分类总表》中明确将教育学列入涉及心灵与道德经验的“二级精神科学（second order sciences）”；其所谓的“科学”指称一切崇高的人类理性反思，绝非狭隘的统计指标计算。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 17–18]]; Palmer, 1993:176–178）
-> > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]]** 论证朱利安追求的是一种“复调的人道世界（polyphonic human world）”，其核心驱动力是启蒙[[Cosmopolitanism|世界主义]]、儿童自然权利与欧洲和平秩序维系，是具有深厚人文关怀的现代性起点。（pp. 18–20）
+> > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]]** 论证朱利安追求的是一种“复调的人道世界（polyphonic human world）”，其核心驱动力是启蒙[[Cosmopolitanism|世界主义]]、儿童自然权利与欧洲和平秩序维系，是具有深厚人文关怀的现代性起点。（pp. 18–20）
 
 > [!citation-card]- 代表性学术评论：诺亚与埃克斯坦 vs 卡洛扬纳基与卡扎米亚斯
 > 诺亚与埃克斯坦认为朱利安最终关切的是传播教育革新知识：深受[[Jean-Jacques Rousseau\|卢梭]]与裴斯泰洛齐思想影响，他期望促进一种实用的、以儿童为中心的教学法，强调感官教育与融入社会生活的预备，一切均带有鲜明的人道主义色彩。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 18)]]

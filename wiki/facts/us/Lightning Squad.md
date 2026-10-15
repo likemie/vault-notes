@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-12
+updated: 2026-10-16
 ---
 
 # Lightning Squad
@@ -68,7 +68,7 @@ updated: 2026-10-12
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **Lightning Squad（闪电突击队 / 闪电读写小组）**是由约翰斯·霍普金斯大学教育研究与改革中心（CRRE）[[Nancy Madden\|南希·马登]]（Nancy A. Madden）与[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）联合研发的计算机技术辅助早期读写小组辅导项目；其核心目标是通过将[[Gamification\|游戏化]]智能自适应学习软件与低成本教学助教现场指导紧密结合，破解传统一对一辅导昂贵且难以向全校普惠的组织瓶颈，实现“1 名助教同时高质辅导 4 至 6 名弱势儿童”的规模化效能跃升。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 27–28, 30)]]
+> **Lightning Squad（闪电突击队 / 闪电读写小组）** 是由约翰斯·霍普金斯大学教育研究与改革中心（CRRE）[[Nancy Madden\|南希·马登]]（Nancy A. Madden）与[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）联合研发的计算机技术辅助早期读写小组辅导项目；其核心目标是通过将[[Gamification\|游戏化]]智能自适应学习软件与低成本教学助教现场指导紧密结合，破解传统一对一辅导昂贵且难以向全校普惠的组织瓶颈，实现“1 名助教同时高质辅导 4 至 6 名弱势儿童”的规模化效能跃升。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 27–28, 30)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 2010 年代中期依托全员成功基金会（[[Success for All]] Foundation）与联邦创新资助启动研发，经多项多学区多中心[[Randomised Controlled Trials\|随机对照试验]]（RCT）验证并常态化应用至今。
@@ -81,7 +81,7 @@ updated: 2026-10-12
 ## 方案设计与运行机制
 
 > [!claim] 核心干预假说
-> 将高趣味度的多媒体动画故事、发音自适应识别算法与两人结对（Peer-Assisted）操作相结合，由教学助教统一组织 4–6 名学生以小班形式每周开展 3–4 次、每次 30 分钟的技术辅助辅导，能以 $1/4$ 的师资工时投入取得逼近传统个别辅导的显著学业增益。Madden & Slavin (2017)
+> 将高趣味度的多媒体动画故事、发音自适应识别算法与两人结对（Peer-Assisted）操作相结合，由教学助教统一组织 4–6 名学生以小班形式每周开展 3–4 次、每次 30 分钟的技术辅助辅导，能以 $1/4$ 的师资工时投入取得逼近传统个别辅导的显著学业增益。Madden and Slavin (2017)
 
 > [!policy-design] 方案设计与运行模式
 > - **自适应软件主导直接练习** 软件内置结构化音素拼读与词汇阶梯，系统根据学生的即时按键与语音朗读反应，动态调整练习难度，确保学生始终处于[[Zone of Proximal Development\|最近发展区]]。
@@ -99,7 +99,7 @@ updated: 2026-10-12
 
 > [!dev-timeline] Lightning Squad 发展历程
 > - **2014–2016 — 软件系统研发与同伴互动模型整合** 马登与斯莱文团队完成 60 余个技术辅导故事模块开发，将 [[Success for All\|SFA]] 经典同伴学习机制（Peer Coaching）无缝植入多媒体交互流程中。
-> - **2016–2018 — 多学区严格因果评估与成果发表** Madden & Slavin (2017) 等学者在马里兰州与全美多个城市学区连续开展三项严格[[Randomised Controlled Trials\|随机对照试验]]，证实助教主导的技术辅导取得了 $+0.34$ 的显著增益。
+> - **2016–2018 — 多学区严格因果评估与成果发表** Madden and Slavin (2017) 等学者在马里兰州与全美多个城市学区连续开展三项严格[[Randomised Controlled Trials\|随机对照试验]]，证实助教主导的技术辅导取得了 $+0.34$ 的显著增益。
 > - **2019–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据平台与全美推广** 被 [[Evidence for ESSA]] 与 [[What Works Clearinghouse\|WWC]] 正式收录为强证据方案，并作为技术赋能助教辅导的示范案例被写入全美各州学区采购指南。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
 ---

@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # PISA Shock in Japan
@@ -60,7 +60,7 @@ updated: 2026-10-15
 ## 背景与历史成因
 
 > [!claim] 核心定性
-> 日本 [[PISA]] 震荡（PISAショック, [[PISA Shock]] in Japan）特指 2004 年底[[OECD|经济合作与发展组织]]（OECD）公布第二届国际学生评估项目（PISA 2003）测试结果后在日本社会、教育学界与政界引爆的全国性危机论战与政策转向。不同于德国对体制和组织层面的震荡反思，日本的 PISA 震荡聚焦于**教育内容与学力[[Construct|构念]]**本身，成为终结 1980 年代以来“宽松教育”（ゆとり教育, Yutori Education）、确立“扎实学力”（確かな学力, Robust Academic Proficiency）与实证改进机制的决定性历史节点。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
+> 日本 [[PISA]] 震荡（PISAショック, [[PISA Shock]] in Japan）特指 2004 年底[[OECD|经济合作与发展组织]]（OECD）公布第二届国际学生评估项目（PISA 2003）测试结果后在日本社会、教育学界与政界引爆的全国性危机论战与政策转向。不同于德国对体制和组织层面的震荡反思，日本的 PISA 震荡聚焦于**教育内容与学力[[Construct|构念]]** 本身，成为终结 1980 年代以来“宽松教育”（ゆとり教育, Yutori Education）、确立“扎实学力”（確かな学力, Robust Academic Proficiency）与实证改进机制的决定性历史节点。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2003 年底测试至 2004 年 12 月测评结果公布，核心影响日本全国基础教育学制与文部科学省政策。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]

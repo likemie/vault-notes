@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # TIDieR
@@ -134,7 +134,7 @@ updated: 2026-10-15
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] | TIDieR (2014) | 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）方法学指南体系 | 复杂教育干预方案标准化解构与复现核查 | EEF 采纳曼彻斯特大学评估综述（Humphrey et al., 2016），自 2014 年起正式将 TIDieR 规定为所有立项干预必须填写的标准模板，强制要求清晰界定因果[[Theory of Change\|变革理论]]、对照组活动、现场遵从度与剂量数据，推动了全英教育试验向[[Realist Evaluation\|现实主义试验]]（Realist Trials）演进。 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | TIDieR (2014) | 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）方法学指南体系 | 复杂教育干预方案标准化解构与复现核查 | EEF 采纳曼彻斯特大学评估综述（Humphrey et al., 2016），自 2014 年起正式将 TIDieR 规定为所有立项干预必须填写的标准模板，强制要求清晰界定因果[[Theory of Change\|变革理论]]、对照组活动、现场遵从度与剂量数据，推动了全英教育试验向[[Realist Evaluation\|现实主义试验]]（Realist Trials）演进。 |
 
 ---
 
@@ -146,5 +146,5 @@ updated: 2026-10-15
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
 > | TIDieR 原始版（2014） | 英语（全球） | 医学、临床护理、行为心理与公共卫生复杂干预 | 12 项 | 拓展 CONSORT 2010 第 5 条与 SPIRIT 2013 第 11 条，系统确立干预方案描述国际金标准 | Hoffmann et al. (2014) |
-> | [[Education Endowment Foundation\|EEF]] 试验方案干预描述标准版 | 英语（英国） | 英格兰公立中小学现场教育[[Intervention Research\|干预研究]]团队与方案研发者 | 契合 TIDieR 的 12 项定制模板 | 全面融入 EEF 官方《实施与过程评估指南》（The EEF, 2019b），要求在立项[[Preregistration\|预注册]]方案与结项报告中必须逐项提供 TIDieR 附录 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]]; Humphrey et al. (2016) |
+> | [[Education Endowment Foundation\|EEF]] 试验方案干预描述标准版 | 英语（英国） | 英格兰公立中小学现场教育[[Intervention Research\|干预研究]]团队与方案研发者 | 契合 TIDieR 的 12 项定制模板 | 全面融入 EEF 官方《实施与过程评估指南》（The EEF, 2019b），要求在立项[[Preregistration\|预注册]]方案与结项报告中必须逐项提供 TIDieR 附录 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]; Humphrey et al. (2016) |
 

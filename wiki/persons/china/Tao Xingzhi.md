@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Tao Xingzhi
@@ -122,7 +122,7 @@ updated: 2026-10-15
 > - **1980年代[[Discourse|话语]]重构** 1980年代初中国学术界通过“重新评价陶行知批判性吸收[[John Dewey\|杜威]]”间接解封了杜威思想的合法性，并为邓小平四个现代化提供了教育话语支撑。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.84–86]]）
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]] — 详细分析了陶行知《新教育评论》时代推行[[Scientific Attitude\|科学态度]]的[[Paradigm\|范式]]转向。
+> - [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] — 详细分析了陶行知《新教育评论》时代推行[[Scientific Attitude\|科学态度]]的[[Paradigm\|范式]]转向。
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 揭示了陶行知对“衣食主义”的批评，以及1980年代陶行知研究如何成为解封杜威与支持四个现代化的契机。
 
 ---
@@ -143,7 +143,7 @@ updated: 2026-10-15
 > > [!axis] [[Jiang Menglin\|蒋梦麟]]“民主原则”与陶行知“[[Scientific Attitude\|科学态度]]”的[[Paradigm Wars\|范式之争]]
 > > 民国教育界关于新教育改革灵魂的论战：以追赶西方民主为主，还是以适应国情的科学态度为主。
 > >
-> > - **[[Argument_Zhou_2024_CE\|Zhou & Westberg (2024, pp.619–621)]]** 论证了从蒋梦麟到陶行知的转向成功将[[Pragmatic Paradigm\|实用主义]]渐进方法与中国国情实现了[[Going Native\|本土化]]衔接。
+> > - **[[Argument_Zhou_2024_CE\|Zhou and Westberg (2024, pp.619–621)]]** 论证了从蒋梦麟到陶行知的转向成功将[[Pragmatic Paradigm\|实用主义]]渐进方法与中国国情实现了[[Going Native\|本土化]]衔接。
 
 > [!critique]- 批评索引
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009, p.77)]] — 记载了陶行知对民国保守派将[[John Dewey\|杜威]]思想降格为“衣食主义”的深刻批评。

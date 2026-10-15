@@ -62,7 +62,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Push and Pull Models of Knowledge Mobilisation
@@ -72,7 +72,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **[[Knowledge Mobilisation\|知识动员]]的推拉模型（Push and Pull Models of Knowledge Mobilisation）** 是知识动员与[[Research Utilization\|研究利用]]领域的双机制分析模型。该模型将知识在系统中的流动划分为两大互补形态：**供给推送（Push）** 是指由研究生产者、中介机构或政策行政部门主导，侧重于系统性研究产出、证据综合、数据库建设及政策简报的单向发布与分发；**需求牵引（Pull）** 是指以一线[[School Leadership\|学校领导]]者与教师等终端实践者为中心，立足具体教学现场问题与改进愿景，主动检索、审慎批判、吸收并调适适切外部证据的探究过程（Lavis et al., 2003; Nutley et al., 2007; [[Argument_Torres_2022_KMModels\|Torres, 2022b, pp. 43–45]]；[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022, pp. 183–185, 193–195]]）。随着知识动员理论的深化，该模型进一步拓展出**双向互动与知识协同（Linkage and Exchange / [[Knowledge Co-production\|co-production]]）**机制，倡导超越传统单向供给推送的[[Path Dependence|路径依赖]]，将系统资源向培育实践端的[[Absorptive Capacity\|吸收能力]]（Absorptive Capacity）与组织使能条件深度倾斜。
+> **[[Knowledge Mobilisation\|知识动员]]的推拉模型（Push and Pull Models of Knowledge Mobilisation）** 是知识动员与[[Research Utilization\|研究利用]]领域的双机制分析模型。该模型将知识在系统中的流动划分为两大互补形态：**供给推送（Push）** 是指由研究生产者、中介机构或政策行政部门主导，侧重于系统性研究产出、证据综合、数据库建设及政策简报的单向发布与分发；**需求牵引（Pull）** 是指以一线[[School Leadership\|学校领导]]者与教师等终端实践者为中心，立足具体教学现场问题与改进愿景，主动检索、审慎批判、吸收并调适适切外部证据的探究过程（Lavis et al., 2003; Nutley et al., 2007; [[Argument_Torres_2022_KMModels\|Torres, 2022b, pp. 43–45]]；[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022, pp. 183–185, 193–195]]）。随着知识动员理论的深化，该模型进一步拓展出**双向互动与知识协同（Linkage and Exchange / [[Knowledge Co-production\|co-production]]）** 机制，倡导超越传统单向供给推送的[[Path Dependence|路径依赖]]，将系统资源向培育实践端的[[Absorptive Capacity\|吸收能力]]（Absorptive Capacity）与组织使能条件深度倾斜。
 
 > [!concept-lens] 概念透镜
 > - **核心指向** 研究证据生产端与实践应用端之间的知识流动机制、动力来源与权力关系结构。
@@ -215,4 +215,4 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022)]] — 结合澳大利亚中小学调查，论证教育[[Research Utilization\|研究利用]]议程从供给驱动（Push）向需求牵引（Pull）转型的必要性，提出 [[Quality Use of Research Evidence Framework\|QURE]] 框架及使能支持路径。
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 系统梳理[[Knowledge Mobilisation\|知识动员三代演进模型]]，剖析 Push、Pull 与 Exchange 机制在 [[OECD]] 成员国教育政策中的演进与配置形态。
-> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 探讨[[Educational Brokerage Agency\|知识中介机构]]在连接供给推送与需求牵引中的关键跨界功能，反思商业化异化风险。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 探讨[[Educational Brokerage Agency\|知识中介机构]]在连接供给推送与需求牵引中的关键跨界功能，反思商业化异化风险。

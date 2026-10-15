@@ -86,7 +86,7 @@ updated: 2026-10-16
 > [!def] 方法定义
 > **集群随机试验（Cluster Randomized Trials, CRCT）**，亦称**整群随机试验**或**群组[[Randomised Controlled Trials\|随机对照试验]]（Group-Randomized Trials, GRT）**，是指将完整的自然群体（如学校、班级、学区或社区）而非单个个体作为[[Random Assignment\|随机分配]]（Random Assignment）的基本单位，而在群体内部的个体（如学生、教师）层面收集数据并评估干预效果的真实实验设计([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 316–318]]; [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 1327]])。
 >
-> 在教育与社会政策研究中，CRCT 是实施全校性教学改革与课程干预最核心的量化方法。其核心统计特征在于：同属一个集群（如同一班级）的学生在背景和行为上天然存在相关性，违反了经典统计学的“独立同分布（IID）”假定；若未进行**群[[Intraclass Correlation Coefficient\|组内相关系数]]（Intraclass Correlation Coefficient, ICC）**与[[Hierarchical Linear Model\|多层线性模型]]（HLM）校正，将严重低估[[Standard Error\|标准误]]并制造虚假的[[Statistical Significance\|统计显著性]]。在美国教育部 [[What Works Clearinghouse\|WWC]] 审查规程中，未做集群校正的试验将被系统性降级([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8–10]])。
+> 在教育与社会政策研究中，CRCT 是实施全校性教学改革与课程干预最核心的量化方法。其核心统计特征在于：同属一个集群（如同一班级）的学生在背景和行为上天然存在相关性，违反了经典统计学的“独立同分布（IID）”假定；若未进行**群[[Intraclass Correlation Coefficient\|组内相关系数]]（Intraclass Correlation Coefficient, ICC）** 与[[Hierarchical Linear Model\|多层线性模型]]（HLM）校正，将严重低估[[Standard Error\|标准误]]并制造虚假的[[Statistical Significance\|统计显著性]]。在美国教育部 [[What Works Clearinghouse\|WWC]] 审查规程中，未做集群校正的试验将被系统性降级([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8–10]])。
 
 > [!method-scope] 方法范围
 > - **研究对象** 必须以全校或全班为单位推行的教育干预（如全校读写改革 [[Success for All]]、班级同伴辅导 [[Peer-Assisted Learning Strategies]]、全校综合支持 [[Communities in Schools]]、[[Classroom Management\|课堂管理]]系统 PBIS）。
@@ -105,7 +105,7 @@ updated: 2026-10-16
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **认识论取向** 承认学校教育系统具有嵌套性（Nested Structure）与生态学特征，认为将学生个体从其所属班级与同伴生态中生硬剥离[[Random Assignment\|随机分配]]是不切实际的还原主义。
-> - **内部因果效度与外部概化力双重保障** 批评者常担忧实验结论无法跨情境推广（[[Threats to External Validity\|外部效度威胁]]）。[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）指出，现代方法学要求必须在集群层级开展多层建模（[[Hierarchical Linear Model\|HLM]]）以消除忽略 [[Intraclass Correlation Coefficient\|ICC]] 造成的假阳性，这通常迫使研究必须招募 **40 至 50 所学校（如 25 所实验校 vs 25 所对照校）**以满足统计功效。这种大样本学校池的随机分配在技术上产生了一个关键附带收益：个别学校的极端背景（如卓越校长或异常骨干师资）被有效平滑与平均化，使得实验样本具备高度的宏观代表性，从而在捍卫[[Internal Validity\|内部效度]]的同时有力确立了[[External Validity\|外部效度]]（概化力）。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 8, 10)]]
+> - **内部因果效度与外部概化力双重保障** 批评者常担忧实验结论无法跨情境推广（[[Threats to External Validity\|外部效度威胁]]）。[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）指出，现代方法学要求必须在集群层级开展多层建模（[[Hierarchical Linear Model\|HLM]]）以消除忽略 [[Intraclass Correlation Coefficient\|ICC]] 造成的假阳性，这通常迫使研究必须招募 **40 至 50 所学校（如 25 所实验校 vs 25 所对照校）** 以满足统计功效。这种大样本学校池的随机分配在技术上产生了一个关键附带收益：个别学校的极端背景（如卓越校长或异常骨干师资）被有效平滑与平均化，使得实验样本具备高度的宏观代表性，从而在捍卫[[Internal Validity\|内部效度]]的同时有力确立了[[External Validity\|外部效度]]（概化力）。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 8, 10)]]
 > - **统计功效代价** 相同[[Sample Size Determination\|样本量]]下，集群 [[Randomised Controlled Trials\|RCT]] 的统计功效（Statistical Power）远低于个体级 RCT。决定检验力高低的关键在于**集群数量（Number of Clusters, $K$）**，而非集群内的学生个体数（$m$）。
 
 > [!method-stack] 方法层级
@@ -121,7 +121,7 @@ updated: 2026-10-16
 > 1. **集群抽样与基线评估** 招募足够数量的自然学校或班级（通常要求每组至少 15–30 个集群以上），采集学校背景及历史基线成绩。
 > 2. **实施集群层级[[Random Assignment\|随机分配]]** 在学校或班级层面进行完全随机化（可结合学区或生源特征进行分层块随机分配 Stratified Block Randomization）。
 > 3. **全集群现场干预与保真度监控** 干预校全员落实新课程方案，对照校维持常规教学（[[Business as Usual\|BAU]]），同步监控集群层级的[[Implementation Fidelity\|实施保真度]]。
-> 4. **个体层级[[Pre-test and Post-test\|后测]]数据收集** 跟踪全校学生采集后测指标，分别核查**集群层级流失（Cluster [[Attrition]]）**与**个体层级流失（Sub-cluster Attrition）**。
+> 4. **个体层级[[Pre-test and Post-test\|后测]]数据收集** 跟踪全校学生采集后测指标，分别核查**集群层级流失（Cluster [[Attrition]]）** 与**个体层级流失（Sub-cluster Attrition）**。
 > 5. **构建多层统计估计模型** 采用 [[Hierarchical Linear Model\|HLM]] 或混合效应模型显式估计[[Intraclass Correlation Coefficient\|群内相关系数]] $\rho$，剥离集群间方差与集群内方差。
 > 6. **实施自由度校正与稳健性检验** 针对小样本集群（如学校数 $< 30$），采用 Satterthwaite 或 Kenward-Roger 自由度调整，防止过失显著性（Type I Error）。
 
@@ -198,5 +198,5 @@ updated: 2026-10-16
 > [!evidence-grid-a] 研究索引
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 详析集群处理在 12 所清算中心审查中的系统性分化，揭示未校正 [[Intraclass Correlation Coefficient\|ICC]] 与[[Unit of Analysis\|分析单位]]错位是导致虚假显著性评级的核心技术根源(pp. 8–11)。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011)]] — 阐释班级与学校层面的集群[[Random Assignment\|随机分配]]操作逻辑、组织污染防范及与准实验的转化界限(Ch. 16, pp. 316–318)。
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 规范群组随机分配在教育现场实验中的研究设计程序与多层数据收集要求(Ch. 8, p. 1327)。
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 规范群组随机分配在教育现场实验中的研究设计程序与多层数据收集要求(Ch. 8, p. 1327)。
 > - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 论证大样本（40–50 所学校）集群随机分配配合 [[Hierarchical Linear Model\|HLM]] 分析如何有效消除假阳性偏倚，同时通过学校池均质化提升外部概化力，实现内部与[[External Validity\|外部效度]]的技术统一(pp. 8, 10)。

@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # John W. Meyer
@@ -114,7 +114,7 @@ updated: 2026-10-15
 
 > [!thought-timeline] 思想发展
 > - **1970–1979 — 经验异常与[[Rationalized Myth|制度神话]]的发现：从国家内部[[Variable|变量]]到组织新制度主义** 这一时期主要回应战后跨国教育普及浪潮中出现的经验异常，即为何无论国家贫富、政体民主或专制，全球各地的学校入学率均出现步调一致的暴增，且组织内部的正式结构与实际技术活动往往严重脱节。
->   - **代表著作** Meyer (1971) *Economic and Political Effects on National Educational Enrollment Patterns*; Meyer & Rowan (1977) *Institutionalized Organizations: Formal Structure as Myth and Ceremony*; Meyer & Hannan (1979) *National Development and the World-System: Educational, Economic, and Political Change, 1950–1970*. [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–103)]]
+>   - **代表著作** Meyer (1971) *Economic and Political Effects on National Educational Enrollment Patterns*; Meyer and Rowan (1977) *Institutionalized Organizations: Formal Structure as Myth and Ceremony*; Meyer and Hannan (1979) *National Development and the World-System: Educational, Economic, and Political Change, 1950–1970*. [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–103)]]
 >   - **关键概念／方法** 制度环境（Institutional Environments）、理性神话（Rationalized Myths）、仪式性脱节（[[Cognitive Decoupling|decoupling]]）。
 >   - **阶段转向** [[Falsification|证伪]]了古典现代化理论将教育扩张视作国家内部经济与政治自发需求的假定，论证组织的正式架构主要用于获取外部制度环境的合法性支持，开创了组织社会学的新制度主义[[Paradigm|范式]]。
 > - **1980–1999 — [[World Society Theory|世界社会理论]]的成熟：全球[[Cultural Models|文化模型]]与民族国家[[Institutional Isomorphism|制度同构]]** 这一阶段将研究视野从中观组织跃升至全球宏观体系，系统解释战后全球主权国家在宪法、公民身份、中小学课程设置与义务教育立法上的高度趋同现象。
@@ -122,11 +122,11 @@ updated: 2026-10-15
 >   - **关键概念／方法** [[World Society Theory|世界社会理论]]、[[Cultural Models|文化模型]]、制度同构（Isomorphism）、孤岛思想实验（Island Society Experiment）。
 >   - **阶段转向** 明确提出全球文化模型是战后现代国家与学校制度的核心建构力量；通过孤岛思想实验证明，民族国家即使完全孤立，一旦被发现也会自发采纳源自西方启蒙理性的民主、人权与正规学校制度。
 > - **2000–2014 — 能动性的文化建构与[[Otherhood|为他者行动]]机制** 这一阶段深入探究去中心化的全球秩序中，在缺乏世界政府强制力的情况下，跨国规范与理性治理何以持续运行，以及现代行动者（个体与组织）的本质来源。
->   - **代表著作** Meyer & Jepperson (2000) *The 'Actors' of Modern Society: The Cultural Construction of Social Agency*. [[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 149)]]
+>   - **代表著作** Meyer and Jepperson (2000) *The 'Actors' of Modern Society: The Cultural Construction of Social Agency*. [[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 149)]]
 >   - **关键概念／方法** [[Otherhood|为他者行动]]、行动者身份（Actorhood）、社会能动性建构。
 >   - **阶段转向** 提出现代行动者并非天然具备利益驱动的理性实体，其行动能力本身是文化赋予的合法身份；特别是科学家、咨询专家与国际非政府组织，主要通过“以理智化权威为他人代言”（Otherhood）的方式维系全球秩序运作。
 > - **2015 至今 — 超组织化与大学作为全球知识社会的核心制度** 晚期工作聚焦全球范围内各类实体的空前组织化狂潮，以及高等教育机构如何从昔日的象牙塔转变为全球治理的核心知识权威。
->   - **代表著作** Bromley & Meyer (2015) *Hyper-Organization: Global Organizational Expansion*; Meyer (2019) *Reflections on Rationalization, Actors, and Others*; Frank & Meyer (2020) *The University and the Global Knowledge Society*. [[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 143, 148–149)]]
+>   - **代表著作** Bromley and Meyer (2015) *Hyper-Organization: Global Organizational Expansion*; Meyer (2019) *Reflections on Rationalization, Actors, and Others*; Frank and Meyer (2020) *The University and the Global Knowledge Society*. [[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 143, 148–149)]]
 >   - **关键概念／方法** [[Organizational Actorhood|组织能动者身份]]（自主性、目标导向、问责性、社会嵌入性）、全球知识社会、[[Epistemic Governance|知识治理]]。
 >   - **阶段转向** 将世界社会理论全面落地于组织实证研究，提炼出组织能动者身份四维度框架，系统确立了大学在全球[[Knowledge-Based Economy|知识经济]]与去中心化治理中的核心支柱地位。
 
@@ -179,7 +179,7 @@ updated: 2026-10-15
 > [!citation-card] 扎普论迈耶制度主义对现代组织能动性建构的革命性重塑
 > 迈耶及其合作者关于[[Organizational Actorhood|组织能动者身份]]与[[Otherhood|为他者行动]]的开创性论述，深刻重塑了当代社会科学对能动性本质的认识；它打破了将行动者预设为追求自身私利的功利假定，揭示出各类组织之所以能够作为完全组织获得自主性、问责性与合法性，是因为它们在文化上被建构为追求全人类普遍理性、正义与进步的代理人，这为理解现代大学与非政府组织的治理功能提供了前所未有的理论深度。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 145, 148–149)]]
 >
-> *Bromley & Meyer (2015) examine this transition to actorhood systematically... lacking traditional mechanisms of control and authority, world society is essentially constructed through such 'otherhood'... [[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 148–149)]]*
+> *Bromley and Meyer (2015) examine this transition to actorhood systematically... lacking traditional mechanisms of control and authority, world society is essentially constructed through such 'otherhood'... [[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 148–149)]]*
 
 ---
 

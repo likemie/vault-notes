@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Total Quality Management
@@ -72,7 +72,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **全面质量管理（Total Quality Management, TQM）**是一种系统性的组织管理与质量提升[[Paradigm|范式]]，主张将质量视为贯穿组织所有部门与业务流程的整体属性。其核心特征包括：以客户与最终受益者（如学生与社会）的需求为导向、全体成员共同对质量负责、依托[[Statistical Process Control|统计过程控制]]与量化事实开展循证决策，并通过“计划-执行-检查-处理”（PDCA）循环推进持续改进（Continuous Improvement），从而消除组织流程变异与系统性缺陷。在高精技术制造中，TQM 结合全员生产维护（TPM）与跨专业工程诊断，将质量控制由传统的后端成品检验前移至制造全流程参数监控。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 735)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 113–118)]]
+> **全面质量管理（Total Quality Management, TQM）** 是一种系统性的组织管理与质量提升[[Paradigm|范式]]，主张将质量视为贯穿组织所有部门与业务流程的整体属性。其核心特征包括：以客户与最终受益者（如学生与社会）的需求为导向、全体成员共同对质量负责、依托[[Statistical Process Control|统计过程控制]]与量化事实开展循证决策，并通过“计划-执行-检查-处理”（PDCA）循环推进持续改进（Continuous Improvement），从而消除组织流程变异与系统性缺陷。在高精技术制造中，TQM 结合全员生产维护（TPM）与跨专业工程诊断，将质量控制由传统的后端成品检验前移至制造全流程参数监控。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 735)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 113–118)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向将质量控制从“末端产品质检与追责”前置为“全过程系统优化与全员能力赋能”的组织治理机制。

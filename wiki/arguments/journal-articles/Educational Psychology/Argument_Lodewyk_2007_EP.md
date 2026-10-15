@@ -133,7 +133,7 @@ issuing_organization: ""
 > | **问卷调查与因子分析**<br>[[Survey Research]] & EFA | 采用加拿大十年级科学课修订版 52 题 [[Schommer's Modified Epistemological Questionnaire\|SMEQ]]（5点 Likert 计分），结合探索性因子分析（exploratory factor analysis, EFA）的主轴提取与 Varimax 正交旋转，识别中学生认识论信念的底层因子维度。（pp.314–315, 317–318） |
 > | **学业成就与群体差异检验**<br>[[Multivariate Analysis of Variance\|MANOVA]] & [[t-test]] | 自编 14 题人口学问卷（demographic questionnaire, DQ）采集总体学业成就预估值（EOAA，与实际总评成绩相关 $r = .91$）。运用[[Multivariate Analysis of Variance\|多变量方差分析]]（multivariate analysis of variance, MANOVA）与事后 $t$ 检验，对比公立与教会学校、不同学业水平组（高/中/低）及性别间的认识论信念差异。（pp.314, 318–320） |
 > | **组内平衡任务实验**<br>Counterbalanced Within-Subject Design | 在独立学校 89 名学生中实施平衡顺序设计的两类癌症学术任务（各4节80分钟课时完成）：[[Task Structure\|良构任务]]（个人生活方式计划）与劣构任务（专案组癌症资金分配辩护）。（pp.315–316） |
-> | **任务表现与反思性判断评定**<br>Rubric Scoring & [[Reflective Judgment Model\|RJ]] Rating | 任务总分采用评分量规（权重 .90）与 10 题单选题（权重 .10）合成（评分者信度 $r = .88 \sim .93$）；劣构任务中基于 King & Kitchener (1994) 模型独立评定 1–5 分的反思性判断（RJ）得分（评分者信度 $r = .89$）。（pp.316–317） |
+> | **任务表现与反思性判断评定**<br>Rubric Scoring & [[Reflective Judgment Model\|RJ]] Rating | 任务总分采用评分量规（权重 .90）与 10 题单选题（权重 .10）合成（评分者信度 $r = .88 \sim .93$）；劣构任务中基于 King and Kitchener (1994) 模型独立评定 1–5 分的反思性判断（RJ）得分（评分者信度 $r = .89$）。（pp.316–317） |
 > | **分层与多元回归分析**<br>[[Multiple Regression]] | 采用多元回归与分层回归，在控制学校导向因子（确定知识）前后，分别检验[[Epistemological Beliefs\|认识论信念]]对[[Academic Achievement\|学业成就]]、两类任务总成绩及[[Reflexivity\|反思性]]判断得分的预测力。（pp.318–321） |
 
 > [!sample-panel]- 样本与材料快照
@@ -154,7 +154,7 @@ issuing_organization: ""
 > | **资源可及性** | 教师直接提供预先打包整理好的癌症特定资料文件袋。 | 教师不提供现成资料包，学生必须在教室书架和既有资源中自行检索、筛选与甄别材料。 |
 > | **教学线索与子目标** | 任务说明书中提供详尽的格式、文体、小节标题及内容目标指引。 | 仅提供核心问题框架，线索极少，无预设标准大纲。 |
 > | **评价标准透明度** | 详细评分量规在布置任务时直接发放给学生，评分标准完全公开透明。 | 采用不列颠哥伦比亚省教育部历史12考试论文评分标准，但**不向学生展示量规**，考核开放论辩质量。 |
-> | **反思性判断要求** | 低。主要考察信息提取、整合罗列与事实性总结能力。 | 高。基于 King & Kitchener (1994) 模型独立评定 1–5 分的反思性判断得分（考察证据对立权衡与偏见审视）。 |
+> | **反思性判断要求** | 低。主要考察信息提取、整合罗列与事实性总结能力。 | 高。基于 King and Kitchener (1994) 模型独立评定 1–5 分的反思性判断得分（考察证据对立权衡与偏见审视）。 |
 
 ### 反思性判断（RJ）评分等级映射
 

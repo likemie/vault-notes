@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # John W. Kingdon
@@ -151,6 +151,6 @@ updated: 2026-10-15
 > | [[Policy Window]] | 概念 | 提出政策之窗概念，系统揭示重大[[Theories of Policy Change\|政策变革]]发生的时间压缩与时机机制。 |
 > | [[Policy Entrepreneur]] | 概念 | 提出政策企业家概念，阐明改革倡导者的资源投入与战略性[[Policy Brokerage\|政策经纪]]功能。 |
 > | [[Policy Ambiguity]] | 概念 | 剖析决策中的目标歧义性，打破信息增加必然促进理性决策的教条。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证文献 | 将金登议程设置理论与政策生命周期相结合，拓展了其证据动员的微观解释力。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 将金登议程设置理论与政策生命周期相结合，拓展了其证据动员的微观解释力。 |
 
 ---

@@ -1565,6 +1565,28 @@ def git_text(args: list[str]) -> str:
         return ""
 
 
+
+def run_auto_fixes() -> int:
+    """Apply vault_lint's mechanical fixes to git-changed Markdown files.
+
+    Fixes: English two-author conjunctions, bold delimiter boundaries,
+    summary quotes, [!axis] separators (see vault_lint.apply_fixes)."""
+    if str(SCRIPTS_DIR) not in sys.path:
+        sys.path.insert(0, str(SCRIPTS_DIR))
+    import vault_lint as lint  # noqa: PLC0415 - heavy import, only when needed
+
+    files = lint.git_changed_md_files()
+    if not files:
+        return 0
+    argument_citations, _ = lint.build_argument_citation_maps([], [])
+    changed_files, total = lint.apply_fixes(files, argument_citations)
+    if changed_files:
+        print(f"auto-fix: {total} issue(s) fixed in {changed_files} file(s)")
+        _TEXT_CACHE.clear()
+        _FM_CACHE.clear()
+    return 0
+
+
 def sync_updated_dates(dry_run: bool = False, check: bool = False) -> int:
     """Set `updated` to today on wiki entries whose body changed since HEAD."""
     status = git_text(["status", "--porcelain=v1", "-z", "--", "wiki"]).split("\0")
@@ -1627,6 +1649,10 @@ def sync_updated_dates(dry_run: bool = False, check: bool = False) -> int:
 
 
 def run_base_index(book_check: bool = False, book_dry_run: bool = False, citation_args: list[str] | None = None) -> int:
+    # Mechanical lint fixes first, then date bumps for body edits.
+    code = run_auto_fixes()
+    if code:
+        return code
     # Body edits bump `updated` automatically (replaces lint's UPDATED_STALE).
     code = sync_updated_dates()
     if code:

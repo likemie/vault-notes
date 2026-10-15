@@ -136,7 +136,7 @@ issuing_organization: ""
 
 > [!case] [[Chinese Academy of Sciences|CAS]] 与 [[Theory of Knowledge\|TOK]] 的互证：从经验走向[[Epistemology\|认识论]]反思
 > **方向一：用 TOK [[Knowledge Questions\|知识问题]]（Knowledge Question，KQ）引导 CAS 反思**
-> 教师可以利用核心知识问题“你的个人经验如何创造了知识？”来深化 CAS 反思。Elnegar & Darwazeh (2018) 提出了四个递进的辅助知识问题：
+> 教师可以利用核心知识问题“你的个人经验如何创造了知识？”来深化 CAS 反思。Elnegar and Darwazeh (2018) 提出了四个递进的辅助知识问题：
 > 1. 这项活动中的个人经验如何为你创造了意义？
 > 2. 你的个体经验（个人知识）如何反映了你所在团队的共享知识（Shared Knowledge）？
 > 3. 你从这些经验中获得的视角（个人知识）是否存在局限性？

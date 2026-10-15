@@ -44,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-22'
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Paradox of the Chinese Learner
@@ -66,8 +66,8 @@ updated: 2026-10-07
 
 该悖论由一群在香港工作的澳大利亚、英国和瑞典研究者推动形成。他们直接观察到 [[Confucian Heritage Cultures|CHC]] 学习者和西方教师之间的碰撞，并将其系统化为一个学术研究议程([[Argument_Li_2012_Cambridge|Li, 2012, pp.83-84]])：
 
-- **Watkins & Biggs (1996)** 合编《The [[Chinese Learner]]》，提出 [[Confucian Heritage Cultures|CHC]] 作为[[Analytic Framework|分析框架]]
-- **Watkins & Biggs (2001)** 出版续作《Teaching the Chinese Learner》，将研究扩展至教学层面
+- **Watkins and Biggs (1996)** 合编《The [[Chinese Learner]]》，提出 [[Confucian Heritage Cultures|CHC]] 作为[[Analytic Framework|分析框架]]
+- **Watkins and Biggs (2001)** 出版续作《Teaching the Chinese Learner》，将研究扩展至教学层面
 
 > [!example] Li 的个人经历
 > Li 回忆了在哈佛教育学院修课时的一次经历——当她试图分享练习写汉字或书法有助于孩子学会集中注意力时，授课教师不屑地回应："中国学生做的一切就是[[Rote Learning\|死记硬背]]！这不是我们这门课要处理的问题。"这番话让她在剩下的课程中保持沉默——而当时她甚至不知道该怎样回应([[Argument_Li_2012_Cambridge\|Li, 2012, pp.82-83]])。这一经历折射出悖论的核心张力：西方观察者看到的行为（重复朗读、抄写）与学习者内在过程（深度投入、逐层理解）之间的认知鸿沟。

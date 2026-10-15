@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Huntington-Wallace Line
@@ -44,7 +44,7 @@ updated: 2026-10-15
 ## 背景与历史成因
 
 > [!claim] 核心定性
-> **[[Samuel P. Huntington|亨廷顿]]-华莱士线（Huntington-Wallace Line）**指牛津大学学者威廉·华莱士（William Wallace）考证划定、并在塞缪尔·P·亨廷顿（Samuel P. Huntington）1993年名篇《文明的冲突？》中被作为核心图示引用的欧洲历史文化分界线。该线标示了截至公元1500年西方基督教（罗马天主教与新教）向东扩展的最远历史疆界，将欧洲清晰划分为西方基督教文明区与东正教及伊斯兰文明区。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85–86)]]
+> **[[Samuel P. Huntington|亨廷顿]]-华莱士线（Huntington-Wallace Line）** 指牛津大学学者威廉·华莱士（William Wallace）考证划定、并在塞缪尔·P·亨廷顿（Samuel P. Huntington）1993年名篇《文明的冲突？》中被作为核心图示引用的欧洲历史文化分界线。该线标示了截至公元1500年西方基督教（罗马天主教与新教）向东扩展的最远历史疆界，将欧洲清晰划分为西方基督教文明区与东正教及伊斯兰文明区。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85–86)]]
 
 > [!event-context] 地理分布与历史根基
 > - **空间地理走廊** 北起芬兰与俄罗斯边界，沿波罗的海东岸南下，穿过白俄罗斯与乌克兰西部、罗马尼亚特兰西瓦尼亚，延伸至巴尔干半岛的斯洛文尼亚与克罗地亚边界。

@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Two-Communities Theory
@@ -232,7 +232,7 @@ updated: 2026-10-15
 > > [!axis] 中立桥梁隐喻与权力操控实质的张力
 > > 两社区理论往往预设中介者是中立的信使与翻译官，而[[Critical Theory\|批判理论]]揭示中介者自身具有强烈的自利诉求与规制野心。
 > >
-> > - **Best & Holmes（2010）** 聚焦于改进跨界关系与[[Knowledge Co-production\|协同生产]]机制以提高知识吸收效率。
+> > - **Best and Holmes（2010）** 聚焦于改进跨界关系与[[Knowledge Co-production\|协同生产]]机制以提高知识吸收效率。
 > > - **[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]** 揭示当同一个组织兼具[[Knowledge Production\|知识生产]]、推销与资助功能时，所谓跨越两界的中介本质上已演化为施展[[Soft Power by Hard Facts\|硬事实软权力]]的政治行为。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 538)]]
 
 > [!critique]- 批评索引

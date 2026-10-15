@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Complier Average Causal Effect
@@ -60,13 +60,13 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 概念定义
-> **顺从者平均因果效应（Complier Average Causal Effect, CACE）**，亦称**依从者平均因果效应**，是由统计学家 Donald B. Rubin 与经济学家 Joshua Angrist、Guido Imbens 于 1996 年形式化建立的现代[[Causality\|因果推断]]核心概念，是指在存在**不完全依从（Non-[[Strategic Compliance|compliance]] / Treatment Non-adherence）**的随机实验中，干预措施对那些“若被分配至干预组就会实际接受干预、若被分配至对照组就会实际接受对照”的**顺从者群体（Compliers）**所产生的平均因果净效应([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 10]])。
+> **顺从者平均因果效应（Complier Average Causal Effect, CACE）**，亦称**依从者平均因果效应**，是由统计学家 Donald B. Rubin 与经济学家 Joshua Angrist、Guido Imbens 于 1996 年形式化建立的现代[[Causality\|因果推断]]核心概念，是指在存在**不完全依从（Non-[[Strategic Compliance|compliance]] / Treatment Non-adherence）** 的随机实验中，干预措施对那些“若被分配至干预组就会实际接受干预、若被分配至对照组就会实际接受对照”的**顺从者群体（Compliers）** 所产生的平均因果净效应([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 10]])。
 >
 > 在现代因果计量框架中，CACE 与[[Intent-to-Treat Analysis\|意向治疗分析]]（[[Initial Teacher Training\|ITT]]）构成了因果推断的两大支柱：ITT 评估的是“干预机会的分配政策效应（Effect of Assignment）”，而 CACE 借助初始[[Random Assignment\|随机分配]]作为工具[[Variable\|变量]]（Instrumental Variable, IV），在排除性约束（Exclusion Restriction）下准确剥离了中途违约与逃避行为，估计出干预措施本身的“纯净生理/教学效能（Pure Treatment Efficacy）”([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 333–334]])。
 
 > [!concept-lens] 效度视角与方法学定位
 > - **效度张力化解** 真实教育现场中学生常有缺勤或拒绝参与现象。若直接对比实际接受者与未接受者（As-Treated 分析），会引入严重的选择偏差（破坏[[Internal Validity\|内部效度]]）；若仅看 ITT，[[Effect Size\|效应量]]会被大量未依从者稀释。CACE 在不破坏随机化基础的前提下精确识别出干预的真实效能。
-> - **四类潜在子群体的划分** Rubin 因果模型将受试总体严格划分为四类互斥子群：**顺从者（Compliers）**、**始终接受者（Always-Takers）**、**从不接受者（Never-Takers）**与**对抗违约者（Defiers）**。
+> - **四类潜在子群体的划分** Rubin 因果模型将受试总体严格划分为四类互斥子群：**顺从者（Compliers）**、**始终接受者（Always-Takers）**、**从不接受者（Never-Takers）** 与**对抗违约者（Defiers）**。
 > - **清算体系中的哲学分歧** 公共卫生类机构（如 [[Blueprints for Healthy Youth Development\|Blueprints]]、[[Social Programs That Work\|SPTW]]）坚持必须报告 ITT 以评估现实政策推广价值；而 [[What Works Clearinghouse\|WWC]] 允许在满足排除性约束时报告 CACE 估计值。
 
 > [!citation-card]- 关键定义
@@ -83,7 +83,7 @@ updated: 2026-10-15
 > 1. **顺从者（Compliers）** $D(1)=1$ 且 $D(0)=0$；分配到干预组就参与、分配到对照组就不参与（因果效应可识别的核心主体）。
 > 2. **从不接受者（Never-Takers）** $D(1)=0$ 且 $D(0)=0$；无论分到哪组都绝不参与干预（如报了名但一节课都不上的学生）。
 > 3. **始终接受者（Always-Takers）** $D(1)=1$ 且 $D(0)=1$；无论分到哪组都会设法获取干预（如对照组学生私下购买实验教材自学）。
-> 4. **对抗者（Defiers）** $D(1)=0$ 且 $D(0)=1$；分配到干预组反而故意不参加、分配到对照组反而设法参加。现代[[Causality\|因果推断]]通常引入**单调性假设（Monotonicity / No-Defiers Assumption）**排除此类群体。
+> 4. **对抗者（Defiers）** $D(1)=0$ 且 $D(0)=1$；分配到干预组反而故意不参加、分配到对照组反而设法参加。现代[[Causality\|因果推断]]通常引入**单调性假设（Monotonicity / No-Defiers Assumption）** 排除此类群体。
 
 ---
 

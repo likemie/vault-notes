@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Promissory Legitimacy
@@ -60,7 +60,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **期许性合法性（Promissory Legitimacy）**是指国际组织和[[Policy Brokerage\|政策中介]]机构在缺乏强制行政管辖权与无法在当下实证检验教育因果效益的制度约束下，将其政策建议与规制权力的正当性建立在对“未来的危机叙事与避险允诺”之上的治理机制。由于教育的因果链条（今天的受教育提升个体未来应对不确定性的能力）只能在不可预测的未来进行回溯检验，治理机构通过将未来建构为当下脆弱现实的逻辑延伸，向主权国家推介“即可采取行动的循证研究”（Actionable Research Evidence），允诺只要当下采纳其量化指标与干预工具即可规避未来危机，从而在当下生产出管理不确定性的政治确定性。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
+> **期许性合法性（Promissory Legitimacy）** 是指国际组织和[[Policy Brokerage\|政策中介]]机构在缺乏强制行政管辖权与无法在当下实证检验教育因果效益的制度约束下，将其政策建议与规制权力的正当性建立在对“未来的危机叙事与避险允诺”之上的治理机制。由于教育的因果链条（今天的受教育提升个体未来应对不确定性的能力）只能在不可预测的未来进行回溯检验，治理机构通过将未来建构为当下脆弱现实的逻辑延伸，向主权国家推介“即可采取行动的循证研究”（Actionable Research Evidence），允诺只要当下采纳其量化指标与干预工具即可规避未来危机，从而在当下生产出管理不确定性的政治确定性。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向全球治理行动者在面临技术不确定性时，依靠对教育未来的[[Discourse|话语]]建构、危机设想与政策承诺来换取当下政治权威与决策服从的合法化机制。
@@ -147,7 +147,7 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **时间性转换命题** | 教育因果断裂迫使治理主体以未来预期替代当下成果作为正当性来源 | 缺乏即时因果验证周期的公共教育与[[Human Capital Theory\|人力资本]]投资领域 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]; Robertson & Beech (2023) |
+> | **时间性转换命题** | 教育因果断裂迫使治理主体以未来预期替代当下成果作为正当性来源 | 缺乏即时因果验证周期的公共教育与[[Human Capital Theory\|人力资本]]投资领域 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]; Robertson and Beech (2023) |
 > | **工具代偿命题** | 行动导向的循证中介通过提供清单化工具为决策者化解未来焦虑 | 面对选民问责压力与技术赤字的国家教育官僚系统 | Beech (2023); Robertson (2023) |
 
 ---

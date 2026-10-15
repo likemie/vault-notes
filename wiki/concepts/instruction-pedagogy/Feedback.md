@@ -40,7 +40,7 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-05-04
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Feedback
@@ -97,30 +97,30 @@ updated: 2026-10-07
 > Nielsen & Klitmøller（2021）对 Hattie 反馈综合的底层数据做了更细的拆解。他们指出，Hattie（2009）的反馈综合基于 23 项[[Meta-analysis\|元分析]]、约 67,931 名参与者，但其中贡献最大的 5 项元分析里，只有 1 项真正研究的是与 Hattie 自己定义一致的“反馈干预”（Nielsen & Klitmøller, 2021, pp.9-12）。
 >
 > 更具体地说：
-> - Lysakowski & Walberg（1980）研究的是强化技术，不是信息反馈。
-> - Lysakowski & Walberg（1982）研究的是线索、参与和纠正性强化。
-> - Kluger & DeNisi（1996）才真正研究反馈干预，但其效应量只有 `d=0.38`。
+> - Lysakowski and Walberg（1980）研究的是强化技术，不是信息反馈。
+> - Lysakowski and Walberg（1982）研究的是线索、参与和纠正性强化。
+> - Kluger and DeNisi（1996）才真正研究反馈干预，但其效应量只有 `d=0.38`。
 > - Witt et al.（2004）研究的是教师即时性（immediacy），不是反馈本身。
-> - Swanson & Lussier（2001）研究的是考官辅助和动态评估。
+> - Swanson and Lussier（2001）研究的是考官辅助和动态评估。
 >
 > 这条数据链的意义不在于“反馈完全没用”，而在于：当一个概念把强化、即时性、辅助和真正的反馈全都装进同一个统计篮子里时，最后汇总出的高效应量就很难再被当成单一概念的稳定证据（Nielsen & Klitmøller, 2021, pp.9-12）。
 
 > [!info]- 核心数据
 > - Nielsen & Klitmøller（2021）细读 Hattie 反馈综合中最重的 5 项元分析后指出，其中只有 1 项真正与 Hattie 自己的反馈定义一致，而且该研究的效应量约为 `d=0.38`，明显低于 Hattie 汇总后的高值叙述（Nielsen & Klitmøller, 2021, pp.9-12）。
-> - Kluger & DeNisi（1996）还发现，约 `38%` 的反馈干预会带来负面效果，这意味着反馈并非天然正向，而是可能把注意力引向错误方向（Nielsen & Klitmøller, 2021, pp.9-10）。
+> - Kluger and DeNisi（1996）还发现，约 `38%` 的反馈干预会带来负面效果，这意味着反馈并非天然正向，而是可能把注意力引向错误方向（Nielsen & Klitmøller, 2021, pp.9-10）。
 
 ## 争议与批评
 
 > [!warning] 争议与批评
 > - 概念混淆：Nielsen & Klitmøller（2021）指出，Hattie 在“反馈”名下混入了强化、线索、教师即时性和考官辅助等不同现象，削弱了这一概念的统计一致性（Nielsen & Klitmøller, 2021, pp.9-12）。
 > - [[Effect Size\|效应量]]被说得过于确定：如果真正与 Hattie 定义一致的核心研究只有 `d=0.38`，而不是汇总后常被引用的高值，那么“反馈是最强学习因素之一”的说法就需要更谨慎地理解（Nielsen & Klitmøller, 2021, pp.9-12）。
-> - 不是所有反馈都有效：Kluger & DeNisi（1996）的结果说明，反馈可能带来负面效果。它若过于模糊、过于延迟、只强调结果，或者只让学生盯住分数，就可能把注意力从理解问题转移到表现管理（Nielsen & Klitmøller, 2021, pp.9-10）。
+> - 不是所有反馈都有效：Kluger and DeNisi（1996）的结果说明，反馈可能带来负面效果。它若过于模糊、过于延迟、只强调结果，或者只让学生盯住分数，就可能把注意力从理解问题转移到表现管理（Nielsen & Klitmøller, 2021, pp.9-10）。
 > - 行为主义阴影仍然很重：即便 Hattie 试图区分信息反馈与强化，他的反馈论述仍保留了很强的行为调控色彩，这也是为什么 Nielsen & Klitmøller 会质疑其概念边界（Nielsen & Klitmøller, 2021, p.8）。
 
 ## 数字学习工具中的反馈
 
 > [!warning] 数字学习工具中的反馈
-> [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge (2022)]]把争议推进到另一个层面。他们关心的不是“反馈是否提升成绩”，而是当反馈被平台化、算法化之后，它是否压缩了教育中原本重要的理解和反思空间([[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp.240-245]])。
+> [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz and Klinge (2022)]]把争议推进到另一个层面。他们关心的不是“反馈是否提升成绩”，而是当反馈被平台化、算法化之后，它是否压缩了教育中原本重要的理解和反思空间([[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp.240-245]])。
 >
 > 这里有三条特别重要：
 > - 即时反馈可能填满反思间隙。传统课堂里，学生答完题到得到回应之间有一个等待和思考的时间；算法反馈把这个间隙压缩到几乎为零，学生更容易直接盯住结果而不是思考为什么([[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp.240-242]])。

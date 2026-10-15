@@ -56,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-08
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Data Reduction
@@ -160,7 +160,7 @@ updated: 2026-09-17
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1976 — 渐进聚焦的萌芽** Hamilton（1976）与 Parlett & Hamilton（1976）在阐释阐明性评价时提出渐进聚焦原则，主张质性探究应随着田野深入逐步收敛焦点，构成了质性数据在场缩减的最早方法论雏形。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, p. 535)]]
+> - **1976 — 渐进聚焦的萌芽** Hamilton（1976）与 Parlett and Hamilton（1976）在阐释阐明性评价时提出渐进聚焦原则，主张质性探究应随着田野深入逐步收敛焦点，构成了质性数据在场缩减的最早方法论雏形。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, p. 535)]]
 > - **1984/1994 — 交互分析流模型的奠基** Miles & Huberman 提出质性数据分析的三联交互框架（数据缩减、[[Data Display\|数据展示]]、结论得出/验证），首次将“数据缩减”确立为正当、系统、全生命周期的方法论核心概念，打破了只有量化才能缩减数据的偏见。
 > - **2007 — 缩减与膨胀的双向张力反思** Gibbs（2007）对单一的缩减说提出学理修正，指出质性分析在编码、反思备忘录与理论阐释阶段往往伴随着材料体量与复杂度的局部膨胀（expansion），数据缩减与解释膨胀共同构成了分析的动态循环。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 562)]]
 > - **2011 — 教育研究多[[Meta-analysis\|元分析]]体系的整合** Cohen、Manion & Morrison 将数据缩减与矩阵展示、[[Content Analysis\|内容分析]]11步流程深度整合，以学校教育中的大量实证案例系统示范了质性数据缩减的[[Operationalization\|操作化]]路径。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 537)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 559)]]
@@ -187,5 +187,5 @@ updated: 2026-09-17
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, Ch. 30)]] — 将数据缩减确立为质性分析的核心支柱，系统阐述[[Qualitative Content Analysis\|质性内容分析]]的 11 步规程与编码技术，论证如何借助单位化、层级归并与频数统计单实现高保真数据缩减。
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 阐释质性[[Winnowing\|数据筛选]]（Winnowing）机制，论述在面对密集文本与图像时如何进行结构性过滤，将海量资料聚焦提炼为少数核心主题。
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 阐释质性[[Winnowing\|数据筛选]]（Winnowing）机制，论述在面对密集文本与图像时如何进行结构性过滤，将海量资料聚焦提炼为少数核心主题。
 > - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] — 详述质性资料从[[Open Coding\|初始编码]]、[[Axial Coding\|轴心编码]]到聚焦与[[Selective Coding\|选择性编码]]的多阶段浓缩提炼过程，示范如何在教育研究中逐步收拢范畴并建立理论连贯性。

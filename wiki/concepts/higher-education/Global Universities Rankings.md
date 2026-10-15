@@ -278,4 +278,4 @@ updated: 2026-10-16
 > - **西班牙** [[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 332–333]]）剖析西班牙在 [[Academic Ranking of World Universities|ARWU]] 等榜单全军覆没与在[[EU|欧盟]][[Erasmus Programme|伊拉斯谟计划]]中高居第一输入国的结构性背离，确立跨国流动动机脱离学术排名的实证反例。
 > - **美国肯塔基大学** [[University of Kentucky Top-20 Plan]] 展现了地方公立大学为强行对标全国与全球前 20 强指标，激进扭曲院系资源配置的典型政策案例。
 > - **跨国组织倡议** [[OECD|经济合作与发展组织]]（OECD）曾尝试通过[[OECD AHELO Project|高等教育学习成果评估]]（AHELO）开发直接测试学生[[Critical Thinking|批判性思维]]的工具，以突破排名的科研偏见，但因[[Cross-cultural Validity|跨文化效度]]争议与高昂成本陷入停滞。
-> - **超国家排行榜治理** [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 447–448)]] 揭示跨国绩效排行榜如何制造排名焦虑，将教育政策辩论从目的辨析异化为名次算计并落实远程操控。
+> - **超国家排行榜治理** [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 447–448)]] 揭示跨国绩效排行榜如何制造排名焦虑，将教育政策辩论从目的辨析异化为名次算计并落实远程操控。

@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Factorial Interpretive Framework
@@ -284,7 +284,7 @@ updated: 2026-10-15
 > > [!axis] 历史因果因素解释学 vs 行为科学[[Operationalization\|操作化]][[Variable\|变量]]检验
 > > 围绕如何[[Scientific Explanation\|科学解释]]跨国教育差异，学界形成了经典质性与量化的[[Paradigm\|范式]]对立：[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 53–54)]]
 > >
-> > - **Harold Noah & Max Eckstein (1969)** 批评历史学派的因素分析缺乏测量规则与权重分配，本质上依赖研究者个人的主观洞察力与直觉，无法提供真正的因果证明。
+> > - **Harold Noah and Max Eckstein (1969)** 批评历史学派的因素分析缺乏测量规则与权重分配，本质上依赖研究者个人的主观洞察力与直觉，无法提供真正的因果证明。
 > > - **Nicholas Hans (1959) / Andreas Kazamias (2009)** 坚决反驳将科学狭隘等同于数理统计的偏见，论证指出因素分析揭示的是深嵌于文明脉络中的有机整体联系，这种宏观历史因果阐释是量化碎化指标所根本无法替代的。
 >
 > > [!axis] 回溯性先行原因阐释（解释） vs 政策行动后果预判（预测）

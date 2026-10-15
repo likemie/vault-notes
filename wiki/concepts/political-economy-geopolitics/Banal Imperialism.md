@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Banal Imperialism
@@ -70,7 +70,7 @@ updated: 2026-10-15
 ## 核心要素
 
 > [!feature] 核心要素
-> - **数据作为[[Disciplina and Doctrina\|规训]]权力（Performance Data as Disciplinary Power）** 利用可比性数据在全球构建起一个看不见的测评学校。国家为了避免在世界排名中被归类为“差生”，自愿实施结构性调整，形成了以科学名义实施的**[[Governing at a Distance\|远处治理]]**。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 424]])
+> - **数据作为[[Disciplina and Doctrina\|规训]]权力（Performance Data as Disciplinary Power）** 利用可比性数据在全球构建起一个看不见的测评学校。国家为了避免在世界排名中被归类为“差生”，自愿实施结构性调整，形成了以科学名义实施的 **[[Governing at a Distance\|远处治理]]**。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 424]])
 > - **数字霸权对世界秩序的重构（Breaching the World Order by Numbers）** 全球教育体系的优劣不再由主权国家的历史和文化决定，而是被简化为单一维度的数据指标。西方的“认识新帝国”由此通过垄断“标准定义权”而立于不败之地。(Silova & Auld, 2019)
 > - **[[Orientalism\|东方主义]]的他者化再生产（Reproduction of Orientalist Othering）** 利用跨国媒体和学术界，将高分非西方系统描绘为机械而机械的、缺乏[[Creativity\|创造力]]与民主精神的“教育地狱”，再次确认西方启蒙理性对全球灵魂的天然教化特权。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 428]])
 

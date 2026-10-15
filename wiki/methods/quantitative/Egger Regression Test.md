@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Egger Regression Test
@@ -64,7 +64,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> Egger Regression Test（Egger 回归检验 / 艾格回归检验，由流行病学与医学统计学家 Matthias Egger 等人于 1997 年提出）是一种用于检验[[Meta-analysis\|元分析]]中[[Publication Bias\|发表偏倚]]与**[[Small Study Effects\|小研究效应]]（Small-Study Effects）**的经典参数化统计方法。该方法通过将各独立研究的“标准化[[Effect Size\|效应量]]（Standardized Effect Size, $Z_i = y_i / \text{SE}_i$）”对“估计精度（Precision, $1 / \text{SE}_i$）”进行加权最小二乘线性回归；若回归方程的**截距项（Intercept）显著偏离零（$p < .05$）**，则表明漏斗图存在显著的单侧不对称性，即小样本研究系统性地报告了相比大样本研究更夸大的效应量。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 6–8)]]; [[Argument_Erdem_2026_SHE\|(Erdem et al., 2026, pp. 960–961)]]
+> Egger Regression Test（Egger 回归检验 / 艾格回归检验，由流行病学与医学统计学家 Matthias Egger 等人于 1997 年提出）是一种用于检验[[Meta-analysis\|元分析]]中[[Publication Bias\|发表偏倚]]与 **[[Small Study Effects\|小研究效应]]（Small-Study Effects）** 的经典参数化统计方法。该方法通过将各独立研究的“标准化[[Effect Size\|效应量]]（Standardized Effect Size, $Z_i = y_i / \text{SE}_i$）”对“估计精度（Precision, $1 / \text{SE}_i$）”进行加权最小二乘线性回归；若回归方程的**截距项（Intercept）显著偏离零（$p < .05$）**，则表明漏斗图存在显著的单侧不对称性，即小样本研究系统性地报告了相比大样本研究更夸大的效应量。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 6–8)]]; [[Argument_Erdem_2026_SHE\|(Erdem et al., 2026, pp. 960–961)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 假设抽样相互独立的单水平元分析数据集（包含各研究效应量 $y_i$ 及其[[Standard Error\|标准误]] $\text{SE}_i$）。

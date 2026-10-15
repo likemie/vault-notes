@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-05
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Visual Data
@@ -89,7 +89,7 @@ updated: 2026-10-07
 > [!claim] Rose (2007)
 > **视觉图像绝不是无辜的** 视觉图像包裹着层层意义与诠释，作为现实的呈现被观看者解读。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, 27.1)]]
 
-> [!claim] Cohen, Manion & Morrison（2011）
+> [!claim] Cohen, Manion and Morrison（2011）
 > **把图像视为[[Discourse|话语]]而非客观现实** 鉴于图像的选择性与时间绑定性质，更稳妥的做法是把视觉图像视为在讲述一个故事（一种话语），而不是单一客观现实。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, 27.1)]]
 
 ## 概念辨析

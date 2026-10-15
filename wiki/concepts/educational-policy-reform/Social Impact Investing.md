@@ -51,7 +51,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **社会影响力投资（Social Impact Investing / Impact Investing）**是指投资者将资本有意识地配置于能够产生明确可测量的积极社会与环境效益、同时获取一定财务本金回收或商业利润回报的投资[[Paradigm\|范式]]（Nicholls et al., 2015）。它起源于华尔街与伦敦金融城对“双重底线”（Double Bottom Line，即兼顾商业盈利与社会价值）的追求，试图将金融资本市场的审慎投资工具、契约设计与风险定价逻辑全面引入公共服务与社会政策领域。在教育政策中，社会影响力投资催生了社会影响力债券（Social Impact Bonds, SIBs）与按成果付费（Pay-for-Success）合同，将学校[[Academic Achievement\|学业表现]]、辍学率降低或教师培训达标率直接证券化并与投资人的财务分红挂钩，实质上构成了公共教育深层金融化与准市场化重塑的关键杠杆。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520, 524, 526, 528)]]
+> **社会影响力投资（Social Impact Investing / Impact Investing）** 是指投资者将资本有意识地配置于能够产生明确可测量的积极社会与环境效益、同时获取一定财务本金回收或商业利润回报的投资[[Paradigm\|范式]]（Nicholls et al., 2015）。它起源于华尔街与伦敦金融城对“双重底线”（Double Bottom Line，即兼顾商业盈利与社会价值）的追求，试图将金融资本市场的审慎投资工具、契约设计与风险定价逻辑全面引入公共服务与社会政策领域。在教育政策中，社会影响力投资催生了社会影响力债券（Social Impact Bonds, SIBs）与按成果付费（Pay-for-Success）合同，将学校[[Academic Achievement\|学业表现]]、辍学率降低或教师培训达标率直接证券化并与投资人的财务分红挂钩，实质上构成了公共教育深层金融化与准市场化重塑的关键杠杆。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520, 524, 526, 528)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向运用金融衍生工具与契约安排，将公共教育改良指标转化为商业[[Return on Investment\|投资回报]]现金流的治理技术。

@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # World Education Indicators
@@ -78,7 +78,7 @@ updated: 2026-10-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **世界[[Performance Indicators|教育指标]]（World Education Indicators, WEI）**项目是[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）、联合国教育、科学及文化组织统计研究所（[[UNESCO Institute for Statistics]], UIS）与[[World Bank|世界银行]]（World Bank）于 1997 年联合发起设立的大型跨国教育统计与指标合作工程，旨在将经合组织成熟的教育绩效指标方法拓展至转型经济体与中等收入国家，建立具有国际可比性的教育数据基准体系。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
+> **世界[[Performance Indicators|教育指标]]（World Education Indicators, WEI）** 项目是[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）、联合国教育、科学及文化组织统计研究所（[[UNESCO Institute for Statistics]], UIS）与[[World Bank|世界银行]]（World Bank）于 1997 年联合发起设立的大型跨国教育统计与指标合作工程，旨在将经合组织成熟的教育绩效指标方法拓展至转型经济体与中等收入国家，建立具有国际可比性的教育数据基准体系。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 1997 年正式联合启动，历经多轮跨国统计数据采集与小学专项调查，持续运行至 2000 年代中后期，其指标方法论随后深度融入联合国教科文组织统计研究所的常态化全球统计监测网络，并为非成员国直接参与经合组织的[[PISA|国际学生评估项目]]（PISA）铺平了道路。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]

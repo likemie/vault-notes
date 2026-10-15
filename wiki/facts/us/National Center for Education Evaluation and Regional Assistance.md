@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # National Center for Education Evaluation and Regional Assistance
@@ -146,7 +146,7 @@ updated: 2026-10-15
 
 > [!finding-cards] 关键成效与辐射影响
 > - **塑造现代教育[[Experimental Research\|实验研究]]规范** NCEE 推动了统计功效计算、[[Intraclass Correlation Coefficient\|群内相关系数]]（ICC）校正、基线平衡检验以及[[Attrition\|差异流失]]边界模型的全面普及。
-> - **与英国 [[Education Endowment Foundation\|EEF]] 共同构成全球现场 [[Randomised Controlled Trials\|RCT]] 试验主源泉** Lortie-Forgues & Inglis (2019) 审视的 141 项大规模现场教育 RCT（受试学生达 1,222,024 人）全部来自于 NCEE 与英国 EEF 资助的公开成果，是世界范围内最大规模的现场教育因果数据库。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 56)]]
+> - **与英国 [[Education Endowment Foundation\|EEF]] 共同构成全球现场 [[Randomised Controlled Trials\|RCT]] 试验主源泉** Lortie-Forgues and Inglis (2019) 审视的 141 项大规模现场教育 RCT（受试学生达 1,222,024 人）全部来自于 NCEE 与英国 EEF 资助的公开成果，是世界范围内最大规模的现场教育因果数据库。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 56)]]
 > - **揭示传统架构干预的成效瓶颈** NCEE 针对全美 [[Response to Intervention\|RTI]] 实施的里程碑式评估（Balu et al., 2015）证实，缺乏经验证教学方案的组织性分层往往难以改善后进生成绩，从而强力推动了全美[[Evidence-Based Education\|循证教育]]从“空泛框架”向“成熟实证方案”的[[Paradigm\|范式]]转型。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 23)]]
 
 > [!stat-cards]- 核心规模数据
@@ -160,13 +160,13 @@ updated: 2026-10-15
 > [!debates] 核心争议交锋
 >
 > > [!axis] 独立性形式化与利益冲突妥协
-> > [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] 剖析指出，NCEE 在支持 i3 项目时采取由开发者自聘评估机构的松散模式，带来了严重的制度漏洞：虽然 97% 的项目表面上符合独立性要求，但由于评估者的资金由被评项目方拨付，极易屈服于开发者的设计偏好，导致大量试验降级为准实验（[[Quasi-Experimental Designs\|QED]]）；最终仅 68%（13/19 项）达到 [[What Works Clearinghouse\|WWC]] 最高因果标准，且 WWC 允许的总体流失率门槛高达 55%，远逊于英国 [[Education Endowment Foundation\|EEF]] 的刚性三方独立防火墙。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 50–51)]]
+> > [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] 剖析指出，NCEE 在支持 i3 项目时采取由开发者自聘评估机构的松散模式，带来了严重的制度漏洞：虽然 97% 的项目表面上符合独立性要求，但由于评估者的资金由被评项目方拨付，极易屈服于开发者的设计偏好，导致大量试验降级为准实验（[[Quasi-Experimental Designs\|QED]]）；最终仅 68%（13/19 项）达到 [[What Works Clearinghouse\|WWC]] 最高因果标准，且 WWC 允许的总体流失率门槛高达 55%，远逊于英国 [[Education Endowment Foundation\|EEF]] 的刚性三方独立防火墙。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 50–51)]]
 > >
 > > - **英国 EEF 评估团队** 批评自选自聘模式存在根本性的结构性偏倚隐患，主张建立集中化专家库竞聘机制。
 > > - **美国联邦管理团队** 辩护称自聘模式能提高申请灵活性，适应学区复杂多元的本地实施诉求。
 >
 > > [!axis] “无信息量”指责与微弱效应解释之争
-> > Lortie-Forgues & Inglis (2019) 重新分析 NCEE 与 EEF 资助的 141 项 [[Randomised Controlled Trials\|RCT]] 后，发现平均[[Effect Size\|效应量]]仅为 0.06 个标准差，且平均[[Confidence Interval\|置信区间]]宽达 0.30 个标准差，断言多数试验在统计推断上极其不精确并“缺乏实质信息量”。
+> > Lortie-Forgues and Inglis (2019) 重新分析 NCEE 与 EEF 资助的 141 项 [[Randomised Controlled Trials\|RCT]] 后，发现平均[[Effect Size\|效应量]]仅为 0.06 个标准差，且平均[[Confidence Interval\|置信区间]]宽达 0.30 个标准差，断言多数试验在统计推断上极其不精确并“缺乏实质信息量”。
 > >
 > > - **批评学者** 认为耗资数亿美元的大规模现场试验无法区分干预进展与测量噪音，性价比存疑。
 > > - **NCEE 与 EEF 研究阵营** 指出不能孤立依据置信区间宽度抹杀试验价值；排除无效做法本身具有极高财政价值，且随着机构样本动员能力演进，[[Effective Sample Size\|有效样本量]]翻番已使试验精度稳步提升。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 56–57)]]
@@ -186,7 +186,7 @@ updated: 2026-10-15
 > | 研究 | 样本与评估对象 | 研究设计 | 核心指标与产出 | 原始统计结果 | 显著性或不确定性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | Dynarski et al. (2007)（见 [[Argument_Serpell_2020_EP\|Serpell, 2020, p. 42]]） | 全美 33 个学区 132 所学校各年级课堂（评估 16 款阅读与数学教学软件产品） | 全国多中心整群[[Randomised Controlled Trials\|随机对照试验]]（Cluster RCT） | 阅读与数学标准化统考测验成绩、[[Class Size\|班级规模]]与师生比 | 软件实验组与对照组之间总体[[Academic Achievement\|学业成就]]未显现显著差异；但部分学校表现出正向效应，另一些学校表现出负向效果 | 整体主效应  > .05$ 不显著；呈现极强情境[[Heterogeneity\|异质性]] | 证实即使实施严格的 RCT，“什么有效”也始终受制于组织情境与实施条件，政策不可搞一刀切 |
-> | Lortie-Forgues & Inglis (2019)（见 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 56]]） | NCEE 与 EEF 联合资助的 141 项大规模教育 RCT（受试学童 $N = 1,222,024$） | 跨机构[[Meta-analysis\|元分析]]与试验质量复审 | 平均[[Effect Size\|效应量]]与[[Confidence Interval\|置信区间]]宽度 | 平均效应量 $ES = +0.06\text{ SD}$；平均 95% 置信区间宽度达 $0.30\text{ SD}$ | 多数试验置信区间包含 0 | 说明早期大规模现场试验统计精度不足，促使两机构扩大样本并升级质控规程 |
+> | Lortie-Forgues and Inglis (2019)（见 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 56]]） | NCEE 与 EEF 联合资助的 141 项大规模教育 RCT（受试学童 $N = 1,222,024$） | 跨机构[[Meta-analysis\|元分析]]与试验质量复审 | 平均[[Effect Size\|效应量]]与[[Confidence Interval\|置信区间]]宽度 | 平均效应量 $ES = +0.06\text{ SD}$；平均 95% 置信区间宽度达 $0.30\text{ SD}$ | 多数试验置信区间包含 0 | 说明早期大规模现场试验统计精度不足，促使两机构扩大样本并升级质控规程 |
 > | Boulay et al. (2018)（见 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 50]]） | NCEE 审阅的 65 项 i3 独立评估项目（含 19 项发展类项目） | 联邦竞争性资助评估审查 | 独立评估比例与 [[What Works Clearinghouse\|WWC]] 最高标准达标率 | 97% 报告声称独立评估；仅 68%（13/19 项）达到 WWC 最高无保留标准 | — | 揭示自选自聘评估模式下存在向准实验（[[Quasi-Experimental Designs\|QED]]）退化与流失率偏高的制度弊端 |
 > | Balu et al. (2015)（见 [[Argument_Slavin_2019_EP\|Slavin, 2019, p. 23]]） | 全美 13 个州 146 所小学 1–3 年级干预响应模型（[[Response to Intervention\|RTI]]）全样本学生 | 跨州多中心[[Regression Discontinuity Design\|断点回归]]（RDD）与对比评估 | 早期阅读补救干预对后进生[[Academic Achievement\|学业表现]]的影响 | 传统 RTI 实施未产生显著正面效果，部分层级出现负向效应 | 统计上无显著正向收益 | 证实单纯依赖未经验证的零散补救练习难以见效，呼吁转向成熟实证教学方案 |
 

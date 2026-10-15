@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Business Roundtable
@@ -60,7 +60,7 @@ updated: 2026-10-15
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **商业圆桌会（Business Roundtable, BRT）**是美国由财富 500 强顶级大企业首席执行官（CEO）组成的非营利政商游说集团，在教育领域作为垄断企业资本直接介入国家教育改革的先锋力量，强力推动基于企业标准的绩效考核、高利害测试、私营化竞争与技能匹配改革，在治理逻辑上与[[World Bank|世界银行]]在全球推行的高等教育新自由主义[[Disciplina and Doctrina|规训]]存在深刻的“[[Selective Affinity|选择性亲和]]”（Elective Affinity）。[[Argument_Olmos_Torres_2009_StateTheories|(Schugurensky, 1994; Olmos & Torres, 2009, p. 81)]]
+> **商业圆桌会（Business Roundtable, BRT）** 是美国由财富 500 强顶级大企业首席执行官（CEO）组成的非营利政商游说集团，在教育领域作为垄断企业资本直接介入国家教育改革的先锋力量，强力推动基于企业标准的绩效考核、高利害测试、私营化竞争与技能匹配改革，在治理逻辑上与[[World Bank|世界银行]]在全球推行的高等教育新自由主义[[Disciplina and Doctrina|规训]]存在深刻的“[[Selective Affinity|选择性亲和]]”（Elective Affinity）。[[Argument_Olmos_Torres_2009_StateTheories|(Schugurensky, 1994; Olmos & Torres, 2009, p. 81)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 成立于 1972 年，由美国大企业联合发起，旨在应对 1970 年代初的利润率危机与劳工运动，直接向美国总统和国会施加政策影响力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 81)]]

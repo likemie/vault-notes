@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Epistemic Friction
@@ -176,7 +176,7 @@ updated: 2026-10-15
 > [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
 > **无摩擦陷阱与有害[[Cognitive Offloading|认知卸载]]** 大语言模型生成的文本具有权威的语调与规整的语法结构，这种表面语义流畅性为学生提供了无阻力的答案通道。在缺乏显性教学引导的情境下，学生倾向于直接采纳模型输出，天然切除了本来需要由学习者自主经历的阅读、提取、论证与校验过程，造成严重的有害认知卸载与[[Creativity|创造性]]早熟收敛。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2, 7–8, 10)]]
 
-> [!claim] [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]]
+> [!claim] [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]]
 > **无摩擦委派与中间认识动作的剥离** [[Generative Artificial Intelligence|生成式人工智能]]将检索、阅读、比对、综合与起草等多重认知活动压缩为单一的提问—回答循环。当技术系统将寻找、解释与辩护的生产性阻力一并消除时，学习者在缺乏中间认识动作演练的情况下直接交付成品，将导致理解肤浅化、不确定性耐受力下降以及迁移能力崩溃。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 5–6)]]
 
 ---
@@ -186,7 +186,7 @@ updated: 2026-10-15
 > [!concept-lens] 认知劳动分工与生产性阻力保护
 > 论证技术应用并非消灭一切心智阻力，而是消除工具性浪费、保留探究性摩擦。
 
-> [!claim] [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]]
+> [!claim] [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]]
 > **浪费性摩擦与生产性认识摩擦的实质分野** 在人机交互与教学设计中，必须严格区分两类摩擦：其一是繁琐格式排错、机械文件[[Transcription in Qualitative Research|转录]]与低效界面翻找所引发的“浪费性摩擦”，这类负担过度消耗[[Working Memory|工作记忆]]，应当利用工具予以消除以增进可及性；其二是直面反常证据时的困惑、权衡对立解释时的挣扎以及对论证前提的批判审视，这属于维系[[Metacognition|元认知监控]]与深层图式建构的“生产性认识摩擦”。若系统以全流程代劳连根抹平生产性摩擦，将导致学习者与专业决策者核心评价能力的退化。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 5–6)]]
 
 ---
@@ -206,7 +206,7 @@ updated: 2026-10-15
 > [!concept-lens] 人机决策安全与批判性[[Trust Calibration|信任校准]]
 > 探讨如何利用界面交互机制打破[[Automation Bias|强自动化偏差]]，恢复人类实质控制权。
 
-> [!claim] Veluwenkamp & Buijsman (2025); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
+> [!claim] Veluwenkamp and Buijsman (2025); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **反思机器与[[Defeater|击败者]]对批判性信任的重建** 克服强自动化偏差与[[Epistemic Deference|认识论顺从]]不能仅凭操作者个人警觉，必须在技术交互界面嵌入结构化认识论摩擦：
 > 1. **反思机器（Reflection Machines, RMs）** 在关键决策节点引入[[Socrates|苏格拉底]]式自适应对话，迫使操作者阐明判定依据，重塑审思所有权；
 > 2. **反驳型击败者（Rebutting Defeaters）** 主动呈现冲突数据与对立诊断指标，为操作者提供直接反驳算法提示的证据杠杆，从架构层面恢复可抗辩性并校准批判性信任（Critical Trust）。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–25)]]
@@ -219,10 +219,10 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **认知前提命题** | [[Higher-Order Thinking Skills\|高阶思维]]与深度图式构建依赖生产性认识论摩擦 | 高等教育、复杂概念学习、学术研究 | Medina (2013); [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
-> | **技术旁路命题** | 算法顺滑表象天然切除心智摩擦，诱发有害认知卸载与顺从 | 生成式 AI 开放使用、常规[[Homework\|作业]]应付场景 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] |
-> | **摩擦分类命题** | 消除浪费性工具摩擦，保留并捍卫证据反思等生产性认识摩擦 | 智能交互界面设计、人机认知劳动力分工 | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] |
+> | **技术旁路命题** | 算法顺滑表象天然切除心智摩擦，诱发有害认知卸载与顺从 | 生成式 AI 开放使用、常规[[Homework\|作业]]应付场景 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] |
+> | **摩擦分类命题** | 消除浪费性工具摩擦，保留并捍卫证据反思等生产性认识摩擦 | 智能交互界面设计、人机认知劳动力分工 | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] |
 > | **教学重构命题** | 教学支架的核心功能在于按需重构认识论摩擦关卡 | 结构化课程设计、[[Blended Learning\|混合式教学]]、过程性评估 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
-> | **决策校准命题** | 借助反思机器与击败者机制注入摩擦，校准批判性信任与抗辩权 | 医疗诊断辅助、军事指挥控制、高风险司法风控 | Veluwenkamp & Buijsman (2025); [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]] |
+> | **决策校准命题** | 借助反思机器与击败者机制注入摩擦，校准批判性信任与抗辩权 | 医疗诊断辅助、军事指挥控制、高风险司法风控 | Veluwenkamp and Buijsman (2025); [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]] |
 
 ---
 
@@ -232,7 +232,7 @@ updated: 2026-10-15
 > - **2013 年 — 社会认识论提出** 何塞·梅迪纳（José Medina）在 *The [[Epistemology of Resistance]]* 中首次系统界定“认识论摩擦”，强调边缘群体视角与异质观点对抗主导偏见时产生的生产性阻力。
 > - **2015–2020 年 — 学习科学与[[Cognitive Load Theory|认知负荷理论]]交叉** 学习科学学者将认识论摩擦引入探究性学习与概念转变研究，与比约克（Bjork）的“生产性困难（Desirable Difficulties）”及关联认知负荷（Germane Load）形成理论互通。
 > - **2026 年 — [[Generative Artificial Intelligence|生成式人工智能]]教育时代重塑** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 将其确立为[[Man-Computer Symbiosis|人机协同]]教学的核心理论工具，系统解释 ChatGPT 在高等教育中引发的流畅性陷阱与思维分化机制。
-> - **2026 年 — 生产性与浪费性摩擦的二元划分与无摩擦委派诊断** [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] 明确区分浪费性摩擦与生产性认识摩擦，揭示无摩擦委派剥离中间认识动作与[[Evaluative Judgement|评价性判断]]的机制危害。
+> - **2026 年 — 生产性与浪费性摩擦的二元划分与无摩擦委派诊断** [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] 明确区分浪费性摩擦与生产性认识摩擦，揭示无摩擦委派剥离中间认识动作与[[Evaluative Judgement|评价性判断]]的机制危害。
 > - **2026 年 — 人机决策安全与批判性[[Trust Calibration|信任校准]]工具** [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 将认识论摩擦确立为打破强[[Automation Bias|自动化偏差]]与[[Epistemic Deference|认识论顺从]]的核心设计原则，提出基于反思机器与[[Defeater|反驳型击败者]]的交互设计体系。
 
 ---
@@ -290,7 +290,7 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 将[[Epistemology|认识论]]摩擦作为核心设计工具引入高风险人机决策伦理分析，提出通过反思机器与[[Defeater|击败者机制]]打破[[Automation Bias|自动化偏差]]与[[Epistemic Deference|认识论顺从]]。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项高等教育 ChatGPT 实证研究，将认识论摩擦确立为解释[[Man-Computer Symbiosis|人机协同]][[Higher-Order Thinking Skills|高阶思维]]发展与防范有害[[Cognitive Offloading|认知卸载]]的基石概念。
-> - [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] — 在批判整合性综述中区分浪费性摩擦与生产性认识摩擦，论证无摩擦委派如何通过压缩中间认识动作剥夺学习者[[Evaluative Judgement|评价性判断]]的演练机会。
+> - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 在批判整合性综述中区分浪费性摩擦与生产性认识摩擦，论证无摩擦委派如何通过压缩中间认识动作剥夺学习者[[Evaluative Judgement|评价性判断]]的演练机会。
 
 ---
 

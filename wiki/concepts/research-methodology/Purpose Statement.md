@@ -52,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Purpose Statement
@@ -62,7 +62,7 @@ updated: 2026-10-15
 > [!info]
 > 目的陈述（purpose statement）是研究计划或论文中传达研究总体意图和目标的陈述，通常在摘要或引言中以一句话或一段话的形式出现。它说明研究者为何开展研究、研究期望完成什么(Locke et al., 2014; [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.123]])。在健康科学领域，更常用的术语是"研究目标"（study aim）。
 
-目的陈述是连接[[Research Question|研究问题]]与研究问题的核心环节。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p.123)]] 将研究设计中四个环节的递进关系概括为：研究问题（problem）→ 目的陈述（purpose）→ 研究问题（research questions）→ 数据收集（data），整个过程体现了研究焦点的逐步收窄。
+目的陈述是连接[[Research Question|研究问题]]与研究问题的核心环节。[[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022, p.123)]] 将研究设计中四个环节的递进关系概括为：研究问题（problem）→ 目的陈述（purpose）→ 研究问题（research questions）→ 数据收集（data），整个过程体现了研究焦点的逐步收窄。
 
 > [!quote]
 > "The purpose statement indicates why the researcher conducts the study and what the study intends to accomplish."（Locke et al., 2014; 引自 Creswell & Creswell, 2022, p.123）
@@ -131,7 +131,7 @@ updated: 2026-10-15
 > | 非方向性语言 | 全文未使用 successful、positive 等方向性词语；聚焦于认同"如何被塑造"而非"是否成功塑造" |
 
 >
-> [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, pp.128–129)]] 指出，该陈述的第一句关注学生经验，第二句明确核心现象为族裔认同，参与者、研究场所和质性路径均可清晰识别。
+> [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022, pp.128–129)]] 指出，该陈述的第一句关注学生经验，第二句明确核心现象为族裔认同，参与者、研究场所和质性路径均可清晰识别。
 
 ### 量化目的陈述
 
@@ -178,7 +178,7 @@ updated: 2026-10-15
 > | 参与者与分析单元 | 在美国选定州立成人矫正机构中任教的认证教育者 |
 > | 关键变量定义 | 工作动机的六个 EWCS 因素逐一列出（个人挑战与发展潜力、竞争性、成功的期望与回报、工作压力容忍度、保守安全感、在不确定性中寻求回报的意愿 vs 回避） |
 >
-> [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, p.133)]] 评价该陈述包含了好的目的陈述的多个组件：独立成节、使用"relationship"一词、定义主要变量、说明样本、指出问卷工具，且变量从自变量到因变量依次排列。
+> [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022, p.133)]] 评价该陈述包含了好的目的陈述的多个组件：独立成节、使用"relationship"一词、定义主要变量、说明样本、指出问卷工具，且变量从自变量到因变量依次排列。
 
 ### 混合方法目的陈述
 
@@ -202,9 +202,9 @@ updated: 2026-10-15
 三种核心设计——聚敛式、解释性序列和探索性序列——各自对应不同的整合洞见和写作脚本。各设计的完整脚本、范例和要素拆解分别见对应条目：
 
 - [[Convergent Design]] — 聚敛式脚本、Classen et al. (2007) 范例 ("used a mixed methods approach to compare and integrate the primary findings from a national crash dataset with the perspectives of stakeholders." p.677)
-- [[Explanatory Sequential Design]] — 解释性序列脚本、Ivankova & Stick (2007) 范例 ("identify factors contributing to students' persistence in the ELHE program by obtaining quantitative results . . . and then following up with four purposefully selected individuals . . . through a qualitative [[Case Study]] analysis." p.95) 及要素拆解
+- [[Explanatory Sequential Design]] — 解释性序列脚本、Ivankova and Stick (2007) 范例 ("identify factors contributing to students' persistence in the ELHE program by obtaining quantitative results . . . and then following up with four purposefully selected individuals . . . through a qualitative [[Case Study]] analysis." p.95) 及要素拆解
 - [[Exploratory Sequential Design]] — 探索性序列脚本、Enosh et al. (2015) 范例 ("develop a behavior-based tool that can be used to compare differences between different types of workplaces and services." pp.274, 283)
 
 > [!info] 复杂混合方法设计的目的陈述
-> 除三种核心设计外，混合方法目的陈述的意图也可以是将质性数据或两者数据嵌入一个框架或过程（如实验或评估）中。这类复杂混合方法设计详见 Creswell & Plano Clark (2018)。
+> 除三种核心设计外，混合方法目的陈述的意图也可以是将质性数据或两者数据嵌入一个框架或过程（如实验或评估）中。这类复杂混合方法设计详见 Creswell and Plano Clark (2018)。
 

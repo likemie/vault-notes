@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-08-25
+updated: 2026-10-16
 ---
 
 # Social Interdependence Theory
@@ -114,7 +114,7 @@ updated: 2026-08-25
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **目标驱动互动** | 积极互赖激发促进性[[Dialogue in Education\|对话]]与知识重构，消极互赖引发防守与阻碍 | 全学段各类协同学习与群体组织情境 | Deutsch (1949); Johnson & Johnson (2009) |
+> | **目标驱动互动** | 积极互赖激发促进性[[Dialogue in Education\|对话]]与知识重构，消极互赖引发防守与阻碍 | 全学段各类协同学习与群体组织情境 | Deutsch (1949); Johnson and Johnson (2009) |
 > | **互赖与责任协同** | 积极互赖与个体责任严格绑定才能消除搭便车并保障认知增益 | 课堂教学技术选型与小组绩效评价 | Slavin (2014); [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] |
 
 ---

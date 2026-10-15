@@ -74,7 +74,7 @@ related_instruments:
   - "[[Academic Self-Concept General Scale]]"
 status: draft
 created: 2026-06-30
-updated: 2026-09-11
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Cole_2015_AJE"
@@ -111,7 +111,7 @@ journal: "Australian Journal of Education"
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Explicit Critical Thinking Instruction]]**<br>显性批判性思维教学理论 | 组织核心论证框架，预测显性独立课程比隐性融入路径更能提升批判性思维技能。该理论以 Abrami et al.（2008）对 117 项研究（$N = 20,698$）的[[Meta-analysis\|元分析]]和 Marin & Halpern（2011）在低表现学校的[[Experimental Research\|随机对照实验]]为核心证据基础 |
+> | **[[Explicit Critical Thinking Instruction]]**<br>显性批判性思维教学理论 | 组织核心论证框架，预测显性独立课程比隐性融入路径更能提升批判性思维技能。该理论以 Abrami et al.（2008）对 117 项研究（$N = 20,698$）的[[Meta-analysis\|元分析]]和 Marin and Halpern（2011）在低表现学校的[[Experimental Research\|随机对照实验]]为核心证据基础 |
 > | **[[Critical Thinking]] 的 Delphi 定义与测量框架**<br>Facione（1990） | 提供批判性思维的可[[Operationalization\|操作化]]定义，并支撑[[Critical Thinking Strategies Scale\|CTSS]]对批判性思维策略的测量。[[California Critical Thinking Disposition Inventory\|CCTDI]]则承担批判性思维倾向测量 |
 > | **元认知理论**<br>Flavell（1977） | 解释批判性思维的高阶认知维度，指个体对自己思维过程的意识和调节。ToK 要求学生反复追问"我们如何知道我们所知道的"，这本质上是系统性的[[Metacognition\|元认知]]训练（Bruer, 2000; McGuire, 2012; Pintrich, 2002） |
 
@@ -214,7 +214,7 @@ journal: "Australian Journal of Education"
 
 > [!evidence-grid-a] 显性教学的实证优势
 > - **Abrami et al.（2008）元分析** 汇总 117 项研究（$N = 20,698$）。[[Critical Thinking\|批判性思维]]技能在显性教学条件下增益最大，隐性融入时效果最低。教师接受专门培训且教学受评估时学生获益最高。（p. 250）
-> - **Marin & Halpern（2011）随机对照实验** 在弱势学校的美国高中生中比较显性与隐性教学。接受显性CT教学的学生在前[[Pre-test and Post-test\|后测]]和组间比较中均表现出更大、显著的技能增益。该研究仍是高中阶段比较两种路径的唯一 RCT。（p. 249）
+> - **Marin and Halpern（2011）随机对照实验** 在弱势学校的美国高中生中比较显性与隐性教学。接受显性CT教学的学生在前[[Pre-test and Post-test\|后测]]和组间比较中均表现出更大、显著的技能增益。该研究仍是高中阶段比较两种路径的唯一 RCT。（p. 249）
 > - **Coca et al.（2011）芝加哥[[Longitudinal Study\|纵向研究]]** DP 毕业生完成四年大学课程的可能性高 $40\%$，进入更选拔性大学的可能性高 $50\%$，持续就读两年以上概率显著更高。获益最大的是非裔和拉丁裔学生。（pp. 250–251）
 
 > [!evidence-grid-b] 隐性融入路径的制度风险

@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # IB Learner Profile
@@ -153,7 +153,7 @@ updated: 2026-10-15
 >
 > | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015)]] | 执教[[Theory of Knowledge\|知识论]]（TOK）对学习者特征的培养作用 | 教师对 TOK 培养特定特征的认同率（“强烈同意”与“同意”） | N=960（全球[[IB Diploma Programme\|IBDP]]教师） | 培养了“胸襟开阔的人（Open-minded）”认同率：66.0%；培养了“探究者（Inquirer）”认同率：64.9%；培养了“思考者（Thinker）”认同率：60.4% | — | — | 描述性量化[[Questionnaire\|问卷]]。证实了知识论课程与核心学习者特质的高度一致性，但高度依赖于教师主观自我报告。 |
+> | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015)]] | 执教[[Theory of Knowledge\|知识论]]（TOK）对学习者特征的培养作用 | 教师对 TOK 培养特定特征的认同率（“强烈同意”与“同意”） | N=960（全球[[IB Diploma Programme\|IBDP]]教师） | 培养了“胸襟开阔的人（Open-minded）”认同率：66.0%；培养了“探究者（Inquirer）”认同率：64.9%；培养了“思考者（Thinker）”认同率：60.4% | — | — | 描述性量化[[Questionnaire\|问卷]]。证实了知识论课程与核心学习者特质的高度一致性，但高度依赖于教师主观自我报告。 |
 
 ---
 
@@ -161,4 +161,4 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] — 探讨了 IB Learner Profile 中的具体特质（如探究、反思）在实现核心组件（Core）连贯性和[[Concurrency of Learning\|并发学习]]过程中的核心黏合剂作用。
-> - [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015)]] — 证实了[[Theory of Knowledge\|知识论]]（TOK）课程能够极大地激活学生的“反思”与“胸襟开阔”特质，并揭示了教师在示范这些特质时，其自身的教学哲学也会发生深层转变。
+> - [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015)]] — 证实了[[Theory of Knowledge\|知识论]]（TOK）课程能够极大地激活学生的“反思”与“胸襟开阔”特质，并揭示了教师在示范这些特质时，其自身的教学哲学也会发生深层转变。

@@ -26,7 +26,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # VUCA
@@ -34,9 +34,9 @@ updated: 2026-10-07
 ## 定义
 
 > [!info]
-> VUCA 是一个四维分析缩写，分别指**波动性（volatility）**、**不确定性（uncertainty）**、**复杂性（complexity）**和**模糊性（ambiguity）**，由 Hughes（2018, p.xiv）引入教育领域讨论，用于描述 21 世纪教育面临的挑战环境([[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, p.264]])。
+> VUCA 是一个四维分析缩写，分别指**波动性（volatility）**、**不确定性（uncertainty）**、**复杂性（complexity）** 和**模糊性（ambiguity）**，由 Hughes（2018, p.xiv）引入教育领域讨论，用于描述 21 世纪教育面临的挑战环境([[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, p.264]])。
 
-在[[Geopolitics of Knowledge|知识地缘政治]]的语境中，VUCA 不仅是描述性概念，更是一个**[[Governmentality|治理术]][[Discourse|话语]]工具** 它将教育面临的结构性挑战框定为一组看似客观的环境条件，由此将回应方式自然地锁定为"让个体装备必要技能"——完成从结构问题到个体责任的逻辑转换([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.264]])。
+在[[Geopolitics of Knowledge|知识地缘政治]]的语境中，VUCA 不仅是描述性概念，更是一个 **[[Governmentality|治理术]][[Discourse|话语]]工具** 它将教育面临的结构性挑战框定为一组看似客观的环境条件，由此将回应方式自然地锁定为"让个体装备必要技能"——完成从结构问题到个体责任的逻辑转换([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.264]])。
 
 ## 核心要素
 

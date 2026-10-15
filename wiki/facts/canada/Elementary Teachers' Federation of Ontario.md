@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Elementary Teachers' Federation of Ontario
@@ -75,6 +75,6 @@ updated: 2026-10-15
 ## 相关概念与研究
 
 > [!evidence-grid-a] 相关索引
-> - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 评述 Cooper et al. 依托 ETFO 开展的实证研究。
+> - [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] — 评述 Cooper et al. 依托 ETFO 开展的实证研究。
 > - Cooper, Klinger, & McAdie (2017) — 奠基性实证论文。
 > - [[Knowledge Network for Applied Education Research]] — 省级合作网络。

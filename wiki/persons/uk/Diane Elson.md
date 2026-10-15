@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 
 # Diane Elson
@@ -115,7 +115,7 @@ updated: 2026-10-14
 > - **跨国传播与争议化** 其关于“对女性投资能够提升[[Total Factor Productivity|全要素生产率]]”的研究结论，被[[OECD|经合组织]]与[[World Bank|世界银行]]等国际多边组织广泛采纳，进而引发了批判学者关于女性主义诉求被新自由主义工具化收编的长期学术交锋。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 449–450)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 448–450)]] — 深度剖析经合组织如何收割埃尔森的研究，将女性主义平权矮化为服务于GDP增长的经济工具论。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 448–450)]] — 深度剖析经合组织如何收割埃尔森的研究，将女性主义平权矮化为服务于GDP增长的经济工具论。
 
 ---
 
@@ -154,7 +154,7 @@ updated: 2026-10-14
 > > - **埃尔森政策现实主义立场** 埃尔森强调，制度化性别预算并非最终归宿，而是实践层面上唯一能迫使掌握国家权力与财政大权的男性技术官僚认真审视女性生存处境的可操作制度杠杆。
 
 > [!critique]- 批评索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 指出埃尔森关于女性投资带来经济效率的论述在进入国际组织官方语境后，导致教育正义被形式准入与[[Human Capital Theory|人力资本]]增值彻底替换。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 指出埃尔森关于女性投资带来经济效率的论述在进入国际组织官方语境后，导致教育正义被形式准入与[[Human Capital Theory|人力资本]]增值彻底替换。
 
 ---
 

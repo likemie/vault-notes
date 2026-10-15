@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Nondirectional Language
@@ -65,7 +65,7 @@ updated: 2026-10-15
 
 > [!abstract] 应避免的方向性词语
 
-根据 [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p. 126)]]，以下词语在质性[[Purpose Statement|目的陈述]]和访谈问题中具有方向性暗示，应予以避免：
+根据 [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022, p. 126)]]，以下词语在质性[[Purpose Statement|目的陈述]]和访谈问题中具有方向性暗示，应予以避免：
 
 - **useful**（有用的）——预设了对特定用途的有效性
 - **positive**（积极的）——预设了正面结果
@@ -90,10 +90,10 @@ updated: 2026-10-15
 > [!tip]-
 > 非方向性语言的深层理据植根于[[Qualitative Research\|质性研究]]的[[Constructivist Paradigm\|建构主义]][[Epistemology\|认识论]]。建构主义认为意义是个体通过与世界的互动建构的，研究者不能将先验的"好/坏"框架强加于参与者的经验之上。非方向性法则正是这一[[Epistemic Stances\|认识论立场]]在方法实践层面的[[Operationalization\|操作化]]：它要求研究者[[Epoché\|悬置]]（bracket）自己的价值预设，让参与者的经验和表述成为意义的直接来源。
 >
-> 这一原则也与质性研究的**[[Emergent Design\|涌现式设计]]（emerging design）**一脉相承——如果研究设计可以在过程中改变和调整，那么在表述[[Research Purpose\|研究目的]]时就不应该预设一个固定不变的方向。
+> 这一原则也与质性研究的 **[[Emergent Design\|涌现式设计]]（emerging design）** 一脉相承——如果研究设计可以在过程中改变和调整，那么在表述[[Research Purpose\|研究目的]]时就不应该预设一个固定不变的方向。
 
 ## 争议与批评
 
 > [!warning]
-> 对非方向性语言的批评主要来自两个方向。一种观点认为，完全中立的语言在现实中不可能实现——研究者选择研究某个现象本身就包含了对该现象"值得研究"的价值判断。另一种观点来自[[Transformative Paradigm\|变革主义]]方法论者，他们认为变革性研究应该明确表达倡导方向（如赋权、社会正义），而非假装中立。对此，[[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] 的立场是：非方向性语言主要适用于[[Purpose Statement\|目的陈述]]层面的措辞选择，而非否定研究者的价值立场。
+> 对非方向性语言的批评主要来自两个方向。一种观点认为，完全中立的语言在现实中不可能实现——研究者选择研究某个现象本身就包含了对该现象"值得研究"的价值判断。另一种观点来自[[Transformative Paradigm\|变革主义]]方法论者，他们认为变革性研究应该明确表达倡导方向（如赋权、社会正义），而非假装中立。对此，[[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] 的立场是：非方向性语言主要适用于[[Purpose Statement\|目的陈述]]层面的措辞选择，而非否定研究者的价值立场。
 

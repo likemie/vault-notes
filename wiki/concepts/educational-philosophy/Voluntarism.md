@@ -56,7 +56,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Voluntarism
@@ -159,7 +159,7 @@ updated: 2026-10-15
 > [!contrast-table] 围绕唯意志论形成的理论命题总览
 > | 命题类型 | 核心主张 | 方法论机制 | 代表学者与文献 |
 > |---|---|---|---|
-> | **自主发起创造命题** | 人类是行动的发起者并拥有自由意志，在行动中创造自身生存环境 | [[Intent-to-Treat Analysis\|意向性分析]]、目的论解释、情境建构 | Burrell & Morgan (1979); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 8)]] |
+> | **自主发起创造命题** | 人类是行动的发起者并拥有自由意志，在行动中创造自身生存环境 | [[Intent-to-Treat Analysis\|意向性分析]]、目的论解释、情境建构 | Burrell and Morgan (1979); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 8)]] |
 > | **拟人化主体模型命题** | 探究必须把人当作能动主体，聚焦行动者的理由陈述与规则协商 | 拟人化模型、言语陈述分析、事件分析法 | Harré & Secord (1972); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 16–17)]] |
 > | **组织主观发明命题** | 组织与制度不是超个人的客观法则系统，而是人类意义赋予的发明物 | 组织[[Phenomenology\|现象学]]分析、主观建构追踪、价值冲突剖析 | Greenfield (1975); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 8–10)]] |
 

@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Multimethod Research
@@ -38,7 +38,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!info]
-> 多方法研究（Multimethod Research）指在一项研究中收集多种数据来源的研究方法——但这些数据来源要么全部是量化的、要么全部是质性的，不同时包含量化和质性两类数据。[[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, p.232)]] 明确将其与[[Mixed Methods Research\|混合方法研究]]区分开来：多方法研究不涉及量化与质性数据的整合，因此不是混合方法研究。
+> 多方法研究（Multimethod Research）指在一项研究中收集多种数据来源的研究方法——但这些数据来源要么全部是量化的、要么全部是质性的，不同时包含量化和质性两类数据。[[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022, p.232)]] 明确将其与[[Mixed Methods Research\|混合方法研究]]区分开来：多方法研究不涉及量化与质性数据的整合，因此不是混合方法研究。
 
 > [!quote]
 > "Multimethod research refers to the collection of multiple quantitative or qualitative sources of data and is not mixed methods research. In contrast, mixed methods research collects both quantitative and qualitative data."([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.232]])

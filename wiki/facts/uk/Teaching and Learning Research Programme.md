@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Teaching and Learning Research Programme
@@ -134,7 +134,7 @@ updated: 2026-10-15
 > > [!axis] “推力过度（Push）”与“拉力不足（Pull）”的结构性失衡
 > > 宏观教育政策评估对新工党时期以 TLRP 为代表的大规模供给端投资成效产生深刻反思。
 > >
-> > - **Gough (2013) / [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]]** 指出该时期投资成效有限的根源在于过度依赖“推力”（供给端产出大量学术报告与中介资源），而严重忽视了学校层面的“拉力”（学校吸收、筛选与转化外部研究的内生组织动力与制度时间），导致大量高水平研究被搁置。
+> > - **Gough (2013) / [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]]** 指出该时期投资成效有限的根源在于过度依赖“推力”（供给端产出大量学术报告与中介资源），而严重忽视了学校层面的“拉力”（学校吸收、筛选与转化外部研究的内生组织动力与制度时间），导致大量高水平研究被搁置。
 > > - **新工党政策辩护** 强调在教育研究生态初期，必须由国家主导的大额学术投入先行奠定坚实、成体系的[[Effective Teaching\|有效教学]]实证证据库。
 >
 > > [!axis] 自上而下科层架构与一线教师主体性

@@ -49,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-16
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Research in Schools Evaluation
@@ -59,7 +59,7 @@ updated: 2026-10-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **英国学校研究评估项目（Research in Schools Evaluation, RISE）**是由英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）资助、英国国家社会研究中心（National Centre for Social Research, NatCen）作为[[Evaluator Independence\|第三方独立评估]]的大规模中学[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）。该试验旨在检验在普通中学内部设立专职“研究骨干”（Research Leads）推动证据转译的模式，能否有效改善教师教学实践并提升 10 年级与 11 年级学生在英国普通中等教育证书（General Certificate of Secondary Education, GCSE）统考中的客观[[Academic Achievement\|学业成绩]]。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 592)]]
+> **英国学校研究评估项目（Research in Schools Evaluation, RISE）** 是由英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）资助、英国国家社会研究中心（National Centre for Social Research, NatCen）作为[[Evaluator Independence\|第三方独立评估]]的大规模中学[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）。该试验旨在检验在普通中学内部设立专职“研究骨干”（Research Leads）推动证据转译的模式，能否有效改善教师教学实践并提升 10 年级与 11 年级学生在英国普通中等教育证书（General Certificate of Secondary Education, GCSE）统考中的客观[[Academic Achievement\|学业成绩]]。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 592)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 2015 年正式启动，历经两学年干预与终期追踪，2019 年由 NatCen 评估团队发布终期评估报告（Wiggins et al., 2019）。

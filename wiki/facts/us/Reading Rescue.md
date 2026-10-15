@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Reading Rescue
@@ -57,7 +57,7 @@ updated: 2026-10-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **Reading Rescue（阅读营救）**是由纽约市立大学（City University of New York, CUNY）著名阅读认知心理学家林妮娅·埃里（Linnea C. Ehri）与诺拉·德[[John Rex\|雷克斯]]勒（Nora Drexler）等学者联合研发、全美多地公立小学广泛采纳的早期读写一对一辅导干预项目；其核心目标是依托埃里享誉学界的词汇阅读认知阶段理论，通过校本专业读写协调员对普通教学助教（TA）与校园非专业支持人员开展系统带教，为小学一年级处于严重阅读障碍边缘的处境不利儿童提供高密度、个别化的每日 30 分钟精准救济。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> **Reading Rescue（阅读营救）** 是由纽约市立大学（City University of New York, CUNY）著名阅读认知心理学家林妮娅·埃里（Linnea C. Ehri）与诺拉·德[[John Rex\|雷克斯]]勒（Nora Drexler）等学者联合研发、全美多地公立小学广泛采纳的早期读写一对一辅导干预项目；其核心目标是依托埃里享誉学界的词汇阅读认知阶段理论，通过校本专业读写协调员对普通教学助教（TA）与校园非专业支持人员开展系统带教，为小学一年级处于严重阅读障碍边缘的处境不利儿童提供高密度、个别化的每日 30 分钟精准救济。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 研发始于 1990 年代末，2000 年代初在纽约市高贫困公立学校全面试点并开展系统实证评估，常态化运用于纽约市及其他城市学区逾二十年。

@@ -57,7 +57,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Wanzenbock_2020_SPP"
@@ -99,9 +99,9 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **[[Problem-Solution Space for Mission-Oriented Innovation Policy\|问题–解决方案空间框架]]**<br>本文构建的核心分析框架 | 将问题与方案两端按发散与收敛状态做正交分解，形成四象限空间并阐释三条动态收敛路径。 |
-> | **[[Wicked Problem\|棘手问题理论]]**<br>Rittel & Webber (1973); Turnpenny et al. (2009) | 提供解构公共政策难题的三大核心分析维度：争议性（Contestation）、复杂性（Complexity）与不确定性（Uncertainty）。 |
-> | **[[Mission-Oriented Innovation Policy\|使命导向创新政策理论]]**<br>Weber & Rohracher (2012); [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | 确立超越传统市场失灵与结构性失灵的[[Transformative System Failures\|变革性系统失灵]]诊断，强调方向性（Directionality）、需求表达与[[Reflexive Governance\|反思性治理]]。 |
-> | **社会–技术转型与多层级视角**<br>Geels (2004); Schot & Steinmueller (2018) | 解释创新方案如何突破既有社会–技术体制壁垒，实现技术、制度与社会行为的协同演进。 |
+> | **[[Wicked Problem\|棘手问题理论]]**<br>Rittel and Webber (1973); Turnpenny et al. (2009) | 提供解构公共政策难题的三大核心分析维度：争议性（Contestation）、复杂性（Complexity）与不确定性（Uncertainty）。 |
+> | **[[Mission-Oriented Innovation Policy\|使命导向创新政策理论]]**<br>Weber and Rohracher (2012); [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | 确立超越传统市场失灵与结构性失灵的[[Transformative System Failures\|变革性系统失灵]]诊断，强调方向性（Directionality）、需求表达与[[Reflexive Governance\|反思性治理]]。 |
+> | **社会–技术转型与多层级视角**<br>Geels (2004); Schot and Steinmueller (2018) | 解释创新方案如何突破既有社会–技术体制壁垒，实现技术、制度与社会行为的协同演进。 |
 
 > [!warrant]- 理论如何支撑论证
 > 论文将公共政策与规划学中的棘手问题理论作为微观解构透镜，把以往被笼统对待的社会挑战拆解为[[Problem Finding|问题界定]]与解决方案两个正交维度，并在每个维度上引入争议性、复杂性与不确定性作为[[Operationalization|操作化]]判据。进而结合科技政策中的变革性系统转型理论，推导出政策干预的实质是运用多样化政策工具逐步降低两端维度的发散度，最终达成系统收敛。（pp.475–477）

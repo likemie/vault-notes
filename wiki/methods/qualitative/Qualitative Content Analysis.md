@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Qualitative Content Analysis
@@ -159,7 +159,7 @@ updated: 2026-10-15
 
 ### 进路一　归纳总结内容分析（Summarizing Content Analysis）
 
-当研究处于探索阶段或旨在从原始经验文本中提炼新的理论范畴时，采用总结性内容分析。其核心在于**[[Data Reduction|数据缩减]]（Data reduction）**——在维护实质内涵完整性的前提下，将庞杂材料压缩为高度条理化的范畴大纲（Mayring, 2004, p. 268）：
+当研究处于探索阶段或旨在从原始经验文本中提炼新的理论范畴时，采用总结性内容分析。其核心在于 **[[Data Reduction|数据缩减]]（Data reduction）**——在维护实质内涵完整性的前提下，将庞杂材料压缩为高度条理化的范畴大纲（Mayring, 2004, p. 268）：
 1. **确定抽象基准层级（Level of Abstraction）** 明确界定待提炼范畴的概括水准，防止出现层级混乱；
 2. **逐段客观转述释义（Paraphrasing）** 剔除修辞性修饰词与冗赘语言，将包含有效信息的语句转换为简短明确的陈述句；
 3. **删减冗余重复** 审查转述文本，剔除在同一案例或不同案例中完全同义的重复表述；
@@ -191,7 +191,7 @@ updated: 2026-10-15
 
 ### 机制四　形成性复核与范畴修正回路
 
-菲利普·迈林对[[Qualitative Research|质性研究]]方法论的标志性贡献在于提出了**形成性复核（Formative [[Reliability]] Check）**机制：
+菲利普·迈林对[[Qualitative Research|质性研究]]方法论的标志性贡献在于提出了**形成性复核（Formative [[Reliability]] Check）** 机制：
 
 > [!proc]- 形成性复核与范畴修正循环流程
 > ```mermaid
@@ -300,7 +300,7 @@ updated: 2026-10-15
 > | [[Domain Analysis\|领域分析]] | 概念 | 归纳总结进路中的包容层级归并与覆盖词提炼，与领域分析发掘符号语义关系的旨趣高度交织。 | Spradley (1979) |
 > | [[Central Phenomenon\|核心现象]] | 概念 | 在质性内容分析的理论生成阶段，高阶抽象归并最终收敛于解释力最强的核心现象或主题范畴。 | Strauss (1987) |
 > | [[Qualitative Codebook\|质性编码本]] | 概念 | 结构化 QCA 编制的包含定义、锚定样例与判别规则的编码指南，是结构化质性编码本的原型典范。 | Schreier (2012) |
-> | [[Grounded Theory\|扎根理论]] | 方法 | 扎根理论代表纯粹归纳[[Emergence\|涌现]]路径，与 QCA 形成互补；当研究设问高度开放时常作为 QCA 的上位替代。 | Glaser & Strauss (1967) |
-> | [[Typological Analysis\|类型学分析]] | 方法 | 结构演绎进路通过预设维度横切文本，直接服务于质性经验材料的分类与多维类型建构。 | LeCompte & Preissle (1993) |
-> | [[Audit Trail\|审计追踪]] | 概念 | 编码指南的演变版本、形成性复核的修改会审记录，构成了 QCA 严密的过程审计链条。 | Lincoln & Guba (1985) |
+> | [[Grounded Theory\|扎根理论]] | 方法 | 扎根理论代表纯粹归纳[[Emergence\|涌现]]路径，与 QCA 形成互补；当研究设问高度开放时常作为 QCA 的上位替代。 | Glaser and Strauss (1967) |
+> | [[Typological Analysis\|类型学分析]] | 方法 | 结构演绎进路通过预设维度横切文本，直接服务于质性经验材料的分类与多维类型建构。 | LeCompte and Preissle (1993) |
+> | [[Audit Trail\|审计追踪]] | 概念 | 编码指南的演变版本、形成性复核的修改会审记录，构成了 QCA 严密的过程审计链条。 | Lincoln and Guba (1985) |
 > | [[Reflexivity\|反身性]] | 概念 | 研究者在制定判别规则与形成性复核时必须保持高度反躬自省，严防理论预设演化为主观偏见。 | Flick (1998) |

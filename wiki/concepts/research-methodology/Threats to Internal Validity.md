@@ -47,7 +47,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Threats to Internal Validity
 
@@ -67,7 +67,7 @@ updated: 2026-10-15
 
 ## 量化研究中的内部效度威胁
 
-Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立了经典框架，Creswell & Guetterman (2018) 将其按来源重组为三组共 10 种威胁（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch8, Table 8.5]]）。以下整合两个框架，按受试者、实验处理和实验程序三组展开。
+Campbell and Stanley (1963)、Bracht and Glass (1968) 和 Lewis-Beck (1993) 建立了经典框架，Creswell and Guetterman (2018) 将其按来源重组为三组共 10 种威胁（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch8, Table 8.5]]）。以下整合两个框架，按受试者、实验处理和实验程序三组展开。
 
 ### 与受试者相关的威胁（Subject Threats）
 
@@ -136,7 +136,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 
 > [!factors] [[Randomised Controlled Trials\|RCT]] 中的额外偏差来源（Torgerson & Torgerson, 2003b）
 > - **随机化的实践局限** 并非所有混淆[[Variable\|变量]]都能在随机化过程中得到适当控制——随机化在理论上完美，但在实践中受限于[[Sample Size Determination\|样本量]]和实施质量（Hammersley, 2008, p. 4; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, p. 332]]）。
-> - **小样本的偶然失衡** 小样本中偶然因素可能导致严重失衡——例如 40 名学生中有 4 名阅读障碍者，全部四人随机落入同一组的概率不可忽略。可通过**最小化（minimisation）**策略应对（Torgerson & Torgerson, 2003b, p. 40）。
+> - **小样本的偶然失衡** 小样本中偶然因素可能导致严重失衡——例如 40 名学生中有 4 名阅读障碍者，全部四人随机落入同一组的概率不可忽略。可通过**最小化（minimisation）** 策略应对（Torgerson & Torgerson, 2003b, p. 40）。
 > - **稀释偏差（Dilution Bias）** 控制组因未接触干预而主动寻求补偿性处理——例如在测试增加数学关注效果的实验中，控制组学生自行参加私人数学课程（p. 38）。
 > - **流失偏差（Attrition Bias）** 实验组部分学生退出——若只分析留守学生的结果会高估干预效果。参加自愿周六早间加强班的学生中，退出者本身动机水平可能较低（Torgerson & Torgerson, 2003a, pp. 74–75）。
 > - **颠覆偏差（Subversion Bias）** 研究者故意违反[[Random Assignment\|随机分配]]要求——因此需要双盲实验或确保研究者不参与随机分配过程（p. 40）。

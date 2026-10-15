@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Plyler v. Doe 1982
@@ -114,8 +114,8 @@ updated: 2026-10-15
 >
 > | [[Evaluation Research\|评估研究]] / 实证考证 | 调查样本与情境 | 研究设计与评估方法 | 核心评估[[Variable\|变量]] / 统计指标 | 主要统计结果与发现 | 证据等级与解释边界 |
 > |---|---|---|---|---|---|
-> | Branz-Spall et al. (2003)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009, p. 365)]] | 全美公立学校季节性农业务工流动学童群体 | 全国性人口学特征追踪与教育档案分析 | 流动学童族裔构成与迁徙模式 | “在路上的孩子”族裔构成高度异质：除墨西哥裔外，海地、波多黎各、非洲、越南、柬埔寨及东欧学童广泛存在 | 实证揭示了全美流动儿童超越单一族裔标签的复杂人口结构与多元需求 |
-> | Brunn (1999); Lopez (1999)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009, p. 366)]] | 美国多学区跨州流动农工子女班级与移民家庭 | 纵向机会追踪与家校互动[[Qualitative Interview\|质性访谈]] | 跨州转学频率、教学连续性与家校文化冲突 | 频繁迁移导致课程与学分互不兼容；移民家庭合作文化与学校中产阶级原子化期待产生严重错位 | 确证了法定入学权未能自动解决空间流动导致的制度性课程断裂与隐性文化排斥 |
+> | Branz-Spall et al. (2003)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009, p. 365)]] | 全美公立学校季节性农业务工流动学童群体 | 全国性人口学特征追踪与教育档案分析 | 流动学童族裔构成与迁徙模式 | “在路上的孩子”族裔构成高度异质：除墨西哥裔外，海地、波多黎各、非洲、越南、柬埔寨及东欧学童广泛存在 | 实证揭示了全美流动儿童超越单一族裔标签的复杂人口结构与多元需求 |
+> | Brunn (1999); Lopez (1999)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009, p. 366)]] | 美国多学区跨州流动农工子女班级与移民家庭 | 纵向机会追踪与家校互动[[Qualitative Interview\|质性访谈]] | 跨州转学频率、教学连续性与家校文化冲突 | 频繁迁移导致课程与学分互不兼容；移民家庭合作文化与学校中产阶级原子化期待产生严重错位 | 确证了法定入学权未能自动解决空间流动导致的制度性课程断裂与隐性文化排斥 |
 
 ---
 
@@ -141,4 +141,4 @@ updated: 2026-10-15
 > | [[Hukou System]] | 政策事实 | 与中国户籍制度排斥城市随迁儿童形成鲜明对照：美国确立了公立教育保障，但两者均折射出深刻的身份登记[[Governmentality\|治理术]]。 |
 > | [[No Child Left Behind Act 2001]] | 政策事实 | 尽管该判例保障了入学权，但后续 NCLB 的学校报告卡仍将流动学童的高流动率编码为负面失范指标。 |
 > | [[Comparative Policy Analysis]] | 研究方法 | 比较教育学者运用比较政策分析，将美、中、西、英对流动学童的教育空间治理政策展开横向对质。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 论证条目 | 深入阐述该判例如何正规化美国流动学童教育供给，同时剖析流动学童面临的跨校机会断裂与登记政治。 |
+> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证条目 | 深入阐述该判例如何正规化美国流动学童教育供给，同时剖析流动学童面临的跨校机会断裂与登记政治。 |

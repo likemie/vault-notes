@@ -51,7 +51,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Demonstration Effect
@@ -61,7 +61,7 @@ updated: 2026-10-09
 ## 定义
 
 > [!def] 核心定义
-> **示范效应（Demonstration Effect / 技术示范效应）**是指政府公共部门或先导机构通过在具有高度可见性的重大公共工程、国防航天任务、市政安全或国家示范项目中实际部署、验证并稳定运行新兴复杂技术，向外部潜在商业用户、产业决策者及公共机构直观展示该技术的工程可行性、性能优越性与运行[[Reliability|可靠性]]，从而降低技术采纳的认知门槛与感知风险，消除信息不对称与体制避险惰性，加速前沿技术向民用市场与公共治理扩散的制度与市场心理机制。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 10–11)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 174–178)]]
+> **示范效应（Demonstration Effect / 技术示范效应）** 是指政府公共部门或先导机构通过在具有高度可见性的重大公共工程、国防航天任务、市政安全或国家示范项目中实际部署、验证并稳定运行新兴复杂技术，向外部潜在商业用户、产业决策者及公共机构直观展示该技术的工程可行性、性能优越性与运行[[Reliability|可靠性]]，从而降低技术采纳的认知门槛与感知风险，消除信息不对称与体制避险惰性，加速前沿技术向民用市场与公共治理扩散的制度与市场心理机制。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 10–11)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 174–178)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向重大先导工程对前沿技术有效性与可靠性的公信力背书与操作范例展示。

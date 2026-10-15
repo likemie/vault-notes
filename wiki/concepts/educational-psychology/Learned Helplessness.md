@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Learned Helplessness
@@ -96,7 +96,7 @@ updated: 2026-10-15
 > | **核心归因** | “我天生不是学这门学科的料，努力没有用” | “算法写得太完美了，我天生不可能组织出如此严密的论证” |
 > | **行为表现** | 迅速停止解题尝试，数分钟内放弃，防御性回避 | 面对独立探究时产生严重焦虑，不假思索地直接召唤 AI 代写代劳 |
 > | **[[Epistemology\|认识论]]后果** | 表现目标压倒掌握目标，逃避公开展示 | **信度自我认知失真** 形成自加信度赤字，主动剥夺自身求知者资格 |
-> | **代表学者与文献** | Dweck & Leggett (1988); [[Argument_Li_2012_Cambridge\|Li (2012)]]; [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | Nikolaidis (2021); [[Argument_Smith_2026_SPE\|Smith (2026)]] |
+> | **代表学者与文献** | Dweck and Leggett (1988); [[Argument_Li_2012_Cambridge\|Li (2012)]]; [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | Nikolaidis (2021); [[Argument_Smith_2026_SPE\|Smith (2026)]] |
 
 > [!boundary] 概念边界辨析
 > - **习得性无助 vs [[Growth Mindset|实体论智力观]]（Entity Theory of Intelligence）** 习得性无助是面临挑战或面对技术代理时表现出的退缩与放弃行为（症状层面）；实体智力观则是认为智力是天生固定不可变质的底层信念（病因层面）。
@@ -125,7 +125,7 @@ updated: 2026-10-15
 > [!concept-lens] 智力内隐观对无助反应的决定作用
 > 探讨学生持有的智力理论如何直接决定其在面对学业失败时的归因路径与行为反应。
 
-> [!claim] Dweck & Leggett (1988); [[Argument_Li_2012_Cambridge|Li (2012)]]
+> [!claim] Dweck and Leggett (1988); [[Argument_Li_2012_Cambridge|Li (2012)]]
 > **[[Growth Mindset|实体智力观]]致病假说** 学生的行为模式深刻取决于其内隐智力理论。
 > 持有实体论（Entity Theory）的学生认为智力是固定的天生特质。在他们看来，付出巨大努力本身就是能力低下的证明，一旦遭遇挫折便会推导出“我能力不行且不可改变”的结论，从而直接诱发习得性无助；相反，持有增长论（Incremental Theory）的学生将智力视为可通过实践拓展的技能网络，能将失败转化为寻求新策略的动力，展现出高水平韧性。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 58–59)]]
 
@@ -147,7 +147,7 @@ updated: 2026-10-15
 > [!concept-lens] 学业分层中的能力观分化
 > 长期学困生的认知系统普遍被固定快速学习能力信念所禁锢。
 
-> [!claim] Qian & Alvermann (1995); [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]]
+> [!claim] Qian and Alvermann (1995); [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]]
 > **学业阶梯中的[[Epistemology|认识论]]无助断层** 在中学科学教育实证中，固定与快速学习能力（Fixed and Quick Ability to Learn, FQAL）信念是预测学生长期总体[[Academic Achievement|学业成就]]预估值（EOAA）的最强因子（$\Delta R^2 = .08, p < .001$）。低学业成就组在固定能力信念上的幼稚程度显著高于高成就组（$M = .31$ vs $-.24, p < .001, \eta^2 = .08$）。学困生普遍深信能力天生且无法提升，这种认识论无助感使其在日常学习中长期处于低努力投入与防御性回避状态。[[Argument_Lodewyk_2007_EP|(Lodewyk, 2007, pp. 318–320)]]
 
 ---
@@ -157,7 +157,7 @@ updated: 2026-10-15
 > [!concept-lens] 性别社会化与能力归因偏差
 > 探讨男女学生在能力可塑性信念上的系统性差异及其对学业耐挫力的影响。
 
-> [!claim] Enman & Lupart (2000); [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]]
+> [!claim] Enman and Lupart (2000); [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]]
 > **性别认识论分化与抗无助优势** 在基础教育阶段，男生比女生显著更幼稚地笃信天生能力论与快速学习论（$t = -5.07, p < .001, \eta^2 = .06$）。女生表现出更成熟的能力增长观与对持续努力价值的认可，在面对良构与劣构科学任务时均能维持更持久的自我调节与更低的无助放弃倾向，这一认识论优势构成了女生取得更高学业总评的重要心理支撑。[[Argument_Lodewyk_2007_EP|(Lodewyk, 2007, pp. 321–322, 324)]]
 
 ---
@@ -178,10 +178,10 @@ updated: 2026-10-15
 > [!contrast-table] 习得性无助命题归纳与理论边界
 > | 命题类型 | 核心主张 | 适用情境与作用机制 | 代表学者与文献 |
 > |---|---|---|---|
-> | **实体智力致病根源** | 实体智力观将失败归结为天生不可变缺陷，是诱发传统习得性无助的核心病因。 | 学业归因干预、成就目标定向分析 | Dweck & Leggett (1988); [[Argument_Li_2012_Cambridge\|Li (2012)]] |
+> | **实体智力致病根源** | 实体智力观将失败归结为天生不可变缺陷，是诱发传统习得性无助的核心病因。 | 学业归因干预、成就目标定向分析 | Dweck and Leggett (1988); [[Argument_Li_2012_Cambridge\|Li (2012)]] |
 > | **快速学习效能催化** | 快速学习期望促使学生将正常的认知挣扎误判为无能，加速效能崩塌与即时放弃。 | 数理问题解决、认知耐挫力培养 | Schoenfeld (1985); Bandura (1993); [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] |
-> | **学业阶梯信念断层** | 固定能力信念是区分长期优等生与学困生的最强指标，学困生呈现深度认识论无助。 | 基础教育学困生转化、分层教学设计 | Qian & Alvermann (1995); [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] |
-> | **性别抗无助优势** | 女生持有显著更成熟的能力增长观与更低的无助倾向，支撑其在复杂任务中的高表现。 | 科学教育性别差异、[[Self-Regulated Learning\|自我调节学习]]辅导 | Enman & Lupart (2000); [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] |
+> | **学业阶梯信念断层** | 固定能力信念是区分长期优等生与学困生的最强指标，学困生呈现深度认识论无助。 | 基础教育学困生转化、分层教学设计 | Qian and Alvermann (1995); [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] |
+> | **性别抗无助优势** | 女生持有显著更成熟的能力增长观与更低的无助倾向，支撑其在复杂任务中的高表现。 | 科学教育性别差异、[[Self-Regulated Learning\|自我调节学习]]辅导 | Enman and Lupart (2000); [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] |
 > | **技术代劳与自加赤字** | 全流程 AI 代写剥夺核心心智探究实践，诱发自加信度赤字与技术性习得性无助。 | 生成式 AI 采纳、读写教育反思性防御规程 | Nikolaidis (2021); [[Argument_Smith_2026_SPE\|Smith (2026)]] |
 
 ---
@@ -191,7 +191,7 @@ updated: 2026-10-15
 > [!dev-timeline] 概念演变脉络
 > - **1967–1975 年：动物实验与归因重构** Seligman 与 Maier 首次在不可控电击实验中发现动物的无助放弃行为；随后 Abramson et al. 引入[[Attribution Theory|归因理论]]，将其扩展为人类在不可控负性事件下的内部、稳定、普遍归因模式。
 > - **1975–1988 年：教育领域的现象识别与智力内隐观确立** Dweck 在儿童学业挫折实验中识别出学术习得性无助与掌握导向模式，并构建实体论 vs 增长论智力模型，确立了无助反应的认知病理机制。[[Argument_Li_2012_Cambridge|(Li, 2012)]]
-> - **1990–1995 年：[[Epistemological Beliefs|认识论信念]]系统的多维整合** Schommer (1990) 与 Qian & Alvermann (1995) 将天生固定能力与快速学习纳入认识论信念框架，证明[[Epistemology|认识论]]无助信念直接制约概念转变与科学文本理解。
+> - **1990–1995 年：[[Epistemological Beliefs|认识论信念]]系统的多维整合** Schommer (1990) 与 Qian and Alvermann (1995) 将天生固定能力与快速学习纳入认识论信念框架，证明[[Epistemology|认识论]]无助信念直接制约概念转变与科学文本理解。
 > - **2007 年：微观[[Task Structure|任务结构]]实验与因果机制确证** [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] 通过中学生科学双任务实验，实证检验了固定快速能力信念（FQAL）对总体成绩的强力负向预测，揭示了无助信念在学业阶梯中的分化机制。
 > - **2026 年：生成式 AI 全流程代劳与自加[[Reliability|信度]]赤字确立** [[Argument_Smith_2026_SPE|Smith (2026)]] 揭示了大模型充当“私人厨师”对未成年人[[Epistemic Practices|认知实践]]权的剥夺，论证技术过度外包导致学生面对独立思考时产生严重的自加信度赤字与技术性习得性无助，确立了人工智能时代的认知致残机理。
 
@@ -214,7 +214,7 @@ updated: 2026-10-15
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | [[Statistical Significance\|统计显著性]]与[[Effect Size\|效应量]] | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | 447名加拿大十年级科学课学生 | [[Questionnaire\|问卷调查]]、分层[[Multiple Regression\|多元回归]]与 MANOVA | 固定与快速学习能力（FQAL，5题，解释率 7.49%）、长期总评（EOAA）、学业分层 | 1. FQAL 是长期总评的最强负向预测源（$\Delta R^2 = .08$）<br>2. 低学业组在固定能力信念上显著高于高学业组（$M = .31$ vs $-.24$）<br>3. 男生在 FQAL 幼稚度上显著高于女生（$M = .20$ vs $-.16$） | 1. 回归增量 $F(3,436) = 12.09, p < .001$<br>2. 学业组间差异 $F(2,437) = 18.91, p < .001, \eta^2 = .08$<br>3. 性别差异 $t(439) = -5.07, p < .001, \eta^2 = .06$ | 证实固定能力与快速学习信念是诱发长期学业无助感与学困分化的最强认知预测源 |
-> | Qian & Alvermann (1995) | 179名九至十二年级中学生 | [[Quasi-Experimental Designs\|准实验设计]]与路径分析 | [[Epistemological Beliefs\|认识论信念]]（天生能力、快速学习）、习得性无助、反直觉科学概念转变 | 固定天生能力与快速学习信念显著正向预测习得性无助得分，并通过抑制深入阅读与推理直接阻碍科学概念转变 | 路径系数显著（$p < .01$） | 确立了[[Epistemology\|认识论]]固定信念经由习得性无助阻碍深层概念理解的中介路径 |
+> | Qian and Alvermann (1995) | 179名九至十二年级中学生 | [[Quasi-Experimental Designs\|准实验设计]]与路径分析 | [[Epistemological Beliefs\|认识论信念]]（天生能力、快速学习）、习得性无助、反直觉科学概念转变 | 固定天生能力与快速学习信念显著正向预测习得性无助得分，并通过抑制深入阅读与推理直接阻碍科学概念转变 | 路径系数显著（$p < .01$） | 确立了[[Epistemology\|认识论]]固定信念经由习得性无助阻碍深层概念理解的中介路径 |
 
 ---
 

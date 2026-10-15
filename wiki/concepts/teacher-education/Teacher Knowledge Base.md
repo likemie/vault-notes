@@ -48,7 +48,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Teacher Knowledge Base
@@ -132,7 +132,7 @@ updated: 2026-10-15
 > [!concept-lens] 伦理调节与实践适切性
 > 揭示教育价值观与专业规范在教师调用和转化外部科研知识时的把关机制。
 
-> [!claim] Eriksen (2022); Hermansen & Mausethagen (2023); [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]
+> [!claim] Eriksen (2022); Hermansen and Mausethagen (2023); [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]
 > **价值信念对知识使用的中介与过滤** 教学不仅关乎教学成效，更关乎育人伦理与价值追求；在教师知识库中，专业规范与价值信念构成了调节知识转化的核心中介，当某项科研结论所推荐的高效方法可能损害学生长远身心健康或教育公平时，教师会基于育人伦理审慎调整或搁置该方案，这种取舍反映了高度成熟的专业理性而非认知缺陷。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, p. 8)]]
 
 ---
@@ -143,7 +143,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **异质知识动态整合** | 教师知识库是多元资源的复合体，[[Research Utilization\|研究使用]]本质是多源知识整合 | 课堂教学设计、校本课程开发、循证教学调适 | Shulman (1987); Grimen (2008); [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] |
-> | **专业伦理价值中介** | 专业规范与育人伦理作为过滤器，调节外部证据的适用边界 | 教学改革推行、价值冲突情境、教育公平权衡 | Eriksen (2022); Hermansen & Mausethagen (2023); [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] |
+> | **专业伦理价值中介** | 专业规范与育人伦理作为过滤器，调节外部证据的适用边界 | 教学改革推行、价值冲突情境、教育公平权衡 | Eriksen (2022); Hermansen and Mausethagen (2023); [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] |
 
 ---
 

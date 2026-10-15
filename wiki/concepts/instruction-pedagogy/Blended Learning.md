@@ -53,7 +53,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Blended Learning
@@ -158,7 +158,7 @@ updated: 2026-10-15
 > [!concept-lens] 人机混合认知与实体[[Champ\|场域]]重构
 > 探讨混合教学如何从简单的“线上/线下时空混合”升级为“[[Man-Computer Symbiosis|人机协同]]求知（Hybrid Human-AI Learning）”，分析线下面对面课堂在打破算法流畅假象中的[[Epistemic Value\|认识论价值]]。
 
-> [!claim] [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]
+> [!claim] [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]
 > **人机混合学习与实体辩论制衡** 随着[[Generative Artificial Intelligence\|生成式人工智能]]深度介入求知过程，混合式学习的内涵已拓展为“人机混合学习（Hybrid Human-AI Learning）”（Molenaar, 2022; Gašević et al., 2023; [[Argument_Du_Yuan_2026_AIS\|Du & Yuan, 2026]]）。在这种新型混合生态中，学习者的[[Epistemic Agency\|认识主体性]]并非表现为孤立排斥技术，而是在与智能工具的紧密交互中保持实质性的批判参与。此时，混合式学习中“线下面对面实体课堂”的战略地位发生质的重构：由于学生在线上容易被算法的流畅综合语调诱导而放弃深层思考，线下面对面研讨成为刻意营造“[[Epistemic Friction\|认知摩擦]]”（[[Epistemic Friction]]）、迫使学生对算法生成的主张进行公开辩护与漏洞质询的核心避风港，从而有效防范有害[[Epistemic Dependence\|认识依赖]]并落实分布式责任。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 5, 7–8)]]
 
 ---
@@ -185,7 +185,7 @@ updated: 2026-10-15
 >
 > - **2020s 初 — 生成式 AI 赋能的自适应混合生态** [[Generative Artificial Intelligence\|生成式人工智能]]与大语言模型的深度介入，使混合学习中的“线上端”具备了强大的拟人化启发互动能力；混合学习逐步升级为“教师—学生—[[AI Agent in Education\|智能体]]”多元协同共创的新型教学常态。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 11–12)]]
 >
-> - **2026 — 人机混合学习（Hybrid Human-AI Learning）与[[Epistemology\|认识论]][[Champ\|场域]]重塑** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 结合关系性[[Epistemic Agency\|认识主体性]]理论，将混合学习从单纯的“线上/线下时空混合”提升为“人机认知主体性协同与分工”，强调线下面对面课堂在提供思维摩擦、质询算法主张及培育[[Evaluative Judgement\|评价性判断]]中的不可替代功能。
+> - **2026 — 人机混合学习（Hybrid Human-AI Learning）与[[Epistemology\|认识论]][[Champ\|场域]]重塑** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 结合关系性[[Epistemic Agency\|认识主体性]]理论，将混合学习从单纯的“线上/线下时空混合”提升为“人机认知主体性协同与分工”，强调线下面对面课堂在提供思维摩擦、质询算法主张及培育[[Evaluative Judgement\|评价性判断]]中的不可替代功能。
 
 ---
 
@@ -231,7 +231,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 在生成式 AI 促进学生[[Higher-Order Thinking Skills\|高阶思维]]的[[Meta-analysis\|元分析]]中，将混合式学习作为核心教学模式调节[[Variable\|变量]]（$k = 22, g = 0.525, p < 0.001$），实证确证了双轨探究环境在激发学生逻辑排错与反思评估中的稳健促学价值，促学效果显著超越传统讲授式课堂。
-> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 将混合学习拓展为人机混合认知与关系性主体性协同的新[[Paradigm\|范式]]，论证线下面对面研讨在注入[[Epistemic Friction\|认知摩擦]]与防范算法依赖中的战略价值。
+> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 将混合学习拓展为人机混合认知与关系性主体性协同的新[[Paradigm\|范式]]，论证线下面对面研讨在注入[[Epistemic Friction\|认知摩擦]]与防范算法依赖中的战略价值。
 
 ---
 
@@ -246,4 +246,4 @@ updated: 2026-10-15
 > | [[Epistemic Friction\|思维摩擦]] | 认知促发机制 | 线下面对面研讨强行注入必要的思维摩擦，防止线上人机交互中的无摩擦委托。 |
 > | [[Epistemic Agency\|认识主体性]] | 规范价值旨归 | 人机混合学习致力于引导学生在借助工具的同时掌握最终评判权与主体性。 |
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | [[Meta-analysis\|元分析]]实证 | 元分析实证表明混合式教学环境在促进生成式 AI 培育[[Higher-Order Thinking Skills\|高阶思维]]中效果最为显著。 |
-> | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] | [[Epistemological Theories\|认识论理论]]提升 | 提出人机混合学习的实质是关系性认识主体性协同，实体课堂是防范算法依赖的核心阵地。 |
+> | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] | [[Epistemological Theories\|认识论理论]]提升 | 提出人机混合学习的实质是关系性认识主体性协同，实体课堂是防范算法依赖的核心阵地。 |

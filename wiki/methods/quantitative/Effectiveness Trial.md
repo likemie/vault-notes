@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-09-22
+updated: 2026-10-16
 ---
 
 # Effectiveness Trial
@@ -74,7 +74,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 方法定义
-> **实效试验（Effectiveness Trial，或有效性检验）**是[[Randomised Controlled Trials\|随机对照试验]]（RCT）阶梯式评估管线中面向规模化政策推广的终极检验阶段。其核心目标在于评估：某项在前期[[Efficacy Trial\|效力试验]]中已被证实有效的干预方案，在**真实世界、缺乏外部特权督导、完全依赖常规在编师资与常规办学经费**的大规模推广条件下，“能否在日常学校实践中稳定产生统计学显著的净收益”（即回答“Does it work in routine educational practice at scale?”）。
+> **实效试验（Effectiveness Trial，或有效性检验）** 是[[Randomised Controlled Trials\|随机对照试验]]（RCT）阶梯式评估管线中面向规模化政策推广的终极检验阶段。其核心目标在于评估：某项在前期[[Efficacy Trial\|效力试验]]中已被证实有效的干预方案，在**真实世界、缺乏外部特权督导、完全依赖常规在编师资与常规办学经费**的大规模推广条件下，“能否在日常学校实践中稳定产生统计学显著的净收益”（即回答“Does it work in routine educational practice at scale?”）。
 >
 > 实效试验以确立干预方案在宽广学校生态中的[[External Validity\|外部效度]]（External Validity）与普适推广价值为首要目标。它要求彻底剥离方案原创研发者对一线教学的贴身指导，转由第三方独立团队评估项目在大样本、多学区级联传递下的真实净回报（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 57–58]]）。
 
@@ -174,4 +174,4 @@ updated: 2026-09-22
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 深度反思全英大规模实效试验中高频出现的效应归零现象，提出在规模化进程中统筹管理统计功效诉求与[[Implementation Fidelity\|实施保真度]]稀释的制度框架。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 深度反思全英大规模实效试验中高频出现的效应归零现象，提出在规模化进程中统筹管理统计功效诉求与[[Implementation Fidelity\|实施保真度]]稀释的制度框架。

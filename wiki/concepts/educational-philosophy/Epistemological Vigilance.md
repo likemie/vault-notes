@@ -76,7 +76,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Epistemological Vigilance
@@ -124,7 +124,7 @@ updated: 2026-10-15
 > | **警觉针对的核心客体** | 日常惯用词、常识概念（[[Doxa]]）、制度化神圣标签 | 欺骗性言论、不可靠信息源、虚假陈述 | 模型[[AI Hallucination\|幻觉]]（Hallucination）、算法偏见、表面语义流畅性 |
 > | **内在认知与社会机制** | 参与性对象化、对对象建构过程的持续批判 | 认知[[Trust Calibration\|信任校准]]、信念修正与反省性推理 | [[Metacognition\|元认知]]监控、认识论摩擦维持、提示词迭代核查 |
 > | **防御失败的典型后果** | 沦为既有权力结构与管理主义的合法化工具 | 陷入认知盲从与错误信念传播 | 触发有害的[[Cognitive Offloading\|认知卸载]]、批判思维退化与心智外包 |
-> | **代表性理论与学者** | Bourdieu et al. (1968/1991); [[Argument_Eacott_2015_EPT\|Eacott (2015)]] | Sperber et al. (2010); Medina (2013) | Ng et al. (2021); [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] |
+> | **代表性理论与学者** | Bourdieu et al. (1968/1991); [[Argument_Eacott_2015_EPT\|Eacott (2015)]] | Sperber et al. (2010); Medina (2013) | Ng et al. (2021); [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] |
 
 ---
 
@@ -181,7 +181,7 @@ updated: 2026-10-15
 > [!claim] Medina, J.
 > **[[Epistemic Friction\|认识论摩擦]]作为[[Surface and Deep Learning\|深层学习]]所必需的生产性张力** 高阶心智的发展高度依赖于主体在面对异质观点与复杂事实时所经历的“认识论摩擦”（Epistemic Friction）。生成式 AI 的平滑输出天然具有抹平认知阻力的危险；唯有当学习者维持高水平的认识论警觉、主动设置论证质疑与事实核查关卡时，这种生产性张力才能得以维系，从而迫使长时记忆图式深度参与高阶推理。[[Argument_Li_2026_CEAI\|(Medina, 2013; Li et al., 2026, p. 10)]]
 
-> [!claim] [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]]
+> [!claim] [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]]
 > **双重显性[[Epistemic Scaffolding\|认识论支架]]协同激活人机协同[[Scientific Explanation\|科学解释]]中的三维认识论警觉** 初中生在与生成式人工智能（GenAI）协同建构科学解释时，能够通过显性认识论支架激活并维系高水平的认识论警觉。认识论警觉具体展开为三类互补的评估实践：基于似真性、片面性与语境的内容评估（Content Evaluation）、基于专业性与[[Reliability\|可靠性]]的[[Source Evaluation\|信源评估]]（Source Evaluation），以及审视自身先验假设与理解状态的接收者评估（Receiver Evaluation）。其中，科学解释评价标准（相关性、因果叙事、概念框架、表征水平）直接赋能内容评估并间接辐射信源与自我反思；教师提供的[[Reflexivity\|反思性]]认识论提问提示语则显性驱动信源与接收者评估，两类支架协同确保学生始终占据核心认识主体地位，使 AI 成为提供认知线索与激发批判反思的“[[Epistemic Provocateur|认识论挑衅者]]”（Epistemic Provocateur）。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 2–6, 18–22)]]
 
 ---
@@ -192,7 +192,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **社会学对象建构命题** | 破除日常语言与常识概念（Doxa）的无反思套用，实现科学建构自主性 | 社会科学理论建构、教育行政与领导力研究、质性方法论反思 | Bourdieu et al. (1968/1991); [[Argument_Eacott_2015_EPT\|Eacott (2015)]] |
-> | **认知协同防护命题** | 克服算法顺滑表象引发的心智惰性，维持认识论摩擦与认知主体性 | 生成式 AI 辅助学习、人机协同探究、学术写作与事实查错 | Sperber et al. (2010); Medina (2013); [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] |
+> | **认知协同防护命题** | 克服算法顺滑表象引发的心智惰性，维持认识论摩擦与认知主体性 | 生成式 AI 辅助学习、人机协同探究、学术写作与事实查错 | Sperber et al. (2010); Medina (2013); [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] |
 
 ---
 
@@ -204,7 +204,7 @@ updated: 2026-10-15
 > - **2013 — [[Epistemic Friction\|认识论摩擦]]理论拓展** Medina 提出认识论摩擦概念，指出维持生产性的认知阻力与多元质疑是形成抵抗性认识论与深层审思的基石。
 > - **2015 — 教育行政学批判应用** [[Argument_Eacott_2015_EPT\|Eacott (2015)]] 将其引入教育行政与领导力研究，批判该领域对“领导力”、“管理主义”等日常概念的未经反思的顺从，主张以认识论警觉重塑科学研究的智识凝视。
 > - **2026 — 人工智能与教育学习重构** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] 针对 ChatGPT 在高等教育中的认知塑造，[[Systematic Review\|系统综述]] 67 项实证研究，将认识论警觉确立为学习者化解算法顺滑表象、防止有害[[Cognitive Offloading\|认知卸载]]并实现批判与创造协同增益的核心中介机制。
-> - **2026 — 科学教育与[[Man-Computer Symbiosis|人机协同]]解释实践** [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] 将认识论警觉框架落地于初中科学人机协同解释课堂，提出“内容—信源—接收者”三维评估模型，实证揭示显性学科标准与反思提示语双轨支架如何驱动学生对 AI 多模态生成物展开持续审问与迭代修正。
+> - **2026 — 科学教育与[[Man-Computer Symbiosis|人机协同]]解释实践** [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] 将认识论警觉框架落地于初中科学人机协同解释课堂，提出“内容—信源—接收者”三维评估模型，实证揭示显性学科标准与反思提示语双轨支架如何驱动学生对 AI 多模态生成物展开持续审问与迭代修正。
 
 ---
 
@@ -245,7 +245,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026, pp. 6–22)]] | 韩国 8 名初中生（4 对配对），两节科学人机协同解释课（植物[[Growth\|生长]]与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像[[Transcription in Qualitative Research\|转录]]、数字生成物、访谈） | [[Epistemology\|认识论]]警觉三维实践（内容、信源、接收者评估）与双轨支架效能 | 学生在显性标准与反思提示语下展现系统的三维警觉：对照教科书辨析模型遗漏机制，追问 AI 证据来源，并监控自身真实理解 | 质性微观互动分析，具有高度情境深度 | 证实中学生在显性[[Epistemic Scaffolding\|认识论支架]]辅助下完全具备对 [[Generative Artificial Intelligence\|GenAI]] 输出行使批判性审视与认知控制的能动性 |
+> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026, pp. 6–22)]] | 韩国 8 名初中生（4 对配对），两节科学人机协同解释课（植物[[Growth\|生长]]与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像[[Transcription in Qualitative Research\|转录]]、数字生成物、访谈） | [[Epistemology\|认识论]]警觉三维实践（内容、信源、接收者评估）与双轨支架效能 | 学生在显性标准与反思提示语下展现系统的三维警觉：对照教科书辨析模型遗漏机制，追问 AI 证据来源，并监控自身真实理解 | 质性微观互动分析，具有高度情境深度 | 证实中学生在显性[[Epistemic Scaffolding\|认识论支架]]辅助下完全具备对 [[Generative Artificial Intelligence\|GenAI]] 输出行使批判性审视与认知控制的能动性 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 6)]] | 全球 67 项高等教育实证研究（2022–2025） | [[PRISMA]] [[Systematic Review\|系统综述]]与主题综合（[[Mixed Methods Appraisal Tool\|MMAT]] 评估） | [[Critical Thinking\|批判性思维]]赋能机制：事实核查与查错机制主题 | 19 项实证研究明确报告显性查错与[[Epistemology\|认识论]]怀疑激发批判性思维增长 | 纳入文献 87% MMAT $\ge 80\%$ | 证实教学情境中认识论警觉训练能有效转化为分析性思维 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 7)]] | 全球 67 项高等教育实证研究（2022–2025） | PRISMA 系统综述与主题综合（MMAT 评估） | 批判性思维风险机制：过度依赖与心智怠惰主题 | 21 项实证研究报告缺乏警觉导致直接复制粘贴与[[Cognitive Offloading\|认知卸载]] | — | 揭示非结构化环境中认识论警觉缺失带来的普遍思维退化 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 11)]] (引述 Archila et al., 2024) | 大学本科生科学写作课程 | 教学干[[Pilot Testing\|预实验]]与文本分析 | 对抗性红队测试（Red-teaming）与[[AI Hallucination\|幻觉]]识别 | 学生在[[Reflexivity\|反思性]]核查任务中主动识别出 14 处模型虚构文献与事实幻觉 | — | 证明结构化查错规程能将认识论警觉转化为可测量的核验行为 |
@@ -256,6 +256,6 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 探究初中生在与[[Generative Artificial Intelligence\|生成式人工智能]]（Canva 和 ChatGPT）协同建构[[Scientific Explanation\|科学解释]]时如何践行[[Epistemology\|认识论]]警觉，证实学科解释标准与反思提示语双轨支架能有效激活内容、信源与接收者三维批判性审视。
+> - [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] — 探究初中生在与[[Generative Artificial Intelligence\|生成式人工智能]]（Canva 和 ChatGPT）协同建构[[Scientific Explanation\|科学解释]]时如何践行[[Epistemology\|认识论]]警觉，证实学科解释标准与反思提示语双轨支架能有效激活内容、信源与接收者三维批判性审视。
 > - [[Argument_Eacott_2015_EPT\|Eacott (2015)]] — 以 Bourdieu [[Epistemology\|认识论]]预备为框架，系统论证教育行政学者因具身嵌入性而对日常管理语言丧失警觉的危机，呼吁将对象建构过程本身作为反思客体。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]]生成式 AI 对大学生[[Higher-Order Thinking Skills\|高阶思维]]的塑造，实证确立认识论警觉与[[Epistemic Friction\|认识论摩擦]]在抵御算法顺滑表象、防止有害[[Cognitive Offloading\|认知卸载]]中的核心支架作用。

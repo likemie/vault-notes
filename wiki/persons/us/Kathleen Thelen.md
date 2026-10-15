@@ -215,6 +215,6 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁]]形态学，系统界定置换、层叠、漂移、转换与耗竭五大制度变迁机制。（pp. 18–31）
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁]]形态学，系统界定置换、层叠、漂移、转换与耗竭五大制度变迁机制。（pp. 18–31）
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 系统考证[[Institutional Layering|制度层叠]]六十年学术史，解构当代文献对希伦分层概念的改编走样，确立分层作为聚焦行动者与规制工具解释[[Variable|变量]]的理论潜能。
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，系统建构置换、层叠、漂移与转换四类演化模式及四类微观变革行动者类型学。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，系统建构置换、层叠、漂移与转换四类演化模式及四类微观变革行动者类型学。

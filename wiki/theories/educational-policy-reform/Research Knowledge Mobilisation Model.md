@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Research Knowledge Mobilisation Model
@@ -64,10 +64,10 @@ updated: 2026-10-15
 > - **解释对象** 教育领域中研究证据如何在大学、学校、智库、媒体与政策部门之间流动、转化、重组与扩散的多维系统机制。
 > - **理论问题** 破除将知识流动视为“大学单向生产后交付学校使用”的线性[[Technical Rationality\|技术理性]]迷思，解释为何[[Knowledge Mediation\|知识中介]]与使用情境往往比单纯的生产情境更为庞大，以及宏观社会制度如何时刻形塑着知识吸收。
 > - **理论类型** 系统论中层[[Analytic Framework\|分析框架]]（Systems-Based Analytical Model）、功能主义知识流动拓扑模型。
-> - **知识位置** 由加拿大著名教育政策学者 Ben Levin（2004, 2008, 2011, 2013）系统建构，是教育学界最早且最具国际影响力的[[Knowledge Mobilisation\|知识动员]]基础理论之一（被引近千次），在 Best & Holmes (2010) 与 [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 的代际谱系中被定位于从第二代关系模型向第三代系统模型跨越的核心标志。
+> - **知识位置** 由加拿大著名教育政策学者 Ben Levin（2004, 2008, 2011, 2013）系统建构，是教育学界最早且最具国际影响力的[[Knowledge Mobilisation\|知识动员]]基础理论之一（被引近千次），在 Best and Holmes (2010) 与 [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 的代际谱系中被定位于从第二代关系模型向第三代系统模型跨越的核心标志。
 
 > [!claim] 核心主张
-> 教育[[Research Impact\|研究影响力]]的实现绝非单一科研部门的自上而下输出，而是深嵌于**研究生产（Production）、[[Research Utilization\|研究使用]]（Use）与研究中介（Mediation）**三大功能情境的重叠交叉网络之中。这三大情境指涉的是系统“功能”而非僵化的“行政组织”，知识动员恰恰发生在不同功能相互渗透的交织地带；全系统整体浸润于变动不居的宏观社会与法制环境之中，多元行动者可在复合功能间动态跨界穿梭。
+> 教育[[Research Impact\|研究影响力]]的实现绝非单一科研部门的自上而下输出，而是深嵌于**研究生产（Production）、[[Research Utilization\|研究使用]]（Use）与研究中介（Mediation）** 三大功能情境的重叠交叉网络之中。这三大情境指涉的是系统“功能”而非僵化的“行政组织”，知识动员恰恰发生在不同功能相互渗透的交织地带；全系统整体浸润于变动不居的宏观社会与法制环境之中，多元行动者可在复合功能间动态跨界穿梭。
 
 > [!citation-card] Levin 论知识动员的三重叠合情境与功能本质
 > 知识动员发生在两个或多个情境相互作用的地方。这些情境指的未必是刚性的组织结构，而是指功能。模型承认某些人群和组织可以同时在不止一个情境中运转，这正是图示中三角形相互重叠的原因。各情境之间存在着广泛的组织与个人联结，由不同粗细的双向箭头表征，指示着这些关系的强度与频次。[[Argument_Torres_2022_KMModels\|Torres, 2022b, pp. 40–41; Levin, 2013, p. 11]]
@@ -185,5 +185,5 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 系统评述 Levin RKM 模型，将其与 Lavis、Graham、Gough 横向比照，确立其在功能重叠与系统思维上的突破贡献。
 > - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — [[OECD\|经合组织]]编著第五章，征引 Levin 理论将动员机制与障壁比率[[Operationalization\|操作化]]为评估系统优先级的实证诊断工具，并基于跨国数据深化五阶段利用阶梯的评估分析。
-> - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 在全系统[[Knowledge Mobilisation\|知识动员]]战略中征引并深化 Levin 的重叠网络思想，推动全系统能力建设。
+> - [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] — 在全系统[[Knowledge Mobilisation\|知识动员]]战略中征引并深化 Levin 的重叠网络思想，推动全系统能力建设。
 

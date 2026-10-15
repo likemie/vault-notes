@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Piaget's Theory of Cognitive Development
@@ -240,7 +240,7 @@ updated: 2026-10-15
 > > - **领域特定立场** 新皮亚杰学者与模块论者（如 Flavell, 1982; Case, 1992）指出，儿童在数理、语言与空间维度的发展极不均衡，存在广泛的水平差异（Horizontal Decalage）。
 
 > [!critique]- 批评索引
-> - **任务[[Working Memory\|工作记忆]]负荷混淆** Bryant & Trabasso（1971）指出，传统皮亚杰任务失败常由前提记忆负担过重引起，强化记忆训练后年幼儿童亦能完成逻辑运算。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, p. 3)]]
+> - **任务[[Working Memory\|工作记忆]]负荷混淆** Bryant and Trabasso（1971）指出，传统皮亚杰任务失败常由前提记忆负担过重引起，强化记忆训练后年幼儿童亦能完成逻辑运算。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, p. 3)]]
 > - **文化与生态背景忽略** 跨文化心理学研究（Dasen & Heron, 1981; Mishra, 1997）证实生态环境对守恒能力发展节点的深刻塑造，否定了纯生物[[Determinism\|决定论]]。
 > - **学校教育导致形式运算推迟** 现代学校若过度偏向[[Rote Learning\|死记硬背]]而缺乏[[Higher-Order Thinking Skills\|高阶思维]]训练，会导致形式运算达成年龄推迟至 15 岁以后。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, p. 20)]]
 
@@ -249,5 +249,5 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie (2017)]] [[Systematic Review\|系统综述]]并对齐了[[Jean Piaget\|皮亚杰]]认知发展四阶段与[[Prefrontal Cortex\|前额叶皮层]]（PFC）解剖发育及[[Executive Function\|执行功能]]（EF）成熟轨迹，确立了阶段跃迁的脑神经与认知控制基础。
+> - [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] [[Systematic Review\|系统综述]]并对齐了[[Jean Piaget\|皮亚杰]]认知发展四阶段与[[Prefrontal Cortex\|前额叶皮层]]（PFC）解剖发育及[[Executive Function\|执行功能]]（EF）成熟轨迹，确立了阶段跃迁的脑神经与认知控制基础。
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] 在 AI [[AI Agent in Education\|智能体]]促进 K-12 认知表现的[[Meta-analysis\|元分析]]中，依托皮亚杰从具体运算向形式运算过渡的发展理论，解释了高小学段（4–6 年级）干预效应最为强劲（$g = 0.877, p < .001$）的情境调节机制。

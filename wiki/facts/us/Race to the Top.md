@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Race to the Top
@@ -169,4 +169,4 @@ updated: 2026-10-15
 > | [[National Education Association]] | Fact (Organization) | 对 RTTT 中将统考成绩强行挂钩教师人事任免条款发起长期抗争的全美最大教师工会。 |
 > | [[Catalytic Philanthropy]] | Concept | [[Bill & Melinda Gates Foundation\|盖茨基金会]]依托数千万美元资助各州撰写 RTTT 申请方案，形成慈善资本撬动数十亿国库资金的典型案例。 |
 > | [[Gatekeepers]] | Concept | 展现各州教育委员会与立法把关人在面临联邦数亿美元财政激励时的决策权衡与审查责任让渡。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | Argument | 深入剖析 RTTT 43.5 亿美元资金如何作为外生制度杠杆将各州采纳窗口急剧压缩至数月的核心文献。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | Argument | 深入剖析 RTTT 43.5 亿美元资金如何作为外生制度杠杆将各州采纳窗口急剧压缩至数月的核心文献。 |

@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # CNCS Evidence Exchange
@@ -57,7 +57,7 @@ updated: 2026-10-15
 > [!info] 机构定位与运营概况
 > **国家与社区服务公司证据交流中心（Corporation for National and Community Service Evidence Exchange, CNCS EE，现更名为 AmeriCorps Evidence Exchange）** 是由美国联邦独立机构国家与社区服务公司（AmeriCorps）设立的官方公共证据清算平台([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 7]])。
 >
-> CNCS EE 覆盖国民志愿服务、经济福利、基础教育辅导、青少年行为发展及退伍军人服务等领域。当前处于**活跃运营（Active）**状态，官方平台为 [americorps.gov/evidence-exchange](https://americorps.gov/about/our-impact/evidence-exchange)，持续作为联邦资助拨款中评估项目证据力度的法定依据。
+> CNCS EE 覆盖国民志愿服务、经济福利、基础教育辅导、青少年行为发展及退伍军人服务等领域。当前处于**活跃运营（Active）** 状态，官方平台为 [americorps.gov/evidence-exchange](https://americorps.gov/about/our-impact/evidence-exchange)，持续作为联邦资助拨款中评估项目证据力度的法定依据。
 
 ---
 

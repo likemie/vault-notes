@@ -111,7 +111,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Causality
@@ -123,7 +123,7 @@ updated: 2026-10-15
 > [!def] 核心定义
 > **因果关系（Causality / Causal Inference）** 指实证研究中通过严密的研究设计与统计分析，确立原因 $X$ 导致结果 $Y$ 发生的推理过程([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 56]])。在科学研究中，建立有效因果推断必须同时满足三大基石要件：(1) **统计关联性（[[Variable\|变量]]间存在稳定的协变证据）**；(2) **时间先后序**（原因在时间上严格先于结果发生）；(3) **排除替代解释**（系统排除潜在混杂变量与虚假关联）([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp. 56–57]])。
 >
-> 在社会科学与教育研究中，因果关系通常体现为**[[Probabilistic Causation\|概率因果性]]（即[[Independent Variable\|自变量]] $X$ 提高了[[Dependent Variable\|因变量]] $Y$ 发生的概率）**，其经验识别的底层逻辑依赖于**[[Counterfactual\|反事实]]比较（Counterfactual Comparison）**——即对比干预实际发生的世界与假设该干预未发生的反事实世界之间的状态差异([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, pp. 54–59]])。
+> 在社会科学与教育研究中，因果关系通常体现为 **[[Probabilistic Causation\|概率因果性]]（即[[Independent Variable\|自变量]] $X$ 提高了[[Dependent Variable\|因变量]] $Y$ 发生的概率）**，其经验识别的底层逻辑依赖于 **[[Counterfactual\|反事实]]比较（Counterfactual Comparison）**——即对比干预实际发生的世界与假设该干预未发生的反事实世界之间的状态差异([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, pp. 54–59]])。
 
 > [!concept-lens] 概念透镜
 > - **含义** 因果推断追问并回答“什么有效（What Works）”、“对谁有效（For Whom）”、“在什么情境下有效（Under What Conditions）”以及“通过何种机制产生效果（How/Why）”。
@@ -153,7 +153,7 @@ updated: 2026-10-15
 > | 比较维度 | [[Determinism\|决定论]]因果 (Deterministic) | 概率因果 (Probabilistic) | [[Counterfactual\|反事实]]潜在结果模型 (Counterfactual) | 机制生成论因果 (Generative) |
 > |:---|:---|:---|:---|:---|
 > | **核心本体主张** | 若 $X$ 发生，则 $Y$ 必然发生（$100\%$ 必然性） | $X$ 的出现系统性提高 $Y$ 发生的概率 | 因果效应为个体接受处理与未接受处理的潜在结果之差 | 因果是行动者在特定情境脉络下通过能动性转化的动态过程 |
-> | **代表传统与学者** | 经典物理学、休谟恒常联结 | Suppes (1970), Mellor (1995) | Neyman (1923), Rubin (1974), Holland (1986) | Salmon (1998), Pawson & Tilley (1997), Morrison (2009) |
+> | **代表传统与学者** | 经典物理学、休谟恒常联结 | Suppes (1970), Mellor (1995) | Neyman (1923), Rubin (1974), Holland (1986) | Salmon (1998), Pawson and Tilley (1997), Morrison (2009) |
 > | **核心推断挑战** | 无法容纳社会系统的随机扰动与复杂互动 | 统计关联可能受隐性混杂[[Variable\|变量]]污染 | 因果推断基本问题（单一个体反事实不可直接观测） | 质性叙事的[[Multiplicity\|多重性]]（[[Rashomon Effect\|罗生门效应]]）与主观意图黑箱 |
 > | **主要应对方法** | 封闭实验室极限控制 | [[Multiple Regression\|多元回归]]、倾向得分匹配（PSM） | [[Randomised Controlled Trials\|随机对照试验]]（RCT）、工具变量（IV）、断点回归（RDD） | 质性过程追踪、[[Realist Evaluation\|现实主义评估]]、[[Action Narratives\|行动叙事]] |
 
@@ -219,7 +219,7 @@ updated: 2026-10-15
 > 单纯断言“X 导致 Y”在社会复杂系统中往往是不充分的，因果效力高度依赖必要与[[Necessary and Sufficient Conditions\|充分条件]]的特定组合。
 
 > [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]]
-> **复合原因与[[Causal Over-determination\|因果过度决定]]** 单一原因很少能够单独产生社会效应。原因通常需要组合在一起形成**复合原因（Compound Causes）**并发生交互作用（Interaction Effects）。在因果过度决定（Causal Over-determination）情境下，多个原因中每一个都可能单独产生效果，研究者必须通过[[Factorial Design\|析因设计]]与机制追踪防范过度简化的单一归因。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, pp. 56–57, 63–64)]]
+> **复合原因与[[Causal Over-determination\|因果过度决定]]** 单一原因很少能够单独产生社会效应。原因通常需要组合在一起形成**复合原因（Compound Causes）** 并发生交互作用（Interaction Effects）。在因果过度决定（Causal Over-determination）情境下，多个原因中每一个都可能单独产生效果，研究者必须通过[[Factorial Design\|析因设计]]与机制追踪防范过度简化的单一归因。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, pp. 56–57, 63–64)]]
 
 ---
 
@@ -228,7 +228,7 @@ updated: 2026-10-15
 > [!concept-lens] 两种因果研究策略
 > 量化实验回答“原因之效果”，质性[[Process Tracing|过程追踪]]回答“效果之原因”。
 
-> [!claim] [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]]
+> [!claim] [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]]
 > **前向操纵与后向追溯的互补性** 量化实验通过前向施加干预来估计原因的平均效果大小；[[Qualitative Research\|质性研究]]（[[Ethnography\|民族志]]、[[Action Narratives\|行动叙事]]）则通过后向追溯深入行动者头脑，揭示因果链条中的动机、理解与情境互动机制。两者的结合能同时回答因果关系的“发生与否（Whether）”与“如何发生（How）”。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, pp. 56–58)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, pp. 74–92)]]
 
 ---
@@ -239,7 +239,7 @@ updated: 2026-10-15
 > 从微观单项实验的因果识别到宏观政策采纳，必须跨越证据综合与[[Construct Validity\|构念效度]]的双重门槛。
 
 > [!claim] [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]]; [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]]
-> **因果有效性的综合门槛割裂** [[Internal Validity\|内部效度]]达标是因果推断成立的必要条件，但并非宏观认证的充分条件。Wadhwa 等人揭示，由于不同清算机构在**[[Evaluator Independence\|独立评估者]]复制**、**12 个月[[Fade-out Effect\|持续效果]]**及**[[Iatrogenic Effects in Education\|医源性伤害]]排除**等综合门槛上的分歧，单项高质量 [[Randomised Controlled Trials\|RCT]] 的因果结论在跨机构综合评级中表现出高达 35.4% 的极端冲突，要求政策制定者穿透评级标签审视底层因果证据。[[Argument_Hitchcock_2015_JBE\|(Hitchcock et al., 2015, pp. 461–462)]]; [[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 4, 26)]]
+> **因果有效性的综合门槛割裂** [[Internal Validity\|内部效度]]达标是因果推断成立的必要条件，但并非宏观认证的充分条件。Wadhwa 等人揭示，由于不同清算机构在 **[[Evaluator Independence\|独立评估者]]复制**、**12 个月[[Fade-out Effect\|持续效果]]** 及 **[[Iatrogenic Effects in Education\|医源性伤害]]排除**等综合门槛上的分歧，单项高质量 [[Randomised Controlled Trials\|RCT]] 的因果结论在跨机构综合评级中表现出高达 35.4% 的极端冲突，要求政策制定者穿透评级标签审视底层因果证据。[[Argument_Hitchcock_2015_JBE\|(Hitchcock et al., 2015, pp. 461–462)]]; [[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 4, 26)]]
 
 ---
 
@@ -251,7 +251,7 @@ updated: 2026-10-15
 > [!claim] Holmes (1965); Popper (1959)
 > **假说演绎法与条件因果模型（$L + I = P$）** 霍姆斯在比较教育“[[Problem Approach|问题法]]（[[Problem Approach]]）”中引入波普尔的批判理性主义，坚决抛弃古典前相对论力学的机械[[Determinism|决定论]]与历史主义因果宿命论。霍姆斯论证指出，因果推断必须依赖特定初始条件：全称假说法则 $L$ 与特定情境下的初始条件 $I$ 共同演绎出可[[Falsification|证伪]]的预测 $P$。若抽离具体的制度生态与文化传统，任何因果主张均无法在不同国家体系间自动复制或成立。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, p. 150)]]
 
-> [!claim] Barber (1972); Noah & Eckstein (1969)
+> [!claim] Barber (1972); Noah and Eckstein (1969)
 > **方法论主义因果化及其认识论反思** 20 世纪 60 至 70 年代，以[[Harold Noah|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein|马克斯·埃克斯坦]]（Max Eckstein）为代表的实证学派试图通过以“[[Variable|变量]]”替代“国别”来识别跨国恒定因果规律。然而埃利诺·巴伯（Elinor Barber）等学者敏锐指出，将因果推断窄化为统计相关与[[Multiple Regression|多元回归]]技术的“方法论主义（[[Empiricism|Methodologism]]）”，切断了因果链条所深嵌的历史厚度、制度网络与社会伦理目的，容易将技术拟合错当为真实因果机制。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 147–149)]]
 
 ---
@@ -263,7 +263,7 @@ updated: 2026-10-15
 > |:---|:---|:---|:---|
 > | **反事实基准命题** | 因果效应本质是潜在结果差，依赖构建反事实控制组 | RCT、[[Quasi-Experimental Designs\|QED]]、RDD 因果评估 | Holland (1986); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]] |
 > | **概率复合因果命题** | 社会因果呈现概率性，依赖复合条件与交互作用 | 复杂干预评估、析因实验设计 | Mellor (1995); 复合因果研究组 |
-> | **双向互补推断命题** | 前向实验（测效果）与后向追溯（明机制）深度融合 | [[Mixed Methods Research\|混合方法研究]]、[[Realist Evaluation\|现实主义评估]] | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]]; Morrison (2009) |
+> | **双向互补推断命题** | 前向实验（测效果）与后向追溯（明机制）深度融合 | [[Mixed Methods Research\|混合方法研究]]、[[Realist Evaluation\|现实主义评估]] | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]]; Morrison (2009) |
 > | **效能综合门槛命题** | 单项因果识别不等于跨平台稳健，需经受复制门槛检验 | 循证清算中心、政策认证决策 | [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]]; [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] |
 > | **脉络条件因果命题** | 跨国因果推断受制于初始条件（$L + I = P$），警惕方法论主义去脉络化 | 比较教育[[Policy Borrowing\|政策借用]]、跨国因果迁移与制度改革 | Holmes (1965); Barber (1972); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] |
 
@@ -340,8 +340,8 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen, Manion, & Morrison (2011)]] — 系统构建教育研究因果推断全景，详述概率因果、[[Counterfactual\|反事实]]、[[Screening Off\|筛选隔离]]、[[Causal Over-determination\|因果过度决定]]及真实验前[[Pre-test and Post-test\|后测]][[Difference-in-Differences\|双重差分]]效应模型（Ch. 4 / Ch. 16）。
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 明确量化因果推断三要件（关联证据、时间顺序、排除替代解释）及[[Causal Modeling\|因果建模]]路径。
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 明确量化因果推断三要件（关联证据、时间顺序、排除替代解释）及[[Causal Modeling\|因果建模]]路径。
 > - [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] — 论证单一被试实验（[[Single-Case Design\|SCD]]）与组间实验的因果推断同构性及[[Internal Validity\|内部效度]]门控机制。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]] — 建立清算中心 0–3 级因果识别设计分级标准，揭示微观因果证据向宏观政策转译时的综合门槛割裂。
-> - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart & Towne (2003)]] — 系统考据美国国家立法对“因果关系主张合法性边界”的界定流变，揭示从 [[No Child Left Behind Act 2001|NCLB]] 强制偏向随机对照到 [[Education Sciences Reform Act 2002|ESRA]] 确立“在实质上排除竞争性解释即可推断因果”的法理演进（pp. 33–35）。
+> - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] — 系统考据美国国家立法对“因果关系主张合法性边界”的界定流变，揭示从 [[No Child Left Behind Act 2001|NCLB]] 强制偏向随机对照到 [[Education Sciences Reform Act 2002|ESRA]] 确立“在实质上排除竞争性解释即可推断因果”的法理演进（pp. 33–35）。
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 系统梳理比较[[Epistemology|认识论]]中因果观念的代际演进，深入剖析[[Positivism|实证主义]]跨国因果律追求、波普尔-霍姆斯基于初始条件的假说演绎条件因果模型（$L + I = P$），以及对方法论主义因果盲区的反思（pp. 146–150）。

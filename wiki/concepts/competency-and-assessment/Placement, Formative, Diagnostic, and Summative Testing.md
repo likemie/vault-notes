@@ -32,7 +32,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Placement, Formative, Diagnostic, and Summative Testing
@@ -81,7 +81,7 @@ updated: 2026-09-17
 > [!concept-lens] 起点测量与增值评估
 > 只有知道学生的起点能力和成就，才能判断一段教育经历在多大程度上增加了学生的价值。安置性测验等价于基线评估——没有起点数据，增值无从谈起。
 
-> [!claim] Gronlund & Linn（1990）
+> [!claim] Gronlund and Linn（1990）
 > **安置测验即基线评估** 安置性测验是测量教学增值成分的必要前提。如果目的是将学生分配到不同教学组，测验可以是常模或[[Criterion-Referenced Test\|标准参照]]；如果目的是详细测量起点知识、能力和技能，则必须更偏向标准参照以获得所需的细节水平。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|(Ch24, 24.5 节)]]
 
 ### 命题二　诊断性测验的有效性取决于对同一特征的多题目覆盖
@@ -89,7 +89,7 @@ updated: 2026-09-17
 > [!concept-lens] 多题目覆盖的逻辑
 > 诊断性测验与形成性测验的关键区别不在于内容，而在于题目设计策略——它故意对同一特征设置多道题目，以区分不同类型的困难。
 
-> [!claim] Gronlund & Linn（1990）
+> [!claim] Gronlund and Linn（1990）
 > **多题目暴露多种困难** 诊断性测验要求对同一特征包含多道题目，使多种类型的困难都能暴露出来。例如学生在减法上的困难可能是不理解借位、不理解位值或不理解减法本身的概念，只有一道题目无法区分这些不同的困难来源。诊断性测验需要构建聚焦于学生可能经历的每一种非常具体困难的题目，从一系列可能问题中识别确切问题。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|(Ch24, 24.5 节)]]
 
 ---

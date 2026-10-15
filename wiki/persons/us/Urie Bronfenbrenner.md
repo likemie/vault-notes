@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Urie Bronfenbrenner
@@ -103,7 +103,7 @@ updated: 2026-10-15
 > [!influence-path] 影响路径
 > - **理论[[Paradigm\|范式]]转型** 彻底扭转了 20 世纪下半叶心理学与教育学的“唯实验室论”，催生了[[Situative Perspective\|情境认知]]、社会文化学派与全纳教育生态模型的蓬勃发展，成为全球儿童早期发展领域的通用母语。
 > - **公共政策与干预工程** 布朗芬布伦纳亲手擘画的“开端计划”成为美国历史上持续时间最长、惠及数千万贫困家庭的最成功联邦早期教育工程，为全球“补偿教育”与综合儿童关怀树立了政策范式。
-> - **公共政策时间生态学拓展** 其关于**历时系统（Chronosystem）**的理论创见，在 21 世纪被跨学科引渡至宏观[[Policy Science in Comparative Education\|政策科学]]。在 [[Argument_Serpell_2020_EP\|Serpell (2020)]] 的论述中，该概念成功破译了教育立法体系受突发危机事件支配的时间律动，为教育研究者导航政治生态提供了全新的时空坐标系。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 42)]]
+> - **公共政策时间生态学拓展** 其关于**历时系统（Chronosystem）** 的理论创见，在 21 世纪被跨学科引渡至宏观[[Policy Science in Comparative Education\|政策科学]]。在 [[Argument_Serpell_2020_EP\|Serpell (2020)]] 的论述中，该概念成功破译了教育立法体系受突发危机事件支配的时间律动，为教育研究者导航政治生态提供了全新的时空坐标系。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 42)]]
 
 ---
 

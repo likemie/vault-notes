@@ -59,7 +59,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Curiosity-Driven Research
@@ -69,7 +69,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **自由探索型研究（Curiosity-Driven Research，亦称好奇心驱动研究、纯基础研究或[[Blue Skies Research|蓝天研究]]）**是指完全由科研人员个体的学术好奇心、对自然规律未知领域的求知欲以及对科学真理的内在追求所主导的科学[[Paradigm|研究范式]]。其核心特征在于不以预设的即时工业应用、商业回报或特定任务为导向，强调研究者在选题、假说构筑与实验路径上的高度学术自治，依赖国家提供长周期、容忍失败的信任型财政托底。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1056, 1058, 1064)]]; [[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–38)]]
+> **自由探索型研究（Curiosity-Driven Research，亦称好奇心驱动研究、纯基础研究或[[Blue Skies Research|蓝天研究]]）** 是指完全由科研人员个体的学术好奇心、对自然规律未知领域的求知欲以及对科学真理的内在追求所主导的科学[[Paradigm|研究范式]]。其核心特征在于不以预设的即时工业应用、商业回报或特定任务为导向，强调研究者在选题、假说构筑与实验路径上的高度学术自治，依赖国家提供长周期、容忍失败的信任型财政托底。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1056, 1058, 1064)]]; [[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–38)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种“由内而外”展开的认知活动，以拓展人类对宇宙、生命与物质基本法则的认识边界为唯一宗旨，拒绝将科研异化为线性指标交付。
@@ -129,7 +129,7 @@ updated: 2026-10-15
 > [!concept-lens] 颠覆性创新源头与布什[[Paradigm|范式]]
 > 探讨为何缺乏即时实用目的的自由探索，反而是维系国家长期技术突破与不可替代性的战略基石。
 
-> [!claim] [[Argument_Fan_2026_BCAS|樊春良 (2026)]]; [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied (2008)]]
+> [!claim] [[Argument_Fan_2026_BCAS|樊春良 (2026)]]; [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]]
 > **[[Science, The Endless Frontier 1945|布什报告]]的认知逻辑** [[Vannevar Bush|万尼瓦尔·布什]]在《科学——无止境的边疆》中深刻论证：基础研究是所有应用与技术进步的发源地；自由探索虽然无法预先预测具体成果的转化时间与形态，但持续产生的新知识终将以不可预测的方式转化为国家安全、国民健康与普遍社会福祉的坚实基础。
 
 ---
@@ -223,6 +223,6 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 深度追踪自由探索型研究从二战后享受国家安全庇护的“高自治—高嵌入”中心地位，到当代因行政问责与技术型契约冲击而退化为分散、边缘形态的制度变迁全过程。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 阐述全美微电子战略第一支柱“激发前沿发现（Goal 1）”中，基础自由探索与应用启发计划（FuSe）、多维[[Co-Design|协同设计]]（Co-Design）及中试转化的互动演进机制。
-> - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied (2008)]] — 系统梳理战后 [[National Science Foundation|NSF]] 资助自由探索研究的制度博弈、同行评议标准演进与[[University-Industry Collaboration|产学合作]]中心转型。
+> - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 系统梳理战后 [[National Science Foundation|NSF]] 资助自由探索研究的制度博弈、同行评议标准演进与[[University-Industry Collaboration|产学合作]]中心转型。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，剖析基础科学资助体系面临的行政文书负担与同行评议保守性危机。
 

@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-31'
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Random Assignment
@@ -154,7 +154,7 @@ updated: 2026-10-07
 > | **保障的效度** | [[Internal Validity\|内部效度]]（Internal Validity） | [[External Validity\|外部效度]]（External Validity） | 有限的内部效度（受遗漏变量威胁） |
 > | **操作时机** | 样本选定后分派至实验条件时 | 从[[Study Population and Sample\|目标总体]]中抽取受试样本时 | 非随机样本选定后进行配对控制 |
 > | **等价性范围** | **全部变量**（已知与未知、已测与未测） | 样本与总体在关键特征上的同构 | 仅限于**少数显性命名变量** |
-> | **来源** | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] | 抽样统计学标准规范 | Smith (1991); Rosenbaum & Rubin (1983) |
+> | **来源** | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] | 抽样统计学标准规范 | Smith (1991); Rosenbaum and Rubin (1983) |
 
 ---
 
@@ -196,6 +196,6 @@ updated: 2026-10-07
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 研究索引
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 系统阐述在混合实验设计中使用随机数生成器进行真实验随机分配的标准操作规程。
+> - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 系统阐述在混合实验设计中使用随机数生成器进行真实验随机分配的标准操作规程。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 对 [[Education Endowment Foundation|EEF]] Fresh Start 实验报告进行深度方法学解构，提供“随机分配失衡导致[[Effect Size|效应量]]虚假膨胀”的经典批判案例。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统评述[[United Kingdom Metascience Unit|英国元科学单元]]（UK [[Metascience]] Unit）将部分随机分配（Partial Randomization / Lotteries）应用于政府科研基金资助的[[Mechanism Experiments|机制实验]]，推动因果实验向科学治理自身的延伸。

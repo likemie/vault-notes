@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Baseline Standardized Mean Difference
@@ -218,4 +218,4 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] — 首次在高等教育生成式 AI [[Meta-analysis\|元分析]]中严格引入 $d < 0.25$ 基线等效门槛，实证证实该标准成功消除了准实验与[[Randomised Controlled Trials\|随机对照试验]]之间的系统性效应差异（$Q_B = 0.407, p = 0.523$），消解了过度乐观的效应膨胀。
+> - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — 首次在高等教育生成式 AI [[Meta-analysis\|元分析]]中严格引入 $d < 0.25$ 基线等效门槛，实证证实该标准成功消除了准实验与[[Randomised Controlled Trials\|随机对照试验]]之间的系统性效应差异（$Q_B = 0.407, p = 0.523$），消解了过度乐观的效应膨胀。

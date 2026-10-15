@@ -35,7 +35,7 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-05-19
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Societies of Control
@@ -56,7 +56,7 @@ updated: 2026-10-15
 
 ### 调制取代模具
 
-Deleuze 用**模具（mold）**和**调制（modulation）**的隐喻来区分两种权力运作方式(Deleuze, 1992, p.4; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.222]])：
+Deleuze 用**模具（mold）** 和**调制（modulation）** 的隐喻来区分两种权力运作方式(Deleuze, 1992, p.4; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.222]])：
 
 - **[[Disciplina and Doctrina|规训]]社会 = 模具** 每一次进入一个机构（学校→工厂→军营）都是一次成型——你被塑造成特定的形态，然后在毕业或退役时被释放
 - **控制社会 = 调制** 像一种永远在变化的铸模，参数持续调整——你从未被释放，只是从一个调制进入另一个调制
@@ -92,7 +92,7 @@ Thompson 等人（2022, p.222）引入 Bächle（2016, p.164）的解读，将 D
 
 > [!warning]
 
-- **总括性概念的局限**Thompson 等人（2022, p.222）明确表示对 Deleuze 将一切归结为**企业（corporation）**的总括性概念持怀疑态度，认为变形（deformation）和调制（modulation）这两个概念比企业这一总体框架更有分析价值
+- **总括性概念的局限**Thompson 等人（2022, p.222）明确表示对 Deleuze 将一切归结为**企业（corporation）** 的总括性概念持怀疑态度，认为变形（deformation）和调制（modulation）这两个概念比企业这一总体框架更有分析价值
 - **来源局限**本条目的写作基于 Thompson 等人（2022）对 Deleuze 的二手解读和应用，未直接阅读 Deleuze（1992）原文。confidence 设为 low，待直接从主文献补充
 
 ## 相关研究

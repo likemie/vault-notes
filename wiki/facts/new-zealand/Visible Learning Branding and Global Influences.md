@@ -88,7 +88,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Visible Learning Branding and Global Influences
@@ -215,5 +215,5 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > | [[Russian Translation of Visible Learning]] | Fact (Event) | 记录 VL 俄文版翻译出版及俄[[Nikolas Rose\|罗斯]]学界关于跨文化适用性与方法论的学术争论。 |
 > | [[Critiques of Visible Learning]] | Concept | 汇总学界对 VL 统计方法、[[Neo-Taylorism\|新泰勒主义]]与商业化利益冲突的系统性学术批判入口。 |
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | Argument | 详尽调查揭露 Hattie、奥克兰大学与 Cognition 之间商业化利益网络与财务轨迹的权威报告。 |
-> | [[Argument_Johnson_2023_CE\|Johnson & Janzen (2023)]] | Argument | 从新自由主义[[Global Education Reform Movement\|全球教育改革运动]]（GERM）视角深度批判 VL 商业化与利益冲突的代表性论文。 |
+> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | Argument | 从新自由主义[[Global Education Reform Movement\|全球教育改革运动]]（GERM）视角深度批判 VL 商业化与利益冲突的代表性论文。 |
 > | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] | Argument | 针对 Meta-X 数据库开展实证评测、揭示早期历史人工录入局限并确立人机验证[[Paradigm\|范式]]的最新研究。 |

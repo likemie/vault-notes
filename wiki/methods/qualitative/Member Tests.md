@@ -26,7 +26,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Member Tests
 
@@ -87,4 +87,4 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — Kitwood（1977）将成员核验作为陈述分析的两项安全措施之一；Blease & Cohen（1990）展示了成员核验的具体操作：将访谈数据的解释带回参与教师征求意见，以及与学生讨论自我概念量表得分。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — Kitwood（1977）将成员核验作为陈述分析的两项安全措施之一；Blease and Cohen（1990）展示了成员核验的具体操作：将访谈数据的解释带回参与教师征求意见，以及与学生讨论自我概念量表得分。

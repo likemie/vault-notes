@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Total War
@@ -178,7 +178,7 @@ updated: 2026-10-08
 > > [!axis] 民主社会的道德约束 vs 威权对手总体战潜能的非对称博弈
 > > 民主社会受到民意、法律与人权伦理的严格制约，无法采取无底线总体战手段；而威权政体更易于实现举国动员。
 > >
-> > - **[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]** 民主政体唯有在算法精度与自主软件技术上建立压倒性代差优势，方能在恪守伦理底线的同时确立有效威慑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(pp. 45–46)]]
+> > - **[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]** 民主政体唯有在算法精度与自主软件技术上建立压倒性代差优势，方能在恪守伦理底线的同时确立有效威慑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(pp. 45–46)]]
 
 ---
 
@@ -194,7 +194,7 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]：
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]：
 >   - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|第 4 章]]（pp. 38–41）：深入剖析[[Erich Ludendorff|鲁登道夫]]总体战逻辑、B-29 火攻及核均势对维系[[Long Peace|长和平]]的威慑机理。
 
 ---

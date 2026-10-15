@@ -14,7 +14,7 @@ related_color: "#99f6e4"
 confidence: high
 status: active
 created: '2026-05-25'
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - region/china
   - theme/national-identity
@@ -142,7 +142,7 @@ related_arguments:
 > [!concept-lens] [[Official Knowledge\|官方知识]]垄断与边缘主体回应
 > 探讨 217 册必修教材如何将“中华民族”凝聚为国家[[Official Knowledge\|官方知识]]，以及这一单向度叙事在少数民族学生中引起的[[Symbolic Boundary\|符号边界]]与脱嵌感。
 
-> [!claim] [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]]
+> [!claim] [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]]
 > **官方教科书中的汉儒中心叙事与边缘反思** 2001 课程改革以来出版的 217 册必修教材将“中华民族”叙事高度聚焦于汉族儒家英雄英雄画廊（如[[Confucius\|孔子]]、[[Mencius\|孟子]]）与非汉政权（如北魏孝文帝、清朝康熙帝）尊崇汉儒的汉化过程，将中华民族大一统包装为不可逆转的历史规律。这一[[Official Knowledge\|官方知识]]塑造虽然强化了国族同一性，但因缺乏对少数民族主体的实质代表性，导致少数民族与信教学生产生深刻的[[Cultural Disembedding\|文化脱嵌]]感与[[Reflexivity\|反思性]]疏离[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 65–71)]]。
 
 ---
@@ -154,7 +154,7 @@ related_arguments:
 > |:---|:---|:---|:---|
 > | **国族建构与同化转向** | 评估“中华民族”话语对多民族宪制向单一国族转型的推动 | 民族政策研究、国家同化机制分析 | [[Argument_Bulag_2024_CE\|Bulag (2024)]] |
 > | **历史教育与国家叙事** | 比较领土型与族裔文化型“中华民族”叙事在教科书中的对立 | 比较教科书研究、[[One Country, Two Systems\|一国两制]]认同分析 | [[Argument_Xu_2024_CE\|Xu (2024)]] |
-> | **官方知识与符号边界** | 揭示 217 册教材汉儒正统构建与少数民族学生的反思性隔阂 | 课程[[Discourse Analysis\|话语分析]]、边缘群体主观认同研究 | [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] |
+> | **官方知识与符号边界** | 揭示 217 册教材汉儒正统构建与少数民族学生的反思性隔阂 | 课程[[Discourse Analysis\|话语分析]]、边缘群体主观认同研究 | [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] |
 
 ---
 
@@ -186,7 +186,7 @@ related_arguments:
 
 > [!critique]- 外部批评
 > - **剥夺少数民族主体性能动性** — [[Argument_Bulag_2024_CE\|Bulag (2024)]] 指出，中华民族多元一体论述滥用[[Structural Functionalism|结构功能主义]]，将历史上血腥的侵略与同化包装为“不自觉的整合”，剥夺了少数民族定义中国的主体性能动性[[Argument_Bulag_2024_CE\|(Bulag, 2024, pp. 104–105)]]。
-> - **教材汉儒正统化引发的符号隔阂** — [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] 指出，基于该概念构建的官方教材高度强调汉儒传统，导致少数民族与信教学生产生[[Cultural Disembedding\|文化脱嵌]]与[[Reflexivity\|反思性]]疏离[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
+> - **教材汉儒正统化引发的符号隔阂** — [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 指出，基于该概念构建的官方教材高度强调汉儒传统，导致少数民族与信教学生产生[[Cultural Disembedding\|文化脱嵌]]与[[Reflexivity\|反思性]]疏离[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
 
 > [!warning] 适用局限
 > 中华民族概念属于特定的政治与文化建构产物，不适合作为放之四海而皆准的普适性民族学分类工具[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 101)]]。
@@ -198,7 +198,7 @@ related_arguments:
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Bulag_2024_CE\|Bulag (2024)]] — 探究了中华民族复兴[[Retrotopia\|怀旧乌托邦]]在内蒙古语言改革与民族同化政策中的实践。
 > - [[Argument_Xu_2024_CE\|Xu (2024)]] — 对中国历史教科书中的中华民族族裔文化观与领土观进行了实证[[Discourse|话语]]对比分析。
-> - [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] — 实证分析 217 册必修教材中“中华民族”话语的汉儒正统化及其在少数民族学生中的[[Reflexivity\|反思性]]回应。
+> - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 实证分析 217 册必修教材中“中华民族”话语的汉儒正统化及其在少数民族学生中的[[Reflexivity\|反思性]]回应。
 > - [[2020 Inner Mongolia Bilingual Education Reform]] — 国家为推广通用语言文字与铸牢中华民族共同体意识而实施的语言替代性改革实证案例。
 > - [[Xinjiang Vocational Education and Training Centers]] — 官方以铸牢中华民族共同体意识为名实施的同化与职业培训设施案例。
 

@@ -38,7 +38,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-05-31
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Internal Consistency
 
@@ -49,7 +49,7 @@ updated: 2026-10-15
 > [!def] 核心定义
 > 内部一致性（Internal consistency）是[[Reliability\|信度]]的一种形式，衡量多项目量表中各条目（items）是否在测量同一底层[[Construct\|构念]]。与测试/重测和等价形式信度不同——它们要求两次测试或工具施测——内部一致性只需要**一次**施测。其基本逻辑是：如果量表的所有条目都在测量同一个构念，那么这些条目之间应该有适当的相互关联。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]
 
-在 Carmines & Zeller (1979) 的量化信度三类型框架中，内部一致性是与稳定性（[[Test-Retest Reliability|重测信度]]）和等值性（等价形式和[[Inter-Rater Reliability|评分者间信度]]）并列的第三大信度类型（pp.202–204）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
+在 Carmines and Zeller (1979) 的量化信度三类型框架中，内部一致性是与稳定性（[[Test-Retest Reliability|重测信度]]）和等值性（等价形式和[[Inter-Rater Reliability|评分者间信度]]）并列的第三大信度类型（pp.202–204）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
 
 > [!citation-card]- Creswell 对内部一致性的定义
 > 对于多项目工具来说，最重要的信度形式是工具的内部一致性——即工具上各组条目以相同方式运作的程度。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]

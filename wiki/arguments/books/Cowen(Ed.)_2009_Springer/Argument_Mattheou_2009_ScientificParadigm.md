@@ -114,7 +114,7 @@ related_facts:
   - "[[World Bank]]"
 status: draft
 created: 2026-09-07
-updated: 2026-09-08
+updated: 2026-10-16
 ---
 # Argument_Mattheou_2009_ScientificParadigm
 
@@ -161,7 +161,7 @@ updated: 2026-09-08
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **经典文本样本** | 涵盖 Bereday (1957, 1964)、Anderson (1961, 1977)、Foster (1960)、Noah & Eckstein (1969)、Holmes (1965, 1981)、Kazamias (1961, 1963) 等里程碑方法论论著。（pp. 69–71） |
+> | **经典文本样本** | 涵盖 Bereday (1957, 1964)、Anderson (1961, 1977)、Foster (1960)、Noah and Eckstein (1969)、Holmes (1965, 1981)、Kazamias (1961, 1963) 等里程碑方法论论著。（pp. 69–71） |
 > | **政策与规划文献** | [[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD，简称经合组织）地中海区域项目、联合国教科文组织[[International Institute for Educational Planning\|国际教育规划研究所]]（International Institute for Educational Planning, IIEP）文献、人力资本与发展规划论著（Harbison & Myers, Schultz 等）。（pp. 67–71） |
 > | **时空跨度情境** | 聚焦 1950 年代中叶至 1980 年代英美比较教育学界核心争论，并延展至 21 世纪初对[[IEA\|国际教育成就评价协会]]（International Association for the Evaluation of Educational Achievement, IEA）和[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）等跨国实证霸权的反思。（pp. 59, 68–69） |
 

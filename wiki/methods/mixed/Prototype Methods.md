@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Prototype Methods
@@ -48,7 +48,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!info]
-> 原型方法（prototype methods）是一种以认知心理学的**原型理论（prototype theory）**为基础、通过分析特定文化语言中的词汇来建构**[[Cultural Models\|文化模型]]（cultural models）**的混合研究方法。其核心假设是：人类对世界的理解很大程度上依赖于对物体、活动和经验的分类（categorization），而语言承载着这些类别——一个文化的语言包含了该文化成员共享的原型概念，可以通过系统分析这些语言材料来揭示文化层面的共享信念结构([[Argument_Li_2012_Cambridge\|Li, 2012, pp.88-89]])。
+> 原型方法（prototype methods）是一种以认知心理学的**原型理论（prototype theory）** 为基础、通过分析特定文化语言中的词汇来建构 **[[Cultural Models\|文化模型]]（cultural models）** 的混合研究方法。其核心假设是：人类对世界的理解很大程度上依赖于对物体、活动和经验的分类（categorization），而语言承载着这些类别——一个文化的语言包含了该文化成员共享的原型概念，可以通过系统分析这些语言材料来揭示文化层面的共享信念结构([[Argument_Li_2012_Cambridge\|Li, 2012, pp.88-89]])。
 
 Li 在研究中使用该方法的具体目标是：**建构欧裔美国和中国两种文化中"学习"（learning／學習）这个概念的文化原型**——不是测量个体差异，而是描绘文化成员共享的[[Concept Mapping|概念地图]]([[Argument_Li_2012_Cambridge|Li, 2012, pp.88-89]])。
 
@@ -64,7 +64,7 @@ Li 在研究中使用该方法的具体目标是：**建构欧裔美国和中国
 ### 主位视角（Emic Perspective）
 
 > [!abstract]
-> 原型方法属于**主位视角（[[Emic and Etic\|emic perspective]]）**研究——即从被研究文化**内部成员**的角度出发，让文化成员用自己的语言生成和定义概念，而非从外部研究者预设的理论框架出发（后者称为客位视角／etic perspective）。Li 明确将这一方法定位为对传统客位研究主导的补充([[Argument_Li_2012_Cambridge\|Li, 2012, pp.87-88]])。
+> 原型方法属于**主位视角（[[Emic and Etic\|emic perspective]]）** 研究——即从被研究文化**内部成员**的角度出发，让文化成员用自己的语言生成和定义概念，而非从外部研究者预设的理论框架出发（后者称为客位视角／etic perspective）。Li 明确将这一方法定位为对传统客位研究主导的补充([[Argument_Li_2012_Cambridge\|Li, 2012, pp.87-88]])。
 
 **主位 vs 客位的核心差异([[Argument_Li_2012_Cambridge|Li, 2012, pp.87-88]])**
 - **客位视角（etic perspective）** 研究者带着预设的理论框架（通常来自西方心理学）去"测量"其他文化——如用"成就动机"量表测量中国学生。优势是可复制、可比较；局限是无法发现框架外的本土概念
@@ -81,7 +81,7 @@ Li 在研究中使用该方法的具体目标是：**建构欧裔美国和中国
 > [!abstract]
 > 原型方法的另一个[[Epistemology\|认识论]]支柱是 [[Cultural Models\|文化模型]]这一人类学概念。文化模型由文化的历史过程建立并随文化演进而修订，作为共享的概念框架塑造成员的体验和行为([[Argument_Li_2012_Cambridge\|Li, 2012, pp.88-89]])。详见 [[Cultural Models]]。
 
-Li 强调文化模型**影响和引导（但不决定）**成员的思维和行动。因此，原型方法产出的文化学习模型不应被等同于任何具体个人的学习信念——它描绘的是**文化层面的共享理解**，而非个体层面的心理测量([[Argument_Li_2012_Cambridge|Li, 2012, pp.104-105]])。这一区分的详细讨论见 [[Cultural Models#概念辨析]]。
+Li 强调文化模型**影响和引导（但不决定）** 成员的思维和行动。因此，原型方法产出的文化学习模型不应被等同于任何具体个人的学习信念——它描绘的是**文化层面的共享理解**，而非个体层面的心理测量([[Argument_Li_2012_Cambridge|Li, 2012, pp.104-105]])。这一区分的详细讨论见 [[Cultural Models#概念辨析]]。
 
 ---
 
@@ -102,11 +102,11 @@ Li 强调文化模型**影响和引导（但不决定）**成员的思维和行�
 
 **阶段 3：核心词表筛选（core list selection）**
 
-各文化 60 名参与者按四分量表评定每个词与学习的关联度（1＝无关，4＝确定有关）。取中位数 2.72 为分界线，经逐一审查后确定核心词表：英文 203 个、中文 225 个。这些词表代表经**群体共识（group consensus）**确认的与学习具有合理相关性的词汇([[Argument_Li_2012_Cambridge|Li, 2012, pp.90-91]])。
+各文化 60 名参与者按四分量表评定每个词与学习的关联度（1＝无关，4＝确定有关）。取中位数 2.72 为分界线，经逐一审查后确定核心词表：英文 203 个、中文 225 个。这些词表代表经**群体共识（group consensus）** 确认的与学习具有合理相关性的词汇([[Argument_Li_2012_Cambridge|Li, 2012, pp.90-91]])。
 
 **阶段 4：[[Cluster Analysis|聚类分析]]生成[[Concept Mapping|概念地图]]（cluster analysis）**
 
-各文化 100 名大学生将核心词表按意义相似性分组。分组数据经**聚类分析（cluster analysis）**统计处理，生成两张层级概念地图（Figures 3.1 & 3.2）。每张地图包含四个层级：上位层（Superordinate Level）→ 基本层 I（Basic Level I）→ 基本层 II（Basic Level II）→ 下位层（Subordinate Level，即实际词汇所在层）。聚类数量和大小由参与者将多少概念归入各组决定——原型方法假设**某一聚类中词项越多，表示该文化成员对该概念的意识／重视程度越高([[Argument_Li_2012_Cambridge|Li, 2012, pp.92-94]])**。
+各文化 100 名大学生将核心词表按意义相似性分组。分组数据经**聚类分析（cluster analysis）** 统计处理，生成两张层级概念地图（Figures 3.1 & 3.2）。每张地图包含四个层级：上位层（Superordinate Level）→ 基本层 I（Basic Level I）→ 基本层 II（Basic Level II）→ 下位层（Subordinate Level，即实际词汇所在层）。聚类数量和大小由参与者将多少概念归入各组决定——原型方法假设**某一聚类中词项越多，表示该文化成员对该概念的意识／重视程度越高([[Argument_Li_2012_Cambridge|Li, 2012, pp.92-94]])**。
 
 ### 研究二：理想学习者形象（ideal learner image）
 

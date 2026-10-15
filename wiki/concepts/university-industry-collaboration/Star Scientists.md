@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Star Scientists
@@ -78,7 +78,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **明星科学家（Star Scientists）**指在特定科学前沿、颠覆性技术起源期或国家重大战略工程中，凭借极其卓越的原创发现与系统把关能力而掌握**不可编码的隐性专有诀窍（Tacit [[Intellectual Capital]]）**与崇高学术声誉的极少数顶尖领军学者。他们不仅是基础科学发现的源头，更是前沿技术向产业集群扩散的物理承载者；在国家战略与政治经济学视阈下，明星科学家构筑了国家最高决策层与前沿工程探索之间高度互信的核心纽带，是[[Technological Republic|技术共和国]]组织重大科技动员的领军中枢。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1140–1141)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 16)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
+> **明星科学家（Star Scientists）** 指在特定科学前沿、颠覆性技术起源期或国家重大战略工程中，凭借极其卓越的原创发现与系统把关能力而掌握**不可编码的隐性专有诀窍（Tacit [[Intellectual Capital]]）** 与崇高学术声誉的极少数顶尖领军学者。他们不仅是基础科学发现的源头，更是前沿技术向产业集群扩散的物理承载者；在国家战略与政治经济学视阈下，明星科学家构筑了国家最高决策层与前沿工程探索之间高度互信的核心纽带，是[[Technological Republic|技术共和国]]组织重大科技动员的领军中枢。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1140–1141)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 16)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
 
 > [!concept-lens] 概念透镜
 > - **核心指向** 前沿突破中具有高度不可替代性、专有诀窍未编码化的顶尖领军人才及其所维系的学术-国家网络。
@@ -163,7 +163,7 @@ updated: 2026-10-15
 > [!concept-lens] 国家战略安全与科技动员维度
 > 探讨顶尖科学家在国家地缘危机时刻如何作为核心战略顾问与组织者驱动国家重大工程的敏捷决策。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **明星科学家充当地球防卫与国家战略中枢** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]指出，二战至冷战初期美国科技领先地位的确立，核心在于[[J. Robert Oppenheimer|奥本海默]]、[[Vannevar Bush|万尼瓦尔·布什]]、汉斯·贝特、伊西多·拉比与[[J. C. R. Licklider|约瑟夫·利克莱德]]等明星科学家与政治领袖之间享有的高度信任。1957年人造卫星危机后[[Dwight D. Eisenhower|艾森豪威尔]]总统直接根据拉比与贝特的建议设立总统科学顾问并创设 [[National Aeronautics and Space Administration|NASA]]，利克莱德受聘掌舵 [[DARPA|ARPA]] IPTO 催生 [[ARPANET]]，皆证明明星科学家不仅是实验室发现者，更是国家战略意志与前沿工程转化深度融合的制度灵魂。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7–8)]]
 
 ---

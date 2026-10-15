@@ -70,7 +70,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-09
-updated: 2026-10-10
+updated: 2026-10-16
 subtype: report
 publication_type: report
 title: "Argument_NIST_2023_NSTC"
@@ -95,7 +95,7 @@ publisher: "U.S. Department of Commerce"
 > 面对全球先进半导体制造产能高度向东亚集中、前沿物理微缩与异构封装研发资本门槛呈指数级攀升，以及全美大学与初创企业的硬件创新构想深陷从实验室到代工厂（[[Translational Research|lab-to-fab]]）中试断层的系统性困境，美国联邦政府应当如何依据《[[CHIPS and Science Act|芯片与科学法案]]》构建国家级半导体公私研发合作联合体，统筹物理中试试验线、云端数字设计资产、全谱系工程劳动力供给与独立中立治理架构，以重塑本土微电子[[Innovation Ecosystem|创新生态]]并巩固国家安全？（pp. 2–5）
 
 > [!claim] 核心主张
-> **[[National Semiconductor Technology Center|国家半导体技术中心]]（National Semiconductor Technology Center, [[National Science and Technology Council|NSTC]]）**作为《芯片与科学法案》110 亿美元研发资金的核心中枢，必须通过布局跨区域共享中试技术中心网络、聚合全国[[Multi-Project Wafer|多项目晶圆]]与先进封装排期服务、打造云端设计网关以及依托独立非营利运营商（[[Natcast]]）推行公私分权共治，全面打通从基础科研探索到工业规模化制造的创新链条，构建兼具国家安全韧性与长期商业自生能力的新一代国家创新平台。（pp. 2–5, 8–11, 21–25）
+> **[[National Semiconductor Technology Center|国家半导体技术中心]]（National Semiconductor Technology Center, [[National Science and Technology Council|NSTC]]）** 作为《芯片与科学法案》110 亿美元研发资金的核心中枢，必须通过布局跨区域共享中试技术中心网络、聚合全国[[Multi-Project Wafer|多项目晶圆]]与先进封装排期服务、打造云端设计网关以及依托独立非营利运营商（[[Natcast]]）推行公私分权共治，全面打通从基础科研探索到工业规模化制造的创新链条，构建兼具国家安全韧性与长期商业自生能力的新一代国家创新平台。（pp. 2–5, 8–11, 21–25）
 
 > [!concept-lens] 阅读透镜
 > - **经验对象** 美国国家半导体技术中心（NSTC）、[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（National Advanced Packaging Manufacturing Program, NAPMP）、国防部[[Microelectronics Commons|微电子共用体]]（Microelectronics Commons）、商务部国家标准与技术研究院（National Institute of Standards and Technology, NIST）计量研究项目及全美产学研微电子创新网络。（pp. 2–3, 8–11）

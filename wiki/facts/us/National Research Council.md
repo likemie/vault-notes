@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # National Research Council
@@ -136,6 +136,6 @@ updated: 2026-10-15
 > | [[National Assessment of Educational Progress]] | 评估事实 | NRC 研讨会深度动员并分析其跨州刻度映射数据的国家测评黄金公尺。 |
 > | [[National Governors Association]] | 组织机构 | 汲取 NRC 证据报告并联合发起全国学术标准的州长最高政治实体。 |
 > | [[Council of Chief State School Officers]] | 组织机构 | 根据 NRC 梳理的问责文献确立去政治化实证起草原则的官僚联盟。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证文献 | 详细记录 NRC 研讨会及 2008 年报告如何将实证[[Research Translation\|研究转化]]为议程工具的研究。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 详细记录 NRC 研讨会及 2008 年报告如何将实证[[Research Translation\|研究转化]]为议程工具的研究。 |
 
 ---

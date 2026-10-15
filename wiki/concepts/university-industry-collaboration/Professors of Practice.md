@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-09-22
+updated: 2026-10-16
 ---
 
 # Professors of Practice
@@ -71,7 +71,7 @@ updated: 2026-09-22
 ## 实证发现
 
 > [!success]
-> Boccanfuso & Hall（2025, p.64）对 65 所 [[University Industry Demonstration Partnership\|UIDP]] 成员大学的调查显示：
+> Boccanfuso and Hall（2025, p.64）对 65 所 [[University Industry Demonstration Partnership\|UIDP]] 成员大学的调查显示：
 > - 88% 的大学聘请企业全职员工担任兼职讲师
 > - 84% 的大学聘请全职实践教授（因其产业经验而被聘用）
 >

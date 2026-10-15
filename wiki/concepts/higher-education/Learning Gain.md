@@ -73,7 +73,7 @@ related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Serpell_2020_EP]]"
 created: 2026-08-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Learning Gain
@@ -188,7 +188,7 @@ updated: 2026-10-15
 > - **1980s — 基础教育教师增值评估（VAM）兴起** William Sanders 在美国田纳西州开创田纳西增值评价系统（TVAAS），利用[[Hierarchical Linear Model\|多层线性模型]]追踪学生跨学年标准化成绩，尝试剥离教师个体的教学增益。
 > - **2000s — 实验心理学与探究教学增益标准化** 科学教育与认知心理学普遍确立以前[[Pre-test and Post-test\|后测]]标准差增益（Cohen's $d$ / Hedges' $g$）作为衡量不同教学[[Paradigm\|范式]]（探究 vs 讲授）概念获得成效的核心指标。
 > - **2010s — 高等教育纵向能力增值项目大规模试点** 英国高等教育拨款委员会（[[Higher Education Funding Council for England\|HEFCE]]）启动“学习增益项目”，德国实施 [[KoKoHs Program\|KoKoHs]] 计划，意大利开展 [[TECO Project\|TECO]] 试验，系统探索高等教育[[Critical Thinking\|批判性思维]]与通用能力的增值测度。
-> - **2016–2023 — 探究指导与自适应支架增益的循证综合** Lazonder & Harmsen (2016) [[Meta-analysis\|元分析]]确立指导使[[Inquiry-Based Learning\|探究学习]]增益提升半个标准差及指导形态等价性；[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 系统综合长周期实验，论证探究与[[Direct Instruction\|直接教学]]协同互补实现长效[[Surface and Deep Learning\|深层学习]]增益的最佳路径。
+> - **2016–2023 — 探究指导与自适应支架增益的循证综合** Lazonder and Harmsen (2016) [[Meta-analysis\|元分析]]确立指导使[[Inquiry-Based Learning\|探究学习]]增益提升半个标准差及指导形态等价性；[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 系统综合长周期实验，论证探究与[[Direct Instruction\|直接教学]]协同互补实现长效[[Surface and Deep Learning\|深层学习]]增益的最佳路径。
 
 ---
 
@@ -220,7 +220,7 @@ updated: 2026-10-15
 >
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | Lazonder & Harmsen (2016) (引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 4]]) | [[Dependent Variable\|结果变量]]：指导[[Scaffolding\|脚手架]]对比无指导探究产生的学习增益 | $k = 72$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $d = 0.50$ [0.37, 0.63] | 指导类型调节效应不显著（$p > .05$） | 涵盖六类指导支架（过程约束、提示、线索、脚手架、直接解释等），证实支架稳定带来半个标准差学习增益 |
+> | Lazonder and Harmsen (2016) (引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 4]]) | [[Dependent Variable\|结果变量]]：指导[[Scaffolding\|脚手架]]对比无指导探究产生的学习增益 | $k = 72$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $d = 0.50$ [0.37, 0.63] | 指导类型调节效应不显著（$p > .05$） | 涵盖六类指导支架（过程约束、提示、线索、脚手架、直接解释等），证实支架稳定带来半个标准差学习增益 |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -235,6 +235,6 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统评析探究与[[Direct Instruction\|直接教学]]的实证全景，引用 Lazonder & Harmsen (2016) 确证指导[[Scaffolding\|脚手架]]带来 $d = 0.50$ 的学习增益及六类指导类型的促学等价性。
+> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统评析探究与[[Direct Instruction\|直接教学]]的实证全景，引用 Lazonder and Harmsen (2016) 确证指导[[Scaffolding\|脚手架]]带来 $d = 0.50$ 的学习增益及六类指导类型的促学等价性。
 > - [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] — 梳理 [[OECD]] 国家支持学习增益与[[Higher-Order Thinking Skills\|高阶思维]]评价的政策项目（英国 [[Higher Education Funding Council for England\|HEFCE]]、德国 [[KoKoHs Program\|KoKoHs]]、意大利 [[TECO Project\|TECO]]），辨析不同测度方法的优劣与实施挑战。
 > - [[Argument_Serpell_2020_EP\|Serpell (2020)]] — 援引 Raudenbush (2015) 剖析增值评价模型（VAM）在宏观政策应用中的局限，揭示微观[[Technical Rationality\|技术理性]]与宏观学校治理生态之间的深层张力。

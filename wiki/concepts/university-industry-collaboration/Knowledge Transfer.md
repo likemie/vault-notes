@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-10'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Knowledge Transfer
@@ -125,7 +125,7 @@ updated: 2026-10-15
 > | **主导理论范式** | [[Critical Geopolitics\|批判地缘政治]]、福柯权力论 | [[Systems of Innovation\|创新系统理论]]（NIS）、组织战略理论 | 循证卫生与公共政策分析、信息传播学 |
 > | **关键流动机制** | 强制灌输、间谍窃取、审查[[Screening Off\|屏蔽]]、网络破坏 | 赞助研究、专利许可、[[Cooperative Education\|合作教育]]、[[Academic Engagement\|学术参与]] | 五问战略受众分析、信息提炼、传播基建 |
 > | **行动者权力预设** | 严重不对等、充满地缘博弈与强制服从 | 互利合同交换、市场导向契约合作 | 供给推动为主、预设受众为被动吸收容器 |
-> | **代表文献与学者** | [[Argument_Partaken_2022_Springer\|Partaken (2022)]]; [[Argument_Glitz_2020_AER\|Glitz & Meyersson (2020)]] | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall (2025b)]]; Cohen et al. (2002) | Lavis et al. (2003); [[Argument_Torres_2022_KMModels\|Torres (2022b)]] |
+> | **代表文献与学者** | [[Argument_Partaken_2022_Springer\|Partaken (2022)]]; [[Argument_Glitz_2020_AER\|Glitz and Meyersson (2020)]] | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso and Hall (2025b)]]; Cohen et al. (2002) | Lavis et al. (2003); [[Argument_Torres_2022_KMModels\|Torres (2022b)]] |
 
 ---
 
@@ -182,7 +182,7 @@ updated: 2026-10-15
 > [!concept-lens] 产学知识转移渠道全谱系
 > 纠正将产学知识流动窄化为专利许可的商业偏误，确立隐性交往与组织边界跨越的基础价值。
 
-> [!claim] [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall (2025b)]]
+> [!claim] [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso and Hall (2025b)]]
 > **全谱系多通道流动与中介双重功能** 大学与产业界的知识转移绝不仅限于专利许可和衍生公司等商业化[[Technology Transfer\|技术转移]]（[[Technology Transfer]]）。文献发表、校友交往、师生面对面咨询等非正式渠道，以及学生实习、[[Cooperative Education\|合作教育]]等半正式渠道，构成了工业界吸收大学[[Tacit Knowledge|隐性知识]]最广泛且最频繁的通路。知识转移办公室（KTO）必须同时兼顾“信息链接”与“法务交易专家”功能，才能有效维系这一跨界连续体。[[Argument_Boccanfuso_Hall_2025_OrgStrategy\|(Boccanfuso & Hall, 2025b, pp. 53–55)]]
 
 ---
@@ -223,7 +223,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **地缘冲突命题** | 确立知识运动与转移在地缘政治中的独立场域地位，解构非对称权力模态 | 跨国技术竞争、审查体系、国家技术安全与后殖民批判 | [[Argument_Partaken_2022_Springer\|Partaken (2022)]] |
-> | **组织通道命题** | 确立产学知识转移超越专利的技术全谱系，揭示非正式渠道与中介功能 | 大学技术转移、[[University-Industry Collaboration\|产学合作]]教育、[[Knowledge-Based Economy\|知识经济]]战略 | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall (2025b)]] |
+> | **组织通道命题** | 确立产学知识转移超越专利的技术全谱系，揭示非正式渠道与中介功能 | 大学技术转移、[[University-Industry Collaboration\|产学合作]]教育、[[Knowledge-Based Economy\|知识经济]]战略 | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso and Hall (2025b)]] |
 > | **生态基石命题** | 揭示第一代流水线转移的行动者局限及其作为复杂生态物理底座的价值 | 知识动员战略规划、政策研究受众定制、循证知识传播基础设施 | Lavis et al. (2003); [[Argument_Torres_2022_KMModels\|Torres (2022b)]] |
 > | **教育特异性命题** | 揭示教育知识转移的非线性与情境特异性，批判机械套用临床医学转化类比 | 循证教育改革、学校改进咨询、全域测评数据回传机制 | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] |
 > | **隐性经验命题** | 阐明工程制造中隐性学问（Lore）依赖人员驻留、轮转科学家与校企联合导师制（FMA）实现双向渗透 | 尖端工科研究生培养、校企双导师制、工程驻留研发 | [[Argument_Mody_2017_MOH\|Mody (2017)]] |
@@ -238,7 +238,7 @@ updated: 2026-10-15
 > - **1970–1980s — 产学隐性经验（Lore）与驻留机制确立** 加州理工 [[Silicon Structures Project|SSP]]、康奈尔 [[National Research and Resource Facility for Submicron Structures|NRRFSS]] 与斯坦福 CIS 探索轮转科学家、驻留工程师与 FMA 联合[[Mentorship|导师制]]，确立高技术重资产环境下以人员流动为载体的隐性经验转移[[Paradigm|范式]]。[[Argument_Mody_2017_MOH\|(Mody, 2017, pp. 290–292, 297)]]
 > - **1980s — 大学[[Bayh-Dole Act of 1980|拜杜法案]]与产学知识转移兴起** 伴随[[Knowledge-Based Economy|知识经济]]崛起，欧美大学成立知识转移办公室（KTO），知识转移在管理学中确立为技术商业化与校企[[Tacit Knowledge|隐性知识]]流动的核心概念。
 > - **2003 — 循证卫生决策中的 Lavis 战略框架** Lavis et al. (2003) 提出“五问”受众战略模型，标志着循证政策领域第一代知识转移分析工具的成熟。
-> - **2010–2022 — [[Knowledge Mobilisation|知识动员]]三代演进与再定位** Best & Holmes (2010) 与 [[Argument_Torres_2022_KMModels|Torres (2022b)]] 确立知识转移作为知识动员第一代线性模型的历史地位，阐明其向关系协同与自适应复杂系统模型的代际跨越。
+> - **2010–2022 — [[Knowledge Mobilisation|知识动员]]三代演进与再定位** Best and Holmes (2010) 与 [[Argument_Torres_2022_KMModels|Torres (2022b)]] 确立知识转移作为知识动员第一代线性模型的历史地位，阐明其向关系协同与自适应复杂系统模型的代际跨越。
 > - **2019 — 德语区学校改进反思教育知识转移的临床医学转化类比** 马尼蒂乌斯与范霍尔特（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019]]）反思德语区教育治理中的知识转移与[[Transfer Science|转移科学]]（Transferwissenschaft），指出全域监测数据回传在单体学校的成效缺失，强调教育知识流动具有高度情境依存性，不能照搬循证医学的机械转化假定。
 > - **2022 — [[Geopolitics of Knowledge|知识地缘政治]]（GPK）分析范式转换** [[Argument_Partaken_2022_Springer|Partaken (2022)]] 系统提出将[[Critical Geopolitics|批判地缘政治]]的核心从“[[Knowledge Production|知识生产]]”转向“知识转移”，界定知识在运动中的六大控制模态。
 
@@ -275,7 +275,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Glitz_2020_AER\|Glitz & Meyersson (2020)]] | 东德（冷战时期）与西德工业部门 | 历史档案计量分析与行业面板数据 | 国家支持的经济间谍活动与[[Total Factor Productivity\|全要素生产率]]差距 | 间谍获取的工业机密显著缩小了东德与西德之间的技术生产率差距 | $p < 0.01$ | 揭示非对等非法知识转移在地缘技术追赶中的真实效力 |
+> | [[Argument_Glitz_2020_AER\|Glitz and Meyersson (2020)]] | 东德（冷战时期）与西德工业部门 | 历史档案计量分析与行业面板数据 | 国家支持的经济间谍活动与[[Total Factor Productivity\|全要素生产率]]差距 | 间谍获取的工业机密显著缩小了东德与西德之间的技术生产率差距 | $p < 0.01$ | 揭示非对等非法知识转移在地缘技术追赶中的真实效力 |
 > | Lissoni (2012) 与 Baig (2017)；引于 [[Argument_Partaken_2022_Springer\|Partaken (2022)]] | 欧美大学学术专利（Lissoni）与全球网络安全攻击源（Baig） | 跨国数据库比较与流量监控统计 | 专利归属比例与跨国知识攻击源占比 | 欧洲 60%–81% 专利归工业公司所有；约 27%（重定向达 41%）攻击源自特定来源国 | — | 实证支持产学产权转移与网络空间[[Knowledge Sabotage\|知识破坏]]的地缘现实 |
 > | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 9)]] | 德语区各州全域测评（[[Vergleichsarbeiten\|VERA]]）与[[School Inspection\|外部学校督导]]（SI）反馈系统 | [[Literature Review\|文献综述]]与治理实证评估 | 监测数据回传向单体学校知识转移的微观改进成效 | 外部督导与统考数据回传在单体学校普遍缺乏显著的教学改善成效（mangelnde Effekte） | 质性综述确证 | 确证机械式数据回传无法自动转化为微观教学行动，[[Falsification\|证伪]]线性转移假设 |
 > | [[Argument_Mody_2017_MOH\|Mody (2017, pp. 290–292, 297)]] | 加州理工学院 [[Silicon Structures Project\|SSP]]、康奈尔 [[National Research and Resource Facility for Submicron Structures\|NRRFSS]]、通用电气（GE）与斯坦福 CIS | 历史档案与企业项目档案定性分析 | 轮转科学家机制、驻留工程师、FMA 联合指导小组 | GE 派驻工程师在 NRRFSS 驻留 1 年攻克 GaAs 器件工艺并回厂复制；斯坦福 CIS 依托 FMA 团队制完成博士生与企业导师深度联合研发 | 历史实证确证 | 证实高技术工程制造中隐性学问（Lore）高度依赖人员实体驻留与[[Mentorship\|导师制]]面对面传授 |
@@ -286,8 +286,8 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 奠定[[Geopolitics of Knowledge|知识地缘政治]]（GPK）中的知识转移概念，系统提出知识在运动中的六大权力模态。
-> - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] — 阐释[[University-Industry Collaboration|产学合作]]中的知识转移全谱系，区分正式知识产权交易与非正式/半正式人际渠道。
-> - [[Argument_Glitz_2020_AER|Glitz & Meyersson (2020)]] — 提供国家支持经济间谍实现强制性知识转移的大规模实证计量证据。
+> - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso and Hall (2025b)]] — 阐释[[University-Industry Collaboration|产学合作]]中的知识转移全谱系，区分正式知识产权交易与非正式/半正式人际渠道。
+> - [[Argument_Glitz_2020_AER|Glitz and Meyersson (2020)]] — 提供国家支持经济间谍实现强制性知识转移的大规模实证计量证据。
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 梳理[[Knowledge Mobilisation|知识动员]]中的第一代线性知识转移模型（Lavis 五问框架），阐明其向关系协同与自组织生态演进的脉络。
 > - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 审视德语区教育治理中的知识转移与[[Transfer Science|转移科学]]，揭示监测数据回传在单体学校的成效缺失，批判机械套用循证医学临床转化类比。（pp. 9, 11）
 > - [[Argument_Mody_2017_MOH|Mody (2017)]] — 从历史组织学视角剖析大学微电子中心如何通过驻留工程师、轮转科学家及 FMA 校企双[[Mentorship|导师制]]，实现尖端工程制造隐性经验（Lore）与博士人才培养的深度双向转移。

@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Larissa Adler Lomnitz
@@ -65,7 +65,7 @@ updated: 2026-10-15
 > [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论洛姆尼茨等学者对新自由主义结构调整与智利社会危机的实证剖析
 > 洛姆尼茨与梅尔尼克（Lomnitz & Melnick, 1991）指出，在历史和哲学层面上，新自由主义始终与[[Structural Adjustment Programs|结构调整方案]]紧密捆绑在一起。结构调整进而通常被描述为[[World Bank|世界银行]]、[[International Monetary Fund|国际货币基金组织]]以及其他跨国金融机构所推荐的一整套紧缩政策……其对智利中产阶级生活史的[[Fieldwork|田野调查]]深刻证实，推行使用者付费与学校私有化实质上是残酷瓦解公共福利的阶级暴力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79, 85–86)]]
 >
-> *Lomnitz & Melnick (1991) argue that, historically and philosophically, neoliberalism has been associated with structural adjustment programs. Structural adjustment, in turn, is usually described as a broad range of policies recommended by the World Bank, the International Monetary Fund, and other financial organizations.*
+> *Lomnitz and Melnick (1991) argue that, historically and philosophically, neoliberalism has been associated with structural adjustment programs. Structural adjustment, in turn, is usually described as a broad range of policies recommended by the World Bank, the International Monetary Fund, and other financial organizations.*
 
 ---
 

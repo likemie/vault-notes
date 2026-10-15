@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Precompetitive Research
@@ -140,7 +140,7 @@ updated: 2026-10-15
 > [!concept-lens] 合作与竞争的制度解耦
 > 探讨多边合作与公私协同如何通过划分前竞争范围，实现共性知识池共建与终端市场残酷竞争的并存。
 
-> [!claim] [[Argument_Narayan_Spohrer_2025_Metrics|Narayan & Spohrer (2025)]]
+> [!claim] [[Argument_Narayan_Spohrer_2025_Metrics|Narayan and Spohrer (2025)]]
 > **分层度量匹配机制** 探索性[[University-Industry Collaboration|产学合作]]绝大多数属于前竞争性质，其产出的知识产权商业价值有限；对前竞争研发套用成熟商业项目的严格知识产权条款是一种制度错配，导致过度的法务谈判损耗合作信任；唯有按研究成熟度分层设立轻量审批机制，才能保障早期前竞争创新的顺畅启动。[[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025, p. 91)]]
 
 > [!claim] [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]]
@@ -171,7 +171,7 @@ updated: 2026-10-15
 > |:---|:---|:---|:---|
 > | **双层知识产权解耦命题** | 区分共有前竞争知识池与个体产品专项开发，保障竞争对手协同攻关 | 大学–企业联合体、先进制造中心 | [[Argument_Hoffman_2025_UI_Alliances_Consortia\|Hoffman et al. (2025)]]; [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025)]] |
 > | **分层时域矩阵命题** | 依据技术成熟度建立近中远期多轨道计划，以路线图解耦底层共性探索与终端产品竞争 | 行业级多边研发联合体（如半导体） | [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] |
-> | **制度度量匹配命题** | 按研发成熟度分层设计知识产权审查流程，消除小额探索项目的法务阻碍 | 早期产学合作、企业资助大学实验室 | [[Argument_Narayan_Spohrer_2025_Metrics\|Narayan & Spohrer (2025)]] |
+> | **制度度量匹配命题** | 按研发成熟度分层设计知识产权审查流程，消除小额探索项目的法务阻碍 | 早期产学合作、企业资助大学实验室 | [[Argument_Narayan_Spohrer_2025_Metrics\|Narayan and Spohrer (2025)]] |
 > | **专有权演化与纵向协同命题** | 横向工艺保密防范迫使联盟转向近中期通用标准与上下游供应链协同 | 产业高技术研发联合体（半导体、微电子） | [[Argument_Grindley_1994_JPAM\|Grindley et al. (1994)]] |
 
 ---
@@ -199,7 +199,7 @@ updated: 2026-10-15
 > > 争论产业前竞争联盟是否会挤占或替代大学的长周期基础研究。
 > >
 > > - **[[Argument_Mowery_2011_NBER|Mowery (2011)]]** 警示出资企业追求[[Return on Investment|投资回报]]的压力会使联盟自发偏向近中期可交付成果，联盟绝不能替代政府对大学长周期基础科学研究的公共资助。
-> > - **[[Argument_Narayan_Spohrer_2025_Metrics|Narayan & Spohrer (2025)]]** 指出企业资助前竞争研究的核心动机是探索新方向与识别高素质人才，而非直接替代高校的基础科学使命。
+> > - **[[Argument_Narayan_Spohrer_2025_Metrics|Narayan and Spohrer (2025)]]** 指出企业资助前竞争研究的核心动机是探索新方向与识别高素质人才，而非直接替代高校的基础科学使命。
 > > - **[[Argument_Logar_2014_Minerva|Logar et al. (2014)]]** 通过[[Semiconductor Research Corporation|半导体研究公司]]（SRC）的制度演进表明，前竞争联盟必须通过设立分立的子计划矩阵（如 3–5 年应用导向的 GRC 与 10–15 年超越硅基极限的 [[Focus Center Research Program|FCRP]]/NRI）来对冲商业应用对基础科学的挤出；但同时也警示，一旦完全依赖私营会员会费，前竞争基础研究预算将在行业景气下行期高度脆弱。
 
 ---
@@ -209,7 +209,7 @@ updated: 2026-10-15
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > | 研究 | 样本与情境 | 研究设计 | 核心[[Variable\|变量]]或指标 | 原始实证结果 | 显著性或不确定性 | 解释边界 |
 > |:---|:---|:---|:---|:---|:---|:---|
-> | [[Argument_Narayan_Spohrer_2025_Metrics\|Narayan & Spohrer (2025)]] | IBM 全球小型产学合作项目（每年 <\$250K） | 实践案例与政策反思 | IP 审查周期与合作成活率 | 小型前竞争项目若套用商业级 IP 审查，会导致法务流程拖延数月甚至使合作夭折 | 定性管理总结 | 适用于企业与大学的小型探索性课题 |
+> | [[Argument_Narayan_Spohrer_2025_Metrics\|Narayan and Spohrer (2025)]] | IBM 全球小型产学合作项目（每年 <\$250K） | 实践案例与政策反思 | IP 审查周期与合作成活率 | 小型前竞争项目若套用商业级 IP 审查，会导致法务流程拖延数月甚至使合作夭折 | 定性管理总结 | 适用于企业与大学的小型探索性课题 |
 > | [[Argument_Grindley_1994_JPAM\|Grindley et al. (1994)]] | 美日欧 16 个高技术研发联盟（[[Sematech]], [[VLSI Project\|VLSI]], [[ESPRIT]] 等） | 跨国[[Comparative Case Study\|比较案例研究]] | 政府资助比例（0%–100%）、研发重点调整方向 | 集中式项目管理与纵向供应链协同呈现出更高的[[Research Translation\|技术转化]]效率与设备运行稳定性 | 25+ 场访谈与 11 项工程档案分析 | 适用于高技术制造业公私研发联合体 |
 > | [[Argument_Hoffman_2025_UI_Alliances_Consortia\|Hoffman et al. (2025)]] | 英国[[Advanced Manufacturing Research Centre\|先进制造研究中心]]（AMRC）及制造业联合体 | 案例追踪与制度分析 | 两层 IP 模式下的会员参与度与转化成效 | 前竞争轨道（大学持权免版税使用）与[[Product-Specific Research\|产品专项]]轨道（赞助商独占）并行有效消除了竞争对手合作顾虑 | 深入案例分析 | 适用于制造业中试与工艺转化中心 |
 > | [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] | 美国[[Semiconductor Research Corporation\|半导体研究公司]]（SRC）前竞争产学研发网络（1982–2011） | 单机构案例研究（访谈 $N=19$ 与历史财务档案） | 资助规模、人才产出、专利数与高被引工业引用率 | 年均资助近 1,500 名博士生（累计培养 9,200+ 毕业生）；累计产出专利 377 项；在 125 篇百引以上论文中 58%（72篇）的工业引用占比超过 15% | 定性与描述性统计档案分析 | 适用于行业级前竞争[[University-Industry Collaboration\|产学合作]]研发联合体 |
@@ -220,7 +220,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 把前竞争联合体界定为科学已经明白、工程尚未做完、风险又由全行业共享时的制度。1987 年十四家美国半导体公司与经由 [[DARPA]] 匹配的联邦经费组成半导体制造技术联盟，攻光刻、刻蚀和材料工艺。1997 年的[[EUV LLC|极紫外有限责任公司]]再与三个能源部国家实验室签约开发极紫外光刻，到 2001 年建成第一台原型曝光工具并提交 150 多项专利。报告同时承认，随后的政策把主导市场地位让给了一家欧洲公司。
-> - [[Argument_Narayan_Spohrer_2025_Metrics|Narayan & Spohrer (2025)]] — 论证探索性[[University-Industry Collaboration|产学合作]]的前竞争性质，提出按成熟度分层设计知识产权条款以避免度量错配。
+> - [[Argument_Narayan_Spohrer_2025_Metrics|Narayan and Spohrer (2025)]] — 论证探索性[[University-Industry Collaboration|产学合作]]的前竞争性质，提出按成熟度分层设计知识产权条款以避免度量错配。
 > - [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]] — 剖析 [[Advanced Manufacturing Research Centre|AMRC]] 的两层知识产权模型，示范前竞争共有轨道与商业专有轨道的互补共生机制。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 阐释[[Semiconductor Research Corporation|半导体研究公司]]（SRC）如何运用前竞争范围界定准则化解竞争对手之间的零和博弈。
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 跨国对比美日欧 16 个研发联盟，系统揭示前竞争研究在横向同业联盟中的专有权困境及其向近中期纵向通用标准演化的规律。

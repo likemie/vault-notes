@@ -83,7 +83,7 @@ updated: 2026-10-16
 > [!citation-card]- 人物定位的关键来源
 > [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]指出，多米尼克·福雷与伦德瓦尔（Foray & Lundvall, 1996）等新增长理论学者提出，一个国家利用知识经济红利的能力，关键取决于其转变为“学习型经济”的速度。学习不仅包含利用新技术获取信息的能力，更核心的是培育终身创造新知识的默会技能；经合组织正是以此为依据，推动教育全面倒向面向劳动力市场的实用操作能力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 >
-> *Against these assumptions, it is suggested by new [[Growth]] theorists, such as Foray & Lundvall (1996), that a nation's capacity to take advantage of the knowledge economy depends on how quickly it can become a 'learning economy'. Learning, Foray and Lundvall argue, should not only involve the ability to use new technologies to access information, but more importantly, the development of tacit skills required to learn, to create new knowledge ...*
+> *Against these assumptions, it is suggested by new [[Growth]] theorists, such as Foray and Lundvall (1996), that a nation's capacity to take advantage of the knowledge economy depends on how quickly it can become a 'learning economy'. Learning, Foray and Lundvall argue, should not only involve the ability to use new technologies to access information, but more importantly, the development of tacit skills required to learn, to create new knowledge ...*
 
 ---
 
@@ -137,7 +137,7 @@ updated: 2026-10-16
 > - **跨国／跨领域传播** 思想跨越产业经济学、高等教育研究与区域地理学，成为连接经济增长理论与教育改革政策的跨学科桥梁。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 剖析福雷与伦德瓦尔的“学习型经济”框架如何被经合组织吸收并转化为重塑全球教育目标的政策[[Social Imaginary|社会想象]]。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 剖析福雷与伦德瓦尔的“学习型经济”框架如何被经合组织吸收并转化为重塑全球教育目标的政策[[Social Imaginary|社会想象]]。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 援引福雷对知识驱动型经济转型的论述，分析大学与产业合作模式的历史演进。
 
 ---

@@ -195,4 +195,4 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff (2024)]] — 系统阐释现象本位学习（PhBL）的欧陆教育哲学根源与政策演变：剖析芬兰国家核心课程的跨学科整合机制、SveaSus 项目在世界遗产地的具身教师教育实验，以及 [[OECD]] 21 世纪技能绩效[[Discourse|话语]]对整体教化理想的工具化侵蚀。
+> - [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024)]] — 系统阐释现象本位学习（PhBL）的欧陆教育哲学根源与政策演变：剖析芬兰国家核心课程的跨学科整合机制、SveaSus 项目在世界遗产地的具身教师教育实验，以及 [[OECD]] 21 世纪技能绩效[[Discourse|话语]]对整体教化理想的工具化侵蚀。

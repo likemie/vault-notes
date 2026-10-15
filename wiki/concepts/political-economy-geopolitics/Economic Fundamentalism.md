@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Economic Fundamentalism
@@ -60,7 +60,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **经济基要主义（Economic Fundamentalism）**由金融家兼社会思想家乔治·索罗斯（George Soros, 1998）提出，指一种将未受约束的自由市场机制与经济效率最大化教条上升为裁决人类一切制度安排、公共政策与伦理道德的最高自明法则的意识形态倾向。在跨国教育政策分析中，[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard, 2009）将其识别为[[OECD|经合组织]]（OECD）[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]的核心[[Epistemology|认识论]]棱镜：该组织虽然仍频繁使用诸如“公平”、“包容”与“社会资本”等伦理词汇，但已彻底将其置于经济基要主义框架下重构——平等被降格为形式上的学校准入，性别平权被简化为盘活女性劳动力的减贫手段，社会资本则被残余化为维护生产秩序的维稳工具，从而彻底剥离了传统社会民主主义所追求的实质正义与民主反思内核。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–450)]]
+> **经济基要主义（Economic Fundamentalism）** 由金融家兼社会思想家乔治·索罗斯（George Soros, 1998）提出，指一种将未受约束的自由市场机制与经济效率最大化教条上升为裁决人类一切制度安排、公共政策与伦理道德的最高自明法则的意识形态倾向。在跨国教育政策分析中，[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard, 2009）将其识别为[[OECD|经合组织]]（OECD）[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]的核心[[Epistemology|认识论]]棱镜：该组织虽然仍频繁使用诸如“公平”、“包容”与“社会资本”等伦理词汇，但已彻底将其置于经济基要主义框架下重构——平等被降格为形式上的学校准入，性别平权被简化为盘活女性劳动力的减贫手段，社会资本则被残余化为维护生产秩序的维稳工具，从而彻底剥离了传统社会民主主义所追求的实质正义与民主反思内核。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–450)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向将一切社会伦理与[[Public Value|公共价值]]强制折算为市场效率与[[Human Capital Theory|人力资本]][[Return on Investment|投资回报]]的教条化思维。
@@ -195,7 +195,7 @@ updated: 2026-10-15
 > > 争论教育的首要使命是服务于宏观经济增长与生产率提升，还是追求每个公民的完整人格成长与实质社会公平。
 > >
 > > - **新自由主义经济学家（1990s后）** 认为只有通过提升经济效率与全球[[Competitiveness|竞争力]]，国家才能创造足够财富来改善民众基础生存条件，因此教育必须优先服务于[[Human Capital Theory|人力资本]]积累。
-> > - **[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]]** 批判此种逻辑本末倒置，导致教育彻底丧失社会民主主义传统中的批判反思功能，使社会不公被形式平等的假象所合法化。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–450)]]
+> > - **[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]** 批判此种逻辑本末倒置，导致教育彻底丧失社会民主主义传统中的批判反思功能，使社会不公被形式平等的假象所合法化。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–450)]]
 >
 > > [!axis] 形式准入门槛平等 vs 结构性权力与文化再生产变革
 > > 争论实现教育正义是否仅需保障入学机会与标准化测试公平，还是必须触及课程知识选择与阶级性别权力关系的重构。
@@ -208,4 +208,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 448–450)]] — 批判[[OECD|经合组织]]在经济基要主义下重构教育公平、性别平权与社会资本，揭示其实质正义内涵的工具化流失。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 448–450)]] — 批判[[OECD|经合组织]]在经济基要主义下重构教育公平、性别平权与社会资本，揭示其实质正义内涵的工具化流失。

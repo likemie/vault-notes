@@ -105,7 +105,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **公共价值（Public Value）**是指由公共部门、私营企业与公民社会组织在应对重大战略挑战与社会技术转型的全价值链中，通过共同投资、协同研发、制度创新与民主协商所共同创造的集体性经济、社会、生态与国家安全福祉。在创新经济学、公共行政学与当代国家战略语境下，它超越了新古典经济学将公共干预严格局限于提供非排他性与非竞争性“公共品”（Public Good）的狭隘边界，主张国家不仅是市场摩擦的消极修补者或私营资本的单向去风险者，更是系统性新市场的共同创造者；公共投资的合法性不仅来自促进经济增长，更取决于能否将公共技术能力实质交付于国防安全、公共卫生、教育改革等普遍利益领域，并通过[[Policy Conditionalities|制度化附加条件]]与护栏条款将公共资本转化为普惠共享的社会回报。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–807)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 8–13)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–13)]]
+> **公共价值（Public Value）** 是指由公共部门、私营企业与公民社会组织在应对重大战略挑战与社会技术转型的全价值链中，通过共同投资、协同研发、制度创新与民主协商所共同创造的集体性经济、社会、生态与国家安全福祉。在创新经济学、公共行政学与当代国家战略语境下，它超越了新古典经济学将公共干预严格局限于提供非排他性与非竞争性“公共品”（Public Good）的狭隘边界，主张国家不仅是市场摩擦的消极修补者或私营资本的单向去风险者，更是系统性新市场的共同创造者；公共投资的合法性不仅来自促进经济增长，更取决于能否将公共技术能力实质交付于国防安全、公共卫生、教育改革等普遍利益领域，并通过[[Policy Conditionalities|制度化附加条件]]与护栏条款将公共资本转化为普惠共享的社会回报。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–807)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 8–13)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–13)]]
 
 > [!concept-lens] 概念透镜
 > - **微观组织视阈** 要求公共机构树立探索试错与动态工程能力导向，克服规避风险的防卫型官僚文化，将绩效考核从“合规防错与支出达标”转向“催化创新溢出与社会[[Problem Solving|问题解决]]”。
@@ -241,7 +241,7 @@ updated: 2026-10-16
 > [!concept-lens] 教育本质的规范位移：从民主公民权的公共物品到[[Human Capital Theory|人力资本]]投资的混合商品
 > 探讨超国家政策[[Discourse|话语]]如何将教育从保障平等与民主参与的纯粹公共物品降格为追求竞争优势与私人溢价的公私混合商品。
 
-> [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]]
+> [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]
 > **[[Economic Fundamentalism|经济基要主义]]对教育公共价值的异化与残余化** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）在解构[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）全球教育政策转向时指出，在战后社会民主主义妥协时期，教育被视为促进人人平等、保障公民民主参与和建设包容社会的典型“纯粹公共物品”（Pure Public Good），具有不可剥夺的民主公物本真公共价值。然而自 1990 年代中期起，经合组织等超国家机构推行“经济基要主义”（Economic Fundamentalism），将新自由主义全球化本体化为[[Doxa|不言自明]]的客观铁律，建构起一套狭隘排他的“[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]”。在这一话语转型中，教育的公共价值被系统性空心化与工具化：教育被降格为追求国家全球竞争优势与个体劳动力市场超额溢价的“公私混合投资商品”（Mixed Good）。教育公平、性别平权与公民素养等实质正义维度并未被彻底废除，而是被“残余化”（Residualized）与工具化收编——公平被窄化为形式上的准入平等以确保人力资本储备最大化，社会资本被降格为防范社会排斥干扰经济增长的维稳工具。这一转型标志着国家教育治理从创造普惠平等的民主公共价值，彻底倒向了服务于私人市场[[Return on Investment|投资回报率]]的技术官僚[[Disciplina and Doctrina|规训]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 448–452)]]
 
 ---
@@ -343,7 +343,7 @@ updated: 2026-10-16
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 实证剖析美国现代产业战略中通过托儿配套、利润分成、现行工资与社区利益计划等[[Policy Conditionalities|制度化附加条件]]与护栏条款实现公共价值创造的具体机制。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 比较跨大西洋半导体产业政策治理架构对全域公共价值创造与单一市场协调影响的实证文献。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025)]] — 阐发[[Technological Republic|技术共和国]]中前沿技术交付与普遍公众利益的关系，揭示公共部门[[Innovation Desert|创新荒漠]]与合法性危机的内在关联。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 揭示[[OECD|经合组织]]新自由主义政策转向如何将教育从民主公共物品异化为公私混合商品，阐明[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]对教育公共价值的残余化收编。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 揭示[[OECD|经合组织]]新自由主义政策转向如何将教育从民主公共物品异化为公私混合商品，阐明[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]对教育公共价值的残余化收编。
 
 ---
 
@@ -371,4 +371,4 @@ updated: 2026-10-16
 > | [[Argument_Reynolds_2024_JICT\|Reynolds (2024)]] | Argument | 详述现代产业战略如何通过附加条件与护栏条款将公共投资转化为公共价值的实证文献。 |
 > | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024)]] | Argument | 比较跨大西洋半导体产业政策治理架构对全域公共价值创造与单一市场协调影响的实证文献。 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01\|Karp & Zamiska (2025)]] | Argument | 阐发冷战科技合作演进、公共技术交付断裂与技术共和国重塑的专著第一章。 |
-> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] | Argument | 解构经合组织教育政策转向与公共教育商品化机制的经典文献。 |
+> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] | Argument | 解构经合组织教育政策转向与公共教育商品化机制的经典文献。 |

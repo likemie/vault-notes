@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 
 # Communities of Practice
@@ -102,7 +102,7 @@ updated: 2026-10-14
 > [!concept-lens] 参与演进与学习社会化机制
 > 围绕个体如何由共同体外部边缘逐步走向核心展开，强调学习不是单向灌输，而是在真实情境实践中不断深化参与度的过程。
 
-> [!claim] Lave & Wenger (1991)
+> [!claim] Lave and Wenger (1991)
 > **合法边缘性参与机制** 学习绝非去情境化的知识符号灌输，而是学习者以“合法边缘参与者”（Legitimate Peripheral Participation, LPP）身份介入真实实践共同体文化的过程；初学者通过观察、倾听、承担外围边缘性任务获得共同体成员身份认同，并在日常互动中逐渐向核心主导参与演进。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–3, 6)]]
 
 > [!claim] [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]]

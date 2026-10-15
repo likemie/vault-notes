@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Space of Equivalence
@@ -62,7 +62,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **等值空间（Space of Equivalence）**由法国统计社会学家[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）提出，指统计度量绝非对外部客观实在的被动映射，而是通过制度化创设统一的分类编码、基准刻度与公分母，在异质的社会实体、机构与实践之间强行建立起可相互[[Commensuration|通约]]的均质化度量空间。在跨国教育治理中，以[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）为代表的量化测评通过自建脱离具体课程情境的[[Scale of Measurement|测量尺度]]，构筑起全球教育成效的等值空间，以统计[[Reliability|信度]]置换情境[[Construct Validity|构念效度]]并[[Epoché|悬置]]教育[[Ontology|本体论]]，使主观的政治决策转化为无可辩驳的技术中立数据，支撑超国家组织对主权国家的远处掌舵。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+> **等值空间（Space of Equivalence）** 由法国统计社会学家[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）提出，指统计度量绝非对外部客观实在的被动映射，而是通过制度化创设统一的分类编码、基准刻度与公分母，在异质的社会实体、机构与实践之间强行建立起可相互[[Commensuration|通约]]的均质化度量空间。在跨国教育治理中，以[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）为代表的量化测评通过自建脱离具体课程情境的[[Scale of Measurement|测量尺度]]，构筑起全球教育成效的等值空间，以统计[[Reliability|信度]]置换情境[[Construct Validity|构念效度]]并[[Epoché|悬置]]教育[[Ontology|本体论]]，使主观的政治决策转化为无可辩驳的技术中立数据，支撑超国家组织对主权国家的远处掌舵。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向通过人为设计标准化度量尺度，使原本不可比的事物在统一公分母下实现均质化通约的制度空间。
@@ -178,7 +178,7 @@ updated: 2026-10-15
 > > 争论跨国测评为了构建均质等值空间而强制剔除情境脉络的做法是否合理，是否掩盖了深层教育经验的多样性。
 > >
 > > - **经合组织技术专家团队（2000s）** 主张通过现代心理测量学与跨文化校准模型能够有效剥离文化噪音，确立中立可靠的跨国共同度量尺度。
-> > - **[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]]** 批评这种操作本末倒置，导致统计[[Reliability|信度]]压制了教育本体论，以技术同一性抹杀了本土教育价值的丰富性。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+> > - **[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]** 批评这种操作本末倒置，导致统计[[Reliability|信度]]压制了教育本体论，以技术同一性抹杀了本土教育价值的丰富性。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 >
 > > [!axis] 技术中立[[Governing by Numbers|数字治理]] vs 政治决断去民主化遮蔽
 > > 争论量化等值空间究竟是提升政策决策科学性的中立工具，还是绕过民主公共辩论的去政治化意识形态包装。
@@ -191,4 +191,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 447–448)]] — 分析[[OECD|经合组织]][[PISA]]项目如何通过自建数据确立跨国等值空间，以统计[[Reliability|信度]]压倒[[Construct Validity|构念效度]]实施远处掌舵。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 447–448)]] — 分析[[OECD|经合组织]][[PISA]]项目如何通过自建数据确立跨国等值空间，以统计[[Reliability|信度]]压倒[[Construct Validity|构念效度]]实施远处掌舵。

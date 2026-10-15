@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Time Series Design
@@ -76,7 +76,7 @@ updated: 2026-10-15
 > [!def] 方法定义
 > **时间序列设计（Time Series Design）**，特别是**间断时间序列设计（Interrupted Time Series Design, [[Intelligent Tutoring Systems\|ITS]]）**，是指对同一个非随机取样的实验组（或自然行政单位），在接受特定教育干预或政策实施**之前与之后分别开展多次连续等间隔的重复测量**，通过对比干预前后数列变化轨迹来判定干预因果效应的[[Quasi-Experimental Designs\|准实验设计]]方法([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 328–331]]; [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015, Ch. 4]])。
 >
-> 其核心统计特征在于：通过分段线性回归（Segmented Linear Regression）将干预前的长期历史趋势外推为[[Counterfactual\|反事实]]（Counterfactual）基准线，进而精准分解出干预引发的**即时截距水平跃升（Level Change）**与**长期演化斜率变动（Slope Change）**。在美国教育部 [[What Works Clearinghouse\|WWC]] 审查规程中，符合标准的 ITS 设计被赋予 2 级因果审查待遇，对应“有保留达标（Meets Standards With Reservations）”或 [[Every Student Succeeds Act\|ESSA]] 2015 TIER 2 中等证据资质([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8–10]])。
+> 其核心统计特征在于：通过分段线性回归（Segmented Linear Regression）将干预前的长期历史趋势外推为[[Counterfactual\|反事实]]（Counterfactual）基准线，进而精准分解出干预引发的**即时截距水平跃升（Level Change）** 与**长期演化斜率变动（Slope Change）**。在美国教育部 [[What Works Clearinghouse\|WWC]] 审查规程中，符合标准的 ITS 设计被赋予 2 级因果审查待遇，对应“有保留达标（Meets Standards With Reservations）”或 [[Every Student Succeeds Act\|ESSA]] 2015 TIER 2 中等证据资质([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8–10]])。
 
 > [!method-scope] 方法范围
 > - **研究对象** 宏观教育[[Theories of Policy Change\|政策变革]]、学区管理条例修订、全校性行为干预系统（PBIS）、考试评价制度改革、或连续追踪的课堂教学方案。

@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Quality Education
@@ -69,7 +69,7 @@ updated: 2026-10-07
 ## 争议与批评
 
 > [!warning]
-> You（2019, p.107）指出，中国存在**两个平行的教育系统**——素质教育**在修辞和形式中**与[[Examination-Oriented Education\|应试教育]]**在现实和实质中**。尽管官方[[Discourse|话语]]将素质教育建构为应试教育的替代方案，但在实际政策层面，两者的二元对立远比话语层面模糊([[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.91–92]])。[[Argument_Wang_2025_CE\|Wang & McLaughlin (2025, p.589)]]的研究进一步证实了这一诊断：在高利害考试（特别是[[Gaokao\|高考]]）的制度压力下，许多教师不得不为了达到学业基准而牺牲教育改革，素质教育的实施在很大程度上停留在话语层面。
+> You（2019, p.107）指出，中国存在**两个平行的教育系统**——素质教育**在修辞和形式中**与[[Examination-Oriented Education\|应试教育]]**在现实和实质中**。尽管官方[[Discourse|话语]]将素质教育建构为应试教育的替代方案，但在实际政策层面，两者的二元对立远比话语层面模糊([[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.91–92]])。[[Argument_Wang_2025_CE\|Wang and McLaughlin (2025, p.589)]]的研究进一步证实了这一诊断：在高利害考试（特别是[[Gaokao\|高考]]）的制度压力下，许多教师不得不为了达到学业基准而牺牲教育改革，素质教育的实施在很大程度上停留在话语层面。
 
 ---
 

@@ -88,7 +88,7 @@ sources:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 # Argument_Rowe_2023_ECNUROE
 
@@ -147,7 +147,7 @@ updated: 2026-10-08
 > | 目标机构与网络节点 | 官方与法定档案类型 | 具体文本与调档记录 |
 > |---|---|---|
 > | **澳大利亚社会创投**<br>（[[Social Ventures Australia\|SVA]]） | 专著与回忆录、官方游说建言、经审计财务年报、网络倡导文本 | 前 CEO [[Michael Traill\|迈克尔·特雷尔（Michael Traill）]]专著《跳船》（*Jumping Ship*, 2016a）；行业媒体专访（Traill, 2016b）；向联邦递交的 6 份正式政策建言书（2011, 2016a, 2017, 2018b, 2018d, 2019a）；历年财务报告（2013–2020）；官网宣传与倡导专页。 |
-> | **证据学习中心**<br>（[[Evidence for Learning\|E4L]]） | 高管署名出版物、机构官方网站、母体关联建议书 | 总监 Deeble & Vaughan（2018）学术与政策文章；《澳大利亚慈善》杂志专题；机构官网工具包架构说明（2018, 2021a, 2021b）；SVA 正式建言中关于 E4L 的援引（2011, 2016b）。 |
+> | **证据学习中心**<br>（[[Evidence for Learning\|E4L]]） | 高管署名出版物、机构官方网站、母体关联建议书 | 总监 Deeble and Vaughan（2018）学术与政策文章；《澳大利亚慈善》杂志专题；机构官网工具包架构说明（2018, 2021a, 2021b）；SVA 正式建言中关于 E4L 的援引（2011, 2016b）。 |
 > | **澳大利亚慈善与非营利委员会**<br>（ACNC 数据集） | 免费法定财务报告与董事申报 | SVA 官方档案（2021）及免税财务年报；澳大利亚慈善服务社（Australian Philanthropic Services, APS）财务报告；澳大利亚学校加计划（[[Australian Schools Plus\|Schools Plus]], 2021）机构档案与经审计账目。 |
 > | **澳大利亚证券与投资委员会**<br>（ASIC 监管数据集） | 付费调取之企业法人提取报告（Company Extracts）、章程与抵押记录 | SVA 现行及历史企业提取、关联企业提取、公司章程（2021年10月14日调档）；SVA Nominees、SVA Nominees No. 2、Mastery Learning、Newpin 等 4 家子公司法定提取记录；APS 历史提取档案；[[Australian Education Research Organisation\|AERO]] 公司章程、现行与历史提取档案（2021年10月16日调档）。 |
 

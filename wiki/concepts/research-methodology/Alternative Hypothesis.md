@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 # Alternative Hypothesis
 
@@ -124,5 +124,5 @@ updated: 2026-09-17
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — Ch.7 系统介绍备择假设的定义、方向性写作规则和[[Research Writing Script\|写作脚本]]
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — Ch.7 系统介绍备择假设的定义、方向性写作规则和[[Research Writing Script\|写作脚本]]
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al. (2011, Ch.7)]] — 给出备择假设的典型场景示例，并在[[Operationalization\|操作化]]框架中与[[Null Hypothesis\|零假设]]成对讨论

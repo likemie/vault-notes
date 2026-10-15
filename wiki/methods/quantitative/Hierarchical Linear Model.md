@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Hierarchical Linear Model
@@ -90,7 +90,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> **分层线性模型（Hierarchical Linear Model，简称 HLM，在统计学中亦称多层线性模型 Multilevel Linear Model, MLM，或随机效应混合模型 Mixed-Effects Model）**是一种专门用于分析具有多层嵌套（Nested / Clustered）或分层结构数据的参数化回归建模方法。在教育研究中，学生个体（Level 1）天然嵌套于班级或学校（Level 2），同校学生因共享学校师资、校园文化、社区背景或课堂教学而存在内在相似性，违背了传统[[Ordinary Least Squares\|普通最小二乘法]]（OLS）所要求的“误差独立同分布（I.I.D.）”假设。HLM 通过将[[Dependent Variable\|因变量]]的总变异解构为个体层级残差方差与群体层级随机效应方差，不仅能够精确计算**[[Intraclass Correlation Coefficient\|组内相关系数]]（Intraclass Correlation Coefficient, ICC）**并对抽样[[Standard Error\|标准误]]进行彻底校正，还能显式估计宏观组织特征对微观个体产出的跨层级[[Interaction Effect\|调节效应]]（Cross-level Interaction）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]; [[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 8–10)]]
+> **分层线性模型（Hierarchical Linear Model，简称 HLM，在统计学中亦称多层线性模型 Multilevel Linear Model, MLM，或随机效应混合模型 Mixed-Effects Model）** 是一种专门用于分析具有多层嵌套（Nested / Clustered）或分层结构数据的参数化回归建模方法。在教育研究中，学生个体（Level 1）天然嵌套于班级或学校（Level 2），同校学生因共享学校师资、校园文化、社区背景或课堂教学而存在内在相似性，违背了传统[[Ordinary Least Squares\|普通最小二乘法]]（OLS）所要求的“误差独立同分布（I.I.D.）”假设。HLM 通过将[[Dependent Variable\|因变量]]的总变异解构为个体层级残差方差与群体层级随机效应方差，不仅能够精确计算 **[[Intraclass Correlation Coefficient\|组内相关系数]]（Intraclass Correlation Coefficient, ICC）** 并对抽样[[Standard Error\|标准误]]进行彻底校正，还能显式估计宏观组织特征对微观个体产出的跨层级[[Interaction Effect\|调节效应]]（Cross-level Interaction）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]; [[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 8–10)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 具有两层或三层嵌套结构的数据（如“学生-班级-学校”、“重复测量时间点-个体受试者”、“初级[[Effect Size\|效应量]]-初级研究”）。
@@ -278,8 +278,8 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 详述了杜伦大学齐·肖（ZhiMin Xiao）等学者对 17 项 [[Education Endowment Foundation\|EEF]] 试验开展的多层线性模型并行审计，证明了 HLM 在校正学校与班级集群效应中的不可替代性，直接倒逼出台了英国国家级试验《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详述了杜伦大学齐·肖（ZhiMin Xiao）等学者对 17 项 [[Education Endowment Foundation\|EEF]] 试验开展的多层线性模型并行审计，证明了 HLM 在校正学校与班级集群效应中的不可替代性，直接倒逼出台了英国国家级试验《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 批评了[[International Education\|国际教育]]证据清算机构忽视[[Cluster Randomized Trials\|集群随机试验]]中的 HLM 与 [[Intraclass Correlation Coefficient\|ICC]] 校正，指出未做多层校正会导致[[Standard Error\|标准误]]严重低估与虚假显著性。
-> - [[Argument_Song_Choi_2026_FPSYG\|Song & Choi (2026)]] — 运用三层多层线性模型架构将[[Meta-analysis\|元分析]]总变异分解为[[Sampling Error\|抽样误差]]、研究内[[Effect Size\|效应量]]变异与[[Heterogeneity\|研究间异质性]]三层方差。
+> - [[Argument_Song_Choi_2026_FPSYG\|Song and Choi (2026)]] — 运用三层多层线性模型架构将[[Meta-analysis\|元分析]]总变异分解为[[Sampling Error\|抽样误差]]、研究内[[Effect Size\|效应量]]变异与[[Heterogeneity\|研究间异质性]]三层方差。
 > - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 论证学校层级干预必须强制采用 HLM 进行[[Cluster Analysis\|聚类分析]]，阐明纳入 40–50 所学校的多层试验在消除聚类假阳性（[[Internal Validity\|内部效度]]）的同时大幅平滑了单个学校异质性（[[External Validity\|外部效度]]）。
 

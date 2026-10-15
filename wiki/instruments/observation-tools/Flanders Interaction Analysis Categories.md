@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Flanders Interaction Analysis Categories
@@ -169,7 +169,7 @@ FIAC 生成的互动数据可通过 10×10 矩阵计算核心教学指标：
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 20–21)]] | 英文原始版 | 援引 Walker & Adelman (1975) 英国中学作文课案例（草莓事件），考察编码员对师生言语的记录效度 | 表面编码[[Reliability\|信度]]极高，但[[Ecological Validity\|生态效度]]与[[Construct Validity\|构念效度]]因忽略情境[[Indexicality\|索引性]]而破产 | 7-4-9-10 编码序列无法解释全班哄堂大笑与亲密默契，证实机械分类对课堂情境知识的系统误读 |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 20–21)]] | 英文原始版 | 援引 Walker and Adelman (1975) 英国中学作文课案例（草莓事件），考察编码员对师生言语的记录效度 | 表面编码[[Reliability\|信度]]极高，但[[Ecological Validity\|生态效度]]与[[Construct Validity\|构念效度]]因忽略情境[[Indexicality\|索引性]]而破产 | 7-4-9-10 编码序列无法解释全班哄堂大笑与亲密默契，证实机械分类对课堂情境知识的系统误读 |
 > | [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015, Ch. 3)]] | 中文教材介绍版 | [[Classroom Observation\|课堂教学观察]]方法与教育研究方法教学 | 详细界定 10 个互斥类别的判定标准与 10×10 互动矩阵分析技术 | 提供师生[[Discourse\|话语]]比、I/D 比、积极与消极言语比等系列定量诊断公式 |
 
 ---

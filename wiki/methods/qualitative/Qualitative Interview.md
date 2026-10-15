@@ -59,7 +59,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Qualitative Interview
@@ -166,14 +166,14 @@ Kvale（1996, p. 88）提出访谈调查的七个阶段（[[Argument_Cohen_Manio
 > [!info] 访谈实施要点（pp. 435–445）
 > - **引导程度** Whyte（1982）分为六级：发出鼓励声音→反映受访者的话→追问最后一句话→追问前一想法→追问更早期想法→引入新话题
 > - **质量指标** Kvale（1996, p. 145）：自发丰富具体的回答；访谈者问题短、受访者回答长；跟进澄清含义；全程持续解释；过程中验证解释；自我沟通
-> - **操作要点** Arksey & Knight（1999, p. 53）：表现兴趣、遵循提纲、避免赞同反对信号、准备重复、无刺激转向、核验理解、感谢追问
+> - **操作要点** Arksey and Knight（1999, p. 53）：表现兴趣、遵循提纲、避免赞同反对信号、准备重复、无刺激转向、核验理解、感谢追问
 > - **文化维度** Miltiades（2008）：在某些文化中延伸家庭成员积极参与访谈，自我是"我们—自我"（we-self）而非"我—自我"
 
 > [!info] 转录的挑战（pp. 445–447）
 > 转录是从口头和人际系统到书面语言系统的选择性转换，不存在唯一准确的版本。应记录语调、抑扬变化、强调、暂停和沉默、打断、情绪、语速、同时说话人数、连续或短句、谁在对谁说话、无法辨认的言语、同期事件及非语言沟通。
 
 > [!info] 数据分析与伦理
-> 数据分析可采用 Miles & Huberman（1994）的 12 种策略、Brenner et al.（1985）的 13 步内容分析或 Hycner（1985）的 15 步现象学分析，详见 编码 和 [[Phenomenology\|现象学]] 条目。伦理维度贯穿七阶段全过程，关键问题包括[[Informed Consent\|知情同意]]、保密性、匿名性、数据所有权、否决权和访谈者人身安全（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 476–477]]）。
+> 数据分析可采用 Miles and Huberman（1994）的 12 种策略、Brenner et al.（1985）的 13 步内容分析或 Hycner（1985）的 15 步现象学分析，详见 编码 和 [[Phenomenology\|现象学]] 条目。伦理维度贯穿七阶段全过程，关键问题包括[[Informed Consent\|知情同意]]、保密性、匿名性、数据所有权、否决权和访谈者人身安全（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 476–477]]）。
 
 ---
 
@@ -215,7 +215,7 @@ Kvale（1996, p. 88）提出访谈调查的七个阶段（[[Argument_Cohen_Manio
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 系统介绍[[Interview Protocol\|访谈协议]]、追问策略和质性访谈实施要点。
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 系统介绍[[Interview Protocol\|访谈协议]]、追问策略和质性访谈实施要点。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al. (2011, Ch. 21)]] — 全面覆盖访谈类型、规划、实施、分析及伦理。
 > - [[Argument_ODwyer_Filieri_OMalley_2023_JTT\|ODwyer et al. (2023)]] — [[University-Industry Collaboration\|产学合作]]网络演化，10 次[[Semi-structured Interview\|半结构化访谈]]，10 家跨国企业 + 8 所学术机构。
 >

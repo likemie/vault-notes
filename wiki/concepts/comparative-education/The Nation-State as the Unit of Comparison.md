@@ -76,7 +76,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **民族国家作为比较单位（The Nation-State as the Unit of Comparison）**是指跨国比较教育研究中将拥有法定主权管辖权、明确地缘政治疆域及相对同质文化传统的民族国家（Nation-State），及其自上而下统辖的国民教育体系（National System of Education），设定为最具自足性与合法性的首要[[Epistemology\|认识论]]分析基准（Epistemic Unit of Comparative Study）。该概念假定各国的学校形态与教育政策是该民族国家主权意志、集体历史斗争与[[National Character\|国民性格]]的外在体现；跨国比较研究的核心任务，即在于以民族国家为“认知集装箱”，系统解释不同国家教育体系何以演化出各自的独特相貌，并横向比较各国应对共同现代性危机的制度方案。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 40, 47–48)]]
+> **民族国家作为比较单位（The Nation-State as the Unit of Comparison）** 是指跨国比较教育研究中将拥有法定主权管辖权、明确地缘政治疆域及相对同质文化传统的民族国家（Nation-State），及其自上而下统辖的国民教育体系（National System of Education），设定为最具自足性与合法性的首要[[Epistemology\|认识论]]分析基准（Epistemic Unit of Comparative Study）。该概念假定各国的学校形态与教育政策是该民族国家主权意志、集体历史斗争与[[National Character\|国民性格]]的外在体现；跨国比较研究的核心任务，即在于以民族国家为“认知集装箱”，系统解释不同国家教育体系何以演化出各自的独特相貌，并横向比较各国应对共同现代性危机的制度方案。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 40, 47–48)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向比较教育研究在空间维度上的边界设定与认识论锚点，将世界结构化为离散、主权独立且内部具有[[Institutional Isomorphism\|制度同构]]性的民族国家集合体。
@@ -103,7 +103,7 @@ updated: 2026-10-16
 > | **空间假设** | 领土边界封闭自足、主权单一明晰的容器空间 | 地理、人口与行政层级纵横嵌套的多维立体空间 | 流动、去地域化、非均质的全球政策[[Topological Spatialisation\|拓扑空间]] |
 > | **核心机制** | 国家意志对国民教育体系的制度立法与文化整合 | 宏观国家政策与微观学校课堂之间的层级中介与互动 | 全球政策议程的跨国借用、转译、突变与地方再[[Going Native\|本土化]] |
 > | **解释优势** | 极强地解释现代国家政权建设、法制演进与地缘竞争 | 精确诊断同一国家内部地区、学校与阶层间的结构[[Heterogeneity\|异质性]] | 捕捉超国家组织软法治理与跨国资本对教育主权的重塑 |
-> | **典型代表** | [[Michael Sadler\|Sadler]] (1900); [[Isaac Kandel\|Kandel]] (1933); [[Nicholas Hans\|Hans]] (1949) | Bray & Thomas (1995); Manzon (2011) | Dale (2000); [[Robert Cowen\|Cowen]] (2009a, 2023); Nóvoa (2002) |
+> | **典型代表** | [[Michael Sadler\|Sadler]] (1900); [[Isaac Kandel\|Kandel]] (1933); [[Nicholas Hans\|Hans]] (1949) | Bray and Thomas (1995); Manzon (2011) | Dale (2000); [[Robert Cowen\|Cowen]] (2009a, 2023); Nóvoa (2002) |
 
 ---
 

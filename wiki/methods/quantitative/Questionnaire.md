@@ -59,7 +59,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-07-20
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Questionnaire
 
@@ -153,7 +153,7 @@ updated: 2026-10-15
 > - **第二步：识别并列举附属议题** 围绕核心目的拆解子议题。例如在职教育的附属议题包括课程类型、课程内容、课程地点、课程时间安排、课程设计和课程经费（pp. 108–109）。
 > - **第三步：制定每个附属议题的具体信息需求** 进一步操作化为可收集数据的具体特征。例如课程类型需要知道持续时间、课程地位和课程取向（p. 109）。
 
-> [!chain-link] Wilson & McLean（1994, pp. 8–9）的替代操作化路径
+> [!chain-link] Wilson and McLean（1994, pp. 8–9）的替代操作化路径
 > - **识别[[Research Question\|研究问题]]** 明确要回答的核心问题。
 > - **澄清相关概念或构念** 界定研究中涉及的关键概念。
 > - **识别经验指标** 找出这些概念的可测量指标（如存在性、强度、主要特征和维度、关键要素等）。
@@ -294,7 +294,7 @@ updated: 2026-10-15
 > [!concept-lens] 敏感性判断的主体
 > 什么是[[Sensitive Questions\|敏感问题]]不能由研究者单方决定；对研究者看似无害的事项可能对参与者高度敏感或具有冒犯性。
 
-> [!claim] Sudman & Bradburn（1982）
+> [!claim] Sudman and Bradburn（1982）
 > **预期偏差** 随着问题变得更加威胁和敏感，应预期更大的偏差和不可靠性。敏感性和威胁必须通过受访者的眼睛来看待，对研究者看似无害的事项可能对参与者高度敏感（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al., 2011, Ch20, p. 156]]）。
 
 ---
@@ -307,7 +307,7 @@ updated: 2026-10-15
 > | **设计与分析耦合** | 问卷设计须以数据分析为起点 | 所有问卷研究，尤其是量化取向 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al. (2011, Ch20, p. 110)]] |
 > | **心理顺序优先** | 问卷逻辑须服从受访者心理体验 | 敏感话题、长问卷设计 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al. (2011, Ch20, pp. 165–167)]]; Oppenheim（1992） |
 > | **伦理即严谨** | 技术质量与伦理责任不可分离 | 所有涉及人类受试者的研究 | Morrison（1996b） |
-> | **敏感性判断** | 敏感与否须从受访者视角评估 | 涉及个人隐私、弱势群体的研究 | Sudman & Bradburn（1982） |
+> | **敏感性判断** | 敏感与否须从受访者视角评估 | 涉及个人隐私、弱势群体的研究 | Sudman and Bradburn（1982） |
 
 ---
 
@@ -358,4 +358,4 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al.（2011, Ch20）]] — 系统介绍问卷设计的全流程：从伦理议题到规划[[Operationalization\|操作化]]、题型选择、[[Sensitive Questions\|敏感问题]]、[[Questionnaire Wording\|措辞陷阱]]、排序、布局、[[Covering Letter\|封面信]]、[[Pilot Testing\|预测试]]、施测和数据处理。提供了十七项[[Rating Scale\|评定量表]]使用警示和十八项预测试检查清单。
-> - [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] — 编制四因素 14 题的基线问卷，经[[Pilot Testing\|预测试]]检验[[Face Validity\|表面效度]]与[[Construct Validity\|结构效度]]后以 Survey Monkey 在线施测，用于在干预前刻画英格兰 79 所小学 696 名实践者的[[Evidence-Informed Practice\|证据知情实践]]准备状态。
+> - [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] — 编制四因素 14 题的基线问卷，经[[Pilot Testing\|预测试]]检验[[Face Validity\|表面效度]]与[[Construct Validity\|结构效度]]后以 Survey Monkey 在线施测，用于在干预前刻画英格兰 79 所小学 696 名实践者的[[Evidence-Informed Practice\|证据知情实践]]准备状态。

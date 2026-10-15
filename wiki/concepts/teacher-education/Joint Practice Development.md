@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Joint Practice Development
@@ -160,7 +160,7 @@ updated: 2026-10-15
 > 专业学习共同体（PLC）若缺乏正式的 JPD 机制，极易退化为脱离实际的宏观议论或情感支持团体；唯有依托 JPD 建立协作测试与微调的制度系统，外部科学证据与探究数据才能真正介入常态化教学行为（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 125]]）。
 >
 > > [!warrant]- 理论推导与经验依据
-> > [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]]在对 79 所小学 696 名教育者的调查中发现，虽然绝大多数教师认同研究的重要价值，但若学校缺乏让教师结伴开展试验的结构化支持，[[Research Utilization\|证据使用]]便会中断在认知层面。JPD（以[[Lesson Study\|课例研究]]为代表）为教师提供了将抽象研究结论（如反馈策略、[[Metacognition\|元认知]]支架）转化为具体课堂提问与活动步骤的安全试验场。
+> > [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]]在对 79 所小学 696 名教育者的调查中发现，虽然绝大多数教师认同研究的重要价值，但若学校缺乏让教师结伴开展试验的结构化支持，[[Research Utilization\|证据使用]]便会中断在认知层面。JPD（以[[Lesson Study\|课例研究]]为代表）为教师提供了将抽象研究结论（如反馈策略、[[Metacognition\|元认知]]支架）转化为具体课堂提问与活动步骤的安全试验场。
 
 ---
 
@@ -200,7 +200,7 @@ updated: 2026-10-15
 > > 探讨在日常繁重的日常备课批改与督导问责下，高成本的 JPD 是否具有制度可行性。
 > >
 > > - **效益主张者** 只有深入课堂的 JPD 才能带来长效根本改变，表层培训虽省时但零产出，反而浪费教育资源。
-> > - **现实约束批判** [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] 与 Gu et al.（2015）明确指出，在缺乏课时减免与专项经费支持的普通学校，高强度的课例研讨与同行互观给教师造成了不可持续的工作量负荷（Unsustainable workload）。
+> > - **现实约束批判** [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] 与 Gu et al.（2015）明确指出，在缺乏课时减免与专项经费支持的普通学校，高强度的课例研讨与同行互观给教师造成了不可持续的工作量负荷（Unsustainable workload）。
 
 > [!warning] 实施中的误区与警示
 > - **异化为行政查课与绩效考核** 随堂听课一旦与教师评优、[[Performance Pay\|绩效工资]]或督导迎检挂钩，[[Peer-Supported Learning\|同伴互助]]便瞬间蜕变为同行监控，阻断真正的问题暴露与专业互信。
@@ -211,7 +211,7 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - **[[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]]** 实证检验英格兰 79 所小学证据利用准备度，确立 JPD 与[[Lesson Study\|课例研究]]作为 [[Professional Learning Community\|PLC]] 在微观课堂中[[Operationalization\|操作化]]转译证据、规避[[Activity Traps\|活动陷阱]]的核心载体。
+> - **[[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]]** 实证检验英格兰 79 所小学证据利用准备度，确立 JPD 与[[Lesson Study\|课例研究]]作为 [[Professional Learning Community\|PLC]] 在微观课堂中[[Operationalization\|操作化]]转译证据、规避[[Activity Traps\|活动陷阱]]的核心载体。
 > - **Sebba et al. (2012)** 为英格兰国家[[School Leadership\|学校领导力]]学院撰写指南，系统界定 JPD 的领导力推进原则、组织流程与评估标准。
 > - **Fielding et al. (2005)** 奠定 JPD [[Construct\|构念]]的里程碑报告，通过多案例实证揭示“优秀实践转移”模型的内在缺陷与 JPD 的替代优势。
 

@@ -52,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-28
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Liliana Esther Olmos
@@ -110,7 +110,7 @@ updated: 2026-10-15
 > - **区域研究路径** 深化了拉美[[Critical Pedagogy|批判教育学]]与成人扫盲运动对[[State Corporatism|国家法团主义]]（[[State Corporatism]]）机制的警惕，促使研究者直面双轨教育不平等背后的结构性阶级压迫。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 系统阐明马克思主义国家理论、受限国家与新自由主义全球化对比较教育扩张研究的核心解释力。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 系统阐明马克思主义国家理论、受限国家与新自由主义全球化对比较教育扩张研究的核心解释力。
 
 ---
 

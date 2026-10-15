@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # 2014 Open Letter on PISA
@@ -176,5 +176,5 @@ updated: 2026-10-15
 > | [[Mediatised Governance]] | Concept | 公开信揭露并试图瓦解的由政治危机修辞与媒体狂热合谋的治理形态。 |
 > | [[Academic Achievement]] | Concept | 公开信坚决反对 PISA 将学业成就窄化为单一标准分数与跨国排名的还原论做法。 |
 > | [[Test-Based Accountability]] | Concept | 公开信批判的核心体制机制，指出基于测试的高压问责严重损害师生福祉。 |
-> | [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] | Argument | 记录并高度评价 2014 年公开信作为后 PISA 2012 周期唯一实质性反思事件的核心文献。 |
+> | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | Argument | 记录并高度评价 2014 年公开信作为后 PISA 2012 周期唯一实质性反思事件的核心文献。 |
 > | [[Argument_Zhao_2020_JEC\|Zhao (2020)]] | Argument | 援引 2014 年公开信深入论证全球批判 PISA 历史困境与教育学本质的综合文献。 |

@@ -54,7 +54,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-27
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Education Sciences Reform Act 2002
@@ -169,7 +169,7 @@ updated: 2026-10-15
 > > [!axis] 立法标准的包容性与行政执行的[[Pragmatism in China|实验主义]]专断
 > > 争论 ESRA 的法定宽泛定义能否在行政资助实践中得到实质性落实。
 > >
-> > - **[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne (2003)]]** 指出法案文本吸纳了学者社群的质证建议，实现了向[[Postpositivism|后实证主义]]科学观的重要拓宽；但教育部战略规划与 [[Institute of Education Sciences|IES]] 的首期拨款仍然高度向随机实验倾斜，学界必须持续参与审议以防政策被窄化收拢。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–37)]]
+> > - **[[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003)]]** 指出法案文本吸纳了学者社群的质证建议，实现了向[[Postpositivism|后实证主义]]科学观的重要拓宽；但教育部战略规划与 [[Institute of Education Sciences|IES]] 的首期拨款仍然高度向随机实验倾斜，学界必须持续参与审议以防政策被窄化收拢。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–37)]]
 > > - **[[Positivism|实证主义]]阵营（[[Argument_Slavin_2002_ER|Slavin, 2002]]）** 坚定支持通过联邦立法建立高门槛实证标准，认为唯有依赖严谨实验证据才能扭转教育研究长期公信力不足的局面。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 31)]]
 >
 > > [!axis] 科学共同体自治与国家立法行政干预的界限

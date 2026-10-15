@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Bill & Melinda Gates Foundation
@@ -134,6 +134,6 @@ updated: 2026-10-15
 > | [[Achieve]] | 智库机构 | 长期获得基金会核心战略资助的技术智库与操盘实体。 |
 > | [[The Education Trust]] | 智库机构 | 接受基金会资助并代表弱势学生推动教育公平倡导的民权智库。 |
 > | [[Hunt Institute]] | 智库机构 | 接受基金会资助并负责全美每周推进策略同步会议的协调平台。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证文献 | 详细披露盖茨基金会 8,900 万美元跨界网络资助规模与政治功能的研究。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 详细披露盖茨基金会 8,900 万美元跨界网络资助规模与政治功能的研究。 |
 
 ---

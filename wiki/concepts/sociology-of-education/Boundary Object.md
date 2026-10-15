@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-31
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Boundary Object
@@ -51,7 +51,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 边界对象（Boundary Object）是由科学社会学家 Susan Leigh Star 与 James R. Griesemer 于 1989 年提出的概念，指那些既具备足够的**情境可塑性（Plasticity）**以适应不同群体或学科共同体的局部需求与约束，又具备足够的**结构鲁棒性（Robustness）**以跨越边界维持共有身份认同的[[Artefact\|人工制品]]、符号工具、规范协议或数字化界面。在教育技术与高等教育研究中，[[Generative Artificial Intelligence\|生成式人工智能]]（如 ChatGPT）被概念化为一种高度灵活的数字化边界对象，既作为标准化学术规范的转化节点，又作为支持学生跨学科探索与个性化表达的连接中介（[[Argument_Li_2026_CEAI\|Li et al., 2026, pp. 3, 11]]）。
+> 边界对象（Boundary Object）是由科学社会学家 Susan Leigh Star 与 James R. Griesemer 于 1989 年提出的概念，指那些既具备足够的**情境可塑性（Plasticity）** 以适应不同群体或学科共同体的局部需求与约束，又具备足够的**结构鲁棒性（Robustness）** 以跨越边界维持共有身份认同的[[Artefact\|人工制品]]、符号工具、规范协议或数字化界面。在教育技术与高等教育研究中，[[Generative Artificial Intelligence\|生成式人工智能]]（如 ChatGPT）被概念化为一种高度灵活的数字化边界对象，既作为标准化学术规范的转化节点，又作为支持学生跨学科探索与个性化表达的连接中介（[[Argument_Li_2026_CEAI\|Li et al., 2026, pp. 3, 11]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 跨越不同[[Communities of Practice|实践共同体]]、[[Areas of Knowledge\|知识领域]]或人机界面的中介媒介，在维持整体连贯性的同时允许局部差异化诠释。
@@ -134,7 +134,7 @@ updated: 2026-10-07
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **跨界连接中介** | 数字化工具作为边界对象中介跨学科概念转化与体裁重构 | 跨学科探究、学术英语写作与项目式设计 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; Star & Griesemer (1989) |
+> | **跨界连接中介** | 数字化工具作为边界对象中介跨学科概念转化与体裁重构 | 跨学科探究、学术英语写作与项目式设计 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; Star and Griesemer (1989) |
 > | **活动系统规则约束** | 边界对象的认知收益取决于人机劳动分工与反思评价规则 | 课程设计、人机协作评估与教学规制建设 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; Engeström (1987) |
 
 ---

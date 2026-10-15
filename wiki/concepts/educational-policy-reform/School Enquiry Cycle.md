@@ -75,7 +75,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # School Enquiry Cycle
@@ -164,7 +164,7 @@ updated: 2026-10-15
 > [!concept-lens] 诊断力与干预力的结构性互补
 > 数据能指出“哪里出了问题”，研究能提供“如何解决问题”，二者唯有在[[Inquiry Cycle\|探究循环]]中融合才能产生实质教学效益。
 
-> [!claim] [[Argument_Brown_2017_ER\|Brown et al. (2017)]] / [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]]
+> [!claim] [[Argument_Brown_2017_ER\|Brown et al. (2017)]] / [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]]
 > **双轮驱动与有效改进闭环** 长期以来，学校改进面临两大孤立陷阱：一方面，单纯推行 [[Data-Based Decision Making\|DBDM]] 的学校沉迷于制作成绩报表与差距分析，但由于缺乏对外部[[Effective Teaching\|有效教学]]规律的了解，教师往往只能靠拍脑袋提出干预措施；另一方面，孤立推行 [[Research-Informed Teaching Practice\|RITP]] 的学校研读大量理论文献，却因未精准锚定本校真实学情而沦为盲目套用。学校探究循环确立了内部数据与外部研究的协同机制：以校本数据为问题靶向，以学术实证为干预武器，使数据诊断与科学干预在同一工作流中形成严密的逻辑闭环。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 154–156, 165–167)]]
 
 ---
@@ -174,7 +174,7 @@ updated: 2026-10-15
 > [!concept-lens] 中介领导力与[[Professional Learning Community\|专业学习共同体]]的组织赋能
 > 探究循环无法靠普通教师自发完成，需要中层领导搭建制度化[[Scaffolding\|脚手架]]与心理安全环境。
 
-> [!claim] Danielle LaPointe-McEwan et al. (2017) / [[Argument_Brown_2017_ER\|Brown et al. (2017)]] / [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]]
+> [!claim] Danielle LaPointe-McEwan et al. (2017) / [[Argument_Brown_2017_ER\|Brown et al. (2017)]] / [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]]
 > **中层领导作为探究催化者** 学校探究循环的推行门槛较高，涉及数据解读、文献批判与教学试验等多重素养。中层领导（如年级组长、教研室主任、教学指导员）是激活探究循环的关键枢纽。他们一方面担任[[Boundary Spanner\|跨界中介者]]，为一线教师提供文献筛选与数据分析的专业支持；另一方面建立定期研讨制度与容错机制，将教师从单兵作战的孤岛状态转变为彼此信赖的探究共同体。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 129–130)]]
 
 ---
@@ -184,7 +184,7 @@ updated: 2026-10-15
 > [!concept-lens] 抵御照搬脚本与捍卫情境敏感性
 > 研究证据不能直接作为操作指令，必须经过教师专业审议的情境化过滤。
 
-> [!claim] Jonathan Sharples (2013) / [[Argument_Brown_2017_ER\|Brown et al. (2017)]] / [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]]
+> [!claim] Jonathan Sharples (2013) / [[Argument_Brown_2017_ER\|Brown et al. (2017)]] / [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]]
 > **专业审议作为转译核心** 学校探究循环决非机械照搬研究结论的执行程序。外部[[Experimental Research\|实验研究]]所验证的干预措施只代表统计意义上的概率性规律，并不自动适用于所有班级。在探究循环的情境化设计阶段，教师必须结合班级师生特质、课程进度与文化背景，对研究方案的适用边界、干预强度与实施方式进行审慎权衡与二次开发，确保教学行动兼具科学严谨性与情境生命力。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 165–167)]]
 
 ---
@@ -194,7 +194,7 @@ updated: 2026-10-15
 > [!concept-lens] 评价闭环机制与抵御[[Activity Traps\|活动陷阱]]
 > 若探究循环缺乏严格的成效评价协议，频繁的教学尝试将不可避免地退化为忙碌而无效的“活动陷阱”。
 
-> [!claim] [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]]; Datnow, A. & Hubbard, L.; Taylor, C. & Spence-Thomas, K.
+> [!claim] [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]]; Datnow, A. & Hubbard, L.; Taylor, C. & Spence-Thomas, K.
 > **评价断裂与持续改进危机** 探究循环的核心价值在于通过终点阶段的严格成效评价，决定一项新型教学干预是被深化微调、全面铺开还是坚决终止。然而实证调查表明，学校在探究前端展现出极高热情，但在最关键的“评价新举措对学生学习与体验的实质影响”（Evaluation Stage）时却出现明显的制度性断裂（基线调查中仅 67% 的教师确认学校具备正式评价流程，显著低于其他环节）。若教师不严格评估教学变动对学生真实产出的影响，整个持续改进循环就会失控，极易沦为只注重开会和尝试新方法、却缺乏因果反馈机制的[[Activity Traps\|活动陷阱]]。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 130, 132)]]
 
 ---
@@ -206,8 +206,8 @@ updated: 2026-10-15
 > |---|---|---|---|
 > | **系统互补命题** | 阐明 DBDM 诊断与 RITP 实证干预在探究循环中的双轮闭环机制 | 校本教研改革、学校诊断改进、循证教学设计 | [[Argument_Brown_2017_ER\|Brown et al. (2017)]]; [[Julie Nelson\|Nelson]] 等 |
 > | **组织领导命题** | 论证中层领导与协作网络对维持探究循环运作的决定性支撑功能 | 专业学习共同体（PLC）建设、中层领导力培训 | LaPointe-McEwan 等 (2017); [[Carol Campbell\|Campbell]] 等 |
-> | **专业审议命题** | 强调教师[[Professional Judgment\|专业判断]]在探究循环方案情境化改编中的枢纽地位 | 循证策略本地化转译、反对脚本化教学倡导 | [[Jonathan Sharples]] (2013); [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] |
-> | **评价防陷命题** | 揭示评价环节缺失导致探究循环断裂并滑入[[Activity Traps\|活动陷阱]]的组织病理 | 探究循环终期评估、循证干预退出机制设计 | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]]; Datnow & Hubbard (2015) |
+> | **专业审议命题** | 强调教师[[Professional Judgment\|专业判断]]在探究循环方案情境化改编中的枢纽地位 | 循证策略本地化转译、反对脚本化教学倡导 | [[Jonathan Sharples]] (2013); [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] |
+> | **评价防陷命题** | 揭示评价环节缺失导致探究循环断裂并滑入[[Activity Traps\|活动陷阱]]的组织病理 | 探究循环终期评估、循证干预退出机制设计 | [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]]; Datnow and Hubbard (2015) |
 
 ---
 
@@ -217,7 +217,7 @@ updated: 2026-10-15
 > - **2000s — 数据驱动决策（[[Data-Based Decision Making\|DBDM]]）的兴起与瓶颈** 伴随欧美教育问责制，学校广泛开展数据驱动分析，但很快遭遇“知道问题却缺乏解决工具”的实践困境。
 > - **2010s — 循证教学与外部证据转译探索** 英国 [[Education Endowment Foundation\|EEF]] 等机构大量推出循证工具包，但一线学校面临“文献丰富却缺乏校本针对性”的新挑战。
 > - **2017 — 特刊提出整合性学校探究循环** [[Argument_Brown_2017_ER\|Brown et al. (2017)]] 在《Educational Research》特刊发表奠基性论文，正式提出将内部 DBDM 与外部 [[Research-Informed Teaching Practice\|RITP]] 整合为“证据知情学校与教师改进”（ESTI）八步探究循环，并在英格兰与荷兰学校广泛实验。
-> - **2018 — [[Self-Improving School System\|SISS]] 实证基线诊断与评价环节断裂预警** [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] 在英格兰 79 所小学的实证调查中，将探究循环（Cycles of Inquiry）明确定位为自我改进学校系统中贯通 [[Professional Learning Community\|PLC]] 与 [[Joint Practice Development\|JPD]] 的核心运作引擎；同时实证诊断出探究循环存在“前端尝试活跃（82%）但末端成效评价缺失（仅 67% 具备正式评价机制）”的制度性短板，揭示了探究规程缺位诱发[[Activity Traps\|活动陷阱]]的病理机制。
+> - **2018 — [[Self-Improving School System\|SISS]] 实证基线诊断与评价环节断裂预警** [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] 在英格兰 79 所小学的实证调查中，将探究循环（Cycles of Inquiry）明确定位为自我改进学校系统中贯通 [[Professional Learning Community\|PLC]] 与 [[Joint Practice Development\|JPD]] 的核心运作引擎；同时实证诊断出探究循环存在“前端尝试活跃（82%）但末端成效评价缺失（仅 67% 具备正式评价机制）”的制度性短板，揭示了探究规程缺位诱发[[Activity Traps\|活动陷阱]]的病理机制。
 > - **2020s — 网络化探究共同体（NICs）与全系统融合** 学校探究循环进一步与卡内基网络化改进共同体（NICs）及全系统[[Knowledge Mobilisation\|知识动员]]战略相结合，成为跨校教研与循证督导的标准模型。
 
 ---
@@ -281,6 +281,6 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Brown_2017_ER\|Brown et al. (2017)]] — 奠基性论文，提出整合 [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 的“证据知情学校与教师改进”（ESTI）八步探究模型与理论框架。
-> - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 系统评述 Brown 等的学校[[Inquiry Cycle\|探究循环模型]]，确立其在多源[[Evidence-Informed Practice\|证据知情实践]]中的核心操作地位。
-> - [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] — 在英格兰 79 所小学调查中实证诊断探究循环的四因素支撑生态，揭示末端评价环节（67%）的制度性断裂与诱发[[Activity Traps\|活动陷阱]]的内在机制。
+> - [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] — 系统评述 Brown 等的学校[[Inquiry Cycle\|探究循环模型]]，确立其在多源[[Evidence-Informed Practice\|证据知情实践]]中的核心操作地位。
+> - [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] — 在英格兰 79 所小学调查中实证诊断探究循环的四因素支撑生态，揭示末端评价环节（67%）的制度性断裂与诱发[[Activity Traps\|活动陷阱]]的内在机制。
 > - LaPointe-McEwan, DeLuca, & Klinger (2017) — 研究中层领导在构建证据知情协作探究文化中的促进机制。

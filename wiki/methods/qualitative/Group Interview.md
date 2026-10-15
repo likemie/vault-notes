@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Group Interview
@@ -43,7 +43,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> 小组访谈（Group Interview）是一种同时访谈多位受访者的数据收集方法。与[[Focus Group\|焦点小组]]依赖小组内部互动不同，小组访谈的核心仍是访谈者与受访者之间的互动，但通过汇集多人产生讨论，从而获得比个别访谈更广泛的回应范围。Watts & Ebbutt（1987）指出，小组访谈在群体成员已共同工作一段时间或有共同目的时特别有用，或当确保每个人都知道群体中其他人在说什么被认为重要时（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 455–457]]）。
+> 小组访谈（Group Interview）是一种同时访谈多位受访者的数据收集方法。与[[Focus Group\|焦点小组]]依赖小组内部互动不同，小组访谈的核心仍是访谈者与受访者之间的互动，但通过汇集多人产生讨论，从而获得比个别访谈更广泛的回应范围。Watts and Ebbutt（1987）指出，小组访谈在群体成员已共同工作一段时间或有共同目的时特别有用，或当确保每个人都知道群体中其他人在说什么被认为重要时（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 455–457]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 群体成员的观点、互动模式以及他们在群体环境中如何相互支持、影响、补充、同意和不同意。

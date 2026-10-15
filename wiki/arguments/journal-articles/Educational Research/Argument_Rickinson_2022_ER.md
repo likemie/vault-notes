@@ -254,9 +254,9 @@ issuing_organization: ""
 
 > [!quad-grid] 四大实践领域系统动态性与非线性演化的理论透镜（pp. 139–140）
 > - **卫生保健领域**<br>将证据使用重构为动态演进过程（Adams & Titler, 2013; Ward et al., 2010）；经典框架突出行动者、证据与情境的多维互动（Ellen et al., 2011; Kitson et al., 1998）；依托[[Dynamic Sustainability Framework\|动态可持续性框架]]（Chambers et al., 2013; Chambers & Norton, 2016），强调干预措施的长期适应性调整，指出实施本质上是持续学习、[[Problem Solving\|问题解决]]与情境调适。
-> - **社会关照领域**<br>指出证据使用应当内化为专业系统内生演进的日常实践（Avby et al., 2014）；Ghate & Hood (2019) 提出深远论断，强调社会关照中必须是在实践中动员证据（mobilise evidence in practice），而非单纯将证据移入实践（moving evidence into practice），证据不能成为附加程序。
+> - **社会关照领域**<br>指出证据使用应当内化为专业系统内生演进的日常实践（Avby et al., 2014）；Ghate and Hood (2019) 提出深远论断，强调社会关照中必须是在实践中动员证据（mobilise evidence in practice），而非单纯将证据移入实践（moving evidence into practice），证据不能成为附加程序。
 > - **教育实践领域**<br>聚焦跨越教育系统的结构性联动，包括职前教育内置[[Research Literacy\|研究素养]]培训、改进准入标准证据要求；[[Education Endowment Foundation\|教育捐赠基金会]]（EEF, 2019）、[[British Educational Research Association\|英国教育研究协会]]（BERA, 2014）、Coldwell et al. (2017)、Tripney et al. (2018)、Farley-Ripple et al. (2018)、Park (2018) 与 Sharples (2013) 明确倡导将研究利用确立为战略优先事项。
-> - **公共政策领域**<br>关注证据利用的问责制、透明度与程序可争辩性；结合[[Justin Parkhurst\|贾斯汀·帕克赫斯特]]（Parkhurst, 2017）的[[Good Governance of Evidence\|证据良好治理]]理论，Boswell (2014) 与 Rutter & Gold (2015) 强调，证据使用的质量并不取决于政策环境最终产出何种特定结果，而取决于决策做出并付诸实施的制度化程序是否正当健全。
+> - **公共政策领域**<br>关注证据利用的问责制、透明度与程序可争辩性；结合[[Justin Parkhurst\|贾斯汀·帕克赫斯特]]（Parkhurst, 2017）的[[Good Governance of Evidence\|证据良好治理]]理论，Boswell (2014) 与 Rutter and Gold (2015) 强调，证据使用的质量并不取决于政策环境最终产出何种特定结果，而取决于决策做出并付诸实施的制度化程序是否正当健全。
 
 跨领域的经验证据表明，单纯依赖个体技能培训或中心化单向学术推送必然遭遇瓶颈；唯有将专业主体的能动裁量与多层组织系统的制度保障有机统合，方能从根本上破除线性转移偏误。
 
@@ -299,11 +299,11 @@ issuing_organization: ""
 > | **适切研究证据（Appropriate Evidence）**<br>（双核心构件） | **用什么（What）**<br>证据质量与情境适配 | 强调证据质量的情境特异性。从使用视角出发，优质研究不仅需具备方法学严谨性，更须契合具体的教育问题、学校现场情境与预期实践用途，兼顾[[Internal Validity\|内部效度]]与实践适用。 | Nutley et al. (2013)<br>Nelson et al. (2017) |
 > | **审慎参与和实施（Thoughtful Engagement）**<br>（双核心构件） | **怎么用（How）**<br>认知诠释与实践融通 | 摒弃“证据自行发声”迷思，实践者能动地研读与批判研究证据、在教研共同体中深度审议，并将其有机融通于日常教学改进与专业决策实践中。 | Coburn et al. (2009)<br>Sharples (2013) |
 > | **技能集（Skillsets）**<br>（个体使能构件） | **能否用（Can）**<br>专业知识与实践能力 | 实践者获取前沿学术资源、鉴别[[Evaluation Research\|评价研究]]质量与效力边界、理解科研方法，以及结合本土学情与教学经验将[[Research Translation\|研究转化]]为具体行动方案的[[Phronesis\|实践智慧]]。 | BERA (2014)<br>Earl (2015) |
-> | **心智倾向（Mindsets）**<br>（个体使能构件） | **愿否用（Will）**<br>专业品格与价值信念 | 抱持探究好奇心（questioning mind）与主动求索动机，自觉觉察并批判反思自身的经验前设与认知偏见，坚信研究能促进自我专业[[Growth\|成长]]并实质改善教学。 | Earl & Timperley (2009)<br>Stoll et al. (2018) |
-> | **人际关系（Relationships）**<br>（个体使能构件） | **与谁用（With whom）**<br>同行互信与社会化学习 | 依托[[Professional Learning Community\|专业学习共同体]]（PLC）与同侪互信氛围开展坦诚交流，将循证打造成去中心化、跨界协作的集体学习实践，抵御孤军奋战。 | Finnigan & Daly (2014)<br>Bryk et al. (2011) |
-> | **领导力（Leadership）**<br>（组织使能构件） | **谁引领（Who leads）**<br>组织愿景与榜样示范 | 校级管理层将研究使用确立为全校发展愿景，通过自身言行、课堂转化与教学反思躬身示范循证实践，并搭建分布式领导架构以支持一线教研。 | Coldwell et al. (2017)<br>[[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] |
-> | **[[Organizational Culture\|组织文化（Culture）]]**<br>（组织使能构件） | **何种氛围（Atmosphere）**<br>组织风气与价值规范 | 将循证探究内化为全校办学风气与共同规范，制度化写入学校章程，营造倡导日常批判反思、勇于承担风险并包容创新试错的心理安全环境。 | Handscomb & MacBeath (2003)<br>[[Argument_Brown_2017_ER\|Brown et al. (2017)]] |
-> | **基础架构（Infrastructure）**<br>（组织使能构件） | **何种保障（Support）**<br>制度资源与日常规程 | 在学校排程中制度化刚性保障专有研讨工时与物理空间，设立专项预算，配置校本研究协调员（Research Champions）岗位并规范化循证决策规程。 | Godfrey (2019)<br>Nelson & Campbell (2019) |
+> | **心智倾向（Mindsets）**<br>（个体使能构件） | **愿否用（Will）**<br>专业品格与价值信念 | 抱持探究好奇心（questioning mind）与主动求索动机，自觉觉察并批判反思自身的经验前设与认知偏见，坚信研究能促进自我专业[[Growth\|成长]]并实质改善教学。 | Earl and Timperley (2009)<br>Stoll et al. (2018) |
+> | **人际关系（Relationships）**<br>（个体使能构件） | **与谁用（With whom）**<br>同行互信与社会化学习 | 依托[[Professional Learning Community\|专业学习共同体]]（PLC）与同侪互信氛围开展坦诚交流，将循证打造成去中心化、跨界协作的集体学习实践，抵御孤军奋战。 | Finnigan and Daly (2014)<br>Bryk et al. (2011) |
+> | **领导力（Leadership）**<br>（组织使能构件） | **谁引领（Who leads）**<br>组织愿景与榜样示范 | 校级管理层将研究使用确立为全校发展愿景，通过自身言行、课堂转化与教学反思躬身示范循证实践，并搭建分布式领导架构以支持一线教研。 | Coldwell et al. (2017)<br>[[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] |
+> | **[[Organizational Culture\|组织文化（Culture）]]**<br>（组织使能构件） | **何种氛围（Atmosphere）**<br>组织风气与价值规范 | 将循证探究内化为全校办学风气与共同规范，制度化写入学校章程，营造倡导日常批判反思、勇于承担风险并包容创新试错的心理安全环境。 | Handscomb and MacBeath (2003)<br>[[Argument_Brown_2017_ER\|Brown et al. (2017)]] |
+> | **基础架构（Infrastructure）**<br>（组织使能构件） | **何种保障（Support）**<br>制度资源与日常规程 | 在学校排程中制度化刚性保障专有研讨工时与物理空间，设立专项预算，配置校本研究协调员（Research Champions）岗位并规范化循证决策规程。 | Godfrey (2019)<br>Nelson and Campbell (2019) |
 > | **系统级影响（System Influences）**<br>（宏观生态环境） | **何种生态（Ecology）**<br>制度环境与跨层动态 | 超越单一学校的宏观教育生态，涵盖政府绩效问责规程、学区优先施政议程、跨部门中介支持与专项资助，以及基于过程自我监控的持续评估反馈机制。 | EEF (2019)<br>Farley-Ripple et al. (2018) |
 
 在这一架构中，核心双核构成了高质量使用的[[Ontology|本体论]]支柱，分别对“用什么”与“怎么用”作出了严格的专业界定。

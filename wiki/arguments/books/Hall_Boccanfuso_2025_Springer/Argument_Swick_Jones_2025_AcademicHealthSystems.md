@@ -46,7 +46,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-06-02
-updated: '2026-09-13'
+updated: 2026-10-16
 subtype: book-chapter
 publication_type: book
 title: "Argument_Swick_Jones_2025_AcademicHealthSystems"
@@ -85,8 +85,8 @@ citation_aliases:
 > - T 型技能 — 医师科学家所需的双重能力结构：纵向深度（|）用于识别专业领域的临床问题，横向广度（—）用于与不同学科的合作伙伴有效沟通。在超亚专业化时代，两个维度缺一不可(pp.185–186)。
 > - [[Team Science\|团队科学]] — 以跨学科、大规模团队协作应对复杂科学问题的研究模式。[[Nobel Prize in Physiology or Medicine\|诺贝尔生理学或医学奖]]趋势显示获奖者越来越多地代表数百人规模的大型团队，而非孤立的个体天才(pp.178–179)。
 > - [[Partnership Continuum\|伙伴关系连续体]] — [[University Industry Demonstration Partnership\|大学产业示范伙伴关系]](University Industry Demonstration Partnership, UIDP, 2012)的合作分类框架，从交易型（共享策略）到协作型（共享想法）再到联盟型（共享愿景）。AHS 可以在所有三个级别上与同一伙伴同时维持多个合作关系(p.188)。
-> - [[Triple Helix\|三重螺旋模型]] — Etzkowitz & Leydesdorff (1995)的大学-产业-政府关系模型。从 AHS 视角来看，政府更多扮演法规制定者和监管者角色，而非合作伙伴。例外情况包括政府通过竞争性合同资助研究时。
-> - [[King-Persily Model\|King-Persily 模型]] — King & Persily (2019)提出的产学合作数据治理模型，通过引入独立第三方委员会来解耦研究者对产业数据与专有信息的完全访问。在医疗场景中需额外考虑患者数据去标识化和学术健康系统对患者的信托责任(pp.188–189)。
+> - [[Triple Helix\|三重螺旋模型]] — Etzkowitz and Leydesdorff (1995)的大学-产业-政府关系模型。从 AHS 视角来看，政府更多扮演法规制定者和监管者角色，而非合作伙伴。例外情况包括政府通过竞争性合同资助研究时。
+> - [[King-Persily Model\|King-Persily 模型]] — King and Persily (2019)提出的产学合作数据治理模型，通过引入独立第三方委员会来解耦研究者对产业数据与专有信息的完全访问。在医疗场景中需额外考虑患者数据去标识化和学术健康系统对患者的信托责任(pp.188–189)。
 > - [[Values Alignment Model\|价值对齐模型]] — 核心框架：以 AHS 为促进者，通过患者中心的透镜重新对齐大学、产业、医院和医师各方的优先差异，找出共享价值并尊重不共享的价值(pp.190–191, Fig. 10.5)。
 
 ---
@@ -132,7 +132,7 @@ citation_aliases:
 > [!example]- Houston Methodist 的"中心辐射"结构
 > 以 Houston Methodist 为例，AHS 呈现"中心辐射"（hub-and-spoke）模式（Fig. 10.2）：旗舰医院与研究所为核心，八个区域性医院为辐射节点，外层为初级保健诊所、急诊中心等接入点，并通过与联邦认证健康中心（Federally Qualified Health Center, FQHC）合作覆盖服务不足人群(pp.180–181)。详见 [[Academic Health System]]。
 >
-> 论证关键在于：这种结构创造出**"双向学术管线"（bidirectional academic pipeline）**——创新从旗舰研究所向外推送至多样化诊疗环境接受验证，临床需求从区域和社区反馈回研究所触发新发现。**将研究带到患者身边**，而非要求患者来到研究所，从根本上扩展了临床试验的入口和部署场景。
+> 论证关键在于：这种结构创造出 **"双向学术管线"（bidirectional academic pipeline）**——创新从旗舰研究所向外推送至多样化诊疗环境接受验证，临床需求从区域和社区反馈回研究所触发新发现。**将研究带到患者身边**，而非要求患者来到研究所，从根本上扩展了临床试验的入口和部署场景。
 
 > [!example]- 图10-2：学术健康系统的组织结构（Structure of an Academic Health System）
 > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_10-2_Structure_of_Academic_Health_System.jpg)
@@ -191,7 +191,7 @@ citation_aliases:
 > AHS 对每个新合作都以创新型态度进入，以备知识产权出现时保护已到位的投入(p.187)。
 
 > [!abstract] 七重挑战的共同指向
-> 单一组织类型，无论是大学、产业还是医院，都无法独立穿越成本、监管、数据、复杂性、专业化、时间挤压和合作光谱定位的复合障碍。产学合作是**"唯一穿过这一切的路径"（"the only path through these myriad challenges"）(p.187)**。AHS 作为促进者，可以增强和放大产学合作的影响，加速创新从发现到诊疗交付的转化。
+> 单一组织类型，无论是大学、产业还是医院，都无法独立穿越成本、监管、数据、复杂性、专业化、时间挤压和合作光谱定位的复合障碍。产学合作是 **"唯一穿过这一切的路径"（"the only path through these myriad challenges"）(p.187)**。AHS 作为促进者，可以增强和放大产学合作的影响，加速创新从发现到诊疗交付的转化。
 
 ---
 
@@ -203,12 +203,12 @@ citation_aliases:
 ---
 
 > [!note]- 框架二：[[Triple Helix\|三重螺旋模型]] — 政府角色的修正
-> Etzkowitz & Leydesdorff(1995)的大学-产业-政府关系模型，从 AHS 视角来看需要一项关键修正：在 AHS 运作中，政府更多扮演监管者而非合作伙伴——"government entities function more as the operating bodies that codify and set forth regulations and standards"(p.188)。例外是政府通过竞争性合同资助研究时更接近伙伴形态。AHS 本身也可被构想为替代政府的第三方。详见 [[Triple Helix]]。
+> Etzkowitz and Leydesdorff(1995)的大学-产业-政府关系模型，从 AHS 视角来看需要一项关键修正：在 AHS 运作中，政府更多扮演监管者而非合作伙伴——"government entities function more as the operating bodies that codify and set forth regulations and standards"(p.188)。例外是政府通过竞争性合同资助研究时更接近伙伴形态。AHS 本身也可被构想为替代政府的第三方。详见 [[Triple Helix]]。
 
 ---
 
 > [!note]- 框架三：[[King-Persily Model\|King-Persily 模型]] — 数据治理与患者信托责任
-> King & Persily(2019)提出以独立第三方委员会解耦研究者对产业数据的完全访问。在生物医学场景中需要两项调整：AHS 保留发表权但给产业审阅窗口，以及所有患者数据必须去标识化(pp.188–189)。详见 [[King-Persily Model]]。
+> King and Persily(2019)提出以独立第三方委员会解耦研究者对产业数据的完全访问。在生物医学场景中需要两项调整：AHS 保留发表权但给产业审阅窗口，以及所有患者数据必须去标识化(pp.188–189)。详见 [[King-Persily Model]]。
 
 > [!warning] 患者数据的深层伦理困境
 > 患者数据是 AHS 在产学合作中的核心价值之一，但既不能简单地"给出去"（即使已去标识化），也不应仅为财务收益而被货币化。不懂得如何正确解释数据的人可能得出错误结论，而错误结论可能导致生命代价。AHS 被患者信托，有责任以审慎、符合伦理、并与知情同意一致的方式使用这些信息(p.189)。
@@ -249,7 +249,7 @@ citation_aliases:
 > [!abstract] 四方的优先差异与 ROI 定义
 > 对齐的目标通常始于"我们想治疗 X 疾病"，但医院、产业、大学和医师对同一目标有着根本不同的优先排序和 ROI 定义(pp.190–191)。详见 [[Values Alignment Model]] 和 [[Return on Investment]]。
 >
-> 价值对齐的关键不在于消除差异，而在于通过**"患者中心的透镜"（patient-centered lens）**审视所有优先事项：产业的利润只有在产品对患者安全有效时才有意义；大学的发表只有转化为患者受益时才实现社会价值(pp.191–192)。AHS 作为促进者的核心任务是平衡向内拉力（共享价值）与向外拉力（反向力量），既不让商业逻辑凌驾于患者安全之上（如果创新不安全，ROI 降为零），也不让监管保守主义扼杀创新。
+> 价值对齐的关键不在于消除差异，而在于通过 **"患者中心的透镜"（patient-centered lens）** 审视所有优先事项：产业的利润只有在产品对患者安全有效时才有意义；大学的发表只有转化为患者受益时才实现社会价值(pp.191–192)。AHS 作为促进者的核心任务是平衡向内拉力（共享价值）与向外拉力（反向力量），既不让商业逻辑凌驾于患者安全之上（如果创新不安全，ROI 降为零），也不让监管保守主义扼杀创新。
 
 
 > [!example]- 学术健康系统促进创新 UI 合作的独特角色

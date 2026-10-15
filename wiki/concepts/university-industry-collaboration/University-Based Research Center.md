@@ -70,7 +70,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # University-Based Research Center
@@ -176,7 +176,7 @@ updated: 2026-10-15
 > [!contrast-table] 大学研究型中心核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **人事协调权力命题** | [[Dual Appointment\|双重聘任制]]导致中心主任缺乏人事硬权力，仅能依靠经费诱导艰难维系跨学科协作 | 大学跨学科多院系中心治理 | [[Argument_Bozeman_2004_JTT\|Bozeman & Boardman (2004)]] |
+> | **人事协调权力命题** | [[Dual Appointment\|双重聘任制]]导致中心主任缺乏人事硬权力，仅能依靠经费诱导艰难维系跨学科协作 | 大学跨学科多院系中心治理 | [[Argument_Bozeman_2004_JTT\|Bozeman and Boardman (2004)]] |
 > | **组织存续规训命题** | 十年日落条款有效遏制实体扩张惰性，倒逼中心对接市场实现自我造血或有序淘汰 | 政府[[Seed Funding\|种子资助]]的产学中心项目 | [[Erich Bloch\|Bloch]] (采访者 Bozeman & Boardman) |
 > | **实践教育再造命题** | 重资产中心设施向本科与研究生教学下沉，重塑工程教育实践与人才蓄水池 | 具有重资产实验平台的工科高校 | [[Argument_Mody_2017_MOH\|Mody (2017)]] |
 
@@ -226,7 +226,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Bozeman_2004_JTT\|Bozeman & Boardman (2004)]] | 1984–2004 年 NSF 资助的全部工程研究中心（$N = 56$，含 3 所地震中心） | 纵向全样本追踪与口述史分析 | 累计资助中心总数与历史存续率（Survival rate） | 累计获批 56 所；截至 2003 年底，44 所成功存续或自立（存活率 79%）；13 所完全自给自足 | 全样本统计，无[[Sampling Error\|抽样误差]] | 仅反映 [[Engineering Research Centers\|NSF ERC]] 计划样本，未统计未获 [[National Science Foundation\|NSF]] 资助的地方性研究中心 |
+> | [[Argument_Bozeman_2004_JTT\|Bozeman and Boardman (2004)]] | 1984–2004 年 NSF 资助的全部工程研究中心（$N = 56$，含 3 所地震中心） | 纵向全样本追踪与口述史分析 | 累计资助中心总数与历史存续率（Survival rate） | 累计获批 56 所；截至 2003 年底，44 所成功存续或自立（存活率 79%）；13 所完全自给自足 | 全样本统计，无[[Sampling Error\|抽样误差]] | 仅反映 [[Engineering Research Centers\|NSF ERC]] 计划样本，未统计未获 [[National Science Foundation\|NSF]] 资助的地方性研究中心 |
 > | [[Argument_Bozeman_2004_JTT\|Bozeman & Boardman, 2004, p. 369]] | 2003–2005 财年 NSF 工程学学部（ENG）决算与预算申请 | 联邦财政预算与机构财务分析 | 资助杠杆比例与中心计划经费规模 | 联邦[[Seed Funding\|种子基金]]约占年预算 30%，非联邦配套占 70%；2003 财年 ERC 拨付 6,572 万美元（中心总支出 8,571 万美元） | 官方决算数据 | 反映成熟期中心平均配比，处于初创期的中心可能产业匹配率较低 |
 
 ---
@@ -235,7 +235,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]] — 将大学研究型中心系统定位于产学联盟四种形态之一，深入剖析其大学主导议程设置、政府双重资助及前景 IP [[Pre-negotiated IP Rights|优先谈判权]]机制。
-> - [[Argument_Bozeman_2004_JTT|Bozeman & Boardman (2004)]] — 结合前 [[National Science Foundation|NSF]] 主任布洛赫口述史与全样本纵向数据，系统提炼多用途多学科大学研究中心（MMURC）[[Paradigm|范式]]，揭示[[Sunset Provisions|日落条款]]、双重聘任及中心主任微观协调困境。
+> - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 结合前 [[National Science Foundation|NSF]] 主任布洛赫口述史与全样本纵向数据，系统提炼多用途多学科大学研究中心（MMURC）[[Paradigm|范式]]，揭示[[Sunset Provisions|日落条款]]、双重聘任及中心主任微观协调困境。
 > - [[Argument_Mody_2017_MOH|Mody (2017)]] — 追踪康奈尔、斯坦福等微电子大学研究中心的兴起与演变，揭示其重资产开放共享、教学用芯片试验线创设及跨学科平台向纳米生物科技迁移的灵活性。
-> - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied (2008)]] — 梳理 NSF 在 1970 年代末打破法律限制创设[[University-Industry Collaboration|产学合作]]研究中心（[[Industry-University Cooperative Research Centers|I/UCRC]]）的历史突破，为后续 [[Engineering Research Centers|ERC]] 与大学中心演进奠定制度基础。
+> - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 梳理 NSF 在 1970 年代末打破法律限制创设[[University-Industry Collaboration|产学合作]]研究中心（[[Industry-University Cooperative Research Centers|I/UCRC]]）的历史突破，为后续 [[Engineering Research Centers|ERC]] 与大学中心演进奠定制度基础。
 

@@ -44,7 +44,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-01
-updated: 2026-09-28
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Slavin_2002_ER"
@@ -76,7 +76,7 @@ issuing_organization: ""
 > > “如果瑞普·凡·温克尔（Rip Van Winkle，传说中沉睡多年的人）是一位医生、农民或工程师，那么他今天醒来将无法被雇佣。但如果他在19世纪是一位优秀的小学教师，那么他今天可能仍然是一位优秀的小学教师。”
 > ("If Rip Van Winkle had been a physician, a farmer, or an engineer, he would be unemployable if he awoke today. If he had been a good elementary school teacher in the 19th century, he would probably be a good elementary school teacher today.") (p. 16)
 >
-> Slavin 提出**上升螺旋（ascending spiral）**与**下降螺旋（declining spiral）**的对比：当政策制定者看不到研究的相关性时，研究资助不足 → 缺少大型决[[Qualitative Research\|定性研究]] → 政策制定者更不愿投资 → 下降螺旋。证据本位政策若产生显著成功，可逆转此趋势。(p. 17)
+> Slavin 提出**上升螺旋（ascending spiral）** 与**下降螺旋（declining spiral）** 的对比：当政策制定者看不到研究的相关性时，研究资助不足 → 缺少大型决[[Qualitative Research\|定性研究]] → 政策制定者更不愿投资 → 下降螺旋。证据本位政策若产生显著成功，可逆转此趋势。(p. 17)
 
 ---
 

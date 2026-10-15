@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Irving John Good
@@ -140,7 +140,7 @@ updated: 2026-10-07
 > > 围绕古德作出的“20 世纪内超智能极大概率建成”的断言，计算史学界指明了其对物理硬件、算力瓶颈与认知架构复杂性的严重低估。
 > >
 > > - **[[Irving John Good]]（1964）** 认为只要突破图灵机逻辑门槛，机器自我设计的递归反馈将在数十年内引发智能爆炸。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 26)]]
-> > - **[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]** 指出早期先驱低估了语言情境、常识表征与高维隐空间的实现难度，直到 2020 年代大模型时代才重新展现出接近通用智能的火花。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 25–26)]]
+> > - **[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]** 指出早期先驱低估了语言情境、常识表征与高维隐空间的实现难度，直到 2020 年代大模型时代才重新展现出接近通用智能的火花。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 25–26)]]
 
 ---
 

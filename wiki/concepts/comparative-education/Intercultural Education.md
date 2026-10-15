@@ -146,7 +146,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **文化互构与[[Unit of Analysis\|分析单元]]重塑** | 文化差异只有进入双向交往与自我反思才能转化为教育资源；文化配置打破民族国家单一分析边界 | 跨国移民融入、多元文化课堂、后冷战比较教育学 | [[Wolfgang Mitter\|Mitter (2009)]] |
 > | **流动经验与课程范围匹配** | 双文化教育仅属于特定双边情境的过渡形态，多国籍流动学生需要超越二元框架的跨文化共同平台 | 国际学校、双语课程、多国流动家庭 | [[Alec Peterson\|Peterson (1987)]] |
-> | **空间政治与人口分类配置** | 跨文化取向的实践形态受制于国家从移民输出向接收的转型历程，反映了学校对异质化流动人口的空间[[Disciplina and Doctrina\|规训]]与接纳博弈 | 移民结构极速逆转的南欧社会（如西班牙）、异质多语课堂 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] |
+> | **空间政治与人口分类配置** | 跨文化取向的实践形态受制于国家从移民输出向接收的转型历程，反映了学校对异质化流动人口的空间[[Disciplina and Doctrina\|规训]]与接纳博弈 | 移民结构极速逆转的南欧社会（如西班牙）、异质多语课堂 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] |
 
 ---
 
@@ -174,7 +174,7 @@ updated: 2026-10-16
 > | 第 10,000 份[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB） | 1985 年的里雅斯特政府间会议上颁发 | IB 已累积较大跨国资格规模 | 文凭序号不是跨文化能力测量 |
 > | 获奖学生的学习经历横跨 5 国 | 芬兰学生曾在马来西亚、泰国、莫桑比克和芬兰学习，最后在坦桑尼亚完成 IB | 个人生活世界可能超出双文化课程的二元框架 | 属于单一典型案例，不能代表全部 IB 学生 |
 >
-> [[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 188–190)]]; [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009, p. 366)]]
+> [[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 188–190)]]; [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009, p. 366)]]
 
 ---
 
@@ -224,7 +224,7 @@ updated: 2026-10-16
 > | [[Comparative Policy Analysis]] | 研究方法 | 横向对比不同国家应对[[Migrant Children\|流动儿童]]时采取的同化、排斥或跨文化承认政策。 |
 > | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证条目 | 追踪比较教育与跨文化教育从建制分离到重新合流的历史，提出将文化配置作为比较教育核心对象。 |
 > | [[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987)]] | 论证条目 | 深入论证双文化课程与国际跨文化课程在服务不同流动学生时的适用边界与资格承认争议。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 论证条目 | 考察西班牙面对移民结构剧变推行的跨文化取向（intercultural approach），揭示学校空间容纳与多元文化教育的治理张力。 |
+> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证条目 | 考察西班牙面对移民结构剧变推行的跨文化取向（intercultural approach），揭示学校空间容纳与多元文化教育的治理张力。 |
 
 ---
 
@@ -233,4 +233,4 @@ updated: 2026-10-16
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 追踪比较教育与跨文化教育从建制分离到重新合流的过程，并将文化配置视为比较研究的重要分析对象。
 > - [[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 188–191)]] — 通过法国双文化资格、德国承认争议和跨五国学习的学生案例，显示文化交往受招生、资格与国内公平制度制约。
-> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 考察西班牙面对移民结构剧变推行的跨文化取向（intercultural approach），揭示学校空间容纳与多元文化教育的治理张力。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 考察西班牙面对移民结构剧变推行的跨文化取向（intercultural approach），揭示学校空间容纳与多元文化教育的治理张力。

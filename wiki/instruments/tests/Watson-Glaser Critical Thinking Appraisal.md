@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Watson-Glaser Critical Thinking Appraisal
@@ -108,5 +108,5 @@ updated: 2026-10-15
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | WGCTA Form A / B | 英语（全球） | 中学生、大学生及职场成人 | 80 题 | 经典完整版，各分测验各 16 题 | Watson & Glaser (1980) |
-> | WGCTA-II Short Form | 英语 / 中文修订版 | 中小学高年级及成人 | 40 题 | 题量缩减，优化计算机自适应施测时间（约 30–40 分钟） | Watson & Glaser (2012) |
+> | WGCTA Form A / B | 英语（全球） | 中学生、大学生及职场成人 | 80 题 | 经典完整版，各分测验各 16 题 | Watson and Glaser (1980) |
+> | WGCTA-II Short Form | 英语 / 中文修订版 | 中小学高年级及成人 | 40 题 | 题量缩减，优化计算机自适应施测时间（约 30–40 分钟） | Watson and Glaser (2012) |

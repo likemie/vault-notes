@@ -69,7 +69,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Commensuration
@@ -145,9 +145,9 @@ updated: 2026-10-15
 >
 > | 治理尺度与[[Champ\|场域]] | 通约工具与技术载体 | 通约公分母建构机制 | 确立的形式公平目标 | 实践中的异化代价与[[Reflexivity\|反身性]]后果 | 核心证据来源 |
 > |---|---|---|---|---|---|
-> | **超国家全球治理** | [[OECD]] [[PISA]] 国际学生评估项目 | 依托[[Item Response Theory\|项目反应理论]]（IRT）与 Rasch 模型构建均值 500、标准差 100 的无国界统一标尺 | 宣称超越各国课程差异，建立对未来真实生活能力与国家[[Human Capital Theory\|人力资本]]的跨国“等值空间” | [[Reliability\|信度]]优先压倒[[Construct Validity\|构念效度]]，剔除本土文化高阶试题；制造跨国政策恐慌与远处掌舵 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009, pp. 446–448)]] |
-> | **次国家州级治理** | 德国汉堡市学校监测与社会指数（Social Index） | 将生源家庭失业率、移民背景与住房贫困度折算为 1–6 级阶梯式社会指数分级 | 建立“统计公平比较”，使同等社会不利指数的学校进行校际质量与毕业率对标 | 指标数年未更新导致生源变迁失真；为争夺资源引发阶层标签与学校污名化 | [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019, pp. 4–6)]] |
-> | **联邦制学区治理** | 美国马萨诸塞州 RADAR / DART 数据平台 | 依托全州数据库算法自动匹配全州范围内背景特征最相似的 10 所“统计双胞胎学校” | 克服地理社区邻近性偏见，以全州同质组统计表现作为学校问责与资源改进基准 | 学校抵制算法匹配的“遥远陌生学校”，偏好邻近直观参照；诱发考核切分点博弈 | [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019, pp. 6–8)]] |
+> | **超国家全球治理** | [[OECD]] [[PISA]] 国际学生评估项目 | 依托[[Item Response Theory\|项目反应理论]]（IRT）与 Rasch 模型构建均值 500、标准差 100 的无国界统一标尺 | 宣称超越各国课程差异，建立对未来真实生活能力与国家[[Human Capital Theory\|人力资本]]的跨国“等值空间” | [[Reliability\|信度]]优先压倒[[Construct Validity\|构念效度]]，剔除本土文化高阶试题；制造跨国政策恐慌与远处掌舵 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009, pp. 446–448)]] |
+> | **次国家州级治理** | 德国汉堡市学校监测与社会指数（Social Index） | 将生源家庭失业率、移民背景与住房贫困度折算为 1–6 级阶梯式社会指数分级 | 建立“统计公平比较”，使同等社会不利指数的学校进行校际质量与毕业率对标 | 指标数年未更新导致生源变迁失真；为争夺资源引发阶层标签与学校污名化 | [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019, pp. 4–6)]] |
+> | **联邦制学区治理** | 美国马萨诸塞州 RADAR / DART 数据平台 | 依托全州数据库算法自动匹配全州范围内背景特征最相似的 10 所“统计双胞胎学校” | 克服地理社区邻近性偏见，以全州同质组统计表现作为学校问责与资源改进基准 | 学校抵制算法匹配的“遥远陌生学校”，偏好邻近直观参照；诱发考核切分点博弈 | [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019, pp. 6–8)]] |
 
 ---
 
@@ -185,8 +185,8 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]] — 比较德国与美国州级学校数据监测系统，揭示通约机制如何通过统计同伴组制造公平比较表象并诱发微观指标博弈。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 结合 Desrosières 的“[[Space of Equivalence|等值空间]]”理论，剖析[[OECD|经合组织]]如何通过 [[PISA]] 制造全球可通约测量空间并在方法论上以[[Reliability|信度]]压倒[[Construct Validity|构念效度]]。
+> - [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] — 比较德国与美国州级学校数据监测系统，揭示通约机制如何通过统计同伴组制造公平比较表象并诱发微观指标博弈。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合 Desrosières 的“[[Space of Equivalence|等值空间]]”理论，剖析[[OECD|经合组织]]如何通过 [[PISA]] 制造全球可通约测量空间并在方法论上以[[Reliability|信度]]压倒[[Construct Validity|构念效度]]。
 
 ---
 

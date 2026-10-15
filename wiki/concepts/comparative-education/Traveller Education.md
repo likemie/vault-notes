@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Traveller Education
@@ -60,7 +60,7 @@ updated: 2026-10-15
 > [!citation-card] 学校高度结构化空间利用引发的文化失调
 > 在确实处于流动状态的受访群体中，实证研究发现学生在适应学校内部的空间使用方式时面临严重障碍，特别是‘高度结构化的空间使用’（第764页）产生了强烈的文化失调。这种错位削弱了政策目标的达成——即一方面使这些儿童做好参与更大社会的准备，另一方面又承认其本土文化并允许这些群体继续保持某种程度的独立与区隔。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 366)]]
 >
-> *Among sections of these populations that are in fact migrant, researchers Martin Levinson & Andrew Sparkes (2005) have found that students face problems adapting to the way that space is used within the school, specifically "the highly structured use of space" (p. 764) which generates a cultural dissonance. This mismatch undermines the policy objective of preparing these children for participation in the larger society at the same time as recognizing home culture(s) and enabling these populations to continue to remain somewhat apart.*
+> *Among sections of these populations that are in fact migrant, researchers Martin Levinson and Andrew Sparkes (2005) have found that students face problems adapting to the way that space is used within the school, specifically "the highly structured use of space" (p. 764) which generates a cultural dissonance. This mismatch undermines the policy objective of preparing these children for participation in the larger society at the same time as recognizing home culture(s) and enabling these populations to continue to remain somewhat apart.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Nomadic Education|游牧教育]] — 游牧教育植根于广大天然草场的季节性转场畜牧经济；旅行者教育则身处欧洲城市化与工业化环境中，依附于大篷车营地、修配手工业与季节性短工。
@@ -130,8 +130,8 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **微观空间失调命题** | 学校高度结构化的空间与时间规约导致习惯于流动的身体产生剧烈排斥与违纪危机 | 英国及欧洲正规学校课堂日常微观互动 | Levinson & Sparkes (2005); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] |
-> | **政策张力与文化存续命题** | 多元文化全纳融入与旅行者维系社群边界、规避同化的自主愿望不可调和 | 英国中等教育过渡期及旅行者教育全纳政策实践 | Derrington & Kendall (2004); Bhopal et al. (2000) |
+> | **微观空间失调命题** | 学校高度结构化的空间与时间规约导致习惯于流动的身体产生剧烈排斥与违纪危机 | 英国及欧洲正规学校课堂日常微观互动 | Levinson and Sparkes (2005); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] |
+> | **政策张力与文化存续命题** | 多元文化全纳融入与旅行者维系社群边界、规避同化的自主愿望不可调和 | 英国中等教育过渡期及旅行者教育全纳政策实践 | Derrington and Kendall (2004); Bhopal et al. (2000) |
 
 ---
 
@@ -166,11 +166,11 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 英国大篷车吉普赛与旅行者中学生及儿童群体（转引自 Levinson & Sparkes, 2005; Derrington & Kendall, 2004） | 深度定性[[Ethnography\|民族志]]与追踪个案访谈 | 学校空间规约体验、身体受限感与中等教育过渡期保留率 | 发现高度结构化的空间区隔是学生产生抵触情绪的最主要诱因，且进入中等教育后因担忧文化同化与校园霸凌而出现显著的提前离校现象 | 深度[[Qualitative Research\|定性研究]]，无量化数值指标 | 揭示了微观物理空间组织引发的文化失调与中学过渡期学业断裂机制，不提供量化效应量或学业差距标准差数据 |
+> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 英国大篷车吉普赛与旅行者中学生及儿童群体（转引自 Levinson & Sparkes, 2005; Derrington & Kendall, 2004） | 深度定性[[Ethnography\|民族志]]与追踪个案访谈 | 学校空间规约体验、身体受限感与中等教育过渡期保留率 | 发现高度结构化的空间区隔是学生产生抵触情绪的最主要诱因，且进入中等教育后因担忧文化同化与校园霸凌而出现显著的提前离校现象 | 深度[[Qualitative Research\|定性研究]]，无量化数值指标 | 揭示了微观物理空间组织引发的文化失调与中学过渡期学业断裂机制，不提供量化效应量或学业差距标准差数据 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 结合英国旅行者儿童案例，论证学校微观空间区隔如何引发文化失调，并剖析[[Intercultural Education|跨文化教育]]政策在承认与隔离之间的困境。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 结合英国旅行者儿童案例，论证学校微观空间区隔如何引发文化失调，并剖析[[Intercultural Education|跨文化教育]]政策在承认与隔离之间的困境。

@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Programme on Educational Building
@@ -59,7 +59,7 @@ updated: 2026-10-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **[[OECD|经合组织]]教育建筑计划（Programme on Educational Building, PEB）**是[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）理事会于 1972 年正式批准设立的学校物理基础设施与学习环境专业合作工程。与教育委员会、[[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI）及[[Institutional Management in Higher Education|高等教育机构管理计划]]（IMHE）并列为战后经合组织教育体系的四大组织支柱，该项目致力于通过跨国比较调研、建筑设计案例库与成本效益审计，协助成员国以经济高效的方式建设适应现代教学法需求的教育硬件设施。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]
+> **[[OECD|经合组织]]教育建筑计划（Programme on Educational Building, PEB）** 是[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）理事会于 1972 年正式批准设立的学校物理基础设施与学习环境专业合作工程。与教育委员会、[[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI）及[[Institutional Management in Higher Education|高等教育机构管理计划]]（IMHE）并列为战后经合组织教育体系的四大组织支柱，该项目致力于通过跨国比较调研、建筑设计案例库与成本效益审计，协助成员国以经济高效的方式建设适应现代教学法需求的教育硬件设施。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 1972 年由经合组织理事会正式设立常设管理机构，运行三十余年后于 2009 年重构升级为有效学习环境中心（Centre for Effective Learning Environments, CELE），并持续运行至 2012 年后深度融入教育司基础设施战略体系。

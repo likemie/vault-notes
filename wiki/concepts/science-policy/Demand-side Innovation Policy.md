@@ -73,7 +73,7 @@ aliases:
 ## 定义
 
 > [!def] 核心定义
-> **需求侧创新政策（Demand-side Innovation Policy / 需求拉动型创新政策）**是指公共部门通过利用公共采购促进创新（Public Procurement of Innovation, [[Patient and Public Involvement|PPI]]）、预商用采购（Pre-Commercial Procurement, PCP）、技术规制与能效标准设立、消费者补贴、前沿示范工程以及先导市场（Lead Markets）培育等一系列制度性工具，[[Assertiveness|主动表达]]、汇聚、创造并定向引导对前沿产品与服务的市场需求，从而在技术生命周期早期化解巨大的市场不确定性，加速创新成果商业化与系统扩散的公共政策总称（Edler & Georghiou, 2007）。在科技政策与[[Evolutionary Economics|演化经济学]]演进中，需求侧政策被视为打破传统仅重视供给端研发资助（R&D Push）单一路径的决定性制度杠杆。[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）强调，从冷战时期美国军方采购奠定半导体产业基石，到 21 世纪应对气候挑战的绿色政府采购，需求侧创新政策始终是国家实现[[Tilting the Playing Field|倾斜竞争场地]]与[[Market Shaping and Creating|市场塑造]]与创造的核心物质基础。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]
+> **需求侧创新政策（Demand-side Innovation Policy / 需求拉动型创新政策）** 是指公共部门通过利用公共采购促进创新（Public Procurement of Innovation, [[Patient and Public Involvement|PPI]]）、预商用采购（Pre-Commercial Procurement, PCP）、技术规制与能效标准设立、消费者补贴、前沿示范工程以及先导市场（Lead Markets）培育等一系列制度性工具，[[Assertiveness|主动表达]]、汇聚、创造并定向引导对前沿产品与服务的市场需求，从而在技术生命周期早期化解巨大的市场不确定性，加速创新成果商业化与系统扩散的公共政策总称（Edler & Georghiou, 2007）。在科技政策与[[Evolutionary Economics|演化经济学]]演进中，需求侧政策被视为打破传统仅重视供给端研发资助（R&D Push）单一路径的决定性制度杠杆。[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）强调，从冷战时期美国军方采购奠定半导体产业基石，到 21 世纪应对气候挑战的绿色政府采购，需求侧创新政策始终是国家实现[[Tilting the Playing Field|倾斜竞争场地]]与[[Market Shaping and Creating|市场塑造]]与创造的核心物质基础。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将国家定位从单纯给科学家发放经费的研发出资人（Funder）升级为率先采购未定型高风险产品的先导首发用户（Lead User & First Buyer）。
@@ -223,7 +223,7 @@ aliases:
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 跨越 150 年历史梳理三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]，系统阐述公共采购与需求侧工具在塑造新兴战略市场中的决定性地位。
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 跨越 150 年历史梳理三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]，系统阐述公共采购与需求侧工具在塑造新兴战略市场中的决定性地位。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 详尽剖析战后美国军方半导体、计算机与软件采购合同如何充当创新奖金与先导用户，降低新创企业进入壁垒并催生商用通用市场，同时揭示需求侧采购在技术成熟期的效力衰减边界与能源政策启示。
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统评估美国空间与国防项目对半导体和计算机产业发展的需求侧塑造机制，实证揭示早熟集成电路 100% 采购托底如何释放 20%–30% 的[[Learning Economy|学习经济]]效应并促使硬件价格暴跌十倍以上。
 

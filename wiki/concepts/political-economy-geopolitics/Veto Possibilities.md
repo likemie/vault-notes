@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-12
+updated: 2026-10-16
 ---
 
 # Veto Possibilities
@@ -71,7 +71,7 @@ updated: 2026-10-12
 > [!contrast-table] 否决可能性与经典否决理论的维度辨析
 > | 维度 | 否决可能性（Veto Possibilities） | 否决玩家（Veto Players） | 否决点（Veto Points） |
 > |:---|:---|:---|:---|
-> | **理论提出者** | [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change\|Mahoney & Thelen (2009)]]; Hacker (2005) | [[George Tsebelis\|Tsebelis]] (2002) | Immergut (1992); Huber et al. (1993) |
+> | **理论提出者** | [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change\|Mahoney and Thelen (2009)]]; Hacker (2005) | [[George Tsebelis\|Tsebelis]] (2002) | Immergut (1992); Huber et al. (1993) |
 > | **核心界定** | 封杀变革的结构化能力与维持现状偏好的综合属性 | 其同意是改变政策现状所必需的个人或集体行动者 | 决策过程中可能阻断法案通过的制度化宪法关卡 |
 > | **[[Domain Specificity\|领域特异性]]** | 高度依附于特定制度领域（如央行管金融但不管福利） | 宏观宪政体制的统一形式模型 | 宏观立法程序的地理与宪法结构 |
 > | **对变迁的预期** | 强否决逼迫行动者转向[[Institutional Layering\|层叠]]与[[Institutional Drift\|漂移]] | 强否决直接等同于政策绝对稳定（无变迁） | 否决点越多，重大立法通过概率越低 |

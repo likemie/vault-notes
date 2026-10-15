@@ -29,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-06-07
+updated: 2026-10-16
 ---
 
 # Grammar of Schooling
@@ -39,7 +39,7 @@ updated: 2026-06-07
 ## 定义
 
 > [!info]
-> 学校的语法（Grammar of Schooling）是 Tyack & Cuban (1995) 提出的概念，指现代学校和教育系统中某些共同的制度模式：学校如何划分时间和空间、将学生分班分级、将学校知识分为学科等。这些模式在世界许多地方的现代学校和教育系统中具有共同特征（引自 Beech & Artopoulos, 2015）。
+> 学校的语法（Grammar of Schooling）是 Tyack and Cuban (1995) 提出的概念，指现代学校和教育系统中某些共同的制度模式：学校如何划分时间和空间、将学生分班分级、将学校知识分为学科等。这些模式在世界许多地方的现代学校和教育系统中具有共同特征（引自 Beech & Artopoulos, 2015）。
 
 ---
 

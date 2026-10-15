@@ -48,7 +48,7 @@ sources:
 part_of: '[[Argument_Ryan_2010_HKUP]]'
 status: draft
 created: '2026-05-17'
-updated: 2026-08-22
+updated: 2026-10-16
 year: 2010
 doi: ""
 citation_aliases:
@@ -67,9 +67,9 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract]
-> 本章未采用单一命名理论，而是以**全球化（globalization）**和**去国家化（denationalization）**两个视角贯穿分析。
+> 本章未采用单一命名理论，而是以**全球化（globalization）** 和**去国家化（denationalization）** 两个视角贯穿分析。
 >
-> 核心前提来自 Suárez-Orozco & Qin-Hilliard(2004)：在全球化时代，知识的跨国流通已成为经济生产力的关键要素——固守本地、忽视全球力量的教育系统"可能变得过时"，而主动应对全球化挑战的系统"更有可能繁荣"(p.1)。
+> 核心前提来自 Suárez-Orozco and Qin-Hilliard(2004)：在全球化时代，知识的跨国流通已成为经济生产力的关键要素——固守本地、忽视全球力量的教育系统"可能变得过时"，而主动应对全球化挑战的系统"更有可能繁荣"(p.1)。
 >
 > Slethaug 默认预设了"[[Knowledge-Based Economy\|知识经济]]"（Knowledge-Based Economy）的存在——即一个国家的国际[[Competitiveness|竞争力]]，取决于其生产知识而非仅生产商品的能力。这个预设是理解他整个论证的钥匙：为什么[[International Education\|国际教育]]值得关注？因为教育产出=知识产出=国家竞争力。
 

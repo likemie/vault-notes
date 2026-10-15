@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Disjointed Pluralism
@@ -79,7 +79,7 @@ updated: 2026-10-15
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 美国政治学家埃里克·希克勒（[[Education Resources Information Center|ERIC]] Schickler）于 2001 年在普林斯顿大学出版社出版专著 *Disjointed [[Pluralism]]: Institutional Innovation and the Development of the US Congress*，正式创立脱节多元主义理论框架。
 > - **原初问题** 既有美国国会研究主要被党派理论（Party Cartel Theory）或委员会委员会治理理论（Committee-Centered Theory）所主导，各派学者试图证明国会是某一种单一机制完全掌控的理性机器；然而历史档案表明，国会议事规则与委员会制度始终充斥着相互矛盾的程序设计与多方妥协痕迹，理论界缺乏解释这种结构性矛盾的统一[[Analytic Framework|分析框架]]。
-> - **理论资源与材料** 理论深度继承了 Orren & Skowronek (1994) 关于时间与秩序的观点，打破系统连贯性预设，主张将时间作为内生构件；经验材料覆盖了从建国初期到 20 世纪末美国国会近两百年间参众两院议事规则、委员会演化与党团重组的翔实立法档案。
+> - **理论资源与材料** 理论深度继承了 Orren and Skowronek (1994) 关于时间与秩序的观点，打破系统连贯性预设，主张将时间作为内生构件；经验材料覆盖了从建国初期到 20 世纪末美国国会近两百年间参众两院议事规则、委员会演化与党团重组的翔实立法档案。
 > - **形成路径** 希克勒提出在不同历史截面上，追求立法效能、党派利益、选民利益与个人声望的多重竞争动机会同时发力；改革者无法彻底废弃旧规则，只能在既有成熟大树上嫁接新枝桠（New Branches on Mature Trees），从而系统性提炼出脱节多元主义模型。
 
 ### 理论演进脉络
@@ -190,6 +190,6 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 考证脱节[[Pluralism|多元主义]]作为希伦[[Institutional Layering|制度层叠]]概念关键前史的理论谱系，确立其在[[Historical Institutionalism|历史制度主义]]因果解释中的核心枢纽地位。
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 借鉴脱节多元主义的妥协拼接模型，将制度内生张力与模糊性升格为解释渐进演化的微观动力基石。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 借鉴脱节多元主义的妥协拼接模型，将制度内生张力与模糊性升格为解释渐进演化的微观动力基石。
 > - [[Institutional Layering]] — 历史制度主义核心渐进变迁机制，直接汲取脱节多元主义关于新安排在既有结构之上张力层叠的核心洞见。
 > - [[Kathleen Thelen]] — 当代历史制度主义领军学者，系统改造并推广了希克勒的层叠分析[[Paradigm|范式]]。

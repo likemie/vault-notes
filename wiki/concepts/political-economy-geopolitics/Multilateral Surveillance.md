@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 
 # Multilateral Surveillance
@@ -61,7 +61,7 @@ updated: 2026-10-14
 ## 定义
 
 > [!def] 核心定义
-> **多边监督（Multilateral Surveillance）**指主权国家之间在多边国际组织（如[[OECD|经合组织]]、[[International Monetary Fund|国际货币基金组织]]与[[World Bank|世界银行]]）制度框架内，通过常态化的信息通报、跨国统计数据采集、国别政策审查与多边同行辩论，对各成员国政策制定与实施效果开展系统性监督、对标与评估的软法治理机制。根据科斯廷·马滕斯等学者（Kerstin Martens et al., 2004, p. 15）与经合组织官方治理报告（OECD, 1998），在国际组织缺乏对成员国进行强制立法的宪制权威与硬性借贷惩罚手段时，多边监督构成了国际组织实施有效规约的关键支柱；它通过建构政策透明度的制度预期，迫使成员国向国际共同体就其国内政策做出合理解释与正当性辩护，并接受同侪审议。在跨国教育政策演进中，多边监督逐步从战后初期的自愿质性审查，发展为依托跨国统一数据指标与联赛排名的量化监测体系，成为实现远处掌舵的基础制度通道。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440, 442, 446)]]
+> **多边监督（Multilateral Surveillance）** 指主权国家之间在多边国际组织（如[[OECD|经合组织]]、[[International Monetary Fund|国际货币基金组织]]与[[World Bank|世界银行]]）制度框架内，通过常态化的信息通报、跨国统计数据采集、国别政策审查与多边同行辩论，对各成员国政策制定与实施效果开展系统性监督、对标与评估的软法治理机制。根据科斯廷·马滕斯等学者（Kerstin Martens et al., 2004, p. 15）与经合组织官方治理报告（OECD, 1998），在国际组织缺乏对成员国进行强制立法的宪制权威与硬性借贷惩罚手段时，多边监督构成了国际组织实施有效规约的关键支柱；它通过建构政策透明度的制度预期，迫使成员国向国际共同体就其国内政策做出合理解释与正当性辩护，并接受同侪审议。在跨国教育政策演进中，多边监督逐步从战后初期的自愿质性审查，发展为依托跨国统一数据指标与联赛排名的量化监测体系，成为实现远处掌舵的基础制度通道。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440, 442, 446)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向在超国家或多边层面制度化建立的跨国政策信息汇集、相互审视与持续对标监控架构。
@@ -177,11 +177,11 @@ updated: 2026-10-14
 > > 争论多边监督究竟是主权国家平等交流与提升政策反思能力的互助网络，还是国际官僚借技术客观性侵蚀民族国家教育自主权的隐形手段。
 > >
 > > - **经合组织官方治理立场（1998）** 认为多边监督与同行质询是主权国家在复杂世界中克服本位主义、提升公共治理透明度与现代化的必要制度保障。
-> > - **[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]]** 批评当代多边监督已蜕变为高度集权的数据霸权，通过预设新自由主义市场指标强行格式化各国的教育目的，严重损害了本土民主审议主权。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–442)]]
+> > - **[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]** 批评当代多边监督已蜕变为高度集权的数据霸权，通过预设新自由主义市场指标强行格式化各国的教育目的，严重损害了本土民主审议主权。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–442)]]
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 440, 442, 446)]] — 分析[[OECD|经合组织]]如何运用多边监督机制弥补硬性立法强制力的缺失，依托量化数据与[[Peer Pressure|同侪压力]]实施远处掌舵。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 440, 442, 446)]] — 分析[[OECD|经合组织]]如何运用多边监督机制弥补硬性立法强制力的缺失，依托量化数据与[[Peer Pressure|同侪压力]]实施远处掌舵。

@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Working Memory
@@ -146,7 +146,7 @@ updated: 2026-10-15
 > [!concept-lens] 认知架构与容量瓶颈
 > 剖析人类在面对全新[[Areas of Knowledge\|知识领域]]时，工作记忆如何受制于生物学限制并决定了教学信息输入的边界。
 
-> [!claim] [[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie (2017)]]; Sweller
+> [!claim] [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]]; Sweller
 > **3–4 组块容量上限与新异信息加工的脆弱性** 人类认知架构的基本特征在于工作记忆容量的绝对狭窄。成年人在缺乏长时记忆图式支持时，一次最多只能保持并更新 3–4 个离散信息单元。无论学习者潜能多高，当环境呈现过多未经提炼的复杂规则或混乱信息流时，有限的工作记忆单元将瞬间被占满，导致深层因果推导与长时记忆图式建构彻底停滞。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, p. 5)]]
 
 ---
@@ -156,7 +156,7 @@ updated: 2026-10-15
 > [!concept-lens] [[Executive Function\|执行功能]]与抗干扰机制
 > 探讨注意力定向与对直觉迷思的[[Inhibitory Control\|抑制能力]]如何决定工作记忆在复杂问题中的有效吞吐率。
 
-> [!claim] [[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie (2017)]]; Kwon & Lawson; Homer & Plass
+> [!claim] [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]]; Kwon & Lawson; Homer & Plass
 > **抑制控制对保护工作记忆免受直觉干扰的决定性功能** 工作记忆的高效运转不仅取决于容量本身，更依赖中央执行系统的抑制控制（Inhibitory Control）。在科学探究与概念转变中，直觉迷思与无关实验[[Variable\|变量]]往往优先占据意识通道；学习者若缺乏抑制控制，工作记忆将被表面无关细节挤占。实证研究表明，学生的抑制控制能力能够直接解释科学探究技能 29% 的方差以及概念理解增益 28% 的方差，证实抵御干扰、保持工作记忆聚焦是探究成功的核心认知基石。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, p. 10)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 8)]]
 
 ---
@@ -176,7 +176,7 @@ updated: 2026-10-15
 > [!concept-lens] [[Cognitive Offloading\|认知卸载]]与生产性摩擦
 > 探讨生成式技术如何改变工作记忆负荷分配，剖析外包表层操作与外包核心评价对工作记忆高阶运转的截然不同后果。
 
-> [!claim] [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]
+> [!claim] [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]
 > **双向认知卸载与生产性摩擦捍卫** [[Generative Artificial Intelligence\|生成式人工智能]]对工作记忆具有复杂的双向塑造功能。一方面，系统能有效卸载繁琐格式排错、机械数据整理等浪费性摩擦，降低外在认知负荷，为工作记忆释放聚焦核心概念推理的宝贵带宽；另一方面，若通过一键交付的无摩擦委派直接生成论据评判与结论，技术将直接切除直面反常证据、权衡冲突解释等生产性认识摩擦（Productive [[Epistemic Friction]]）。这种过度卸载使有限的工作记忆退化为被动接受现成答案的狭隘通道，阻断了工作记忆与长时记忆交互重构深层图式的过程，导致学习者在脱离工具后认知表现发生断崖式瓦解。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 4–6)]]
 
 ---
@@ -186,10 +186,10 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **容量受限与加工瓶颈** | 确立 3–4 组块生理限制对新异信息加工的制约 | 基础认知负荷、新课导入与样例设计 | [[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie (2017)]]; [[John Sweller\|Sweller]] |
+> | **容量受限与加工瓶颈** | 确立 3–4 组块生理限制对新异信息加工的制约 | 基础认知负荷、新课导入与样例设计 | [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]]; [[John Sweller\|Sweller]] |
 > | **执行调控与抑制抗扰** | 揭示抑制控制通过过滤直觉杂讯保护工作记忆带宽 | 科学探究、概念转变与防直觉迷思干扰 | Bolton & Hattie; Kwon & Lawson; Homer & Plass |
 > | **支架卸载与图式突破** | 阐明外部支架与图式提取突破工作记忆瓶颈的协同路径 | [[Inquiry-Based Learning\|指导式探究]]、数字化虚拟实验与时序教学 | [[Argument_Fredens_2015_Paideia\|Fredens (2015)]]; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] |
-> | **人机卸载与摩擦权衡** | 揭示生成式 AI 消除机械负荷释放带宽，警惕切除思维摩擦阻断图式建构 | [[Intelligent Tutoring Systems\|智能导师系统]]、人机协同探究与学术写作 | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] |
+> | **人机卸载与摩擦权衡** | 揭示生成式 AI 消除机械负荷释放带宽，警惕切除思维摩擦阻断图式建构 | [[Intelligent Tutoring Systems\|智能导师系统]]、人机协同探究与学术写作 | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] |
 
 ---
 
@@ -200,9 +200,9 @@ updated: 2026-10-15
 > - **1974 — Baddeley-Hitch 多成分工作记忆模型** 阿兰·巴德利（Alan Baddeley）与格雷厄姆·希奇（Graham Hitch）突破短时记忆单一仓库论，提出由中央执行系统、语音回路和视空间画板构成的多成分工作记忆体系。
 > - **1988–1998 — [[Cognitive Load Theory\|认知负荷理论]]与工作记忆瓶颈确立** [[John Sweller\|约翰·斯威勒]]（John Sweller）提出认知负荷理论，将工作记忆界定为人类处理新异信息的狭窄通道，阐明长时记忆图式对解除工作记忆负荷的机制。
 > - **2000 — [[Executive Function\|执行功能]]三元统一模型** [[Akira Miyake\|阿基拉·三宅]]（Akira Miyake）等人确立执行功能的更新、抑制与转换三维度，将工作记忆动态表征的[[Updating and Monitoring\|更新与监控]]确立为核心[[Variable\|变量]]。
-> - **2015–2017 — 神经代谢极限与幼儿发展轨迹描绘** [[Argument_Fredens_2015_Paideia\|Fredens (2015)]] 揭示前额叶能量消耗引发的 10 分钟专注极限与默认网络功能；[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie (2017)]] 细化儿童从 15 个月到 8 岁的工作记忆更新与倒序发展轨迹。
+> - **2015–2017 — 神经代谢极限与幼儿发展轨迹描绘** [[Argument_Fredens_2015_Paideia\|Fredens (2015)]] 揭示前额叶能量消耗引发的 10 分钟专注极限与默认网络功能；[[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] 细化儿童从 15 个月到 8 岁的工作记忆更新与倒序发展轨迹。
 > - **2023 — 探究教学中的支架卸载与[[Inhibitory Control\|抑制控制]]实证确证** [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 结合初级实验与多国[[Meta-analysis\|元分析]]，实证确证[[Scaffolding\|认知支架]]与抑制控制在防范探究中工作记忆过载的不可替代性。
-> - **2026 — 人工智能时代的双向[[Cognitive Offloading\|认知卸载]]与生产性摩擦** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 系统揭示生成式 AI 介入对工作记忆的双向影响，提出区分降低外在负荷的工具性卸载与剥离[[Evaluative Judgement\|评价性判断]]的过度卸载，确立捍卫生产性认识摩擦对激活工作记忆深层加工的必要性。
+> - **2026 — 人工智能时代的双向[[Cognitive Offloading\|认知卸载]]与生产性摩擦** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 系统揭示生成式 AI 介入对工作记忆的双向影响，提出区分降低外在负荷的工具性卸载与剥离[[Evaluative Judgement\|评价性判断]]的过度卸载，确立捍卫生产性认识摩擦对激活工作记忆深层加工的必要性。
 
 ---
 
@@ -234,20 +234,20 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie (2017)]] | 幼儿与学龄前儿童（15 个月至 8 岁跨阶段群体） | 纵向追踪与发展任务实验（面孔任务、自排序更新、数字广度） | 工作记忆发展突增期；倒序记忆项目数；成年人容量上限 | 15–30 个月初始发展突增；3–5 岁大幅增长，7 岁平缓；4 岁至 6 岁倒序记忆从 1.58 项增至 2.88 项；成年人上限为 3–4 项 | — | 描绘儿童工作记忆从婴儿期至学龄期的非线性[[Growth\|成长]]曲线，确立[[Executive Function\|执行功能]]更新成分的早期发展敏感期 |
+> | [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] | 幼儿与学龄前儿童（15 个月至 8 岁跨阶段群体） | 纵向追踪与发展任务实验（面孔任务、自排序更新、数字广度） | 工作记忆发展突增期；倒序记忆项目数；成年人容量上限 | 15–30 个月初始发展突增；3–5 岁大幅增长，7 岁平缓；4 岁至 6 岁倒序记忆从 1.58 项增至 2.88 项；成年人上限为 3–4 项 | — | 描绘儿童工作记忆从婴儿期至学龄期的非线性[[Growth\|成长]]曲线，确立[[Executive Function\|执行功能]]更新成分的早期发展敏感期 |
 > | [[Argument_Fredens_2015_Paideia\|Fredens (2015)]] (引自 Hattie & Yates, 2014) | 学校课堂[[Business as Usual\|常态教学]]观察与神经认知测量 | 认知注意力持续性与神经代谢生理分析 | 前额叶持续高强度专注时长；默认网络切换周期 | 前额叶完全全神贯注时间约为 10 分钟；随后大脑糖原代谢下降并转入默认网络 | — | 实证确立课堂教学不能连续讲授或连续高强度练习，须以 10 分钟为节点变换教学互动形态 |
-> | Kwon & Lawson (2000) (引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 8]]) | 高中理科在校学生 | 控制实验与[[Multiple Regression\|多元回归]]分析 | [[Inhibitory Control\|抑制控制]]能力（Inhibitory Control）对方差解释率 | 解释了科学探究技能测验 29% 的方差；解释了概念理解增益 28% 的方差 | $p < .01$ | 实证确立抑制直觉干扰、保护工作记忆带宽是科学探究与概念转变取得成功的决定性认知机制 |
-> | Homer & Plass (2014) (同上引，p. 8) | 大学生与中学生化学模拟实验探究 | 虚拟微世界交互实验 | 抑制控制能力与概念远迁移成绩 | 抑制控制高分组在概念远迁移测试中成绩显著超越低分组 | 统计显著 | 证实抑制控制对维护工作记忆资源、促进复杂因果规则图式建构的迁移保障功能 |
+> | Kwon and Lawson (2000) (引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 8]]) | 高中理科在校学生 | 控制实验与[[Multiple Regression\|多元回归]]分析 | [[Inhibitory Control\|抑制控制]]能力（Inhibitory Control）对方差解释率 | 解释了科学探究技能测验 29% 的方差；解释了概念理解增益 28% 的方差 | $p < .01$ | 实证确立抑制直觉干扰、保护工作记忆带宽是科学探究与概念转变取得成功的决定性认知机制 |
+> | Homer and Plass (2014) (同上引，p. 8) | 大学生与中学生化学模拟实验探究 | 虚拟微世界交互实验 | 抑制控制能力与概念远迁移成绩 | 抑制控制高分组在概念远迁移测试中成绩显著超越低分组 | 统计显著 | 证实抑制控制对维护工作记忆资源、促进复杂因果规则图式建构的迁移保障功能 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie (2017)]] — [[Systematic Review\|系统综述]]幼儿[[Executive Function\|执行功能]]的发展轨迹，界定工作记忆[[Updating and Monitoring\|更新与监控]]成分的测量[[Paradigm\|范式]]（自排序、面孔任务）及其 3–4 组块容量界限。
+> - [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] — [[Systematic Review\|系统综述]]幼儿[[Executive Function\|执行功能]]的发展轨迹，界定工作记忆[[Updating and Monitoring\|更新与监控]]成分的测量[[Paradigm\|范式]]（自排序、面孔任务）及其 3–4 组块容量界限。
 > - [[Argument_Fredens_2015_Paideia\|Fredens (2015)]] — 结合脑神经科学与可见学习理论，揭示缺乏指导导致的工作记忆过载（垃圾桶效应）与前额叶 10 分钟专注极限及默认网络修复价值。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 辨析[[Direct Instruction\|直接教学]]与探究教学中的工作记忆机制，实证确证[[Scaffolding\|认知支架]]对卸载工作记忆负担以及[[Inhibitory Control\|抑制控制]]对保护工作记忆资源的核心功能。
-> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 提出人机中介学习中的[[Epistemic Dependence\|认识依赖]]与[[Cognitive Offloading\|认知卸载]][[Analytic Framework\|分析框架]]，阐明技术消除浪费性摩擦释放工作记忆资源与剥离生产性摩擦导致深层推理萎缩的深层机制。
+> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 提出人机中介学习中的[[Epistemic Dependence\|认识依赖]]与[[Cognitive Offloading\|认知卸载]][[Analytic Framework\|分析框架]]，阐明技术消除浪费性摩擦释放工作记忆资源与剥离生产性摩擦导致深层推理萎缩的深层机制。
 
 ---
 

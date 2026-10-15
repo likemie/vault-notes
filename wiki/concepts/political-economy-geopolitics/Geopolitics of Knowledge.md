@@ -251,7 +251,7 @@ updated: 2026-10-16
 >
 > 两条脉络并非前后替代——从不同学术起点出发，分别抵达"地缘政治与知识的关系"这一共同问题域。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral（2022）]]将两者整合为"新知识地缘政治"[[Analytic Framework\|分析框架]]，主张批判地缘政治学提供空间配置和话语建构的分析工具，去殖民传统则将注意力引向认识论本身的政治性（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp.39–40]]）。
 
-[[Argument_Marginson_2025_ECNUROE|Marginson（2025）]]补充了一个关键分析维度：[[Geopolitics of Higher Education|高等教育地缘政治]]关系同时包含合作与竞争、水平性与等级性，在科学领域比国家间政治经济和军事关系更具合作性，尽管在结构上可能更加等级化（[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp.11–12]]）。Moscovitz & Sabzalieva（2023）进一步提出"尺度-行动者-利益-机会结构"框架（scales, agents, interests and opportunity structures），为 GPK 实证研究提供了[[Operationalization|操作化]]工具，帮助识别特定情境中起作用的多种力量（[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p.14]]）。
+[[Argument_Marginson_2025_ECNUROE|Marginson（2025）]]补充了一个关键分析维度：[[Geopolitics of Higher Education|高等教育地缘政治]]关系同时包含合作与竞争、水平性与等级性，在科学领域比国家间政治经济和军事关系更具合作性，尽管在结构上可能更加等级化（[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp.11–12]]）。Moscovitz and Sabzalieva（2023）进一步提出"尺度-行动者-利益-机会结构"框架（scales, agents, interests and opportunity structures），为 GPK 实证研究提供了[[Operationalization|操作化]]工具，帮助识别特定情境中起作用的多种力量（[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p.14]]）。
 
 ---
 

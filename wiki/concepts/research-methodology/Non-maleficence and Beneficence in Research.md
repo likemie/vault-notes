@@ -29,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-19
-updated: 2026-06-19
+updated: 2026-10-16
 ---
 
 # Non-maleficence and Beneficence in Research
@@ -54,7 +54,7 @@ updated: 2026-06-19
 ### 不伤害
 
 > [!feature] 不伤害的操作含义
-> Aronson & Carlsmith (1969) 最初表达了[[Research Ethics\|研究伦理]]中的核心张力：社会对自由科学探究以追求真理和知识的信念，与社会对个体尊严的信念之间的紧张。Social Sciences & Humanities Research Council of Canada (1981) 的立场是：对物理、心理、人道、财产和文化价值的风险必须给予比对知识潜在贡献更大的考量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 89]]）。
+> Aronson and Carlsmith (1969) 最初表达了[[Research Ethics\|研究伦理]]中的核心张力：社会对自由科学探究以追求真理和知识的信念，与社会对个体尊严的信念之间的紧张。Social Sciences and Humanities Research Council of Canada (1981) 的立场是：对物理、心理、人道、财产和文化价值的风险必须给予比对知识潜在贡献更大的考量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 89]]）。
 
 > [!warning] 什么构成伤害是不清楚的
 > 一个人的伤害可能是社会的收益；一点小伤害对少数人是否在为所有人带来重大利益的情况下可容忍。核心问题在于：**目的正当化手段吗？（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 90]]）**

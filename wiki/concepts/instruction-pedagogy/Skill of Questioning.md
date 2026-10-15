@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Skill of Questioning
@@ -170,7 +170,7 @@ updated: 2026-10-15
 
 > [!dev-timeline] 提问技能的理论演进
 > - **古典时期 — [[Socrates|苏格拉底]][[Socratic Dialogue|产婆术]]** 将提问确立为破除虚假知识、引出真知的辩证法核心。
-> - **20 世纪末 — [[Critical Thinking|批判性思维]]与提问分类学** Elder & Paul (1998) 与 Dillon (1990) 系统建立批判性提问技能与课堂提问策略分类。
+> - **20 世纪末 — [[Critical Thinking|批判性思维]]与提问分类学** Elder and Paul (1998) 与 Dillon (1990) 系统建立批判性提问技能与课堂提问策略分类。
 > - **2016–2018 年 — [[Virtue Epistemology|美德认识论]]转向** Lani Watson 提出善于提问教育论，将提问技能界定为发展[[Epistemic Virtues and Vices|理智美德]]的[[21st Century Skills and Competencies Discourse|关键能力]]通道。
 > - **2026 年 — [[Generative Artificial Intelligence|生成式人工智能]]交互重塑** Hadeel Naeem 提出提问导师架构，将提问技能作为抵抗生成式 AI [[Cognitive Deskilling|认知去技能化]]、培育理智美德的根本途径。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 269–286)]]
 

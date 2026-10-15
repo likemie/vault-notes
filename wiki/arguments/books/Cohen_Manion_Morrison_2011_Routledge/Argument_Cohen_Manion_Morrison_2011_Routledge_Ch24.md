@@ -96,7 +96,7 @@ related_methods:
 related_instruments: []
 status: draft
 created: 2026-07-24
-updated: '2026-09-12'
+updated: 2026-10-16
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24
 
@@ -157,7 +157,7 @@ updated: '2026-09-12'
 > [!info] 核心参考资源
 > **Saklofske et al.（2001）**《心理教育评估手册》（*Handbook of Psychoeducational Assessment*）涵盖能力评估、成就评估、行为评估、跨文化认知评估和神经心理学评估五个板块。
 >
-> **Reynolds & Kamphaus（2003）**《儿童心理与教育评估手册》（*Handbook of Psychological and Educational Assessment of Children: Intelligence, Aptitude and Achievement*）涵盖以下领域：
+> **Reynolds and Kamphaus（2003）**《儿童心理与教育评估手册》（*Handbook of Psychological and Educational Assessment of Children: Intelligence, Aptitude and Achievement*）涵盖以下领域：
 >
 > > [!case]- 图 24.1　手册覆盖领域
 > > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_24-1_Reynolds_Kamphaus_2003_Coverage.jpg)
@@ -187,7 +187,7 @@ updated: '2026-09-12'
 > - 出版商如 Harcourt Assessment and John Wiley
 > - [美国心理学会（American Psychological Association, APA）](https://www.apa.org/science/programs/testing/find-tests.aspx)
 > - [英国心理学会（British Psychological Society, BPS）](https://www.psychtesting.org.uk)
-> - 标准教材：Gronlund & Linn（1990）、Kline（2000）、Loewenthal（2001）、Aiken（2003）
+> - 标准教材：Gronlund and Linn（1990）、Kline（2000）、Loewenthal（2001）、Aiken（2003）
 
 提供这份全面清单的目的不仅是显示有大量的评估和测验材料可用，更是为了表明这些材料覆盖了非常广泛的主题光谱。
 
@@ -326,7 +326,7 @@ updated: '2026-09-12'
 
 #### 商业测验的局限与风险
 
-Howitt & Cramer（2005）指出商业测验的购买和施测成本高昂、通常针对特殊而非一般人群、可能不完全适合所需目的。此外：
+Howitt and Cramer（2005）指出商业测验的购买和施测成本高昂、通常针对特殊而非一般人群、可能不完全适合所需目的。此外：
 
 > [!warning] 商业测验的获取限制
 > 许多商业测验有受限发布或获取限制。研究者可能需要向特定协会注册或获得使用许可才能获取测验副本。例如 **Harcourt Assessment** 和 **McGraw-Hill** 出版商不仅持有全球各类测验的权利，还要求注册才能发放测验。Harcourt Assessment 甚至有不同层级的获取许可——某些当事人或研究者可能因不符合特定资格标准而无资格获取测验。
@@ -337,7 +337,7 @@ Howitt & Cramer（2005）指出商业测验的购买和施测成本高昂、通�
 > - **目的-内容匹配** 商业诊断测验可能不适用于成就评估的需要；成就测验可能缺乏研究者寻求的预测品质；阅读测验可能未覆盖研究者想评估的阅读领域。商业测验按定义不针对特定机构或当地情境，声称客观性的理由正是**刻意超越机构**。
 
 > [!note]- 选择商业测验的黄金法则
-> 使用商业出版测验必须证明**目的适切性（[[Fitness for Purpose]]）**。Cronbach（1949）和 Gronlund & Linn（1990）制定了一套评估商业测验是否适合特定[[Research Purpose\|研究目的]]的准则。
+> 使用商业出版测验必须证明**目的适切性（[[Fitness for Purpose]]）**。Cronbach（1949）和 Gronlund and Linn（1990）制定了一套评估商业测验是否适合特定[[Research Purpose\|研究目的]]的准则。
 >
 > 若未能证明目的适切性，研究者就必须自编测验。自编测验的优势在于紧密贴合当地和机构情境——目的、目标和内容将刻意匹配研究者在特定给定情境中的具体需求。
 
@@ -533,7 +533,7 @@ IRT 建立在以下关键假设之上：
 
 ##### 第四步：选择测验内容——题目分析
 
-Gronlund & Linn（1990）建议题目分析需考虑八项准则：
+Gronlund and Linn（1990）建议题目分析需考虑八项准则：
 
 > [!feature] 题目分析的八项审查准则
 > - **格式适合性（Appropriateness）** 每个项目的格式对（学习）目标的适合性
@@ -675,7 +675,7 @@ Gronlund & Linn（1990）建议题目分析需考虑八项准则：
 > | 开放式问题（有书写长度指引） | 中-高阶 | 中 |
 
 > [!tension] 单维量表与多维量表
-> - **单维量表（蓝方）** 所有题目测量单一元素或维度，内部一致性高，构念清晰。Howitt & Cramer（2005, p. 204）类比：用 10 个体重秤称 30 个人，各秤之间预期高相关
+> - **单维量表（蓝方）** 所有题目测量单一元素或维度，内部一致性高，构念清晰。Howitt and Cramer（2005, p. 204）类比：用 10 个体重秤称 30 个人，各秤之间预期高相关
 > - **多维量表（红方）** 同一测验同时测量多个因素或维度，更贴近复杂构念的真实结构。类比：用 10 个体重秤称体重，再用 5 个卷尺量身高——体重秤之间高相关，卷尺之间高相关，但体重秤与卷尺之间低相关（因为它们测量不同的东西）
 >
 > 测验编制者需要清楚自己是在使用单维还是多维量表。许多教材在提倡使用纯单维测验的同时，也承认多维测验的有效性和效率——例如将智力作为多维构念比作为单维因素能获得更强的测量。
@@ -709,7 +709,7 @@ Gronlund & Linn（1990）建议题目分析需考虑八项准则：
 > 这种项目分析的目的是包含测量同一[[Construct\|构念]]的项目，排除不测量该构念的项目。
 
 > [!info] 因子分析的补充作用
-> 因子分析的基本原理是：如果多个题目测量同一个潜在维度，它们之间的相关应高于与其他题目之间的相关。算法从所有题目之间的相关矩阵出发，找出能解释最多共同变异的**潜在因子（latent factors）**——每个因子代表一组高度相关的题目背后共享的潜在构念。第一个因子解释最多变异，后续因子依次解释剩余变异中最多的一部分。题目在每个因子上的**负荷量（factor loading）**表示该题目与因子的关联强度。
+> 因子分析的基本原理是：如果多个题目测量同一个潜在维度，它们之间的相关应高于与其他题目之间的相关。算法从所有题目之间的相关矩阵出发，找出能解释最多共同变异的**潜在因子（latent factors）**——每个因子代表一组高度相关的题目背后共享的潜在构念。第一个因子解释最多变异，后续因子依次解释剩余变异中最多的一部分。题目在每个因子上的**负荷量（factor loading）** 表示该题目与因子的关联强度。
 >
 > 在上述 10 项例子中，因子分析可能发现三个因子：
 >
@@ -771,7 +771,7 @@ Gronlund & Linn（1990）建议题目分析需考虑八项准则：
 <br>
 
 > [!note]- 多项选择题的编写准则
-> Gronlund & Linn（1990）、Hanna（1993, pp. 161–175）、Cunningham（1998）和 Aiken（2003）提出以下准则：
+> Gronlund and Linn（1990）、Hanna（1993, pp. 161–175）、Cunningham（1998）和 Aiken（2003）提出以下准则：
 >
 > **题干设计：**
 > - **考察重点** 确保考察重要的知识和学习，而非低层次的事实回忆

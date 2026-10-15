@@ -120,7 +120,7 @@ citation_aliases:
 
 **（1）[[Academic Capitalism|学术资本主义]]的多样性**
 
-Slaughter & Leslie(1997)和 Slaughter & Rhoades(2004)的 [[Academic Capitalism|学术资本主义]] 概念提供了重要起点：大学日益卷入专利商业化、[[University-Industry Collaboration|产学合作]]和竞争性拨款等市场导向活动。但该概念需要两重修正：第一，学术界的"市场"与常规价格型市场存在根本差异，大学的竞争往往不以价格和利润为主要机制；第二，学术资本主义在不同国家呈现出截然不同的面貌，美国式的金融化市场化、德国式的拉锯式改革、挪威式的国家主导，需要制度比较的视角来揭示这些差异的来源(pp.797–798)。
+Slaughter and Leslie(1997)和 Slaughter and Rhoades(2004)的 [[Academic Capitalism|学术资本主义]] 概念提供了重要起点：大学日益卷入专利商业化、[[University-Industry Collaboration|产学合作]]和竞争性拨款等市场导向活动。但该概念需要两重修正：第一，学术界的"市场"与常规价格型市场存在根本差异，大学的竞争往往不以价格和利润为主要机制；第二，学术资本主义在不同国家呈现出截然不同的面貌，美国式的金融化市场化、德国式的拉锯式改革、挪威式的国家主导，需要制度比较的视角来揭示这些差异的来源(pp.797–798)。
 
 **（2）不平等的[[Discourse|话语]]建构**
 

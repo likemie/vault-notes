@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Effective Sample Size
@@ -66,7 +66,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **有效[[Sample Size Determination\|样本量]]（Effective Sample Size，ESS）**指在复杂抽样设计、多层嵌套模型或整群[[Randomised Controlled Trials\|随机对照试验]]（Cluster-Randomised Controlled Trials）中，扣除由聚集性（Clustering）和[[Intraclass Correlation Coefficient\|群内相关系数]]（Intra-Cluster Correlation Coefficient，ICC）所引起的方差膨胀与设计效应（Design Effect，Deff）后，样本在统计学上实际等价于“独立同分布[[Random Sampling\|简单随机抽样]]（Simple Random Sampling）”的观测单位数量。它直接决定了统计检验力（Statistical Power）与参数估计的精度（即[[Confidence Interval\|置信区间]]宽度）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 56–57)]]
+> **有效[[Sample Size Determination\|样本量]]（Effective Sample Size，ESS）** 指在复杂抽样设计、多层嵌套模型或整群[[Randomised Controlled Trials\|随机对照试验]]（Cluster-Randomised Controlled Trials）中，扣除由聚集性（Clustering）和[[Intraclass Correlation Coefficient\|群内相关系数]]（Intra-Cluster Correlation Coefficient，ICC）所引起的方差膨胀与设计效应（Design Effect，Deff）后，样本在统计学上实际等价于“独立同分布[[Random Sampling\|简单随机抽样]]（Simple Random Sampling）”的观测单位数量。它直接决定了统计检验力（Statistical Power）与参数估计的精度（即[[Confidence Interval\|置信区间]]宽度）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 56–57)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 这个概念指向复杂研究设计中“表面观察人头数（名义样本量）”与“实际独立统计信息量（有效样本量）”之间的本质落差，揭示了同校同班学生相似性对[[Causality\|因果推断]]功效的内在稀释。
@@ -157,7 +157,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **集群效应方差膨胀命题** | 群内相关系数必然大幅折损名义样本量，造成推断功效严重衰减 | 学校、班级、学区等具有层级嵌套特征的教育现场试验 | Hedges (2007); Demack (2019) |
-> | **有效样本量扩增与精度提升命题** | 唯有大幅增加独立集群（学校）数量才能实质倍增有效样本量，收窄置信区间并支撑微弱效应检出 | 大规模国家级循证干预试验、跨校推广性评估与中介机构方法学演进 | Sanders (2019); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] |
+> | **有效样本量扩增与精度提升命题** | 唯有大幅增加独立集群（学校）数量才能实质倍增有效样本量，收窄置信区间并支撑微弱效应检出 | 大规模国家级循证干预试验、跨校推广性评估与中介机构方法学演进 | Sanders (2019); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] |
 
 ---
 
@@ -178,8 +178,8 @@ updated: 2026-10-15
 > > [!axis] [[Confidence Interval\|置信区间]]宽度与教育试验的“信息量”标准之争
 > > 学界围绕如何判定大规模整群教育试验的学术价值存在尖锐分歧。
 > >
-> > - **Lortie-Forgues & Inglis（2019）** 对 141 项 [[Education Endowment Foundation\|EEF]]/[[National Center for Education Evaluation and Regional Assistance\|NCEE]] 试验进行二阶重分析，指出其平均[[Effect Size\|效应量]]仅为 0.06 个标准差，而置信区间宽度高达 0.30 个标准差，断言多数试验因统计推断极其不精确而“缺乏信息量（uninformative）”，难以指导实践。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 56)]]
-> > - **Sanders & Nevill（2019）** 反驳指出单纯基于早期静态置信区间宽度做出全盘否定是片面的；随着有效[[Sample Size Determination\|样本量]]翻番，后续试验精度已大幅提高；更重要的是，证明干预“未优于常态实践”本身就是极为宝贵的负向信息，能避免公共教育财政浪费。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 56–57)]]
+> > - **Lortie-Forgues and Inglis（2019）** 对 141 项 [[Education Endowment Foundation\|EEF]]/[[National Center for Education Evaluation and Regional Assistance\|NCEE]] 试验进行二阶重分析，指出其平均[[Effect Size\|效应量]]仅为 0.06 个标准差，而置信区间宽度高达 0.30 个标准差，断言多数试验因统计推断极其不精确而“缺乏信息量（uninformative）”，难以指导实践。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 56)]]
+> > - **Sanders and Nevill（2019）** 反驳指出单纯基于早期静态置信区间宽度做出全盘否定是片面的；随着有效[[Sample Size Determination\|样本量]]翻番，后续试验精度已大幅提高；更重要的是，证明干预“未优于常态实践”本身就是极为宝贵的负向信息，能避免公共教育财政浪费。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 56–57)]]
 
 > [!warning] 追求超大有效样本量引发的干预保真度稀释
 > 为了追求充足的有效样本量以获取微弱效应的统计检验力，研究者被迫招募成百上千所学校展开超大规模试验。然而，随着组织规模急剧膨胀，跨校培训质量、材料递送与教师依从度极易发生剧烈衰减，导致干预在现场被严重稀释，最终陷入“样本量足够大但干预实质已经名存实亡”的效度悖论。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 57)]]
@@ -193,13 +193,13 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, p. 56)]]<br>(重审 Lortie-Forgues & Inglis, 2019) | $N = 1,222,024$ 名学生，涵盖英美 141 项 RCT 试验 | 二阶试验[[Meta-analysis\|元分析]]与统计精度重审 | 核心学业产出效应量分布与精度 | 平均效应量为 0.06 个标准差；平均 95% [[Confidence Interval\|置信区间]]宽度为 0.30 个标准差 | 多数试验置信区间横跨零点且极宽 | 批评早期教育试验有效样本量不足导致检验力匮乏，许多试验无法区分真实效应与测量噪音。 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, p. 57)]]<br>(引述 Sanders, 2019) | 英国 [[Education Endowment Foundation\|EEF]] 资助的 150 余项学校现场 [[Randomised Controlled Trials\|RCT]]（覆盖逾 14,000 所中小学） | 长期机构发展追踪分析 | 试验有效样本量（ESS）时间演进趋势 | 2014 年后 EEF 资助试验的平均有效样本量相较于 2011–2013 年早期试验几乎翻倍 | 单校招募规模与学校总数显著扩增 | 表明随着招募与交付体系成熟，机构有能力成倍提升试验推断精度，化解早期信息量不足问题。 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 56)]]<br>(重审 Lortie-Forgues & Inglis, 2019) | $N = 1,222,024$ 名学生，涵盖英美 141 项 RCT 试验 | 二阶试验[[Meta-analysis\|元分析]]与统计精度重审 | 核心学业产出效应量分布与精度 | 平均效应量为 0.06 个标准差；平均 95% [[Confidence Interval\|置信区间]]宽度为 0.30 个标准差 | 多数试验置信区间横跨零点且极宽 | 批评早期教育试验有效样本量不足导致检验力匮乏，许多试验无法区分真实效应与测量噪音。 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 57)]]<br>(引述 Sanders, 2019) | 英国 [[Education Endowment Foundation\|EEF]] 资助的 150 余项学校现场 [[Randomised Controlled Trials\|RCT]]（覆盖逾 14,000 所中小学） | 长期机构发展追踪分析 | 试验有效样本量（ESS）时间演进趋势 | 2014 年后 EEF 资助试验的平均有效样本量相较于 2011–2013 年早期试验几乎翻倍 | 单校招募规模与学校总数显著扩增 | 表明随着招募与交付体系成熟，机构有能力成倍提升试验推断精度，化解早期信息量不足问题。 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 详尽记录了面对学界对 141 项英美教育 [[Randomised Controlled Trials\|RCT]] 效应微弱且[[Confidence Interval\|置信区间]]过宽（0.30 SD）的批评，[[Education Endowment Foundation\|EEF]] 如何通过系统化制度动员将 2014 年后的试验有效[[Sample Size Determination\|样本量]]翻番，使大规模试验逐步演变为能够高精度识别真实微弱效应的决策支持工具。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详尽记录了面对学界对 141 项英美教育 [[Randomised Controlled Trials\|RCT]] 效应微弱且[[Confidence Interval\|置信区间]]过宽（0.30 SD）的批评，[[Education Endowment Foundation\|EEF]] 如何通过系统化制度动员将 2014 年后的试验有效[[Sample Size Determination\|样本量]]翻番，使大规模试验逐步演变为能够高精度识别真实微弱效应的决策支持工具。
 

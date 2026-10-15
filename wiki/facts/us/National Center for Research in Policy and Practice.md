@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # National Center for Research in Policy and Practice
@@ -94,6 +94,6 @@ updated: 2026-10-15
 ## 相关概念与研究
 
 > [!evidence-grid-a] 相关索引
-> - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 评述 NCRPP 框架对界定 [[Evidence-Informed Practice\|EIP]] 成果与测量影响的理论贡献。
+> - [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] — 评述 NCRPP 框架对界定 [[Evidence-Informed Practice\|EIP]] 成果与测量影响的理论贡献。
 > - [[Conceptual, Instrumental, and Symbolic Use of Research]] — 核心概念条目。
 > - [[Research-Practice Partnership]] — RPP 伙伴关系条目。

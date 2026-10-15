@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Brookings Institution
@@ -158,7 +158,7 @@ updated: 2026-10-15
 > | [[Grover Whitehurst]] | 智库学者 | 长期主政布朗教育政策中心并提出质疑课程标准效能的核心学者。 |
 > | [[William H. Schmidt]] | 论敌学者 | 发表反驳模型与布鲁金斯学会展开长达数年实证交锋的提分派领军学者。 |
 > | [[Institute of Education Sciences]] | 联邦机构 | 怀特赫斯特转任布鲁金斯学会前担任创始院长的联邦循证科学中枢。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证文献 | 详细记录布鲁金斯学者实证质疑并以此剖析证据争议本质的经典研究。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 详细记录布鲁金斯学者实证质疑并以此剖析证据争议本质的经典研究。 |
 
 ---
 

@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Examination-Oriented Education
@@ -189,10 +189,10 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心论点 | 适用情境 | 代表文献 |
 > |---|---|---|---|
-> | **系统维系命题** | 应试教育是由行政问责、家长期望与教师道德责任多层锁定的高协调性自稳活动系统 | 东亚社会、中国基础教育改革与[[Intercultural Education\|跨文化教育]]治理 | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]; You (2019) |
+> | **系统维系命题** | 应试教育是由行政问责、家长期望与教师道德责任多层锁定的高协调性自稳活动系统 | 东亚社会、中国基础教育改革与[[Intercultural Education\|跨文化教育]]治理 | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]]; You (2019) |
 > | **计算机化异化命题** | 追求标准化得分将教学窄化为模式识别与公式套路，前置剥夺了学生的深层探究权与[[Epistemic Agency\|认识主体性]] | 高利害测验、欧美与全球标准化读写教学改革 | Learned et al. (2020); Collin (2024); Davies (2022); [[Argument_Smith_2026_SPE\|Smith (2026)]] |
 > | **技术共谋致残命题** | 生成式 AI 与应试套路发生病理共振，全面接管心智实践并极度放大成长性认识不正义 | 人工智能教育采纳、课堂写作学与技术伦理批判 | [[Argument_Smith_2026_SPE\|Smith (2026)]] |
-> | **改革妥协命题** | 教学创新在实践中被严格规约于“确保分数不降”的底线之下，面临被工具化收编的命运 | 教学法改革、LCE [[Going Native\|本土化]]与课程[[Implementation and Process Evaluation\|实施评估]] | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]; [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] |
+> | **改革妥协命题** | 教学创新在实践中被严格规约于“确保分数不降”的底线之下，面临被工具化收编的命运 | 教学法改革、LCE [[Going Native\|本土化]]与课程[[Implementation and Process Evaluation\|实施评估]] | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]]; [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] |
 
 ---
 
@@ -231,7 +231,7 @@ updated: 2026-10-15
 > [!ref-table] 应试教育相关实证研究汇总
 > | 研究 | 样本与情境 | 研究设计 | 核心[[Variable\|变量]]与调查维度 | 原始定性/定量发现 | 解释边界与理论贡献 |
 > |---|---|---|---|---|---|
-> | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] | 中国东部与中部 4 所中学（2 所城市、2 所农村，含示范校与普通校） | 质性多案例研究与[[Third Generation Activity Theory\|活动理论]]分析 | 教师主导讲授比例、统考数据分析模式、行政考核与改革动力 | 100% 学校在统考后逐题分析数据并对齐教学；农村与后进校为突破瓶颈采纳 [[Learner-Centred Education\|LCE]]，但全员视“成绩不降”为绝对底线 | 证实应试教育是由多层行政问责与社会道德信念锁定的高稳态活动系统 |
+> | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] | 中国东部与中部 4 所中学（2 所城市、2 所农村，含示范校与普通校） | 质性多案例研究与[[Third Generation Activity Theory\|活动理论]]分析 | 教师主导讲授比例、统考数据分析模式、行政考核与改革动力 | 100% 学校在统考后逐题分析数据并对齐教学；农村与后进校为突破瓶颈采纳 [[Learner-Centred Education\|LCE]]，但全员视“成绩不降”为绝对底线 | 证实应试教育是由多层行政问责与社会道德信念锁定的高稳态活动系统 |
 > | Learned et al. (2020)（引自 [[Argument_Smith_2026_SPE\|Smith, 2026]]） | 欧美中学读写课堂 | 质性[[Fieldwork\|田野调查]]与师生追踪 | [[High-Stakes Testing\|高利害测验]]对课堂生态与写作心理的影响 | 教师在高压测验下被迫放弃自由阅读，全盘转向公式套路写作训练；学生表现出普遍的焦虑与情绪创伤 | 揭示西方高利害测验与公式写作对应试心理异化的跨国共性 |
 > | [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] | 中国教育政策[[Discourse\|话语]]与历史文本 | 历史制度主义与[[Discourse Analysis\|话语分析]] | 应试教育与[[Quality Education\|素质教育]]二元对立的政策建构 | 两者在政策文本中被建构为不可调和的对立[[Paradigm\|范式]]，但在学校日常管理中高度妥协与混杂 | 揭示应试教育话语背后的意识形态与政治治理逻辑 |
 > | Collin (2024)（引自 [[Argument_Smith_2026_SPE\|Smith, 2026]]） | 美国读写教育百年历史与课程档案 | 历史社会学与读写史考察 | 读写教学目标演进与测验技能异化 | 读写教育彻底放弃了早期追求道德真理与社会至善的探究目标，退化为圈过渡词等细碎技能操练 | 确立了读写教育向应试技能主义蜕变的工具化历史脉络 |
@@ -250,7 +250,7 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 运用[[Third Generation Activity Theory|活动理论]]系统剖析中国学校应试教育系统的协调性机制、多层问责网络与教师道德认同，揭示应试底线对 [[Learner-Centred Education|LCE]] 改革的制约。
+> - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 运用[[Third Generation Activity Theory|活动理论]]系统剖析中国学校应试教育系统的协调性机制、多层问责网络与教师道德认同，揭示应试底线对 [[Learner-Centred Education|LCE]] 改革的制约。
 > - [[Argument_Smith_2026_SPE\|Smith (2026)]] — 结合读写教育史与[[Critical Pedagogy|批判教育学]]，揭示高利害应试体系催生的[[Computerization of Education|教育计算机化]]与公式套路写作，如何在生成式 AI 时代前置并加剧[[Formative Epistemic Injustice|成长性认识不正义]]。
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 深入分析中国官方与学术[[Discourse|话语]]中应试教育与[[Quality Education|素质教育]]的二元建构及其在政策实践中的模糊性与复杂性。
 

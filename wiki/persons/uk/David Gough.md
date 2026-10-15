@@ -137,7 +137,7 @@ updated: 2026-10-16
 > [!evidence-grid-a] 相关索引
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 系统阐述[[Educational Brokerage Agency\|知识中介机构]]自我循证的五大支柱与[[Evidence Standards\|证据标准]]框架。
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 详细评述 Gough [[Research Utilization\|证据使用]]生态[[Analytic Framework\|分析框架]]的三代演进谱系及其双层嵌套贡献。
-> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 考证 Gough 领衔的 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 跨国网络在欧洲教育中介治理中的历史探索。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 考证 Gough 领衔的 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 跨国网络在欧洲教育中介治理中的历史探索。
 > - [[Evidence Ecosystem]] — 核心理论模型与双层嵌套结构的主要奠基者。
 > - [[Educational Brokerage Agency]] — 阐明中介机构组织形态、[[Theory of Change\|变革理论]]与证据标准规范。
 > - [[EPPI-Centre]] — 长期任职与领导的循证方法学研究机构。

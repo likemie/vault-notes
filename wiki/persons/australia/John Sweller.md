@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-16
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # John Sweller
@@ -138,7 +138,7 @@ updated: 2026-10-15
 > - **跨国／跨领域传播** 理论从澳大利亚与荷兰发源，广泛传播至欧美主流[[Evidence-Based Education\|循证教育]]界，被政策制定者作为反对[[Progressive Education\|进步主义教育]]、推行标准化显性教学的实证科学依据。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] — 从批判政策社会学视角剖析 Sweller 的认知负荷理论著作如何被澳大利亚保守派智库 CIS 动员，并通过《强劲开端》报告强制嵌入全国初始教师教育。
+> - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] — 从批判政策社会学视角剖析 Sweller 的认知负荷理论著作如何被澳大利亚保守派智库 CIS 动员，并通过《强劲开端》报告强制嵌入全国初始教师教育。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 针对 Zhang, Kirschner, Cobern, & Sweller (2022) 倡导的[[Direct Instruction\|直接教学]]绝对优越论展开全面批判，系统反驳其对[[Working Memory\|工作记忆]]瓶颈的片面阐释，证实辅以支架的[[Inquiry-Based Learning\|指导式探究]]在深层概念理解与长效保持上的实证优越性。
 
 ---
@@ -179,7 +179,7 @@ updated: 2026-10-15
 
 > [!critique]- 批评索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 批评其 2022 年论文存在严重的文献选择性引证偏误，曲解了[[Control of Variables Strategy\|变量控制策略]]实验与元分析结论，并指出单一直接教学在长期记忆保持上的严重衰减。
-> - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] — 批评其受保守派智库资助的论著被政治化动员为强制推行脚本化教学、剥夺大学教师教育自主权的[[Disciplina and Doctrina\|规训]]工具。
+> - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] — 批评其受保守派智库资助的论著被政治化动员为强制推行脚本化教学、剥夺大学教师教育自主权的[[Disciplina and Doctrina\|规训]]工具。
 
 > [!warning] 未解问题与边界
 > 随着学习科学对探究时序性（如[[Productive Failure\|生产性失败]]中探究前置以激活认知图式、随后直接讲授）的深入探索，Sweller 关于“初学者任何时候都必须先接受显性直接示范”的绝对化断言正面临越来越多的实验边界修正。学界共识逐渐倾向于探讨直接教学与探究实践在认知发展不同阶段的动态时序互补，而非固守二元对立。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 8–10)]]

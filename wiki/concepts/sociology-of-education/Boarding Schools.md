@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-17'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Boarding Schools
@@ -101,7 +101,7 @@ updated: 2026-10-15
 > | **空间治理机制** | 强制与家庭物理隔离，惩处母语交流 | 设立固定定居点学校，阻断随牧迁徙 | 高端庄园式封闭园区，全封闭寄宿制管理 |
 > | **主要生源构成** | 被强制征调的美洲、澳洲原住民儿童 | 印度拉巴里等游牧部族学龄学童 | 欧美传统富裕阶层及亚洲跨国留学生 |
 > | **底层应对逻辑** | 被动承受严重文化创伤与身份分裂 | 战略性分派单个儿子就读作为生计保险 | 视作规避本土应试内卷、跃升顶尖大学的阶层跳板 |
-> | **代表文献考察** | 历史社会学与殖民[[Archival Research\|档案研究]] | Dyer (2001); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010)]] |
+> | **代表文献考察** | 历史社会学与殖民[[Archival Research\|档案研究]] | Dyer (2001); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010)]] |
 
 ---
 
@@ -114,7 +114,7 @@ updated: 2026-10-15
 > [!concept-lens] 空间圈禁与定居政治
 > 现代民族国家的合法性建立在清晰划界的领土与可统计的人口之上；任何拒绝定居在固定空间的游动群体，都被国家[[Governmentality|治理术]]视为对社会秩序的潜在威胁。
 
-> [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] & Dyer (2001)
+> [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] & Dyer (2001)
 > **国家推行定居化的教育空间装置** 索贝与菲舍尔（Noah W. Sobe & Trevor Fischer, 2009, pp. 366–367）援引卡罗琳·戴尔（Caroline Dyer, 2001）针对印度古吉拉特邦拉巴里（Rabari）游牧部族的实证考证指出，公立寄宿学校被国家明确用作推进定居化（Sedentarization）的核心工具。学校通过将游牧儿童全封闭固定在特定建筑与地理空间内，企图自幼消除部族的放牧习俗与流动性；正规寄宿学校不仅在空间上切断了儿童跟随父辈游牧学艺的物质条件，其课程体系更单向传播定居社会的文化价值观，构成国家空间[[Governmentality|治理术]]对流动人口的[[Disciplina and Doctrina|规训]]重塑。
 
 ---
@@ -124,7 +124,7 @@ updated: 2026-10-15
 > [!concept-lens] 边缘群体的反向能动性博弈
 > 底层群体面对国家强加的同化学校并非只有被动顺从或彻底拒斥两种极端，而是能够借助工具性就学实现风险分散。
 
-> [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] & Dyer (2001)
+> [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] & Dyer (2001)
 > **作为生存风险保险单的寄宿教育** 拉巴里部族家庭在国家定居化压力下展现出精妙的生存智慧：长老与家长们意识到，完全脱离现代学校会导致下一代因缺乏读写算术能力而饱受外界商人欺瞒与官僚盘剥。许多游牧家庭采取“策略性分流”方案，精心挑选送一个儿子前往定点寄宿学校求学，把寄宿学校教育当作对冲外部制度风险的“保险单（Insurance）”；在维系放牧传统主体命脉的同时，定向培育具备现代文字交往能力的人才以维护部族利益。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 367)]]
 
 ---
@@ -144,7 +144,7 @@ updated: 2026-10-15
 > [!contrast-table] 寄宿学校核心命题归纳
 > | 命题类型 | 核心论断 | 实践机制与政策含义 | 代表文献 / 理论源流 |
 > |---|---|---|---|
-> | **[[Sedentarism\|定居主义]]与空间圈禁** | 寄宿学校是国家强制消解部族流动性、强推定居化的空间规训装置 | 物理封闭切断传统游牧生态，以国家正规课程替代本土经验知识 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]]; Dyer (2001) |
+> | **[[Sedentarism\|定居主义]]与空间圈禁** | 寄宿学校是国家强制消解部族流动性、强推定居化的空间规训装置 | 物理封闭切断传统游牧生态，以国家正规课程替代本土经验知识 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]]; Dyer (2001) |
 > | **底层生计保险博弈** | 边缘家庭策略性分派子女入读寄宿学校以获取读写资本对冲外部盘剥 | 反驳纯粹被动受害假定，揭示游牧主体在国家同化缝隙中的避险能动性 | 同上（拉巴里部族识字保险博弈） |
 > | **精英再生产与生源依赖** | 西方寄宿学校依托跨国文凭跳板定位，借由吸纳亚洲富裕生源维持财政预算 | 揭示全球高等教育准入竞争下，私立寄宿教育的商品化与文化同化底色 | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010)]] |
 
@@ -178,7 +178,7 @@ updated: 2026-10-15
 >
 > | 研究考证 / 案例 | 样本规模与情境 | 研究设计与方法 | 核心考查[[Variable\|变量]] / 机制 | 主要实证发现与结果 | 理论与政策启示 |
 > |---|---|---|---|---|---|
-> | **Dyer (2001)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]]** | 印度西部古吉拉特邦拉巴里（Rabari）游牧部族 | [[Fieldwork\|田野调查]]、部落访谈与参与观察 | 公立定居寄宿学校运作 vs 部族识字策略 | 国家将寄宿学校作为强制推行部族定居化（Sedentarization）的工具；部族家庭策略性送一个儿子入学作为分散生存风险的“保险单” | 强力[[Falsification\|证伪]]国家单向同化预设，证实边缘流动主体利用寄宿教育对冲外部制度盘剥的能动性 |
+> | **Dyer (2001)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]]** | 印度西部古吉拉特邦拉巴里（Rabari）游牧部族 | [[Fieldwork\|田野调查]]、部落访谈与参与观察 | 公立定居寄宿学校运作 vs 部族识字策略 | 国家将寄宿学校作为强制推行部族定居化（Sedentarization）的工具；部族家庭策略性送一个儿子入学作为分散生存风险的“保险单” | 强力[[Falsification\|证伪]]国家单向同化预设，证实边缘流动主体利用寄宿教育对冲外部制度盘剥的能动性 |
 > | **[[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010)]]** | 英国、澳大利亚、加拿大逾 860 所私立寄宿学校 | 宏观教育统计映射与跨国办学模式调查 | 国际生源规模、国别构成与财政预算占比 | 英国超 700 所（年育 10 万+ 学生），澳洲 101 所，加拿大 60 所；澳、加寄宿学校高度依赖[[Chinese Learner\|中国学习者]]维持日益增长的预算份额 | 揭示出后殖民时代西方寄宿教育从帝国精英培育向全球文凭跳板与财政创收转型的结构轨迹 |
 
 ---
@@ -195,7 +195,7 @@ updated: 2026-10-15
 > | [[Spatial Governmentality]] | 理论 | **核心解释工具** 透视寄宿学校如何通过空间隔离、领地圈禁与作息控制实施人口[[Disciplina and Doctrina\|规训]]的空间理论。 |
 > | [[Two Problematics of Educational Inclusion and Exclusion]] | 理论 | **批判反思透镜** 揭示国家寄宿学校在宣称包容边缘儿童的同时，在文化推理系统层面实施排斥的双重机制。 |
 > | [[Chinese Learner]] | 概念 | **当代跨国主体** 在全球文凭跳板竞争中支撑英联邦私立寄宿学校财政预算的关键国际学生群体。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 论证 | 深入剖析印度游牧民拉巴里部族在寄宿学校定居化进程中开展生计保险博弈的经典比较教育文献。 |
+> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证 | 深入剖析印度游牧民拉巴里部族在寄宿学校定居化进程中开展生计保险博弈的经典比较教育文献。 |
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010)]] | 论证 | 全景勾勒英澳加寄宿学校历史演变及其转型为国际留学生顶尖大学文凭跳板的实证文献。 |
 
 ---

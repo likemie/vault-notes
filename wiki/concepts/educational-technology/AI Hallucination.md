@@ -81,7 +81,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # AI Hallucination
@@ -213,7 +213,7 @@ updated: 2026-10-15
 > |---|---|---|---|
 > | **技术机制命题** | 概率预测本质决定幻觉是生成式系统的内在属性 | 计算机科学、大模型原理与 AI 素养基础 | Ji et al.; Li et al. |
 > | **风险侵蚀命题** | 无支架使用与低自律状态下幻觉诱发虚假掌握与[[Epistemic Deference\|认知顺从]] | 开放性课后[[Homework\|作业]]、无监管学术写作 | Li et al.; Xu et al.; Zhao et al. |
-> | **教学转化与认识跃迁** | 结构化查错与异己智能定位将幻觉转化为倒逼批判性思维与评价论演进的认知靶子 | 科学写作探究、统计推论决策、人文学科批判性读写 | Archila et al.; Li et al.; Zhao et al.; [[Argument_Wu_2025_ER\|Wu et al. (2025)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]]; [[Argument_Smith_2026_SPE\|Smith (2026)]] |
+> | **教学转化与认识跃迁** | 结构化查错与异己智能定位将幻觉转化为倒逼批判性思维与评价论演进的认知靶子 | 科学写作探究、统计推论决策、人文学科批判性读写 | Archila et al.; Li et al.; Zhao et al.; [[Argument_Wu_2025_ER\|Wu et al. (2025)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]]; [[Argument_Smith_2026_SPE\|Smith (2026)]] |
 
 ---
 
@@ -224,7 +224,7 @@ updated: 2026-10-15
 > - **2022–2023 年 — ChatGPT 爆发与大模型幻觉泛化** 随着生成式 AI 普及，幻觉特异性指向 LLMs 编造虚假事实与虚构学术引文的普遍现象，引发全球学术界关于研究可[[Reliability\|信度]]的争论。
 > - **2024–2026 年 — 学习科学与教育学教学化转向** 教育研究从单纯的“技术除错/封禁”转向“教学转化”，[[Argument_Li_2026_CEAI\|Li et al. (2026)]]、Archila et al. (2024) 与 [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] 系统确立了基于 AI 幻觉识别的[[Critical Thinking\|批判性思维]]与[[Epistemological Vigilance\|认识论警觉]]培养[[Paradigm\|范式]]。
 > - **2025 年 — [[Man-Computer Symbiosis|人机共生]][[Epistemology\|认识论]]扰动机制确立** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 实证揭示算法幻觉作为诱发认识论扰动的核心催化剂，确立了通过双轨支架将幻觉转化为评价主义立场跃迁的干预机制。
-> - **2026 年 — 多模态伪完整性审验与学科标准支架** [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] 揭示生成式 AI 在[[Scientific Explanation|科学解释]]中的伪完整性与静态图解表征偏差，实证确立学科四维标准在初中生识别机制断裂与图解纠偏中的支架效能。
+> - **2026 年 — 多模态伪完整性审验与学科标准支架** [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] 揭示生成式 AI 在[[Scientific Explanation|科学解释]]中的伪完整性与静态图解表征偏差，实证确立学科四维标准在初中生识别机制断裂与图解纠偏中的支架效能。
 > - **2026 年 — [[Alien Intelligence|异己智能]]定位与批判性防御规程确立** [[Argument_Smith_2026_SPE\|Smith (2026)]] 揭示大模型自信输出事实谬误的幻觉特征，提出将 AI 概念化为缺乏人类具身生活经验的“异己智能”，通过独立事实核查规程与思维步骤全外显构建防范成长性认识伤害的教学防线。
 
 ---
@@ -259,7 +259,7 @@ updated: 2026-10-15
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 7)]] | 全球 67 项高等教育实证研究（2022–2025） | [[PRISMA]] 系统综述 | 缺乏幻觉核查导致的学术风险 | 14 项实证研究报告学生因未辨别 AI 幻觉而直接采纳错误引文，导致[[Homework\|作业]]论证逻辑破裂并面临学术诚信风险 | — | 揭示缺乏 AI 素养与幻觉防范规程时的普遍认知风险 |
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025, pp. 10–11, 14, 16)]] | 纳入全球 59 项独立实证研究（批判性思维子维度 $k = 20$） | 随机效应一阶[[Meta-analysis\|元分析]]与调节效应模型 | 批判性思维（$g = 0.691$）机制解释与自主调节能力（低 SRL 易感性） | 确立批判性思维在中等偏大水平显著提升（$g = 0.691$），理论机制模型证实 AI 幻觉具有倒逼审验的催化作用；同时亚组检验显示低 SRL 组促学效应微弱（$g = 0.284$），证实缺乏自律调控易深陷幻觉误导 | 组内 $Z = 5.973, p < 0.001$；SRL 组间 $Q_b = 40.962, p < 0.001$ | 实证表明 AI 幻觉转化为批判性思维动力高度依存于学习者的自我调节水平与显性查错支架 |
 > | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 363–366)]] | N=124 师范生统计分析任务 | 2x2 [[Randomised Controlled Trials\|随机对照实验]]与人机交互追踪 | 算法幻觉识别率与[[Epistemic Stances\|认识立场]]演进 | 实验组通过提示词约束使大模型显式输出前提假设，学生成功识别出 ChatGPT 在正态性假设上的算法幻觉，多源验证行为显著增加，评价论达成率显著提升 | $p < .01$ | 证实幻觉在双轨支架下能有效转化为认识论进阶的催化剂 |
-> | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026, pp. 11–18)]] | 韩国 8 名初中生，两节人机协同科学课（植物[[Growth\|生长]]与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像转录、数字生成物、访谈） | AI 伪完整性识别与多模态图表纠偏表现 | 初中生在 4 组[[Dialogue in Education\|对话]]中敏锐指出 AI 叙事性童话掩盖了水分运输机制，并识别出静态插图缺乏水流渗透箭头，通过迭代提示词促使 AI 补全机制与微观结构 | 质性微观对话与制品分析 | 确立学科标准在初中生识破 AI 伪完整性与多模态表征偏差中的有效支架功能 |
+> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026, pp. 11–18)]] | 韩国 8 名初中生，两节人机协同科学课（植物[[Growth\|生长]]与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像转录、数字生成物、访谈） | AI 伪完整性识别与多模态图表纠偏表现 | 初中生在 4 组[[Dialogue in Education\|对话]]中敏锐指出 AI 叙事性童话掩盖了水分运输机制，并识别出静态插图缺乏水流渗透箭头，通过迭代提示词促使 AI 补全机制与微观结构 | 质性微观对话与制品分析 | 确立学科标准在初中生识破 AI 伪完整性与多模态表征偏差中的有效支架功能 |
 > | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026, pp. 16–18)]] | 156 项教育元分析（[[Visible Learning\|可见的学习]]数据库[[Random Sampling\|随机抽样]]，468 个数据点） | 大模型提取准确性与金标准仲裁评测（Gemini 2.5 Pro、[[General Purpose Technology\|GPT]]-4.1、GPT-o3） | [[Automated Data Extraction\|自动化数据提取]]中的事实幻觉与信息遗漏 | 在 55 项原文缺失对应统计量的元分析中，三大前沿 LLM 仅产生 3–4 例事实性幻觉（与人类专家的 3–4 例完全持平）；而信息遗漏更为普遍（LLM 遗漏 21–36 例 vs 专家 12–31 例） | $\text{ICC} = 0.96–0.97$（模型 vs 金标准） | 证实前沿 LLM 在严格提示词下事实性幻觉发生率极低，误差主要由长文本信息遗漏与多表累加疏漏驱动 |
 
 ---
@@ -284,7 +284,7 @@ updated: 2026-10-15
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances\|认识立场]]框架，实证揭示算法幻觉作为[[Epistemology\|认识论]]扰动契机如何通过双轨支架驱动学生向评价主义演进。
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 运用一阶[[Meta-analysis\|元分析]]实证揭示生成式 AI 对[[Critical Thinking\|批判性思维]]的显著促学效应（$g = 0.691$），从认知机理上提出 AI 幻觉对批判审验的倒逼催化机制，同时发现低[[Self-Regulated Learning\|自主调节学习]]能力者更容易受到幻觉误导。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项高等教育 ChatGPT 实证研究，将 AI 幻觉识别与去幻觉查错确立为驱动[[Critical Thinking\|批判性思维]]发展的核心教学机制。
-> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 揭示中学生如何运用学科四维解释标准识别并纠正生成式 AI 在文本叙事中的因果机制遗漏与多模态图像中的静态表征偏差。
+> - [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] — 揭示中学生如何运用学科四维解释标准识别并纠正生成式 AI 在文本叙事中的因果机制遗漏与多模态图像中的静态表征偏差。
 > - [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] — 在 156 项教育元分析的[[Automated Data Extraction\|自动化数据提取]]中系统评测大模型幻觉与遗漏率，证实模型事实性幻觉发生率极低且与人类专家持平。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] — 强调基础教育科学课程必须培养学生识别大模型幻觉与算法偏见的批判性数字素养。
 > - [[Argument_Smith_2026_SPE\|Smith (2026)]] — 揭示大语言模型自信输出事实谬误的幻觉特征，提出将 AI 概念化为缺乏具身生命的“[[Alien Intelligence|异己智能]]”，推行事实核查规程与思维步骤全外显以捍卫求知者的[[Epistemic Agency|认识主体性]]。

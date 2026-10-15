@@ -52,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Interview Protocol
@@ -285,5 +285,5 @@ Tuckman（1972）区分了四种问题格式和八种回答模式（[[Argument_C
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 系统介绍访谈协议的四部分结构、追问策略和操作建议。
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 系统介绍访谈协议的四部分结构、追问策略和操作建议。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al. (2011, Ch. 21)]] — 全面覆盖提纲构建的三种项目类型、问题格式与回答模式、提示与追问体系，以及半结构化提纲的设计原则。

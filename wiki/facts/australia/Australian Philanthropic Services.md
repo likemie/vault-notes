@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-02
+updated: 2026-10-16
 ---
 
 # Australian Philanthropic Services
@@ -60,7 +60,7 @@ updated: 2026-10-02
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **澳大利亚慈善服务社（Australian Philanthropic Services, APS）**是[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）于 2012 年出资设立的非营利专业慈善管理服务机构，现为全澳规模最大的私人辅助基金（Private Ancillary Funds, PAFs）与公众辅助基金（Public Ancillary Funds, PuAFs）设立与运营平台。由著名商法与政策顾问[[David Gonski\|戴维·冈斯基]]（David Gonski）亲自担任创设董事长，在[[Policy Network\|政策网络]]中充当了连接高净值财富家族、企业避税慈善资本与[[Social Impact Investing\|社会影响力投资]]的核心制度管道（ASIC, 2021c；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 7]]）。
+> **澳大利亚慈善服务社（Australian Philanthropic Services, APS）** 是[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）于 2012 年出资设立的非营利专业慈善管理服务机构，现为全澳规模最大的私人辅助基金（Private Ancillary Funds, PAFs）与公众辅助基金（Public Ancillary Funds, PuAFs）设立与运营平台。由著名商法与政策顾问[[David Gonski\|戴维·冈斯基]]（David Gonski）亲自担任创设董事长，在[[Policy Network\|政策网络]]中充当了连接高净值财富家族、企业避税慈善资本与[[Social Impact Investing\|社会影响力投资]]的核心制度管道（ASIC, 2021c；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 7]]）。
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2012 年创立于悉尼；由 [[Social Ventures Australia\|澳大利亚社会创投]]（SVA）为了满足高净值人士系统化、免税化开展社会投资的需求而作为全资子公司孵化（ASIC, 2021c）。

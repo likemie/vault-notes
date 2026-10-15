@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Confucius
@@ -140,9 +140,9 @@ updated: 2026-10-07
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 系统追踪孔子的[[Primary and Secondary Documents\|原始文献]]，建构东亚与西方文化学习模型的对比框架。
-> - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 揭示孔子启发式对话思想与维果茨基社会文化理论的文化选择性亲和，及其在当代高压应试下对 LCE 改革的[[Going Native\|本土化]]赋能。
+> - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 揭示孔子启发式对话思想与维果茨基社会文化理论的文化选择性亲和，及其在当代高压应试下对 LCE 改革的[[Going Native\|本土化]]赋能。
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 记录蔡元培等学者在杜威访华与 1950 年代批评中对孔子权威符号的跨文化[[Recontextualization\|再脉络化]]与反转调用。
-> - [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] — 实证揭示当代217册必修教材如何将孔子塑造为中华文化等价物，以及少数民族与信教学生对其男权等级性与人类中心主义的解构。
+> - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 实证揭示当代217册必修教材如何将孔子塑造为中华文化等价物，以及少数民族与信教学生对其男权等级性与人类中心主义的解构。
 > - [[Argument_Ryan_2010_ChineseLearner\|Ryan (2010)]] — 剖析政治[[Discourse|话语]]（如新加坡“儒家社会”）对孔子标签的过度泛化与剥离。
 
 ---
@@ -166,12 +166,12 @@ updated: 2026-10-07
 > >
 > > - **五四新文化运动学者（1919）** — 将孔子等同于封建礼教与专制统治，提出“打倒孔家店”。
 > > - **[[Argument_Li_2012_Cambridge\|Li (2012)]]** — 认为近代知识分子混淆了国家的政治体制与文化本身，指出孔子的真实力量在于解答普遍的人性卓越与生命意义问题[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 9, 11)]]。
-> > - **[[Argument_Yu_2024_CE\|Yu & Zhao (2024)]]** — 指出当代党国将孔子高度等同于单一汉文化，构建了排他性的[[Symbolic Boundary\|象征边界]]与[[Cultural Hierarchy\|文化等级]]，在少数民族与信教学生中引发了对其男权支配与阶级控制底色的强烈批判[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 67–69)]]。
+> > - **[[Argument_Yu_2024_CE\|Yu and Zhao (2024)]]** — 指出当代党国将孔子高度等同于单一汉文化，构建了排他性的[[Symbolic Boundary\|象征边界]]与[[Cultural Hierarchy\|文化等级]]，在少数民族与信教学生中引发了对其男权支配与阶级控制底色的强烈批判[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 67–69)]]。
 
 > [!critique]- 批评索引
-> - [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] — 边缘学生指出孔子伦理缺乏对非人类自然的关怀（人类中心主义），且缺乏对生死起源的灵性终极解答。
+> - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 边缘学生指出孔子伦理缺乏对非人类自然的关怀（人类中心主义），且缺乏对生死起源的灵性终极解答。
 > - [[Argument_Ryan_2010_ChineseLearner\|Ryan (2010)]] — 指出威权政治将决策包装为“儒家价值”（如新加坡模式），但实践与孔子本意相去甚远，稀释了概念解释力。
-> - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 指出孔子传统强调教师道德与知识权威，在现代化课堂中留下了学生无法参与共决课程大纲与评估标准的结构性硬边界。
+> - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 指出孔子传统强调教师道德与知识权威，在现代化课堂中留下了学生无法参与共决课程大纲与评估标准的结构性硬边界。
 
 > [!warning] 未解问题与边界
 > 在当代多元文化社会与全球教育治理中，如何在继承孔子启发式对话与好学传统的同时，突破尊师权威所带来的权力共享边界，并解构其被国家主义收编所带来的汉族中心同化风险，是东亚教育改革面临的深层挑战[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。

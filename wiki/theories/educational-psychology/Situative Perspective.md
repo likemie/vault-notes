@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-19
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Situative Perspective
@@ -149,7 +149,7 @@ updated: 2026-10-07
 > > 争论认知究其本质是驻留在个体头脑中的内部表征，还是根植于物理与社会情境脉络中的参与活动。
 > >
 > > - **个体[[Constructivist Paradigm|建构主义]]（Cognitive Constructivism）** 聚焦个体头脑内部知识结构的同化与顺应，认为环境只是外部刺激。
-> > - **情境主义（Situative Perspective）** 认为个体建构派犯了脱域错误，把“社会实践”狭隘还原为“脑内加工”。Packer & Goicoechea (2000) 曾断言两者不可[[Commensuration|通约]]。
+> > - **情境主义（Situative Perspective）** 认为个体建构派犯了脱域错误，把“社会实践”狭隘还原为“脑内加工”。Packer and Goicoechea (2000) 曾断言两者不可[[Commensuration|通约]]。
 > > - **现代学习科学整合** 倾向于将两者互补：情境学习提供了共同体演进与合法边缘性参与模型，而认知建构则阐明了个体在社会参与中如何打破盲区、更新认知图式。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]; [[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–3)]]
 
 > [!warning] 混合模态下的情境沉浸稀释危机

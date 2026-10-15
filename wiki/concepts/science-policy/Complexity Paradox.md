@@ -31,7 +31,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-16
 title: Complexity Paradox
 aliases:
   - 复杂性悖论
@@ -47,7 +47,7 @@ aliases:
 ## 定义
 
 > [!def] 核心定义
-> **复杂性悖论（Complexity Paradox / Complexity Paradox of Modern Public Policy）**是指现代公共治理中所出现的一种结构性制度异化现象：面对日益复杂的全球性重大社会危机（如气候变化、公共健康危机、人口老龄化与绿色数字双转型），政策议题的系统关联度越高、跨领域属性越强，政府内部的行政机构和政策制定机制反而越发倾向于自我封闭、退守部门壁垒并陷入碎片化与条块分割。这一悖论最早由格里·斯威尼（Gerry Sweeney, 1985）明确指出，并由[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）系统引入使命导向政策分析，用以解释为何旨在发挥跨部门宏观协调功能的创新政策往往沦为各部门争夺资源的孤岛式碎片工具。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791)]]
+> **复杂性悖论（Complexity Paradox / Complexity Paradox of Modern Public Policy）** 是指现代公共治理中所出现的一种结构性制度异化现象：面对日益复杂的全球性重大社会危机（如气候变化、公共健康危机、人口老龄化与绿色数字双转型），政策议题的系统关联度越高、跨领域属性越强，政府内部的行政机构和政策制定机制反而越发倾向于自我封闭、退守部门壁垒并陷入碎片化与条块分割。这一悖论最早由格里·斯威尼（Gerry Sweeney, 1985）明确指出，并由[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）系统引入使命导向政策分析，用以解释为何旨在发挥跨部门宏观协调功能的创新政策往往沦为各部门争夺资源的孤岛式碎片工具。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示了客观政策问题的系统复杂性与科层组织主观分割性之间的深层制度张力。
@@ -95,7 +95,7 @@ aliases:
 > [!concept-lens] 政策演进史与协调机制维度
 > 探讨创新政策的历史初衷与现实异化。
 
-> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
+> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **协调初衷的制度性落空** 创新政策在 1970 年代末至 1980 年代初作为独立政策领域出现时，其最初设想是一项跨越产业、科技与教育的综合协调性政策；然而在复杂性悖论的作用下，由于缺乏跨部门权威与共享愿景，创新政策迅速蜕变为各个部委各自为政的孤立项目组合，失去了统筹系统转型的制度力量。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 790)]]
 
 ---
@@ -105,7 +105,7 @@ aliases:
 > [!concept-lens] 公共行政[[Paradigm|范式]]与国家能力维度
 > 审视 [[New Public Management|NPM]] 改革对跨部门协调机制的侵蚀效应。
 
-> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
+> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **微观合规与外部依赖摧毁系统协同** NPM 改革所推行的微观成本效益核算与广泛[[Externalization|外部化]]外包，导致公共部门内部出现了[[Cognitive Deskilling|去技能化]]（Deskilling）；公共部门退化为只关注短期合规的被动采购者，丧失了自主构想复杂解决方案与跨部门协同攻坚的组织底座，使得复杂性悖论在 1990 年代以来进一步加剧。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791, 795–796)]]
 
 ---
@@ -115,7 +115,7 @@ aliases:
 > [!concept-lens] 使命导向治理与组织重构维度
 > 论证如何从根本上打破部门壁垒与协调僵局。
 
-> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
+> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **使命统领与能力重组打破条块分割** 破解复杂性悖论必须依靠两大支柱：一是设立具有高度社会共识、明确时间表与统摄性的重大国家使命（如阿波罗登月或德国能源转型），为各部门提供超越部门利益的共同航向；二是系统构建涵盖国家政治合法性、政策协同组合与行政敏捷流动的三层[[Public Dynamic Capabilities|公共部门动态能力]]，赋予跨职能项目团队打破部门边界的试错与协同权限。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791, 796–798)]]
 
 ---

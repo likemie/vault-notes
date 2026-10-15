@@ -78,7 +78,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Policy Entrepreneur
@@ -176,7 +176,7 @@ updated: 2026-10-15
 > |---|---|---|---|
 > | **远处治理命题** | 关注政策企业家在分散的全球网络中如何以中立数据为名，协调并执行远处治理。 | 全球多行动者[[Policy Network\|政策网络]]及基准数据比较。 | [[Argument_Klerides_2023_CE\|Klerides (2023)]]; Ball (2012) |
 > | **混合私有化命题** | 关注政策企业家如何通过无缝跨界运作，将公共教育资源与商业利润网络对接。 | 国家私有化改革、慈善资本运作与学校商业化服务。 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]]; Mintrom (2000) |
-> | **阶段证据整合命题** | 关注政策企业家如何在政策各阶段策略性组合实证研究、专业经验与价值诉求，破解政策垄断。 | 课程标准改革、多阶段公共决策倡导与联盟构建。 | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]]; Stone (2012) |
+> | **阶段证据整合命题** | 关注政策企业家如何在政策各阶段策略性组合实证研究、专业经验与价值诉求，破解政策垄断。 | 课程标准改革、多阶段公共决策倡导与联盟构建。 | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]]; Stone (2012) |
 
 ---
 
@@ -242,7 +242,7 @@ updated: 2026-10-15
 > |---|---|---|---|---|---|---|
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, p. xv)]] | 新西兰注册慈善机构数据库（包含 6,059 个教育慈善组织） | 数据库财务与结构统计分析 | 政府拨款依赖度与贸易收入占比 | 仅 4.5% 机构主要依赖政府拨款，仅 3.9% 依赖服务与贸易收入 | — | 表明绝大多数所谓教育慈善组织在运营资金结构上并非传统的政府承包商，具有高度的非官方独立运作和潜在的政策创业自由度。 |
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, pp. 47–51)]] | 新西兰[[Educational Management Organisation\|教育管理组织]]与慈善基金会财务数据（2007–2015） | 财务报表个案审计研究 | 慈善性直接捐赠占集团总收入或投资收益的比例 | Cognition Education (2015) 直接捐赠比例仅占集团收入 0.9%；[[Foundation North Māori and Pasifika Education Initiative\|Foundation North]] (2010–2015) 投资收益分配为捐赠的比例仅为 23.3% | — | 说明所谓非营利性政策创业主体以慈善或利他[[Discourse\|话语]]运作，但在实际财务流动中，其大部分盈余流向了集团权益积累或运营费用，向学校返还的慈善价值微乎其微。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013, pp. 7, 22)]] | 全美及 4 个重点州（加州、印第安纳、马萨诸塞、田纳西）政策精英与关键中介 | 过程追踪与 111 场[[In-depth Interview\|深度访谈]] | 政策企业家资金动员与联盟覆盖规模 | [[Bill & Melinda Gates Foundation\|盖茨基金会]]向 18 个全国组织注资 5,000 万美元，向 10 家服务商与 20 个州注资 3,900 万美元；[[Hunt Institute\|亨特研究所]]每周召集 7–14 家机构协同 | — | 实证揭示出政策企业家通过巨额私人资本与例行协调机制，能够在极短时间内跨越分权体制障碍，动员全美范围的政策采纳网络。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013, pp. 7, 22)]] | 全美及 4 个重点州（加州、印第安纳、马萨诸塞、田纳西）政策精英与关键中介 | 过程追踪与 111 场[[In-depth Interview\|深度访谈]] | 政策企业家资金动员与联盟覆盖规模 | [[Bill & Melinda Gates Foundation\|盖茨基金会]]向 18 个全国组织注资 5,000 万美元，向 10 家服务商与 20 个州注资 3,900 万美元；[[Hunt Institute\|亨特研究所]]每周召集 7–14 家机构协同 | — | 实证揭示出政策企业家通过巨额私人资本与例行协调机制，能够在极短时间内跨越分权体制障碍，动员全美范围的政策采纳网络。 |
 
 ---
 
@@ -251,4 +251,4 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] — 系统使用并细化了该概念，深入剖析了新西兰公立教育体系中 [[John Hattie]] 等政策企业家在公共福利、非营利与营利三种运作动机间无缝跨界运作的路径与后果。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 将政策企业家概念引入理性主义比较教育发展的第三阶段，用以解释数据[[Governing at a Distance|远处治理]]与分散权威空间的多行动者协调机制。
-> - [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] — 将政策企业家理论与多阶段证据利用相结合，系统揭示了跨界行动者如何动员差距指标、筑牢技术护栏并提供对标工具，突破[[Punctuated Equilibrium Theory|政策垄断]]并推动 [[Common Core State Standards|CCSS]] 法定采纳。
+> - [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] — 将政策企业家理论与多阶段证据利用相结合，系统揭示了跨界行动者如何动员差距指标、筑牢技术护栏并提供对标工具，突破[[Punctuated Equilibrium Theory|政策垄断]]并推动 [[Common Core State Standards|CCSS]] 法定采纳。

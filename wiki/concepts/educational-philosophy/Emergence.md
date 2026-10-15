@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Emergence
@@ -180,7 +180,7 @@ updated: 2026-10-15
 > [!concept-lens] 系统的不可还原性与全新[[Unit of Analysis|分析单位]]
 > 阐明涌现属性在[[Ontology|本体论]]上的独立地位，彻底清算[[Positivism|实证主义]]机械还原论将整体拆解为原子化[[Variable|变量]]的[[Epistemology|认识论]]错误。
 
-> [!claim] Davis & Sumara (2005) & Bar-Yam (1997)
+> [!claim] Davis and Sumara (2005) & Bar-Yam (1997)
 > **探究必须确立在涌现的高阶层面而非低阶活动** 现象在复杂适应系统中发生不可逆的性质跃迁，研究者必须将探究直接确立在其涌现出的全新系统层面上开展；整体行为具有宏观自主性，任何通过对离散部件分别测量后再线性拼凑整体的尝试，皆会丢失系统最核心的非线性关联属性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 29)]]
 
 ---
@@ -190,7 +190,7 @@ updated: 2026-10-15
 > [!concept-lens] 涌现机制对质性探究方法论的规范奠基
 > 论证自然主义[[Qualitative Research|质性研究]]如何将涌现原理内化为探究的本体论承诺，规范理论从实地数据中生发以及研究设计随现场深入而动态迭代。
 
-> [!claim] Lincoln & Guba (1985) & Parlett (1976)
+> [!claim] Lincoln and Guba (1985) & Parlett (1976)
 > **双重涌现公理重塑质性探究形态** 在自然主义[[Paradigm|范式]]中，涌现表现为理论的涌现（实地情境中动态涌现的[[Grounded Theory|扎根理论]]取代先验假设）与设计的涌现（研究设计随着现场沉浸与抽样重构而持续演变）；探究者通过[[Progressive Focussing|逐步聚焦]]（Progressive Focussing）使认知过程契合现实世界的自组织属性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 404–405, 435)]]
 
 ---
@@ -295,5 +295,5 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 跨章节系统论述涌现的多维意涵：在[[Epistemology|认识论]]上解构受控实验的[[Variable|变量]]恒常假定（Ch. 1），在方法论上确立自然主义[[Qualitative Research|质性研究]]中理论与设计的双重涌现公理（Ch. 11），并在计算模拟中阐明基于主体建模（[[Agent-based Modelling|ABM]]）微观规则生成宏观社会事实的动力学机制（Ch. 19）。
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 在质性研究设计框架中规范阐述[[Emergent Design|涌现式设计]]与数据分析主题生发规程。
+> - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 在质性研究设计框架中规范阐述[[Emergent Design|涌现式设计]]与数据分析主题生发规程。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025)]] — 详尽解构头部大模型在万亿参数高维隐空间中常识物理推理与概念具象化能力的自组织涌现，探讨[[Artificial General Intelligence|通用人工智能]]火花的哲学与战略意涵。

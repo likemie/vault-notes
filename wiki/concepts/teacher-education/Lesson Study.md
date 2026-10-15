@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Lesson Study
@@ -75,14 +75,14 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 概念定义
-> **课例研究（Lesson Study，源自日文“授業研究 / Jugyō Kenkyū”）**是起源于日本、随后风靡国际教师教育界的协同校本专业发展与[[Action Research\|行动研究]][[Paradigm\|范式]]。其核心操作机制为：由任课教师团队围绕具体学科教学疑难或学生长远[[21st Century Skills and Competencies Discourse\|核心素养]]，共同经历“协同备课[[Design-Based Research\|设计研究]]课 $	o$ 一人执教且同伴聚焦个案学童进行细致观课 $	o$ 基于实证记录展开集体研讨反思 $	o$ 提炼微观教学法并修订教案再教”的循环探究过程。
+> **课例研究（Lesson Study，源自日文“授業研究 / Jugyō Kenkyū”）** 是起源于日本、随后风靡国际教师教育界的协同校本专业发展与[[Action Research\|行动研究]][[Paradigm\|范式]]。其核心操作机制为：由任课教师团队围绕具体学科教学疑难或学生长远[[21st Century Skills and Competencies Discourse\|核心素养]]，共同经历“协同备课[[Design-Based Research\|设计研究]]课 $	o$ 一人执教且同伴聚焦个案学童进行细致观课 $	o$ 基于实证记录展开集体研讨反思 $	o$ 提炼微观教学法并修订教案再教”的循环探究过程。
 >
 > 课例研究的[[Epistemology\|认识论]]旨趣在于将传统孤立封闭的个人课堂转变为公开透明的实证研究现场，使教师从被动的方案执行者转变为深入观察儿童微观认知发生过程的研究型实践者（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 56]]）。
 
 > [!concept-lens] 概念透镜
 > - **核心属性** 聚焦微观真实课堂、以特定个案学童（Case Pupils）的学习反应为核心证据、全员协同研讨、[[Inquiry Cycle\|探究循环]]迭代。
 > - **外延边界** 课例研究不同于行政考核性的“公开课评优”或自上而下的教研听评课；其评价焦点并非授课教师的个人表演技巧，而是具体教学设计对学生思维认知路径的实际影响。
-> - **系统定位** 在证据知情学校体系中，课例研究被确立为**[[Joint Practice Development\|联合实践发展]]（Joint Practice Development, JPD）**的典范机制，是让[[Professional Learning Community\|专业学习共同体]]（PLC）将抽象研究证据在真实课堂中进行“测试、实施与微调”的操作载体。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 125)]]
+> - **系统定位** 在证据知情学校体系中，课例研究被确立为 **[[Joint Practice Development\|联合实践发展]]（Joint Practice Development, JPD）** 的典范机制，是让[[Professional Learning Community\|专业学习共同体]]（PLC）将抽象研究证据在真实课堂中进行“测试、实施与微调”的操作载体。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 125)]]
 
 > [!citation-card] 布朗与格里尼论课例研究作为融通证据与实践的 JPD 载体
 > 教师参与研究[[Evidence-Informed Practice\|证据知情实践]]存在两大路径：一是开展自身的[[Practitioner Enquiry\|实践者探究]]，二是搜寻外部已被验证的成熟策略；在现实中，若专业发展依托联合实践发展（JPD）如课例研究展开，这两项活动将高度重叠。学校必须建立起能与 PLC 学习进程相契合的[[Research Utilization\|证据使用]][[Operationalization\|操作化]]系统，使教师得以协同测试、实施并完善改进教学的拟议方案；这通过 JPD 及课例研究等方法得到最有效实现。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 122, 125)]]
@@ -144,7 +144,7 @@ updated: 2026-10-15
 > [!concept-lens] 制度支撑脱嵌与机会成本代价
 > 课例研究并非轻量级工具，缺乏课时减免与高位引领的生硬推行会造成零效应与时间贫困。
 
-> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]]; Murphy, R. et al.
+> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]; Murphy, R. et al.
 > **移植阻抗与时间替代代价** 当一种深度依附于东亚集体主义文化与制度化教研保障的教育[[Paradigm\|范式]]被生硬植入高度问责且课时繁重的西方学校时，课例研究往往沦为“耗费大量教师精力、制造了高度协作满意假象，却未能穿透微观学科认知”的表层形式主义活动，甚至因占用教师日常备课和个别辅导时间对学生产出构成无形挤占。（p. 56）
 
 ---
@@ -154,7 +154,7 @@ updated: 2026-10-15
 > [!concept-lens] [[Joint Practice Development\|JPD]] 载体与 [[Professional Learning Community\|PLC]] 循证落地的组织中枢
 > 课例研究消解了[[Practitioner Enquiry\|实践者探究]]与外部证据运用的壁垒，是 PLC 避免[[Activity Traps\|活动陷阱]]的关键制度保障。
 
-> [!claim] [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]]; Sebba, J. et al.; Dudley, P.
+> [!claim] [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]]; Sebba, J. et al.; Dudley, P.
 > **实践探究与外部证据的双向交融** 教师参与[[Evidence-Informed Practice\|证据知情实践]]面临两难：自主探究容易因循守旧，外部研究容易浮于表面。Brown & Greany 指出，课例研究作为联合实践发展（JPD）的典型模式，使“教师自主探究”与“运用成熟研究证据”在真实磨课中实现有机结合。课例研究不仅提供微观课堂反思，更为学校 PLC 提供了正式的制度系统，使教师得以协同测试、实施并微调外部循证干预举措；唯有依托此类严密结构，学校才能避免陷入频繁开会却无因果检验的[[Activity Traps\|活动陷阱]]。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 122, 125)]]
 
 ---
@@ -164,9 +164,9 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **微观实证反思命题** | 论证以个案学童微观证据为载体的课例研讨对打破教学私有化的决定性功能 | 课堂教学诊断、学科教学知识（PCK）提炼 | Stigler & Hiebert (1999); Dudley (2013) |
-> | **移植边界与代价命题** | 揭示西方学校在缺乏课时豁免与专业引领时推行课例研究的时间挤出与零效应风险 | [[Intercultural Education\|跨文化教育]]模式引进、教研减负政策制定 | Murphy et al. (2017); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] |
-> | **JPD 循证融通命题** | 确立课例研究为融通实践者自主探究与外部[[Research Utilization\|研究使用]]、支撑 PLC 试错微调的核心 JPD 载体 | 证据知情学校建设、教研组循证改课规程设计 | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]]; Sebba et al. (2012) |
+> | **微观实证反思命题** | 论证以个案学童微观证据为载体的课例研讨对打破教学私有化的决定性功能 | 课堂教学诊断、学科教学知识（PCK）提炼 | Stigler and Hiebert (1999); Dudley (2013) |
+> | **移植边界与代价命题** | 揭示西方学校在缺乏课时豁免与专业引领时推行课例研究的时间挤出与零效应风险 | [[Intercultural Education\|跨文化教育]]模式引进、教研减负政策制定 | Murphy et al. (2017); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] |
+> | **JPD 循证融通命题** | 确立课例研究为融通实践者自主探究与外部[[Research Utilization\|研究使用]]、支撑 PLC 试错微调的核心 JPD 载体 | 证据知情学校建设、教研组循证改课规程设计 | [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]]; Sebba et al. (2012) |
 
 ---
 
@@ -177,7 +177,7 @@ updated: 2026-10-15
 > - **1999 — 《教学差距》出版与全球引介狂潮** 斯蒂格勒与希伯特在 [[TIMSS]] 录像分析中系统总结课例研究，将其塑造为揭示东亚高[[Academic Achievement\|学业表现]]秘密的“灵丹妙药”，欧美各国掀起大规模模仿引进浪潮。
 > - **2000s–2010s — 西方[[Going Native\|本土化]]改造与手册化普及** 英国、美国等相继开发本土课例研究操作规程（如 Dudley 模式），被政府教育部门与教师专业协会广泛背书，成为公认的优质专业发展标志。
 > - **2017–2021 — 循证去魅与因果实证反思** 英国 [[Education Endowment Foundation\|EEF]] 资助开展 181 所学校的大规模整群 [[Randomised Controlled Trials\|RCT]]（Murphy et al., 2017; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]），证实其在西方学校情境中对学生统考成绩零效应。学术界开始深入反思“制度保障脱嵌”、“缺乏专业引领”与“时间挤出”等移植边界条件。
-> - **2018 — [[Self-Improving School System\|SISS]] 视阈下 [[Joint Practice Development\|JPD]] 证据融通载体的定位重塑** [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] 在自我改进学校系统研究中，赋予课例研究以全新的循证定位：将其界定为联合实践发展（JPD）的典范机制，能够消除实践者自主探究与外部[[Research Utilization\|研究使用]]的鸿沟，为 [[Professional Learning Community\|PLC]] 提供了在课堂情境中协同“测试、实施与微调”外部循证方案的正式制度载体。
+> - **2018 — [[Self-Improving School System\|SISS]] 视阈下 [[Joint Practice Development\|JPD]] 证据融通载体的定位重塑** [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] 在自我改进学校系统研究中，赋予课例研究以全新的循证定位：将其界定为联合实践发展（JPD）的典范机制，能够消除实践者自主探究与外部[[Research Utilization\|研究使用]]的鸿沟，为 [[Professional Learning Community\|PLC]] 提供了在课堂情境中协同“测试、实施与微调”外部循证方案的正式制度载体。
 
 ---
 
@@ -210,8 +210,8 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]]; Murphy et al. (2017) | 英格兰 181 所小学学童 | 双级整群 [[Randomised Controlled Trials\|RCT]] | 课例研究校本培训、Key Stage 2 数学与阅读标准化统考成绩 | 意向治疗（ITT）分析显示：课例研究干预组与常规教学对照组在数学和阅读统考成绩上未产生统计学显著差异，效应量点估计值接近于零（$ES \approx 0.00$） | $p > .05$ | 证实脱离制度化课时保障与高位专业引领的跨文化机械移植难以带来客观学业增益，甚至造成备课时间挤占 |
-> | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] | 英格兰 79 所小学（696 名教师与领导） | 横截面[[Questionnaire\|问卷调查]]与基线评估 | 课堂应用新方法（Q2）、分享信息正式论坛（Q13） | 86% 教师认为研究有助于在课堂应用新方法，但仅 61% 确认学校设有分享信息的正式论坛 | 描述性基线统计 | 揭示了一线教师强烈的课堂改课愿望与学校正式 [[Joint Practice Development\|JPD]] / 课例研讨载体匮乏之间的结构性矛盾 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]; Murphy et al. (2017) | 英格兰 181 所小学学童 | 双级整群 [[Randomised Controlled Trials\|RCT]] | 课例研究校本培训、Key Stage 2 数学与阅读标准化统考成绩 | 意向治疗（ITT）分析显示：课例研究干预组与常规教学对照组在数学和阅读统考成绩上未产生统计学显著差异，效应量点估计值接近于零（$ES \approx 0.00$） | $p > .05$ | 证实脱离制度化课时保障与高位专业引领的跨文化机械移植难以带来客观学业增益，甚至造成备课时间挤占 |
+> | [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] | 英格兰 79 所小学（696 名教师与领导） | 横截面[[Questionnaire\|问卷调查]]与基线评估 | 课堂应用新方法（Q2）、分享信息正式论坛（Q13） | 86% 教师认为研究有助于在课堂应用新方法，但仅 61% 确认学校设有分享信息的正式论坛 | 描述性基线统计 | 揭示了一线教师强烈的课堂改课愿望与学校正式 [[Joint Practice Development\|JPD]] / 课例研讨载体匮乏之间的结构性矛盾 |
 
 ---
 
@@ -242,5 +242,5 @@ updated: 2026-10-15
 ## 包含此概念的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 系统评述英国 [[Education Endowment Foundation\|EEF]] 十年评估中课例研究大规模 [[Randomised Controlled Trials\|RCT]] 显现的零效应反思，剖析了教师主观满意度与客观学生学业产出脱节的深层机制。
-> - [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] — 在[[Self-Improving School System\|自我改进学校系统]]中将课例研究确立为[[Joint Practice Development\|联合实践发展]]（JPD）的典范机制，阐明其融通内部实践探究与外部[[Research Utilization\|研究使用]]、为 [[Professional Learning Community\|PLC]] 提供课堂操作系统的关键制度价值。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 系统评述英国 [[Education Endowment Foundation\|EEF]] 十年评估中课例研究大规模 [[Randomised Controlled Trials\|RCT]] 显现的零效应反思，剖析了教师主观满意度与客观学生学业产出脱节的深层机制。
+> - [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] — 在[[Self-Improving School System\|自我改进学校系统]]中将课例研究确立为[[Joint Practice Development\|联合实践发展]]（JPD）的典范机制，阐明其融通内部实践探究与外部[[Research Utilization\|研究使用]]、为 [[Professional Learning Community\|PLC]] 提供课堂操作系统的关键制度价值。

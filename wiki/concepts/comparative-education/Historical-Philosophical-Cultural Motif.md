@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Historical-Philosophical-Cultural Motif
@@ -90,7 +90,7 @@ updated: 2026-10-15
 历史-哲学-文化母题（Historical-Philosophical-Cultural Motif），全称为历史-哲学-文化与自由人文主义母题（The Historical-Philosophical-Cultural and Liberal Humanist Motif），是指发端于 19 世纪中后期、并在 20 世纪上半叶由[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）与[[Robert Ulich|罗伯特·乌利希]]（Robert Ulich）等学者集大成的主导性比较教育[[Paradigm|研究范式]]。
 
 > [!def] 核心定义
-> 历史-哲学-文化母题是将比较教育界定为**广义[[Geisteswissenschaften|人文科学]]（Human Science / Wissenschaft / Episteme）**的[[Epistemology\|认识论]]传统。该母题拒绝将比较教育降格为技术官僚导向的实证社会科学或纯统计测量，主张比较探究的根本任务在于通过历史学、哲学与文化分析，揭示塑造各民族国家教育制度独特风貌的深层历史力量、政治传统、宗教遗产、[[National Character\|民族性格]]与[[Intangible Spiritual Forces\|无形精神力量]]；同时，该母题坚持历史[[Educational Meliorism\|改良主义]]，坚信通过理解外国教育背后的思想与制度生成逻辑，能够涵养教育工作者的哲学态度，从而推动本国民主制度与教育实践的审慎革新。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 38–42)]]
+> 历史-哲学-文化母题是将比较教育界定为**广义[[Geisteswissenschaften|人文科学]]（Human Science / Wissenschaft / Episteme）** 的[[Epistemology\|认识论]]传统。该母题拒绝将比较教育降格为技术官僚导向的实证社会科学或纯统计测量，主张比较探究的根本任务在于通过历史学、哲学与文化分析，揭示塑造各民族国家教育制度独特风貌的深层历史力量、政治传统、宗教遗产、[[National Character\|民族性格]]与[[Intangible Spiritual Forces\|无形精神力量]]；同时，该母题坚持历史[[Educational Meliorism\|改良主义]]，坚信通过理解外国教育背后的思想与制度生成逻辑，能够涵养教育工作者的哲学态度，从而推动本国民主制度与教育实践的审慎革新。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 38–42)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指称 20 世纪中叶前主导比较教育学的经典学术范式，其特征为推崇文化整体论、历史因果探寻、哲学观念比较与自由民主人文主义关怀。
@@ -245,7 +245,7 @@ updated: 2026-10-15
 > > [!axis] 狭隘经验实证科学（Science）vs 德语广义科学（Wissenschaft / Episteme）
 > > 比较教育究竟应当狭义等同于可检验预测的量化经验社会科学，还是涵盖质性历史演进与价值沉思的广义[[Geisteswissenschaften|人文科学]]体系。
 > >
-> > - **Noah & Eckstein（1969）** 将[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]与汉斯归为前科学力量与因素阶段，指责其结论依赖个人私人洞察力，缺乏判定各因素相对重要性的客观标准。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 53)]]
+> > - **Noah and Eckstein（1969）** 将[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]与汉斯归为前科学力量与因素阶段，指责其结论依赖个人私人洞察力，缺乏判定各因素相对重要性的客观标准。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 53)]]
 > > - **Hans（1959）/ [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]]** 坚持比较教育学坐落于人文科学与自然科学的交界边缘，属于德语比较教育科学（*Vergleichende Erziehungswissenschaft*），探求事物演进根由的质性阐释天然具备科学合法性。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 39, 56)]]
 >
 > > [!axis] 历史个案不可重复性 vs 非普适[[Working Hypothesis|探索性假说]]中程比较抽象

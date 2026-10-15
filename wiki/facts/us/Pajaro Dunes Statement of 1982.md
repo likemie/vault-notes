@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-04
-updated: 2026-10-02
+updated: 2026-10-16
 ---
 
 # Pajaro Dunes Statement of 1982
@@ -46,7 +46,7 @@ updated: 2026-10-02
 ## 核心原则
 
 > [!note]-
-> Pajaro Dunes Statement 确立了[[University-Industry Collaboration\|产学合作]]协议中的**透明性（transparency）**原则：大学不应同意对其与企业之间存在合作协议这一事实本身进行保密。这意味着合作协议的存在应当是可公开获知的，即使协议的具体条款（如财务安排或知识产权细节）可能需要保密（p.268）。
+> Pajaro Dunes Statement 确立了[[University-Industry Collaboration\|产学合作]]协议中的**透明性（transparency）** 原则：大学不应同意对其与企业之间存在合作协议这一事实本身进行保密。这意味着合作协议的存在应当是可公开获知的，即使协议的具体条款（如财务安排或知识产权细节）可能需要保密（p.268）。
 
 > [!quote]
 > 该声明在 Bayh-Dole Act 颁布后不久发布，目的是在大学-产业合作快速扩张的初期就建立规范性框架（Unauthored, 1982, cited in [[Argument_Hall_2025_EthicalLegalFrameworks\|Hall, 2025, p.268]]）。

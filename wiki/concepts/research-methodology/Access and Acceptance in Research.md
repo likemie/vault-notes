@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Access and Acceptance in Research
@@ -93,7 +93,7 @@ updated: 2026-10-15
 - 反馈和传播方式
 
 > [!tip]- 准入策略要点
-> Festinger & Katz (1966) 的建议（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 86–87]]）：
+> Festinger and Katz (1966) 的建议（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 86–87]]）：
 > - **从组织顶端开始** 在层级清晰的组织中，先获得最高层的同意和合作。领导者可能比下层更开放——下层由于不安全感可能不那么合作
 > - **避免以特定派系盟友身份进入** 不要以有特殊利益要利用的个人或群体的盟友身份进入，而应以各方共同利益为出发点
 > - **寻求尽可能广泛的支持基础**

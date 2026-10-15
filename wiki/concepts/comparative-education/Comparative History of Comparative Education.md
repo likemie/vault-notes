@@ -65,7 +65,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Comparative History of Comparative Education
@@ -208,14 +208,14 @@ updated: 2026-10-15
 > > [!axis] 建制化专业合法性 vs 批判史学去神圣化
 > > 围绕学科史是否应当保留清晰的奠基人神话与线性成长叙事，学界存在建制功能主义与批判诠释学的深刻分歧。
 > >
-> > - **Harold Noah & Max Eckstein（1969）** 认为规范、清晰的起源历史是新兴[[Comparative Education as a Cross-Sectional Area|交叉学科]]确立自身专业边界、赢得大学系所教席与同行认可的制度化护照，有助于维系学科共同体的专业认同。
+> > - **Harold Noah and Max Eckstein（1969）** 认为规范、清晰的起源历史是新兴[[Comparative Education as a Cross-Sectional Area|交叉学科]]确立自身专业边界、赢得大学系所教席与同行认可的制度化护照，有助于维系学科共同体的专业认同。
 > > - **Robert Cowen（2009a）** 指出学科早已跨越需要脆弱神话维持合法性的阶段，非反思的起源崇拜构成了[[Epistemology\|认识论]]障碍，必须通过多元批判的比较史解构[[Academic Iconography\|学科肖像学]]并直面历史复杂性。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–9)]]
 >
 > > [!axis] 档案[[Positivism\|实证主义]] vs 诠释学当下与未来[[Determinism\|决定论]]
 > > 围绕学科史事实的客观确定性与历史重写的正当性，实证史学与历史诠释学存在立场分歧。
 > >
 > > - **实证史学传统** 主张历史学家的首要任务是通过档案考据还原“历史究竟如何发生”，警惕以当下的价值倾向或未来焦虑剪裁历史事实，防止滑入辉格史或相对主义。
-> > - **Robert Cowen & Andreas Kazamias（2009）** 强调虽然物理层面的档案证据能够稳固，但赋予其历史意义的提问逻辑永远受制于研究者身处的时代危机与未来关切，每一代人必须根据新挑战重写学科历史。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 9–10)]]
+> > - **Robert Cowen and Andreas Kazamias（2009）** 强调虽然物理层面的档案证据能够稳固，但赋予其历史意义的提问逻辑永远受制于研究者身处的时代危机与未来关切，每一代人必须根据新挑战重写学科历史。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 9–10)]]
 
 > [!warning] 适用局限
 > 比较教育学的比较史方法论纲领在推进中面临严峻的资源与体制约束。由于比较教育学科内部长期存在重当代政策咨询、轻基础学科史料考据的功利倾向，大学与科研资助机构对长周期、高难度的档案挖掘（尤其是跨国多语种私人物件与口述史料）缺乏制度性激励，导致该纲领目前仍呈现出宏观方法论主张领先、而微观多中心深层实证[[Archival Research\|档案研究]]推进相对缓慢的结构性局限。
@@ -226,4 +226,4 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] — 考恩系统阐述“比较教育学的历史应成为比较教育学的比较史”这一核心纲领，提出解构[[Academic Iconography\|学术肖像学]]、开掘隐蔽历史与纳入多中心经验的史学编纂议程。
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 卡洛扬纳基与卡扎米亚斯通过精细考据 19 世纪英美法[[Primary and Secondary Documents\|原始文献]]，解构了学科发端的单一实证[[Empiricism\|经验主义]]神话，还原了准科学人道主义与行政[[Educational Meliorism\|改良主义]]交织的双重现代主义母题，为比较教育学比较史的个案[[Rich and Thick Description\|深描]]树立了典范。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 卡洛扬纳基与卡扎米亚斯通过精细考据 19 世纪英美法[[Primary and Secondary Documents\|原始文献]]，解构了学科发端的单一实证[[Empiricism\|经验主义]]神话，还原了准科学人道主义与行政[[Educational Meliorism\|改良主义]]交织的双重现代主义母题，为比较教育学比较史的个案[[Rich and Thick Description\|深描]]树立了典范。

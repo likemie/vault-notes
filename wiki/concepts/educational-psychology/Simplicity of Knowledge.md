@@ -46,7 +46,7 @@ related_arguments:
 status: active
 confidence: high
 created: 2026-08-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Simplicity of Knowledge
@@ -79,7 +79,7 @@ updated: 2026-10-15
 > [!concept-lens] 知识结构的认知进阶
 > 探讨个体心智发展过程中对知识复杂性包容度的演变规律。
 
-> [!claim] [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]]
+> [!claim] [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]]
 > **认知进阶假说** 对知识结构的理解呈现从孤立清单向网络交织发展的清晰轨迹。
 > 在认知发展的初级阶段，个体视知识为一份由彼此分离的客观事实构成的简单清单；随着认知成熟与反思深化，个体认识到知识并非散落的积木，而是一张高度交织的概念网络，能够在特定语境中包容矛盾观点与多元条件。这一信念直接决定了学生倾向于选择机械背诵还是深度概念重构。
 
@@ -131,8 +131,8 @@ updated: 2026-10-15
 
 > [!dev-timeline] 概念演变脉络
 > - **1990 年：多维量表中的独立维度析出** Schommer (1990) 首次在[[Epistemology\|认识论]][[Questionnaire\|问卷]]（EQ）中将简单知识（SK）作为独立维度量化，打破了传统单一发展阶段论。
-> - **1994 年：[[Reflective Judgment Model\|反思性判断模型]]中的结构解构** King & Kitchener (1994) 揭示个体在面对争议问题时，从视知识为简单答案向视知识为复杂概率网络的质变过程。
-> - **1997 年：确立为[[Epistemological Theories\|认识论理论]]的核心支柱** [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 将简单知识与确定知识确立为衡量知识本质维度的两大基石。
+> - **1994 年：[[Reflective Judgment Model\|反思性判断模型]]中的结构解构** King and Kitchener (1994) 揭示个体在面对争议问题时，从视知识为简单答案向视知识为复杂概率网络的质变过程。
+> - **1997 年：确立为[[Epistemological Theories\|认识论理论]]的核心支柱** [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 将简单知识与确定知识确立为衡量知识本质维度的两大基石。
 > - **2007 年：微观[[Task Structure\|任务结构]]实验与因果制约确证** [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] 通过十年级科学课组内平衡实验，实证确立了简单知识信念对劣构任务与[[Reflexivity\|反思性]]判断的特异性阻碍机制。
 
 ---
@@ -171,4 +171,4 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] — 实证检验了中学生简单知识（SK）信念在不同[[Task Structure\|任务结构]]下的预测力，发现 SK 显著负向制约劣构任务表现与[[Reflexivity\|反思性]]判断，并揭示了其在不同[[Academic Achievement\|学业成就]]群体中的阶梯分化。
-> - [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] — 系统评述了[[Epistemological Theories\|认识论理论]]中知识简单性维度的概念内涵、发展阶段与心理加工机制。
+> - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 系统评述了[[Epistemological Theories\|认识论理论]]中知识简单性维度的概念内涵、发展阶段与心理加工机制。

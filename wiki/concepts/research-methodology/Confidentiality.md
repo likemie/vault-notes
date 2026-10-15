@@ -31,7 +31,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
 status: draft
 created: 2026-06-18
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 # Confidentiality in Research
 
@@ -68,7 +68,7 @@ updated: 2026-09-17
 
 ### 基本保密技术
 
-Frankfort-Nachmias & Nachmias (1992) 列出了四项保密技术（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 102]]）：
+Frankfort-Nachmias and Nachmias (1992) 列出了四项保密技术（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 102]]）：
 
 > [!feature] 四项基本保密技术
 > - **删除标识符（Deletion of identifiers）** 删除数据中公开的姓名、地址或其他直接识别方式。
@@ -76,7 +76,7 @@ Frankfort-Nachmias & Nachmias (1992) 列出了四项保密技术（[[Argument_Co
 > - **微观聚合（Microaggregation）** 从个体数据构建平均人并发布这些聚合数据，而非个体数据。
 > - **错误注入（Error inoculation）** 故意在个体记录中引入错误，同时保持聚合数据不变。
 
-Cooper & Schindler (2001, p. 117) 补充了额外保护措施（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 102]]）：
+Cooper and Schindler (2001, p. 117) 补充了额外保护措施（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 102]]）：
 - 获得签名声明表明不披露研究
 - 限制访问可识别受访者的数据
 - 在披露前征求受访者批准
@@ -98,12 +98,12 @@ Cooper & Schindler (2001, p. 117) 补充了额外保护措施（[[Argument_Cohen
 #### 演绎披露
 
 > [!def] [[Deductive Disclosure\|演绎披露]]（Deductive Disclosure）
-> Boruch & Cecil (1979) 提出的概念：即使研究者没有直接披露姓名，读者仍可以通过重新组合和拼凑数据中的细节来唯一识别个体。例如，在一项学校研究中可能只有一位 50 岁教生物的男教师——即使不具名，这些特征组合足以识别他（p.212）。
+> Boruch and Cecil (1979) 提出的概念：即使研究者没有直接披露姓名，读者仍可以通过重新组合和拼凑数据中的细节来唯一识别个体。例如，在一项学校研究中可能只有一位 50 岁教生物的男教师——即使不具名，这些特征组合足以识别他（p.212）。
 
 研究者的责任是确保即使读者试图重新组合细节以识别受访者，也无法做到。这比通常意义的保密标准更高：它要求研究者在报告发布前主动审查和修改描述性细节，消灭演绎披露的可能性，而不只是在报告中做出保密承诺。
 
 > [!boundary] 匿名化的边界：当识别不可避免时
-> 在某些情况下，学校和参与者不可避免地是高度独特且可识别的。Whitty & Edwards (1994, p. 22) 在研究精英独立学校时面临这一边界——这些学校本身具有高度独特性，任何细节修改都无法掩盖其身份。在这种情况下，可能需要就信息披露获得参与者的明确许可。
+> 在某些情况下，学校和参与者不可避免地是高度独特且可识别的。Whitty and Edwards (1994, p. 22) 在研究精英独立学校时面临这一边界——这些学校本身具有高度独特性，任何细节修改都无法掩盖其身份。在这种情况下，可能需要就信息披露获得参与者的明确许可。
 
 ---
 

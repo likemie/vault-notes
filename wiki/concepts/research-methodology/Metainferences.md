@@ -37,7 +37,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Metainferences
 
@@ -104,13 +104,13 @@ updated: 2026-10-15
 
 ## 在混合方法合法化框架中的位置
 
-Onwuegbuzie & Johnson (2006) 在[[Mixed Methods Research|混合方法研究]]中以"合法化"（legitimation）替代"效度"，识别了九种合法化类型，其中多种直接涉及元推断的质量（pp.195–196）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
+Onwuegbuzie and Johnson (2006) 在[[Mixed Methods Research|混合方法研究]]中以"合法化"（legitimation）替代"效度"，识别了九种合法化类型，其中多种直接涉及元推断的质量（pp.195–196）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
 
 > [!dimension] 与元推断相关的合法化维度
 > - **顺序合法化（Sequential legitimation）**
->   在多大程度上能最小化数据收集和分析产生的元推断的**[[Order Effects\|顺序效应]]**——量化-质性还是质性-量化的顺序是否影响了元推断？如果对调顺序后元推断的解释力不受削弱，则顺序合法化程度高。
+>   在多大程度上能最小化数据收集和分析产生的元推断的 **[[Order Effects\|顺序效应]]**——量化-质性还是质性-量化的顺序是否影响了元推断？如果对调顺序后元推断的解释力不受削弱，则顺序合法化程度高。
 > - **转换合法化（[[Institutional Conversion|conversion]] legitimation）**
->   将数值数据**质化（[[Data Transformation\|qualitizing]]）**或将质性数据**量化（quantitizing）**在多大程度上有助于产出稳健的元推断——转换过程的质量直接影响元推断的可[[Reliability\|信度]]。
+>   将数值数据**质化（[[Data Transformation\|qualitizing]]）** 或将质性数据**量化（quantitizing）** 在多大程度上有助于产出稳健的元推断——转换过程的质量直接影响元推断的可[[Reliability\|信度]]。
 > - **政治合法化（Political legitimation）**
 >   受众在多大程度上**接受**量化和质性方法组合所产生的元推断——合法化不仅是方法论问题，也是社会接受度问题。
 
@@ -118,7 +118,7 @@ Onwuegbuzie & Johnson (2006) 在[[Mixed Methods Research|混合方法研究]]中
 
 ## 混合方法的三重困难与元推断
 
-Onwuegbuzie & Johnson (2006, p. 52) 指出[[Mixed Methods Research|混合方法研究]]在三个维度面临独特困难，直接关乎元推断的质量：
+Onwuegbuzie and Johnson (2006, p. 52) 指出[[Mixed Methods Research|混合方法研究]]在三个维度面临独特困难，直接关乎元推断的质量：
 
 > [!challenges] 影响元推断质量的三个维度
 > - **表征（representation）** 主要或仅使用词语和图像来捕捉生活经验的动态性和[[Emergence\|涌现]]性——量化和质性对"什么构成了充分的表征"有不同标准，这直接影响元推断的丰富性。
@@ -131,4 +131,4 @@ Onwuegbuzie & Johnson (2006, p. 52) 指出[[Mixed Methods Research|混合方法�
 
 > [!evidence-grid] 研究索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]] — 在[[Mixed Methods Research\|混合方法研究]]设计中系统介绍元推论的概念，描述在三种设计类型中提取元推论的操作逻辑。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10]] — 在 Onwuegbuzie & Johnson (2006) 的混合方法合法化框架中呈现元推断的质量维度（顺序、转换、政治合法化）和三重困难（表征、合法化、整合）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10]] — 在 Onwuegbuzie and Johnson (2006) 的混合方法合法化框架中呈现元推断的质量维度（顺序、转换、政治合法化）和三重困难（表征、合法化、整合）。

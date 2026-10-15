@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # QuickReads
@@ -62,7 +62,7 @@ updated: 2026-10-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **QuickReads（极速阅读，文献中亦写作 Quick Reads）**是由加州大学伯克利分校（University of California, Berkeley）与密歇根大学著名阅读教育心理学家埃尔弗里达·希伯特（Elfrieda H. Hiebert）创立并研发、全美公立小学广泛采纳的初等阅读流畅度与字词自动提取干预方案；其核心目标是依托按科学与社会学科概念群编排的短小非虚构信息类文本，由经过短期培训的教学助教指导小学二至三年级（部分延伸至五至六年级）处于流畅度困难的学生开展高频计时重复朗读与理解训练。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> **QuickReads（极速阅读，文献中亦写作 Quick Reads）** 是由加州大学伯克利分校（University of California, Berkeley）与密歇根大学著名阅读教育心理学家埃尔弗里达·希伯特（Elfrieda H. Hiebert）创立并研发、全美公立小学广泛采纳的初等阅读流畅度与字词自动提取干预方案；其核心目标是依托按科学与社会学科概念群编排的短小非虚构信息类文本，由经过短期培训的教学助教指导小学二至三年级（部分延伸至五至六年级）处于流畅度困难的学生开展高频计时重复朗读与理解训练。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 研发始于 2000 年代初，由 TextProject 与现代课程出版社（Modern Curriculum Press / Pearson）协同发布并常态化运行至今二十余年。

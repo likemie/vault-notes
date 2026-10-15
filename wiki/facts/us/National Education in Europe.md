@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # National Education in Europe
@@ -156,13 +156,13 @@ updated: 2026-10-15
 > > [!axis] 百科全书式奇迹 vs 不加甄别的资料堆砌
 > > 20 世纪下半叶英美实证派与历史学派对巴纳德的学术价值给出了两极化的评判。
 > >
-> > - **Harold Noah & Max Eckstein (1969)** 严厉批评巴纳德的工作缺乏科学因果解释与假设检验，认为他“在不加甄别甚至缺乏条理地记录并重新发表所能获得的一切资料中看到了价值”，将其归入前科学阶段的简单资料汇编。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 32; Noah & Eckstein, 1969:25–26)]]
+> > - **Harold Noah and Max Eckstein (1969)** 严厉批评巴纳德的工作缺乏科学因果解释与假设检验，认为他“在不加甄别甚至缺乏条理地记录并重新发表所能获得的一切资料中看到了价值”，将其归入前科学阶段的简单资料汇编。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 32; Noah & Eckstein, 1969:25–26)]]
 > > - **Brian Holmes (1965)** 则给予极高赞誉，指出巴纳德的比较教育路径完全是历史与描述性的，他试图编纂一部教育百科全书的宏伟目标在很大程度上得到了实质性实现。（p. 32; Holmes, 1965:14）
 >
 > > [!axis] 编年史与[[Ethnography\|民族志]]正名：超越[[Positivism\|实证主义]][[Whiggism\|辉格史观]]
 > > 新世纪思想史学者力图突破狭隘的量化偏见，还原巴纳德在 19 世纪特定时空下的卓越贡献。
 > >
-> > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]]** 明确反驳了诺亚与埃克斯坦“缺乏条理”的指责；他们指出巴纳德固然缺乏现代历史因果解释（contextual explanation），但这并不妨碍他成为一名极其优秀的“教育编年史家（educational chronicler）”与“教育民族志学者（educational ethnographer）”。在 19 世纪的历史条件下，其所提供的高质量描述性历史至今仍具有不可低估的史料与[[Epistemic Value\|认识论价值]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 32–33)]]
+> > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]]** 明确反驳了诺亚与埃克斯坦“缺乏条理”的指责；他们指出巴纳德固然缺乏现代历史因果解释（contextual explanation），但这并不妨碍他成为一名极其优秀的“教育编年史家（educational chronicler）”与“教育民族志学者（educational ethnographer）”。在 19 世纪的历史条件下，其所提供的高质量描述性历史至今仍具有不可低估的史料与[[Epistemic Value\|认识论价值]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 32–33)]]
 
 > [!citation-card]- 经典学术评论：卡洛扬纳基与卡扎米亚斯对巴纳德的重估
 > 将巴纳德的方法概括为描述性是恰当的，但依我们的诠释，将其定性为‘缺乏条理’或‘不加甄别的记录’是不恰当的。将巴纳德视为一名优秀的‘编年史家’、优秀的‘教育叙述者’或‘教育民族志学者’，而非一名优秀的‘教育历史学家’也是恰当的……然而，人们即使在今天也不应低估优秀的描述性编年史或叙述在研究外国教育中的价值；依我们的判断，尤其是考虑到它们所处的时代，巴纳德的‘教育历史’理应赢得高度赞誉。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 33)]]

@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Ordinary Least Squares
@@ -86,7 +86,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> **普通最小二乘法（Ordinary Least Squares，简称 OLS）**是统计学、计量经济学与实证教育研究中最核心、应用最广泛的参数化线性回归估计方法。该方法以代数投影原理为基础，通过最小化样本观测值[[Dependent Variable\|因变量]]与模型线性预测值之间的残差平方和（Sum of Squared Residuals, SSR），求解使误差达到全局最小的回归参数向量 $\hat{\boldsymbol{\beta}}$。在满足高斯-马尔可夫定理（Gauss-Markov Theorem）的古典线性假定下，OLS 估计量是所有线性无偏估计量中方差最小的最佳线性无偏估计（Best Linear Unbiased Estimator, BLUE）。在[[Randomised Controlled Trials\|随机对照试验]]（RCT）中，引入基线[[Pre-test and Post-test\|前测]]的 OLS 模型（即[[Analysis of Covariance\|协方差分析]] ANCOVA 回归形式）能够大幅吸收个体基线能力变异，是[[Covariate Adjustment\|协变量调整]]的主流基准。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]
+> **普通最小二乘法（Ordinary Least Squares，简称 OLS）** 是统计学、计量经济学与实证教育研究中最核心、应用最广泛的参数化线性回归估计方法。该方法以代数投影原理为基础，通过最小化样本观测值[[Dependent Variable\|因变量]]与模型线性预测值之间的残差平方和（Sum of Squared Residuals, SSR），求解使误差达到全局最小的回归参数向量 $\hat{\boldsymbol{\beta}}$。在满足高斯-马尔可夫定理（Gauss-Markov Theorem）的古典线性假定下，OLS 估计量是所有线性无偏估计量中方差最小的最佳线性无偏估计（Best Linear Unbiased Estimator, BLUE）。在[[Randomised Controlled Trials\|随机对照试验]]（RCT）中，引入基线[[Pre-test and Post-test\|前测]]的 OLS 模型（即[[Analysis of Covariance\|协方差分析]] ANCOVA 回归形式）能够大幅吸收个体基线能力变异，是[[Covariate Adjustment\|协变量调整]]的主流基准。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 连续型因[[Variable\|变量]]与一组解释变量（连续、离散或分类虚拟变量）之间的线性相关或条件均值关系。
@@ -257,4 +257,4 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 综述了齐·肖（ZhiMin Xiao）、[[Steve Higgins\|史蒂夫·希金斯]]（Steve Higgins）与阿迪特·卡西姆（Adetayo Kasim）利用英格兰 NPD 数据开展的 17 项试验复算，证实了基线[[Pre-test and Post-test\|前测]] OLS 回归在方差吸收与功效提升方面的核心价值，同时也警示了未校正聚类结构的 OLS 会诱发严重的[[Standard Error\|标准误]]低估与伪显著性，促成了英国试验统计指南的确立。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 综述了齐·肖（ZhiMin Xiao）、[[Steve Higgins\|史蒂夫·希金斯]]（Steve Higgins）与阿迪特·卡西姆（Adetayo Kasim）利用英格兰 NPD 数据开展的 17 项试验复算，证实了基线[[Pre-test and Post-test\|前测]] OLS 回归在方差吸收与功效提升方面的核心价值，同时也警示了未校正聚类结构的 OLS 会诱发严重的[[Standard Error\|标准误]]低估与伪显著性，促成了英国试验统计指南的确立。

@@ -64,7 +64,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-16
 subtype: report
 publication_type: report
 title: "Argument_Mowery_2011_NBER"
@@ -105,9 +105,9 @@ issuing_organization: "National Bureau of Economic Research"
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[General Purpose Technology\|通用目的技术（GPT）]]**<br>Bresnahan & Trajtenberg (1995) | 解释半导体元器件、计算硬件与软件三大产业如何通过层叠式互补演进，共同催生互联网这一贯穿全社会的通用技术平台。（pp.159–160） |
-> | **[[Demand-side Innovation Policy\|需求侧创新政策]]**<br>Edler & Georghiou (2007) | 阐明政府采购合同如何通过早期高价托底、规模化订单与技术指标要求，发挥类似创新竞赛奖金与先导用户的强激励功能。（pp.163–168, 184–185） |
-> | **[[Co-invention\|共同发明]]**<br>Bresnahan & Greenstein (1996) | 揭示通用技术扩散过程中下游用户端所开展的大规模定制开发、流程再造与组织调整，论证大规模部署对技术迭代的反哺价值。（p.185） |
+> | **[[General Purpose Technology\|通用目的技术（GPT）]]**<br>Bresnahan and Trajtenberg (1995) | 解释半导体元器件、计算硬件与软件三大产业如何通过层叠式互补演进，共同催生互联网这一贯穿全社会的通用技术平台。（pp.159–160） |
+> | **[[Demand-side Innovation Policy\|需求侧创新政策]]**<br>Edler and Georghiou (2007) | 阐明政府采购合同如何通过早期高价托底、规模化订单与技术指标要求，发挥类似创新竞赛奖金与先导用户的强激励功能。（pp.163–168, 184–185） |
+> | **[[Co-invention\|共同发明]]**<br>Bresnahan and Greenstein (1996) | 揭示通用技术扩散过程中下游用户端所开展的大规模定制开发、流程再造与组织调整，论证大规模部署对技术迭代的反哺价值。（p.185） |
 
 > [!warrant]- 理论如何支撑论证
 > [[David C. Mowery|大卫·莫厄里]]（David C. Mowery）所构建的理论工具箱将国家宏观制度干预（研发拨款、国防采购、反垄断强制许可、大学学科资助）与微观产业组织动力学（新企业进入、跨企业技术流动、用户端组织再造）深度嵌合。通用目的技术概念为剖析硬件、软件与网络的层级演化提供了分析基座；需求侧政策理论解释了早期市场不确定性如何被公共采购化解；共同发明理论则阐明了技术从上游突破走向全社会生产率提升的微观中介机制。（pp.159–161, 184–186）
@@ -383,7 +383,7 @@ issuing_organization: "National Bureau of Economic Research"
 > [!citation-card] 用户[[Co-invention|共同发明]]在[[General Purpose Technology|通用技术]]扩散中的中介与加速功能
 > 正如布雷斯纳汉与格林斯坦（1996）所指出的，信息技术领域的绝大部分创新过程都包含着技术用户与技术供应商共同参与的共同发明。这种共同发明的重要性意味着，某一新技术的规模化部署能够激发更多由用户驱动的试验，进而加速该技术的精细化、创新与改进。美国套装软件产业的历史清晰地表明了规模的优势，而在能源等其他部门的大型技术基础设施或小型分布式技术试验中，同样蕴藏着类似的优势。（p.185）
 >
-> *As Bresnahan & Greenstein (1996) have pointed out, much of the innovation process in IT involves "co-invention" on the part of users as well as technology suppliers. The importance of this co-invention means that large-scale deployment of a given new technology can spark more user-driven experimentation, thereby accelerating refinement, innovation, and improvement. The history of the packaged software industry in the United States clearly indicates the advantages of scale. Similar advantages may well inhere in large-scale experiments with either a technological "infrastructure" or small-scale technologies in other sectors, including energy.*
+> *As Bresnahan and Greenstein (1996) have pointed out, much of the innovation process in IT involves "co-invention" on the part of users as well as technology suppliers. The importance of this co-invention means that large-scale deployment of a given new technology can spark more user-driven experimentation, thereby accelerating refinement, innovation, and improvement. The history of the packaged software industry in the United States clearly indicates the advantages of scale. Similar advantages may well inhere in large-scale experiments with either a technological "infrastructure" or small-scale technologies in other sectors, including energy.*
 
 > [!citation-card] IT 创新政策经验向气候变化能源研发移植的审慎边界
 > 简而言之，联邦研发与其他公共政策对于建立六十年前根本不存在且极富经济活力的半导体、计算机硬件与软件产业具有重大意义。当然，这些联邦政策的历史结构在某些重要方面（尤其是知识产权）与当前能源及其他部门的格局存在差异。此外，随着支撑信息技术部门的底层技术走向成熟，公共研发与政府采购的影响力已然衰减。因此，将信息技术创新政策的历史经验应用于全球气候变化解决方案等其他部门时，必须保持高度的审慎与甄别。（pp.185–186）

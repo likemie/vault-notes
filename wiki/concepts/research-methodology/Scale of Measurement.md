@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Scale of Measurement
@@ -69,7 +69,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **测量尺度（Scale of Measurement，亦称测量量表）**是[[Quantitative Research\|量化研究]]与心理测量学中将抽象[[Construct\|理论构念]]转化为实证可分析数据的数学规则与赋值层级。它规定了向受试者提供的反应选项属性，或研究者在观察测量参与者时所采集度量单位的数学逻辑（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 56]]）。测量尺度不仅决定了研究者可运用的统计分析模型边界，更在宏观教育政策与因果评估中决定了终结性结局指标的区分度、量程完整性与公信力。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
+> **测量尺度（Scale of Measurement，亦称测量量表）** 是[[Quantitative Research\|量化研究]]与心理测量学中将抽象[[Construct\|理论构念]]转化为实证可分析数据的数学规则与赋值层级。它规定了向受试者提供的反应选项属性，或研究者在观察测量参与者时所采集度量单位的数学逻辑（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 56]]）。测量尺度不仅决定了研究者可运用的统计分析模型边界，更在宏观教育政策与因果评估中决定了终结性结局指标的区分度、量程完整性与公信力。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向经验现实与数字符号系统之间的映射规则，界定数字是否具备标识、排序、等距或绝对零点属性。
@@ -202,5 +202,5 @@ updated: 2026-10-15
 ## 使用此概念的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, p. 56)]] — 系统阐述名义、顺序、等距与比率四类测量尺度的定义、反应选项设计及其对统计分析模型选择的约束。
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, p. 54)]] — 详述终结性测量尺度的心理计量属性对 [[Randomised Controlled Trials\|RCT]] 因果效度的决定性影响，系统批判自编测验虚高与商业测验量程截断，并介绍 [[SPECTRUM]] 等测量工具库准入实践。
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022, p. 56)]] — 系统阐述名义、顺序、等距与比率四类测量尺度的定义、反应选项设计及其对统计分析模型选择的约束。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 54)]] — 详述终结性测量尺度的心理计量属性对 [[Randomised Controlled Trials\|RCT]] 因果效度的决定性影响，系统批判自编测验虚高与商业测验量程截断，并介绍 [[SPECTRUM]] 等测量工具库准入实践。

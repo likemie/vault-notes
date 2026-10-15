@@ -49,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-01
+updated: 2026-10-16
 ---
 
 # Explanatory Sequential Design
@@ -155,12 +155,12 @@ updated: 2026-10-01
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Bergeron_2015_TeachingTOK\|Bergeron (2015)]] — 采用解释性序列设计，第一阶段用大规模量化调查（N=960）检验全球[[Theory of Knowledge\|知识论]]教师的信念与态度，第二阶段通过多地[[Focus Group\|焦点小组]]访谈深入解释量化发现中的实操困境与溢出效应。
-> - [[Argument_Bergeron_2019_JRIE\|Bergeron & Rogers (2019)]] — 使用[[Questionnaire\|问卷]]获得了对 [[Theory of Knowledge\|TOK]] 课程实施态度的广泛定量数据，随后利用多地[[Focus Group\|焦点小组]]访谈深入了解教师面临的“时间”和“评价”等困难的具体表现。
+> - [[Argument_Bergeron_2019_JRIE\|Bergeron and Rogers (2019)]] — 使用[[Questionnaire\|问卷]]获得了对 [[Theory of Knowledge\|TOK]] 课程实施态度的广泛定量数据，随后利用多地[[Focus Group\|焦点小组]]访谈深入了解教师面临的“时间”和“评价”等困难的具体表现。
 
-> [!example] 案例 1：Ivankova & Stick (2007)
+> [!example] 案例 1：Ivankova and Stick (2007)
 > 对 278 名学生进行[[Questionnaire\|问卷调查]]以识别持续就学的预测因素，随后选择四类学生各一人进行质性案例分析，深入解释统计结果中的组间差异([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.137–138]])。
 
-> [!example] [[Purpose Statement\|目的陈述]]要素拆解：Ivankova & Stick (2007)
+> [!example] [[Purpose Statement\|目的陈述]]要素拆解：Ivankova and Stick (2007)
 >
 > **完整[[Purpose Statement\|目的陈述]] (Full Purpose Statement)**
 > "The purpose of this mixed methods sequential explanatory study was to identify factors contributing to students' persistence in the ELHE program by obtaining quantitative results from a survey of 278 current and former students and then following up with four purposefully selected individuals to explore those results in more depth through a qualitative [[Case Study]] analysis. In the first, quantitative phase of the study, the [[Research Question\|research questions]] focused on how selected internal and external [[Variable\|variables]] to the ELHE program (program-related, advisor- and faculty-related, institutional-related, student-related factors, and external factors) served as predictors to students' persistence in the program. In the second, qualitative phase, four case studies from distinct participant groups explored in-depth the results from the statistical tests." (p.95)

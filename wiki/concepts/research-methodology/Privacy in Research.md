@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Privacy in Research
@@ -57,7 +57,7 @@ updated: 2026-10-15
 ## 核心要素
 
 > [!feature] 隐私的三个维度
-> Diener & Crandall (1978) 从三个视角考虑隐私（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 99–100]]）：
+> Diener and Crandall (1978) 从三个视角考虑隐私（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 99–100]]）：
 
 1. **信息的敏感性（Sensitivity of information）** 信息越个人化或潜在威胁性越强，需要的保护措施越多。宗教偏好、性行为、收入、种族偏见等比"姓名、军衔和序列号"更敏感（American Psychological Association, 1973）。敏感性越高，对参与者隐私保护的保障措施就越多
 
@@ -76,7 +76,7 @@ updated: 2026-10-15
 > 研究参与者可以选择放弃隐私权，要么允许研究者接触敏感话题或场所，要么同意研究报告以姓名识别他们。后一种情况至少需要征求[[Informed Consent\|知情同意]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 100]]）。
 
 > [!claim] 隐私保护有权者、再生产不平等
-> Lincoln (1990) 认为隐私保护有权者、再生产权力不平等。Howe & Moses (1999, p. 43) 举例说明隐私不应能掩盖不当行为，如"虐待性的教师……性别歧视的课程"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 102]]）。
+> Lincoln (1990) 认为隐私保护有权者、再生产权力不平等。Howe and Moses (1999, p. 43) 举例说明隐私不应能掩盖不当行为，如"虐待性的教师……性别歧视的课程"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 102]]）。
 
 ---
 
@@ -86,7 +86,7 @@ updated: 2026-10-15
 > 道义论和德性伦理路径可能要求尊重隐私权，但功利主义、后果论路径可能论证如果符合公共利益，隐私可以被侵犯。研究者需要权衡：追求真相和追求信任可能相互冲突（Kelly, 1985, p. 147）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 102–104]]）。
 
 > [!warning] [[Rich and Thick Description\|厚描述]]与隐私的张力
-> Howe & Moses (1999, pp. 44–45) 提出了强有力的反对隐私的论证：解释性研究的"厚描述"需要一种如果要求隐私、保密和匿名就无法获得的细节层次。随着描述趋向"客观"，它们变得更温和、失去了赖以展示的丰富性。例如，"中学女生在英语讨论课上交替感到无聊、被胁迫和沉默"与"女生在英语讨论课上参与少于男生"——前者是丰富的描述，后者是被净化的薄描述（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 104–105]]）。
+> Howe and Moses (1999, pp. 44–45) 提出了强有力的反对隐私的论证：解释性研究的"厚描述"需要一种如果要求隐私、保密和匿名就无法获得的细节层次。随着描述趋向"客观"，它们变得更温和、失去了赖以展示的丰富性。例如，"中学女生在英语讨论课上交替感到无聊、被胁迫和沉默"与"女生在英语讨论课上参与少于男生"——前者是丰富的描述，后者是被净化的薄描述（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 104–105]]）。
 
 ---
 
@@ -106,4 +106,4 @@ updated: 2026-10-15
 > - **隐私优先** 个人有权不让私人信息进入公共领域。即使研究能揭示重要的公共问题，也不能以侵犯个人隐私为代价。Simons (2000, p. 45) 在反思敏感研究的代价时直言"代价太高了"。
 > - **公共知情权优先** Walford (2001, p. 30) 认为："对公共利益的潜在收益是巨大的。虽然会对参与者的私生活有一定程度的侵入，但这在研究重要政策问题时是可以被正当化的。"目的正当化了手段。
 
-这一张力在伦理上无法被简单解决——因为"公共领域和私人领域可能融合"（Lee, 1993），研究者必须在具体情境中判断隐私保护的边界。如 Simons & Usher (2000, p. 5) 所言："政治和伦理是不可分割地交织在一起的。"
+这一张力在伦理上无法被简单解决——因为"公共领域和私人领域可能融合"（Lee, 1993），研究者必须在具体情境中判断隐私保护的边界。如 Simons and Usher (2000, p. 5) 所言："政治和伦理是不可分割地交织在一起的。"

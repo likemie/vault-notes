@@ -64,7 +64,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Research Learning Communities Baseline Survey Questionnaire
@@ -179,7 +179,7 @@ updated: 2026-10-15
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] | 原始英文版，经 Survey Monkey 在线施测 | 英格兰 79 所小学（60 所 [[Research Learning Communities\|RLC]] 学校、19 所可计算应答率的对照学校）的教师与[[School Leadership\|学校领导]]者；调查期为 2014 年 10 月 2 日至 19 日，用于干预前的基线描述与诊断 | 在未参与项目的同区域小学教师中试测[[Face Validity\|表面效度]]与[[Construct Validity\|结构效度]]；信度系数、因子结构与[[Measurement Invariance\|测量不变性]]未报告 | 共收到 797 份应答，696 份纳入分析（仅保留 2014 年 9 月前入职者）；76% 认同研究价值，86% 认为在课堂有用；揭示了探究末端成效评价缺失（仅 67%）及底层假设讨论脱节（55%）的组织病理 |
+> | [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] | 原始英文版，经 Survey Monkey 在线施测 | 英格兰 79 所小学（60 所 [[Research Learning Communities\|RLC]] 学校、19 所可计算应答率的对照学校）的教师与[[School Leadership\|学校领导]]者；调查期为 2014 年 10 月 2 日至 19 日，用于干预前的基线描述与诊断 | 在未参与项目的同区域小学教师中试测[[Face Validity\|表面效度]]与[[Construct Validity\|结构效度]]；信度系数、因子结构与[[Measurement Invariance\|测量不变性]]未报告 | 共收到 797 份应答，696 份纳入分析（仅保留 2014 年 9 月前入职者）；76% 认同研究价值，86% 认为在课堂有用；揭示了探究末端成效评价缺失（仅 67%）及底层假设讨论脱节（55%）的组织病理 |
 
 应答率分布方面，项目学校（n = 60）低于 30%、30% 至 40%、40% 至 50%、50% 至 60%、60% 至 70%、70% 至 80% 与 80% 以上各区间分别有 1、2、0、5、12、8、32 所，应答率超过 80% 的 32 所中 13 所（22%）达到 100%；对照学校（n = 19）对应区间分别有 1、3、4、0、2、3、6 所，超过 80% 的 6 所中 3 所（11%）达到 100%。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 128)]]
 

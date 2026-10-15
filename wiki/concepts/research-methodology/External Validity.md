@@ -85,7 +85,7 @@ related_persons:
   - "[[Egon G. Guba]]"
 status: active
 created: 2026-05-31
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # External Validity
 
@@ -94,7 +94,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> 外部效度（External validity）指研究结果能够**推广（generalize）**到更广泛总体、案例、情境、时间或环境的程度——即**可迁移性（transferability）**。在[[Experimental Research\|实验研究]]中，它衡量实验结果能否推广到[[Study Population and Sample\|研究样本]]以外的其他人群、其他情境以及过去或未来的时间点（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, p. 168]]；[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
+> 外部效度（External validity）指研究结果能够**推广（generalize）** 到更广泛总体、案例、情境、时间或环境的程度——即**可迁移性（transferability）**。在[[Experimental Research\|实验研究]]中，它衡量实验结果能否推广到[[Study Population and Sample\|研究样本]]以外的其他人群、其他情境以及过去或未来的时间点（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, p. 168]]；[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 外部效度的核心问题是：这项研究的发现能走多远？可推广性的边界在哪里？它关乎研究发现的**外部适用性**而非内部可信性。
@@ -207,7 +207,7 @@ Schofield (1990) 精准刻画了这一分裂：对于一派，通过剥离情境
 
 ## 外部效度威胁全景矩阵
 
-Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立了量化经典框架，Creswell & Guetterman (2018) 将其重组为三种交互威胁；Lincoln & Guba (1985) 与 Onwuegbuzie & Leech (2006b) 建立了质性与自然主义威胁框架。详细威胁清单与应对见 [[Threats to External Validity|外部效度威胁]]。
+Campbell and Stanley (1963)、Bracht and Glass (1968) 和 Lewis-Beck (1993) 建立了量化经典框架，Creswell and Guetterman (2018) 将其重组为三种交互威胁；Lincoln and Guba (1985) 与 Onwuegbuzie and Leech (2006b) 建立了质性与自然主义威胁框架。详细威胁清单与应对见 [[Threats to External Validity|外部效度威胁]]。
 
 > [!ref-table] [[Quantitative Research\|量化研究]]中的外部效度威胁速查
 > | 来源 | 威胁分类 | 核心方法学风险 |

@@ -51,7 +51,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Four Generations of Research Use
@@ -172,7 +172,7 @@ updated: 2026-10-15
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **2019 — 三代演进框架确立** Boaz & Nutley（2019）在公共部门循证政策与实践研究中系统梳理了理性-线性、关系互动与系统全局三代[[Research Utilization\|证据使用]][[Paradigm\|范式]]。
+> - **2019 — 三代演进框架确立** Boaz and Nutley（2019）在公共部门循证政策与实践研究中系统梳理了理性-线性、关系互动与系统全局三代[[Research Utilization\|证据使用]][[Paradigm\|范式]]。
 > - **2022 — 专业[[Epistemology\|认识论]]与德性论拓展** Eriksen（2022）等学者探讨专业人员的[[Research Literacy\|研究素养]]，提出专业实践作为技艺需要调和有效性与恰当性。
 > - **2025 — 第四代专业敏感模型建构** [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] 通过系统性批判综述，正式确立面向教师专业[[Knowledge Integration\|知识整合]]与价值规范的第四代[[Research Utilization\|研究使用]]范式。
 

@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Confucian Tutoring Style
@@ -55,7 +55,7 @@ updated: 2026-10-15
 
 ### 认知来源：学习美德（virtue source）
 
-台湾母亲在引导儿童思考学习时，持续调用"[[Learning Virtues|学习美德]]"作为**[[Cognitive Source|认知来源]]（cognitive source）**——从学习品德的角度概念化学习，以儒家文化共识（"人不应该懒惰""功夫不负有心人"）为合法性资源([[Argument_Li_2012_Cambridge|Li, 2012]])。关于"来源"概念的两层含义及其与心理框架、因果归因的区分，详见 [[Cognitive Source]]。
+台湾母亲在引导儿童思考学习时，持续调用"[[Learning Virtues|学习美德]]"作为 **[[Cognitive Source|认知来源]]（cognitive source）**——从学习品德的角度概念化学习，以儒家文化共识（"人不应该懒惰""功夫不负有心人"）为合法性资源([[Argument_Li_2012_Cambridge|Li, 2012]])。关于"来源"概念的两层含义及其与心理框架、因果归因的区分，详见 [[Cognitive Source]]。
 
 > [!example]
 > 一位母亲在与七岁儿子讨论他的良好课堂表现时，完全不触及智力或聪明的话题。相反，她追问"你为什么要认真（serious）上课？"、"你睡觉也可以啊——为什么要认真？"，最终引导儿子自己说出"因为我的考试成绩挺差的"——将"好学习"的讨论转化为对自身不足的认识([[Argument_Li_2012_Cambridge\|Li, 2012]])。完整对话与 Li 的分析见 MCC 示例 9–10。
@@ -94,7 +94,7 @@ updated: 2026-10-15
 ## 实证发现
 
 > [!success]
-> 序列分析显示，台湾母子的对话围绕**[[Learning Virtues\|学习美德]]（learning virtues）**这一主题展开，**无论**对话由哪一方发起、**无论**讨论的是好学习还是差学习([[Argument_Li_2012_Cambridge\|Li, 2012]])。
+> 序列分析显示，台湾母子的对话围绕 **[[Learning Virtues\|学习美德]]（learning virtues）** 这一主题展开，**无论**对话由哪一方发起、**无论**讨论的是好学习还是差学习([[Argument_Li_2012_Cambridge\|Li, 2012]])。
 
 > [!info] 关键数据
 > - 对好学习的讨论：台湾母亲谈论学习美德的概率比欧裔美国母亲高约 40%

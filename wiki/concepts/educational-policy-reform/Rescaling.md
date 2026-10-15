@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Rescaling
@@ -139,7 +139,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **技术中介与物质载体命题** | 绩效数据基础设施与计算中心构成了跨尺度穿透与重组的物质基础 | 国家教育监测体系、数字化治理平台与中央数据库 | [[Argument_Hartong_2018_GSE\|Hartong (2018)]]; Lawn (2013) |
-> | **双向张力与领土博弈命题** | 尺度重组伴随着去领土化扩散与次国家再领土化防御的动态张力 | 联邦制国家教育改革、跨国标准[[Going Native\|本土化]][[Recontextualization\|再脉络化]] | Brenner (2004); Robertson & Dale (2015); [[Argument_Hartong_2018_GSE\|Hartong (2018)]] |
+> | **双向张力与领土博弈命题** | 尺度重组伴随着去领土化扩散与次国家再领土化防御的动态张力 | 联邦制国家教育改革、跨国标准[[Going Native\|本土化]][[Recontextualization\|再脉络化]] | Brenner (2004); Robertson and Dale (2015); [[Argument_Hartong_2018_GSE\|Hartong (2018)]] |
 
 ---
 
@@ -172,4 +172,4 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 结合[[Topological Spatialisation\|拓扑空间化]]与[[Assemblage\|装配理论]]，系统考察德国教育监测中[[Data Infrastructure\|数据基础设施]]驱动的跨尺度政策重组。
 > - Brenner (2004) — 开创国家空间尺度重组理论，系统论证资本主义全球化下的国家空间再造。
-> - Robertson & Dale (2015) — 运用尺度重组视角分析全球教育政策空间的层级结构与生成机制。
+> - Robertson and Dale (2015) — 运用尺度重组视角分析全球教育政策空间的层级结构与生成机制。

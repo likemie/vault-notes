@@ -109,7 +109,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-31
-updated: 2026-09-02
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Li_2026_CEAI"
@@ -146,7 +146,7 @@ issuing_organization: ""
 > [!contrast-table] 表1：既有关于 ChatGPT 与认知产出的[[Systematic Review\|系统综述]]对比（Existing Systematic Reviews）
 > | 作者与年份 | 综述聚焦（Review Focus） | 认知考察维度（Cognitive Aspects） | 纳入文献规模 | 本综述的超越与推进（Comparative Advance） |
 > |---|---|---|---|---|
-> | **Dimeli & Kostas (2025)** | 高等教育与中等教育中的 ChatGPT 应用 | 一般性认知表现（General Cognitive Performance） | 50 项研究 | 侧重宏观学业成果，未对批判性与创造性思维进行[[Construct\|构念]]分立与机制剖析。 |
+> | **Dimeli and Kostas (2025)** | 高等教育与中等教育中的 ChatGPT 应用 | 一般性认知表现（General Cognitive Performance） | 50 项研究 | 侧重宏观学业成果，未对批判性与创造性思维进行[[Construct\|构念]]分立与机制剖析。 |
 > | **Deng et al. (2024)** | ChatGPT 介入下的学业成果[[Meta-analysis\|元分析]] | 高阶思维（Higher-Order Thinking） | 量化元分析 | 提供合并[[Effect Size\|效应量]]，但未拆解质性反思过程与多样化的教学情境调节[[Variable\|变量]]。 |
 > | **Lo et al. (2024)** | 学生[[Student Engagement\|学习投入]]度与体验 | 认知投入（Cognitive Engagement） | 72 项研究 | 聚焦行为与情感投入，缺乏对人机协同中心智外包与思维演进轨迹的解构。 |
 > | **Zirar (2023)** | 大语言模型对学习与测评的影响 | 构想生成、[[Problem Solving\|问题解决]]与反思 | 25 项研究 | 样本规模较小且多为早期探索性反思，未形成系统的共现模型与规制框架。 |
@@ -181,7 +181,7 @@ issuing_organization: ""
 > |------|----------------|
 > | **文献检索与筛选**<br>[[Systematic Review]] & [[PRISMA]] | 严格依循 [[PRISMA]] 2020 声明，在 Web of Science（161 篇）、Scopus（177 篇）与 ERIC（71 篇）三大权威数据库检索 2022–2025 年间实证文献；去重后初筛 224 篇，全文本合格性审阅 96 篇，依据预设标准排除 27 篇，并通过质量评价排除 2 篇，最终纳入 67 篇同行评议实证研究。 |
 > | **方法学质量评价**<br>[[Mixed Methods Appraisal Tool]] | 运用 [[Mixed Methods Appraisal Tool\|MMAT 2018]] 针对量化（26 项）、质性（20 项）与混合方法（21 项）研究开展独立双盲质量评估；初始评价者一致性达 95%，协商消除分歧；58 项研究（87%）得分 $\ge 80\%$。 |
-> | **定性证据综合**<br>[[Thematic Synthesis]] | 遵循 Thomas & Harden (2008) 的[[Thematic Synthesis\|主题综合法]]与定性描述进路（Sandelowski, 2010），开展逐行开放编码、描述性主题聚类（提炼出批判与创造维度的 10 大赋能与 10 大限制主题）以及高阶共现分析性模型推导。 |
+> | **定性证据综合**<br>[[Thematic Synthesis]] | 遵循 Thomas and Harden (2008) 的[[Thematic Synthesis\|主题综合法]]与定性描述进路（Sandelowski, 2010），开展逐行开放编码、描述性主题聚类（提炼出批判与创造维度的 10 大赋能与 10 大限制主题）以及高阶共现分析性模型推导。 |
 
 > [!ref-table]- 表2：检索词组合与布尔逻辑运算矩阵（Search Strings and Boolean Operators）
 > | 检索概念簇（Terms Cluster） | 检索词组合与布尔运算符（Search Strings and Boolean Operators） |
@@ -279,35 +279,35 @@ issuing_organization: ""
 > [!ref-table]- 表5：ChatGPT 对批判性思维影响的核心主题、情境与调节[[Variable\|变量]]（Key Themes on Critical Thinking）
 > | 影响维度 | 主题名称与频数（Theme & n） | 代表性教学情境（Representative Contexts） | 调节条件与关键变量（Moderators / Conditions） | 代表性实证研究（Illustrative Studies） |
 > |---|---|---|---|---|
-> | **赋能机制** | **元认知参与与监控（n = 27）** | [[Reflexivity\|反思性]]学术写作、同伴成果对比、文本多轮修订 | 引导性提示词、结构化探究任务、认知对比指引 | Strobl et al. (2024); Tseng & Lin (2024); Zhan & Yan (2025) |
+> | **赋能机制** | **元认知参与与监控（n = 27）** | [[Reflexivity\|反思性]]学术写作、同伴成果对比、文本多轮修订 | 引导性提示词、结构化探究任务、认知对比指引 | Strobl et al. (2024); Tseng and Lin (2024); Zhan and Yan (2025) |
 > | **赋能机制** | **论证结构与逻辑深化（n = 22）** | [[Classroom Debate\|课堂辩论]]设计、论证可视化图谱、学术论文写作 | 迭代对话模式、基于评分量规的评估对齐 | Sykes (2024); Chen et al. (2025); Darmawansah et al. (2025) |
 > | **赋能机制** | **事实核查与查错机制（n = 19）** | [[STEM Education\|STEM]] 实验报告、程序排错、跨学科文献评述 | 批判性质疑态度、[[AI Literacy\|AI 素养]]、[[AI Hallucination\|幻觉识别培训]] | Archila et al. (2024); Michalon & Camacho-Zúñiga (2023); Šedlbauer et al. (2024) |
-> | **赋能机制** | **[[Self-Regulated Learning\|自我调节学习]]促进（n = 17）** | 形成性反馈循环、自主探究项目、迭代修改 | 提示词工程训练、反思日记、认知监控规程 | Yang et al. (2025); Lee et al. (2024); Shen & Chen (2025) |
-> | **赋能机制** | **学科真实推理深化（n = 15）** | 系统工程设计、商业企划、科学伦理批判 | 任务真实性、专业学科[[Paradigm\|范式]]对齐、深度问题情境 | Kofahi & Husain (2025); George-Reyes et al. (2024); Exintaris et al. (2023) |
+> | **赋能机制** | **[[Self-Regulated Learning\|自我调节学习]]促进（n = 17）** | 形成性反馈循环、自主探究项目、迭代修改 | 提示词工程训练、反思日记、认知监控规程 | Yang et al. (2025); Lee et al. (2024); Shen and Chen (2025) |
+> | **赋能机制** | **学科真实推理深化（n = 15）** | 系统工程设计、商业企划、科学伦理批判 | 任务真实性、专业学科[[Paradigm\|范式]]对齐、深度问题情境 | Kofahi and Husain (2025); George-Reyes et al. (2024); Exintaris et al. (2023) |
 > | **风险限制** | **过度依赖与认知惰性（n = 21）** | 期末论文写作、常规[[Homework\|作业]]应付、事实性问答 | 缺乏使用培训、初学者新手用户、无反思要求 | Sarwanti et al. (2024); Villarino (2025); Azmi et al. (2024) |
-> | **风险限制** | **表层参与与反思缺位（n = 18）** | 文本快速摘要、考试复习提纲、浅层内容生成 | 缺乏教学支架、最低限度反思、时间紧迫压力 | Dilekli & Boyraz (2024); Monib et al. (2025); Al-Alami (2024) |
+> | **风险限制** | **表层参与与反思缺位（n = 18）** | 文本快速摘要、考试复习提纲、浅层内容生成 | 缺乏教学支架、最低限度反思、时间紧迫压力 | Dilekli and Boyraz (2024); Monib et al. (2025); Al-Alami (2024) |
 > | **风险限制** | **论证逻辑碎片化与退化（n = 14）** | 议论文写作、课堂异步讨论、论点推导 | 任务过度简化、认知挑战度不足、论证外包 | Ravšelj et al. (2025); Esmaeil et al. (2023) |
 > | **风险限制** | **元认知卸载与心智外包（n = 12）** | 多阶段长文写作、综合[[Literature Review\|文献综述]]、反思作业 | 缺乏自我调节提示、全盘自动化采纳倾向 | Fan et al. (2025); Wang et al. (2024) |
-> | **风险限制** | **高阶[[Socrates\|苏格拉底]]推理局限（n = 10）** | 复杂概念辨析、高等数学证明、哲学深度辩难 | 算法知识黑箱、任务要求超越模型真实推理能力 | Urhan et al. (2024); Fakour & Imani (2025) |
+> | **风险限制** | **高阶[[Socrates\|苏格拉底]]推理局限（n = 10）** | 复杂概念辨析、高等数学证明、哲学深度辩难 | 算法知识黑箱、任务要求超越模型真实推理能力 | Urhan et al. (2024); Fakour and Imani (2025) |
 
 > [!evidence-grid-a] 批判性思维赋能维度与实证案例细析（[[Educational Affordances\|affordances]], 5 大核心主题）
-> - **元认知监控与反思性审思** 在德语高级 L2 学术写作课程中，Strobl et al. (2024) 设计了将 ChatGPT 作为“写作搭档”的双轨修改任务，迫使学生对比自身草稿与 AI 修改版的句式逻辑，学生在反思日志中展现出极高的元认知监控深度；Tseng & Lin (2024) 与 Zhan & Yan (2025) 同样证实引导性提示能有效激发对机器产出的分析性审视。（pp. 6–7）
+> - **元认知监控与反思性审思** 在德语高级 L2 学术写作课程中，Strobl et al. (2024) 设计了将 ChatGPT 作为“写作搭档”的双轨修改任务，迫使学生对比自身草稿与 AI 修改版的句式逻辑，学生在反思日志中展现出极高的元认知监控深度；Tseng and Lin (2024) 与 Zhan and Yan (2025) 同样证实引导性提示能有效激发对机器产出的分析性审视。（pp. 6–7）
 > - **论证结构与辩证深度拓宽** Sykes (2024) 在普适计算学术写作实验中发现，利用 ChatGPT 充当“辩难对手”（Counterargument Generator）并结合[[Argument Mapping\|论证图]]谱量规，使学生论文在反驳力与反思严密性得分上显著优于传统无技术辅助组；Chen et al. (2025) 与 Darmawansah et al. (2025) 也指出结构化对话显著促进了论据整合。
 > - **事实核查与[[Epistemology\|认识论]]怀疑激发** Archila et al. (2024) 在科学写作任务中引导学生专门针对 AI 生成的文献与数据进行“红队测试”（Red-teaming），主动识别出 14 处事实幻觉与逻辑漏洞；Michalon & Camacho-Zúñiga (2023) 与 Šedlbauer et al. (2024) 亦证实显性幻觉识别训练能有效激发学生的实证核验习惯与[[Epistemological Vigilance\|认识论警觉]]。
-> - **自我调节学习与策略监控** Yang et al. (2025) 对非传统大学生的追踪表明，经过提示词工程引导的学生学会了根据任务难度分阶段调配 AI 资源，展现出明确的前瞻计划、过程诊断与策略微调能力；Lee et al. (2024) 及 Shen & Chen (2025) 进一步指出反思规程能够促进策略性认知监控。
-> - **学科真实推理与专业情境化** Exintaris et al. (2023) 在药学临床处方分析中，利用 ChatGPT 模拟疑难病患互动，促使学生在专业伦理与药理机制的交叉点上开展高度情境化的临床决断推理；Kofahi & Husain (2025) 与 George-Reyes et al. (2024) 同样发现真实工程与商业情境能驱动高阶学科推理。
+> - **自我调节学习与策略监控** Yang et al. (2025) 对非传统大学生的追踪表明，经过提示词工程引导的学生学会了根据任务难度分阶段调配 AI 资源，展现出明确的前瞻计划、过程诊断与策略微调能力；Lee et al. (2024) 及 Shen and Chen (2025) 进一步指出反思规程能够促进策略性认知监控。
+> - **学科真实推理与专业情境化** Exintaris et al. (2023) 在药学临床处方分析中，利用 ChatGPT 模拟疑难病患互动，促使学生在专业伦理与药理机制的交叉点上开展高度情境化的临床决断推理；Kofahi and Husain (2025) 与 George-Reyes et al. (2024) 同样发现真实工程与商业情境能驱动高阶学科推理。
 
 > [!evidence-grid-b] 批判性思维风险维度与实证案例细析（Limitations, 5 大核心主题）
 > - **过度依赖与心智怠惰** Sarwanti et al. (2024) 调查显示，缺乏批判性素养培训的语言专业学生中，超过 60% 直接将 ChatGPT 的首轮输出复制粘贴为作业答案，完全丧失了对核心知识点的独立咀嚼与深层推导；Villarino (2025) 与 Azmi et al. (2024) 亦发现新手用户极易顺从 AI 现成结论。
-> - **表层参与与反思缺位** Dilekli & Boyraz (2024) 观察到，在无反思性脚手架的摘要任务中，学生仅停留在让 AI 快速替换词汇与缩写段落的工具性应付层面；Monib et al. (2025) 与 Al-Alami (2024) 进一步揭示，缺乏深层反思要求的内容生成会削弱整体认知投入。
+> - **表层参与与反思缺位** Dilekli and Boyraz (2024) 观察到，在无反思性脚手架的摘要任务中，学生仅停留在让 AI 快速替换词汇与缩写段落的工具性应付层面；Monib et al. (2025) 与 Al-Alami (2024) 进一步揭示，缺乏深层反思要求的内容生成会削弱整体认知投入。
 > - **论证逻辑碎片化与退化** Fan et al. (2025) 对学术论文写作过程的语料库分析表明，过度依赖 AI 生成段落的学生作品虽然语法顺滑，但段落之间缺乏连贯的逻辑推导链，论证呈现“马赛克式”拼贴；Ravšelj et al. (2025) 与 Esmaeil et al. (2023) 同样指出任务简化导致分析性思考退化。
 > - **元认知卸载与心智外包** Wang et al. (2024) 发现学生在面对复杂写作构思时，主动将“决定写什么”和“如何权衡理由”这一核心认知劳动全部卸载给 AI，导致大脑[[Working Memory\|工作记忆]]在面对高阶反思时处于休眠状态。
-> - **高阶苏格拉底推理失灵** Urhan et al. (2024) 在微积分概念论证研究中指出，ChatGPT 经常以极度肯定的语气输出存在隐蔽逻辑断裂的推导，缺乏深层苏格拉底式的追问能力；Fakour & Imani (2025) 也证实复杂哲学批判任务超出了当前工具的深度推理边界。
+> - **高阶苏格拉底推理失灵** Urhan et al. (2024) 在微积分概念论证研究中指出，ChatGPT 经常以极度肯定的语气输出存在隐蔽逻辑断裂的推导，缺乏深层苏格拉底式的追问能力；Fakour and Imani (2025) 也证实复杂哲学批判任务超出了当前工具的深度推理边界。
 
 > [!exegesis]- 案例深析：语言写作中“反思提示”与“直接采纳”的认知机制分水岭
 > 对比两类代表性的语言写作实证情境，可以清晰发现教学脚手架的决定性分流机制：
 > 1. **结构化课堂中的认识论摩擦（Strobl et al., 2024）** 教师并未允许学生直接使用 AI 生成文本，而是制定了“三步反思规程”——学生先独立完成初稿，再指示 ChatGPT 提出批判性修改意见，随后学生必须在旁边用批注形式解释“为什么接受或拒绝 AI 的每一条建议”。此时，ChatGPT 带来了良性的**认识论摩擦（Epistemic Friction）**，迫使学生反复调用长时记忆中的语法与修辞图式，批判性思维各项指标实现显著跃升。
-> 2. **自由使用环境中的心智外包（Fan et al., 2025）** 缺乏任何反思提示与过程性监控，学生从拟定提纲到撰写论据全程由 AI 代劳。这种看似高效的交互剥离了学习过程中的必要认知困难，直接触发了有害的**[[Cognitive Offloading\|认知卸载]]**，导致学生面对复杂的逻辑质疑时哑口无言。
+> 2. **自由使用环境中的心智外包（Fan et al., 2025）** 缺乏任何反思提示与过程性监控，学生从拟定提纲到撰写论据全程由 AI 代劳。这种看似高效的交互剥离了学习过程中的必要认知困难，直接触发了有害的 **[[Cognitive Offloading\|认知卸载]]**，导致学生面对复杂的逻辑质疑时哑口无言。
 
 > [!warrant]- 步骤一推理桥梁
 > 批判性思维的本质是反思性怀疑与基于标准的理由权衡。大语言模型输出的文本在表层语义上极具流畅性与权威感，这种“顺滑表象”天然具有麻痹人类反思本能的倾向。因此，只有当外部教学系统施加强制性的“验证责任”与“评估规则”时，技术才能转化为对抗心智惰性的认知磨刀石；若听任工具主义的自由交互，学生必然遵循认知经济性原则滑向彻底的心智外包。
@@ -323,9 +323,9 @@ issuing_organization: ""
 > | 影响维度 | 主题名称与频数（Theme & n） | 代表性教学情境（Representative Contexts） | 调节条件与关键变量（Moderators / Conditions） | 代表性实证研究（Illustrative Studies） |
 > |---|---|---|---|---|
 > | **赋能机制** | **[[Divergent Thinking\|发散思维]]与构想拓展（n = 31）** | 论文开题[[Brainstorming\|头脑风暴]]、设计项目规划、开放式解题 | 自主探究模式、探究早期探索阶段、发散导向 | Sarwanti et al. (2024); Villarino (2025); Urban et al. (2024); Xu (2025) |
-> | **赋能机制** | **结构与表达脚手架（n = 24）** | EFL 英语学术写作、文学创意、跨体裁转写 | 语言支架介入、多轮草稿迭代修改 | Avsheniuk et al. (2024); Kurt & Kurt (2024); Tseng & Lin (2024); Werdiningsih et al. (2024) |
+> | **赋能机制** | **结构与表达脚手架（n = 24）** | EFL 英语学术写作、文学创意、跨体裁转写 | 语言支架介入、多轮草稿迭代修改 | Avsheniuk et al. (2024); Kurt and Kurt (2024); Tseng and Lin (2024); Werdiningsih et al. (2024) |
 > | **赋能机制** | **对话互动与视角转换（n = 18）** | 议题辩论模拟、跨学科探究、[[Role-playing\|角色扮演]]设计 | 提示词角色设计、多视角反思交互循环 | Lee et al. (2024); Darmawansah et al. (2025); [[Argument_Li_2025_HSSC\|Li et al. (2025)]]; Cake (2025) |
-> | **赋能机制** | **情感激活与焦虑缓解（n = 16）** | 故事叙述构思、创意剧本策划、开放叙事任务 | 任务表达性构架、探索[[Open-Mindedness\|开放性]]、心理安全感 | George-Reyes et al. (2024); Gervacio (2024); Jayasinghe (2024); Alzubi et al. (2025); Kofahi & Husain (2025) |
+> | **赋能机制** | **情感激活与焦虑缓解（n = 16）** | 故事叙述构思、创意剧本策划、开放叙事任务 | 任务表达性构架、探索[[Open-Mindedness\|开放性]]、心理安全感 | George-Reyes et al. (2024); Gervacio (2024); Jayasinghe (2024); Alzubi et al. (2025); Kofahi and Husain (2025) |
 > | **赋能机制** | **[[Structured Teaching\|结构化教学]]介导增益（n = 21）** | 翻转课堂、基于设计的学习、ADDIE 教学模型 | 显性[[Framework for Teaching\|教学框架]]、反思性提示、创意评估量规 | Li (2023); Abdelmagid et al. (2025) |
 > | **风险限制** | **过度依赖与创造被动（n = 20）** | 期末论文写作、常规作业应付、通用学术任务 | 低 AI 素养、缺乏教学指导、直接采纳答案 | Awal (2024); Azmi et al. (2024); Zhang et al. (2024) |
 > | **风险限制** | **个人声音剥落与真实性丧失（n = 15）** | 反思性日记、个性化叙事、情感表达写作 | 身份认同导向任务、缺乏个性化文风保留训练 | Monib et al. (2025); Al-Alami (2024) |
@@ -335,7 +335,7 @@ issuing_organization: ""
 
 > [!evidence-grid-a] 创造性思维赋能维度与实证案例细析（Affordances, 5 大核心主题）
 > - **发散思维与构想广度爆发** 在[[Problem Solving\|复杂问题解决]]任务中，捷克高校实验（Urban et al., 2024）表明，使用 ChatGPT 作为构想拓展伙伴的实验组在托兰斯创造思维测验（[[Torrance Tests of Creative Thinking\|TTCT]]）及[[Alternate Uses Test\|另类用途测验]]（AUT）的发散流畅性与精致性得分上显著高于控制组；Sarwanti et al. (2024)、Villarino (2025) 与 Xu (2025) 亦证实了早期发散探索的有效性。（pp. 7–8）
-> - **篇章结构与跨语言表达支架** 在学术英语写作中，Kurt & Kurt (2024) 发现非英语母语学生借助 ChatGPT 克服了“词汇贫乏壁垒”，能够自由尝试多样化修辞风格并重组专业概念；Avsheniuk et al. (2024) 与 Werdiningsih et al. (2024) 同样报告了表达支架对写作流畅性的促进。
+> - **篇章结构与跨语言表达支架** 在学术英语写作中，Kurt and Kurt (2024) 发现非英语母语学生借助 ChatGPT 克服了“词汇贫乏壁垒”，能够自由尝试多样化修辞风格并重组专业概念；Avsheniuk et al. (2024) 与 Werdiningsih et al. (2024) 同样报告了表达支架对写作流畅性的促进。
 > - **角色扮演与认知视角多维转换** Lee et al. (2024) 让学生指示 ChatGPT 扮演不同文化背景的利益攸关方进行模拟辩论，学生在多重视角碰撞中打破了思维定势；Darmawansah et al. (2025) 与 [[Argument_Li_2025_HSSC\|Li et al. (2025)]] 也发现多角度模拟能显著拓展解题思路。
 > - **情感激发与创作焦虑破冰** George-Reyes et al. (2024) 质性报告表明，面对空白文档的“起始创作焦虑”是阻碍创造力的首要心理门槛，ChatGPT 充当低威胁性的“头脑风暴玩伴”显著提升了创作意愿；Gervacio (2024)、Jayasinghe (2024) 与 Alzubi et al. (2025) 均证实了其情感赋能价值。
 > - **结构化教学框架下的创造性增益** 运用创意写作框架的教学实践（Cake, 2025）显示，将 AI 产出作为“粗糙原料”进行二次解构与重组，能使学生作品原创性取得统计学显著增长；Li (2023) 与 Abdelmagid et al. (2025) 亦报告了 ADDIE 等教学模型对创造力的放大效应。
@@ -366,7 +366,7 @@ issuing_organization: ""
 > | 共现模式类型（Pattern Type） | 核心主题描述（Thematic Description） | 实证文献数量（n） | 关键教学调节条件（Moderators / Conditions） | 代表性实证研究（Illustrative Studies） |
 > |---|---|---|---|---|
 > | **双向协同增益（Synergistic Enhancement: CT ↑, CrT ↑）** | ChatGPT 依托结构化教学模型同时促进了学生的深入探究、反思监控、论据分析与多元发散构想，两类思维形成相互强化的共生回路。 | 18 | 探究导向设计（Inquiry-oriented tasks）、反思性支架、多轮对话协商、过程性对齐评价 | Essel et al. (2024); [[Argument_Li_2025_HSSC\|Li et al. (2025)]]; Chen et al. (2025); Darmawansah et al. (2025) |
-> | **非对称发展（Asymmetrical Development: CrT ↑, CT ↓）** | ChatGPT 极大提升了学生的构想流畅性、发散广度与写作效率，但由于缺乏批判性评价框架与深层论证要求，导致批判性审思显著退化。 | 8 | 非结构化使用、重视生成速度与数量忽视质量检验、缺乏批判性核验规则 | Wang et al. (2024); Azmi et al. (2024); Aldulaijan & Almalki (2025); Klimova & de Campos (2024); Sarwanti et al. (2024); Habib et al. (2024); Esmaeil et al. (2023); Liu et al. (2024) |
+> | **非对称发展（Asymmetrical Development: CrT ↑, CT ↓）** | ChatGPT 极大提升了学生的构想流畅性、发散广度与写作效率，但由于缺乏批判性评价框架与深层论证要求，导致批判性审思显著退化。 | 8 | 非结构化使用、重视生成速度与数量忽视质量检验、缺乏批判性核验规则 | Wang et al. (2024); Azmi et al. (2024); Aldulaijan and Almalki (2025); Klimova & de Campos (2024); Sarwanti et al. (2024); Habib et al. (2024); Esmaeil et al. (2023); Liu et al. (2024) |
 > | **双重认知侵蚀（Joint Cognitive Erosion: CT ↓, CrT ↓）** | 批判性审思停滞且创造性构想与主体性双重萎缩，常见于无指引、工具主义应付或纯任务交付导向的高压情境。 | 4 | 被动接受答案、缺乏元认知支架、任务完成主义导向、评估标准模糊 | Ravšelj et al. (2025); Al-Alami (2024); Zhang et al. (2024); Monib et al. (2025) |
 
 > [!contrast-table] 认知共现三大轨迹的交互机制、认知状态与教学情境深度对比
@@ -374,7 +374,7 @@ issuing_organization: ""
 > |---|---|---|---|
 > | **认知表现特征** | 批判性思维（CT ↑）与创造性思维（CrT ↑）同步跃升 | 创造性思维（CrT ↑）发散提升，批判性思维（CT ↓）退化 | 批判性思维（CT ↓）与创造性思维（CrT ↓）双重滑坡 |
 > | **人机交互形态** | **人机对话伙伴模式** 批判性提问、递归式探究与方案修正 | **生成放大器模式** 单向获取提纲与材料，缺乏二次检验 | **答案自动售货机模式** 整篇代写、直接复制、应付检查 |
-> | **工作记忆负荷状态** | 剥离机械性负荷，有效维持**良性认知负荷**投入高阶推理 | 表面信息加工通畅，未形成深层长时记忆图式建构 | 触发有害的**[[Cognitive Offloading\|认知卸载]]**，大脑认知资源处于休眠 |
+> | **工作记忆负荷状态** | 剥离机械性负荷，有效维持**良性认知负荷**投入高阶推理 | 表面信息加工通畅，未形成深层长时记忆图式建构 | 触发有害的 **[[Cognitive Offloading\|认知卸载]]**，大脑认知资源处于休眠 |
 > | **认识论状态** | **认识论警觉（Epistemic Vigilance）** 主动查错与[[Triangulation\|三角互证]] | **认识论天真（Epistemic Naivety）** 被顺滑语言蒙蔽 | **认识论冷漠（Epistemic Apathy）** 不在乎真伪，只求过关 |
 > | **典型教学情境** | 翻转课堂、[[Problem-Based Learning\|PBL]] 项目探究、基于量规的设计课程 | 传统大班讲授课、时间仓促的期末小论文、课后泛化作业 | 无监督在线考试、纯文字格式排版任务、高压应试考评 |
 

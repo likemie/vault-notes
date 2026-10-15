@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Nutley's Four-Dimension Framework for Research Uptake
@@ -63,7 +63,7 @@ updated: 2026-10-15
 > - **知识位置** 渊源于公共行政学中的循证政策与实践（Evidence-Based Policy and Practice, EBPP）与[[Knowledge Mobilisation\|知识动员]]（Knowledge Mobilisation）学派。由英国政策学者桑德拉·纳特利（Sandra Nutley）、休·戴维斯（Huw T. O. Davies）与伊莎贝尔·沃尔特（Isabel Walter）于 2002 年系统提出（Nutley et al., 2002; Nutley, 2003），在教育政策研究中被[[Zewelanji N. Serpell\|泽韦兰吉·N·瑟佩尔]]（Zewelanji N. Serpell）等学者作为指导科研人员精准参与宏观立法的核心分析工具。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
 
 > [!claim] 核心主张
-> **纳特利证据吸纳四维框架（Nutley's Four-Dimension Framework for Research Uptake）**认为：政策决策者对学术实证证据的吸纳与利用，绝非仅由研究本身的方法论严谨度或[[Effect Size\|效应量]]大小单向决定，而是由**决策者个人维度（Personal）**、**研究契合度维度（Research Fit）**、**制度情境维度（Contextual）**以及**政策执行维度（Implementation）**这四大[[Heterogeneity\|异质性]]力量相互交织、动态博弈的综合产物。研究者若要实现证据的实质性政策转化，必须在这四个维度上同时开展适配性重构与敏捷对齐。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
+> **纳特利证据吸纳四维框架（Nutley's Four-Dimension Framework for Research Uptake）** 认为：政策决策者对学术实证证据的吸纳与利用，绝非仅由研究本身的方法论严谨度或[[Effect Size\|效应量]]大小单向决定，而是由**决策者个人维度（Personal）**、**研究契合度维度（Research Fit）**、**制度情境维度（Contextual）** 以及**政策执行维度（Implementation）** 这四大[[Heterogeneity\|异质性]]力量相互交织、动态博弈的综合产物。研究者若要实现证据的实质性政策转化，必须在这四个维度上同时开展适配性重构与敏捷对齐。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
 
 > [!citation-card] 核心文献表述
 > 纳特利等（2002）系统总结了决定立法决策者是否倾向于关注并采纳特定研究证据的核心考量维度……如果我们要让自己的研究在政策制定中发挥实质作用，就必须调整我们的研究设计与传播方式，使其深度嵌入这一政策制定的生态环境之中。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
@@ -91,7 +91,7 @@ updated: 2026-10-15
 > - **前提一** 政策制定者与国会幕僚绝非[[Value Neutrality\|价值中立]]的信息处理器，其个人受教育背景、专业知识结构及对科学实证的先验信任度差异极大。
 > - **前提二** 决策者在日常政治工作中面临极度的“信息过载”与时间稀缺，天然排斥充斥学术黑话与过度怀疑保留的晦涩文本。
 >   > [!evidence-grid]- 证据支持
->   > - **证据一** Sorian & Baugh（2002）对全美近 300 名州高级立法与行政决策者的实证调研表明，学术界普遍存在“过度供给无关技术细节”的倾向，直接引发决策者的阅读疲劳与信息忽略。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
+>   > - **证据一** Sorian and Baugh（2002）对全美近 300 名州高级立法与行政决策者的实证调研表明，学术界普遍存在“过度供给无关技术细节”的倾向，直接引发决策者的阅读疲劳与信息忽略。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
 > - **推导** 只有当实证证据通过简明直观的口径呈现，且决策者在心理认知上预先认可“数据可作为强化专家判断的有效工具”时，证据才可能跨越第一道注意力筛选机制。
 
 > [!proposition-chain] 核心命题二｜实证证据的政治效用取决于其与决策者既有意识形态的相容性

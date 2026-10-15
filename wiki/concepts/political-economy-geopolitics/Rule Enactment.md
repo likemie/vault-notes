@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Rule Enactment
@@ -53,7 +53,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **规则践行（Rule Enactment）**指行动者在具体社会与经济情境中理解、解释、推行、抵制或变通制度规范的动态实践过程；[[Historical Institutionalism|历史制度主义]]强调，形式条文的**规则设计（Rule Design）**与基层实际的**规则践行**之间始终存在不可消除的结构性脱节（Gap），这一脱节并非纯粹的技术执行失误，而是各方利益主体展开持续政治博弈与微观重塑的根本制度空间。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 13–16)]]
+> **规则践行（Rule Enactment）** 指行动者在具体社会与经济情境中理解、解释、推行、抵制或变通制度规范的动态实践过程；[[Historical Institutionalism|历史制度主义]]强调，形式条文的**规则设计（Rule Design）** 与基层实际的**规则践行**之间始终存在不可消除的结构性脱节（Gap），这一脱节并非纯粹的技术执行失误，而是各方利益主体展开持续政治博弈与微观重塑的根本制度空间。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 13–16)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 聚焦制度生命周期中从“立法成文”走向“社会落实”的微观实践维度，破除将制度机械等同于静态法典文本的文本主义偏误。
@@ -158,7 +158,7 @@ updated: 2026-10-15
 > > 围绕基层偏离形式规则的现象应被视为体制失败还是维稳机制展开争论。
 > >
 > > - **形式法理学派** 规则践行与设计的脱节损害了法的确定性与可预期性，属于执行不力与制度衰退的病理特征。
-> > - **Wolfgang Streeck & Kathleen Thelen（2005）** 脱节是所有活态制度的常态特征；适度的践行脱节与默许偏离恰恰为刚性法律制度提供了应对不可预见环境冲击的生命力。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 15–16)]]
+> > - **Wolfgang Streeck and Kathleen Thelen（2005）** 脱节是所有活态制度的常态特征；适度的践行脱节与默许偏离恰恰为刚性法律制度提供了应对不可预见环境冲击的生命力。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 15–16)]]
 
 > [!warning] 适用局限
 > 规则践行理论假定制度行动者拥有相当程度的信息搜集能力与自由博弈空间；在高度极权、实施严密技术监控或违反成本极度高昂的极端规制环境中，微观行动者探测漏洞与试探边界的空间将大幅收缩。
@@ -168,5 +168,5 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 正式形式化界定规则践行概念，系统提出导致设计与践行脱节的四重动力机制（pp. 13–16）。
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 继承规则践行中的缝隙假设，深化建构[[Rule Ambiguity|制度模糊性]]与行动者策略博弈模型（pp. 10–14）。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 正式形式化界定规则践行概念，系统提出导致设计与践行脱节的四重动力机制（pp. 13–16）。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 继承规则践行中的缝隙假设，深化建构[[Rule Ambiguity|制度模糊性]]与行动者策略博弈模型（pp. 10–14）。

@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-11
+updated: 2026-10-16
 ---
 
 # Globalization from Below
@@ -178,7 +178,7 @@ updated: 2026-10-11
 >       - **含义** 民间非政府组织通过承接政府或跨国基金会购买服务，演变为去政治化的行政附庸。
 >       - **观察线索** 组织资金重度依赖外部捐助、工作重点从政治维权转向迎合量化审计指标。
 >       - **判读规则** 若民间团体丧失自主批判性而沦为外包福利承办商，判定为影子国家异化。
->       - **归属与出处** 依据 Sutton & Arnove (2004) 及 Kamat (2004)。
+>       - **归属与出处** 依据 Sutton and Arnove (2004) 及 Kamat (2004)。
 >   - **D1.2｜自下而上的基层与民间运动模式（Bottom-Up Counter-Hegemonic Model）**
 >     由一线教师工会、受压迫社区、原住民社群与学生自治会自发发起的权利抗争。
 >     - **D1.2.1｜草根自组织与教师/社区能动性指标**

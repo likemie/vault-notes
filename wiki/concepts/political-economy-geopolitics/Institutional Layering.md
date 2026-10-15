@@ -208,7 +208,7 @@ updated: 2026-10-16
 > - **荷兰住房法建筑规制执行史（多维时空感知）** 展现微观建筑承包商感知到的剧烈突变、中观部门长达二十年的渐进谈判与宏观百年法理框架的边际微调，证明变迁定性取决于主体的制度位置与时间跨度。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10–11)]]
 
 > [!critique]- 反面概念辨析案例：被当代学者误读为“制度层叠”的制度再生产与[[Path Dependence|技术锁定]]
-> - **互联网[[Composite-Standard Model|复合标准模型]]（Boas, 2007 概念错置案例）** 泰勒·博阿斯虽借用 Thelen 的层叠概念描述在 TCP/IP 核心之上累加 SMTP、HTTP、P2P 等应用层标准，但[[Jeroen van der Heijden|范德海登]]（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, pp. 13–14]]）明确指出这属于典型的概念泛化与错置——外围应用协议的繁荣（高“厚度商”，Thickness Quotient）不仅没有改变或侵蚀底层核心，反而通过网络外部性极大地推高了转换成本、死锁了技术核心。这一机制本质属于**[[Path Dependence|路径依赖]]、制度再生产与制度加固（Institutional Reproduction & Reinforcement）**，绝非带来规则质变的制度层叠。
+> - **互联网[[Composite-Standard Model|复合标准模型]]（Boas, 2007 概念错置案例）** 泰勒·博阿斯虽借用 Thelen 的层叠概念描述在 TCP/IP 核心之上累加 SMTP、HTTP、P2P 等应用层标准，但[[Jeroen van der Heijden|范德海登]]（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, pp. 13–14]]）明确指出这属于典型的概念泛化与错置——外围应用协议的繁荣（高“厚度商”，Thickness Quotient）不仅没有改变或侵蚀底层核心，反而通过网络外部性极大地推高了转换成本、死锁了技术核心。这一机制本质属于 **[[Path Dependence|路径依赖]]、制度再生产与制度加固（Institutional Reproduction & Reinforcement）**，绝非带来规则质变的制度层叠。
 > - **[[EU|欧洲联盟]]预算与规制核心模型（Ackrill & Kay, 2006; Thatcher & Coen, 2008 概念错置案例）** 罗伯特·阿克里尔和阿德里安·凯在欧盟预算研究中、马克·撒切尔和大卫·科恩在规制核心研究中同样借用层叠概念，但新成员国加入或设立外围监管网络并未动摇欧盟既有核心规制轨道，外围图层反倒充当防震垫保护并巩固了旧核心，同样属于制度再生产而非制度层叠。（Ackrill & Kay, 2006; Thatcher & Coen, 2008）
 
 ---
@@ -237,7 +237,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 首次系统界定分层（Layering）机制，分析在旧核心边缘附加新规则如何通过差异化增长逐步实现体制转型。（pp. 22–24）
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 首次系统界定分层（Layering）机制，分析在旧核心边缘附加新规则如何通过差异化增长逐步实现体制转型。（pp. 22–24）
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 跨学科审视 60 年间 166 篇期刊文献中层叠概念的演变传统，提炼行动者增厚、[[Regulatory Ratchet|规制棘轮]]与双重叠加三类演化支脉，并反思当代应用混淆变迁与再生产的边界偏误。
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 将制度层叠定位于强[[Veto Possibilities|否决可能性]]与低[[Enforcement Discretion|执行裁量权]]制度语境，揭示[[Subversives|颠覆者]]在不触动旧规则前提下通过附加新规累积重塑体制逻辑。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 将制度层叠定位于强[[Veto Possibilities|否决可能性]]与低[[Enforcement Discretion|执行裁量权]]制度语境，揭示[[Subversives|颠覆者]]在不触动旧规则前提下通过附加新规累积重塑体制逻辑。
 

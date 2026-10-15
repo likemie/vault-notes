@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-03
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Role-playing
@@ -88,7 +88,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **角色扮演（Role-playing）**是一种让参与者在“仿佛”（as-if）的具身、社交或技术中介情境中有意识地代入特定角色并开展交往互动的活动方式（Sellers, 2002, p. 498；Johnstone, 1979/1981）。
+> **角色扮演（Role-playing）** 是一种让参与者在“仿佛”（as-if）的具身、社交或技术中介情境中有意识地代入特定角色并开展交往互动的活动方式（Sellers, 2002, p. 498；Johnstone, 1979/1981）。
 > - **作为教学策略（Pedagogy）** 属于[[Authentic Instruction|真实性教学]]的核心子类，通过创设利益与价值冲突情境，促使学生代入特定社会或学术角色展开论辩与协商，强力激发换位思考并促进[[Critical Thinking|批判性思维]]（[[Argument_Abrami_2015_RER|Abrami et al., 2015, p. 287]]）。
 > - **作为[[Qualitative Research|质性研究]]方法（Research Method）** 一种质性资料收集手段，研究者通过观察、录像与记录参与者在虚构情境中的即兴互动，探索难以通过[[Questionnaire|问卷]]直接触及的深层内隐态度、价值取向与决策机制（Bolton & Heathcote, 1999, p. 57；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26|Cohen et al., 2011, Ch. 26]]）。
 > - **作为[[Man-Computer Symbiosis|人机共生]]提示支架（AI Role-playing Prompting）** 在[[Generative Artificial Intelligence|生成式人工智能]]（Generative Artificial Intelligence, GenAI）学习情境中，指通过提示词指令大语言模型扮演特定认知角色（如[[Socrates|苏格拉底]]式启发者、挑剔的同行审稿人或反方辩友），形成认知对抗与求证张力，引导学生承担评价者角色并向[[Evaluativist|评价主义认识立场]]演进（[[Argument_Wu_2025_ER|Wu et al., 2025, pp. 363–366]]）。
@@ -157,9 +157,9 @@ updated: 2026-10-15
 >
 > | 研究与实践文献 | 实施领域与设计 | 主要发现与指标 | 理论与方法启示 |
 > |---|---|---|---|
-> | McCarthy & Anderson (2000) | 大学历史与政治学准实验比较（角色扮演 vs 传统讲授） | 角色扮演组后续标准评估得分显著更高（政治学均值差 $+0.8$，历史 $+1.0$） | 证实角色扮演对深层概念理解与多重视角采择的促进作用。 |
+> | McCarthy and Anderson (2000) | 大学历史与政治学准实验比较（角色扮演 vs 传统讲授） | 角色扮演组后续标准评估得分显著更高（政治学均值差 $+0.8$，历史 $+1.0$） | 证实角色扮演对深层概念理解与多重视角采择的促进作用。 |
 > | Sellers (2002) | 研究生护理教育两小时“热座”期末考核 | 学习成果达成度高，学生对考核有效性评分达 $6.68–7.0$ / $7.0$ | 证明角色扮演可作为高质量的综合[[Authentic Assessment\|表现性评价]]工具。 |
-> | Robinson & Kelley (2007) | 职前教师培训准实验（录像回放复盘组 vs 无录像组） | 录像回放组反思质量显著增长，更倾向于深层批判性反思而非简单描述 | 确立录像复盘（Debriefing）与[[Self-spectator\|自观]]是提升反思深度的关键机制。 |
+> | Robinson and Kelley (2007) | 职前教师培训准实验（录像回放复盘组 vs 无录像组） | 录像回放组反思质量显著增长，更倾向于深层批判性反思而非简单描述 | 确立录像复盘（Debriefing）与[[Self-spectator\|自观]]是提升反思深度的关键机制。 |
 > | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 363–366)]] | 师范生统计推论人机交互实验（AI 角色支架组 vs 自由问答组） | 角色支架组学生成功识别出 ChatGPT 逻辑漏洞的比例提升 42%，评价主义立场达成率显著更高（$p < .01$） | 证实通过角色提示词约束 AI 行为能有效转化为激发学生批判核验的[[Scaffolding\|脚手架]]。 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11\|Karp & Zamiska (2025, Ch. 11, pp. 122–126)]] | 前沿技术企业（[[Palantir Technologies\|Palantir]]）工程文化与入职培训实践 | 将约翰斯通《即兴》作为工程师必读书目，践行本体地位与扮演地位解耦，建立自适应阴影层级与任务突击网络 | 证实即兴演剧与[[Status Transactions\|地位交易]]技术能有效破除企业科层僵化，释放自发创新活力。 |
 

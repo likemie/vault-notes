@@ -162,12 +162,12 @@ issuing_organization: ""
 > | **情感与行为产出** | 学生在教学干预中表现出的内在心理倾向、情绪体验、态度信念与社会交往行为，涵盖学习动机、学科态度、同伴协作技能及社交[[Self-Efficacy\|自我效能感]]。 | 学习动机策略问卷（Motivated Strategies for Learning Questionnaire，MSLQ）、学科态度量表、同伴互动观察量表；纳入 Kyndt et al. (2013, 情感态度, $ES = 0.15/0.18$)、Liu & Lipowski (2021, 体育动机, $ES = 0.05$)、Tanjung et al. (2022, 物理情感能力, $ES = 1.26$)、Özkan & Çetinkaya-Uslusoy (2024, 护理态度, $ES = 1.18$) 等 6 个效应量，加权平均 $ES = 0.51$。 |
 > | **综合学习产出** | 一阶元分析未对认知与情感分量进行拆分，直接汇总的全维度综合发展总分。 | 综合教学评价档案袋、全维产出合成指数；纳入 Shakerian et al. (2020, 健康科学, $ES = 1.25$) 1 个效应量。 |
 > | **[[Cooperative Integrated Reading and Composition\|合作整合阅读与写作]]**<br>（Cooperative Integrated Reading and Composition，CIRC） | 由 Stevens et al. (1987) 开发的综合性语言与读写教学方案，将基础读写技能教学与异质小组[[Peer-Supported Learning\|同伴互助]]紧密结合。 | 教学规程：教师主导阅读策略精讲 $\to$ 异质小组结对朗读与词汇意义协商 $\to$ 故事主线结构图解 $\to$ 同伴互评修改与编辑 $\to$ 故事复述续写；纳入 Fuad et al. (2023, $ES = 2.04$)，综合效应居全场首位。 |
-> | **[[Group Investigation\|小组调查法]]**<br>（Group Investigation，GI） | 由 Sharan & Sharan (1992) 开发的高度开放式社会探究教学法，强调学生民主参与、多源探究与高阶合作。 | 六步规程：全班确定大主题 $\to$ 异质小组自主选定子课题与分工 $\to$ 搜集资料开展合作调查 $\to$ 整合分析形成报告 $\to$ 向全班展示成果 $\to$ 师生多元评价；纳入 Tanjung et al. (2022, $ES = 0.96/1.26$) 2 个效应量，加权平均 $ES = 1.08$。 |
+> | **[[Group Investigation\|小组调查法]]**<br>（Group Investigation，GI） | 由 Sharan and Sharan (1992) 开发的高度开放式社会探究教学法，强调学生民主参与、多源探究与高阶合作。 | 六步规程：全班确定大主题 $\to$ 异质小组自主选定子课题与分工 $\to$ 搜集资料开展合作调查 $\to$ 整合分析形成报告 $\to$ 向全班展示成果 $\to$ 师生多元评价；纳入 Tanjung et al. (2022, $ES = 0.96/1.26$) 2 个效应量，加权平均 $ES = 1.08$。 |
 > | **[[Jigsaw\|拼图法]]**<br>（Jigsaw） | 由 Aronson et al. (1978) 开创并经 Slavin (1986) 发展的角色互补型合作技术，通过任务信息不对称强制组员相互依存。 | 四步规程：原属组（Home Group）分派不同学习模块 $\to$ 各组负责相同模块者组成专家组（Expert Group）深入研讨 $\to$ 返回原属组轮流教授组员 $\to$ 个人独立测验；纳入 Özkan & Çetinkaya-Uslusoy (2024)、Solissa et al. (2023)、Stanczak et al. (2022)、Shakerian et al. (2020) 等 6 个效应量，加权平均 $ES = 0.72$。 |
 > | **学生小组成就区分法**<br>（Student Teams-Achievement Divisions，STAD） | 由 Slavin (1978) 开发的经典结构化合作技术，强调个人进步分与团队奖励机制，以消除组内搭便车与同伴地位差异。 | 规程：教师授课 $\to$ 异质小组研讨与互测 $\to$ 独立小测 $\to$ 基于个人超越历史基线的进步分（Improvement Points）计算团队奖励；在一阶元分析中广泛整合于综合合作学习池中。 |
-> | **[[Teams-Games-Tournament\|团队游戏竞赛法]]**<br>（Teams-Games-Tournament，TGT） | 由 DeVries & Edwards (1973) 提出的合作-竞赛混合[[Paradigm\|范式]]，用同质学术竞赛台替代传统闭卷测验。 | 规程：异质小组共同准备 $\to$ 组员按先前成就水平分派至同质三人竞赛台（Tournament Tables）竞答抢分 $\to$ 赢取积分带回原属小组 $\to$ 组间竞争表彰；整合于综合合作学习类别中。 |
+> | **[[Teams-Games-Tournament\|团队游戏竞赛法]]**<br>（Teams-Games-Tournament，TGT） | 由 DeVries and Edwards (1973) 提出的合作-竞赛混合[[Paradigm\|范式]]，用同质学术竞赛台替代传统闭卷测验。 | 规程：异质小组共同准备 $\to$ 组员按先前成就水平分派至同质三人竞赛台（Tournament Tables）竞答抢分 $\to$ 赢取积分带回原属小组 $\to$ 组间竞争表彰；整合于综合合作学习类别中。 |
 > | **[[Think-Pair-Share\|思考配对分享]]**<br>（Think-Pair-Share，TPS） | 由 Lyman (1981) 提出的低门槛短周期即时合作策略，旨在最大化课堂全员参与度。 | 规程：教师提问 $\to$ 学生独立思考（Think, 1-2分钟） $\to$ 同桌两人配对交流修正（Pair, 3-5分钟） $\to$ 面向全班分享（Share）；整合于综合合作学习类别中。 |
-> | **综合合作学习** | 涵盖 Johnson & Johnson (1989) 合作学习五要素模型（学习在一起（Learning Together，LT）），或一阶元分析未对具体教学法拆分而进行统合评估的整体干预模式。 | 强调积极互赖、个体责任、面对面促进性互动、社交技能与小组自评五要素；纳入 Çapar & Tarım (2015)、Kyndt et al. (2013)、Ridwan et al. (2022)、Siagian et al. (2023)、Warfa (2016) 等 14 个效应量，加权平均 $ES = 0.61$。 |
+> | **综合合作学习** | 涵盖 Johnson and Johnson (1989) 合作学习五要素模型（学习在一起（Learning Together，LT）），或一阶元分析未对具体教学法拆分而进行统合评估的整体干预模式。 | 强调积极互赖、个体责任、面对面促进性互动、社交技能与小组自评五要素；纳入 Çapar & Tarım (2015)、Kyndt et al. (2013)、Ridwan et al. (2022)、Siagian et al. (2023)、Warfa (2016) 等 14 个效应量，加权平均 $ES = 0.61$。 |
 >
 > **图表解读** 本表系统界定了[[Meta-meta-analysis\|二阶元分析]]中 4 类学习产出与 7 类合作学习技术的核心理论构念、操作化定义、典型教学规程、代表性测评工具及纳入的一阶元分析实证案例，为二阶亚组调节分析与教学转化提供了精准的分类学与操作化基准。（pp. 3–7）
 
@@ -207,7 +207,7 @@ issuing_organization: ""
 > | **Kyndt et al. (2013)** | 0.54 | 0.47 | 0.60 | 51 | 混合学科 | 混合学段 | 综合合作学习 | 非特定多国 | 全实验与准实验 | 学业成就 | 高 | 检出偏倚 | 1995–2012 |
 > | **Kyndt et al. (2013)** | 0.15 | 0.04 | 0.26 | 19 | 混合学科 | 混合学段 | 综合合作学习 | 非特定多国 | 全实验与准实验 | 情感态度 | 高 | 检出偏倚 | 1995–2012 |
 > | **Kyndt et al. (2013)** | 0.18 | -0.05 | 0.40 | 4 | 混合学科 | 混合学段 | 综合合作学习 | 土耳其与其他 | 全实验与准实验 | 情感态度 | 高 | 检出偏倚 | 1995–2012 |
-> | **Liu & Lipowski (2021)** | 0.05 | -1.30 | 1.41 | 6 | 体育教育 | K-12 | 综合合作学习 | 非特定多国 | 全实验与准实验 | [[Affective Outcomes\|情感动机]] | 中等 | 检出偏倚 | 2000–2020 |
+> | **Liu and Lipowski (2021)** | 0.05 | -1.30 | 1.41 | 6 | 体育教育 | K-12 | 综合合作学习 | 非特定多国 | 全实验与准实验 | [[Affective Outcomes\|情感动机]] | 中等 | 检出偏倚 | 2000–2020 |
 > | **Özkan & Çetinkaya-Uslusoy (2024)** | 0.58 | 0.47 | 0.70 | 7 | 护理教育 | 高等教育 | [[Jigsaw\|拼图法]]（Jigsaw） | 非特定多国 | 全实验与准实验 | 学业成就 | 高 | 无偏倚 | 2011–2022 |
 > | **Özkan & Çetinkaya-Uslusoy (2024)** | 0.70 | 0.13 | 1.26 | 4 | 护理教育 | 高等教育 | 拼图法（Jigsaw） | 非特定多国 | 全实验与准实验 | 高阶思维（批判性） | 高 | 无偏倚 | 2011–2022 |
 > | **Özkan & Çetinkaya-Uslusoy (2024)** | 1.18 | 0.53 | 1.84 | 6 | 护理教育 | 高等教育 | 拼图法（Jigsaw） | 非特定多国 | 全实验与准实验 | 情感态度 | 高 | 无偏倚 | 2011–2022 |
@@ -277,7 +277,7 @@ issuing_organization: ""
 > [!chain-link] 证据到判断
 > - 检索覆盖 Web of Science、Scopus、EBSCO 旗下 5 大专业库及 Google Academic，运用二元关键词组合全面捕获 2010–2024 年文献，严格遵循 PRISMA 流程筛选出 15 项独立一阶元分析（图1 流程图）。（pp. 4–5）
 > - 采用 R-AMSTAR 量表（Kung et al., 2010）与 JBI 清单评估质量，得分在 24 至 36 分之间，划分为 14 项中等质量与 9 项高质量效应量，无低质量研究。（p. 5）
-> - 编码[[Reliability\|信度]] Cohen's $\kappa = 0.89$，争议经学科专家仲裁解决；将 Liu & Lipowski (2021) 的 OR 值与 Setiana et al. (2020) 的 Pearson $r$ 值转换为 Cohen's $d$，在大样本假设下合并 Hedges' $g$ 与 Cohen's $d$，最终生成 $k = 23$ 个独立效应量。（pp. 5–6）
+> - 编码[[Reliability\|信度]] Cohen's $\kappa = 0.89$，争议经学科专家仲裁解决；将 Liu and Lipowski (2021) 的 OR 值与 Setiana et al. (2020) 的 Pearson $r$ 值转换为 Cohen's $d$，在大样本假设下合并 Hedges' $g$ 与 Cohen's $d$，最终生成 $k = 23$ 个独立效应量。（pp. 5–6）
 
 > [!example]- 图1：文献筛选数据流程图（Data [[Flow]] Diagram）
 > ![](https://img.mylikemie.icu/sources/Gungor_2026_CP/figures/Gungor_2026_CP_Fig1_Data_Flow_Diagram.jpg)
@@ -311,7 +311,7 @@ issuing_organization: ""
 
 > [!critique]- 方法学局限与统计边界反思
 > 本研究采用单水平经典[[Fixed-Effect and Random-Effects Models\|随机效应模型]]的[[Inverse-Variance Weighting\|逆方差加权法]]（$w_i^* = \frac{1}{v_i + \tau^2}$，其中 $v_i$ 为一阶元分析抽样方差，$\tau^2 = 0.13$ 为研究间异质性方差），在宏观整合上提供了全局基准，但存在四项关键的方法学局限与统计边界：
-> - **初级研究未微观去重（重复计算风险，Double-Counting）** 遵循 Cooper & Koenka (2012) 的 $\le 25\%$ 重叠率宏观门槛，容许部分高影响力原始实验在不同一阶元分析中被重复计入，导致其统计权重被隐性放大；
+> - **初级研究未微观去重（重复计算风险，Double-Counting）** 遵循 Cooper and Koenka (2012) 的 $\le 25\%$ 重叠率宏观门槛，容许部分高影响力原始实验在不同一阶元分析中被重复计入，导致其统计权重被隐性放大；
 > - **集群依赖性未建模（集群依赖被忽略，Cluster-Dependence Ignored）** 将 15 项一阶元分析拆分为 23 个独立效应量（如 Kyndt et al. 贡献 3 个、Siagian et al. 贡献 2 个），缺乏现代多水平[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（Correlated and Hierarchical Effects Model，CHE）进行三水平方差分解；
 > - **缺乏[[Robust Variance Estimation\|稳健方差估计]]（Robust Variance Estimation，RVE）** 未采用三明治估计量（RVE）校正聚类[[Standard Error\|标准误]]（Standard Error，SE），理论上会导致二阶标准误偏小、[[Confidence Interval\|置信区间]]偏窄、显著性检验存在轻微假阳性膨胀风险；
 > - **效应量测度转换的粗放近似** 在将 Hedges' $g$ 与 Cohen's $d$ 合并时直接采用了大样本近似假设（$g \approx d$），未对小样本研究自由度进行精细分层。（pp. 4–7）
@@ -343,7 +343,7 @@ issuing_organization: ""
 > - **实验设计调节效应** 基于准实验设计的元分析效应量高达 $ES = 1.11$（$95\%\text{ CI} = [0.72, 1.50], k = 3$），全实验与准实验混合设计呈现中等效应（$ES = 0.69, 95\%\text{ CI} = [0.54, 0.84], k = 19$），而唯一基于严格个体[[Random Assignment\|随机化]]全实验设计的瑞士六年级拼图法研究（Stanczak et al., 2022）效应量为零（$ES = 0.00, 95\%\text{ CI} = [-0.58, 0.58], k = 1$），组间差异显著（$Q_b(2) = 9.83, p = .01$）。（pp. 8–9）
 > - **生态效度解释机制** 准实验设计植根于常态化真实课堂教学实践而非人工隔离的实验室控制条件（Rogers & Révész, 2019），更能捕捉长周期同伴关系、师生默契与班级合作文化的综合累积效应。（p. 11）
 > - **方法质量与年份[[Trend Study\|趋势分析]]** 中等质量元分析（$ES = 0.83$）高于高质量元分析（$ES = 0.54$），呈临界显著（$Q_b(1) = 3.69, p = .05$），表明高质量综述严格的纳入标准可能产生更保守的估计；2021 年后发表的元分析（$ES = 0.82$）高于 2020 年前（$ES = 0.60$），反映学生与教师对现代合作教学模式熟悉度的持续提高。（p. 11）
-> - **文化与学段倾向分析** 印尼情境效应量最高（$ES = 0.90$），土耳其为 $ES = 0.63$，支持了 Butera & Buchs (2019) 关于非西方集体主义社会对合作互赖具更高文化价值认同的论断；高校阶段（$ES = 0.87$）略高于 K-12 阶段（$ES = 0.79$）。（p. 11）
+> - **文化与学段倾向分析** 印尼情境效应量最高（$ES = 0.90$），土耳其为 $ES = 0.63$，支持了 Butera and Buchs (2019) 关于非西方集体主义社会对合作互赖具更高文化价值认同的论断；高校阶段（$ES = 0.87$）略高于 K-12 阶段（$ES = 0.79$）。（p. 11）
 
 > [!ref-table]- 调节[[Variable\|变量]]与异质性全量分析表（Table 3）
 > | 调节变量维度与分组 | 亚组类别 | 效应量数 k | 效应量 ES [95% CI] | 组间检验 $Q_b$ | 自由度 df | 显著性 p |

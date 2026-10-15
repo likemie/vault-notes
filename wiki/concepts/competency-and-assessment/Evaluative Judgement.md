@@ -53,7 +53,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Evaluative Judgement
@@ -137,7 +137,7 @@ updated: 2026-10-15
 > [!concept-lens] [[Communities of Practice|实践社群]]与内隐知识社会化
 > 卓越工作的质量判准往往包含大量无法被语言完全穷尽的[[Tacit Knowledge|隐性知识]]（Tacit Knowledge）。
 
-> [!claim] Boud & Soler (2016)
+> [!claim] Boud and Soler (2016)
 > **多源范例对比与校准机制** 单纯提供详尽的量规文字无法自动生成高水平的评价性判断。量规往往是抽象和死板的；唯有让学生接触不同质量水平的真实范例，并组织同伴之间相互评阅、对比辩论，学生才能在观察他人优缺点与自我对比的碰撞中，体会什么是高水平论证，进而将外在规则内化为敏锐的专业品味。
 
 ---
@@ -147,7 +147,7 @@ updated: 2026-10-15
 > [!concept-lens] [[Man-Computer Symbiosis|人机共生]]环境中的判断权分配
 > 探讨生成式技术的即时评级与润色如何威胁学习者的评价能力，确立人类不可让渡的认知底线。
 
-> [!claim] [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]
+> [!claim] [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]
 > **评价性判断不可委托与[[Epistemic Dependence\|认识依赖]]诊断** 人工智能介入学习的风险从来不在于使用频次的多寡，而在于协助形态与认知判断之间的实质关系。生成式模型以流畅自信的语调输出解答，极易诱使学生将判定论点是否充分、理论是否切题的“评价性判断”完全让渡给算法。一旦评价性判断被算法接管，学习者便失去了权衡证据与承受不确定性的中间认识动作，导致推导可恢复性崩溃与严重的有害认识依赖。相反，若学生将模型输出仅作为“探究对象”，主动调动学科标准对其进行红队查错与独立裁决，评价性判断便在人机交互中得到显著锤炼，实现关系性[[Epistemic Agency\|认识主体性]]的稳固维护。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 3–6)]]
 
 ---
@@ -169,7 +169,7 @@ updated: 2026-10-15
 > - **1980–1990 年代 — [[Formative Assessment\|形成性评价]]与学生参与萌芽** [[Michael Sadler\|萨德勒]]（Royce Sadler, 1989）提出划时代的形成性评价理论，指出学生要改进学习，必须具备关于良好成果的概念并能够将其与自身现状做对比。
 > - **2000–2010 年代 — 可持续评估（Sustainable Assessment）** 戴维·鲍德（David Boud, 2000）提出可持续评估理念，强调评估应当着眼于满足学生离开大学后的未来学习需求，为评价判断概念奠定理论基石。
 > - **2018 年 — 评价性判断[[Construct\|构念]]正式确立与系统化** 乔安娜·戴等（Tai et al., 2018）在 *Higher Education* 发表开创性论文，正式将“评价性判断（Evaluative Judgement）”[[Operationalization\|操作化]]为包含理解标准、自我反思、同伴评阅与独立裁决的完整理论架构。
-> - **2026 年 — 智能时代[[Man-Computer Symbiosis|人机共生]]中的[[Epistemology\|认识论]]重塑** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 将评价性判断引入人工智能哲学与学习科学的前沿交叉，确立其为界定有害[[Epistemic Dependence\|认识依赖]]的核心诊断标尺，提出人机交互必须围绕“保护并培育学生的评价性判断”进行教学法与评价体系全方位重构。
+> - **2026 年 — 智能时代[[Man-Computer Symbiosis|人机共生]]中的[[Epistemology\|认识论]]重塑** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 将评价性判断引入人工智能哲学与学习科学的前沿交叉，确立其为界定有害[[Epistemic Dependence\|认识依赖]]的核心诊断标尺，提出人机交互必须围绕“保护并培育学生的评价性判断”进行教学法与评价体系全方位重构。
 
 ---
 
@@ -202,7 +202,7 @@ updated: 2026-10-15
 > | 研究文献 | 样本与情境 | 核心[[Variable\|变量]]与测量 | 关键实证发现 | 理论与教学启示 |
 > |---|---|---|---|---|
 > | **Tai et al. (2018)** | 澳大利亚多所高校本科及研究生课程（医学、工程、人文） | 评价性判断培养实践（范例对比、同伴评审与标准[[Dialogue in Education\|对话]]） | 深入参与评价实践的学生展现出显著更强的自主纠错能力、长周期[[Self-Efficacy\|自我效能感]]与专业迁移胜任力。 | 证实评价性判断能够通过系统教学设计加以培育，是高等教育可持续学习的核心引擎。 |
-> | **[[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]** | 人工智能中介的高等教育求知场景与[[Critical Review\|批判性综述]] | 协助形态（工具型 vs 承载型 vs 承载判断型）对评价性判断与认知依赖的影响 | 当协助形态上升为承载判断型时，学生评价性判断让渡率达临界点，导致中间推导动作剥离与可恢复性崩塌。 | 确立评价性判断为区分生产性人机协同与有害[[Epistemic Dependence\|认识依赖]]的关键实证[[Operationalization\|操作化]]指标。 |
+> | **[[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]** | 人工智能中介的高等教育求知场景与[[Critical Review\|批判性综述]] | 协助形态（工具型 vs 承载型 vs 承载判断型）对评价性判断与认知依赖的影响 | 当协助形态上升为承载判断型时，学生评价性判断让渡率达临界点，导致中间推导动作剥离与可恢复性崩塌。 | 确立评价性判断为区分生产性人机协同与有害[[Epistemic Dependence\|认识依赖]]的关键实证[[Operationalization\|操作化]]指标。 |
 
 ---
 
@@ -218,7 +218,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - Tai et al. (2018) — 系统界定评价性判断的理论内涵、发展机制与高等教育课程转化原则，奠定该领域的奠基之作。
-> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 将评价性判断引入[[Generative Artificial Intelligence\|生成式人工智能]]时代的教育[[Epistemology\|认识论]]研究，论证其不可委托给算法的伦理属性，确立其为诊断有害[[Epistemic Dependence\|认识依赖]]的核心分水岭。
+> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 将评价性判断引入[[Generative Artificial Intelligence\|生成式人工智能]]时代的教育[[Epistemology\|认识论]]研究，论证其不可委托给算法的伦理属性，确立其为诊断有害[[Epistemic Dependence\|认识依赖]]的核心分水岭。
 > - Sadler (1989, 2014) — 探讨[[Formative Assessment\|形成性评价]]中质量内化概念与量规局限，为评价性判断提供深厚的评估哲学渊源。
 
 ---
@@ -232,4 +232,4 @@ updated: 2026-10-15
 > | [[Epistemic Dependence\|认识依赖]] | 诊断标准 | 评价性判断是否被算法替代，是划分生产性依赖与有害依赖的决定性标尺。 |
 > | [[AI Literacy\|人工智能素养]] | 高阶内涵 | 批判性 AI 素养超越提示词操作，立足于运用评价性判断审判模型输出。 |
 > | [[Feedback\|教学反馈]] | 互动载体 | [[Feedback Literacy\|反馈素养]]的核心即在于对反馈信息的价值做出独立、明智的评价性判断。 |
-> | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] | 智能时代深化 | 论证评价性判断在[[Man-Computer Symbiosis\|人机协同]]中的不可委托性，构建反思决策追踪的治理方案。 |
+> | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] | 智能时代深化 | 论证评价性判断在[[Man-Computer Symbiosis\|人机协同]]中的不可委托性，构建反思决策追踪的治理方案。 |

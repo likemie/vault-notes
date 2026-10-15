@@ -52,7 +52,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: '2026-06-08'
+updated: 2026-10-16
 year: 2016
 doi: ""
 citation_aliases:
@@ -85,7 +85,7 @@ citation_aliases:
 > [!info] 研究方法
 > - **方法** 方法论评估（methodological evaluation）——通过对 Hattie 方法的数学重构和逐步骤对照检查
 > - **数据来源**Hattie (2009) *[[Visible Learning]]* 的附录 A、附录 B 以及其所引用的一级[[Meta-analysis\|元分析]]出版物
-> - **[[Epistemology\|认识论]]定位** Wecker et al.明确声明所给出的例子"不代表一种系统的方法"(p.23)，而是通过**基于示例的重构（example-based reconstruction）**来揭示系统性的模式——所发现的缺陷是**系统性的模式证据**而非穷尽的错误清单
+> - **[[Epistemology\|认识论]]定位** Wecker et al.明确声明所给出的例子"不代表一种系统的方法"(p.23)，而是通过**基于示例的重构（example-based reconstruction）** 来揭示系统性的模式——所发现的缺陷是**系统性的模式证据**而非穷尽的错误清单
 >
 > ### 六步检查程序
 >
@@ -117,7 +117,7 @@ citation_aliases:
 >
 > **步骤 3: 方差与[[Standard Error\|标准误]]确定方式的检查**(p.26-30)——最严重的技术问题
 >
-> **(a) SE/SD 混淆（最严重的错误之一）**Wecker et al.追踪了 Hattie 如何错误处理 Eisenstaedt et al.(1990)主要研究的数据：
+> **(a) SE/SD 混淆（最严重的错误之一）** Wecker et al.追踪了 Hattie 如何错误处理 Eisenstaedt et al.(1990)主要研究的数据：
 > - Gijbels et al.(2005)的元分析报告该主要研究效应量为 -8.291
 > - 重构：对照组 M=66.53, SE=2.74, n=107 → 正确 SD = 2.74 × √107 ≈ 28.35
 > - 但 Hattie/Gijbels 使用的"标准差"是 1.65
@@ -133,7 +133,7 @@ citation_aliases:
 >
 > **步骤 4: 重复数据处理的检查(p.29-30)**
 >
-> 具体案例：Olson & Wisher (2002) 的 15 项主要研究中有 14/15 项（93%）同时出现在 Sitzmann et al.的元分析中。另一案例：三项（共四项）Hattie 纳入的同一主题元分析存在主要研究重叠。Hattie 将它们汇总为算术平均值 0.59；正确加权（处理重叠后）为 0.23。Hattie 承认存在可能重叠但辩称重叠程度低，但 Wecker et al.证明"Hattie 完全忽略了重复的问题"。
+> 具体案例：Olson and Wisher (2002) 的 15 项主要研究中有 14/15 项（93%）同时出现在 Sitzmann et al.的元分析中。另一案例：三项（共四项）Hattie 纳入的同一主题元分析存在主要研究重叠。Hattie 将它们汇总为算术平均值 0.59；正确加权（处理重叠后）为 0.23。Hattie 承认存在可能重叠但辩称重叠程度低，但 Wecker et al.证明"Hattie 完全忽略了重复的问题"。
 >
 > **步骤 5: 加权估计的检查**
 >
@@ -186,7 +186,7 @@ citation_aliases:
 >
 > - **SE/SD 混淆案例**Eisenstaedt et al.(1990)数据的效应量被计算为 -8.291，正确值约为 -0.80，被放大约 10 倍(p.27)——如果此类极端值被纳入排名，会对平均值产生不成比例的影响
 > - **加权错误案例** "直接指导"中 Haas (2005) [[Meta-analysis\|元分析]]的权重被低估约 53%（Hattie 权重=54.9 vs. 正确权重=118.1）(p.29)
-> - **重复数据案例**Olson & Wisher (2002) 与 Sitzmann et al. (2006) 的主要研究重叠率 93%(p.29-30)
+> - **重复数据案例**Olson and Wisher (2002) 与 Sitzmann et al. (2006) 的主要研究重叠率 93%(p.29-30)
 >
 > ### 排名层面
 >

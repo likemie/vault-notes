@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Rapid Assessment and Response Strategy
@@ -58,7 +58,7 @@ updated: 2026-10-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **快速评估与响应战略（Rapid Assessment and Response Strategy, RARS）**是美国[[Society for Research in Child Development\|儿童发展研究学会]]（Society for Research in Child Development, SRCD）创新设立的敏捷政策倡导与证据动员机制。该机制旨在打破传统学术同行评议动辄数月乃至数年的漫长周期，针对突发公共危机事件，在数日乃至数小时内组织权威跨学科专家团队快速系统聚合高质量实证证据，出具专业政策反应声明，精准咬合国家宏观立法的极速时间窗口。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 47)]]
+> **快速评估与响应战略（Rapid Assessment and Response Strategy, RARS）** 是美国[[Society for Research in Child Development\|儿童发展研究学会]]（Society for Research in Child Development, SRCD）创新设立的敏捷政策倡导与证据动员机制。该机制旨在打破传统学术同行评议动辄数月乃至数年的漫长周期，针对突发公共危机事件，在数日乃至数小时内组织权威跨学科专家团队快速系统聚合高质量实证证据，出具专业政策反应声明，精准咬合国家宏观立法的极速时间窗口。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 47)]]
 
 > [!program-context] 项目背景
 > - **发起方与运行周期** 由国际知名学术组织美国儿童发展研究学会（SRCD）于 2010 年代末设立，作为常态化突发事件应对机制持续运行。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 47)]]

@@ -47,7 +47,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: '2026-06-08'
+updated: 2026-10-16
 year: 2017
 doi: ""
 citation_aliases:
@@ -70,7 +70,7 @@ citation_aliases:
 > - 方法：概念论证 + 三个案例的[[Literature Review\|文献综述]]
 > - 案例一：[[Direct Instruction\|直接教学]]——引用 Peterson (1979)、Bonawitza et al. (2011)、Buchsbauma et al. (2011)、Kapur (2014/2016)
 > - 案例二：东亚教育体系——引用 [[TIMSS]] 和 [[PISA]] 的跨国数据（考试成绩 vs 自信心/态度的负相关）
-> - 案例三：[[No Child Left Behind Act 2001\|NCLB]] 测试问责——引用 Nichols & Berliner (2007) 的系统性副作用记录
+> - 案例三：[[No Child Left Behind Act 2001\|NCLB]] 测试问责——引用 Nichols and Berliner (2007) 的系统性副作用记录
 
 ## 核心论证
 

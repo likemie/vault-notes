@@ -74,7 +74,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Data Literacy
@@ -165,7 +165,7 @@ updated: 2026-10-15
 > [!concept-lens] 克服课堂数据层级感知与评价窄化
 > 课堂数据在学校实践中往往被感知为具有严格的层级性，正式终结性评估常年支配决策，导致形成性与质性课堂证据被边缘化。
 
-> [!claim] LaPointe-McEwan et al. (2017) / [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]]
+> [!claim] LaPointe-McEwan et al. (2017) / [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]]
 > **[[Triangulation\|三角验证]]与平衡决策** 正如学术研究存在方法层级一样，课堂数据在实践中也存在显著的层级感知，正式的终结性测验数据往往占据绝对支配地位。教育者必须通过发展数据素养，确立审视课堂多元证据的广阔视野，学会对定量测试与[[Qualitative Observation\|质性观察]]材料进行三角验证（triangulate），从而避免落入单一量化分数的决策陷阱，做出兼顾学业指标与学生发展情境的平衡决策。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 129)]]
 
 ---
@@ -175,7 +175,7 @@ updated: 2026-10-15
 > [!concept-lens] 内部诊断与外部干预的双轮驱动
 > 孤立的数据素养往往使学校决策局限于校内数据的现状诊断，缺乏成熟干预策略；孤立的[[Research Literacy\|研究素养]]则容易使外部文献脱离校本现实。
 
-> [!claim] [[Argument_Brown_2017_ER\|Brown et al. (2017)]] / [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]]
+> [!claim] [[Argument_Brown_2017_ER\|Brown et al. (2017)]] / [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]]
 > **双素养整合赋能[[Inquiry Cycle\|探究循环]]** 推动真正的[[Evidence-Informed Practice\|证据知情实践]]（EIP）必须同时依托数据素养与研究素养。数据素养帮助教育者基于校内数据精准定位问题诱因与真实学情痛点，但数据自身绝不包含现成的教学解决方案；研究素养则帮助教育者从外部实证研究中检索、评估和转译成熟有效的教学干预方案。只有将两种素养协同整合于系统的[[School Enquiry Cycle\|学校探究循环]]（ESTI）中，才能使 [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 紧密交融，赋能教师的专业探究与学校的持续改进。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 156, 159, 166–167)]]
 
 ---
@@ -185,7 +185,7 @@ updated: 2026-10-15
 > [!concept-lens] 批判性数据治理与系统介入维度
 > 传统数据素养仅关注现成数据集的操作与图表分析，无法穿透算法加权、指标冻结与去地域化[[Commensuration\|通约]]背后的社会-技术黑箱。
 
-> [!claim] Gray et al. (2018) / [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019)]]
+> [!claim] Gray et al. (2018) / [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]]
 > **超越数据集识读的基础设施批判介入** 现代教育治理权力弥散于分散的算法模型与系统管道之中，单纯掌握下载表格或[[Descriptive Analysis\|描述统计]]计算的数据素养已完全无法应对治理黑箱。行动者必须发展[[Data Infrastructure\|数据基础设施]]素养（Data Infrastructure Literacy），具备解释、质询与介入创造、存储和流转数据的更广泛社会-技术系统的能力，包括审查检索脚本的过滤偏见、质疑综合指标的通约加权、理解法定截止节点的冻结时限，并对系统架构展开民主协商。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 10–11)]]
 
 ---
@@ -196,9 +196,9 @@ updated: 2026-10-15
 | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 |---|---|---|---|
 | **公民通识素养命题** | 数据素养是跨学科核心通用能力，支撑复杂现实议题的理性决策 | K-12 课程改革、[[STEM Education\|跨学科科学教育]]、公民批判思维培养 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] |
-| **专业三角验证命题** | 克服对终结性统考分数的排他依赖，实现定性与定量证据平衡审议 | 课堂教学诊断、学生多维评价、抵御唯分数论倾向 | LaPointe-McEwan et al. (2017); [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] |
+| **专业三角验证命题** | 克服对终结性统考分数的排他依赖，实现定性与定量证据平衡审议 | 课堂教学诊断、学生多维评价、抵御唯分数论倾向 | LaPointe-McEwan et al. (2017); [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] |
 | **双素养协同整合命题** | 数据素养知病因缺良方，必须与研究素养协同咬合方能形成改进闭环 | 校本教研攻关、学校探究循环（ESTI）、职前职后教师教育 | [[Argument_Brown_2017_ER\|Brown et al. (2017)]]; [[Kim Schildkamp]] 等 |
-| **基础设施素养批判命题** | 超越现成数据集识读技能，确立对数据基础设施全链条的质询与介入胜任力 | 批判性教育治理、算法审计、教育行政数据监测与政策参与 | Gray et al. (2018); [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019)]] |
+| **基础设施素养批判命题** | 超越现成数据集识读技能，确立对数据基础设施全链条的质询与介入胜任力 | 批判性教育治理、算法审计、教育行政数据监测与政策参与 | Gray et al. (2018); [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]] |
 
 ---
 
@@ -208,8 +208,8 @@ updated: 2026-10-15
 > - **1990s–2000s — 统计学与信息素养衍生** 数据素养最初被界定为统计计算与信息检索技能的延伸，主要服务于高等教育与专业科研人员。
 > - **2000s–2010s — 问责政策下的教师数据使用能力** 伴随欧美教育问责制和测试本位改革（如美国 [[No Child Left Behind Act 2001\|NCLB]] 法案），数据素养聚焦于教师解读标准化考试成绩与管理报表的技术能力。
 > - **2010s — 形成性探究转向与[[Data Team Intervention\|数据团队]]模型** [[Kim Schildkamp]] 团队在荷兰与瑞典开发八步数据团队干预模型，推动数据素养从行政达标监控转向教师团队协作的教学诊断与假设检验。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 158)]]
-> - **2017 — 证据知情视阈下的双素养整合与[[Triangulation\|三角验证]]** [[Argument_Brown_2017_ER\|Brown et al. (2017)]] 与 [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] 明确提出数据素养应转向对多元质性与量化课堂数据的三角验证，并与[[Research Literacy\|研究素养]]结合嵌入[[School Enquiry Cycle\|学校探究循环]]。
-> - **2019 — 批判性数据研究转向与[[Data Infrastructure\|数据基础设施]]素养** [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019)]] 依托 Gray et al. (2018) 提出数据基础设施素养（Data Infrastructure Literacy），主张超越单纯识读具体数据集的技术取向，强调实践者须具备审视、参与和介入生成与流转数据的宏观社会-技术系统（[[Data Infrastructure\|数据基础设施]]）的批判能力。
+> - **2017 — 证据知情视阈下的双素养整合与[[Triangulation\|三角验证]]** [[Argument_Brown_2017_ER\|Brown et al. (2017)]] 与 [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] 明确提出数据素养应转向对多元质性与量化课堂数据的三角验证，并与[[Research Literacy\|研究素养]]结合嵌入[[School Enquiry Cycle\|学校探究循环]]。
+> - **2019 — 批判性数据研究转向与[[Data Infrastructure\|数据基础设施]]素养** [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]] 依托 Gray et al. (2018) 提出数据基础设施素养（Data Infrastructure Literacy），主张超越单纯识读具体数据集的技术取向，强调实践者须具备审视、参与和介入生成与流转数据的宏观社会-技术系统（[[Data Infrastructure\|数据基础设施]]）的批判能力。
 > - **2020s — 全员通识素养与批判性公民胜任力** [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] 等机构推动数据素养面向全体 18 岁学习者的全科贯通，强调在真实复杂议题中的概率推理与数据批判。
 
 ---
@@ -254,10 +254,10 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Brown_2017_ER\|Brown et al. (2017, p. 158)]] 引 Carlson et al. (2011); Faber & Visscher (2014); Van Geel et al. (2016) | 荷兰与瑞典 80 余所中小学骨干教师与校领导 | 多项[[Randomised Controlled Trials\|随机对照试验]]（RCT）与跟踪评估设计 | [[Data Team Intervention\|数据团队]]（Data Team）干预对教师数据素养、协作技能及学生[[Academic Achievement\|学业成绩]]的影响 | 数据团队显著提升了教师的数据素养与协作探究技能；并在部分参与学校带动了学生数学与阅读成绩的显著增长 | RCT 检验显著提升 | 证实结构化数据探究规程可系统培育数据素养；但教师在得出诊断后依然缺乏独立研制教学干预方案的能力 |
-> | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 129)]] 引 LaPointe-McEwan et al. (2017) | 协作探究网络中的一线中小学教师群体 | [[Qualitative Observation\|质性观察]]与[[Survey Research\|问卷调查研究]] | 教师对不同形态课堂数据的接触、信任度与决策采纳频率 | 终结性测试数据占据绝对主导；日常形成性测评、[[Classroom Observation\|课堂观察]]及师生质性互动证据的使用频率与权重显著偏低 | — | 证实实践端存在显著的数据层级感知偏差，亟待通过专业培训推行[[Triangulation\|三角验证]] |
+> | [[Argument_Brown_2017_ER\|Brown et al. (2017, p. 158)]] 引 Carlson et al. (2011); Faber and Visscher (2014); Van Geel et al. (2016) | 荷兰与瑞典 80 余所中小学骨干教师与校领导 | 多项[[Randomised Controlled Trials\|随机对照试验]]（RCT）与跟踪评估设计 | [[Data Team Intervention\|数据团队]]（Data Team）干预对教师数据素养、协作技能及学生[[Academic Achievement\|学业成绩]]的影响 | 数据团队显著提升了教师的数据素养与协作探究技能；并在部分参与学校带动了学生数学与阅读成绩的显著增长 | RCT 检验显著提升 | 证实结构化数据探究规程可系统培育数据素养；但教师在得出诊断后依然缺乏独立研制教学干预方案的能力 |
+> | [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017, p. 129)]] 引 LaPointe-McEwan et al. (2017) | 协作探究网络中的一线中小学教师群体 | [[Qualitative Observation\|质性观察]]与[[Survey Research\|问卷调查研究]] | 教师对不同形态课堂数据的接触、信任度与决策采纳频率 | 终结性测试数据占据绝对主导；日常形成性测评、[[Classroom Observation\|课堂观察]]及师生质性互动证据的使用频率与权重显著偏低 | — | 证实实践端存在显著的数据层级感知偏差，亟待通过专业培训推行[[Triangulation\|三角验证]] |
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026, p. 31)]] | 英国[[STEM Education\|跨学科科学教育]]与劳动力市场需求评估 | 宏观政策文献综合与专家咨询评估 | 科学教育大纲中数学与数据素养的融入程度与现实需求 | 现行课程体系中数据素养碎片化严重，学生在真实情境中的概率推理与数据批判能力匮乏；提出将数据素养贯穿面向 18 岁全员的基础大纲 | — | 基于英国中等教育与就业市场预测，凸显数据素养由专业技能走向公民通识素养的政策转向 |
-| [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019, pp. 6, 10–11)]] | 美国马萨诸塞州（[[Massachusetts Department of Elementary and Secondary Education\|DESE]]）与德国汉堡（BSB/[[Institute for Educational Monitoring and Quality Improvement\|IfBQ]]）州级教育行政机构 | 跨国[[Comparative Case Study\|比较案例研究]]与专家访谈 | 传统数据素养在算法系统与监测实践中的失效表征 | 基层辅导员将 [[Early Warning Indicator System\|EWIS]] 算法预测标签直接误读为弱势学生升学劝退依据；官员与校长普遍受制于检索代码与冻结时限 | 质性经验证据 | 证实单纯识读现成数据集的技能无法识别算法偏见，亟需建立对[[Data Infrastructure\|数据基础设施]]全链条展开质询的素养 |
+| [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019, pp. 6, 10–11)]] | 美国马萨诸塞州（[[Massachusetts Department of Elementary and Secondary Education\|DESE]]）与德国汉堡（BSB/[[Institute for Educational Monitoring and Quality Improvement\|IfBQ]]）州级教育行政机构 | 跨国[[Comparative Case Study\|比较案例研究]]与专家访谈 | 传统数据素养在算法系统与监测实践中的失效表征 | 基层辅导员将 [[Early Warning Indicator System\|EWIS]] 算法预测标签直接误读为弱势学生升学劝退依据；官员与校长普遍受制于检索代码与冻结时限 | 质性经验证据 | 证实单纯识读现成数据集的技能无法识别算法偏见，亟需建立对[[Data Infrastructure\|数据基础设施]]全链条展开质询的素养 |
 
 ---
 
@@ -265,7 +265,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Brown_2017_ER\|Brown et al. (2017)]] — 阐述[[Data Team Intervention\|数据团队]]（Data Team）在培育教师数据素养上的实证效能，揭示数据素养知病因缺良方的结构性短板，提出数据素养与[[Research Literacy\|研究素养]]在 [[School Enquiry Cycle\|ESTI]] [[Inquiry Cycle\|探究循环]]中的双轮协同。
-> - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 阐述教育者数据素养在课堂证据[[Triangulation\|三角验证]]、克服终结性评估单一支配及与研究素养整合驱动学校探究中的核心机制。
-> - [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019)]] — 强调超越孤立识读数据集的传统数据素养，提倡面向数据去情境化、算法[[Commensuration\|通约]]与问责建模全链条的[[Data Infrastructure\|数据基础设施]]素养。
+> - [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] — 阐述教育者数据素养在课堂证据[[Triangulation\|三角验证]]、克服终结性评估单一支配及与研究素养整合驱动学校探究中的核心机制。
+> - [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]] — 强调超越孤立识读数据集的传统数据素养，提倡面向数据去情境化、算法[[Commensuration\|通约]]与问责建模全链条的[[Data Infrastructure\|数据基础设施]]素养。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] — 强调未来科学教育改革必须将数学与数据素养作为基础核心维度，支撑学生对现实复杂议题的量化推理。
-> - Mandinach & Gummer (2016) — 系统建构教师教学数据素养概念框架，阐明从数据收集、清洗、质检到教学调整的完整胜任力链条。
+> - Mandinach and Gummer (2016) — 系统建构教师教学数据素养概念框架，阐明从数据收集、清洗、质检到教学调整的完整胜任力链条。

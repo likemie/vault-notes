@@ -54,7 +54,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 定义
@@ -95,7 +95,7 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 - **任务的拆解与还原** Taylor 将工作任务拆解为最小组件，Hattie 将教学实践拆解为按[[Effect Size|效应量]]排名的离散干预列表([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])
 - **最大化回报** Hattie 的效应量排名告诉教育者"做什么以获得最大回报"（maximum return），而非提供反思和发展自身技艺的资源([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])
 - **全景监控**高度监控的车间启发了 Foucault（1977）的全景监狱隐喻——Hattie 的 [[Assessment Tools for Teaching and Learning|asTTle]] 工具以"允许管理者监控全校六个科目"的设计将同一逻辑植入教育([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.28]])
-- **教师贬低与去专业化** Hattie 在 VL 中系统性地将教师贬低为依赖"战争故事和轶事"的"不成熟职业"从业者（Hattie, 2009, p.1, 3, 253, 257）。[[Argument_Johnson_2023_CE|Johnson & Janzen (2023, p.29)]]论证这种修辞服务于更广泛的私有化议程：如果教学被打造为不专业和技术性的，对教师工会的支持就会软化，私人利益以"廉价解决方案"的承诺渗透
+- **教师贬低与去专业化** Hattie 在 VL 中系统性地将教师贬低为依赖"战争故事和轶事"的"不成熟职业"从业者（Hattie, 2009, p.1, 3, 253, 257）。[[Argument_Johnson_2023_CE|Johnson and Janzen (2023, p.29)]]论证这种修辞服务于更广泛的私有化议程：如果教学被打造为不专业和技术性的，对教师工会的支持就会软化，私人利益以"廉价解决方案"的承诺渗透
 - **商业利益网络** Neo-Taylorism 的当代运作依赖于出版商（如 Corwin）、专业协会（如 ACEL）和学校系统之间的商业伙伴关系，形成自我强化的推广网络([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778, 780]])。详见 [[Visible Learning Branding and Global Influences]]
 
 ## 概念辨析

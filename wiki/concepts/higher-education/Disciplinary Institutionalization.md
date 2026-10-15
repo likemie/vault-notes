@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-16
 ---
 
 # Disciplinary Institutionalization
@@ -119,8 +119,8 @@ updated: 2026-10-05
 > [!prop-table] 围绕学科建制化形成的代表性命题
 > | 命题陈述 | 核心机制 | 提出学者 | 实证支持情境 |
 > |---|---|---|---|
-> | 新兴学科建制化依赖公共研发资金对大学基础设施的早期战略注资 | 弥补[[Market Failure\|市场失灵]]；承担早期探索试错成本；构建独立教研平台 | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio & Mowery (2005)]] | 战后美国国防部与[[National Science Foundation\|NSF]]资助大学计算机系创立历程 |
-> | 学科建制化充当打通军民与产学壁垒的[[Knowledge Mediation\|知识中介]]与高层次人才策源地 | 大学作为跨部门知识枢纽；高层次青年科学家与工程师培养外溢 | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio & Mowery (2005)]] | 1960–1980年代全美[[Research Universities\|研究型大学]]计算机科学人才流向产业 |
+> | 新兴学科建制化依赖公共研发资金对大学基础设施的早期战略注资 | 弥补[[Market Failure\|市场失灵]]；承担早期探索试错成本；构建独立教研平台 | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio and Mowery (2005)]] | 战后美国国防部与[[National Science Foundation\|NSF]]资助大学计算机系创立历程 |
+> | 学科建制化充当打通军民与产学壁垒的[[Knowledge Mediation\|知识中介]]与高层次人才策源地 | 大学作为跨部门知识枢纽；高层次青年科学家与工程师培养外溢 | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio and Mowery (2005)]] | 1960–1980年代全美[[Research Universities\|研究型大学]]计算机科学人才流向产业 |
 
 ---
 

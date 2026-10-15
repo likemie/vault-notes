@@ -80,7 +80,7 @@ related_facts:
 related_arguments: []
 status: draft
 created: 2026-09-04
-updated: 2026-10-04
+updated: 2026-10-16
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch06
 
@@ -309,7 +309,7 @@ updated: 2026-10-04
 >   1. **目的支柱（Purpose）** 考察大学的办学愿景（Mission）、校领导层公开承诺（Leadership）以及内外部传播策略（Communication）；
 >   2. **流程支柱（Process）** 审查专职专业支持团队编制（Support）、全员专业技能培训体系（Learning）以及正式奖励与职称晋升机制（Recognition）；
 >   3. **人员支柱（People）** 评估全体学术人员参与发展（Staff）、本科生与研究生赋权（Students）以及与多元社会公众的伙伴关系深度（Public）。
->   EDGE 工具将大学的文化成熟度划分为**胚芽期（Embryonic）**、**发展期（Developing）**、**抓手期（Gripping）**与**内嵌期（Embedded）**四个演进阶梯，使高校管理层能够精准诊断制度短板。
+>   EDGE 工具将大学的文化成熟度划分为**胚芽期（Embryonic）**、**发展期（Developing）**、**抓手期（Gripping）** 与**内嵌期（Embedded）** 四个演进阶梯，使高校管理层能够精准诊断制度短板。
 > - **Watermark 卓越水印认证计划（Engage Watermark Awards）** 建立国家级高校公众参与能力资质评级体系（授予青铜、白银、黄金与白金水印），依据严格的独立专家[[External Auditor\|外部审计]]与全校师生及外部社区同行评议，为高校争取优质社会声誉、吸引高额慈善捐赠及向政府论证其社会运营许可提供权威背书。
 
 #### 主题三：大学实体外展基建与高层领导圆桌研讨的财政两难（p. 99）

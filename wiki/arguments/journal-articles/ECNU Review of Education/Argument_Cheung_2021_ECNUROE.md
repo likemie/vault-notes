@@ -47,7 +47,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: 2026-08-20
+updated: 2026-10-16
 year: 2021
 doi: ""
 citation_aliases:
@@ -90,8 +90,8 @@ citation_aliases:
 > 特刊八篇文章的核心发现(pp.2–3)：
 >
 > **政策与系统维度：**
-> - Pellegrini & Vivanet (2020) 审视了欧洲[[Evidence-Based Education\|证据本位教育]]政策的进展，识别了证据生成与传播的组织机构，始于 2006 年并取得显著进展
-> - Edovald & Nevill (2020) 总结了英国 [[Education Endowment Foundation]] (EEF) 的成功经验：快速扩展学校本位 [[Randomised Controlled Trials\|RCT]]、高标准研究独立性与透明度
+> - Pellegrini and Vivanet (2020) 审视了欧洲[[Evidence-Based Education\|证据本位教育]]政策的进展，识别了证据生成与传播的组织机构，始于 2006 年并取得显著进展
+> - Edovald and Nevill (2020) 总结了英国 [[Education Endowment Foundation]] (EEF) 的成功经验：快速扩展学校本位 [[Randomised Controlled Trials\|RCT]]、高标准研究独立性与透明度
 >
 > **高质量实验维度：**
 > - Xie (2020) 比较中美教育技术[[Experimental Research\|实验研究]]，发现若干强证据干预方案，但中国大陆实验研究的数量和质量令人担忧
@@ -102,9 +102,9 @@ citation_aliases:
 > - [[What Works Clearinghouse]] 作为 [[Institute of Education Sciences\|IES]] 旗舰项目，审查多领域的实践方案研究
 >
 > **实施激励维度：**
-> - Ross & Morrison (2020) 以美国大型多元化学区的复杂改革案例，说明政策与证据期望如何被多重议程和利益相关者个人需求过滤
+> - Ross and Morrison (2020) 以美国大型多元化学区的复杂改革案例，说明政策与证据期望如何被多重议程和利益相关者个人需求过滤
 > - van Kuijk et al. (2020) 系统评估 [[Success for All]] 的[[Implementation Fidelity\|实施保真度]]，识别领导力、组织条件、员工发展和全组件实施为关键成功因素
-> - Dachet & Baye (2020) 以法语区比利时为例，描述在[[Qualitative Research\|质性研究]]传统强势的国家将证据本位教育融入教育改革的渐进过程
+> - Dachet and Baye (2020) 以法语区比利时为例，描述在[[Qualitative Research\|质性研究]]传统强势的国家将证据本位教育融入教育改革的渐进过程
 
 ## 关键引用
 

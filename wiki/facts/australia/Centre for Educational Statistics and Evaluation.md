@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Centre for Educational Statistics and Evaluation
@@ -59,7 +59,7 @@ updated: 2026-10-15
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **新南威尔士州教育统计与评估中心（Centre for Educational Statistics and Evaluation, [[Comparative Education Society in Europe\|CESE]] NSW）**是澳大利亚新南威尔士州教育部（NSW Department of Education）于 2012 年设立的州属专门化教育实证数据与科研评估机构，系全澳首个在州级行政科层内部建立的综合性教育证据中介实体。该机构通过整合全州基础教育学业大数据、开展大规模干预评估及发布《最有效实践指南》（*What Works Best*），旨在为学校教学与政府政策提供客观数据基底，并在机制上充当了国家级证据经纪机构[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）创设的地方科层母本（Lewis & Hogan, 2019；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 2]]）。
+> **新南威尔士州教育统计与评估中心（Centre for Educational Statistics and Evaluation, [[Comparative Education Society in Europe\|CESE]] NSW）** 是澳大利亚新南威尔士州教育部（NSW Department of Education）于 2012 年设立的州属专门化教育实证数据与科研评估机构，系全澳首个在州级行政科层内部建立的综合性教育证据中介实体。该机构通过整合全州基础教育学业大数据、开展大规模干预评估及发布《最有效实践指南》（*What Works Best*），旨在为学校教学与政府政策提供客观数据基底，并在机制上充当了国家级证据经纪机构[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）创设的地方科层母本（Lewis & Hogan, 2019；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 2]]）。
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2012 年成立；正值全澳推行《国家全民读写算术测评》（NAPLAN）与学校问责深化之际，新州政府旨在打破教育行政与数据评估脱节的困局，设立统一的数据驱动科研中枢。

@@ -81,7 +81,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **创新的方向性（Directionality of Innovation / Directionality）**是指创新活动与技术变革不仅包含发生速率、研发投入规模与专利产出数量等量化维度，更包含指向何种社会目标、遵循何种价值规范的质性演进路径。这一概念强调经济增长与技术演化存在多条相互竞争的潜在轨道，市场自发力量无法保证技术必然流向增进公共福祉或保障国家战略安全的领域；公共政策的核心使命必须超越单纯维护市场中立的新古典视角，通过前瞻性战略与制度设计倾斜市场竞争环境（[[Tilting the Playing Field]]），主动引领创新流向绿色低碳、社会包容、供应链韧性与高质量发展的特定使命方向。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–789)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–25)]]
+> **创新的方向性（Directionality of Innovation / Directionality）** 是指创新活动与技术变革不仅包含发生速率、研发投入规模与专利产出数量等量化维度，更包含指向何种社会目标、遵循何种价值规范的质性演进路径。这一概念强调经济增长与技术演化存在多条相互竞争的潜在轨道，市场自发力量无法保证技术必然流向增进公共福祉或保障国家战略安全的领域；公共政策的核心使命必须超越单纯维护市场中立的新古典视角，通过前瞻性战略与制度设计倾斜市场竞争环境（[[Tilting the Playing Field]]），主动引领创新流向绿色低碳、社会包容、供应链韧性与高质量发展的特定使命方向。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–789)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–25)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向技术创新在演化分叉路口上的价值选择，即创新应当服务于何种社会目的与公共使命。
@@ -145,7 +145,7 @@ updated: 2026-10-16
 > [!concept-lens] 政策正当性基础维度
 > 探讨创新政策干预依据如何从新古典福利经济学向演化制度主义演进。
 
-> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
+> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **方向性失灵超越[[Market Failure|市场失灵]]** 传统福利经济学的市场失灵理论能够识别研发投入不足等静态问题，却无法指引能够产生最高社会收益的技术领域；面对不可逆转的气候生态与社会危机，创新政策必须确立方向性，通过克服[[Systems of Innovation|创新系统]]缺乏共同愿景和战略路线图的方向性失灵，为企业和社会的探索活动划定转型航标。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789)]]
 
 ---
@@ -155,7 +155,7 @@ updated: 2026-10-16
 > [!concept-lens] 政治合法性与治理结构维度
 > 探讨创新方向的确定如何防范自上而下的官僚专断与利益集团俘获。
 
-> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
+> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **[[Distributed Agency|分布式主体]]共塑创新航向** 新一代创新政策的方向性不是封闭科层精英的暗箱决断，而是建立在包含多边国际组织、大型慈善基金会、草根社会运动与广大公众在内的分布式主体（Distributed Agency）网络之上；唯有通过广泛的社会互动与民主审议，创新使命才能获得深厚的政治合法性与社会韧性。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789, 795–796)]]
 
 ---
@@ -165,7 +165,7 @@ updated: 2026-10-16
 > [!concept-lens] 经济社会学与政治经济学维度
 > 审视创新成果与社会整体福祉之间的非对称关系。
 
-> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
+> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **警惕技术演进的利益偏离** 创新的社会价值不能被先验地预设为必然增进全社会福利；正如约翰·肯尼思·加尔布雷思（John Kenneth Galbraith, 1973）所指出的，缺乏公共战略引导的市场探索极易被短期商业利润与特定垄断利益所俘获，导致研发资源过度集中于边际性商业优化，而深层社会转型议题长期得不到响应。因此，国家必须依托[[Lead-and-Learn Paradigm|引领与学习范式]]与[[Public Dynamic Capabilities|公共部门动态能力]]，对创新方向进行长期的[[Reflexivity|反思性]]评估与动态修正。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788, 797–798)]]
 
 ---
@@ -185,9 +185,9 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **方向性失灵超越市场失灵** | 确立创新政策干预的正当性基础在于引领转型方向而非被动修补市场 | 重大社会挑战应对、绿色低碳转型与产业结构升级 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018, pp. 788–789)]] |
-> | **分布式主体共塑航向** | 强调创新方向的选择需要广泛利益相关者参与与民主审议 | 区域与国家使命导向战略制定、技术伦理评估 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018, pp. 795–796)]] |
-> | **防范商业利益俘获与反思修正** | 警惕短期利润导向扭曲[[Public Value\|公共价值]]，主张建立动态全周期反思机制 | 垄断平台治理、前沿颠覆性技术监管与公共研发投资评估 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018, pp. 797–798)]] |
+> | **方向性失灵超越市场失灵** | 确立创新政策干预的正当性基础在于引领转型方向而非被动修补市场 | 重大社会挑战应对、绿色低碳转型与产业结构升级 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018, pp. 788–789)]] |
+> | **分布式主体共塑航向** | 强调创新方向的选择需要广泛利益相关者参与与民主审议 | 区域与国家使命导向战略制定、技术伦理评估 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018, pp. 795–796)]] |
+> | **防范商业利益俘获与反思修正** | 警惕短期利润导向扭曲[[Public Value\|公共价值]]，主张建立动态全周期反思机制 | 垄断平台治理、前沿颠覆性技术监管与公共研发投资评估 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018, pp. 797–798)]] |
 > | **安全化与国家主权使命转向** | 阐明国家生存与供应链韧性成为驱动科技创新方向性重构的核心力量 | 地缘科技竞争、先进制程芯片攻关与[[Modern Industrial Policy\|现代产业政策]]实施 | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026, pp. 24–25)]]; [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] |
 
 ---
@@ -231,7 +231,7 @@ updated: 2026-10-16
 >
 > | 研究文献 | 观察情境与样本 | 方向性干预领域 | 政策工具与投入规模 | 核心成效与制度发现 |
 > |:---|:---|:---|:---|:---|
-> | [[Argument_OxfordUIDP_2019_UIPartnerships\|Oxford & UIDP (2019)]] | [[Netherlands Top-sector Policy\|荷兰顶级行业政策]]（Netherlands Top-sector Policy） | 确定农业食品、生命健康等九大重点方向 | 保持全社会 R&D 强度约 2.0% 的同时，推行 1:1 公私配套资助与产业路线图 | 私营部门研发出资实现翻倍，推动荷兰全球[[Competitiveness\|竞争力]]指数升至世界前四，证实明确的方向性引导能大幅提升[[Systems of Innovation\|创新系统]]产出质量 |
+> | [[Argument_OxfordUIDP_2019_UIPartnerships\|Oxford and UIDP (2019)]] | [[Netherlands Top-sector Policy\|荷兰顶级行业政策]]（Netherlands Top-sector Policy） | 确定农业食品、生命健康等九大重点方向 | 保持全社会 R&D 强度约 2.0% 的同时，推行 1:1 公私配套资助与产业路线图 | 私营部门研发出资实现翻倍，推动荷兰全球[[Competitiveness\|竞争力]]指数升至世界前四，证实明确的方向性引导能大幅提升[[Systems of Innovation\|创新系统]]产出质量 |
 > | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | 美国《[[CHIPS and Science Act\|芯片与科学法案]]》与微电子体系重构（2020–2026） | 先进制程本土回流、开源标准掌控与微电子工程人才梯队 | 授权 2000 亿美元研发支出与 527 亿美元直接制造资助，启动 [[Joint University Microelectronics Program 2.0\|JUMP 2.0]] 跨校攻坚 | 促成[[Taiwan Semiconductor Manufacturing Corporation\|台积电]]、英特尔等 24 家企业集聚凤凰城；JUMP 2.0 动员 14 所顶尖大学协同攻坚异构集成，系统验证了国家安全作为创新方向性牵引的巨大动员效能 |
 > | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024)]] | 欧盟微电子与通信技术重大项目（[[Important Projects of Common European Interest\|IPCEI ME/CT]]） | 绿色低碳转型与微电子核心元器件自主可控 | 动员 14 个成员国，撬动 81 亿欧元公共补贴与 137 亿欧元私人配套投资 | 组建 180 项跨国攻关合作，将超国家战略方向具体落实为泛欧协同研发网络 |
 
@@ -259,8 +259,8 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 奠定创新的方向性理论基石，系统论证经济增长的速率与方向之别，提出克服方向性失灵、[[Market Shaping and Creating|市场塑造]]与[[Public Dynamic Capabilities|公共部门动态能力]]框架。
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 奠定创新的方向性理论基石，系统论证经济增长的速率与方向之别，提出克服方向性失灵、[[Market Shaping and Creating|市场塑造]]与[[Public Dynamic Capabilities|公共部门动态能力]]框架。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统分析美国国家半导体体系中[[Research Universities|研究型大学]]的角色重构，阐明国家[[Securitization of Technology|技术安全化]]如何作为最高方向性使命重塑大学基础研究、人才培养与产学中试共置网络。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 论证美国科技政策从自由探索科学契约向技术导向型契约的转变，揭示国家战略方向性动员下科研体系向国家实验室、公私联合体与大学自由探索三轨分化的深层机制。
-> - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP (2019)]] — 结合[[Netherlands Top-sector Policy|荷兰顶级行业政策]]实证，阐述政府如何通过设立国家级重点方向与公私合作杠杆，在适度研发强度下实现全球[[Competitiveness|竞争力]]的跃升。
+> - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford and UIDP (2019)]] — 结合[[Netherlands Top-sector Policy|荷兰顶级行业政策]]实证，阐述政府如何通过设立国家级重点方向与公私合作杠杆，在适度研发强度下实现全球[[Competitiveness|竞争力]]的跃升。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 分析[[EU|欧盟]]通过 [[Important Projects of Common European Interest|IPCEI ME/CT]] 重大项目确立微电子与绿色转型方向，依托超国家补贴与多边产学协同网络提升技术主权。

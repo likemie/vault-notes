@@ -19,7 +19,7 @@ issuing_organization: 教育部
 confidence: medium
 status: draft
 created: '2026-05-17'
-updated: '2026-07-23'
+updated: 2026-10-16
 tags:
   - region/china
   - level/k12
@@ -130,7 +130,7 @@ related_arguments:
 > [!finding-cards] 效果与评价
 > - **解构西方刻板印象** [[Argument_Ryan_2010_ChineseLearner\|Ryan (2010)]] 论证，该改革极其深刻，使得西方将[[Chinese Learner\|中国学习者]]归为“被动、[[Rote Learning\|死记硬背]]”的刻板印象彻底脱离了中国现实[[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, p. 55)]]。
 > - **促进教师专业主体性** 中国教师显示出极高水平的教学创新与反思能力，主动参与跨国合作与成果传播[[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, pp. 53–54)]]。
-> - **再生产[[Official Knowledge\|官方知识]]** [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] 发现基于该纲要出版的 217 册教材在推广[[Quality Education\|素质教育]]的同时，将汉儒传统构建为中华性象征，强化了[[Cultural Hierarchy\|文化等级]][[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 65–67)]]。
+> - **再生产[[Official Knowledge\|官方知识]]** [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 发现基于该纲要出版的 217 册教材在推广[[Quality Education\|素质教育]]的同时，将汉儒传统构建为中华性象征，强化了[[Cultural Hierarchy\|文化等级]][[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 65–67)]]。
 
 > [!stat-cards]- 核心数据
 > - **2001 年** 改革纲要正式颁布。
@@ -152,7 +152,7 @@ related_arguments:
 > > [!axis]- 争议二｜[[Official Knowledge\|官方知识]]垄断 vs 多元文化现实
 > > 讨论 2001 纲要指导下的教科书编写是否陷入了汉族中心主义与单一文化灌输。
 > >
-> > - **[[Argument_Yu_2024_CE\|Yu & Zhao (2024, p. 71)]]** 揭示基于 2001 纲要出台的必修教材将儒学塑造成正统“[[Official Knowledge\|官方知识]]”，反而在少数民族与信教学生中引发了[[Cultural Disembedding\|文化脱嵌]]与异化。
+> > - **[[Argument_Yu_2024_CE\|Yu and Zhao (2024, p. 71)]]** 揭示基于 2001 纲要出台的必修教材将儒学塑造成正统“[[Official Knowledge\|官方知识]]”，反而在少数民族与信教学生中引发了[[Cultural Disembedding\|文化脱嵌]]与异化。
 
 ---
 

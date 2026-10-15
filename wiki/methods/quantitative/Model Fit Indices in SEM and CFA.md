@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Model Fit Indices in SEM and CFA
@@ -80,7 +80,7 @@ updated: 2026-10-15
 > | **绝对拟合** | **标准化残差均方根**<br>$\text{SRMR}$ | $\sqrt{\frac{2 \sum \sum (s_{ij} - \hat{\sigma}_{ij})^2}{p(p+1)}}$ | $< 0.05$ | $< 0.08$ | 基于标准化残差协方差矩阵平均偏差，不受模型复杂度惩罚。 |
 > | **增量拟合** | **比较拟合指数**<br>$\text{CFI}$ | $1 - \frac{\max(\chi_T^2 - df_T, 0)}{\max(\chi_B^2 - df_B, 0)}$ | $\ge 0.95$ | $\ge 0.90$ | 对比目标模型与独立虚无基线模型；对[[Sample Size Determination\|样本量]]变化高度稳健。 |
 > | **增量拟合** | **Tucker-Lewis 指数**<br>$\text{TLI / NNFI}$ | $\frac{\chi_B^2/df_B - \chi_T^2/df_T}{\chi_B^2/df_B - 1}$ | $\ge 0.95$ | $\ge 0.90$ | 包含对模型自由度的显式惩罚；取值可略微突破 1.0。 |
-> | **信息准则** | **赤池 / 贝叶斯准则**<br>$\text{AIC / BIC}$ | $-2\ln L + 2k \ / \ -2\ln L + k\ln N$ | — | 越小越好 | 用于**非嵌套模型（Non-nested Models）**之间的相对优劣选拔。 |
+> | **信息准则** | **赤池 / 贝叶斯准则**<br>$\text{AIC / BIC}$ | $-2\ln L + 2k \ / \ -2\ln L + k\ln N$ | — | 越小越好 | 用于**非嵌套模型（Non-nested Models）** 之间的相对优劣选拔。 |
 
 ---
 
@@ -109,8 +109,8 @@ updated: 2026-10-15
 
 ## 判定准则与报告规范
 
-> [!method-position] Hu & Bentler (1999) 双指标组合判定规则
-> 传统仅依据单一指数（如 CFI $> .90$）容易导致过高的 II 类错误（接受错误模型）。Hu & Bentler (1999) 蒙特卡洛模拟推荐采用**双指标联合判定策略**
+> [!method-position] Hu and Bentler (1999) 双指标组合判定规则
+> 传统仅依据单一指数（如 CFI $> .90$）容易导致过高的 II 类错误（接受错误模型）。Hu and Bentler (1999) 蒙特卡洛模拟推荐采用**双指标联合判定策略**
 > 1. **组合策略 A** $\text{SRMR} \le 0.08$ 且 $\text{RMSEA} \le 0.06$；
 > 2. **组合策略 B** $\text{SRMR} \le 0.08$ 且 $\text{CFI} \ge 0.95$（或 $\text{TLI} \ge 0.95$）。
 

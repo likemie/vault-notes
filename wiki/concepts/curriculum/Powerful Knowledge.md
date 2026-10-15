@@ -26,7 +26,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-10-16
 ---
 
 # Powerful Knowledge
@@ -36,7 +36,7 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> 有力知识（Powerful Knowledge）是 Young & Muller (2010) 提出的概念，指来自学科（如历史、生物、艺术等）的、经过[[Recontextualization\|再脉络化]]（[[Recontextualization]]）用于教育目的的知识。这种知识独立于知者存在，具有独特的禀赋，能够使学生超越直接经验进行概括和理解（McPhail, 2023）。
+> 有力知识（Powerful Knowledge）是 Young and Muller (2010) 提出的概念，指来自学科（如历史、生物、艺术等）的、经过[[Recontextualization\|再脉络化]]（[[Recontextualization]]）用于教育目的的知识。这种知识独立于知者存在，具有独特的禀赋，能够使学生超越直接经验进行概括和理解（McPhail, 2023）。
 
 > [!quote]
 > "By disciplinary knowledge, we mean knowledge that is derived from the disciplines, such as History, Biology, Art etc., that is recontextualized for educational purposes."([[Argument_McPhail_2023_JCS\|McPhail et al., 2023]])

@@ -43,7 +43,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-16
 ---
 
 # Institutional Drift
@@ -138,7 +138,7 @@ updated: 2026-10-11
 > [!concept-lens] 制度漂移对市场逻辑的单向倾斜维度
 > 探讨为何在市场经济环境下，制度形式上的“无所作为”必然导致非市场的社会规制向私营市场退让。
 
-> [!claim] [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]]
+> [!claim] [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]]
 > **规制不作为对市场力量的单向赋权** 资本主义市场本身是一台处于持续扩张、技术重构与自我演进中的动态机器；任何非市场规制安排要维系既有效能，都必须投入积极的政治资源进行适应性微调。一旦关键行动者行使否决权选择消极不作为，成文法条的冻结绝不会冻结市场进程；相反，未被更新的制度盲区将自动被私营市场力量所占领。因此，资本主义经济中的制度漂移天生具有推动[[Liberalization|自由化]]与去规制的结构性非对称偏向。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 24–26, 31–34)]]
 
 ---
@@ -197,6 +197,6 @@ updated: 2026-10-11
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 首次系统界定漂移机制，分析刻意疏于维护如何导致正式规则与现实世界发生脱节并引发实质侵蚀。（pp. 24–26）
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，界定制度漂移在强否决与高裁量权语境下的生成机制与[[Symbionts|共生者]]行动逻辑。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 首次系统界定漂移机制，分析刻意疏于维护如何导致正式规则与现实世界发生脱节并引发实质侵蚀。（pp. 24–26）
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，界定制度漂移在强否决与高裁量权语境下的生成机制与[[Symbionts|共生者]]行动逻辑。
 

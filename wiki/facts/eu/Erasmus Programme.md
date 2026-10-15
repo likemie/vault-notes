@@ -159,7 +159,7 @@ updated: 2026-10-16
 >
 > > [!axis] 争议三：跨大西洋道德双标——精英的流动与游民的漂泊
 > > 为何同一具肉体的空间位移，在欧洲高等教育中被颂扬，在底层社会却被病态化？
-> > - **空间社会学洞见** [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] 对比美国 [[No Child Left Behind Act 2001|NCLB]] 将中小学生转校贬为“漂泊”（[[Transiency]]），指出欧洲对伊拉斯谟流动的道德美化，根源于其主体属于文化与知识精英；空间流动的道德价值完全取决于主体的社会阶层。
+> > - **空间社会学洞见** [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] 对比美国 [[No Child Left Behind Act 2001|NCLB]] 将中小学生转校贬为“漂泊”（[[Transiency]]），指出欧洲对伊拉斯谟流动的道德美化，根源于其主体属于文化与知识精英；空间流动的道德价值完全取决于主体的社会阶层。
 >
 > > [!axis] 争议四：流动性虚假繁荣与学术质量赤字（“伊拉斯谟悖论”）
 > > 跨国留学生数量的激增能否等同于大学教育质量与学术声誉的提升？
@@ -190,7 +190,7 @@ updated: 2026-10-16
 > | [[TEMPUS]] | Fact (Program) | **外围辐射衍生** [[EU\|欧盟]]将伊拉斯谟的校际合作与学分互认经验推广至非成员国及东欧邻国的平行项目。 |
 > | [[Bologna Process]] | Fact (Policy) | **体制对齐框架** 博洛尼亚进程的三级学位与欧洲学分互认改革，直接奠定并扩展了伊拉斯谟计划的制度土壤。 |
 > | [[Spatial Governmentality]] | Theory | **解释理论工具** 透视超国家机构如何通过空间流动调控与网络化连接对青年劳动力实施[[Governing at a Distance\|远距治理]]。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 论证 | 深入解构伊拉斯谟流动性政策话语如何将劳动力市场风险个体化的学术文献。 |
+> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证 | 深入解构伊拉斯谟流动性政策话语如何将劳动力市场风险个体化的学术文献。 |
 > | [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] | 论证 | 揭示西班牙成为伊拉斯谟第一大接收国背后的非学术驱动机制，批判将流动规模混同于大学质量的自满假象。 |
 > | [[José Luis García Garrido]] | 人物 | 比较教育学者，深入剖析伊拉斯谟计划在南欧大学实践中的流动性悖论与大学近亲繁殖。 |
 

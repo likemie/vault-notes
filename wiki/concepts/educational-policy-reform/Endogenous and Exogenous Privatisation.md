@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-10-11
+updated: 2026-10-16
 ---
 
 # Endogenous and Exogenous Privatisation
@@ -170,8 +170,8 @@ updated: 2026-10-11
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **阶级策略命题** | 市场逻辑替代国家保障，作为优势阶级排他性利益的制度工具 | 新自由主义国家改革、外围受限国家紧缩期 | Ball (1993); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 83)]] |
-> | **内外互嵌闭环命题** | 内部企业化考评与外部商业承包相互支撑，推动治理暗箱化 | 公立基础教育现代化、采购与特许学校设立 | Ball & Youdell (2008); [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, p. 4)]] |
+> | **阶级策略命题** | 市场逻辑替代国家保障，作为优势阶级排他性利益的制度工具 | 新自由主义国家改革、外围受限国家紧缩期 | Ball (1993); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, p. 83)]] |
+> | **内外互嵌闭环命题** | 内部企业化考评与外部商业承包相互支撑，推动治理暗箱化 | 公立基础教育现代化、采购与特许学校设立 | Ball and Youdell (2008); [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, p. 4)]] |
 > | **国际化不可逆命题** | 国际留学生学费弥补财政缺口，锁死大学永久企业化路径 | 盎格鲁-撒克逊高等教育、全球高教出口大国 | [[Argument_Rizvi_2022_Springer\|Rizvi (2022, pp. 97–98)]] |
 
 ---
@@ -214,7 +214,7 @@ updated: 2026-10-11
 > |---|---|---|---|---|---|---|
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, p. 8)]] | 新西兰基础教育系统，2008–2016 年政策演化期 | 政策文本与政商网络[[Cohort Study\|追踪研究]] | 典型外生私有化与公私伙伴项目覆盖范围 | 记录 9 项重大私有化实例（含特许学校、[[Public-Private Partnership in Research\|PPP]] 学校基础设施合同、[[Assessment Tools for Teaching and Learning\|asTTle]] 评价商业化及 PLD 认证外包） | — | 实证展示外生私有化如何从周边非核心服务迅速渗透至核心课程评估与校舍产权 |
 > | [[Argument_Rizvi_2022_Springer\|Rizvi (2022, p. 97)]] | 澳大利亚高等教育系统，1990–2020 年代国际化扩张期 | 宏观政治经济案例分析 | 国际留学生学费收入占大学整体运营预算比重 | 国际学生学费收入跃升为诸多顶尖公立大学的最大单项收入来源，替代经常性公共财政拨款 | — | 解释外部生源市场依赖如何直接倒逼内部行政架构全面转向[[New Public Management\|新公共管理]]企业化运营 |
-> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, pp. 83–84)]] | 拉丁美洲发展中国家，1980–2000 年代新自由主义[[Structural Adjustment Programs\|结构调整]]期 | 区域宏观历史政策分析 | 公共教育预算缩减与使用者自费（User Fees）推广程度 | 普遍推行教育服务成本向家庭转嫁的使用者收费政策，大幅核减公立学校经常性投资并推行行政分权 | — | 证明外围国家在新自由主义[[Disciplina and Doctrina\|规训]]下将教育私有化作为转嫁国家合法性危机与财政债务的核心手段 |
+> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, pp. 83–84)]] | 拉丁美洲发展中国家，1980–2000 年代新自由主义[[Structural Adjustment Programs\|结构调整]]期 | 区域宏观历史政策分析 | 公共教育预算缩减与使用者自费（User Fees）推广程度 | 普遍推行教育服务成本向家庭转嫁的使用者收费政策，大幅核减公立学校经常性投资并推行行政分权 | — | 证明外围国家在新自由主义[[Disciplina and Doctrina\|规训]]下将教育私有化作为转嫁国家合法性危机与财政债务的核心手段 |
 
 ---
 
@@ -241,4 +241,4 @@ updated: 2026-10-11
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 细致解剖新西兰公立教育体系在内生与外生双轨私有化下的演化历程与非正式精英[[Network Governance|网络治理]]。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 揭示[[Internationalization of Higher Education|高等教育国际化]]与国际留学生学费市场如何驱动公立大学不可逆的永久性内生私有化。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 将教育私有化定性为新自由主义国家的阶级策略，揭示其在拉美[[Conditioned State Theory|受限国家]]伴随结构调整而推进的成本转嫁机制。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 将教育私有化定性为新自由主义国家的阶级策略，揭示其在拉美[[Conditioned State Theory|受限国家]]伴随结构调整而推进的成本转嫁机制。

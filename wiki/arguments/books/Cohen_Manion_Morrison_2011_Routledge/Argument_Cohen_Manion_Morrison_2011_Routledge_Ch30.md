@@ -103,7 +103,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-10-16
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30
 
@@ -338,7 +338,7 @@ updated: 2026-09-08
 在操作路线上，内容分析经历由原始样本文本向抽象理论的逐级收敛。不同方法学流派围绕如何从经验材料中提炼概念与检验假设，提出了各具侧重的操作规程。埃齐（Douglas Ezzy）概括其实施逻辑为：文本抽样 ➔ 界定分析单位与范畴 ➔ 文本编码 ➔ 统计词汇与编码频次 ➔ 定量统计与质性解释（Ezzy, 2002, p. 83）。安德森（Gary Anderson）与阿塞诺尔特（Nancy Arsenault）指出其三项本质要素：分解为分析单位、实施统计检验、以最经济的形式呈现结果（Anderson & Arsenault, 1998, p. 102）。弗里克（Uwe Flick）聚焦于逐级缩减与经验释义（Flick, 1998, p. 193; 2009, p. 326）；迈林（Philipp Mayring）确立了[[Qualitative Content Analysis|质性内容分析]]（QCA）的规则化程序（Mayring, 2004, pp. 266–269）；克里彭多夫（Klaus Krippendorff）构建了严密的语境推论操作链（Krippendorff, 2004, pp. 83–85）。这些学者的操作方案在阶段划分与步骤重心上高度互补，共同构成内容分析的标准化操作基底。
 
 > [!row-contrast] 核心学者内容分析操作规程与阶段步骤横向对应矩阵
-> | 通用操作阶段与核心目标 | Ezzy (2002)<br>五步实施模型 | Anderson & Arsenault (1998)<br>三要素极简模型 | Flick (1998, 2009)<br>七阶段缩减模型 | Mayring (2004)<br>质性内容分析规程 | Krippendorff (2004)<br>系统推论操作链 | [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]]<br>11 步标准化整合规程 |
+> | 通用操作阶段与核心目标 | Ezzy (2002)<br>五步实施模型 | Anderson and Arsenault (1998)<br>三要素极简模型 | Flick (1998, 2009)<br>七阶段缩减模型 | Mayring (2004)<br>质性内容分析规程 | Krippendorff (2004)<br>系统推论操作链 | [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]]<br>11 步标准化整合规程 |
 > |---|---|---|---|---|---|---|
 > | **阶段一：准备与抽样**<br>· 确立研究设问<br>· 界定文本总体域<br>· 选用适切抽样策略 | **步骤 1** 选取文本样本（Sample of texts） | *(前置隐性确立)* 圈定待检视的印刷文献与文本总体范围 | 从待检验或待构建理论出发确立研究设问与资料池（前置） | 确立研究设问，划定待分析材料的总体边界（前置） | **数据生成（Data making）** 界定抽样单位（Sampling units）与嵌套记录单位（[[Multi-phase Sampling\|多阶段抽样]]） | **步骤 1** 明确研究问题<br>**步骤 2** 界定文本总体<br>**步骤 3** 选取文本样本与嵌套抽样 |
 > | **阶段二：情境与单位化**<br>· 考据材料真实性<br>· 划定切片尺度粒度<br>· 确立语境解读边界 | **步骤 2** 界定分析单位（如字词、句子或段落切片） | **要素 1** 将文本分解为分析单位（Units of analysis） | 考证文献生成情境（1998）；**步骤 1** 界定最小与最大分析单位（2009） | 界定分析单元：明确最小记录单位（Coding unit）与最大语境单位（Context unit） | **划分三级单位** 抽样、记录与语境单位；细分五形态（物理、句法、范畴、命题、主题单位） | **步骤 4** 考据文献生成情境（真实性与三角互证）<br>**步骤 5** 界定三级五形态分析单位（Unitizing） |

@@ -62,7 +62,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-07-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Self-report Bias
@@ -204,7 +204,7 @@ updated: 2026-10-15
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1950s — 心理测量学与社会期望量表的开创** Allen Edwards（1957）与 Marlowe & Crowne（1960）确立社会期望（Social Desirability）量表，首次尝试在人格测验中量化并剥离受访者的自报美化倾向。
+> - **1950s — 心理测量学与社会期望量表的开创** Allen Edwards（1957）与 Marlowe and Crowne（1960）确立社会期望（Social Desirability）量表，首次尝试在人格测验中量化并剥离受访者的自报美化倾向。
 > - **1980s–2000s — 认知调查方法学（CASM）与应答四阶段模型确立** Roger Tourangeau 等人（2000）发表《调查应答的心理学》，将认知心理学引入[[Questionnaire\|问卷]]方法，系统确立包含理解、检索、判断与编辑的四阶段信息处理框架，从机制上阐明自报偏差的生成路径。
 > - **2010s — 教育研究方法学的系统规约与模式效应拓展** [[Louis Cohen\|Louis Cohen]]、Lawrence Manion 与 Keith Morrison（2011）在《教育研究方法》中系统总结自报的三重偏差机制（低报、高报、理解不一致），并结合 Dale（2006）与 Fowler（2009）梳理施测媒介（网络、电话、面对面）与情境波动对自报偏差的调节影响。
 > - **2020s — 宏观教育政策治理调查与循证实践反思** 伴随[[OECD\|经合组织]]（OECD）强化教育[[Research Impact\|研究影响力]]调查（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022]]），学者对仅依托部委自陈的大规模跨国数据集展开方法论反思，揭示部委自陈偏高与基层实践真空的断层，推动自报研究从个体心理测量迈向公共治理生态审视。
@@ -264,6 +264,6 @@ updated: 2026-10-15
 > - [[Argument_Hill_2022_FacilitatingActors\|Hill (2022, pp. 76–80, 93)]] — 在[[OECD\|经合组织]] 29 国政策调查中深刻反思部委单一自陈调查的局限性，揭示部委自陈偏高掩盖基层学校阻力的方法论偏差，以及跨国文化基准[[Heterogeneity\|异质性]]。
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 通过对 568 名在职教师的心理测量学调查，实证揭示教师自陈科研态度（4.37）与实际使用行为（3.78）之间的知行断层与自报赞许效应。
 > - [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] — 批判性指出 30 年来[[Research Utilization\|研究使用]]文献过度依赖横截面自陈[[Questionnaire\|问卷]]，导致对教师[[Phronesis\|实践智慧]]与情境复杂性的测量失真。
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 在教育研究设计中深入剖析问卷调查与相关研究设计的核心效度威胁，明确将自陈偏差界定为限制[[Causality\|因果推断]]的重要[[Internal Validity\|内部效度]]缺陷。
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 在教育研究设计中深入剖析问卷调查与相关研究设计的核心效度威胁，明确将自陈偏差界定为限制[[Causality\|因果推断]]的重要[[Internal Validity\|内部效度]]缺陷。
 > - Tourangeau, Rips, & Rasinski (2000) — 开创调查应答四阶段认知处理模型，奠定自报偏差在信息检索与社会化编辑阶段形成的认知心理学基石。
 > - Podsakoff et al. (2003) — 组织与行为科学中关于自报方法变异与测量偏倚控制的奠基性[[Meta-analysis\|元分析]]文献，系统提出事前设计与事后统计校正指南。

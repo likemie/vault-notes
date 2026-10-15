@@ -31,7 +31,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-31
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # APA Style
 
@@ -69,7 +69,7 @@ updated: 2026-10-15
 
 ### 文中引用机制（In-Text Citations）
 
-APA 格式采用“著者-出版年”制，主要分为**括号引用（Parenthetical Citation）**与**叙述性引用（Narrative Citation）**两种形式（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
+APA 格式采用“著者-出版年”制，主要分为**括号引用（Parenthetical Citation）** 与**叙述性引用（Narrative Citation）** 两种形式（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
 
 > [!index-table] 文中引用作者数量规则表
 > | 作者类型 | 首次正文括号引用 | 首次正文叙述性引用 | 后续括号引用 | 后续叙述性引用 |
@@ -100,7 +100,7 @@ Author, A. A.  --->  (Year).       --->  Title of work.             --->   Sourc
 > - **出版年代（Date）** 放在作者后的圆括号内，期刊与图书一般仅注明年份 `(2022)`，报纸、网页或会议须注明具体年月日 `(2024, March 15)`。无日期写 `(n.d.)`。
 > - **题名大小写（Title Case vs Sentence Case）** 
 >   - 图书题名、论文题名、网页题名：采用**句首字母大写式（Sentence Case，仅首词、副标题首词及专有名词大写）**；
->   - 期刊名、学术集刊名：采用**标题大写式（Title Case，所有实词首字母均大写）**并使用**斜体**。
+>   - 期刊名、学术集刊名：采用**标题大写式（Title Case，所有实词首字母均大写）** 并使用**斜体**。
 > - **来源与 DOI（Source & DOI）** 期刊论文注明卷号（斜体）与期号（正体圆括号），如 `51(3), 145–152`；DOI 一律写为完整网址形式 `https://doi.org/10.xxxx/...`，不得带有 "doi:" 前缀。
 
 ---
@@ -206,7 +206,7 @@ APA 格式对学术论文不同章节的动词时态与语态提出了明确的�
 > [!contrast-table] APA Style 命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者/机构 |
 > |---|---|---|---|
-> | **认知负荷与传播效率** | 统一排版与引文形式，减少理解阻力，聚焦核心论据 | 学术写作、文献综述、同行评审 | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] |
+> | **认知负荷与传播效率** | 统一排版与引文形式，减少理解阻力，聚焦核心论据 | 学术写作、文献综述、同行评审 | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] |
 > | **伦理自觉与平等建构** | 规范包容性语言与中立表述，消除研究偏见与标签化 | 质性/[[Quantitative Research\|量化研究]]表述、参与者描述、政策报告 | APA (2020) |
 
 ---
@@ -225,4 +225,4 @@ APA 格式对学术论文不同章节的动词时态与语态提出了明确的�
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 系统阐述了 APA 格式在研究计划设计、[[Literature Review\|文献综述]]编排、标题五级系统、动词时态与包容性语言中的具体应用。
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 系统阐述了 APA 格式在研究计划设计、[[Literature Review\|文献综述]]编排、标题五级系统、动词时态与包容性语言中的具体应用。

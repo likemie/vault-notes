@@ -56,7 +56,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **广泛领域资助公告（Broad Agency Announcement, BAA）**是美国联邦政府（特别是国防部、情报部门与国家安全前沿研发机构）依据《联邦采办条例》（FAR 35.016）广泛采用的一种竞争性项目招标与合同发包制度工具。与传统采购中详细规定技术规格与工作说明书（SOW）的模式不同，BAA 仅发布宏观科学挑战、战略性能瓶颈与终极目标愿景，向全社会公开征集[[Heterogeneity|异质性]]、探索性且非预设技术路径的基础与应用研究提案。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1137–1139)]]
+> **广泛领域资助公告（Broad Agency Announcement, BAA）** 是美国联邦政府（特别是国防部、情报部门与国家安全前沿研发机构）依据《联邦采办条例》（FAR 35.016）广泛采用的一种竞争性项目招标与合同发包制度工具。与传统采购中详细规定技术规格与工作说明书（SOW）的模式不同，BAA 仅发布宏观科学挑战、战略性能瓶颈与终极目标愿景，向全社会公开征集[[Heterogeneity|异质性]]、探索性且非预设技术路径的基础与应用研究提案。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1137–1139)]]
 
 > [!concept-lens] 概念透镜
 > - **核心功能** 在极高技术不确定性领域，通过“出题而不指定解法”的开放竞争机制，广泛吸纳学术界与工业界最具[[Creativity|创造力]]的颠覆性方案。
@@ -149,4 +149,4 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 详细解析 [[DARPA]] MTO 项目经理如何通过 BAA 文本设计引导硅锗与光子集成[[Technological Trajectories|技术轨道]]。
-> - Bonvillian & Van Atta (2011) — 剖析 BAA 与[[Other Transaction Authority|其他交易授权]]（OTA）在构建敏捷[[Innovation Ecosystem|创新生态]]中的协同功能。
+> - Bonvillian and Van Atta (2011) — 剖析 BAA 与[[Other Transaction Authority|其他交易授权]]（OTA）在构建敏捷[[Innovation Ecosystem|创新生态]]中的协同功能。

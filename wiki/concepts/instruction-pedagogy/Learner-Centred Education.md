@@ -139,8 +139,8 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **[[Test-Based Accountability\|考试问责]]与 LCE 协同机制** | LCE 可通过共享客体重构为提升高阶考分与课堂效率的工具，实现与应试的并行协同 | 高利害考试问责环境下谋求突破性提分的学校 | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025, pp. 598–602)]]; Schweisfurth (2015) |
-> | **跨文化[[Recontextualization\|再情境化]]与权力边界** | 东亚语境下的 LCE 发生认知/效率转向并与传统启发式[[Dialogue in Education\|对话]]共振，但受限于刚性大纲而保留权力共享硬边界 | 跨国[[Policy Borrowing\|政策借用]]、东亚考试文化与中高考改革背景 | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025, pp. 601–603)]]; You (2019) |
+> | **[[Test-Based Accountability\|考试问责]]与 LCE 协同机制** | LCE 可通过共享客体重构为提升高阶考分与课堂效率的工具，实现与应试的并行协同 | 高利害考试问责环境下谋求突破性提分的学校 | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025, pp. 598–602)]]; Schweisfurth (2015) |
+> | **跨文化[[Recontextualization\|再情境化]]与权力边界** | 东亚语境下的 LCE 发生认知/效率转向并与传统启发式[[Dialogue in Education\|对话]]共振，但受限于刚性大纲而保留权力共享硬边界 | 跨国[[Policy Borrowing\|政策借用]]、东亚考试文化与中高考改革背景 | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025, pp. 601–603)]]; You (2019) |
 
 ---
 
@@ -149,7 +149,7 @@ updated: 2026-10-16
 > [!concept-lens] 考试问责与教学改革的协同机制
 > 围绕高利害考试压力（[[Test-Based Accountability\|Test-Based Accountability]]）是否必然扼杀教学改革展开。传统观点认为高利害考试促使教师回归灌输与应试；但最新理论与实证表明，当学校建构出连接应试与改革的共享目标时，LCE 能够被重构为提分杠杆，促成活动系统的扩展性改造（Expansive Transformation）。
 
-> [!claim] [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]
+> [!claim] [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]]
 > **活动系统共享客体的扩展性重构** 在高利害考试文化下，学校无需在考试优异与教学法创新之间二选一。当学校管理者将 LCE 重新[[Decodification\|解码]]为解决特定提分痛点的核心杠杆时——例如城市学校将其解码为培养应对[[Gaokao\|高考]]新考情所需的[[Critical Thinking\|批判性思维]]与高阶分析能力，农村学校将其解码为最大化农村学生课堂 45 分钟吸收效率的工具——即可建立“学校特定共享目标（School-Specific Shared Object）”。在此目标驱使下，学校协同重构评估规则（引入过程性评课指标或课改容错加分）、中介工具（校本化转译对话教学）与劳动分工（校长为教学试验承担风险），促成了活动系统的扩展性改造，实现了提分与改革的互惠共赢。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 598–602)]]
 
 > [!claim] Schweisfurth (2015)
@@ -162,7 +162,7 @@ updated: 2026-10-16
 > [!concept-lens] 跨文化再情境化与权力边界
 > 围绕西方理想型 LCE 在跨国[[Policy Borrowing\|政策借用]]（Policy Borrowing）与本土落地过程中的形态变化与边界展开，分析教育理念如何与本土文化传统相互[[Selective Affinity\|选择性亲和]]，以及制度结构如何设定改革边界。
 
-> [!claim] [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]
+> [!claim] [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]]
 > **儒家对话传统亲和与权力共享硬边界** 西方理想型 LCE 强调民主公民培养、个体解放与学生共决课程；而在中国案例学校中，LCE 被高度[[Pragmatic Paradigm\|实用主义]]地转译为聚焦认知深化与学习效率的工具。这一[[Going Native\|本土化]]转译在理念上与[[Lev Vygotsky\|维果茨基]]社会文化理论及[[Confucius\|孔子]]启发式对话教学思想产生选择性亲和（Selective Affinity），消解了教师对西方外来教学法的异己感。然而受制于统一课程标准与刚性高考大纲，学生无法参与决定“学什么”或“怎么考”，权力共享维度呈现出不可跨越的结构性硬边界。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 601–603)]]
 
 > [!claim] You (2019)
@@ -195,13 +195,13 @@ updated: 2026-10-16
 > > 在将西方起源的 LCE 引入非西方语境时，存在[[Cultural Validity\|文化适切性]]与“政策话语”与“课堂现实”割裂的争议。
 > >
 > > - **You（2019）** 指出存在[[Quality Education\|素质教育]]修辞与[[Examination-Oriented Education\|应试教育]]实质并存的二元系统，LCE 易流于形式。
-> > - **[[Argument_Wang_2025_CE\|Wang & McLaughlin (2025, pp. 601–602)]]** 认为 LCE 能与儒家启发式对话传统产生文化共振，在重构后可深植于本土实践。
+> > - **[[Argument_Wang_2025_CE\|Wang and McLaughlin (2025, pp. 601–602)]]** 认为 LCE 能与儒家启发式对话传统产生文化共振，在重构后可深植于本土实践。
 >
 > > [!axis] 理想型民主公民培养与高利害应试环境的[[Pragmatic Paradigm\|实用主义]]转向
 > > 理想型西方 LCE 强调培养民主公民与学生参与决策；但在高利害考试文化下，LCE 被转向为服务于提分与效率的实用认知工具。
 > >
 > > - **Schweisfurth（2015）** 警惕[[Test-Based Accountability\|考试问责]]对 LCE 民主与人性化价值的侵蚀。
-> > - **[[Argument_Wang_2025_CE\|Wang & McLaughlin (2025, pp. 602–603)]]** 证明实用主义转向是 LCE 在高压考试环境中生存并发挥积极作用的必然选择。
+> > - **[[Argument_Wang_2025_CE\|Wang and McLaughlin (2025, pp. 602–603)]]** 证明实用主义转向是 LCE 在高压考试环境中生存并发挥积极作用的必然选择。
 
 ---
 
@@ -212,7 +212,7 @@ updated: 2026-10-16
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] | 华北某区域 4 所案例学校（2 城市、2 农村），4 校长 9 骨干教师，共 25 份访谈与文档[[Field Notes\|田野笔记]] | 质性多[[Case Study\|案例研究]]（Case Study），结合[[Third Generation Activity Theory\|第三代活动理论]]模板分析 | [[Test-Based Accountability\|考试问责]]与 LCE 改革双系统要素、共享目标建构、评课规则与教学行为 | 谋求突破的学校（城市二校冲击前 20%、农村二校 45 分钟效率）成功建立共享目标，实现双系统扩展性改造；维持顶尖（城市一校前 5%）与缺乏支撑学校（农村一校）改革停滞 | 质性转录与[[Qualitative Observation\|田野观察]] — | [[Sample Size Determination\|样本量]]为 4 所学校，属于小规模质性观察，结论具机制解释力但不具统计推论性 |
+> | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] | 华北某区域 4 所案例学校（2 城市、2 农村），4 校长 9 骨干教师，共 25 份访谈与文档[[Field Notes\|田野笔记]] | 质性多[[Case Study\|案例研究]]（Case Study），结合[[Third Generation Activity Theory\|第三代活动理论]]模板分析 | [[Test-Based Accountability\|考试问责]]与 LCE 改革双系统要素、共享目标建构、评课规则与教学行为 | 谋求突破的学校（城市二校冲击前 20%、农村二校 45 分钟效率）成功建立共享目标，实现双系统扩展性改造；维持顶尖（城市一校前 5%）与缺乏支撑学校（农村一校）改革停滞 | 质性转录与[[Qualitative Observation\|田野观察]] — | [[Sample Size Determination\|样本量]]为 4 所学校，属于小规模质性观察，结论具机制解释力但不具统计推论性 |
 > | [[Argument_Wang_2025_CE\|Schweisfurth (2013, 2015)]] | 全球多国跨国教育比较数据库与文献 | 跨国比较分析与[[Policy Borrowing\|政策借用]]追踪 | LCE 政策移植、考试体制、教师角色与课堂[[Praxis\|实践]] | 高利害标准化考试普遍构成 LCE 落地最大障碍；LCE 在不同文化语境中呈现高度差异化的转译形态 | 比较分析 — | 跨国宏观观察，需结合具体国家微观学校案例 |
 
 ---
@@ -220,4 +220,4 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 运用[[Third Generation Activity Theory\|第三代活动理论]]分析中国 4 所案例学校在跨文化教师教育项目后，如何通过建立学校特定共享目标，将 LCE 重构为提升高阶考分与课堂效率的工具，实现[[Test-Based Accountability\|考试问责]]与教学改革的扩展性改造。
+> - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 运用[[Third Generation Activity Theory\|第三代活动理论]]分析中国 4 所案例学校在跨文化教师教育项目后，如何通过建立学校特定共享目标，将 LCE 重构为提升高阶考分与课堂效率的工具，实现[[Test-Based Accountability\|考试问责]]与教学改革的扩展性改造。

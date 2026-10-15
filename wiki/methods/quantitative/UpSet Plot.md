@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # UpSet Plot
@@ -54,7 +54,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> **集合交集图（UpSet Plot）**是一种用于呈现复杂多集合数据相交结构的定量数据可视化技术，由亚历山大·莱克斯等（Lex et al., 2014）正式提出。该方法摒弃了传统韦恩图（Venn Diagram）依赖封闭几何形状相交的视觉隐喻，改用“矩阵点阵结合条形图”的直角坐标布局：顶部条形图量化指示各特定交集的元素频数（Intersection Size），底部点阵矩阵（Matrix Layout）以实心连接圆点清晰标识参与相交的集合子集，左侧水平条形图展示各单一集合的总体基数（Set Size）。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, p. 17)]]
+> **集合交集图（UpSet Plot）** 是一种用于呈现复杂多集合数据相交结构的定量数据可视化技术，由亚历山大·莱克斯等（Lex et al., 2014）正式提出。该方法摒弃了传统韦恩图（Venn Diagram）依赖封闭几何形状相交的视觉隐喻，改用“矩阵点阵结合条形图”的直角坐标布局：顶部条形图量化指示各特定交集的元素频数（Intersection Size），底部点阵矩阵（Matrix Layout）以实心连接圆点清晰标识参与相交的集合子集，左侧水平条形图展示各单一集合的总体基数（Set Size）。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, p. 17)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 多个分类集合、多评分者判断、多模型预测标签、二值多标签属性或复杂子群组合。

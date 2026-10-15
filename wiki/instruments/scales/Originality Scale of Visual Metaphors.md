@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-10-16
 ---
 
 # Originality Scale of Visual Metaphors
@@ -98,7 +98,7 @@ updated: 2026-09-03
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | OSVM 英文应用版 | 纳入高校创造力干预元分析（涵盖 Baruah & Paulus, 2008 等），评定短期思维训练对[[Problem Solving\|复杂问题解决]]表征的促进 | 评分者一致性 Kendall W > 0.80 | 综合训练在短周期内能显著提高隐喻原创性与问题解决构念得分（$N = 10, g = 0.539$） |
-> | Baruah & Paulus (2008) | OSVM 任务[[Paradigm\|范式]] | 美国高校大学生（$N = 22$），检验头脑风暴与结构化训练对个体及小组概念隐喻生成独创性的影响 | [[Inter-Rater Reliability\|评分者信度]] ICC = 0.84 | 接受显性启发式训练的被试在 OSVM 独创性维度显著优于无训练对照组 |
+> | Baruah and Paulus (2008) | OSVM 任务[[Paradigm\|范式]] | 美国高校大学生（$N = 22$），检验头脑风暴与结构化训练对个体及小组概念隐喻生成独创性的影响 | [[Inter-Rater Reliability\|评分者信度]] ICC = 0.84 | 接受显性启发式训练的被试在 OSVM 独创性维度显著优于无训练对照组 |
 
 ---
 
@@ -110,4 +110,4 @@ updated: 2026-09-03
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
 > | 原始版（OSVM） | 意大利语/英语 | 大学生与职场成人 | 开放表现任务 | 确立基于视觉隐喻任务与多评委共识的[[Creativity Assessment\|创造力评估]]标准 | Antonietti et al. (2000) |
-> | 团队认知拓展版 | 英语（美国） | 高校跨学科协作团队 | 开放任务 | 引入小组协作产出的视觉隐喻评价规程 | Baruah & Paulus (2008) |
+> | 团队认知拓展版 | 英语（美国） | 高校跨学科协作团队 | 开放任务 | 引入小组协作产出的视觉隐喻评价规程 | Baruah and Paulus (2008) |

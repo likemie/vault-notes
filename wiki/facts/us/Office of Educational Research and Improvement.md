@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Office of Educational Research and Improvement
@@ -59,7 +59,7 @@ updated: 2026-10-15
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **教育研究与改进办公室（Office of Educational Research and Improvement, OERI）**是 1979 年至 2002 年间美国联邦教育部下辖的核心教育科研、数据统计与信息传播官方机构，统筹管理国家教育统计中心（NCES）、[[Education Resources Information Center|教育资源信息中心]]（ERIC）、区域教育实验室网络与国家研发中心，并在 2002 年资助设立[[What Works Clearinghouse|有效干预清算中心]]（WWC），其职能于 2002 年底被新设立的独立法定科研机构——[[Institute of Education Sciences|教育科学研究院]]（IES）正式取代。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–34)]]; [[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 206)]]
+> **教育研究与改进办公室（Office of Educational Research and Improvement, OERI）** 是 1979 年至 2002 年间美国联邦教育部下辖的核心教育科研、数据统计与信息传播官方机构，统筹管理国家教育统计中心（NCES）、[[Education Resources Information Center|教育资源信息中心]]（ERIC）、区域教育实验室网络与国家研发中心，并在 2002 年资助设立[[What Works Clearinghouse|有效干预清算中心]]（WWC），其职能于 2002 年底被新设立的独立法定科研机构——[[Institute of Education Sciences|教育科学研究院]]（IES）正式取代。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–34)]]; [[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 206)]]
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 1979 年依据美国联邦《教育部组织法》（Department of Education Organization Act of 1979, P.L. 96-88）创设，取代原有的国家教育研究所（National Institute of Education, NIE），旨在整合原本分散在各行政署的教育研究、统计与信息传播职能。
@@ -135,4 +135,4 @@ updated: 2026-10-15
 > - **下设与衍生机构** [[What Works Clearinghouse]]（由 OERI 于 2002 年出资 1850 万美元创设的证据清算旗舰）。
 > - **关键治理与咨询主体** [[National Research Council]]（受托研制 SRE 报告的学术权威机构）；[[House Committee on Education and the Workforce]]（发起 OERI 重组审查与听证的国会委员会）。
 > - **相关人物** [[Richard J. Shavelson]]（主持起草 SRE 科学原则报告的委员会主席）。
-> - **关键论证** [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne (2003)]]（考证 OERI 重新授权与 WWC 初创期规程演进）；[[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]]（回顾 OERI 时代向 IES 独立治理转型的历史制度背景）。
+> - **关键论证** [[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003)]]（考证 OERI 重新授权与 WWC 初创期规程演进）；[[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]]（回顾 OERI 时代向 IES 独立治理转型的历史制度背景）。

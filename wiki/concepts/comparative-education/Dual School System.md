@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Dual School System
@@ -84,7 +84,7 @@ updated: 2026-10-15
 双轨学制（Dual School System），又称双轨制学制或阶级分选学制（Selective [[Classroom Assessment Scoring System|CLASS System]] of Schools），是指 19 世纪在西欧与中欧（以法国、普鲁士及英国为典型）形成的自上而下相互平行、互不沟通的二元教育组织架构。
 
 > [!def] 核心定义
-> 双轨学制是近代欧洲民族国家在资产阶级革命与工业化进程中确立的阶级再生产制度机器。该体制将适龄人口在法理与组织上划分为两条性质截然对立的轨道：一轨是面向广大劳动平民的初等教育系统（初级小学与高级初小），传授基础读写算与职业技术，以劳动技能培训和道德驯化为轴心，具有不可升学的终点性质；另一轨是面向大资产阶级与贵族子弟的中等教育系统（文理中学预备班 ➔ 文理中学 ➔ 大学），传授文理融通的古典“[[Culture Générale\|普通文化]]”，垄断文凭会考与国家统治精英的晋升渠道。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 28–30)]]
+> 双轨学制是近代欧洲民族国家在资产阶级革命与工业化进程中确立的阶级再生产制度机器。该体制将适龄人口在法理与组织上划分为两条性质截然对立的轨道：一轨是面向广大劳动平民的初等教育系统（初级小学与高级初小），传授基础读写算与职业技术，以劳动技能培训和道德驯化为轴心，具有不可升学的终点性质；另一轨是面向大资产阶级与贵族子弟的中等教育系统（文理中学预备班 ➔ 文理中学 ➔ 大学），传授文理融通的古典“[[Culture Générale\|普通文化]]”，垄断文凭会考与国家统治精英的晋升渠道。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 28–30)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指称近代欧洲国家通过国家立法直接将社会阶级分层法典化、制度化固化的宏观教育结构形态。
@@ -92,7 +92,7 @@ updated: 2026-10-15
 > - **边界** 严格区别于现代综合中学内部按能力测验进行的微观分轨（[[Tracking]]）；双轨学制是**学校体系之间（between-school）与教育秩序之间（between-orders）的法定阶级隔离**，平民子弟在进入初等学校的那一刻起，便在制度上被排斥在通往中等学术中学的通道之外。
 
 > [!citation-card]- 关键表述：作为阶级等级镜像的学校系统
-> [[Victor Cousin\|维克多·库森]]所构想的理想学校系统，在本质上是一种初等教育后严格按社会阶级进行分选的学校体系：基础初等小学面向全体平民，高级初等小学面向工商业中产阶级，初级中学面向中上阶层青年，而选拔性的高级文理中学则专门保留给社会的最高统治精英阶层。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 29–30)]]；引自 Brewer (1971:95)
+> [[Victor Cousin\|维克多·库森]]所构想的理想学校系统，在本质上是一种初等教育后严格按社会阶级进行分选的学校体系：基础初等小学面向全体平民，高级初等小学面向工商业中产阶级，初级中学面向中上阶层青年，而选拔性的高级文理中学则专门保留给社会的最高统治精英阶层。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 29–30)]]；引自 Brewer (1971:95)
 >
 > *As to his ideal school system, Cousin ... envisaged a selective class system of POST-elementary schools: primary elementary schools for everyone, 'advanced elementary schools' for the 'middle class', lower-level secondary schools for 'young people of the middle and upper classes', and selective upper secondary schools for the 'upper ranks of society'.*
 
@@ -122,9 +122,9 @@ updated: 2026-10-15
 双轨学制在 19 世纪欧陆国家运行中展现为四大相互咬合的结构支柱：
 
 > [!feature] 核心要素
-> - **终点性平民初等轨道（Primary Terminal Order / Volksschule）** 面向工农平民与城市贫民；初级小学传授读写算（3Rs）、母语法语或德语通用语、度量衡以及立德固本的宗教道德教化；在超 6,000 人工商业城镇增设高级初等小学（*écoles primaires supérieures* / *Bürgerschulen*），传授商业簿记、制图与实用数理；全轨道以培养勤勉守法的产业劳动力与安抚社会戾气为首要功能，严格封堵升入大学的通道。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 28–29)]]
-> - **排他性精英中等学术轨道（Secondary Academic Order / Gymnasium / Lycée）** 面向贵族、大金融资本家与高级官僚；自设专属的中学附属收费初等预备班（避免与平民子弟混同）；课程以拉丁文、希腊古典文学、严密几何与哲学修辞的“[[Culture Générale\|普通文化]]（*culture générale*）”为核心；全权垄断大学入学会考（Baccalauréat / Abitur）与大学准入，为国家再生产官僚、法官、学者与政治统治精英。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 29–30)]]
-> - **师资培养体系的二元断裂（Bifurcated Teacher Pipelines）** 初等小学教师来自独立设置的中等[[Normal School\|师范学校]]（Normal School），学生大多出身平民阶层，仅受过实用教学技能操练；而文理中学教师必须出自综合大学文理学院或巴黎高等师范学校，拥有深厚学术声望与独立知识分子地位；两支师资在薪资待遇、知识素养与社会阶层上互不往来。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 27–28)]]
+> - **终点性平民初等轨道（Primary Terminal Order / Volksschule）** 面向工农平民与城市贫民；初级小学传授读写算（3Rs）、母语法语或德语通用语、度量衡以及立德固本的宗教道德教化；在超 6,000 人工商业城镇增设高级初等小学（*écoles primaires supérieures* / *Bürgerschulen*），传授商业簿记、制图与实用数理；全轨道以培养勤勉守法的产业劳动力与安抚社会戾气为首要功能，严格封堵升入大学的通道。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 28–29)]]
+> - **排他性精英中等学术轨道（Secondary Academic Order / Gymnasium / Lycée）** 面向贵族、大金融资本家与高级官僚；自设专属的中学附属收费初等预备班（避免与平民子弟混同）；课程以拉丁文、希腊古典文学、严密几何与哲学修辞的“[[Culture Générale\|普通文化]]（*culture générale*）”为核心；全权垄断大学入学会考（Baccalauréat / Abitur）与大学准入，为国家再生产官僚、法官、学者与政治统治精英。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 29–30)]]
+> - **师资培养体系的二元断裂（Bifurcated Teacher Pipelines）** 初等小学教师来自独立设置的中等[[Normal School\|师范学校]]（Normal School），学生大多出身平民阶层，仅受过实用教学技能操练；而文理中学教师必须出自综合大学文理学院或巴黎高等师范学校，拥有深厚学术声望与独立知识分子地位；两支师资在薪资待遇、知识素养与社会阶层上互不往来。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 27–28)]]
 > - **学费门槛与制度性准入壁垒（Financial and Latin Gatekeeping）** 精英中等学校收取昂贵学费，且入学考试硬性要求掌握古典语言语法；大众初等学校毕业生由于从未被讲授过拉丁文与高级数学，即便学业拔尖也无法跨越这道制度性鸿沟。
 
 > [!logic-map]- 双轨学制运作与阶级再生产结构图
@@ -167,10 +167,10 @@ updated: 2026-10-15
 > 阐明 19 世纪欧陆自由资产阶级在推翻封建专制特权后，如何利用国家立法的形式建构新的教育区隔，既动员生产力又筑牢统治阶级防火墙。
 
 > [!claim] Brewer, W. and Roberts, J. M.
-> **大资产阶级立宪秩序的法理辩护机制** 沃尔特·布鲁尔与罗伯茨深刻剖析了以法国1833 年[[Guizot Law of 1833\|基佐法案]]为代表的双轨制立法实质：七月王朝的立宪大资产阶级并非真正追求教育民主与阶层流动，而是构筑了一套精密的阶级辩护体系；他们通过初级公学向大众分配基础识字以维持社会安宁并适应工业工场纪律，通过高级初小向中产阶层提供技术出路，而将最核心的国家治理文凭与学术教养死死封锁在中等中学内，以国家强制力完成了统治阶级的代际闭合再生产。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 28–29)]]；引自 Brewer (1971:58); Roberts (1996:406)
+> **大资产阶级立宪秩序的法理辩护机制** 沃尔特·布鲁尔与罗伯茨深刻剖析了以法国1833 年[[Guizot Law of 1833\|基佐法案]]为代表的双轨制立法实质：七月王朝的立宪大资产阶级并非真正追求教育民主与阶层流动，而是构筑了一套精密的阶级辩护体系；他们通过初级公学向大众分配基础识字以维持社会安宁并适应工业工场纪律，通过高级初小向中产阶层提供技术出路，而将最核心的国家治理文凭与学术教养死死封锁在中等中学内，以国家强制力完成了统治阶级的代际闭合再生产。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 28–29)]]；引自 Brewer (1971:58); Roberts (1996:406)
 
 > [!claim] [[Victor Cousin\|Cousin, V.]]
-> **学校层级与社会阶级分工的宿命论契合** 维克多·库森在论证中指出，社会必然存在着不同等级的现实分工，教育学制度的设计必须与这一客观现实相称。初等小学是普及性的道德启蒙，而文理中学所磨砺的心智训练（[[Culture Générale\|普通文化]]）专属于承担国家公共理性职责的高级阶层；如果打破双轨界限诱导大众普遍追求学术中等教育，只会制造心怀不满的失意文人阶层，引发社会政治动乱。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 29–30)]]
+> **学校层级与社会阶级分工的宿命论契合** 维克多·库森在论证中指出，社会必然存在着不同等级的现实分工，教育学制度的设计必须与这一客观现实相称。初等小学是普及性的道德启蒙，而文理中学所磨砺的心智训练（[[Culture Générale\|普通文化]]）专属于承担国家公共理性职责的高级阶层；如果打破双轨界限诱导大众普遍追求学术中等教育，只会制造心怀不满的失意文人阶层，引发社会政治动乱。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 29–30)]]
 
 ---
 
@@ -180,10 +180,10 @@ updated: 2026-10-15
 > 揭示欧洲大陆双轨学制与美国单轨[[Common School Movement\|公学运动]]之间的本体冲突，阐释跨国比较借用如何被本土政权形式与政治哲学根本性重构。
 
 > [!claim] [[Horace Mann\|Mann, H.]] and Butts, R. F.
-> **单轨公学是对欧洲双轨封建特权压迫的历史决裂** 霍勒斯·曼在考察欧洲教育后坚决排斥欧陆双轨制，主张自由共和政体绝不能容忍将公民按出生阶级划分轨道的制度残余；他在马萨诸塞州推行的公共学校（Common School）确立了单轨贯通架构，主张公立学校由全体公民共同税收供养、面向全体儿童平权开放，通过知识的普遍平等分配从根基上摧毁欧陆双轨制所维系的寡头特权垄断。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 31–34)]]；引自 Butts (1973:408)
+> **单轨公学是对欧洲双轨封建特权压迫的历史决裂** 霍勒斯·曼在考察欧洲教育后坚决排斥欧陆双轨制，主张自由共和政体绝不能容忍将公民按出生阶级划分轨道的制度残余；他在马萨诸塞州推行的公共学校（Common School）确立了单轨贯通架构，主张公立学校由全体公民共同税收供养、面向全体儿童平权开放，通过知识的普遍平等分配从根基上摧毁欧陆双轨制所维系的寡头特权垄断。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 31–34)]]；引自 Butts (1973:408)
 
 > [!claim] [[Robert Cowen\|Cowen, R.]] and [[Andreas Kazamias\|Kazamias, A.]] M.
-> **国家政权形态决定跨国借用的过滤与转化模式** 比较教育学发端期的制度借用自始至终深嵌于本土政治哲学中；法国大资产阶级中央集权政体借用普鲁士经验强化了自上而下的垂直双轨分流建制，而北美自由共和政体则将普鲁士初等公学、师范与教学法经验抽取出来，[[Going Native\|本土化]]转译为反对阶级分立、捍卫共和民主的单轨公共学校基石。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 25, 33–34)]]
+> **国家政权形态决定跨国借用的过滤与转化模式** 比较教育学发端期的制度借用自始至终深嵌于本土政治哲学中；法国大资产阶级中央集权政体借用普鲁士经验强化了自上而下的垂直双轨分流建制，而北美自由共和政体则将普鲁士初等公学、师范与教学法经验抽取出来，[[Going Native\|本土化]]转译为反对阶级分立、捍卫共和民主的单轨公共学校基石。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 25, 33–34)]]
 
 ---
 
@@ -193,7 +193,7 @@ updated: 2026-10-15
 > 揭示第三世界[[Conditioned State Theory|受限国家]]在跨国资本与本土寡头联盟支配下，如何形成公私分立、阶层隔离且资源极度失衡的双轨教育体系。
 
 > [!claim] [[Liliana Esther Olmos|Olmos, L. E.]] and [[Carlos Alberto Torres|Torres, C. A.]]
-> **外围资本主义国家的双轨教育分选与合法化补偿** 奥尔莫斯与托雷斯指出，在第三世界外围资本主义国家中，教育系统的扩张并非普惠性的民主化过程，而是演化出了结构性的双轨系统：富裕阶层与特权精英垄断优质私立教育与公立高等教育资源，而下层劳工与边缘群体则被限制在资源匮乏、质量低劣的初等与职业公立轨道中；国家通过非生产性的教育膨胀向大众提供边际文凭，行使[[Compensatory Legitimation|补偿性合法化]]职能，掩盖外围资本积累体制内在的依附性与分配危机。[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009, pp. 81–82)]]
+> **外围资本主义国家的双轨教育分选与合法化补偿** 奥尔莫斯与托雷斯指出，在第三世界外围资本主义国家中，教育系统的扩张并非普惠性的民主化过程，而是演化出了结构性的双轨系统：富裕阶层与特权精英垄断优质私立教育与公立高等教育资源，而下层劳工与边缘群体则被限制在资源匮乏、质量低劣的初等与职业公立轨道中；国家通过非生产性的教育膨胀向大众提供边际文凭，行使[[Compensatory Legitimation|补偿性合法化]]职能，掩盖外围资本积累体制内在的依附性与分配危机。[[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009, pp. 81–82)]]
 
 ---
 
@@ -203,8 +203,8 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **阶级妥协与制度化区隔命题** | 双轨学制是大资产阶级利用国家法律垄断高级[[Cultural Capital\|文化资本]]与政治统治权的制度妥协产物 | 19 世纪欧洲大陆（法国、德意志各邦）立宪政制下的教育法典编纂与学制设计 | Brewer (1971); Roberts (1996); Cousin (1831) |
-> | **跨大西洋范式对立命题** | 双轨制与单轨制的结构对立体现了欧陆资产阶级秩序防卫与北美自由共和平权建构的根本差异 | 19 世纪跨大西洋比较[[Policy Borrowing\|教育借用]]与现代国家学制演进比较史 | Mann (Downs, 1974); Butts (1973); Cowen & Kazamias (2009) |
-> | **外围依附双轨命题** | 受限国家在依附性积累下形成精英垄断优质高等/私立与大众滞留劣质初等公立的双轨分化 | 20 世纪下半叶第三世界外围受限国家（如拉丁美洲、非洲）的依附性教育扩张与国家危机 | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009)]]; Carnoy (1982) |
+> | **跨大西洋范式对立命题** | 双轨制与单轨制的结构对立体现了欧陆资产阶级秩序防卫与北美自由共和平权建构的根本差异 | 19 世纪跨大西洋比较[[Policy Borrowing\|教育借用]]与现代国家学制演进比较史 | Mann (Downs, 1974); Butts (1973); Cowen and Kazamias (2009) |
+> | **外围依附双轨命题** | 受限国家在依附性积累下形成精英垄断优质高等/私立与大众滞留劣质初等公立的双轨分化 | 20 世纪下半叶第三世界外围受限国家（如拉丁美洲、非洲）的依附性教育扩张与国家危机 | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009)]]; Carnoy (1982) |
 
 ---
 
@@ -213,11 +213,11 @@ updated: 2026-10-15
 双轨学制经历了 19 世纪法典化巩固、跨大西洋单轨抗衡，到二战后在民主化浪潮中被综合中学拆解转化的完整历程：
 
 > [!dev-timeline] 概念演变
-> - **19世纪初中叶 — 普法英确立欧陆典型双轨学制** 普鲁士《1819 年[[Johann Wilhelm Süvern\|聚芬]]草案》、法国《1833 年[[Guizot Law of 1833\|基佐法案]]》以及英国 1870 年《福斯特法案》先后出台，正式将平民初等小学与精英古典中学的制度性隔离确立为欧洲国家的主导学制形态。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 28–30)]]
-> - **1830s–1860s — 跨大西洋抗衡与单轨公学模式崛起** 北美[[Horace Mann\|霍勒斯·曼]]、[[Calvin Stowe\|卡尔文·斯托]]与[[Henry Barnard\|亨利·巴纳德]]掀起[[Common School Movement\|公共学校运动]]，拒绝欧陆双轨分选架构，奠定了单轨制教育传统，形成世界近现代学制发展的两大基本路向。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 31–33)]]
+> - **19世纪初中叶 — 普法英确立欧陆典型双轨学制** 普鲁士《1819 年[[Johann Wilhelm Süvern\|聚芬]]草案》、法国《1833 年[[Guizot Law of 1833\|基佐法案]]》以及英国 1870 年《福斯特法案》先后出台，正式将平民初等小学与精英古典中学的制度性隔离确立为欧洲国家的主导学制形态。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 28–30)]]
+> - **1830s–1860s — 跨大西洋抗衡与单轨公学模式崛起** 北美[[Horace Mann\|霍勒斯·曼]]、[[Calvin Stowe\|卡尔文·斯托]]与[[Henry Barnard\|亨利·巴纳德]]掀起[[Common School Movement\|公共学校运动]]，拒绝欧陆双轨分选架构，奠定了单轨制教育传统，形成世界近现代学制发展的两大基本路向。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 31–33)]]
 > - **19世纪末至20世纪初 — 东方借用与双轨制在亚洲移植** 清末 1904 年“[[1904 Educational System\|癸卯学制]]”与日本明治维新学制大量吸收德日双轨经验，设立实业初等与文理大学两歧系统，成为近代后发国家组织现代学校教育的早期蓝本。
 > - **1960s–1970s — 综合中学革命与法定双轨学的解体** 随着二战后教育民主化与阶层流动呼声高涨，英国（1965 年综合中学通告）、法国（1975 年阿比法案颁布“统一初中” *collège unique*）相继拆除了初中阶段的双轨隔离，法定双轨学制在西欧绝大多数国家宣告终结。
-> - **1960s–1990s — 外围[[Conditioned State Theory|受限国家]]依附性双轨体系的固化** 随着第三世界国家卷入依附性资本积累与债务危机，教育扩张呈现严重畸变：中等与高等教育在国家财政资助下超速扩张，而基础初等教育与成人扫盲长期滞后，形成了精英垄断优质公立高等与昂贵私立、劳工大众滞留劣质初等公立的外围典型双轨结构。[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009, pp. 81–82)]]
+> - **1960s–1990s — 外围[[Conditioned State Theory|受限国家]]依附性双轨体系的固化** 随着第三世界国家卷入依附性资本积累与债务危机，教育扩张呈现严重畸变：中等与高等教育在国家财政资助下超速扩张，而基础初等教育与成人扫盲长期滞后，形成了精英垄断优质公立高等与昂贵私立、劳工大众滞留劣质初等公立的外围典型双轨结构。[[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009, pp. 81–82)]]
 > - **当代延伸 — 显性学制废除与隐性分流分轨延续** 法定双轨学制瓦解后，阶级分选机制由学校间的法理割裂转向现代综合中学内部的隐性分流（[[Tracking]]）以及基于家庭经济与[[Cultural Capital\|文化资本]]的[[School Choice\|择校]]（School Choice）博弈。[[Argument_Li_2012_Cambridge\|Li (2012, pp. 98–99)]]
 
 ---
@@ -249,7 +249,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009)]] | 拉丁美洲地区（1960–1970年统计） | 宏观统计趋势比较（[[UNESCO\|联合国教科文组织]]数据） | 各教育阶段入学增长率与成人文盲率 | 中等教育增长 258.3%；高等教育增长 247.9%；初等教育增长 167.6%；成人文盲绝对规模维持恒定（无显著下降） | — | 说明外围资本主义[[Conditioned State Theory\|受限国家]]教育扩张呈现倒金字塔式双轨分化：优先补偿性满足精英对高阶文凭需求，而基础识字与初等大众教育被相对剥夺 |
+> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009)]] | 拉丁美洲地区（1960–1970年统计） | 宏观统计趋势比较（[[UNESCO\|联合国教科文组织]]数据） | 各教育阶段入学增长率与成人文盲率 | 中等教育增长 258.3%；高等教育增长 247.9%；初等教育增长 167.6%；成人文盲绝对规模维持恒定（无显著下降） | — | 说明外围资本主义[[Conditioned State Theory\|受限国家]]教育扩张呈现倒金字塔式双轨分化：优先补偿性满足精英对高阶文凭需求，而基础识字与初等大众教育被相对剥夺 |
 
 ---
 
@@ -279,5 +279,5 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 深度剖析 19 世纪法国[[Victor Cousin\|库森]]、[[François Guizot\|基佐]]基于普鲁士经验构建的阶级分选双轨学制，以及[[Horace Mann\|霍勒斯·曼]]在北美开创的单轨[[Common School Movement\|公学运动]]抗衡路径。
-> - [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009)]] — 揭示第三世界外围[[Conditioned State Theory|受限国家]]在依附性资本积累与政治合法化压力下，中高等精英教育超速膨胀与基础初等大众教育匮乏并存的“外围双轨教育”结构。\n> - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 探讨宏观双轨学制历史瓦解后，学校内部微观分轨（[[Tracking]]）如何继续与能力固定信念相互强化并制度化再生产学业不平等。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 深度剖析 19 世纪法国[[Victor Cousin\|库森]]、[[François Guizot\|基佐]]基于普鲁士经验构建的阶级分选双轨学制，以及[[Horace Mann\|霍勒斯·曼]]在北美开创的单轨[[Common School Movement\|公学运动]]抗衡路径。
+> - [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009)]] — 揭示第三世界外围[[Conditioned State Theory|受限国家]]在依附性资本积累与政治合法化压力下，中高等精英教育超速膨胀与基础初等大众教育匮乏并存的“外围双轨教育”结构。\n> - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 探讨宏观双轨学制历史瓦解后，学校内部微观分轨（[[Tracking]]）如何继续与能力固定信念相互强化并制度化再生产学业不平等。

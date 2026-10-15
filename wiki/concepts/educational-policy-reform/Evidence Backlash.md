@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Evidence Backlash
@@ -47,7 +47,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 证据反弹（Evidence Backlash）是指在后真相与社交网络极化环境中，当公众或特定利益群体遭遇与自身既有信念、政治立场或文化认同相冲突的实证研究证据时，不仅拒绝接受该证据，反而激发出更强烈的心理防卫与对“专家群体”及“科学过程”本身的激进贬低、质疑甚至仇视的[[Epistemology\|认识论]]现象。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]引述 Lewandowsky 等人（2017）的诊断，指出证据反弹彻底粉碎了古典循证运动“只要提供严谨数据即可导向理性决策”的理想化假定。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 57]])
+> 证据反弹（Evidence Backlash）是指在后真相与社交网络极化环境中，当公众或特定利益群体遭遇与自身既有信念、政治立场或文化认同相冲突的实证研究证据时，不仅拒绝接受该证据，反而激发出更强烈的心理防卫与对“专家群体”及“科学过程”本身的激进贬低、质疑甚至仇视的[[Epistemology\|认识论]]现象。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]引述 Lewandowsky 等人（2017）的诊断，指出证据反弹彻底粉碎了古典循证运动“只要提供严谨数据即可导向理性决策”的理想化假定。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 57]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向证据与受众心理认知/群体认同之间的对抗性互动，表现为“科学事实愈确凿，群体抗拒愈激进”的反常效应。
@@ -89,4 +89,4 @@ updated: 2026-10-07
 > | [[Educational Brokerage Agency]] | 概念 | 中介机构面临的核心外部社会阻力与[[Epistemology\|认识论]]危机形态。 |
 > | [[Research Literacy]] | 概念 | 培养批判性研究素养是提升公众抗体、免疫反科学偏见的民主基石。 |
 > | [[Education Media Centre]] | 机构事实 | 建立快速事实核查与媒体中介，直接旨在前沿舆论场阻断证据反弹的恶性发酵。 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] | 论证条目 | 将证据反弹作为 2007–2022 年间国际循证运动遭遇的首要认识论挑战（p. 57）。 |
+> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 将证据反弹作为 2007–2022 年间国际循证运动遭遇的首要认识论挑战（p. 57）。 |

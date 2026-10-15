@@ -69,7 +69,7 @@ related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 status: draft
 created: 2026-06-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Observation Method
@@ -402,7 +402,7 @@ Simpson & Tuson（2003, ch. 2）提出观察规划需考虑十四个方面（[[A
 > - **知情判断的经验** 具有从观察数据做出知情判断的必要经验
 
 > [!note] 信度保障与反应性对策
-> 避免疲劳和**[[Observer Drift\|观察者漂移]]（observer [[Institutional Drift|drift]]）**对信度至关重要。为减少反应性，可采用[[Habituation\|习惯化]]——研究者在情境中停留足够长时间使参与者恢复自然行为，或采用隐蔽观察（涉及伦理问题）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.12 节]]）。
+> 避免疲劳和 **[[Observer Drift\|观察者漂移]]（observer [[Institutional Drift|drift]]）** 对信度至关重要。为减少反应性，可采用[[Habituation\|习惯化]]——研究者在情境中停留足够长时间使参与者恢复自然行为，或采用隐蔽观察（涉及伦理问题）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.12 节]]）。
 
 ---
 

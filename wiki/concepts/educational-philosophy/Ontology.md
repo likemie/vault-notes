@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Ontology
@@ -63,7 +63,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **本体论（Ontology）**是关于实在本质与事物性质的元理论假设（assumptions about the nature of reality and the nature of things；Hitchcock & Hughes, 1995, p. 21）。在社会科学研究哲学中，它聚焦于社会现象究竟是独立于人类知觉的外在客观实体（实在论），还是人类个体意识与语言符号建构的心灵产物（唯名论/观念论；Burrell & Morgan, 1979）；在教育心理学与学习科学中，它指代个体学习者对知识属性（如[[Simplicity of Knowledge\|知识的简单性]]与确定性）进行排他性分类的心智认知系统[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 115)]][[Argument_Greene_2010_JEP\|(Greene et al., 2010, p. 237)]]。
+> **本体论（Ontology）** 是关于实在本质与事物性质的元理论假设（assumptions about the nature of reality and the nature of things；Hitchcock & Hughes, 1995, p. 21）。在社会科学研究哲学中，它聚焦于社会现象究竟是独立于人类知觉的外在客观实体（实在论），还是人类个体意识与语言符号建构的心灵产物（唯名论/观念论；Burrell & Morgan, 1979）；在教育心理学与学习科学中，它指代个体学习者对知识属性（如[[Simplicity of Knowledge\|知识的简单性]]与确定性）进行排他性分类的心智认知系统[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 115)]][[Argument_Greene_2010_JEP\|(Greene et al., 2010, p. 237)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义（哲学视角）** 回答“被研究现象的本质是什么”——社会世界是客观外在于主体的硬性实体，还是主体间赋予意义建构的发明物。

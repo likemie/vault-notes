@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Advance Market Commitments
@@ -65,7 +65,7 @@ updated: 2026-10-15
 > [!concept-lens] 概念透镜
 > - **含义** 资助机构不再试图在研发第一天评判哪一条技术路线最可行，而是通过在终点线预先设立有保障的商业市场，激发全社会多元团队展开路线竞争。
 > - **用途** 解决高风险实体技术从实验室向规模化量产跨越时的“[[Valley of Death|死亡之谷]]”问题，消除私人资本因担心研发成功后无法收回成本而放弃立项的[[Market Failure|市场失灵]]。
-> - **边界** AMC 高度适用于**“最终目标清晰但实现路径未知”**的重大工程与医疗瓶颈（如疫苗有效率达到 90%、储能成本降至每千瓦时 20 美元）；它绝不适用于漫无目的、指标难以预先界定的纯好奇心基础探索。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 29, 820)]]
+> - **边界** AMC 高度适用于 **“最终目标清晰但实现路径未知”** 的重大工程与医疗瓶颈（如疫苗有效率达到 90%、储能成本降至每千瓦时 20 美元）；它绝不适用于漫无目的、指标难以预先界定的纯好奇心基础探索。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 29, 820)]]
 
 > [!contrast-table] 事前推动型资助 vs 高级市场承诺（AMC）拉动机制对比
 > | 比较维度 | 传统事前推动型科研资助（Push Funding） | 高级市场承诺拉动机制（AMC Pull Mechanism） |

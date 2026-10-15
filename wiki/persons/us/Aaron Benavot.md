@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Aaron Benavot
@@ -72,7 +72,7 @@ updated: 2026-10-15
 > [!citation-card] [[Robert Arnove|阿诺夫]]论贝纳沃特对全球课程趋同与本土适应的研究
 > 国家课程中分配给不同学科的时间引发了大量研究，尤其是迈耶、卡门斯与贝纳沃特（1992）合著的《大众学校知识》，该书展示出作为现代政治体建构过程的一部分，各国在数理学科教学时间分配上呈现出显著趋同，同时也记录了对这一国际趋势的不同本土适应。贝纳沃特与雷什（Benavot & Resh, 2001）以以色列为例指出，全球通用学科门类的扩散，吊诡地被下放国家中央教育权力的另一强劲政策趋势所改变；学校层面的结构与生源背景深度塑造了教学科目的真实供给。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 108)]]
 >
-> *Time allocated to different subjects in national curricula has spurred a number of studies—notably Meyer, Kamens, and Benavot (1992) on School Knowledge for the Masses—that show both convergence... as well as different local adaptations to this international trend. Benavot & Resh (2001) have selected the case of Israel to show how convergence in the diffusion of common categories of curricular subjects across the world is paradoxically modified by another strong policy trend to devolve central state authority.*
+> *Time allocated to different subjects in national curricula has spurred a number of studies—notably Meyer, Kamens, and Benavot (1992) on School Knowledge for the Masses—that show both convergence... as well as different local adaptations to this international trend. Benavot and Resh (2001) have selected the case of Israel to show how convergence in the diffusion of common categories of curricular subjects across the world is paradoxically modified by another strong policy trend to devolve central state authority.*
 
 ---
 

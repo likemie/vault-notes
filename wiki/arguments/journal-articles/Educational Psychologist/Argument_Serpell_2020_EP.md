@@ -83,7 +83,7 @@ sources:
   - "[[sources/Serpell_2020_EP/Serpell_2020_EP|Serpell_2020_EP]]"
 status: draft
 created: 2026-09-17
-updated: 2026-09-18
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Serpell_2020_EP"
@@ -313,7 +313,7 @@ journal: Educational Psychologist
 学术界对传播技巧的忽视在实证调研中得到了确凿验证：
 
 > [!case] 案例七：Sorian 与 Baugh 论 300 名州决策者调研与“少即是多”法则
-> Sorian & Baugh (2002) 针对全美近 300 名州政府高级政策制定者开展的大规模实证调查显示：学术界向政策界传递研究时存在严重的“过度供给”倾向，提供了过多决策者无暇阅读的技术性细节导致信息过载。调研清晰表明，决策者迫切需要高度精炼、直击要害的信息呈现方式，并渴望获得能够帮助他们在具体政策议题下快速检索相关证据的便捷工具。这一发现表明，掌握简明陈述的艺术，用一页纸讲清核心诉求，是学术成果跨越政策门槛的生命线（p.46）。
+> Sorian and Baugh (2002) 针对全美近 300 名州政府高级政策制定者开展的大规模实证调查显示：学术界向政策界传递研究时存在严重的“过度供给”倾向，提供了过多决策者无暇阅读的技术性细节导致信息过载。调研清晰表明，决策者迫切需要高度精炼、直击要害的信息呈现方式，并渴望获得能够帮助他们在具体政策议题下快速检索相关证据的便捷工具。这一发现表明，掌握简明陈述的艺术，用一页纸讲清核心诉求，是学术成果跨越政策门槛的生命线（p.46）。
 
 Nutley et al. (2002) 进一步提出了[[Nutley's Four-Dimension Framework for Research Uptake|纳特利证据吸纳四维框架]]，系统化了决定立法者是否吸纳特定研究证据的四大核心考量维度，构成了研究者审视自身[[Research Translation|研究转化]]可行性的综合分析工具：
 

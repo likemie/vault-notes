@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Policymaking Chronosystem
@@ -207,7 +207,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Serpell_2020_EP\|Serpell (2020)]] — 奠基性文献：提出政策制定时间系统概念，系统剖析科学发现周期与政策时效的断层，构建整合突发事件与重大法案周期的四阶段[[Navigational Framework for Educational Researchers\|政策导航框架]]。
-> - Bronfenbrenner & Ceci (1994) — 理论源头：提出人类发展的[[Ecological Systems Theory\|生物生态学模型]]与历时系统（Chronosystem）构想。
+> - Bronfenbrenner and Ceci (1994) — 理论源头：提出人类发展的[[Ecological Systems Theory\|生物生态学模型]]与历时系统（Chronosystem）构想。
 > - Weiss (1977) — 阐明公共政策本质关乎价值选择，奠定证据作为政治正当化工具的理论先驱。
 > - Dynarski et al. (2007) — 实证案例：揭示长达近十年的教育软件大型 [[Randomised Controlled Trials\|RCT]] 报告在公布时已面临技术全面过时的困境。
 > - Kingdon (1984/2003) — 政策源流经典：系统阐述[[Policy Window|政策机会之窗]]（Policy Windows）理论。

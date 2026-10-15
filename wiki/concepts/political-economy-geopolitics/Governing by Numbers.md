@@ -71,7 +71,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Governing by Numbers
@@ -194,7 +194,7 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **跨国软治理与数字即政策 (1.0)** | 揭示大型测评自产等价空间与“数字即政策”如何遮蔽深层价值判断与哲学辩论，引导主权国家改革并维系知识经济社会想象 | 国际大型评估与去情境化排名 | Rose (1999); Grek (2009); [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]]; [[Argument_Li_2025_HSSC\|Li et al. (2025)]] |
+> | **跨国软治理与数字即政策 (1.0)** | 揭示大型测评自产等价空间与“数字即政策”如何遮蔽深层价值判断与哲学辩论，引导主权国家改革并维系知识经济社会想象 | 国际大型评估与去情境化排名 | Rose (1999); Grek (2009); [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]]; [[Argument_Li_2025_HSSC\|Li et al. (2025)]] |
 > | **政策中介与周期博弈 (2.0)** | 阐明信息过载下国际组织的中介工具打包与国家政策周期的选择性过滤 | 数字化时代证据过剩与跨国政策转移 | [[Gita Steiner-Khamsi\|Steiner-Khamsi]] et al. |
 > | **知识武器化与利基割据** | 揭示量化工具在跨国治理复合体内部演变为机构防卫与地盘竞争的制度武器 | 国际组织间竞合与多边治理网络 | Steiner-Khamsi et al. |
 
@@ -254,4 +254,4 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出数字治理 2.0 理论框架，系统探讨[[OECD|经合组织]]与[[World Bank|世界银行]]的[[Policy Brokerage|政策中介]]机制及其在国家政策周期中的多阶段效应。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]]了 [[PISA]] 如何通过数字治理机制影响全球基础教育改革，提出三层机制模型。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 446–448)]] — 结合罗斯“数字即政策”与[[Alain Desrosières|德罗西埃]]“等价空间”，揭示经合组织如何自产跨国数据，以技术排位压制教育目的辩论并维系[[Knowledge-Based Economy|知识经济]]想象。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 446–448)]] — 结合罗斯“数字即政策”与[[Alain Desrosières|德罗西埃]]“等价空间”，揭示经合组织如何自产跨国数据，以技术排位压制教育目的辩论并维系[[Knowledge-Based Economy|知识经济]]想象。

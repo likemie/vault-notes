@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-16
 ---
 
 # Electronic Design Automation
@@ -139,7 +139,7 @@ updated: 2026-10-10
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 机构 |
 > |---|---|---|---|
 > | **复杂性抽象与全栈协同** | 新一代多物理场仿真与 AI 辅助 EDA 工具是支撑异构集成与后摩尔芯片研发的根本前提 | 后摩尔时代三维封装、跨域系统集成与协同设计推进阶段 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 14–16)]] |
-> | **软件不对称控制权与地缘卡点** | 商业 EDA 软件高度集中于少数龙头，形成全球半导体供应链中最关键的技术锁节点 | 地缘科技竞争、出口管制与技术主权评估情境 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025, pp. 102–106)]] |
+> | **软件不对称控制权与地缘卡点** | 商业 EDA 软件高度集中于少数龙头，形成全球半导体供应链中最关键的技术锁节点 | 地缘科技竞争、出口管制与技术主权评估情境 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025, pp. 102–106)]] |
 > | **公共授权契约与开源研发普惠** | 政府主导的集中采购协议与开源 EDA 工具链有助于消除高校和小微团队的软件准入门槛 | 大学工程科研、国家微电子[[Innovation Ecosystem\|创新生态]]培育与早期硬件孵化阶段 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 23–24)]] |
 
 ---
@@ -175,7 +175,7 @@ updated: 2026-10-10
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 15, 23–24)]] | 2024年[[National Strategy on Microelectronics Research\|美国国家微电子研究战略]]全美高校与小微企业设计准入规划 | 国家科技政策文本与机构行动框架分析 | 联邦支持之 EDA 开放授权、成熟节点开源 [[Process Design Kit\|PDK]] 推进范围 | 涵盖 16 个联邦部门协同行动，将 [[DARPA]] Toolbox 模式拓展至民用学术领域，推动云端安全 EDA 环境与成熟节点开源工具链部署 | 联邦战略规划事实 | 证实国家通过制度化采购与开源政策打破商业 EDA 准入门槛的战略路径 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025, pp. 102–106)]] | 全球半导体核心设计软件市场与先进制程供应链考证 | 产业地缘经济学与全球市场份额计量考证 | EDA 软件全球寡头垄断份额与制程依赖度 | 全球三大 EDA 供应商占据全行业逾 **85%** 市场份额，在 7 纳米及以下先进制程设计工具领域集中度接近 **100%** | 行业市场权威统计事实 | 实证展现 EDA 软件链条作为全球半导体极度集中之不对称战略卡点的现实格局 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025, pp. 102–106)]] | 全球半导体核心设计软件市场与先进制程供应链考证 | 产业地缘经济学与全球市场份额计量考证 | EDA 软件全球寡头垄断份额与制程依赖度 | 全球三大 EDA 供应商占据全行业逾 **85%** 市场份额，在 7 纳米及以下先进制程设计工具领域集中度接近 **100%** | 行业市场权威统计事实 | 实证展现 EDA 软件链条作为全球半导体极度集中之不对称战略卡点的现实格局 |
 
 ---
 
@@ -200,4 +200,4 @@ updated: 2026-10-10
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 系统阐明后摩尔时代[[Heterogeneous Integration|三维异构集成]]对多物理场 EDA 仿真工具的紧迫需求，并提出依托 [[DARPA]] Toolbox 模式与开源生态消除学术界和初创企业软件准入门槛的战略方案（pp. 15–16, 23–24）。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 从科技主权与不对称地缘博弈视角，深入论证 EDA 软件在现代微电子技术栈中的寡头垄断格局及其作为关键制衡卡点的决定性意义（pp. 102–106）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 从科技主权与不对称地缘博弈视角，深入论证 EDA 软件在现代微电子技术栈中的寡头垄断格局及其作为关键制衡卡点的决定性意义（pp. 102–106）。

@@ -82,7 +82,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Third Generation Activity Theory
@@ -255,7 +255,7 @@ updated: 2026-10-15
 > - **1987 — 第二代：Engeström 六要素集体活动系统** 引入共同体、规则与劳动分工，将[[Unit of Analysis\|分析单元]]拓展为集体的活动系统，出版奠基著作 *Learning by Expanding*。
 > - **2001 — 第三代：多活动系统互动与扩展性改造** Engeström 正式提出第三代活动理论，聚焦多个活动系统的相遇、边界跨越与扩展性学习网络。
 > - **2025 — 教育改革与跨文化转译实证应用** Wang & McLaughlin 运用第三代活动理论解构中国 4 所高中在跨国培训后，如何通过建立共享客体实现[[Test-Based Accountability\|考试问责]]与 [[Learner-Centred Education\|LCE]] 改革双系统的扩展性改造。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 586–605)]]
-> - **2025 — 活动理论移动协作学习框架（AT-MCSCL）的大样本[[Meta-analysis\|元分析]][[Operationalization\|操作化]]** [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] 承袭 Jonassen & Rohrer-Murphy (1999) 与 Collis & Margaryan (2004) 的传统，构建 AT-MCSCL 六要素调节分析架构，对 57 项高等教育生成式 AI 实证实施多维全要素编码，确立了边际效益递增与权力壁垒破除的宏观生态机制。
+> - **2025 — 活动理论移动协作学习框架（AT-MCSCL）的大样本[[Meta-analysis\|元分析]][[Operationalization\|操作化]]** [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 承袭 Jonassen and Rohrer-Murphy (1999) 与 Collis and Margaryan (2004) 的传统，构建 AT-MCSCL 六要素调节分析架构，对 57 项高等教育生成式 AI 实证实施多维全要素编码，确立了边际效益递增与权力壁垒破除的宏观生态机制。
 > - **2026 — 生成式 AI [[Man-Computer Symbiosis|人机协同]]与教学规制重构** Li et al. 将第三代活动理论应用于高等教育生成式 AI 整合研究，提出超越工具中心论的六大教学干预规制与人机认知分工模型。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 11–13)]]
 
 ---
@@ -268,21 +268,21 @@ updated: 2026-10-15
 > > 批评者认为六要素系统结构过于严密，可能低估微观个体（如一线师生）在强系统压迫下的日常抵制与即兴能动性。
 > >
 > > - **Engeström（2001）** 强调系统矛盾正依赖主体的批判质疑与边界跨越来激发扩展性学习。
-> > - **[[Argument_Wang_2025_CE\|Wang & McLaughlin (2025, p. 593)]]** 证明学校校长和教师通过能动地转译改革[[Discourse|话语]]，反向重构了活动规则。
+> > - **[[Argument_Wang_2025_CE\|Wang and McLaughlin (2025, p. 593)]]** 证明学校校长和教师通过能动地转译改革[[Discourse|话语]]，反向重构了活动规则。
 >
 > > [!axis] 共享客体建构与系统权力不对等的遮蔽
 > > 批评者质疑在高利害[[Test-Based Accountability\|考试问责]]或商业科技公司垄断等强系统面前，弱势教学系统的妥协常被美化为“共享客体”。
 > >
-> > - **[[Argument_Wang_2025_CE\|Wang & McLaughlin (2025, pp. 601–603)]]** 揭示了扩展性改造的结构性边界：学生权力共享维度在[[Gaokao\|高考]]问责面前依然被排斥。
+> > - **[[Argument_Wang_2025_CE\|Wang and McLaughlin (2025, pp. 601–603)]]** 揭示了扩展性改造的结构性边界：学生权力共享维度在[[Gaokao\|高考]]问责面前依然被排斥。
 >
 > > [!axis] 工具中心论 vs 活动系统整体重构论
 > > 技术决定论者主张 AI 工具本身具备固有的增益或危害效应；活动理论学者则坚持技术效应完全依存于活动系统规则与分工的重构。
 > >
 > > - **[[Argument_Li_2026_CEAI\|Li et al. (2026, pp. 1, 10–11)]]** 实证确立 AI 对[[Higher-Order Thinking Skills\|高阶思维]]的影响非技术固有，而在教学活动系统重组中分化为协同增益与双重侵蚀两种截然相反的轨迹。
-> > - **[[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025, pp. 10–13)]]** 基于 AT-MCSCL 框架证实技术效果受人机角色（同伴比导师更优）、干预周期（4–12 周黄金期）与宏观文化权力距离深度调节，为活动系统整体观提供了基于 57 项[[Experimental Research\|实验研究]]的大[[Sample Size Determination\|样本量]]化证据。
+> > - **[[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025, pp. 10–13)]]** 基于 AT-MCSCL 框架证实技术效果受人机角色（同伴比导师更优）、干预周期（4–12 周黄金期）与宏观文化权力距离深度调节，为活动系统整体观提供了基于 57 项[[Experimental Research\|实验研究]]的大[[Sample Size Determination\|样本量]]化证据。
 
 > [!critique]- 批评索引
-> - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 揭示扩展性改造在遭遇宏观制度权力不对等时的结构性硬边界，指出学生权力共享维度的缺位暴露了理论对强问责压迫解释的局限。
+> - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 揭示扩展性改造在遭遇宏观制度权力不对等时的结构性硬边界，指出学生权力共享维度的缺位暴露了理论对强问责压迫解释的局限。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — 指出活动理论若未针对生成式 AI 的高速语义生成建立显性过程规制，容易忽视表面协同下发生的隐性[[Cognitive Offloading\|认知卸载]]与心智惰性风险。
 
 ---
@@ -290,6 +290,6 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] — 采用活动理论移动计算机支持协作学习（AT-MCSCL）框架，将生成式 AI 学习系统解构为主体、客体、工具、规则、分工与情境六大维度，对 57 项[[Experimental Research\|实验研究]]进行多维[[Interaction Effect\|调节效应]][[Meta-analysis\|元分析]]，解释了边际效益递增与权力壁垒破除机制。
-> - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 运用第三代活动理论作为[[Analytic Framework\|分析框架]]，解构中国 4 所高中在跨国专业发展项目后，[[Test-Based Accountability\|考试问责]]系统与 [[Learner-Centred Education\|LCE]] 改革系统如何通过建立学校特定共享目标，促成要素协同重构与扩展性改造。
+> - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — 采用活动理论移动计算机支持协作学习（AT-MCSCL）框架，将生成式 AI 学习系统解构为主体、客体、工具、规则、分工与情境六大维度，对 57 项[[Experimental Research\|实验研究]]进行多维[[Interaction Effect\|调节效应]][[Meta-analysis\|元分析]]，解释了边际效益递增与权力壁垒破除机制。
+> - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 运用第三代活动理论作为[[Analytic Framework\|分析框架]]，解构中国 4 所高中在跨国专业发展项目后，[[Test-Based Accountability\|考试问责]]系统与 [[Learner-Centred Education\|LCE]] 改革系统如何通过建立学校特定共享目标，促成要素协同重构与扩展性改造。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — 将活动理论应用于高等教育生成式 AI 整合综述，揭示大模型作为新型中介工具对教学活动系统平衡的扰动，系统提出了涵盖工具定位、规则重塑、人机认知分工与多源反馈共同体的扩展性改造方案。

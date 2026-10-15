@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Multimodal Discourse Analysis
@@ -146,4 +146,4 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 依托四层多模态[[Discourse Analysis\|话语分析]]框架（宏观事件切分、中观评价编码、微观多模态互动解析、跨数据[[Triangulation\|三角互证]]），深度剖析初中生在利用 Canva 和 ChatGPT 协同建构[[Scientific Explanation\|科学解释]]时的口头言语、提示词迭代与图像修改实践，揭示[[Epistemological Vigilance\|认识论警觉]]的微观发生机制。
+> - [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] — 依托四层多模态[[Discourse Analysis\|话语分析]]框架（宏观事件切分、中观评价编码、微观多模态互动解析、跨数据[[Triangulation\|三角互证]]），深度剖析初中生在利用 Canva 和 ChatGPT 协同建构[[Scientific Explanation\|科学解释]]时的口头言语、提示词迭代与图像修改实践，揭示[[Epistemological Vigilance\|认识论警觉]]的微观发生机制。

@@ -32,7 +32,7 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 status: draft
 created: 2026-06-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Saturation
@@ -61,7 +61,7 @@ updated: 2026-10-15
 在参与式观察中，饱和为停止观察提供了判断依据（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.6 节]]）。
 
 > [!info] 观察中的饱和标准
-> Adler & Adler（1994, p. 380）指出，当被观察的情境似乎正在重复已经收集到的数据时，可能就到了停止观察的合适时机。但也需注意：
+> Adler and Adler（1994, p. 380）指出，当被观察的情境似乎正在重复已经收集到的数据时，可能就到了停止观察的合适时机。但也需注意：
 > - 在饱和点继续收集数据可能同样重要，以表明观察到行为的总体频率，使研究者能够找到随时间推移最常见到最不常见的行为
 > - 观察次数越多，数据[[Reliability\|信度]]可能越高，使[[Emergence\|涌现]]的类别得以验证
 
@@ -91,5 +91,5 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 将饱和作为[[Qualitative Research\|质性研究]][[Sample Size Determination\|样本量确定]]的核心标准，与预设样本量并列
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 将饱和作为[[Qualitative Research\|质性研究]][[Sample Size Determination\|样本量确定]]的核心标准，与预设样本量并列
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al. (2011, Ch. 23)]] — 将饱和作为参与式观察停止收集数据的判断标准（Adler & Adler, 1994, p. 380），强调在饱和点继续收集以验证[[Emergence\|涌现]]类别的价值（23.6 节）

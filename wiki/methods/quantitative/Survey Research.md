@@ -99,7 +99,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Survey Research
@@ -185,7 +185,7 @@ updated: 2026-10-15
 ### 预注册与研究结果解释
 
 > [!note]-
-> 若研究目标为正式假设检验（confirmatory），应在数据收集前在公共注册库中**[[Preregistration\|预注册]]（Preregistration）**研究计划和假设，以提高[[Quantitative Research\|量化研究]]的准确性和透明度（Nosek et al., 2018; 引自 Creswell & Creswell, 2022, Ch8）。常用注册库包括 Center for Open Science（https://www.cos.io）和 [[National Institutes of Health|NIH]] 的 ClinicalTrials.gov（https://www.clinicaltrials.gov）。
+> 若研究目标为正式假设检验（confirmatory），应在数据收集前在公共注册库中 **[[Preregistration\|预注册]]（Preregistration）** 研究计划和假设，以提高[[Quantitative Research\|量化研究]]的准确性和透明度（Nosek et al., 2018; 引自 Creswell & Creswell, 2022, Ch8）。常用注册库包括 Center for Open Science（https://www.cos.io）和 [[National Institutes of Health|NIH]] 的 ClinicalTrials.gov（https://www.clinicaltrials.gov）。
 
 > [!info]
 > 结果解释包括：报告结果如何回答研究问题或假设（APA, 2020 建议报告完整的描述统计、[[Statistical Significance\|统计显著性]]检验、[[Confidence Interval\|置信区间]]和[[Effect Size\|效应量]]）；将主要发现置于先前研究的语境中讨论；承认实践和研究意义；简要指出研究局限和替代性解释；最后以主要发现及其更广泛的科学和社会重要性收尾（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
@@ -278,7 +278,7 @@ Fowler（2009, p. 15）指出，受访者给出的答案是真实回答加上回
 
 提高邮寄调查回应率的方法包括（Aldridge & Levine, 2001; Fowler, 2009, p. 56）：跟进与礼貌提醒（邮寄、电子邮件、电话）；提前通知调查；预付邮资的回邮信封；机构背书或高地位机构的支持；经济激励；使调查易于阅读和完成；明确说明回答和回邮方式；避免开放式问题（除非确实重要）；使调查外观有吸引力；亲自递送问卷而非邮寄；确保问题和题项非评判性；保证保密性和匿名性。
 
-Cooper & Schindler（2001, pp. 314–315）和 Fowler（2009, p. 58）报告以下因素对回应率影响不大或无明显影响：个性化介绍信、撰写介绍信、匿名承诺、问卷长度（短问卷不一定比长问卷产生更多回收）、问卷尺寸、印刷和颜色、回邮截止日期。
+Cooper and Schindler（2001, pp. 314–315）和 Fowler（2009, p. 58）报告以下因素对回应率影响不大或无明显影响：个性化介绍信、撰写介绍信、匿名承诺、问卷长度（短问卷不一定比长问卷产生更多回收）、问卷尺寸、印刷和颜色、回邮截止日期。
 
 Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送友好提醒；（b）首次提醒 10 天后再发送一次友好提醒；（c）第二次提醒后不久进行电话联系。
 

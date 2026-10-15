@@ -67,7 +67,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Educational Affordances
@@ -183,7 +183,7 @@ updated: 2026-10-15
 > [!concept-lens] 社会技术中介与[[Epistemic Dependence\|认识依赖]]机制
 > 超越微观认知负荷视角，从社会[[Epistemology\|认识论]]视阈审视技术可供性如何通过流畅权威、无摩擦委托与不透明综合重塑主体的知识确证分工。
 
-> [!claim] [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]
+> [!claim] [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]
 > **可供性向有害认识依赖的机制转化** 技术的教育可供性并非决定论式的因果链条，而是通过特定社会技术路径改变认识劳动力分工。当大语言模型的“即时响应”与“语言流畅”等技术可供性与追求效率的考核制度结合时，极易转化为无摩擦委托（压缩论证中间动作）与不透明综合（掩盖证据源头谱系）的中介机制，进而诱发学习者对[[Evaluative Judgement\|评价性判断]]的放弃；唯有当可供性设计满足可质疑性、可恢复性与证据可追溯性时，技术才能兑现为维系关系性主体性的生产性认识依赖。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 4–7)]]
 
 ---
@@ -196,7 +196,7 @@ updated: 2026-10-15
 > | **关系性涌现命题** | 可供性是工具、学习者与任务动态匹配的产物 | 教育技术评估与学习环境设计 | Kirschner et al. (2004) |
 > | **二元张力命题** | 生成式 AI 兼具认知使能与认知外包的双向可供性 | 生成式 AI 高等教育实证研究 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
 > | **教学转化命题** | 结构化教学支架决定潜在可供性向高阶心智的实际转化 | 课堂探究设计与高校教学改革 | Bower (2008); [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] |
-> | **社会认识论中介命题** | 技术可供性通过社会技术中介重构确证分工，决定认识依赖是生产性还是有害性 | [[Man-Computer Symbiosis\|人机协同]]探究、学术诚信与评价改革 | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] |
+> | **社会认识论中介命题** | 技术可供性通过社会技术中介重构确证分工，决定认识依赖是生产性还是有害性 | [[Man-Computer Symbiosis\|人机协同]]探究、学术诚信与评价改革 | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] |
 
 ---
 
@@ -206,7 +206,7 @@ updated: 2026-10-15
 > - **1979 年 — 生态心理学创立** J. J. Gibson 首次提出 Affordance，界定环境为动物提供的行动潜能。
 > - **1988 年 — 人机交互设计转向** Donald Norman 将其引入人机交互领域，强调用户界面的“可感知可供性（Perceived Affordances）”。
 > - **2004–2008 年 — 教育技术学系统化** Paul Kirschner 等提出“教育可供性（Educational Affordances）”，Matt Bower 构建了教育技术可供性匹配框架（Affordance Analysis Matrix）。
-> - **2026 年 — 生成式 AI 认知双重视角与社会[[Epistemology\|认识论]]深化** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] 将可供性拓展为“[[Higher-Order Thinking Skills\|高阶思维]]认知使能与风险规制”的双向[[Analytic Framework\|分析框架]]；[[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 进一步从社会技术中介与社会认识论切入，揭示技术可供性如何重构知识确证劳动力分工并分流生产性依凭与有害依赖。
+> - **2026 年 — 生成式 AI 认知双重视角与社会[[Epistemology\|认识论]]深化** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] 将可供性拓展为“[[Higher-Order Thinking Skills\|高阶思维]]认知使能与风险规制”的双向[[Analytic Framework\|分析框架]]；[[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 进一步从社会技术中介与社会认识论切入，揭示技术可供性如何重构知识确证劳动力分工并分流生产性依凭与有害依赖。
 
 ---
 
@@ -251,4 +251,4 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — 系统构建生成式 AI 促进高等教育批判性与[[Creativity\|创造性思维]]发展的 10 大核心教育可供性分类学。
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — [[Meta-analysis\|元分析]] 35 项[[Experimental Research\|实验研究]]，量化检验 AI [[AI Agent in Education\|智能体]]教育可供性在[[Procedural Skill\|程序技能]]与高阶认知任务中的效应分化。
-> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 系统推演人工智能中介学习环境下技术可供性演化为[[Epistemic Dependence\|认识依赖]]的四重社会技术路径，提出维系关系性[[Epistemic Agency\|认识主体性]]与[[Evaluative Judgement\|评价性判断]]的规范治理框架。
+> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 系统推演人工智能中介学习环境下技术可供性演化为[[Epistemic Dependence\|认识依赖]]的四重社会技术路径，提出维系关系性[[Epistemic Agency\|认识主体性]]与[[Evaluative Judgement\|评价性判断]]的规范治理框架。

@@ -111,7 +111,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **对 [[PISA]] 的批判（Critique of PISA）**是对[[OECD|经济合作与发展组织]]（OECD）国际学生评估项目（[[PISA]]）及其全球治理模式开展的系统性学理反思与跨学科解构体系。该批判涵盖批判教育社会学、比较教育学科史、教育政治经济学与心理测量学等多维视角，核心聚焦于：揭示其“未来技能”[[Construct|构念]]缺乏前瞻实证效度；批判标准化测试强行虚构跨国[[Space of Equivalence|等值空间]]而以统计[[Reliability|信度]]压倒[[Construct Validity|构念效度]]与[[Ontology|本体论]]多样性；抨击“数字即政策”将复杂的政治决断黑箱化，并将教育从民主公民培养装置降解为劳动力市场排位竞争的[[Positional Good|位置性商品]]；谴责去情境化的跨国排名对比较教育历史诠释传统的侵蚀；并解构其数据在各国政治博弈与大众媒介中沦为危机虚构与责任推诿的政治弹药。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–99)]]; [[Argument_Zhao_2020_JEC|(Zhao, 2020)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–452)]]
+> **对 [[PISA]] 的批判（Critique of PISA）** 是对[[OECD|经济合作与发展组织]]（OECD）国际学生评估项目（[[PISA]]）及其全球治理模式开展的系统性学理反思与跨学科解构体系。该批判涵盖批判教育社会学、比较教育学科史、教育政治经济学与心理测量学等多维视角，核心聚焦于：揭示其“未来技能”[[Construct|构念]]缺乏前瞻实证效度；批判标准化测试强行虚构跨国[[Space of Equivalence|等值空间]]而以统计[[Reliability|信度]]压倒[[Construct Validity|构念效度]]与[[Ontology|本体论]]多样性；抨击“数字即政策”将复杂的政治决断黑箱化，并将教育从民主公民培养装置降解为劳动力市场排位竞争的[[Positional Good|位置性商品]]；谴责去情境化的跨国排名对比较教育历史诠释传统的侵蚀；并解构其数据在各国政治博弈与大众媒介中沦为危机虚构与责任推诿的政治弹药。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–99)]]; [[Argument_Zhao_2020_JEC|(Zhao, 2020)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–452)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向全球超国家教育评估在[[Epistemology|认识论]]、度量建构、政治哲学、价值导向与政策动员机制上的内在悖论与外部负效应。
@@ -232,9 +232,9 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **构念拟制命题** | 未来技能缺乏长程实证效度，教育目的被窄化为经济竞争 | PISA 商业化定位与 21 世纪技能话语批判 | Zhao; Hopmann; Sjøberg |
 > | **学科史异化命题** | 跨国指标排名颠覆航海隐喻，侵蚀比较教育历史诠释传统 | 比较教育政策咨询生态与学者学术自主性危机 | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] |
-> | **政治操弄命题** | 庞大数据网络被媒介与政客剪裁为危机虚构与推诿工具 | 英国私有化改革动员与南欧分权推诿政治 | [[Argument_Grey_2018_CE\|Grey & Morris (2018)]]; [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] |
+> | **政治操弄命题** | 庞大数据网络被媒介与政客剪裁为危机虚构与推诿工具 | 英国私有化改革动员与南欧分权推诿政治 | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]]; [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] |
 > | **心理测量局限命题** | 自评问卷效度缺陷导致探究教学[[Causality\|因果关系]]被严重误读 | 课堂教学法争鸣与跨语言 Rasch 测量偏差 | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] |
-> | **等值空间消解命题** | 跨国可比信度优先原则消解了本土构念效度与本体多样性 | 跨国标准化测评工具研发与测量哲学反思 | [[Alain Desrosières\|Desrosières]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] |
+> | **等值空间消解命题** | 跨国可比信度优先原则消解了本土构念效度与本体多样性 | 跨国标准化测评工具研发与测量哲学反思 | [[Alain Desrosières\|Desrosières]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] |
 > | **[[Governing by Numbers\|数字治理]]异化命题** | 数字即政策隐匿政治决断，将教育异化为劳动力排位商品 | 超国家组织远处掌舵与新自由主义教育重构 | [[Nikolas Rose\|Rose]]; Rizvi & Lingard |
 
 ---
@@ -271,10 +271,10 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 从批判政策社会学视角解构[[OECD|经合组织]]如何运用 [[PISA]] 制造全球[[Space of Equivalence|等值空间]]与推行远处掌舵。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 从批判政策社会学视角解构[[OECD|经合组织]]如何运用 [[PISA]] 制造全球[[Space of Equivalence|等值空间]]与推行远处掌舵。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 从比较教育学科史视角批判大规模跨国测验对[[Navigation Metaphor in Comparative Education|航海隐喻]]与历史文化诠释传统的瓦解。
 > - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 系统揭示 PISA 未来技能[[Construct|构念]]的虚构性及其在全球推行新自由主义议程的商业营销机制。
-> - [[Argument_Grey_2018_CE|Grey & Morris (2018)]] — 以英格兰为例分析媒体与政客如何利用[[Falling Standards Template|标准下滑模板]]策略性剪裁 PISA 数据强推争议性私有化法案。
+> - [[Argument_Grey_2018_CE|Grey and Morris (2018)]] — 以英格兰为例分析媒体与政客如何利用[[Falling Standards Template|标准下滑模板]]策略性剪裁 PISA 数据强推争议性私有化法案。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 剖析西班牙政客与自治区如何借助 PISA 数据展开战术性推诿以掩饰激进分权综合学制的平庸。
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 运用多层建模解构 PISA 背景[[Questionnaire|问卷]]效度缺陷导致的探究教学负相关假象与跨语言 Rasch 测量偏差。
 

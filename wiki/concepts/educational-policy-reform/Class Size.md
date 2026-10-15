@@ -185,7 +185,7 @@ updated: 2026-10-16
 > [!concept-lens] 证据聚合与[[Interaction Effect|调节效应]]
 > 探讨方法学质量如何系统性重塑[[Variable|变量]]关联，解释为何控制不佳的研究往往低估而非高估班级规模的实质价值。
 
-> [!claim] Glass & Smith (1978)
+> [!claim] Glass and Smith (1978)
 > **控制质量决定曲线斜率** 格拉斯与史密斯整合 77 项研究与 725 项比较，构建了一条揭示班级规模与[[Academic Achievement|学业成就]]负相关的连续回归曲线。分析显示年级、学科与学生能力的亚组差异均未动摇这一基本形态，唯独**实验控制质量**构成了决定性调节变量：在实验控制充分的研究中，曲线呈现显著陡峭的上升趋势；而在控制不充分的研究中，曲线趋向平缓。这意味着缺乏严格控制的研究系统性低估了小班的真实效果，为分层呈现[[Meta-analysis|元分析]]证据提供了经典范例。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17, pp. 357–360)]]
 
 在经典元分析中，控制质量导致的两条分离曲线提供了关键视觉证据。
@@ -208,7 +208,7 @@ updated: 2026-10-16
 > [!concept-lens] 成本效益与政策替代方案
 > 探讨即便小班具有统计显著正效应，在相同财政约束下是否应优先选择其他更具杠杆作用的教学支持策略。
 
-> [!claim] [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet (2021)]]
+> [!claim] [[Argument_Pellegrini_2021_ECNUROE|Pellegrini and Vivanet (2021)]]
 > **缩班政策的高成本与低边际产出** 法国教育部在弱势地区一、二年级推行班额从 24 人减至 12 人的大规模改革（[[French Class Size Reduction]]），Campbell 协作网元分析显示其阅读效应微弱而数学效应未达统计显著。佩莱格里尼与维瓦内特论断：缩减班额属于财政耗费极高而边际产出相对温和的政策，同等预算若投入高针对性成人个别化辅导或教师循证[[Feedback|教学反馈]]，往往能产生更为强劲的学业补偿效果（pp. 27–28）。
 
 ---
@@ -220,7 +220,7 @@ updated: 2026-10-16
 > [!concept-lens] 人数变化与教学方式的交互机制
 > 探讨班额缩小后教师若未转变教学法，抑或课程体制本身存在深层失范时，物理缩班为何遭遇效果塌陷。
 
-> [!claim] Murnane & Levy (1996); Hattie (2015); [[Argument_Snook_2009_NZJES|Snook et al. (2009)]]; [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]]
+> [!claim] Murnane and Levy (1996); Hattie (2015); [[Argument_Snook_2009_NZJES|Snook et al. (2009)]]; [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]]
 > **教学行为调适是激活小班红利的[[Necessary and Sufficient Conditions|必要条件]]** 德克萨斯州 15 所小学[[Cohort Study|追踪研究]]证实：13 所仅单纯缩减人数而未变动教学法的学校五年后学业无变化，唯独 2 所同步革新探究教学、引入健康支持与家长参与的学校达成了显著学业跃升。[[John Hattie|哈蒂]]指出，教师在小班中往往继续采用大班灌输讲授，是导致平均效应量偏小的核心症结。[[José Luis García Garrido|加西亚·加里多]]在西班牙的宏观分析进一步表明，即便公立学校班级规模和生师比全面优于[[EU|欧盟]]均值，但在均质不分流课程导致学生大面积厌学与纪律溃退的情境下，优渥的班额指标依然无法对冲体制平庸与 33% 的学业失败率。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 101–102)]]; [[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 331–332)]]
 
 ---
@@ -232,9 +232,9 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 来源 |
 > |---|---|---|---|
-> | **方法控制调节** | 班级规模与学业成就呈稳定负相关，实验控制越充分则小班优势越陡峭 | 大规模元分析设计、测量模型校准 | Glass & Smith (1978); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011)]] |
-> | **成本效益约束** | 单纯缩班财政成本极其昂贵，边际效益常逊色于成人定向辅导与教师辅导方案 | 教育公共财政决策、干预方案横向比选 | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] |
-> | **教学与体制交互** | 小班红利严格取决于教学方式的实质转变与课程学制的有机配合 | 教师专业发展、课程体系配套改革 | Murnane & Levy (1996); [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] |
+> | **方法控制调节** | 班级规模与学业成就呈稳定负相关，实验控制越充分则小班优势越陡峭 | 大规模元分析设计、测量模型校准 | Glass and Smith (1978); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011)]] |
+> | **成本效益约束** | 单纯缩班财政成本极其昂贵，边际效益常逊色于成人定向辅导与教师辅导方案 | 教育公共财政决策、干预方案横向比选 | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] |
+> | **教学与体制交互** | 小班红利严格取决于教学方式的实质转变与课程学制的有机配合 | 教师专业发展、课程体系配套改革 | Murnane and Levy (1996); [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] |
 
 ---
 
@@ -285,7 +285,7 @@ updated: 2026-10-16
 > |---|---|---|---|---|---|---|
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 田纳西州 STAR 项目：小班 13–17 人 vs 大班 22–25 人 | 标准化读写与数学测验 | 79 所学校，超 6,000 名学生追踪 | $d = 0.62\text{–}0.66$ | 极显著提升学业增益 | 严格[[Random Assignment\|随机分配]]实验；效果在低年级与少数族裔中最强 |
 > | 同上 | 伦敦班级规模[[Cohort Study\|追踪研究]] | 读写与算术表现 | 199 所小学 / 330 班 / 7,142 名学生 | 未标准化效应 | Reception 阶段显著，Year 1 后衰减 | 自然主义追踪；揭示班级规模对低成就儿童的阶梯保护 |
-> | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] | 法国弱势学校班额减半改革（24 人降至 12 人） | 标准化法语与数学统考成绩 | 优先教育网（REP+）一、二年级群体 | $d \approx 0.08$（阅读） | 阅读微弱显著，数学未达统计显著 | 全国性政策推广；合格师资与校舍制约稀释政策效能 |
+> | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] | 法国弱势学校班额减半改革（24 人降至 12 人） | 标准化法语与数学统考成绩 | 优先教育网（REP+）一、二年级群体 | $d \approx 0.08$（阅读） | 阅读微弱显著，数学未达统计显著 | 全国性政策推广；合格师资与校舍制约稀释政策效能 |
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]]; Molina et al. (2018) | 控制班级规模、教师学科测试与学生家庭背景后的微观教学实践模型 | 学生跨期标准化测试成绩增益 | 巴基斯坦旁遮普省超 1,000 间小学课堂 | $\beta = 0.08\text{–}0.12$ SD | 极显著（$p < .01$） | 计量回归控制班级规模后，教师微观实践仍具稳健预测力 |
 
 ---
@@ -329,7 +329,7 @@ updated: 2026-10-16
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 针对[[John Hattie|哈蒂]][[Meta-analysis|元分析]]平均值视角的系统批判，系统梳理 STAR、伦敦研究与德州 15 校案例中班级规模与教学法交互的实证证据。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch. 17)]] — 详尽解析 Glass & Smith 开拓性元分析案例，阐释控制质量如何系统性重塑班级规模效应曲线的形态与斜率。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 全球[[Classroom Observation|课堂观察]]手册 Teach，在发展中国家超 1,000 间小学计量模型中确立控制班级规模后微观实践的增值预测力，并指出 60–100 人超大班额对时间快照测量的挑战。
-> - [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet (2021)]] — 综合 Campbell 协作网多项元分析，基于法国缩班政策论证缩减班额的高成本与有限边际收益。
+> - [[Argument_Pellegrini_2021_ECNUROE|Pellegrini and Vivanet (2021)]] — 综合 Campbell 协作网多项元分析，基于法国缩班政策论证缩减班额的高成本与有限边际收益。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 比较教育经典专著，以西班牙为例实证揭示优渥的班级规模和生师比指标难掩统一不分流学制的深层平庸与纪律溃退。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 汇聚安德森-莱维特等跨国[[Ethnography|民族志]]，阐明全球南方极端大班额作为阻滞西方通用教学法落地的物质基础设施约束。
 > - [[Argument_ONeill_2012_NZJES|O'Neill (2012)]] — 剖析新西兰财政部借生师比证据推行紧缩政策的多重[[Material Fallacies|实质谬误]]与对哈蒂原意的断章取义。

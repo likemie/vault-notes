@@ -319,7 +319,7 @@ updated: 2026-10-16
 > - **教育转化的漫长滞后与归因挑战** 医药卫生领域从新证据发表到临床实质采纳的平均时间滞后长达 17 年，而教育领域的因果链路更为曲折弥散；这一实证警示揭示了从教师认知转变到学生统考[[Academic Achievement\|学业成绩]]显著提升之间存在漫长的因果时滞，全系统治理不可期望通过短期干预产生立竿见影的奇迹。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 117–118)]]
 
 > [!finding-cards] 关键成效与[[Paradigm\|范式]]演变
-> - **确立新一代生态型中介范式** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] 与 [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] 一致指出，EEF 突破了早期美国 [[What Works Clearinghouse\|WWC]] 单纯依靠网站被动推送[[Abstract\|研究摘要]]的线性局限，首次将证据资助、转译、传播与一线的[[Research Schools Network\|研究学校网络]]深度绑定，构建起当代最完备的[[Evidence-Informed Practice\|证据知情实践]]生态系统。
+> - **确立新一代生态型中介范式** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] 与 [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] 一致指出，EEF 突破了早期美国 [[What Works Clearinghouse\|WWC]] 单纯依靠网站被动推送[[Abstract\|研究摘要]]的线性局限，首次将证据资助、转译、传播与一线的[[Research Schools Network\|研究学校网络]]深度绑定，构建起当代最完备的[[Evidence-Informed Practice\|证据知情实践]]生态系统。
 > - **严密的独立评估防火墙** 实行干预开发者与评估者彻底剥离的制度设计，显著遏制了商业课程机构自卖自夸所带来的[[Publication Bias\|发表偏倚]]与[[Effect Size\|效应量]]虚高。
 
 > [!stat-cards]- 核心规模数据
@@ -350,13 +350,13 @@ updated: 2026-10-16
 > > [!axis] 实证科学标杆 vs [[Evidence Era\|证据时代]]“[[Rationalized Myth\|合理化神话]]”的工具化风险
 > > 探讨 EEF 所代表的实验证据究竟是提升了政策理性，还是被政府作为获取合法性的仪式化象征符号。
 > >
-> > - **[[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]]** 指出，EEF 的 [[Randomised Controlled Trials\|RCT]] 证据与工具包在客观上构建了[[Evidence Era\|证据时代]]的主导性[[Rationalized Myth\|合理化神话]]；但当证据进入政治[[Champ\|场域]]时，政府通过[[Gatekeepers\|把关人]]机制和适宜性逻辑选择性采纳，甚至催生了[[Policy-Based Evidence-Making\|基于政策的证据制造]]，使严谨实验往往被异化为预设立场的合法化修辞。
+> > - **[[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]]** 指出，EEF 的 [[Randomised Controlled Trials\|RCT]] 证据与工具包在客观上构建了[[Evidence Era\|证据时代]]的主导性[[Rationalized Myth\|合理化神话]]；但当证据进入政治[[Champ\|场域]]时，政府通过[[Gatekeepers\|把关人]]机制和适宜性逻辑选择性采纳，甚至催生了[[Policy-Based Evidence-Making\|基于政策的证据制造]]，使严谨实验往往被异化为预设立场的合法化修辞。
 > > - **EEF 官方及[[Positivism\|实证主义]]支持者** 强调[[Preregistration\|预注册]]、[[Evaluator Independence\|第三方独立评估]]与全样本 NPD 归档建立了最严格的科学防火墙，有效遏制了虚假干预，为公共财政与弱势学生提供了最可靠的保护。
 >
 > > [!axis] 跨国私人资本渗透与教育[[Knowledge Production\|知识生产]]自主性危机
 > > 探讨企业慈善基金会（如[[BHP Foundation\|必和必拓基金会]]）注资对主权国家公共教育主权的潜在侵蚀。
 > >
-> > - **学术批判** [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] 尖锐指出，EEF 借助跨国矿业寡头资本构建全球[[Evidence Network\|证据网络]]，其推崇的标准化循证模式实质上将主权国家的教师教育大纲（如澳大利亚《强劲开端》报告）卷入新自由主义[[Policy Network\|理念编排]]，造成教育知识生产的隐性政治偏向。
+> > - **学术批判** [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] 尖锐指出，EEF 借助跨国矿业寡头资本构建全球[[Evidence Network\|证据网络]]，其推崇的标准化循证模式实质上将主权国家的教师教育大纲（如澳大利亚《强劲开端》报告）卷入新自由主义[[Policy Network\|理念编排]]，造成教育知识生产的隐性政治偏向。
 >
 > > [!axis] 财政溯源伦理悖论与跨国企业资本洗白（免费校餐沉淀资金 vs 弱势儿童救助修辞）
 > > 探讨 EEF 崇高的公平与证据[[Discourse|话语]]是否掩盖了紧缩财政削减弱势儿童直接福利以及为跨国企业资本漂绿的深层矛盾。
@@ -391,7 +391,7 @@ updated: 2026-10-16
 > 批判实在论与[[Realist Evaluation\|实在论评估]]（Realist Evaluation）表明，教育干预是否产生积极效果，在本体论上恰恰取决于教师在具体微观情境中的[[Professional Judgment\|专业判断]]（Professional Judgment）以及学生的能动性反应。将能动性视为实验污染物的[[Positivism\|实证主义]]进路，在根本上背离了教育实践的开放系统属性([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, pp. 6–7]])。
 
 > [!critique-logic]- 案例四：内部方法学反思——常态对照基线高企与规模化效应递减（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 56–57]]）
-> EEF 资深评估团队自述揭示：Lortie-Forgues & Inglis (2019) 重新分析 EEF 与[[National Center for Education Evaluation and Regional Assistance\|国家教育评估与区域援助中心]]（National Center for Education Evaluation and Regional Assistance，NCEE）资助的 141 项 RCT 发现平均效应量仅为 $0.06$ 标准差。面对极少有干预能显著胜过[[Business as Usual\|常态教学]]（business as usual）的质疑，EEF 反思指出：一方面，缺乏显著正效应往往反映了常态学校教学本身的高水准基线，识别哪些流行做法无效对于避免公共资金浪费具有同等重要的价值；另一方面，干预在小规模[[Efficacy Trial\|效力试验]]（efficacy）阶段的显著成效往往难以在大规模效果试验（effectiveness）阶段复现，统计功效所需的大样本迫使提供方过快扩张，从而稀释了教师培训与[[Implementation Fidelity\|实施保真度]]，催生了向现实主义试验与适应性设计演进的迫切诉求。
+> EEF 资深评估团队自述揭示：Lortie-Forgues and Inglis (2019) 重新分析 EEF 与[[National Center for Education Evaluation and Regional Assistance\|国家教育评估与区域援助中心]]（National Center for Education Evaluation and Regional Assistance，NCEE）资助的 141 项 RCT 发现平均效应量仅为 $0.06$ 标准差。面对极少有干预能显著胜过[[Business as Usual\|常态教学]]（business as usual）的质疑，EEF 反思指出：一方面，缺乏显著正效应往往反映了常态学校教学本身的高水准基线，识别哪些流行做法无效对于避免公共资金浪费具有同等重要的价值；另一方面，干预在小规模[[Efficacy Trial\|效力试验]]（efficacy）阶段的显著成效往往难以在大规模效果试验（effectiveness）阶段复现，统计功效所需的大样本迫使提供方过快扩张，从而稀释了教师培训与[[Implementation Fidelity\|实施保真度]]，催生了向现实主义试验与适应性设计演进的迫切诉求。
 
 ---
 
@@ -437,10 +437,10 @@ updated: 2026-10-16
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 追踪[[Venture Philanthropy\|风险慈善]]在公立教育中的兴起，揭示 EEF 创始背景与麦肯锡全球网络的渊源、联合澳大利亚联邦银行向 [[Evidence for Learning\|E4L]] 注资搭建私营试验原型的机制，以及 EEF 创始 CEO 凯文·柯林斯入驻 [[Australian Education Research Organisation\|AERO]] 专家委员会实现跨国[[Policy Network\|政策网络]]闭环的制度过程。
 > - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 比较英格兰、苏格兰与德国汉堡 34 所中小学的 53 名[[School Leadership\|学校领导]]者经验，揭示英格兰高利害督导与市场化问责体制如何异化 EEF 工具包为表演性合规的防御工具与财政紧缩下的裁员借口。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 揭示 EEF 财政溯源悖论（源自削减免费校餐沉淀资金）、母体[[Sutton Trust\|萨顿信托]]与 [[Impetus]] 的跨国金融资本网络及向澳大利亚（[[Social Ventures Australia\|SVA]]/[[Evidence for Learning\|E4L]]/[[Australian Education Research Organisation\|AERO]]）的制度输出。
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 详述 EEF 作为英格兰证据中介旗舰的创设经纬、留本基金运作、[[Randomised Controlled Trials\|RCT]] 试验资助与[[Research Schools Network\|研究学校网络]]（RSN）治理架构。
-> - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] — 批判 EEF 与澳大利亚 AERO 等[[Policy Network\|政策网络]]如何将[[Cognitive Load Theory\|认知负荷理论]]等特定学说编排为强制教师教育国家标准。
-> - [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] — 剖析 EEF 在英格兰教师教育政策网络中作为“[[Rationalized Myth\|合理化神话]]”的功能及政治[[Champ\|场域]]中的选择性证据利用。
-> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 比较[[OECD\|经合组织]]（OECD）视野下 EEF 克服传统线性清算中心局限、迈向生态型证据中介的系统经验。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详述 EEF 作为英格兰证据中介旗舰的创设经纬、留本基金运作、[[Randomised Controlled Trials\|RCT]] 试验资助与[[Research Schools Network\|研究学校网络]]（RSN）治理架构。
+> - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] — 批判 EEF 与澳大利亚 AERO 等[[Policy Network\|政策网络]]如何将[[Cognitive Load Theory\|认知负荷理论]]等特定学说编排为强制教师教育国家标准。
+> - [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] — 剖析 EEF 在英格兰教师教育政策网络中作为“[[Rationalized Myth\|合理化神话]]”的功能及政治[[Champ\|场域]]中的选择性证据利用。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 比较[[OECD\|经合组织]]（OECD）视野下 EEF 克服传统线性清算中心局限、迈向生态型证据中介的系统经验。
 > - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — 评析 EEF 工具包的学校决策渗透率及研究学校网络（RSN）三年独立评估的因果时滞。
 > - [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] — 从[[Critical Realism\|批判实在论]]视阈核查 EEF 新起点拼读试验的数据包装缺陷与助教排行榜的去情境化误区。
 > - [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] — 记录美国 [[Every Student Succeeds Act\|ESSA]] [[Title I of the Elementary and Secondary Education Act\|Title I]] 经费审计中将 EEF 视同 [[What Works Clearinghouse\|WWC]] 的国际权威实证。

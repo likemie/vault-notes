@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Crotty's Four Levels of Research Design
@@ -61,7 +61,7 @@ updated: 2026-10-15
 
 ## 在方法论中的运用
 
-[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p.71)]] 使用 Crotty 的四层框架来区分世界观与理论。世界观在最上层，涉及研究者的信念和价值观，在抽象层面运作。理论在第二层，较不抽象，从文献中提取，为研究设计的诸多方面提供具体指导。从理论出发，再到方法论路径，最后到具体的数据收集方法。这四层之间存在自上而下的逻辑关系——每一层的选择都约束和引导着下一层的决策。
+[[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022, p.71)]] 使用 Crotty 的四层框架来区分世界观与理论。世界观在最上层，涉及研究者的信念和价值观，在抽象层面运作。理论在第二层，较不抽象，从文献中提取，为研究设计的诸多方面提供具体指导。从理论出发，再到方法论路径，最后到具体的数据收集方法。这四层之间存在自上而下的逻辑关系——每一层的选择都约束和引导着下一层的决策。
 
 > [!example] 示例
 > 一项[[Mixed Methods Research\|混合方法研究]]可能沿着四层展开：世界观层采用[[Pragmatic Paradigm\|实用主义]] → 理论透镜层采用女性主义视角 → 方法论路径层选择混合方法[[Convergent Design\|聚敛式设计]] → 数据收集方法层同时使用 Likert 量表[[Questionnaire\|问卷]]和[[Semi-structured Interview\|半结构化访谈]]。

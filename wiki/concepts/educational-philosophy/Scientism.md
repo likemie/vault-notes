@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Scientism
@@ -161,7 +161,7 @@ updated: 2026-10-15
 > [!concept-lens] 测量中心的科学主义机制
 > 这是教育研究与政策治理中最显著的科学主义形态：通过将量化指标等同于存在价值、以技术层级替代价值判断来运作。核心争点在于教育研究是否允许多元证据形态共同参与[[Knowledge Production\|知识生产]]。
 
-> [!claim] [[Argument_Johnson_2023_CE\|Johnson & Janzen (2023)]]
+> [!claim] [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]]
 > **可见学习的量化包装与[[Ecological Validity\|生态效度]]丧失** [[John Hattie\|约翰·哈蒂]]（John Hattie）的可见学习以海量数据库、精美图表与[[Meta-analysis\|元分析]]统计营造出无可挑剔的科学外观，其底层方法论却存在不透明与不可验证的缺陷，却宣称找到了教育探究的终极“圣杯”。丹尼斯·菲利普斯（D. C. Phillips, 2014）指出，物理科学受控实验的方法论假设根本无法机械移植到充满多元[[Variable\|变量]]的真实课堂之中：物理实验可以通过人工隔离排除干扰变量，但在教室环境中，情境变量本身就是承载师生主体意义与教育价值的核心要素——人为控制或滤除变量将彻底摧毁探究的[[Ecological Validity\|生态效度]]（[[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023, pp. 34–35]]）。
 
 > [!claim] Hayek (1942)
@@ -269,7 +269,7 @@ updated: 2026-10-15
 > > - **拉斯特等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）多元反思立场** 揭示跨国探究受制于斯梅尔瑟（Smelser, 1976）指出的“[[Dissimilar Units|非同质单位]]”与“无法受控实验”客观约束，任何单一科学主义垄断都会导致对异质现实的误读；比较研究最终必然走向多[[Paradigm|范式]]并存的“健康多元主义”。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 122–126)]]
 
 > [!critique] 科学主义对教育生态的系统性损害
-> [[Positivism|实证主义]]与科学主义对统一控制和狭隘工具理性的狂热追求，对教育实践中开放、生成、[[Creativity|创造性]]与人道关怀的生态造成了不可逆的破坏。哈耶克强调，学生与教师是具有能动诠释能力的自由个体，根据对情境意义的主观建构采取行动，任何试图将教育改造为工业受控流水线的技术工程，最终都只能以牺牲教育的本真价值为代价。[[Argument_Johnson_2023_CE|Johnson & Janzen (2023, p. 27)]]
+> [[Positivism|实证主义]]与科学主义对统一控制和狭隘工具理性的狂热追求，对教育实践中开放、生成、[[Creativity|创造性]]与人道关怀的生态造成了不可逆的破坏。哈耶克强调，学生与教师是具有能动诠释能力的自由个体，根据对情境意义的主观建构采取行动，任何试图将教育改造为工业受控流水线的技术工程，最终都只能以牺牲教育的本真价值为代价。[[Argument_Johnson_2023_CE|Johnson and Janzen (2023, p. 27)]]
 
 ---
 
@@ -277,7 +277,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1)]] — 在经典研究方法教科书中系统梳理了法兰克福学派[[Jürgen Habermas|哈贝马斯]]与霍克海默、克尔凯郭尔、扬斯及维特根斯坦对科学主义与量化迷思的批判脉络。
-> - [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]] — 以[[John Hattie|哈蒂]]的可见学习为典型案例，解构了当代教育治理中测量中心主义科学主义的意识[[Discourse|话语]]机制与政策后果。
+> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 以[[John Hattie|哈蒂]]的可见学习为典型案例，解构了当代教育治理中测量中心主义科学主义的意识[[Discourse|话语]]机制与政策后果。
 > - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 IB [[Theory of Knowledge|TOK]] 课程为解剖对象，揭示科学主义如何通过课程评价框架与评分细则实施隐性[[Paradigm|范式]][[Disciplina and Doctrina|规训]]。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 阐明科学主义批判的高度情境依赖性，揭示科学在不同地缘文明与历史时期的权力[[Heterogeneity|异质性]]。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理比较教育学自 1960 年代诺亚与埃克斯坦以来追求“科学化”的历程，分析自然情境与[[Dissimilar Units|非同质单位]]带来的[[Epistemology|认识论]]约束，实证展示实证科学主义单一垄断向[[Pluralism|健康多元主义]]转型的知识轨迹。

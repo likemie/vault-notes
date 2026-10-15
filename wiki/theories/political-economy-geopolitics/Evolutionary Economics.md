@@ -89,7 +89,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Evolutionary Economics
@@ -121,12 +121,12 @@ updated: 2026-10-15
 > [!dev-timeline] 演化经济学思想演化脉络
 > - **1841/1995 — 思想史先声与李斯特传统** 李斯特批判古典物质资本观，确立国家智力资本与教育培训积累的演化追赶逻辑。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–7)]]
 > - **1911/1942 — 熊彼特奠基** 提出创新与企业家精神是打破循环流转的动态力量，阐述创造性破坏机制。
-> - **1982 — 演化经济学正式成型** Nelson & Winter（1982）发表奠基作，建立基于有限理性、搜寻规则与组织惯例的微观演化建模体系。
+> - **1982 — 演化经济学正式成型** Nelson and Winter（1982）发表奠基作，建立基于有限理性、搜寻规则与组织惯例的微观演化建模体系。
 > - **1984–1988 — 技术范式与产业分类学确立** [[Argument_Pavitt_1984_RP|Pavitt (1984)]] 提出创新模式分类；Dosi（1982, 1988）确立技术范式与技术轨迹理论。
 > - **1987/1995 — [[National Innovation System|国家创新系统]]与长波范式演进** Freeman（1987, 1995）与 Lundvall 将演化视角注入国家与[[Regional Innovation System|区域创新系统]]；[[Argument_Freeman_1995_CJE|Freeman (1995)]]系统论证[[General Purpose Technology|通用技术]]范式引发的制度滞后，确立制度多样性试错避免路径锁定的演化价值。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 17–19)]]
-> - **2016 — 跨国经验微观[[Heterogeneity|异质性]]再验证** [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]] 利用大样本微观数据证实产业间与产业内部持久存在的异质性规律。
+> - **2016 — 跨国经验微观[[Heterogeneity|异质性]]再验证** [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino and Pianta (2016)]] 利用大样本微观数据证实产业间与产业内部持久存在的异质性规律。
 > - **2018 — 市场塑造与 ROAR 政策框架** [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] 将演化经济学推进为超越[[Market Failure|市场失灵]]修补的主动市场共创与 ROAR 政策框架。
-> - **2018 — 公共部门动态能力与引领学习范式** [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] 突破传统私营企业能力局限，建立国家、政策与行政三层[[Public Dynamic Capabilities|公共部门动态能力]]矩阵，确立演化政策的[[Lead-and-Learn Paradigm|引领与学习范式]]。
+> - **2018 — 公共部门动态能力与引领学习范式** [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] 突破传统私营企业能力局限，建立国家、政策与行政三层[[Public Dynamic Capabilities|公共部门动态能力]]矩阵，确立演化政策的[[Lead-and-Learn Paradigm|引领与学习范式]]。
 
 ---
 
@@ -223,7 +223,7 @@ updated: 2026-10-15
 > [!concept-lens] 演化选择环境与[[Public Dynamic Capabilities|公共动态能力]]
 > 传统演化经济学主要关注企业在既定市场环境中的微观惯例变异与试错，忽视了公共部门自身同样具有演化能力，能够主动开辟搜索空间并重构选择环境。
 
-> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
+> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **公共动态能力与引领学习范式命题** 演化经济学不仅适用于私营企业与市场竞争，更必须向公共部门治理深度延伸。莱纳·[[Rainer Kattel|卡特尔]]与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]指出，应对 21 世纪的复杂[[Grand Challenges|重大挑战]]，公共部门必须综合[[Joseph Schumpeter|熊彼特]]式探索与利用双元动态能力与韦伯式国家能力，在国家政治合法性、政策协同组合与行政敏捷流动三个层级构建[[Public Dynamic Capabilities|公共部门动态能力]]，推动公共治理从[[New Public Management|新公共管理]]被动的“支持与衡量”模式，彻底转向主动开辟新市场、培育多元自下而上探索并实现组织进化的“[[Lead-and-Learn Paradigm|引领与学习]]”范式。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–791, 795–798)]]
 
 ---
@@ -243,25 +243,25 @@ updated: 2026-10-15
 > [!contrast-table] 命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
-> | **微观异质性常态命题** | 论证企业生产率与创新能力差异是经济演化的本体性驱动力 | 产业经济学实证建模、全要素生产率测算与异质性分析 | [[Argument_Bogliacino_Pianta_2016_EP\|Bogliacino & Pianta (2016)]]; Nelson & Winter (1982) |
+> | **微观异质性常态命题** | 论证企业生产率与创新能力差异是经济演化的本体性驱动力 | 产业经济学实证建模、全要素生产率测算与异质性分析 | [[Argument_Bogliacino_Pianta_2016_EP\|Bogliacino and Pianta (2016)]]; Nelson and Winter (1982) |
 > | **技术轨迹决定命题** | 阐明不同产业因知识基础与搜寻模式差异形成稳定的分类模式 | 产业技术政策制定、创新模式分类与跨国[[Competitiveness\|竞争力]]比较 | [[Argument_Pavitt_1984_RP\|Pavitt (1984)]]; Dosi (1982, 1988) |
 > | **激进不确定性与路径依赖** | 揭示颠覆性创新在技术与制度空间中的历史锁定与失败必然性 | 国家重大科技专项论证、清洁能源转型与风险投资管理 | 纳尔逊–温特演化学派; [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
 > | **主动市场塑造与共创命题** | 论证国家作为前瞻引领者和市场共创者在推动系统转型中的关键角色 | [[Mission-Oriented Innovation Policy\|使命导向创新政策]]、公共开发性金融投资与公私合作契约设计 | [[Mariana Mazzucato\|马祖卡托（市场塑造理论）]]; Perez (2002) |
-> | **公共动态能力与引领学习** | 综合熊彼特双元动态能力与韦伯国家能力，以三层能力矩阵驱动制度进化 | 突破[[Complexity Paradox\|复杂性悖论]]、国家创新机构改革与敏捷数字化转型 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018)]] |
-> | **长波范式转型与制度多样性** | 阐明通用技术颠覆引发的制度滞后，确立制度多样性试错避免路径锁定的演化价值 | 通用技术范式跃迁、[[National Innovation System\|国家创新体系]]长周期制度重构与宏观政策试验 | [[Argument_Freeman_1995_CJE\|Freeman (1995)]]; Freeman & Perez (1988) |
+> | **公共动态能力与引领学习** | 综合熊彼特双元动态能力与韦伯国家能力，以三层能力矩阵驱动制度进化 | 突破[[Complexity Paradox\|复杂性悖论]]、国家创新机构改革与敏捷数字化转型 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]] |
+> | **长波范式转型与制度多样性** | 阐明通用技术颠覆引发的制度滞后，确立制度多样性试错避免路径锁定的演化价值 | 通用技术范式跃迁、[[National Innovation System\|国家创新体系]]长周期制度重构与宏观政策试验 | [[Argument_Freeman_1995_CJE\|Freeman (1995)]]; Freeman and Perez (1988) |
 
 ---
 
 ## 理论应用与操作化
 
 > [!feature] 演化经济学在创新与公共政策领域的关键[[Operationalization|操作化]]应用
-> - **中观产业分类与[[Heterogeneity|异质性]]测度** [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]] 基于演化经济学对异质性的理论强调，利用多国制造业与服务业微观数据，通过主成分分析与计量回归验证了 [[Pavitt Taxonomy|Pavitt 分类法]]在解释技术创新投入与经济绩效转化上的稳健因果力。（pp. 170–175）
+> - **中观产业分类与[[Heterogeneity|异质性]]测度** [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino and Pianta (2016)]] 基于演化经济学对异质性的理论强调，利用多国制造业与服务业微观数据，通过主成分分析与计量回归验证了 [[Pavitt Taxonomy|Pavitt 分类法]]在解释技术创新投入与经济绩效转化上的稳健因果力。（pp. 170–175）
 > - **创新与就业动态机制分析** Bogliacino & Pianta（2010, 2011, 2013）基于演化框架区分了“技术[[Competitiveness|竞争力]]”（以产品创新开辟新市场、带动高质量就业）与“成本竞争力”（以流程创新压缩用工成本）两条异质演化路径。
 > - **国家[[Systems of Innovation|创新系统]]（[[National Innovation System|NIS]]）治理** Lundvall（1992）与 Nelson（1993）将演化视角落地为对大学、企业、政府与中介机构间网络交互与制度适配性的诊断，推动政策从资助单一主体转向修补系统失灵。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 29–31)]]
 > - **[[Mission-Oriented Innovation Policy|使命导向创新政策]]与 ROAR 框架** [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] 将演化经济学发展为应对重大社会挑战的操作工具，建立涵盖战略路径（Routes）、组织能力（Organizations）、动态评估（Assessment）与风险收益共享（Risks and rewards）的系统工具箱。
-> - **公共部门三层动态能力矩阵与敏捷实验治理** [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] 将演化经济学的动态能力逻辑拓展至公共管理，建立国家政治愿景、跨部门政策组合与行政敏捷团队三层操作化分析构架，为公共机构打破条块分割、开展[[Randomised Controlled Trials|随机对照试验]]（RCT）与以人为本的服务设计提供指导。（pp. 795–798）
+> - **公共部门三层动态能力矩阵与敏捷实验治理** [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] 将演化经济学的动态能力逻辑拓展至公共管理，建立国家政治愿景、跨部门政策组合与行政敏捷团队三层操作化分析构架，为公共机构打破条块分割、开展[[Randomised Controlled Trials|随机对照试验]]（RCT）与以人为本的服务设计提供指导。（pp. 795–798）
 > - **21 世纪现代产业战略过程准则与实验治理** [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] 将演化经济学关于组织惯例学习、试错搜寻与动态能力的洞见转化为指导国家产业政策执行的“七项过程准则”（Seven Process Criteria），强调通过[[Embedded Autonomy|嵌入式自主性]]、跨部门敏捷协调、公私协同共创与动态政策迭代应对激进技术与地缘不确定性。（pp. 6–9）
-> - **长波[[General Purpose Technology|通用技术]][[Paradigm|范式]]与制度调适评估** [[Argument_Freeman_1995_CJE|Freeman (1995)]] 与 Freeman & Perez（1988）将演化经济学操作化为分析工业革命中通用技术扩散与国家制度适配性的长波历史分析工具，为诊断技术超前与制度滞后之间的结构性矛盾提供指南。（pp. 17–19）
+> - **长波[[General Purpose Technology|通用技术]][[Paradigm|范式]]与制度调适评估** [[Argument_Freeman_1995_CJE|Freeman (1995)]] 与 Freeman and Perez（1988）将演化经济学操作化为分析工业革命中通用技术扩散与国家制度适配性的长波历史分析工具，为诊断技术超前与制度滞后之间的结构性矛盾提供指南。（pp. 17–19）
 
 ---
 
@@ -273,7 +273,7 @@ updated: 2026-10-15
 > > 新古典经济学主流学者批评演化经济学依赖[[Computer Simulation|计算机仿真]]模拟和历史叙事，缺乏解析性（Analytical）的封闭数学均衡解；演化学者反驳指出，为了数学上的优雅而强行假设代表性企业与市场出清完全是对经济现实的歪曲。
 > >
 > > - **Lucas / Solow** 坚持宏观经济模型必须具备基于最优化行为的微观基础。
-> > - **Nelson & Winter (1982)** 强调经济系统的非线性和[[Path Dependence|路径依赖]]使得计算机仿真比封闭方程更能真实再现产业演化动力学。
+> > - **Nelson and Winter (1982)** 强调经济系统的非线性和[[Path Dependence|路径依赖]]使得计算机仿真比封闭方程更能真实再现产业演化动力学。
 >
 > > [!axis] 国家[[Market Shaping and Creating|市场塑造]]能力与政治寻租风险
 > > 演化经济学赋予国家在市场塑造中极其积极的主导角色，受到公共选择学派与自由主义经济学家的强烈质疑，担忧政府方向设定演化为行政垄断与权力寻租。
@@ -316,10 +316,10 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 从经济思想史与演化经济学长波视角考证[[Friedrich List|李斯特]][[Intellectual Capital|知识资本]]渊源，以德英美日苏韩巴长周期比较论证技术差距、企业研发建制化与制度多样性试错对后发赶超与打破路径锁定的决定性作用。
-> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 综合演化动态能力与韦伯国家能力，提出三层[[Public Dynamic Capabilities|公共部门动态能力]]分析矩阵与引领和学习治理[[Paradigm|范式]]。
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 综合演化动态能力与韦伯国家能力，提出三层[[Public Dynamic Capabilities|公共部门动态能力]]分析矩阵与引领和学习治理[[Paradigm|范式]]。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 将演化经济学推进为超越[[Market Failure|市场失灵]]修补的主动[[Market Shaping and Creating|市场塑造]]理论与 ROAR 政策[[Analytic Framework|分析框架]]。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 阐释演化经济学在 21 世纪美国现代产业战略中的制度实践，提炼保障产业政策有效落地与组织动态适应的七项过程准则。
-> - [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]] — 基于大样本微观数据实证检验微观[[Heterogeneity|异质性]]常态与 Pavitt 四大[[Technological Trajectories|技术轨迹]]。
+> - [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino and Pianta (2016)]] — 基于大样本微观数据实证检验微观[[Heterogeneity|异质性]]常态与 Pavitt 四大[[Technological Trajectories|技术轨迹]]。
 > - [[Argument_Pavitt_1984_RP|Pavitt (1984)]] — 提出塑造技术轨迹的三大核心要素，奠定演化经济学中观产业分类学的经典基石。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 梳理演化经济学与[[Innovation Policy Paradigms|创新政策三范式]]演进脉络，分析国家[[Systems of Innovation|创新系统]]中大学角色的转变。
 

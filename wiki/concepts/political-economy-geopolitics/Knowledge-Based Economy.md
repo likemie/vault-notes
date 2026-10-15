@@ -242,7 +242,7 @@ updated: 2026-10-16
 > | **主体性规训** | 通过技能话语将劳动力市场风险转化为个体终身投资义务 | [[Lifelong Learning\|终身学习]]、继续教育、自我企业家精神 | [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022)]]; [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] |
 > | **评价断裂悖论** | 宏观政策高阶能力宣示与微观学业考核事实导向严重脱节 | 高教质量保障、学习增益测量、考试制度改革 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] |
 > | **网络治理与虚构商品** | 后工业巴斯德象限创新驱动国家向网络经纪转型，但知识商品化阻滞了跨组织协同 | [[National Innovation System\|国家创新体系]]转型、产学研联合攻关与知识产权制度反思 | [[Argument_Block_2008_PS\|Block (2008)]] |
-> | **社会想象与社会价值重构** | 国际组织[[Constructed Knowledge\|建构知识]]经济社会想象，推动“知其所以操作”转型并将公平与社会凝聚力工具化 | 跨国教育政策[[Discourse Analysis\|话语分析]]、OECD 指标治理、性别与社会资本政策批判 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] |
+> | **社会想象与社会价值重构** | 国际组织[[Constructed Knowledge\|建构知识]]经济社会想象，推动“知其所以操作”转型并将公平与社会凝聚力工具化 | 跨国教育政策[[Discourse Analysis\|话语分析]]、OECD 指标治理、性别与社会资本政策批判 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] |
 
 ---
 
@@ -302,7 +302,7 @@ updated: 2026-10-16
 > - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] — 揭示后福特永久创新经济如何驱动[[Further Education|继续教育]]与企业培训的结构性膨胀。
 > - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] — 比较新加坡与[[UAE Education Hub Projects|阿联酋教育枢纽]]，批判 KBE 话语掩盖制度建设不足的深层缺陷。
 > - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] — 揭示 21 世纪技能话语作为 KBE 在个体主体性层面的微观[[Operationalization|操作化]]与[[Self-Entrepreneur|自我企业家]][[Disciplina and Doctrina|规训]]。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 剖析 OECD 如何依托新增长理论[[Constructed Knowledge|建构知识]]经济的全球[[Social Imaginary|社会想象]]，推动学习向操作性技能与学习型经济转型，并将性别平权与社会凝聚力重构为经济效率工具。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 剖析 OECD 如何依托新增长理论[[Constructed Knowledge|建构知识]]经济的全球[[Social Imaginary|社会想象]]，推动学习向操作性技能与学习型经济转型，并将性别平权与社会凝聚力重构为经济效率工具。
 
 ---
 
@@ -326,6 +326,6 @@ updated: 2026-10-16
 > | [[Fred Block]] | Person | 提出发展型网络国家理论并从波兰尼虚构商品视角批判知识商品化的经济社会学家。 |
 > | [[OECD]] | Fact | 全球推动知识经济政策[[Discourse\|话语]]、制定创新与教育量化标准的跨国家组织中枢。 |
 > | [[PISA]] | Fact | 评估知识经济所需年轻一代[[Problem Solving\|问题解决]]与关键素养的全球基准测试。 |
-> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] | Argument | 解构经合组织知识经济社会想象建构与社会价值工具化收编的经典文献。 |
+> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] | Argument | 解构经合组织知识经济社会想象建构与社会价值工具化收编的经典文献。 |
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | Argument | 论证自动化与知识经济背景下高等教育高阶思维素养评价生态转型的国际报告。 |
 > | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 剖析后工业知识经济非线性创新特征与发展型网络国家治理的经典研究。 |

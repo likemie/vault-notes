@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # John W. Creswell
@@ -185,7 +185,7 @@ updated: 2026-10-15
 克雷斯维尔的学说在当代权威教材与方法论文献中保持着极高的引证频次。
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 《研究设计》第六版，全面呈现世界观三维模型、量化与质性技术以及混合方法设计的最新标准化表述。
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 《研究设计》第六版，全面呈现世界观三维模型、量化与质性技术以及混合方法设计的最新标准化表述。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 28)]] — 在教育研究哲学全景中引述克雷斯维尔的三大核心混合设计类型学与[[Pragmatic Paradigm\|实用主义]]整合逻辑。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011, Ch. 10, p. 261)]] — 系统评析克雷斯维尔与普拉诺·克拉克的混合设计拓扑学、时间规划策略与数据整合实践。
 
 ---
@@ -222,7 +222,7 @@ updated: 2026-10-15
 
 > [!critique] 批判索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011, Ch. 10, pp. 261–263)]] — 系统记录针对[[Mixed Methods Research\|混合方法]]标准化设计是否掩盖认识论冲突的学理反思。
-> - Tashakkori & Teddlie (2010) — 探讨混合方法设计分类法在具体跨学科应用中的演化边界。
+> - Tashakkori and Teddlie (2010) — 探讨混合方法设计分类法在具体跨学科应用中的演化边界。
 
 > [!warning] 适用边界与操作警示
 > 克雷斯维尔一再警告：研究者绝不可为了“显得严谨或赶时髦”而盲目开展混合方法研究。混合方法需要研究者同时熟稔量化与定性两套分析技能，面临更高的资源成本与时间周期；若研究团队缺乏真正的数据整合机制，混合设计极易退化为“油水分离”的双重平庸。

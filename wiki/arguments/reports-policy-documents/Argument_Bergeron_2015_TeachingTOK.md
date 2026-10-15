@@ -69,7 +69,7 @@ sources:
 part_of: 
 status: active
 created: 2026-08-17
-updated: 2026-08-17
+updated: 2026-10-16
 subtype: report
 publication_type: report
 title: "Argument_Bergeron_2015_TeachingTOK"
@@ -173,7 +173,7 @@ issuing_organization: "International Baccalaureate Organization"
 > | **探究目的** | 建立跨学科联系，挑战自我中心，培养国际情怀 | 深入理解哲学家的思想与推导逻辑 |
 
 > [!feature] 知识论的哲学原点与核心组件
-> 尽管在定位上刻意区别于传统哲学，知识论的底层依然深受经典认识论（Epistemology）的启发。报告（p. 5）指出，课程的奠基性阅读通常包括四大经典文本：**[[Plato\|柏拉图]]**的《洞穴之喻》（*Allegory of the Cave*）、**[[René Descartes\|笛卡尔]]**的《方法论》（*[[Discourse]] on method*）、**洛克**的《人类理解论》（*An Essay Concerning Human Understanding*）以及**[[Immanuel Kant\|康德]]**的《纯粹理性批判》（*Critique of Pure Reason*）。
+> 尽管在定位上刻意区别于传统哲学，知识论的底层依然深受经典认识论（Epistemology）的启发。报告（p. 5）指出，课程的奠基性阅读通常包括四大经典文本：**[[Plato\|柏拉图]]** 的《洞穴之喻》（*Allegory of the Cave*）、**[[René Descartes\|笛卡尔]]** 的《方法论》（*[[Discourse]] on method*）、**洛克**的《人类理解论》（*An Essay Concerning Human Understanding*）以及 **[[Immanuel Kant\|康德]]** 的《纯粹理性批判》（*Critique of Pure Reason*）。
 > 
 > 在此哲学原点之上，课程被具象化为两大核心分析矩阵：
 > - **八大[[Areas of Knowledge\|知识领域]]（AOKs）**

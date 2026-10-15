@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Catalytic Philanthropy
@@ -66,7 +66,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **催化慈善（Catalytic Philanthropy）**是指在现代[[Philanthrocapitalism\|慈善资本主义]]与[[Network Governance\|网络化治理]]演进中形成的一种高介入、高杠杆的策略性慈善运作[[Paradigm\|范式]]（Kramer, 2009；Reckhow, 2013）。与传统慈善侧重于资助具体的服务项目或填补贫困群体的生存赤字不同，催化慈善明确将自身定位于推动制度转型的“火种”与“催化剂”：它主张捐赠者不应止步于开出支票，而应综合动员诉讼游说、商业咨询、实证[[Knowledge Production\|知识生产]]与联盟装配等多元资源，促使跨国企业、公民社会与主权国家协同行动，从而撬动数十倍于慈善本金的公共财政资金，并将企业化治理准则与因果证据量规深植于国家核心教育政策之中。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 519–521)]]
+> **催化慈善（Catalytic Philanthropy）** 是指在现代[[Philanthrocapitalism\|慈善资本主义]]与[[Network Governance\|网络化治理]]演进中形成的一种高介入、高杠杆的策略性慈善运作[[Paradigm\|范式]]（Kramer, 2009；Reckhow, 2013）。与传统慈善侧重于资助具体的服务项目或填补贫困群体的生存赤字不同，催化慈善明确将自身定位于推动制度转型的“火种”与“催化剂”：它主张捐赠者不应止步于开出支票，而应综合动员诉讼游说、商业咨询、实证[[Knowledge Production\|知识生产]]与联盟装配等多元资源，促使跨国企业、公民社会与主权国家协同行动，从而撬动数十倍于慈善本金的公共财政资金，并将企业化治理准则与因果证据量规深植于国家核心教育政策之中。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 519–521)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向私人慈善资本作为战略杠杆，以改变公共系统运行规则、重组国家财政与引导法定教育改革为目标的行为模式。

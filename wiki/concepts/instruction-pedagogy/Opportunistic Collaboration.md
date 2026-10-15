@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Opportunistic Collaboration
@@ -168,7 +168,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **命题一：社会组织维度** | 弹性协作打破固定分组壁垒与知识孤岛 | 课堂协作学习组织模式重构 | Zhang et al. (2007, 2009); Sawyer (2007) |
-> | **命题二：认知深化维度** | 弹性协作促进集体认知责任与深层机制解释 | 科学探究与[[Higher-Order Thinking Skills\|高阶思维]]培养 | Scardamalia & Bereiter (2014); Siqin et al. (2015) |
+> | **命题二：认知深化维度** | 弹性协作促进集体认知责任与深层机制解释 | 科学探究与[[Higher-Order Thinking Skills\|高阶思维]]培养 | Scardamalia and Bereiter (2014); Siqin et al. (2015) |
 > | **命题三：知识创生维度** | 跨组意外相遇催生跨领域概念整合与理论突破 | [[Open-Mindedness\|开放性]]复杂探究与跨学科学习 | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]]; Gloor (2006) |
 
 ---

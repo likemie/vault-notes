@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-23
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Formative Epistemic Injustice
@@ -101,7 +101,7 @@ updated: 2026-10-15
 > - **2018 年 — 理论初创（民主审议权能视阈）** [[Christopher Martin]] (2018) 提出成长性认识不正义，用于批判未向未成年人提供参与民主商议与辩论探究机会的制度性缺陷，确立了发展权视阈。
 > - **2021 年 — 理论扩展（[[Epistemic Malformation|认识畸变]]与教育不正义总括框架）** A. C. 尼古拉迪斯（A. C. Nikolaidis, 2021）将该范畴系统扩展至全域教育哲学，将其定义为“由于[[Epistemic Malformation|认知畸变]]（Malformation）或导致认知畸变而对某人作为求知者能力的侵害”，涵盖因教师偏袒或课程偏差造成的发展阻滞。
 > - **2026 年 — 理论修订与技术批判（私厨代劳与三重操作判据）** 斯宾塞·J·史密斯（Spencer J. Smith）在 [[Argument_Smith_2026_SPE|Smith (2026)]] 中发表奠基论文，破除字词计算器的工具中立神话，确立全流程代劳的“雇佣私厨隐喻”，将理论[[Operationalization|操作化]]为“知识传递阻断、技能实践剥夺、[[Reliability|信度]]自我认知失真”三重实证检验维度，并推导出[[Alien Intelligence|异己智能]]与思维外显防御规程。（pp. 1–13）
-> - **2026 年 — 跨领域应用（高等教育人机关系与空间正义）** [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] 将认识不正义理论拓展至高等教育生成式 AI 采纳场景，揭示算法语料垄断对边缘群体[[Epistemic Agency|认识主体性]]与数字空间的侵蚀。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 6–8)]]
+> - **2026 年 — 跨领域应用（高等教育人机关系与空间正义）** [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] 将认识不正义理论拓展至高等教育生成式 AI 采纳场景，揭示算法语料垄断对边缘群体[[Epistemic Agency|认识主体性]]与数字空间的侵蚀。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 6–8)]]
 
 ---
 
@@ -235,7 +235,7 @@ updated: 2026-10-15
 > - Martin (2018) — 首创成长性[[Epistemic Injustice|认识不正义]]概念，奠定未成年人参与公共审议[[Epistemic Practices|认知实践]]权利的哲学基础。
 > - Nikolaidis (2021) — 确立[[Epistemic Malformation|认知畸变]]（Malformation）[[Central Phenomenon|核心范畴]]，构建教育认识不正义理论谱系。
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] — 系统提出私厨隐喻与成长性认识不正义三重检验标准，解构生成式 AI 对读写教育核心工序的侵害机制与[[Alien Intelligence|异己智能]]防御方案。
-> - [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] — 将认识不正义理论应用于高等教育大模型采纳分析，揭示算法语料垄断对边缘群体[[Epistemic Agency|认识主体性]]与数字空间的侵蚀。
+> - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 将认识不正义理论应用于高等教育大模型采纳分析，揭示算法语料垄断对边缘群体[[Epistemic Agency|认识主体性]]与数字空间的侵蚀。
 
 ---
 

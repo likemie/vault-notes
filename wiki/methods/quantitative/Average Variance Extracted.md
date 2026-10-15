@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-28
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Average Variance Extracted
@@ -105,7 +105,7 @@ updated: 2026-10-08
 >
 > > [!result-reading]- 结果怎么读
 > > - **$\text{AVE} \ge .50$** 达到理想门槛，表明潜变量能解释题项方差的 $50\%$ 以上，[[Convergent and Discriminant Validity\|收敛效度]]优良。
-> > - **$.40 \le \text{AVE} < .50$** 处于可接受边缘。根据 Fornell & Larcker (1981)，若组合信度 $\text{CR} \ge .70$，即使 AVE 略低于 .50，构念的收敛效度在实际研究中仍可勉强接受。
+> > - **$.40 \le \text{AVE} < .50$** 处于可接受边缘。根据 Fornell and Larcker (1981)，若组合信度 $\text{CR} \ge .70$，即使 AVE 略低于 .50，构念的收敛效度在实际研究中仍可勉强接受。
 > > - **$\text{AVE} < .40$** 表明测量误差占主导地位，存在较多低载荷或含混题项，需删题或重构维度。
 
 ---

@@ -97,7 +97,7 @@ updated: 2026-10-16
 > [!citation-card] 实在论提问在制度变迁领域的引申
 > 借鉴[[Ray Pawson|雷·波森]]与尼克·蒂利（Pawson & Tilley, 1997）关于“何种方案在何种情境中对谁有效”的经典论断，范德海登等人（2007）提出制度变迁的核心追问应被调整为“何为变迁、对谁而言、在何种情境下发生”。通过这种方式，我们明确承认变迁取决于观察者的视角：对规制体制内的微观行动者（如建筑承包商）而言看似剧烈的断裂，在宏观政策制定者（如住房部长）眼中可能仅为渐进调适，在长期历史学家眼中则属于微小的历史延续。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 10)]]
 >
-> *Drawing on the work of Pawson & Tilley (1997), who famously answer this question with the adagio 'what works for whom in what circumstances', Van der Heijden et al. (2007) argue that the question of change should be modified to 'what is change, for whom, and in what context?'. By phrasing it in this way, it is explicitly acknowledged that change is in the eye of the beholder, and that what appears to be a radical break to an actor inside an institutional regime ... may be perceived as an incremental adjustment by a macro-level policymaker ... or a minor continuity by a long-term historian.*
+> *Drawing on the work of Pawson and Tilley (1997), who famously answer this question with the adagio 'what works for whom in what circumstances', Van der Heijden et al. (2007) argue that the question of change should be modified to 'what is change, for whom, and in what context?'. By phrasing it in this way, it is explicitly acknowledged that change is in the eye of the beholder, and that what appears to be a radical break to an actor inside an institutional regime ... may be perceived as an incremental adjustment by a macro-level policymaker ... or a minor continuity by a long-term historian.*
 
 ---
 
@@ -115,7 +115,7 @@ updated: 2026-10-16
 > [!evidence-grid] 代表性学术论著
 > - **[[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]]** — *[[Institutional Layering]]: A Review of the Use of the Concept*, *Politics*, 31(1), 9–18. 梳理制度层叠 60 年学术史，提出行动者与工具解释[[Variable|变量]]。
 > - **Van der Heijden (2017)** — *Innovations in Urban Climate Governance: Voluntary Programs for Low-Carbon Buildings and Cities*, Cambridge University Press. 剖析城市规制实验与绿色制度创新。
-> - **Van der Heijden, Visscher & Meijer (2007)** — *Problems in Enforcing Dutch Building Regulations*, *Structural Survey*, 24(3/4), 319–329. 奠定多维时空[[Realist Evaluation|实在论评估]]框架的经典经验案例。
+> - **Van der Heijden, Visscher and Meijer (2007)** — *Problems in Enforcing Dutch Building Regulations*, *Structural Survey*, 24(3/4), 319–329. 奠定多维时空[[Realist Evaluation|实在论评估]]框架的经典经验案例。
 > - **Van der Heijden (2010)** — *A Short History of Studying Incremental Institutional Change*, *Regulation & Governance*, 4(2), 230–243. 深入评估[[Historical Institutionalism|历史制度主义]]渐进变迁模型的[[Interpretive Validity|解释效度]]。
 
 ---

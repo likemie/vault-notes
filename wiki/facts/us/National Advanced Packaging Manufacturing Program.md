@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-10
+updated: 2026-10-16
 ---
 
 # National Advanced Packaging Manufacturing Program
@@ -69,7 +69,7 @@ updated: 2026-10-10
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **国家先进封装制造计划（National Advanced Packaging Manufacturing Program, NAPMP）**是依据美国《[[CHIPS and Science Act|芯片与科学法案]]》（CHIPS and Science Act of 2022，15 U.S.C. § 4656(c)）设立的 30 亿美元国家级专项研发计划。该计划由美国商务部国家标准与技术研究院（National Institute of Standards and Technology, NIST）统筹实施，旨在重构美国本土半导体先进测试、[[Assemblage|组装]]与封装基础设施，攻克[[Heterogeneous Integration|异构集成]]关键工程瓶颈，并在《微电子研究国家战略》四大战略目标中承担后摩尔时代先进封装技术攻坚与系统级创新中试重任。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 3, 8–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 3, 10, 17–18)]]
+> **国家先进封装制造计划（National Advanced Packaging Manufacturing Program, NAPMP）** 是依据美国《[[CHIPS and Science Act|芯片与科学法案]]》（CHIPS and Science Act of 2022，15 U.S.C. § 4656(c)）设立的 30 亿美元国家级专项研发计划。该计划由美国商务部国家标准与技术研究院（National Institute of Standards and Technology, NIST）统筹实施，旨在重构美国本土半导体先进测试、[[Assemblage|组装]]与封装基础设施，攻克[[Heterogeneous Integration|异构集成]]关键工程瓶颈，并在《微电子研究国家战略》四大战略目标中承担后摩尔时代先进封装技术攻坚与系统级创新中试重任。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 3, 8–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 3, 10, 17–18)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2022 年 8 月随《芯片与科学法案》立法确立，2023 年正式启动战略部署，2024 年作为国家微电子核心中试基础设施纳入 [[National Science and Technology Council|NSTC]] 国家战略，规划为期五至十年的跨部门长期实施周期。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 3, 8)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17–18)]]

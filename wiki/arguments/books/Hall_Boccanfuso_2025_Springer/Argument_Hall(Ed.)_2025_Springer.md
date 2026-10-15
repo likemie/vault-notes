@@ -127,7 +127,7 @@ sources:
 part_of:
 status: draft
 created: 2026-05-26
-updated: '2026-08-27'
+updated: 2026-10-16
 year: 2025
 doi: ""
 citation_aliases:
@@ -186,7 +186,7 @@ citation_aliases:
 
 面对这些结构性张力，全书从两个层面给出了回应：
 
-1. **历史层面** 美国大学体系的独特性——[[Morrill Land-Grant Act of 1862|Morrill Act]](1862)赠地大学的实践教育传统、[[Smith Lever Act of 1914|Smith Lever Act]](1914)的农业推广服务、学术自由与客观性的制度价值——为产学合作创造了世界范围内少有的有利条件。Hollingsworth & Hollingsworth（2011, p.27）指出"持续高水平的激进创新需要组织形式的多样性、组织结构的[[Heterogeneity|异质性]]和思想的多样性"，这些正是美国体系的特征(pp.11–12)。
+1. **历史层面** 美国大学体系的独特性——[[Morrill Land-Grant Act of 1862|Morrill Act]](1862)赠地大学的实践教育传统、[[Smith Lever Act of 1914|Smith Lever Act]](1914)的农业推广服务、学术自由与客观性的制度价值——为产学合作创造了世界范围内少有的有利条件。Hollingsworth and Hollingsworth（2011, p.27）指出"持续高水平的激进创新需要组织形式的多样性、组织结构的[[Heterogeneity|异质性]]和思想的多样性"，这些正是美国体系的特征(pp.11–12)。
 
 2. **制度层面**[[University Industry Demonstration Partnership|UIDP]]（University Industry Demonstration Partnership）的案例表明，解决产学合作障碍需要超越"一刀切"合同模板的社区化方法——创造一个促进多边理解、改善沟通和支持人际连接的论坛。从 2004 年白皮书到 2015 年独立为非营利组织，UIDP 的 Contract Accords、[[Partnership Continuum]] 和 Collaboration Metrics et al.项目代表了从合同细节到战略联盟的系统性解决方案(pp.16–20)。
 
@@ -250,7 +250,7 @@ citation_aliases:
 > [!tip]-
 > 全书共用的[[Theoretical Perspective\|理论视角]]。
 
-- [[Triple Helix]] — Etzkowitz & Leydesdorff(1995)的大学-产业-政府三重螺旋模型，三者在以知识为基础的经济发展中形成相互支撑的反馈循环(p.13)
+- [[Triple Helix]] — Etzkowitz and Leydesdorff(1995)的大学-产业-政府三重螺旋模型，三者在以知识为基础的经济发展中形成相互支撑的反馈循环(p.13)
 - [[Innovation Ecosystem]] — 建立在 Schumpeter(1942)创新理论和 Ridley(2020)论述的基础上，理解大学如何作为区域经济的"锚点"、创意与人员如何通过流动驱动创新(pp.12–13)
 - [[Multi-University]] — Clark Kerr(2001)对美国现代大学的描述：广泛触及社区与社会，服务多重使命，这一定位解释了为什么[[University-Industry Collaboration|产学合作]]必然是多维度的(p.5)
 

@@ -14,7 +14,7 @@ related_color: "#bfdbfe"
 confidence: high
 status: active
 created: '2026-07-23'
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - cultural-hierarchy
   - official-knowledge
@@ -111,8 +111,8 @@ related_arguments:
 > [!concept-lens] [[Official Knowledge\|官方知识]]与文化分层
 > 探讨国家学校课程如何通过选择性呈现主导文化，将课程转化为再生产文化等级的制度载体。
 
-> [!claim] [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]]
-> **官方教科书中的汉儒文化垄断** [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] 抽样分析了 217 册必修教材，发现历史、语文、政治等学科普遍将儒家思想塑造为“[[Zhonghua Minzu\|中华民族]]传统文化”的唯一缩影，建立了“中国文化 = 儒家文化 = 汉文化”的等式。这一[[Official Knowledge\|官方知识]]构建合法化了汉文化的统治地位，将 55 个少数民族与非儒家宗教传统排斥在核心文化边界之外，强化了中心与边缘之间的文化等级[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 65–67)]]。
+> [!claim] [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]]
+> **官方教科书中的汉儒文化垄断** [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 抽样分析了 217 册必修教材，发现历史、语文、政治等学科普遍将儒家思想塑造为“[[Zhonghua Minzu\|中华民族]]传统文化”的唯一缩影，建立了“中国文化 = 儒家文化 = 汉文化”的等式。这一[[Official Knowledge\|官方知识]]构建合法化了汉文化的统治地位，将 55 个少数民族与非儒家宗教传统排斥在核心文化边界之外，强化了中心与边缘之间的文化等级[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 65–67)]]。
 
 ---
 
@@ -121,7 +121,7 @@ related_arguments:
 > [!concept-lens] 历史叙事与支配关系自然化
 > 探讨历史教材如何利用特定的文本[[Paradigm\|范式]]，将历史上非汉政权与汉族的关系打包为“同化与受教”过程。
 
-> [!claim] [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]]
+> [!claim] [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]]
 > **师生隐喻与同化叙事模板** 官方教科书在呈现鲜卑（北魏）、匈奴、吐蕃（松赞干布）和满族（清朝康熙帝）等非汉政权时，调用了高度统一的叙事模板——强调其统治者自幼“尊崇[[Confucius\|孔子]]、研习儒家经典、采用汉人礼制”。这种叙事强行将汉文化定位为“教师”，将非汉族群定位为“学徒”，预设了非汉文化天然落后、必须经由[[Sinicisation\|汉化]]实现文明化的权力前提，从而将文化等级自然化为不可质疑的历史规矩[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。
 
 ---
@@ -131,8 +131,8 @@ related_arguments:
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心机制 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
-> | **垄断性官方知识** | 文化等式建立（中国文化=汉儒文化） | 教科书分析、官方[[Knowledge Production\|知识生产]]研究 | [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] |
-> | **师生同化叙事模板** | 支配关系自然化（汉人为师、非汉为徒） | 历史课程研究、同化主义政策分析 | [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] |
+> | **垄断性官方知识** | 文化等式建立（中国文化=汉儒文化） | 教科书分析、官方[[Knowledge Production\|知识生产]]研究 | [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] |
+> | **师生同化叙事模板** | 支配关系自然化（汉人为师、非汉为徒） | 历史课程研究、同化主义政策分析 | [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] |
 
 ---
 
@@ -141,7 +141,7 @@ related_arguments:
 > [!dev-timeline] 概念史演变脉络
 > - **1970s — [[Hegemony\|文化霸权]]与再生产** — Antonio Gramsci 提出文化霸权（Hegemony），[[Pierre Bourdieu]] 提出[[Cultural Capital\|文化资本]]与符号暴力，为文化等级分析奠定了社会学基石。
 > - **1990–2000s — [[Official Knowledge\|官方知识]]与课程批判** — Michael Apple 提出[[Official Knowledge\|官方知识]]理论，指出学校课程缺乏[[Value Neutrality\|价值中立]]性，是主导群体维系文化等级的工具。
-> - **2024 年 — 多元文化中国下的课程文化等级** — [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] 将文化等级概念引入当代中国基础教育课程研究，系统揭示了儒家复兴在中小学教科书中建构的汉儒中心主义与民族文化等级[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 59, 67)]]。
+> - **2024 年 — 多元文化中国下的课程文化等级** — [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 将文化等级概念引入当代中国基础教育课程研究，系统揭示了儒家复兴在中小学教科书中建构的汉儒中心主义与民族文化等级[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 59, 67)]]。
 
 ---
 
@@ -156,7 +156,7 @@ related_arguments:
 > > - **批判性多元文化视角 ([[Argument_Yu_2024_CE\|Yu & Zhao, 2024]])** — 指出强行推行单向度的文化等级不仅未能实现真正凝聚，反而在少数民族学生中造成严重的[[Cultural Disembedding\|文化脱嵌]]与异化疏离[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
 
 > [!critique]- 外部批评
-> - **对边缘群体反思能动性的低估** — [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] 的实证访谈显示，文化边缘群体（少数民族与信教学生）并非被动接受课程文化等级，而是展现出强烈的跨文化[[Reflexivity\|反思性]]，主动将儒家降格为多元文化中的一种[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 68)]]。
+> - **对边缘群体反思能动性的低估** — [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 的实证访谈显示，文化边缘群体（少数民族与信教学生）并非被动接受课程文化等级，而是展现出强烈的跨文化[[Reflexivity\|反思性]]，主动将儒家降格为多元文化中的一种[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 68)]]。
 
 > [!warning] 适用局限
 > 文化等级侧重于分析意识形态、课程与符号范畴的不平等，需结合政治经济学与法律制度分析以全面把握社会不平等。
@@ -166,7 +166,7 @@ related_arguments:
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] — 对中国 217 册必修教材中汉儒文化等级与少数民族学生[[Reflexivity\|反思性]]回应的实证研究。
+> - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 对中国 217 册必修教材中汉儒文化等级与少数民族学生[[Reflexivity\|反思性]]回应的实证研究。
 > - [[China Basic Education Curriculum Reform]] — 2001 年基础教育课程改革出台的教材作为文化等级再生产的文本载体。
 
 ---

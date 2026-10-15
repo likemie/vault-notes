@@ -31,7 +31,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Teacher Conceptions of Assessment
@@ -41,7 +41,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **教师评价观（Teacher Conceptions of Assessment, COA）**指教师对学生学业评价的本质属性、教育功能及其在学校组织中合法用途所持有的内隐认知图式、价值判断与态度倾向（Brown (2004)；[[Argument_Hattie_2005_ACER\|Hattie, 2005, p. 17]]）。该概念揭示了外部测评数据转化为实际教学行动的认知过滤机制，表明教师并非中立执行数据反馈的被动中介，而是依据自身评价信念对证据进行筛选、接纳或抵制的主动诠释者。
+> **教师评价观（Teacher Conceptions of Assessment, COA）** 指教师对学生学业评价的本质属性、教育功能及其在学校组织中合法用途所持有的内隐认知图式、价值判断与态度倾向（Brown (2004)；[[Argument_Hattie_2005_ACER\|Hattie, 2005, p. 17]]）。该概念揭示了外部测评数据转化为实际教学行动的认知过滤机制，表明教师并非中立执行数据反馈的被动中介，而是依据自身评价信念对证据进行筛选、接纳或抵制的主动诠释者。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向教师心智中关于“为何评价、为谁评价以及评价结果意味着什么”的根本性假设。

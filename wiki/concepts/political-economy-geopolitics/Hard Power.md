@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Hard Power
@@ -173,7 +173,7 @@ updated: 2026-10-15
 > [!concept-lens] 军事技术革命与形态转型
 > 探讨从传统工业化动能对抗向智能化、无人化与软件定义战争演进的物质基础与竞争法则。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **软件定义硬实力的时代重构** 在人工智能与自主系统迅猛发展的时代，传统硬件平台若缺乏顶尖算法与数据处理软件的支持，将迅速退化为战场上的脆弱靶标。从复杂山林环境中的微型无人机蜂群协同，到万亿参数模型驱动的快速战场目标识别，本世纪硬实力的决胜点已从重工业工厂转移至软件工程与算法实验室。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 29–32)]]
 
 ---
@@ -183,7 +183,7 @@ updated: 2026-10-15
 > [!concept-lens] 地缘政治盲目性与综合国力结构
 > 批判冷战后西方将[[Soft Power|软实力]]与制度吸引力过度绝对化的战略盲区，阐明硬实力作为安全秩序底层支撑的不可替代性。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]; Fukuyama (1992)
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]; Fukuyama (1992)
 > **[[Winner's Fallacy|赢家谬误]]与硬实力不可或缺性** 冷战结束后，西方社会沉浸在[[Francis Fukuyama|弗朗西斯·福山]]所描绘的[[End of History Thesis|历史终结论]]幻想中，误认为自由民主制度的软实力与商业市场的全球化足以永久消解冲突。这种认知诱发了致命的胜者谬误——国家主动削减国防军工开支、拆解深科技实体制造能力，并将安全寄托于国际规则与道德感召。然而，乌克兰危机等地缘冲突残酷证实，国际体系的底层法则依然由物质强制力所决定；缺乏硬实力护航的软实力在专制大国的军事冒险面前极度脆弱。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 19–22)]]
 
 ---
@@ -205,7 +205,7 @@ updated: 2026-10-15
 > [!concept-lens] 工业制造基础与实战物理迭代
 > 探讨纯软件代码向实际硬实力转化过程中对深科技硬件制造能力与[[Pilot Testing|实地测试]]环境的结构性依赖。
 
-> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **软硬件融合与实战试验场闭环** 软件虽是现代硬实力的中枢神经，但代码本身无法击落导弹或防御无人机。高水平的战略硬实力要求建立“敏捷软件迭代 ➔ 深科技先进制造 ➔ 实战环境试验 ➔ 物理反馈优化”的完整闭环。如果一个国家仅有软件算法能力而丧失了实体制造产能、或者被僵化的官僚行政规制阻碍了实地试验，其战略威慑力将迅速退化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 39–43)]]
 
 ---
@@ -291,6 +291,6 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - **[[Technological Republic|技术共和国]]大战略与软件硬实力体系** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] 系统建构 21 世纪软件硬实力理论，剖析[[Winner's Fallacy|胜者谬误]]、试验场闭环、国家认同防卫意志、[[Commercial Off-The-Shelf|商用现货]]采购机制与克服[[Soft Belief|软信念]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Ch. 1)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Ch. 3)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Ch. 17)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Ch. 18)]]
+> - **[[Technological Republic|技术共和国]]大战略与软件硬实力体系** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 系统建构 21 世纪软件硬实力理论，剖析[[Winner's Fallacy|胜者谬误]]、试验场闭环、国家认同防卫意志、[[Commercial Off-The-Shelf|商用现货]]采购机制与克服[[Soft Belief|软信念]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Ch. 1)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Ch. 3)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Ch. 17)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Ch. 18)]]
 > - **[[Strategic Bargaining Theory|强制外交与战略议价理论]]** Schelling (1966) 在《武器与影响》中奠定硬实力的战略博弈论基础，阐明暴力的威慑与议价功能在于其尚未施加但对手预期的伤害潜能。
 > - **[[Soft Power|软实力]]与硬实力概念二元框架** Nye (2004) 在《软实力：在世界政治中获得成功的途径》中系统界定硬实力与软实力的对偶关系。

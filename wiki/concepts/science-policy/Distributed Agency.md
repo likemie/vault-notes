@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-15
+updated: 2026-10-16
 title: Distributed Agency
 aliases:
   - 分布式主体
@@ -62,7 +62,7 @@ aliases:
 ## 定义
 
 > [!def] 核心定义
-> **分布式主体（Distributed Agency / 分布式能动性）**是指重大科技创新、[[Technological Trajectories|技术轨道]]跃迁与复杂社会转型中的能动性、知识存量与决策权力，并非集中于单一的“英雄式企业家”（Heroic Entrepreneur）或全能的“中央指令型政府”（Central Command State），而是分散分布于由政府各级部门、[[Research Universities|研究型大学]]、跨国大企业、科技初创公司、多边国际组织、大型慈善基金会、草根社会运动以及终端公民用户共同构成的多元异质行动者网络之中（Garud & Karnøe, 2003）。[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）将这一概念作为划分第二代与第三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]的核心分水岭，用以阐明 21 世纪应对气候危机、公共健康与老龄化照护等跨界棘手难题时，公共政策为何必须依托分布式主体实现多方共创与自发探索。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
+> **分布式主体（Distributed Agency / 分布式能动性）** 是指重大科技创新、[[Technological Trajectories|技术轨道]]跃迁与复杂社会转型中的能动性、知识存量与决策权力，并非集中于单一的“英雄式企业家”（Heroic Entrepreneur）或全能的“中央指令型政府”（Central Command State），而是分散分布于由政府各级部门、[[Research Universities|研究型大学]]、跨国大企业、科技初创公司、多边国际组织、大型慈善基金会、草根社会运动以及终端公民用户共同构成的多元异质行动者网络之中（Garud & Karnøe, 2003）。[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）将这一概念作为划分第二代与第三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]的核心分水岭，用以阐明 21 世纪应对气候危机、公共健康与老龄化照护等跨界棘手难题时，公共政策为何必须依托分布式主体实现多方共创与自发探索。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 破除了将系统变革归因于孤立单一超级主体的[[Voluntarism|唯意志论]]神话，揭示了创新能动性在网络关系中的[[Emergence|涌现]]（Emergence）本质。
@@ -112,7 +112,7 @@ aliases:
 > [!concept-lens] 问题性质与主体结构维度
 > 探讨[[Wicked Problem|复杂社会难题]]如何重塑政策参与主体结构。
 
-> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
+> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **复杂社会转型排斥单一主体霸权** 面对脱碳转型、健康老龄化等[[Wicked Problem|棘手问题]]，由于解决方案涉及全社会的行为习惯改变、商业模式重构与跨部门规制革新，没有任何单一机构能够掌握全部必要知识与权威；唯有承认并依托分布式主体的网络协同，创新政策才能形成广泛的政治合法性与全系统探索动能。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
 
 ---
@@ -122,7 +122,7 @@ aliases:
 > [!concept-lens] 国家能力与治理[[Paradigm|范式]]维度
 > 审视分布式主体对[[Public Dynamic Capabilities|公共部门动态能力]]的制度诉求。
 
-> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
+> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **[[Lead-and-Learn Paradigm|引领与学习范式]]的组织底座** 在分布式主体网络中，国家的核心职能不再是微观干预或强制指令，而是依托[[Lead-and-Learn Paradigm|引领与学习范式]]，通过设立宏观战略方向（[[Directionality of Innovation|创新的方向性]]）、提供[[Patient Capital|耐性资本]]以及搭建[[Agile Governance|敏捷治理]]平台，撬动并统筹全社会的分布式能动性共同攻关。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–798)]]
 
 ---

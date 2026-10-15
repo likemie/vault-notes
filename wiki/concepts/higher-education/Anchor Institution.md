@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Anchor Institution
@@ -58,7 +58,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **锚定机构（Anchor Institution）**是指在特定区域、城市或[[Innovation Ecosystem|创新生态系统]]中，凭借其空间不可移动性、庞大的实体资产基座、高密度的知识[[Intellectual Capital|智力资本]]以及深厚的制度与社会网络，对所在区域的经济增长、产业集聚、人才供给与城市空间重塑发挥核心稳定与引力支撑作用的大型非营利性实体（尤以高水平[[Research Universities|研究型大学]]与大型学术医疗中心为典型代表）。[[Argument_Zhuo_2026_ICE|(Spirou, 2021; 卓泽林, 2026, p. 23)]]
+> **锚定机构（Anchor Institution）** 是指在特定区域、城市或[[Innovation Ecosystem|创新生态系统]]中，凭借其空间不可移动性、庞大的实体资产基座、高密度的知识[[Intellectual Capital|智力资本]]以及深厚的制度与社会网络，对所在区域的经济增长、产业集聚、人才供给与城市空间重塑发挥核心稳定与引力支撑作用的大型非营利性实体（尤以高水平[[Research Universities|研究型大学]]与大型学术医疗中心为典型代表）。[[Argument_Zhuo_2026_ICE|(Spirou, 2021; 卓泽林, 2026, p. 23)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向在资本全球高速流动与制造业跨国外移背景下，具有空间“不可拔起”属性、能够持续将公共与私人资源锁定在本地的制度化枢纽组织。

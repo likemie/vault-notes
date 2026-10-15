@@ -50,7 +50,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-03
-updated: 2026-10-04
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Lecuyer_1999_HT"
@@ -91,7 +91,7 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **通用目的技术<br>[[General Purpose Technology]]** | 由 Bresnahan & Trajtenberg (1995) 形式化界定，指具有广泛产业渗透性、内在技术动态性并能诱发下游互补性创新的基础技术[[Paradigm\|范式]]。本文用于解释硅微电子如何从军工航电利基元器件转变为支撑全美工业经济的通用底座。（pp. 179–180） |
+> | **通用目的技术<br>[[General Purpose Technology]]** | 由 Bresnahan and Trajtenberg (1995) 形式化界定，指具有广泛产业渗透性、内在技术动态性并能诱发下游互补性创新的基础技术[[Paradigm\|范式]]。本文用于解释硅微电子如何从军工航电利基元器件转变为支撑全美工业经济的通用底座。（pp. 179–180） |
 > | **用户-供应商协同演进与技术收敛<br>User-Supplier Relations & [[Technological Convergence]]** | 继承 Rosenberg (1963) 关于机床工业[[Technological Convergence\|技术收敛]]的思想，强调上游元器件供给商与下游整机使用部门之间的知识双向流动、工程协同设计及系统接口匹配，是打破技术扩散阻力的核心机制。（pp. 180–181） |
 
 > [!warrant]- 理论如何支撑论证

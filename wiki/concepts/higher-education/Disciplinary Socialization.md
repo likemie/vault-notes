@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Disciplinary Socialization
@@ -51,7 +51,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 学科社会化（Disciplinary Socialization），又称学科涵化（Disciplinary [[Enculturation]]），指学生在接受特定学科专业的高等教育过程中，通过课程讲授、学术评价、师生互动与同行文化熏陶，逐步吸收并内化该学科特有的[[Epistemology\|认识论]]规范、概念[[Discourse|话语]]、思维[[Paradigm\|范式]]与认知习惯的过程。它强调学科并非单纯的知识信息载体，而是一种强有力的认知亚文化环境，持续重塑学生的认识论图式。[[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007, pp. 351–352)]]
+> 学科社会化（Disciplinary Socialization），又称学科涵化（Disciplinary [[Enculturation]]），指学生在接受特定学科专业的高等教育过程中，通过课程讲授、学术评价、师生互动与同行文化熏陶，逐步吸收并内化该学科特有的[[Epistemology\|认识论]]规范、概念[[Discourse|话语]]、思维[[Paradigm\|范式]]与认知习惯的过程。它强调学科并非单纯的知识信息载体，而是一种强有力的认知亚文化环境，持续重塑学生的认识论图式。[[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007, pp. 351–352)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 学科专业共同体对学生知识观、推理逻辑与学术行为的系统性涵化机制（"learn correct diction or couth behavior", Perry 1970）。
@@ -129,8 +129,8 @@ updated: 2026-10-07
 
 > [!dev-timeline] 概念演变
 > - **1970 — 发展心理学提出涵化机制** Perry (1970) 在哈佛本科生追踪中指出，大学学术共同体通过日常[[Discourse|话语]]（"diction and couth behavior"）将学生涵化进更成熟的[[Epistemology\|认识论]]体系。
-> - **1973–1993 — 学科分类与横截面关联** Biglan (1973) 提出软硬学科分类，Jehng et al. (1993) 与 Paulsen & Wells (1998) 发现硬学科学生持有更幼稚的确定性信念，但受限于横截面设计无法排除生源自我选择。
-> - **2007 — 纵向因果分离与双重机制确立** [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] 基于 [[TOSCA]] 两波纵向数据，首次在统计上成功剥离自我选择与学科社会化效应，确立了学科社会化的因果解释力。
+> - **1973–1993 — 学科分类与横截面关联** Biglan (1973) 提出软硬学科分类，Jehng et al. (1993) 与 Paulsen and Wells (1998) 发现硬学科学生持有更幼稚的确定性信念，但受限于横截面设计无法排除生源自我选择。
+> - **2007 — 纵向因果分离与双重机制确立** [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] 基于 [[TOSCA]] 两波纵向数据，首次在统计上成功剥离自我选择与学科社会化效应，确立了学科社会化的因果解释力。
 
 ---
 
@@ -140,7 +140,7 @@ updated: 2026-10-07
 >
 > > [!axis] 自我选择与社会化的因果循环争议
 > > 高中阶段的自我选择是否本身就是更早期中学选修课社会化的产物？
-> > - **[[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]]** 指出在德国文理中学高年级，学生已选修高级课程（Leistungskurs），中学的学科选课既是自我选择也是早期社会化，二者在整个生命历程中构成动态循环。
+> > - **[[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]]** 指出在德国文理中学高年级，学生已选修高级课程（Leistungskurs），中学的学科选课既是自我选择也是早期社会化，二者在整个生命历程中构成动态循环。
 
 > [!warning] 适用局限
 > - **宏观学科门类掩盖微观院系[[Heterogeneity\|异质性]]** 将工程或理科视为同质整体可能忽视具体院系或导师实验室微观微环境的差异。
@@ -154,11 +154,11 @@ updated: 2026-10-07
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] | 德国 [[TOSCA]] 项目大学就读两年追踪样本（$N = 1094$） | 两波纵向面板自回归模型（Model 3） | 控制 T1 初始确定性信念（$b = 0.54$）后大学就读学科对 T2 确定性信念变化的净效应 | 1. 工科净强化效应：$b = 0.40$<br>2. 商科净强化效应：$b = 0.22$<br>3. 社科净解构效应：$b = -0.26$<br>4. 理科与医学维持高位（$b = 0.17$ 与 $0.23$） | 1. $p < .001$<br>2. $p < .05$<br>3. $p < .05$<br>模型解释率 $R^2 = .41$ | 以人文艺术类为基准参照组，[[Effect Size\|效应量]]代表控制初始信念后偏离基准组的标准差变化 |
+> | [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] | 德国 [[TOSCA]] 项目大学就读两年追踪样本（$N = 1094$） | 两波纵向面板自回归模型（Model 3） | 控制 T1 初始确定性信念（$b = 0.54$）后大学就读学科对 T2 确定性信念变化的净效应 | 1. 工科净强化效应：$b = 0.40$<br>2. 商科净强化效应：$b = 0.22$<br>3. 社科净解构效应：$b = -0.26$<br>4. 理科与医学维持高位（$b = 0.17$ 与 $0.23$） | 1. $p < .001$<br>2. $p < .05$<br>3. $p < .05$<br>模型解释率 $R^2 = .41$ | 以人文艺术类为基准参照组，[[Effect Size\|效应量]]代表控制初始信念后偏离基准组的标准差变化 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] — 大规模纵向[[Cohort Study\|面板研究]]，证实大学工科与商科环境显著强化确定性信念，而人文与社科环境显著解构确定性信念，确立学科社会化的独立因果效应。
+> - [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] — 大规模纵向[[Cohort Study\|面板研究]]，证实大学工科与商科环境显著强化确定性信念，而人文与社科环境显著解构确定性信念，确立学科社会化的独立因果效应。

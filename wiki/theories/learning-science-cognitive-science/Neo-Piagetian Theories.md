@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 ## 核心主张
@@ -74,8 +74,8 @@ updated: 2026-09-17
 
 > [!warning] 争议与未解决的问题
 > - 所有新[[Jean Piaget\|皮亚杰]]模型均未能令人满意地解释各阶段之间变化的机制([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.3]])
-> - Demetriou & Efklides (1987) 也提出了建议，但同样未能解释阶段变化的机制
-> - [[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie (2017)]] 的核心主张是：阶段变化是[[Executive Function\|执行功能]]随大脑发育而发展的函数([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.3–4]])
+> - Demetriou and Efklides (1987) 也提出了建议，但同样未能解释阶段变化的机制
+> - [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] 的核心主张是：阶段变化是[[Executive Function\|执行功能]]随大脑发育而发展的函数([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.3–4]])
 
 ## 与脑发育的关联
 

@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Civic Religion
@@ -53,7 +53,7 @@ updated: 2026-10-09
 ## 定义
 
 > [!def] 核心定义
-> **公民宗教（Civic Religion，或 Civil Religion）**指一种在现代多元世俗社会中，将国家的建国历史叙事、宪法政治原则、核心思想正典与共同伦理抱负升华而成的公共信仰与价值象征体系。该体系不依附于特定的排他性宗教宗派教义，而是作为凝聚跨越阶层、种族与地域分歧的公民身份纽带，为民主共和国的公共参与、制度信任与集体繁荣提供超越个人私利与狭隘市场功利的深层道德动力与合法性基础。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 84–85)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
+> **公民宗教（Civic Religion，或 Civil Religion）** 指一种在现代多元世俗社会中，将国家的建国历史叙事、宪法政治原则、核心思想正典与共同伦理抱负升华而成的公共信仰与价值象征体系。该体系不依附于特定的排他性宗教宗派教义，而是作为凝聚跨越阶层、种族与地域分歧的公民身份纽带，为民主共和国的公共参与、制度信任与集体繁荣提供超越个人私利与狭隘市场功利的深层道德动力与合法性基础。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 84–85)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向维系政治共同体生存所必需的、超越单纯物质利益计算与法律程序的世俗公共信仰纽带。
@@ -130,7 +130,7 @@ updated: 2026-10-09
 > [!concept-lens] 道德资本透支与公共精神危机
 > 探讨后现代西方解构历史正典与宗教传统对国家生存能力施加的侵蚀。
 
-> [!claim] Smith (2017) & [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> [!claim] Smith (2017) & [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **自由民主的道德借贷危机与文明重建** 哲学家詹姆斯·K·A·史密斯与卡普、扎米斯卡指出，西方自由民主政体数百年间实际上深度借力了宗教沉淀的道德资本；当现代精英全盘摧毁公民宗教而仅留下狭隘的市场资本主义与个人消极权利时，公共领域必然陷入道德真空，社会退化为由消费娱乐主导的脆弱躯壳；重构[[Technological Republic|技术共和国]]必须勇敢恢复对共享德性与世俗信仰的肯定。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
 
 ---
@@ -141,7 +141,7 @@ updated: 2026-10-09
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **制度化功能论** | 公民宗教是超越宗教宗派、维系自由多元共和国认同的核心世俗信仰 | 政治社会学、宪政理论、公民身份研究 | Bellah (1967); McNeill (1986) |
-> | **道德透支危机论** | 解构公民宗教导致社会失去精神防线，必须重塑共享德性以维系国家生存 | 科技地缘政治、文明史反思、高等教育改革 | Smith (2017); [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025)]] |
+> | **道德透支危机论** | 解构公民宗教导致社会失去精神防线，必须重塑共享德性以维系国家生存 | 科技地缘政治、文明史反思、高等教育改革 | Smith (2017); [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]] |
 
 ---
 

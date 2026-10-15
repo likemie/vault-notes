@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # McDonald's Omega
@@ -57,7 +57,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> **麦克唐纳 $\omega$ 系数（McDonald's Omega）** 是现代心理计量学与结构方程模型中基于同类测验模型（Congeneric Test Model）估计测量工具[[Internal Consistency\|内部一致性]][[Reliability\|信度]]的核心统计量。由 Roderick McDonald（1999）系统提出，它通过显式纳入每个题项在潜[[Variable\|变量]]上的非等同**因子载荷（Factor Loadings）**与**测量残差方差（Error Variances）**，消除了经典 Cronbach's $\alpha$ 强求本质 $\tau$-等值（等载荷）所带来的系统性信度低估偏差。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 11)]]
+> **麦克唐纳 $\omega$ 系数（McDonald's Omega）** 是现代心理计量学与结构方程模型中基于同类测验模型（Congeneric Test Model）估计测量工具[[Internal Consistency\|内部一致性]][[Reliability\|信度]]的核心统计量。由 Roderick McDonald（1999）系统提出，它通过显式纳入每个题项在潜[[Variable\|变量]]上的非等同**因子载荷（Factor Loadings）** 与**测量残差方差（Error Variances）**，消除了经典 Cronbach's $\alpha$ 强求本质 $\tau$-等值（等载荷）所带来的系统性信度低估偏差。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 11)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 包含连续、有序分类（[[Likert Scale\|李克特量表]]）或多分题项的单维量表、多维量表及双因子模型（Bifactor Models）。

@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Contributory Expertise
@@ -147,15 +147,15 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **证据审视机制** | 默会经验对外部通用证据的批判性过滤与二次转化 | 循证干预落地、校本课程规划 | [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] |
-> | **制度生态保障** | 低利害评价与专业社群为手艺演进提供缓冲庇护 | 比较教育治理、教师合作探究 | Collins & Evans (2007); Eyal (2019) |
+> | **制度生态保障** | 低利害评价与专业社群为手艺演进提供缓冲庇护 | 比较教育治理、教师合作探究 | Collins and Evans (2007); Eyal (2019) |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2002 — 专长第三次浪潮奠基** Collins & Evans (2002) 提出专长与经验研究（SEE）纲领，突破传统[[Positivism\|实证主义]]与相对主义二元论，首次确立贡献型专长（能够实际参与专业实践）与[[Interactional Expertise\|交互型专长]]（能够无障碍转述专业[[Discourse|话语]]）的理论分界。
-> - **2007 — 周期专长理论化与《重思专长》** Collins & Evans (2007) 出版《重思专长》（*Rethinking Expertise*），将贡献型专长系统化[[Operationalization\|操作化]]为依赖[[Tacit Knowledge|默会知识]]传递、扎根[[Communities of Practice|实践社群]]的具身化能力，确立其作为实践知识合法性源头的地位。
+> - **2002 — 专长第三次浪潮奠基** Collins and Evans (2002) 提出专长与经验研究（SEE）纲领，突破传统[[Positivism\|实证主义]]与相对主义二元论，首次确立贡献型专长（能够实际参与专业实践）与[[Interactional Expertise\|交互型专长]]（能够无障碍转述专业[[Discourse|话语]]）的理论分界。
+> - **2007 — 周期专长理论化与《重思专长》** Collins and Evans (2007) 出版《重思专长》（*Rethinking Expertise*），将贡献型专长系统化[[Operationalization\|操作化]]为依赖[[Tacit Knowledge|默会知识]]传递、扎根[[Communities of Practice|实践社群]]的具身化能力，确立其作为实践知识合法性源头的地位。
 > - **2019 — 专长危机与公共领域制度博弈** Eyal (2019) 在《专长危机》（*The Crisis of Expertise*）中将专长二元论引入政治社会学分析，揭示技术客观性专家与一线实践专家在监管、问责与公共危机中的权力冲突与合法性竞争。
 > - **2025 — 教育治理与学校循证实践的跨国比较** [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] 首次将专长社会学框架引入英格兰、苏格兰与德国三地[[School Leadership\|学校领导]]者[[Research Utilization\|证据使用]]的跨国比较，揭示高利害市场化治理如何压制贡献型专长并诱发表演性依从，而低利害与专业自主环境如何为贡献型专长提供生长空间。
 
@@ -169,7 +169,7 @@ updated: 2026-10-15
 > > 贡献型专长是否容易滑向[[Empiricism\|经验主义]]盲区，抵制必要的科学实证干预。
 > >
 > > - **Gorard (2020)** 指出若一线教师与校长过度依赖不可检验的个人经验直觉，容易固守直觉偏见并采纳缺乏因果效力的流行教学神话，导致教育改革陷入停滞。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, p. 4)]]
-> > - **Hemsley-Brown & Oplatka (2005)** 认为教学实践具有高度不确定性与多义性，要求研究者提炼硬科学原理难度极大，社会性专业中的[[Research Utilization\|知识利用]]天然高度依附于贡献型专长的情境裁量。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, p. 7)]]
+> > - **Hemsley-Brown and Oplatka (2005)** 认为教学实践具有高度不确定性与多义性，要求研究者提炼硬科学原理难度极大，社会性专业中的[[Research Utilization\|知识利用]]天然高度依附于贡献型专长的情境裁量。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, p. 7)]]
 
 > [!warning] 适用局限
 > - **[[Tacit Knowledge|默会知识]]的编码与跨情境迁移壁垒** 贡献型专长高度依附于特定学校与师生情境，难以直接脱水提炼为全国通用的标准化教案或政策清单。

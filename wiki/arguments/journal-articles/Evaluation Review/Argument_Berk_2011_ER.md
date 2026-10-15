@@ -74,8 +74,8 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > Berk 不依赖单一理论框架，而是基于[[Evaluation Research\|评估研究]]方法论的演进历史进行[[Reflexivity\|反思性]]分析。他的论证锚定在：
-> - **[[Potential Outcomes Framework\|潜在结果框架]]（Neyman-Rubin-Holland-Pearl）**作为因果效应定义的概念基础
-> - **Campbell & Stanley (1963)** 的四种效度框架作为实验设计评估的参照
+> - **[[Potential Outcomes Framework\|潜在结果框架]]（Neyman-Rubin-Holland-Pearl）** 作为因果效应定义的概念基础
+> - **Campbell and Stanley (1963)** 的四种效度框架作为实验设计评估的参照
 > - Daubert 标准的"垃圾科学"概念作为区分证据与垃圾的司法类比（[[Daubert v Merrell Dow Pharmaceuticals 1993]]）
 
 ## 研究方法

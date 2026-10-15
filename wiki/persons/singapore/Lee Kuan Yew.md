@@ -55,7 +55,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Lee Kuan Yew
@@ -147,7 +147,7 @@ updated: 2026-10-15
 > - **[[Technological Republic|技术共和国]]文化与实质德性重构路径** 成为卡普与扎米斯卡反思西方形式[[Value Neutrality|价值中立]]（Rawlsian Neutrality）与空洞功利主义（Peter Singer）、呼吁重构实质文化特质与共有德性的关键思想参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–218)]]
 
 > [!evidence-grid]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 深度解析李光耀 1994 年文官薪酬白皮书（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|Ch. 16]]）、千年战略视野与国家认同塑造（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch. 17]]），以及儒家[[Junzi|君子]]德性建构（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch. 18]]）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 深度解析李光耀 1994 年文官薪酬白皮书（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|Ch. 16]]）、千年战略视野与国家认同塑造（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch. 17]]），以及儒家[[Junzi|君子]]德性建构（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch. 18]]）。
 
 ---
 

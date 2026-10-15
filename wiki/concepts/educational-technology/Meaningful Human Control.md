@@ -195,7 +195,7 @@ updated: 2026-10-16
 > [!concept-lens] 交互系统重塑与批判性信任校准
 > 探讨如何通过界面交互与技术架构设计重建人类的抗辩权。
 
-> [!claim] Veluwenkamp & Buijsman (2025); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
+> [!claim] Veluwenkamp and Buijsman (2025); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **生产性[[Epistemic Friction|认知摩擦]]对实质抗辩权的赋能** 落实有意义人类控制不能仅靠操作者的个人道德自律，必须在交互界面中内嵌结构化的[[Epistemic Friction|认识论摩擦]]：
 > 1. **反思机器（Reflection Machines, RMs）** 在关键裁决节点发起自适应[[Socrates|苏格拉底]]追问，迫使操作者阐述决策理由，重构审思所有权；
 > 2. **[[Defeater|反驳型击败者]]（Rebutting Defeaters）** 自动呈现与系统推荐相冲突的对立诊断证据与反常指标，为人类提供直接质疑算法的认知杠杆，从架构层面恢复人类的实质控制权与可抗辩性。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–25)]]
@@ -211,7 +211,7 @@ updated: 2026-10-16
 > | **道德底线命题** | 生死抉择中的道德审思具有不可让渡性，机器天然缺乏道德理解力 | 军事自主武器系统、临床急症救治、司法刑罚判定 | Heyns (2017); Sparrow (2016); [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]] |
 > | **形式化解构命题** | 强自动化偏差诱发的认识论顺从使人在回路沦为形式化橡皮图章 | 高风险算法辅助审批、防空拦截指挥、AI 辅助病理诊断 | [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]]; Cummings (2004) |
 > | **方法学最优化命题** | 多模型共识结合分歧仲裁实现证据提取的去偏与效率最优 | 系统评价、二阶[[Meta-analysis\|元分析]]、大规模科学文献编码 | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]]; Thomas et al. (2025a) |
-> | **摩擦赋能命题** | 借助反思机器与反驳型击败者注入认知摩擦，恢复人类实质抗辩权 | 安全关键交互界面、人机团队协同决策平台 | Veluwenkamp & Buijsman (2025); [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]] |
+> | **摩擦赋能命题** | 借助反思机器与反驳型击败者注入认知摩擦，恢复人类实质抗辩权 | 安全关键交互界面、人机团队协同决策平台 | Veluwenkamp and Buijsman (2025); [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]] |
 
 ---
 
@@ -266,7 +266,7 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 系统论证强[[Automation Bias|自动化偏差]]引发的[[Epistemic Deference|认识论顺从]]如何架空有意义的人类控制，并提出利用反思机器与[[Defeater|反驳型击败者]]重建人类实质性道德能动性。
 > - [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] — 将有意义的人类控制理论成功[[Operationalization|操作化]]于教育证据综合与[[Meta-meta-analysis|二阶元分析]]流程，创立多模型共识结合专家仲裁的高效去偏[[Paradigm|范式]]。
-> - [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] — 强调在高等教育学术探究中维系关系性[[Epistemic Agency|认识主体性]]与[[Evaluative Judgement|评价性判断]]，防止将关键证据核验全盘委派给大语言模型。
+> - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 强调在高等教育学术探究中维系关系性[[Epistemic Agency|认识主体性]]与[[Evaluative Judgement|评价性判断]]，防止将关键证据核验全盘委派给大语言模型。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 提出在生成式 AI 交互中必须建立结构化反思支架，防范无约束交互中操作者控制权的流失。
 
 ---

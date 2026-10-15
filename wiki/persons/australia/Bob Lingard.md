@@ -158,7 +158,7 @@ updated: 2026-10-16
 > - **跨国／跨领域传播** 理论著述被翻译为多国语言并成为全球各大高校教育政策、国际发展与比较教育专业研究生的核心必读经典。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 系统拆解[[OECD|经合组织]]从 1960–1990 年社会民主主义多元妥协到[[Knowledge-Based Economy|知识经济]]社会想象与 PISA 数字治理的历史演进与理论机制。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 系统拆解[[OECD|经合组织]]从 1960–1990 年社会民主主义多元妥协到[[Knowledge-Based Economy|知识经济]]社会想象与 PISA 数字治理的历史演进与理论机制。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 援引林加德等关于经合组织作为独立跨国行动者的论述，分析冷战及后冷战时代比较教育学科在国际组织支配下的范式位移。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 结合林加德关于[[Governing at a Distance|远处治理]]与数字政策的洞见，探讨经合组织如何通过[[Policy Brokerage|政策中介]]工具打包垄断国家行政立法过程。
 

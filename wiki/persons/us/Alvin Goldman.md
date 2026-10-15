@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-18
-updated: 2026-09-22
+updated: 2026-10-16
 ---
 
 # Alvin Goldman
@@ -143,5 +143,5 @@ updated: 2026-09-22
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] — 借用 Goldman 的[[Goldman's Discrimination Theory of Knowledge\|知识辨识理论]]与纸糊谷仓思想实验，系统论证教育知识与政策推断的局部性与暂定性。
-> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 引证 Goldman（2001）的社会[[Epistemology\|认识论]]与非专家信任难题，深入推演人工智能中介学习环境下[[Epistemic Dependence\|认识依赖]]的四重社会技术路径与规范治理。
+> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 引证 Goldman（2001）的社会[[Epistemology\|认识论]]与非专家信任难题，深入推演人工智能中介学习环境下[[Epistemic Dependence\|认识依赖]]的四重社会技术路径与规范治理。
 > - Goldman, A. I. (2001) — *Experts: Which ones should you trust?*（Philosophy and Phenomenological Research），奠定现代社会认识论中外行评估专家证词的理性标准框架。

@@ -410,7 +410,7 @@ TOK 早期允许学校自行设计课程，并可因地方文化条件省略不�
 > | **反思性自主** | 以知识问题连接提问、解释、比较与表达 | 需要学生真实参与知识建构 | [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]] |
 > | **实施依赖** | 学校文化、教师理解和显性教学改变课程经验 | 统一指南不能保证统一效果 | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] |
 > | **构念覆盖** | 目标、任务与评分证据共同决定可测量的思维范围 | 内部对齐不能弥补重要技能遗漏 | [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
-> | **反向塑造与阻力** | 课程特性对[[Teacher Beliefs\|教师信念]]的影响及行政脱节 | 课程实施效果与学校管理研究 | [[Argument_Bergeron_2019_JRIE\|Bergeron & Rogers (2019)]] |
+> | **反向塑造与阻力** | 课程特性对[[Teacher Beliefs\|教师信念]]的影响及行政脱节 | 课程实施效果与学校管理研究 | [[Argument_Bergeron_2019_JRIE\|Bergeron and Rogers (2019)]] |
 
 ---
 
@@ -469,7 +469,7 @@ TOK 早期允许学校自行设计课程，并可因地方文化条件省略不�
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 258)]] | DP 与非 DP 毕业生 | [[Academic Self-Concept General Scale\|一般学术自我概念量表]]（Academic Self-Concept General Scale，ASC） | DP 99 人<br>非 DP 283 人 | DP 6.25（0.96）<br>非 DP 5.75（1.02） | — | $t(380)=4.24$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 TOK 与整个 DP，也不能排除选课效应 |
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 257–258)]] | DP 与非 DP 毕业生 | 预期大学成果 | DP 99 人<br>非 DP 283 人 | DP 3.43（0.43）<br>非 DP 3.32（0.47） | — | $t(380)=2.25$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 TOK 与整个 DP，也不能排除选课效应 |
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 256–258)]] | DP 与非 DP 毕业生 | [[California Critical Thinking Disposition Inventory\|加利福尼亚批判性思维倾向量表]]（California Critical Thinking Disposition Inventory，CCTDI）总分 | DP 42 人<br>非 DP 126 人 | DP 300.95（30.05）<br>非 DP 293.98（27.75） | — | — | 组间比较；完成者较少且存在额外登录造成的流失；便利样本不具代表性 |
-> | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015, p. 15)]] | TOK 教师教龄<br>10 年以上与 1–3 年 | [[Confidence Teaching TOK Scale\|TOK 教学信心量表]]（Confidence Teaching TOK Scale，CTT）总分 | 10 年以上 218 人<br>1–3 年 289 人 | 10 年以上 3.40（0.41）<br>1–3 年 3.17（0.47） | — | [[Analysis of Variance\|方差分析]]（analysis of variance，ANOVA）事后比较显示组间差异显著 | 横断调查；自报测量；教龄增长对信心的影响不能排除幸存者偏差 |
+> | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015, p. 15)]] | TOK 教师教龄<br>10 年以上与 1–3 年 | [[Confidence Teaching TOK Scale\|TOK 教学信心量表]]（Confidence Teaching TOK Scale，CTT）总分 | 10 年以上 218 人<br>1–3 年 289 人 | 10 年以上 3.40（0.41）<br>1–3 年 3.17（0.47） | — | [[Analysis of Variance\|方差分析]]（analysis of variance，ANOVA）事后比较显示组间差异显著 | 横断调查；自报测量；教龄增长对信心的影响不能排除幸存者偏差 |
 
 ---
 
@@ -555,5 +555,5 @@ TOK 早期允许学校自行设计课程，并可因地方文化条件省略不�
 > - **课程文本与[[Construct Validity\|构念效度]]** 比较 2013 年目标、评估目标和描述符与批判性思维分类框架，诊断[[Construct Validity\|构念效度]]缺口。[[Argument_Hughes_2014_JRIE\|Hughes (2014)]]
 > - **学校实施与批判性思维表现** 以[[Mixed Methods Research\|混合方法]]检验澳大利亚学校的 TOK 实施与批判性思维表现。[[Argument_Cole_2015_AJE\|Cole et al. (2015)]]
 > - **评估与科学教育议程** 分析 TOK 评估、教科书和科学教育议程之间的结构性冲突。[[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]]
-> - **[[Teacher Beliefs\|教师信念]]与实施挑战** 以混合方法考察 TOK 课程如何重塑教师信念，以及在评估与时间管理上面临的系统性阻力。[[Argument_Bergeron_2019_JRIE\|Bergeron & Rogers (2019)]]
+> - **[[Teacher Beliefs\|教师信念]]与实施挑战** 以混合方法考察 TOK 课程如何重塑教师信念，以及在评估与时间管理上面临的系统性阻力。[[Argument_Bergeron_2019_JRIE\|Bergeron and Rogers (2019)]]
 > - **核心课程的[[Concurrency of Learning\|并发学习]]策略** 以混合方法探讨 TOK 与创造、行动与服务（[[Creativity, Action, Service]]，[[Chinese Academy of Sciences|CAS]]）、[[Extended Essay\|拓展论文]]（Extended Essay，EE）之间的跨组件连贯性及实践挑战。[[Argument_Metli_2022_IJER\|Metli & Akış (2022)]]

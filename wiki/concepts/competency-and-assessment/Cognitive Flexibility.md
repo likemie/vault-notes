@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Cognitive Flexibility
@@ -185,7 +185,7 @@ updated: 2026-10-15
 
 > [!dev-timeline] 认知灵活性理论演进脉络
 > - **1980 年代　认知灵活性理论（CFT）创立** 斯皮罗等（Spiro et al., 1988）针对复杂领域高级学习提出 CFT，批判传统线性教学的过度简化偏见，提倡“非线性随机超文本访问”与多重视角重访。
-> - **1990 年代　认知心理学任务转换[[Paradigm\|范式]]成熟** Rogers & Monsell (1995) 与 Meiran (1996) 确立任务转换范式（[[Cognitive Shifting\|task switching]] Paradigm），量化了转换损耗（Switch Cost）的认知心理学与神经机制。
+> - **1990 年代　认知心理学任务转换[[Paradigm\|范式]]成熟** Rogers and Monsell (1995) 与 Meiran (1996) 确立任务转换范式（[[Cognitive Shifting\|task switching]] Paradigm），量化了转换损耗（Switch Cost）的认知心理学与神经机制。
 > - **2000–2010 年代　[[Executive Function\|执行功能]]三元模型奠基** Miyake et al. (2000) 与 Diamond (2013) 确立执行功能三成分（[[Working Memory\|工作记忆]]、[[Inhibitory Control\|抑制控制]]、认知灵活性），将灵活性定位为人类高级适应能力的顶峰。
 > - **2020 年代　[[Creativity\|创造力]][[Three-Level Meta-Analysis\|多层元分析]]与教育干预验证** [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] 实证确立聚焦认知灵活性的思维训练的高效能（$g = 0.762$），并与发散测量及技术型工具形成完整的干预生态。
 
@@ -246,8 +246,8 @@ updated: 2026-10-15
 >
 > | 实证研究 | 样本与情境 | 研究设计与变量角色 | 核心定性与定量发现 | 理论与教学意义 |
 > |---|---|---|---|---|
-> | Rute-Pérez et al. (2024) | 西班牙高校大学生认知训练样本 | 实验干预：**【干预变量】**认知灵活性训练课程；**【[[Dependent Variable\|结果变量]]】**发散问题解决、任务转换反应时 | 干预组在复杂任务中的转换损耗（Switch Cost）显著降低，发散方案跨范畴数显著提高（$p < .05$） | 证实大学阶段认知灵活性具有高度的神经可塑性与干预敏锐度 |
-> | Ritter & Mostert (2017) | 荷兰高校跨学科设计工坊学生（$EG = 31 / CG = 31$） | 准实验前后测：**【干预变量】**外显思维策略训练；**【结果变量】**[[Alternate Uses Test\|AUT]] 范畴转换数与 [[Remote Associates Test\|RAT]] 顿悟表现 | 策略训练促使学生从单一范畴内的连续联想跃升为多范畴间的自由跳跃（$p < .01$） | 证实启发式工具能直接激活认知灵活性的语义跨界重组机制 |
+> | Rute-Pérez et al. (2024) | 西班牙高校大学生认知训练样本 | 实验干预：**【干预变量】** 认知灵活性训练课程；**【[[Dependent Variable\|结果变量]]】** 发散问题解决、任务转换反应时 | 干预组在复杂任务中的转换损耗（Switch Cost）显著降低，发散方案跨范畴数显著提高（$p < .05$） | 证实大学阶段认知灵活性具有高度的神经可塑性与干预敏锐度 |
+> | Ritter and Mostert (2017) | 荷兰高校跨学科设计工坊学生（$EG = 31 / CG = 31$） | 准实验前后测：**【干预变量】** 外显思维策略训练；**【结果变量】**[[Alternate Uses Test\|AUT]] 范畴转换数与 [[Remote Associates Test\|RAT]] 顿悟表现 | 策略训练促使学生从单一范畴内的连续联想跃升为多范畴间的自由跳跃（$p < .01$） | 证实启发式工具能直接激活认知灵活性的语义跨界重组机制 |
 
 ---
 

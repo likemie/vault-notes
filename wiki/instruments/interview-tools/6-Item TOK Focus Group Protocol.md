@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # 6-Item TOK Focus Group Protocol
@@ -53,7 +53,7 @@ updated: 2026-10-15
 
 > [!instrument-profile] [[Theory of Knowledge\|知识论]][[Focus Group\|焦点小组]]六题协议
 > - **工具类型** 半结构化焦点小组协议，适用于知识论教师。
-> - **开发者与年份** [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015)]]。
+> - **开发者与年份** [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015)]]。
 > - **测量目的** 收集教师对于知识论课程（TOK）的目的、收益、挑战、教学努力程度，以及对学生和教师自身影响的深度质性看法。
 > - **实施方式** 研究者作为主持人，在专业发展工作坊或区域会议期间招募教师组成焦点小组，进行 1 小时的半结构化对话，全程录音并[[Transcription in Qualitative Research\|转录]]。
 
@@ -85,7 +85,7 @@ updated: 2026-10-15
 >
 > | 编号 | 主题或维度 | 核心问题 | 可选追问 | 来源 |
 > |---|---|---|---|---|
-> | 1 | 课程参与与定位 | 关于你在 TOK 课程中的参与。请分享你的名字、学校地点以及你教授 TOK 课程的具体参与情况？<br><small>Could you please share your name, school location, and your particular involvement teaching the TOK course?</small> | 你能分享一下参与的程度吗？<br><small>In your answer, could you also share the extent of your involvement?</small> | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015, p. 62)]] |
+> | 1 | 课程参与与定位 | 关于你在 TOK 课程中的参与。请分享你的名字、学校地点以及你教授 TOK 课程的具体参与情况？<br><small>Could you please share your name, school location, and your particular involvement teaching the TOK course?</small> | 你能分享一下参与的程度吗？<br><small>In your answer, could you also share the extent of your involvement?</small> | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015, p. 62)]] |
 > | 2 | 课程参与与定位 | 关于你对 TOK 课程的感知。TOK 课程的目的是什么？什么是收益？什么是挑战？<br><small>What is the purpose of the TOK course? What are the benefits? What are the challenges?</small> | — | 同上 |
 > | 3 | 教学实施与[[Conatus\|努力]] | 请讨论教授 TOK 所需的努力。这与其他课程相比如何？<br><small>Please discuss the effort needed to teach TOK. How does that compare to other courses?</small> | — | 同上 |
 > | 4 | 对学生的影响 | 你能描述一下 TOK 对学生学习的影响吗？你认为它如何影响 DP 科目和核心要素的学习？你认为它如何为学生未来的成功做准备？<br><small>Could you please describe the impact of TOK on student learning? How do you feel it impacts learning in DP subjects and other elements of the core? How do you feel it prepares students for future success?</small> | 你认为它如何帮助培养学习者特征/技能？<br><small>How you feel it helps develop the skills/characteristics of the learner profile?</small> | 同上 |
@@ -101,7 +101,7 @@ updated: 2026-10-15
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015)]] | 英文原始版 | 33 名 [[Theory of Knowledge\|TOK]] 教师（13男，20女），在阿姆斯特丹、布里斯班和芝加哥的 [[International Baccalaureate\|IB]] 活动中组成[[Focus Group\|焦点小组]]。用于深入解释量化[[Questionnaire\|问卷]]的结果。 | — | 识别出教师热衷于讨论、连接现实世界与跨学科；同时面临评估主观性与课时边缘化的共同挑战。 |
+> | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015)]] | 英文原始版 | 33 名 [[Theory of Knowledge\|TOK]] 教师（13男，20女），在阿姆斯特丹、布里斯班和芝加哥的 [[International Baccalaureate\|IB]] 活动中组成[[Focus Group\|焦点小组]]。用于深入解释量化[[Questionnaire\|问卷]]的结果。 | — | 识别出教师热衷于讨论、连接现实世界与跨学科；同时面临评估主观性与课时边缘化的共同挑战。 |
 
 ---
 
@@ -112,4 +112,4 @@ updated: 2026-10-15
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | 原始版 | 英语，跨地区 | [[International Baccalaureate\|国际文凭]][[Theory of Knowledge\|知识论]]教师 | 6 题 | — | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015, p. 62)]] |
+> | 原始版 | 英语，跨地区 | [[International Baccalaureate\|国际文凭]][[Theory of Knowledge\|知识论]]教师 | 6 题 | — | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015, p. 62)]] |

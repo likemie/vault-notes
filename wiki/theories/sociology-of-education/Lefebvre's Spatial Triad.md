@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Lefebvre's Spatial Triad
@@ -81,7 +81,7 @@ updated: 2026-10-15
 > - **知识位置** 承继新马克思主义[[Space Production|空间生产]]理论，成为当代社会科学“空间转向（Spatial Turn）”的理论基石，广泛应用于教育社会学、比较教育学空间[[Governmentality|治理术]]分析及区域高等教育网络研究。
 
 > [!claim] 核心判断
-> 空间不是预先存在的被动舞台或先验中立的几何容器，而是由资本循环、制度权力与日常生活实践共同**主动生产（Social Production of Space）**的动态复合体；空间由感知空间（空间实践）、构想空间（空间表征）与活生生空间（表征性空间）三元辩证互动构成，任何教育实践都既受制于既有空间的物理与制度区隔，又在微观行动中不断生产新的社会空间关系。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–360)]]; [[Argument_Cai_Gao_Liu_2025_HE|(Cai et al., 2025)]]
+> 空间不是预先存在的被动舞台或先验中立的几何容器，而是由资本循环、制度权力与日常生活实践共同**主动生产（Social Production of Space）** 的动态复合体；空间由感知空间（空间实践）、构想空间（空间表征）与活生生空间（表征性空间）三元辩证互动构成，任何教育实践都既受制于既有空间的物理与制度区隔，又在微观行动中不断生产新的社会空间关系。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–360)]]; [[Argument_Cai_Gao_Liu_2025_HE|(Cai et al., 2025)]]
 
 ---
 
@@ -124,7 +124,7 @@ updated: 2026-10-15
 ### 命题一　空间是社会关系与权力运作主动生产的动态产物而非中性物理容器
 
 > [!theory-proposition] 命题一｜空间是社会关系与权力运作主动生产的动态产物而非中性物理容器
-> **解释** 列斐伏尔确立了空间[[Ontology|本体论]]的重大转向：空间绝非独立于人类实践之外的被动几何背景或中立地理舞台，而始终是由社会关系、资本积累与政治权力主动生产的产物（(Social) space is a (social) product）。在教育领域中，这一命题打破了将学校仅仅视为座落在某一经纬度上的物理建筑的传统假定；正如 [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] 所阐明，现代学校不仅坐落在空间之中，其日常运作本身就是一套生产可治理人口的空间技术。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–361)]]
+> **解释** 列斐伏尔确立了空间[[Ontology|本体论]]的重大转向：空间绝非独立于人类实践之外的被动几何背景或中立地理舞台，而始终是由社会关系、资本积累与政治权力主动生产的产物（(Social) space is a (social) product）。在教育领域中，这一命题打破了将学校仅仅视为座落在某一经纬度上的物理建筑的传统假定；正如 [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] 所阐明，现代学校不仅坐落在空间之中，其日常运作本身就是一套生产可治理人口的空间技术。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–361)]]
 >
 > **应用实例** 现代基础教育学区制并不是中立地划分生源范围，而是通过划定行政地理边界，将不同阶层与族裔家庭物理隔离在特定税收支持的学校之内，借由空间领地化主动再生产了社会分层。
 
@@ -142,7 +142,7 @@ updated: 2026-10-15
 ### 命题三　考察学校与区域日常运作的空间实践是透视制度规训与主体能动的关键纽带
 
 > [!theory-proposition] 命题三｜考察学校与区域日常运作的空间实践是透视制度[[Disciplina and Doctrina|规训]]与主体能动的关键纽带
-> **解释** [[Thomas S. Popkewitz|波普科维茨]]与林德布拉德（Popkewitz & Lindblad, 2000）指出教育研究长期割裂了关注物质资源分配的“公平-参与视角”与关注文化话语分类的“知识系统视角”。[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] 论证，考察学校与教育行动者赖以运作的**空间实践（Spatial Practices）**正是弥合两套视角的关键纽带：空间实践一方面作为物理过滤器（校舍大门、学籍准入、经费核算）决定身体准入，另一方面作为文化判决所（界定何为正常流动、何为病态漂泊）对主体实施资格审查；而身处其中的边缘与底层群体（如[[Migrant Children|随迁子女]]、游牧家庭、跨界学者）亦能在微观空间中自发开辟出生存自卫或制度创新的策略空间。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 367–368)]]; [[Argument_Cai_Gao_Liu_2025_HE|(Cai et al., 2025)]]
+> **解释** [[Thomas S. Popkewitz|波普科维茨]]与林德布拉德（Popkewitz & Lindblad, 2000）指出教育研究长期割裂了关注物质资源分配的“公平-参与视角”与关注文化话语分类的“知识系统视角”。[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] 论证，考察学校与教育行动者赖以运作的**空间实践（Spatial Practices）** 正是弥合两套视角的关键纽带：空间实践一方面作为物理过滤器（校舍大门、学籍准入、经费核算）决定身体准入，另一方面作为文化判决所（界定何为正常流动、何为病态漂泊）对主体实施资格审查；而身处其中的边缘与底层群体（如[[Migrant Children|随迁子女]]、游牧家庭、跨界学者）亦能在微观空间中自发开辟出生存自卫或制度创新的策略空间。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 367–368)]]; [[Argument_Cai_Gao_Liu_2025_HE|(Cai et al., 2025)]]
 >
 > **应用实例** 印度拉巴里游牧家庭面对国家以正规学校强制推行定居化的构想空间，并未被动顺从，而是战略性送一个儿子入学获取识字资本，在空间实践中将学校转化为抵御外部商人欺瞒的生计保险单。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 367)]]
 

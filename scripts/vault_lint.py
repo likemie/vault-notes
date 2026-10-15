@@ -80,7 +80,10 @@ def maybe_reexec_with_vault_venv() -> None:
     os.execve(str(venv_python), [str(venv_python), str(Path(__file__).resolve()), *sys.argv[1:]], env)
 
 
-maybe_reexec_with_vault_venv()
+# Only when run as a script: importing this module (e.g. from vault_index.py)
+# must never re-exec the importing process.
+if __name__ == "__main__":
+    maybe_reexec_with_vault_venv()
 
 try:
     import yaml  # type: ignore

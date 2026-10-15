@@ -43,7 +43,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 ## 简介
 
@@ -70,7 +70,7 @@ updated: 2026-10-15
 
 ### CPE 在教育枢纽研究中的应用
 
-[[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 的教育枢纽比较研究是 CPE 在高等教育研究中的直接应用。Erfurth 采用 Sum & Jessop (2013) 的 CPE 框架，分析新加坡和阿联酋的教育枢纽项目，核心分析操作是将 CPE 的基本主张——文化（符号）维度与结构-物质维度应被同等对待——转化为教育枢纽的两个分析维度：[[Cultural Diplomacy|文化外交]]维度（cultural-diplomatic）和政治经济维度（politico-economic）。通过这种转化，Erfurth 展示了新加坡的"[[Singapore Education Hub Policy|东方波士顿]]"战略不仅是经济政策，更是一种文化想象工程——通过高等教育重塑国家在全球认知地图中的位置([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.202, 206–211]])。
+[[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 的教育枢纽比较研究是 CPE 在高等教育研究中的直接应用。Erfurth 采用 Sum and Jessop (2013) 的 CPE 框架，分析新加坡和阿联酋的教育枢纽项目，核心分析操作是将 CPE 的基本主张——文化（符号）维度与结构-物质维度应被同等对待——转化为教育枢纽的两个分析维度：[[Cultural Diplomacy|文化外交]]维度（cultural-diplomatic）和政治经济维度（politico-economic）。通过这种转化，Erfurth 展示了新加坡的"[[Singapore Education Hub Policy|东方波士顿]]"战略不仅是经济政策，更是一种文化想象工程——通过高等教育重塑国家在全球认知地图中的位置([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.202, 206–211]])。
 
 ---
 
@@ -100,7 +100,7 @@ Jessop and Sum 共同提出 [[Cultural Political Economy|CPE]] 框架，将文�
 
 ### KBE 的操作性定义
 
-Sum & Jessop（2013, p.284）提供了 Moisio 所采纳的 KBE 经典定义：
+Sum and Jessop（2013, p.284）提供了 Moisio 所采纳的 KBE 经典定义：
 
 > "一种实际存在的经济，资本的首要方面是'一般智识'在知识和设计密集型商品（真实或虚构的）形式中的价值化。这涉及知识作为经济增长、财富创造和就业创造关键驱动力的生产、管理、分配和使用，横跨私营、公共和'第三'部门。在一个真正的 KBE 中，知识被[[Reflexivity\|反身性]]地应用于知识的生产，大多数部门趋向于变得更加知识密集化。"（cited in Moisio, 2022, pp.23–24）
 

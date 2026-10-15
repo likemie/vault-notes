@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Blueprints for Healthy Youth Development
@@ -72,7 +72,7 @@ updated: 2026-10-15
 > [!info] 机构定位与运营概况
 > **健康[[Youth Development Blueprint\|青年发展蓝图]]（Blueprints for Healthy Youth Development, Blueprints）** 是由科罗拉多大学博尔德分校行为科学研究所（IBS）于 1996 年发起设立的多领域非营利[[Educational Evidence Clearinghouses\|证据清算中心]]，专注于促进青少年行为发展、身心健康、犯罪预防及学业成功([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 7]])。
 >
-> Blueprints 评估对象涵盖具名项目（Programs）与单项研究，在循证学界以极其严苛的证据准入门槛著称。当前处于**活跃运营（Active）**状态，官方平台为 [blueprintsprograms.org](https://www.blueprintsprograms.org)，持续获得联邦白宫国家毒品控制政策办公室（ONDCP）及各基金会资助。
+> Blueprints 评估对象涵盖具名项目（Programs）与单项研究，在循证学界以极其严苛的证据准入门槛著称。当前处于**活跃运营（Active）** 状态，官方平台为 [blueprintsprograms.org](https://www.blueprintsprograms.org)，持续获得联邦白宫国家毒品控制政策办公室（ONDCP）及各基金会资助。
 
 ---
 

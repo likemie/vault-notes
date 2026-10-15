@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Innovation Desert
@@ -79,7 +79,7 @@ updated: 2026-10-15
 > [!concept-lens] 概念透镜
 > - **含义** 揭示现代国家公共部门与私营前沿技术生态之间日益拉大的技术鸿沟与体制隔阂，展现“算力与算法繁荣”与“公共治理贫困”并存的制度病理。
 > - **用途** 诊断为何在[[Consumer Internet|消费级互联网]]高度繁荣的社会中，关键公共服务与国家治理机构依然深陷效能低下与技术停滞，为推动公共部门采购改革、破除避险推责与重塑工程化组织提供[[Analytic Framework|分析框架]]。
-> - **边界** 区别于因资金绝对匮乏或地理偏远造成的客观经济欠发达；创新荒漠的核心在于**体制惰性**、**政治避险**、**薪酬反激励**与**[[Technological Escapism|消费级技术逃避主义]]**所共同构筑的制度性技术真空。
+> - **边界** 区别于因资金绝对匮乏或地理偏远造成的客观经济欠发达；创新荒漠的核心在于**体制惰性**、**政治避险**、**薪酬反激励**与 **[[Technological Escapism|消费级技术逃避主义]]** 所共同构筑的制度性技术真空。
 
 > [!citation-card] 硅谷的公共避让与创新荒漠的蔓延（Ch. 1）
 > 硅谷对于涉足诸多公共领域依然抱有极深的迟疑，包括地方执法、医疗、教育以及直到近期方才有所改观的国家安全领域——这些领域对外部参与者而言往往充斥着政治争议与严苛苛责。其直接后果，便是在全国范围内[[Emergence|涌现]]出了一大批创新荒漠：这些行业部门长期排斥技术，甚至强烈抵制新思想与新参与者的进入。公共部门同样必须吸纳硅谷文化中最有效的特质来重塑自身，包括确保那些掌管最重要机构的人员对其成败承担切实责任。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 14–15)]]
@@ -289,4 +289,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - **全美公共创新荒漠的形成、固化与突破** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] 贯穿全书系统诊断国防采办、地方治安、医疗教育及公共人事中的创新荒漠成因，并论证以[[Engineering Mindset|工程思维]]与[[Founder Culture|创始人文化]]重塑国家治理。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Ch. 1)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Ch. 15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Ch. 16)]]
+> - **全美公共创新荒漠的形成、固化与突破** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 贯穿全书系统诊断国防采办、地方治安、医疗教育及公共人事中的创新荒漠成因，并论证以[[Engineering Mindset|工程思维]]与[[Founder Culture|创始人文化]]重塑国家治理。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Ch. 1)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Ch. 15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Ch. 16)]]

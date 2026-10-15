@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Literacy Octopus
@@ -80,7 +80,7 @@ updated: 2026-10-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **“识字八爪鱼”（Literacy Octopus）**是由英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）全额资助、英国国家教育研究基金会（National Foundation for Educational Research, NFER）作为独立第三方评估的大规模多臂[[Randomised Controlled Trials\|随机对照试验]]（[[Multi-Arm Trial\|Multi-Arm RCT]]）。该试验旨在系统检验不同包装样态与媒介形式的实证研究成果单向推送策略对小学教师教学行为以及 5 年级、6 年级学童终结性[[Academic Achievement\|学业成就]]的因果影响，构成了全球循证政策与知识传播领域最具代表性的标志性实证检验。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 152)]]; [[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 586–588)]]
+> **“识字八爪鱼”（Literacy Octopus）** 是由英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）全额资助、英国国家教育研究基金会（National Foundation for Educational Research, NFER）作为独立第三方评估的大规模多臂[[Randomised Controlled Trials\|随机对照试验]]（[[Multi-Arm Trial\|Multi-Arm RCT]]）。该试验旨在系统检验不同包装样态与媒介形式的实证研究成果单向推送策略对小学教师教学行为以及 5 年级、6 年级学童终结性[[Academic Achievement\|学业成就]]的因果影响，构成了全球循证政策与知识传播领域最具代表性的标志性实证检验。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 152)]]; [[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 586–588)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 2014 年立项启动，2017 年由评估团队发布独立终期评估报告（Lord et al., 2017）。

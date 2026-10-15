@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Early Reading Intervention
@@ -62,7 +62,7 @@ updated: 2026-10-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **Early Reading Intervention（早期阅读干预，简称 ERI）**是由俄勒冈大学教学与学习中心（University of Oregon Center on Teaching and Learning）迈克尔·科因（Michael D. Coyne）、爱德华·卡梅埃努伊（Edward J. Kame'enui）与戴维·查德（David J. Chard）等学者联合研发、由培生斯考特·福斯曼（Scott Foresman）出版发行的幼儿园早期阅读小组干预方案；其核心目标是在学前与幼儿园阶段精准识别早期拼音意识与字母知识滞后的高危儿童，通过受训教学助教开展结构化显性教学，在儿童进入小学一年级前筑牢基础阅读防线。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> **Early Reading Intervention（早期阅读干预，简称 ERI）** 是由俄勒冈大学教学与学习中心（University of Oregon Center on Teaching and Learning）迈克尔·科因（Michael D. Coyne）、爱德华·卡梅埃努伊（Edward J. Kame'enui）与戴维·查德（David J. Chard）等学者联合研发、由培生斯考特·福斯曼（Scott Foresman）出版发行的幼儿园早期阅读小组干预方案；其核心目标是在学前与幼儿园阶段精准识别早期拼音意识与字母知识滞后的高危儿童，通过受训教学助教开展结构化显性教学，在儿童进入小学一年级前筑牢基础阅读防线。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 研发始于 2000 年代初全美阅读卓越计划（Reading First）背景，经多中心田野[[Randomised Controlled Trials\|随机对照试验]]验证，作为全美各州幼儿园多层支持系统（MTSS）的标准干预材料常态化运行至今。

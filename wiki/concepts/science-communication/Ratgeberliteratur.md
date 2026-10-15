@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Ratgeberliteratur
@@ -160,7 +160,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **即时效用与经验垄断命题** | 指南文献因契合教师即时备课效用感知而主导日常实践，但潜藏严重证据真空 | 教师非正式专业学习、日常备课决策与专业知识获取路径 | Mönig (2012); Otto et al. (2019); Tänzer (2011) |
-> | **迷思固化与审查真空命题** | 商业出版缺乏同行评审，导致 30%–40% 指南公然宣扬学习风格等教育神经神话 | 教学指南读物审查、教育迷思破除与教师在职培训教材选用 | Krüger & Konrad (2022); Mohajerzad et al. (2022); Paradies & Linser (2003) |
+> | **迷思固化与审查真空命题** | 商业出版缺乏同行评审，导致 30%–40% 指南公然宣扬学习风格等教育神经神话 | 教学指南读物审查、教育迷思破除与教师在职培训教材选用 | Krüger & Konrad (2022); Mohajerzad et al. (2022); Paradies and Linser (2003) |
 > | **主动占位与评价改革命题** | 学者须主动涉足受众适配的通俗指南创作，制度层面需将证据综合确立为独立学术价值 | [[Educational Science Communication\|教育科学传播]]媒介策略设计、高校学术评价与聘任制度改革 | [[Argument_Besa_2024_UW\|Besa (2024)]]; Kerres et al. (2022); Götzfried et al. (2022) |
 
 ---

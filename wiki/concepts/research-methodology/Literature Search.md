@@ -511,7 +511,7 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 系统阐述了文献检索七步法、主要学术数据库、搜索优先级与迭代搜索策略。
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 系统阐述了文献检索七步法、主要学术数据库、搜索优先级与迭代搜索策略。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al. (2011, Ch.7)]] — 提出了文献检索服务于论证与信效度的推进逻辑、网络检索操作符、信息类型分类（Box 7.2）及网站评估标准。
 > - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015, Ch.1)]] — 提出了文献分类的双维度（公开性与加工程度）、文献资料的三类载体、文献检索的五种操作方法以及在课题选题中的四项发现机制。
 > - [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] — 白宫科技战略报告，阐述在智能时代自主研究代理如何承担微观文献检索与假说生成，驱动人类科研分工向宏观战略综合演化。

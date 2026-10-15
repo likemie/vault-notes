@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Max Eckstein
@@ -171,9 +171,9 @@ updated: 2026-10-15
 > [!contrast-table] 核心命题总览
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
-> | **变量替代系统命题** | 消除国别与制度固有名词，将其抽象解构为可[[Operationalization\|操作化]]、可跨国测量的概念变量 | 跨国实证建模、指标测算与假设检验 | Noah & Eckstein (1969, p. 114); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 148)]] |
-> | **变量函数共变命题** | 将跨国现象表达为自变量与因变量的函数共变，以多元统计揭示宏观关联 | 统计[[Causal Modeling\|因果建模]]、跨国大样本回归分析 | Noah & Eckstein (1969, p. 93); [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, p. 62)]] |
-> | **方法论客观清洗命题** | 借助定量测量与严格数据控制根除传统学派的主观偏见与任意武断 | 实证研究设计、大规模跨国测评（IEA） | Noah & Eckstein (1969, p. 58); [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, p. 65)]] |
+> | **变量替代系统命题** | 消除国别与制度固有名词，将其抽象解构为可[[Operationalization\|操作化]]、可跨国测量的概念变量 | 跨国实证建模、指标测算与假设检验 | Noah and Eckstein (1969, p. 114); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 148)]] |
+> | **变量函数共变命题** | 将跨国现象表达为自变量与因变量的函数共变，以多元统计揭示宏观关联 | 统计[[Causal Modeling\|因果建模]]、跨国大样本回归分析 | Noah and Eckstein (1969, p. 93); [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, p. 62)]] |
+> | **方法论客观清洗命题** | 借助定量测量与严格数据控制根除传统学派的主观偏见与任意武断 | 实证研究设计、大规模跨国测评（IEA） | Noah and Eckstein (1969, p. 58); [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, p. 65)]] |
 > | **方法论主义与借口批判命题** | 唯统计技术主义割裂价值与历史土壤，充当冷战技术援助与国家规划的合法化借口 | 比较[[Epistemology\|认识论]]反思、学科史批判研究 | Barber (1972); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–149)]] |
 
 ---
@@ -233,7 +233,7 @@ updated: 2026-10-15
 > > [!axis] 实证科学化[[Paradigm|范式]] vs 历史-哲学情境阐释
 > > 埃克斯坦与诺亚将国家系统作为检验普遍因果律的准实验场，批判历史学派依赖个人洞察力、缺乏因素重要性判别准则，其论断充其量只是待检验的假说。以卡扎米亚斯为代表的历史学者反驳指出，实证学派建立在英语狭隘的自然科学（Science）定义上，抽空了历史具体情境与哲学教化维度；[[Historical-Comparative Method|历史比较法]]依托有限工作假设与德语广义科学（*Wissenschaft*），同样具备严密的理论建构与解释效力。
 > >
-> > - **Harold Noah & Max Eckstein（1969）** 坚信客观测量和控制[[Variable|变量]]能克服主观偏见，将历史学者视为沉溺于溯因的知识分子而非政策行动者。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 53–54)]]
+> > - **Harold Noah and Max Eckstein（1969）** 坚信客观测量和控制[[Variable|变量]]能克服主观偏见，将历史学者视为沉溺于溯因的知识分子而非政策行动者。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 53–54)]]
 > > - **Andreas Kazamias（2009b）** 捍卫历史比较的[[Geisteswissenschaften|人文科学]]合法性，指出历史中程归纳能够兼顾个殊事实与规律检验。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 56)]]
 >
 > > [!axis] 变量函数共变 vs 假说-演绎[[Vignettes in Research|情境问题法]]
@@ -245,7 +245,7 @@ updated: 2026-10-15
 > > [!axis] 方法论主义狂热与[[Social Science as Legitimation Alibi|合法化借口]]批判
 > > 针对埃克斯坦与诺亚力推的跨国量化技术，批判学者揭露了实证主义“[[Value Neutrality|价值中立]]”面具背后的政治功能。
 > >
-> > - **Noah & Eckstein（1969）** 坚信跨国变量统计与客观测量能够根除研究中的主观偏见与政治偏好，为政策干预提供客观依据。
+> > - **Noah and Eckstein（1969）** 坚信跨国变量统计与客观测量能够根除研究中的主观偏见与政治偏好，为政策干预提供客观依据。
 > > - **[[Andreas Kazamias]] & [[Bernard Barber]]（1972, 2009a）** 揭露方法论主义将研究简化为冰冷数字汇编的危害，指出客观中立的变量模型在冷战时期深度沦为国家五年计划与第三世界技术援助的合法化借口。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
 
 > [!critique]- 批评与局限索引

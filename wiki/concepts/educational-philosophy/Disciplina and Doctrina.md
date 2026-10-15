@@ -119,7 +119,7 @@ updated: 2026-10-16
 > [!concept-lens] 学科深度与跨学科的统合
 > 这一命题群探讨如何在尊重既有学科深度（disciplina）的前提下，实现促进知识更新与创新的跨学科广度（doctrina）。
 
-> [!claim] [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]]
+> [!claim] [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024)]]
 > **学科[[Ontology|本体论]]深度与时代问题探究** 优秀的教育设计不能抛弃学科，因为学科分类是人类探索现象的历史沉淀，具备[[Ontology|本体论]]深度（disciplina）；但教学不能止步于此，必须引导学生围绕“[[Epochal Key Problems|时代关键问题]]”（如可持续性发展）开展跨学科的协同探索，激发知识的创造（doctrina）。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, pp. 4–6, 10)]]
 
 ---
@@ -159,7 +159,7 @@ updated: 2026-10-16
 > [!concept-lens] 跨国治理与数字规训维度
 > 探讨超国家机构如何通过标准化测评等价空间与“数字政策”机制，将主权国家教育实践收拢于远处规训，压制关于教育公共目的的本土民主协商。
 
-> [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]]
+> [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]
 > **跨国数字排位赛的远处规训与教育目的审议压制** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）揭示，[[PISA|国际学生评估项目]]（[[PISA]]）建立的全球“等价空间”（Desrosières, 1998）已成为一种新型的跨国远程规训装置（disciplina）。通过发布跨国绩效联赛榜，PISA 将成员国置于激烈的国际竞争中，诱发国内政策恐慌（如德国 2000 年后的“PISA 震荡”），并迫使主权国家教育体系按照经合组织的技能范畴进行课程与教学对齐。援引罗斯（Rose, 1999: 208）的[[Governing by Numbers|数字治理]]洞见，他们强调“数字政策”通过技术化外观将测评背后高度复杂的价值判断“隐形化并不容置疑”，从而剥夺了公众和专业共同体对教育本质、文化传承与社会正义等[[Open-Mindedness|开放性]]议题进行反思与民主辩论的空间（doctrina），使教育完全屈从于[[Knowledge-Based Economy|知识经济]]的人力资本规训。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
 ---
@@ -169,11 +169,11 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **命题一：课程设计调和** | 教学须在尊重学科深度（disciplina）基础上激发跨学科创新（doctrina） | [[Phenomenon-Based Learning\|现象本位学习]]、课程理论 | [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff (2024)]] |
+> | **命题一：课程设计调和** | 教学须在尊重学科深度（disciplina）基础上激发跨学科创新（doctrina） | [[Phenomenon-Based Learning\|现象本位学习]]、课程理论 | [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024)]] |
 > | **命题二：绩效评估异化** | 新自由主义指标体系将生命世界体验还原为纯粹的数据规训（disciplina） | 数字化治理、[[New Public Management\|新公共管理]]批判 | Foran (2020) |
 > | **命题三：学术规训压力** | 超国家治理与资助机制对学术研究施加规训压力，约束批判知识生产 | 比较教育学术史、科研体制批判 | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] |
 > | **命题四：国家与学校规训博弈** | 学校兼具劳动力规训再生产（disciplina）与底层民主化赋权（doctrina）双重张力 | 批判政治经济学、国家转型理论 | [[Martin Carnoy\|Carnoy (1985)]]；[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] |
-> | **命题五：跨国排位远处规训** | 跨国等价空间与联赛榜对课程施加远处规训，压制教育目的民主审议 | 超国家数字治理、比较政策社会学 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] |
+> | **命题五：跨国排位远处规训** | 跨国等价空间与联赛榜对课程施加远处规训，压制教育目的民主审议 | 超国家数字治理、比较政策社会学 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] |
 
 ---
 
@@ -204,7 +204,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] 相关论证索引
-> - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]] — 运用这一[[Paradigm|范式]]剖析了芬兰[[Phenomenon-Based Learning|现象本位学习]]在绩效评估压力下被技能原子化收纳的本质。
+> - [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024)]] — 运用这一[[Paradigm|范式]]剖析了芬兰[[Phenomenon-Based Learning|现象本位学习]]在绩效评估压力下被技能原子化收纳的本质。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009, p. 96)]] — 揭示超国家治理与科研资助体系如何对比较教育学者施加规训压力，促使学术[[Knowledge Production|知识生产]]向政策问责与技术官僚规训屈从。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 153–154)]] — 在第四阶段[[Discourse|话语]]梳理中引介卡诺伊批判国家理论，阐明学校在生产关系规训再生产与大众民主诉求之间的辩证张力。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 447–448)]] — 结合等价空间与[[Governing by Numbers|数字治理]]，揭示 [[PISA]] 联赛排位如何作为跨国规训机制压制主权国家关于教育目的的民主审议。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 447–448)]] — 结合等价空间与[[Governing by Numbers|数字治理]]，揭示 [[PISA]] 联赛排位如何作为跨国规训机制压制主权国家关于教育目的的民主审议。

@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Process Design Kit
@@ -65,7 +65,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **工艺设计套件（Process Design Kit, PDK）**是晶圆代工厂（Foundry）针对特定半导体制造工艺节点，向集成电路设计团队与[[Electronic Design Automation|电子设计自动化]]（Electronic Design Automation, EDA）工具软件提供的底层模型、物理设计规则、器件紧凑物理模型与标准单元库的结构化数据集合，是连接前端抽象电路代码设计与后端物理硅片制造的基石工程契约。随着 2.5D/3D [[Heterogeneous Integration|异构集成]]与芯粒（Chiplet）技术发展，该体系进一步衍生出**装配设计套件（Assembly Design Kit, ADK）**，用于界定多芯片封装层级的中介层布线、微凸点键合与多物理场仿真规则。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 5, 11, 16)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 15, 23–24)]]
+> **工艺设计套件（Process Design Kit, PDK）** 是晶圆代工厂（Foundry）针对特定半导体制造工艺节点，向集成电路设计团队与[[Electronic Design Automation|电子设计自动化]]（Electronic Design Automation, EDA）工具软件提供的底层模型、物理设计规则、器件紧凑物理模型与标准单元库的结构化数据集合，是连接前端抽象电路代码设计与后端物理硅片制造的基石工程契约。随着 2.5D/3D [[Heterogeneous Integration|异构集成]]与芯粒（Chiplet）技术发展，该体系进一步衍生出**装配设计套件（Assembly Design Kit, ADK）**，用于界定多芯片封装层级的中介层布线、微凸点键合与多物理场仿真规则。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 5, 11, 16)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 15, 23–24)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** PDK 规定了特定晶圆产线能够稳定加工的物理几何极限、材料电学特性、晶体管电气行为模型与互连寄生参数，使设计人员在未接触物理机台的情况下即可进行高保真仿真与物理版图绘制；ADK 则进一步界定多芯粒物理堆叠与热力学装配边界。

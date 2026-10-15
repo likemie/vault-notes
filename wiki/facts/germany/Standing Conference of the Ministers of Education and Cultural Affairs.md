@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Standing Conference of the Ministers of Education and Cultural Affairs
@@ -188,5 +188,5 @@ KMK 在协调全国教育改革的过程中，长期面临着决策机制迟缓�
 > | [[Expert Interview]] | Method | 各州教育部在 KMK 监测框架下的履职体验构成了相关实证研究专家访谈的核心内容。 |
 > | [[Argument_Hartong_2018_GSE\|Hartong (2018)]] | Argument | 剖析 KMK 监测战略下 IQB 作为国家计算中心与跨尺度绩效数据基础设施的拓扑重组。 |
 > | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | Argument | 历时考察德国四个联邦州教育部在 KMK 监测框架下的微观接收与行政常规化机制。 |
-> | [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019)]] | Argument | 剖析 KMK 监测框架在汉堡 [[Institute for Educational Monitoring and Quality Improvement\|IfBQ]] 的具体制度化形态及其向上数据流与单一事实来源机制。 |
+> | [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]] | Argument | 剖析 KMK 监测框架在汉堡 [[Institute for Educational Monitoring and Quality Improvement\|IfBQ]] 的具体制度化形态及其向上数据流与单一事实来源机制。 |
 

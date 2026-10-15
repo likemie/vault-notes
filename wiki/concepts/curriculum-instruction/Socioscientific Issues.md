@@ -53,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 # Socioscientific Issues
 
@@ -140,7 +140,7 @@ updated: 2026-10-07
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **认知推理命题** | 非形式推理、证据协调与反驳建构 | [[Classroom Debate\|课堂辩论]]、案例分析、[[Role-playing\|角色扮演]] | Sadler (2004); Zeidler (2014) |
-> | **民主公民命题** | 公共审议理性、多元价值平衡与科学素养 | 科技政策讨论、社区环境议题、生物伦理 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]; [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]] |
+> | **民主公民命题** | 公共审议理性、多元价值平衡与科学素养 | 科技政策讨论、社区环境议题、生物伦理 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]; [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]] |
 
 ---
 
@@ -165,5 +165,5 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] — 系统对比科学探究、[[Engineering Education|工程教育]]与社会科学议题在目标与[[Epistemic Practices\|认识论实践]]上的本质差异。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 系统对比科学探究、[[Engineering Education|工程教育]]与社会科学议题在目标与[[Epistemic Practices\|认识论实践]]上的本质差异。
 > - [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]] — 探讨论辩理论在社会科学议题与科学哲学教学中的应用框架。

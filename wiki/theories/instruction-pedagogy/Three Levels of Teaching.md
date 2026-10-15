@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Three Levels of Teaching
@@ -137,9 +137,9 @@ updated: 2026-10-15
 ## 发展脉络
 
 > [!dev-timeline] 三层教学观的形成背景
-> - **1991–1992 — 教学观研究形成共同图景** Martin & Balla (1991) 以及 Samuelowicz & Bain (1992) 等研究开始系统区分教师对教学的不同理解。[[Argument_Biggs_1999_HERD\|Biggs (1999, p. 61)]]
+> - **1991–1992 — 教学观研究形成共同图景** Martin and Balla (1991) 以及 Samuelowicz and Bain (1992) 等研究开始系统区分教师对教学的不同理解。[[Argument_Biggs_1999_HERD\|Biggs (1999, p. 61)]]
 > - **1993 — 系统教学模型** Biggs (1993) 把学生条件、教学因素和学习取向理解为相互作用的系统，为第三层教学观提供因果框架。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 61–62)]]
-> - **1998 — 教师中心与学生中心教学观** Prosser & Trigwell (1998) 区分教师中心的传递策略和学生中心的概念改变策略，为三层结构提供相邻分类。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 61–62)]]
+> - **1998 — 教师中心与学生中心教学观** Prosser and Trigwell (1998) 区分教师中心的传递策略和学生中心的概念改变策略，为三层结构提供相邻分类。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 61–62)]]
 > - **1999 — 三层框架明确化** [[Argument_Biggs_1999_HERD\|Biggs (1999)]] 将“学生是什么／教师做什么／学生做什么”组织为层级化[[Didaktik\|教学理论]]，并把第三层落实为[[Constructive Alignment\|建构性对齐]]。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 61–64)]]
 
 ---

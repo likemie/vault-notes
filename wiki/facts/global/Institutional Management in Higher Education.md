@@ -70,7 +70,7 @@ updated: 2026-10-16
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **[[OECD|经合组织]]高等教育机构管理计划（Programme on Institutional Management in Higher Education, IMHE）**是[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）于 1969 年正式设立的高等教育专业管理与治理国际合作工程。作为经合组织 20 世纪 70 至 80 年代教育工作的四大组织支柱之一，该计划专门面向成员国大学领导层与高教管理机构，致力于通过跨国比较分析、机构同行审查与管理技术分享，协助高等院校应对规模扩张与系统复杂性挑战。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]
+> **[[OECD|经合组织]]高等教育机构管理计划（Programme on Institutional Management in Higher Education, IMHE）** 是[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）于 1969 年正式设立的高等教育专业管理与治理国际合作工程。作为经合组织 20 世纪 70 至 80 年代教育工作的四大组织支柱之一，该计划专门面向成员国大学领导层与高教管理机构，致力于通过跨国比较分析、机构同行审查与管理技术分享，协助高等院校应对规模扩张与系统复杂性挑战。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 1969 年在经合组织教育委员会与[[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI）协作框架下创立，持续运行至 2010 年代中期，为经合组织运行周期最长的高等教育专门项目之一。

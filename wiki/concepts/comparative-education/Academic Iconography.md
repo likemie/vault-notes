@@ -45,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Academic Iconography
@@ -154,7 +154,7 @@ updated: 2026-09-17
 > > [!axis] 传统的建制凝聚功能 vs 史学批判的去神圣化
 > > 学界关于学科是否需要起源图腾存在根本分歧。建制主义观点认为，清晰、统一的开山鼻祖神话对于新兴学科确立专业边界、培养学生归属感以及向大学行政当局争取资源不可或缺；而批判史学视角则坚称，非反思的肖像崇拜实质上构成了思想蒙昧，严重阻碍了对[[Discipline-Based Theory\|学科理论]]混乱、权力共谋与隐蔽历史的严肃省察。
 > >
-> > - **Harold Noah & Max Eckstein（1969）** 通过清晰规范的起源谱系为学科确立专业科学合法性。
+> > - **Harold Noah and Max Eckstein（1969）** 通过清晰规范的起源谱系为学科确立专业科学合法性。
 > > - **Robert Cowen（2009a）** 批判肖像学制造了虚假自足感并推迟了严肃的批判史学探索。
 
 > [!warning] 适用局限

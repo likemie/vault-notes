@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Statistical Analysis Plan
@@ -140,7 +140,7 @@ updated: 2026-10-15
 > [!concept-lens] 探讨维度：开放科学从宏观倡导向微观技术规范的[[Paradigm\|范式]]演进
 > 科学社会学与量化方法学研究表明：仅在网站上简略登记研究假说，依然为研究者保留了巨大的操纵空间；唯有代码级的先验 SAP 才能真正终结假阳性危机。
 
-> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, pp. 51–53)]]
+> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, pp. 51–53)]]
 > **[[Path Dependence|技术锁定]]根除选择性报告** 传统社会科学研究中，正向显著结果的发表几率比零结果高出 40%（Franco et al., 2014）。许多研究者即使[[Preregistration\|预注册]]了假说，仍会在后端通过“更换协[[Variable\|变量]]”或“删除不显著亚组”实现显著。[[Education Endowment Foundation\|EEF]] 的实践表明，强制评估团队在接触数据前独立提交长篇 SAP，并将具体分析模型、协变量定义和聚类校正方法固定在公开服务器上，使得任何事后迎合资助方或学术期刊审稿人的暗室操作在技术上彻底失去空间。
 
 ---
@@ -150,7 +150,7 @@ updated: 2026-10-15
 > [!concept-lens] 探讨维度：证据清算机构的标准化治理基础设施
 > 证据生态学研究揭示：缺乏预注册 SAP 的因果证据无法在[[Meta-meta-analysis\|二阶元分析]]工具包中获得高公信力的横向排位。
 
-> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, pp. 51–53, 57)]]; The EEF (2018, 2019c)
+> [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, pp. 51–53, 57)]]; The EEF (2018, 2019c)
 > **[[EEF Padlock Security Rating\|挂锁安全评级]]的准入刚性** EEF 在《挂锁安全评级体系》（Padlock Rating）中将“是否严格遵循预注册 SAP”作为评定证据安全性的核心扣分指标。若某项试验未能在数据收集前发布 SAP，或最终报告严重违背 SAP 且未作充分方法学解释，该研究将被直接扣减 1 把挂锁甚至判定为证据不可靠。正是得益于 SAP 的全面制度化推行，EEF 资助的已发表试验中高达 85% 获得了 3 把锁及以上的极高安全评级，为全球教育证据清算树立了标杆。
 
 ---
@@ -160,7 +160,7 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
-> | **技术契约命题** | 阐明 SAP 如何通过算法级预先规约剥夺事后分析自由度，根除选择性报告 | 开放科学、试验方案审查、统计推断防偏倚 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]]; Franco et al. (2014) |
+> | **技术契约命题** | 阐明 SAP 如何通过算法级预先规约剥夺事后分析自由度，根除选择性报告 | 开放科学、试验方案审查、统计推断防偏倚 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]; Franco et al. (2014) |
 > | **制度红线命题** | 论证 SAP 作为证据等级评定与跨项目可比性制度门槛的刚性治理功能 | 证据中介机构运营、[[What Works Clearinghouse\|WWC]]/EEF 清算标准 | The EEF (2018, 2019c); Boulay et al. (2018) |
 
 ---
@@ -200,7 +200,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] | 英国 [[Education Endowment Foundation\|EEF]] 资助开展的 95 项已完成评估报告 | 独立评估全流程审计与[[EEF Padlock Security Rating\|挂锁安全评级]]统计 | 方案[[Preregistration\|预注册]]与 SAP 发布率、3 锁以上达成比例 | 89% 的评估基于 RCT，85% 的已发表报告达成 3 把锁及以上评级（整体流失率 $< 30\%$）；强制公开预注册 SAP 与方案使得发表偏倚得到有效控制 | 85% 达成高质量安全评级 | 证明基于 SAP 的制度化规约能够在大规模国家级资助中系统性提升因果推断可信度 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 英国 [[Education Endowment Foundation\|EEF]] 资助开展的 95 项已完成评估报告 | 独立评估全流程审计与[[EEF Padlock Security Rating\|挂锁安全评级]]统计 | 方案[[Preregistration\|预注册]]与 SAP 发布率、3 锁以上达成比例 | 89% 的评估基于 RCT，85% 的已发表报告达成 3 把锁及以上评级（整体流失率 $< 30\%$）；强制公开预注册 SAP 与方案使得发表偏倚得到有效控制 | 85% 达成高质量安全评级 | 证明基于 SAP 的制度化规约能够在大规模国家级资助中系统性提升因果推断可信度 |
 > | Boulay et al. (2018) | 美国[[Institute of Education Sciences\|教育科学研究院]]（IES）[[National Center for Education Evaluation and Regional Assistance\|NCEE]] 资助的 65 项 i3 独立评估 | 跨国评估治理模式横向比较 | 自聘评估机构 vs 独立委托机构的 SAP 约束与 [[What Works Clearinghouse\|WWC]] 达标率 | 仅有刚刚超过三分之二（68%）的 i3 试验无保留达到 WWC 最高标准；与 EEF 相比，美方模式缺乏对评估者冲突与先验建模的强硬独立约束 | 显著低于 EEF 85% 的高安全比例 | 凸显了独立三方委托与强制 SAP 预注册在防范评估偏倚上的制度优越性 |
 
 ---
@@ -208,5 +208,5 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 详细阐明 [[Education Endowment Foundation\|EEF]] 如何通过将 SAP 前置备案、[[ISRCTN]] 试验注册与 NPD 数据库归档深度咬合，打造全链条透明与可复现性治理体系。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详细阐明 [[Education Endowment Foundation\|EEF]] 如何通过将 SAP 前置备案、[[ISRCTN]] 试验注册与 NPD 数据库归档深度咬合，打造全链条透明与可复现性治理体系。
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 反思[[Meta-meta-analysis\|元综合]]中纳入研究在分析方法学上的质量门槛，强调先验协议对控制二阶综合偏差的关键价值。

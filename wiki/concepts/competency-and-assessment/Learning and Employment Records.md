@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-16
 ---
 
 # Learning and Employment Records
@@ -42,7 +42,7 @@ updated: 2026-10-10
 ## 定义
 
 > [!def] 核心定义
-> **学习与就业记录（Learning and Employment Records, LER）**是一种基于开放数据标准与加密安全验证的数字化成就档案，全面、客观且互操作地记录个人在正规教育、企业[[Apprenticeship|学徒制]]、在职技能培训及非正规学习中所获得的技能、知识、微证书（Micro-credentials）与工作经历，旨在打破文凭壁垒并实现基于真实技能的终身职业流动与人岗精准匹配。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 19, 26–27)]]
+> **学习与就业记录（Learning and Employment Records, LER）** 是一种基于开放数据标准与加密安全验证的数字化成就档案，全面、客观且互操作地记录个人在正规教育、企业[[Apprenticeship|学徒制]]、在职技能培训及非正规学习中所获得的技能、知识、微证书（Micro-credentials）与工作经历，旨在打破文凭壁垒并实现基于真实技能的终身职业流动与人岗精准匹配。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 19, 26–27)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** LER 改变了传统简历和成绩单信息孤岛且缺乏客观验证的缺陷，将个体的能力解构为机器可读、产业认可且可跨平台流转的原子化胜任力单元。

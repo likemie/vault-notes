@@ -78,7 +78,7 @@ updated: 2026-10-16
 ## 核心主张
 
 > [!claim] 核心主张
-> **世界体系理论（World-Systems Theory，或称世界体系分析 World-Systems Analysis, WSA）**由美国历史社会学家[[Immanuel Wallerstein|伊曼努尔·沃勒斯坦]]（Immanuel Wallerstein）创立。该理论主张，现代世界中唯一真实的社会系统是以单一国际劳动分工为基础的资本主义世界经济体（Capitalist World-Economy）。该体系自 16 世纪欧洲发端，通过不平等交换形成了由欧美发达国家构成的“**中心**”（Core）、具备缓冲与转承功能的“**半边缘**”（Semi-periphery），以及主要由前殖民地构成的“**边缘**”（Periphery）三层结构。沃勒斯坦根本否定孤立封闭的“国家发展”假定，强调任何主权国家的制度演化都是全球资本主义总体性规律的函数；教育系统在历史上与现实中始终服务于这一等级化劳动分工与资本积累，国际援助与借贷规则本质上是维系跨国依附与阶级分层的制度化工具。
+> **世界体系理论（World-Systems Theory，或称世界体系分析 World-Systems Analysis, WSA）** 由美国历史社会学家[[Immanuel Wallerstein|伊曼努尔·沃勒斯坦]]（Immanuel Wallerstein）创立。该理论主张，现代世界中唯一真实的社会系统是以单一国际劳动分工为基础的资本主义世界经济体（Capitalist World-Economy）。该体系自 16 世纪欧洲发端，通过不平等交换形成了由欧美发达国家构成的“**中心**”（Core）、具备缓冲与转承功能的“**半边缘**”（Semi-periphery），以及主要由前殖民地构成的“**边缘**”（Periphery）三层结构。沃勒斯坦根本否定孤立封闭的“国家发展”假定，强调任何主权国家的制度演化都是全球资本主义总体性规律的函数；教育系统在历史上与现实中始终服务于这一等级化劳动分工与资本积累，国际援助与借贷规则本质上是维系跨国依附与阶级分层的制度化工具。
 
 > [!citation-card] 沃勒斯坦论资本主义世界经济体作为唯一真实[[Unit of Analysis|分析单位]]
 > 从历史社会学角度来看，主权国家不是一个自给自足的发展实体；现代世界体系中唯一的社会现实和基本分析单位是资本主义世界经济体本身。不存在所谓国家发展这回事；我们所称的国家发展，实际上只是资本主义世界经济体总体演变在特定国家地理空间中的投射。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 104)]]、[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, pp. 12–13)]]
@@ -166,7 +166,7 @@ updated: 2026-10-16
 > > [!axis] [[Methodological Globalism|方法论全球主义]]与零和假设批评
 > > 争论焦点在于世界体系分析的空间刚性与剩余假设是否符合过去三十年的全球发展现实。
 > >
-> > - **马金森（[[Argument_Marginson_2025_ECNUROE|Marginson, 2025]]）** 指出沃勒斯坦理论犯了**方法论全球主义（Methodological Globalism）**的镜像错误，将国家尺度完全化约为全球尺度的函数，否定国家自主能动性；其“零和剩余假设”被过去三十年全球科学与高等教育事实[[Falsification|证伪]]（如中国、新加坡、韩国大学的多极化崛起）。[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, pp. 12–13)]]
+> > - **马金森（[[Argument_Marginson_2025_ECNUROE|Marginson, 2025]]）** 指出沃勒斯坦理论犯了**方法论全球主义（Methodological Globalism）** 的镜像错误，将国家尺度完全化约为全球尺度的函数，否定国家自主能动性；其“零和剩余假设”被过去三十年全球科学与高等教育事实[[Falsification|证伪]]（如中国、新加坡、韩国大学的多极化崛起）。[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, pp. 12–13)]]
 > > - **[[Doreen Massey|多琳·马西]]的空间[[Multiplicity|多重性]]理论 (Massey, 2005)** 批评世界体系的空间[[Determinism|决定论]]，强调空间始终具有未完成的松散末端与[[Multiplicity|多重性]]，权力和等级结构绝非永久固定不变。[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, pp. 6–7, 12–13)]]
 >
 > > [!axis] 长时段史学理论与学科“[[Historical Amnesia|历史健忘症]]”的历史学悖论

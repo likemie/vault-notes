@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Sedentarism
@@ -136,8 +136,8 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **话语病理化命题** | 教育政策将底层空间移动贬斥为无法定居的病态缺陷，掩盖结构性不平等 | 欧美基础教育学年中途转学问责话语 | Clifford (1997); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] |
-> | **强制定居同化命题** | 国家借助正规学校物理围栏消除游牧与漫游习俗，强行植入定居文明规范 | 全球游牧民族与大篷车社群国家定居化运动 | Steiner-Khamsi & Stolpe (2006) |
+> | **话语病理化命题** | 教育政策将底层空间移动贬斥为无法定居的病态缺陷，掩盖结构性不平等 | 欧美基础教育学年中途转学问责话语 | Clifford (1997); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] |
+> | **强制定居同化命题** | 国家借助正规学校物理围栏消除游牧与漫游习俗，强行植入定居文明规范 | 全球游牧民族与大篷车社群国家定居化运动 | Steiner-Khamsi and Stolpe (2006) |
 
 ---
 
@@ -172,11 +172,11 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 美国加州及城市公立中小学流动学生群体（转引自 Rumberger, 2003） | 居住迁移与学年中途转校动因调查 | 转学动因结构构成、家庭经济背景与学校问责指标 | 发现约 60% 的中途转校由客观居住地搬迁导致，直接反驳了政策[[Discourse\|话语]]将转学完全归咎于家庭病态失范的定居主义偏见 | 大样本调查统计 | 表明底层[[Student Mobility\|学生流动]]受制于客观居住与住房市场结构，不能简化为个人品行缺陷 |
+> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 美国加州及城市公立中小学流动学生群体（转引自 Rumberger, 2003） | 居住迁移与学年中途转校动因调查 | 转学动因结构构成、家庭经济背景与学校问责指标 | 发现约 60% 的中途转校由客观居住地搬迁导致，直接反驳了政策[[Discourse\|话语]]将转学完全归咎于家庭病态失范的定居主义偏见 | 大样本调查统计 | 表明底层[[Student Mobility\|学生流动]]受制于客观居住与住房市场结构，不能简化为个人品行缺陷 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 结合欧美政策对比及亚欧非多国案例，系统批判现代教育体制中的定居主义意识形态及其对[[Migrant Children|流动儿童]]的制度排斥。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 结合欧美政策对比及亚欧非多国案例，系统批判现代教育体制中的定居主义意识形态及其对[[Migrant Children|流动儿童]]的制度排斥。

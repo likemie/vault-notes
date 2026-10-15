@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Areas of Knowledge
@@ -278,7 +278,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表研究 |
 > |---|---|---|---|
 > | **领域差异** | 方法、证据与概念标准塑造领域知识 | 学科比较、知识生产分析 | [[Argument_Darwish_2009_Queens\|Darwish (2009)]]; [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
-> | **领域与迁移** | 跨领域理解需要结合专业知识、显化原则与通用结构 | 跨学科课程、迁移任务 | [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987)]]; Ritchhart & Perkins (2005); [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
+> | **领域与迁移** | 跨领域理解需要结合专业知识、显化原则与通用结构 | 跨学科课程、迁移任务 | [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987)]]; Ritchhart and Perkins (2005); [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
 > | **分类边界** | 领域标签可能遮蔽内部差异和跨领域共享结构 | 课程分类、学科身份分析 | [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]]; [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
 > | **操作化与效度** | AOK 进入评分形成内部对齐，也可能诱发表面连接 | 评估设计、构念效度审查 | [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]]; [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
 > | **领域特异性** | 领域自身的主客观属性会钳制或催化认知阶段的跃迁 | 日常判断、认识论发展 | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] |

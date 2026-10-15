@@ -59,7 +59,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Embedded Autonomy
@@ -69,7 +69,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> **嵌入式自主性（Embedded Autonomy）**是由社会学家彼得·埃文斯（Peter Evans, 1995）提出的发展型国家能力与政治经济学核心概念；它指一种高度有效的国家治理结构形态：一方面，国家科层体系依托严格的功绩制招募、专业技术专长与崇高公共使命感，具备超脱于狭隘特殊利益集团寻租与政治俘获的**科层自主性（Bureaucratic Autonomy）**；另一方面，国家并非孤立于社会之外闭门造车，而是通过制度化的正式与非正式渠道，与产业界领袖、科学家团队及社会行动者保持密集、畅通且高度互信的信息沟通与网络联结（即**社会嵌入性 / Embeddedness**）。在[[Evolutionary Economics|演化经济学]]与现代产业战略中，嵌入式自主性被公认为解释政府如何精准掌握产业前沿痛点、同跨国巨头展开专业化谈判并坚决捍卫[[Public Value|公共价值]]与护栏约束的核心制度支柱。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–793, 796–797)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 6–7)]]
+> **嵌入式自主性（Embedded Autonomy）** 是由社会学家彼得·埃文斯（Peter Evans, 1995）提出的发展型国家能力与政治经济学核心概念；它指一种高度有效的国家治理结构形态：一方面，国家科层体系依托严格的功绩制招募、专业技术专长与崇高公共使命感，具备超脱于狭隘特殊利益集团寻租与政治俘获的**科层自主性（Bureaucratic Autonomy）**；另一方面，国家并非孤立于社会之外闭门造车，而是通过制度化的正式与非正式渠道，与产业界领袖、科学家团队及社会行动者保持密集、畅通且高度互信的信息沟通与网络联结（即**社会嵌入性 / Embeddedness**）。在[[Evolutionary Economics|演化经济学]]与现代产业战略中，嵌入式自主性被公认为解释政府如何精准掌握产业前沿痛点、同跨国巨头展开专业化谈判并坚决捍卫[[Public Value|公共价值]]与护栏约束的核心制度支柱。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–793, 796–797)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 6–7)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 破解了传统政治学将“国家自主性”与“国家–社会互动”对立的二元论，揭示了两者辩证统一的制度化形态。
@@ -149,7 +149,7 @@ updated: 2026-10-07
 > [!concept-lens] [[Market Shaping and Creating|市场塑造]]与国家能力维度
 > 探讨公共部门如何在不确定环境中确立技术演进方向。
 
-> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
+> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **信息对称与战略定力的融合** 克服[[Directionality of Innovation|创新的方向性]]失灵不仅需要国家确立宏观愿景，更需要公共机构准确掌握前沿技术瓶颈；依托嵌入式自主性，公共部门既能通过扎根产业前沿的嵌入网络获取真实技术信息，又能依托内生自主性做出不受单一寡头利益绑架的宏观战略决断，从而有效实现市场塑造与共创。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790, 796)]]
 
 ---
@@ -159,7 +159,7 @@ updated: 2026-10-07
 > [!concept-lens] [[New Public Management|NPM]] 行政改革反思维度
 > 审视[[Externalization|外部化]]外包对国家–社会健康互动的破坏。
 
-> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
+> [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **行政空心化诱发新型利益依附** [[New Public Management|新公共管理]]改革削减了公共部门内部的研发与技术专才，将核心职能外包给私营咨询公司；这不仅掏空了韦伯式精英官僚的自主分析底座，更使得国家与社会的健康嵌入退化为对少数商业咨询寡头的单向依赖（[[Consultocracy|顾问统治]]），彻底打破了嵌入式自主性赖以维系的制度平衡。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791, 795–796)]]
 
 ---
@@ -179,8 +179,8 @@ updated: 2026-10-07
 > [!contrast-table] 嵌入式自主性相关理论命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **市场塑造与方向性引领** | 嵌入式自主性兼具真实微观信息与独立战略定力，是克服方向性失灵的前提 | 使命导向创新政策、国家[[National Innovation System\|创新系统]]构建 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018, p. 793)]]; Evans (1995) |
-> | **行政空心化与失衡批判** | 新公共管理外包消解了国家内部技术专长，导致嵌入性蜕化为顾问依附 | 公共部门改革反思、政府采购与咨询业规制 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018, p. 795)]] |
+> | **市场塑造与方向性引领** | 嵌入式自主性兼具真实微观信息与独立战略定力，是克服方向性失灵的前提 | 使命导向创新政策、国家[[National Innovation System\|创新系统]]构建 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018, p. 793)]]; Evans (1995) |
+> | **行政空心化与失衡批判** | 新公共管理外包消解了国家内部技术专长，导致嵌入性蜕化为顾问依附 | 公共部门改革反思、政府采购与咨询业规制 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018, p. 795)]] |
 > | **专业化团队与防范俘获** | 组建吸纳行业专家的专业化执行机构是现代产业战略落实护栏与谈判对冲的关键 | 21 世纪现代产业政策、半导体建厂补贴谈判、重大清洁能源贷款 | [[Argument_Reynolds_2024_JICT\|Reynolds (2024, pp. 6–7)]] |
 
 ---
@@ -249,5 +249,5 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 结合彼得·埃文斯理论与[[Evolutionary Economics|演化经济学]]，剖析嵌入式自主性在国家克服方向性失灵、重塑[[Public Dynamic Capabilities|公共动态能力]]中的底层基石作用。
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 结合彼得·埃文斯理论与[[Evolutionary Economics|演化经济学]]，剖析嵌入式自主性在国家克服方向性失灵、重塑[[Public Dynamic Capabilities|公共动态能力]]中的底层基石作用。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 阐释 21 世纪美国现代产业战略中如何通过组建专业化执行团队（如芯片项目办公室 CPO）践行嵌入式自主性，提炼保障政策落地与防范寻租俘获的过程准则。

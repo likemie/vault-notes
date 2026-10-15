@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Navigational Framework for Educational Researchers
@@ -252,4 +252,4 @@ updated: 2026-10-15
 > - Oakley et al. (2013) — 理论前提：[[Six-Stage Model of Policymaking\|公共政策六阶段模型]]（Oakley 等），为四阶段导航框架提供阶段论基础。
 > - Weiss (1977, 1989) — 理论源头：论证政策制定关乎价值选择，以及国会常设委员会幕僚利用研究证据的长远视野。
 > - Nutley et al. (2002) — 四维证据吸纳框架：个人、研究契合、制度情境与政策执行可逆性。
-> - Sorian & Baugh (2002) — 决策者调研：实证揭示州高级官员对研究简练性的迫切诉求与“少即是多”原则。
+> - Sorian and Baugh (2002) — 决策者调研：实证揭示州高级官员对研究简练性的迫切诉求与“少即是多”原则。

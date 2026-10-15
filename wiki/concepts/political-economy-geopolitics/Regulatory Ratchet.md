@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-12
+updated: 2026-10-16
 ---
 
 # Regulatory Ratchet
@@ -137,8 +137,8 @@ updated: 2026-10-12
 > [!contrast-table] 规制棘轮核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **政治避责动力学命题** | 政治不对称问责驱动监管者通过加码规则防范风险，形成单向递增惯性 | 食品药品安全监管、金融审慎监管、学校安全问责 | Bardach & Kagan (1982); Kreps (1966) |
-> | **组织负荷与僵化命题** | 规则过度累加演化为合规迷宫，导致防卫性应对并侵蚀组织灵活性 | 制造业劳资关系、公共教育考评、医疗行业合规 | Florida & Kenney (1992); [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]] |
+> | **政治避责动力学命题** | 政治不对称问责驱动监管者通过加码规则防范风险，形成单向递增惯性 | 食品药品安全监管、金融审慎监管、学校安全问责 | Bardach and Kagan (1982); Kreps (1966) |
+> | **组织负荷与僵化命题** | 规则过度累加演化为合规迷宫，导致防卫性应对并侵蚀组织灵活性 | 制造业劳资关系、公共教育考评、医疗行业合规 | Florida and Kenney (1992); [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]] |
 
 ---
 

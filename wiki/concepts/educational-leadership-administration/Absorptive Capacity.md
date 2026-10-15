@@ -78,7 +78,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Absorptive Capacity
@@ -195,7 +195,7 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **认知基础先决** | 外部知识转化取决于既有认知存量与内部开放沟通网络 | 组织学习、学区评价使用与技术追赶 | Cohen & Levinthal (1990); [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]] |
+> | **认知基础先决** | 外部知识转化取决于既有认知存量与内部开放沟通网络 | 组织学习、学区评价使用与技术追赶 | Cohen and Levinthal (1990); [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] |
 > | **需求吸收使能** | 单向推送无法突破落地瓶颈，吸收能力依赖领导示范与排程工时 | 中小学[[Evidence-Informed Practice\|证据知情实践]]与[[Knowledge Mobilisation\|知识动员]]改革 | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]]; [[Argument_Torres_2022_KMModels\|Torres (2022b)]] |
 > | **合作收益调节** | 吸收能力调节[[University-Industry Collaboration\|产学合作]]创新收益，并产生资助分配马太效应 | 产学研发合作与[[National Innovation System\|国家创新体系]]治理 | [[Argument_Cohen_2025_JTT\|Cohen et al. (2025)]] |
 > | **组织异质与文化土壤** | 创新转移受制于单校组织异质性与微观文化，依赖本土情境重构与吸收能力 | 区域学校协作网络、微观学校改进与[[Transfer Science\|知识转移科学]] | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]]; van Holt (2014) |
@@ -245,8 +245,8 @@ updated: 2026-10-15
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] | 澳大利亚 4 州中小学 906 名教育者（两轮标准化[[Questionnaire\|问卷]]）及 29 名访谈者 | 两轮李克特问卷调查与主题分析[[In-depth Interview\|深度访谈]] | 实践端吸收障碍（质量甄别信心、检索能力、时间赤字）及组织使能条件 | 64% 报告检索适切研究困难；44% 自陈缺乏判断质量信心；76% 遭遇日常时间赤字；61% 因转化耗时过长认为使用不划算；校内[[Professional Learning Community\|专业学习共同体]]显著提升常规使用概率 | $p < .05$（Fisher 精确检验显著） | 基于澳大利亚基础教育教师与管理者自陈，证实了需求端吸收能力建设对突破落地瓶颈的决定性意义 |
-> | [[Argument_Glitz_2020_AER\|Glitz & Meyersson (2020)]] | 冷战时期东德工业部门与西方技术情报数据库 | 准实验计量经济分析与生产函数估计 | 工业间谍对东德部门[[Total Factor Productivity\|全要素生产率]]（TFP）的因果效应及技术差距调节 | 间谍情报对 TFP 增长的促进效应在初始与西德 TFP 差距较小的行业中最强，在落后行业中不显著 | 计量模型显著 | 强力实证支持了吸收能力假说：具备认知基础与技术存量的部门才能有效转化外部情报 |
-> | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]] | 巴尔的摩县公立学区 [[Students and Teachers Accessing Tomorrow\|STAT]] 技术改革利益相关者 | [[Formative Program Evaluation\|形成性项目评价]]、问卷与案例分析 | [[Formative Assessment\|形成性评价]]证据对学区决策、持续实施及丑闻后改革延续的支撑 | 多方证实形成性反馈在学监辞职后仍支持了项目延续；项目理解与开放沟通促成了评价证据进入实践 | — | 质性证实学区层面的吸收能力在保障复杂教育改革延续中的关键功能 |
+> | [[Argument_Glitz_2020_AER\|Glitz and Meyersson (2020)]] | 冷战时期东德工业部门与西方技术情报数据库 | 准实验计量经济分析与生产函数估计 | 工业间谍对东德部门[[Total Factor Productivity\|全要素生产率]]（TFP）的因果效应及技术差距调节 | 间谍情报对 TFP 增长的促进效应在初始与西德 TFP 差距较小的行业中最强，在落后行业中不显著 | 计量模型显著 | 强力实证支持了吸收能力假说：具备认知基础与技术存量的部门才能有效转化外部情报 |
+> | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] | 巴尔的摩县公立学区 [[Students and Teachers Accessing Tomorrow\|STAT]] 技术改革利益相关者 | [[Formative Program Evaluation\|形成性项目评价]]、问卷与案例分析 | [[Formative Assessment\|形成性评价]]证据对学区决策、持续实施及丑闻后改革延续的支撑 | 多方证实形成性反馈在学监辞职后仍支持了项目延续；项目理解与开放沟通促成了评价证据进入实践 | — | 质性证实学区层面的吸收能力在保障复杂教育改革延续中的关键功能 |
 > | [[Argument_Cohen_2025_JTT\|Cohen et al. (2025)]] | 产学研发合作（UICs）多国企业实证样本 | 跨国实证[[Literature Review\|文献综述]]与[[Meta-meta-analysis\|元综合]] | 吸收能力对企业从[[University-Industry Collaboration\|产学合作]]中获取创新绩效的[[Interaction Effect\|调节效应]] | 吸收能力薄弱的企业在正式合作中未能获得显著创新提升；高吸收力企业展现显著转化优势与资助偏向 | 综述多项计量研究结论 | 实证确立了吸收能力在产学合作创新转化中的门槛与调节效应 |
 > | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]]（引述 van Holt, 2014; Koch, 2011） | 德国鲁尔区区域学校协作网络项目（[[Schulen im Team]]）及多州学校发展样本 | 追踪评估、多案例[[Network Analysis\|网络分析]]与文献综合批判 | 学校组织[[Heterogeneity\|异质性]]与本土情境重构 vs 外部教研成果转移吸收能力 | 实证揭示单校组织异质性深刻制约外部教研方案的消化吸收；缺乏[[Reflexivity\|反思性]]校本对话与文化土壤支持的学校无法有效转化网络合作经验 | 质性与个案实证确证 | 确立学校组织异质性与微观文化对吸收能力的决定性制约，证实情境化重构是外部创新存活的前提 |
 
@@ -257,7 +257,7 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 结合全澳中小学调查，系统论证需求端吸收能力与学校组织使能条件是打破供给驱动偏误、实现高质量[[Research Utilization\|证据使用]]的核心支柱。
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 评述[[Knowledge Mobilisation\|知识动员三代演进模型]]，剖析 [[OECD]] 国家在供给推送与实践端吸收能力建设上的政策失衡与演变进路。
-> - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]] — 通过巴尔的摩 [[Students and Teachers Accessing Tomorrow\|STAT]] 项目，检验项目理解与开放沟通对学区吸收和转化评价证据的支撑机制。
-> - [[Argument_Glitz_2020_AER\|Glitz & Meyersson (2020)]] — 基于东德工业间谍数据，实证检验认知距离对技术情报吸收同化效率的调节作用。
+> - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] — 通过巴尔的摩 [[Students and Teachers Accessing Tomorrow\|STAT]] 项目，检验项目理解与开放沟通对学区吸收和转化评价证据的支撑机制。
+> - [[Argument_Glitz_2020_AER\|Glitz and Meyersson (2020)]] — 基于东德工业间谍数据，实证检验认知距离对技术情报吸收同化效率的调节作用。
 > - [[Argument_Cohen_2025_JTT\|Cohen et al. (2025)]] — 探讨产学研发合作中吸收能力的门槛与放大效应，揭示其对企业创新绩效的决定性调节机制。
 > - [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] — 结合德语区学校改革与区域协作网络实证，阐明单校组织[[Heterogeneity|异质性]]与微观文化土壤对外部科学知识吸收能力的制约机制，反思清算中心供给模式的局限。

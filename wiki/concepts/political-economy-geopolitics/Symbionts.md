@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-12
+updated: 2026-10-16
 ---
 
 # Symbionts
@@ -197,11 +197,11 @@ updated: 2026-10-12
 > |---|---|---|
 > | **[[Theory of Gradual Institutional Change\|渐进制度变迁理论]]** | [[James Mahoney\|Mahoney]] & [[Kathleen Thelen\|Thelen]] (2009) | 奠定共生者在强否决与高裁量情境下的分析地位，阐明其驱动[[Institutional Drift\|制度漂移]]与[[Institutional Conversion\|制度转换]]的机制。 |
 > | **规制经济学与利益集团理论** | Bruce Yandle (1983) | 提出[[Baptist-Bootlegger Coalition\|浸礼会与私酒贩同盟]]理论，为共生者与守旧者结成跨阵营政治联盟提供公共选择与博弈论微观基础。 |
-> | **[[Rational Action Theory\|理性行动理论]]** | Breen & Goldthorpe (1997); [[Rational Action Theory\|RAT]] | 解释寄生者利用规则字面漏洞进行自利套利的理性计算，以及互利者通过维系体制声誉扩大长期收益的策略选择。 |
+> | **[[Rational Action Theory\|理性行动理论]]** | Breen and Goldthorpe (1997); [[Rational Action Theory\|RAT]] | 解释寄生者利用规则字面漏洞进行自利套利的理性计算，以及互利者通过维系体制声誉扩大长期收益的策略选择。 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，界定共生者（寄生型与互利型）作为长期依赖制度存续、短期违规操作的变革行动者，阐明其驱动[[Institutional Drift|制度漂移]]与拓展制度稳健性的微观机制。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，界定共生者（寄生型与互利型）作为长期依赖制度存续、短期违规操作的变革行动者，阐明其驱动[[Institutional Drift|制度漂移]]与拓展制度稳健性的微观机制。

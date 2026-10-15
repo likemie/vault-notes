@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Sponsored Research Agreement
@@ -124,7 +124,7 @@ updated: 2026-10-09
 > [!concept-lens] 机制探讨维度：权利让渡博弈与制度创新
 > 该命题关注大学与企业如何在合同中对冲未来发明不可知性带来的收益分配矛盾，通过标准化期权机制降低缔约交易成本。
 
-> [!claim] [[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone (2025)]]
+> [!claim] [[Argument_Susalka_Carbone_2025_IP_Web|Susalka and Carbone (2025)]]
 > **阶段性选择权作为知识产权不确定性的制度对冲解** 学者指出，[[University-Industry Collaboration|产学合作]]缔约时最大的制度摩擦在于：企业要求在付款前锁定对未来技术的完全排他控制权，而大学受制于非营利使命与公共基金监管，绝不能在发明价值尚未显现时廉价抛售前景专利。标准 SRA [[Creativity|创造性]]地引入了“初始 NERF 内部使用 + 有限期商业独占选择权”的期权机制，一方面保证了企业能立刻将学术成果用于内部工艺改进与技术验证，另一方面留出 6 个月的窗口期使技术成熟度与商业潜力得以充分暴露。这种期权设计不仅保护了高校免受贱卖国有资产的指责，更避免了企业在早期为不确定的发明支付高额沉没成本。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, pp. 276–277, 281–282)]]
 
 ---
@@ -144,7 +144,7 @@ updated: 2026-10-09
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **法律期权配置命题** | 以“内部 NERF + 有限期独占选择权”阶梯对冲早期发明不确定性 | [[Technology Transfer\|大学技术转移]]办公室与跨国企业法务团队的知识产权博弈 | [[Argument_Susalka_Carbone_2025_IP_Web\|Susalka & Carbone (2025)]] |
+> | **法律期权配置命题** | 以“内部 NERF + 有限期独占选择权”阶梯对冲早期发明不确定性 | [[Technology Transfer\|大学技术转移]]办公室与跨国企业法务团队的知识产权博弈 | [[Argument_Susalka_Carbone_2025_IP_Web\|Susalka and Carbone (2025)]] |
 > | **组织两阶段监护命题** | 中央 AET 早期全额孵化监护，成熟后交接业务线进行工程转化 | 大型跨国高科技企业处理前瞻基础研究与季度产品交付周期的冲突 | [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025)]] |
 
 ---
@@ -182,9 +182,9 @@ updated: 2026-10-09
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall (2025b, p. 65)]] | 全美 $N = 65$ 所 [[University Industry Demonstration Partnership\|UIDP]] 顶尖成员大学 | 跨院校机构[[Questionnaire\|问卷调查]] | 大学中心[[University-Industry Collaboration\|产学合作]]办公室管辖业务覆盖率 | **68%** 的中心办公室将产业赞助研究作为第一核心职责，在全部合作模式中位列榜首 | 描述性统计频数占比 | 显示赞助研究在现代[[Research Universities\|研究型大学]]产学战略中的主导支柱地位 |
-> | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall (2025b, p. 67)]] | 全美 $N = 65$ 所 UIDP 成员大学专职从业人员 | 从业者职责抽样调查 | 大学企业关系官员日常业务涉及率 | **80%** 的企业关系专职官员负责谈判产业赞助研究合同，在全部个人职责中稳居第一位 | 描述性统计频数占比 | 说明 SRA 缔约与利益协调是产学界面从业者最耗费精力的高频核心工作 |
-> | [[Argument_Susalka_Carbone_2025_IP_Web\|Susalka & Carbone (2025)]] | 宾夕法尼亚州立大学（Penn State）产业赞助项目实操案例池 | 机构创新管理制度追踪 | 预付费知识产权（Pre-paid IP）选项采纳分布 | 提供选项 A（10% 预付锁定排他）、选项 B（标准 \$0 预付）与选项 C（10% 预付锁定非排他商业权） | 描述性实践分布模式 | 证明高校通过前端阶梯式定价可显著消弭后期冗长专利谈判造成的转化摩擦 |
+> | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso and Hall (2025b, p. 65)]] | 全美 $N = 65$ 所 [[University Industry Demonstration Partnership\|UIDP]] 顶尖成员大学 | 跨院校机构[[Questionnaire\|问卷调查]] | 大学中心[[University-Industry Collaboration\|产学合作]]办公室管辖业务覆盖率 | **68%** 的中心办公室将产业赞助研究作为第一核心职责，在全部合作模式中位列榜首 | 描述性统计频数占比 | 显示赞助研究在现代[[Research Universities\|研究型大学]]产学战略中的主导支柱地位 |
+> | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso and Hall (2025b, p. 67)]] | 全美 $N = 65$ 所 UIDP 成员大学专职从业人员 | 从业者职责抽样调查 | 大学企业关系官员日常业务涉及率 | **80%** 的企业关系专职官员负责谈判产业赞助研究合同，在全部个人职责中稳居第一位 | 描述性统计频数占比 | 说明 SRA 缔约与利益协调是产学界面从业者最耗费精力的高频核心工作 |
+> | [[Argument_Susalka_Carbone_2025_IP_Web\|Susalka and Carbone (2025)]] | 宾夕法尼亚州立大学（Penn State）产业赞助项目实操案例池 | 机构创新管理制度追踪 | 预付费知识产权（Pre-paid IP）选项采纳分布 | 提供选项 A（10% 预付锁定排他）、选项 B（标准 \$0 预付）与选项 C（10% 预付锁定非排他商业权） | 描述性实践分布模式 | 证明高校通过前端阶梯式定价可显著消弭后期冗长专利谈判造成的转化摩擦 |
 
 
 ---
@@ -192,6 +192,6 @@ updated: 2026-10-09
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone (2025)]] — 系统拆解了赞助研究协议中的核心法律条款、[[Foreground IP|FIP]] 与 [[Background IP|BIP]] 权利转让谱系、论文发表审查机制、PBU 税务限制及宾州州立等创新预付费许可模式。
+> - [[Argument_Susalka_Carbone_2025_IP_Web|Susalka and Carbone (2025)]] — 系统拆解了赞助研究协议中的核心法律条款、[[Foreground IP|FIP]] 与 [[Background IP|BIP]] 权利转让谱系、论文发表审查机制、PBU 税务限制及宾州州立等创新预付费许可模式。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 提出了基于时间尺度层次的[[University-Industry Collaboration|产学合作]]契约工具矩阵，构建了企业中央 [[Academic Engagement Team|AET]] 与业务产品线协同管理长周期 SRA 的“两阶段监护与职能转移模型”。
-> - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] — 依托全美 65 所顶尖大学调查实证数据，揭示了赞助研究协议在高校中心产学管理机构及企业关系专职谈判人员业务中的核心统领地位。
+> - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso and Hall (2025b)]] — 依托全美 65 所顶尖大学调查实证数据，揭示了赞助研究协议在高校中心产学管理机构及企业关系专职谈判人员业务中的核心统领地位。

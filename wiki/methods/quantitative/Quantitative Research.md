@@ -113,7 +113,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Quantitative Research
@@ -233,7 +233,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 评述[[Scientific Method\|科学方法]]与实证量化进路的发展历程，对其机械还原论与计算崇拜发起[[Epistemology\|认识论]]批判。
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 确立量化研究在[[Postpositivism\|后实证主义]]世界观下的操作框架与调查/实验规范流程。
+> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 确立量化研究在[[Postpositivism\|后实证主义]]世界观下的操作框架与调查/实验规范流程。
 > - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 追踪教育心理学顶级期刊中量化[[Intervention Research\|干预研究]]与[[Non-intervention Research\|非干预研究]]的方法学分布与演进轨迹。
 > - [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] — 警示量化实证研究脱离伦理审视时沦为政治宣传与绩效控制工具的方法论风险。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 在比较教育学方法论史综述中，引用斯塔克 (1995) 对量化研究致力于“解释与控制”取向的经典界定，反思实证科学化追求与比较教育自然情境、非同质文化单位之间的认识论张力。
