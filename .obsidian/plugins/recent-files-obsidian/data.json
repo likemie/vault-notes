@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Inter-Rater Reliability",
-      "path": "wiki/methods/quantitative/Inter-Rater Reliability.md"
+      "basename": "Classroom Observation",
+      "path": "wiki/methods/qualitative/Classroom Observation.md"
     },
     {
       "basename": "Argument_WorldBank_2019_Teach",
       "path": "wiki/arguments/reports-policy-documents/Argument_WorldBank_2019_Teach.md"
+    },
+    {
+      "basename": "Inter-Rater Reliability",
+      "path": "wiki/methods/quantitative/Inter-Rater Reliability.md"
     },
     {
       "basename": "Observation Protocol",
@@ -195,10 +199,6 @@
     {
       "basename": "European Education Space",
       "path": "wiki/concepts/comparative-education/European Education Space.md"
-    },
-    {
-      "basename": "Academic Inbreeding",
-      "path": "wiki/concepts/higher-education/Academic Inbreeding.md"
     }
   ],
   "omittedPaths": [],
